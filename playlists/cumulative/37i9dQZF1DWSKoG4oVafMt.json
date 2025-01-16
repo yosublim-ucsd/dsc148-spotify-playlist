@@ -2719,6 +2719,24 @@
     },
     {
       "album": {
+        "name": "Channa",
+        "url": "https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206025,
+      "name": "Channa",
+      "url": "https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O"
+    },
+    {
+      "album": {
         "name": "Cheen Meen",
         "url": "https://open.spotify.com/album/6ALlXv8l0vHVkHKkmWJNwO"
       },
@@ -13734,7 +13752,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 156493,
       "name": "Pyaar Aunda Jatt Nu",
       "url": "https://open.spotify.com/track/3e9ioFqFT7S3kvdRGkDLQf"

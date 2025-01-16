@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-08-08",
-  "description": "The top 50 tracks from Fresh Finds Heavy in 2024. Cover: Undeath | Artwork: Nejc Prah",
-  "name": "Best of Fresh Finds Heavy 2024",
+  "description": "New music by the heaviest independent artists every Wednesday. Cover: Church Outfit | Artwork: Nejc Prah",
+  "name": "Fresh Finds Heavy",
   "tracks": [
     {
       "album": {
@@ -60,6 +60,24 @@
       "duration_ms": 76466,
       "name": "ACOLYTE",
       "url": "https://open.spotify.com/track/4EVjNQpQzLWv2yAZDYwAvW"
+    },
+    {
+      "album": {
+        "name": "ADL",
+        "url": "https://open.spotify.com/album/6oLHw2oSgYpUZEEhWKMFVk"
+      },
+      "artists": [
+        {
+          "name": "FreeHowling",
+          "url": "https://open.spotify.com/artist/1BYd3uRtgiwyUbz7Jg9RhG"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166000,
+      "name": "ADL",
+      "url": "https://open.spotify.com/track/0eSNQzRYFGS91uHyAeki6e"
     },
     {
       "album": {
@@ -212,6 +230,24 @@
       "duration_ms": 247320,
       "name": "Aquila",
       "url": "https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2"
+    },
+    {
+      "album": {
+        "name": "Arimortis",
+        "url": "https://open.spotify.com/album/1PocWHv4LCitKv7lkBuExQ"
+      },
+      "artists": [
+        {
+          "name": "Necrodeath",
+          "url": "https://open.spotify.com/artist/73n8NYaqRf2oJBuK7lWq0O"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219151,
+      "name": "Arimortis",
+      "url": "https://open.spotify.com/track/3necCuU4xO4oecozXxwQay"
     },
     {
       "album": {
@@ -471,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Bury Me (One Thousand Times)",
+        "url": "https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg"
+      },
+      "artists": [
+        {
+          "name": "Church Tongue",
+          "url": "https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Bury Me (One Thousand Times)",
+      "url": "https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF"
+    },
+    {
+      "album": {
         "name": "Can't Stand No One",
         "url": "https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d"
       },
@@ -594,6 +648,24 @@
       "duration_ms": 201666,
       "name": "Crazy One",
       "url": "https://open.spotify.com/track/19nWPTuIPfi0Cel9Gg6oYx"
+    },
+    {
+      "album": {
+        "name": "creep.",
+        "url": "https://open.spotify.com/album/4U23GK6lMmB6hT5P6N0MYL"
+      },
+      "artists": [
+        {
+          "name": "THROATCUT.",
+          "url": "https://open.spotify.com/artist/47gBz1Pk9infYqGMRxj6f5"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194484,
+      "name": "creep.",
+      "url": "https://open.spotify.com/track/5NOCTGgUKlYTlcSaDPdSa4"
     },
     {
       "album": {
@@ -2796,6 +2868,28 @@
       "duration_ms": 299154,
       "name": "Upon Burdened Hands",
       "url": "https://open.spotify.com/track/6HCPb0UNjcCaltfCnxxDdg"
+    },
+    {
+      "album": {
+        "name": "vain conceit",
+        "url": "https://open.spotify.com/album/5BxvyQTt8bX2iiQTevhVZO"
+      },
+      "artists": [
+        {
+          "name": "TCHERT",
+          "url": "https://open.spotify.com/artist/50Hdzlt6WowML3w17jakU7"
+        },
+        {
+          "name": "Escalate",
+          "url": "https://open.spotify.com/artist/2lvaaZdFEyfg3Ut0sBKinJ"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197124,
+      "name": "vain conceit",
+      "url": "https://open.spotify.com/track/5deTZlsApQuqK6U7zkGdb9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 
 > afrobeats: best served chill
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,804 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,819 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2YOadVouRc8.md) - [plain]
 | 44 | [Finish Me](https://open.spotify.com/track/3BDcZ3uPxpKYEJCfItLV2h) | [Chop Daily](https://open.spotify.com/artist/36cvcz2WaGMpYLeFaeWZUG), [FirstKlaz](https://open.spotify.com/artist/6VPpDxzOXTPNsdxfJ5cAR5), [Ransom Beatz](https://open.spotify.com/artist/6fzdE3sz7e6kFOwOywdmiy), [Big Tobz](https://open.spotify.com/artist/5mJzAPLj72Ifm4MdYS08uK) | [Finish Me](https://open.spotify.com/album/3sVIR1mKqq5oSE8UKwFvES) | 2:11 |
 | 45 | [ARABAMBI](https://open.spotify.com/track/1CH0DtnpkZ6peTWY1EadHu) | [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [ARABAMBI](https://open.spotify.com/album/0aqdDNCzRkyTKA8fqy1NK1) | 3:10 |
 | 46 | [You](https://open.spotify.com/track/5N2GjhSAg6jNO7yHyV1mIW) | [Majeeed](https://open.spotify.com/artist/3xBgAZIqiYzRh0Du0uXFAk) | [You](https://open.spotify.com/album/77bslM0qd2KnYYxXgVx86b) | 2:15 |
-| 47 | [Sara Jay](https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [12 Summers \(Summerfornication\) \[Deluxe Edition\]](https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7) | 3:00 |
-| 48 | [No Games](https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [No Games](https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B) | 2:49 |
+| 47 | [No Games](https://open.spotify.com/track/4Sh32wmapklcUk7JgbItFF) | [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [No Games](https://open.spotify.com/album/28CpcoXaOfvnzgNsY9xB5B) | 2:49 |
+| 48 | [Sara Jay](https://open.spotify.com/track/1IggNH1lZpnxFQOH4fmCa4) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [12 Summers \(Summerfornication\) \[Deluxe Edition\]](https://open.spotify.com/album/32iD1vX0ze5ugqdqXY4RU7) | 3:00 |
 | 49 | [Sweet For Joy](https://open.spotify.com/track/2AZZcgK1vMSiftm6ZbLeg5) | [Amexin](https://open.spotify.com/artist/2IKBoibZDvoYFcmUV4wELI), [DJ Tunez](https://open.spotify.com/artist/64oW4P0vsDhlorOxZKQi6a) | [Sweet For Joy](https://open.spotify.com/album/55F503E4VEgnfSDybeUoU7) | 2:45 |
 | 50 | [mo de ma \[by any minz\]](https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [mo de ma \[by any minz\]](https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk) | 2:57 |
 | 51 | [Dis Kain Luv](https://open.spotify.com/track/6vpC9vAX6UsuxTAlclCFDd) | [Soundz](https://open.spotify.com/artist/6xjZjxAxA1nxvIBPbOpAa0), [Bad Boy Timz](https://open.spotify.com/artist/68R39izwNAztATrXMOqkJS) | [Dis Kain Luv](https://open.spotify.com/album/42kZLEMm7IxL1CjW88NGg1) | 2:32 |

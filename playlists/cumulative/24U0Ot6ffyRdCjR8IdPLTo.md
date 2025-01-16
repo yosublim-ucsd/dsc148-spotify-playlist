@@ -4,7 +4,7 @@
 
 > Get in the zone with this fresh mix of chill music to study to.
 
-339 songs - 18 hr 36 min
+340 songs - 18 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -328,6 +328,7 @@
 | [Walk Away](https://open.spotify.com/track/3pU3YqYxqRu4YDlI2HKztu) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Walk Away](https://open.spotify.com/album/581nUN68UXJnxRqAtwZvWs) | 3:09 | 2021-12-06 | 2023-08-16 |
 | [wanderer](https://open.spotify.com/track/6TQD8mf4JPOJAeOohrikv5) | [Fletcher Reed](https://open.spotify.com/artist/2sQKM93VxtEcafQ1f1ukgl), [WEI](https://open.spotify.com/artist/2jOSQFHIeUc2OcPx8tSaTw) | [wanderer](https://open.spotify.com/album/1ECuomZWSGJ6ERgXtnSjtA) | 1:46 | 2021-12-06 | 2023-08-16 |
 | [Warm Body](https://open.spotify.com/track/4pIhmvniF8QKJBxE0oPQmp) | [Nell Mescal](https://open.spotify.com/artist/4jRq9On9S1F6JkTebaZHqE) | [Warm Body](https://open.spotify.com/album/6zGTF7LNVhBNJGbvrcxcK5) | 4:32 | 2024-03-08 |  |
+| [Was It A Dream? \- Stripped](https://open.spotify.com/track/0EzbHF72gd8J0QJckmMSco) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [Gravity \(Stripped\)](https://open.spotify.com/album/1vckHIXW954QG1MXYaWHm4) | 3:04 | 2025-01-15 |  |
 | [Was It Something I Said](https://open.spotify.com/track/65j65yDSE06CNKAPjsHoJt) | [MyKey](https://open.spotify.com/artist/191tnItkCke3YcHpUxDOD9) | [Was It Something I Said](https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH) | 3:40 | 2023-08-28 | 2024-06-15 |
 | [we can't be friends \(wait for your love\)](https://open.spotify.com/track/0sxhuHohfBiqizpDECzTBq) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine \(slightly deluxe\)](https://open.spotify.com/album/7o1sRzLtTs8dAkvYxHtDVb) | 3:48 | 2024-03-15 | 2024-03-23 |
 | [we were girls together](https://open.spotify.com/track/2wDdIa985VGHn5T1b6I1sK) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [we were girls together](https://open.spotify.com/album/6AkpdhHYGk8W9EriKfpLQj) | 2:17 | 2023-08-28 | 2023-09-23 |

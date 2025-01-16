@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: GFRIEND(\uc5ec\uc790\uce5c\uad6c) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
+  "description": "Max out your sugar content with these pure and aegyo tracks from our favorite ladies. Cover: BBGIRLS(\ube0c\ube0c\uac78) (\uc0c1\ud07c\ud558\uace0 \ubc1c\ub784, \uccad\uc21c\ud55c \uc5ec\uc544\uc774\ub3cc\uc758 \uc138\uacc4\uc5d0 \ube60\uc838\ubcf4\uc138\uc694!)",
   "name": "Satang Mix (\uc0ac\ud0d5 \ubbf9\uc2a4)",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 169906,
       "name": "#menow",
       "url": "https://open.spotify.com/track/4lIAPwAU6R8PAy2WhykC4i"
@@ -272,6 +272,24 @@
       "duration_ms": 255567,
       "name": "Allegro Cantabile",
       "url": "https://open.spotify.com/track/7eufeVpHKJY8KdElThuv2h"
+    },
+    {
+      "album": {
+        "name": "Season of Memories (Special Album)",
+        "url": "https://open.spotify.com/album/3RKQHq3qRjvC1haI9WxOKM"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181150,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1wTCkIx6HbNdTxSQNgweCc"
     },
     {
       "album": {
@@ -772,7 +790,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 179275,
       "name": "Bubble",
       "url": "https://open.spotify.com/track/4P5ozkI1bxiGxA5rZ27jlO"
@@ -3762,6 +3780,24 @@
       "duration_ms": 204706,
       "name": "Lost Dreams",
       "url": "https://open.spotify.com/track/1bD1saiO45a4GBgsTByTfn"
+    },
+    {
+      "album": {
+        "name": "LOVE 2",
+        "url": "https://open.spotify.com/album/6CXe6T3fygwEdPdIAquWuS"
+      },
+      "artists": [
+        {
+          "name": "BBGIRLS",
+          "url": "https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169160,
+      "name": "LOVE 2",
+      "url": "https://open.spotify.com/track/59IQKPXEbdOdRxx889fBBO"
     },
     {
       "album": {

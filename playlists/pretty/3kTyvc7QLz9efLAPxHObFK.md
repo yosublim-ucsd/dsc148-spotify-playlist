@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,941 songs - 4 day 7 hr 11 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,943 songs - 4 day 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1949,5 +1949,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1939 | [WE ARE FREE](https://open.spotify.com/track/5h1iSn0vuyKgPbqZcmitXI) | [Loner](https://open.spotify.com/artist/3dzQCe5nzyqtcpQCnK7hry) | [WE ARE FREE](https://open.spotify.com/album/3PavRoIx6VZCuDekkH4GMa) | 2:00 |
 | 1940 | [All I Need](https://open.spotify.com/track/5azkhpjdETqx7ftzxYuCYe) | [Jackro](https://open.spotify.com/artist/2DmEO1qBeq9jc3HPI7V3H5) | [All I Need](https://open.spotify.com/album/2lH4Z9ifgS7aG0nylev1ao) | 3:25 |
 | 1941 | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/track/0CUeNPfczZYcb0IdV1CeqL) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/album/6m5mmcB1gIUvS8khA3n1we) | 4:12 |
+| 1942 | [Parachute](https://open.spotify.com/track/7wAFNsuX7aVUkSHtKQmamx) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [Bonkers](https://open.spotify.com/artist/3pEPRYJ1ieg3fRnYd0YIyV) | [Parachute](https://open.spotify.com/album/6wSg8VmXMyVWDPLk1O2pcV) | 3:29 |
+| 1943 | [Looking](https://open.spotify.com/track/0hcDR1QfjuaVvh6qWno9zC) | [Udow](https://open.spotify.com/artist/0ks7tKbD7vxmutoXPuwxnB) | [Looking](https://open.spotify.com/album/18xUKvGbm2ikyJEkCG80s8) | 3:20 |
 
-Snapshot ID: `AAAHzd1yHxfpaKpqEjFi4dfDQB5HYl/N`
+Snapshot ID: `AAAHz8X/O5tT4tlT0kn4Q74s3dROdBFh`

@@ -2,9 +2,9 @@
 
 ### [Fresh Finds GSA](https://open.spotify.com/playlist/37i9dQZF1DX2ddCYH6QIK5)
 
-> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: Ben Georgi, Artwork: Isu Kim
+> The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: laela, Artwork: Isu Kim
 
-1,285 songs - 3 day 1 hr 13 min
+1,289 songs - 3 day 1 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,7 +104,7 @@
 | [Bad Girls](https://open.spotify.com/track/5qCIiZNPywXtfgw4EQRDPd) | [Mina Richman](https://open.spotify.com/artist/0xEoOgwjjJQ9uDS8y1GtEC) | [Bad Girls](https://open.spotify.com/album/7DOmk3H3YwxhYKLDPa0GZ9) | 2:43 | 2022-03-02 | 2023-01-05 |
 | [bad news](https://open.spotify.com/track/0XDXLhOaVVzlE3VWaZcKie) | [katya.](https://open.spotify.com/artist/6AU4XrkjmG0EpBF9YvXm9O) | [bad news](https://open.spotify.com/album/3omyQTYldkBSvcmZlleVmq) | 2:59 | 2023-03-08 | 2024-01-04 |
 | [Baddest Me](https://open.spotify.com/track/6nS8pvguEjOZAa0cqcPrHc) | [Nnella](https://open.spotify.com/artist/1BxL57Hm6Vuo7tmkEfAvQi) | [Baddest Me](https://open.spotify.com/album/1A8cdgR0tplJFJlGV1yfCu) | 2:51 | 2024-01-10 | 2024-02-15 |
-| [Baddietransfer](https://open.spotify.com/track/7059PJ3mKKQV9BscOyzepA) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [Baddietransfer](https://open.spotify.com/album/55g02frKoCk9d1jKn9NsPH) | 2:31 | 2024-11-13 |  |
+| [Baddietransfer](https://open.spotify.com/track/7059PJ3mKKQV9BscOyzepA) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [Baddietransfer](https://open.spotify.com/album/55g02frKoCk9d1jKn9NsPH) | 2:31 | 2024-11-13 | 2025-01-16 |
 | [Badehose](https://open.spotify.com/track/39kX0o5hZrhSDhytmclSym) | [Team Delphin](https://open.spotify.com/artist/5YLOZ7Z3mVbgAibEdo1nks) | [Badehose](https://open.spotify.com/album/1I6FWMxvp5JvxxI375PRmp) | 2:26 | 2022-07-20 | 2022-08-04 |
 | [Baghira](https://open.spotify.com/track/4QuoelVf8l7Q9xMiu2f6SG) | [Montezuma](https://open.spotify.com/artist/6AgAUwug3IMyaejTUjnkhU) | [Baghira](https://open.spotify.com/album/5pz7Iyiq1c7zk2wQgOs1By) | 6:34 | 2022-01-05 | 2022-01-27 |
 | [Ballet](https://open.spotify.com/track/1HRLsCPOgE5iYoeNWBrAg5) | [Daada](https://open.spotify.com/artist/6IgM3LTBZqe39HgR9M3vXk) | [Ballet](https://open.spotify.com/album/2Re3ykYtXdXHtKdHqExWFr) | 3:26 | 2022-06-01 | 2022-07-07 |
@@ -423,7 +423,8 @@
 | [Frankenstein & Cinderella](https://open.spotify.com/track/7BzX987kOARQpMWbwAM2cU) | [Kiksio](https://open.spotify.com/artist/3bJz2GHDJ6SFRAJlX4uCMG), [Skili](https://open.spotify.com/artist/04rFSfbOzAuoaDSikfpkeM) | [Frankenstein & Cinderella](https://open.spotify.com/album/4kZ4prtkxDYS7IRcTasApv) | 3:20 | 2024-06-05 | 2024-10-03 |
 | [frau am fenster](https://open.spotify.com/track/5MPa6KAALJ3tLinAiadUQD) | [Grossstadtkind](https://open.spotify.com/artist/3waoDSwZSvTimA89wM3I3Y), [Frisch](https://open.spotify.com/artist/1W0yDLUTQ7kcFoDYc9Ihgf) | [kaffee, sonne, sonnenschein](https://open.spotify.com/album/07upx3FsjcW6vCF3PYfs51) | 3:12 | 2024-09-25 |  |
 | [FREAK](https://open.spotify.com/track/2NQqdsHuRFqH8LjmN9CuCN) | [ille](https://open.spotify.com/artist/7g79cTw7g3WQ9QUTCDqirz) | [FREAK](https://open.spotify.com/album/6v55SMgrFz7IMDPlyUG3NI) | 3:42 | 2024-11-13 |  |
-| [Frei](https://open.spotify.com/track/6htgH0ecztsWPJskOLT6GQ) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Frei](https://open.spotify.com/album/4YjaesHivm4qY3dHcvvYfW) | 3:17 | 2024-07-03 |  |
+| [Frei](https://open.spotify.com/track/6htgH0ecztsWPJskOLT6GQ) | [elia](https://open.spotify.com/artist/1UjKYskUYIgAunG722zG3I) | [Frei](https://open.spotify.com/album/4YjaesHivm4qY3dHcvvYfW) | 3:17 | 2024-07-03 | 2025-01-16 |
+| [Fremde Stadt](https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi) | [laela](https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF) | [Fremde Stadt](https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E) | 2:11 | 2025-01-15 |  |
 | [Fresh Ownder](https://open.spotify.com/track/7nQ5PX5BVvSbD9B9IGZQr2) | [TENH](https://open.spotify.com/artist/5RXzeUUXqQa4lAM0jCqlXL) | [Fresh Ownder](https://open.spotify.com/album/1EFmBKBuSMIjIKaHxP3j1U) | 5:13 | 2023-04-05 | 2023-09-07 |
 | [Fruit Of Mine](https://open.spotify.com/track/4IlNF4KfjZn09M6H4o7vLD) | [Luce](https://open.spotify.com/artist/5Sr7CnNL23dTAWDetyUIAQ) | [Am I Slow Enough?](https://open.spotify.com/album/44Q6i6BguYKfXJKGx3ZECo) | 3:30 | 2022-03-23 | 2022-03-31 |
 | [Fruitarian Girl](https://open.spotify.com/track/2FknSy7oUAfNwbcfWRfL0U) | [Reeves](https://open.spotify.com/artist/5ZbtUuYQEeCSaRWICy4dPZ) | [Fruitarian Girl](https://open.spotify.com/album/6vZtIGnwoYjnky8Livu4WU) | 4:35 | 2022-01-05 | 2022-03-08 |
@@ -659,6 +660,7 @@
 | [Lantern](https://open.spotify.com/track/2sToQDhcxwguNcbzFueTVT) | [SP\-Mato](https://open.spotify.com/artist/1UirLyIwdIElsaGCp0W4Ym) | [Lantern](https://open.spotify.com/album/3hq0lmCHxCKFqFaYItuWwz) | 1:54 | 2022-02-02 | 2022-04-21 |
 | [Lass los](https://open.spotify.com/track/6ZBfERrUbkaQrJqLJ5Dtnz) | [FRINC](https://open.spotify.com/artist/4HVsR46MFIdiqzykSpWy2i) | [Lass los](https://open.spotify.com/album/4olvFq7e2GBc9TooavfoPi) | 3:10 | 2022-01-05 | 2022-03-03 |
 | [Lass mich gehen](https://open.spotify.com/track/34GfArgwrSQQHocMFMapiA) | [Sovii](https://open.spotify.com/artist/6y73IbMKAfvV5eI88Q4oWA) | [Lass mich gehen](https://open.spotify.com/album/5YF01oLBlMxJfdSigjCh63) | 2:13 | 2023-05-31 | 2023-07-13 |
+| [Lass Mich Nicht Im Regen Stehen](https://open.spotify.com/track/1QvP3sjyifts4lYgwxDxqp) | [Gustav Gurke](https://open.spotify.com/artist/6uGRXaaFHbkrFXccdM1WUU) | [Lass Mich Nicht Im Regen Stehen](https://open.spotify.com/album/68kmmvtydCa5ffI4oibOaH) | 3:46 | 2025-01-15 |  |
 | [Lately](https://open.spotify.com/track/3ReVWeeH0a44SLYlfrvJuB) | [Padi](https://open.spotify.com/artist/3BqbpG4GyEmaybhZSclexV) | [Lately](https://open.spotify.com/album/0HcJAYxLG2dUCPZtCwhLt3) | 3:34 | 2023-06-07 | 2024-01-04 |
 | [Laufen](https://open.spotify.com/track/5LXHSMvqTonMnHI8r8rys6) | [WAHNSCHAFFE](https://open.spotify.com/artist/2NnBz1FZqbjNd17dBBMsdh) | [Laufen](https://open.spotify.com/album/2dakEVmPv4LIeEiVVXkspV) | 4:06 | 2024-02-14 | 2024-04-04 |
 | [Laura](https://open.spotify.com/track/20THYUWiTFveytALH4pyUD) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [Laura](https://open.spotify.com/album/5yjJyNylWf8IgBjgtramLD) | 2:22 | 2022-01-05 | 2022-01-20 |
@@ -682,7 +684,7 @@
 | [Lichtblick](https://open.spotify.com/track/3hZKeMBXB7swz85lkuMZyX) | [NIEMALS](https://open.spotify.com/artist/1yY1FbNGJVyaTQQ62PYv9y) | [Lichtblick](https://open.spotify.com/album/6Einzy6kxuwNopqb81HfHk) | 2:50 | 2024-06-26 | 2024-08-22 |
 | [Lichter](https://open.spotify.com/track/6l8u6FeBVtdruvoIwQjrct) | [wylhem](https://open.spotify.com/artist/5rRyC53HYyWwWChzlbIgbS) | [Lichter](https://open.spotify.com/album/5GhvA64GvSFjI7cQfoinmK) | 2:11 | 2024-11-20 |  |
 | [Lie To You](https://open.spotify.com/track/6FKIKLy6wDeFgRBpEIRnmh) | [TALYA](https://open.spotify.com/artist/3pERWvcXQcstiJ8KV7IB5B) | [Lie To You](https://open.spotify.com/album/0S6edkCoX4LNC9wm01AmG9) | 3:35 | 2022-02-23 | 2022-05-19 |
-| [Lieben und Zerstören](https://open.spotify.com/track/1ghCtU5zL5wVNuB2mj227i) | [FRIEDRICH](https://open.spotify.com/artist/4oZOjbIPQRgnjvtMhGYU2c) | [Lieben und Zerstören](https://open.spotify.com/album/5CJVwptBouh4Vt8Jmfy8vY) | 3:41 | 2024-06-05 |  |
+| [Lieben und Zerstören](https://open.spotify.com/track/1ghCtU5zL5wVNuB2mj227i) | [FRIEDRICH](https://open.spotify.com/artist/4oZOjbIPQRgnjvtMhGYU2c) | [Lieben und Zerstören](https://open.spotify.com/album/5CJVwptBouh4Vt8Jmfy8vY) | 3:41 | 2024-06-05 | 2025-01-16 |
 | [Liebesbriefe](https://open.spotify.com/track/6lVRDNNb4omegvDYORrAet) | [Arctic8](https://open.spotify.com/artist/06uvtPo2ZlLhC4yKI5i2Is) | [Liebesbriefe](https://open.spotify.com/album/75WcHRxhZRy1zGlzoRTeFa) | 4:14 | 2023-03-01 | 2023-08-10 |
 | [Liebesbriefe](https://open.spotify.com/track/45roVuodsjHKjPeEL0Gru1) | [fyne](https://open.spotify.com/artist/2lyQfIs0ETWBA7xwQC8yDH) | [Liebesbriefe](https://open.spotify.com/album/5mRgMgdVXGxaWEpgrshO9a) | 2:21 | 2024-05-15 | 2025-01-10 |
 | [life is good \- edit](https://open.spotify.com/track/0X3qqqrbSVnkZJkfHozQQJ) | [RAFFL](https://open.spotify.com/artist/7aTha9gJAg4C4OZV24F3IF) | [life is good \(edit\)](https://open.spotify.com/album/5QCBPqx56QmCnJNCaJc7gl) | 3:44 | 2024-07-31 |  |
@@ -714,7 +716,7 @@
 | [Love the game](https://open.spotify.com/track/71xizzTz1gW1vyvAaFuSqm) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [Burnout](https://open.spotify.com/album/1wv9wqL30lctVOaZq3pKEb) | 2:41 | 2023-11-29 | 2024-01-04 |
 | [Lovehandles](https://open.spotify.com/track/3AsNe3RSFG6V08WBQCBXQN) | [Eli Riccardi](https://open.spotify.com/artist/2sAsWXrp3h7Co0Nkwh5Wxg) | [Lovehandles](https://open.spotify.com/album/3eqzCzNCa8zfiT779VdViv) | 2:07 | 2023-04-05 | 2023-06-01 |
 | [Lover](https://open.spotify.com/track/2OD1NHkIO0MseMj2GBCa0r) | [Nico Bleak](https://open.spotify.com/artist/3EfroYSCAxCXXS0vzbOwBM) | [Lover](https://open.spotify.com/album/1at1kV5KU6p90H4Z7dPoGV) | 3:31 | 2024-03-13 | 2024-06-01 |
-| [lovetoy](https://open.spotify.com/track/1K6XPaAdtg86YgjZ96INuU) | [deafdawg](https://open.spotify.com/artist/1clTFhniQ1PNjzuju0bQUh) | [lovetoy](https://open.spotify.com/album/7ycKwibwRZIGl8Yts17HWh) | 2:17 | 2024-11-13 |  |
+| [lovetoy](https://open.spotify.com/track/1K6XPaAdtg86YgjZ96INuU) | [deafdawg](https://open.spotify.com/artist/1clTFhniQ1PNjzuju0bQUh) | [lovetoy](https://open.spotify.com/album/7ycKwibwRZIGl8Yts17HWh) | 2:17 | 2024-11-13 | 2025-01-16 |
 | [Lullaby](https://open.spotify.com/track/5E098JvWYE6cia9YEH3q6T) | [VINTER](https://open.spotify.com/artist/55LYzBVulUhB6GYloNdtUj) | [Lullaby](https://open.spotify.com/album/4l84LnnbwihjgzYKi0Nvzx) | 2:47 | 2022-08-17 | 2022-09-09 |
 | [Mad](https://open.spotify.com/track/682PIF5yaDJ32zxxqusK18) | [May Roze](https://open.spotify.com/artist/3XTrQMCzWBFMGUXlQ94hCa) | [Mad](https://open.spotify.com/album/4zMT8egvuqwvcKuMrmgRoD) | 3:27 | 2022-03-07 | 2022-04-28 |
 | [Madame LeSoleil Levant](https://open.spotify.com/track/3UrPCrJGLaBZGj9w8EzT62) | [Oum Shatt](https://open.spotify.com/artist/3lQXHxiyVJnxHfRznEpgAT) | [Madame LeSoleil Levant](https://open.spotify.com/album/6hnyJngfietKnPS1sSvsUx) | 3:34 | 2024-01-03 | 2024-01-25 |
@@ -996,6 +998,7 @@
 | [Sidewalk](https://open.spotify.com/track/23jcLRQeXNcZWZrBIKeuY8) | [Bae.con](https://open.spotify.com/artist/13Vka7xGjRHhIOGzvomJZd) | [Sidewalk](https://open.spotify.com/album/7bvIFa8V7Oj9yZbv9H69x0) | 2:20 | 2022-11-09 | 2023-02-02 |
 | [Siehst du wie ich flieg](https://open.spotify.com/track/1XP82pvMUiVn8c5ujstEib) | [DJ Hornhaut](https://open.spotify.com/artist/4kBXV5Vxo2IKvk2iIwTLEx), [Theresa](https://open.spotify.com/artist/7BD6X2aAvYegm4rEx8S5IF) | [Messestadt Hannover](https://open.spotify.com/album/23yWoLUGLBmmQettIOsLQt) | 3:46 | 2022-04-20 | 2022-05-12 |
 | [Silent Talk](https://open.spotify.com/track/5I77RxtGq8bEvizYJkZM0N) | [Catastrophe Waitress](https://open.spotify.com/artist/6rZskrH9xTAkv5BwgKU4uJ) | [Silent Talk](https://open.spotify.com/album/56SDoKAALX5X1o5heS3RX3) | 3:33 | 2022-01-19 | 2023-01-05 |
+| [Silent White \- Single Edit](https://open.spotify.com/track/58xL7Kmqf9UHC1oXpt0T1w) | [LIONLION](https://open.spotify.com/artist/39vMeaxc9e74z7v6HdSYC6) | [Silent White](https://open.spotify.com/album/2AtCKBXCPcXedyed0Eeykw) | 3:33 | 2025-01-15 |  |
 | [Silver Screens](https://open.spotify.com/track/6PaYceNoEhqsXRuPJx0B0n) | [Willow Parlo](https://open.spotify.com/artist/3n8bFcrOBNM63cpNDPnhHa) | [Silver Screens](https://open.spotify.com/album/28EgjcSozPVhh5L4WXYZpQ) | 3:40 | 2022-05-04 | 2023-01-05 |
 | [sing u to sleep](https://open.spotify.com/track/2aWvfZyUsQ7uPuInlRzeD2) | [juli](https://open.spotify.com/artist/5487GXfTBjjtBLxVEC9BbV) | [sing u to sleep](https://open.spotify.com/album/10P0XiTWM9rPe7O67q9jt2) | 0:56 | 2023-01-18 | 2023-03-02 |
 | [Siren Call](https://open.spotify.com/track/31VKQN14i7fsa4DP5mOsIF) | [Torp](https://open.spotify.com/artist/7oxEqgk4xDfgTIeCCeqkoo) | [Siren Call](https://open.spotify.com/album/0I5MnLqo0YvEHedr1XGnhW) | 3:58 | 2024-01-03 | 2024-02-15 |
@@ -1050,6 +1053,7 @@
 | [STARK](https://open.spotify.com/track/0jQN7bOGCNYzb2WXBDF0Pk) | [JO HALBIG](https://open.spotify.com/artist/0OGjufEmXBGOFG9LAlc5mt) | [STARK](https://open.spotify.com/album/1heKcFfm74VmRKPyFwKH7Y) | 2:11 | 2024-10-02 |  |
 | [Starstruck](https://open.spotify.com/track/4sVkZ9vP6YZB5R5DU6wfEi) | [PARADISE LTD](https://open.spotify.com/artist/0ahtFYd681pvCSkj1vh8lv), [Wild Culture](https://open.spotify.com/artist/7hayBHpyq0PvgOt9l96hpp), [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [Starstruck](https://open.spotify.com/album/1em3zdpt3gJDntiVRgkpjm) | 3:30 | 2022-01-05 | 2022-05-05 |
 | [Start The Car](https://open.spotify.com/track/6O12cs8No9noGvuKjymzBX) | [Mirrors For Princes](https://open.spotify.com/artist/0atuNbIljzXiew80YdJA38) | [Start The Car](https://open.spotify.com/album/0tLUu6ux8WuCEqUSlND54m) | 2:07 | 2022-07-27 | 2022-09-01 |
+| [state of mind](https://open.spotify.com/track/1ghVvUCAvQqRX2NWCIgRsC) | [Caterina Lee](https://open.spotify.com/artist/6zl6Aka2rXHKuj8res8Byw) | [state of mind](https://open.spotify.com/album/0hvXDgdGeGBWjsGX57wGEI) | 3:07 | 2025-01-15 |  |
 | [Stau Calmă](https://open.spotify.com/track/4sFuAg4kS11iFPnswqmofQ) | [Lucia Hera](https://open.spotify.com/artist/5RiIugOXVp0f1DyMdMpfZ7) | [Stau Calmă](https://open.spotify.com/album/62UErkgLnzk82EefSasoRq) | 3:27 | 2023-09-13 | 2023-10-12 |
 | [Stay](https://open.spotify.com/track/5OwsHfRvFGzVYgwd8UYqUu) | [Kingsize Cavaliers](https://open.spotify.com/artist/1UdB8Rv1lVHszzrTJiDetn) | [Stay](https://open.spotify.com/album/52V5P2Vj9bNAtN7U8RikxQ) | 2:21 | 2024-11-13 |  |
 | [Stay High](https://open.spotify.com/track/0Eas2g62XME8BHyQNd3Xaj) | [ACUA](https://open.spotify.com/artist/7tpRaG7QSRx6hpOom4Tr1t) | [Stay High](https://open.spotify.com/album/6ddPPaBQlWyqMlAJK1SWOU) | 3:06 | 2022-07-20 | 2022-08-04 |

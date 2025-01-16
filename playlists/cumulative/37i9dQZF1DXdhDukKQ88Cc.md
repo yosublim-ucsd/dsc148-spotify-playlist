@@ -4,7 +4,7 @@
 
 > nyeste bedste rap i dk <a href="spotify:artist:1GLzVjVa7bLnAcD1At98j3">@Omar</a>
 
-273 songs - 11 hr 47 min
+274 songs - 11 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Et Sted Herude](https://open.spotify.com/track/1BrhRqAJRa8YweyLVNCBQm) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [Et Sted Herude](https://open.spotify.com/album/7hGBBxMDxFPoIAslWcoA5E) | 2:17 | 2023-09-21 | 2024-02-23 |
 | [Eurobando](https://open.spotify.com/track/0nvHRs2XP1BbaAs3wOdI6j) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [KENNY](https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU) | 2:47 | 2024-06-20 | 2024-07-12 |
 | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [EUROPA \(feat\. Gobs\)](https://open.spotify.com/album/2QhpPNOEetQcsy6U3Q6hTw) | 2:36 | 2024-10-10 |  |
+| [EUROSTAR](https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi) | [GULEED](https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5), [Deno](https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l), [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [EUROSTAR](https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT) | 2:36 | 2025-01-15 |  |
 | [Fast Life \(feat\. Gilli\)](https://open.spotify.com/track/6uWlAXg3PSZsizyCPFdUoZ) | [Stepz](https://open.spotify.com/artist/21gbsnlPT5hyxKDKHsBtQj), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Fast Life](https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV) | 2:30 | 2023-09-21 | 2023-12-14 |
 | [FEAR NOBODY](https://open.spotify.com/track/7Iki0ZvakzKmCHsnehtzbu) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6) | [FEAR NOBODY](https://open.spotify.com/album/2ufIci8oalHhVuyWb3OYsN) | 2:46 | 2024-02-08 | 2024-10-04 |
 | [FEEL ALIVE](https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [7](https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu) | 2:21 | 2024-10-10 |  |

@@ -725,6 +725,24 @@
     },
     {
       "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159927,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
+    },
+    {
+      "album": {
         "name": "Do this shit 4 me",
         "url": "https://open.spotify.com/album/5QQop5JtIhXGjH1W3w1cEF"
       },
@@ -2178,7 +2196,7 @@
       ],
       "date_added": "2022-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 148973,
       "name": "MIYAKO",
       "url": "https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut"

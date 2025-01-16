@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 
 > Solo beat e rime avvolgenti\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 330,684 likes - 75 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 330,778 likes - 75 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX37pZLd58ED5.md) - [plain]
 | 13 | [Il tempo cura](https://open.spotify.com/track/5Bci187pV67UOsYp8q0hce) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Il tempo cura](https://open.spotify.com/album/16t4humL85l0QvihcPSYRN) | 2:32 |
 | 14 | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/track/2TOwRQ8fN69NDxXe3s602O) | [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn) | [PER SEMPRE \(feat\. Bresh\)](https://open.spotify.com/album/3QAPKcbmBIfyQUAwWvLap4) | 3:04 |
 | 15 | [Don't Cry No More \(feat\. Geolier\)](https://open.spotify.com/track/2vxtac8KET2UTMfT0d0awA) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 3:15 |
-| 16 | [Pain Is Love](https://open.spotify.com/track/4uEhUyE9dnD1tF19YQXOsL) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:55 |
+| 16 | [Pain Is Love](https://open.spotify.com/track/4uEhUyE9dnD1tF19YQXOsL) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:55 |
 | 17 | [Come mi guardi](https://open.spotify.com/track/7115pIZRP1L0MaJCPFPPFM) | [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [Going Hard 2](https://open.spotify.com/album/1IAGA62BsUpc8TjhBZuDsn) | 3:23 |
 | 18 | [SOLI](https://open.spotify.com/track/0ngRr9jrwrd4bhltVSHTEb) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:35 |
 | 19 | [Memories \(feat\. Annalisa\)](https://open.spotify.com/track/5dx4QY85j4zjMNHreobVsS) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Annalisa](https://open.spotify.com/artist/0EqkKYDK9EkKY5N7zU3FPv) | [FERITE](https://open.spotify.com/album/4mLp42UXbXFTMhAM4V1Kgz) | 2:36 |

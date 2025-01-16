@@ -1300,7 +1300,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 179534,
       "name": "Free as a Bird",
       "url": "https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt"
@@ -3414,6 +3414,24 @@
       "duration_ms": 188869,
       "name": "Tadow - Full Crate Remix",
       "url": "https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T"
+    },
+    {
+      "album": {
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343719,
+      "name": "Tangerine",
+      "url": "https://open.spotify.com/track/7Ay3m1nRtwKq13t6yDzHgf"
     },
     {
       "album": {

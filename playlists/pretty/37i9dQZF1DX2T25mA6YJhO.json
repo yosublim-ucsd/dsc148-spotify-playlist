@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Vicente Calder\u00f3n, Samantha Hudson.",
-  "num_followers": 23559,
+  "num_followers": 23586,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -799,22 +799,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "1 de enero",
-        "url": "https://open.spotify.com/album/1TjCUAUUMRG1b4lpaAOhZ2"
-      },
-      "artists": [
-        {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
-        }
-      ],
-      "duration_ms": 167394,
-      "name": "1 de enero",
-      "url": "https://open.spotify.com/track/1CmLxjRz3cY8cqJnfdH2as"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "Ven a jugar",
         "url": "https://open.spotify.com/album/40qFznRScO7LNQBJOOdKOp"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 182000,
       "name": "Ven a jugar",
       "url": "https://open.spotify.com/track/0QQVqTkppj49YNjU5OdBzA"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "1 de enero",
+        "url": "https://open.spotify.com/album/1TjCUAUUMRG1b4lpaAOhZ2"
+      },
+      "artists": [
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "duration_ms": 167394,
+      "name": "1 de enero",
+      "url": "https://open.spotify.com/track/1CmLxjRz3cY8cqJnfdH2as"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -883,22 +883,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Perdiendo el tiempo",
-        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 166528,
-      "name": "Perdiendo el tiempo",
-      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "A\u00f1o de mierda",
         "url": "https://open.spotify.com/album/57TbzhJvUA8wPs5PwQIWWe"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 160924,
       "name": "A\u00f1o de mierda",
       "url": "https://open.spotify.com/track/16BpiZ2fRf0pCPlnmuJ9HI"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "Perdiendo el tiempo",
+        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 166528,
+      "name": "Perdiendo el tiempo",
+      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "De aqu\u00ed a un mes",
-        "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
-      },
-      "artists": [
-        {
-          "name": "Error 97",
-          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
-        }
-      ],
-      "duration_ms": 141023,
-      "name": "De aqu\u00ed a un mes",
-      "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 193621,
       "name": "ojal\u00e1",
       "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "De aqu\u00ed a un mes",
+        "url": "https://open.spotify.com/album/12kOvGvaUrqMDE3Gnygj3w"
+      },
+      "artists": [
+        {
+          "name": "Error 97",
+          "url": "https://open.spotify.com/artist/0t8pleD8cLadWZNfaGQIz1"
+        }
+      ],
+      "duration_ms": 141023,
+      "name": "De aqu\u00ed a un mes",
+      "url": "https://open.spotify.com/track/0e8H6wIJ5o7OoSMGH9I2iL"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1279,38 +1279,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Entre las nubes",
-        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
-      },
-      "artists": [
-        {
-          "name": "Hiperg\u00e9minis",
-          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
-        }
-      ],
-      "duration_ms": 155592,
-      "name": "Entre las nubes",
-      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
-        "name": "Ni un paso atr\u00e1s",
-        "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
-      },
-      "artists": [
-        {
-          "name": "Pinpilinpussies",
-          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
-        }
-      ],
-      "duration_ms": 163405,
-      "name": "En tu portal",
-      "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "ahora es diferente",
         "url": "https://open.spotify.com/album/6MYsspfP9I9si7jKvliwKt"
       },
@@ -1331,6 +1299,38 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
+        "name": "Ni un paso atr\u00e1s",
+        "url": "https://open.spotify.com/album/1RtxhZyJWsjTh7e4GqXiPv"
+      },
+      "artists": [
+        {
+          "name": "Pinpilinpussies",
+          "url": "https://open.spotify.com/artist/4Mbv7MoBUcLBWCuGBCxRf1"
+        }
+      ],
+      "duration_ms": 163405,
+      "name": "En tu portal",
+      "url": "https://open.spotify.com/track/4zx728yaOZ4zIy6VsXAEkg"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "Entre las nubes",
+        "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
+      },
+      "artists": [
+        {
+          "name": "Hiperg\u00e9minis",
+          "url": "https://open.spotify.com/artist/3lhTUYtRWfoqod7U1L10kn"
+        }
+      ],
+      "duration_ms": 155592,
+      "name": "Entre las nubes",
+      "url": "https://open.spotify.com/track/2ad3cLYt2XljALj2OQ1iii"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
         "name": "Romance Extremo",
         "url": "https://open.spotify.com/album/1kN9S9rysBtLdkh9sdzHj5"
       },
@@ -1343,22 +1343,6 @@
       "duration_ms": 144179,
       "name": "Romance Extremo",
       "url": "https://open.spotify.com/track/2MA3xS8Jeyg4TRqTESwEwp"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
-        "name": "La decadencia del mant\u00f3n de manila",
-        "url": "https://open.spotify.com/album/0fy2BoOYsVZW2Ygrd7mJAt"
-      },
-      "artists": [
-        {
-          "name": "Cuarto Mundo",
-          "url": "https://open.spotify.com/artist/7hcEkjyJlcVJ4pAfbIAGNx"
-        }
-      ],
-      "duration_ms": 149832,
-      "name": "La decadencia del mant\u00f3n de manila",
-      "url": "https://open.spotify.com/track/1UstjK4LvcbTtLLRt7Pzyx"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1379,6 +1363,22 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
+        "name": "La decadencia del mant\u00f3n de manila",
+        "url": "https://open.spotify.com/album/0fy2BoOYsVZW2Ygrd7mJAt"
+      },
+      "artists": [
+        {
+          "name": "Cuarto Mundo",
+          "url": "https://open.spotify.com/artist/7hcEkjyJlcVJ4pAfbIAGNx"
+        }
+      ],
+      "duration_ms": 149832,
+      "name": "La decadencia del mant\u00f3n de manila",
+      "url": "https://open.spotify.com/track/1UstjK4LvcbTtLLRt7Pzyx"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
         "name": "Al Final",
         "url": "https://open.spotify.com/album/1JThc0vxLAFqk4pj6jPkYa"
       },
@@ -1395,22 +1395,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "saliendo bien",
-        "url": "https://open.spotify.com/album/5XRLXNQdiD5MEw6MFBVEZP"
-      },
-      "artists": [
-        {
-          "name": "Supermeganada",
-          "url": "https://open.spotify.com/artist/6gBHyKU7JcOeeIEh90Yvh0"
-        }
-      ],
-      "duration_ms": 184500,
-      "name": "saliendo bien",
-      "url": "https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "Rob Gordon",
         "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
       },
@@ -1423,6 +1407,22 @@
       "duration_ms": 123309,
       "name": "Rob Gordon",
       "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
+        "name": "saliendo bien",
+        "url": "https://open.spotify.com/album/5XRLXNQdiD5MEw6MFBVEZP"
+      },
+      "artists": [
+        {
+          "name": "Supermeganada",
+          "url": "https://open.spotify.com/artist/6gBHyKU7JcOeeIEh90Yvh0"
+        }
+      ],
+      "duration_ms": 184500,
+      "name": "saliendo bien",
+      "url": "https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1547,6 +1547,22 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
+        "name": "Vacaciones Permanentes",
+        "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
+      },
+      "artists": [
+        {
+          "name": "Vacaciones Permanentes",
+          "url": "https://open.spotify.com/artist/5bZw7KsPssYA9vjHvHgFVu"
+        }
+      ],
+      "duration_ms": 188525,
+      "name": "Vampiros",
+      "url": "https://open.spotify.com/track/5SqHFepXDGG1IHvlkhQc8q"
+    },
+    {
+      "added_at": "2025-01-09 23:00:09",
+      "album": {
         "name": "Ya Estoy Mayor",
         "url": "https://open.spotify.com/album/6DEnljjYwXMgCu37ejugHP"
       },
@@ -1567,22 +1583,6 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Vacaciones Permanentes",
-        "url": "https://open.spotify.com/album/7xwr9Ae7irZnMLH4zJMQp3"
-      },
-      "artists": [
-        {
-          "name": "Vacaciones Permanentes",
-          "url": "https://open.spotify.com/artist/5bZw7KsPssYA9vjHvHgFVu"
-        }
-      ],
-      "duration_ms": 188525,
-      "name": "Vampiros",
-      "url": "https://open.spotify.com/track/5SqHFepXDGG1IHvlkhQc8q"
-    },
-    {
-      "added_at": "2025-01-09 23:00:09",
-      "album": {
         "name": "Lo de siempre",
         "url": "https://open.spotify.com/album/4G8PtP2rLxt0JQhAbqV6Ac"
       },
@@ -1599,18 +1599,18 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Cada instante",
-        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
+        "name": "Dos De Cal",
+        "url": "https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ"
       },
       "artists": [
         {
-          "name": "\u00c1rtico",
-          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
+          "name": "LOS VALIENTES",
+          "url": "https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN"
         }
       ],
-      "duration_ms": 205263,
-      "name": "Cada instante",
-      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
+      "duration_ms": 181558,
+      "name": "A\u00fan Quedan Sensaciones",
+      "url": "https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu"
     },
     {
       "added_at": "2025-01-09 23:00:09",
@@ -1647,18 +1647,18 @@
     {
       "added_at": "2025-01-09 23:00:09",
       "album": {
-        "name": "Dos De Cal",
-        "url": "https://open.spotify.com/album/62b3eeUu0eK48yBVfFMHlQ"
+        "name": "Cada instante",
+        "url": "https://open.spotify.com/album/67gzE97QWZRtDogSXZq1TR"
       },
       "artists": [
         {
-          "name": "LOS VALIENTES",
-          "url": "https://open.spotify.com/artist/2VAo8b6uvd5MlmpiqgqIFN"
+          "name": "\u00c1rtico",
+          "url": "https://open.spotify.com/artist/3gFAuZ4KboKdPv5NVbJoNQ"
         }
       ],
-      "duration_ms": 181558,
-      "name": "A\u00fan Quedan Sensaciones",
-      "url": "https://open.spotify.com/track/3MbNt4JrYB1rHYk5ZfgrVu"
+      "duration_ms": 205263,
+      "name": "Cada instante",
+      "url": "https://open.spotify.com/track/6O1VJVV2MCp5bwvJVtiLCH"
     },
     {
       "added_at": "2025-01-09 23:00:09",

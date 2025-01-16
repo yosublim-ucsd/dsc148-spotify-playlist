@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0Qs9QUukNfAmA58YskIxQE">Andrew Lloyd Webber</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-636 songs - 1 day 14 hr 43 min
+637 songs - 1 day 14 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,8 @@
 | [Song Of The King](https://open.spotify.com/track/4jQoakCpMW9UldeJCeugGs) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [David Easter](https://open.spotify.com/artist/0qtECE3NgcwPavSktvTjCb), ["Joseph And The Amazing Technicolor Dreamcoat" 1991 London Cast](https://open.spotify.com/artist/7CD4S5LN8BeM1MVjL7ASK4) | [Joseph And The Amazing Technicolor Dreamcoat](https://open.spotify.com/album/4fGWn2HIeTZsIgIzaoL8sx) | 2:55 | 2024-07-24 |  |
 | [Speed Dating](https://open.spotify.com/track/719NTBQ7ML2mu4LJzdPyFg) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Jackie Clune](https://open.spotify.com/artist/44JcWSiCuLEXKdgpWuF51o), [Denise Van Outen](https://open.spotify.com/artist/0T17VKgopV3csTElVlDpXF) | [Tell Me On A Sunday](https://open.spotify.com/album/4iDnjr7h9wm23fcIWT7FEQ) | 3:17 | 2024-09-12 |  |
 | [Starlight Express](https://open.spotify.com/track/1mHzzJV2iCgBkHrLWaztSv) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [El DeBarge](https://open.spotify.com/artist/5xO4f5QyPMYnCPRyRveBSD) | [Music & Songs From "Starlight Express"](https://open.spotify.com/album/3vbZ5O5biMNAdrOU6J3SnK) | 3:45 | 2024-07-24 |  |
-| [Starlight Express \- Megamix](https://open.spotify.com/track/6fvhspytCsb9FOBCd9Ts50) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [The Company](https://open.spotify.com/artist/2X3SZZKqsg1EQGEmKvL8MC) | [The New Starlight Express](https://open.spotify.com/album/6B6Yfm5KkeP4jRIqKxFeUf) | 4:49 | 2024-07-24 |  |
+| [Starlight Express \- Megamix](https://open.spotify.com/track/6fvhspytCsb9FOBCd9Ts50) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [The Company](https://open.spotify.com/artist/2X3SZZKqsg1EQGEmKvL8MC) | [The New Starlight Express](https://open.spotify.com/album/6B6Yfm5KkeP4jRIqKxFeUf) | 4:49 | 2024-07-24 | 2025-01-16 |
+| [Starlight Express Megamix](https://open.spotify.com/track/2q0vtdSzXgb7o2vUDwXZeZ) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Starlight Express](https://open.spotify.com/artist/0tU5mIMhY8VA85lj88bVRn) | [Starlight Express](https://open.spotify.com/album/4QUyvzfxm7Njf88dFYSrr9) | 5:12 | 2025-01-15 |  |
 | [Starlight Express: Overture](https://open.spotify.com/track/68WPuDd9LXe1bm3HVmRMOP) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [“Starlight Express” Original Cast](https://open.spotify.com/artist/7IK1DpFyVGFUA4hiQfhgQG) | [Starlight Express](https://open.spotify.com/album/6KMPEaq01lg1xoGucSWWKT) | 2:19 | 2024-07-24 |  |
 | [Starlight Sequence](https://open.spotify.com/track/0hJ1jkThq2R0ovNItbqVTE) | [Andrew Lloyd Webber](https://open.spotify.com/artist/4aP1lp10BRYZO658B2NwkG), [Greg Ellis](https://open.spotify.com/artist/5p6D38UfOyjH0JEAPci5YG) | [The New Starlight Express](https://open.spotify.com/album/6B6Yfm5KkeP4jRIqKxFeUf) | 4:06 | 2024-07-24 |  |
 | [Stick It to the Man](https://open.spotify.com/track/4Gwrtk4pa1YYc9JEAuDbT9) | [The Original Broadway Cast Of School Of Rock](https://open.spotify.com/artist/4V41s4NEnbEnbTFErZbbZ5) | [Stick It To The Man](https://open.spotify.com/album/00w6IMUxnqCnoQQBbRgm0X) | 3:12 | 2024-07-24 |  |

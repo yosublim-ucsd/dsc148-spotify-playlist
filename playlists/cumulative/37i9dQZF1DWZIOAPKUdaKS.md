@@ -4,7 +4,7 @@
 
 > Soft piano to help you focus, work or study.
 
-791 songs - 1 day 10 hr 16 min
+792 songs - 1 day 10 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [As light as the air](https://open.spotify.com/track/1SNBgthMKmIvlpKRA0iIOX) | [Yasuo Zen](https://open.spotify.com/artist/4Gew7TmeuvKFbHl0PttGaz) | [As light as the air](https://open.spotify.com/album/3a512iHJ1gKxDTl863RzKH) | 2:58 | 2023-08-01 |  |
 | [As You Close Your Eyes](https://open.spotify.com/track/5yLEm7dJOXoMBR5OztKbY4) | [Elias Braun](https://open.spotify.com/artist/2LwwTAjeVNZ8DAtyaBrsE8), [Denis Turbide](https://open.spotify.com/artist/3Ivps5evkCqTJp50aqXTlu) | [As You Close Your Eyes](https://open.spotify.com/album/6Yq5oI6Ao8NfA5ESWn10Qa) | 2:06 | 2021-12-07 | 2022-07-20 |
 | [Ascent](https://open.spotify.com/track/3Ygq0ec3IlNfBUCGW566Cx) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [Ascent](https://open.spotify.com/album/3BqwGeDppomPKBHDO3Vkmj) | 2:12 | 2021-12-07 | 2022-01-19 |
-| [Aspres](https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Aspres](https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao) | 3:19 | 2023-11-07 |  |
+| [Aspres](https://open.spotify.com/track/5rfMHAaZCA8ym79TN2GdbV) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Aspres](https://open.spotify.com/album/3LTPCqc1OFV2T7GzkOvDao) | 3:19 | 2023-11-07 | 2025-01-16 |
 | [Aster](https://open.spotify.com/track/72KJyAtPYTjzfDeSZbe9h3) | [Tig Martin](https://open.spotify.com/artist/6M0BLRIxPxH1xbsvQdNsdi) | [Aster](https://open.spotify.com/album/3dGQkAUu05FoXDBLANmMow) | 2:42 | 2021-12-07 |  |
 | [At A Glance](https://open.spotify.com/track/2UsLov7NMKkN1Uh9WUBEw9) | [Gale Moore](https://open.spotify.com/artist/7D4pGxfKDvTyt90fAAQXxw) | [At A Glance](https://open.spotify.com/album/4vBxCrmYU5niiq6ihQiYd0) | 2:37 | 2023-10-04 |  |
 | [Aufgang der Sonne](https://open.spotify.com/track/4iCLo3ZjF6V1RW4Wz18KMz) | [Ploxxio](https://open.spotify.com/artist/6x1wQEYS0lwy0BOZUF6WFa) | [Praxedis](https://open.spotify.com/album/5fpiyyKknRiCj5joBh4VA0) | 2:52 | 2022-03-16 | 2023-05-04 |
@@ -224,6 +224,7 @@
 | [Feather Drift](https://open.spotify.com/track/7bqhyMBmURZagaBV7gwpdO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Feather Drift](https://open.spotify.com/album/63dhCrTLJ1AhUqhPUkL7Yj) | 2:32 | 2024-02-14 |  |
 | [Feuilles d'automne](https://open.spotify.com/track/0C2q5FBAGtuFopEx96ayCf) | [Charlot Bélair](https://open.spotify.com/artist/33MLQAjjWBxjLKXjsK7Nmd) | [Feuilles d'automne](https://open.spotify.com/album/0H24clOadhqXC56cb9bgbQ) | 2:09 | 2021-12-07 | 2022-07-20 |
 | [Fidelity](https://open.spotify.com/track/71i3ssLhtbdlUIK2fOoqNr) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Fidelity](https://open.spotify.com/album/0NVSJ5RYhkcS30b9VKTsLh) | 2:49 | 2021-12-07 | 2022-07-20 |
+| [Filigree](https://open.spotify.com/track/59nGO5jYiozyEG87wUuUqU) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Filigree](https://open.spotify.com/album/6mRKNvVgv05PvVulU2mHsM) | 2:32 | 2025-01-15 |  |
 | [Fils Du Soleil](https://open.spotify.com/track/67np71K50CRwUfpXqlsXJV) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Dreamweaver](https://open.spotify.com/album/6dSfSgGrlFwRU7Rcjnvsrf) | 4:19 | 2021-12-07 | 2024-08-08 |
 | [Fine](https://open.spotify.com/track/2jv5hratv7APL7BbvAKpI7) | [Kristian Kamp](https://open.spotify.com/artist/2RojpFYmQCs2e8SNQAXah2) | [Fine](https://open.spotify.com/album/4FrtT3wUV6uJuUNVl9ep2V) | 2:51 | 2021-12-07 | 2022-07-20 |
 | [Fiori d'inverno](https://open.spotify.com/track/2btWmph1fQnDcnzYBJNKmI) | [Darrell Vitagliano](https://open.spotify.com/artist/6NlWjzoEit79rWPMDscYKO) | [Fiori d'inverno](https://open.spotify.com/album/2We7FHHGugPGOJ6Fy7YTCO) | 2:11 | 2022-10-24 | 2024-05-23 |

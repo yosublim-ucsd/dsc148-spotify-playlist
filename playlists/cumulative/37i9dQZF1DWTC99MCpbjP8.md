@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-623 songs - 1 day 3 hr 2 min
+625 songs - 1 day 3 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -173,6 +173,7 @@
 | [Feeling Free](https://open.spotify.com/track/6kbvb0UyWZVvmKjSIQJzRe) | [Andreas Monta](https://open.spotify.com/artist/7ziAAFlW4YAJQy9C9phKgZ) | [Feeling Free](https://open.spotify.com/album/6GsuHsBee1V5VZLEQMRMaB) | 2:06 | 2022-04-22 | 2023-01-27 |
 | [Felt Improv No\. 25](https://open.spotify.com/track/4jklfyp9aW2xX8oUp7Z8gA) | [Niall Byrne](https://open.spotify.com/artist/39u6Bl8CfMjzqKVaM3JsTJ) | [Felt Improv No\. 25](https://open.spotify.com/album/683ttioDjnQMeIgqQC2gfM) | 2:55 | 2022-04-22 | 2023-01-27 |
 | [fields of forever \- sleep rework](https://open.spotify.com/track/1g3qZv1GGqwMBrXzogTpTx) | [Chad Lawson](https://open.spotify.com/artist/72uoxerTvAd7x3cbfYmNc8) | [fields of forever \(sleep rework\)](https://open.spotify.com/album/2qYKIfapv7QBqNvZzzAOHS) | 3:41 | 2023-02-20 |  |
+| [Filigree](https://open.spotify.com/track/59nGO5jYiozyEG87wUuUqU) | [Ren Lockhart](https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp) | [Filigree](https://open.spotify.com/album/6mRKNvVgv05PvVulU2mHsM) | 2:32 | 2025-01-15 |  |
 | [Finding Peace](https://open.spotify.com/track/3N1hgEodmOmy4yVexeoXah) | [Phileas Galle](https://open.spotify.com/artist/7LXOaqA9V8tLPULaZyYO68) | [Finding Peace](https://open.spotify.com/album/3UBjil8VBvpkL9qub4syby) | 2:40 | 2023-08-21 |  |
 | [Fiorire](https://open.spotify.com/track/1nxWCkjlOdwRwyROs99UNv) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Ariosa](https://open.spotify.com/album/0YzXa9BR1O17eoFmKmSded) | 2:57 | 2022-04-22 | 2023-05-10 |
 | [Fireside](https://open.spotify.com/track/5Si7lQfzTcOs55xiXgBxS9) | [Maxim Slanov](https://open.spotify.com/artist/6BJeebrVncgZDD3y0qOQQf) | [Fireside](https://open.spotify.com/album/0GonTZsFfeSeAcpTxJDZxU) | 2:13 | 2024-01-08 |  |
@@ -559,6 +560,7 @@
 | [Time is the Longest Distance](https://open.spotify.com/track/1vViUoB7DpXUX10isPj7YL) | [Danielle Fleur](https://open.spotify.com/artist/4SlWk9stVDNIL6l4BK2MlI) | [Time is the Longest Distance](https://open.spotify.com/album/7c9zTWwG3gmkYRqWomwQ6Q) | 2:04 | 2022-04-22 | 2023-01-27 |
 | [to be better again](https://open.spotify.com/track/7A5KsH4tO6rdv4RN3qNzUu) | [Lonesome Mind](https://open.spotify.com/artist/4eixU2X2ZzzxUNiCv4OZA5) | [to be better again](https://open.spotify.com/album/7uHoxKaEL3Gq28RYRCpIZs) | 2:30 | 2024-07-23 |  |
 | [To Let Go](https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Light in the Mist](https://open.spotify.com/album/31IdUwRdn2d1hnFi43nnQU) | 2:26 | 2022-09-15 |  |
+| [To the Morning Light](https://open.spotify.com/track/6FYOf0yudOyYiLS7t8cNel) | [James Here](https://open.spotify.com/artist/1iGSzD89Ci6EvzlGQeziR4) | [To the Morning Light](https://open.spotify.com/album/2i6eUXMuCvUazHgZaV6NIs) | 2:35 | 2025-01-15 |  |
 | [to the sea](https://open.spotify.com/track/6I9pSKGbuygkebmyt1ZuIL) | [The Chillest](https://open.spotify.com/artist/2qlvTZS8OkFRZi30S0D9E7) | [to the sea](https://open.spotify.com/album/2RayBw83k7G2KMzRy4Ecmw) | 2:44 | 2022-07-27 | 2023-02-01 |
 | [To You Again](https://open.spotify.com/track/5twnmeTkgggWszBDSOX7fu) | [Filomena](https://open.spotify.com/artist/0OwBoRemK37STVdgFxC86k) | [To You Again](https://open.spotify.com/album/6G0fMgZaBva1HhWECW7RXm) | 2:08 | 2022-04-22 | 2023-08-08 |
 | [Toujours](https://open.spotify.com/track/53XnZJJNw7VwbmRXJE4wP2) | [Valter Soll](https://open.spotify.com/artist/1gD9cydWC0yCBMG8Bn6tau) | [Toujours](https://open.spotify.com/album/5dtVQd67tUTLyVFszSzbwh) | 2:26 | 2024-04-15 |  |

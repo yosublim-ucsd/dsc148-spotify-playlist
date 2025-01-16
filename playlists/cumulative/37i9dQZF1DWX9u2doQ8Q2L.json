@@ -377,6 +377,24 @@
     },
     {
       "album": {
+        "name": "27:00",
+        "url": "https://open.spotify.com/album/4GuACkRMfgEcZDcMnK5zT9"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208955,
+      "name": "27:00",
+      "url": "https://open.spotify.com/track/5EWrGH4sJSacwZtB2o9A10"
+    },
+    {
+      "album": {
         "name": "Panikhida [2015-2022 Best Song Remixes]",
         "url": "https://open.spotify.com/album/0C5dNmi2SZVHkevtFF1FXc"
       },
@@ -2614,7 +2632,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 206309,
       "name": "bonsai (feat. CENT)",
       "url": "https://open.spotify.com/track/4LyVCEKAB9Dk4PNoqdWNuY"
@@ -4254,7 +4272,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 180828,
       "name": "cyaka",
       "url": "https://open.spotify.com/track/4tuQtpufLkjuSX8VYr3vvd"
@@ -5046,6 +5064,24 @@
       "duration_ms": 204097,
       "name": "Distance",
       "url": "https://open.spotify.com/track/0QQgeIpfDpTOAialgKCuFA"
+    },
+    {
+      "album": {
+        "name": "Dive",
+        "url": "https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2"
+      },
+      "artists": [
+        {
+          "name": "ziproom",
+          "url": "https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159927,
+      "name": "Dive",
+      "url": "https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs"
     },
     {
       "album": {
@@ -7554,7 +7590,7 @@
       ],
       "date_added": "2024-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 200910,
       "name": "GOLDENWEEK",
       "url": "https://open.spotify.com/track/0bGiEGMpJ50OyVcb8elPOk"
@@ -14576,6 +14612,32 @@
       "duration_ms": 199500,
       "name": "Old Fashioned",
       "url": "https://open.spotify.com/track/6ZWKRmmYetfk6LsEVbSIk6"
+    },
+    {
+      "album": {
+        "name": "Old Friends (feat. SIRUP, Shin Sakiura)",
+        "url": "https://open.spotify.com/album/597qSMot6MGIYn315wyt4y"
+      },
+      "artists": [
+        {
+          "name": "YonYon",
+          "url": "https://open.spotify.com/artist/31cQ1UZ89lT9gFf6bvADZl"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        },
+        {
+          "name": "Shin Sakiura",
+          "url": "https://open.spotify.com/artist/43NKdJzrtzg9rAzmbIUdW8"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216141,
+      "name": "Old Friends (feat. SIRUP, Shin Sakiura)",
+      "url": "https://open.spotify.com/track/0X5iNCSxE5ldHbq8351rkT"
     },
     {
       "album": {
@@ -27821,6 +27883,24 @@
     },
     {
       "album": {
+        "name": "\u541b\u3068\u30c7\u30fc\u30c8",
+        "url": "https://open.spotify.com/album/7vdj88FcBsYGcUDa4si9Zf"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171785,
+      "name": "\u541b\u3068\u30c7\u30fc\u30c8",
+      "url": "https://open.spotify.com/track/08RwOcXdFCvy44zm1awpJh"
+    },
+    {
+      "album": {
         "name": "\u541b\u306eFlavor feat. \u78ef\u91ce\u304f\u3093 (YONA YONA WEEKENDERS)",
         "url": "https://open.spotify.com/album/69oBKwavCpQBOGiuHDYzZY"
       },
@@ -29880,7 +29960,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 191666,
       "name": "\u751f\u547d\u4f53",
       "url": "https://open.spotify.com/track/4ZHPfDmmEu8ItB795BbF9W"

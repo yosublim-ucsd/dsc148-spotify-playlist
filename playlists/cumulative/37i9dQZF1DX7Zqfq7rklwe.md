@@ -2,7 +2,7 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. Kannessa One Morning Left.
+> Suomen suurin ja paras rock\-soittolista\. 🐶 Kannessa One Morning Left.
 
 154 songs - 10 hr 10 min
 

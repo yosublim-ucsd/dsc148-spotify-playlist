@@ -16119,6 +16119,24 @@
     },
     {
       "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
+    },
+    {
+      "album": {
         "name": "Do It To It",
         "url": "https://open.spotify.com/album/58cd90Jkrovggh556JPN9L"
       },
@@ -20930,7 +20948,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 174743,
       "name": "Fly Me To The Moon - Remix",
       "url": "https://open.spotify.com/track/2U3TzjtLORL9SxK7P7ZiFB"
@@ -48710,10 +48728,36 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 158769,
       "name": "Puta \u00c9 S\u00f3 um Detalhe",
       "url": "https://open.spotify.com/track/58g8XjpC5Yj3jCOUVMqAfb"
+    },
+    {
+      "album": {
+        "name": "PUTA \u00c9 S\u00d3 UM DETALHE",
+        "url": "https://open.spotify.com/album/1lDtxHF9So0nM2qJJ5ngso"
+      },
+      "artists": [
+        {
+          "name": "DJ Douglinhas",
+          "url": "https://open.spotify.com/artist/27CMmXxUH8UMkVGuFNFSOi"
+        },
+        {
+          "name": "DJ Miller Oficial",
+          "url": "https://open.spotify.com/artist/07ox80BTdnwoNNcQT5IvBP"
+        },
+        {
+          "name": "MC Torugo",
+          "url": "https://open.spotify.com/artist/30qXkHd2Thmw1wqJvgRa7o"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158827,
+      "name": "PUTA \u00c9 S\u00d3 UM DETALHE",
+      "url": "https://open.spotify.com/track/4eqOz5gdCYww9GB5q3q1pU"
     },
     {
       "album": {

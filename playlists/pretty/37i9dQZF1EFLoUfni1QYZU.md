@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 720 likes - 84 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 721 likes - 84 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -77,15 +77,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 67 | [Solo Para Ti](https://open.spotify.com/track/0mJ7MnaW6UJ7DGeiw770WG) | [CAZZETTE](https://open.spotify.com/artist/1IELhvOMg5VQlU7syRm6CS) | [Desserts](https://open.spotify.com/album/2osER63dyxzb5y37YqMUJd) | 3:44 |
 | 68 | [Torch](https://open.spotify.com/track/3fRwLIsGYQx6wxi1kg3YBp) | [Isa Machine](https://open.spotify.com/artist/7CLo6FSDoXIdfe3h12kL7D), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Rock The Kasbah \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ZfD7UP4FTr47t0NQhj3t7) | 3:47 |
 | 69 | [Fingerprint](https://open.spotify.com/track/2Sk4yHsNXMvPL3Id92JSNA) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 4:07 |
-| 70 | [Twisted](https://open.spotify.com/track/2ZDtvkcjtZFc8hyldQLS6i) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:48 |
-| 71 | [More Is More](https://open.spotify.com/track/5H0UFVIHiqCMVT1sXAxvbe) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:05 |
+| 70 | [More Is More](https://open.spotify.com/track/5H0UFVIHiqCMVT1sXAxvbe) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:05 |
+| 71 | [Twisted](https://open.spotify.com/track/2ZDtvkcjtZFc8hyldQLS6i) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 3:48 |
 | 72 | [Hey Boy](https://open.spotify.com/track/5yEoCPTAvD1XEhZgiC6nL0) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial](https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax) | 2:54 |
 | 73 | [Sunshine](https://open.spotify.com/track/0GXh2O2tCYX0FLBPWDDAKS) | [Aria](https://open.spotify.com/artist/6oKcrcntGSX6Nsu4LjY8M5) | [Sunshine](https://open.spotify.com/album/03EdPcCnGo40y1BUw5hGN8) | 3:26 |
 | 74 | [I'm Gonna Get You \- Radio Edit](https://open.spotify.com/track/74hpxaHCMf9rPLewOG5P6a) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Jessica Sutta](https://open.spotify.com/artist/6J2F6rTcNCJtktosxTxNw7) | [Audacious, Vol\. 5](https://open.spotify.com/album/1gkSj24WKuLwiygOITnMAg) | 3:58 |
 | 75 | [Animal](https://open.spotify.com/track/2d8mqV92ASUA3sbTiYuj5M) | [Hypercolor](https://open.spotify.com/artist/714XkaoyHeGO1YIyH1WQ6u) | [Animal](https://open.spotify.com/album/0KrLWFIIHK4L9dk77f2Gxk) | 3:58 |
 | 76 | [Wanna Be \(feat\. LP\)](https://open.spotify.com/track/1PMZzu6Ka2tECgBlLfDUTx) | [Ex Cops](https://open.spotify.com/artist/53jUEBC2whloRpELoilcy3), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Daggers](https://open.spotify.com/album/6HnqBAaEl1LWxt5Cl8cWSL) | 3:56 |
-| 77 | [The Fear](https://open.spotify.com/track/5wYoTwaHX7wCc7BfQfunjo) | [The Years](https://open.spotify.com/artist/7JIaAfr2jRaCbOglRTO6NY) | [Street Queen](https://open.spotify.com/album/2VY7BX6ZNx9q5qMnomeoPC) | 3:50 |
-| 78 | [Sex Ed](https://open.spotify.com/track/2HjBGYAl1Z1OtYsjkqTi1N) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Sex Ed](https://open.spotify.com/album/0w5HxteP4Tqwc1F9Bsido7) | 3:15 |
+| 77 | [Sex Ed](https://open.spotify.com/track/1HEnlJjOPIpN1OfKdapGDM) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial \(Anniversary Edition\)](https://open.spotify.com/album/0ohNLvVPgFvthWYGpepIA0) | 3:15 |
+| 78 | [The Fear](https://open.spotify.com/track/5wYoTwaHX7wCc7BfQfunjo) | [The Years](https://open.spotify.com/artist/7JIaAfr2jRaCbOglRTO6NY) | [Street Queen](https://open.spotify.com/album/2VY7BX6ZNx9q5qMnomeoPC) | 3:50 |
 | 79 | [Nothing To Lose](https://open.spotify.com/track/3Kad9SsW6fAdq0KhFoJDzE) | [Nick Fradiani](https://open.spotify.com/artist/0YklCNXJmtsiaFPCEjWXut) | [Hurricane](https://open.spotify.com/album/2WDIkQMRzMGKz1MDDaqb7k) | 3:22 |
 | 80 | [Open Arms](https://open.spotify.com/track/32Xcqk0WiUAMmEcwHGHgzM) | [Audra Mae](https://open.spotify.com/artist/21jPcGkRtUofRVCC8cWHPS), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Love, Audra Mae](https://open.spotify.com/album/3qAe8oxZEXafgYluYnkEUR) | 4:27 |
 | 81 | [Come On & Get It](https://open.spotify.com/track/5qZZo8XGfe2XPt9ggCV3dA) | [DJ Dan](https://open.spotify.com/artist/4w7PNHWFtN2CNkDNhDL7c3), [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [L.P.](https://open.spotify.com/artist/0EiFuHVGo5D7B8JeeOg3bK) | [DJ Dan Presents Future Retro](https://open.spotify.com/album/7rVQG7r5pRfKOVKRV0lX05) | 3:12 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `Abm4HgAAAAChPYdtAlg54VVS0y2evaxo`
+Snapshot ID: `Abm9tAAAAACARTJ6PJbkHszQN1VDwPey`

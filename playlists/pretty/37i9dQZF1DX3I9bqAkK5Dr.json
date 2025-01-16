@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4ZSgwAAAAB1yzQ4A+YbEsxaiHWSe1V0",
+  "snapshot_id": "Z4e72AAAAADMFURoxwZXtZAOZ3XFQ2L2",
   "tracks": [
     {
       "added_at": "2024-10-03 06:15:54",
@@ -179,6 +179,26 @@
       "duration_ms": 169565,
       "name": "Ready Go",
       "url": "https://open.spotify.com/track/5QmSQ0e0BdUquiGNYqDzg7"
+    },
+    {
+      "added_at": "2025-01-15 13:44:56",
+      "album": {
+        "name": "Nuvvu Nennu",
+        "url": "https://open.spotify.com/album/602HJNByyIG0p7xBh1W1ml"
+      },
+      "artists": [
+        {
+          "name": "yogesh raj kumar",
+          "url": "https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW"
+        },
+        {
+          "name": "Hemasree Sekhar",
+          "url": "https://open.spotify.com/artist/05AqdcuYCPiOTDGRly9E6l"
+        }
+      ],
+      "duration_ms": 155360,
+      "name": "Nuvvu Nennu",
+      "url": "https://open.spotify.com/track/2RGOySbVuWGrTf6XXK0QGK"
     },
     {
       "added_at": "2024-12-20 09:23:23",
@@ -677,30 +697,6 @@
       "url": "https://open.spotify.com/track/5BciFtQG5SJg6aa2PSgnr9"
     },
     {
-      "added_at": "2024-10-01 12:45:22",
-      "album": {
-        "name": "Nee Korake",
-        "url": "https://open.spotify.com/album/5CePbcxQ1hTWqTbgMDmeJ0"
-      },
-      "artists": [
-        {
-          "name": "Ajay Naik",
-          "url": "https://open.spotify.com/artist/5ZwWJw52QijUKUHNdx6b0Y"
-        },
-        {
-          "name": "Kamal Suruguchi",
-          "url": "https://open.spotify.com/artist/1UBKJW4yyJoMAqhdVRifw7"
-        },
-        {
-          "name": "Nidhi Hegde",
-          "url": "https://open.spotify.com/artist/3DDBJ15CB00jnSrlhrHDel"
-        }
-      ],
-      "duration_ms": 183952,
-      "name": "Nee Korake",
-      "url": "https://open.spotify.com/track/6UCFvF1my4n7XmjRJv0u5C"
-    },
-    {
       "added_at": "2024-08-22 11:58:51",
       "album": {
         "name": "Kadale Kadhile (From \"The Slam Book Stories\")",
@@ -1007,22 +1003,6 @@
       "duration_ms": 187978,
       "name": "Ninnu Cheraga",
       "url": "https://open.spotify.com/track/0KFpBnnR9yAgFrlqje5xHy"
-    },
-    {
-      "added_at": "2024-03-05 09:13:45",
-      "album": {
-        "name": "Telusa Nuvvevaro",
-        "url": "https://open.spotify.com/album/5RBhYJpO14jspepP1yMAfh"
-      },
-      "artists": [
-        {
-          "name": "Harika Narayan",
-          "url": "https://open.spotify.com/artist/6BWLgCuwDlaTKrZvgMmghn"
-        }
-      ],
-      "duration_ms": 184179,
-      "name": "Telusa Nuvvevaro",
-      "url": "https://open.spotify.com/track/4AiOWsLqXlYgs70dYugZBf"
     },
     {
       "added_at": "2024-02-14 05:40:11",

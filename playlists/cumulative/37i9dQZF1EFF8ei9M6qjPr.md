@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5Uk3LfCG3anf7ZT6TIJZgV">Jesse Fink</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-180 songs - 8 hr 28 min
+182 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,8 +14,9 @@
 | [All Damn Day!](https://open.spotify.com/track/54CuNYfGsUsVWIYpkBiPb2) | [Ant Saunders](https://open.spotify.com/artist/4jpsw9CQS439N0B7SecMgf) | [All Damn Day!](https://open.spotify.com/album/1DjiwvABujSgFYXyD2IbFy) | 2:48 | 2024-07-09 |  |
 | [ALL I NEED](https://open.spotify.com/track/6Qdsd8iXAdcmDvBdAMz3WL) | [Mia Sora](https://open.spotify.com/artist/5KfyVusD5stu0TBkXqAqiw) | [ALL I NEED](https://open.spotify.com/album/2e7iBgtxzE2lymEAjYSnS5) | 3:30 | 2025-01-09 |  |
 | [All I Wanna Be \(feat\. Sean Patrick Murray\)](https://open.spotify.com/track/1Ec1hixIPm30vs0s9aV5BK) | [Westside Cast](https://open.spotify.com/artist/5Z6UnrTHG7YbOsdHAkZdOw), [Sean Patrick Murray](https://open.spotify.com/artist/31wZNcRxQ9opwiFLXpCvld) | [Westside: The Music \(Music from the Original Series\)](https://open.spotify.com/album/4z57sC26Xxv1CdURc6mfru) | 3:54 | 2024-07-09 |  |
+| [All My Ex's](https://open.spotify.com/track/1D9HySmrMmDpnO09YULRKn) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [All My Ex's](https://open.spotify.com/album/2pldgbDknZppba2I0qhQyS) | 2:24 | 2025-01-15 |  |
 | [All My Ex's](https://open.spotify.com/track/6YwowKYQtoEzPm5WOkaTCq) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [All My Ex's](https://open.spotify.com/album/3W3MOJBf28Ic4BFLwUGWcN) | 2:24 | 2024-07-09 | 2024-12-14 |
-| [All My Ex's](https://open.spotify.com/track/6ker2OZmftyZ2zpfdGO3Aa) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [All My Ex's](https://open.spotify.com/album/2bZqxikCqqArKNYCQ2CK9P) | 2:24 | 2024-12-13 |  |
+| [All My Ex's](https://open.spotify.com/track/6ker2OZmftyZ2zpfdGO3Aa) | [Justus Bennetts](https://open.spotify.com/artist/4PcesEvU9iICf7dwNt5B3l) | [All My Ex's](https://open.spotify.com/album/2bZqxikCqqArKNYCQ2CK9P) | 2:24 | 2024-12-13 | 2025-01-16 |
 | [Art Of Letting Go \(feat\. James Gillespie\)](https://open.spotify.com/track/4dt4MyGRdBmpAukq0r5GuX) | [NURKO](https://open.spotify.com/artist/757FXqX0Osk2pqtgv4E5v4), [James Gillespie](https://open.spotify.com/artist/6wlk4iqaEgEvADMVG6QMd8) | [Discovery](https://open.spotify.com/album/1PpVHHdTAnWPTWg2v6ERZH) | 3:22 | 2024-07-09 |  |
 | [Awesome](https://open.spotify.com/track/0L53Abm07SniogTRH1CoqC) | [Dylan Rockoff](https://open.spotify.com/artist/2L2hppNg0A5WfGJTChIJL5) | [Semicolon & Parentheses \(Deluxe\)](https://open.spotify.com/album/42BA8ADEXyNS7spQ1fH8KS) | 2:56 | 2024-07-09 |  |
 | [Backpack](https://open.spotify.com/track/7HUZWpelDfnkOc5PkDD8Sp) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [The People's Champ](https://open.spotify.com/album/1FguQss7XFrc5w7KWL2sc9) | 2:57 | 2024-07-09 |  |
@@ -114,7 +115,8 @@
 | [Lie](https://open.spotify.com/track/7mW7RyWitnXmA7mxA0xwMk) | [Asal](https://open.spotify.com/artist/2CPDwyokR2lgqu0yNGe2cU) | [Missing Something](https://open.spotify.com/album/6kj47h4a5ptQiZRYsihT1Y) | 2:14 | 2024-09-05 |  |
 | [Like Strangers Do](https://open.spotify.com/track/0Wc6cbF38a90b8wov9V63F) | [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Like Strangers Do](https://open.spotify.com/album/3fFTDPRQZRpbH5pgqvepFZ) | 2:40 | 2024-07-09 |  |
 | [Love Language](https://open.spotify.com/track/2hn11FTEwM9YrJyz3XnU5M) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Love Language](https://open.spotify.com/album/5N8NVRBbCenIoCO2QMjdNT) | 3:28 | 2024-07-09 |  |
-| [love me again](https://open.spotify.com/track/0CAq5PJHoIlDOd4A8oFl6F) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [innocence](https://open.spotify.com/album/2RvkkmSJ8jCNB5JyHNMnek) | 2:25 | 2024-07-09 |  |
+| [love me again](https://open.spotify.com/track/0CAq5PJHoIlDOd4A8oFl6F) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [innocence](https://open.spotify.com/album/2RvkkmSJ8jCNB5JyHNMnek) | 2:25 | 2024-07-09 | 2025-01-16 |
+| [love me again](https://open.spotify.com/track/1VfiZkm7V4EmwifFaHa9N5) | [Kenzie Cait](https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM) | [innocence](https://open.spotify.com/album/3KaCIYqhfvk9NapzoPa8BB) | 2:25 | 2025-01-15 |  |
 | [Loverman](https://open.spotify.com/track/1CXwlCdikcZ2cni4GnYJLt) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/19fcLNxfpIzDU9z5nXH2A0) | 2:26 | 2024-09-18 | 2024-11-09 |
 | [Loverman](https://open.spotify.com/track/7KXmUoayreToRTrMOZYR3Q) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/6puqZ5aLRToS18LMsJrvMg) | 2:26 | 2024-11-08 |  |
 | [Loverman](https://open.spotify.com/track/7yMvCjdJkJFKclMFnlutoV) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/6UyQiKLbwj1rfvWK0ybprK) | 2:26 | 2024-07-09 | 2024-09-19 |

@@ -1,29 +1,13 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: Scout. Artwork by Paola Saliby",
-  "num_followers": 222261,
+  "description": "The best new pop music from new, independent artists.  Cover: ENILA. Artwork by Paola Saliby",
+  "num_followers": 222325,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z38szAAAAACSkub+tEJdtHDA60RJsB2Z",
+  "snapshot_id": "Z4fOEwAAAACEmTR3QnmRe4JYDybKVcRD",
   "tracks": [
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
-        "name": "Winner",
-        "url": "https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B"
-      },
-      "artists": [
-        {
-          "name": "Scout",
-          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
-        }
-      ],
-      "duration_ms": 179853,
-      "name": "Change Your Mind",
-      "url": "https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK"
-    },
     {
       "added_at": "2025-01-08 16:58:18",
       "album": {
@@ -41,6 +25,118 @@
       "url": "https://open.spotify.com/track/1LpodNyRjXIxWKFC9GOSFF"
     },
     {
+      "added_at": "2025-01-15 05:00:02",
+      "album": {
+        "name": "Baboom",
+        "url": "https://open.spotify.com/album/36HM1JItHUPboC7NnEOg0E"
+      },
+      "artists": [
+        {
+          "name": "Micah McLaurin",
+          "url": "https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD"
+        }
+      ],
+      "duration_ms": 167689,
+      "name": "Baboom",
+      "url": "https://open.spotify.com/track/7BSfh75cbw1HVoLrA1hKIj"
+    },
+    {
+      "added_at": "2025-01-15 05:00:02",
+      "album": {
+        "name": "BEEEP",
+        "url": "https://open.spotify.com/album/1F3oAzwVHXjKG1vXTzXYTg"
+      },
+      "artists": [
+        {
+          "name": "EARTH TO EMILY",
+          "url": "https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "BEEEP",
+      "url": "https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc"
+    },
+    {
+      "added_at": "2025-01-15 05:00:02",
+      "album": {
+        "name": "LIAR",
+        "url": "https://open.spotify.com/album/2MPjjar0n8KkIC9vBor5qz"
+      },
+      "artists": [
+        {
+          "name": "Chloey Indica",
+          "url": "https://open.spotify.com/artist/6VBI7AKEAUPyPd0879sWWk"
+        }
+      ],
+      "duration_ms": 155604,
+      "name": "LIAR",
+      "url": "https://open.spotify.com/track/0M1uGJMneGm42j6JsWLsxD"
+    },
+    {
+      "added_at": "2025-01-15 05:00:02",
+      "album": {
+        "name": "Country Boy",
+        "url": "https://open.spotify.com/album/37DRBJOm9lYHdndsVzXJfQ"
+      },
+      "artists": [
+        {
+          "name": "Saga Ludvigsson",
+          "url": "https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii"
+        }
+      ],
+      "duration_ms": 164041,
+      "name": "Country Boy",
+      "url": "https://open.spotify.com/track/0AWOUx0yzhcr8m76suAFqz"
+    },
+    {
+      "added_at": "2025-01-08 16:58:18",
+      "album": {
+        "name": "Winner",
+        "url": "https://open.spotify.com/album/6fxXvk5swHKZa554iuVo6B"
+      },
+      "artists": [
+        {
+          "name": "Scout",
+          "url": "https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR"
+        }
+      ],
+      "duration_ms": 179853,
+      "name": "Change Your Mind",
+      "url": "https://open.spotify.com/track/5SujjrlWuM2EAqMrutFdrK"
+    },
+    {
+      "added_at": "2025-01-15 05:00:02",
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/4r7UEmj9xJOCCKSnuo79i6"
+      },
+      "artists": [
+        {
+          "name": "Someone Else's Rain",
+          "url": "https://open.spotify.com/artist/4TLkUSTypb5TnpKbGCsf6y"
+        }
+      ],
+      "duration_ms": 173845,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/418GlYC0t3bVR8DhEWa7Od"
+    },
+    {
+      "added_at": "2025-01-15 05:00:02",
+      "album": {
+        "name": "Welcome To The New World",
+        "url": "https://open.spotify.com/album/3eVZdxt14mTMZnSVv8p9em"
+      },
+      "artists": [
+        {
+          "name": "Logan Priest",
+          "url": "https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j"
+        }
+      ],
+      "duration_ms": 163986,
+      "name": "Welcome To The New World",
+      "url": "https://open.spotify.com/track/5WlaRNc0zP2CqFOpbUfsxo"
+    },
+    {
       "added_at": "2025-01-08 16:58:18",
       "album": {
         "name": "Still Living With My Parents",
@@ -55,6 +151,22 @@
       "duration_ms": 256064,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/61gTjqzNXQ1U0MbKk0y36H"
+    },
+    {
+      "added_at": "2025-01-15 05:00:02",
+      "album": {
+        "name": "Famous",
+        "url": "https://open.spotify.com/album/7AMfvlvB2jbrqPB64eC69V"
+      },
+      "artists": [
+        {
+          "name": "kitty bella",
+          "url": "https://open.spotify.com/artist/3dDsAxEGXIESY6puCA7YKz"
+        }
+      ],
+      "duration_ms": 190750,
+      "name": "Famous",
+      "url": "https://open.spotify.com/track/0zYVRr9eXLDRMnJmU2ljBc"
     },
     {
       "added_at": "2025-01-08 16:58:18",
@@ -703,118 +815,6 @@
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "rumination as ritual",
-        "url": "https://open.spotify.com/album/2Ym6McICLDy4AXP2bSxRSn"
-      },
-      "artists": [
-        {
-          "name": "Alessi Rose",
-          "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
-        }
-      ],
-      "duration_ms": 164626,
-      "name": "CRUSH!",
-      "url": "https://open.spotify.com/track/0R2rXgOQsLsC1wSBYdKn6l"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Call Me Yours",
-        "url": "https://open.spotify.com/album/3BPC42nOK14EoviiHP71Wg"
-      },
-      "artists": [
-        {
-          "name": "Lillian Hepler",
-          "url": "https://open.spotify.com/artist/6lvijTtp1Fm1apavL6hG5I"
-        }
-      ],
-      "duration_ms": 151829,
-      "name": "Call Me Yours",
-      "url": "https://open.spotify.com/track/3BZrc6J8hFLzl2qX6l7NZN"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/2JpUOlYGfhHdFEkp1ZZBaE"
-      },
-      "artists": [
-        {
-          "name": "Haven Madison",
-          "url": "https://open.spotify.com/artist/4bkKamJB5V4yN1llhAv6RZ"
-        }
-      ],
-      "duration_ms": 199320,
-      "name": "Monster",
-      "url": "https://open.spotify.com/track/05lzBYcUbeU6z19PQ6FCsu"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Love Always Knocks Me Out",
-        "url": "https://open.spotify.com/album/2PzM429yMvxxpcUpPfoCfr"
-      },
-      "artists": [
-        {
-          "name": "Jessica Doolan",
-          "url": "https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW"
-        }
-      ],
-      "duration_ms": 172094,
-      "name": "Love Always Knocks Me Out",
-      "url": "https://open.spotify.com/track/2lDaTN2AqPq9nlhhBQNQcR"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "AMERICAN HEART",
-        "url": "https://open.spotify.com/album/0JqGryJkbyWHYc5cAiBWyC"
-      },
-      "artists": [
-        {
-          "name": "Maxwell Luke",
-          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
-        }
-      ],
-      "duration_ms": 201546,
-      "name": "AMERICAN HEART",
-      "url": "https://open.spotify.com/track/39IyG1mdL1aRwpRS4dWINm"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "trap door",
-        "url": "https://open.spotify.com/album/52ar9wGQcVsqytxEqkUoPu"
-      },
-      "artists": [
-        {
-          "name": "TEHYA",
-          "url": "https://open.spotify.com/artist/1h6hhwFYj4KZTdqq42pjQw"
-        }
-      ],
-      "duration_ms": 179856,
-      "name": "trap door",
-      "url": "https://open.spotify.com/track/6jd2rg6MMpZ2q7sf1E6MAD"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Labyrinth",
-        "url": "https://open.spotify.com/album/58J7m5FqsWRXONXUFYlDsy"
-      },
-      "artists": [
-        {
-          "name": "LEXXE",
-          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
-        }
-      ],
-      "duration_ms": 188947,
-      "name": "Labyrinth",
-      "url": "https://open.spotify.com/track/3okff9iBZu5U0ryGJZP2t2"
     }
   ],
   "unique_name": "Fresh Finds Pop",

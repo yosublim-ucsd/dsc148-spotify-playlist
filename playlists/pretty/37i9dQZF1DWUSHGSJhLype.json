@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: J.Eskine\n",
-  "num_followers": 615252,
+  "num_followers": 615510,
   "original_name": "PURO SUCO DO VER\u00c3O",
   "owner": {
     "name": "Spotify",
@@ -171,6 +171,22 @@
     {
       "added_at": "2025-01-10 03:24:43",
       "album": {
+        "name": "Obrigado Deus",
+        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 159480,
+      "name": "C\u00f3pia Proibida",
+      "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
+    },
+    {
+      "added_at": "2025-01-10 03:24:43",
+      "album": {
         "name": "Malvadinho",
         "url": "https://open.spotify.com/album/0OSgbe5GNzV5ShonkfL6Ev"
       },
@@ -211,22 +227,6 @@
     {
       "added_at": "2025-01-10 03:24:43",
       "album": {
-        "name": "Obrigado Deus",
-        "url": "https://open.spotify.com/album/4RjOODnT7VzuwMJQk7apEG"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 159480,
-      "name": "C\u00f3pia Proibida",
-      "url": "https://open.spotify.com/track/280QfKhmWGn3LbyB39aA7u"
-    },
-    {
-      "added_at": "2025-01-10 03:24:43",
-      "album": {
         "name": "Mentirosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0DoTXscOExkz2eBFSyF1eQ"
       },
@@ -263,6 +263,22 @@
       "duration_ms": 157557,
       "name": "\u00daltima Noite",
       "url": "https://open.spotify.com/track/6Ap9SM1WkmI4b4Mo2Cpa6f"
+    },
+    {
+      "added_at": "2025-01-10 03:24:43",
+      "album": {
+        "name": "\u00daltima Noite (Solo)",
+        "url": "https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9o Foguete",
+          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
+        }
+      ],
+      "duration_ms": 154553,
+      "name": "\u00daltima Noite - Solo",
+      "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
     },
     {
       "added_at": "2025-01-10 03:24:43",
@@ -351,6 +367,26 @@
     {
       "added_at": "2025-01-10 03:24:43",
       "album": {
+        "name": "Pared\u00f5es",
+        "url": "https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld"
+      },
+      "artists": [
+        {
+          "name": "Grelo",
+          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
+        },
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "duration_ms": 175621,
+      "name": "Pared\u00f5es",
+      "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
+    },
+    {
+      "added_at": "2025-01-10 03:24:43",
+      "album": {
         "name": "MTG QUEM N\u00c3O QUER SOU EU",
         "url": "https://open.spotify.com/album/4sLNpzARYcLX5BIGLOvgNC"
       },
@@ -375,42 +411,6 @@
       "duration_ms": 123692,
       "name": "MTG QUEM N\u00c3O QUER SOU EU",
       "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"
-    },
-    {
-      "added_at": "2025-01-10 03:24:43",
-      "album": {
-        "name": "\u00daltima Noite (Solo)",
-        "url": "https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5"
-      },
-      "artists": [
-        {
-          "name": "L\u00e9o Foguete",
-          "url": "https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08"
-        }
-      ],
-      "duration_ms": 154553,
-      "name": "\u00daltima Noite - Solo",
-      "url": "https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn"
-    },
-    {
-      "added_at": "2025-01-10 03:24:43",
-      "album": {
-        "name": "Pared\u00f5es",
-        "url": "https://open.spotify.com/album/2SkILVSOj3RW6DsEdEe4ld"
-      },
-      "artists": [
-        {
-          "name": "Grelo",
-          "url": "https://open.spotify.com/artist/1eIYP01ZLPKEExhcV6xFgt"
-        },
-        {
-          "name": "Henrique & Juliano",
-          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
-        }
-      ],
-      "duration_ms": 175621,
-      "name": "Pared\u00f5es",
-      "url": "https://open.spotify.com/track/4IlklRFZUgNQlwwW0PSLm7"
     },
     {
       "added_at": "2025-01-10 03:24:43",
@@ -519,26 +519,6 @@
     {
       "added_at": "2025-01-10 03:24:43",
       "album": {
-        "name": "Vira Lata",
-        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Gomes",
-          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
-        },
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 130978,
-      "name": "Vira Lata",
-      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
-    },
-    {
-      "added_at": "2025-01-10 03:24:43",
-      "album": {
         "name": "N\u00e3o Fosse T\u00e3o Tarde (MTG Remix)",
         "url": "https://open.spotify.com/album/0m8qklpIFESodRkIOqJ7Ni"
       },
@@ -555,6 +535,26 @@
       "duration_ms": 117230,
       "name": "N\u00e3o Fosse T\u00e3o Tarde - MTG Remix",
       "url": "https://open.spotify.com/track/6gjsnEQxLqVkieeloQTozN"
+    },
+    {
+      "added_at": "2025-01-10 03:24:43",
+      "album": {
+        "name": "Vira Lata",
+        "url": "https://open.spotify.com/album/1073rEb0vN7ZPBc2Fcs1ph"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Gomes",
+          "url": "https://open.spotify.com/artist/4JNo6Q5KdcRf1vtSX9mB0S"
+        },
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 130978,
+      "name": "Vira Lata",
+      "url": "https://open.spotify.com/track/610qP5fEpQMv7gzyLipesZ"
     },
     {
       "added_at": "2025-01-10 03:24:43",
@@ -807,26 +807,6 @@
     {
       "added_at": "2025-01-10 03:24:43",
       "album": {
-        "name": "Arrocha Safad\u00e3o",
-        "url": "https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 175978,
-      "name": "Laranjinha",
-      "url": "https://open.spotify.com/track/4HrIZyZIqd7kqShDXEyN1n"
-    },
-    {
-      "added_at": "2025-01-10 03:24:43",
-      "album": {
         "name": "Energia de Gostosa",
         "url": "https://open.spotify.com/album/2JPwZ43Od1WStAVe0JoZi0"
       },
@@ -843,26 +823,22 @@
     {
       "added_at": "2025-01-10 03:24:43",
       "album": {
-        "name": "Patrai",
-        "url": "https://open.spotify.com/album/3DI8ogem3fcfyRmk7UHHz0"
+        "name": "Arrocha Safad\u00e3o",
+        "url": "https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ"
       },
       "artists": [
         {
-          "name": "NATTAN",
-          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
         },
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "O REI DA BATIDINHA",
-          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
         }
       ],
-      "duration_ms": 113448,
-      "name": "Patrai",
-      "url": "https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL"
+      "duration_ms": 175978,
+      "name": "Laranjinha",
+      "url": "https://open.spotify.com/track/4HrIZyZIqd7kqShDXEyN1n"
     },
     {
       "added_at": "2025-01-10 03:24:43",
@@ -891,6 +867,30 @@
       "duration_ms": 183960,
       "name": "Tenho que Me Decidir",
       "url": "https://open.spotify.com/track/6BWWgcNJWXQ4qRuzY5LzBP"
+    },
+    {
+      "added_at": "2025-01-10 03:24:43",
+      "album": {
+        "name": "Patrai",
+        "url": "https://open.spotify.com/album/3DI8ogem3fcfyRmk7UHHz0"
+      },
+      "artists": [
+        {
+          "name": "NATTAN",
+          "url": "https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT"
+        },
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "O REI DA BATIDINHA",
+          "url": "https://open.spotify.com/artist/1mwcAHaMzrUvCjVcg89lgB"
+        }
+      ],
+      "duration_ms": 113448,
+      "name": "Patrai",
+      "url": "https://open.spotify.com/track/3TzANwXYkLsjIY9CT7prcL"
     },
     {
       "added_at": "2025-01-10 03:24:43",
@@ -955,26 +955,26 @@
     {
       "added_at": "2025-01-10 03:24:43",
       "album": {
-        "name": "CAVALINHO",
-        "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
+        "name": "Tu Xera",
+        "url": "https://open.spotify.com/album/1fszMT29XdTywyKjRNiAff"
       },
       "artists": [
         {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
         },
         {
-          "name": "Gasparzinho",
-          "url": "https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG"
+          "name": "Anderson & Vei da Pisadinha",
+          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
         },
         {
-          "name": "MC Meno K",
-          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
         }
       ],
-      "duration_ms": 138591,
-      "name": "CAVALINHO",
-      "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
+      "duration_ms": 158790,
+      "name": "Tu Xera",
+      "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"
     },
     {
       "added_at": "2025-01-10 03:24:43",
@@ -1003,26 +1003,26 @@
     {
       "added_at": "2025-01-10 03:24:43",
       "album": {
-        "name": "Tu Xera",
-        "url": "https://open.spotify.com/album/1fszMT29XdTywyKjRNiAff"
+        "name": "CAVALINHO",
+        "url": "https://open.spotify.com/album/0bbhibmbqLzyNrNonJeZX4"
       },
       "artists": [
         {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         },
         {
-          "name": "Anderson & Vei da Pisadinha",
-          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
+          "name": "Gasparzinho",
+          "url": "https://open.spotify.com/artist/2OhGFAwMFjVYGWXgUKgxQG"
         },
         {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+          "name": "MC Meno K",
+          "url": "https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK"
         }
       ],
-      "duration_ms": 158790,
-      "name": "Tu Xera",
-      "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"
+      "duration_ms": 138591,
+      "name": "CAVALINHO",
+      "url": "https://open.spotify.com/track/1MAveYqPQN88vAvsrHCCCw"
     },
     {
       "added_at": "2025-01-10 03:24:43",
@@ -1287,22 +1287,6 @@
     {
       "added_at": "2025-01-10 03:24:43",
       "album": {
-        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        }
-      ],
-      "duration_ms": 192421,
-      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
-      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
-    },
-    {
-      "added_at": "2025-01-10 03:24:43",
-      "album": {
         "name": "Sentadona",
         "url": "https://open.spotify.com/album/7lFs6hVt0xCmfKfVHqu04K"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 182813,
       "name": "Sentadona",
       "url": "https://open.spotify.com/track/3xa6lWOIHi5kbMnpYx7ndh"
+    },
+    {
+      "added_at": "2025-01-10 03:24:43",
+      "album": {
+        "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+        "url": "https://open.spotify.com/album/6ruTaJyyvcDhUJCMChPfuW"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        }
+      ],
+      "duration_ms": 192421,
+      "name": "Pede Pra Eu Ficar (Listen To Your Heart)",
+      "url": "https://open.spotify.com/track/5niYBuEDe07PWTkAWC1HnZ"
     },
     {
       "added_at": "2025-01-10 03:24:43",

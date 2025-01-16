@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/archdvs/\">Archie Davis</a>",
-  "num_followers": 22856,
+  "num_followers": 22858,
   "original_name": "Archie Davis' Taste",
   "owner": {
     "name": "Spotify",
@@ -543,6 +543,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "The ExPerience",
+        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
+      },
+      "artists": [
+        {
+          "name": "Lila Ik\u00e9",
+          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
+        }
+      ],
+      "duration_ms": 201522,
+      "name": "Stars Align",
+      "url": "https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Fight For You (From the Original Motion Picture \"Judas and the Black Messiah\")",
         "url": "https://open.spotify.com/album/1K2PS79KFV29pQe7zfyoyP"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 270710,
       "name": "Fight For You - From the Original Motion Picture \"Judas and the Black Messiah\"",
       "url": "https://open.spotify.com/track/2UJsKjM595pEyWUcd8JEIR"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "The ExPerience",
-        "url": "https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK"
-      },
-      "artists": [
-        {
-          "name": "Lila Ik\u00e9",
-          "url": "https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO"
-        }
-      ],
-      "duration_ms": 201522,
-      "name": "Stars Align",
-      "url": "https://open.spotify.com/track/6fhKMr6Yy8hUr28tmWsejh"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -871,6 +871,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Angelic Hoodrat",
+        "url": "https://open.spotify.com/album/48xxKST8oEwMRSVjF93gB3"
+      },
+      "artists": [
+        {
+          "name": "Kenny Mason",
+          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
+        }
+      ],
+      "duration_ms": 172840,
+      "name": "Angelic Hoodrat",
+      "url": "https://open.spotify.com/track/0WcUDVYyI8qOdkesji6kdT"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "The Plugs I Met 2",
         "url": "https://open.spotify.com/album/20XfOL0gmcOQhupwC2bMDj"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 205639,
       "name": "Overall (feat. Chinx)",
       "url": "https://open.spotify.com/track/0gqGG4IiuGwFqECqDyubjE"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Angelic Hoodrat",
-        "url": "https://open.spotify.com/album/48xxKST8oEwMRSVjF93gB3"
-      },
-      "artists": [
-        {
-          "name": "Kenny Mason",
-          "url": "https://open.spotify.com/artist/4mwdnO2jZrMmMVrjcHsZBv"
-        }
-      ],
-      "duration_ms": 172840,
-      "name": "Angelic Hoodrat",
-      "url": "https://open.spotify.com/track/0WcUDVYyI8qOdkesji6kdT"
     },
     {
       "added_at": "2022-10-01 16:00:00",

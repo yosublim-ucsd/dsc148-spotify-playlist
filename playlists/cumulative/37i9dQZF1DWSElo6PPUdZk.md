@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Pari Pandher
 
-177 songs - 9 hr 5 min
+178 songs - 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,13 @@
 | [Bajre Da Sitta](https://open.spotify.com/track/3eTu6nWvilfwbFDtH1F7eH) | [Khyati Sharma](https://open.spotify.com/artist/5FFNybwjWfaPZZ8SXDR2a7), [Leela](https://open.spotify.com/artist/7MBRGHeFs0vKcnK2VqI2dZ) | [Bajre Da Sitta](https://open.spotify.com/album/0h4Dv5YVxWQFD3PYxQXkal) | 2:29 | 2024-10-11 | 2024-11-09 |
 | [Be Aware](https://open.spotify.com/track/1QsojV2MruriPEFHh249kF) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Blessed](https://open.spotify.com/album/59APTUJ5kzD9oqOGAaHlSR) | 3:08 | 2023-10-05 | 2024-04-19 |
 | [Be Aware \(feat\. Kaater\)](https://open.spotify.com/track/63y0bDChOJ5rSd7PsxvTun) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:08 | 2023-03-18 | 2024-09-06 |
+| [Behja](https://open.spotify.com/track/5ipjxMaTd2m0g7fv283MWn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Behja](https://open.spotify.com/album/2HpDwsJz1j15HXXo08OdhF) | 2:01 | 2025-01-15 |  |
 | [Big Loss](https://open.spotify.com/track/76voghdL792BAy9YwEKfzw) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Big Loss](https://open.spotify.com/album/7xZV2oU3dR8taMeW7OGdyP) | 2:45 | 2024-10-10 | 2024-11-16 |
 | [Big Men \- Chapter 3](https://open.spotify.com/track/2Gz1W4urkGIDOxAdbVP6Lm) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Big Men \- Chapter 3](https://open.spotify.com/album/69sDC46O5neuNkAYRklSuq) | 4:36 | 2023-03-18 | 2024-09-12 |
 | [Blackia](https://open.spotify.com/track/4iqXGZnemslGnA0LvUpgdc) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Blackia](https://open.spotify.com/album/1TY5R1wEFyeQyPeZVxpcLG) | 2:12 | 2024-11-05 |  |
 | [Bomb Girls](https://open.spotify.com/track/6lzT9XZmdDnGhHQO35NsxO) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jashan Heer](https://open.spotify.com/artist/1be4zPbQAEj3xPKMwzqYK3), [Ritu Jass](https://open.spotify.com/artist/2FxBavpSzU5ZeSdeirCw7D) | [Bomb Girls](https://open.spotify.com/album/0WRy57nLzCeCoy1u8CzQRT) | 2:43 | 2024-11-18 |  |
 | [Broken Glass](https://open.spotify.com/track/2c8Zm8l8xL2MIscCLrgHNA) | [Bambi Bains](https://open.spotify.com/artist/2HspNtajToyPB9hjki4CVV), [SHAYE](https://open.spotify.com/artist/5bPXhWvQooHOtG2BpoK6Da) | [Broken Glass](https://open.spotify.com/album/1BtsJ1KnKpCjoTYud3z7EU) | 2:20 | 2023-03-18 | 2023-10-10 |
-| [Chaa](https://open.spotify.com/track/2DCXCHRfNg15v6xKNXkWms) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [KV Singh](https://open.spotify.com/artist/5mmEV4u8FRcTvPnXf7TWRF) | [Chaa](https://open.spotify.com/album/0uubOv6pDL9ucUZVuZEtNM) | 3:11 | 2024-10-24 |  |
+| [Chaa](https://open.spotify.com/track/2DCXCHRfNg15v6xKNXkWms) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [KV Singh](https://open.spotify.com/artist/5mmEV4u8FRcTvPnXf7TWRF) | [Chaa](https://open.spotify.com/album/0uubOv6pDL9ucUZVuZEtNM) | 3:11 | 2024-10-24 | 2025-01-16 |
 | [Challa](https://open.spotify.com/track/1JDGbbo7p8vTn9telazxNG) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Challa](https://open.spotify.com/album/4vrY5oQa2qYcA21IBPKNlz) | 4:46 | 2024-12-03 |  |
 | [Chandigarh Ka Chokra](https://open.spotify.com/track/0n2LpEAixGBWK8mwUSGtGb) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chandigarh Ka Chokra](https://open.spotify.com/album/3VWQigEYk4sOaiLNileTP4) | 2:24 | 2023-11-17 |  |
 | [Chori Chori](https://open.spotify.com/track/0XJxjocvgG75ixFM66qxuv) | [Sunanda Sharma](https://open.spotify.com/artist/7AKO4PWJ6ToZVUfA5xmsIY) | [Chori Chori](https://open.spotify.com/album/1kBvmOFJyTfZTg4cfGHSUS) | 2:51 | 2023-03-18 | 2024-12-23 |

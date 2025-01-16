@@ -1,6 +1,6 @@
 {
   "description": "Sambinhas selecionados especialmente pra voc\u00ea curtir um dia de sol.",
-  "num_followers": 156411,
+  "num_followers": 156452,
   "original_name": "Samba & \u00e1gua fresca",
   "owner": {
     "name": "Spotify",
@@ -375,6 +375,22 @@
     {
       "added_at": "2025-01-04 03:01:09",
       "album": {
+        "name": "Raizes Do Samba",
+        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
+      },
+      "artists": [
+        {
+          "name": "Cartola",
+          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
+        }
+      ],
+      "duration_ms": 158800,
+      "name": "Alvorada",
+      "url": "https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D"
+    },
+    {
+      "added_at": "2025-01-04 03:01:09",
+      "album": {
         "name": "Delirios Delicias",
         "url": "https://open.spotify.com/album/1JYt2TdDZ892RB6bns5bGp"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 181665,
       "name": "Lua de S\u00e3o Jorge",
       "url": "https://open.spotify.com/track/0B5NMQDTeq7P6ti4CO9edA"
-    },
-    {
-      "added_at": "2025-01-04 03:01:09",
-      "album": {
-        "name": "Raizes Do Samba",
-        "url": "https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT"
-      },
-      "artists": [
-        {
-          "name": "Cartola",
-          "url": "https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN"
-        }
-      ],
-      "duration_ms": 158800,
-      "name": "Alvorada",
-      "url": "https://open.spotify.com/track/7Bq17tNAUCLceZQOJMnj3D"
     },
     {
       "added_at": "2025-01-04 03:01:09",
@@ -1023,6 +1023,38 @@
     {
       "added_at": "2025-01-04 03:01:09",
       "album": {
+        "name": "Ind\u00edcio de Amor",
+        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
+      },
+      "artists": [
+        {
+          "name": "Tel\u00ea",
+          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
+        }
+      ],
+      "duration_ms": 208736,
+      "name": "Ind\u00edcio de Amor",
+      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
+    },
+    {
+      "added_at": "2025-01-04 03:01:09",
+      "album": {
+        "name": "Beba-Me Ao Vivo",
+        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
+      },
+      "artists": [
+        {
+          "name": "Elza Soares",
+          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
+        }
+      ],
+      "duration_ms": 230173,
+      "name": "Exagero",
+      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
+    },
+    {
+      "added_at": "2025-01-04 03:01:09",
+      "album": {
         "name": "Samba Jazz, de Raiz Cl\u00e1udio Jorge 70",
         "url": "https://open.spotify.com/album/4YIKXtcEx1IUK4eM6awnC4"
       },
@@ -1039,22 +1071,6 @@
     {
       "added_at": "2025-01-04 03:01:09",
       "album": {
-        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
-        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
-      },
-      "artists": [
-        {
-          "name": "Elza Soares",
-          "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
-        }
-      ],
-      "duration_ms": 206541,
-      "name": "Vaso Quebrado",
-      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
-    },
-    {
-      "added_at": "2025-01-04 03:01:09",
-      "album": {
         "name": "Mercado das Flores",
         "url": "https://open.spotify.com/album/61GPvMzsB5rWl3ADvybaup"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 190904,
       "name": "Mercado das Flores",
       "url": "https://open.spotify.com/track/74qN03V0t4EYUM4cnjFdtd"
-    },
-    {
-      "added_at": "2025-01-04 03:01:09",
-      "album": {
-        "name": "Ind\u00edcio de Amor",
-        "url": "https://open.spotify.com/album/27vtkCprC2mUoBnjYx96Vn"
-      },
-      "artists": [
-        {
-          "name": "Tel\u00ea",
-          "url": "https://open.spotify.com/artist/2o8rkPYB1LuAn1CfN0xjm1"
-        }
-      ],
-      "duration_ms": 208736,
-      "name": "Ind\u00edcio de Amor",
-      "url": "https://open.spotify.com/track/0vCeLhWpLbjUoHUy3pq0EL"
     },
     {
       "added_at": "2025-01-04 03:01:09",
@@ -1143,8 +1143,8 @@
     {
       "added_at": "2025-01-04 03:01:09",
       "album": {
-        "name": "Beba-Me Ao Vivo",
-        "url": "https://open.spotify.com/album/5NNbh9qHmD1NVTbNa4p1eM"
+        "name": "Onze (M\u00fasicas In\u00e9ditas de Adoniran Barbosa)",
+        "url": "https://open.spotify.com/album/5XhVm7loNdz3YTAkTgDPgF"
       },
       "artists": [
         {
@@ -1152,9 +1152,9 @@
           "url": "https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi"
         }
       ],
-      "duration_ms": 230173,
-      "name": "Exagero",
-      "url": "https://open.spotify.com/track/1o7E1yPZHMpibuXLOkicWv"
+      "duration_ms": 206541,
+      "name": "Vaso Quebrado",
+      "url": "https://open.spotify.com/track/5xlsorPYXsFijrO57RSe0n"
     },
     {
       "added_at": "2025-01-04 03:01:09",
@@ -1387,6 +1387,22 @@
     {
       "added_at": "2025-01-04 03:01:09",
       "album": {
+        "name": "Sarav\u00e1, Paz e Bem",
+        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
+      },
+      "artists": [
+        {
+          "name": "Elisa Fernandes",
+          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
+        }
+      ],
+      "duration_ms": 223799,
+      "name": "Aprendi a Ser Feliz",
+      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
+    },
+    {
+      "added_at": "2025-01-04 03:01:09",
+      "album": {
         "name": "Aquarela",
         "url": "https://open.spotify.com/album/52aV0MfMGxHNDrs3A4CVhy"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 234293,
       "name": "Para Ver As Meninas - Remaster 2004",
       "url": "https://open.spotify.com/track/5jdwjKcitMUlIxlcGci6Pv"
-    },
-    {
-      "added_at": "2025-01-04 03:01:09",
-      "album": {
-        "name": "Sarav\u00e1, Paz e Bem",
-        "url": "https://open.spotify.com/album/5HcE6hJEToNxkQKG1NJ11z"
-      },
-      "artists": [
-        {
-          "name": "Elisa Fernandes",
-          "url": "https://open.spotify.com/artist/2Otm1s8jSf4zRSjBdg3uAZ"
-        }
-      ],
-      "duration_ms": 223799,
-      "name": "Aprendi a Ser Feliz",
-      "url": "https://open.spotify.com/track/0ep4rSdVM4Fw8KNcj5dfdx"
     },
     {
       "added_at": "2025-01-04 03:01:09",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2025-01-04 03:01:09",
       "album": {
-        "name": "Marisa Monte MM",
-        "url": "https://open.spotify.com/album/7J2lXq7A5sn7OnEYiRCOM5"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 250400,
-      "name": "Lenda Das Sereias, Rainha Do Mar - Ao Vivo",
-      "url": "https://open.spotify.com/track/1XJIZ5RdL0ASYYU019t4Ja"
-    },
-    {
-      "added_at": "2025-01-04 03:01:09",
-      "album": {
         "name": "Atraco",
         "url": "https://open.spotify.com/album/3WbHlIlEtgwCxIlCOwxOZm"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 205663,
       "name": "Atraco",
       "url": "https://open.spotify.com/track/4P8u2XnaM64X8yKYAd5np4"
+    },
+    {
+      "added_at": "2025-01-04 03:01:09",
+      "album": {
+        "name": "Marisa Monte MM",
+        "url": "https://open.spotify.com/album/7J2lXq7A5sn7OnEYiRCOM5"
+      },
+      "artists": [
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 250400,
+      "name": "Lenda Das Sereias, Rainha Do Mar - Ao Vivo",
+      "url": "https://open.spotify.com/track/1XJIZ5RdL0ASYYU019t4Ja"
     },
     {
       "added_at": "2025-01-04 03:01:09",

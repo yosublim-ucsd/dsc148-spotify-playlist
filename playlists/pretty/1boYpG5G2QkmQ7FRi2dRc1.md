@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-[Martin Garrix](https://open.spotify.com/user/martingarrix) - 289,857 likes - 42 songs - 2 hr 25 min
+[Martin Garrix](https://open.spotify.com/user/martingarrix) - 289,846 likes - 42 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/1boYpG5G2QkmQ7FRi2dRc1.md) - [plain]
 | 29 | [I Believe In Miracles](https://open.spotify.com/track/5GgVblBt9ED3jKkNsoWeoh) | [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI), [LMC](https://open.spotify.com/artist/69QKcDt724e93ZYkBSjsYP) | [I Believe In Miracles](https://open.spotify.com/album/5CRmAnjCyw5GKRgIgddbRh) | 2:35 |
 | 30 | [Walk The Plank](https://open.spotify.com/track/2UOLMbCUDhHWWXxY3P8Pzk) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb) | [Childish\(ish\)](https://open.spotify.com/album/1dHOZWCFxMPDer1fKN2uOZ) | 4:45 |
 | 31 | [\(This Is A\) Warning](https://open.spotify.com/track/5lwxdOLjLqdnRie4QinJke) | [Danny Howard](https://open.spotify.com/artist/14MtanGZe4G1fzC8raLFUK), [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Mahalia Fontaine](https://open.spotify.com/artist/1asOp99xmKnDYookkkt3il) | [\(This Is A\) Warning](https://open.spotify.com/album/64Y1ELBGERSq1vXMkhQlGg) | 2:56 |
-| 32 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
+| 32 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 33 | [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 |
 | 34 | [Side By Side \(feat\. Gardna\)](https://open.spotify.com/track/53jHCMopwNom56pcPZfZnJ) | [Eats Everything](https://open.spotify.com/artist/4W991QdgKWX4TO864ypInA), [Gardna](https://open.spotify.com/artist/4thIP9ruwthrnBaBU9Wz8U) | [Side By Side \(feat\. Gardna\)](https://open.spotify.com/album/6jfvXa64nyZhZ21LcKd8Y3) | 3:44 |
 | 35 | [Hypnotized](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |

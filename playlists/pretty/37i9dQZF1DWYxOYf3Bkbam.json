@@ -1,6 +1,6 @@
 {
   "description": "Entre cl\u00e1sicos y nuevos int\u00e9rpretes, puro Chamam\u00e9.",
-  "num_followers": 53650,
+  "num_followers": 53685,
   "original_name": "Mundo Chamam\u00e9",
   "owner": {
     "name": "Spotify",
@@ -471,22 +471,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Los Palmare\u00f1os 23 A\u00f1os",
-        "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
-      },
-      "artists": [
-        {
-          "name": "Los Palmare\u00f1os",
-          "url": "https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Borracho Sin Destino",
-      "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "Festejando los 30 A\u00f1os",
         "url": "https://open.spotify.com/album/55PYfEVMpfUekIwxTfFGQY"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 142320,
       "name": "Sargento Sapo",
       "url": "https://open.spotify.com/track/62Jo56vQRQz0z6kydGxzxO"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "Los Palmare\u00f1os 23 A\u00f1os",
+        "url": "https://open.spotify.com/album/4jjcFw60u6HhcxRaaW4TPj"
+      },
+      "artists": [
+        {
+          "name": "Los Palmare\u00f1os",
+          "url": "https://open.spotify.com/artist/5Yvc9iYsNE0RCQHQgjLfP5"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Borracho Sin Destino",
+      "url": "https://open.spotify.com/track/0pFq0riT31rbg0tnzJLdE0"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "21 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
-      },
-      "artists": [
-        {
-          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
-          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
-        }
-      ],
-      "duration_ms": 206573,
-      "name": "Al Gaucho Gil",
-      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "Noche de Tormenta",
         "url": "https://open.spotify.com/album/6hr16g3X4a82g8PJww6UUd"
       },
@@ -1083,6 +1067,22 @@
       "duration_ms": 192042,
       "name": "La Leyenda de la Brasita de Fuego",
       "url": "https://open.spotify.com/track/0TfXM9Etjlz4wn49fl0yxN"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "21 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1t13ppwxW2oleYDkjWU76W"
+      },
+      "artists": [
+        {
+          "name": "Los Chaque\u00f1\u00edsimos Cardozo",
+          "url": "https://open.spotify.com/artist/00PvYQ6ku9V0asbe45yNgY"
+        }
+      ],
+      "duration_ms": 206573,
+      "name": "Al Gaucho Gil",
+      "url": "https://open.spotify.com/track/4Fcm2EztuFAOiAz95czRxc"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1143,18 +1143,26 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Oraci\u00f3n del Remanso",
-        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
+        "name": "#2: Sin Testigos",
+        "url": "https://open.spotify.com/album/6pT779PGLDp7U0uP5KqCqk"
       },
       "artists": [
         {
-          "name": "Canto Del Alma",
-          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
+          "name": "Santhyago Rios",
+          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
+        },
+        {
+          "name": "Nati Pastorutti",
+          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
+        },
+        {
+          "name": "Fuelle Sessions",
+          "url": "https://open.spotify.com/artist/5ZiaBCHAu2PG9cWZGwdE7g"
         }
       ],
-      "duration_ms": 311531,
-      "name": "Oraci\u00f3n del Remanso",
-      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
+      "duration_ms": 228171,
+      "name": "#2: Sin Testigos",
+      "url": "https://open.spotify.com/track/4XUDu3k42ma37NdQaTnAvu"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1179,26 +1187,18 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "#2: Sin Testigos",
-        "url": "https://open.spotify.com/album/6pT779PGLDp7U0uP5KqCqk"
+        "name": "Oraci\u00f3n del Remanso",
+        "url": "https://open.spotify.com/album/4yWvVRhMCWvBERdaGieOxr"
       },
       "artists": [
         {
-          "name": "Santhyago Rios",
-          "url": "https://open.spotify.com/artist/0E7tn7PjmjZRXorJ8seSAT"
-        },
-        {
-          "name": "Nati Pastorutti",
-          "url": "https://open.spotify.com/artist/4ATUjJkP7Nfgi8LiBajkMD"
-        },
-        {
-          "name": "Fuelle Sessions",
-          "url": "https://open.spotify.com/artist/5ZiaBCHAu2PG9cWZGwdE7g"
+          "name": "Canto Del Alma",
+          "url": "https://open.spotify.com/artist/49HfTSafuknJYlh6S4a3wa"
         }
       ],
-      "duration_ms": 228171,
-      "name": "#2: Sin Testigos",
-      "url": "https://open.spotify.com/track/4XUDu3k42ma37NdQaTnAvu"
+      "duration_ms": 311531,
+      "name": "Oraci\u00f3n del Remanso",
+      "url": "https://open.spotify.com/track/5yXtxFYCdULBj6AOfDHplS"
     },
     {
       "added_at": "2024-11-12 14:23:24",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "20 Superexitos Originales",
-        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
-      },
-      "artists": [
-        {
-          "name": "Isaco Abitbol",
-          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
-        }
-      ],
-      "duration_ms": 171973,
-      "name": "Flor del Litoral",
-      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
-    },
-    {
-      "added_at": "2024-11-12 14:23:24",
-      "album": {
         "name": "Chamam\u00e9 Con Estilo Propio",
         "url": "https://open.spotify.com/album/4SzyVKQbXI2788CC3Cyahb"
       },
@@ -1543,18 +1527,38 @@
     {
       "added_at": "2024-11-12 14:23:24",
       "album": {
-        "name": "Nuestras Mejores 30 Canciones",
-        "url": "https://open.spotify.com/album/1xeeiW2aNJnj9Vweycehex"
+        "name": "20 Superexitos Originales",
+        "url": "https://open.spotify.com/album/49ZEKfNmvCtoiuw03rkSNG"
       },
       "artists": [
         {
-          "name": "Los Hermanos Cardozo",
-          "url": "https://open.spotify.com/artist/2qnTUTsuypizIuMwVM1ffR"
+          "name": "Isaco Abitbol",
+          "url": "https://open.spotify.com/artist/1rQkDePEOWFuLgGEtALo5s"
         }
       ],
-      "duration_ms": 164440,
-      "name": "Mi Anhelo",
-      "url": "https://open.spotify.com/track/0RSJWvAw4zgKIZadqV3CaN"
+      "duration_ms": 171973,
+      "name": "Flor del Litoral",
+      "url": "https://open.spotify.com/track/7LvGJeqq71k1v79gAZ1zBb"
+    },
+    {
+      "added_at": "2024-11-12 14:23:24",
+      "album": {
+        "name": "12 A\u00f1os Con el Chamam\u00e9",
+        "url": "https://open.spotify.com/album/70teadXZbmyYMp8GPyNBcV"
+      },
+      "artists": [
+        {
+          "name": "La Pilarcita",
+          "url": "https://open.spotify.com/artist/0GXO5I9mqQqReUcDWHAmwX"
+        },
+        {
+          "name": "Miguel Arce y La Yunta del Chamam\u00e9",
+          "url": "https://open.spotify.com/artist/61kxyPHjk1ql5qfFrLJXuM"
+        }
+      ],
+      "duration_ms": 191311,
+      "name": "Acordeona No Llores",
+      "url": "https://open.spotify.com/track/3wRoOAl3kmaJuaKAPHkV7t"
     }
   ],
   "unique_name": "Mundo Chamam\u00e9",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw?si=qoTsjA4ARUaeHLwne\-Ukaw">Moonchild Sanelly</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 112,837 likes - 42 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 112,866 likes - 42 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

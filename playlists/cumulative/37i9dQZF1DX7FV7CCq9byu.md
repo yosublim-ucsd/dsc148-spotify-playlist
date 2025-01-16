@@ -4,7 +4,7 @@
 
 > Det bästa från svensk & internationell pop.
 
-492 songs - 1 day 1 hr 10 min
+495 songs - 1 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Chocolate](https://open.spotify.com/track/5YGQ29f9zUVj1gSmUxRBTv) | [Jubël](https://open.spotify.com/artist/4FcZfItjVIsfO9TynErl7X), [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy) | [Chocolate](https://open.spotify.com/album/6A7f059hlBK88EB6JV2O91) | 2:25 | 2024-06-27 | 2024-07-19 |
 | [Close To You](https://open.spotify.com/track/5MPi9e7z46wopyad10R6qx) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Close To You](https://open.spotify.com/album/2gxGzfvXQvjVbQiuVcfKDM) | 3:45 | 2024-06-27 | 2024-08-02 |
 | [Color](https://open.spotify.com/track/6G0eyTmvrL4gjrXRfMnGuj) | [Thilda U](https://open.spotify.com/artist/47HqP5i5LLC1m4RpvF317R) | [Color](https://open.spotify.com/album/0K6D8Qtm7XGmRn2RLcGiWp) | 2:46 | 2024-07-25 | 2024-09-06 |
+| [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/track/4UwTWjL9Twe11zDQTuQ2Lz) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [ENHYPEN](https://open.spotify.com/artist/5t5FqBwTcgKTaWmfEbwQY9), [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8) | [Confessions \(feat\. HEESEUNG & JAKE of ENHYPEN x Paul Russell\)](https://open.spotify.com/album/3ejeKzQ6ahK5iuwnA8Mawl) | 2:38 | 2025-01-15 |  |
 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/4fUoX5rgq5Ep2cCVxAeBeh) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/album/7ix2EWiNF7gDXdXoy99NjK) | 2:37 | 2024-07-11 | 2024-08-30 |
 | [Country Boy](https://open.spotify.com/track/0AWOUx0yzhcr8m76suAFqz) | [Saga Ludvigsson](https://open.spotify.com/artist/19VKEgyjuB7aGmLn8UWWii) | [Country Boy](https://open.spotify.com/album/37DRBJOm9lYHdndsVzXJfQ) | 2:44 | 2025-01-02 |  |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-27 | 2024-08-16 |
@@ -107,6 +108,7 @@
 | [Ditt safeword ikväll?](https://open.spotify.com/track/6dFy8FGkz2B5YLOfxwecNB) | [ANJI](https://open.spotify.com/artist/0OTtMOIJs0iVMT8mpvtU25) | [Ditt safeword ikväll?](https://open.spotify.com/album/0PgHmaUNcwxX4Mhxxoobjg) | 2:12 | 2024-10-10 | 2024-11-23 |
 | [Do It For Love](https://open.spotify.com/track/1gepEl8sp9BHMGiwLBMNeR) | [Klara Hammarström](https://open.spotify.com/artist/52xiNtpaYcZ5jRQ2fqmPI6) | [Do It For Love](https://open.spotify.com/album/4iEd1xGjteZK1UgoOVlAcj) | 3:07 | 2024-06-27 | 2024-08-02 |
 | [Don't Lie](https://open.spotify.com/track/5is9ECympHEpAyTw22IDC5) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Don't Lie](https://open.spotify.com/album/4OjKYMqojvunC37Usp9Myf) | 2:28 | 2024-09-05 | 2024-10-11 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-15 |  |
 | [Du \(Krossa alla fönster\)](https://open.spotify.com/track/3JxPZv8cFAqksKfIbaw38S) | [Youzie](https://open.spotify.com/artist/5quSkKg59RI6NZPpaaApte) | [Du \(Krossa alla fönster\)](https://open.spotify.com/album/5v8dKEBAojeoDHid9247g8) | 2:16 | 2024-08-19 | 2024-09-27 |
 | [Du borde säga förlåt](https://open.spotify.com/track/49ad6wcUMGCD9h5xFrhXoY) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Du borde säga förlåt](https://open.spotify.com/album/4YosBhLppAzSyv2JmWGmyh) | 2:09 | 2024-09-26 | 2024-10-25 |
 | [Du flög iväg](https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI) | [Klaudy](https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd) | [Du flög iväg](https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM) | 2:35 | 2024-11-14 |  |
@@ -350,6 +352,7 @@
 | [push pull](https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [push pull](https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O) | 2:27 | 2025-01-09 |  |
 | [På Måndag](https://open.spotify.com/track/4TnoZMlHYaYVCVB8BXMVj9) | [Miss Li](https://open.spotify.com/artist/04HqRx07Bv9gh7rsrMTqs7) | [Livet, döden, skiten däremellan](https://open.spotify.com/album/1yCaTHv9EDvzA8hIDKIAB9) | 2:58 | 2024-10-10 | 2025-01-10 |
 | [Quitter](https://open.spotify.com/track/3ai1kBVQF9GusoxIdgBrjz) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Quitter](https://open.spotify.com/album/23tD5uyi8NdGSKR8OsuU5t) | 2:41 | 2025-01-02 |  |
+| [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-15 |  |
 | [Record Deal](https://open.spotify.com/track/6FdrYNu0r4XEK2jHTMq6Yx) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Record Deal](https://open.spotify.com/album/6mEUw9i8bI2eXDevJJHiVv) | 3:07 | 2024-10-24 | 2024-12-20 |
 | [Red Flags](https://open.spotify.com/track/7ybeZGBx4WHTh7GeiOOTb5) | [Malou Prytz](https://open.spotify.com/artist/70Pq7N5g2i37OP54Uwj42T) | [Red Flags](https://open.spotify.com/album/1FHWkKB06wxm1AiG16DioO) | 2:44 | 2024-10-10 | 2024-11-23 |
 | [Regnblöta skor](https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0) | [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Regnblöta skor](https://open.spotify.com/album/28QJLh9JDVzlGMp9aUZOyt) | 2:30 | 2024-08-09 | 2024-10-25 |

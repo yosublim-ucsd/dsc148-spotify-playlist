@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Rock para cantar en todos lados! Javier Blake en portada.",
-  "num_followers": 33517,
+  "num_followers": 33540,
   "original_name": "Pop Rock Latino",
   "owner": {
     "name": "Spotify",
@@ -159,22 +159,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "NO ME IMPORTA",
-        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
-      },
-      "artists": [
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 153815,
-      "name": "NO ME IMPORTA",
-      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Diamantes",
         "url": "https://open.spotify.com/album/2Yyxl3sTrmwzr0IAtI1nl8"
       },
@@ -191,6 +175,22 @@
       "duration_ms": 243234,
       "name": "Diamantes",
       "url": "https://open.spotify.com/track/4UNnkCN1QCJsmFFZOYeBdp"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "NO ME IMPORTA",
+        "url": "https://open.spotify.com/album/0BviN7vBSyv8nlVF8gJAMc"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 153815,
+      "name": "NO ME IMPORTA",
+      "url": "https://open.spotify.com/track/7gTIqYWwORtQhWcCVakfnD"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -263,22 +263,22 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Que nadie me llore",
-        "url": "https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ"
+        "name": "Nada por Hecho (feat. Leiva)",
+        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
       },
       "artists": [
         {
-          "name": "Funambulista",
-          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
         },
         {
-          "name": "La La Love You",
-          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+          "name": "Leiva",
+          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
         }
       ],
-      "duration_ms": 210970,
-      "name": "Que nadie me llore",
-      "url": "https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd"
+      "duration_ms": 208802,
+      "name": "Nada por Hecho (feat. Leiva)",
+      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -295,6 +295,26 @@
       "duration_ms": 180000,
       "name": "Nublado",
       "url": "https://open.spotify.com/track/5JCquuXMmdXNypO32fPb0M"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Que nadie me llore",
+        "url": "https://open.spotify.com/album/7BXY4JP64W7KwKR2hJU1MZ"
+      },
+      "artists": [
+        {
+          "name": "Funambulista",
+          "url": "https://open.spotify.com/artist/16UAI1WxiKCIKd4NHtFt2U"
+        },
+        {
+          "name": "La La Love You",
+          "url": "https://open.spotify.com/artist/5Q30fhTc0Sl0Q4C5dOjhhQ"
+        }
+      ],
+      "duration_ms": 210970,
+      "name": "Que nadie me llore",
+      "url": "https://open.spotify.com/track/2vCDuKqfm1yWz1znIU2uEd"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -351,26 +371,6 @@
       "duration_ms": 235360,
       "name": "S\u00f3lo Qu\u00e9date En Silencio",
       "url": "https://open.spotify.com/track/2yqqGDKsgqw27XvnBCgXwD"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
-        "name": "Nada por Hecho (feat. Leiva)",
-        "url": "https://open.spotify.com/album/6dD5pmen05khim74MHtYC9"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        },
-        {
-          "name": "Leiva",
-          "url": "https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7"
-        }
-      ],
-      "duration_ms": 208802,
-      "name": "Nada por Hecho (feat. Leiva)",
-      "url": "https://open.spotify.com/track/44XbWNRHal0zmIFVdxdG18"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -439,6 +439,22 @@
       "duration_ms": 196190,
       "name": "Ah\u00ed Est\u00e1s",
       "url": "https://open.spotify.com/track/4YOiOj1ieSsH8R29fWWf8Y"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "Miel de Azar",
+        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
+      },
+      "artists": [
+        {
+          "name": "Siddhartha",
+          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
+        }
+      ],
+      "duration_ms": 192197,
+      "name": "Como Queremos",
+      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -515,22 +531,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Miel de Azar",
-        "url": "https://open.spotify.com/album/1qpILF6cHlPJzUOvZfdIma"
-      },
-      "artists": [
-        {
-          "name": "Siddhartha",
-          "url": "https://open.spotify.com/artist/2aqFBHOpM9uIgBpUsdq09x"
-        }
-      ],
-      "duration_ms": 192197,
-      "name": "Como Queremos",
-      "url": "https://open.spotify.com/track/0Zcd8XxgKeRNQAUIpsHr7c"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "A Fuego",
         "url": "https://open.spotify.com/album/5fwB9BD3xstcl7cZpxYFmH"
       },
@@ -563,6 +563,22 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
+        "name": "Narvarte",
+        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
+      },
+      "artists": [
+        {
+          "name": "Wiplash",
+          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
+        }
+      ],
+      "duration_ms": 193906,
+      "name": "Prometimos",
+      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
         "name": "Contradicci\u00f3n",
         "url": "https://open.spotify.com/album/6rtsrC8IQb9s0kbuL7lr7y"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 296613,
       "name": "Contradicci\u00f3n",
       "url": "https://open.spotify.com/track/2vCQG5PSjoJnfFnij0TdAc"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
-        "name": "Narvarte",
-        "url": "https://open.spotify.com/album/3kCuVZItIikXwQoNER1SlI"
-      },
-      "artists": [
-        {
-          "name": "Wiplash",
-          "url": "https://open.spotify.com/artist/1KDNCVuc8zP3h8O1T5MJm9"
-        }
-      ],
-      "duration_ms": 193906,
-      "name": "Prometimos",
-      "url": "https://open.spotify.com/track/1V5zzGagkwA8n4f13R8aQL"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -951,6 +951,22 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
+        "name": "Clich\u00e9s",
+        "url": "https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 198133,
+      "name": "Clich\u00e9s",
+      "url": "https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
         "name": "Marta tiene un marcapasos",
         "url": "https://open.spotify.com/album/3MMHQ8sRJO9QW6znUhgQBW"
       },
@@ -971,38 +987,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "Clich\u00e9s",
-        "url": "https://open.spotify.com/album/5m4LQysjakthnOllaQEVSc"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 198133,
-      "name": "Clich\u00e9s",
-      "url": "https://open.spotify.com/track/3Zxj5KmrjQHDJJwSBw1JbX"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
-        "name": "ECLIPSE",
-        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
-      },
-      "artists": [
-        {
-          "name": "KHEA",
-          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
-        }
-      ],
-      "duration_ms": 153837,
-      "name": "ECLIPSE",
-      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Mechero",
         "url": "https://open.spotify.com/album/0LBStN1TwxSXfDlYj1SQIK"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 155392,
       "name": "Mechero",
       "url": "https://open.spotify.com/track/2EJeJwsC9ApcPx8rxB5OwO"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "ECLIPSE",
+        "url": "https://open.spotify.com/album/3Nv2CgSejy30r4EM0JTLFu"
+      },
+      "artists": [
+        {
+          "name": "KHEA",
+          "url": "https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR"
+        }
+      ],
+      "duration_ms": 153837,
+      "name": "ECLIPSE",
+      "url": "https://open.spotify.com/track/3mEb7NQ4pCQ7Rwy9RVC2eq"
     },
     {
       "added_at": "2025-01-03 06:00:20",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2025-01-03 06:00:20",
       "album": {
-        "name": "A C\u00e1mara Lenta",
-        "url": "https://open.spotify.com/album/3tUp1EwaPobnuLU14EwmsF"
-      },
-      "artists": [
-        {
-          "name": "Dorian",
-          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
-        },
-        {
-          "name": "Daniela Spalla",
-          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
-        }
-      ],
-      "duration_ms": 264500,
-      "name": "A C\u00e1mara Lenta",
-      "url": "https://open.spotify.com/track/1iKFiYONcwgZQK1pZEFBbg"
-    },
-    {
-      "added_at": "2025-01-03 06:00:20",
-      "album": {
         "name": "Tesis",
         "url": "https://open.spotify.com/album/6sT7h11fZe8KYvvhQ1ZSDg"
       },
@@ -1115,6 +1095,26 @@
       "duration_ms": 260760,
       "name": "Tesis",
       "url": "https://open.spotify.com/track/78m2WsauEVLdtJ3nQQwV23"
+    },
+    {
+      "added_at": "2025-01-03 06:00:20",
+      "album": {
+        "name": "A C\u00e1mara Lenta",
+        "url": "https://open.spotify.com/album/3tUp1EwaPobnuLU14EwmsF"
+      },
+      "artists": [
+        {
+          "name": "Dorian",
+          "url": "https://open.spotify.com/artist/6GoZ2axiSqX91WzMrvJfWk"
+        },
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "duration_ms": 264500,
+      "name": "A C\u00e1mara Lenta",
+      "url": "https://open.spotify.com/track/1iKFiYONcwgZQK1pZEFBbg"
     },
     {
       "added_at": "2025-01-03 06:00:20",

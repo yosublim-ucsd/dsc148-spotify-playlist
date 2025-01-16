@@ -4651,6 +4651,24 @@
     },
     {
       "album": {
+        "name": "Made Of",
+        "url": "https://open.spotify.com/album/3qrzLXpKrkxYvdS5oDfpDV"
+      },
+      "artists": [
+        {
+          "name": "Goldielocks",
+          "url": "https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181840,
+      "name": "Made Of",
+      "url": "https://open.spotify.com/track/4xlcLdfBSMO56LEbhfbVtx"
+    },
+    {
+      "album": {
         "name": "Makaveli",
         "url": "https://open.spotify.com/album/7kJfXEZquDpzjNcmN5MX33"
       },

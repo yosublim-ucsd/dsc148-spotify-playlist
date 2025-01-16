@@ -4,7 +4,7 @@
 
 > A calm, instrumental reading playlist.
 
-462 songs - 19 hr 39 min
+464 songs - 19 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,12 +212,14 @@
 | [Libellule](https://open.spotify.com/track/0d331ogYaPH7un6BnYDjLj) | [Isaac Boudillet](https://open.spotify.com/artist/1435UnexYmW8YoyUf5cTmx) | [Libellule](https://open.spotify.com/album/0YtB4ZKR95JR1IoVk3lrgf) | 2:45 | 2022-04-04 | 2024-04-10 |
 | [Liebevoll](https://open.spotify.com/track/5M4W1gIBx3eqCoxZWy48zE) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Liebevoll](https://open.spotify.com/album/5lp9wSSEvsgowFwuhrJ4Z8) | 2:24 | 2023-10-23 |  |
 | [Liegende](https://open.spotify.com/track/6HEdLZYxdEUeAJTYdsqjND) | [Temperance Lloyd](https://open.spotify.com/artist/14TpyA305vuhI6hEz57cLq) | [Liegende](https://open.spotify.com/album/25qCxo5QzY8UjJxq2SJHwY) | 2:02 | 2023-03-07 | 2024-08-13 |
+| [Lighthouse](https://open.spotify.com/track/5VAxwsxCF8W1B0i4SB3YR5) | [Alexandro Alain](https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD) | [Lighthouse](https://open.spotify.com/album/4Ene5PO26lDN4xJXvgiKnf) | 2:25 | 2025-01-15 |  |
 | [Litany](https://open.spotify.com/track/6hNwn4kKfeuDJUDqNFI4s9) | [Daniella Babbitt](https://open.spotify.com/artist/11qA90NqXDlLWVji5Vmwct) | [Litany](https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5) | 2:52 | 2022-04-04 | 2022-05-21 |
 | [Little Boy](https://open.spotify.com/track/4ugfH6l185E6ahXiWQdmdD) | [Haru Kitamura](https://open.spotify.com/artist/6qjQ8iKIjHkc6x5wodNJiD) | [Little Boy](https://open.spotify.com/album/22j6ckEXQqatndRT7AFLYT) | 2:02 | 2024-03-19 |  |
 | [Littoral](https://open.spotify.com/track/73Nea4j1hzgzKdgOLaiiZd) | [Jozef De Schutter](https://open.spotify.com/artist/3h4qdlsSNxMXLzlaITwT7o) | [Littoral](https://open.spotify.com/album/6tPOxLpqILRg4kIfRpkSJC) | 2:21 | 2024-02-02 |  |
 | [Longing For Yesterday](https://open.spotify.com/track/6dHlvIZhsp3Ts3MUsyudKa) | [Charles Weathersby](https://open.spotify.com/artist/3PTjnqoKl6QVBWt7bSrhMz) | [Longing For Yesterday](https://open.spotify.com/album/05JFGW1xgW0McGf9EiQl0v) | 3:37 | 2022-04-04 | 2022-05-21 |
 | [Look Up Into The Sky](https://open.spotify.com/track/2B3IRd11PnWIuoSABoGw1y) | [Clara Nishimoto](https://open.spotify.com/artist/1hgBYux2Cpl893e98XlC2z) | [Look Up Into The Sky](https://open.spotify.com/album/77hIdlLy7Fzt7KDpWakVte) | 2:02 | 2024-03-19 |  |
 | [Los Viejos Tiempos](https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3) | [Arvid Purna](https://open.spotify.com/artist/0B8wOVY2YZ4A3KVLNdtp2K) | [Los Viejos Tiempos](https://open.spotify.com/album/2kwDucB8NNIJJVpcsnj8mA) | 1:53 | 2022-04-04 | 2022-07-08 |
+| [Lost & Found](https://open.spotify.com/track/1uiwqLV4FAeKyqhkgTowHo) | [Aron E\. Ross](https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4) | [Lost & Found](https://open.spotify.com/album/3S8Dj7KdbgrmImW3lvKqVW) | 2:41 | 2025-01-15 |  |
 | [Lost to memories](https://open.spotify.com/track/6ISg0RvvHZ2qq1wE8Mhyyx) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Lost to memories](https://open.spotify.com/album/4GAsrXkkHDnxSEdtzU63Xj) | 2:14 | 2023-10-23 |  |
 | [Lumière Du Matin](https://open.spotify.com/track/7HqxTwva2cSMSbLDAEzaI5) | [Abelin Lagarde](https://open.spotify.com/artist/3js7EAaEd42YT5pAYfm5PD) | [Lumière Du Matin](https://open.spotify.com/album/2oMkIdTiqOZcCSzul1c7BJ) | 2:47 | 2022-04-04 | 2022-04-29 |
 | [Lydian Fairytale](https://open.spotify.com/track/763DOeT2XIrzMjbC3LLF5i) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Lydian Fairytale](https://open.spotify.com/album/4TVVWsBh3tY8GXupSSoCc4) | 1:45 | 2023-01-20 | 2023-07-19 |

@@ -265,6 +265,24 @@
     },
     {
       "album": {
+        "name": "Cold Winter",
+        "url": "https://open.spotify.com/album/1LVIZa0uPw9qAsjdQVd05m"
+      },
+      "artists": [
+        {
+          "name": "Keels",
+          "url": "https://open.spotify.com/artist/1Y2eFp5L0YHdho5WsGWSzU"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Cold Winter",
+      "url": "https://open.spotify.com/track/2roIpXQCwjCcPC9kwh8V7x"
+    },
+    {
+      "album": {
         "name": "Cougar In the Corner",
         "url": "https://open.spotify.com/album/77mKy6Lxfc3Zw3KmgWrfkd"
       },

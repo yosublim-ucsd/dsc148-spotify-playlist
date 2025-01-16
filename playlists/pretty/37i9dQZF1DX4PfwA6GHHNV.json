@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19854,
+  "num_followers": 19853,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,26 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "Natureza",
+        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Natureza",
+      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "1 a 1.",
         "url": "https://open.spotify.com/album/4Eb580XTff2K6dMJ45HNrB"
       },
@@ -703,26 +723,6 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "Natureza",
-        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Natureza",
-      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
         "name": "Desacelera",
         "url": "https://open.spotify.com/album/60lpVugPjTAKSHvTAjKfwo"
       },
@@ -743,26 +743,6 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "Atitude",
-        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
-      },
-      "artists": [
-        {
-          "name": "RUBY",
-          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
-        },
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        }
-      ],
-      "duration_ms": 185741,
-      "name": "Brinca Comigo",
-      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
         "name": "T\u00f4 Aqui de Novo",
         "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
       },
@@ -779,6 +759,26 @@
       "duration_ms": 215572,
       "name": "T\u00f4 Aqui de Novo",
       "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
+        "name": "Atitude",
+        "url": "https://open.spotify.com/album/6tYdzOUi6zt72Z3uBjU7wZ"
+      },
+      "artists": [
+        {
+          "name": "RUBY",
+          "url": "https://open.spotify.com/artist/3R4UjDoXOwLdlSU1saSkx1"
+        },
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        }
+      ],
+      "duration_ms": 185741,
+      "name": "Brinca Comigo",
+      "url": "https://open.spotify.com/track/2uxY4K8R06Rkl5ftqQWHtd"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -847,30 +847,6 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
-        "name": "B\u00f3ra",
-        "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
-      },
-      "artists": [
-        {
-          "name": "Kayode",
-          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
-        },
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "ONNiKA",
-          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
-        }
-      ],
-      "duration_ms": 235800,
-      "name": "B\u00f3ra",
-      "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
         "name": "Pu'ce",
         "url": "https://open.spotify.com/album/0Q5qza0E2RJ0JvUIRiHr8C"
       },
@@ -907,6 +883,30 @@
       "duration_ms": 155294,
       "name": "TocToc",
       "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
+        "name": "B\u00f3ra",
+        "url": "https://open.spotify.com/album/4S7dUAVhzijrwmyXFAeEmv"
+      },
+      "artists": [
+        {
+          "name": "Kayode",
+          "url": "https://open.spotify.com/artist/4INEA2DC8oSfrwawiCuHqW"
+        },
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "ONNiKA",
+          "url": "https://open.spotify.com/artist/7h2qMFZKbjifWLpMhsQ988"
+        }
+      ],
+      "duration_ms": 235800,
+      "name": "B\u00f3ra",
+      "url": "https://open.spotify.com/track/72Sh71maWsoTAJpWDZnpBt"
     },
     {
       "added_at": "2024-12-13 16:52:11",
@@ -995,6 +995,26 @@
     {
       "added_at": "2024-12-13 16:52:11",
       "album": {
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
+    },
+    {
+      "added_at": "2024-12-13 16:52:11",
+      "album": {
         "name": "A\u00ed \u00e9 Bom Demais",
         "url": "https://open.spotify.com/album/08c5GcRuyhM8YYaqAbfvRu"
       },
@@ -1015,26 +1035,6 @@
       "duration_ms": 197667,
       "name": "A\u00ed \u00e9 Bom Demais",
       "url": "https://open.spotify.com/track/6PXlhZWUQPF6vUoBPEfNl0"
-    },
-    {
-      "added_at": "2024-12-13 16:52:11",
-      "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
     },
     {
       "added_at": "2024-12-13 16:52:11",

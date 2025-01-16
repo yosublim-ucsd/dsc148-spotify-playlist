@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Ian Lucas, La T y La M Fede Vigevani & Marama.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,168,422 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,168,464 likes - 100 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,8 +97,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 87 | [Tu Flayte](https://open.spotify.com/track/1fEHUX18VdLbA3TeIEZx3q) | [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Marka Akme](https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf) | [Tu Flayte](https://open.spotify.com/album/4hxcCrHfZSlHAhQbpoMHbX) | 2:54 |
 | 88 | [Prometí](https://open.spotify.com/track/5ZneIBS61svHm9FDhsPma3) | [Fer Vazquez](https://open.spotify.com/artist/5nAsuOI0lqqbii7YFCh7cB), [Chili Fernandez](https://open.spotify.com/artist/3YXV0Ed1NtUyaR9WJF2JID), [Candu DomÍnguez](https://open.spotify.com/artist/5m9vITkrXG8sov2qittAfI), [ZHAE](https://open.spotify.com/artist/0RLlNL6R3nAkU6IpGT0gn9) | [Prometí](https://open.spotify.com/album/5ZWScEMjgn79zqyof8qvW1) | 2:36 |
 | 89 | [Tranquila](https://open.spotify.com/track/5NMPnWUDvXr8Vnauv7I7YZ) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Tranquila](https://open.spotify.com/album/4VoOmCYmdOgQEK4TidgNtj) | 3:03 |
-| 90 | [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 |
-| 91 | [Pasatiempo](https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Pasatiempo](https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq) | 3:17 |
+| 90 | [Pasatiempo](https://open.spotify.com/track/0ZRswNoAS92a45NQjypAxL) | [La China](https://open.spotify.com/artist/7fRUttEpuIdM0JzPaCMwVO), [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF) | [Pasatiempo](https://open.spotify.com/album/79S3lGLNc5komX3DBpmleq) | 3:17 |
+| 91 | [Noche de Party](https://open.spotify.com/track/4PDoCa5P0QK7KFhTsEKJB8) | [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx), [Nico Valdi](https://open.spotify.com/artist/0uxYECT7XqHNccQAg5Uhe4) | [Noche de Party](https://open.spotify.com/album/7AYQWNlciOicju4y24ytpD) | 2:32 |
 | 92 | [Noche de Buenos Besos](https://open.spotify.com/track/6ILIhq9LFEVu3k2casEiQB) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [Dj Ronel](https://open.spotify.com/artist/3Gkn3KnremPjj8a1iTl1DT), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Noche de Buenos Besos](https://open.spotify.com/album/4EkbDtwqjpDjip1JalgQlO) | 2:26 |
 | 93 | [Cumbia Cheta](https://open.spotify.com/track/5KTSHYA5CetGTZuRYYJcHi) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK), [Cami Raj](https://open.spotify.com/artist/18Kdk0oWKMg7P4601cD4dZ) | [Cumbia Cheta](https://open.spotify.com/album/5AStnZOfpqxI4IsemDUdkn) | 2:31 |
 | 94 | [Juego de Seduccion / Persiana Americana / Corazon Delator / Cuando Pase el Temblor / Tratame Suavemente / De Musica Ligera](https://open.spotify.com/track/4LVAaT0AupDe4EKttxYazr) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [A 30 Años de una Pasión Inexplicable..\. Solo He Nacido para Amarte](https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l) | 7:55 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DBcbHcgPJw.md) - [plain]
 | 97 | [Pechito Partido](https://open.spotify.com/track/1IT2VUL1Nx6Y3AdCfm0wcO) | [Rei](https://open.spotify.com/artist/4IG1SDlwgNKzqTmjBrvY3K) | [Pechito Partido](https://open.spotify.com/album/2DSB1Vljm1tDrcH6Hk06F7) | 2:27 |
 | 98 | [OTRA COPA MÁS](https://open.spotify.com/track/0F5FCL8GDttbCy97UusxHx) | [AGUI](https://open.spotify.com/artist/1VjZe744ub9n8wqpe1CuzS), [Valentino Merlo](https://open.spotify.com/artist/55ru5B05MMBunM1tvH7Di6), [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Los Totora](https://open.spotify.com/artist/6Cv7YpJ01y71mdgm4szmU2), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [OTRA COPA MÁS](https://open.spotify.com/album/3vCusuv3lCOWNDm80NF9gm) | 2:38 |
 | 99 | [Maravillosa Esta Noche](https://open.spotify.com/track/1gonyTKH24V4eDFEbnvewJ) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24) | [Maravillosa Esta Noche](https://open.spotify.com/album/5fgZ0novezag3oHcyGWVQb) | 4:02 |
-| 100 | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 |
+| 100 | [El Trend](https://open.spotify.com/track/2FkGAd5K5P88bAoNnzcpYF) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [El Trend](https://open.spotify.com/album/0PPp0cxBchPiKSmZune2ko) | 2:33 |
 
 Snapshot ID: `Z4CNSQAAAACDf3BPtADTrbS6ptoV0JVw`

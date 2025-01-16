@@ -1,12 +1,12 @@
 {
   "description": "iykyk",
-  "num_followers": 4065353,
+  "num_followers": 4066537,
   "original_name": "big on the internet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4AV3gAAAADYPq+YZ3U2R6xVQN5LlA/S",
+  "snapshot_id": "Z4grzwAAAAAoXvojQqWhHB22roXJ/37Y",
   "tracks": [
     {
       "added_at": "2024-12-31 17:22:51",
@@ -45,6 +45,22 @@
       "url": "https://open.spotify.com/track/2VyvDGdcVY04cNYou9MFVX"
     },
     {
+      "added_at": "2025-01-15 21:42:39",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
       "added_at": "2024-12-31 17:22:51",
       "album": {
         "name": "SOS Deluxe: LANA",
@@ -59,22 +75,6 @@
       "duration_ms": 180746,
       "name": "BMF",
       "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
-    },
-    {
-      "added_at": "2025-01-07 17:43:33",
-      "album": {
-        "name": "Tweaker",
-        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
-      },
-      "artists": [
-        {
-          "name": "G3 GELO",
-          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "Tweaker",
-      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
       "added_at": "2024-11-27 01:26:36",
@@ -107,6 +107,22 @@
       "duration_ms": 284066,
       "name": "Messy",
       "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+    },
+    {
+      "added_at": "2025-01-15 21:42:39",
+      "album": {
+        "name": "Superficial (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0ohNLvVPgFvthWYGpepIA0"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "duration_ms": 210346,
+      "name": "I'll Do It",
+      "url": "https://open.spotify.com/track/7gk4vtgckLeo8C2l14QhHU"
     },
     {
       "added_at": "2024-12-27 01:52:22",
@@ -155,6 +171,22 @@
       "duration_ms": 243131,
       "name": "No. 1 Party Anthem",
       "url": "https://open.spotify.com/track/5TTGoX70AFrTvuEtqHK37S"
+    },
+    {
+      "added_at": "2025-01-07 17:43:33",
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an"
+      },
+      "artists": [
+        {
+          "name": "G3 GELO",
+          "url": "https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
     },
     {
       "added_at": "2024-12-08 17:38:51",
@@ -617,26 +649,6 @@
       "url": "https://open.spotify.com/track/1Mza2sr6tPhy6jjI3HB9fW"
     },
     {
-      "added_at": "2024-12-06 05:51:23",
-      "album": {
-        "name": "All Eyez On Me",
-        "url": "https://open.spotify.com/album/78iX7tMceN0FsnmabAtlOC"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "K-Ci & JoJo",
-          "url": "https://open.spotify.com/artist/05RZIdfz59ZW2FvFuwnmNK"
-        }
-      ],
-      "duration_ms": 287546,
-      "name": "How Do U Want It (ft. K-Ci & JoJo)",
-      "url": "https://open.spotify.com/track/2S2x5N5VJNn7vqYukvoFFC"
-    },
-    {
       "added_at": "2024-11-13 20:17:29",
       "album": {
         "name": "GLORIOUS",
@@ -671,26 +683,6 @@
       "duration_ms": 183653,
       "name": "Oscar Winning Tears.",
       "url": "https://open.spotify.com/track/0iO2iCAjtX0t5duvczNQt6"
-    },
-    {
-      "added_at": "2024-11-29 15:56:41",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
-        }
-      ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
       "added_at": "2024-09-15 14:55:01",
@@ -813,7 +805,7 @@
       "artists": [
         {
           "name": "John + Jane Q. Public",
-          "url": "https://open.spotify.com/artist/6zj2ZyQxZl9Omk4v7kcahS"
+          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
         }
       ],
       "duration_ms": 110110,

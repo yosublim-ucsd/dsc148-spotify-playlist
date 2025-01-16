@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Antiworld Gangsters
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,411 likes - 70 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,436 likes - 70 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,9 +21,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 11 | [Time Of My life](https://open.spotify.com/track/0GVWa6o5Kfai286WCKB1d0) | [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl), [ArrDee](https://open.spotify.com/artist/7m0BsF0t3K9WQFgKoPejfk) | [Time Of My Life](https://open.spotify.com/album/68LmZVzRuCex2vfwAYar5J) | 2:35 |
 | 12 | [Metaverse](https://open.spotify.com/track/0WeU5EfNFu1wmlmCdMNDEJ) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:59 |
 | 13 | [Jehovah](https://open.spotify.com/track/7EfjkOYi6He33zzUoHuUjs) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Jehovah](https://open.spotify.com/album/7K7GOwWQmFZNeH49dQbIoM) | 2:44 |
-| 14 | [Amen](https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Amen](https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ) | 2:52 |
+| 14 | [Vibration](https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Vibration](https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh) | 3:01 |
 | 15 | [Ave Maria](https://open.spotify.com/track/6al03F4hh8LUPRMcnrM3H5) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [Ave Maria](https://open.spotify.com/album/5vlT6FIqF6Rh25v1EWZ2Kj) | 3:02 |
-| 16 | [Vibration](https://open.spotify.com/track/3yEPVODnT2tXcc3NN6ymIN) | [Magixx](https://open.spotify.com/artist/0rskhjcLm5BxjwZDRs4142), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [Vibration](https://open.spotify.com/album/3UN7Hvdib6FUBXVOZHNYjh) | 3:01 |
+| 16 | [Amen](https://open.spotify.com/track/2dRFCprhcvQiGXSEqQ0ezN) | [Ruhdee](https://open.spotify.com/artist/35mbIBk1cdrDYqSycUjRnp) | [Amen](https://open.spotify.com/album/4kooYg4oSlwBn24L37DVKJ) | 2:52 |
 | 17 | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/track/0MAUM5bJIV77liYMlLLf08) | [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU) | [Forever \(feat\. Shallipopi\)](https://open.spotify.com/album/59uFPaqOx7ASdp3SM6tTFZ) | 2:35 |
 | 18 | [Bad Bitch Syndrome](https://open.spotify.com/track/6V1BfTxzfU4JcwBesWQCYA) | [Siraheem](https://open.spotify.com/artist/1FAkIUZ8pw9AncpmPhhmuh) | [Bad Bitch Syndrome](https://open.spotify.com/album/3bdRUP7CvZbML84mXRiOjS) | 2:21 |
 | 19 | [Hello Habibi](https://open.spotify.com/track/4nj32rIPm4mqx15x8B1meM) | [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [Ikigai / 生き甲斐, Vol\. 1](https://open.spotify.com/album/4L4439Ev3pC3bRZdmKUCgI) | 2:16 |
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 66 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
 | 67 | [LOCO](https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Afro Jersey](https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ) | 2:20 |
 | 68 | [Make It Out](https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O) | [Shegzy Marley](https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs), [Areezy](https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD) | [Make It Out](https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL) | 2:43 |
-| 69 | [Influencer Girl](https://open.spotify.com/track/2OsCMidkvq6H6ckbfvSHTv) | [Bils](https://open.spotify.com/artist/4ra22MalcoLKAIJwwkeJ8o) | [In Bils We Trust](https://open.spotify.com/album/3E7OKKaqJbcLpzHT8zVyDN) | 2:00 |
-| 70 | [Burn](https://open.spotify.com/track/43MLiJ282su6RaUz6HIUJZ) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Burn](https://open.spotify.com/album/28CwDxrjgiiRREUROkq2RV) | 1:26 |
+| 69 | [Burn](https://open.spotify.com/track/43MLiJ282su6RaUz6HIUJZ) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Burn](https://open.spotify.com/album/28CwDxrjgiiRREUROkq2RV) | 1:26 |
+| 70 | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC) | 2:44 |
 
 Snapshot ID: `Z2SQ3QAAAAB5M+HhUCaDMW1MTrKK4tHF`

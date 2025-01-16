@@ -1,6 +1,6 @@
 {
   "description": "Dope, Asian, and Femme. Cover: ROS\u00c9",
-  "num_followers": 85547,
+  "num_followers": 85568,
   "original_name": "Dope AF",
   "owner": {
     "name": "Spotify",
@@ -1299,6 +1299,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "one last fucc",
+        "url": "https://open.spotify.com/album/2doYY3cdRUHPG4nJam6aQX"
+      },
+      "artists": [
+        {
+          "name": "Ka Lia Universe",
+          "url": "https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb"
+        }
+      ],
+      "duration_ms": 234367,
+      "name": "one last fucc",
+      "url": "https://open.spotify.com/track/1cGDDTx0HKg1ydelOa3Fkf"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "The Weekend",
         "url": "https://open.spotify.com/album/6zQD9g698P2LjEtKpoBXWq"
       },
@@ -1315,22 +1331,6 @@
       "duration_ms": 167661,
       "name": "The Weekend",
       "url": "https://open.spotify.com/track/5q3LwAHTqo9d3rET2EA9Nq"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "one last fucc",
-        "url": "https://open.spotify.com/album/2doYY3cdRUHPG4nJam6aQX"
-      },
-      "artists": [
-        {
-          "name": "Ka Lia Universe",
-          "url": "https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb"
-        }
-      ],
-      "duration_ms": 234367,
-      "name": "one last fucc",
-      "url": "https://open.spotify.com/track/1cGDDTx0HKg1ydelOa3Fkf"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1415,22 +1415,18 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Split",
-        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
+        "name": "i deserve better",
+        "url": "https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4"
       },
       "artists": [
         {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "NIKI",
-          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
+          "name": "Ka Lia Universe",
+          "url": "https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb"
         }
       ],
-      "duration_ms": 207013,
-      "name": "Split",
-      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
+      "duration_ms": 206147,
+      "name": "i deserve better",
+      "url": "https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1451,18 +1447,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "i deserve better",
-        "url": "https://open.spotify.com/album/0yMEpVkWmfE2NSrL0sjLG4"
+        "name": "Split",
+        "url": "https://open.spotify.com/album/7uAHGGN6s8u1BwkA3uKYiQ"
       },
       "artists": [
         {
-          "name": "Ka Lia Universe",
-          "url": "https://open.spotify.com/artist/75PGoEd8qGidSNjc5isdtb"
+          "name": "88rising",
+          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
+        },
+        {
+          "name": "NIKI",
+          "url": "https://open.spotify.com/artist/2kxP07DLgs4xlWz8YHlvfh"
         }
       ],
-      "duration_ms": 206147,
-      "name": "i deserve better",
-      "url": "https://open.spotify.com/track/61N6k78p44EXKHAovZd6EX"
+      "duration_ms": 207013,
+      "name": "Split",
+      "url": "https://open.spotify.com/track/7AE1oyRpPGoSwDs8b9XBO0"
     },
     {
       "added_at": "2024-11-22 05:00:00",

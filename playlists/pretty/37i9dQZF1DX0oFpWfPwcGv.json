@@ -1,6 +1,6 @@
 {
   "description": "Disco forever. Deeper cuts, forgotten gems and 8 minute versions.",
-  "num_followers": 66971,
+  "num_followers": 66994,
   "original_name": "Disco Decadence",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 245493,
+      "name": "You Can't Hide from Yourself",
+      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
+    },
+    {
+      "added_at": "2024-09-07 16:02:33",
+      "album": {
         "name": "Dimitri From Paris Presents Le CHIC Remix",
         "url": "https://open.spotify.com/album/0SbNsZY1MvowLeC5YgEMrg"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 389332,
       "name": "Thinking of You - Dimitri from Paris Remix; 2018 Remaster",
       "url": "https://open.spotify.com/track/6J0pQrsvXUc1Xy4DvScrIK"
-    },
-    {
-      "added_at": "2024-09-07 16:02:33",
-      "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 245493,
-      "name": "You Can't Hide from Yourself",
-      "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -839,18 +839,18 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
-        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
+        "name": "Go West",
+        "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
       },
       "artists": [
         {
-          "name": "Ashford & Simpson",
-          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
+          "name": "Village People",
+          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
         }
       ],
-      "duration_ms": 423240,
-      "name": "Found a Cure - 12\" Disco Mix",
-      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
+      "duration_ms": 340493,
+      "name": "In The Navy - Single Version",
+      "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -871,18 +871,18 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Go West",
-        "url": "https://open.spotify.com/album/0nEUsJwm1yIl9IyC5z8oJb"
+        "name": "Hits, Remixes and Rarities: The Warner Brothers Years",
+        "url": "https://open.spotify.com/album/6CyWY15jDZy4sP82bLe5dY"
       },
       "artists": [
         {
-          "name": "Village People",
-          "url": "https://open.spotify.com/artist/0dCKce6tJJdHvlWnDMwzPW"
+          "name": "Ashford & Simpson",
+          "url": "https://open.spotify.com/artist/2EURsXo9qlt1aMWlviGCRi"
         }
       ],
-      "duration_ms": 340493,
-      "name": "In The Navy - Single Version",
-      "url": "https://open.spotify.com/track/3qUfFs8rW6FukRFnfRctTq"
+      "duration_ms": 423240,
+      "name": "Found a Cure - 12\" Disco Mix",
+      "url": "https://open.spotify.com/track/3HfVnWKGvJnqb7Xonl8lvw"
     },
     {
       "added_at": "2024-09-07 16:02:33",
@@ -1231,18 +1231,18 @@
     {
       "added_at": "2024-09-07 16:02:33",
       "album": {
-        "name": "Pizzazz",
-        "url": "https://open.spotify.com/album/0y1GuBD52TFARX9e4EOJeD"
+        "name": "C'est Chic",
+        "url": "https://open.spotify.com/album/2KSmpFuIe2nOYYVgA7oa9o"
       },
       "artists": [
         {
-          "name": "Patrice Rushen",
-          "url": "https://open.spotify.com/artist/1mNnxxnPfHQDOkFjnZmdkc"
+          "name": "CHIC",
+          "url": "https://open.spotify.com/artist/0Xf8oDAJYd2D0k3NLI19OV"
         }
       ],
-      "duration_ms": 405293,
-      "name": "Haven't You Heard",
-      "url": "https://open.spotify.com/track/3Kf0nJpV3AMRWRTL1SEqUl"
+      "duration_ms": 415466,
+      "name": "I Want Your Love",
+      "url": "https://open.spotify.com/track/6HZKlK1mDDBsILMoNNncxL"
     }
   ],
   "unique_name": "Disco Decadence",

@@ -4,7 +4,7 @@
 
 > Best of South Asian Music\. Cover: Karan Aujla
 
-420 songs - 1 day 0 hr 27 min
+421 songs - 1 day 0 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -53,6 +53,7 @@
 | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/track/6yvxu91deFKt3X1QoV6qMv) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Arabic Kuthu \- Halamithi Habibo \(From "Beast"\)](https://open.spotify.com/album/3OUj9ygj2KRcnKY1a1daGt) | 4:39 | 2022-08-21 | 2023-08-11 |
 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 | 2024-01-05 | 2024-11-09 |
 | [Asal Mein](https://open.spotify.com/track/0rMeOAvbQZ2RTG4B6L1M4p) | [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS) | [Asal Mein](https://open.spotify.com/album/7pFrr9ypVrxpZNF97YUQjK) | 3:44 | 2024-12-04 |  |
+| [ATTACH](https://open.spotify.com/track/1yLkaCYXVyA2wGy9ueeKg5) | [Amit Tandon](https://open.spotify.com/artist/4G5G0UednPWejMNiaWioAT), [SARRB](https://open.spotify.com/artist/2LKbmSS1wx5pW7YfRkIgg6) | [ATTACH](https://open.spotify.com/album/7pvNS1DoMt3XHJaKIpHIu0) | 2:48 | 2025-01-15 |  |
 | [Attach](https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Steel Banglez](https://open.spotify.com/artist/6k970rXaWAWVfWMjqWtFNI), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Attach](https://open.spotify.com/album/6DB7R2re4tUi2oak4SoLwV) | 3:32 | 2024-09-09 | 2024-10-10 |
 | [Auqaat](https://open.spotify.com/track/4L5OF54HxMufkCVuc70vBo) | [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci), [JJ47](https://open.spotify.com/artist/1SlrUQlFRfExXSCkHsQgBc), [Talhah Yunus](https://open.spotify.com/artist/3mGW1eoqwNtCxd8R3hIOM5) | [Auqaat](https://open.spotify.com/album/2GypgjkQA80a9g4fyI2t3Z) | 5:12 | 2021-12-06 | 2022-02-25 |
 | [Ayee](https://open.spotify.com/track/3s6bB02odIXvM3OpnqgzNN) | [Harnoor](https://open.spotify.com/artist/4eB5clMaoi0cCRnCwLkkiS), [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Ilam](https://open.spotify.com/artist/3BmI2nuXJ2sCiVa3miR7PT) | [Ayee](https://open.spotify.com/album/0kk2Nm0O28gQLXVhaznomg) | 2:26 | 2023-09-20 | 2023-11-30 |

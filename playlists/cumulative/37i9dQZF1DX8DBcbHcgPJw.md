@@ -4,7 +4,7 @@
 
 > ¡Lo mejor de la Cumbia Pop! <br/>Foto: Ian Lucas, La T y La M Fede Vigevani & Marama.
 
-608 songs - 1 day 6 hr 15 min
+609 songs - 1 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [El Pronóstico](https://open.spotify.com/track/3SyKJIkKoA4RFMrdqYSTxj) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi), [KINGTO](https://open.spotify.com/artist/338Grz8ebmeku4xVYVqUHQ) | [El Pronóstico](https://open.spotify.com/album/1xYzvFY0GUHYbWx7uAYoTI) | 2:08 | 2024-08-02 |  |
 | [El Show \- Versión Cumbia](https://open.spotify.com/track/28Ec7cItD1pr4346e4kB5Y) | [Yami Safdie](https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp), [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [El Show \(Versión Cumbia\)](https://open.spotify.com/album/6ixStXWEa5EK8ZLJF5dOM2) | 2:44 | 2023-01-06 | 2023-03-11 |
 | [El Trato \- Remix](https://open.spotify.com/track/3jq37NOBQax11fx51F4z4w) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC), [Rodrigo Tapari](https://open.spotify.com/artist/1wkImvL5XLLhrNcmX7sVt4) | [El Trato \(Remix\)](https://open.spotify.com/album/4igopBx6HMw2NVxX0R3sOv) | 2:23 | 2022-01-03 | 2023-01-21 |
+| [El Trend](https://open.spotify.com/track/2FkGAd5K5P88bAoNnzcpYF) | [Max Carra](https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL) | [El Trend](https://open.spotify.com/album/0PPp0cxBchPiKSmZune2ko) | 2:33 | 2025-01-10 |  |
 | [ELEUSECA](https://open.spotify.com/track/2G9Peu46Wi5ndbX8HKpy5j) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM) | [ELEUSECA](https://open.spotify.com/album/63U4L6MZ1L5IJBeIccyw8v) | 2:16 | 2024-09-06 | 2024-11-21 |
 | [Ella](https://open.spotify.com/track/7cfvw5YooxUgxapVky4DHd) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ), [Mechaloca](https://open.spotify.com/artist/31sjDdCFcHCdcQItqzBVMn) | [Ella](https://open.spotify.com/album/7h8aTHXInNOjwOy4HG16pM) | 2:22 | 2021-12-23 | 2022-07-24 |
 | [Ella Me Decia](https://open.spotify.com/track/13VBIIfr2lSNPiwPsoWR58) | [Lira](https://open.spotify.com/artist/1kyy6AW7C6Rr2jrYwz95Gi) | [Ella Me Decia](https://open.spotify.com/album/60Y11329btAJHfMgP7dwM5) | 2:07 | 2022-03-25 | 2022-07-01 |
@@ -402,7 +403,7 @@
 | [Perdí la cuenta](https://open.spotify.com/track/3nYBXAImMXLQm1Kx75AA6R) | [Laguna](https://open.spotify.com/artist/5AEQ9NQK8LJSpUzhuJga5u), [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V) | [Perdí la cuenta](https://open.spotify.com/album/05rxpKDQCVgnTFfCn6b9Pj) | 2:39 | 2022-01-21 | 2022-07-07 |
 | [Perdón](https://open.spotify.com/track/599y33cIzYBxPKerpPUmDG) | [Agapornis](https://open.spotify.com/artist/27Yc5RzJf27tJfqezJnHY1), [El Vecino](https://open.spotify.com/artist/5BAshsAHEexc7z1Zso0LZt) | [Perdón](https://open.spotify.com/album/0L0JB7dfQPRbIFMO7Av4ek) | 2:45 | 2024-10-18 | 2024-11-09 |
 | [Perdóname](https://open.spotify.com/track/1myDKm1jNafNgx53GSP3t0) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn) | [Perdóname](https://open.spotify.com/album/29b9UQw9UwVIuO4b5aEJGW) | 1:51 | 2022-03-30 | 2022-05-07 |
-| [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 | 2022-03-30 |  |
+| [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS) | [El Rodri](https://open.spotify.com/artist/1fosVknoHjmETFcLUMCRjm) | [Persia / YO SE QUE TU / Millonario](https://open.spotify.com/album/0cYCBuuYYaZQygefwFGBxs) | 4:56 | 2022-03-30 | 2025-01-16 |
 | [Pibe Cantina](https://open.spotify.com/track/14P2CPErwCwlRp5HutEZ7i) | [LemonChamp](https://open.spotify.com/artist/3Tralte9fDtBGOq8ULPaXn), [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Pibe Cantina](https://open.spotify.com/album/1rLmjtiiQyJbIDgp5xfgAm) | 2:13 | 2022-08-26 | 2022-10-08 |
 | [Picaflor](https://open.spotify.com/track/1wEZfd8CB99QIIKHewFZvC) | [Flor Vigna](https://open.spotify.com/artist/7xknmvFivAH3FxfLCQKuKE), [El Villano](https://open.spotify.com/artist/6nEgkeR03q2qtKZmrVq100), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [Picaflor](https://open.spotify.com/album/5R2w6f8WdeG04DcQjKhDJ1) | 1:50 | 2024-01-26 | 2024-02-17 |
 | [Picasso](https://open.spotify.com/track/6iLR0qOc8txYkVBQKVXIIN) | [KEPÁ](https://open.spotify.com/artist/5a42D6pc8V0pLSEp5IVSLJ) | [Picasso](https://open.spotify.com/album/0h88IN1xE99JnL5umOcuaa) | 2:06 | 2022-06-17 | 2022-07-02 |

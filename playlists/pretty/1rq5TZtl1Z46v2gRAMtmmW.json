@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30738,
+  "num_followers": 30742,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPypBXCtHfLJqFzaehf20ItbQ3STDz",
+  "snapshot_id": "AAAPzk5b5/umF1+eI8RF5sMkWiGHPFYV",
   "tracks": [
     {
       "added_at": "2025-01-14 12:23:39",
@@ -381,26 +381,6 @@
       "url": "https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d"
     },
     {
-      "added_at": "2024-09-27 16:17:12",
-      "album": {
-        "name": "Sad Girl",
-        "url": "https://open.spotify.com/album/5sGYMMmqW6bcKWdmC7Jd2S"
-      },
-      "artists": [
-        {
-          "name": "TSHA",
-          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
-        },
-        {
-          "name": "Dan Whitlam",
-          "url": "https://open.spotify.com/artist/4t4zanmCp0GBomHaX5hXt8"
-        }
-      ],
-      "duration_ms": 99927,
-      "name": "Sad Girl",
-      "url": "https://open.spotify.com/track/5ilnOTkfSKaNDWu9Vmxh8Y"
-    },
-    {
       "added_at": "2024-09-18 16:20:13",
       "album": {
         "name": "Petit Boy",
@@ -583,34 +563,6 @@
       "duration_ms": 221622,
       "name": "go! - George Daniel Remix",
       "url": "https://open.spotify.com/track/0wtbc9t9qvEX5ELtUHJNJX"
-    },
-    {
-      "added_at": "2024-09-18 16:20:38",
-      "album": {
-        "name": "Salami Live at 2131 North Kacey Street",
-        "url": "https://open.spotify.com/album/5cCjXLC4g27F75oBa5Sg4A"
-      },
-      "artists": [
-        {
-          "name": "Salami Rose Joe Louis",
-          "url": "https://open.spotify.com/artist/6EHS9kZ9PpeXaJ4wZO3FSX"
-        },
-        {
-          "name": "Flanafi",
-          "url": "https://open.spotify.com/artist/2fJlM9auuKkUvBgcZ1RY6d"
-        },
-        {
-          "name": "Tone Whitfield",
-          "url": "https://open.spotify.com/artist/3rFywXk12krXVmxWJpfvo5"
-        },
-        {
-          "name": "Nazir Ebo",
-          "url": "https://open.spotify.com/artist/0Y86ZcmGk1xTdaHbMHCBtI"
-        }
-      ],
-      "duration_ms": 530363,
-      "name": "D I M C O L A R E P R I S E",
-      "url": "https://open.spotify.com/track/6rJIVu8JB1VidJByUq9X5s"
     },
     {
       "added_at": "2024-08-30 15:15:35",
@@ -803,6 +755,46 @@
       "duration_ms": 177770,
       "name": "I Have Nothing More To Tell You",
       "url": "https://open.spotify.com/track/0gTQdI5yY0beu8TCSNQ5ZW"
+    },
+    {
+      "added_at": "2025-01-15 14:35:50",
+      "album": {
+        "name": "Sad Makeup",
+        "url": "https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 230050,
+      "name": "Sad Makeup",
+      "url": "https://open.spotify.com/track/74eE402hFv13hLBw5iPQds"
+    },
+    {
+      "added_at": "2025-01-15 14:35:58",
+      "album": {
+        "name": "Sad Makeup",
+        "url": "https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "duration_ms": 246250,
+      "name": "Winter Is Not Dead",
+      "url": "https://open.spotify.com/track/2Qa6Q93csBmJGzcXzmi2X3"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

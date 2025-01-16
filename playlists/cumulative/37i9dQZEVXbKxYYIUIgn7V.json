@@ -2434,7 +2434,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 170076,
       "name": "Be Mine",
       "url": "https://open.spotify.com/track/4vB4e8oopvmeARMW9na82S"
@@ -7536,7 +7536,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 174743,
       "name": "Fly Me To The Moon - Remix",
       "url": "https://open.spotify.com/track/2U3TzjtLORL9SxK7P7ZiFB"
@@ -9278,10 +9278,28 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 92689,
       "name": "He/Him",
       "url": "https://open.spotify.com/track/5P7zRxnZqGVrY60V5MbLcZ"
+    },
+    {
+      "album": {
+        "name": "He/Him",
+        "url": "https://open.spotify.com/album/60kAOFxNvRLocYxugaVQNp"
+      },
+      "artists": [
+        {
+          "name": "knive \u2671",
+          "url": "https://open.spotify.com/artist/1GObeSDClpbDDNqi6g7oTP"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 92689,
+      "name": "He/Him",
+      "url": "https://open.spotify.com/track/7C51GQVSezMkHdNxrWa7gF"
     },
     {
       "album": {
@@ -12684,7 +12702,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -15942,7 +15960,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 135333,
       "name": "Muh M\u00e4h",
       "url": "https://open.spotify.com/track/40wy4ZsoNVhBBbpzvDpq7c"

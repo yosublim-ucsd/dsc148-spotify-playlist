@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,783 likes - 185 songs - 17 hr 26 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,789 likes - 185 songs - 17 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

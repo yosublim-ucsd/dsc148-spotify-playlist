@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from Bad Bunny, Thelma & James, PUP, Skiifall and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,271 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,279 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 44 | [You Didn’t Hear It From Me](https://open.spotify.com/track/0PgTSyiKAXgguGdMTRnW5i) | [James Barker Band](https://open.spotify.com/artist/54lUDwCk35ihJuK3yJCqHA) | [You Didn’t Hear It From Me](https://open.spotify.com/album/2zoWYF1Xu9f56VLmP6vkGv) | 3:09 |
 | 45 | [So Good](https://open.spotify.com/track/4dFaM6tTq3DlUzEysFEqy3) | [Kiinjo](https://open.spotify.com/artist/1oYyzyMTx629ZyyYENdhrZ), [Pat Lok](https://open.spotify.com/artist/3ZPRZDAAuBrvx1tsIjeFxh) | [So Good](https://open.spotify.com/album/2KeahCZqf4BopqFg4mynGX) | 2:57 |
 | 46 | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Vince Staples](https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm) | [Pass the Salt \(feat\. Vince Staples\)](https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG) | 2:47 |
-| 47 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
+| 47 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 48 | [Green Light](https://open.spotify.com/track/6siekaIb5RdU8xQXjagBMF) | [DJ Kaywise](https://open.spotify.com/artist/74feid8HSOjUPnhiV3BNBG), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Green Light](https://open.spotify.com/album/3lBsMyI5SKXtvE2aB8mj9j) | 2:25 |
 | 49 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 |
 | 50 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 |
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 80 | [I Hate the Internet](https://open.spotify.com/track/0vXSs7BK3FIRtBoys2u502) | [The Dirty Nil](https://open.spotify.com/artist/2mGENPk4M4jtaf5D7fDi98) | [I Hate the Internet / True Devotion](https://open.spotify.com/album/54w7HgMTJI295pdatRThsz) | 2:53 |
 | 81 | [Your Smile](https://open.spotify.com/track/7gR7YocOc0TIhn14bbLvX4) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Your Smile](https://open.spotify.com/album/1JhRkgb6ta1CUVaKss5RRf) | 2:58 |
 | 82 | [Marionette](https://open.spotify.com/track/4s6HVg2Bors3tfd2NFRluq) | [fknsyd](https://open.spotify.com/artist/4fHFFvChjfjG7sAseTwiXd) | [Marionette](https://open.spotify.com/album/0o0XDcmjPqlASKityS0njW) | 2:50 |
-| 83 | [Mwen An Sa](https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX) | [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [SKUNK](https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mwen An Sa](https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi) | 2:59 |
+| 83 | [Mwen An Sa](https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX) | [SKUNK](https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mwen An Sa](https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi) | 2:59 |
 | 84 | [Bite Marks](https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Bite Marks](https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid) | 3:10 |
 | 85 | [Give Me Life \(Extended\)](https://open.spotify.com/track/0RtzrYvtSkOD7ob4DqF1Aw) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7) | [Give Me Life \(Extended\)](https://open.spotify.com/album/6aarYuzqZ2GyDgV5bb7Mt1) | 4:30 |
 | 86 | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/track/2rOUaQ1TGj7wZdHdn9UgTL) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv), [Felix of Stray Kids](https://open.spotify.com/artist/4UIOuc84ExWojcUzFGtb8W) | [ReawakeR \(feat\. Felix of Stray Kids\)](https://open.spotify.com/album/6pRB3o85cUnIs6XtTW00mH) | 3:04 |

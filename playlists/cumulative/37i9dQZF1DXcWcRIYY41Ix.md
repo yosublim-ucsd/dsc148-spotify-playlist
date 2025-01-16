@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Yoly Saa.
 
-729 songs - 1 day 19 hr 28 min
+730 songs - 1 day 19 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [La Aguja \(Feat\. El Kanka\)](https://open.spotify.com/track/6pDeZzUTvwAms7AA5haRK4) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [La Aguja \(Feat\. El Kanka\)](https://open.spotify.com/album/79y5CVDk7pkswVxUZgLIJk) | 3:08 | 2021-12-24 | 2022-03-02 |
 | [La balada de G\. Clark](https://open.spotify.com/track/1Apug92E2TzlucGYwC04yq) | [Delgado](https://open.spotify.com/artist/5JZsNZPanMovytl13dW0dK) | [La balada de G\. Clark](https://open.spotify.com/album/55RufPnuWd7lDX59tmPS6X) | 5:55 | 2023-06-30 | 2024-01-13 |
 | [La Bona Regla](https://open.spotify.com/track/0kqc9HOqaPqlE3IFxz4zfI) | [Faneka](https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo) | [La Bona Regla](https://open.spotify.com/album/2ejsbnlGsoy5UQKPfywWFj) | 2:49 | 2024-02-02 | 2024-03-09 |
+| [La Casa](https://open.spotify.com/track/2eLbWiJKOMTehziCTB2sJF) | [Marazu](https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42) | [La Casa](https://open.spotify.com/album/5xF60VSmSr6HBj8jlEa0CX) | 6:11 | 2025-01-10 |  |
 | [La Corriente](https://open.spotify.com/track/0hF6E4TPHH4nx71u2ljmOT) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [La Corriente](https://open.spotify.com/album/5xNgMjfz0rF3vh4suCqwTR) | 3:31 | 2021-12-24 | 2022-07-29 |
 | [La Corriente](https://open.spotify.com/track/1FgPRIlmYlHfDtLVMYDtlo) | [Silvana Estrada](https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7) | [Marchita](https://open.spotify.com/album/34e3bWZtXnZl19dJYOx6zE) | 3:31 | 2022-07-22 | 2022-09-10 |
 | [la corriente](https://open.spotify.com/track/0ba2ivMbQf3VC62yseBbRO) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [la corriente](https://open.spotify.com/album/2KgE1HMACwm7Q0L0KmwrR5) | 2:55 | 2021-12-24 |  |
@@ -487,7 +488,7 @@
 | [Orquesta natural](https://open.spotify.com/track/6OYqqoXiFcVeVBlB6HQGSe) | [Salomón Beda](https://open.spotify.com/artist/76oqoGaknr9WGOegYTjxdh) | [Kumbayeo \(Lado A\)](https://open.spotify.com/album/2S7dOh95r0P8ZujBfNuFid) | 3:17 | 2021-12-24 | 2024-08-03 |
 | [Oye mi Voz](https://open.spotify.com/track/5EALaMd6QUNhtRJINXrlqM) | [María Ruiz](https://open.spotify.com/artist/0AFj9y8WKAlLA0s0om6NaI), [Chambao](https://open.spotify.com/artist/2qhLqZ1pkiUl5HNrU2Nz0R) | [Deshielo](https://open.spotify.com/album/3xIhTaVpGZhjlo7SGeTeyJ) | 3:41 | 2024-02-16 |  |
 | [Paciencia](https://open.spotify.com/track/3hFiWmJ1UUeH5bljAr3ik0) | [Zuaraz](https://open.spotify.com/artist/4TtZLRWNlqoLHQXJLIU8Ch) | [Bugambilia](https://open.spotify.com/album/6B8eaSDz44DFsAwmgFWjaK) | 2:14 | 2021-12-24 | 2023-12-23 |
-| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 |  |
+| [Pajarillo Negro](https://open.spotify.com/track/4DMhBxXwHcaY8C0Bv8PwFc) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [La Fuerza](https://open.spotify.com/album/4qMSZDyLdEJtoL19qzG4ld) | 4:00 | 2024-04-12 | 2025-01-16 |
 | [Pajarillo Negro](https://open.spotify.com/track/09dLppecX1SSw8eFv5jy78) | [Paz Court](https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm) | [Pajarillo Negro](https://open.spotify.com/album/2iyi1dEz7xtssJ6soP3ANE) | 4:02 | 2021-12-24 | 2022-07-17 |
 | [Palabras de Amor](https://open.spotify.com/track/2JYkP3AKFcde7B0azFBJkM) | [Ana Prada](https://open.spotify.com/artist/6hmj4qPtup6hMVe7V4YZ6S), [Jorge Drexler](https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt) | [No](https://open.spotify.com/album/0q4oKGEI17JZ2M4kVpzQro) | 3:31 | 2022-09-23 | 2022-10-22 |
 | [Paloma quiero contarte](https://open.spotify.com/track/4hSPYZ86mCKEY1F838se7Q) | [Nano Stern](https://open.spotify.com/artist/6WcoLUYMQyttg3fFIkou6X) | [Canta a Víctor Jara](https://open.spotify.com/album/6V20HwYQNfkCVsLlqOoGul) | 2:55 | 2023-05-29 | 2023-06-03 |

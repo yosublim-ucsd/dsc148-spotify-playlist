@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Rafael Rivera. The essential tracks, all in one playlist.",
-  "num_followers": 649,
+  "num_followers": 650,
   "original_name": "This Is Carlos Rafael Rivera",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAABGpRyETrO8Z+SiMXKwpxzU",
+  "snapshot_id": "Z4WpAAAAAABlkcNvJaUMAxnwtCy6i0YF",
   "tracks": [
     {
       "added_at": null,
@@ -119,22 +119,6 @@
       "duration_ms": 60983,
       "name": "Science",
       "url": "https://open.spotify.com/track/7DE8YqQ2MdnLHjhtR3MnLu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Griselda (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/7LJJir3kuYjfwX020ZSQWw"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rafael Rivera",
-          "url": "https://open.spotify.com/artist/3lh6JVXJU1mcXuI7ctT4gh"
-        }
-      ],
-      "duration_ms": 85073,
-      "name": "CENTAC",
-      "url": "https://open.spotify.com/track/22q1H3tOV6sNreCNECOkdz"
     },
     {
       "added_at": null,

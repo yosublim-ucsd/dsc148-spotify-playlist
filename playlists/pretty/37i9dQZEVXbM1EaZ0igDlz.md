@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Austria.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,109 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,114 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbM1EaZ0igDlz.md) - [plain]
 | 49 | [bauch beine po](https://open.spotify.com/track/64f3yNXsi2Vk76odcHCOnw) | [Shirin David](https://open.spotify.com/artist/0JBdTCGs111JKKYfLqOEBa) | [bauch beine po](https://open.spotify.com/album/3iw71cw9PHemEFZ9HZewWW) | 2:13 |
 | 50 | [LID](https://open.spotify.com/track/4nV2TbyTbGljX58MKwPxvm) | [LACAZETTE](https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE) | [LID](https://open.spotify.com/album/7xu89Z7LP22AGNo50xbxbo) | 2:24 |
 
-Snapshot ID: `LxnQyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LxsiSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

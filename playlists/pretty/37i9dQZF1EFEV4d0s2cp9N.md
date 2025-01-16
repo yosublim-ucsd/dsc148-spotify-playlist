@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 43 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 48 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,15 +41,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEV4d0s2cp9N.md) - [plain]
 | 31 | [The Silence](https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578) | [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs) | [The Silence](https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR) | 2:05 |
 | 32 | [Nostalgic](https://open.spotify.com/track/505idOF1JBk7WXlJ75BALj) | [Jordan Jay](https://open.spotify.com/artist/3htJBdRyfwyCTKgpZAj6pY) | [Nostalgic](https://open.spotify.com/album/0ANAg2M3iPZtgDwzQ4sIqk) | 2:20 |
 | 33 | [Samir](https://open.spotify.com/track/27D8aQY0iyeg2Npq1QrFdd) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:26 |
-| 34 | [No One Else](https://open.spotify.com/track/7xRNtmOCuXqkm7eRNQsowl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:26 |
-| 35 | [21 Candles](https://open.spotify.com/track/5eFlBcW5apxIXqyfTzjBMp) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:44 |
-| 36 | [Less Of A Woman](https://open.spotify.com/track/36ukbvDkk8gIu3CzvoCpH9) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:34 |
-| 37 | [Highlight](https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:33 |
-| 38 | [Aura](https://open.spotify.com/track/6MKX22DUshtfsOfdHzdve5) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Aura](https://open.spotify.com/album/4bv6FylWnT6nYM0ik2l79O) | 3:32 |
-| 39 | [Everything You Wanted](https://open.spotify.com/track/2R0u5DR5tnMSHJLpsiCVmJ) | [Tasha Low](https://open.spotify.com/artist/3i2MctLBDYHXCLNATxRT5Q), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Everything You Wanted](https://open.spotify.com/album/6MSynSHfw5YN5DN3cG7I91) | 2:37 |
-| 40 | [Priority](https://open.spotify.com/track/0jgIsq6BtybOp4R1udNuOP) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Priority](https://open.spotify.com/album/6SGPIdhRflWG0jvIp7ftGj) | 3:16 |
-| 41 | [When It's Over](https://open.spotify.com/track/2AgDrwMxljyyeMsJboEY6b) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [When It's Over](https://open.spotify.com/album/2YaSQDrHQ3iIFRqDluoNo7) | 2:54 |
-| 42 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 |
-| 43 | [simple little things](https://open.spotify.com/track/3LYfAWMaiT0QndkNYQxcLS) | [B O K E H](https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO), [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [simple little things](https://open.spotify.com/album/6vtkf8YJZhxWpt7R7HUaPM) | 3:58 |
+| 34 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 |
+| 35 | [No One Else](https://open.spotify.com/track/7xRNtmOCuXqkm7eRNQsowl) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Gordi](https://open.spotify.com/artist/6UBMFaCTZnL1Hr1nTOEblM) | [A Radiant Sign](https://open.spotify.com/album/5QpbkUhMenmgathlclAcBl) | 3:26 |
+| 36 | [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 |
+| 37 | [21 Candles](https://open.spotify.com/track/5eFlBcW5apxIXqyfTzjBMp) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:44 |
+| 38 | [Less Of A Woman](https://open.spotify.com/track/36ukbvDkk8gIu3CzvoCpH9) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:34 |
+| 39 | [Highlight](https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:33 |
+| 40 | [Aura](https://open.spotify.com/track/6MKX22DUshtfsOfdHzdve5) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Aura](https://open.spotify.com/album/4bv6FylWnT6nYM0ik2l79O) | 3:32 |
+| 41 | [Everything You Wanted](https://open.spotify.com/track/2R0u5DR5tnMSHJLpsiCVmJ) | [Tasha Low](https://open.spotify.com/artist/3i2MctLBDYHXCLNATxRT5Q), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Everything You Wanted](https://open.spotify.com/album/6MSynSHfw5YN5DN3cG7I91) | 2:37 |
+| 42 | [Better Without U](https://open.spotify.com/track/4ZhH9lE1H1kHglrgVS6d9n) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:37 |
+| 43 | [Fight For Love](https://open.spotify.com/track/5e37Ov2nYHRBcns81Zqot5) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:45 |
+| 44 | [U & I](https://open.spotify.com/track/3axphnYT5NJueypneDpRpj) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:39 |
+| 45 | [Priority](https://open.spotify.com/track/0jgIsq6BtybOp4R1udNuOP) | [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Priority](https://open.spotify.com/album/6SGPIdhRflWG0jvIp7ftGj) | 3:16 |
+| 46 | [Like A Man](https://open.spotify.com/track/5rj3tqrFpkDyAUi7DhUBxR) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:22 |
+| 47 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 |
+| 48 | [simple little things](https://open.spotify.com/track/3LYfAWMaiT0QndkNYQxcLS) | [B O K E H](https://open.spotify.com/artist/2rQk5n2Rn4PSaBbbj3XgeO), [Lex Leosis](https://open.spotify.com/artist/3l5iTPvfsSfyeaurhaAeh6), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [simple little things](https://open.spotify.com/album/6vtkf8YJZhxWpt7R7HUaPM) | 3:58 |
 
-Snapshot ID: `Abm4AAAAAABrWGaQHoLkIp09s1LhGqK8`
+Snapshot ID: `Abm9yAAAAACVSaowXCYGWjcUXA7y7ixy`

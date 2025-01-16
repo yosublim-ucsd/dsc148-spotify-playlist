@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBnnJLCYjo.md) - [plain]
 
 > La imaginación es nuestro primer privilegio, inexplicable como el azar que la provoca\. Es la felicidad de lo inesperado.
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,185 likes - 90 songs - 5 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,375 likes - 90 songs - 5 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

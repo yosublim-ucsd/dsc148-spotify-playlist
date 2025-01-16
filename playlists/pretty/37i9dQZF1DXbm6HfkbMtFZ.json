@@ -1,6 +1,6 @@
 {
   "description": "An uplifting yet tasteful dinner playlist with a guaranteed feel good vibe.",
-  "num_followers": 754154,
+  "num_followers": 754609,
   "original_name": "Feel Good Dinner",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "A Light for Attracting Attention",
+        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 219727,
+      "name": "The Smoke",
+      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "JAGUAR",
         "url": "https://open.spotify.com/album/6aW67R0sshdUwtbJEG2uQR"
       },
@@ -311,18 +327,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "A Light for Attracting Attention",
-        "url": "https://open.spotify.com/album/009EjjwUjtdjvH7UP0wHzi"
+        "name": "11",
+        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
       },
       "artists": [
         {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+          "name": "SAULT",
+          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
         }
       ],
-      "duration_ms": 219727,
-      "name": "The Smoke",
-      "url": "https://open.spotify.com/track/1usvtV2D0EBPb7Rk1l0PwQ"
+      "duration_ms": 297717,
+      "name": "Fight for Love",
+      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -339,22 +355,6 @@
       "duration_ms": 174535,
       "name": "Petals",
       "url": "https://open.spotify.com/track/3Z6HMD0zTxTUqrmh9ZoIib"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "11",
-        "url": "https://open.spotify.com/album/0e5GuQaryu1bLZL9Gk3hS8"
-      },
-      "artists": [
-        {
-          "name": "SAULT",
-          "url": "https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR"
-        }
-      ],
-      "duration_ms": 297717,
-      "name": "Fight for Love",
-      "url": "https://open.spotify.com/track/1LPQheJpIsG8rlUkCmZx2D"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -447,22 +447,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Coney Island Baby",
-        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
-      },
-      "artists": [
-        {
-          "name": "Lou Reed",
-          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
-        }
-      ],
-      "duration_ms": 159093,
-      "name": "Charley's Girl",
-      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Sunsetter",
         "url": "https://open.spotify.com/album/2jzhUfQcf0ypdVTs5eViUU"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 214346,
       "name": "Be With You",
       "url": "https://open.spotify.com/track/0g76LCjdx32EipjZGRU6wy"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Coney Island Baby",
+        "url": "https://open.spotify.com/album/3Kawndiz86cIHkPsKtFiKx"
+      },
+      "artists": [
+        {
+          "name": "Lou Reed",
+          "url": "https://open.spotify.com/artist/42TFhl7WlMRXiNqzSrnzPL"
+        }
+      ],
+      "duration_ms": 159093,
+      "name": "Charley's Girl",
+      "url": "https://open.spotify.com/track/70tBw295bLL8B13Jg3SNUs"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Rhymes & Reasons",
-        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
-      },
-      "artists": [
-        {
-          "name": "Carole King",
-          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
-        }
-      ],
-      "duration_ms": 147466,
-      "name": "Bitter with the Sweet",
-      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Cry To Me-The Best Of Freddie Scott",
         "url": "https://open.spotify.com/album/4RFn1tAt9wBDGxERS38bZK"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 179333,
       "name": "(You) Got What I Need",
       "url": "https://open.spotify.com/track/5NelxeQ8Yd4ytdhdGog8c5"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Rhymes & Reasons",
+        "url": "https://open.spotify.com/album/3kUmJfZkReqIb3ZqB4Q4kv"
+      },
+      "artists": [
+        {
+          "name": "Carole King",
+          "url": "https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6"
+        }
+      ],
+      "duration_ms": 147466,
+      "name": "Bitter with the Sweet",
+      "url": "https://open.spotify.com/track/6MBS3ARYYlI4FtYjaTinK5"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Under The Blacklight (Standard Version)",
+        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
+      },
+      "artists": [
+        {
+          "name": "Rilo Kiley",
+          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Silver Lining",
+      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "Bismillah",
         "url": "https://open.spotify.com/album/6gnNCtxxhwKTYGIDVqeMUd"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 173133,
       "name": "You're so Fine",
       "url": "https://open.spotify.com/track/3xBWfh0s2XgT65AGgMPsj6"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Under The Blacklight (Standard Version)",
-        "url": "https://open.spotify.com/album/2f9RsTZpsYMLRVZBtW7En8"
-      },
-      "artists": [
-        {
-          "name": "Rilo Kiley",
-          "url": "https://open.spotify.com/artist/2cevwbv7ISD92VMNLYLHZA"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Silver Lining",
-      "url": "https://open.spotify.com/track/0ieqq1wbtso2UjJWPqJ5Xc"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Into The Blue",
-        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
-      },
-      "artists": [
-        {
-          "name": "Aaron Frazer",
-          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
-        }
-      ],
-      "duration_ms": 230466,
-      "name": "Easy To Love",
-      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/7bBGtsRDuDXdr0glqgdIlx"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 231266,
       "name": "Black Rain",
       "url": "https://open.spotify.com/track/5WiBOUfizLpHt0NY2V7XCn"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Into The Blue",
+        "url": "https://open.spotify.com/album/41Ss3n0sbQ4RSmWtVmQOnz"
+      },
+      "artists": [
+        {
+          "name": "Aaron Frazer",
+          "url": "https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB"
+        }
+      ],
+      "duration_ms": 230466,
+      "name": "Easy To Love",
+      "url": "https://open.spotify.com/track/4FKxGDh5UrcXdQwvYcLsi7"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Closer",
-        "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
+        "name": "Sunrise",
+        "url": "https://open.spotify.com/album/1HzzYbhLEtoNJO4bljtOSw"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff",
-          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
+          "name": "Jack Page",
+          "url": "https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs"
         }
       ],
-      "duration_ms": 238669,
-      "name": "Something Beautiful",
-      "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
+      "duration_ms": 211048,
+      "name": "Sunrise",
+      "url": "https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Sunrise",
-        "url": "https://open.spotify.com/album/1HzzYbhLEtoNJO4bljtOSw"
+        "name": "Closer",
+        "url": "https://open.spotify.com/album/6Kq1wGlsadyj4jQhjTO6CE"
       },
       "artists": [
         {
-          "name": "Jack Page",
-          "url": "https://open.spotify.com/artist/35XvTmV3nJa6fXZJqITASs"
+          "name": "Nathaniel Rateliff",
+          "url": "https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79"
         }
       ],
-      "duration_ms": 211048,
-      "name": "Sunrise",
-      "url": "https://open.spotify.com/track/3mUlAwwsBTupCdVYRQ20qR"
+      "duration_ms": 238669,
+      "name": "Something Beautiful",
+      "url": "https://open.spotify.com/track/7GuLQABAOtHgdebC50HGIl"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "A Strange Arrangement",
-        "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
-      },
-      "artists": [
-        {
-          "name": "Mayer Hawthorne",
-          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
-        }
-      ],
-      "duration_ms": 150933,
-      "name": "Just Ain't Gonna Work Out",
-      "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "All I Really Wanna Do",
         "url": "https://open.spotify.com/album/7uJEue4cTERq6gsqh8WAks"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 222080,
       "name": "All I Really Wanna Do",
       "url": "https://open.spotify.com/track/1SNJRCOuSinxdGq7e4gB7K"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "A Strange Arrangement",
+        "url": "https://open.spotify.com/album/7JfH5D3XhtWJiAQHweJ4cX"
+      },
+      "artists": [
+        {
+          "name": "Mayer Hawthorne",
+          "url": "https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O"
+        }
+      ],
+      "duration_ms": 150933,
+      "name": "Just Ain't Gonna Work Out",
+      "url": "https://open.spotify.com/track/2jJulR1CTEuHsXpS6bGDou"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Pulse (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
+      },
+      "artists": [
+        {
+          "name": "Greg Phillinganes",
+          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
+        }
+      ],
+      "duration_ms": 326613,
+      "name": "Lazy Nina",
+      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "The Gold (Nick Waterhouse Remix)",
         "url": "https://open.spotify.com/album/0QgLeJOCYZN6V9kUTlgNHu"
       },
@@ -1199,22 +1215,6 @@
       "duration_ms": 249773,
       "name": "The Gold - Nick Waterhouse Remix",
       "url": "https://open.spotify.com/track/5qVVPptGHVCPMci6NCbLCq"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Pulse (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2keWhx31zk5DnCvRCD5Lg4"
-      },
-      "artists": [
-        {
-          "name": "Greg Phillinganes",
-          "url": "https://open.spotify.com/artist/6WOxIudswU8kNC2LrpeiWu"
-        }
-      ],
-      "duration_ms": 326613,
-      "name": "Lazy Nina",
-      "url": "https://open.spotify.com/track/7tBlvnHLTox3S0yB6nIV2Q"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
+      },
+      "artists": [
+        {
+          "name": "Yenkee",
+          "url": "https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd"
+        }
+      ],
+      "duration_ms": 226162,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "Get On The Otherside",
         "url": "https://open.spotify.com/album/2S16kNpGs1zn39HYwcLaJ3"
       },
@@ -1479,22 +1495,6 @@
       "duration_ms": 229080,
       "name": "The Otherside",
       "url": "https://open.spotify.com/track/7dXYHyEg7TdcnbwcG3R0xG"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Lucy",
-        "url": "https://open.spotify.com/album/3akQxwoKUHsscIPDkZOLZz"
-      },
-      "artists": [
-        {
-          "name": "Yenkee",
-          "url": "https://open.spotify.com/artist/505IK3HblsNtDKDac0Dedd"
-        }
-      ],
-      "duration_ms": 226162,
-      "name": "Lucy",
-      "url": "https://open.spotify.com/track/4RiI45Iahn7FkK4DFJFgIW"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1615,6 +1615,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Open Season",
+        "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
+      },
+      "artists": [
+        {
+          "name": "Feist",
+          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
+        }
+      ],
+      "duration_ms": 240453,
+      "name": "One Evening - Remix By VV",
+      "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "Agony and Extasy",
         "url": "https://open.spotify.com/album/3yfSVfDxOky6qRlToEqSE2"
       },
@@ -1631,22 +1647,6 @@
       "duration_ms": 278040,
       "name": "Intergalactic Love Song",
       "url": "https://open.spotify.com/track/29pSTaZjWmJtJhJtnxIMaK"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Open Season",
-        "url": "https://open.spotify.com/album/5z5qxQggmOBwSDjTOy77L6"
-      },
-      "artists": [
-        {
-          "name": "Feist",
-          "url": "https://open.spotify.com/artist/6CWTBjOJK75cTE8Xv8u1kj"
-        }
-      ],
-      "duration_ms": 240453,
-      "name": "One Evening - Remix By VV",
-      "url": "https://open.spotify.com/track/60EtNIlUeObRr4eCQ5ex3d"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1723,6 +1723,22 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
+        "name": "Stunning & Atrocious",
+        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
+      },
+      "artists": [
+        {
+          "name": "FLEECE",
+          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
+        }
+      ],
+      "duration_ms": 217047,
+      "name": "Upside Down",
+      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
         "name": "S.O.L. EP",
         "url": "https://open.spotify.com/album/2dSeTSbKTzauej8icTIzdk"
       },
@@ -1739,22 +1755,6 @@
       "duration_ms": 349026,
       "name": "S.O.L.",
       "url": "https://open.spotify.com/track/2FkLjsFnK6H9iuoXNLGfNy"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
-        "name": "Stunning & Atrocious",
-        "url": "https://open.spotify.com/album/3MIjK59fAiYu2iM0gNJEXH"
-      },
-      "artists": [
-        {
-          "name": "FLEECE",
-          "url": "https://open.spotify.com/artist/3M8JKaNdIRChzvxVK1XxKm"
-        }
-      ],
-      "duration_ms": 217047,
-      "name": "Upside Down",
-      "url": "https://open.spotify.com/track/0puVEUxjGQxGRDk9d6FQpB"
     },
     {
       "added_at": "2024-12-16 17:08:47",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-12-16 17:08:47",
       "album": {
-        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
-        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 176718,
-      "name": "Somebody New",
-      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
-    },
-    {
-      "added_at": "2024-12-16 17:08:47",
-      "album": {
         "name": "Laurence",
         "url": "https://open.spotify.com/album/4q1YH9oZxmdYu34ucwxPP5"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 212413,
       "name": "Laurence",
       "url": "https://open.spotify.com/track/3kVukBQ3JeKNxcI89pi5xL"
+    },
+    {
+      "added_at": "2024-12-16 17:08:47",
+      "album": {
+        "name": "Blossom Dearie Sings (45th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/7ylVNuVPvO6dAS84nuQE7A"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 176718,
+      "name": "Somebody New",
+      "url": "https://open.spotify.com/track/2Br3fsJf9k9ciS5jiDxpDQ"
     },
     {
       "added_at": "2024-12-16 17:08:47",

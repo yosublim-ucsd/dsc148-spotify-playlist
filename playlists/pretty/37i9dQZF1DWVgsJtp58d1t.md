@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVgsJtp58d1t.md) - [plain]
 
 > The best of Black music in 2024\. Cover: <a href="spotify:artist:687cZJR45JO7jhk1LHIbgq">Tems</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,937 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,024 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

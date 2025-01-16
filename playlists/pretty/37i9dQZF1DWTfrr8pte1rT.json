@@ -1,6 +1,6 @@
 {
   "description": "Rock with a Drop. Cover: Kayzo \\m/",
-  "num_followers": 337787,
+  "num_followers": 337826,
   "original_name": "Rocktronic",
   "owner": {
     "name": "Spotify",
@@ -899,6 +899,26 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
+        "name": "Against The Tide",
+        "url": "https://open.spotify.com/album/0Rym6PJvFC1jVwCx3jsRjT"
+      },
+      "artists": [
+        {
+          "name": "Delta Heavy",
+          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
+        },
+        {
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Against The Tide",
+      "url": "https://open.spotify.com/track/54Q384UbVZGrgxH02WEmlk"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
         "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
         "url": "https://open.spotify.com/album/3Q68tMQ7tRDuz6qIN1hODk"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 206000,
       "name": "Wish I Could Forget (with blackbear & Bring Me The Horizon)",
       "url": "https://open.spotify.com/track/4QcfHUpGxGGKh7VIVs3LYI"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
-        "name": "Against The Tide",
-        "url": "https://open.spotify.com/album/0Rym6PJvFC1jVwCx3jsRjT"
-      },
-      "artists": [
-        {
-          "name": "Delta Heavy",
-          "url": "https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T"
-        },
-        {
-          "name": "Lauren L'aimant",
-          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
-        }
-      ],
-      "duration_ms": 209655,
-      "name": "Against The Tide",
-      "url": "https://open.spotify.com/track/54Q384UbVZGrgxH02WEmlk"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -999,30 +999,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Kneel Before Me",
-        "url": "https://open.spotify.com/album/6LebF31h6hxienjBsnFEMf"
-      },
-      "artists": [
-        {
-          "name": "SLANDER",
-          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        }
-      ],
-      "duration_ms": 201600,
-      "name": "Kneel Before Me",
-      "url": "https://open.spotify.com/track/0qwMoAstkTXlWE8lQJBRzY"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "Crash & Burn",
         "url": "https://open.spotify.com/album/76vLQIeMvpqzqDRwpvuUqO"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 246400,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/5UrZ1UfrJhyB7RMmWaRjXO"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "CHOKE",
+        "url": "https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z"
+      },
+      "artists": [
+        {
+          "name": "The Warning",
+          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+        },
+        {
+          "name": "grandson",
+          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+        },
+        {
+          "name": "Zero 9:36",
+          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+        }
+      ],
+      "duration_ms": 160457,
+      "name": "CHOKE (with grandson & Zero 9:36)",
+      "url": "https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1067,26 +1067,26 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "CHOKE",
-        "url": "https://open.spotify.com/album/6AovsGSkC91dKnj7rXeK0z"
+        "name": "Kneel Before Me",
+        "url": "https://open.spotify.com/album/6LebF31h6hxienjBsnFEMf"
       },
       "artists": [
         {
-          "name": "The Warning",
-          "url": "https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh"
+          "name": "SLANDER",
+          "url": "https://open.spotify.com/artist/20DZAfCuP1TKZl5KcY7z3Q"
         },
         {
-          "name": "grandson",
-          "url": "https://open.spotify.com/artist/4ZgQDCtRqZlhLswVS6MHN4"
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
         },
         {
-          "name": "Zero 9:36",
-          "url": "https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0"
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
         }
       ],
-      "duration_ms": 160457,
-      "name": "CHOKE (with grandson & Zero 9:36)",
-      "url": "https://open.spotify.com/track/3AV8nyFN5AgejU5DZI9wKl"
+      "duration_ms": 201600,
+      "name": "Kneel Before Me",
+      "url": "https://open.spotify.com/track/0qwMoAstkTXlWE8lQJBRzY"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1335,18 +1335,22 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Time Is Eating",
-        "url": "https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3"
+        "name": "Wouldn\u2019t Change A Thing",
+        "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
       },
       "artists": [
         {
-          "name": "Unlike Pluto",
-          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
+          "name": "ILLENIUM",
+          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
+        },
+        {
+          "name": "Thirty Seconds To Mars",
+          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
         }
       ],
-      "duration_ms": 184840,
-      "name": "Time Is Eating",
-      "url": "https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw"
+      "duration_ms": 187000,
+      "name": "Wouldn\u2019t Change A Thing",
+      "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Wouldn\u2019t Change A Thing",
-        "url": "https://open.spotify.com/album/6G2HZJQGGtURKxrOdf3czb"
+        "name": "Time Is Eating",
+        "url": "https://open.spotify.com/album/5bCRiMVBL4UVBpSJHv73K3"
       },
       "artists": [
         {
-          "name": "ILLENIUM",
-          "url": "https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg"
-        },
-        {
-          "name": "Thirty Seconds To Mars",
-          "url": "https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD"
+          "name": "Unlike Pluto",
+          "url": "https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga"
         }
       ],
-      "duration_ms": 187000,
-      "name": "Wouldn\u2019t Change A Thing",
-      "url": "https://open.spotify.com/track/1nxolqTzRn39brCPRk5f8v"
+      "duration_ms": 184840,
+      "name": "Time Is Eating",
+      "url": "https://open.spotify.com/track/3qzghUDEnx78gNAjQEnRiw"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1511,26 +1511,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "Bad Blood (Weird Genius Remix)",
-        "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
-      },
-      "artists": [
-        {
-          "name": "Asking Alexandria",
-          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
-        },
-        {
-          "name": "Weird Genius",
-          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
-        }
-      ],
-      "duration_ms": 197334,
-      "name": "Bad Blood - Weird Genius Remix",
-      "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "Core (That's Who We Are)",
         "url": "https://open.spotify.com/album/40TWBXnJQBE4vS8azbjeY5"
       },
@@ -1547,6 +1527,26 @@
       "duration_ms": 178909,
       "name": "Core (That's Who We Are)",
       "url": "https://open.spotify.com/track/3uqpYoSWRSnkW3jX9b94wO"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "Bad Blood (Weird Genius Remix)",
+        "url": "https://open.spotify.com/album/2YsuUjmQ2ycwqIh6tWmsV4"
+      },
+      "artists": [
+        {
+          "name": "Asking Alexandria",
+          "url": "https://open.spotify.com/artist/1caBfBEapzw8z2Qz9q0OaQ"
+        },
+        {
+          "name": "Weird Genius",
+          "url": "https://open.spotify.com/artist/5B4kCOhcqTywB9YwXPfFtJ"
+        }
+      ],
+      "duration_ms": 197334,
+      "name": "Bad Blood - Weird Genius Remix",
+      "url": "https://open.spotify.com/track/1ztPHFuEadFj9SdFPsD1HQ"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "The Kill",
-        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
-      },
-      "artists": [
-        {
-          "name": "HOWL",
-          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
-        }
-      ],
-      "duration_ms": 221543,
-      "name": "The Kill",
-      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "Embers",
         "url": "https://open.spotify.com/album/4hhmTA5VDMXfEyjDudkMBn"
       },
@@ -1979,6 +1963,22 @@
       "duration_ms": 189721,
       "name": "Embers",
       "url": "https://open.spotify.com/track/1CXVrNWkpQ4dsSNOH43dJT"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
+        "name": "The Kill",
+        "url": "https://open.spotify.com/album/764f9swzz54KpN2v9jgieq"
+      },
+      "artists": [
+        {
+          "name": "HOWL",
+          "url": "https://open.spotify.com/artist/2CTS9DLiyqiCO5AAwroMG8"
+        }
+      ],
+      "duration_ms": 221543,
+      "name": "The Kill",
+      "url": "https://open.spotify.com/track/0sEBEuDSdZN5Qqr4r5pPlq"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
+        "name": "FIMBULVETR",
+        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
+      },
+      "artists": [
+        {
+          "name": "YMIR",
+          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
+        }
+      ],
+      "duration_ms": 233203,
+      "name": "FIMBULVETR",
+      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
         "name": "Beautiful Nothing",
         "url": "https://open.spotify.com/album/0MaD5lTQ32Np46N7qTmR4f"
       },
@@ -2255,22 +2271,6 @@
       "duration_ms": 211862,
       "name": "Beautiful Nothing",
       "url": "https://open.spotify.com/track/0x5j3PoYG2Hex2bUrbBX3v"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
-        "name": "FIMBULVETR",
-        "url": "https://open.spotify.com/album/2xZklOn1SNJBZpWaKvxnmP"
-      },
-      "artists": [
-        {
-          "name": "YMIR",
-          "url": "https://open.spotify.com/artist/7MxaflmSZI1igZLk7Rg2LD"
-        }
-      ],
-      "duration_ms": 233203,
-      "name": "FIMBULVETR",
-      "url": "https://open.spotify.com/track/66ScyH02Wf1ntSSnHihDhN"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -2307,6 +2307,22 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
+        "name": "Muted Blue",
+        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
+      },
+      "artists": [
+        {
+          "name": "Fells",
+          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
+        }
+      ],
+      "duration_ms": 185663,
+      "name": "Just Thought You Should Know",
+      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
         "name": "Done Better",
         "url": "https://open.spotify.com/album/2IM4meQQN3QrdA3Mfv63kh"
       },
@@ -2327,22 +2343,6 @@
       "duration_ms": 170583,
       "name": "Done Better",
       "url": "https://open.spotify.com/track/3wl77mkSw6UVa0ciUKB6xS"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
-        "name": "Muted Blue",
-        "url": "https://open.spotify.com/album/29NyepPY1H8fk6PrsNfBRs"
-      },
-      "artists": [
-        {
-          "name": "Fells",
-          "url": "https://open.spotify.com/artist/0PEuLoQbEWYdlKV3YLByF7"
-        }
-      ],
-      "duration_ms": 185663,
-      "name": "Just Thought You Should Know",
-      "url": "https://open.spotify.com/track/75Llaor4IWf0faRFDva8Cs"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -2395,30 +2395,6 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "die 4 u",
-        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
-      },
-      "artists": [
-        {
-          "name": "if found",
-          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
-        },
-        {
-          "name": "n\u00f8ll",
-          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
-        },
-        {
-          "name": "damnboy!",
-          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
-        }
-      ],
-      "duration_ms": 174800,
-      "name": "die 4 u",
-      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
-    },
-    {
-      "added_at": "2025-01-10 05:00:38",
-      "album": {
         "name": "Kill The Machine (feat. Bad/Love)",
         "url": "https://open.spotify.com/album/7e10DqzsnP6wu5FJJmAZJi"
       },
@@ -2443,18 +2419,26 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "In The Dark",
-        "url": "https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p"
+        "name": "die 4 u",
+        "url": "https://open.spotify.com/album/12gAShAjb88fw6HOgyxRr8"
       },
       "artists": [
         {
-          "name": "Grabbitz",
-          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+          "name": "if found",
+          "url": "https://open.spotify.com/artist/39W8ER2QJe2x3pKLIXTiwK"
+        },
+        {
+          "name": "n\u00f8ll",
+          "url": "https://open.spotify.com/artist/5wtzhSRB6edfUruFWvLxpL"
+        },
+        {
+          "name": "damnboy!",
+          "url": "https://open.spotify.com/artist/3t96ooAg7YcJQF7lPpcMiU"
         }
       ],
-      "duration_ms": 202000,
-      "name": "In The Dark",
-      "url": "https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8"
+      "duration_ms": 174800,
+      "name": "die 4 u",
+      "url": "https://open.spotify.com/track/01XP4DU82QE56hH3l16a7S"
     },
     {
       "added_at": "2025-01-10 05:00:38",
@@ -2479,6 +2463,22 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
+        "name": "In The Dark",
+        "url": "https://open.spotify.com/album/1lvLwsaQXClUnNEICZaV7p"
+      },
+      "artists": [
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "In The Dark",
+      "url": "https://open.spotify.com/track/1IkiWXaS68JIK4ZdNLtHe8"
+    },
+    {
+      "added_at": "2025-01-10 05:00:38",
+      "album": {
         "name": "Get To U",
         "url": "https://open.spotify.com/album/7vKLfc4WO47NIDIrXOUqDB"
       },
@@ -2495,22 +2495,22 @@
     {
       "added_at": "2025-01-10 05:00:38",
       "album": {
-        "name": "White Knuckles",
-        "url": "https://open.spotify.com/album/5ZKy72bbl42PhLGUz1u4oj"
+        "name": "Brunt",
+        "url": "https://open.spotify.com/album/6pWc7yOiEZrX70oggD4pmb"
       },
       "artists": [
         {
-          "name": "NITTI",
-          "url": "https://open.spotify.com/artist/21AUdblPrTRzkvJn8FGrlk"
+          "name": "PhaseOne",
+          "url": "https://open.spotify.com/artist/0mO3Yf5XIPHfAbHh8yWLFk"
         },
         {
-          "name": "BRAYTON",
-          "url": "https://open.spotify.com/artist/2kWyIV9pjjzmbQo7ZY62VL"
+          "name": "Nosphere",
+          "url": "https://open.spotify.com/artist/12QTVK7jpRYgbe4iDYu9Td"
         }
       ],
-      "duration_ms": 210461,
-      "name": "White Knuckles",
-      "url": "https://open.spotify.com/track/3DEcNTbmihMylwMFGn0IUz"
+      "duration_ms": 205241,
+      "name": "Brunt",
+      "url": "https://open.spotify.com/track/1fA1cnKRdkKGgFuJCLRYRJ"
     }
   ],
   "unique_name": "Rocktronic",

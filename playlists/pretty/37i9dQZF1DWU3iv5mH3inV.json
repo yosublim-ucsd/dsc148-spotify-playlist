@@ -1,12 +1,12 @@
 {
   "description": "El Dembow que ta subiendo. Foto: El Alfa",
-  "num_followers": 126290,
+  "num_followers": 126363,
   "original_name": "Rep\u00fablica Dembow",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3/mWwAAAADs1kr4s+hZICeGu42ZWI7/",
+  "snapshot_id": "Z4g+tAAAAAA/hp9vr3LTuHHRnH6NHW68",
   "tracks": [
     {
       "added_at": "2025-01-02 03:54:31",
@@ -141,6 +141,26 @@
       "url": "https://open.spotify.com/track/7f6g6R6wrXFmeYkfdIBPx8"
     },
     {
+      "added_at": "2025-01-15 23:03:16",
+      "album": {
+        "name": "El Reloj",
+        "url": "https://open.spotify.com/album/1UEKj2W6gQcIHyO6dMT6Pj"
+      },
+      "artists": [
+        {
+          "name": "Flow 28",
+          "url": "https://open.spotify.com/artist/7cBlyZwtKHes30iMefd0qC"
+        },
+        {
+          "name": "El Sicokario",
+          "url": "https://open.spotify.com/artist/0Iyto0WtZfIQeSHF5k1hun"
+        }
+      ],
+      "duration_ms": 185714,
+      "name": "El Reloj",
+      "url": "https://open.spotify.com/track/4YFNZukS8KCpgTf7XxfTaa"
+    },
+    {
       "added_at": "2024-03-21 19:13:50",
       "album": {
         "name": "Ou Ou",
@@ -159,22 +179,6 @@
       "duration_ms": 146865,
       "name": "Ou Ou",
       "url": "https://open.spotify.com/track/6TjT05x6Uo8c1yXZadV3bF"
-    },
-    {
-      "added_at": "2024-07-18 20:05:48",
-      "album": {
-        "name": "Vivela",
-        "url": "https://open.spotify.com/album/3YYTrFbNppGGYLlY6LnUgK"
-      },
-      "artists": [
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        }
-      ],
-      "duration_ms": 131081,
-      "name": "Vivela",
-      "url": "https://open.spotify.com/track/72KLtcHd8rcu5Oms0zktgz"
     },
     {
       "added_at": "2024-06-12 20:16:51",
@@ -289,6 +293,26 @@
       "url": "https://open.spotify.com/track/1bIpH9PBr9OBI3Ek6RtuNl"
     },
     {
+      "added_at": "2025-01-15 23:03:16",
+      "album": {
+        "name": "Problema",
+        "url": "https://open.spotify.com/album/5nXnWdOW0VStthVc6OAzOx"
+      },
+      "artists": [
+        {
+          "name": "Papera",
+          "url": "https://open.spotify.com/artist/0L7AJNWmGtSjzASON8eTDW"
+        },
+        {
+          "name": "La Gre\u00f1a",
+          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
+        }
+      ],
+      "duration_ms": 93530,
+      "name": "Problema",
+      "url": "https://open.spotify.com/track/2DNJyzJ78ilMxm4ARStejV"
+    },
+    {
       "added_at": "2025-01-09 15:08:11",
       "album": {
         "name": "Dale Deo",
@@ -307,30 +331,6 @@
       "duration_ms": 113538,
       "name": "Dale Deo",
       "url": "https://open.spotify.com/track/3vCSiNJWsO6WxwPamnZPFE"
-    },
-    {
-      "added_at": "2025-01-02 03:54:31",
-      "album": {
-        "name": "TOY CARRETO (Remix)",
-        "url": "https://open.spotify.com/album/2X9swbDwQ7NlwPHXLOCHh5"
-      },
-      "artists": [
-        {
-          "name": "Bluemoney",
-          "url": "https://open.spotify.com/artist/5pL4JCQ5E6AxnT10xuaojk"
-        },
-        {
-          "name": "Donaty",
-          "url": "https://open.spotify.com/artist/2dHbjVgpO3NvzY8D7yZvji"
-        },
-        {
-          "name": "La Gre\u00f1a",
-          "url": "https://open.spotify.com/artist/7LnCLRzUnLRTFOe4NjAkGX"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "TOY CARRETO - Remix",
-      "url": "https://open.spotify.com/track/4SbEou8mp6zUNWOQEBaOuC"
     },
     {
       "added_at": "2024-04-25 20:33:26",
@@ -383,6 +383,30 @@
       "duration_ms": 108413,
       "name": "PA' QUE BAILES",
       "url": "https://open.spotify.com/track/2t6MAiKwBnsXV6os21BBet"
+    },
+    {
+      "added_at": "2025-01-15 23:03:16",
+      "album": {
+        "name": "Dejala Que Baile",
+        "url": "https://open.spotify.com/album/081r5uUWnVyoR81moVHoJx"
+      },
+      "artists": [
+        {
+          "name": "La Perversa",
+          "url": "https://open.spotify.com/artist/4UcGO4hOufILa9qGd3KOCo"
+        },
+        {
+          "name": "El Baby R",
+          "url": "https://open.spotify.com/artist/0sJpqQouXqn3gKQrsN1JET"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "duration_ms": 124230,
+      "name": "Dejala Que Baile",
+      "url": "https://open.spotify.com/track/58nqdCTW8NqPzzUM0ZMdOV"
     },
     {
       "added_at": "2024-12-12 22:17:42",
@@ -441,26 +465,6 @@
       "url": "https://open.spotify.com/track/4wkgwTCJcnRw8V2X95zSCo"
     },
     {
-      "added_at": "2025-01-02 03:54:31",
-      "album": {
-        "name": "Zakuza",
-        "url": "https://open.spotify.com/album/7soJxCeLfA5nsFdlii4lo1"
-      },
-      "artists": [
-        {
-          "name": "Bigoblin",
-          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
-        },
-        {
-          "name": "Recio DC",
-          "url": "https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd"
-        }
-      ],
-      "duration_ms": 121860,
-      "name": "Zakuza",
-      "url": "https://open.spotify.com/track/0Z8QO0Rd3uz3eUPRyVqASW"
-    },
-    {
       "added_at": "2024-10-23 20:03:25",
       "album": {
         "name": "Todas Mienten",
@@ -495,6 +499,30 @@
       "duration_ms": 117005,
       "name": "MODO SPORT",
       "url": "https://open.spotify.com/track/37vbeqIw7vdx8ucXce9i8w"
+    },
+    {
+      "added_at": "2025-01-15 23:03:16",
+      "album": {
+        "name": "El Loco Tuyo",
+        "url": "https://open.spotify.com/album/2gt0yoDaaB12PSwfA2XEy5"
+      },
+      "artists": [
+        {
+          "name": "JR Otravez",
+          "url": "https://open.spotify.com/artist/2Difz2SAnR9JzGAIlCQGSh"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        },
+        {
+          "name": "Mapa Negro",
+          "url": "https://open.spotify.com/artist/30TfJAUX5Aeh7qKjyndmsO"
+        }
+      ],
+      "duration_ms": 98587,
+      "name": "El Loco Tuyo",
+      "url": "https://open.spotify.com/track/4gCNz4CQc8IBTUpFimd3bn"
     },
     {
       "added_at": "2024-11-14 20:01:44",
@@ -645,6 +673,26 @@
       "url": "https://open.spotify.com/track/3GURwbBoSYWL9RaOTcy7Im"
     },
     {
+      "added_at": "2025-01-15 23:03:16",
+      "album": {
+        "name": "E\"4",
+        "url": "https://open.spotify.com/album/6w1pmI0mfuWc5gweCs9d2I"
+      },
+      "artists": [
+        {
+          "name": "D\u00b4Flow Aka La Maldad",
+          "url": "https://open.spotify.com/artist/5w84GjBkeOt0pRHp2nEWEG"
+        },
+        {
+          "name": "Zunna",
+          "url": "https://open.spotify.com/artist/7kezrkuYBnE989Mv0gmIZ6"
+        }
+      ],
+      "duration_ms": 88235,
+      "name": "E\"4",
+      "url": "https://open.spotify.com/track/19CsiUt7ZKNxuvyWs5wGnX"
+    },
+    {
       "added_at": "2024-06-05 22:06:42",
       "album": {
         "name": "Pila de Nota (Remix)",
@@ -733,6 +781,26 @@
       "url": "https://open.spotify.com/track/65SGZ1AWQekuRMRGLa7Rq3"
     },
     {
+      "added_at": "2025-01-15 23:03:16",
+      "album": {
+        "name": "Ay! Roc\u00edo",
+        "url": "https://open.spotify.com/album/2HYoX6KiESGgljJm5foHRl"
+      },
+      "artists": [
+        {
+          "name": "El Rochel",
+          "url": "https://open.spotify.com/artist/6O4jsSn9xyuVdU5kkuIb5c"
+        },
+        {
+          "name": "Johcrap Marfer",
+          "url": "https://open.spotify.com/artist/7lyGh6JaQ62Hw14luYC19e"
+        }
+      ],
+      "duration_ms": 63398,
+      "name": "Ay! Roc\u00edo",
+      "url": "https://open.spotify.com/track/6LWDqLM1ZgmsgotMQ542Pb"
+    },
+    {
       "added_at": "2024-12-12 22:17:42",
       "album": {
         "name": "Soltero",
@@ -769,30 +837,6 @@
       "url": "https://open.spotify.com/track/6r6B51W2S8BVrnhWbdSf2p"
     },
     {
-      "added_at": "2024-11-21 20:33:03",
-      "album": {
-        "name": "Toma Toma",
-        "url": "https://open.spotify.com/album/65DW29ANnf7DZLjCa00U9c"
-      },
-      "artists": [
-        {
-          "name": "Bigoblin",
-          "url": "https://open.spotify.com/artist/38m9i1Ro4UpoMLGuRm6bwq"
-        },
-        {
-          "name": "Sterlyn Atoa",
-          "url": "https://open.spotify.com/artist/4Vb0QjTMnw2Z8WWzUbnPcu"
-        },
-        {
-          "name": "Recio DC",
-          "url": "https://open.spotify.com/artist/4tKN6qTebwNBUxqLIZpaGd"
-        }
-      ],
-      "duration_ms": 104783,
-      "name": "Toma Toma",
-      "url": "https://open.spotify.com/track/4Q7urQeiJl7li40mTiFbYo"
-    },
-    {
       "added_at": "2024-05-09 19:47:36",
       "album": {
         "name": "Ay Si Te Veo",
@@ -811,6 +855,30 @@
       "duration_ms": 154817,
       "name": "Ay Si Te Veo",
       "url": "https://open.spotify.com/track/5gl3UqjDWEzJjUWvusAF7O"
+    },
+    {
+      "added_at": "2025-01-15 23:03:16",
+      "album": {
+        "name": "Tiki Tiki",
+        "url": "https://open.spotify.com/album/7LXU0SifDPf2oDR89kFa3j"
+      },
+      "artists": [
+        {
+          "name": "El Mello 06",
+          "url": "https://open.spotify.com/artist/0TLBdmP7SIXHSdUEWhlGPo"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        },
+        {
+          "name": "Brazil21",
+          "url": "https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm"
+        }
+      ],
+      "duration_ms": 121678,
+      "name": "Tiki Tiki",
+      "url": "https://open.spotify.com/track/3AW3RaCLJjP9ZW2PYV4R8U"
     },
     {
       "added_at": "2024-11-06 23:55:37",
@@ -977,22 +1045,6 @@
       "url": "https://open.spotify.com/track/4hrYQ93HJIjm70c4rIZJgO"
     },
     {
-      "added_at": "2024-03-28 14:23:32",
-      "album": {
-        "name": "NO ME LA SUBE",
-        "url": "https://open.spotify.com/album/6JBXkVWmvPggBcK01GaCwK"
-      },
-      "artists": [
-        {
-          "name": "Lomiiel",
-          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
-        }
-      ],
-      "duration_ms": 99310,
-      "name": "NO ME LA SUBE",
-      "url": "https://open.spotify.com/track/7gFiIf65iKVWUTpzhgK8w2"
-    },
-    {
       "added_at": "2024-06-05 22:06:42",
       "album": {
         "name": "Cuando Prendo",
@@ -1013,26 +1065,6 @@
       "url": "https://open.spotify.com/track/0kMYyxS8Jo4230bAszKiqx"
     },
     {
-      "added_at": "2024-12-03 17:08:52",
-      "album": {
-        "name": "Despues",
-        "url": "https://open.spotify.com/album/6ySEcib8c88ZJ9NkQNyJub"
-      },
-      "artists": [
-        {
-          "name": "Liro Shaq",
-          "url": "https://open.spotify.com/artist/3oOJYwLB8FGSKYOQ5zx7Kk"
-        },
-        {
-          "name": "BooBassKing",
-          "url": "https://open.spotify.com/artist/2WuQfqks1V0QGsx7VIHnaF"
-        }
-      ],
-      "duration_ms": 163943,
-      "name": "Despues",
-      "url": "https://open.spotify.com/track/3CzVFSdCqTLXvbmYzxJplq"
-    },
-    {
       "added_at": "2024-10-17 15:03:03",
       "album": {
         "name": "Otra Vez",
@@ -1047,26 +1079,6 @@
       "duration_ms": 114676,
       "name": "Otra Vez",
       "url": "https://open.spotify.com/track/4d2FyPS39JLfsqCNsHQ1ea"
-    },
-    {
-      "added_at": "2024-11-06 23:55:37",
-      "album": {
-        "name": "Descontrol",
-        "url": "https://open.spotify.com/album/2PVtZAal74dkPKkU5rsCI3"
-      },
-      "artists": [
-        {
-          "name": "Rochy RD",
-          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
-        },
-        {
-          "name": "Alcapone",
-          "url": "https://open.spotify.com/artist/0KtMsNmF4prNnvuVZgHFWf"
-        }
-      ],
-      "duration_ms": 149760,
-      "name": "Descontrol",
-      "url": "https://open.spotify.com/track/1746C7akVEAcYsPkZCzUWn"
     },
     {
       "added_at": "2024-12-12 22:17:42",

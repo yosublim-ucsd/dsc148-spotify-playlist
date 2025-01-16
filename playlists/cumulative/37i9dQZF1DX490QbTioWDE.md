@@ -4,7 +4,7 @@
 
 > Fuego y Pasión\. Pasión Cordobesa, pasión Argentina\. <br/>Foto: Luck Ra, Yami Safdie & Q´ Lokura.
 
-514 songs - 1 day 7 hr 43 min
+515 songs - 1 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [De Nada](https://open.spotify.com/track/4B5Xj6lJfVsXLzzzZE1Fdf) | [Magui Olave](https://open.spotify.com/artist/1kfrmHoRbXekpUf2iM6zBE) | [De Nada](https://open.spotify.com/album/746z1LiHVs93wlgNoxLyk3) | 3:17 | 2023-04-14 |  |
 | [De Quien Es la Culpa / Como Lo Hacias Con El](https://open.spotify.com/track/0GWrX4qSvHTnpWLhHRRrZi) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Sigan Bailando](https://open.spotify.com/album/2MeHG6oVZ76wfqSxWaikwe) | 6:27 | 2021-12-24 | 2024-10-05 |
 | [Dejame Estar En Su Lugar](https://open.spotify.com/track/3v8kBCpKGYZl4ROkMq2oyv) | [Tyago Griffo](https://open.spotify.com/artist/0TQyaoEDvRCU1BiA0VrTcC) | [Dejame Estar En Su Lugar](https://open.spotify.com/album/7F9LMyR88mLQSG6P6ZOOMT) | 3:14 | 2022-09-23 | 2022-12-01 |
-| [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 | 2024-03-08 | 2025-01-13 |
+| [Dejame Intentar](https://open.spotify.com/track/3UMeBRQuHNNL5Lrl9yt8zt) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Dejame Intentar](https://open.spotify.com/album/2LulvgaUHXvJ3Jl8Yi8ROC) | 2:01 | 2024-03-08 |  |
 | [Desaparécete \- En Vivo](https://open.spotify.com/track/27rBYiURwGcZb3v1bFsmlT) | [Eugenia Quevedo](https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc), [La banda de Carlitos](https://open.spotify.com/artist/1pmmkE3BIdh9pxHecU09Oo) | [Desaparécete \(En Vivo\)](https://open.spotify.com/album/7fIrnJJxm9bYJgUoakXdqG) | 3:27 | 2024-07-19 | 2025-01-07 |
 | [Desordenada](https://open.spotify.com/track/4xpDz9jAnK1YNtokl15AxJ) | [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W) | [Ahora](https://open.spotify.com/album/5HO5L05iZ6IpeBA1pI3Q8G) | 3:24 | 2021-12-24 | 2022-07-28 |
 | [Despacio](https://open.spotify.com/track/6YzNwxDMTOa98d8Leb7lOx) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC), [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Despacio](https://open.spotify.com/album/5VP2UhFpMWXYgPt6h0XoRx) | 3:06 | 2024-05-31 | 2024-10-09 |
@@ -164,7 +164,7 @@
 | [Ex de Verdad](https://open.spotify.com/track/4iRMSAo4Ghq2njwcUAZy9n) | [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Ex de Verdad](https://open.spotify.com/album/3KHctnefJp6w3hfYQetKoB) | 2:58 | 2022-09-05 | 2023-01-14 |
 | [Extrañándote](https://open.spotify.com/track/37UdTgNxwIaDUxRy9wr4kf) | [Walter Olmos](https://open.spotify.com/artist/68mkWeq03e98dvIEI0jr0N) | [A Pura Sangre](https://open.spotify.com/album/24UNJ5xGStzLSTCSaELuJi) | 3:52 | 2021-12-24 | 2023-04-24 |
 | [Fama de Diabla](https://open.spotify.com/track/4Pl9kwSv46QMwk4MtTttBd) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [David Bisbal](https://open.spotify.com/artist/5gOJTI4TusSENizxhcG7jB), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB) | [Fama de Diabla](https://open.spotify.com/album/5uNqPD84blDNKuRxdDwnF1) | 3:28 | 2024-02-16 |  |
-| [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 | 2023-03-17 |  |
+| [Ferxxo 100](https://open.spotify.com/track/0jq8lpQ9ByuS5edGqyxW3A) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Ferxxo 100](https://open.spotify.com/album/2Y8mKiqSkiUxTLjWexol3F) | 2:49 | 2023-03-17 | 2025-01-16 |
 | [Fiesta para dos](https://open.spotify.com/track/5iH1LuJAXVadg4p4GZQkVB) | [La Mona Jimenez](https://open.spotify.com/artist/64DFKvGarD5nmkfaIiiakf) | [Fiesta para dos](https://open.spotify.com/album/0qPqSqsuiRk6WuNhc3fNEx) | 5:05 | 2022-01-21 | 2022-06-18 |
 | [Fina](https://open.spotify.com/track/1bJFcb4w9JpTni9JhLR3nC) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Revolución](https://open.spotify.com/album/6y0PhvJMN0XRm3agpOIflg) | 2:42 | 2023-01-27 |  |
 | [Fina](https://open.spotify.com/track/5mwKUdKISoTg2QN8rni0oh) | [Monada](https://open.spotify.com/artist/5ts3iw277wUG2DUKnqktAD) | [Fina](https://open.spotify.com/album/0e35NJkjAeH0GaUfR9S3nb) | 2:42 | 2022-06-24 | 2023-01-23 |
@@ -241,7 +241,7 @@
 | [Los Infieles](https://open.spotify.com/track/7hIytqIz9AKgutgikzrQij) | [Ale Ceberio](https://open.spotify.com/artist/7fxj9VjDxGpHfOPEkgxm6e) | [Pleno](https://open.spotify.com/album/0ZSwCQoWXkBeDIGphjawWr) | 3:29 | 2021-12-24 | 2022-10-21 |
 | [Los Que Quieran Bailar / Hasta Volverme Loco / Eres Mí Condena \- En Vivo](https://open.spotify.com/track/2QE1uJUwGHsQPqJPgoMgsm) | [Dale Q' Va](https://open.spotify.com/artist/6jlVAg80czVPRFnLp05N0V) | [Aquí y Ahora \(En Vivo\)](https://open.spotify.com/album/3zURDmdkMgq7fWMwcX9u0d) | 5:29 | 2022-01-14 | 2022-05-29 |
 | [Luck Ra \| Mission 15](https://open.spotify.com/track/6CIMoDfTsvFVGhFi3v9Izn) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk) | [Luck Ra \| Mission 15](https://open.spotify.com/album/75ROUVsHe1IcWmeOBuFZtT) | 2:13 | 2023-05-19 |  |
-| [Luis](https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Luis](https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN) | 4:23 | 2024-03-15 |  |
+| [Luis](https://open.spotify.com/track/04CiUEpdHDIZvEjuN5gRfh) | [El Loco Amato](https://open.spotify.com/artist/4TsXqrGxqvwVLm5kOkN03p) | [Luis](https://open.spotify.com/album/4oGC8tnOTEz7p0eTCpTTCN) | 4:23 | 2024-03-15 | 2025-01-16 |
 | [Luna](https://open.spotify.com/track/0FKCceXl1539dva0c7cNVJ) | [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [Luna](https://open.spotify.com/album/7CY3qNCVgYSMgL0Wwjrdq3) | 3:05 | 2024-03-29 |  |
 | [Luna](https://open.spotify.com/track/2OuHEXGwys30H9dKO6Lbeu) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ) | [Luna](https://open.spotify.com/album/0kvSSwYnvisc11aKzslkHC) | 2:32 | 2024-06-07 | 2024-10-20 |
 | [Luna \- Prohibidox](https://open.spotify.com/track/08IZLOrhHD4jfqkguITnZT) | [Simon Aguirre](https://open.spotify.com/artist/3tkCQ0W9ITi32E2ddBdU0M) | [Luna \- Prohibidox](https://open.spotify.com/album/7gsdyNDBaBgt9eWZW8x7Nq) | 4:28 | 2024-06-07 | 2024-06-22 |
@@ -520,6 +520,7 @@
 | [Yo No Te Pido la Luna](https://open.spotify.com/track/1pI0IZ9VjXmWKLRMoDMnpZ) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Sergio Dalma](https://open.spotify.com/artist/7x6XYw3yCC67Pizi4o0wvZ) | [Yo No Te Pido la Luna](https://open.spotify.com/album/65zHSlxJ6lVfTrCi4U1f3V) | 3:20 | 2022-07-31 | 2022-12-08 |
 | [Yo Quería \(Estadio Vélez\)](https://open.spotify.com/track/1THCr8ykaAhoXoX1WpQWUb) | [La K'onga](https://open.spotify.com/artist/3ghRXw2nUEH2THaL82hw8R), [Cristian Castro](https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ) | [Yo Quería \(Estadio Vélez\)](https://open.spotify.com/album/1w06EiB5vVFIfZcdKa7OTY) | 4:05 | 2023-08-04 | 2023-10-07 |
 | [¿Cómo haré?](https://open.spotify.com/track/2IpQHErYoWeDEzOvvlYJ1l) | [Valentina Marquez](https://open.spotify.com/artist/3O5RpnQurugPG3Btl8UBPC) | [¿Cómo haré?](https://open.spotify.com/album/39fVOE1zBxuX6JkOVEndGu) | 2:17 | 2024-08-16 | 2024-12-21 |
+| [¿Quién te dijo?](https://open.spotify.com/track/7wfmSx8lQgJlrax6wUovTT) | [Los Herrera](https://open.spotify.com/artist/5KsX8xNfID0ztueQjHFjsJ), [NHAY](https://open.spotify.com/artist/65fxKyBt1Tx8P0nAItFTwG) | [¿Quién te dijo?](https://open.spotify.com/album/592QixSKkHfh9as3yRCzmn) | 2:45 | 2025-01-10 |  |
 | [Él no soy yo](https://open.spotify.com/track/63F0fLgN8dMRlhWCRnbkyk) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/2xjcx9guWV4VtexEYDDWly) | 3:46 | 2021-12-24 | 2022-07-21 |
 | [Él No Soy Yo](https://open.spotify.com/track/6X9Mq6dtHUoHbcdot8mnri) | [La Barra](https://open.spotify.com/artist/0QIeOzcA4xi1RMwXWPdl14) | [Obsesión](https://open.spotify.com/album/04H5Ux6U24V75xIqMMD9he) | 3:46 | 2022-09-09 | 2022-09-17 |
 

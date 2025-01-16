@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAADHZ89Z9KAT6svJ7NCiIpVN",
+  "snapshot_id": "Z4WpAAAAAAAcywD2kOQmJ3S74y3k4DTs",
   "tracks": [
     {
       "added_at": null,
@@ -695,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Compare Myself",
+        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 211948,
+      "name": "Compare Myself",
+      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STOP & GO",
         "url": "https://open.spotify.com/album/6ON9VqtDtGwLn835DsGo1x"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 171130,
       "name": "STOP & GO",
       "url": "https://open.spotify.com/track/2kpPludPmHagO06IiRChtM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Compare Myself",
-        "url": "https://open.spotify.com/album/4oqJWqXn7kqcPxiuvM25Xv"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 211948,
-      "name": "Compare Myself",
-      "url": "https://open.spotify.com/track/1ZxDAK9a3hBpArhO3xTYrH"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u3048\u3093\u3077\u3066\u3044",
-  "num_followers": 60142,
+  "num_followers": 60166,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
+        "name": "ECHO",
+        "url": "https://open.spotify.com/album/5nkFgUEdypq1GBF2culRmG"
+      },
+      "artists": [
+        {
+          "name": "Roomies",
+          "url": "https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt"
+        }
+      ],
+      "duration_ms": 282570,
+      "name": "Stay As You Are",
+      "url": "https://open.spotify.com/track/5Fo5ij465pJ8mOnHWLa36N"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
         "name": "Oppressed",
         "url": "https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ"
       },
@@ -947,18 +963,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "ECHO",
-        "url": "https://open.spotify.com/album/5nkFgUEdypq1GBF2culRmG"
+        "name": "\u65e5\u8755",
+        "url": "https://open.spotify.com/album/6QZeC1bldtQG8LvsrdNx1a"
       },
       "artists": [
         {
-          "name": "Roomies",
-          "url": "https://open.spotify.com/artist/1dVKKYAxprfu4rfeso6wOt"
+          "name": "downy",
+          "url": "https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv"
         }
       ],
-      "duration_ms": 282570,
-      "name": "Stay As You Are",
-      "url": "https://open.spotify.com/track/5Fo5ij465pJ8mOnHWLa36N"
+      "duration_ms": 233160,
+      "name": "\u65e5\u8755",
+      "url": "https://open.spotify.com/track/7tQ8dUcLAe1JUbD9tEx0DC"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1015,22 +1031,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u65e5\u8755",
-        "url": "https://open.spotify.com/album/6QZeC1bldtQG8LvsrdNx1a"
-      },
-      "artists": [
-        {
-          "name": "downy",
-          "url": "https://open.spotify.com/artist/4Y3ctZWgKkurt1T1D7RYyv"
-        }
-      ],
-      "duration_ms": 233160,
-      "name": "\u65e5\u8755",
-      "url": "https://open.spotify.com/track/7tQ8dUcLAe1JUbD9tEx0DC"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "\u53cc\u5b50\u5ea7(gemini)",
         "url": "https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Wonderful Christmastime",
-        "url": "https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        }
-      ],
-      "duration_ms": 177909,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "Liquid Yellow Portraits",
         "url": "https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 239057,
       "name": "New Morning",
       "url": "https://open.spotify.com/track/6q8pY6ONUEaDXT7q191ha8"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+        "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
+      },
+      "artists": [
+        {
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+        }
+      ],
+      "duration_ms": 230500,
+      "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
+      "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
-        "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
+        "name": "Wonderful Christmastime",
+        "url": "https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI"
       },
       "artists": [
         {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
         }
       ],
-      "duration_ms": 230500,
-      "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
-      "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
+      "duration_ms": 177909,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1203,26 +1203,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Don't make love vow",
-        "url": "https://open.spotify.com/album/7f8pXcJau1rJur5app8nTW"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        },
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        }
-      ],
-      "duration_ms": 189566,
-      "name": "Don't make love vow",
-      "url": "https://open.spotify.com/track/58IJSMPsjN4CWrXUOMd969"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "\u82b1\u5439\u96ea",
         "url": "https://open.spotify.com/album/1ZUekUfbjy2Qavhx1MvN7y"
       },
@@ -1255,22 +1235,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "World's Famous",
-        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
+        "name": "Don't make love vow",
+        "url": "https://open.spotify.com/album/7f8pXcJau1rJur5app8nTW"
       },
       "artists": [
         {
-          "name": "DJ KOCO aka SHIMOKITA",
-          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
+          "name": "HARU NEMURI",
+          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
         },
         {
-          "name": "45trio",
-          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+          "name": "Pyra",
+          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
         }
       ],
-      "duration_ms": 191747,
-      "name": "World's Famous",
-      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
+      "duration_ms": 189566,
+      "name": "Don't make love vow",
+      "url": "https://open.spotify.com/track/58IJSMPsjN4CWrXUOMd969"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1287,6 +1267,26 @@
       "duration_ms": 164666,
       "name": "A Winter Song",
       "url": "https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "World's Famous",
+        "url": "https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW"
+      },
+      "artists": [
+        {
+          "name": "DJ KOCO aka SHIMOKITA",
+          "url": "https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR"
+        },
+        {
+          "name": "45trio",
+          "url": "https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs"
+        }
+      ],
+      "duration_ms": 191747,
+      "name": "World's Famous",
+      "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
     }
   ],
   "unique_name": "Edge!",

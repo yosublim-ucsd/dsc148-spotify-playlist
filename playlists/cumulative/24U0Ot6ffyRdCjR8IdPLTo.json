@@ -5993,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "Gravity (Stripped)",
+        "url": "https://open.spotify.com/album/1vckHIXW954QG1MXYaWHm4"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184770,
+      "name": "Was It A Dream? - Stripped",
+      "url": "https://open.spotify.com/track/0EzbHF72gd8J0QJckmMSco"
+    },
+    {
+      "album": {
         "name": "Was It Something I Said",
         "url": "https://open.spotify.com/album/6MIBfXSkuo1F9fiNVCBsZH"
       },

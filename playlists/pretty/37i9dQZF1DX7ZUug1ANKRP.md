@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Gabry Ponte
+> The biggest Dance hits and the ones to come\. Cover: Ely Oaks, LAVINIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,849,151 likes - 50 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,849,245 likes - 50 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Lose Control](https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lose Control](https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q) | 2:40 |
 | 50 | [Man On Fire](https://open.spotify.com/track/4OKkbosoXkfKYXxibXRmt5) | [Pascal Letoublon](https://open.spotify.com/artist/0oXTS2yHUnuji1R7kc9J9a), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Man On Fire](https://open.spotify.com/album/77eJN6kno441IKlu6A0DcB) | 2:24 |
 
-Snapshot ID: `Z4aEYQAAAADJcIyCRo6jqvQUoBl4+0Zc`
+Snapshot ID: `Z4fkQQAAAAB2LX71Llkw8PVBQWjXeVQQ`

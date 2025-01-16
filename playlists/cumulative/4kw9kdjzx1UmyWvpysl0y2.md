@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-893 songs - 2 day 2 hr 43 min
+894 songs - 2 day 2 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -683,6 +683,7 @@
 | [Sell Your Soul](https://open.spotify.com/track/5IwjMN4NyKLbPzLbgUbSEt) | [Slippy](https://open.spotify.com/artist/3gxGPuGK6DOpv7XVp8V6jG), [TYNAN](https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM) | [Sell Your Soul](https://open.spotify.com/album/1xVPfRWBXIb5d5FXFYSWYC) | 2:47 | 2022-09-26 | 2022-11-29 |
 | [Sensitive](https://open.spotify.com/track/1nMcBqQJHunwJk7SSE8tGa) | [Approaching Black](https://open.spotify.com/artist/0SfWu37246YXADKirimzyW) | [Make You Mine](https://open.spotify.com/album/0p7nqhtXfPYbA8j88w8kdS) | 3:54 | 2022-10-29 | 2023-01-14 |
 | [September Nights](https://open.spotify.com/track/20NGAb04LqwxDX2dsSgHZi) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1) | [Together As One](https://open.spotify.com/album/0ZwmLUsu23EY1ZAaUZc2kv) | 3:58 | 2023-09-01 | 2023-12-14 |
+| [Set Me Free](https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2) | [Adventure Club](https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa), [Kompany](https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP), [Sara Benyo](https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M) | [Set Me Free](https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX) | 3:01 | 2025-01-15 |  |
 | [Shadow](https://open.spotify.com/track/4mRgaiyw6w8MBgkUR6qcMX) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow](https://open.spotify.com/album/2TibeO75vfvBCZcALcoAqp) | 4:20 | 2021-11-19 | 2022-02-05 |
 | [Shadow \- Acoustic](https://open.spotify.com/track/4zhtUqtROlgV1RYSm9Fk2D) | [Bossfight](https://open.spotify.com/artist/1fILrc9B34DjHxSMkJmyBN), [JT Roach](https://open.spotify.com/artist/5CtI0OHj5x6rHQDqpM4JPy), [RUNN](https://open.spotify.com/artist/3l0H4QNiYYNdIsnZ4JgJAg) | [Shadow \(Acoustic\)](https://open.spotify.com/album/240Kl4TuM2QTwUNs4CJb3o) | 2:55 | 2021-11-23 | 2022-02-26 |
 | [Shadow Of A Doubt](https://open.spotify.com/track/0AwHF7s6EaX2cTDOvKCe7f) | [LAR](https://open.spotify.com/artist/2w3NdJswSn39l3TU9vIRq0), [Fagin](https://open.spotify.com/artist/7rPtQcrQxAA6bdsUwSyYoV), [Marg Pappas](https://open.spotify.com/artist/39ZlbcpvLujmbnB2yYsDS5) | [Shadow Of A Doubt](https://open.spotify.com/album/2cS8m6qoyA62n92HZI0vW3) | 2:52 | 2023-10-31 | 2024-02-14 |

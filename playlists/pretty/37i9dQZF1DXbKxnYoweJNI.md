@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 
 > 無論在地新聲或唱作能手，獨立就是音樂自主，風格表現清清楚楚！Cover: RPG x Black MIC x BG8LOCC
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,401 likes - 128 songs - 7 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,402 likes - 128 songs - 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,7 +129,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKxnYoweJNI.md) - [plain]
 | 119 | [要多花錢](https://open.spotify.com/track/51WlcZPRPxw7LXmm8hWDcJ) | [Yappy](https://open.spotify.com/artist/28G5rtbvCmWsjyp5G6LwMe), [SheATH](https://open.spotify.com/artist/55WfFcEYY8iQ9UjqcRMmdA) | [Yappy New Year](https://open.spotify.com/album/4GFnOPqtm8ghIPpzJ28nnA) | 2:38 |
 | 120 | [踅啊踅（台北）](https://open.spotify.com/track/0VijsNooVEusOIpP6d1iyw) | [STACO](https://open.spotify.com/artist/2zztZu8VnEsHm25yTJfof9) | [踅啊踅（台北）](https://open.spotify.com/album/7K8AQNvlmlJJO8IC6lByEm) | 2:49 |
 | 121 | [嫁妝 ga zongˊ](https://open.spotify.com/track/7MsRvGGFz9UQoOfFv0upY2) | [徐世慧](https://open.spotify.com/artist/2MD2gn0lxPLs1Qk86jejDy) | [便當](https://open.spotify.com/album/0AAEMhTlws1MIFtrQBn1ek) | 3:30 |
-| 122 | [贏者全拿](https://open.spotify.com/track/4pqjWG7Ov6xUFFL6yf5jqW) | [AMINATO](https://open.spotify.com/artist/5FzIy4CNwQu5Gpgfb7zNXX), [2CHANGE](https://open.spotify.com/artist/5EJ5TTpIgJqzboMNbGb48G), [KNOWTIS](https://open.spotify.com/artist/7ka6YgDUkGDpAnMNj8TYOp) | [贏者全拿](https://open.spotify.com/album/15KWZg8jY461hzzgPLtlUI) | 3:19 |
+| 122 | [贏者全拿](https://open.spotify.com/track/4pqjWG7Ov6xUFFL6yf5jqW) | [AMINATO](https://open.spotify.com/artist/5FzIy4CNwQu5Gpgfb7zNXX), [2CHANGE](https://open.spotify.com/artist/5EJ5TTpIgJqzboMNbGb48G), [KNOWTIS](https://open.spotify.com/artist/2jKpRyJAY8BCqYkuTRYnZu) | [贏者全拿](https://open.spotify.com/album/15KWZg8jY461hzzgPLtlUI) | 3:19 |
 | 123 | [bing chillin' dream](https://open.spotify.com/track/1M94ecrXz6qmCi0cWnbEEH) | [RIKI](https://open.spotify.com/artist/03sz3uNFikpSX6YtwtXz1z), [晨昏星 Morning Dusk Stars](https://open.spotify.com/artist/0L7Hbd9lDbbsJZ69DDf4Ma) | [fashion mushroom ltd.](https://open.spotify.com/album/2vj6O9pDvgdLPl0ogApdfP) | 3:13 |
 | 124 | [啾一個 \(動畫《妞妞星世界》主題曲\)](https://open.spotify.com/track/2qYn2UIaVBdi8TrLGpuVaI) | [閃閃閃閃](https://open.spotify.com/artist/3v1lQb5de2uc8TzkIsMVQj) | [啾一個 \(動畫《妞妞星世界》主題曲\)](https://open.spotify.com/album/6506XgFAtzKjCwV0dF1vqP) | 2:44 |
 | 125 | [倘若你](https://open.spotify.com/track/7lyZSTKj3Siipv24tx2oIz) | [Enoch Chen](https://open.spotify.com/artist/6lfAHyNPpwYLmDZ5O2KYjS) | [倘若 當初](https://open.spotify.com/album/3ftiyNZJKoKH93n5ezAvHQ) | 3:54 |

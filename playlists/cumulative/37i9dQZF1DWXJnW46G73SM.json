@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641: \u062a\u0627\u0645\u0631 \u062d\u0633\u0646\u064a \u0648 \u0631\u0627\u0645\u064a \u0635\u0628\u0631\u064a\n",
+  "description": "\u0623\u062d\u062f\u062b \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u0645\u0635\u0631\u064a\u0629 \u0647\u0646\u0627 \ud83e\udd29 \u0627\u0644\u063a\u0644\u0627\u0641:\u062a\u0627\u0645\u0631 \u0639\u0627\u0634\u0648\u0631",
   "name": "\u0645\u0635\u0631\u064a \u062c\u062f\u064a\u062f",
   "tracks": [
     {
@@ -4840,7 +4840,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 198421,
       "name": "El Nas Hawadit",
       "url": "https://open.spotify.com/track/2MD5P4VpwDRRfl0gq5NKNf"
@@ -6288,7 +6288,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 240000,
       "name": "Gary El Bahs",
       "url": "https://open.spotify.com/track/0ZXAOyCoFUOVtShp6wS9R1"
@@ -6742,6 +6742,24 @@
       "duration_ms": 177998,
       "name": "Habbeitak",
       "url": "https://open.spotify.com/track/5sWtbEcIpGB0FLzERXf113"
+    },
+    {
+      "album": {
+        "name": "Habebna",
+        "url": "https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248520,
+      "name": "Habebna",
+      "url": "https://open.spotify.com/track/7dnOoqGBwHMHEzwgveB4sO"
     },
     {
       "album": {
@@ -9098,6 +9116,24 @@
       "duration_ms": 230493,
       "name": "Law Tes'aleeny",
       "url": "https://open.spotify.com/track/5ug0O0aWp6ZTNPLwKno7MX"
+    },
+    {
+      "album": {
+        "name": "Habebna",
+        "url": "https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252053,
+      "name": "Law Tigi",
+      "url": "https://open.spotify.com/track/60zEl2cvjjtDhzF78snIYr"
     },
     {
       "album": {
@@ -16001,6 +16037,24 @@
     },
     {
       "album": {
+        "name": "Yaah",
+        "url": "https://open.spotify.com/album/4ovMza1WebamIyWDRupshi"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234456,
+      "name": "Youm Ma Tensa",
+      "url": "https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ"
+    },
+    {
+      "album": {
         "name": "Zaghareet",
         "url": "https://open.spotify.com/album/0cKTa8PwZWYjA8c2jxWrvS"
       },
@@ -17844,7 +17898,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 147718,
       "name": "\u0627\u0646\u0627 \u0647\u0645\u0634\u064a \u0648\u0645\u0634 \u0642\u0644\u0642\u0627\u0646",
       "url": "https://open.spotify.com/track/5qr4FTn0eafZRqhbdPUWMX"

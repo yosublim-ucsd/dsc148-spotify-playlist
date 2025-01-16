@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Ukraine.
 
-1,708 songs - 3 day 7 hr 19 min
+1,709 songs - 3 day 7 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [THATS WHAT I WANT](https://open.spotify.com/track/0e8nrvls4Qqv5Rfa2UhqmO) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [MONTERO](https://open.spotify.com/album/6pOiDiuDQqrmo5DbG0ZubR) | 2:23 | 2021-09-19 | 2021-10-05 |
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2021-03-27\* | 2021-08-31 |
 | [The Code](https://open.spotify.com/track/1EjIXKhNHI00ZLMRpS8iz8) | [Nemo](https://open.spotify.com/artist/5Wg72TowYBWIcSo3K2r84N) | [The Code](https://open.spotify.com/album/30euLVaktPWmngBsGDUYdA) | 3:00 | 2024-05-11 | 2024-07-07 |
+| [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-15 |  |
 | [THE DINER](https://open.spotify.com/track/1LLUoftvmTjVNBHZoQyveF) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:06 | 2024-05-18 | 2024-05-20 |
 | [The Emptiness Machine](https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [From Zero](https://open.spotify.com/album/4R6FV9NSzhPihHR0h4pI93) | 3:10 | 2024-11-16 | 2024-11-25 |
 | [The Emptiness Machine](https://open.spotify.com/track/2PnlsTsOTLE5jnBnNe2K0A) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [The Emptiness Machine](https://open.spotify.com/album/6W0Gabv5f3ugnckc6YgfJQ) | 3:10 | 2024-09-07 | 2024-11-17 |
@@ -1003,7 +1004,7 @@
 | [Боже, как завидую](https://open.spotify.com/track/3RmwexCac64fi0r4ICWQzS) | [HammAli & Navai](https://open.spotify.com/artist/6o7TsOGOEF5Mqpiz2KCyWE), [Jah Khalib](https://open.spotify.com/artist/4TjXA854eWs8P5EBgCbQmv) | [Боже, как завидую](https://open.spotify.com/album/3pwXazbm6e5Q6QtlfMfdup) | 2:40 | 2021-11-14 | 2021-11-28 |
 | [Болею тобой](https://open.spotify.com/track/6MLjjIIoTsUAw4v2CZe1ah) | [Кишлак](https://open.spotify.com/artist/44L2bdEufrpXM5S7yn30JJ), [семьсот семь](https://open.spotify.com/artist/2OTU7yNSCRkNaUMEarAzTA) | [Болею тобой](https://open.spotify.com/album/434K1T9Ptvcqe4LWFEu6LW) | 2:22 | 2023-07-15 | 2023-07-17 |
 | [Больно](https://open.spotify.com/track/6kTnG3MZyRyk4dpsBODFID) | [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo), [MAYOT](https://open.spotify.com/artist/3KtiWEUyKC5lgHedcN6y6C), [Markul](https://open.spotify.com/artist/3Vfd5HJnhjnvdyuQYHtYa2) | [AA LANGUAGE](https://open.spotify.com/album/5FU5AT1bUt4YrkrNI8eZ9q) | 2:45 | 2022-08-13 | 2022-08-18 |
-| [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 | 2024-06-10 |  |
+| [больно](https://open.spotify.com/track/2xEFfGz4j5UpL2FNEhVI81) | [fleurnothappy](https://open.spotify.com/artist/6Tv4ZrZbgUMcXAMv0d1VQM) | [больно](https://open.spotify.com/album/4pyoXX9xto4oG6LaDpHr6e) | 1:24 | 2024-06-10 | 2025-01-16 |
 | [Большая Мама](https://open.spotify.com/track/53jhZoXXeGYrznjerkEQlh) | [GONE.Fludd](https://open.spotify.com/artist/0ohUvVskERzK18bvWXFEqi) | [DIGITAL FANTAZY](https://open.spotify.com/album/5QtUYUoSG9HPhYnAro9GYj) | 2:16 | 2021-10-10 | 2021-10-14 |
 | [Большие Бабки](https://open.spotify.com/track/2ptLn7vjymoB8oTBgKCiZz) | [Scally Milano](https://open.spotify.com/artist/1nnaE1FllcW0TlDdPVmdPg), [OG Buda](https://open.spotify.com/artist/1H1zBr7TXFwTwsHU5kX9gW) | [Пропаганда денег](https://open.spotify.com/album/5LfOhXW4R8BAtuE1rGkK54) | 2:20 | 2022-04-16 | 2022-04-18 |
 | [Босс](https://open.spotify.com/track/3kxqYEJ96YrLS8rs0BMBn0) | [JONY](https://open.spotify.com/artist/2ISiyx4DLCMAMBCvPesCoq), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [Босс](https://open.spotify.com/album/3v1aJT6Gd88ItACHHndt0n) | 2:58 | 2021-09-26 | 2021-10-17 |

@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Mac Miller\)
 
-2,536 songs - 5 day 8 hr 23 min
+2,537 songs - 5 day 8 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -666,6 +666,7 @@
 | [Eggroll](https://open.spotify.com/track/2qEoJxC8FRZHJ9zgb5llWc) | [Dtrue](https://open.spotify.com/artist/6UYPzNMXXBGcGywqMUwqn2), [Bachyard Ghost](https://open.spotify.com/artist/6lUIj87Yum6daz5pdBeEYq) | [Eggroll](https://open.spotify.com/album/5FrHtZ1G35U1SlcixkcjgE) | 2:03 | 2024-07-04 | 2024-08-04 |
 | [Ego](https://open.spotify.com/track/7Id2K84NlsiHOFRV8DGiEU) | [Alan D](https://open.spotify.com/artist/3u4VRULomA2rso0lBPV5VQ), [MassMusic](https://open.spotify.com/artist/3bPWkIDNYSm7X6loZhpo22), [B\-Heart](https://open.spotify.com/artist/3wkgUQe1MTMFJp6bv3YGcK) | [Ego](https://open.spotify.com/album/6ApkLeAfB3ZViZv2aMl3J0) | 2:32 | 2023-05-18 | 2023-06-23 |
 | [Ego Maniacs](https://open.spotify.com/track/55qnnjyxq5LuXq6WyZd9Er) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI) | [Ego Maniacs](https://open.spotify.com/album/0Ox81bEz1Hjj6KPiI65yjB) | 3:38 | 2024-11-07 | 2024-12-28 |
+| [Either Way](https://open.spotify.com/track/4sBvS46yWfqvstlvLUf5zW) | [Sayku](https://open.spotify.com/artist/6OWXTHq7myy3irf9oDM4Xb) | [Either Way](https://open.spotify.com/album/5cL61ijH8iXe5KVFyaRiNP) | 2:28 | 2025-01-15 |  |
 | [El Niño \(feat\. Lil Wayne & Boyfriend\)](https://open.spotify.com/track/7niCz3hixgqnEBnO2mEHhI) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [Boyfriend](https://open.spotify.com/artist/1d0nvifbTEmCbO8BlRKjod) | [El Niño \(feat\. Lil Wayne & Boyfriend\)](https://open.spotify.com/album/5OpTiJ83Wd6EXlz0mUaLt3) | 3:05 | 2023-06-22 | 2023-07-29 |
 | [ELECTROWAVEBABY](https://open.spotify.com/track/7iwBRiipMHOz0sApVqZBRF) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 3:25 | 2024-01-11 | 2024-04-19 |
 | [ELEMENT.](https://open.spotify.com/track/7qnKzyQVIS07oTop9qVdsi) | [Khali Infamous](https://open.spotify.com/artist/3gZ9oSc9r4OODgRi2c4XHT) | [ELEMENT.](https://open.spotify.com/album/3mtmtXMv0OFAzB4VVSHWTB) | 2:34 | 2023-07-20 | 2023-09-01 |

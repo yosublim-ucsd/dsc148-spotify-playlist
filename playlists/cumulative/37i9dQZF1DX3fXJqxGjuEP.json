@@ -1210,7 +1210,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 243983,
       "name": "Bailando Bonito",
       "url": "https://open.spotify.com/track/2C47Ri3AXxD67NH8VLnprW"
@@ -1718,7 +1718,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 136374,
       "name": "Calor",
       "url": "https://open.spotify.com/track/4myO2F10sJUECanSVMZez1"
@@ -7524,7 +7524,7 @@
       ],
       "date_added": "2021-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 174882,
       "name": "PERLA",
       "url": "https://open.spotify.com/track/2Xr1RQQ15GeaJ7TFa8CTBj"
@@ -7742,7 +7742,7 @@
       ],
       "date_added": "2022-09-30",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-05",
+      "date_removed": null,
       "duration_ms": 188320,
       "name": "Post Qu\u00edmica",
       "url": "https://open.spotify.com/track/0NhUS4oQ8vQNaLgdQU6nRI"
@@ -9028,7 +9028,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 168320,
       "name": "Superdeli",
       "url": "https://open.spotify.com/track/5CHl7HjScJCEWIUymcg8iS"
@@ -9256,6 +9256,24 @@
       "duration_ms": 312661,
       "name": "Tierra",
       "url": "https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD"
+    },
+    {
+      "album": {
+        "name": "Pan",
+        "url": "https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft"
+      },
+      "artists": [
+        {
+          "name": "Chuwi",
+          "url": "https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221656,
+      "name": "Tikiri",
+      "url": "https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1"
     },
     {
       "album": {

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2020-10-30",
-  "description": "The top 100 tracks from Fresh Finds Experimental in 2024. Cover: LI YILEI",
-  "name": "Best of Fresh Finds Experimental 2024",
+  "description": "The best new music by Experimental independent artists and labels. Hiro Ama on cover. Artwork by Thami Nabil",
+  "name": "Fresh Finds Experimental",
   "tracks": [
     {
       "album": {
@@ -226,6 +226,24 @@
       "duration_ms": 141500,
       "name": "1st Day",
       "url": "https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb"
+    },
+    {
+      "album": {
+        "name": "2007",
+        "url": "https://open.spotify.com/album/1XrAK2WxsAlogv7MmVypiY"
+      },
+      "artists": [
+        {
+          "name": "Pelp",
+          "url": "https://open.spotify.com/artist/5O6mSkESMMTM6WmQmtlDcK"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 708927,
+      "name": "2033",
+      "url": "https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA"
     },
     {
       "album": {
@@ -1846,7 +1864,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 239786,
       "name": "Al\u00e9m do tempo",
       "url": "https://open.spotify.com/track/7dnTSnqHoMC1y8J1idG7t3"
@@ -1976,6 +1994,42 @@
       "duration_ms": 172563,
       "name": "Amazone",
       "url": "https://open.spotify.com/track/77gpb0bxDsU1Bi2cWInoXX"
+    },
+    {
+      "album": {
+        "name": "AMB001-008",
+        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363353,
+      "name": "AMB001",
+      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
+    },
+    {
+      "album": {
+        "name": "AMB005",
+        "url": "https://open.spotify.com/album/0jKG73qcfRcWA8pHx4ibeT"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358314,
+      "name": "AMB005",
+      "url": "https://open.spotify.com/track/4ylbp6v81OzyWEcla9nqMM"
     },
     {
       "album": {
@@ -2164,7 +2218,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 163097,
       "name": "Ancient DNA",
       "url": "https://open.spotify.com/track/2oCrapjL0YITkCmr3ny9pe"
@@ -4137,6 +4191,24 @@
     },
     {
       "album": {
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/1kWeNr74zt9BJaPT4HeYu8"
+      },
+      "artists": [
+        {
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207419,
+      "name": "Bird Language",
+      "url": "https://open.spotify.com/track/0rdbZRjXBEbM3fP7IGVYaz"
+    },
+    {
+      "album": {
         "name": "Birdy Island",
         "url": "https://open.spotify.com/album/3n2XRVTEOWVzxs6o0NcXgJ"
       },
@@ -4944,6 +5016,24 @@
       "duration_ms": 66560,
       "name": "Brightly burning, yet alone",
       "url": "https://open.spotify.com/track/4PrxR70V60J8ZGePXFf4Gi"
+    },
+    {
+      "album": {
+        "name": "Brinna ut",
+        "url": "https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv"
+      },
+      "artists": [
+        {
+          "name": "JJULIUS",
+          "url": "https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201853,
+      "name": "Brinna ut",
+      "url": "https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd"
     },
     {
       "album": {
@@ -7826,7 +7916,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 161052,
       "name": "Derrwut",
       "url": "https://open.spotify.com/track/4vAgnOJWXHwdgazdc0nKWi"
@@ -7884,7 +7974,7 @@
       ],
       "date_added": "2023-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 149626,
       "name": "Desendere\u00e7ada",
       "url": "https://open.spotify.com/track/5YB4GUHEoX2rMwseiRpdkG"
@@ -10159,6 +10249,24 @@
     },
     {
       "album": {
+        "name": "Music for Peace and Harmony",
+        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228990,
+      "name": "Everything Is Going To Make Sense In The End",
+      "url": "https://open.spotify.com/track/5dqSqdrceOCtjHjx2OFOqg"
+    },
+    {
+      "album": {
         "name": "Exile on \u00c6r\u00f8",
         "url": "https://open.spotify.com/album/2t7ONVWjlbhga1TPLj2q1t"
       },
@@ -11581,6 +11689,24 @@
     },
     {
       "album": {
+        "name": "Music for Peace and Harmony",
+        "url": "https://open.spotify.com/album/2nNZAWdNi2CgOAmZGlI9SW"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222645,
+      "name": "Forest Bathing",
+      "url": "https://open.spotify.com/track/0OAXvDMV0rQzSiukKjDwyt"
+    },
+    {
+      "album": {
         "name": "Forest Drone",
         "url": "https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45"
       },
@@ -11884,7 +12010,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 211800,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/5iZbYnthPPqqpqHrrdQStn"
@@ -12004,6 +12130,24 @@
       "duration_ms": 112500,
       "name": "Freak",
       "url": "https://open.spotify.com/track/077NoNfZ9eVPKIDUcA78ha"
+    },
+    {
+      "album": {
+        "name": "Free Soul",
+        "url": "https://open.spotify.com/album/5XUC3IZZsH3qDNXhDoZ0xL"
+      },
+      "artists": [
+        {
+          "name": "Hiro Ama",
+          "url": "https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 438499,
+      "name": "Free Soul",
+      "url": "https://open.spotify.com/track/7pljs8w88hJuYh0dSAgwXb"
     },
     {
       "album": {
@@ -15393,6 +15537,24 @@
     },
     {
       "album": {
+        "name": "LA Silhouettes",
+        "url": "https://open.spotify.com/album/4hULFOhBo22y1hbNsGNJuZ"
+      },
+      "artists": [
+        {
+          "name": "Kanako Yamamoto",
+          "url": "https://open.spotify.com/artist/7cXNcMV0AIIfCqFHjLnl6E"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204294,
+      "name": "In Your Orbit",
+      "url": "https://open.spotify.com/track/3PjfRbq69mblRZpx2AL7eM"
+    },
+    {
+      "album": {
         "name": "Edelial Exp",
         "url": "https://open.spotify.com/album/6iwUu1HFhA3f5pyTccIUos"
       },
@@ -15638,7 +15800,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 256949,
       "name": "Injury Detail",
       "url": "https://open.spotify.com/track/5yVieAuVqsun1xDUcqipvb"
@@ -16356,7 +16518,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 463080,
       "name": "I\u2019ll Do Whatever You Want (feat. Floating Points, Laraaji)",
       "url": "https://open.spotify.com/track/4rQuuNKKmV7K45aJoVqyIQ"
@@ -19962,7 +20124,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 270557,
       "name": "MissU",
       "url": "https://open.spotify.com/track/4mknLyEc2cUmxYTQbpwlYl"
@@ -21398,7 +21560,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-05",
+      "date_removed": null,
       "duration_ms": 123437,
       "name": "Nia",
       "url": "https://open.spotify.com/track/0ZbUsVTjgbeq4Uhj9k7N9J"
@@ -23879,6 +24041,24 @@
     },
     {
       "album": {
+        "name": "PLEASE COME TO ME",
+        "url": "https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413408,
+      "name": "PLEASE COME TO ME",
+      "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
+    },
+    {
+      "album": {
         "name": "Grial",
         "url": "https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X"
       },
@@ -24114,6 +24294,24 @@
       "duration_ms": 108053,
       "name": "Porcelain Hands",
       "url": "https://open.spotify.com/track/25k28wjOoJIMzm7jrkrIdn"
+    },
+    {
+      "album": {
+        "name": "Pordeno Me",
+        "url": "https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju"
+      },
+      "artists": [
+        {
+          "name": "Masma Dream World",
+          "url": "https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149457,
+      "name": "Pordeno Me",
+      "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
     },
     {
       "album": {
@@ -26508,7 +26706,7 @@
       ],
       "date_added": "2024-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 168230,
       "name": "Se o arrependimento matasse",
       "url": "https://open.spotify.com/track/1oUOHThOffguKFRhWcNeSV"
@@ -27572,7 +27770,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 781460,
       "name": "Sleepless",
       "url": "https://open.spotify.com/track/29OG197vwFviugdT0mxW3L"
@@ -28090,7 +28288,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 238750,
       "name": "something that lasts",
       "url": "https://open.spotify.com/track/5HkMf5rorBI0pELgPbKmf9"
@@ -29032,7 +29230,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 502469,
       "name": "Streetcorn",
       "url": "https://open.spotify.com/track/3VjCT0KKoyuvwUuWR47IG1"
@@ -29866,7 +30064,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 203031,
       "name": "Taste The Air - Julia Holter Mix",
       "url": "https://open.spotify.com/track/60TFOm6HFraVXonJmUdgTn"
@@ -30736,7 +30934,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 177592,
       "name": "the key",
       "url": "https://open.spotify.com/track/5MxcMquCa7gxzqK7MjhXDt"
@@ -31474,7 +31672,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 101931,
       "name": "The Visit",
       "url": "https://open.spotify.com/track/7vxcfLlxX6Z9f7q6ZC63M9"
@@ -33276,7 +33474,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 341875,
       "name": "Un Sasso Nero",
       "url": "https://open.spotify.com/track/4QHD0cMRBX1dYRt5dYzTjK"
@@ -34508,7 +34706,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 293370,
       "name": "VOAR",
       "url": "https://open.spotify.com/track/4XDTVhCmOlZl23aRl7PiJr"
@@ -35489,6 +35687,24 @@
     },
     {
       "album": {
+        "name": "WHYET\uff1f",
+        "url": "https://open.spotify.com/album/41Nf6etzcF599AG6udxp1P"
+      },
+      "artists": [
+        {
+          "name": "ondo",
+          "url": "https://open.spotify.com/artist/31D2x4Ch0Lz1Z9jhXTTLBF"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211500,
+      "name": "WHYET\uff1f",
+      "url": "https://open.spotify.com/track/3qZuhnMglx8sN2ePzhsKSz"
+    },
+    {
+      "album": {
         "name": "Ghost Box",
         "url": "https://open.spotify.com/album/06PzTwwKvPY8WGRNYBfpfy"
       },
@@ -35540,6 +35756,24 @@
       "duration_ms": 246593,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/5W9cJdvPtkuPaVtJAIylbM"
+    },
+    {
+      "album": {
+        "name": "WILLING",
+        "url": "https://open.spotify.com/album/0Ye4lZJZJor3sJj4uAEOYE"
+      },
+      "artists": [
+        {
+          "name": "JJUUJJUU",
+          "url": "https://open.spotify.com/artist/3BUpv2goO0OTzcj7yYkRZJ"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183829,
+      "name": "WILLING",
+      "url": "https://open.spotify.com/track/2hf3RcWaexBbDBuUfY4QfD"
     },
     {
       "album": {

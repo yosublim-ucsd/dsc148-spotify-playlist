@@ -2818,7 +2818,7 @@
       ],
       "date_added": "2021-01-29",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 254351,
       "name": "Hookah Bar",
       "url": "https://open.spotify.com/track/4AoQVhME8Ko6LNm4lV2wwQ"
@@ -3076,7 +3076,7 @@
       ],
       "date_added": "2023-03-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-03-21",
+      "date_removed": null,
       "duration_ms": 230557,
       "name": "Jai Jai Shivshankar",
       "url": "https://open.spotify.com/track/6IYS7wNZxRBvLpwMZDbcdP"
@@ -3424,11 +3424,19 @@
         {
           "name": "Shail Hada",
           "url": "https://open.spotify.com/artist/73oabrcxZFkgjgeJBP5uJC"
+        },
+        {
+          "name": "A.M. Turaz",
+          "url": "https://open.spotify.com/artist/7uvFUOwVvse3izyeVufnl9"
+        },
+        {
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
         }
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-14",
+      "date_removed": null,
       "duration_ms": 258893,
       "name": "Khalibali",
       "url": "https://open.spotify.com/track/3JT0mVof65rIHpRZITwRx1"
@@ -6682,7 +6690,7 @@
       ],
       "date_added": "2023-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 243206,
       "name": "Yaar Naa Miley",
       "url": "https://open.spotify.com/track/56lHtVpvNxFSKewJKpeYc3"

@@ -719,6 +719,24 @@
     },
     {
       "album": {
+        "name": "Ik Onkar - Mool Mantra",
+        "url": "https://open.spotify.com/album/2F4KvMF2TeB5nIWZFZJAju"
+      },
+      "artists": [
+        {
+          "name": "Shagun Sodhi",
+          "url": "https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311999,
+      "name": "Ik Onkar - Mool Mantra",
+      "url": "https://open.spotify.com/track/7JKIryV7GlXMpbzF7QuLwC"
+    },
+    {
+      "album": {
         "name": "Song Craft Season 1",
         "url": "https://open.spotify.com/album/6cyCyVWsO3y369yadNqbmA"
       },
@@ -1030,7 +1048,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 489176,
       "name": "Mahalaxmi Mantra 108 Times",
       "url": "https://open.spotify.com/track/1v30wG4PeNKB7dSN98N4FJ"

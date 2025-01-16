@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Tyrese Haliburton and Darius Garland
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Jamal Murray
 
 769 songs - 1 day 15 hr 45 min
 

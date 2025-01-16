@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 
 > Celebrating Haitian music\. Cover: Rutshelle, John Legend and Michaël Brun
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,224 likes - 100 songs - 6 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,251 likes - 100 songs - 6 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 31 | [Dlo Dous](https://open.spotify.com/track/3UeXZMikkWeA8RDBr2IWKF) | [Zafem](https://open.spotify.com/artist/6RQS5FdYKbJOwWHPMRiej9) | [LAS](https://open.spotify.com/album/01oPSFSY6fQmlFUDoNORvB) | 5:13 |
 | 32 | [Hello](https://open.spotify.com/track/3fjdmSy0BjSLRsg0j5BM8Z) | [Fatima Altieri](https://open.spotify.com/artist/3nGuFLR5hzXmswWEYvCTWk) | [PWOTEJE M](https://open.spotify.com/album/39aT6K4C2FjfDOOAHj6UMa) | 2:54 |
 | 33 | [Clueless \(with Oxlade\)](https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT) | [Clueless \(with Oxlade\)](https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54) | 2:44 |
-| 34 | [40 %](https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6) | [Dro X Yani](https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK) | [40 %](https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS) | 4:38 |
-| 35 | [Aidez Moi](https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ) | 2:24 |
+| 34 | [Aidez Moi](https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI) | [Durkheim](https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0) | [Tous Ces Détails](https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ) | 2:24 |
+| 35 | [40 %](https://open.spotify.com/track/7HdSByM2uzvWHQVN6UDkY6) | [Dro X Yani](https://open.spotify.com/artist/6gP0wnbpPZzEbK8f3rfYbK) | [40 %](https://open.spotify.com/album/4TutMtpFftwHGcibEmeogS) | 4:38 |
 | 36 | [Hustla](https://open.spotify.com/track/1UnZUwKsQsmwSdsvKm2QRm) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Emmanuel Jal](https://open.spotify.com/artist/2yWskGGwMOlBGeIAVgfsgm) | [Hustla](https://open.spotify.com/album/4oofnyX49L9k555nOKILFI) | 2:41 |
 | 37 | [Rete La](https://open.spotify.com/track/00eEvIf9gSOahDmGrkRabR) | [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Quoi qu'il advienne \(QQA\)](https://open.spotify.com/album/56nRY08QQ3nvWq5YnFV9og) | 5:03 |
 | 38 | [Tick Tock Boom](https://open.spotify.com/track/3tegnAgLGsny5A9F04trQP) | [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125), [AndyBeatz](https://open.spotify.com/artist/5BOPrDa0zWmREwrBHr3hs9), [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [Tick Tock Boom](https://open.spotify.com/album/0T7e56yIFCMxvWIrfgLQlD) | 2:13 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3XjJqhm9fqD.md) - [plain]
 | 95 | [U.F.O.](https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc) | [Freedom](https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [U.F.O.](https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu) | 3:30 |
 | 96 | [Can't Catch Me](https://open.spotify.com/track/4t2gMGEevHHuBmd0rW2R2C) | [Jessie Woo](https://open.spotify.com/artist/2eIEzwxBh1vDSSbUfZkeLL) | [Can't Catch Me](https://open.spotify.com/album/7IBOw2bmNaBtvrVj23qiOK) | 3:49 |
 | 97 | [Te revoir](https://open.spotify.com/track/0CVKhHjLE5uuCldl84EEu0) | [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Te revoir](https://open.spotify.com/album/48cChxhg7iB4bw9DzESjLc) | 3:25 |
-| 98 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
-| 99 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
+| 98 | [No Regrets](https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2) | [Chabin](https://open.spotify.com/artist/6vqF2cU8qDVTogjAlCtBoA), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [No Regrets](https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD) | 2:53 |
+| 99 | [Mpral Dòmi Nan Simityè](https://open.spotify.com/track/42SxbX0YCh8z2CLN3g1mey) | [RAM](https://open.spotify.com/artist/2h9NlG3ROPRc0Rt17PDicl) | [Ram 6: Manmanm Se Ginen](https://open.spotify.com/album/2b8afIvm6I8ggOj9kTgf24) | 3:03 |
 | 100 | [Wine Pon Me \- Remix](https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS) | [J\. Sevad](https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3), [Spectrum the Originator](https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm) | [Flavors](https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo) | 2:46 |
 
 Snapshot ID: `Z0AP0AAAAAAFiLkhnLU29Li6Yu4zhxAH`

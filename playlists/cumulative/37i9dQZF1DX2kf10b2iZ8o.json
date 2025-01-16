@@ -736,7 +736,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 284200,
       "name": "DRIVE A LIVE",
       "url": "https://open.spotify.com/track/7KSn84SXhLWyibpChERxyq"
@@ -1048,7 +1048,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-27",
+      "date_removed": null,
       "duration_ms": 281840,
       "name": "Genuine feelings",
       "url": "https://open.spotify.com/track/4B3Hjgv7A2PT20NbafOmJn"
@@ -1430,6 +1430,24 @@
       "duration_ms": 273973,
       "name": "Legacy of Spirit",
       "url": "https://open.spotify.com/track/71uO1WQe2jlb4qmTcP6pP5"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 01",
+        "url": "https://open.spotify.com/album/5nG3eMCVdGwe9jd8UzGW4v"
+      },
+      "artists": [
+        {
+          "name": "315 STARS",
+          "url": "https://open.spotify.com/artist/1NYhr1c68AEaL0LIPvnC8e"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239186,
+      "name": "LET'S GO!!",
+      "url": "https://open.spotify.com/track/2V375EIhtUNvPexkqDNNIz"
     },
     {
       "album": {
@@ -2930,7 +2948,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 245493,
       "name": "Yell Song",
       "url": "https://open.spotify.com/track/5qW0XtcObOGqgcnd5BOr3R"

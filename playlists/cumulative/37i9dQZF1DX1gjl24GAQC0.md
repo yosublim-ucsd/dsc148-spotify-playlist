@@ -2,9 +2,9 @@
 
 ### [Hallyu Boy Bands \(한류 보이 밴드\)](https://open.spotify.com/playlist/37i9dQZF1DX1gjl24GAQC0)
 
-> Is it your favorite oppa or dongsaeng? \(Cover: RIIZE\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
+> Is it your favorite oppa or dongsaeng? \(Cover: WEi\) \[당신의 최애 아이돌 보이 그룹은 어떤 그룹인가요?
 
-643 songs - 1 day 11 hr 32 min
+645 songs - 1 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -259,7 +259,7 @@
 | [Here I Am](https://open.spotify.com/track/5ZMbkW9TYzmKyod6FCIS4Q) | [BOYS PLANET](https://open.spotify.com/artist/49pGKUCSjzaCfv8gdTWG98) | [BOYS PLANET \- Here I Am](https://open.spotify.com/album/3qaFHMGRbufnBob2fGNKkc) | 4:04 | 2023-01-13 | 2023-06-22 |
 | [Hero](https://open.spotify.com/track/3jfkavi0DplCgF687ce9Md) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [INSIDE](https://open.spotify.com/album/38ifcco3lQ2JhSpU5JLMGW) | 3:16 | 2022-04-12 | 2022-04-18 |
 | [hey](https://open.spotify.com/track/6I2OEdbHkkaZTOi3mWpHjq) | [0WAVE](https://open.spotify.com/artist/1nxCRfWuzM4GSCVfrqtlxz) | [off the wall](https://open.spotify.com/album/5NkKedFEJ4qyK4imPMDR2d) | 2:54 | 2022-12-15 | 2023-01-06 |
-| [Hi Beautiful](https://open.spotify.com/track/2fDxVJHUsD6tpz0Y4ba2Fg) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Hi Beautiful](https://open.spotify.com/album/2N0htUEFJm4JnJ2VLCS3cB) | 2:50 | 2025-01-02 |  |
+| [Hi Beautiful](https://open.spotify.com/track/2fDxVJHUsD6tpz0Y4ba2Fg) | [BTOB](https://open.spotify.com/artist/2hcsKca6hCfFMwwdbFvenJ) | [Hi Beautiful](https://open.spotify.com/album/2N0htUEFJm4JnJ2VLCS3cB) | 2:50 | 2025-01-02 | 2025-01-16 |
 | [Hidden Side](https://open.spotify.com/track/287Y0QDy6xhjrc9IjwZFUh) | [HWANG MIN HYUN](https://open.spotify.com/artist/7BwZlhJRHC1oVJr8lTxSLf) | ['Truth or Lie' \- 1st MINI ALBUM](https://open.spotify.com/album/0zL517sKU45pMGbNeq0UhB) | 2:57 | 2023-02-27 | 2023-04-20 |
 | [HIGH FIVE](https://open.spotify.com/track/0BmAxed767sKuHlMq22cuW) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [HIGH FIVE](https://open.spotify.com/album/3qXcP38yQQay5WeyoK2bd7) | 3:02 | 2024-11-19 | 2024-11-26 |
 | [Highway to Heaven](https://open.spotify.com/track/12ksjJ2DDQZu0a1fvJnTRE) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 WE ARE SUPERHUMAN \- The 4th Mini Album](https://open.spotify.com/album/15DNWLVXy5ES2USQ1PFnF5) | 3:20 | 2022-01-14 | 2022-04-15 |
@@ -290,6 +290,7 @@
 | [IF I SAY, I LOVE YOU](https://open.spotify.com/track/7GOIrZTegzVty8mhNhRuA0) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1) | [IF I SAY, I LOVE YOU](https://open.spotify.com/album/0oG7GdJqiwdDcVfz1FwZEe) | 2:41 | 2025-01-07 |  |
 | [If I’m S, Can You Be My N?](https://open.spotify.com/track/2y8vRHEoz15sYDmxyrDePO) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [TWS 2nd Mini Album 'SUMMER BEAT!'](https://open.spotify.com/album/03QRqvvQFLDaJM711Gkn03) | 2:48 | 2024-06-25 |  |
 | [If with U](https://open.spotify.com/track/0Qqo0BxJWQGdvYWLoIOWq2) | [Monsta X](https://open.spotify.com/artist/4TnGh5PKbSjpYqpIdlW5nz) | [If with U](https://open.spotify.com/album/7pxzFpELZglI6l6Ssw5lcw) | 3:07 | 2022-07-07 | 2022-07-20 |
+| [IKUK](https://open.spotify.com/track/7dL1D78LXTixcXWEdNo63x) | [ONEUS](https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9) | [Dear.M](https://open.spotify.com/album/48AedwRUndu10YZyR1C5Qy) | 2:48 | 2025-01-15 |  |
 | [Impossible](https://open.spotify.com/track/0GIzsyWjS0wb15Q7zB5L7b) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [RIIZING](https://open.spotify.com/album/4DdDtcluroMFPVLWFKykqk) | 3:02 | 2024-04-29 | 2024-05-21 |
 | [Impossible](https://open.spotify.com/track/5zBO8f5BKQX4VNR3ILfDXk) | [RIIZE](https://open.spotify.com/artist/2jOm3cYujQx6o1dxuiuqaX) | [Impossible](https://open.spotify.com/album/1M6NqKR4E8SISWegTJZsWR) | 3:02 | 2024-04-18 | 2024-05-08 |
 | [In Bloom](https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [YOUTH IN THE SHADE](https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX) | 3:00 | 2023-07-19 | 2024-09-14 |
@@ -354,7 +355,7 @@
 | [LOVE ME LIKE](https://open.spotify.com/track/3IXSxojIjh3YuVK53HJQUN) | [OMEGA X](https://open.spotify.com/artist/2FJYWlqgtoiBtXpOy9GGIF) | [LOVE ME LIKE](https://open.spotify.com/album/0N8lx0LEnJuXuccK3utCgw) | 2:54 | 2022-01-13 | 2022-05-06 |
 | [Love or Die](https://open.spotify.com/track/4mNYuIZVcHy6TUBoaCnGpF) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [EVERSHINE](https://open.spotify.com/album/6Vann84OY36Th0qtrewvKJ) | 2:47 | 2024-02-26 | 2024-03-22 |
 | [Love Paranoia](https://open.spotify.com/track/3ej4aFOFyt0EoxXZHBHVyP) | [LUNA](https://open.spotify.com/artist/24czKkgx0KoQ239m9tvDyk) | [Love Paranoia](https://open.spotify.com/album/1D9utBj0lUeNuJsyXNcZgT) | 3:38 | 2022-02-15 | 2022-07-25 |
-| [Love Potion \(白日夢\)](https://open.spotify.com/track/6MPl1itw6siKstgoCIeCDo) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign 3rd Mini Album 'Love Potion'](https://open.spotify.com/album/2zUSOtmcJKnKe6byvkf1bZ) | 3:27 | 2025-01-02 |  |
+| [Love Potion \(白日夢\)](https://open.spotify.com/track/6MPl1itw6siKstgoCIeCDo) | [n.SSign](https://open.spotify.com/artist/3IHvi45S5SITyNES9VzSjI) | [n.SSign 3rd Mini Album 'Love Potion'](https://open.spotify.com/album/2zUSOtmcJKnKe6byvkf1bZ) | 3:27 | 2025-01-02 | 2025-01-16 |
 | [Love Right Back \(feat\. TAEIL of NCT, lIlBOI\)](https://open.spotify.com/track/1XAjHcWjzNbYlVi9uSp1ko) | [Raiden](https://open.spotify.com/artist/4YXNoMVTHRt01jYaKXTumJ), [TAEIL](https://open.spotify.com/artist/1z0Hi3myYw4x32xCq0H3aq), [lIlBOI](https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved) | [Love Right Back \- The 1st Mini Album](https://open.spotify.com/album/06qTl39RYzpAI13SUQzwvV) | 3:14 | 2022-04-12 | 2022-04-20 |
 | [LOVE SCENARIO](https://open.spotify.com/track/3d3ELsqKlQ7WA0a10Isu3l) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/7th9VLudqM04TpG8hNE1pb) | 3:29 | 2022-07-27 | 2024-04-19 |
 | [LOVE SCENARIO](https://open.spotify.com/track/6qAzAmPBUpGrk7XADZHR5k) | [iKON](https://open.spotify.com/artist/5qRSs6mvI17zrkJpOHkCoM) | [Return](https://open.spotify.com/album/1VSMwSajwLiywZBuB8gvP8) | 3:29 | 2021-12-08 | 2022-07-19 |
@@ -420,6 +421,7 @@
 | [No More X](https://open.spotify.com/track/7ykZspJW8uY2Lx26zO3eBt) | [TO1](https://open.spotify.com/artist/405HlkQ0VXP4NUYaGxsgsg) | [RE:ALIZE](https://open.spotify.com/album/3uHB6cLFlt4u4M6HTbSLfy) | 2:58 | 2022-03-22 | 2022-06-15 |
 | [nostalgic night](https://open.spotify.com/track/7MC2mQvMmir9PM3nAe2SuW) | [VICTON](https://open.spotify.com/artist/0ziR2zN0NFcB4x1G3P8cW3) | [nostalgia](https://open.spotify.com/album/2sJsRFE2NrqsV7DYmrmlZz) | 3:15 | 2021-12-08 | 2022-07-22 |
 | [NOT BY THE MOON](https://open.spotify.com/track/1pmfd0ohjfh1qXPWvjaC1o) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:24 | 2021-12-08 | 2022-07-25 |
+| [NOT ENOUGH](https://open.spotify.com/track/7mlaiNv0po5vSAnp6KYEgF) | [WEi](https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5) | [The Feelings](https://open.spotify.com/album/4tlFQWOtbAdiRZKXkMITvg) | 3:00 | 2025-01-15 |  |
 | [NOT THE END](https://open.spotify.com/track/3VSA53dOtVkhwyJ0nsAnRt) | [Highlight](https://open.spotify.com/artist/3T0fMfxYBU3q9oAUAdPIsr) | [The Blowing](https://open.spotify.com/album/12bPrSSJZ1qysNAGEFGzGC) | 3:38 | 2022-03-22 | 2022-04-18 |
 | [Now or Never](https://open.spotify.com/track/2G9yfxvhTXrJ88pzAh1S1P) | [CRAVITY](https://open.spotify.com/artist/6FkhUhUwSPl3mGB6mmE8wn) | [FIND THE ORBIT](https://open.spotify.com/album/4o0tsqeffVyiKwAFnL9ISQ) | 2:52 | 2024-12-09 | 2024-12-19 |
 | [Numb](https://open.spotify.com/track/0oiQqWcpJVeMsKQ5E0Cil8) | [CIX](https://open.spotify.com/artist/1lHfzEkKmmvdVDDDLKkcsd) | [HELLO Chapter 2: Hello, Strange Place](https://open.spotify.com/album/470CmgGjcBd9XmDA4jCyAD) | 3:25 | 2022-01-17 | 2022-04-15 |

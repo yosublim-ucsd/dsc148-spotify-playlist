@@ -1,12 +1,12 @@
 {
   "description": "This is Tyler, The Creator. The essential tracks, all in one playlist.",
-  "num_followers": 668326,
+  "num_followers": 668792,
   "original_name": "This Is Tyler, The Creator",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAAAUH5/Br/npKN7SdWrQu8vx",
+  "snapshot_id": "Z4WpAAAAAABNuJnpc0zQ9cWrubPwWClr",
   "tracks": [
     {
       "added_at": null,
@@ -907,26 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hitler Wears Hermes 8: Side B",
-        "url": "https://open.spotify.com/album/0KtFP56RU7bd32pcvdeWOU"
-      },
-      "artists": [
-        {
-          "name": "Westside Gunn",
-          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
-        },
-        {
-          "name": "Tyler, The Creator",
-          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
-        }
-      ],
-      "duration_ms": 105185,
-      "name": "The Fly who couldn't Fly straight (feat. Tyler, The Creator)",
-      "url": "https://open.spotify.com/track/6bCbBTw3mqHWQwhFMMaOOq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "I Know NIGO!",
         "url": "https://open.spotify.com/album/75T8WnF5n7fgKJ0EC7WRPS"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 199500,
       "name": "Come On, Let's Go (with Nigo)",
       "url": "https://open.spotify.com/track/6f44p3Kc4ayD9VtbC9Clkr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hitler Wears Hermes 8: Side B",
+        "url": "https://open.spotify.com/album/0KtFP56RU7bd32pcvdeWOU"
+      },
+      "artists": [
+        {
+          "name": "Westside Gunn",
+          "url": "https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW"
+        },
+        {
+          "name": "Tyler, The Creator",
+          "url": "https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF"
+        }
+      ],
+      "duration_ms": 105185,
+      "name": "The Fly who couldn't Fly straight (feat. Tyler, The Creator)",
+      "url": "https://open.spotify.com/track/6bCbBTw3mqHWQwhFMMaOOq"
     },
     {
       "added_at": null,

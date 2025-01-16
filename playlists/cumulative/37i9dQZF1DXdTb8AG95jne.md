@@ -4,7 +4,7 @@
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: Heo Hoy Kyung\(허회경\)\) \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-857 songs - 2 day 4 hr 25 min
+859 songs - 2 day 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -60,7 +60,7 @@
 | [All My Friends Kill Me](https://open.spotify.com/track/4C8qPNCHXKTYD56KrPzKQP) | [KYUL](https://open.spotify.com/artist/10LaysU4hUTEGtWwC0Zbrm) | [All My Friends Kill Me](https://open.spotify.com/album/12oTig0EoVdptk5abXIcJ9) | 3:02 | 2022-07-04 | 2022-07-09 |
 | [Aloha 알로하](https://open.spotify.com/track/5493pPnFuPUaivtqso3NJo) | [ourlingo](https://open.spotify.com/artist/7zXov1xoHzEmIcnA83HjIR) | [Aloha 알로하](https://open.spotify.com/album/1bUgeTDXvqO8D3TESAhot7) | 4:05 | 2022-03-31 | 2022-07-06 |
 | [Alone](https://open.spotify.com/track/3gdNDVytyAtgqSCRNWgqMw) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [B\_ye](https://open.spotify.com/album/7JKxvinZqgB6w5X7ck8Wwk) | 3:57 | 2022-03-31 | 2022-04-11 |
-| [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 |  |
+| [Although In Tears](https://open.spotify.com/track/4mklI5Cr8WQEJTgLqF01mZ) | [Heo Hoy Kyung](https://open.spotify.com/artist/5z8B2oTjiZbpbMB6rAfPGl) | [Although In Tears](https://open.spotify.com/album/5gHIg4pAobtlvxcQ8D1j32) | 3:29 | 2024-10-31 | 2025-01-16 |
 | [AMEN](https://open.spotify.com/track/1b32HPWdqHd2Io2KazkQmX) | [SFC.JGR](https://open.spotify.com/artist/6Ia8wkjjUXRx9jqFsVJqHQ) | [AMEN](https://open.spotify.com/album/4dwIdY0b2fBND9ozn1t7ui) | 2:17 | 2021-12-21 | 2022-04-16 |
 | [An Empiricist](https://open.spotify.com/track/1jjfnYIMlvmzna7yZmXgGx) | [JAE BEE POP KEY](https://open.spotify.com/artist/4FBZVYeGQnd6OWH8hPdioM) | [We](https://open.spotify.com/album/4nmgB5pSZhxKsLEoSrI9Gf) | 3:04 | 2022-03-21 | 2022-04-11 |
 | [Answer](https://open.spotify.com/track/5DFVWocetuRnKhy7WjO8Ht) | [homezone](https://open.spotify.com/artist/31hDouD40df6TsqnZZpNAK) | [Answer](https://open.spotify.com/album/1bUlMzOPjvgiCWDfAzKD3r) | 3:44 | 2022-05-03 | 2024-05-15 |
@@ -416,6 +416,7 @@
 | [Let’s Dance For Me 모르겠고요, 춤을 춰요](https://open.spotify.com/track/0Movj8s4Amm8ax9y8Y6irk) | [Jang HeeWon](https://open.spotify.com/artist/1nISeMejedvyK4XXRacYAH) | [Let’s Dance For Me 모르겠고요, 춤을 춰요](https://open.spotify.com/album/2CxUPiHXhCefMjkMvx8XBg) | 3:35 | 2022-03-31 | 2022-04-06 |
 | [Light \(Feat\. Junguk\)](https://open.spotify.com/track/77SWtlPS2Y4ijijx4Ucgbp) | [minzunki](https://open.spotify.com/artist/6gj5VZHLST9DF4D5LTek65), [Junguk](https://open.spotify.com/artist/0r0UiX83K8j121ilLGAX8k) | [Light \(Feat\. Junguk\)](https://open.spotify.com/album/5QqP080KIO26a5XvDNX2F5) | 3:49 | 2024-04-30 | 2024-05-10 |
 | [Lighthouse](https://open.spotify.com/track/6NE7hAW6UFEJWhv2hP6z8X) | [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [Calibrate](https://open.spotify.com/album/0U8Tdmu885TydIA7hdlZ0y) | 3:45 | 2021-12-21 | 2024-11-07 |
+| [Like A Bird](https://open.spotify.com/track/6gFIpK79s3aMiJM2riCNw5) | [Kim Hyo Rin](https://open.spotify.com/artist/5utWINxnF6V3qB60hLMZTp) | [Like A Bird](https://open.spotify.com/album/6cQzqYWaTGg6VLbb435eNg) | 3:00 | 2025-01-15 |  |
 | [Like my groove](https://open.spotify.com/track/2LpUmnpyrdsrGwjxFkUBVp) | [HANRORO](https://open.spotify.com/artist/5wVJpXzuKV6Xj7Yhsf2uYx), [the orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [Like my groove](https://open.spotify.com/album/7kcDdPNGDvR88xrU41QWlz) | 3:07 | 2022-08-18 | 2022-09-06 |
 | [Like You](https://open.spotify.com/track/5o3r2FdUJQvGD5HwXzajuS) | [Vanilla Acoustic](https://open.spotify.com/artist/57xPD2CfuwxN6Ld7rf2iLG) | [Like You](https://open.spotify.com/album/7w167b8Zpa8I6dyhMC2viC) | 3:33 | 2022-03-31 | 2022-04-19 |
 | [Little Drama](https://open.spotify.com/track/18WKej3uAeGSFjelzj8q2m) | [CIFIKA](https://open.spotify.com/artist/0OK6Xs5X1kHs07y68n65CQ) | [Bonfire](https://open.spotify.com/album/4kjZBvgZ6jJXX0wMn9VhP5) | 3:29 | 2024-11-29 |  |
@@ -603,7 +604,7 @@
 | [Rotten Flower](https://open.spotify.com/track/4Cfo60WsyTpelx87mdMtiP) | [Woo Hye Mi](https://open.spotify.com/artist/3md5p13jiHC7M6qtL9qlo9) | [Rotten Flower](https://open.spotify.com/album/4MlSb1X82NlpyB8jYj5EWY) | 4:06 | 2022-04-12 | 2022-04-21 |
 | [roundnround](https://open.spotify.com/track/45S6KXFoyTifmUAyd00D9o) | [Jinoa](https://open.spotify.com/artist/5B9a2sEypgeereR5g4ieXK) | [roundnround](https://open.spotify.com/album/5i5RAswwxozRfdm0W1G683) | 3:05 | 2022-05-03 | 2022-05-12 |
 | [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/track/71Hn3PaliOazhlNKvig9MI) | [YdBB](https://open.spotify.com/artist/2UjX6FLGyUQb4sbookjR3y), [Ha Hyun Sang](https://open.spotify.com/artist/1jK4qH2wAXqF8v64zvaGRb) | [RUNAWAY \(feat\. Ha Hyun Sang\)](https://open.spotify.com/album/2nUctvyrurwUj4h5etWwNq) | 3:30 | 2024-06-12 | 2024-11-30 |
-| [S G T A P E \- 02](https://open.spotify.com/track/7jkdHQiiYHhBNAvZeKAeRA) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [S G T A P E \- 02](https://open.spotify.com/album/4ngTgk3EulbfnBvCKz1C0N) | 18:41 | 2025-01-02 |  |
+| [S G T A P E \- 02](https://open.spotify.com/track/7jkdHQiiYHhBNAvZeKAeRA) | [Silica Gel](https://open.spotify.com/artist/2kxVxKOgoefmgkwoHipHsn) | [S G T A P E \- 02](https://open.spotify.com/album/4ngTgk3EulbfnBvCKz1C0N) | 18:41 | 2025-01-02 | 2025-01-16 |
 | [Safety Distance](https://open.spotify.com/track/513DfQz8PCkHlnWcn1QeLJ) | [휘슬 \(Whistle\)](https://open.spotify.com/artist/6zZR8DsPLAROAhjBYRGROH) | [Safety Distance](https://open.spotify.com/album/2z1r6akTAwpd3f6bTWmJr9) | 3:47 | 2022-05-02 | 2022-05-12 |
 | [Same Constellation 같은 별자리](https://open.spotify.com/track/3k8C88CZl8AP8fKysgS4Ug) | [lalasweet](https://open.spotify.com/artist/5i8AqrrtbwtPqzkavePQy1) | [Same Constellation 같은 별자리](https://open.spotify.com/album/5C5GOjn5IV3cz1VZiZZMWq) | 4:15 | 2022-03-31 | 2022-04-02 |
 | [Same 같아 \(With Marvin\)](https://open.spotify.com/track/3EsRJZrf0y1HUMywkQ85nW) | [Woo Chan Yang](https://open.spotify.com/artist/0qYNg9bwLffe5akdCzkGRj), [Marvin](https://open.spotify.com/artist/363B8ECJtLIGgkXrSPwPNr) | [EQUAL](https://open.spotify.com/album/5ZqIdPhee05PccRIL0fsux) | 3:26 | 2022-03-31 | 2022-04-18 |
@@ -713,6 +714,7 @@
 | [Thanks and Thank you](https://open.spotify.com/track/5yrpZNk10TtSgQGKuVzAlB) | [Jang Jane](https://open.spotify.com/artist/41QP3s5kY0UroKcIeASAMY) | [Thanks and Thank you](https://open.spotify.com/album/0uPBWBnUkF07lorP1GZMbJ) | 3:53 | 2022-12-13 | 2022-12-30 |
 | [That Day](https://open.spotify.com/track/2PRAXIx89uLrMOqHObS4tb) | [The Orchard](https://open.spotify.com/artist/6w8vEVxqF3ilGHbjTWgTKI) | [My Liberation Notes OST Part 4](https://open.spotify.com/album/6sPu6tsH64Dj3RMsUJJ8rZ) | 3:02 | 2022-05-11 | 2022-08-07 |
 | [That Night](https://open.spotify.com/track/2vRmqij0eJYLtJou6WBBpC) | [WooIn](https://open.spotify.com/artist/501q5RPEA8jjnFENWErgNc) | [That Night](https://open.spotify.com/album/608jPnA1ATWX7DNs0qsX7s) | 4:01 | 2022-03-31 | 2022-04-12 |
+| [That year, That love](https://open.spotify.com/track/7gxUXbYdHZbMUf1gmeL5Vj) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca) | [That year, That love](https://open.spotify.com/album/1WU28WOTWguO5Hl7HItAFb) | 3:08 | 2025-01-15 |  |
 | [That you came to me](https://open.spotify.com/track/48Dk5wZQNXMmxqE8B2Glt4) | [Asahi](https://open.spotify.com/artist/05pDmDKsBRuMprwAqAgxXw) | [That you came to me](https://open.spotify.com/album/16WDt0NESttjZfkHLdLPDd) | 2:56 | 2023-07-17 | 2023-08-01 |
 | [THE](https://open.spotify.com/track/1Ssehbv2YuNm1PlwHQlkQU) | [Gaho](https://open.spotify.com/artist/3ybZTNrlK0QhL4rBxfLHOc), [JIAN](https://open.spotify.com/artist/4eIoxNh0xJ6x7iCf7r2hSb) | [ARE YOU THERE](https://open.spotify.com/album/67NbgsJ02X78ydRgMxRjUU) | 3:37 | 2021-12-12 | 2022-07-29 |
 | [THE BEACON OF HOPE](https://open.spotify.com/track/2ebSlHQJJBhkFZBJN9HJ5A) | [데이먼스 이어 Damons year](https://open.spotify.com/artist/2T5KKZuEEudb7alCJ1pCus) | [THE BEACON OF HOPE](https://open.spotify.com/album/3k86I5vdCvxf2VdUxAGPpv) | 4:44 | 2024-11-20 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 
 > The finest set of Telugu music from the past 10 years\. <br/>Cover : Hi Nanna
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,740 likes - 75 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,868 likes - 75 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5VOFoIqmrOV.md) - [plain]
 | 36 | [Gundellonaa](https://open.spotify.com/track/6D2LwdOQ5gjoFrpkoO5fvu) | [Leon James](https://open.spotify.com/artist/0wv5i0ds2z040yx7oL6UZy), [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O) | [Gundellonaa \(From "Ori Devuda"\)](https://open.spotify.com/album/4eRBY1Mz7XTF95Vs2baAbZ) | 3:20 |
 | 37 | [Hoyna Hoyna](https://open.spotify.com/track/7mNQwVYgoB3mtjkjCKsbXM) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [Inno Genga](https://open.spotify.com/artist/29cBzYwqCZF4fjCisS8UvU) | [Gang Leader \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3JdE4IkqObXwTWzYKieCUv) | 4:31 |
 | 38 | [Adiga Adiga](https://open.spotify.com/track/5Mo0zkOAPtR2rW9kL29X37) | [Sid Sriram](https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN) | [Ninnu Kori](https://open.spotify.com/album/1os6SVCCteiOS7ZeO8Lxd8) | 3:29 |
-| 39 | [Seeti Maar](https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:10 |
-| 40 | [Em Sandeham Ledu](https://open.spotify.com/track/6vsPBbLGfeLraBanG4HJaR) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Oohalu Gusagusalade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5HaFZv77oP0GMVZXSfyz4h) | 3:52 |
+| 39 | [Em Sandeham Ledu](https://open.spotify.com/track/6vsPBbLGfeLraBanG4HJaR) | [Kalyani Malik](https://open.spotify.com/artist/5w6bUd0SJtvdQ99pZm83PJ), [Sunitha](https://open.spotify.com/artist/74S8YRi4XQ5yf9ToSzuY80) | [Oohalu Gusagusalade \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5HaFZv77oP0GMVZXSfyz4h) | 3:52 |
+| 40 | [Seeti Maar](https://open.spotify.com/track/5VayHAvzwBx4i87c1twFjS) | [Jaspreet Jasz](https://open.spotify.com/artist/65jsdEMz2d1jbIECHqAhFr), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF) | [DJ](https://open.spotify.com/album/1kGnuSqFejTLaDJefAU7yw) | 4:10 |
 | 41 | [Guruvaram](https://open.spotify.com/track/58DAnVD65xKeQW3ARTBolV) | [Vijay Prakash](https://open.spotify.com/artist/4iA6bUhiZyvRKJf4FNVX39) | [Kirrak Party](https://open.spotify.com/album/2S8HTTAlfF9ig5wfFkOw6p) | 3:36 |
 | 42 | [Hey Pillagaada](https://open.spotify.com/track/3A3vrhAzRGaK92PtFzndjS) | [Sindhuri](https://open.spotify.com/artist/42hb3CC6jTpF3vve0FkquG), [Sinov Raj](https://open.spotify.com/artist/0Xk1j528pHoL2oervr3qP0) | [Fidaa](https://open.spotify.com/album/2OPvJhDyy9YvHJT3xt7Zwh) | 4:08 |
 | 43 | [Rang de](https://open.spotify.com/track/2x3Plafnj7QE5VU3mFI7f7) | [Ramya](https://open.spotify.com/artist/7gVwxXFMkSYwYGNHIt77qU), [Rahul Nambiar](https://open.spotify.com/artist/5a2WF7juQ5oilpZCqikRtP), [Shivani](https://open.spotify.com/artist/1YgwDFQvwbprfD17tGUjje) | [Aa Aaa](https://open.spotify.com/album/6v3wCqXfxeBqt63zXTCQOY) | 4:01 |

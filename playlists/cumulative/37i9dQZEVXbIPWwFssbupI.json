@@ -7116,7 +7116,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 258431,
       "name": "Can't Hold Us (feat. Ray Dalton)",
       "url": "https://open.spotify.com/track/22skzmqfdWrjJylampe0kt"
@@ -25768,7 +25768,7 @@
       ],
       "date_added": "2024-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 179352,
       "name": "Menace fant\u00f4me",
       "url": "https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL"
@@ -27528,12 +27528,12 @@
       },
       "artists": [
         {
-          "name": "Tiitof",
-          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
-        },
-        {
           "name": "SKUNK",
           "url": "https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57"
+        },
+        {
+          "name": "Tiitof",
+          "url": "https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS"
         },
         {
           "name": "Leto",

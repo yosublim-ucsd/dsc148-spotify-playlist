@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Ben Georgi, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: laela, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1780,7 +1780,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 151232,
       "name": "Baddietransfer",
       "url": "https://open.spotify.com/track/7059PJ3mKKQV9BscOyzepA"
@@ -7694,10 +7694,28 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 197957,
       "name": "Frei",
       "url": "https://open.spotify.com/track/6htgH0ecztsWPJskOLT6GQ"
+    },
+    {
+      "album": {
+        "name": "Fremde Stadt",
+        "url": "https://open.spotify.com/album/6TiBFeqhkcVEPtXfvYdr0E"
+      },
+      "artists": [
+        {
+          "name": "laela",
+          "url": "https://open.spotify.com/artist/6P2ykpNVv4VtvFijpIAEwF"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131360,
+      "name": "Fremde Stadt",
+      "url": "https://open.spotify.com/track/0HynTJbYueSgz1LTH9dVWi"
     },
     {
       "album": {
@@ -12027,6 +12045,24 @@
     },
     {
       "album": {
+        "name": "Lass Mich Nicht Im Regen Stehen",
+        "url": "https://open.spotify.com/album/68kmmvtydCa5ffI4oibOaH"
+      },
+      "artists": [
+        {
+          "name": "Gustav Gurke",
+          "url": "https://open.spotify.com/artist/6uGRXaaFHbkrFXccdM1WUU"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226880,
+      "name": "Lass Mich Nicht Im Regen Stehen",
+      "url": "https://open.spotify.com/track/1QvP3sjyifts4lYgwxDxqp"
+    },
+    {
+      "album": {
         "name": "Lately",
         "url": "https://open.spotify.com/album/0HcJAYxLG2dUCPZtCwhLt3"
       },
@@ -12464,7 +12500,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 221299,
       "name": "Lieben und Zerst\u00f6ren",
       "url": "https://open.spotify.com/track/1ghCtU5zL5wVNuB2mj227i"
@@ -13044,7 +13080,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 137150,
       "name": "lovetoy",
       "url": "https://open.spotify.com/track/1K6XPaAdtg86YgjZ96INuU"
@@ -18261,6 +18297,24 @@
     },
     {
       "album": {
+        "name": "Silent White",
+        "url": "https://open.spotify.com/album/2AtCKBXCPcXedyed0Eeykw"
+      },
+      "artists": [
+        {
+          "name": "LIONLION",
+          "url": "https://open.spotify.com/artist/39vMeaxc9e74z7v6HdSYC6"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213200,
+      "name": "Silent White - Single Edit",
+      "url": "https://open.spotify.com/track/58xL7Kmqf9UHC1oXpt0T1w"
+    },
+    {
+      "album": {
         "name": "Silver Screens",
         "url": "https://open.spotify.com/album/28EgjcSozPVhh5L4WXYZpQ"
       },
@@ -19254,6 +19308,24 @@
       "duration_ms": 127046,
       "name": "Start The Car",
       "url": "https://open.spotify.com/track/6O12cs8No9noGvuKjymzBX"
+    },
+    {
+      "album": {
+        "name": "state of mind",
+        "url": "https://open.spotify.com/album/0hvXDgdGeGBWjsGX57wGEI"
+      },
+      "artists": [
+        {
+          "name": "Caterina Lee",
+          "url": "https://open.spotify.com/artist/6zl6Aka2rXHKuj8res8Byw"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187975,
+      "name": "state of mind",
+      "url": "https://open.spotify.com/track/1ghVvUCAvQqRX2NWCIgRsC"
     },
     {
       "album": {

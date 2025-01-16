@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267028,
+      "name": "Kagero",
+      "url": "https://open.spotify.com/track/4q7WUpRdRCmmyMwn5kwcnn"
+    },
+    {
+      "album": {
         "name": "THE UNION",
         "url": "https://open.spotify.com/album/2GQ5kEpbCY0dcHCfIvYMZp"
       },
@@ -625,6 +643,24 @@
     },
     {
       "album": {
+        "name": "lonely night",
+        "url": "https://open.spotify.com/album/0stQuNmMAxDmrffku01ZZ0"
+      },
+      "artists": [
+        {
+          "name": "7co",
+          "url": "https://open.spotify.com/artist/6NufSYYINeynKg28cGEB2p"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179721,
+      "name": "lonely night",
+      "url": "https://open.spotify.com/track/4AKKCEedcW2LbYOGy3MxAp"
+    },
+    {
+      "album": {
         "name": "BOOTLEG",
         "url": "https://open.spotify.com/album/1mvoieMR8Dwiy7S052ihoC"
       },
@@ -658,6 +694,24 @@
       "duration_ms": 205463,
       "name": "Love Someone",
       "url": "https://open.spotify.com/track/2JqnpexlO9dmvjUMCaLCLJ"
+    },
+    {
+      "album": {
+        "name": "Mo-so",
+        "url": "https://open.spotify.com/album/3Tti8sKSYdkmRM3RuCOi9F"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212608,
+      "name": "Mo-so",
+      "url": "https://open.spotify.com/track/1JFVLR77g81BBcpeBzMDQg"
     },
     {
       "album": {
@@ -730,6 +784,24 @@
       "duration_ms": 213852,
       "name": "Opal",
       "url": "https://open.spotify.com/track/1mxsOeet26zHpCrMlxWrKJ"
+    },
+    {
+      "album": {
+        "name": "Passing",
+        "url": "https://open.spotify.com/album/0rTi7onngxwm1XYUI5bsbu"
+      },
+      "artists": [
+        {
+          "name": "Satoko Shibata",
+          "url": "https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173671,
+      "name": "Passing",
+      "url": "https://open.spotify.com/track/44t7cEmazmGE1tvpYI9ubE"
     },
     {
       "album": {
@@ -1542,7 +1614,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 254138,
       "name": "\u30a2\u30eb\u30b8\u30e3\u30fc\u30ce\u30f3",
       "url": "https://open.spotify.com/track/0L1E2JmrZk6QU9261PtJWQ"
@@ -1600,7 +1672,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 235466,
       "name": "\u30af\u30ba\u30ea\u5ff5",
       "url": "https://open.spotify.com/track/7t79PIxAZwn6RtJzAKoKTI"
@@ -1618,7 +1690,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 201137,
       "name": "\u30b0\u30c3\u30d0\u30a4\u30d0\u30a4",
       "url": "https://open.spotify.com/track/6dujTu2FauOpI1bsHD093L"
@@ -1852,7 +1924,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 286640,
       "name": "\u30ed\u30f3\u30ea\u30fc\u30e9\u30d7\u30bd\u30c7\u30a3",
       "url": "https://open.spotify.com/track/2T2PRhaEQLPoo78E8zyVgw"
@@ -2205,6 +2277,24 @@
     },
     {
       "album": {
+        "name": "\u60aa\u5922\u306e\u3088\u3046\u306a (NightTime Version)",
+        "url": "https://open.spotify.com/album/2ZLrpmJUMdbZZmmZpVY3hl"
+      },
+      "artists": [
+        {
+          "name": "Brandy Senki",
+          "url": "https://open.spotify.com/artist/0HKzMBAdsbsjuvp2hXpGsA"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252928,
+      "name": "\u60aa\u5922\u306e\u3088\u3046\u306a - Acoustic",
+      "url": "https://open.spotify.com/track/5UedywpBjrrvbhwDzjDAUn"
+    },
+    {
+      "album": {
         "name": "\u60b2\u3057\u307f\u306f\u30d0\u30b9\u306b\u4e57\u3063\u3066",
         "url": "https://open.spotify.com/album/4x7fCYXopnEfgQIkp9vNpq"
       },
@@ -2288,7 +2378,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 273160,
       "name": "\u65e5\u5e38\u9769\u547d",
       "url": "https://open.spotify.com/track/1Ej4gvxiMMXtD8uDnADCTT"
@@ -2468,7 +2558,7 @@
       ],
       "date_added": "2023-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 180760,
       "name": "\u6b7b\u795e",
       "url": "https://open.spotify.com/track/3tw4Jysd48kMcKsdnGYLee"
@@ -2764,6 +2854,24 @@
       "duration_ms": 300333,
       "name": "\u8c3a\u3059\u308b",
       "url": "https://open.spotify.com/track/6UnwxlaVawV7eqFkjhixL5"
+    },
+    {
+      "album": {
+        "name": "\u90fd\u4f1a\u75c5",
+        "url": "https://open.spotify.com/album/1wnpmwE6gkJC9HCtHb2Mls"
+      },
+      "artists": [
+        {
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126566,
+      "name": "\u90fd\u4f1a\u75c5",
+      "url": "https://open.spotify.com/track/089B4v1zqzL8XA50dZLthy"
     },
     {
       "album": {

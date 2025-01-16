@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Jekalyn Carr
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,440 likes - 100 songs - 8 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,479 likes - 100 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 | 90 | [Hear My Voice](https://open.spotify.com/track/2yAtTMvXjhdGbztgOopyE2) | [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Hear My Voice](https://open.spotify.com/album/4HAmAeJal4N8dZVvUCxjc5) | 5:37 |
 | 91 | [Tired \- Live in Richmond, VA](https://open.spotify.com/track/2GSQLnTvR19qrC19ntpFRh) | [Todd Galberth](https://open.spotify.com/artist/4EPtawsSClG1agy1MyVkMW) | [Tired \(Live in Richmond, VA\)](https://open.spotify.com/album/5xOcdgRDpu5JydvRZVKBMx) | 7:33 |
 | 92 | [So Good To Me \(HALLELUJAH!\)](https://open.spotify.com/track/2nbNrq7DcQad5jb1otsM3s) | [We Are Leo](https://open.spotify.com/artist/2oyWcvOgCXHnYgJ5L0GZQu), [Lawrence Kirby](https://open.spotify.com/artist/0E6wTE4ezhhV2wPMRhUVBF) | [So Good To Me \(HALLELUJAH!\)](https://open.spotify.com/album/6oQF7xLQ9DN3ybgaGIljaf) | 3:02 |
-| 93 | [Forgive and Forget \(feat\. Lizzie Morgan & Roosevelt Stewart\)](https://open.spotify.com/track/71mEgaAwJUponoW5zeiyAi) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Forgive and Forget \(feat\. Lizzie Morgan & Roosevelt Stewart\)](https://open.spotify.com/album/0P3yfM1OVAsKuqY8x3kNgT) | 7:12 |
+| 93 | [Forgive and Forget](https://open.spotify.com/track/71mEgaAwJUponoW5zeiyAi) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Forgive and Forget](https://open.spotify.com/album/0P3yfM1OVAsKuqY8x3kNgT) | 7:12 |
 | 94 | [Again](https://open.spotify.com/track/5R3susWR1HXEfUQzNNhFo5) | [Kirk Franklin](https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr), [Jonathan McReynolds](https://open.spotify.com/artist/5ItTHwcEtFh6DEOBheMub9), [Jekalyn Carr](https://open.spotify.com/artist/5ynRYAGjyPDE8unsFqi6MH) | [Father's Day](https://open.spotify.com/album/4EUco9VSvpupdEH7GA5Twu) | 6:14 |
 | 95 | [Worth It](https://open.spotify.com/track/0b0LHkoM7MlK1owCllWXan) | [James Fortune](https://open.spotify.com/artist/4eIjSDb64R18sJaNlOGaFH), [Zacardi Cortez](https://open.spotify.com/artist/1e5OohAPdgqCeMq3eegvqp) | [Worth It](https://open.spotify.com/album/1dGFBtHnXUlxrtrZlVWTzt) | 4:59 |
 | 96 | [The Promise \- Live](https://open.spotify.com/track/0YR3pGDBoLNUvGoMaIy7Gd) | [William McDowell](https://open.spotify.com/artist/6PTGRlwNbg36Mu4boWlixN), [David & Nicole Binion](https://open.spotify.com/artist/7nJOcf9vZYXYd0Pm9P1VyV), [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [The Promise \(Live\)](https://open.spotify.com/album/3hXqMc5jD5B9P6RnZpG5Vz) | 10:50 |

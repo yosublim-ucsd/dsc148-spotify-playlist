@@ -4,7 +4,7 @@
 
 > This is Tokyo Ska Paradise Orchestra\. The essential tracks, all in one playlist.
 
-86 songs - 5 hr 39 min
+87 songs - 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [ALMIGHTY〜仮面の約束 \- feat.川上洋平 『仮面ライダーセイバー』主題歌](https://open.spotify.com/track/0A2W626CJSt3rw6iJHYL8A) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoohei Kawakami](https://open.spotify.com/artist/1KSlyFkLhfmrzCa6d8PKB5) | [ALMIGHTY〜仮面の約束](https://open.spotify.com/album/0oBt1JEwV9ajd09R4hGDmH) | 4:07 | 2023-01-14 |  |
 | [Blues In The Wind](https://open.spotify.com/track/3h4tEYHzsrlDxC2zCfqgsu) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Takuma \(10\-FEET\)](https://open.spotify.com/artist/6MJbQmwV3YSEQnO3EnVsy6) | [Blues In The Wind](https://open.spotify.com/album/2KcZMoEkaGMyRzRLSO6gWB) | 5:03 | 2024-05-08 | 2024-06-04 |
 | [Break into the Light〜約束の帽子〜](https://open.spotify.com/track/58XinNr00MVez9TV323KJZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Break into the Light 〜約束の帽子〜/The Sharing Song 〜トリコのテーマ〜](https://open.spotify.com/album/2JBiEFSXLCs6NKsyktYOaW) | 3:40 | 2023-01-14 | 2023-03-20 |
-| [Buring Scale \-1993 MIX\-](https://open.spotify.com/track/4PelziOnOzdVXKzk3p9PIn) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Burning Scale](https://open.spotify.com/album/6yZILOS7GGrVXb3QRnOXNG) | 3:45 | 2025-01-09 |  |
+| [Buring Scale \-1993 MIX\-](https://open.spotify.com/track/4PelziOnOzdVXKzk3p9PIn) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Burning Scale](https://open.spotify.com/album/6yZILOS7GGrVXb3QRnOXNG) | 3:45 | 2025-01-09 | 2025-01-16 |
 | [Dale Dale! 〜ダレ・ダレ!〜 \- feat.チバユウスケ](https://open.spotify.com/track/4deHviaMO5PAecTlfJUOLL) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [チバユウスケ](https://open.spotify.com/artist/22a6IbaR2zoPAkudKhWXaW) | [ツギハギカラフル](https://open.spotify.com/album/6riD8MZKwqtM6GCStYISKj) | 2:43 | 2023-01-14 |  |
 | [Departure](https://open.spotify.com/track/45XhQVKn0bKC74OAtcGu3m) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 4:11 | 2024-11-10 | 2024-12-28 |
 | [Diamond In Your Heart](https://open.spotify.com/track/7aqiDKiC83zDz54vzp0QtV) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Diamond In Your Heart](https://open.spotify.com/album/579Nh3mt3qtwk9q3jRNkNC) | 5:37 | 2023-01-14 |  |
@@ -87,6 +87,7 @@
 | [紋白蝶 \- feat\. 石原慎也 \(Saucy Dog\)](https://open.spotify.com/track/70uJr9I7fSA0DUrnSzyCvZ) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [石原 慎也](https://open.spotify.com/artist/7M6jvaUIrKDZK9rhjjv5x8) | [紋白蝶 \[feat\. 石原慎也 \(Saucy Dog\)\]](https://open.spotify.com/album/6RBgLMu6RSKhzp0qw6l9kz) | 4:44 | 2023-01-14 |  |
 | [縦書きの雨](https://open.spotify.com/track/2j0tTFmk5jrqwgj5pxXoRL) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Yoshie Nakano](https://open.spotify.com/artist/1sJY6QnXKQjX7SCtiXOzkg) | [Walkin'](https://open.spotify.com/album/0vsfxdIKuq3lAs67zH6jIa) | 5:33 | 2023-01-14 | 2023-11-11 |
 | [美しく燃える森](https://open.spotify.com/track/7G5ZBbTK64ECJn5fRNbzoT) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [Stompin' On DOWN BEAT ALLEY](https://open.spotify.com/album/0RbXsDQDjpfId64GzRo4iQ) | 5:03 | 2023-01-14 |  |
+| [花ふぶき　〜愛だろ, 愛っ。〜](https://open.spotify.com/track/1Q2LtMa5j4AjZ5ZTwktvMl) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [グランプリ](https://open.spotify.com/album/6P1m4VZS1ekXm2WPhy0zGH) | 3:36 | 2025-01-16 |  |
 | [追い越してく星](https://open.spotify.com/track/7BTcLsV4NDFwqWEX9BJyFG) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [35](https://open.spotify.com/album/5lijdMBxRZkfKhE6AXyXTk) | 3:45 | 2024-11-05 |  |
 | [追憶のライラック \- feat.ハナレグミ \[2020 Remaster\]](https://open.spotify.com/track/5alRebdMl0mgrkyu1UlOLo) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm), [Hanare Gumi](https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte) | [TOKYO SKA TREASURES〜ベスト・オブ・東京スカパラダイスオーケストラ〜](https://open.spotify.com/album/0wFDFV3dl6tYSf5iCoMVlC) | 5:01 | 2023-01-14 |  |
 | [銀河と迷路](https://open.spotify.com/track/0rTWtMSSpo7SLXJh2N9r4G) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [HIGH NUMBERS](https://open.spotify.com/album/2Oeay5NypddOiNOgtBbXgr) | 4:13 | 2023-01-14 |  |

@@ -1833,6 +1833,32 @@
     },
     {
       "album": {
+        "name": "EUROSTAR",
+        "url": "https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT"
+      },
+      "artists": [
+        {
+          "name": "GULEED",
+          "url": "https://open.spotify.com/artist/1Mw40k757jZuiL0NIJpdO5"
+        },
+        {
+          "name": "Deno",
+          "url": "https://open.spotify.com/artist/58ICshZ0AgBMNJiLHK3U8l"
+        },
+        {
+          "name": "ICEKIID",
+          "url": "https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156117,
+      "name": "EUROSTAR",
+      "url": "https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi"
+    },
+    {
+      "album": {
         "name": "Fast Life",
         "url": "https://open.spotify.com/album/2KFFfOn8uwTyLxeTtyPGfV"
       },

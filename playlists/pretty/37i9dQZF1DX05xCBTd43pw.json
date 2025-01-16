@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36936,
+  "num_followers": 36942,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Dein Herz",
+        "url": "https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5"
+      },
+      "artists": [
+        {
+          "name": "F\u00e4aschtb\u00e4nkler",
+          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
+        }
+      ],
+      "duration_ms": 168610,
+      "name": "Dein Herz",
+      "url": "https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "For The Night",
         "url": "https://open.spotify.com/album/0IwnFtcplQN6d7PBctCIpw"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 157440,
       "name": "For The Night",
       "url": "https://open.spotify.com/track/7kJvHYzLeRzerTJdsR8HPR"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Dein Herz",
-        "url": "https://open.spotify.com/album/6DqWKjXtC9zw3FM20jw9A5"
-      },
-      "artists": [
-        {
-          "name": "F\u00e4aschtb\u00e4nkler",
-          "url": "https://open.spotify.com/artist/5eLTULECbpoiNT8czpulxX"
-        }
-      ],
-      "duration_ms": 168610,
-      "name": "Dein Herz",
-      "url": "https://open.spotify.com/track/5odFCd8J95sMRZUuvY4nQM"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -355,22 +355,18 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Playlist",
-        "url": "https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK"
+        "name": "Russian Blue",
+        "url": "https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL"
       },
       "artists": [
         {
-          "name": "Remady",
-          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
-        },
-        {
-          "name": "Justin J. Moore",
-          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
         }
       ],
-      "duration_ms": 151845,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI"
+      "duration_ms": 209070,
+      "name": "Russian Blue",
+      "url": "https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -391,18 +387,38 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Russian Blue",
-        "url": "https://open.spotify.com/album/4d6KggoADtAdnsZs6zh1TL"
+        "name": "Playlist",
+        "url": "https://open.spotify.com/album/1z4X7CYqMG5c1NkNDk0hiK"
       },
       "artists": [
         {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
+          "name": "Remady",
+          "url": "https://open.spotify.com/artist/3JxNeLgMuJI0DEmDt9dLzc"
+        },
+        {
+          "name": "Justin J. Moore",
+          "url": "https://open.spotify.com/artist/5a3lC3q5ngxoZVcIf1nryN"
         }
       ],
-      "duration_ms": 209070,
-      "name": "Russian Blue",
-      "url": "https://open.spotify.com/track/4H2DQFvr1azbh38m4MoMu8"
+      "duration_ms": 151845,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3m6xu2uUr8jS9w0VT2rGsI"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "How Much Can a Heart Break",
+        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "duration_ms": 195055,
+      "name": "How Much Can a Heart Break",
+      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -423,22 +439,6 @@
       "duration_ms": 141479,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "How Much Can a Heart Break",
-        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 195055,
-      "name": "How Much Can a Heart Break",
-      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -523,6 +523,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "No Good For Me",
+        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
+      },
+      "artists": [
+        {
+          "name": "Roxane",
+          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
+        }
+      ],
+      "duration_ms": 193271,
+      "name": "No Good For Me",
+      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Ready For It All",
         "url": "https://open.spotify.com/album/5wNuexzZN13IT8t76ajew8"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 152816,
       "name": "Ready For It All",
       "url": "https://open.spotify.com/track/0oIlZ9KBMQnhHOw9uFAJm8"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "No Good For Me",
-        "url": "https://open.spotify.com/album/5wnz1WogLgn1bU9VGaSD2W"
-      },
-      "artists": [
-        {
-          "name": "Roxane",
-          "url": "https://open.spotify.com/artist/5Gr80iuuvY4PmSLDoIx4WD"
-        }
-      ],
-      "duration_ms": 193271,
-      "name": "No Good For Me",
-      "url": "https://open.spotify.com/track/6SDTjpUUegMrlkM7wzeM71"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -843,6 +843,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "I'll Never Tire of Loving You",
+        "url": "https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R"
+      },
+      "artists": [
+        {
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+        }
+      ],
+      "duration_ms": 166253,
+      "name": "I'll Never Tire of Loving You",
+      "url": "https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Losing My Mind",
         "url": "https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH"
       },
@@ -859,22 +875,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "As Long as You Stay Here",
-        "url": "https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb"
-      },
-      "artists": [
-        {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
-        }
-      ],
-      "duration_ms": 115920,
-      "name": "As Long as You Stay Here",
-      "url": "https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "High Hopes",
         "url": "https://open.spotify.com/album/469y0vPtya1jZBoNIfqoQe"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 192078,
       "name": "High Hopes",
       "url": "https://open.spotify.com/track/7MrNK0Fyp8pCMTtWYoDRYt"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Long Year",
-        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 196246,
-      "name": "Long Year",
-      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -927,6 +911,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Long Year",
+        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 196246,
+      "name": "Long Year",
+      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Warrior",
         "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
       },
@@ -943,8 +943,8 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "I'll Never Tire of Loving You",
-        "url": "https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R"
+        "name": "As Long as You Stay Here",
+        "url": "https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb"
       },
       "artists": [
         {
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
         }
       ],
-      "duration_ms": 166253,
-      "name": "I'll Never Tire of Loving You",
-      "url": "https://open.spotify.com/track/52HXDF3jlG64BCZtNgi9ZS"
+      "duration_ms": 115920,
+      "name": "As Long as You Stay Here",
+      "url": "https://open.spotify.com/track/6GXxjEa3fVLk3fSis1FGmo"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 163712,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Where Were You",
         "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
       },
@@ -1039,22 +1023,34 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Stay With Me",
-        "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
       },
       "artists": [
         {
-          "name": "Luca H\u00e4nni",
-          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
-        },
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 177317,
-      "name": "Stay With Me",
-      "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
+      "duration_ms": 163712,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Chlorine",
+        "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
+      },
+      "artists": [
+        {
+          "name": "Sivilian",
+          "url": "https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI"
+        }
+      ],
+      "duration_ms": 180590,
+      "name": "Chlorine",
+      "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -1079,18 +1075,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Chlorine",
-        "url": "https://open.spotify.com/album/1hV46BrxNBXt2kC5UxeZdY"
+        "name": "Stay With Me",
+        "url": "https://open.spotify.com/album/6ssTOfG6Bq2vnhAsnbOx73"
       },
       "artists": [
         {
-          "name": "Sivilian",
-          "url": "https://open.spotify.com/artist/1oPAUZhQVyw3t9OOeeG6WI"
+          "name": "Luca H\u00e4nni",
+          "url": "https://open.spotify.com/artist/5JbALDn35ZrLwVAle4xVqZ"
+        },
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
         }
       ],
-      "duration_ms": 180590,
-      "name": "Chlorine",
-      "url": "https://open.spotify.com/track/5LvYBGrK96lxCGfUrFzV8D"
+      "duration_ms": 177317,
+      "name": "Stay With Me",
+      "url": "https://open.spotify.com/track/5BsHkqrEgTvMjLChE7nFoI"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Generation",
-        "url": "https://open.spotify.com/album/4xgLyFsJCYlmf39vjY6YKv"
+        "name": "Beautiful Day",
+        "url": "https://open.spotify.com/album/7m3bKbUMuXUsACiThMLwHy"
       },
       "artists": [
         {
-          "name": "LEILA",
-          "url": "https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg"
+          "name": "Gil Glaze",
+          "url": "https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V"
         }
       ],
-      "duration_ms": 182609,
-      "name": "smile",
-      "url": "https://open.spotify.com/track/7thWFmdVqTZzXZWmxu7N5Y"
+      "duration_ms": 185759,
+      "name": "Beautiful Day",
+      "url": "https://open.spotify.com/track/24m4OLGaRuelACY0k1SbqP"
     }
   ],
   "unique_name": "Swiss Made",

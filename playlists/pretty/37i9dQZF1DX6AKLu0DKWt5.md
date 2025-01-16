@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 
 > Music from the winners and nominees of the 82nd Golden Globe Awards.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,042 likes - 40 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,048 likes - 40 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6AKLu0DKWt5.md) - [plain]
 | 28 | [Main Title \(Shōgun\)](https://open.spotify.com/track/2vrJwQYPVOhmfdM2glDVOT) | [Atticus Ross](https://open.spotify.com/artist/5HARKwnZLNQBeUGsTHX2AM), [Leopold Ross](https://open.spotify.com/artist/0UM4gJJKawZSZuJxYcIwJS), [Nick Chuba](https://open.spotify.com/artist/2UynKOQjfyYWaW6Kd8a05G) | [Shōgun \(Original Soundtrack\)](https://open.spotify.com/album/6KDI8RJxxH4LC4PW1OooHA) | 1:51 |
 | 29 | [Overture of Conclave](https://open.spotify.com/track/1zQ0YSxpBwR3i7QIlgEw7v) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:27 |
 | 30 | [Wallace & Gromit](https://open.spotify.com/track/6DWohjBrR8myDqpYtWXfXX) | [Julian Nott](https://open.spotify.com/artist/5rTSrGxGb29AiNRh0omvKS), [Rupert Gregson\-Williams](https://open.spotify.com/artist/2vuXYcTqreOLLnlKtMV5UG), [James Michael Dooley](https://open.spotify.com/artist/1WMsCBVNqqlhDMioUVt239), [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es), [Alastair King](https://open.spotify.com/artist/4o43d8XbIhNhlVGqFe7s8e) | [Wallace & Gromit: The Curse Of The Were\-Rabbit \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/432WkQOMik5HTiAB5cqCxG) | 1:08 |
-| 31 | [Scherzo for a Flightless Bird \(The Penguin Theme\)](https://open.spotify.com/track/2OmmOXE9y2XeMP8EaLcn8v) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [The Penguin \(Soundtrack from the HBO® Original Series\) \[Expanded Edition\]](https://open.spotify.com/album/3Iqpj3lrnfMLOwL0FuxXaM) | 3:14 |
-| 32 | [O mio babbino caro](https://open.spotify.com/track/3mzYziP0FUhEcnKL9zbIZ2) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Maria \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil) | 2:35 |
+| 31 | [O mio babbino caro](https://open.spotify.com/track/3mzYziP0FUhEcnKL9zbIZ2) | [Maria Callas](https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E) | [Maria \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2TZFHghxKpd2EQz59Ldjil) | 2:35 |
+| 32 | [Scherzo for a Flightless Bird \(The Penguin Theme\)](https://open.spotify.com/track/2OmmOXE9y2XeMP8EaLcn8v) | [Mick Giacchino](https://open.spotify.com/artist/4E0UqUr5zm3CltCdkaKaV0) | [The Penguin \(Soundtrack from the HBO® Original Series\) \[Expanded Edition\]](https://open.spotify.com/album/3Iqpj3lrnfMLOwL0FuxXaM) | 3:14 |
 | 33 | [MacArthur Park \- Single Version](https://open.spotify.com/track/438FjmTQD9khZWN5tGGHSg) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Beetlejuice Beetlejuice \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/63PDHCTMl5YxaqmbdQ66jj) | 3:55 |
 | 34 | [No Use](https://open.spotify.com/track/2lefkt1rVzH99r5nxMG1Dj) | [John Hawkes](https://open.spotify.com/artist/0HM33x7ygNCjJ5Pr32Z65J) | [True Detective: Night Country \(Soundtrack from the HBO® Original Series\)](https://open.spotify.com/album/0YYtxCRIwJ7whWUZoSBtqL) | 2:30 |
 | 35 | [The Chrysalis](https://open.spotify.com/track/2aUTiExslj9SGVRwZyh5VG) | [Benjamin Wallfisch](https://open.spotify.com/artist/2xOp0rCDPAmYqnL2UFbaDY) | [Alien: Romulus \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3ATIqlNEKrhahipc3NiBqt) | 2:38 |

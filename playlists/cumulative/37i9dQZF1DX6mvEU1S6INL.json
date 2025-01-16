@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2019-05-26",
       "date_added_asterisk": true,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 180400,
       "name": "Free Animal",
       "url": "https://open.spotify.com/track/5l8oNQsDDPNFUIV5M4lzRJ"
@@ -4584,7 +4584,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 246133,
       "name": "Unicorn",
       "url": "https://open.spotify.com/track/5biqRB1iyIH8TWuH2rEsq0"

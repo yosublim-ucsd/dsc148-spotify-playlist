@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Nej au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,041 likes - 90 songs - 4 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,100 likes - 90 songs - 4 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 34 | [With You](https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0) | [Dean Lewis](https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y) | [With You](https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x) | 3:09 |
 | 35 | [NOCIF 2.0](https://open.spotify.com/track/5xMV1Muwl7l3y3VnFGnx6u) | [JEY BROWNIE](https://open.spotify.com/artist/7kaoO6sl3TKJ6p31PxqubZ) | [NOCIF 2.0](https://open.spotify.com/album/4Ba3KFKL7bup5NOpPiaYm8) | 2:50 |
 | 36 | [5 Dollar Pony Rides](https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [5 Dollar Pony Rides](https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY) | 3:42 |
-| 37 | [Mwen An Sa](https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX) | [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [SKUNK](https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mwen An Sa](https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi) | 2:59 |
+| 37 | [Mwen An Sa](https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX) | [SKUNK](https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mwen An Sa](https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi) | 2:59 |
 | 38 | [The Fall](https://open.spotify.com/track/2MxYP7fPz6IZMTSfVaJuww) | [Boris Way](https://open.spotify.com/artist/6B4RvAzPbZcxMjhZvFSDis) | [The Fall](https://open.spotify.com/album/5cUjMv9cvwC2k0L52M9WMS) | 3:20 |
 | 39 | [People Ruin Paintings](https://open.spotify.com/track/2CqvMjkMP1YXLVdK0zBLCQ) | [Manic Street Preachers](https://open.spotify.com/artist/2uH0RyPcX7fnCcT90HFDQX) | [People Ruin Paintings](https://open.spotify.com/album/6F6Q9dnHcdjNFG2cfvo17P) | 4:22 |
 | 40 | [Déjà\-vu](https://open.spotify.com/track/1d21teYPebHp8P0ZalkS65) | [Emma Peters](https://open.spotify.com/artist/6lY6kOVMG0mR07JTzU33o5) | [Déjà\-vu](https://open.spotify.com/album/4AbQZtSEzo7gdk5puwWkww) | 3:22 |

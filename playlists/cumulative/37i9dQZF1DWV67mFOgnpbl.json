@@ -412,7 +412,7 @@
       ],
       "date_added": "2022-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 234774,
       "name": "California Dreaming",
       "url": "https://open.spotify.com/track/5jsn38ryHgFhcbJgZMQCo0"
@@ -1598,6 +1598,24 @@
       "duration_ms": 307644,
       "name": "Protect The Land",
       "url": "https://open.spotify.com/track/11ajcVj3qSyyMPUpTJUP3y"
+    },
+    {
+      "album": {
+        "name": "Puppy",
+        "url": "https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160737,
+      "name": "Puppy",
+      "url": "https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Teddy Swims.
 
-456 songs - 22 hr 47 min
+457 songs - 22 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,6 +243,7 @@
 | [Maa ilman vettä](https://open.spotify.com/track/5gFVdvBQ0wVIZPYqrMSM8m) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Maa ilman vettä](https://open.spotify.com/album/4zDfO6q0mJkiTUDeysv6M1) | 2:19 | 2024-12-12 |  |
 | [Maailman ainoo](https://open.spotify.com/track/2FO53dXqhiJ6pvh0xndSVl) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Maailman ainoo](https://open.spotify.com/album/4fnhF8aDf8N70tSdJmHooq) | 2:47 | 2024-08-09 | 2024-08-30 |
 | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/track/492nM6hzlMzbbbu4vE93bb) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm), [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/album/0RvRU3Y5vPTHuEIb2GIHkl) | 3:39 | 2024-10-10 | 2024-12-13 |
+| [Made Of](https://open.spotify.com/track/4xlcLdfBSMO56LEbhfbVtx) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Made Of](https://open.spotify.com/album/3qrzLXpKrkxYvdS5oDfpDV) | 3:01 | 2025-01-15 |  |
 | [Makaveli](https://open.spotify.com/track/7IJgJoEffBKC2h4RBhejm3) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Makaveli](https://open.spotify.com/album/7kJfXEZquDpzjNcmN5MX33) | 2:36 | 2024-09-26 | 2024-10-11 |
 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 | 2024-08-15 | 2024-09-13 |
 | [Mantra](https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Mantra](https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW) | 2:16 | 2024-10-10 | 2024-10-25 |

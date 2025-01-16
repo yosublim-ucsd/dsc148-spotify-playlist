@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 
 > Praise the Lord with all your heart as you sing along to these Gospel Worship songs\. Cover: Victor Thompson
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,206 likes - 60 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,275 likes - 60 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbT5gAyEVKuo.md) - [plain]
 | 39 | [Upperroom \(Live\)](https://open.spotify.com/track/0RXc2Lc2wdaPRGVhPYqxU8) | [3C Live](https://open.spotify.com/artist/2KCFczA90zuWgvEfYDohBT), [Khaya Mthethwa](https://open.spotify.com/artist/0YJ3i0Hjw7aUuBoe4rUfPQ) | [Upperroom \(Live\)](https://open.spotify.com/album/55IDbtFjNFbLyiFrdQ4hJg) | 7:18 |
 | 40 | [EXALTED](https://open.spotify.com/track/0OITraCTzwam7XhYaehSMy) | [Deborah Billyben](https://open.spotify.com/artist/66RwPamHb7MkgJKuUcoKyj), [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [EXALTED](https://open.spotify.com/album/4YqBeLVMJGXeX7zi9YVUAu) | 5:11 |
 | 41 | [You Surround \- Live](https://open.spotify.com/track/3AAVe0VCll3cxytUkm3znV) | [Ryan Ofei](https://open.spotify.com/artist/1pQ5oAMGcFhkkuLqGJQUCd) | [You Surround](https://open.spotify.com/album/2i3gWt2j7kJH3XR12cDbbQ) | 7:45 |
-| 42 | [Forgive and Forget \(feat\. Lizzie Morgan & Roosevelt Stewart\)](https://open.spotify.com/track/71mEgaAwJUponoW5zeiyAi) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Forgive and Forget \(feat\. Lizzie Morgan & Roosevelt Stewart\)](https://open.spotify.com/album/0P3yfM1OVAsKuqY8x3kNgT) | 7:12 |
+| 42 | [Forgive and Forget](https://open.spotify.com/track/71mEgaAwJUponoW5zeiyAi) | [Red Worship](https://open.spotify.com/artist/0avkhg4DlPSxuCE9Ycy66w), [Lizzie Morgan](https://open.spotify.com/artist/6ErLTSGjADcbmh10k8uion), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Forgive and Forget](https://open.spotify.com/album/0P3yfM1OVAsKuqY8x3kNgT) | 7:12 |
 | 43 | [Lord I Love You \- Live](https://open.spotify.com/track/6DO834OLITajOfoPJ27ckA) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [The Journey \(Live\)](https://open.spotify.com/album/55qkczyxlKcvYDDX5vpgFj) | 8:36 |
 | 44 | [No Way / You Are My God](https://open.spotify.com/track/1RclxQF44buhRJOacvlw2Y) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [No Way / You Are My God](https://open.spotify.com/album/636MwS4fbP670i5Rq1Ct6p) | 11:23 |
 | 45 | [Nothing Without You \- Live](https://open.spotify.com/track/3c14NjEO3dR6bGZpCl7VBp) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [Nothing Without You \(Live\)](https://open.spotify.com/album/1jQQP8xN0197YhIRumYCia) | 6:35 |

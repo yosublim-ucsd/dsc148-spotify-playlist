@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Guè in cover + tutte le migliori uscite della settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 322,762 likes - 95 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 322,787 likes - 95 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

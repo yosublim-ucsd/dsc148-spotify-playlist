@@ -1,12 +1,12 @@
 {
   "description": "This is Gabito Ballesteros. The essential tracks, all in one playlist.",
-  "num_followers": 141429,
+  "num_followers": 141558,
   "original_name": "This Is Gabito Ballesteros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAAC/Qn8ZkZMakN494hrBW6Im",
+  "snapshot_id": "Z4WpAAAAAADUt2Y0DSH8U2XoBBCbCV/O",
   "tracks": [
     {
       "added_at": null,
@@ -767,6 +767,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bonus Track",
+        "url": "https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 191432,
+      "name": "Bonus Track",
+      "url": "https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos B\u00e9licos, Vol. IV",
         "url": "https://open.spotify.com/album/6OOtv7bmTFpSBh1uubgyTb"
       },
@@ -803,26 +823,6 @@
       "duration_ms": 174923,
       "name": "La Fresa",
       "url": "https://open.spotify.com/track/0MDIsFaykSb6hYx8UkzkTS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bonus Track",
-        "url": "https://open.spotify.com/album/3bUsse7frBcdUvK2NoRrFc"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 191432,
-      "name": "Bonus Track",
-      "url": "https://open.spotify.com/track/4AX8qwSxfmLjargXeKBTqI"
     },
     {
       "added_at": null,

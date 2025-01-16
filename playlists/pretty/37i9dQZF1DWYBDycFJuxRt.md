@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: 小袋成彬 \*👉 <a href="https://spice.eplus.jp/articles/334643">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: 小袋成彬 \*👉 <a href="https://spice.eplus.jp/articles/334794">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,410 likes - 87 songs - 5 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,458 likes - 87 songs - 5 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 86 | [Re:Re:](https://open.spotify.com/track/2uyhk4CrlHvcAJLu9wHV1k) | [AVYSS](https://open.spotify.com/artist/1MEnxfHdi3YHVkfOKjEUaC), [ANORAK!](https://open.spotify.com/artist/1htg5lwXpkH7DwmKnIW9JI), [illequal](https://open.spotify.com/artist/070lv855QuMgSxolesmZnc) | [Re:Re:](https://open.spotify.com/album/1ppLtut6OduUjXXmEn7fHr) | 3:16 |
 | 87 | [BORDERLINE](https://open.spotify.com/track/3UwzF5gkyi249yfKzber4Y) | [Keiichiro Shibuya](https://open.spotify.com/artist/3GgEjl6j7ky6U13LvKa5vy) | [BORDERLINE](https://open.spotify.com/album/1w3zPQRlC4LqIsxny03Vqn) | 5:46 |
 
-Snapshot ID: `Z4aKuAAAAADWLNVQjWIJl/gcyTiwW/lS`
+Snapshot ID: `Z4exYQAAAAByVEaFqrY7cPp+wqI3Kqli`

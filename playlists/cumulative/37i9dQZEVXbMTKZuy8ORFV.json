@@ -886,7 +886,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 112848,
       "name": "Ah\u00ed Estabas T\u00fa",
       "url": "https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y"
@@ -2076,7 +2076,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -2768,7 +2768,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 85642,
       "name": "BLUE HORIZON FUNK - SLOWED",
       "url": "https://open.spotify.com/track/6ISgjQNYq70ahUOL9rOrcz"
@@ -7278,7 +7278,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 174743,
       "name": "Fly Me To The Moon - Remix",
       "url": "https://open.spotify.com/track/2U3TzjtLORL9SxK7P7ZiFB"
@@ -8656,7 +8656,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 88615,
       "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
       "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
@@ -11268,7 +11268,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -12064,7 +12064,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 100263,
       "name": "MI MAMI FUNK, Vol. 2 - Ultra Slowed",
       "url": "https://open.spotify.com/track/4gAjWKO67qLFrWHZmuK5h6"
@@ -16496,7 +16496,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 131280,
       "name": "Round And Round",
       "url": "https://open.spotify.com/track/00zuwr9wp2L5cKUwQW5k7M"
@@ -20844,6 +20844,24 @@
       "duration_ms": 147096,
       "name": "Vehemencia",
       "url": "https://open.spotify.com/track/72LEkYl9mRqHgVzX9S0i3c"
+    },
+    {
+      "album": {
+        "name": "Aguinaldo",
+        "url": "https://open.spotify.com/album/1NIulGAguTLJxREWCVe3QH"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 366514,
+      "name": "VEN DEVORAME OTRA VEZ",
+      "url": "https://open.spotify.com/track/0cdKJgwwt2HeVJkiTX8wpl"
     },
     {
       "album": {

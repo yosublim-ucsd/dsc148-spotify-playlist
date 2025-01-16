@@ -1,12 +1,12 @@
 {
   "description": "This is Migos. The essential tracks, all in one playlist.",
-  "num_followers": 433493,
+  "num_followers": 433507,
   "original_name": "This Is Migos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAABeeAAjVOdUWaLBsSPFmbBt",
+  "snapshot_id": "Z4WpAAAAAABykHSgn6aFyKt2ff6BS5Ro",
   "tracks": [
     {
       "added_at": null,
@@ -955,26 +955,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peek A Boo",
-        "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
-      },
-      "artists": [
-        {
-          "name": "Lil Yachty",
-          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
-        },
-        {
-          "name": "Migos",
-          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
-        }
-      ],
-      "duration_ms": 247612,
-      "name": "Peek A Boo",
-      "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Quality Control: Control The Streets Volume 2",
         "url": "https://open.spotify.com/album/59zpaLOByFkJhc9D5Xqna9"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 258741,
       "name": "Frosted Flakes",
       "url": "https://open.spotify.com/track/2ngLCsaDgirvx3aNgejilJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peek A Boo",
+        "url": "https://open.spotify.com/album/4lPh818nqtqiPwqOGEGA1b"
+      },
+      "artists": [
+        {
+          "name": "Lil Yachty",
+          "url": "https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw"
+        },
+        {
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        }
+      ],
+      "duration_ms": 247612,
+      "name": "Peek A Boo",
+      "url": "https://open.spotify.com/track/1iTWoKAdilGEmit6xhQZje"
     }
   ],
   "unique_name": "This Is Migos",

@@ -1350,7 +1350,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-15",
+      "date_removed": null,
       "duration_ms": 171851,
       "name": "Better",
       "url": "https://open.spotify.com/track/1Z3Opl0WBbb4nwlC0OrmRS"
@@ -5618,7 +5618,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 112000,
       "name": "Hyper Experience",
       "url": "https://open.spotify.com/track/1MDLn0W2bjv4GWdR9tJEC5"
@@ -9092,7 +9092,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 241532,
       "name": "Night Lights 2020",
       "url": "https://open.spotify.com/track/4EJIzAOBenyU7kQ6D7AvFe"
@@ -9278,6 +9278,28 @@
       "duration_ms": 146886,
       "name": "noon",
       "url": "https://open.spotify.com/track/3iTELPdEN494We734u5Rck"
+    },
+    {
+      "album": {
+        "name": "Morning Breakfast Vol.1",
+        "url": "https://open.spotify.com/album/6dAa7hq3VYEqM66qGsky5R"
+      },
+      "artists": [
+        {
+          "name": "Gold Digga",
+          "url": "https://open.spotify.com/artist/2XsUp7bFg2HhVw53ubcrvI"
+        },
+        {
+          "name": "Morning Breakfast",
+          "url": "https://open.spotify.com/artist/62qZZnEqoCfJiN6khI7TuY"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228030,
+      "name": "Nostalgic",
+      "url": "https://open.spotify.com/track/0sSvrd9F1YToRYwurMrs5L"
     },
     {
       "album": {
@@ -9698,7 +9720,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-17",
+      "date_removed": null,
       "duration_ms": 212846,
       "name": "Ordinary days - Hajime ver.1",
       "url": "https://open.spotify.com/track/3TXwnZ3gcvwNKasLy0vRvQ"
@@ -12956,7 +12978,7 @@
       ],
       "date_added": "2021-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 190285,
       "name": "The Way of the Rain",
       "url": "https://open.spotify.com/track/2Ir8dmGIHvP6Kh0iyaWRNU"

@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 320776,
+  "num_followers": 320797,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
+        "name": "Joie de vivre",
+        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
+      },
+      "artists": [
+        {
+          "name": "Louane",
+          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
+        }
+      ],
+      "duration_ms": 176160,
+      "name": "Aimer \u00e0 mort",
+      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
         "name": "Mais je t'aime",
         "url": "https://open.spotify.com/album/5OU0fh8Jg5DjOZMhvmkBUI"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 268243,
       "name": "Mais je t'aime",
       "url": "https://open.spotify.com/track/4dtG1p71E6VPt9BmVYWcY5"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
-        "name": "Joie de vivre",
-        "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
-      },
-      "artists": [
-        {
-          "name": "Louane",
-          "url": "https://open.spotify.com/artist/7wjeXCtRND2ZdKfMJFu6JC"
-        }
-      ],
-      "duration_ms": 176160,
-      "name": "Aimer \u00e0 mort",
-      "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
     },
     {
       "added_at": "2024-10-15 19:50:17",
@@ -819,18 +819,18 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "C\u0153ur",
-        "url": "https://open.spotify.com/album/690kSW79qcdrg4cN03cBbC"
+        "name": "Toujours moi",
+        "url": "https://open.spotify.com/album/4MFaXg3uAGNTzUATRvIMEg"
       },
       "artists": [
         {
-          "name": "Clara Luciani",
-          "url": "https://open.spotify.com/artist/2oVrruuEI0Dr2I4NvLtQS0"
+          "name": "Axelle Red",
+          "url": "https://open.spotify.com/artist/3gX7V7VCwOBz90t62hQHMw"
         }
       ],
-      "duration_ms": 207026,
-      "name": "Amour toujours",
-      "url": "https://open.spotify.com/track/0Db6ejFxY0v2eIWVTNpf6J"
+      "duration_ms": 245973,
+      "name": "Parce que c'est toi",
+      "url": "https://open.spotify.com/track/0FHJcPgK7UBMUa6hdHLW6m"
     }
   ],
   "unique_name": "French Kiss",

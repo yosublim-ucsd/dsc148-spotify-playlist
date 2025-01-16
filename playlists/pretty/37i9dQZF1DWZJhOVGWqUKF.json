@@ -1,6 +1,6 @@
 {
   "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Silverstein",
-  "num_followers": 341172,
+  "num_followers": 341200,
   "original_name": "Rock Rotation",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
-        "name": "Mayday",
-        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
-      },
-      "artists": [
-        {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
-        }
-      ],
-      "duration_ms": 203264,
-      "name": "Mayday",
-      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
-    },
-    {
-      "added_at": "2025-01-10 08:37:34",
-      "album": {
         "name": "POST HUMAN: NeX GEn",
         "url": "https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 240590,
       "name": "Top 10 staTues tHat CriEd bloOd",
       "url": "https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP"
+    },
+    {
+      "added_at": "2025-01-10 08:37:34",
+      "album": {
+        "name": "Mayday",
+        "url": "https://open.spotify.com/album/5vB2OnIv8zle6vhuS3O0a3"
+      },
+      "artists": [
+        {
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+        }
+      ],
+      "duration_ms": 203264,
+      "name": "Mayday",
+      "url": "https://open.spotify.com/track/1i1VgyiM9ZiPBu8EoxhFw5"
     },
     {
       "added_at": "2025-01-10 08:37:34",
@@ -379,38 +379,6 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
-        "name": "Kool-Aid",
-        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
-      },
-      "artists": [
-        {
-          "name": "Bring Me The Horizon",
-          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
-        }
-      ],
-      "duration_ms": 228470,
-      "name": "Kool-Aid",
-      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
-    },
-    {
-      "added_at": "2025-01-10 08:37:34",
-      "album": {
-        "name": "Over Each Other",
-        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 170445,
-      "name": "Over Each Other",
-      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
-    },
-    {
-      "added_at": "2025-01-10 08:37:34",
-      "album": {
         "name": "Hate This Song",
         "url": "https://open.spotify.com/album/2aq4k4OA1jfupRu9eWYRMA"
       },
@@ -431,6 +399,38 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
+        "name": "Over Each Other",
+        "url": "https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 170445,
+      "name": "Over Each Other",
+      "url": "https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe"
+    },
+    {
+      "added_at": "2025-01-10 08:37:34",
+      "album": {
+        "name": "Kool-Aid",
+        "url": "https://open.spotify.com/album/1JYAxspYlODs9LjYO8Okut"
+      },
+      "artists": [
+        {
+          "name": "Bring Me The Horizon",
+          "url": "https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF"
+        }
+      ],
+      "duration_ms": 228470,
+      "name": "Kool-Aid",
+      "url": "https://open.spotify.com/track/1rBiNR61IhvbzeKwfs3AwE"
+    },
+    {
+      "added_at": "2025-01-10 08:37:34",
+      "album": {
         "name": "Hollywood Forever",
         "url": "https://open.spotify.com/album/69FMIiQw61cmQM3B1xACr9"
       },
@@ -443,6 +443,22 @@
       "duration_ms": 277714,
       "name": "Hollywood Forever",
       "url": "https://open.spotify.com/track/5CNopDW4B3IBlspdSmvjCh"
+    },
+    {
+      "added_at": "2025-01-10 08:37:34",
+      "album": {
+        "name": "Heaven :x: Hell",
+        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
+      },
+      "artists": [
+        {
+          "name": "Sum 41",
+          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
+        }
+      ],
+      "duration_ms": 186831,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
       "added_at": "2025-01-10 08:37:34",
@@ -463,22 +479,6 @@
       "duration_ms": 167264,
       "name": "This Is The Way (feat. DMX)",
       "url": "https://open.spotify.com/track/41uRcFai0Ta90sBnYB4OgK"
-    },
-    {
-      "added_at": "2025-01-10 08:37:34",
-      "album": {
-        "name": "Heaven :x: Hell",
-        "url": "https://open.spotify.com/album/4a4vGdTg7UTfNluS7QdFsF"
-      },
-      "artists": [
-        {
-          "name": "Sum 41",
-          "url": "https://open.spotify.com/artist/0qT79UgT5tY4yudH9VfsdT"
-        }
-      ],
-      "duration_ms": 186831,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/6iox0DMrowvaE2BwqJ0mnd"
     },
     {
       "added_at": "2025-01-10 08:37:34",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
+        "name": "Angry Cry",
+        "url": "https://open.spotify.com/album/0Pm7zqgIXzwlBzvT8Px466"
+      },
+      "artists": [
+        {
+          "name": "As December Falls",
+          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
+        }
+      ],
+      "duration_ms": 175000,
+      "name": "Angry Cry",
+      "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
+    },
+    {
+      "added_at": "2025-01-10 08:37:34",
+      "album": {
         "name": "MESO",
         "url": "https://open.spotify.com/album/5JYrqnct5UYk1srxZZJF8a"
       },
@@ -1055,22 +1071,6 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
-        "name": "Angry Cry",
-        "url": "https://open.spotify.com/album/0Pm7zqgIXzwlBzvT8Px466"
-      },
-      "artists": [
-        {
-          "name": "As December Falls",
-          "url": "https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX"
-        }
-      ],
-      "duration_ms": 175000,
-      "name": "Angry Cry",
-      "url": "https://open.spotify.com/track/3ge4mUDuQFneD2ykjguj3D"
-    },
-    {
-      "added_at": "2025-01-10 08:37:34",
-      "album": {
         "name": "7 Minutes in Hell",
         "url": "https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX"
       },
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
-        "name": "Disease",
-        "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
-      },
-      "artists": [
-        {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
-        }
-      ],
-      "duration_ms": 159155,
-      "name": "Disease",
-      "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
-    },
-    {
-      "added_at": "2025-01-10 08:37:34",
-      "album": {
         "name": "Rock N Roller",
         "url": "https://open.spotify.com/album/3W4rTbYq5hwMSz2ZPgQh6K"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 223694,
       "name": "Rock N Roller",
       "url": "https://open.spotify.com/track/3ISlzLXLm9RvTZ1wU6QwK7"
+    },
+    {
+      "added_at": "2025-01-10 08:37:34",
+      "album": {
+        "name": "Disease",
+        "url": "https://open.spotify.com/album/2r0hn10yZDfmPVabRZkHwz"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 159155,
+      "name": "Disease",
+      "url": "https://open.spotify.com/track/0dolORQ9ddKYQvudhtmSP2"
     },
     {
       "added_at": "2025-01-10 08:37:34",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
-        "name": "Perfume Of The Timeless",
-        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
-      },
-      "artists": [
-        {
-          "name": "Nightwish",
-          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
-        }
-      ],
-      "duration_ms": 492106,
-      "name": "Perfume Of The Timeless",
-      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
-    },
-    {
-      "added_at": "2025-01-10 08:37:34",
-      "album": {
         "name": "Crack Cocaine",
         "url": "https://open.spotify.com/album/4u9d35U27Iy0lK5Z0zxeXF"
       },
@@ -1475,6 +1459,22 @@
       "duration_ms": 241426,
       "name": "Crack Cocaine",
       "url": "https://open.spotify.com/track/6t1WBBQsSDjYuZL2TglrEN"
+    },
+    {
+      "added_at": "2025-01-10 08:37:34",
+      "album": {
+        "name": "Perfume Of The Timeless",
+        "url": "https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt"
+      },
+      "artists": [
+        {
+          "name": "Nightwish",
+          "url": "https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1"
+        }
+      ],
+      "duration_ms": 492106,
+      "name": "Perfume Of The Timeless",
+      "url": "https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ"
     },
     {
       "added_at": "2025-01-10 08:37:34",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
-        "name": "Telos",
-        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
-      },
-      "artists": [
-        {
-          "name": "Zedd",
-          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
-        },
-        {
-          "name": "Muse",
-          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
-        }
-      ],
-      "duration_ms": 371005,
-      "name": "1685 (feat. Muse)",
-      "url": "https://open.spotify.com/track/6vgc41jaY9ed6TbQUp8ccd"
-    },
-    {
-      "added_at": "2025-01-10 08:37:34",
-      "album": {
         "name": "RAT WARS ULTRA EDITION",
         "url": "https://open.spotify.com/album/1YgdGBECp0uqqLvYSlflsS"
       },
@@ -1671,18 +1651,38 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
-        "name": "Searching for Tomorrow",
-        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
+        "name": "Telos",
+        "url": "https://open.spotify.com/album/5V7WoYwRXtheRjhOjgUeR5"
       },
       "artists": [
         {
-          "name": "Coheed and Cambria",
-          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+          "name": "Zedd",
+          "url": "https://open.spotify.com/artist/2qxJFvFYMEDqd7ui6kSAcq"
+        },
+        {
+          "name": "Muse",
+          "url": "https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Searching for Tomorrow",
-      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
+      "duration_ms": 371005,
+      "name": "1685 (feat. Muse)",
+      "url": "https://open.spotify.com/track/6vgc41jaY9ed6TbQUp8ccd"
+    },
+    {
+      "added_at": "2025-01-10 08:37:34",
+      "album": {
+        "name": "Brother",
+        "url": "https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA"
+      },
+      "artists": [
+        {
+          "name": "Flycatcher",
+          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
+        }
+      ],
+      "duration_ms": 176981,
+      "name": "Brother",
+      "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
     },
     {
       "added_at": "2025-01-10 08:37:34",
@@ -1715,18 +1715,18 @@
     {
       "added_at": "2025-01-10 08:37:34",
       "album": {
-        "name": "Brother",
-        "url": "https://open.spotify.com/album/2u7rEzuOyVV1QOPFxxFqnA"
+        "name": "Searching for Tomorrow",
+        "url": "https://open.spotify.com/album/1OnwUHzjAlqzcrTnw4w2hK"
       },
       "artists": [
         {
-          "name": "Flycatcher",
-          "url": "https://open.spotify.com/artist/4j5N6CLoWuY6yv1NOzFLyn"
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
         }
       ],
-      "duration_ms": 176981,
-      "name": "Brother",
-      "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
+      "duration_ms": 213400,
+      "name": "Searching for Tomorrow",
+      "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
     }
   ],
   "unique_name": "Rock Rotation",

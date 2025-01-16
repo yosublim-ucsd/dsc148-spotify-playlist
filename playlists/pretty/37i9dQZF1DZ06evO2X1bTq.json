@@ -1,12 +1,12 @@
 {
   "description": "This is U2. The essential tracks, all in one playlist.",
-  "num_followers": 1233657,
+  "num_followers": 1233757,
   "original_name": "This Is U2",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAADSr18UJa5YWd6ctlJzfv2i",
+  "snapshot_id": "Z4WpAAAAAACk/eCTptQNGVnrkJ1mqatl",
   "tracks": [
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "How To Re-Assemble An Atomic Bomb",
-        "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 103160,
-      "name": "Theme From 'The Batman'",
-      "url": "https://open.spotify.com/track/54nPhznuQ4wFu5HDHoVvHY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "How To Dismantle An Atomic Bomb",
         "url": "https://open.spotify.com/album/5PQPur1PEZFDkI0AXbxFlB"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 274120,
       "name": "Original Of The Species",
       "url": "https://open.spotify.com/track/6ml01NkC9AfM4OICOtRxEY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "How To Re-Assemble An Atomic Bomb",
+        "url": "https://open.spotify.com/album/5v40ooLLTSBTCuGPnxt4MJ"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 103160,
+      "name": "Theme From 'The Batman'",
+      "url": "https://open.spotify.com/track/54nPhznuQ4wFu5HDHoVvHY"
     },
     {
       "added_at": null,

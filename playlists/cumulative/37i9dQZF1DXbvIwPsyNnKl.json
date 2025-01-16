@@ -68,7 +68,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 155294,
       "name": "1209 FREESTYLE",
       "url": "https://open.spotify.com/track/11gzq8J4geKBsT7LnAa1Wv"
@@ -1079,6 +1079,28 @@
     },
     {
       "album": {
+        "name": "Dating Gawi",
+        "url": "https://open.spotify.com/album/4wVz2cYJmwcOM3N99IsK7h"
+      },
+      "artists": [
+        {
+          "name": "Gloc-9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        },
+        {
+          "name": "Abaddon",
+          "url": "https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215373,
+      "name": "Dating Gawi",
+      "url": "https://open.spotify.com/track/441AyLNG0X3E2uXGnkF690"
+    },
+    {
+      "album": {
         "name": "Di kita trip",
         "url": "https://open.spotify.com/album/3iYWYMFX37PfR3w4n1Z3fa"
       },
@@ -1510,7 +1532,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 218309,
       "name": "FYP LUV",
       "url": "https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG"
@@ -2306,7 +2328,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 362250,
       "name": "La Luna",
       "url": "https://open.spotify.com/track/5vUp3dbqvs1pGMURHVhkjY"
@@ -3092,6 +3114,36 @@
       "duration_ms": 237582,
       "name": "Paboritong Pagkakamali",
       "url": "https://open.spotify.com/track/6oap6muuSi47PdllRECCuw"
+    },
+    {
+      "album": {
+        "name": "PAKAMA",
+        "url": "https://open.spotify.com/album/519RvJVcDRccP78nS8DbwE"
+      },
+      "artists": [
+        {
+          "name": "LVCID",
+          "url": "https://open.spotify.com/artist/6EOlkKmPuyubn0pUTy7qc9"
+        },
+        {
+          "name": "Wavy Gang",
+          "url": "https://open.spotify.com/artist/2J6wSFqfswO07wZaY4iaeX"
+        },
+        {
+          "name": "Young MLV",
+          "url": "https://open.spotify.com/artist/0Mn6idUPno7XCcZzHPvQuv"
+        },
+        {
+          "name": "B Rvss",
+          "url": "https://open.spotify.com/artist/6YzciWQnhaDNLj9A3lUpOX"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248470,
+      "name": "PAKAMA",
+      "url": "https://open.spotify.com/track/2mVgTLV8P6sXXoIu1cOudT"
     },
     {
       "album": {
@@ -4440,6 +4492,24 @@
       "duration_ms": 266277,
       "name": "Wag Na",
       "url": "https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE"
+    },
+    {
+      "album": {
+        "name": "Wait (Teka Lang)",
+        "url": "https://open.spotify.com/album/3IXv5Y8ExzRIz2rS1WqVMI"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180625,
+      "name": "Wait (Teka Lang)",
+      "url": "https://open.spotify.com/track/79u2BIQd1v81BbpXcqqFuQ"
     },
     {
       "album": {

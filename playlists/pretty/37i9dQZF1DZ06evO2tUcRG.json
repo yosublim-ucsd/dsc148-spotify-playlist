@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 265516,
+  "num_followers": 265549,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAAAzzp1TKyxMHlX9FX3oudnj",
+  "snapshot_id": "Z4WpAAAAAABBh05FwBS95CbsFDLujqdr",
   "tracks": [
     {
       "added_at": null,
@@ -675,26 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Yahweh (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        }
-      ],
-      "duration_ms": 797796,
-      "name": "Yahweh - Ao Vivo",
-      "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Altar (Altar) [Ao Vivo]",
         "url": "https://open.spotify.com/album/4tH5BOcwod8VYIfL4UNp0L"
       },
@@ -711,6 +691,26 @@
       "duration_ms": 408720,
       "name": "Altar (Altar) - Ao Vivo",
       "url": "https://open.spotify.com/track/1443AAE4jcmn2muyV34s2h"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Yahweh (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0w6lRkTg4OK8VwEYI3ypzN"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        }
+      ],
+      "duration_ms": 797796,
+      "name": "Yahweh - Ao Vivo",
+      "url": "https://open.spotify.com/track/7aDkri3wKMP10fTFl2xF23"
     },
     {
       "added_at": null,
@@ -851,26 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        },
-        {
-          "name": "David Quinlan",
-          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
-        }
-      ],
-      "duration_ms": 473955,
-      "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hosana (Ao Vivo)",
         "url": "https://open.spotify.com/album/7k4vRmoiCX5Xvta66oFOUL"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 326883,
       "name": "Hosana - Ao Vivo",
       "url": "https://open.spotify.com/track/2IHUox8N5k5g7fgeuNB0Kl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/6h0ogFWNeso0WzcLobcp6u"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        },
+        {
+          "name": "David Quinlan",
+          "url": "https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73"
+        }
+      ],
+      "duration_ms": 473955,
+      "name": "Ess\u00eancia da Adora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2xTQLMCdx9di6RmE5RxuMs"
     }
   ],
   "unique_name": "This Is Gabriela Rocha",

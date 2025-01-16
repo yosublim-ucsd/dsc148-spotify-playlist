@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 
 > In the mood for live Christian and Gospel music? This is the one\. Cover: Preye Odede
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,517 likes - 108 songs - 14 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,546 likes - 108 songs - 14 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYW0wKwdPj2g.md) - [plain]
 | 14 | [Siyabonga Jesu \(Wahamba Nathi\) \[Live\]](https://open.spotify.com/track/4nmRnP0r7F4apXJLxGQ3MG) | [Solly Mahlangu](https://open.spotify.com/artist/7mZOspv12XLvP1LQL6DmqR) | [Mwamba Mwamba \(Live\) Recorded at Big Top Arena Carnival City](https://open.spotify.com/album/2grRNjByBgEo00XJueSanO) | 6:51 |
 | 15 | [Be Lifted \(Live\)](https://open.spotify.com/track/0mdAgU0AmtvFkQAwnpEpKz) | [MOGmusic](https://open.spotify.com/artist/0s17P9R9hTZUlgxDnvLBFW) | [Better Me](https://open.spotify.com/album/1Ry5NqQ2mLK26TRq23B3So) | 8:25 |
 | 16 | [We Lift You High \- Live](https://open.spotify.com/track/6rm0BbPPEKc9vYvdBIdrS7) | [Daniel Ojo](https://open.spotify.com/artist/7C8rUwAKMYgQifAuQGNS7r), [Eunice Ojo](https://open.spotify.com/artist/4NNB6zlRndbf7fkwBix5Un) | [We Lift You High \(Live\)](https://open.spotify.com/album/1Or8OQZyIuEaftRgQAMaaj) | 6:54 |
-| 17 | [Halleluyah](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 |
+| 17 | [Halleluyah \- Live](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah \(Live\)](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 |
 | 18 | [Worthy of My Praise](https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Lawrence Oyor](https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI) | [The Great Commission](https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc) | 13:28 |
 | 19 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 20 | [Excess Love \- Remix](https://open.spotify.com/track/6Iv1BDGnzb7MnTfqYS8iNV) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [JJ Hairston](https://open.spotify.com/artist/2PiKaajF8T1X6KGgvYlxOD), [Youthful Praise](https://open.spotify.com/artist/6RHDefZfOAyKIPCLnwOOq0) | [SATISFIED](https://open.spotify.com/album/6ob1gwzBctp5HnzXhyBH3b) | 8:27 |

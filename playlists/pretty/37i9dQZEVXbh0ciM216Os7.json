@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAADeqBqgrsJ2PIarbrYnPhWe",
+  "snapshot_id": "AAAAAAAAAAD6SIyaMOOjxzh5Q2u2EbUJ",
   "tracks": [
     {
       "added_at": "2025-01-10 05:00:00",
@@ -135,6 +135,26 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
+        "name": "247365",
+        "url": "https://open.spotify.com/album/0sQg6uccgG3VexkJnsGULv"
+      },
+      "artists": [
+        {
+          "name": "MC.SUPRA",
+          "url": "https://open.spotify.com/artist/7AycreRvt1CyZ3rr4dAVHN"
+        },
+        {
+          "name": "Raekwon",
+          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
+        }
+      ],
+      "duration_ms": 194455,
+      "name": "247365",
+      "url": "https://open.spotify.com/track/6PNhPmTJrwyiZh5j8ghwxg"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
         "name": "Lionel Rich",
         "url": "https://open.spotify.com/album/5BgQiIOWb0THI1yWgiah4H"
       },
@@ -155,26 +175,6 @@
       "duration_ms": 108280,
       "name": "Lionel Rich",
       "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
-    },
-    {
-      "added_at": "2025-01-10 05:00:00",
-      "album": {
-        "name": "247365",
-        "url": "https://open.spotify.com/album/0sQg6uccgG3VexkJnsGULv"
-      },
-      "artists": [
-        {
-          "name": "MC.SUPRA",
-          "url": "https://open.spotify.com/artist/7AycreRvt1CyZ3rr4dAVHN"
-        },
-        {
-          "name": "Raekwon",
-          "url": "https://open.spotify.com/artist/2yQf6b8hxahZaT5dHlWaB1"
-        }
-      ],
-      "duration_ms": 194455,
-      "name": "247365",
-      "url": "https://open.spotify.com/track/6PNhPmTJrwyiZh5j8ghwxg"
     },
     {
       "added_at": "2025-01-10 05:00:00",
@@ -391,42 +391,34 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
-        "url": "https://open.spotify.com/album/4VCtYF2JYey5SeGpXkgGkR"
+        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
       },
       "artists": [
         {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+          "name": "Braelyn Rankins",
+          "url": "https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm"
         },
         {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+          "name": "Theo Somolu",
+          "url": "https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq"
         },
         {
-          "name": "MC Tuto",
-          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
+          "name": "Aaron Pierre",
+          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
         },
         {
-          "name": "Dj Lc da Ro\u00e7a",
-          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
+          "name": "Kelvin Harrison Jr.",
+          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
         },
         {
-          "name": "MC K9",
-          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
-        },
-        {
-          "name": "Mc Rodrigo do CN",
-          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
-        },
-        {
-          "name": "mc pl alves",
-          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
+          "name": "Disney",
+          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
         }
       ],
-      "duration_ms": 166861,
-      "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
-      "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
+      "duration_ms": 214506,
+      "name": "I Always Wanted A Brother",
+      "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
     },
     {
       "added_at": "2025-01-10 05:00:00",
@@ -611,22 +603,6 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "Your Little Suburbia Is In Ruins",
-        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
-      },
-      "artists": [
-        {
-          "name": "August Burns Red",
-          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
-        }
-      ],
-      "duration_ms": 245325,
-      "name": "Your Little Suburbia Is In Ruins",
-      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
-    },
-    {
-      "added_at": "2025-01-10 05:00:00",
-      "album": {
         "name": "Janus 1",
         "url": "https://open.spotify.com/album/0qiNzaJJZlUawZK6lE862y"
       },
@@ -667,6 +643,22 @@
       "duration_ms": 164666,
       "name": "The Bells",
       "url": "https://open.spotify.com/track/5M2gEWB0q7TPKFTroTpbPi"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "Your Little Suburbia Is In Ruins",
+        "url": "https://open.spotify.com/album/0vXAO3JDpkIOZgaXD4Hg1N"
+      },
+      "artists": [
+        {
+          "name": "August Burns Red",
+          "url": "https://open.spotify.com/artist/5p9CTsn5ueGU4oScNX1axu"
+        }
+      ],
+      "duration_ms": 245325,
+      "name": "Your Little Suburbia Is In Ruins",
+      "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
     },
     {
       "added_at": "2025-01-10 05:00:00",

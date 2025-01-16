@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 
 > Listen to  <a href="spotify:artist:19SmlbABtI4bXz864MLqOS">Carl Cox</a>' favorite tracks\. Updated regularly\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,333 likes - 67 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,387 likes - 67 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSobRXOCtFPM.md) - [plain]
 | 41 | [Redbox](https://open.spotify.com/track/794Qmz2MqzuyX43PwUrLQI) | [Darren Emerson](https://open.spotify.com/artist/2vePaJjwrZ6zVLAxf6UrCy) | [Redbox](https://open.spotify.com/album/49bcDw6aZhtcBT135WTbHC) | 8:07 |
 | 42 | [HX1](https://open.spotify.com/track/3rpE8k26wHL07tYMq1oBWa) | [Hybrasil](https://open.spotify.com/artist/5CA28dVSclgwdKigfNDWtI) | [The Voyagers](https://open.spotify.com/album/7CSwSA9Hy2irhuYrIJfHOp) | 6:30 |
 | 43 | [305 Night](https://open.spotify.com/track/0tvGS7LwyumR3P09K5TDaE) | [Redraft Memories](https://open.spotify.com/artist/7GLVeELhVwtSmorIEutDAB) | [The Eclipse \- EP](https://open.spotify.com/album/2hUr7jeAIE8tmDXCf7JoDB) | 6:29 |
-| 44 | [Lavande 01 \[240107.2\]](https://open.spotify.com/track/0qixcOUj0RP0FjxYhQpAE2) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk), [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h) | [Lavande](https://open.spotify.com/album/2ms0KaFxLyidtGuETlN5WC) | 6:03 |
+| 44 | [LAVANDE 01 \[240107.2\]](https://open.spotify.com/track/0qixcOUj0RP0FjxYhQpAE2) | [UFO95](https://open.spotify.com/artist/6wIaTr9wvAI528u4czB5Pk), [Rødhåd](https://open.spotify.com/artist/2hjOQqLAZDVolzxNhnSK2h) | [LAVANDE](https://open.spotify.com/album/2ms0KaFxLyidtGuETlN5WC) | 6:03 |
 | 45 | [Finding Myself](https://open.spotify.com/track/3WH2RjftNgim0bRR1nMHYE) | [Davide Carbone](https://open.spotify.com/artist/02lkYJwxBmJOYUhVbCrqmx), [Kate Watts](https://open.spotify.com/artist/5ginknh8yIghmhoHh49pkg) | [Finding Myself](https://open.spotify.com/album/27c8BfoHDXb7PyrIslozs1) | 2:57 |
 | 46 | [Twerq It \(feat\. NEZ\)](https://open.spotify.com/track/4Jb1V8yeecjoGlPDq8Fubv) | [Riva Starr](https://open.spotify.com/artist/1TRFAJu3Cw64APToZaGk9D), [Hilit Kolet](https://open.spotify.com/artist/55V8bcpuStLufEK3xFIwyy), [NEZ](https://open.spotify.com/artist/2Mwy2BwAUT3WU1cZa3pvEW) | [Twerq It \(feat\. NEZ\)](https://open.spotify.com/album/4hGg0BSeQwQQYopTAW2lBw) | 2:21 |
 | 47 | [Apokalypse](https://open.spotify.com/track/1qXlQnmMGjfyIfHPbnlTM5) | [Filterheadz](https://open.spotify.com/artist/6XqUjMGrl5jFwwyQ6hheit) | [Apokalypse](https://open.spotify.com/album/3YDnUxDAOExPD7TMT47AQ0) | 6:51 |

@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: INFINITE\(인피니트\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: HYNN\(박혜원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,383 songs - 3 day 17 hr 28 min
+1,384 songs - 3 day 17 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,7 +443,7 @@
 | [How much I love you \(with Jeong Haeil\)](https://open.spotify.com/track/3AKMTInwWSxtMZdDrtUwlb) | [saevom](https://open.spotify.com/artist/4GAVUIrGNz35VbCFfHTsca), [Jeong Haeil](https://open.spotify.com/artist/63AlyeATteOmFWtJPgWlH6) | [How much I love you \(with Jeong Haeil\)](https://open.spotify.com/album/5JsGLUzww5OmVXyVzAeOGg) | 3:56 | 2021-12-23 | 2022-07-02 |
 | [How painful it must be to forget](https://open.spotify.com/track/0pnBmZHznIWiv1NQktqt3S) | [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [Beautiful Now \(Original Television Soundtrack\) Pt\. 11](https://open.spotify.com/album/7LxA19lgElfEjpHJk36eLq) | 3:55 | 2022-07-26 | 2022-10-27 |
 | [How should I say it](https://open.spotify.com/track/1oMQkyqsgpcdhzAskPCKtC) | [NAMJAE](https://open.spotify.com/artist/2IVjEbitCDPorTv7Ia2ORo) | [How should I say it](https://open.spotify.com/album/0ZWFO6NsJPjFOWIJFElsUO) | 4:25 | 2022-07-26 | 2022-10-15 |
-| [How you feelin' \(From "Love Scout" : Orignal Soundtrack\)](https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [How you feelin' \(From "Love Scout" : Original Soundtrack\) Part\. 2](https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb) | 3:44 | 2025-01-11 |  |
+| [How you feelin' \(From "Love Scout" : Original Soundtrack\)](https://open.spotify.com/track/6kihmLVLuCAptKWX167SgR) | [Kwon Jin Ah](https://open.spotify.com/artist/0kRAVpQhUUArA8UnYwEdeZ) | [How you feelin' \(From "Love Scout" : Original Soundtrack\) Part\. 2](https://open.spotify.com/album/7gEevtkLPJZrGRdGi6FoHb) | 3:44 | 2025-01-11 |  |
 | [Huddling Cuddling](https://open.spotify.com/track/73B7IYhMATCQaWvuKL7daH) | [Jang Soo Bin](https://open.spotify.com/artist/5f1qpcqhDl49v5gKln3zl2) | [Huddling Cuddling](https://open.spotify.com/album/3pw0jbHFFp58KD40FmfVlm) | 3:57 | 2024-09-23 | 2025-01-02 |
 | [Hug](https://open.spotify.com/track/6oGpdfRigGtG6EWTArJ6vk) | [Sondia](https://open.spotify.com/artist/18VQ59noY7aOj59UNMozHp) | [CLEANING UP \(Original Television Soundtrack, Pt\. 2\)](https://open.spotify.com/album/6JS3kyAoZEp4BFz4qCLfUz) | 4:14 | 2022-07-07 | 2022-09-30 |
 | [Hug Me](https://open.spotify.com/track/1dAN9YSEram61KezA9X8lx) | [JOONIL JUNG](https://open.spotify.com/artist/2dhnFfsPxve8lzhwfXVFpS) | [Lo9ve3r4s](https://open.spotify.com/album/3KNUfrK6zYLoZ0X4LUj3wy) | 4:34 | 2023-05-05 | 2023-05-16 |
@@ -1191,6 +1191,7 @@
 | [Unhateable](https://open.spotify.com/track/7oXQfEySOUukDThklMkr76) | [Noel](https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx) | [Unhateable](https://open.spotify.com/album/4RfLKMKI3rnk5Qxgl6F7YW) | 4:20 | 2021-12-23 | 2022-04-22 |
 | [Unknown Number](https://open.spotify.com/track/6ELBv0LKWuq77hK5mUS1n0) | [백예슬](https://open.spotify.com/artist/11DtsbOcADmapr0tpUNgqN) | [Unknown Number](https://open.spotify.com/album/3ishR5DHHZkbwgqm0JGnp0) | 3:53 | 2024-05-17 | 2024-09-24 |
 | [Unnamed Emotion](https://open.spotify.com/track/1dBbh8gtRtVCbXxyIyW86c) | [Nilo](https://open.spotify.com/artist/3JfHHtYuuQHtMtw2T7ff4v) | [Unnamed Emotion](https://open.spotify.com/album/2WKF3O9QfxUNv16IeD2FXo) | 3:59 | 2022-02-17 | 2022-02-20 |
+| [Unspoken Goodbye](https://open.spotify.com/track/1uAvwjXUmaVKtf53rhLQey) | [HYNN](https://open.spotify.com/artist/64jfAecBriamQmMs0WAKtj) | [Unspoken Goodbye](https://open.spotify.com/album/4SMN2FnlEMJv3czT7DlzQ6) | 3:54 | 2025-01-15 |  |
 | [Until I love the love](https://open.spotify.com/track/1Qv9rEY9i8E78NQ3xRsKbE) | [Choi junghoon of Jannabi](https://open.spotify.com/artist/3tYhkFMgzudLuw0ICWgnko) | [Until I love the love](https://open.spotify.com/album/4wOnyTSfHScSoCxq54NzVX) | 3:56 | 2022-04-21 | 2022-04-24 |
 | [Until The End](https://open.spotify.com/track/5ywcBaGtUM4WmAuew0SrYF) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [Until The End](https://open.spotify.com/album/3nttddhDLwta0CfJN5RUjI) | 4:08 | 2022-07-07 | 2022-08-13 |
 | [Untitled](https://open.spotify.com/track/7qoNik0g1HwjxPlIXkXoAD) | [DOHU](https://open.spotify.com/artist/2R1wgdbaWY2KJG9xLWJ2Vh) | [Untitled](https://open.spotify.com/album/2sgztJsIjPUwd6qWA5qw3E) | 3:22 | 2022-11-03 | 2023-01-21 |
@@ -1213,7 +1214,7 @@
 | [We Love Each Other](https://open.spotify.com/track/5rs94R9T7hFEziBB4sQj2G) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Destined with You \(Original Television Soundtrack\), Pt.9](https://open.spotify.com/album/0k6eU1vKSrnhHJRTTCOsw7) | 3:46 | 2023-11-02 | 2024-02-02 |
 | [We must break up now](https://open.spotify.com/track/0EBUUKjPTaZ5NmlmhssRiw) | [ACOURVE](https://open.spotify.com/artist/0i9MWBqCpPeaJu6rJkrOoA) | [We must break up now](https://open.spotify.com/album/6M0cxLeXYzDdkjCtfdoNYC) | 4:12 | 2022-03-24 | 2022-04-10 |
 | [We Were \(Feat\. Hareem\)](https://open.spotify.com/track/2qxc59898BaqfbJKhgI61k) | [Jung Zi So](https://open.spotify.com/artist/3kCYP8G1kFTV2YCIo4Yjti), [Hareem](https://open.spotify.com/artist/5WWxAYrskMnRaWLDUbuY20) | [We Were \(CURTAIN CALL OST Part.10\)](https://open.spotify.com/album/1QgkdW71XE0rgXTxvr5v4P) | 3:56 | 2023-01-10 | 2023-02-15 |
-| [We Were There](https://open.spotify.com/track/6vdi2iCRObLUKOMNgzGAXM) | [DAREDAA](https://open.spotify.com/artist/7GHmnSeSDBooMAk39m6Ol6) | [We Were There](https://open.spotify.com/album/1sXvwTlHdo0j4XRCJutUMv) | 3:43 | 2024-09-23 |  |
+| [We Were There](https://open.spotify.com/track/6vdi2iCRObLUKOMNgzGAXM) | [DAREDAA](https://open.spotify.com/artist/7GHmnSeSDBooMAk39m6Ol6) | [We Were There](https://open.spotify.com/album/1sXvwTlHdo0j4XRCJutUMv) | 3:43 | 2024-09-23 | 2025-01-16 |
 | [We will again](https://open.spotify.com/track/4DRYJFrnpxxxQCwUuHZexG) | [Jeong Dong Won](https://open.spotify.com/artist/229KhSrjWsm62jVuSpQsBZ) | [We will again](https://open.spotify.com/album/6Lb3T7nMAV63de1qstT886) | 3:25 | 2023-01-20 | 2023-03-28 |
 | [We've become strangers \(feat\. Paul Lim\)](https://open.spotify.com/track/3tNgcMWtdkJ8vJEfravE5K) | [Jung Chang Yong](https://open.spotify.com/artist/2lABrhldkvDYdYbpN33Fyx), [Paul Lim](https://open.spotify.com/artist/4lqdf1XdkczOsG8rD81unZ) | [We've become strangers](https://open.spotify.com/album/416J4kvSqvlZI5ozomm4iA) | 3:27 | 2023-02-24 | 2023-04-27 |
 | [We, From The First](https://open.spotify.com/track/009TUqA1OvgTIAjAITYIC0) | [Jung Seung Hwan](https://open.spotify.com/artist/7l8rOFwZFQ3G0sgZ7gjGng) | [Five Words Left Unsaid](https://open.spotify.com/album/7JXJM6TnJRwoDC2LwqDxLp) | 4:17 | 2021-12-23 | 2022-04-19 |

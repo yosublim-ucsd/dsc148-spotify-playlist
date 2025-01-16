@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 
 > All of the newest country songs in one playlist! Featuring Warren Zeiders, Kameron Marlowe, Vincent Mason and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 316,156 likes - 55 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 316,447 likes - 55 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVn8zvR5ROMB.md) - [plain]
 | 8 | [Cowgirl](https://open.spotify.com/track/4sbH4KLDjcg5ODVFVFyc16) | [Parmalee](https://open.spotify.com/artist/4TshyQDihSYXSWqvclXl3I) | [Cowgirl](https://open.spotify.com/album/2edZl5YHPOnCPIXR6L6vZz) | 3:01 |
 | 9 | [Let You Know When I Get There](https://open.spotify.com/track/2DBJ5letZsGoGDJZekwQs8) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [Let You Know When I Get There](https://open.spotify.com/album/3JVFHTQbbedNWprbPNotuh) | 3:11 |
 | 10 | [Bad Spot](https://open.spotify.com/track/0eJ3XZjx1zDsrMM6lMupiH) | [Kip Moore](https://open.spotify.com/artist/2hJPr4lk7Q8SSvCVBl9fWM) | [Bad Spot](https://open.spotify.com/album/1zXeOdXbCIGMveQdkkRfKN) | 3:18 |
-| 11 | [I'm A Song \- Live At The Print Shop](https://open.spotify.com/track/6YrkatdanWuKHmF4mBxX2i) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:03 |
+| 11 | [I'm A Song \- Live at The Print Shop](https://open.spotify.com/track/6YrkatdanWuKHmF4mBxX2i) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [søn of dad \(deluxe\)](https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe) | 4:03 |
 | 12 | [Slow Down](https://open.spotify.com/track/56EhacvQF6dOcyjenle4tq) | [Zach John King](https://open.spotify.com/artist/7d00Y5kG1ZIPvWNl8LgHqB) | [Slow Down](https://open.spotify.com/album/3hZCtdmRCee5ceFggxahJJ) | 2:45 |
 | 13 | [Save Me](https://open.spotify.com/track/6z4OVkSckMiAwDWnPtB4DJ) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Save Me](https://open.spotify.com/album/0ipgUMsHMjxZMgjJbb9OU7) | 3:13 |
 | 14 | [Bed Of Roses](https://open.spotify.com/track/1xH3PCT8wy7m1NkIn0nrjK) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Bed Of Roses](https://open.spotify.com/album/7twU0WeJfvME1l29k892nY) | 4:43 |

@@ -3685,6 +3685,24 @@
     },
     {
       "album": {
+        "name": "Lighthouse",
+        "url": "https://open.spotify.com/album/4Ene5PO26lDN4xJXvgiKnf"
+      },
+      "artists": [
+        {
+          "name": "Alexandro Alain",
+          "url": "https://open.spotify.com/artist/0NqwKVBHcGGunnkgsVfouD"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145275,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5VAxwsxCF8W1B0i4SB3YR5"
+    },
+    {
+      "album": {
         "name": "Litany",
         "url": "https://open.spotify.com/album/5tGHP4Do2fHjjTB8y3egi5"
       },
@@ -3790,6 +3808,24 @@
       "duration_ms": 113135,
       "name": "Los Viejos Tiempos",
       "url": "https://open.spotify.com/track/3B9bfvdtGxZp4IKU2esmQ3"
+    },
+    {
+      "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/3S8Dj7KdbgrmImW3lvKqVW"
+      },
+      "artists": [
+        {
+          "name": "Aron E. Ross",
+          "url": "https://open.spotify.com/artist/0Wq7T2ANEDOqznTzl82hu4"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161731,
+      "name": "Lost & Found",
+      "url": "https://open.spotify.com/track/1uiwqLV4FAeKyqhkgTowHo"
     },
     {
       "album": {

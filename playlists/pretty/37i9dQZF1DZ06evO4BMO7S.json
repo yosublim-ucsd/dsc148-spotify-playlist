@@ -1,12 +1,12 @@
 {
   "description": "This is Japanese Breakfast. The essential tracks, all in one playlist.",
-  "num_followers": 19454,
+  "num_followers": 19477,
   "original_name": "This Is Japanese Breakfast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAACAWWSs2Xk0xcexJWOiFwqE",
+  "snapshot_id": "Z4WpAAAAAACOB6UxVV4pOaq0QM/LSVQP",
   "tracks": [
     {
       "added_at": null,
@@ -211,8 +211,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
+        "name": "Sable (Original Video Game Soundtrack)",
+        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
       },
       "artists": [
         {
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 279232,
-      "name": "Dreams - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
+      "duration_ms": 66703,
+      "name": "Campfires",
+      "url": "https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sable (Original Video Game Soundtrack)",
-        "url": "https://open.spotify.com/album/7B6Zmp3r1iY1DFPV08vPBY"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/132C8QdLHNKEqAUrXiJFlk"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 66703,
-      "name": "Campfires",
-      "url": "https://open.spotify.com/track/3ArZqhHSQMPWyG1Nb3TAcV"
+      "duration_ms": 279232,
+      "name": "Dreams - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4sMJ05OSIYdmHdnxfosvfb"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-831 songs - 3 day 0 hr 58 min
+832 songs - 3 day 1 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -646,7 +646,7 @@
 | [Save Us](https://open.spotify.com/track/2gGs5GIOPRiQawcGVAEye3) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0), [Finnstagram](https://open.spotify.com/artist/3kc83ki33FJgDhU49UcVNI) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 3:30 | 2021-04-21 | 2022-07-22 |
 | [SAWO](https://open.spotify.com/track/6FE4v1ZeREOUw5a32YNWgr) | [Kevin McKay](https://open.spotify.com/artist/07VdEUK5mf0rifGeNqs0Wg), [MATYAN](https://open.spotify.com/artist/5aTsXZu6WN9tRmMy7INBT8), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye) | [SAWO](https://open.spotify.com/album/5qoUdOG2LKQVmzY0PFIuk5) | 2:53 | 2024-11-08 | 2024-11-12 |
 | [Say What](https://open.spotify.com/track/2GwsSbo6IbNDVvcm9rtmal) | [Rampa](https://open.spotify.com/artist/08jywfUS0hp8XYlYs0cvz8), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [chuala](https://open.spotify.com/artist/5k2dso94XJEWZhPMmKFznI), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Say What](https://open.spotify.com/album/167jkZFZSlQYFyQbr8st27) | 3:01 | 2024-10-25 |  |
-| [Sayam](https://open.spotify.com/track/4XyT6gJZJqkMEH0uaVpZ1R) | [Afshin Momadi](https://open.spotify.com/artist/3MhC8h0ocHe2fbl66I1pho), [John Cala](https://open.spotify.com/artist/1EIT6jQWPXDLpc7xeDPjGP) | [Sayam](https://open.spotify.com/album/1DWvT9uoDnVE08qwqb2DyO) | 3:27 | 2024-08-16 |  |
+| [Sayam](https://open.spotify.com/track/4XyT6gJZJqkMEH0uaVpZ1R) | [Afshin Momadi](https://open.spotify.com/artist/3MhC8h0ocHe2fbl66I1pho), [John Cala](https://open.spotify.com/artist/1EIT6jQWPXDLpc7xeDPjGP) | [Sayam](https://open.spotify.com/album/1DWvT9uoDnVE08qwqb2DyO) | 3:27 | 2024-08-16 | 2025-01-16 |
 | [Scilla E Cariddi \- TR3NACRIA Remix](https://open.spotify.com/track/0zbtBY7uHGYSMJJazj4K2L) | [Klement Bonelli](https://open.spotify.com/artist/1LK1ywbyRrajPZgW6IbcR8), [Idd Aziz](https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk), [TR3NACRIA](https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH) | [Scilla E Cariddi \(TR3NACRIA Remix\)](https://open.spotify.com/album/68e9h9IdfSpbhMQsdKITvR) | 3:05 | 2024-05-31 | 2024-07-13 |
 | [Seda](https://open.spotify.com/track/31QqKRikjh4mtLFPle9ub9) | [Alex Lur](https://open.spotify.com/artist/4rwz2V4y8Uiz6QR9qSbIrf), [GROJ](https://open.spotify.com/artist/0bJiWg2SC47WIfFe96Ke6E) | [Seda](https://open.spotify.com/album/3xO9kVbXYO9SmP5eNvkwq4) | 3:47 | 2021-06-25 | 2022-07-25 |
 | [See You](https://open.spotify.com/track/3l0VTha5dPLyvzeZgZ0c8c) | [Indid](https://open.spotify.com/artist/7LjyU4u3cRmKVQA7Xwm0q6) | [See You](https://open.spotify.com/album/3MiRaqtx00ttSttAsy4de7) | 4:04 | 2021-04-21 | 2022-07-17 |
@@ -729,6 +729,7 @@
 | [The Light](https://open.spotify.com/track/3exmU24JAYup27p2Y5D7gT) | [Badbwoy](https://open.spotify.com/artist/1PgebrubnFvzOMxn19ZM8f) | [The Light](https://open.spotify.com/album/6XO2PwbXZjVKY0IzIhLZWy) | 4:33 | 2024-04-12 | 2024-09-30 |
 | [The Mad Eyed Arper \- Orignal Mix](https://open.spotify.com/track/6sQ3ZxNGKRwwjclHLlAvLb) | [Niconé](https://open.spotify.com/artist/70s3JhU9Ai0cIowagibjNI) | [Arpiano](https://open.spotify.com/album/6kx0Dh1xPYWgSqOk7LSXnf) | 7:01 | 2021-04-21 | 2022-04-21 |
 | [The Night Is Blue](https://open.spotify.com/track/79zxzGKkpBgnUYPGBt9yKv) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [The Night Is Blue EP](https://open.spotify.com/album/7oEe61C3Ue93XHTJHHBz4D) | 8:22 | 2023-07-21 | 2023-11-23 |
+| [The Only One](https://open.spotify.com/track/64v9obzFAgVwlNqSy1yQby) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [The Only One](https://open.spotify.com/album/1YGsKzENb5AmQ4VtCFRoyG) | 4:49 | 2025-01-10 |  |
 | [The Otherside \(feat\. Robinson\)](https://open.spotify.com/track/5En5CwjHaxxj7LpwpHojL3) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco), [Robinson](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [This Is SHÈN](https://open.spotify.com/album/0BuCz58hOxBFXmfocz8eWU) | 3:28 | 2022-12-02 | 2024-03-13 |
 | [The Rapture Pt.III](https://open.spotify.com/track/200DiJQhDi69nkGXOrrJgn) | [&ME](https://open.spotify.com/artist/5mIowAJMp7RKNheelruV5z), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [The Rapture Pt.III](https://open.spotify.com/album/2FAKT4HAf25axNWJI3DlY5) | 6:57 | 2023-06-09 | 2024-09-28 |
 | [The Rhythm](https://open.spotify.com/track/47pijfgcSq0ya8SLExKCxa) | [THEMBA](https://open.spotify.com/artist/64tzIMKX4Npx37YLcNZZNC) | [The Rhythm](https://open.spotify.com/album/2vlm4Da9F9vdAaIjs9UQBv) | 3:19 | 2023-06-30 | 2024-04-19 |

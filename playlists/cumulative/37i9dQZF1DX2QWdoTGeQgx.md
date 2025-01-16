@@ -4,14 +4,14 @@
 
 > wo hen lei \(i'm very tired\)
 
-392 songs - 21 hr 20 min
+393 songs - 21 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [27 in a 7\-Eleven](https://open.spotify.com/track/7M2WiIMPWioFgdsDUNLPvU) | [SHN](https://open.spotify.com/artist/5EovY4LBurcmsfIdpNEtfq) | [27 in a 7\-Eleven](https://open.spotify.com/album/2HepEpC2LK5JZ3duY3sxqO) | 3:00 | 2023-01-17 | 2023-02-22 |
 | [3 new words](https://open.spotify.com/track/5M1OsXPtMfVM6hbrwIiZnr) | [lullaboy](https://open.spotify.com/artist/7zrkFhYAp6dBxsydmJkouN) | [3 new words](https://open.spotify.com/album/3dCIy3cVrxA4JjlbSUGbCm) | 2:54 | 2024-04-12 | 2024-08-20 |
 | [300 Saat](https://open.spotify.com/track/2yX1XqvisCJ6Z5zC9Az7Wl) | [Bunga](https://open.spotify.com/artist/1lHG5Nh4kVcBViogIek98t), [Amzar Sabri](https://open.spotify.com/artist/7b20s5AwvHQ3C7OlOcp3bC) | [300 Saat](https://open.spotify.com/album/53kZ7lAn457u6SMm5rCdpi) | 4:05 | 2022-06-16 | 2022-07-24 |
-| [A Day That Feels Better](https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 3:50 | 2022-06-25 |  |
+| [A Day That Feels Better](https://open.spotify.com/track/1wS7qBXXMy4tHbSXMx2uPD) | [Pamungkas](https://open.spotify.com/artist/7d86ERlvO5UG44j7Va0Y0C) | [Birdy](https://open.spotify.com/album/7ptKY3QeYYiOsbwqnJFU0E) | 3:50 | 2022-06-25 | 2025-01-16 |
 | [A Good Goodbye](https://open.spotify.com/track/44YADxNo3TdpkwEr5DvV2B) | [Joanna Dong](https://open.spotify.com/artist/6uxDuPWsZwqC5tLhmoaAFZ) | [A Good Goodbye](https://open.spotify.com/album/6RG4OSNR3OfIj9R3GiHWiZ) | 3:33 | 2022-06-03 | 2022-07-29 |
 | [A Letter To My Best Friend](https://open.spotify.com/track/5LigKEFa9fmv5wU59gqwfQ) | [GRACE.](https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv) | [A Letter To My Best Friend](https://open.spotify.com/album/3D6nIbAy9AAno9QemT8arp) | 3:53 | 2022-06-10 | 2022-06-17 |
 | [A Little Bit Patient](https://open.spotify.com/track/13eVfN1euUur28OoD5s86X) | [Rangga Jones](https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z) | [A Little Bit Patient](https://open.spotify.com/album/5KQKBocUoSXhXpqHVvUNzJ) | 2:58 | 2022-05-27 | 2022-07-29 |
@@ -122,6 +122,7 @@
 | [Fool](https://open.spotify.com/track/0OfwiVN2Y6ANw9xneUi3sW) | [Sezairi](https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5) | [Fool](https://open.spotify.com/album/2WsVcJa42xo5RsbUwGnNSh) | 3:16 | 2022-05-27 | 2022-08-02 |
 | [Fool 4 U](https://open.spotify.com/track/0UFthA0qo3JDLxqfG25kgP) | [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Y4](https://open.spotify.com/album/2OF3O1Dl0IAuCwg6OaFzNR) | 2:59 | 2022-09-09 | 2023-07-02 |
 | [for any weather](https://open.spotify.com/track/3zmBY4SMD0dsjupuZCCwxU) | [evanturetime](https://open.spotify.com/artist/07h1mcCInWa0LF0ZMzVQfa), [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk), [Marian Carmel](https://open.spotify.com/artist/5Iyx1kSKoYvJz0gCrsFLW6), [Shye](https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T) | [the songs i wrote for you](https://open.spotify.com/album/2j4j5Se6EOO0puQYd6pJaK) | 3:40 | 2022-06-10 | 2022-06-17 |
+| [For No Reason](https://open.spotify.com/track/6AFUs8A7itwJ2BF0Q8xXnW) | [YAØ](https://open.spotify.com/artist/65ZzuNL3HmtwhF9akIKXuJ) | [For No Reason](https://open.spotify.com/album/0YxfTVkwTEk8XiRyC6G2WQ) | 3:15 | 2024-08-13 |  |
 | [For U](https://open.spotify.com/track/5bcuRsJnisJLjAHP4Ewmf1) | [Maruxa Lynd](https://open.spotify.com/artist/1qqvY6v4Hj9i4bPp5neCFh), [Reckless Escapades](https://open.spotify.com/artist/6leCbCvi7oiUDCCee0wDrm) | [For U](https://open.spotify.com/album/6mZbIGHQ5UePOx7QqlNc2X) | 3:13 | 2022-06-03 | 2022-07-28 |
 | [Fourth of July \- April Base Version](https://open.spotify.com/track/1qufJFcGOXDdfA9kryBCQG) | [Sufjan Stevens](https://open.spotify.com/artist/4MXUO7sVCaFgFjoTI5ox5c) | [Fourth of July](https://open.spotify.com/album/6iDSCbUNbvIrSiM3JfJyCL) | 3:43 | 2022-07-10 | 2022-09-10 |
 | [Freefall](https://open.spotify.com/track/44OJIPBB9thD94rNTR282G) | [Cassandra Mary](https://open.spotify.com/artist/0xEqBg4oE7mcZNKiHtwoPN) | [Freefall](https://open.spotify.com/album/7g49TE5bOcv1pRlNYMgFQz) | 3:15 | 2022-06-25 | 2022-06-29 |

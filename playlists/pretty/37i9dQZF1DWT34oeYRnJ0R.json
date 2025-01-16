@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Paloma Mami",
-  "num_followers": 668495,
+  "num_followers": 668663,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
+        "name": "Cobro",
+        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Cobro",
+      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
         "name": "YOTULOKO",
         "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
       },
@@ -999,22 +1015,6 @@
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
-        "name": "Cobro",
-        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Cobro",
-      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1059,22 +1059,6 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "Tu Silueta",
-        "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
-      },
-      "artists": [
-        {
-          "name": "Diegote",
-          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
-        }
-      ],
-      "duration_ms": 170480,
-      "name": "Tu Silueta",
-      "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
         "name": "DE MARAVISHA",
         "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 203801,
       "name": "DE MARAVISHA",
       "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "Tu Silueta",
+        "url": "https://open.spotify.com/album/7j86EbvzXlG519y6A8L1uZ"
+      },
+      "artists": [
+        {
+          "name": "Diegote",
+          "url": "https://open.spotify.com/artist/2V9MnjEMqwXm7sice07NQK"
+        }
+      ],
+      "duration_ms": 170480,
+      "name": "Tu Silueta",
+      "url": "https://open.spotify.com/track/57f0ili5EzdZlEaSKcEg8p"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1643,22 +1643,22 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "Se\u00f1orita (Remix)",
-        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+        "name": "Lo Intent\u00e9",
+        "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
       },
       "artists": [
         {
-          "name": "Jean Pi",
-          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
         },
         {
-          "name": "DEKKO",
-          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
         }
       ],
-      "duration_ms": 181591,
-      "name": "Se\u00f1orita - Remix",
-      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+      "duration_ms": 199139,
+      "name": "Lo Intent\u00e9",
+      "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1683,6 +1683,26 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
+        "name": "Se\u00f1orita (Remix)",
+        "url": "https://open.spotify.com/album/19DTyv7J6PKc7oVOPyOdbT"
+      },
+      "artists": [
+        {
+          "name": "Jean Pi",
+          "url": "https://open.spotify.com/artist/2MBHhHSyqs8LFJsdmgf9pK"
+        },
+        {
+          "name": "DEKKO",
+          "url": "https://open.spotify.com/artist/6ZvYYrrfpb1Z7kICDyxWQE"
+        }
+      ],
+      "duration_ms": 181591,
+      "name": "Se\u00f1orita - Remix",
+      "url": "https://open.spotify.com/track/4PNsksRyLbWu1t13GBfemH"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
         "name": "Le Clique: Vida Rockstar (X)",
         "url": "https://open.spotify.com/album/67JIMv9vCB2ukBdEbtUmUG"
       },
@@ -1703,26 +1723,6 @@
       "duration_ms": 244293,
       "name": "No Entiendo",
       "url": "https://open.spotify.com/track/6VuCXhevMLsLMCrCPTVWWF"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
-        "name": "Lo Intent\u00e9",
-        "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 199139,
-      "name": "Lo Intent\u00e9",
-      "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1783,22 +1783,22 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "THE WORLD IS YOURS",
-        "url": "https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS"
+        "name": "Gatita Gangster",
+        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
       },
       "artists": [
         {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         },
         {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
         }
       ],
-      "duration_ms": 169666,
-      "name": "EROTICAAAAAAA",
-      "url": "https://open.spotify.com/track/6x38KcIs0tsw3ZzvBfLxOa"
+      "duration_ms": 236600,
+      "name": "Gatita Gangster",
+      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1843,22 +1843,42 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "Gatita Gangster",
-        "url": "https://open.spotify.com/album/6sFIObMoQlkk3lFqt926dB"
+        "name": "THE WORLD IS YOURS",
+        "url": "https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS"
       },
       "artists": [
         {
-          "name": "Cazzu",
-          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
         },
         {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
         }
       ],
-      "duration_ms": 236600,
-      "name": "Gatita Gangster",
-      "url": "https://open.spotify.com/track/1xbJZcVJjRvlDWG3TFgBIZ"
+      "duration_ms": 169666,
+      "name": "EROTICAAAAAAA",
+      "url": "https://open.spotify.com/track/6x38KcIs0tsw3ZzvBfLxOa"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "Mi Nena Remix",
+        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
+      },
+      "artists": [
+        {
+          "name": "Maikel Delacalle",
+          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
+        },
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Mi Nena Remix",
+      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1883,22 +1903,18 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "Mi Nena Remix",
-        "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
+        "name": "Una Ni\u00f1a In\u00fatil",
+        "url": "https://open.spotify.com/album/3cOK1UKpkM2v2xtcbNFzzc"
       },
       "artists": [
         {
-          "name": "Maikel Delacalle",
-          "url": "https://open.spotify.com/artist/2t7vyRN71qtQT18frElAnV"
-        },
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
         }
       ],
-      "duration_ms": 220000,
-      "name": "Mi Nena Remix",
-      "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
+      "duration_ms": 189666,
+      "name": "Miedo",
+      "url": "https://open.spotify.com/track/7acURarwO3OFjtUKzzQq1T"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1955,26 +1971,6 @@
       "duration_ms": 200631,
       "name": "Constelaci\u00f3n",
       "url": "https://open.spotify.com/track/4hphx3cA8mjPJR99B6XtBD"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
-        "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
-        "url": "https://open.spotify.com/album/1f2q2JQ3GFwIrWch2JLC0u"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        },
-        {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        }
-      ],
-      "duration_ms": 276904,
-      "name": "ME TENGO QUE IR",
-      "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
     }
   ],
   "unique_name": "Vibras",

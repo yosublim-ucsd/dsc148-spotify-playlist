@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KpeLFwA3tO.md) - [plain]
 
 > The best new music from the wide world of punk\. Cover: Lambrini Girls
 
-[Spotify](https://open.spotify.com/user/spotify) - 319,037 likes - 124 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 319,072 likes - 124 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

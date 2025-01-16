@@ -1,6 +1,6 @@
 {
   "description": "Fusion music for the soul.  Cover- Ketan Sodha, Ash King & Jahnvi Shrimankar",
-  "num_followers": 73122,
+  "num_followers": 73130,
   "original_name": "Fusion Finds",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2024-12-20 07:34:31",
       "album": {
+        "name": "Coke Studio Season 10: Episode 7",
+        "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
+      },
+      "artists": [
+        {
+          "name": "Aima Baig",
+          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
+        },
+        {
+          "name": "Shuja Haider",
+          "url": "https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt"
+        }
+      ],
+      "duration_ms": 471195,
+      "name": "Baanware",
+      "url": "https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB"
+    },
+    {
+      "added_at": "2024-12-20 07:34:31",
+      "album": {
         "name": "Jaanaan (From \"Bhoomi 2024\")",
         "url": "https://open.spotify.com/album/1FxmcvIwRD99bcNLNdoRDH"
       },
@@ -691,26 +711,6 @@
       "duration_ms": 306779,
       "name": "Jaanaan (From \"Bhoomi 2024\")",
       "url": "https://open.spotify.com/track/5ZY6Tet68fX8ea0R0D80T5"
-    },
-    {
-      "added_at": "2024-12-20 07:34:31",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 7",
-        "url": "https://open.spotify.com/album/6N6JL68Ji3Huws0DNHlnv3"
-      },
-      "artists": [
-        {
-          "name": "Aima Baig",
-          "url": "https://open.spotify.com/artist/2MNI4W0Pblx8NF4WvutxgA"
-        },
-        {
-          "name": "Shuja Haider",
-          "url": "https://open.spotify.com/artist/5efKihafekkUH7UjW5XUPt"
-        }
-      ],
-      "duration_ms": 471195,
-      "name": "Baanware",
-      "url": "https://open.spotify.com/track/1kJo1jL1MoDzROmFPf4JgB"
     },
     {
       "added_at": "2024-12-20 07:34:31",

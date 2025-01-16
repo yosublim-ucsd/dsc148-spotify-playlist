@@ -128,7 +128,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 181820,
       "name": "2 hands",
       "url": "https://open.spotify.com/track/1f18HzFpegqvH4ibGJyeMJ"
@@ -1600,6 +1600,24 @@
       "duration_ms": 198498,
       "name": "Ego",
       "url": "https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj"
+    },
+    {
+      "album": {
+        "name": "Either Way",
+        "url": "https://open.spotify.com/album/5cL61ijH8iXe5KVFyaRiNP"
+      },
+      "artists": [
+        {
+          "name": "Sayku",
+          "url": "https://open.spotify.com/artist/6OWXTHq7myy3irf9oDM4Xb"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148559,
+      "name": "Either Way",
+      "url": "https://open.spotify.com/track/4sBvS46yWfqvstlvLUf5zW"
     },
     {
       "album": {
@@ -3310,7 +3328,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 177350,
       "name": "last night's mascara",
       "url": "https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP"

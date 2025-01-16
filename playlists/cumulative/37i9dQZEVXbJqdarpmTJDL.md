@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Greece.
 
-1,909 songs - 4 day 4 hr 38 min
+1,910 songs - 4 day 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -476,6 +476,7 @@
 | [DROP](https://open.spotify.com/track/5g5aMrMZhLmBzGrIHFccX5) | [Mikros Kleftis](https://open.spotify.com/artist/1WNkrtDTdQ5izZf5L372i9), [Tsaki](https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB) | [CASH OUT](https://open.spotify.com/album/2Giwt3uclV3cTdNXwgA0G7) | 2:35 | 2023-04-01 | 2023-04-03 |
 | [DRUG LORD](https://open.spotify.com/track/4VrGda0RcxZR26KoOevlkj) | [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV), [Arab](https://open.spotify.com/artist/3h3WR8UDyRk15U74xAXE7a), [BeTaf Beats](https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z), [ASOK](https://open.spotify.com/artist/6Zx32XYdrM9A2rIt6jKVmm) | [SINALOA](https://open.spotify.com/album/6uEfN3eghmQN8owe3jJrO1) | 2:04 | 2025-01-03 |  |
 | [Drugs N Bass](https://open.spotify.com/track/5ap0QTKjE9M8MRBI7gz5RL) | [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [X ORFEAS](https://open.spotify.com/artist/1Kn0HYHz1lIn8tZQt8OSgC) | [Metal Slang](https://open.spotify.com/album/4bmNVze4PROPrLse71bcjd) | 3:18 | 2024-03-23 | 2024-07-12 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-15 |  |
 | [Dubai](https://open.spotify.com/track/2jDdUNCb3Q1hRtXmtZsGdW) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Thodoris Verlis](https://open.spotify.com/artist/37JMsuLMU91B5Poil5tMcz) | [Dubai](https://open.spotify.com/album/0ekklhkByAfhopFRB27DIv) | 3:26 | 2023-05-13 | 2023-06-28 |
 | [Dynata \- Ta Ta Ta](https://open.spotify.com/track/0abW4AXMPM75YUA87mlljq) | [Stefanos Pitsiniagkas](https://open.spotify.com/artist/1e6h8QSnKioDJOAYXjUjPE) | [Dynata \(Ta Ta Ta\)](https://open.spotify.com/album/00zlYdQFh5gtrsbFN2uePL) | 3:13 | 2021-12-18 | 2022-01-19 |
 | [DYSKOLA](https://open.spotify.com/track/1Dun90OyVqpId8DTYivlCz) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM) | [ALEQUAN](https://open.spotify.com/album/18ZNsVDZpZC9xyi7eAmvPl) | 2:35 | 2024-08-09 | 2024-08-11 |
@@ -1832,7 +1833,7 @@
 | [Voilà](https://open.spotify.com/track/1uAOCTevGnyKIDbgZdOCnE) | [Barbara Pravi](https://open.spotify.com/artist/3L4wiBOSDLkJ18OISXZDA8) | [Voilà](https://open.spotify.com/album/7dg4laFCDLBu0Oi2uWyafE) | 2:56 | 2021-05-25 | 2021-05-30 |
 | [Voodoo](https://open.spotify.com/track/6tGl1mj5CyoB1hUtOKyhkQ) | [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Hawk](https://open.spotify.com/artist/0vUcZVCNG7i5OV0zb8Icfw) | [Supernova](https://open.spotify.com/album/0YjJuXJlkF0Al7355W6BXU) | 3:10 | 2021-03-27\* | 2022-01-05 |
 | [Vorias](https://open.spotify.com/track/0ZK2jpmk44WBUfe2UV30AY) | [APON](https://open.spotify.com/artist/2bucjueNUx2aVTUA7zj6w7) | [Vorias](https://open.spotify.com/album/2Q5uwzmPFHSjpk9cSayhZp) | 3:09 | 2024-06-15 |  |
-| [Vradia](https://open.spotify.com/track/7m2z3y1R6K7ZXBMYeEK9zn) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vradia](https://open.spotify.com/album/2OiHWsutRb9poc2GVFBAAP) | 3:12 | 2024-06-07 |  |
+| [Vradia](https://open.spotify.com/track/7m2z3y1R6K7ZXBMYeEK9zn) | [Roi 6/12](https://open.spotify.com/artist/1yBH6dqnD6xzSeCjXp9pKm), [Evangelia](https://open.spotify.com/artist/3J7SI1JrZt43ZBlH24IqCK) | [Vradia](https://open.spotify.com/album/2OiHWsutRb9poc2GVFBAAP) | 3:12 | 2024-06-07 | 2025-01-16 |
 | [Vroum Vroum](https://open.spotify.com/track/0m0EGs9EklyrLpsWlw38F1) | [Trannos](https://open.spotify.com/artist/6WzxopGY3sy97IeNFaDELc), [Corle](https://open.spotify.com/artist/6z05xgIbD3oUDdSwE16YNo) | [Bad Boy 2](https://open.spotify.com/album/4amE4omSlHZVRil5S8JxQ8) | 2:58 | 2024-07-12 | 2024-08-08 |
 | [VROXI](https://open.spotify.com/track/3locVDFVD0EIROWR3ORKGx) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Beyond](https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP) | [VROXI](https://open.spotify.com/album/2n2G8ca5ixnqFX2BcQjVGe) | 2:26 | 2024-03-01 | 2024-03-05 |
 | [VVS](https://open.spotify.com/track/0LTF1xR1Iw72CMHN0m4LaA) | [Thug Slime](https://open.spotify.com/artist/2CeSpJpSDU42CUgPdGfyo0) | [Green Goblin](https://open.spotify.com/album/0z4VAJn6GjgtoDFP7DV1vh) | 3:22 | 2022-02-26 | 2022-03-05 |

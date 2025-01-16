@@ -3353,6 +3353,24 @@
     },
     {
       "album": {
+        "name": "El Trend",
+        "url": "https://open.spotify.com/album/0PPp0cxBchPiKSmZune2ko"
+      },
+      "artists": [
+        {
+          "name": "Max Carra",
+          "url": "https://open.spotify.com/artist/483P9cJ9pdCoc08XvNunPL"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153913,
+      "name": "El Trend",
+      "url": "https://open.spotify.com/track/2FkGAd5K5P88bAoNnzcpYF"
+    },
+    {
+      "album": {
         "name": "ELEUSECA",
         "url": "https://open.spotify.com/album/63U4L6MZ1L5IJBeIccyw8v"
       },
@@ -8400,7 +8418,7 @@
       ],
       "date_added": "2022-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 296254,
       "name": "Persia / YO SE QUE TU / Millonario",
       "url": "https://open.spotify.com/track/1YbZ9b1mqsTQdt1amdNIuS"

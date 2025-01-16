@@ -133,6 +133,24 @@
     },
     {
       "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/1h24R2SCtFu8Q1Du0J7bmH"
+      },
+      "artists": [
+        {
+          "name": "B Sarba",
+          "url": "https://open.spotify.com/artist/1LYmYzDi3WJcRCmuBRXFfw"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189175,
+      "name": "AK Lover",
+      "url": "https://open.spotify.com/track/6mHs7AjwYCdkb9xT7NcD4S"
+    },
+    {
+      "album": {
         "name": "MERCURY",
         "url": "https://open.spotify.com/album/1xkw0stgWaNw9H3vx7CbXW"
       },
@@ -758,7 +776,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 152692,
       "name": "Dear Brother",
       "url": "https://open.spotify.com/track/16rCo9vtSAGFce8ZqVuBZt"
@@ -1181,24 +1199,6 @@
     },
     {
       "album": {
-        "name": "Gal Kar",
-        "url": "https://open.spotify.com/album/0gYg3xg79VMJiD8eyUXsrg"
-      },
-      "artists": [
-        {
-          "name": "Safar",
-          "url": "https://open.spotify.com/artist/2FpljsOpRwinMIhph9rW0f"
-        }
-      ],
-      "date_added": "2025-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 214597,
-      "name": "Gal Kar",
-      "url": "https://open.spotify.com/track/44ofc5nB37mtY85VEosVZE"
-    },
-    {
-      "album": {
         "name": "Gal Sun",
         "url": "https://open.spotify.com/album/3Co9vTPO7X7MM2bcV0ETZJ"
       },
@@ -1218,6 +1218,24 @@
       "duration_ms": 220000,
       "name": "Gal Sun",
       "url": "https://open.spotify.com/track/1O9S8NLFyzvWMwZmaNnafd"
+    },
+    {
+      "album": {
+        "name": "Gall Kar",
+        "url": "https://open.spotify.com/album/0gYg3xg79VMJiD8eyUXsrg"
+      },
+      "artists": [
+        {
+          "name": "Safar",
+          "url": "https://open.spotify.com/artist/2FpljsOpRwinMIhph9rW0f"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214597,
+      "name": "Gall Kar",
+      "url": "https://open.spotify.com/track/44ofc5nB37mtY85VEosVZE"
     },
     {
       "album": {
@@ -1882,7 +1900,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 236547,
       "name": "Kismat",
       "url": "https://open.spotify.com/track/23Om54rdyag2vKlK4pz07f"
@@ -2032,6 +2050,24 @@
       "duration_ms": 171692,
       "name": "Level Up",
       "url": "https://open.spotify.com/track/2LNjZwyjOcxqsqRR1Lep4f"
+    },
+    {
+      "album": {
+        "name": "Links",
+        "url": "https://open.spotify.com/album/60S8AvGNNAmYkeK2RgJODY"
+      },
+      "artists": [
+        {
+          "name": "Jugnu",
+          "url": "https://open.spotify.com/artist/15npeM86AY1blmqFunBx3C"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139383,
+      "name": "Links",
+      "url": "https://open.spotify.com/track/2xaC6YEI9n8HpzxnI2K5t5"
     },
     {
       "album": {

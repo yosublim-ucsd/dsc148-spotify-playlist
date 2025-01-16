@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "A Little Blue",
+        "url": "https://open.spotify.com/album/0mE29gC0shDYMixT7ouFS1"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157802,
+      "name": "A Little Blue",
+      "url": "https://open.spotify.com/track/2amxnls3sy5GChJp52wOQE"
+    },
+    {
+      "album": {
         "name": "Aabha - Sound Bath",
         "url": "https://open.spotify.com/album/5SNx9VaBDuGycrI7lxJnfl"
       },
@@ -196,10 +214,28 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 224500,
       "name": "Atomos Atmos",
       "url": "https://open.spotify.com/track/1PinJYwTcizpP5mTW4qIRX"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/6YHmqQCu7irYJFGaUSjK3j"
+      },
+      "artists": [
+        {
+          "name": "Flyndon",
+          "url": "https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174288,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/6EIzJbvJiyH0MgVTICTpvC"
     },
     {
       "album": {
@@ -326,6 +362,24 @@
       "duration_ms": 165112,
       "name": "Briongl\u00f3id (Sound Bath)",
       "url": "https://open.spotify.com/track/6Kvv8jjMQzOROquokHQ2FF"
+    },
+    {
+      "album": {
+        "name": "By the Ocean",
+        "url": "https://open.spotify.com/album/7nwYwuMy0khyxJl7hgfCE4"
+      },
+      "artists": [
+        {
+          "name": "Refugium",
+          "url": "https://open.spotify.com/artist/4zMvYPGhp76vbz8bGgxjjC"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185000,
+      "name": "By the Ocean",
+      "url": "https://open.spotify.com/track/3wiPradzeWPto8383InaTd"
     },
     {
       "album": {
@@ -488,6 +542,24 @@
       "duration_ms": 153901,
       "name": "Collect Yourself",
       "url": "https://open.spotify.com/track/3qBoNbi7zFlDWskvLABEk1"
+    },
+    {
+      "album": {
+        "name": "Cove Girl",
+        "url": "https://open.spotify.com/album/7nHuEfaI9MaiOLK2Ysrvkh"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172152,
+      "name": "Cove Girl",
+      "url": "https://open.spotify.com/track/0B0ztqfk2ZN9DQI7LzRCS0"
     },
     {
       "album": {
@@ -758,6 +830,24 @@
       "duration_ms": 199595,
       "name": "Endless 432 Hz",
       "url": "https://open.spotify.com/track/0QHaZdDcpmrl17grXOF9so"
+    },
+    {
+      "album": {
+        "name": "Endless Ocean",
+        "url": "https://open.spotify.com/album/6G1vgA7HXZf5nDHBsnl7E3"
+      },
+      "artists": [
+        {
+          "name": "Altum Somnum",
+          "url": "https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Endless Ocean",
+      "url": "https://open.spotify.com/track/3Hu72NQywzDjGwBlZttKdp"
     },
     {
       "album": {
@@ -1082,7 +1172,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 152000,
       "name": "Indigo Glow",
       "url": "https://open.spotify.com/track/3Ns6i7BkVifP7SlJeQ5C8S"
@@ -1215,6 +1305,24 @@
     },
     {
       "album": {
+        "name": "Melanoceano",
+        "url": "https://open.spotify.com/album/4plKRbG0DyPDI6OrxnJub2"
+      },
+      "artists": [
+        {
+          "name": "Calma Interiore",
+          "url": "https://open.spotify.com/artist/1OmJlIsNDkAVfdkmHbvQFM"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Melanoceano",
+      "url": "https://open.spotify.com/track/09CycQ3vGymZiuEUyzE0QR"
+    },
+    {
+      "album": {
         "name": "Melu",
         "url": "https://open.spotify.com/album/2lmQPms03gfoixIfZJ6h7r"
       },
@@ -1226,7 +1334,7 @@
       ],
       "date_added": "2024-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 182375,
       "name": "Melu",
       "url": "https://open.spotify.com/track/36Bye5FdbcXLd6AiHIhfbY"
@@ -1370,7 +1478,7 @@
       ],
       "date_added": "2024-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 171807,
       "name": "Ocean Dreaming",
       "url": "https://open.spotify.com/track/5N4BF0Id1qiEiMGuCaaqg6"
@@ -1432,6 +1540,24 @@
       "duration_ms": 176250,
       "name": "Ocean Miracle",
       "url": "https://open.spotify.com/track/6s4d29YLuiRLjFXznEzhoi"
+    },
+    {
+      "album": {
+        "name": "Ocean Mist",
+        "url": "https://open.spotify.com/album/713IgaOvTqGw9jUgsmyFvY"
+      },
+      "artists": [
+        {
+          "name": "Sol Reya",
+          "url": "https://open.spotify.com/artist/1WOC51A3fmT0ONyhUtH1G8"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151254,
+      "name": "Ocean Mist",
+      "url": "https://open.spotify.com/track/7v7QlWId44VVGz455UMXmE"
     },
     {
       "album": {
@@ -1543,6 +1669,24 @@
     },
     {
       "album": {
+        "name": "Orchids",
+        "url": "https://open.spotify.com/album/0PhiG5bnqYMwVklGDoY6Ya"
+      },
+      "artists": [
+        {
+          "name": "Escix V",
+          "url": "https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136161,
+      "name": "Orchids",
+      "url": "https://open.spotify.com/track/3BauJaNnmk79bsjD1Py8H9"
+    },
+    {
+      "album": {
         "name": "Osdale Air",
         "url": "https://open.spotify.com/album/4erw5sMPYXrWjyaSyHqEV0"
       },
@@ -1644,7 +1788,7 @@
       ],
       "date_added": "2023-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 170270,
       "name": "Pawkian",
       "url": "https://open.spotify.com/track/5lm7ANI4iMjkmVL0UgDJMw"
@@ -1806,7 +1950,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 138576,
       "name": "Sand Mountain",
       "url": "https://open.spotify.com/track/3EvomX9g0fEOKTCRUTcvg1"
@@ -1824,7 +1968,7 @@
       ],
       "date_added": "2023-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 161401,
       "name": "Santanyi",
       "url": "https://open.spotify.com/track/3rO499O1PWBnA0vlAwO9fp"
@@ -1986,7 +2130,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 167619,
       "name": "Slowing down with the Waves",
       "url": "https://open.spotify.com/track/1hO3Xxm95UQffwh50jQ5Yg"
@@ -2332,7 +2476,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 137810,
       "name": "Tr\u00e4umend (Sound Bath)",
       "url": "https://open.spotify.com/track/3J0UKikpt9HoLZ3XBn15Jo"
@@ -2480,6 +2624,24 @@
       "duration_ms": 168336,
       "name": "Waves of Daelbata",
       "url": "https://open.spotify.com/track/4ibHNh26q3aCsXu0ezHDOH"
+    },
+    {
+      "album": {
+        "name": "Waves of Serenity",
+        "url": "https://open.spotify.com/album/5c6PwCO4bh7o1DJZTzllQf"
+      },
+      "artists": [
+        {
+          "name": "Waves Of Aware",
+          "url": "https://open.spotify.com/artist/2q4nJLQKqcI65BMW9CuORq"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "Waves of Serenity",
+      "url": "https://open.spotify.com/track/04wDZI7XuCjGicazG046t9"
     },
     {
       "album": {

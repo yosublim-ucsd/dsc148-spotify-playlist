@@ -4,7 +4,7 @@
 
 > japanese breakfast 🕯️🎀✨🍇
 
-3,129 songs - 7 day 1 hr 48 min
+3,132 songs - 7 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -858,6 +858,7 @@
 | [Eulogy For Nobody](https://open.spotify.com/track/11ozTm1ilFrLxwtdWt1iK0) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Learning](https://open.spotify.com/album/0g1hqdwk04yfQdXgt3ifzG) | 2:16 | 2023-09-15 | 2024-06-01 |
 | [Even When The Sun is Dead](https://open.spotify.com/track/2qhvP4If0pFP5SCk1xuU30) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/0aIrTtrBqrEHggWVEtErqb) | 2:16 | 2024-02-02 | 2024-02-17 |
 | [Even When The Sun is Dead](https://open.spotify.com/track/7zH3Qm6lu296i2owAENBLk) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [Even When The Sun is Dead](https://open.spotify.com/album/10Se7e9BSliI7oLITqATVn) | 2:16 | 2024-02-02 | 2024-02-08 |
+| [Ever](https://open.spotify.com/track/2Gu2H8HRVuV9GOneJuYV5D) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Ever](https://open.spotify.com/album/7zsRDPDkCAJBcQrbG8Agr9) | 3:00 | 2025-01-15 |  |
 | [Ever Again](https://open.spotify.com/track/2E5e4J3nm1LMHkqTS21Dlq) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Honey](https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk) | 4:24 | 2021-01-29 | 2021-02-06 |
 | [Ever Seen](https://open.spotify.com/track/7pMEJEVSjQBuUAqWOupJk6) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Ever Seen](https://open.spotify.com/album/6XgxDhkbWJy6FsLkwGgk9d) | 3:23 | 2024-07-03 | 2024-09-07 |
 | [Ever Since New York](https://open.spotify.com/track/5LABCxgmP7DATATIJXOh6n) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Harry Styles](https://open.spotify.com/album/1FZKIm3JVDCxTchXDo5jOV) | 4:13 | 2019-07-30\* | 2020-11-27 |
@@ -2363,6 +2364,7 @@
 | [Shit Show](https://open.spotify.com/track/0t9X8kIUL4QqoWq6HM5o2G) | [Peter McPoland](https://open.spotify.com/artist/23E65IfLBGQv0FBrMwCcG2) | [Shit Show](https://open.spotify.com/album/67Z2Ig6ut4g6d0MhxTKjfp) | 3:20 | 2021-12-01 | 2022-02-12 |
 | [Shitty Heaven](https://open.spotify.com/track/6XLyiEUFbJ5fgAkZ1lPtCU) | [Ally Evenson](https://open.spotify.com/artist/6UzwpF9cqjxgxXb2N6mb7y) | [Shitty Heaven](https://open.spotify.com/album/3I4haXWxlYtANgufBvziuN) | 2:51 | 2024-11-07 |  |
 | [Shitty People](https://open.spotify.com/track/4gmWwnGA117kHmmzczUwlz) | [Devon Again](https://open.spotify.com/artist/3xz28DkZR6bmPpVh6Rq13t) | [Shitty People](https://open.spotify.com/album/40xU8o3w2Zw17JiTIZ3q2s) | 2:41 | 2022-06-24 | 2022-08-19 |
+| [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-15 |  |
 | [Shotgun \- Magdalena Bay Remix](https://open.spotify.com/track/5m4EJmInvHQJ1wvPx2Qs36) | [Soccer Mommy](https://open.spotify.com/artist/4wXchxfTTggLtzkoUhO86Q), [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Shotgun \(Magdalena Bay Remix\)](https://open.spotify.com/album/1ADuxT0WV9GAkcEdtNJxCB) | 3:59 | 2022-08-18 | 2022-10-13 |
 | [Shove](https://open.spotify.com/track/3zY86yn3L9l2OvDaVju6iP) | [Mali Velasquez](https://open.spotify.com/artist/2LNfVxxm5kfNQa95GS25xP) | [Shove](https://open.spotify.com/album/1Zn4cAAjfE9ymJ6PYA34Jb) | 2:39 | 2023-09-15 | 2023-11-11 |
 | [Show Me Love \- Radio Version](https://open.spotify.com/track/6SluaPiV04KOaRTOIScoff) | [Robyn](https://open.spotify.com/artist/6UE7nl9mha6s8z0wFQFIZ2) | [Robyn Is Here](https://open.spotify.com/album/5OvepfQiCFMCzML6fTgrBW) | 3:49 | 2022-01-07 | 2022-02-26 |
@@ -2915,6 +2917,7 @@
 | [Virtual Aerobics](https://open.spotify.com/track/1fpGZJnHXFEbq8UIWIKmHH) | [Wallows](https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL) | [Virtual Aerobics](https://open.spotify.com/album/70QRj2miXV0LTLG887MgTp) | 2:02 | 2020-10-03 | 2021-03-06 |
 | [Virtual Hug](https://open.spotify.com/track/4eSsPJbJQ5hLYjg90FiRCD) | [Bloomsday](https://open.spotify.com/artist/6DhYH5Yx7mZG0qkBmioMbI) | [Virtual Hug](https://open.spotify.com/album/67UEZte3h6JEZ6d4BmEgiT) | 3:09 | 2024-05-03 | 2024-06-18 |
 | [Von dutch](https://open.spotify.com/track/01TnMXIy7mJJQ7E8uy937N) | [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Von dutch](https://open.spotify.com/album/0Mg2cY7VjvKeJAL7mzk1kw) | 2:44 | 2024-02-29 | 2024-03-23 |
+| [Vows](https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Vows](https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa) | 2:42 | 2025-01-15 |  |
 | [Voyage](https://open.spotify.com/track/0sPNyl2I8I5tbhTtMs3KOm) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO) | [Voyage](https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE) | 3:06 | 2021-12-22 | 2022-01-22 |
 | [Wait for Me](https://open.spotify.com/track/2DWSEs2sT3jvlrZMUtHTUY) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [Wait for Me](https://open.spotify.com/album/7LAkAB1VZOBGFBxY9knom4) | 2:46 | 2023-07-28 | 2023-08-26 |
 | [Wait for Something Better](https://open.spotify.com/track/1I9CYgnoP99PAgTqkPPO4o) | [PROM](https://open.spotify.com/artist/5p9qBa6VyXEvdxwI8WNwJb) | [Wait for Something Better](https://open.spotify.com/album/12tDYPpSTOkN4QjPKOeIDQ) | 3:12 | 2022-07-15 | 2022-10-26 |
@@ -2945,7 +2948,7 @@
 | [Water Pistol](https://open.spotify.com/track/66FQlENQhffJNXm8Ae4KIg) | [Yaeger](https://open.spotify.com/artist/0sWPIrlMZlHFkDBYkciO3X) | [Water Pistol](https://open.spotify.com/album/338nJ7kiXQww30TUql5VjC) | 3:39 | 2023-09-29 | 2023-11-18 |
 | [waterfall](https://open.spotify.com/track/4pfMtNvaxXwvKOdoQNOxxZ) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [assisted memories](https://open.spotify.com/album/3Vo6p72T0ffD4SHmpuPenP) | 3:42 | 2024-06-09 | 2024-07-27 |
 | [watering can](https://open.spotify.com/track/5C9gcImzMk5AKHyLtfCyn6) | [emory](https://open.spotify.com/artist/7HKjjFcvOZyupxbOMdmSwE) | [watering can](https://open.spotify.com/album/06aajlYjOeDFlwfsoNkbSZ) | 2:49 | 2024-11-15 |  |
-| [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/6zj2ZyQxZl9Omk4v7kcahS) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2024-10-02 |  |
+| [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2024-10-02 |  |
 | [Waxwing](https://open.spotify.com/track/4gGh7b3nKa4rlxyPLWcfTd) | [Sorry](https://open.spotify.com/artist/5eUda4BaWhUQWWJiP1ml5v) | [Waxwing](https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h) | 3:35 | 2024-10-18 |  |
 | [Way You Move](https://open.spotify.com/track/2Ag5V54YBuSbSZtBzN7I0w) | [Froogle](https://open.spotify.com/artist/1SoqIsFiUIuOm401HsEQso) | [Way You Move](https://open.spotify.com/album/5FBUu5EuGfzHuSeSTO1ql8) | 2:16 | 2020-01-24 | 2020-02-20 |
 | [wayne \(demo\)](https://open.spotify.com/track/2vsiIis8R6s5DdceaTj0rk) | [Frankie Cosmos](https://open.spotify.com/artist/0x4xCoWaOFd3WsKarzaxnW) | [Clean Weird Prone \(Inner World Peace Deluxe\)](https://open.spotify.com/album/7haxpWiYhrr3yLN5yBC5jO) | 2:05 | 2023-04-28 | 2023-06-02 |

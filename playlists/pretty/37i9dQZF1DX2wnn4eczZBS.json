@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: S10",
-  "num_followers": 9791,
+  "num_followers": 9801,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "platland",
-        "url": "https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 190467,
-      "name": "alle buren moeten dood",
-      "url": "https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "IJSLAND",
         "url": "https://open.spotify.com/album/3Rqpc58WsgqBIDG3KVMiNB"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 191453,
       "name": "PRADA STELEN",
       "url": "https://open.spotify.com/track/3KRNIDpr9CVCJ3ai2OGUlG"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "platland",
+        "url": "https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 190467,
+      "name": "alle buren moeten dood",
+      "url": "https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -359,22 +359,18 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Shirt Uit (feat. Sef)",
-        "url": "https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf"
+        "name": "David Bowie/Beckham",
+        "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
       },
       "artists": [
         {
-          "name": "Jungle by Night",
-          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
-        },
-        {
-          "name": "Sef",
-          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
         }
       ],
-      "duration_ms": 207813,
-      "name": "Shirt Uit (feat. Sef)",
-      "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
+      "duration_ms": 156112,
+      "name": "David Bowie/Beckham",
+      "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -411,6 +407,26 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
+        "name": "Shirt Uit (feat. Sef)",
+        "url": "https://open.spotify.com/album/2Bh9v7RB7N7SQUMnpz3Pyf"
+      },
+      "artists": [
+        {
+          "name": "Jungle by Night",
+          "url": "https://open.spotify.com/artist/2StcyX3fmelae5agBHIkDO"
+        },
+        {
+          "name": "Sef",
+          "url": "https://open.spotify.com/artist/5VGhS6nHpXPbXGhku9RRB0"
+        }
+      ],
+      "duration_ms": 207813,
+      "name": "Shirt Uit (feat. Sef)",
+      "url": "https://open.spotify.com/track/4yf0JCc3idiriPpzISwO0g"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
         "name": "Het Outro",
         "url": "https://open.spotify.com/album/2ERyEdzLAJEyia7NzuHImY"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 200223,
       "name": "Het Outro",
       "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
-        "name": "David Bowie/Beckham",
-        "url": "https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 156112,
-      "name": "David Bowie/Beckham",
-      "url": "https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Doe Eens Raar",
-        "url": "https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 227320,
-      "name": "Doe Eens Raar",
-      "url": "https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Als Ik Verdwaal",
         "url": "https://open.spotify.com/album/4Zd9mUyWhs0lGhyWX6ybj9"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 153608,
       "name": "Als Ik Verdwaal",
       "url": "https://open.spotify.com/track/3rOONgNCEJmrebUkMU2UB9"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Doe Eens Raar",
+        "url": "https://open.spotify.com/album/39Jw5zVqob4ufqyvfnvAQg"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 227320,
+      "name": "Doe Eens Raar",
+      "url": "https://open.spotify.com/track/3aleFXuClzkpxI0AnAytjt"
     },
     {
       "added_at": "2025-01-10 06:52:42",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Een Filosofie Van Het Riool",
-        "url": "https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV"
-      },
-      "artists": [
-        {
-          "name": "Astronaut",
-          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
-        }
-      ],
-      "duration_ms": 326653,
-      "name": "Een Filosofie Van Het Riool",
-      "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Zo Licht Als een Veertje",
         "url": "https://open.spotify.com/album/3Do7RQ7EPLRYnmTWih10ii"
       },
@@ -771,22 +755,6 @@
     {
       "added_at": "2025-01-10 06:52:42",
       "album": {
-        "name": "Starstruck (Celebrity)",
-        "url": "https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa"
-      },
-      "artists": [
-        {
-          "name": "NONCHELANGE",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 231676,
-      "name": "Starstruck (Celebrity)",
-      "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
-    },
-    {
-      "added_at": "2025-01-10 06:52:42",
-      "album": {
         "name": "Koortsdroom",
         "url": "https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG"
       },
@@ -799,6 +767,38 @@
       "duration_ms": 162039,
       "name": "Koortsdroom (Nooit Spijt)",
       "url": "https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Een Filosofie Van Het Riool",
+        "url": "https://open.spotify.com/album/76VF1Aj51hR66X4lcYBXaV"
+      },
+      "artists": [
+        {
+          "name": "Astronaut",
+          "url": "https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn"
+        }
+      ],
+      "duration_ms": 326653,
+      "name": "Een Filosofie Van Het Riool",
+      "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
+    },
+    {
+      "added_at": "2025-01-10 06:52:42",
+      "album": {
+        "name": "Starstruck (Celebrity)",
+        "url": "https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa"
+      },
+      "artists": [
+        {
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 231676,
+      "name": "Starstruck (Celebrity)",
+      "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
     },
     {
       "added_at": "2025-01-10 06:52:42",

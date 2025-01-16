@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 
 > Set the perfect brunch mood with instrumental and vocal Jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 32,167 likes - 105 songs - 9 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 32,186 likes - 105 songs - 9 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BVquKzFnCW.md) - [plain]
 | 66 | [I Get a Kick out of You](https://open.spotify.com/track/4aiToVXyelaS3IzT3XrLEV) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [First Place Again](https://open.spotify.com/album/5cRdLFfwJefr0sspyWVFPT) | 8:38 |
 | 67 | [Salute To Benny](https://open.spotify.com/track/5h8TmZt7tqKY5lG560ZXdu) | [Lester Young](https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm) | [Laughin' to Keep From Cryin'](https://open.spotify.com/album/1oPpesguMVx0RdT77HDsKo) | 8:32 |
 | 68 | [My Ideal](https://open.spotify.com/track/0fuCS40F0K9iirOzSfyNH8) | [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [The Stardust Session](https://open.spotify.com/album/04boZILWsfhGGPoIbbE76p) | 7:32 |
-| 69 | [Like Someone In Love \- Rudy Van Gelder Edition, 2004 Remaster](https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Like Someone In Love](https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9) | 8:04 |
+| 69 | [Like Someone In Love \- Remastered 2004 / Rudy Van Gelder Edition](https://open.spotify.com/track/5oEUptjKIrQ4eVMdwTiYcM) | [Art Blakey & The Jazz Messengers](https://open.spotify.com/artist/6ykfXAed2KOLOMI3R0TZdz) | [Like Someone In Love](https://open.spotify.com/album/50nRFfP7eymMb2rfSffMr9) | 8:04 |
 | 70 | [But Not For Me](https://open.spotify.com/track/6s5Ush55ZistjzNAbbIpoL) | [Red Garland](https://open.spotify.com/artist/35iymrFS4VnsKn35ebHKX9), [Paul Chambers](https://open.spotify.com/artist/0M1UOBJZ9tcKJbrbnVlHZG), [Art Taylor](https://open.spotify.com/artist/3CsHGnB9qK3KYH7xmyGAGX) | [Red Garland's Piano](https://open.spotify.com/album/1Lrt5saApIz6z8dGmyKB7d) | 5:52 |
 | 71 | [Twelve More Bars To Go](https://open.spotify.com/track/64zWqacsqNgPPYtjunGYxj) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO) | [Juju](https://open.spotify.com/album/34UpyT7OR59DvQjUsf4ufY) | 5:28 |
 | 72 | [All the Things You Are](https://open.spotify.com/track/5pFtpo6JemD4c08m8uEwk2) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 5:51 |

@@ -6385,6 +6385,24 @@
     },
     {
       "album": {
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367966,
+      "name": "Zatto",
+      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
+    },
+    {
+      "album": {
         "name": "An Airship",
         "url": "https://open.spotify.com/album/6ZsY9gSuwihcsl9zGSn307"
       },
@@ -7066,7 +7084,7 @@
       ],
       "date_added": "2024-03-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 188830,
       "name": "\u611b\u306e\u3057\u308b\u3057",
       "url": "https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY"

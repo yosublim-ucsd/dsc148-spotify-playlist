@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring new music from Babymorocco & Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,196 likes - 175 songs - 8 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,206 likes - 175 songs - 8 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 9 | [Matter of Time](https://open.spotify.com/track/1vU5cy9TLV4Vd8uUURhWHq) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Warpstr](https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc) | [Matter of Time](https://open.spotify.com/album/24Bj3qVvgd26GPoen6cPOy) | 3:15 |
 | 10 | [Magic Powers](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 | 11 | [Hottie](https://open.spotify.com/track/4iD6lac3Vakcecg0hcHpP6) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [HIGH FASHION](https://open.spotify.com/album/2bgDe4lxePwqiReuDW0HFi) | 3:15 |
-| 12 | [NUMA NUMA MIKU HARDSYLE](https://open.spotify.com/track/4dl64UyUWHugKLFzVTRpjQ) | [九GANG](https://open.spotify.com/artist/6Ug0gyqVnBzx4BoP7r3m46), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [NUMA NUMA MIKU HARDSYLE](https://open.spotify.com/album/6Hck3QSdZcx6pyhL9S2Af5) | 2:57 |
+| 12 | [NUMA NUMA MIKU HARDSTYLE](https://open.spotify.com/track/4dl64UyUWHugKLFzVTRpjQ) | [九GANG](https://open.spotify.com/artist/6Ug0gyqVnBzx4BoP7r3m46), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [NUMA NUMA MIKU HARDSTYLE](https://open.spotify.com/album/6Hck3QSdZcx6pyhL9S2Af5) | 2:57 |
 | 13 | [gold](https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj) | [2hollis](https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG) | [gold](https://open.spotify.com/album/6Ucd9PvaoiSlQXY8OOupkW) | 2:06 |
 | 14 | [Sugar Water Cyanide](https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Sugar Water Cyanide](https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm) | 2:54 |
 | 15 | [NO WAY](https://open.spotify.com/track/2HgGl2AsqaeGnFKtWTJzvR) | [brynzzaa](https://open.spotify.com/artist/4PAm9RQGYBTorxma00G20E), [DIGITAL REY](https://open.spotify.com/artist/0anUkBIQnpCcSiTa7vbOaS) | [NO WAY](https://open.spotify.com/album/2U0dqlryDhAx7Lubl5vdsO) | 1:57 |

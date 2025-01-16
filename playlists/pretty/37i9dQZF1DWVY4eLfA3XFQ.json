@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Cole Knight \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 642717,
+  "num_followers": 642810,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1689,6 +1689,22 @@
       "url": "https://open.spotify.com/track/2bRM3rvHhI9cb2TCnnZIAR"
     },
     {
+      "added_at": "2024-11-08 05:00:00",
+      "album": {
+        "name": "Time To Go",
+        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 202380,
+      "name": "Time To Go",
+      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
+    },
+    {
       "added_at": "2024-11-29 05:26:04",
       "album": {
         "name": "Left To Right (James Hype Edit)",
@@ -1713,22 +1729,6 @@
       "url": "https://open.spotify.com/track/0Ey54LmdxIxdXQSqG2LsZW"
     },
     {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Time To Go",
-        "url": "https://open.spotify.com/album/3ejTqXB3AbW6bGO8iJGmQJ"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 202380,
-      "name": "Time To Go",
-      "url": "https://open.spotify.com/track/12hypREWe3wQFb6xgAbwtT"
-    },
-    {
       "added_at": "2023-11-10 05:00:00",
       "album": {
         "name": "Needle On The Record",
@@ -1743,26 +1743,6 @@
       "duration_ms": 186625,
       "name": "Needle On The Record",
       "url": "https://open.spotify.com/track/5qKuF0NtvWVn5UarAgyli3"
-    },
-    {
-      "added_at": "2024-11-29 05:26:04",
-      "album": {
-        "name": "Out Of My Head",
-        "url": "https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz"
-      },
-      "artists": [
-        {
-          "name": "Martin Ikin",
-          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
-        },
-        {
-          "name": "Grant Nelson",
-          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
-        }
-      ],
-      "duration_ms": 204843,
-      "name": "Out Of My Head",
-      "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
     },
     {
       "added_at": "2024-02-16 05:00:00",
@@ -1783,6 +1763,26 @@
       "duration_ms": 134170,
       "name": "Vibrate",
       "url": "https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo"
+    },
+    {
+      "added_at": "2024-11-29 05:26:04",
+      "album": {
+        "name": "Out Of My Head",
+        "url": "https://open.spotify.com/album/0YcFskeeqxFZ6SVYInJcHz"
+      },
+      "artists": [
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Grant Nelson",
+          "url": "https://open.spotify.com/artist/6uEi6lYYhf6Fkd40ZVCKqi"
+        }
+      ],
+      "duration_ms": 204843,
+      "name": "Out Of My Head",
+      "url": "https://open.spotify.com/track/1pvxpOhhfWOA3g1SF5ibjC"
     },
     {
       "added_at": "2024-04-05 04:00:00",
@@ -1825,6 +1825,22 @@
       "url": "https://open.spotify.com/track/4bhe0PVXsnv9Zvo9DKD27N"
     },
     {
+      "added_at": "2024-02-09 05:00:00",
+      "album": {
+        "name": "Done",
+        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 185624,
+      "name": "Done",
+      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
+    },
+    {
       "added_at": "2024-09-06 04:00:00",
       "album": {
         "name": "Shapeshifter",
@@ -1843,22 +1859,6 @@
       "duration_ms": 190232,
       "name": "Shapeshifter",
       "url": "https://open.spotify.com/track/0rb8i9s9WTj57KfdOctpq7"
-    },
-    {
-      "added_at": "2024-02-09 05:00:00",
-      "album": {
-        "name": "Done",
-        "url": "https://open.spotify.com/album/5vnp7ugD9XKjZED9hhULdE"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 185624,
-      "name": "Done",
-      "url": "https://open.spotify.com/track/49WMXexA9yViG267eOhxGn"
     },
     {
       "added_at": "2024-05-03 04:00:00",
@@ -1933,26 +1933,6 @@
       "url": "https://open.spotify.com/track/29vEfX4XhKR4teS4mhyf2v"
     },
     {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Slow Down / Pink Dave",
-        "url": "https://open.spotify.com/album/7EFeoVZvu9en0AANT1PmER"
-      },
-      "artists": [
-        {
-          "name": "Solardo",
-          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
-        },
-        {
-          "name": "Joshwa",
-          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
-        }
-      ],
-      "duration_ms": 178926,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
-    },
-    {
       "added_at": "2024-11-08 05:00:00",
       "album": {
         "name": "Let The Bassline",
@@ -1967,26 +1947,6 @@
       "duration_ms": 183234,
       "name": "Let The Bassline",
       "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Mezcal Bounce",
-        "url": "https://open.spotify.com/album/2aJEt3IXffsdzso2o80yQa"
-      },
-      "artists": [
-        {
-          "name": "SOSA UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        },
-        {
-          "name": "Kidoo",
-          "url": "https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Mezcal Bounce",
-      "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2009,6 +1969,46 @@
       "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Slow Down / Pink Dave",
+        "url": "https://open.spotify.com/album/7EFeoVZvu9en0AANT1PmER"
+      },
+      "artists": [
+        {
+          "name": "Solardo",
+          "url": "https://open.spotify.com/artist/0oO1IaDOBSeI96HbnCa5pZ"
+        },
+        {
+          "name": "Joshwa",
+          "url": "https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5"
+        }
+      ],
+      "duration_ms": 178926,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Mezcal Bounce",
+        "url": "https://open.spotify.com/album/2aJEt3IXffsdzso2o80yQa"
+      },
+      "artists": [
+        {
+          "name": "SOSA UK",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Kidoo",
+          "url": "https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Mezcal Bounce",
+      "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
+    },
+    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Jet Setter",
@@ -2027,6 +2027,22 @@
       "duration_ms": 174890,
       "name": "Jet Setter",
       "url": "https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc"
+    },
+    {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2053,22 +2069,6 @@
       "url": "https://open.spotify.com/track/2fMAc4QZwcOOuE441dPpYD"
     },
     {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Lights Out",
-        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
-      },
-      "artists": [
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 218437,
-      "name": "Lights Out",
-      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
-    },
-    {
       "added_at": "2024-03-08 05:01:00",
       "album": {
         "name": "While The Record Spins",
@@ -2087,34 +2087,18 @@
     {
       "added_at": "2024-05-03 04:00:00",
       "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+        "name": "Lights Out",
+        "url": "https://open.spotify.com/album/3J3PqlFWWo5MN30DHPwOzB"
       },
       "artists": [
         {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
-    },
-    {
-      "added_at": "2024-04-05 04:00:00",
-      "album": {
-        "name": "The Weekend / Control the Media",
-        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
-      },
-      "artists": [
-        {
-          "name": "Anti Up",
-          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
-        }
-      ],
-      "duration_ms": 178921,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+      "duration_ms": 218437,
+      "name": "Lights Out",
+      "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2135,6 +2119,42 @@
       "duration_ms": 180937,
       "name": "To The Club",
       "url": "https://open.spotify.com/track/08owNR8LaRREKGk40OFX8r"
+    },
+    {
+      "added_at": "2024-04-05 04:00:00",
+      "album": {
+        "name": "The Weekend / Control the Media",
+        "url": "https://open.spotify.com/album/3Xc6RzQVgNWt6LrQr4nwdI"
+      },
+      "artists": [
+        {
+          "name": "Anti Up",
+          "url": "https://open.spotify.com/artist/4UwR1ir6PovnQiwX5jRPvF"
+        }
+      ],
+      "duration_ms": 178921,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/1KEs5gnaNl40iM9Ytmq1DD"
+    },
+    {
+      "added_at": "2024-03-15 04:00:00",
+      "album": {
+        "name": "Tarantula (Max Styler Remix)",
+        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
+      },
+      "artists": [
+        {
+          "name": "Pleasurekraft",
+          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
+        },
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        }
+      ],
+      "duration_ms": 201243,
+      "name": "Tarantula - Max Styler Remix",
+      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
     },
     {
       "added_at": "2024-04-26 04:01:00",
@@ -2161,26 +2181,6 @@
       "url": "https://open.spotify.com/track/67lB1vjJCFRmf9vNGWXSeg"
     },
     {
-      "added_at": "2024-03-15 04:00:00",
-      "album": {
-        "name": "Tarantula (Max Styler Remix)",
-        "url": "https://open.spotify.com/album/7DQVlvH1zjJBYzQXmNBPQ1"
-      },
-      "artists": [
-        {
-          "name": "Pleasurekraft",
-          "url": "https://open.spotify.com/artist/4ipS3ZbqP46bs124yqp9N4"
-        },
-        {
-          "name": "Max Styler",
-          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
-        }
-      ],
-      "duration_ms": 201243,
-      "name": "Tarantula - Max Styler Remix",
-      "url": "https://open.spotify.com/track/4WAKHKHloHdmPPfxgW8HAn"
-    },
-    {
       "added_at": "2024-10-25 04:00:00",
       "album": {
         "name": "Beverly Hills",
@@ -2201,6 +2201,22 @@
       "url": "https://open.spotify.com/track/15Jgh2GMdF8drWFhIiglfa"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Selecta",
+        "url": "https://open.spotify.com/album/1glLviwbudeceDBqxQKzdz"
+      },
+      "artists": [
+        {
+          "name": "Trace",
+          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
+        }
+      ],
+      "duration_ms": 155156,
+      "name": "Selecta",
+      "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "When The Bass Kicks In",
@@ -2219,22 +2235,6 @@
       "duration_ms": 193139,
       "name": "When The Bass Kicks In",
       "url": "https://open.spotify.com/track/6EqG8uTBfi0hsQow3KYO8N"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Selecta",
-        "url": "https://open.spotify.com/album/1glLviwbudeceDBqxQKzdz"
-      },
-      "artists": [
-        {
-          "name": "Trace",
-          "url": "https://open.spotify.com/artist/4T0QPJFV83O1j9w8y5apQX"
-        }
-      ],
-      "duration_ms": 155156,
-      "name": "Selecta",
-      "url": "https://open.spotify.com/track/6uH0UV20T1Ba38BJgcAjbL"
     },
     {
       "added_at": "2023-10-27 04:01:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Guè, Baby Gang, Sayf, Rondo e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,131 likes - 71 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,137 likes - 71 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@
 
 > Mielenkiintoisimmat biisit ensisoitossa\. 💎 Kannessa NEEA RIVER.
 
-729 songs - 1 day 12 hr 14 min
+730 songs - 1 day 12 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,6 +380,7 @@
 | [Maailman ainoo](https://open.spotify.com/track/2FO53dXqhiJ6pvh0xndSVl) | [Alina Burnet](https://open.spotify.com/artist/6pBVcV1vX0IUU9Rr1xtB2J) | [Maailman ainoo](https://open.spotify.com/album/4fnhF8aDf8N70tSdJmHooq) | 2:47 | 2024-08-08 | 2024-08-23 |
 | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/track/492nM6hzlMzbbbu4vE93bb) | [Aatulove](https://open.spotify.com/artist/68tgBoDueRzHJqVOHYSGVm), [ELLIMEI](https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra) | [Maailman kaunein laulu \(feat\. ELLIMEI\)](https://open.spotify.com/album/0RvRU3Y5vPTHuEIb2GIHkl) | 3:39 | 2024-10-10 | 2024-10-18 |
 | [Made It Awkward](https://open.spotify.com/track/5sxkUsaMJt4uixloBnMTSM) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Made It Awkward](https://open.spotify.com/album/7LHaPrkGIBH8oo6u0b6O0J) | 3:04 | 2024-11-21 | 2024-11-29 |
+| [Made Of](https://open.spotify.com/track/4xlcLdfBSMO56LEbhfbVtx) | [Goldielocks](https://open.spotify.com/artist/5v1NrlZC6GuQq2Ci8H1A59) | [Made Of](https://open.spotify.com/album/3qrzLXpKrkxYvdS5oDfpDV) | 3:01 | 2025-01-15 |  |
 | [Madonna](https://open.spotify.com/track/0xiu17S2aub8gvlPCfSJ9x) | [Maxin](https://open.spotify.com/artist/3rYG05hlpuT7IK1Qwqy7s9) | [Madonna](https://open.spotify.com/album/1YbhCspxEdKqH1PrnuYfgd) | 2:27 | 2024-09-05 | 2024-09-13 |
 | [Makaveli](https://open.spotify.com/track/7IJgJoEffBKC2h4RBhejm3) | [Shakkii](https://open.spotify.com/artist/4KuEJiNFPf7C6bAAl6G49T), [Gettomasa](https://open.spotify.com/artist/5sDIQrB2V7pRAdNM8dEc7g) | [Makaveli](https://open.spotify.com/album/7kJfXEZquDpzjNcmN5MX33) | 2:36 | 2024-09-26 | 2024-10-04 |
 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \- Deluxe](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 | 2024-08-15 | 2024-10-04 |
@@ -605,7 +606,7 @@
 | [Sussa kii](https://open.spotify.com/track/3pmtaigyWRLiGB88pCS1ji) | [PETRELL](https://open.spotify.com/artist/0AaCEhTBpPWnfVNK4kLiYS), [Päkä](https://open.spotify.com/artist/4xrzA9GQLSSuQ9fKqHd0SE) | [Sussa kii](https://open.spotify.com/album/10Wq75HmgVhja4QglEx8Gm) | 2:45 | 2024-08-01 | 2024-08-16 |
 | [Sut](https://open.spotify.com/track/0tf1KvEZyNBh7P84KVIcV2) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [houseparty](https://open.spotify.com/album/0wA2eLyY8Y3S8eR65lkK15) | 2:52 | 2024-11-28 | 2024-12-06 |
 | [Suutele mun silmii](https://open.spotify.com/track/5HOb0pplKABfRqQc2RyPdR) | [BESS](https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw) | [Suutele mun silmii](https://open.spotify.com/album/7EXuqXgy9fDCUAS2aHVVdr) | 2:25 | 2025-01-02 |  |
-| [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-17 |  |
+| [Sweet Delusion](https://open.spotify.com/track/7gioCtrhV0sSWw9EHipt9h) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Sweet Delusion](https://open.spotify.com/album/69voT9oEaLrFUzfJGUMwLZ) | 2:52 | 2024-10-17 | 2025-01-16 |
 | [Sydän jää](https://open.spotify.com/track/4NCzngmY9wuWRbf0QF2IWd) | [Vepu](https://open.spotify.com/artist/2qwH6XfqxzOUiVTC3IXOom) | [Sydän jää](https://open.spotify.com/album/4d1Icw9EaPTDtOLXqoC8w8) | 3:13 | 2024-12-05 | 2024-12-13 |
 | [Sympathy is a knife featuring ariana grande](https://open.spotify.com/track/3nQ24dxqvxZEVwlHTeuLz0) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5), [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [Brat and it’s completely different but also still brat](https://open.spotify.com/album/36P07bti6xD99o7S1acmin) | 2:34 | 2024-10-10 |  |
 | [Synnytty saunomaan](https://open.spotify.com/track/6rtBssnmtGi5ZaZxQLicU1) | [Olli Halonen](https://open.spotify.com/artist/60Y18YWbhlUOQZZHYih2ts) | [Synnytty saunomaan](https://open.spotify.com/album/2OkjxObzS1eCU44DHAxQjK) | 2:39 | 2024-07-02 | 2024-07-05 |

@@ -38,7 +38,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 194656,
       "name": "A Whole New World",
       "url": "https://open.spotify.com/track/3C0J3jSO1dlEYdUrMPhGH9"
@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "Disney Orgel/Oyasumi BGM Vol. 2",
+        "url": "https://open.spotify.com/album/0iswLGj4W2QE1ou9vK7Mqn"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307903,
+      "name": "Friend Like Me - Orgel Version",
+      "url": "https://open.spotify.com/track/0ennZs5RBFdSoXSgWhjvUh"
+    },
+    {
+      "album": {
         "name": "Children's Favorites, Vol. 1",
         "url": "https://open.spotify.com/album/3g7DIUCn8PnLI882pimI81"
       },
@@ -452,7 +470,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 179042,
       "name": "Grim Grinning Ghosts",
       "url": "https://open.spotify.com/track/1OsxTNbKvrdaXjmoGmltiP"
@@ -608,7 +626,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 106473,
       "name": "I Can't Let You Throw Yourself Away",
       "url": "https://open.spotify.com/track/1smBNxMxvU7BuM3p9XjrIV"
@@ -630,7 +648,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 222120,
       "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/1yh793k8lDYfXv3DhHaIXC"
@@ -652,7 +670,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 224240,
       "name": "I See the Light - From \"Tangled\" / Soundtrack Version",
       "url": "https://open.spotify.com/track/6klpXs2uAjagnZMFkt4qkl"
@@ -904,7 +922,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 239494,
       "name": "Little Wonders",
       "url": "https://open.spotify.com/track/16w4ZAadAqqDIPTsxhO6kP"
@@ -1306,7 +1324,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 138373,
       "name": "Sleep, Little Child",
       "url": "https://open.spotify.com/track/4kwK5Bf7ZCFiovd8IBMMaR"
@@ -1324,7 +1342,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 149633,
       "name": "So Close",
       "url": "https://open.spotify.com/track/78AXcNfPl3rdNF1jZFW8W4"
@@ -1444,7 +1462,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 178965,
       "name": "The Mandalorian",
       "url": "https://open.spotify.com/track/2ssUiGGkRHrK1alQ5jtlSz"
@@ -1520,10 +1538,28 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 216046,
       "name": "This Wish",
       "url": "https://open.spotify.com/track/0SPQCd6HwTZpccRVexR229"
+    },
+    {
+      "album": {
+        "name": "Disney Orgel/Oyasumi BGM Vol. 2",
+        "url": "https://open.spotify.com/album/0iswLGj4W2QE1ou9vK7Mqn"
+      },
+      "artists": [
+        {
+          "name": "Disney Orgel",
+          "url": "https://open.spotify.com/artist/2NiGKii6cldvRKyHjVxRH8"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296055,
+      "name": "This Wish - Orgel Version",
+      "url": "https://open.spotify.com/track/7rxTDN1TVl1mqxhBTPLqkH"
     },
     {
       "album": {
@@ -1702,7 +1738,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 230680,
       "name": "When Can I See You Again?",
       "url": "https://open.spotify.com/track/0cA4MGnpNpjw03PANVR1nR"
@@ -1990,7 +2026,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-06-14",
+      "date_removed": null,
       "duration_ms": 262160,
       "name": "Your Heart Will Lead You Home - From \"The Tigger Movie\"",
       "url": "https://open.spotify.com/track/3mmD4IFxtrn5elQzD6uXw8"
@@ -2008,7 +2044,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 262160,
       "name": "Your Heart Will Lead You Home - From \"The Tigger Movie\"",
       "url": "https://open.spotify.com/track/755iYTcbFj5H7XDXBCyaGe"

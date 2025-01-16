@@ -1,6 +1,6 @@
 {
   "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
-  "num_followers": 218012,
+  "num_followers": 218124,
   "original_name": "Dancing Kizomba",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-01-10 00:00:24",
       "album": {
+        "name": "Akanadja",
+        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
+      },
+      "artists": [
+        {
+          "name": "Neyna",
+          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
+        }
+      ],
+      "duration_ms": 182023,
+      "name": "Akanadja",
+      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
         "name": "Viagem",
         "url": "https://open.spotify.com/album/1kvWCOAFrsGVljCwx5uXPO"
       },
@@ -719,22 +735,6 @@
       "duration_ms": 237341,
       "name": "Viagem",
       "url": "https://open.spotify.com/track/6IhsfuAwE81uKkeJnzAW2a"
-    },
-    {
-      "added_at": "2025-01-10 00:00:24",
-      "album": {
-        "name": "Akanadja",
-        "url": "https://open.spotify.com/album/2bvvjR9iZN9jo4qugFZnON"
-      },
-      "artists": [
-        {
-          "name": "Neyna",
-          "url": "https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7"
-        }
-      ],
-      "duration_ms": 182023,
-      "name": "Akanadja",
-      "url": "https://open.spotify.com/track/5YFM2pnhKvoBUPOlBkCXrV"
     },
     {
       "added_at": "2025-01-10 00:00:24",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-01-10 00:00:24",
       "album": {
+        "name": "Longe de Ti",
+        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
+      },
+      "artists": [
+        {
+          "name": "Jay Oliver",
+          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Voc\u00ea Me Kuia",
+      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
         "name": "Fica longi bo",
         "url": "https://open.spotify.com/album/4aWV8TxkTIf0FItHx20cOc"
       },
@@ -1003,22 +1019,6 @@
     {
       "added_at": "2025-01-10 00:00:24",
       "album": {
-        "name": "Longe de Ti",
-        "url": "https://open.spotify.com/album/03wfykCwviZBpxcxcBEaN1"
-      },
-      "artists": [
-        {
-          "name": "Jay Oliver",
-          "url": "https://open.spotify.com/artist/19ynMaKoJYvOhZATkHYt3X"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Voc\u00ea Me Kuia",
-      "url": "https://open.spotify.com/track/4gvDUHpTEiVHhDeeobenz4"
-    },
-    {
-      "added_at": "2025-01-10 00:00:24",
-      "album": {
         "name": "Voc\u00ea Prometeu",
         "url": "https://open.spotify.com/album/5nS7Ja5m7XfBnT7FIlM02F"
       },
@@ -1031,6 +1031,22 @@
       "duration_ms": 193043,
       "name": "Voc\u00ea Prometeu",
       "url": "https://open.spotify.com/track/5pBB81JzrfWe7Egt34pF59"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
+        "name": "Fica Comigo",
+        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 202113,
+      "name": "Fica Comigo",
+      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
     },
     {
       "added_at": "2025-01-10 00:00:24",
@@ -1051,22 +1067,6 @@
       "duration_ms": 202032,
       "name": "Monarquia",
       "url": "https://open.spotify.com/track/2jGlCW68RFTCgFKI6dydPR"
-    },
-    {
-      "added_at": "2025-01-10 00:00:24",
-      "album": {
-        "name": "Fica Comigo",
-        "url": "https://open.spotify.com/album/7cg4MQKXsUNxQakPQVuZYE"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 202113,
-      "name": "Fica Comigo",
-      "url": "https://open.spotify.com/track/01qO8ZCxyp07BHfsigcI5P"
     },
     {
       "added_at": "2025-01-10 00:00:24",
@@ -1159,6 +1159,58 @@
     {
       "added_at": "2025-01-10 00:00:24",
       "album": {
+        "name": "Au revoir",
+        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 234226,
+      "name": "Au revoir",
+      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
+        "name": "Te Amo Tanto",
+        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 182608,
+      "name": "Te Amo Tanto",
+      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
+        "name": "Mininu Di Oru",
+        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
+      },
+      "artists": [
+        {
+          "name": "Djodje",
+          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
+        },
+        {
+          "name": "SYRO",
+          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
+        }
+      ],
+      "duration_ms": 205996,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
         "name": "Vai Por Mim",
         "url": "https://open.spotify.com/album/267rz7fvTcr7yo7hKFIArq"
       },
@@ -1191,58 +1243,6 @@
       "duration_ms": 224256,
       "name": "Vai Por Mim",
       "url": "https://open.spotify.com/track/4iVckCZapMMHjbaJFyNxRz"
-    },
-    {
-      "added_at": "2025-01-10 00:00:24",
-      "album": {
-        "name": "Au revoir",
-        "url": "https://open.spotify.com/album/0FeMKRGs3x5kA5s0ZwZYu2"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 234226,
-      "name": "Au revoir",
-      "url": "https://open.spotify.com/track/4oMjvchKYV7mlrxJ50byCe"
-    },
-    {
-      "added_at": "2025-01-10 00:00:24",
-      "album": {
-        "name": "Mininu Di Oru",
-        "url": "https://open.spotify.com/album/5nuvoFFCWhSMnZPEs7v0nu"
-      },
-      "artists": [
-        {
-          "name": "Djodje",
-          "url": "https://open.spotify.com/artist/62huveC2Mmi9nfW0ySqNwo"
-        },
-        {
-          "name": "SYRO",
-          "url": "https://open.spotify.com/artist/55axQKUUXr8LoUcKagMp5x"
-        }
-      ],
-      "duration_ms": 205996,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/2xJCPy4Cr88de0LCSIB2d2"
-    },
-    {
-      "added_at": "2025-01-10 00:00:24",
-      "album": {
-        "name": "Te Amo Tanto",
-        "url": "https://open.spotify.com/album/4dixo3rNF8P3i0IazGXqFj"
-      },
-      "artists": [
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 182608,
-      "name": "Te Amo Tanto",
-      "url": "https://open.spotify.com/track/3syibMhmDhttEP0TMH6cBd"
     },
     {
       "added_at": "2025-01-10 00:00:24",
@@ -1567,26 +1567,6 @@
     {
       "added_at": "2025-01-10 00:00:24",
       "album": {
-        "name": "J\u00e1 Deu",
-        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
-      },
-      "artists": [
-        {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        },
-        {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
-        }
-      ],
-      "duration_ms": 227685,
-      "name": "J\u00e1 Deu",
-      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
-    },
-    {
-      "added_at": "2025-01-10 00:00:24",
-      "album": {
         "name": "\u00danica",
         "url": "https://open.spotify.com/album/56u0Dym6F9KI78VjvF1yMQ"
       },
@@ -1603,6 +1583,26 @@
       "duration_ms": 234666,
       "name": "\u00danica",
       "url": "https://open.spotify.com/track/0hvNYD0sn7lzyswT2t08nm"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
+        "name": "J\u00e1 Deu",
+        "url": "https://open.spotify.com/album/4rgy3MldlssfZpgzOFCq8G"
+      },
+      "artists": [
+        {
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        },
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 227685,
+      "name": "J\u00e1 Deu",
+      "url": "https://open.spotify.com/track/4eo1CxcskGhl9oZmuUBHOK"
     },
     {
       "added_at": "2025-01-10 00:00:24",
@@ -1647,22 +1647,6 @@
     {
       "added_at": "2025-01-10 00:00:24",
       "album": {
-        "name": "Mika Mendes",
-        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
-      },
-      "artists": [
-        {
-          "name": "Mika Mendes",
-          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
-        }
-      ],
-      "duration_ms": 283973,
-      "name": "Criola",
-      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
-    },
-    {
-      "added_at": "2025-01-10 00:00:24",
-      "album": {
         "name": "N\u00e3o Me Importa",
         "url": "https://open.spotify.com/album/2TNkYEnb4blSgibisFfSUE"
       },
@@ -1683,22 +1667,18 @@
     {
       "added_at": "2025-01-10 00:00:24",
       "album": {
-        "name": "Cura",
-        "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
+        "name": "Mika Mendes",
+        "url": "https://open.spotify.com/album/7eJwbjpb27cnOxjH5vXr5q"
       },
       "artists": [
         {
-          "name": "Josslyn",
-          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
-        },
-        {
-          "name": "Dynamo",
-          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
+          "name": "Mika Mendes",
+          "url": "https://open.spotify.com/artist/1oxDq8JrrBTX5Jnb7ftH1w"
         }
       ],
-      "duration_ms": 217754,
-      "name": "Cura",
-      "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
+      "duration_ms": 283973,
+      "name": "Criola",
+      "url": "https://open.spotify.com/track/2Huk69nfKmAqeN4m2S7Ybj"
     },
     {
       "added_at": "2025-01-10 00:00:24",
@@ -1715,6 +1695,22 @@
       "duration_ms": 214512,
       "name": "Je T\u2019Aime",
       "url": "https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
+        "name": "Consagra\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
+      },
+      "artists": [
+        {
+          "name": "Rui Orlando",
+          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+        }
+      ],
+      "duration_ms": 188813,
+      "name": "O Que Eu N\u00e3o Fiz",
+      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
     },
     {
       "added_at": "2025-01-10 00:00:24",
@@ -1739,18 +1735,22 @@
     {
       "added_at": "2025-01-10 00:00:24",
       "album": {
-        "name": "Consagra\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/7MgCW29Wi7m2YdY6Q8sC9V"
+        "name": "Cura",
+        "url": "https://open.spotify.com/album/2OnIj9WrPNoetyHNbGwgpX"
       },
       "artists": [
         {
-          "name": "Rui Orlando",
-          "url": "https://open.spotify.com/artist/1g00QP1vSwdi3mnn0PmzPa"
+          "name": "Josslyn",
+          "url": "https://open.spotify.com/artist/7DaYWbVfmn3AtcUJua9yYF"
+        },
+        {
+          "name": "Dynamo",
+          "url": "https://open.spotify.com/artist/6QIDj58kioY2urnpvAttwi"
         }
       ],
-      "duration_ms": 188813,
-      "name": "O Que Eu N\u00e3o Fiz",
-      "url": "https://open.spotify.com/track/4Xb0nnx2DynCIX0CQzDbyy"
+      "duration_ms": 217754,
+      "name": "Cura",
+      "url": "https://open.spotify.com/track/5GlPkahjTM2G5PdiN3eQhG"
     },
     {
       "added_at": "2025-01-10 00:00:24",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2025-01-10 00:00:24",
       "album": {
-        "name": "Mais Nada",
-        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
-      },
-      "artists": [
-        {
-          "name": "Cubita",
-          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
-        }
-      ],
-      "duration_ms": 176770,
-      "name": "Mais Nada",
-      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
-    },
-    {
-      "added_at": "2025-01-10 00:00:24",
-      "album": {
         "name": "Vis\u00e3o",
         "url": "https://open.spotify.com/album/5xiIvycERRfpQd1P3bGN9d"
       },
@@ -1855,6 +1839,22 @@
       "duration_ms": 214353,
       "name": "Apaixonado",
       "url": "https://open.spotify.com/track/0YOLLYNnFbOz0xagmru0SD"
+    },
+    {
+      "added_at": "2025-01-10 00:00:24",
+      "album": {
+        "name": "Mais Nada",
+        "url": "https://open.spotify.com/album/4qUns8RK2Sjqz9lHKCbPhT"
+      },
+      "artists": [
+        {
+          "name": "Cubita",
+          "url": "https://open.spotify.com/artist/22uy6DyvpF9Vt2PMWSm5di"
+        }
+      ],
+      "duration_ms": 176770,
+      "name": "Mais Nada",
+      "url": "https://open.spotify.com/track/2DDBR1QD9d9Qjg0a1hwOAJ"
     },
     {
       "added_at": "2025-01-10 00:00:24",

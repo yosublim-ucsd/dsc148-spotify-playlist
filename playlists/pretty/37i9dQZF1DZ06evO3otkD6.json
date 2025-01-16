@@ -1,12 +1,12 @@
 {
   "description": "This is Belinda. The essential tracks, all in one playlist.",
-  "num_followers": 72212,
+  "num_followers": 72226,
   "original_name": "This Is Belinda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAAAlAJvtAlcfx1uv0F7Uk3J0",
+  "snapshot_id": "Z4WpAAAAAAAHhJU5ocb7DzM0d0PwJ9ve",
   "tracks": [
     {
       "added_at": null,
@@ -671,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 184000,
+      "name": "Vivir - Any Better",
+      "url": "https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Un Traguito",
         "url": "https://open.spotify.com/album/1OfaHu7z6jOeVkoZsEVl0H"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 184185,
       "name": "Un Traguito",
       "url": "https://open.spotify.com/track/5OSrMt5y9dExB2J5vMdTVk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Belinda",
-        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 184000,
-      "name": "Vivir - Any Better",
-      "url": "https://open.spotify.com/track/4iygID6PWnRGNk9pqBpHE6"
     },
     {
       "added_at": null,
@@ -1075,22 +1075,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Silvana - C\u00f3mplices Al Rescate",
-        "url": "https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc"
-      },
-      "artists": [
-        {
-          "name": "Belinda",
-          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
-        }
-      ],
-      "duration_ms": 193213,
-      "name": "Donde Est\u00e1 el Amor",
-      "url": "https://open.spotify.com/track/2zgqg6VP23XElZosH6f87V"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Utopia 2",
         "url": "https://open.spotify.com/album/754HGsnSRfpBSiDmUNii1k"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 244600,
       "name": "No Entiendo - I Don't Understand You",
       "url": "https://open.spotify.com/track/1Rf4xWEQqgkB0pcUkKr8JK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Silvana - C\u00f3mplices Al Rescate",
+        "url": "https://open.spotify.com/album/7Mn2dBHL97jRe7zyuAXcgc"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        }
+      ],
+      "duration_ms": 193213,
+      "name": "Donde Est\u00e1 el Amor",
+      "url": "https://open.spotify.com/track/2zgqg6VP23XElZosH6f87V"
     },
     {
       "added_at": null,
@@ -1171,22 +1171,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Madrid X Marbella",
-        "url": "https://open.spotify.com/album/2coM4rvjL0SLDKoCwjtu8y"
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/572O2aMDzsHhr48257pOZM"
       },
       "artists": [
-        {
-          "name": "Juan Mag\u00e1n",
-          "url": "https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51"
-        },
         {
           "name": "Belinda",
           "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
         }
       ],
-      "duration_ms": 194576,
-      "name": "Madrid X Marbella",
-      "url": "https://open.spotify.com/track/3DiE3kg9WyLw0s8Sa7aTPE"
+      "duration_ms": 213760,
+      "name": "Be Free",
+      "url": "https://open.spotify.com/track/3vm7gmgWsXY2e6UsVwSbZh"
     }
   ],
   "unique_name": "This Is Belinda",

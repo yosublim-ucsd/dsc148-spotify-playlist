@@ -1527,7 +1527,7 @@
       "artists": [
         {
           "name": "ALKALOID",
-          "url": "https://open.spotify.com/artist/7G3q9XMPPbhYYvszkrLqwF"
+          "url": "https://open.spotify.com/artist/1gbL5yRuV5ygOEe5wVBkdK"
         }
       ],
       "date_added": "2024-07-12",
@@ -1827,6 +1827,24 @@
     },
     {
       "album": {
+        "name": "\u3042\u3093\u3055\u3093\u3076\u308b\u30b9\u30bf\u30fc\u30ba\uff01\uff01 \u30e6\u30cb\u30c3\u30c8\u30bd\u30f3\u30b0CD ALKALOID",
+        "url": "https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L"
+      },
+      "artists": [
+        {
+          "name": "ALKALOID/\u5929\u57ce \u4e00\u5f69(CV.\u68b6\u539f \u5cb3\u4eba)\u3001\u767d\u9ce5 \u85cd\u826f(CV.\u5929\ufa11 \u6ec9\u5e73)\u3001\u793c\u702c \u30de\u30e8\u30a4(CV.\u91cd\u677e \u5343\u6674)\u3001\u98a8\u65e9 \u5dfd(CV.\u4e2d\u6fa4 \u307e\u3055\u3068\u3082)",
+          "url": "https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221040,
+      "name": "You're Speculation",
+      "url": "https://open.spotify.com/track/5Rp7oI0yJU9tI7hXurrtSV"
+    },
+    {
+      "album": {
         "name": "\u3057\u3087\u30fc\u304c\u3044\u30bc\u30c3\u30bf\u30a4\u305d\u30fc\u3042\u3044\u5ba3\u8a00\u2665",
         "url": "https://open.spotify.com/album/6U9eFKCOMs0AiLPxgVReJl"
       },
@@ -2088,7 +2106,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 285826,
       "name": "\u4e21\u7247\u601d\u3044\u306e\u4ea4\u5dee\u70b9\u3067\u3001\u541b\u306b\u307e\u305f\u9022\u3044\u305f\u304f\u3066",
       "url": "https://open.spotify.com/track/0p7fyMUz5BmL4ius62CTyT"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『NMIXX FAN CONCERT "NMIXX CHANGE UP : MIXX LAB in TOKYO』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,598 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,619 likes - 20 songs - 1 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 
 ### [Trending Now](https://open.spotify.com/playlist/1pMB5VwjH6fzf8ldHch1IG)
 
-> Stream your favourite trending tracks and discover new jams along the way! Cover: LISA.
+> Stream your favourite trending tracks and discover new jams along the way! Cover: SZA.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,154 likes - 60 songs - 2 hr 54 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 45,150 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/1pMB5VwjH6fzf8ldHch1IG.md) - [plain]
 | 59 | [Neon Moon \(with Morgan Wallen\)](https://open.spotify.com/track/3lqRhP47Pi5OuWGWlW1N72) | [Brooks & Dunn](https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz), [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [Reboot II](https://open.spotify.com/album/1nt0BAJMDSGQvmZbq0xhoI) | 4:11 |
 | 60 | [One By One](https://open.spotify.com/track/3desWYUkTBp3imvV6VkdXx) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [One By One](https://open.spotify.com/album/4MCfG6iC1dGk3ZghC5op0K) | 2:59 |
 
-Snapshot ID: `AABIpTautrXiU7T8Bv75B9md1uvuLCiN`
+Snapshot ID: `AABIpprrKqUdta3nd5SLr8qOPZJRMHNO`

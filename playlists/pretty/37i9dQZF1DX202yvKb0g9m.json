@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 131398,
+  "num_followers": 131456,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "Frequencies",
+        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
+      },
+      "artists": [
+        {
+          "name": "LFO",
+          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
+        }
+      ],
+      "duration_ms": 207960,
+      "name": "LFO - Leeds Warehouse Mix",
+      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Winona",
         "url": "https://open.spotify.com/album/4CTSfWR9lI775WYMCU77BK"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 259026,
       "name": "I Love Acid",
       "url": "https://open.spotify.com/track/1LQmyPcWxfN7yih7FYUNXe"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "Frequencies",
-        "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
-      },
-      "artists": [
-        {
-          "name": "LFO",
-          "url": "https://open.spotify.com/artist/2M0T4a1pkOC5nifN9W6e9e"
-        }
-      ],
-      "duration_ms": 207960,
-      "name": "LFO - Leeds Warehouse Mix",
-      "url": "https://open.spotify.com/track/1ENkpHz1LU2JlH0g3HnO2W"
     },
     {
       "added_at": "2024-07-10 08:16:23",

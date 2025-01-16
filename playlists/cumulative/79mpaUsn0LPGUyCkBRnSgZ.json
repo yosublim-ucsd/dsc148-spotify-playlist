@@ -3809,6 +3809,24 @@
     },
     {
       "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 308880,
+      "name": "Drowned World / Substitute for Love",
+      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
+    },
+    {
+      "album": {
         "name": "10,000 gecs",
         "url": "https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ"
       },
@@ -5270,6 +5288,24 @@
       "duration_ms": 194853,
       "name": "Heart It Races",
       "url": "https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k"
+    },
+    {
+      "album": {
+        "name": "Visions Of A Life",
+        "url": "https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295013,
+      "name": "Heavenward",
+      "url": "https://open.spotify.com/track/5LXg8cfq5hyegv2AwFlkV7"
     },
     {
       "album": {
@@ -12752,6 +12788,24 @@
       "duration_ms": 372760,
       "name": "The Robots - 2009 Remaster",
       "url": "https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7"
+    },
+    {
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "The Rolling Stones",
+      "url": "https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > ¡Los éxitos de banda que necesitas! Edgardo Nuñez en portada.
 
-442 songs - 23 hr 25 min
+443 songs - 23 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -149,6 +149,7 @@
 | [El Rogón](https://open.spotify.com/track/3RBeE3VtrTXxGILHzdlxSe) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk) | [El Rogón](https://open.spotify.com/album/4z8VsTXlpgRpqLCucPhGlD) | 2:41 | 2023-12-15 | 2024-03-23 |
 | [El Tequila Y Yo \(En Vivo\)](https://open.spotify.com/track/47AyZg5XdngkmU76H3jNPd) | [Luis Alfonso Partida El Yaki](https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk), [Somos 3](https://open.spotify.com/artist/25jjzq2pqzAFzK8jTXGgc6) | [Yakifest Vol\. 4 \(En Vivo\)](https://open.spotify.com/album/5drr9SdjGfNOaaoEyagULD) | 3:14 | 2022-07-01 | 2022-07-21 |
 | [El Tóxico](https://open.spotify.com/track/7E9GeFGfjXw9LAI4ay6rsw) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [El Tóxico](https://open.spotify.com/album/0FbcuKOFPTtZgqAucm31iG) | 2:59 | 2022-01-28 | 2024-09-01 |
+| [El Vaso Derrama \- En Vivo](https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Puros Exitos Con Banda \(En Vivo\)](https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3) | 3:54 | 2025-01-10 |  |
 | [El Viejo Joven](https://open.spotify.com/track/1sf4ZX186z4T7NsBXXkD7e) | [Leonardo Aguilar](https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq) | [El Viejo Joven](https://open.spotify.com/album/25a7zGKPGfRoq2qxFpTGaq) | 2:37 | 2023-12-15 | 2024-11-16 |
 | [Ella No Quiero Bato](https://open.spotify.com/track/1KU0kkUgIgLn8Azh1dw9mi) | [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Ella No Quiere Bato](https://open.spotify.com/album/2E02rxQHMEMZvnpaC6y3Iu) | 2:27 | 2023-09-08 | 2023-09-23 |
 | [En Tu Perra Vida](https://open.spotify.com/track/0ldT3gl7aGNzrJyd4b1CA4) | [Grupo Firme](https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS), [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [En Tu Perra Vida](https://open.spotify.com/album/754Bhr4Ck2WcFAvHWlykmp) | 3:58 | 2022-01-28 | 2024-07-14 |
@@ -341,7 +342,7 @@
 | [Rápido y Furioso L.A](https://open.spotify.com/track/5o01yiZIoCJf84D3s1Mhva) | [Jesús Mendoza](https://open.spotify.com/artist/0Yz6o9CplQwzJgEiJuVY8W), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Rápido y Furioso L.A](https://open.spotify.com/album/2s9VERJvtoIirWRavKDGea) | 3:00 | 2022-09-23 | 2022-10-25 |
 | [S Cool...ito](https://open.spotify.com/track/5Ru0MfnGGTxpSsLLLpG4mR) | [Banda Los Recoditos](https://open.spotify.com/artist/4bPiOPI4V99cepEftvBYak) | [S Cool...ito](https://open.spotify.com/album/4w8BHpxUYiFrMnwlCyk6L1) | 2:28 | 2024-06-07 |  |
 | [Sabor a Michelada](https://open.spotify.com/track/1sAl1GcuDozSu5kDjYN5s5) | [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [Sabor a Michelada](https://open.spotify.com/album/25TtNlte9TiCowPZnoUO76) | 2:12 | 2024-03-22 | 2024-11-30 |
-| [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 | 2022-06-17 |  |
+| [Salud Por Eso](https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k) | [Nathan Galante](https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB), [Horacio Palencia](https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2), [Esencia Noble](https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr) | [Salud Por Eso](https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR) | 2:59 | 2022-06-17 | 2025-01-16 |
 | [Se Cansó \- En Vivo](https://open.spotify.com/track/7I3u4wFME9L4Wbva3coJHA) | [Edgardo Nuñez](https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv) | [Se Cansó \(En Vivo\)](https://open.spotify.com/album/0DU8thSB2OYqVcDGWVBNgM) | 3:14 | 2024-09-20 |  |
 | [Se Dice Facil](https://open.spotify.com/track/4fAKEzSjHCMWtlujiK9t0U) | [Angélica Gallegos](https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb), [La Septima Banda](https://open.spotify.com/artist/610tJqABwgZWaRvtJoJQF0) | [Se Dice Facil](https://open.spotify.com/album/55Q2NhOeB74KHi5TPsvJMm) | 2:35 | 2024-04-12 | 2024-06-29 |
 | [Se Está Muriendo Un Corazón](https://open.spotify.com/track/5RkyCt22Kbd556yez5oTef) | [Banda Carnaval](https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj) | [Se Está Muriendo Un Corazón](https://open.spotify.com/album/0K6ko9baEsc1aARyNPWoiR) | 2:58 | 2023-09-08 | 2023-10-18 |

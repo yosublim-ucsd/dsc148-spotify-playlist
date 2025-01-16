@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0J2sZQ1dV6f.md) - [plain]
 
 > Bien alucin con el electro, la nueva ola de la fiesta\. Cover: Grupo Marca Registrada, Luis Pablo Lopez, Mike Mejia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,967 likes - 96 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,211 likes - 96 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

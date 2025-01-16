@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125524,
+  "num_followers": 125516,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAThIjqk2mzpvVq0JZcbbOwGlDRECrK",
+  "snapshot_id": "AAAThfFvNk71Ub5v6H56ntaWK8KqaNLu",
   "tracks": [
+    {
+      "added_at": "2025-01-15 15:23:38",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        }
+      ],
+      "duration_ms": 181069,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2"
+    },
     {
       "added_at": "2025-01-14 15:42:36",
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: CLASS:y",
+  "description": "All your girl crushes(\uac78\ud06c\ub7ec\uc26c) in one place. Cover: Kim Wan-sun, SEULGI",
   "name": "Girl Krush",
   "tracks": [
     {
@@ -4096,7 +4096,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 156040,
       "name": "IZNA",
       "url": "https://open.spotify.com/track/1Lid3Sc6luHWuiauUM6Ckt"
@@ -4813,6 +4813,28 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/0n7QHDeVGKA3yelZgTE54U"
+      },
+      "artists": [
+        {
+          "name": "Kim Wan-sun",
+          "url": "https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/73Ag41hlRQlEj8wJloKccQ"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0rRyLHOtUa9NyHun1jansJ"
+    },
+    {
+      "album": {
         "name": "6equence",
         "url": "https://open.spotify.com/album/0SXzCRUFSNGBG1S1lqvzb1"
       },
@@ -5134,7 +5156,7 @@
       ],
       "date_added": "2020-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2022-04-19",
+      "date_removed": null,
       "duration_ms": 179808,
       "name": "Miniskirt",
       "url": "https://open.spotify.com/track/6Yj8kVuVR3UPxx9r5eFEoV"
@@ -6292,7 +6314,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 170800,
       "name": "Psycho and Beautiful",
       "url": "https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV"
@@ -6448,6 +6470,24 @@
       "duration_ms": 127813,
       "name": "Rap Queen",
       "url": "https://open.spotify.com/track/6STVMOIuRpzfuBmXxp2CEh"
+    },
+    {
+      "album": {
+        "name": "REBEL HEART",
+        "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188266,
+      "name": "REBEL HEART",
+      "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
     },
     {
       "album": {
@@ -7154,7 +7194,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 201200,
       "name": "Spark - WINTER Solo",
       "url": "https://open.spotify.com/track/2xoA126GEgFhrYzRaTH7E4"

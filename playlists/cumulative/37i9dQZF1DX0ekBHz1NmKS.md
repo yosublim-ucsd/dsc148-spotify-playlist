@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,713 songs - 3 day 16 hr 55 min
+1,714 songs - 3 day 16 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -483,7 +483,7 @@
 | [Fjäder](https://open.spotify.com/track/7z7EbUeXvStvBOLwoGfJOE) | [Metin](https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR), [Louis](https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ), [Xavs](https://open.spotify.com/artist/6cthS8RRByX6tvYcBZbYJD) | [Fjäder](https://open.spotify.com/album/75RFUt0lpPpplbQzdRfT7p) | 2:39 | 2024-08-22 | 2024-09-07 |
 | [Flame](https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Flame](https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o) | 2:53 | 2024-05-30 | 2024-06-28 |
 | [Flamma](https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ) | [Kayo](https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz) | [Flamma](https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS) | 3:15 | 2024-08-08 | 2024-09-08 |
-| [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 |  |
+| [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2025-01-16 |
 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-13 | 2023-06-10 |
 | [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 | 2023-06-08 | 2023-07-07 |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 | 2022-09-16 |
@@ -1479,6 +1479,7 @@
 | [The Closer I Get to You](https://open.spotify.com/track/6W6jIB4PuRCzDXUp8jqsFH) | [Ariel T](https://open.spotify.com/artist/1jV6ZVJ5WPoWiYZfOolQV6), [Jessica Curran](https://open.spotify.com/artist/35rx7faGtSDlHnEeUO1ROV) | [The Closer I Get to You](https://open.spotify.com/album/5bfes7y0TpA4doKDUnfK5G) | 3:39 | 2022-03-24 | 2022-04-01 |
 | [The Days](https://open.spotify.com/track/6PEk3WWhhxbQQwQVVbGB0f) | [Sandro Cavazza](https://open.spotify.com/artist/5JYo7gm2dkyLLlWHjxS7Dy) | [The Days](https://open.spotify.com/album/4dLgdo7d2lTiVnK4Fzk3Zu) | 2:36 | 2022-03-04 | 2022-09-16 |
 | [The End](https://open.spotify.com/track/7jsFdCtwoNACqBXBmcYglm) | [Angelino](https://open.spotify.com/artist/3PI9Zv8cDF0Fh0UlqohJir) | [The End](https://open.spotify.com/album/3NjjdMOVHXBu7IEG3jZ3AA) | 3:00 | 2022-03-03 | 2022-05-13 |
+| [The Haze](https://open.spotify.com/track/37iWjjq5SstMbdfTlK6pLN) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Quiet Rooms](https://open.spotify.com/album/4q6HhPuaXZYkgQsp4n91re) | 2:54 | 2025-01-09 |  |
 | [The Ick](https://open.spotify.com/track/4axK3wmqAS5kFlbFfxr4id) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [The Ick](https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN) | 2:38 | 2023-07-13 | 2023-11-17 |
 | [The One That Got Away](https://open.spotify.com/track/3N8oEZaFxE2DbASc7Wpw8t) | [Brandt](https://open.spotify.com/artist/6FShVH7NfiowNaNumqeBhZ) | [The One That Got Away](https://open.spotify.com/album/61rig1QszCo1eXuuej4aGD) | 2:40 | 2022-03-10 | 2022-05-08 |
 | [The only thing](https://open.spotify.com/track/3tIO6LF3bh2pRBAm4zSWE4) | [Jarn](https://open.spotify.com/artist/4J2RKCwmEVYJlkbZvKJgW9) | [The only thing](https://open.spotify.com/album/5QdGTPzyfzPaDcUUhWga78) | 3:17 | 2024-01-25 | 2024-02-23 |

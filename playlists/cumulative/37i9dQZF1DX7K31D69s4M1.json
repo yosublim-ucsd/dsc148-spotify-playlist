@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 126547,
       "name": "A Love Note",
       "url": "https://open.spotify.com/track/7qWt0c0tCp5lc97qAdtaFV"
@@ -7472,7 +7472,7 @@
       ],
       "date_added": "2023-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 128724,
       "name": "Evening Star",
       "url": "https://open.spotify.com/track/5HbLcDxxjtJ0800p6RjoeH"
@@ -13831,6 +13831,24 @@
     },
     {
       "album": {
+        "name": "Layers Of Light",
+        "url": "https://open.spotify.com/album/3lPXFEWzmRXlX1ma9A4CxY"
+      },
+      "artists": [
+        {
+          "name": "Martes Fiore",
+          "url": "https://open.spotify.com/artist/4iyGWBpdODMrJp3DRotA9W"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167624,
+      "name": "Layers Of Light",
+      "url": "https://open.spotify.com/track/3Snzei3n5BEaEcvL2o5EJU"
+    },
+    {
+      "album": {
         "name": "Le Castellet",
         "url": "https://open.spotify.com/album/6H1o0mpdYsQ4vICUjDTmvv"
       },
@@ -19913,6 +19931,24 @@
     },
     {
       "album": {
+        "name": "Passing Of Time",
+        "url": "https://open.spotify.com/album/5at2bS0pfI9s1aa59njzSL"
+      },
+      "artists": [
+        {
+          "name": "M\u00f3ret Labino",
+          "url": "https://open.spotify.com/artist/61wHphM5UzG9uBBXJ3aynP"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152318,
+      "name": "Passing Of Time",
+      "url": "https://open.spotify.com/track/06lKhfeuTUsYCAlY7RdvRO"
+    },
+    {
+      "album": {
         "name": "Past and Present",
         "url": "https://open.spotify.com/album/5yWWDZmbpkp0pEfogVEMp7"
       },
@@ -21890,7 +21926,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 187041,
       "name": "Returning Home",
       "url": "https://open.spotify.com/track/5KVFLNcGq5JH0TPfRLLmZZ"
@@ -30846,7 +30882,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 159000,
       "name": "With Ease",
       "url": "https://open.spotify.com/track/66nC6l1EsEIqarOvSwmotT"

@@ -1,6 +1,6 @@
 {
   "description": "O melhor do rock ac\u00fastico nacional e internacional para curtir e relaxar.",
-  "num_followers": 312194,
+  "num_followers": 312277,
   "original_name": "Rock Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Core (Super Deluxe Edition)",
-        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
-      },
-      "artists": [
-        {
-          "name": "Stone Temple Pilots",
-          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
-        }
-      ],
-      "duration_ms": 346973,
-      "name": "Plush - Live; MTV Unplugged, 11/17/93",
-      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Come What(ever) May [Special Edition]",
         "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 267253,
       "name": "Wicked Game - Acoustic; Live",
       "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Core (Super Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5kxuokOacguIqDJRh1ZXRC"
+      },
+      "artists": [
+        {
+          "name": "Stone Temple Pilots",
+          "url": "https://open.spotify.com/artist/2UazAtjfzqBF0Nho2awK4z"
+        }
+      ],
+      "duration_ms": 346973,
+      "name": "Plush - Live; MTV Unplugged, 11/17/93",
+      "url": "https://open.spotify.com/track/1byoTlWVdu5MqeaoKgdRhZ"
     },
     {
       "added_at": "2024-06-07 17:34:56",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-06-07 17:34:56",
       "album": {
-        "name": "Ac\u00fastico (Live)",
-        "url": "https://open.spotify.com/album/5PAME5xiXlJgEGB95zsbhI"
-      },
-      "artists": [
-        {
-          "name": "Engenheiros Do Hawaii",
-          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
-        }
-      ],
-      "duration_ms": 258586,
-      "name": "Infinita Highway - Ao Vivo",
-      "url": "https://open.spotify.com/track/4a95GqfQBhSYFzF23JB2eC"
-    },
-    {
-      "added_at": "2024-06-07 17:34:56",
-      "album": {
         "name": "Capital Inicial Ac\u00fastico NYC (Ao Vivo) [Deluxe]",
         "url": "https://open.spotify.com/album/2t5g2yjLy9HIhWF0JskZTQ"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 256773,
       "name": "N\u00e3o Olhe Pra Tr\u00e1s (feat. Lenine) - Ao Vivo",
       "url": "https://open.spotify.com/track/7CGbTwDDVA3TEj5sCVMfhb"
+    },
+    {
+      "added_at": "2024-06-07 17:34:56",
+      "album": {
+        "name": "Ac\u00fastico (Live)",
+        "url": "https://open.spotify.com/album/5PAME5xiXlJgEGB95zsbhI"
+      },
+      "artists": [
+        {
+          "name": "Engenheiros Do Hawaii",
+          "url": "https://open.spotify.com/artist/0GNq4xh8uFCyihPurnunf7"
+        }
+      ],
+      "duration_ms": 258586,
+      "name": "Infinita Highway - Ao Vivo",
+      "url": "https://open.spotify.com/track/4a95GqfQBhSYFzF23JB2eC"
     },
     {
       "added_at": "2024-06-07 17:34:56",

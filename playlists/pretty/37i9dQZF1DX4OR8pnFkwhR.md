@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > 今年飛躍を期待する次世代アーティスト「RADAR: Early Noise 2025」を発表！ Cover: 乃紫
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,506 likes - 41 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,553 likes - 41 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAG20k6lqrK4axocPZDSIhhUt+GJMpO",
+  "snapshot_id": "AAAG4qdp8RNpF18Jzh5iuH+p06DMtG8y",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8819,6 +8819,54 @@
       "duration_ms": 233533,
       "name": "On Your Wings",
       "url": "https://open.spotify.com/track/5WElqOGrOB9b2p30RQdpRh"
+    },
+    {
+      "added_at": "2025-01-15 07:02:43",
+      "album": {
+        "name": "Ray of Light",
+        "url": "https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 308880,
+      "name": "Drowned World / Substitute for Love",
+      "url": "https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk"
+    },
+    {
+      "added_at": "2025-01-15 08:42:32",
+      "album": {
+        "name": "Visions Of A Life",
+        "url": "https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz"
+      },
+      "artists": [
+        {
+          "name": "Wolf Alice",
+          "url": "https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV"
+        }
+      ],
+      "duration_ms": 295013,
+      "name": "Heavenward",
+      "url": "https://open.spotify.com/track/5LXg8cfq5hyegv2AwFlkV7"
+    },
+    {
+      "added_at": "2025-01-15 08:43:05",
+      "album": {
+        "name": "Heavy Metal",
+        "url": "https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk"
+      },
+      "artists": [
+        {
+          "name": "Cameron Winter",
+          "url": "https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "The Rolling Stones",
+      "url": "https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu"
     }
   ],
   "unique_name": "Zacklog",

@@ -1,6 +1,6 @@
 {
   "description": "lofi beats by Latinxs.",
-  "num_followers": 23635,
+  "num_followers": 23673,
   "original_name": "lofi latino",
   "owner": {
     "name": "Spotify",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Cumbiero",
+        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
+      },
+      "artists": [
+        {
+          "name": "Chill&Go",
+          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Cumbiero",
+      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Monte Nativo",
         "url": "https://open.spotify.com/album/2GAA55MT69UbanFcVRHeku"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 127586,
       "name": "Viento de Arrabal",
       "url": "https://open.spotify.com/track/1md8gp3aWVhSu39J92ADYi"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Cumbiero",
-        "url": "https://open.spotify.com/album/7D9My05RRSKEsJI0rTW3B3"
-      },
-      "artists": [
-        {
-          "name": "Chill&Go",
-          "url": "https://open.spotify.com/artist/6EE1OjZRlv4jJJ1bUUvp5h"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Cumbiero",
-      "url": "https://open.spotify.com/track/1670mewoHIWiWKmRj62DR7"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "El Comienzo",
-        "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
-      },
-      "artists": [
-        {
-          "name": "Myst\u00e9rika",
-          "url": "https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "Estoy Ah\u00ed",
-      "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "Brazilian Flavor",
         "url": "https://open.spotify.com/album/7KRW5vGGs4RUzv7r36FGRR"
       },
@@ -483,18 +467,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+        "name": "El Comienzo",
+        "url": "https://open.spotify.com/album/79gNd42o0NZ3DjhLyrL6ZN"
       },
       "artists": [
         {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+          "name": "Myst\u00e9rika",
+          "url": "https://open.spotify.com/artist/2gIrhYbETAlDYyqDaPaEvC"
         }
       ],
-      "duration_ms": 175156,
-      "name": "Cat\u00e1 Surf",
-      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
+      "duration_ms": 236000,
+      "name": "Estoy Ah\u00ed",
+      "url": "https://open.spotify.com/track/2m5dELAxkaPzylB1NLdZIz"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -511,6 +495,22 @@
       "duration_ms": 173333,
       "name": "Dalia",
       "url": "https://open.spotify.com/track/27ATmkV5cdLQIJDNgOR0zm"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+      },
+      "artists": [
+        {
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+        }
+      ],
+      "duration_ms": 175156,
+      "name": "Cat\u00e1 Surf",
+      "url": "https://open.spotify.com/track/3UclRg5QnVn3ZArjOh3eBl"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -591,6 +591,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Metro Mexico",
+        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
+      },
+      "artists": [
+        {
+          "name": "Jouta",
+          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
+        }
+      ],
+      "duration_ms": 120000,
+      "name": "Metro Mexico",
+      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Parque de Bugambilias",
         "url": "https://open.spotify.com/album/2ZZd2fsm21NI6U3CYbxeW9"
       },
@@ -631,22 +647,6 @@
       "duration_ms": 135163,
       "name": "Bolero coqueto",
       "url": "https://open.spotify.com/track/4d5vaBa0RzD10nbAcewKiI"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Metro Mexico",
-        "url": "https://open.spotify.com/album/62kPw9MMqA9ws4RKDrjUpO"
-      },
-      "artists": [
-        {
-          "name": "Jouta",
-          "url": "https://open.spotify.com/artist/27eP37X13iXodHP9LFFkNd"
-        }
-      ],
-      "duration_ms": 120000,
-      "name": "Metro Mexico",
-      "url": "https://open.spotify.com/track/7jhU5nDhfIhLGb46aBfyAV"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -907,26 +907,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Ipanema Sunset",
-        "url": "https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7"
+        "name": "soltarte (instrumental)",
+        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
       },
       "artists": [
         {
-          "name": "Praia Sur",
-          "url": "https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf"
+          "name": "Dstance",
+          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
         },
         {
-          "name": "LaidSisters",
-          "url": "https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj"
-        },
-        {
-          "name": "M\u00fcx",
-          "url": "https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo"
+          "name": "BRXWS",
+          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
         }
       ],
-      "duration_ms": 122202,
-      "name": "Ipanema Sunset",
-      "url": "https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK"
+      "duration_ms": 176202,
+      "name": "soltarte (instrumental)",
+      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -947,22 +943,26 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "soltarte (instrumental)",
-        "url": "https://open.spotify.com/album/5HyAL7Dc0sgIurgdN1swr9"
+        "name": "Ipanema Sunset",
+        "url": "https://open.spotify.com/album/2fq3PU3vTiKdUyDsRKc8L7"
       },
       "artists": [
         {
-          "name": "Dstance",
-          "url": "https://open.spotify.com/artist/1NxTfbylQiyMQ8yOFxG3x2"
+          "name": "Praia Sur",
+          "url": "https://open.spotify.com/artist/1rAf2WavxUwfhaeBHUreyf"
         },
         {
-          "name": "BRXWS",
-          "url": "https://open.spotify.com/artist/2kGmQ05bKIjqBTeAcVopQT"
+          "name": "LaidSisters",
+          "url": "https://open.spotify.com/artist/5Cn511T4oZ0eQO3IddTPRj"
+        },
+        {
+          "name": "M\u00fcx",
+          "url": "https://open.spotify.com/artist/7IGyY5whYR8PVM72XO07yo"
         }
       ],
-      "duration_ms": 176202,
-      "name": "soltarte (instrumental)",
-      "url": "https://open.spotify.com/track/1xD7fo4OF6bcULBMbIgwzd"
+      "duration_ms": 122202,
+      "name": "Ipanema Sunset",
+      "url": "https://open.spotify.com/track/5ZShelOhRxEpV21NiTYQsK"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1043,34 +1043,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+        "name": "Playa del Amor",
+        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
       },
       "artists": [
         {
           "name": "SanelliX",
           "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        }
-      ],
-      "duration_ms": 149333,
-      "name": "Cempasuchil",
-      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "lucky monkey",
-        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
-      },
-      "artists": [
+        },
         {
-          "name": "archipelago beats",
-          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+          "name": "DreamBetter",
+          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 133333,
-      "name": "lucky monkey",
-      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
+      "duration_ms": 129565,
+      "name": "Playa del Amor",
+      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1095,6 +1083,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "lucky monkey",
+        "url": "https://open.spotify.com/album/3elKgTM8xtD6DrNFP7Pb9I"
+      },
+      "artists": [
+        {
+          "name": "archipelago beats",
+          "url": "https://open.spotify.com/artist/7kv4vSxfaAfdzaq6Ogd272"
+        }
+      ],
+      "duration_ms": 133333,
+      "name": "lucky monkey",
+      "url": "https://open.spotify.com/track/4aSlHwyeGcDztZJCmt9QEU"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Primer Beso",
         "url": "https://open.spotify.com/album/2N2xwEqO7BfJgdo4SUb18g"
       },
@@ -1115,18 +1119,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Quiet Process",
-        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
+        "name": "Guaguansoul",
+        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
       },
       "artists": [
         {
-          "name": "Baskito",
-          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
+          "name": "Kansado",
+          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
         }
       ],
-      "duration_ms": 168103,
-      "name": "Trust",
-      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
+      "duration_ms": 150927,
+      "name": "Aguanc\u00f3",
+      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1155,18 +1159,34 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Guaguansoul",
-        "url": "https://open.spotify.com/album/7xaShaNw21kWDYAhamPXka"
+        "name": "Quiet Process",
+        "url": "https://open.spotify.com/album/5fMp68mfoTQ9F1jMmtooGc"
       },
       "artists": [
         {
-          "name": "Kansado",
-          "url": "https://open.spotify.com/artist/40is4UfaphbysAcimFzUDW"
+          "name": "Baskito",
+          "url": "https://open.spotify.com/artist/1XGcG27KZwolBSLtg3wg6v"
         }
       ],
-      "duration_ms": 150927,
-      "name": "Aguanc\u00f3",
-      "url": "https://open.spotify.com/track/58d00dZxEAMkLtkDOHB9L8"
+      "duration_ms": 168103,
+      "name": "Trust",
+      "url": "https://open.spotify.com/track/3YHEsLhBbJJ0PZIagVW29j"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
+        "name": "Fr\u00edo",
+        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
+      },
+      "artists": [
+        {
+          "name": "L.Rey",
+          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
+        }
+      ],
+      "duration_ms": 134400,
+      "name": "Fr\u00edo",
+      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1195,22 +1215,6 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Fr\u00edo",
-        "url": "https://open.spotify.com/album/5p6Tt6n1PF3lQ7d6sgjW7I"
-      },
-      "artists": [
-        {
-          "name": "L.Rey",
-          "url": "https://open.spotify.com/artist/7dod8f4FPtAxq3Pk7SiMRM"
-        }
-      ],
-      "duration_ms": 134400,
-      "name": "Fr\u00edo",
-      "url": "https://open.spotify.com/track/7JMPl4t5tc0Cf75VVorb3Z"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
         "name": "El D\u00eda M\u00e1s Largo",
         "url": "https://open.spotify.com/album/5OtT7lgaBIPbXjpMYqcsMj"
       },
@@ -1227,22 +1231,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Playa del Amor",
-        "url": "https://open.spotify.com/album/5LANlltyeFV9e2Waab8Jd7"
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
       },
       "artists": [
         {
           "name": "SanelliX",
           "url": "https://open.spotify.com/artist/0sk0gTYhiFal4UfEKbpnGu"
-        },
-        {
-          "name": "DreamBetter",
-          "url": "https://open.spotify.com/artist/71CeLiuIiNZFUTnhVrutGi"
         }
       ],
-      "duration_ms": 129565,
-      "name": "Playa del Amor",
-      "url": "https://open.spotify.com/track/3SL8twBcud5RDSqmwC1vVZ"
+      "duration_ms": 149333,
+      "name": "Cempasuchil",
+      "url": "https://open.spotify.com/track/4lkYY11jhjbGbqaKtfVYeA"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
+        "name": "Dia de Muertos",
+        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+      },
+      "artists": [
+        {
+          "name": "Stc Beats VB",
+          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
+        }
+      ],
+      "duration_ms": 108564,
+      "name": "Anoche",
+      "url": "https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy"
+    },
+    {
+      "added_at": "2024-10-04 04:00:00",
+      "album": {
         "name": "Aesthetic Beach",
         "url": "https://open.spotify.com/album/58M5ZhKOSGd2ZHis9sZJsW"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 126857,
       "name": "Orange Waves",
       "url": "https://open.spotify.com/track/00L0ighVhKptSsIG49Ywnh"
-    },
-    {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Todo Tranqui",
-        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
-      },
-      "artists": [
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 100738,
-      "name": "Todo Tranqui",
-      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -1391,18 +1391,18 @@
     {
       "added_at": "2024-10-04 04:00:00",
       "album": {
-        "name": "Dia de Muertos",
-        "url": "https://open.spotify.com/album/3qOshgDfzLPSXgLhyKqn7V"
+        "name": "Todo Tranqui",
+        "url": "https://open.spotify.com/album/6PwymJ9ctOXcJubwsSoBbP"
       },
       "artists": [
         {
-          "name": "Stc Beats VB",
-          "url": "https://open.spotify.com/artist/19Z4hoa8UlKhu0SbffIj2P"
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 108564,
-      "name": "Anoche",
-      "url": "https://open.spotify.com/track/5ENIG7tqeqXEFPMegmqBLy"
+      "duration_ms": 100738,
+      "name": "Todo Tranqui",
+      "url": "https://open.spotify.com/track/560SjC0nXPxH9FXWvlfm7M"
     },
     {
       "added_at": "2024-10-04 04:00:00",

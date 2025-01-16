@@ -4,7 +4,7 @@
 
 > Heavy beats for midnight drifting in Tokyo.
 
-190 songs - 9 hr 15 min
+191 songs - 9 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [DFR](https://open.spotify.com/track/1KWg2XVU3zAffSV2LHhdle) | [BHS Svve](https://open.spotify.com/artist/6uFfH7ZHSnHMXjNCgpIWb2), [levi](https://open.spotify.com/artist/2i8z6rKtx4CoaQmajp10fP), [Filix王](https://open.spotify.com/artist/2a58G4RDpD2sloCYWYkMXC) | [lasted](https://open.spotify.com/album/1O3TzJvKplUGYkLuFjbSxG) | 3:18 | 2024-07-24 | 2024-08-21 |
 | [Dishhh!](https://open.spotify.com/track/1tilWqUcyihECFShzZP543) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Dishhh!](https://open.spotify.com/album/0uaMpP3kZjNoqbG2AKSv0S) | 2:51 | 2022-12-06 | 2022-12-08 |
 | [Dishhh!](https://open.spotify.com/track/6xEYN6QXI1SIpWgNcSSpp8) | [Hiyadam](https://open.spotify.com/artist/5akLOzzp3zMfvne1K2tv7e), [MonyHorse](https://open.spotify.com/artist/0R9SPor6ESTsCVCb3NPhGD) | [Dishhh!](https://open.spotify.com/album/1o3AaUlBFhw0sM5euTgU2P) | 2:51 | 2022-12-06 | 2023-05-24 |
+| [Dive](https://open.spotify.com/track/4KtyllItD3Dwp1EqPK9xXs) | [ziproom](https://open.spotify.com/artist/4JQhz5ellBUiuDgSc4xcCX) | [Dive](https://open.spotify.com/album/6wnd8fMT3YVOQ06eclUTd2) | 2:39 | 2025-01-15 |  |
 | [Do this shit 4 me](https://open.spotify.com/track/2jOiXhcWIAC3Vf1BsIyiwS) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5QQop5JtIhXGjH1W3w1cEF) | 2:31 | 2023-05-23 | 2024-04-19 |
 | [Do this shit 4 me](https://open.spotify.com/track/5HpyU3XaO7jvoF1sJLWsfJ) | [CFN MALIK](https://open.spotify.com/artist/3uX4LhOfuyc2waeiEr2GjX) | [Do this shit 4 me](https://open.spotify.com/album/5ZxOT7lhdOKSDa0AMYJchE) | 2:31 | 2024-02-27 | 2024-12-30 |
 | [Don Julio \- Shin Andrew Remix](https://open.spotify.com/track/4u0AqqE77aqCTrnkBTp9TX) | [GEEKBOY](https://open.spotify.com/artist/2ENR5uEmMC3CEqg93awedG), [Yella Flat Boys](https://open.spotify.com/artist/01V3Qm1TK0j2uXYZJOEAgP), [Shin Andrew](https://open.spotify.com/artist/35GFNpxXqLW4KbjBMEmJZO) | [Don Julio \(Shin Andrew Remix\)](https://open.spotify.com/album/337FweeAlBDwp7rNrbykAN) | 3:00 | 2024-04-24 | 2024-08-21 |
@@ -103,7 +104,7 @@
 | [MAKE IT BOUNCE](https://open.spotify.com/track/3rsReqvpwIyP9P8p8vHwPz) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [Chawalit vol.2](https://open.spotify.com/album/59UZbS9Ux4SiENv7foGH5w) | 3:33 | 2023-08-21 | 2024-04-19 |
 | [Marika Drift](https://open.spotify.com/track/5D1saLccH0XtSxnMuCAUdQ) | [O.B.S](https://open.spotify.com/artist/6ehbOKilvTO8HaOW3Zkrqn), [Fuma no KTR](https://open.spotify.com/artist/6thFYr8FXQ3irTtczyv9YO) | [O.B.S vol.8](https://open.spotify.com/album/10rURjpwESeXN9Ztp7e3aC) | 2:00 | 2022-12-22 | 2023-05-24 |
 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 | 2024-12-17 |  |
-| [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [DIOR](https://open.spotify.com/artist/47qicPj8hHGA7L1kg5bO4u) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 | 2022-11-19 |  |
+| [MIYAKO](https://open.spotify.com/track/7DukEziTpxGS6gpNZtraut) | [Jinmenusagi](https://open.spotify.com/artist/5QSm6dJVv4soCzV7rv4QqE), [DIOR](https://open.spotify.com/artist/47qicPj8hHGA7L1kg5bO4u) | [MIYAKO](https://open.spotify.com/album/4RZzvx5ZVkFeXMPh06foLn) | 2:28 | 2022-11-19 | 2025-01-16 |
 | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/track/2JaEYhyKiufEazcC51QhWC) | [Gottz](https://open.spotify.com/artist/4Rd7uX3gR54NvnI8Xmkes4), [eyden](https://open.spotify.com/artist/0WfL2PHijCihsWmlnwYjtj), [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK) | [Money Trees \(feat\. eyden & Kohjiya\)](https://open.spotify.com/album/4HZHWJbiZt59LEGbBKPoph) | 3:23 | 2024-07-24 |  |
 | [Mononoke Kyoto](https://open.spotify.com/track/4wDQ1fxncnI7AzqD7TNEWB) | [MNNK Bro.](https://open.spotify.com/artist/2V9hCxzluWeF6gepmvKZWo), [Takashi Murakami](https://open.spotify.com/artist/4Pj5KU6cveEf8JPb4tlhCm), [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9) | [Mononoke Kyoto](https://open.spotify.com/album/5RCC8yqpCdwCrhrmD8oRob) | 3:32 | 2024-07-12 |  |
 | [MORIAGE](https://open.spotify.com/track/0bL8mRYXWsoUz4XJwoebf1) | [Tokyo Young Vision](https://open.spotify.com/artist/7gLHe4uDoTp4x6916UM8PH) | [MORIAGE](https://open.spotify.com/album/1LQxQn7UrFPcv1yfUoVpeU) | 4:10 | 2024-06-12 |  |

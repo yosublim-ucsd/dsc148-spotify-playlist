@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,577 likes - 17 songs - 1 hr 5 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,587 likes - 18 songs - 1 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 15 | [Ce matin\-là \- Demo 2](https://open.spotify.com/track/6lMaS9WVQMB2BDYvDiKuDt) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari Rarities \(25th Anniversary Edition\)](https://open.spotify.com/album/3Dy5c5GMKUEgJJnDu9CPV8) | 3:15 |
 | 16 | [The "Sweetest Girl"](https://open.spotify.com/track/2vHXzgaYSP0LNIOZTFx2FA) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 5:07 |
 | 17 | [Love Song for Someone](https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:47 |
+| 18 | [Stan Is Lowe](https://open.spotify.com/track/2E3h67GZuG6NQ9jDQpV24t) | [Geoffrey Landers](https://open.spotify.com/artist/61boQYG7JKM1E48RWon8Lc) | [The Ever Decimal Pulse](https://open.spotify.com/album/2q4XZHhXycsAejrdhMCVkP) | 5:43 |
 
-Snapshot ID: `AAALrqm+1Ti2JrOYl32JouV90k10Qa9G`
+Snapshot ID: `AAALsZTN+vJ1aDLhp7yCry4TRMRbyCFC`

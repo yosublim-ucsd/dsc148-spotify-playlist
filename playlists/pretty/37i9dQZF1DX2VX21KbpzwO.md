@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VX21KbpzwO.md) - [plain]
 
 > Discover the bangers of the Middle East and North Africa.<br/>Cover : Disco Misr, TUL8TE
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,612 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,629 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

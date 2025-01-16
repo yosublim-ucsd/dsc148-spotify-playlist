@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 14 Jan 19:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Jan 23:03 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3814,6 +3814,24 @@
       "duration_ms": 128571,
       "name": "Ankaran",
       "url": "https://open.spotify.com/track/6oXl3uSpSodmkClmCP16Nt"
+    },
+    {
+      "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
     },
     {
       "album": {
@@ -7779,6 +7797,28 @@
     },
     {
       "album": {
+        "name": "Blas\u00e9",
+        "url": "https://open.spotify.com/album/1O5vGQNIEQ62hmstiXrj28"
+      },
+      "artists": [
+        {
+          "name": "gabby start",
+          "url": "https://open.spotify.com/artist/33L1klom7IXmoAP8fjrGm9"
+        },
+        {
+          "name": "Knapsack",
+          "url": "https://open.spotify.com/artist/1ONhS8pN5UbzqoZlLF69kI"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200222,
+      "name": "Blas\u00e9",
+      "url": "https://open.spotify.com/track/2hRjw7jLXXzTUx0IwTudik"
+    },
+    {
+      "album": {
         "name": "Bleed Me Dry",
         "url": "https://open.spotify.com/album/4jnovfDKHwNSrP9j7Q73OV"
       },
@@ -10074,6 +10114,24 @@
       "duration_ms": 200571,
       "name": "Burst My Bubble",
       "url": "https://open.spotify.com/track/4ZRNfe85ac4F6mYLfZdjOP"
+    },
+    {
+      "album": {
+        "name": "Bury Me",
+        "url": "https://open.spotify.com/album/0RhHOTHgngW7Quc3cqY27x"
+      },
+      "artists": [
+        {
+          "name": "Jason Isbell",
+          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182973,
+      "name": "Bury Me",
+      "url": "https://open.spotify.com/track/4pLlXT4tFbuDCARVXHWIsH"
     },
     {
       "album": {
@@ -18952,7 +19010,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 227400,
       "name": "Dum, Dumb, and Dumber (with Young Thug & Future)",
       "url": "https://open.spotify.com/track/5GZ0currErGJhl0G0yxgRg"
@@ -27951,6 +28009,24 @@
     },
     {
       "album": {
+        "name": "Have Heaven",
+        "url": "https://open.spotify.com/album/6RGJgYKYBsE9ImTlmWjBfZ"
+      },
+      "artists": [
+        {
+          "name": "Florist",
+          "url": "https://open.spotify.com/artist/0VIiIxTNLeJOPoMLabwNtr"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188221,
+      "name": "Have Heaven",
+      "url": "https://open.spotify.com/track/3IeraaelNVdgrB2gVQ8dzq"
+    },
+    {
+      "album": {
         "name": "Haven",
         "url": "https://open.spotify.com/album/0m41NRj9C741A0nn7jvZVJ"
       },
@@ -30599,6 +30675,24 @@
     },
     {
       "album": {
+        "name": "Hymns in Dissonance",
+        "url": "https://open.spotify.com/album/4vrdVbbpdzmw9WMzdr0lra"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312466,
+      "name": "Hymns in Dissonance",
+      "url": "https://open.spotify.com/track/6KukQLPGIVCyPYHSG9aiIU"
+    },
+    {
+      "album": {
         "name": "Hypebeast",
         "url": "https://open.spotify.com/album/3rzw2wsyz0vCJ8qfJiQnRw"
       },
@@ -32206,7 +32300,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 348553,
       "name": "I'm on 4.0",
       "url": "https://open.spotify.com/track/6seyIInTwPGCr18JBSCDRo"
@@ -38288,7 +38382,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 148135,
       "name": "Location",
       "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
@@ -50460,6 +50554,24 @@
       "duration_ms": 109416,
       "name": "POS",
       "url": "https://open.spotify.com/track/42ADnFPhERC2Gy1BXb3ehv"
+    },
+    {
+      "album": {
+        "name": "Pose For The Pic",
+        "url": "https://open.spotify.com/album/45rfnyjY7gWPETzgnU3j4a"
+      },
+      "artists": [
+        {
+          "name": "che",
+          "url": "https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164581,
+      "name": "Pose For The Pic",
+      "url": "https://open.spotify.com/track/7mpY8KmX0mUCJV49dstMA3"
     },
     {
       "album": {
@@ -63304,7 +63416,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 246853,
       "name": "Tendrils",
       "url": "https://open.spotify.com/track/7ggzbRpEY7hHkBP7z9Oxvo"
@@ -64972,7 +65084,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 184028,
       "name": "The Old Guard Is Dead",
       "url": "https://open.spotify.com/track/1pfw03FOjkDE3GcjlsNIHA"
@@ -68126,7 +68238,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 189473,
       "name": "Tweaker",
       "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"

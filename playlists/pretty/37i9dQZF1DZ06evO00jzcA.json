@@ -1,12 +1,12 @@
 {
   "description": "This is KISS. The essential tracks, all in one playlist.",
-  "num_followers": 468787,
+  "num_followers": 468863,
   "original_name": "This Is KISS",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAABYW+Hy7aNB+2hk6lrBd/pC",
+  "snapshot_id": "Z4WpAAAAAADxjLobW0VxjW9p4XcEwhbA",
   "tracks": [
     {
       "added_at": null,
@@ -619,22 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MTV Unplugged",
-        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
-      },
-      "artists": [
-        {
-          "name": "KISS",
-          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
-        }
-      ],
-      "duration_ms": 175013,
-      "name": "Beth - Live",
-      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Destroyer",
         "url": "https://open.spotify.com/album/59plsPcJYFlSA5ImekNQJ0"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 213000,
       "name": "Do You Love Me",
       "url": "https://open.spotify.com/track/6KbSviXtYJuPG3FbTvJZSI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MTV Unplugged",
+        "url": "https://open.spotify.com/album/5rf66ReWkobYT88G0Ky52y"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 175013,
+      "name": "Beth - Live",
+      "url": "https://open.spotify.com/track/5cPISbao7sZ27Cxj3la7lT"
     },
     {
       "added_at": null,

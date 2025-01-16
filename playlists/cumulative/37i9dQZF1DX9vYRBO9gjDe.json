@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u30021\u670811\u65e5\u4ed8\u3002",
+  "description": "Spotify Japan\u306e\u30c7\u30a4\u30ea\u30fc\u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8\u3002\u6bce\u9031\u6708\u301c\u91d1\u66dc\u65e5\u66f4\u65b0\u30021\u670812\u65e5\u4ed8\u3002",
   "name": "Spotify Japan \u6025\u4e0a\u6607\u30c1\u30e3\u30fc\u30c8",
   "tracks": [
     {
@@ -2216,7 +2216,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 181251,
       "name": "All That",
       "url": "https://open.spotify.com/track/5sk89mgPwZyXgD4augi9Rn"
@@ -5180,7 +5180,7 @@
       ],
       "date_added": "2024-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 168135,
       "name": "Bling-Bang-Bang-Born",
       "url": "https://open.spotify.com/track/0kdqcbwei4MDWFEX5f33yG"
@@ -7260,7 +7260,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 240653,
       "name": "CASANOVA POSSE",
       "url": "https://open.spotify.com/track/26Lip4WX1oWceF9tb8m2qw"
@@ -7332,7 +7332,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 119466,
       "name": "Catch Fire",
       "url": "https://open.spotify.com/track/5ijJ0xC7RlUUB8RCsg2z1C"
@@ -7558,7 +7558,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 181898,
       "name": "Checkmate",
       "url": "https://open.spotify.com/track/1U0za7nWYJ3tQvqBFHAkjp"
@@ -8152,7 +8152,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 204264,
       "name": "City Love City Love City Love",
       "url": "https://open.spotify.com/track/5LnWFzlhchc0ruF3tRcb3J"
@@ -8546,7 +8546,7 @@
       ],
       "date_added": "2024-07-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-11",
+      "date_removed": null,
       "duration_ms": 351642,
       "name": "come again",
       "url": "https://open.spotify.com/track/477CB93mH986mrIheQD0RR"
@@ -12386,7 +12386,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 192226,
       "name": "EGOIST",
       "url": "https://open.spotify.com/track/19CpFIuodNeQHXuj156Ecq"
@@ -13080,7 +13080,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 192932,
       "name": "Everydaydreamer",
       "url": "https://open.spotify.com/track/3l3llSCdeGCrmirUFn1a06"
@@ -13406,6 +13406,24 @@
       "duration_ms": 216892,
       "name": "EYES ON YOU",
       "url": "https://open.spotify.com/track/6p8SZOytmthKLKfB95viaY"
+    },
+    {
+      "album": {
+        "name": "WHAM (Extended Version)",
+        "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117200,
+      "name": "F U 2x",
+      "url": "https://open.spotify.com/track/2ubNuGSCWRRxUfojPRebiA"
     },
     {
       "album": {
@@ -14950,7 +14968,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 175545,
       "name": "flowers",
       "url": "https://open.spotify.com/track/73DkWp9sZ4fAJh0nROgQ9n"
@@ -16840,7 +16858,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 160794,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/7rA2RuTx1dHadrZcoKh8O9"
@@ -18070,7 +18088,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 137952,
       "name": "Hannah Montana (with NLE Choppa & DaBaby)",
       "url": "https://open.spotify.com/track/11KgBg77VfJjv0oifmE7M7"
@@ -21496,7 +21514,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-27",
+      "date_removed": null,
       "duration_ms": 140466,
       "name": "Identity",
       "url": "https://open.spotify.com/track/0wu7L2JkRqx2nFCSiYqcKy"
@@ -22752,7 +22770,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 181677,
       "name": "I\u2019ll Be There",
       "url": "https://open.spotify.com/track/2SR0alFA2oWYXSoePGTj0V"
@@ -23640,7 +23658,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 168619,
       "name": "Keep Going (Aaaaahhhhh)",
       "url": "https://open.spotify.com/track/1Gyltewwv25s0qhYT8NFdN"
@@ -24692,7 +24710,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 166344,
       "name": "Lady Parts and Mannequins",
       "url": "https://open.spotify.com/track/5QRh01vsOyiqgfZw6bXMzV"
@@ -25950,7 +25968,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 155000,
       "name": "Listen Up",
       "url": "https://open.spotify.com/track/4iGqt48gNNqspw8VN8EKgP"
@@ -32118,7 +32136,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 175626,
       "name": "nigastu no heitai",
       "url": "https://open.spotify.com/track/0TXSOQCkceftWCfbTph2mt"
@@ -32972,7 +32990,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 182395,
       "name": "Nowhere (VIVINOS - ALNST Sub : Ivan Part.1)",
       "url": "https://open.spotify.com/track/7cHaQR9Led9TgNg6gnK7Wl"
@@ -34073,6 +34091,24 @@
     },
     {
       "album": {
+        "name": "Howl's Moving Castle Soundtrack",
+        "url": "https://open.spotify.com/album/5fqlZFKYqvkIe2jdDGt2nl"
+      },
+      "artists": [
+        {
+          "name": "Joe Hisaishi",
+          "url": "https://open.spotify.com/artist/7nzSoJISlVJsn7O0yTeMOB"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153573,
+      "name": "Opening Song - Merry-Go-Round of Life",
+      "url": "https://open.spotify.com/track/3cIKojC2JBVIno9b35MJWn"
+    },
+    {
+      "album": {
         "name": "Oral",
         "url": "https://open.spotify.com/album/0Jldmuyjx6v7nMefI7y00r"
       },
@@ -34400,7 +34436,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 248652,
       "name": "over the top",
       "url": "https://open.spotify.com/track/2Bf3VEyRN5XycKTBRQ4GAQ"
@@ -38222,7 +38258,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 204480,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/1mQWgJxQZOO1ifq4QJ3x4s"
@@ -38602,6 +38638,24 @@
       "duration_ms": 143264,
       "name": "RUNAWAY",
       "url": "https://open.spotify.com/track/07fbDnkKdZGk1gLvknxrns"
+    },
+    {
+      "album": {
+        "name": "Runaway",
+        "url": "https://open.spotify.com/album/4ZOnEdTTobq12pH52otULE"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269427,
+      "name": "Runaway",
+      "url": "https://open.spotify.com/track/3bKOYQ4YijJ0mPHCzgfcWi"
     },
     {
       "album": {
@@ -45072,7 +45126,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 179933,
       "name": "Swing My Way",
       "url": "https://open.spotify.com/track/4wFiEt5XdXVcUAxcMRZnCR"
@@ -46508,7 +46562,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 208336,
       "name": "The Landolt C",
       "url": "https://open.spotify.com/track/4UE0ayD44qejZTGDK8S4qF"
@@ -47348,6 +47402,24 @@
       "duration_ms": 208932,
       "name": "Tiger - KINISHY ver from Audition \"No No Girls\"",
       "url": "https://open.spotify.com/track/1lZfQuXhvQ5qo495DTlCAt"
+    },
+    {
+      "album": {
+        "name": "Tiger",
+        "url": "https://open.spotify.com/album/3h9d2oKvlUvvJab3Xw4VUO"
+      },
+      "artists": [
+        {
+          "name": "No No Girls",
+          "url": "https://open.spotify.com/artist/7shRpTjDUCt71UN0aNjurm"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208932,
+      "name": "Tiger - Showy. ver from Audition \"No No Girls\"",
+      "url": "https://open.spotify.com/track/474r5GmZNDhrHg8dJGAgo0"
     },
     {
       "album": {
@@ -52776,7 +52848,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 204266,
       "name": "Year N",
       "url": "https://open.spotify.com/track/3WizFqu0AipYKFZKdSsCc7"
@@ -58062,7 +58134,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-16",
+      "date_removed": null,
       "duration_ms": 230209,
       "name": "\u30a2\u30dd\u30ea\u30a2",
       "url": "https://open.spotify.com/track/7ugSlmtBWNMAgTpdvBPcIh"
@@ -58376,7 +58448,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-01",
+      "date_removed": null,
       "duration_ms": 216466,
       "name": "\u30a4\u30eb\u30df\u30cd\u30fc\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/70YEIxamMR2PW4dnNqkAxu"
@@ -61713,6 +61785,24 @@
     },
     {
       "album": {
+        "name": "\u30cf\u30ec\u30f3\u30c1",
+        "url": "https://open.spotify.com/album/7FlnNVqs9nwO2NKe37zxFh"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182213,
+      "name": "\u30c7\u30a3\u30b9\u30bf\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/6iQ5Re17XU4Du4Z5UlnHJb"
+    },
+    {
+      "album": {
         "name": "Nautilus",
         "url": "https://open.spotify.com/album/1e1wT6uxWS5EwnHVeu6K0b"
       },
@@ -64802,6 +64892,24 @@
       "duration_ms": 284774,
       "name": "\u30e8\u30fc\u30bd\u30ed\u30fc",
       "url": "https://open.spotify.com/track/4p8zpIOdWUBAvo76pNVoIi"
+    },
+    {
+      "album": {
+        "name": "\u30e9\u30a4\u30d5 \u30a4\u30ba \u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30eb",
+        "url": "https://open.spotify.com/album/746QUwPqyePL3oPmE9IMDi"
+      },
+      "artists": [
+        {
+          "name": "ASIAN KUNG-FU GENERATION",
+          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257026,
+      "name": "\u30e9\u30a4\u30d5 \u30a4\u30ba \u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30eb",
+      "url": "https://open.spotify.com/track/1SRJVcxArjAIkFtCNIMfVw"
     },
     {
       "album": {
@@ -70778,7 +70886,7 @@
       ],
       "date_added": "2024-12-16",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 363461,
       "name": "\u604b\u3092\u3057\u3066",
       "url": "https://open.spotify.com/track/4SLpqkURxuWPY83DWOuJKc"
@@ -71268,7 +71376,7 @@
       ],
       "date_added": "2023-02-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 232453,
       "name": "\u611b\u3068\u304b\u604b\u3068\u304b",
       "url": "https://open.spotify.com/track/1VHL1PIkhDwWbFc65xHwOr"
@@ -75893,6 +76001,24 @@
     },
     {
       "album": {
+        "name": "\u7f6a\u3068\u7f70 (Reloaded)",
+        "url": "https://open.spotify.com/album/7GeMvCVwUgOYqLNaQ7Xnvl"
+      },
+      "artists": [
+        {
+          "name": "DECO*27",
+          "url": "https://open.spotify.com/artist/7kZTWx6cRLc0TSRPq1XBMP"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173293,
+      "name": "\u7f6a\u3068\u7f70 (Reloaded)",
+      "url": "https://open.spotify.com/track/2vAqVZym4iluspvzglgBj4"
+    },
+    {
+      "album": {
         "name": "\u7f8e\u3057\u3044\u751f\u304d\u7269",
         "url": "https://open.spotify.com/album/6K4YYBVED4df0KYVl6NBw2"
       },
@@ -77394,6 +77520,24 @@
       "duration_ms": 127360,
       "name": "\u8d64\u9f3b\u306e\u30c8\u30ca\u30ab\u30a4",
       "url": "https://open.spotify.com/track/0VkDDMHH1k4VPRBNxnPKFS"
+    },
+    {
+      "album": {
+        "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
+        "url": "https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY"
+      },
+      "artists": [
+        {
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205984,
+      "name": "\u8d70\u308cSAKAMOTO - RUN SAKAMOTO RUN - Opening theme to SAKAMOTO DAYS",
+      "url": "https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2"
     },
     {
       "album": {

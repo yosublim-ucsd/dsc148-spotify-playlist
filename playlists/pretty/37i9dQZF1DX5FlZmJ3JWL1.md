@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,121 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,172 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 47 | [BASS DOWN LOW](https://open.spotify.com/track/5mbEDRNFzwWFGSW3f7guHB) | [Lupage](https://open.spotify.com/artist/5MazkeVWAqayflCjldHhs3) | [BASS DOWN LOW](https://open.spotify.com/album/34nDjs0YkpO1Mud0gNFoG1) | 2:46 |
 | 48 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 49 | [Together](https://open.spotify.com/track/7hEteIkB7cn2ocM3Npim6t) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Together](https://open.spotify.com/album/4rQ5YZD7JoW7xZrtjVtFgi) | 2:31 |
-| 50 | [Bittersweet Goodbye](https://open.spotify.com/track/61H6DK37r2uyNryJAqUAXf) | [HBz](https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ), [Jerome](https://open.spotify.com/artist/4xcDVatLFh6qlcm41er3LV), [Robin White](https://open.spotify.com/artist/3VzBBEtT4vel6khrAiFlwA) | [Bittersweet Goodbye](https://open.spotify.com/album/1KZIiURBJs63wz3uuCapCu) | 2:40 |
+| 50 | [All This Time](https://open.spotify.com/track/4xq59PbzJOMSqrdGQMxpB8) | [Toby DEE](https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj), [Anna Hafner](https://open.spotify.com/artist/2HXmqfQYsehY98S9JqX1n3), [Deso Latee](https://open.spotify.com/artist/0klyxA0TLyUMXyeIsbe5eN) | [All This Time](https://open.spotify.com/album/5rMLNdoZI2J9Fa6xtBiDRL) | 1:48 |
 
 Snapshot ID: `Z3ulgwAAAACvQc7yIrmbtAzhTpwrgNHq`

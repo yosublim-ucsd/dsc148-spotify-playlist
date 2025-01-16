@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: pH\-1\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: JMIN\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-739 songs - 1 day 15 hr 49 min
+740 songs - 1 day 15 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -550,6 +550,7 @@
 | [ROCK2DABEAT \(feat\. nafla\)](https://open.spotify.com/track/3jC91SiXyGAKUKH7ZcHtwL) | [outsocial](https://open.spotify.com/artist/5MU8raHkuvyPYYcmtk0rLh), [nafla](https://open.spotify.com/artist/3Zn6C68VCosoQrxu4D2Btr) | [ROCK2DABEAT](https://open.spotify.com/album/17yQ1HxqNEWOimgTn8aacP) | 3:51 | 2022-04-01 | 2022-05-08 |
 | [Rodeo Girls \(Feat\. Kid Milli\)](https://open.spotify.com/track/5JWhqhdDhVaZLZdP0ksDGb) | [Royal 44](https://open.spotify.com/artist/6I5eyZiVUpuPwE8mTXp7hC), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Rodeo Girls](https://open.spotify.com/album/5Gz38OYb3eMwhmrw1HdERH) | 3:08 | 2024-11-27 |  |
 | [Romance Symphony \(Feat\. CHANGMO, Jay Park\)](https://open.spotify.com/track/3bUD1FmJClHcD0U7rIN0TR) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [CHANGMO](https://open.spotify.com/artist/3hvinNZRzTLoREmqFiKr1b), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 4:00 | 2022-06-20 |  |
+| [ROUND ONE \(feat\. HAON\)](https://open.spotify.com/track/5p4mFIr9YEmNZ1awOSpl1F) | [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [ROUND ONE \(feat\. HAON\)](https://open.spotify.com/album/0TLp0mC5luHaCsK4mJejqL) | 2:31 | 2025-01-15 |  |
 | [ROWROW \(feat\. JAEHA & Street Baby\)](https://open.spotify.com/track/2jubtw4DrIUTwHRtlZxFxl) | [BOYCOLD](https://open.spotify.com/artist/3Rxm9TaXZGuQRw2B91Ap22), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [Street Baby](https://open.spotify.com/artist/0tGMuT9HxXQzAEZK9Prlim) | [DAFT LOVE](https://open.spotify.com/album/4SCzzeU2S6AyWEixWrvBjX) | 2:30 | 2022-07-14 | 2022-07-17 |
 | [Ruby \(Feat\. Gist\)](https://open.spotify.com/track/0Z3om4bmisjO5e97PQizEe) | [ZENE THE ZILLA](https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN), [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk) | [zillamode 4](https://open.spotify.com/album/6O7AASfdsj9oQMAV3do7yF) | 2:22 | 2022-06-09 | 2022-07-01 |
 | [Run away](https://open.spotify.com/track/3kIaUtQdU9q2z4Jit3Frc5) | [MINO](https://open.spotify.com/artist/3ytV7vc4ZuwGgwaOuWvkk8) | [TAKE](https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6) | 2:25 | 2022-04-01 |  |
@@ -741,7 +742,7 @@
 | [달탈출 \(prod\. Eric Godlow\)](https://open.spotify.com/track/5tHZeai2kCe9wIiMhnUjfn) | [윤해찬](https://open.spotify.com/artist/4egBOzXgXYoswwOvmxrmJ1) | [Escape From The Moon](https://open.spotify.com/album/4ZYJasF7PL3F3ZRUVnKxao) | 4:10 | 2022-06-27 | 2022-06-30 |
 | [담아](https://open.spotify.com/track/5OH5VvM5qIZDiJC1JVWLfe) | [M1NU](https://open.spotify.com/artist/2JDfkwLPoHoH1EKw6Og6uH), [Wiz World](https://open.spotify.com/artist/64uYVs5XasE9xxAItdyPCn), [래원](https://open.spotify.com/artist/5wrj3tbmQ8cvjcA80MtZP9), [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr) | [M1NUWORLD](https://open.spotify.com/album/6TxDYynoC6vnuC3vKlBb9h) | 3:31 | 2023-01-25 | 2023-02-16 |
 | [무너져 \(Art\. VEAN\)](https://open.spotify.com/track/6VVIJyheSpW8hM4CTr9xXR) | [Anonymous Artists](https://open.spotify.com/artist/6U6zWkFtgM3UU5c1hBlGCD) | [ARTIST\. VEAN](https://open.spotify.com/album/58ke1EMXzfH9T6NgmSsXOd) | 2:52 | 2022-05-11 | 2022-05-21 |
-| [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 |  |
+| [미쳐버리겠다 \(MAD\)](https://open.spotify.com/track/7n1yuwnzs5jTEitJ7eecS8) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [미쳐버리겠다 \(MAD\)](https://open.spotify.com/album/1CdiLd2ENEFje7ux0G23KT) | 3:17 | 2023-11-28 | 2025-01-16 |
 | [밤새](https://open.spotify.com/track/6ounBpJVh2WXum1HEiMWan) | [BE'O](https://open.spotify.com/artist/5NUVwRESNqYBUTRbiATjy7) | [Affection](https://open.spotify.com/album/7CH227zOs9JlxNtQ8Z6EK4) | 3:20 | 2024-04-24 | 2024-07-18 |
 | [빙그레](https://open.spotify.com/track/1gtabUo4ov467fUjf2514i) | [YongYong](https://open.spotify.com/artist/4lgoUoPxqxjZMtN0raCBVK), [D\-Hack](https://open.spotify.com/artist/6Ycj4hhpz2nOfsYCU1gHqR) | [빙그레](https://open.spotify.com/album/6B9m5Qnxof67GWuBYBROxU) | 3:04 | 2022-08-17 | 2022-09-01 |
 | [오염](https://open.spotify.com/track/0GtvTl4sjuDRJF59MjywwO) | [Hwaji](https://open.spotify.com/artist/1Azg0okIA7BY6CMwRBLmud) | [오염,추](https://open.spotify.com/album/2A8D0clrVMyW9KsYRTiZWQ) | 2:45 | 2022-09-06 | 2023-04-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 
 > 音楽メディア<a href="http://spincoaster.com/">Spincoaster</a>が厳選したホットな新曲を毎週月曜日にお届け！
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,415 likes - 60 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,420 likes - 60 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1L8JuK0yhgO.md) - [plain]
 | 40 | [Always U](https://open.spotify.com/track/4zU94woKSgQsYLFT2m5AsG) | [桃子A1J](https://open.spotify.com/artist/2imhfeJHce0YEYv9msgqMC), [Diiton](https://open.spotify.com/artist/4igBpYxC0VLHP0Cz2BH2dQ) | [SGN\-TPE](https://open.spotify.com/album/4ZiPBd4PpdNsjQdJrXf8Uz) | 2:55 |
 | 41 | [COME DANCE \(MIU MIU ENCOUNTERS\)](https://open.spotify.com/track/3H29ThvDBpmrqntJnXekvM) | [Lexie Liu](https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX) | [COME DANCE \(MIU MIU ENCOUNTERS\)](https://open.spotify.com/album/0zpJPhxojU5qHOjjNCZbZM) | 2:10 |
 | 42 | [Lose Control](https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh) | [Young Franco](https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl), [EARTHGANG](https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V), [Jafunk](https://open.spotify.com/artist/5KtUig38eqxK2rOtHZnz0k) | [Lose Control](https://open.spotify.com/album/3rsduxrdgM9tOXbdy3BByj) | 2:36 |
-| 43 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
+| 43 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 44 | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [Are You Even Real \(feat\. Givēon\)](https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD) | 2:27 |
 | 45 | [Out That Wind02](https://open.spotify.com/track/0QcPtrGjIeXP7zYxuWwl6w) | [Stunnaman02](https://open.spotify.com/artist/6GqksGv39gHrhEbbI0Mavw), [seiji oda](https://open.spotify.com/artist/02hku5R1SCUiTPydXMdKBp) | [Out That Wind02](https://open.spotify.com/album/2gV0ew3brHRV86KFcfafzK) | 2:22 |
 | 46 | [Bipolar](https://open.spotify.com/track/5eUf1zcMheTZeWwoq3BDZC) | [1MILL](https://open.spotify.com/artist/18VUKXPiyznwK6LEULTUco) | [Bipolar](https://open.spotify.com/album/36ZsiDiRSBFjbYe70X9ysU) | 2:33 |

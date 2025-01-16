@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 
 > Naye Indie gaano ka khazana! Cover \- Aditya Kalway, Prateeksha Srivastava
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,308 likes - 62 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,309 likes - 62 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8j8N3CkBtqv.md) - [plain]
 | 41 | [Ek Aur Nadiya](https://open.spotify.com/track/1f22h4QWIhU9SjEaxkxj1q) | [Anurag Mishra](https://open.spotify.com/artist/3r80FQRtPJ8V5GrdDzNTWE), [Hansika Pareek](https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW), [Aditya Bisht](https://open.spotify.com/artist/4GWVSBpjtIxsL9ORD8rAxR), [Alok Ranjan Srivastava](https://open.spotify.com/artist/5DexCXOx7knvTPNU8KBYep) | [Ek Aur Nadiya](https://open.spotify.com/album/0CEXBigwli6EFoYqMvGf6k) | 3:31 |
 | 42 | [Waiting On](https://open.spotify.com/track/2m17uAqJyX5bGorHtA6NF0) | [Raghav Meattle](https://open.spotify.com/artist/7lTlD9L3QhfOH13Z0n1ibN), [Mali](https://open.spotify.com/artist/4JSAaGJ5mNSfG0MBxDFQZN) | [Waiting On](https://open.spotify.com/album/3W5FsrJWiH3k2pymn0AK4O) | 2:35 |
 | 43 | [Bhayankar Piya](https://open.spotify.com/track/0IaJjF4NDTr0RZMCUIZKvh) | [Parth Srivastava](https://open.spotify.com/artist/5xioqWZGO4JrB9daKgcreI), [Garvit Soni](https://open.spotify.com/artist/4MCoxHC5rvQP0I7o63RXSH), [Priyansh Srivastava](https://open.spotify.com/artist/1mmWHJzVXCNSQBlbeAMKFU), [Samad Khan](https://open.spotify.com/artist/1eRjjSUHqx9F7yJQeahZOW), [Zeeshan Khan](https://open.spotify.com/artist/3Um0W0Z5SJPOThaxwq6Il5) | [Bhayankar Piya](https://open.spotify.com/album/5gFeEp2uQBqpUULYNW9GSO) | 4:12 |
-| 44 | [Judaiyaan](https://open.spotify.com/track/0v4Mhi0uJxih8p8sTtXTg4) | [Stanley](https://open.spotify.com/artist/4ZoDfDKqRGsNf4KmwhEpqi), [Archit Haritash](https://open.spotify.com/artist/2J3ekIcsSd7FGpdwa9oLFo) | [All That Remains](https://open.spotify.com/album/6B0P5MbffI6qFzIuKc0urA) | 2:29 |
-| 45 | [Tu Mera Nahin](https://open.spotify.com/track/1ZDkLqm9XBEzFqd42UZcSc) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Ises](https://open.spotify.com/artist/7AJZUJGavrMJCJtXcf5ChC) | [Tu Mera Nahin](https://open.spotify.com/album/0SynqkoxEsW3wtCv5OUWOP) | 3:25 |
+| 44 | [Tu Mera Nahin](https://open.spotify.com/track/1ZDkLqm9XBEzFqd42UZcSc) | [Maan Panu](https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ), [Ises](https://open.spotify.com/artist/7AJZUJGavrMJCJtXcf5ChC) | [Tu Mera Nahin](https://open.spotify.com/album/0SynqkoxEsW3wtCv5OUWOP) | 3:25 |
+| 45 | [Judaiyaan](https://open.spotify.com/track/0v4Mhi0uJxih8p8sTtXTg4) | [Stanley](https://open.spotify.com/artist/4ZoDfDKqRGsNf4KmwhEpqi), [Archit Haritash](https://open.spotify.com/artist/2J3ekIcsSd7FGpdwa9oLFo) | [All That Remains](https://open.spotify.com/album/6B0P5MbffI6qFzIuKc0urA) | 2:29 |
 | 46 | [Fufaji](https://open.spotify.com/track/1QbJwvzqjPTT2sjbklEDRP) | [Rahgir](https://open.spotify.com/artist/1CGbcdGB3aFFUCjaJimwER) | [Fufaji](https://open.spotify.com/album/6Ux3UFEDhb43kaA0ugf8rk) | 3:40 |
 | 47 | [Jazbaat](https://open.spotify.com/track/1uOhQkgoWGEZ92UygWJnoH) | [Rahul Shah](https://open.spotify.com/artist/3oEonEOikYn2hqvZ3oWpiu) | [Jazbaat](https://open.spotify.com/album/2UE5Mc9wxgcmYlqEzLXr2A) | 2:42 |
 | 48 | [Kho Jaun](https://open.spotify.com/track/2mJKQI674JrUbK7IyrWtXV) | [Adarsh Rao](https://open.spotify.com/artist/6RaFiPHsbMRHJ4u4UWf6II) | [Kho Jaun](https://open.spotify.com/album/6H9IuvaOYAoxBPykDz7WHJ) | 3:00 |

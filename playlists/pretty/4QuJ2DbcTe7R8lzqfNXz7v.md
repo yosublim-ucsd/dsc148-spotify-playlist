@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4QuJ2DbcTe7R8lzqfNXz7v.md) - [plain]
 
 > From heartfelt ballads to mellow beats, this playlist is all about love, chill and relaxation.❤️
 
-[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 494,001 likes - 100 songs - 6 hr 32 min
+[Filtr Nederland](https://open.spotify.com/user/sonymusicnl) - 493,999 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

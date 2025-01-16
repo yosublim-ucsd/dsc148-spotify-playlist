@@ -1,6 +1,6 @@
 {
   "description": "The early pioneers and current favorites in Southern Rock. Cover: Lynyrd Skynyrd ",
-  "num_followers": 512923,
+  "num_followers": 512974,
   "original_name": "Southern Rock",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Million Mile Reflections",
-        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
-      },
-      "artists": [
-        {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "The Devil Went Down to Georgia",
-      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Struttin' My Stuff",
         "url": "https://open.spotify.com/album/2z2y977JvwU1rbnVO97RmY"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 276000,
       "name": "Fooled Around And Fell In Love",
       "url": "https://open.spotify.com/track/2hE5Lm5XOHR4t3xlhIFauP"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Million Mile Reflections",
+        "url": "https://open.spotify.com/album/211gVLmc36aeE66qEHqN0a"
+      },
+      "artists": [
+        {
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "The Devil Went Down to Georgia",
+      "url": "https://open.spotify.com/track/6gRACp2CvsIhc7hyw8CecQ"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -251,18 +251,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "A Decade Of Hits",
-        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
+        "name": "Rock & Roll Strategy",
+        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
       },
       "artists": [
         {
-          "name": "The Charlie Daniels Band",
-          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
         }
       ],
-      "duration_ms": 240106,
-      "name": "Long Haired Country Boy",
-      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
+      "duration_ms": 304693,
+      "name": "Second Chance",
+      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -283,18 +283,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Rock & Roll Strategy",
-        "url": "https://open.spotify.com/album/1jCoBw99NDS3xv2KRF7ygX"
+        "name": "A Decade Of Hits",
+        "url": "https://open.spotify.com/album/7H5LNy2PyN3VLUm5nnMZEc"
       },
       "artists": [
         {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+          "name": "The Charlie Daniels Band",
+          "url": "https://open.spotify.com/artist/12d4iIvTOk7JkI6ecvc3ca"
         }
       ],
-      "duration_ms": 304693,
-      "name": "Second Chance",
-      "url": "https://open.spotify.com/track/0RAn8LOs5QVMLy2xH30bUj"
+      "duration_ms": 240106,
+      "name": "Long Haired Country Boy",
+      "url": "https://open.spotify.com/track/5pihM63Tj50g1XjLxq0iU8"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -347,6 +347,22 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
+        "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
+        "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 279893,
+      "name": "Hold On Loosely",
+      "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
         "name": "Strikes",
         "url": "https://open.spotify.com/album/2nI6tciaY3r6CQR8YkXaYM"
       },
@@ -379,22 +395,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Keep On Smilin'",
-        "url": "https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60"
-      },
-      "artists": [
-        {
-          "name": "Wet Willie",
-          "url": "https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh"
-        }
-      ],
-      "duration_ms": 237333,
-      "name": "Keep On Smilin'",
-      "url": "https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Molly Hatchet",
         "url": "https://open.spotify.com/album/7cNiOClQZsNQKUfKSi6QN3"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 426000,
       "name": "Dreams I'll Never See",
       "url": "https://open.spotify.com/track/7pmQ1repUoMbViMlPrZyuD"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Keep On Smilin'",
+        "url": "https://open.spotify.com/album/1795bIZgqJOLkUh2d0JO60"
+      },
+      "artists": [
+        {
+          "name": "Wet Willie",
+          "url": "https://open.spotify.com/artist/6fzgnTv8gVkfFhA6V8Qdsh"
+        }
+      ],
+      "duration_ms": 237333,
+      "name": "Keep On Smilin'",
+      "url": "https://open.spotify.com/track/6sHrxsewgTMPs2Di4x636C"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -443,22 +459,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "20th Century Masters The Millennium Collection: Best of 38 Special",
-        "url": "https://open.spotify.com/album/5gditTVu3JNE5P8T6tafiH"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 279893,
-      "name": "Hold On Loosely",
-      "url": "https://open.spotify.com/track/6hQszXJIYhtjmSTmDqZpeU"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
@@ -471,6 +471,22 @@
       "duration_ms": 267173,
       "name": "Gimme Three Steps",
       "url": "https://open.spotify.com/track/0x2wtJbtJrox3SDmnMj97x"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Rockin' Into The Night",
+        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
+      },
+      "artists": [
+        {
+          "name": "38 Special",
+          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "Rockin' Into The Night",
+      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Rockin' Into The Night",
-        "url": "https://open.spotify.com/album/6Y5TCAPz4RNwgandUvik2A"
-      },
-      "artists": [
-        {
-          "name": "38 Special",
-          "url": "https://open.spotify.com/artist/3zXw2Eh96iTT51pytzHdZi"
-        }
-      ],
-      "duration_ms": 241226,
-      "name": "Rockin' Into The Night",
-      "url": "https://open.spotify.com/track/1rWqtf1rOYiPEb9puv2bYd"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "Pronounced' Leh-'Nerd 'Skin-'Nerd",
         "url": "https://open.spotify.com/album/6DExt1eX4lflLacVjHHbOs"
       },
@@ -555,22 +555,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Stacked Deck (Remastered)",
-        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
-      },
-      "artists": [
-        {
-          "name": "Amazing Rhythm Aces",
-          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
-        }
-      ],
-      "duration_ms": 201826,
-      "name": "Third Rate Romance - Remastered",
-      "url": "https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "The Marshall Tucker Band",
         "url": "https://open.spotify.com/album/1w7JOjdpfTBz4rvhWQDWJz"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 375600,
       "name": "Take the Highway",
       "url": "https://open.spotify.com/track/4BH6AYJ1aIPPTk6l1oMIY7"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Stacked Deck (Remastered)",
+        "url": "https://open.spotify.com/album/5ZfcBQTytv6PBbl0Q68Qg9"
+      },
+      "artists": [
+        {
+          "name": "Amazing Rhythm Aces",
+          "url": "https://open.spotify.com/artist/5wpS6LUdQYMoAreKITVtrH"
+        }
+      ],
+      "duration_ms": 201826,
+      "name": "Third Rate Romance - Remastered",
+      "url": "https://open.spotify.com/track/1oRvLqwJowH9JU0uO1iVzA"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -875,18 +875,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+        "name": "Marauder",
+        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
       },
       "artists": [
         {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+          "name": "Blackfoot",
+          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
         }
       ],
-      "duration_ms": 220533,
-      "name": "Before the Bullets Fly",
-      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
+      "duration_ms": 242773,
+      "name": "Rattlesnake Rock 'N' Roller",
+      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -907,18 +907,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Marauder",
-        "url": "https://open.spotify.com/album/7j0wSeUKj4rz2Surh5ICdN"
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
       "artists": [
         {
-          "name": "Blackfoot",
-          "url": "https://open.spotify.com/artist/10rzK0sLCXsUlDhl8ed0MV"
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rattlesnake Rock 'N' Roller",
-      "url": "https://open.spotify.com/track/1qDqZxOGB335PJYjIUvwP3"
+      "duration_ms": 220533,
+      "name": "Before the Bullets Fly",
+      "url": "https://open.spotify.com/track/5xvuT6wnNLBkKQebgAQd82"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1115,18 +1115,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Alligator Stew",
-        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
       },
       "artists": [
         {
-          "name": "Alligator Stew",
-          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
         }
       ],
-      "duration_ms": 240066,
-      "name": "Two Wheels",
-      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
+      "duration_ms": 255840,
+      "name": "Island",
+      "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1147,34 +1147,18 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+        "name": "Alligator Stew",
+        "url": "https://open.spotify.com/album/374dOT1I1hPxjzi4glBh0M"
       },
       "artists": [
         {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+          "name": "Alligator Stew",
+          "url": "https://open.spotify.com/artist/5eNaslJRIj0hjcFVdHjdWk"
         }
       ],
-      "duration_ms": 255840,
-      "name": "Island",
-      "url": "https://open.spotify.com/track/0UHSZ1m3t9vcL1MYqTJSge"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Bishop Black",
-        "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
-      },
-      "artists": [
-        {
-          "name": "Bishop Black",
-          "url": "https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh"
-        }
-      ],
-      "duration_ms": 245906,
-      "name": "Southern Hospitality",
-      "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
+      "duration_ms": 240066,
+      "name": "Two Wheels",
+      "url": "https://open.spotify.com/track/0CXtf9Z4VcSm9m9owHKYAA"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1191,6 +1175,22 @@
       "duration_ms": 355226,
       "name": "Miss Understanding",
       "url": "https://open.spotify.com/track/4sfYUnIVr30sro1cyg2Xsc"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Bishop Black",
+        "url": "https://open.spotify.com/album/3adG9Zj2SKjqR34zUTBxpR"
+      },
+      "artists": [
+        {
+          "name": "Bishop Black",
+          "url": "https://open.spotify.com/artist/1HY3IWHxgzIFyQ6HBAJmSh"
+        }
+      ],
+      "duration_ms": 245906,
+      "name": "Southern Hospitality",
+      "url": "https://open.spotify.com/track/5Egt33w53KOIf2DorWqzmr"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1243,38 +1243,6 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Just Before The Bullets Fly",
-        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
-      },
-      "artists": [
-        {
-          "name": "The Gregg Allman Band",
-          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
-        }
-      ],
-      "duration_ms": 252466,
-      "name": "Thorn And A Wild Rose",
-      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
-        "name": "Pullin' Together",
-        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
-      },
-      "artists": [
-        {
-          "name": "Grinderswitch",
-          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
-        }
-      ],
-      "duration_ms": 249626,
-      "name": "Open Road",
-      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
-    },
-    {
-      "added_at": "2024-07-05 17:03:45",
-      "album": {
         "name": "20th Century Masters: The Millennium Collection: Best Of Atlanta Rhythm Section",
         "url": "https://open.spotify.com/album/72HlYFr3YD7gWjFacHOZ6f"
       },
@@ -1287,6 +1255,22 @@
       "duration_ms": 293800,
       "name": "Georgia Rhythm",
       "url": "https://open.spotify.com/track/7aV9xwnPgzTWj3yG0nAURt"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Just Before The Bullets Fly",
+        "url": "https://open.spotify.com/album/5xoqxzmNVYYpCLVaDJkJvJ"
+      },
+      "artists": [
+        {
+          "name": "The Gregg Allman Band",
+          "url": "https://open.spotify.com/artist/5jTAPkN0XtPH0cinWMRyzw"
+        }
+      ],
+      "duration_ms": 252466,
+      "name": "Thorn And A Wild Rose",
+      "url": "https://open.spotify.com/track/547dyoV9eT7pPO8QbiexoI"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1335,6 +1319,22 @@
       "duration_ms": 223760,
       "name": "Bad Little Doggie",
       "url": "https://open.spotify.com/track/3ugXVwlV5FvbyeYRZ0YjFN"
+    },
+    {
+      "added_at": "2024-07-05 17:03:45",
+      "album": {
+        "name": "Pullin' Together",
+        "url": "https://open.spotify.com/album/4KYsD0KdmyZZT34Sp8hLUz"
+      },
+      "artists": [
+        {
+          "name": "Grinderswitch",
+          "url": "https://open.spotify.com/artist/0zdtxv7cxrUpRCS7IbKyYz"
+        }
+      ],
+      "duration_ms": 249626,
+      "name": "Open Road",
+      "url": "https://open.spotify.com/track/0qmMJfVn7KlhRab9zgwS7z"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1439,8 +1439,8 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Eat A Peach",
-        "url": "https://open.spotify.com/album/3GMfHP49EkBLBQrxaZaNi6"
+        "name": "Brothers And Sisters (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj"
       },
       "artists": [
         {
@@ -1448,9 +1448,9 @@
           "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 298133,
-      "name": "One Way Out",
-      "url": "https://open.spotify.com/track/5cIrR2h1BF0VuFgAmgeJpR"
+      "duration_ms": 288160,
+      "name": "Ramblin' Man",
+      "url": "https://open.spotify.com/track/2Q7LpkYrS0PBpoq3iCqypa"
     },
     {
       "added_at": "2024-07-05 17:03:45",
@@ -1583,8 +1583,8 @@
     {
       "added_at": "2024-07-05 17:03:45",
       "album": {
-        "name": "Brothers And Sisters (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1n9rbMLUmrXBBBJffS7pDj"
+        "name": "Eat A Peach",
+        "url": "https://open.spotify.com/album/3GMfHP49EkBLBQrxaZaNi6"
       },
       "artists": [
         {
@@ -1592,9 +1592,9 @@
           "url": "https://open.spotify.com/artist/4wQ3PyMz3WwJGI5uEqHUVR"
         }
       ],
-      "duration_ms": 288160,
-      "name": "Ramblin' Man",
-      "url": "https://open.spotify.com/track/2Q7LpkYrS0PBpoq3iCqypa"
+      "duration_ms": 298133,
+      "name": "One Way Out",
+      "url": "https://open.spotify.com/track/5cIrR2h1BF0VuFgAmgeJpR"
     },
     {
       "added_at": "2024-07-05 17:03:45",

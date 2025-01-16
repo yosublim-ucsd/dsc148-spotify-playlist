@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: Janisht Joshi, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: SHATAKSHI SHARMA, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Tere Bina",
+        "url": "https://open.spotify.com/album/1dlU5SXUBCggKAcRNv0Um9"
+      },
+      "artists": [
+        {
+          "name": "Aarch & Arise",
+          "url": "https://open.spotify.com/artist/1XPu9XMyRjcrPhVu3rHJAS"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176154,
+      "name": "Bas ek dua hai merii",
+      "url": "https://open.spotify.com/track/5E6XMAfY8LtBiK3PcMOAvW"
+    },
+    {
+      "album": {
         "name": "Bas Mere Hi Ho",
         "url": "https://open.spotify.com/album/6vvbuPEi9rEIPR0kwvF1r0"
       },
@@ -3988,7 +4006,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 188461,
       "name": "can you / hai kyun",
       "url": "https://open.spotify.com/track/6vuxf3pKSpeClE6ONnh1yt"
@@ -5457,6 +5475,28 @@
     },
     {
       "album": {
+        "name": "Dhamaal",
+        "url": "https://open.spotify.com/album/1qwR17kqq8K5rOfOVy0tiM"
+      },
+      "artists": [
+        {
+          "name": "Arslan Nizami",
+          "url": "https://open.spotify.com/artist/5yzqUq3vXrMkmfcOwMY203"
+        },
+        {
+          "name": "Qaiser Nizami",
+          "url": "https://open.spotify.com/artist/2TFelufhNan03C8eODRkbY"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270942,
+      "name": "Dhamaal",
+      "url": "https://open.spotify.com/track/6Z9jblw0HIOQfYwxgBwufA"
+    },
+    {
+      "album": {
         "name": "Dheemi",
         "url": "https://open.spotify.com/album/39Br7xTBLeUQaZ8JPg2J9S"
       },
@@ -5508,7 +5548,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 216110,
       "name": "Dhokebaaz",
       "url": "https://open.spotify.com/track/1SQjiC4ds8kEzI9aeutBpp"
@@ -7946,6 +7986,24 @@
       "duration_ms": 241632,
       "name": "Galat",
       "url": "https://open.spotify.com/track/2W3w9ZX46PIX7DHzLxUR1U"
+    },
+    {
+      "album": {
+        "name": "Gallan Mithiyaan",
+        "url": "https://open.spotify.com/album/1Hx3H2cG3Q3q2LkIN3kGAZ"
+      },
+      "artists": [
+        {
+          "name": "SHATAKSHI SHARMA",
+          "url": "https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186500,
+      "name": "Gallan Mithiyaan",
+      "url": "https://open.spotify.com/track/4RUABRzEPjA12w5AG2x6dy"
     },
     {
       "album": {
@@ -13506,6 +13564,28 @@
     {
       "album": {
         "name": "Kho Gaya Dil",
+        "url": "https://open.spotify.com/album/0FF9yH0LNNoBmFTpHP7YDr"
+      },
+      "artists": [
+        {
+          "name": "Apurva Nisshad",
+          "url": "https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ"
+        },
+        {
+          "name": "Padmanabh Gaikwad",
+          "url": "https://open.spotify.com/artist/2Z05WGDFHUizWGgqtv2usO"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172500,
+      "name": "Kho Gaya Dil",
+      "url": "https://open.spotify.com/track/4GcI8Xi0lyym1TFKKoyfDP"
+    },
+    {
+      "album": {
+        "name": "Kho Gaya Dil",
         "url": "https://open.spotify.com/album/4XHokoR1hVhTiDTouPOiPt"
       },
       "artists": [
@@ -15645,6 +15725,24 @@
     },
     {
       "album": {
+        "name": "Maalik",
+        "url": "https://open.spotify.com/album/52tKZY6rPc7KCcWB1MEBuZ"
+      },
+      "artists": [
+        {
+          "name": "Nawazishein",
+          "url": "https://open.spotify.com/artist/6NzyJwnJyzqEGckUegHVmd"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247422,
+      "name": "Maalik",
+      "url": "https://open.spotify.com/track/1GUpzvrpcy4adJ4Mmc4zxN"
+    },
+    {
+      "album": {
         "name": "Maan Ja Zara",
         "url": "https://open.spotify.com/album/2OcDMXE7awTv723TUreSRG"
       },
@@ -16848,7 +16946,7 @@
       ],
       "date_added": "2024-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 174000,
       "name": "Mera Dil Meri Jaan",
       "url": "https://open.spotify.com/track/1wnATKTqOOw1fT4eXg4q9v"
@@ -17836,7 +17934,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 232013,
       "name": "my favourite",
       "url": "https://open.spotify.com/track/102PEuDmoFXqWEidrH9uA1"
@@ -26676,7 +26774,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 160976,
       "name": "Tumhe Dikhta Kyu Nahi?",
       "url": "https://open.spotify.com/track/0jObggsBXogjXW8bRxj1Mq"
@@ -28724,6 +28822,24 @@
       "duration_ms": 259230,
       "name": "You Are Mine",
       "url": "https://open.spotify.com/track/1VXbZLIbWT4PqUYrRnzxgA"
+    },
+    {
+      "album": {
+        "name": "You are my sunshine",
+        "url": "https://open.spotify.com/album/1Q5VSYSY4T2Vk8lYFRrZpM"
+      },
+      "artists": [
+        {
+          "name": "Alexander Shangoi Syiem",
+          "url": "https://open.spotify.com/artist/37BDBrrT1h4P0pQjCr9Q4q"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183811,
+      "name": "You are my sunshine",
+      "url": "https://open.spotify.com/track/4qFivgh5nNi3AI6nYDQRiJ"
     },
     {
       "album": {

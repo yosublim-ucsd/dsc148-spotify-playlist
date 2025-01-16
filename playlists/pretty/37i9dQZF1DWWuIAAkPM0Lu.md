@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > <a href="spotify:artist:3pJK3CUpbnyX7ogDfAwa9J">MAS</a> laver en <a href="spotify:track:04oUfyBc6pT1svmfkYnsZU">Lønningsdag</a> til os 🤌
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,066 likes - 106 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,062 likes - 106 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 30 | [Wonder](https://open.spotify.com/track/483U0QATlToljk5Kb35RAM) | [Marcus & Martinus](https://open.spotify.com/artist/3N4FiTxpPQRsrihmTMN349) | [Wonder](https://open.spotify.com/album/1GDNevtXNRMvKs0NiYbU6O) | 2:23 |
 | 31 | [Closer](https://open.spotify.com/track/5QRmRfinTIKYvjq7DpK7Wz) | [NO9](https://open.spotify.com/artist/1YgD0RK80PE1HefLfL79KP), [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [CANCUN?](https://open.spotify.com/artist/5Yw8a4EYuA31E9paXwA50w), [LEOWI](https://open.spotify.com/artist/1qoalO0xHFgZRn4JhRuq7Y) | [Closer](https://open.spotify.com/album/2fhzTG4V9zynMkl5Crnw9f) | 2:45 |
 | 32 | [Nuraan](https://open.spotify.com/track/0ZIdK9xgN6vEXj27fzj8V8) | [Nandu](https://open.spotify.com/artist/5Kf73Whb7MShPJMFlvv8k0), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Nuraan](https://open.spotify.com/album/3bZYIgahZjPP58TUDJYc7d) | 3:14 |
-| 33 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
+| 33 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 34 | [FIN](https://open.spotify.com/track/0l6lihikLbmOHOIGEPnbkP) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [FIN](https://open.spotify.com/album/0KfJt11rQyexlUtbRDPFGk) | 2:24 |
 | 35 | [Hold The Light](https://open.spotify.com/track/1gvZdm2sg2xUAaF9daQRnr) | [Dominik Dudek](https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx) | [Hold The Light](https://open.spotify.com/album/2SdhyWpB8qATf1p5nzXN37) | 2:56 |
 | 36 | [By Your Side \(In My Mind\)](https://open.spotify.com/track/0pSwhT654HC2knBvjn5f89) | [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [By Your Side \(In My Mind\)](https://open.spotify.com/album/2WN1hoD8UtrSHItI9QO5Qy) | 2:57 |

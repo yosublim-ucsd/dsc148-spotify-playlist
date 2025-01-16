@@ -1,6 +1,6 @@
 {
   "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a>  \ud83d\ude80\ud83d\ude80 with Jon Casey",
-  "num_followers": 980270,
+  "num_followers": 980263,
   "original_name": "Bass Arcade",
   "owner": {
     "name": "Spotify",
@@ -851,7 +851,7 @@
     {
       "added_at": "2025-01-10 05:00:41",
       "album": {
-        "name": "Lunar Fade",
+        "name": "Lunar Fade EP",
         "url": "https://open.spotify.com/album/5RSoWqY5AOCAJz62eP1CJB"
       },
       "artists": [
@@ -1177,6 +1177,42 @@
       "url": "https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD"
     },
     {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "ONE FOR YOU",
+        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 152516,
+      "name": "ONE FOR YOU",
+      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
+    },
+    {
+      "added_at": "2025-01-10 19:55:06",
+      "album": {
+        "name": "HIGHER",
+        "url": "https://open.spotify.com/album/5mZnnmsDpQMxhkwPkibBxp"
+      },
+      "artists": [
+        {
+          "name": "Fraxy",
+          "url": "https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa"
+        }
+      ],
+      "duration_ms": 134118,
+      "name": "HIGHER",
+      "url": "https://open.spotify.com/track/7bzlFabE42gI3jTP5Wtc9u"
+    },
+    {
       "added_at": "2024-08-02 04:00:00",
       "album": {
         "name": "4EVR",
@@ -1199,42 +1235,6 @@
       "duration_ms": 191357,
       "name": "THRASH (PARTY STARTER)",
       "url": "https://open.spotify.com/track/4elUJWLSukWtdMmNIjGQKM"
-    },
-    {
-      "added_at": "2025-01-10 19:55:06",
-      "album": {
-        "name": "HIGHER",
-        "url": "https://open.spotify.com/album/5mZnnmsDpQMxhkwPkibBxp"
-      },
-      "artists": [
-        {
-          "name": "Fraxy",
-          "url": "https://open.spotify.com/artist/2AiK07wBzpRw0r1uvJZboa"
-        }
-      ],
-      "duration_ms": 134118,
-      "name": "HIGHER",
-      "url": "https://open.spotify.com/track/7bzlFabE42gI3jTP5Wtc9u"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "ONE FOR YOU",
-        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 152516,
-      "name": "ONE FOR YOU",
-      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1301,6 +1301,26 @@
       "url": "https://open.spotify.com/track/3xE0aFAEDbS3hjtBB5PKLT"
     },
     {
+      "added_at": "2024-07-26 04:00:00",
+      "album": {
+        "name": "Hallelujah",
+        "url": "https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd"
+      },
+      "artists": [
+        {
+          "name": "Subtronics",
+          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
+        },
+        {
+          "name": "Wooli",
+          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
+        }
+      ],
+      "duration_ms": 189428,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Rapid Fire",
@@ -1327,26 +1347,6 @@
       "duration_ms": 166206,
       "name": "Rapid Fire",
       "url": "https://open.spotify.com/track/0YzrViv4LXpfLotDq58YKS"
-    },
-    {
-      "added_at": "2024-07-26 04:00:00",
-      "album": {
-        "name": "Hallelujah",
-        "url": "https://open.spotify.com/album/1acUnqBZF7dYFpnPyrtFrd"
-      },
-      "artists": [
-        {
-          "name": "Subtronics",
-          "url": "https://open.spotify.com/artist/3NJ94iuAmmMjbszODYT6pO"
-        },
-        {
-          "name": "Wooli",
-          "url": "https://open.spotify.com/artist/1Uyqa2sdHm1bL5JK4IC4zc"
-        }
-      ],
-      "duration_ms": 189428,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/78a91L74IHZVQNyh3wgE3d"
     },
     {
       "added_at": "2024-03-01 05:00:00",
@@ -1993,22 +1993,6 @@
       "url": "https://open.spotify.com/track/4C6BVbsJTydFx5moRR71Q3"
     },
     {
-      "added_at": "2024-03-29 04:00:00",
-      "album": {
-        "name": "Young Majestic",
-        "url": "https://open.spotify.com/album/7yYcPo8ZZdZgfJ2vW5qEdq"
-      },
-      "artists": [
-        {
-          "name": "INZO",
-          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
-        }
-      ],
-      "duration_ms": 147555,
-      "name": "Young Majestic",
-      "url": "https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI"
-    },
-    {
       "added_at": "2024-05-17 04:00:00",
       "album": {
         "name": "Like That (Tape B Remix)",
@@ -2047,6 +2031,22 @@
       "duration_ms": 184489,
       "name": "FEEL IT",
       "url": "https://open.spotify.com/track/46ghb0YdtspAFUtmxtNgNo"
+    },
+    {
+      "added_at": "2024-03-29 04:00:00",
+      "album": {
+        "name": "Young Majestic",
+        "url": "https://open.spotify.com/album/7yYcPo8ZZdZgfJ2vW5qEdq"
+      },
+      "artists": [
+        {
+          "name": "INZO",
+          "url": "https://open.spotify.com/artist/18Eu7uJEMPWwwt1QUdCglQ"
+        }
+      ],
+      "duration_ms": 147555,
+      "name": "Young Majestic",
+      "url": "https://open.spotify.com/track/2cFHcozWQ8Kpm42bhdFqfI"
     },
     {
       "added_at": "2024-10-25 04:00:00",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/74wXW513Ovy4ux507Wo67A">Brad Mair</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-112 songs - 6 hr 16 min
+113 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [Circles](https://open.spotify.com/track/0pDMFi2TdQZaUUtsukywLs) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Survival Mode](https://open.spotify.com/album/3AK2abRr0WfTzH7aZZSda4) | 3:20 | 2024-06-13 |  |
 | [Circus](https://open.spotify.com/track/62bw5Ul7YeOXsQHq7HmT56) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Play Dead](https://open.spotify.com/album/3iOOZ1PJx2CEl7snAAW6W6) | 3:30 | 2024-06-13 |  |
 | [Cold Nights](https://open.spotify.com/track/4Md728gr9wczW4VME5Qv9M) | [LZRD](https://open.spotify.com/artist/6O2ODylN42JL651p1vcIYQ) | [Cold Nights](https://open.spotify.com/album/12ldZGZ5rPIvKFM9Z1fkSg) | 3:02 | 2024-06-13 |  |
+| [Cold Winter](https://open.spotify.com/track/2roIpXQCwjCcPC9kwh8V7x) | [Keels](https://open.spotify.com/artist/1Y2eFp5L0YHdho5WsGWSzU) | [Cold Winter](https://open.spotify.com/album/1LVIZa0uPw9qAsjdQVd05m) | 3:20 | 2025-01-15 |  |
 | [Cougar In the Corner](https://open.spotify.com/track/0sTsYnEEHFEAWnzFkQ49zB) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Cougar In the Corner](https://open.spotify.com/album/77mKy6Lxfc3Zw3KmgWrfkd) | 3:34 | 2024-06-13 |  |
 | [Crazy Bitch](https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Crazy Bitch](https://open.spotify.com/album/3nTpGSWw548JAYpwVJS4jZ) | 3:02 | 2024-09-05 |  |
 | [Crossed My Mind](https://open.spotify.com/track/4C8huou5j2RRZTfSK2idZ5) | [The Tailormade](https://open.spotify.com/artist/7dD3Cn2hLHo6WxrMOqk7c3) | [Crossed My Mind](https://open.spotify.com/album/6PBwcnOnXFuZv2qUsxV9EP) | 3:53 | 2024-06-13 |  |

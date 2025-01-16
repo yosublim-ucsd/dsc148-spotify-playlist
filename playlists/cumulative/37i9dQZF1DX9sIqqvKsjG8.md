@@ -4,7 +4,7 @@
 
 > Soft piano music to help you focus and chill.
 
-917 songs - 1 day 15 hr 11 min
+919 songs - 1 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [A Path to Light](https://open.spotify.com/track/3I2YenkJ3pTUrCSgCmzkfX) | [Sylvan Riley](https://open.spotify.com/artist/5gjHc1ZN85jbDWD5KBh2Va) | [A Path to Light](https://open.spotify.com/album/5gi00HffqWDPjJToA1tPT8) | 2:22 | 2023-01-26 |  |
 | [A Quiet Grace](https://open.spotify.com/track/4917GPMOmDwQErO8676NZl) | [Josh Alexander](https://open.spotify.com/artist/5TDpeBlmwfv69GCABGr9Gs) | [A Quiet Grace](https://open.spotify.com/album/0BlovuovBYXIVEN4J0OjLw) | 2:50 | 2022-05-05 | 2023-09-26 |
 | [A Recurring Theme](https://open.spotify.com/track/51K71t2Sk90AVbjVsBcorb) | [Cyril Mathews](https://open.spotify.com/artist/4PNqVcgrU4LxwS3GwrC4ax) | [A Recurring Theme](https://open.spotify.com/album/50lTjBe11glVo3YvOemGsH) | 2:40 | 2021-12-07 | 2024-03-26 |
+| [A Room With A View](https://open.spotify.com/track/3dW5gmYgCbNhjxsBGhGKLo) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [A Room With A View](https://open.spotify.com/album/3krOGtwCkbHMsx4O3C7aQ2) | 2:20 | 2025-01-15 |  |
 | [A Smile](https://open.spotify.com/track/6GuSaslGEKLW4vaJ1VINEH) | [Myles Mackay](https://open.spotify.com/artist/3eQGI9kcs53CVhYJMzOZJE) | [A Smile](https://open.spotify.com/album/3x5FNp8Kfk5bPuFotBdL5b) | 2:13 | 2021-12-07 | 2022-05-06 |
 | [A Song for Clara](https://open.spotify.com/track/3QyXiYnPcszAptSYP2ZICS) | [Shoshana Michel](https://open.spotify.com/artist/65YH4PPgJlL7o1gqVGncZ1) | [A Song for Clara](https://open.spotify.com/album/4NJ9DFtxsmOCQgdJKWDa71) | 2:50 | 2022-04-08 | 2023-04-26 |
 | [A Song in D Minor](https://open.spotify.com/track/1EA7xsn5BkqM4rwZCaSiTM) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [A Song in D Minor](https://open.spotify.com/album/62MuvulljSXeo7VowDXfEX) | 3:23 | 2023-01-26 |  |
@@ -290,6 +291,7 @@
 | [Fortune Teller](https://open.spotify.com/track/3V5W0NKk7JkGzBMoMOrOHb) | [Lihua Zhao](https://open.spotify.com/artist/7dsYrsCwrZat4t33c7RXPe) | [Fortune Teller](https://open.spotify.com/album/4tai0Aw4yNU9YuS37uqJoM) | 2:24 | 2024-04-15 |  |
 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 | 2021-12-07 | 2023-01-27 |
 | [Fractions](https://open.spotify.com/track/5fPW2jB6YqAUHmbVCDYkCu) | [Alicia Première](https://open.spotify.com/artist/3uADykN9RMDJGAc6mIN4mX) | [Fractions](https://open.spotify.com/album/1Iktq9JUuSzBy3gwkCzHPp) | 3:15 | 2021-12-07 | 2022-11-12 |
+| [Fragile Lines](https://open.spotify.com/track/5gSVyUJlLESVH6Rss6Qmn6) | [Hidden Piano](https://open.spotify.com/artist/4kC7loyy2JK3tXtxLCyr4m) | [Fragile Lines](https://open.spotify.com/album/27k2aULhzWZq265ROGMPbp) | 2:20 | 2025-01-15 |  |
 | [Franklin](https://open.spotify.com/track/1CCaaRbixRWqqHYI6HMlqg) | [Chris Donner](https://open.spotify.com/artist/4xwCgzlPsRwNfHdvlLwCsH) | [Franklin](https://open.spotify.com/album/2eYoxrrloroc4M3lXXs4Sf) | 3:29 | 2021-12-07 | 2022-09-24 |
 | [Free Falling](https://open.spotify.com/track/6ruIYimg1WHbK2ciDt1hWv) | [Madelene Olsson](https://open.spotify.com/artist/32zdWfzzE8XBuoOPEzJcS3) | [Free Falling](https://open.spotify.com/album/1xX4HiqbN3j0R4F71pbLHe) | 3:19 | 2023-05-09 | 2024-10-23 |
 | [Frühlingsbach](https://open.spotify.com/track/5q3d5I3rMvfKAuyDvmBwwe) | [Pontiver Bogross](https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw) | [Frühlingsbach](https://open.spotify.com/album/08s8yCYnuv2L21WxgomVTb) | 2:51 | 2021-12-07 | 2022-07-20 |

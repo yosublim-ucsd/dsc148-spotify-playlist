@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,409 likes - 43 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,457 likes - 43 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 19 | [Fly Away](https://open.spotify.com/track/0Z70fswfVFagFpHBAWm6o8) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [Hansy Calm Down](https://open.spotify.com/album/6lsqhV9bIcdzs2KvyFuMJ2) | 3:33 |
 | 20 | [News in details](https://open.spotify.com/track/7t4DXa5GiaVpUziJU4cqHR) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ) | [News in details](https://open.spotify.com/album/2EJB5EywXFbah6N46c6cU5) | 2:24 |
 | 21 | [PRAY](https://open.spotify.com/track/04HaRnRxAv5DdN0qUMQLHB) | [Carterefe](https://open.spotify.com/artist/5N9rf2O5ASaO5oiVh5is5n), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [PRAY](https://open.spotify.com/album/1BOMVoUaUwYfEJhvqVACts) | 2:35 |
-| 22 | [Mo Gbo Kpa](https://open.spotify.com/track/70KeudjMcTBP9ktubDDRfg) | [Magikid](https://open.spotify.com/artist/74yeyQ4LbCUqQDxFDdXGsJ), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Khaid](https://open.spotify.com/artist/6THyJH9AnU7KJu5CjHRhFF) | [Mo Gbo Kpa](https://open.spotify.com/album/2HfKaLjE8kH0y5ZqE9Uutk) | 2:29 |
+| 22 | [Mo Gbo Kpa](https://open.spotify.com/track/70KeudjMcTBP9ktubDDRfg) | [Magikid](https://open.spotify.com/artist/74yeyQ4LbCUqQDxFDdXGsJ), [Olivetheboy](https://open.spotify.com/artist/6yCYm86uDrfUteHNs6zcg1), [Khaid](https://open.spotify.com/artist/2mM6BxFQCd6BHzW4W7VhQP) | [Mo Gbo Kpa](https://open.spotify.com/album/2HfKaLjE8kH0y5ZqE9Uutk) | 2:29 |
 | 23 | [Azul \- Yaba Buluku Boyz x DJ Tarico Remix](https://open.spotify.com/track/1zWvAyHg2ndjPKuS46g7gA) | [Mr\. Dutch](https://open.spotify.com/artist/14v8N6lM4z703uXHAVC9zN), [Yaba Buluku Boyz](https://open.spotify.com/artist/5up0tKZtU7fxSrZl1oeyIi), [DJ Tarico](https://open.spotify.com/artist/33CYyUywVRqTra6IdaQ35H) | [Azul \(Yaba Buluku Boyz x DJ Tarico Remix\)](https://open.spotify.com/album/5Gp9eceAjyGuM2a7AzqWbY) | 4:04 |
 | 24 | [Omo Oro Mi](https://open.spotify.com/track/453rVlX1PXnzcUlsehW3N0) | [Tekunbi](https://open.spotify.com/artist/6WHUUUrDpFfo2ru3WN7p2g), [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM) | [Omo Oro Mi](https://open.spotify.com/album/3lovLrrJJywttmEh97p2r1) | 3:00 |
 | 25 | [Nostalgia Street House](https://open.spotify.com/track/1yVRwtTVmhaWVfiAFHz6lS) | [Dj khalipha](https://open.spotify.com/artist/26l8B7ThPgYc7a1rZbdStB) | [Nostalgia Street House](https://open.spotify.com/album/1iqFl5b7h2Byo2yXJznIXW) | 2:20 |

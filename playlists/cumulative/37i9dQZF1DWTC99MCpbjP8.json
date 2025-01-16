@@ -2979,6 +2979,24 @@
     },
     {
       "album": {
+        "name": "Filigree",
+        "url": "https://open.spotify.com/album/6mRKNvVgv05PvVulU2mHsM"
+      },
+      "artists": [
+        {
+          "name": "Ren Lockhart",
+          "url": "https://open.spotify.com/artist/2o6Pj478mXZrEZbEFnAbXp"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152833,
+      "name": "Filigree",
+      "url": "https://open.spotify.com/track/59nGO5jYiozyEG87wUuUqU"
+    },
+    {
+      "album": {
         "name": "Finding Peace",
         "url": "https://open.spotify.com/album/3UBjil8VBvpkL9qub4syby"
       },
@@ -9972,6 +9990,24 @@
       "duration_ms": 146580,
       "name": "To Let Go",
       "url": "https://open.spotify.com/track/2MUBJrvs9yanwhD9HZnXUB"
+    },
+    {
+      "album": {
+        "name": "To the Morning Light",
+        "url": "https://open.spotify.com/album/2i6eUXMuCvUazHgZaV6NIs"
+      },
+      "artists": [
+        {
+          "name": "James Here",
+          "url": "https://open.spotify.com/artist/1iGSzD89Ci6EvzlGQeziR4"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155079,
+      "name": "To the Morning Light",
+      "url": "https://open.spotify.com/track/6FYOf0yudOyYiLS7t8cNel"
     },
     {
       "album": {

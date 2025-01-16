@@ -1,6 +1,6 @@
 {
   "description": "\uc774\ubcc4, \uc2ac\ud514, \uacf5\ud5c8\ud568. \ub098\uc758 \uc6b0\uc6b8\uc5d0 \uacf5\uac10\ud574\ubcf4\uc138\uc694",
-  "num_followers": 18193,
+  "num_followers": 18208,
   "original_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",
   "owner": {
     "name": "Spotify",
@@ -647,6 +647,22 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
+        "name": "Empty words",
+        "url": "https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU"
+      },
+      "artists": [
+        {
+          "name": "Huh Gak",
+          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+        }
+      ],
+      "duration_ms": 252144,
+      "name": "Empty words",
+      "url": "https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg"
+    },
+    {
+      "added_at": "2024-10-27 13:02:30",
+      "album": {
         "name": "Unreachable",
         "url": "https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm"
       },
@@ -667,18 +683,18 @@
     {
       "added_at": "2024-10-27 13:02:30",
       "album": {
-        "name": "Empty words",
-        "url": "https://open.spotify.com/album/0rMu2ccCP5oQJnLogE2idU"
+        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
+        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
       },
       "artists": [
         {
-          "name": "Huh Gak",
-          "url": "https://open.spotify.com/artist/49vOeJAPxAz6YmVZPNM7ys"
+          "name": "Sunwoojunga",
+          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
         }
       ],
-      "duration_ms": 252144,
-      "name": "Empty words",
-      "url": "https://open.spotify.com/track/3Hf9mJbB2Pif4n3VkB1Lzg"
+      "duration_ms": 297173,
+      "name": "Going Home",
+      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2024-10-27 13:02:30",
@@ -695,22 +711,6 @@
       "duration_ms": 218360,
       "name": "something",
       "url": "https://open.spotify.com/track/52FF2xeetk0dWtEwUkeWk8"
-    },
-    {
-      "added_at": "2024-10-27 13:02:30",
-      "album": {
-        "name": "Call It Love, Part 3 (Original Soundtrack from the Disney+ Original Series)",
-        "url": "https://open.spotify.com/album/6nymfoD8cwhnm1jMkuHvI2"
-      },
-      "artists": [
-        {
-          "name": "Sunwoojunga",
-          "url": "https://open.spotify.com/artist/04L3elxyr0XFua2Ek3domW"
-        }
-      ],
-      "duration_ms": 297173,
-      "name": "Going Home",
-      "url": "https://open.spotify.com/track/4tHETrzVBsR50PKRmw9yZA"
     },
     {
       "added_at": "2024-10-27 13:02:30",

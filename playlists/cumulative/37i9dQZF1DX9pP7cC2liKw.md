@@ -4,7 +4,7 @@
 
 > Immerse yourself in the mysticism of Tulum!
 
-354 songs - 1 day 0 hr 28 min
+355 songs - 1 day 0 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -294,7 +294,7 @@
 | [Siesta Freestyle](https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg), [Alicia te quiero](https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS) | [Dancy Party](https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE) | 3:14 | 2022-04-17 | 2023-03-25 |
 | [Sirena](https://open.spotify.com/track/5BkfQ5o9XfCqvdkWqG6Dya) | [Mercuriana](https://open.spotify.com/artist/3x4gcgomtejtFbPKCrOPkf) | [Mercuriana Armonía Cósmica](https://open.spotify.com/album/28aucAGf2eQFNfSYGd3PlD) | 3:51 | 2022-04-17 | 2022-06-17 |
 | [Smells Like You](https://open.spotify.com/track/3knO1ek0smFqqsQNR5HaU6) | [Origāmi](https://open.spotify.com/artist/0wUeskhCjrNua9CuV5D0Z0), [Pau Sotomayor](https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN) | [Smells Like You](https://open.spotify.com/album/1uVLTR5cjjBE8eeRmXHoMM) | 4:29 | 2024-01-11 | 2024-04-20 |
-| [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-22 |  |
+| [SMT](https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP) | [SMT](https://open.spotify.com/album/03D2z5rFjWwL1menJGfcmQ) | 3:17 | 2023-03-22 | 2025-01-16 |
 | [Sol](https://open.spotify.com/track/5IGeqVfb7d2qCd4PYDuMfg) | [Self Sabotage](https://open.spotify.com/artist/77KBS3GEO7sQRlaBQ7dDMN) | [Visums](https://open.spotify.com/album/4svMVJAISadSiQaFJUTt3I) | 3:22 | 2022-05-06 | 2022-07-23 |
 | [Sol Clap](https://open.spotify.com/track/54f08k7H92QH8RbfRZx8bl) | [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [Magnetica](https://open.spotify.com/album/1M6ierIXoblyoKVFeffCtr) | 3:50 | 2022-06-15 |  |
 | [Somos](https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH) | [DJ Raff](https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2) | [Encontrar](https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs) | 5:53 | 2024-05-23 | 2024-11-09 |
@@ -330,6 +330,7 @@
 | [The Ocean](https://open.spotify.com/track/204FgGC3890KCzUvtG33qV) | [Anchorsong](https://open.spotify.com/artist/7JFO7bnWWApOFvTMS3NFgh), [Bookend](https://open.spotify.com/artist/25Fdr64rur2zWVMYSnit4i) | [Mirage](https://open.spotify.com/album/5W4WsP6C2y0TO1y2WaWp5E) | 4:02 | 2022-04-17 | 2022-07-29 |
 | [Tierra](https://open.spotify.com/track/4JnUNSoH5576ZKA9CPLQhD) | [Vesica Piscis](https://open.spotify.com/artist/215IxsTB1f6DHjI84nXJm6) | [Vesica Piscis](https://open.spotify.com/album/1wLQVoxpUOdcCymwnCyH7e) | 5:12 | 2022-03-17 | 2022-07-29 |
 | [Ties Unwind](https://open.spotify.com/track/1m7LhXEHrkFp0X2DNFQwBS) | [Boostive](https://open.spotify.com/artist/2G8WMHh4Bnw67t5u6dGBJC), [Racquel Jones](https://open.spotify.com/artist/3cKtACqghal3orX5jPdsbp), [Divina Jasso](https://open.spotify.com/artist/6L8gOmISp00exQhnRGXHlx) | [Ties Unwind](https://open.spotify.com/album/2HgZOS0eaDgkpnCvGl63VJ) | 3:21 | 2023-06-01 | 2023-08-05 |
+| [Tikiri](https://open.spotify.com/track/3x6mcLgaZNaBGONTG2Ebb1) | [Chuwi](https://open.spotify.com/artist/6wF1Cz760dpdbX9RJIDpQW) | [Pan](https://open.spotify.com/album/2Z7Q2m7lLYBHJlZWRMENft) | 3:41 | 2025-01-15 |  |
 | [To My Love \- Tainy Remix](https://open.spotify.com/track/5LciLoxa1gK70yIUeoHgRx) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2), [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB) | [Amanecer \(Remixed\)](https://open.spotify.com/album/7jo5KFYHLHpbVX0glLHiIA) | 4:11 | 2022-06-15 | 2023-03-25 |
 | [Todo Cambia](https://open.spotify.com/track/2f3mTJUP0bhLf9q9jgfIeQ) | [Son de Aquí](https://open.spotify.com/artist/1LY5S6drcTyXaGRQSuv3mJ) | [Al Otro Lado del Mar](https://open.spotify.com/album/1cMLf2f5pP1TDA5z0sGi8G) | 4:18 | 2022-09-03 | 2022-11-17 |
 | [todo el día \- sonic ranch version](https://open.spotify.com/track/5qpurGWSxraAEIb0FkQmve) | [Cadereira](https://open.spotify.com/artist/7DTKyMRxUoxcN0cXqrRzIO) | [todo el día \(sonic ranch version\)](https://open.spotify.com/album/5iOetlgp0gp3WH3NjgTtI1) | 3:37 | 2024-09-07 |  |

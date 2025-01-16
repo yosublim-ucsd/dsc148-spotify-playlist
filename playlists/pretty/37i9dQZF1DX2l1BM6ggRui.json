@@ -1,6 +1,6 @@
 {
   "description": "\ub4e3\uace0\ub9cc \uc788\uc5b4\ub3c4 \ud589\ubcf5\ud55c \ub178\ub798\ub4e4\uacfc \ub354\ub354\uc6b1 \ud589\ubcf5\ud558\uc138\uc694 ;)",
-  "num_followers": 6759,
+  "num_followers": 6763,
   "original_name": "\ud589\ubcf5\uc744 \ub4dc\ub824\uc694 (K-Pop Happy Songs)",
   "owner": {
     "name": "Spotify",
@@ -811,26 +811,18 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Once In a Summer",
-        "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
+        "name": "Beloved",
+        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
       },
       "artists": [
         {
-          "name": "Dept",
-          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
-        },
-        {
-          "name": "Ashley Alisha",
-          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
-        },
-        {
-          "name": "Kelsey Kuan",
-          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
+          "name": "SORAN",
+          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
         }
       ],
-      "duration_ms": 200973,
-      "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
-      "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
+      "duration_ms": 277653,
+      "name": "Be with me",
+      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -851,18 +843,26 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Beloved",
-        "url": "https://open.spotify.com/album/3BYnEzSiJP33hiJE3JrTpu"
+        "name": "Once In a Summer",
+        "url": "https://open.spotify.com/album/7mieRQVDslmslEystozZ0t"
       },
       "artists": [
         {
-          "name": "SORAN",
-          "url": "https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R"
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "Ashley Alisha",
+          "url": "https://open.spotify.com/artist/63P6hjn73jNbnEFT0gKWKk"
+        },
+        {
+          "name": "Kelsey Kuan",
+          "url": "https://open.spotify.com/artist/4aWzckAj2ZOeSBbLyYXtR9"
         }
       ],
-      "duration_ms": 277653,
-      "name": "Be with me",
-      "url": "https://open.spotify.com/track/3hJqHWHOnUabXbbDym1HrI"
+      "duration_ms": 200973,
+      "name": "Once In a Summer (feat. Ashley Alisha & Kelsey Kuan)",
+      "url": "https://open.spotify.com/track/5O0ug2pQVceJN72y7Flsbn"
     },
     {
       "added_at": "2024-11-06 07:05:36",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-11-06 07:05:36",
       "album": {
-        "name": "Loving You",
-        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
-      },
-      "artists": [
-        {
-          "name": "Harryan Yoonsoan",
-          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
-        }
-      ],
-      "duration_ms": 227866,
-      "name": "Loving You",
-      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
-    },
-    {
-      "added_at": "2024-11-06 07:05:36",
-      "album": {
         "name": "Cat's Nap zzZ",
         "url": "https://open.spotify.com/album/701D0tYv2uuOmTCVSKIkMD"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 191375,
       "name": "Cat's Nap zzZ (feat. Utopi)",
       "url": "https://open.spotify.com/track/1lfmSCkroWDyBXJsdcRW3H"
+    },
+    {
+      "added_at": "2024-11-06 07:05:36",
+      "album": {
+        "name": "Loving You",
+        "url": "https://open.spotify.com/album/5ge9kWY7r7p7i8U0NaqYAm"
+      },
+      "artists": [
+        {
+          "name": "Harryan Yoonsoan",
+          "url": "https://open.spotify.com/artist/1yiaSLGVlq43ZC9pFLQ8lQ"
+        }
+      ],
+      "duration_ms": 227866,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/53aDH7PeR9UUAas6PAxYcE"
     },
     {
       "added_at": "2024-11-06 07:05:36",

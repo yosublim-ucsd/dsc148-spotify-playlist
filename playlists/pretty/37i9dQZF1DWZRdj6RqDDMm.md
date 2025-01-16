@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5?si=2vVuSI4bTjGu8dtRbf8tYw>Shime Ahua
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,673 likes - 70 songs - 4 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,725 likes - 70 songs - 4 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 9 | [Darling Jesus](https://open.spotify.com/track/3ePKfVhpGQWdcm05CDKM36) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Neeja](https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi) | [Darling Jesus](https://open.spotify.com/album/2BP5xcuHfvDJVNdH1m8kMu) | 2:01 |
 | 10 | [Confidence](https://open.spotify.com/track/4hyDPdiO14dwPmhPhlW8xE) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp) | [Confidence](https://open.spotify.com/album/0fJaLIpMiumMavCQtcvYx6) | 4:59 |
 | 11 | [Oh Mpa](https://open.spotify.com/track/4ZveSGfjIUWpBm1RO8dsoD) | [MUNACHi4u](https://open.spotify.com/artist/6xOOLSoOB6VI4n6X5pexao), [Nolly](https://open.spotify.com/artist/1qDxmgIV0aTR4QGRL4zXWM) | [Oh Mpa](https://open.spotify.com/album/3NXAo7AMQmzIgp2Hcupn5t) | 3:48 |
-| 12 | [Come Thou Fount](https://open.spotify.com/track/2FSajE2kAaMr88P5q3ci5p) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Collage](https://open.spotify.com/artist/3BKBrp91niOQBmVJQsRg7R), [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [Come Thou Fount](https://open.spotify.com/album/7gBRTwE247sdsBwKY9I1Tf) | 2:17 |
+| 12 | [Come Thou Fount](https://open.spotify.com/track/2FSajE2kAaMr88P5q3ci5p) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Jae Sekoya](https://open.spotify.com/artist/0kJwyMUjDs6cebm8YzOa69), [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [Come Thou Fount](https://open.spotify.com/album/7gBRTwE247sdsBwKY9I1Tf) | 2:17 |
 | 13 | [heaven on earth](https://open.spotify.com/track/5z2Iiuh9BOAyeiKNm4H6Ck) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [heaven on earth](https://open.spotify.com/album/4gyOK38hfHydcIWYZxrWeA) | 3:23 |
 | 14 | [Obinigwe](https://open.spotify.com/track/2gfh7QNGVJIdnTA1GSVqnU) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Obinigwe](https://open.spotify.com/album/1ZcK96zMWufzdsMu1yMVmT) | 9:07 |
 | 15 | [cadence](https://open.spotify.com/track/0nPROGcGtM4BDqKgZDWIRH) | [Kojo Dave](https://open.spotify.com/artist/2SjA4XyWd56a9VEfOoXrce), [Kushim](https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX), [RMNT](https://open.spotify.com/artist/5nBUMnjOu0TLZuiVkUWwSa) | [cadence](https://open.spotify.com/album/7CGm5SU6LknHNVNn5AL3zf) | 2:36 |

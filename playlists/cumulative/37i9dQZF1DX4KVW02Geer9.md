@@ -4,7 +4,7 @@
 
 > クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: 賽
 
-196 songs - 14 hr 3 min
+197 songs - 14 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -72,7 +72,7 @@
 | [Floating Ocean](https://open.spotify.com/track/77d3P1x4OEPstx9enrcbVF) | [Yusuke Shima](https://open.spotify.com/artist/0pJNX3A4a4Q6KuMLXgOfa8), [河野祐亮](https://open.spotify.com/artist/6k7HOIGhoFAB6CHeElFDHD) | [Floating Ocean](https://open.spotify.com/album/5mDPGDsPVnykhjVOrHg58c) | 3:45 | 2024-06-27 | 2024-07-12 |
 | [fly bys](https://open.spotify.com/track/76P6aUFKiERCEpcVqMB8i2) | [LHRHND](https://open.spotify.com/artist/5Y4wI02HN3fDWmqO0OKGir), [maco marets](https://open.spotify.com/artist/5DbBdSGEbUynwuApR95Bfi) | [fly bys](https://open.spotify.com/album/47lONTnQXNykToQaD6OUPD) | 3:35 | 2024-06-27 | 2024-07-19 |
 | [Free](https://open.spotify.com/track/698G8JleGPVeEXZBpaGGlC) | [Nubiyan Twist](https://open.spotify.com/artist/5HNkGissAKlCv88sus7rVO), [Onipa](https://open.spotify.com/artist/3M4siMIW7Pm9cT4jb1oNb5), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Find Your Flame \(Deluxe Edition\)](https://open.spotify.com/album/2PC32ErhVUGoW7kgO5pyvy) | 2:51 | 2024-10-18 |  |
-| [Free as a Bird](https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Free as a Bird](https://open.spotify.com/album/2ODShvedm9rxASw0aNfqCQ) | 2:59 | 2024-06-27 |  |
+| [Free as a Bird](https://open.spotify.com/track/1Zn7DUiH5Ot0XkzpL6s7vt) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Jarreau Vandal](https://open.spotify.com/artist/6f96znq79wvlknKHHHhtTW) | [Free as a Bird](https://open.spotify.com/album/2ODShvedm9rxASw0aNfqCQ) | 2:59 | 2024-06-27 | 2025-01-16 |
 | [Get Lit](https://open.spotify.com/track/71W5DxBrYZaTuN2InvogKq) | [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU), [George Clinton](https://open.spotify.com/artist/2GVBp7QyHckoOg7rYkLvrA), [D Smoke](https://open.spotify.com/artist/23rK0hajv5ix2yPM4IIgOo) | [Fearless Movement](https://open.spotify.com/album/0Jy18n9qpKS4RyDYmaPpdL) | 3:26 | 2024-06-27 | 2024-12-18 |
 | [Give Me Your Love](https://open.spotify.com/track/0mtHN0H06S4Iefm43Kzlq2) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love](https://open.spotify.com/album/3AZpaJgFQ7iPTMmpVnPhif) | 4:11 | 2024-06-27 | 2024-08-09 |
 | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/track/3t5jf0Qgk9oJU6kOOHU7cZ) | [Ezra Collective](https://open.spotify.com/artist/5BRAUN0yN8557PLRZIr02W), [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [God Gave Me Feet For Dancing \(feat\. Yazmin Lacey\)](https://open.spotify.com/album/0ox9tbhuvpoGllNRJ87IOe) | 3:59 | 2024-07-25 | 2024-10-18 |
@@ -172,6 +172,7 @@
 | [Sweeter Than](https://open.spotify.com/track/1cWS52bKcX1YPqosye28Hf) | [Kokoroko](https://open.spotify.com/artist/3u9rbdcmA6CxjxOAkjaeFr) | [Get The Message](https://open.spotify.com/album/2lBblu7sNDW7voZtOL9GAd) | 2:45 | 2024-11-07 |  |
 | [T.H.E\. feat.JUDY.](https://open.spotify.com/track/0Y5wlmlSkc375C3vpCkFzh) | [SMOKIN’theJAZZ](https://open.spotify.com/artist/2EPBUwyVFGqahuZ4TK150I), [JUDY.](https://open.spotify.com/artist/2xOqpYBe41hnQErih2JNkb) | [T.H.E\. feat.JUDY.](https://open.spotify.com/album/0nh30eJAa2ic96ORf5YeZK) | 4:45 | 2024-06-27 | 2024-10-27 |
 | [Tadow \- Full Crate Remix](https://open.spotify.com/track/5jmIqmpayAyOne9zi32v4T) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Full Crate](https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g) | [Tadow \(Full Crate Remix\)](https://open.spotify.com/album/1iFdK7StDJSJHjicCG55wM) | 3:08 | 2024-11-07 |  |
+| [Tangerine](https://open.spotify.com/track/7Ay3m1nRtwKq13t6yDzHgf) | [Nariaki](https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk) | [Zatto](https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig) | 5:43 | 2025-01-15 |  |
 | [The Librarian](https://open.spotify.com/track/3KDrIt9NLuDY9Y4euXv5ZQ) | [Sefi Zisling](https://open.spotify.com/artist/5EctF8sY4mgGmG2II0rw9H) | [The Librarian](https://open.spotify.com/album/0731xZnxaod65PQ9ddjxUB) | 6:32 | 2024-06-27 | 2024-11-08 |
 | [The Scene](https://open.spotify.com/track/7sdieOhSVuir4fIGrNLICY) | [edbl](https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO), [IYAMAH](https://open.spotify.com/artist/3kf01riKEcjHq6eiATvWT1), [Jelani Blackman](https://open.spotify.com/artist/0fjaIHFhiW9vWX8bncZCOo) | [2010 Mixtape](https://open.spotify.com/album/19djQgfrSTjq7mwNZxx6SZ) | 3:25 | 2024-07-11 |  |
 | [Thunderbolt New Theme](https://open.spotify.com/track/6WZd2Pz4IXz10gS6xpS5GU) | [Naruyoshi Kikuchi](https://open.spotify.com/artist/5jGe8zos8U6KRs0wiLWcmv) | [オリジナル・サウンドトラック「機動戦士ガンダム サンダーボルト」2](https://open.spotify.com/album/4wDiolqt2LGgpTSkIuLmLY) | 5:01 | 2024-06-27 | 2024-07-19 |

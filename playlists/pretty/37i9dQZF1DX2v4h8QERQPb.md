@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2v4h8QERQPb.md) - [plain]
 
 > Rimas argentinas\. Foto: Sara Hebe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,746 likes - 102 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,727 likes - 102 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall du moment\. Photo : Blaiz Fayah
 
-[Spotify](https://open.spotify.com/user/spotify) - 169,708 likes - 40 songs - 1 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 169,774 likes - 40 songs - 1 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 | 3 | [LA PLI SI TOL \- Shatta Remix](https://open.spotify.com/track/2IVDn8kDkwfWliwB3PYZb4) | [Mikado](https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE) | [LA PLI SI TOL \(Shatta Remix\)](https://open.spotify.com/album/3rpPwBBQmWsTsVIBQDJZGV) | 2:03 |
 | 4 | [Mondialité](https://open.spotify.com/track/70e5eDplRVp58E4ide0nIV) | [P.L.L](https://open.spotify.com/artist/13RiaFe3XEZ4jw8t6YRquf) | [Mondialité](https://open.spotify.com/album/2oQdkHrSfTF8E6kzeeSagi) | 2:09 |
 | 5 | [Ba Ba Bad](https://open.spotify.com/track/4jW4qcZrYF0uy0WwGi9Fwt) | [Kybba](https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Ba Ba Bad](https://open.spotify.com/album/6M8IIwUeP50mLIM55s5yXK) | 2:24 |
-| 6 | [Mwen An Sa](https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX) | [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [SKUNK](https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mwen An Sa](https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi) | 2:59 |
+| 6 | [Mwen An Sa](https://open.spotify.com/track/1GiJNHhNGReHSeHbkU02DX) | [SKUNK](https://open.spotify.com/artist/1sDx64DECVKoHeolqZLE57), [Tiitof](https://open.spotify.com/artist/0lCzbSVa8RZoPsuDM9YBJS), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Mwen An Sa](https://open.spotify.com/album/2NWVtbSq7FJPKi6ri4TWTi) | 2:59 |
 | 7 | [Money Pull Up](https://open.spotify.com/track/0nDfHusx7VcKDBno4QYfkg) | [Blaiz Fayah](https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7), [Maureen](https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD), [Dj Glad](https://open.spotify.com/artist/0gjAAo7BlTd5MmP7qvIQLe) | [Money Pull Up](https://open.spotify.com/album/6OntrtGTUwdWI0aH3Codpn) | 2:08 |
 | 8 | [Pété Tchouw](https://open.spotify.com/track/3NFdsbXTff5giZ7qERfDMJ) | [Le Jèm'ss](https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp), [Jona](https://open.spotify.com/artist/6Etg7be4vw7iSzHvIllAqM), [JDS](https://open.spotify.com/artist/3VtI22hhGVC6TzcDyAbjWm) | [Pété Tchouw](https://open.spotify.com/album/2lR0UG5bWJveoHGsYbYSom) | 1:53 |
 | 9 | [ça pique am remix](https://open.spotify.com/track/0pOeeaiSFtB9zcGNggv5Ax) | [Afro Moombattack](https://open.spotify.com/artist/0buRzy2mdvzIN356nhsnsO), [T\-Jy](https://open.spotify.com/artist/28YuYWLmKm0vl1gb5cUIta), [ASH](https://open.spotify.com/artist/4RxOcYere2aEs5vqCYxexW), [Jimmy Gassel](https://open.spotify.com/artist/31ghW0UwJ7HhkRb7TQaKuT) | [ça pique am remix](https://open.spotify.com/album/5hflrePJ5QQGpjWHAOHDmp) | 2:57 |

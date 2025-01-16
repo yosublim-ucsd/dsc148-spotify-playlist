@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 
 > Tropical tunes from the Indo\-Caribbean diaspora.
 
-[Spotify](https://open.spotify.com/user/spotify) - 22,519 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 22,528 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 7 | [Gunga Ghana](https://open.spotify.com/track/6scC03TvTwI1VbEGIYrD8R) | [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj), [Dubraj Persad](https://open.spotify.com/artist/4utj62fmWsquEdUPamiUDX) | [Gunga Ghana](https://open.spotify.com/album/5HHAYnNENqxTSYOnnx1Ilk) | 4:07 |
 | 8 | [Aur Chale \(feat\. Dil\-E\-Nadan\)](https://open.spotify.com/track/0rqf6vbpvLhynNJz6ya5zG) | [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk), [Dil\-E\-Nadan](https://open.spotify.com/artist/34B244yve10xAS2LK6VknY) | [Independent Lady](https://open.spotify.com/album/5MX7SERtmC5ObbiWxgVhKb) | 3:24 |
 | 9 | [Barman](https://open.spotify.com/track/4luG5N7yt5gV41Z2pzgtsu) | [Rikki Jai](https://open.spotify.com/artist/1DsXYGSDoSk6szKIVl9fnd) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:53 |
-| 10 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/4bdt4Twty5nZAjR3WsnzNg) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
-| 11 | [Free Like a Bird](https://open.spotify.com/track/4aaRKvMcByCxVtmssBvN4D) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Free Like a Bird](https://open.spotify.com/album/769e5weHHS4L5MWc8KhobY) | 2:57 |
+| 10 | [Free Like a Bird](https://open.spotify.com/track/4aaRKvMcByCxVtmssBvN4D) | [Yung Bredda](https://open.spotify.com/artist/10AVFI86WCq4tNhY31g6FL) | [Free Like a Bird](https://open.spotify.com/album/769e5weHHS4L5MWc8KhobY) | 2:57 |
+| 11 | [Ah Drinka](https://open.spotify.com/track/5wIyeEZbS6mufivybplOEw) | [Ravi B & Problem Child](https://open.spotify.com/artist/4bdt4Twty5nZAjR3WsnzNg) | [Soca Gold 2010](https://open.spotify.com/album/62Lj4znCqFpTXgbtiGPGW1) | 4:25 |
 | 12 | [Chataniya](https://open.spotify.com/track/7wVx2fa8mMotK9FM6o9m6B) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Chataniya](https://open.spotify.com/album/66Zvn8tu5lGF34dWtcXFYU) | 3:45 |
 | 13 | [Love You Again](https://open.spotify.com/track/1yH3Gb72AWXlTpJbbr4Amf) | [Ki & the Band](https://open.spotify.com/artist/0z79pZtEi1CkDICY4Q5ZxW) | [Love You Again](https://open.spotify.com/album/1yPhTWthx8zbzFfI9CxOmC) | 3:16 |
 | 14 | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/track/5sn0V3nw7iS42hrj2mQ0Sl) | [Nisha B](https://open.spotify.com/artist/6IajZXjeim787TECOi1vLR), [Ravi B](https://open.spotify.com/artist/6r9ZI8cFoP2cbszW50tdJj) | [Ghungroo \(feat\. Ravi B\)](https://open.spotify.com/album/1tWzdyvTgq5XXoN5KXJZxE) | 4:16 |
@@ -38,17 +38,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWXmRdYIgq8J.md) - [plain]
 | 28 | [Sweet Music](https://open.spotify.com/track/0BoXb90LdGTpy4TmpOZygA) | [Savita Singh TT](https://open.spotify.com/artist/3xZQr5mvpbIl6CEAN0jU7i) | [Sweet Music](https://open.spotify.com/album/7LRXkjgTP0OLpo1UsxDoLa) | 3:07 |
 | 29 | [Kariaiyan Na Toro](https://open.spotify.com/track/63dPUEVIPdpwhML1EVS4CX) | [Ameena Ramsaran](https://open.spotify.com/artist/13oaDW0k8DbnU6HJ4n7I3v) | [Chutney Party Mix](https://open.spotify.com/album/6W123r77NOcUmX0SVAk8FW) | 5:39 |
 | 30 | [Bhalay Ki \- Sohar](https://open.spotify.com/track/5Nf9dZNAXTBZsEegeIfnxE) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 3:54 |
-| 31 | [Saiyan Toray](https://open.spotify.com/track/3gzcu3KSs6NvikMaUQP7e0) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Soca](https://open.spotify.com/album/2a8UdL4RPbeJPBVyMZFMbX) | 3:52 |
+| 31 | [Naina Bandh](https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 5:23 |
 | 32 | [Balama](https://open.spotify.com/track/3Zw2VFaqvZAkn1uMKX9jKe) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd) | [Dekho Lawa](https://open.spotify.com/album/0NhPsvgyL8J66KKggFU2KR) | 4:21 |
 | 33 | [Pussur Pussur](https://open.spotify.com/track/4Z75gf4OJbcvIActA0F2vG) | [Anand Yankaran](https://open.spotify.com/artist/4gYBhFoqhQl4FJrfnNAFoy) | [Elements of Chutney](https://open.spotify.com/album/4AcRATTPdmUgLptdLfouO8) | 5:43 |
 | 34 | [Holi Kare](https://open.spotify.com/track/3fd0xrRbadHWBQOxICpu5C) | [Ravi B and Karma the Band](https://open.spotify.com/artist/0f2Ro30PphxH8JaXsr2fFC) | [License to Wine](https://open.spotify.com/album/1kphTUZucP58mHBqDdtwIp) | 2:57 |
 | 35 | [Kaylat Raha](https://open.spotify.com/track/1ynopzLTx72TqrkD9KyZLr) | [Sally Sagram](https://open.spotify.com/artist/3h2YMkiocFuXM0jfTGMNB3) | [Kaylat Raha](https://open.spotify.com/album/3UwRZEzfyvvQ9fvx5DIf7O) | 4:01 |
 | 36 | [This Gyal Claim](https://open.spotify.com/track/4tSEMmTIESmG5QmkvzIUlO) | [Shelly G](https://open.spotify.com/artist/64uXi7R2MSQU7FStLJ1VLq) | [Chutney](https://open.spotify.com/album/5uWew2QJ2sDJwssXruyPmS) | 3:31 |
 | 37 | [TOO MUCH PAIN](https://open.spotify.com/track/48Sk7Bq3mJwQvFCSZfi035) | [Kenneth Salick](https://open.spotify.com/artist/4LSkHL3aVB8OFKYbXOwi6r) | [TOO MUCH PAIN](https://open.spotify.com/album/0uyGcygVKupEkXxSniQ0fR) | 5:07 |
-| 38 | [Ghunghat Gira Ke](https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm) | [Kem Chanlall](https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy) | [Ghunghat Gira Ke](https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f) | 5:54 |
-| 39 | [Cheers to Life](https://open.spotify.com/track/3y6b6RDAN3hTuKIFeDNVKT) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Cheers to Life](https://open.spotify.com/album/50sgMELadQIXAbAB0SC9Ba) | 3:18 |
+| 38 | [Cheers to Life](https://open.spotify.com/track/3y6b6RDAN3hTuKIFeDNVKT) | [Prince JP](https://open.spotify.com/artist/7aABRrarbHYwuDXabHm3l0) | [Cheers to Life](https://open.spotify.com/album/50sgMELadQIXAbAB0SC9Ba) | 3:18 |
+| 39 | [Ghunghat Gira Ke](https://open.spotify.com/track/1rrMTRjIFM1WagI90xACXm) | [Kem Chanlall](https://open.spotify.com/artist/02DRaDXadgSH5g0Zq1ZuWy) | [Ghunghat Gira Ke](https://open.spotify.com/album/37w3vdaNrfevzGU2rDnh1f) | 5:54 |
 | 40 | [Mohan Bina Gowna](https://open.spotify.com/track/03qQAIUvSjPUzeonHQvjgY) | [Drupatee Ramgoonai](https://open.spotify.com/artist/0b2BvPLwaxjE6lFfwhkpGs) | [Explosive Moods](https://open.spotify.com/album/6qq74brYwCHpXU0KaB74Ag) | 5:00 |
-| 41 | [Naina Bandh](https://open.spotify.com/track/42oKkHNgUzqyTPR4yGwOrg) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Popo Greatest Hits, Vol\. 2](https://open.spotify.com/album/4YnZLTUgthWyb5kxVHMNdH) | 5:23 |
+| 41 | [Saiyan Toray](https://open.spotify.com/track/3gzcu3KSs6NvikMaUQP7e0) | [Sundar Popo](https://open.spotify.com/artist/5SdqBVV8986tZz1YkDRyOc) | [Sundar Soca](https://open.spotify.com/album/2a8UdL4RPbeJPBVyMZFMbX) | 3:52 |
 | 42 | [Carnival](https://open.spotify.com/track/1onPy0sa2R4jqSx5zFlEff) | [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [Destra](https://open.spotify.com/artist/0xMFjTpcN1zaf1ZU5NaNmk) | [The Xtatik Circus](https://open.spotify.com/album/0wxyLnJUJM3KvrDMnECo7I) | 3:47 |
 | 43 | [Balkissoon](https://open.spotify.com/track/2tx8gLbf1Iy7GbgV6vFl57) | [Omardath Maharaj](https://open.spotify.com/artist/2ucwlWOsuVNoYQbVswk9Sz), [Raymond Ramnarine](https://open.spotify.com/artist/4Mn7PxD4YaodFxdDokVveI) | [Balkissoon](https://open.spotify.com/album/0CpGJQDsla57RlmVUMahfy) | 3:44 |
 | 44 | [Indian Gyal](https://open.spotify.com/track/0Gwrr6kSMTbKoDhyNZPgY0) | [Drupatee](https://open.spotify.com/artist/7d41HV53Mpqmn3DBacKaEd), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ) | [Indian Gyal](https://open.spotify.com/album/2XwOXmK2KAUVSXulFIqymD) | 3:22 |

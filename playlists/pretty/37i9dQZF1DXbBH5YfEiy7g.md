@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: <a href="https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4?si=MonoFqtvS6GfQXd7aucDxA">Xolly Mncwango</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,700 likes - 92 songs - 9 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,862 likes - 92 songs - 9 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

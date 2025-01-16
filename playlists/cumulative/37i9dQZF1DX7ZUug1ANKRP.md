@@ -2,7 +2,7 @@
 
 ### [Main Stage](https://open.spotify.com/playlist/37i9dQZF1DX7ZUug1ANKRP)
 
-> The biggest Dance hits and the ones to come\. Cover: Gabry Ponte
+> The biggest Dance hits and the ones to come\. Cover: Ely Oaks, LAVINIA
 
 712 songs - 1 day 8 hr 30 min
 

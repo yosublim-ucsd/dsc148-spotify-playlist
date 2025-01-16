@@ -1,33 +1,13 @@
 {
   "description": "This is Los Farmerz. The essential tracks, all in one playlist.",
-  "num_followers": 34795,
+  "num_followers": 34910,
   "original_name": "This Is Los Farmerz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAADRj98skgP2f1Me5VkBd1qC",
+  "snapshot_id": "Z4WpAAAAAABn6xNlCxy3MEmxJh37SuxJ",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Mariguapo",
-        "url": "https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        },
-        {
-          "name": "Los Caimanes De Sinaloa",
-          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
-        }
-      ],
-      "duration_ms": 170624,
-      "name": "El Mariguapo",
-      "url": "https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG"
-    },
     {
       "added_at": null,
       "album": {
@@ -311,6 +291,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ni Modo Que Sea Mentira",
+        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 118851,
+      "name": "El Tony",
+      "url": "https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "De Que Puedo Puedo",
         "url": "https://open.spotify.com/album/6is3m2C4CjKBQzjm36VPR0"
       },
@@ -331,22 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Modo Que Sea Mentira",
-        "url": "https://open.spotify.com/album/56o0E4R3HoKcAZ9cuOmcuh"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 118851,
-      "name": "El Tony",
-      "url": "https://open.spotify.com/track/2H8NfRvMm7sBJBmjSxJimb"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Gavilan",
         "url": "https://open.spotify.com/album/0Cu8nEVSknHly3symzeUzW"
       },
@@ -359,6 +339,26 @@
       "duration_ms": 200190,
       "name": "El Gavilan",
       "url": "https://open.spotify.com/track/0lEQnz93VXhVF6HbvJXz2i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Mariguapo",
+        "url": "https://open.spotify.com/album/6414ufCUPBaEySlJzWiDW5"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        },
+        {
+          "name": "Los Caimanes De Sinaloa",
+          "url": "https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN"
+        }
+      ],
+      "duration_ms": 170624,
+      "name": "El Mariguapo",
+      "url": "https://open.spotify.com/track/39ADW4UtGNYArnHIQRceWG"
     },
     {
       "added_at": null,
@@ -579,6 +579,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dos Guaches Cal\u00e9ntanos",
+        "url": "https://open.spotify.com/album/5VY7WMoTXkIWgvb9Uja3xV"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 197492,
+      "name": "Dos Guaches Cal\u00e9ntanos",
+      "url": "https://open.spotify.com/track/7qfTIjeLLW20IfKNygZ4Ev"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Pluma De Wax",
         "url": "https://open.spotify.com/album/4DBA2xhJhkxYUNWydxnz8g"
       },
@@ -595,22 +611,6 @@
       "duration_ms": 159061,
       "name": "La Pluma De Wax",
       "url": "https://open.spotify.com/track/5YZLTMJYD7GQ9vlBp7CoHU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dos Guaches Cal\u00e9ntanos",
-        "url": "https://open.spotify.com/album/5VY7WMoTXkIWgvb9Uja3xV"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 197492,
-      "name": "Dos Guaches Cal\u00e9ntanos",
-      "url": "https://open.spotify.com/track/7qfTIjeLLW20IfKNygZ4Ev"
     },
     {
       "added_at": null,
@@ -751,6 +751,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Los Espino",
+      "url": "https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sacandole Cuentas",
         "url": "https://open.spotify.com/album/0vlcVWWLFeHE40u4oDKHdt"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 253603,
       "name": "Sacandole Cuentas",
       "url": "https://open.spotify.com/track/2Kq027U4uFxcbMolvib7Nw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Los Espino",
-      "url": "https://open.spotify.com/track/6udYryoxHPDExdMTpdF1lE"
     },
     {
       "added_at": null,
@@ -835,6 +835,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Puros de Encargo, Vol. 1",
+        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
+      },
+      "artists": [
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 157750,
+      "name": "El Charlie",
+      "url": "https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Solo",
+        "url": "https://open.spotify.com/album/4Uq0cbdFneEV76KBoZI2vO"
+      },
+      "artists": [
+        {
+          "name": "Los Nuevos Escoltas",
+          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
+        },
+        {
+          "name": "Los Farmerz",
+          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
+        }
+      ],
+      "duration_ms": 207750,
+      "name": "El Solo",
+      "url": "https://open.spotify.com/track/4AgHqLbnX7ehrde8SmToql"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pistiando y Cantando",
         "url": "https://open.spotify.com/album/0wMUKIvlpMpn6pHUBo7371"
       },
@@ -867,42 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Solo",
-        "url": "https://open.spotify.com/album/4Uq0cbdFneEV76KBoZI2vO"
-      },
-      "artists": [
-        {
-          "name": "Los Nuevos Escoltas",
-          "url": "https://open.spotify.com/artist/2ryWlZONvVzpU8Ql2hnwPm"
-        },
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 207750,
-      "name": "El Solo",
-      "url": "https://open.spotify.com/track/4AgHqLbnX7ehrde8SmToql"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Puros de Encargo, Vol. 1",
-        "url": "https://open.spotify.com/album/7m6fUnC58u09gvmaaaAZTr"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 157750,
-      "name": "El Charlie",
-      "url": "https://open.spotify.com/track/18VTCbLAdHcEVBigDSZrKC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Boy",
         "url": "https://open.spotify.com/album/6H27ljIKzhhRGon9WbPf0w"
       },
@@ -931,22 +931,6 @@
       "duration_ms": 193320,
       "name": "El Chepis",
       "url": "https://open.spotify.com/track/443kLF00XD6aHnaoHMesHm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ortiz",
-        "url": "https://open.spotify.com/album/4EJqxOOWo7zgEkZ0l1B7Sb"
-      },
-      "artists": [
-        {
-          "name": "Los Farmerz",
-          "url": "https://open.spotify.com/artist/5aZppZ1lCv3Y09RuunlN1a"
-        }
-      ],
-      "duration_ms": 185049,
-      "name": "Ortiz",
-      "url": "https://open.spotify.com/track/6t5WA2338P7d8UUphfnH5c"
     }
   ],
   "unique_name": "This Is Los Farmerz",

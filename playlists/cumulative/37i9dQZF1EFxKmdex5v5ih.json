@@ -812,13 +812,13 @@
       },
       "artists": [
         {
-          "name": "Charli XCX",
+          "name": "Charli xcx",
           "url": "https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5"
         }
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-06-23",
+      "date_removed": null,
       "duration_ms": 162585,
       "name": "Boys",
       "url": "https://open.spotify.com/track/5o4yGlG0PfeVUa6ClIyOxq"
@@ -1990,7 +1990,7 @@
       ],
       "date_added": "2022-11-17",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 191426,
       "name": "El Tejano",
       "url": "https://open.spotify.com/track/3Wd8txJHeEkEsHvS0jIywR"
@@ -2176,6 +2176,24 @@
       "duration_ms": 268250,
       "name": "Eternity",
       "url": "https://open.spotify.com/track/1sGPx5DZ5ADHoFxHgqVpzJ"
+    },
+    {
+      "album": {
+        "name": "The Wild Robot (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5vPmhPPPAecZIMHzo4Al9i"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185222,
+      "name": "Even When I\u2019m Not",
+      "url": "https://open.spotify.com/track/1gqYJaAtQsEX2V6blf3Vba"
     },
     {
       "album": {
@@ -2594,7 +2612,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-21",
+      "date_removed": null,
       "duration_ms": 156923,
       "name": "Forever Young",
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
@@ -2670,6 +2688,28 @@
       "duration_ms": 256450,
       "name": "Forget Me",
       "url": "https://open.spotify.com/track/2wv34nME5QUexRLYf2Qj7I"
+    },
+    {
+      "album": {
+        "name": "HOLY FVCK",
+        "url": "https://open.spotify.com/album/2QX21ryT6SIcft6N3PkfeR"
+      },
+      "artists": [
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        },
+        {
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156795,
+      "name": "FREAK (feat. YUNGBLUD)",
+      "url": "https://open.spotify.com/track/7qn5ylWlm2dSZtdCEeMO99"
     },
     {
       "album": {
@@ -2754,6 +2794,24 @@
       "duration_ms": 180000,
       "name": "Gateway Drug",
       "url": "https://open.spotify.com/track/0I4uW77D32nbDGG12R9P7x"
+    },
+    {
+      "album": {
+        "name": "Beautifully Broken",
+        "url": "https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3"
+      },
+      "artists": [
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160160,
+      "name": "Get By",
+      "url": "https://open.spotify.com/track/6Aq8FRLvUNzBNCgCQ3PsXT"
     },
     {
       "album": {
@@ -4212,6 +4270,24 @@
       "duration_ms": 66344,
       "name": "king of the world, pt. 1",
       "url": "https://open.spotify.com/track/3gKYW1rcm3jgAtDPSUChEl"
+    },
+    {
+      "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/7LUMQHRWTTILN7yR6LJwHR"
+      },
+      "artists": [
+        {
+          "name": "Ben Platt",
+          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84650,
+      "name": "king of the world, pt. 2",
+      "url": "https://open.spotify.com/track/32GngpNLZ7VNxqF42UR4NW"
     },
     {
       "album": {
@@ -7300,7 +7376,7 @@
       ],
       "date_added": "2021-12-27",
       "date_added_asterisk": false,
-      "date_removed": "2023-12-14",
+      "date_removed": null,
       "duration_ms": 251424,
       "name": "So Will I",
       "url": "https://open.spotify.com/track/35hWvR2SVsWwzScQ4UEMED"
@@ -7659,6 +7735,28 @@
     },
     {
       "album": {
+        "name": "Restless Road - EP",
+        "url": "https://open.spotify.com/album/62I9tBq8kkMS3qxT1dtDgh"
+      },
+      "artists": [
+        {
+          "name": "Restless Road",
+          "url": "https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201749,
+      "name": "Take Me Home (with Kane Brown)",
+      "url": "https://open.spotify.com/track/4pMRIhO6qGmtEIBurzIutp"
+    },
+    {
+      "album": {
         "name": "Charlotte",
         "url": "https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq"
       },
@@ -7782,6 +7880,24 @@
       "duration_ms": 178298,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/0tCD4um9Mbqli92icIS3Jo"
+    },
+    {
+      "album": {
+        "name": "NOIR - The 2nd Mini Album",
+        "url": "https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ"
+      },
+      "artists": [
+        {
+          "name": "U-KNOW",
+          "url": "https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190973,
+      "name": "Thank U",
+      "url": "https://open.spotify.com/track/2FqZjsvLrqiQF5CpCOSY7i"
     },
     {
       "album": {

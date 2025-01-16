@@ -1,6 +1,6 @@
 {
   "description": "The new wave of Garage - an evolution of the classic UK dancefloor sound.",
-  "num_followers": 83271,
+  "num_followers": 83301,
   "original_name": "New UK Garage",
   "owner": {
     "name": "Spotify",
@@ -555,22 +555,18 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Bringing Me Joy",
-        "url": "https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m"
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51"
       },
       "artists": [
         {
-          "name": "BVNQUET",
-          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
-        },
-        {
-          "name": "prettyboyface",
-          "url": "https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln"
+          "name": "Emily Nash",
+          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
         }
       ],
-      "duration_ms": 180920,
-      "name": "Bringing Me Joy",
-      "url": "https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi"
+      "duration_ms": 198189,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -591,18 +587,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51"
+        "name": "Bringing Me Joy",
+        "url": "https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m"
       },
       "artists": [
         {
-          "name": "Emily Nash",
-          "url": "https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup"
+          "name": "BVNQUET",
+          "url": "https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv"
+        },
+        {
+          "name": "prettyboyface",
+          "url": "https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln"
         }
       ],
-      "duration_ms": 198189,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al"
+      "duration_ms": 180920,
+      "name": "Bringing Me Joy",
+      "url": "https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1119,26 +1119,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Ready Or Not",
-        "url": "https://open.spotify.com/album/27SYRZqfSCwaoQfi2waO8n"
+        "name": "Sunshine",
+        "url": "https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8"
       },
       "artists": [
         {
-          "name": "Nix Northwest",
-          "url": "https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt"
+          "name": "Higgo",
+          "url": "https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64"
         },
         {
-          "name": "Hilts",
-          "url": "https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot"
-        },
-        {
-          "name": "Jianbo",
-          "url": "https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft"
+          "name": "Lauren L'aimant",
+          "url": "https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ"
         }
       ],
-      "duration_ms": 226902,
-      "name": "Ready Or Not",
-      "url": "https://open.spotify.com/track/0kH9yoRO3LYUW4oxOvTMNT"
+      "duration_ms": 168369,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh"
     }
   ],
   "unique_name": "New UK Garage",

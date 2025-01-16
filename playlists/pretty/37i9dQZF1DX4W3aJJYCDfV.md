@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Bad Bunny \(pictured\), JADE, Joy Crookes and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 871,322 likes - 103 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 871,333 likes - 103 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,7 +74,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 64 | [Another Life](https://open.spotify.com/track/5vSwn5J5QdE5g6FJm7gg9E) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Another Life](https://open.spotify.com/album/1FlZN9twq2MMzucN76UOU0) | 2:19 |
 | 65 | [i would always fall](https://open.spotify.com/track/14s8BAs3coS4iCX9vOfnq9) | [subtle life enthusiast](https://open.spotify.com/artist/4Ap0uE91FPUQCfsPfkcApG), [how r u](https://open.spotify.com/artist/3vGe1PnnVqY1wS1hbs80Bv) | [i would always fall](https://open.spotify.com/album/2PSZy1xQ6pglwwx7ySScfz) | 1:12 |
 | 66 | [Disco Nap](https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g) | [Polo & Pan](https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM), [Metronomy](https://open.spotify.com/artist/54QMjE4toDfiCryzYWCpXX) | [Disco Nap](https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7) | 3:13 |
-| 67 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
+| 67 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 68 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 |
 | 69 | [By The Way](https://open.spotify.com/track/0LmWejDkHg082j5TxAlE4P) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [By The Way](https://open.spotify.com/album/5hTxdXKV6GB95zZ5SiwzM8) | 2:52 |
 | 70 | [I'm a never forgive kinda girl](https://open.spotify.com/track/2ukT0tGixZxC0rYwsG9b3J) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FABLES](https://open.spotify.com/album/6oHz1CC0PuNSGgRzAOZowX) | 2:05 |

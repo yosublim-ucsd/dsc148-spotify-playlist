@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=OwdlPcQqQ8qmtGr7xTH\_\-Q>Ebuka Songs</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,918 likes - 101 songs - 12 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,123 likes - 101 songs - 12 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1PgTwYgvl4t.md) - [plain]
 | 40 | [Arojinle](https://open.spotify.com/track/7JFcGjkEFAqIepGcdHdsaP) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Arojinle](https://open.spotify.com/album/6osSGQmHfGd496n4gWm3At) | 14:43 |
 | 41 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 |
 | 42 | [Holy Holy \- Revisited](https://open.spotify.com/track/4F27Sv0lG1bwpgB77uxmK8) | [Gap Worship](https://open.spotify.com/artist/6NO2s6R49ys1KmpSU8KWQa), [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH), [Lizzie Noiki](https://open.spotify.com/artist/6PC9kNSWd9WufkroWEiUrh) | [Holy Holy \(Revisited\)](https://open.spotify.com/album/1An2JPT8HL3wmBmdc2Ztw2) | 8:44 |
-| 43 | [Halleluyah](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 |
+| 43 | [Halleluyah \- Live](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah \(Live\)](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 |
 | 44 | [Jesu Doh \(Revisitation\)](https://open.spotify.com/track/2ff0oDG7KHh5G6Sn4Tn6KH) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesu Doh \(Revisitation\)](https://open.spotify.com/album/3EuYKNMSaFJjncOA1yZktn) | 5:23 |
 | 45 | [Man Wey God Show Mercy](https://open.spotify.com/track/3sOVXmrMfjM9Cyb0EFussg) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Man Wey God Show Mercy](https://open.spotify.com/album/5PDUNqju1XfVwaYlnB9ReW) | 4:24 |
 | 46 | [Anyi N'Aja Gi Mma](https://open.spotify.com/track/35aI26xlAZtoO9Eajcnu5k) | [Prosper King](https://open.spotify.com/artist/60JSlzTzBBsoRxuDrI9x3A) | [Anyi N'Aja Gi Mma](https://open.spotify.com/album/1oeU1Hvzr40kM1SQbdpfwf) | 2:10 |

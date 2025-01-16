@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 238905,
+  "num_followers": 239019,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
+        "name": "What About The DJ?",
+        "url": "https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        }
+      ],
+      "duration_ms": 280554,
+      "name": "Passion",
+      "url": "https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
         "name": "DIY",
         "url": "https://open.spotify.com/album/7CURbqdBFzwEBVN6Hk8h6F"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 189295,
       "name": "DIY - Old Skool Mix",
       "url": "https://open.spotify.com/track/4O20esaZKdbmWpGmPKm8Yj"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
-        "name": "What About The DJ?",
-        "url": "https://open.spotify.com/album/2AjtUXYB9SY0Y4PFSFZQUV"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        }
-      ],
-      "duration_ms": 280554,
-      "name": "Passion",
-      "url": "https://open.spotify.com/track/18AyZRURPxEXMSqBAV3G1n"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1255,26 +1255,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Songs Of Praise",
-        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Songs Of Praise - Radio Edit",
-      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "The Grind",
         "url": "https://open.spotify.com/album/3RgbT5ZV3F1lhCPfiOuPo2"
       },
@@ -1295,6 +1275,26 @@
       "duration_ms": 225692,
       "name": "The Grind",
       "url": "https://open.spotify.com/track/67Uex8KnYkPmE5lamgKNR7"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Songs Of Praise",
+        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Songs Of Praise - Radio Edit",
+      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
     },
     {
       "added_at": "2024-11-29 00:00:00",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2024-11-29 00:00:00",
       "album": {
-        "name": "Rude Boyz",
-        "url": "https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB"
-      },
-      "artists": [
-        {
-          "name": "Andrew Bayer",
-          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
-        },
-        {
-          "name": "Oliver Smith",
-          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
-        }
-      ],
-      "duration_ms": 205454,
-      "name": "Rude Boyz",
-      "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
-    },
-    {
-      "added_at": "2024-11-29 00:00:00",
-      "album": {
         "name": "Get Out",
         "url": "https://open.spotify.com/album/0FQwBMJPZUMZkghS8wJRr2"
       },
@@ -1395,6 +1375,26 @@
       "duration_ms": 268000,
       "name": "Get Out",
       "url": "https://open.spotify.com/track/16HM1ygA3tOEQes2HGduhL"
+    },
+    {
+      "added_at": "2024-11-29 00:00:00",
+      "album": {
+        "name": "Rude Boyz",
+        "url": "https://open.spotify.com/album/4VzuPrsQcIJMwKktgli4QB"
+      },
+      "artists": [
+        {
+          "name": "Andrew Bayer",
+          "url": "https://open.spotify.com/artist/5dFuu05x8SPBuymudrTBU8"
+        },
+        {
+          "name": "Oliver Smith",
+          "url": "https://open.spotify.com/artist/2Npo4Cfm48M2uKlvxiXMic"
+        }
+      ],
+      "duration_ms": 205454,
+      "name": "Rude Boyz",
+      "url": "https://open.spotify.com/track/7igIf1KC4Jo92cPFJhb0JE"
     }
   ],
   "unique_name": "Bassline Bangers",

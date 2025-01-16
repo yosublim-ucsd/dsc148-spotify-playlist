@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume\. Cover: Kauta
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,902 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,072 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,9 +28,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 18 | [Ecstasy](https://open.spotify.com/track/1QamciEC8PCXXZbV4hHiI1) | [Baby B3ns](https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP) | [Ecstasy](https://open.spotify.com/album/2IKhm1hfAexFjpEVvZs6E7) | 2:34 |
 | 19 | [Heal Me](https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q) | [SKIY](https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ) | [Heal Me](https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h) | 3:35 |
 | 20 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 |
-| 21 | [Jungle Of Abundance](https://open.spotify.com/track/7cDL31s4Hws6Nvp85ymghW) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Jungle Of Abundance](https://open.spotify.com/album/59XzzmYsdKl2CjZ5Usiozh) | 3:43 |
+| 21 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
 | 22 | [Point of View](https://open.spotify.com/track/5pdycEF3g4wnfTlb92BnW7) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [Point of View](https://open.spotify.com/album/6m7FyjVOUtN9y5kfVrdyQL) | 3:10 |
-| 23 | [petrichor](https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR) | [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [stunde null](https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD) | 2:01 |
+| 23 | [Jungle Of Abundance](https://open.spotify.com/track/7cDL31s4Hws6Nvp85ymghW) | [CATT](https://open.spotify.com/artist/4vECkYVXR5tUXqDk2LVzkJ) | [Jungle Of Abundance](https://open.spotify.com/album/59XzzmYsdKl2CjZ5Usiozh) | 3:43 |
 | 24 | [White Lies](https://open.spotify.com/track/72YpJBxmUbSsijs6HldZIa) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [White Lies](https://open.spotify.com/album/1KSsit1HauyMjTAz6PoVuq) | 2:29 |
 | 25 | [ubahn oder uber](https://open.spotify.com/track/6J95N9nUV5QUXhLAwKAOvU) | [chiara](https://open.spotify.com/artist/4WimfwqguLTlWfpNaaonvG) | [ubahn oder uber](https://open.spotify.com/album/5kT7viGhEOMYSHU7BjIk10) | 2:18 |
 | 26 | [1000 KLEINE TODE](https://open.spotify.com/track/4vbqBc2QsR02voYsSfs3GP) | [Mia Morgan](https://open.spotify.com/artist/5Uw20NgiZnH2WMcpQ7FdRB) | [1000 KLEINE TODE](https://open.spotify.com/album/4UsWy3BgzVaoUDNwQtAoAZ) | 3:12 |

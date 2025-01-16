@@ -1,35 +1,15 @@
 {
   "description": "The place for the very best of Pinoy hip-hop. Kalye Natin 'To. Cover: O SIDE MAFIA, BRGR",
-  "num_followers": 1287783,
+  "num_followers": 1288229,
   "original_name": "KALYE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z34QJAAAAABKCWqo0D9j0WI03Ub9bQP9",
+  "snapshot_id": "Z4csfQAAAABZZMnODzciiBZBAW6WmO8I",
   "tracks": [
     {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Swanton Bomb",
-        "url": "https://open.spotify.com/album/41GDUh1cgsYr2kv3lAm6lT"
-      },
-      "artists": [
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        }
-      ],
-      "duration_ms": 144500,
-      "name": "Swanton Bomb",
-      "url": "https://open.spotify.com/track/2RrTeVhmNxAZmAEVhkUtL1"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "SHAKE",
         "url": "https://open.spotify.com/album/57kIwmgt1i3V2KpC1dKtTY"
@@ -49,23 +29,27 @@
       "url": "https://open.spotify.com/track/4NnmCGyfZYE50geEwOUoo7"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "Maharot",
-        "url": "https://open.spotify.com/album/0qICM7AAGrKNLRuOdh2Pdv"
+        "name": "Dating Gawi",
+        "url": "https://open.spotify.com/album/4wVz2cYJmwcOM3N99IsK7h"
       },
       "artists": [
         {
-          "name": "ALLMO$T",
-          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
+          "name": "Gloc-9",
+          "url": "https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD"
+        },
+        {
+          "name": "Abaddon",
+          "url": "https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi"
         }
       ],
-      "duration_ms": 209317,
-      "name": "Maharot",
-      "url": "https://open.spotify.com/track/3kQoCtlLR0q4inrgAzFA6k"
+      "duration_ms": 215373,
+      "name": "Dating Gawi",
+      "url": "https://open.spotify.com/track/441AyLNG0X3E2uXGnkF690"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Wag Ipagsabi",
         "url": "https://open.spotify.com/album/4LavLiKs6MNLNkYZK07zH3"
@@ -85,7 +69,23 @@
       "url": "https://open.spotify.com/track/6XBz5vxIzEWFRLpxWYGEpV"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Wait (Teka Lang)",
+        "url": "https://open.spotify.com/album/3IXv5Y8ExzRIz2rS1WqVMI"
+      },
+      "artists": [
+        {
+          "name": "PLAYERTWO",
+          "url": "https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7"
+        }
+      ],
+      "duration_ms": 180625,
+      "name": "Wait (Teka Lang)",
+      "url": "https://open.spotify.com/track/79u2BIQd1v81BbpXcqqFuQ"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "My Day",
         "url": "https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl"
@@ -101,7 +101,51 @@
       "url": "https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "PAKAMA",
+        "url": "https://open.spotify.com/album/519RvJVcDRccP78nS8DbwE"
+      },
+      "artists": [
+        {
+          "name": "LVCID",
+          "url": "https://open.spotify.com/artist/6EOlkKmPuyubn0pUTy7qc9"
+        },
+        {
+          "name": "Wavy Gang",
+          "url": "https://open.spotify.com/artist/2J6wSFqfswO07wZaY4iaeX"
+        },
+        {
+          "name": "Young MLV",
+          "url": "https://open.spotify.com/artist/0Mn6idUPno7XCcZzHPvQuv"
+        },
+        {
+          "name": "B Rvss",
+          "url": "https://open.spotify.com/artist/6YzciWQnhaDNLj9A3lUpOX"
+        }
+      ],
+      "duration_ms": 248470,
+      "name": "PAKAMA",
+      "url": "https://open.spotify.com/track/2mVgTLV8P6sXXoIu1cOudT"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Gusto Ko Sakin Ka Lang",
+        "url": "https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB"
+      },
+      "artists": [
+        {
+          "name": "Robledo Timido",
+          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
+        }
+      ],
+      "duration_ms": 193846,
+      "name": "Gusto Ko Sakin Ka Lang",
+      "url": "https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "SUBOMOTO (Hev Abi Remix)",
         "url": "https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl"
@@ -121,59 +165,139 @@
       "url": "https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "Gusto Ko Sakin Ka Lang",
-        "url": "https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB"
+        "name": "Wag Na",
+        "url": "https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57"
       },
       "artists": [
         {
-          "name": "Robledo Timido",
-          "url": "https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Gusto Ko Sakin Ka Lang",
-      "url": "https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Smoke Tayo Girl",
-        "url": "https://open.spotify.com/album/7KXjHl96ZypgKjIoCuYUUb"
-      },
-      "artists": [
-        {
-          "name": "Nateman",
-          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+          "name": "Realest Cram",
+          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
         },
         {
-          "name": "La Mave",
-          "url": "https://open.spotify.com/artist/0njWhWknZlXiap3N75F6Ev"
+          "name": "CK YG",
+          "url": "https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2"
         }
       ],
-      "duration_ms": 152782,
-      "name": "Smoke Tayo Girl",
-      "url": "https://open.spotify.com/track/0xWwIIiWXXHLeat23DJ0dF"
+      "duration_ms": 266277,
+      "name": "Wag Na",
+      "url": "https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "TOTOO AKO SAYO",
-        "url": "https://open.spotify.com/album/4znLtpPaynVJ8MxEme8Lsr"
+        "name": "Boyfriend",
+        "url": "https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf"
       },
       "artists": [
         {
-          "name": "Nateman",
-          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+          "name": "ALLMO$T",
+          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
         }
       ],
-      "duration_ms": 163384,
-      "name": "TOTOO AKO SAYO",
-      "url": "https://open.spotify.com/track/4UiVDSYeN25r6g6JMDbjud"
+      "duration_ms": 293723,
+      "name": "Boyfriend",
+      "url": "https://open.spotify.com/track/4067uAzJZUHJInwOo7X701"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Swanton Bomb",
+        "url": "https://open.spotify.com/album/41GDUh1cgsYr2kv3lAm6lT"
+      },
+      "artists": [
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        },
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        }
+      ],
+      "duration_ms": 144500,
+      "name": "Swanton Bomb",
+      "url": "https://open.spotify.com/track/2RrTeVhmNxAZmAEVhkUtL1"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Babaero",
+        "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
+      },
+      "artists": [
+        {
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 175396,
+      "name": "Babaero",
+      "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "ILY",
+        "url": "https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh"
+      },
+      "artists": [
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        },
+        {
+          "name": "Bugoy Na Koykoy",
+          "url": "https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E"
+        }
+      ],
+      "duration_ms": 179125,
+      "name": "ILY",
+      "url": "https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Burgis",
+        "url": "https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa"
+      },
+      "artists": [
+        {
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
+        },
+        {
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Burgis",
+      "url": "https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Faded (Raw)",
+        "url": "https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb"
+      },
+      "artists": [
+        {
+          "name": "Illest Morena",
+          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
+        }
+      ],
+      "duration_ms": 175384,
+      "name": "Faded (Raw)",
+      "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "WADADADENG!",
         "url": "https://open.spotify.com/album/09YfFV0VRkkHjZJ9XI2OsX"
@@ -209,194 +333,46 @@
       "url": "https://open.spotify.com/track/0AuZUiq6K6E9l2GOWTuy5c"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "WANHANIDBANDZ",
-        "url": "https://open.spotify.com/album/0QyY6FO4EUclOTSLU9mr8q"
+        "name": "Lil Kasalanan Shortie",
+        "url": "https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO"
       },
       "artists": [
         {
-          "name": "gins&melodies",
-          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+          "name": "Hev Abi",
+          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
         }
       ],
-      "duration_ms": 103915,
-      "name": "WANHANIDBANDZ",
-      "url": "https://open.spotify.com/track/5kfXBSWbG5txcZbauyf9hV"
+      "duration_ms": 163964,
+      "name": "Lil Kasalanan Shortie",
+      "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "A to Z (Drop It)",
-        "url": "https://open.spotify.com/album/15H5ozOeeDQ1MvgqIfG2Pk"
+        "name": "Get Low",
+        "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
       },
       "artists": [
         {
-          "name": "Alex Bruce",
-          "url": "https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX"
+          "name": "O SIDE MAFIA",
+          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
         },
-        {
-          "name": "Zae",
-          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
-        }
-      ],
-      "duration_ms": 210044,
-      "name": "A to Z (Drop It)",
-      "url": "https://open.spotify.com/track/1KRUDPUO1tSLRRwqcdcaBU"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "SAPATOS KO",
-        "url": "https://open.spotify.com/album/2U8jgVrIyFc77HdndADGhS"
-      },
-      "artists": [
-        {
-          "name": "Realest Cram",
-          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
-        }
-      ],
-      "duration_ms": 189473,
-      "name": "SAPATOS KO",
-      "url": "https://open.spotify.com/track/77f8NUh2Xb12Htp9TtHnAk"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Huling Tagay Ng Taon",
-        "url": "https://open.spotify.com/album/0PiXcd0A5efAt6wEOWUaks"
-      },
-      "artists": [
-        {
-          "name": "Smugglaz",
-          "url": "https://open.spotify.com/artist/2FvXtuMlYRrEkSF7kdAfFq"
-        }
-      ],
-      "duration_ms": 204491,
-      "name": "Huling Tagay Ng Taon",
-      "url": "https://open.spotify.com/track/5E5M1Wp2O6irWYFjCBtlMg"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "GANG KO",
-        "url": "https://open.spotify.com/album/3w1V4odtN7KuuEPDZzOTAg"
-      },
-      "artists": [
-        {
-          "name": "OLG Zak",
-          "url": "https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs"
-        },
-        {
-          "name": "Ryouji",
-          "url": "https://open.spotify.com/artist/0LxWnRbSp4xZBKzNYjc3V4"
-        },
-        {
-          "name": "Young Blood Neet",
-          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
-        }
-      ],
-      "duration_ms": 197938,
-      "name": "GANG KO",
-      "url": "https://open.spotify.com/track/6hIn7q8ZpAknIteqnU2Ry0"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "SNOWFLAKES",
-        "url": "https://open.spotify.com/album/32RJXdgUFNfRjh6bgxXGHv"
-      },
-      "artists": [
         {
           "name": "BRGR",
           "url": "https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv"
-        },
-        {
-          "name": "GEE EXCLSV",
-          "url": "https://open.spotify.com/artist/6rjqsmPAKDp4RbgpsoLjGB"
         }
       ],
-      "duration_ms": 157339,
-      "name": "SNOWFLAKES",
-      "url": "https://open.spotify.com/track/5qWiMr7KiX4hhUia2Ll1mi"
+      "duration_ms": 153886,
+      "name": "Get Low",
+      "url": "https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "idk",
-        "url": "https://open.spotify.com/album/1dKGUlVftfS4sN1Gg0n5ss"
-      },
-      "artists": [
-        {
-          "name": "Jrldm",
-          "url": "https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Abusado",
-      "url": "https://open.spotify.com/track/5XNgRZ8P6XWy8QXaoVJ5U3"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Hanap",
-        "url": "https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2"
-      },
-      "artists": [
-        {
-          "name": "Kiyo",
-          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
-        }
-      ],
-      "duration_ms": 242875,
-      "name": "Hanap",
-      "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "SANGTAWAG",
-        "url": "https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO"
-      },
-      "artists": [
-        {
-          "name": "Nik Makino",
-          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
-        },
-        {
-          "name": "Shao Lin",
-          "url": "https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt"
-        },
-        {
-          "name": "TreyLow Baby",
-          "url": "https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde"
-        }
-      ],
-      "duration_ms": 160333,
-      "name": "SANGTAWAG",
-      "url": "https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "I Dior U",
-        "url": "https://open.spotify.com/album/0c0HekrDhtOEqe6N9oOhZo"
-      },
-      "artists": [
-        {
-          "name": "Shanti Dope",
-          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
-        }
-      ],
-      "duration_ms": 195463,
-      "name": "I Dior U",
-      "url": "https://open.spotify.com/track/1Hg0jtmHv4dc5TyjfjXxpp"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Boyfriend",
-        "url": "https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf"
+        "name": "Maharot",
+        "url": "https://open.spotify.com/album/0qICM7AAGrKNLRuOdh2Pdv"
       },
       "artists": [
         {
@@ -404,32 +380,28 @@
           "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
         }
       ],
-      "duration_ms": 293723,
-      "name": "Boyfriend",
-      "url": "https://open.spotify.com/track/4067uAzJZUHJInwOo7X701"
+      "duration_ms": 209317,
+      "name": "Maharot",
+      "url": "https://open.spotify.com/track/3kQoCtlLR0q4inrgAzFA6k"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "Wag Na",
-        "url": "https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57"
+        "name": "PAREHAS TAYO",
+        "url": "https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk"
       },
       "artists": [
         {
-          "name": "Realest Cram",
-          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
-        },
-        {
-          "name": "CK YG",
-          "url": "https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2"
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
         }
       ],
-      "duration_ms": 266277,
-      "name": "Wag Na",
-      "url": "https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE"
+      "duration_ms": 256000,
+      "name": "PAREHAS TAYO",
+      "url": "https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Dikapamigay",
         "url": "https://open.spotify.com/album/1kISZMlDKKu14boq3Ze9Qp"
@@ -449,63 +421,23 @@
       "url": "https://open.spotify.com/track/5bEoMNE8AuautKnCVKHyxf"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "ILY",
-        "url": "https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh"
+        "name": "ANSWER THE G",
+        "url": "https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA"
       },
       "artists": [
         {
-          "name": "Young Blood Neet",
-          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
-        },
-        {
-          "name": "Bugoy Na Koykoy",
-          "url": "https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E"
+          "name": "SUPAFLY",
+          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
         }
       ],
-      "duration_ms": 179125,
-      "name": "ILY",
-      "url": "https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0"
+      "duration_ms": 168712,
+      "name": "Answer The G",
+      "url": "https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Burgis",
-        "url": "https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa"
-      },
-      "artists": [
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        },
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Burgis",
-      "url": "https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Faded (Raw)",
-        "url": "https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb"
-      },
-      "artists": [
-        {
-          "name": "Illest Morena",
-          "url": "https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI"
-        }
-      ],
-      "duration_ms": 175384,
-      "name": "Faded (Raw)",
-      "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Kung Alam Mo Lang",
         "url": "https://open.spotify.com/album/36OmXvGRKAY2zICbVtItoa"
@@ -529,79 +461,27 @@
       "url": "https://open.spotify.com/track/35Vt1L1KBP2YoWfErB0FAy"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "Babaero",
-        "url": "https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO"
+        "name": "Smoke Tayo Girl",
+        "url": "https://open.spotify.com/album/7KXjHl96ZypgKjIoCuYUUb"
       },
       "artists": [
         {
-          "name": "gins&melodies",
-          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
         },
         {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
+          "name": "La Mave",
+          "url": "https://open.spotify.com/artist/0njWhWknZlXiap3N75F6Ev"
         }
       ],
-      "duration_ms": 175396,
-      "name": "Babaero",
-      "url": "https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP"
+      "duration_ms": 152782,
+      "name": "Smoke Tayo Girl",
+      "url": "https://open.spotify.com/track/0xWwIIiWXXHLeat23DJ0dF"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Lil Kasalanan Shortie",
-        "url": "https://open.spotify.com/album/03XSg6TO123KLtT7YusRjO"
-      },
-      "artists": [
-        {
-          "name": "Hev Abi",
-          "url": "https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T"
-        }
-      ],
-      "duration_ms": 163964,
-      "name": "Lil Kasalanan Shortie",
-      "url": "https://open.spotify.com/track/6zdryckXPbIeQE5npNqvNp"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "ANSWER THE G",
-        "url": "https://open.spotify.com/album/145nJ3pWoD1PqWBhQqSZEA"
-      },
-      "artists": [
-        {
-          "name": "SUPAFLY",
-          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
-        }
-      ],
-      "duration_ms": 168712,
-      "name": "Answer The G",
-      "url": "https://open.spotify.com/track/4UZE33BJf8b9KYOQhdcnJi"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Get Low",
-        "url": "https://open.spotify.com/album/7e209iBgYDKOavREMtFVAn"
-      },
-      "artists": [
-        {
-          "name": "O SIDE MAFIA",
-          "url": "https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp"
-        },
-        {
-          "name": "BRGR",
-          "url": "https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv"
-        }
-      ],
-      "duration_ms": 153886,
-      "name": "Get Low",
-      "url": "https://open.spotify.com/track/2kbNBhtgGiTxBuZTCXiQVY"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Kunan Mong Pic",
         "url": "https://open.spotify.com/album/2yo2p2KkXVyYNV5Lo8XxwN"
@@ -625,63 +505,7 @@
       "url": "https://open.spotify.com/track/6q07OiEEt6Tz2SkGuwCCGo"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "Tequila Rose",
-        "url": "https://open.spotify.com/album/02tMWeYI98izui099O7QDb"
-      },
-      "artists": [
-        {
-          "name": "HELLMERRY",
-          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
-        },
-        {
-          "name": "Al James",
-          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Tequila Rose",
-      "url": "https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "PAREHAS TAYO",
-        "url": "https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk"
-      },
-      "artists": [
-        {
-          "name": "Nateman",
-          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "PAREHAS TAYO",
-      "url": "https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "We Made It",
-        "url": "https://open.spotify.com/album/2vd0mHXPGNEfvYK9PY5U2H"
-      },
-      "artists": [
-        {
-          "name": "Nik Makino",
-          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
-        },
-        {
-          "name": "Flow G",
-          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
-        }
-      ],
-      "duration_ms": 238000,
-      "name": "We Made It",
-      "url": "https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Makasarili Malambing",
         "url": "https://open.spotify.com/album/07y0oEistR8d2JOwd5E67B"
@@ -701,27 +525,63 @@
       "url": "https://open.spotify.com/track/1c6hnvWjzUsJoypgwUV2sE"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "Whiteboy T",
-        "url": "https://open.spotify.com/album/1T7TGiN4hkPNW8YqT18Yio"
+        "name": "We Made It",
+        "url": "https://open.spotify.com/album/2vd0mHXPGNEfvYK9PY5U2H"
       },
       "artists": [
         {
-          "name": "Matteyo",
-          "url": "https://open.spotify.com/artist/6AOsrmODyI5Bt3jGhMOZqS"
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
         },
         {
-          "name": "Sica",
-          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+          "name": "Flow G",
+          "url": "https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh"
         }
       ],
-      "duration_ms": 155294,
-      "name": "1209 FREESTYLE",
-      "url": "https://open.spotify.com/track/11gzq8J4geKBsT7LnAa1Wv"
+      "duration_ms": 238000,
+      "name": "We Made It",
+      "url": "https://open.spotify.com/track/00h9iBIZPHjHAVoNzKHIOz"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "TOTOO AKO SAYO",
+        "url": "https://open.spotify.com/album/4znLtpPaynVJ8MxEme8Lsr"
+      },
+      "artists": [
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "TOTOO AKO SAYO",
+      "url": "https://open.spotify.com/track/4UiVDSYeN25r6g6JMDbjud"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Tequila Rose",
+        "url": "https://open.spotify.com/album/02tMWeYI98izui099O7QDb"
+      },
+      "artists": [
+        {
+          "name": "HELLMERRY",
+          "url": "https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc"
+        },
+        {
+          "name": "Al James",
+          "url": "https://open.spotify.com/artist/2G7VQ1kVhVfNagytlousgm"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Tequila Rose",
+      "url": "https://open.spotify.com/track/5fGWamKtCGZXW04flUxXl0"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "4:AM",
         "url": "https://open.spotify.com/album/2KbChrlOoIu1vhxwCiNpXo"
@@ -737,43 +597,7 @@
       "url": "https://open.spotify.com/track/4OaVpRQJWIgMTecpLSmhnn"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "FYP LUV",
-        "url": "https://open.spotify.com/album/1fcU63rLWeNkwA3XErDgKc"
-      },
-      "artists": [
-        {
-          "name": "ALLMO$T",
-          "url": "https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz"
-        }
-      ],
-      "duration_ms": 218309,
-      "name": "FYP LUV",
-      "url": "https://open.spotify.com/track/7Hclwcxm8Ppba2x5fsdRCG"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "213",
-        "url": "https://open.spotify.com/album/0OHhTK1QGwMRfANFNFMzGY"
-      },
-      "artists": [
-        {
-          "name": "Tommie King",
-          "url": "https://open.spotify.com/artist/6rtj7FDJ5zLdvV0SYbfnNm"
-        },
-        {
-          "name": "SUPAFLY",
-          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
-        }
-      ],
-      "duration_ms": 183414,
-      "name": "213",
-      "url": "https://open.spotify.com/track/1CHjcdykq6x7xWbR1OUg9R"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Mapagdamot",
         "url": "https://open.spotify.com/album/0wajABC3XZdnEdJKyK42S9"
@@ -789,23 +613,23 @@
       "url": "https://open.spotify.com/track/3WUWeGmthk0eUaYOFopjWB"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
-        "name": "Sakin ka",
-        "url": "https://open.spotify.com/album/3QDlhH3UhbaTJJv3J2Ho5r"
+        "name": "WANHANIDBANDZ",
+        "url": "https://open.spotify.com/album/0QyY6FO4EUclOTSLU9mr8q"
       },
       "artists": [
         {
-          "name": "SUPAFLY",
-          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
+          "name": "gins&melodies",
+          "url": "https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK"
         }
       ],
-      "duration_ms": 269011,
-      "name": "Sakin ka",
-      "url": "https://open.spotify.com/track/0kC2bP7qJ0plOW4nbjysZy"
+      "duration_ms": 103915,
+      "name": "WANHANIDBANDZ",
+      "url": "https://open.spotify.com/track/5kfXBSWbG5txcZbauyf9hV"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Highschool",
         "url": "https://open.spotify.com/album/3iicfDQLWCyTSXpQoLYXmz"
@@ -821,7 +645,59 @@
       "url": "https://open.spotify.com/track/29TD6wm2gYpqNlKim9ni88"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "A to Z (Drop It)",
+        "url": "https://open.spotify.com/album/15H5ozOeeDQ1MvgqIfG2Pk"
+      },
+      "artists": [
+        {
+          "name": "Alex Bruce",
+          "url": "https://open.spotify.com/artist/65896yX3ZMa0af70HRYNVX"
+        },
+        {
+          "name": "Zae",
+          "url": "https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD"
+        }
+      ],
+      "duration_ms": 210044,
+      "name": "A to Z (Drop It)",
+      "url": "https://open.spotify.com/track/1KRUDPUO1tSLRRwqcdcaBU"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "SAPATOS KO",
+        "url": "https://open.spotify.com/album/2U8jgVrIyFc77HdndADGhS"
+      },
+      "artists": [
+        {
+          "name": "Realest Cram",
+          "url": "https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5"
+        }
+      ],
+      "duration_ms": 189473,
+      "name": "SAPATOS KO",
+      "url": "https://open.spotify.com/track/77f8NUh2Xb12Htp9TtHnAk"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Sakin ka",
+        "url": "https://open.spotify.com/album/3QDlhH3UhbaTJJv3J2Ho5r"
+      },
+      "artists": [
+        {
+          "name": "SUPAFLY",
+          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
+        }
+      ],
+      "duration_ms": 269011,
+      "name": "Sakin ka",
+      "url": "https://open.spotify.com/track/0kC2bP7qJ0plOW4nbjysZy"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "SOBRANG SOLID",
         "url": "https://open.spotify.com/album/7GZveuL9U8QsWEQFeG7pyC"
@@ -841,7 +717,7 @@
       "url": "https://open.spotify.com/track/0Ol6h1ldPVt1ARNYiYLZ6g"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Marikit Sa Dilim",
         "url": "https://open.spotify.com/album/5lvADzxNwgth5Y5EZdHx7l"
@@ -865,7 +741,27 @@
       "url": "https://open.spotify.com/track/2n0OFvWzkojBD1kVIOeGqe"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "SNOWFLAKES",
+        "url": "https://open.spotify.com/album/32RJXdgUFNfRjh6bgxXGHv"
+      },
+      "artists": [
+        {
+          "name": "BRGR",
+          "url": "https://open.spotify.com/artist/44vb4XsoBQRJlLGflZQfkv"
+        },
+        {
+          "name": "GEE EXCLSV",
+          "url": "https://open.spotify.com/artist/6rjqsmPAKDp4RbgpsoLjGB"
+        }
+      ],
+      "duration_ms": 157339,
+      "name": "SNOWFLAKES",
+      "url": "https://open.spotify.com/track/5qWiMr7KiX4hhUia2Ll1mi"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/0WO2RnfXjz2WeYDsRhQP98"
@@ -881,7 +777,7 @@
       "url": "https://open.spotify.com/track/2rHlkGQAXF0Z0mKWsC38d0"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "SA'YO LANG",
         "url": "https://open.spotify.com/album/5h87BNGNhIpVde4Ttnu5DQ"
@@ -905,7 +801,47 @@
       "url": "https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Huling Tagay Ng Taon",
+        "url": "https://open.spotify.com/album/0PiXcd0A5efAt6wEOWUaks"
+      },
+      "artists": [
+        {
+          "name": "Smugglaz",
+          "url": "https://open.spotify.com/artist/2FvXtuMlYRrEkSF7kdAfFq"
+        }
+      ],
+      "duration_ms": 204491,
+      "name": "Huling Tagay Ng Taon",
+      "url": "https://open.spotify.com/track/5E5M1Wp2O6irWYFjCBtlMg"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "GANG KO",
+        "url": "https://open.spotify.com/album/3w1V4odtN7KuuEPDZzOTAg"
+      },
+      "artists": [
+        {
+          "name": "OLG Zak",
+          "url": "https://open.spotify.com/artist/3cAaV8C5Lgdvtib9ub4EGs"
+        },
+        {
+          "name": "Ryouji",
+          "url": "https://open.spotify.com/artist/0LxWnRbSp4xZBKzNYjc3V4"
+        },
+        {
+          "name": "Young Blood Neet",
+          "url": "https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU"
+        }
+      ],
+      "duration_ms": 197938,
+      "name": "GANG KO",
+      "url": "https://open.spotify.com/track/6hIn7q8ZpAknIteqnU2Ry0"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Elohim",
         "url": "https://open.spotify.com/album/61hWpVqCooPz8lw0TdDOXs"
@@ -921,7 +857,99 @@
       "url": "https://open.spotify.com/track/6P8aiBjZ0Ld5Wxii6ajUSV"
     },
     {
-      "added_at": "2025-01-08 05:41:56",
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "idk",
+        "url": "https://open.spotify.com/album/1dKGUlVftfS4sN1Gg0n5ss"
+      },
+      "artists": [
+        {
+          "name": "Jrldm",
+          "url": "https://open.spotify.com/artist/10JE9C1e9BzcilPHOV57wB"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Abusado",
+      "url": "https://open.spotify.com/track/5XNgRZ8P6XWy8QXaoVJ5U3"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "Hanap",
+        "url": "https://open.spotify.com/album/7yxTHClks4z6qV6zATd1F2"
+      },
+      "artists": [
+        {
+          "name": "Kiyo",
+          "url": "https://open.spotify.com/artist/6gcteR920pLEynlHzjSRYd"
+        }
+      ],
+      "duration_ms": 242875,
+      "name": "Hanap",
+      "url": "https://open.spotify.com/track/42HwpLFw73GBckZlWorib4"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "I Dior U",
+        "url": "https://open.spotify.com/album/0c0HekrDhtOEqe6N9oOhZo"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        }
+      ],
+      "duration_ms": 195463,
+      "name": "I Dior U",
+      "url": "https://open.spotify.com/track/1Hg0jtmHv4dc5TyjfjXxpp"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "SANGTAWAG",
+        "url": "https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO"
+      },
+      "artists": [
+        {
+          "name": "Nik Makino",
+          "url": "https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks"
+        },
+        {
+          "name": "Shao Lin",
+          "url": "https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt"
+        },
+        {
+          "name": "TreyLow Baby",
+          "url": "https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "SANGTAWAG",
+      "url": "https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
+      "album": {
+        "name": "213",
+        "url": "https://open.spotify.com/album/0OHhTK1QGwMRfANFNFMzGY"
+      },
+      "artists": [
+        {
+          "name": "Tommie King",
+          "url": "https://open.spotify.com/artist/6rtj7FDJ5zLdvV0SYbfnNm"
+        },
+        {
+          "name": "SUPAFLY",
+          "url": "https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih"
+        }
+      ],
+      "duration_ms": 183414,
+      "name": "213",
+      "url": "https://open.spotify.com/track/1CHjcdykq6x7xWbR1OUg9R"
+    },
+    {
+      "added_at": "2025-01-15 03:33:17",
       "album": {
         "name": "Ashtray",
         "url": "https://open.spotify.com/album/1Sg2cru2SJiSOOFdQmgy2h"
@@ -939,30 +967,6 @@
       "duration_ms": 154250,
       "name": "Ashtray",
       "url": "https://open.spotify.com/track/7acx61pQgmxeYw7FBh4DYX"
-    },
-    {
-      "added_at": "2025-01-08 05:41:56",
-      "album": {
-        "name": "La Luna",
-        "url": "https://open.spotify.com/album/32xyVyuVCNv9fBAHUZ7G1v"
-      },
-      "artists": [
-        {
-          "name": "Skusta Clee",
-          "url": "https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc"
-        },
-        {
-          "name": "Yuridope",
-          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
-        },
-        {
-          "name": "Ron Henley",
-          "url": "https://open.spotify.com/artist/6eGQ0qPUlGBjmRgyQ84g3f"
-        }
-      ],
-      "duration_ms": 362250,
-      "name": "La Luna",
-      "url": "https://open.spotify.com/track/5vUp3dbqvs1pGMURHVhkjY"
     }
   ],
   "unique_name": "KALYE",

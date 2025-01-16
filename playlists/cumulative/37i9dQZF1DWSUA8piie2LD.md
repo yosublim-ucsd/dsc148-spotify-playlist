@@ -4,7 +4,7 @@
 
 > The smoothest of smooth Jazz for your romantic evening.
 
-144 songs - 11 hr 12 min
+145 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,7 +33,8 @@
 | [Body Language](https://open.spotify.com/track/5fzXNCgCGt3NnjfmpMSs7M) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Body Language](https://open.spotify.com/album/5UJmUYnpdtUGCcoMa7hDKE) | 4:55 | 2022-05-13 |  |
 | [Brazilia](https://open.spotify.com/track/1u4RewzgMEpsUQOojZrG4Y) | [Wayman Tisdale](https://open.spotify.com/artist/3h25qUbua6H0dcBJgDPg5c) | [Face To Face \(US Version\)](https://open.spotify.com/album/4dsjIo29fU5QOowQ1hj1z8) | 3:58 | 2022-06-29 |  |
 | [Brownie](https://open.spotify.com/track/1roZdXQPBHOvYK2SQXmvgH) | [Marcio Rocha](https://open.spotify.com/artist/0NnpQP7ESvBerYZhbjbRr5), [Hoto Jr.](https://open.spotify.com/artist/7lOwbBviHzCCv92wSSDelt) | [Believing](https://open.spotify.com/album/3PMe70a4lVLhawiCJmsrkq) | 4:49 | 2022-05-13 | 2022-12-08 |
-| [Can't Tell You Why](https://open.spotify.com/track/1BwNfHaT60LY3jf1zVLdZB) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0xol8frvOzgzF6T8pfNOzp) | 4:14 | 2022-05-13 |  |
+| [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/track/5KUx4ry3R7MMQmwkChFBJd) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS), [Cory Henry](https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s), [Marcus Miller](https://open.spotify.com/artist/6fmq5mv6HnduZdlTOEYBC9) | [Butterfly \[Feat\. Cory Henry and Marcus Miller\]](https://open.spotify.com/album/5wrahsI2cn60L2JVmMq0H0) | 4:26 | 2025-01-15 |  |
+| [Can't Tell You Why](https://open.spotify.com/track/1BwNfHaT60LY3jf1zVLdZB) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0xol8frvOzgzF6T8pfNOzp) | 4:14 | 2022-05-13 | 2025-01-16 |
 | [Can't Tell You Why](https://open.spotify.com/track/6vOYjOLqf3esbSCdC7smdG) | [Brian Simpson](https://open.spotify.com/artist/4uIdP3jwyR0xifCS2FYS3o) | [South Beach](https://open.spotify.com/album/0XbN5ngwz0v0s85O18LmnO) | 4:14 | 2022-06-29 | 2024-04-19 |
 | [Caravan of Dreams](https://open.spotify.com/track/6Uob2aJYqcqPv5Z2BigRg6) | [Peter White](https://open.spotify.com/artist/4siC0n7Bs9OzoZlB1HKquS) | [Caravan Of Dreams](https://open.spotify.com/album/55QEhe7Ecp7yZLgaVobo4X) | 6:00 | 2022-05-13 | 2023-08-26 |
 | [Chillaxin](https://open.spotify.com/track/46XKawW6tKQkWU2AoRa75H) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Just Feels Right](https://open.spotify.com/album/5WbJzDda19vOO4jJ9vLPNX) | 6:06 | 2022-05-13 | 2023-08-26 |

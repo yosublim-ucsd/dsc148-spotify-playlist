@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 783857,
+  "num_followers": 783928,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Interessante",
-        "url": "https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4"
-      },
-      "artists": [
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        }
-      ],
-      "duration_ms": 172693,
-      "name": "Interessante",
-      "url": "https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
         "name": "Admir\u00e1vel Chip Novo",
         "url": "https://open.spotify.com/album/6t9HEcqxPe5dsIlHyYwATK"
       },
@@ -251,6 +235,22 @@
       "duration_ms": 232240,
       "name": "Equalize",
       "url": "https://open.spotify.com/track/2iUxWUv5TovjBmayOcWohB"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
+        "name": "Interessante",
+        "url": "https://open.spotify.com/album/1cQQXRwZ1xetyRSVES0pC4"
+      },
+      "artists": [
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        }
+      ],
+      "duration_ms": 172693,
+      "name": "Interessante",
+      "url": "https://open.spotify.com/track/2ZWxngKhr90tiStZ2LUWQ8"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -407,22 +407,6 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "V\u00e1rias Queixas",
-        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
-      },
-      "artists": [
-        {
-          "name": "Gilsons",
-          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
-        }
-      ],
-      "duration_ms": 156970,
-      "name": "Vento Alecrim",
-      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
         "name": "Troco Likes",
         "url": "https://open.spotify.com/album/7pPgZtAzIIBd9rMk3s3MsH"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 178718,
       "name": "Coisa Linda",
       "url": "https://open.spotify.com/track/6o0rGxp5tdtX8cmqXwVIwE"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
+        "name": "V\u00e1rias Queixas",
+        "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
+      },
+      "artists": [
+        {
+          "name": "Gilsons",
+          "url": "https://open.spotify.com/artist/6q7nMIVgGohQ14mSsq3F8t"
+        }
+      ],
+      "duration_ms": 156970,
+      "name": "Vento Alecrim",
+      "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -527,22 +527,6 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Detonautas Ac\u00fastico",
-        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
-      },
-      "artists": [
-        {
-          "name": "Detonautas",
-          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
-        }
-      ],
-      "duration_ms": 254520,
-      "name": "Voc\u00ea me faz t\u00e3o bem",
-      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
         "name": "A Banda Mais Bonita da Cidade",
         "url": "https://open.spotify.com/album/7pJk45OMEobBhaAWVaF3sO"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 301346,
       "name": "Ora\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0YBq701BXkMaK6V5UyvOpT"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
+        "name": "Detonautas Ac\u00fastico",
+        "url": "https://open.spotify.com/album/0wmqgQTtS74RuTwQeR2RL3"
+      },
+      "artists": [
+        {
+          "name": "Detonautas",
+          "url": "https://open.spotify.com/artist/5AlUDdksfPP7l4Qm22MJA9"
+        }
+      ],
+      "duration_ms": 254520,
+      "name": "Voc\u00ea me faz t\u00e3o bem",
+      "url": "https://open.spotify.com/track/656TZu3G6rnfK9m2Y0zR6g"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1151,22 +1151,18 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Cortejo",
-        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
+        "name": "MINHA J\u00d3IA",
+        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
       },
       "artists": [
         {
           "name": "Filipe Toca",
           "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 169250,
-      "name": "Cortejo",
-      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
+      "duration_ms": 221961,
+      "name": "MINHA J\u00d3IA",
+      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1259,18 +1255,22 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "MINHA J\u00d3IA",
-        "url": "https://open.spotify.com/album/5BlhET4VKzLHsBu5Z2oXpy"
+        "name": "Cortejo",
+        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
       "artists": [
         {
           "name": "Filipe Toca",
           "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 221961,
-      "name": "MINHA J\u00d3IA",
-      "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
+      "duration_ms": 169250,
+      "name": "Cortejo",
+      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1555,6 +1555,22 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
+        "name": "A Arte De Cazuza",
+        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
+      },
+      "artists": [
+        {
+          "name": "Cazuza",
+          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
+        }
+      ],
+      "duration_ms": 186400,
+      "name": "Minha Flor Meu Beb\u00ea",
+      "url": "https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
         "name": "Moreno Veloso Solo in Tokyo",
         "url": "https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB"
       },
@@ -1567,22 +1583,6 @@
       "duration_ms": 309520,
       "name": "Deusa do Amor",
       "url": "https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
-        "name": "O Amor \u00c9 o Segredo",
-        "url": "https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 183542,
-      "name": "O Amor \u00c9 o Segredo",
-      "url": "https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
+        "name": "O Amor \u00c9 o Segredo",
+        "url": "https://open.spotify.com/album/4eNNKJ6eAOPqh79idWLPyR"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 183542,
+      "name": "O Amor \u00c9 o Segredo",
+      "url": "https://open.spotify.com/track/6a6b16sE7P17nVl8dzFp2P"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
         "name": "Monomania",
         "url": "https://open.spotify.com/album/5149Vq1d7rrpgN9LucKu99"
       },
@@ -1615,22 +1631,6 @@
       "duration_ms": 217431,
       "name": "Eu Me Lembro (feat. Silva)",
       "url": "https://open.spotify.com/track/7opN62oy6MZBaGgnKdHtng"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
-        "name": "A Arte De Cazuza",
-        "url": "https://open.spotify.com/album/1D4lMnP5npjJzw9GRtQMJi"
-      },
-      "artists": [
-        {
-          "name": "Cazuza",
-          "url": "https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU"
-        }
-      ],
-      "duration_ms": 186400,
-      "name": "Minha Flor Meu Beb\u00ea",
-      "url": "https://open.spotify.com/track/3VLOFtKRjgGTpfqjbiK4wi"
     },
     {
       "added_at": "2025-01-14 22:05:41",

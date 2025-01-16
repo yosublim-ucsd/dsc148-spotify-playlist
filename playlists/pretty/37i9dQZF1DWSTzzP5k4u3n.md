@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 
 > Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,804 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,807 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Pahaa verta](https://open.spotify.com/track/3r7TLkKKXo9WNtUOugvMzm) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pahaa verta](https://open.spotify.com/album/5Hpz2A5rByHwIGbv6VK4w2) | 3:28 |
 | 2 | [Tragediaa](https://open.spotify.com/track/2eExDsy0shxVatG9mr71Q0) | [Laura Ruusumaa](https://open.spotify.com/artist/2RnWYWpx9A08NdGATcq4nZ) | [Tragediaa](https://open.spotify.com/album/7ajBEkcBP6dSN0c3xpFrVU) | 3:34 |
-| 3 | [Muistivihko](https://open.spotify.com/track/3akOo5o4jnKRK3x9EmL2dP) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [Matka maailman ympäri](https://open.spotify.com/album/1x1by0SoTRmiekQEb1Dlov) | 3:29 |
-| 4 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 |
-| 5 | [Suomi\-Perkele](https://open.spotify.com/track/7BcApd90DJTzX2R7q9ugc1) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Susirajalla](https://open.spotify.com/album/2Ix64SvDFhoezg4YsRxMQn) | 3:40 |
-| 6 | [Ajatuksissani](https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Ajatuksissani](https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V) | 3:03 |
+| 3 | [Tulvaniityt](https://open.spotify.com/track/356KJMSfmHLgahPGpz5E9i) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Hiljainen](https://open.spotify.com/album/51QXiCOMZIwTJw9TUfAEG2) | 3:23 |
+| 4 | [Muistivihko](https://open.spotify.com/track/3akOo5o4jnKRK3x9EmL2dP) | [Matka maailman ympäri](https://open.spotify.com/artist/3DdU0nh26vLYFEaEVDjvdG) | [Matka maailman ympäri](https://open.spotify.com/album/1x1by0SoTRmiekQEb1Dlov) | 3:29 |
+| 5 | [Laulu kaikille meille](https://open.spotify.com/track/4Nkg0WL2CA5KTEPv9eBH9g) | [Samae Koskinen](https://open.spotify.com/artist/3Khoy5zIQXBpI0fzYtRIZP) | [Laulu kaikille meille](https://open.spotify.com/album/4ot93cHh5YtFywaoutdvYe) | 2:48 |
+| 6 | [Suomi\-Perkele](https://open.spotify.com/track/7BcApd90DJTzX2R7q9ugc1) | [Kotiteollisuus](https://open.spotify.com/artist/0r9Q7acXxkDPoqfRfAb9Aw) | [Susirajalla](https://open.spotify.com/album/2Ix64SvDFhoezg4YsRxMQn) | 3:40 |
 | 7 | [Sydän märkenöö](https://open.spotify.com/track/0hDjeXubV71Oae9KksfGh7) | [Elonkerjuu](https://open.spotify.com/artist/6vTfQXLadaNMPnrnfbnuyF) | [Sydän märkenöö](https://open.spotify.com/album/441XWf9cxbJgc86inWo4dD) | 2:59 |
-| 8 | [Tulvaniityt](https://open.spotify.com/track/356KJMSfmHLgahPGpz5E9i) | [Viikate](https://open.spotify.com/artist/7q12xW42JkVKEMFNQACZ3l) | [Hiljainen](https://open.spotify.com/album/51QXiCOMZIwTJw9TUfAEG2) | 3:23 |
+| 8 | [Ajatuksissani](https://open.spotify.com/track/16uF4aBvojwmoQpRIrRHG1) | [Scandinavian Music Group](https://open.spotify.com/artist/773p3GT2SYlZUbqTo1nXKI) | [Ajatuksissani](https://open.spotify.com/album/4zipidwRMikMXvXuh0DP2V) | 3:03 |
 | 9 | [En katso taakseni](https://open.spotify.com/track/2ICGnIMfrkLaXCQnX9XyZE) | [Joni Ekman](https://open.spotify.com/artist/4RYXmp0JLdPVLHnad9qivJ) | [Joni Ekman Group](https://open.spotify.com/album/4oc1CplQfSwiiFPrRRZzhN) | 2:10 |
 | 10 | [Meitä maailma katsoo](https://open.spotify.com/track/7l43O2Kuo9crXh03K0oUX0) | [Lenni Paarma](https://open.spotify.com/artist/58pOIfSljNDWiXz9iogCGj) | [Meitä maailma katsoo](https://open.spotify.com/album/1qZyrF0ozwEsXwYls3SZ8g) | 2:56 |
 | 11 | [Tuhat turhaa tarinaa](https://open.spotify.com/track/7nwyLGiHYB8AcNE0T7KNnU) | [Irina](https://open.spotify.com/artist/2UrciVPpHPc69m0FbRH08W) | [Tuhat turhaa tarinaa](https://open.spotify.com/album/0My37koWz1cJWJf3fwTV0R) | 3:00 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTzzP5k4u3n.md) - [plain]
 | 79 | [Itäväylä](https://open.spotify.com/track/1mBuoiWexvzrbHtscJQiH4) | [Sam Shaky](https://open.spotify.com/artist/21m35VZF1Yhlb5Nm2BeDH3) | [Itäväylä](https://open.spotify.com/album/2U6lKa2Eia3H7huo43JqrB) | 3:52 |
 | 80 | [Mitäköhän meistä jää](https://open.spotify.com/track/4zTFHxegCLq5LgzRUsfBre) | [Venkulit](https://open.spotify.com/artist/6iTidGnUAg4NMXtPtUJ49v) | [Mitäköhän meistä jää](https://open.spotify.com/album/3FgOyloBeaj8CavcYzK1mJ) | 3:18 |
 
-Snapshot ID: `Z4LFNAAAAAD89X7eGwOKnbNZHRNFDBZw`
+Snapshot ID: `Z4gZ9gAAAADyXwLBAJ7ggiDFUF7M14FP`

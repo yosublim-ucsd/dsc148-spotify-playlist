@@ -4,7 +4,7 @@
 
 > 
 
-823 songs - 1 day 18 hr 6 min
+825 songs - 1 day 18 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [BUTTERFLY EFFECT](https://open.spotify.com/track/2cYqizR4lgvp4Qu6IQ3qGN) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:10 | 2022-12-18 |  |
 | [By Any Means](https://open.spotify.com/track/2t9kiToH8pMisasP7Fq5jO) | [G Herbo](https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [PTSD](https://open.spotify.com/album/14YY4ksyKkVbBsZ5TJt0Zr) | 3:39 | 2023-03-24 |  |
 | [By Chance \(feat\. 21 Savage\)](https://open.spotify.com/track/4Qgp17EOq2ikCRbcSlPSzH) | [Giggs](https://open.spotify.com/artist/3S0tlB4fE7ChxI2pWz8Xip), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [By Chance \(feat\. 21 Savage\)](https://open.spotify.com/album/4HbxqN1PhH6Sc5XjPGN2Xp) | 3:22 | 2023-08-18 |  |
+| [Byrd](https://open.spotify.com/track/6z3bK4WG6MMGCmAFH5vL9F) | [HDBeenDope](https://open.spotify.com/artist/7nE3HHVn8oM8s3kA6cbL8O) | [Byrd](https://open.spotify.com/album/6WsAxvZfSGx2qZYl1OaT6E) | 2:09 | 2025-01-15 |  |
 | [Call the Coroner](https://open.spotify.com/track/1WlU4jsJ8AoTB96dgd8LJA) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Future Hndrxx Presents: The WIZRD](https://open.spotify.com/album/3LpIwZdzFwc10psLingT8x) | 2:11 | 2023-04-18 |  |
 | [Came from the Bottom](https://open.spotify.com/track/35HJyOEmGpxMcahSS3D9Fj) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc) | [HEATHENISM](https://open.spotify.com/album/10OuYNhsZyIip13lZe6dzG) | 3:31 | 2024-03-04 |  |
 | [Can't Complain](https://open.spotify.com/track/1RyPRpcfRnRyIEzbEq0sdW) | [ProjectBay](https://open.spotify.com/artist/0hEKL8LNrZg8T2QhTj0Q7C) | [Can't Complain](https://open.spotify.com/album/2aAwV4CDNEidZqvs1x1elU) | 3:10 | 2024-03-17 |  |
@@ -824,6 +825,7 @@
 | [Word On The Street](https://open.spotify.com/track/52i143Ph5c3RQaQFBXWix1) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Street Gossip](https://open.spotify.com/album/4iF44RCCybJtkBkMoqrLW2) | 2:52 | 2023-03-23 |  |
 | [Word on the Streets](https://open.spotify.com/track/3jhStgnHgwPGaSyhdHuT1Z) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Yellow Tape](https://open.spotify.com/album/12GZ5ewBjyylguigbdmqJ9) | 3:27 | 2022-11-16 |  |
 | [Work](https://open.spotify.com/track/1k2cytz1JmfwXcuOpviRmF) | [Key Glock](https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5) | [Glockoma 2](https://open.spotify.com/album/1ARkB4oJ3MskiUhXcxaFtC) | 2:23 | 2023-03-02 |  |
+| [Work REMIX \(feat\. A$AP Rocky, French Montana, Trinidad James & ScHoolboy Q\)](https://open.spotify.com/track/7xVLFuuYdAvcTfcP3IG3dS) | [A$AP Ferg](https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca), [Trinidad James](https://open.spotify.com/artist/0I5HubncQ8E1MFZOlPDY4J), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Trap Lord](https://open.spotify.com/album/3smlfAmejcKMmAPg1G2Kki) | 4:43 | 2025-01-15 |  |
 | [World Is Yours \(Lil Baby & Gunna\)](https://open.spotify.com/track/0p0jvYdazuWBMC8QacxpUH) | [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Drip Harder](https://open.spotify.com/album/2yXnY2NiaZk9QiJJittS81) | 2:37 | 2023-07-11 |  |
 | [WOW \(with A$AP Rocky\)](https://open.spotify.com/track/2RWlRSi9TthgUka2yrLnrD) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [INSANO](https://open.spotify.com/album/0tpIUAzCeUkoV4u2r5NrQr) | 4:34 | 2024-01-12 |  |
 | [WTFYM](https://open.spotify.com/track/1xwvjqcwflD2NEqRCNcCo2) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 4:52 | 2024-03-27 |  |

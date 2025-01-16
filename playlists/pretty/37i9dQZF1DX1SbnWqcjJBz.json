@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 120983,
+  "num_followers": 121042,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -779,6 +779,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Heart to Break",
+        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 225972,
+      "name": "Heart to Break",
+      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Late Night Feelings (feat. Lykke Li)",
         "url": "https://open.spotify.com/album/0kTSclkPCKfANMfQmUSFW5"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Heart to Break",
-        "url": "https://open.spotify.com/album/1EIqxxK1683sjRXjx2MXyD"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 225972,
-      "name": "Heart to Break",
-      "url": "https://open.spotify.com/track/1jFN0stMzLepoPxvPywGZj"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Lotus (Deluxe Version)",
         "url": "https://open.spotify.com/album/56vCgdP2fIuKtvMu6MBL2Q"
       },
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Mine",
-        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
-      },
-      "artists": [
-        {
-          "name": "Slayyyter",
-          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
-        }
-      ],
-      "duration_ms": 159013,
-      "name": "Mine",
-      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Speak",
         "url": "https://open.spotify.com/album/3ZxcXB6JtLDAEUDLVkiIRe"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 196306,
       "name": "Rumors",
       "url": "https://open.spotify.com/track/3KnjerEPMolLapVo2wdgz6"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Mine",
+        "url": "https://open.spotify.com/album/3SQr5VHmYRkAGGMTCBbbnP"
+      },
+      "artists": [
+        {
+          "name": "Slayyyter",
+          "url": "https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC"
+        }
+      ],
+      "duration_ms": 159013,
+      "name": "Mine",
+      "url": "https://open.spotify.com/track/18uOcUO5mNEYHHigeXPgQM"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Can't Do Better",
-        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "duration_ms": 188616,
-      "name": "Can't Do Better",
-      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "I\u2019m Ready (with Demi Lovato)",
         "url": "https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 208613,
       "name": "Perfect Day",
       "url": "https://open.spotify.com/track/4pMyfWdA0eo3JY5RqMotbw"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Can't Do Better",
+        "url": "https://open.spotify.com/album/4XovGKPffxorW8SRdo5Mwc"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "duration_ms": 188616,
+      "name": "Can't Do Better",
+      "url": "https://open.spotify.com/track/7t9gDWqX10tbhtriPR1Cnd"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "I Don't Wanna Grow Up",
-        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
-      },
-      "artists": [
-        {
-          "name": "Bebe Rexha",
-          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
-        }
-      ],
-      "duration_ms": 207775,
-      "name": "I'm Gonna Show You Crazy",
-      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Froot",
         "url": "https://open.spotify.com/album/3TGFADcugVPngfF7dtiqqY"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 331324,
       "name": "Froot",
       "url": "https://open.spotify.com/track/6fk13PEdduHc2HG6JX6imT"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "I Don't Wanna Grow Up",
+        "url": "https://open.spotify.com/album/7fpYQJGXdDUzmhZAQmf8BE"
+      },
+      "artists": [
+        {
+          "name": "Bebe Rexha",
+          "url": "https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb"
+        }
+      ],
+      "duration_ms": 207775,
+      "name": "I'm Gonna Show You Crazy",
+      "url": "https://open.spotify.com/track/3EVooCKm9XbvXsfgjhGDAB"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Magic Still Exists",
-        "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
-      },
-      "artists": [
-        {
-          "name": "Agnes",
-          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
-        }
-      ],
-      "duration_ms": 212043,
-      "name": "Here Comes The Night",
-      "url": "https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Welcome to the Jungle (Deluxe)",
         "url": "https://open.spotify.com/album/5cA9DE1YE50J95RETKQk9v"
       },
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Electra Heart (Deluxe)",
-        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
+        "name": "Magic Still Exists",
+        "url": "https://open.spotify.com/album/5yD8F2BqQt2xLuMof36IYN"
       },
       "artists": [
         {
-          "name": "MARINA",
-          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+          "name": "Agnes",
+          "url": "https://open.spotify.com/artist/6SsTlCsuCYleNza6xGwynu"
         }
       ],
-      "duration_ms": 221493,
-      "name": "How to Be a Heartbreaker",
-      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
+      "duration_ms": 212043,
+      "name": "Here Comes The Night",
+      "url": "https://open.spotify.com/track/0o0xvvWmCtMdnJ3F8FBurv"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1455,6 +1439,22 @@
       "duration_ms": 297933,
       "name": "Somebody to Love Me",
       "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Electra Heart (Deluxe)",
+        "url": "https://open.spotify.com/album/5N1aNUXaHDD7YsjhbCM9JZ"
+      },
+      "artists": [
+        {
+          "name": "MARINA",
+          "url": "https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A"
+        }
+      ],
+      "duration_ms": 221493,
+      "name": "How to Be a Heartbreaker",
+      "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1627,6 +1627,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/3ZNvrzPJ5AQZscVD2kWGVN"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "duration_ms": 215388,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/15VB0uLh5VP3bs3hLJM1I7"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Glorious (Deluxe)",
         "url": "https://open.spotify.com/album/5AQ7uKRSpAv7SNUl4j24ru"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 193829,
       "name": "Physical",
       "url": "https://open.spotify.com/track/44fXOB2eBG8uaQJGwh26Bk"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/3ZNvrzPJ5AQZscVD2kWGVN"
-      },
-      "artists": [
-        {
-          "name": "Heidi Montag",
-          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
-        }
-      ],
-      "duration_ms": 215388,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/15VB0uLh5VP3bs3hLJM1I7"
     },
     {
       "added_at": "2024-06-02 21:23:10",

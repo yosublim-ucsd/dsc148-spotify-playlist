@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: RAT BOY
 
-[Spotify](https://open.spotify.com/user/spotify) - 57,480 likes - 100 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 57,499 likes - 100 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 84 | [La Manifestacion](https://open.spotify.com/track/1eQ9gQAcNDVSNqVHREotR9) | [Skampida](https://open.spotify.com/artist/2gFTHPd5iboV0IvQgsATno) | [Inflammable](https://open.spotify.com/album/4jaLhhO7r5c920fcAaW0Al) | 2:51 |
 | 85 | [Mudik](https://open.spotify.com/track/3u7pq1wcyrms1poAnD5HuR) | [Shaggydog](https://open.spotify.com/artist/0AjuoWaVVGH41iEhASaj2r) | [Mudik](https://open.spotify.com/album/3x0dxk1UNE1cAk2jmLrAUQ) | 4:15 |
 | 86 | [Tengo Miedo](https://open.spotify.com/track/0Ie0046Cnewwp8bKCZlDPA) | [Timo Pacheco](https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl) | [Estacional](https://open.spotify.com/album/5wU8q6gfYE2aQDxTMRULGt) | 3:17 |
-| 87 | [Walking Pipebomb](https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Walking Pipebomb](https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8) | 2:45 |
-| 88 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
+| 87 | [Sally Brown](https://open.spotify.com/track/08hvKlzfjR1uXbDsUdFtXE) | [Bad Manners](https://open.spotify.com/artist/0GShYlUdyLahdsvgKdselx) | [Return Of The Ugly](https://open.spotify.com/album/6HOvTf2kejA6S1lh0rCTCD) | 3:02 |
+| 88 | [Walking Pipebomb](https://open.spotify.com/track/55h08QeVPOFlEGiCiBRulk) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Walking Pipebomb](https://open.spotify.com/album/10Dak0r841xGCCuwW1XwS8) | 2:45 |
 | 89 | [Me Sem Rom](https://open.spotify.com/track/6ckSwgGXiWtRRGDvbfnpfk) | [Fanfare Ciocarlia](https://open.spotify.com/artist/40iJCAOCz6nhRs6CbsAtOg), [Iulian Canaf](https://open.spotify.com/artist/1VH7bhQfK4IFnlvX70BLZx) | [Me Sem Rom](https://open.spotify.com/album/3X1YnQsY4hLBNbAHO6Eezg) | 3:07 |
 | 90 | [The One And Only](https://open.spotify.com/track/04MkrjtWql5a9UTTMzB2zW) | [Makua Rothman](https://open.spotify.com/artist/2NPXqPjxbsbSAkO9PA61lN) | [The One And Only](https://open.spotify.com/album/7DK4Yb70kirgEI1JMK3Mje) | 3:03 |
 | 91 | [Wrong Side of Town \(feat\. Hak Baker\)](https://open.spotify.com/track/33LjlRBCyzgFzHJLKey8gk) | [Joe Armon\-Jones](https://open.spotify.com/artist/5mUcc8OOP4RuzrupeGYwW5), [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Wrong Side Of Town](https://open.spotify.com/album/4CVsYdUQaVBpsWGZL1IGzX) | 4:25 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 97 | [Forza St\. Pauli](https://open.spotify.com/track/1vIVckRe3c3AG8gZcmkpwJ) | [Dubtari](https://open.spotify.com/artist/6wuEyZqdfakazd93VqO0YC) | [St\. Pauli \- Einhundert](https://open.spotify.com/album/0y43oaQeNBUccV41cHrBqs) | 3:45 |
 | 98 | [Devil With a Microphone](https://open.spotify.com/track/4oZEIKV1jFpaanyl9DneOF) | [Random Hand](https://open.spotify.com/artist/0qyNkAVhhlJ4DvfYypl1Bb) | [Random Hand](https://open.spotify.com/album/5IUr8JaIyJvTN4nU293VHC) | 3:12 |
 | 99 | [No Reason](https://open.spotify.com/track/4vUG5WQAurJPNA5u5NLKPP) | [Madness](https://open.spotify.com/artist/4AYkFtEBnNnGuoo8HaHErd) | [No Reason](https://open.spotify.com/album/6mFhGt5JwBlBpLPKQiupRd) | 3:09 |
-| 100 | [Brand New Day](https://open.spotify.com/track/2ukSB6kFcvZ0CgIYvuqfgK) | [Less Than Jake](https://open.spotify.com/artist/20oQv3LStCKCjI9oQ0JNha) | [Brand New Day](https://open.spotify.com/album/5C6mPpGNlw6ovkuO0WMADa) | 3:26 |
+| 100 | [Wir sind wieder wer](https://open.spotify.com/track/1jFiU9ubsJmoLY0vXALxKb) | [100 Kilo Herz](https://open.spotify.com/artist/6sKOC3XdcoRZHh70zwnWFg) | [Wir sind wieder wer](https://open.spotify.com/album/5RvndlPhi6eqt0QxN2hP0q) | 3:27 |
 
 Snapshot ID: `ZyRuYAAAAABTd2CK7BDGa1ddD6Uxwz5b`

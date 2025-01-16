@@ -4,7 +4,7 @@
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-128 songs - 7 hr 48 min
+134 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Coral](https://open.spotify.com/track/321TKi0OMRCqt1WvyDA0d8) | [Arli Liberman](https://open.spotify.com/artist/3gVNQN1b6HpdFzMbo2jE5k) | [Fata Morgana](https://open.spotify.com/album/2VXGu0aOBaxGVy6idevAs2) | 6:47 | 2022-09-06 |  |
 | [Dawn Dusk Divinity](https://open.spotify.com/track/3Gs2uBopmgSkqI6Ww2IYnm) | [Devansh Tushar](https://open.spotify.com/artist/6A6XOlnYgaiM9qfRvSIHQL) | [Happy](https://open.spotify.com/album/6FXJ200cFy73fvSBZm0xfJ) | 2:59 | 2022-09-30 |  |
 | [Deep Thoughts](https://open.spotify.com/track/3FVd5GGOeJFvU97JFH7jMH) | [Danny Shamoun](https://open.spotify.com/artist/4X9F4TkZ1jKZfWJOTpeb3F) | [Deep Thoughts](https://open.spotify.com/album/3Hrxi0EvyWfNyA3l86ZCBI) | 3:12 | 2022-09-06 |  |
+| [Desert Mirage](https://open.spotify.com/track/56OxjqewjNQce29ZiWy8Vq) | [Willow Skies](https://open.spotify.com/artist/7vD3hGQ6SFDLUy0i4UDirc) | [Desert Mirage](https://open.spotify.com/album/5wrtNoT8aXuKs8P6rrMaLI) | 2:55 | 2025-01-15 |  |
 | [Dharma](https://open.spotify.com/track/1mmJ23UvtuCs5DYWJNVudJ) | [Sacred Flute](https://open.spotify.com/artist/6dn5BFtVFrmBuZXS3Pt2Qi) | [Dharma](https://open.spotify.com/album/25WiKPYtScDlWpE7N8PCze) | 3:30 | 2023-02-10 |  |
 | [Dreaming of Arabia](https://open.spotify.com/track/0rjWngexJxYIMQktacJMSD) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Arabian Spa \(Middle Eastern Music\)](https://open.spotify.com/album/3wpMpKERtJxcg3m8SOR8AX) | 3:47 | 2022-09-06 |  |
 | [Dreams of Calmness](https://open.spotify.com/track/0n7hJpHTyo48IZ43NAKDP9) | [Niigata](https://open.spotify.com/artist/74md3IYnYrHUTG6GBfem9N) | [Dreams of Calmness](https://open.spotify.com/album/4EtyVHSabhRKs3DqYygDCT) | 2:34 | 2022-09-06 |  |
@@ -43,6 +44,7 @@
 | [Duduk Dreams](https://open.spotify.com/track/71l4isqXmuzvbe4xOsGGxG) | [Vera Eikon](https://open.spotify.com/artist/5GWPPcK9rmFZvw8Gy4TQOj) | [Duduk Dreams](https://open.spotify.com/album/4epyHlVlNDz5TuETXucJG3) | 2:35 | 2024-07-16 |  |
 | [Duduk Love](https://open.spotify.com/track/5SzRp6YO1xWMvJvYALJNmP) | [Bakshi Breeze](https://open.spotify.com/artist/3x4SAtpZRUbY58nKIXTjSt) | [Duduk Love](https://open.spotify.com/album/49ucNCngXEm6Mcqn4iwTLk) | 2:56 | 2022-09-06 |  |
 | [Duduk meditation](https://open.spotify.com/track/4EWJ1WB2hOq9P3un0ryO50) | [Tom Vode](https://open.spotify.com/artist/6MIexSldcIatPBYa5pWHsw) | [Duduk meditation](https://open.spotify.com/album/0BiB5g7JLHHAWyO8kKllDb) | 2:46 | 2024-07-16 |  |
+| [Duduk Winds](https://open.spotify.com/track/7hfhWoLDUuAeFcdFvYbLC7) | [Orion Rivera](https://open.spotify.com/artist/2ZAAs2C0Sslu20k8JexdpG) | [Duduk Winds](https://open.spotify.com/album/40cAGkx7mHC4oeEMCPfU7K) | 3:01 | 2025-01-15 |  |
 | [Echoes of Stillness](https://open.spotify.com/track/0QhZbK0kuJbKi9li1SfwG9) | [Reina Akabava](https://open.spotify.com/artist/7AssoXxRyds50wtePrUpu7) | [Echoes of Stillness](https://open.spotify.com/album/0wNWTMXiFuXPdoPoRcUiBm) | 2:18 | 2023-07-11 |  |
 | [Egyptian Ritual](https://open.spotify.com/track/6ynLu35rbxgMvlqvkpCayr) | [Desert Oasis Ensemble](https://open.spotify.com/artist/6uYXTp8nqbTh2KxABcLLSB) | [Ancient Mystical Egypt](https://open.spotify.com/album/1zzBtsnLZEWq1JMZT3Th5B) | 2:31 | 2022-09-06 |  |
 | [Emotional Balance](https://open.spotify.com/track/1v1dDDk8KjIfGPmOUhe4iG) | [Oasis of Relaxation and Meditation](https://open.spotify.com/artist/1f9ymt2Hm1RUD18aA7B1bT) | [Middle Eastern Meditation \(Relaxing Arabic Music, Spirituality, Sacred Relaxation, Prophetic Healing\)](https://open.spotify.com/album/4m754WhMXAVWoF7SkWhWc8) | 3:38 | 2022-09-06 |  |
@@ -82,9 +84,11 @@
 | [Morning Clarity](https://open.spotify.com/track/3CAPK6ARot8aIxX2XcoLLA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Morning Clarity](https://open.spotify.com/album/2qT2WMGMgqYXuBGB3UBIJA) | 3:02 | 2023-04-26 |  |
 | [Moroccan Dance](https://open.spotify.com/track/3oowGaxhUt7eoRjaIOys0e) | [Rumi Ged](https://open.spotify.com/artist/4QzAg324qBeb33bzKsBxaI) | [Bar de Lune Presents Bedouin Cafe](https://open.spotify.com/album/3vgO9x2bALPEEjpFYcDEEy) | 4:31 | 2022-09-06 |  |
 | [Mukti](https://open.spotify.com/track/3j1ugKG3WVeFGqf5bjx3CB) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Moksha](https://open.spotify.com/album/2NBJRiyIdMaLzJwjxLd6N9) | 2:36 | 2023-04-26 |  |
+| [Mukti Tabla](https://open.spotify.com/track/3UjpG0dPWvSS8tsDsgvuy8) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Mukti Tabla](https://open.spotify.com/album/2FMS4ESQD2agh4k7bbo1vk) | 2:33 | 2025-01-15 |  |
 | [Nava](https://open.spotify.com/track/7d4RLSFO2qiaZRk2M3D11c) | [Majid Derakhshani](https://open.spotify.com/artist/68Mz4oTRLkgxPgdkmfujeL) | [Music of the Persian Mystics](https://open.spotify.com/album/1UsUJnAnXU4bIOEdC9FhTO) | 1:54 | 2022-10-24 | 2022-11-13 |
 | [Nava](https://open.spotify.com/track/7ezzTcZHPQLsQ4I6Kqhyxx) | [Majid Derakhshani](https://open.spotify.com/artist/68Mz4oTRLkgxPgdkmfujeL) | [Music of the Persian Mystics](https://open.spotify.com/album/5fSsbPShbk72VcXPgKsAN8) | 1:54 | 2023-07-11 | 2024-07-17 |
 | [Nava \(Taknavazi\)](https://open.spotify.com/track/2fXONc4pUGr3TeTfd8vJiL) | [Zohreh Jooya](https://open.spotify.com/artist/4aPe9EHxbJctF6lD7BOslz) | [Johare Eshgh](https://open.spotify.com/album/2hZanYkYDWli5TpWkUmv6q) | 1:54 | 2022-09-06 | 2024-04-19 |
+| [Nirmal](https://open.spotify.com/track/73sksFmJyTHnjnHTDAoTrU) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Nirmal](https://open.spotify.com/album/1viztqNgbQ3xO8ALlvMf2Y) | 2:44 | 2025-01-15 |  |
 | [Old Kingdom](https://open.spotify.com/track/0E2VhScNmFuE6K2Xt6dD7k) | [Duduk Tribe](https://open.spotify.com/artist/3dq4MRFFVkVm6MGSnhRW56) | [Old Kingdom](https://open.spotify.com/album/2KdvKkkVIb91ILygYzVzVg) | 3:58 | 2023-07-11 |  |
 | [Osceola](https://open.spotify.com/track/44c1Fee8CMkU7407C4eiqA) | [Alexandra Irwin](https://open.spotify.com/artist/5eXVmpRWpFw0vQcu0jGRVV) | [Osceola](https://open.spotify.com/album/2QlTwprjsdTQphD9D1gMBY) | 2:45 | 2022-09-06 |  |
 | [Pacific Silence](https://open.spotify.com/track/3c7lAcrausFsmGTJZUcVTO) | [Haraldur Bergljót](https://open.spotify.com/artist/5lIaD8O0ZoUIS3aybgfyeO) | [Pacific Silence](https://open.spotify.com/album/3bSUBIAWA65I875PsIwOO2) | 3:10 | 2022-12-21 |  |
@@ -92,6 +96,7 @@
 | [Path of Light](https://open.spotify.com/track/1z1pDsi4pI26xmkcKqogXo) | [Solarixo](https://open.spotify.com/artist/5McHUSz4tKBSVrwI9JzUhY) | [Path of Light](https://open.spotify.com/album/49Kj6Y9vmd0Ih7ezF0RvxR) | 3:28 | 2023-02-10 |  |
 | [Peace and Quiet](https://open.spotify.com/track/6fKAXHHXXu0IrgNbOASoFS) | [Zen Atlas](https://open.spotify.com/artist/6KjzMG22RTsrSCmy71Ok0N) | [Peace and Quiet](https://open.spotify.com/album/1VA2ltU2TnJ3uAFpXG1DZ0) | 3:30 | 2022-09-06 |  |
 | [Peaceful Oasis](https://open.spotify.com/track/4hNSJMDbcaJGv3Xb6iqIKf) | [Gomis Golab](https://open.spotify.com/artist/29nePvmDsNHG26KHxVMcqa) | [Peaceful Oasis](https://open.spotify.com/album/3Pspn8KKURtQJGwO2dF1jD) | 2:14 | 2023-07-11 |  |
+| [Polaris](https://open.spotify.com/track/07iyw5Yg9aGkfxdy87Ijkf) | [Égide Affré](https://open.spotify.com/artist/4DHXiT1f9bWlO3NIZuhSTN) | [Polaris](https://open.spotify.com/album/2wmudQTcCyFXvAm2WAxtkA) | 2:46 | 2025-01-15 |  |
 | [Raat Kee Khoj](https://open.spotify.com/track/6aRBPJ1TcZFPPcw07UUSd5) | [Daya Misra](https://open.spotify.com/artist/4ym3cVsniN8Zfiq6c2mKb2) | [Raat Kee Khoj](https://open.spotify.com/album/4fPb0HKS6TEJKuehkk2SG9) | 4:31 | 2022-09-06 |  |
 | [Raqsat albedoi](https://open.spotify.com/track/0LqbB6gdqYV3YZQjv52VC7) | [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/5VgBB99flx04RpN43MH2vx) | 5:27 | 2022-09-06 | 2024-04-19 |
 | [Raqsat Albedoi](https://open.spotify.com/track/6wWZm0XT0b6OGL1tv9NXbk) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Ahmed Mukhtar](https://open.spotify.com/artist/1hx8suKwq86AfSk8LcgFTa), [Sattar Al\-Saadi](https://open.spotify.com/artist/7jVCcEEugAHRdcJDtoALXH) | [Music form Iraq: Rhythms of Baghdad](https://open.spotify.com/album/6w5z3w1ERocTpLeC242aEz) | 5:27 | 2023-07-11 |  |
@@ -123,6 +128,7 @@
 | [To Become](https://open.spotify.com/track/13wd75MxSECCWxK8Q6ADkM) | [Ambient X](https://open.spotify.com/artist/15NGcH8rjmaCOXThYAmKNX) | [To Become](https://open.spotify.com/album/3YDEOoghPFf0h9eFP6Uws3) | 2:47 | 2023-04-26 |  |
 | [Touch of Meditation](https://open.spotify.com/track/3aTk8gqyP8cGegtVFa3vC9) | [Egyptian Meditation Temple](https://open.spotify.com/artist/3pKvR76WdkzFxvAiKrwibH) | [Journey to Arabia: Namaste Yoga \- Middle Eastern Meditation, Oriental Relaxation, Deep Spiritual Music](https://open.spotify.com/album/4pGkIMQ2xwUJvnOmYyBr5j) | 4:03 | 2022-09-06 |  |
 | [Tranquil Desert Sanctuary](https://open.spotify.com/track/6STx8DlaC9NmtMOthYMiHO) | [Tribal Drums Ambient](https://open.spotify.com/artist/43sPSu5S998ea5L4wtaZCV) | [Secret of Arabic Healing Massage \(Oriental Spa, Eastern Relaxing Drums, Ethnic Journey\)](https://open.spotify.com/album/0QZAbFoGd9fBfsUigysXex) | 3:54 | 2022-09-06 |  |
+| [Tranquil Garden](https://open.spotify.com/track/1xjmQLDgqXUQZDq4hP5b2q) | [Kundalini Dreams](https://open.spotify.com/artist/24OD7jZHofVutQwTUSL2mV) | [Tranquil Garden](https://open.spotify.com/album/4ozvfUFB74zrfeSkIaBY1f) | 2:04 | 2025-01-15 |  |
 | [Tranquility Sands \(Limitless\)](https://open.spotify.com/track/74K0t5QbnOBQjUtTc900u1) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Tranquility Sands](https://open.spotify.com/album/3usYkjYhdS5wngDom5JVeh) | 4:12 | 2022-09-06 |  |
 | [Vistaar](https://open.spotify.com/track/27jJ0tpNrZkd9qQrA40xQj) | [Ranjan E](https://open.spotify.com/artist/6cREMEcDlVDzlRcvGzHrQq) | [Vistaar](https://open.spotify.com/album/0IOthohemR6IYskmq3WhJQ) | 3:32 | 2022-12-21 |  |
 | [Whispers of Ney](https://open.spotify.com/track/5QyKenCw8AlAmw4SdUp9Ex) | [Anatolian Flute](https://open.spotify.com/artist/2WDfPwwWs8loSU6HnjENBZ) | [Whispers of Ney](https://open.spotify.com/album/7E5WrPenJYe3fsVzIvfrx6) | 4:13 | 2023-02-10 |  |

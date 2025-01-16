@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 354965,
+  "num_followers": 354990,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "good luck, goodbye (over nostalgic edition)",
-        "url": "https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0"
-      },
-      "artists": [
-        {
-          "name": "Kenzie Cait",
-          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
-        }
-      ],
-      "duration_ms": 217241,
-      "name": "someday, someone",
-      "url": "https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 277413,
       "name": "All I Know So Far",
       "url": "https://open.spotify.com/track/4LmN3eU1R1vVEdKuDELpGk"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "The Good Witch",
+        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+      },
+      "artists": [
+        {
+          "name": "Maisie Peters",
+          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+        }
+      ],
+      "duration_ms": 225266,
+      "name": "There It Goes",
+      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "The Good Witch",
-        "url": "https://open.spotify.com/album/7HCjmINu53BcKbTetdgERo"
+        "name": "good luck, goodbye (over nostalgic edition)",
+        "url": "https://open.spotify.com/album/4McUXvDxR2MBL9eW6XV9T0"
       },
       "artists": [
         {
-          "name": "Maisie Peters",
-          "url": "https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs"
+          "name": "Kenzie Cait",
+          "url": "https://open.spotify.com/artist/31R6iGeP78KhQrxWifGjSM"
         }
       ],
-      "duration_ms": 225266,
-      "name": "There It Goes",
-      "url": "https://open.spotify.com/track/7cqlE9HPKAPpszcj5qlsqc"
+      "duration_ms": 217241,
+      "name": "someday, someone",
+      "url": "https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -539,18 +539,18 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Kuss.",
-        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
+        "name": "Ask & You Shall Receive",
+        "url": "https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8"
       },
       "artists": [
         {
-          "name": "Haller",
-          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 198218,
-      "name": "Sch\u00f6n genug",
-      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
+      "duration_ms": 199626,
+      "name": "Ask & You Shall Receive",
+      "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -571,18 +571,18 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Ask & You Shall Receive",
-        "url": "https://open.spotify.com/album/5htBDYVAOjfBHgquMxExL8"
+        "name": "Kuss.",
+        "url": "https://open.spotify.com/album/6o39VGaYw6CC8gJL3e0rGs"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Haller",
+          "url": "https://open.spotify.com/artist/62U6nJKR1V8QOspXUzWle3"
         }
       ],
-      "duration_ms": 199626,
-      "name": "Ask & You Shall Receive",
-      "url": "https://open.spotify.com/track/4zB5pU3cwGiC6Fcz5qtfUe"
+      "duration_ms": 198218,
+      "name": "Sch\u00f6n genug",
+      "url": "https://open.spotify.com/track/2S5FeDvQmmI9iLq8SdCsB2"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Kreise",
-        "url": "https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS"
-      },
-      "artists": [
-        {
-          "name": "Johannes Oerding",
-          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
-        }
-      ],
-      "duration_ms": 221533,
-      "name": "Kreise",
-      "url": "https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "The Hardest Part",
         "url": "https://open.spotify.com/album/588h8UhIeAqmWsN7zo9mtA"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 176040,
       "name": "The Hardest Part",
       "url": "https://open.spotify.com/track/0pNj0uRTx5mhi7kID26oiH"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Kreise",
+        "url": "https://open.spotify.com/album/7EJ7tw1jSJdW2C0enoLQXS"
+      },
+      "artists": [
+        {
+          "name": "Johannes Oerding",
+          "url": "https://open.spotify.com/artist/4I7D65YMlr6ZxVEGPb7q2K"
+        }
+      ],
+      "duration_ms": 221533,
+      "name": "Kreise",
+      "url": "https://open.spotify.com/track/1ocmRsEMI6nO9d9BdQbXNI"
     },
     {
       "added_at": "2024-12-11 08:10:11",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2024-12-11 08:10:11",
       "album": {
-        "name": "Thrill Of It All",
-        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 203603,
-      "name": "Thrill Of It All",
-      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
-    },
-    {
-      "added_at": "2024-12-11 08:10:11",
-      "album": {
         "name": "Let\u2019s Go Home Together (Luca Schreiner Remix)",
         "url": "https://open.spotify.com/album/1bywIoMIeyI0OtOnxq0aZy"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 208692,
       "name": "Let\u2019s Go Home Together",
       "url": "https://open.spotify.com/track/4CH0dVylkeBPydRM7AaG8g"
+    },
+    {
+      "added_at": "2024-12-11 08:10:11",
+      "album": {
+        "name": "Thrill Of It All",
+        "url": "https://open.spotify.com/album/23tZRrcxog6733FrjhknAi"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 203603,
+      "name": "Thrill Of It All",
+      "url": "https://open.spotify.com/track/6zhUZJlmcIILe4jBNQKCTh"
     },
     {
       "added_at": "2024-12-11 08:10:11",

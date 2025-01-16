@@ -1,16 +1,17 @@
 [pretty](/playlists/pretty/37i9dQZF1DX2wnPyeao7oY.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX2wnPyeao7oY) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2wnPyeao7oY)
 
-### [Best of Fresh Finds Heavy 2024](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
+### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> The top 50 tracks from Fresh Finds Heavy in 2024\. Cover: Undeath \| Artwork: Nejc Prah
+> New music by the heaviest independent artists every Wednesday\. Cover: Church Outfit \| Artwork: Nejc Prah
 
-161 songs - 9 hr 44 min
+166 songs - 10 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Re\)\-Extract](https://open.spotify.com/track/3dP3PfCwcvmzJlI6NUZurb) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar), [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [\(Re\)\-Extract](https://open.spotify.com/album/2QvXlmYuYCuPGBjsNJVUbI) | 3:02 | 2024-09-25 |  |
 | [Abyssal Host](https://open.spotify.com/track/4Wv0PLJV52t7gJBymuWLIS) | [Glacial Tomb](https://open.spotify.com/artist/49q7wu3eIwZR1kjAHdCHOI) | [Abyssal Host](https://open.spotify.com/album/6BbB8W8nHIohh4Qk2uDu3e) | 4:18 | 2024-08-07 | 2024-10-10 |
 | [ACOLYTE](https://open.spotify.com/track/4EVjNQpQzLWv2yAZDYwAvW) | [GASKET](https://open.spotify.com/artist/7zpBSbOnHBALF6vwYkMll0) | [BABYLON](https://open.spotify.com/album/39v3ZcKh9IflfrgEFpuhGF) | 1:16 | 2024-08-07 |  |
+| [ADL](https://open.spotify.com/track/0eSNQzRYFGS91uHyAeki6e) | [FreeHowling](https://open.spotify.com/artist/1BYd3uRtgiwyUbz7Jg9RhG) | [ADL](https://open.spotify.com/album/6oLHw2oSgYpUZEEhWKMFVk) | 2:46 | 2025-01-15 |  |
 | [AFTER DEATH](https://open.spotify.com/track/0oYpw0aWV4a0Vn5sQrBdfQ) | [Hate Within](https://open.spotify.com/artist/27sOHU1c3NaMHTtN5vEVMv), [Ben Duerr](https://open.spotify.com/artist/1dgtD6jGXJqjZ5g77aOqdg), [Angel Vivaldi](https://open.spotify.com/artist/4IvneyseUnh42KeTx1icxK) | [AFTER DEATH](https://open.spotify.com/album/1yeBXN8FfpFoPkWFxw3GE9) | 4:57 | 2024-10-09 |  |
 | [all i know](https://open.spotify.com/track/2WMDasbAaIgTA3V2SsFfw2) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [all i know](https://open.spotify.com/album/5iacqoZQel4rOdHsrA8t2V) | 3:40 | 2024-10-02 | 2024-12-05 |
 | [Allodynia](https://open.spotify.com/track/6StlC5OqkTe7coHvkZRia8) | [TNL VZN](https://open.spotify.com/artist/3di6YoR5j617hBNYJJ9c1h) | [Allodynia](https://open.spotify.com/album/5UxOfzGbKXLPVW49TlNjgf) | 2:30 | 2024-10-25 | 2024-12-05 |
@@ -19,6 +20,7 @@
 | [Angels Like You](https://open.spotify.com/track/5VXBAz99xZFPKdevoy3pOh) | [Gore.](https://open.spotify.com/artist/29lirphalEtxlf1f8XlGes) | [Angels Like You](https://open.spotify.com/album/3fRLgA1sF8L6vqN5ZM9Psx) | 3:25 | 2024-10-02 | 2024-10-26 |
 | [Aquila](https://open.spotify.com/track/49LZHvYu1hUWIlR5Di3LWJ) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [From The New World](https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC) | 4:05 | 2024-12-04 |  |
 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 | 2024-08-07 | 2024-12-05 |
+| [Arimortis](https://open.spotify.com/track/3necCuU4xO4oecozXxwQay) | [Necrodeath](https://open.spotify.com/artist/73n8NYaqRf2oJBuK7lWq0O) | [Arimortis](https://open.spotify.com/album/1PocWHv4LCitKv7lkBuExQ) | 3:39 | 2025-01-15 |  |
 | [Bad Behavior](https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr) | [Silly Goose](https://open.spotify.com/artist/0GicbfMtwhn3Ch0PdwkADQ) | [Bad Behavior](https://open.spotify.com/album/5vmVFss9dY7Ga2AfPaAX2B) | 3:19 | 2024-09-19 |  |
 | [Bad Motives](https://open.spotify.com/track/7vF708LVxSGzwM8lZEGrnE) | [Alchemize](https://open.spotify.com/artist/19sA0hkbGEOfm9Q3FSTHtx), [Nathan Biddles](https://open.spotify.com/artist/4UajuhayMUbreIAuKQ9jsW) | [Bad Motives](https://open.spotify.com/album/4PiJXeJKNoHWAkjI4MLfmV) | 3:55 | 2024-10-25 | 2024-12-05 |
 | [Bandwagoning](https://open.spotify.com/track/52I0p8mYztsUhXiOw7NL1n) | [Coilguns](https://open.spotify.com/artist/02NSYcRNKSTchMm72ZigOH) | [Bandwagoning](https://open.spotify.com/album/1APnMqioUqVr7gGhj6a9aH) | 4:41 | 2024-10-25 | 2024-11-22 |
@@ -33,6 +35,7 @@
 | [Brandish The Blade](https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8) | [Undeath](https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN) | [Brandish The Blade](https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg) | 3:55 | 2024-08-07 | 2024-09-19 |
 | [Break](https://open.spotify.com/track/6il2TBS61gBvp6RcTBvlgk) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [HYDRA](https://open.spotify.com/album/5xatCHERAofQmKbIgTL9ty) | 3:30 | 2024-08-21 | 2024-10-17 |
 | [Burn](https://open.spotify.com/track/2Z4Q78I93ou0xKowl7UdlI) | [PUREST FORM](https://open.spotify.com/artist/5ARf7xUkhGgK7OErE7C9Ro) | [Burn](https://open.spotify.com/album/0YXAM70P7FztEPSX1V4z5F) | 3:31 | 2024-09-04 | 2024-12-05 |
+| [Bury Me \(One Thousand Times\)](https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [Bury Me \(One Thousand Times\)](https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg) | 2:21 | 2025-01-15 |  |
 | [Can't Stand No One](https://open.spotify.com/track/5d4Zhtc2EXIDp0Hi5cAfLq) | [DoFlame](https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc) | [Can't Stand No One](https://open.spotify.com/album/3dLRTX5OG8U2dfvNC94t9d) | 2:22 | 2024-08-07 | 2024-08-29 |
 | [Chaos Garden](https://open.spotify.com/track/1qgUVeTaGQc5OwupMst5u0) | [DREGG](https://open.spotify.com/artist/3jPUAhZngU2sEwsDm7Um6B) | [The Art Of Everything](https://open.spotify.com/album/4aaJ8ggCf9cKIlGUBKvHkq) | 2:48 | 2024-10-25 | 2024-12-05 |
 | [Chemicals](https://open.spotify.com/track/3IbMLc7Ku6lYicyycgPkyP) | [The Dark](https://open.spotify.com/artist/4w9QOKrn9Rzx8KiYgjIhZ6) | [Chemicals](https://open.spotify.com/album/3GqTUTV709jg7MJ92jdZjh) | 3:03 | 2024-09-25 |  |
@@ -40,6 +43,7 @@
 | [Close Your Eyes](https://open.spotify.com/track/7sxNMD1pJTmGDx5xftYZZL) | [Whispers](https://open.spotify.com/artist/62tqJaaK7ys8tATtp4334R) | [Close Your Eyes](https://open.spotify.com/album/7seWR9BS10N3K8FOyaIuUF) | 2:56 | 2024-11-13 | 2024-12-05 |
 | [Corrosion](https://open.spotify.com/track/726OXe032q4HQ6r0sGQAsl) | [Vestige](https://open.spotify.com/artist/0EK0zScYBi3NbAs66JRwJN) | [Corrosion](https://open.spotify.com/album/31MEawLocr8OoEDFJyg6aa) | 5:16 | 2024-08-07 | 2024-10-17 |
 | [Crazy One](https://open.spotify.com/track/19nWPTuIPfi0Cel9Gg6oYx) | [Felix Weaver](https://open.spotify.com/artist/1onhmHB21funSEwlwO6B9J) | [Crazy One](https://open.spotify.com/album/1v3ucRyw7ngZ0axpBMq2nj) | 3:21 | 2024-10-25 | 2024-12-05 |
+| [creep.](https://open.spotify.com/track/5NOCTGgUKlYTlcSaDPdSa4) | [THROATCUT.](https://open.spotify.com/artist/47gBz1Pk9infYqGMRxj6f5) | [creep.](https://open.spotify.com/album/4U23GK6lMmB6hT5P6N0MYL) | 3:14 | 2025-01-15 |  |
 | [Cross To Bear](https://open.spotify.com/track/0VughS6uwUoAmYAfpS2rZP) | [Aversed](https://open.spotify.com/artist/0NnC3YeMSgqiGQtfe5KEkF) | [Cross To Bear](https://open.spotify.com/album/6WVtZ4SyZS3PzfEQl7UNLx) | 4:04 | 2024-10-16 | 2024-11-14 |
 | [Crystal Rest](https://open.spotify.com/track/7zXPUkYo3HJNZFvAnygAjO) | [Denigrate](https://open.spotify.com/artist/5KmMe8RlK2emr65JFPsUaw) | [Crystal Rest](https://open.spotify.com/album/2YVL3ZFbs4t09NKa0ZoMU4) | 6:26 | 2024-08-07 | 2024-09-12 |
 | [DEAD.DROP.DEAD](https://open.spotify.com/track/1y4cYXim9COISQbJwaEDR7) | [Behind Crimson Eyes](https://open.spotify.com/artist/3IA2lo6wAL3YARtRPWv6Qe) | [DEAD.DROP.DEAD](https://open.spotify.com/album/1NhU7c5wDevXf1EvFnMdkZ) | 3:17 | 2024-08-07 |  |
@@ -159,6 +163,7 @@
 | [Twilight](https://open.spotify.com/track/1tx8ZUMLoPZF3Wfog1z2wX) | [IOTUNN](https://open.spotify.com/artist/3yJvUOZq6oH130RTa68hQz) | [Twilight](https://open.spotify.com/album/6pZGANJneWunbys7k95311) | 7:42 | 2024-10-25 | 2024-12-05 |
 | [Twitching On The Cross](https://open.spotify.com/track/7Gq5GQwZbizhT8l5QvgzlA) | [Tribal Gaze](https://open.spotify.com/artist/0pm9kmowFxxE4hWYM04MxH) | [Twitching On The Cross](https://open.spotify.com/album/6KYwRXq9egHcIp8klVf6J4) | 2:30 | 2024-09-19 | 2024-11-14 |
 | [Upon Burdened Hands](https://open.spotify.com/track/6HCPb0UNjcCaltfCnxxDdg) | [Mother of Graves](https://open.spotify.com/artist/2PnaLUVxH8HY0KOZz41ka6) | [Upon Burdened Hands](https://open.spotify.com/album/4GeXj7U1LHfx7Xvi1bw7n0) | 4:59 | 2024-08-28 | 2024-09-26 |
+| [vain conceit](https://open.spotify.com/track/5deTZlsApQuqK6U7zkGdb9) | [TCHERT](https://open.spotify.com/artist/50Hdzlt6WowML3w17jakU7), [Escalate](https://open.spotify.com/artist/2lvaaZdFEyfg3Ut0sBKinJ) | [vain conceit](https://open.spotify.com/album/5BxvyQTt8bX2iiQTevhVZO) | 3:17 | 2025-01-15 |  |
 | [VIVE LA DÉCEPTION](https://open.spotify.com/track/6OCECC88FRQD5PMmNewXCf) | [GAI 荄](https://open.spotify.com/artist/4UxSNn8D7I6mwc4ugD0Org) | [VIVE LA DÉCEPTION](https://open.spotify.com/album/387GBSNSWJV8TsjuAYy7of) | 2:58 | 2024-08-07 |  |
 | [Waging War Against God](https://open.spotify.com/track/1DgjkRkiSozHVBvMfb6VGt) | [Lowen](https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9) | [Waging War Against God](https://open.spotify.com/album/3RYaU51PVjq1M7qLhsHpQX) | 5:43 | 2024-09-11 | 2024-12-05 |
 | [Waging War Against God](https://open.spotify.com/track/5waQ7NyOgTOqwdEI4TyB7Y) | [Lowen](https://open.spotify.com/artist/2jJxBOcsVwHF0kYnnjsPu9) | [Do Not Go To War With The Demons Of Mazandaran](https://open.spotify.com/album/79tvicAFSw9tUc3qbxLf5P) | 5:43 | 2024-12-04 |  |

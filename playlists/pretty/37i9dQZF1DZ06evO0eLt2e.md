@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 
 > This is Kris Kristofferson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,767 likes - 51 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,777 likes - 51 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eLt2e.md) - [plain]
 | 50 | [Jody and the Kid](https://open.spotify.com/track/7L9Zf61ArhPtBhL3N08Lc3) | [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX) | [16 Biggest Hits](https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo) | 3:05 |
 | 51 | [Help Me Make It Through The Night \- Live](https://open.spotify.com/track/4QClPXF2xUraplS3mHHPck) | [Gaither](https://open.spotify.com/artist/1rKNroS04wbR4kgHIGBghY), [Kris Kristofferson](https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX), [Lorrie Morgan](https://open.spotify.com/artist/0khzcQ6PQU5a6dl1Qss3pt) | [Ralph Emery's Country Legends Series \(Vol\. 2 / Live\)](https://open.spotify.com/album/1RG0AMBjxcmbDzceUpR9L3) | 3:24 |
 
-Snapshot ID: `Z4RXgAAAAACtUtuD0yas/b4XjAhqqlCO`
+Snapshot ID: `Z4WpAAAAAABvgxqNOGus/wyUF5WmY831`

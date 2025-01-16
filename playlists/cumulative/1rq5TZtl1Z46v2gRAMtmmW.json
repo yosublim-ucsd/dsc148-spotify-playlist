@@ -1514,7 +1514,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 530363,
       "name": "D I M C O L A R E P R I S E",
       "url": "https://open.spotify.com/track/6rJIVu8JB1VidJByUq9X5s"
@@ -5372,10 +5372,32 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 99927,
       "name": "Sad Girl",
       "url": "https://open.spotify.com/track/5ilnOTkfSKaNDWu9Vmxh8Y"
+    },
+    {
+      "album": {
+        "name": "Sad Makeup",
+        "url": "https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230050,
+      "name": "Sad Makeup",
+      "url": "https://open.spotify.com/track/74eE402hFv13hLBw5iPQds"
     },
     {
       "album": {
@@ -7064,6 +7086,28 @@
       "duration_ms": 215039,
       "name": "Wide Awake (feat. Charlie Houston)",
       "url": "https://open.spotify.com/track/4lKSHi12cKgQlXwkrPHQ6s"
+    },
+    {
+      "album": {
+        "name": "Sad Makeup",
+        "url": "https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246250,
+      "name": "Winter Is Not Dead",
+      "url": "https://open.spotify.com/track/2Qa6Q93csBmJGzcXzmi2X3"
     },
     {
       "album": {

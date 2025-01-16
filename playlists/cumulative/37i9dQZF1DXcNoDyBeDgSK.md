@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DXcNoDyBeDgSK.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXcNoDyBeDgSK) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcNoDyBeDgSK)
 
-### [Blue Exorcist 青の祓魔師](https://open.spotify.com/playlist/37i9dQZF1DXcNoDyBeDgSK)
+### [Blue Exorcist](https://open.spotify.com/playlist/37i9dQZF1DXcNoDyBeDgSK)
 
-> Music from "Blue Exorcist" /アニメ「青の祓魔師」シリーズの楽曲を1つのプレイリストで。<br/>©加藤和恵／集英社・「青の祓魔師」製作委員会
+> Music from "Blue Exorcist" ©加藤和恵／集英社・「青の祓魔師」製作委員会
 
 64 songs - 4 hr 27 min
 

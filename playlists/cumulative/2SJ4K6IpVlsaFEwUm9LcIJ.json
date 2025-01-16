@@ -6335,6 +6335,24 @@
     },
     {
       "album": {
+        "name": "The Ever Decimal Pulse",
+        "url": "https://open.spotify.com/album/2q4XZHhXycsAejrdhMCVkP"
+      },
+      "artists": [
+        {
+          "name": "Geoffrey Landers",
+          "url": "https://open.spotify.com/artist/61boQYG7JKM1E48RWon8Lc"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343954,
+      "name": "Stan Is Lowe",
+      "url": "https://open.spotify.com/track/2E3h67GZuG6NQ9jDQpV24t"
+    },
+    {
+      "album": {
         "name": "The Land Is Inhospitable and So Are We",
         "url": "https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA"
       },

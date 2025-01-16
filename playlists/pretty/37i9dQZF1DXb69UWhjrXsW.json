@@ -1,29 +1,13 @@
 {
-  "description": "The greatest songs in the history of cinema. Cover: The Nightmare Before Christmas",
-  "num_followers": 928588,
+  "description": "The greatest songs in the history of cinema. Cover: The Graduate",
+  "num_followers": 928637,
   "original_name": "Hits From The Movies",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZyRSQAAAAAAWFiR60pkhqmyN9avqcm3o",
+  "snapshot_id": "Z4hlFAAAAABLNWpfLvfOYA9cL2h1cxN+",
   "tracks": [
-    {
-      "added_at": "2024-05-15 19:47:01",
-      "album": {
-        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
-      },
-      "artists": [
-        {
-          "name": "Billie Eilish",
-          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
-        }
-      ],
-      "duration_ms": 222369,
-      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
-      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
-    },
     {
       "added_at": "2024-05-15 19:47:01",
       "album": {
@@ -43,38 +27,6 @@
       "duration_ms": 290333,
       "name": "(I've Had) The Time Of My Life - From \"Dirty Dancing\" Soundtrack",
       "url": "https://open.spotify.com/track/6W7ztLBiRzBN46ZaPAcQ0F"
-    },
-    {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "The Nightmare Before Christmas (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6GK3BoRpWxUXV9xPQMYJdc"
-      },
-      "artists": [
-        {
-          "name": "Danny Elfman",
-          "url": "https://open.spotify.com/artist/5qBZETtyzfYnXOobDXbmcD"
-        }
-      ],
-      "duration_ms": 185573,
-      "name": "What's This?",
-      "url": "https://open.spotify.com/track/2xqar3ld7feKeOp1aGbmXw"
-    },
-    {
-      "added_at": "2024-05-15 19:47:01",
-      "album": {
-        "name": "Almost Famous (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/3oNY3UpmcQQ4TAicUcKkdf"
-      },
-      "artists": [
-        {
-          "name": "Elton John",
-          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
-        }
-      ],
-      "duration_ms": 373893,
-      "name": "Tiny Dancer",
-      "url": "https://open.spotify.com/track/6MV9CNu8TCE2281ltK3rh0"
     },
     {
       "added_at": "2024-05-15 19:47:01",
@@ -99,6 +51,22 @@
     {
       "added_at": "2024-05-15 19:47:01",
       "album": {
+        "name": "Almost Famous (Music From The Motion Picture)",
+        "url": "https://open.spotify.com/album/3oNY3UpmcQQ4TAicUcKkdf"
+      },
+      "artists": [
+        {
+          "name": "Elton John",
+          "url": "https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b"
+        }
+      ],
+      "duration_ms": 373893,
+      "name": "Tiny Dancer",
+      "url": "https://open.spotify.com/track/6MV9CNu8TCE2281ltK3rh0"
+    },
+    {
+      "added_at": "2024-05-15 19:47:01",
+      "album": {
         "name": "Purple Rain",
         "url": "https://open.spotify.com/album/7nXJ5k4XgRj5OLg9m8V3zc"
       },
@@ -111,6 +79,22 @@
       "duration_ms": 520786,
       "name": "Purple Rain",
       "url": "https://open.spotify.com/track/54X78diSLoUDI3joC2bjMz"
+    },
+    {
+      "added_at": "2024-05-15 19:47:01",
+      "album": {
+        "name": "Bookends",
+        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
+      },
+      "artists": [
+        {
+          "name": "Simon & Garfunkel",
+          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
+        }
+      ],
+      "duration_ms": 244026,
+      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
+      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
     },
     {
       "added_at": "2024-05-15 19:47:01",
@@ -203,6 +187,22 @@
       "duration_ms": 260866,
       "name": "Don't You (Forget About Me)",
       "url": "https://open.spotify.com/track/6yEAAIEHu4GcUFptg5W9kI"
+    },
+    {
+      "added_at": "2024-05-15 19:47:01",
+      "album": {
+        "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+        "url": "https://open.spotify.com/album/3AafSrFIbJPH6BJHiJm1Cd"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 222369,
+      "name": "What Was I Made For? [From The Motion Picture \"Barbie\"]",
+      "url": "https://open.spotify.com/track/6wf7Yu7cxBSPrRlWeSeK0Q"
     },
     {
       "added_at": "2024-05-15 19:47:01",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-05-15 19:47:01",
       "album": {
-        "name": "Bookends",
-        "url": "https://open.spotify.com/album/3bzgbgiytguTDnwzflAZr2"
-      },
-      "artists": [
-        {
-          "name": "Simon & Garfunkel",
-          "url": "https://open.spotify.com/artist/70cRZdQywnSFp9pnc2WTCE"
-        }
-      ],
-      "duration_ms": 244026,
-      "name": "Mrs. Robinson - From \"The Graduate\" Soundtrack",
-      "url": "https://open.spotify.com/track/0iOZM63lendWRTTeKhZBSC"
-    },
-    {
-      "added_at": "2024-05-15 19:47:01",
-      "album": {
         "name": "Coyote Ugly",
         "url": "https://open.spotify.com/album/0XxoyBssbnR7VB8YmtVzLD"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 155226,
       "name": "Twist And Shout - Remastered 2009",
       "url": "https://open.spotify.com/track/5ZBeML7Lf3FMEVviTyvi8l"
+    },
+    {
+      "added_at": "2025-01-16 01:47:00",
+      "album": {
+        "name": "Citizen Cope",
+        "url": "https://open.spotify.com/album/0sJpaLaj2QCkxZa3x2Z6GW"
+      },
+      "artists": [
+        {
+          "name": "Citizen Cope",
+          "url": "https://open.spotify.com/artist/7enBrBojgBJuPPdqTq4Z5F"
+        }
+      ],
+      "duration_ms": 257093,
+      "name": "Let The Drummer Kick",
+      "url": "https://open.spotify.com/track/4Nrg8EG7wWTiTOumtpw8gk"
     },
     {
       "added_at": "2024-05-15 19:47:01",

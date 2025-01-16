@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com hinos ac\u00fasticos. Foto: D\u00e9bora Buzas, Isaias Saad",
-  "num_followers": 320587,
+  "num_followers": 320750,
   "original_name": "Gospel Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -203,26 +203,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Troco",
-        "url": "https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Marcela Tais",
-          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Troco",
-      "url": "https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "Manh\u00e3s",
         "url": "https://open.spotify.com/album/6Y4133hR1mTBs2eLU1xOBy"
       },
@@ -239,6 +219,26 @@
       "duration_ms": 160269,
       "name": "Manh\u00e3s",
       "url": "https://open.spotify.com/track/17r278VUtXd0jcjD7tqp8P"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Troco",
+        "url": "https://open.spotify.com/album/0iXI8HqnYqnKJpfe6EpRcA"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Marcela Tais",
+          "url": "https://open.spotify.com/artist/5gkNoT08CuWtH3NOwrdvrt"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Troco",
+      "url": "https://open.spotify.com/track/0eC7kRIfqQdJfh8A07PUwv"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -327,22 +327,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
-      },
-      "artists": [
-        {
-          "name": "LUDI",
-          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
-        }
-      ],
-      "duration_ms": 444976,
-      "name": "Seu Amor: YOUnique - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "Se N\u00e3o Fosse Ele",
         "url": "https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr"
       },
@@ -359,6 +343,22 @@
       "duration_ms": 289638,
       "name": "Se N\u00e3o Fosse Ele",
       "url": "https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Seu Amor: YOUnique (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA"
+      },
+      "artists": [
+        {
+          "name": "LUDI",
+          "url": "https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde"
+        }
+      ],
+      "duration_ms": 444976,
+      "name": "Seu Amor: YOUnique - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -487,6 +487,22 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
+        "name": "Nossa Hist\u00f3ria, Pt. 1",
+        "url": "https://open.spotify.com/album/3lS2E1CMUjTCUERCaEjDoE"
+      },
+      "artists": [
+        {
+          "name": "Igor Felix",
+          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+        }
+      ],
+      "duration_ms": 327980,
+      "name": "Ficar Aqui",
+      "url": "https://open.spotify.com/track/1rRyqNPnozrr5wLEjrnoF1"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
         "name": "Lugar Secreto / Qual \u00c9 O Pensamento",
         "url": "https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6"
       },
@@ -539,18 +555,18 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Nossa Hist\u00f3ria, Pt. 1",
-        "url": "https://open.spotify.com/album/3lS2E1CMUjTCUERCaEjDoE"
+        "name": "Milagres (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
       },
       "artists": [
         {
-          "name": "Igor Felix",
-          "url": "https://open.spotify.com/artist/0jgIJ7ZflTCTu6QoLUr1ud"
+          "name": "Lukas Agustinho",
+          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
         }
       ],
-      "duration_ms": 327980,
-      "name": "Ficar Aqui",
-      "url": "https://open.spotify.com/track/1rRyqNPnozrr5wLEjrnoF1"
+      "duration_ms": 290000,
+      "name": "Milagres - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -567,22 +583,6 @@
       "duration_ms": 222607,
       "name": "Encaixe",
       "url": "https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
-        "name": "Milagres (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE"
-      },
-      "artists": [
-        {
-          "name": "Lukas Agustinho",
-          "url": "https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O"
-        }
-      ],
-      "duration_ms": 290000,
-      "name": "Milagres - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -839,26 +839,6 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Doce Presen\u00e7a",
-        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
-      },
-      "artists": [
-        {
-          "name": "Fred Arrais",
-          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
-        },
-        {
-          "name": "Ludmila Ferber",
-          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
-        }
-      ],
-      "duration_ms": 247104,
-      "name": "Doce Presen\u00e7a",
-      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
         "name": "Primeira Ess\u00eancia (Ao Vivo)",
         "url": "https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo"
       },
@@ -879,18 +859,22 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Vendavais (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
+        "name": "Doce Presen\u00e7a",
+        "url": "https://open.spotify.com/album/47yy4zXeQJ7TY4c0MeXm4E"
       },
       "artists": [
         {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+          "name": "Fred Arrais",
+          "url": "https://open.spotify.com/artist/4b6QClfbEvFpOu9Nuyun0Q"
+        },
+        {
+          "name": "Ludmila Ferber",
+          "url": "https://open.spotify.com/artist/3XFPsySK5XlfmcxJGWcyWn"
         }
       ],
-      "duration_ms": 281142,
-      "name": "Vendavais - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
+      "duration_ms": 247104,
+      "name": "Doce Presen\u00e7a",
+      "url": "https://open.spotify.com/track/1W9xebEJbpHSuER5BYfvLa"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -911,6 +895,22 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
+        "name": "Vendavais (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 281142,
+      "name": "Vendavais - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
         "name": "SALVAON Ac\u00fastico, Vol. 1",
         "url": "https://open.spotify.com/album/3Rkaplu8WwsOFWymFX0x15"
       },
@@ -923,6 +923,34 @@
       "duration_ms": 365487,
       "name": "Pedro - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1ROCNmLzC8Nng7HAbh1X7H"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
+        "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Fernandinho",
+          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
+        },
+        {
+          "name": "Weslei Santos",
+          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
+        },
+        {
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+        }
+      ],
+      "duration_ms": 299008,
+      "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
+      "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -959,30 +987,22 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
-        "name": "Fernanda Brum Reunion no Sintonize - EP 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2MK3OXeRFirpxo6lTxVHtN"
+        "name": "Tuas \u00c1guas (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
       },
       "artists": [
         {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+          "name": "Julia Vit\u00f3ria",
+          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
         },
         {
-          "name": "Fernandinho",
-          "url": "https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY"
-        },
-        {
-          "name": "Weslei Santos",
-          "url": "https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi"
-        },
-        {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+          "name": "Fernanda Madaloni",
+          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
         }
       ],
-      "duration_ms": 299008,
-      "name": "Esp\u00edrito Santo (feat. Weslei Santos & Marcus Salles) - Ao Vivo no Sintonize",
-      "url": "https://open.spotify.com/track/4Xhh7S35G90S6qXREJihzi"
+      "duration_ms": 299893,
+      "name": "Tuas \u00c1guas - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -1007,26 +1027,6 @@
       "duration_ms": 269354,
       "name": "Descansa",
       "url": "https://open.spotify.com/track/0gtBAv3MGzlEWGLKPZNiF7"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
-        "name": "Tuas \u00c1guas (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/7oLCOJrKBLzIZXa0amcQ0t"
-      },
-      "artists": [
-        {
-          "name": "Julia Vit\u00f3ria",
-          "url": "https://open.spotify.com/artist/6tLHGlt7L7raSf6vr96hWi"
-        },
-        {
-          "name": "Fernanda Madaloni",
-          "url": "https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ"
-        }
-      ],
-      "duration_ms": 299893,
-      "name": "Tuas \u00c1guas - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7yJwYawfVF1zgWMSafKy0d"
     },
     {
       "added_at": "2024-12-13 16:41:17",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2024-12-13 16:41:17",
       "album": {
+        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
+      },
+      "artists": [
+        {
+          "name": "Rebeca Carvalho",
+          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
+        }
+      ],
+      "duration_ms": 347727,
+      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
+      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
+    },
+    {
+      "added_at": "2024-12-13 16:41:17",
+      "album": {
         "name": "Quem Sou",
         "url": "https://open.spotify.com/album/3K30LIMDmshPzNLSOqMOPj"
       },
@@ -1247,22 +1263,6 @@
       "duration_ms": 270933,
       "name": "Quem Sou",
       "url": "https://open.spotify.com/track/3R8AdlPHOXTNpnzUoUqcpK"
-    },
-    {
-      "added_at": "2024-12-13 16:41:17",
-      "album": {
-        "name": "At\u00e9 Te Encontrar (Em Casa Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/019siXdjcZnRaYu461N7US"
-      },
-      "artists": [
-        {
-          "name": "Rebeca Carvalho",
-          "url": "https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL"
-        }
-      ],
-      "duration_ms": 347727,
-      "name": "At\u00e9 Te Encontrar - Em Casa Ac\u00fastico",
-      "url": "https://open.spotify.com/track/1jCivgxesPgEoN5duKHZBc"
     },
     {
       "added_at": "2024-12-13 16:41:17",

@@ -293,6 +293,24 @@
     },
     {
       "album": {
+        "name": "Authentic",
+        "url": "https://open.spotify.com/album/7vkO9Ja6IlloWVRk3PzCex"
+      },
+      "artists": [
+        {
+          "name": "Mika Chastain",
+          "url": "https://open.spotify.com/artist/7Kvs3WWtjPtuJbEKQb1UyN"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162980,
+      "name": "Authentic",
+      "url": "https://open.spotify.com/track/79WuHtIUNcbSeDmKrUQKas"
+    },
+    {
+      "album": {
         "name": "Autumn Song",
         "url": "https://open.spotify.com/album/3wWlrBCF10tWs73IQIUnJA"
       },

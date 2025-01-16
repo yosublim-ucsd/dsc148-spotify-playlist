@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,681 likes - 75 songs - 4 hr 12 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,682 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,7 +71,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 61 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 |
 | 62 | [Always On My Mind](https://open.spotify.com/track/3QpSEKSEM7kXQc6RUC8St8) | [Alpaca Sports](https://open.spotify.com/artist/2FfiPi1Ia6W1EWM1QcajDN) | [Always On My Mind](https://open.spotify.com/album/1FQqYE6ggo7DQlzfi8Ph0d) | 4:08 |
 | 63 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 |
-| 64 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
+| 64 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 65 | [Fanzine Made Of Flesh](https://open.spotify.com/track/2hS2ztz2o1CEd1zWCz09HM) | [Mogwai](https://open.spotify.com/artist/34UhPkLbtFKRq3nmfFgejG) | [Fanzine Made of Flesh](https://open.spotify.com/album/2xqnlP610pBeKmgIlVfRpJ) | 4:34 |
 | 66 | [La Vita E Una Vacanza](https://open.spotify.com/track/5Wshzg9KUiValKiCyWQnUV) | [Marcelo Pantani](https://open.spotify.com/artist/2PAXsvAXDIVnygDHUl4hAd) | [La Vita E Una Vacanza](https://open.spotify.com/album/2cGRDRjVSRRBay0ex8GQbE) | 3:55 |
 | 67 | [Nadie Se Muere De Amor](https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8) | [Talleres Molina](https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2) | [Nadie Se Muere De Amor](https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO) | 2:46 |

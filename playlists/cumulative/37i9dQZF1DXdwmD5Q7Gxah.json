@@ -15885,6 +15885,24 @@
     },
     {
       "album": {
+        "name": "Ever",
+        "url": "https://open.spotify.com/album/7zsRDPDkCAJBcQrbG8Agr9"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180672,
+      "name": "Ever",
+      "url": "https://open.spotify.com/track/2Gu2H8HRVuV9GOneJuYV5D"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/6WZjFvrzwq8SOGe0r8R3qk"
       },
@@ -43979,6 +43997,24 @@
     },
     {
       "album": {
+        "name": "shoreline",
+        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244473,
+      "name": "shoreline",
+      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
+    },
+    {
+      "album": {
         "name": "Shotgun (Magdalena Bay Remix)",
         "url": "https://open.spotify.com/album/1ADuxT0WV9GAkcEdtNJxCB"
       },
@@ -54287,6 +54323,24 @@
     },
     {
       "album": {
+        "name": "Vows",
+        "url": "https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa"
+      },
+      "artists": [
+        {
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162143,
+      "name": "Vows",
+      "url": "https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK"
+    },
+    {
+      "album": {
         "name": "Voyage",
         "url": "https://open.spotify.com/album/15sfmnhUkreeJiqKjTH4mE"
       },
@@ -54849,7 +54903,7 @@
       "artists": [
         {
           "name": "John + Jane Q. Public",
-          "url": "https://open.spotify.com/artist/6zj2ZyQxZl9Omk4v7kcahS"
+          "url": "https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf"
         }
       ],
       "date_added": "2024-10-02",

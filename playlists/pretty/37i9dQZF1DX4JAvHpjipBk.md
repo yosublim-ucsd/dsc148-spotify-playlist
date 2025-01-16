@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Teddy Swims & Giveon, Bad Bunny, Jordan Adetunji, Blondshell, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,263,973 likes - 100 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,264,151 likes - 100 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,7 +72,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 | 62 | [Bed Of Roses](https://open.spotify.com/track/1xH3PCT8wy7m1NkIn0nrjK) | [Caylee Hammack](https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9) | [Bed Of Roses](https://open.spotify.com/album/7twU0WeJfvME1l29k892nY) | 4:43 |
 | 63 | [Waiting Ain't Easy](https://open.spotify.com/track/40aGiIqPh8pY0qfGwfJ2PR) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP), [Michal Leah](https://open.spotify.com/artist/50AUL69nMKHvAFs20YXGqb) | [Waiting Ain't Easy](https://open.spotify.com/album/5Ca7m5PEN7V7CXSF9X3T1b) | 3:08 |
 | 64 | [Ferry Lady](https://open.spotify.com/track/0d3jI3SmR8cFpp6fYOvyWa) | [Panda Bear](https://open.spotify.com/artist/1R84VlXnFFULOsWWV8IrCQ) | [Ferry Lady](https://open.spotify.com/album/1CwMlbr0CQJxdPQtlcLFT4) | 4:42 |
-| 65 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
+| 65 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 66 | [Don't Let Me Get Too Low](https://open.spotify.com/track/2HazFhqPwSFVyLL1piMoCh) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Don't Let Me Get Too Low](https://open.spotify.com/album/2JT0MoB5ESOA30VZwlq4af) | 2:38 |
 | 67 | [Letter To Fam](https://open.spotify.com/track/0lsoE0xaGiiNOg2Ihbb0JJ) | [Screwly G](https://open.spotify.com/artist/1eWvOyyLmTtEVjuV2StcqC) | [Letter To Fam](https://open.spotify.com/album/5r849SBlYdbG94qdK62yGk) | 2:44 |
 | 68 | [Selena](https://open.spotify.com/track/37SR66nUcBynhOqSmZx3Xt) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX) | [Selena](https://open.spotify.com/album/5685DJYcwsH01tMwSkxsYh) | 2:11 |

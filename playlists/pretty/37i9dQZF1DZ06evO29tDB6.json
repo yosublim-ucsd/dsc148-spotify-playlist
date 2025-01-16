@@ -1,12 +1,12 @@
 {
   "description": "This is El Tri. The essential tracks, all in one playlist.",
-  "num_followers": 137457,
+  "num_followers": 137482,
   "original_name": "This Is El Tri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAAAi6nCB8tDUKH1xL+7wkzu4",
+  "snapshot_id": "Z4WpAAAAAABF4nIWhvOtjXyHZCcLBKkr",
   "tracks": [
     {
       "added_at": null,
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 246506,
-      "name": "San Juanico",
-      "url": "https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK"
+      "duration_ms": 250893,
+      "name": "La raza m\u00e1s chida",
+      "url": "https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll"
     },
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 250893,
-      "name": "La raza m\u00e1s chida",
-      "url": "https://open.spotify.com/track/0i2V6Z7OWEP7VvA1Dhk3ll"
+      "duration_ms": 246506,
+      "name": "San Juanico",
+      "url": "https://open.spotify.com/track/3JDchA8PKRWp0jhnsInURK"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hoyos en la bolsa",
-        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 217666,
-      "name": "Hoyos en la bolsa",
-      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Chavo De Onda",
         "url": "https://open.spotify.com/album/2TonRm97HlDsH47A2FIlZT"
       },
@@ -639,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+        "name": "25 a\u00f1os",
+        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
       },
       "artists": [
         {
@@ -648,9 +632,9 @@
           "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Que viva el rocanrol - En vivo",
-      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
+      "duration_ms": 170026,
+      "name": "El hablador",
+      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
     },
     {
       "added_at": null,
@@ -671,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "25 a\u00f1os",
-        "url": "https://open.spotify.com/album/1nscC8n3kewpA9DAHybQ9L"
-      },
-      "artists": [
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 170026,
-      "name": "El hablador",
-      "url": "https://open.spotify.com/track/7CmVmboIpe4bgIQJi4hk5v"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hecho en M\u00e9xico",
         "url": "https://open.spotify.com/album/369wsc0pjkUa9W6zUn0iz7"
       },
@@ -699,6 +667,38 @@
       "duration_ms": 158533,
       "name": "Una y otra vez",
       "url": "https://open.spotify.com/track/0h24IaU3nilnYZmx0MeMSM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1IAzY9UInupGMgqlkroaPq"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 194200,
+      "name": "Que viva el rocanrol - En vivo",
+      "url": "https://open.spotify.com/track/21vlXzWrTG8PaMcBgPIIiZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hoyos en la bolsa",
+        "url": "https://open.spotify.com/album/5te4gFxFj2FFs05PWzAnEw"
+      },
+      "artists": [
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 217666,
+      "name": "Hoyos en la bolsa",
+      "url": "https://open.spotify.com/track/4OqLK8rKx9nHAUVIKCsMVi"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dama De Los Callejones",
+        "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda",
+          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
+        },
+        {
+          "name": "El Tri",
+          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
+        }
+      ],
+      "duration_ms": 190093,
+      "name": "Dama De Los Callejones",
+      "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Yo Quiero Ser Tu Celular",
         "url": "https://open.spotify.com/album/0Vm2FAdqnp2ruW2uRuStQ3"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 259053,
       "name": "Chilangolandia",
       "url": "https://open.spotify.com/track/0mRiKsDhYMprvTDTeXBUvA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dama De Los Callejones",
-        "url": "https://open.spotify.com/album/1NLiruuJjSRY8SLk0PiG7f"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda",
-          "url": "https://open.spotify.com/artist/4tV9SQmCZChk5ffIEPLjXn"
-        },
-        {
-          "name": "El Tri",
-          "url": "https://open.spotify.com/artist/3HgZDevp7GspkLUAa5cKne"
-        }
-      ],
-      "duration_ms": 190093,
-      "name": "Dama De Los Callejones",
-      "url": "https://open.spotify.com/track/5i3WUNwsGgi7TSVWbWJWUO"
     },
     {
       "added_at": null,

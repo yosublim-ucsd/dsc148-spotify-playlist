@@ -274,7 +274,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 162891,
       "name": "All For You",
       "url": "https://open.spotify.com/track/6Hwk611vPie2AxFJdE0I06"
@@ -4885,6 +4885,24 @@
     },
     {
       "album": {
+        "name": "My Ideal",
+        "url": "https://open.spotify.com/album/24UkLtCJQy7LB4BMYpmszg"
+      },
+      "artists": [
+        {
+          "name": "Mandevilla",
+          "url": "https://open.spotify.com/artist/4Na5KNSDTg543P1FMbaAMk"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192750,
+      "name": "My Ideal",
+      "url": "https://open.spotify.com/track/74JcbkYE5pCo2aDwfvSZK0"
+    },
+    {
+      "album": {
         "name": "My lids closed down",
         "url": "https://open.spotify.com/album/6zxGisZi4shjN2KDc2MEll"
       },
@@ -4932,7 +4950,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 218336,
       "name": "My Midnight Velvet",
       "url": "https://open.spotify.com/track/54OUOajrkd8RLQoRqmmYD1"
@@ -8222,6 +8240,24 @@
       "duration_ms": 341907,
       "name": "Traveling Day",
       "url": "https://open.spotify.com/track/527VRJrXGblLbAHcHSdAr6"
+    },
+    {
+      "album": {
+        "name": "Travelling Story",
+        "url": "https://open.spotify.com/album/3y3emncjPtAAjPncdEbnLp"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195697,
+      "name": "Travelling Story",
+      "url": "https://open.spotify.com/track/35U8EnZgLHlBzREzo6UGpC"
     },
     {
       "album": {

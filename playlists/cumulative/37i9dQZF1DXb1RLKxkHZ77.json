@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Air Mata Buaya",
+        "url": "https://open.spotify.com/album/07iP7djTpibqQVKMjTQwa1"
+      },
+      "artists": [
+        {
+          "name": "Spooky Wet Dreams",
+          "url": "https://open.spotify.com/artist/3tzJ1c1gcg2QIpyqV27y5b"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245446,
+      "name": "Air Mata Buaya",
+      "url": "https://open.spotify.com/track/2Spcvj6Oy86jawtRa0joNX"
+    },
+    {
+      "album": {
         "name": "Ajarkan Aku...",
         "url": "https://open.spotify.com/album/171KeLh9GmyfZ2e5SToEZU"
       },
@@ -2919,6 +2937,28 @@
     },
     {
       "album": {
+        "name": "Dengan Lafaznya",
+        "url": "https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA"
+      },
+      "artists": [
+        {
+          "name": "Sufian Suhaimi",
+          "url": "https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa"
+        },
+        {
+          "name": "Sarah Suhairi",
+          "url": "https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195172,
+      "name": "Dengan Lafaznya",
+      "url": "https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez"
+    },
+    {
+      "album": {
         "name": "DEPRESI",
         "url": "https://open.spotify.com/album/2Sb5rDCcdR2tPtplSmJkWu"
       },
@@ -4626,7 +4666,7 @@
       ],
       "date_added": "2024-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 296327,
       "name": "Jadi Ajar Aku",
       "url": "https://open.spotify.com/track/3dtWMtpvrQdZXpl5myGMWh"
@@ -7038,7 +7078,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-10",
+      "date_removed": null,
       "duration_ms": 272972,
       "name": "Menjaga Jodoh Orang Lain",
       "url": "https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV"
@@ -7398,7 +7438,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 204956,
       "name": "Mungkin Ke?",
       "url": "https://open.spotify.com/track/2I3WeViGfPCaakFBuYCYPq"
@@ -7456,7 +7496,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-07",
+      "date_removed": null,
       "duration_ms": 178858,
       "name": "Nak Buat Cane?",
       "url": "https://open.spotify.com/track/369PVMSWuwJbWk4bUvest6"
@@ -9620,7 +9660,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 242000,
       "name": "Sejarah",
       "url": "https://open.spotify.com/track/60xSTxt4GWoic7LwndDtRN"
@@ -10940,7 +10980,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 154065,
       "name": "Teman (Alhamdulillah)",
       "url": "https://open.spotify.com/track/5t2UKa7JXTeBqsdQbJJqOh"
@@ -11654,7 +11694,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 191077,
       "name": "Voodoo",
       "url": "https://open.spotify.com/track/137eOjKZ8tCUuExbNDgQO4"

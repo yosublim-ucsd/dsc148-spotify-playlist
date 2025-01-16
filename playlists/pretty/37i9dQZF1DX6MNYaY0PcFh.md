@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,271 likes - 60 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,301 likes - 60 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,9 +37,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 27 | [Back 2 Me](https://open.spotify.com/track/2IKLkgYI7pFOFCr9IevOmb) | [Diffrent](https://open.spotify.com/artist/7mycnkT3eOskxxGbN9skkV), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [Back 2 Me](https://open.spotify.com/album/1BVM0FxL00YwA3z4r8qgw7) | 2:21 |
 | 28 | [While The Record Spins](https://open.spotify.com/track/1ckOvdwaxiooVcfL0DzK9a) | [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [While The Record Spins](https://open.spotify.com/album/135CTWr4t18H7fhDpgQyHr) | 3:07 |
 | 29 | [TEMPORARY FRIENDS](https://open.spotify.com/track/4zWvbhGE9Kbm5y1HbX4Ev7) | [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO) | [TEMPORARY FRIENDS](https://open.spotify.com/album/2R3qN6uUOOw5BVSN2ry0b2) | 3:01 |
-| 30 | [Bringing Me Joy](https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [prettyboyface](https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln) | [Bringing Me Joy](https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m) | 3:00 |
+| 30 | [Fantasy](https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Fantasy](https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51) | 3:18 |
 | 31 | [Bogeyman](https://open.spotify.com/track/1GjwboGNxJlQ65BQRjtyNm) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb) | [Bogeyman](https://open.spotify.com/album/7tSOUKrLrPRjmNWoGhNjJm) | 4:45 |
-| 32 | [Fantasy](https://open.spotify.com/track/3mPbPMvu3nJgehUd46z5al) | [Emily Nash](https://open.spotify.com/artist/6OaDL8ICMweuCQZfgYIKup) | [Fantasy](https://open.spotify.com/album/4xnQFuJHu9sKktkaWP2n51) | 3:18 |
+| 32 | [Bringing Me Joy](https://open.spotify.com/track/3Tbuy3xoK5dS5tvUZ2kDpi) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [prettyboyface](https://open.spotify.com/artist/1PkEWM6c9gWkWtbUjL5Vln) | [Bringing Me Joy](https://open.spotify.com/album/20eEvuzhzYC6tEYEIwix2m) | 3:00 |
 | 33 | [Pretty Little Raver](https://open.spotify.com/track/4Ppdt9mETYFVcN1lQJHEJA) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [mustbejohn](https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc) | [Pretty Little Raver](https://open.spotify.com/album/5EMbeN8ZYxnlEcTQiLveUk) | 2:23 |
 | 34 | [SO TRU](https://open.spotify.com/track/4RLg7ZKJU51uhPPxWqS0XT) | [Confidence Man](https://open.spotify.com/artist/0RwXnFrEoI8tltFvYpJgP6) | [3AM \(LA LA LA\)](https://open.spotify.com/album/6mEZu9pcOyIcUSmWTofkaj) | 2:53 |
 | 35 | [Races \(feat\. Blanco\)](https://open.spotify.com/track/346F7P0kUbfsnVDjoNuBIo) | [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI), [Blanco](https://open.spotify.com/artist/5FxsPS1K61fHEVB3FNZw6Y) | [Races \(feat\. Blanco\)](https://open.spotify.com/album/54hfDrQUz2ALn962NVjkdj) | 2:20 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 57 | [Don't Leave](https://open.spotify.com/track/3nOooNnW2KRVS7D4OUPJId) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Drinks On Me](https://open.spotify.com/artist/1cIz2h3ERs72r60yw78Deu) | [Don't Leave](https://open.spotify.com/album/1023h6LdMEZq4bN9Iwu8dt) | 3:16 |
 | 58 | [Run It](https://open.spotify.com/track/725Nbm1gC1jrxbYS68NZjO) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [Run It](https://open.spotify.com/album/5fFXKg8OVAbYZirJ8StkPF) | 3:31 |
 | 59 | [U Could Be Mine](https://open.spotify.com/track/7fkVIKftLex1gjYi1idt39) | [Douvelle19](https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [When I Dream](https://open.spotify.com/album/2GYchu303ND2lCTWZzFakt) | 3:35 |
-| 60 | [Ready Or Not](https://open.spotify.com/track/0kH9yoRO3LYUW4oxOvTMNT) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Hilts](https://open.spotify.com/artist/2UvkNW59ABnaOlkGXCGxot), [Jianbo](https://open.spotify.com/artist/2gSfXIHv6LgFJ94mUrgXft) | [Ready Or Not](https://open.spotify.com/album/27SYRZqfSCwaoQfi2waO8n) | 3:46 |
+| 60 | [Sunshine](https://open.spotify.com/track/1B8tzEV6XHekvdaMi16puh) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64), [Lauren L'aimant](https://open.spotify.com/artist/2M2QzPADSybcVig2CBTcFJ) | [Sunshine](https://open.spotify.com/album/17VBDK2WkIgcOf97FdAAm8) | 2:48 |
 
 Snapshot ID: `Z0kEAAAAAABs4jnSn2lsSC9LjdxQJ5Q4`

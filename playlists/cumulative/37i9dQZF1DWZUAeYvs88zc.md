@@ -2,9 +2,9 @@
 
 ### [Sad Bops](https://open.spotify.com/playlist/37i9dQZF1DWZUAeYvs88zc)
 
-> For all of us dancing on our own.
+> For all of us dancing on our own\. chloe moriondo on the cover.
 
-558 songs - 1 day 7 hr 20 min
+559 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Drowning \- STWO Remix](https://open.spotify.com/track/4EzMqZ1QO4HAWbcdDtnu3d) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Stwo](https://open.spotify.com/artist/5WQxQAu4xmUwCzxPw3GiB4) | [Goddess \(Remixes\)](https://open.spotify.com/album/0K88Nzh4Zd6ywceshg1A3B) | 3:52 | 2019-07-27 | 2019-08-09 |
 | [Dusk Till Dawn \(feat\. Sia\) \- Luca Lush Remix](https://open.spotify.com/track/6kOMzR2AzmOxVK8QDVW8aD) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81), [Luca Lush](https://open.spotify.com/artist/5oAjLXTvB7VDWn3Up9LYcQ), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Dusk Till Dawn \(The Remixes\) \(feat\. Sia\)](https://open.spotify.com/album/6mZVOi06uAl1fS1pvZnZ7K) | 3:29 | 2019-05-26\* | 2021-05-27 |
 | [echo](https://open.spotify.com/track/4rdIhBrlaAOPnlTlugZBgz) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2qd2ATRD78bQFtyYsSzxxg) | 3:18 | 2022-10-24 | 2024-04-19 |
-| [echo](https://open.spotify.com/track/7586fVxjKm5IoVTTgDEwcD) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2V5N2rf5gd0vzQ405Hs3en) | 3:18 | 2022-01-21 |  |
+| [echo](https://open.spotify.com/track/7586fVxjKm5IoVTTgDEwcD) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [echo](https://open.spotify.com/album/2V5N2rf5gd0vzQ405Hs3en) | 3:18 | 2022-01-21 | 2025-01-16 |
 | [Ego](https://open.spotify.com/track/253V91l7DxehjkHyvxLPNN) | [Tove Styrke](https://open.spotify.com/artist/2QSPrJfYeRXaltEEiriXN9) | [Ego](https://open.spotify.com/album/77geSTREeNrIHlpetsQoVz) | 3:49 | 2022-03-25 | 2022-04-21 |
 | [Elvis Song](https://open.spotify.com/track/6MWH5jDoS1wpMPz8CwuC3N) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs) | [You Signed Up For This](https://open.spotify.com/album/1X1EZB1hCoymZ9gU8JKv86) | 3:10 | 2021-08-28 | 2021-09-16 |
 | [Emotion](https://open.spotify.com/track/5BczxY3kkmEWeQwqYpQzjP) | [Mia Rodriguez](https://open.spotify.com/artist/7Hsfh7YZzoyojYWQeMSHID) | [Emotion](https://open.spotify.com/album/1H8tuX1O4S2HCZmhvwIWRI) | 3:33 | 2019-12-18 | 2021-10-16 |
@@ -426,6 +426,7 @@
 | [Sharpest Tool](https://open.spotify.com/track/3iPIDAFybaoyqX7hvAfWkl) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 3:38 | 2024-08-23 |  |
 | [She Gets the Flowers](https://open.spotify.com/track/19AiJfAtRiccvSU1EWcttT) | [Beth McCarthy](https://open.spotify.com/artist/2ba5BHaaNzyzG5ZEfKXIF2) | [She Gets the Flowers](https://open.spotify.com/album/6TbdDx8Y1shssfaSAtEt1o) | 3:39 | 2021-04-06 | 2021-10-02 |
 | [Shimmering Light](https://open.spotify.com/track/5yQWWCxnqpcUbo8ZWs6zBG) | [Łaszewo](https://open.spotify.com/artist/6jxGLrn1I14RIeRYodOpLN) | [Shimmering Light](https://open.spotify.com/album/3ConlAUtJ0XsJs44WxqkxY) | 2:35 | 2024-03-29 | 2024-04-16 |
+| [shoreline](https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d) | [chloe moriondo](https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q) | [shoreline](https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2) | 4:04 | 2025-01-15 |  |
 | [simple times](https://open.spotify.com/track/1lNEXDlxVhsWaq2DLBUDgC) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [star\-crossed](https://open.spotify.com/album/6y9LbrjY2TpaLvtbE7FTkc) | 2:47 | 2021-10-30 | 2023-10-07 |
 | [Single In September](https://open.spotify.com/track/3yqVm7Je8UssmEJzWtzyYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Single In September](https://open.spotify.com/album/716vn5JpywHU9efMfTXEck) | 3:15 | 2022-03-01 | 2022-07-29 |
 | [Skin & Bones \(feat\. Winona Oak\)](https://open.spotify.com/track/0kisDgW1eYNqJhyvkKeyxJ) | [Kito](https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe), [Winona Oak](https://open.spotify.com/artist/3XC57xz74X3xUi1hv4mge1) | [Skin & Bones](https://open.spotify.com/album/1UC3Aa7Abau4Qf4jiyY5rK) | 2:30 | 2021-10-16 | 2022-07-28 |

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0xuf5cMMFZpfFUGH02Kuh8">Irving Berlin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-421 songs - 21 hr 25 min
+422 songs - 21 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,8 @@
 | [Abraham](https://open.spotify.com/track/6d7HdOZVrflcNvKorLDlwk) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S), [Ken Darby Singers](https://open.spotify.com/artist/69UfPJgUmFFAVT740qGVZi), [John Scott Trotter & His Orchestra](https://open.spotify.com/artist/735L650pvygCZZlPMyHqsN) | [Holiday Inn \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UFYxC0oiZkmTijiBWzYXs) | 2:45 | 2024-07-26 |  |
 | [After You Get What You Want, You Don't Want It](https://open.spotify.com/track/6kpiiSQlu60Ur8va5RxslB) | [Marilyn Monroe](https://open.spotify.com/artist/5sEocv1pFst7o3pam69obY) | [Saga All Stars: Heat Wave / Selected Film Tracks 1950\-1957](https://open.spotify.com/album/236Ezr8x1NVDrE83ihq5YZ) | 3:39 | 2024-07-26 |  |
 | [Alexander and His Clarinet](https://open.spotify.com/track/4HVQS5bWdiA6ccnNHbmYHv) | [Timothy Thompson](https://open.spotify.com/artist/7L44YZVtaEW6wTt3zxbTrt), [Emily Bordonaro](https://open.spotify.com/artist/59uWpNe0EoXl5FafMgJTKZ) | [Chip Deffaa's Irving Berlin: Sweet and Hot](https://open.spotify.com/album/5uzr4VbJR04zFvWgoK3Zc2) | 2:19 | 2024-07-26 |  |
-| [Alexander's Ragtime Band](https://open.spotify.com/track/4msAWwwN7D4AglVJAVZA4D) | [Johnny Mercer](https://open.spotify.com/artist/5cBHm2CXrbncYIDzrxF4Vi), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [Accentuate The Positive!](https://open.spotify.com/album/2IflfeM5BUj90g1hg3HoJh) | 2:32 | 2024-07-26 |  |
+| [Alexander's Ragtime Band](https://open.spotify.com/track/4msAWwwN7D4AglVJAVZA4D) | [Johnny Mercer](https://open.spotify.com/artist/5cBHm2CXrbncYIDzrxF4Vi), [The Pied Pipers](https://open.spotify.com/artist/5o8E07TcYqIefZpDejymAd) | [Accentuate The Positive!](https://open.spotify.com/album/2IflfeM5BUj90g1hg3HoJh) | 2:32 | 2024-07-26 | 2025-01-16 |
+| [Alexander's Ragtime Band](https://open.spotify.com/track/5U16EPfaojTZnFpY5LaGNk) | [Ray Charles](https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi) | [The Genius Of Ray Charles](https://open.spotify.com/album/4GFWnwli2cVOBp2G1zqhV1) | 2:54 | 2025-01-15 |  |
 | [Alice In Wonderland](https://open.spotify.com/track/48x2ydnDCX6WsEXDnDIoVk) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [Paul Motian](https://open.spotify.com/artist/4VIPZJwfn4EGbJxYVHJ0WX) | [Flux And Change](https://open.spotify.com/album/2BbZQDvvtAJhS6OCFJv3YO) | 5:18 | 2024-07-26 |  |
 | [All Alone](https://open.spotify.com/track/2RFcr72mqk7STskoT9gKO3) | [Eric Lindell](https://open.spotify.com/artist/6w8FACwOtRQh9LrVlxClPX) | [Change In The Weather](https://open.spotify.com/album/1k4B4vfgacRazoWHVBvaGU) | 4:28 | 2024-07-26 |  |
 | [All Alone / In The Shade Of The Old Apple Tree](https://open.spotify.com/track/3VL9V6s8yG3kXLW2yjCFbE) | [Bing Crosby](https://open.spotify.com/artist/6ZjFtWeHP9XN7FeKSUe80S) | [On The Sentimental Side](https://open.spotify.com/album/6s5z5qQ4ewfG5BaUEncXio) | 3:18 | 2024-07-26 |  |

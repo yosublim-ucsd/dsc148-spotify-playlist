@@ -2178,7 +2178,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 145362,
       "name": "Abandoned Places PT.2",
       "url": "https://open.spotify.com/track/5Q3S18YEAPRFe9BEQHQEtJ"
@@ -8432,7 +8432,7 @@
       ],
       "date_added": "2023-10-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-02",
+      "date_removed": null,
       "duration_ms": 133080,
       "name": "Autumn Chills",
       "url": "https://open.spotify.com/track/4TBN4UOWS9rncMWFZZ6ZPx"
@@ -35010,7 +35010,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-26",
+      "date_removed": null,
       "duration_ms": 145294,
       "name": "east",
       "url": "https://open.spotify.com/track/4DvhXIz1GekL4TtXrEhDG1"
@@ -62140,7 +62140,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 149916,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/2Bdx4PmAJyAvbRAdZ5295W"
@@ -69936,7 +69936,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 142222,
       "name": "Looking Up",
       "url": "https://open.spotify.com/track/2F4hfGJiNq2TdoygDFtT9i"
@@ -73014,6 +73014,24 @@
       "duration_ms": 109714,
       "name": "Magnolia",
       "url": "https://open.spotify.com/track/3Vq2tTsrWHzk3zn8CLDusH"
+    },
+    {
+      "album": {
+        "name": "mai tai",
+        "url": "https://open.spotify.com/album/5FeC962XxEloI9xg2HStHy"
+      },
+      "artists": [
+        {
+          "name": "Corse Cane",
+          "url": "https://open.spotify.com/artist/1kAJeRSyH7gjg1HM2UW4oT"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122767,
+      "name": "mai tai",
+      "url": "https://open.spotify.com/track/378RulUBZId4zHC5p84vm3"
     },
     {
       "album": {
@@ -100556,7 +100574,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 138352,
       "name": "Roll the Dice",
       "url": "https://open.spotify.com/track/4dSXPcxNserQeYmrJYVKFi"
@@ -123602,6 +123620,24 @@
       "duration_ms": 126486,
       "name": "Through The Garden",
       "url": "https://open.spotify.com/track/1oAFrGbUMmg7pPXVzrVrS6"
+    },
+    {
+      "album": {
+        "name": "Through The Horizons",
+        "url": "https://open.spotify.com/album/0Hbnfj872J8kOiBV2CT738"
+      },
+      "artists": [
+        {
+          "name": "B\u01b1BBLE",
+          "url": "https://open.spotify.com/artist/2wWyy4LUiILXOvvCF0RSQk"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 90000,
+      "name": "Through The Horizons",
+      "url": "https://open.spotify.com/track/0nermprVtm8B7tOeLy2yXz"
     },
     {
       "album": {

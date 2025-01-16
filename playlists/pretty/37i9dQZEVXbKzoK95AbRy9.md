@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,425 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,469 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 31 | [Vai Lá \- Ao Vivo em Goiânia](https://open.spotify.com/track/5DxPUI3cMU7EkayHlYLJCI) | [Maiara & Maraisa](https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se) | [iMEMsidão \(Ao Vivo em Goiânia\)](https://open.spotify.com/album/4UUL0DKpsEb4JJf4tDbX2M) | 2:20 |
 | 32 | [Cachorro](https://open.spotify.com/track/2f6GG12VL2rGMS9BGjD7rM) | [Thiago Carvalho](https://open.spotify.com/artist/5tJOBjBtoHgSp1x7iYWsPP) | [Cachorro](https://open.spotify.com/album/7xYYUQbzFRcIMdh2UU1lNe) | 2:10 |
 | 33 | [Adora a bunda, odeia o rosto \(feat\. Veigh & Niink\)](https://open.spotify.com/track/5Bp7TFENcgsdLCL8fMOSKs) | [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw), [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Ghard](https://open.spotify.com/artist/32U24zpBrDLj0KMppA1bKf), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn) | [Mixtape Supernova Vol.1](https://open.spotify.com/album/0YjB0YhxamEA5CgPJrWdAb) | 2:53 |
-| 34 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/4fCCFXZ2f4GjCSuIMwERnf) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Buteco Despedida do Gusttavo Lima](https://open.spotify.com/album/1OIieNtTuAHJ4IJPKhGsAS) | 3:21 |
-| 35 | [PARECE \- Ao Vivo](https://open.spotify.com/track/4HDqfO6SQMHFeGDFcepIPP) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [Verão Sertanejo 2025 \- Só Hits](https://open.spotify.com/album/4a1WTfjj4MhWhcELlqS8PV) | 2:24 |
+| 34 | [A Noite \(La Notte\) \- Ao Vivo](https://open.spotify.com/track/63BroH3HiwxYD8T5qTZiJn) | [Gusttavo Lima](https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN) | [Embaixador Acústico \- Ao Vivo](https://open.spotify.com/album/3c1EWuqoXW71z03rvyogVr) | 3:21 |
+| 35 | [PARECE \- Ao Vivo](https://open.spotify.com/track/77X5UMAX4FjUx1aOaLqotz) | [Luan Santana](https://open.spotify.com/artist/3qvcCP2J0fWi0m0uQDUf6r) | [LUAN AO VIVO NA LUA \- CRESCENTE](https://open.spotify.com/album/2a9sL47ztb0zlKUl0uZxL8) | 2:24 |
 | 36 | [ESCADA DO PRÉDIO](https://open.spotify.com/track/4TnEIYOXZ9KBGHOIqG5Xs5) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Marina Sena](https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L) | [ASTRO](https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs) | 2:17 |
 | 37 | [Mentira Estampada](https://open.spotify.com/track/4dGx53NJZJyuuLP5ownH1p) | [Wesley Safadão](https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa), [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Arrocha Safadão](https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ) | 2:53 |
 | 38 | [Arruma Um Bão](https://open.spotify.com/track/6ukVCqH77f6cwRHyJBhGgy) | [Israel & Rodolffo](https://open.spotify.com/artist/41QLxRXlc2NwfJZkHGHKid) | [Termômetro](https://open.spotify.com/album/6zw5gasuMMyY7fqTDUX2xq) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [Amor Na Praia](https://open.spotify.com/track/3FB06ULqN0WNUSQ3UaMZnF) | [NATTAN](https://open.spotify.com/artist/1SXhEXzOTF7YeuQX59m7pT) | [Amor Na Praia](https://open.spotify.com/album/1AmFOS8nn7ufZ6IfxY10Zu) | 2:36 |
 | 50 | [Calculista](https://open.spotify.com/track/5mPn4ueXc1oua018FDvknz) | [MC Joãozinho VT](https://open.spotify.com/artist/6XFc29m1ptfUNmaa1UTuBT), [DJ JR No Beat](https://open.spotify.com/artist/7eFJ773gGquYX3tKYa6ZUb) | [Coração de Ouro](https://open.spotify.com/album/06JmpvXoHG2dFMvmIGRvi1) | 3:06 |
 
-Snapshot ID: `LxnQyAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LxsiSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Polo & Pan, Metronomy
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,332 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,330 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,7 +64,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 54 | [Hiatus \(David Bay Remix\)](https://open.spotify.com/track/5KWedn4caEvgNdxa5Avxjr) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX), [David Bay](https://open.spotify.com/artist/5yHK7mClF5i8Jabk8IKISo) | [Hiatus \(David Bay Remix\)](https://open.spotify.com/album/1ccMHEajn9FBfBWiDHiJ7c) | 2:58 |
 | 55 | [MYSTERY](https://open.spotify.com/track/6KKSj7JNdpCEmvhlvBzobD) | [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM), [Boy Matthews](https://open.spotify.com/artist/2jn9JOmdrR9BdiR1LTvYG4) | [VOYAGE](https://open.spotify.com/album/1vxNZBtADNXGZ0RaviA4Ei) | 2:55 |
 | 56 | [On the Move \(feat\. Cannons\)](https://open.spotify.com/track/3yOp5u5RLuSBaNShcos0BY) | [Chromeo](https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt), [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Adult Contemporary \(Deluxe\)](https://open.spotify.com/album/29j75DpDX2eiFEIK8Jc3Y8) | 2:41 |
-| 57 | [Love is so Unreal](https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Love is so Unreal](https://open.spotify.com/album/2Ky4TmcA2p4q1bJVaRL6Wa) | 4:05 |
+| 57 | [Love is so Unreal](https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl) | [KIKI](https://open.spotify.com/artist/6MG7fjH9YBryqLT03MnwQM) | [Love is so Unreal](https://open.spotify.com/album/2Ky4TmcA2p4q1bJVaRL6Wa) | 4:07 |
 | 58 | [Sportscar](https://open.spotify.com/track/4je28GqKUxsbAY5Zksly7S) | [CRIMER](https://open.spotify.com/artist/6ALv0kb1WQfQbDOna5fLcX) | [Sportscar](https://open.spotify.com/album/1VPRIkUtID0NzohKhpWGo9) | 3:36 |
 | 59 | [Otherside](https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC) | [Otherside](https://open.spotify.com/album/3BYf1IG8EqDbhzdpljcFWY) | 3:53 |
 | 60 | [The Sun](https://open.spotify.com/track/6fr9xRWjL9VlXLOtbPo81d) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [Oh Wonder](https://open.spotify.com/artist/5cIc3SBFuBLVxJz58W2tU9) | [The Sun](https://open.spotify.com/album/5JFYTOkKcKkOLKf24FfpkK) | 3:04 |

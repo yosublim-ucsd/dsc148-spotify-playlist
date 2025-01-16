@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/68dXiKlXR8OQojuPZd8lz1">T\-Minus</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,048 likes - 138 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,049 likes - 138 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,10 +88,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 78 | [Without You](https://open.spotify.com/track/0ltJVWX5qsUSrNJEXhTN0r) | [Issues](https://open.spotify.com/artist/3zRstk92RGCVDyslSySNsm) | [Beautiful Oblivion](https://open.spotify.com/album/1PDhhxnDRAMs12nWawUKE2) | 3:01 |
 | 79 | [Mhmmm](https://open.spotify.com/track/78HLLLzSybXbDIkOtdBKY9) | [Lil Skies](https://open.spotify.com/artist/7d3WFRME3vBY2cgoP38RDo) | [Unbothered](https://open.spotify.com/album/0Elwgwh70pJTeBPuer7wz0) | 2:21 |
 | 80 | [Hard to Breathe](https://open.spotify.com/track/66c2npLufjTMeseF5eqBUn) | [Hawthorne Heights](https://open.spotify.com/artist/126FigDBtqwS2YsOYMTPQe) | [Lost Frequencies](https://open.spotify.com/album/0gW6tFVZYm3OFNBsPMRfYa) | 2:57 |
-| 81 | [Sunday Morning](https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis \- Hymns For Disco](https://open.spotify.com/album/2ZhDy6jEDhPznslp5BidBs) | 3:47 |
-| 82 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/6tY2qRdgwSkftQVZEfyuBw) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:37 |
-| 83 | [My Potna](https://open.spotify.com/track/33CpCzA6Rdv9d6pxBRzTho) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paperwork : Trap Music](https://open.spotify.com/album/2XkQJozVWIfsF68bRw24BD) | 3:04 |
-| 84 | [Japan](https://open.spotify.com/track/62CfIeX8B6AgWft6Ty1lO9) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:30 |
+| 81 | [Corazón \(Feat\. Bomba Estéreo\)](https://open.spotify.com/track/6tY2qRdgwSkftQVZEfyuBw) | [Nelly Furtado](https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [7](https://open.spotify.com/album/6zvPbyirVUhsvlVkITiytd) | 2:37 |
+| 82 | [Sunday Morning](https://open.spotify.com/track/5TridrikuB8m6Cc1Em7mKN) | [K\-OS](https://open.spotify.com/artist/3EZWlSBWlPsC8lCI2Y36Gl) | [Atlantis \- Hymns For Disco](https://open.spotify.com/album/2ZhDy6jEDhPznslp5BidBs) | 3:47 |
+| 83 | [Japan](https://open.spotify.com/track/62CfIeX8B6AgWft6Ty1lO9) | [The Lonely Island](https://open.spotify.com/artist/1f5GqyOPo0CkotzzRwviBu) | [Turtleneck & Chain \(Explicit Version\)](https://open.spotify.com/album/4IMJWEfkidwtzLanLMAtLP) | 2:30 |
+| 84 | [My Potna](https://open.spotify.com/track/33CpCzA6Rdv9d6pxBRzTho) | [T.I.](https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT) | [Paperwork : Trap Music](https://open.spotify.com/album/2XkQJozVWIfsF68bRw24BD) | 3:04 |
 | 85 | [The One](https://open.spotify.com/track/4UShCEJZnpywR6Y9M86Nu4) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [MATA](https://open.spotify.com/album/2fexyU9sHdXHmI1jvPqrxX) | 2:25 |
 | 86 | [I'm Perfect](https://open.spotify.com/track/0X79pMWeLg0x50WUbPapy3) | [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [What's My Name](https://open.spotify.com/album/1WAtJjV9jTuCteNx5H7id5) | 2:40 |
 | 87 | [Throw That](https://open.spotify.com/track/645aNrBOT7qX6jKEOCQq8Q) | [Slaughterhouse](https://open.spotify.com/artist/5rVbcJv0JRfhWLA3mgM73r), [Eminem](https://open.spotify.com/artist/7dGJo4pcD2V6oG8kP0tJRR) | [welcome to: OUR HOUSE \(Deluxe\)](https://open.spotify.com/album/5ztTCKLCKuiIXzXpbqdUGa) | 3:57 |
@@ -147,4 +147,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLXpufZxughZ.md) - [plain]
 | 137 | [It's Alright](https://open.spotify.com/track/0OIrTCGGsV35HNAC4UR0wD) | [Clive Bruce](https://open.spotify.com/artist/74A1JytvpdwhdpCD7ydkk5) | [Gypsy Queen](https://open.spotify.com/album/5wZbC3NsXrEyxNzIMtZ1QH) | 2:24 |
 | 138 | [T.R.I.B.E](https://open.spotify.com/track/00IuwiO6X1ZdguEb0cfxx6) | [The A.I.M.](https://open.spotify.com/artist/6LJbmJajmn2ITsXJqECxJP) | [T.R.I.B.E](https://open.spotify.com/album/4Y26nPJ19pqiTyQjpgeCVJ) | 3:59 |
 
-Snapshot ID: `Abm4AAAAAABsASOWc43aI/1IlhH4FIVC`
+Snapshot ID: `Abm9qgAAAACLPMci3rWlinVkpZ/pSFUr`

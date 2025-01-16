@@ -2159,6 +2159,24 @@
     },
     {
       "album": {
+        "name": "Nordic Sunset",
+        "url": "https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl"
+      },
+      "artists": [
+        {
+          "name": "Foora",
+          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Nordic Sunset",
+      "url": "https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc"
+    },
+    {
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc"
       },

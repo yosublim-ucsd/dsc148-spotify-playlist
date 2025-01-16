@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 
 > 
 
-[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,063 songs - 4 day 14 hr 37 min
+[☆ maria ★](https://open.spotify.com/user/yom8mary) - 1 like - 2,064 songs - 4 day 14 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2071,5 +2071,6 @@ pretty - [cumulative](/playlists/cumulative/4bPJzqdwVF3SMKYy9MzH5e.md) - [plain]
 | 2061 | [NEVEREVER](https://open.spotify.com/track/610gzNqwaSz89u6YIpDlyZ) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [NS+ \(ULTRA\)](https://open.spotify.com/album/20NEJgF7RPooqJ1dW0JZM1) | 2:24 |
 | 2062 | [fly sht](https://open.spotify.com/track/2V875q2TKxJrT3jR4TyKEE) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 3:30 |
 | 2063 | [raver](https://open.spotify.com/track/7s7faEFvkv1To4QO2groLs) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 2:11 |
+| 2064 | [GATÚBELA](https://open.spotify.com/track/6Vn1vje8yMw2OY6IOk9dkH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:28 |
 
-Snapshot ID: `AAAD0LW/ZCVXS9infS4V6qe+jONcrndt`
+Snapshot ID: `AAAD0TIr0qPPc09dnwgXgdb36/evsOol`

@@ -1,6 +1,6 @@
 {
   "description": "Entre os versos e beats, a palavra do Senhor. Foto: Thiag\u00e3o",
-  "num_followers": 177406,
+  "num_followers": 177409,
   "original_name": "Gospel Flow",
   "owner": {
     "name": "Spotify",
@@ -687,18 +687,26 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Bem Maior",
-        "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
+        "name": "Escolhas",
+        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
       },
       "artists": [
         {
-          "name": "Deus&Marco",
-          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
+          "name": "Boanerges",
+          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
+        },
+        {
+          "name": "Dima",
+          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
+        },
+        {
+          "name": "MATXS",
+          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Bem Maior",
-      "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
+      "duration_ms": 200405,
+      "name": "Escolhas",
+      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
     },
     {
       "added_at": "2025-01-10 03:01:05",
@@ -727,26 +735,18 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Escolhas",
-        "url": "https://open.spotify.com/album/312VSvz92cT0EP9fgdzu9V"
+        "name": "Bem Maior",
+        "url": "https://open.spotify.com/album/69G7Ll7wXqEXFg37kbDQ0Y"
       },
       "artists": [
         {
-          "name": "Boanerges",
-          "url": "https://open.spotify.com/artist/0yI5Pyeh5YYTWplqL3kscG"
-        },
-        {
-          "name": "Dima",
-          "url": "https://open.spotify.com/artist/5l4II5pfAbJckDwbdDcgih"
-        },
-        {
-          "name": "MATXS",
-          "url": "https://open.spotify.com/artist/7ich7ebAVHUXP7valh455y"
+          "name": "Deus&Marco",
+          "url": "https://open.spotify.com/artist/4NxBwxElvLwqGnqFcUTV5k"
         }
       ],
-      "duration_ms": 200405,
-      "name": "Escolhas",
-      "url": "https://open.spotify.com/track/1T5KuXYczrKd5I1i8V0teH"
+      "duration_ms": 156000,
+      "name": "Bem Maior",
+      "url": "https://open.spotify.com/track/4UWOQIZhHYau320ROsqfQw"
     },
     {
       "added_at": "2025-01-10 03:01:05",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Louis V",
-        "url": "https://open.spotify.com/album/7gNGNQO10NyQPnq1ytUbLF"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        }
-      ],
-      "duration_ms": 132047,
-      "name": "Louis V",
-      "url": "https://open.spotify.com/track/2zikGG28kMmAy13xQOYHPs"
-    },
-    {
-      "added_at": "2025-01-10 03:01:05",
-      "album": {
         "name": "Trindade Ac\u00fastico 1",
         "url": "https://open.spotify.com/album/41e3rvy3lc0jq7HYXcik9w"
       },
@@ -915,22 +899,6 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Boas Novas",
-        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
-      },
-      "artists": [
-        {
-          "name": "CAIQ",
-          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
-        }
-      ],
-      "duration_ms": 126077,
-      "name": "Boas Novas",
-      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
-    },
-    {
-      "added_at": "2025-01-10 03:01:05",
-      "album": {
         "name": "DNA",
         "url": "https://open.spotify.com/album/4lSfrYeSmEDqnyBwq9FEUf"
       },
@@ -947,6 +915,38 @@
       "duration_ms": 142622,
       "name": "DNA",
       "url": "https://open.spotify.com/track/7e5Sa9V4FkAi8QD4yS2og3"
+    },
+    {
+      "added_at": "2025-01-10 03:01:05",
+      "album": {
+        "name": "Boas Novas",
+        "url": "https://open.spotify.com/album/7rdv5rmXPxT1PjG8GzN6Eg"
+      },
+      "artists": [
+        {
+          "name": "CAIQ",
+          "url": "https://open.spotify.com/artist/1KWpZUdDFZt8GXdU5Uza3z"
+        }
+      ],
+      "duration_ms": 126077,
+      "name": "Boas Novas",
+      "url": "https://open.spotify.com/track/7HFJFzYJIBTYoT9oyhtplR"
+    },
+    {
+      "added_at": "2025-01-10 03:01:05",
+      "album": {
+        "name": "Louis V",
+        "url": "https://open.spotify.com/album/7gNGNQO10NyQPnq1ytUbLF"
+      },
+      "artists": [
+        {
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
+        }
+      ],
+      "duration_ms": 132047,
+      "name": "Louis V",
+      "url": "https://open.spotify.com/track/2zikGG28kMmAy13xQOYHPs"
     },
     {
       "added_at": "2025-01-10 03:01:05",
@@ -975,6 +975,42 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
+        "name": "Vibe de Crente",
+        "url": "https://open.spotify.com/album/4fjuLPbpN88N7P3l3HLhJB"
+      },
+      "artists": [
+        {
+          "name": "Rafael Caff",
+          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
+        },
+        {
+          "name": "LEVII MC",
+          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        },
+        {
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
+        }
+      ],
+      "duration_ms": 208116,
+      "name": "Vibe de Crente",
+      "url": "https://open.spotify.com/track/50u3Op8SstB8REO0iMCL2w"
+    },
+    {
+      "added_at": "2025-01-10 03:01:05",
+      "album": {
         "name": "Sangue",
         "url": "https://open.spotify.com/album/68t3Pq78Lt2hAguwFSWUDj"
       },
@@ -995,26 +1031,6 @@
       "duration_ms": 173548,
       "name": "Sangue",
       "url": "https://open.spotify.com/track/0iuI32iEQ10jIp5SOTxbqx"
-    },
-    {
-      "added_at": "2025-01-10 03:01:05",
-      "album": {
-        "name": "Drama",
-        "url": "https://open.spotify.com/album/4WTA1GMzuqdtMsFSan3y7Q"
-      },
-      "artists": [
-        {
-          "name": "Silas Magalh\u00e3es",
-          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
-        },
-        {
-          "name": "AATALAIAA",
-          "url": "https://open.spotify.com/artist/5dDEXbZ0TvYSxGsjSZfpuo"
-        }
-      ],
-      "duration_ms": 196967,
-      "name": "Drama",
-      "url": "https://open.spotify.com/track/4AHjXeCrldJduaJGOaZlS5"
     },
     {
       "added_at": "2025-01-10 03:01:05",
@@ -1087,38 +1103,22 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Vibe de Crente",
-        "url": "https://open.spotify.com/album/4fjuLPbpN88N7P3l3HLhJB"
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/4WTA1GMzuqdtMsFSan3y7Q"
       },
       "artists": [
         {
-          "name": "Rafael Caff",
-          "url": "https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw"
+          "name": "Silas Magalh\u00e3es",
+          "url": "https://open.spotify.com/artist/4XEgyepPNaJ86gsPESPAg5"
         },
         {
-          "name": "LEVII MC",
-          "url": "https://open.spotify.com/artist/0dazB8YxD1WqflS4ipqG8v"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
-        },
-        {
-          "name": "Z\u00c9ZIIN",
-          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
-        },
-        {
-          "name": "Gui Hazel",
-          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
+          "name": "AATALAIAA",
+          "url": "https://open.spotify.com/artist/5dDEXbZ0TvYSxGsjSZfpuo"
         }
       ],
-      "duration_ms": 208116,
-      "name": "Vibe de Crente",
-      "url": "https://open.spotify.com/track/50u3Op8SstB8REO0iMCL2w"
+      "duration_ms": 196967,
+      "name": "Drama",
+      "url": "https://open.spotify.com/track/4AHjXeCrldJduaJGOaZlS5"
     },
     {
       "added_at": "2025-01-10 03:01:05",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
+        "name": "Eu Sou",
+        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
+      },
+      "artists": [
+        {
+          "name": "shiso",
+          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
+        }
+      ],
+      "duration_ms": 185373,
+      "name": "Eu Sou",
+      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
+    },
+    {
+      "added_at": "2025-01-10 03:01:05",
+      "album": {
         "name": "Purificado",
         "url": "https://open.spotify.com/album/1FUN8psp7l2kciJvxccBiV"
       },
@@ -1203,42 +1219,6 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Eu Sou",
-        "url": "https://open.spotify.com/album/4EJYFaovzW26tKZysiVBs9"
-      },
-      "artists": [
-        {
-          "name": "shiso",
-          "url": "https://open.spotify.com/artist/29owXbKlpmPAsVBAAEs3M8"
-        }
-      ],
-      "duration_ms": 185373,
-      "name": "Eu Sou",
-      "url": "https://open.spotify.com/track/30OHtGi9CjL47y9WSzZwPf"
-    },
-    {
-      "added_at": "2025-01-10 03:01:05",
-      "album": {
-        "name": "Senhor",
-        "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
-      },
-      "artists": [
-        {
-          "name": "Bruno Coutinho",
-          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
-        },
-        {
-          "name": "Coutinho Records",
-          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
-        }
-      ],
-      "duration_ms": 218342,
-      "name": "Senhor",
-      "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
-    },
-    {
-      "added_at": "2025-01-10 03:01:05",
-      "album": {
         "name": "Quero Voltar",
         "url": "https://open.spotify.com/album/4ilO0Yx4mfVSbtuViiaXj4"
       },
@@ -1259,26 +1239,22 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Te Agrade\u00e7o",
-        "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
+        "name": "Senhor",
+        "url": "https://open.spotify.com/album/2RbGKTQyIZYsT3c80rTFOz"
       },
       "artists": [
         {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+          "name": "Bruno Coutinho",
+          "url": "https://open.spotify.com/artist/65HfZgR1MCHevZEKBRjSGO"
         },
         {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
-        },
-        {
-          "name": "Love Funk",
-          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+          "name": "Coutinho Records",
+          "url": "https://open.spotify.com/artist/66jcpEOU9SnhG1sjt4o9vS"
         }
       ],
-      "duration_ms": 157384,
-      "name": "Te Agrade\u00e7o",
-      "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
+      "duration_ms": 218342,
+      "name": "Senhor",
+      "url": "https://open.spotify.com/track/1NpZVpj7w67md1P8p47MBA"
     },
     {
       "added_at": "2025-01-10 03:01:05",
@@ -1331,6 +1307,30 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
+        "name": "Te Agrade\u00e7o",
+        "url": "https://open.spotify.com/album/2OgK8zK56Xw5l5hMBryLhJ"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Love Funk",
+          "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
+        }
+      ],
+      "duration_ms": 157384,
+      "name": "Te Agrade\u00e7o",
+      "url": "https://open.spotify.com/track/4YUOSGwxMeYB8oRXSqVykI"
+    },
+    {
+      "added_at": "2025-01-10 03:01:05",
+      "album": {
         "name": "Firme",
         "url": "https://open.spotify.com/album/0D6n7tMdC4tzjlDJp64brI"
       },
@@ -1375,42 +1375,6 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Penso Alto",
-        "url": "https://open.spotify.com/album/6xcGJ3yFbuRuGheyo6t7xR"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00f4nis Maia",
-          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
-        },
-        {
-          "name": "CT Miss\u00f5es",
-          "url": "https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE"
-        }
-      ],
-      "duration_ms": 172198,
-      "name": "Penso Alto",
-      "url": "https://open.spotify.com/track/5b10S6Ps41CbUk4QamHKIB"
-    },
-    {
-      "added_at": "2025-01-10 03:01:05",
-      "album": {
-        "name": "Prosseguir",
-        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
-      },
-      "artists": [
-        {
-          "name": "Jhonysul",
-          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
-        }
-      ],
-      "duration_ms": 155300,
-      "name": "Prosseguir",
-      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
-    },
-    {
-      "added_at": "2025-01-10 03:01:05",
-      "album": {
         "name": "Guerra de Egos",
         "url": "https://open.spotify.com/album/5YVhPUTTN5Ymw5eFmABys9"
       },
@@ -1431,42 +1395,38 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Tua Face",
-        "url": "https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR"
+        "name": "Prosseguir",
+        "url": "https://open.spotify.com/album/1zcpxR84B9nUyuFmrC1qdv"
       },
       "artists": [
         {
-          "name": "Duardin",
-          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
-        },
-        {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "Jhonysul",
+          "url": "https://open.spotify.com/artist/4EQD7XR4PvPsdCyQuJViP8"
         }
       ],
-      "duration_ms": 146000,
-      "name": "Tua Face",
-      "url": "https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R"
+      "duration_ms": 155300,
+      "name": "Prosseguir",
+      "url": "https://open.spotify.com/track/5YgA2Dmg3RVyss3Z47zljv"
     },
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
-        "name": "Por Onde C Andar",
-        "url": "https://open.spotify.com/album/2KZ3jFFouJZmF7epiRk6Fd"
+        "name": "Penso Alto",
+        "url": "https://open.spotify.com/album/6xcGJ3yFbuRuGheyo6t7xR"
       },
       "artists": [
         {
-          "name": "diaszin",
-          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+          "name": "Ad\u00f4nis Maia",
+          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
         },
         {
-          "name": "Trindade Records",
-          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+          "name": "CT Miss\u00f5es",
+          "url": "https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE"
         }
       ],
-      "duration_ms": 169090,
-      "name": "Por Onde C Andar",
-      "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
+      "duration_ms": 172198,
+      "name": "Penso Alto",
+      "url": "https://open.spotify.com/track/5b10S6Ps41CbUk4QamHKIB"
     },
     {
       "added_at": "2025-01-10 03:01:05",
@@ -1491,6 +1451,26 @@
     {
       "added_at": "2025-01-10 03:01:05",
       "album": {
+        "name": "Por Onde C Andar",
+        "url": "https://open.spotify.com/album/2KZ3jFFouJZmF7epiRk6Fd"
+      },
+      "artists": [
+        {
+          "name": "diaszin",
+          "url": "https://open.spotify.com/artist/6TegkKajWwBTgIY8N1dv1Z"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Por Onde C Andar",
+      "url": "https://open.spotify.com/track/44a4rTGuuAFhDmftOzeDsI"
+    },
+    {
+      "added_at": "2025-01-10 03:01:05",
+      "album": {
         "name": "Filho Pr\u00f3digo",
         "url": "https://open.spotify.com/album/29PB5NCE4KFYJyNYxBWzs7"
       },
@@ -1507,6 +1487,26 @@
       "duration_ms": 172000,
       "name": "Volta",
       "url": "https://open.spotify.com/track/4yucczj8Zqtya0jgdZjdiC"
+    },
+    {
+      "added_at": "2025-01-10 03:01:05",
+      "album": {
+        "name": "Tua Face",
+        "url": "https://open.spotify.com/album/3sqmKDQb0yj4mtLTS11fyR"
+      },
+      "artists": [
+        {
+          "name": "Duardin",
+          "url": "https://open.spotify.com/artist/47MHCD4zIJB5McYx01HD95"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        }
+      ],
+      "duration_ms": 146000,
+      "name": "Tua Face",
+      "url": "https://open.spotify.com/track/2algWOqywvUnC0vK19JM9R"
     },
     {
       "added_at": "2025-01-10 03:01:05",
@@ -1531,26 +1531,6 @@
       "duration_ms": 187317,
       "name": "O Deus Que Te V\u00ea",
       "url": "https://open.spotify.com/track/20wzjA0ERa7WmZ8ezMNQFB"
-    },
-    {
-      "added_at": "2025-01-10 03:01:05",
-      "album": {
-        "name": "Soundtrack",
-        "url": "https://open.spotify.com/album/6gArENQ5ALPN26mSe3rInz"
-      },
-      "artists": [
-        {
-          "name": "Ad\u00f4nis Maia",
-          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
-        },
-        {
-          "name": "CT Miss\u00f5es",
-          "url": "https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE"
-        }
-      ],
-      "duration_ms": 198936,
-      "name": "Deus Conhece Tudo",
-      "url": "https://open.spotify.com/track/3ZopgP6BJqLb5e555Wmgqu"
     },
     {
       "added_at": "2025-01-10 03:01:05",
@@ -1607,6 +1587,26 @@
       "duration_ms": 161701,
       "name": "Paracetamol (Divisa de Fogo)",
       "url": "https://open.spotify.com/track/1nFbOSGxJ0d2fpjNv4nnSJ"
+    },
+    {
+      "added_at": "2025-01-10 03:01:05",
+      "album": {
+        "name": "Soundtrack",
+        "url": "https://open.spotify.com/album/6gArENQ5ALPN26mSe3rInz"
+      },
+      "artists": [
+        {
+          "name": "Ad\u00f4nis Maia",
+          "url": "https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN"
+        },
+        {
+          "name": "CT Miss\u00f5es",
+          "url": "https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE"
+        }
+      ],
+      "duration_ms": 198936,
+      "name": "Deus Conhece Tudo",
+      "url": "https://open.spotify.com/track/3ZopgP6BJqLb5e555Wmgqu"
     },
     {
       "added_at": "2025-01-10 03:01:05",

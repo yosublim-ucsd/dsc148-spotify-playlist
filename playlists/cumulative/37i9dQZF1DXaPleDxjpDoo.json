@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "A Good Morning",
+        "url": "https://open.spotify.com/album/2jtb1HXtYQW6uOzJ1WKSzj"
+      },
+      "artists": [
+        {
+          "name": "Luna's Garden",
+          "url": "https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158076,
+      "name": "A Good Morning",
+      "url": "https://open.spotify.com/track/3ReCihHPaBhVrGzsZjRCyT"
+    },
+    {
+      "album": {
         "name": "Above The Trees",
         "url": "https://open.spotify.com/album/2fsy6gg50jg2yqzDUHYkyX"
       },
@@ -626,6 +644,24 @@
       "duration_ms": 160000,
       "name": "Delta Spirit",
       "url": "https://open.spotify.com/track/5Nl0Uy3C5GhECu1wePK0Ty"
+    },
+    {
+      "album": {
+        "name": "Dream Resolve",
+        "url": "https://open.spotify.com/album/0Wm1b8IbShzmgqBgMSGdCe"
+      },
+      "artists": [
+        {
+          "name": "places we go",
+          "url": "https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Dream Resolve",
+      "url": "https://open.spotify.com/track/0LvFkTyn6KUbCIoj6lQCwM"
     },
     {
       "album": {
@@ -1469,6 +1505,24 @@
     },
     {
       "album": {
+        "name": "Lakeside Dawn",
+        "url": "https://open.spotify.com/album/1HLm8lggHEdoUuZw0biTPg"
+      },
+      "artists": [
+        {
+          "name": "Aviaries",
+          "url": "https://open.spotify.com/artist/6LnYKrYDcRXSfquJEbRThj"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165849,
+      "name": "Lakeside Dawn",
+      "url": "https://open.spotify.com/track/0aqoThq5jGu9mlXiRqVzc9"
+    },
+    {
+      "album": {
         "name": "Leaves Breathing",
         "url": "https://open.spotify.com/album/0c9RZQfZNbk4TdqJFQDbT5"
       },
@@ -2009,6 +2063,24 @@
     },
     {
       "album": {
+        "name": "Over the Song Island",
+        "url": "https://open.spotify.com/album/6llesI8XKMTPuIRU6eCYkl"
+      },
+      "artists": [
+        {
+          "name": "Aurora Soundscapes",
+          "url": "https://open.spotify.com/artist/4zYuwmJ9PVEoVz0TcFYaxS"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Over the Song Island",
+      "url": "https://open.spotify.com/track/4VkIaOxHvBd5AeN0eDAAFh"
+    },
+    {
+      "album": {
         "name": "My Small River",
         "url": "https://open.spotify.com/album/5CkowVwBbCxYp48CVxQ9ph"
       },
@@ -2290,10 +2362,28 @@
       ],
       "date_added": "2023-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 173570,
       "name": "Reverie in the Trees (Sound Bath)",
       "url": "https://open.spotify.com/track/5RWb9UQffYkIRJplHoZnQ5"
+    },
+    {
+      "album": {
+        "name": "Rumble in Peace",
+        "url": "https://open.spotify.com/album/3XRcZrKvzaQO3ONBBXof7N"
+      },
+      "artists": [
+        {
+          "name": "Lula Dreamer",
+          "url": "https://open.spotify.com/artist/3YmfABSTczjkjF8EblWWa8"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178723,
+      "name": "Rumble in Peace",
+      "url": "https://open.spotify.com/track/1KVOysjv01sx4N21q102kJ"
     },
     {
       "album": {
@@ -2406,6 +2496,24 @@
       "duration_ms": 162060,
       "name": "Sentiment - Sound Bath",
       "url": "https://open.spotify.com/track/6NCBhoJxrycWkrkjM3TgFP"
+    },
+    {
+      "album": {
+        "name": "Sentimental Sphere",
+        "url": "https://open.spotify.com/album/6dQxNOddUuIQIXIXhzzrfE"
+      },
+      "artists": [
+        {
+          "name": "Cosmo Strings",
+          "url": "https://open.spotify.com/artist/7FEeRD2uPEsGElexmXe3lc"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183884,
+      "name": "Sentimental Sphere",
+      "url": "https://open.spotify.com/track/6r4ExMjhDRJ0Tz6G27G6ac"
     },
     {
       "album": {
@@ -2910,7 +3018,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 179813,
       "name": "Treetop Dreamers",
       "url": "https://open.spotify.com/track/1qSrmJpdEh0gbbqXfimXrj"
@@ -3072,7 +3180,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 170828,
       "name": "Warming Monsoon",
       "url": "https://open.spotify.com/track/3CCIKQyd1AyQykIHKubvsg"

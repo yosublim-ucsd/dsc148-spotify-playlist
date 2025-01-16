@@ -4,30 +4,30 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 
 > Cause I'm a person just like you but I got better things to do.
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,089 likes - 106 songs - 3 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,115 likes - 106 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Straight Edge](https://open.spotify.com/track/3Iw6tbCYDYb3libUo3bB5S) | [Minor Threat](https://open.spotify.com/artist/07PiZYrhllpSXtELkUxlrf) | [First Two Seven Inches](https://open.spotify.com/album/29cV9KKP4Wr07poFUHBsbC) | 0:47 |
-| 2 | [Raise Your Fist](https://open.spotify.com/track/2BwOVHldo6dev5RdHDhyPD) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Drive Me Dead](https://open.spotify.com/album/7bLjN04dzcdrRdn78WNr7s) | 3:02 |
-| 3 | [Not for Me](https://open.spotify.com/track/2iHrDSkDhKvvoljjam1naY) | [Floorpunch](https://open.spotify.com/artist/4gcuCFzrnm2oDNMINc6IVF) | [Twin Killing](https://open.spotify.com/album/3HFfkwE1WiwpNbCEH9LZOG) | 0:49 |
-| 4 | [True Till Death](https://open.spotify.com/track/5lqOhHKw9WzRmPCgY6cBYh) | [Chain Of Strength](https://open.spotify.com/artist/1zLeNHq4M54hoXRnm6n9tM) | [The One Thing That Still Holds True](https://open.spotify.com/album/0hnswSr8phfJBcDFWl7e2K) | 2:23 |
-| 5 | [Fed up!](https://open.spotify.com/track/37zEVfh1UaWVfR0gQsJtOx) | [Judge](https://open.spotify.com/artist/2FjHrXsNltj2EKpHqXgkq9) | [New York Crew](https://open.spotify.com/album/3FQ6iCmtLOjbO9aJXNlSfs) | 1:45 |
-| 6 | [Firestorm](https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [1991\-2001 \(Forever True\)](https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H) | 3:51 |
-| 7 | [Nailed to the X \- Remastered](https://open.spotify.com/track/5cllHY4a3YCOGM5CRTN3jC) | [Bold](https://open.spotify.com/artist/18TAmMhE82KJZDg3lnrB5r) | [Speak Out \(Remastered\)](https://open.spotify.com/album/59ZSX3Lhqq3UkaPn8fwUvi) | 2:03 |
-| 8 | [Youth Crew](https://open.spotify.com/track/3pU0zhuy1zrJKSZSCMxpaS) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Can't Close My Eyes](https://open.spotify.com/album/1jIewpVSOM4Z0WNk3fnfie) | 2:33 |
-| 9 | [Hold Your Ground](https://open.spotify.com/track/5VxEAEUiym5NWPzgznkflW) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Gorilla Biscuits](https://open.spotify.com/album/0wdSgG5H0SMly5ffNLgANL) | 2:02 |
-| 10 | [Arms of the Few](https://open.spotify.com/track/37LRW2fqwhh445fpKyaCDl) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [One Truth](https://open.spotify.com/album/6viLzSwVRbpyu2wVDI5AOf) | 2:09 |
-| 11 | [Straight Edge Revenge](https://open.spotify.com/track/58CPatKeM4gLjZn5Vl9Zrc) | [Project X](https://open.spotify.com/artist/051GvPHqB7Lt65ZEtY16Gr) | [Straight Edge Revenge](https://open.spotify.com/album/6eXDwN6G4BuXIc5htFcm7g) | 1:20 |
-| 12 | [Free at Last](https://open.spotify.com/track/11EYFJWANfpKXVjkohG4N0) | [Warzone](https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO) | [Warzone / Cause for Alarm Split](https://open.spotify.com/album/2T7we31xwbsuozCOQ5WJMG) | 2:03 |
-| 13 | [No Spiritual Surrender](https://open.spotify.com/track/1WVgpM6MMcNam53I4N81DH) | [Inside Out](https://open.spotify.com/artist/6skV6Av1DdOenxQ3FeOC4k) | [No Spiritual Surrender](https://open.spotify.com/album/4Akny7HgQlmt9jVpU3FKPj) | 2:58 |
-| 14 | [The Few And The Proud](https://open.spotify.com/track/5Hl6Wq1ZO2EXVST4TSV0sB) | [Turning Point](https://open.spotify.com/artist/3pRJxwgJFHnAplmCEHBtNu) | [1988 \- 1991](https://open.spotify.com/album/1AbRJAU708RIh2L3ugxZ39) | 1:34 |
-| 15 | [Decide](https://open.spotify.com/track/6nTkuZVtaU8bCLCrnVqJY7) | [Shutdown](https://open.spotify.com/artist/40s4gmRbRxJFQ2w4mVCub3) | [Decide](https://open.spotify.com/album/2UykEHV5O7fBUIo03sMtsi) | 1:49 |
-| 16 | [Grey](https://open.spotify.com/track/78N5h4Jp09D1pHndcDpxvE) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR) | 3:07 |
-| 17 | [Thinking Straight](https://open.spotify.com/track/4wT15M826C8e7ytjRETXdU) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:03 |
-| 18 | [The Discipline](https://open.spotify.com/track/5b2cs2Y2noUudHPAVDOnBa) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Destroy the Machines](https://open.spotify.com/album/7gQJhLtNXbytCQol20D3qJ) | 3:46 |
-| 19 | [Coll\-Edge](https://open.spotify.com/track/00h43Zi1NyfhRUG7QqatNv) | [Good Clean Fun](https://open.spotify.com/artist/67G4Qrj2sRB05bYjofHWc2) | [Positively Positive](https://open.spotify.com/album/5nuGVuiXvDDJeFVT8hGloY) | 2:27 |
-| 20 | [Gomorrah's Season Ends](https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi) | 3:29 |
+| 2 | [Firestorm](https://open.spotify.com/track/3JqjchQJTcGGcFKG7z91TV) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [1991\-2001 \(Forever True\)](https://open.spotify.com/album/5wOwgUbQrGb0YhPBNz3R6H) | 3:51 |
+| 3 | [True Till Death](https://open.spotify.com/track/5lqOhHKw9WzRmPCgY6cBYh) | [Chain Of Strength](https://open.spotify.com/artist/1zLeNHq4M54hoXRnm6n9tM) | [The One Thing That Still Holds True](https://open.spotify.com/album/0hnswSr8phfJBcDFWl7e2K) | 2:23 |
+| 4 | [Hold Your Ground](https://open.spotify.com/track/5VxEAEUiym5NWPzgznkflW) | [Gorilla Biscuits](https://open.spotify.com/artist/4dJX4iJ0qbB4gjkeenbK2N) | [Gorilla Biscuits](https://open.spotify.com/album/0wdSgG5H0SMly5ffNLgANL) | 2:02 |
+| 5 | [Grey](https://open.spotify.com/track/78N5h4Jp09D1pHndcDpxvE) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [In This Defiance](https://open.spotify.com/album/2dJ2HAbutOrZb3wqbYmRlR) | 3:07 |
+| 6 | [Straight Edge Revenge](https://open.spotify.com/track/58CPatKeM4gLjZn5Vl9Zrc) | [Project X](https://open.spotify.com/artist/051GvPHqB7Lt65ZEtY16Gr) | [Straight Edge Revenge](https://open.spotify.com/album/6eXDwN6G4BuXIc5htFcm7g) | 1:20 |
+| 7 | [Free at Last](https://open.spotify.com/track/11EYFJWANfpKXVjkohG4N0) | [Warzone](https://open.spotify.com/artist/7cvibKo9n0RsgKaW4p4RVO) | [Warzone / Cause for Alarm Split](https://open.spotify.com/album/2T7we31xwbsuozCOQ5WJMG) | 2:03 |
+| 8 | [No Spiritual Surrender](https://open.spotify.com/track/1WVgpM6MMcNam53I4N81DH) | [Inside Out](https://open.spotify.com/artist/6skV6Av1DdOenxQ3FeOC4k) | [No Spiritual Surrender](https://open.spotify.com/album/4Akny7HgQlmt9jVpU3FKPj) | 2:58 |
+| 9 | [The Few And The Proud](https://open.spotify.com/track/5Hl6Wq1ZO2EXVST4TSV0sB) | [Turning Point](https://open.spotify.com/artist/3pRJxwgJFHnAplmCEHBtNu) | [1988 \- 1991](https://open.spotify.com/album/1AbRJAU708RIh2L3ugxZ39) | 1:34 |
+| 10 | [Coll\-Edge](https://open.spotify.com/track/00h43Zi1NyfhRUG7QqatNv) | [Good Clean Fun](https://open.spotify.com/artist/67G4Qrj2sRB05bYjofHWc2) | [Positively Positive](https://open.spotify.com/album/5nuGVuiXvDDJeFVT8hGloY) | 2:27 |
+| 11 | [The Discipline](https://open.spotify.com/track/5b2cs2Y2noUudHPAVDOnBa) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Destroy the Machines](https://open.spotify.com/album/7gQJhLtNXbytCQol20D3qJ) | 3:46 |
+| 12 | [Arms of the Few](https://open.spotify.com/track/37LRW2fqwhh445fpKyaCDl) | [Strife](https://open.spotify.com/artist/68qsduRCs8caw95bbF4IDD) | [One Truth](https://open.spotify.com/album/6viLzSwVRbpyu2wVDI5AOf) | 2:09 |
+| 13 | [Decide](https://open.spotify.com/track/6nTkuZVtaU8bCLCrnVqJY7) | [Shutdown](https://open.spotify.com/artist/40s4gmRbRxJFQ2w4mVCub3) | [Decide](https://open.spotify.com/album/2UykEHV5O7fBUIo03sMtsi) | 1:49 |
+| 14 | [Not for Me](https://open.spotify.com/track/2iHrDSkDhKvvoljjam1naY) | [Floorpunch](https://open.spotify.com/artist/4gcuCFzrnm2oDNMINc6IVF) | [Twin Killing](https://open.spotify.com/album/3HFfkwE1WiwpNbCEH9LZOG) | 0:49 |
+| 15 | [Gomorrah's Season Ends](https://open.spotify.com/track/4TqeOKCesReCMq6R32RM4v) | [Earth Crisis](https://open.spotify.com/artist/4ITkzAQWPILwWpEWJxHB9g) | [Gomorrah's Season Ends](https://open.spotify.com/album/2PYmeJV6SMsT8YrhNBC2Vi) | 3:29 |
+| 16 | [Fed up!](https://open.spotify.com/track/37zEVfh1UaWVfR0gQsJtOx) | [Judge](https://open.spotify.com/artist/2FjHrXsNltj2EKpHqXgkq9) | [New York Crew](https://open.spotify.com/album/3FQ6iCmtLOjbO9aJXNlSfs) | 1:45 |
+| 17 | [Nailed to the X \- Remastered](https://open.spotify.com/track/5cllHY4a3YCOGM5CRTN3jC) | [Bold](https://open.spotify.com/artist/18TAmMhE82KJZDg3lnrB5r) | [Speak Out \(Remastered\)](https://open.spotify.com/album/59ZSX3Lhqq3UkaPn8fwUvi) | 2:03 |
+| 18 | [Youth Crew](https://open.spotify.com/track/3pU0zhuy1zrJKSZSCMxpaS) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Can't Close My Eyes](https://open.spotify.com/album/1jIewpVSOM4Z0WNk3fnfie) | 2:33 |
+| 19 | [Raise Your Fist](https://open.spotify.com/track/2BwOVHldo6dev5RdHDhyPD) | [Throwdown](https://open.spotify.com/artist/18jFO6Z2Bpdv5jp8mXfChN) | [Drive Me Dead](https://open.spotify.com/album/7bLjN04dzcdrRdn78WNr7s) | 3:02 |
+| 20 | [Thinking Straight](https://open.spotify.com/track/4wT15M826C8e7ytjRETXdU) | [Youth Of Today](https://open.spotify.com/artist/0DbBwI2dpYty5Tl7bdSIjL) | [Break Down The Walls](https://open.spotify.com/album/37Mj1nYiNbbpOXYACvQPJX) | 2:03 |
 | 21 | [X's Always Win](https://open.spotify.com/track/03hxaUAf83scNaIqaGcsVo) | [Carry On](https://open.spotify.com/artist/1FRCx5AbEsSUFl0TZUwo3D) | [A Life Less Plagued](https://open.spotify.com/album/20Rl6ee4nFMj4P1TkdXTuY) | 0:53 |
 | 22 | [Just Say No](https://open.spotify.com/track/5Tsd79flRNCXykprt5buup) | [No For An Answer](https://open.spotify.com/artist/3vwcUA9xluFkl0rbLBCuY1) | [You Laugh](https://open.spotify.com/album/7E9DPA7XQoPja5sNarIW4g) | 1:56 |
 | 23 | [Mass Suicide](https://open.spotify.com/track/6GZ0GvIcdACwaorQmLZuVZ) | [One King Down](https://open.spotify.com/artist/782HAMHn2gK7WqWZZ7aJ9D) | [Bloodlust Revenge \(Remastered\)](https://open.spotify.com/album/3DyJVeql5LWWVveNqEpiyE) | 4:26 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTOmS5hmD9Zf.md) - [plain]
 | 105 | [C.M.F.](https://open.spotify.com/track/4sVBaie6L3Z1evIhj9MDbn) | [Minority Unit](https://open.spotify.com/artist/4zr6dHfZKuO0HvwuqexH9y) | [Demo 2011](https://open.spotify.com/album/6PhnqBic75cWVIYaz97Cni) | 0:57 |
 | 106 | [First Offense](https://open.spotify.com/track/0erCLOl8aSItDjv57l6PNN) | [Boston Strangler](https://open.spotify.com/artist/0jcLanwiSXfVgAcsY2mPd4) | [Primitive](https://open.spotify.com/album/5WYYfUoh9Gskv6IZ3ownam) | 1:19 |
 
-Snapshot ID: `ZxrgBQAAAAAvrqE6iOaIBBivhmN1griJ`
+Snapshot ID: `Z4ge4gAAAAAw9F3VTuo9VTWwjL5mxcbT`

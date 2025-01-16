@@ -1,6 +1,6 @@
 {
   "description": "Amapiano tracks to fuel your beast mode!",
-  "num_followers": 80275,
+  "num_followers": 80323,
   "original_name": "Beast Mode Amapiano",
   "owner": {
     "name": "Spotify",
@@ -1071,30 +1071,6 @@
     {
       "added_at": "2024-10-24 23:12:14",
       "album": {
-        "name": "Woza La!",
-        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
-      },
-      "artists": [
-        {
-          "name": "Njelic",
-          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
-        },
-        {
-          "name": "Benny Maverick",
-          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
-        },
-        {
-          "name": "Triple X Da Ghost",
-          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
-        }
-      ],
-      "duration_ms": 484285,
-      "name": "Woza La!",
-      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
-    },
-    {
-      "added_at": "2024-10-24 23:12:14",
-      "album": {
         "name": "Numbers Didn't Lie",
         "url": "https://open.spotify.com/album/02041eZmy9EtIJAyc0wcFf"
       },
@@ -1115,6 +1091,30 @@
       "duration_ms": 399363,
       "name": "Guitar Man (feat. Amukelani M)",
       "url": "https://open.spotify.com/track/6FRLrkIn0LYUX7whLWVyoA"
+    },
+    {
+      "added_at": "2024-10-24 23:12:14",
+      "album": {
+        "name": "Woza La!",
+        "url": "https://open.spotify.com/album/53RQjvGYRtCL7RGYNFdYTn"
+      },
+      "artists": [
+        {
+          "name": "Njelic",
+          "url": "https://open.spotify.com/artist/7MKSufJrPmpqpg2mVWJET1"
+        },
+        {
+          "name": "Benny Maverick",
+          "url": "https://open.spotify.com/artist/6iAKzl1wFANxLqKNUszOX2"
+        },
+        {
+          "name": "Triple X Da Ghost",
+          "url": "https://open.spotify.com/artist/7jjxR3VVNwVvOZo33TnecO"
+        }
+      ],
+      "duration_ms": 484285,
+      "name": "Woza La!",
+      "url": "https://open.spotify.com/track/5CW55oBb94YDO3GrXSJ19I"
     },
     {
       "added_at": "2024-10-24 23:12:14",
@@ -1195,6 +1195,34 @@
     {
       "added_at": "2024-10-24 23:12:14",
       "album": {
+        "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
+        "url": "https://open.spotify.com/album/68DnMLu8TDXG6RwZ1AzfeK"
+      },
+      "artists": [
+        {
+          "name": "Inner City",
+          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
+        },
+        {
+          "name": "Thuto The Human",
+          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
+        },
+        {
+          "name": "2woBunnies",
+          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
+        },
+        {
+          "name": "Jay Music",
+          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
+        }
+      ],
+      "duration_ms": 429026,
+      "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
+      "url": "https://open.spotify.com/track/3JlIWcL8I4XISGbkkVYhvV"
+    },
+    {
+      "added_at": "2024-10-24 23:12:14",
+      "album": {
         "name": "Lempilo",
         "url": "https://open.spotify.com/album/4FNoxtymY4Uz8veZFGQ2xv"
       },
@@ -1223,34 +1251,6 @@
       "duration_ms": 414673,
       "name": "Class (feat. Lorenzo, Licious, Macdeedozer & Figza)",
       "url": "https://open.spotify.com/track/5oytkJJF06OSd0agoki3d7"
-    },
-    {
-      "added_at": "2024-10-24 23:12:14",
-      "album": {
-        "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
-        "url": "https://open.spotify.com/album/68DnMLu8TDXG6RwZ1AzfeK"
-      },
-      "artists": [
-        {
-          "name": "Inner City",
-          "url": "https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp"
-        },
-        {
-          "name": "Thuto The Human",
-          "url": "https://open.spotify.com/artist/5gAHEecJcLAR9qtLcaiVfj"
-        },
-        {
-          "name": "2woBunnies",
-          "url": "https://open.spotify.com/artist/45c90J0Hvj1PMIFtm0b1ML"
-        },
-        {
-          "name": "Jay Music",
-          "url": "https://open.spotify.com/artist/7AE6YSdoxlOzzW4kaYcNdi"
-        }
-      ],
-      "duration_ms": 429026,
-      "name": "BIG FUN - THUTO THE HUMAN & 2WOBUNNIES VS INNER CITY (FEAT. JAY MUSIC)",
-      "url": "https://open.spotify.com/track/3JlIWcL8I4XISGbkkVYhvV"
     },
     {
       "added_at": "2024-10-24 23:12:14",
@@ -1291,30 +1291,30 @@
     {
       "added_at": "2024-10-24 23:12:14",
       "album": {
-        "name": "Ngeke",
-        "url": "https://open.spotify.com/album/75OwLwUKBzBGgPlsROtNcL"
+        "name": "Shuffle",
+        "url": "https://open.spotify.com/album/40mArL86HrmKLZjj6KEQ9i"
       },
       "artists": [
         {
-          "name": "Calvin Shaw",
-          "url": "https://open.spotify.com/artist/17WwQrBNn89qqSl5tfD72x"
+          "name": "Shuffle Muzik",
+          "url": "https://open.spotify.com/artist/15Pvko2GvEU2iTeYd4zB3x"
         },
         {
-          "name": "Khanyisa",
-          "url": "https://open.spotify.com/artist/5Sgtj9tFA2TAYXDeh1sJTc"
+          "name": "Fire",
+          "url": "https://open.spotify.com/artist/1kZuJ4SRSQvBG3RmNLpcSN"
         },
         {
-          "name": "Deep Sen",
-          "url": "https://open.spotify.com/artist/4Ld6Rt2l5Fmd2G39BeZeIv"
+          "name": "Lynden X",
+          "url": "https://open.spotify.com/artist/5iESKjgAlsi1ZkS6rdJQ1a"
         },
         {
-          "name": "KingTalkzin",
-          "url": "https://open.spotify.com/artist/4Wj3cC5wZc8XTXz1mn4bMa"
+          "name": "Thabsoul",
+          "url": "https://open.spotify.com/artist/3W213r6kQ102kcS2CjsDpT"
         }
       ],
-      "duration_ms": 234466,
-      "name": "Ngeke - Radio Edit",
-      "url": "https://open.spotify.com/track/1Xs7ZBzJRexv4QF2R5iR22"
+      "duration_ms": 375530,
+      "name": "Shuffle",
+      "url": "https://open.spotify.com/track/0jLE159BmNIIwongqStIp1"
     }
   ],
   "unique_name": "Beast Mode Amapiano",

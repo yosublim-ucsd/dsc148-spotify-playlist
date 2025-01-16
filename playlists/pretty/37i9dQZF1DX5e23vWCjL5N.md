@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Marracash
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,721 likes - 80 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,737 likes - 80 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5e23vWCjL5N.md) - [plain]
 | 12 | [NESSUNO \(feat\. Geolier\)](https://open.spotify.com/track/0HdrGJfHWYG5A0cNhiMDG4) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM), [Geolier](https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s) | [SIRIO](https://open.spotify.com/album/2v7KXdLrb81rGL9G7jwcjF) | 2:28 |
 | 13 | [CRASH](https://open.spotify.com/track/0Op5iGBVLyY0G1lDDRfEnf) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 4:07 |
 | 14 | [Donna](https://open.spotify.com/track/5t0pLWfUeP5fYVxKaMB2MD) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [Donna](https://open.spotify.com/album/0yugiV59QadnQxtXExqjXb) | 2:59 |
-| 15 | [Pain Is Love](https://open.spotify.com/track/4uEhUyE9dnD1tF19YQXOsL) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:55 |
+| 15 | [Pain Is Love](https://open.spotify.com/track/4uEhUyE9dnD1tF19YQXOsL) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [Tropico Del Capricorno](https://open.spotify.com/album/6YBqlDGZ2JHa5ThndFJcf1) | 2:55 |
 | 16 | [Le Pietre Non Volano \(feat\. Marracash\)](https://open.spotify.com/track/3iV5VVzcAcqyCGy5u4ZlbP) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4), [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Dove Volano Le Aquile](https://open.spotify.com/album/3SPUCNVfVDn3skohfmd2x8) | 4:59 |
 | 17 | [Intro La Divina Commedia](https://open.spotify.com/track/6zeHHYPL25pk7tySZa9yEp) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Intro La Divina Commedia](https://open.spotify.com/album/7zdirfoyJNypzUk6jXfYT3) | 2:41 |
 | 18 | [Certe bugie](https://open.spotify.com/track/5AajFA0IrhC8Qp4wFS0IjV) | [Nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD) | [Certe bugie](https://open.spotify.com/album/5lgdyo1ZiB1N7eNMyhcxZ3) | 3:06 |

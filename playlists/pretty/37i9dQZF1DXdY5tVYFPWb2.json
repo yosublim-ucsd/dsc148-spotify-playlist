@@ -1,6 +1,6 @@
 {
   "description": "\u518d\u3073\u811a\u5149\u3092\u6d74\u3073\u308b\u65e5\u672c\u306e\u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca\u3092\u304a\u5c4a\u3051\u3057\u307e\u3059\u3002",
-  "num_followers": 169331,
+  "num_followers": 169357,
   "original_name": "City Pop: \u30b7\u30c6\u30a3\u30fb\u30dd\u30c3\u30d7\u306e\u4eca",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
-      },
-      "artists": [
-        {
-          "name": "\u96e2\u5a5a\u4f1d\u8aac",
-          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
-        }
-      ],
-      "duration_ms": 169620,
-      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
-      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "replica",
         "url": "https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 253123,
       "name": "NEO JAPAN",
       "url": "https://open.spotify.com/track/4PQJs2U6R1xhXLxyjmf4gj"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+        "url": "https://open.spotify.com/album/0LB7V93L5xyFoUMDjudbXa"
+      },
+      "artists": [
+        {
+          "name": "\u96e2\u5a5a\u4f1d\u8aac",
+          "url": "https://open.spotify.com/artist/0fLlzy1mzxu6XItsSY5KN2"
+        }
+      ],
+      "duration_ms": 169620,
+      "name": "\u672c\u65e5\u306e\u304a\u3059\u3059\u3081",
+      "url": "https://open.spotify.com/track/4eoOMLE6c175AvNsnRfdZ5"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -399,18 +399,22 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "\u66d6\u6627\u306aBEACH",
-        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
+        "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
+        "url": "https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24"
       },
       "artists": [
         {
-          "name": "\u793c\u8cdb",
-          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
+          "name": "Vaundy",
+          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
+        },
+        {
+          "name": "Cory Wong",
+          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
         }
       ],
-      "duration_ms": 159000,
-      "name": "\u66d6\u6627\u306aBEACH",
-      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
+      "duration_ms": 310160,
+      "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
+      "url": "https://open.spotify.com/track/7p2X86CP7JrIjbVEsZHU0h"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -431,22 +435,18 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
-        "url": "https://open.spotify.com/album/7jUTLJgcOL6z7ou8TVVh24"
+        "name": "\u66d6\u6627\u306aBEACH",
+        "url": "https://open.spotify.com/album/4jlUIe5GmmqAOT4DwhyDl6"
       },
       "artists": [
         {
-          "name": "Vaundy",
-          "url": "https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru"
-        },
-        {
-          "name": "Cory Wong",
-          "url": "https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU"
+          "name": "\u793c\u8cdb",
+          "url": "https://open.spotify.com/artist/6s47v81SP75AAu01joweqx"
         }
       ],
-      "duration_ms": 310160,
-      "name": "\u30c8\u30c9\u30e1\u306e\u4e00\u6483 (feat. Cory Wong)",
-      "url": "https://open.spotify.com/track/7p2X86CP7JrIjbVEsZHU0h"
+      "duration_ms": 159000,
+      "name": "\u66d6\u6627\u306aBEACH",
+      "url": "https://open.spotify.com/track/2XRkUOFsDCYp7nkQJ6e56K"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -567,22 +567,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
-        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
-      },
-      "artists": [
-        {
-          "name": "YAJICO GIRL",
-          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
-        }
-      ],
-      "duration_ms": 181046,
-      "name": "Better",
-      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "\u30ed\u30f3\u30ea\u30fc\u30d1\u30e9\u30c9\u30c3\u30af\u30b9",
         "url": "https://open.spotify.com/album/4KadXvqLOsB4WUCHzleYFV"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 248098,
       "name": "TOMODACHI",
       "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "\u30a2\u30a6\u30c8\u30c9\u30a2",
+        "url": "https://open.spotify.com/album/09M7MDrrEsRKClNdsqRJiE"
+      },
+      "artists": [
+        {
+          "name": "YAJICO GIRL",
+          "url": "https://open.spotify.com/artist/0Tf7tr107S3YnHo2BIOPX4"
+        }
+      ],
+      "duration_ms": 181046,
+      "name": "Better",
+      "url": "https://open.spotify.com/track/4C1iAPN2r62BdD8Av9Wn2P"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "tonun 2",
-        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
-      },
-      "artists": [
-        {
-          "name": "tonun",
-          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
-        }
-      ],
-      "duration_ms": 205253,
-      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
-      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "HONDA",
         "url": "https://open.spotify.com/album/42h4n4IVhO4YEIKXmREkxN"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 239746,
       "name": "HONDA",
       "url": "https://open.spotify.com/track/3dmfvWITuVs9OumXtwpAPJ"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "tonun 2",
+        "url": "https://open.spotify.com/album/4Va4650eo5pMd1lLA8B7uQ"
+      },
+      "artists": [
+        {
+          "name": "tonun",
+          "url": "https://open.spotify.com/artist/4eF1tYcUa9voNDX7xVTrZG"
+        }
+      ],
+      "duration_ms": 205253,
+      "name": "\u7425\u73c0\u8272\u306e\u7d20\u808c",
+      "url": "https://open.spotify.com/track/6uXKnO2VayAfcEFH7NzbhB"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
+        "name": "\u5206\u96e2\u6d3e\u306e\u590f",
+        "url": "https://open.spotify.com/album/2VoiEyYHs8DJvDZFa5IPi2"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        },
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 279093,
+      "name": "Lonely One",
+      "url": "https://open.spotify.com/track/5F5P9HHegA1dSyoRaZvYaf"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
         "name": "HOME TOWN \uff5eCover Songs\uff5e",
         "url": "https://open.spotify.com/album/2zICjNYAAbuutU66vI6svi"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 275912,
       "name": "\u60b2\u3057\u307f\u304c\u3068\u307e\u3089\u306a\u3044 I CAN'T STOP THE LONELINESS (feat. \u3072\u304b\u308a)",
       "url": "https://open.spotify.com/track/1QNbkBKOiBILvRAzkyvtqC"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
-        "name": "\u5206\u96e2\u6d3e\u306e\u590f",
-        "url": "https://open.spotify.com/album/2VoiEyYHs8DJvDZFa5IPi2"
-      },
-      "artists": [
-        {
-          "name": "Nariaki",
-          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
-        },
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 279093,
-      "name": "Lonely One",
-      "url": "https://open.spotify.com/track/5F5P9HHegA1dSyoRaZvYaf"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "Twenty-Twenty",
-        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
-      },
-      "artists": [
-        {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
-        }
-      ],
-      "duration_ms": 242836,
-      "name": "Twenty-Twenty",
-      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
-    },
-    {
-      "added_at": "2024-09-25 04:21:27",
-      "album": {
         "name": "\u30a4\u30f3\u30ca\u30fc\u30c0\u30a4\u30a2\u30ed\u30b0",
         "url": "https://open.spotify.com/album/4bhJB89vkQ7S1jgpeOvPqs"
       },
@@ -1551,18 +1535,18 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "FEEL GOOD",
-        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
+        "name": "Twenty-Twenty",
+        "url": "https://open.spotify.com/album/5ZCmrjwKTFHWI8w4QDuLjP"
       },
       "artists": [
         {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 305760,
-      "name": "LOOP",
-      "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
+      "duration_ms": 242836,
+      "name": "Twenty-Twenty",
+      "url": "https://open.spotify.com/track/4yMTmbUIx1oCQkGDseKBDW"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1595,18 +1579,34 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "STARLIGHT",
-        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
+        "name": "FEEL GOOD",
+        "url": "https://open.spotify.com/album/3rpZ8w31gIKrqWXI4hSlmn"
       },
       "artists": [
         {
-          "name": "iri",
-          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
         }
       ],
-      "duration_ms": 187557,
-      "name": "STARLIGHT",
-      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
+      "duration_ms": 305760,
+      "name": "LOOP",
+      "url": "https://open.spotify.com/track/0njFXMhCDQ1MHAZJXurgvN"
+    },
+    {
+      "added_at": "2024-09-25 04:21:27",
+      "album": {
+        "name": "City Girl",
+        "url": "https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a"
+      },
+      "artists": [
+        {
+          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
+          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+        }
+      ],
+      "duration_ms": 240205,
+      "name": "City Girl",
+      "url": "https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q"
     },
     {
       "added_at": "2024-09-25 04:21:27",
@@ -1627,18 +1627,18 @@
     {
       "added_at": "2024-09-25 04:21:27",
       "album": {
-        "name": "City Girl",
-        "url": "https://open.spotify.com/album/1iEEMuYRyBL7anoLkHXz7a"
+        "name": "STARLIGHT",
+        "url": "https://open.spotify.com/album/2SFu5LR3Dd4v4ms8YQULUd"
       },
       "artists": [
         {
-          "name": "\u30dc\u30bf\u30cb\u30ab\u30eb\u306a\u66ae\u3089\u3057\u3002",
-          "url": "https://open.spotify.com/artist/14K2FbpG5vkdJZiMx5JPh5"
+          "name": "iri",
+          "url": "https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9"
         }
       ],
-      "duration_ms": 240205,
-      "name": "City Girl",
-      "url": "https://open.spotify.com/track/6CDNvw1UvFtZAKZ1miGx1Q"
+      "duration_ms": 187557,
+      "name": "STARLIGHT",
+      "url": "https://open.spotify.com/track/1jN4iYlI3s1EVDnzhHL1LT"
     },
     {
       "added_at": "2024-09-25 04:21:27",

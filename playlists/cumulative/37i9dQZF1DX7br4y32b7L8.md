@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-646 songs - 1 day 8 hr 48 min
+647 songs - 1 day 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Champagne Coast](https://open.spotify.com/track/2kSGp5ZmO7u1Ine84Rx0w1) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Champagne Coast](https://open.spotify.com/album/4TsFGVDbd2kmlT1uLTsgeE) | 4:52 | 2024-07-10 | 2024-10-02 |
 | [Charm](https://open.spotify.com/track/1iBWjQ9af9NnUd5xnQDB3k) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Rave & Roses Ultra](https://open.spotify.com/album/0nayxjaX54Frd7GsZq6Pbs) | 3:24 | 2023-05-25 | 2023-06-27 |
 | [Chasing Highs](https://open.spotify.com/track/3GJjiToqnCxTm5rOaqoxdi) | [ALMA](https://open.spotify.com/artist/6c0mTNAxJxlp9HpKTUZwA8) | [Chasing Highs](https://open.spotify.com/album/1nF6jsEiGpdjS7gG3DPaIP) | 3:15 | 2023-04-14 | 2023-06-27 |
-| [chille guy](https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [chille guy](https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ) | 1:40 | 2024-12-18 |  |
+| [chille guy](https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [chille guy](https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ) | 1:40 | 2024-12-18 | 2025-01-16 |
 | [Christmas Bae](https://open.spotify.com/track/0GsNzZNqLPrNnJswoQOCtO) | [Yade Lauren](https://open.spotify.com/artist/2YkP9pfIZ6hJKeuppuz8qT) | [Christmas Bae](https://open.spotify.com/album/5A5f08mnl1DLQijHRpTank) | 3:10 | 2024-12-18 | 2024-12-27 |
 | [Company](https://open.spotify.com/track/61uyGDPJ06MkxJtHgPmuyO) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Purpose \(Deluxe\)](https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr) | 3:28 | 2023-06-07 | 2023-07-19 |
 | [Confidence](https://open.spotify.com/track/7to68V64Cu6zk0UDo5tyw3) | [Ocean Alley](https://open.spotify.com/artist/18lpwfiys4GtdHWNUu9qQr) | [Chiaroscuro](https://open.spotify.com/album/0MVMsDS0kofp6A8cbJ5kSH) | 4:13 | 2023-11-23 | 2023-12-30 |
@@ -151,6 +151,7 @@
 | [Droom Groot](https://open.spotify.com/track/4XiYnHAolrUxuRCaGLFG0R) | [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [Droom Groot](https://open.spotify.com/album/6FflzXl74BClk23mWHzg6U) | 3:00 | 2023-08-24 | 2024-02-09 |
 | [Drop It Like It's Hot](https://open.spotify.com/track/2NBQmPrOEEjA8VbeWOQGxO) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [R&G \(Rhythm & Gangsta\): The Masterpiece](https://open.spotify.com/album/797fkvAtk0iZvP1HHPCWbp) | 4:26 | 2024-11-11 |  |
 | [Drunk in Love \(Henny\)](https://open.spotify.com/track/14xuT74kDW0LIPMsr5g5zf) | [JMANI](https://open.spotify.com/artist/1QR6WDewVzcY8JrxP5Gyj3) | [Drunk in Love \(Henny\)](https://open.spotify.com/album/3AUvqkp5zza0MWlpv5OAwn) | 1:44 | 2023-03-16 | 2023-05-02 |
+| [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 | 2025-01-15 |  |
 | [Dubai Mall](https://open.spotify.com/track/3drEDWdAmV5hf0yyVZcUGW) | [Dopebwoy](https://open.spotify.com/artist/6OQggpm01CmAB717TKtDCr) | [Hoogseizoen \(Deluxe\)](https://open.spotify.com/album/4SyOVodNvFJFAdtFKXHFIS) | 2:30 | 2024-09-17 |  |
 | [Duimpje Omhoog](https://open.spotify.com/track/4AGG98m7CTokp6pCyBPPFn) | [Luan Bellinga](https://open.spotify.com/artist/0l9QR9crgovNqP3wU3QtUP) | [Duimpje Omhoog](https://open.spotify.com/album/6N1m60aUUKZnMZk5hv5Zvk) | 2:36 | 2024-04-16 | 2024-06-27 |
 | [Dumb Ways to Die](https://open.spotify.com/track/180MVaidIYWpB1MSYEv5BI) | [Tangerine Kitty](https://open.spotify.com/artist/3pJh0RWw3DrGBnS70xcI2T) | [Dumb Ways to Die](https://open.spotify.com/album/4Bd3TKczuye0zb8w9i45R6) | 3:00 | 2023-03-06 | 2023-04-19 |

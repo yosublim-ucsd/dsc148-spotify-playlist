@@ -1,12 +1,12 @@
 {
   "description": "This is Kaliii. The essential tracks, all in one playlist.",
-  "num_followers": 4170,
+  "num_followers": 4176,
   "original_name": "This Is Kaliii",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAAA1JtJH454XtI3leqiAx2cw",
+  "snapshot_id": "Z4WpAAAAAAAnPDCeaC0BopOnJCKMh0OS",
   "tracks": [
     {
       "added_at": null,
@@ -867,8 +867,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bout U",
-        "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
+        "name": "OOP",
+        "url": "https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ"
       },
       "artists": [
         {
@@ -876,9 +876,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 159755,
-      "name": "Bout U",
-      "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
+      "duration_ms": 130813,
+      "name": "OOP",
+      "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
     },
     {
       "added_at": null,
@@ -919,8 +919,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "OOP",
-        "url": "https://open.spotify.com/album/2rUO2lLr9lVGLpmRmYOJBJ"
+        "name": "Bout U",
+        "url": "https://open.spotify.com/album/3rvffEg9rXY78ubquxxwOX"
       },
       "artists": [
         {
@@ -928,9 +928,9 @@
           "url": "https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL"
         }
       ],
-      "duration_ms": 130813,
-      "name": "OOP",
-      "url": "https://open.spotify.com/track/3ZZ2kSbVdgOhgoYFqQEsGB"
+      "duration_ms": 159755,
+      "name": "Bout U",
+      "url": "https://open.spotify.com/track/3QWiUcQwaFsR7a4U1zOKmX"
     },
     {
       "added_at": null,

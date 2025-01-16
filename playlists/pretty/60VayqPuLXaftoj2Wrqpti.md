@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 
 > Explore this week’s new additions to KEXP’s rotation! Our rotation consists of key new releases made available for our DJs to select from during their shows\. You can tune in 24/7 to independent, listener powered KEXP through our website and mobile apps\. Learn more and join our community at kexp.org!
 
-[KEXP](https://open.spotify.com/user/kexp_official) - 1,690 likes - 69 songs - 4 hr 15 min
+[KEXP](https://open.spotify.com/user/kexp_official) - 1,694 likes - 69 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/60VayqPuLXaftoj2Wrqpti.md) - [plain]
 | 59 | [You Got Something](https://open.spotify.com/track/5FI7iWyTJzHkKXXwl68CDX) | [TAURO](https://open.spotify.com/artist/7CeCmFLuyLAjCQySMceCfe) | [You Got Something](https://open.spotify.com/album/32tuc9lSfkBiJMG89c3mxc) | 3:37 |
 | 60 | [Summer of Love](https://open.spotify.com/track/0SxzAYHnrCFcM2tvbvLzEn) | [Throwing Muses](https://open.spotify.com/artist/5xU5wRTlZHVRoo2OxPvqA4) | [Summer of Love](https://open.spotify.com/album/1HEmpujRxk0ioGoJ0jAlws) | 2:59 |
 | 61 | [Distract Me](https://open.spotify.com/track/2YmfRmTp5WgmBMIvWVG80u) | [Tinsley](https://open.spotify.com/artist/1encEkVjZ4iqby8BXZc8Pa) | [Tinsley](https://open.spotify.com/album/4c4yxOlxGSTu5LT4siFlsS) | 3:27 |
-| 62 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [grouptherapy.](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
+| 62 | [Feel It](https://open.spotify.com/track/6AOMxDZmLtuheozfRzf12V) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [Feel It](https://open.spotify.com/album/1Qug9yhly0QovQX9exYx42) | 3:47 |
 | 63 | [pour toi](https://open.spotify.com/track/5MPclKo4adKPswA74m0aPk) | [Tom D.](https://open.spotify.com/artist/10FRD2SQAGX1mwDJ5ZWg6M) | [älska 44](https://open.spotify.com/album/0cPIjgGDEj9E9yy8ArmxMP) | 2:37 |
 | 64 | [Infinite Health \- Vocal Edit](https://open.spotify.com/track/5kohDbiwjlb56k47KmG5vH) | [Tycho](https://open.spotify.com/artist/5oOhM2DFWab8XhSdQiITry), [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Where You Are](https://open.spotify.com/album/1vnLxGXuUcKPQF1iG4l7go) | 4:29 |
 | 65 | [Rebirth Mantra](https://open.spotify.com/track/1VmYFTmPvVGSI2oXBhvaJI) | [Weep Wave](https://open.spotify.com/artist/5JeSvYuWh9NmdgykwMUQfE) | [Speck](https://open.spotify.com/album/0UkSGtqf94G0R7UZYQLOsO) | 2:49 |

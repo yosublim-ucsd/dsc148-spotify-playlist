@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "\bTrendy & Chill Korean R&B music. (Cover: KWON EUNBI(\uad8c\uc740\ube44))",
+  "description": "\bTrendy & Chill Korean R&B music. (Cover: HUH YUNJIN(\ud5c8\uc724\uc9c4))",
   "name": "TrenChill K-R&B",
   "tracks": [
     {
@@ -8236,7 +8236,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 205293,
       "name": "Love Again",
       "url": "https://open.spotify.com/track/4dYODiAYvJHWQJtNganYCY"
@@ -10313,6 +10313,28 @@
     },
     {
       "album": {
+        "name": "B\u00fcnyTune ep.1 [Oh, really]",
+        "url": "https://open.spotify.com/album/5dYVwufw2APWlO2MawZUsO"
+      },
+      "artists": [
+        {
+          "name": "Gist",
+          "url": "https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk"
+        },
+        {
+          "name": "B\u00fcnyTune",
+          "url": "https://open.spotify.com/artist/7fi5SKEN6A2w5uzxlUyZIY"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155466,
+      "name": "Oh, really",
+      "url": "https://open.spotify.com/track/7k9n9uswHNxkDyCyurpfjE"
+    },
+    {
+      "album": {
         "name": "proLOG?",
         "url": "https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9"
       },
@@ -11898,7 +11920,7 @@
       ],
       "date_added": "2022-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 170800,
       "name": "Scaredy Cat",
       "url": "https://open.spotify.com/track/4LkXtklCusSbi6UxYWgH8B"
@@ -12588,7 +12610,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 149786,
       "name": "Snowfall (Feat. Coogie)",
       "url": "https://open.spotify.com/track/18ewGSc5gtXW9WbARDalca"
@@ -13571,6 +13593,28 @@
     },
     {
       "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0IdZGZ4CGgMj4fhYXzxR4D"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228671,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ"
+    },
+    {
+      "album": {
         "name": "Kinda fool",
         "url": "https://open.spotify.com/album/6Jb38a6XC1akktIp3DJleC"
       },
@@ -14110,7 +14154,7 @@
       ],
       "date_added": "2024-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 190187,
       "name": "TOXIC",
       "url": "https://open.spotify.com/track/22iBm7pEbvQk4HPrKWOuqQ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 
 > Resonancias extraordinarias de luminiscencia inclasificable\. Con ha$lopablito en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,942 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,952 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX42OMh36xkYf.md) - [plain]
 | 13 | [Ley universal](https://open.spotify.com/track/3dC9fYYyH5oGu8mQbcE8HQ) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Ley universal](https://open.spotify.com/album/0UoP5K4k5NrxoYmtG3z0XG) | 3:09 |
 | 14 | [funkoh](https://open.spotify.com/track/19THXlsjKNMLxyIspMppkf) | [Baskiat](https://open.spotify.com/artist/72L1NTsOwE8ZZ6kxll4UwU), [RK wavy](https://open.spotify.com/artist/1ZIBlhnSXQJU5Xmn1rh07r) | [Salvadora](https://open.spotify.com/album/6zU4EmRM6uuVfUUZkLZoBr) | 2:57 |
 | 15 | [Florecer Contigo](https://open.spotify.com/track/7BizyJuwuuRYp4hnExnO16) | [Nasa Histoires](https://open.spotify.com/artist/2nAAvoxXJdXRyKH2srQ3qu), [Pedrina](https://open.spotify.com/artist/7BdQWt4FjHEvmTH6jmaJd1) | [Florecer Contigo](https://open.spotify.com/album/60u8fR1xRaw7SWKIn0J3XG) | 2:47 |
-| 16 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/3AZR34qL28NdrSUUXEeU8h) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 |
+| 16 | [Película](https://open.spotify.com/track/4R8JF3mYzm28iU8AbibPJO) | [Perras on the beach](https://open.spotify.com/artist/0mSn9qsGHUMllx267A3qX3) | [Película](https://open.spotify.com/album/1d4vNIf3aUIH4W6xjk7pfr) | 1:59 |
 | 17 | [MOJABI GHOST](https://open.spotify.com/track/4eMKD8MRroxCqugpsxCCNb) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DATA](https://open.spotify.com/album/6xRxlUUfg3M0QB1LUX89gA) | 3:52 |
 | 18 | [NASSY](https://open.spotify.com/track/4nSHTVJ02gfFOlsaeXLtgM) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [Dr\. Ryo](https://open.spotify.com/artist/70pGSyjPtM1XYHV4T5zOAp) | [NASSY](https://open.spotify.com/album/4u0VOseC8JpZJ76xaVNLlo) | 2:22 |
 | 19 | [Red Hot Chile Papers](https://open.spotify.com/track/6e5OMnekNGplphCr01YK7q) | [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO), [Nfx](https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Frank Lucas](https://open.spotify.com/artist/4YWD5LjplBEohow8eVg230), [Don Cupón](https://open.spotify.com/artist/2xU1khcfqErVoih679pYM1) | [Red Hot Chile Papers](https://open.spotify.com/album/6l1q4am1kKUk0AihwVDKca) | 4:46 |

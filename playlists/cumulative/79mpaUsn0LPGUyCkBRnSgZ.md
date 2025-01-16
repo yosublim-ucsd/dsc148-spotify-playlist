@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-785 songs - 2 day 4 hr 41 min
+788 songs - 2 day 4 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -212,6 +212,7 @@
 | [Dreaming, backwards](https://open.spotify.com/track/5rYwlaFTyCKfkwOJKbjTp1) | [Ella Vos](https://open.spotify.com/artist/2zmrsXMHxagFz6vI2cD7r6) | [Turbulence](https://open.spotify.com/album/3KgzhcQdPTZOkIXHuxpiYH) | 3:33 | 2024-07-29 | 2024-07-31 |
 | [Drive](https://open.spotify.com/track/3geRffSf6eAruhg23RkpKV) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Automatic For The People](https://open.spotify.com/album/0BiNb8HYR4JvuxUa31Z58Q) | 4:31 | 2022-06-16 | 2023-12-14 |
 | [Drone](https://open.spotify.com/track/3ZQpms23dgtgox86dd7eGV) | [Chastity Belt](https://open.spotify.com/artist/1tho5dJnzdYD57EQkM3SmK) | [Time to Go Home](https://open.spotify.com/album/6qGYhu450Xc73YbNAVkM3U) | 4:33 | 2023-08-12 |  |
+| [Drowned World / Substitute for Love](https://open.spotify.com/track/0beXeFEWUYYY13fYVHTtFk) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [Ray of Light](https://open.spotify.com/album/6cuNyrSmRjBeekioLdLkvI) | 5:08 | 2025-01-15 |  |
 | [Dumbest Girl Alive](https://open.spotify.com/track/0qMZXgcLfkl5RI3q50KHMH) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3) | [10,000 gecs](https://open.spotify.com/album/2XS5McKf3zdJWpcZ4OkZPZ) | 2:17 | 2023-03-17 | 2023-04-03 |
 | [DUSTCUTTER](https://open.spotify.com/track/1BJjqtZir1VxnFMe4E668u) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [SCRAPYARD](https://open.spotify.com/album/1S9MukUQEFAYCqlfrwqMd6) | 2:44 | 2024-03-01 |  |
 | [Earth Worship Intro](https://open.spotify.com/track/713DQ7jH7YpNoPyLffdCPT) | [Rubblebucket](https://open.spotify.com/artist/6xriZDSK3wPXhOoZXr9fzF) | [Earth Worship](https://open.spotify.com/album/2y5dQYzr7Q4me0JhXU2RcD) | 0:18 | 2024-01-03 |  |
@@ -292,6 +293,7 @@
 | [Harness](https://open.spotify.com/track/3sWpoyNFD7eHsLXwanQdkf) | [Wilma Vritra](https://open.spotify.com/artist/4bTUUfUPhp9CENuMnDoiyT), [Wilma Archer](https://open.spotify.com/artist/0uo6UbyUYXbG4xBT7vBGSx), [VRITRA](https://open.spotify.com/artist/2p13eHCal7qrUX1r0Hb7T7) | [Burd](https://open.spotify.com/album/5S6fq747SpoPTJQ4c4rl05) | 4:12 | 2024-06-02 |  |
 | [Haunted House on Zillow](https://open.spotify.com/track/6WDNTF2UZH8eGHFUH3xkcO) | [The Garden](https://open.spotify.com/artist/4UVlSeEFDPmlkYKaRMRoOz) | [HORSESHIT ON ROUTE 66](https://open.spotify.com/album/1Wgcuni5PXwaTtRoo5SbmF) | 1:14 | 2023-04-25 |  |
 | [Heart It Races](https://open.spotify.com/track/6SHYWXOqmf0fBWO1k0Zz2k) | [Architecture In Helsinki](https://open.spotify.com/artist/60eT7q88iLWKnuSXed1AGr) | [Places Like This](https://open.spotify.com/album/1b4lom8FxPZKDw21uWK5aM) | 3:14 | 2023-10-16 |  |
+| [Heavenward](https://open.spotify.com/track/5LXg8cfq5hyegv2AwFlkV7) | [Wolf Alice](https://open.spotify.com/artist/3btzEQD6sugImIHPMRgkwV) | [Visions Of A Life](https://open.spotify.com/album/7BJmbXNSX1tUPmVjvrlqvz) | 4:55 | 2025-01-15 |  |
 | [Hechicera](https://open.spotify.com/track/74RHM3SJHwhBNHiwZD1mZN) | [Maná](https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz) | [Sueños Líquidos](https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V) | 4:58 | 2024-08-22 |  |
 | [Heroes And Villains \- Remastered 2001](https://open.spotify.com/track/7BO7ZbaEmgCSSp3znPMxN4) | [The Beach Boys](https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV) | [Smiley Smile \(Remastered\)](https://open.spotify.com/album/37rNuexqEXWeSIOiJtn3A9) | 3:39 | 2022-04-23 | 2023-08-06 |
 | [Hidden Place](https://open.spotify.com/track/5bnX0zhTVV1H5gNVjVhgaL) | [Björk](https://open.spotify.com/artist/7w29UYBi0qsHi5RTcv3lmA) | [Vespertine](https://open.spotify.com/album/5vBpIxm8ws6pWyVmTWiGE1) | 5:28 | 2022-09-30 | 2023-12-14 |
@@ -693,6 +695,7 @@
 | [The Overwhelming Event](https://open.spotify.com/track/7lWkreHFTUhYyLy1GRQk7O) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 2:17 | 2022-01-22 | 2023-08-20 |
 | [The Plan](https://open.spotify.com/track/5nrIEQ6ZmVwt9Pfr3ydvbn) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 3:29 | 2022-09-20 |  |
 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 | 2023-12-30 |  |
+| [The Rolling Stones](https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 | 2025-01-15 |  |
 | [The Song Remains the Same \- Remaster](https://open.spotify.com/track/2e61kmae4HhbuS9hYONQ0A) | [Led Zeppelin](https://open.spotify.com/artist/36QJpDe2go2KgaRleHCDTp) | [Houses of the Holy \(Remaster\)](https://open.spotify.com/album/0GqpoHJREPp0iuXK3HzrHk) | 5:29 | 2023-02-11 |  |
 | [The Sound Of Confusion](https://open.spotify.com/track/3zUKCWesKho55Jm6e6JPpV) | [Spacemen 3](https://open.spotify.com/artist/1ZOlVrZ2MtNSY9LcFYklDB) | [Taking Drugs To Make Music To Take Drugs To \(Remastered\)](https://open.spotify.com/album/60dj0AVW7k2jFHPPLN6J1X) | 5:54 | 2024-07-09 |  |
 | [The State I'm In](https://open.spotify.com/track/6EVioebGhehJKoNrpn4WK3) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [Tigermilk](https://open.spotify.com/album/3MSxGvwpiKePFsygmWT3G9) | 4:57 | 2023-02-19 |  |

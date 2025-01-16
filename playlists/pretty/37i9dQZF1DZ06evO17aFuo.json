@@ -1,12 +1,12 @@
 {
   "description": "This is Megadeth. The essential tracks, all in one playlist.",
-  "num_followers": 295085,
+  "num_followers": 295154,
   "original_name": "This Is Megadeth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAAAY3VAVL0eh7R+Pd4PFyS3F",
+  "snapshot_id": "Z4WpAAAAAACFYK3GAMqKByBMOr5adfV9",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Wake Up Dead - 2004 Remaster",
-      "url": "https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Youthanasia (Expanded Edition - Remastered)",
         "url": "https://open.spotify.com/album/5UvUjC3G4UKSrwOeBA0qob"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 211226,
       "name": "Train Of Consequences - Remastered 2004",
       "url": "https://open.spotify.com/track/03Yv8adIIOsRACDHLUYS9l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Peace Sells...But Who's Buying? (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/4U8ZF5zDIRy4lBnnXBN2uO"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Wake Up Dead - 2004 Remaster",
+      "url": "https://open.spotify.com/track/1I3qfFMraXE0kAPtRERpok"
     },
     {
       "added_at": null,
@@ -587,6 +587,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hidden Treasures",
+        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+      },
+      "artists": [
+        {
+          "name": "Megadeth",
+          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
+        }
+      ],
+      "duration_ms": 238946,
+      "name": "99 Ways To Die",
+      "url": "https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dystopia",
         "url": "https://open.spotify.com/album/4sP7CAPrmdBD1ojBBrPxiV"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 262026,
       "name": "The Threat Is Real",
       "url": "https://open.spotify.com/track/5qrlMOwqunICbaOZaKAoBN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cryptic Writings (Expanded Edition - Remastered)",
-        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
-      },
-      "artists": [
-        {
-          "name": "Megadeth",
-          "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
-        }
-      ],
-      "duration_ms": 248560,
-      "name": "Almost Honest - Remastered 2004 / Remixed",
-      "url": "https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hidden Treasures",
-        "url": "https://open.spotify.com/album/3jfeL3OUh2Kimx9ZKja8fY"
+        "name": "Cryptic Writings (Expanded Edition - Remastered)",
+        "url": "https://open.spotify.com/album/208z3e7R5PgavBMdEZQcvL"
       },
       "artists": [
         {
@@ -644,9 +644,9 @@
           "url": "https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf"
         }
       ],
-      "duration_ms": 238946,
-      "name": "99 Ways To Die",
-      "url": "https://open.spotify.com/track/75t7W9LYbkgbkeT6B5EoHM"
+      "duration_ms": 248560,
+      "name": "Almost Honest - Remastered 2004 / Remixed",
+      "url": "https://open.spotify.com/track/2uw3kbepHeeeLTykdUeOtI"
     },
     {
       "added_at": null,

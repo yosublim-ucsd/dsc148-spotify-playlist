@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 
 > This is Passion\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,248 likes - 50 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,258 likes - 50 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 37 | [Amazing Grace \(My Chains Are Gone\) \- Live](https://open.spotify.com/track/1B446v2zWyL6AEq2BnKL2J) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Passion: A Generation United For His Renown](https://open.spotify.com/album/4dVSiUwUhSjhFjtoh0Jn2T) | 8:34 |
 | 38 | [You Are My King \(Amazing Love\) \- Live/2006 Remastered](https://open.spotify.com/track/6SvW9GN8EBSqfgBJfC3rHA) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [The Best Of Passion \(So Far\) \[Live\]](https://open.spotify.com/album/4XEkJ32aRYJ85OnaEykBEc) | 5:23 |
 | 39 | [Here It Is \(I Worship You\) \- Live From Passion 2023](https://open.spotify.com/track/70xFZ3jcTwlgBlAD8TjHjF) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 5:13 |
-| 40 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
-| 41 | [The Stand \- Live](https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Awakening \(Live\)](https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54) | 6:08 |
+| 40 | [The Stand \- Live](https://open.spotify.com/track/57uVEAkBfidAvupugoVuHZ) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Passion: Awakening \(Live\)](https://open.spotify.com/album/79Mqp9oHYgCsGx9n5k7U54) | 6:08 |
+| 41 | [Yesterday, Today And Forever \- Live From Passion 2022](https://open.spotify.com/track/1C0CeB7C4C2My3FicKyj7z) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Burn Bright](https://open.spotify.com/album/0zR5MvLOfhpjBjrgnnUrpX) | 5:40 |
 | 42 | [How He Loves \- Live](https://open.spotify.com/track/5z24Hr3TKxeyeLRKFRHuzB) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Crowder](https://open.spotify.com/artist/39xmI59WrIMyyJjSDq6WCu) | [Passion: Even So Come \(Deluxe Edition/Live\)](https://open.spotify.com/album/4tC75ntB2W3ORGGVhvFVmg) | 4:43 |
 | 43 | [Gratitude \- Live From Passion 2023](https://open.spotify.com/track/5o9yTuxw54Wo2JtO8J1zz7) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16) | [I've Witnessed It \(Live\)](https://open.spotify.com/album/5MHD9eXPUItlxVK2tbfTEp) | 6:18 |
 | 44 | [Bigger Than I Thought \- Live](https://open.spotify.com/track/1t3AJY56yarBeRWzNnUZXk) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Sean Curran](https://open.spotify.com/artist/4OWmbcuUeVoBCmgMEASW3c) | [Follow You Anywhere \(Live\)](https://open.spotify.com/album/5USbe9zgTU8KtLWdpsSBZ1) | 7:12 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MA8us.md) - [plain]
 | 49 | [God Of Wonders \- Live](https://open.spotify.com/track/2DfkjvYqfT83ypbjIkBRBp) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Chris Tomlin Collection](https://open.spotify.com/album/1VRAoAI3SKZCPBk74dTZlT) | 4:38 |
 | 50 | [Breathe \- Live](https://open.spotify.com/track/1NUMrYjwOu7FHB2PgMZb97) | [Passion](https://open.spotify.com/artist/6piIAIurGAryW5h1rqQC16), [Christy Nockels](https://open.spotify.com/artist/0XFBXku1ro7p7bjFQk98o6) | [Songs That Changed The Church \- Worship](https://open.spotify.com/album/2UeKzgjz3ioCawbhaR4rjr) | 4:12 |
 
-Snapshot ID: `Z4RXgAAAAAAfdBa41FynLEOHDHzg0bXM`
+Snapshot ID: `Z4WpAAAAAADCqXDJkJwhYMgBc25zVUx9`

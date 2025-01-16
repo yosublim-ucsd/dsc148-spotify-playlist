@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 
 > 50 canciones que llenan tu rutina de pura energía.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,467 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,550 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVzL4bYZBn6V.md) - [plain]
 | 26 | [Pump up the Volume](https://open.spotify.com/track/1D5Kc0zv5rbbDwKbu0YTDd) | [Andruss](https://open.spotify.com/artist/6HZwb7Zbnvfo8u1sst4QrI), [Juarez](https://open.spotify.com/artist/0Infrp3tv1N9fmtOhctOfN) | [Pump up the Volume](https://open.spotify.com/album/6lKCdY9YNuLLMNN7FqMHm8) | 3:28 |
 | 27 | [Feel This Way](https://open.spotify.com/track/4agUkSkSCmHLMmOfcAnZuN) | [Enkode](https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee) | [Feel This Way](https://open.spotify.com/album/43rxxp3huVJbLUMBhNM23y) | 2:54 |
 | 28 | [Memories](https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9) | [Luis JR](https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj), [D'ALEX](https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4) | [Memories](https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR) | 3:36 |
-| 29 | [Dance and Chant](https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq) | 3:09 |
-| 30 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 |
+| 29 | [Nada](https://open.spotify.com/track/1mlm9a4lCSLazplVoS15Fn) | [Madhouse](https://open.spotify.com/artist/74YcnRxZTY5Nu1RIqS8ovS), [Angel Vergara](https://open.spotify.com/artist/5MPkxfxPIhOca5QfYPfP2x) | [Nada](https://open.spotify.com/album/5NTJKD9sSSUkWDBfTjp7E1) | 3:21 |
+| 30 | [Dance and Chant](https://open.spotify.com/track/1ZhpOYEE0nGcn0k7Ai7DK1) | [Yolanda Be Cool](https://open.spotify.com/artist/4KkHjCe8ouh8C2P9LPoD4F) | [Dance and Chant](https://open.spotify.com/album/1kyWzwoj5zkIK71DCoHXIq) | 3:09 |
 | 31 | [One A Day](https://open.spotify.com/track/09VGT0e2aYkoCVNRjOPKZa) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [One A Day](https://open.spotify.com/album/7a3CD5WnyDxWxpCaBQHYHx) | 3:12 |
 | 32 | [Hey You \(Love Comes First\)](https://open.spotify.com/track/1S1HrkjxspECOxst4NJavc) | [Chemical Neon](https://open.spotify.com/artist/4mAq0LHObKTj1SaNZ9Nt8K), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN), [LiMa](https://open.spotify.com/artist/5jbXNyTXpJYKeYsmweGIgH) | [Hey You \(Love Comes First\)](https://open.spotify.com/album/7yNA4WraWbiML4PlkxtI8I) | 3:07 |
 | 33 | [Anywhere](https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto) | [Cytrax](https://open.spotify.com/artist/654q5ND8XzmkMhxU1JwS2U), [Sebastian Mateo](https://open.spotify.com/artist/4McoittPoukRnXpQM6oqus) | [Anywhere](https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB) | 2:22 |

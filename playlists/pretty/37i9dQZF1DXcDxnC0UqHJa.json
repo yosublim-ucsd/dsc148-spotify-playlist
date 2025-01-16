@@ -1,6 +1,6 @@
 {
   "description": "Folksy takes on your favorite tracks. Cover: Timoth\u00e9e Chalamet in A Complete Unknown",
-  "num_followers": 463552,
+  "num_followers": 463594,
   "original_name": "Folksy Covers",
   "owner": {
     "name": "Spotify",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
-        "name": "Other People's Songs",
-        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
-      },
-      "artists": [
-        {
-          "name": "The Ballroom Thieves",
-          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
-        }
-      ],
-      "duration_ms": 288764,
-      "name": "Don\u2019t It Feel Good",
-      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
-    },
-    {
-      "added_at": "2025-01-07 16:54:08",
-      "album": {
         "name": "I Still Haven't Found What I'm Looking For / my future",
         "url": "https://open.spotify.com/album/1mgj4CyzzcC05pQQGoPzLN"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 191757,
       "name": "my future",
       "url": "https://open.spotify.com/track/3c7TKVVuRrsem9PdJM0D0L"
+    },
+    {
+      "added_at": "2025-01-07 16:54:08",
+      "album": {
+        "name": "Other People's Songs",
+        "url": "https://open.spotify.com/album/5287cTjfvK8SVYe6cXsEUD"
+      },
+      "artists": [
+        {
+          "name": "The Ballroom Thieves",
+          "url": "https://open.spotify.com/artist/7kZBQcHbD4IKKEJIMnrRWC"
+        }
+      ],
+      "duration_ms": 288764,
+      "name": "Don\u2019t It Feel Good",
+      "url": "https://open.spotify.com/track/54MnItgRx6drIxYDu9Sb1d"
     },
     {
       "added_at": "2025-01-07 16:54:08",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
-        "name": "Young Brigham",
-        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
-      },
-      "artists": [
-        {
-          "name": "Ramblin' Jack Elliott",
-          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
-        }
-      ],
-      "duration_ms": 304693,
-      "name": "If I Were A Carpenter",
-      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
-    },
-    {
-      "added_at": "2025-01-07 16:54:08",
-      "album": {
         "name": "By Your Side / Landslide",
         "url": "https://open.spotify.com/album/47U7NxrdQgfj6Er5KVpz42"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 266000,
       "name": "By Your Side",
       "url": "https://open.spotify.com/track/5bkGMS8DlS5yLnGumN5Hz4"
+    },
+    {
+      "added_at": "2025-01-07 16:54:08",
+      "album": {
+        "name": "Young Brigham",
+        "url": "https://open.spotify.com/album/4m1PEBRoanU0XSqZMBQ5yO"
+      },
+      "artists": [
+        {
+          "name": "Ramblin' Jack Elliott",
+          "url": "https://open.spotify.com/artist/6iuM8yp1x2N0l6SONhyq4b"
+        }
+      ],
+      "duration_ms": 304693,
+      "name": "If I Were A Carpenter",
+      "url": "https://open.spotify.com/track/07yhlDqS99totZZkdQEWBW"
     },
     {
       "added_at": "2025-01-07 16:54:08",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
-        "name": "Sparks",
-        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
-      },
-      "artists": [
-        {
-          "name": "Jordana",
-          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
-        }
-      ],
-      "duration_ms": 218750,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
-    },
-    {
-      "added_at": "2025-01-07 16:54:08",
-      "album": {
         "name": "Reason to Believe (feat. Courtney Barnett)",
         "url": "https://open.spotify.com/album/3XS1FYnvexIhkkkLEkaEMX"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 149445,
       "name": "Reason to Believe (feat. Courtney Barnett)",
       "url": "https://open.spotify.com/track/7aDf2PpDNfT5NbKEIZVKtW"
+    },
+    {
+      "added_at": "2025-01-07 16:54:08",
+      "album": {
+        "name": "Sparks",
+        "url": "https://open.spotify.com/album/4U90Bo7CbGHeh1M8gKeaZG"
+      },
+      "artists": [
+        {
+          "name": "Jordana",
+          "url": "https://open.spotify.com/artist/5Bw9kFNhy019e4IBCJZlzw"
+        }
+      ],
+      "duration_ms": 218750,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/5L5hOvjcRVUCi9oSySDER4"
     },
     {
       "added_at": "2025-01-07 16:54:08",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
-      },
-      "artists": [
-        {
-          "name": "Henry Jamison",
-          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
-        }
-      ],
-      "duration_ms": 189799,
-      "name": "The Partisan - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
-    },
-    {
-      "added_at": "2025-01-07 16:54:08",
-      "album": {
         "name": "i'm not okay",
         "url": "https://open.spotify.com/album/7bLH8PFvqdSnlMkdiaJCCa"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 174773,
       "name": "i'm not okay",
       "url": "https://open.spotify.com/track/7dGvMClz3JuBUs6qWfaqye"
+    },
+    {
+      "added_at": "2025-01-07 16:54:08",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4jnG99bP9dsXWi49WeEKIr"
+      },
+      "artists": [
+        {
+          "name": "Henry Jamison",
+          "url": "https://open.spotify.com/artist/2XdtmipGVPmA62ptDgX8QC"
+        }
+      ],
+      "duration_ms": 189799,
+      "name": "The Partisan - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/2xMzN3uUtCxyHpR5L8Tril"
     },
     {
       "added_at": "2025-01-07 16:54:08",
@@ -1595,6 +1595,22 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
+        "name": "End of Beginning",
+        "url": "https://open.spotify.com/album/5tjpF9DZGffUXhiKPw2BkR"
+      },
+      "artists": [
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        }
+      ],
+      "duration_ms": 170062,
+      "name": "End of Beginning",
+      "url": "https://open.spotify.com/track/6cRsC2XATsCf8nnAbI98Sk"
+    },
+    {
+      "added_at": "2025-01-07 16:54:08",
+      "album": {
         "name": "A Case of You",
         "url": "https://open.spotify.com/album/11Inyi8jNCYIdhJgECS9f3"
       },
@@ -1611,34 +1627,18 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+        "name": "Green Rocky Road",
+        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
       },
       "artists": [
         {
-          "name": "Aldous Harding",
-          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+          "name": "Bria Salmena",
+          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
         }
       ],
-      "duration_ms": 137314,
-      "name": "Revival",
-      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
-    },
-    {
-      "added_at": "2025-01-07 16:54:08",
-      "album": {
-        "name": "American Pie",
-        "url": "https://open.spotify.com/album/4cmRLJRiZqkeOKZUE9iztd"
-      },
-      "artists": [
-        {
-          "name": "Jade Bird",
-          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
-        }
-      ],
-      "duration_ms": 254820,
-      "name": "American Pie",
-      "url": "https://open.spotify.com/track/3Z92ubrhBZe72FKAiW5dhh"
+      "duration_ms": 201985,
+      "name": "Green Rocky Road",
+      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
     },
     {
       "added_at": "2025-01-07 16:54:08",
@@ -1663,18 +1663,34 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
-        "name": "Green Rocky Road",
-        "url": "https://open.spotify.com/album/3Mk2rCfx4ywDJ5sg5C0jk8"
+        "name": "American Pie",
+        "url": "https://open.spotify.com/album/4cmRLJRiZqkeOKZUE9iztd"
       },
       "artists": [
         {
-          "name": "Bria Salmena",
-          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
+          "name": "Jade Bird",
+          "url": "https://open.spotify.com/artist/7D8LuVnlyu91ndcPe70j7S"
         }
       ],
-      "duration_ms": 201985,
-      "name": "Green Rocky Road",
-      "url": "https://open.spotify.com/track/62VuzDNl5RZIlhzs0XDQzY"
+      "duration_ms": 254820,
+      "name": "American Pie",
+      "url": "https://open.spotify.com/track/3Z92ubrhBZe72FKAiW5dhh"
+    },
+    {
+      "added_at": "2025-01-07 16:54:08",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/0r9WibVLIn1tZ7FxSKH3yn"
+      },
+      "artists": [
+        {
+          "name": "Aldous Harding",
+          "url": "https://open.spotify.com/artist/3lmR0qMiGuoIF9UC54egcG"
+        }
+      ],
+      "duration_ms": 137314,
+      "name": "Revival",
+      "url": "https://open.spotify.com/track/0LpPr98XQhD3N7xfEOvVfD"
     },
     {
       "added_at": "2025-01-07 16:54:08",
@@ -1691,38 +1707,6 @@
       "duration_ms": 367333,
       "name": "Re: Stacks",
       "url": "https://open.spotify.com/track/1UjjYce8PdRFcrnXBC9pjQ"
-    },
-    {
-      "added_at": "2025-01-07 16:54:08",
-      "album": {
-        "name": "End of Beginning",
-        "url": "https://open.spotify.com/album/5tjpF9DZGffUXhiKPw2BkR"
-      },
-      "artists": [
-        {
-          "name": "Jake Etheridge",
-          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
-        }
-      ],
-      "duration_ms": 170062,
-      "name": "End of Beginning",
-      "url": "https://open.spotify.com/track/6cRsC2XATsCf8nnAbI98Sk"
-    },
-    {
-      "added_at": "2025-01-07 16:54:08",
-      "album": {
-        "name": "To Ramona",
-        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 217586,
-      "name": "To Ramona",
-      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
     },
     {
       "added_at": "2025-01-07 16:54:08",
@@ -1747,6 +1731,22 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
+        "name": "True Love Will Find You In The End",
+        "url": "https://open.spotify.com/album/20mtg0Xbs9vwuzqVsVNAKL"
+      },
+      "artists": [
+        {
+          "name": "Katherine Priddy",
+          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+        }
+      ],
+      "duration_ms": 165306,
+      "name": "True Love Will Find You In The End",
+      "url": "https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf"
+    },
+    {
+      "added_at": "2025-01-07 16:54:08",
+      "album": {
         "name": "Down in the Willow Garden (with Rufus Wainwright) [From \u201cNorah Jones is Playing Along\u201d Podcast]",
         "url": "https://open.spotify.com/album/5cHVlOYT8jKqo3VFIUkTRz"
       },
@@ -1767,18 +1767,18 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
-        "name": "True Love Will Find You In The End",
-        "url": "https://open.spotify.com/album/20mtg0Xbs9vwuzqVsVNAKL"
+        "name": "To Ramona",
+        "url": "https://open.spotify.com/album/0JNGjWHIOEzGbjmakQvzBU"
       },
       "artists": [
         {
-          "name": "Katherine Priddy",
-          "url": "https://open.spotify.com/artist/102dPAntS5rtgPwkSZPB41"
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
         }
       ],
-      "duration_ms": 165306,
-      "name": "True Love Will Find You In The End",
-      "url": "https://open.spotify.com/track/2QdzHAm5fq0v7lOuC3XImf"
+      "duration_ms": 217586,
+      "name": "To Ramona",
+      "url": "https://open.spotify.com/track/5YL8nR0e3zF5fFqvBmSKDI"
     },
     {
       "added_at": "2025-01-07 16:54:08",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
-        "name": "Late Night Talking",
-        "url": "https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l"
-      },
-      "artists": [
-        {
-          "name": "Ron Pope",
-          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
-        }
-      ],
-      "duration_ms": 195936,
-      "name": "Late Night Talking",
-      "url": "https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm"
-    },
-    {
-      "added_at": "2025-01-07 16:54:08",
-      "album": {
         "name": "Talk to Me of Mendocino",
         "url": "https://open.spotify.com/album/0ntpjEfIKTQAZbC7fqBYts"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 200666,
       "name": "Talk to Me of Mendocino",
       "url": "https://open.spotify.com/track/72X7jvDpgZyNjUeTixq15d"
+    },
+    {
+      "added_at": "2025-01-07 16:54:08",
+      "album": {
+        "name": "Late Night Talking",
+        "url": "https://open.spotify.com/album/0DI84YNd6RXHBSchZlw68l"
+      },
+      "artists": [
+        {
+          "name": "Ron Pope",
+          "url": "https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O"
+        }
+      ],
+      "duration_ms": 195936,
+      "name": "Late Night Talking",
+      "url": "https://open.spotify.com/track/1Vc62VQpWqTmwlena9jEKm"
     },
     {
       "added_at": "2025-01-07 16:54:08",
@@ -1939,22 +1939,18 @@
     {
       "added_at": "2025-01-07 16:54:08",
       "album": {
-        "name": "Driver 8",
-        "url": "https://open.spotify.com/album/7EhB4Mx0sYNBPe68ZSptKu"
+        "name": "Wednesday (Extended Edition)",
+        "url": "https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk"
       },
       "artists": [
         {
-          "name": "Jason Isbell and the 400 Unit",
-          "url": "https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf"
-        },
-        {
-          "name": "John Paul White",
-          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+          "name": "Madison Cunningham",
+          "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 215449,
-      "name": "Driver 8",
-      "url": "https://open.spotify.com/track/3Etjw7DBhlX24sntsKNnBW"
+      "duration_ms": 336222,
+      "name": "Lover, You Should\u2019ve Come Over",
+      "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
     }
   ],
   "unique_name": "Folksy Covers",

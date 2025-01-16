@@ -1,6 +1,6 @@
 {
   "description": "\u604b\u3057\u3066\u308b\u3042\u306a\u305f\u306b\u5bc4\u308a\u6dfb\u3046\u3001\u7d20\u6575\u306a\u30e9\u30d6\u30bd\u30f3\u30b0\u3092\u96c6\u3081\u307e\u3057\u305f\u3002Illustration by <a href=\"https://twitter.com/hoshieri7\">\u5317\u6751\u82f1\u7406</a>(Eri Kitamura)",
-  "num_followers": 171630,
+  "num_followers": 171667,
   "original_name": "\u604b\u3059\u308b\u30d7\u30ec\u30a4\u30ea\u30b9\u30c8",
   "owner": {
     "name": "Spotify",
@@ -459,18 +459,18 @@
     {
       "added_at": "2025-01-14 15:00:03",
       "album": {
-        "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
-        "url": "https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5"
       },
       "artists": [
         {
-          "name": "Koresawa",
-          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
+          "name": "Tani Yuuki",
+          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
         }
       ],
-      "duration_ms": 248613,
-      "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
-      "url": "https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn"
+      "duration_ms": 278118,
+      "name": "W / X / Y",
+      "url": "https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49"
     },
     {
       "added_at": "2025-01-14 15:00:03",
@@ -491,18 +491,18 @@
     {
       "added_at": "2025-01-14 15:00:03",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/4tp4dyeVhcG7kM2jUi3Yj5"
+        "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
+        "url": "https://open.spotify.com/album/3ASemm4Sc1YQzMrUKConNf"
       },
       "artists": [
         {
-          "name": "Tani Yuuki",
-          "url": "https://open.spotify.com/artist/0B1ce3uNrzkdm76NXI4mhX"
+          "name": "Koresawa",
+          "url": "https://open.spotify.com/artist/6sX1XKgDIiAcVZof0SgWUe"
         }
       ],
-      "duration_ms": 278118,
-      "name": "W / X / Y",
-      "url": "https://open.spotify.com/track/4IfrM44LofE9bSs6TDZS49"
+      "duration_ms": 248613,
+      "name": "\u5143\u5f7c\u5973\u306e\u307f\u306a\u3055\u307e\u3078",
+      "url": "https://open.spotify.com/track/0H3RFIhXuuRoQyNKYdvSbn"
     },
     {
       "added_at": "2025-01-14 15:00:03",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-14 15:00:03",
       "album": {
-        "name": "Editorial",
-        "url": "https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1"
-      },
-      "artists": [
-        {
-          "name": "OFFICIAL HIGE DANDISM",
-          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
-        }
-      ],
-      "duration_ms": 282680,
-      "name": "I LOVE...",
-      "url": "https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m"
-    },
-    {
-      "added_at": "2025-01-14 15:00:03",
-      "album": {
         "name": "TSUNAMI",
         "url": "https://open.spotify.com/album/3EVm3Pp0j7BO8TG0rEofss"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 315500,
       "name": "TSUNAMI",
       "url": "https://open.spotify.com/track/2iXZA6Ecf9AZHw92tZBNLv"
+    },
+    {
+      "added_at": "2025-01-14 15:00:03",
+      "album": {
+        "name": "Editorial",
+        "url": "https://open.spotify.com/album/0dOSO54LwPzxTUlnkEYxK1"
+      },
+      "artists": [
+        {
+          "name": "OFFICIAL HIGE DANDISM",
+          "url": "https://open.spotify.com/artist/5Vo1hnCRmCM6M4thZCInCj"
+        }
+      ],
+      "duration_ms": 282680,
+      "name": "I LOVE...",
+      "url": "https://open.spotify.com/track/5wWLNNwMAehpj83FU4Lz0m"
     },
     {
       "added_at": "2025-01-14 15:00:03",

@@ -2,7 +2,7 @@
 
 ### [New Music Wednesday](https://open.spotify.com/playlist/37i9dQZF1DWYBDycFJuxRt)
 
-> 今週も話題の新曲を最速で。 Cover: 小袋成彬 \*👉 <a href="https://spice.eplus.jp/articles/334643">SPICE連動記事</a>をSPICEでチェック!
+> 今週も話題の新曲を最速で。 Cover: 小袋成彬 \*👉 <a href="https://spice.eplus.jp/articles/334794">SPICE連動記事</a>をSPICEでチェック!
 
 9,183 songs - 23 day 17 hr 54 min
 

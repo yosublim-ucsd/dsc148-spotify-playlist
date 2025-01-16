@@ -1,12 +1,12 @@
 {
   "description": "All your favorite Disney hits, including classics from Encanto, Descendants, Moana, Frozen, & Mufasa: The Lion King.",
-  "num_followers": 5486826,
+  "num_followers": 5487686,
   "original_name": "Disney Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4GPXgAAAACN4Ig+Kui+AftzNN162gxS",
+  "snapshot_id": "Z4hvUQAAAACd4y6KDRg1AWUORKKh8YeQ",
   "tracks": [
     {
       "added_at": "2024-01-08 22:56:36",
@@ -119,50 +119,6 @@
       "duration_ms": 230266,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/5zgbAqSzbhTabnlRuutw3X"
-    },
-    {
-      "added_at": "2024-01-08 22:56:36",
-      "album": {
-        "name": "Lilo & Stitch",
-        "url": "https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP"
-      },
-      "artists": [
-        {
-          "name": "Mark Keali'i Ho'omalu",
-          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
-        },
-        {
-          "name": "Kamehameha Schools Children's Chorus",
-          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
-        }
-      ],
-      "duration_ms": 208226,
-      "name": "Hawaiian Roller Coaster Ride",
-      "url": "https://open.spotify.com/track/7GmiJVBAzWNikX5VkNQg85"
-    },
-    {
-      "added_at": "2025-01-09 23:32:05",
-      "album": {
-        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
-      },
-      "artists": [
-        {
-          "name": "Aaron Pierre",
-          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
-        },
-        {
-          "name": "Tiffany Boone",
-          "url": "https://open.spotify.com/artist/0Fiux5J8PsM7hSFScc3qiz"
-        },
-        {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
-        }
-      ],
-      "duration_ms": 147080,
-      "name": "Tell Me It's You",
-      "url": "https://open.spotify.com/track/2AdSN6utb6kfgmgas1g6az"
     },
     {
       "added_at": "2024-01-08 22:56:36",
@@ -313,22 +269,6 @@
       "url": "https://open.spotify.com/track/284ZbEfENR043XOhHXGZMp"
     },
     {
-      "added_at": "2024-12-20 20:03:34",
-      "album": {
-        "name": "When The Sun Goes Down",
-        "url": "https://open.spotify.com/album/49yHvRh1cOfLcEKukEP7Ox"
-      },
-      "artists": [
-        {
-          "name": "Selena Gomez & The Scene",
-          "url": "https://open.spotify.com/artist/6dJeKm76NjfXBNTpHmOhfO"
-        }
-      ],
-      "duration_ms": 188453,
-      "name": "Love You Like A Love Song",
-      "url": "https://open.spotify.com/track/0laYHRpNTS6i8FXdupHkJ4"
-    },
-    {
       "added_at": "2024-01-08 22:56:36",
       "album": {
         "name": "Coco (Original Motion Picture Soundtrack)",
@@ -395,6 +335,26 @@
       "duration_ms": 206506,
       "name": "Do You Want to Build a Snowman? - From \"Frozen\"/Soundtrack Version",
       "url": "https://open.spotify.com/track/2yi7HZrBOC4bMUSTcs4VK6"
+    },
+    {
+      "added_at": "2024-01-08 22:56:36",
+      "album": {
+        "name": "Lilo & Stitch",
+        "url": "https://open.spotify.com/album/0tNLpUZfJKyxMS0nKlnyXP"
+      },
+      "artists": [
+        {
+          "name": "Mark Keali'i Ho'omalu",
+          "url": "https://open.spotify.com/artist/7ysDgZ3JkblCgOsDTJWttt"
+        },
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        }
+      ],
+      "duration_ms": 208226,
+      "name": "Hawaiian Roller Coaster Ride",
+      "url": "https://open.spotify.com/track/7GmiJVBAzWNikX5VkNQg85"
     },
     {
       "added_at": "2024-01-08 22:56:36",

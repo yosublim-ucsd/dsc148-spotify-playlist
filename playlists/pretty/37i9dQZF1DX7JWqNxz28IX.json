@@ -1,6 +1,6 @@
 {
   "description": "canzoni tristi per chi ha un cuore cos\u00ec \ud83d\udc94  (in cover, chiello)",
-  "num_followers": 47018,
+  "num_followers": 47015,
   "original_name": "ragazzo triste",
   "owner": {
     "name": "Spotify",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
+        "name": "Sotto lo zero",
+        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
+      },
+      "artists": [
+        {
+          "name": "Nisba",
+          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
+        }
+      ],
+      "duration_ms": 180278,
+      "name": "Sotto lo zero",
+      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
         "name": "ONIRO",
         "url": "https://open.spotify.com/album/5K6rOCFPtt6Gdv6YHaPC2x"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 174720,
       "name": "DOVE SEI",
       "url": "https://open.spotify.com/track/7Lf6L3PBhMcSVTIjxEhtWB"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
-        "name": "Sotto lo zero",
-        "url": "https://open.spotify.com/album/4GrFH1rvATwSnB3tRVrqwE"
-      },
-      "artists": [
-        {
-          "name": "Nisba",
-          "url": "https://open.spotify.com/artist/0rAJoDmXBTVc0FSkEnbnQa"
-        }
-      ],
-      "duration_ms": 180278,
-      "name": "Sotto lo zero",
-      "url": "https://open.spotify.com/track/46PYmmj2C1v8DwuhSUowIy"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1639,22 +1639,6 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "L'effetto che mi fai",
-        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
-      },
-      "artists": [
-        {
-          "name": "DOXX",
-          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
-        }
-      ],
-      "duration_ms": 174250,
-      "name": "L'effetto che mi fai",
-      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
-    },
-    {
-      "added_at": "2024-10-17 22:01:00",
-      "album": {
         "name": "GARA 7",
         "url": "https://open.spotify.com/album/1UZUZ2zX7x2g1SGL4gGzxX"
       },
@@ -1671,22 +1655,18 @@
     {
       "added_at": "2024-10-17 22:01:00",
       "album": {
-        "name": "14",
-        "url": "https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk"
+        "name": "L'effetto che mi fai",
+        "url": "https://open.spotify.com/album/3yShDUYPfX7h1HSK6Apecx"
       },
       "artists": [
         {
-          "name": "Jayred",
-          "url": "https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08"
-        },
-        {
-          "name": "yuks",
-          "url": "https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd"
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
         }
       ],
-      "duration_ms": 110750,
-      "name": "14",
-      "url": "https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ"
+      "duration_ms": 174250,
+      "name": "L'effetto che mi fai",
+      "url": "https://open.spotify.com/track/3lxnYJ4tMPPYXL7vONxGRi"
     },
     {
       "added_at": "2024-10-17 22:01:00",
@@ -1707,6 +1687,26 @@
       "duration_ms": 135374,
       "name": "Dimmi se sbaglio",
       "url": "https://open.spotify.com/track/0fCl0Y3Ra4uwYXEBwYwcKT"
+    },
+    {
+      "added_at": "2024-10-17 22:01:00",
+      "album": {
+        "name": "14",
+        "url": "https://open.spotify.com/album/7290JgdAoUMQmFzAVztJpk"
+      },
+      "artists": [
+        {
+          "name": "Jayred",
+          "url": "https://open.spotify.com/artist/2fxu0phr0BCuxaKdSfCv08"
+        },
+        {
+          "name": "yuks",
+          "url": "https://open.spotify.com/artist/5S1ajwH3erCE1RDfGiAESd"
+        }
+      ],
+      "duration_ms": 110750,
+      "name": "14",
+      "url": "https://open.spotify.com/track/1veUzOYyrblgIzylvPzkAZ"
     },
     {
       "added_at": "2024-10-17 22:01:00",

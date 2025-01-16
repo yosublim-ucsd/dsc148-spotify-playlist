@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Edgardo Nu\u00f1ez en portada.",
-  "num_followers": 1246210,
+  "num_followers": 1246302,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -723,6 +723,22 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "Tu Reemplazo",
+        "url": "https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE"
+      },
+      "artists": [
+        {
+          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
+          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
+        }
+      ],
+      "duration_ms": 143293,
+      "name": "Tu Reemplazo",
+      "url": "https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "La Barda Me Vol\u00e9",
         "url": "https://open.spotify.com/album/13SwxlksMXwzpK8iAafFDh"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "Tu Reemplazo",
-        "url": "https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE"
-      },
-      "artists": [
-        {
-          "name": "La Arrolladora Banda El Lim\u00f3n De Rene Camacho",
-          "url": "https://open.spotify.com/artist/5bSfBBCxY8QAk4Pifveisz"
-        }
-      ],
-      "duration_ms": 143293,
-      "name": "Tu Reemplazo",
-      "url": "https://open.spotify.com/track/5p5w3AJG3dwhRQETULNqW7"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -807,38 +807,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Bonito y Bello",
-      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "\u00c1ndale Pues Terco",
-        "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
-      },
-      "artists": [
-        {
-          "name": "Luis Alfonso Partida El Yaki",
-          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
-        }
-      ],
-      "duration_ms": 191000,
-      "name": "\u00c1ndale Pues Terco",
-      "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "Bien Positivo",
         "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
       },
@@ -855,6 +823,22 @@
       "duration_ms": 139668,
       "name": "Cuando Andaba Recio (El Cholo)",
       "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "\u00c1ndale Pues Terco",
+        "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso Partida El Yaki",
+          "url": "https://open.spotify.com/artist/5l6N2hoIaP7snXdjnCULvk"
+        }
+      ],
+      "duration_ms": 191000,
+      "name": "\u00c1ndale Pues Terco",
+      "url": "https://open.spotify.com/track/66ISFSawHj2Uf64yUUIIts"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -911,6 +895,38 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3ExUdt4PSkql5ojPhmZCLX"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5jWrRvkVz0w5x3UOcJ1Xyx"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Bonito y Bello",
+      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "La Humilde Opinion",
         "url": "https://open.spotify.com/album/4WC78n1jgUAndOXIhd5vbP"
       },
@@ -931,22 +947,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Ilusi\u00f3n 98",
-        "url": "https://open.spotify.com/album/2vsVaOp6BKaDFrHNFzWetm"
-      },
-      "artists": [
-        {
-          "name": "Banda Perla de Michoacan",
-          "url": "https://open.spotify.com/artist/3XQKGbfsPMbgMCt0OXUZVf"
-        }
-      ],
-      "duration_ms": 162000,
-      "name": "Ilusi\u00f3n 98",
-      "url": "https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "Qu\u00e9 Onda Perdida",
         "url": "https://open.spotify.com/album/2XIMzHRF6bkv81iGbkvcQN"
       },
@@ -959,6 +959,22 @@
       "duration_ms": 223695,
       "name": "Qu\u00e9 Onda Perdida",
       "url": "https://open.spotify.com/track/3TjLFavKPwuvXk5xnxPlEk"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "Ilusi\u00f3n 98",
+        "url": "https://open.spotify.com/album/2vsVaOp6BKaDFrHNFzWetm"
+      },
+      "artists": [
+        {
+          "name": "Banda Perla de Michoacan",
+          "url": "https://open.spotify.com/artist/3XQKGbfsPMbgMCt0OXUZVf"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Ilusi\u00f3n 98",
+      "url": "https://open.spotify.com/track/4bvfI3qmILgkvqdq7txFQl"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -979,22 +995,6 @@
       "duration_ms": 239377,
       "name": "Te Perd\u00ed",
       "url": "https://open.spotify.com/track/7gqScn2vC9FD8tBrhD9MJ4"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3ExUdt4PSkql5ojPhmZCLX"
-      },
-      "artists": [
-        {
-          "name": "Moy Bobadilla",
-          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5jWrRvkVz0w5x3UOcJ1Xyx"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1499,26 +1499,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "De Ellas",
-        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
-      },
-      "artists": [
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 237787,
-      "name": "De Ellas",
-      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "Apenas es Martes",
         "url": "https://open.spotify.com/album/0aDQnxWeCKcTTmj2NcNBRx"
       },
@@ -1535,6 +1515,26 @@
       "duration_ms": 216633,
       "name": "Apenas es Martes",
       "url": "https://open.spotify.com/track/56goS93EXFXZk4X6qPxJAt"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "De Ellas",
+        "url": "https://open.spotify.com/album/3jK4gv1FXy4CR84iJRQQzN"
+      },
+      "artists": [
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 237787,
+      "name": "De Ellas",
+      "url": "https://open.spotify.com/track/6pDixZkveDjPX6eNhKk94J"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -2103,18 +2103,18 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "El Coco Rayado",
-        "url": "https://open.spotify.com/album/1VyUGxzyLiOQ7uoeQv5cXv"
+        "name": "Puros Exitos Con Banda (En Vivo)",
+        "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
       "artists": [
         {
-          "name": "El Coyote Y Su Banda Tierra Santa",
-          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
         }
       ],
-      "duration_ms": 175862,
-      "name": "El Coco Rayado",
-      "url": "https://open.spotify.com/track/06FfQhR5Q3VWoyE34ZMFCt"
+      "duration_ms": 234416,
+      "name": "El Vaso Derrama - En Vivo",
+      "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -2163,6 +2163,22 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "El Coco Rayado",
+        "url": "https://open.spotify.com/album/1VyUGxzyLiOQ7uoeQv5cXv"
+      },
+      "artists": [
+        {
+          "name": "El Coyote Y Su Banda Tierra Santa",
+          "url": "https://open.spotify.com/artist/7sQ3Q6yYyg0SdpEezJN8UT"
+        }
+      ],
+      "duration_ms": 175862,
+      "name": "El Coco Rayado",
+      "url": "https://open.spotify.com/track/06FfQhR5Q3VWoyE34ZMFCt"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "24/7 Dolido",
         "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
       },
@@ -2175,30 +2191,6 @@
       "duration_ms": 175090,
       "name": "24/7 Dolido",
       "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "Salud Por Eso",
-        "url": "https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR"
-      },
-      "artists": [
-        {
-          "name": "Nathan Galante",
-          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
-        },
-        {
-          "name": "Horacio Palencia",
-          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
-        },
-        {
-          "name": "Esencia Noble",
-          "url": "https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Salud Por Eso",
-      "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
     }
   ],
   "unique_name": "Banda 2025",

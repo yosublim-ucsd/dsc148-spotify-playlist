@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,951 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,980 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 36 | [The Lady is a Tramp](https://open.spotify.com/track/3ktv2iqF2G7r2RNUyJK7jj) | [Vince Giordano And The Nighthawks](https://open.spotify.com/artist/1F4A7SV8Xp0KrWdPzkh8UO), [Vince Giordano](https://open.spotify.com/artist/7vP4zvpQXJgKVcFeGNAxxI), [Nighthawks Orchestra](https://open.spotify.com/artist/1m12PvAi6HuXaSp9vPizwS) | [Cafe Society \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0qhRd1Dw9TV0JHmwjG168A) | 3:49 |
 | 37 | [Thank God for the Rain](https://open.spotify.com/track/34OJUOcKvRrMMVpY3Ow9jL) | [Bernard Herrmann](https://open.spotify.com/artist/5bUj39bg0zEbRzjUEISMG9) | [Taxi Driver](https://open.spotify.com/album/0Su23YyUD0OyafVwOP22HP) | 1:41 |
 | 38 | [Born to Play](https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Soul \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88) | 2:00 |
-| 39 | [Autumn In New York](https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:47 |
-| 40 | [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 |
+| 39 | [J'ai Deux Amours](https://open.spotify.com/track/1cCLS8B6Lq3AaCMQ9nDepD) | [Ashley Park](https://open.spotify.com/artist/59QZR94fPLVcOx2sWEk7xn) | [Emily In Paris Season 3 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/2MxZ2f68wKQKL7RNlKB2s0) | 3:01 |
+| 40 | [Autumn In New York](https://open.spotify.com/track/3G9pKQL2daAyy4BJDz5nAw) | [Harry Connick, Jr.](https://open.spotify.com/artist/6u17YlWtW4oqFF5Hn9UU79) | [When Harry Met Sally..\. Music From The Motion Picture](https://open.spotify.com/album/3ENgsXeS6nDq8F5YtSmiMv) | 2:47 |
 | 41 | [Dreamsville](https://open.spotify.com/track/3GKtPUsvH8Q3ecj65M3hfO) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [Music From Peter Gunn](https://open.spotify.com/album/6MC1PGnqkoY5tpnCiANpg2) | 3:57 |
 | 42 | [I Love Penny Sue](https://open.spotify.com/track/4SBHuF59wYA32i3O1Yfv1L) | [Daniel May](https://open.spotify.com/artist/1v1sbhRjpHfjqdBpSiwCvc) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:17 |
 | 43 | [Opening \(Spirit of Adventure\)](https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR) | [Andrea Datzman](https://open.spotify.com/artist/4oVVQ8nKBLYmGlK6QbBlG2), [Curtis Green](https://open.spotify.com/artist/7BeM8T22ATymjmtyyfoHyV) | [Dug Days \(Original Soundtrack\)](https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM) | 0:52 |

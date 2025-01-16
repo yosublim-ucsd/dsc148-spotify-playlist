@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8?si=nmFmCeXARAOHq9xyk43Dww>Nina Shezz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,924 likes - 80 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 44,952 likes - 80 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 44 | [New Generation](https://open.spotify.com/track/6k5pDJkWlIV0130iomHl38) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [New Generation](https://open.spotify.com/album/7jOJ4N0GyRwWlwn5orBBM0) | 10:48 |
 | 45 | [Alone](https://open.spotify.com/track/2Im4gW7xrTDqQFOIjxkb7j) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [Decagon](https://open.spotify.com/album/5zcepYAcGr8m0YEmd9k3kl) | 2:43 |
 | 46 | [D2D](https://open.spotify.com/track/3OZy7WilXMYvEkLoFrMiOq) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [OCTAGON](https://open.spotify.com/album/09zhQKNtxXdFpZixpx2MOf) | 2:37 |
-| 47 | [Come Thou Fount](https://open.spotify.com/track/2FSajE2kAaMr88P5q3ci5p) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Collage](https://open.spotify.com/artist/3BKBrp91niOQBmVJQsRg7R), [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [Come Thou Fount](https://open.spotify.com/album/7gBRTwE247sdsBwKY9I1Tf) | 2:17 |
+| 47 | [Come Thou Fount](https://open.spotify.com/track/2FSajE2kAaMr88P5q3ci5p) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Jae Sekoya](https://open.spotify.com/artist/0kJwyMUjDs6cebm8YzOa69), [VonTrap](https://open.spotify.com/artist/5eIys7MbZc5zD0bzktmIZC), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [Come Thou Fount](https://open.spotify.com/album/7gBRTwE247sdsBwKY9I1Tf) | 2:17 |
 | 48 | [Malaika x Fridayy](https://open.spotify.com/track/4qmznC9XTxfns5CM6OEJLr) | [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS), [Fridayy](https://open.spotify.com/artist/7sP4SQ0WY6jfps1I19Ot7i) | [Malaika x Fridayy](https://open.spotify.com/album/2yffePBggxXLJ96YbGlw9J) | 4:08 |
 | 49 | [Ikechi \(Power of God\)](https://open.spotify.com/track/2qhu3cRVoq4aW30mbPAo5y) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [Ikechi \(Power of God\)](https://open.spotify.com/album/6n6e6Z1cnuMVWMQ9CBeInr) | 2:57 |
 | 50 | [Signs and wonders](https://open.spotify.com/track/71nW2fULmKRyQ9eZHPjOYF) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui), [Amichael Genre](https://open.spotify.com/artist/7H7H3UJWKu4ZG4skm9R8MW) | [Signs and wonders](https://open.spotify.com/album/1CYTCUqUuG4Ze9UwXD5tia) | 2:35 |

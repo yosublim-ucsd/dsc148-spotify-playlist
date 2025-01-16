@@ -4,7 +4,7 @@
 
 > 
 
-2,077 songs - 4 day 15 hr 27 min
+2,078 songs - 4 day 15 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -699,6 +699,7 @@
 | [GAME OVER](https://open.spotify.com/track/1bTmG9Oir37ggslW0sl4c6) | [PlayaPhonk](https://open.spotify.com/artist/1SwmXTElW9TlkK2Rydgb4D) | [GAME OVER](https://open.spotify.com/album/4Si8ak6IhfNjzpfl9fSJ9R) | 2:20 | 2021-08-05 |  |
 | [Gang Baby](https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ) | [SLUT SZN](https://open.spotify.com/album/1oA2UN6nt7jhEuVtiCeCke) | 2:18 | 2024-11-25 |  |
 | [GASLIGHT!](https://open.spotify.com/track/6OCbBpYhFHbBbfdnaoEsZ1) | [Maggie Lindemann](https://open.spotify.com/artist/0uGk2czvcpWQA383Im6ajf), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [PARANOIA](https://open.spotify.com/album/5CEcwEyL9wMG4TygYNTFgw) | 2:28 | 2022-11-10 |  |
+| [GATÚBELA](https://open.spotify.com/track/6Vn1vje8yMw2OY6IOk9dkH) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Maldy](https://open.spotify.com/artist/4IndUOBCZYZg61557iq2A9) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:28 | 2025-01-15 |  |
 | [Gave You Everything](https://open.spotify.com/track/4C0ZP5m9z0pfefQHUhach5) | [The Interrupters](https://open.spotify.com/artist/25Maank76ry2Tmbi2Ql1SF) | [Fight the Good Fight](https://open.spotify.com/album/6AoWkAFBSNlX63z1fJVNIL) | 3:07 | 2021-08-05 |  |
 | [Gavotte in D Major, "Rosine" \(arr\. for violin and piano\)](https://open.spotify.com/track/2fO2ZY4Ohi3Uq1m4GYikvL) | [Francois\-Joseph Gossec](https://open.spotify.com/artist/1KBWt9hc5YE25x6Bcr1zps), [Shinichi Suzuki](https://open.spotify.com/artist/1tNdPYwlFcKzrIaE7WBl8z), [Takako Nishizaki](https://open.spotify.com/artist/2vIpN8nPvtMZUWyGicF2oj), [Terence Dennis](https://open.spotify.com/artist/2bbCfH8cgOhmLwMVSzEhXm) | [Takako Nishizaki Plays Suzuki Evergreens, Vol\. 1](https://open.spotify.com/album/7Df8y0VuRQFjakK7V95akg) | 2:39 | 2021-08-05 |  |
 | [gec 2 Ü](https://open.spotify.com/track/6oEpHl3cdz5s3gr2JVjok5) | [100 gecs](https://open.spotify.com/artist/6PfSUFtkMVoDkx4MQkzOi3), [Laura Les](https://open.spotify.com/artist/3sklFG9fuDAq3vbIZlkNH6), [Dylan Brady](https://open.spotify.com/artist/2Cm6C9PNHioyjRKBfO7n9N) | [1000 gecs](https://open.spotify.com/album/2uhB1KivbFnlkARpbd0Cvu) | 3:17 | 2021-11-14 |  |

@@ -1,6 +1,6 @@
 {
   "description": "S\u00e4m Wilder op de cover van de Popronde 2024. Popronde is een jaarlijks reizend festival in Nederland met de grootste talenten. ",
-  "num_followers": 1825,
+  "num_followers": 1824,
   "original_name": "Popronde 2024",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "the social disconnection",
-        "url": "https://open.spotify.com/album/4JkpjPJ7gKpOTMXkVPhdl5"
-      },
-      "artists": [
-        {
-          "name": "Frerick Den Haan",
-          "url": "https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5"
-        }
-      ],
-      "duration_ms": 172374,
-      "name": "the social disconnection",
-      "url": "https://open.spotify.com/track/4goV1DysAzrdvBsGccwkaT"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "VLIEGTUIG",
         "url": "https://open.spotify.com/album/2L1ftfySzSqFYhHVwBy9lK"
       },
@@ -395,6 +379,22 @@
       "duration_ms": 192093,
       "name": "VLIEGTUIG",
       "url": "https://open.spotify.com/track/005SixR3ffxRwlh3T4V1dV"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "the social disconnection",
+        "url": "https://open.spotify.com/album/4JkpjPJ7gKpOTMXkVPhdl5"
+      },
+      "artists": [
+        {
+          "name": "Frerick Den Haan",
+          "url": "https://open.spotify.com/artist/0TBTYt8ytHV9fqmQmXQZs5"
+        }
+      ],
+      "duration_ms": 172374,
+      "name": "the social disconnection",
+      "url": "https://open.spotify.com/track/4goV1DysAzrdvBsGccwkaT"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -431,6 +431,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "iK",
+        "url": "https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp"
+      },
+      "artists": [
+        {
+          "name": "BUG",
+          "url": "https://open.spotify.com/artist/0lslN56rA77D2Tosl0YmZJ"
+        }
+      ],
+      "duration_ms": 130869,
+      "name": "iK",
+      "url": "https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Endless Sunsets",
         "url": "https://open.spotify.com/album/3WtQZdMCYqKBpzMRj7SDy0"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 127200,
       "name": "Lost In Love",
       "url": "https://open.spotify.com/track/27Lqyi4t3aslIiJWFJ5WzU"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "iK",
-        "url": "https://open.spotify.com/album/3fcGgsGebY0eElqnlaVGNp"
-      },
-      "artists": [
-        {
-          "name": "BUG",
-          "url": "https://open.spotify.com/artist/0lslN56rA77D2Tosl0YmZJ"
-        }
-      ],
-      "duration_ms": 130869,
-      "name": "iK",
-      "url": "https://open.spotify.com/track/0fmFEsGfXtRZeQxdRQRf3E"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "High Wire",
-        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
-      },
-      "artists": [
-        {
-          "name": "Sol Power",
-          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
-        }
-      ],
-      "duration_ms": 126000,
-      "name": "High Wire",
-      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Comfortabel",
         "url": "https://open.spotify.com/album/6R6YXBbHIqWKLZEobaDNmc"
       },
@@ -823,18 +807,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Leave It",
-        "url": "https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04"
+        "name": "High Wire",
+        "url": "https://open.spotify.com/album/0KFppbLNzRuWtVOTIXShRh"
       },
       "artists": [
         {
-          "name": "Jacob Drescher",
-          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
+          "name": "Sol Power",
+          "url": "https://open.spotify.com/artist/09YruwmKMkdwBgREy572ao"
         }
       ],
-      "duration_ms": 248344,
-      "name": "Leave It",
-      "url": "https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM"
+      "duration_ms": 126000,
+      "name": "High Wire",
+      "url": "https://open.spotify.com/track/3dS2XIA1WQAaPHVTYYKiYQ"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -871,6 +855,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Leave It",
+        "url": "https://open.spotify.com/album/7E6sAkTS8AjiDyoBhojZ04"
+      },
+      "artists": [
+        {
+          "name": "Jacob Drescher",
+          "url": "https://open.spotify.com/artist/0azBrYau1kmzbjLIkVG4mv"
+        }
+      ],
+      "duration_ms": 248344,
+      "name": "Leave It",
+      "url": "https://open.spotify.com/track/67YsbY7DgPcKNdM98lMpXM"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Maar Verder Gaat Het Goed",
         "url": "https://open.spotify.com/album/6YVWLc3C8jrD0HHczwN1lO"
       },
@@ -883,22 +883,6 @@
       "duration_ms": 173506,
       "name": "In M'n Hoofd",
       "url": "https://open.spotify.com/track/2ky5w4vqqhH5g1V7oh7ouR"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Hot Mess",
-        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
-      },
-      "artists": [
-        {
-          "name": "ISA\u00cf",
-          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
-        }
-      ],
-      "duration_ms": 118500,
-      "name": "Hot Mess",
-      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -919,6 +903,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Hot Mess",
+        "url": "https://open.spotify.com/album/1xEMS9J4vMOvzUtL4zg20x"
+      },
+      "artists": [
+        {
+          "name": "ISA\u00cf",
+          "url": "https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2"
+        }
+      ],
+      "duration_ms": 118500,
+      "name": "Hot Mess",
+      "url": "https://open.spotify.com/track/4iOuFrWCo1Nr3LyXLWgcGz"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "Into the Blue",
         "url": "https://open.spotify.com/album/4LOWNnDcE1sQYwH5OF2IYs"
       },
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Daisy",
-        "url": "https://open.spotify.com/album/4CfgIkkljskC7H2F9MTniA"
-      },
-      "artists": [
-        {
-          "name": "NORE",
-          "url": "https://open.spotify.com/artist/1TY6Dy5en43uAZPIcXql0Q"
-        }
-      ],
-      "duration_ms": 167476,
-      "name": "Daisy",
-      "url": "https://open.spotify.com/track/125SWXIRRlJ8bvXt4ASu5D"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Windkracht 8",
         "url": "https://open.spotify.com/album/0ZPr21jW83B6D0SIdEqRGF"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 162341,
       "name": "Windkracht 8",
       "url": "https://open.spotify.com/track/2WM4Y3iC9PzMMUGJ3trUhU"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/4CfgIkkljskC7H2F9MTniA"
+      },
+      "artists": [
+        {
+          "name": "NORE",
+          "url": "https://open.spotify.com/artist/1TY6Dy5en43uAZPIcXql0Q"
+        }
+      ],
+      "duration_ms": 167476,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/125SWXIRRlJ8bvXt4ASu5D"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
+        "name": "Spronk / De Slag om Vinkhuizen",
+        "url": "https://open.spotify.com/album/7APExoMdmQATvX9rcDe2WT"
+      },
+      "artists": [
+        {
+          "name": "shoom",
+          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
+        }
+      ],
+      "duration_ms": 263799,
+      "name": "Spronk",
+      "url": "https://open.spotify.com/track/2sVmduiZn95oMwC9M8I2q7"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
         "name": "All Is Me",
         "url": "https://open.spotify.com/album/7cEgRgjGay0shcthca5IKR"
       },
@@ -1047,22 +1063,6 @@
       "duration_ms": 194370,
       "name": "Old Town",
       "url": "https://open.spotify.com/track/3REox2ZEVX7XzbYjU3d5T2"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "jij praat. (blah blah blah)",
-        "url": "https://open.spotify.com/album/51jeR6roxJN0NW2ikwGOWM"
-      },
-      "artists": [
-        {
-          "name": "Lateesha",
-          "url": "https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm"
-        }
-      ],
-      "duration_ms": 155494,
-      "name": "jij praat. (blah blah blah)",
-      "url": "https://open.spotify.com/track/7d7Gbia7TnzFjpW758bhYx"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1099,50 +1099,18 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "What's The Rush",
-        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
+        "name": "jij praat. (blah blah blah)",
+        "url": "https://open.spotify.com/album/51jeR6roxJN0NW2ikwGOWM"
       },
       "artists": [
         {
-          "name": "MEERKAT",
-          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
+          "name": "Lateesha",
+          "url": "https://open.spotify.com/artist/2x3xOxKdqWDBWDwnhHMaPm"
         }
       ],
-      "duration_ms": 337733,
-      "name": "Jerome",
-      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Happy Child",
-        "url": "https://open.spotify.com/album/2uF3BVy1VWtmJhwwuazAXK"
-      },
-      "artists": [
-        {
-          "name": "Carmen Jaci",
-          "url": "https://open.spotify.com/artist/5hvEJlfyb8DCKRNIsCHSv3"
-        }
-      ],
-      "duration_ms": 298999,
-      "name": "Danse lunaire",
-      "url": "https://open.spotify.com/track/6xaD7BY0O0w4nF6KLnAerp"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
-        "name": "Isaak's Marble",
-        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
-      },
-      "artists": [
-        {
-          "name": "Heath",
-          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
-        }
-      ],
-      "duration_ms": 601682,
-      "name": "Isaak's Marble",
-      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
+      "duration_ms": 155494,
+      "name": "jij praat. (blah blah blah)",
+      "url": "https://open.spotify.com/track/7d7Gbia7TnzFjpW758bhYx"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1163,34 +1131,50 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Spronk / De Slag om Vinkhuizen",
-        "url": "https://open.spotify.com/album/7APExoMdmQATvX9rcDe2WT"
+        "name": "Happy Child",
+        "url": "https://open.spotify.com/album/2uF3BVy1VWtmJhwwuazAXK"
       },
       "artists": [
         {
-          "name": "shoom",
-          "url": "https://open.spotify.com/artist/5GwJf4rmQaNtNKph66vuxw"
+          "name": "Carmen Jaci",
+          "url": "https://open.spotify.com/artist/5hvEJlfyb8DCKRNIsCHSv3"
         }
       ],
-      "duration_ms": 263799,
-      "name": "Spronk",
-      "url": "https://open.spotify.com/track/2sVmduiZn95oMwC9M8I2q7"
+      "duration_ms": 298999,
+      "name": "Danse lunaire",
+      "url": "https://open.spotify.com/track/6xaD7BY0O0w4nF6KLnAerp"
     },
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "Zwemmen In Het Geld",
-        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
+        "name": "What's The Rush",
+        "url": "https://open.spotify.com/album/4puAk9A73ngB1gvjubOegz"
       },
       "artists": [
         {
-          "name": "Zeevlinder",
-          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
+          "name": "MEERKAT",
+          "url": "https://open.spotify.com/artist/7MmsNCnjrEMKo9OhziCxZb"
         }
       ],
-      "duration_ms": 170883,
-      "name": "Zwemmen In Het Geld",
-      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
+      "duration_ms": 337733,
+      "name": "Jerome",
+      "url": "https://open.spotify.com/track/0D4Y3VPdzuXkslZdiSVLKp"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Isaak's Marble",
+        "url": "https://open.spotify.com/album/7321BrsYapb3m0FDpRDBte"
+      },
+      "artists": [
+        {
+          "name": "Heath",
+          "url": "https://open.spotify.com/artist/36sKW4QJcMcBkYqavKY5xX"
+        }
+      ],
+      "duration_ms": 601682,
+      "name": "Isaak's Marble",
+      "url": "https://open.spotify.com/track/3IPB6IxdbYD5nOJzQljoun"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1207,6 +1191,22 @@
       "duration_ms": 262039,
       "name": "Vientu",
       "url": "https://open.spotify.com/track/3JBoHXPeA0muUhjDg34K3Z"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "Zwemmen In Het Geld",
+        "url": "https://open.spotify.com/album/0jZgZPtXtb0EnLxNeH9qlj"
+      },
+      "artists": [
+        {
+          "name": "Zeevlinder",
+          "url": "https://open.spotify.com/artist/1SQxjouaMdQ33xLh15463l"
+        }
+      ],
+      "duration_ms": 170883,
+      "name": "Zwemmen In Het Geld",
+      "url": "https://open.spotify.com/track/0GKRQlXAFUEFWi2mc5eqb3"
     },
     {
       "added_at": "2024-10-21 10:10:26",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2024-10-21 10:10:26",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/7xWofDr8zQrH2EZzjMApiZ"
-      },
-      "artists": [
-        {
-          "name": "PXRPLE JAZZ",
-          "url": "https://open.spotify.com/artist/4b3ke64kqHkuOMPtuEZIvZ"
-        }
-      ],
-      "duration_ms": 145570,
-      "name": "PONCHO",
-      "url": "https://open.spotify.com/track/19FXmyBwozudmHoagcDNXC"
-    },
-    {
-      "added_at": "2024-10-21 10:10:26",
-      "album": {
         "name": "Order Of Operations",
         "url": "https://open.spotify.com/album/6drsg5hD7OV6pyRM9KOcEP"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 431600,
       "name": "Order Of Operations",
       "url": "https://open.spotify.com/track/57T2io4N4UUqlef1TmSuaA"
+    },
+    {
+      "added_at": "2024-10-21 10:10:26",
+      "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/7xWofDr8zQrH2EZzjMApiZ"
+      },
+      "artists": [
+        {
+          "name": "PXRPLE JAZZ",
+          "url": "https://open.spotify.com/artist/4b3ke64kqHkuOMPtuEZIvZ"
+        }
+      ],
+      "duration_ms": 145570,
+      "name": "PONCHO",
+      "url": "https://open.spotify.com/track/19FXmyBwozudmHoagcDNXC"
     },
     {
       "added_at": "2024-10-21 10:10:26",

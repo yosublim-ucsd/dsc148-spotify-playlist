@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2B5hXslE3gB415wlpuI6et">LP</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-148 songs - 9 hr 14 min
+149 songs - 9 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,8 @@
 | [Roller Coaster](https://open.spotify.com/track/6elXVlR9dJliy71mybZP7s) | [Serena Ryder](https://open.spotify.com/artist/3jmxkI8Jhv8bHOd2qSiU9j) | [Utopia \(Deluxe\)](https://open.spotify.com/album/0GAtHpvRswlQ1ONVQgz9q5) | 3:30 | 2022-09-08 |  |
 | [Salvation](https://open.spotify.com/track/5KMNtw6HVCvXeY3b60JtGR) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:51 | 2022-09-08 |  |
 | [Savannah](https://open.spotify.com/track/7AXpgz9M22NapnpCUcxG7Y) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:14 | 2022-09-08 |  |
-| [Sex Ed](https://open.spotify.com/track/2HjBGYAl1Z1OtYsjkqTi1N) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Sex Ed](https://open.spotify.com/album/0w5HxteP4Tqwc1F9Bsido7) | 3:15 | 2022-09-08 |  |
+| [Sex Ed](https://open.spotify.com/track/1HEnlJjOPIpN1OfKdapGDM) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Superficial \(Anniversary Edition\)](https://open.spotify.com/album/0ohNLvVPgFvthWYGpepIA0) | 3:15 | 2025-01-15 |  |
+| [Sex Ed](https://open.spotify.com/track/2HjBGYAl1Z1OtYsjkqTi1N) | [Heidi Montag](https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG) | [Sex Ed](https://open.spotify.com/album/0w5HxteP4Tqwc1F9Bsido7) | 3:15 | 2022-09-08 | 2025-01-16 |
 | [Shaken](https://open.spotify.com/track/33Vpz0V1ytEaRQuIb1LqGv) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart to Mouth](https://open.spotify.com/album/0pGDQC60cx6f5roJfHLF1g) | 3:45 | 2022-09-08 | 2023-12-14 |
 | [Shaken](https://open.spotify.com/track/4LJk03mU99sKySVUM03ogq) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/0fxTwPdsK0yMUfoRQwaEx5) | 3:45 | 2024-04-28 | 2024-07-27 |
 | [Shaken](https://open.spotify.com/track/4OLDV6nk6JrzYoaiHDRR0v) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:45 | 2023-12-13 |  |

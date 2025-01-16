@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-424 songs - 23 hr 33 min
+425 songs - 23 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -351,6 +351,7 @@
 | [Space and Time](https://open.spotify.com/track/7IZXUoILTWAX5LRRkogRG2) | [Emma Russack](https://open.spotify.com/artist/1Uk2WvbKqPrA19SbAO9miy) | [Space and Time](https://open.spotify.com/album/1Ygk2W8N1jbTdkcSy8UDgP) | 2:36 | 2024-06-17 | 2024-07-12 |
 | [Spirits](https://open.spotify.com/track/5ypoadj8L1UdREY4rS9JbK) | [NINA](https://open.spotify.com/artist/53O83dY0rBGmnM4gV7Sqyr) | [Classics](https://open.spotify.com/album/2xwtG3ZLBMMuk1gd1d6Wa3) | 1:55 | 2024-01-05 | 2024-03-10 |
 | [Spoon](https://open.spotify.com/track/4yGEFWe0tZzYGkNtJRg9bf) | [CAN](https://open.spotify.com/artist/4l8xPGtl6DHR2uvunqrl8r) | [Ege Bamyasi \(Remastered\)](https://open.spotify.com/album/6Seo9dju2EMVYkUVUDlkXw) | 3:04 | 2024-01-05 | 2024-03-10 |
+| [Stan Is Lowe](https://open.spotify.com/track/2E3h67GZuG6NQ9jDQpV24t) | [Geoffrey Landers](https://open.spotify.com/artist/61boQYG7JKM1E48RWon8Lc) | [The Ever Decimal Pulse](https://open.spotify.com/album/2q4XZHhXycsAejrdhMCVkP) | 5:43 | 2025-01-15 |  |
 | [Star](https://open.spotify.com/track/5ijSUALHfNot7KSafyLI4E) | [Mitski](https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK) | [The Land Is Inhospitable and So Are We](https://open.spotify.com/album/2Cn1d2KgbkAqbZCJ1RzdkA) | 2:59 | 2024-03-09 | 2024-05-16 |
 | [Stars](https://open.spotify.com/track/5V2hxMV4zoeDhk39XsY01s) | [The Brian Jonestown Massacre](https://open.spotify.com/artist/30uiS1n3uIGXJEYFR1GVDy) | [Thank God For Mental Illness](https://open.spotify.com/album/6A7Eja5un4Bho0swBTvh2r) | 3:15 | 2024-10-02 | 2024-11-14 |
 | [Still Feels Like Tears \[Demo\]](https://open.spotify.com/track/7oW1kR6WNzw0NRBmDFbdVj) | [Broadcast](https://open.spotify.com/artist/0WtTGUjbur1R1cNzBvbsMU) | [Distant Call \- Collected Demos 2000 \- 2006](https://open.spotify.com/album/3R66mzyY7RONq48WPfxPky) | 3:10 | 2024-11-13 | 2025-01-12 |

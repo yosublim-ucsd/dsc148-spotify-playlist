@@ -1005,6 +1005,24 @@
     },
     {
       "album": {
+        "name": "Modern Day Ripoff (Live at Montreux Jazz Festival 2023)",
+        "url": "https://open.spotify.com/album/02S4zgfXv4pANUFVwQXvyG"
+      },
+      "artists": [
+        {
+          "name": "Iggy Pop",
+          "url": "https://open.spotify.com/artist/33EUXrFKGjpUSGacqEHhU4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200613,
+      "name": "Modern Day Ripoff - Live At Montreux Jazz Festival 2023",
+      "url": "https://open.spotify.com/track/7E6uOU9cfA6laiPRxQELGz"
+    },
+    {
+      "album": {
         "name": "EVERY LOSER",
         "url": "https://open.spotify.com/album/62VSZ71LvrUh1VoSuPgzXd"
       },

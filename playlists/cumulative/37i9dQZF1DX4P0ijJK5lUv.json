@@ -790,10 +790,6 @@
           "url": "https://open.spotify.com/artist/0f3PsS9IQ6whvNMFFKnpjl"
         },
         {
-          "name": "Simon Preston",
-          "url": "https://open.spotify.com/artist/2w0dRPpzDTNYZmV9AplCD0"
-        },
-        {
           "name": "Sir David Willcocks",
           "url": "https://open.spotify.com/artist/3adMGKhs0hyGuTVpe7hnqC"
         }
@@ -3570,14 +3566,6 @@
         {
           "name": "John Williams",
           "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "The American Boychoir",
-          "url": "https://open.spotify.com/artist/78crIk6w9PtFUot9T0YY7I"
-        },
-        {
-          "name": "Boston Pops Orchestra",
-          "url": "https://open.spotify.com/artist/7CIcEIOiWaZcEH35cpsdZq"
         }
       ],
       "date_added": "2024-11-27",
@@ -4911,7 +4899,7 @@
       "date_added": "2021-11-29",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 235760,
+      "duration_ms": 232400,
       "name": "See Amid The Winter's Snow",
       "url": "https://open.spotify.com/track/6xi3Mxoem2mUqLoabMg7oj"
     },

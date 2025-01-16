@@ -8367,6 +8367,24 @@
     },
     {
       "album": {
+        "name": "Pajaros blancos",
+        "url": "https://open.spotify.com/album/3szBCrDbDK5ethdxGuXMiO"
+      },
+      "artists": [
+        {
+          "name": "Leddei",
+          "url": "https://open.spotify.com/artist/52c7HK8GD8wokmwHeNXGhs"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124679,
+      "name": "Pajaros blancos",
+      "url": "https://open.spotify.com/track/3r82q3kloSXj8ybjRNroLN"
+    },
+    {
+      "album": {
         "name": "Papillon",
         "url": "https://open.spotify.com/album/5YAT2Vz0oQPx9NhKRnASNF"
       },

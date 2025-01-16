@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP?si=fWY6qBuPRXWePg65rHXRRg>I\-Fee Sound</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,160 likes - 95 songs - 7 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,167 likes - 95 songs - 7 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 23 | [JO \- Live](https://open.spotify.com/track/3LmGYVH2X20G9wdqsNOMLG) | [LC Beatz](https://open.spotify.com/artist/5XkBrq2jCva8S9IKRphUVi), [Oshara](https://open.spotify.com/artist/2BWbea2OWDidK2vZnas8E3) | [LIVE AT THE OYEL EXPERIENCE](https://open.spotify.com/album/429aI2FIsoF9anMX4Na566) | 3:08 |
 | 24 | [Never Fail](https://open.spotify.com/track/2R8U68o5C78oyhbaLNkHaZ) | [Dj Penny](https://open.spotify.com/artist/0m8Pugts84dRwQV3sYSJuY), [Sammy Sas](https://open.spotify.com/artist/6Kz5VJW0MekzAD8lHckzEv), [Domnik](https://open.spotify.com/artist/25sThYyRb0zAJxvrHSRlEx) | [Never Fail](https://open.spotify.com/album/6sQAw77gKkQrLhbHLMV4PM) | 2:42 |
 | 25 | [Jesu Doh \(Revisitation\)](https://open.spotify.com/track/2ff0oDG7KHh5G6Sn4Tn6KH) | [Onome Ovwori](https://open.spotify.com/artist/3BVYzOXEHmFZGLy9jHiXIy), [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [Jesu Doh \(Revisitation\)](https://open.spotify.com/album/3EuYKNMSaFJjncOA1yZktn) | 5:23 |
-| 26 | [Halleluyah](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 |
+| 26 | [Halleluyah \- Live](https://open.spotify.com/track/23tmE632HmYhBsJfWmT1kN) | [Promise Benson](https://open.spotify.com/artist/3Qq79ttYAI3U1Vhev6Og28) | [Halleluyah \(Live\)](https://open.spotify.com/album/793DO3iC0RYOzaXx2cgK6k) | 7:52 |
 | 27 | [Your Face](https://open.spotify.com/track/2jQjFjPzh2tnkotoTvGeWI) | [Joel Ekeoma](https://open.spotify.com/artist/7lH3l5nTuDI0J3PuXLUFKz) | [Your Face](https://open.spotify.com/album/7k2BijTgcqwpo0PhoZ3R4z) | 14:48 |
 | 28 | [I Made it](https://open.spotify.com/track/4Ku98QuS3FTBt7ru4x1U9g) | [Paul\-Emmanuel](https://open.spotify.com/artist/4VLYFcmEJqb17kzkQ64wE3), [Kelar Thrillz](https://open.spotify.com/artist/4G7gnjFEISCa9aKBdoUvMb), [Awesome's Music Group](https://open.spotify.com/artist/6pT56YXMMA6sh3UyNMSDUO) | [I Made it](https://open.spotify.com/album/7pGpttxoT2plxkl8WNM3Z9) | 2:52 |
 | 29 | [Not One](https://open.spotify.com/track/2oy7FQhsjhwdcegJ1dagcA) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [Not One](https://open.spotify.com/album/1k1PSqQeK7qHKNnlAqLVRG) | 2:29 |

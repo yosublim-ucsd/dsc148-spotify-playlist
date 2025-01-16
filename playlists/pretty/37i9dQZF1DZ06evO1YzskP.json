@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 51229,
+  "num_followers": 51301,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4RXgAAAAAAK3JvzsxWUipkUa8Oq0erh",
+  "snapshot_id": "Z4WpAAAAAAA5EmcGvYidYkcNNPQ71yEr",
   "tracks": [
     {
       "added_at": null,
@@ -639,18 +639,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Asombrerados",
-        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
+        "name": "CHV FLX",
+        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "Estilo Sencillo",
+          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 167321,
-      "name": "No Voy Con Rodeos",
-      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
+      "duration_ms": 144426,
+      "name": "CHV FLX",
+      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
     },
     {
       "added_at": null,
@@ -671,22 +675,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "CHV FLX",
-        "url": "https://open.spotify.com/album/570wwrCeTevXqtkNrQvdyM"
+        "name": "Corridos Asombrerados",
+        "url": "https://open.spotify.com/album/0IiFbYVzN1ekVu1j3S1uh9"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "Estilo Sencillo",
-          "url": "https://open.spotify.com/artist/0PG3h5k6cYdVbyKgHGMHc5"
         }
       ],
-      "duration_ms": 144426,
-      "name": "CHV FLX",
-      "url": "https://open.spotify.com/track/68UNONImrqa50dkBqTBSV8"
+      "duration_ms": 167321,
+      "name": "No Voy Con Rodeos",
+      "url": "https://open.spotify.com/track/2V8YzvtchoXnYLXufC8Jtu"
     },
     {
       "added_at": null,

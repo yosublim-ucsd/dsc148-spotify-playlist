@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur de la sc\u00e8ne alternative qu\u00e9b\u00e9coise actuelle. Photo: La S\u00e9curit\u00e9",
-  "num_followers": 6012,
+  "num_followers": 6013,
   "original_name": "ALT_QC",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
+        "name": "Baloney suicide",
+        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+      },
+      "artists": [
+        {
+          "name": "VioleTT Pi",
+          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+        }
+      ],
+      "duration_ms": 122253,
+      "name": "Celui qui attend",
+      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
         "name": "Les gens qu'on aime",
         "url": "https://open.spotify.com/album/66ONm5qZ9HVGandRHuk4O9"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 182880,
       "name": "Un peu de magie",
       "url": "https://open.spotify.com/track/3k3Tj6cWPOrdZSOVN92Dtz"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Isumagijunnaitaungituq (The Unforgiven)",
-        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
-      },
-      "artists": [
-        {
-          "name": "Elisapie",
-          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
-        }
-      ],
-      "duration_ms": 273997,
-      "name": "Isumagijunnaitaungituq (The Unforgiven)",
-      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -795,18 +795,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Baloney suicide",
-        "url": "https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b"
+        "name": "Isumagijunnaitaungituq (The Unforgiven)",
+        "url": "https://open.spotify.com/album/6sCLTOiJoNPXNZq9x04KQD"
       },
       "artists": [
         {
-          "name": "VioleTT Pi",
-          "url": "https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7"
+          "name": "Elisapie",
+          "url": "https://open.spotify.com/artist/37Hkw3PjSoS9k06WwMibM3"
         }
       ],
-      "duration_ms": 122253,
-      "name": "Celui qui attend",
-      "url": "https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm"
+      "duration_ms": 273997,
+      "name": "Isumagijunnaitaungituq (The Unforgiven)",
+      "url": "https://open.spotify.com/track/2aNAfaxwWoTnV0eC5RdJxy"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -959,22 +959,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Rencontrer Looloo",
-        "url": "https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg"
-      },
-      "artists": [
-        {
-          "name": "Chocolat",
-          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
-        }
-      ],
-      "duration_ms": 150320,
-      "name": "Ah ouin",
-      "url": "https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Deuxi\u00e8me chance",
         "url": "https://open.spotify.com/album/5EsXwDuMbfnbUo9Hm1GcLL"
       },
@@ -987,6 +971,22 @@
       "duration_ms": 212137,
       "name": "Sempre Juntos",
       "url": "https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Rencontrer Looloo",
+        "url": "https://open.spotify.com/album/3yvFPD3YJenurvdHAxxDcg"
+      },
+      "artists": [
+        {
+          "name": "Chocolat",
+          "url": "https://open.spotify.com/artist/1WCqmUezh1dSnBcHSozS57"
+        }
+      ],
+      "duration_ms": 150320,
+      "name": "Ah ouin",
+      "url": "https://open.spotify.com/track/4JVe6FuY32Bl8oJberHU5E"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Aire de plastique",
-        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 247996,
-      "name": "Aire de plastique",
-      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Une autre vie",
         "url": "https://open.spotify.com/album/6vZcM8KNolN2HnF7BM6q7Z"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 205312,
       "name": "Une autre vie",
       "url": "https://open.spotify.com/track/40HktbYQgbdvMlmlBCcu9M"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "Aire de plastique",
+        "url": "https://open.spotify.com/album/054vgEJE8ErWurbHkyeCEw"
+      },
+      "artists": [
+        {
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
+        }
+      ],
+      "duration_ms": 247996,
+      "name": "Aire de plastique",
+      "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "Demande sp\u00e9ciale",
-        "url": "https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33"
-      },
-      "artists": [
-        {
-          "name": "Bon Enfant",
-          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
-        }
-      ],
-      "duration_ms": 175168,
-      "name": "Demande sp\u00e9ciale",
-      "url": "https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
         "name": "Romantisme",
         "url": "https://open.spotify.com/album/1BdZFmzKE7B3QAxJJyXXx4"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 233708,
       "name": "Romantisme",
       "url": "https://open.spotify.com/track/3IqqmMjTOCAjVr2hJay9VZ"
+    },
+    {
+      "added_at": "2024-11-29 05:00:00",
+      "album": {
+        "name": "tu penses-tu + veux veux pas",
+        "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
+      },
+      "artists": [
+        {
+          "name": "comment debord",
+          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+        }
+      ],
+      "duration_ms": 190284,
+      "name": "veux veux pas",
+      "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
     },
     {
       "added_at": "2024-11-29 05:00:00",
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2024-11-29 05:00:00",
       "album": {
-        "name": "tu penses-tu + veux veux pas",
-        "url": "https://open.spotify.com/album/0wp331DVEUGOSpXH91uDsy"
+        "name": "Demande sp\u00e9ciale",
+        "url": "https://open.spotify.com/album/40qfBrz1foTi9duZlJCd33"
       },
       "artists": [
         {
-          "name": "comment debord",
-          "url": "https://open.spotify.com/artist/6C16UJJjE6FE2VwenTrElQ"
+          "name": "Bon Enfant",
+          "url": "https://open.spotify.com/artist/0hkdPMjJkZqjDwE7j5XAYb"
         }
       ],
-      "duration_ms": 190284,
-      "name": "veux veux pas",
-      "url": "https://open.spotify.com/track/33bMQErvWevcA7zMxXE0wS"
+      "duration_ms": 175168,
+      "name": "Demande sp\u00e9ciale",
+      "url": "https://open.spotify.com/track/41Ne4XNjs1z8oTH7zYy2nj"
     },
     {
       "added_at": "2024-11-29 05:00:00",

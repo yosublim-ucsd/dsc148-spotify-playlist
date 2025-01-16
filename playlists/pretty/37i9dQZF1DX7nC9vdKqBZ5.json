@@ -1,6 +1,6 @@
 {
   "description": "Relaxe com grandes hits da m\u00fasica nacional em vers\u00f5es ac\u00fasticas. ",
-  "num_followers": 1514660,
+  "num_followers": 1514694,
   "original_name": "Desplugado",
   "owner": {
     "name": "Spotify",
@@ -259,22 +259,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "N",
-        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
-      },
-      "artists": [
-        {
-          "name": "ANAVIT\u00d3RIA",
-          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "relic\u00e1rio",
-      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "VI",
         "url": "https://open.spotify.com/album/2blIxqyAY5WGGobD4Jr1hL"
       },
@@ -287,6 +271,22 @@
       "duration_ms": 241400,
       "name": "Por Onde Voc\u00ea Anda?",
       "url": "https://open.spotify.com/track/6Cds1yaAqjemuebKt1DIKj"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "N",
+        "url": "https://open.spotify.com/album/0ArhyC2E8UYtNhFYBialf0"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "relic\u00e1rio",
+      "url": "https://open.spotify.com/track/1fZgxJgmmOl8zCyHgcKAWE"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -715,22 +715,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Ac\u00fastico",
-        "url": "https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd"
-      },
-      "artists": [
-        {
-          "name": "Filhos De Jorge",
-          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
-        }
-      ],
-      "duration_ms": 261882,
-      "name": "Viver em Paz - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "N\u00e3o Te Largo, N\u00e3o Te Troco (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/26z3fDJcPN0KaxrdFxC8yX"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 230772,
       "name": "N\u00e3o Te Largo, N\u00e3o Te Troco - Ac\u00fastico",
       "url": "https://open.spotify.com/track/20oATguIKxxfwp1h9MlNGZ"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Ac\u00fastico",
+        "url": "https://open.spotify.com/album/74iEwmUCpwVaolgBpU9Fbd"
+      },
+      "artists": [
+        {
+          "name": "Filhos De Jorge",
+          "url": "https://open.spotify.com/artist/2V9RQWP2Dk6IEauL7D14vE"
+        }
+      ],
+      "duration_ms": 261882,
+      "name": "Viver em Paz - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7wnp9qhBO2q5q2ksSZTc6d"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Cartas e Versos",
-        "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
-      },
-      "artists": [
-        {
-          "name": "Frejat",
-          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
-        }
-      ],
-      "duration_ms": 199814,
-      "name": "Cartas e Versos",
-      "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Aluga-se",
         "url": "https://open.spotify.com/album/070l8UAuwcgrVeK1y9l4ZI"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 125955,
       "name": "Aluga-se",
       "url": "https://open.spotify.com/track/1i2vei4vkOOQB3ag6IMAYM"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "Cartas e Versos",
+        "url": "https://open.spotify.com/album/5IBBQ2VFlYpxM84DPdEPE7"
+      },
+      "artists": [
+        {
+          "name": "Frejat",
+          "url": "https://open.spotify.com/artist/3WVjDclrbHsxjxhiOqHdnw"
+        }
+      ],
+      "duration_ms": 199814,
+      "name": "Cartas e Versos",
+      "url": "https://open.spotify.com/track/0UQor28BlM3xdKQGAwPPyP"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1243,6 +1243,26 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Sutileza",
+        "url": "https://open.spotify.com/album/2mAkxnhGmmtffhfJVp9UpN"
+      },
+      "artists": [
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Gibin",
+          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
+        }
+      ],
+      "duration_ms": 195000,
+      "name": "Sutileza",
+      "url": "https://open.spotify.com/track/2oMR14X1A6nvvpzWBD7Qdq"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Deixe Me Ir (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/1eFFmE91zTBJQCz8YtFctr"
       },
@@ -1263,26 +1283,6 @@
       "duration_ms": 213191,
       "name": "Deixe Me Ir - Ac\u00fastico",
       "url": "https://open.spotify.com/track/2srL4DYBekshpbprS6H0mO"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Sutileza",
-        "url": "https://open.spotify.com/album/2mAkxnhGmmtffhfJVp9UpN"
-      },
-      "artists": [
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Gibin",
-          "url": "https://open.spotify.com/artist/7lC3tO6g2CQhlN0yeDVLDM"
-        }
-      ],
-      "duration_ms": 195000,
-      "name": "Sutileza",
-      "url": "https://open.spotify.com/track/2oMR14X1A6nvvpzWBD7Qdq"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1479,6 +1479,38 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
+        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
+      },
+      "artists": [
+        {
+          "name": "Rodrigo Alarcon",
+          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
+        }
+      ],
+      "duration_ms": 216336,
+      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
+        "name": "O Sol",
+        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+      },
+      "artists": [
+        {
+          "name": "Vitor Kley",
+          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
+        }
+      ],
+      "duration_ms": 209000,
+      "name": "O Sol",
+      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+    },
+    {
+      "added_at": "2024-08-02 18:37:00",
+      "album": {
         "name": "Porque Eu Sei Que \u00c9 Amor (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/4GOE1sZ3a3jIXZo9mNKrkJ"
       },
@@ -1495,22 +1527,6 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "Morena (Acoustic Version)",
-        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
-      },
-      "artists": [
-        {
-          "name": "Vitor Kley",
-          "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Morena (Acoustic Version)",
-      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
@@ -1523,22 +1539,6 @@
       "duration_ms": 231616,
       "name": "Meu Abrigo",
       "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
-    },
-    {
-      "added_at": "2024-08-02 18:37:00",
-      "album": {
-        "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/077iUTcnYBAQYm4RQgEXVP"
-      },
-      "artists": [
-        {
-          "name": "Rodrigo Alarcon",
-          "url": "https://open.spotify.com/artist/6D3gtdoxrtRGO9ZDU5wWSQ"
-        }
-      ],
-      "duration_ms": 216336,
-      "name": "Fr\u00e1gil Cora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2VxnvfZykJxJkRTXd6tZUI"
     },
     {
       "added_at": "2024-08-02 18:37:00",
@@ -1603,8 +1603,8 @@
     {
       "added_at": "2024-08-02 18:37:00",
       "album": {
-        "name": "O Sol",
-        "url": "https://open.spotify.com/album/7hFGM13M6f40r78cSfivWY"
+        "name": "Morena (Acoustic Version)",
+        "url": "https://open.spotify.com/album/4lYDCl27Ww01WS553y9v2h"
       },
       "artists": [
         {
@@ -1612,9 +1612,9 @@
           "url": "https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U"
         }
       ],
-      "duration_ms": 209000,
-      "name": "O Sol",
-      "url": "https://open.spotify.com/track/3IfctMaf2sfvlSLRa42Cna"
+      "duration_ms": 166000,
+      "name": "Morena (Acoustic Version)",
+      "url": "https://open.spotify.com/track/5WNKIFHYww0zLmpnNheVjq"
     },
     {
       "added_at": "2024-08-02 18:37:00",

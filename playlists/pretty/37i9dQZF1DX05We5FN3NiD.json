@@ -1,6 +1,6 @@
 {
   "description": "2019 highlights from the home of indie music.",
-  "num_followers": 46131,
+  "num_followers": 46141,
   "original_name": "Best of Indie 2019",
   "owner": {
     "name": "Spotify",
@@ -184,9 +184,9 @@
           "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 188000,
-      "name": "Alaska",
-      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
+      "duration_ms": 233880,
+      "name": "Light On",
+      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -264,9 +264,9 @@
           "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
         }
       ],
-      "duration_ms": 233880,
-      "name": "Light On",
-      "url": "https://open.spotify.com/track/6UnCGAEmrbGIOSmGRZQ1M2"
+      "duration_ms": 188000,
+      "name": "Alaska",
+      "url": "https://open.spotify.com/track/4HfLQJtVT1KiX1eVedDyTm"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -688,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 146596,
-      "name": "Go",
-      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
+      "duration_ms": 196776,
+      "name": "Shine A Little Light",
+      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -860,9 +860,9 @@
           "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 196776,
-      "name": "Shine A Little Light",
-      "url": "https://open.spotify.com/track/365TSrFPqM66giaxJuafR3"
+      "duration_ms": 146596,
+      "name": "Go",
+      "url": "https://open.spotify.com/track/2GuXIMRlaxVLcU0a5jacHw"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Twenty Twenty",
+        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 252987,
+      "name": "Roddy",
+      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Lux Prima",
         "url": "https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 199320,
       "name": "Turn The Light",
       "url": "https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 216706,
-      "name": "Hey, Ma",
-      "url": "https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Twenty Twenty",
-        "url": "https://open.spotify.com/album/4v3LUnHL01HzJC6Jol6FCv"
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
       },
       "artists": [
         {
-          "name": "Djo",
-          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 252987,
-      "name": "Roddy",
-      "url": "https://open.spotify.com/track/20WSCvv9qfQHzYzTaLyXHH"
+      "duration_ms": 216706,
+      "name": "Hey, Ma",
+      "url": "https://open.spotify.com/track/0d6bZwEAi1XblGRhnzPfgC"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1307,6 +1307,22 @@
       "duration_ms": 192695,
       "name": "On the Luna",
       "url": "https://open.spotify.com/track/0Sfj5fPqZzCq9o3f1NNphz"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Outer Peace",
+        "url": "https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        }
+      ],
+      "duration_ms": 183746,
+      "name": "Ordinary Pleasure",
+      "url": "https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
-        "name": "Outer Peace",
-        "url": "https://open.spotify.com/album/7lXkGYfPd8ygerG681NxQG"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        }
-      ],
-      "duration_ms": 183746,
-      "name": "Ordinary Pleasure",
-      "url": "https://open.spotify.com/track/31F0KxmTD4rz3o0tJht5RL"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
         "name": "Two Hands",
         "url": "https://open.spotify.com/album/7pg8T6pajjHVZbiyB8bGxo"
       },
@@ -1371,38 +1371,6 @@
       "duration_ms": 367093,
       "name": "Not",
       "url": "https://open.spotify.com/track/7IzJ7EGpIpq2vW3ylVTtMh"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 219428,
-      "name": "Fuzzybrain",
-      "url": "https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "i,i",
-        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 262266,
-      "name": "Naeem",
-      "url": "https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1423,6 +1391,22 @@
     {
       "added_at": "2022-09-16 04:53:36",
       "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/5PFzbdbZRNaoGLCHFPnmv3"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 219428,
+      "name": "Fuzzybrain",
+      "url": "https://open.spotify.com/track/57HJa4ktE7iHGrbFhwzEr2"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
         "name": "Atlanta Millionaires Club",
         "url": "https://open.spotify.com/album/4vt0V1SmkaK1Y440P5Nsb4"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 202160,
       "name": "Kingston",
       "url": "https://open.spotify.com/track/0EDQwboQDmswDRn58wcslg"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "i,i",
+        "url": "https://open.spotify.com/album/54DU59anGQsdrFP7utpshG"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 262266,
+      "name": "Naeem",
+      "url": "https://open.spotify.com/track/1ff60tDWdcdVN6PtKQXWny"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1467,6 +1467,22 @@
       "duration_ms": 175280,
       "name": "Lovestained",
       "url": "https://open.spotify.com/track/4cTPtlhSo6NDdOe1fXzx1N"
+    },
+    {
+      "added_at": "2022-09-16 04:53:36",
+      "album": {
+        "name": "Home",
+        "url": "https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy"
+      },
+      "artists": [
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 156293,
+      "name": "Home",
+      "url": "https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH"
     },
     {
       "added_at": "2022-09-16 04:53:36",
@@ -1563,22 +1579,6 @@
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/3NQMi6VzmxmKeqhcbE02WI"
-    },
-    {
-      "added_at": "2022-09-16 04:53:36",
-      "album": {
-        "name": "Home",
-        "url": "https://open.spotify.com/album/00sZIJm0igl6aBYNktEuSy"
-      },
-      "artists": [
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 156293,
-      "name": "Home",
-      "url": "https://open.spotify.com/track/711gGx1GpUv9YW9KTSfJfH"
     },
     {
       "added_at": "2022-09-16 04:53:36",

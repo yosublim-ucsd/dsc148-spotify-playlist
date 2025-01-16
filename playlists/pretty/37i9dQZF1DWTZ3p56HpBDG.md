@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 
 > Best of South Asian diaspora\. Cover:  Nafeesisboujee
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,196 likes - 85 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,203 likes - 85 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZ3p56HpBDG.md) - [plain]
 | 21 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
 | 22 | [Action](https://open.spotify.com/track/059MUIi9GmBbrFs4fYKtiu) | [Mandrazo](https://open.spotify.com/artist/51ZYyNbFsBlD1EHGHaSFz0), [MOHA](https://open.spotify.com/artist/3BIZZwkg3BMGyVkwROZ5qK), [Duava](https://open.spotify.com/artist/0F88EwGyoS0Mi3VftQjyEj) | [Action](https://open.spotify.com/album/3yG5ZTauubzoLDMIQHBmwH) | 2:12 |
 | 23 | [For Aisha \(Featured in "The Sky Is Pink"\)](https://open.spotify.com/track/6rfahvufEQDIVTHJIU2QQB) | [MEMBA](https://open.spotify.com/artist/7nJNuftnqwrFGFs3ZRRe0u), [EVAN GIIA](https://open.spotify.com/artist/0D6BtvIkN3P9GHTa8KR24t), [Nooran Sisters](https://open.spotify.com/artist/2gFFvbbdzYzzWltI2HkZEV) | [For Aisha \(Featured in "The Sky Is Pink"\)](https://open.spotify.com/album/5He2R0dw92kc4N9tg4v7zc) | 5:57 |
-| 24 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf), [YAM](https://open.spotify.com/artist/7KpyU32bL0qN4pY9wNSu7E) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 |
+| 24 | [Jini](https://open.spotify.com/track/5PNZdDZE07oJOnTrE53p7x) | [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y), [F1rstman](https://open.spotify.com/artist/0IA4SdCS8HBDX6oBoOlgaf) | [Jini](https://open.spotify.com/album/2rOM0s7rEyzdhGgnKUb81u) | 2:02 |
 | 25 | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/track/35bGZ0hG27HIz9ZnTGNr7N) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/album/30T3kSECyT1i2ytnwAcq0E) | 4:17 |
 | 26 | [Good Luck](https://open.spotify.com/track/6IVsYkP3RWt3AwMeHOgDFF) | [Abhi The Nomad](https://open.spotify.com/artist/1gUi2utSbJLNPddYENJAp4) | [Abhi vs The Universe](https://open.spotify.com/album/7npnMZIzcTaC9dFh2iqm0w) | 2:15 |
 | 27 | [ORBIT](https://open.spotify.com/track/1SzyRqDVfbcZrcx37BJtse) | [Akshara](https://open.spotify.com/artist/7j6UTsx4e5HxsHMPXCYy7Z) | [ORBIT](https://open.spotify.com/album/4BwVKcjiIWd2ao6KMjSRh0) | 3:19 |

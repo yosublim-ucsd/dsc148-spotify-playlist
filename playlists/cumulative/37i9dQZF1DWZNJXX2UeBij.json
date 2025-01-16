@@ -1338,7 +1338,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-06",
+      "date_removed": null,
       "duration_ms": 286093,
       "name": "Chhaliya",
       "url": "https://open.spotify.com/track/70r85LQ7Hcof30PJmksilm"
@@ -5618,7 +5618,7 @@
       ],
       "date_added": "2023-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 276166,
       "name": "Salaam Namaste",
       "url": "https://open.spotify.com/track/7fuze7SkVTRISfwqErqJCn"
@@ -6191,6 +6191,36 @@
     },
     {
       "album": {
+        "name": "Singh Is Kinng (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5enfyfBecmzyEg1tYk6L6U"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Mayur Puri",
+          "url": "https://open.spotify.com/artist/1XUGerdrjDBJxF9ZfxMqDj"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339644,
+      "name": "Teri Ore",
+      "url": "https://open.spotify.com/track/5aU0fpmu2sdYJVOHVHCz5s"
+    },
+    {
+      "album": {
         "name": "Karam",
         "url": "https://open.spotify.com/album/6XiqDuD0VKb5jop31lGJZ4"
       },
@@ -6708,7 +6738,7 @@
       ],
       "date_added": "2021-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-16",
       "duration_ms": 280974,
       "name": "Ye Ishq Hai",
       "url": "https://open.spotify.com/track/4BiPsAV070dg3eLSVf727A"

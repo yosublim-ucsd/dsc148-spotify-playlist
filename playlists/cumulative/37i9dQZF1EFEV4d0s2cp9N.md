@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-63 songs - 3 hr 9 min
+69 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [All My Friends](https://open.spotify.com/track/4eT4pfmDVBLzW3x3jY6AMx) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/4rZ78okqiuoeLyOTBZE23R) | 2:24 | 2024-05-01 | 2025-01-15 |
 | [Angel Eyes](https://open.spotify.com/track/5NId2tRxupzFAOPsRDfCxY) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Angel Eyes](https://open.spotify.com/album/0vHQE5yaLhJZmGc8lUnxCd) | 2:50 | 2024-05-01 |  |
 | [Aura](https://open.spotify.com/track/6MKX22DUshtfsOfdHzdve5) | [Rezident](https://open.spotify.com/artist/0hzZTaZ59eR5lESXHRVgkc) | [Aura](https://open.spotify.com/album/4bv6FylWnT6nYM0ik2l79O) | 3:32 | 2025-01-09 |  |
+| [Better Without U](https://open.spotify.com/track/4ZhH9lE1H1kHglrgVS6d9n) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:37 | 2025-01-15 |  |
 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/31OchL4Z3abIvoywvCaXmI) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/3EkoUqxtpRbsaywozm9Wg5) | 2:39 | 2024-11-25 |  |
 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/4wiaFodiDW7oug9P3Xz7Rc) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [BORN TO BREAK YOUR HEART](https://open.spotify.com/album/4fKw1At9ArifrcL94AdsdS) | 2:39 | 2024-05-01 | 2024-11-25 |
 | [BORN TO BREAK YOUR HEART](https://open.spotify.com/track/5FrZVlOIhhA2j733LLOIRI) | [Kelvin Jones](https://open.spotify.com/artist/2t1vHqFELDwweQWM6JYxHG) | [THE RUDE AWAKENING OF MR BIG JUICE.](https://open.spotify.com/album/2usQC6dMqygYaTWUaO0UGk) | 2:39 | 2024-11-24 | 2024-11-26 |
@@ -28,6 +29,7 @@
 | [Everything You Wanted](https://open.spotify.com/track/2R0u5DR5tnMSHJLpsiCVmJ) | [Tasha Low](https://open.spotify.com/artist/3i2MctLBDYHXCLNATxRT5Q), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Everything You Wanted](https://open.spotify.com/album/6MSynSHfw5YN5DN3cG7I91) | 2:37 | 2024-12-11 |  |
 | [FEARLESS \(2023 Ver.\)](https://open.spotify.com/track/4K8jDTlNhZWEdnzZVGRMtN) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 2:48 | 2024-05-01 |  |
 | [Feeling](https://open.spotify.com/track/6FAlvEVVjghOb5WjWRuknl) | [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88), [Timofey](https://open.spotify.com/artist/6MteslgsqpOUtewd6Pw1Uq) | [Feeling](https://open.spotify.com/album/68YUOdsBc9jRCAidJjSmM5) | 2:48 | 2024-05-01 |  |
+| [Fight For Love](https://open.spotify.com/track/5e37Ov2nYHRBcns81Zqot5) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:45 | 2025-01-15 |  |
 | [FOREVER](https://open.spotify.com/track/47QP509sXnE54NwhzoMHAi) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [FOREVER](https://open.spotify.com/album/4MxSuIIvLMFtfL5pwa0cJh) | 3:32 | 2024-07-17 | 2024-11-04 |
 | [FOREVER](https://open.spotify.com/track/6b6KXDbDn0s0Jepxm8a3nr) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/6Lp82GTJXzgtIopT0g7N7k) | 3:32 | 2024-11-03 | 2024-11-06 |
 | [FOREVER](https://open.spotify.com/track/7a6vvAM1cjAuyVQpqv9pmu) | [BABYMONSTER](https://open.spotify.com/artist/1SIocsqdEefUTE6XKGUiVS) | [DRIP](https://open.spotify.com/album/7JCNpE1d2ivc2YPSqEVShc) | 3:32 | 2024-11-05 |  |
@@ -37,12 +39,14 @@
 | [Good Boy Gone Bad](https://open.spotify.com/track/1HsSIPLTQT354yJcQGfEY3) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [minisode 2: Thursday's Child](https://open.spotify.com/album/1o8jYrnyZueTPIdhlHuTc8) | 3:11 | 2024-05-01 |  |
 | [Her](https://open.spotify.com/track/0IHF1tsTEzsjbHwMtAytt1) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4), [bloody white](https://open.spotify.com/artist/5wZF02QJCBqUNCgl1pxrFQ) | [Her](https://open.spotify.com/album/5IrKSvEtO1UDizncw6i5R7) | 3:03 | 2024-05-01 | 2025-01-15 |
 | [Highlight](https://open.spotify.com/track/2VJrDLdiLcw9bSZMe73sWG) | [Kep1er](https://open.spotify.com/artist/5R7AMwDeroq6Ls0COQYpS4) | [Kep1going](https://open.spotify.com/album/7vehBp2yn4AlDZw0SQ8IHf) | 3:33 | 2024-05-31 |  |
+| [i love you don't worry xx](https://open.spotify.com/track/3n8OTDUoEfLHotvabMOvAq) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [i love you don't worry xx](https://open.spotify.com/album/4Vw51MRqtbfQ4xD11BsusD) | 3:05 | 2025-01-15 |  |
 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 | 2024-07-03 |  |
 | [Impurities](https://open.spotify.com/track/7mYwDmbbp8UPLlnRjTJ54X) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [UNFORGIVEN](https://open.spotify.com/album/4Oz7K9DRwwGMN49i4NbVDT) | 3:16 | 2024-05-01 |  |
 | [Lean In \- Interlude](https://open.spotify.com/track/3oMmlRcDyZjCedCuKqJGjC) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [All My Friends](https://open.spotify.com/album/1QqOH1FEXP73RMHPS1gNTd) | 1:44 | 2024-05-01 | 2025-01-15 |
 | [Left & Right](https://open.spotify.com/track/0rxEsBxxil046ZqipaCXle) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Left & Right](https://open.spotify.com/album/7EkoiVaPDOoEfWvSCKHWIS) | 2:34 | 2024-05-01 |  |
 | [Less Of A Woman](https://open.spotify.com/track/36ukbvDkk8gIu3CzvoCpH9) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Therapy](https://open.spotify.com/album/0qZnfUUOH8FkPZBNptfmKr) | 2:34 | 2024-05-01 |  |
 | [Life Goes On](https://open.spotify.com/track/5FVbvttjEvQ8r2BgUcJgNg) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [BE](https://open.spotify.com/album/6nYfHQnvkvOTNHnOhDT3sr) | 3:27 | 2024-05-01 |  |
+| [Like A Man](https://open.spotify.com/track/5rj3tqrFpkDyAUi7DhUBxR) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:22 | 2025-01-15 |  |
 | [Like Crazy](https://open.spotify.com/track/3Ua0m0YmEjrMi9XErKcNiR) | [Jimin](https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY) | [FACE](https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB) | 3:32 | 2024-05-01 |  |
 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 | 2024-05-01 |  |
 | [Nine](https://open.spotify.com/track/4MBYWqDACegUtkazjtukJm) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Nine](https://open.spotify.com/album/5CUQHXJ3gW7Dw30QlZPsN2) | 2:39 | 2024-05-01 | 2025-01-15 |
@@ -67,9 +71,11 @@
 | [The Silence](https://open.spotify.com/track/2GEZc2yWerMNPVTwwOI578) | [Ellipso](https://open.spotify.com/artist/6SSzF90X1iI3jZbaiQMaWs) | [The Silence](https://open.spotify.com/album/7BMmVjURRpn9elnP1XrzCR) | 2:05 | 2024-05-01 |  |
 | [Time Out](https://open.spotify.com/track/0O1BPly9rZtkpwOkmbeZ9T) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Electus](https://open.spotify.com/album/12BfPxoETgAfdrgRVu36jS) | 2:40 | 2024-05-01 |  |
 | [Too Weak](https://open.spotify.com/track/0IwnyVENCHeAnSPA8xcG14) | [Jerro](https://open.spotify.com/artist/1WHFu22zN1C6F11Z1rt12K) | [Coming Home](https://open.spotify.com/album/0Z1WX8Yg9HXmz6Qkl2nhgc) | 4:00 | 2024-05-01 |  |
+| [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 | 2025-01-15 |  |
 | [Turn off the Lights](https://open.spotify.com/track/3TeieiG5zeormUCyJIcF5Z) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75) | [Turn off the Lights](https://open.spotify.com/album/2EsmUBEmNSpSPAUW65C6ng) | 3:08 | 2024-05-01 |  |
+| [U & I](https://open.spotify.com/track/3axphnYT5NJueypneDpRpj) | [ClockClock](https://open.spotify.com/artist/4NSzuIc0eGOftqr0tEOhJk) | [Dreamers](https://open.spotify.com/album/2pFdkI2vVBJ5rvCq17db9e) | 2:39 | 2025-01-15 |  |
 | [Wake Up As You](https://open.spotify.com/track/1d9vKkT7y3bhyEGstBJyXr) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Wake Up As You](https://open.spotify.com/album/1lu63fAYGT2jj7PFH3Rlxs) | 2:38 | 2024-05-01 | 2025-01-15 |
 | [Weekend Lover](https://open.spotify.com/track/2tmtAG8HUAxAbEN9cJU3Kk) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Weekend Lover](https://open.spotify.com/album/6jeWoIDDJJ5zZXVvWbhnOh) | 3:07 | 2024-05-01 | 2025-01-15 |
-| [When It's Over](https://open.spotify.com/track/2AgDrwMxljyyeMsJboEY6b) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [When It's Over](https://open.spotify.com/album/2YaSQDrHQ3iIFRqDluoNo7) | 2:54 | 2024-05-01 |  |
+| [When It's Over](https://open.spotify.com/track/2AgDrwMxljyyeMsJboEY6b) | [Christian Reindl](https://open.spotify.com/artist/0brORfY1t5Qs2VrWVem9SB), [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [When It's Over](https://open.spotify.com/album/2YaSQDrHQ3iIFRqDluoNo7) | 2:54 | 2024-05-01 | 2025-01-16 |
 
 \*This playlist was first scraped on 2024-05-02. Prior content cannot be recovered.
