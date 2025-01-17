@@ -2,7 +2,7 @@
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Jack Johnson, Ray LaMontagne and more
+> With John Mayer, Ray LaMontagne, Jack Johnson and more
 
 1,502 songs - 3 day 20 hr 52 min
 

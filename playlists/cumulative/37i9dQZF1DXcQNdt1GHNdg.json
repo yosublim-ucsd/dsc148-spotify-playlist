@@ -1618,7 +1618,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 188181,
       "name": "Kdo'n Nachana",
       "url": "https://open.spotify.com/track/0l3ZWOShe5Mmkj4brGAi57"
@@ -2314,6 +2314,24 @@
       "duration_ms": 240066,
       "name": "Patola",
       "url": "https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne"
+    },
+    {
+      "album": {
+        "name": "Pecha",
+        "url": "https://open.spotify.com/album/07EHw83aARjdazdCuKQJGz"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139084,
+      "name": "Pecha",
+      "url": "https://open.spotify.com/track/66h3lsk8H1wLsqh4Rph0kn"
     },
     {
       "album": {

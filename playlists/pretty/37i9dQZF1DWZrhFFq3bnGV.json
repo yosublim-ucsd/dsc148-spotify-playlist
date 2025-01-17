@@ -1,13 +1,29 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
-  "num_followers": 108071,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Arumtala",
+  "num_followers": 108079,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1J7UAAAAADFVmXchwTRm8rZGyxZFYgo",
+  "snapshot_id": "Z4k7HwAAAAC4FzbMt0r+lYz4vOEJ1KxO",
   "tracks": [
+    {
+      "added_at": "2025-01-16 17:00:15",
+      "album": {
+        "name": "Gagal Diet",
+        "url": "https://open.spotify.com/album/3mcLJfwHU5VR1N9pwSNCeO"
+      },
+      "artists": [
+        {
+          "name": "ArumtaLa",
+          "url": "https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev"
+        }
+      ],
+      "duration_ms": 188224,
+      "name": "Gagal Diet",
+      "url": "https://open.spotify.com/track/4zno3HyakA9YSSEH4pON1w"
+    },
     {
       "added_at": "2024-12-06 04:19:28",
       "album": {

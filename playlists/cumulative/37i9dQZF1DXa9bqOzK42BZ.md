@@ -4,7 +4,7 @@
 
 > Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=LYcW\_5ZCTGiHVKk\_MsYzMg">Christina Shusho</a>
 
-208 songs - 18 hr 19 min
+211 songs - 18 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amua](https://open.spotify.com/track/4MJ9npZ1snF0HaquPpjqZV) | [Alexis Zawadi](https://open.spotify.com/artist/0GJoWcqZQlO9GH08zxkDN3) | [Amua](https://open.spotify.com/album/3r8SRWMxBde6awir8fXmca) | 6:29 | 2023-05-12 | 2023-11-03 |
 | [Anabadilisha Matokeo](https://open.spotify.com/track/2OvikG1Odt1ADNBS9LjXm1) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Anabadilisha Matokeo](https://open.spotify.com/album/6LHPTkupbo2Zrsi2UdVpra) | 3:49 | 2024-08-16 |  |
 | [Anatengeneza](https://open.spotify.com/track/52C9ZVQeeeVUb9q9hXe0f7) | [Paul Clement](https://open.spotify.com/artist/7fJIPDHIZxV1gm0LPYX46T) | [Usiyeshindwa](https://open.spotify.com/album/6ylay7Gxa7KZvitFvR5won) | 8:28 | 2022-06-24 | 2023-04-21 |
+| [Anza Nami \(feat\. Guardian Angel\)](https://open.spotify.com/track/3V6MVehktSGLq4yIR2kdyf) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Anza Nami \(feat\. Guardian Angel\)](https://open.spotify.com/album/7jVZb2169KDjIBMrLDjiDo) | 3:51 | 2025-01-17 |  |
 | [Asante Yesu](https://open.spotify.com/track/01jj2QYoTFEDitFl5L8o0D) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7GETZelqlelMjLHcCVddt3) | 4:55 | 2022-06-24 | 2024-09-06 |
 | [Asante Yesu](https://open.spotify.com/track/2rUsag6KYqJAT2FikN7Kdt) | [Angela Chibalonza Muliri](https://open.spotify.com/artist/4AX5pJN0bFBqQQK2u6rnIS) | [Nimekutana Na Yesu](https://open.spotify.com/album/7xdM3ySr8c2PNbdrAKeZ3P) | 4:55 | 2022-06-24 | 2024-04-19 |
 | [Baba Bless](https://open.spotify.com/track/3dhCA09HOqWflLFBETCNlg) | [Nuh Mziwanda](https://open.spotify.com/artist/3Tr1usGEKLrBWtSXCqOBop) | [Baba Bless](https://open.spotify.com/album/6ocpsJ53YTnsTt7bHOj8kk) | 3:03 | 2024-12-13 |  |
@@ -46,6 +47,7 @@
 | [Faraja ya Moyo](https://open.spotify.com/track/5Lbg6hYmEESv0ijPREbiwl) | [Saint Carlson](https://open.spotify.com/artist/2syF79LbREdIoJlDpBPdJf) | [FARAJA YA MOYO](https://open.spotify.com/album/4R78v8Ol8gX8Zu2pX9ke88) | 4:42 | 2023-07-21 | 2024-11-22 |
 | [Gharama](https://open.spotify.com/track/7smwyHlMEmutM4zl9UGInu) | [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ), [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87) | [Gharama](https://open.spotify.com/album/636VoPFDMsGNC4E5MGRz1z) | 3:14 | 2023-04-21 |  |
 | [God Ye Buddy](https://open.spotify.com/track/7D2qnjkeghNtbYYP3OgL2h) | [Azawi](https://open.spotify.com/artist/0ZhMKJPaUXzfU0FgAzIOgR), [Vinka](https://open.spotify.com/artist/2nTPCD3IukOtNX689ctkES), [Winnie Nwagi](https://open.spotify.com/artist/6D2BPqCTzdBn26ficmaciD), [Elijah Kitaka](https://open.spotify.com/artist/2MrWl3XhEH4Rgs4L8wOex6), [Zafaran](https://open.spotify.com/artist/1rnLZUBB2QLpNeTrdOElWw), [Levixone](https://open.spotify.com/artist/25rO4hD9VXGMFFfK7zI5lW), [Swangz All\-Star](https://open.spotify.com/artist/7e4IOPcpm2VcBIcKAJnPmQ) | [God Ye Buddy](https://open.spotify.com/album/5A6sxUUxdUUiVBMikeydeH) | 4:23 | 2024-10-04 |  |
+| [Habadiliki \- Live](https://open.spotify.com/track/3QWUUdnGaIpsiJIDdTgT4x) | [Noel Nderitu](https://open.spotify.com/artist/7vND5ZBem26nCv1lRHx4xT) | [Habadiliki \(Live\)](https://open.spotify.com/album/0d6dkI00atJmMDl21u8G55) | 4:20 | 2025-01-17 |  |
 | [Hafanani](https://open.spotify.com/track/4y3Xoxq7l4JvZcEDN2tUZX) | [Otile Brown](https://open.spotify.com/artist/25txWhgJAzekbAaHuDzmwj) | [Hafanani](https://open.spotify.com/album/4C5MP6vOv9gSXbYKSeRdNg) | 3:28 | 2024-04-05 |  |
 | [Hakuna Kama Wewe](https://open.spotify.com/track/66xyIlcQ2OkouvA8XtzpVG) | [PRAISE TEAM TAG FOREST YA KWANZA](https://open.spotify.com/artist/50hp2iuwBlYltAQboCN8k3) | [Utukufu wa Nyumba Hii](https://open.spotify.com/album/0hgFtUKr3UU41K8DYZP6BQ) | 8:53 | 2024-10-04 |  |
 | [Hakuna Wa Kufanana Na Yeye](https://open.spotify.com/track/5aBT3GfDCZP2GQZa3OqOF6) | [Sifaeli Mwabuka](https://open.spotify.com/artist/1o3pLofmtcArrMaoHPgrqq) | [Hakuna Wa Kufanana Na Yeye](https://open.spotify.com/album/5Sv5uFjTEmMzgMg0MXyg9c) | 7:16 | 2023-09-22 | 2024-05-24 |
@@ -88,6 +90,7 @@
 | [Mimi Ni Wa Juu](https://open.spotify.com/track/1LaX0UP4cGeNNTO97BfVdW) | [Nandy](https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3) | [Mimi Ni Wa Juu](https://open.spotify.com/album/0tGxET5L3eT9Sd8JzEmTma) | 3:51 | 2022-06-24 |  |
 | [Mimi Ni Wa Mungu](https://open.spotify.com/track/30bZJE9rGEjQIb2eWYbZBx) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie) | [Mimi Ni Wa Mungu](https://open.spotify.com/album/740ujjyVeY1jIXqUcB3iGq) | 3:10 | 2024-04-19 |  |
 | [MIPANGO YA MUNGU \- LIVE](https://open.spotify.com/track/4WtjItEj1oDmzoGnMww63A) | [Jemmimah Thiong'o](https://open.spotify.com/artist/5qSYakkSOUagBtuyQE7CDC) | [BY FAITH ALL THE WAY \(LIVE\)](https://open.spotify.com/album/0BYK7CQapZgEasptDNl9Gr) | 5:32 | 2023-07-07 |  |
+| [Miujiza](https://open.spotify.com/track/26SbdEBbP1XpPmyW79Sy5z) | [Treyzah](https://open.spotify.com/artist/1ZEoQ0UaWVoJZE6JCZZUM3) | [Miujiza](https://open.spotify.com/album/033omXEGT0F4AzNh8DVSw9) | 3:34 | 2025-01-17 |  |
 | [Mjini](https://open.spotify.com/track/4DGWfhjyRpH7hM3ikQws7V) | [Obby Alpha](https://open.spotify.com/artist/0PN2wNxxBHNUa4OQPb1ev6) | [Mjini](https://open.spotify.com/album/5B7ObLC2c5ls9w7Sdd1hi5) | 4:30 | 2024-12-20 |  |
 | [Mlima \- Live](https://open.spotify.com/track/3Bb5vkZxM7QtO0JCiwcEFc) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Mlima \(Live\)](https://open.spotify.com/album/2VxeSdAk3b1vBgCUpxO1Em) | 10:23 | 2022-06-24 |  |
 | [Mlima \- Live](https://open.spotify.com/track/3KMb9RdwHVN5yblwN7GyNF) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Higher + Deeper \(Live in Dar Es Salaam\)](https://open.spotify.com/album/3Vsi0VHAZvFXHQg5RKho0T) | 10:23 | 2022-06-24 | 2024-04-19 |

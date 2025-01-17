@@ -4,7 +4,7 @@
 
 > Leaders of the new school...Alternative R&B\. Cover: Gabriel Jacoby
 
-1,354 songs - 2 day 23 hr 17 min
+1,355 songs - 2 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,7 @@
 | [All I've Got](https://open.spotify.com/track/5zpTPxwvDo0qsrw5ISPaqp) | [Black Atlass](https://open.spotify.com/artist/7AbKOHOvn27dK0FOiboAno) | [When The Darkness Fades](https://open.spotify.com/album/1q5cjxQeQ5dVHpPzcDiVOg) | 4:13 | 2023-10-06 | 2024-01-27 |
 | [All Made Up](https://open.spotify.com/track/71nnIbgnEsxPXyubrlNf6Z) | [Squidgenini](https://open.spotify.com/artist/0XLJ5ey68Qg726cnVNOc2r) | [All Made Up](https://open.spotify.com/album/4i764LNeqbQg0CIYamVkG1) | 4:10 | 2022-04-01 | 2022-04-15 |
 | [All Masks \[Feat\. Masego\]](https://open.spotify.com/track/7BaROUi0CXU9OA641Tf5en) | [Robert Glasper](https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn), [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig) | [All Masks](https://open.spotify.com/album/55VodNSNlKHakwsAErxaQx) | 4:30 | 2022-07-29 | 2022-09-24 |
-| [all night](https://open.spotify.com/track/2qGqtuUr4eUqxIuMt8TbEZ) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [all night](https://open.spotify.com/album/4YaN9SFs3xzpHSZc4tv41J) | 2:26 | 2024-07-19 |  |
+| [all night](https://open.spotify.com/track/2qGqtuUr4eUqxIuMt8TbEZ) | [Marco Luka](https://open.spotify.com/artist/4tjqHer0BFQbJ1FVyWhffM) | [all night](https://open.spotify.com/album/4YaN9SFs3xzpHSZc4tv41J) | 2:26 | 2024-07-19 | 2025-01-17 |
 | [all on me](https://open.spotify.com/track/7Bqk3RPCq9QJDWF8WR0vXP) | [kid apollo](https://open.spotify.com/artist/13aNIXsYtPJ8kUmv9VgU7u) | [all on me](https://open.spotify.com/album/0lNXXDUQyEWrpnQJXWuO8S) | 2:47 | 2022-08-19 | 2022-09-10 |
 | [all over u](https://open.spotify.com/track/7LZ3gGKfJIjf1jNWkzU637) | [Rowena Fysx](https://open.spotify.com/artist/6y4JQgtvRMTNfA5YVMPv3p) | [don't text me back](https://open.spotify.com/album/5rIZhiJ4oRq0y1tdC5gf0c) | 3:21 | 2024-09-27 |  |
 | [ALL THAT U WANT](https://open.spotify.com/track/1jHq0Xqbb49WLRUq0kMFzz) | [Unusual Demont](https://open.spotify.com/artist/5KpmWCJ5NqsY9meqhjwbxR) | [ALL THAT U WANT](https://open.spotify.com/album/3BGrYo5OCTJgm8VN01wos7) | 2:20 | 2023-11-10 | 2024-01-27 |
@@ -322,6 +322,7 @@
 | [Deep Green](https://open.spotify.com/track/2xGGpmywtvPY3h7JkcwP1E) | [Christian Kuria](https://open.spotify.com/artist/4uaGojdWj4H6cTJydZUPWG) | [Suspension of Disbelief](https://open.spotify.com/album/3dUPM1NIw5YPL4YQhU7aG2) | 3:23 | 2022-09-23 | 2023-03-25 |
 | [Definition of Love](https://open.spotify.com/track/7FVSpM0idOhw4etUpkPf8d) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Definition of Love](https://open.spotify.com/album/6ghmLEwlEpTJ6iH0JMxu8i) | 3:15 | 2023-08-25 | 2024-06-29 |
 | [Deflect](https://open.spotify.com/track/3GfpcEdZ4kRTgy8XC2hCdI) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Deflect](https://open.spotify.com/album/3dpTqZYzAogVHL0Vt913w4) | 2:06 | 2021-09-10 | 2022-04-08 |
+| [Delirium](https://open.spotify.com/track/6U09H7CVra0HbNPJGnQDDU) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH) | [Delirium](https://open.spotify.com/album/5OPY6W6jsdSuSX7ymEFboE) | 1:49 | 2024-09-13 |  |
 | [Deliver Me \(feat\. Busta Rhymes, Dirty Money, Dawn Richard and Kalenna\)](https://open.spotify.com/track/4gjmx4ttDOi8iMbZQfqJL4) | [Diddy](https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [Dawn Richard](https://open.spotify.com/artist/6pSsE5y0uJMwYj83KrPyf9), [Kalenna](https://open.spotify.com/artist/2NoFr6doacvN58q9p9EFky), [Dirty Money](https://open.spotify.com/artist/6wct5E24ctpy3mRvKWYSat) | [The Love Album: Off The Grid](https://open.spotify.com/album/1Z67w2JtLfO8D2dP0Mwpy1) | 3:19 | 2023-09-15 | 2023-09-30 |
 | [Desensitized](https://open.spotify.com/track/7pmcQynEWWrxAUMxtJ3gMj) | [Liim](https://open.spotify.com/artist/4WBs3HlXxMAqo8Yi6m1PCM) | [Desensitized](https://open.spotify.com/album/1DAz8LOdD3w6pn2B0J1vwE) | 3:00 | 2024-10-20 | 2024-12-07 |
 | [Devil’s Advocate](https://open.spotify.com/track/2BhUsGExfyDXWiYgTeQqAB) | [Terrace Martin](https://open.spotify.com/artist/7MNEVabc4cs19CbzAFZmXz), [Gallant](https://open.spotify.com/artist/7wFDo161xYdeaiLz3KIHoM), [sneek](https://open.spotify.com/artist/6O4EoU7wO1VU8yAEhbIii5) | [sneek](https://open.spotify.com/album/48KwaEx2y9uL0cHJBoKacx) | 4:32 | 2023-11-19 | 2023-12-02 |

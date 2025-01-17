@@ -2777,6 +2777,28 @@
     },
     {
       "album": {
+        "name": "In The Night (Paul Sirrell Remix) / Green (St. David Remix)",
+        "url": "https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "St. David",
+          "url": "https://open.spotify.com/artist/1t0FcS0U41EGNcCsMdkpXL"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193488,
+      "name": "Green - St. David Remix",
+      "url": "https://open.spotify.com/track/0sPi3AetQCt7b9CAtumw20"
+    },
+    {
+      "album": {
         "name": "GROWUP",
         "url": "https://open.spotify.com/album/4pWSY3omW0xCyunRfuO8Hl"
       },
@@ -3492,6 +3514,28 @@
       "duration_ms": 258986,
       "name": "In The Dark",
       "url": "https://open.spotify.com/track/5syKbfJd2afOa2y93YQfTM"
+    },
+    {
+      "album": {
+        "name": "In The Night (Paul Sirrell Remix) / Green (St. David Remix)",
+        "url": "https://open.spotify.com/album/6qdECBiaav5PcBZyhpqtHI"
+      },
+      "artists": [
+        {
+          "name": "TSHA",
+          "url": "https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh"
+        },
+        {
+          "name": "Paul Sirrell",
+          "url": "https://open.spotify.com/artist/6BNmkoOlQMVJCf5kcCc41g"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210425,
+      "name": "In The Night - Paul Sirrell Remix",
+      "url": "https://open.spotify.com/track/3KmrUmrcc3L4OqqGQAEhxG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2ckx1BRKkKzM7KyRZ3iKZo">Ester Dean</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,391 likes - 164 songs - 9 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,392 likes - 164 songs - 9 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 78 | [We Got The Power](https://open.spotify.com/track/6MW4ahXNEHaIUZ2cdSaslK) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Heal \(2013 Edition\)](https://open.spotify.com/album/7FySrxbb8xtskFg9XbLPc4) | 3:27 |
 | 79 | [Lose Control / Let Me Down](https://open.spotify.com/track/4ymZUCAf5qTenKxeOfRSB5) | [Keri Hilson](https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1) | [No Boys Allowed \(All International Partners Deluxe Version\)](https://open.spotify.com/album/7r8oxL7DEEvRGnuKxEKsGe) | 4:49 |
 | 80 | [Woohoo \(feat\. Nicki Minaj\)](https://open.spotify.com/track/3b7jMtkPU3aPulz6AvBGBD) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Bionic \(Deluxe Version\)](https://open.spotify.com/album/1HfdmIok11uUjysVWdxq6H) | 5:28 |
-| 81 | [Back To The Crib](https://open.spotify.com/track/3PtlDRj2jzwDnAfLgvqaSd) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To The Crib](https://open.spotify.com/album/0nOS7PmLQLHeNeYd0Iis83) | 4:24 |
-| 82 | [Already Taken](https://open.spotify.com/track/5w3faWGjZFbTXkPXLAATkC) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:57 |
+| 81 | [Already Taken](https://open.spotify.com/track/5w3faWGjZFbTXkPXLAATkC) | [Trey Songz](https://open.spotify.com/artist/2iojnBLj0qIMiKPvVhLnsH) | [Passion, Pain & Pleasure \(Deluxe Version\)](https://open.spotify.com/album/3sDoSYf2AKB2IegZmkISGD) | 3:57 |
+| 82 | [Back To The Crib](https://open.spotify.com/track/3PtlDRj2jzwDnAfLgvqaSd) | [Juelz Santana](https://open.spotify.com/artist/6Uh8uJyN9g7oFjDK16nJgb), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Back To The Crib](https://open.spotify.com/album/0nOS7PmLQLHeNeYd0Iis83) | 4:24 |
 | 83 | [We Are \- From "Ice Age: Continental Drift"/Theme](https://open.spotify.com/track/6ackm07YejQB4DwuSRjFvR) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [We Are \(From "Ice Age: Continental Drift"/Theme\)](https://open.spotify.com/album/5zeZOKZQwl2nKUEEuUDZTL) | 3:09 |
 | 84 | [I Want It All](https://open.spotify.com/track/6GciucEjChWvkyxUGlN09o) | [Karmin](https://open.spotify.com/artist/4M0DLz8te9Q1lNIXBBwvfG) | [Pulses](https://open.spotify.com/album/2UvU0egYoXsysWkHqQy4Lc) | 3:47 |
 | 85 | [Beautiful Sinner](https://open.spotify.com/track/7rckdz1lRk0xXOlm2W2DCi) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday ..\. Roman Reloaded](https://open.spotify.com/album/6OfCOPtcPuhlAovGJ52uZO) | 3:47 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 108 | [Psycho](https://open.spotify.com/track/4kvX7vpWzQ2dsLkpDKFxXA) | [Rozzi](https://open.spotify.com/artist/4c4aEmXU6Hx95REbIZ3S82) | [Space](https://open.spotify.com/album/7GwxgUetlgERKVoIuw7dUP) | 4:11 |
 | 109 | [Shakin' It 4 Daddy](https://open.spotify.com/track/7pDspyYIg0enIIvDWelaw8) | [Robin Thicke](https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Sex Therapy: The Experience](https://open.spotify.com/album/0NrP6lZ1RSuqE7xpmeKlNa) | 3:51 |
 | 110 | [That High \(feat\. Kelly Rowland\)](https://open.spotify.com/track/0zbAkytd9gbRmWpmri6BbF) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg), [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Global Warming: Meltdown \(Deluxe Version\)](https://open.spotify.com/album/2F7tejLHzTqFq2XLol9ZGy) | 3:14 |
-| 111 | [All I Want \- From “Star” Season 2](https://open.spotify.com/track/3DXhdfi3qt6Mn8OAojIezA) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR), [Brittany O’Grady](https://open.spotify.com/artist/0d6oqX4dLHg29y8zf0K8Ab), [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM) | [All I Want \(From “Star” Season 2\)](https://open.spotify.com/album/2l3WaX3voHKcFCp7YFPhGG) | 3:05 |
-| 112 | [Somewhere in Vegas](https://open.spotify.com/track/305JUOn2scJ85yXmf2zT2G) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Somewhere in Vegas](https://open.spotify.com/album/3MzfiAvF6hweDfGmWRyMWR) | 2:44 |
+| 111 | [Somewhere in Vegas](https://open.spotify.com/track/305JUOn2scJ85yXmf2zT2G) | [Crash Adams](https://open.spotify.com/artist/6d8NscVVbeMVINZwJDOoN5) | [Somewhere in Vegas](https://open.spotify.com/album/3MzfiAvF6hweDfGmWRyMWR) | 2:44 |
+| 112 | [All I Want \- From “Star” Season 2](https://open.spotify.com/track/3DXhdfi3qt6Mn8OAojIezA) | [Star Cast](https://open.spotify.com/artist/6UKDgKJpv0MCwiQHbllkfR), [Brittany O’Grady](https://open.spotify.com/artist/0d6oqX4dLHg29y8zf0K8Ab), [Evan Ross](https://open.spotify.com/artist/2DJndwwEpPtnmQn48NPBUM) | [All I Want \(From “Star” Season 2\)](https://open.spotify.com/album/2l3WaX3voHKcFCp7YFPhGG) | 3:05 |
 | 113 | [In My City](https://open.spotify.com/track/2Ry6arkPobqjO7skQBJoUb) | [Priyanka Chopra](https://open.spotify.com/artist/5TPY1mgCEaVjJQnpDPFJVF), [will.i.am](https://open.spotify.com/artist/085pc2PYOi8bGKj0PNjekA) | [In My City](https://open.spotify.com/album/4fDZE7ejUIYa5tY0HtzNVA) | 3:40 |
 | 114 | [Always](https://open.spotify.com/track/1MVP32Lab4ANXONxtGxOL2) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Bigger Love](https://open.spotify.com/album/7BRuKFs9BFuba9TlMs2ZLd) | 3:26 |
 | 115 | [21 \(feat\. Laza Morgan\)](https://open.spotify.com/track/6E0ULwUN3Aj8sfB2e8QPvR) | [Flo Rida](https://open.spotify.com/artist/0jnsk9HBra6NMjO2oANoPY), [Laza Morgan](https://open.spotify.com/artist/0sDZqRLIBL1Gr5gikfV1xz) | [Only One Flo \(Part 1\)](https://open.spotify.com/album/1TwNATuAqnNjTd5BSvFZlS) | 3:52 |
@@ -173,4 +173,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPxTohvq0ahb.md) - [plain]
 | 163 | [Hurt Me](https://open.spotify.com/track/18LmvXtZWlNLzuQIqYi3IY) | [Remedy A Cappella](https://open.spotify.com/artist/3JvshbwnBNF1ESTeUVEgcN) | [Waves](https://open.spotify.com/album/7zup9UzCjOqh6wjVfuvpDV) | 3:20 |
 | 164 | [Stay](https://open.spotify.com/track/4bOScAqLDtf06SvJVhOEnw) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Stronger withEach Tear](https://open.spotify.com/album/2W99mgDwgiJRNJnXliJ6uA) | 3:49 |
 
-Snapshot ID: `Abm9tAAAAACpbk99MbRtSXfuKSafDBkD`
+Snapshot ID: `AbnDVAAAAACkO7uqmvPilbCGOassXqIN`

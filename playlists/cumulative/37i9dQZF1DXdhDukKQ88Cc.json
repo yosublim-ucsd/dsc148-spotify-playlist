@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-26",
-  "description": "nyeste bedste rap i dk <a href=\"spotify:artist:1GLzVjVa7bLnAcD1At98j3\">@Omar</a>",
+  "description": "min ven er <a href=\"spotify:artist:3Tg0bQKDqc4ONwmKywDq72\">@Mas</a> og vi er p\u00e5 m\u00e5nen over hans nye \ud83c\udf1c<a href=\"spotify:album:16EjNHcMJ402k7OhdoFxqS\">album</a>\ud83c\udf1b",
   "name": "100 dk",
   "tracks": [
     {
@@ -603,6 +603,28 @@
     },
     {
       "album": {
+        "name": "M\u00e5nen Er Min Ven",
+        "url": "https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141668,
+      "name": "Bare Vent (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2"
+    },
+    {
+      "album": {
         "name": "Barn Af Byen Freestyle",
         "url": "https://open.spotify.com/album/27d6X9oLPAYdjWRSF2sIRh"
       },
@@ -1100,7 +1122,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 148366,
       "name": "Corner (feat. Kundo)",
       "url": "https://open.spotify.com/track/19DGsppn5cfEieTtozoi3R"
@@ -1997,6 +2019,24 @@
     },
     {
       "album": {
+        "name": "For Evigt",
+        "url": "https://open.spotify.com/album/3HDRHW7uO9debf03J3s3L6"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176349,
+      "name": "For Evigt",
+      "url": "https://open.spotify.com/track/1Ya4w6iBrJCUWfofV31nRw"
+    },
+    {
+      "album": {
         "name": "For God Til Mig",
         "url": "https://open.spotify.com/album/5UsYwZWBwYGdtNyFQMv0l1"
       },
@@ -2132,7 +2172,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 176727,
       "name": "Fungerer",
       "url": "https://open.spotify.com/track/35pRKsTd60JHRRl1GH2W5i"
@@ -2818,7 +2858,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 145183,
       "name": "Indtil Solen Kom (Feat. Branco)",
       "url": "https://open.spotify.com/track/1kYSGphNRoOpYoe3x63qsd"
@@ -3194,7 +3234,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 250415,
       "name": "LIBIDO (feat. Klamfyr)",
       "url": "https://open.spotify.com/track/0vgUUxwkExFRwBF4cRGkGw"
@@ -4465,6 +4505,32 @@
     },
     {
       "album": {
+        "name": "M\u00e5nen Er Min Ven",
+        "url": "https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184264,
+      "name": "Sm\u00e5ting (feat. Lamin & Kundo)",
+      "url": "https://open.spotify.com/track/2ZwOtQXG5k1M7gHmTmTMgw"
+    },
+    {
+      "album": {
         "name": "SNAK/MILANO",
         "url": "https://open.spotify.com/album/60g96p9ds29TuRWiLOqYmV"
       },
@@ -4632,6 +4698,28 @@
       "duration_ms": 147485,
       "name": "Stemmer",
       "url": "https://open.spotify.com/track/315V2iBZNxBDQxTgbDXRF4"
+    },
+    {
+      "album": {
+        "name": "M\u00e5nen Er Min Ven",
+        "url": "https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209259,
+      "name": "Stime (feat. KESI)",
+      "url": "https://open.spotify.com/track/5rBJLnaIpZ2NJQTWmjJNYO"
     },
     {
       "album": {
@@ -5057,6 +5145,24 @@
     },
     {
       "album": {
+        "name": "UPPERCLA$$",
+        "url": "https://open.spotify.com/album/7vbC3MlULMbqJeYah2xMhH"
+      },
+      "artists": [
+        {
+          "name": "Magzim",
+          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177598,
+      "name": "UPPERCLA$$",
+      "url": "https://open.spotify.com/track/2CUPM4Wh4ikPogZy40Vvav"
+    },
+    {
+      "album": {
         "name": "Ups",
         "url": "https://open.spotify.com/album/0lkWgl4t6t5qWoEr9Ew289"
       },
@@ -5238,7 +5344,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 163448,
       "name": "V\u00c5GEN",
       "url": "https://open.spotify.com/track/0imtF0Mddv5FVKQUUgcG3R"
@@ -5274,7 +5380,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 137785,
       "name": "WHIP",
       "url": "https://open.spotify.com/track/5FXf7c1DvnUgYBcRqVQJls"

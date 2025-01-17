@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 
 > Relax to some gentle percussion from all corners of the globe.
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,207 likes - 87 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,502 likes - 87 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 6 | [Supreme Emotions](https://open.spotify.com/track/0bwFC1Z3CATH1XfTua9j2C) | [LaYam](https://open.spotify.com/artist/6onKBpb8AkKid8BFhLWtBH) | [Supreme Emotions](https://open.spotify.com/album/5GIK4JTZq6zUTcjulnHvVY) | 2:24 |
 | 7 | [Centered Spirit \- Ambient Version](https://open.spotify.com/track/1xLhsy4qiordPRCnj4NpQt) | [Spiritual Frequencies](https://open.spotify.com/artist/5gUJK8QwnYlsLRnxepd7A5) | [Breath of Life \(Ambient Version\)](https://open.spotify.com/album/4tG5810LflwIHC76A1xo8r) | 2:20 |
 | 8 | [News From New Zealand](https://open.spotify.com/track/4p7AfmyhefTJPsddROdcaj) | [Ravid](https://open.spotify.com/artist/0skRhVJnuKDMGoLkqr1MAL) | [Calm Upon You](https://open.spotify.com/album/3f3ArCl4eIdzCSsyvyBlep) | 3:13 |
-| 9 | [Feel Good \(feat\. myndstream\)](https://open.spotify.com/track/4YQVSRecky68qQWynB5rYl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Malte Marten](https://open.spotify.com/artist/1pjnA7LiEUatX6ArsaXJgd), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Yellow](https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp) | 3:10 |
+| 9 | [Feel Good \(feat\. myndstream\)](https://open.spotify.com/track/4YQVSRecky68qQWynB5rYl) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Yellow](https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp) | 3:10 |
 | 10 | [Darma Karma](https://open.spotify.com/track/6ztM1Tfblptt8WPceaYzX7) | [Darma Waters](https://open.spotify.com/artist/4nN4oxcvDaWafW2VAmvf7Y) | [Darma Karma](https://open.spotify.com/album/3MSb27LzvO7txXUL0qu9Xk) | 2:56 |
 | 11 | [Mystic Journe](https://open.spotify.com/track/2jEmGsN0by6lQLOTlrVGWM) | [SoulPan](https://open.spotify.com/artist/55TPaWQiFcIRFc6bAAWiO5) | [Mystic Journe](https://open.spotify.com/album/25z5pYbT9YsXcDAoubpfcj) | 1:55 |
 | 12 | [Kaleidoscope: II\. Cafe without Sugar](https://open.spotify.com/track/2XiYlVBHtJTbpr9rYsEeYH) | [Chin Cheng Lin](https://open.spotify.com/artist/69M2aODb7k10CQ3eN3CRXt) | [Lin: Star Splendours](https://open.spotify.com/album/10CGn8DyIsIu3Q45Xt85MY) | 3:12 |
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUZBIhSC4FGF.md) - [plain]
 | 20 | [Hangimba](https://open.spotify.com/track/2xG6eMBqaFVHkB0TtS4S4P) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Hangimba](https://open.spotify.com/album/7CeEZ5Ci3qsveK8YC30orQ) | 2:56 |
 | 21 | [Focus Five](https://open.spotify.com/track/0ioNpncHHj5EyI99GC2qtH) | [Yoro Kobuto](https://open.spotify.com/artist/21TAVdB21U8rAixr2sANtf) | [Focus Five](https://open.spotify.com/album/5UIBLfghByKKuTrQLlml6M) | 3:16 |
 | 22 | [Ruby's Dance](https://open.spotify.com/track/0NXGeUwHAHttzLNhbv4oHB) | [Rah Moon](https://open.spotify.com/artist/2ZTWRQ0L4s7UuB55QBxOfN) | [Ruby's Dance](https://open.spotify.com/album/6fc6QjKd0j2ZkMp3wdbJPK) | 2:39 |
-| 23 | [Winds of Change \(feat\. myndstream\)](https://open.spotify.com/track/3bIDLdalTypKnBGYK7wsrG) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Malte Marten](https://open.spotify.com/artist/1pjnA7LiEUatX6ArsaXJgd), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Yellow](https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp) | 3:03 |
+| 23 | [Winds of Change \(feat\. myndstream\)](https://open.spotify.com/track/3bIDLdalTypKnBGYK7wsrG) | [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ), [Malte Marten](https://open.spotify.com/artist/6gmfGQKmOr9z7GTYK7ecEj), [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Yellow](https://open.spotify.com/album/1oL6jSjfCVu2ugtzFK7dYp) | 3:03 |
 | 24 | [Piedras Encantadas](https://open.spotify.com/track/1Q0AJKWZhyWHDlUUnnZ5rs) | [Aeromancias](https://open.spotify.com/artist/3jiI4qEyqOZAmbB2VBB6tw) | [Suiseki](https://open.spotify.com/album/2ZenMYsh0RIM66yZF66bsN) | 2:58 |
 | 25 | [Hang Drum \- Water Sounds](https://open.spotify.com/track/3mGHDE0cYC9NlRk7yTtkQs) | [Izkaya Ten](https://open.spotify.com/artist/1zTZTSgDxQlwEqRwhByiEj) | [Hang Drum \- Water Sounds](https://open.spotify.com/album/3nTXKA7OMc5X732iTGh7bu) | 2:10 |
 | 26 | [Sunshine](https://open.spotify.com/track/3Mw806oScJ2C07uLn73vwK) | [Hangimba Boy](https://open.spotify.com/artist/1Fv4aj9ojTsR3lz2RwYEKM) | [Everything But](https://open.spotify.com/album/4buD9eE8dpFa3aIy9fHgcM) | 3:15 |

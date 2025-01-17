@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/0jUNGuEa2n7yyld7KjsVVT?si=yK0xmCWlTzSu4u_i1PNYcA\">Sha Sha</a>",
+  "description": "The biggest Amapiano singles making waves in South Africa and the world. Cover: <a href=\"https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=BoXzlhcZSKWHUdU-sIvPnQhttps://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz?si=BoXzlhcZSKWHUdU-sIvPnQ\">Mellow & Sleazy</a>",
   "name": "AMAPIANO GROOVES",
   "tracks": [
     {
@@ -15203,6 +15203,28 @@
     },
     {
       "album": {
+        "name": "JD 27 (feat. Al Xapo)",
+        "url": "https://open.spotify.com/album/5eR0UuMwaXMjc13xCH2vQM"
+      },
+      "artists": [
+        {
+          "name": "Mellow & Sleazy",
+          "url": "https://open.spotify.com/artist/5MJ5f1XKD9yu7aWfG8OGjz"
+        },
+        {
+          "name": "Al xapo",
+          "url": "https://open.spotify.com/artist/6vIKxXxsfpL8tAmjP0eCwY"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445731,
+      "name": "JD 27 (feat. Al Xapo)",
+      "url": "https://open.spotify.com/track/66dMwdLR8TGxBTHMs8lDNL"
+    },
+    {
+      "album": {
         "name": "Jealousy (feat. Leemckrazy & Ceeka RSA)",
         "url": "https://open.spotify.com/album/0prfEaQxPCu9UqPSnscpoS"
       },
@@ -23300,7 +23322,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 443053,
       "name": "Nkalakatha (feat. Chley, Tumza D'kota & A'gzo)",
       "url": "https://open.spotify.com/track/20B4DsJ1Iz8phhJhdvxRUR"

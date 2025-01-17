@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 158260,
       "name": "Body Move - Hardwell Edit",
       "url": "https://open.spotify.com/track/0UeG9M5O1rs2cSXnaz8ZKl"
@@ -2416,7 +2416,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 163513,
       "name": "Ego",
       "url": "https://open.spotify.com/track/61H9lMXUbGpvZG82DYGLlL"
@@ -2802,6 +2802,32 @@
       "duration_ms": 156000,
       "name": "Fantasy (Tricky Disco)",
       "url": "https://open.spotify.com/track/7KxiqXmrEikGonyuxz50Qk"
+    },
+    {
+      "album": {
+        "name": "Fascination (Remixed Part 1)",
+        "url": "https://open.spotify.com/album/3ex9DpwJ6Gl9d2QBWZF4NR"
+      },
+      "artists": [
+        {
+          "name": "Romina Dez",
+          "url": "https://open.spotify.com/artist/2CiBiA5PnF5Gr2tBxW05pA"
+        },
+        {
+          "name": "Muter",
+          "url": "https://open.spotify.com/artist/2o5tNqU2sF0RFlheSryWXk"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220778,
+      "name": "Fascination - Adam Beyer Remix",
+      "url": "https://open.spotify.com/track/6894YnATi2EC49O813iVqG"
     },
     {
       "album": {
@@ -4397,6 +4423,36 @@
     },
     {
       "album": {
+        "name": "Just Wanna Dance",
+        "url": "https://open.spotify.com/album/49eDsBCGBjgWXD3NepqIub"
+      },
+      "artists": [
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Reinier Zonneveld",
+          "url": "https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ"
+        },
+        {
+          "name": "K1LO",
+          "url": "https://open.spotify.com/artist/7c3CDjLPLotUtT0U4nSv0Z"
+        },
+        {
+          "name": "MadGuss",
+          "url": "https://open.spotify.com/artist/7KZwnYSX6YV8WGkWCaADLt"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140571,
+      "name": "Just Wanna Dance",
+      "url": "https://open.spotify.com/track/2v3RHDfte6KWWeMV0jUMeY"
+    },
+    {
+      "album": {
         "name": "Kaboom (feat. Maikki)",
         "url": "https://open.spotify.com/album/1XpDYJLv3xTZHHZIuZpplF"
       },
@@ -4416,7 +4472,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 127200,
       "name": "Kaboom (feat. Maikki)",
       "url": "https://open.spotify.com/track/4EjKXV4n0OZ2DUkcFU0Pz7"
@@ -4592,6 +4648,28 @@
       "duration_ms": 156705,
       "name": "Kriss Kross",
       "url": "https://open.spotify.com/track/0JDL0gKNCat2zdDf6TVLWB"
+    },
+    {
+      "album": {
+        "name": "La Boh\u00e8me",
+        "url": "https://open.spotify.com/album/0KPV5PV7fs0qD0KRPbDTEH"
+      },
+      "artists": [
+        {
+          "name": "Gabry Ponte",
+          "url": "https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D"
+        },
+        {
+          "name": "DES3ETT",
+          "url": "https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207077,
+      "name": "La Boh\u00e8me",
+      "url": "https://open.spotify.com/track/35XPv6YnBbJzzhxol0h2uK"
     },
     {
       "album": {
@@ -6173,6 +6251,24 @@
     },
     {
       "album": {
+        "name": "OIIA OIIA (Spinning Cat)",
+        "url": "https://open.spotify.com/album/3ZNqC34ZCpbvFW4Z4mR5bm"
+      },
+      "artists": [
+        {
+          "name": "W&W",
+          "url": "https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133600,
+      "name": "OIIA OIIA (Spinning Cat)",
+      "url": "https://open.spotify.com/track/5fr7VBuNTiXAq4rH1e3v3q"
+    },
+    {
+      "album": {
         "name": "Olympia",
         "url": "https://open.spotify.com/album/52OLlkmoAs4JZqiQjJzaZY"
       },
@@ -6244,7 +6340,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 137250,
       "name": "One Day",
       "url": "https://open.spotify.com/track/3z9DRLo5VolGPWO27Lapx5"
@@ -7076,6 +7172,28 @@
       "duration_ms": 112499,
       "name": "Rave Generator",
       "url": "https://open.spotify.com/track/25Mloe1yvLqjNDIpi7dtfd"
+    },
+    {
+      "album": {
+        "name": "Rave Shake",
+        "url": "https://open.spotify.com/album/5aIIhw5GG718f2IKeOLNtj"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "Medium Rare",
+          "url": "https://open.spotify.com/artist/5bt2kSI1bD3Xfc70srooOK"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "Rave Shake",
+      "url": "https://open.spotify.com/track/2lAELGJkxooRfmIizN5aqw"
     },
     {
       "album": {
@@ -7974,7 +8092,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 157714,
       "name": "Seven Nation Army",
       "url": "https://open.spotify.com/track/7BFwwCduDBbDG9fk9SlAYm"

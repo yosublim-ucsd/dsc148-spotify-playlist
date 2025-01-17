@@ -5188,7 +5188,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 153084,
       "name": "Chicagenhagen",
       "url": "https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH"
@@ -19018,7 +19018,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
@@ -19040,7 +19040,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -23263,6 +23263,24 @@
     },
     {
       "album": {
+        "name": "Nattehimlen",
+        "url": "https://open.spotify.com/album/4S5r1CcLV6zFndUR1tDsYy"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207919,
+      "name": "Nattehimlen",
+      "url": "https://open.spotify.com/track/5VXfqxPXhDhPU8YrG7SSrG"
+    },
+    {
+      "album": {
         "name": "Happier Than Ever",
         "url": "https://open.spotify.com/album/0JGOiO34nwfUdDrD612dOp"
       },
@@ -27466,7 +27484,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 154285,
       "name": "Samme side",
       "url": "https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5"
@@ -28006,7 +28024,7 @@
       ],
       "date_added": "2024-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 154565,
       "name": "Sent",
       "url": "https://open.spotify.com/track/2zbr6Jls3FE4JCtLwCPD5N"

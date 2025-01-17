@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Jan 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Jan 23:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -3256,7 +3256,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 171620,
       "name": "ALRIGHT OK",
       "url": "https://open.spotify.com/track/5sy1XZd8J7kwN14qUO6E2d"
@@ -4942,6 +4942,32 @@
       "duration_ms": 206173,
       "name": "Awkward Bones",
       "url": "https://open.spotify.com/track/7ImXJ35GwVxKoBxnLaIwWq"
+    },
+    {
+      "album": {
+        "name": "Aye Rage",
+        "url": "https://open.spotify.com/album/6PnrtDw6cnjYjggPY9ZzkC"
+      },
+      "artists": [
+        {
+          "name": "Benji Blue Bills",
+          "url": "https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "YourRAGE",
+          "url": "https://open.spotify.com/artist/5hom1iOuFnM4ctlY6MzRbk"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113968,
+      "name": "Aye Rage",
+      "url": "https://open.spotify.com/track/6DJFJDAkJ08Xs0NSqSOeUw"
     },
     {
       "album": {
@@ -9334,6 +9360,32 @@
       "duration_ms": 117176,
       "name": "Break My Rules",
       "url": "https://open.spotify.com/track/7rkUu52XSU9Re5sJeTQOCz"
+    },
+    {
+      "album": {
+        "name": "Break The BOOM! Meter",
+        "url": "https://open.spotify.com/album/1hzTDReTAPzSAalO0FeLNj"
+      },
+      "artists": [
+        {
+          "name": "A.J. & Big Justice",
+          "url": "https://open.spotify.com/artist/0vZddxsYtrJ235wfjUavKp"
+        },
+        {
+          "name": "AMH",
+          "url": "https://open.spotify.com/artist/2TSwn8irgXwsoPyWVjPmnl"
+        },
+        {
+          "name": "The Rizzler",
+          "url": "https://open.spotify.com/artist/5QaiZbvGTAXIpi3NYIxsaK"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115696,
+      "name": "Break The BOOM! Meter",
+      "url": "https://open.spotify.com/track/4WoMzaHALcdiAZU5nPU5lN"
     },
     {
       "album": {
@@ -20534,7 +20586,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 220183,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
@@ -30750,7 +30802,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180540,
-      "name": "Hypnotized",
+      "name": "Hypnotized (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
     },
     {
@@ -35070,7 +35122,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 313993,
       "name": "Just How It Goes",
       "url": "https://open.spotify.com/track/7ERaWfzZyBrZzsCQxz60TB"
@@ -46138,7 +46190,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 144465,
       "name": "Nothing For Free",
       "url": "https://open.spotify.com/track/0XgWkTbe4G9mQHkPv9mhzS"
@@ -47382,6 +47434,24 @@
       "duration_ms": 228000,
       "name": "ONE TULIP//",
       "url": "https://open.spotify.com/track/05EqkaNF2149cACYq1bQSI"
+    },
+    {
+      "album": {
+        "name": "One Way! 2",
+        "url": "https://open.spotify.com/album/1BIHuR5QMyGqhTqy9Ldtvf"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225882,
+      "name": "One Way! 2",
+      "url": "https://open.spotify.com/track/3Jl77VcjXq1xAYctuzFMHz"
     },
     {
       "album": {
@@ -56110,7 +56180,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 177708,
       "name": "Shandy in the Graveyard",
       "url": "https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ"
@@ -61541,6 +61611,24 @@
     },
     {
       "album": {
+        "name": "Sunset Key Melt",
+        "url": "https://open.spotify.com/album/3kJdqmZWypVUqDr7zh5jLs"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 456028,
+      "name": "Sunset Key Melt",
+      "url": "https://open.spotify.com/track/53shJKxROIL7O11AeSDdTb"
+    },
+    {
+      "album": {
         "name": "Sunsets Over Inglewood",
         "url": "https://open.spotify.com/album/3d6qQWVsiLygnft508zRPG"
       },
@@ -62518,6 +62606,28 @@
       "duration_ms": 266440,
       "name": "Take It Slow",
       "url": "https://open.spotify.com/track/79hId72GmlSVZZHqq91M6U"
+    },
+    {
+      "album": {
+        "name": "take me by the hand",
+        "url": "https://open.spotify.com/album/6IShuyiAbqSgjgXVCrHCOr"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171570,
+      "name": "take me by the hand",
+      "url": "https://open.spotify.com/track/4AHeemjLSF5e1UbGRGCUO4"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/36BQyhX27gILUnRMd5m1jW?si=QZ9VQPUpQLGn_YYWRP-o6A\">Eldon Flare</a> ",
+  "description": "Die nuutste Afrikaanse musiek. Omslag: <a href=\"https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8?si=D4oj7s0qQySyqKODyvTlzQ\">Jan-Mattys</a> ",
   "name": "Nuwe Afrikaans",
   "tracks": [
     {
@@ -269,6 +269,24 @@
     },
     {
       "album": {
+        "name": "1500m",
+        "url": "https://open.spotify.com/album/2aCGDj3RRApO3IioqkjyFv"
+      },
+      "artists": [
+        {
+          "name": "Boschter",
+          "url": "https://open.spotify.com/artist/5oZEwvGKQblP1d7ist4wUU"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "1500m",
+      "url": "https://open.spotify.com/track/1hBUQeUi54KGfJBRBOqFe2"
+    },
+    {
+      "album": {
         "name": "17 Shots",
         "url": "https://open.spotify.com/album/14Z3Lafj0ZfRBCpY6Mkgc0"
       },
@@ -334,7 +352,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 196871,
       "name": "30.06",
       "url": "https://open.spotify.com/track/6EBhfXiP5CSJEFGAZmaUcZ"
@@ -1300,7 +1318,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 226909,
       "name": "Annie Brand",
       "url": "https://open.spotify.com/track/0DYXzNajl8iRXBKJzGSlMe"
@@ -4612,7 +4630,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 221016,
       "name": "Desember",
       "url": "https://open.spotify.com/track/6ShLF0rXigexPPuvROhwiG"
@@ -4818,7 +4836,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 210000,
       "name": "Die Brug",
       "url": "https://open.spotify.com/track/0MozIJQu2CAVWogDilKDKj"
@@ -5552,7 +5570,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 187545,
       "name": "Die Stryd",
       "url": "https://open.spotify.com/track/6WBOpGhSpsZgNhjENuaeMV"
@@ -6858,7 +6876,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 159171,
       "name": "Ek Leef",
       "url": "https://open.spotify.com/track/4Wyqw7pUbfx35pZPefNBpD"
@@ -8813,6 +8831,24 @@
     },
     {
       "album": {
+        "name": "Hart Van 'n Boer",
+        "url": "https://open.spotify.com/album/3hJvQX9TenCm8qPDcmiRMF"
+      },
+      "artists": [
+        {
+          "name": "JohnJ",
+          "url": "https://open.spotify.com/artist/5TzLGHF0k3Vev4SGCxq9jT"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240170,
+      "name": "Hart Van 'n Boer",
+      "url": "https://open.spotify.com/track/3DfndLaDlqowbyHW1b38FR"
+    },
+    {
+      "album": {
         "name": "Hart van Klip",
         "url": "https://open.spotify.com/album/3i2X3qLYSXxiaPZ6zpFjzE"
       },
@@ -9499,6 +9535,24 @@
     },
     {
       "album": {
+        "name": "HOEVEEL PROFETE",
+        "url": "https://open.spotify.com/album/7sIiSA4MvPGzfGGDXlvPxc"
+      },
+      "artists": [
+        {
+          "name": "Francis Na Die Maan",
+          "url": "https://open.spotify.com/artist/5tCDeBV5xXqighmqULCMLL"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155725,
+      "name": "HOEVEEL PROFETE",
+      "url": "https://open.spotify.com/track/3qhYfoEBO8sBj0gxbNG2P6"
+    },
+    {
+      "album": {
         "name": "Hoezit Haai",
         "url": "https://open.spotify.com/album/39ozF4M7B2Ngw0yO8Urj5q"
       },
@@ -9510,7 +9564,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 183031,
       "name": "Hoezit Haai",
       "url": "https://open.spotify.com/track/6L0YX9v1O7TvlxCdhOe5sW"
@@ -11972,7 +12026,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 207313,
       "name": "Klaar Geweet",
       "url": "https://open.spotify.com/track/2SXJNxbFGUnMx4AFBNnLAI"
@@ -12186,6 +12240,24 @@
       "duration_ms": 179018,
       "name": "Kleintjie",
       "url": "https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk"
+    },
+    {
+      "album": {
+        "name": "Kleurblind",
+        "url": "https://open.spotify.com/album/657yrmRz2wMF3CZC6F8JNE"
+      },
+      "artists": [
+        {
+          "name": "Aidan Kade",
+          "url": "https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186290,
+      "name": "Kleurblind",
+      "url": "https://open.spotify.com/track/489MxNLlLGS9bG7Hutg8gi"
     },
     {
       "album": {
@@ -12720,7 +12792,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 159503,
       "name": "Kom's Braai",
       "url": "https://open.spotify.com/track/5LFI85zSfK1DIcIbtoHYQG"
@@ -12810,7 +12882,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 196193,
       "name": "Koos Wye Voete",
       "url": "https://open.spotify.com/track/0fXZzePp4nG3t34VziBTYh"
@@ -13276,7 +13348,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 203538,
       "name": "Laat Dit Re\u00ebn",
       "url": "https://open.spotify.com/track/6plPK91Y6N23KIjH9uo993"
@@ -14368,7 +14440,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 168750,
       "name": "Liewe Lulu",
       "url": "https://open.spotify.com/track/6lXCDbNfsF3gWfczAoTYFi"
@@ -14570,7 +14642,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 144375,
       "name": "Los My In Die Lande",
       "url": "https://open.spotify.com/track/3A6GiP7JwCiw1pogpX70gT"
@@ -18072,7 +18144,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 220819,
       "name": "Onverwoesbaar",
       "url": "https://open.spotify.com/track/4kfr4lj2povKGJHOqRQP1D"
@@ -20440,7 +20512,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 221200,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/3xXKxuCvhgpMtXKVUH9pea"
@@ -21434,7 +21506,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 242301,
       "name": "Somertyd",
       "url": "https://open.spotify.com/track/5Z4J3TQcZR7OUIghAvaMzj"
@@ -22307,6 +22379,24 @@
     },
     {
       "album": {
+        "name": "Stof Skop",
+        "url": "https://open.spotify.com/album/6kpLZnD6pGWSTZV9A48Kmx"
+      },
+      "artists": [
+        {
+          "name": "Jan-Mattys",
+          "url": "https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195937,
+      "name": "Stof Skop",
+      "url": "https://open.spotify.com/track/6i3liOlaFt1evquWjWbZkx"
+    },
+    {
+      "album": {
         "name": "Herfs Na Lente",
         "url": "https://open.spotify.com/album/6VMEaySekY8OhZVxB88JX7"
       },
@@ -22532,6 +22622,24 @@
     {
       "album": {
         "name": "Stuur Groete Aan Mannetjies Roux",
+        "url": "https://open.spotify.com/album/1P7KYbh3WG4e2I9TtblTQ0"
+      },
+      "artists": [
+        {
+          "name": "Armand Hofmeyr",
+          "url": "https://open.spotify.com/artist/5PH4LwIhIerQCgMZrsQuIh"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159953,
+      "name": "Stuur Groete Aan Mannetjies Roux",
+      "url": "https://open.spotify.com/track/6v0JSAP65aVqaYGRqYAjCM"
+    },
+    {
+      "album": {
+        "name": "Stuur Groete Aan Mannetjies Roux",
         "url": "https://open.spotify.com/album/6mVuUWIJWLDH5r2F1fjwzz"
       },
       "artists": [
@@ -22650,7 +22758,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 178076,
       "name": "Susanna van Wyk",
       "url": "https://open.spotify.com/track/5vxKuXpgfs5cCht17cuKha"

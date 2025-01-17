@@ -2,7 +2,7 @@
 
 ### [Hype List](https://open.spotify.com/playlist/37i9dQZF1DXe74lXHc7E5A)
 
-> Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Skepta
+> Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Central Cee & 21 Savage
 
 494 songs - 1 day 1 hr 8 min
 

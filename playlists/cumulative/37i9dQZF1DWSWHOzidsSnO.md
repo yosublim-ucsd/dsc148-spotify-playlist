@@ -4,7 +4,7 @@
 
 > ¡Mujeres de los Andes, a todo volumen!
 
-471 songs - 1 day 1 hr 42 min
+472 songs - 1 day 1 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -324,7 +324,7 @@
 | [no quiero olvidarte](https://open.spotify.com/track/23o6PatI0hYzKoQIOOAD3d) | [Nicole Zignago](https://open.spotify.com/artist/1SflmlTg1rQ6pTBQ1CbWEP) | [no quiero olvidarte](https://open.spotify.com/album/4fVokzcFNJnOUjGposnKeb) | 3:50 | 2024-03-06 |  |
 | [no quiero pelear](https://open.spotify.com/track/73g6RENTgyeOn8vD04F2MT) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [att.](https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h) | 3:18 | 2024-11-06 |  |
 | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/track/1y8K3PNIaUOq8dZah76jl5) | [Ventino](https://open.spotify.com/artist/1G89WXRVVAEjU4VIwgg6XD) | [No Se Me Ve Tan Mal \(NSMVTM\)](https://open.spotify.com/album/4ID82VAEREMMsWImgAF5zZ) | 2:45 | 2022-09-23 | 2023-01-05 |
-| [No Se Ve](https://open.spotify.com/track/2fTkT0jnZZp1uW418uuYZs) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Re\-Encuentro](https://open.spotify.com/album/3oktbAuWkuFNFYdqFhKKug) | 4:01 | 2024-09-04 |  |
+| [No Se Ve](https://open.spotify.com/track/2fTkT0jnZZp1uW418uuYZs) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Re\-Encuentro](https://open.spotify.com/album/3oktbAuWkuFNFYdqFhKKug) | 4:01 | 2024-09-04 | 2025-01-17 |
 | [No Soy de Callar](https://open.spotify.com/track/47U6WT9IaozynJQQn4cfHb) | [Ana María Vahos](https://open.spotify.com/artist/0JOEaSFcfKMWv91hwVTdf7) | [Amor Profundo](https://open.spotify.com/album/785Bp0IlD9sB1WrXXqI1Jf) | 3:04 | 2022-01-05 | 2022-11-03 |
 | [No Soy Del Valle](https://open.spotify.com/track/3tkrKE6l85eRvrek4Nu4Fk) | [Nidia Gongora](https://open.spotify.com/artist/5Ln6VxkwRDdAH40Lel6Yj8), [Quantic](https://open.spotify.com/artist/5ZMwoAjeDtLJ0XRwRTgaK8) | [The Power of the Latin Music](https://open.spotify.com/album/52ToIjbxyelIv0ummj6LeE) | 4:10 | 2024-07-03 | 2024-08-08 |
 | [No Te Pido Más](https://open.spotify.com/track/71tVAHlntYm49TTYwhe8uG) | [Marbelle](https://open.spotify.com/artist/3UMc63PbdGvuOzUk0Gd1Fg) | [No Te Pido Más](https://open.spotify.com/album/0yE1wk2NYPTO47P1Tozbz1) | 3:19 | 2022-01-05 | 2022-02-03 |
@@ -360,6 +360,7 @@
 | [Prométeme](https://open.spotify.com/track/5LGEeGRTgcYI2KHRYcJLdc) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Bolero Apocalíptico](https://open.spotify.com/album/51oaN9VvyBHWlflI8UzUti) | 3:09 | 2023-05-03 | 2023-11-02 |
 | [psicópata](https://open.spotify.com/track/44uOMj2Q9H5GcFKVYfKsVm) | [Corina Smith](https://open.spotify.com/artist/7mXfsy3lF4kU0f2KTNKSr8) | [triste pero siempre mami](https://open.spotify.com/album/42KWkiTPmBC5YUfOtV4dIq) | 3:01 | 2024-11-06 |  |
 | [QLQ](https://open.spotify.com/track/4AIohYuFOuGlck4a4WPwer) | [Briella](https://open.spotify.com/artist/3ef240gIQOpOu1OaPNYF2b) | [QLQ](https://open.spotify.com/album/12SrWPi6P4YE75GutgfxN2) | 2:29 | 2023-06-07 | 2023-11-22 |
+| [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 | 2025-01-17 |  |
 | [Que me quiera](https://open.spotify.com/track/7gB6PzoYADdSOfWx3KXae6) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [YELIANA](https://open.spotify.com/album/7bGQBZkaTn1QIFdWG2FuV1) | 2:34 | 2024-11-06 |  |
 | [Que No Se Apague](https://open.spotify.com/track/1fEc6t9NteHIqXv0sgpEIW) | [Lalo Cortés](https://open.spotify.com/artist/5aOSxuZtFtsOFvNB4xlssQ) | [Que No Se Apague](https://open.spotify.com/album/7CNlOGFOtPr9PeWYHEzL1y) | 4:44 | 2023-11-21 | 2024-10-03 |
 | [Quema](https://open.spotify.com/track/1qvEn0FGwIhvvUggNcV9k5) | [Mabiland](https://open.spotify.com/artist/2oXKVuZqDv85M1ynjVMp3J) | [TORQUE: Vol\. 1](https://open.spotify.com/album/1GTyjbV1GQXFWjOCDsmNne) | 2:36 | 2023-01-04 | 2023-09-07 |

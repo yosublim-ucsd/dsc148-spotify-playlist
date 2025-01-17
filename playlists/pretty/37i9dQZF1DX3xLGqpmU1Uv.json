@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 163459,
+  "num_followers": 163499,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -91,22 +91,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
-        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
-      },
-      "artists": [
-        {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
-        }
-      ],
-      "duration_ms": 114800,
-      "name": "El Rock De La C\u00e1rcel",
-      "url": "https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Peerless 80 Aniversario - 24 Exitos Vol. 1",
         "url": "https://open.spotify.com/album/4OfBy9NPNwl1pYoIjNLBhU"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 164093,
       "name": "Atras de la Raya",
       "url": "https://open.spotify.com/track/0QvKb8DrkSzvSDxBRJxK7K"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
+        "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
+      },
+      "artists": [
+        {
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+        }
+      ],
+      "duration_ms": 114800,
+      "name": "El Rock De La C\u00e1rcel",
+      "url": "https://open.spotify.com/track/43ciCW4nNa2x17L8Ts3Csf"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -169,22 +169,6 @@
       "url": "https://open.spotify.com/track/02olBmYmVrodR2C6xroOzO"
     },
     {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
-        "url": "https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX"
-      },
-      "artists": [
-        {
-          "name": "Queta Garay",
-          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
-        }
-      ],
-      "duration_ms": 133253,
-      "name": "Chica ye y\u00e9",
-      "url": "https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr"
-    },
-    {
       "added_at": "2022-05-04 17:04:54",
       "album": {
         "name": "Hermanos Carrion 50 A\u00f1os, Vol. 1",
@@ -204,17 +188,17 @@
       "added_at": "2020-03-18 04:18:26",
       "album": {
         "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
-        "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
+        "url": "https://open.spotify.com/album/52eGdmCUeEOIJFOM1rGJYX"
       },
       "artists": [
         {
-          "name": "Vianey Valdez",
-          "url": "https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs"
+          "name": "Queta Garay",
+          "url": "https://open.spotify.com/artist/62j60zX240zvCx8ZGfaqjg"
         }
       ],
-      "duration_ms": 145253,
-      "name": "Mu\u00e9vanse todos - Twist and Shout",
-      "url": "https://open.spotify.com/track/1BaZlroFKDgIlNc7JQ5LOq"
+      "duration_ms": 133253,
+      "name": "Chica ye y\u00e9",
+      "url": "https://open.spotify.com/track/6d57N8nRzeGBW2bMinOEKr"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -231,6 +215,22 @@
       "duration_ms": 140026,
       "name": "Al Ritmo De La Lluvia",
       "url": "https://open.spotify.com/track/5TmvmwxsHSfDfdW0RptHE4"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
+        "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
+      },
+      "artists": [
+        {
+          "name": "Vianey Valdez",
+          "url": "https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs"
+        }
+      ],
+      "duration_ms": 145253,
+      "name": "Mu\u00e9vanse todos - Twist and Shout",
+      "url": "https://open.spotify.com/track/1BaZlroFKDgIlNc7JQ5LOq"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 171733,
-      "name": "Popotitos (Bonie Moroni)",
-      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
+      "duration_ms": 132933,
+      "name": "La Plaga (Good Golly, Miss Molly)",
+      "url": "https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/14GfQ6EEHnp1lTAWHgtcYy"
         }
       ],
-      "duration_ms": 132933,
-      "name": "La Plaga (Good Golly, Miss Molly)",
-      "url": "https://open.spotify.com/track/1SdwywRhxTWnZdaUihMdeD"
+      "duration_ms": 171733,
+      "name": "Popotitos (Bonie Moroni)",
+      "url": "https://open.spotify.com/track/70dBmROatI6VWV7HoWayte"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -617,22 +617,6 @@
       "url": "https://open.spotify.com/track/2ltEsQejGiTtpHLrasrkVd"
     },
     {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
-        "name": "Los Originales",
-        "url": "https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy"
-      },
-      "artists": [
-        {
-          "name": "Los Digers",
-          "url": "https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV"
-        }
-      ],
-      "duration_ms": 165154,
-      "name": "Si me quieres",
-      "url": "https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4"
-    },
-    {
       "added_at": "2024-07-12 13:46:41",
       "album": {
         "name": "100% Mexican Groovy: Batalla Estelar",
@@ -647,6 +631,22 @@
       "duration_ms": 167926,
       "name": "Fiebre",
       "url": "https://open.spotify.com/track/23MPu8Zp0HPhSVtNSTixMc"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Los Originales",
+        "url": "https://open.spotify.com/album/1rRZ2R9pDKnULllvloJguy"
+      },
+      "artists": [
+        {
+          "name": "Los Digers",
+          "url": "https://open.spotify.com/artist/3VCEQh1kN4JWyyphBt1IMV"
+        }
+      ],
+      "duration_ms": 165154,
+      "name": "Si me quieres",
+      "url": "https://open.spotify.com/track/14LwPPMfMz0KHESFo2dUf4"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -752,13 +752,13 @@
       },
       "artists": [
         {
-          "name": "Chelo",
-          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
+          "name": "Manolo Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
         }
       ],
-      "duration_ms": 166603,
-      "name": "Tumbaloflesicodelicomicoso",
-      "url": "https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD"
+      "duration_ms": 117632,
+      "name": "Leyenda Mexicana",
+      "url": "https://open.spotify.com/track/68YJoKueqWtsL5co2VCRjN"
     },
     {
       "added_at": "2023-03-25 17:44:53",
@@ -784,13 +784,13 @@
       },
       "artists": [
         {
-          "name": "Manolo Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/7EZiK5F8Cpm9JABw1vMVSu"
+          "name": "Chelo",
+          "url": "https://open.spotify.com/artist/4IRgZYuKlqlD3BCEhb52ne"
         }
       ],
-      "duration_ms": 117632,
-      "name": "Leyenda Mexicana",
-      "url": "https://open.spotify.com/track/68YJoKueqWtsL5co2VCRjN"
+      "duration_ms": 166603,
+      "name": "Tumbaloflesicodelicomicoso",
+      "url": "https://open.spotify.com/track/1Ae5yrpad97frKpGWjRVVD"
     },
     {
       "added_at": "2024-07-12 13:46:41",

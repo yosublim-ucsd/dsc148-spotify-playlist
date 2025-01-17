@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,755 likes - 571 songs - 1 day 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,760 likes - 571 songs - 1 day 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -303,8 +303,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 293 | [Give Our Love A Fightin' Chance](https://open.spotify.com/track/2AAncJGhaot7e3Be7QSQlB) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:06 |
 | 294 | [If I Was A River](https://open.spotify.com/track/4rR7VsNybSF84FRMho7DGU) | [Tina Arena](https://open.spotify.com/artist/1ZTCpKWDwHhbjhkdHhvTm8) | [In Deep](https://open.spotify.com/album/3btFeEZj2oDNbNKK2YHr6a) | 5:20 |
 | 295 | [Perfection](https://open.spotify.com/track/0C5QSBH1wHLfP1cAKQIK4i) | [Cher](https://open.spotify.com/artist/72OaDtakiy6yFqkt4TsiFt) | [Cher](https://open.spotify.com/album/0NxtOR1ND3Qygex4ACA0z9) | 4:29 |
-| 296 | [Can't Fight the Moonlight](https://open.spotify.com/track/7iuY9uWlsTkdkuDjB4QRaJ) | [Country Nights](https://open.spotify.com/artist/1kjgbOuH2GDI8IrnCnFDRh) | [Classic Country Songs from the Movies Vol\. 2](https://open.spotify.com/album/3EoxMCFhNjRfit8MA4gXdr) | 3:36 |
-| 297 | [Bitch On Heels](https://open.spotify.com/track/3pK3HdXgQnBIQ8nHsPHzPT) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp) | [Bitch On Heels](https://open.spotify.com/album/62i4YXPijTuG2Gl22xCqmd) | 3:10 |
+| 296 | [Bitch On Heels](https://open.spotify.com/track/3pK3HdXgQnBIQ8nHsPHzPT) | [The Vivienne](https://open.spotify.com/artist/6o6ndD0Jm9X1VB3tMN4FRp) | [Bitch On Heels](https://open.spotify.com/album/62i4YXPijTuG2Gl22xCqmd) | 3:10 |
+| 297 | [Can't Fight the Moonlight](https://open.spotify.com/track/7iuY9uWlsTkdkuDjB4QRaJ) | [Country Nights](https://open.spotify.com/artist/1kjgbOuH2GDI8IrnCnFDRh) | [Classic Country Songs from the Movies Vol\. 2](https://open.spotify.com/album/3EoxMCFhNjRfit8MA4gXdr) | 3:36 |
 | 298 | [Soon](https://open.spotify.com/track/0YRGIRTHsQzuHoOKvdosBN) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [I Need You](https://open.spotify.com/album/7uBPEVNhaQa2G68Rd6mToK) | 3:52 |
 | 299 | [Numb \- 2017 Remaster](https://open.spotify.com/track/5bpFQj1Ceojaba0btoDTFw) | [Pet Shop Boys](https://open.spotify.com/artist/2ycnb8Er79LoH2AsR5ldjh) | [Fundamental: Further Listening 2005 \- 2007 \(2017 Remaster\)](https://open.spotify.com/album/4ZFuSmSto4VKVZ4glzep3j) | 4:43 |
 | 300 | [You Don't Have The Right](https://open.spotify.com/track/2VW7tqIuyIEUQ2fsq7Z8ji) | [The Saturdays](https://open.spotify.com/artist/15qI5w4XJFLRMwOp2VrlD5) | [Living For The Weekend \(Deluxe Edition\)](https://open.spotify.com/album/57QWA73jnfLo1YHwnDZpoZ) | 3:43 |
@@ -319,8 +319,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 309 | [No Cambies Nunca](https://open.spotify.com/track/2U0clXQyTV2lxmeKIWshkl) | [Monica Naranjo](https://open.spotify.com/artist/0zGM73sadbAOBLev02P8LO) | [Chicas Malas](https://open.spotify.com/album/2VHB7b8lO8ha35k3u8jtdo) | 4:38 |
 | 310 | [Couldn't We](https://open.spotify.com/track/6WHzVPpUITX9rh6SgoI9uV) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [One Wish](https://open.spotify.com/album/6kjhS8hUeK2rPeqZVhdY0M) | 4:32 |
 | 311 | [The Plumbing Song](https://open.spotify.com/track/4feL1rU1EcDRDQHetpFYlr) | ["Weird Al" Yankovic](https://open.spotify.com/artist/1bDWGdIC2hardyt55nlQgG) | [Off The Deep End](https://open.spotify.com/album/6qr3P9IV7X8zSmRWUfKTNL) | 4:06 |
-| 312 | [Moi sì \(Io sì\)](https://open.spotify.com/track/3cvUjacGM8nuxGdVK6dWDg) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Io sì \(Seen\) \[From “The Life Ahead \(La vita davanti a sé\)”\]](https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG) | 3:54 |
-| 313 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
+| 312 | [One Night With You \(Everyday of Your Life\)](https://open.spotify.com/track/1h22k2vpmDHIw1ZT0vee4c) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [One Night With You: The Best Of Love, Volume 2](https://open.spotify.com/album/2lkLq0W75R4m4xFZrmXGrB) | 4:24 |
+| 313 | [Moi sì \(Io sì\)](https://open.spotify.com/track/3cvUjacGM8nuxGdVK6dWDg) | [Laura Pausini](https://open.spotify.com/artist/2e4nwiX8ZCU09LGLOpeqTH) | [Io sì \(Seen\) \[From “The Life Ahead \(La vita davanti a sé\)”\]](https://open.spotify.com/album/1Z7aI937XmTwVAAHjekxqG) | 3:54 |
 | 314 | [Listen With Your Heart](https://open.spotify.com/track/1BsIcp6FTuM8jSt4NYe5TW) | [Casey Donovan](https://open.spotify.com/artist/64NYtjmJ1onMOgQ2F40d6X) | [For You](https://open.spotify.com/album/1uNMbDXBQrmYnsVpJYQV2H) | 4:01 |
 | 315 | [What Are You Doing With a Fool Like Me \- Studio Version](https://open.spotify.com/track/1ADmyvNaireK0kH2xNdVyO) | [Joe Cocker](https://open.spotify.com/artist/3pFCERyEiP5xeN2EsPXhjI) | [Joe Cocker Live](https://open.spotify.com/album/6CpOgaWKkuIXrV3gqJmKMz) | 4:50 |
 | 316 | [Desire](https://open.spotify.com/track/1Zhs2crzqQVST3j60dCKhu) | [Joan Jett & the Blackhearts](https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K) | [Up Your Alley](https://open.spotify.com/album/2pkv3nrNrwtUdT8VNWwt5U) | 3:52 |
@@ -525,8 +525,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 515 | [The Ones You Love](https://open.spotify.com/track/1UzAqWHz96lIutGzR6aQYw) | [Zendee](https://open.spotify.com/artist/4naOha45BMkEKW6fnTPQ3A) | [I Believe](https://open.spotify.com/album/1JpQ5L6frqPta1oGw2PzhI) | 3:46 |
 | 516 | [Unspoken Love](https://open.spotify.com/track/30uNcSqhzHitYVrxsPLJKE) | [Paul Michiels](https://open.spotify.com/artist/09kd4GXvKYEHyVRqNGunTB) | [The Inner Child](https://open.spotify.com/album/1uVQjJXQxusnLxun611M9d) | 3:20 |
 | 517 | [You Redeem Me](https://open.spotify.com/track/1mm1fuhhCOwm92R3VP0fF6) | [Ace Young](https://open.spotify.com/artist/1yb4zX0BZ7Ohe0lDcULddT) | [Ace Young](https://open.spotify.com/album/2apCW9jexUmIGSzWZbEV9J) | 3:54 |
-| 518 | [Commitment of the Heart](https://open.spotify.com/track/1sOpeHGvOOuhNC3QsTijaL) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 5:06 |
-| 519 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 |
+| 518 | [Are We Over](https://open.spotify.com/track/6tE3jdnHJZp0kFBPIR4F1u) | [Charice](https://open.spotify.com/artist/0AuZVHIr5WSEBbBLZwWwWc) | [Charice](https://open.spotify.com/album/1cmqB3Ui3FuKWGo87TBpTd) | 3:54 |
+| 519 | [Commitment of the Heart](https://open.spotify.com/track/1sOpeHGvOOuhNC3QsTijaL) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 5:06 |
 | 520 | [Love Is Like A Drug](https://open.spotify.com/track/52ogSPjOwsAnUddLs1pC26) | [Linda Teodosiu](https://open.spotify.com/artist/3WQjKUnRZKZWFuHQKx6Afh) | [Under Pressure](https://open.spotify.com/album/6Ke46Z5FisAAuMtH7IK8de) | 3:22 |
 | 521 | [Same Song](https://open.spotify.com/track/5STQsgq6o82sqKYfymtqe7) | [LaKisha Jones](https://open.spotify.com/artist/3lmeQnSYHi5KoLctIwMQXv) | [So Glad I'm Me \(Deluxe Version\)](https://open.spotify.com/album/2axCyrRo1yZC6fQDNmd8rG) | 4:09 |
 | 522 | [I'm By Your Side](https://open.spotify.com/track/0gZPEf6zaswcXJP7uqC1BE) | [Samantha Cole](https://open.spotify.com/artist/4VnMJXQpix0onjop2VNFvX) | [Samantha Cole](https://open.spotify.com/album/1nLWlryXPg4E3Yqr89yW5V) | 4:57 |
@@ -554,8 +554,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 544 | [Naked With You](https://open.spotify.com/track/5lRL9916uS9asPPWdOGLi9) | [Maria Lawson](https://open.spotify.com/artist/5rFfHZBKTyo6zzHDLP6ORa) | [Maria Lawson](https://open.spotify.com/album/3VQk0n6NcEQa4aH9dwcJmx) | 3:31 |
 | 545 | [Avant de me donner à vous \(Version masterisée 2021\)](https://open.spotify.com/track/7nBAHYsO1nWhyBz4WBCn2G) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Laura Mayne\-Kerbrat](https://open.spotify.com/album/2S7cfOfDTreaJ7TFbD7U3a) | 5:13 |
 | 546 | [Why Can't I?](https://open.spotify.com/track/3LRypkrjihgVnSwZRgtPrA) | [Blake](https://open.spotify.com/artist/14gwq97kYFSF26mMyHAus2) | [Start Over](https://open.spotify.com/album/2D21gBgqWGyQaklwrrmyk4) | 4:00 |
-| 547 | [Please \(Dreams\)](https://open.spotify.com/track/1EsNIWbFSDLioy2DyVUcyZ) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [As Jy Wonder](https://open.spotify.com/album/5Zk9BF3z2U4tvBc6Bg18w5) | 4:03 |
-| 548 | [Missin' You Now](https://open.spotify.com/track/0wQyoYLuHGqDoW2N5r49q7) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [1993 Reggae Sumfest \- Live in Jamaica Vol\. 2](https://open.spotify.com/album/1oPzZ8ufYSzMXHbMEenx13) | 2:52 |
+| 547 | [Missin' You Now](https://open.spotify.com/track/0wQyoYLuHGqDoW2N5r49q7) | [Sanchez](https://open.spotify.com/artist/6550dJCDSrZ8Cv6IDAjHpf) | [1993 Reggae Sumfest \- Live in Jamaica Vol\. 2](https://open.spotify.com/album/1oPzZ8ufYSzMXHbMEenx13) | 2:52 |
+| 548 | [Please \(Dreams\)](https://open.spotify.com/track/1EsNIWbFSDLioy2DyVUcyZ) | [Nádine](https://open.spotify.com/artist/3toTOSECKyxnsmrCsdQs2U) | [As Jy Wonder](https://open.spotify.com/album/5Zk9BF3z2U4tvBc6Bg18w5) | 4:03 |
 | 549 | [Loving You Is All I Know](https://open.spotify.com/track/2IKxEzeJaEDioeuxVMxtCs) | [Christina Undhjem](https://open.spotify.com/artist/32eduOoS9D0HT4LwQBkwp0) | [Christina Undhjem EP](https://open.spotify.com/album/77GQSMnOaY5HxEPVpFzkf9) | 3:59 |
 | 550 | [Un sens à ma vie \(Version masterisée 2021\)](https://open.spotify.com/track/4JTCKjMhfCBxT9rduhI2oz) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Laura Mayne\-Kerbrat](https://open.spotify.com/album/2S7cfOfDTreaJ7TFbD7U3a) | 4:23 |
 | 551 | [Your Lover](https://open.spotify.com/track/12qV0Jjwu2MwtaV6eOtK79) | [C\-Stones](https://open.spotify.com/artist/1aeD6lrmV9YPN0o5vSPzX0) | [Makin' My Way](https://open.spotify.com/album/4I2owAJAzxjTlCSQe7R8DP) | 3:40 |
@@ -580,4 +580,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 570 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 | 571 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 
-Snapshot ID: `Abm9yAAAAAA1sUZ7unVDIyZ0oT3DjuLC`
+Snapshot ID: `AbnDXgAAAABt2BU0/xxXsLbP3HrO/O9/`

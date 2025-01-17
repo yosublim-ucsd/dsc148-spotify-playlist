@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Baustelle in cover della playlist con il meglio dell\u2019indie italiano \ud83d\udd25",
+  "description": "Coma_Cose in cover della playlist con il meglio dell\u2019indie italiano \ud83d\udd25",
   "name": "Indie Italia",
   "tracks": [
     {
@@ -74,6 +74,24 @@
       "duration_ms": 214291,
       "name": "2minuti",
       "url": "https://open.spotify.com/track/7yS8LfvvFEhtGhKLk29j5a"
+    },
+    {
+      "album": {
+        "name": "30 anni",
+        "url": "https://open.spotify.com/album/1W7OXNrgGHahRIVgfzE1xR"
+      },
+      "artists": [
+        {
+          "name": "GINEVRA",
+          "url": "https://open.spotify.com/artist/7tzZSvedYboTHuyJgkaG0U"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224455,
+      "name": "30 anni",
+      "url": "https://open.spotify.com/track/2KEEm8VPtiBiBJd7AYDl83"
     },
     {
       "album": {
@@ -244,7 +262,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 181532,
       "name": "AMARSI PER LAVORO",
       "url": "https://open.spotify.com/track/0wfKG2QPt5dtkRYmSAW8MC"
@@ -559,6 +577,24 @@
     },
     {
       "album": {
+        "name": "Teatro",
+        "url": "https://open.spotify.com/album/7cr7rD9YJ7b53kleNSGeyk"
+      },
+      "artists": [
+        {
+          "name": "Marianne Mirage",
+          "url": "https://open.spotify.com/artist/1hhYq9Huoi1NVi4BXkRBn0"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245500,
+      "name": "Cielo",
+      "url": "https://open.spotify.com/track/3HQVk0f6cZMChC82l3N66a"
+    },
+    {
+      "album": {
         "name": "Cielo Aperto",
         "url": "https://open.spotify.com/album/24N5XAT7KkNHWHTc2hARZe"
       },
@@ -834,7 +870,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 212732,
       "name": "Due Anime",
       "url": "https://open.spotify.com/track/3VYbbCl0q1YEmM4XUNCXby"
@@ -878,6 +914,24 @@
       "duration_ms": 166000,
       "name": "Far\u00f2 Pi\u00f9 Rumore Del Ratatata",
       "url": "https://open.spotify.com/track/6pqwsZdRorpeqoJQxcWeTL"
+    },
+    {
+      "album": {
+        "name": "Favola",
+        "url": "https://open.spotify.com/album/0LmhzsWhGFnLfcmqqVnUuj"
+      },
+      "artists": [
+        {
+          "name": "Dente",
+          "url": "https://open.spotify.com/artist/7uGQOfydy4DpqrM8XhyIdt"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218893,
+      "name": "Favola",
+      "url": "https://open.spotify.com/track/0sq1ZosH1uS0VUCwF3qwfO"
     },
     {
       "album": {
@@ -972,6 +1026,24 @@
       "duration_ms": 179200,
       "name": "Fucina",
       "url": "https://open.spotify.com/track/67vJdMwzC9uf45SCAdWYKB"
+    },
+    {
+      "album": {
+        "name": "fulmine a ciel sereno",
+        "url": "https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA"
+      },
+      "artists": [
+        {
+          "name": "faccianuvola",
+          "url": "https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174759,
+      "name": "fulmine a ciel sereno",
+      "url": "https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO"
     },
     {
       "album": {
@@ -1334,7 +1406,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 166546,
       "name": "Karaoke",
       "url": "https://open.spotify.com/track/3qj1SVOn5avhbcBrgkrTv7"
@@ -1590,7 +1662,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 224931,
       "name": "Le parole pi\u00f9 grandi",
       "url": "https://open.spotify.com/track/3i4rci1J95OdMxer9kxjqW"
@@ -1728,6 +1800,24 @@
       "duration_ms": 140543,
       "name": "L\u2019URLO",
       "url": "https://open.spotify.com/track/69WECrwaM5riHmVhOkWreo"
+    },
+    {
+      "album": {
+        "name": "Mal di te",
+        "url": "https://open.spotify.com/album/6xHBZ21IhmGakzi2Vd1OtA"
+      },
+      "artists": [
+        {
+          "name": "Coez",
+          "url": "https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179366,
+      "name": "Mal di te",
+      "url": "https://open.spotify.com/track/4OkzRJ7eaAtIeaRZEqDLaz"
     },
     {
       "album": {
@@ -1884,7 +1974,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 174693,
       "name": "MEZZ\u2019ORA D\u2019AMORE (S1 E3)",
       "url": "https://open.spotify.com/track/3RwhBeek2bz0mrGHbgl5Q8"
@@ -1942,6 +2032,24 @@
       "duration_ms": 177641,
       "name": "my baby!",
       "url": "https://open.spotify.com/track/5sTCvL92Efyd6TZYr3SVID"
+    },
+    {
+      "album": {
+        "name": "MYROMANTICA",
+        "url": "https://open.spotify.com/album/4ZmIavc2q57jOHPjlsjy3f"
+      },
+      "artists": [
+        {
+          "name": "CIMINI",
+          "url": "https://open.spotify.com/artist/5vfXc5u6I4DVgjBHJ7XWLf"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197703,
+      "name": "MYROMANTICA",
+      "url": "https://open.spotify.com/track/2mUaQR6ggH0W4C8OVHNkmy"
     },
     {
       "album": {
@@ -2685,6 +2793,24 @@
     },
     {
       "album": {
+        "name": "Sconosciuti",
+        "url": "https://open.spotify.com/album/7fW7qpPuLWgge3SpBUUTlm"
+      },
+      "artists": [
+        {
+          "name": "Cosmo",
+          "url": "https://open.spotify.com/artist/09LxneoTmRpuN3Jp8Ut4EX"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217500,
+      "name": "Sconosciuti",
+      "url": "https://open.spotify.com/track/7G5MGUEldnk7eixgIjaeaY"
+    },
+    {
+      "album": {
         "name": "NUOVOSPAZIOTEMPO",
         "url": "https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ"
       },
@@ -2714,7 +2840,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 270222,
       "name": "Sembra per Sempre",
       "url": "https://open.spotify.com/track/73LkdQY7M5kMSDWPiWs0Q1"
@@ -2732,7 +2858,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 151493,
       "name": "Senza di me",
       "url": "https://open.spotify.com/track/71ogrXoA23rHJ1LVFoNOk7"

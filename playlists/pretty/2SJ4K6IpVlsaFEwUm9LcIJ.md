@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,587 likes - 18 songs - 1 hr 11 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,593 likes - 17 songs - 1 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 10 | [Brinna ut](https://open.spotify.com/track/5CjmMIJJ0tvGaCmzRqdZKd) | [JJULIUS](https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I) | [Brinna ut](https://open.spotify.com/album/6Yu14rYwU0x4x2AhTmWLsv) | 3:21 |
 | 11 | [Du Aldrig Märker](https://open.spotify.com/track/19JbEgAhFezeT6WOU9rFVD) | [JJULIUS](https://open.spotify.com/artist/6tvDi9cbr2tjAjBtLsgu8I) | [Vol\. 2](https://open.spotify.com/album/0epSUUs7idZdhu70oxL43C) | 2:53 |
 | 12 | [City Nights \- Remastered](https://open.spotify.com/track/3OGz14dnKpsDvBaoDgPuXK) | [Allan Holdsworth](https://open.spotify.com/artist/5CK3a77IzCSHjNqzRcbhuG) | [Secrets \(Remastered\)](https://open.spotify.com/album/1UDgMZLyvJgGYNCOqMEURq) | 2:33 |
-| 13 | [Olhaí](https://open.spotify.com/track/3KXFc8Zlr5ydDf8BzBzdVw) | [Johnny Alf](https://open.spotify.com/artist/6aewGwsqlu1cmev2xBJoht) | [Cool Brasil](https://open.spotify.com/album/2Stcce45r02GpUolhkFMEl) | 2:46 |
-| 14 | [Coffin Maker](https://open.spotify.com/track/63KqbrdlCqaNZXXPRSwBnE) | [Chrissy Zebby Tembo](https://open.spotify.com/artist/3I8R11HYhjJIKERAUSNXM0), [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [My Ancestors](https://open.spotify.com/album/7gOFGkKA8Yxx9v0LGt7xJR) | 3:46 |
-| 15 | [Ce matin\-là \- Demo 2](https://open.spotify.com/track/6lMaS9WVQMB2BDYvDiKuDt) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari Rarities \(25th Anniversary Edition\)](https://open.spotify.com/album/3Dy5c5GMKUEgJJnDu9CPV8) | 3:15 |
-| 16 | [The "Sweetest Girl"](https://open.spotify.com/track/2vHXzgaYSP0LNIOZTFx2FA) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 5:07 |
-| 17 | [Love Song for Someone](https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:47 |
-| 18 | [Stan Is Lowe](https://open.spotify.com/track/2E3h67GZuG6NQ9jDQpV24t) | [Geoffrey Landers](https://open.spotify.com/artist/61boQYG7JKM1E48RWon8Lc) | [The Ever Decimal Pulse](https://open.spotify.com/album/2q4XZHhXycsAejrdhMCVkP) | 5:43 |
+| 13 | [Coffin Maker](https://open.spotify.com/track/63KqbrdlCqaNZXXPRSwBnE) | [Chrissy Zebby Tembo](https://open.spotify.com/artist/3I8R11HYhjJIKERAUSNXM0), [Ngozi Family](https://open.spotify.com/artist/60Ec3tL0Z85Jp3f2CTUUu3) | [My Ancestors](https://open.spotify.com/album/7gOFGkKA8Yxx9v0LGt7xJR) | 3:46 |
+| 14 | [Ce matin\-là \- Demo 2](https://open.spotify.com/track/6lMaS9WVQMB2BDYvDiKuDt) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari Rarities \(25th Anniversary Edition\)](https://open.spotify.com/album/3Dy5c5GMKUEgJJnDu9CPV8) | 3:15 |
+| 15 | [The "Sweetest Girl"](https://open.spotify.com/track/2vHXzgaYSP0LNIOZTFx2FA) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 5:07 |
+| 16 | [Love Song for Someone](https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:47 |
+| 17 | [Stan Is Lowe](https://open.spotify.com/track/2E3h67GZuG6NQ9jDQpV24t) | [Geoffrey Landers](https://open.spotify.com/artist/61boQYG7JKM1E48RWon8Lc) | [The Ever Decimal Pulse](https://open.spotify.com/album/2q4XZHhXycsAejrdhMCVkP) | 5:43 |
 
-Snapshot ID: `AAALsZTN+vJ1aDLhp7yCry4TRMRbyCFC`
+Snapshot ID: `AAALsgXjpVClPFmIm0km223jkC7Zqobe`

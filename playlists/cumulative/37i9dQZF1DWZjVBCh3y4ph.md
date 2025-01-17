@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Slaï x Emma'a
+> Les hits zouk du moment\. Photo : Oswald
 
-197 songs - 10 hr 33 min
+199 songs - 10 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,6 +40,7 @@
 | [Dangereuse](https://open.spotify.com/track/6ECdldILAeIdILsuvX6C8D) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [Dangereuse](https://open.spotify.com/album/74gssChBg7pHuz31u2LayX) | 2:58 | 2024-02-29 | 2024-07-05 |
 | [Danje](https://open.spotify.com/track/5QaSPnbcat6ErSt8E9hoes) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m), [JazzyKey](https://open.spotify.com/artist/75pxxwfTiLd2NO529FlQzv) | [Danje](https://open.spotify.com/album/5GeMdGhEVnZsTakJPgXD24) | 2:38 | 2024-07-04 | 2024-12-20 |
 | [Danje \- Golden Guest Edit](https://open.spotify.com/track/2IFtl8DdJ6oCW1oEF8umxh) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN), [Rutshelle Guillaume](https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk) | [Danje \(Golden Guest Edit\)](https://open.spotify.com/album/3kq3m2zcWwSHNjPtbzKNQg) | 3:05 | 2024-12-12 |  |
+| [Dans mes rêves](https://open.spotify.com/track/3FTyOftBC1Ssojv0oB0riS) | [Kailyn](https://open.spotify.com/artist/4xErERAoqrxnCgLiSz4uV4), [Naamix](https://open.spotify.com/artist/0mpw52i7RGRiSk9Ubh7oeG), [Staniski](https://open.spotify.com/artist/1QRTYLIPAn0oA3Fus7sviT) | [Dans mes rêves](https://open.spotify.com/album/2J58rgVgtmeDgjpkYuH7st) | 3:00 | 2025-01-16 |  |
 | [Dehors il fait froid](https://open.spotify.com/track/4NBJ31Bu470TPVgu06Vgn2) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [MCBOX](https://open.spotify.com/artist/09DuyQpofjb0pPekVSRxS5) | [Dehors il fait froid](https://open.spotify.com/album/2WI9NoVkIVvyRikSin6Csx) | 2:20 | 2024-05-23 | 2024-10-11 |
 | [Des Mots \- Des maux](https://open.spotify.com/track/2LQOCaakw9iL4Qj5DdIGTC) | [Rohane](https://open.spotify.com/artist/4sOYdAl0sCehEnO9T1BqS4) | [Des Mots \(Des Maux\)](https://open.spotify.com/album/5sM1241lvkbHg7FgZdoCPG) | 3:00 | 2024-08-01 | 2024-09-27 |
 | [Diamant](https://open.spotify.com/track/3uqATgtHuKkVA3BXCOdloN) | [Lorenz](https://open.spotify.com/artist/2EOc5l6ZIB5gygstmhE9eN), [G\-Wins](https://open.spotify.com/artist/5yqFT5onSnCJrPajUnmlUU) | [Conversations Sur L'Oreiller](https://open.spotify.com/album/358o3sd6vVA7c8gKAjUPMU) | 3:33 | 2024-10-10 | 2024-12-13 |
@@ -129,7 +130,7 @@
 | [Oublie ça \(Fendi\) \(feat\. Lucas Seb\) \- Konpa Remix](https://open.spotify.com/track/2LC2Rd6Oo8TDIyHbOfjfCy) | [Senyss](https://open.spotify.com/artist/41yZRhcJMRMFWihPbLxGkM), [lucas seb](https://open.spotify.com/artist/16soxHmY8uUNGhiu1luYhl) | [Oublie ça \(Fendi\) \(feat\. Lucas Seb\) \[Konpa Remix\]](https://open.spotify.com/album/7zbITbF81j9E8OXfX1XeDJ) | 3:19 | 2024-08-01 |  |
 | [Oulala](https://open.spotify.com/track/2d5gOkKwpkBfHW0zpSle82) | [Wilson](https://open.spotify.com/artist/7ndfTr3ku2KUcZY73ZIX6j) | [oulala](https://open.spotify.com/album/4w91x3KGmOBtKGo4tq0Bwn) | 2:35 | 2023-09-28 | 2023-10-20 |
 | [Oxygen](https://open.spotify.com/track/4ZZZqHNebHX4LxhF2kvMPZ) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Oxygen](https://open.spotify.com/album/5a844k8EwfScZh7aLUGEPv) | 3:35 | 2024-02-15 | 2024-06-21 |
-| [Pa Jan'm Asé](https://open.spotify.com/track/7jSwDyHWOaBPU4h1XKDUZa) | [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt), [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351) | [Pa Jan'm Asé](https://open.spotify.com/album/6j1BeWs0ajUvztNmUxL7rd) | 4:02 | 2024-10-10 |  |
+| [Pa Jan'm Asé](https://open.spotify.com/track/7jSwDyHWOaBPU4h1XKDUZa) | [Jude Deslouches](https://open.spotify.com/artist/1cJ3F8DO47enupBg2kOatt), [Vayb](https://open.spotify.com/artist/1hYA6XyhYOEKo90klGeh4H), [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351) | [Pa Jan'm Asé](https://open.spotify.com/album/6j1BeWs0ajUvztNmUxL7rd) | 4:02 | 2024-10-10 | 2025-01-17 |
 | [Pa Nowmal](https://open.spotify.com/track/3aAaM7HdWoXHjB2RHLoteu) | [Matieu White](https://open.spotify.com/artist/5sMW0JQcC3IVmpZ7nr0Wh9) | [Pa Nowmal](https://open.spotify.com/album/6H26y2puPTgrK0xxyFB9kJ) | 3:47 | 2024-02-08 | 2024-10-25 |
 | [Padoné´m](https://open.spotify.com/track/1MK8a1kVLdzDTnmXy6goqJ) | [Priscillia](https://open.spotify.com/artist/08BtABqyRZTgHfc97fVZrK), [DJ ZOXY](https://open.spotify.com/artist/5b6w6ijGuL3InHAhilZ87E) | [Padoné´m](https://open.spotify.com/album/6VumwiygGh99yBroZW1C6R) | 3:30 | 2024-06-06 | 2024-07-12 |
 | [Parano](https://open.spotify.com/track/42Qm5a79PiqfkzJgYyypqw) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [DDB](https://open.spotify.com/artist/3p05QEIVkyeKjsrBkf0efS) | [Parano](https://open.spotify.com/album/5JN3VD2ECGpmpLddXRd71h) | 2:53 | 2024-11-07 |  |
@@ -138,7 +139,7 @@
 | [Pedi kontwol](https://open.spotify.com/track/4yCX511KONRG0d4uxGCOjG) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ), [Steves J\. Bryan](https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 3:29 | 2024-09-12 |  |
 | [Petit cœur](https://open.spotify.com/track/40CR8Fb13bKFSPOV7cxDPg) | [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [Petit cœur](https://open.spotify.com/album/2xk6KpXikarOhvLzLpTaOe) | 2:46 | 2024-10-03 |  |
 | [Piment](https://open.spotify.com/track/1f6EwfjaBu3O5uzJ0p5IQr) | [Romy Rose](https://open.spotify.com/artist/0McCULnP8KpnUqIPSttJ2a) | [Piment](https://open.spotify.com/album/44VUYrsApFS6oxUNy1Hk9E) | 2:29 | 2023-10-19 | 2023-11-17 |
-| [PJDK](https://open.spotify.com/track/30lBJyMxLOJ3rcFwuC9p3d) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Alter Ego](https://open.spotify.com/album/7hypMwbH1ShLUjoCFMBGLE) | 4:03 | 2024-10-10 |  |
+| [PJDK](https://open.spotify.com/track/30lBJyMxLOJ3rcFwuC9p3d) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Alter Ego](https://open.spotify.com/album/7hypMwbH1ShLUjoCFMBGLE) | 4:03 | 2024-10-10 | 2025-01-17 |
 | [PLAN B](https://open.spotify.com/track/7azy3NmFHCyQt8VdJTP2LH) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr), [Nesly](https://open.spotify.com/artist/7mlT0u4rarQ2SkRMEWme8L) | [PLAN B](https://open.spotify.com/album/0uoTpwgUk6TLiXLivtmpXG) | 3:21 | 2024-05-02 | 2024-08-30 |
 | [Pleine Lune](https://open.spotify.com/track/60RHfwL5e8P00ayxuZudbd) | [Lycinaïs Jean](https://open.spotify.com/artist/5ShHE0kTc87fQ2Bt5Q1knN) | [Pleine Lune](https://open.spotify.com/album/30hnVckTGUxSXAxujoickw) | 2:30 | 2023-09-28 | 2023-11-24 |
 | [Plus jamais](https://open.spotify.com/track/6YFfWqhOFJLGFoFnVh9cD8) | [Dieson Samba](https://open.spotify.com/artist/4IJNkk3UY2TjVpL4T2z1ki) | [Plus jamais](https://open.spotify.com/album/7Ci1bhLCiQxurTW9S0JiKT) | 2:29 | 2024-02-29 | 2024-04-19 |
@@ -204,6 +205,7 @@
 | [Vou Et Mwen](https://open.spotify.com/track/6vq16h5EmKesnlHnyH6aWM) | [Sauce](https://open.spotify.com/artist/3Jrb45fRTmSOk2w2TePU4r), [S.A.M.O](https://open.spotify.com/artist/1FCBufI9ovdHlo2bSwGNvV) | [Vou Et Mwen](https://open.spotify.com/album/6CAnEVMN8pVMjlKp1oIXX7) | 2:38 | 2024-09-19 | 2024-10-11 |
 | [West Indies](https://open.spotify.com/track/2nJIdiAk5QyqkDilI4Lph6) | [SAÏK](https://open.spotify.com/artist/395spUELWr54gJKYr3EE0I) | [West Indies](https://open.spotify.com/album/2DJLNFCYzyX9piDBw3m7IM) | 2:54 | 2023-09-28 | 2023-10-27 |
 | [ZABOKA](https://open.spotify.com/track/0cmtrrR2jnzH1P4hpSZy3Y) | [Maurane Voyer](https://open.spotify.com/artist/6Lm6gwG8tJd3cvUL9he351), [Les Copinosss](https://open.spotify.com/artist/3DbijPrwvjQw8UMhCUfMFJ) | [BBW \(Deluxe Edition\)](https://open.spotify.com/album/7GUfdWyHPqAeWLUpFidAuX) | 2:34 | 2023-11-16 | 2024-06-28 |
+| [À genoux](https://open.spotify.com/track/6IayRy7xW9P2PZAtJFFDf4) | [Meryl](https://open.spotify.com/artist/1AT8NKdQOU0EVPu6ehN4NA), [Kalipsxau](https://open.spotify.com/artist/2N3Saqjcw6vl2HkOFUe8t6) | [À genoux](https://open.spotify.com/album/7JefwhJoDy84YkjD0n97K1) | 3:35 | 2025-01-16 |  |
 | [Âme soeur](https://open.spotify.com/track/6dheGoHZeIt4tpsgwHHHb1) | [Elowdy.C](https://open.spotify.com/artist/52UWLNkUBK06fmtS1gyrRt), [Sodaade](https://open.spotify.com/artist/2aS5KzUay2KPNhkHzKylbn) | [Âme soeur](https://open.spotify.com/album/6LOobHYWDB0hjtPi2oIvom) | 3:45 | 2024-08-08 | 2024-11-22 |
 
 \*This playlist was first scraped on 2023-09-29. Prior content cannot be recovered.

@@ -4,7 +4,7 @@
 
 > Featuring the dopest MC's from Tamil Rap scene<br/>Cover : Yuvan Shankar Raja
 
-146 songs - 8 hr 57 min
+147 songs - 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [Power \(From "Jai Bhim"\)](https://open.spotify.com/track/03EWeCL6DT7g5725PB6Yvv) | [Sean Roldan](https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Power \(From "Jai Bhim"\)](https://open.spotify.com/album/0enZQ3uBeFAATgU3yQh6xz) | 3:38 | 2022-02-08 | 2023-05-13 |
 | [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/track/47yvxC80llSgqVhMWBZeLd) | [A.R\. Rahman](https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG), [Arivu](https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71) | [Raayan Rumble \(From "Raayan"\)](https://open.spotify.com/album/1FVH2D7UkI5LNhim5CshPS) | 3:30 | 2024-07-05 |  |
 | [Rich Rich \(From "Mahaan"\)](https://open.spotify.com/track/0Ozbr9VJeL4ratoGYWop3K) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6), [Durai](https://open.spotify.com/artist/17g7q1dOGhKiEfUY1BRQNe), [ofRO](https://open.spotify.com/artist/3sZ8UlybnehTap4i1B3Wts) | [Rich Rich \(From "Mahaan"\)](https://open.spotify.com/album/3Z4pHhZ5NKMNoNCKIngFCm) | 3:05 | 2022-02-08 |  |
+| [RIGHTA](https://open.spotify.com/track/3aCAZ1BG3Arw9vr4BS9bH4) | [Tha Mystro](https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ), [M.Kowtham](https://open.spotify.com/artist/71LicWNSBQwSA0kd8Ncm63) | [RIGHTA](https://open.spotify.com/album/7eDopjlMuLu5f7UlteRDwc) | 2:26 | 2025-01-16 |  |
 | [Rising Rapper](https://open.spotify.com/track/6EGqZTMsrDmZqHD1iyRnkz) | [Rising Rapper](https://open.spotify.com/artist/4ryNpVoZhhCRhmOd670exX), [JOTA BEATS](https://open.spotify.com/artist/3tYFktzlCJPbLT1Wek52Ia) | [Rising Rapper](https://open.spotify.com/album/5zv1qpZ3sisND29nVCpLVC) | 3:21 | 2024-12-29 |  |
 | [Run for Your Life](https://open.spotify.com/track/4n74SPac7vNNusBi0Mm4iV) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Psycho.unit](https://open.spotify.com/artist/1hLQI3u6T2xxVOkrCCjbBC), [Gana Bala](https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg) | [Biriyani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/19ByOiM4yu0ETa2HNYng86) | 4:52 | 2022-02-08 | 2023-05-13 |
 | [Run Mage Run](https://open.spotify.com/track/4w9ZjuDQLBtPfodvUYTLzT) | [JAXK](https://open.spotify.com/artist/534u9oSsp7SDPju0QdH9wq), [Refix](https://open.spotify.com/artist/2QD7mDvWWHZmkOxtXBurr0) | [Pulingo](https://open.spotify.com/album/6fkCdDh5aA7XftqBC5106a) | 2:11 | 2024-12-29 |  |
@@ -151,7 +152,7 @@
 | [Viyugam](https://open.spotify.com/track/2Ps6Zt8739dZimrJvzbxZt) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Asal Kolaar](https://open.spotify.com/artist/4b1WCDqAVVgxK7KozLkOqc) | [Fight Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4lBvBSjtIVeGFkRqDdhTTV) | 2:52 | 2023-12-13 | 2024-09-24 |
 | [Volume Vachi Kelu](https://open.spotify.com/track/5sjawV7i11W86TgV6kbQvq) | [Zy Scenez](https://open.spotify.com/artist/6Dv2e5rJCOuKLZ606S24ik) | [Volume Vachi Kelu](https://open.spotify.com/album/07hP2XYvgsqzFGm5Mczwqc) | 3:57 | 2025-01-06 |  |
 | [Written By Holy Cow!](https://open.spotify.com/track/0dy7bIOZTmu9SdHygEUvdU) | [Imman Vijay](https://open.spotify.com/artist/5I0kqjiVuNcomVmnFVhvX3), [Meiarivu](https://open.spotify.com/artist/0hCIMGzjKCTxoHrfbJ17jw) | [Written By Holy Cow!](https://open.spotify.com/album/3Ubf6xEUMzT0HqKsGy3Q6B) | 3:23 | 2024-12-29 |  |
-| [Yaana Katha](https://open.spotify.com/track/7u3856hcrH8n7ijjDel4E4) | [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu) | [Yaana Katha](https://open.spotify.com/album/7BMzmPlY95JVY2gZQURwN1) | 4:11 | 2024-12-29 |  |
+| [Yaana Katha](https://open.spotify.com/track/7u3856hcrH8n7ijjDel4E4) | [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu) | [Yaana Katha](https://open.spotify.com/album/7BMzmPlY95JVY2gZQURwN1) | 4:11 | 2024-12-29 | 2025-01-17 |
 | [Yan Adaiyalam](https://open.spotify.com/track/0fY37pUbxyumQnExq4dZ0d) | [Kaveera](https://open.spotify.com/artist/6Yjlo3KK5M2SXwS0vmHpBq), [Rahul Vishwa](https://open.spotify.com/artist/2AOfxBVOmX5Qz8hbPm7iMu) | [Yan Adaiyalam](https://open.spotify.com/album/5tYlFSHSFtOYTlelROBNKD) | 4:19 | 2024-12-29 |  |
 | [Yedho Mayakkam](https://open.spotify.com/track/5MGdVJRHRfZ95yWQ2hCwRC) | [Yuvan Shankar Raja](https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy), [Tanvi Shah](https://open.spotify.com/artist/11PIHAhH0HI8SCdjhJ5zyA), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL) | [Billa 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/79crxQ8cTRX053j88cHks0) | 4:22 | 2022-02-08 |  |
 

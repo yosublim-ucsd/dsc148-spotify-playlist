@@ -2665,6 +2665,32 @@
     },
     {
       "album": {
+        "name": "Pull up 2025",
+        "url": "https://open.spotify.com/album/0MPggosGnTf94twPwITwF9"
+      },
+      "artists": [
+        {
+          "name": "KYLEO FROM THE WEST",
+          "url": "https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7"
+        },
+        {
+          "name": "ceiling on tha deck",
+          "url": "https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC"
+        },
+        {
+          "name": "M.Jay",
+          "url": "https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162507,
+      "name": "Pull up 2025",
+      "url": "https://open.spotify.com/track/3AZRehDZjXUtcJxXDvB1ld"
+    },
+    {
+      "album": {
         "name": "Raak Taatie",
         "url": "https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy"
       },
@@ -2906,7 +2932,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 137351,
       "name": "Smaak Vir Rap",
       "url": "https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: MGK666, RAVA",
+  "description": "Las\u0103-te inspirat pe ritmuri de hip-hop. Cover: Bitza, Ombladon, El Nino ",
   "name": "Suflet + Sunet",
   "tracks": [
     {
@@ -842,7 +842,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 190400,
       "name": "Faruri",
       "url": "https://open.spotify.com/track/7Ka8Irg6Q8AsmxIltryCmr"
@@ -1090,6 +1090,32 @@
       "duration_ms": 266206,
       "name": "Gr\u0103dina interioar\u0103",
       "url": "https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx"
+    },
+    {
+      "album": {
+        "name": "Haz de necaz",
+        "url": "https://open.spotify.com/album/1fsbOLT7Ae6G8rpnwOH6Fi"
+      },
+      "artists": [
+        {
+          "name": "Bitza",
+          "url": "https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ"
+        },
+        {
+          "name": "Ombladon",
+          "url": "https://open.spotify.com/artist/6ojVBJkxhgSj5zgXsM3hnF"
+        },
+        {
+          "name": "El Nino",
+          "url": "https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203478,
+      "name": "Haz de necaz",
+      "url": "https://open.spotify.com/track/134JNZxHvJgR6cngu5s0Z5"
     },
     {
       "album": {
@@ -1573,6 +1599,24 @@
     },
     {
       "album": {
+        "name": "Periplu c\u0103tre fericire",
+        "url": "https://open.spotify.com/album/1ZhcfGbO7STLlijE5H22V7"
+      },
+      "artists": [
+        {
+          "name": "Cortes",
+          "url": "https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "Periplu c\u0103tre fericire",
+      "url": "https://open.spotify.com/track/4E0ipjLhs2x9RSXMLDB15r"
+    },
+    {
+      "album": {
         "name": "PESTE TOT",
         "url": "https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd"
       },
@@ -1672,7 +1716,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 172321,
       "name": "Poze De Album",
       "url": "https://open.spotify.com/track/3YONtB47D1iQRAt7WF9lXS"

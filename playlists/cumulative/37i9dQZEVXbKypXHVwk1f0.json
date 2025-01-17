@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "A Tu Ritmo",
+        "url": "https://open.spotify.com/album/7twosGSiMV3tBvLo96HhSn"
+      },
+      "artists": [
+        {
+          "name": "Juanfran",
+          "url": "https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187718,
+      "name": "A Tu Ritmo",
+      "url": "https://open.spotify.com/track/2EL8xZbKJllXDQor6CsgH6"
+    },
+    {
+      "album": {
         "name": "Tu Puto Rock Star",
         "url": "https://open.spotify.com/album/2AsfhvrXVEVrJllqaIZHCd"
       },
@@ -1022,7 +1040,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 278644,
       "name": "ADIVINO",
       "url": "https://open.spotify.com/track/0eeX8L0DWvGth1F6xVkvv7"
@@ -6198,7 +6216,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 218701,
       "name": "DEPORTIVO",
       "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
@@ -12229,6 +12247,24 @@
     },
     {
       "album": {
+        "name": "Inspector de Lunares",
+        "url": "https://open.spotify.com/album/4SHzH9oQKc1QmYmjeqCllm"
+      },
+      "artists": [
+        {
+          "name": "BRY M",
+          "url": "https://open.spotify.com/artist/6L6ZHOfE22saw0DcmIs8H3"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179600,
+      "name": "Inspector de Lunares",
+      "url": "https://open.spotify.com/track/055D8V1mdG2OyN0NVX080V"
+    },
+    {
+      "album": {
         "name": "It feels like I've forgotten something",
         "url": "https://open.spotify.com/album/29bbl8fqzfY2Xi7RIuuhUH"
       },
@@ -15092,7 +15128,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 204000,
       "name": "Loco",
       "url": "https://open.spotify.com/track/2J9B63FawlTaPdg4eH5X03"
@@ -20716,7 +20752,7 @@
       ],
       "date_added": "2023-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 162767,
       "name": "PERRO NEGRO",
       "url": "https://open.spotify.com/track/7iQXYTyuG13aoeHxGG28Nh"

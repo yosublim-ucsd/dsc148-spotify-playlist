@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Mikromusic",
+  "description": "Najlepsza \u015bwie\u017ca polska alternatywa. Cover: Bovska, Wiktor Dydu\u0142a",
   "name": "Alternatywna Polska",
   "tracks": [
     {
@@ -490,6 +490,28 @@
       "duration_ms": 224594,
       "name": "BIA\u0141Y BEZ",
       "url": "https://open.spotify.com/track/5y2S26rk7wsJffWji7MUIp"
+    },
+    {
+      "album": {
+        "name": "Blame You",
+        "url": "https://open.spotify.com/album/379GQlO8cfB52N56hQZww6"
+      },
+      "artists": [
+        {
+          "name": "Odet",
+          "url": "https://open.spotify.com/artist/6NluCdkugeqhK6bjknJbLl"
+        },
+        {
+          "name": "Szatt",
+          "url": "https://open.spotify.com/artist/7CvAaHIdLQdAGOIEL9MKkS"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220746,
+      "name": "Blame You",
+      "url": "https://open.spotify.com/track/23w9wr71EqanjDXIn1wOIf"
     },
     {
       "album": {
@@ -1179,6 +1201,24 @@
     },
     {
       "album": {
+        "name": "co do joty (wersja zima)",
+        "url": "https://open.spotify.com/album/7txc26kZ23Entx9WEk4pRD"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "co do joty (wersja zima)",
+      "url": "https://open.spotify.com/track/6xJdoCgXLI7M0nrCbtwhYp"
+    },
+    {
+      "album": {
         "name": "co jest nie tak?",
         "url": "https://open.spotify.com/album/3y8517HsHuK8QFbMPuFhis"
       },
@@ -1396,6 +1436,24 @@
       "duration_ms": 266076,
       "name": "Czego chcemy my (a czego chc\u0105 oni)",
       "url": "https://open.spotify.com/track/7JEirX2SKKIChDNk3iwbhE"
+    },
+    {
+      "album": {
+        "name": "Czerwie\u0144",
+        "url": "https://open.spotify.com/album/3FIcEsg4gQCI8gUMqHiEn1"
+      },
+      "artists": [
+        {
+          "name": "Powaby",
+          "url": "https://open.spotify.com/artist/251hX9AIf9vHOcswUOvA1j"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155659,
+      "name": "Czerwie\u0144",
+      "url": "https://open.spotify.com/track/5c6SHgcIkrnmGrZKh1I28E"
     },
     {
       "album": {
@@ -2288,7 +2346,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 176471,
       "name": "hajs",
       "url": "https://open.spotify.com/track/39c5cSDxIwY1x7NYJ5kojl"
@@ -2622,7 +2680,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 250692,
       "name": "Jak naprawi\u0107 g\u0142ow\u0119",
       "url": "https://open.spotify.com/track/4n38zujlnodwKy1YTkCZNx"
@@ -2958,7 +3016,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 154488,
       "name": "Kadr",
       "url": "https://open.spotify.com/track/4ZO1OxzqSIPlJCkrLCln7U"
@@ -4025,6 +4083,24 @@
     },
     {
       "album": {
+        "name": "Martini",
+        "url": "https://open.spotify.com/album/2v4sLib39xxYfx7rb6V8Yj"
+      },
+      "artists": [
+        {
+          "name": "Strefa Intymna",
+          "url": "https://open.spotify.com/artist/03THHu2A1rG7NrNagfyB1W"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170679,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/7pf4tXFPwoSH65Oazm4iOh"
+    },
+    {
+      "album": {
         "name": "Masz czas",
         "url": "https://open.spotify.com/album/3Il2nxIPCyu26bdGr8Y2aC"
       },
@@ -4124,7 +4200,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 247530,
       "name": "Miasto Nad Morzem",
       "url": "https://open.spotify.com/track/5AEbkHK8uqzzvL81agR3S6"
@@ -4542,7 +4618,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 328853,
       "name": "Moja i Twoja nadzieja",
       "url": "https://open.spotify.com/track/0RTVDJtAC04Hzx52c0B1gU"
@@ -4860,7 +4936,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 240000,
       "name": "Nazywam si\u0119 niebo (rework 10 lat albumu Pr\u0105d)",
       "url": "https://open.spotify.com/track/08yRQudHsDYsTdG3GsBccP"
@@ -5211,6 +5287,24 @@
     },
     {
       "album": {
+        "name": "Niech Zjedz\u0105 Nas Robale",
+        "url": "https://open.spotify.com/album/5eIl2ZuhxSePmbMGxLpSIk"
+      },
+      "artists": [
+        {
+          "name": "WRONA",
+          "url": "https://open.spotify.com/artist/4BGx0SJF0EyZw3Es7vCBs7"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137413,
+      "name": "Niech Zjedz\u0105 Nas Robale",
+      "url": "https://open.spotify.com/track/4NeqHpRBHB4pLDTuFE0lV1"
+    },
+    {
+      "album": {
         "name": "Neonova",
         "url": "https://open.spotify.com/album/2HdSNW4w2d5ZiC3ucoaYPl"
       },
@@ -5504,7 +5598,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 174545,
       "name": "o nas bez nas",
       "url": "https://open.spotify.com/track/4bwOxPLK7gLKJmjsz9QpaX"
@@ -6728,7 +6822,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 251000,
       "name": "P\u0142on\u0119",
       "url": "https://open.spotify.com/track/58IM6iYUHnpLleCBHUrQ87"
@@ -7353,6 +7447,24 @@
     },
     {
       "album": {
+        "name": "Skafander",
+        "url": "https://open.spotify.com/album/68KFF9VhS8DGHWcelg53QN"
+      },
+      "artists": [
+        {
+          "name": "Hai",
+          "url": "https://open.spotify.com/artist/4kmEGD7LxC1E58zwE1Rolg"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223067,
+      "name": "Skafander",
+      "url": "https://open.spotify.com/track/3DvR7Yqjoer0EAuDLdLg9E"
+    },
+    {
+      "album": {
         "name": "Skleroza",
         "url": "https://open.spotify.com/album/0N5tHVqdbB1aeo10Q2DkRi"
       },
@@ -7684,7 +7796,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 290546,
       "name": "Stworzyciele",
       "url": "https://open.spotify.com/track/4Cvhe1bo6dB0QWEDssf14O"
@@ -8213,6 +8325,24 @@
     },
     {
       "album": {
+        "name": "DZIECI DOKER\u00d3W",
+        "url": "https://open.spotify.com/album/4Y1O2OPtH6fuQndU4Sa6qa"
+      },
+      "artists": [
+        {
+          "name": "Sara Kordowska",
+          "url": "https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219288,
+      "name": "TO KIEDY\u015a MINIE",
+      "url": "https://open.spotify.com/track/4G5JYGSUKdWOFL4UWRi8xS"
+    },
+    {
+      "album": {
         "name": "To nie powt\u00f3rzy si\u0119",
         "url": "https://open.spotify.com/album/5onY55u4ziZAjx9lE5KFZf"
       },
@@ -8401,6 +8531,28 @@
     },
     {
       "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0noxWwMrDt0phcOdH3oYP1"
+      },
+      "artists": [
+        {
+          "name": "Bovska",
+          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
+        },
+        {
+          "name": "Wiktor Dydu\u0142a",
+          "url": "https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202784,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/1CN4xpeOZDn1Q1sdZjNHE6"
+    },
+    {
+      "album": {
         "name": "Tu (chcia\u0142bym wr\u00f3ci\u0107)",
         "url": "https://open.spotify.com/album/0UljJW6XBDXqksj3hAfw2g"
       },
@@ -8546,7 +8698,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 216111,
       "name": "Tym razem naprawd\u0119",
       "url": "https://open.spotify.com/track/78DA57tocTCc1A6KmtR3pf"
@@ -9909,6 +10061,24 @@
     },
     {
       "album": {
+        "name": "Zwierciad\u0142o",
+        "url": "https://open.spotify.com/album/2E941hH81YIOPLEnu5YsaQ"
+      },
+      "artists": [
+        {
+          "name": "Zuta",
+          "url": "https://open.spotify.com/artist/4WsiLOvvpCEdV40Wg1kzui"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156781,
+      "name": "Zwierciad\u0142o",
+      "url": "https://open.spotify.com/track/129TCiLRD80ck8JcEu0JmC"
+    },
+    {
+      "album": {
         "name": "Zwierz\u0119ta nocy",
         "url": "https://open.spotify.com/album/1xegt40rCILT80WwVFDBcg"
       },
@@ -9972,6 +10142,24 @@
       "duration_ms": 200000,
       "name": "z\u0142y",
       "url": "https://open.spotify.com/track/588Fw62LNo0vaEWOIm85Cu"
+    },
+    {
+      "album": {
+        "name": "\u0106ma",
+        "url": "https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279925,
+      "name": "\u0106ma",
+      "url": "https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-20",
-  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5?si=2vVuSI4bTjGu8dtRbf8tYw>Shime Ahua",
+  "description": "Just wanna Praise the Lord and chill. Here is a perfect one! Cover: <a href=https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT?si=e8HQnLhuRPqbgYcfd4LuTQ>Jenge",
   "name": "Praise and Chill",
   "tracks": [
     {
@@ -4175,6 +4175,24 @@
     },
     {
       "album": {
+        "name": "Love Greater",
+        "url": "https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x"
+      },
+      "artists": [
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Love Greater",
+      "url": "https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe"
+    },
+    {
+      "album": {
         "name": "Love Me So",
         "url": "https://open.spotify.com/album/3Eil8mJ7L80ULdDnRVU9Hp"
       },
@@ -5141,6 +5159,28 @@
     },
     {
       "album": {
+        "name": "No Longer Slaves",
+        "url": "https://open.spotify.com/album/4GlxFPsBe7r7ak8m4wAAj3"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Jenge",
+          "url": "https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146999,
+      "name": "No Longer Slaves",
+      "url": "https://open.spotify.com/track/3k1SRcEZGJ8RFQADgUSTcy"
+    },
+    {
+      "album": {
         "name": "No One",
         "url": "https://open.spotify.com/album/2IB0lObVTyYqgyjIu2RstK"
       },
@@ -5464,6 +5504,24 @@
       "duration_ms": 158171,
       "name": "Oil for my head",
       "url": "https://open.spotify.com/track/0Pm3mfKN8nrtf5WbeNl9sB"
+    },
+    {
+      "album": {
+        "name": "FAITH PACK",
+        "url": "https://open.spotify.com/album/26wZhfGqEpVNjcd16aTzb7"
+      },
+      "artists": [
+        {
+          "name": "Kushim",
+          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130632,
+      "name": "Oil For The Flame",
+      "url": "https://open.spotify.com/track/1Yl0qUegjSm6GWx4EBgsd5"
     },
     {
       "album": {

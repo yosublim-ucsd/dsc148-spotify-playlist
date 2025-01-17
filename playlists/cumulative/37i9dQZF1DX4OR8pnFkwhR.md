@@ -2,7 +2,7 @@
 
 ### [RADAR: Early Noise ](https://open.spotify.com/playlist/37i9dQZF1DX4OR8pnFkwhR)
 
-> 今年飛躍を期待する次世代アーティスト「RADAR: Early Noise 2025」を発表！ Cover: 乃紫
+> 今年飛躍を期待する次世代アーティスト「RADAR: Early Noise 2025」を発表！ Cover: AKASAKI
 
 1,761 songs - 4 day 11 hr 4 min
 

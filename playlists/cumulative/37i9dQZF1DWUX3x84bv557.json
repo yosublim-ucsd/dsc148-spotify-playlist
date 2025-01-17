@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover:  S10",
+  "description": "De nieuwste Nederlandse pop! Cover:  Roxy Dekker",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -400,7 +400,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 152181,
       "name": "Abracadabra",
       "url": "https://open.spotify.com/track/3aQDbJ2tvQNRTQjwy9az2D"
@@ -849,6 +849,24 @@
     },
     {
       "album": {
+        "name": "Alles Wat Ik Zoek (Radio Edit)",
+        "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168871,
+      "name": "Alles Wat Ik Zoek - Radio Edit",
+      "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
+    },
+    {
+      "album": {
         "name": "Parler Fran\u00e7ais",
         "url": "https://open.spotify.com/album/2jhjGUrHKtd9xZJ3roaee2"
       },
@@ -958,6 +976,24 @@
       "duration_ms": 165855,
       "name": "Als Ik Haar Was",
       "url": "https://open.spotify.com/track/5IBW1Rni8F0CRSCuHQhVRr"
+    },
+    {
+      "album": {
+        "name": "Als Ik Je Later Weer Zie",
+        "url": "https://open.spotify.com/album/37gH35rFNpAHYFUtQqQpJ4"
+      },
+      "artists": [
+        {
+          "name": "MAXINE",
+          "url": "https://open.spotify.com/artist/5dtGl462189xrrzzNRGRnz"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228360,
+      "name": "Als Ik Je Later Weer Zie",
+      "url": "https://open.spotify.com/track/7day754wnySWAD13AGVZM2"
     },
     {
       "album": {
@@ -1444,7 +1480,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 122701,
       "name": "Alweer Verliefd",
       "url": "https://open.spotify.com/track/4MeiWck3WGPwUtIoQWAh8b"
@@ -2557,6 +2593,32 @@
     },
     {
       "album": {
+        "name": "Dag & Nacht",
+        "url": "https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Dag & Nacht",
+      "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
+    },
+    {
+      "album": {
         "name": "Dag 100",
         "url": "https://open.spotify.com/album/4yZHNgq8Ob0FYhAxYjVPcX"
       },
@@ -2590,7 +2652,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 156690,
       "name": "Dag 100 - Remix",
       "url": "https://open.spotify.com/track/30XTmN6MdunHaidQLpLQ5k"
@@ -4396,6 +4458,24 @@
       "duration_ms": 108489,
       "name": "Friemelen",
       "url": "https://open.spotify.com/track/2dkw6pe4LbTcJCxlxfsXvW"
+    },
+    {
+      "album": {
+        "name": "Ga Dan!",
+        "url": "https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137999,
+      "name": "Ga Dan!",
+      "url": "https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa"
     },
     {
       "album": {
@@ -6214,7 +6294,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 182606,
       "name": "Idool",
       "url": "https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD"
@@ -6294,6 +6374,24 @@
       "duration_ms": 131250,
       "name": "Iets In De Lucht",
       "url": "https://open.spotify.com/track/2HboxpER5N3RbCypbms0Ke"
+    },
+    {
+      "album": {
+        "name": "Ik Ben Er Nog Steeds",
+        "url": "https://open.spotify.com/album/1ReCEskfy54ocNuO3RpS5y"
+      },
+      "artists": [
+        {
+          "name": "Kraantje Pappie",
+          "url": "https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152496,
+      "name": "Ik Ben Er Nog Steeds",
+      "url": "https://open.spotify.com/track/5AD316OVoBQAms4bPNMeY8"
     },
     {
       "album": {
@@ -8256,7 +8354,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 111963,
       "name": "Lievelingsliedje",
       "url": "https://open.spotify.com/track/09loqVGwx6dKiEorjoV2uR"
@@ -8836,6 +8934,24 @@
       "duration_ms": 207750,
       "name": "Mens",
       "url": "https://open.spotify.com/track/17bVqSvBXixR9bo2YsG8nk"
+    },
+    {
+      "album": {
+        "name": "Merci",
+        "url": "https://open.spotify.com/album/2CLzos1UOTwd6YoL7FVQni"
+      },
+      "artists": [
+        {
+          "name": "Lisa Rose",
+          "url": "https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Merci",
+      "url": "https://open.spotify.com/track/2ucacgpSBS5IwOXvDnCvWs"
     },
     {
       "album": {
@@ -10150,7 +10266,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 134957,
       "name": "Onderwater",
       "url": "https://open.spotify.com/track/2RRtg1bO2s3leId02DD13n"
@@ -11080,7 +11196,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 142285,
       "name": "ruimte voor mij",
       "url": "https://open.spotify.com/track/7Als8qnGuEMDJMxrXixIzo"
@@ -14518,6 +14634,24 @@
       "duration_ms": 250230,
       "name": "Wolk breekt",
       "url": "https://open.spotify.com/track/6qIfk3xwdbK2GpdqqT0bCQ"
+    },
+    {
+      "album": {
+        "name": "Wolken",
+        "url": "https://open.spotify.com/album/0lNqObUDwt9zoj5wDVpGoD"
+      },
+      "artists": [
+        {
+          "name": "Flaire",
+          "url": "https://open.spotify.com/artist/24prX5FxY9YygEvM0AkXOH"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205758,
+      "name": "Wolken",
+      "url": "https://open.spotify.com/track/0NqbWfwz6jYjLFV5MbYiqy"
     },
     {
       "album": {

@@ -22183,6 +22183,24 @@
     },
     {
       "album": {
+        "name": "Pearls (Ambient Piano Version)",
+        "url": "https://open.spotify.com/album/1prQ2ykX7ASceJnfESirxi"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60378,
+      "name": "Pearls - Ambient Piano Version",
+      "url": "https://open.spotify.com/track/44Lp0OqBRpayw894mNYdo0"
+    },
+    {
+      "album": {
         "name": "Vista With Strings",
         "url": "https://open.spotify.com/album/1z1RTwjsaXZTvQvgPJ2QEz"
       },

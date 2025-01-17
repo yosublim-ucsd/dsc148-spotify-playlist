@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Ghemon in cover della playlist dell'R&B italiano \ud83c\udfa7",
+  "description": "Sidy in cover della playlist dell'R&B italiano \ud83c\udfa7",
   "name": "anima R&B",
   "tracks": [
     {
@@ -487,6 +487,24 @@
     },
     {
       "album": {
+        "name": "All You Can Eat",
+        "url": "https://open.spotify.com/album/0tMSQLYbAKneNcsE7TjObp"
+      },
+      "artists": [
+        {
+          "name": "4Calamano",
+          "url": "https://open.spotify.com/artist/3MpK9E2ckddVDhX0f5ZKxY"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197052,
+      "name": "All You Can Eat",
+      "url": "https://open.spotify.com/track/1JISjw9u6PFosBSdiwiiXo"
+    },
+    {
+      "album": {
         "name": "Alla Follia",
         "url": "https://open.spotify.com/album/14po1TeMD3PoErpWdl5Jcj"
       },
@@ -564,6 +582,28 @@
       "duration_ms": 228000,
       "name": "Amore",
       "url": "https://open.spotify.com/track/36KNw1NcM0o8rlGgocILm2"
+    },
+    {
+      "album": {
+        "name": "Ana Bali",
+        "url": "https://open.spotify.com/album/39hwTU0DOMJKo9gmCHqym7"
+      },
+      "artists": [
+        {
+          "name": "T\u00c4RA",
+          "url": "https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q"
+        },
+        {
+          "name": "Livio Cori",
+          "url": "https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184250,
+      "name": "Ana Bali",
+      "url": "https://open.spotify.com/track/1o0W82bLuXErKZazwcBHqv"
     },
     {
       "album": {
@@ -1442,6 +1482,24 @@
       "duration_ms": 189265,
       "name": "Britney",
       "url": "https://open.spotify.com/track/1sD8E1zVlQRjfUwQsShCvG"
+    },
+    {
+      "album": {
+        "name": "Brixia",
+        "url": "https://open.spotify.com/album/7rE6eqxEz93zbs3PLRuvLB"
+      },
+      "artists": [
+        {
+          "name": "Sidy",
+          "url": "https://open.spotify.com/artist/2IOEe6ANL1phlCwnIhf0wT"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190471,
+      "name": "Brixia",
+      "url": "https://open.spotify.com/track/2Kgai7MbbCzZBd1sGuVQBf"
     },
     {
       "album": {
@@ -4708,7 +4766,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 214899,
       "name": "Giostre",
       "url": "https://open.spotify.com/track/13Ig49AeCaLKKSX00S1spC"
@@ -6003,6 +6061,24 @@
     },
     {
       "album": {
+        "name": "Lacrema",
+        "url": "https://open.spotify.com/album/2EA414vqPUVJYs0KI1pLPj"
+      },
+      "artists": [
+        {
+          "name": "STE",
+          "url": "https://open.spotify.com/artist/16i7FBlZiqIoL0E5NzzLWz"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169421,
+      "name": "Lacrema",
+      "url": "https://open.spotify.com/track/4keWRVf10iDovlaF5jm2bw"
+    },
+    {
+      "album": {
         "name": "Lacreme",
         "url": "https://open.spotify.com/album/69MYsY05VjQEjxW14MJ7mM"
       },
@@ -6766,6 +6842,24 @@
       "duration_ms": 185349,
       "name": "Lupo Volkswagen",
       "url": "https://open.spotify.com/track/2KKBe1n19PkNbfhGg4DYIA"
+    },
+    {
+      "album": {
+        "name": "Ma Che Vuo'",
+        "url": "https://open.spotify.com/album/5VbUGXvh1qaPvp4cDFqRIP"
+      },
+      "artists": [
+        {
+          "name": "Florinda",
+          "url": "https://open.spotify.com/artist/4MbtMtKmurOvjSw5i4u0LU"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181163,
+      "name": "Ma Che Vuo'",
+      "url": "https://open.spotify.com/track/2uuYpro7fcZRu8Fxk1iapf"
     },
     {
       "album": {
@@ -7826,6 +7920,24 @@
       "duration_ms": 180205,
       "name": "Nisciuna Colpa",
       "url": "https://open.spotify.com/track/1yzchdUGKCyD7FRtI63Taq"
+    },
+    {
+      "album": {
+        "name": "IN TIEMP' (ON TIME)",
+        "url": "https://open.spotify.com/album/2edAhJxVXRiGzkcoaIVal6"
+      },
+      "artists": [
+        {
+          "name": "DIN\u00ecCHE",
+          "url": "https://open.spotify.com/artist/4DRvk320Z8VrBjCnDRDwEM"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178125,
+      "name": "NISIDA",
+      "url": "https://open.spotify.com/track/6KvqcqhEHKqj7htrAWGOAt"
     },
     {
       "album": {
@@ -12365,6 +12477,24 @@
     },
     {
       "album": {
+        "name": "Ties",
+        "url": "https://open.spotify.com/album/6DkFYWQ3FEqzXDwQ7fuBvi"
+      },
+      "artists": [
+        {
+          "name": "GIOIA",
+          "url": "https://open.spotify.com/artist/6s9Kx6zOJ0jcVrmotijTuB"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191737,
+      "name": "Ties",
+      "url": "https://open.spotify.com/track/4yJ3Uhr2tIJc2XP64YWUP3"
+    },
+    {
+      "album": {
         "name": "tiv\u00f9 (prod. Night Skinny)",
         "url": "https://open.spotify.com/album/4XS9V9SP8L92wLHgyn7z7n"
       },
@@ -12450,7 +12580,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 150681,
       "name": "TOY BOY",
       "url": "https://open.spotify.com/track/0ZQ8gIvMdKYLWlq2SS7BC4"

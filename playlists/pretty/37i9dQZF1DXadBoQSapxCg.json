@@ -1,6 +1,6 @@
 {
   "description": "Apaga a luz e deixa rolar.",
-  "num_followers": 314825,
+  "num_followers": 314835,
   "original_name": "Rala e Rola",
   "owner": {
     "name": "Spotify",
@@ -1035,6 +1035,22 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
+        "name": "1 em 100",
+        "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
+      },
+      "artists": [
+        {
+          "name": "Cammie",
+          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
+        }
+      ],
+      "duration_ms": 189071,
+      "name": "1 em 100",
+      "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
         "name": "Dona do Rol\u00ea",
         "url": "https://open.spotify.com/album/4RyMPAOzowymsswvzetDwU"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 160444,
       "name": "Dona do Rol\u00ea",
       "url": "https://open.spotify.com/track/5PIppheInDGkAo5W68w1ow"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
-        "name": "1 em 100",
-        "url": "https://open.spotify.com/album/0KoCTcxxhSOwdrqD6j5hnq"
-      },
-      "artists": [
-        {
-          "name": "Cammie",
-          "url": "https://open.spotify.com/artist/2je97RYlhed6uedJgINvY5"
-        }
-      ],
-      "duration_ms": 189071,
-      "name": "1 em 100",
-      "url": "https://open.spotify.com/track/78rRWqZIwDD7f9yjsEHpD1"
     },
     {
       "added_at": "2025-01-09 18:23:16",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2025-01-09 18:23:16",
       "album": {
-        "name": "VERSOS",
-        "url": "https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X"
-      },
-      "artists": [
-        {
-          "name": "BELLI",
-          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "DESASTRE NATURAL",
-      "url": "https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf"
-    },
-    {
-      "added_at": "2025-01-09 18:23:16",
-      "album": {
         "name": "Contato",
         "url": "https://open.spotify.com/album/2vB6ge6OvcZwBCmFGRAVvL"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 193971,
       "name": "Fala",
       "url": "https://open.spotify.com/track/2Cy32aNVzCoZqneuVNvIiw"
+    },
+    {
+      "added_at": "2025-01-09 18:23:16",
+      "album": {
+        "name": "VERSOS",
+        "url": "https://open.spotify.com/album/7KpJCorDXn1IWB3UkUvl2X"
+      },
+      "artists": [
+        {
+          "name": "BELLI",
+          "url": "https://open.spotify.com/artist/0fHX21amHklJFMw6dwB8Jp"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "DESASTRE NATURAL",
+      "url": "https://open.spotify.com/track/4ZQKUCN7bXftNanpRUX2sf"
     },
     {
       "added_at": "2025-01-09 18:23:16",

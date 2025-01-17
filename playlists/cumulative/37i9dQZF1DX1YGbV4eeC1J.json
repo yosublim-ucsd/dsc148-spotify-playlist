@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-22",
-  "description": "What is your love language? Say it in Swahili.  Cover: Maua Sama & Jay Melody",
+  "description": "What is your love language? Say it in Swahili.  Cover: Masauti",
   "name": "Swahili Love ",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 213733,
       "name": "Cherie",
       "url": "https://open.spotify.com/track/50M6m7esnITXSDDZWP1M9f"
@@ -4131,6 +4131,28 @@
     },
     {
       "album": {
+        "name": "Shule",
+        "url": "https://open.spotify.com/album/18jTRTLPn0jFUY3pPnbns7"
+      },
+      "artists": [
+        {
+          "name": "Masauti",
+          "url": "https://open.spotify.com/artist/7IP0gLYelgi6FYU9mkzyAn"
+        },
+        {
+          "name": "Jay Melody",
+          "url": "https://open.spotify.com/artist/58JfjeSwt2vRDspRRp1b70"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210184,
+      "name": "Shule",
+      "url": "https://open.spotify.com/track/71KbAFPgqkIJpzVEmoIm9L"
+    },
+    {
+      "album": {
         "name": "Simuachi",
         "url": "https://open.spotify.com/album/7FD2xZiU0uSv12RfbpD0BC"
       },
@@ -4236,6 +4258,24 @@
       "duration_ms": 184889,
       "name": "Siwezi",
       "url": "https://open.spotify.com/track/7d5eqMMgXk3OoAhqHhkyCs"
+    },
+    {
+      "album": {
+        "name": "Sugar",
+        "url": "https://open.spotify.com/album/0ala3wvsS9xR8wVcUyvfOh"
+      },
+      "artists": [
+        {
+          "name": "Nandy",
+          "url": "https://open.spotify.com/artist/2YfO4GV7JrFSXyfEoa5id3"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205333,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/7geOX315j041sZXu7B1Kpf"
     },
     {
       "album": {
@@ -4442,7 +4482,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 186470,
       "name": "Tina",
       "url": "https://open.spotify.com/track/2XgoqCgvCYzOZDw7HvSoxn"

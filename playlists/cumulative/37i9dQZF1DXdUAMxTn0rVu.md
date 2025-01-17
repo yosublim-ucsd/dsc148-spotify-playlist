@@ -2,7 +2,7 @@
 
 ### [I Love My Underground Classics](https://open.spotify.com/playlist/37i9dQZF1DXdUAMxTn0rVu)
 
-> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: MF DOOM
+> Essential songs from the late '90s, early 2000s underground hip\-hop scene\. Cover: Immortal Technique
 
 154 songs - 10 hr 19 min
 

@@ -4,7 +4,7 @@
 
 > 
 
-1,949 songs - 4 day 7 hr 39 min
+1,950 songs - 4 day 7 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -292,6 +292,7 @@
 | [Can't Get You Outta My Head](https://open.spotify.com/track/7dWTrhDYI7wdE2kc8deHOf) | [Dual Damage](https://open.spotify.com/artist/05bETZtzSdUI5fconFIKRX) | [Can't Get You Outta My Head](https://open.spotify.com/album/5T1QnJXPIQ97h3tXNcdLLJ) | 2:36 | 2024-04-09 |  |
 | [Can't Help Falling In Love](https://open.spotify.com/track/6DYf6xNgm9ICquH8W0bd8I) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw), [Nicole Alexa Choo](https://open.spotify.com/artist/5XSnwCQ3t9cTAg5BqchS4W) | [Can't Help Falling In Love](https://open.spotify.com/album/3auD6CFKlMPcCZtL1Szvhk) | 4:00 | 2023-02-13 |  |
 | [Can't Stop Raving \[feat\. TEA & DJ Noriken\] \- DJ Noriken Remix](https://open.spotify.com/track/6wAOwFCsmHrhNYEIsWMiig) | [KO3](https://open.spotify.com/artist/1ioBfZldZvVAcqD3KXXTXy), [Getty](https://open.spotify.com/artist/3CKAJHc0KjoFAbaqvvJ5kK), [tea](https://open.spotify.com/artist/6cgMG5W1mDsh4OssT7OhN4), [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [N+CODE](https://open.spotify.com/album/7nybmeSPmHySV7jC2Y4Bnx) | 5:46 | 2024-01-27 |  |
+| [CAN'T STOP US NOW](https://open.spotify.com/track/1b6GY4a7wAapD2hPCXbBbF) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [CAN'T STOP US NOW](https://open.spotify.com/album/1dzUrek8rwoyhoRA2ODLJP) | 3:06 | 2025-01-17 |  |
 | [CAN'T STOP WON'T STOP](https://open.spotify.com/track/5RryqMI5aokTEdcrFEjAMQ) | [TOZA](https://open.spotify.com/artist/4EGv5uSV4xrFpAfrkvW71L), [Bloodlust](https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp) | [CAN'T STOP WON'T STOP](https://open.spotify.com/album/5T9esNqz99018bZFPrdMNV) | 2:42 | 2024-10-24 |  |
 | [Can't Tame Her](https://open.spotify.com/track/00avYRBBsOUEig7VNdNMbP) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [YEGDEG](https://open.spotify.com/artist/4aotXG6ar08mkSPcyUwxtp), [24/7 Hardcore](https://open.spotify.com/artist/13HaJU1EgDEuPrJO6XgiFu) | [Can't Tame Her EP](https://open.spotify.com/album/5I6AUcEoCRh4VPtkGUFg7h) | 3:12 | 2024-06-04 |  |
 | [Cancel Cultuur \- S\-Kill Remix](https://open.spotify.com/track/2rQJcSftMJQkvxSslNEm55) | [S\-KILL](https://open.spotify.com/artist/6UPQ041bqYr2Oftpv3hLLq), [Nigel Sean](https://open.spotify.com/artist/4INB4fkjhrcvgOrhkNtaxT), [Storm Verhage](https://open.spotify.com/artist/3ZkOcWVKmyPV0jE4UZ7Xjs) | [Cancel Cultuur \(S\-Kill Remix\)](https://open.spotify.com/album/2PenPBhiMhigiHDtXGcpZh) | 2:12 | 2024-03-08 |  |

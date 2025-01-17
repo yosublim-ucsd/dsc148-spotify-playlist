@@ -1487,6 +1487,24 @@
     },
     {
       "album": {
+        "name": "Heza",
+        "url": "https://open.spotify.com/album/0LLfUIR0CcQX2YqlqiyJ1V"
+      },
+      "artists": [
+        {
+          "name": "Generationals",
+          "url": "https://open.spotify.com/artist/57MtJQ6Sc4tIxrXIhrqVJL"
+        }
+      ],
+      "date_added": "2024-08-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218666,
+      "name": "Durga II",
+      "url": "https://open.spotify.com/track/20J6bIZ5k4byMFHsan3woS"
+    },
+    {
+      "album": {
         "name": "Better Oblivion Community Center",
         "url": "https://open.spotify.com/album/5622zSt4RLqNSPShdqmWpj"
       },
@@ -3170,7 +3188,7 @@
       ],
       "date_added": "2023-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 241640,
       "name": "Lisztomania",
       "url": "https://open.spotify.com/track/7fmJGzyvOcbh6UANsH8Cp6"

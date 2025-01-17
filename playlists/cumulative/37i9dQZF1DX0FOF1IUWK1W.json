@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "L\u00e9o Foguete e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "Henry Freitas, Mc Th e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -194,7 +194,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 195572,
       "name": "300 no 7",
       "url": "https://open.spotify.com/track/3ODUgIaqdpkMXXlsH1kDLh"
@@ -4483,6 +4483,36 @@
     },
     {
       "album": {
+        "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
+        "url": "https://open.spotify.com/album/7JbiJkrVXvo1num2mfA33v"
+      },
+      "artists": [
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "Mc Menor DN",
+          "url": "https://open.spotify.com/artist/2FJjf1qmmogfQyqLKjbPML"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
+      "url": "https://open.spotify.com/track/6x6EA3N9xXgptSakS7VZUg"
+    },
+    {
+      "album": {
         "name": "Faz Completo, Chefe",
         "url": "https://open.spotify.com/album/6KBfDOPHZWb4FUpJMfSrVL"
       },
@@ -8614,7 +8644,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 153466,
       "name": "Pira\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/2SFcDfkE1MRXZfl4LIwscm"
@@ -11190,6 +11220,24 @@
       "duration_ms": 138008,
       "name": "UM PALMO - Ao Vivo",
       "url": "https://open.spotify.com/track/2M2eRVCQbC3rHFSm9oT3YD"
+    },
+    {
+      "album": {
+        "name": "De Bar em Bar 4.0",
+        "url": "https://open.spotify.com/album/3HJJJjN3AfIUa4UOL3q7AQ"
+      },
+      "artists": [
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164466,
+      "name": "Uma e Quinze da Manh\u00e3",
+      "url": "https://open.spotify.com/track/39O9PGzlZnVTOhAYQjyBRG"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 
 > Catch the queens of Punjabi Pop\. Cover: Pari Pandher
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,581 likes - 50 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,588 likes - 50 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSElo6PPUdZk.md) - [plain]
 | 12 | [Fire](https://open.spotify.com/track/5C8o4GoMMVUbO5Puu8qxYu) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Sobit](https://open.spotify.com/artist/0IHV9OaDBM0RQ4I3ZBrVv4) | [Fire](https://open.spotify.com/album/0w9QOfLEfT9OP4JQlaayv9) | 3:07 |
 | 13 | [Challa](https://open.spotify.com/track/1JDGbbo7p8vTn9telazxNG) | [Afsana Khan](https://open.spotify.com/artist/4z0z82pXirH1TrygipQlOo) | [Challa](https://open.spotify.com/album/4vrY5oQa2qYcA21IBPKNlz) | 4:46 |
 | 14 | [Dhola](https://open.spotify.com/track/3mG2vx5a7GJAI8hJo5vqP4) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK) | [Dhola](https://open.spotify.com/album/2870WWZANLoQX7blYvBluB) | 2:22 |
-| 15 | [What's The Matter](https://open.spotify.com/track/7dsKW3auwVIogDnKGfOJk6) | [Manpreet Dhillon](https://open.spotify.com/artist/43NqRT7AYkjgNTCSU3BwiA), [Mr Preet](https://open.spotify.com/artist/0SddWPvFd2czXSRu57Z4L8), [Deep Boparai](https://open.spotify.com/artist/0UpRzGyZRB7E1XrzB0Jka8) | [What's The Matter](https://open.spotify.com/album/493YcDQvHlCHpzLjSYN8DK) | 2:17 |
+| 15 | [What's The Matter](https://open.spotify.com/track/7dsKW3auwVIogDnKGfOJk6) | [Manpreet Dhillon](https://open.spotify.com/artist/43NqRT7AYkjgNTCSU3BwiA), [Mr Preet](https://open.spotify.com/artist/0SddWPvFd2czXSRu57Z4L8), [Deep Boparai](https://open.spotify.com/artist/2YOwXX24g1UB05iwJ7HE6d) | [What's The Matter](https://open.spotify.com/album/493YcDQvHlCHpzLjSYN8DK) | 2:17 |
 | 16 | [Kachi Umar](https://open.spotify.com/track/1iFpF1YTNWKeDFe0bFhb5E) | [Pavie Virk](https://open.spotify.com/artist/0o5zJsNi1DeT2YQMqQ2XzP), [Inder Dhammu](https://open.spotify.com/artist/62lU8tdLrII0IPky1vaMsu) | [Kachi Umar](https://open.spotify.com/album/5gFecZ1jVTSjkpQ5Dl4SSX) | 3:12 |
 | 17 | [NAI LABHNI \| Folk & Rock](https://open.spotify.com/track/28DxA6GtbLXBj8FsEdVWTU) | [Nitika Singh](https://open.spotify.com/artist/5N3uKvdQ6vyVeKWZv9Bgmk) | [NAI LABHNI \| Folk & Rock](https://open.spotify.com/album/7pwMEDa5LX3PZSLYujG5aE) | 3:12 |
 | 18 | [HEAT](https://open.spotify.com/track/0oApJqZXwdXlySDFrtYver) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Mofusion](https://open.spotify.com/artist/3JXcjiMGfbPsp7deM1JYIv), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [HEAT](https://open.spotify.com/album/4z0wc9Wpum3oktGA25O5uJ) | 2:46 |

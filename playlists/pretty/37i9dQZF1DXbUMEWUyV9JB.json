@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Mu\u00e9vete al ritmo de las Cumbias! \nCover: Oscar Ortiz y Los Primos del Este ",
-  "num_followers": 273879,
+  "num_followers": 273892,
   "original_name": "Super Cumbias",
   "owner": {
     "name": "Spotify",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
+        "name": "20 Cumbias Andinas",
+        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 264413,
+      "name": "He Cre\u00eddo",
+      "url": "https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ"
+    },
+    {
+      "added_at": "2025-01-05 18:13:53",
+      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol 1",
         "url": "https://open.spotify.com/album/507MCqVlAqYU3vMxDqT5YT"
       },
@@ -1079,22 +1095,6 @@
       "duration_ms": 169471,
       "name": "Linda Mujer",
       "url": "https://open.spotify.com/track/01brpGFr1KB1gK7H14OO5p"
-    },
-    {
-      "added_at": "2025-01-05 18:13:53",
-      "album": {
-        "name": "20 Cumbias Andinas",
-        "url": "https://open.spotify.com/album/5Jus6DesLl1qcvuVhlZ86R"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 264413,
-      "name": "He Cre\u00eddo",
-      "url": "https://open.spotify.com/track/0VOPCehPHWW9El3rHVsNmJ"
     },
     {
       "added_at": "2025-01-05 18:13:53",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
+        "name": "Cl\u00e1sicas De La Cumbia Andina",
+        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
+      },
+      "artists": [
+        {
+          "name": "Los Llayras",
+          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
+        }
+      ],
+      "duration_ms": 238335,
+      "name": "\u00c1mame",
+      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
+    },
+    {
+      "added_at": "2025-01-05 18:13:53",
+      "album": {
         "name": "Los Remixes 2.0",
         "url": "https://open.spotify.com/album/1GeqhGpn2rbPNQP1SqRwpK"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 183333,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2YAfk5h0qctKYqVBWuwvvh"
-    },
-    {
-      "added_at": "2025-01-05 18:13:53",
-      "album": {
-        "name": "Cl\u00e1sicas De La Cumbia Andina",
-        "url": "https://open.spotify.com/album/1G9yAgWGkLLyc3ItyTfS3Z"
-      },
-      "artists": [
-        {
-          "name": "Los Llayras",
-          "url": "https://open.spotify.com/artist/2ArV1M689cANDANMu9OfBz"
-        }
-      ],
-      "duration_ms": 238335,
-      "name": "\u00c1mame",
-      "url": "https://open.spotify.com/track/6MSp1jexGF9TlEpzWM7Zuf"
     },
     {
       "added_at": "2025-01-05 18:13:53",
@@ -1667,26 +1667,6 @@
     {
       "added_at": "2025-01-05 18:13:53",
       "album": {
-        "name": "El Mariachi Llor\u00f3",
-        "url": "https://open.spotify.com/album/26l59cDC5dNqIVxTgRDPuM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
-          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
-        },
-        {
-          "name": "Adriel Favela",
-          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
-        }
-      ],
-      "duration_ms": 177586,
-      "name": "El Mariachi Llor\u00f3",
-      "url": "https://open.spotify.com/track/5ertVAOnOCegOvxGm7NYkc"
-    },
-    {
-      "added_at": "2025-01-05 18:13:53",
-      "album": {
         "name": "Peligrosa y Linda",
         "url": "https://open.spotify.com/album/1Ja4Zw46RSoClT3fBjFv3G"
       },
@@ -1703,6 +1683,26 @@
       "duration_ms": 210170,
       "name": "Peligrosa y Linda",
       "url": "https://open.spotify.com/track/67H1L34DWG4M0wr4Y0VuNj"
+    },
+    {
+      "added_at": "2025-01-05 18:13:53",
+      "album": {
+        "name": "El Mariachi Llor\u00f3",
+        "url": "https://open.spotify.com/album/26l59cDC5dNqIVxTgRDPuM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Ca\u00f1averal De Humberto Pab\u00f3n",
+          "url": "https://open.spotify.com/artist/48zixAu4wMDZwpVbOenDU7"
+        },
+        {
+          "name": "Adriel Favela",
+          "url": "https://open.spotify.com/artist/0PrhwIWbqYFYyY2ZrkIWgI"
+        }
+      ],
+      "duration_ms": 177586,
+      "name": "El Mariachi Llor\u00f3",
+      "url": "https://open.spotify.com/track/5ertVAOnOCegOvxGm7NYkc"
     },
     {
       "added_at": "2025-01-05 18:13:53",

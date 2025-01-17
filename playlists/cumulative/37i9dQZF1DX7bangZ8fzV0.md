@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/0cba0v5VJqpuD1YSBoNirZ?si=8Eo243HgQxK\-GWWPjOzeLg">JAN JAN JAN</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=iJLGUjtYS9WRTNFNuoLwmA">Dodo Nyoka</a>
 
 262 songs - 14 hr 32 min
 

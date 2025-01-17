@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 
 ### [Carry Me Away Radio](https://open.spotify.com/playlist/37i9dQZF1E8FdFKgRxUOJv)
 
-> With John Mayer, Jack Johnson, Ray LaMontagne and more
+> With John Mayer, Ray LaMontagne, Jack Johnson and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 722 likes - 50 songs - 3 hr 2 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E8FdFKgRxUOJv.md) - [plain]
 | 49 | [Head And Heart On Fire](https://open.spotify.com/track/6f5GeZlpVOSdLh9k1vzl1h) | [LÉON](https://open.spotify.com/artist/4SqTiwOEdYrNayaGMkc7ia) | [Apart](https://open.spotify.com/album/1NthtnctJUX7DxcNv43Kft) | 2:35 |
 | 50 | [Butterflies](https://open.spotify.com/track/30VHURM5NOfoZmqp2iKawS) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:39 |
 
-Snapshot ID: `Z4h8HwAAAADK28WADYKacPXSmi1xX5SW`
+Snapshot ID: `Z4nKBQAAAABkYbTL1Eiw4wXmohS7DBX6`

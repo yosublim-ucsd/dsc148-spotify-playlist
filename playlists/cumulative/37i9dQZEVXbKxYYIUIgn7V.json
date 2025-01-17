@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 160833,
       "name": "Allein da - Radio Edit",
       "url": "https://open.spotify.com/track/1ZAY0JeV4APCcfvRkwTWEH"
@@ -5974,7 +5974,7 @@
       ],
       "date_added": "2024-12-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 200446,
       "name": "Don't Matter",
       "url": "https://open.spotify.com/track/5K2YU3ENuytMsx9bfJOFrw"
@@ -7240,6 +7240,24 @@
       "duration_ms": 237803,
       "name": "feelslikeimfallinginlove",
       "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "album": {
+        "name": "FEIND",
+        "url": "https://open.spotify.com/album/4oHzJ5i7cX8AAkLlcroAca"
+      },
+      "artists": [
+        {
+          "name": "PRECEDE",
+          "url": "https://open.spotify.com/artist/1jdM5y1lYyx4oOGRjEzsE8"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188829,
+      "name": "FEIND",
+      "url": "https://open.spotify.com/track/73BfOXXfpIlF1bWu8scGGT"
     },
     {
       "album": {
@@ -13565,6 +13583,24 @@
     },
     {
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef"
+      },
+      "artists": [
+        {
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143811,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -15960,7 +15996,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 135333,
       "name": "Muh M\u00e4h",
       "url": "https://open.spotify.com/track/40wy4ZsoNVhBBbpzvDpq7c"
@@ -18440,7 +18476,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 153999,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"

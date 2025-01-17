@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume. Cover: Kauta",
-  "num_followers": 37072,
+  "num_followers": 37082,
   "original_name": "EQUAL GSA ",
   "owner": {
     "name": "Spotify",
@@ -315,18 +315,18 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Heal Me",
-        "url": "https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h"
+        "name": "stunde null",
+        "url": "https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD"
       },
       "artists": [
         {
-          "name": "SKIY",
-          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
+          "name": "jolle",
+          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
         }
       ],
-      "duration_ms": 215624,
-      "name": "Heal Me",
-      "url": "https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q"
+      "duration_ms": 121186,
+      "name": "petrichor",
+      "url": "https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -347,18 +347,18 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "stunde null",
-        "url": "https://open.spotify.com/album/495Kz4omEAxLuzjMOT8YlD"
+        "name": "Heal Me",
+        "url": "https://open.spotify.com/album/3pRdUcdzgEAkJpJuZCnw5h"
       },
       "artists": [
         {
-          "name": "jolle",
-          "url": "https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ"
+          "name": "SKIY",
+          "url": "https://open.spotify.com/artist/39JhQRThBhrHgjXtIK3dGZ"
         }
       ],
-      "duration_ms": 121186,
-      "name": "petrichor",
-      "url": "https://open.spotify.com/track/1SCveYllvioEyXkGxGAVeR"
+      "duration_ms": 215624,
+      "name": "Heal Me",
+      "url": "https://open.spotify.com/track/7udiKT9ujEe9Kg3okYuT4q"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -443,22 +443,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Wir sehen uns wieder",
-        "url": "https://open.spotify.com/album/0zFsbEupKTFhSkkxhOQCKB"
-      },
-      "artists": [
-        {
-          "name": "Paula Douglas",
-          "url": "https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Wir sehen uns wieder",
-      "url": "https://open.spotify.com/track/7JKudYmx5HkdT1XQwnDIFS"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Vagabund",
         "url": "https://open.spotify.com/album/1Gh8VCZns55jh3A2x40UPn"
       },
@@ -479,22 +463,34 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Contrast",
-        "url": "https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD"
+        "name": "Wir sehen uns wieder",
+        "url": "https://open.spotify.com/album/0zFsbEupKTFhSkkxhOQCKB"
       },
       "artists": [
         {
-          "name": "DJ Cringey",
-          "url": "https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q"
-        },
-        {
-          "name": "Fanny",
-          "url": "https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm"
+          "name": "Paula Douglas",
+          "url": "https://open.spotify.com/artist/1k7bThg1ouTydDVc2ZQiHJ"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Contrast",
-      "url": "https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa"
+      "duration_ms": 150000,
+      "name": "Wir sehen uns wieder",
+      "url": "https://open.spotify.com/track/7JKudYmx5HkdT1XQwnDIFS"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Hardcore Workout Queen",
+        "url": "https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d"
+      },
+      "artists": [
+        {
+          "name": "Friedberg",
+          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+        }
+      ],
+      "duration_ms": 221967,
+      "name": "So Dope",
+      "url": "https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -515,18 +511,22 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Hardcore Workout Queen",
-        "url": "https://open.spotify.com/album/7smNDRRGRgzYNr5P5ihv5d"
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/3EK8qLo6LwVJNFY6idpPlD"
       },
       "artists": [
         {
-          "name": "Friedberg",
-          "url": "https://open.spotify.com/artist/0lqPfG8vAR30UX3cWDbCEn"
+          "name": "DJ Cringey",
+          "url": "https://open.spotify.com/artist/01Pcb79vo3Ei5lLdpM3E7q"
+        },
+        {
+          "name": "Fanny",
+          "url": "https://open.spotify.com/artist/7qYMSnsPIXmSMXfGVuCDwm"
         }
       ],
-      "duration_ms": 221967,
-      "name": "So Dope",
-      "url": "https://open.spotify.com/track/16Pbu1N4pNmGdtSSK8hV35"
+      "duration_ms": 208000,
+      "name": "Contrast",
+      "url": "https://open.spotify.com/track/4FQ1M8DOXQKvN5iqvKf7sa"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Happier",
-        "url": "https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul"
-      },
-      "artists": [
-        {
-          "name": "DIVES",
-          "url": "https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0"
-        }
-      ],
-      "duration_ms": 178078,
-      "name": "Happier",
-      "url": "https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Lavender",
         "url": "https://open.spotify.com/album/2RL1a7v0ArbtsKRdwnrwKX"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 218787,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/3EYYbBB5CLsKKRqpXX89zI"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Happier",
+        "url": "https://open.spotify.com/album/0rx5QiDk1siqGcllKSI1Ul"
+      },
+      "artists": [
+        {
+          "name": "DIVES",
+          "url": "https://open.spotify.com/artist/5ipYqUgaCT1OQGPhAzZAn0"
+        }
+      ],
+      "duration_ms": 178078,
+      "name": "Happier",
+      "url": "https://open.spotify.com/track/669Zc1LeXs5jr0VtjzTij6"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Newborn Baby",
-        "url": "https://open.spotify.com/album/011tM4c2QCSH7PP4LqEvFO"
-      },
-      "artists": [
-        {
-          "name": "claire my flair",
-          "url": "https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ"
-        }
-      ],
-      "duration_ms": 272034,
-      "name": "Newborn Baby",
-      "url": "https://open.spotify.com/track/4wQQVpLlbw85IZcrng1yxj"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Was wir teilen",
         "url": "https://open.spotify.com/album/38ooto3HOF8Q2JyT53bry1"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 147995,
       "name": "Was wir teilen",
       "url": "https://open.spotify.com/track/5K9nNE57PsVAVXzWDulAgs"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Newborn Baby",
+        "url": "https://open.spotify.com/album/011tM4c2QCSH7PP4LqEvFO"
+      },
+      "artists": [
+        {
+          "name": "claire my flair",
+          "url": "https://open.spotify.com/artist/0YJlDaNrY5A0if0WeHF1uJ"
+        }
+      ],
+      "duration_ms": 272034,
+      "name": "Newborn Baby",
+      "url": "https://open.spotify.com/track/4wQQVpLlbw85IZcrng1yxj"
     },
     {
       "added_at": "2025-01-07 23:00:01",

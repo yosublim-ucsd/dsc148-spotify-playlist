@@ -4,7 +4,7 @@
 
 > The best new music by Experimental independent artists and labels\. Hiro Ama on cover\. Artwork by Thami Nabil
 
-1,955 songs - 6 day 9 hr 2 min
+1,956 songs - 6 day 9 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1390,6 +1390,7 @@
 | [safe haven](https://open.spotify.com/track/0aH9R1aoeg8AtXzjZ8kQBp) | [starmi](https://open.spotify.com/artist/5CNPNNb5YHmjCryEwvKC2u) | [safe haven](https://open.spotify.com/album/0J0NRqbQh1h6JoWfU74B9G) | 2:18 | 2024-11-13 | 2024-12-05 |
 | [Sai cos'è un guaio](https://open.spotify.com/track/7n7gN8s2uiLqxkiGNSGyVD) | [Altea](https://open.spotify.com/artist/1yGCY2abK83JZlenHcgdws) | [Non ti scordar di me](https://open.spotify.com/album/7tUCuhD58UCoPcOqFTNzqg) | 2:11 | 2022-03-30 | 2022-06-30 |
 | [Sail\-Shaped Light](https://open.spotify.com/track/3AjeF8W4goDT6fVSWTYGoI) | [M\. Sage](https://open.spotify.com/artist/7Hu7HZdK9fwYiMyqtCICVR), [The Spinnaker Ensemble](https://open.spotify.com/artist/4kSdE1O1sFXQ03hleQba5x) | [The Wind of Things](https://open.spotify.com/album/6QxCmuFtpKqoyVaRLWlmSm) | 2:20 | 2021-05-05 | 2021-07-23 |
+| [Sailor \(for fin\)](https://open.spotify.com/track/4SpCTPA8q945CyUwi3fJVt) | [Giulia Impache](https://open.spotify.com/artist/37QS09rahGmzedxYYv93tb) | [IN:titolo](https://open.spotify.com/album/1IfDRUJl02s8omCCPnhg0Y) | 5:19 | 2025-01-15 |  |
 | [Saku Saku \(サクサク\)](https://open.spotify.com/track/75QD1PVCs0B2yWSqexcZ1P) | [Yama Warashi](https://open.spotify.com/artist/2PwUZ1wTtmdDTEZbfnAh8C) | [Crispy Moon](https://open.spotify.com/album/1IVnU9K7Oym9JvBUQyhT4z) | 3:34 | 2023-06-07 | 2023-06-28 |
 | [Salis \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/track/7k2ffzS1i0D0C35JF2iDsS) | [J\. Albert](https://open.spotify.com/artist/0tjC8HMcPx5o2ZYsWw5BNK), [Ian Urbina](https://open.spotify.com/artist/7miGJahGF5JYOunptmXsQz) | [Salis \(Inspired by ‘The Outlaw Ocean’ a book by Ian Urbina\)](https://open.spotify.com/album/1BXwhrrfjlNbWUptjdKEoK) | 5:22 | 2021-07-23 | 2021-09-27 |
 | [Salt & Copper](https://open.spotify.com/track/7cCYpFC7DQKlgqfq2UMsxd) | [Aphty Khéa](https://open.spotify.com/artist/4neppQOn3buorGDVBImnK4) | [Salt & Copper](https://open.spotify.com/album/6clsWn9OtsWQm8aOUOYShB) | 4:32 | 2022-09-27 | 2022-10-05 |

@@ -489,6 +489,28 @@
     },
     {
       "album": {
+        "name": "Ammadi Azhagula",
+        "url": "https://open.spotify.com/album/1aWkgcbsReXmAfiUn1V6JN"
+      },
+      "artists": [
+        {
+          "name": "Mhoitha Balamurugan",
+          "url": "https://open.spotify.com/artist/398i2yC2xKc8oeO366SqIw"
+        },
+        {
+          "name": "Sadhasiva Jayaraman",
+          "url": "https://open.spotify.com/artist/1G2mFV9a0LgISNZXHlJnb0"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289615,
+      "name": "Ammadi Azhagula",
+      "url": "https://open.spotify.com/track/4uDz10d3vMktL85WVPdY7i"
+    },
+    {
+      "album": {
         "name": "Anbae (Beloved)",
         "url": "https://open.spotify.com/album/2OR5oGqpfCiCJAyhRmaQuh"
       },
@@ -838,6 +860,28 @@
       "duration_ms": 246575,
       "name": "Azhagana Kadhali",
       "url": "https://open.spotify.com/track/2JFRYYfoUyvSt2Zkjft2jT"
+    },
+    {
+      "album": {
+        "name": "L'sX&O's",
+        "url": "https://open.spotify.com/album/6IGEgi7J2H0IIntZYixh7w"
+      },
+      "artists": [
+        {
+          "name": "JANGGO",
+          "url": "https://open.spotify.com/artist/2jrF96ZZdfAKEnMOnIraxn"
+        },
+        {
+          "name": "Yung Nav",
+          "url": "https://open.spotify.com/artist/5YF9X28CKZHVSOZPHJa0p6"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "AZHAGE",
+      "url": "https://open.spotify.com/track/3101JsKdWxdNu7BbQWJCIY"
     },
     {
       "album": {
@@ -2670,7 +2714,7 @@
       ],
       "date_added": "2024-07-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 321330,
       "name": "Kaadhal Mugil",
       "url": "https://open.spotify.com/track/50hu3q96SgLFhhDX4Hm8ed"
@@ -3510,6 +3554,32 @@
       "duration_ms": 184000,
       "name": "Kannurangu",
       "url": "https://open.spotify.com/track/2sxqSPufXTi1yyeZmxuPEG"
+    },
+    {
+      "album": {
+        "name": "Karakki (Raw Version) [From \"Think Specials\"]",
+        "url": "https://open.spotify.com/album/2aquYWJo5kwaum9LE63onr"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Karunguyil Ganesh",
+          "url": "https://open.spotify.com/artist/3itVmQfDbKUxkCKfOU1Pxq"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193300,
+      "name": "Karakki (Raw Version) - From \"Think Specials\"",
+      "url": "https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt"
     },
     {
       "album": {

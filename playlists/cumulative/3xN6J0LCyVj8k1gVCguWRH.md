@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,406 songs - 10 day 6 hr 52 min
+4,407 songs - 10 day 6 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1987,7 +1987,7 @@
 | [Its Way With Me](https://open.spotify.com/track/4ozdSH2MuFoABtDWa4S1mJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Its Way With Me](https://open.spotify.com/album/7JvQaezYGVWAlEt079zFvB) | 4:36 | 2021-07-11 | 2024-04-21 |
 | [Itsa Bop Itsa Jam](https://open.spotify.com/track/5qlHhQiH0snGWhRTdydTvi) | [& AnD &](https://open.spotify.com/artist/2HMl1AHiQpQfDZwFreWpI1) | [The Odyssey](https://open.spotify.com/album/6ZjDRprx7UgL6a2kqqbidd) | 3:00 | 2024-05-21 | 2024-06-01 |
 | [It’s a Vibe! \(Ain’t It?\)](https://open.spotify.com/track/4piHIEC1C2JCAqpTDTfdTd) | [Yomchi](https://open.spotify.com/artist/75cRTqerw1s3cKcti6AluB), [DOG PAULSON](https://open.spotify.com/artist/1kd9SkGzGp8D7WtW3in4W4) | [It’s a Vibe! \(Ain’t It?\)](https://open.spotify.com/album/0crA18x3cxjocmg4xGCmDg) | 3:07 | 2024-11-11 | 2024-11-23 |
-| [Jackson Hole](https://open.spotify.com/track/0eWPqXxmGf9PgdHKkjMgnm) | [Jud Hailey](https://open.spotify.com/artist/2QAYhplrd9ihaiJO0J3ttn) | [Jackson Hole](https://open.spotify.com/album/3eZkkChub74NaLEeXhjFyI) | 3:53 | 2024-12-26 |  |
+| [Jackson Hole](https://open.spotify.com/track/0eWPqXxmGf9PgdHKkjMgnm) | [Jud Hailey](https://open.spotify.com/artist/2QAYhplrd9ihaiJO0J3ttn) | [Jackson Hole](https://open.spotify.com/album/3eZkkChub74NaLEeXhjFyI) | 3:53 | 2024-12-26 | 2025-01-17 |
 | [Jade](https://open.spotify.com/track/1EP5xEYpW1uEYHAZIVEQqc) | [Taylor Castro](https://open.spotify.com/artist/1RA3K5sRdBeTys4cvTisON) | [Jade](https://open.spotify.com/album/1TusGaotu13zdgv0Pw0Osi) | 4:11 | 2021-11-27 | 2021-12-12 |
 | [Jaded](https://open.spotify.com/track/2q1ZYPHZXnmI3nLkJpHFb3) | [Xero Music](https://open.spotify.com/artist/4XWdJYXmR4TY2gwnapByZd) | [Hood Boy Blues](https://open.spotify.com/album/0SvHUIWaTmwacy2EsyAznf) | 3:22 | 2024-10-26 | 2024-11-07 |
 | [Jaja](https://open.spotify.com/track/0HFZSeT31eu7CXzYWAfLmD) | [Tutipsy](https://open.spotify.com/artist/0LY2ULdbf59X4QJjZfEnW3) | [Jaja](https://open.spotify.com/album/3JXVpWiCvhCl4ikiP5pc80) | 2:50 | 2024-01-22 | 2024-01-30 |
@@ -3123,6 +3123,7 @@
 | [Reelin' In The Years](https://open.spotify.com/track/1I7zHEdDx8Ny5RxzYPqsU2) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [Can't Buy A Thrill](https://open.spotify.com/album/4Gh6pRaXqXTtJx4plAJbBw) | 4:35 | 2019-09-29\* | 2020-08-20 |
 | [Reeling In The Years](https://open.spotify.com/track/3Xe4JagghOfs9NF1xaqbb8) | [Steely Dan](https://open.spotify.com/artist/6P7H3ai06vU1sGvdpBwDmE) | [A Decade Of Steely Dan](https://open.spotify.com/album/68HbhACgHQvDhfMIzQYt8P) | 4:38 | 2021-07-12 | 2021-11-19 |
 | [Reels](https://open.spotify.com/track/6G9Htf4OGVTcls9zJfboKr) | [Mountains Majesty](https://open.spotify.com/artist/57oyMIJkmAfl41JTnIls2o) | [Reels](https://open.spotify.com/album/3vovQzDQIUPNDb2NU3h0Rb) | 3:35 | 2024-10-25 | 2024-11-06 |
+| [REFLEJOS](https://open.spotify.com/track/3TpzvX5xVi5cUGwM5KKZie) | [Diego Fragnaud](https://open.spotify.com/artist/3xmCcjDOVSSJNOHRCMSXET) | [REFLEJOS](https://open.spotify.com/album/5w1okADKcbT79IteXB6nET) | 2:54 | 2025-01-16 |  |
 | [Reject Me](https://open.spotify.com/track/3lNPtMjALEEvQOS0sYf0GU) | [Alfred Hu](https://open.spotify.com/artist/2dpwfwjjgyBTggaleCvR4D) | [Alfralando](https://open.spotify.com/album/78YNA2i4g8tHaPHkm0ED15) | 3:15 | 2023-06-15 | 2023-07-09 |
 | [Relaying](https://open.spotify.com/track/5OESr4y4hmSiSrfYX7A2wM) | [PluggWorld](https://open.spotify.com/artist/3yswMxZ1A5l5H2QADjdm6t) | [Relaying](https://open.spotify.com/album/3V5jcyBW2XAtGkkTW9tmw7) | 3:15 | 2024-07-27 | 2024-08-08 |
 | [Release](https://open.spotify.com/track/4qln8ZRsvFzRgyRAWIoPTR) | [Shonie V](https://open.spotify.com/artist/1E7x4eTccjsST1Hz85QHNA) | [Refined](https://open.spotify.com/album/4PI550AFk85e2NSH9deQbT) | 4:44 | 2024-02-20 | 2024-02-28 |
@@ -3402,7 +3403,7 @@
 | [Sleeping Dragon](https://open.spotify.com/track/0pbcUYlFRPImubzedyHL76) | [ellee ven](https://open.spotify.com/artist/68W5IWYUEsW0ahQS7LPp9x) | [Sleeping Dragon](https://open.spotify.com/album/7KWnnxbOjbHiT9ufkbMTL0) | 3:13 | 2020-04-12 | 2020-04-22 |
 | [Sleepless Nights](https://open.spotify.com/track/1hNBLycvuZVkqMO5N7IuHT) | [Trevor Preston](https://open.spotify.com/artist/7Df80FvbUNxcEt9E73FPXz) | [Sleepless Nights](https://open.spotify.com/album/0bv99jwaL1jTAW2T5MPlNs) | 2:26 | 2024-02-22 | 2024-03-03 |
 | [Slide Don't Make a Cruise](https://open.spotify.com/track/45UXvdrRBjVorXYCUZvn72) | [Jet Vesper](https://open.spotify.com/artist/7dDrxUbMYVOPZ81c5ofzb2) | [Slide Don't Make a Cruise](https://open.spotify.com/album/3zvTUVTUxGTQKCOemGmeLP) | 2:28 | 2022-10-21 | 2022-11-17 |
-| [Slow Down](https://open.spotify.com/track/4daGwGbV3fEgpoUnpR1xa4) | [Moongold](https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6) | [Modern Life](https://open.spotify.com/album/47iSFfmdFnspzi2K4nsjmK) | 3:07 | 2025-01-05 |  |
+| [Slow Down](https://open.spotify.com/track/4daGwGbV3fEgpoUnpR1xa4) | [Moongold](https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6) | [Modern Life](https://open.spotify.com/album/47iSFfmdFnspzi2K4nsjmK) | 3:07 | 2025-01-05 | 2025-01-17 |
 | [Slow it Down](https://open.spotify.com/track/0MO9qTgMhVObCtfxMY4my6) | [EMEREE](https://open.spotify.com/artist/3OGgjzkamLnNDmUi9RZDG9) | [Gold](https://open.spotify.com/album/278rUZMcOZ4qB5iEIP4pze) | 3:34 | 2024-09-20 | 2024-10-02 |
 | [Slow Motion](https://open.spotify.com/track/7h9KgsNvOuc6lj8zi0Zxly) | [Baba Jenkins](https://open.spotify.com/artist/1cxWflvijU9B2d7x5SMhez) | [Slow Motion](https://open.spotify.com/album/1mk03tqEaU2aa8yYy4bJh1) | 3:10 | 2022-09-30 | 2022-10-18 |
 | [Slow Ryde](https://open.spotify.com/track/7jVrhKpF6izCOg3FMtBhRA) | [KELS](https://open.spotify.com/artist/0JzgaVLxpCeDg5WIm06DsU) | [Slow Ryde](https://open.spotify.com/album/7aM4ghgSftw3RxN4PlDEld) | 3:22 | 2021-12-07 | 2022-09-09 |

@@ -424,7 +424,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 257917,
       "name": "Die Wonen Niet Hier",
       "url": "https://open.spotify.com/track/2Fivjy4HSqVJcitOIRAblS"
@@ -550,7 +550,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 326653,
       "name": "Een Filosofie Van Het Riool",
       "url": "https://open.spotify.com/track/3iNVdekvdmLW4FwcTU1mxS"
@@ -572,6 +572,28 @@
       "duration_ms": 179624,
       "name": "Femboy",
       "url": "https://open.spotify.com/track/7AvfGrqPE0TbgcQgsGeXJU"
+    },
+    {
+      "album": {
+        "name": "Gebroken Spiegel",
+        "url": "https://open.spotify.com/album/6dNDtmJnXyWzaFKiC47vc2"
+      },
+      "artists": [
+        {
+          "name": "Q'n",
+          "url": "https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM"
+        },
+        {
+          "name": "ANNE",
+          "url": "https://open.spotify.com/artist/7f3A2xHxiA9Zl8fIhdOoeS"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209280,
+      "name": "Gebroken Spiegel",
+      "url": "https://open.spotify.com/track/10Kg907mXNLeJ0K86gE1Or"
     },
     {
       "album": {
@@ -1694,6 +1716,24 @@
       "duration_ms": 206386,
       "name": "Odysseus",
       "url": "https://open.spotify.com/track/0ejJdwdiL6zfFzZc7E1NqL"
+    },
+    {
+      "album": {
+        "name": "Onzichtbaar",
+        "url": "https://open.spotify.com/album/5wHDgUd0gH8yXuiezp97pf"
+      },
+      "artists": [
+        {
+          "name": "Vic Willems",
+          "url": "https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167826,
+      "name": "Onzichtbaar",
+      "url": "https://open.spotify.com/track/6MadE1DxKrKN5QeUz5dz4M"
     },
     {
       "album": {

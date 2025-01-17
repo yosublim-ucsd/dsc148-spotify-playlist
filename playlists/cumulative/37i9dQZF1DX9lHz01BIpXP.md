@@ -4,7 +4,7 @@
 
 > Die beste in Afrikaanse Hip Hop\. Cover: <a href="https://open.spotify.com/artist/4hxiYIQmYSFNAgnS32t0y0?si=wopZ37XnR3\-KJ75hjpI0\_Q">21 Promo & Pengii</a>
 
-174 songs - 8 hr 56 min
+175 songs - 8 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Praat Baie](https://open.spotify.com/track/7AEeHK0QAJXPqg3Xe9JHk0) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7) | [Praat Baie](https://open.spotify.com/album/5DdXO6DBZMwhF1u0cAAI3g) | 1:53 | 2024-01-26 | 2024-02-23 |
 | [Praat meer bollie](https://open.spotify.com/track/0mO8vuAiK6ZzHvHMxzEfW4) | [Brasse Vannie Kaap](https://open.spotify.com/artist/0oBKGv7rr9OtiEI9rbj0un), [DJ Azuhl](https://open.spotify.com/artist/2jUdKSmS6qhZDwk9mXXWNF) | [Praat meer bollie](https://open.spotify.com/album/2MUsxuNywU4caM9VmJuFrN) | 4:09 | 2025-01-02 |  |
 | [Private](https://open.spotify.com/track/2ch0sBikWq1WN9QAZQEHy1) | [KerwieG](https://open.spotify.com/artist/3qmde6mfMcO7FWniYjoob5), [Kulture Gang](https://open.spotify.com/artist/28bCYadRJs1HKvyxvnSqIO) | [Private](https://open.spotify.com/album/5xII4hT5elWFNk8JJ6nsGT) | 3:00 | 2024-11-08 |  |
+| [Pull up 2025](https://open.spotify.com/track/3AZRehDZjXUtcJxXDvB1ld) | [KYLEO FROM THE WEST](https://open.spotify.com/artist/4DzGe30tm58us62vjtCIL7), [ceiling on tha deck](https://open.spotify.com/artist/6KNNk3hqbEktQfIRBGHpbC), [M.Jay](https://open.spotify.com/artist/6NSyRLnJIPll8pR2mRYRnl) | [Pull up 2025](https://open.spotify.com/album/0MPggosGnTf94twPwITwF9) | 2:42 | 2025-01-16 |  |
 | [Raak Taatie](https://open.spotify.com/track/53iOtIBVhJwizCcfWWfCRb) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Raak Taatie](https://open.spotify.com/album/27kJwioZA3Px66PosIdQuy) | 4:05 | 2022-09-08 |  |
 | [Rare Steak](https://open.spotify.com/track/29kYp8MB3eq1RQIXLWWQCX) | [Cream Machine](https://open.spotify.com/artist/4LvxgCidcknysBR0fMgzSx) | [Rare Steak](https://open.spotify.com/album/5fyfK8q6TANWOXxrL7i7Fe) | 3:05 | 2022-09-08 | 2023-10-30 |
 | [Rich Boy](https://open.spotify.com/track/3OPHM9E96Q138fPxyF8bcN) | [Biggy](https://open.spotify.com/artist/3Y71njDHDmIEaMBtFRSr4I) | [Jong Grotes](https://open.spotify.com/album/6fkDB86zPbNpiJ0JnyPhlb) | 2:39 | 2022-09-08 | 2023-10-30 |
@@ -145,7 +146,7 @@
 | [Slaaplose Nagte](https://open.spotify.com/track/2ESObtgSm31Cbyjeg9Uw4Q) | [Wanié](https://open.spotify.com/artist/1XsEkHNiBF8qAdUBVULiVt) | [Slapeloosheid](https://open.spotify.com/album/0xnfC9WKqTgylhmOgIRmY4) | 3:00 | 2022-09-08 | 2023-04-14 |
 | [Slat Los](https://open.spotify.com/track/0XKrxODjeE98S02natV2oQ) | [Ziggy4x](https://open.spotify.com/artist/6cDQqRa7O0E6f5PaPQTP27), [25K](https://open.spotify.com/artist/2mIr9ReJuFyuWJvSQ2nWM9), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [Slat Los](https://open.spotify.com/album/7s52F5UeDT91741bgpnzqg) | 2:56 | 2024-06-07 |  |
 | [Slegte Gewoonte](https://open.spotify.com/track/0m5TIFvr8GQCIM2FDNAJPT) | [Lil Dee Music](https://open.spotify.com/artist/3GWcPN5iY86CwRrgJE4kvg), [Euno](https://open.spotify.com/artist/14Lh7c1HhLZPLAAqOG83Kw), [Aiyamanfykz](https://open.spotify.com/artist/5UPbQ61xjTa1rHG9uGdZZL) | [2098](https://open.spotify.com/album/51PA9pHz64S6a9VfFerGca) | 3:10 | 2024-08-09 | 2024-10-25 |
-| [Smaak Vir Rap](https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd) | [JÜS](https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4), [LIMPO.G.O.D](https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT) | [Vry & Jonk](https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh) | 2:17 | 2024-07-26 |  |
+| [Smaak Vir Rap](https://open.spotify.com/track/3WZjJT0BoUlb5O33iEdsMd) | [JÜS](https://open.spotify.com/artist/4xWdHkhjQ6CD2ggPUUffU4), [LIMPO.G.O.D](https://open.spotify.com/artist/5dGKeyMOT7XJOlfceJfJHT) | [Vry & Jonk](https://open.spotify.com/album/4q6QPDCUyLC3DpOQ2w8Psh) | 2:17 | 2024-07-26 | 2025-01-17 |
 | [Smegh](https://open.spotify.com/track/2QnU3FNd4ksQGKXjapASxN) | [Giga](https://open.spotify.com/artist/4oRNvFoTJsdbofSGi9DjFz) | [Smegh](https://open.spotify.com/album/6CwnWUFCc4LXMvRjevMhJr) | 2:56 | 2023-05-18 | 2023-06-03 |
 | [Smooth](https://open.spotify.com/track/7oovNehysT0pyWphC78mnH) | [Harry CBY](https://open.spotify.com/artist/1dfJrxpx1MxeObARk7bs2l) | [Smooth](https://open.spotify.com/album/4Nz9uvSBZXmB10woVBEJNq) | 2:49 | 2022-12-01 | 2023-07-14 |
 | [So Laatie Dou](https://open.spotify.com/track/70AYbxLFIm9Y5jhocOiV0Y) | [Terror MC](https://open.spotify.com/artist/1yZbqrCBkdHJ2bewe0HEHG) | [So Laatie Dou](https://open.spotify.com/album/1V91ZIjl4e6pcEp8C1Fr0T) | 2:40 | 2023-08-31 | 2024-06-13 |

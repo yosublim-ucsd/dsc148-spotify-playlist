@@ -2,9 +2,9 @@
 
 ### [T\-Pop Now](https://open.spotify.com/playlist/37i9dQZF1DX8peoGqrSg0H)
 
-> เพลย์ลิสต์พิเศษวันเด็ก T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: NuNew
+> T\-Pop ไม่ไหว ต้องฟัง T\-Pop Now แล้ว\. ศิลปิน: PP Krit
 
-633 songs - 1 day 13 hr 32 min
+634 songs - 1 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Boys Love Girls](https://open.spotify.com/track/4BDS6sNKdmTsxJdw6BwRE5) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [Boys Love Girls](https://open.spotify.com/album/275ajRljB3UHsoXVvT0BLr) | 3:01 | 2024-12-26 |  |
 | [CALL CENTER](https://open.spotify.com/track/2xo7Ch7kPAGMjKVm5aHuOw) | [THI\-O&TUTOR](https://open.spotify.com/artist/0iQRr3ewj0oFUnhccKmx0b) | [CALL CENTER](https://open.spotify.com/album/5LGrEM15OQ0CbYY8506xuO) | 3:09 | 2023-10-05 | 2023-10-20 |
 | [Calling you](https://open.spotify.com/track/1KhFybufpQCSAf8FmUsMt2) | [PiXXiE](https://open.spotify.com/artist/6HlUN1Md7UT62mNJHOYRsK) | [Calling you](https://open.spotify.com/album/4A694nZvddyi49tWXPDikN) | 2:01 | 2023-08-04 | 2023-08-19 |
-| [CATCH ME \(feat\. JUNGT BUS\)](https://open.spotify.com/track/4Fkd9BdBZaefTS9410hxs0) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi), [JUNGT BUS](https://open.spotify.com/artist/0R4RZew1uJin7PZj0XdAp1) | [CATCH ME \(feat\. JUNGT BUS\)](https://open.spotify.com/album/1E82fOQtjymDTJOkIeMoHc) | 3:32 | 2024-12-19 |  |
+| [CATCH ME \(feat\. JUNGT BUS\)](https://open.spotify.com/track/4Fkd9BdBZaefTS9410hxs0) | [MINDY](https://open.spotify.com/artist/2a7WiIiQJcunh4cSWmp0Gi), [JUNGT BUS](https://open.spotify.com/artist/0R4RZew1uJin7PZj0XdAp1) | [CATCH ME \(feat\. JUNGT BUS\)](https://open.spotify.com/album/1E82fOQtjymDTJOkIeMoHc) | 3:32 | 2024-12-19 | 2025-01-17 |
 | [CATCH THE NIGHT](https://open.spotify.com/track/0KWD90TVkrA0kyKW9MewrZ) | [PERSES](https://open.spotify.com/artist/1rRs0oN28NPUQxO4TffpSY) | [CATCH THE NIGHT](https://open.spotify.com/album/0tdfeZTire8YkmYCBOTOJn) | 3:08 | 2023-03-09 | 2023-03-25 |
 | [Chemistry](https://open.spotify.com/track/1wcdlx2wRHr9v2dROco63B) | [THE7](https://open.spotify.com/artist/76P1bgqm0Ign9ZDfSjBSbc) | [Chemistry](https://open.spotify.com/album/56zGZcFnTyn8Vjxn4nY5Vm) | 3:28 | 2023-05-11 | 2023-05-20 |
 | [Choose Me](https://open.spotify.com/track/4BoZEcYmmCgANjVTCCyY76) | [GoyNattyDream](https://open.spotify.com/artist/3FkXFqPqFF7nZgNTAYXBFU) | [Choose Me](https://open.spotify.com/album/6KONF8hVx4IKHJswTvxPir) | 2:54 | 2024-11-14 | 2024-11-22 |
@@ -122,6 +122,7 @@
 | [Not Romantic](https://open.spotify.com/track/09whSxd83dqNcsKZvmmwko) | [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [Not Romantic](https://open.spotify.com/album/1EWuuwmnBojFCVP5katTIN) | 3:10 | 2023-02-13 | 2023-04-01 |
 | [OH MY!](https://open.spotify.com/track/6NYVzwQKU6mBNrnlNDX6Eu) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [OH MY!](https://open.spotify.com/album/3oXWfBLsC9vwrNx11OcNQV) | 2:37 | 2024-10-03 | 2024-11-01 |
 | [Oh! Oh!](https://open.spotify.com/track/4mDEpeYizNCCMLz8DFn0jA) | [TRINITY](https://open.spotify.com/artist/70iyLnJ4uH2zMmLLdGM9oM) | [Oh! Oh!](https://open.spotify.com/album/2EP22W4je9X8O9tQd7KLL6) | 3:30 | 2022-08-05 | 2022-08-19 |
+| [Oopsy Daisy](https://open.spotify.com/track/2vwjJOcZInBM9VibTxzwSQ) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [Oopsy Daisy](https://open.spotify.com/album/7BZzyIrjMmMh374Zkyor6C) | 3:00 | 2025-01-16 |  |
 | [Paint It Pink](https://open.spotify.com/track/4UL0Q0j3myEZrLplwm9zSq) | [FANG](https://open.spotify.com/artist/4irZfSbExUscDw7VKxWAre) | [Paint It Pink](https://open.spotify.com/album/5QGPsUBKGd1mKbrO0ktPUq) | 2:54 | 2022-10-07 | 2022-10-22 |
 | [Passcode \(รู้แค่คนเดียว\)](https://open.spotify.com/track/2KQTYwgjTEhPaxnAJo46Ta) | [ALLY](https://open.spotify.com/artist/4dkCB7FJeRXK6OWpal7zpw) | [Passcode \(รู้แค่คนเดียว\)](https://open.spotify.com/album/6YwX8dz0KsfIpbdkpVmpZU) | 3:26 | 2023-05-26 | 2023-06-16 |
 | [Peek](https://open.spotify.com/track/2bcfJ1aSghqIDwA4corfW2) | [SEENAPAT](https://open.spotify.com/artist/2dWLIzrLWSNliiLVEGNMk3) | [Peek](https://open.spotify.com/album/0UDyCbzsLPCP6AvT3TMMuO) | 2:43 | 2022-06-16 | 2022-06-24 |

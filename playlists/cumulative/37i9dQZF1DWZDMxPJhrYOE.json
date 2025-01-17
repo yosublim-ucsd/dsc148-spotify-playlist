@@ -2829,6 +2829,24 @@
     },
     {
       "album": {
+        "name": "HEY BOUNCER!",
+        "url": "https://open.spotify.com/album/27I77pnmANAUNOxpXuGdCF"
+      },
+      "artists": [
+        {
+          "name": "Ericka Jane",
+          "url": "https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154459,
+      "name": "HEY BOUNCER!",
+      "url": "https://open.spotify.com/track/41HlTcsGxkcfUmjGD55MNw"
+    },
+    {
+      "album": {
         "name": "Hey Hello",
         "url": "https://open.spotify.com/album/3LNfDuAu8Hhf6J43lvgvba"
       },
@@ -3126,7 +3144,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 180540,
-      "name": "Hypnotized",
+      "name": "Hypnotized (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
     },
     {
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 197601,
       "name": "Livet f\u00f8les ikke langt nok (feat. Lis S\u00f8rensen)",
       "url": "https://open.spotify.com/track/0u5AZUdieewsc7e6GXfW0U"

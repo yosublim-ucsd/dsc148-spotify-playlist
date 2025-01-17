@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : Youssoupha",
+  "description": "Les plus belles plumes rap fran\u00e7ais du moment. Photo : R\u00e9my",
   "name": "Lyricistes",
   "tracks": [
     {
@@ -90,6 +90,24 @@
       "duration_ms": 185033,
       "name": "3 lettres",
       "url": "https://open.spotify.com/track/18AgQ8ntZmrEe7ENxrAnhP"
+    },
+    {
+      "album": {
+        "name": "375",
+        "url": "https://open.spotify.com/album/50nS2XwGgRuC4R7JJtcbrl"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Epps",
+          "url": "https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183106,
+      "name": "375",
+      "url": "https://open.spotify.com/track/7oBaEJ9gojLd28y1sfbdA0"
     },
     {
       "album": {
@@ -333,6 +351,24 @@
     },
     {
       "album": {
+        "name": "blouseblanche",
+        "url": "https://open.spotify.com/album/0O9QzquMbh5G63KQwwd8rC"
+      },
+      "artists": [
+        {
+          "name": "Liva\u00ef",
+          "url": "https://open.spotify.com/artist/3sOh3Pok0NReizHRp4ochp"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219259,
+      "name": "blouseblanche",
+      "url": "https://open.spotify.com/track/1RkmXt2d0kIu3hLAjUHmW8"
+    },
+    {
+      "album": {
         "name": "LE HORLA",
         "url": "https://open.spotify.com/album/0zzkrEonDjv3ZVSSek36I4"
       },
@@ -432,7 +468,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 184732,
       "name": "Chateaubriand",
       "url": "https://open.spotify.com/track/6BKVou9qldPNdkn9t0MmxD"
@@ -1166,7 +1202,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 190813,
       "name": "La Cour des Miracles",
       "url": "https://open.spotify.com/track/4zlNiZt4UyHd6KWvGlWQXQ"
@@ -1403,6 +1439,24 @@
     },
     {
       "album": {
+        "name": "Libre-penseur",
+        "url": "https://open.spotify.com/album/4EtqSIW7iI4jnck9OEMOwZ"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9my",
+          "url": "https://open.spotify.com/artist/1rT9J8vtPCzEKL7oGntxnr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152058,
+      "name": "Libre-penseur",
+      "url": "https://open.spotify.com/track/76r0QoAnrdoeyYWJ1lxYru"
+    },
+    {
+      "album": {
         "name": "LOYAL",
         "url": "https://open.spotify.com/album/7ljqJZLeyUk15vdzkIK8Bh"
       },
@@ -1450,7 +1504,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 155294,
       "name": "Matin de juin",
       "url": "https://open.spotify.com/track/3l0fM43Npl57Mbf0IGagHI"
@@ -1726,7 +1780,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 266153,
       "name": "Poussez vous 5",
       "url": "https://open.spotify.com/track/2kHX4FsWy0dDitXd7bO9L4"
@@ -1930,10 +1984,28 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 169346,
       "name": "Si tu savais",
       "url": "https://open.spotify.com/track/18vqG7GOyoUIVE9LBbvrh1"
+    },
+    {
+      "album": {
+        "name": "Sorry Not Sorry",
+        "url": "https://open.spotify.com/album/43pB6joC6nQjEHUwBV0aNL"
+      },
+      "artists": [
+        {
+          "name": "Heskis",
+          "url": "https://open.spotify.com/artist/1l4zmi29P6ZWSehP5qOL7U"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125937,
+      "name": "Sorry Not Sorry",
+      "url": "https://open.spotify.com/track/3aw29e8x0bbYTKqzAHa68p"
     },
     {
       "album": {
@@ -2058,6 +2130,24 @@
       "duration_ms": 210000,
       "name": "Un monde meilleur",
       "url": "https://open.spotify.com/track/7J2n6JG3yiHU0VxyPbiyQV"
+    },
+    {
+      "album": {
+        "name": "UNE FLEUR \u00c7A S'ARROSE",
+        "url": "https://open.spotify.com/album/0KK5DBNXkoTWxgMT1Qimi0"
+      },
+      "artists": [
+        {
+          "name": "N3MS",
+          "url": "https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193750,
+      "name": "UNE FLEUR \u00c7A S'ARROSE",
+      "url": "https://open.spotify.com/track/0jtyOKokE0QaIO15xJiVaZ"
     },
     {
       "album": {

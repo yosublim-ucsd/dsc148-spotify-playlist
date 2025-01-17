@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: MGK666, RAVA
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Bitza, Ombladon, El Nino
 
-110 songs - 5 hr 12 min
+112 songs - 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [EMIL BOC](https://open.spotify.com/track/73QUECdsYbfuPPhmhrJiQy) | [Mobtrap](https://open.spotify.com/artist/6Nspm53g0iGjgJxTcwhqOl) | [MOB PACK \(EP\)](https://open.spotify.com/album/32DTY8uyqKUqBRXoyeCr8G) | 1:47 | 2024-12-05 | 2025-01-10 |
 | [Eram La Drum](https://open.spotify.com/track/3znQu9ocHIpPlXRZuZTbHU) | [Maximilian](https://open.spotify.com/artist/6e2d76MT8kXSkoo7sH3rdY), [Vlad Flueraru](https://open.spotify.com/artist/0WcTbZrizMTmNS2GIihE3T) | [Eram La Drum](https://open.spotify.com/album/1hgfPOzPpOKSukKDCcdfGD) | 2:30 | 2024-10-24 | 2024-11-22 |
 | [EU](https://open.spotify.com/track/5JQfyIDpWqhu5UBzKAo4na) | [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om) | [Ștefan IV: Umbra](https://open.spotify.com/album/5659zuqfAbbi2zIPziei9t) | 4:13 | 2024-06-27 |  |
-| [Faruri](https://open.spotify.com/track/7Ka8Irg6Q8AsmxIltryCmr) | [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B), [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Faruri](https://open.spotify.com/album/4thVbOF7oQWm7CNkSRWelg) | 3:10 | 2024-11-07 |  |
+| [Faruri](https://open.spotify.com/track/7Ka8Irg6Q8AsmxIltryCmr) | [Dara](https://open.spotify.com/artist/36IWLQyilJWsSkYDfzvc5B), [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Faruri](https://open.spotify.com/album/4thVbOF7oQWm7CNkSRWelg) | 3:10 | 2024-11-07 | 2025-01-17 |
 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 | 2024-06-27 |  |
 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 | 2024-07-04 |  |
 | [Flori de Lavandă](https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Flori de Lavandă](https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD) | 3:14 | 2024-06-27 | 2024-10-02 |
@@ -60,6 +60,7 @@
 | [Glory](https://open.spotify.com/track/0ElfsiFw4owhhKiNHAl3RP) | [Moza Kaliza](https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk) | [Glory](https://open.spotify.com/album/3hftYIA0d1XLGcW83cY88g) | 1:43 | 2024-10-24 | 2024-11-15 |
 | [Grinch](https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Grinch](https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6) | 3:14 | 2025-01-09 |  |
 | [Grădina interioară](https://open.spotify.com/track/7d6WcTjwxTC1R1kL7BrIvx) | [Dragonu AKA 47](https://open.spotify.com/artist/1RFTu9DxRmO2inIuvm7JMG), [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr) | [Grădina interioară](https://open.spotify.com/album/4bPrnYxez5wn8Rn6uUGJEz) | 4:26 | 2024-09-26 | 2024-10-04 |
+| [Haz de necaz](https://open.spotify.com/track/134JNZxHvJgR6cngu5s0Z5) | [Bitza](https://open.spotify.com/artist/38D4CP96Q3tn48qOGA6wbZ), [Ombladon](https://open.spotify.com/artist/6ojVBJkxhgSj5zgXsM3hnF), [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Haz de necaz](https://open.spotify.com/album/1fsbOLT7Ae6G8rpnwOH6Fi) | 3:23 | 2025-01-16 |  |
 | [I'm Geekin](https://open.spotify.com/track/3pOuEf4IwX5o2vK3ZtBI7p) | [Tomi Marfă](https://open.spotify.com/artist/6ukiR3J7anX3kgmYmiIkAs), [waveman](https://open.spotify.com/artist/5niAdguvCF1zoNIWpifvXW) | [I'm Geekin](https://open.spotify.com/album/0kERiZuBvr60zc7NkbfU7W) | 1:41 | 2024-06-27 | 2024-07-27 |
 | [Inca o sansa](https://open.spotify.com/track/2qJ4IpSiX2EOMKwAuMvngO) | [LENO](https://open.spotify.com/artist/1V25NQm1hcYVQ1hierOrwq), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Inca o sansa](https://open.spotify.com/album/4JDrUnZioLeNfpUYnnozwZ) | 3:12 | 2024-06-27 | 2024-07-05 |
 | [Incurabil](https://open.spotify.com/track/2Z3sy4ZcM96jlHBbFyYyda) | [Flou Rege](https://open.spotify.com/artist/3jSfv7OmnBYAboAXvDvA7E) | [Incurabil](https://open.spotify.com/album/4cT3dPUWQS3y50bhKKsCiQ) | 2:49 | 2024-06-27 | 2024-07-05 |
@@ -82,11 +83,12 @@
 | [Ochii](https://open.spotify.com/track/3UNTY9uqkDM24KQXN0RnTB) | [Satoshi](https://open.spotify.com/artist/0kTRvNtdn5mubSQfVoZffv) | [Ochii](https://open.spotify.com/album/0TTXBQGbMeXpr75X7uCj7Z) | 3:16 | 2024-06-27 |  |
 | [Ofiter la pamant](https://open.spotify.com/track/1BbXHat6Zlcg4bpFL2qEBE) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Ofiter la pamant](https://open.spotify.com/album/2N2IwwEhBAOvLnaf12XWTl) | 2:12 | 2024-06-27 |  |
 | [PATEK](https://open.spotify.com/track/3GhuOAqwwIo3hAlXApoKeC) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [PATEK](https://open.spotify.com/album/4PgwdjlApTsBwtlcaU1dDz) | 2:25 | 2025-01-09 |  |
+| [Periplu către fericire](https://open.spotify.com/track/4E0ipjLhs2x9RSXMLDB15r) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Periplu către fericire](https://open.spotify.com/album/1ZhcfGbO7STLlijE5H22V7) | 3:28 | 2025-01-16 |  |
 | [PESTE TOT](https://open.spotify.com/track/2akD1C98hzYuUnqslTor11) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [PESTE TOT](https://open.spotify.com/album/6yX2Obn7R5hpjXs9VA7aNd) | 2:26 | 2024-06-27 |  |
 | [PLOAIA](https://open.spotify.com/track/7j0IVHEgklnA3TjfZSuMBs) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Giovanni](https://open.spotify.com/artist/47AvMC22jRN0dhoP1Lmk9o), [PRNY](https://open.spotify.com/artist/0cA9DRt344kHIuWkY87dEk) | [LUCIFER](https://open.spotify.com/album/7cZxVrz4JkxEP4lVrqX9NS) | 3:06 | 2024-06-27 |  |
 | [PM AM](https://open.spotify.com/track/1HeonIzy7Pic6n0GjK8leX) | [FRAXU](https://open.spotify.com/artist/2raLNB0A17S6DfYuQfv4jb), [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [PM AM](https://open.spotify.com/album/3e6SEz3zGQjWoj3dVvizE6) | 2:00 | 2024-07-04 | 2024-07-27 |
 | [Poate](https://open.spotify.com/track/70WFlv0Amzke8MgjfM5MUu) | [Endru](https://open.spotify.com/artist/53fCgT8kcL8Wj6VJ7oyu0l), [IDK](https://open.spotify.com/artist/6nyKhzPeKV9pzpYN0malXP) | [Blur](https://open.spotify.com/album/4nET5AKAwCz0ooYa7QdNmV) | 2:32 | 2024-06-27 |  |
-| [Poze De Album](https://open.spotify.com/track/3YONtB47D1iQRAt7WF9lXS) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Poze De Album](https://open.spotify.com/album/143jn9yB4pplszneiXneKK) | 2:52 | 2024-11-14 |  |
+| [Poze De Album](https://open.spotify.com/track/3YONtB47D1iQRAt7WF9lXS) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Poze De Album](https://open.spotify.com/album/143jn9yB4pplszneiXneKK) | 2:52 | 2024-11-14 | 2025-01-17 |
 | [Prietena ta](https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [8 Culcat](https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss) | 2:48 | 2024-06-27 | 2024-07-19 |
 | [REGELE S\-A ÎNTORS](https://open.spotify.com/track/6xCiEdYc7mOoxO3c9K3Cp1) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol) | [REGELE S\-A ÎNTORS](https://open.spotify.com/album/0qKOiVCm7rKGH3iZPu1Ijm) | 3:15 | 2024-06-27 | 2024-07-05 |
 | [ROLLIE](https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ROLLIE](https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn) | 3:25 | 2024-10-17 | 2024-11-30 |

@@ -1112,7 +1112,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 215069,
       "name": "Dios Te Ve",
       "url": "https://open.spotify.com/track/644wcyUTuKfqqRFgiRPxLb"
@@ -2256,7 +2256,7 @@
       ],
       "date_added": "2022-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 173710,
       "name": "La Paz",
       "url": "https://open.spotify.com/track/7H17GmZdbHIMolga9CEfBG"
@@ -2304,7 +2304,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 160000,
       "name": "LA VIDA ES TAN DURA",
       "url": "https://open.spotify.com/track/4B8pr92VVnxeN4rkPUQETn"
@@ -2444,7 +2444,7 @@
       ],
       "date_added": "2023-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 208941,
       "name": "LEGEND",
       "url": "https://open.spotify.com/track/7JD8Mw6Kg58thpwN0nmgMJ"
@@ -2987,6 +2987,36 @@
     },
     {
       "album": {
+        "name": "Nitrato",
+        "url": "https://open.spotify.com/album/5C3o5ZG354qVDRRMSeSFnN"
+      },
+      "artists": [
+        {
+          "name": "SNAKE VARELA",
+          "url": "https://open.spotify.com/artist/4gIGgbEMjDIqrPY7hpMceO"
+        },
+        {
+          "name": "Utopiko",
+          "url": "https://open.spotify.com/artist/5AKHh4eBuOo4HHXiJ6aCtT"
+        },
+        {
+          "name": "Bronko Yotte",
+          "url": "https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7"
+        },
+        {
+          "name": "Dj Efe",
+          "url": "https://open.spotify.com/artist/4XdZAAWHiuwSW2gpTVWx4U"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203795,
+      "name": "Nitrato",
+      "url": "https://open.spotify.com/track/47YnWI8MwVRVbPIYmoHBtS"
+    },
+    {
+      "album": {
         "name": "No Le Bajes",
         "url": "https://open.spotify.com/album/2IJhnQ4zhnRG11pEbz3wFT"
       },
@@ -3208,6 +3238,28 @@
       "duration_ms": 131874,
       "name": "PAHPAHPAH",
       "url": "https://open.spotify.com/track/5xyKGLSdx4OKiPzT9cXQef"
+    },
+    {
+      "album": {
+        "name": "Para Mi",
+        "url": "https://open.spotify.com/album/6oc672Ni9438dEG5Jvo28m"
+      },
+      "artists": [
+        {
+          "name": "Nfx",
+          "url": "https://open.spotify.com/artist/1TBQTmzjUEJL0EzbsTroN5"
+        },
+        {
+          "name": "Big Apple",
+          "url": "https://open.spotify.com/artist/0A47yBLunNeq5dA5WYUjBe"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127859,
+      "name": "Para Mi",
+      "url": "https://open.spotify.com/track/1hphuK9TzPWklyDZfBKkuu"
     },
     {
       "album": {

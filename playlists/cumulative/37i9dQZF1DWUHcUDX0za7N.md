@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: Antiworld Gangsters
+> Hip hop and rap music from Nigeria\. Cover: Bhadboi OML
 
-529 songs - 1 day 1 hr 5 min
+531 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,7 +91,7 @@
 | [Breeze Mashup](https://open.spotify.com/track/0WQDe8UA5gYpanhKFVQGNl) | [Ikechukwu](https://open.spotify.com/artist/7xhdfJjebilccfAhprilhE), [Skales](https://open.spotify.com/artist/1ixqGowpDM21RwyJmJ7hpv), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl), [Vector](https://open.spotify.com/artist/2dIFhJ8RkRS2rXeDefY3t1) | [O.G .Unkle.Killz](https://open.spotify.com/album/4R6UL67rviimyImoxqHURa) | 4:25 | 2024-03-15 | 2024-04-19 |
 | [BRICK & LACE](https://open.spotify.com/track/4ey7sZjre5UqI8Hfvlab0r) | [Ossaiofficial](https://open.spotify.com/artist/2aLiV8RwMwIo9KyfaGCJW5), [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [BRICK & LACE](https://open.spotify.com/album/0kD6nPywwJ2sXIBQNfo8w7) | 2:38 | 2023-04-27 | 2023-05-27 |
 | [Brothers](https://open.spotify.com/track/19JlNGPLF53t7akcgJrtYW) | [PaBrymo](https://open.spotify.com/artist/2qRMjF0Cf2In67xEORWuwk), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Brothers](https://open.spotify.com/album/7jblLF62kdZvVYFj9ZP4Zk) | 2:24 | 2024-09-13 | 2024-11-22 |
-| [Burn](https://open.spotify.com/track/43MLiJ282su6RaUz6HIUJZ) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Burn](https://open.spotify.com/album/28CwDxrjgiiRREUROkq2RV) | 1:26 | 2024-05-17 |  |
+| [Burn](https://open.spotify.com/track/43MLiJ282su6RaUz6HIUJZ) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu) | [Burn](https://open.spotify.com/album/28CwDxrjgiiRREUROkq2RV) | 1:26 | 2024-05-17 | 2025-01-17 |
 | [Burn](https://open.spotify.com/track/1szzOfnQAV9sbNnvtdClJh) | [Nxwrth](https://open.spotify.com/artist/3p4oUgYWysn2xvj9uUMJnS), [RJZ](https://open.spotify.com/artist/1gRKPy857blIrZBV1m57Xb), [$pacely](https://open.spotify.com/artist/4V5Mu31gXSzN4xbP2pOVO1), [Sky Kuu](https://open.spotify.com/artist/2Kz4SoUY5H1DRHJ0UQE4im) | [Burn](https://open.spotify.com/album/4CCPtSjyZc13Wbh1CeDrVp) | 2:17 | 2023-06-02 | 2023-06-17 |
 | [Bus Stop](https://open.spotify.com/track/13un17MWANLgtDAfIDzTka) | [Lil Kesh](https://open.spotify.com/artist/38XiDu0kK3Z5jdHUDqBzNT) | [Rhythm and Tunes](https://open.spotify.com/album/6baCP0yFlevNRcE8ZFYC5x) | 2:20 | 2023-07-20 | 2023-08-18 |
 | [Busy](https://open.spotify.com/track/207EjYJwVSc0ypijvKBMic) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Busy](https://open.spotify.com/album/1wVpvX9AjgmIoIfikkwFdK) | 2:52 | 2023-12-15 | 2024-02-17 |
@@ -102,6 +102,8 @@
 | [Cast](https://open.spotify.com/track/2egqPiWDKdLO34x2Csa3iU) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Cast](https://open.spotify.com/album/18dCvrjuLcD3EvW1ovyifu) | 2:09 | 2023-11-10 | 2024-07-19 |
 | [CHANEL](https://open.spotify.com/track/6BYjJobgPPKpO61Ry4HyQp) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Cruel Santino](https://open.spotify.com/artist/15GgEOJiFyjQm4tZ4D7qih) | [LEATHER PARK \(VOL\. 1\)](https://open.spotify.com/album/714sz0U1nuTsGFbQiyMFfN) | 1:48 | 2024-06-21 | 2024-09-19 |
 | [CHANGE AM](https://open.spotify.com/track/6sDacNyxcOBkYQ5URsVd24) | [Jake Doe](https://open.spotify.com/artist/6ya83yRCbdYDSSMHWp8wWU) | [Yours Unfaithfully](https://open.spotify.com/album/4xvlrR1wtd9unOqq1xMkEN) | 2:31 | 2023-03-25 | 2023-03-31 |
+| [CHISOM \(We Dem Boyz\)](https://open.spotify.com/track/68Urq9BWEfDCAU10njCU0a) | [Rexxie](https://open.spotify.com/artist/5z207JpMeX1oCYVvMKReku), [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk) | [CHISOM \(We Dem Boyz\)](https://open.spotify.com/album/7554y1U2CikUTRafTXj29N) | 3:01 | 2025-01-17 |  |
+| [Chocolate & Caramel](https://open.spotify.com/track/3I0OL1oZUCYbI4GW4sVjWA) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhad Boi](https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm) | 2:41 | 2025-01-17 |  |
 | [Choosey](https://open.spotify.com/track/3ARj9nbJqRHqAGWYIUJ8XR) | [SixSaidIt](https://open.spotify.com/artist/4SBh3nHzdDKtubyOjpkhlb) | [Choosey](https://open.spotify.com/album/5TuXEia8HdUU3I1CIK5ldq) | 3:06 | 2022-08-09 | 2022-11-16 |
 | [Chop Life](https://open.spotify.com/track/2Nbv86CqcUykqD1SvzkmlZ) | [Gdzilla](https://open.spotify.com/artist/2GYi94SMYCdXqsvYjer68K) | [Gdzilla](https://open.spotify.com/album/1KzWFmSUqNBdp646bQKpKO) | 2:32 | 2023-12-08 | 2024-01-20 |
 | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/track/1E4ed73l5iopAIr9UkAlGy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Ludacris](https://open.spotify.com/artist/3ipn9JLAPI5GUEo4y4jcoi) | [Cinderella Girl \(Where You Dey\) \[feat\. Ludacris\]](https://open.spotify.com/album/2Qk595xR8M6ar44RYi9aPR) | 3:35 | 2023-05-12 | 2023-06-17 |
@@ -167,7 +169,7 @@
 | [Elephant Man](https://open.spotify.com/track/7xfJXlI27KT0BbbAAIuT5o) | [Cobhams Asuquo](https://open.spotify.com/artist/710wXZlOutU4kV7BeLoVwl) | [Elephant Man](https://open.spotify.com/album/2CG9eOhIFEh9SDraWK8Olm) | 2:46 | 2022-07-07 | 2022-12-09 |
 | [Emeka Dance](https://open.spotify.com/track/0JPOsyqfQshF8ejvGCTBgG) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | ["Of Many Colors": Orange](https://open.spotify.com/album/6QSAkZ4cM2bRSdPXF7HX2x) | 2:39 | 2024-10-18 | 2024-11-22 |
 | [Enough](https://open.spotify.com/track/0W0Fx4N2tsxQqZUWdnQxdv) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Bhadriyun](https://open.spotify.com/album/7sjsGrS4iTNhagmnwjexh3) | 2:51 | 2023-11-03 | 2023-11-09 |
-| [Escober \(feat\. Superwozzy\)](https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC) | 2:44 | 2024-11-22 |  |
+| [Escober \(feat\. Superwozzy\)](https://open.spotify.com/track/0pCK7tOscur5azXCN7ZNAP) | [Tobless](https://open.spotify.com/artist/5mGxaqvDTzbfIHnWjNfgKk), [SuperWozzy](https://open.spotify.com/artist/0HeYa1Xtc9SKOD6SsF43lS) | [Escober \(feat\. Superwozzy\)](https://open.spotify.com/album/4Xb5i766rpZe6Iu3fMx9rC) | 2:44 | 2024-11-22 | 2025-01-17 |
 | [Eventually](https://open.spotify.com/track/0CibNAlHHhRQk4QVnlwIzE) | [MOJO AF](https://open.spotify.com/artist/2yqao6RwwtBnyKy9XA2p3J) | [Eventually](https://open.spotify.com/album/71Iee29vZ9ndmjzkG5XGiE) | 4:03 | 2024-08-09 | 2024-09-06 |
 | [Evidence](https://open.spotify.com/track/3EedyRBEZu0u5FH6Z9tHU1) | [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM) | [Evidence](https://open.spotify.com/album/1aFBCKDhwC9H6GidbfYvn4) | 1:54 | 2024-04-05 | 2024-11-22 |
 | [FAKE NIKES \(feat\. Blxckie & Cheque\)](https://open.spotify.com/track/0EW6FrqEuVFwZ36k502Pwy) | [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Cheque](https://open.spotify.com/artist/4oQyXxDBq8FBhsjjS7MbcM) | [YOUNG PREACHER](https://open.spotify.com/album/4cz1acZPi8BkrfmIooqnlV) | 3:01 | 2022-10-28 | 2022-11-11 |

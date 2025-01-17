@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Calema",
+  "description": "Fall in love with the sensual sounds of Kizomba! Cover: Chelsea Dinorath",
   "name": "Dancing Kizomba",
   "tracks": [
     {
@@ -380,6 +380,28 @@
       "duration_ms": 219375,
       "name": "Alice",
       "url": "https://open.spotify.com/track/1slZ4CnuSiCp3xfq766Fce"
+    },
+    {
+      "album": {
+        "name": "Alice",
+        "url": "https://open.spotify.com/album/5A3QABaCrHsIRbSUzUd5pp"
+      },
+      "artists": [
+        {
+          "name": "Nice Life",
+          "url": "https://open.spotify.com/artist/3aItXxnatnsBD8y7r80GuZ"
+        },
+        {
+          "name": "The Nitrox",
+          "url": "https://open.spotify.com/artist/1QHmQj5zO28KW6Af9MQ8xj"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186697,
+      "name": "Alice",
+      "url": "https://open.spotify.com/track/1btlCp6C3Ge8kYjlF6GcSr"
     },
     {
       "album": {
@@ -4479,6 +4501,32 @@
     },
     {
       "album": {
+        "name": "Mawa",
+        "url": "https://open.spotify.com/album/19CtRy9IijP7sPMIhlW2ul"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Dinorath",
+          "url": "https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp"
+        },
+        {
+          "name": "Teo No Beat",
+          "url": "https://open.spotify.com/artist/4HLRxCBJE5n6Mm0sTzUEv2"
+        },
+        {
+          "name": "Was Lost Studios",
+          "url": "https://open.spotify.com/artist/10jKTGVTtMr5StHwIZq3YQ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "Mawa",
+      "url": "https://open.spotify.com/track/5bXvjd7qb3DTgEiHgxPMZH"
+    },
+    {
+      "album": {
         "name": "Voyage (Part III)",
         "url": "https://open.spotify.com/album/2YxiYrbic25u1RdERSPmoa"
       },
@@ -6102,7 +6150,7 @@
       ],
       "date_added": "2022-03-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 217301,
       "name": "PAPI",
       "url": "https://open.spotify.com/track/70FTIbOX3uHbojVi37Rk6K"
@@ -7302,7 +7350,7 @@
       ],
       "date_added": "2022-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 159157,
       "name": "Si Ki Min Kr\u00e8",
       "url": "https://open.spotify.com/track/5XG59w0v2cDzu4Al2xcUMl"
@@ -7702,7 +7750,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 221657,
       "name": "Super-Her\u00f3i",
       "url": "https://open.spotify.com/track/0B0DFbzd9AJvTB0rYNK7Cv"
@@ -7768,6 +7816,24 @@
       "duration_ms": 238641,
       "name": "Ta fazer",
       "url": "https://open.spotify.com/track/685ACRruMNaRg7fvTi3UFA"
+    },
+    {
+      "album": {
+        "name": "Tamu Numa",
+        "url": "https://open.spotify.com/album/5Bs0buHAWwayzsMLT0gF66"
+      },
+      "artists": [
+        {
+          "name": "Ronaldo Fernandes",
+          "url": "https://open.spotify.com/artist/47LXVWC7NdpaeeRruejUZu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Tamu Numa",
+      "url": "https://open.spotify.com/track/0Fgdh3VyT4Fpzkyk0TC96P"
     },
     {
       "album": {

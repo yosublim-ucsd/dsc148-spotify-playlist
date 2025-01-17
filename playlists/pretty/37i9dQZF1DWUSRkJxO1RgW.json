@@ -1,6 +1,6 @@
 {
   "description": "Canciones que marcaron la d\u00e9cada de los 80s en Argentina.",
-  "num_followers": 295875,
+  "num_followers": 295922,
   "original_name": "Los 80 Argentina",
   "owner": {
     "name": "Spotify",
@@ -251,6 +251,22 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
+        "name": "Nada Personal (Remastered)",
+        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 198106,
+      "name": "Juegos De Seducci\u00f3n - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
         "name": "Garc\u00eda 87/93",
         "url": "https://open.spotify.com/album/7yNFDuCsXe2P0DSenIMKxk"
       },
@@ -267,22 +283,6 @@
       "duration_ms": 255266,
       "name": "Hablando a Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/3k9dGCm2R2Y70e87aMHYC3"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
-        "name": "Nada Personal (Remastered)",
-        "url": "https://open.spotify.com/album/0hyq754QnaKHYpH32QnWqs"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 198106,
-      "name": "Juegos De Seducci\u00f3n - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/39YibHWQJLIgjQ0xWKlq6t"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -399,22 +399,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
-        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/62ZroX9gLL60Tg6VcF2tIN"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "Parte De La Religion",
         "url": "https://open.spotify.com/album/4MrFVzdNEgxfZbJyC2RQt9"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 282840,
       "name": "Buscando un S\u00edmbolo de Paz",
       "url": "https://open.spotify.com/track/1pLQZ6MwbYaLqzJT3imTBU"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "Me Ver\u00e1s Volver (Hits & M\u00e1s)",
+        "url": "https://open.spotify.com/album/0IkprxBZTCQhSry1AsDxcb"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Tr\u00e1tame Suavemente - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/62ZroX9gLL60Tg6VcF2tIN"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -511,22 +511,6 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Soda Stereo (Remastered)",
-        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
-      },
-      "artists": [
-        {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
-        }
-      ],
-      "duration_ms": 140346,
-      "name": "Por Qu\u00e9 No Puedo Ser Del Jet Set? - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg"
-    },
-    {
-      "added_at": "2024-06-12 23:29:42",
-      "album": {
         "name": "Aire De Todos - Antolog\u00eda 1984 - 1986",
         "url": "https://open.spotify.com/album/6zCNQqjrz7Z5WTV0BTgyHV"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 264120,
       "name": "La Calle Es Su Lugar",
       "url": "https://open.spotify.com/track/1MHNs42ZBA91ONnGjwmjyG"
+    },
+    {
+      "added_at": "2024-06-12 23:29:42",
+      "album": {
+        "name": "Soda Stereo (Remastered)",
+        "url": "https://open.spotify.com/album/3i4nU0OIi7gMmXDEhG9ZRt"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 140346,
+      "name": "Por Qu\u00e9 No Puedo Ser Del Jet Set? - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/2JD91cpdSGoNh9K50GmByg"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -879,26 +879,18 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Coraz\u00f3n Americano",
-        "url": "https://open.spotify.com/album/4Rq7IfvTdpx1jNTkLkEXZS"
+        "name": "Cosm\u00e9ticos",
+        "url": "https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm"
       },
       "artists": [
         {
-          "name": "Mercedes Sosa",
-          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
-        },
-        {
-          "name": "Milton Nascimento",
-          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
-        },
-        {
-          "name": "Le\u00f3n Gieco",
-          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
+          "name": "Cosm\u00e9ticos",
+          "url": "https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon"
         }
       ],
-      "duration_ms": 345080,
-      "name": "Volver A Los 17 - Live In Argentina / 1984",
-      "url": "https://open.spotify.com/track/2N9y942Xz3zsgEDbIzs1Mz"
+      "duration_ms": 253533,
+      "name": "Hu Na Na",
+      "url": "https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69"
     },
     {
       "added_at": "2024-06-12 23:29:42",
@@ -951,18 +943,26 @@
     {
       "added_at": "2024-06-12 23:29:42",
       "album": {
-        "name": "Cosm\u00e9ticos",
-        "url": "https://open.spotify.com/album/3Ki7ckiDv5Zap63EzE9Rgm"
+        "name": "Coraz\u00f3n Americano",
+        "url": "https://open.spotify.com/album/4Rq7IfvTdpx1jNTkLkEXZS"
       },
       "artists": [
         {
-          "name": "Cosm\u00e9ticos",
-          "url": "https://open.spotify.com/artist/4YlmyiU4Olst2QprHp6kon"
+          "name": "Mercedes Sosa",
+          "url": "https://open.spotify.com/artist/2HvyR5FsU37QMqVzIbGwl7"
+        },
+        {
+          "name": "Milton Nascimento",
+          "url": "https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM"
+        },
+        {
+          "name": "Le\u00f3n Gieco",
+          "url": "https://open.spotify.com/artist/5yoimVE1rbc3kAx4uwr7eq"
         }
       ],
-      "duration_ms": 253533,
-      "name": "Hu Na Na",
-      "url": "https://open.spotify.com/track/6lwE6EKCkENIGvSgcu0s69"
+      "duration_ms": 345080,
+      "name": "Volver A Los 17 - Live In Argentina / 1984",
+      "url": "https://open.spotify.com/track/2N9y942Xz3zsgEDbIzs1Mz"
     },
     {
       "added_at": "2024-06-12 23:29:42",

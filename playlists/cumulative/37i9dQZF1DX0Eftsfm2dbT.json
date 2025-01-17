@@ -1428,7 +1428,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 215013,
       "name": "All In (feat. Loar, DADA & AMO)",
       "url": "https://open.spotify.com/track/4vP6CWDPUsZdXL3S8J2Ssx"
@@ -3682,7 +3682,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 207272,
       "name": "BORRACHO (Prod.\u8d77\u4e00)",
       "url": "https://open.spotify.com/track/2HcEqca5s3DwZoH4RLXs5i"
@@ -6156,7 +6156,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 152912,
       "name": "Do It For Ya (feat. INMAN)",
       "url": "https://open.spotify.com/track/1L1N2tmWJ3hsWeKjuan7zv"
@@ -6344,7 +6344,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 214816,
       "name": "DOGENZAKA (feat. Bene Baby)",
       "url": "https://open.spotify.com/track/2XytvPolq9rcverevqBl1b"
@@ -7820,6 +7820,32 @@
       "duration_ms": 207891,
       "name": "Faith",
       "url": "https://open.spotify.com/track/7sqwJzIs9H5wPVPnqKur9J"
+    },
+    {
+      "album": {
+        "name": "FALL FORWARD",
+        "url": "https://open.spotify.com/album/7rlEn21UsQIl7WvXuXeHvT"
+      },
+      "artists": [
+        {
+          "name": "MIKI",
+          "url": "https://open.spotify.com/artist/0pOa1ha7P61nwkJRedUjVj"
+        },
+        {
+          "name": "Hannya",
+          "url": "https://open.spotify.com/artist/42ptkP1SS9arSLyX0ECcQF"
+        },
+        {
+          "name": "PAX",
+          "url": "https://open.spotify.com/artist/6ald1niy8OkAEUGvm50aOh"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168175,
+      "name": "FALL FORWARD",
+      "url": "https://open.spotify.com/track/4G345Ti233JJTI0sE8PfrB"
     },
     {
       "album": {
@@ -12374,10 +12400,28 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 201480,
       "name": "Kawai!",
       "url": "https://open.spotify.com/track/3LCVJX1UaoM5zHsqbwYXZh"
+    },
+    {
+      "album": {
+        "name": "The Only Way",
+        "url": "https://open.spotify.com/album/2l09JWRW4xPi3J9kFHiSqp"
+      },
+      "artists": [
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201480,
+      "name": "Kawai!",
+      "url": "https://open.spotify.com/track/3OqIulVjB1V14i51yagU1A"
     },
     {
       "album": {
@@ -16328,6 +16372,28 @@
       "duration_ms": 137806,
       "name": "New Balance",
       "url": "https://open.spotify.com/track/2ZH6YXI0oN0cY2PmT5uKru"
+    },
+    {
+      "album": {
+        "name": "New Beginning",
+        "url": "https://open.spotify.com/album/0obumlynBen817K4JGskeU"
+      },
+      "artists": [
+        {
+          "name": "TIGHT a.k.a. REKKO",
+          "url": "https://open.spotify.com/artist/0vVNQoHRf2dVhdgJG6X32u"
+        },
+        {
+          "name": "CHICO CARLITO",
+          "url": "https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "New Beginning (feat. CHICO CARLITO)",
+      "url": "https://open.spotify.com/track/5CLH9NFEVVhkfoDf5anLWv"
     },
     {
       "album": {
@@ -22431,6 +22497,24 @@
     },
     {
       "album": {
+        "name": "The Only Way",
+        "url": "https://open.spotify.com/album/2l09JWRW4xPi3J9kFHiSqp"
+      },
+      "artists": [
+        {
+          "name": "Only U",
+          "url": "https://open.spotify.com/artist/7p5yGL3yNq2pqUUKvt2vnt"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169216,
+      "name": "Spit!",
+      "url": "https://open.spotify.com/track/5x3wle4zQdhiSBu937UflS"
+    },
+    {
+      "album": {
         "name": "SWEET HE\u2661RT",
         "url": "https://open.spotify.com/album/55QqeroaRqbgA9wp4mIQHo"
       },
@@ -24374,6 +24458,32 @@
       "duration_ms": 147043,
       "name": "Too Many",
       "url": "https://open.spotify.com/track/5JDCusdjHsaxwHEelSO1Rj"
+    },
+    {
+      "album": {
+        "name": "SESSIONS COLLECTION VOL.2",
+        "url": "https://open.spotify.com/album/4WK9MsYz5RL6tH2V1RiPcA"
+      },
+      "artists": [
+        {
+          "name": "Tokyo Community Radio",
+          "url": "https://open.spotify.com/artist/07CaXB3DGJ32RvPWqFsmig"
+        },
+        {
+          "name": "Licaxxx",
+          "url": "https://open.spotify.com/artist/2u7KzLObg2wxMYkxQ5OAhR"
+        },
+        {
+          "name": "ShowyRENZO",
+          "url": "https://open.spotify.com/artist/1MLMBTcgBXus7IgbvLaoP4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194685,
+      "name": "Too much",
+      "url": "https://open.spotify.com/track/2Q6WURyK7Ss80URjWE7LbP"
     },
     {
       "album": {
@@ -28434,7 +28544,7 @@
       ],
       "date_added": "2024-11-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 224794,
       "name": "\u518d\u5468\u56de",
       "url": "https://open.spotify.com/track/1g2lrE0CafBvcsjiiBbEor"
@@ -28938,6 +29048,24 @@
       "duration_ms": 225778,
       "name": "\u611b\u3092\u3055\u308f\u308c\u305f\u3089",
       "url": "https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D"
+    },
+    {
+      "album": {
+        "name": "\u611b\u3092\u30b1\u30c1\u308b\u306a\u3088",
+        "url": "https://open.spotify.com/album/4XEBoS0f3CqZKitD0i9IHQ"
+      },
+      "artists": [
+        {
+          "name": "ELIONE",
+          "url": "https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203424,
+      "name": "\u611b\u3092\u30b1\u30c1\u308b\u306a\u3088",
+      "url": "https://open.spotify.com/track/55jN9vcsCbVd7uWQ0Md23D"
     },
     {
       "album": {
@@ -29926,7 +30054,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 261010,
       "name": "\u98db\u9ce5",
       "url": "https://open.spotify.com/track/7oTz1gtm5LwsV5N59jfuRF"

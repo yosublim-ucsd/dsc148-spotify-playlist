@@ -2,9 +2,9 @@
 
 ### [Hiturile de azi](https://open.spotify.com/playlist/37i9dQZF1DWXEZONYtiyqo)
 
-> Cele mai noi hituri pop românești\. Cover: Mario Fresh
+> Cele mai noi hituri pop românești\. Cover: Radu Stefan Banica, Misha Miller
 
-164 songs - 7 hr 47 min
+166 songs - 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Ce Ai Tu](https://open.spotify.com/track/2smTp3HLaTaUVG77DrYezY) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59) | [Ce Ai Tu](https://open.spotify.com/album/66JpgoE6ae929knJbvymNG) | 2:43 | 2024-06-27 | 2024-07-05 |
 | [Ce bine e](https://open.spotify.com/track/5yVS2Qxsky57IzHvbgc2ps) | [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Ce bine e](https://open.spotify.com/album/2wb4aK4eaNVyCcyQFytkZ0) | 2:49 | 2024-06-27 | 2024-07-05 |
 | [Ce vrei sa\-mi spui?](https://open.spotify.com/track/6x8m6PfICG8YO4QjFWZRwW) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Azteca](https://open.spotify.com/artist/5ysOQVQHHU9GJZBKmZMRHv) | [Ce vrei sa\-mi spui?](https://open.spotify.com/album/6C0uU7Sa24TaHzLwoBXrba) | 3:24 | 2024-06-27 | 2024-08-30 |
+| [Cele doua cuvinte](https://open.spotify.com/track/7e8VH12EC1KZGQc4ZwNfFv) | [Radu Stefan Banica](https://open.spotify.com/artist/52jEJDX313iC62ZgWdvrp1), [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp) | [Cele doua cuvinte](https://open.spotify.com/album/4qqUblnJNDW86GQyEbC52T) | 2:30 | 2025-01-16 |  |
 | [Cenușăreaso](https://open.spotify.com/track/63vAGBl8LbaEjMhAvZysFo) | [ADDA](https://open.spotify.com/artist/1lYjAYTw1QBVxIwVrZ1eTy) | [Cenușăreaso](https://open.spotify.com/album/7wvwQYMqixR49p8UVsi6ij) | 3:09 | 2024-09-19 | 2024-10-25 |
 | [Cerul](https://open.spotify.com/track/2eDzUqD9Lzq54IiH5nwqJR) | [Emilian](https://open.spotify.com/artist/3jPbwZEofynIfjPNLrXTwd), [RENVTØ](https://open.spotify.com/artist/6dOVLJkdeIanQ5atoUbwZR) | [Cerul](https://open.spotify.com/album/3u0KID3tzWUtK2zm1SDMXW) | 3:02 | 2024-06-27 | 2024-08-09 |
 | [Cerule](https://open.spotify.com/track/4ZeSr0aitBN1EizbCRSJAM) | [Olivia Addams](https://open.spotify.com/artist/56o9EclNeDcE7p8txENfLn), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Cerule](https://open.spotify.com/album/13AqB7Um8RDiGbqIHHeMdg) | 2:37 | 2024-10-24 |  |
@@ -93,6 +94,7 @@
 | [Lângă tine](https://open.spotify.com/track/0mSWgUPuFoEI0Exf6BKvzS) | [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Lângă tine](https://open.spotify.com/album/6BpKM3Hx2VeNwsKZ2dFSXH) | 2:53 | 2024-06-27 | 2024-08-02 |
 | [LÂNGĂ TINE E FAIN](https://open.spotify.com/track/4mNnUpzpOMqBdnew4wbB9x) | [Kamelia](https://open.spotify.com/artist/5eTYZk0BrCzlQ1JiLRSwW1), [George Hora](https://open.spotify.com/artist/4uHCVd0E4sjWhy6ipMfALw) | [LÂNGĂ TINE E FAIN](https://open.spotify.com/album/3MD8csHCBSfPrHcwxuSikh) | 2:46 | 2024-11-21 |  |
 | [Mai frumoasă](https://open.spotify.com/track/2vE8U48UhRlLKyQvNM9Kqp) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Mai frumoasă](https://open.spotify.com/album/1Q1NpQ3hluy4lde1v0fvwx) | 2:59 | 2024-09-19 | 2024-12-13 |
+| [Mama](https://open.spotify.com/track/3LkaUnPSf49MvnmSKj25AM) | [David Ciente](https://open.spotify.com/artist/2x33Tw2x7KbILr1FIh92O2), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Surorile Osoianu](https://open.spotify.com/artist/188AtEwri19eMLJekHmCVE) | [Mama](https://open.spotify.com/album/6SGobsq37sSVRfnoNRXarz) | 3:14 | 2025-01-16 |  |
 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 | 2024-11-07 |  |
 | [Momentu’](https://open.spotify.com/track/52kDCWnqVOwnU9weX3Khj7) | [PETRA](https://open.spotify.com/artist/1LDfQtGPCUSccCi58TsM2t), [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF) | [Momentu’](https://open.spotify.com/album/5dSKoJTuGSFsrVBv9U6Ov0) | 3:00 | 2024-08-29 | 2024-11-15 |
 | [Mon Amour](https://open.spotify.com/track/1KEPKvUUcD6xzDjRr66zix) | [Carine](https://open.spotify.com/artist/5EADzWzO9nhqVZdNW7hrBi) | [Mon Amour](https://open.spotify.com/album/5YSbInc3BAz30S8gtfKxYy) | 2:43 | 2024-07-18 | 2024-08-09 |
@@ -106,7 +108,7 @@
 | [No Plan \- Yo](https://open.spotify.com/track/426EQYakBJ0OxDqpODtBiB) | [Holy Molly](https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK) | [No Plan \(Yo\)](https://open.spotify.com/album/6ohx9fQRjPxDphtPwgGyob) | 2:55 | 2024-09-12 | 2024-11-08 |
 | [Noaptea ne fură iubiri](https://open.spotify.com/track/7FWtSZefQHwgo6SJha7U0B) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Andrei Ursu](https://open.spotify.com/artist/2ej9sGNpApicrgDhJkcPeW) | [Noaptea ne fură iubiri](https://open.spotify.com/album/6w8ToTBQfwsY7NqNgDUmHP) | 2:46 | 2024-06-27 | 2024-08-16 |
 | [Nopțile](https://open.spotify.com/track/1edVyy7z6tX1Bmt0N6W8iL) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7) | [Nopțile](https://open.spotify.com/album/4I6h7ZrckdYbDboIf9BY0D) | 2:33 | 2024-06-27 | 2024-09-27 |
-| [Nostalgia de Crăciun](https://open.spotify.com/track/3ZHiSIJosF9IByR1BBXEuk) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Nostalgia de Crăciun](https://open.spotify.com/album/0zb277H0AiXjzFhSuWrNLW) | 3:16 | 2024-12-19 |  |
+| [Nostalgia de Crăciun](https://open.spotify.com/track/3ZHiSIJosF9IByR1BBXEuk) | [AMI](https://open.spotify.com/artist/6ZQhxROkDyYGsijIBDBrhF) | [Nostalgia de Crăciun](https://open.spotify.com/album/0zb277H0AiXjzFhSuWrNLW) | 3:16 | 2024-12-19 | 2025-01-17 |
 | [Nu mai am pentru tine](https://open.spotify.com/track/5Qg44TP2YxRJNtGekdtgxd) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [Nu mai am pentru tine](https://open.spotify.com/album/1Mr0ZbnoXRkBEKRMV7EKlX) | 2:45 | 2024-12-12 |  |
 | [Nu mă lași să te las](https://open.spotify.com/track/6uRuXkzTwPoSqcAED4ygML) | [Alessandra](https://open.spotify.com/artist/70vx3HiFmZozTbVXsBoOiV), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Până la final și mai departe](https://open.spotify.com/album/0VTaNyrHW5Mw19x38zAQYQ) | 2:29 | 2024-11-07 |  |
 | [Nu mă întorc \- 12.09.2024](https://open.spotify.com/track/5WeWg0JVLdnkhL5RFKYz9L) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Nu mă întorc \(12.09.2024\)](https://open.spotify.com/album/2aO2y90P1cnZGZE6DNcfIG) | 3:18 | 2024-12-19 |  |
@@ -119,7 +121,7 @@
 | [O șansă](https://open.spotify.com/track/3K6rMELWeXeij9ElXQPQKf) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [O șansă](https://open.spotify.com/album/5iEhZpaC3aM4hf4AFBrFqd) | 3:19 | 2024-08-01 | 2024-08-30 |
 | [O, brad faimos](https://open.spotify.com/track/2Ru51wqn1WxwZaWRZWvjn2) | [Iuliana Beregoi](https://open.spotify.com/artist/6nNfOfgm69ASAI4UM8Xaym) | [O, brad faimos](https://open.spotify.com/album/4gvXXxpCIhLSJJ16lVR7eN) | 3:01 | 2024-11-28 |  |
 | [Ocean](https://open.spotify.com/track/7KhsMhVHzTgOkkmOQhqkfp) | [Alexandra Stan](https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL) | [Ocean](https://open.spotify.com/album/7a1MHZhCaZ4EiEeR4rTQsl) | 2:52 | 2024-08-08 | 2024-09-20 |
-| [Orice drum duce acasă](https://open.spotify.com/track/0IVutpfE8ayYpnr0XfbU6o) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Orice drum duce acasă](https://open.spotify.com/album/0CkYzw7KgsfypX4lL88IBx) | 4:11 | 2024-12-19 |  |
+| [Orice drum duce acasă](https://open.spotify.com/track/0IVutpfE8ayYpnr0XfbU6o) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Andrei Banuta](https://open.spotify.com/artist/7rtpTWA4CYQOAvg9GD2Xr2) | [Orice drum duce acasă](https://open.spotify.com/album/0CkYzw7KgsfypX4lL88IBx) | 4:11 | 2024-12-19 | 2025-01-17 |
 | [Paharul sus](https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh) | [Nicole Cherry](https://open.spotify.com/artist/6rgOaYJps51uMmUyzm5fi7), [Puya](https://open.spotify.com/artist/0Dn3AfYwq9cWRhDqtfelNE) | [Paharul sus](https://open.spotify.com/album/7bzdS7NDvKKveYuARtUx2Z) | 2:49 | 2024-06-27 | 2024-07-12 |
 | [Parfum de damă](https://open.spotify.com/track/3UPJ2sj2n7TW3yP5MYC2G2) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl), [Andra](https://open.spotify.com/artist/72FGvJgYbs0NBeJqECy6cF) | [Parfum de damă](https://open.spotify.com/album/6gwMS6wfSfdfqRBZBtmnVE) | 2:19 | 2024-10-31 | 2024-11-22 |
 | [Pe Repeat](https://open.spotify.com/track/6hSSAvIz88joRoZjgtVClV) | [Connect\-R](https://open.spotify.com/artist/1omKDrKCcMD79tfK8Vb2Hr), [Raluka](https://open.spotify.com/artist/4HLg5QDhyfOhneoTO9Id5U), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [Pe Repeat](https://open.spotify.com/album/4t6lLo1mgmi3ywffM7Rjoz) | 2:48 | 2024-07-25 | 2024-09-27 |

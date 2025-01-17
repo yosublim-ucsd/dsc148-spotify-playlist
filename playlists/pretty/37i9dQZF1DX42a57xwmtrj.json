@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 179399,
+  "num_followers": 179470,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -415,22 +415,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "15 Rolitas de Amor, Vol. 7",
-        "url": "https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt"
-      },
-      "artists": [
-        {
-          "name": "Perro Callejero",
-          "url": "https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX"
-        }
-      ],
-      "duration_ms": 285080,
-      "name": "Yo Quiero Ser",
-      "url": "https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 212520,
       "name": "En Dos",
       "url": "https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "15 Rolitas de Amor, Vol. 7",
+        "url": "https://open.spotify.com/album/2Y46Nv8WCalJxXUVIR8Pnt"
+      },
+      "artists": [
+        {
+          "name": "Perro Callejero",
+          "url": "https://open.spotify.com/artist/4Y8TTjTn6nOmrSvmpb6ISX"
+        }
+      ],
+      "duration_ms": 285080,
+      "name": "Yo Quiero Ser",
+      "url": "https://open.spotify.com/track/1dU383l2TLND7OfsFzSbrE"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -639,18 +639,18 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
+        "name": "Todos Estos A\u00f1os, Vol. 1",
+        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
       },
       "artists": [
         {
-          "name": "California Blues",
-          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
         }
       ],
-      "duration_ms": 186493,
-      "name": "Y Como Es \u00c9l",
-      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
+      "duration_ms": 256394,
+      "name": "Vaquero Rockanrolero",
+      "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -687,34 +687,18 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Todos Estos A\u00f1os, Vol. 1",
-        "url": "https://open.spotify.com/album/4lHRifIJTWpdoRUiUj8Hg9"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5MPP3YL3rZgYG5Bl6iJxha"
       },
       "artists": [
         {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+          "name": "California Blues",
+          "url": "https://open.spotify.com/artist/6T2x1Mz4MTYr3R8evdSDxn"
         }
       ],
-      "duration_ms": 256394,
-      "name": "Vaquero Rockanrolero",
-      "url": "https://open.spotify.com/track/2l1PEUGKaO5uD2nnf3eNV7"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "Caf\u00e9 Tacvba",
-        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 228693,
-      "name": "La chica banda",
-      "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
+      "duration_ms": 186493,
+      "name": "Y Como Es \u00c9l",
+      "url": "https://open.spotify.com/track/6ZRnVnjp57UMZPQqVLMZgS"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -731,6 +715,22 @@
       "duration_ms": 254466,
       "name": "Viajero",
       "url": "https://open.spotify.com/track/4BcyzKRntkAaECtW1iZlcO"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Caf\u00e9 Tacvba",
+        "url": "https://open.spotify.com/album/4nTUHZSed3ZiQjKs8f5Zbr"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 228693,
+      "name": "La chica banda",
+      "url": "https://open.spotify.com/track/5fckoQosqCX9xJvHlwITY8"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -1075,6 +1075,22 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
+      },
+      "artists": [
+        {
+          "name": "Sam Sam",
+          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
+        }
+      ],
+      "duration_ms": 336200,
+      "name": "Silvia",
+      "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "Noticia Punk (Remasterizada)",
         "url": "https://open.spotify.com/album/4yXuYGgh54H2R5EjELCRA5"
       },
@@ -1103,22 +1119,6 @@
       "duration_ms": 247453,
       "name": "Los Versos de la Catrina",
       "url": "https://open.spotify.com/track/2vrAYVaAM7VuEyhA0xgmT7"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "15 Rolitas de Amor",
-        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
-      },
-      "artists": [
-        {
-          "name": "Sam Sam",
-          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
-        }
-      ],
-      "duration_ms": 336200,
-      "name": "Silvia",
-      "url": "https://open.spotify.com/track/130MYoc4M7pSTEdelFPq6F"
     },
     {
       "added_at": "2025-01-03 06:00:19",

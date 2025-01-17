@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Mario Fresh",
+  "description": "Cele mai noi hituri pop rom\u00e2ne\u0219ti. Cover: Radu Stefan Banica, Misha Miller",
   "name": "Hiturile de azi",
   "tracks": [
     {
@@ -572,6 +572,28 @@
       "duration_ms": 204800,
       "name": "Ce vrei sa-mi spui?",
       "url": "https://open.spotify.com/track/6x8m6PfICG8YO4QjFWZRwW"
+    },
+    {
+      "album": {
+        "name": "Cele doua cuvinte",
+        "url": "https://open.spotify.com/album/4qqUblnJNDW86GQyEbC52T"
+      },
+      "artists": [
+        {
+          "name": "Radu Stefan Banica",
+          "url": "https://open.spotify.com/artist/52jEJDX313iC62ZgWdvrp1"
+        },
+        {
+          "name": "Misha Miller",
+          "url": "https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "Cele doua cuvinte",
+      "url": "https://open.spotify.com/track/7e8VH12EC1KZGQc4ZwNfFv"
     },
     {
       "album": {
@@ -1679,6 +1701,32 @@
     },
     {
       "album": {
+        "name": "Mama",
+        "url": "https://open.spotify.com/album/6SGobsq37sSVRfnoNRXarz"
+      },
+      "artists": [
+        {
+          "name": "David Ciente",
+          "url": "https://open.spotify.com/artist/2x33Tw2x7KbILr1FIh92O2"
+        },
+        {
+          "name": "Irina Rimes",
+          "url": "https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj"
+        },
+        {
+          "name": "Surorile Osoianu",
+          "url": "https://open.spotify.com/artist/188AtEwri19eMLJekHmCVE"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194437,
+      "name": "Mama",
+      "url": "https://open.spotify.com/track/3LkaUnPSf49MvnmSKj25AM"
+    },
+    {
+      "album": {
         "name": "Maria, Maria",
         "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
       },
@@ -1944,7 +1992,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 196363,
       "name": "Nostalgia de Cr\u0103ciun",
       "url": "https://open.spotify.com/track/3ZHiSIJosF9IByR1BBXEuk"
@@ -2206,7 +2254,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 251076,
       "name": "Orice drum duce acas\u0103",
       "url": "https://open.spotify.com/track/0IVutpfE8ayYpnr0XfbU6o"

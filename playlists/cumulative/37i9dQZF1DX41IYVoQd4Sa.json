@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 245100,
       "name": "\u05d0\u05d4\u05d1\u05d4 \u05e2\u05e6\u05de\u05d9\u05ea",
       "url": "https://open.spotify.com/track/08TPTQOABGnurZCPdk4nXd"
@@ -1308,6 +1308,24 @@
       "duration_ms": 201004,
       "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
       "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
+    },
+    {
+      "album": {
+        "name": "\u05d3\u05e0\u05d4 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05e9\u05d9\u05d5\u05e0\u05dc",
+        "url": "https://open.spotify.com/album/76seYzlYqfQroM7loKKPMQ"
+      },
+      "artists": [
+        {
+          "name": "J.Lamotta",
+          "url": "https://open.spotify.com/artist/76O0DRobXGao078KT0xci8"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170571,
+      "name": "\u05d3\u05e0\u05d4 \u05d0\u05d9\u05e0\u05d8\u05e8\u05e0\u05e9\u05d9\u05d5\u05e0\u05dc",
+      "url": "https://open.spotify.com/track/4CJD1r9Iyy96HUv5DgYgEu"
     },
     {
       "album": {
@@ -2719,6 +2737,24 @@
     },
     {
       "album": {
+        "name": "\u05de\u05d9\u05dd \u05e2\u05dc \u05d4\u05e1\u05dc\u05e2",
+        "url": "https://open.spotify.com/album/3jLR8IBnfPjfkZTyYY0TB2"
+      },
+      "artists": [
+        {
+          "name": "Yali Sobol",
+          "url": "https://open.spotify.com/artist/3cPFiAwdwlzCq7gBVIlBfa"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236613,
+      "name": "\u05e1\u05d5\u05e3 \u05de\u05e9\u05d7\u05e7",
+      "url": "https://open.spotify.com/track/7EuIv6aW0ZEBo3HzUADXyt"
+    },
+    {
+      "album": {
         "name": "\u05e1\u05d9\u05de\u05df \u05d8\u05d5\u05d1",
         "url": "https://open.spotify.com/album/3BQnNgoc56WMXnUYEZmRwX"
       },
@@ -2952,7 +2988,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 183921,
       "name": "\u05e6\u05e2\u05d9\u05e3",
       "url": "https://open.spotify.com/track/4ahE0ztGegKkWDgqpzuhaT"

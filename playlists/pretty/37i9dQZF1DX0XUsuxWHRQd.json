@@ -1,12 +1,12 @@
 {
   "description": "Music from Lil Baby,  Kendrick Lamar and Offset. ",
-  "num_followers": 16118026,
+  "num_followers": 16118432,
   "original_name": "RapCaviar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4a2VwAAAAAU2/mY1BatZQw5M/k8u5OT",
+  "snapshot_id": "Z4iSbgAAAADKo3HOwp+XyFvxPKYk9bJB",
   "tracks": [
     {
       "added_at": "2025-01-14 19:09:11",
@@ -167,6 +167,26 @@
       "duration_ms": 138180,
       "name": "Gang Baby",
       "url": "https://open.spotify.com/track/76Ku9OBFK1NjMylR8r4WLK"
+    },
+    {
+      "added_at": "2025-01-16 05:00:30",
+      "album": {
+        "name": "The Documentary",
+        "url": "https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "50 Cent",
+          "url": "https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh"
+        }
+      ],
+      "duration_ms": 206400,
+      "name": "Hate It Or Love It",
+      "url": "https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R"
     },
     {
       "added_at": "2025-01-14 19:09:11",

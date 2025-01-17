@@ -2,9 +2,9 @@
 
 ### [RADAR FRANCE](https://open.spotify.com/playlist/37i9dQZF1DWWNlI0CRgWup)
 
-> Découvrez les nouveautés des artistes RADAR France\. Photo : Miki
+> Découvrez les nouveautés des artistes RADAR France\. Photo : Sherifflazone
 
-193 songs - 9 hr 59 min
+196 songs - 10 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [C'est comme le Soleil](https://open.spotify.com/track/6FLq3GelXxESTfa85EXgix) | [Beendo Z](https://open.spotify.com/artist/7a35Zdc78bDXJv2vYf5hSO) | [C'est comme le Soleil](https://open.spotify.com/album/1kcynhYaNJNSAsE7rkrNs9) | 3:21 | 2022-04-14 | 2022-09-30 |
 | [C'est toi \- Bonus](https://open.spotify.com/track/40EplL61w6x2axuhf9WXTT) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [C'est toi \(Bonus\)](https://open.spotify.com/album/1m9ChT2dnhqqXSdkzsR9P4) | 2:11 | 2023-10-13 | 2023-11-18 |
 | [C'est toi \- Bonus](https://open.spotify.com/track/2lsYd6ZDRrV2W3CT4FcXaC) | [Ronisia](https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV) | [era 24](https://open.spotify.com/album/1Owd1dHKk0BH8gKtWH7KPL) | 2:13 | 2024-01-18 | 2024-03-12 |
+| [CAVALE! CAVALE!](https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT) | [THÉA](https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL) | [CAVALE! CAVALE!](https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ) | 2:29 | 2025-01-16 |  |
 | [CE QUE LE PIPS DEMANDE \- A COLORS SHOW](https://open.spotify.com/track/6vnFX4F6QdMX8LN1pwsrfE) | [Benjamin Epps](https://open.spotify.com/artist/2quhaEEtVvUNS0HwL1EJNn) | [CE QUE LE PIPS DEMANDE \- A COLORS SHOW](https://open.spotify.com/album/3RYuX3dqqAsDsvenKA75TF) | 3:30 | 2022-02-03 | 2022-04-15 |
 | [Celui qui part](https://open.spotify.com/track/3iJQzmcPnLrTC7WOQ2kYUt) | [Joseph Kamel](https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI) | [Celui qui part](https://open.spotify.com/album/2I7XAd8CHqNXmuIf6jUnMe) | 2:34 | 2023-09-08 |  |
 | [Cendrier](https://open.spotify.com/track/4YEU26a5jxNdgMZZyKcqbv) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Cendrier](https://open.spotify.com/album/7eoZifUGGHBHRgIP0U0mqu) | 3:24 | 2024-01-18 | 2024-03-12 |
@@ -100,6 +101,7 @@
 | [Kisé](https://open.spotify.com/track/29lLqXN6gPZv4Ol92YmkRn) | [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [Kisé](https://open.spotify.com/album/2TR6TpIejD4LrZQW7476c1) | 2:10 | 2022-03-24 | 2022-06-11 |
 | [Kodek](https://open.spotify.com/track/1heVHvWk8pSxpyXQgj5y7M) | [15 15](https://open.spotify.com/artist/2SWMwDn0bu2QcXwBWznf5u) | [Kodek](https://open.spotify.com/album/4w48yDok6G3U1fxEI0ebKB) | 3:38 | 2023-09-08 | 2023-11-18 |
 | [L'angle mort](https://open.spotify.com/track/6iI71ISS7X0T5nHHRYyjG9) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [L'angle mort](https://open.spotify.com/album/4CK0HSqv3dn1WfO0owPk28) | 2:22 | 2023-04-11 |  |
+| [L'idée de toi](https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9) | [Satine](https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B) | [L'idée de toi](https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf) | 2:02 | 2025-01-16 |  |
 | [L'incendie](https://open.spotify.com/track/0YofBGEEMMQGidD3sQcqvp) | [Yuzmv](https://open.spotify.com/artist/1cYA2rnKwpVYe9iVH3Djjm) | [Gardien du Labyrinthe](https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ) | 3:12 | 2024-04-10 |  |
 | [L'intime & le monde](https://open.spotify.com/track/4gjIWbgt4XfRiuNjC09Xo6) | [Noé Preszow](https://open.spotify.com/artist/6CZhbpXpR3VJNQWFkwd2Ic) | [\[prèchof\]](https://open.spotify.com/album/2aBKPRAq1UDHecxexXz0lq) | 3:39 | 2024-04-10 |  |
 | [La Macarena](https://open.spotify.com/track/6N8ja8D3Ay52DnGDLKdrHX) | [Janie](https://open.spotify.com/artist/2WSFLb1izcqFnU9KakhCnU) | [Toujours des fleurs \(Version deluxe\)](https://open.spotify.com/album/1UK0794RKtEfbCRhUV2yRj) | 3:07 | 2022-03-24 | 2022-04-15 |
@@ -164,6 +166,7 @@
 | [Se dire au revoir](https://open.spotify.com/track/5ifm6TYmhqQIOJ22aC7o2n) | [Coline Rio](https://open.spotify.com/artist/0avwZ2v9jOgVLB1IfimwdA) | [Lourd et délicat](https://open.spotify.com/album/50Noq1sF7XhHPSqDJv80vQ) | 3:04 | 2022-06-17 | 2022-11-25 |
 | [SEULE \(AGAIN\)](https://open.spotify.com/track/5jHthJFk8TMUGDy532jiof) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [NISHATI](https://open.spotify.com/album/6Rl0Xb0LQKQjcFbtiptz1f) | 2:58 | 2024-04-10 |  |
 | [Shelter \- Edit](https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd) | [Astral Bakers](https://open.spotify.com/artist/6VUpGE6ErMWwqZGepBWc0D) | [Shelter](https://open.spotify.com/album/50xN7YSNYBK1qwRb0pfldN) | 4:26 | 2023-10-04 | 2024-01-19 |
+| [SHERIFF](https://open.spotify.com/track/0OLTRDHMkxaxG2lxj9JTWe) | [Sherifflazone](https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L) | [SHERIFF](https://open.spotify.com/album/3p511CfQ01Bltq9XD4l1II) | 2:10 | 2025-01-16 |  |
 | [Si bien du mal](https://open.spotify.com/track/7cch3mlEo2IfYgyrjyDwFv) | [Hervé](https://open.spotify.com/artist/3mNXGOPYzxYiGxttEvJ9hx) | [Si bien du mal](https://open.spotify.com/album/61CY05oYakpa1dSBi6Pqxh) | 2:48 | 2021-12-02 | 2023-01-25 |
 | [si rose](https://open.spotify.com/track/2afbvWy02QHOd7PSyBp1A5) | [Oscar Anton](https://open.spotify.com/artist/1g3dAnqp218LiNN9ng5dIh), [Voyou](https://open.spotify.com/artist/0EJdA6JT738oZGopzk8Usg) | [postcard from Paris](https://open.spotify.com/album/6wRJKg7Vnp3YDtwWXRcmxr) | 3:28 | 2022-06-17 | 2022-09-30 |
 | [Solo](https://open.spotify.com/track/3bfW2D6xj3mspwxwi3ieyl) | [Stéphane](https://open.spotify.com/artist/1ONaDILNtXKICFlrBdmgif) | [Madame](https://open.spotify.com/album/55Ya1piow9PzoMfpGfswLd) | 3:15 | 2023-01-24 | 2023-09-09 |

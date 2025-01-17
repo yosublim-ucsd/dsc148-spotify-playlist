@@ -2427,24 +2427,6 @@
     },
     {
       "album": {
-        "name": "raise it up!",
-        "url": "https://open.spotify.com/album/4NCHxHtyOy9lBxeHQSCfDG"
-      },
-      "artists": [
-        {
-          "name": "grouptherapy.",
-          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
-        }
-      ],
-      "date_added": "2020-12-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 148143,
-      "name": "raise it up!",
-      "url": "https://open.spotify.com/track/0brPfanoFwTjJ22vUqsKVC"
-    },
-    {
-      "album": {
         "name": "there goes the neighborhood.",
         "url": "https://open.spotify.com/album/6rZ5PdDAAFa7oqx7nxYE49"
       },
@@ -2464,6 +2446,24 @@
       "duration_ms": 147741,
       "name": "raise it up!",
       "url": "https://open.spotify.com/track/7clpl2o5zPh8Veb1mplQgS"
+    },
+    {
+      "album": {
+        "name": "raise it up!",
+        "url": "https://open.spotify.com/album/4NCHxHtyOy9lBxeHQSCfDG"
+      },
+      "artists": [
+        {
+          "name": "PARTYOF2",
+          "url": "https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3"
+        }
+      ],
+      "date_added": "2020-12-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148143,
+      "name": "raise it up!",
+      "url": "https://open.spotify.com/track/0brPfanoFwTjJ22vUqsKVC"
     },
     {
       "album": {

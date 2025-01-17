@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125516,
+  "num_followers": 125507,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAThfFvNk71Ub5v6H56ntaWK8KqaNLu",
+  "snapshot_id": "AAATh93A9oHnrUeC+KY8aHtvQUDqVncZ",
   "tracks": [
+    {
+      "added_at": "2025-01-16 16:00:23",
+      "album": {
+        "name": "Money",
+        "url": "https://open.spotify.com/album/2II1KH1QTYVhSLdfubOaVV"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "HYO",
+          "url": "https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl"
+        }
+      ],
+      "duration_ms": 187972,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/7MorE45c2IBxEgksN84Fl2"
+    },
     {
       "added_at": "2025-01-15 15:23:38",
       "album": {
@@ -1119,46 +1139,6 @@
       "duration_ms": 137931,
       "name": "DIVA - S\u00d8L Remix",
       "url": "https://open.spotify.com/track/2z3ecxzZrkbAsIoWlb3u0I"
-    },
-    {
-      "added_at": "2024-10-09 13:42:56",
-      "album": {
-        "name": "Scorched Earth",
-        "url": "https://open.spotify.com/album/4vrG5DwAVj7PWk44B3450q"
-      },
-      "artists": [
-        {
-          "name": "Virtual Riot",
-          "url": "https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1"
-        }
-      ],
-      "duration_ms": 280800,
-      "name": "Scorched Earth",
-      "url": "https://open.spotify.com/track/0QtWkMmAvxkeZobKRyXBen"
-    },
-    {
-      "added_at": "2024-10-08 14:14:35",
-      "album": {
-        "name": "Solace",
-        "url": "https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4"
-      },
-      "artists": [
-        {
-          "name": "Shingo Nakamura",
-          "url": "https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ"
-        },
-        {
-          "name": "Mango",
-          "url": "https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w"
-        },
-        {
-          "name": "Nina Carr",
-          "url": "https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Solace",
-      "url": "https://open.spotify.com/track/2a2ue6juHldn6FAgzflCYs"
     }
   ],
   "unique_name": "New Music Weekly | Monstercat",

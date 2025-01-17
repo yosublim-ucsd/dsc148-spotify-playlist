@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/3yGp845Tz2duWCORALQHFO.md) - [plain]
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,836 likes - 47 songs - 2 hr 32 min
+[EDM Sauce](https://open.spotify.com/user/edmsauce) - 25,839 likes - 47 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Hypnotized](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
+| 1 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
 | 2 | [Act a Fool](https://open.spotify.com/track/6TFNFOLS48wPXKSkReDbDd) | [Truth Is](https://open.spotify.com/artist/5IevTLPkOgpw5aE2JTgW8U) | [Act a Fool](https://open.spotify.com/album/4d86JwdWCGr625IA9loeDA) | 3:28 |
 | 3 | [Come to My Life](https://open.spotify.com/track/2myUkzhScpsWBUjagyfi6i) | [Alex Helder](https://open.spotify.com/artist/6cbXILecQo6SFQMLQF6SD4) | [Come to My Life](https://open.spotify.com/album/0Q828T1PmUhRknWc61TRnP) | 2:50 |
 | 4 | [Lost In Loving You](https://open.spotify.com/track/3p4fWZjEKQyoW7ybknTCYv) | [ARTY](https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO), [Louis III](https://open.spotify.com/artist/4XY7BEqVPyIqRve1CWHTqr) | [Lost In Loving You](https://open.spotify.com/album/1xL7rFjdago5PZ4vPzdEwO) | 2:35 |

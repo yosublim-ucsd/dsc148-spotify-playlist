@@ -4,7 +4,7 @@
 
 > The hottest dance hits, updated every week\.  This is the biggest dance, house and electronic music  playlist to vibe to in 2025 / 2024!
 
-275 songs - 13 hr 18 min
+276 songs - 13 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [4AM](https://open.spotify.com/track/3lvYcFY5GGuuKjVYQj7FD1) | [Sarah Story](https://open.spotify.com/artist/6yyACKZEH3neKNMrBW7zbt) | [4AM](https://open.spotify.com/album/3aKsVI5oxhjZH1d8vYkx6T) | 3:00 | 2024-07-12 | 2024-09-07 |
 | [8 Days](https://open.spotify.com/track/6t2CRoMkLF78OdffqSsfhz) | [Galantis](https://open.spotify.com/artist/4sTQVOfp9vEMCemLw50sbu) | [8 Days](https://open.spotify.com/album/1lPG1cpJqD025tNy4r6vjD) | 2:10 | 2024-09-13 | 2024-12-07 |
 | [96 \(feat\. Shapes & Dada Jones\)](https://open.spotify.com/track/7dYnsb6ZIhKaxcrxgLnpHR) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd), [Shapes](https://open.spotify.com/artist/1bZ8OZoO6E3KRtXQrYVNaw), [Dada Jones](https://open.spotify.com/artist/0cWFj6zZkVsQ4KzXRdgRtW) | [96 \(feat\. Shapes & Dada Jones\)](https://open.spotify.com/album/7hyrq5IHLwnjBLvo9ZV7Cx) | 2:30 | 2024-12-02 | 2024-12-07 |
+| [A Gira](https://open.spotify.com/track/5QwJtoSfJqEPHlNCm46uex) | [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [A Gira](https://open.spotify.com/album/2rC25GOtlshiG5XOkXIh1E) | 2:32 | 2025-01-16 |  |
 | [adore u](https://open.spotify.com/track/3YgtkOxZsTuaZdL8McA1FQ) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [adore u](https://open.spotify.com/album/7K3BWpksmH4L7BoqUdhZrL) | 3:40 | 2023-11-03 |  |
 | [Afraid to Feel](https://open.spotify.com/track/51F9f054iavS6YHZOe57WE) | [LF SYSTEM](https://open.spotify.com/artist/0HxX6imltnNXJyQhu4nsiO) | [House Music 2023](https://open.spotify.com/album/4HFhThwYfigGXrIot0zUfl) | 2:57 | 2023-11-03 | 2023-11-25 |
 | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/track/5ANWAzmveemGd3Zqb5FXR1) | [Lucas & Steve](https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3), [Yves V](https://open.spotify.com/artist/47BEc2RoW53owMyxacXWdV), [Xoro](https://open.spotify.com/artist/6FzKLPWkSD5Ivq2mU98uqf) | [After Midnight \(feat\. Xoro\)](https://open.spotify.com/album/5p7P8z9HOWkmY68oCHfu4I) | 2:23 | 2023-11-03 | 2024-02-24 |

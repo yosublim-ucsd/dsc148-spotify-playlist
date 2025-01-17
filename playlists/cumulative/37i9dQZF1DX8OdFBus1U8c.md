@@ -4,7 +4,7 @@
 
 > Set the bars high with Malayalam Hip Hop!<br/>Cover : Fejo
 
-211 songs - 11 hr 10 min
+212 songs - 11 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,7 +23,7 @@
 | [Antham Vittoru Pennu](https://open.spotify.com/track/2sngiZAoGkAyXocp4ycegn) | [Ankit Menon](https://open.spotify.com/artist/4b1Ua3aYPP6ppvnqZdOHjV), [Sarcasanam](https://open.spotify.com/artist/46W1DMC8InVBXW5L0Dqa3c) | [Oh Meri Laila](https://open.spotify.com/album/2lA7PI7Z1VioAJnlARl6mF) | 2:35 | 2022-12-23 | 2023-04-01 |
 | [Antham Vittoru Pennu](https://open.spotify.com/track/6wRQXidgQSSd4tXtl3S7qB) | [Sarcasanam](https://open.spotify.com/artist/46W1DMC8InVBXW5L0Dqa3c) | [Oh Meri Laila \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2lTCLlF8ulRo1Cfu1Y9aY1) | 2:36 | 2022-12-23 | 2023-08-29 |
 | [Aparaada Panka](https://open.spotify.com/track/6UrEu6rwdoHsULeFFWdTFq) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aparaada Panka \(From "Maradona" Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5fxqH4tL9geSj3V3c6bTxo) | 3:36 | 2022-06-23 | 2023-07-24 |
-| [Arbab](https://open.spotify.com/track/4ManWRme0LIg5QDX06V1OY) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Arbab](https://open.spotify.com/album/4zFW5SKlDD2TkeGRKKEv2T) | 2:11 | 2023-07-23 |  |
+| [Arbab](https://open.spotify.com/track/4ManWRme0LIg5QDX06V1OY) | [Rish NK](https://open.spotify.com/artist/2W3jtBg0QranB8r6RZSUe5), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [Arbab](https://open.spotify.com/album/4zFW5SKlDD2TkeGRKKEv2T) | 2:11 | 2023-07-23 | 2025-01-17 |
 | [Arivu](https://open.spotify.com/track/6xnTyRAe61t30jupUkB43e) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/2DOmnGFfrkNq3VhcRfbCMX) | 4:01 | 2022-04-19 | 2024-04-19 |
 | [Arivu](https://open.spotify.com/track/7dj8zJse4K39kODoi1eGl2) | [AQIL](https://open.spotify.com/artist/7hI4ELuvUPvCLwAH2vtP1T), [Bhoomee](https://open.spotify.com/artist/35tqXRd3TmQyGqnepe6q9Z) | [Arivu](https://open.spotify.com/album/658jtoKNWFGZ7GOSNr7gRi) | 4:01 | 2022-04-19 |  |
 | [Arpo](https://open.spotify.com/track/2biQljjf8AuYx5u8Se6clY) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Arpo](https://open.spotify.com/album/3MaGl3zOrZrEEqUMoXpN1d) | 2:46 | 2023-07-23 | 2024-06-01 |
@@ -54,6 +54,7 @@
 | [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/1UglxhqM4NJFs7Nzwrqg0q) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/7x7wOZn05pbLNI3EgEqw3C) | 3:03 | 2023-02-07 | 2024-04-19 |
 | [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/1dZBse9huzwfLqVGZyh7vD) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/0SV2MCJcut7l3iveH7Bz9i) | 3:03 | 2023-02-07 | 2023-11-04 |
 | [Christophonk \(From "Christopher"\)](https://open.spotify.com/track/3XXWboGxbRNMBMvDFmrwNx) | [Justin Varghese](https://open.spotify.com/artist/6NMLfeyPhenf3T2zSIrLDh), [Jack' Styles](https://open.spotify.com/artist/6kSff0CdORBb2zNCTuMeEX) | [Christophonk \(From "Christopher"\)](https://open.spotify.com/album/5pA4niMvQrImq86LhFi0UG) | 3:03 | 2023-02-07 |  |
+| [Cyclone Central](https://open.spotify.com/track/6DRw9YMpXPbyUfGgMOs2ZC) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt), [Yazin Nizar](https://open.spotify.com/artist/2pVurQy6iuWWx707gilSdX), [Reyan](https://open.spotify.com/artist/0Te5urvZR7fH2ojS5H6ERM), [Melvin](https://open.spotify.com/artist/2J9gqy4uIlVhZtgiLTTQOm), [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm) | [Identity \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3z1J7zftdpfeCDeq18IaEL) | 3:44 | 2025-01-16 |  |
 | [Dracula](https://open.spotify.com/track/6YLYJEuTASwSvckjFzZ6mJ) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Dracula](https://open.spotify.com/album/2LibHdCD0kbHnJyEsy1QCl) | 3:05 | 2024-03-08 | 2024-05-22 |
 | [DULM](https://open.spotify.com/track/2tY9R8Pdyw0FxDm12kMa1S) | [SAMII](https://open.spotify.com/artist/6fD2awQYaiZZ9lqVxJ28Bj), [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g) | [DULM](https://open.spotify.com/album/5W80rmSWbCTTbEaKDLT4Ce) | 2:40 | 2023-09-25 |  |
 | [Ente Kaalam](https://open.spotify.com/track/1XpVCD9Pk2ODY5F4mYyQqY) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Ente Kaalam](https://open.spotify.com/album/2j6KT1OUYbkQQDPSKRupDq) | 3:02 | 2022-06-23 | 2023-07-24 |

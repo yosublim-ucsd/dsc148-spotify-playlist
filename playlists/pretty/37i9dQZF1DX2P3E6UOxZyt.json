@@ -1,31 +1,103 @@
 {
-  "description": "\u4e00\u8d77\u4f86\u6b23\u8cde 2024 RADAR \u65b0\u52e2\u529b\u85dd\u4eba\u672c\u5e74\u5ea6\u6700\u7cbe\u91c7\u7684\u8868\u73fe\uff01Cover: PIZALLI",
-  "num_followers": 29779,
-  "original_name": "Best of RADAR \u65b0\u52e2\u529b 2024",
+  "description": "2024 \u5168\u65b0\u9663\u5bb9\u51fa\u5217\uff01MEET THE FUTURE \u898b\u8a3c\u672a\u4f86\u5de8\u661f\uff01Cover: \u6591\u6069 (Ben)",
+  "num_followers": 29776,
+  "original_name": "RADAR \u65b0\u52e2\u529b",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1BHxAAAAAA0xg2vYeaiwLosvJDnsMYK",
+  "snapshot_id": "Z4ktCQAAAADA8wTjlf/FTrA9m3gOk37R",
   "tracks": [
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
-        "name": "\u8d64\u5b50",
-        "url": "https://open.spotify.com/album/6ndSyvZbLKewKv2uFOSOxu"
+        "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
+        "url": "https://open.spotify.com/album/0SaL2FBYObFbkhRisnIhag"
       },
       "artists": [
         {
-          "name": "PIZZALI",
-          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
         }
       ],
-      "duration_ms": 205000,
-      "name": "\u74f6\u4e2d\u4fe1",
-      "url": "https://open.spotify.com/track/37X7KYxFGO81bS47KF10jA"
+      "duration_ms": 162762,
+      "name": "\u60f3\u5beb\u4e00\u9996\u60c5\u6b4c\u7d66\u4f60",
+      "url": "https://open.spotify.com/track/18MWw902cGonMsCbWjoJkZ"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "Six Degrees",
+        "url": "https://open.spotify.com/album/1GiYC9prlXmNGgYAbQ5Jiu"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        },
+        {
+          "name": "Jay Chou",
+          "url": "https://open.spotify.com/artist/2elBjNSdBE2Y3f0j1mjrql"
+        }
+      ],
+      "duration_ms": 194838,
+      "name": "Six Degrees",
+      "url": "https://open.spotify.com/track/1SMC4asXLbJMhckDg1PKAq"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "QUEENDOM",
+        "url": "https://open.spotify.com/album/1pmemhmd7AZ77w04ZuqMkB"
+      },
+      "artists": [
+        {
+          "name": "\u963f\u5e03\u7d72\u30fb\u5854\u5a1c\u6bd4\u746a",
+          "url": "https://open.spotify.com/artist/4mxP6XgX0kUYlpKlcOHVGx"
+        },
+        {
+          "name": "Majin",
+          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
+        }
+      ],
+      "duration_ms": 191129,
+      "name": "MATA \u76ee\u5149 (feat. Majin)",
+      "url": "https://open.spotify.com/track/0c3SiwSjVrPoMEmhWGBaQX"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "\u8def\u908a\u7684\u91ce\u82b1",
+        "url": "https://open.spotify.com/album/38aZXIyQvFGdoVlOExSFhh"
+      },
+      "artists": [
+        {
+          "name": "Sabrina \u80e1\u6042\u821e",
+          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
+        }
+      ],
+      "duration_ms": 273818,
+      "name": "\u8def\u908a\u7684\u91ce\u82b1",
+      "url": "https://open.spotify.com/track/7GWZeRV0UdXItmS7MPZ348"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "anybody?",
+        "url": "https://open.spotify.com/album/1FLKcdBX8eGOVXHneR8lKL"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "duration_ms": 154666,
+      "name": "anybody?",
+      "url": "https://open.spotify.com/track/2qOU9AuLf83Zd1BcyDVJTI"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
       "album": {
         "name": "\u6ce1\u6cab",
         "url": "https://open.spotify.com/album/4n6T1B13KYgQZz80hYer1o"
@@ -45,131 +117,23 @@
       "url": "https://open.spotify.com/track/7KC34sQVSeBg6TknhoAh7h"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
-        "name": "\u4f60\u7684\u8a08\u756b\u88e1\u6c92\u6709\u6211",
-        "url": "https://open.spotify.com/album/7FVASE4IdTdxYZeROJK2kD"
+        "name": "\u8d64\u5b50",
+        "url": "https://open.spotify.com/album/6ndSyvZbLKewKv2uFOSOxu"
       },
       "artists": [
         {
-          "name": "\u9112\u5e8f",
-          "url": "https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0"
-        },
-        {
-          "name": "\u5b88\u591c\u4eba",
-          "url": "https://open.spotify.com/artist/7Ec6c9lhFbsTfuwmIkhZa9"
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
         }
       ],
-      "duration_ms": 203669,
-      "name": "\u4f60\u7684\u8a08\u756b\u88e1\u6c92\u6709\u6211",
-      "url": "https://open.spotify.com/track/7HOJQpG9gFPhIFSEiu5tFK"
+      "duration_ms": 170924,
+      "name": "\u5982\u679c\u6211\u5011\u9084\u53ef\u4ee5",
+      "url": "https://open.spotify.com/track/5HjXtyicmwfY27Hc6DhAHQ"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Diamond In The Rough",
-        "url": "https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u6d69\u744b Howard Lee",
-          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
-        }
-      ],
-      "duration_ms": 182981,
-      "name": "\u4f60\u8b93\u6211",
-      "url": "https://open.spotify.com/track/3JNMGo4GhXVFtqO2KNtxbm"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u64b2\u706b\u7684\u98db\u86fe",
-        "url": "https://open.spotify.com/album/1KogpwW4KG2cthGJKVOkLE"
-      },
-      "artists": [
-        {
-          "name": "ZEO",
-          "url": "https://open.spotify.com/artist/7vtia4HP3xY8RPfBLIvkM6"
-        },
-        {
-          "name": "\u6591\u6069Ben",
-          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
-        }
-      ],
-      "duration_ms": 206357,
-      "name": "\u64b2\u706b\u7684\u98db\u86fe",
-      "url": "https://open.spotify.com/track/4s4zKHsHIYQJJKTo8e1sgf"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u6c92\u6709\u661f\u661f\u7684\u591c\u665a",
-        "url": "https://open.spotify.com/album/6poFxx2ZXIRrzjxltHcpl7"
-      },
-      "artists": [
-        {
-          "name": "Sabrina \u80e1\u6042\u821e",
-          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
-        }
-      ],
-      "duration_ms": 181998,
-      "name": "\u6c92\u6709\u661f\u661f\u7684\u591c\u665a",
-      "url": "https://open.spotify.com/track/5cRvWXQoPrb7v8zNaxGSdP"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u9ad8\u6795\u7121\u6182 (SLASHIE Remix)",
-        "url": "https://open.spotify.com/album/48YcbMZHzlVtrSnCtOv7AV"
-      },
-      "artists": [
-        {
-          "name": "ZENB\u00d8",
-          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
-        }
-      ],
-      "duration_ms": 222112,
-      "name": "\u9ad8\u6795\u7121\u6182 - SLASHIE Remix",
-      "url": "https://open.spotify.com/track/24Cfx04SEVynMymyBxLZwE"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u6d77\u6d0b\u8cdc\u4e88",
-        "url": "https://open.spotify.com/album/1SpWiFUkVLznEOiJcAlsNu"
-      },
-      "artists": [
-        {
-          "name": "Majin",
-          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
-        }
-      ],
-      "duration_ms": 107368,
-      "name": "\u6d77\u6d0b\u8cdc\u4e88",
-      "url": "https://open.spotify.com/track/4l4vGccAQole4LVUdrmDar"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Fuck You & Your Friends",
-        "url": "https://open.spotify.com/album/0BG3z0bswF2kzXUlUBVeSy"
-      },
-      "artists": [
-        {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
-        },
-        {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
-        }
-      ],
-      "duration_ms": 189586,
-      "name": "Fuck You & Your Friends",
-      "url": "https://open.spotify.com/track/1eYS3LGdTJQjZh980Y9RbS"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
         "name": "\u9752\u6625\u75be\u8d70",
         "url": "https://open.spotify.com/album/1E86c02P0E5EuRs3YNgOjZ"
@@ -178,46 +142,70 @@
         {
           "name": "\u6797\u6f54\u5fc3",
           "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
-        }
-      ],
-      "duration_ms": 207000,
-      "name": "\u4e0d\u61c2\u70ba\u4f55",
-      "url": "https://open.spotify.com/track/2osdrTc4VAofCUVgY9DIBd"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "numbers",
-        "url": "https://open.spotify.com/album/26sR7nFtfkDK9R15g6yzSm"
-      },
-      "artists": [
-        {
-          "name": "LIU KOI",
-          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
-        }
-      ],
-      "duration_ms": 180689,
-      "name": "week by week",
-      "url": "https://open.spotify.com/track/77aZrJ7e0gRcfyJvhTnJwB"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u6307\u91dd",
-        "url": "https://open.spotify.com/album/199fdqkmbpLutKUAshUUdQ"
-      },
-      "artists": [
+        },
         {
           "name": "PIZZALI",
           "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
         }
       ],
-      "duration_ms": 134794,
-      "name": "\u6307\u91dd",
-      "url": "https://open.spotify.com/track/4M8lN6T68TfZHSKlkddFY1"
+      "duration_ms": 184615,
+      "name": "\u7a7a\u767d\u984c",
+      "url": "https://open.spotify.com/track/4jylN5RdQ1e3azFwtisPrO"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "\u8d95\u8d95\u6642\u9593",
+        "url": "https://open.spotify.com/album/3OHTeZ8l4MkmDO1bUTJ51q"
+      },
+      "artists": [
+        {
+          "name": "\u9112\u5e8f",
+          "url": "https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0"
+        }
+      ],
+      "duration_ms": 219919,
+      "name": "\u8d95\u8d95\u6642\u9593",
+      "url": "https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "love me back to life",
+        "url": "https://open.spotify.com/album/1fTotZRrDE9x7C1zDDuO8h"
+      },
+      "artists": [
+        {
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        },
+        {
+          "name": "aimi",
+          "url": "https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7"
+        }
+      ],
+      "duration_ms": 199322,
+      "name": "love me back to life",
+      "url": "https://open.spotify.com/track/0QFmztQWfDEMCHUNsxkuWb"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "\u8d85\u672a\u6765\u6ce22",
+        "url": "https://open.spotify.com/album/3WocBt3tYIxwYVvMpbFfRD"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        }
+      ],
+      "duration_ms": 176378,
+      "name": "ZENBORGHINI",
+      "url": "https://open.spotify.com/track/2S4eDk7e1O716tWlbe3wtQ"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
       "album": {
         "name": "Hold On",
         "url": "https://open.spotify.com/album/7ygCROw5jFHKGpdEVodz4v"
@@ -237,7 +225,7 @@
       "url": "https://open.spotify.com/track/580BvW3DyUNoYFgQgoD2GI"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
         "name": "\u628a\u6c34\u958b\u8457",
         "url": "https://open.spotify.com/album/37vIh6I03bNlWKlVMjGRK3"
@@ -253,7 +241,7 @@
       "url": "https://open.spotify.com/track/2O8kejsRzK5WoygELquZzq"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
         "name": "Diamond In The Rough",
         "url": "https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ"
@@ -273,50 +261,10 @@
       "url": "https://open.spotify.com/track/5qQNqnKAxjG60Dt8Iv4c4m"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
-        "name": "Wanna know",
-        "url": "https://open.spotify.com/album/2MgypIjhzaqFeaiuaOsH1L"
-      },
-      "artists": [
-        {
-          "name": "\u6591\u6069Ben",
-          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
-        },
-        {
-          "name": "\u601d\u9060AL",
-          "url": "https://open.spotify.com/artist/47Y3qqRQCC32k2OO9dRcau"
-        }
-      ],
-      "duration_ms": 185142,
-      "name": "Wanna know",
-      "url": "https://open.spotify.com/track/66kYti8hisQUEt6N297ki5"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u53f0\u5317\u53f0\u4e2d",
-        "url": "https://open.spotify.com/album/1YvQC0cXwcOhPGiXh0mh7k"
-      },
-      "artists": [
-        {
-          "name": "Sabrina \u80e1\u6042\u821e",
-          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
-        },
-        {
-          "name": "JOYCE \u5c31\u4ee5\u65af",
-          "url": "https://open.spotify.com/artist/2rnMTHqTdSXZ9h9drhPanv"
-        }
-      ],
-      "duration_ms": 234915,
-      "name": "\u53f0\u5317\u53f0\u4e2d",
-      "url": "https://open.spotify.com/track/3zvRViL04ZsktvY46SizbH"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u6728\u5409\u4ed6\u6c11\u6b4c\u897f\u9910\u5ef3",
-        "url": "https://open.spotify.com/album/1dD3kMKkk6Kwl1udBPvW4P"
+        "name": "\u9ad8\u6795\u7121\u6182",
+        "url": "https://open.spotify.com/album/7EPZK5VULueMIKPhpnnTEP"
       },
       "artists": [
         {
@@ -324,76 +272,48 @@
           "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
         }
       ],
-      "duration_ms": 228631,
-      "name": "\u6728\u5409\u4ed6\u6c11\u6b4c\u897f\u9910\u5ef3",
-      "url": "https://open.spotify.com/track/6ltLMCBb8hrRNWt1ENzoeK"
+      "duration_ms": 222500,
+      "name": "\u9ad8\u6795\u7121\u6182",
+      "url": "https://open.spotify.com/track/4FAPERZU7w7HoBmO4NDbmo"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
-        "name": "1Majin Nation",
-        "url": "https://open.spotify.com/album/2kJYCOovUBZ0on2ig5HInZ"
-      },
-      "artists": [
-        {
-          "name": "Majin",
-          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
-        }
-      ],
-      "duration_ms": 173793,
-      "name": "The Same Title \u72d7\u8840",
-      "url": "https://open.spotify.com/track/0pXsKHPFzl8XYAXsfxFzpi"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u4f60\u4e0d\u6703\u4e00\u8f29\u5b50\u7684\u611b\u4e0a\u6211",
-        "url": "https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif"
+        "name": "Fuck You & Your Friends",
+        "url": "https://open.spotify.com/album/0BG3z0bswF2kzXUlUBVeSy"
       },
       "artists": [
         {
           "name": "Tyson Yoshi",
           "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        },
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
         }
       ],
-      "duration_ms": 197307,
-      "name": "\u4f60\u4e0d\u6703\u4e00\u8f29\u5b50\u7684\u611b\u4e0a\u6211",
-      "url": "https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7"
+      "duration_ms": 189586,
+      "name": "Fuck You & Your Friends",
+      "url": "https://open.spotify.com/track/1eYS3LGdTJQjZh980Y9RbS"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
-        "name": "\u81ea\u7531\u7684\u98a8",
-        "url": "https://open.spotify.com/album/4q7o688PlMkWNeqdi3Qxte"
+        "name": "\u591a\u5df4\u80fa",
+        "url": "https://open.spotify.com/album/1vKJrj6jmjXX87S6BZeE8d"
       },
       "artists": [
         {
-          "name": "\u6797\u6f54\u5fc3",
-          "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
+          "name": "Sabrina \u80e1\u6042\u821e",
+          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
         }
       ],
-      "duration_ms": 139178,
-      "name": "\u81ea\u7531\u7684\u98a8",
-      "url": "https://open.spotify.com/track/1uONk3vGhr6wyxSOSPxSRb"
+      "duration_ms": 177623,
+      "name": "\u591a\u5df4\u80fa",
+      "url": "https://open.spotify.com/track/4SeVkGp84CmcPF1W3Y5C2s"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "numbers",
-        "url": "https://open.spotify.com/album/26sR7nFtfkDK9R15g6yzSm"
-      },
-      "artists": [
-        {
-          "name": "LIU KOI",
-          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
-        }
-      ],
-      "duration_ms": 154394,
-      "name": "what 4",
-      "url": "https://open.spotify.com/track/5fijo9f2d10Dd34RVckeQb"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
         "name": "\u7ffc",
         "url": "https://open.spotify.com/album/4lUoLaurs9KbG7SYi4HL9w"
@@ -409,58 +329,30 @@
       "url": "https://open.spotify.com/track/5VkNI8AtQvQi6L5nr9MIiH"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
-        "name": "\u706b\u67f4 (Acoustic / Spotify Singles)",
-        "url": "https://open.spotify.com/album/0Rw8xSIqO7KCXwMXZDLXtO"
+        "name": "blue romance",
+        "url": "https://open.spotify.com/album/0Z6QJdE9wj1iYl3RF73W5b"
       },
       "artists": [
         {
-          "name": "Patrick Brasca",
-          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
-        }
-      ],
-      "duration_ms": 172166,
-      "name": "\u706b\u67f4 - Acoustic / Spotify Singles",
-      "url": "https://open.spotify.com/track/28F59BoXW9aXhx9TiPB1OH"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u8d95\u8d95\u6642\u9593",
-        "url": "https://open.spotify.com/album/3OHTeZ8l4MkmDO1bUTJ51q"
-      },
-      "artists": [
+          "name": "LIU KOI",
+          "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
+        },
         {
-          "name": "\u9112\u5e8f",
-          "url": "https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0"
+          "name": "\u9ad8\u771f TRU",
+          "url": "https://open.spotify.com/artist/3ZOx15S9yfBFkDVFtF7QN3"
         }
       ],
-      "duration_ms": 219919,
-      "name": "\u8d95\u8d95\u6642\u9593",
-      "url": "https://open.spotify.com/track/7opdi4QEthCnJZkCdmPPsg"
+      "duration_ms": 199999,
+      "name": "\u5979\u4e0d\u662f\u602a\u4eba\u5c31\u662f\u58de",
+      "url": "https://open.spotify.com/track/0bVTJnCSBcDbEln7yDvbzh"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
-        "name": "Fly Machine",
-        "url": "https://open.spotify.com/album/73uMsPJLL8PQlQVx9CmeDV"
-      },
-      "artists": [
-        {
-          "name": "\u674e\u6d69\u744b Howard Lee",
-          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
-        }
-      ],
-      "duration_ms": 243726,
-      "name": "\u771f\u5fc3\u8a71",
-      "url": "https://open.spotify.com/track/06Hci8wC8NSf2r5OHqhivw"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3NXaogpe3UARbAOXVzILFr"
+        "name": "\u65e5\u843d\u64c1\u62b1",
+        "url": "https://open.spotify.com/album/3O01wGFF98q2gqpALMtakp"
       },
       "artists": [
         {
@@ -468,80 +360,12 @@
           "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
         }
       ],
-      "duration_ms": 263809,
-      "name": "\u7d42\u7a76\u9084\u662f\u56e0\u70ba\u611b - Spotify Singles",
-      "url": "https://open.spotify.com/track/5eDqchkLCMsJCkSqGm9NyB"
+      "duration_ms": 196558,
+      "name": "\u65e5\u843d\u64c1\u62b1",
+      "url": "https://open.spotify.com/track/7tTpJUYJyhT1VBRwpM3f6W"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u6211\u5728\u5f80\u96e2\u5225\u524d\u9032",
-        "url": "https://open.spotify.com/album/3SsXGY0Y024rdbevU7aHxG"
-      },
-      "artists": [
-        {
-          "name": "Sabrina \u80e1\u6042\u821e",
-          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
-        }
-      ],
-      "duration_ms": 211176,
-      "name": "\u6211\u5728\u5f80\u96e2\u5225\u524d\u9032",
-      "url": "https://open.spotify.com/track/4I3n6Hq3p1F52ipZkpC8jj"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "\u5496\u5561\u6c24",
-        "url": "https://open.spotify.com/album/1EFDsuC0c063wiZFWFuW1V"
-      },
-      "artists": [
-        {
-          "name": "ZENB\u00d8",
-          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "\u5496\u5561\u6c24",
-      "url": "https://open.spotify.com/track/5WYgEoOPQSCT8hHYV3bYo3"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "1Majin Nation",
-        "url": "https://open.spotify.com/album/2kJYCOovUBZ0on2ig5HInZ"
-      },
-      "artists": [
-        {
-          "name": "Majin",
-          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
-        },
-        {
-          "name": "\u6591\u6bd4Bambii",
-          "url": "https://open.spotify.com/artist/68NTWax6QLwQtHEqGXouyR"
-        }
-      ],
-      "duration_ms": 163263,
-      "name": "Yellow Hoodie \u9ec3\u8272\u5e3d\u8e22 feat. \u6591\u6bd4Bambii",
-      "url": "https://open.spotify.com/track/6LlUQCMpwWbDgnez3VXZPF"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/6yjyYKA3hVLAIMRi5rsDdk"
-      },
-      "artists": [
-        {
-          "name": "Tyson Yoshi",
-          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
-        }
-      ],
-      "duration_ms": 233380,
-      "name": "Love You & Your Friends - Spotify Singles",
-      "url": "https://open.spotify.com/track/07KCePnVuhVdwrKIZGt1RS"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
         "name": "\u7d19\u98db\u6a5f",
         "url": "https://open.spotify.com/album/6ihVhJds67m09BksN2MGKW"
@@ -552,15 +376,155 @@
           "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
         }
       ],
-      "duration_ms": 135884,
-      "name": "\u7d19\u98db\u6a5f",
-      "url": "https://open.spotify.com/track/6VoUlMALTDMm9Gx8MSQbO4"
+      "duration_ms": 247223,
+      "name": "\u4e82\u6d41",
+      "url": "https://open.spotify.com/track/238p15Fz5TneRm52TNoVL8"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-16 16:00:09",
       "album": {
-        "name": "\u98a8\u666f",
-        "url": "https://open.spotify.com/album/3eOYLOlDauF5BqrOj2ZLn2"
+        "name": "OFFSHORE",
+        "url": "https://open.spotify.com/album/3TGiNbe8qK2pt4yrKsyPdn"
+      },
+      "artists": [
+        {
+          "name": "Majin",
+          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
+        },
+        {
+          "name": "Delf",
+          "url": "https://open.spotify.com/artist/3ZVZi0IyNLH18rZsmA8SfO"
+        }
+      ],
+      "duration_ms": 150400,
+      "name": "DELICIOUS",
+      "url": "https://open.spotify.com/track/0YWc6cHH1is1cfNBmU8Bj5"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/1grN24m5hhYp7pCzNkkdIX"
+      },
+      "artists": [
+        {
+          "name": "Patrick Brasca",
+          "url": "https://open.spotify.com/artist/1xCrrnnj9xif5G0y3ie5dM"
+        }
+      ],
+      "duration_ms": 172166,
+      "name": "\u706b\u67f4 (Acoustic) - Spotify Singles",
+      "url": "https://open.spotify.com/track/649FdTxihcffxQnTMa2q2x"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "another time",
+        "url": "https://open.spotify.com/album/7HDHQ9hnmUjceC9AwMcvKE"
+      },
+      "artists": [
+        {
+          "name": "\u9112\u5e8f",
+          "url": "https://open.spotify.com/artist/7lk9vXaiJOXeKd2ms7Ohh0"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "another time",
+      "url": "https://open.spotify.com/track/4vHvm27vjR1BoaokJS16XV"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "Diamond In The Rough",
+        "url": "https://open.spotify.com/album/6zPGNuCikxTQLI8ZQuHNsQ"
+      },
+      "artists": [
+        {
+          "name": "\u674e\u6d69\u744b Howard Lee",
+          "url": "https://open.spotify.com/artist/7EkkWNWPiWFQ0rA9IEmMXs"
+        }
+      ],
+      "duration_ms": 159097,
+      "name": "\u7aa9\u56ca\u5ee2",
+      "url": "https://open.spotify.com/track/5aipGUxvifWyhwJ8i1UPfF"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "\u8d85\u672a\u6765\u6ce22",
+        "url": "https://open.spotify.com/album/3WocBt3tYIxwYVvMpbFfRD"
+      },
+      "artists": [
+        {
+          "name": "ZENB\u00d8",
+          "url": "https://open.spotify.com/artist/4Rh3HXq1VRYzQJ3rl2MUfG"
+        },
+        {
+          "name": "\u5abd\u5bf6\u738b",
+          "url": "https://open.spotify.com/artist/24qmx9YYljbnPGwRRS7118"
+        }
+      ],
+      "duration_ms": 185981,
+      "name": "OTW (feat.\u5abd\u5bf6\u738b)",
+      "url": "https://open.spotify.com/track/5kMswNDmQBB8oHJ0z7nO6p"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "\u4f60\u4e0d\u6703\u4e00\u8f29\u5b50\u7684\u611b\u4e0a\u6211",
+        "url": "https://open.spotify.com/album/0FjMxaIatcw3nOgc9osLif"
+      },
+      "artists": [
+        {
+          "name": "Tyson Yoshi",
+          "url": "https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ"
+        }
+      ],
+      "duration_ms": 197307,
+      "name": "\u4f60\u4e0d\u6703\u4e00\u8f29\u5b50\u7684\u611b\u4e0a\u6211",
+      "url": "https://open.spotify.com/track/5FbxrTeMrO3zbLe3uLbYH7"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "You were.",
+        "url": "https://open.spotify.com/album/5fvl9jkqhwu5yypETpmOq2"
+      },
+      "artists": [
+        {
+          "name": "Sabrina \u80e1\u6042\u821e",
+          "url": "https://open.spotify.com/artist/378nUaqWlvNG3xRIszxzLs"
+        }
+      ],
+      "duration_ms": 258071,
+      "name": "You were.",
+      "url": "https://open.spotify.com/track/6dnIcqUXm5e0QlDltZy9Z7"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "\u8d64\u5b50",
+        "url": "https://open.spotify.com/album/6ndSyvZbLKewKv2uFOSOxu"
+      },
+      "artists": [
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+        },
+        {
+          "name": "\u738bADEN",
+          "url": "https://open.spotify.com/artist/4ecBfM4xa6ZLDr7P8lsyTV"
+        }
+      ],
+      "duration_ms": 173981,
+      "name": "\u5343\u79a7\u56dd",
+      "url": "https://open.spotify.com/track/6Pjo2IQsxGUheshyhDUlmA"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "numbers",
+        "url": "https://open.spotify.com/album/26sR7nFtfkDK9R15g6yzSm"
       },
       "artists": [
         {
@@ -568,11 +532,63 @@
           "url": "https://open.spotify.com/artist/08oPfsqJWRQaDYTupwwXrE"
         }
       ],
-      "duration_ms": 211500,
-      "name": "\u98a8\u666f",
-      "url": "https://open.spotify.com/track/6uNyahQJZBOsDMVTmOCwzA"
+      "duration_ms": 171304,
+      "name": "bait",
+      "url": "https://open.spotify.com/track/5JZrT17IzA9x7WLv0ReiPi"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "\u4e00\u8d77\u8d70\uff01",
+        "url": "https://open.spotify.com/album/3UAlXiJpkN64xfFnb2GPHV"
+      },
+      "artists": [
+        {
+          "name": "\u6591\u6069Ben",
+          "url": "https://open.spotify.com/artist/6GuDr0PBkuJF3z0xtcRKcJ"
+        }
+      ],
+      "duration_ms": 202002,
+      "name": "\u4e00\u8d77\u8d70\uff01",
+      "url": "https://open.spotify.com/track/2b9XMsjvBEN4ryqXw3mMzA"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "Hate myself - Spotify Singles",
+        "url": "https://open.spotify.com/album/4n4DKBWB5hlIeTRV4z5ttP"
+      },
+      "artists": [
+        {
+          "name": "\u6797\u6f54\u5fc3",
+          "url": "https://open.spotify.com/artist/3wVMSx6wqCYFZ6Q6vqIFCx"
+        }
+      ],
+      "duration_ms": 155142,
+      "name": "Hate myself - Spotify Singles",
+      "url": "https://open.spotify.com/track/79KrPknij8FGaflUga6YII"
+    },
+    {
+      "added_at": "2025-01-16 16:00:09",
+      "album": {
+        "name": "Galaxy official",
+        "url": "https://open.spotify.com/album/2ZF7aDkfknXIqRiaOMY14g"
+      },
+      "artists": [
+        {
+          "name": "Majin",
+          "url": "https://open.spotify.com/artist/6iQuZJoGAkn0UZcayx5fTl"
+        },
+        {
+          "name": "God \u00d8ne",
+          "url": "https://open.spotify.com/artist/0WoCJqLme8Jz2NrGXXdwNL"
+        }
+      ],
+      "duration_ms": 196535,
+      "name": "Galaxy official",
+      "url": "https://open.spotify.com/track/5Jwxp0LAi6SueBzoFZzFL5"
     }
   ],
-  "unique_name": "Best of RADAR \u65b0\u52e2\u529b 2024",
+  "unique_name": "RADAR \u65b0\u52e2\u529b",
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX2P3E6UOxZyt"
 }

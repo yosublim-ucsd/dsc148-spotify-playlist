@@ -1,15 +1,16 @@
 [pretty](/playlists/pretty/37i9dQZF1DWUcJb0bNFBm0.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWUcJb0bNFBm0) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DWUcJb0bNFBm0)
 
-### [Best of Haze 2024](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
+### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  \(Cover: Hitsujibungaku\)
+> Noise distortion amongst the hazy clouds ☁️  \(Cover: I Mean Us\)
 
-164 songs - 11 hr 18 min
+174 songs - 12 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Always](https://open.spotify.com/track/7frdnV62ZVTt6HOqtHadnk) | [Ozzga](https://open.spotify.com/artist/4LoxjSTESClUkXDI7mP6t4) | [When You're Away](https://open.spotify.com/album/4BvY1NnxqLpigHsghwhVuU) | 4:34 | 2024-06-27 |  |
 | [anatahawatashiwosiranai, watasihaanatawowasurenai](https://open.spotify.com/track/04HQwpikUW0wHJGn1nWCOE) | [sasakure](https://open.spotify.com/artist/7wEWAY6INLk6VgiJGAGVXr) | [seasaw](https://open.spotify.com/album/5A0c3siX0WSuXNJuYxVkPO) | 3:44 | 2024-12-04 |  |
+| [Another World \- Alt\. ver.](https://open.spotify.com/track/0Ig0YS2HO6bPBhWgJ0OLXr) | [Hakubi](https://open.spotify.com/artist/1vgwCsZx2um1wmTgP5EkZj) | [Another World \(Alt\. ver.\)](https://open.spotify.com/album/57dmGLpMBQyVWOVlvFOcnV) | 5:30 | 2025-01-16 |  |
 | [Anywhere Else](https://open.spotify.com/track/0zelggmbxtlYgbEG7r6r1N) | [Slowwves](https://open.spotify.com/artist/7efZWwJdYjmy1Xu1wLtEbg) | [Anywhere Else](https://open.spotify.com/album/72UQZOL1DPverN5Mo0hqZz) | 3:37 | 2024-12-04 |  |
 | [ASMR](https://open.spotify.com/track/1ylVyukbCICBWuJkn1yECY) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [ASMR](https://open.spotify.com/album/6SuUI7PvgHMDTpFLXvWgiK) | 2:18 | 2024-10-31 | 2024-12-05 |
 | [back when you were still mine](https://open.spotify.com/track/5wI9KXhCQbD4hXCUO1z0Lz) | [pleasant](https://open.spotify.com/artist/4Fq5JqpAfQ5FEuKHuAapJT) | [back when you were still mine](https://open.spotify.com/album/0pK44xLppZd02wRASZvAOb) | 2:56 | 2024-06-27 | 2024-11-09 |
@@ -40,6 +41,7 @@
 | [Dreaming Alone or Together \- Bonus Track](https://open.spotify.com/track/7LXVCqcHEXUKze1GuyHjeO) | [Precocious Neophyte](https://open.spotify.com/artist/5kPW0F59KHeCSj2dQsiqfH) | [Dreaming Alone or Together \(Bonus Track\)](https://open.spotify.com/album/32jDcy43AE0wow0QmAS7zO) | 3:52 | 2024-06-27 | 2024-08-31 |
 | [Driven By Wanderlust](https://open.spotify.com/track/0oHUkg1oE93UUqUCYZshuj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Driven By Wanderlust](https://open.spotify.com/album/2MHaK1TaauTVrW6eGd4DyL) | 3:24 | 2024-07-19 | 2024-12-05 |
 | [Dua Angsa \- Remastered 2023](https://open.spotify.com/track/6GEugjRX4lMrDE7B8UEuuZ) | [Hazel](https://open.spotify.com/artist/3BeR8fsabzQWl15Kx0yFO8), [Pingkan Dive Collate](https://open.spotify.com/artist/5IAsTCrRJdzSnieVaYICm5) | [Dua Angsa \(Remastered 2023\)](https://open.spotify.com/album/0kxukdm90YZsIPKgr2KSOi) | 4:22 | 2024-06-27 | 2024-11-22 |
+| [Dumb Ass Pop Song](https://open.spotify.com/track/1XbUhcGNTIYGUgMKxoCZWx) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Dumb Ass Pop Song](https://open.spotify.com/album/3a5ZSFq5jOoDCVMbTzbXqq) | 3:41 | 2025-01-16 |  |
 | [Edges](https://open.spotify.com/track/1VKEi2gCOilCg9pM8dPo1j) | [meeve](https://open.spotify.com/artist/5WP6R7bAjeetDf7rZJQiMp) | [Edges](https://open.spotify.com/album/4GgGiHSIATT5mTsZ8nIn33) | 3:43 | 2024-06-27 | 2024-11-22 |
 | [Endless Emotions](https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Forever](https://open.spotify.com/album/5jTFdGObfWZEideEm391F2) | 5:19 | 2024-06-27 |  |
 | [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 | 2024-12-05 |
@@ -63,8 +65,11 @@
 | [I Ever Dreamed Of](https://open.spotify.com/track/7dU1vsjkrmPsfjm5eWyVml) | [Mikado Koko](https://open.spotify.com/artist/0xBoJ1DUOrxxboiavjI6Dx) | [Floating High](https://open.spotify.com/album/656XisQHcyzLwkwug6fS51) | 2:07 | 2024-09-26 | 2024-12-05 |
 | [i know what u think about me](https://open.spotify.com/track/6kHuzeNgElSmnAVefM6Rr8) | [B Murph](https://open.spotify.com/artist/37UPFnpW6Y42ztryUCYzUJ), [静的 Static](https://open.spotify.com/artist/6rEjEIfp3NSRteU3kJGSET) | [i know what u think about me](https://open.spotify.com/album/1HnUw5rjgfErQ5Y2Heiydd) | 2:23 | 2024-08-30 | 2024-09-06 |
 | [I Would Never...](https://open.spotify.com/track/430NEs1rbeYyTWs6skTS0X) | [Drizzly.](https://open.spotify.com/artist/0syfivLWCWPjoQqummbiwU), [Mocca](https://open.spotify.com/artist/7jm6MsWHPzZETR9JkAVaQQ) | [I Would Never...](https://open.spotify.com/album/3oHeWqIezQCJEjcQjYtJBb) | 3:22 | 2024-07-19 |  |
+| [iki](https://open.spotify.com/track/5Oo3gErzLysjVSb2rNOwgo) | [水中スピカ](https://open.spotify.com/artist/6YLLR3VbmuoGtBLW2YfICn) | [Lux](https://open.spotify.com/album/3G2sTBcS9qUSI21k3TDQim) | 4:27 | 2025-01-16 |  |
 | [Imagination and Creation](https://open.spotify.com/track/4W8OK7sBpV2VIUUsQmh45L) | [envy](https://open.spotify.com/artist/0CfjW2VuMdrhWodHtG7DWi) | [Eunoia](https://open.spotify.com/album/0ENNpHzXuTcJ2rOHQuEzTx) | 3:47 | 2024-10-10 | 2024-11-08 |
+| [In Motion](https://open.spotify.com/track/66Lw5v5MQQtV4Fy7GIQR63) | [In Inertia](https://open.spotify.com/artist/3MX16NmW4sAb3qxfGQTvlt) | [In Motion](https://open.spotify.com/album/4Y6DGBMiczxvUtPpG9UEj6) | 5:14 | 2025-01-16 |  |
 | [in my room, gazing into book page](https://open.spotify.com/track/3DTe8VyiArCO6ljEgrklQF) | [bioneunnal](https://open.spotify.com/artist/54o61nZtHnVCnPLtI8B0Cf) | [books, cats, and memories](https://open.spotify.com/album/3ed2oWIfFAqL0ejszqbb5W) | 2:38 | 2024-10-10 | 2024-12-05 |
+| [In the End of the World \(I Love You\)](https://open.spotify.com/track/3CcENn2midZIlsOmie5Nvq) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78) | [In the End of the World \(I Love You\)](https://open.spotify.com/album/1aRkkaRkSJucjtsBwCLW5S) | 3:40 | 2025-01-16 |  |
 | [Irene](https://open.spotify.com/track/3kch4XBCUYiCBNIZzsxYr5) | [HUSH](https://open.spotify.com/artist/1AEMtlWO4qP2j3SndDRvMB) | [Irene](https://open.spotify.com/album/2Mj8LfQJaeqI2abFjfoTFi) | 7:10 | 2024-06-27 |  |
 | [It's Got Me Again](https://open.spotify.com/track/48uNFXgtrVUIRBfhnbo37P) | [Minaxi](https://open.spotify.com/artist/3gvZuaA1lMGmQoQNl9UmaC) | [It's Got Me Again](https://open.spotify.com/album/4AsrQZ2yw0bEElkyB6jJWB) | 4:46 | 2024-06-27 | 2024-11-08 |
 | [Jalur Bebas Hambatan](https://open.spotify.com/track/0WKfFli4wfhr04p0CYuicl) | [Purpla](https://open.spotify.com/artist/6nLhM1QkqsfvLN0sJr6cTv) | [Jalur Bebas Hambatan](https://open.spotify.com/album/6UpsoueDxfB29QRoG9SDld) | 3:45 | 2024-07-04 | 2024-10-11 |
@@ -91,6 +96,8 @@
 | [Mikael](https://open.spotify.com/track/3DOq3iCt2I1X9cPAWdWGXB) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt) | [Mikael](https://open.spotify.com/album/0bYXowGjv2zW5QN2nyvuO0) | 4:25 | 2024-11-08 | 2024-12-05 |
 | [MIRROR'S EDGE](https://open.spotify.com/track/5JVmJKagp4Bq88W4aoje3L) | [MoritaSaki in the pool](https://open.spotify.com/artist/0cascybzS2QQL1m3h57tcY) | [MIRROR'S EDGE](https://open.spotify.com/album/60sFiEjbEvX8Am8ht44NuN) | 3:07 | 2024-08-30 | 2024-12-05 |
 | [mlb](https://open.spotify.com/track/6uXSZazWjvwsPVEDngFfQs) | [\(e\)motion engine](https://open.spotify.com/artist/6mJhsXOVqhFN2exIZD91rK) | [mlb](https://open.spotify.com/album/5kONlQGQnbfCPybdJQhbry) | 3:52 | 2024-06-27 |  |
+| [Momentrail](https://open.spotify.com/track/7gFfNEAVG4Rf0zXIagxko5) | [softsurf](https://open.spotify.com/artist/1vPcqBxbcs5XnSQ0EXPS7N) | [Momentrail](https://open.spotify.com/album/0zSxBBLf5k5U26wtoLKHKA) | 4:08 | 2025-01-16 |  |
+| [momo](https://open.spotify.com/track/0Qgx8ddjiy5fRWOqyHGfRk) | [Kuyuru](https://open.spotify.com/artist/0r0X62o6j7jbo5ZU4qZf52) | [momo](https://open.spotify.com/album/5mEv16oXtABPEjkbosvuEa) | 7:33 | 2025-01-16 |  |
 | [more than words](https://open.spotify.com/track/2kXER8pkjxDVQnlagpVJJw) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [12 hugs \(like butterflies\)](https://open.spotify.com/album/1wNDOs0Zmqrm7dhgnneflC) | 4:49 | 2024-06-27 |  |
 | [Museum of My Mess](https://open.spotify.com/track/30beBjOCmvuAed4eT872rt) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/51Go2HZjagXnQTOTN3ZXeJ) | 4:29 | 2024-06-27 | 2024-12-05 |
 | [Museum of My Mess](https://open.spotify.com/track/5lNmaZfu3SQMuzl1hH2wzA) | [mindfreakkk](https://open.spotify.com/artist/72eq3oLf1MBNNAZNv0Ua0a) | [Museum of My Mess](https://open.spotify.com/album/1r4p9gmVT2fR9X8dgqbwKE) | 4:32 | 2024-12-04 |  |
@@ -153,6 +160,7 @@
 | [To My Love](https://open.spotify.com/track/3V6rl1l7hJT3u3NVN0g1UU) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/594eWfeyQ02c9MLYI9iLuK) | [Tears in Rain（就像泪水消逝在雨中）](https://open.spotify.com/album/6nlLIph5HfbYSJ9UquhqVM) | 4:36 | 2024-06-27 | 2024-12-05 |
 | [To My Love](https://open.spotify.com/track/7FULpfn4MQlvqZHqDO1hYj) | [Pocari Sweet波卡利甜](https://open.spotify.com/artist/2mRvIBsxvP5BcxNWM9MfcR) | [Tears in Rain](https://open.spotify.com/album/0IzZfuIqvh3eiGo88D9J9r) | 4:36 | 2024-12-04 |  |
 | [To You](https://open.spotify.com/track/7lGmpmEv5uQDlNnMl3XFyd) | [The Whisperer](https://open.spotify.com/artist/6KvQwU4UxItDsPSIYqVOZz) | [To You](https://open.spotify.com/album/3iOPGslKOV5FiHv9GAfFd9) | 4:11 | 2024-10-10 | 2024-12-05 |
+| [Two of Us](https://open.spotify.com/track/1WiAAOZp1eMH8YDwuowZrE) | [In Inertia](https://open.spotify.com/artist/3MX16NmW4sAb3qxfGQTvlt) | [Two of Us](https://open.spotify.com/album/0be7zUm3q3Ir0YxCyqOu43) | 4:11 | 2025-01-16 |  |
 | [UMA](https://open.spotify.com/track/2qZiHuLxK7jhLrVL5Jwf3C) | [xiexie](https://open.spotify.com/artist/2DyQQPH4aNO84GVSIoHdkV) | [wellwell](https://open.spotify.com/album/2cLFAGnUKisFEgjp0JVNY0) | 2:57 | 2024-06-27 |  |
 | [Waltz](https://open.spotify.com/track/1fik0uRvfAUxrkcgpJrMF1) | [Schelper](https://open.spotify.com/artist/0jPrAqvMqQJPwCnZsCdDL7) | [Waltz](https://open.spotify.com/album/73FCf4ZimE8vU421YH3rqQ) | 3:44 | 2024-12-04 |  |
 | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/track/2zAPVUH3KupXkv2IoTkGYY) | [The Wallflower Dept.](https://open.spotify.com/artist/1ykM1fXFLT1d83l7OAw1Yv), [Ananda Yala](https://open.spotify.com/artist/79gwnl8jXCn78lRxTGD0wL) | [Watching K\-Drama \(Without Subtitles\)](https://open.spotify.com/album/2am7oyB1E4rdwVzMSWiohy) | 4:11 | 2024-08-05 | 2024-12-05 |
@@ -164,12 +172,14 @@
 | [Youth LiFe](https://open.spotify.com/track/6tDEPETl8k4vY8nSk1aPKP) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [The Peak of Youth Life](https://open.spotify.com/album/4VplPiLVuWwTuFoAoswR0i) | 1:58 | 2024-06-27 |  |
 | [ฉันเสียใจจริงๆ](https://open.spotify.com/track/4dx3VM88XTEsyGrQ3Fd0Ww) | [Lost n' Found](https://open.spotify.com/artist/4kXUHEpEKAXggez5j2UzPt) | [ฉันเสียใจจริงๆ](https://open.spotify.com/album/3JZz45zKlVzdsXgBnD97Sj) | 3:48 | 2024-06-27 |  |
 | [พบ พา ลา จาก](https://open.spotify.com/track/3NwddDfa3ZJa4ryW2vhqca) | [Desktop Error](https://open.spotify.com/artist/5Vsm6xlaAsSwuVNPB6kQS3) | [Keep looking at the window](https://open.spotify.com/album/7mKrdvV7cwkcK6jjrwAI19) | 4:40 | 2024-06-27 | 2024-12-05 |
+| [あまり風](https://open.spotify.com/track/6G2NjubxSQaxiw5dboAY75) | [AprilBlue](https://open.spotify.com/artist/22596Y1hah6u7PlGUiJ7BZ) | [あまり風](https://open.spotify.com/album/346hxpetrQTU7lIiqofVSz) | 4:00 | 2025-01-16 |  |
 | [さざめく麦わら](https://open.spotify.com/track/3qB4dEN0GF2GspAAjWsdn2) | [Happy Ever After](https://open.spotify.com/artist/1zbiJz0qV0zYZCXvNRECga) | [Total Feedback 2024](https://open.spotify.com/album/2Dgvi6e7y44CSRXwiURRg2) | 2:33 | 2024-06-27 | 2024-10-11 |
 | [やさしい雷](https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [やさしい雷](https://open.spotify.com/album/3WlR1EZCXCZBsGQlDAVKDH) | 4:04 | 2024-06-27 |  |
 | [傍晚去太子灣嗎](https://open.spotify.com/track/1qG2U4IDgPI37CixBQZ4PQ) | [Schoolgirl Byebye](https://open.spotify.com/artist/6kfcndVsu8F9Y5gL5xc717) | [傍晚去太子灣嗎](https://open.spotify.com/album/5Htgs7LGnn3EzjDIpjMi28) | 4:55 | 2024-06-27 |  |
 | [寂靜夏日傍晚](https://open.spotify.com/track/3f6OlXbpWW3766BKzOEkAt) | [完美倒立](https://open.spotify.com/artist/2q5cBeOy6Hfb8VkvNrGsIT) | [夜色碳酸](https://open.spotify.com/album/128GcDV2b1avhpbUq6PUyW) | 5:05 | 2024-12-04 |  |
 | [情人！](https://open.spotify.com/track/3FpBnK9vduKWb48YCXc9c8) | [河豚子](https://open.spotify.com/artist/4tZVnilXcr5CaAgaVVW2be) | [天堂不過就是我們的海](https://open.spotify.com/album/5fNNz4UYiGJ1Ge3mFlaE3D) | 3:33 | 2024-06-27 |  |
 | [最初の天使](https://open.spotify.com/track/3p9LwJEPqgy4xO0YPzel4V) | [ミレー](https://open.spotify.com/artist/5ksX7EDcPMxGNLDdoYnIlN) | [ブルー、燃えて](https://open.spotify.com/album/2ZVGLo7bZhWhsNOGO28Tkr) | 4:15 | 2024-08-15 | 2024-10-11 |
+| [触れて \- re\-recording](https://open.spotify.com/track/0a2u5s21XvkRuDNcQ5h4Yy) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [触れて \(re\-recording\)](https://open.spotify.com/album/0WNfJGd9yZ6Mgmx1BNZcrm) | 3:46 | 2025-01-16 |  |
 | [途中](https://open.spotify.com/track/2frHHHja8jNzy5s4Pdx4hr) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW) | [途中](https://open.spotify.com/album/3hdQSdjcrNG6b7MVCXBDac) | 3:31 | 2024-12-04 |  |
 | [這片海沒有夕陽](https://open.spotify.com/track/0M52mIICT8TSkwbvC0lU9o) | [打倒三明治](https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8) | [INVISIBLE TUNNELS](https://open.spotify.com/album/6XJ2wPTUeVIo4ufktIBtjV) | 4:17 | 2024-06-27 |  |
 

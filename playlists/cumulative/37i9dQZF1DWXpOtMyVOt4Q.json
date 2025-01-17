@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 207046,
       "name": "A Time to Wait",
       "url": "https://open.spotify.com/track/5KXdGGSVtKLinb8NCPUb0X"
@@ -2336,6 +2336,24 @@
       "duration_ms": 110518,
       "name": "Jiy\u016b",
       "url": "https://open.spotify.com/track/0jPFyaLzyApdcr23f2GICv"
+    },
+    {
+      "album": {
+        "name": "Jump",
+        "url": "https://open.spotify.com/album/5F9VAT5LKQLCH8wbFEpkN0"
+      },
+      "artists": [
+        {
+          "name": "Fulton St Brunch Club",
+          "url": "https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT"
+        }
+      ],
+      "date_added": "2024-05-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125333,
+      "name": "Jump",
+      "url": "https://open.spotify.com/track/76EduFgahFwWNCpyfRNcB0"
     },
     {
       "album": {

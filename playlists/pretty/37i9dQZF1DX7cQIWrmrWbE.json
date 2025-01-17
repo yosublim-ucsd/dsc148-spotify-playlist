@@ -1,6 +1,6 @@
 {
   "description": "Las canciones que suenan en todas partes est\u00e1n aqu\u00ed \ud83d\udd25  \ud83c\udfa7 ",
-  "num_followers": 88939,
+  "num_followers": 88961,
   "original_name": "Lo + Buscado: 2024",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-12-05 22:36:33",
       "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "added_at": "2024-12-05 22:36:33",
+      "album": {
         "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/3ZZlKPrWKSVI28zT3AGLQB"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
-    },
-    {
-      "added_at": "2024-12-05 22:36:33",
-      "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
-      },
-      "artists": [
-        {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
-        }
-      ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
     },
     {
       "added_at": "2024-12-05 22:36:33",
@@ -931,22 +931,18 @@
     {
       "added_at": "2024-12-05 22:36:33",
       "album": {
-        "name": "Libertinaje",
-        "url": "https://open.spotify.com/album/1EZrakgyIe1FqpiSmdHrTB"
+        "name": "TATTOO",
+        "url": "https://open.spotify.com/album/7Ht7cK6rfhcfTa78K0veYh"
       },
       "artists": [
         {
-          "name": "Kenny Die",
-          "url": "https://open.spotify.com/artist/6CHaM7DPIvAhLVOB5wNncN"
-        },
-        {
-          "name": "Sebas",
-          "url": "https://open.spotify.com/artist/4tVYC7sel44em6IS6WqA4J"
+          "name": "La \u00danica Tropical",
+          "url": "https://open.spotify.com/artist/1WUEWZGTvX4AjC2y5PoSDd"
         }
       ],
-      "duration_ms": 176312,
-      "name": "Ultra Complicado",
-      "url": "https://open.spotify.com/track/1AQEsS3qcGze9lnFy3EDVn"
+      "duration_ms": 214875,
+      "name": "TATTOO",
+      "url": "https://open.spotify.com/track/0uK4qOvijuVKXgieyScZ04"
     },
     {
       "added_at": "2024-12-05 22:36:33",

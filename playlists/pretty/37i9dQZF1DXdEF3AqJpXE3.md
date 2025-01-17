@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Gracie Abrams
+> The best tracks from the world of music\. Cover: Sasha Alex Sloan
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,651 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,658 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 49 | [Secret](https://open.spotify.com/track/6JVPcPcr4dSQWhIp9Marbb) | [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [Secret](https://open.spotify.com/album/55WL3DhdAUycGh9ufcbnv5) | 3:38 |
 | 50 | [Any Other Way \(ft\. Chelsea Cara\)](https://open.spotify.com/track/6Zlog2HMf4cElxki3ZWBGd) | [Ralph Alvern](https://open.spotify.com/artist/5rHKu25IpEOc7hkwaWNldt), [Chelsea Cara](https://open.spotify.com/artist/7byrDnFqEOBAWyWRFuYUrJ) | [Any Other Way \(ft\. Chelsea Cara\)](https://open.spotify.com/album/41UD8EN1c1gVobtbBpawaH) | 3:35 |
 
-Snapshot ID: `Z4eDDQAAAADov5iAWByj92pXwX0iVsMD`
+Snapshot ID: `Z4ktDQAAAADyXGZh0WlCdVVBPShy400A`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Alonzo x ElGrandeToto",
+  "description": "Photo : Alonzo x GIMS",
   "name": "Best Life",
   "tracks": [
     {
@@ -50,6 +50,28 @@
       "duration_ms": 173419,
       "name": "1,2,3 Soleil",
       "url": "https://open.spotify.com/track/5dSfZLxT4QUN4maDM5H2ZW"
+    },
+    {
+      "album": {
+        "name": "2, 3 shots",
+        "url": "https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153170,
+      "name": "2, 3 shots",
+      "url": "https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5"
     },
     {
       "album": {
@@ -336,7 +358,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 149443,
       "name": "Bababa",
       "url": "https://open.spotify.com/track/1wE89iLKbmFgFDg2eXHjbB"
@@ -906,6 +928,28 @@
       "duration_ms": 133894,
       "name": "Coucou",
       "url": "https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg"
+    },
+    {
+      "album": {
+        "name": "Couteau dans le dos",
+        "url": "https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163373,
+      "name": "Couteau dans le dos",
+      "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
     },
     {
       "album": {
@@ -2352,7 +2396,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 162246,
       "name": "Mayday",
       "url": "https://open.spotify.com/track/5E8kxgxJswnI9TBzISn1Zg"
@@ -2614,7 +2658,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 180923,
       "name": "M\u00e9lanine",
       "url": "https://open.spotify.com/track/7GCU3DlRW3s65f6JjNBrM4"
@@ -2658,6 +2702,24 @@
       "duration_ms": 171266,
       "name": "NEXT",
       "url": "https://open.spotify.com/track/7I396oMpP77YKsQVOAQWFv"
+    },
+    {
+      "album": {
+        "name": "Ninja",
+        "url": "https://open.spotify.com/album/39xwTsc5q8GVro9ucEFlN9"
+      },
+      "artists": [
+        {
+          "name": "THABITI",
+          "url": "https://open.spotify.com/artist/5Ea2kDQeQNQrIcI6tCthaQ"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173280,
+      "name": "Ninja",
+      "url": "https://open.spotify.com/track/1PfPRKKPubW0ippMhlO3I7"
     },
     {
       "album": {
@@ -3028,7 +3090,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 171038,
       "name": "Paparigo",
       "url": "https://open.spotify.com/track/1FHE8HWaTOW9vMXBuJOsS6"
@@ -4214,6 +4276,28 @@
       "duration_ms": 217773,
       "name": "Ti\u00e9 fou",
       "url": "https://open.spotify.com/track/2pSmuV6Vt0KkJLoEfB2DxW"
+    },
+    {
+      "album": {
+        "name": "Tour du Monde",
+        "url": "https://open.spotify.com/album/7de883jdeEEshL3nkpjWRy"
+      },
+      "artists": [
+        {
+          "name": "Soprano",
+          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
+        },
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165640,
+      "name": "Tour du Monde",
+      "url": "https://open.spotify.com/track/7Mk0whTW3cBo3dLgCACZsf"
     },
     {
       "album": {

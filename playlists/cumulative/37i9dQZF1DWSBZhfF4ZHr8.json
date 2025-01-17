@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Julien Lieb",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : SANTA",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -374,7 +374,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 186461,
       "name": "CIEL",
       "url": "https://open.spotify.com/track/78FNSZkI1968KTtyf2s315"
@@ -522,6 +522,24 @@
       "duration_ms": 174586,
       "name": "Dans tes yeux",
       "url": "https://open.spotify.com/track/7edwJhO0eZpCMtfj3wcXuv"
+    },
+    {
+      "album": {
+        "name": "L'orage",
+        "url": "https://open.spotify.com/album/3O6SXe2rtSvjVDWIx0EFHs"
+      },
+      "artists": [
+        {
+          "name": "Alien",
+          "url": "https://open.spotify.com/artist/5Y80Kn16d4undgMzx4SaYS"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147746,
+      "name": "Demain",
+      "url": "https://open.spotify.com/track/5fhU1hRABiGlPsX84Ufw4w"
     },
     {
       "album": {
@@ -1422,7 +1440,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-13",
+      "date_removed": null,
       "duration_ms": 183626,
       "name": "Last in Line - 2024 Edit",
       "url": "https://open.spotify.com/track/1pVzuj2JaCUDdK57ls4VGV"
@@ -1516,6 +1534,24 @@
       "duration_ms": 201761,
       "name": "Le jeu",
       "url": "https://open.spotify.com/track/4Z8N4nXtKxm04qi4tE91Gn"
+    },
+    {
+      "album": {
+        "name": "Le monde demain (Version radio)",
+        "url": "https://open.spotify.com/album/4rWgy3CQjjhcKFtVL2ABcz"
+      },
+      "artists": [
+        {
+          "name": "Les Enfoir\u00e9s",
+          "url": "https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Le monde demain (Version radio)",
+      "url": "https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6"
     },
     {
       "album": {
@@ -2188,7 +2224,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 148347,
       "name": "Parle-moi... ou pas",
       "url": "https://open.spotify.com/track/1fvWSvZOi1xm2MzxS4IMCZ"
@@ -2210,6 +2246,24 @@
       "duration_ms": 160441,
       "name": "Pas d'apr\u00e8s",
       "url": "https://open.spotify.com/track/1Mqj9RgFGepZinzA1QleP5"
+    },
+    {
+      "album": {
+        "name": "Miroirs (Edition deluxe)",
+        "url": "https://open.spotify.com/album/04A7mKLEyi4mTTDPM9obKL"
+      },
+      "artists": [
+        {
+          "name": "Joseph Kamel",
+          "url": "https://open.spotify.com/artist/5SQFDZOMgKao4hMpULEaoI"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161213,
+      "name": "Petit Fr\u00e8re",
+      "url": "https://open.spotify.com/track/0iQ5nlzoc9DlHPoIpnznZG"
     },
     {
       "album": {
@@ -2308,7 +2362,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 215506,
       "name": "Pour de bon",
       "url": "https://open.spotify.com/track/2kmIpQXsWwIpvZJ8qr7pGJ"
@@ -2820,7 +2874,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 151973,
       "name": "Tour du Monde",
       "url": "https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS"
@@ -3080,7 +3134,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 166253,
       "name": "Vice Versa",
       "url": "https://open.spotify.com/track/4QkVu4w7ZBVBrojCfnt98F"
@@ -3160,6 +3214,24 @@
       "duration_ms": 141576,
       "name": "Z\u00c9RO PAR MOIS",
       "url": "https://open.spotify.com/track/2NnB2R2wQgOrkOvnJWV4eM"
+    },
+    {
+      "album": {
+        "name": "\u00c9clipse",
+        "url": "https://open.spotify.com/album/2tryf1NNnBazdfajfCu8CW"
+      },
+      "artists": [
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149701,
+      "name": "\u00c9clipse",
+      "url": "https://open.spotify.com/track/5gU2ECk7MScaV90WACzux7"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWSBZhfF4ZHr8"

@@ -1,31 +1,35 @@
 {
-  "description": "nyeste bedste rap i dk <a href=\"spotify:artist:1GLzVjVa7bLnAcD1At98j3\">@Omar</a>",
+  "description": "min ven er <a href=\"spotify:artist:3Tg0bQKDqc4ONwmKywDq72\">@Mas</a> og vi er p\u00e5 m\u00e5nen over hans nye \ud83c\udf1c<a href=\"spotify:album:16EjNHcMJ402k7OhdoFxqS\">album</a>\ud83c\udf1b",
   "num_followers": 187520,
   "original_name": "100 dk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4eYCQAAAADndd3afNS4cyqPLH8x0o83",
+  "snapshot_id": "Z4mPoQAAAAAAOzhYhgiCF+3Ag5GSHMKS",
   "tracks": [
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
-        "name": "Locked Up",
-        "url": "https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs"
+        "name": "M\u00e5nen Er Min Ven",
+        "url": "https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS"
       },
       "artists": [
         {
-          "name": "Omar",
-          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "Artigeardit",
+          "url": "https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk"
         }
       ],
-      "duration_ms": 177573,
-      "name": "Locked Up",
-      "url": "https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M"
+      "duration_ms": 141668,
+      "name": "Bare Vent (feat. Artigeardit)",
+      "url": "https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "EUROSTAR",
         "url": "https://open.spotify.com/album/6eJDqX0k8DbyYQHqeai3uT"
@@ -49,7 +53,7 @@
       "url": "https://open.spotify.com/track/46gf5ClsKEE6P2B7Kd7vCi"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Robocop",
         "url": "https://open.spotify.com/album/0kT4pDLex7Z2vGzjmFMxWC"
@@ -65,7 +69,63 @@
       "url": "https://open.spotify.com/track/6TT6zYIiI0nSzXMuI801zP"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
+      "album": {
+        "name": "M\u00e5nen Er Min Ven",
+        "url": "https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        },
+        {
+          "name": "Kundo",
+          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
+        }
+      ],
+      "duration_ms": 184264,
+      "name": "Sm\u00e5ting (feat. Lamin & Kundo)",
+      "url": "https://open.spotify.com/track/2ZwOtQXG5k1M7gHmTmTMgw"
+    },
+    {
+      "added_at": "2025-01-16 23:00:49",
+      "album": {
+        "name": "Locked Up",
+        "url": "https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs"
+      },
+      "artists": [
+        {
+          "name": "Omar",
+          "url": "https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M"
+    },
+    {
+      "added_at": "2025-01-16 23:00:49",
+      "album": {
+        "name": "For Evigt",
+        "url": "https://open.spotify.com/album/3HDRHW7uO9debf03J3s3L6"
+      },
+      "artists": [
+        {
+          "name": "LAY",
+          "url": "https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0"
+        }
+      ],
+      "duration_ms": 176349,
+      "name": "For Evigt",
+      "url": "https://open.spotify.com/track/1Ya4w6iBrJCUWfofV31nRw"
+    },
+    {
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "L\u00f8nningsdag",
         "url": "https://open.spotify.com/album/6lKquTEVqANfNikVyLGSsu"
@@ -81,7 +141,7 @@
       "url": "https://open.spotify.com/track/04oUfyBc6pT1svmfkYnsZU"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "2 Stepper Freestyle",
         "url": "https://open.spotify.com/album/3R1WXSHdUszaP4eL8yQrQy"
@@ -101,7 +161,7 @@
       "url": "https://open.spotify.com/track/3r0C7cXKzwGQaKLFHr810N"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Mit Ord",
         "url": "https://open.spotify.com/album/2n1YkH9GplOZunXhT8ucqL"
@@ -117,7 +177,7 @@
       "url": "https://open.spotify.com/track/2MTuvBUexLhmsiRpIozOL5"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
@@ -137,7 +197,7 @@
       "url": "https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "BABA BUSINESS 3 (DELUXE)",
         "url": "https://open.spotify.com/album/4JITSDwkgMxh2VK5ScfMEl"
@@ -157,7 +217,43 @@
       "url": "https://open.spotify.com/track/2WuXxMvcuRqrfXAMXtXM9s"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
+      "album": {
+        "name": "UPPERCLA$$",
+        "url": "https://open.spotify.com/album/7vbC3MlULMbqJeYah2xMhH"
+      },
+      "artists": [
+        {
+          "name": "Magzim",
+          "url": "https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn"
+        }
+      ],
+      "duration_ms": 177598,
+      "name": "UPPERCLA$$",
+      "url": "https://open.spotify.com/track/2CUPM4Wh4ikPogZy40Vvav"
+    },
+    {
+      "added_at": "2025-01-16 23:00:49",
+      "album": {
+        "name": "M\u00e5nen Er Min Ven",
+        "url": "https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS"
+      },
+      "artists": [
+        {
+          "name": "MAS",
+          "url": "https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "duration_ms": 209259,
+      "name": "Stime (feat. KESI)",
+      "url": "https://open.spotify.com/track/5rBJLnaIpZ2NJQTWmjJNYO"
+    },
+    {
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Bling Blow",
         "url": "https://open.spotify.com/album/20E3eDgNBD57mnDQOkDhog"
@@ -173,27 +269,7 @@
       "url": "https://open.spotify.com/track/7vvPtbWQ6cna3R9OXspTdG"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
-      "album": {
-        "name": "Corner (feat. Kundo)",
-        "url": "https://open.spotify.com/album/5owzxmn7ji3rft2d9MRPQs"
-      },
-      "artists": [
-        {
-          "name": "Eezy",
-          "url": "https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe"
-        },
-        {
-          "name": "Kundo",
-          "url": "https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr"
-        }
-      ],
-      "duration_ms": 148366,
-      "name": "Corner (feat. Kundo)",
-      "url": "https://open.spotify.com/track/19DGsppn5cfEieTtozoi3R"
-    },
-    {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Har H\u00f8rt Dig",
         "url": "https://open.spotify.com/album/3gbegKHxsPWWgVtej2tTQw"
@@ -209,7 +285,7 @@
       "url": "https://open.spotify.com/track/2bFgjHMqGThTzlv6V94V5v"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "FEJLFRI",
         "url": "https://open.spotify.com/album/3Ol3v4wh1s4M1oK1xhyLpq"
@@ -225,27 +301,7 @@
       "url": "https://open.spotify.com/track/4AsiNZTuFAwk93V9DP7lt7"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
-      "album": {
-        "name": "LIBIDO (feat. Klamfyr)",
-        "url": "https://open.spotify.com/album/1BdZ4GEduxlWS687hqZixY"
-      },
-      "artists": [
-        {
-          "name": "Carl Knast",
-          "url": "https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug"
-        },
-        {
-          "name": "Klamfyr",
-          "url": "https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS"
-        }
-      ],
-      "duration_ms": 250415,
-      "name": "LIBIDO (feat. Klamfyr)",
-      "url": "https://open.spotify.com/track/0vgUUxwkExFRwBF4cRGkGw"
-    },
-    {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "500Tanker",
         "url": "https://open.spotify.com/album/151Snp4n9x06Mlsmno4PsU"
@@ -265,7 +321,7 @@
       "url": "https://open.spotify.com/track/1hzblUB7PFLOdm4YKnkoVL"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Mentalitet",
         "url": "https://open.spotify.com/album/313cbKPg6w2qN4KeOZpzbg"
@@ -281,7 +337,7 @@
       "url": "https://open.spotify.com/track/28Jum9DRwaDkwFJo1yQfIC"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "DIN D***",
         "url": "https://open.spotify.com/album/7jWNDmH3G86KqiYYujHwyX"
@@ -297,7 +353,7 @@
       "url": "https://open.spotify.com/track/0swsQ89i02Rzqi5yvfilAR"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "CLEOPATRA",
         "url": "https://open.spotify.com/album/0r4JsF8r5F6np0Dyt5P4e6"
@@ -313,7 +369,7 @@
       "url": "https://open.spotify.com/track/65C4AmFA6oyMJ2lwLNPiIB"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "MOLLY",
         "url": "https://open.spotify.com/album/508PdlAqwptvHS6IuII1H7"
@@ -329,7 +385,7 @@
       "url": "https://open.spotify.com/track/4XmuzEhU6LPRL4fdWqt6LU"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
@@ -349,7 +405,7 @@
       "url": "https://open.spotify.com/track/1z8kbKSGPNRBSbgtkgCUwH"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "4:44",
         "url": "https://open.spotify.com/album/7nj291ovgMINOO9owFsM2o"
@@ -365,7 +421,7 @@
       "url": "https://open.spotify.com/track/2v28o9UzJpaFVxtJqH25XN"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Det Gyldne Snit",
         "url": "https://open.spotify.com/album/3vyD0ISit04iXRKGjfnqP3"
@@ -385,7 +441,7 @@
       "url": "https://open.spotify.com/track/4P7QKDFvuqcCJhUMEzX06Z"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu"
@@ -401,7 +457,7 @@
       "url": "https://open.spotify.com/track/4Lmdqx9Yc6JWAUl4i1QFZy"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "EUROPA (feat. Gobs)",
         "url": "https://open.spotify.com/album/2QhpPNOEetQcsy6U3Q6hTw"
@@ -421,7 +477,7 @@
       "url": "https://open.spotify.com/track/2lTjq0awAyliTkJoq29sDR"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
@@ -441,7 +497,7 @@
       "url": "https://open.spotify.com/track/3xJeUxbt51wpvGk3YzqxLi"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "H V D O L",
         "url": "https://open.spotify.com/album/4BkWRBQ1YISV5dYFaUD3bz"
@@ -457,7 +513,7 @@
       "url": "https://open.spotify.com/track/2ZMH3fAwB2VlcmPOrFMnX6"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "TIDEN G\u00c5R",
         "url": "https://open.spotify.com/album/1bLLZAeFsZEdLJISWYN0NN"
@@ -481,23 +537,7 @@
       "url": "https://open.spotify.com/track/2kH5EAaAaLILXLSkg1orBu"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
-      "album": {
-        "name": "V\u00c5GEN",
-        "url": "https://open.spotify.com/album/14UkKDJNK0LOqFWJvlg3LL"
-      },
-      "artists": [
-        {
-          "name": "Cizzo",
-          "url": "https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP"
-        }
-      ],
-      "duration_ms": 163448,
-      "name": "V\u00c5GEN",
-      "url": "https://open.spotify.com/track/0imtF0Mddv5FVKQUUgcG3R"
-    },
-    {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/5mtaGoCppxoFcyZ7B02wiV"
@@ -513,7 +553,7 @@
       "url": "https://open.spotify.com/track/0uvfJzdcz7rKBlDshVco6M"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Original\u00e9",
         "url": "https://open.spotify.com/album/1liy58f0TzhZyDYcyDnIxT"
@@ -529,7 +569,7 @@
       "url": "https://open.spotify.com/track/7a8QNbrbohDxhdtp0jnJHQ"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "BABA BUSINESS 3 (DELUXE)",
         "url": "https://open.spotify.com/album/1jsKNmpMXAq6jIVLeqgTt8"
@@ -545,23 +585,7 @@
       "url": "https://open.spotify.com/track/0TmC1L3dxMPv9B2CNrSSWr"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
-      "album": {
-        "name": "WHIP",
-        "url": "https://open.spotify.com/album/5WTSkqMuWHQ1GZNcmIi7x3"
-      },
-      "artists": [
-        {
-          "name": "Tan",
-          "url": "https://open.spotify.com/artist/7KhbTeqa1IUlb1qlPCp1Uh"
-        }
-      ],
-      "duration_ms": 137785,
-      "name": "WHIP",
-      "url": "https://open.spotify.com/track/5FXf7c1DvnUgYBcRqVQJls"
-    },
-    {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Refleks (feat. Noah Carter)",
         "url": "https://open.spotify.com/album/2pJqGNMut48lMvxFWu8A99"
@@ -581,7 +605,7 @@
       "url": "https://open.spotify.com/track/3b7vV6z96LzkMXHDHFnI98"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "AFIA",
         "url": "https://open.spotify.com/album/06AoWxxRjXZhruttcclMo1"
@@ -597,7 +621,7 @@
       "url": "https://open.spotify.com/track/7J1jKRUJlMslfsVIZKx3ra"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "JACK & PEPSI",
         "url": "https://open.spotify.com/album/7sGyaU81DDhnyRsNDE7M4S"
@@ -613,7 +637,7 @@
       "url": "https://open.spotify.com/track/4rBFry7KERpMK0TnvWec9d"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "TING",
         "url": "https://open.spotify.com/album/6YgrRQmsM1irqjqGqK1L3p"
@@ -629,7 +653,7 @@
       "url": "https://open.spotify.com/track/72wJOhGdhN7Kvyt0me9QoT"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "TUR",
         "url": "https://open.spotify.com/album/06v2NyjhzBbbP8pJTgD6CY"
@@ -645,7 +669,7 @@
       "url": "https://open.spotify.com/track/3tdLAVZXE1322hN8xl6EDH"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -665,7 +689,7 @@
       "url": "https://open.spotify.com/track/1ByKkALevy63Nd0VBw1ToD"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "SkyLL",
         "url": "https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x"
@@ -685,7 +709,7 @@
       "url": "https://open.spotify.com/track/4MJG5WsX0iZPnSsToLXiqh"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "KENNY",
         "url": "https://open.spotify.com/album/0vYywoBHcZgwW08A2rA9fU"
@@ -705,7 +729,7 @@
       "url": "https://open.spotify.com/track/0rcIh1T4A2EH5TzqXmu63m"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Pr\u00e6sident",
         "url": "https://open.spotify.com/album/5dM1hfCHPDlvvnYTE5iF66"
@@ -721,7 +745,7 @@
       "url": "https://open.spotify.com/track/6edMFU0G49Lhr1QKhAjXcm"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Ik T\u00e6nk",
         "url": "https://open.spotify.com/album/5n4ey0dkxY74pWN64tZXFr"
@@ -737,7 +761,7 @@
       "url": "https://open.spotify.com/track/3WusoRwl3lmALNHo2chydw"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Alt Jeg Ved",
         "url": "https://open.spotify.com/album/1J3B8CTSjWSEYMUGFAKtrR"
@@ -753,7 +777,7 @@
       "url": "https://open.spotify.com/track/2zUjOppXfaT81EFetWuNG7"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "De Her Timer",
         "url": "https://open.spotify.com/album/3Q4XiWwBXMxMlz9LZ2cZYo"
@@ -773,7 +797,7 @@
       "url": "https://open.spotify.com/track/2j59di23XCFfbdJPE5KuNw"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -809,7 +833,7 @@
       "url": "https://open.spotify.com/track/7v8QWTqh1nIhr3Uak06BxK"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "FOMO 88.8 FM",
         "url": "https://open.spotify.com/album/4B4EYQ1TfHMWJlOTTpenmn"
@@ -829,7 +853,7 @@
       "url": "https://open.spotify.com/track/62SSTz9Jwu05YFqfEXBfOq"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "DJ\u00c6VLER (feat. Branco)",
         "url": "https://open.spotify.com/album/1IFxOx0LMpGzKX5rNpPBqs"
@@ -849,7 +873,7 @@
       "url": "https://open.spotify.com/track/6Sp9amnEFMskwgObFDpZK4"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "33",
         "url": "https://open.spotify.com/album/5Ytdk3d0W8f27FngQnDFqC"
@@ -869,7 +893,7 @@
       "url": "https://open.spotify.com/track/5pRUX652p9FfIQVmJNtz9d"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Vakuum",
         "url": "https://open.spotify.com/album/2L8St3KnSEuLWvNNkKSKts"
@@ -889,7 +913,7 @@
       "url": "https://open.spotify.com/track/0oMLqIM9gyxXKpmtNZVTKm"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Samme side",
         "url": "https://open.spotify.com/album/4JvKstwK5cNoLJtqVnhp0P"
@@ -905,27 +929,7 @@
       "url": "https://open.spotify.com/track/5lZny8ZmRtXueq7D3LTgb5"
     },
     {
-      "added_at": "2025-01-15 11:12:09",
-      "album": {
-        "name": "Indtil Solen Kom (Feat. Branco)",
-        "url": "https://open.spotify.com/album/6jd21AriSyqHTX9fpyr1qr"
-      },
-      "artists": [
-        {
-          "name": "Sinds",
-          "url": "https://open.spotify.com/artist/5LQSZR4648SuVALNNyHx3G"
-        },
-        {
-          "name": "Branco",
-          "url": "https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6"
-        }
-      ],
-      "duration_ms": 145183,
-      "name": "Indtil Solen Kom (Feat. Branco)",
-      "url": "https://open.spotify.com/track/1kYSGphNRoOpYoe3x63qsd"
-    },
-    {
-      "added_at": "2025-01-15 11:12:09",
+      "added_at": "2025-01-16 23:00:49",
       "album": {
         "name": "Energien",
         "url": "https://open.spotify.com/album/4aiBX7RmA3AOlIE1dPlmPV"
@@ -939,22 +943,6 @@
       "duration_ms": 165335,
       "name": "Energien",
       "url": "https://open.spotify.com/track/24iwVwLUrHV2Y1Bmfyr5sq"
-    },
-    {
-      "added_at": "2025-01-15 11:12:09",
-      "album": {
-        "name": "Fungerer",
-        "url": "https://open.spotify.com/album/4qSZPlNs2Jh7eib2Geb7AR"
-      },
-      "artists": [
-        {
-          "name": "Zay",
-          "url": "https://open.spotify.com/artist/3JhlhYS9Xux5aLo2HzHh2Z"
-        }
-      ],
-      "duration_ms": 176727,
-      "name": "Fungerer",
-      "url": "https://open.spotify.com/track/35pRKsTd60JHRRl1GH2W5i"
     }
   ],
   "unique_name": "100 dk",

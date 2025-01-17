@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAG4qdp8RNpF18Jzh5iuH+p06DMtG8y",
+  "snapshot_id": "AAAG4w1MlObbdIEkHnWPuEBgt4NURMP6",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -8867,6 +8867,22 @@
       "duration_ms": 198000,
       "name": "The Rolling Stones",
       "url": "https://open.spotify.com/track/7sMZ7doYb71bHK8tqviTCu"
+    },
+    {
+      "added_at": "2025-01-16 11:02:10",
+      "album": {
+        "name": "Persona",
+        "url": "https://open.spotify.com/album/5jPS8sVcP89icU78a5XHNt"
+      },
+      "artists": [
+        {
+          "name": "half\u2022alive",
+          "url": "https://open.spotify.com/artist/7sOR7gk6XUlGnxj3p9F54k"
+        }
+      ],
+      "duration_ms": 32145,
+      "name": "Persona",
+      "url": "https://open.spotify.com/track/6zl3FkdpbmNwsvCqWkcEze"
     }
   ],
   "unique_name": "Zacklog",

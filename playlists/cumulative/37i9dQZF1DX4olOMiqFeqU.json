@@ -607,6 +607,28 @@
     },
     {
       "album": {
+        "name": "Hayaan Mo Sila",
+        "url": "https://open.spotify.com/album/12DwmRcztX6NAZR0vQsYUF"
+      },
+      "artists": [
+        {
+          "name": "Ex Battalion",
+          "url": "https://open.spotify.com/artist/2iB7AJhJmkWkkehY9ccB0j"
+        },
+        {
+          "name": "O.C. Dawgs",
+          "url": "https://open.spotify.com/artist/00xU4wfephkJrjwJPDvfkf"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367229,
+      "name": "Hayaan Mo Sila",
+      "url": "https://open.spotify.com/track/7MrDfa1uQGVXx0JMZ2u5tN"
+    },
+    {
+      "album": {
         "name": "Letters Never Sent",
         "url": "https://open.spotify.com/album/3H8htbv4nP3HIjpOCbxm67"
       },
@@ -1824,7 +1846,7 @@
       ],
       "date_added": "2023-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 332406,
       "name": "panaginip",
       "url": "https://open.spotify.com/track/1AuxZd50Dpaz0cCWphYryh"

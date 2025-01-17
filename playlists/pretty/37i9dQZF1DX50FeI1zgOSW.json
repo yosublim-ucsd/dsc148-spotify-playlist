@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Supaveen",
-  "num_followers": 14085,
+  "num_followers": 14092,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CibwAAAAAHpwocOud2P6txXQ3KWV1v",
+  "snapshot_id": "Z4jXpAAAAACaL3jPmp1vZ9zB7IjQHwxY",
   "tracks": [
     {
       "added_at": "2024-12-23 05:34:44",
@@ -59,6 +59,30 @@
       "duration_ms": 284000,
       "name": "222",
       "url": "https://open.spotify.com/track/2tXKNCfIsFni2KZlJ0eY0x"
+    },
+    {
+      "added_at": "2025-01-16 09:42:00",
+      "album": {
+        "name": "Karakki (Raw Version) [From \"Think Specials\"]",
+        "url": "https://open.spotify.com/album/2aquYWJo5kwaum9LE63onr"
+      },
+      "artists": [
+        {
+          "name": "ADY KRIZ",
+          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
+        },
+        {
+          "name": "Karunguyil Ganesh",
+          "url": "https://open.spotify.com/artist/3itVmQfDbKUxkCKfOU1Pxq"
+        },
+        {
+          "name": "Vignesh Ramakrishna",
+          "url": "https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu"
+        }
+      ],
+      "duration_ms": 193300,
+      "name": "Karakki (Raw Version) - From \"Think Specials\"",
+      "url": "https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt"
     },
     {
       "added_at": "2024-12-19 11:22:09",
@@ -139,6 +163,26 @@
       "duration_ms": 228885,
       "name": "Quarter Gaali",
       "url": "https://open.spotify.com/track/3jlVcnJ0bvhYw355UV9gVd"
+    },
+    {
+      "added_at": "2025-01-16 09:55:14",
+      "album": {
+        "name": "Ammadi Azhagula",
+        "url": "https://open.spotify.com/album/1aWkgcbsReXmAfiUn1V6JN"
+      },
+      "artists": [
+        {
+          "name": "Mhoitha Balamurugan",
+          "url": "https://open.spotify.com/artist/398i2yC2xKc8oeO366SqIw"
+        },
+        {
+          "name": "Sadhasiva Jayaraman",
+          "url": "https://open.spotify.com/artist/1G2mFV9a0LgISNZXHlJnb0"
+        }
+      ],
+      "duration_ms": 289615,
+      "name": "Ammadi Azhagula",
+      "url": "https://open.spotify.com/track/4uDz10d3vMktL85WVPdY7i"
     },
     {
       "added_at": "2024-11-25 06:20:32",
@@ -247,6 +291,26 @@
       "duration_ms": 154285,
       "name": "Ve",
       "url": "https://open.spotify.com/track/6JixmCKEDe5uYKVdPsyGIY"
+    },
+    {
+      "added_at": "2025-01-16 07:38:15",
+      "album": {
+        "name": "L'sX&O's",
+        "url": "https://open.spotify.com/album/6IGEgi7J2H0IIntZYixh7w"
+      },
+      "artists": [
+        {
+          "name": "JANGGO",
+          "url": "https://open.spotify.com/artist/2jrF96ZZdfAKEnMOnIraxn"
+        },
+        {
+          "name": "Yung Nav",
+          "url": "https://open.spotify.com/artist/5YF9X28CKZHVSOZPHJa0p6"
+        }
+      ],
+      "duration_ms": 155294,
+      "name": "AZHAGE",
+      "url": "https://open.spotify.com/track/3101JsKdWxdNu7BbQWJCIY"
     },
     {
       "added_at": "2024-12-23 06:01:43",
@@ -907,26 +971,6 @@
       "duration_ms": 215996,
       "name": "Oh Kanmaniye",
       "url": "https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C"
-    },
-    {
-      "added_at": "2024-07-27 01:00:44",
-      "album": {
-        "name": "Kaadhal Mugil",
-        "url": "https://open.spotify.com/album/55TpCaFAhnwHC3vxn3rCNT"
-      },
-      "artists": [
-        {
-          "name": "Harish",
-          "url": "https://open.spotify.com/artist/30dSn7msR5gFPrPCWumBXA"
-        },
-        {
-          "name": "Samathmika K",
-          "url": "https://open.spotify.com/artist/6mknIwqnuUvjJjQznjJPHy"
-        }
-      ],
-      "duration_ms": 321330,
-      "name": "Kaadhal Mugil",
-      "url": "https://open.spotify.com/track/50hu3q96SgLFhhDX4Hm8ed"
     },
     {
       "added_at": "2024-12-16 12:35:52",

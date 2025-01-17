@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-27",
-  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  ",
+  "description": "New dance music from Deep House to Future Rave. Refreshed every Friday by Spinnin' Records. Check <a href=\"https://open.spotify.com/playlist/4173ENNA5eMzHrz9pipvxI?si=73c055caebc04ae5\">Spinnin' Records Brand New</a> for the latest Spinnin' releases.  Cover: Blasterjaxx x Kickbait x CERES",
   "name": "New Dance Music Friday",
   "tracks": [
     {
@@ -775,6 +775,28 @@
     },
     {
       "album": {
+        "name": "Blue Symphony",
+        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203225,
+      "name": "Blue Symphony",
+      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
+    },
+    {
+      "album": {
         "name": "Boadicea",
         "url": "https://open.spotify.com/album/1IXrITahfXmq47OvyQcDiV"
       },
@@ -1145,6 +1167,32 @@
     },
     {
       "album": {
+        "name": "Changes",
+        "url": "https://open.spotify.com/album/1gJLdjFptxsVUHp6PuCZoC"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        },
+        {
+          "name": "Kickbait",
+          "url": "https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE"
+        },
+        {
+          "name": "CERES",
+          "url": "https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155250,
+      "name": "Changes",
+      "url": "https://open.spotify.com/track/7c85rhgZ68cUiORoC33Yhz"
+    },
+    {
+      "album": {
         "name": "Chasing Ghosts",
         "url": "https://open.spotify.com/album/6KxYxYpOZA4xtBEZsaLORx"
       },
@@ -1286,6 +1334,28 @@
       "duration_ms": 134400,
       "name": "Could You Be Loved",
       "url": "https://open.spotify.com/track/74PQjt9auBuTHXoQk9ryS4"
+    },
+    {
+      "album": {
+        "name": "Cream",
+        "url": "https://open.spotify.com/album/7ltPrMbeM3QEMziwOCtBys"
+      },
+      "artists": [
+        {
+          "name": "DJ Kuba",
+          "url": "https://open.spotify.com/artist/1dhLLX9IY5DD8uElJwjZFX"
+        },
+        {
+          "name": "Neitan",
+          "url": "https://open.spotify.com/artist/0zKD9ej0a7KR2evA0Hu0KG"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161029,
+      "name": "Cream",
+      "url": "https://open.spotify.com/track/0DQiMuw802BljfUAbU8uxd"
     },
     {
       "album": {
@@ -1510,7 +1580,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 153290,
       "name": "Dark Days",
       "url": "https://open.spotify.com/track/0hR5LkJ583zCT6SeNacuBV"
@@ -4771,6 +4841,24 @@
     },
     {
       "album": {
+        "name": "Love Lift Me",
+        "url": "https://open.spotify.com/album/1vdBwiAI49QQ60BThS94Hv"
+      },
+      "artists": [
+        {
+          "name": "Mollie Collins",
+          "url": "https://open.spotify.com/artist/5MGgLwsKBivm7H5lJn5xRu"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161860,
+      "name": "Love Lift Me",
+      "url": "https://open.spotify.com/track/6ihF045mQ2X4Je4YudZYi4"
+    },
+    {
+      "album": {
         "name": "Love The Way You Lie (feat. Norma Jean Martine)",
         "url": "https://open.spotify.com/album/5P3i2e0G7OZFlHW6k01qNE"
       },
@@ -5056,7 +5144,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 134812,
       "name": "MF Mosh Pit",
       "url": "https://open.spotify.com/track/6N7Ky2l0OMjNjIPQuYNwlF"
@@ -5490,6 +5578,28 @@
       "duration_ms": 181406,
       "name": "Moves",
       "url": "https://open.spotify.com/track/6kGE6BO6LYjeE7VcKPe5cL"
+    },
+    {
+      "album": {
+        "name": "Muhuuuuu",
+        "url": "https://open.spotify.com/album/0nWYLT5yww5UYzyAOk8bsB"
+      },
+      "artists": [
+        {
+          "name": "Lazare",
+          "url": "https://open.spotify.com/artist/2wNX0cC5R3fT5crh35dOFd"
+        },
+        {
+          "name": "ADDAM",
+          "url": "https://open.spotify.com/artist/3pf0506idhclBF4UAL8z4Q"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163195,
+      "name": "Muhuuuuu",
+      "url": "https://open.spotify.com/track/7qrnsZLQIjYljtyWUkmZNa"
     },
     {
       "album": {
@@ -7247,6 +7357,24 @@
     },
     {
       "album": {
+        "name": "Sun Goes Down",
+        "url": "https://open.spotify.com/album/249hhHmNxiQ4pGfLGRXbQt"
+      },
+      "artists": [
+        {
+          "name": "KSHMR",
+          "url": "https://open.spotify.com/artist/2wX6xSig4Rig5kZU6ePlWe"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "Sun Goes Down",
+      "url": "https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq"
+    },
+    {
+      "album": {
         "name": "Sunshine",
         "url": "https://open.spotify.com/album/6KyLMcAh4IMPhfzapwO7st"
       },
@@ -7789,6 +7917,24 @@
     },
     {
       "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/67ZkHThH8dM6Yt3vaU4SaZ"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152954,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/5XOwgvuIpCqCIMnL1sbTB8"
+    },
+    {
+      "album": {
         "name": "The Weekend (feat. Ruth Royall)",
         "url": "https://open.spotify.com/album/14aKD3L9dAOGCRfcHIqXtf"
       },
@@ -8276,6 +8422,24 @@
       "duration_ms": 144569,
       "name": "Voices (with Naeleck) [Together We Will Rise]",
       "url": "https://open.spotify.com/track/3rNeIZvZ9kqSuCNjsJw6Si"
+    },
+    {
+      "album": {
+        "name": "Vortex",
+        "url": "https://open.spotify.com/album/3UwllTB2OERiCikVZmb4Hv"
+      },
+      "artists": [
+        {
+          "name": "Ummet Ozcan",
+          "url": "https://open.spotify.com/artist/7e1BNCygl2Gf7CX8LrByPv"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197142,
+      "name": "Vortex",
+      "url": "https://open.spotify.com/track/2yI3ZWbUDoZ2s6eMyPfA1m"
     },
     {
       "album": {

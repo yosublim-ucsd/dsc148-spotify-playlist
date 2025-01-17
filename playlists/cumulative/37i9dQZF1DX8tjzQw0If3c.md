@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DX8tjzQw0If3c.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX8tjzQw0If3c) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX8tjzQw0If3c)
 
-### [Best of RADAR SG & MY 2024](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
+### [RADAR SG & MY](https://open.spotify.com/playlist/37i9dQZF1DX8tjzQw0If3c)
 
-> Editor's picks of the best of RADAR SG & MY this year\. Cover: Sarah Suhairi
+> Listen to the future\. Cover: Amir Hasan
 
-106 songs - 5 hr 50 min
+108 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Come My Way](https://open.spotify.com/track/0DokETHZlncyL1KZZ8uAvV) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT](https://open.spotify.com/album/57nzYauMih1wJFVYtIXQ5g) | 2:58 | 2024-12-04 |  |
 | [Come My Way](https://open.spotify.com/track/5tMRRy9BsAIFN75a3t5mky) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [GRADIENT \(Deluxe\)](https://open.spotify.com/album/3TGHBQOVLMpg7SlvseBLaM) | 2:58 | 2024-06-27 | 2024-12-05 |
 | [Cuma Kamu](https://open.spotify.com/track/093ekP1E7iaXhRVPnP45lK) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Cuma Kamu \("Gadis EXXtra" OST\)](https://open.spotify.com/album/3ndBfjzSP39lUw35bAYbwW) | 4:04 | 2024-06-27 |  |
+| [Dengan Lafaznya](https://open.spotify.com/track/00aG7aYnpClj27EIoz5Dez) | [Sufian Suhaimi](https://open.spotify.com/artist/6KEEEdAqmCL7PYOrjZCnEa), [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Dengan Lafaznya](https://open.spotify.com/album/4ahsMtZmO80wBYAsbaSzQA) | 3:15 | 2025-01-16 |  |
 | [Dengar Lagu Ini](https://open.spotify.com/track/1Z5jsrIvjR5vGaKmeBMxdU) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:56 | 2024-08-08 | 2024-12-05 |
 | [discord](https://open.spotify.com/track/6CoWj9Ord9aAKzRQfEtiNq) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [discord](https://open.spotify.com/album/35a8Ha0jY3G6M5Gjncm7Jr) | 2:29 | 2024-06-27 | 2024-12-05 |
 | [discord](https://open.spotify.com/track/6QaL8AhjeisXZktC3hZBB4) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W) | [fangirl](https://open.spotify.com/album/46n9YK2DE6B0CMk8qx4Twt) | 2:29 | 2024-12-04 |  |
@@ -61,7 +62,7 @@
 | [His Way](https://open.spotify.com/track/4WWeTzsyYWKlMMyHJtKlya) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [His Way](https://open.spotify.com/album/3DXndWkLpoRlEhZEYDlqC8) | 3:53 | 2024-06-27 | 2024-12-05 |
 | [His Way](https://open.spotify.com/track/57Mvqrchz1OCmKzManSeCx) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [99](https://open.spotify.com/album/45vLbFMEvx4jcIFhoFSGab) | 3:53 | 2024-12-04 |  |
 | [Hours](https://open.spotify.com/track/4aaeCfnNc21IRpL7SsQexE) | [Josh Makazo](https://open.spotify.com/artist/6xx5onyQzBbqxee5Ogqouv) | [Hours](https://open.spotify.com/album/0VibEYS0NHzR76zvg7c5w1) | 2:43 | 2024-06-27 |  |
-| [i don't rly care bout u!](https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [i don't rly care bout u!](https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS) | 3:22 | 2024-10-03 | 2024-12-05 |
+| [i don't rly care bout u!](https://open.spotify.com/track/4hp0U870kcIYAmyXwh38zt) | [Regina Song](https://open.spotify.com/artist/3Y7gOnKYWfQlEdgXag0Z6W), [hongjoin](https://open.spotify.com/artist/2zDF6PeSxBlLKma4IMAlLu) | [i don't rly care bout u!](https://open.spotify.com/album/0NcC6LXLRpKMmD1zjPCaKS) | 3:22 | 2024-10-03 |  |
 | [In Love With A Stranger \(Remake\)](https://open.spotify.com/track/1UDSrM6Aok7nFeFal7EBpa) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [In Love With A Stranger \(Remake\)](https://open.spotify.com/album/3XuN7gq843sayU9PbM7ROv) | 2:43 | 2024-06-27 | 2024-12-05 |
 | [It's fine](https://open.spotify.com/track/2D7lRROAOXXV7qW6XRoitb) | [rhyu](https://open.spotify.com/artist/01861Hi28PdrPUOZwFaMcJ) | [It's fine](https://open.spotify.com/album/6IQk5FiKzylrpts1maZT6y) | 5:05 | 2024-06-27 |  |
 | [Jauh \- From "Malang Si Puteri"](https://open.spotify.com/track/0bmR1XPsuMXJ1snTrVjx7B) | [Adrianna Cinta](https://open.spotify.com/artist/7aGKWIJ44Gs7eQ7cCKVskG) | [Jauh \(From "Malang Si Puteri"\)](https://open.spotify.com/album/1FbTgkQm4mJQ0xPw9p9mfM) | 3:40 | 2024-06-27 |  |
@@ -81,6 +82,7 @@
 | [Paku Durjana](https://open.spotify.com/track/5vbqoD5GJOqWVqE4KFvnzZ) | [COËX](https://open.spotify.com/artist/5Ia90P1tKtsgewYwo24Jxr) | [Paku Durjana](https://open.spotify.com/album/6WqYQYvMxCFou2gVnk7B4E) | 3:24 | 2024-06-27 |  |
 | [Pasrah](https://open.spotify.com/track/6XtqjjLBLM2rgRXwtn0KdE) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pasrah](https://open.spotify.com/album/0vbNRbVX4WBYMcD9YM5uEg) | 4:13 | 2024-06-27 |  |
 | [Pedih](https://open.spotify.com/track/3lLEmlUfLNIQry6Baf50iz) | [Sarah Suhairi](https://open.spotify.com/artist/4cp5lD2rybf8yNVDEKy7Nh) | [Pedih](https://open.spotify.com/album/6Jh4YyOjQZAJZvRhPBEJSb) | 3:59 | 2024-06-27 |  |
+| [Pelangi \- From "Cikgu Diva"](https://open.spotify.com/track/07ZbuMc2LJNyA93ofiKtdp) | [Amir Hasan](https://open.spotify.com/artist/2OAmsrxhQIJQRat9EY8PxL) | [Pelangi \(From "Cikgu Diva"\)](https://open.spotify.com/album/65T4vUTaR6OMybcXa60Ebd) | 2:38 | 2025-01-16 |  |
 | [Pentas Sandiwara](https://open.spotify.com/track/1fEgsbDomEXg2NXa6CaAUt) | [FUGŌ](https://open.spotify.com/artist/3hEKO0G14FtmNtAodD9Liy) | [Pentas Sandiwara](https://open.spotify.com/album/1IjSlt19qg8tzbhyBtbdkR) | 4:04 | 2024-07-18 | 2024-12-05 |
 | [PHASES](https://open.spotify.com/track/79oTiBLxuzMqY4WVFxdFek) | [Axel Brizzy](https://open.spotify.com/artist/25WvXcmQl42yfbnOlfM3JB) | [PHASES](https://open.spotify.com/album/6kj5QQJhYMvQZfdy9RJnS3) | 1:53 | 2024-09-19 | 2024-12-05 |
 | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/track/5EJEftAM7FGp3rqzqlGTAj) | [J.M3](https://open.spotify.com/artist/1iuvFwzMREPmNlzoX1h8gx) | [Pick 'Em Up \(Theme Song from "Affyn \- Buddy Arena"\)](https://open.spotify.com/album/3ObMniiI2YCYoaNXWhWBYW) | 2:52 | 2024-06-27 | 2024-12-05 |

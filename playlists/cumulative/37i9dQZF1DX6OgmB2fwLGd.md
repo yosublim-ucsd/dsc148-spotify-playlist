@@ -4,7 +4,7 @@
 
 > Nettspend\. Born and raised on the internet.
 
-1,091 songs - 1 day 20 hr 21 min
+1,092 songs - 1 day 20 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [32 Freestyle](https://open.spotify.com/track/0obPh9Q2J9vcIFsyhDjDkF) | [BabyDrill](https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv) | [Drill Season \(Extended\)](https://open.spotify.com/album/6daSSJZ16r6AH9gj8bZbWG) | 2:25 | 2024-07-30 |  |
 | [3G \(feat\. Lil Uzi Vert\)](https://open.spotify.com/track/3O0XntET8Ee1nFI3rDTwOJ) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [2 Alivë \(Geëk Pack\)](https://open.spotify.com/album/0345WPzPBSeISh2IpIQWxT) | 2:50 | 2022-04-01 | 2022-07-23 |
 | [3rd World](https://open.spotify.com/track/1ykurvqNgGYzkIPtEP0ASi) | [Glokk40Spaz](https://open.spotify.com/artist/7p9z8XOXVNeBNvs9EOxX2W) | [Took The Biggest Risk](https://open.spotify.com/album/1uxKUKESMaMQcxcoCp2dte) | 2:25 | 2023-09-08 | 2023-10-28 |
-| [40](https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [40](https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt) | 1:04 | 2024-01-12 |  |
+| [40](https://open.spotify.com/track/6sZE18zA8OJpr3h5VDboWH) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [xaviersobased](https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd), [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [40](https://open.spotify.com/album/2I05gcZaTo8nNuUC6PSwnt) | 1:04 | 2024-01-12 | 2025-01-17 |
 | [4AM](https://open.spotify.com/track/5T0OwBv2hItWQkKnzvFkNF) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [4AM](https://open.spotify.com/album/7I80383Bwa36xMdj5TamAx) | 1:49 | 2024-09-20 |  |
 | [5 O'Clock](https://open.spotify.com/track/0N1GBe2yFs6rl9K2EwYVZu) | [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [5 O'Clock](https://open.spotify.com/album/0BvuoUOJ8MvkQRMfRwmYSG) | 3:13 | 2023-04-28 | 2023-05-27 |
 | [5 Percent](https://open.spotify.com/track/5yRA5qmT2zOP5DTfCONS6Z) | [Roddy P](https://open.spotify.com/artist/1N3U83dsU5JDoKi67D1uZz) | [5 Percent](https://open.spotify.com/album/1qfeSZwjjTa2pU1zW6Mndk) | 1:50 | 2021-11-23 | 2022-04-09 |
@@ -769,6 +769,7 @@
 | [Phoenix](https://open.spotify.com/track/05oDQ0AKZbqbe9XDULlLvb) | [KA$HDAMI](https://open.spotify.com/artist/4YEl33ar2WlUSF94Yh9CCf) | [Phoenix](https://open.spotify.com/album/4sNc9KldCWasHxdJqJyUAa) | 2:13 | 2022-04-29 | 2022-09-22 |
 | [piccolo](https://open.spotify.com/track/0b7C1NzdU4gz5CaNzBtuuk) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/7mwlACYa6uAssuCnKPxHId) | 2:00 | 2022-06-17 | 2022-10-08 |
 | [piccolo](https://open.spotify.com/track/5sG5EZKp6PoT7RnGEjjmUz) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [piccolo](https://open.spotify.com/album/6CawCRs087xs45bGR0Wz8K) | 2:00 | 2022-05-20 | 2022-08-21 |
+| [Pink Dreads](https://open.spotify.com/track/03q42wfmoXx8bYHwEuzBGh) | [DDG](https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Pink Dreads](https://open.spotify.com/album/3ahkBm54CZgZ6N5UhpzJ1A) | 2:00 | 2025-01-16 |  |
 | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/track/4Pt80KvnL6e8DCd9QVx7Ht) | [LeoStayTrill](https://open.spotify.com/artist/3Ut1IKlpXHBQwxklMxBsPX), [Mr Reload It](https://open.spotify.com/artist/51Ap1wNTfeway5Q06oFCLh) | [Pink Lemonade \(Str8 Reload\)](https://open.spotify.com/album/6U566ZLDCRo8vWgGTuQaUa) | 2:02 | 2024-07-30 |  |
 | [Pistachio](https://open.spotify.com/track/24gNOagTwbIoTzUd6FCUU6) | [MVW](https://open.spotify.com/artist/6DPonzduAacLR7OvVxXsTq), [Valee](https://open.spotify.com/artist/4hRL2QmahOYxXNmNKtG1AI), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Pistachio](https://open.spotify.com/album/4OIYHFhmlT5clpfIJpi720) | 2:56 | 2023-06-01 | 2023-09-23 |
 | [Pizza Time](https://open.spotify.com/track/3pxg2vxImneIXH7Kt4raVM) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pizza Time](https://open.spotify.com/album/6ZiijIxxYqmi8nIzsPe8dL) | 1:59 | 2024-05-31 |  |
@@ -861,7 +862,7 @@
 | [SEXX NOTE](https://open.spotify.com/track/350QjNeeZyUgeKtgOcchfh) | [christian](https://open.spotify.com/artist/18SVpySrjBWD0zsd1PwlSm) | [SEXX NOTE](https://open.spotify.com/album/1eFQM6nSujm89z7HUqJghk) | 1:35 | 2024-04-19 |  |
 | [Shake](https://open.spotify.com/track/010MlmLvo1ca6KMRLKayli) | [Headband Andy](https://open.spotify.com/artist/1yGHqqvb0V7V4u2PBaprSm) | [Planet Headband \(Deluxe\)](https://open.spotify.com/album/1CX6Qu9EAzLdIKtuqvPFAR) | 1:37 | 2021-11-10 | 2022-02-05 |
 | [Shake](https://open.spotify.com/track/18pZAkoz9eNXd6gpy48RQL) | [IShowSpeed](https://open.spotify.com/artist/2DZw407Bgg2Hu9E6NDgRTb), [Aura The Scientist](https://open.spotify.com/artist/4gTlq0DUpq2DYYgTEQeD9O) | [ISHOWSPEED](https://open.spotify.com/album/0A289AosxAJWEwIS8ILlqQ) | 2:36 | 2021-12-22 | 2022-02-23 |
-| [shake](https://open.spotify.com/track/75wgmmlBL3YDXQAnDhPNQD) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [shake](https://open.spotify.com/album/46ocNapng2exRLthBCsk29) | 1:45 | 2024-02-23 |  |
+| [shake](https://open.spotify.com/track/75wgmmlBL3YDXQAnDhPNQD) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [joyful](https://open.spotify.com/artist/1tE2eVlHSwplXAtuYtlBeZ) | [shake](https://open.spotify.com/album/46ocNapng2exRLthBCsk29) | 1:45 | 2024-02-23 | 2025-01-17 |
 | [Shakira!](https://open.spotify.com/track/1zCQXSnLkfXq3TzMLr6pWf) | [1nonly](https://open.spotify.com/artist/3ZHU5AKrUmIPnCFfr82QER), [EGOVERT](https://open.spotify.com/artist/4PfKPdq8QEgcerLwGApWIp) | [Shakira!](https://open.spotify.com/album/2fCklc5HvH4eeu2ilTEvvM) | 2:29 | 2021-11-05 | 2022-02-26 |
 | [She’s A 10 But… \(Remix\) \(feat\. Yung Gravy\)](https://open.spotify.com/track/0aywJ1yyg6OzgFCxrrUd7R) | [ARTAN](https://open.spotify.com/artist/3Pw17aWPHoK3Enm59wt7M2), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [She’s A 10 But… \(Remix\) \(feat\. Yung Gravy\)](https://open.spotify.com/album/2u8rAuKa6ExX03BLWWkN77) | 2:49 | 2023-02-16 | 2023-04-22 |
 | [SHIMMY](https://open.spotify.com/track/0zRtPy5QKgiNjj9SJ3mNsW) | [yvngxchris](https://open.spotify.com/artist/2qB0DlFsQOpNh0bdMCJLwr) | [SHIMMY](https://open.spotify.com/album/2PzdORjmPgsqEX0waPcV8Z) | 1:44 | 2024-03-15 |  |

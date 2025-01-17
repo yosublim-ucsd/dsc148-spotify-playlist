@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 \u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: GALCHANIE. Artwork: Isu Kim",
+  "description": "\u0e1c\u0e25\u0e07\u0e32\u0e19\u0e08\u0e32\u0e01\u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19\u0e23\u0e38\u0e48\u0e19\u0e43\u0e2b\u0e21\u0e48 \u0e40\u0e1e\u0e25\u0e07\u0e14\u0e35\u0e19\u0e48\u0e32\u0e25\u0e2d\u0e07\u0e1f\u0e31\u0e07. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Bluekisses. Artwork: Isu Kim",
   "name": "Fresh Finds Thailand",
   "tracks": [
     {
@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 223200,
       "name": "1+1 = \u0e40\u0e23\u0e32",
       "url": "https://open.spotify.com/track/1WVqZ30UFs4eE3oHkzqmbE"
@@ -5024,7 +5024,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 198400,
       "name": "PMS (\u0e1b\u0e48\u0e27\u0e22 \u0e1b\u0e48\u0e27\u0e22)",
       "url": "https://open.spotify.com/track/3osjP1ughSfwfLfA0nsWku"
@@ -7754,7 +7754,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 207857,
       "name": "\u0e01\u0e47\u0e1e\u0e2d",
       "url": "https://open.spotify.com/track/2Mvc40jG0xFu4UeXZn4mBH"
@@ -13731,6 +13731,24 @@
     },
     {
       "album": {
+        "name": "\u0e15\u0e37\u0e48\u0e19\u0e15\u0e37\u0e48\u0e19\u0e15\u0e37\u0e48\u0e19 (2meetyou)",
+        "url": "https://open.spotify.com/album/64B2YI5qCuWL91gSsVQh54"
+      },
+      "artists": [
+        {
+          "name": "Bluekisses",
+          "url": "https://open.spotify.com/artist/4hM10YD1aBj4LYwa2ZqMfb"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208695,
+      "name": "\u0e15\u0e37\u0e48\u0e19\u0e15\u0e37\u0e48\u0e19\u0e15\u0e37\u0e48\u0e19 (2meetyou)",
+      "url": "https://open.spotify.com/track/0qP5zjouwd3GtuMK9r4EGK"
+    },
+    {
+      "album": {
         "name": "\u0e15\u0e37\u0e4a\u0e2d",
         "url": "https://open.spotify.com/album/3uihD3dxiRAeTPwbT2yarP"
       },
@@ -15470,6 +15488,24 @@
       "duration_ms": 182686,
       "name": "\u0e17\u0e35\u0e48\u0e40\u0e18\u0e2d\u0e44\u0e21\u0e48\u0e2d\u0e22\u0e39\u0e48",
       "url": "https://open.spotify.com/track/0s0mQmprqhHWlTw6bbCB9U"
+    },
+    {
+      "album": {
+        "name": "\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27\u0e21\u0e32\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23",
+        "url": "https://open.spotify.com/album/3yBXxrmy6lqK9IuBpIYoGg"
+      },
+      "artists": [
+        {
+          "name": "WWJ",
+          "url": "https://open.spotify.com/artist/2v4Ft17lQrkbRUlw2oer4H"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254408,
+      "name": "\u0e17\u0e35\u0e48\u0e41\u0e25\u0e49\u0e27\u0e21\u0e32\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e44\u0e23",
+      "url": "https://open.spotify.com/track/1LJiWvhU9PikSG5vUo5Vow"
     },
     {
       "album": {
@@ -21221,6 +21257,24 @@
     },
     {
       "album": {
+        "name": "\u0e25\u0e37\u0e21\u0e2a\u0e31\u0e01\u0e17\u0e35 (Rope)",
+        "url": "https://open.spotify.com/album/3Tx8bS5Hx6J7eiTcNkac8y"
+      },
+      "artists": [
+        {
+          "name": "2000",
+          "url": "https://open.spotify.com/artist/31Kfuml0W35VeLusxNjQzX"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266145,
+      "name": "\u0e25\u0e37\u0e21\u0e2a\u0e31\u0e01\u0e17\u0e35 (Rope)",
+      "url": "https://open.spotify.com/track/5uRCcD3KglpeLl2vGvNrfG"
+    },
+    {
+      "album": {
         "name": "\u0e25\u0e37\u0e21\u0e40\u0e1e\u0e37\u0e48\u0e2d\u0e19",
         "url": "https://open.spotify.com/album/0XxrBqUBJKu8Rc404aCRkz"
       },
@@ -21882,7 +21936,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 257538,
       "name": "\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e04\u0e19\u0e42\u0e14\u0e19\u0e40\u0e0a\u0e34\u0e0d",
       "url": "https://open.spotify.com/track/1A1TDTjpWBopzM4mWTDibi"
@@ -23918,7 +23972,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 163322,
       "name": "\u0e2d\u0e22\u0e32\u0e01\u0e2a\u0e2d\u0e19\u0e20\u0e32\u0e29\u0e32\u0e40\u0e2b\u0e19\u0e37\u0e2d\u0e04\u0e38\u0e13",
       "url": "https://open.spotify.com/track/0T8lTHLY5vaJuRw3PUKO1O"
@@ -29813,6 +29867,24 @@
     },
     {
       "album": {
+        "name": "\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21 (Just say it)",
+        "url": "https://open.spotify.com/album/3vvHyICWaOmn27lhEcMmK1"
+      },
+      "artists": [
+        {
+          "name": "SUNDAY NIGHTS",
+          "url": "https://open.spotify.com/artist/4ggK46gLB2cjdhc0XixrzC"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207647,
+      "name": "\u0e41\u0e04\u0e48\u0e19\u0e35\u0e49\u0e43\u0e0a\u0e48\u0e44\u0e2b\u0e21 (Just say it)",
+      "url": "https://open.spotify.com/track/0c8hfcxA42umXL8kbJLS7a"
+    },
+    {
+      "album": {
         "name": "\u0e41\u0e04\u0e48\u0e19\u0e49\u0e33\u0e15\u0e32",
         "url": "https://open.spotify.com/album/4xwFRyJ7en60r1bI7GXxcJ"
       },
@@ -31724,7 +31796,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 197000,
       "name": "\u0e43\u0e08\u0e25\u0e30\u0e25\u0e32\u0e22 (OH MY HEART!)",
       "url": "https://open.spotify.com/track/4IywmfaUxnP2vGmgDQGh7y"
@@ -31920,6 +31992,24 @@
       "duration_ms": 313012,
       "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19..\u0e2b\u0e32\u0e22\u0e44\u0e1b (\u0e15\u0e31\u0e27\u0e09\u0e31\u0e19)",
       "url": "https://open.spotify.com/track/5tvrACCoHESfnpFOj94PmN"
+    },
+    {
+      "album": {
+        "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e1f\u0e49\u0e32\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e43\u0e08 \u0e41\u0e15\u0e48\u0e43\u0e19\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e22\u0e31\u0e07\u0e21\u0e35\u0e40\u0e18\u0e2d",
+        "url": "https://open.spotify.com/album/3BhXDl08nvlr7X5lwoWhz9"
+      },
+      "artists": [
+        {
+          "name": "Fauvis",
+          "url": "https://open.spotify.com/artist/0aiODLUBw3OMFGa48Xf9E4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265738,
+      "name": "\u0e43\u0e19\u0e27\u0e31\u0e19\u0e17\u0e35\u0e48\u0e1f\u0e49\u0e32\u0e44\u0e21\u0e48\u0e40\u0e1b\u0e47\u0e19\u0e43\u0e08 \u0e41\u0e15\u0e48\u0e43\u0e19\u0e2b\u0e31\u0e27\u0e43\u0e08\u0e22\u0e31\u0e07\u0e21\u0e35\u0e40\u0e18\u0e2d",
+      "url": "https://open.spotify.com/track/53BLbnV2EmrUrXJKXW7ff4"
     },
     {
       "album": {
@@ -33340,6 +33430,24 @@
       "duration_ms": 171727,
       "name": "\u0e44\u0e21\u0e48\u0e40\u0e0a\u0e2d\u0e23\u0e4c",
       "url": "https://open.spotify.com/track/5zwKWwqOv5Uf9r6WroyU0G"
+    },
+    {
+      "album": {
+        "name": "\u0e44\u0e21\u0e48\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e01\u0e47\u0e25\u0e2d\u0e07\u0e14\u0e39 (Must Try!)",
+        "url": "https://open.spotify.com/album/54ppv2VDzvEE484pWtiW1i"
+      },
+      "artists": [
+        {
+          "name": "Leave Rules",
+          "url": "https://open.spotify.com/artist/1Ar5VjPMjm38rKujR8fOok"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189714,
+      "name": "\u0e44\u0e21\u0e48\u0e40\u0e0a\u0e37\u0e48\u0e2d\u0e01\u0e47\u0e25\u0e2d\u0e07\u0e14\u0e39 (Must Try!)",
+      "url": "https://open.spotify.com/track/45ZoQ2WQm4ydPziriCsLJ4"
     },
     {
       "album": {

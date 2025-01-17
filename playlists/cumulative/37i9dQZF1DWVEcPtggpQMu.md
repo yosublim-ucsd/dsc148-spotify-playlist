@@ -2,9 +2,9 @@
 
 ### [Mzansi Raps](https://open.spotify.com/playlist/37i9dQZF1DWVEcPtggpQMu)
 
-> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn?si=g10KPEQqSzCPSSPhahIw\-w">Lowfeye</a>
+> Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU?si=i6yiLbNUQo6\_R0yM3Ryrzg">Solo Sae</a>
 
-897 songs - 2 day 0 hr 1 min
+899 songs - 2 day 0 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -463,6 +463,7 @@
 | [Mama](https://open.spotify.com/track/6QjHkQQv7JJlskkFVKDfbT) | [Given Da Chief](https://open.spotify.com/artist/4LhhZtFrNLid7dqnqIy0QV) | [Mama](https://open.spotify.com/album/4nB1Ykb7qPrZNZUXlSWQwg) | 2:43 | 2024-04-25 | 2024-05-10 |
 | [Mama](https://open.spotify.com/track/0Q8D9sgjFqAbkYogCGHYkO) | [Teejay Mokoena](https://open.spotify.com/artist/6V8GQVZuFWQiJexS7Kd1rU), [Flash Ikumkani](https://open.spotify.com/artist/2XK36sugVIN5x79ytKdd6X), [Letso\. M](https://open.spotify.com/artist/1xkFRsYQ3jTtfFbR9Q6LTg), [D.O.XRSA](https://open.spotify.com/artist/5HBzYSvU8mqP5c77uVCIpr) | [Becoming: The Chosen One](https://open.spotify.com/album/1k1NNLgKGKcCVkdgSE6nWN) | 3:45 | 2024-10-31 | 2024-12-07 |
 | [mama’s boy](https://open.spotify.com/track/3xQXVKjgkJnIHBnF5A7HIq) | [Nanette](https://open.spotify.com/artist/3A0q16ucjDcK0IhftrLYA8) | [mama's boy](https://open.spotify.com/album/1UWS5ywyO5HXFbka0KPCmV) | 2:27 | 2022-04-22 | 2022-04-30 |
+| [Mamelodi](https://open.spotify.com/track/5CX7ThBgUUWn8bfyZ8tgxJ) | [ZRi.](https://open.spotify.com/artist/0qEbCUh26COfNR2uiNsh4N), [Prod By Esco](https://open.spotify.com/artist/6kltOvShHbFG2ZZlZW0aSt) | [Mamelodi](https://open.spotify.com/album/1B5h4ybkGJEKoNFFxlFsoK) | 2:12 | 2025-01-16 |  |
 | [Manong](https://open.spotify.com/track/3LcBpno74IRUsLrXY5Vm3i) | [Almighty big](https://open.spotify.com/artist/5UJxMULyaYlC6Ai2iZaiNx), [Maholidi](https://open.spotify.com/artist/2jza2cYEZA3ISPZl7iGXmF) | [Manong](https://open.spotify.com/album/6WFX4VlBsyMghZPIHnXZvq) | 3:10 | 2022-10-14 | 2022-12-13 |
 | [MAPARA](https://open.spotify.com/track/73HNc2P8l7xxbnbu7nzUGc) | [Nino Fresko](https://open.spotify.com/artist/0c6gJEK0aZmFvanmQfa6EK) | [DIAL 058](https://open.spotify.com/album/25mPjwGMZweBdlOkciJyEx) | 3:26 | 2024-12-06 |  |
 | [Mashamplane](https://open.spotify.com/track/5hwLsBPKvnHWidXOB00gHw) | [Young GInger](https://open.spotify.com/artist/3LBo85p6inX14TQba77J3E), [Mac Thaso](https://open.spotify.com/artist/6hbAhGI5M0Jw2aM64myG3m) | [Mashamplane](https://open.spotify.com/album/60FPSwQTmqVcXN0FpzEujM) | 2:28 | 2022-04-22 | 2022-05-06 |
@@ -899,6 +900,7 @@
 | [Young & independent](https://open.spotify.com/track/5c4uI3nEgrupRmefslZXgJ) | [Tpk Trapmash](https://open.spotify.com/artist/7J1SW2erBONuxFoBXKsedk), [Djy Mloshka](https://open.spotify.com/artist/4xrCR9bCyURC0ScbK9r2Ns) | [Young & independent](https://open.spotify.com/album/7FpQPIpQGdkGzVfdCJDZtO) | 5:00 | 2024-09-26 |  |
 | [YOUNG KUPA](https://open.spotify.com/track/6IewC22nvipNsUwGP9gfya) | [Brotherkupa](https://open.spotify.com/artist/2SRkMY6LxkfTMqktaFn32r) | [Teen Revolution](https://open.spotify.com/album/2GMA0txzGTDB2MZiKTPx6H) | 2:47 | 2024-10-11 |  |
 | [You’re Mine \(feat\. Moniqué Lawz\)](https://open.spotify.com/track/22JgHiHqc3QaTRJo9Xb6vk) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Monique Lawz](https://open.spotify.com/artist/2Xc9NBi6MXNg9CFy8zYRsM) | [Worldwide Eye](https://open.spotify.com/album/2Gm3w2P10YFNchgf6slgSS) | 2:00 | 2023-04-27 | 2023-05-27 |
+| [Yuhhh](https://open.spotify.com/track/0PqZYCiFR6sYpMNvv2PnV3) | [Solo Sae](https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU) | [Amelia](https://open.spotify.com/album/1DrAB9andxlZ6S8mFAefLj) | 2:15 | 2025-01-16 |  |
 | [Zakudala](https://open.spotify.com/track/26PiExq4MHgajgDhg141A7) | [Ma E](https://open.spotify.com/artist/6OwN3S1Mx86QkRQIaTBiZm), [Vernotile](https://open.spotify.com/artist/5jDxQtsQGEKqgulGcERXMn) | [Namanje & Forever Ever](https://open.spotify.com/album/5PQ8GkuF9QnrtkXn4RMBro) | 3:10 | 2022-09-22 | 2022-12-13 |
 | [Zama Zama \(feat\. Shouldbeyuang\)](https://open.spotify.com/track/0ivCIq6U1JjKsGjZCqDHV5) | [Kiddo CSA](https://open.spotify.com/artist/1pByGCARIQ4UTRIZxDcCiW), [Shouldbeyuang](https://open.spotify.com/artist/4gkUC9MvwxJMHopT7BFmx4) | [Zama Zama \(feat\. Shouldbeyuang\)](https://open.spotify.com/album/1WU4RbA6UrssyDkcANRzS3) | 2:49 | 2024-10-31 |  |
 | [Zamalek](https://open.spotify.com/track/4bn9tdvdNPUYXycnSxqBF6) | [Mnqobi Yazo](https://open.spotify.com/artist/59IoFDxTdsmr1m1z8euRFu), [Big Zulu](https://open.spotify.com/artist/6sNKQgLUy4LVNEX3r1kG1A) | [iStiff](https://open.spotify.com/album/406LRBBJauqbHIurtDKm7d) | 4:11 | 2021-11-25 | 2022-04-15 |

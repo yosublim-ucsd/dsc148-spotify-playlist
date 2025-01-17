@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Kappa Jotta, Bispo",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Van Zee, FRANKIEONTHEGUITAR",
   "name": "Seda",
   "tracks": [
     {
@@ -2522,6 +2522,28 @@
       "duration_ms": 167563,
       "name": "COMIGO (extended version)",
       "url": "https://open.spotify.com/track/5MOTrUpMemyBYPgtKHeVqA"
+    },
+    {
+      "album": {
+        "name": "ALTA COSTURA",
+        "url": "https://open.spotify.com/album/1W9sthlkh5jxTd0NloMCnJ"
+      },
+      "artists": [
+        {
+          "name": "Van Zee",
+          "url": "https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS"
+        },
+        {
+          "name": "FRANKIEONTHEGUITAR",
+          "url": "https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183092,
+      "name": "Como Seria? / Amor S\u00f3brio",
+      "url": "https://open.spotify.com/track/7uekYsGKTZM2LfyjB87x0Y"
     },
     {
       "album": {
@@ -5868,7 +5890,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 172800,
       "name": "Ilus\u00e3o",
       "url": "https://open.spotify.com/track/2qglrKlaXiTCwpOLAhsENj"
@@ -8957,6 +8979,28 @@
     },
     {
       "album": {
+        "name": "Olhos Abertos",
+        "url": "https://open.spotify.com/album/1ZiNF5EsA9Q7K05zVBOYNJ"
+      },
+      "artists": [
+        {
+          "name": "Myles 6ix",
+          "url": "https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l"
+        },
+        {
+          "name": "ICECOLD",
+          "url": "https://open.spotify.com/artist/4mTL2TNg4TC25I9eihYJY6"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120937,
+      "name": "Olhos Abertos",
+      "url": "https://open.spotify.com/track/1ZU28X1i4SvCnp27mxgG0G"
+    },
+    {
+      "album": {
         "name": "On",
         "url": "https://open.spotify.com/album/2g5xGxyYo9RnLPvcm2nyI0"
       },
@@ -9150,7 +9194,7 @@
       ],
       "date_added": "2023-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 248421,
       "name": "Para Casa",
       "url": "https://open.spotify.com/track/0mntIfcQjuA3Zc4xx7Pm8a"
@@ -12216,7 +12260,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-21",
+      "date_removed": null,
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"
@@ -12412,7 +12456,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 198471,
       "name": "Triste (Pensas Em Mim)",
       "url": "https://open.spotify.com/track/2Ym9McKj9QGLjoe0MFaCzm"

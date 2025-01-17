@@ -2,7 +2,7 @@
 
 ### [Hot Hits Singapore](https://open.spotify.com/playlist/37i9dQZF1DXdEF3AqJpXE3)
 
-> The best tracks from the world of music\. Cover: Gracie Abrams
+> The best tracks from the world of music\. Cover: Sasha Alex Sloan
 
 353 songs - 19 hr 2 min
 

@@ -318,7 +318,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 124800,
       "name": "12 TILL 12",
       "url": "https://open.spotify.com/track/0NXCz1UPj02vrEBG4PwFZW"
@@ -2258,7 +2258,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 141744,
       "name": "Angelica",
       "url": "https://open.spotify.com/track/0G2Ukgq0t5odVB9lTIzxNm"
@@ -3941,6 +3941,24 @@
     },
     {
       "album": {
+        "name": "BECHO",
+        "url": "https://open.spotify.com/album/7mzFSuPUp3POWTyHpOzMkK"
+      },
+      "artists": [
+        {
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129882,
+      "name": "BECHO",
+      "url": "https://open.spotify.com/track/2NfxurrqwMoXW2bWYYWF63"
+    },
+    {
+      "album": {
         "name": "BECHO BEGRE",
         "url": "https://open.spotify.com/album/77UpCbMFUrzhsb6FkLHK2O"
       },
@@ -4636,7 +4654,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 158226,
       "name": "BLIND",
       "url": "https://open.spotify.com/track/7uydo6DUTuDHZznlogjZmq"
@@ -5782,7 +5800,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 120000,
       "name": "CALMA",
       "url": "https://open.spotify.com/track/0ZW2C4Yd8HvGXM6jrLmChx"
@@ -6550,7 +6568,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 145170,
       "name": "Civila",
       "url": "https://open.spotify.com/track/0RvOZQqJDnaFt02wY49m1b"
@@ -8634,7 +8652,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 183529,
       "name": "Du & Jag",
       "url": "https://open.spotify.com/track/3ECiakfWYQGpy4fK9A4qF6"
@@ -10727,6 +10745,24 @@
     },
     {
       "album": {
+        "name": "V\u00e4gen in",
+        "url": "https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh"
+      },
+      "artists": [
+        {
+          "name": "LaStreet",
+          "url": "https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166611,
+      "name": "Foden",
+      "url": "https://open.spotify.com/track/66peWWXAtQd881xF5lXNWv"
+    },
+    {
+      "album": {
         "name": "Fokus",
         "url": "https://open.spotify.com/album/3BFYzUaYAdpOV98Ke6muIQ"
       },
@@ -11324,6 +11360,24 @@
       "duration_ms": 111470,
       "name": "G & P",
       "url": "https://open.spotify.com/track/2J6rn2z8zw9jBmWCJfuHYW"
+    },
+    {
+      "album": {
+        "name": "G STYLE (FREESTYLE)",
+        "url": "https://open.spotify.com/album/2EHgHmL3TG9q7jZQscTser"
+      },
+      "artists": [
+        {
+          "name": "G3B",
+          "url": "https://open.spotify.com/artist/4lyxajlLjjUI4EkluxTAA4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123446,
+      "name": "G STYLE (FREESTYLE)",
+      "url": "https://open.spotify.com/track/73NVve5WFYpj39ZnjwSOZb"
     },
     {
       "album": {
@@ -13334,6 +13388,24 @@
       "duration_ms": 140000,
       "name": "Hej hur m\u00e5r ni?",
       "url": "https://open.spotify.com/track/0g47l6b7sSAX9mKamemPU8"
+    },
+    {
+      "album": {
+        "name": "Hejd\u00e5 Min V\u00e4n",
+        "url": "https://open.spotify.com/album/21OdN4318jJ8GTGTMYJbJm"
+      },
+      "artists": [
+        {
+          "name": "Ravin",
+          "url": "https://open.spotify.com/artist/28VTtzM04dYRIMwaRTnAbm"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117952,
+      "name": "Hejd\u00e5 Min V\u00e4n",
+      "url": "https://open.spotify.com/track/3t41gtR6HvH1S1iVhXhiqk"
     },
     {
       "album": {
@@ -17499,6 +17571,28 @@
     },
     {
       "album": {
+        "name": "Land Till Land",
+        "url": "https://open.spotify.com/album/5RNOw8MKgHH5lUwteCZQx8"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130709,
+      "name": "Land Till Land",
+      "url": "https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0"
+    },
+    {
+      "album": {
         "name": "Landa (feat. Youzie)",
         "url": "https://open.spotify.com/album/0ib0KJdU14BsNB4jr0f8g0"
       },
@@ -18163,6 +18257,28 @@
     },
     {
       "album": {
+        "name": "Livet som vi lever",
+        "url": "https://open.spotify.com/album/2Xv0PeG88k1K2KnQgPlqlc"
+      },
+      "artists": [
+        {
+          "name": "XXD Polo",
+          "url": "https://open.spotify.com/artist/73F0IkJHMvDUg9uuTzxxNW"
+        },
+        {
+          "name": "Arre",
+          "url": "https://open.spotify.com/artist/0zthfMGI89IDEklrlkytLP"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Livet som vi lever",
+      "url": "https://open.spotify.com/track/3LyEb19wwvZumQE50pUGWB"
+    },
+    {
+      "album": {
         "name": "Livsstilen",
         "url": "https://open.spotify.com/album/43jTX63KglSLqHQM1NVQd9"
       },
@@ -18374,6 +18490,24 @@
       "duration_ms": 110769,
       "name": "Lokalisering",
       "url": "https://open.spotify.com/track/0SBiVhqITXijjCtsnKQjBK"
+    },
+    {
+      "album": {
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/1Tsrdb9lp8vmFIZb98vtxT"
+      },
+      "artists": [
+        {
+          "name": "Lamix",
+          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120600,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/51vLB58HYeCqEwRL32q2n4"
     },
     {
       "album": {
@@ -18763,6 +18897,24 @@
     },
     {
       "album": {
+        "name": "Lucky Luciano",
+        "url": "https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135319,
+      "name": "Lucky Luciano",
+      "url": "https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1"
+    },
+    {
+      "album": {
         "name": "Luftslott",
         "url": "https://open.spotify.com/album/7bObnQZLpoBiZx7koajewZ"
       },
@@ -18986,7 +19138,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 169208,
       "name": "L\u00c4KA",
       "url": "https://open.spotify.com/track/021i1jMG2nPs2bZtT5qVzl"
@@ -21631,6 +21783,32 @@
     },
     {
       "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/0YLCKDvhncR4BeXNM1YAXz"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "nOnting",
+          "url": "https://open.spotify.com/artist/2ZE4QDUxlhBy82CQidNTxJ"
+        },
+        {
+          "name": "Le Winter",
+          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123870,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/6l5cINkWl0q2OeELlBkHGl"
+    },
+    {
+      "album": {
         "name": "Move (Ensam) - Spotify Singles",
         "url": "https://open.spotify.com/album/6xPqs77IVNVKLw0t62ktAp"
       },
@@ -21736,7 +21914,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 163200,
       "name": "MY LOVE",
       "url": "https://open.spotify.com/track/3yCzXTflUy03JWZLJqxbRw"
@@ -24986,7 +25164,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 167819,
       "name": "PUERTO BANUS",
       "url": "https://open.spotify.com/track/5suSm6IuqrTNv6FpQH91sw"
@@ -25150,7 +25328,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 123823,
       "name": "Radarn",
       "url": "https://open.spotify.com/track/4UE7hlOZn503ENaMi6Nilm"
@@ -25840,7 +26018,7 @@
       ],
       "date_added": "2024-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 139400,
       "name": "R\u00c4TT & FEL",
       "url": "https://open.spotify.com/track/179XVuqKFmRH2uYHe1JAcI"
@@ -26451,6 +26629,24 @@
     },
     {
       "album": {
+        "name": "See Me Shine",
+        "url": "https://open.spotify.com/album/7hhFdijqPRhVlNINGiFHs0"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182072,
+      "name": "See Me Shine",
+      "url": "https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr"
+    },
+    {
+      "album": {
         "name": "Selfmade",
         "url": "https://open.spotify.com/album/1pryp8bzTXFB0hiaKpiUYt"
       },
@@ -26854,7 +27050,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 157021,
       "name": "Sista G\u00e5ng",
       "url": "https://open.spotify.com/track/2i659C6ywROaFG0kj5eOoA"
@@ -28478,7 +28674,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 132096,
       "name": "STOD I REGNET",
       "url": "https://open.spotify.com/track/5DkPZyFVVPMMPE1jqIoo3k"
@@ -28628,6 +28824,28 @@
       "duration_ms": 156734,
       "name": "St\u00f6r Ej",
       "url": "https://open.spotify.com/track/16uSzA4x74NdxaPC8lTNJd"
+    },
+    {
+      "album": {
+        "name": "ST\u00d6RDA",
+        "url": "https://open.spotify.com/album/0Ttzx21RWBkvzS8MFbxhZP"
+      },
+      "artists": [
+        {
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/2qsoFMht5lDvaEfjM84Zew"
+        },
+        {
+          "name": "ProdByR1",
+          "url": "https://open.spotify.com/artist/5U8wjIW3UWL3B7Hee3VaDQ"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126857,
+      "name": "ST\u00d6RDA",
+      "url": "https://open.spotify.com/track/0y5bqc1pwZ0ptNUCbsqzYd"
     },
     {
       "album": {
@@ -29046,7 +29264,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 118356,
       "name": "Sweden",
       "url": "https://open.spotify.com/track/2dbBEKjOo3wm6f0CVl3SvY"
@@ -31804,7 +32022,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 153053,
       "name": "Uno Dos Tres",
       "url": "https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi"
@@ -33212,7 +33430,7 @@
       ],
       "date_added": "2024-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 122857,
       "name": "Walk Like This",
       "url": "https://open.spotify.com/track/43SPG9q1y4Y2u6RQhaOqr6"
@@ -33486,7 +33704,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 124724,
       "name": "Wild West",
       "url": "https://open.spotify.com/track/5yPBch5txZqgfGtTigq8QL"
@@ -33972,7 +34190,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 147143,
       "name": "YEYE",
       "url": "https://open.spotify.com/track/3smb1tczg5lSHzq1ANwUbw"

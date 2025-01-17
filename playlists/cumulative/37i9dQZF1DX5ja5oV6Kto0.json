@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Deto Black ",
+  "description": "The contemporary new wave of alternative, genre-bending and creative afro-fusion music. Cover: Rigo Kamp",
   "name": "Alt\u00e9 Cruise",
   "tracks": [
     {
@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 131919,
       "name": "Big Deel",
       "url": "https://open.spotify.com/track/66RjUgZnuFIMuwtL51wdQ5"
@@ -8070,7 +8070,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 175234,
       "name": "Lele",
       "url": "https://open.spotify.com/track/5KEySaLmNVT2DjB7qgKsHX"
@@ -10090,7 +10090,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 187500,
       "name": "No Wam",
       "url": "https://open.spotify.com/track/2k5PoyzxiOwyfvgDn8Jitp"
@@ -10484,6 +10484,24 @@
       "duration_ms": 218863,
       "name": "olivine",
       "url": "https://open.spotify.com/track/15fDmWe5ofnwmFJWVOT6SZ"
+    },
+    {
+      "album": {
+        "name": "Omo To Sexy",
+        "url": "https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL"
+      },
+      "artists": [
+        {
+          "name": "BLNDE",
+          "url": "https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167447,
+      "name": "Omo To Sexy",
+      "url": "https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ"
     },
     {
       "album": {
@@ -16006,6 +16024,32 @@
       "duration_ms": 180000,
       "name": "With Open Arms",
       "url": "https://open.spotify.com/track/2zMkas94Ekim0wZfGsGe23"
+    },
+    {
+      "album": {
+        "name": "Conflicts of Interest",
+        "url": "https://open.spotify.com/album/2yz7ohrkrAYCNCQECINttT"
+      },
+      "artists": [
+        {
+          "name": "3kene",
+          "url": "https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv"
+        },
+        {
+          "name": "Brum3h",
+          "url": "https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk"
+        },
+        {
+          "name": "Jess ETA",
+          "url": "https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290571,
+      "name": "Woo",
+      "url": "https://open.spotify.com/track/7snE5wCCKT9NoU1M9H4NLF"
     },
     {
       "album": {

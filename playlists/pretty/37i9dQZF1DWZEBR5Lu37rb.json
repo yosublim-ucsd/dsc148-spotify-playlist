@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 80764,
+  "num_followers": 80833,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -675,6 +675,22 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
+        "name": "Alusa Why Are You Topless?",
+        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
+      },
+      "artists": [
+        {
+          "name": "Bien",
+          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
+        }
+      ],
+      "duration_ms": 281860,
+      "name": "Chikwere",
+      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
         "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
         "url": "https://open.spotify.com/album/3rwjHfjfkHzuyt2h9UK5IZ"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 444474,
       "name": "Tender Love (feat. DJ Maphorisa & Kabza De Small)",
       "url": "https://open.spotify.com/track/7ckWQdFniRR7CNsIA1VIML"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
-        "name": "Alusa Why Are You Topless?",
-        "url": "https://open.spotify.com/album/1tqKgXiDjsilZpv3aLaEGm"
-      },
-      "artists": [
-        {
-          "name": "Bien",
-          "url": "https://open.spotify.com/artist/2zhossaaVN2pXg5p8o101X"
-        }
-      ],
-      "duration_ms": 281860,
-      "name": "Chikwere",
-      "url": "https://open.spotify.com/track/11yZHrCVjzHX9j8wxmwGEu"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -807,22 +807,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
-      },
-      "artists": [
-        {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
-        }
-      ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Slowly",
         "url": "https://open.spotify.com/album/3XHf2FY7qch1SbIhbVJHYT"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 158052,
       "name": "Beginning",
       "url": "https://open.spotify.com/track/7hKkeswtn0FRLblD4bnrxv"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+      },
+      "artists": [
+        {
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+        }
+      ],
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -995,22 +995,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "No Retreat. No Surrender.",
-        "url": "https://open.spotify.com/album/78Sbc9JhN9bHAkaDW0r0fa"
-      },
-      "artists": [
-        {
-          "name": "DJ Bongz",
-          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
-        }
-      ],
-      "duration_ms": 383906,
-      "name": "Sobabili",
-      "url": "https://open.spotify.com/track/1OD4ENfkFE0qeaxmA8MJMR"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Odo",
         "url": "https://open.spotify.com/album/5vr0uK0k3M2o54r95AfPwo"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 186990,
       "name": "Odo",
       "url": "https://open.spotify.com/track/2vK93nwA5PNJVQa3OXeg5Y"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "No Retreat. No Surrender.",
+        "url": "https://open.spotify.com/album/78Sbc9JhN9bHAkaDW0r0fa"
+      },
+      "artists": [
+        {
+          "name": "DJ Bongz",
+          "url": "https://open.spotify.com/artist/7KtERSZgIOlhbYDop9Ra0F"
+        }
+      ],
+      "duration_ms": 383906,
+      "name": "Sobabili",
+      "url": "https://open.spotify.com/track/1OD4ENfkFE0qeaxmA8MJMR"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Aye",
-        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 235171,
-      "name": "Aye",
-      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 382186,
       "name": "I'd Like",
       "url": "https://open.spotify.com/track/15lW7MKcnprhsReAmQ2E95"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Aye",
+        "url": "https://open.spotify.com/album/54KREqr92Gm0dbTLGHp0JE"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 235171,
+      "name": "Aye",
+      "url": "https://open.spotify.com/track/7wh3ROxsX7i6GflbQGhGo7"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1339,6 +1339,26 @@
       "duration_ms": 262184,
       "name": "Sasa Hivi [Stripped Down]",
       "url": "https://open.spotify.com/track/0oKbikRmgQKbBp4o3ZB4PB"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Don't Keep Me Waiting",
+        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
+      },
+      "artists": [
+        {
+          "name": "Kwesi Arthur",
+          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
+        },
+        {
+          "name": "KiDi",
+          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
+        }
+      ],
+      "duration_ms": 227864,
+      "name": "Don't Keep Me Waiting",
+      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1407,26 +1427,6 @@
       "duration_ms": 293711,
       "name": "Thojana Ya Thesele",
       "url": "https://open.spotify.com/track/4DGI935vWIZhSAkL2KWPZg"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
-        "name": "Don't Keep Me Waiting",
-        "url": "https://open.spotify.com/album/0DwcT9VT9F293ojbvOaVzR"
-      },
-      "artists": [
-        {
-          "name": "Kwesi Arthur",
-          "url": "https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY"
-        },
-        {
-          "name": "KiDi",
-          "url": "https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V"
-        }
-      ],
-      "duration_ms": 227864,
-      "name": "Don't Keep Me Waiting",
-      "url": "https://open.spotify.com/track/13TEzGeUmbKSyyZjDv6ygG"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1639,6 +1639,22 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
+        "name": "Zaneliza: How the Water Moves",
+        "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
+      },
+      "artists": [
+        {
+          "name": "Msaki",
+          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
+        }
+      ],
+      "duration_ms": 325433,
+      "name": "Liwa Lentliziyo",
+      "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
         "name": "Kamata",
         "url": "https://open.spotify.com/album/0vkCse1iCEbs0MU92L0A7M"
       },
@@ -1655,22 +1671,6 @@
       "duration_ms": 229407,
       "name": "Take it Slow",
       "url": "https://open.spotify.com/track/6kOXoMSnQy63PNGn4Yp1zZ"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
-        "name": "Zaneliza: How the Water Moves",
-        "url": "https://open.spotify.com/album/4Dh0JLuYLhSeoZQ2fQ3Bdm"
-      },
-      "artists": [
-        {
-          "name": "Msaki",
-          "url": "https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq"
-        }
-      ],
-      "duration_ms": 325433,
-      "name": "Liwa Lentliziyo",
-      "url": "https://open.spotify.com/track/0pI9v5qwiZnha3qd2VDS89"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
+        "name": "Puzzle",
+        "url": "https://open.spotify.com/album/5ucYzb3PiD5DSV5iPyJWYR"
+      },
+      "artists": [
+        {
+          "name": "K!MERA",
+          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
+        }
+      ],
+      "duration_ms": 243983,
+      "name": "Slow Down",
+      "url": "https://open.spotify.com/track/0nNryQ6LeMOsBmeloyPhWP"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
         "name": "Ugandan",
         "url": "https://open.spotify.com/album/5lZptP1kXQTGku9irUVhcD"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 174000,
       "name": "Mukwano Gwo",
       "url": "https://open.spotify.com/track/0AiGL3SmHr50RTF5rFaHTN"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
-        "name": "Puzzle",
-        "url": "https://open.spotify.com/album/5ucYzb3PiD5DSV5iPyJWYR"
-      },
-      "artists": [
-        {
-          "name": "K!MERA",
-          "url": "https://open.spotify.com/artist/1C3pCs0DmKTCvmqAJYerKN"
-        }
-      ],
-      "duration_ms": 243983,
-      "name": "Slow Down",
-      "url": "https://open.spotify.com/track/0nNryQ6LeMOsBmeloyPhWP"
     },
     {
       "added_at": "2025-01-09 10:09:30",

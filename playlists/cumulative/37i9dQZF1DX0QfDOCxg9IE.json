@@ -2729,6 +2729,28 @@
     },
     {
       "album": {
+        "name": "MATRIX",
+        "url": "https://open.spotify.com/album/6DXj8zcaB9ls3dECyOh0EU"
+      },
+      "artists": [
+        {
+          "name": "Karnalh",
+          "url": "https://open.spotify.com/artist/0YwSU2NF2cXIME0vXeJVmL"
+        },
+        {
+          "name": "Exus186",
+          "url": "https://open.spotify.com/artist/3nvjSCVp4IrkqLU8xmJ1n4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157575,
+      "name": "MATRIX",
+      "url": "https://open.spotify.com/track/4SMXHvHA1FtsekSN6BWnJy"
+    },
+    {
+      "album": {
         "name": "Multiverse",
         "url": "https://open.spotify.com/album/4S9NBbmF4XRrbUokfTx946"
       },
@@ -2930,7 +2952,7 @@
       ],
       "date_added": "2024-07-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 247500,
       "name": "Mia Kali Mera",
       "url": "https://open.spotify.com/track/6tgyuULuaaxVdyrRfv7KIs"

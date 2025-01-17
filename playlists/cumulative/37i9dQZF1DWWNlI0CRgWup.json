@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Miki",
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Sherifflazone",
   "name": "RADAR FRANCE",
   "tracks": [
     {
@@ -492,6 +492,24 @@
       "duration_ms": 133293,
       "name": "C'est toi - Bonus",
       "url": "https://open.spotify.com/track/2lsYd6ZDRrV2W3CT4FcXaC"
+    },
+    {
+      "album": {
+        "name": "CAVALE! CAVALE!",
+        "url": "https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149840,
+      "name": "CAVALE! CAVALE!",
+      "url": "https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT"
     },
     {
       "album": {
@@ -1673,6 +1691,24 @@
     },
     {
       "album": {
+        "name": "L'id\u00e9e de toi",
+        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
+      },
+      "artists": [
+        {
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122117,
+      "name": "L'id\u00e9e de toi",
+      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
+    },
+    {
+      "album": {
         "name": "Gardien du Labyrinthe",
         "url": "https://open.spotify.com/album/0qCijZ9tv7v38CxL4tO7zQ"
       },
@@ -2826,6 +2862,24 @@
       "duration_ms": 266380,
       "name": "Shelter - Edit",
       "url": "https://open.spotify.com/track/7sqcEITroQ4tnrFQtmCDFd"
+    },
+    {
+      "album": {
+        "name": "SHERIFF",
+        "url": "https://open.spotify.com/album/3p511CfQ01Bltq9XD4l1II"
+      },
+      "artists": [
+        {
+          "name": "Sherifflazone",
+          "url": "https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130285,
+      "name": "SHERIFF",
+      "url": "https://open.spotify.com/track/0OLTRDHMkxaxG2lxj9JTWe"
     },
     {
       "album": {

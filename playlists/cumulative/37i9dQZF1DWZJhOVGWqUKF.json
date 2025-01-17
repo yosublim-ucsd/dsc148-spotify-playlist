@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Silverstein",
+  "description": "Sechs Saiten f\u00fcr ein Halleluja. Cover: Coheed and Cambria",
   "name": "Rock Rotation",
   "tracks": [
     {
@@ -56,7 +56,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 371005,
       "name": "1685 (feat. Muse)",
       "url": "https://open.spotify.com/track/6vgc41jaY9ed6TbQUp8ccd"
@@ -470,10 +470,28 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 223992,
       "name": "American Horse (feat. John Cooper of Skillet and Ayron Jones)",
       "url": "https://open.spotify.com/track/30Qr90fqL0EvHCqc0pJz7H"
+    },
+    {
+      "album": {
+        "name": "An Artist Is An Artist",
+        "url": "https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ"
+      },
+      "artists": [
+        {
+          "name": "Skunk Anansie",
+          "url": "https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191448,
+      "name": "An Artist Is An Artist",
+      "url": "https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW"
     },
     {
       "album": {
@@ -851,6 +869,28 @@
     },
     {
       "album": {
+        "name": "big change is coming",
+        "url": "https://open.spotify.com/album/486zPFFGXeujkL6xSZxyCW"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "neil young and the chrome hearts",
+          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174560,
+      "name": "big change is coming",
+      "url": "https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx"
+    },
+    {
+      "album": {
         "name": "BITTER",
         "url": "https://open.spotify.com/album/5xqgdddk0PXK3kny7Sz8D1"
       },
@@ -900,6 +940,24 @@
       "duration_ms": 268744,
       "name": "Black Thunder (feat. Serj Tankian and DL of Bad Wolves)",
       "url": "https://open.spotify.com/track/7qDVR7dlgSBpHPw7tqcO3d"
+    },
+    {
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/6mtljCvq26od6lZmZ8ETTy"
+      },
+      "artists": [
+        {
+          "name": "SENNA",
+          "url": "https://open.spotify.com/artist/5qq0OWzsawAVBlf63FPU22"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205922,
+      "name": "Blackout",
+      "url": "https://open.spotify.com/track/58t2pDRreDAhVDusgqfpZf"
     },
     {
       "album": {
@@ -1022,7 +1080,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 176981,
       "name": "Brother",
       "url": "https://open.spotify.com/track/2pXZPQm9oWForOgkbUQRg5"
@@ -1080,6 +1138,24 @@
       "duration_ms": 184054,
       "name": "Can't Pretend",
       "url": "https://open.spotify.com/track/165Exq3WOUgWvbXTCqZR78"
+    },
+    {
+      "album": {
+        "name": "Can't Put Out the Fire",
+        "url": "https://open.spotify.com/album/04hERRotffJJgN6S5Dadey"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196026,
+      "name": "Can't Put Out the Fire",
+      "url": "https://open.spotify.com/track/4l1riVSKc7WJBw2zxdFh90"
     },
     {
       "album": {
@@ -1228,7 +1304,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 191200,
       "name": "Chemicals",
       "url": "https://open.spotify.com/track/3zF0IiIpjZsSti2N1apvOB"
@@ -1612,6 +1688,28 @@
       "duration_ms": 220252,
       "name": "Decarabia",
       "url": "https://open.spotify.com/track/3Ie94l4qlS47GeIvzHLuVH"
+    },
+    {
+      "album": {
+        "name": "Dirt On My Name (feat. Mirza Radonjica)",
+        "url": "https://open.spotify.com/album/2FsNcGuuNrwsoGnFhr0iT4"
+      },
+      "artists": [
+        {
+          "name": "Enemy Inside",
+          "url": "https://open.spotify.com/artist/4DX0ctdZRMWec9KCiigIXy"
+        },
+        {
+          "name": "Mirza Radonjica",
+          "url": "https://open.spotify.com/artist/6IJ172Wtmx3Ap9wQacSyeO"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177876,
+      "name": "Dirt On My Name (feat. Mirza Radonjica)",
+      "url": "https://open.spotify.com/track/1U9FCTadH13DERf6H5xqov"
     },
     {
       "album": {
@@ -2112,7 +2210,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 221290,
       "name": "FREE TO DIE",
       "url": "https://open.spotify.com/track/5QlaYAjyS0zuoA9zGk4c3R"
@@ -2620,7 +2718,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 229058,
       "name": "Help",
       "url": "https://open.spotify.com/track/7iCs2MBtk1NrADU6G3MjZB"
@@ -3238,7 +3336,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 172506,
       "name": "Light It Up",
       "url": "https://open.spotify.com/track/5Eacz3QIeeB2Q3tix1D8gI"
@@ -3314,6 +3412,24 @@
       "duration_ms": 209812,
       "name": "Live Before I\u2019m Dead (Hours)",
       "url": "https://open.spotify.com/track/2Z9DT5CCjTG8in1nFmtcpw"
+    },
+    {
+      "album": {
+        "name": "Living Like A Ghost",
+        "url": "https://open.spotify.com/album/7MNv6XlWmk8nFxH4SyEpPC"
+      },
+      "artists": [
+        {
+          "name": "IONIC",
+          "url": "https://open.spotify.com/artist/4dxSFdG4qMdOnTFPdn9BLC"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Living Like A Ghost",
+      "url": "https://open.spotify.com/track/2bnBsXCeAzHIE7UXZLdEPK"
     },
     {
       "album": {
@@ -3723,6 +3839,24 @@
     },
     {
       "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/0AauHfxhC66VYpa63tp2Qg"
+      },
+      "artists": [
+        {
+          "name": "Seven Blood",
+          "url": "https://open.spotify.com/artist/0WYN4z4Co3AceuxwU6mFLr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205373,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/6BXP71KLW20n4BdW0Nnbjh"
+    },
+    {
+      "album": {
         "name": "Mother Teresa",
         "url": "https://open.spotify.com/album/07UT07YaucvVgrsxLaqj13"
       },
@@ -3770,7 +3904,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 245225,
       "name": "My Blood",
       "url": "https://open.spotify.com/track/02VuP7Wo8HVo2nSnpd6qrl"
@@ -3896,7 +4030,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 148946,
       "name": "NO",
       "url": "https://open.spotify.com/track/5rQRlpzMm87QNGCi1Ydbpv"
@@ -4052,6 +4186,28 @@
       "duration_ms": 184137,
       "name": "Obey",
       "url": "https://open.spotify.com/track/1Zm0Y3RM2Pan9gzpFs3dPn"
+    },
+    {
+      "album": {
+        "name": "Obsessed",
+        "url": "https://open.spotify.com/album/1aKJqetnisCdbUA6YFVROh"
+      },
+      "artists": [
+        {
+          "name": "Lost in Hollywood",
+          "url": "https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP"
+        },
+        {
+          "name": "IMPVLSE",
+          "url": "https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218000,
+      "name": "Obsessed",
+      "url": "https://open.spotify.com/track/32lG2dcfHHFJZLRPOogB7E"
     },
     {
       "album": {
@@ -4742,7 +4898,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 213400,
       "name": "Searching for Tomorrow",
       "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
@@ -5086,6 +5242,24 @@
       "duration_ms": 178490,
       "name": "Soldier In The Army of Love",
       "url": "https://open.spotify.com/track/1gQP8UKHi9eRVrTS8pm4ep"
+    },
+    {
+      "album": {
+        "name": "Someone Who Can",
+        "url": "https://open.spotify.com/album/7t914q200AnbbeomCdJU9L"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225125,
+      "name": "Someone Who Can",
+      "url": "https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K"
     },
     {
       "album": {
@@ -5484,7 +5658,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 284563,
       "name": "The Downfall",
       "url": "https://open.spotify.com/track/5JeKlM4tr6EsdNOtCPjEA5"
@@ -5542,6 +5716,24 @@
       "duration_ms": 203770,
       "name": "the garden",
       "url": "https://open.spotify.com/track/70yMk0UK1BTtPvhqcSXvnF"
+    },
+    {
+      "album": {
+        "name": "Love Will Fix It (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0mz6nhh553pmgxgBsBRxBp"
+      },
+      "artists": [
+        {
+          "name": "Emil Bulls",
+          "url": "https://open.spotify.com/artist/1scIUjz7Jbq1mOph50OLQO"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244480,
+      "name": "The Rapids of Thoughts",
+      "url": "https://open.spotify.com/track/3tE2gUKFDFDweA5AVmAKho"
     },
     {
       "album": {
@@ -5672,6 +5864,24 @@
       "duration_ms": 136000,
       "name": "Transcendental Dreaming",
       "url": "https://open.spotify.com/track/0m9RpKYRlU3JqCjVryK4dJ"
+    },
+    {
+      "album": {
+        "name": "Treehouse",
+        "url": "https://open.spotify.com/album/1jgnH8FeGJHmxHgMVJgcA7"
+      },
+      "artists": [
+        {
+          "name": "Wait of the World",
+          "url": "https://open.spotify.com/artist/5RRkJbIFsWnUtsbVuRf7Si"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171166,
+      "name": "Treehouse",
+      "url": "https://open.spotify.com/track/3vFGACGgLBnbpLoExxUP2Q"
     },
     {
       "album": {

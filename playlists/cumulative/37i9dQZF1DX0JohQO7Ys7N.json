@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Xenia Manasseh",
+  "description": "Kickback, Relax to some smooth R&B from The City Under The Sun - Nairobi. Cover: Njerae",
   "name": "NairoBae",
   "tracks": [
     {
@@ -274,6 +274,24 @@
       "duration_ms": 158620,
       "name": "Bad Side",
       "url": "https://open.spotify.com/track/1nbpsyj6OIfPV2O6DQsc5r"
+    },
+    {
+      "album": {
+        "name": "Beg For It",
+        "url": "https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l"
+      },
+      "artists": [
+        {
+          "name": "Njerae",
+          "url": "https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173419,
+      "name": "Beg For It",
+      "url": "https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ"
     },
     {
       "album": {
@@ -1164,7 +1182,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 202758,
       "name": "Goodbye",
       "url": "https://open.spotify.com/track/0qKSG9DU0TLp8Sy77N0BFU"
@@ -1660,7 +1678,7 @@
       ],
       "date_added": "2024-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 177370,
       "name": "Jane",
       "url": "https://open.spotify.com/track/3zFJ8238lGHVMA8oJoCyHf"
@@ -3328,6 +3346,24 @@
       "duration_ms": 195157,
       "name": "small acts of recklessness",
       "url": "https://open.spotify.com/track/2OLsqgoxmmEQTrnwY72LHA"
+    },
+    {
+      "album": {
+        "name": "Some Loving",
+        "url": "https://open.spotify.com/album/0xAcVPPaJepnuIOElzpeqA"
+      },
+      "artists": [
+        {
+          "name": "Venna",
+          "url": "https://open.spotify.com/artist/3LcJzJIaHptfIlAx0BkuN4"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127454,
+      "name": "Some Loving",
+      "url": "https://open.spotify.com/track/0mrmLmWkyFuBN66KMqihdR"
     },
     {
       "album": {

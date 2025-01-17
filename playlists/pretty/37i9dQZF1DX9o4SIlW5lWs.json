@@ -1,6 +1,6 @@
 {
   "description": "Al coraz\u00f3n! Foto: The La Planta, Emanero & Abel Pintos.",
-  "num_followers": 235417,
+  "num_followers": 235517,
   "original_name": "Cumbia y Romance",
   "owner": {
     "name": "Spotify",
@@ -1067,26 +1067,6 @@
     {
       "added_at": "2025-01-10 03:00:23",
       "album": {
-        "name": "Dice Que No Le Importa",
-        "url": "https://open.spotify.com/album/209YdplhoRJepgB73P2W0b"
-      },
-      "artists": [
-        {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
-        },
-        {
-          "name": "Los Palmeras",
-          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
-        }
-      ],
-      "duration_ms": 245280,
-      "name": "Dice Que No Le Importa",
-      "url": "https://open.spotify.com/track/4McnZ79xYqcGw1Hse3wBlc"
-    },
-    {
-      "added_at": "2025-01-10 03:00:23",
-      "album": {
         "name": "El \u00daltimo Rom\u00e1ntico",
         "url": "https://open.spotify.com/album/5XivpS4x7wPLUBxdHQRQnT"
       },
@@ -1107,6 +1087,26 @@
       "duration_ms": 251724,
       "name": "El \u00daltimo Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/7aPSMl8bmlHtbi9ZBYbPmq"
+    },
+    {
+      "added_at": "2025-01-10 03:00:23",
+      "album": {
+        "name": "Dice Que No Le Importa",
+        "url": "https://open.spotify.com/album/209YdplhoRJepgB73P2W0b"
+      },
+      "artists": [
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        },
+        {
+          "name": "Los Palmeras",
+          "url": "https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG"
+        }
+      ],
+      "duration_ms": 245280,
+      "name": "Dice Que No Le Importa",
+      "url": "https://open.spotify.com/track/4McnZ79xYqcGw1Hse3wBlc"
     },
     {
       "added_at": "2025-01-10 03:00:23",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2025-01-10 03:00:23",
       "album": {
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 225293,
+      "name": "Cosas Del Amor",
+      "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
+    },
+    {
+      "added_at": "2025-01-10 03:00:23",
+      "album": {
         "name": "Te Juro Que No Es Verdad",
         "url": "https://open.spotify.com/album/4ZU9H16IMJE4EC44krbayO"
       },
@@ -1787,22 +1803,6 @@
       "duration_ms": 155023,
       "name": "Te Juro Que No Es Verdad",
       "url": "https://open.spotify.com/track/2aWgJioTPpqp5LRqmOngYo"
-    },
-    {
-      "added_at": "2025-01-10 03:00:23",
-      "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 225293,
-      "name": "Cosas Del Amor",
-      "url": "https://open.spotify.com/track/7clY79CSVmH7ufvQMIAYlo"
     },
     {
       "added_at": "2025-01-10 03:00:23",

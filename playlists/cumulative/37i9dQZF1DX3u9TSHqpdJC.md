@@ -4,7 +4,7 @@
 
 > The best new pop music from new, independent artists\.  Cover: ENILA\. Artwork by Paola Saliby
 
-3,782 songs - 8 day 0 hr 27 min
+3,783 songs - 8 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1402,6 +1402,7 @@
 | [head games](https://open.spotify.com/track/6Dy2iFhdjK8cPdfkB6c0EX) | [Savanna Leigh](https://open.spotify.com/artist/056C8IrJo00DfazBdLIiLt) | [head games](https://open.spotify.com/album/3hAzpPsTEScYjhjAvSUwGH) | 2:57 | 2022-06-08 | 2022-07-21 |
 | [Headache](https://open.spotify.com/track/3sEV7i0A9ilaZqB8le38Wx) | [Adeline Hill](https://open.spotify.com/artist/1PbQULXA8xQ6G8VuGPDaY8), [RUDEY](https://open.spotify.com/artist/1UFnB5tTDPSX3f4O2unhFa) | [Headache](https://open.spotify.com/album/0L7JOqIY88nAtFPLhiSc9P) | 2:17 | 2024-01-10 | 2024-01-26 |
 | [Headfirst](https://open.spotify.com/track/1dUHl01OvRdc68NoImtH1X) | [The Lost Youth](https://open.spotify.com/artist/1oZSwmPoTlEfiI4p25SdVl) | [Headfirst](https://open.spotify.com/album/341aDKS0pTYe2zupAF45We) | 2:55 | 2022-06-29 | 2022-09-01 |
+| [Headphones](https://open.spotify.com/track/5skjJ6HUxErbn3gdnWedDp) | [EZ Company](https://open.spotify.com/artist/4aA3RJBsDKuZ0YX14m6qlk), [Musique Chienne](https://open.spotify.com/artist/2RxSYHCveLOGuSnML1qULr) | [Headphones](https://open.spotify.com/album/1xEuwk2klF44B8MLvDfCjA) | 2:46 | 2025-01-16 |  |
 | [Healing Out of Spite](https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA) | [CATTY](https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf) | [Healing Out of Spite](https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX) | 3:48 | 2024-04-17 |  |
 | [heard it on the internet](https://open.spotify.com/track/03VkFy54wsHrfxjENSN8wL) | [ÊMIA](https://open.spotify.com/artist/2Q1WubieQ4mTNNf4YOlFGh) | [VIDEO CALL: AM](https://open.spotify.com/album/14S0t4OgA6nYfy0ZR56aO1) | 2:39 | 2022-10-05 | 2022-12-01 |
 | [heart in 2](https://open.spotify.com/track/6e74BsAroW4TQLwWWx2bYZ) | [caro♡](https://open.spotify.com/artist/3ypTgZWVLSkBaTjFNjSDE8) | [heart in 2](https://open.spotify.com/album/2PzmIs4O5tIclgHImBZIyr) | 4:10 | 2021-04-29 | 2021-05-27 |
@@ -2836,7 +2837,7 @@
 | [say it](https://open.spotify.com/track/71BpEYwdsMWbu6VNErrCLd) | [teddie](https://open.spotify.com/artist/413K7knAxLgSwXtGFEGuAP) | [say it](https://open.spotify.com/album/7dwYO38wEOm9HIcJ7lsx0D) | 2:30 | 2024-02-14 | 2024-04-04 |
 | [say it back](https://open.spotify.com/track/1SIEUx9PAyN93qWbHxNIx4) | [ASHER YELO](https://open.spotify.com/artist/2EkAdv5oGonIlVLeUTT0fh) | [say it back](https://open.spotify.com/album/6mapL6dugWGgGhWxz9YVQP) | 2:51 | 2021-07-02 | 2021-07-29 |
 | [Say You're In Love](https://open.spotify.com/track/4lb6XqntzcSRbYXw6AXX3y) | [The Yves](https://open.spotify.com/artist/50CeFDCHW8eEwymrHFAeKL) | [Say You're In Love](https://open.spotify.com/album/2PJKwKurwvicf4aIYqdyAL) | 4:00 | 2021-09-30 | 2022-01-13 |
-| [Scantily Clad](https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Scantily Clad](https://open.spotify.com/album/543BQlkZTHKQnsAubOX9V2) | 3:17 | 2024-10-09 |  |
+| [Scantily Clad](https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ) | [Haute & Freddy](https://open.spotify.com/artist/66T34XqGkEWbzKWALSBDuR) | [Scantily Clad](https://open.spotify.com/album/543BQlkZTHKQnsAubOX9V2) | 3:17 | 2024-10-09 | 2025-01-17 |
 | [Scared of Getting What I Want](https://open.spotify.com/track/5BOysgMCvAHZajUaZy23Jm) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [Scared of Getting What I Want](https://open.spotify.com/album/1eLiud6IlCM34WQM0s1ozp) | 2:46 | 2022-05-25 | 2022-07-21 |
 | [Scary Movie](https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI) | [Chloe Qisha](https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw) | [Chloe Qisha](https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM) | 2:44 | 2024-11-27 | 2024-12-05 |
 | [sea u n tea](https://open.spotify.com/track/3O582rGV8pd7pWKkmSm4bc) | [priestess](https://open.spotify.com/artist/3JDhZBUZGHTTc4Z6B1NzNj) | [sea u n tea](https://open.spotify.com/album/14kyx1y0yhOWqFfsNqWLKh) | 3:27 | 2022-04-13 | 2022-05-12 |

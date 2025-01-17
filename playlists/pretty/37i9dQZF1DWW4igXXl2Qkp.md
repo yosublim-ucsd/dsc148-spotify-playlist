@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 
 > The best new hip\-hop music by independent artists and labels\. Cover: <a href="spotify:artist:3mBgj6uh2YjNocaBRGJumA">Lil Rae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 263,790 likes - 100 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,947 likes - 100 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW4igXXl2Qkp.md) - [plain]
 | 99 | [issa wrap](https://open.spotify.com/track/4rcLWUmQMFCNdN9GaeHRWQ) | [Kharii](https://open.spotify.com/artist/68m7VDKqEQf6Zq66CF9OA6) | [issa wrap](https://open.spotify.com/album/1hZUjmEmVscMXIm40yxMgJ) | 2:33 |
 | 100 | [read the signs](https://open.spotify.com/track/2TaewVhGTPEjnsvw4FWU3m) | [Lil Bean](https://open.spotify.com/artist/3OrXU7Z906hHdbG5fTQ6Ef) | [CAMPAIGN4EVER](https://open.spotify.com/album/3fH6SjZt1GWyq4TQP4Qlct) | 2:52 |
 
-Snapshot ID: `Z4dovAAAAAAzxQ2ZyEdW4F91BRe0PEyn`
+Snapshot ID: `Z4lYmQAAAACwKd/sVOIEcDq04DrqP9Gi`

@@ -90,7 +90,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-28",
+      "date_removed": null,
       "duration_ms": 255506,
       "name": "ALL nOR NOTHING",
       "url": "https://open.spotify.com/track/6yZiC2A5dpF8ArLqG73PCx"
@@ -188,7 +188,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 276546,
       "name": "Avenue Illusion!",
       "url": "https://open.spotify.com/track/2lqD4z4sqYHRF7HukTBIqN"
@@ -206,7 +206,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 225400,
       "name": "BACK FLIP EMOTION",
       "url": "https://open.spotify.com/track/2OYdOn1yvBpvyJ3cqyD5bL"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 248333,
       "name": "Baile Apasionado",
       "url": "https://open.spotify.com/track/2OTdGu4Ar0sX2OhbSlevlq"
@@ -517,6 +517,44 @@
     },
     {
       "album": {
+        "name": "Braver Beat",
+        "url": "https://open.spotify.com/album/2P454Srb6GHWlvtnBwgEUD"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u6cb3\u30bf\u30b1\u30eb (CV.\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd"
+        },
+        {
+          "name": "\u53e4\u8ad6\u30af\u30ea\u30b9 (CV.\u99d2\u7530 \u822a)",
+          "url": "https://open.spotify.com/artist/50y4TYasRNl1JFP75OahUG"
+        },
+        {
+          "name": "\u79cb\u5c71\u96bc\u4eba (CV.\u5343\u8449\u7fd4\u4e5f)",
+          "url": "https://open.spotify.com/artist/7vOPzbqRgNcw9PedloTSQE"
+        },
+        {
+          "name": "\u6a58 \u5fd7\u72fc (CV.\u53e4\u7551\u6075\u4ecb)",
+          "url": "https://open.spotify.com/artist/29N5EzAl3nWfydjQkSyAH2"
+        },
+        {
+          "name": "\u821e\u7530 \u985e (CV.\u698e\u6728\u6df3\u5f25)",
+          "url": "https://open.spotify.com/artist/4cd7BLeu9ksHJxDLbUypKc"
+        },
+        {
+          "name": "\u515c \u5927\u543e (CV.\u6d66\u5c3e\u5cb3\u5927)",
+          "url": "https://open.spotify.com/artist/36v06McO13MtRuzHchy9W5"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248693,
+      "name": "Braver Beat",
+      "url": "https://open.spotify.com/track/6wn40STUjfXl4MBB2PuTsd"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM ST@RTING LINE-10 Caf\u00e9 Parade",
         "url": "https://open.spotify.com/album/5PYzkS3XSiEarnYmQR3r1f"
       },
@@ -528,7 +566,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 284946,
       "name": "Caf\u00e9 Parade!",
       "url": "https://open.spotify.com/track/70jhHM0UPSr25v8yhcA2p7"
@@ -564,7 +602,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 238000,
       "name": "Cherish BOUQUET",
       "url": "https://open.spotify.com/track/75krmbyTl57cAF2QMZpN8U"
@@ -644,10 +682,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 247573,
       "name": "Delicious Delivery",
       "url": "https://open.spotify.com/track/11IbasM6IQLTIBqt95iEjO"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -06 THE \u864e\u7259\u9053",
+        "url": "https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz"
+      },
+      "artists": [
+        {
+          "name": "\u5186\u57ce\u5bfa\u9053\u6d41 (CV.\u6ff1\u91ce\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/0SSbCy2ER4tkPjFrE4LI2R"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214133,
+      "name": "Determined Soul",
+      "url": "https://open.spotify.com/track/4mRkFvR1xxqfrdcs4eeJAJ"
     },
     {
       "album": {
@@ -662,7 +718,7 @@
       ],
       "date_added": "2022-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 231426,
       "name": "DRAMATIC NONFICTION",
       "url": "https://open.spotify.com/track/2aZIqx5SwoqZJEhhE8ZV8r"
@@ -700,7 +756,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 348800,
       "name": "DREAM JOURNEY",
       "url": "https://open.spotify.com/track/0OqwFNeojF4vgjE7FFptcZ"
@@ -736,7 +792,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 284200,
       "name": "DRIVE A LIVE",
       "url": "https://open.spotify.com/track/7KSn84SXhLWyibpChERxyq"
@@ -924,7 +980,7 @@
       ],
       "date_added": "2023-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 279786,
       "name": "FOCUS ON YOUR LIFE",
       "url": "https://open.spotify.com/track/3QFYE3SwxDx0e0WRpYjV5I"
@@ -960,7 +1016,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2023-10-12",
+      "date_removed": null,
       "duration_ms": 187213,
       "name": "From Genius",
       "url": "https://open.spotify.com/track/5cnptxgOoEWCfW2ZaAPykN"
@@ -1008,29 +1064,29 @@
       },
       "artists": [
         {
-          "name": "Jun Fuyumi (CV: Takuma Nagatsuka)",
-          "url": "https://open.spotify.com/artist/0lsTXrl5Rp8eV9H3pzAsWS"
+          "name": "\u51ac\u7f8e \u65ec (CV.\u6c38\u585a\u62d3\u99ac)",
+          "url": "https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb"
         },
         {
-          "name": "Toma Amagase (CV: Takuma Terashima)",
-          "url": "https://open.spotify.com/artist/0sOX3O6JaOffLsF1ZZiEYR"
+          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
+          "url": "https://open.spotify.com/artist/4zXriNQJamN0PnIh2htWGZ"
         },
         {
-          "name": "Kei Tsuzuki (CV: Shunichi Toki)",
-          "url": "https://open.spotify.com/artist/4hO3SyUsolTOlb0BlnGjGC"
+          "name": "\u90fd\u7bc9 \u572d (CV.\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx"
         },
         {
-          "name": "Soichiro Shinonome (CV: Kohei Amasaki)",
-          "url": "https://open.spotify.com/artist/3eEdFw6xDOzBa5IBOD99mp"
+          "name": "\u6771\u96f2\u8358\u4e00\u90ce (CV.\u5929\ufa11\u6ec9\u5e73)",
+          "url": "https://open.spotify.com/artist/7Fag7eFJZILyzgp3Y7TFn2"
         },
         {
-          "name": "Shoma Hanamura (CV: Yutaka Balletta)",
-          "url": "https://open.spotify.com/artist/1cOxuGlbGgRBR8q3pcDJRo"
+          "name": "\u83ef\u6751\u7fd4\u771f (CV.\u30d0\u30ec\u30c3\u30bf\u88d5)",
+          "url": "https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2023-02-10",
+      "date_removed": null,
       "duration_ms": 282272,
       "name": "Genesis Contact",
       "url": "https://open.spotify.com/track/11siJxjQ7hd0WAwdUnXu7m"
@@ -1048,7 +1104,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 281840,
       "name": "Genuine feelings",
       "url": "https://open.spotify.com/track/4B3Hjgv7A2PT20NbafOmJn"
@@ -1066,7 +1122,7 @@
       ],
       "date_added": "2023-03-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 220293,
       "name": "GIVE ME FUSION",
       "url": "https://open.spotify.com/track/2u88brqMvhPCrtFqSzxO61"
@@ -1102,7 +1158,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 275866,
       "name": "GO AHEAD SMILE!",
       "url": "https://open.spotify.com/track/5QXLhbfvw1bVcYmvNjxl6l"
@@ -1490,7 +1546,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-04",
+      "date_removed": null,
       "duration_ms": 295400,
       "name": "LIVE in your SMILE",
       "url": "https://open.spotify.com/track/5xb0pajvByQuLCiksFCcrE"
@@ -1508,7 +1564,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 278026,
       "name": "Make New Legend",
       "url": "https://open.spotify.com/track/4TzriFqTsiD4AMR0FBuXtA"
@@ -1563,6 +1619,36 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 10",
+        "url": "https://open.spotify.com/album/0SIlMl78Qf3jZ6BN1n37RA"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u6728 \u7ffc (CV.\u516b\u4ee3 \u62d3)",
+          "url": "https://open.spotify.com/artist/79qSDWnOwCoMXDfdoBKand"
+        },
+        {
+          "name": "\u83ef\u6751\u7fd4\u771f (CV.\u30d0\u30ec\u30c3\u30bf\u88d5)",
+          "url": "https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l"
+        },
+        {
+          "name": "\u6771\u96f2\u8358\u4e00\u90ce (CV.\u5929\ufa11\u6ec9\u5e73)",
+          "url": "https://open.spotify.com/artist/7Fag7eFJZILyzgp3Y7TFn2"
+        },
+        {
+          "name": "\u5186\u57ce\u5bfa\u9053\u6d41 (CV.\u6ff1\u91ce\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/0SSbCy2ER4tkPjFrE4LI2R"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294600,
+      "name": "MEET THE WORLD! - THAILAND Ver.",
+      "url": "https://open.spotify.com/track/3NGQ9Ylw6u4kyW9u4DzghM"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 05",
         "url": "https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J"
       },
@@ -1574,7 +1660,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 286266,
       "name": "mermaid fermata",
       "url": "https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD"
@@ -1635,6 +1721,36 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM WORLD TRE@SURE 10",
+        "url": "https://open.spotify.com/album/0SIlMl78Qf3jZ6BN1n37RA"
+      },
+      "artists": [
+        {
+          "name": "\u67cf\u6728 \u7ffc (CV.\u516b\u4ee3 \u62d3)",
+          "url": "https://open.spotify.com/artist/79qSDWnOwCoMXDfdoBKand"
+        },
+        {
+          "name": "\u83ef\u6751\u7fd4\u771f (CV.\u30d0\u30ec\u30c3\u30bf\u88d5)",
+          "url": "https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l"
+        },
+        {
+          "name": "\u6771\u96f2\u8358\u4e00\u90ce (CV.\u5929\ufa11\u6ec9\u5e73)",
+          "url": "https://open.spotify.com/artist/7Fag7eFJZILyzgp3Y7TFn2"
+        },
+        {
+          "name": "\u5186\u57ce\u5bfa\u9053\u6d41 (CV.\u6ff1\u91ce\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/0SSbCy2ER4tkPjFrE4LI2R"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274973,
+      "name": "My pen light, SMILE",
+      "url": "https://open.spotify.com/track/4VbuuUY8T45ctcbdORyCUr"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM ST@RTING LINE-11 Altessimo",
         "url": "https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y"
       },
@@ -1646,7 +1762,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 305186,
       "name": "Never end \"Opus\"",
       "url": "https://open.spotify.com/track/69YcmR3rldSdriAJMghwPj"
@@ -1664,7 +1780,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-24",
+      "date_removed": null,
       "duration_ms": 271173,
       "name": "NEXT STAGE\uff01",
       "url": "https://open.spotify.com/track/2dNeMijECbvryks252faMm"
@@ -1718,7 +1834,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 281334,
       "name": "OUR SONG -\u305d\u308c\u306f\u4e16\u754c\u3067\u3072\u3068\u3064\u3060\u3051-",
       "url": "https://open.spotify.com/track/1uQyVM4UOPSWGspmgJPwX2"
@@ -1754,7 +1870,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 247786,
       "name": "Pav\u00e9 \u00c9toiles",
       "url": "https://open.spotify.com/track/41WZEMDkuXUG4fmJJRJ5XP"
@@ -2086,7 +2202,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-01",
+      "date_removed": null,
       "duration_ms": 269253,
       "name": "Resolution",
       "url": "https://open.spotify.com/track/0hEybez77yb70HAuNW0Sqi"
@@ -2122,10 +2238,28 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 320733,
       "name": "Reversed Masquerade",
       "url": "https://open.spotify.com/track/7KNQtN04Y4J4NOrRsQ9clC"
+    },
+    {
+      "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 06",
+        "url": "https://open.spotify.com/album/1Jq5Y3rsVLxZ5taREc1AeB"
+      },
+      "artists": [
+        {
+          "name": "\u5186\u57ce\u5bfa\u9053\u6d41 (CV.\u6ff1\u91ce\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/53qbQRpLiystrtb7ujOgmV"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302160,
+      "name": "ROAD TO THE FUTURE",
+      "url": "https://open.spotify.com/track/3845SOwA3hXDHMijSX1caF"
     },
     {
       "album": {
@@ -2366,7 +2500,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 238000,
       "name": "Stories",
       "url": "https://open.spotify.com/track/4XCtxjwBGTzPm0aFzrd7GS"
@@ -3010,7 +3144,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 291146,
       "name": "\u221e Possibilities",
       "url": "https://open.spotify.com/track/3wFfcTqbDiBTdaJQfqsegr"
@@ -3049,12 +3183,12 @@
       "artists": [
         {
           "name": "\u5927\u6cb3\u30bf\u30b1\u30eb (CV.\u5bfa\u5cf6\u60c7\u592a)",
-          "url": "https://open.spotify.com/artist/6xLoG0qfLd7CT1gdNaMeRd"
+          "url": "https://open.spotify.com/artist/7KR0j71RA3VX2zVy3tb6Vq"
         }
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2022-12-03",
+      "date_removed": null,
       "duration_ms": 274546,
       "name": "\u305d\u306e\u5834\u6240\u3078\u884c\u304f\u305f\u3081\u306b-KEEP ON FIGHTING-",
       "url": "https://open.spotify.com/track/6fmNs7hgCuS2b0yZfHJ2cQ"
@@ -3226,7 +3360,7 @@
       ],
       "date_added": "2023-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 346160,
       "name": "\u30a2\u30c8\u30e2\u30b9\u30d5\u30a3\u30a2",
       "url": "https://open.spotify.com/track/0CIGzJylktOmnjCKmua9cD"
@@ -3604,7 +3738,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 220013,
       "name": "\u5343\u5ba2\u4e07\u6765\u30cb\u30fc\u30cf\u30aa\u30b5\u30a1\u30ab\u30b9\uff01",
       "url": "https://open.spotify.com/track/6xzS3JfLsFuXDeTsMStW6W"
@@ -3684,7 +3818,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-22",
+      "date_removed": null,
       "duration_ms": 245786,
       "name": "\u590f\u6642\u9593\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/2fFyk58FJRGKL40fAa9R1A"
@@ -3796,7 +3930,7 @@
       ],
       "date_added": "2024-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-28",
+      "date_removed": null,
       "duration_ms": 265480,
       "name": "\u60c5\u71b1...FIGHTER",
       "url": "https://open.spotify.com/track/59adiCCwOpRo5mMqQLlZWb"
@@ -3814,7 +3948,7 @@
       ],
       "date_added": "2022-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 301426,
       "name": "\u60f3\u3044\u306fETERNITY",
       "url": "https://open.spotify.com/track/6dxGtSsLh5i5KUUmkIe9UI"

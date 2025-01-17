@@ -571,6 +571,24 @@
     },
     {
       "album": {
+        "name": "All By Myself",
+        "url": "https://open.spotify.com/album/2rwPuot38U8Pedqj4KZpfQ"
+      },
+      "artists": [
+        {
+          "name": "Mita Gami",
+          "url": "https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209516,
+      "name": "All By Myself",
+      "url": "https://open.spotify.com/track/6yuE9NgllIeorhVIvqfms1"
+    },
+    {
+      "album": {
         "name": "All Fckd Up",
         "url": "https://open.spotify.com/album/4Umjb2JD5Gbw2Dtha919x0"
       },
@@ -7541,6 +7559,24 @@
     },
     {
       "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179887,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc"
+    },
+    {
+      "album": {
         "name": "Looney Talks",
         "url": "https://open.spotify.com/album/1RpbVl2wdDPxBDwkyaA8bi"
       },
@@ -7654,6 +7690,24 @@
       "duration_ms": 187821,
       "name": "Go Down - Radio Edit",
       "url": "https://open.spotify.com/track/2NqUYJZVWmoGCwLgtG8l1d"
+    },
+    {
+      "album": {
+        "name": "Go Hard",
+        "url": "https://open.spotify.com/album/4kaqg98ATagSsnzO0Pl5y0"
+      },
+      "artists": [
+        {
+          "name": "Jewel Kid",
+          "url": "https://open.spotify.com/artist/7eoJbho2ohpRTHDjZjkMTB"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176500,
+      "name": "Go Hard",
+      "url": "https://open.spotify.com/track/50xAER3SrklBtW7Fe0VciT"
     },
     {
       "album": {
@@ -23660,6 +23714,28 @@
       "duration_ms": 271275,
       "name": "You & Me",
       "url": "https://open.spotify.com/track/5FHaHD7FMSPgOvYhuVgae2"
+    },
+    {
+      "album": {
+        "name": "You and Only You",
+        "url": "https://open.spotify.com/album/2M6AqNNQhJyArzeIgSd2n0"
+      },
+      "artists": [
+        {
+          "name": "Tyler Hill",
+          "url": "https://open.spotify.com/artist/0mpUHzHesNAyD4y42cWOWr"
+        },
+        {
+          "name": "Dustin May",
+          "url": "https://open.spotify.com/artist/5C6tomOagqPSbOVEkUmY64"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393070,
+      "name": "You and Only You - Dustin May Remix",
+      "url": "https://open.spotify.com/track/3K9Log8T9kFd6XgsmgGm3X"
     },
     {
       "album": {

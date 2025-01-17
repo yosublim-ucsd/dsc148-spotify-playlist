@@ -937,6 +937,24 @@
     },
     {
       "album": {
+        "name": "DES0KUPA",
+        "url": "https://open.spotify.com/album/2Q0d5XA1ZeJOG6NbfLhjKI"
+      },
+      "artists": [
+        {
+          "name": "LUCY",
+          "url": "https://open.spotify.com/artist/1926SAsv8WWBm0XOn84Pso"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147333,
+      "name": "DES0KUPA",
+      "url": "https://open.spotify.com/track/5UyFdKSTKokWO4xtesk7D4"
+    },
+    {
+      "album": {
         "name": "Desnazificant",
         "url": "https://open.spotify.com/album/08qOnRM6t3iraXWtS7qVKP"
       },
@@ -1339,6 +1357,24 @@
     },
     {
       "album": {
+        "name": "Emergencia",
+        "url": "https://open.spotify.com/album/7rOWiAChFF7DwJ7BguS6yd"
+      },
+      "artists": [
+        {
+          "name": "RADIOCRIMEN",
+          "url": "https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152327,
+      "name": "Emergencia",
+      "url": "https://open.spotify.com/track/0BaAEoMHt9mM8eG6SwG46z"
+    },
+    {
+      "album": {
         "name": "El Mutante del Barrio Chino",
         "url": "https://open.spotify.com/album/0IzirXfpxJt753nbjyMV7j"
       },
@@ -1422,7 +1458,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 226093,
       "name": "Enamorado de la Muerte",
       "url": "https://open.spotify.com/track/4en5NpD2ZD6CpHeHIFTbzp"
@@ -2474,7 +2510,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 78125,
       "name": "McMierda's",
       "url": "https://open.spotify.com/track/2XvZAxHVx443yYALFnoN1M"
@@ -2962,7 +2998,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 186493,
       "name": "Nos Enga\u00f1an - original",
       "url": "https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr"
@@ -3128,7 +3164,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 196421,
       "name": "Palestina",
       "url": "https://open.spotify.com/track/6pxqXxJcvdSIvCklih7u6A"
@@ -3912,7 +3948,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 150813,
       "name": "Tributo por la Pasta",
       "url": "https://open.spotify.com/track/0EUrfc9xoOpBgGBvD5F0et"
@@ -4020,7 +4056,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 221833,
       "name": "Typical Spanish",
       "url": "https://open.spotify.com/track/6h6jnjmMzsOR17I0ygrzwR"

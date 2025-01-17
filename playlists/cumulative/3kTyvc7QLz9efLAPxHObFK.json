@@ -5765,6 +5765,28 @@
     },
     {
       "album": {
+        "name": "CAN'T STOP US NOW",
+        "url": "https://open.spotify.com/album/1dzUrek8rwoyhoRA2ODLJP"
+      },
+      "artists": [
+        {
+          "name": "Warface",
+          "url": "https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs"
+        },
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186750,
+      "name": "CAN'T STOP US NOW",
+      "url": "https://open.spotify.com/track/1b6GY4a7wAapD2hPCXbBbF"
+    },
+    {
+      "album": {
         "name": "CAN'T STOP WON'T STOP",
         "url": "https://open.spotify.com/album/5T9esNqz99018bZFPrdMNV"
       },

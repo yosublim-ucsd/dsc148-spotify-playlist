@@ -1,6 +1,6 @@
 {
   "description": "The songs that defined a golden era of British indie. ",
-  "num_followers": 655652,
+  "num_followers": 655719,
   "original_name": "Britpop, Etc.",
   "owner": {
     "name": "Spotify",
@@ -779,22 +779,6 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
-        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
-      },
-      "artists": [
-        {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
-        }
-      ],
-      "duration_ms": 322946,
-      "name": "Rock \u2018n\u2019 Roll Star - Remastered",
-      "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
-    },
-    {
-      "added_at": "2024-03-18 22:10:08",
-      "album": {
         "name": "Different Class / Deluxe Edition",
         "url": "https://open.spotify.com/album/1W0fmt3UzzyxvzRqvHoNFw"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 273733,
       "name": "Disco 2000",
       "url": "https://open.spotify.com/track/7ec55GDkRIBmsI8XKrG1lu"
+    },
+    {
+      "added_at": "2024-03-18 22:10:08",
+      "album": {
+        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
+        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
+      },
+      "artists": [
+        {
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+        }
+      ],
+      "duration_ms": 322946,
+      "name": "Rock \u2018n\u2019 Roll Star - Remastered",
+      "url": "https://open.spotify.com/track/1lCuf3uU0ZdAiqxVuZUv67"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -891,18 +891,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
-        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
+        "name": "His 'N' Hers",
+        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
       },
       "artists": [
         {
-          "name": "Oasis",
-          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
+          "name": "Pulp",
+          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
         }
       ],
-      "duration_ms": 289146,
-      "name": "Cigarettes & Alcohol - Remastered",
-      "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
+      "duration_ms": 244826,
+      "name": "Babies",
+      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
     },
     {
       "added_at": "2024-03-18 22:10:08",
@@ -963,18 +963,18 @@
     {
       "added_at": "2024-03-18 22:10:08",
       "album": {
-        "name": "His 'N' Hers",
-        "url": "https://open.spotify.com/album/4YhFzXoRDlowowzzNnNnP5"
+        "name": "Definitely Maybe (Remastered) [Deluxe Edition Remastered]",
+        "url": "https://open.spotify.com/album/3F7qb5AiQdWxuMgSyQ9zyg"
       },
       "artists": [
         {
-          "name": "Pulp",
-          "url": "https://open.spotify.com/artist/36E7oYfz3LLRto6l2WmDcD"
+          "name": "Oasis",
+          "url": "https://open.spotify.com/artist/2DaxqgrOhkeH0fpeiQq2f4"
         }
       ],
-      "duration_ms": 244826,
-      "name": "Babies",
-      "url": "https://open.spotify.com/track/1pUNeXXcmAJOyK6TiVL49n"
+      "duration_ms": 289146,
+      "name": "Cigarettes & Alcohol - Remastered",
+      "url": "https://open.spotify.com/track/3UwdK8bj9DyibPOgbjdCXD"
     },
     {
       "added_at": "2024-03-18 22:10:08",

@@ -1,6 +1,6 @@
 {
   "description": "Bounce to the Brick City sound. From New Jersey to the world. Cover: DJ Sliink",
-  "num_followers": 86068,
+  "num_followers": 86084,
   "original_name": "Jersey Club Heat",
   "owner": {
     "name": "Spotify",
@@ -799,6 +799,22 @@
     {
       "added_at": "2025-01-07 17:27:25",
       "album": {
+        "name": "Break From Jersey",
+        "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
+      },
+      "artists": [
+        {
+          "name": "DJ Sliink",
+          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
+        }
+      ],
+      "duration_ms": 151874,
+      "name": "Break From Jersey",
+      "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
+    },
+    {
+      "added_at": "2025-01-07 17:27:25",
+      "album": {
         "name": "now rock",
         "url": "https://open.spotify.com/album/7FdDt6ToaawcKKfJJOg2p1"
       },
@@ -819,38 +835,6 @@
     {
       "added_at": "2025-01-07 17:27:25",
       "album": {
-        "name": "Break From Jersey",
-        "url": "https://open.spotify.com/album/42brLpOIaiGtSlsuheWivi"
-      },
-      "artists": [
-        {
-          "name": "DJ Sliink",
-          "url": "https://open.spotify.com/artist/0t9dGS12PMZmiJiZa9vpyk"
-        }
-      ],
-      "duration_ms": 151874,
-      "name": "Break From Jersey",
-      "url": "https://open.spotify.com/track/0tsB7vubfUAWCPUaqTHJmY"
-    },
-    {
-      "added_at": "2025-01-07 17:27:25",
-      "album": {
-        "name": "BULLET",
-        "url": "https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv"
-      },
-      "artists": [
-        {
-          "name": "Bandmanrill",
-          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
-        }
-      ],
-      "duration_ms": 98409,
-      "name": "BULLET",
-      "url": "https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj"
-    },
-    {
-      "added_at": "2025-01-07 17:27:25",
-      "album": {
         "name": "Face of the What",
         "url": "https://open.spotify.com/album/0hA6PDNYcFeSJYj4CceZuL"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 108000,
       "name": "WHO YOU TOUCH",
       "url": "https://open.spotify.com/track/3wrgUFBUNcKnZf0MrR4uM4"
+    },
+    {
+      "added_at": "2025-01-07 17:27:25",
+      "album": {
+        "name": "BULLET",
+        "url": "https://open.spotify.com/album/6S96N0bJT2KmDmn1zUZtpv"
+      },
+      "artists": [
+        {
+          "name": "Bandmanrill",
+          "url": "https://open.spotify.com/artist/2SyMN1PdSuQpZgrYXrkai1"
+        }
+      ],
+      "duration_ms": 98409,
+      "name": "BULLET",
+      "url": "https://open.spotify.com/track/4mw4UMR9Vu0iXGVamW2RQj"
     },
     {
       "added_at": "2025-01-07 17:27:25",
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2025-01-07 17:27:25",
       "album": {
-        "name": "Bbl Drizzy (Jersey Club)",
-        "url": "https://open.spotify.com/album/1UTiZHIMa2jspPMZWdyVFZ"
+        "name": "NJ Turnpike, Vol. 1 (A Jersey Club Mixtape)",
+        "url": "https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6"
       },
       "artists": [
         {
-          "name": "Fazobeats",
-          "url": "https://open.spotify.com/artist/5fpOmsbbaKJNE4hqbPzMhT"
+          "name": "DJ SoulChild AC",
+          "url": "https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH"
         },
         {
-          "name": "ProdByAbnormal",
-          "url": "https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe"
+          "name": "Bryansanon",
+          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
         }
       ],
-      "duration_ms": 128004,
-      "name": "Bbl Drizzy (Jersey Club)",
-      "url": "https://open.spotify.com/track/4FlUWawGvc3f1xV78SVEPx"
+      "duration_ms": 92212,
+      "name": "Anytime I Want, Pt. 2",
+      "url": "https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu"
     },
     {
       "added_at": "2025-01-07 17:27:25",
@@ -1147,22 +1147,22 @@
     {
       "added_at": "2025-01-07 17:27:25",
       "album": {
-        "name": "NJ Turnpike, Vol. 1 (A Jersey Club Mixtape)",
-        "url": "https://open.spotify.com/album/0atiXVuqlhHIfdPQeunWG6"
+        "name": "Bbl Drizzy (Jersey Club)",
+        "url": "https://open.spotify.com/album/1UTiZHIMa2jspPMZWdyVFZ"
       },
       "artists": [
         {
-          "name": "DJ SoulChild AC",
-          "url": "https://open.spotify.com/artist/1dH2cKRZSWg0Bx64RavLNH"
+          "name": "Fazobeats",
+          "url": "https://open.spotify.com/artist/5fpOmsbbaKJNE4hqbPzMhT"
         },
         {
-          "name": "Bryansanon",
-          "url": "https://open.spotify.com/artist/4Gi918o3VYKKgw6WWWs36s"
+          "name": "ProdByAbnormal",
+          "url": "https://open.spotify.com/artist/7fc1beONoGaY0613kvQKWe"
         }
       ],
-      "duration_ms": 92212,
-      "name": "Anytime I Want, Pt. 2",
-      "url": "https://open.spotify.com/track/77jOT6Faz1r2mP1bcGR1Gu"
+      "duration_ms": 128004,
+      "name": "Bbl Drizzy (Jersey Club)",
+      "url": "https://open.spotify.com/track/4FlUWawGvc3f1xV78SVEPx"
     },
     {
       "added_at": "2025-01-07 17:27:25",

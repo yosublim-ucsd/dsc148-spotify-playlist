@@ -2,9 +2,9 @@
 
 ### [Boso Jowo](https://open.spotify.com/playlist/37i9dQZF1DXcwHMQ31Y15k)
 
-> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Masdddho
+> Sopo wae sing ngerti, yuk nyanyi sik\. Cover: Aftershine
 
-435 songs - 1 day 12 hr 20 min
+438 songs - 1 day 12 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -213,6 +213,7 @@
 | [MANGSA OBAH](https://open.spotify.com/track/29wLB4HBboFcB4AtS0VqKf) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [MANGSA OBAH](https://open.spotify.com/album/1KgJqmdZ78QwkWvZj7VRuH) | 4:50 | 2023-10-06 | 2023-12-09 |
 | [Manot](https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [Manot](https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E) | 5:48 | 2023-09-15 | 2024-12-13 |
 | [Manot](https://open.spotify.com/track/3D8qYZcWTMp93TCimjrjwO) | [Happy Asmara](https://open.spotify.com/artist/5423rMdVbchY2cgu0GgH5X), [Gilga Sahid](https://open.spotify.com/artist/5C8I8tTLdvuS4SlNoFS9dg) | [Manot](https://open.spotify.com/album/0HXJWLhewQ46fsmG2XbZrS) | 6:31 | 2024-03-29 | 2024-12-13 |
+| [Matursuwun Gusti](https://open.spotify.com/track/4aEs3ILtUnXCPnY1wsti1y) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL), [Dinda Teratu](https://open.spotify.com/artist/7xKCnaaxr1nhAHBIKt4rhX) | [Matursuwun Gusti](https://open.spotify.com/album/5eYMjDHngaRJUCdAGsxsSd) | 5:36 | 2025-01-16 |  |
 | [Mbok Sarijem](https://open.spotify.com/track/0oUW3yW2eADBRGTOpUGe1H) | [Abah Lala](https://open.spotify.com/artist/6BkCOBTVHP3E2FoLnEKauW) | [Mbok Sarijem](https://open.spotify.com/album/0mLRi97B3aVyS9aTkcyUIR) | 6:35 | 2023-09-15 | 2024-04-05 |
 | [Melas](https://open.spotify.com/track/1QtDIr6rKYTbK0aJ02BQi2) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Melas](https://open.spotify.com/album/7w6VPtAY5BAzaw4YvjrSPD) | 4:59 | 2024-01-18 | 2024-05-03 |
 | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/track/6LKFSmhIt0htvIWjAgjr8R) | [Aftershine](https://open.spotify.com/artist/6daEl3JyMDgK52fKuqPelL) | [Mending Golek Timbang Balen\(MGTB\)](https://open.spotify.com/album/6ui8Tm4QJu7qhf2bCgd3ZI) | 4:36 | 2022-05-26 | 2023-01-06 |
@@ -302,6 +303,7 @@
 | [Pengkuh](https://open.spotify.com/track/3KRoL1WLq83x1tXAA1t5Yc) | [Evan Loss](https://open.spotify.com/artist/4mzKYnv5GDC0hsEwcnJdjo) | [Pengkuh](https://open.spotify.com/album/2k7WneU9s2cWns7mU8EJeF) | 4:03 | 2024-05-24 | 2024-10-11 |
 | [Penipu Alus](https://open.spotify.com/track/0RVSJkjr28qzTOiMKm1Tpl) | [Mala Agatha](https://open.spotify.com/artist/4KXTUUytwGCyfH4aOAd4vB) | [Penipu Alus](https://open.spotify.com/album/2qazzEfyMWloYmF5TsQupw) | 5:47 | 2024-11-07 |  |
 | [Penting Yakin \- From "Cidro Asmoro"](https://open.spotify.com/track/1wbgdqJbPE5s4Lbhytnx5R) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Penting Yakin \(From "Cidro Asmoro"\)](https://open.spotify.com/album/4IleNOgGPg2x5B7ObHtpzt) | 4:38 | 2022-05-26 | 2023-01-27 |
+| [Pepisahan](https://open.spotify.com/track/4W8mIGnU6RFfOg6EVjMiTo) | [Vadesta](https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO) | [Pepisahan](https://open.spotify.com/album/6fEQf1bNuwNDxq9xUyESiU) | 4:18 | 2025-01-16 |  |
 | [Petetan](https://open.spotify.com/track/5dsemZcgf19x7rAX5NNus5) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc) | [Petetan](https://open.spotify.com/album/3ysJcsuETQVXmKRh4GJcYj) | 7:46 | 2024-12-19 |  |
 | [Pingal](https://open.spotify.com/track/7oT80u93j4B5HSs2GBpT2S) | [Guyon Waton](https://open.spotify.com/artist/5CROBjCskHMjRlerJor7Gx) | [Pingal](https://open.spotify.com/album/28TKreEgcsm0NaP8eT7CHK) | 5:04 | 2022-05-26 |  |
 | [Pingal](https://open.spotify.com/track/0EdbwWWEBu587R9DsURQS0) | [Tasya Rosmala](https://open.spotify.com/artist/6YsSuDPoCeH1CghPPISWDP) | [Pingal](https://open.spotify.com/album/4J36TrflDx5KLvyi4OmHdF) | 5:05 | 2022-05-26 | 2022-08-19 |
@@ -388,6 +390,7 @@
 | [SING BISO](https://open.spotify.com/track/1MrU4LSCrw5D3W1fCh1McQ) | [SKA 86](https://open.spotify.com/artist/5YFoDJ3lf1jKYDkjTUcoJg) | [SING BISO](https://open.spotify.com/album/5TBQZJeEyA99kMpzXvlcCW) | 3:50 | 2024-07-11 | 2024-11-22 |
 | [Sinyal Tresna \- From Collabonation](https://open.spotify.com/track/5vVV76tC3KjigYnT4dzMba) | [Ndarboy Genk](https://open.spotify.com/artist/7FHGSpmUoIkL2hG6T0qvrJ) | [Sinyal Tresna \(From Collabonation\)](https://open.spotify.com/album/79v7NB2gHevH35BCl5G2FQ) | 4:41 | 2022-07-21 | 2023-08-11 |
 | [Sinyal Tresno](https://open.spotify.com/track/1a3eBx0pLNJ0bfI2NMm59p) | [Yeni Inka](https://open.spotify.com/artist/3coxJnIe9n8Uz82x5eSTrv) | [Sinyal Tresno](https://open.spotify.com/album/1CXnJCfzX2TxG76pAJrjvO) | 4:50 | 2023-02-09 | 2023-08-11 |
+| [Slintutan](https://open.spotify.com/track/2hIpy1PYEdUoiC9dgwOgqS) | [Esa Risty](https://open.spotify.com/artist/3HShuvuxdHdvUxRqPjGrAc), [Wahyu F Giri](https://open.spotify.com/artist/6jKHCA8ghB0C8y9Yb2mz53) | [Slintutan](https://open.spotify.com/album/6vOSYOXlg5TsFA3FdLQMuX) | 6:06 | 2025-01-16 |  |
 | [Sugeng Dalu](https://open.spotify.com/track/0qyzO8E6IBxZv48FG9R3KQ) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/1dZX3QreXQ3V257tr93SJI) | 5:23 | 2022-05-26 | 2023-08-11 |
 | [Sugeng Dalu](https://open.spotify.com/track/3Vr5DdZ3zD8PGvlovaHAIc) | [Denny Caknan](https://open.spotify.com/artist/3Gr3opnAGpJiTowsTyJFWG) | [Sugeng Dalu](https://open.spotify.com/album/3mvGvSfDF9Y0agrI2mfCqf) | 9:02 | 2024-09-26 |  |
 | [Tak Lalekne Kowe](https://open.spotify.com/track/5fhDqPVoKj7eSkpRiCVyw8) | [Bella Nova](https://open.spotify.com/artist/5FMLSzS6VgQZ5j9qsIhqv0) | [Tak Lalekne Kowe](https://open.spotify.com/album/7zwWjfvz7dD1kOGLSmMf9h) | 5:32 | 2024-02-23 | 2024-06-14 |

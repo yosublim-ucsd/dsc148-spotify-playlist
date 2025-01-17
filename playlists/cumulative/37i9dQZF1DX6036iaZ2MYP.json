@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Qing Madi",
+  "description": "Tracks popping off in the Afro scene. Cover: Dr. Yaro",
   "name": "Afro Station",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 161513,
       "name": "AMINA",
       "url": "https://open.spotify.com/track/5DMC0VIVvIxPY8KwXjBp1S"
@@ -1208,7 +1208,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 163053,
       "name": "Badman",
       "url": "https://open.spotify.com/track/1g3OanQHWCwucjS3wVnIKN"
@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "COMME NOBODY",
+        "url": "https://open.spotify.com/album/12HR0bCHKIdyChC2jzhnwe"
+      },
+      "artists": [
+        {
+          "name": "Still Fresh",
+          "url": "https://open.spotify.com/artist/3AGggQTwJaSofLcpDlYhV4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155294,
+      "name": "COMME NOBODY",
+      "url": "https://open.spotify.com/track/4uEk7w0WUrSb07zzW2ZjHn"
+    },
+    {
+      "album": {
         "name": "Comment \u00e7a va ?",
         "url": "https://open.spotify.com/album/6Yk3rXs1IdnLYxODCBJNPu"
       },
@@ -3026,7 +3044,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 192000,
       "name": "Devant le Maire",
       "url": "https://open.spotify.com/track/0MdL8IyxvCK0ykNavMXXii"
@@ -3708,7 +3726,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 151578,
       "name": "EKWE",
       "url": "https://open.spotify.com/track/35sIpW2RtmVPZLbSsQCyJF"
@@ -9441,6 +9459,24 @@
     },
     {
       "album": {
+        "name": "Pas comme \u00e7a",
+        "url": "https://open.spotify.com/album/3gEd8xb8ea7iioUWS4q7f6"
+      },
+      "artists": [
+        {
+          "name": "Kpoint",
+          "url": "https://open.spotify.com/artist/3ABLHSKKZzNcgpBuXvLB9W"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158608,
+      "name": "Pas comme \u00e7a",
+      "url": "https://open.spotify.com/track/1egqivK6r0smUsx9epZ7fJ"
+    },
+    {
+      "album": {
         "name": "Pas science",
         "url": "https://open.spotify.com/album/2FhBvue7oJ4RMVymctBobP"
       },
@@ -9532,6 +9568,28 @@
       "duration_ms": 173646,
       "name": "Personal Baby",
       "url": "https://open.spotify.com/track/67bOItGZHSECTH9LffxpUm"
+    },
+    {
+      "album": {
+        "name": "Petit Bonbon",
+        "url": "https://open.spotify.com/album/47GBuTt5lFqHWfyHEUwAHs"
+      },
+      "artists": [
+        {
+          "name": "Lu City",
+          "url": "https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se"
+        },
+        {
+          "name": "Didi B",
+          "url": "https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190212,
+      "name": "Petit Bonbon",
+      "url": "https://open.spotify.com/track/35rWz1MYgLrwJ2LK38yGis"
     },
     {
       "album": {
@@ -10781,6 +10839,24 @@
     },
     {
       "album": {
+        "name": "Simba",
+        "url": "https://open.spotify.com/album/7cxeSjELObqQvzFz2wS7E5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128034,
+      "name": "Simba",
+      "url": "https://open.spotify.com/track/61U7ZDXC4f5iKatYBwSegE"
+    },
+    {
+      "album": {
         "name": "Who's Harley",
         "url": "https://open.spotify.com/album/43CuhnTFkeuhMv9r5r1CpH"
       },
@@ -11478,7 +11554,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 157800,
       "name": "Technique (feat. Gaz Mawete)",
       "url": "https://open.spotify.com/track/0HBGEZBlXljDGIvV36jC16"
@@ -12508,6 +12584,28 @@
       "duration_ms": 159127,
       "name": "When I See You",
       "url": "https://open.spotify.com/track/22fHc3vuTK2kxjrNSJrA5J"
+    },
+    {
+      "album": {
+        "name": "Lungu Boy",
+        "url": "https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW"
+      },
+      "artists": [
+        {
+          "name": "Asake",
+          "url": "https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Whine",
+      "url": "https://open.spotify.com/track/1RMEvuPu0Lq5GzBedlzEdA"
     },
     {
       "album": {

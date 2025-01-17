@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 \u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Tobii",
+  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b\u0e02\u0e2d\u0e07\u0e08\u0e23\u0e34\u0e07 \u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: 1MILL",
   "name": "\u0e2e\u0e34\u0e1b\u0e2e\u0e2d\u0e1b R.E.A.L. ",
   "tracks": [
     {
@@ -2402,7 +2402,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 148394,
       "name": "Love & Secret",
       "url": "https://open.spotify.com/track/2Uj75SjWw9utBe64kYbUU8"
@@ -3958,7 +3958,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 151578,
       "name": "SANTY",
       "url": "https://open.spotify.com/track/7HJXOMDHF5laY1kNAtYqfU"
@@ -7298,7 +7298,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 187555,
       "name": "\u0e19\u0e32\u0e19\u0e40\u0e17\u0e48\u0e32\u0e44\u0e2b\u0e23\u0e48",
       "url": "https://open.spotify.com/track/0WzFWJ4P02zV5spmVwho6M"
@@ -7899,6 +7899,36 @@
     },
     {
       "album": {
+        "name": "\u0e21\u0e35\u0e41\u0e15\u0e48\u0e25\u0e34\u0e1f\u0e15\u0e4c",
+        "url": "https://open.spotify.com/album/3PrF86rFMTX50e18Sptl9X"
+      },
+      "artists": [
+        {
+          "name": "\u0e2d\u0e38\u0e4b\u0e22 \u0e1a\u0e38\u0e14\u0e14\u0e32\u0e40\u0e1a\u0e25\u0e2a",
+          "url": "https://open.spotify.com/artist/0Fgl4IHmZqkO02s0aIAHuQ"
+        },
+        {
+          "name": "GUNNER",
+          "url": "https://open.spotify.com/artist/1JySn0pz3hvdDvWPTZf7hv"
+        },
+        {
+          "name": "JOE TOSSAKAN",
+          "url": "https://open.spotify.com/artist/60VgIYhqBwtISr0qyKLbF4"
+        },
+        {
+          "name": "POM CHLLY",
+          "url": "https://open.spotify.com/artist/5On5nhNDtJyPAoMPjfa4FB"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212938,
+      "name": "\u0e21\u0e35\u0e41\u0e15\u0e48\u0e25\u0e34\u0e1f\u0e15\u0e4c",
+      "url": "https://open.spotify.com/track/4wXT43BAe7vI6OjdrU6hQo"
+    },
+    {
+      "album": {
         "name": "\u0e21\u0e36\u0e07\u0e43\u0e2b\u0e49\u0e01\u0e39\u0e40\u0e01\u0e34\u0e14\u0e1a\u0e49\u0e32\u0e07",
         "url": "https://open.spotify.com/album/4jElXXZKXaPjF0r7V5AZW1"
       },
@@ -8096,6 +8126,32 @@
       "duration_ms": 237714,
       "name": "\u0e23\u0e2d\u0e22\u0e2a\u0e31\u0e01",
       "url": "https://open.spotify.com/track/5wDXBjLeLjeWEN2w7nWAbJ"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
+        "url": "https://open.spotify.com/album/1pZSegpCKVMmIrPUtYcWQq"
+      },
+      "artists": [
+        {
+          "name": "Saran",
+          "url": "https://open.spotify.com/artist/3moR9d0X97NAtZRhHWOta5"
+        },
+        {
+          "name": "Z9",
+          "url": "https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP"
+        },
+        {
+          "name": "SIMON",
+          "url": "https://open.spotify.com/artist/6gL6AwaRQKqK9VGBqi5zDo"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232941,
+      "name": "\u0e23\u0e2d\u0e2d\u0e22\u0e39\u0e48\u0e2d\u0e22\u0e48\u0e32\u0e07\u0e19\u0e31\u0e49\u0e19",
+      "url": "https://open.spotify.com/track/24wXz2WuaF02y0mrKNPMsN"
     },
     {
       "album": {
@@ -8540,6 +8596,32 @@
       "duration_ms": 150559,
       "name": "\u0e25\u0e2d\u0e07\u0e40\u0e1b\u0e34\u0e14\u0e43\u0e08",
       "url": "https://open.spotify.com/track/5NZCxRyM8qdt0BYYZ1PG5v"
+    },
+    {
+      "album": {
+        "name": "Hits Different",
+        "url": "https://open.spotify.com/album/0UCOQ7PjLnMp27Yf2L1YDL"
+      },
+      "artists": [
+        {
+          "name": "CDGuntee",
+          "url": "https://open.spotify.com/artist/6hzuCOHEv2eDQrxfQWFbp7"
+        },
+        {
+          "name": "NARA THEPNUPA",
+          "url": "https://open.spotify.com/artist/6S1GJIj9YB0ug7KwzJz2oq"
+        },
+        {
+          "name": "GUYGEEGEE",
+          "url": "https://open.spotify.com/artist/5CgO7BuOZ6fOpsLSEvzDsj"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182336,
+      "name": "\u0e25\u0e2d\u0e22\u0e17\u0e30\u0e40\u0e25 (Original by Joey Boy) (feat. NARA THEPNUPA & GUYGEEGEE)",
+      "url": "https://open.spotify.com/track/3lEKVsTevzcoffF6uSudZe"
     },
     {
       "album": {
@@ -9605,6 +9687,24 @@
     },
     {
       "album": {
+        "name": "\u0e2a\u0e27\u0e31\u0e2a\u0e14\u0e35\u0e04\u0e49\u0e32\u0e1a",
+        "url": "https://open.spotify.com/album/3uKpT2NY42XvergFV1OsD3"
+      },
+      "artists": [
+        {
+          "name": "YUNGTARR",
+          "url": "https://open.spotify.com/artist/1KXxfYnhxzq9xBkhFZaYxX"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149490,
+      "name": "\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08\u0e43\u0e19\u0e2a\u0e48\u0e27\u0e19\u0e1c\u0e2a\u0e21",
+      "url": "https://open.spotify.com/track/5HhygQkxcB1EdY4kyQh425"
+    },
+    {
+      "album": {
         "name": "\u0e40\u0e07\u0e32 (SHADOW) Ost.Shadow \u0e40\u0e07\u0e32/\u0e25\u0e48\u0e32/\u0e15\u0e32\u0e22",
         "url": "https://open.spotify.com/album/7G7kKXrICzp9lDc7ta4k9E"
       },
@@ -10134,7 +10234,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 213239,
       "name": "\u0e40\u0e1b\u0e49\u0e32\u0e43\u0e2b\u0e0d\u0e48",
       "url": "https://open.spotify.com/track/5948AS6f8C5gP2ruJARxu1"

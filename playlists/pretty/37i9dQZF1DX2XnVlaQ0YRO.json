@@ -1,6 +1,6 @@
 {
   "description": "shop, wrap, bake, study or just chill to these cozy christmas beats.",
-  "num_followers": 5077,
+  "num_followers": 5072,
   "original_name": "lofi christmas chill\ud83c\udf84\u2744\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -267,22 +267,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "The Lonely Elf",
-        "url": "https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT"
-      },
-      "artists": [
-        {
-          "name": "justregular",
-          "url": "https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ"
-        }
-      ],
-      "duration_ms": 102857,
-      "name": "The Lonely Elf",
-      "url": "https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Christmas Lofi",
         "url": "https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 93518,
       "name": "Christmas by the Fireplace",
       "url": "https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "The Lonely Elf",
+        "url": "https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT"
+      },
+      "artists": [
+        {
+          "name": "justregular",
+          "url": "https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ"
+        }
+      ],
+      "duration_ms": 102857,
+      "name": "The Lonely Elf",
+      "url": "https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "carol of the bells",
-        "url": "https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG"
-      },
-      "artists": [
-        {
-          "name": "Cereal Party",
-          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
-        }
-      ],
-      "duration_ms": 146696,
-      "name": "carol of the bells",
-      "url": "https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Have a Lofi Christmas",
         "url": "https://open.spotify.com/album/5zEOGPCoL5NDWyk2XutPss"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 158218,
       "name": "Soaring Reindeer",
       "url": "https://open.spotify.com/track/4MQW3WYzs5EVQr96g5r4MZ"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "carol of the bells",
+        "url": "https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "duration_ms": 146696,
+      "name": "carol of the bells",
+      "url": "https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Lofi Christmas",
-        "url": "https://open.spotify.com/album/1DVFsVbYH3y2YhvH3Q4j2P"
-      },
-      "artists": [
-        {
-          "name": "Looi",
-          "url": "https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru"
-        }
-      ],
-      "duration_ms": 121929,
-      "name": "Sleigh Ride",
-      "url": "https://open.spotify.com/track/2j8FSM3mItIqzkvN5Ljfz9"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Togetherness",
         "url": "https://open.spotify.com/album/61KdA5AeurS6FPon5tcLYf"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 107666,
       "name": "Togetherness",
       "url": "https://open.spotify.com/track/0tFIloIXXvtGeIkC1fRmIN"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Lofi Christmas",
+        "url": "https://open.spotify.com/album/1DVFsVbYH3y2YhvH3Q4j2P"
+      },
+      "artists": [
+        {
+          "name": "Looi",
+          "url": "https://open.spotify.com/artist/0ITQQemR9CidTcLBO4Vjru"
+        }
+      ],
+      "duration_ms": 121929,
+      "name": "Sleigh Ride",
+      "url": "https://open.spotify.com/track/2j8FSM3mItIqzkvN5Ljfz9"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1275,6 +1275,22 @@
       "duration_ms": 99942,
       "name": "Christmas Wrapping",
       "url": "https://open.spotify.com/track/0HRq0BMJ9mDA5pcJRDfpJo"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Like It's Christmas",
+        "url": "https://open.spotify.com/album/1ingkpJcDRAS6EcHiyFJyO"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6d\u00e4lv",
+          "url": "https://open.spotify.com/artist/02sAm2NhEZw7lM3hHzPG1l"
+        }
+      ],
+      "duration_ms": 157290,
+      "name": "Like It's Christmas",
+      "url": "https://open.spotify.com/track/2l8DGgpGq4PegU5Psy66dp"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1339,22 +1355,6 @@
       "duration_ms": 166153,
       "name": "Christmas Lovin'",
       "url": "https://open.spotify.com/track/0y1oqexLerBf5CNHtXC8pK"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
-        "name": "Like It's Christmas",
-        "url": "https://open.spotify.com/album/1ingkpJcDRAS6EcHiyFJyO"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6d\u00e4lv",
-          "url": "https://open.spotify.com/artist/02sAm2NhEZw7lM3hHzPG1l"
-        }
-      ],
-      "duration_ms": 157290,
-      "name": "Like It's Christmas",
-      "url": "https://open.spotify.com/track/2l8DGgpGq4PegU5Psy66dp"
     },
     {
       "added_at": "2024-12-20 07:58:31",

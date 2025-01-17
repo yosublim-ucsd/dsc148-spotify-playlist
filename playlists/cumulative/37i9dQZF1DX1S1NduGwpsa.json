@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Lila May",
+  "description": "The best jazz new releases. Cover: Ferdi\n",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -6999,6 +6999,24 @@
     },
     {
       "album": {
+        "name": "Leleuland",
+        "url": "https://open.spotify.com/album/3njEbwpCylkJ2J5PoAWXk6"
+      },
+      "artists": [
+        {
+          "name": "Thomas Leleu",
+          "url": "https://open.spotify.com/artist/1fgptfnDkurkPTIUPBTo6h"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219440,
+      "name": "Leleuland",
+      "url": "https://open.spotify.com/track/0L3fXroETBMivP3rkPFWJ6"
+    },
+    {
+      "album": {
         "name": "Fables",
         "url": "https://open.spotify.com/album/4fDN799OnYLUrE3PB7wnib"
       },
@@ -8800,7 +8818,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 183125,
       "name": "No Better Time",
       "url": "https://open.spotify.com/track/1gElwot1Kfi8qeMbl4fwEd"
@@ -11181,6 +11199,24 @@
     },
     {
       "album": {
+        "name": "Stairway to the Stars",
+        "url": "https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318857,
+      "name": "Stairway to the Stars",
+      "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"
+    },
+    {
+      "album": {
         "name": "Step out",
         "url": "https://open.spotify.com/album/12AqyKMFCCLCdCqhx8FAVs"
       },
@@ -11890,7 +11926,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 184497,
       "name": "That's Life",
       "url": "https://open.spotify.com/track/7jTLS32BMC2UyTTjEUW6BT"
@@ -11926,7 +11962,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 193879,
       "name": "The Barber",
       "url": "https://open.spotify.com/track/0CepbR21k7urTljw1WC45E"

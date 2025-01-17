@@ -27,6 +27,24 @@
     },
     {
       "album": {
+        "name": "Twee Stappen Voor",
+        "url": "https://open.spotify.com/album/6HwoP7y1vS2gtH2bMPdfHK"
+      },
+      "artists": [
+        {
+          "name": "FLEMMING",
+          "url": "https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152181,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/3aQDbJ2tvQNRTQjwy9az2D"
+    },
+    {
+      "album": {
         "name": "Tempo Giusto",
         "url": "https://open.spotify.com/album/38I4hDn3sXGtCI8bEiL8X6"
       },
@@ -769,6 +787,24 @@
     },
     {
       "album": {
+        "name": "Idool",
+        "url": "https://open.spotify.com/album/79KiaWoiBMzwh6DIVw2DIE"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182606,
+      "name": "Idool",
+      "url": "https://open.spotify.com/track/3UHc8kTAiUhWvUDcHBIzyD"
+    },
+    {
+      "album": {
         "name": "Ik Weet Dat Jij Het Niet Weet",
         "url": "https://open.spotify.com/album/1ybW8KtzTEhTOuEp1JFXLi"
       },
@@ -906,7 +942,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 169491,
       "name": "Kan Ik Iets Voor Je Doen?",
       "url": "https://open.spotify.com/track/6K1xfSVsfGLvvcCCQjFRMy"
@@ -978,7 +1014,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 159622,
       "name": "Kwattaweg",
       "url": "https://open.spotify.com/track/3m40Nh93jW2AVB85kwN4I5"

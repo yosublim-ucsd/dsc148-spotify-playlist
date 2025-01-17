@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De nieuwste Hollandse hits. Cover: Django Wagner & Nelis Leeman",
+  "description": "Wekelijkse update met Hollands en volks. Cover: Yves Berendse",
   "name": "Liever Hollands",
   "tracks": [
     {
@@ -60,6 +60,24 @@
       "duration_ms": 130128,
       "name": "Aan Van Jou",
       "url": "https://open.spotify.com/track/7FLlO7lEJLmELPvmOLczMc"
+    },
+    {
+      "album": {
+        "name": "Adem Mijn Adem",
+        "url": "https://open.spotify.com/album/0JG9tfs0yqbPhSLpFLKKge"
+      },
+      "artists": [
+        {
+          "name": "Sidney Jr",
+          "url": "https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143085,
+      "name": "Adem Mijn Adem",
+      "url": "https://open.spotify.com/track/1huCWn6TC8SL3FqKzBIvCB"
     },
     {
       "album": {
@@ -851,6 +869,24 @@
     },
     {
       "album": {
+        "name": "Een B&B Vol Liefde",
+        "url": "https://open.spotify.com/album/1ufnGNT0WdaU3qC1VKcBjS"
+      },
+      "artists": [
+        {
+          "name": "Roy Donders",
+          "url": "https://open.spotify.com/artist/4UuqYrvax6M2JXhQ3lwB1L"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183398,
+      "name": "Een B&B Vol Liefde",
+      "url": "https://open.spotify.com/track/4DKXbqXBOQwUrshlRmjStP"
+    },
+    {
+      "album": {
         "name": "Een Druppeltje Geluk",
         "url": "https://open.spotify.com/album/1Gyh2UyLO4xNOwjKxtAiJ7"
       },
@@ -906,6 +942,24 @@
       "duration_ms": 162173,
       "name": "Engelengezang",
       "url": "https://open.spotify.com/track/0DL5ZiYdN0I4xpJ1yJfvC4"
+    },
+    {
+      "album": {
+        "name": "Eenmaal In Je Leven",
+        "url": "https://open.spotify.com/album/198g0LrDssZW4QnCBdQFlX"
+      },
+      "artists": [
+        {
+          "name": "Tamara Tol",
+          "url": "https://open.spotify.com/artist/2fFKIJDGZZ89gLkVDdy7Uj"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193626,
+      "name": "E\u00e9nmaal in je leven",
+      "url": "https://open.spotify.com/track/4xFvReJI2AjrX3hNS9jXe5"
     },
     {
       "album": {
@@ -1180,6 +1234,24 @@
       "duration_ms": 188666,
       "name": "Het Regent Pijpenstelen",
       "url": "https://open.spotify.com/track/1MhoNw8jlaZs6ItTGREl7X"
+    },
+    {
+      "album": {
+        "name": "Hobbel Hobbel",
+        "url": "https://open.spotify.com/album/7zFB1p8TevtJViAZwexvY6"
+      },
+      "artists": [
+        {
+          "name": "Arjon Oostrom",
+          "url": "https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152893,
+      "name": "Hobbel Hobbel",
+      "url": "https://open.spotify.com/track/1I3SaCDWwpP6ecFRv9URsW"
     },
     {
       "album": {
@@ -3094,6 +3166,24 @@
       "duration_ms": 182382,
       "name": "Van Brabant naar Bordeaux",
       "url": "https://open.spotify.com/track/6jSvbOJNCvgeTBQS0LVlRk"
+    },
+    {
+      "album": {
+        "name": "Vandaag Ben Ik Van Jou",
+        "url": "https://open.spotify.com/album/6kQ7PZDZMsHTrQwL8sqt4f"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Vandaag Ben Ik Van Jou",
+      "url": "https://open.spotify.com/track/1DhAbQBX3GtlSH2qnZPei9"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > beats + birds = <3
 
-550 songs - 21 hr 9 min
+551 songs - 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [At Peace](https://open.spotify.com/track/3wqiNJYXsMOF2pn7wDUUE5) | [rjoseph](https://open.spotify.com/artist/2cdb2U5hrSfprEgLTrPDwl) | [At Peace](https://open.spotify.com/album/4v47NkXAulaluWWm8YUyoX) | 2:56 | 2023-02-07 | 2023-11-24 |
 | [Aubade](https://open.spotify.com/track/0gbUFxxYG1tnXjFcsCLNk2) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/55tPJivAF0H4j5Zy85kVfU) | 1:51 | 2022-08-12 | 2022-11-20 |
 | [Aubade](https://open.spotify.com/track/3vDlW4JNICUAN27xLrYj08) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Aubade](https://open.spotify.com/album/5tgMXvZEChCejwI882yJDy) | 1:51 | 2022-11-11 | 2023-03-18 |
+| [bae leaf](https://open.spotify.com/track/72ORCTa1srBj3Onera7huR) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [bae leaf](https://open.spotify.com/album/6RYXjhytUDzSiV1PihEu92) | 2:28 | 2025-01-16 |  |
 | [Balmy Evening](https://open.spotify.com/track/0ql5XG2bgqKNGzLGDQAQwM) | [​BT](https://open.spotify.com/artist/3pvYsYDAS81yi4BUfHGiue), [Kanimayo](https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1) | [Balmy Evening](https://open.spotify.com/album/66YHRIBJH5XiatLKBPBRb9) | 1:57 | 2023-01-13 | 2023-09-08 |
 | [Bamboo](https://open.spotify.com/track/1Eds8oDDD5wYBGNgp8GpjF) | [Sleepermane](https://open.spotify.com/artist/4gGsx7blPpBj7gKGmDBEfI), [Sling Dilly](https://open.spotify.com/artist/6dY8i34qqvAmPgYeOzHTO9) | [Two Piece](https://open.spotify.com/album/4WUWDPlKnLRNTv7AIS2TO3) | 2:02 | 2022-06-03 | 2023-09-16 |
 | [Bay Leaves](https://open.spotify.com/track/7LKRVeyuMdIxLFhr49n7sT) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK) | [Bay Leaves](https://open.spotify.com/album/5ktazOzcMJcyaEg2lcYlKS) | 2:04 | 2021-12-07 | 2022-09-03 |
@@ -238,7 +239,7 @@
 | [Indigo Rum](https://open.spotify.com/track/36BbszCnXVtbWGNitSnSTE) | [Zho Zho](https://open.spotify.com/artist/1kmThtC0J9kzWqMy89sIyJ) | [Indigo Rum \- Ambience](https://open.spotify.com/album/2GpVB5kuOjlvXc3gTv2HxM) | 2:34 | 2022-07-22 |  |
 | [is it coming?](https://open.spotify.com/track/0DlBnSiUDLmmHjkd8mWHEE) | [bed.](https://open.spotify.com/artist/39sZyRUOAoHPCvMy2sjv04) | [is it coming?](https://open.spotify.com/album/2vAFxHsK66qNOqNxlmQIrf) | 1:49 | 2024-08-23 |  |
 | [island vibes](https://open.spotify.com/track/1afFU8ViYqQo6XMXxyKCfl) | [dLira](https://open.spotify.com/artist/62qH5lO3YpMpkVJJb7JuEv) | [island vibes](https://open.spotify.com/album/0r3fC17UPhDT0Pgqs2UCf5) | 2:36 | 2022-01-28 |  |
-| [It Will Be Okay](https://open.spotify.com/track/0csJBTAnROtcbD5zKNxbEa) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Perspective](https://open.spotify.com/album/3NZcJBtYs1jDUcS3RA0Zz5) | 2:18 | 2022-11-11 |  |
+| [It Will Be Okay](https://open.spotify.com/track/0csJBTAnROtcbD5zKNxbEa) | [Signature D](https://open.spotify.com/artist/0jKQILX1WJBjUAXREEAf1L) | [Perspective](https://open.spotify.com/album/3NZcJBtYs1jDUcS3RA0Zz5) | 2:18 | 2022-11-11 | 2025-01-17 |
 | [its okay](https://open.spotify.com/track/6RJ2W3VAicJPG6GuhdwiW7) | [Emtee Beats](https://open.spotify.com/artist/29HYZQ5nVtKxmvfx18NdAH), [CHG](https://open.spotify.com/artist/19wrYTgQ1HpOBX5cjB58tl) | [its okay](https://open.spotify.com/album/2ZfnMmS443GRt3qgTas9D0) | 2:10 | 2022-07-01 | 2023-09-16 |
 | [Jazz Has Many Faces](https://open.spotify.com/track/6S1v4mCBFT3yG895yilYyt) | [Super Off\-Beat](https://open.spotify.com/artist/08gFTIqLswYXSzCTLqkDT4) | [Jazz Has Many Faces](https://open.spotify.com/album/5U13M8p2FQMbI9IZUffHDN) | 2:00 | 2021-12-07 | 2024-05-14 |
 | [Jazzy Girl](https://open.spotify.com/track/3XoXEYaBCRdasiRNHywjWI) | [Recovery TIme](https://open.spotify.com/artist/30ECrzUanbQrlkzo7HQjap) | [Aries](https://open.spotify.com/album/2yWlRhxxy4q9vNso6XwzcS) | 1:47 | 2022-09-02 |  |
@@ -460,7 +461,7 @@
 | [Snowfall](https://open.spotify.com/track/6LMte3OwjV6DFhNkE68LWn) | [Umha](https://open.spotify.com/artist/4nCoGJfSn0GQZJ1GKawE14) | [Snowfall](https://open.spotify.com/album/27OzZLDN8GF6MbABKSLuzK) | 2:10 | 2023-07-13 |  |
 | [Snowtime](https://open.spotify.com/track/43cniiXl1ChIj4QFTS5fIV) | [Bamboozled Bumblebee](https://open.spotify.com/artist/2AjeGYqAkWP7ZcD0NPPIG0) | [Snowtime](https://open.spotify.com/album/3KqT93aR4uhuwboEzMMbg0) | 2:03 | 2022-01-28 |  |
 | [So be it](https://open.spotify.com/track/6CY4goxKdCDKB8ZKB9EDIz) | [RainDear](https://open.spotify.com/artist/0cPgIB1XyF4E0wZbDUqQ33) | [So be it](https://open.spotify.com/album/5Dj5k28Bnb3Wc2u6TEiWyD) | 2:26 | 2023-07-13 |  |
-| [so far away](https://open.spotify.com/track/4kRlEBBhXOGeCeFaAAfUub) | [narpy](https://open.spotify.com/artist/6HooP8zYHkpZmM0I9H0tmo) | [so far away](https://open.spotify.com/album/4dcMtlFy6F3UnEZX6MQfXj) | 1:23 | 2022-09-16 |  |
+| [so far away](https://open.spotify.com/track/4kRlEBBhXOGeCeFaAAfUub) | [narpy](https://open.spotify.com/artist/6HooP8zYHkpZmM0I9H0tmo) | [so far away](https://open.spotify.com/album/4dcMtlFy6F3UnEZX6MQfXj) | 1:23 | 2022-09-16 | 2025-01-17 |
 | [softie](https://open.spotify.com/track/5AgTeKNdnOV3gg8nst5VI8) | [soulful beats](https://open.spotify.com/artist/0x6QoENXYTjAkBQzijkHvk) | [softie](https://open.spotify.com/album/0WaNjvVVt9EsusgigIqpYL) | 2:21 | 2023-02-07 |  |
 | [some day soon](https://open.spotify.com/track/6kIM4Su7QfD7L737v6yhEo) | [Soulone Beats](https://open.spotify.com/artist/3aPWC84CTwM0fnRNLGqxQg) | [some day soon](https://open.spotify.com/album/1FL0aUBLTkpFnABDM0460p) | 2:15 | 2022-08-19 | 2022-10-14 |
 | [Some Nights Are Warm](https://open.spotify.com/track/209FWTDtzXbP6Fs5HTGPla) | [Bomshi](https://open.spotify.com/artist/6s7sxozM3KaMc1b6MKjAWz), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Some Nights Are Warm](https://open.spotify.com/album/179d2njETFvQgnvzaSNC8l) | 1:57 | 2024-06-28 | 2024-12-12 |
@@ -515,7 +516,7 @@
 | [Traces](https://open.spotify.com/track/3beSsH4Uu5fAy8Cvp29IpS) | [Oskar Hahn](https://open.spotify.com/artist/5D47BWKQT56z8xey53ZxmL), [John Lenin](https://open.spotify.com/artist/7jxvgrk7kNnUykaVtGgBe0), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Traces](https://open.spotify.com/album/3FM4oesg9xR2kHfvDXPOxF) | 2:11 | 2023-08-31 | 2024-06-29 |
 | [Traces of a Life](https://open.spotify.com/track/3oykToXlQHGWsx7639tmFZ) | [Akkoro](https://open.spotify.com/artist/7oYEzKdDKAF7DjhsS4nEOt) | [Traces of a Life](https://open.spotify.com/album/0Tao9FeWRRB6VPTZPCeOwI) | 1:58 | 2024-03-08 |  |
 | [Tranquil](https://open.spotify.com/track/4N1sQBGhZbinCkPS5YGJpU) | [Ambrosia Light](https://open.spotify.com/artist/2y4IqtX8oi7CED9jr6LaPm) | [Tranquil](https://open.spotify.com/album/1ZskIXLZ8xI1mchietSTgS) | 2:07 | 2023-04-11 | 2024-10-05 |
-| [Treasure Chest](https://open.spotify.com/track/2EtnxLV4JoKkt6W6EoqeIJ) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Treasure Chest](https://open.spotify.com/album/0UVOkKSirR2rPTK8N6Bo5A) | 2:18 | 2023-02-07 |  |
+| [Treasure Chest](https://open.spotify.com/track/2EtnxLV4JoKkt6W6EoqeIJ) | [Ouflen](https://open.spotify.com/artist/1RFUrCY2wxQaLw6NjAnnT7) | [Treasure Chest](https://open.spotify.com/album/0UVOkKSirR2rPTK8N6Bo5A) | 2:18 | 2023-02-07 | 2025-01-17 |
 | [treetops and flip flops](https://open.spotify.com/track/7B9XrqqtZSiWyrBC5QLEKY) | [laxlax](https://open.spotify.com/artist/7jaWfMGeX8R3FQuzCltkKA) | [treetops and flip flops](https://open.spotify.com/album/7yj5NFQFTkmRdAAZhVXWGa) | 2:27 | 2022-08-05 |  |
 | [triton](https://open.spotify.com/track/6rDJ58SbxAL9cwBHOeid1w) | [mt\. koala](https://open.spotify.com/artist/5ryb7Zr3TEu4mGQ0Yhns9M) | [wilderness](https://open.spotify.com/album/3PIXBJReX3ZgenQVpO63Rl) | 1:55 | 2021-12-07 | 2022-05-27 |
 | [Tropical](https://open.spotify.com/track/3flKXxgUUF950gQHuDGBoy) | [Ryuu竜](https://open.spotify.com/artist/7IjhfLAkztgdYu463O2bfF) | [Tropical](https://open.spotify.com/album/3VyOz3HYyFIg9lXDjUfkOb) | 1:06 | 2022-08-05 | 2022-09-23 |

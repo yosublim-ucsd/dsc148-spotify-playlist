@@ -5792,7 +5792,7 @@
       ],
       "date_added": "2024-01-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 200000,
       "name": "Dilerim Ki",
       "url": "https://open.spotify.com/track/6cjIlxXM1ca6nxkJ0p27jU"
@@ -8108,7 +8108,7 @@
       ],
       "date_added": "2021-11-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 207915,
       "name": "Gitme",
       "url": "https://open.spotify.com/track/4Sng3wnol2Gb2yXgFdr9lj"
@@ -20138,7 +20138,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 265964,
       "name": "Yank\u0131",
       "url": "https://open.spotify.com/track/4y3QBJf9E8yDJCEFbRK8xk"
@@ -20540,6 +20540,24 @@
       "duration_ms": 237865,
       "name": "Ya\u011fmurlar",
       "url": "https://open.spotify.com/track/3aX0N8IdY9rECrbuuR4FMp"
+    },
+    {
+      "album": {
+        "name": "Ho\u015fgeldin",
+        "url": "https://open.spotify.com/album/7qJXluMkVb8aBsC8OMPlQK"
+      },
+      "artists": [
+        {
+          "name": "Funda Arar",
+          "url": "https://open.spotify.com/artist/6g7GF7BLC41JTHJwgB4wQW"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205199,
+      "name": "Yediverenim",
+      "url": "https://open.spotify.com/track/4oNFpReTeO8DlVcdJINHsX"
     },
     {
       "album": {

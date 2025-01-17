@@ -1,13 +1,29 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 62151,
+  "num_followers": 62147,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAHtpUJ94mL1+8A5Qu8uKK334RwoiIe",
+  "snapshot_id": "AAAHvQDfrgYoooq9DGyVlVwrDe4869Iy",
   "tracks": [
+    {
+      "added_at": "2025-01-16 21:11:47",
+      "album": {
+        "name": "Song for the Village",
+        "url": "https://open.spotify.com/album/1SHP2IfM5wdTzhtrpjEl3I"
+      },
+      "artists": [
+        {
+          "name": "Federico Albanese",
+          "url": "https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL"
+        }
+      ],
+      "duration_ms": 169249,
+      "name": "Song for the Village",
+      "url": "https://open.spotify.com/track/62k80mnRaoxQpCAkgHI1sT"
+    },
     {
       "added_at": "2024-12-20 12:39:00",
       "album": {
@@ -33,20 +49,20 @@
       "url": "https://open.spotify.com/track/5Fyn2PmGBaOTM3uVnvGxRl"
     },
     {
-      "added_at": "2024-12-19 15:50:32",
+      "added_at": "2025-01-16 21:11:28",
       "album": {
-        "name": "A Christmas Prelude No. 3",
-        "url": "https://open.spotify.com/album/3j3Tcyg9D7DLASJHyx0rTs"
+        "name": "Time",
+        "url": "https://open.spotify.com/album/5Hl6FRbYZROJuEKYHFsx7d"
       },
       "artists": [
         {
-          "name": "Goldb\u00e6k",
-          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
+          "name": "Hideyuki Hashimoto",
+          "url": "https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og"
         }
       ],
-      "duration_ms": 175712,
-      "name": "A Christmas Prelude No. 3",
-      "url": "https://open.spotify.com/track/550tiyZbarfuAejjHMSZLO"
+      "duration_ms": 131695,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/7rrz6YoiyKmWJtxLxLtBUb"
     },
     {
       "added_at": "2024-12-19 15:50:32",
@@ -83,6 +99,22 @@
       "duration_ms": 169167,
       "name": "New Beginning (Arr. for Strings by Carlos Hof)",
       "url": "https://open.spotify.com/track/1C4g0QhVeWfvXHwjF1QmYB"
+    },
+    {
+      "added_at": "2025-01-16 21:13:00",
+      "album": {
+        "name": "La Mattina",
+        "url": "https://open.spotify.com/album/0TciGM0oDp8HCgNUoUdtWQ"
+      },
+      "artists": [
+        {
+          "name": "Patrick Hamilton",
+          "url": "https://open.spotify.com/artist/5gxCZXXCHpwrqcCJxq0VhJ"
+        }
+      ],
+      "duration_ms": 172200,
+      "name": "La Mattina",
+      "url": "https://open.spotify.com/track/0VJD4lajldCn56OqrK9qv4"
     },
     {
       "added_at": "2024-12-19 15:50:32",
@@ -403,22 +435,6 @@
     {
       "added_at": "2024-12-19 15:50:32",
       "album": {
-        "name": "A Christmas Prelude No. 2",
-        "url": "https://open.spotify.com/album/6g4ZmTDTUmnVXn5gJPbbek"
-      },
-      "artists": [
-        {
-          "name": "Goldb\u00e6k",
-          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
-        }
-      ],
-      "duration_ms": 189467,
-      "name": "A Christmas Prelude No. 2",
-      "url": "https://open.spotify.com/track/5rJPDfxVNAmsUUrpf5MeHe"
-    },
-    {
-      "added_at": "2024-12-19 15:50:32",
-      "album": {
         "name": "Bavaria",
         "url": "https://open.spotify.com/album/3bgV7saRotc51WR0hpZD5d"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 305462,
       "name": "3 Intermezzi, Op. 117: 3 Intermezzi, Op. 117/No. 2 in B-Flat Minor",
       "url": "https://open.spotify.com/track/6XZoq075NOdK5RhibcWARK"
-    },
-    {
-      "added_at": "2024-12-19 15:50:32",
-      "album": {
-        "name": "A Christmas Prelude No. 1",
-        "url": "https://open.spotify.com/album/4zcCzsCkRZFlEBGNLPoGGW"
-      },
-      "artists": [
-        {
-          "name": "Goldb\u00e6k",
-          "url": "https://open.spotify.com/artist/2CxGH13O1qZqOnfxsvF4qO"
-        }
-      ],
-      "duration_ms": 161538,
-      "name": "A Christmas Prelude No. 1",
-      "url": "https://open.spotify.com/track/0ngu4Q8cY5cvHHLVMbE9Nc"
     },
     {
       "added_at": "2024-12-19 15:50:32",

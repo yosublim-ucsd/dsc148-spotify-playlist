@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sayf in cover della playlist con la nuova generazione del rap italiano. ",
+  "description": "Waze RRX in cover della playlist con la nuova generazione del rap italiano. ",
   "name": "Raptopia",
   "tracks": [
     {
@@ -512,7 +512,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 121844,
       "name": "2 HOT (feat. LILCR, Peter Napo & CVLTURE)",
       "url": "https://open.spotify.com/track/4XUXh2IAx3OBQ8W35KAyj9"
@@ -548,7 +548,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 121875,
       "name": "2 MINUTI DI NOTORIET\u00c0",
       "url": "https://open.spotify.com/track/31P9lOdF02wAQBjK0Cl5lR"
@@ -786,7 +786,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 136078,
       "name": "4 Matic",
       "url": "https://open.spotify.com/track/4wVhMDk0grda3pgIY4LU4v"
@@ -2624,7 +2624,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 132565,
       "name": "BADMAN",
       "url": "https://open.spotify.com/track/0vtdvW8tXcuLHFk7sGfJZx"
@@ -5072,7 +5072,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 198952,
       "name": "Calma Fragile",
       "url": "https://open.spotify.com/track/5Brck6pOzlfyQf3CN64uuT"
@@ -8693,6 +8693,24 @@
     },
     {
       "album": {
+        "name": "drive safe",
+        "url": "https://open.spotify.com/album/4fioYAH0jgMho34kamskta"
+      },
+      "artists": [
+        {
+          "name": "Luciennn",
+          "url": "https://open.spotify.com/artist/6qHbYx76y5bQSbBMUYhhuP"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148125,
+      "name": "drive safe",
+      "url": "https://open.spotify.com/track/6CUKOiRpzycNTimZizcT3D"
+    },
+    {
+      "album": {
         "name": "DRUG DEALER",
         "url": "https://open.spotify.com/album/0DpRoF12BKXnso55BfjJYQ"
       },
@@ -9757,6 +9775,28 @@
     },
     {
       "album": {
+        "name": "FAMMOKK",
+        "url": "https://open.spotify.com/album/1xMpAiDSxs3JXIQDayiQFj"
+      },
+      "artists": [
+        {
+          "name": "Rosolo Roso",
+          "url": "https://open.spotify.com/artist/4v6IUouJ3henBgdkXXBfLg"
+        },
+        {
+          "name": "G Coal",
+          "url": "https://open.spotify.com/artist/2vvXqIv6N4huXqIngC3ces"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146285,
+      "name": "FAMMOKK",
+      "url": "https://open.spotify.com/track/1oNJk4nAi3Rsm2yUDl2bm6"
+    },
+    {
+      "album": {
         "name": "Faraone",
         "url": "https://open.spotify.com/album/32FML5jYsP9pX30heKAPv0"
       },
@@ -10064,6 +10104,36 @@
       "duration_ms": 160661,
       "name": "Festa delle Streghe",
       "url": "https://open.spotify.com/track/2zr06Pa71vFC0PLNLAixXu"
+    },
+    {
+      "album": {
+        "name": "Fiato",
+        "url": "https://open.spotify.com/album/5mzP2vWldEIoobIem3jD0v"
+      },
+      "artists": [
+        {
+          "name": "Taizal",
+          "url": "https://open.spotify.com/artist/6AMEEJtkHSBmiemI3yEhNT"
+        },
+        {
+          "name": "DOXX",
+          "url": "https://open.spotify.com/artist/1rlz0TbW8EjjvvOxPxoVsr"
+        },
+        {
+          "name": "7ends",
+          "url": "https://open.spotify.com/artist/0lQ3y3LHkjma0rLxDouQWS"
+        },
+        {
+          "name": "Exynos",
+          "url": "https://open.spotify.com/artist/5XRz1xKClFKxJNyjRgwi5s"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186562,
+      "name": "Fiato",
+      "url": "https://open.spotify.com/track/5U7QEiaEPSJSgIfXZnVf8v"
     },
     {
       "album": {
@@ -10979,6 +11049,24 @@
     },
     {
       "album": {
+        "name": "G II",
+        "url": "https://open.spotify.com/album/3qo652f9S3cLUEHQcCz4XG"
+      },
+      "artists": [
+        {
+          "name": "Don Pero",
+          "url": "https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153381,
+      "name": "G II",
+      "url": "https://open.spotify.com/track/3HUPMluR4pzVtC1tVdcxlh"
+    },
+    {
+      "album": {
         "name": "RETINA",
         "url": "https://open.spotify.com/album/1QpTxvVdHxgTLXZXe5Ykec"
       },
@@ -11774,7 +11862,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 160387,
       "name": "Gocce",
       "url": "https://open.spotify.com/track/5jGkjpmZrcZGdoNuXvgt5p"
@@ -13334,6 +13422,36 @@
       "duration_ms": 92800,
       "name": "INFERNO",
       "url": "https://open.spotify.com/track/5jz7OO7VT8eWmWW9dBTBRD"
+    },
+    {
+      "album": {
+        "name": "Innamorato Di Me (feat. Hammon, Glasond)",
+        "url": "https://open.spotify.com/album/3hpzt21rWRXeZgFpet4aMX"
+      },
+      "artists": [
+        {
+          "name": "Maury North",
+          "url": "https://open.spotify.com/artist/4HxI6ooJCfn4mJmvOzgyry"
+        },
+        {
+          "name": "Hammon",
+          "url": "https://open.spotify.com/artist/606h9T2l7ABnfLC88vWoZ2"
+        },
+        {
+          "name": "Glasond",
+          "url": "https://open.spotify.com/artist/5lpNYhmYsGq63njdDPq8nq"
+        },
+        {
+          "name": "Ksub",
+          "url": "https://open.spotify.com/artist/4l97AfjXUOO1SZ3QjLz0SQ"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158918,
+      "name": "Innamorato Di Me (feat. Hammon, Glasond)",
+      "url": "https://open.spotify.com/track/5qVLktPIgEiNiNepPzUZCm"
     },
     {
       "album": {
@@ -16636,6 +16754,28 @@
       "duration_ms": 119400,
       "name": "Man Down 2!",
       "url": "https://open.spotify.com/track/7HfGyfKBamKBmM8IqZBroD"
+    },
+    {
+      "album": {
+        "name": "Man Down 3!",
+        "url": "https://open.spotify.com/album/2eBm5IPjsjOk6viusZcWkT"
+      },
+      "artists": [
+        {
+          "name": "Melons",
+          "url": "https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe"
+        },
+        {
+          "name": "Ddusi",
+          "url": "https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Man Down 3!",
+      "url": "https://open.spotify.com/track/4rSfjYpGAac0MwfQ1RXUvf"
     },
     {
       "album": {
@@ -20338,7 +20478,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 168439,
       "name": "Non \u00e8 colpa mia",
       "url": "https://open.spotify.com/track/47tH9oEZau4yadfbnZmDg8"
@@ -22330,7 +22470,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 127285,
       "name": "Piazzale Europa 2",
       "url": "https://open.spotify.com/track/0JIxYm2jBmaklYiqFJJwr7"
@@ -23949,6 +24089,28 @@
     },
     {
       "album": {
+        "name": "R2D",
+        "url": "https://open.spotify.com/album/4Rf4S1ulX75ze7ec4Rruqt"
+      },
+      "artists": [
+        {
+          "name": "Kira",
+          "url": "https://open.spotify.com/artist/2HyasfYKBQnhWBIonOhabC"
+        },
+        {
+          "name": "Depha Beat",
+          "url": "https://open.spotify.com/artist/6bwVTFdmpdNygRD0jMUQGm"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117176,
+      "name": "R2D",
+      "url": "https://open.spotify.com/track/10mORJLSuqNxKCXbGKUPLU"
+    },
+    {
+      "album": {
         "name": "RACKS",
         "url": "https://open.spotify.com/album/4toQoG6SY8Nqza6eZpYZuv"
       },
@@ -24339,6 +24501,24 @@
     },
     {
       "album": {
+        "name": "RESTANDO SVEGLIO",
+        "url": "https://open.spotify.com/album/7qqp5sJELuptPOvRX8qrF7"
+      },
+      "artists": [
+        {
+          "name": "Unknown_2cc",
+          "url": "https://open.spotify.com/artist/7hs3MC7AhseBcED6K2bysr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 88888,
+      "name": "RESTANDO SVEGLIO",
+      "url": "https://open.spotify.com/track/2ltjvU8KqMlrw4XGaVsY3v"
+    },
+    {
+      "album": {
         "name": "Rick Owens (feat. Drast)",
         "url": "https://open.spotify.com/album/5Blps3qnKSjWXK5W5DXNpp"
       },
@@ -24682,6 +24862,28 @@
       "duration_ms": 153273,
       "name": "Robe Da Maranza",
       "url": "https://open.spotify.com/track/2MwQjdvvuYF5XaXyJmlygR"
+    },
+    {
+      "album": {
+        "name": "MOON-X",
+        "url": "https://open.spotify.com/album/2rFVJtrPo5cqTtb45y8qJV"
+      },
+      "artists": [
+        {
+          "name": "Waze RRX",
+          "url": "https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD"
+        },
+        {
+          "name": "Glocky",
+          "url": "https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123479,
+      "name": "Roccia Music (feat.Glocky)",
+      "url": "https://open.spotify.com/track/7G1ZJ10tNun4aXjZYjaOBp"
     },
     {
       "album": {
@@ -25535,6 +25737,28 @@
     },
     {
       "album": {
+        "name": "SCAPPA",
+        "url": "https://open.spotify.com/album/6qM9P4tWyT7qFO6yeUEE8q"
+      },
+      "artists": [
+        {
+          "name": "Tokyo",
+          "url": "https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq"
+        },
+        {
+          "name": "Kermit",
+          "url": "https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150784,
+      "name": "SCAPPA",
+      "url": "https://open.spotify.com/track/5Cy9aEx5pMEL4wbyuRCTDC"
+    },
+    {
+      "album": {
         "name": "Scappa da me",
         "url": "https://open.spotify.com/album/2BrL8EOdnTqqpzlfuGJSsz"
       },
@@ -26259,6 +26483,32 @@
     },
     {
       "album": {
+        "name": "Siamo Noi (feat. Flaco G)",
+        "url": "https://open.spotify.com/album/2YbGKaezl2mQcobJo3I1NH"
+      },
+      "artists": [
+        {
+          "name": "YD Frost",
+          "url": "https://open.spotify.com/artist/5VfyRN67E8k3yyivZ5p72L"
+        },
+        {
+          "name": "Flaco G",
+          "url": "https://open.spotify.com/artist/7uQjkmip3qpclXt7hJ6EI9"
+        },
+        {
+          "name": "YD Teddy",
+          "url": "https://open.spotify.com/artist/0LzZVQE7lt2MXRt6txx8q4"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159822,
+      "name": "Siamo Noi (feat. Flaco G)",
+      "url": "https://open.spotify.com/track/4sIu4jP9xPauSXhxla73LE"
+    },
+    {
+      "album": {
         "name": "SIDE HOE",
         "url": "https://open.spotify.com/album/1ntgh7yEXIbKrb73KWz3yr"
       },
@@ -26824,7 +27074,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 163654,
       "name": "Solo (feat. Silent Bob)",
       "url": "https://open.spotify.com/track/31xwjwV6xHIRTUQt1ensEN"
@@ -26850,7 +27100,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 167307,
       "name": "SOLTANTO SE",
       "url": "https://open.spotify.com/track/6Szjif4uGa4pPhIyFVfHVJ"
@@ -27070,6 +27320,28 @@
       "duration_ms": 163477,
       "name": "SPIN THAT BLOCK",
       "url": "https://open.spotify.com/track/7KrtGSZ0nmL5LmSoGDdfHP"
+    },
+    {
+      "album": {
+        "name": "SPIN!",
+        "url": "https://open.spotify.com/album/4l1zShc8Qu5Gd1rhuM432B"
+      },
+      "artists": [
+        {
+          "name": "Shaka Muni",
+          "url": "https://open.spotify.com/artist/7AnocrRYGg5OxqfZPjaQIY"
+        },
+        {
+          "name": "RAISS",
+          "url": "https://open.spotify.com/artist/3osLZ3sCzbozmblz3l3F8x"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135999,
+      "name": "SPIN!",
+      "url": "https://open.spotify.com/track/2uHC2JQ6sR4oaeTRzpEEBM"
     },
     {
       "album": {
@@ -28462,6 +28734,28 @@
       "duration_ms": 166639,
       "name": "Tennis Club",
       "url": "https://open.spotify.com/track/3rV4Ua58IkgiGQjsywxckx"
+    },
+    {
+      "album": {
+        "name": "TERRORIST",
+        "url": "https://open.spotify.com/album/0GtfXfhSj43kGiMrq0F16N"
+      },
+      "artists": [
+        {
+          "name": "El Chapo Junior",
+          "url": "https://open.spotify.com/artist/1fWDYRSANxGCdDew83u6Wc"
+        },
+        {
+          "name": "EMDI",
+          "url": "https://open.spotify.com/artist/1Qa7XkZpAw9Nk2nHiQLD6S"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122526,
+      "name": "TERRORIST",
+      "url": "https://open.spotify.com/track/5REi9GidMTcisKNmXHUyAd"
     },
     {
       "album": {
@@ -30034,7 +30328,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 115263,
       "name": "UP",
       "url": "https://open.spotify.com/track/5TxO42NKtZ0B1PhhQhywmx"
@@ -31874,7 +32168,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 166930,
       "name": "ZOO",
       "url": "https://open.spotify.com/track/4Lp4uJUigaLirS15uwq6so"

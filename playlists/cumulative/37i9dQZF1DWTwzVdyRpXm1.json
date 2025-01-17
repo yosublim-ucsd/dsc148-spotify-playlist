@@ -1549,6 +1549,32 @@
     },
     {
       "album": {
+        "name": "Bijliaan",
+        "url": "https://open.spotify.com/album/3AJg0ZFU4hwhhEMtYd9pKU"
+      },
+      "artists": [
+        {
+          "name": "B Praak",
+          "url": "https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j"
+        },
+        {
+          "name": "Jayy Randhawa",
+          "url": "https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w"
+        },
+        {
+          "name": "Avvy Sra",
+          "url": "https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178124,
+      "name": "Bijliaan",
+      "url": "https://open.spotify.com/track/2jF2LdO4oB5nsj4Ylxwsoo"
+    },
+    {
+      "album": {
         "name": "Bikhra",
         "url": "https://open.spotify.com/album/4yfjeaROize8h6IkgU5RBn"
       },

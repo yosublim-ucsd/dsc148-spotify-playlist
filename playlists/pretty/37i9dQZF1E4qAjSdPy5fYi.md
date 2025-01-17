@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With glitterpop!, Joshua Lanuarii, UrvTek and more
+> With Joshua Lanuarii, glitterpop!, salv the dog and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 563 likes - 50 songs - 2 hr 3 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [WAG UR TAIL 2 THIS! \(PAWS UP ON THE DANCEFLOOR!\)](https://open.spotify.com/track/27Ia129EFB9zrcp2VgaEs0) | [glitterpop!](https://open.spotify.com/artist/1QA3mUn9XkVeSoNgWdqZ40) | [GLITTER IN THE BIG CITY!](https://open.spotify.com/album/3caKl4lh0NPHT3YwOW5jT9) | 4:34 |
 | 50 | [Why do i miss u](https://open.spotify.com/track/7wS766zakrGZdc1WpaiXmk) | [STYXVII](https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU) | [WHAT HAPPENS WHEN 2 STARS COLLIDE & FINDING OUT THE HARD WAY](https://open.spotify.com/album/7EN6kUGBPG0pRywaOKCjjL) | 2:05 |
 
-Snapshot ID: `Z4hVHwAAAADuVSFY1qkZNDJyf5CgJDfs`
+Snapshot ID: `Z4m4GgAAAAAEg0yGzg+ha8zvazGZ5m/u`

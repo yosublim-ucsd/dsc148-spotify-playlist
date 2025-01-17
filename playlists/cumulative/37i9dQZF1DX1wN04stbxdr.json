@@ -127,6 +127,28 @@
     },
     {
       "album": {
+        "name": "Berre ein gut",
+        "url": "https://open.spotify.com/album/25OA9n2LBidYGODhrDucNU"
+      },
+      "artists": [
+        {
+          "name": "Kjartan Lauritzen",
+          "url": "https://open.spotify.com/artist/0TW5M8RYADmgeCP1q523hf"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195573,
+      "name": "Berre ein gut",
+      "url": "https://open.spotify.com/track/7hDjwHEudXcfgskoZXUiMO"
+    },
+    {
+      "album": {
         "name": "bli",
         "url": "https://open.spotify.com/album/5RUmdLme36fw8Mi2thcokz"
       },
@@ -529,6 +551,28 @@
     },
     {
       "album": {
+        "name": "F\u00f8lelser",
+        "url": "https://open.spotify.com/album/4tOf1m1lthgxbc4dw3e5Hm"
+      },
+      "artists": [
+        {
+          "name": "Jonas Benyoub",
+          "url": "https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195709,
+      "name": "F\u00f8lelser",
+      "url": "https://open.spotify.com/track/2k99mwxVgN8hpcVx6OWhRf"
+    },
+    {
+      "album": {
         "name": "Goaskinviellja",
         "url": "https://open.spotify.com/album/7MGIz71Ei4Q7q23ail13wK"
       },
@@ -736,6 +780,32 @@
       "duration_ms": 192000,
       "name": "It \u0161at duolmma mu",
       "url": "https://open.spotify.com/track/1RH9FRrt2XT2J6IlUHvpKR"
+    },
+    {
+      "album": {
+        "name": "It's Ok If You Forget Me",
+        "url": "https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176000,
+      "name": "It\u00b4s Ok If You Forget Me (feat. Emma Jensen)",
+      "url": "https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP"
     },
     {
       "album": {
@@ -1059,6 +1129,28 @@
     },
     {
       "album": {
+        "name": "N\u00e4r flingor sm\u00e4lter (Home Is Where The Heart Is)",
+        "url": "https://open.spotify.com/album/1CsVZnEF93b6paVlXaJYlu"
+      },
+      "artists": [
+        {
+          "name": "Carola",
+          "url": "https://open.spotify.com/artist/3uFum0NCM1PtmCO0MwsOAt"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166534,
+      "name": "N\u00e4r flingor sm\u00e4lter (Home Is Where The Heart Is)",
+      "url": "https://open.spotify.com/track/0R8WTdlOw6nj5uOfWbUPzs"
+    },
+    {
+      "album": {
         "name": "N\u00e5de",
         "url": "https://open.spotify.com/album/1SyAaDEjU3XsYGsvh3GH00"
       },
@@ -1100,6 +1192,28 @@
       "duration_ms": 238550,
       "name": "ok jeg lover",
       "url": "https://open.spotify.com/track/63toIh9OgvWV32FAUMYiTO"
+    },
+    {
+      "album": {
+        "name": "Om det brenn",
+        "url": "https://open.spotify.com/album/1bnCMiI7ItAop5zr8IsYPa"
+      },
+      "artists": [
+        {
+          "name": "Stein Torleif Bjella",
+          "url": "https://open.spotify.com/artist/5S2AgI8b86lQyL14ykyYYm"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190546,
+      "name": "Om det brenn",
+      "url": "https://open.spotify.com/track/0BIHeQUSZxPAax9tW7RYOt"
     },
     {
       "album": {
@@ -1210,6 +1324,28 @@
       "duration_ms": 201840,
       "name": "Risk",
       "url": "https://open.spotify.com/track/1Lvapr5anGcq04xK8l9IZu"
+    },
+    {
+      "album": {
+        "name": "Running Out",
+        "url": "https://open.spotify.com/album/7oI2MpU23gi49Ph6EOiWqT"
+      },
+      "artists": [
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181321,
+      "name": "Running Out",
+      "url": "https://open.spotify.com/track/5v2SfybFL0ZkYcPOR5WmbC"
     },
     {
       "album": {

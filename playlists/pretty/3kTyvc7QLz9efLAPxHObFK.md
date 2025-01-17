@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,943 songs - 4 day 7 hr 18 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,944 songs - 4 day 7 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1951,5 +1951,6 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1941 | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/track/0CUeNPfczZYcb0IdV1CeqL) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [ATILAX](https://open.spotify.com/artist/1DLc4wnbKa3RWJsqwPehbk) | [Step Into The Light \(APEX 2025 OST\)](https://open.spotify.com/album/6m5mmcB1gIUvS8khA3n1we) | 4:12 |
 | 1942 | [Parachute](https://open.spotify.com/track/7wAFNsuX7aVUkSHtKQmamx) | [Rob IYF](https://open.spotify.com/artist/1t03AEcpi3uX09ENi7jDu7), [Bonkers](https://open.spotify.com/artist/3pEPRYJ1ieg3fRnYd0YIyV) | [Parachute](https://open.spotify.com/album/6wSg8VmXMyVWDPLk1O2pcV) | 3:29 |
 | 1943 | [Looking](https://open.spotify.com/track/0hcDR1QfjuaVvh6qWno9zC) | [Udow](https://open.spotify.com/artist/0ks7tKbD7vxmutoXPuwxnB) | [Looking](https://open.spotify.com/album/18xUKvGbm2ikyJEkCG80s8) | 3:20 |
+| 1944 | [CAN'T STOP US NOW](https://open.spotify.com/track/1b6GY4a7wAapD2hPCXbBbF) | [Warface](https://open.spotify.com/artist/1wuQQfTDZhgNb4GJyhThUs), [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [CAN'T STOP US NOW](https://open.spotify.com/album/1dzUrek8rwoyhoRA2ODLJP) | 3:06 |
 
-Snapshot ID: `AAAHz8X/O5tT4tlT0kn4Q74s3dROdBFh`
+Snapshot ID: `AAAH0JXu0HLcEr8vtRAXWOgM48InYVVZ`

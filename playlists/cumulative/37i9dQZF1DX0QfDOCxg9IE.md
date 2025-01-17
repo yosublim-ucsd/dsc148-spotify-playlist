@@ -4,7 +4,7 @@
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-254 songs - 14 hr 11 min
+255 songs - 14 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [Magiko Hali](https://open.spotify.com/track/4Du5inwBEt2y2LzuwL7sZ5) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Tora](https://open.spotify.com/album/7clXu6opdGDrs4GvNWDLkX) | 5:11 | 2024-10-14 |  |
 | [Mamushi \(feat\. Yuki Chiba\)](https://open.spotify.com/track/5b3XJ1pjrHO5JtY2PcTjnI) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [千葉雄喜](https://open.spotify.com/artist/6Qhgat07PNOdnJSnCXJigu) | [MEGAN](https://open.spotify.com/album/0FzWvaeMBfKBCqxHTLVlB8) | 2:36 | 2024-08-12 | 2024-11-19 |
 | [MAQUO](https://open.spotify.com/track/1Cf69HHda0Tqd1IP8AHUAA) | [ATC Nico](https://open.spotify.com/artist/1uENJBsvFjDUv7OrH3DaKR) | [MAQUO](https://open.spotify.com/album/7s4zPalLZZLVWyQXAsoAzb) | 2:45 | 2024-07-29 | 2024-08-06 |
+| [MATRIX](https://open.spotify.com/track/4SMXHvHA1FtsekSN6BWnJy) | [Karnalh](https://open.spotify.com/artist/0YwSU2NF2cXIME0vXeJVmL), [Exus186](https://open.spotify.com/artist/3nvjSCVp4IrkqLU8xmJ1n4) | [MATRIX](https://open.spotify.com/album/6DXj8zcaB9ls3dECyOh0EU) | 2:37 | 2025-01-16 |  |
 | [Mavri Hira](https://open.spotify.com/track/0Tj4XEGy5fXF3OFJJ0SWmh) | [Mpelafon](https://open.spotify.com/artist/0bWNsLp2zKgUNInup4gU9F) | [Multiverse](https://open.spotify.com/album/4S9NBbmF4XRrbUokfTx946) | 1:52 | 2024-10-07 | 2024-10-15 |
 | [MBAPPE](https://open.spotify.com/track/0MNvjSqNtUCZ4ikxrRe8kz) | [SIDARTA](https://open.spotify.com/artist/3jPN2U65cMPzvozEBue5zp), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2), [Sin Laurent](https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE) | [MBAPPE](https://open.spotify.com/album/2FRgTjahtyzUQG8A3ZaaDT) | 2:37 | 2024-07-01 | 2024-11-26 |
 | [MEDELLIN ARAB](https://open.spotify.com/track/7JeDYIeMjWC6OUBhwKHXkD) | [ARCH](https://open.spotify.com/artist/7zOY1KePKq1Z2FEJ1D3nQZ), [BIG SKENDO](https://open.spotify.com/artist/7AdZhtbTFeE4AZIMcBOpIW) | [MEDELLIN ARAB](https://open.spotify.com/album/521DSgNE9v1B4Qn5k9by3T) | 2:13 | 2024-12-16 | 2025-01-08 |
@@ -151,7 +152,7 @@
 | [Metamorfoseis](https://open.spotify.com/track/19FzwWMX2JsAzn4uk7aXHc) | [Matina Sous Peau](https://open.spotify.com/artist/0aGfhWFRGPh2pgWQL9kYtU) | [Metamorfoseis](https://open.spotify.com/album/0j8l23x8FRBnrp9nLGujPM) | 3:31 | 2024-07-01 | 2024-09-03 |
 | [Mexri Telous](https://open.spotify.com/track/5t4ea9v5BSCWNw0aMzUoLd) | [Nino Xypolitas](https://open.spotify.com/artist/1ATDcv6wTF2U42HPB4qEFz) | [Mexri Telous](https://open.spotify.com/album/0TgTWLCCFaAIjJjUBXsTBK) | 4:03 | 2024-07-01 | 2025-01-08 |
 | [Mia Fora](https://open.spotify.com/track/5INe0V3DZwd9iLJ7FcFjIz) | [Dimitris Korgialas](https://open.spotify.com/artist/2AmNeFI2k3YOSygtQKcyKD), [Katerina Moutsatsou](https://open.spotify.com/artist/2P8jnblQnc3YI9vMp1wJfm) | [As' Ta Dyskola Se Mena](https://open.spotify.com/album/16irWIZTZXO4BSxL1gq4iw) | 4:36 | 2024-07-01 | 2024-08-13 |
-| [Mia Kali Mera](https://open.spotify.com/track/6tgyuULuaaxVdyrRfv7KIs) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks 2](https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU) | 4:07 | 2024-07-15 |  |
+| [Mia Kali Mera](https://open.spotify.com/track/6tgyuULuaaxVdyrRfv7KIs) | [Bloody Hawk](https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy) | [Fthina Tricks 2](https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU) | 4:07 | 2024-07-15 | 2025-01-17 |
 | [Moi](https://open.spotify.com/track/5AXNh6mEr2z8UFlqm8ftRH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Moi](https://open.spotify.com/album/78gWVhHs5g8ba0m11hDYGw) | 2:54 | 2024-09-16 | 2024-10-01 |
 | [Monaxiki Kardia](https://open.spotify.com/track/46aH7ZYbc2P5qQno3G49OH) | [Melisses](https://open.spotify.com/artist/2ra3quFhImLyv0c9XTnWFl) | [Monaxiki Kardia](https://open.spotify.com/album/2QSe5EEkKfKX9CGyVRkesC) | 2:32 | 2024-07-01 |  |
 | [MORENA](https://open.spotify.com/track/2Y3gl5i2k6cGtNKDyjunfW) | [Bando333](https://open.spotify.com/artist/346SfvWJ8tZFjSheFDIufe) | [MORENA](https://open.spotify.com/album/6M4pHz2iPRUY9CboP1SQO7) | 2:45 | 2024-09-23 | 2024-10-22 |

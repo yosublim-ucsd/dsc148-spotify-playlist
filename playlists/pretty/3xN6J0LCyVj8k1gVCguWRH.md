@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,797 likes - 162 songs - 9 hr 27 min
+[soundsdeli](https://open.spotify.com/user/soundsdeli) - 131,786 likes - 161 songs - 9 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,16 +142,16 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 132 | [Shame](https://open.spotify.com/track/3pmRXRKEpgdKYuS5YSkVPV) | [Andrea Shelly](https://open.spotify.com/artist/6l5GVz3FWQCdgnR5btOyjv) | [Shame](https://open.spotify.com/album/3q8Hk1EaZMtyTv5nI2rZq0) | 3:07 |
 | 133 | [We Need](https://open.spotify.com/track/6noYxnpmqg5ILjLXy8Ui5N) | [Cloud Ray](https://open.spotify.com/artist/3dL5rP9PjkUR5xniV38mg1) | [We Need](https://open.spotify.com/album/0RlfiuZOHF5lfer91kGveC) | 2:54 |
 | 134 | [Dangerous](https://open.spotify.com/track/5y8GpqdjvF1jd6AmoC3wrX) | [The Ramona Flowers](https://open.spotify.com/artist/2wPSVzL9RmbR3g1MjWRjMe) | [Dangerous](https://open.spotify.com/album/31GuxF5kJTzSAXtyRlIivd) | 3:34 |
-| 135 | [Jackson Hole](https://open.spotify.com/track/0eWPqXxmGf9PgdHKkjMgnm) | [Jud Hailey](https://open.spotify.com/artist/2QAYhplrd9ihaiJO0J3ttn) | [Jackson Hole](https://open.spotify.com/album/3eZkkChub74NaLEeXhjFyI) | 3:53 |
-| 136 | [Light in the Shadow](https://open.spotify.com/track/7MoAnSriBN0f8coBmsEpGa) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Light in the Shadow](https://open.spotify.com/album/1w0FoxxOoljhvfRPW6t0Ih) | 2:53 |
-| 137 | [Tengo miedo de perderme](https://open.spotify.com/track/6Y8RF83lbQFJ3oun3dWN8i) | [Romphonics](https://open.spotify.com/artist/0hIYm2E4RztEm4Xf2WjrOr) | [El Camino \(Deluxe\)](https://open.spotify.com/album/6HvtdhvkxBNGwHDgccIQVJ) | 3:56 |
-| 138 | [Controlled Burn](https://open.spotify.com/track/6VCtl4Si5whXVp11RMRCob) | [Jake Cassman](https://open.spotify.com/artist/3qkyCjhdN5iFq71Fp6ihFW) | [Controlled Burn](https://open.spotify.com/album/2sONCNQLUgJwlJcotlSy52) | 4:10 |
-| 139 | [All You Really Need is Already Here \- Radio Edit](https://open.spotify.com/track/3JeKi2TsCEy0Gi26cRCWbV) | [The Held](https://open.spotify.com/artist/0Fo5CfXuaXbGWo3GqoQ60i) | [All You Really Need is Already Here \(Radio Edit\)](https://open.spotify.com/album/3bcSpOTLTWwUKXtHOc5y6t) | 4:16 |
-| 140 | [Easier Said Than Done](https://open.spotify.com/track/27r1YyGDJytr37dAbyCzja) | [Diamond King](https://open.spotify.com/artist/6RECFEidpjIxVQQ9sI4vgL), [Daisy Villa](https://open.spotify.com/artist/2a0tKghjD083I83QS5QvGI), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [Easier Said Than Done](https://open.spotify.com/album/417cwJ1jBCV7Yzk0qK0kL4) | 4:20 |
-| 141 | [My Country Blonde](https://open.spotify.com/track/0l1jDe1RfFJtI7onZlrYcV) | [HazyHero](https://open.spotify.com/artist/0b1nIWvxtjb7eqO9C17G5P) | [Creations](https://open.spotify.com/album/72q3lm7zWRzbeETFcJSmfp) | 2:58 |
-| 142 | [I Don't Need You \(Someday\)](https://open.spotify.com/track/2QnczKuLaGUuJTF04Zk35l) | [Daph Veil](https://open.spotify.com/artist/309PYvFPBmAKwqJ5zFsUUu) | [I Don't Need You \(Someday\)](https://open.spotify.com/album/0qr35Lvmtg6zG1c8Yxx7aK) | 2:24 |
-| 143 | [Sunshine](https://open.spotify.com/track/6Zdm28ZO91Pvs5Nscdg3Ut) | [Leo Anderson](https://open.spotify.com/artist/67yuIEeLJTS6LziVqM4xGv) | [Sunshine](https://open.spotify.com/album/5zXlGdiMzY4VtlRsfb1I0X) | 2:10 |
-| 144 | [Greenlight](https://open.spotify.com/track/4Xa3grF0NkoR3EX93m8UNM) | [Chris Moon](https://open.spotify.com/artist/1tmw62GAgKdABKvQSwQYfF) | [MOON ALT](https://open.spotify.com/album/2R9hIgLyeDEDvoszQyL7fF) | 2:22 |
+| 135 | [Light in the Shadow](https://open.spotify.com/track/7MoAnSriBN0f8coBmsEpGa) | [BAYWUD](https://open.spotify.com/artist/3dDdngfjnuthfO2OPYRZqz) | [Light in the Shadow](https://open.spotify.com/album/1w0FoxxOoljhvfRPW6t0Ih) | 2:53 |
+| 136 | [Tengo miedo de perderme](https://open.spotify.com/track/6Y8RF83lbQFJ3oun3dWN8i) | [Romphonics](https://open.spotify.com/artist/0hIYm2E4RztEm4Xf2WjrOr) | [El Camino \(Deluxe\)](https://open.spotify.com/album/6HvtdhvkxBNGwHDgccIQVJ) | 3:56 |
+| 137 | [Controlled Burn](https://open.spotify.com/track/6VCtl4Si5whXVp11RMRCob) | [Jake Cassman](https://open.spotify.com/artist/3qkyCjhdN5iFq71Fp6ihFW) | [Controlled Burn](https://open.spotify.com/album/2sONCNQLUgJwlJcotlSy52) | 4:10 |
+| 138 | [All You Really Need is Already Here \- Radio Edit](https://open.spotify.com/track/3JeKi2TsCEy0Gi26cRCWbV) | [The Held](https://open.spotify.com/artist/0Fo5CfXuaXbGWo3GqoQ60i) | [All You Really Need is Already Here \(Radio Edit\)](https://open.spotify.com/album/3bcSpOTLTWwUKXtHOc5y6t) | 4:16 |
+| 139 | [Easier Said Than Done](https://open.spotify.com/track/27r1YyGDJytr37dAbyCzja) | [Diamond King](https://open.spotify.com/artist/6RECFEidpjIxVQQ9sI4vgL), [Daisy Villa](https://open.spotify.com/artist/2a0tKghjD083I83QS5QvGI), [B\. Bravo](https://open.spotify.com/artist/7xc31aDpVtMW34JWjZvAG4) | [Easier Said Than Done](https://open.spotify.com/album/417cwJ1jBCV7Yzk0qK0kL4) | 4:20 |
+| 140 | [My Country Blonde](https://open.spotify.com/track/0l1jDe1RfFJtI7onZlrYcV) | [HazyHero](https://open.spotify.com/artist/0b1nIWvxtjb7eqO9C17G5P) | [Creations](https://open.spotify.com/album/72q3lm7zWRzbeETFcJSmfp) | 2:58 |
+| 141 | [I Don't Need You \(Someday\)](https://open.spotify.com/track/2QnczKuLaGUuJTF04Zk35l) | [Daph Veil](https://open.spotify.com/artist/309PYvFPBmAKwqJ5zFsUUu) | [I Don't Need You \(Someday\)](https://open.spotify.com/album/0qr35Lvmtg6zG1c8Yxx7aK) | 2:24 |
+| 142 | [Sunshine](https://open.spotify.com/track/6Zdm28ZO91Pvs5Nscdg3Ut) | [Leo Anderson](https://open.spotify.com/artist/67yuIEeLJTS6LziVqM4xGv) | [Sunshine](https://open.spotify.com/album/5zXlGdiMzY4VtlRsfb1I0X) | 2:10 |
+| 143 | [Greenlight](https://open.spotify.com/track/4Xa3grF0NkoR3EX93m8UNM) | [Chris Moon](https://open.spotify.com/artist/1tmw62GAgKdABKvQSwQYfF) | [MOON ALT](https://open.spotify.com/album/2R9hIgLyeDEDvoszQyL7fF) | 2:22 |
+| 144 | [REFLEJOS](https://open.spotify.com/track/3TpzvX5xVi5cUGwM5KKZie) | [Diego Fragnaud](https://open.spotify.com/artist/3xmCcjDOVSSJNOHRCMSXET) | [REFLEJOS](https://open.spotify.com/album/5w1okADKcbT79IteXB6nET) | 2:54 |
 | 145 | [Skeptical](https://open.spotify.com/track/2bTxWZMcOAbpfQRD0anbrc) | [The Active Set](https://open.spotify.com/artist/0WucsHpocbdOmgk4LuRCXO) | [Skeptical](https://open.spotify.com/album/5hHkijxg9HICw15ciAAsEv) | 3:26 |
 | 146 | [Feel Something New](https://open.spotify.com/track/6zGYDgj7Do5sQKbPIRdIDE) | [The Remainders](https://open.spotify.com/artist/1GKe0u76hiEZonX5ETJylq) | [Feel Something New \(LP\)](https://open.spotify.com/album/0IdRdQbWW158kjzUBiJNix) | 3:31 |
 | 147 | [Hurt Aagain](https://open.spotify.com/track/5q2OmTIERXXvksnwxTWxbc) | [Naomi Yanos](https://open.spotify.com/artist/6eCReEuVa650ZuotJvKksc) | [Trying to Keep My Toes](https://open.spotify.com/album/1VSAtAAtDpIcYEWSuLBi7t) | 4:18 |
@@ -169,6 +169,5 @@ pretty - [cumulative](/playlists/cumulative/3xN6J0LCyVj8k1gVCguWRH.md) - [plain]
 | 159 | [Diff mofo](https://open.spotify.com/track/7A6NQQBVTRkbbVNHHbDwkb) | [Warvet Da Rappa](https://open.spotify.com/artist/7JsTSKgRkTMczmzjuwVUip) | [Diff mofo](https://open.spotify.com/album/3ceYheAJH3sPhe9XUFrVAB) | 1:51 |
 | 160 | [TAKE IT LOW](https://open.spotify.com/track/4WPQhEAZXoIue92YY4sWKA) | [J hickey](https://open.spotify.com/artist/3kmxZBWMS8Vx2XOUyOWTnH) | [TAKE IT LOW](https://open.spotify.com/album/4D4ul6wAEssR7iW9SvR8mQ) | 1:57 |
 | 161 | [Shordy](https://open.spotify.com/track/1MJyF1eq4oHu1mhF4NzlQR) | [RukeepsitTrue](https://open.spotify.com/artist/6Fq6x9lVB1lYl2QK5Rk7ou) | [Shordy](https://open.spotify.com/album/7sQWo776oc5axyNsPulPfs) | 3:09 |
-| 162 | [Slow Down](https://open.spotify.com/track/4daGwGbV3fEgpoUnpR1xa4) | [Moongold](https://open.spotify.com/artist/2EzUruCY79HOULPCTH27h6) | [Modern Life](https://open.spotify.com/album/47iSFfmdFnspzi2K4nsjmK) | 3:07 |
 
-Snapshot ID: `AAAsfztvPWNguiX8MSx18N32LkThfWnp`
+Snapshot ID: `AAAsgsq4X0iMjwMSkeD9plfILOPWU+Xo`

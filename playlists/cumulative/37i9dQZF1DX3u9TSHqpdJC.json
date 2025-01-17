@@ -25589,6 +25589,28 @@
     },
     {
       "album": {
+        "name": "Headphones",
+        "url": "https://open.spotify.com/album/1xEuwk2klF44B8MLvDfCjA"
+      },
+      "artists": [
+        {
+          "name": "EZ Company",
+          "url": "https://open.spotify.com/artist/4aA3RJBsDKuZ0YX14m6qlk"
+        },
+        {
+          "name": "Musique Chienne",
+          "url": "https://open.spotify.com/artist/2RxSYHCveLOGuSnML1qULr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166036,
+      "name": "Headphones",
+      "url": "https://open.spotify.com/track/5skjJ6HUxErbn3gdnWedDp"
+    },
+    {
+      "album": {
         "name": "Healing Out of Spite",
         "url": "https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX"
       },
@@ -51884,7 +51906,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 197250,
       "name": "Scantily Clad",
       "url": "https://open.spotify.com/track/02I5K3chPxGD4dw38tt7SZ"

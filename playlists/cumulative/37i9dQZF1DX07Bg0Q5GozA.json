@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Polo & Pan, Metronomy",
+  "description": "New music off the beaten track. Cover: Jungle",
   "name": "OFF POP",
   "tracks": [
     {
@@ -1183,6 +1183,24 @@
     },
     {
       "album": {
+        "name": "Armour",
+        "url": "https://open.spotify.com/album/5yhpVegMsw2OTRsErE7NBM"
+      },
+      "artists": [
+        {
+          "name": "M.I.A.",
+          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206306,
+      "name": "Armour",
+      "url": "https://open.spotify.com/track/2GVTjTqTTLmA6N1FqBhTzL"
+    },
+    {
+      "album": {
         "name": "Arms Of Who (Rework)",
         "url": "https://open.spotify.com/album/1j9vo0lvIR7yvLEO2lrdD0"
       },
@@ -2138,7 +2156,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 253773,
       "name": "Breathless",
       "url": "https://open.spotify.com/track/66Mm6AFBCvDikHdo5XCeYu"
@@ -2160,6 +2178,24 @@
       "duration_ms": 200571,
       "name": "Bright Sunny Day",
       "url": "https://open.spotify.com/track/4SNVYQCW5yopk5uUluli3c"
+    },
+    {
+      "album": {
+        "name": "Bring it on",
+        "url": "https://open.spotify.com/album/3ynDo29DxGcsYVcqA0WZ6a"
+      },
+      "artists": [
+        {
+          "name": "NNHMN",
+          "url": "https://open.spotify.com/artist/3PFLYlaguMd2AXu1i3UAKt"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213253,
+      "name": "Bring it on",
+      "url": "https://open.spotify.com/track/4Fc1sylN8YraEYWGURPZIe"
     },
     {
       "album": {
@@ -3386,6 +3422,24 @@
       "duration_ms": 418153,
       "name": "Crystallized",
       "url": "https://open.spotify.com/track/00SBvdEkBaTT83kzhKG1Sx"
+    },
+    {
+      "album": {
+        "name": "Cut Stitch Scar",
+        "url": "https://open.spotify.com/album/0ViGCN6YcGbu3Tj1B3ESn1"
+      },
+      "artists": [
+        {
+          "name": "CocoRosie",
+          "url": "https://open.spotify.com/artist/05fo024EFotg9songSENOZ"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363123,
+      "name": "Cut Stitch Scar",
+      "url": "https://open.spotify.com/track/3NH823qTPhi6iwZBzzX8gV"
     },
     {
       "album": {
@@ -9939,6 +9993,24 @@
     },
     {
       "album": {
+        "name": "Keep Me Satisfied",
+        "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145663,
+      "name": "Keep Me Satisfied",
+      "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
+    },
+    {
+      "album": {
         "name": "Keep on Dancing",
         "url": "https://open.spotify.com/album/74d9kaLOARlWZ5cG5PVxJW"
       },
@@ -12458,7 +12530,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 192845,
       "name": "Mutations - Empress Of Remix",
       "url": "https://open.spotify.com/track/0vsEjfryxWNGtF0IOi0WMR"
@@ -12524,6 +12596,28 @@
       "duration_ms": 215736,
       "name": "My Only Love",
       "url": "https://open.spotify.com/track/2tqZV9H8uOP1bPK6WRrCLO"
+    },
+    {
+      "album": {
+        "name": "Mystery",
+        "url": "https://open.spotify.com/album/4zdhg2gmRL0WCcBN8MYMpd"
+      },
+      "artists": [
+        {
+          "name": "Kapote",
+          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
+        },
+        {
+          "name": "GUINNY",
+          "url": "https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290731,
+      "name": "Mystery",
+      "url": "https://open.spotify.com/track/0rHEEVb39IQ6iUhoj1JU4A"
     },
     {
       "album": {
@@ -13102,7 +13196,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 210480,
       "name": "Nom Nom Nom",
       "url": "https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5"
@@ -13338,6 +13432,28 @@
       "duration_ms": 178604,
       "name": "Ocean",
       "url": "https://open.spotify.com/track/3sQuubMtc3VraP4lEbrJ8j"
+    },
+    {
+      "album": {
+        "name": "Ocean Steppin'",
+        "url": "https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE"
+      },
+      "artists": [
+        {
+          "name": "John Glacier",
+          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
+        },
+        {
+          "name": "Sampha",
+          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170322,
+      "name": "Ocean Steppin'",
+      "url": "https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7"
     },
     {
       "album": {
@@ -13800,7 +13916,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 233211,
       "name": "Otherside",
       "url": "https://open.spotify.com/track/2pj2A25YQK4uMxhZheNx7R"
@@ -15405,6 +15521,24 @@
     },
     {
       "album": {
+        "name": "Secret Things",
+        "url": "https://open.spotify.com/album/7CORUQHjj1pmeP0g5K4PGG"
+      },
+      "artists": [
+        {
+          "name": "UTO",
+          "url": "https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195891,
+      "name": "Secret Things",
+      "url": "https://open.spotify.com/track/4a49WO6vXd8egkfPvulUtO"
+    },
+    {
+      "album": {
         "name": "Seek",
         "url": "https://open.spotify.com/album/7q4EnMTzFchOlJsThi6m6x"
       },
@@ -15784,7 +15918,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 192883,
       "name": "Sickening You Are Divine",
       "url": "https://open.spotify.com/track/1xxpNzDwh2uY2imcb1IwNS"
@@ -18270,7 +18404,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 167441,
       "name": "Too Late Now",
       "url": "https://open.spotify.com/track/4K9eOKTYeSCrh4TdWiWgG5"
@@ -18787,6 +18921,28 @@
     },
     {
       "album": {
+        "name": "Unbelievable",
+        "url": "https://open.spotify.com/album/1zINq33LASwPgNKVnbIxrq"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        },
+        {
+          "name": "Ada",
+          "url": "https://open.spotify.com/artist/1SUz2JjWDXSVyAtWokVinQ"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271253,
+      "name": "Unbelievable",
+      "url": "https://open.spotify.com/track/0S85m8J9rdjI0jwOLiFGOP"
+    },
+    {
+      "album": {
         "name": "Under The Light (Cut Copy Remix)",
         "url": "https://open.spotify.com/album/6ahvgtYtPtSjSRR9bmmLPC"
       },
@@ -18944,7 +19100,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 230198,
       "name": "Until There's Nothing Left",
       "url": "https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV"
@@ -19731,6 +19887,24 @@
     },
     {
       "album": {
+        "name": "What Have You Done For Me Lately",
+        "url": "https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr"
+      },
+      "artists": [
+        {
+          "name": "TATYANA",
+          "url": "https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209644,
+      "name": "What Have You Done For Me Lately",
+      "url": "https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI"
+    },
+    {
+      "album": {
         "name": "What Is",
         "url": "https://open.spotify.com/album/73KSYqiJC3u0UdkslT9lHc"
       },
@@ -19870,7 +20044,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 172859,
       "name": "Where's The Daddy?",
       "url": "https://open.spotify.com/track/6qhCrOuJSKn2yqXuRyPIPL"
@@ -20066,7 +20240,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 227505,
       "name": "Wie sch\u00f6n du bist",
       "url": "https://open.spotify.com/track/2WBEIUc18rkU4PRsKo32lk"

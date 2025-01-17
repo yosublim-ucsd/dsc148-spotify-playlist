@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: Batuflex x SNOW",
+  "description": "T\u00fcrkiye'nin en s\u0131k\u0131 \u00e7alma listesi. Kapak: UZI",
   "name": "NKVT",
   "tracks": [
     {
@@ -94,7 +94,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 197094,
       "name": "12'lik Verse",
       "url": "https://open.spotify.com/track/1yG12cLbis6k7R6CXw8mvY"
@@ -1161,6 +1161,28 @@
     },
     {
       "album": {
+        "name": "BANANE",
+        "url": "https://open.spotify.com/album/1K1t08mwqddK11bBPJPJ9T"
+      },
+      "artists": [
+        {
+          "name": "Ali471",
+          "url": "https://open.spotify.com/artist/2hH16roqnQFy0PdSmgZRSJ"
+        },
+        {
+          "name": "Batuflex",
+          "url": "https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139900,
+      "name": "BANANE",
+      "url": "https://open.spotify.com/track/5zif4ww8uhD3aFhOPwlcw3"
+    },
+    {
+      "album": {
         "name": "Yatay Zeka",
         "url": "https://open.spotify.com/album/3n9eVQFhQrVrtgXlMkPW6Z"
       },
@@ -1938,7 +1960,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 267428,
       "name": "champion",
       "url": "https://open.spotify.com/track/1hkHaf5g3O8II8beeZP3YY"
@@ -2200,6 +2222,28 @@
       "duration_ms": 194501,
       "name": "Darmada\u011f\u0131n",
       "url": "https://open.spotify.com/track/6bQuAwtlnvNEmFgNa82rhs"
+    },
+    {
+      "album": {
+        "name": "DAYANAMAM",
+        "url": "https://open.spotify.com/album/5pQsLYpkwiQ78rpskaXAhf"
+      },
+      "artists": [
+        {
+          "name": "Murda",
+          "url": "https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj"
+        },
+        {
+          "name": "Ezhel",
+          "url": "https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202023,
+      "name": "DAYANAMAM",
+      "url": "https://open.spotify.com/track/3Qv16lQpg3HmCrYouyQfle"
     },
     {
       "album": {
@@ -4859,6 +4903,24 @@
     },
     {
       "album": {
+        "name": "k\u00f6k",
+        "url": "https://open.spotify.com/album/02kJ1Z8EFsFRkirEziIszA"
+      },
+      "artists": [
+        {
+          "name": "\u015ean\u0131\u015fer",
+          "url": "https://open.spotify.com/artist/5LUxu287CsPM7jy3yS3l86"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227837,
+      "name": "Kafileler",
+      "url": "https://open.spotify.com/track/5dYAt2AzxRm3UbEwUk3ZOm"
+    },
+    {
+      "album": {
         "name": "Kalabal\u0131k",
         "url": "https://open.spotify.com/album/5cSMJbTkxy7IRI5MtegPzo"
       },
@@ -5640,7 +5702,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 263442,
       "name": "Koyu Siyah Gibi",
       "url": "https://open.spotify.com/track/52w6aPr1VILj6PKEcdksho"
@@ -6913,6 +6975,24 @@
     },
     {
       "album": {
+        "name": "NEON",
+        "url": "https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8"
+      },
+      "artists": [
+        {
+          "name": "UZI",
+          "url": "https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151290,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA"
+    },
+    {
+      "album": {
         "name": "taycan v1",
         "url": "https://open.spotify.com/album/6vXjdCR5h6lbUeNR6tOXQA"
       },
@@ -7484,6 +7564,32 @@
       "duration_ms": 125714,
       "name": "Para Harams\u0131z",
       "url": "https://open.spotify.com/track/63v8p19RUcTCspQag7vpKN"
+    },
+    {
+      "album": {
+        "name": "PARANOYA",
+        "url": "https://open.spotify.com/album/1jplytmVef58F9YcU0qAPX"
+      },
+      "artists": [
+        {
+          "name": "Organize",
+          "url": "https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3"
+        },
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155744,
+      "name": "PARANOYA",
+      "url": "https://open.spotify.com/track/1BPPJqdXnvktKXOk77sOC9"
     },
     {
       "album": {
@@ -9012,7 +9118,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 318967,
       "name": "spacetusu",
       "url": "https://open.spotify.com/track/04G66YxLhD9xLQJRzHHHpn"
@@ -10480,7 +10586,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 204618,
       "name": "\u00c7ekilmemi\u015f Foto\u011fraflar",
       "url": "https://open.spotify.com/track/6rkTY4YNuOO0ObFVRzZHUN"

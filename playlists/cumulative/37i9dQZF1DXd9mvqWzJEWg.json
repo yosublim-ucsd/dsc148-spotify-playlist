@@ -108,7 +108,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 270967,
       "name": "AKUMA",
       "url": "https://open.spotify.com/track/3JZeVK9vAIPJcNsI763TKN"
@@ -156,7 +156,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 243439,
       "name": "Arab",
       "url": "https://open.spotify.com/track/1DP4FRvvR2f8V1ya9mMGll"
@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 318354,
       "name": "As'khuzeki",
       "url": "https://open.spotify.com/track/6cokDxvxdTeGlWAdrIlsyk"
@@ -238,6 +238,62 @@
       "duration_ms": 377103,
       "name": "Asteroid",
       "url": "https://open.spotify.com/track/0yfxkxCDYRvYgeVnONPnoU"
+    },
+    {
+      "album": {
+        "name": "Aw Kodwa Loyiso (Gqom Remake)",
+        "url": "https://open.spotify.com/album/6qh7YeysvguA2qwSmYA4NR"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        },
+        {
+          "name": "Pro-Tee",
+          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264437,
+      "name": "Aw Kodwa Loyiso - Gqom Remake",
+      "url": "https://open.spotify.com/track/0cBHaWeqSlGAKcqOMfubM5"
+    },
+    {
+      "album": {
+        "name": "Aw Kodwa Loyiso (Gqom Remix)",
+        "url": "https://open.spotify.com/album/43PNcQZUnfSmKyad1SgFaT"
+      },
+      "artists": [
+        {
+          "name": "Deejay Zebra SA",
+          "url": "https://open.spotify.com/artist/0DN2ALL09rLmHQtX26BntG"
+        },
+        {
+          "name": "Niseni",
+          "url": "https://open.spotify.com/artist/4Jeq4ZaG5hFygSgqyxSN1J"
+        },
+        {
+          "name": "Pro-Tee",
+          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
+        },
+        {
+          "name": "Babes Wodumo",
+          "url": "https://open.spotify.com/artist/3jfVtv9mWfW0c5b3Fx440e"
+        },
+        {
+          "name": "Gallo",
+          "url": "https://open.spotify.com/artist/1zUaJeccYKnLv0R4O0YGK9"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264437,
+      "name": "Aw Kodwa Loyiso - Gqom Remix",
+      "url": "https://open.spotify.com/track/08i589irYQI90vWfi0OH1S"
     },
     {
       "album": {
@@ -290,7 +346,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 215000,
       "name": "Bamba",
       "url": "https://open.spotify.com/track/4Gqw1AtszgpBTyXwNwVbmv"
@@ -394,6 +450,24 @@
       "duration_ms": 313966,
       "name": "Bashile",
       "url": "https://open.spotify.com/track/3BmxRkVarNV3vWpQN0ouix"
+    },
+    {
+      "album": {
+        "name": "Delela",
+        "url": "https://open.spotify.com/album/1br08Q0Lt8J4bLOVxoJui1"
+      },
+      "artists": [
+        {
+          "name": "Djknator",
+          "url": "https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286902,
+      "name": "Basini",
+      "url": "https://open.spotify.com/track/02w3u4M9HbSg7zxRONWZE5"
     },
     {
       "album": {
@@ -737,6 +811,28 @@
     },
     {
       "album": {
+        "name": "Cinema",
+        "url": "https://open.spotify.com/album/4z8bCXL4DVF8h0LeOxr1dC"
+      },
+      "artists": [
+        {
+          "name": "Wa Wah Pman",
+          "url": "https://open.spotify.com/artist/12lUCqYECR6IApTly41xYb"
+        },
+        {
+          "name": "Maxwell Music1",
+          "url": "https://open.spotify.com/artist/5ovMldtIxELLTX61AyHiWp"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 331000,
+      "name": "Cinema",
+      "url": "https://open.spotify.com/track/5VP85Vg46J1p3ZBUhxFLHJ"
+    },
+    {
+      "album": {
         "name": "Close",
         "url": "https://open.spotify.com/album/6CedXTNlfk3D0oHZsLGwyv"
       },
@@ -752,7 +848,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 409050,
       "name": "Close",
       "url": "https://open.spotify.com/track/1P8TJ1kgih7kEvJwPPp5yb"
@@ -1022,7 +1118,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 314932,
       "name": "Durban Gqom",
       "url": "https://open.spotify.com/track/0o6nJ5i3nFtqEnRGx5kHDk"
@@ -1614,7 +1710,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 346648,
       "name": "Hlabelela",
       "url": "https://open.spotify.com/track/1H4NvEEDSIic0ITKhNVaBX"
@@ -1648,6 +1744,28 @@
       "duration_ms": 308767,
       "name": "Hlala La",
       "url": "https://open.spotify.com/track/73m5kVff6HqJqDhIOYqcrh"
+    },
+    {
+      "album": {
+        "name": "Gqom Made Me Do It II",
+        "url": "https://open.spotify.com/album/5qZPY5jfr63wVd3UQWXca9"
+      },
+      "artists": [
+        {
+          "name": "Glisten",
+          "url": "https://open.spotify.com/artist/5GLIwkxBHSyAiNuASLISZW"
+        },
+        {
+          "name": "Gagashe",
+          "url": "https://open.spotify.com/artist/4fIJTYHeSKbxB7Ksd73uXm"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311405,
+      "name": "Hlala Nami",
+      "url": "https://open.spotify.com/track/1F4hgtPnl1Z52pJ1RsBBI1"
     },
     {
       "album": {
@@ -1768,6 +1886,28 @@
       "duration_ms": 266889,
       "name": "iGqom Never Dies",
       "url": "https://open.spotify.com/track/3dqIAaTgbkBCN13B2ZabHR"
+    },
+    {
+      "album": {
+        "name": "Ikabishi",
+        "url": "https://open.spotify.com/album/5gpn8RoJP6iT2iPVQxPLSQ"
+      },
+      "artists": [
+        {
+          "name": "Abangani Bethu",
+          "url": "https://open.spotify.com/artist/4K8D2RZjEKU0ZXrqrtEwXT"
+        },
+        {
+          "name": "Warker",
+          "url": "https://open.spotify.com/artist/6oQR2s5jp9TuQWAJSOZc09"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267467,
+      "name": "Ikabishi",
+      "url": "https://open.spotify.com/track/139gWIsEsWqVoGii4uighS"
     },
     {
       "album": {
@@ -2030,7 +2170,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 352705,
       "name": "iPhara",
       "url": "https://open.spotify.com/track/1jsf6i1kvednkF1fLFO163"
@@ -2134,6 +2274,24 @@
       "duration_ms": 336377,
       "name": "Isgubhu Sa December",
       "url": "https://open.spotify.com/track/0LATDL16wmIykUEYTlUiLg"
+    },
+    {
+      "album": {
+        "name": "19k Appreciation",
+        "url": "https://open.spotify.com/album/1uFWn0g33Eat54LKqHTRXT"
+      },
+      "artists": [
+        {
+          "name": "General C'mamane",
+          "url": "https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316734,
+      "name": "Ishuu",
+      "url": "https://open.spotify.com/track/6nQaptKzSqN0TqaUjy2ymZ"
     },
     {
       "album": {
@@ -2296,7 +2454,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 414037,
       "name": "Iyebobo (feat. CowBoii & ShennyDaDeejay)",
       "url": "https://open.spotify.com/track/4BOvXbHa6Q6hYuwkWRJeYO"
@@ -2366,7 +2524,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 337560,
       "name": "Izinyoni (feat. Volka) - Remix",
       "url": "https://open.spotify.com/track/52jzhJz6T5807upSLFbUCr"
@@ -2422,6 +2580,24 @@
       "duration_ms": 240509,
       "name": "Khula",
       "url": "https://open.spotify.com/track/21yMnKufBg1L51PGGVryTj"
+    },
+    {
+      "album": {
+        "name": "KING OF GQOM",
+        "url": "https://open.spotify.com/album/5SQ2lOYiv05f1nubI9T8VT"
+      },
+      "artists": [
+        {
+          "name": "DjTroyEL",
+          "url": "https://open.spotify.com/artist/2C3FdmLePq3xAlnfy4k9bC"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 360254,
+      "name": "KING OF GQOM",
+      "url": "https://open.spotify.com/track/1qARDVHF7LxMB9w8QreujK"
     },
     {
       "album": {
@@ -2524,7 +2700,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 435504,
       "name": "Kwandonga Ziyaduma",
       "url": "https://open.spotify.com/track/4PkzeTYPMBXdjhEW6RsbPt"
@@ -2554,7 +2730,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 293335,
       "name": "Kwenzakalan",
       "url": "https://open.spotify.com/track/6Nupcrtf9XFpQ2nwHCY0fI"
@@ -3038,7 +3214,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 322861,
       "name": "New Era",
       "url": "https://open.spotify.com/track/3HZlZiylezIEvo83zvACGW"
@@ -3134,6 +3310,24 @@
       "duration_ms": 281782,
       "name": "Ngicela Ungivulele",
       "url": "https://open.spotify.com/track/6KZcIH2LM1jVYvPK5vpCnq"
+    },
+    {
+      "album": {
+        "name": "Ngisakuthanda (Gqom Remake)",
+        "url": "https://open.spotify.com/album/3KQUb9MpbnLxUHwqyaEL5k"
+      },
+      "artists": [
+        {
+          "name": "Pro-Tee",
+          "url": "https://open.spotify.com/artist/73BxSTlHA75wmlJ4yPxaBc"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305084,
+      "name": "Ngisakuthanda - Gqom Remake",
+      "url": "https://open.spotify.com/track/7IcINO4FAyxtdHEXC8CeHZ"
     },
     {
       "album": {
@@ -3284,7 +3478,7 @@
       ],
       "date_added": "2024-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 323951,
       "name": "Oh My Sax",
       "url": "https://open.spotify.com/track/24rJTidr3soAlSzPSwNlMU"
@@ -3390,7 +3584,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 345614,
       "name": "Phansi KwaChronic",
       "url": "https://open.spotify.com/track/1sYtL7bJ4jnzMea8uzyP3L"
@@ -3538,6 +3732,28 @@
       "duration_ms": 355973,
       "name": "Qoqoqo",
       "url": "https://open.spotify.com/track/6kqXUsD1vVKuWo3BhfVUYz"
+    },
+    {
+      "album": {
+        "name": "R100 000 YA TSEKELEKE",
+        "url": "https://open.spotify.com/album/3yNKNg95gn6Uv7qLoFEfcD"
+      },
+      "artists": [
+        {
+          "name": "Hume Da Muzika",
+          "url": "https://open.spotify.com/artist/5sMk0h3nPvjOmjqG4BunmY"
+        },
+        {
+          "name": "Ma Andi",
+          "url": "https://open.spotify.com/artist/14jeVl1p0FjlOJQQCzmJ8r"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 344267,
+      "name": "R100 000 YA TSEKELEKE",
+      "url": "https://open.spotify.com/track/5504T1YwWIQOxGPOL9Ctrh"
     },
     {
       "album": {
@@ -3862,7 +4078,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 352888,
       "name": "Seven Up",
       "url": "https://open.spotify.com/track/5i3ReJpjTCjGyZuxzczMuc"
@@ -4220,7 +4436,7 @@
       ],
       "date_added": "2023-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 322273,
       "name": "Super Thing",
       "url": "https://open.spotify.com/track/58HD0SgOiyPBvPq6Ql6cEk"
@@ -4282,6 +4498,32 @@
       "duration_ms": 254210,
       "name": "Susa",
       "url": "https://open.spotify.com/track/1zLkx0V1cSpQWM9AvEbfGh"
+    },
+    {
+      "album": {
+        "name": "Suv",
+        "url": "https://open.spotify.com/album/05WYT6BmyVeP8HX6AjcHmM"
+      },
+      "artists": [
+        {
+          "name": "Moh&DaLee",
+          "url": "https://open.spotify.com/artist/2wMNOwJt5yXa4CnQyIjjtu"
+        },
+        {
+          "name": "TrevorMusiq",
+          "url": "https://open.spotify.com/artist/2osGJXi4On7vfYhEwjXdYy"
+        },
+        {
+          "name": "Vanger Boyz",
+          "url": "https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307554,
+      "name": "Suv",
+      "url": "https://open.spotify.com/track/7k9AAg8liybDmf0JPASfKh"
     },
     {
       "album": {
@@ -4450,7 +4692,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 364724,
       "name": "Thunderstorm",
       "url": "https://open.spotify.com/track/14i6vgvjg5ZnRMKZ26R2uF"
@@ -4574,7 +4816,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 308114,
       "name": "Umentshisi",
       "url": "https://open.spotify.com/track/5hl9sZNvX34S3now28kvVR"
@@ -5018,7 +5260,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 325459,
       "name": "Wayethe Soze Andigowise",
       "url": "https://open.spotify.com/track/2LZKe030Kd7AVFn4PTcqZL"
@@ -5338,7 +5580,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 356650,
       "name": "Yebo - Remix",
       "url": "https://open.spotify.com/track/0kEDzhXTdc88ELA0zEP8yl"

@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,873 songs - 1 day 14 hr 19 min
+1,874 songs - 1 day 14 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1237,6 +1237,7 @@
 | [Peak Calm](https://open.spotify.com/track/23w76N1lxIasS5HoNs9Tzp) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Atmospheric Strings](https://open.spotify.com/album/5QVVcAmb2omYcc4V93rtjY) | 1:03 | 2022-03-11 |  |
 | [Peak Serenity \- Cello Version](https://open.spotify.com/track/1bvavVCg3r7qDNKyU1iDJJ) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Peak Serenity](https://open.spotify.com/album/1tRYY5976pQdUF0dYr0ap0) | 1:03 | 2024-02-09 | 2024-02-13 |
 | [Peak Serenity \- Strings Version](https://open.spotify.com/track/3pNOTxSlPHBUVaoWwGsBXK) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Peak Serenity](https://open.spotify.com/album/1tRYY5976pQdUF0dYr0ap0) | 1:02 | 2024-02-09 | 2024-02-13 |
+| [Pearls \- Ambient Piano Version](https://open.spotify.com/track/44Lp0OqBRpayw894mNYdo0) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Pearls \(Ambient Piano Version\)](https://open.spotify.com/album/1prQ2ykX7ASceJnfESirxi) | 1:00 | 2025-01-16 |  |
 | [Perfect Arr\. For Cello And Violin](https://open.spotify.com/track/7cTvpnbZXOl9nkjY8TBXv5) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Vista With Strings](https://open.spotify.com/album/1z1RTwjsaXZTvQvgPJ2QEz) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Perfect Love](https://open.spotify.com/track/2UXaLIPQKYUBsQhJ8nUoG9) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Perfect Love](https://open.spotify.com/album/4lcXnHQmHbEtpIvgtwHe5J) | 1:00 | 2022-05-19 | 2024-01-30 |
 | [Perfect Love \- Grand Piano Version](https://open.spotify.com/track/3ROeBFvphwZmgTfo2GfZcJ) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Perfect Love \(Grand Piano Version\)](https://open.spotify.com/album/09f4zHWxWU5g8Qv4DJFGV1) | 1:00 | 2022-08-21 |  |

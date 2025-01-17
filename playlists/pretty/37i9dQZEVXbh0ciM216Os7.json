@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAD6SIyaMOOjxzh5Q2u2EbUJ",
+  "snapshot_id": "AAAAAAAAAABaCLoJrS5xqLNjDZZlzO3b",
   "tracks": [
     {
       "added_at": "2025-01-10 05:00:00",
@@ -199,28 +199,8 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "All Business",
-        "url": "https://open.spotify.com/album/6J89HPRzMqeZds3P5JVTN2"
-      },
-      "artists": [
-        {
-          "name": "Sippinjuiceluke",
-          "url": "https://open.spotify.com/artist/6SkeNFcqKit98fEd0RPwrw"
-        },
-        {
-          "name": "Snoop Dogg",
-          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
-        }
-      ],
-      "duration_ms": 169090,
-      "name": "All Business",
-      "url": "https://open.spotify.com/track/1oFu0bg5nI7jvKFyQRMHUz"
-    },
-    {
-      "added_at": "2025-01-10 05:00:00",
-      "album": {
         "name": "laugh n cry",
-        "url": "https://open.spotify.com/album/00PZqXuSXq9wYvxHE1n0ei"
+        "url": "https://open.spotify.com/album/6h4qsbfsrgt9EqKU7a8IzJ"
       },
       "artists": [
         {
@@ -238,7 +218,27 @@
       ],
       "duration_ms": 185666,
       "name": "laughter",
-      "url": "https://open.spotify.com/track/3Uep32YfCmMSO1evH5coqX"
+      "url": "https://open.spotify.com/track/0g77ZCFjyV1cWkWN3MVVYd"
+    },
+    {
+      "added_at": "2025-01-10 05:00:00",
+      "album": {
+        "name": "All Business",
+        "url": "https://open.spotify.com/album/6J89HPRzMqeZds3P5JVTN2"
+      },
+      "artists": [
+        {
+          "name": "Sippinjuiceluke",
+          "url": "https://open.spotify.com/artist/6SkeNFcqKit98fEd0RPwrw"
+        },
+        {
+          "name": "Snoop Dogg",
+          "url": "https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "All Business",
+      "url": "https://open.spotify.com/track/1oFu0bg5nI7jvKFyQRMHUz"
     },
     {
       "added_at": "2025-01-10 05:00:00",
@@ -391,34 +391,42 @@
     {
       "added_at": "2025-01-10 05:00:00",
       "album": {
-        "name": "Mufasa: The Lion King (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6J3qzhviHgjLxhL8Bk5CRy"
+        "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+        "url": "https://open.spotify.com/album/4VCtYF2JYey5SeGpXkgGkR"
       },
       "artists": [
         {
-          "name": "Braelyn Rankins",
-          "url": "https://open.spotify.com/artist/2h1TSyanQJRkBLsEVsR3qm"
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
         },
         {
-          "name": "Theo Somolu",
-          "url": "https://open.spotify.com/artist/7JPa7TdQFmo5BGLEkLV6Zq"
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
         },
         {
-          "name": "Aaron Pierre",
-          "url": "https://open.spotify.com/artist/012IYp3Wm00izN8OagA1qY"
+          "name": "MC Tuto",
+          "url": "https://open.spotify.com/artist/6aoGgTKGqtsjj48ymcNs4Z"
         },
         {
-          "name": "Kelvin Harrison Jr.",
-          "url": "https://open.spotify.com/artist/3Na7zsSOhsFVx9LXrvNNbK"
+          "name": "Dj Lc da Ro\u00e7a",
+          "url": "https://open.spotify.com/artist/1BNbDHa9FSPxIyZmcymSyL"
         },
         {
-          "name": "Disney",
-          "url": "https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO"
+          "name": "MC K9",
+          "url": "https://open.spotify.com/artist/6Vxu4TDCN5TMlRpdu6a2Ag"
+        },
+        {
+          "name": "Mc Rodrigo do CN",
+          "url": "https://open.spotify.com/artist/54bV1pHNm5h5EcEgMis1RC"
+        },
+        {
+          "name": "mc pl alves",
+          "url": "https://open.spotify.com/artist/47wsfaEWJwhWd9bs04Oc1g"
         }
       ],
-      "duration_ms": 214506,
-      "name": "I Always Wanted A Brother",
-      "url": "https://open.spotify.com/track/3oNTJ5qiAQx8xfIbYWWB7W"
+      "duration_ms": 166861,
+      "name": "Oh Garota Eu Quero Voc\u00ea S\u00f3 Pra Mim",
+      "url": "https://open.spotify.com/track/0BUkQGUXgcvf3gdCWYbtnJ"
     },
     {
       "added_at": "2025-01-10 05:00:00",

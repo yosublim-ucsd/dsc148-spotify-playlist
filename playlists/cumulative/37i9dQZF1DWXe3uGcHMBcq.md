@@ -4,7 +4,7 @@
 
 > Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.
 
-177 songs - 8 hr 28 min
+178 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,6 +124,7 @@
 | [Ruby Rock](https://open.spotify.com/track/2v2SDvUAahr8fOCFq0Ko3U) | [Ruby Rose Turner](https://open.spotify.com/artist/6F8yrN99JnFHqSF9CZcj2V) | [Ruby Rock](https://open.spotify.com/album/0O7DsXpVkU1QN2dlBx8A92) | 2:32 | 2024-05-22 |  |
 | [Set it Off](https://open.spotify.com/track/7I80zTBTDNnbOiJQ0JLjZr) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE), [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ), [Cameron Boyce](https://open.spotify.com/artist/4uBD3fsHzb3IpOTGpicsbH), [Booboo Stewart](https://open.spotify.com/artist/4A6cd63FWHbCLqk9mtGUZZ), [Mitchell Hope](https://open.spotify.com/artist/2uTXJwJ1Q9PA2ji51RWeQm), [Sarah Jeffrey](https://open.spotify.com/artist/7pmekO18BaEQ7xy8RlZeAT), [Jeff Lewis](https://open.spotify.com/artist/4JDI31jWR7BBBBzw9kmu7Z), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Descendants \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/6notdj85QIGeqR1zKqT3Oh) | 2:54 | 2024-05-22 |  |
 | [She's So Gone](https://open.spotify.com/track/4DTrKnvkHtwQN6kBu4XXIF) | [Naomi Scott](https://open.spotify.com/artist/2Zi3RrdQqk63Xj0914STkS) | [Lemonade Mouth](https://open.spotify.com/album/6Vsml6sziVKBHxbMEp5wgQ) | 3:06 | 2024-05-22 |  |
+| [Show Them the Light \- From "Kiff: Lore of the Ring Light"](https://open.spotify.com/track/5lJHEgN7GMQrlNUVjaBwJg) | [Kiff \- Cast](https://open.spotify.com/artist/0uIH4tpwsBsgQKWtQMYuI1) | [Show Them the Light \(From "Kiff: Lore of the Ring Light"\)](https://open.spotify.com/album/5gooe8RHdo1fcClyBzLgnc) | 2:38 | 2025-01-16 |  |
 | [Shrimpy in the House \- From "ZOMBIES: Addison's Monster Mystery"](https://open.spotify.com/track/6OLWoRF3H3DHBNC678u8Cc) | [ZOMBIES – Cast](https://open.spotify.com/artist/2L7RaHwfVU6ge64IJF8GO5), [Disney](https://open.spotify.com/artist/3xvaSlT4xsyk6lY1ESOspO) | [Shrimpy in the House \(From "ZOMBIES: Addison's Monster Mystery"\)](https://open.spotify.com/album/6xxc5HicmkmXUfQQMcybhQ) | 2:25 | 2024-05-22 |  |
 | [Silver Screen](https://open.spotify.com/track/626gMZNa7wD7cuFqothrtR) | [Ross Lynch](https://open.spotify.com/artist/4UxLFBvSr4xMDpHe1lrLrH), [Maia Mitchell](https://open.spotify.com/artist/3730ZT92AjnEzC83q5RzDC) | [Teen Beach 2 \(Original TV Movie Soundtrack\)](https://open.spotify.com/album/1g0o05ehdpvoEYfhMXvW9P) | 2:58 | 2024-05-22 |  |
 | [So Far So Great \- Theme Song to Sonny with a Chance](https://open.spotify.com/track/6bggFlWw1UcfiYepg8B3KH) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Here We Go Again](https://open.spotify.com/album/01yg4gm9pFOJbwQKj46ZYK) | 2:14 | 2024-05-22 |  |

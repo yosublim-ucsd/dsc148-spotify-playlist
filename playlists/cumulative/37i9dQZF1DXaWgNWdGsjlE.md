@@ -4,7 +4,7 @@
 
 > aggressive\. heavy\. unhinged\. make a mess of it.
 
-233 songs - 12 hr 45 min
+234 songs - 12 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,7 +85,7 @@
 | [Falling](https://open.spotify.com/track/76wQ671soYkMWo9dOWcH2e) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Beyond the Senses](https://open.spotify.com/album/1vR6M9v7mA6vwm47LgBbWP) | 3:29 | 2022-11-08 | 2022-11-13 |
 | [Falling](https://open.spotify.com/track/1660w15xd64WxBUirN9e4E) | [Rezz](https://open.spotify.com/artist/4aKdmOXdUKX07HVd3sGgzw), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Beyond the Senses](https://open.spotify.com/album/3pYfGgnd7jxga8VzEMOniD) | 3:29 | 2022-11-08 | 2023-09-15 |
 | [Fed Up](https://open.spotify.com/track/0BV0AYGLVlu2SdjN3J9twp) | [Ghostemane](https://open.spotify.com/artist/3uL4UpqShC4p2x1dJutoRW) | [ANTI\-ICON](https://open.spotify.com/album/3gEv1vpsDgaEo4TLuu0Lwz) | 2:31 | 2022-04-08 |  |
-| [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 | 2022-07-01 |  |
+| [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/track/2IxZuWNPfPkD2Pr31cGgDH) | [OmenXIII](https://open.spotify.com/artist/760kxYHN5QTrD1DehiimjB), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [FIST FIGHT \(feat\. Travis Barker\)](https://open.spotify.com/album/24OEI2mUMsUvo7yZFvFeKa) | 1:41 | 2022-07-01 | 2025-01-17 |
 | [Front 2 Back](https://open.spotify.com/track/4771YziYc1QurJ8HfR9VU9) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [World of Slime](https://open.spotify.com/album/75mclRI9Xiee8E4faIar0r) | 4:17 | 2022-07-01 | 2022-09-24 |
 | [Front 2 Back](https://open.spotify.com/track/1UJawTtigLuhYRqLglCYx2) | [SNAILS](https://open.spotify.com/artist/2yT7X3Gg2S51DHz67FAYL6), [Kill The Noise](https://open.spotify.com/artist/3qnMl4DHT4gndzFAcG4FlM), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Front 2 Back](https://open.spotify.com/album/5PoLN3yHHwFPiNU3hhGYNR) | 4:17 | 2022-04-08 | 2022-09-18 |
 | [Fuck You](https://open.spotify.com/track/3Yc9SNoO8A1u3d5CMUUYWJ) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Fuck You](https://open.spotify.com/album/4wYOdi0GyF2Dxt4MTzOssW) | 3:03 | 2022-04-08 |  |
@@ -192,6 +192,7 @@
 | [Puppet](https://open.spotify.com/track/4SDiJRZhvqYTrCQq9Xf1CH) | [Dorian Electra](https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u) | [Puppet](https://open.spotify.com/album/6tmMEsLjo4lCoB4PUGf1rl) | 2:24 | 2023-09-22 |  |
 | [Puppets](https://open.spotify.com/track/6PEdlZSuOzr1wEPbfwJPf8) | [Mike's Dead](https://open.spotify.com/artist/6uLNznYVguXrwbIPj9qUb1) | [Puppets](https://open.spotify.com/album/4EWOSGvnDl77YmTFLGOtUE) | 2:51 | 2023-05-19 |  |
 | [Pure Mode](https://open.spotify.com/track/3oT787Jq5n4i5HQ7tLsjb7) | [Model/Actriz](https://open.spotify.com/artist/7gdb1IQFHFQqCc5KoLTYNC) | [Dogsbody](https://open.spotify.com/album/1DWLFwBZxTSBWw7G9uhpok) | 3:07 | 2023-03-13 |  |
+| [PURGATORY](https://open.spotify.com/track/1k1MkifrtpF8UrPQfqXWQa) | [MADI](https://open.spotify.com/artist/5KtyvSnzn6NcqukCOsjfe0) | [LIFE ON HARD MODE \(Speed Run!\)](https://open.spotify.com/album/35fvH9uKlPeS2oCBAZAQq2) | 2:03 | 2025-01-16 |  |
 | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/track/6DWdGTNqa7jeGcAP1yJ8hO) | [Jeris Johnson](https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq), [ZillaKami](https://open.spotify.com/artist/4G1zP5i0r57g1c1CxrPhfM) | [RAINING BLOOD \(feat\. ZillaKami\)](https://open.spotify.com/album/28BNfedhV05VUB2tVC79tt) | 3:10 | 2022-05-06 |  |
 | [Reset](https://open.spotify.com/track/4vnCxv2cGTYye90giGIddD) | [Zero 9:36](https://open.spotify.com/artist/1V599H9vfq6hWe2hGzyzI0) | [You Will Not Be Saved](https://open.spotify.com/album/5Fv7nPEq5xHavK28lt8K5F) | 3:21 | 2022-04-08 | 2023-03-14 |
 | [Save Yourself](https://open.spotify.com/track/561spezvXFVnAOYoSv4Bxy) | [Stabbing Westward](https://open.spotify.com/artist/5daXMUbrPh8oX9Nd4CnToG) | [The Essential Stabbing Westward](https://open.spotify.com/album/1K9DEVSr5iG2W72escDZV7) | 4:13 | 2022-04-08 | 2023-05-20 |

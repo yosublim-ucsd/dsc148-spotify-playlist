@@ -1,6 +1,6 @@
 {
   "description": "The decade when country and rockabilly came together. Cover: Johnny Cash",
-  "num_followers": 291809,
+  "num_followers": 291812,
   "original_name": "50s Country",
   "owner": {
     "name": "Spotify",
@@ -1175,18 +1175,18 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "Red Hot / Pearly Lee",
-        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/55O1JjrXNbKrJVw3AJ8FWJ"
       },
       "artists": [
         {
-          "name": "Billy Lee Riley",
-          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+          "name": "Lefty Frizzell",
+          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
         }
       ],
-      "duration_ms": 149705,
-      "name": "Red Hot",
-      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
+      "duration_ms": 184040,
+      "name": "Always Late (With Your Kisses)",
+      "url": "https://open.spotify.com/track/3XQ2ZGDLsNVzypE5UMFsIF"
     },
     {
       "added_at": "2024-07-05 22:38:35",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-05 22:38:35",
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/55O1JjrXNbKrJVw3AJ8FWJ"
-      },
-      "artists": [
-        {
-          "name": "Lefty Frizzell",
-          "url": "https://open.spotify.com/artist/05pAwLhsutiuj6gerEwGvU"
-        }
-      ],
-      "duration_ms": 184040,
-      "name": "Always Late (With Your Kisses)",
-      "url": "https://open.spotify.com/track/3XQ2ZGDLsNVzypE5UMFsIF"
-    },
-    {
-      "added_at": "2024-07-05 22:38:35",
-      "album": {
         "name": "The Essential Eddy Arnold",
         "url": "https://open.spotify.com/album/1wNnWmnbzgp2KLoNGCAA15"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 176600,
       "name": "How's the World Treating You",
       "url": "https://open.spotify.com/track/7oW8AM8E8DeZknzCSCb3lu"
+    },
+    {
+      "added_at": "2024-07-05 22:38:35",
+      "album": {
+        "name": "Red Hot / Pearly Lee",
+        "url": "https://open.spotify.com/album/29B0yXlUcYh8Mx0EZGFzrC"
+      },
+      "artists": [
+        {
+          "name": "Billy Lee Riley",
+          "url": "https://open.spotify.com/artist/0a85EJEd3a9RGM9ops09rZ"
+        }
+      ],
+      "duration_ms": 149705,
+      "name": "Red Hot",
+      "url": "https://open.spotify.com/track/4ry02LU6cR10FIElCb3KLy"
     }
   ],
   "unique_name": "50s Country",

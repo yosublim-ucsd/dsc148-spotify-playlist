@@ -4,7 +4,7 @@
 
 > Listen to the best in AfroTech that was born in Southern Africa, as it travels the world's dancefloors.
 
-183 songs - 19 hr 12 min
+184 songs - 19 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Aftermath](https://open.spotify.com/track/1wIOUQMVHiAfaUJ7CM3Ezl) | [Umgido](https://open.spotify.com/artist/3Wf4yyq68bvmeajhLXETrt) | [The Hideout](https://open.spotify.com/album/4CMCuEOBHD7luLg1QE6VtN) | 6:14 | 2022-10-03 | 2024-04-26 |
 | [Ainda Falta O Domingo](https://open.spotify.com/track/4gPPkQi1EsPasJK39JQ8rB) | [Ritmicki Hram](https://open.spotify.com/artist/19aIuLyRNkFQpay1uOeZTE), [Sky White](https://open.spotify.com/artist/4m7HkFAznOJoQUGeeAN92a), [Double Drop](https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr) | [Ainda Falta O Domingo](https://open.spotify.com/album/4XdxlzJTXZhE9zX2kJlxKE) | 6:53 | 2023-03-16 | 2023-04-21 |
 | [Ake Yoruba](https://open.spotify.com/track/0e17XmkAt58VP0VbBxITxp) | [Cee ElAssaad](https://open.spotify.com/artist/1bzZEjHZUxOb0WvFsRfeKH), [KEENE](https://open.spotify.com/artist/12zKDFluLKwTcXqOxcj9hS) | [Butundaile](https://open.spotify.com/album/3ieGd2WykDXeWDHyaU0Dzi) | 6:49 | 2022-08-11 | 2022-12-03 |
+| [Alia Mor](https://open.spotify.com/track/21wTDZcEPuKVeKgLgvq7NL) | [Spenser M](https://open.spotify.com/artist/1zCl55PZf31sTOpRPrOYdD), [MR\. KENOU](https://open.spotify.com/artist/6x5nMLbH6bzJIyfFzCcmvs) | [Alia Mor](https://open.spotify.com/album/1bxAY2mx3gjIx3Th72wVUV) | 5:24 | 2025-01-16 |  |
 | [Amathole](https://open.spotify.com/track/6wZ6TRdwuvLhKQF5gEyHwx) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X) | [Amathole](https://open.spotify.com/album/723AK0TOT5jy1foQuDpuPx) | 8:07 | 2022-08-11 | 2022-11-11 |
 | [Amathole \- Kususa Remix](https://open.spotify.com/track/6MLfw7T5Kj9kdRMugBziN3) | [Joezi](https://open.spotify.com/artist/2mC93i8OOfK2jpFERbVv8B), [Lizwi](https://open.spotify.com/artist/70PnxFjOBPqfF4CZSt3A3X), [Kususa](https://open.spotify.com/artist/4UcrwfAI09CLZ7aBXMiucJ) | [Amathole Remixes](https://open.spotify.com/album/3xcsfyO57MwFN5BydJ6Vgl) | 7:28 | 2025-01-13 |  |
 | [AMAZWI](https://open.spotify.com/track/2q92nuY3WtRGtlvxAaPNz0) | [Skye Wanda](https://open.spotify.com/artist/7BwrJs4E8L2r4FiavhNFa1) | [AMAZWI](https://open.spotify.com/album/1KygMxVjnXbnuqqKlDx3f4) | 4:28 | 2022-10-31 | 2024-01-26 |

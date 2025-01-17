@@ -312,7 +312,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 190034,
       "name": "Bamba\u015fka",
       "url": "https://open.spotify.com/track/4b7hJonY5O5DL4w8w1n8m9"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 179806,
       "name": "Bir Kahraman Aran\u0131yor - Radio Edit",
       "url": "https://open.spotify.com/track/7e0Ax89NAHxAp4NsjgsF3k"
@@ -1120,7 +1120,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 157761,
       "name": "Foto\u011fraf",
       "url": "https://open.spotify.com/track/6V2ynLD5GO4zxMr7CYhUeA"
@@ -2007,6 +2007,28 @@
     },
     {
       "album": {
+        "name": "Karar Verdim (Dedub Sessions)",
+        "url": "https://open.spotify.com/album/6uELPtrbPB8Hsej40adL8i"
+      },
+      "artists": [
+        {
+          "name": "Dedubl\u00fcman",
+          "url": "https://open.spotify.com/artist/5PRW6j58xEEWL4DDVEITKT"
+        },
+        {
+          "name": "G\u00f6ksel",
+          "url": "https://open.spotify.com/artist/4i4ALRtQQmFxn3BCIB6iC0"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242230,
+      "name": "Karar Verdim - Dedub Sessions",
+      "url": "https://open.spotify.com/track/1IcOBlUkG1UtRbY1ztEST4"
+    },
+    {
+      "album": {
         "name": "Kaybettim Yirmilerimde",
         "url": "https://open.spotify.com/album/51QMEOoRKIKVVptlOtjhZc"
       },
@@ -2397,6 +2419,24 @@
     },
     {
       "album": {
+        "name": "Herm\u00e8s",
+        "url": "https://open.spotify.com/album/3vEyocjiqnhtclO3cwYo4m"
+      },
+      "artists": [
+        {
+          "name": "Lotusx",
+          "url": "https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171724,
+      "name": "Nedense",
+      "url": "https://open.spotify.com/track/0Th24xHwF8s2Q248HFSqnt"
+    },
+    {
+      "album": {
         "name": "Kufi",
         "url": "https://open.spotify.com/album/3FpJOsSnsSziu7JFmAzRPc"
       },
@@ -2538,7 +2578,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 239377,
       "name": "Sahne Hayvanlar\u0131",
       "url": "https://open.spotify.com/track/5sb2O0YuZonXg0lJ5NCmG0"
@@ -2856,6 +2896,24 @@
       "duration_ms": 195042,
       "name": "Sevmekten Kaybettim",
       "url": "https://open.spotify.com/track/6xKX7Kb1grLFtiKuLrSz4Z"
+    },
+    {
+      "album": {
+        "name": "Sevmemi\u015fiz Gibi Farz Edelim",
+        "url": "https://open.spotify.com/album/57hic4pxOaxebssHVzOqRc"
+      },
+      "artists": [
+        {
+          "name": "Pinhani",
+          "url": "https://open.spotify.com/artist/4Bdqzh78prwuqwInMb555P"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178808,
+      "name": "Sevmemi\u015fiz Gibi Farz Edelim",
+      "url": "https://open.spotify.com/track/3BHnZpz8mPEpkorbTaEHYD"
     },
     {
       "album": {
@@ -3464,6 +3522,24 @@
       "duration_ms": 183913,
       "name": "Yaz \u015eark\u0131s\u0131",
       "url": "https://open.spotify.com/track/1oXMrxAVnXhqTpqOXU8hC0"
+    },
+    {
+      "album": {
+        "name": "Ya\u011fmur 2025",
+        "url": "https://open.spotify.com/album/72uUhhsVTJkJxkuiEl3bOZ"
+      },
+      "artists": [
+        {
+          "name": "Teoman",
+          "url": "https://open.spotify.com/artist/40KlwpvpKEQtZTJgbml8lT"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211495,
+      "name": "Ya\u011fmur 2025",
+      "url": "https://open.spotify.com/track/55hx5GvZW7wZqzG4th66RV"
     },
     {
       "album": {

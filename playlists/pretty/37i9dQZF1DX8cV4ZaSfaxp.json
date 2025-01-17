@@ -1,6 +1,6 @@
 {
   "description": "\ucc2c\ub780\ud558\uace0\ub3c4 \uc544\ub828\ud55c \ub290\ub08c\uc744 \uac04\uc9c1\ud55c \ud55c\uad6d \uc2dc\ud2f0\ud31d\uc744 \uc990\uaca8\ubcf4\uc138\uc694. (Cover: \uc815\uc608\uc778(Yein)) (A dazzling but very sad feeling. Enjoy the city pop music of Korean singers.)",
-  "num_followers": 56877,
+  "num_followers": 56892,
   "original_name": "\uc11c\uc6b8 \uc528\ud2f0\ud31d (Seoul City Pop)",
   "owner": {
     "name": "Spotify",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Cocktail love",
-        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
-      },
-      "artists": [
-        {
-          "name": "YEWON",
-          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
-        }
-      ],
-      "duration_ms": 204053,
-      "name": "Cocktail love",
-      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "I Just Wanna Dance - The 1st Mini Album",
         "url": "https://open.spotify.com/album/5Zf2IZLgKbo9RcktqIQxpU"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 214490,
       "name": "TALK",
       "url": "https://open.spotify.com/track/6O3XduvZiAgLpjeDnZ5sJ4"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Cocktail love",
+        "url": "https://open.spotify.com/album/5Zqacp0rDmrmB9k7PaqWws"
+      },
+      "artists": [
+        {
+          "name": "YEWON",
+          "url": "https://open.spotify.com/artist/2GJNbshsJuL7t4ME9LOwZ0"
+        }
+      ],
+      "duration_ms": 204053,
+      "name": "Cocktail love",
+      "url": "https://open.spotify.com/track/4fCvcM5qDmIoLsjgqB6mp8"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -815,18 +815,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Beautiful Night - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+        "name": "Here, This Moment",
+        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
       },
       "artists": [
         {
-          "name": "YESUNG",
-          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+          "name": "ARTLOVEU",
+          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
         }
       ],
-      "duration_ms": 214560,
-      "name": "Fireworks",
-      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
+      "duration_ms": 226173,
+      "name": "Here, This Moment",
+      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -847,6 +847,22 @@
       "duration_ms": 226933,
       "name": "Moonset",
       "url": "https://open.spotify.com/track/1fQrmSaN8EOxbZQrFcihQZ"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Beautiful Night - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/7x0nqb4xJTOI1KwpX8pB6T"
+      },
+      "artists": [
+        {
+          "name": "YESUNG",
+          "url": "https://open.spotify.com/artist/4hyF8Vtc73RYJr3RgTE2Zf"
+        }
+      ],
+      "duration_ms": 214560,
+      "name": "Fireworks",
+      "url": "https://open.spotify.com/track/6omXzzkHd7CjudfMcs3i9a"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -887,22 +903,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Ending",
-        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
-      },
-      "artists": [
-        {
-          "name": "JUNE",
-          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
-        }
-      ],
-      "duration_ms": 226453,
-      "name": "A day of weather",
-      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "AQUA CITY",
         "url": "https://open.spotify.com/album/6zwAQwh8Hk0XFWaBfXoux2"
       },
@@ -939,18 +939,18 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Here, This Moment",
-        "url": "https://open.spotify.com/album/4NjnvUDqzaOVE5pLT5SSBl"
+        "name": "Ending",
+        "url": "https://open.spotify.com/album/7jD1Irb8NWIAxyfUQQBBKD"
       },
       "artists": [
         {
-          "name": "ARTLOVEU",
-          "url": "https://open.spotify.com/artist/3o93aoLsZL0csTtbotjJdO"
+          "name": "JUNE",
+          "url": "https://open.spotify.com/artist/0HXCe7R2f1Us5bAW7ohMC6"
         }
       ],
-      "duration_ms": 226173,
-      "name": "Here, This Moment",
-      "url": "https://open.spotify.com/track/7sQmOXlFUZzlggFaRRG1C0"
+      "duration_ms": 226453,
+      "name": "A day of weather",
+      "url": "https://open.spotify.com/track/21hBj9FtDyTISSXrTuApaw"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "RE_vive",
-        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyed Girls",
-          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
-        }
-      ],
-      "duration_ms": 232906,
-      "name": "Wonder Woman",
-      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "Breathing",
         "url": "https://open.spotify.com/album/76vBevdqAA4XSFe7Zg3J3y"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 208346,
       "name": "Reckless (with TTG)",
       "url": "https://open.spotify.com/track/4AjlkfzjcDBs9dsCRbBmFB"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "RE_vive",
+        "url": "https://open.spotify.com/album/5ZR4gMvmyzSX7AApmIR88h"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyed Girls",
+          "url": "https://open.spotify.com/artist/2GEPtT5RDxrmdi0A4mbDi7"
+        }
+      ],
+      "duration_ms": 232906,
+      "name": "Wonder Woman",
+      "url": "https://open.spotify.com/track/6xvJJyGmKG0oOFcdJ5wF16"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1235,6 +1235,30 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
+        "name": "Forget You",
+        "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
+      },
+      "artists": [
+        {
+          "name": "Aliven",
+          "url": "https://open.spotify.com/artist/3SIrYEcYXK0tFWf6dA0Q4E"
+        },
+        {
+          "name": "Rainbow note",
+          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
+        },
+        {
+          "name": "Louie",
+          "url": "https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB"
+        }
+      ],
+      "duration_ms": 278226,
+      "name": "Forget You (Feat. Rainbow note, Louie)",
+      "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
         "name": "Empty",
         "url": "https://open.spotify.com/album/1PXidTC6ygrMxPUuMch2Tm"
       },
@@ -1275,30 +1299,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Forget You",
-        "url": "https://open.spotify.com/album/60zXXx58lbLisnStPn442S"
-      },
-      "artists": [
-        {
-          "name": "Aliven",
-          "url": "https://open.spotify.com/artist/3SIrYEcYXK0tFWf6dA0Q4E"
-        },
-        {
-          "name": "Rainbow note",
-          "url": "https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17"
-        },
-        {
-          "name": "Louie",
-          "url": "https://open.spotify.com/artist/3swZbFXoZgWR6TCnMDJgCB"
-        }
-      ],
-      "duration_ms": 278226,
-      "name": "Forget You (Feat. Rainbow note, Louie)",
-      "url": "https://open.spotify.com/track/6s9WfGSYC8dh9Tk6ATQhlC"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "EGO 90'S PART 3",
         "url": "https://open.spotify.com/album/5550oPn3XJSepXsVjXlKAQ"
       },
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Dive in Love",
-        "url": "https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7"
-      },
-      "artists": [
-        {
-          "name": "Taeha",
-          "url": "https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw"
-        }
-      ],
-      "duration_ms": 219416,
-      "name": "Dive in Love",
-      "url": "https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "MINI",
         "url": "https://open.spotify.com/album/74DqQrYGTSS6NfqZY7Vml0"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 187653,
       "name": "Loveholic",
       "url": "https://open.spotify.com/track/6ti3JvY3ZSdqvTA7PaSA1e"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Dive in Love",
+        "url": "https://open.spotify.com/album/4ZColYa5QtrglVwxtz5NN7"
+      },
+      "artists": [
+        {
+          "name": "Taeha",
+          "url": "https://open.spotify.com/artist/6iP9MWxKM8aS2xlBPKZXlw"
+        }
+      ],
+      "duration_ms": 219416,
+      "name": "Dive in Love",
+      "url": "https://open.spotify.com/track/0guaStWjhEAoYmvOi9sRLF"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1383,22 +1383,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "feelight!",
-        "url": "https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj"
-      },
-      "artists": [
-        {
-          "name": "Limit",
-          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
-        }
-      ],
-      "duration_ms": 185173,
-      "name": "feelight!",
-      "url": "https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "My Universe - Home Recording Project #4",
         "url": "https://open.spotify.com/album/1XZD87d6fZmsBcIS4qfeCk"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 200000,
       "name": "My Universe - Home Recording Project #4",
       "url": "https://open.spotify.com/track/0ljn4YeQP7xgEZ1vznVDCx"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "feelight!",
+        "url": "https://open.spotify.com/album/3ydzhTdZD5l7xLGWSDawpj"
+      },
+      "artists": [
+        {
+          "name": "Limit",
+          "url": "https://open.spotify.com/artist/6wpqEEzNtOeTiOiOspkgy1"
+        }
+      ],
+      "duration_ms": 185173,
+      "name": "feelight!",
+      "url": "https://open.spotify.com/track/2f7WNinHXf9m54ge3FqMkk"
     },
     {
       "added_at": "2024-09-30 08:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-09-30 08:00:00",
       "album": {
-        "name": "Pier",
-        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
-      },
-      "artists": [
-        {
-          "name": "Llwyd",
-          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
-        }
-      ],
-      "duration_ms": 174624,
-      "name": "Pier",
-      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
-    },
-    {
-      "added_at": "2024-09-30 08:00:00",
-      "album": {
         "name": "<K>",
         "url": "https://open.spotify.com/album/69pBx0bi45GYip7oXcHbzu"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 188320,
       "name": "Algorithm",
       "url": "https://open.spotify.com/track/0i8K9oyDQSg5tPZUTHPwhX"
+    },
+    {
+      "added_at": "2024-09-30 08:00:00",
+      "album": {
+        "name": "Pier",
+        "url": "https://open.spotify.com/album/12A6nMaKXm2zLGxzLA6UDd"
+      },
+      "artists": [
+        {
+          "name": "Llwyd",
+          "url": "https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0"
+        }
+      ],
+      "duration_ms": 174624,
+      "name": "Pier",
+      "url": "https://open.spotify.com/track/1X2LxOHifIksEnDHUTlXCo"
     },
     {
       "added_at": "2024-09-30 08:00:00",

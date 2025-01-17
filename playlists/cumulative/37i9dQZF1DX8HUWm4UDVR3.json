@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-07-29",
-  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Stromae & Pomme",
+  "description": "La pop fran\u00e7aise annonce la couleur. Photo : Miki",
   "name": "Couleur Pop",
   "tracks": [
     {
@@ -416,7 +416,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 174880,
       "name": "Bad boy malheureux",
       "url": "https://open.spotify.com/track/2k97hRZibwZ37AqZK94hDN"
@@ -1306,7 +1306,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 207840,
       "name": "Elle",
       "url": "https://open.spotify.com/track/0tPwEfjxR3YchHGFNKHjc6"
@@ -1508,6 +1508,28 @@
       "duration_ms": 207586,
       "name": "Film Noir",
       "url": "https://open.spotify.com/track/1DIQCidDAFLBkOz5w7Iwdo"
+    },
+    {
+      "album": {
+        "name": "Forever (French Edit)",
+        "url": "https://open.spotify.com/album/2swuTIjmSZt6zldeWddUyZ"
+      },
+      "artists": [
+        {
+          "name": "Diva Faune",
+          "url": "https://open.spotify.com/artist/39l75cUNbVMpHgykQLyOUT"
+        },
+        {
+          "name": "Adeline Lovo",
+          "url": "https://open.spotify.com/artist/7yhd0k8UToSYCkNq7HUBC6"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139473,
+      "name": "Forever - French Edit",
+      "url": "https://open.spotify.com/track/4ed2gCfVy4MMblrkXDoLs6"
     },
     {
       "album": {
@@ -2556,7 +2578,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 171960,
       "name": "Les bonbons",
       "url": "https://open.spotify.com/track/2KQRtOnkcFpPM7f6P761Oe"
@@ -2856,7 +2878,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 183160,
       "name": "Mille morceaux",
       "url": "https://open.spotify.com/track/1RL1DA4TEX4bWriUBuTqSf"
@@ -3705,6 +3727,24 @@
     },
     {
       "album": {
+        "name": "M\u00e9tamorphose",
+        "url": "https://open.spotify.com/album/05pseplnbWS7lJplrCsNf8"
+      },
+      "artists": [
+        {
+          "name": "Chien M\u00e9chant",
+          "url": "https://open.spotify.com/artist/3tGEmt91uOUsBANyfWmABd"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214144,
+      "name": "Qui Ne S'arr\u00eate Pas",
+      "url": "https://open.spotify.com/track/7z2wfehqutHjX4GKNL5TRM"
+    },
+    {
+      "album": {
         "name": "R+V",
         "url": "https://open.spotify.com/album/4NYERenRZSe7KCptxkD6ja"
       },
@@ -3998,6 +4038,24 @@
       "duration_ms": 177000,
       "name": "Scoot",
       "url": "https://open.spotify.com/track/0BWHEpxLHY3SwRDUhh6R8a"
+    },
+    {
+      "album": {
+        "name": "graou",
+        "url": "https://open.spotify.com/album/1Zc5T41oAD6MoVilGvadRf"
+      },
+      "artists": [
+        {
+          "name": "Miki",
+          "url": "https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131226,
+      "name": "scorpion ascendant scorpion (\uc0c1\uc2b9\uad81 \uc804\uac08\uc790\ub9ac)",
+      "url": "https://open.spotify.com/track/12oCxUOAgMIlP4AmlEAjHt"
     },
     {
       "album": {
@@ -4558,6 +4616,24 @@
       "duration_ms": 156477,
       "name": "XS",
       "url": "https://open.spotify.com/track/08Jrszz3ir62gPhy9wfU4i"
+    },
+    {
+      "album": {
+        "name": "ZOMBIE",
+        "url": "https://open.spotify.com/album/0hAg9HdbJarrb2PbGkmHhy"
+      },
+      "artists": [
+        {
+          "name": "Venus VNR",
+          "url": "https://open.spotify.com/artist/1VNVb5UAADT5TLDjQ1oGZW"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139023,
+      "name": "ZOMBIE",
+      "url": "https://open.spotify.com/track/5oYSfiv0KXp7cBEzsNwPXm"
     },
     {
       "album": {

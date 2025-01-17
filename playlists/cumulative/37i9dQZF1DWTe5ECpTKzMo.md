@@ -2,7 +2,7 @@
 
 ### [Hip\-Hop MX 24k](https://open.spotify.com/playlist/37i9dQZF1DWTe5ECpTKzMo)
 
-> La tierra del Rap de oro puro\. Dharius en portada
+> La tierra del Rap de oro puro\. Rich Mafia en portada
 
 140 songs - 8 hr 46 min
 

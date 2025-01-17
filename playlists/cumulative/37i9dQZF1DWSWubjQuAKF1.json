@@ -673,6 +673,24 @@
     },
     {
       "album": {
+        "name": "Can't Hide",
+        "url": "https://open.spotify.com/album/2Yf42Gy5nxChZyEmKizL5s"
+      },
+      "artists": [
+        {
+          "name": "Marien",
+          "url": "https://open.spotify.com/artist/3OJV0xQWTH0mrMRmfNxqGk"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161885,
+      "name": "Can't Hide",
+      "url": "https://open.spotify.com/track/5YJy4FNzokXFaiq6QoBuka"
+    },
+    {
+      "album": {
         "name": "Candy",
         "url": "https://open.spotify.com/album/4yF8NpjrJD2ObQsGvXm1m7"
       },
@@ -1364,7 +1382,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 200843,
       "name": "Filozof",
       "url": "https://open.spotify.com/track/62FnWjof4qPzSVCUmmACaD"
@@ -1523,6 +1541,24 @@
     },
     {
       "album": {
+        "name": "Happy End",
+        "url": "https://open.spotify.com/album/125nGtnN3Je2tyzuiuDLXr"
+      },
+      "artists": [
+        {
+          "name": "PHERO",
+          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Happy End",
+      "url": "https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e"
+    },
+    {
+      "album": {
         "name": "hyperstar",
         "url": "https://open.spotify.com/album/2pYRk38exvUrXSmBnLafsl"
       },
@@ -1570,7 +1606,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 135978,
       "name": "I like that",
       "url": "https://open.spotify.com/track/5cVrhm5TnQ3DVzrhCvcmeP"
@@ -2166,7 +2202,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 181739,
       "name": "lubi\u0119 patrze\u0107 na tw\u0105 bro\u0144",
       "url": "https://open.spotify.com/track/1xgWsfJ8qmFhrvJ6NmP1UW"
@@ -2476,6 +2512,24 @@
       "duration_ms": 180091,
       "name": "Miracle",
       "url": "https://open.spotify.com/track/1Rc955GBwPGvCoWLNQokoE"
+    },
+    {
+      "album": {
+        "name": "Miracle (Eurovision Version)",
+        "url": "https://open.spotify.com/album/5v8wOqN8GWvKy7fkPsCW4S"
+      },
+      "artists": [
+        {
+          "name": "TYNSKY",
+          "url": "https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170630,
+      "name": "Miracle - Eurovision Version",
+      "url": "https://open.spotify.com/track/43aFX2LZpCnZXEhNVKBk1z"
     },
     {
       "album": {
@@ -3554,6 +3608,24 @@
       "duration_ms": 123600,
       "name": "Powiedz",
       "url": "https://open.spotify.com/track/3z9K5dBzEyQWht7Y3PARnM"
+    },
+    {
+      "album": {
+        "name": "PRAY",
+        "url": "https://open.spotify.com/album/0i3m0nLfvE8essSOZrlStQ"
+      },
+      "artists": [
+        {
+          "name": "KUBA",
+          "url": "https://open.spotify.com/artist/1bkyZDNNjgrIwr4qTtyHUW"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "PRAY",
+      "url": "https://open.spotify.com/track/47hPDWjpKJBtNTZ5mvpdBt"
     },
     {
       "album": {
@@ -4760,7 +4832,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 201739,
       "name": "Za daleko",
       "url": "https://open.spotify.com/track/09y1MRKKZngQBDAwL7oOSJ"

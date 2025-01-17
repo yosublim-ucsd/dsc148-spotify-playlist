@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,026 likes - 135 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,309 likes - 135 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 4 | [What Was I Made For? \- Piano Version](https://open.spotify.com/track/0ELGKtNSHKPlrrITjXCQQ0) | [Relaxing Piano Covers](https://open.spotify.com/artist/4lwvpHoeQnnQK1W4btWFOU) | [What Was I Made For? \(Piano Version\)](https://open.spotify.com/album/23n2QTKckKp2ZXM16cug3P) | 3:43 |
 | 5 | [Make You Feel My Love](https://open.spotify.com/track/5PwH7G4wPhk11QKx85j5uL) | [Greg Maroney](https://open.spotify.com/artist/13CLZBR9RbwxLXRyh5m3MC) | [Make You Feel My Love](https://open.spotify.com/album/60MO7vPyBBFzhsL7UBcxAJ) | 3:11 |
 | 6 | [Anti\-Hero](https://open.spotify.com/track/4I0Kmiieqw8EmKEbiZPQzJ) | [Nora Levario](https://open.spotify.com/artist/43F7L6jcGu1F0TpEmS27mw) | [Anti\-Hero](https://open.spotify.com/album/10TQNCLR0xgqTkHfUqRaGj) | 2:42 |
-| 7 | [Defying Gravity \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [Defying Gravity \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1) | 2:46 |
+| 7 | [Defying Gravity \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/2z1Ei4i5Oub3L9xLFViN3h) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [Defying Gravity \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/3F4Uiv9uOdJaRKgzH6B9Z1) | 2:46 |
 | 8 | [Wrecking Ball \- Solo Piano Version](https://open.spotify.com/track/3sSESwCLq4g7WiXk6LJKbI) | [Stephan Moccio](https://open.spotify.com/artist/25s9H1JQmTu3iuFzpXWUIg) | [Wrecking ball \(Solo Piano Version\)](https://open.spotify.com/album/6FxI4vC2tiRIxqbzth9zZL) | 3:24 |
 | 9 | [Perfect](https://open.spotify.com/track/6clv20tpXFKLevFO7Tcdno) | [Junior Carrol](https://open.spotify.com/artist/2Scv3DFwZ724kkR09uNKbv) | [Perfect](https://open.spotify.com/album/7554ixwW94p7WaGD2mtO4G) | 3:49 |
 | 10 | [Stay with Me](https://open.spotify.com/track/4lWYROZtRMgHmDpdUtTI22) | [Vitamin String Quartet](https://open.spotify.com/artist/6MERXsiRbur2oJZFgYRDKz) | [VSQ Performs the Hits of 2014, Vol\. 2](https://open.spotify.com/album/3kXPzEHhPKArQtzlQmPR9N) | 2:55 |
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 19 | [Until I Found You](https://open.spotify.com/track/5SAK6BC92F7POlKKO5gDLA) | [Davide Ambrosia](https://open.spotify.com/artist/7Jd8IfE12z0jbepgMaVpXl) | [Until I Found You](https://open.spotify.com/album/4eaBzs8PLXM6xde6VnnHwr) | 2:35 |
 | 20 | [If You Leave Me Now](https://open.spotify.com/track/2br0u2rXPYBPl2LxghWaI5) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [If You Leave Me Now](https://open.spotify.com/album/2SOzSum0avhI6D4Gh4dtg1) | 2:44 |
 | 21 | [Forget Me](https://open.spotify.com/track/79yGCs4eXnpvbdHLw9N0If) | [Romans Veiss](https://open.spotify.com/artist/6a1NBji7Ei3pEtuNnF8Vgp) | [Forget Me](https://open.spotify.com/album/3CLGONlXt6PiHwUxbVQtDg) | 2:16 |
-| 22 | [I'm Not That Girl \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/5iAwczYczwYLSlj5U6cAkY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [I'm Not That Girl \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/78iuWg2dMz742JICVfV5Fk) | 2:42 |
+| 22 | [I'm Not That Girl \(Arr\. Piano\) \- from "Wicked"](https://open.spotify.com/track/5iAwczYczwYLSlj5U6cAkY) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp), [Music Lab Dreamtime](https://open.spotify.com/artist/0mIB3cuII0h6FIpiVMqFIi) | [I'm Not That Girl \(Arr\. Piano\) \[from "Wicked"\]](https://open.spotify.com/album/78iuWg2dMz742JICVfV5Fk) | 2:42 |
 | 23 | [When You Believe](https://open.spotify.com/track/4Ii8MnBiT9b5OQdCZni6j9) | [Tierra Sonora](https://open.spotify.com/artist/5A1O45cYVPyJU5ZHS9VieF) | [When You Believe](https://open.spotify.com/album/5TDOt28GEEhuRGUEicuRiN) | 3:23 |
 | 24 | [And So It Goes](https://open.spotify.com/track/5VidujfvJEwA6B8v6lyNkF) | [A Howard](https://open.spotify.com/artist/4Wn0X2hBSyW6qZNbOFztcO) | [And So It Goes](https://open.spotify.com/album/2ZQfYj8IsKJjK42IXnCEsX) | 3:07 |
 | 25 | [Right Here Waiting](https://open.spotify.com/track/141QLRFHt0ChaUT47Wo17T) | [Julian M Palmer](https://open.spotify.com/artist/2X2VFodoLj3tigjuOSBYqo) | [Right Here Waiting](https://open.spotify.com/album/2vv6qChQajIMXmsHWqWBTP) | 3:07 |

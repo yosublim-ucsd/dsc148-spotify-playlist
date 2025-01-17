@@ -538,7 +538,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 186721,
       "name": "heat",
       "url": "https://open.spotify.com/track/0qB6vfLUW11bMGjz8SHvtt"
@@ -1762,6 +1762,24 @@
       "duration_ms": 220820,
       "name": "Wastelands",
       "url": "https://open.spotify.com/track/0XFPoeF4wAc2lBckxnoKdP"
+    },
+    {
+      "album": {
+        "name": "We're Gonna Be Okay",
+        "url": "https://open.spotify.com/album/6gGP8SyIyRCAxsMhk11HY5"
+      },
+      "artists": [
+        {
+          "name": "Blanks",
+          "url": "https://open.spotify.com/artist/7geo7fjTQyp13Wf2ALTZCF"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179300,
+      "name": "We're Gonna Be Okay",
+      "url": "https://open.spotify.com/track/2gZ3Twqqirs6A2Xf1mBubH"
     },
     {
       "album": {

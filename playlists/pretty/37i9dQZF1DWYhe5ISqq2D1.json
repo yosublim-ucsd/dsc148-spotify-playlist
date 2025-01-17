@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u30d2\u30b0\u30c1\u30a2\u30a4",
-  "num_followers": 57472,
+  "num_followers": 57505,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Feel Like This",
-        "url": "https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW"
-      },
-      "artists": [
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "HATE ME",
         "url": "https://open.spotify.com/album/4Y62wnwsbJExMDrGaOqVnu"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 125000,
       "name": "HATE ME",
       "url": "https://open.spotify.com/track/7uulcfumoIFjQG4AvWLOkM"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "Feel Like This",
+        "url": "https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -911,22 +911,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "HATA EXPO -The Collaboration Album-",
-        "url": "https://open.spotify.com/album/7H6K36YquDfRbMYHHG6SoX"
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
       },
       "artists": [
         {
-          "name": "Motohiro Hata",
-          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
-        },
-        {
-          "name": "TOMOO",
-          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 296062,
-      "name": "\u9752\u8449",
-      "url": "https://open.spotify.com/track/5Nj8wQlcTur1FqYQM5dnXR"
+      "duration_ms": 191666,
+      "name": "\u30ab\u30b2\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -947,18 +943,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
+        "name": "HATA EXPO -The Collaboration Album-",
+        "url": "https://open.spotify.com/album/7H6K36YquDfRbMYHHG6SoX"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "Motohiro Hata",
+          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
+        },
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
         }
       ],
-      "duration_ms": 191666,
-      "name": "\u30ab\u30b2\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
+      "duration_ms": 296062,
+      "name": "\u9752\u8449",
+      "url": "https://open.spotify.com/track/5Nj8wQlcTur1FqYQM5dnXR"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -975,6 +975,22 @@
       "duration_ms": 265426,
       "name": "Wannabe",
       "url": "https://open.spotify.com/track/73EjXctX8rGZoIO3glFa8d"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "\u6717\u6717",
+        "url": "https://open.spotify.com/album/5y8wWPaqLkppnC7nmrR5Um"
+      },
+      "artists": [
+        {
+          "name": "Sato",
+          "url": "https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31"
+        }
+      ],
+      "duration_ms": 213191,
+      "name": "\u6717\u6717",
+      "url": "https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1039,22 +1055,6 @@
       "duration_ms": 230809,
       "name": "\u6b69\u307f",
       "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "\u6717\u6717",
-        "url": "https://open.spotify.com/album/5y8wWPaqLkppnC7nmrR5Um"
-      },
-      "artists": [
-        {
-          "name": "Sato",
-          "url": "https://open.spotify.com/artist/42olGDHZaEPtRmxwEZPY31"
-        }
-      ],
-      "duration_ms": 213191,
-      "name": "\u6717\u6717",
-      "url": "https://open.spotify.com/track/7Jp8SrcoDDZHl1MYbSiXuq"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u3068\u304d\u3081\u304d",
-        "url": "https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ"
-      },
-      "artists": [
-        {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
-        }
-      ],
-      "duration_ms": 181940,
-      "name": "\u3068\u304d\u3081\u304d",
-      "url": "https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "Endless",
         "url": "https://open.spotify.com/album/3IVlzFO79ROq2pCINRfr2s"
       },
@@ -1191,50 +1175,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
-        "url": "https://open.spotify.com/album/6BzlZed8i1DMcJdToU0n4l"
+        "name": "\u3068\u304d\u3081\u304d",
+        "url": "https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ"
       },
       "artists": [
         {
-          "name": "Yu Takahashi",
-          "url": "https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t"
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
         }
       ],
-      "duration_ms": 318733,
-      "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
-      "url": "https://open.spotify.com/track/6v4ZXXpTjf3qp27clLZkMm"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
-        "url": "https://open.spotify.com/album/33xhBqA8gGwvGbZTLFWJnq"
-      },
-      "artists": [
-        {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
-        }
-      ],
-      "duration_ms": 193977,
-      "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
-      "url": "https://open.spotify.com/track/3F36vTQbeIorGh3IMDQQtd"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
-        "url": "https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO"
-      },
-      "artists": [
-        {
-          "name": "\u30cb\u30a4\u30ca",
-          "url": "https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV"
-        }
-      ],
-      "duration_ms": 168539,
-      "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
-      "url": "https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT"
+      "duration_ms": 181940,
+      "name": "\u3068\u304d\u3081\u304d",
+      "url": "https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1255,18 +1207,34 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Lover",
-        "url": "https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy"
+        "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
+        "url": "https://open.spotify.com/album/33xhBqA8gGwvGbZTLFWJnq"
       },
       "artists": [
         {
-          "name": "\u541b\u5cf6\u5927\u7a7a",
-          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
         }
       ],
-      "duration_ms": 394752,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi"
+      "duration_ms": 193977,
+      "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
+      "url": "https://open.spotify.com/track/3F36vTQbeIorGh3IMDQQtd"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
+        "url": "https://open.spotify.com/album/6BzlZed8i1DMcJdToU0n4l"
+      },
+      "artists": [
+        {
+          "name": "Yu Takahashi",
+          "url": "https://open.spotify.com/artist/4aDG4r8Fb7lNdMtETDIB4t"
+        }
+      ],
+      "duration_ms": 318733,
+      "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
+      "url": "https://open.spotify.com/track/6v4ZXXpTjf3qp27clLZkMm"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1283,6 +1251,38 @@
       "duration_ms": 192555,
       "name": "\u5922\u3092\u898b\u3088\u3046\u3088",
       "url": "https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "Lover",
+        "url": "https://open.spotify.com/album/4ug2EqEBfa5bPigoHuJ2Dy"
+      },
+      "artists": [
+        {
+          "name": "\u541b\u5cf6\u5927\u7a7a",
+          "url": "https://open.spotify.com/artist/5rjahCZtY8h4y2EHCnpgtQ"
+        }
+      ],
+      "duration_ms": 394752,
+      "name": "Lover",
+      "url": "https://open.spotify.com/track/4fSFb0RZXCxj0GxGvzflGi"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
+        "url": "https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO"
+      },
+      "artists": [
+        {
+          "name": "\u30cb\u30a4\u30ca",
+          "url": "https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV"
+        }
+      ],
+      "duration_ms": 168539,
+      "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
+      "url": "https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Lucif\u00e9rine",
-        "url": "https://open.spotify.com/album/0SpLGc25URm3IjnGs41Eq4"
+        "name": "\u706b\u9b45\u87f2",
+        "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "ROTH BART BARON",
+          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
         }
       ],
-      "duration_ms": 301907,
-      "name": "Lucif\u00e9rine",
-      "url": "https://open.spotify.com/track/5Ijd36DisS37oD9P9rUha1"
+      "duration_ms": 190553,
+      "name": "\u706b\u9b45\u87f2",
+      "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1495,18 +1495,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u706b\u9b45\u87f2",
-        "url": "https://open.spotify.com/album/4EiQoikRwwBAJHC6runpRG"
+        "name": "Lucif\u00e9rine",
+        "url": "https://open.spotify.com/album/0SpLGc25URm3IjnGs41Eq4"
       },
       "artists": [
         {
-          "name": "ROTH BART BARON",
-          "url": "https://open.spotify.com/artist/3WwL2Gya2VH0zHzOdakOX2"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 190553,
-      "name": "\u706b\u9b45\u87f2",
-      "url": "https://open.spotify.com/track/2QYVqelaqQXKBSlZyFqqkU"
+      "duration_ms": 301907,
+      "name": "Lucif\u00e9rine",
+      "url": "https://open.spotify.com/track/5Ijd36DisS37oD9P9rUha1"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
+        "name": "BAE",
+        "url": "https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh"
+      },
+      "artists": [
+        {
+          "name": "jo0ji",
+          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+        }
+      ],
+      "duration_ms": 246253,
+      "name": "BAE",
+      "url": "https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
         "name": "\u30c1\u30eb\u3063\u3068\u3057\u305f\u3044",
         "url": "https://open.spotify.com/album/5XJyJBCAliq8NfGIe7dkp8"
       },
@@ -1575,18 +1591,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "BAE",
-        "url": "https://open.spotify.com/album/5kgPfV3smpy7jWTuwW06Xh"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6nmV990yr4xqzwJ7jDJery"
       },
       "artists": [
         {
-          "name": "jo0ji",
-          "url": "https://open.spotify.com/artist/5Wfhi0FggHCfOSa3ux39fk"
+          "name": "Moeka Yahagi",
+          "url": "https://open.spotify.com/artist/6p3V5vYmdNwDlq7zJweKCg"
         }
       ],
-      "duration_ms": 246253,
-      "name": "BAE",
-      "url": "https://open.spotify.com/track/7xi1q1cQkrsNDjYn4MLRBa"
+      "duration_ms": 248041,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5UxdVznuQnmWBO7JJu0efv"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1603,26 +1619,6 @@
       "duration_ms": 200614,
       "name": "PASADENA",
       "url": "https://open.spotify.com/track/2DBqqzOsOsZgKAB0T4GBVt"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "No Where Now Here",
-        "url": "https://open.spotify.com/album/4FAaG22d2S11wZ6dfG01zH"
-      },
-      "artists": [
-        {
-          "name": "Motohiro Hata",
-          "url": "https://open.spotify.com/artist/706WzkJEacBrtkHKRpBU2q"
-        },
-        {
-          "name": "Hanare Gumi",
-          "url": "https://open.spotify.com/artist/2nyUb9foGvK7AlESn5DCte"
-        }
-      ],
-      "duration_ms": 304424,
-      "name": "No Where Now Here",
-      "url": "https://open.spotify.com/track/2KJs4LxOjDG0DLEcT3eko9"
     }
   ],
   "unique_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",

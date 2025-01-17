@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative en rock songs. Cover: The Vices (<a href=\"spotify:genre:0JQ5DAqbMKFOOxftoKZxod\">RADAR</a>-artiest)",
+  "description": "Nieuwe alternative en rock songs. Cover: Wodan Boys",
   "name": "New Alternative",
   "tracks": [
     {
@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "A Moment",
+        "url": "https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203545,
+      "name": "A Moment",
+      "url": "https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI"
+    },
+    {
+      "album": {
         "name": "A Note About Time",
         "url": "https://open.spotify.com/album/2CJ2pASXDPONHZLu76rFbF"
       },
@@ -96,6 +114,24 @@
       "duration_ms": 200893,
       "name": "A Note About Time",
       "url": "https://open.spotify.com/track/3Eml7xiwuYQVJLTEQQMbjI"
+    },
+    {
+      "album": {
+        "name": "A Question of You",
+        "url": "https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222667,
+      "name": "A Question of You",
+      "url": "https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE"
     },
     {
       "album": {
@@ -312,7 +348,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 152862,
       "name": "American Flag",
       "url": "https://open.spotify.com/track/0FN074VoLCxggsr1DCsyZG"
@@ -903,6 +939,24 @@
     },
     {
       "album": {
+        "name": "Deadlines",
+        "url": "https://open.spotify.com/album/0Ic1Oi2gXqIEEF27HPtJdE"
+      },
+      "artists": [
+        {
+          "name": "Delivery",
+          "url": "https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185613,
+      "name": "Deadlines",
+      "url": "https://open.spotify.com/track/77TznXvHi8vX42uBZMNhyH"
+    },
+    {
+      "album": {
         "name": "Digitaline",
         "url": "https://open.spotify.com/album/7nuek3x9WHIOFw5auG7TmN"
       },
@@ -1101,6 +1155,24 @@
     },
     {
       "album": {
+        "name": "Evenfall",
+        "url": "https://open.spotify.com/album/2YeM6NqqTAtcb3kQNFLOKY"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "Evenfall",
+      "url": "https://open.spotify.com/track/6e5Cw6TEhIO5XVEAGlidCa"
+    },
+    {
+      "album": {
         "name": "Faint Of Heart",
         "url": "https://open.spotify.com/album/3mpkO4KFbEzzz0lFJxY2IH"
       },
@@ -1281,6 +1353,24 @@
     },
     {
       "album": {
+        "name": "Flying Solo",
+        "url": "https://open.spotify.com/album/6lwzndNI1LFNCRZMnHNajS"
+      },
+      "artists": [
+        {
+          "name": "Wodan Boys",
+          "url": "https://open.spotify.com/artist/0kmKbibEVmQ4luQqUAHDMr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209493,
+      "name": "Flying Solo",
+      "url": "https://open.spotify.com/track/2v8Fzcbb2021pLpEPzvd96"
+    },
+    {
+      "album": {
         "name": "For a Friend",
         "url": "https://open.spotify.com/album/1AwGiizKQAZznPk9w0Onbg"
       },
@@ -1314,6 +1404,24 @@
       "duration_ms": 259265,
       "name": "For Real",
       "url": "https://open.spotify.com/track/3hv3fLIfJAr61nybChXjx6"
+    },
+    {
+      "album": {
+        "name": "For the Better",
+        "url": "https://open.spotify.com/album/0r5vZf6pwFwoEnwqTxh0yF"
+      },
+      "artists": [
+        {
+          "name": "Marathon",
+          "url": "https://open.spotify.com/artist/4AmPhWuKz1UIdx2Mvt4yAw"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205155,
+      "name": "For the Better",
+      "url": "https://open.spotify.com/track/6JzfYu6EOgqmGRFF64undK"
     },
     {
       "album": {
@@ -1476,6 +1584,24 @@
       "duration_ms": 167012,
       "name": "Heavy Is the Crown",
       "url": "https://open.spotify.com/track/3fgehc497TFqKH1zBL2YNK"
+    },
+    {
+      "album": {
+        "name": "Hell Dog",
+        "url": "https://open.spotify.com/album/0T7pVKcvJZo1MUBX6aFXV4"
+      },
+      "artists": [
+        {
+          "name": "bwana",
+          "url": "https://open.spotify.com/artist/36ObPHoO5D8bWQIPnZBlKL"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229373,
+      "name": "Hell Dog",
+      "url": "https://open.spotify.com/track/4ZbNVJFXu7rJ1BEEcomxuk"
     },
     {
       "album": {
@@ -1706,7 +1832,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 191538,
       "name": "Idolizer",
       "url": "https://open.spotify.com/track/5Pz4jZa5Yw984sUrVXGetO"
@@ -2545,6 +2671,24 @@
     },
     {
       "album": {
+        "name": "Not All Is in Vain",
+        "url": "https://open.spotify.com/album/14jt7XaL3XqNegGQQMN1F9"
+      },
+      "artists": [
+        {
+          "name": "Marble Sounds",
+          "url": "https://open.spotify.com/artist/4oPsvVmYV90ryTGgyskkbp"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 318735,
+      "name": "Not All Is in Vain",
+      "url": "https://open.spotify.com/track/4XcmKf5TE7R6NCsG7PTU6H"
+    },
+    {
+      "album": {
         "name": "Nothing",
         "url": "https://open.spotify.com/album/60fqRyu5oxkvMGBPlDqpH5"
       },
@@ -2949,6 +3093,24 @@
     },
     {
       "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+    },
+    {
+      "album": {
         "name": "S.A.T.A.N.",
         "url": "https://open.spotify.com/album/2Zm8sus1lZPgdHddIB58nE"
       },
@@ -2960,7 +3122,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 187196,
       "name": "S.A.T.A.N.",
       "url": "https://open.spotify.com/track/5Gc8iiM7BIvBScplIhhGik"
@@ -3144,6 +3306,24 @@
       "duration_ms": 153266,
       "name": "she will be missed",
       "url": "https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6"
+    },
+    {
+      "album": {
+        "name": "Shelf Life",
+        "url": "https://open.spotify.com/album/2WBHjEcLqPX4scJhcdr1zj"
+      },
+      "artists": [
+        {
+          "name": "Global Charming",
+          "url": "https://open.spotify.com/artist/06rvBGtJ7XW87FytQSiR7t"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153533,
+      "name": "Shelf Life",
+      "url": "https://open.spotify.com/track/7Blvsx4HrrtmE11kEKOcyR"
     },
     {
       "album": {
@@ -3518,10 +3698,28 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 203912,
       "name": "Sweet Nothings",
       "url": "https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb"
+    },
+    {
+      "album": {
+        "name": "Switch Over",
+        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185915,
+      "name": "Switch Over",
+      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
     },
     {
       "album": {
@@ -3864,7 +4062,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 231885,
       "name": "Tormenta",
       "url": "https://open.spotify.com/track/2a9Rtd2qgzq4A5TTJteuBI"
@@ -4282,7 +4480,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 227308,
       "name": "Your House",
       "url": "https://open.spotify.com/track/20xfgpCbTJBDjrTFh916Av"

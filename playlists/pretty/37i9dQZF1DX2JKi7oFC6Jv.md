@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 
 > The best in UK Funky: celebrating 30 years of Rinse with a Katy B takeover!
 
-[Spotify](https://open.spotify.com/user/spotify) - 105,403 likes - 60 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 105,405 likes - 60 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2JKi7oFC6Jv.md) - [plain]
 | 47 | [Broken Record \- Geeneus Funky Mix](https://open.spotify.com/track/1E9A7uyyKtyLibnUZwdBKt) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M), [DJ Geeneus](https://open.spotify.com/artist/1EpP6PGFVKJW9gbcnDy8co) | [Broken Record Remixes](https://open.spotify.com/album/0NxGlkxkhHq11ZRUq01tnG) | 5:33 |
 | 48 | [Happy \- DJ Pioneer & TJ Remix](https://open.spotify.com/track/0gkXurU0Fwo8F60ImiYEgy) | [Big Zeeks](https://open.spotify.com/artist/1Vu6ENs1kZxIXu3AVsPfxz), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd), [DJ Pioneer](https://open.spotify.com/artist/1xReU0l2uJ5gyEwlL1XK0r), [TJ](https://open.spotify.com/artist/402vsCqDi4qYr2WtOhv2Up) | [Happy \(The Remixes\)](https://open.spotify.com/album/1hlFyAtaLjgU2VaEUE3xiA) | 2:59 |
 | 49 | [Work Out](https://open.spotify.com/track/2njzmMIjznNhysCSKwRZVa) | [Donae'o](https://open.spotify.com/artist/3xcx9CcYTM4M1890B8o9Bp) | [Work Out](https://open.spotify.com/album/3UCiLwvnSvW38fgxPAMZtY) | 3:03 |
-| 50 | [Waves](https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT) | [Hagan](https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU) | [Waves](https://open.spotify.com/album/3Nzgg68NS8IMzTDo91liai) | 4:17 |
-| 51 | [Gone \- Bklava Remix](https://open.spotify.com/track/2JMNzion86EWocg5WhqYeS) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Gone \(Bklava Remix\)](https://open.spotify.com/album/3pqO9UtBlcOd1ZKfmlHK99) | 3:48 |
+| 50 | [Gone \- Bklava Remix](https://open.spotify.com/track/2JMNzion86EWocg5WhqYeS) | [James Vincent McMorrow](https://open.spotify.com/artist/7FDlvgcodNfC0IBdWevl4u), [Bklava](https://open.spotify.com/artist/71t5uC7AYxisT7Z55Y2Kqd) | [Gone \(Bklava Remix\)](https://open.spotify.com/album/3pqO9UtBlcOd1ZKfmlHK99) | 3:48 |
+| 51 | [Waves](https://open.spotify.com/track/6NWZnftVAZPB8Rw7a5NWgT) | [Hagan](https://open.spotify.com/artist/0OvwOTSbNyHM0nnyvdCxNU) | [Waves](https://open.spotify.com/album/3Nzgg68NS8IMzTDo91liai) | 4:17 |
 | 52 | [Half On A Baby \- Funkystepz Remix](https://open.spotify.com/track/2H2eqLx9IWWBsu4Guak86x) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76), [FunkyStepz](https://open.spotify.com/artist/1sMcpUeV5yIQw4F4SvFqcb) | [Half On A Baby \(Remixes\)](https://open.spotify.com/album/5rnCcJ7o7HRCxXlzZ6Dbq8) | 4:33 |
 | 53 | [Badboii](https://open.spotify.com/track/77DHkBg5doxOWTA6M8javv) | [Doctor Nick](https://open.spotify.com/artist/5IJtTZ2DdjCHpoSQsTxWv8) | [Badboii](https://open.spotify.com/album/53d753mCGaTNTYlcotiQin) | 4:56 |
 | 54 | [Razzclart](https://open.spotify.com/track/1EyibibCLQgHcGDYbCmCPx) | [Scratcha DVA](https://open.spotify.com/artist/4RsQj1228RD7TFtUGCKRg7), [Razzler Man](https://open.spotify.com/artist/67zKupu2re2sdiPMz5HtOu) | [Razzclart](https://open.spotify.com/album/7pb4GNvMnFSZiop8nebPqo) | 2:54 |

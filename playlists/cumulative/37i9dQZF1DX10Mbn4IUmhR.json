@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The hottest Global and SA Pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/4PIv3Lyk3erxjcwBZFVNgi?si=8qAf3MaYSQODbI4Vns1YKA\">Dominic Neill</a> ",
+  "description": "The hottest Global and SA Pop tracks you love. Cover: <a href=\"https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0?si=y5bMnMvtQKCSIsX_tnkL4w\">Anica Kiana</a> ",
   "name": "i <3 pop",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 133805,
       "name": "360",
       "url": "https://open.spotify.com/track/7JxexWxny7yJ3slTLmWz2U"
@@ -150,6 +150,46 @@
       "duration_ms": 197639,
       "name": "Angel Of My Dreams",
       "url": "https://open.spotify.com/track/46cW6zufU9Woo11TLs2i6X"
+    },
+    {
+      "album": {
+        "name": "Any Other Way",
+        "url": "https://open.spotify.com/album/04rzWRhGs0L3fx2cL2Ll5o"
+      },
+      "artists": [
+        {
+          "name": "Anica Kiana",
+          "url": "https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154478,
+      "name": "Any Other Way",
+      "url": "https://open.spotify.com/track/62Q7FUT0qA1RkFou4r4OpE"
+    },
+    {
+      "album": {
+        "name": "Anywhere You Go",
+        "url": "https://open.spotify.com/album/17l89uTdHsrcpSmweaH68P"
+      },
+      "artists": [
+        {
+          "name": "Dominic and Tom",
+          "url": "https://open.spotify.com/artist/4F2LbcLZlrW3vimWra22SN"
+        },
+        {
+          "name": "Kyle Deutsch",
+          "url": "https://open.spotify.com/artist/5TlcIPcqqUiWfHmGOOAGOL"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181714,
+      "name": "Anywhere You Go",
+      "url": "https://open.spotify.com/track/01nlgWzrRjSSQTQTf4WIyY"
     },
     {
       "album": {
@@ -320,6 +360,24 @@
       "duration_ms": 156195,
       "name": "Back To The Future",
       "url": "https://open.spotify.com/track/3Jhy1g4W3ODoVAewdnAHqq"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367725,
+      "name": "BAILE INoLVIDABLE",
+      "url": "https://open.spotify.com/track/2lTm559tuIvatlT1u0JYG2"
     },
     {
       "album": {
@@ -518,6 +576,42 @@
       "duration_ms": 147428,
       "name": "bloom",
       "url": "https://open.spotify.com/track/43Nbcj9BLgwTgDXXVLkV9w"
+    },
+    {
+      "album": {
+        "name": "blue",
+        "url": "https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw"
+      },
+      "artists": [
+        {
+          "name": "yung kai",
+          "url": "https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214357,
+      "name": "blue",
+      "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
+    },
+    {
+      "album": {
+        "name": "SOS Deluxe: LANA",
+        "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180746,
+      "name": "BMF",
+      "url": "https://open.spotify.com/track/3U3hFkMr0Q90pD24EkE3Pr"
     },
     {
       "album": {
@@ -1124,7 +1218,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -1570,6 +1664,24 @@
       "duration_ms": 182835,
       "name": "Good on You",
       "url": "https://open.spotify.com/track/6f1hiblEBpzXj5mK53C8sr"
+    },
+    {
+      "album": {
+        "name": "Good Things Coming",
+        "url": "https://open.spotify.com/album/7a6iLFWhedHKM0lEihhp9K"
+      },
+      "artists": [
+        {
+          "name": "Sir Silly",
+          "url": "https://open.spotify.com/artist/0HwrBLxXMAzq5e7hfYgHcO"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188507,
+      "name": "Good Things Coming",
+      "url": "https://open.spotify.com/track/1vLJq0Vfml8ZWvLAEwUw2G"
     },
     {
       "album": {
@@ -2328,7 +2440,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 159816,
       "name": "Look Mom I Can Fly",
       "url": "https://open.spotify.com/track/1yMwQ6ELSs25SrByyhrUP4"
@@ -2484,6 +2596,24 @@
       "duration_ms": 200145,
       "name": "Masterpiece",
       "url": "https://open.spotify.com/track/4YiepHcrEBS5TSdIp7nY6Y"
+    },
+    {
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
       "album": {
@@ -2718,7 +2848,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 118153,
       "name": "obsessed",
       "url": "https://open.spotify.com/track/56CegTUDZpDr9zJnwBWfWo"
@@ -2950,7 +3080,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 186365,
       "name": "Please Please Please",
       "url": "https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP"
@@ -3106,6 +3236,24 @@
       "duration_ms": 151646,
       "name": "Running Wild",
       "url": "https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz"
+    },
+    {
+      "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
       "album": {
@@ -3470,6 +3618,24 @@
       "duration_ms": 172964,
       "name": "Strangers",
       "url": "https://open.spotify.com/track/5mjYQaktjmjcMKcUIcqz4s"
+    },
+    {
+      "album": {
+        "name": "SUCKS 4 U",
+        "url": "https://open.spotify.com/album/6vG7lCGILQAgUPpom2Cd40"
+      },
+      "artists": [
+        {
+          "name": "Mika B",
+          "url": "https://open.spotify.com/artist/5aCnOXGsybgY1LAJ3EVk3T"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184426,
+      "name": "SUCKS 4 U",
+      "url": "https://open.spotify.com/track/1zZrJ2dm3RAmYkWleMKEn3"
     },
     {
       "album": {

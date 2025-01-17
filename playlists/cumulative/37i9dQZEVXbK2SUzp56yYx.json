@@ -2083,6 +2083,24 @@
     },
     {
       "album": {
+        "name": "Chess Type Beat",
+        "url": "https://open.spotify.com/album/50Y5Qs42xHpfFHu0wDLhel"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Mus1c",
+          "url": "https://open.spotify.com/artist/3dJeNjOEz8d8bgWYiK8SPv"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120047,
+      "name": "Chess Type Beat",
+      "url": "https://open.spotify.com/track/4w2Bh4G4JBO9NQx3xvaCUK"
+    },
+    {
+      "album": {
         "name": "ATE",
         "url": "https://open.spotify.com/album/3WdsoMKRqtw5Sgg67YrpnY"
       },
@@ -3222,7 +3240,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 136370,
       "name": "Ela Vira Mortal",
       "url": "https://open.spotify.com/track/28Qri8CIMxJUQauS8YOR7o"
@@ -3306,6 +3324,32 @@
       "duration_ms": 206160,
       "name": "Empty",
       "url": "https://open.spotify.com/track/5kXxYIVOQeERF8SuP7ASDW"
+    },
+    {
+      "album": {
+        "name": "EMPTY FUNK",
+        "url": "https://open.spotify.com/album/5BKAwGbVKGIu7cJspBFsjs"
+      },
+      "artists": [
+        {
+          "name": "DJ Anemia",
+          "url": "https://open.spotify.com/artist/6vvNcm1On2wFwZNXB63a7B"
+        },
+        {
+          "name": "crier",
+          "url": "https://open.spotify.com/artist/3pxK1rdoF4Swqd00UH6wCl"
+        },
+        {
+          "name": "sixnite",
+          "url": "https://open.spotify.com/artist/1Yo7tf6JFEfruQgejOLkFk"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121666,
+      "name": "EMPTY FUNK",
+      "url": "https://open.spotify.com/track/35vfzOdNc9qIMlcIjzwxJP"
     },
     {
       "album": {
@@ -3512,7 +3556,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 282694,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/5CToP4zkykujDhW9841aGO"
@@ -3552,7 +3596,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 231626,
       "name": "FANTASTIC BABY - Japanese ver.",
       "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
@@ -3850,6 +3894,28 @@
       "duration_ms": 123888,
       "name": "Florida 2009",
       "url": "https://open.spotify.com/track/23M2pHxtt3QACQJKSYd69Y"
+    },
+    {
+      "album": {
+        "name": "Fly Me",
+        "url": "https://open.spotify.com/album/2IVpPaZ5Fg6i0WpFrfNXHG"
+      },
+      "artists": [
+        {
+          "name": "ShadowStep",
+          "url": "https://open.spotify.com/artist/36v2TgVqNVxF5tUhvVjfnv"
+        },
+        {
+          "name": "Nova Whisper",
+          "url": "https://open.spotify.com/artist/78pq2MH3SxnmSZvA5WexxN"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174495,
+      "name": "Fly Me",
+      "url": "https://open.spotify.com/track/0J0PzgQE1UfCp6BBmErofS"
     },
     {
       "album": {
@@ -10700,7 +10766,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 114882,
       "name": "SHAKE THAT",
       "url": "https://open.spotify.com/track/0sUSbOXNnBVDHH84Gbc0Nn"
@@ -11060,7 +11126,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 113161,
       "name": "SLAVA FUNK!",
       "url": "https://open.spotify.com/track/1qeRCHejHqPBTAFPRBVzxx"
@@ -12300,7 +12366,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -15748,8 +15814,8 @@
       },
       "artists": [
         {
-          "name": "NANSI",
-          "url": "https://open.spotify.com/artist/7BbV6H31H60o6HMrKZkUcG"
+          "name": "NANSI & SIDOROV",
+          "url": "https://open.spotify.com/artist/5TgPlgzIuyPLCw2CI8lIs1"
         }
       ],
       "date_added": "2025-01-15",
@@ -17862,7 +17928,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 246073,
       "name": "\u041b\u044e\u0431\u044f\u0442 \u0441\u0443\u043a\u0438",
       "url": "https://open.spotify.com/track/7iTyMRXGbIyGAprE9RMkGR"

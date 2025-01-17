@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/0gpLxjZBBdWsHJjQFS59Mt"
+      },
+      "artists": [
+        {
+          "name": "Jaclyn Victor",
+          "url": "https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245387,
+      "name": "Airmataku",
+      "url": "https://open.spotify.com/track/7M5oVMNHBdqUJqMTw9bHfm"
+    },
+    {
+      "album": {
         "name": "Akan Tiba",
         "url": "https://open.spotify.com/album/3jmjlZE6a2LyGocLvqrTVv"
       },
@@ -132,6 +150,24 @@
       "duration_ms": 211396,
       "name": "Aku Ada",
       "url": "https://open.spotify.com/track/0r5gRknwxWehOSfrcNQKKp"
+    },
+    {
+      "album": {
+        "name": "Aku Bukan Untukmu",
+        "url": "https://open.spotify.com/album/0eXUnKcyUFHZnDoBMQM6YD"
+      },
+      "artists": [
+        {
+          "name": "Anggi Marito",
+          "url": "https://open.spotify.com/artist/1JvbNeV9zG9Sew1JyaWsyx"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232533,
+      "name": "Aku Bukan Untukmu",
+      "url": "https://open.spotify.com/track/19zaLmqBM228wDPvrQyEUl"
     },
     {
       "album": {
@@ -252,7 +288,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 242000,
       "name": "Apa Artinya Aku",
       "url": "https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg"
@@ -624,7 +660,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 153910,
       "name": "Berbagi Hati - Piano Version - From \"Berbagi Suami\"",
       "url": "https://open.spotify.com/track/4ZjfH1wcBI8g1pXqXJtH7f"
@@ -682,7 +718,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 287465,
       "name": "Bermuara",
       "url": "https://open.spotify.com/track/2EijGQoEilhHWlQWMoS9Jc"
@@ -1066,7 +1102,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 283360,
       "name": "Cinta Dalam Hati",
       "url": "https://open.spotify.com/track/4NOniDRyYcBjF6m1x3U8TK"
@@ -1330,7 +1366,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 256000,
       "name": "Darah Versi Anugerah Juara lagu 38",
       "url": "https://open.spotify.com/track/0m5vnWLGAaRt3PJFzI3TTl"
@@ -2702,7 +2738,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 267600,
       "name": "Lintasan Yang Sama (From \"1 Imam 2 Makmum\")",
       "url": "https://open.spotify.com/track/5uBXRMFv9A22ZMR9WF4fxO"
@@ -3107,6 +3143,24 @@
     },
     {
       "album": {
+        "name": "Menjaga Jodoh Orang Lain",
+        "url": "https://open.spotify.com/album/2uL5VfwFoXV4C0Xtn01sVQ"
+      },
+      "artists": [
+        {
+          "name": "Ara Johari",
+          "url": "https://open.spotify.com/artist/0xuL8l2qakTAyURbZb1gtc"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272972,
+      "name": "Menjaga Jodoh Orang Lain",
+      "url": "https://open.spotify.com/track/2CneKWpjKErzqZhHID0avV"
+    },
+    {
+      "album": {
         "name": "Menyesal",
         "url": "https://open.spotify.com/album/13zfefPjKHsxUJm9SZFDtE"
       },
@@ -3249,6 +3303,24 @@
     },
     {
       "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3f55a3kyOyEaYLMpzy3nyu"
+      },
+      "artists": [
+        {
+          "name": "KRU",
+          "url": "https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/3e6jOLO8kabk6eOZ4zH0Nl"
+    },
+    {
+      "album": {
         "name": "Orang Yang Sama",
         "url": "https://open.spotify.com/album/4EERiS8fZYOxtHPn06HP8P"
       },
@@ -3296,7 +3368,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 285911,
       "name": "Paling Sejati",
       "url": "https://open.spotify.com/track/3c4kxwdR3X0p7lJpYYSGMg"
@@ -4166,7 +4238,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-04",
+      "date_removed": null,
       "duration_ms": 295520,
       "name": "Sephia",
       "url": "https://open.spotify.com/track/5gkTGkjFB5wAd3mSBEcQPY"
@@ -4692,7 +4764,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 225000,
       "name": "Terbang",
       "url": "https://open.spotify.com/track/6qKVuJFds2uONur7ijgJ6H"
@@ -4764,7 +4836,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 341984,
       "name": "Tetap Di Sini",
       "url": "https://open.spotify.com/track/2VC3pcCC1nMBRq2y1JbDHy"

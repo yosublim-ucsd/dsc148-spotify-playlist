@@ -1,6 +1,6 @@
 {
   "description": "Classics by the pioneers of the sound, and its modern-day icons. Cover: 100 gecs",
-  "num_followers": 86180,
+  "num_followers": 86212,
   "original_name": "Hyperpop Classics",
   "owner": {
     "name": "Spotify",
@@ -1395,18 +1395,22 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "#BrooklynBloodPop!",
-        "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
+        "name": "Here",
+        "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
       },
       "artists": [
         {
-          "name": "SyKo",
-          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        },
+        {
+          "name": "BFOTY",
+          "url": "https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM"
         }
       ],
-      "duration_ms": 145610,
-      "name": "#BrooklynBloodPop!",
-      "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
+      "duration_ms": 196000,
+      "name": "Here",
+      "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
     },
     {
       "added_at": "2024-10-09 21:55:22",
@@ -1427,22 +1431,18 @@
     {
       "added_at": "2024-10-09 21:55:22",
       "album": {
-        "name": "Here",
-        "url": "https://open.spotify.com/album/6CrQ6A6qRoOaKpr2XIWY25"
+        "name": "#BrooklynBloodPop!",
+        "url": "https://open.spotify.com/album/68i0gDIA5T5YVUIxj9QdsU"
       },
       "artists": [
         {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        },
-        {
-          "name": "BFOTY",
-          "url": "https://open.spotify.com/artist/4X11FRbQBCLdIhBEj4K9zM"
+          "name": "SyKo",
+          "url": "https://open.spotify.com/artist/08ZqXO40nMrhBoGma4kls2"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Here",
-      "url": "https://open.spotify.com/track/6jnagwUXc9pmbi4Pa6h5Z3"
+      "duration_ms": 145610,
+      "name": "#BrooklynBloodPop!",
+      "url": "https://open.spotify.com/track/7K9Z3yFNNLv5kwTjQYGjnu"
     },
     {
       "added_at": "2024-10-09 21:55:22",

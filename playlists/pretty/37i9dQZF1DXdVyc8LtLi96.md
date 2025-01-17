@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 
 > The perfect soundtrack to your morning yoga session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 514,027 likes - 233 songs - 11 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 514,026 likes - 233 songs - 11 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdVyc8LtLi96.md) - [plain]
 | 96 | [Faithful](https://open.spotify.com/track/2epHEGzdynPsNt6AXiBnC7) | [Ozo Nakuru](https://open.spotify.com/artist/2HhQt5oH01WtYFmwM2yVo7) | [Faithful](https://open.spotify.com/album/0DtDk3ENvhd5iZsTOqgAF2) | 2:47 |
 | 97 | [Spectral Vibrations](https://open.spotify.com/track/364Yxnly3Q1XvxWZRwFtS1) | [Paulo May](https://open.spotify.com/artist/1S2SOdkafLlGG0LrdubJz8) | [Spectral Vibrations](https://open.spotify.com/album/1HUU66yCQafwrpIxzyDsrF) | 2:26 |
 | 98 | [Silent Hills](https://open.spotify.com/track/6NHnpU4Yzjnv3qz7HsZELc) | [Silas Luminance](https://open.spotify.com/artist/1DIbK2TCw2wS7DagbMu8jp) | [Silent Hills](https://open.spotify.com/album/3uux2FHCWodo5aCJGdVPVd) | 2:54 |
-| 99 | [Sunrise](https://open.spotify.com/track/6MPa4Toa2Om1RQat7ebFuA) | [Jónias](https://open.spotify.com/artist/7m6P71I8tgua79uhyhTH6s) | [Sunrise](https://open.spotify.com/album/26SmTApfvPADDQxvytu7U1) | 2:24 |
+| 99 | [Sunrise](https://open.spotify.com/track/6MPa4Toa2Om1RQat7ebFuA) | [Jónias](https://open.spotify.com/artist/4O0ZNTJf8wzxOj1sMYEvl2) | [Sunrise](https://open.spotify.com/album/26SmTApfvPADDQxvytu7U1) | 2:24 |
 | 100 | [Metamorphic](https://open.spotify.com/track/6S5TAvYjNKzaVI5KR6DomW) | [Celestial Echoes](https://open.spotify.com/artist/2kPdGnJr2JeSSlSsyjS41v) | [Muse](https://open.spotify.com/album/0aWHdB87jdYmkjHfQU32gh) | 2:50 |
 | 101 | [Over the Surface](https://open.spotify.com/track/1bTZmrkQTfpa3PF9lRwwiL) | [Noah Moon](https://open.spotify.com/artist/6kXZd2PVpbPLWi6P0QQeQ8) | [Over the Surface](https://open.spotify.com/album/1S39bKXCs4zIwb205CCrYk) | 2:36 |
 | 102 | [A World Above](https://open.spotify.com/track/7x9bH00ovSbLyTMvsyvWNd) | [Lluvia Green](https://open.spotify.com/artist/7uXuTxl4VakzFuKYekOLbW) | [A World Above](https://open.spotify.com/album/6Tsuaro1rdAFo4QuNjzOX0) | 2:06 |

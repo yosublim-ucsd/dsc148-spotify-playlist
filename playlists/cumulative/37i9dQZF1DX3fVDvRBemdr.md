@@ -2,15 +2,16 @@
 
 ### [Liever Hollands](https://open.spotify.com/playlist/37i9dQZF1DX3fVDvRBemdr)
 
-> De nieuwste Hollandse hits\. Cover: Django Wagner & Nelis Leeman
+> Wekelijkse update met Hollands en volks\. Cover: Yves Berendse
 
-203 songs - 9 hr 55 min
+208 songs - 10 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\(Die Man Is\) Verliefd](https://open.spotify.com/track/3Sk76R83fWHlAO89n1IXgs) | [Jan Smit](https://open.spotify.com/artist/7iR5h6yGnTiswjsmj624Rq), [3JS](https://open.spotify.com/artist/2ZulgXPozVBLNaJPXR8MnV) | [\(Die Man Is\) Verliefd](https://open.spotify.com/album/6MYXtFqWqatgAk5U91a3J2) | 3:06 | 2024-06-13 | 2024-11-05 |
 | [1 keer in je leven](https://open.spotify.com/track/40k7gc5XwQdU7VtKrRnDAP) | [Franky Falcon](https://open.spotify.com/artist/5h6wepJ6CxnvxOnvm1dFXe) | [1 keer in je leven](https://open.spotify.com/album/3YXbHuDAqj7RSXgOfA0wpQ) | 2:47 | 2025-01-10 |  |
 | [Aan Van Jou](https://open.spotify.com/track/7FLlO7lEJLmELPvmOLczMc) | [Dave Dekker](https://open.spotify.com/artist/56M6joy09OXF448uVNKZ04) | [Aan Van Jou](https://open.spotify.com/album/2E4bDW6YmSI0ti9LQAxTir) | 2:10 | 2024-10-24 |  |
+| [Adem Mijn Adem](https://open.spotify.com/track/1huCWn6TC8SL3FqKzBIvCB) | [Sidney Jr](https://open.spotify.com/artist/2pyu7WTYovCZ6OKb1InFM6) | [Adem Mijn Adem](https://open.spotify.com/album/0JG9tfs0yqbPhSLpFLKKge) | 2:23 | 2025-01-16 |  |
 | [Alleen Met Jou](https://open.spotify.com/track/2K7HqkHEUfz7c4BzEO33Qd) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Emma Heesters](https://open.spotify.com/artist/3898xesz6JuQkpz7Kiu4uM) | [Alleen Met Jou](https://open.spotify.com/album/7HgRghVOzefgyXloz5HUmq) | 3:13 | 2024-09-26 |  |
 | [Alleen Voor Jou](https://open.spotify.com/track/6EdPaa3SnUuHRPZz1gsunZ) | [Joeri Plaizier](https://open.spotify.com/artist/5qp7iwZO2wQ3WzHZjvb9w1) | [Alleen Voor Jou](https://open.spotify.com/album/06wadVvM0mzgu4dSvClxy1) | 3:15 | 2024-06-27 | 2024-11-30 |
 | [Allemaal Naar Rhodos](https://open.spotify.com/track/6svays9BgKtZDe9PCgyJWm) | [Jan Biggel](https://open.spotify.com/artist/0fJJXAAxGeDwdS7HCUVkbs) | [Allemaal Naar Rhodos](https://open.spotify.com/album/3cPh6IbUR6yLVCwTrU6eOR) | 2:40 | 2024-06-13 | 2024-09-13 |
@@ -53,9 +54,11 @@
 | [Drink Het Leven](https://open.spotify.com/track/1tF2QPGA5j4yaLdpHJAuro) | [Rene Karst](https://open.spotify.com/artist/3upXQVqKZlTKRES3LQ9VjO) | [Drink Het Leven](https://open.spotify.com/album/5IVmOIuXyOhjnvSIZzSnZF) | 2:37 | 2024-06-13 | 2024-08-30 |
 | [Duizend kussen](https://open.spotify.com/track/1I4U08uGUi9zqpG5SzTpSY) | [Melissa Smilda](https://open.spotify.com/artist/4AA6vrWQc9c05MQLorDzu1) | [Duizend kussen](https://open.spotify.com/album/0HXNMyRDmf1xSibq4QQMGi) | 2:49 | 2024-11-28 | 2025-01-07 |
 | [Echte Liefde](https://open.spotify.com/track/2TNoer9mGPTcEApGkgeov2) | [Maxim Froger](https://open.spotify.com/artist/1DBS9sxZ31hPIcJmdH16te) | [Echte Liefde](https://open.spotify.com/album/5X6HJfWLdfrVBOroYScrVD) | 2:35 | 2024-11-04 |  |
+| [Een B&B Vol Liefde](https://open.spotify.com/track/4DKXbqXBOQwUrshlRmjStP) | [Roy Donders](https://open.spotify.com/artist/4UuqYrvax6M2JXhQ3lwB1L) | [Een B&B Vol Liefde](https://open.spotify.com/album/1ufnGNT0WdaU3qC1VKcBjS) | 3:03 | 2025-01-16 |  |
 | [Een Druppeltje Geluk](https://open.spotify.com/track/4Kp5K5QOiaQTXAkYHVlgnn) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Een Druppeltje Geluk](https://open.spotify.com/album/1Gyh2UyLO4xNOwjKxtAiJ7) | 3:17 | 2025-01-10 |  |
 | [Een Hemels Feest](https://open.spotify.com/track/1rcNMAQ6BVcXi3YhGNXbfJ) | [Edwin Van Der Toolen](https://open.spotify.com/artist/30V9SaUhU48JzEtGT7x8eI) | [Een Hemels Feest](https://open.spotify.com/album/2L3IbhLTe5lfCCFS0BMJBi) | 2:58 | 2024-11-04 |  |
 | [Engelengezang](https://open.spotify.com/track/0DL5ZiYdN0I4xpJ1yJfvC4) | [Donnie](https://open.spotify.com/artist/2ylIKKdMukkuprCgY4ZDFE), [Snollebollekes](https://open.spotify.com/artist/2DbTbUZFWbi3U3QzgJqU0V) | [Engelengezang](https://open.spotify.com/album/4DrqmEKNUHc0Sz8BIVspX6) | 2:42 | 2024-06-13 | 2024-08-30 |
+| [Eénmaal in je leven](https://open.spotify.com/track/4xFvReJI2AjrX3hNS9jXe5) | [Tamara Tol](https://open.spotify.com/artist/2fFKIJDGZZ89gLkVDdy7Uj) | [Eenmaal In Je Leven](https://open.spotify.com/album/198g0LrDssZW4QnCBdQFlX) | 3:13 | 2025-01-16 |  |
 | [Fix Dit](https://open.spotify.com/track/0D8HUOCvEg6wI14uMRMMnp) | [Kevin Paré](https://open.spotify.com/artist/3foumwQXx47LtL6TcTLLrU) | [Fix Dit](https://open.spotify.com/album/1FcjHOstEG3MaZw3ancFSt) | 2:41 | 2024-10-18 | 2024-11-29 |
 | [Flamingo \(Jij Bent Het Voor Mij\)](https://open.spotify.com/track/2x5y65TCqOrDFiuDs7Kk7D) | [Donny Ponsen](https://open.spotify.com/artist/2QCOjdjvz66HWNnDIcLv4N) | [Flamingo \(Jij Bent Het Voor Mij\)](https://open.spotify.com/album/0EfaQbxpGrpG4Cu0UxKA7y) | 2:50 | 2024-06-13 | 2024-08-30 |
 | [Frans Thuis](https://open.spotify.com/track/2Hd5d3K74UMj0GGcrIousD) | [Frans Duijts](https://open.spotify.com/artist/3VVxpV5qfkhLkLZjXB274t) | [Frans Thuis](https://open.spotify.com/album/5OR7PPsLA2E4exXadxkVNV) | 2:53 | 2024-06-13 | 2024-10-04 |
@@ -71,6 +74,7 @@
 | [Het Heden](https://open.spotify.com/track/0CiTmFrxDMGN57vRrZ20nY) | [Charelle](https://open.spotify.com/artist/4Jipfp3lXzbLWtJrzVPJqG) | [Het Heden](https://open.spotify.com/album/5rX4yCiSRGHorLA752nGv8) | 3:03 | 2024-11-21 | 2024-12-13 |
 | [Het Lijkt Hier Wel Ibiza](https://open.spotify.com/track/3vz8UKPERttXraKTnrGyAL) | [Jaman](https://open.spotify.com/artist/6VIHmm4hJ3OG1yy9fGbECD), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Het Lijkt Hier Wel Ibiza](https://open.spotify.com/album/6njQsNf4hEvlm2HOY7XLyg) | 2:26 | 2024-06-13 | 2024-10-19 |
 | [Het Regent Pijpenstelen](https://open.spotify.com/track/1MhoNw8jlaZs6ItTGREl7X) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Het Regent Pijpenstelen](https://open.spotify.com/album/4CzGuGHyT7rjwlnkHB9Szp) | 3:08 | 2025-01-06 |  |
+| [Hobbel Hobbel](https://open.spotify.com/track/1I3SaCDWwpP6ecFRv9URsW) | [Arjon Oostrom](https://open.spotify.com/artist/2sdP2pb74y3kf44RxZwaCb) | [Hobbel Hobbel](https://open.spotify.com/album/7zFB1p8TevtJViAZwexvY6) | 2:32 | 2025-01-16 |  |
 | [Hoe Heet Je](https://open.spotify.com/track/0iWZVj23pIypIYVEVwczGi) | [Sam Vanvelthoven](https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64) | [Hoe Heet Je](https://open.spotify.com/album/1WpqIFIywitTybloFfBw8C) | 2:58 | 2024-09-26 |  |
 | [Hoe Ik Leven Moet](https://open.spotify.com/track/1HwamkGmsC5nZxkTiiRRcr) | [Jan van Est](https://open.spotify.com/artist/1feKpwHpzkvIwaG7a8KwhE) | [Hoe Ik Leven Moet](https://open.spotify.com/album/4XSGwd3KwnR1XCpdSN2L11) | 2:58 | 2024-07-04 | 2024-11-15 |
 | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/track/6nmHOYTnybAfvIVCFdnkhe) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Hoeveel Tranen Moet Ik Huilen](https://open.spotify.com/album/43DsXBmo9W3116cbfZLLFm) | 3:28 | 2024-08-01 | 2025-01-11 |
@@ -172,6 +176,7 @@
 | [Tranen van verdriet](https://open.spotify.com/track/4VDpZbdDERhCB5BbKWIsQe) | [Aukje Fijn](https://open.spotify.com/artist/24F7Q3t78T3UiunGmInQzG) | [Tranen van verdriet](https://open.spotify.com/album/4vnWiavaa1s7dfSfpjlCDq) | 3:12 | 2024-10-18 | 2024-11-29 |
 | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/track/1WnSszjfLVZUTDPS57LkO6) | [Robert Pater](https://open.spotify.com/artist/4F9stJgctKH0bQc4JPmgfd) | [Tranen Zijn Niet Alleen Om Te Huilen](https://open.spotify.com/album/0sTVCFY1xkJQNxNwzQ57GI) | 2:59 | 2024-06-13 | 2024-10-04 |
 | [Van Brabant naar Bordeaux](https://open.spotify.com/track/6jSvbOJNCvgeTBQS0LVlRk) | [Frans Bauer](https://open.spotify.com/artist/0v4CvkMzWBQ1wZIMl2BqQW), [Kafke](https://open.spotify.com/artist/0nC1zkioNJaPntz8XAeLx9) | [Van Brabant naar Bordeaux](https://open.spotify.com/album/3tAR71Sp3TMaRyksREFpl6) | 3:02 | 2024-06-13 | 2024-07-12 |
+| [Vandaag Ben Ik Van Jou](https://open.spotify.com/track/1DhAbQBX3GtlSH2qnZPei9) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F) | [Vandaag Ben Ik Van Jou](https://open.spotify.com/album/6kQ7PZDZMsHTrQwL8sqt4f) | 2:57 | 2025-01-16 |  |
 | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/track/7gv9Ky47iGM6LRp5aO5tkt) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Monq](https://open.spotify.com/artist/1rJlC9RjWWeFaz8UpFKnrs) | [Vannacht Slaap Jij Bij Mij](https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj) | 2:28 | 2024-06-27 | 2024-11-05 |
 | [Venten Voor Me Centen](https://open.spotify.com/track/63dE87uLfQbiA1lwNq880B) | [Frank Van Etten](https://open.spotify.com/artist/6idunrSGiChqlZG6MJVhHM) | [Venten Voor Me Centen](https://open.spotify.com/album/5X6H2BTSqGNL2JXuoMTp9b) | 2:38 | 2024-11-14 |  |
 | [Verder met m'n leven](https://open.spotify.com/track/0PAlZloFNKcaOytm3Vhmcq) | [Jannes](https://open.spotify.com/artist/02ydjJPvRKpejxRzZyHdaq) | [Verder met m'n leven](https://open.spotify.com/album/3Yh72jE3SNMTxSOKOdRXM3) | 4:21 | 2024-11-28 |  |

@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-894 songs - 2 day 2 hr 46 min
+895 songs - 2 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -495,6 +495,7 @@
 | [Moment](https://open.spotify.com/track/0NWoUXhNcS7vih0UUkF5IT) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V) | [Moment](https://open.spotify.com/album/4RZPytmLloX8b4U8MuKZT8) | 2:42 | 2022-07-01 | 2022-09-17 |
 | [Moment \- Worlds Version](https://open.spotify.com/track/7wfquD5DrEBAqqZEXJoJa2) | [Athena](https://open.spotify.com/artist/35e9lLLCAkexOFe3m0pK0W), [smle](https://open.spotify.com/artist/1JV42BPeocUJ0EyQh8ug6V), [Isaac App](https://open.spotify.com/artist/2OSFdgs18suoiLJWRcqiEy) | [Moment \(Worlds Version\)](https://open.spotify.com/album/7jLueD1XaPlGgP6NSogvXx) | 3:07 | 2022-08-01 | 2022-10-19 |
 | [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 | 2024-06-06 | 2024-08-29 |
+| [Money](https://open.spotify.com/track/7MorE45c2IBxEgksN84Fl2) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Money](https://open.spotify.com/album/2II1KH1QTYVhSLdfubOaVV) | 3:07 | 2025-01-16 |  |
 | [Money Moves](https://open.spotify.com/track/3suSF65zOkTbdxe4Rqq4fl) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [Clique / Money Moves](https://open.spotify.com/album/0e6cA2frdBLzNMXHqGRjvX) | 2:43 | 2023-11-01 | 2024-02-15 |
 | [Monster](https://open.spotify.com/track/1qhfJLtwPoXN34TbQJegeA) | [VESK GREEN](https://open.spotify.com/artist/4D6SwsmIOKAcd2sMavDqxo) | [Monster](https://open.spotify.com/album/4wfYav7zgRz4hZMqP1t2O0) | 3:04 | 2022-09-15 | 2022-11-12 |
 | [Moonstone](https://open.spotify.com/track/2QWxkFKhi9YUtrQmf9JHxU) | [Aether](https://open.spotify.com/artist/5UyjnQfu4OsLGiOi3sIoEN) | [Moonstone](https://open.spotify.com/album/4kcRF7VJVx69pJXecrPDyi) | 3:20 | 2023-03-14 | 2023-06-08 |
@@ -668,7 +669,7 @@
 | [Say My Name](https://open.spotify.com/track/2fbgpGt8u8ErxMT2cruio8) | [Britt Lari](https://open.spotify.com/artist/7ErksWhMMsmGtgT1l1e159) | [Say My Name](https://open.spotify.com/album/6RA60E1Fm7C2Up4aKRDLcV) | 2:17 | 2023-03-16 | 2023-06-09 |
 | [Scared To Love Again](https://open.spotify.com/track/0yadIA9MoZ46fXzRJuoqHk) | [Aviella](https://open.spotify.com/artist/5UA4NsiBgSQICPFMDKcPAe) | [Scared To Love Again](https://open.spotify.com/album/3JWq7zuTNhKFz6DhfSUVDP) | 2:58 | 2023-08-09 | 2023-12-14 |
 | [scars](https://open.spotify.com/track/2wz4bHcKZgbfZGzZ0LB2fn) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [scars](https://open.spotify.com/album/7HCCNdm9M09VVaa17mOjES) | 3:25 | 2022-10-25 | 2023-01-13 |
-| [Scorched Earth](https://open.spotify.com/track/0QtWkMmAvxkeZobKRyXBen) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Scorched Earth](https://open.spotify.com/album/4vrG5DwAVj7PWk44B3450q) | 4:40 | 2024-10-09 |  |
+| [Scorched Earth](https://open.spotify.com/track/0QtWkMmAvxkeZobKRyXBen) | [Virtual Riot](https://open.spotify.com/artist/4FXGRMSHh2JjHxVwS8dhH1) | [Scorched Earth](https://open.spotify.com/album/4vrG5DwAVj7PWk44B3450q) | 4:40 | 2024-10-09 | 2025-01-17 |
 | [SCREAM](https://open.spotify.com/track/3qq89osKsMStTQABp8AQMc) | [hayve](https://open.spotify.com/artist/6HT10ZbNJFIRYirBe3PTxs), [Typhon](https://open.spotify.com/artist/1dHoVVD7qBHRyfL7PU1bgb) | [SCREAM](https://open.spotify.com/album/6JW07jsKeDGok4VWxIFGYb) | 3:47 | 2023-05-09 | 2023-08-04 |
 | [SCUMBAG](https://open.spotify.com/track/033oLyTtjiWPmHadxRcBm9) | [Godlands](https://open.spotify.com/artist/2BW6zD5lzOxdEFWrgsHMq8) | [GODSP33D](https://open.spotify.com/album/4zzDlOcgTKHR7QiA1I6VHv) | 3:06 | 2022-06-16 | 2022-08-27 |
 | [Sea Turtles](https://open.spotify.com/track/1PNwfTqnN6vECSMjb5sluO) | [IVORY](https://open.spotify.com/artist/4820AP0lvBGJjSK0PXgZgo) | [Sea Turtles](https://open.spotify.com/album/30aZunnIfn312Vtv4C3tiV) | 3:57 | 2023-07-24 | 2023-12-14 |
@@ -708,7 +709,7 @@
 | [So Far Away](https://open.spotify.com/track/2tKElQZfUyUQjDZwP2tOWF) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [LOST](https://open.spotify.com/album/2IKVthOoA0M9xgN4PL8Otj) | 3:39 | 2022-06-20 | 2022-09-02 |
 | [So High](https://open.spotify.com/track/3PdssIeO7774PbZquBoYMA) | [Codeko](https://open.spotify.com/artist/7FZKXzbyCoai0fEh65kZKp), [Bertie Scott](https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro) | [So High](https://open.spotify.com/album/77BLeJIkcNdUQB6u1hNXOZ) | 3:27 | 2024-05-02 | 2024-07-23 |
 | [So Lost](https://open.spotify.com/track/6FxRjxdst4FEPDFZ3a8Zik) | [Bad Computer](https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk), [imallryt](https://open.spotify.com/artist/5WXjAq5jNEHfrvZDhEYDDD) | [So Lost](https://open.spotify.com/album/6ODRIjsZYGjS2AOB9XkeXN) | 3:08 | 2024-05-09 | 2024-07-31 |
-| [Solace](https://open.spotify.com/track/2a2ue6juHldn6FAgzflCYs) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Solace](https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4) | 2:56 | 2024-10-08 |  |
+| [Solace](https://open.spotify.com/track/2a2ue6juHldn6FAgzflCYs) | [Shingo Nakamura](https://open.spotify.com/artist/58zz0VTpGNHn7MGTlW2cxQ), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [Nina Carr](https://open.spotify.com/artist/776UugG4CdQlYfsEUVCRqb) | [Solace](https://open.spotify.com/album/1A5i4MuUVZLhHpQ8ag68e4) | 2:56 | 2024-10-08 | 2025-01-17 |
 | [Solitude](https://open.spotify.com/track/67DhcoHxHggjsp2nHaGHVk) | [Finding Mero](https://open.spotify.com/artist/01F2xKu2BblqA0nG21zvzs) | [Solitude](https://open.spotify.com/album/1W6wGDkV53mnhRSTQrH8gx) | 3:00 | 2025-01-07 |  |
 | [Somebody With You](https://open.spotify.com/track/5Sf3dZWTxBop7LR8N0LnMC) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Somebody With You](https://open.spotify.com/album/1WzA5myrnTJTxOYZYmrbpK) | 2:59 | 2024-10-03 | 2025-01-11 |
 | [Someday](https://open.spotify.com/track/1GiPvfJ558pRE7kP3X7vxd) | [Cressida](https://open.spotify.com/artist/3TarSQLteG4x5prong6iPz), [Lumynesynth](https://open.spotify.com/artist/2piOPWDGkopcabpha2zngD) | [Someday](https://open.spotify.com/album/2wlgrRRWuzfOQAJ9qc7YKo) | 3:36 | 2022-11-23 | 2023-02-18 |

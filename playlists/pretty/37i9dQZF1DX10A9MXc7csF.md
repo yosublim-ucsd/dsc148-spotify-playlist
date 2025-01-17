@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 
 > The new school of Música Mexicana\. Cover: Raúl Beltrán
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,675 likes - 100 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,730 likes - 100 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX10A9MXc7csF.md) - [plain]
 | 60 | [Los Hombres Tambien Lloran](https://open.spotify.com/track/5MHS9oz2ejEbnY2lh0TY9n) | [GHT Official](https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8) | [Los Hombres Tambien Lloran](https://open.spotify.com/album/4laRqveSThcLcHq4zU0i8b) | 3:10 |
 | 61 | [Ya Valió V Mijo](https://open.spotify.com/track/7araC1Y04ID19K2jyJlO6C) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Ya Valió V Mijo](https://open.spotify.com/album/2s5mmGfRGac9feemnIb3mi) | 2:41 |
 | 62 | [La Tiendita](https://open.spotify.com/track/36PJ9eVxnnGddOSV8TxR3l) | [Victor Valverde](https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf) | [La Tiendita](https://open.spotify.com/album/0Vyjqv0wmZLjjccE06M9Xc) | 3:36 |
-| 63 | [Pero Esa Vez Llore](https://open.spotify.com/track/1HLVA86qyMw9DMUFc8IW1k) | [Torrente](https://open.spotify.com/artist/5ZVx6Kk09abRMkgfzh650x) | [Pero Esa Vez Llore](https://open.spotify.com/album/7zlyZ8FwOgjw0nyKCZdH9u) | 3:18 |
+| 63 | [Pero Esta Vez Llore](https://open.spotify.com/track/1HLVA86qyMw9DMUFc8IW1k) | [Torrente](https://open.spotify.com/artist/5ZVx6Kk09abRMkgfzh650x) | [Pero Esta Vez Llore](https://open.spotify.com/album/7zlyZ8FwOgjw0nyKCZdH9u) | 3:18 |
 | 64 | [LO QUE SOÑE](https://open.spotify.com/track/2eqeJmVxzb14jRGxV0wRdz) | [Brian Santin](https://open.spotify.com/artist/7yqNw1jSOfhiP62pXYggdx) | [LO QUE SOÑE](https://open.spotify.com/album/5knwvWHV07wy2K25xUkv8m) | 2:53 |
 | 65 | [Ya me la sé](https://open.spotify.com/track/1kybe0vkhMzJ3lrpVnXqDi) | [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [Ya me la sé](https://open.spotify.com/album/632xlhBw9VwPvgW7CFoTxp) | 1:57 |
 | 66 | [Trippy Love](https://open.spotify.com/track/58MPaYlQ73JTa2DwkMDEyM) | [Ysrael Barajas](https://open.spotify.com/artist/1KUm2LsC3HnPKHvIoo4cKu), [Oscar Ortiz](https://open.spotify.com/artist/0FvHxb8a4I0A2i8jKCsFei) | [Trippy Love](https://open.spotify.com/album/4OUD5Az0wnZs7jgHVxatak) | 3:44 |

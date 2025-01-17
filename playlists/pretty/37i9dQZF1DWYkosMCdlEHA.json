@@ -1,6 +1,6 @@
 {
   "description": "Vers\u00f5es desplugadas para curtir um reggae com os p\u00e9s na areia!",
-  "num_followers": 147022,
+  "num_followers": 147031,
   "original_name": "Luau Jah",
   "owner": {
     "name": "Spotify",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-07-05 13:49:13",
       "album": {
+        "name": "Lunar (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/6JxiS92qZJ409A1qe7O9cW"
+      },
+      "artists": [
+        {
+          "name": "3030",
+          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
+        }
+      ],
+      "duration_ms": 240666,
+      "name": "Lunar (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2lPrHZNBWAWPpoWuakumNP"
+    },
+    {
+      "added_at": "2024-07-05 13:49:13",
+      "album": {
         "name": "Pra Voar / Posso Ser (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/7lEPNP5nRxPQhpFErWoGLV"
       },
@@ -1067,22 +1083,6 @@
       "duration_ms": 209499,
       "name": "Pra Falar de Amor",
       "url": "https://open.spotify.com/track/2wYebg7tdJDu77sPEcJrjp"
-    },
-    {
-      "added_at": "2024-07-05 13:49:13",
-      "album": {
-        "name": "Lunar (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/6JxiS92qZJ409A1qe7O9cW"
-      },
-      "artists": [
-        {
-          "name": "3030",
-          "url": "https://open.spotify.com/artist/3OHpci0ruhvaMv9F795LR5"
-        }
-      ],
-      "duration_ms": 240666,
-      "name": "Lunar (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2lPrHZNBWAWPpoWuakumNP"
     },
     {
       "added_at": "2024-07-05 13:49:13",

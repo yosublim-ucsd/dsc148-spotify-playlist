@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Bad Bunny
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,536 likes - 90 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,597 likes - 90 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,7 +84,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 74 | [Cumbia Mix: Inventame / Mi verdad / Inevitable](https://open.spotify.com/track/2opfmvZhOHdcdXw8GWSQrV) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo) | [Cumbia Mix: Invéntame / Mi verdad / Inevitable](https://open.spotify.com/album/2piplSe5rIAuG6gtvBQKp3) | 10:28 |
 | 75 | [Dos Dias](https://open.spotify.com/track/2CjAvddX3v0q18wzJlThep) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [Ezequiel Y La Clave](https://open.spotify.com/artist/74CIXR2mbIKC3gRYZQqKdY) | [Dos Dias](https://open.spotify.com/album/5NBhxv04cPcmr21qO5EmWP) | 2:54 |
 | 76 | [No Me Sigas Más \- En Vivo](https://open.spotify.com/track/26sh3TichZ1YnLGHvCnJVP) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [35 Años \(En Vivo\)](https://open.spotify.com/album/1aMMeshkQBx8XjnABlzGMn) | 4:01 |
-| 77 | [Zapada 3](https://open.spotify.com/track/5lV1gffVy0Tygf7OJONcp7) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Marquino](https://open.spotify.com/artist/5n2lMOgoFG8IFl8ejMraL4), [Soy el Manu](https://open.spotify.com/artist/6vYsRTPWrNVTckLCWr8WNp) | [Zapada 3](https://open.spotify.com/album/1EYq1D8HcXFwMG9zw9wJ0H) | 5:18 |
+| 77 | [Zapada 3](https://open.spotify.com/track/5lV1gffVy0Tygf7OJONcp7) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Marquino](https://open.spotify.com/artist/4jaw5iogUkmoylPtcoBtJS), [Soy el Manu](https://open.spotify.com/artist/6vYsRTPWrNVTckLCWr8WNp) | [Zapada 3](https://open.spotify.com/album/1EYq1D8HcXFwMG9zw9wJ0H) | 5:18 |
 | 78 | [Re Locos Otra Vez](https://open.spotify.com/track/2RLI4XpPQu1qeli6xfGrXa) | [Sound De Barrio](https://open.spotify.com/artist/6jz0DkcaOtGlaNOA67rzIU) | [Re Locos Otra Vez](https://open.spotify.com/album/0Ia5qYXUpmPGGPRb6AKkVk) | 3:53 |
 | 79 | [Luchándola \(feat\. Gino Mella\)](https://open.spotify.com/track/4leKIDjhht6eDv5U4nUSI1) | [Lleflight](https://open.spotify.com/artist/5GpRyfJV04fcnHBDzfVb8V), [Arte Elegante](https://open.spotify.com/artist/1F6ZW5IEGN0HB9LTtldRq0), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [Gino Mella](https://open.spotify.com/artist/7HYJrA3HSTNDmkl5pylhaY) | [Luchándola \(feat\. Gino Mella\)](https://open.spotify.com/album/0dlQAmdZSoqpgjt3b5a8wm) | 4:56 |
 | 80 | [MUSA](https://open.spotify.com/track/2XMCyvwPtoAKfjfuceG7BS) | [Nickoog Clk](https://open.spotify.com/artist/6rHwFb0YjWexAYxTjm4eIj) | [MUSA](https://open.spotify.com/album/0NKpQX4PIcjwO0RcpEpFwc) | 3:11 |

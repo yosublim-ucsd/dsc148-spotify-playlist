@@ -4,7 +4,7 @@
 
 > The best indie rock vibes — classic and current.
 
-723 songs - 1 day 16 hr 52 min
+724 songs - 1 day 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [Goodie Bag](https://open.spotify.com/track/4vHNeBWDQpVCmGbaccrRzi) | [Still Woozy](https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y) | [Goodie Bag](https://open.spotify.com/album/0y8sikccXZ3TIW4PkjtI8R) | 2:26 | 2022-07-22 | 2023-09-30 |
 | [Goodpain](https://open.spotify.com/track/3rFeq7vjP5iyhEDssZV49n) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/4qaroMmrZ5Wdo5E1xjt6c8) | 4:21 | 2021-05-01 | 2022-07-29 |
 | [Goodpain](https://open.spotify.com/track/4DHhTy2dYNd8IiW0aMQ24X) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Goodpain](https://open.spotify.com/album/6Q4q3XFs8KRDj9mTfNlQSm) | 4:21 | 2023-05-26 | 2023-09-30 |
+| [Grapes](https://open.spotify.com/track/6miITqwOEI6eiVLyGBKwW2) | [James Marriott](https://open.spotify.com/artist/14apS9tKI3K30GK92BNQUL) | [Bitter Tongues](https://open.spotify.com/album/0Q2LN4KSzWYWbMxyb2rCfO) | 3:45 | 2025-01-17 |  |
 | [Greek Tragedy](https://open.spotify.com/track/28C4nmrd7BTu0XbOmaTHZr) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Glitterbug \(Deluxe Edition\)](https://open.spotify.com/album/0n5sLhq91buJwIW4j3Ji0I) | 3:29 | 2021-05-01 | 2023-09-30 |
 | [Greenhouse](https://open.spotify.com/track/5ocop7SJaAtCK7cGc5p2JD) | [Miloe](https://open.spotify.com/artist/3HdQTgQSncptIPjDgskWbu) | [Greenhouse EP](https://open.spotify.com/album/5CHPfB4oMbUaY06b0jGMGi) | 4:33 | 2021-05-01 | 2022-07-29 |
 | [Gym Song](https://open.spotify.com/track/0BwhgXS1o78vTL3juOGBHG) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [Body](https://open.spotify.com/album/18M0hSf4BfCmGczIcuEbc1) | 3:20 | 2021-05-01 | 2022-04-14 |
@@ -623,7 +624,7 @@
 | [T Love](https://open.spotify.com/track/1DMLc4avhS9tZZqI8VVtr5) | [Quarters of Change](https://open.spotify.com/artist/0mnruuV4CcKu7Ux7kBZ5sa) | [T Love](https://open.spotify.com/album/3ppnqC8JtzBM9nq6VZbEqB) | 5:10 | 2022-05-01 | 2022-07-29 |
 | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/track/1QL7nSDZCwZMnbisV4KOXt) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Travis Barker](https://open.spotify.com/album/4ar4zcVlbYDYKgq5wEdq0T) | 2:48 | 2022-04-13 | 2023-03-25 |
 | [T\-Shirt Weather](https://open.spotify.com/track/2EPwH1bWUcre7x8I00EAky) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [T\-Shirt Weather](https://open.spotify.com/album/1inNompGZlO3udKQ2n0fW9) | 3:14 | 2021-05-01 | 2022-04-21 |
-| [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-24 |  |
+| [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-24 | 2025-01-17 |
 | [Take Me Home](https://open.spotify.com/track/74H6FaW1ECbpgeEeIKngiO) | [Sadie Hawkins](https://open.spotify.com/artist/3xi1MRuWu2m9XDZPMZgmTo) | [Take Me Home](https://open.spotify.com/album/1wOECZmEQDzcaNLTmqDC6o) | 3:59 | 2021-05-01 | 2022-04-14 |
 | [Take You Back](https://open.spotify.com/track/5xjDVAPLOovtYtzswnCxRS) | [Purr](https://open.spotify.com/artist/7iKAKm7fkVOfNvcdqMlYzP) | [Take You Back](https://open.spotify.com/album/4KQ1bIDdoQgUILRQBxiWkB) | 3:36 | 2021-05-01 | 2022-04-12 |
 | [Talk is Cheap](https://open.spotify.com/track/45DFMibGGTU5cqIi1cU1EZ) | [Dr\. Dog](https://open.spotify.com/artist/4mLJ3XfOM5FPjSAWdQ2Jk7) | [Dr\. Dog](https://open.spotify.com/album/4gjV2tn14HAQusWUf4GKtl) | 4:30 | 2024-07-26 |  |

@@ -1,13 +1,61 @@
 {
-  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Miki",
-  "num_followers": 106400,
+  "description": "D\u00e9couvrez les nouveaut\u00e9s des artistes RADAR France. Photo : Sherifflazone",
+  "num_followers": 106402,
   "original_name": "RADAR FRANCE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZwRZ4AAAAADEVoZZdMi+FMtrWYJ7xWXh",
+  "snapshot_id": "Z4mPlgAAAADyfrPwx4hXwthj5D6qkPl8",
   "tracks": [
+    {
+      "added_at": "2025-01-16 23:00:38",
+      "album": {
+        "name": "CAVALE! CAVALE!",
+        "url": "https://open.spotify.com/album/68AEssE8c18RfEo7e8XTMZ"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "duration_ms": 149840,
+      "name": "CAVALE! CAVALE!",
+      "url": "https://open.spotify.com/track/0ZQLRkRyn3300WyapdPoWT"
+    },
+    {
+      "added_at": "2025-01-16 23:00:38",
+      "album": {
+        "name": "SHERIFF",
+        "url": "https://open.spotify.com/album/3p511CfQ01Bltq9XD4l1II"
+      },
+      "artists": [
+        {
+          "name": "Sherifflazone",
+          "url": "https://open.spotify.com/artist/3LkkxNCsK47Af8vXoIVG0L"
+        }
+      ],
+      "duration_ms": 130285,
+      "name": "SHERIFF",
+      "url": "https://open.spotify.com/track/0OLTRDHMkxaxG2lxj9JTWe"
+    },
+    {
+      "added_at": "2025-01-16 23:00:38",
+      "album": {
+        "name": "L'id\u00e9e de toi",
+        "url": "https://open.spotify.com/album/55r8lz3hQkCVjOUd2u30Yf"
+      },
+      "artists": [
+        {
+          "name": "Satine",
+          "url": "https://open.spotify.com/artist/7Abx1tdwQoBDWr1nD1o62B"
+        }
+      ],
+      "duration_ms": 122117,
+      "name": "L'id\u00e9e de toi",
+      "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
+    },
     {
       "added_at": "2024-10-07 22:00:00",
       "album": {

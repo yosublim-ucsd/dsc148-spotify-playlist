@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Ashbeck",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kidwild",
   "name": "Rap UK",
   "tracks": [
     {
@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 176000,
       "name": "Belly",
       "url": "https://open.spotify.com/track/3vn014QextPOcH3jyhfFiE"
@@ -5924,7 +5924,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 122577,
       "name": "Both Ways",
       "url": "https://open.spotify.com/track/5ifGS6HtUC6hLStAIbgzXG"
@@ -10216,7 +10216,7 @@
       ],
       "date_added": "2024-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 141047,
       "name": "Demure",
       "url": "https://open.spotify.com/track/0Rr2gpHt1LEiVqB4lcLa8N"
@@ -13618,7 +13618,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 188577,
       "name": "Females Lingo",
       "url": "https://open.spotify.com/track/52EjKsvP7ivASaiyP7WpAv"
@@ -15010,6 +15010,28 @@
       "duration_ms": 150000,
       "name": "GBG (Always Us)",
       "url": "https://open.spotify.com/track/4U2RFswBperWBAftJBiEPH"
+    },
+    {
+      "album": {
+        "name": "GBP (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
     },
     {
       "album": {
@@ -24649,6 +24671,28 @@
     },
     {
       "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/26hzxv39hvWTG6t5zO8oQJ"
+      },
+      "artists": [
+        {
+          "name": "ONEFOUR",
+          "url": "https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U"
+        },
+        {
+          "name": "Abra Cadabra",
+          "url": "https://open.spotify.com/artist/1ZHk8dteZz6Vi2HFp4hGoM"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212054,
+      "name": "MOVIE",
+      "url": "https://open.spotify.com/track/6Lo7ml7DFnDw2XNlv5c84p"
+    },
+    {
+      "album": {
         "name": "Now Or Never",
         "url": "https://open.spotify.com/album/5soJZYqnqYtFox8FxKldOv"
       },
@@ -26242,6 +26286,24 @@
       "duration_ms": 180594,
       "name": "Not Guilty",
       "url": "https://open.spotify.com/track/3lIh24EtpWzwDbChSrcrCR"
+    },
+    {
+      "album": {
+        "name": "Not The One",
+        "url": "https://open.spotify.com/album/7ky33adA4nCmKbr1dmx66h"
+      },
+      "artists": [
+        {
+          "name": "Chy Cartier",
+          "url": "https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152112,
+      "name": "Not The One",
+      "url": "https://open.spotify.com/track/19klnHuCJeI8cFAdofKIlk"
     },
     {
       "album": {
@@ -30545,6 +30607,28 @@
     },
     {
       "album": {
+        "name": "Distro Kid",
+        "url": "https://open.spotify.com/album/2iJTbYfBiOhhatNhoPKuST"
+      },
+      "artists": [
+        {
+          "name": "Kidwild",
+          "url": "https://open.spotify.com/artist/5IR3SxDdtCCw6KD1aoF6w9"
+        },
+        {
+          "name": "Nemzzz",
+          "url": "https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155200,
+      "name": "Redemption (feat. Nemzzz)",
+      "url": "https://open.spotify.com/track/1krd3VtSxqLMRToL2sfXoY"
+    },
+    {
+      "album": {
         "name": "Lively Experience",
         "url": "https://open.spotify.com/album/2KAOfYgdbSt2P4rOHBDzS6"
       },
@@ -32080,6 +32164,24 @@
       "duration_ms": 266880,
       "name": "Safeword",
       "url": "https://open.spotify.com/track/0NpQxEbSBygDxEHuflJqRw"
+    },
+    {
+      "album": {
+        "name": "Salt In The Wound",
+        "url": "https://open.spotify.com/album/3sTmry7ULDk1vk4OPq9CqG"
+      },
+      "artists": [
+        {
+          "name": "Keeya Keys",
+          "url": "https://open.spotify.com/artist/61HaePhaH2YbG9Rd5zXbL6"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224260,
+      "name": "Salt In The Wound",
+      "url": "https://open.spotify.com/track/09IgqPIUJ4ZXimGri7Lfss"
     },
     {
       "album": {
@@ -35074,7 +35176,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 102765,
       "name": "Studio Fit Riddim",
       "url": "https://open.spotify.com/track/5WIA9zkaaOuAKW0JOO36di"

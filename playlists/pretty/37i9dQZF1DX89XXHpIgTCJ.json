@@ -1,6 +1,6 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 315518,
+  "num_followers": 315552,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
@@ -1147,18 +1147,22 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "Toxic",
-        "url": "https://open.spotify.com/album/69AH8JXzq2Tf3VTkAoEPjT"
+        "name": "Unsung: The Best Of Helmet 1991-1997",
+        "url": "https://open.spotify.com/album/4bIeWZAXDv7oiFftbioHIO"
       },
       "artists": [
         {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+          "name": "Helmet",
+          "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
+        },
+        {
+          "name": "House Of Pain",
+          "url": "https://open.spotify.com/artist/0AuW7OCyKfFrsMbtHrYgIV"
         }
       ],
-      "duration_ms": 166933,
-      "name": "Toxic - Explicit Album Version",
-      "url": "https://open.spotify.com/track/3sWbIVUEdY2YyXzJoNj2zs"
+      "duration_ms": 262160,
+      "name": "Just Another Victim",
+      "url": "https://open.spotify.com/track/4RLIujooyQaBKKLXPB5LnQ"
     }
   ],
   "unique_name": "Rap 'n' Roll",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u0e40\u0e1e\u0e25\u0e22\u0e4c\u0e25\u0e34\u0e2a\u0e15\u0e4c\u0e1e\u0e34\u0e40\u0e28\u0e29\u0e27\u0e31\u0e19\u0e40\u0e14\u0e47\u0e01 T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: NuNew",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP Krit",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -620,7 +620,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 212489,
       "name": "CATCH ME (feat. JUNGT BUS)",
       "url": "https://open.spotify.com/track/4Fkd9BdBZaefTS9410hxs0"
@@ -2142,6 +2142,24 @@
       "duration_ms": 210270,
       "name": "Oh! Oh!",
       "url": "https://open.spotify.com/track/4mDEpeYizNCCMLz8DFn0jA"
+    },
+    {
+      "album": {
+        "name": "Oopsy Daisy",
+        "url": "https://open.spotify.com/album/7BZzyIrjMmMh374Zkyor6C"
+      },
+      "artists": [
+        {
+          "name": "PP Krit",
+          "url": "https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180288,
+      "name": "Oopsy Daisy",
+      "url": "https://open.spotify.com/track/2vwjJOcZInBM9VibTxzwSQ"
     },
     {
       "album": {

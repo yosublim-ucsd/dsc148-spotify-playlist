@@ -2,7 +2,7 @@
 
 ### [African Heat](https://open.spotify.com/playlist/37i9dQZF1DWYkaDif7Ztbp)
 
-> The tracks heating up the continent right now!  Cover:  <a href="https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa?si=ZKrnVFIzQzaoMJ\_NKl\-4PQ"> Burna Boy</a>
+> The tracks heating up the continent right now!  Cover:  Khalil Harrison, Tyler ICU and Leemckrazy
 
 466 songs - 1 day 3 hr 48 min
 

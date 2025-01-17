@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LAVE, The Wild Wind, The Strike and more
+> With The Wild Wind, LAVE, The Strike and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,018 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,019 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [The Hotel](https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [The Hotel](https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP) | 4:00 |
 | 50 | [Looking for Love](https://open.spotify.com/track/5UvcNAtYa3davlDx7FoHXG) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:58 |
 
-Snapshot ID: `Z4h8HAAAAADO6MpYKHNT4EVFulWVFNSj`
+Snapshot ID: `Z4nKAgAAAAA8NMk/yJ4dZDRQFMKHKgs1`

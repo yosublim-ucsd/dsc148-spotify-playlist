@@ -4,7 +4,7 @@
 
 > Tra storytelling e barre affilate, il meglio del rap game italiano\. Cover: Marracash
 
-214 songs - 11 hr 13 min
+216 songs - 11 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,9 +90,11 @@
 | [GHIGLIOTTINA \- feat\. Noyz Narcos](https://open.spotify.com/track/01BCvCKQNDmFQQQSjrzPnm) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY) | [FLOP](https://open.spotify.com/album/7DvK67C21i6go7olhjvLgT) | 3:06 | 2022-04-15 | 2023-12-15 |
 | [GIORNO DA CANI](https://open.spotify.com/track/6PymaOhiUiB7XwPJ4wld14) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [LOCURA](https://open.spotify.com/album/0wYy8LTZuhiAyvchPppHPj) | 2:37 | 2024-09-19 |  |
 | [Goal \(feat\. MadMan\)](https://open.spotify.com/track/7DvRemU2ACnEjOiLVKC4X7) | [Gemitaiz](https://open.spotify.com/artist/4upwdFMlZBmQ68jP9jPzjK), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [QVC 10 \- Quello Che Vi Consiglio Vol\. 10](https://open.spotify.com/album/12QaFsG7B3lBtB2TrMDg8g) | 3:09 | 2023-12-14 | 2024-03-01 |
+| [GTA VI \(feat\. Mattak & Madman\) – Prod\. Kanesh](https://open.spotify.com/track/4PEtnyTMgOdV4By7PIQtnl) | [Dani Faiv](https://open.spotify.com/artist/0ffKEtMDnROKWyJtXUnLbJ), [Mattak](https://open.spotify.com/artist/3hCo0MeLrjAvQxAzPknjhK), [Kanesh](https://open.spotify.com/artist/6wV9i1yLnozHYbRSXUwzXM), [MadMan](https://open.spotify.com/artist/3MkkSf3u5KU52Mb2iMrqeX) | [GTA VI \(feat\. Mattak & Madman\) – Prod\. Kanesh](https://open.spotify.com/album/2JWFD9RO4oRIVU8hxASgoA) | 3:29 | 2025-01-16 |  |
 | [Guess Who's Back](https://open.spotify.com/track/2jWBTpS709oRAG7GwbPU8X) | [Il Tre](https://open.spotify.com/artist/4p5IspnsqtILeRtckOxumu) | [Guess Who's Back](https://open.spotify.com/album/2G9p4nrpfNHzjg1QLEaxTr) | 3:13 | 2022-04-15 | 2022-08-23 |
 | [HATTORI HANZO \(feat\. Madame\)](https://open.spotify.com/track/5e6Qu6LyjBJ3xROHLhwcTT) | [Rose Villain](https://open.spotify.com/artist/2aya6KuqjXEhHBqYKsTPLs), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [RADIO SAKURA](https://open.spotify.com/album/5MHSMa7gBXLoOGIPbNtOCo) | 2:46 | 2024-03-07 |  |
 | [Hyundai \(feat\. Nitro & Vegas Jones\)](https://open.spotify.com/track/3T7gz5HBmHlkAWcUJqbMAS) | [Sick Budd](https://open.spotify.com/artist/5h8RF4h6OhX1zIssiLPndr), [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Vegas Jones](https://open.spotify.com/artist/4b3MWJACM6T1QwGKoFe7pp) | [Hyundai \(feat\. Nitro & Vegas Jones\)](https://open.spotify.com/album/63DSYQz1kJNpQvzzd8pXkO) | 2:43 | 2024-11-14 | 2024-12-14 |
+| [IL BUIO NELLE MANI](https://open.spotify.com/track/7JAnEkBz3SrjZRU77RQvC1) | [En?gma](https://open.spotify.com/artist/5pbBGJlVCUzwmdfd1Q1tEX), [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW) | [KLOAKA](https://open.spotify.com/album/6ptTGB6ZAA2QIBJwe0iZBF) | 2:30 | 2025-01-16 |  |
 | [Imputati \(feat\. Emis Killa\)](https://open.spotify.com/track/3ARfNckt7RhPitskCY5vQk) | [Rhove](https://open.spotify.com/artist/44DWomjW1oDuxIoBIRpmQ4), [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G) | [Popolari](https://open.spotify.com/album/3EktNYSh5CA0vTEsthGVjp) | 2:14 | 2024-03-29 |  |
 | [IN HEAVEN \(feat\. Ernia\)](https://open.spotify.com/track/0IEMAsKTp3fbnlBI2T92Yl) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [OUTSIDER](https://open.spotify.com/album/65bhPTCdqbC37RhICrkUUu) | 3:26 | 2023-04-06 | 2023-11-07 |
 | [IN HEAVEN \(feat\. Ernia\)](https://open.spotify.com/track/3NG6Yb6AxRfF5RLplmiTzZ) | [Nitro](https://open.spotify.com/artist/6jQZzWW3JlEtcRDSzFVKSP), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [OUTSIDER](https://open.spotify.com/album/2YrxUX2oROEmzhkfZ2K8ry) | 3:26 | 2023-11-02 | 2024-03-01 |

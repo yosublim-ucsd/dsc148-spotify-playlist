@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-11",
-  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Bambole di Pezza in cover",
+  "description": "Rock, indie, e punk dall'Italia \ud83c\udfb8 Glazyhaze in cover",
   "name": "Rock Italia",
   "tracks": [
     {
@@ -261,6 +261,24 @@
     },
     {
       "album": {
+        "name": "3021",
+        "url": "https://open.spotify.com/album/5yjjKpeBM3Mj5NR2kAv1JG"
+      },
+      "artists": [
+        {
+          "name": "Angela Baraldi",
+          "url": "https://open.spotify.com/artist/19WfaS0bNlDfq4g3BMbavm"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209600,
+      "name": "3021",
+      "url": "https://open.spotify.com/track/0fHKekh3jrMkbBrTgeOInJ"
+    },
+    {
+      "album": {
         "name": "UGLY FUCKING MONSTERS",
         "url": "https://open.spotify.com/album/3kIKCJ57cIYJxffwKN9sk5"
       },
@@ -294,6 +312,24 @@
       "duration_ms": 179473,
       "name": "375",
       "url": "https://open.spotify.com/track/5Ep5QEiOv3dwSjGdk4BM6w"
+    },
+    {
+      "album": {
+        "name": "6.51 (con Her Skin)",
+        "url": "https://open.spotify.com/album/0AeESxCUs1FKDkQneIt5KF"
+      },
+      "artists": [
+        {
+          "name": "Bronc\u00f8",
+          "url": "https://open.spotify.com/artist/4axmvqJr2ytUnvbJxpKcst"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230258,
+      "name": "6.51 (con Her Skin)",
+      "url": "https://open.spotify.com/track/30sxl3vrgTmYr1T8CPOY78"
     },
     {
       "album": {
@@ -1044,7 +1080,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 147026,
       "name": "Almeno Per Oggi",
       "url": "https://open.spotify.com/track/2ONMi8O0SHUejht1Hjh7JA"
@@ -2270,7 +2306,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 152045,
       "name": "birthday",
       "url": "https://open.spotify.com/track/5ceLAQuUua46bh1kutzXun"
@@ -3666,7 +3702,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 142886,
       "name": "Cazzate",
       "url": "https://open.spotify.com/track/686poNbSU5uK4cA8ycFnOo"
@@ -3854,7 +3890,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 292070,
       "name": "Che \u2018a fa?",
       "url": "https://open.spotify.com/track/3ThXBi5e2ahWTirtQZmyDi"
@@ -7088,7 +7124,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 189910,
       "name": "Festa",
       "url": "https://open.spotify.com/track/5TgNeqlMXzIYaaZyYNx6KG"
@@ -7441,6 +7477,24 @@
     },
     {
       "album": {
+        "name": "Flesh & weapon",
+        "url": "https://open.spotify.com/album/7pYtGpHFndpM7wkIPbcUcG"
+      },
+      "artists": [
+        {
+          "name": "Resc\u00fce Cat",
+          "url": "https://open.spotify.com/artist/0Lf5tQI8gcuY67VzicRg6z"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110760,
+      "name": "Flesh & weapon",
+      "url": "https://open.spotify.com/track/3eEF9eAogP1NCdalnWVKad"
+    },
+    {
+      "album": {
         "name": "Prendersi Cura",
         "url": "https://open.spotify.com/album/1Xl0SgVxdlEC9plEg5KMFY"
       },
@@ -7478,6 +7532,28 @@
       "duration_ms": 224540,
       "name": "Flora Erotica",
       "url": "https://open.spotify.com/track/1LrZmjZlZ8cQsHiJuz9UI5"
+    },
+    {
+      "album": {
+        "name": "Flow",
+        "url": "https://open.spotify.com/album/10ADBnK2tqanSslfmbewfP"
+      },
+      "artists": [
+        {
+          "name": "Lilies on Mars",
+          "url": "https://open.spotify.com/artist/1YTpqs4aFyCG5zY8CgjiXr"
+        },
+        {
+          "name": "Stefano Guzzetti",
+          "url": "https://open.spotify.com/artist/1uuPxAWIGGI6a6DhMj8qjr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209624,
+      "name": "Flow",
+      "url": "https://open.spotify.com/track/3zmCsh2PwzW1mcddBwYL1R"
     },
     {
       "album": {
@@ -7622,6 +7698,24 @@
       "duration_ms": 142106,
       "name": "Forever",
       "url": "https://open.spotify.com/track/67maDzWmzcfKBu24z2XtWI"
+    },
+    {
+      "album": {
+        "name": "FORGIVE ME",
+        "url": "https://open.spotify.com/album/4KVENJjNYKZ8J0jPsYkWAA"
+      },
+      "artists": [
+        {
+          "name": "Glazyhaze",
+          "url": "https://open.spotify.com/artist/1NW0PMLRu2jVBWHhkMu0Y5"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187847,
+      "name": "FORGIVE ME",
+      "url": "https://open.spotify.com/track/1IbESHxiae17RS35y8rl0I"
     },
     {
       "album": {
@@ -8142,7 +8236,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 239052,
       "name": "George Best",
       "url": "https://open.spotify.com/track/3XI1m1MCeoynfhgmOADU0j"
@@ -11475,6 +11569,24 @@
     },
     {
       "album": {
+        "name": "Lagna",
+        "url": "https://open.spotify.com/album/0BrL6VdqzeRbBkiZCeHZeQ"
+      },
+      "artists": [
+        {
+          "name": "43.Nove",
+          "url": "https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145479,
+      "name": "Lagna",
+      "url": "https://open.spotify.com/track/1XorQLYOAy0i0nE4cq1ghE"
+    },
+    {
+      "album": {
         "name": "Laguna Beach",
         "url": "https://open.spotify.com/album/0wKva0yRd5Lu0hbJdJRBGQ"
       },
@@ -13969,6 +14081,24 @@
     },
     {
       "album": {
+        "name": "Nettuno",
+        "url": "https://open.spotify.com/album/223vE24dJSXVP3cXVVB8Nn"
+      },
+      "artists": [
+        {
+          "name": "Diplomatico E Il Collettivo Ninco Nanco",
+          "url": "https://open.spotify.com/artist/64GVceW437xz6YCREtCeCv"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221078,
+      "name": "Nettuno",
+      "url": "https://open.spotify.com/track/5jyUCB3P8Y1u2llTI08vf8"
+    },
+    {
+      "album": {
         "name": "Neuro Queer Cyber Punk (italia)",
         "url": "https://open.spotify.com/album/73Ae3sW9ClAH9khsl5hZrk"
       },
@@ -14410,7 +14540,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 198500,
       "name": "non mi guardavi nemmeno",
       "url": "https://open.spotify.com/track/3DqwilpSwz1ElbRhFvUIBe"
@@ -16444,6 +16574,24 @@
       "duration_ms": 148363,
       "name": "Porci democristiani",
       "url": "https://open.spotify.com/track/4g3jVoInr14fT2myZwsnSe"
+    },
+    {
+      "album": {
+        "name": "PORGI L'ALTRA GUANCIA",
+        "url": "https://open.spotify.com/album/5HVA6SmjnUKcFoAxDqdSh5"
+      },
+      "artists": [
+        {
+          "name": "Le Feste Antonacci",
+          "url": "https://open.spotify.com/artist/1RoRpJGQ2bVPfzYGoUr4fe"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182916,
+      "name": "PORGI L'ALTRA GUANCIA",
+      "url": "https://open.spotify.com/track/6r3UzbUTZcwCCndLO1nTHl"
     },
     {
       "album": {
@@ -18902,7 +19050,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 121743,
       "name": "Shoeghera",
       "url": "https://open.spotify.com/track/3YjNJ9TA70c6nSS6tQso1C"
@@ -18942,6 +19090,24 @@
       "duration_ms": 128218,
       "name": "Showu",
       "url": "https://open.spotify.com/track/6HGRFffsqctjlRyZX6JxzQ"
+    },
+    {
+      "album": {
+        "name": "Siamo tra quelli",
+        "url": "https://open.spotify.com/album/4uv6iBErxlyIhbkEzbg9RD"
+      },
+      "artists": [
+        {
+          "name": "LaLadra",
+          "url": "https://open.spotify.com/artist/2oIYcc8Z7rZYm8uYaUhtYw"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198934,
+      "name": "Siamo tra quelli",
+      "url": "https://open.spotify.com/track/2Xyv5klbCZPsetr1oTEL1v"
     },
     {
       "album": {
@@ -20793,6 +20959,24 @@
     },
     {
       "album": {
+        "name": "The Sea",
+        "url": "https://open.spotify.com/album/1sTk0hxNScR8ytchQtJ4MG"
+      },
+      "artists": [
+        {
+          "name": "THE LYES",
+          "url": "https://open.spotify.com/artist/4lO1XNUHz2s5rSi331Ow5U"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150466,
+      "name": "The Sea",
+      "url": "https://open.spotify.com/track/3C2nwYseykkIzLf94GQkTT"
+    },
+    {
+      "album": {
         "name": "The Sweetest Nightmare",
         "url": "https://open.spotify.com/album/5nlf41KR9hnAAyfMX5K9yj"
       },
@@ -20973,6 +21157,24 @@
     },
     {
       "album": {
+        "name": "Adios Cabrones",
+        "url": "https://open.spotify.com/album/1FMBThUlFIpEwjDCQOgUwR"
+      },
+      "artists": [
+        {
+          "name": "Colla",
+          "url": "https://open.spotify.com/artist/3bNplfx5UXercdTOqqdZK6"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245870,
+      "name": "Ti Ho Promesso Una Canzone",
+      "url": "https://open.spotify.com/track/7tkt6e5AysIPTNZOTxinVx"
+    },
+    {
+      "album": {
         "name": "Ti perdoneresti? Io mai",
         "url": "https://open.spotify.com/album/3xRcq6ZBNu2lB74JTreVBh"
       },
@@ -21074,7 +21276,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 159226,
       "name": "togli, molli, togli",
       "url": "https://open.spotify.com/track/3JWBmEFuRnvLN7f1WtAbiT"
@@ -21705,6 +21907,42 @@
     },
     {
       "album": {
+        "name": "Tutto lascia traccia",
+        "url": "https://open.spotify.com/album/4OAP0E0G5f6zsu9JiEXICS"
+      },
+      "artists": [
+        {
+          "name": "Di noi stessi e altri mondi",
+          "url": "https://open.spotify.com/artist/5o1JOBmB05H8yK8oGWeE3D"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285027,
+      "name": "Tutto lascia traccia",
+      "url": "https://open.spotify.com/track/2ogSjnQvd656RDhbWDg4La"
+    },
+    {
+      "album": {
+        "name": "Mandic",
+        "url": "https://open.spotify.com/album/5qkiRwuif0pCY5gAtDSFcM"
+      },
+      "artists": [
+        {
+          "name": "VIZIOSA",
+          "url": "https://open.spotify.com/artist/7ki3lxA1uAXxKspVzz4Mka"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192500,
+      "name": "Tutto quanto",
+      "url": "https://open.spotify.com/track/2PR6eg0EDpMXtzb07M1NFu"
+    },
+    {
+      "album": {
         "name": "Tutto sbagliato",
         "url": "https://open.spotify.com/album/0qhdUsXAwn2lsIXdNpRotU"
       },
@@ -21926,6 +22164,24 @@
       "duration_ms": 204601,
       "name": "Un istante",
       "url": "https://open.spotify.com/track/1QEnFPeGqRVdXROMPEiIX5"
+    },
+    {
+      "album": {
+        "name": "UN MILIONE DI ANNI",
+        "url": "https://open.spotify.com/album/0NIxXyLzVgYORQywtQXiSE"
+      },
+      "artists": [
+        {
+          "name": "I Boschi Bruciano",
+          "url": "https://open.spotify.com/artist/1UTHkeIblKLZSSx9sTHmUW"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193524,
+      "name": "UN MILIONE DI ANNI",
+      "url": "https://open.spotify.com/track/77xWqxvnDdmOBptObU18PW"
     },
     {
       "album": {
@@ -22300,7 +22556,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 219360,
       "name": "Venere",
       "url": "https://open.spotify.com/track/5AwfzS5XZ7giXnTjV5BhfV"
@@ -23184,6 +23440,24 @@
       "duration_ms": 195179,
       "name": "W\u00f8lf",
       "url": "https://open.spotify.com/track/3ENZOdgMIZ5i3e2f9b9kM3"
+    },
+    {
+      "album": {
+        "name": "You Make Me Feel",
+        "url": "https://open.spotify.com/album/7ra8azvupwAiZylfwKQbP0"
+      },
+      "artists": [
+        {
+          "name": "Les Votives",
+          "url": "https://open.spotify.com/artist/2rasxNiJk2a3rNeGFss3x5"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "You Make Me Feel",
+      "url": "https://open.spotify.com/track/3B0I1YyCjah641eYa3ifYM"
     },
     {
       "album": {

@@ -1,13 +1,45 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 16 Jan 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 17 Jan 23:02 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOkVuX0/+CUm+XDvCbFkMih+e0/I1F",
+  "snapshot_id": "AAAOmU7O83hIL3m3+V4F46jUbXu02dGE",
   "tracks": [
+    {
+      "added_at": "2025-01-16 23:02:53",
+      "album": {
+        "name": "One Way! 2",
+        "url": "https://open.spotify.com/album/1BIHuR5QMyGqhTqy9Ldtvf"
+      },
+      "artists": [
+        {
+          "name": "Autumn!",
+          "url": "https://open.spotify.com/artist/5delTPpDAtBDsjk60f5xnt"
+        }
+      ],
+      "duration_ms": 225882,
+      "name": "One Way! 2",
+      "url": "https://open.spotify.com/track/3Jl77VcjXq1xAYctuzFMHz"
+    },
+    {
+      "added_at": "2025-01-16 19:03:02",
+      "album": {
+        "name": "Sunset Key Melt",
+        "url": "https://open.spotify.com/album/3kJdqmZWypVUqDr7zh5jLs"
+      },
+      "artists": [
+        {
+          "name": "Tim Hecker",
+          "url": "https://open.spotify.com/artist/1qiwaJwjKod5WhcYZ76O1B"
+        }
+      ],
+      "duration_ms": 456028,
+      "name": "Sunset Key Melt",
+      "url": "https://open.spotify.com/track/53shJKxROIL7O11AeSDdTb"
+    },
     {
       "added_at": "2025-01-15 14:03:00",
       "album": {
@@ -23,22 +55,6 @@
       "duration_ms": 312466,
       "name": "Hymns in Dissonance",
       "url": "https://open.spotify.com/track/6KukQLPGIVCyPYHSG9aiIU"
-    },
-    {
-      "added_at": "2025-01-15 19:02:40",
-      "album": {
-        "name": "Ankles",
-        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "Ankles",
-      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
     },
     {
       "added_at": "2025-01-15 09:02:44",
@@ -57,6 +73,50 @@
       "url": "https://open.spotify.com/track/7mpY8KmX0mUCJV49dstMA3"
     },
     {
+      "added_at": "2025-01-16 04:03:04",
+      "album": {
+        "name": "take me by the hand",
+        "url": "https://open.spotify.com/album/6IShuyiAbqSgjgXVCrHCOr"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 171570,
+      "name": "take me by the hand",
+      "url": "https://open.spotify.com/track/4AHeemjLSF5e1UbGRGCUO4"
+    },
+    {
+      "added_at": "2025-01-16 04:03:04",
+      "album": {
+        "name": "Break The BOOM! Meter",
+        "url": "https://open.spotify.com/album/1hzTDReTAPzSAalO0FeLNj"
+      },
+      "artists": [
+        {
+          "name": "A.J. & Big Justice",
+          "url": "https://open.spotify.com/artist/0vZddxsYtrJ235wfjUavKp"
+        },
+        {
+          "name": "AMH",
+          "url": "https://open.spotify.com/artist/2TSwn8irgXwsoPyWVjPmnl"
+        },
+        {
+          "name": "The Rizzler",
+          "url": "https://open.spotify.com/artist/5QaiZbvGTAXIpi3NYIxsaK"
+        }
+      ],
+      "duration_ms": 115696,
+      "name": "Break The BOOM! Meter",
+      "url": "https://open.spotify.com/track/4WoMzaHALcdiAZU5nPU5lN"
+    },
+    {
       "added_at": "2025-01-14 19:03:30",
       "album": {
         "name": "Blackhole",
@@ -71,6 +131,22 @@
       "duration_ms": 200800,
       "name": "Blackhole",
       "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
+    },
+    {
+      "added_at": "2025-01-15 19:02:40",
+      "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
     },
     {
       "added_at": "2025-01-15 23:03:11",
@@ -171,6 +247,30 @@
       "duration_ms": 188221,
       "name": "Have Heaven",
       "url": "https://open.spotify.com/track/3IeraaelNVdgrB2gVQ8dzq"
+    },
+    {
+      "added_at": "2025-01-16 09:03:03",
+      "album": {
+        "name": "Aye Rage",
+        "url": "https://open.spotify.com/album/6PnrtDw6cnjYjggPY9ZzkC"
+      },
+      "artists": [
+        {
+          "name": "Benji Blue Bills",
+          "url": "https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC"
+        },
+        {
+          "name": "BNYX\u00ae",
+          "url": "https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG"
+        },
+        {
+          "name": "YourRAGE",
+          "url": "https://open.spotify.com/artist/5hom1iOuFnM4ctlY6MzRbk"
+        }
+      ],
+      "duration_ms": 113968,
+      "name": "Aye Rage",
+      "url": "https://open.spotify.com/track/6DJFJDAkJ08Xs0NSqSOeUw"
     },
     {
       "added_at": "2025-01-11 23:02:39",
@@ -337,7 +437,7 @@
         }
       ],
       "duration_ms": 180540,
-      "name": "Hypnotized",
+      "name": "Hypnotized (feat. Ellie Goulding)",
       "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
     },
     {
@@ -763,94 +863,6 @@
       "duration_ms": 88462,
       "name": "mice band",
       "url": "https://open.spotify.com/track/63vLLRlmKWPrhSmW4D1Sk3"
-    },
-    {
-      "added_at": "2025-01-10 09:02:54",
-      "album": {
-        "name": "Nothing For Free",
-        "url": "https://open.spotify.com/album/6QjzoSdwuKMeMdeomvaZhQ"
-      },
-      "artists": [
-        {
-          "name": "Aaron May",
-          "url": "https://open.spotify.com/artist/2rwALQ1SXdfUWPUd6WOfYS"
-        },
-        {
-          "name": "808 Wigguh",
-          "url": "https://open.spotify.com/artist/5FLD7rDhW2tNfYIymZXPsJ"
-        }
-      ],
-      "duration_ms": 144465,
-      "name": "Nothing For Free",
-      "url": "https://open.spotify.com/track/0XgWkTbe4G9mQHkPv9mhzS"
-    },
-    {
-      "added_at": "2025-01-03 23:02:40",
-      "album": {
-        "name": "Everyday",
-        "url": "https://open.spotify.com/album/7rfqIJTMI65xPzjj0QA7et"
-      },
-      "artists": [
-        {
-          "name": "Celeste",
-          "url": "https://open.spotify.com/artist/49HlOY4gkHqsYG9GCuhkcc"
-        }
-      ],
-      "duration_ms": 220183,
-      "name": "Everyday",
-      "url": "https://open.spotify.com/track/6IBD81r5jQxyUD40RPzpQF"
-    },
-    {
-      "added_at": "2025-01-03 09:03:26",
-      "album": {
-        "name": "Shandy in the Graveyard",
-        "url": "https://open.spotify.com/album/6TSQw8FPwp9yatWywO7I2L"
-      },
-      "artists": [
-        {
-          "name": "Panchiko",
-          "url": "https://open.spotify.com/artist/4KEHIUSoWCcqrk8AddTE1O"
-        },
-        {
-          "name": "billy woods",
-          "url": "https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc"
-        }
-      ],
-      "duration_ms": 177708,
-      "name": "Shandy in the Graveyard",
-      "url": "https://open.spotify.com/track/0aM3JqPACJTpIoyOALODiZ"
-    },
-    {
-      "added_at": "2025-01-06 09:02:52",
-      "album": {
-        "name": "ALRIGHT OK",
-        "url": "https://open.spotify.com/album/3qgIiX5tMvks68Mc7MIhpW"
-      },
-      "artists": [
-        {
-          "name": "Baby Kia",
-          "url": "https://open.spotify.com/artist/1IppGzPqPv70sKbraW5Q2L"
-        }
-      ],
-      "duration_ms": 171620,
-      "name": "ALRIGHT OK",
-      "url": "https://open.spotify.com/track/5sy1XZd8J7kwN14qUO6E2d"
-    },
-    {
-      "added_at": "2025-01-03 23:02:40",
-      "album": {
-        "name": "Just How It Goes",
-        "url": "https://open.spotify.com/album/2Wjh2ei6fCItklUFsC5xcQ"
-      },
-      "artists": [
-        {
-          "name": "Low Roar",
-          "url": "https://open.spotify.com/artist/5WoWlP0ihSFIxnppxjwSgE"
-        }
-      ],
-      "duration_ms": 313993,
-      "name": "Just How It Goes",
-      "url": "https://open.spotify.com/track/7ERaWfzZyBrZzsCQxz60TB"
     }
   ],
   "unique_name": "New Singles Now",

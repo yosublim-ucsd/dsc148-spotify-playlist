@@ -806,7 +806,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 249426,
       "name": "Hei Maria",
       "url": "https://open.spotify.com/track/1zQMP30jNDdUy7VsQLoUDR"
@@ -882,6 +882,24 @@
       "duration_ms": 220520,
       "name": "Hoodoo-mama",
       "url": "https://open.spotify.com/track/20bZr8LnlhUsZDvz5i4jEB"
+    },
+    {
+      "album": {
+        "name": "Hullujen kabaree",
+        "url": "https://open.spotify.com/album/0V2TFS3gBgKu7OofnfoN1Q"
+      },
+      "artists": [
+        {
+          "name": "Juha Lagstr\u00f6m",
+          "url": "https://open.spotify.com/artist/6yFQcyRowWY2lpXwxiNghc"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236213,
+      "name": "Hullujen kabaree",
+      "url": "https://open.spotify.com/track/2EU78Eik07NzmR5IImMkyQ"
     },
     {
       "album": {
@@ -1058,7 +1076,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 294556,
       "name": "Jokainen maaliviiva",
       "url": "https://open.spotify.com/track/4XGtyJ82UWTp3dxbK3MDZZ"
@@ -1272,7 +1290,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 179763,
       "name": "Kadonnut kaamokseen",
       "url": "https://open.spotify.com/track/68pm6FHAdoLVreb87luOip"
@@ -1308,10 +1326,28 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 220721,
       "name": "Kahden syd\u00e4men t\u00f6rm\u00e4ys",
       "url": "https://open.spotify.com/track/0euUqu9VKnJANjO33EG9CT"
+    },
+    {
+      "album": {
+        "name": "Kaikesta puolet saat",
+        "url": "https://open.spotify.com/album/4Z5eyDEWouCsw2xpGZu2Cg"
+      },
+      "artists": [
+        {
+          "name": "Anssi Kela",
+          "url": "https://open.spotify.com/artist/7ISARfXENNWqIhKcO6kyrG"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227153,
+      "name": "Kaikesta puolet saat",
+      "url": "https://open.spotify.com/track/1m6IUZGor6ZLJ59K2ZLWVD"
     },
     {
       "album": {
@@ -1615,6 +1651,24 @@
     },
     {
       "album": {
+        "name": "Kolmas s\u00e4\u00e4nt\u00f6",
+        "url": "https://open.spotify.com/album/6A3aUfGo6QAIEUrdM1L3ti"
+      },
+      "artists": [
+        {
+          "name": "Nelosolut",
+          "url": "https://open.spotify.com/artist/1q7jg4Jd7SdYV1rGxr8RoF"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194173,
+      "name": "Kolmas s\u00e4\u00e4nt\u00f6",
+      "url": "https://open.spotify.com/track/3XReXlWYtceXA0zto3fYUO"
+    },
+    {
+      "album": {
         "name": "Kompassi",
         "url": "https://open.spotify.com/album/13xUxVE7xv8mr0jZenEeEN"
       },
@@ -1684,6 +1738,42 @@
       "duration_ms": 248053,
       "name": "Kotona on kivaa",
       "url": "https://open.spotify.com/track/066M20JupMUXnjw4d7ySqG"
+    },
+    {
+      "album": {
+        "name": "Kuka keksi rakkauden",
+        "url": "https://open.spotify.com/album/6j0femd25mRM2sIYjBdzxT"
+      },
+      "artists": [
+        {
+          "name": "Jere Ij\u00e4s",
+          "url": "https://open.spotify.com/artist/1jzz3jZOBjI9ipSG1k1O8q"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252918,
+      "name": "Kuka keksi rakkauden",
+      "url": "https://open.spotify.com/track/5AJFC550ASoPhQkTxG3BCy"
+    },
+    {
+      "album": {
+        "name": "Kultareunus",
+        "url": "https://open.spotify.com/album/4EratcQh7VQ6giOP0mbTv5"
+      },
+      "artists": [
+        {
+          "name": "Mika R\u00e4m\u00e4",
+          "url": "https://open.spotify.com/artist/5mkvW9yhZF8bGFrok0OXJr"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195226,
+      "name": "Kultareunus",
+      "url": "https://open.spotify.com/track/0CvruITz7abOHTWpWVQ1B7"
     },
     {
       "album": {
@@ -1842,7 +1932,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 161186,
       "name": "K\u00e4\u00e4rmeet",
       "url": "https://open.spotify.com/track/0fQOhE7MDkkP1eynoWJY5N"
@@ -2062,7 +2152,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 224972,
       "name": "Maamme ja Finlandia",
       "url": "https://open.spotify.com/track/6yymQWw1ahPgonCUP7orNj"
@@ -2714,7 +2804,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 231586,
       "name": "Paha maailma",
       "url": "https://open.spotify.com/track/72MnpszLIEyApn6OJrDufo"
@@ -2804,7 +2894,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 168000,
       "name": "Pelk\u00e4\u00e4n rakastua sinuun",
       "url": "https://open.spotify.com/track/7uztjfSfK0DDu66yVRfgDg"
@@ -2862,7 +2952,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 185809,
       "name": "Petromelankolia",
       "url": "https://open.spotify.com/track/7M1PTdwk4VbifhDvjf9UhE"
@@ -3042,7 +3132,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 282050,
       "name": "Purppurakuu",
       "url": "https://open.spotify.com/track/1PY5oesufrU9wSbT6u4ldm"
@@ -3082,6 +3172,24 @@
       "duration_ms": 175322,
       "name": "P\u00e4iv\u00e4kulkija",
       "url": "https://open.spotify.com/track/5teTlcyFWCLV06R5m482Ks"
+    },
+    {
+      "album": {
+        "name": "Haudatkaa perhoset",
+        "url": "https://open.spotify.com/album/61u4ut8Kx38Glne7yLenzK"
+      },
+      "artists": [
+        {
+          "name": "Tuomo Mannonen",
+          "url": "https://open.spotify.com/artist/1pVcazwrzonZgkPQifJNRc"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194474,
+      "name": "P\u00e4iv\u00e4ntasaaja",
+      "url": "https://open.spotify.com/track/5JmxXTvUXxXquGWyDGatqr"
     },
     {
       "album": {
@@ -4202,7 +4310,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 179451,
       "name": "uhanalanen",
       "url": "https://open.spotify.com/track/2OnH6wVMqaPLhUwP0LaS97"
@@ -4346,7 +4454,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 265392,
       "name": "Vapauteen",
       "url": "https://open.spotify.com/track/4OTlbuDEqWBdVWrAEA1Nvr"
@@ -4400,7 +4508,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 158247,
       "name": "Vie meid\u00e4t t\u00e4\u00e4lt\u00e4 pois",
       "url": "https://open.spotify.com/track/76QqtA3mTSyqzCJBd5tMiN"
@@ -4422,6 +4530,24 @@
       "duration_ms": 186626,
       "name": "Vihaa ja rakkautta",
       "url": "https://open.spotify.com/track/796ubEueApvI9WRFBgTkkM"
+    },
+    {
+      "album": {
+        "name": "Viimeiseen asti",
+        "url": "https://open.spotify.com/album/2kbw6137jLSBvg3fyxcvrC"
+      },
+      "artists": [
+        {
+          "name": "CVPRI",
+          "url": "https://open.spotify.com/artist/3dsY7ij3CllLbA9KgCB4iz"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244241,
+      "name": "Viimeiseen asti",
+      "url": "https://open.spotify.com/track/1EVJeUT6GhtSm6tHTFRnMA"
     },
     {
       "album": {
@@ -4534,10 +4660,28 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 304818,
       "name": "Vuonna '85",
       "url": "https://open.spotify.com/track/0cThSokBJLUZIRcDs9wZvm"
+    },
+    {
+      "album": {
+        "name": "Wayne's World",
+        "url": "https://open.spotify.com/album/46cx5Ynu8JI1V9y0cOfBYs"
+      },
+      "artists": [
+        {
+          "name": "Kissa",
+          "url": "https://open.spotify.com/artist/1XAr2oxjKI0VYYztideGNn"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214209,
+      "name": "Wayne's World",
+      "url": "https://open.spotify.com/track/6tMbYI2Gyu0JIZI96loy4c"
     },
     {
       "album": {

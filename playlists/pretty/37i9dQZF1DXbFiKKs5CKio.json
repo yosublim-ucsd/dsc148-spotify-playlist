@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 65143,
+  "num_followers": 65171,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -291,26 +291,6 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "Jam #1",
-        "url": "https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR"
-      },
-      "artists": [
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
-        },
-        {
-          "name": "Victor Sabri",
-          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
-        }
-      ],
-      "duration_ms": 82824,
-      "name": "Jam #01 - Fim de Semana",
-      "url": "https://open.spotify.com/track/5F58WyW1eT00i22beFEsZ3"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
         "name": "Love Songs, Vol. I",
         "url": "https://open.spotify.com/album/3Y0u6P7Nnji4j01vGbH2ON"
       },
@@ -331,6 +311,26 @@
       "duration_ms": 139200,
       "name": "me chama de sua",
       "url": "https://open.spotify.com/track/50QrmagG9X8vRa6MSZqFGB"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
+        "name": "Jam #1",
+        "url": "https://open.spotify.com/album/04DORdVCPAw3R24dYhO9jR"
+      },
+      "artists": [
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        },
+        {
+          "name": "Victor Sabri",
+          "url": "https://open.spotify.com/artist/6w3suJox8dJssrdEIlMf0q"
+        }
+      ],
+      "duration_ms": 82824,
+      "name": "Jam #01 - Fim de Semana",
+      "url": "https://open.spotify.com/track/5F58WyW1eT00i22beFEsZ3"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -699,6 +699,22 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
+        "name": "Tra\u00e7os",
+        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+      },
+      "artists": [
+        {
+          "name": "Pedro Stone",
+          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+        }
+      ],
+      "duration_ms": 199333,
+      "name": "Tra\u00e7os",
+      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+    },
+    {
+      "added_at": "2024-12-13 16:47:52",
+      "album": {
         "name": "reconectar",
         "url": "https://open.spotify.com/album/0xOIStBgV4x85AeYWrtXmI"
       },
@@ -719,18 +735,18 @@
     {
       "added_at": "2024-12-13 16:47:52",
       "album": {
-        "name": "Tra\u00e7os",
-        "url": "https://open.spotify.com/album/7AhmqmOoRekIWyfyBeFb3L"
+        "name": "Quando acordar",
+        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
       },
       "artists": [
         {
-          "name": "Pedro Stone",
-          "url": "https://open.spotify.com/artist/1CgqhSx6rmHQwt0fLD9yPM"
+          "name": "THAMI",
+          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
         }
       ],
-      "duration_ms": 199333,
-      "name": "Tra\u00e7os",
-      "url": "https://open.spotify.com/track/3ks3Bzqxi4wagkBqEHmfxC"
+      "duration_ms": 200316,
+      "name": "Quando acordar",
+      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-12-13 16:47:52",
@@ -747,22 +763,6 @@
       "duration_ms": 160000,
       "name": "amor n\u00e3o \u00e9 suficiente",
       "url": "https://open.spotify.com/track/0mhohS3IL2uHRQHhRu36JW"
-    },
-    {
-      "added_at": "2024-12-13 16:47:52",
-      "album": {
-        "name": "Quando acordar",
-        "url": "https://open.spotify.com/album/0UiVti5t3WVEc3ktyTdFmG"
-      },
-      "artists": [
-        {
-          "name": "THAMI",
-          "url": "https://open.spotify.com/artist/6fupiyOvfbI12eijANkwZL"
-        }
-      ],
-      "duration_ms": 200316,
-      "name": "Quando acordar",
-      "url": "https://open.spotify.com/track/3MHamwkZ1ywudnPR0GzhSZ"
     },
     {
       "added_at": "2024-12-13 16:47:52",

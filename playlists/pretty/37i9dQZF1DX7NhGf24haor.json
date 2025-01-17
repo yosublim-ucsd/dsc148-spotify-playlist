@@ -1,12 +1,12 @@
 {
   "description": "Updated weekly | Hardstyle | Cover: Rebelion",
-  "num_followers": 244315,
+  "num_followers": 244406,
   "original_name": "Hardstyle Adrenaline! 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4DwQAAAAACouyYOeVmnANdykNi9Lk4g",
+  "snapshot_id": "Z4ja7AAAAACGhTf97dhdKWkwZagFP0sC",
   "tracks": [
     {
       "added_at": "2025-01-10 10:02:40",
@@ -79,6 +79,30 @@
       "duration_ms": 162281,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/4z8SxgCpyQoL0lJRLWeSCK"
+    },
+    {
+      "added_at": "2025-01-10 10:02:40",
+      "album": {
+        "name": "Champion",
+        "url": "https://open.spotify.com/album/3wvASR2hd7QNEVIjQ0LBHL"
+      },
+      "artists": [
+        {
+          "name": "Aftershock",
+          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
+        },
+        {
+          "name": "Last Word",
+          "url": "https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG"
+        },
+        {
+          "name": "Shadow Legacy",
+          "url": "https://open.spotify.com/artist/43KI3dStl8f4EJyETnKfiX"
+        }
+      ],
+      "duration_ms": 167330,
+      "name": "Champion",
+      "url": "https://open.spotify.com/track/38sHu8Dt1yQQeck7nQ0pxv"
     },
     {
       "added_at": "2025-01-10 10:02:40",
@@ -259,30 +283,6 @@
       "duration_ms": 149500,
       "name": "Hearts On Fire",
       "url": "https://open.spotify.com/track/6KTHn84nyrF7OTd5K6Qrmb"
-    },
-    {
-      "added_at": "2025-01-10 10:02:40",
-      "album": {
-        "name": "Champion",
-        "url": "https://open.spotify.com/album/3wvASR2hd7QNEVIjQ0LBHL"
-      },
-      "artists": [
-        {
-          "name": "Aftershock",
-          "url": "https://open.spotify.com/artist/6KlY7jizsLWQcXR1F2Sn9j"
-        },
-        {
-          "name": "Last Word",
-          "url": "https://open.spotify.com/artist/4xhbLq3ngCmSNOIoqyS3AG"
-        },
-        {
-          "name": "Shadow Legacy",
-          "url": "https://open.spotify.com/artist/43KI3dStl8f4EJyETnKfiX"
-        }
-      ],
-      "duration_ms": 167330,
-      "name": "Champion",
-      "url": "https://open.spotify.com/track/38sHu8Dt1yQQeck7nQ0pxv"
     },
     {
       "added_at": "2025-01-10 10:02:40",

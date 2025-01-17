@@ -2481,6 +2481,28 @@
     },
     {
       "album": {
+        "name": "RIGHTA",
+        "url": "https://open.spotify.com/album/7eDopjlMuLu5f7UlteRDwc"
+      },
+      "artists": [
+        {
+          "name": "Tha Mystro",
+          "url": "https://open.spotify.com/artist/1CDq8tF7Lqvq3TqLCmNOMQ"
+        },
+        {
+          "name": "M.Kowtham",
+          "url": "https://open.spotify.com/artist/71LicWNSBQwSA0kd8Ncm63"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146400,
+      "name": "RIGHTA",
+      "url": "https://open.spotify.com/track/3aCAZ1BG3Arw9vr4BS9bH4"
+    },
+    {
+      "album": {
         "name": "Rising Rapper",
         "url": "https://open.spotify.com/album/5zv1qpZ3sisND29nVCpLVC"
       },
@@ -3530,7 +3552,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 251428,
       "name": "Yaana Katha",
       "url": "https://open.spotify.com/track/7u3856hcrH8n7ijjDel4E4"

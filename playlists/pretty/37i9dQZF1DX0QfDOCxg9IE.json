@@ -1,12 +1,12 @@
 {
   "description": "\u0386\u03ba\u03bf\u03c5 \u03c4\u03b1 \u03c0\u03b9\u03bf \u03c7\u03bf\u03c4 trends \u03c3\u03c4\u03b7\u03bd \u0395\u03bb\u03bb\u03ac\u03b4\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae!",
-  "num_followers": 51170,
+  "num_followers": 51199,
   "original_name": "Internet Hits Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4TmUgAAAACAP8sjCL6L9f9I1+0dKq9r",
+  "snapshot_id": "Z4kJ+AAAAAAHRr+er/98bV0cU/wL/ihM",
   "tracks": [
     {
       "added_at": "2025-01-13 10:09:22",
@@ -263,6 +263,26 @@
       "duration_ms": 182400,
       "name": "Pes",
       "url": "https://open.spotify.com/track/4sltRhFlzu0BwXq9OUnwSG"
+    },
+    {
+      "added_at": "2025-01-16 13:30:32",
+      "album": {
+        "name": "MATRIX",
+        "url": "https://open.spotify.com/album/6DXj8zcaB9ls3dECyOh0EU"
+      },
+      "artists": [
+        {
+          "name": "Karnalh",
+          "url": "https://open.spotify.com/artist/0YwSU2NF2cXIME0vXeJVmL"
+        },
+        {
+          "name": "Exus186",
+          "url": "https://open.spotify.com/artist/3nvjSCVp4IrkqLU8xmJ1n4"
+        }
+      ],
+      "duration_ms": 157575,
+      "name": "MATRIX",
+      "url": "https://open.spotify.com/track/4SMXHvHA1FtsekSN6BWnJy"
     },
     {
       "added_at": "2025-01-13 10:09:22",
@@ -1143,22 +1163,6 @@
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
-    },
-    {
-      "added_at": "2025-01-13 10:09:22",
-      "album": {
-        "name": "Fthina Tricks 2",
-        "url": "https://open.spotify.com/album/723nAhgLLTPuxBuJlsNSOU"
-      },
-      "artists": [
-        {
-          "name": "Bloody Hawk",
-          "url": "https://open.spotify.com/artist/4NKSnDH3KS823DGnHDDDsy"
-        }
-      ],
-      "duration_ms": 247500,
-      "name": "Mia Kali Mera",
-      "url": "https://open.spotify.com/track/6tgyuULuaaxVdyrRfv7KIs"
     }
   ],
   "unique_name": "Internet Hits Greece",

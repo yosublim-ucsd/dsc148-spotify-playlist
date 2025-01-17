@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\. \| Request songs @ Furrest.Online
 
-267 songs - 14 hr 17 min
+268 songs - 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,6 +227,7 @@
 | [someone special](https://open.spotify.com/track/67s2DeBt7fAQ7RqAIP99tD) | [Blueberry](https://open.spotify.com/artist/0YojyCH6OZsxIXzNMRY12Z) | [someone special](https://open.spotify.com/album/77AJxNfFKAwpTiNyDVLjYV) | 2:54 | 2024-05-28 |  |
 | [something new](https://open.spotify.com/track/0JtDlZYd3rcmJNAT5JWeA8) | [xaev](https://open.spotify.com/artist/10zsHcOcO047KmhOhi57iL), [mopearound](https://open.spotify.com/artist/0XzFJD8UCjI0vkRofftT8Y), [Exobolt](https://open.spotify.com/artist/5FdGHOu3JjJbZ5jcPcI9Km) | [something new](https://open.spotify.com/album/3ngY5oSa4mUFC6ThZk2cdc) | 5:35 | 2024-06-09 |  |
 | [Spider Bites](https://open.spotify.com/track/4QYiQ5PpL19NoGabu2zFNE) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Spider Bites](https://open.spotify.com/album/1k0KDOkgfGA0Nwov5ncseo) | 3:31 | 2023-12-05 |  |
+| [SPOOKY](https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva) | [fennecxx](https://open.spotify.com/artist/5tvPbCrx8LMaL9Zby5e7c2), [DJ ALEX](https://open.spotify.com/artist/7FqHcUwnhxJZAgS3I6GFFL) | [SPOOKY](https://open.spotify.com/album/4QmDrxVGw99LUJOubfPJz9) | 1:36 | 2025-01-17 |  |
 | [SPOTS](https://open.spotify.com/track/4xHxs1KKLOntFjaTyzB6aW) | [snuffles](https://open.spotify.com/artist/0Ac3GAeNAnVxWGsSrrNob6) | [SPOTS](https://open.spotify.com/album/6xchgBoEKNZjRGaM9EydBo) | 2:26 | 2024-03-15 |  |
 | [Stars Slumbering In The Shade](https://open.spotify.com/track/3NVIDqMy2rnRkHu78Bqwc0) | [Anthemics](https://open.spotify.com/artist/5Resf7AxjXHnKIYgsDgPlv) | [Hiraeth](https://open.spotify.com/album/6adnvm6S8BEKBn6AsyHWd5) | 4:08 | 2023-12-15 |  |
 | [STEREO](https://open.spotify.com/track/6zv74Wofa6MjtFb6g0LSy1) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [STEREO](https://open.spotify.com/album/3t6AnLqqJPmjHG905DSciR) | 2:29 | 2024-07-14 |  |

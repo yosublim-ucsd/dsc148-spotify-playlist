@@ -1,32 +1,30 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain](/playlists/plain/37i9dQZF1DXcaYebsRphft) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXcaYebsRphft)
 
-### [On Tour Japan: NMIXX](https://open.spotify.com/playlist/37i9dQZF1DXcaYebsRphft)
+### [On Tour Japan: MISAMO](https://open.spotify.com/playlist/37i9dQZF1DXcaYebsRphft)
 
-> 『NMIXX FAN CONCERT "NMIXX CHANGE UP : MIXX LAB in TOKYO』セットリストを公開！
+> 『MISAMO JAPAN DOME TOUR 2024 “HAUTE COUTURE”』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,619 likes - 20 songs - 1 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,526 likes - 18 songs - 52 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Run For Roses](https://open.spotify.com/track/0dblbu76nrw0OxCE9vTf8p) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y) | 3:35 |
-| 2 | [Soñar \(Breaker\)](https://open.spotify.com/track/3zQKe6vQMBHmthdjLHnKya) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Soñar \(Breaker\)](https://open.spotify.com/album/3atDr2UW1WQBLzDsL5iOJT) | 2:53 |
-| 3 | [BEAT BEAT](https://open.spotify.com/track/1Tt3WS4RRDqH19CtfGVklx) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW) | 2:48 |
-| 4 | [Love Me Like This](https://open.spotify.com/track/2W8UduoifU1zgjKZlfY79S) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 3:08 |
-| 5 | [Young, Dumb, Stupid](https://open.spotify.com/track/73qHAnNGv0iuiedYenz8EB) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Young, Dumb, Stupid](https://open.spotify.com/album/56oDXOvFPVFqDq6k576Y18) | 3:10 |
-| 6 | [O.O](https://open.spotify.com/track/1m2PksrrMpIev63uPxT1V0) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) | 2:52 |
-| 7 | [英雄; Kick It](https://open.spotify.com/track/5HjK06wlDrkTvBZX2Ns15S) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [LOVEHOLIC](https://open.spotify.com/album/0k5S0L54m5ga5YDEXt2WJ6) | 3:53 |
-| 8 | [Love Is Lonely](https://open.spotify.com/track/6FBLP2QYurBvzSjZBoCa3Z) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW) | 3:17 |
-| 9 | [Moving On](https://open.spotify.com/track/1XxnoDuLIUOjzifsHkCZVL) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW) | 3:30 |
-| 10 | [TANK](https://open.spotify.com/track/2AtshmTKGwbtCybUmYxB4u) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [AD MARE](https://open.spotify.com/album/0QkOWJsNjhHQwhmhy4bstt) | 2:48 |
-| 11 | [Just Did It](https://open.spotify.com/track/6KXjuNhdfVc17QUvw12Sx6) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 2:58 |
-| 12 | [SICKUHH \(Feat\. Kid Milli\)](https://open.spotify.com/track/2RmiB0RJPAfpXrLrmNzaAm) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Fe3O4: STICK OUT](https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW) | 2:39 |
-| 13 | [BOOM](https://open.spotify.com/track/2iR76I8Q4WovfgvaJb9JEg) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y) | 2:55 |
-| 14 | [DASH](https://open.spotify.com/track/1mXIJLlpAEG3Vab5b21QIM) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y) | 2:46 |
-| 15 | [별별별 \(See that?\)](https://open.spotify.com/track/2Oc0j4x7HkDRVZq8JsgACT) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: STICK OUT](https://open.spotify.com/album/0RRWmhro004YXI7Yak0EpW) | 3:02 |
-| 16 | [Kiss](https://open.spotify.com/track/3pNcAmfGXKeKvsSG2h1teI) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Kiss](https://open.spotify.com/album/3XLwYEV8JxiKrzL1IJOQhg) | 3:06 |
-| 17 | [Passionfruit](https://open.spotify.com/track/62JWd1Sf0yHRaZdIksb5jv) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y) | 2:40 |
-| 18 | [マリーゴールド](https://open.spotify.com/track/2cKiHG16JBiqHdi7Llq0r7) | [Aimyon](https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6) | [瞬間的シックスセンス](https://open.spotify.com/album/7fIqmc4GIaueaiAoDifAaA) | 5:06 |
-| 19 | [Break The Wall](https://open.spotify.com/track/70fXostLZhpUdLsR6d9YSD) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [Fe3O4: BREAK](https://open.spotify.com/album/5eFVAS7IWjTOGGkJ1yO16y) | 3:24 |
-| 20 | [HOME](https://open.spotify.com/track/6FPNUIPNW2H1Z1Gpt81GkO) | [NMIXX](https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl) | [expérgo](https://open.spotify.com/album/2mKUepexXVL69G8bBK9ECB) | 2:40 |
+| 1 | [Message from MISAMO](https://open.spotify.com/track/46Y4GOxN1BROB0f9rhovKj) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Message from MISAMO](https://open.spotify.com/album/1PUPqJBDDaB9TRk7vxBEhT) | 0:28 |
+| 2 | [Do not touch](https://open.spotify.com/track/5gq7xM6eI16osBO2U581NL) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 3:05 |
+| 3 | [It's not easy for you](https://open.spotify.com/track/1qNk7XPTbyuO4bsDl0T6nN) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:20 |
+| 4 | [Rewind you](https://open.spotify.com/track/1ND5rLpNQsyLxRd84HysSn) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 3:17 |
+| 5 | [Marshmallow](https://open.spotify.com/track/1V6H3YoNZJ2WlPmwsaOXZx) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 3:02 |
+| 6 | [Bouquet](https://open.spotify.com/track/3XwMdYdN6PauyBAOQxlu76) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 4:24 |
+| 7 | [Wah Wah Wah](https://open.spotify.com/track/13NAPa9UGsNvpWlCeIBB9K) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 3:07 |
+| 8 | [Mirage \(SANA\)](https://open.spotify.com/track/0HtVZMMehKHJPG4npCnXIv) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 3:00 |
+| 9 | [Misty \(MINA\)](https://open.spotify.com/track/347F32RMBGXtUyntcqX1oS) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 3:14 |
+| 10 | [Money In My Pocket \(MOMO\)](https://open.spotify.com/track/78qBcW44wNzdr2EDpqi0oV) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 2:29 |
+| 11 | [Identity](https://open.spotify.com/track/0wu7L2JkRqx2nFCSiYqcKy) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 2:20 |
+| 12 | [RUNWAY](https://open.spotify.com/track/1ctHNAVFmDTtge6GpmuBlg) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 2:43 |
+| 13 | [Jealousy](https://open.spotify.com/track/17mOPJIiRx5J5jtvOzvpet) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 3:19 |
+| 14 | [Baby, I'm good](https://open.spotify.com/track/5VeH6BTYuILdKR7SzSuwkx) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 2:59 |
+| 15 | [Funny Valentine](https://open.spotify.com/track/4xtgQGbQnII1buKgl5fguT) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 3:17 |
+| 16 | [NEW LOOK](https://open.spotify.com/track/2dcUJfnd2BAKS7jUSdlmmO) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 3:16 |
+| 17 | [Behind The Curtain](https://open.spotify.com/track/14nturKxV48wR3lbknehiu) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [Masterpiece](https://open.spotify.com/album/3qmO83vO1SsdmP1Y0ljhSQ) | 2:58 |
+| 18 | [Daydream](https://open.spotify.com/track/6Ysrcp03rQVYuSeFO6bC0W) | [MISAMO](https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo) | [HAUTE COUTURE](https://open.spotify.com/album/1WJ9XNiSoICq7iRrqzXOij) | 2:45 |
 
-Snapshot ID: `Z4Ou3QAAAABlRd7secdW0vEHMIm7+QAO`
+Snapshot ID: `Z4j01wAAAACgIQjt/+g1VpX0Cw2nYENJ`

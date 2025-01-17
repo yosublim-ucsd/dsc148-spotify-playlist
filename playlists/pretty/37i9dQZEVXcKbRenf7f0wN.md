@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Watermelon](https://open.spotify.com/track/1jQudBJvMAd7HuHZlTwrNz) | [John + Jane Q\. Public](https://open.spotify.com/artist/6zj2ZyQxZl9Omk4v7kcahS) | [Watermelon](https://open.spotify.com/album/32TiqX20SDNRt7XhK3PPWR) | 1:50 |
+| 1 | [Watermelon](https://open.spotify.com/track/1jQudBJvMAd7HuHZlTwrNz) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Watermelon](https://open.spotify.com/album/32TiqX20SDNRt7XhK3PPWR) | 1:50 |
 | 2 | [Fahrradsattel](https://open.spotify.com/track/0P0nhrK36P885ltXsdRovK) | [Pisse](https://open.spotify.com/artist/5rtJUzDnPO5m2cDubKH5u3) | [Kohlrübenwinter](https://open.spotify.com/album/4Xs4lFXNQjkEx01z8uzKUk) | 1:49 |
 | 3 | [Save the World](https://open.spotify.com/track/6wF1rPeGa5a7kyWO80P0AP) | [We Are Not Friends](https://open.spotify.com/artist/2nR28y0ZVWt8oBxXi79szg), [Nextime](https://open.spotify.com/artist/6Kwqn9ZUZvG9lz4InvATNj) | [Save the World](https://open.spotify.com/album/6tUzCC7JK49pIs6asyprRi) | 2:08 |
 | 4 | [Blown Away](https://open.spotify.com/track/1Stb41NRwgVliU9FRFMGIC) | [Youth Brigade](https://open.spotify.com/artist/5drRnXQdotVEC2QnVd0hFP) | [Sink with Kalifornija](https://open.spotify.com/album/0NrzBaSYHqhpToKWYB0m4z) | 2:47 |
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXcKbRenf7f0wN.md) - [plain]
 | 29 | [Jesus Hitler](https://open.spotify.com/track/0CSw45i35lEqM3KMSnHgMe) | [Carnivore](https://open.spotify.com/artist/0yL1k21OjFpQtWsHz9fxTN) | [Extreme Metal 101 \(Vol\. 2\)](https://open.spotify.com/album/4dhIyQBGmdw6ux6E5QattX) | 5:18 |
 | 30 | [In A Big Country](https://open.spotify.com/track/1tAFvq63jO3n9WaDCZPJNh) | [Big Country](https://open.spotify.com/artist/1h8YIw9HLr6E8gdXVDRbVJ) | [The Crossing](https://open.spotify.com/album/3ODt64EiOqXvwR5fEIWlWy) | 4:44 |
 
-Snapshot ID: `Z4SBsAAAAACzh7VBOTbFx5B2OBbe+Bl3`
+Snapshot ID: `Z4SBsAAAAAArc4aJE5ac6CcI7e7PiznL`

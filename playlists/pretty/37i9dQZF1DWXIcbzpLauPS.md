@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: LANDMVRKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 938,945 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 938,995 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 45 | [Conflict](https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw) | [Slaughter to Prevail](https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m) | [Conflict](https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE) | 2:24 |
 | 46 | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE) | [From Ashes to New](https://open.spotify.com/artist/4HrkLxQHZ5mgCtIVpiH5QX), [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B), [Chrissy Costanza](https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv) | [Barely Breathing \(feat\. Against The Current\)](https://open.spotify.com/album/7g4zvyk5Lz0DtNDtqr7Pu6) | 3:10 |
 | 47 | [Ritual](https://open.spotify.com/track/1PVD8pnxk9bRaiBnGTJRA1) | [The Devil Wears Prada](https://open.spotify.com/artist/0NbQe5CNgh4YApOCDuHSjb) | [Ritual](https://open.spotify.com/album/5VhgBtTDF19fFGWOnS7r5p) | 3:43 |
-| 48 | [Hatred](https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Hatred](https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc) | 3:03 |
-| 49 | [Never Enough](https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Never Enough](https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1) | 3:19 |
+| 48 | [Never Enough](https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Never Enough](https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1) | 3:19 |
+| 49 | [Hatred](https://open.spotify.com/track/4OfKo7WsPOqueL2V2YmK7c) | [Paleface Swiss](https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A) | [Hatred](https://open.spotify.com/album/7sIHuZVKvvgzknGjVmBoHc) | 3:03 |
 | 50 | [they’re all around us](https://open.spotify.com/track/27g7prKPpfUtaPOBjO1hQ1) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [they’re all around us](https://open.spotify.com/album/6gMiln92by2lYuGM8lggNj) | 3:24 |
 | 51 | [Apathy](https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Apathy / 31.10](https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0) | 3:31 |
 | 52 | [FiftyFive](https://open.spotify.com/track/3lwxrFRSKVNDkACdsYkl5M) | [Our Promise](https://open.spotify.com/artist/4ISeDymLgZtEyx5Dy4BaqD) | [FiftyFive](https://open.spotify.com/album/18eAYthBPUxAGeejX9yK8K) | 3:24 |
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 55 | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/track/1iv0Expr4TzDnx62w60oqN) | [NOTHING MORE](https://open.spotify.com/artist/39VNwvlQTqE9SvgPjjnMpc), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2), [I Prevail](https://open.spotify.com/artist/3Uobr6LgQpBbk6k4QGAb3V) | [HOUSE ON SAND \(feat\. Eric V\. of I Prevail\)](https://open.spotify.com/album/6rxuvZ6hUgbhEH1J4wrcXu) | 4:23 |
 | 56 | [Hands of Sin](https://open.spotify.com/track/2iVoelOzPLaw3R7GcpBuVe) | [Bleed From Within](https://open.spotify.com/artist/5ZvwJikDgdP1PFU4PkAPVG) | [Hands of Sin](https://open.spotify.com/album/3ZUxHRqFUm7FBFHFT5uXaW) | 4:02 |
 | 57 | [Say It To My Face](https://open.spotify.com/track/6LJCYaK4xE3WAGjEs547Yr) | [If Not For Me](https://open.spotify.com/artist/5aqpMOXNPtkxwT7jWuE9Vd), [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk) | [Say It To My Face](https://open.spotify.com/album/6k6blSkAQz9DlMfJzqsS6f) | 3:08 |
-| 58 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 |
-| 59 | [Skin & Bones](https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Skin & Bones](https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2) | 3:09 |
+| 58 | [Skin & Bones](https://open.spotify.com/track/00NMFm5GBfE64F6LyCIXNT) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [Skin & Bones](https://open.spotify.com/album/5J5bCon0bHWLYFRGi7BZu2) | 3:09 |
+| 59 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 |
 | 60 | [Continuum \- Feat\. Niklas Karlsson](https://open.spotify.com/track/1e9YEwhvmlAxhdDj7hcLIx) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH), [Orbit Culture](https://open.spotify.com/artist/7k29FbDq69ju2fe6zTskxY), [Niklas Karlsson](https://open.spotify.com/artist/5dYTF0kETzMSgmsEtUOxu8) | [Continuum \(Feat\. Niklas Karlsson\)](https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw) | 4:17 |
 | 61 | [Antimatter](https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Antimatter](https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ) | 3:41 |
 | 62 | [RAINBOWS](https://open.spotify.com/track/5PRPMGAiQXEQL5frHaJneT) | [While She Sleeps](https://open.spotify.com/artist/38LdIuxB548zgHoEY2AN7a) | [SELF HELL](https://open.spotify.com/album/3vUzV2wdNrDubtH2gG7rb5) | 4:22 |
@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIcbzpLauPS.md) - [plain]
 | 94 | [Remember Me](https://open.spotify.com/track/1xqt7wT0YY9YpP9jrTuVgG) | [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Remember Me](https://open.spotify.com/album/7daOpSeAgyfQMEd3YbIGPZ) | 4:04 |
 | 95 | [Doom + Gloom](https://open.spotify.com/track/6MI4QzIiJIfIZcdTSlDXnq) | [Set for Tomorrow](https://open.spotify.com/artist/38G81lySCkQhDVRchYGZzK) | [Doom + Gloom](https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0) | 3:09 |
 | 96 | [Salt and Ash](https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm) | [God Complex](https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k) | [Salt and Ash](https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m) | 2:08 |
-| 97 | [Survivors Guilt](https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Survivor’s Guilt](https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY) | 3:18 |
-| 98 | [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 |
+| 97 | [Continuum](https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4) | [Imminence](https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH) | [Continuum](https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A) | 4:20 |
+| 98 | [Survivors Guilt](https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Survivor’s Guilt](https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY) | 3:18 |
 | 99 | [Walk Away](https://open.spotify.com/track/1TK3lggm7HZ00nQp01uUTu) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Walk Away](https://open.spotify.com/album/0kQCM0BNxFbSxPs0EFtwvN) | 3:29 |
 | 100 | [Better Off Alone](https://open.spotify.com/track/5VoE2F0vCeXVmEo4soLavh) | [Versus Me](https://open.spotify.com/artist/2LDhAV1ZRW6XdLNgg1pPg9) | [Better Off Alone](https://open.spotify.com/album/7FQIV0DoXL986gmwU1gXYI) | 3:10 |
 

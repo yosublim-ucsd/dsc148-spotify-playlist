@@ -4,7 +4,7 @@
 
 > A pastoral, uplifting pan\-African café sound
 
-227 songs - 16 hr 48 min
+229 songs - 16 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Blossom](https://open.spotify.com/track/56FQB1uAsuBVrURqDRw24v) | [Joss Jaffe](https://open.spotify.com/artist/2Nj9Ni0ML57eyiursEE5xx), [Jim "Kimo" West](https://open.spotify.com/artist/51aljngqSf5fmjeQEOXp0k) | [Aum Akua](https://open.spotify.com/album/4PiA2thaZ9HOw2XoE3scTU) | 5:22 | 2022-08-05 |  |
 | [Bougoudani](https://open.spotify.com/track/7ENxFeh3Ca4TIWbUsZ0zH7) | [Boubacar Traoré](https://open.spotify.com/artist/63Bilw49Uv4s2wnovytDVU) | [Mbalimaou](https://open.spotify.com/album/5VDVsvEYE0VqVvxUNLZ3gO) | 6:26 | 2022-08-05 |  |
 | [Ciew Mawele](https://open.spotify.com/track/57wa2HaWiI2Rpl6z142zes) | [Issa Bagayogo](https://open.spotify.com/artist/3T2iIPbvIyKJdXNrFYiYXn) | [Tassoumakan](https://open.spotify.com/album/4dC5mXjAbdd0JUhQFNMmxX) | 5:13 | 2022-08-05 | 2023-03-15 |
+| [Dagabi](https://open.spotify.com/track/5IYvaxacCIRO6Ribajy6qv) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Dagabi](https://open.spotify.com/album/1d4kUa9v59fKCK3TCrfn7j) | 4:33 | 2025-01-16 |  |
 | [Dagmawi Menelik](https://open.spotify.com/track/2QzWvFrnF94qq1GewmfCPl) | [Teddy Afro](https://open.spotify.com/artist/08oMhAUN23C91R1zltrR6p) | [Abebayewosh Single Collections, Vol\. 2](https://open.spotify.com/album/3W9C5ISA5wKeNUDtcYa6nQ) | 2:38 | 2024-05-07 | 2024-09-25 |
 | [Dary](https://open.spotify.com/track/2IzB8Y4tmp0JtRp5j2dJjK) | [Omar Sosa](https://open.spotify.com/artist/2zyVwasA2QkaVopBFZ2RfX), [Seckou Keita](https://open.spotify.com/artist/3iT2a4ug1Z4miaWS0HINdc) | [Transparent Water](https://open.spotify.com/album/05zAa96vJNiqrT9GBc6n3O) | 5:08 | 2022-08-05 | 2024-05-08 |
 | [Dey \- Gaudi & Don Letts Remix](https://open.spotify.com/track/3GNgqub6dNJbkrAmiiW6Qz) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi), [Gaudi](https://open.spotify.com/artist/4VPauFDuyMnoakRnCPmcgP), [Don Letts](https://open.spotify.com/artist/79UXgdUqtyrIIAzgGzGkAa) | [Dey \(Gaudi & Don Letts Remix\)](https://open.spotify.com/album/7FL1cdLCr6TyduBxMIWHj7) | 4:27 | 2024-11-08 | 2025-01-10 |
@@ -49,7 +50,7 @@
 | [Djorolen \(2003 \- Remaster\)](https://open.spotify.com/track/6LSSDJ9XsRPfqMXNr77f6O) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/7k44FzFVfb0rNHOSgfXQO8) | 6:42 | 2023-10-27 | 2024-04-19 |
 | [Djorolen \- 2003 Remaster](https://open.spotify.com/track/2dEPvKmB3R3NldF6U9uidT) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh) | [Oumou](https://open.spotify.com/album/3b7OKZVFIGpWaviLFbOGPI) | 6:42 | 2022-08-05 |  |
 | [Dung Gate](https://open.spotify.com/track/2iYKFf2p2mM0YSfRXOdLF4) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv), [Hoodna Orchestra](https://open.spotify.com/artist/0W4SloMSD1yelzFsp1UkFk) | [Dung Gate](https://open.spotify.com/album/3QMRQH28I1kwXe9nzFtUYd) | 4:07 | 2024-10-25 | 2025-01-10 |
-| [Dèrbabé](https://open.spotify.com/track/1NS4XusV8Zz8FgJNcr5fe7) | [Orchestra Ethiopia](https://open.spotify.com/artist/461tDGlAfLx34eA7IDrXyr) | [Ethiopiques, Vol\. 23: Orchestra Ethiopia 1963\-1975](https://open.spotify.com/album/0DSKt06HRsqqtHe9zmx5Cp) | 3:12 | 2024-05-07 |  |
+| [Dèrbabé](https://open.spotify.com/track/1NS4XusV8Zz8FgJNcr5fe7) | [Orchestra Ethiopia](https://open.spotify.com/artist/461tDGlAfLx34eA7IDrXyr) | [Ethiopiques, Vol\. 23: Orchestra Ethiopia 1963\-1975](https://open.spotify.com/album/0DSKt06HRsqqtHe9zmx5Cp) | 3:12 | 2024-05-07 | 2025-01-17 |
 | [El Sicuri](https://open.spotify.com/track/7GBhEInpST7Dx9fE0tBMEI) | [Tunde Jegede](https://open.spotify.com/artist/5gPITPJ367q2LVTwzVXhLJ) | [Still Moment](https://open.spotify.com/album/03uMfQNIFSHVwcxCngFdT5) | 2:55 | 2022-08-05 | 2024-05-08 |
 | [Emi Aluta](https://open.spotify.com/track/0EDeblRUiwI7ICqPj4uELR) | [Seun Kuti](https://open.spotify.com/artist/1GQur7dDvAWhKT9u9YwBJZ), [Egypt 80](https://open.spotify.com/artist/6L71LxY17w8Yzh1zUphpiW), [Sampa the Great](https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk) | [Heavier Yet \(Lays The Crownless Head\)](https://open.spotify.com/album/2xsxl1780BXMEfxw5ZsTja) | 8:43 | 2025-01-09 |  |
 | [Enafqeshalehu](https://open.spotify.com/track/24wcXHsMTeqKp7tjOSlISh) | [Tadele Beqele](https://open.spotify.com/artist/25tOjdOIoDhwAgFOzQPiL8) | [Ethiopiques, Vol\. 3: Golden Years 1969\-1975](https://open.spotify.com/album/64BIQfXdqgzg6mh1UJxzEY) | 2:53 | 2024-05-07 | 2024-09-25 |
@@ -202,6 +203,7 @@
 | [Ti zaa tari sum la be\-em](https://open.spotify.com/track/1cjMBOG4spVtl8CF9FlRB8) | [Atongo Zimba](https://open.spotify.com/artist/2v4nnZUv8Vd6dlwn4reAD4) | [Barefoot In The Sand](https://open.spotify.com/album/28WduwspOihtCxYfyTCrM3) | 5:10 | 2022-08-05 | 2023-11-17 |
 | [Tighten The Skirt](https://open.spotify.com/track/68epgNyW7qJd0E9fVBZiSZ) | [Wiyaala](https://open.spotify.com/artist/0Ttf480Uumk6ylOAokG2h7) | [Tighten The Skirt](https://open.spotify.com/album/1uWBhe5ThiiNPC0Il2Ij0i) | 3:17 | 2024-09-24 |  |
 | [Toroya](https://open.spotify.com/track/1M3FFFzymhsgKCs6b67SjM) | [Issa Bagayogo](https://open.spotify.com/artist/3T2iIPbvIyKJdXNrFYiYXn) | [Timbuktu](https://open.spotify.com/album/5IpKgE3sThNxDaMDe9uSWO) | 3:37 | 2022-08-05 | 2024-05-08 |
+| [Toukambela](https://open.spotify.com/track/4dqHz6oc2lWugl04O2Xn7S) | [Songhoy Blues](https://open.spotify.com/artist/5fpQ5Qt2BKgoVBSMw4Z17Z) | [Toukambela](https://open.spotify.com/album/72lLPdEQw5pyQKRw7xufyZ) | 4:40 | 2025-01-16 |  |
 | [Traveller](https://open.spotify.com/track/6Owmnfs6MvM1M3s9k8s2iC) | [Baaba Maal](https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf) | [The Traveller \(Special Edition\)](https://open.spotify.com/album/4aBzJki6h22G9v4dph5XZO) | 4:07 | 2022-08-05 | 2023-11-17 |
 | [Tutu Jara](https://open.spotify.com/track/2chWRRkUFWSowfNmWyjtaV) | [Dawda Jobarteh](https://open.spotify.com/artist/0r4d3UdcQlNjYRaFAbEZgh), [Admeta String Quartet](https://open.spotify.com/artist/3zGI2zcyF1HEThYWHNHxzy) | [Soaring Wild Lands \(The Instrumentals\)](https://open.spotify.com/album/6KfEoQNTYs3R1X82Z3JghR) | 2:35 | 2022-08-05 |  |
 | [Ubaba](https://open.spotify.com/track/3QWNXhctFFysLOmMokjr7K) | [Urban Village](https://open.spotify.com/artist/60UHsALAJRgTJdAxZGAZDg) | [Udondolo](https://open.spotify.com/album/2JVIW82O1VMiPUHfHNItgw) | 4:37 | 2022-08-05 | 2024-05-08 |
@@ -234,6 +236,6 @@
 | [Yekerem Fikir](https://open.spotify.com/track/5Un3BBPuilc97RBLDsyht3) | [Getachew Kassa](https://open.spotify.com/artist/5y5AF4ynQmNYvyw3pfcIbj) | [The Legends](https://open.spotify.com/album/3jg4j9jhMFNku2OUiJsQRa) | 5:06 | 2024-05-07 |  |
 | [Yideni](https://open.spotify.com/track/2CKw6pe4Y2SKjwzwi2JLSk) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/2SmxsoK36dY9Adxf6M81zz) | 6:29 | 2022-08-05 | 2023-09-15 |
 | [Yideni](https://open.spotify.com/track/2JwHTSryCZYyyo2saHvNwO) | [Massa Dembele](https://open.spotify.com/artist/3hPXu7TVE8f09TD6z11FlW) | [Mezana Dounia](https://open.spotify.com/album/5B1f3qkeZb13XTu4a4hjHv) | 6:29 | 2023-03-14 | 2023-11-17 |
-| [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 | 2024-05-07 |  |
+| [Yègellé Tezeta](https://open.spotify.com/track/0fxjsll9jmmRgMFbwdp4Xg) | [Mulatu Astatke](https://open.spotify.com/artist/7HGFXtBhRq3g1Ma3nH4Rgv) | [New York \- Addis \- London: The Story of Ethio Jazz 1965\-1975](https://open.spotify.com/album/3MHdUsf9wX9WffvOP59RBz) | 3:14 | 2024-05-07 | 2025-01-17 |
 
 \*This playlist was first scraped on 2022-09-09. Prior content cannot be recovered.

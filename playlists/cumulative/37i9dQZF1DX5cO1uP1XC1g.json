@@ -1503,6 +1503,24 @@
     },
     {
       "album": {
+        "name": "Doctor",
+        "url": "https://open.spotify.com/album/5vw2zkJ3vFvLWsMZP1syuT"
+      },
+      "artists": [
+        {
+          "name": "AL SHAMI",
+          "url": "https://open.spotify.com/artist/597R32EkdYgLMf1tQcHF8k"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217411,
+      "name": "Doctor",
+      "url": "https://open.spotify.com/track/0qIsAN3bvWiwp8e7Rf0LQF"
+    },
+    {
+      "album": {
         "name": "Dwali",
         "url": "https://open.spotify.com/album/4qOcCHQTWnVXYxdaltr0K9"
       },
@@ -2482,6 +2500,24 @@
       "duration_ms": 177612,
       "name": "Goumi",
       "url": "https://open.spotify.com/track/1B3dofIhiqA5IaZDYSOpJq"
+    },
+    {
+      "album": {
+        "name": "Habebna",
+        "url": "https://open.spotify.com/album/6udoWtucgo5nrmcLhRrFNR"
+      },
+      "artists": [
+        {
+          "name": "Ahmed Saad",
+          "url": "https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248520,
+      "name": "Habebna",
+      "url": "https://open.spotify.com/track/7dnOoqGBwHMHEzwgveB4sO"
     },
     {
       "album": {
@@ -5947,6 +5983,24 @@
     },
     {
       "album": {
+        "name": "Yaah",
+        "url": "https://open.spotify.com/album/4ovMza1WebamIyWDRupshi"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234456,
+      "name": "Youm Ma Tensa",
+      "url": "https://open.spotify.com/track/0Zeh4nKHG4g8qp5oEnNDhQ"
+    },
+    {
+      "album": {
         "name": "Youm Talat (Remix)",
         "url": "https://open.spotify.com/album/6V8QwgQg0Xszo8zu2Do44K"
       },
@@ -6184,7 +6238,7 @@
       ],
       "date_added": "2023-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 170000,
       "name": "\u0627\u062e\u062a\u064a\u0627\u0631\u0627\u062a\u064a - \u0645\u0646 \u0641\u064a\u0644\u0645 \u0645\u0633\u062a\u0631 \u0625\u0643\u0633",
       "url": "https://open.spotify.com/track/3ilp9U50Ak4CKkS7jdCY4L"

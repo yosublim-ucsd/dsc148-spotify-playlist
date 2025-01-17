@@ -139,6 +139,28 @@
     },
     {
       "album": {
+        "name": "AHA GI",
+        "url": "https://open.spotify.com/album/1m0UBS67ULLyN2Z5WsUrko"
+      },
+      "artists": [
+        {
+          "name": "Frank Edwards",
+          "url": "https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg"
+        },
+        {
+          "name": "Dj Horphuray",
+          "url": "https://open.spotify.com/artist/0VQxKhG5uvT0gIDqAuyl4L"
+        }
+      ],
+      "date_added": "2024-12-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230884,
+      "name": "AHA GI",
+      "url": "https://open.spotify.com/track/2FG8qmndhyFqajnUF2912N"
+    },
+    {
+      "album": {
         "name": "Akuzike",
         "url": "https://open.spotify.com/album/5rApc4mQ4yHIJxSlkBPSuL"
       },
@@ -1772,7 +1794,7 @@
       ],
       "date_added": "2023-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 312556,
       "name": "Igwe",
       "url": "https://open.spotify.com/track/6Of9mBX5A3C0DqH7ysqqFb"

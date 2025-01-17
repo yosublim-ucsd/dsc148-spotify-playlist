@@ -4,7 +4,7 @@
 
 > Music from Lil Baby,  Kendrick Lamar and Offset.
 
-2,270 songs - 4 day 21 hr 37 min
+2,271 songs - 4 day 21 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -802,6 +802,7 @@
 | [Hard For The Next \(with Future\)](https://open.spotify.com/track/2D6vfFZxQ5YzPPBODls1a9) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Hard For The Next \(with Future\)](https://open.spotify.com/album/3OW3LdMVfuI7HsGRoVVHgm) | 2:46 | 2021-03-26 | 2021-04-24 |
 | [Harder Than My Demons](https://open.spotify.com/track/4OVxipHdSdOTTDyh1vsPCG) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Harder Than My Demons](https://open.spotify.com/album/3BFEqpVEHlku8L5c24q4GP) | 2:11 | 2020-09-01 | 2020-09-04 |
 | [Hatchback](https://open.spotify.com/track/12hVQgYR254ZziANtiKVWQ) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [Hatchback](https://open.spotify.com/album/1GqVf0wkVpT32Mxj7NGxpL) | 2:29 | 2020-09-04 | 2020-09-11 |
+| [Hate It Or Love It](https://open.spotify.com/track/2wGSgTmgSF3xjRrHkTc25R) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [50 Cent](https://open.spotify.com/artist/3q7HBObVc0L8jNeTe5Gofh) | [The Documentary](https://open.spotify.com/album/4PrPbmm0gKvaD3rerOXFg8) | 3:26 | 2025-01-16 |  |
 | [Hate Me](https://open.spotify.com/track/0QpiyJbgWUjyAQNqjIA5tO) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [ian](https://open.spotify.com/artist/23hzc59PkIUau13dqXx5Ef) | [Hate Me](https://open.spotify.com/album/5MqrNKRQ1OjwtSiXjrzkjy) | 2:41 | 2024-08-02 | 2024-11-16 |
 | [Hate The Other Side \(with Marshmello & The Kid Laroi\)](https://open.spotify.com/track/66FgjA5ZQJJuypFG1bc8se) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz), [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [Legends Never Die](https://open.spotify.com/album/1R6vbGGXSEZZmTGn7ewwRL) | 2:40 | 2020-07-10 | 2020-10-17 |
 | [Hats Off \(feat\. Travis Scott\)](https://open.spotify.com/track/4lUmnwRybYH7mMzf16xB0y) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Lil Durk](https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Voice of the Heroes](https://open.spotify.com/album/6CvBb1XqN0igtQrWrbXD80) | 4:17 | 2021-06-05 | 2021-09-25 |

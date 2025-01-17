@@ -1723,6 +1723,24 @@
     },
     {
       "album": {
+        "name": "Cosmic Seeds",
+        "url": "https://open.spotify.com/album/2XMCmuerhM9lXP0cev8Gcq"
+      },
+      "artists": [
+        {
+          "name": "Brown Spirits",
+          "url": "https://open.spotify.com/artist/6kGqdMrX1clLXAOCnA7S6h"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 610853,
+      "name": "Fault Lines",
+      "url": "https://open.spotify.com/track/6gyt6rTwZFGaH85z7Si6Al"
+    },
+    {
+      "album": {
         "name": "Coyote",
         "url": "https://open.spotify.com/album/4RUEEx7aI836PxNySeoCEf"
       },
@@ -1770,7 +1788,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 384000,
       "name": "Ficci\u00f3n",
       "url": "https://open.spotify.com/track/5jK90x3YoYnsxt2hUGpj3R"
@@ -2656,7 +2674,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 290500,
       "name": "Iris Is Neil",
       "url": "https://open.spotify.com/track/3VIhqLfKxHqOQmfcm6JQtd"
@@ -3794,6 +3812,24 @@
       "duration_ms": 300003,
       "name": "Otto",
       "url": "https://open.spotify.com/track/6NfDAjWmXX6SQeB7kCEKXK"
+    },
+    {
+      "album": {
+        "name": "Cosmic Seeds",
+        "url": "https://open.spotify.com/album/2XMCmuerhM9lXP0cev8Gcq"
+      },
+      "artists": [
+        {
+          "name": "Brown Spirits",
+          "url": "https://open.spotify.com/artist/6kGqdMrX1clLXAOCnA7S6h"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194720,
+      "name": "Out Out Out",
+      "url": "https://open.spotify.com/track/1Dx2pfWd8AsLbqWRAbaABP"
     },
     {
       "album": {

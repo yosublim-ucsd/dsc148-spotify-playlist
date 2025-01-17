@@ -2,9 +2,9 @@
 
 ### [R&Beats](https://open.spotify.com/playlist/37i9dQZF1DX8DvacitluwF)
 
-> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w?si=SkEAQZBOQKmkGMj9KnNfGg">Mario</a>
+> The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c?si=aTRPMMOnR666JmU6OOBv4g">Craig David</a>
 
-422 songs - 22 hr 18 min
+425 songs - 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Baki Pekee Yako](https://open.spotify.com/track/5WPdyLkd0QNgC2HACe6Rte) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ), [Watendawili](https://open.spotify.com/artist/0q5lwUUiJEjoNVtHQv1jdn) | [Baki Pekee Yako](https://open.spotify.com/album/4c8e3IiaSk4YAQ5jmb3GOr) | 3:58 | 2024-05-09 | 2024-09-03 |
 | [bebé](https://open.spotify.com/track/1VzRSPZngDzfXHZNFtKYsW) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Tron Pyre](https://open.spotify.com/artist/3pi8AlHZo5bq0mFi3wZDW8) | [bebé](https://open.spotify.com/album/7iIlZFq4OfdFkEJaPZjl4y) | 3:20 | 2023-10-26 | 2023-12-23 |
 | [Because I Love You](https://open.spotify.com/track/7i2H2HgdJjwpxTRt8NW8jY) | [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Because I Love You](https://open.spotify.com/album/2OMQXqAU6PSp4q685t3yAU) | 3:31 | 2024-09-11 |  |
+| [Beg For It](https://open.spotify.com/track/62toM9v7NsspHYCfaudxHZ) | [Njerae](https://open.spotify.com/artist/74HCIpcjuBFnsd7PoYSglQ) | [Beg For It](https://open.spotify.com/album/1BinKRne8TTTTp8PHojN8l) | 2:53 | 2025-01-17 |  |
 | [Beholder](https://open.spotify.com/track/67Fi496esttxXwjl20OoXC) | [lordkez](https://open.spotify.com/artist/3wWNX2BDUj4tPpLF6D1W88) | [Testament](https://open.spotify.com/album/06klV2isRMZbEofIvOunPM) | 2:33 | 2024-09-02 | 2024-09-12 |
 | [Best Friend \(Control\)](https://open.spotify.com/track/7GOBGke0Z1vkccV5Mj4E2s) | [Langa Mavuso](https://open.spotify.com/artist/55FBDBLWXQ2sokFravrxop) | [Best Friend \(Control\)](https://open.spotify.com/album/3BBhRMZrr9c2TyPupmPOBQ) | 3:06 | 2024-07-11 | 2024-09-03 |
 | [Birds](https://open.spotify.com/track/1Jy2MJzzfP6FHF9TeeMHtd) | [Shannon](https://open.spotify.com/artist/0cpRAqLFfaS1wgflVWtd4S) | [Birds](https://open.spotify.com/album/1tbzDVXgaVVE4PsM9uEOEy) | 2:30 | 2024-03-28 | 2024-08-31 |
@@ -84,6 +85,7 @@
 | [Could Be](https://open.spotify.com/track/53yzUIg6jFFI3WXQXEtyI3) | [Bono Paige](https://open.spotify.com/artist/5qkzhqx3sg6zFln2MIROd6) | [Could Be](https://open.spotify.com/album/08v0Cx5IjcKpKNxIBf3xg2) | 2:20 | 2024-09-02 | 2024-09-12 |
 | [Crash & Burn](https://open.spotify.com/track/1WtkpKhMtFgLcgOQzSODyX) | [KuchiCola](https://open.spotify.com/artist/019a0Q0A8WEfLxoWT3Fl7h), [CCG](https://open.spotify.com/artist/37330J0XOYDNzKAm7zepXg) | [Crash & Burn](https://open.spotify.com/album/169yQVAzXaaAslhqJ2IrL3) | 3:41 | 2024-06-13 | 2024-09-03 |
 | [Crown Bounce](https://open.spotify.com/track/25SZzbj6rLvbqm48QwEsAj) | [Leather Park](https://open.spotify.com/artist/7zwAV8QMBcclMJbWf7DmQ1), [Odunsi \(The Engine\)](https://open.spotify.com/artist/3QAWvRmq1TMLuNtDKVyRaW), [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT), [Elias Slay6rr](https://open.spotify.com/artist/78rrSlHaVgfpWxgsnUtqwh) | [Crown Bounce](https://open.spotify.com/album/4C8493WEDy0Yc2tP9g2MzZ) | 2:33 | 2024-03-14 | 2024-07-12 |
+| [Cry In A Lambo Not Prius](https://open.spotify.com/track/5DHuDjgL9QsuQxLTgUYw0G) | [Colossal Music](https://open.spotify.com/artist/6jlzMtFLWK4oUNyAeYu520) | [Cry In A Lambo Not Prius](https://open.spotify.com/album/4NFd8aIfaiD64uTUkKfRPK) | 4:03 | 2025-01-17 |  |
 | [CWT \(feat\. BNXN\)](https://open.spotify.com/track/3qI8VHIzADR3PCo5T8gZmb) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Bnxn](https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x) | [Are You Listening?](https://open.spotify.com/album/23csADVrKk0TsKL5z9tqEh) | 2:38 | 2024-07-11 | 2024-09-03 |
 | [Dalilah](https://open.spotify.com/track/22xDZE9YEZ2W0f19rVb5Gy) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Growing Pains](https://open.spotify.com/album/5xLpYZ6JUKj4bqo5Bc2hLx) | 2:47 | 2023-12-08 | 2024-03-22 |
 | [Dear Lord](https://open.spotify.com/track/511IyVYtIhyy0CzAjDGmbi) | [RUVA](https://open.spotify.com/artist/1WsTxIReCRobQIcvlFDul3) | [from RUVA to El Roi](https://open.spotify.com/album/4GuSLW3DJtppiGMUQq5Pz7) | 3:40 | 2024-09-02 | 2024-09-12 |
@@ -337,6 +339,7 @@
 | [Soft \(feat\. Chlöe & Halle\) \[Unlocked\]](https://open.spotify.com/track/3tBHvugVF7GSpKsncQml42) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [Halle](https://open.spotify.com/artist/3HsVtnnjOUToyJThxaoBfx) | [Access All Areas: Unlocked](https://open.spotify.com/album/4YcgdFu1iKCYPujsKQGKeB) | 3:11 | 2024-11-29 |  |
 | [Soh\-Soh](https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [Sunday At Zuri's](https://open.spotify.com/album/2vXLt5PVNMD6c6sUgvKN69) | 3:04 | 2024-09-11 |  |
 | [Someone Like You](https://open.spotify.com/track/49gDQkf5v2JFaBe9SjljNy) | [SuperCye](https://open.spotify.com/artist/2CpDiyZe7RLNgxRWkHVQYt) | [Desires](https://open.spotify.com/album/1jxx3QjNXfKNRkpN6bkdvz) | 3:09 | 2024-02-08 | 2024-04-26 |
+| [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 | 2025-01-17 |  |
 | [SOS](https://open.spotify.com/track/7xmfiscV802aQ3HT4pFkck) | [Una Rams](https://open.spotify.com/artist/0R9J43uwcbEaNfTb9y3FAS), [Mikhalé Jones](https://open.spotify.com/artist/7wVeyV9zIt2SBQlJ9DPuwf) | [SOS](https://open.spotify.com/album/7pnqWYpZoj7vEEvMJMR38A) | 4:07 | 2023-10-12 | 2024-09-12 |
 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 | 2024-09-11 |  |
 | [Space](https://open.spotify.com/track/7eLiZCx55Yds7xwRiXOfRR) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Space](https://open.spotify.com/album/53yStBYbIQTT65ul6LXudf) | 3:48 | 2024-09-26 | 2024-11-29 |

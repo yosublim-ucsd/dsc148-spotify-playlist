@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,748 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,777 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 57 | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/track/2YlsQaN9pT4mB3hCkSmFQf) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [Yet to Be \(feat\. Jason Isbell\)](https://open.spotify.com/album/4XH92T51JxlIqQOmnaYupi) | 3:39 |
 | 58 | [Jumpin'](https://open.spotify.com/track/0mFMDuXQ5Rb1I9hxT4GZl2) | [Leon Majcen](https://open.spotify.com/artist/7xTTolHL4UnrQLz0PNUyWE), [Jonny Morgan](https://open.spotify.com/artist/3gAs7sin4uZTlpRHNwWHzD), [The Biscuit Dispute](https://open.spotify.com/artist/7ABJ3TprcTxyyCxbVZh2Ck) | [Jumpin'](https://open.spotify.com/album/6whK2FCC7tIBihqZeFR8vY) | 2:42 |
 | 59 | [Take My Heart](https://open.spotify.com/track/4AEUvrnxGomXqK3guvQkt8) | [The Teskey Brothers](https://open.spotify.com/artist/2nTjd2lNo1GVEfXM3bCnsh) | [Take My Heart](https://open.spotify.com/album/5Wh8xD9g7Bu3ToOZCRMbwg) | 4:18 |
-| 60 | [Size Up](https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0) | [Felicity Urquhart](https://open.spotify.com/artist/5rbFtyxatX9R3afKUKdebj), [Josh Cunningham](https://open.spotify.com/artist/2pzZsblWBfCeYImsf7XbHJ) | [Size Up](https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M) | 3:36 |
+| 60 | [Size Up](https://open.spotify.com/track/68Qhf4bBC9zmY3E6Q33Us0) | [Felicity Urquhart and Josh Cunningham](https://open.spotify.com/artist/29TsUV0ZWC6uui8HAmNF21) | [Size Up](https://open.spotify.com/album/2WJ2bo01zbp6i2s9UpBn2M) | 3:36 |
 | 61 | [Rail Train Blues](https://open.spotify.com/track/4uGmIxAHzQ7eFUTUTrgcx9) | [Mike Stocksdale](https://open.spotify.com/artist/5hBlYNHQa69ayImuzihy8a) | [Ghosts & Whispers](https://open.spotify.com/album/7fyaXL87ACKqpQjqXTTbtt) | 3:53 |
 | 62 | [Transit Damage](https://open.spotify.com/track/4nUpA4KhunJgxvVvjHfRzB) | [Shinyribs](https://open.spotify.com/artist/3xkZ4A3btzE9F5oVuY25UF) | [Transit Damage](https://open.spotify.com/album/6Dn9kpVuqyaAzLSuBWiqlW) | 4:25 |
 | 63 | [Don't Leave Me](https://open.spotify.com/track/0AgUASgDyd1kZ2wFTMc9UC) | [Alex Lambert](https://open.spotify.com/artist/6iQBhWmcQcl9s4w1hL5lnN), [Dylan Chambers](https://open.spotify.com/artist/2jP4GO0BDgY15BqUcUVhG9) | [Don't Leave Me](https://open.spotify.com/album/1zi38GN7sht32SQbjiuM65) | 3:30 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Nininho Vaz Maia ",
+  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
   "name": "Pop PT",
   "tracks": [
     {
@@ -288,7 +288,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 214191,
       "name": "Aqui pra Ti",
       "url": "https://open.spotify.com/track/0BQTqEVfJika55rjtiMy8L"
@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 206700,
       "name": "casa",
       "url": "https://open.spotify.com/track/53gXl8SihJLcFeC2D8g6ry"
@@ -800,7 +800,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 177908,
       "name": "Como \u00c9 Linda",
       "url": "https://open.spotify.com/track/6B43EbmAvIZihRW50LCtav"
@@ -1004,7 +1004,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 170293,
       "name": "Deixou-me a mala no comboio",
       "url": "https://open.spotify.com/track/0qWrS0dWt9B4hmrMFvGX9r"
@@ -1102,6 +1102,28 @@
       "duration_ms": 209290,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/7F8XNJe7D9qo53ee9GPlOQ"
+    },
+    {
+      "album": {
+        "name": "Devolve-me o Amanh\u00e3",
+        "url": "https://open.spotify.com/album/3baRkCpqQHcLXUGaN62yXW"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9 ViaMonte",
+          "url": "https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct"
+        },
+        {
+          "name": "Ana Bacalhau",
+          "url": "https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192240,
+      "name": "Devolve-me o Amanh\u00e3",
+      "url": "https://open.spotify.com/track/0HlNrk1bsxFIIkOJqjb4EL"
     },
     {
       "album": {
@@ -1494,7 +1516,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 183714,
       "name": "Faz Bem",
       "url": "https://open.spotify.com/track/38adAyMqsOEwCdXETWCPPa"
@@ -1516,6 +1538,24 @@
       "duration_ms": 172205,
       "name": "FAZ DE CONTA",
       "url": "https://open.spotify.com/track/7EZDGijQNTqyGiAvfDImPM"
+    },
+    {
+      "album": {
+        "name": "Fica",
+        "url": "https://open.spotify.com/album/3ZPGpDLZvb7uF9IAKC656t"
+      },
+      "artists": [
+        {
+          "name": "Umbelino",
+          "url": "https://open.spotify.com/artist/2F5ZWFm3CDZ95LgLWIksUW"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179272,
+      "name": "Fica",
+      "url": "https://open.spotify.com/track/71aUNoaXhwTWfLdWkHCMDW"
     },
     {
       "album": {
@@ -1749,6 +1789,24 @@
     },
     {
       "album": {
+        "name": "Hora de Ponta",
+        "url": "https://open.spotify.com/album/6H1BsQ3YAMvA3LQ0EHk8Y5"
+      },
+      "artists": [
+        {
+          "name": "\u00c1TOA",
+          "url": "https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196030,
+      "name": "Hora de Ponta",
+      "url": "https://open.spotify.com/track/0b0loQ8uNkOCF9VBWXIuI6"
+    },
+    {
+      "album": {
         "name": "H\u00e1 Algo Em Ti",
         "url": "https://open.spotify.com/album/2aerklK61ud4O4sel9io7X"
       },
@@ -1928,6 +1986,24 @@
       "duration_ms": 218225,
       "name": "Juntar Estrelas",
       "url": "https://open.spotify.com/track/0OS0JI6vlxidLQnrZQ2G3m"
+    },
+    {
+      "album": {
+        "name": "Juras",
+        "url": "https://open.spotify.com/album/7FOLSM4KO0yF63KEN3ZZMZ"
+      },
+      "artists": [
+        {
+          "name": "Mariana Pereira",
+          "url": "https://open.spotify.com/artist/6OFJLqSjsWsigPp8MTcNHm"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168461,
+      "name": "Juras",
+      "url": "https://open.spotify.com/track/0bMU79dbvAax22hvi3u7ot"
     },
     {
       "album": {
@@ -2509,6 +2585,24 @@
     },
     {
       "album": {
+        "name": "Pensar Em Mim",
+        "url": "https://open.spotify.com/album/4jOWofeLIJPF45XM3EwHqP"
+      },
+      "artists": [
+        {
+          "name": "Carolina Deslandes",
+          "url": "https://open.spotify.com/artist/6xolQjWFT24ykWke55u9fU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164816,
+      "name": "Pensar Em Mim",
+      "url": "https://open.spotify.com/track/6HZIbKTqiac2EqFAVvcxNc"
+    },
+    {
+      "album": {
         "name": "Perfume",
         "url": "https://open.spotify.com/album/5zJ1AeTR9z6a7XuEaHxuRF"
       },
@@ -2804,7 +2898,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 174000,
       "name": "Romance de Balc\u00e3o",
       "url": "https://open.spotify.com/track/0Vr8RTAqZ4uhG9FbokA7cG"
@@ -3282,6 +3376,24 @@
       "duration_ms": 173006,
       "name": "Tu \u00c9s Capaz",
       "url": "https://open.spotify.com/track/7FWthtHNaVxbg5C1aQ68Fl"
+    },
+    {
+      "album": {
+        "name": "T\u00e3o Perto",
+        "url": "https://open.spotify.com/album/5L3kdhj5CSe65wJUhX09Wu"
+      },
+      "artists": [
+        {
+          "name": "Valter Lobo",
+          "url": "https://open.spotify.com/artist/69KGUs8AVPGEyE5ZR9PCc7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191020,
+      "name": "T\u00e3o Perto",
+      "url": "https://open.spotify.com/track/2qrNqW7jSZn5cMW4oMTRKc"
     },
     {
       "album": {

@@ -2,7 +2,7 @@
 
 ### [VOLUME](https://open.spotify.com/playlist/37i9dQZF1DWWJOmJ7nRx0C)
 
-> The rock songs you need to know\. Turn it  ⬆️ Cover:  Dead Poet Society
+> The rock songs you need to know\. Turn it  ⬆️ Cover:  Linkin Park
 
 1,365 songs - 3 day 9 hr 26 min
 

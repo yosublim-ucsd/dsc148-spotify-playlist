@@ -4,7 +4,7 @@
 
 > Electronic music with Mediterranean and Eastern influences.
 
-302 songs - 22 hr 4 min
+303 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Giza](https://open.spotify.com/track/13E7IeNnA8kgQ1Jcz1Cehf) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Giza](https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw) | 7:12 | 2020-11-06 | 2021-02-12 |
 | [Hajaruni \(Suray Remix\)](https://open.spotify.com/track/4LDJ4Rj0rcskd9QywaGAac) | [Obeidmusic](https://open.spotify.com/artist/3kW6Vte9jUSL600uy9qsks), [Suray](https://open.spotify.com/artist/1NdFnV1nlaAy3vP4AvyrVn), [Hossam wahab](https://open.spotify.com/artist/57XN19Qw07kzvBN9sHQq8C) | [Hajaruni \(Suray Remix\)](https://open.spotify.com/album/6573VJLCFt7RGLwiCVYziH) | 5:31 | 2024-05-17 |  |
 | [Hasat](https://open.spotify.com/track/2AozWD8d95Q39J740Ba070) | [Hey! Douglas](https://open.spotify.com/artist/72xb37kgUWGPVJqqBFhGKq) | [Hasat](https://open.spotify.com/album/192JWsGEt8HNOKHHzuh3ux) | 3:15 | 2023-09-29 | 2023-11-11 |
+| [Hatiralar](https://open.spotify.com/track/2qL4uCMnilvl0uIHcwYyWv) | [Buddha\-Bar](https://open.spotify.com/artist/2X2QKxpUF4yemFqILMoZUQ), [Majnoon](https://open.spotify.com/artist/1eeh7aqCuDjuEvPXhQSF1h) | [Hatiralar](https://open.spotify.com/album/53OVidFRRrLBKb9avHiIBf) | 5:09 | 2025-01-17 |  |
 | [Hayati](https://open.spotify.com/track/5siesK1gYQObYkJvDKaYb9) | [Drinche](https://open.spotify.com/artist/0icjnvOhvT9hktbxVOUogI) | [Hayati](https://open.spotify.com/album/0H9rawRwwayQEXAmjKIbVQ) | 2:57 | 2024-03-13 |  |
 | [Heatiche \- Vip Mix](https://open.spotify.com/track/60gMTTxk5IRq3NiD2gzmcO) | [Mpirgkel](https://open.spotify.com/artist/4Xd6tQRiGab2gWhJdN44G4) | [Heatiche \(Vip Mix\)](https://open.spotify.com/album/69fuoZbcEdRJvady1qLdz3) | 3:36 | 2023-07-03 |  |
 | [Hebele Hubulu](https://open.spotify.com/track/77x1HkfcXYEjVfTvHrEGpt) | [Omerar Nanda](https://open.spotify.com/artist/6W9ysFAkpUJ3gJaJBAfkQl) | [Hebele Hubulu & Belantash](https://open.spotify.com/album/2cJMaNUS3F7qZnBLfzcONj) | 8:04 | 2021-03-08 | 2024-06-30 |
@@ -183,7 +184,7 @@
 | [Mazrub](https://open.spotify.com/track/6LQ6389JtKwSYWLi0c5OAH) | [Ossova](https://open.spotify.com/artist/5BTNXZpP9Dhzzb4llFSMzJ), [Amorf](https://open.spotify.com/artist/235rIOpga6eYnAP03JD444) | [Mazrub](https://open.spotify.com/album/3ehMTWstecDQEghyK3JcGi) | 3:06 | 2021-02-23 |  |
 | [Memories](https://open.spotify.com/track/79K265g8aRrl98igAjOE0L) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1) | [Memories](https://open.spotify.com/album/0Rjpw1MhWfGh1K9lyqakjY) | 3:28 | 2020-11-13 | 2022-07-29 |
 | [Memories](https://open.spotify.com/track/7oElCR8kjz4BX2uvwwtTTT) | [Frauble](https://open.spotify.com/artist/3NLk43BYwIw4UnPFevn1r1) | [Memories](https://open.spotify.com/album/60pdlSEWhFUir3fyCuqo0Y) | 3:28 | 2022-06-27 | 2023-03-18 |
-| [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 | 2020-10-18\* |  |
+| [Mindreader](https://open.spotify.com/track/5P52da2sNatI3lgZEW5Prb) | [Malik](https://open.spotify.com/artist/4sEcx9wubbX4TLdaCQTqGI) | [Mindreader](https://open.spotify.com/album/2S6yN5zAZpFmCuBKSU8YSM) | 2:52 | 2020-10-18\* | 2025-01-17 |
 | [Mirage \- Original](https://open.spotify.com/track/2fBOS1NT8dYFrypecpjoOS) | [Goldcap](https://open.spotify.com/artist/0uoaqsdWJ2Mbm9g0hjjZns) | [Visceral 048 \- Past Forward IV](https://open.spotify.com/album/5gwYVe3uLbE4kLIf1kSAF7) | 8:00 | 2020-10-18\* | 2023-03-13 |
 | [MIRAN](https://open.spotify.com/track/0BNNBoE8D33k7jjSExYbUI) | [Sinan Yalcin](https://open.spotify.com/artist/03ZkvOyphjIMDashA29QiW), [Roni Violinist](https://open.spotify.com/artist/0tRALyUvYQiXuvDEtBO2cf) | [MIRAN](https://open.spotify.com/album/34XaofZcShdwBM50sAHuHc) | 2:09 | 2023-09-21 |  |
 | [Mizaru](https://open.spotify.com/track/0KcO9fZg4t4iEX2Ug0hvrY) | [Avcio](https://open.spotify.com/artist/27YTx2t97TjnQZYeOkbJau), [Emircan Fidan](https://open.spotify.com/artist/1AFnr63dwLoIEQ962J4sB9) | [Three Wise Monkeys](https://open.spotify.com/album/30cXN71kK6LFGH7OBIUkXJ) | 4:13 | 2022-06-27 | 2023-03-18 |

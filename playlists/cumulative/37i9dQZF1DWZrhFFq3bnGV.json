@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-09",
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Sliver",
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: Arumtala",
   "name": "Jazz Anak Negeri",
   "tracks": [
     {
@@ -1652,6 +1652,24 @@
       "duration_ms": 266495,
       "name": "Funjam",
       "url": "https://open.spotify.com/track/5gigOxZ701Ezong2ua23Ab"
+    },
+    {
+      "album": {
+        "name": "Gagal Diet",
+        "url": "https://open.spotify.com/album/3mcLJfwHU5VR1N9pwSNCeO"
+      },
+      "artists": [
+        {
+          "name": "ArumtaLa",
+          "url": "https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188224,
+      "name": "Gagal Diet",
+      "url": "https://open.spotify.com/track/4zno3HyakA9YSSEH4pON1w"
     },
     {
       "album": {

@@ -4738,7 +4738,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-17",
       "duration_ms": 267004,
       "name": "Love And Hate",
       "url": "https://open.spotify.com/track/5Vt5PmlQvb0U9HbEX0qYRi"
@@ -5076,6 +5076,44 @@
       "duration_ms": 490389,
       "name": "Mbodiene",
       "url": "https://open.spotify.com/track/7HtwnNHm0I2hWxlpZOpaPn"
+    },
+    {
+      "album": {
+        "name": "Me Gusta (AM\u00c9M\u00c9 Remix)",
+        "url": "https://open.spotify.com/album/0qjrSdCW8LITJxRxAqkiE0"
+      },
+      "artists": [
+        {
+          "name": "AZZUR",
+          "url": "https://open.spotify.com/artist/4hCr8iPcZafmAQ8quCnqm2"
+        },
+        {
+          "name": "Meloko",
+          "url": "https://open.spotify.com/artist/59FM2BoNHA8kpDnPwELvIg"
+        },
+        {
+          "name": "Baron (FR)",
+          "url": "https://open.spotify.com/artist/3JdaEdgDuNckfx9Nl7x9C3"
+        },
+        {
+          "name": "Selim Sivade",
+          "url": "https://open.spotify.com/artist/6zQCqwr5oCLdfbvY3n3LIn"
+        },
+        {
+          "name": "Konvex (FR)",
+          "url": "https://open.spotify.com/artist/39vERtaB8quqGRumGCILC3"
+        },
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209145,
+      "name": "Me Gusta - AM\u00c9M\u00c9 Remix",
+      "url": "https://open.spotify.com/track/4RQjpPh7CNR14YyZAwVB1o"
     },
     {
       "album": {

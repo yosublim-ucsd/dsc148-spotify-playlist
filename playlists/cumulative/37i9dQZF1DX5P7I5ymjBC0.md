@@ -2,7 +2,7 @@
 
 ### [Fusion Finds](https://open.spotify.com/playlist/37i9dQZF1DX5P7I5ymjBC0)
 
-> Fusion music for the soul\.  Cover\- Ketan Sodha, Ash King & Jahnvi Shrimankar
+> Fusion music for the soul.
 
 143 songs - 12 hr 8 min
 

@@ -158,7 +158,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 178051,
       "name": "ALIBI",
       "url": "https://open.spotify.com/track/1zfszqoisdKWCIfFToaMHi"
@@ -238,7 +238,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-16",
+      "date_removed": null,
       "duration_ms": 171775,
       "name": "Ancora",
       "url": "https://open.spotify.com/track/7kvQDzIegURcWHLC0fZfrQ"
@@ -282,7 +282,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 169671,
       "name": "Angelina Jolie",
       "url": "https://open.spotify.com/track/0tD4EXZRm1JGDYWtKYFLWK"
@@ -362,7 +362,7 @@
       ],
       "date_added": "2023-06-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-09",
+      "date_removed": null,
       "duration_ms": 183321,
       "name": "Arsenico",
       "url": "https://open.spotify.com/track/7anzuQWuiCCULZhfJdXTyw"
@@ -478,7 +478,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 206510,
       "name": "Bella",
       "url": "https://open.spotify.com/track/7CxLQIq4kIq8P8UwemcKfX"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2023-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 181386,
       "name": "Bella",
       "url": "https://open.spotify.com/track/3vdJE5XWVax2kVs6OTJzWM"
@@ -662,7 +662,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 200235,
       "name": "Bugie Diverse",
       "url": "https://open.spotify.com/track/5F5vop7HZv4BjauPiUYY7R"
@@ -852,7 +852,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 184304,
       "name": "Centro (feat. Coez)",
       "url": "https://open.spotify.com/track/6DGl9TtxYTpMFrmZa1mwEz"
@@ -1060,7 +1060,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-19",
+      "date_removed": null,
       "duration_ms": 169787,
       "name": "Correre (feat. Frah Quintale)",
       "url": "https://open.spotify.com/track/5NYi4QOqyKT78JAJZAMKeN"
@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 174146,
       "name": "CUORI SPEZZATI",
       "url": "https://open.spotify.com/track/55h9la9ICtndO2PgH8U5E1"
@@ -1268,7 +1268,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-14",
+      "date_removed": null,
       "duration_ms": 167727,
       "name": "Dimenticare",
       "url": "https://open.spotify.com/track/5EOJ7bFZhGQv61R7vTFXk3"
@@ -1360,7 +1360,7 @@
       ],
       "date_added": "2024-03-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 182906,
       "name": "DOPO LE 4 (feat. Bresh & Tedua)",
       "url": "https://open.spotify.com/track/2mU3I4jfQp1K14JO2PmmQA"
@@ -1382,6 +1382,32 @@
       "duration_ms": 219772,
       "name": "DOPPIO TAGLIO",
       "url": "https://open.spotify.com/track/1aLsNi6bEGIA8QRTNX2IU8"
+    },
+    {
+      "album": {
+        "name": "Mafia Slime 2",
+        "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184615,
+      "name": "Dritto al Cuore",
+      "url": "https://open.spotify.com/track/2bsczj9bIOWSwWXcVhZEvX"
     },
     {
       "album": {
@@ -1462,7 +1488,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 193500,
       "name": "Ferma A Guardare",
       "url": "https://open.spotify.com/track/1zVUP6UPrzxZEYLXOl1AV1"
@@ -1970,7 +1996,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-25",
+      "date_removed": null,
       "duration_ms": 170018,
       "name": "KUMITE",
       "url": "https://open.spotify.com/track/6yaNNYWPjkWHbh1jADEyJO"
@@ -2010,7 +2036,7 @@
       ],
       "date_added": "2022-07-28",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 188888,
       "name": "La Notte di San Lorenzo",
       "url": "https://open.spotify.com/track/79Fh7hxRa2QDiLN3VMrFjL"
@@ -2342,7 +2368,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-05",
+      "date_removed": null,
       "duration_ms": 203100,
       "name": "MEZZE VERIT\u00c0 (feat. Kid Yugi)",
       "url": "https://open.spotify.com/track/0zrcO7oLJv5hF5nodDbMkw"
@@ -2830,7 +2856,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 203414,
       "name": "PAROLA - feat. Lazza, Emis Killa",
       "url": "https://open.spotify.com/track/2tQ7vPjN88wkQl5hSNSbVF"
@@ -2848,7 +2874,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 231655,
       "name": "Parole di ghiaccio",
       "url": "https://open.spotify.com/track/1mItEeAlTepKfWUOpu8h6b"
@@ -2896,7 +2922,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 251320,
       "name": "Parole Vuote (La Solitudine) (feat. Capo Plaza)",
       "url": "https://open.spotify.com/track/3Ke7B3EWjPNzMTRQ5hGEhi"
@@ -2914,7 +2940,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 165721,
       "name": "Password",
       "url": "https://open.spotify.com/track/1WXNkrOGGFpG7tjMVHLzxr"
@@ -3082,7 +3108,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 194861,
       "name": "Prometto (feat. Rkomi & Luch\u00e8)",
       "url": "https://open.spotify.com/track/35DgCphwTxRkI2jUec0mWA"
@@ -3228,7 +3254,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 171005,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/5JhvP5zFShla9LBIjEh6uO"
@@ -3334,7 +3360,7 @@
       ],
       "date_added": "2022-09-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "Scale (con Luch\u00e8)",
       "url": "https://open.spotify.com/track/5kaJg74U4GWosPvjOJujXD"
@@ -3562,7 +3588,7 @@
       ],
       "date_added": "2022-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-05",
+      "date_removed": null,
       "duration_ms": 205720,
       "name": "Soli (Assieme)",
       "url": "https://open.spotify.com/track/2opjdnFzcgsp5wt8IYj8oN"

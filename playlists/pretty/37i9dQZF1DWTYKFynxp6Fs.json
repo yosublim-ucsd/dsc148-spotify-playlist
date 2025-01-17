@@ -1,12 +1,12 @@
 {
   "description": "Every song that's Trending NOW from Malayalam! \nCover: Bougainvillea ",
-  "num_followers": 426650,
+  "num_followers": 426884,
   "original_name": "Trending Now Malayalam",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3yUMAAAAACxoFVri2mY9IEiJadrvDQX",
+  "snapshot_id": "Z4jUNQAAAABufD07oysmX7KFn47uCHCV",
   "tracks": [
     {
       "added_at": "2025-01-06 06:53:03",
@@ -75,6 +75,26 @@
       "duration_ms": 179236,
       "name": "Sthuthi (From \"Bougainvillea\")",
       "url": "https://open.spotify.com/track/3ISVxEn74F0nBrO7vEnou8"
+    },
+    {
+      "added_at": "2025-01-16 09:40:27",
+      "album": {
+        "name": "Rifle Club (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4ljauieQ7eWxhZkn6PfxTV"
+      },
+      "artists": [
+        {
+          "name": "Rex Vijayan",
+          "url": "https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ"
+        },
+        {
+          "name": "The Imbachi",
+          "url": "https://open.spotify.com/artist/4ZUtfxl9eSCS2TVCirtxef"
+        }
+      ],
+      "duration_ms": 182867,
+      "name": "Killer On The Loose",
+      "url": "https://open.spotify.com/track/5h5z6chD6MFiM07t0n13uK"
     },
     {
       "added_at": "2024-09-09 04:58:27",
@@ -187,26 +207,6 @@
       "duration_ms": 170678,
       "name": "Marpapa (From \"Marco\")",
       "url": "https://open.spotify.com/track/3wy1CWZIb89ajMdd2SiFM3"
-    },
-    {
-      "added_at": "2024-11-28 07:59:02",
-      "album": {
-        "name": "Malayali",
-        "url": "https://open.spotify.com/album/4mr2qYCQS2Uks8BCH0b1ZI"
-      },
-      "artists": [
-        {
-          "name": "DJSHA",
-          "url": "https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu"
-        },
-        {
-          "name": "MBL_",
-          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
-        }
-      ],
-      "duration_ms": 162051,
-      "name": "Malayali",
-      "url": "https://open.spotify.com/track/6oLRnqqTurtMBCSAPcpz6t"
     },
     {
       "added_at": "2024-09-30 04:59:54",
@@ -353,6 +353,26 @@
       "url": "https://open.spotify.com/track/1LBSyVTSeYbgBzV7AznMsN"
     },
     {
+      "added_at": "2024-11-28 07:59:02",
+      "album": {
+        "name": "Malayali",
+        "url": "https://open.spotify.com/album/4mr2qYCQS2Uks8BCH0b1ZI"
+      },
+      "artists": [
+        {
+          "name": "DJSHA",
+          "url": "https://open.spotify.com/artist/0WlKqfUBxANBGRFMh6d8lu"
+        },
+        {
+          "name": "MBL_",
+          "url": "https://open.spotify.com/artist/2O4n1UEgFiUF7nRYOH114z"
+        }
+      ],
+      "duration_ms": 162051,
+      "name": "Malayali",
+      "url": "https://open.spotify.com/track/6oLRnqqTurtMBCSAPcpz6t"
+    },
+    {
       "added_at": "2024-10-07 11:42:17",
       "album": {
         "name": "Kondal Vedan Song (From \"Kondal\")",
@@ -439,26 +459,6 @@
       "duration_ms": 271641,
       "name": "Kiliye - From \"ARM\"",
       "url": "https://open.spotify.com/track/7Je0oWG9OjLhHEXd2eHsFF"
-    },
-    {
-      "added_at": "2023-03-09 05:54:26",
-      "album": {
-        "name": "Puthiyoru Pathayil (From \"Varathan\")",
-        "url": "https://open.spotify.com/album/5t0PWUmZcc7f2XIeUFYGKN"
-      },
-      "artists": [
-        {
-          "name": "Nazriya Nazim",
-          "url": "https://open.spotify.com/artist/1Y8eSlmFO33Bn0D8ZNA9IE"
-        },
-        {
-          "name": "Sushin Shyam",
-          "url": "https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S"
-        }
-      ],
-      "duration_ms": 185958,
-      "name": "Puthiyoru Pathayil - From \"Varathan\"",
-      "url": "https://open.spotify.com/track/0j92tXG29XKV1ongcu3JjR"
     },
     {
       "added_at": "2024-05-20 07:25:09",

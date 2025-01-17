@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: andro",
+  "description": "\u9999\u6e2f\u7368\u7acb\u6a02\u968a\u53ca\u97f3\u6a02\u4eba\u65b0\u6d6a\u6f6e\u96c6\u5408\u6652\u55ba\u5ea6\uff01\u8a18\u5f97\u807d\u771f\u5572\uff01Cover: \u76e7\u83ef & Andy Schaub",
   "name": "+852 Rising",
   "tracks": [
     {
@@ -1022,6 +1022,28 @@
       "duration_ms": 167383,
       "name": "anxious",
       "url": "https://open.spotify.com/track/3TqRFOLubjHoe8Abc3IzHX"
+    },
+    {
+      "album": {
+        "name": "anxious feat. SOPHY",
+        "url": "https://open.spotify.com/album/2DAESLVQPlIqaEOKjiLT2e"
+      },
+      "artists": [
+        {
+          "name": "mue",
+          "url": "https://open.spotify.com/artist/4nINHlTXP0sDUGWHmf4cLi"
+        },
+        {
+          "name": "SOPHY",
+          "url": "https://open.spotify.com/artist/5Hx1PRV6i7vQdc8gAGE8eq"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167383,
+      "name": "anxious feat. SOPHY",
+      "url": "https://open.spotify.com/track/419zO93ONXdKpUcwImSGIw"
     },
     {
       "album": {
@@ -4522,6 +4544,28 @@
       "duration_ms": 172795,
       "name": "First Priority",
       "url": "https://open.spotify.com/track/5OMLvu7m5bRyTr5payjcUe"
+    },
+    {
+      "album": {
+        "name": "First Vibe",
+        "url": "https://open.spotify.com/album/1TuregNVkbPMuAJLdAzZby"
+      },
+      "artists": [
+        {
+          "name": "\u76e7\u83ef",
+          "url": "https://open.spotify.com/artist/02bKj9c6JChnTRQN6vy6YQ"
+        },
+        {
+          "name": "Andy Schaub",
+          "url": "https://open.spotify.com/artist/5KZ7KYFN2V4fl7RHr7oH0S"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207790,
+      "name": "First Vibe",
+      "url": "https://open.spotify.com/track/1JKDVoUuoMGaNjWAJoC9BR"
     },
     {
       "album": {
@@ -10873,6 +10917,24 @@
     },
     {
       "album": {
+        "name": "Patience",
+        "url": "https://open.spotify.com/album/1RO1x4kHAz7qWRw74ZOpfH"
+      },
+      "artists": [
+        {
+          "name": "HANK",
+          "url": "https://open.spotify.com/artist/4uzeRBv7FlasqkSwj8nsxy"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225069,
+      "name": "Patience",
+      "url": "https://open.spotify.com/track/3kokLvyymKGbXA6SCnvdfa"
+    },
+    {
+      "album": {
         "name": "Patterns",
         "url": "https://open.spotify.com/album/5VF24DhApN026eJJMMWrW6"
       },
@@ -10928,6 +10990,24 @@
       "duration_ms": 199000,
       "name": "Peace Of You",
       "url": "https://open.spotify.com/track/13U5ItKPNpnLGQ9k3XZlCb"
+    },
+    {
+      "album": {
+        "name": "Pearl",
+        "url": "https://open.spotify.com/album/0LWKCwKn3S5ajQeKXkeHAH"
+      },
+      "artists": [
+        {
+          "name": "BCHOY",
+          "url": "https://open.spotify.com/artist/62kYN1r4Go0yN3cT4kwopF"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187049,
+      "name": "Pearl",
+      "url": "https://open.spotify.com/track/2sDV0JVfD7URxcGFXyW2wF"
     },
     {
       "album": {
@@ -15692,6 +15772,24 @@
       "duration_ms": 208542,
       "name": "Wherever the Wind Blows",
       "url": "https://open.spotify.com/track/3rcUdlMn6YQx8Byr511yo9"
+    },
+    {
+      "album": {
+        "name": "whether or not",
+        "url": "https://open.spotify.com/album/0OA3QtYdBOsC4Mi31r7oX4"
+      },
+      "artists": [
+        {
+          "name": "Kudos Lam",
+          "url": "https://open.spotify.com/artist/2HeMjjQtquPvkToAGftuS7"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205627,
+      "name": "whether or not",
+      "url": "https://open.spotify.com/track/5hk06M3tpI54lHD0C7Gof3"
     },
     {
       "album": {
@@ -22019,6 +22117,24 @@
     },
     {
       "album": {
+        "name": "\u6e05\u6668\u7cbe\u795e",
+        "url": "https://open.spotify.com/album/16Mo9dnKvOUkSmgncId66j"
+      },
+      "artists": [
+        {
+          "name": "INTROVERSE",
+          "url": "https://open.spotify.com/artist/71md0yuGVfBVCun7P4AyKn"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260275,
+      "name": "\u6e05\u6668\u7cbe\u795e",
+      "url": "https://open.spotify.com/track/6FRWJILDgv8tu6yiHqGVo8"
+    },
+    {
+      "album": {
         "name": "\u6e05\u6c34\u7063\u4e8c\u7058",
         "url": "https://open.spotify.com/album/3qwnkybAFWXLXTNSC77ZWa"
       },
@@ -23410,6 +23526,24 @@
       "duration_ms": 149498,
       "name": "\u8981\u600e\u9ebc\u66f8\u5beb",
       "url": "https://open.spotify.com/track/04lt7lHdDr1rrY4WclNxTp"
+    },
+    {
+      "album": {
+        "name": "\u8ab0\u4e0d\u60f3\u7576\u500bchill\u4eba",
+        "url": "https://open.spotify.com/album/2gD4dEyvAPwowxvJ0kckYA"
+      },
+      "artists": [
+        {
+          "name": "NatS",
+          "url": "https://open.spotify.com/artist/367T9M6uiP4jr6u5DtMD1l"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118683,
+      "name": "\u8ab0\u4e0d\u60f3\u7576\u500bchill\u4eba",
+      "url": "https://open.spotify.com/track/1TtD7fk1GDIokj7qboMPAn"
     },
     {
       "album": {
