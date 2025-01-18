@@ -2677,6 +2677,24 @@
     },
     {
       "album": {
+        "name": "Pohjola",
+        "url": "https://open.spotify.com/album/5zYVpvprhZGfeu5RSBHhw8"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197766,
+      "name": "Kaiho",
+      "url": "https://open.spotify.com/track/16sj9ygj7ALBkAzUpe26M6"
+    },
+    {
+      "album": {
         "name": "Kaiho",
         "url": "https://open.spotify.com/album/6hF22qlhOYHaIQLIOP50fU"
       },
@@ -2954,6 +2972,28 @@
       "duration_ms": 162217,
       "name": "Le tr\u00e9sor (Piano Version) - Radio Edit",
       "url": "https://open.spotify.com/track/3qgQbFCtyYwJuXLKm85WSD"
+    },
+    {
+      "album": {
+        "name": "Le Comte de Monte Cristo (Piano Version)",
+        "url": "https://open.spotify.com/album/6ulYFO2ddO44WMx1GzsOH9"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Rebotier",
+          "url": "https://open.spotify.com/artist/5LDz41tmX7odOCzOzwuqGd"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163106,
+      "name": "Le tr\u00e9sor (Piano Version) - Radio Edit",
+      "url": "https://open.spotify.com/track/7KVncAJ8OW6d2IOwjC4Cl5"
     },
     {
       "album": {
@@ -5681,6 +5721,28 @@
     },
     {
       "album": {
+        "name": "Three Visions: II. Summerland",
+        "url": "https://open.spotify.com/album/4U6PlBgQ1nPsS9bjYBQqr7"
+      },
+      "artists": [
+        {
+          "name": "William Grant Still",
+          "url": "https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199520,
+      "name": "Three Visions: II. Summerland",
+      "url": "https://open.spotify.com/track/3RCs6tI4rUWjvPp7wvF7Vu"
+    },
+    {
+      "album": {
         "name": "Threnody (after Mozart) - (Arr. for Piano from Piano Concerto No. 23 in A Major, K. 488: II. Adagio by Olivia Belli)",
         "url": "https://open.spotify.com/album/7875RCkuLMiXtkns8lA1KK"
       },
@@ -6278,6 +6340,24 @@
       "duration_ms": 122362,
       "name": "Written on the Sky",
       "url": "https://open.spotify.com/track/0I6Pbgf7fjPMqu3Ah9jOhI"
+    },
+    {
+      "album": {
+        "name": "You're My Sunshine (from \"Honey Lemon Soda\" Soundtrack)",
+        "url": "https://open.spotify.com/album/6XoIoaJygwBxqOZESH6UCL"
+      },
+      "artists": [
+        {
+          "name": "Akira Kosemura",
+          "url": "https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259906,
+      "name": "You're My Sunshine - from \"Honey Lemon Soda\" Soundtrack",
+      "url": "https://open.spotify.com/track/1IDCpaNETSyfcWhGwyhOFh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-46 songs - 2 hr 50 min
+47 songs - 2 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Keep Up With Jones](https://open.spotify.com/track/0EkhflOs3xn0pPnn9fGawo) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:47 | 2024-12-22 |  |
 | [La Diabla](https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf) | [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [La Diabla](https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v) | 2:52 | 2024-11-17 |  |
 | [La Grange \- 2019 Remaster](https://open.spotify.com/track/1MVqP6dzp0EZ2T4TpAxWnS) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Goin' 50](https://open.spotify.com/album/3iCffsNF6mYOY87PWhhqcp) | 3:52 | 2024-12-29 |  |
+| [Livin' It Up Down In Texas](https://open.spotify.com/track/56fMChBQ4TlnX9E56WsyUT) | [Billy F Gibbons](https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw) | [Livin' It Up Down In Texas](https://open.spotify.com/album/36RkaLXpxXqJOgyoFARRCE) | 4:45 | 2025-01-17 |  |
 | [Lord Bury Me In Texas](https://open.spotify.com/track/3CD7XIqytaQJgaLtt6xwOe) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ) | [Lord Bury Me In Texas](https://open.spotify.com/album/1XS1br0MnEWSPoufPujJkV) | 3:49 | 2024-11-24 |  |
 | [Make Me Wanna Smoke](https://open.spotify.com/track/3eh2jtDdUk59q7BKI0l4YP) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [Excuse The Mess](https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7) | 3:02 | 2024-11-17 |  |
 | [Mean Old Sun](https://open.spotify.com/track/1DFAVRFF65zqaOUQtLoEtx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [A Cat in the Rain](https://open.spotify.com/album/3ZynuKh2bwSEi0kBJc7tO8) | 4:08 | 2024-11-17 |  |

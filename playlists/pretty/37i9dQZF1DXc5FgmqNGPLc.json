@@ -1,13 +1,37 @@
 {
   "description": "All live, all jazz. Cover: Nat King Cole",
-  "num_followers": 14029,
+  "num_followers": 14040,
   "original_name": "Jazz Live & Loud",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AP0AAAAACLU8U0SXZEtqyTgzCwaFX+",
+  "snapshot_id": "Z4nj6gAAAABu/cSnF1ixFEGW0JEKU0Lj",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Windows (Live)",
+        "url": "https://open.spotify.com/album/1OXYipyinaHYyrGiMsXWVu"
+      },
+      "artists": [
+        {
+          "name": "Chick Corea",
+          "url": "https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Brian Blade",
+          "url": "https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu"
+        }
+      ],
+      "duration_ms": 575306,
+      "name": "Windows - Live",
+      "url": "https://open.spotify.com/track/6OS5HFuj7qEtASx9Vjl6nY"
+    },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
@@ -523,22 +547,6 @@
       "duration_ms": 850557,
       "name": "Mali (Live)",
       "url": "https://open.spotify.com/track/7xgveO0ftVy4VcKt6gCGBu"
-    },
-    {
-      "added_at": "2022-09-23 04:01:00",
-      "album": {
-        "name": "Chick Corea: The Montreux Years (Live)",
-        "url": "https://open.spotify.com/album/42fDTeZVyJcVoaKCnqP31t"
-      },
-      "artists": [
-        {
-          "name": "Chick Corea Elektric Band",
-          "url": "https://open.spotify.com/artist/2ReTnNzaUAM6RgKCtlvMPf"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Interlude - Live - Montreux Jazz Festival 2004",
-      "url": "https://open.spotify.com/track/4sMLaJdIDP9VUQuHngHzjb"
     },
     {
       "added_at": "2022-10-21 04:01:00",

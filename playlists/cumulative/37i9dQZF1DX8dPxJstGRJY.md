@@ -4,7 +4,7 @@
 
 > Pop classics and show tunes, sung by legendary classical voices\. Cover: Andrea Bocelli
 
-89 songs - 5 hr 53 min
+90 songs - 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,6 +58,7 @@
 | [Never Say Goodbye \(Adapted From "Pavane, M\. 19"\)](https://open.spotify.com/track/6DFlIKgiThAgpfXJNqa7eB) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Hayley Westenra](https://open.spotify.com/artist/7Jotu5LupekFt00kZZZ7C6), [Ian Dean](https://open.spotify.com/artist/5a06Tw8O8XuZ5ACLKxVXp6), [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Pure \(Includes Bonus Tracks and Exclusive Track\)](https://open.spotify.com/album/4F4cYsACedydHGyvpZCXN5) | 3:13 | 2021-09-24 |  |
 | [Offenbach: Barcarolle \(from The Tales of Hoffman\)](https://open.spotify.com/track/0QesxIlKPMUvRlsUeAdRat) | [All Angels](https://open.spotify.com/artist/1nlqYzoK1LAlS8MmnUhfEs) | [All Angels](https://open.spotify.com/album/5sexUfmKMDnvVrvdwIf4jT) | 3:25 | 2021-09-24 |  |
 | [One Look \(feat\. Leona Lewis\)](https://open.spotify.com/track/2nCK9KFGeRp87GnunVsMgW) | [Alexis Ffrench](https://open.spotify.com/artist/58R31AvN8JMHM7xkNpVLjX), [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Truth](https://open.spotify.com/album/3vkgKLIXijInCpJGgeRsaY) | 3:18 | 2022-05-06 |  |
+| [Parisian Lovers](https://open.spotify.com/track/5uMNEYJedK8eOYcoyzJlMj) | [Joel Sunny](https://open.spotify.com/artist/4WC54JUV6ewZOuz8Cl2Cym) | [Parisian Lovers](https://open.spotify.com/album/6U0gvl6aazi28oY4wTE9nr) | 2:42 | 2025-01-17 |  |
 | [PARTE DI ME](https://open.spotify.com/track/7raIu9CPNk3wbGl2TQOfZZ) | [Anoesjcka DeLorenzo](https://open.spotify.com/artist/4xq6vv2iFX12eyB68d8m7U), [Guy Barker](https://open.spotify.com/artist/4YokJY1Jtyc55KBPtzmljG), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [PARTE DI ME](https://open.spotify.com/album/69Bd3UmrHZhtCsNGZqvgoD) | 4:28 | 2024-11-26 |  |
 | [Perhaps Love](https://open.spotify.com/track/2EliUCT5ApsdtFo1CYblyq) | [John Denver](https://open.spotify.com/artist/7EK1bQADBoqbYXnT4Cqv9w), [Bryn Terfel](https://open.spotify.com/artist/6ILd69yy67k6OU7cwpGNSl), [Alfie Boe](https://open.spotify.com/artist/3g5gwhWAPLq8MyUcUIsA8j), [John Paricelli](https://open.spotify.com/artist/5bf6RvGi8q0hQUlY0XxZh5), [Czech Philharmonic](https://open.spotify.com/artist/35NnUEPKGspM23lTZvK3cb), [Paul Bateman](https://open.spotify.com/artist/5V7l2e1oLF7oSzpvdaDenk) | [Dreams and Songs](https://open.spotify.com/album/6UpFGwTAEexVrJrR2icKHn) | 2:59 | 2021-09-24 |  |
 | [Pure Imagination \(From "Willy Wonka and the Chocolate Factory"\)](https://open.spotify.com/track/7JWkH4SIGCnaoLNy3Ya5fN) | [Marie Oppert](https://open.spotify.com/artist/0nD1zi5UVaFVLjdGEsRwS5), [Orchestre National de Lille](https://open.spotify.com/artist/3rpZB65GmDIcFzYA7BCoqg), [Nicholas Skilbeck](https://open.spotify.com/artist/57KQ4df1fxIfuWtvqT0duh) | [Enchantée](https://open.spotify.com/album/6Au7erVWzChOurV7EFawHO) | 4:12 | 2021-09-24 |  |

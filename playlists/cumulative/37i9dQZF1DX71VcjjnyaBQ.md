@@ -4,7 +4,7 @@
 
 > Jazz for breakfast to start your day right.
 
-217 songs - 18 hr 41 min
+218 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Change Of Face](https://open.spotify.com/track/628vNuYYz8z1zzGE7aJzZ5) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Trance](https://open.spotify.com/album/67NWUIljAITfKFsdpI3Bsl) | 4:58 | 2022-06-30 | 2023-07-10 |
 | [A Change Of Face](https://open.spotify.com/track/79KZTjH5g7YudO6kR3yF3g) | [Steve Kuhn](https://open.spotify.com/artist/6KEBRNgSvb95hjK9Nh0tzt) | [Trance](https://open.spotify.com/album/7hTMtmngeZMtoVqlWLzXCO) | 4:58 | 2021-12-21 | 2022-07-29 |
 | [A.M\. Hours](https://open.spotify.com/track/1ODmnwZVm5Ze5Nffqg2AUG) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [Day](https://open.spotify.com/album/3PhmbGVWT1R1Ng4uU58EZb) | 4:18 | 2023-05-09 | 2024-04-19 |
-| [A.M\. Hours](https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [A.M\. Hours](https://open.spotify.com/album/2HzQX5wSRWkQUpvjHeJiJ9) | 4:18 | 2024-03-29 |  |
+| [A.M\. Hours](https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [A.M\. Hours](https://open.spotify.com/album/2HzQX5wSRWkQUpvjHeJiJ9) | 4:18 | 2024-03-29 | 2025-01-18 |
 | [Abiyoyo](https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 3:24 | 2021-12-21 |  |
 | [Alfie](https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Alfie](https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o) | 6:37 | 2022-02-10 |  |
 | [Amelia](https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Amelia](https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3) | 7:02 | 2023-08-08 |  |
@@ -212,6 +212,7 @@
 | [Voor Jou Yvonne](https://open.spotify.com/track/5cO2riW8Lt9JogQUCrs5b6) | [Bill Weeds](https://open.spotify.com/artist/2FwRoIbbsFpNTeBYe9Jg4h), [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Voor Jou Yvonne](https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt) | 7:41 | 2024-08-23 |  |
 | [Waltz for Hal Willner](https://open.spotify.com/track/5GiqJaoSZn8pMpYztkKeR1) | [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5) | [Waltz for Hal Willner](https://open.spotify.com/album/3UJN3LrJVHiPnAuneBgCSK) | 2:47 | 2022-09-29 |  |
 | [Water Spirits: Izinkonjana](https://open.spotify.com/track/4dCaP48I6Gy52R3fT5Xq7D) | [Nduduzo Makhathini](https://open.spotify.com/artist/6EvFcDtvFuVugEtZNslkft) | [Water Spirits: Izinkonjana](https://open.spotify.com/album/3oGThAQ0T3tY3S6tGGsxnl) | 6:34 | 2024-05-31 | 2024-06-12 |
+| [What the World Needs Now Is Love](https://open.spotify.com/track/4ZevPpI9yP4qaCmdx2UtBA) | [Jack Jezzro](https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ), [Pat Coil](https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503), [Jacob Jezioro](https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df), [Danny Gottlieb](https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM) | [What the World Needs Now Is Love](https://open.spotify.com/album/7FhZDH5ZpvvyHZ4XmXzJeq) | 4:37 | 2025-01-17 |  |
 | [When I Fell for You](https://open.spotify.com/track/5o7zflAK8LxDYuqpSDmwhM) | [David Hazeltine](https://open.spotify.com/artist/5mQGacj97PLCoX9YOEGf0Q) | [When I Fell for You](https://open.spotify.com/album/6v6O5lQqx8E3PqENPC7hAk) | 5:22 | 2022-02-10 |  |
 | [Where or When](https://open.spotify.com/track/3b1J3QbTTDXcxB4EmIWY17) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Where or When](https://open.spotify.com/album/1qYy2VgAlQ0yPQf4C5TWDo) | 3:50 | 2022-08-29 | 2023-08-19 |
 | [Where We Belong](https://open.spotify.com/track/4LRIGcp9jELNiscAhEc2XI) | [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph), [Lars Jansson](https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS), [Paul Svanberg](https://open.spotify.com/artist/7KfU9kgLyulNPcW5ZBlPRX) | [Where We Belong](https://open.spotify.com/album/1klyqyo9Ychh0ItzQDgrox) | 6:11 | 2021-12-21 |  |

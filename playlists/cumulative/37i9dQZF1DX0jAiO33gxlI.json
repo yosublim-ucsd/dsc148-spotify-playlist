@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: LPT Zlatan",
+  "description": "Os lan\u00e7amentos e melhores sons do rap e trap nacionais. Foto: Felp 22",
   "name": "Presen\u00e7a Hip Hop",
   "tracks": [
     {
@@ -680,6 +680,36 @@
       "duration_ms": 220000,
       "name": "A Gente Nasce Assim",
       "url": "https://open.spotify.com/track/6Pu8yzCWAcEHTZPVCXBnX1"
+    },
+    {
+      "album": {
+        "name": "A Laje",
+        "url": "https://open.spotify.com/album/2SJX2EcFiTzY466hX1cWMv"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Kandace Lindsey",
+          "url": "https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342928,
+      "name": "A Laje",
+      "url": "https://open.spotify.com/track/6pDASjyhHtN2Dv4ZY8EBhU"
     },
     {
       "album": {
@@ -2102,7 +2132,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 117604,
       "name": "BAMBAMBAM",
       "url": "https://open.spotify.com/track/1qntRUlcoIXJj3d0t5c5us"
@@ -7465,6 +7495,32 @@
     },
     {
       "album": {
+        "name": "Flor",
+        "url": "https://open.spotify.com/album/42q3w1vWxWN8qn7uRABebt"
+      },
+      "artists": [
+        {
+          "name": "Juju Rude",
+          "url": "https://open.spotify.com/artist/3d8GIcSCusjD1PkMxt76e1"
+        },
+        {
+          "name": "prodbyiniesta",
+          "url": "https://open.spotify.com/artist/5kbHs0XpVIVFYD75VBXpNB"
+        },
+        {
+          "name": "L3OZIN",
+          "url": "https://open.spotify.com/artist/3xbUtkAk7Bbhwosg3mI3ez"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Flor",
+      "url": "https://open.spotify.com/track/4cSQrtITZo6jUOMVlupHSu"
+    },
+    {
+      "album": {
         "name": "Tarut",
         "url": "https://open.spotify.com/album/39yLR3o3uObouT4kfI0BUD"
       },
@@ -8886,7 +8942,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 132750,
       "name": "INFALIVEL",
       "url": "https://open.spotify.com/track/7ietmhS5uHDTPamr7QrWgn"
@@ -13923,6 +13979,28 @@
     },
     {
       "album": {
+        "name": "Oh M\u00e3e",
+        "url": "https://open.spotify.com/album/60MBE0tB5trl6yEjNZm3ks"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Oh M\u00e3e",
+      "url": "https://open.spotify.com/track/15y8doJUf2PWHDNkXmI4l7"
+    },
+    {
+      "album": {
         "name": "Oi, Sumido",
         "url": "https://open.spotify.com/album/4iCBsd59yStOEvVNFf906X"
       },
@@ -14679,6 +14757,32 @@
     },
     {
       "album": {
+        "name": "Pensar Direito",
+        "url": "https://open.spotify.com/album/0qWbg7ya1AZmhfdOUir4Fj"
+      },
+      "artists": [
+        {
+          "name": "Felp 22",
+          "url": "https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK"
+        },
+        {
+          "name": "Rick Beatz",
+          "url": "https://open.spotify.com/artist/7y0JheeKtNA8xvm7Wo3ib9"
+        },
+        {
+          "name": "Medellin",
+          "url": "https://open.spotify.com/artist/06zC1Z0YDLeWPBLIEAkswh"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173333,
+      "name": "Pensar Direito",
+      "url": "https://open.spotify.com/track/1ui0q6tFro602g92piLjQF"
+    },
+    {
+      "album": {
         "name": "Pepinas",
         "url": "https://open.spotify.com/album/1V1uWYuwLNPl2JRfUTRqkt"
       },
@@ -15326,6 +15430,32 @@
       "duration_ms": 222385,
       "name": "Plantado esperando voc\u00ea",
       "url": "https://open.spotify.com/track/1ePHnmYHWJG78EJzIpN5oD"
+    },
+    {
+      "album": {
+        "name": "Plantio",
+        "url": "https://open.spotify.com/album/4htl1oumvz0vaUwCTOo1jk"
+      },
+      "artists": [
+        {
+          "name": "Boca",
+          "url": "https://open.spotify.com/artist/7DM9mUj11mLXmrtgw8YxaX"
+        },
+        {
+          "name": "TerrorDosBeats",
+          "url": "https://open.spotify.com/artist/1NzstOcEoL35FZzYhJNtOo"
+        },
+        {
+          "name": "La Major",
+          "url": "https://open.spotify.com/artist/5SvqSZMCkYgmW3r8Z4nvin"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113946,
+      "name": "Plantio",
+      "url": "https://open.spotify.com/track/5x5LxmMjwQs3pZ6PaFaC2U"
     },
     {
       "album": {
@@ -16210,7 +16340,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 291063,
       "name": "Quebrada UFC",
       "url": "https://open.spotify.com/track/2nB4nMit4x0LK6rQMHIUia"
@@ -16346,6 +16476,36 @@
       "duration_ms": 202695,
       "name": "Querendo Vida",
       "url": "https://open.spotify.com/track/7kZtEGmUuS73AI62a314IH"
+    },
+    {
+      "album": {
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
+      },
+      "artists": [
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+        },
+        {
+          "name": "Raflow",
+          "url": "https://open.spotify.com/artist/6NHJLHGyF86wd4DT8fNqD0"
+        },
+        {
+          "name": "MC Marcelly",
+          "url": "https://open.spotify.com/artist/3XtuCcYVAgDABkXDLUk8BE"
+        },
+        {
+          "name": "Maru2D",
+          "url": "https://open.spotify.com/artist/5tD6GvZxVpZxHRjSaQuj36"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246400,
+      "name": "QUERO PRA N\u00d3S",
+      "url": "https://open.spotify.com/track/51LcOHrJZA9UpUDdivHX68"
     },
     {
       "album": {
@@ -18340,7 +18500,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 120885,
       "name": "Sexta-Feira",
       "url": "https://open.spotify.com/track/6SkPiRSlZ1jUgVNbgV9dfC"
@@ -20716,7 +20876,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 121703,
       "name": "vapor triple black",
       "url": "https://open.spotify.com/track/12x5fQEe2OACdzuDfcrkVm"

@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ali Sethi
 
-161 songs - 8 hr 23 min
+163 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,7 +44,7 @@
 | [Dil \(Awakening\)](https://open.spotify.com/track/09oZ81iNamqMbobbJ9y4u9) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Lovely Bukhaar](https://open.spotify.com/album/4AByHVwoFBXapZyGQVYrCO) | 3:09 | 2024-12-12 | 2025-01-17 |
 | [Dil da Taar](https://open.spotify.com/track/3XAn4OMOBVuCsP0uwIVJ7X) | [Kumail Abbas](https://open.spotify.com/artist/5DqU9TQ8QwgZBIkTU8nd2R), [COSMO SOCIAL](https://open.spotify.com/artist/6DK5nYrpcXYvxLhy13bc6e), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Dil da Taar](https://open.spotify.com/album/2dEGRpd7uwmD3ATjm633lp) | 2:38 | 2024-06-28 | 2024-08-10 |
 | [Dil Ki Baatein](https://open.spotify.com/track/3OwQqlEL3Q6JJh7WjzIQgN) | [Daniyaal Omar](https://open.spotify.com/artist/2GbKYLI5CCtuGpz1tdubYz), [Shehryar Khan](https://open.spotify.com/artist/4QBidSQvLomFezTJ0aLQtp) | [Dil Ki Baatein](https://open.spotify.com/album/3M3Pe6Fyhq8ENAmjaRri9g) | 2:32 | 2024-09-27 | 2025-01-17 |
-| [Dil Le Ke](https://open.spotify.com/track/3vFwuZnjH9h1o0WTQqZlLy) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Dil Le Ke](https://open.spotify.com/album/3qYRXCzoU0z3uJB0KCNezV) | 3:38 | 2025-01-17 |  |
+| [Dil Leke](https://open.spotify.com/track/3vFwuZnjH9h1o0WTQqZlLy) | [Nabeel Shaukat Ali](https://open.spotify.com/artist/1NkQbSzN7LhkURNg2ChZMp) | [Dil Leke](https://open.spotify.com/album/3qYRXCzoU0z3uJB0KCNezV) | 3:38 | 2025-01-17 |  |
 | [Dilwale](https://open.spotify.com/track/4I1I7Puy4TccYiYsbCrHYy) | [Noor Chahal](https://open.spotify.com/artist/5nB8qMUrfdM3RTVIhLTmQK), [Haider Ali](https://open.spotify.com/artist/2m11wmbQGV0uSMzwPuk6zv) | [Dilwale](https://open.spotify.com/album/24oFlrBYEx5AuFZ5LyyB6R) | 4:02 | 2024-06-28 | 2025-01-17 |
 | [DND](https://open.spotify.com/track/5K6hFTg151Bzlaq39hjctn) | [AHSAN](https://open.spotify.com/artist/74NqyFriwNs6QJWkJmGvYR), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [FADED SI YAADAIN](https://open.spotify.com/album/6XSdsKHPY65FFIyGeNlYeE) | 2:55 | 2024-11-07 | 2025-01-17 |
 | [Don't Go](https://open.spotify.com/track/6zVXNOehHZrjAej1xJyZon) | [Shokey](https://open.spotify.com/artist/2wEwBichxhdvnFOMaDzWBf), [Prod.S41F](https://open.spotify.com/artist/7K1GRJOvTEuCMDh07x4mNe) | [Don't Go](https://open.spotify.com/album/5SranRWC0N3rm1Fft43DCz) | 3:17 | 2025-01-17 |  |
@@ -87,6 +87,7 @@
 | [Love Again](https://open.spotify.com/track/5Deg8uiLYB1f4jDwsLcc8E) | [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Toshi](https://open.spotify.com/artist/3oa0mere2rG4b7cdsX7SFv) | [Love Again](https://open.spotify.com/album/5D1ji60nDNYmSGb5ql6cE5) | 2:33 | 2024-06-28 | 2025-01-17 |
 | [Love Song](https://open.spotify.com/track/1YmC6MzyctKlE5XGtXy5ow) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Love Song](https://open.spotify.com/album/4dIAYG2b0XxwlI9udFN8h8) | 3:03 | 2024-06-28 | 2024-08-10 |
 | [Lovely Bukhaar](https://open.spotify.com/track/0ZecYdnRuxLDAmA00WMflH) | [Ali Sethi](https://open.spotify.com/artist/3NegWDGp038A3FIi3gSYzl) | [Lovely Bukhaar](https://open.spotify.com/album/4AByHVwoFBXapZyGQVYrCO) | 3:24 | 2025-01-17 |  |
+| [LV \(Ja Re Ja\)](https://open.spotify.com/track/0E6bYWfPxfEEDKpSCDvRti) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [LV \(Ja Re Ja\)](https://open.spotify.com/album/6IOeC3lO07Jr4flPHV3VuW) | 3:07 | 2025-01-17 |  |
 | [Maahi \- Original](https://open.spotify.com/track/6boNCp6hK7sFP0BAyMJ4wn) | [Asad Ali Murtaza](https://open.spotify.com/artist/5Fk3jIr9T4TlXIzGVIUsNL) | [Maahi \(Original\)](https://open.spotify.com/album/2nfGLGl9NLsC5wpPIhPdyY) | 4:41 | 2025-01-17 |  |
 | [Maan Lo](https://open.spotify.com/track/5LenCWHfOGEcDv3XOYWvv9) | [Hamza Malik](https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9) | [Maan Lo](https://open.spotify.com/album/3QegCkvuZNppULPivxcr6x) | 2:28 | 2024-06-28 | 2024-09-28 |
 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 | 2025-01-17 |  |
@@ -158,6 +159,7 @@
 | [tu mila](https://open.spotify.com/track/2o0qrukiIFbiGUSQBhYeKT) | [bitrees](https://open.spotify.com/artist/1yPiZF9ZTUZImr0zBoNogb) | [tu mila](https://open.spotify.com/album/7yBzRZXeyX2XwWXVZnaF7p) | 3:28 | 2024-11-07 | 2025-01-17 |
 | [Ud jana](https://open.spotify.com/track/6TTEZ1vo7Wu4JvajcaDgmH) | [Uzair Jaswal](https://open.spotify.com/artist/3xbeS8ZmDEW7zgEd0IdArM) | [Are you okay?](https://open.spotify.com/album/5t4TDgKqaJD7rkUsGQHCv7) | 4:00 | 2025-01-17 |  |
 | [Umeed](https://open.spotify.com/track/4BCA8oZlL95CWFBryL7waK) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Rohama Justus Nassir](https://open.spotify.com/artist/4AFNLHlWCtJBa7zB6aDSgt) | [Umeed](https://open.spotify.com/album/7IS8nCf4BQtuyYeoaS4ICg) | 3:18 | 2024-06-28 | 2024-10-05 |
+| [Umeedon Ki](https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Umeedon Ki](https://open.spotify.com/album/4odGDsUGaQx1CR62FmviWH) | 4:50 | 2025-01-17 |  |
 | [Unapologetic](https://open.spotify.com/track/1viQyM3abUTDVb7K7QuF8O) | [Zaira Ali](https://open.spotify.com/artist/1FooeGICOzdQGc2rT7fFJ6) | [Unapologetic](https://open.spotify.com/album/1rocZcmlehL2i0tlh6IERD) | 3:44 | 2024-09-09 | 2025-01-17 |
 | [Under The Stars](https://open.spotify.com/track/7DOCxixTYTuiSGhgICXXk5) | [Jawad](https://open.spotify.com/artist/5KIc7lniuLWhlXVOuhvvN8) | [Under The Stars](https://open.spotify.com/album/25bhlDywM1xsm2854OPfC1) | 2:20 | 2024-06-28 | 2025-01-17 |
 | [Wehem](https://open.spotify.com/track/6kEKN4ZmOJ6GA2p8PmVO9z) | [Anonymoux](https://open.spotify.com/artist/4HBodn8r0T8FcmBjubMDsM) | [Wehem](https://open.spotify.com/album/1TIbqe3nRHOAGAOU8PCJNN) | 3:51 | 2024-11-07 | 2025-01-17 |

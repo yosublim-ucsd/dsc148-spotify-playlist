@@ -7179,6 +7179,32 @@
     },
     {
       "album": {
+        "name": "Trigga Finga",
+        "url": "https://open.spotify.com/album/6BiHmR3sbgeTTWUUvOc7At"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        },
+        {
+          "name": "T95",
+          "url": "https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208586,
+      "name": "Trigga Finga",
+      "url": "https://open.spotify.com/track/1DRu17abhsN8N28KxvhFVn"
+    },
+    {
+      "album": {
         "name": "Trouble You",
         "url": "https://open.spotify.com/album/6ywuNTPdyga6Cxl5Q49LNp"
       },
@@ -7472,7 +7498,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 181034,
       "name": "Wassup",
       "url": "https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ"

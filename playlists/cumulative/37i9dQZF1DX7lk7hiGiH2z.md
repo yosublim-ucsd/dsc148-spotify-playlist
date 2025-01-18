@@ -4,7 +4,7 @@
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-427 songs - 20 hr 5 min
+428 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Alle Jahre wieder](https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Alle Jahre wieder](https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91) | 2:37 | 2023-11-17 |  |
 | [Alle Kinder wollen feiern](https://open.spotify.com/track/2pjoiB4pVjuiCAoWSGdHnX) | [Christian Hüser](https://open.spotify.com/artist/06qKEuPnav2eoOAhpyeSPN) | [Meine schönsten Karnevalslieder](https://open.spotify.com/album/5tRqxPgzNU46Uax7HNQhhh) | 3:45 | 2024-02-06 | 2024-02-16 |
 | [Alle Leut'](https://open.spotify.com/track/1PnCE1OnD4o7cy1lBdJJlL) | [Simone Sommerland](https://open.spotify.com/artist/04yr1h3maDSKvM08pgOezF), [Karsten Glück](https://open.spotify.com/artist/5Asmk7uzCjVJN77MLDnvma), [Die Kita\-Frösche](https://open.spotify.com/artist/2yOGWPXuL8wG3F1q5FWmep) | [Die 30 besten Spiel\- und Bewegungslieder](https://open.spotify.com/album/7wGBvXA1TKtlqyJq6Mtsl5) | 1:07 | 2023-11-05 | 2024-11-15 |
+| [Alle Monate](https://open.spotify.com/track/6TLbNxLrYcgd3k0NDLkqPp) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Alle Monate](https://open.spotify.com/album/7xHBsmwraHwKPxDWxD4IT2) | 3:25 | 2025-01-17 |  |
 | [Alle Vögel sind schon da](https://open.spotify.com/track/3o1gtPqPPleF3uz4OEXI9a) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Bei uns in der Kita \- 22 Lieder im Frühling + Sommer](https://open.spotify.com/album/7oe96EpBKDY6iAKkjHXmCc) | 1:48 | 2024-04-02 | 2024-11-08 |
 | [Alle Vögel sind schon da](https://open.spotify.com/track/6ShcsLKki4wuy1LIfilCvz) | [Rolf Zuckowski](https://open.spotify.com/artist/2qn4hIXsvRUyFoboMi31XB) | [Rolfs Liederbüchermaus](https://open.spotify.com/album/34fvEGFsxX9vl6phTn23XS) | 1:48 | 2023-08-31 | 2024-04-19 |
 | [Allergrößter Wunsch \(feat\. Fidi Steinbeck\)](https://open.spotify.com/track/47vUmnYNNikz6UZTx9VZSo) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Fidi Steinbeck](https://open.spotify.com/artist/5jiQJuf5PswA0Cbp0PPcA9) | [Allergrößter Wunsch \(feat\. Fidi Steinbeck\)](https://open.spotify.com/album/5JwhZ2T6j68gj9OZH0Sjnz) | 3:00 | 2024-11-14 |  |

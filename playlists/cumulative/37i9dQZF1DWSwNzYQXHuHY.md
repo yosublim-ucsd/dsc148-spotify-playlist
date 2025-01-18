@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-242 songs - 13 hr 34 min
+243 songs - 13 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Heart in Motion](https://open.spotify.com/track/7p23qMHn32rwnIcGIFJxgK) | [The Green Tea](https://open.spotify.com/artist/2YSSfMg2K75oTvfc63kGQB) | [Heart in Motion](https://open.spotify.com/album/4mFnHs0Q8PXVeibICq4w15) | 3:47 | 2022-05-11 | 2022-07-26 |
 | [Hide and Seek](https://open.spotify.com/track/4dv1Ygd62DuZEjzqVivgKE) | [Park Seo Ryoung](https://open.spotify.com/artist/3feVktwro8QoXPKQqe20gy) | [Hide and Seek](https://open.spotify.com/album/1QgeqdZEcBZXSUqykXvyDZ) | 3:06 | 2022-05-11 | 2022-07-27 |
 | [HONEY \(Feat\. Crucial Star\)](https://open.spotify.com/track/2Lt1ZRU6nFY88vw24GdYLy) | [Chawoo](https://open.spotify.com/artist/4IQIYg9spHoy4FgnnManxR), [CRUCiAL STAR](https://open.spotify.com/artist/4vdAgNz4vrUZVvS0CaVvGJ) | [HONEY](https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2) | 3:47 | 2022-05-11 |  |
-| [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 | 2022-10-07 |  |
+| [how can i do \(Feat\. YooJeong\)](https://open.spotify.com/track/2IJnYC8w1noQNAKt8JyxW9) | [soowoo](https://open.spotify.com/artist/6yrdEI0g5zLDdYiBmqNYxo), [YooJeong](https://open.spotify.com/artist/6IDgXpF52ULsVz5Oqc0JST) | [how can i do](https://open.spotify.com/album/48AzCrfwXNzTgctIYFMqbH) | 2:49 | 2022-10-07 | 2025-01-18 |
 | [How Do You Think](https://open.spotify.com/track/1xfu5RELA5t2E2KeOG2ePD) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Q](https://open.spotify.com/album/18QFWd8sXbRzeviP7ND7mr) | 3:25 | 2022-05-11 | 2024-06-24 |
 | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/track/3CLZxLlFSSSITSRl1UFffY) | [JEONG EUN JI](https://open.spotify.com/artist/7cgAZ03K2mMaWB70gwZs92) | [How's your night \(She is My Type♡ X Jeong Eun Ji\)](https://open.spotify.com/album/7e6XmoPyrm2wC9BvCI3wJQ) | 4:17 | 2022-05-11 |  |
 | [I Am Yours](https://open.spotify.com/track/0lZZ0Icm0dVmJHTpMCuy1H) | [OVAN](https://open.spotify.com/artist/4FuRHFtCeoYaeeVDKyyvbS) | [I Am Yours](https://open.spotify.com/album/3F2z1d1wAllQCboEkrQ054) | 3:31 | 2024-04-19 |  |
@@ -97,6 +97,7 @@
 | [I Study You](https://open.spotify.com/track/0KjzuciHomg603Pk1n64R9) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You](https://open.spotify.com/album/1GjqVAgkAdFotA8zkoRphT) | 3:37 | 2022-07-08 | 2024-04-19 |
 | [I Study You 너를 공부해](https://open.spotify.com/track/6mVPTNUcuAay1HvkvEBtaP) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [I Study You 너를 공부해](https://open.spotify.com/album/1D776fV2xvMvigizWDnrqA) | 3:37 | 2022-05-11 | 2022-07-29 |
 | [I think I'm in love](https://open.spotify.com/track/395vU3XBsgKd5iRXT9x94P) | [JUNIEL](https://open.spotify.com/artist/0F8gvxccUYPndXVsyLmCi6) | [I think I'm in love](https://open.spotify.com/album/2SGP45XuLo4r2bnRyaPzpV) | 3:16 | 2022-05-11 | 2022-07-24 |
+| [I Think It’s Love](https://open.spotify.com/track/1hZzcU8Bar5mzJY8J9r1g0) | [GIRIBOY](https://open.spotify.com/artist/2MtHuR0W2idZdF7x4wddqq) | [GIRIBOY 11th LP Pt.1 : Why Are You always like this?](https://open.spotify.com/album/6SW0pohsRBjMtNLGutuzzn) | 3:03 | 2025-01-16 |  |
 | [I Wish](https://open.spotify.com/track/2MzPMAOhdAdAOFV6Cug4Tj) | [1set](https://open.spotify.com/artist/3yJkmzLpEtKsiR2g1cVNQl) | [Ex](https://open.spotify.com/album/7LitfehzSpzc7YnYB4IzFx) | 3:18 | 2022-05-11 | 2022-07-23 |
 | [I Wish](https://open.spotify.com/track/7LyDoYFZdP1XuvExLNFATf) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [I Wish](https://open.spotify.com/album/7mUDOrFkwYlWCWbRPCzrer) | 2:33 | 2024-10-08 | 2024-10-19 |
 | [I wonder](https://open.spotify.com/track/0P0VXGVjj3TNoXMyWWSsuK) | [Hello Fox](https://open.spotify.com/artist/5F7gjj7mqSIPMv7hbaAQVd) | [I wonder](https://open.spotify.com/album/4S7Cchlit8FEWzt0a0qrDe) | 2:57 | 2022-07-04 | 2022-07-29 |

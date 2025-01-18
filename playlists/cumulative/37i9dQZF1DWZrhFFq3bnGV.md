@@ -2,7 +2,7 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: Arumtala
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: ArumtaLa
 
 221 songs - 15 hr 33 min
 

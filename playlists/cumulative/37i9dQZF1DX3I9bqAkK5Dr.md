@@ -4,7 +4,7 @@
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-324 songs - 19 hr 35 min
+325 songs - 19 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Kalavara Paduthunnane](https://open.spotify.com/track/6NeNZwY4LyLfvV3whZgPsT) | [Venkatesh Vuppala](https://open.spotify.com/artist/1uyCwHOok5QG540JbbO5tb), [Soma Rishitha](https://open.spotify.com/artist/4eOZsojt4r5136CWprInPa), [Sharath Chandra Thirunagari](https://open.spotify.com/artist/6VU00Y5Ojx7cxtgmlNCMfm) | [Kalavara paduthunnane](https://open.spotify.com/album/0MdXOA8p3Utqvm1GaMo7jb) | 3:32 | 2023-06-19 | 2024-01-05 |
 | [Kalavarama](https://open.spotify.com/track/5sJUHIyPP0IBDoasbFKt31) | [Kishan D'Souza](https://open.spotify.com/artist/0MuPLm7QDoBgAKaxtJeyU6) | [Kalavarama](https://open.spotify.com/album/0WnDNGyNuz476RAJMHXk8N) | 3:29 | 2024-04-15 | 2024-10-04 |
 | [Kale Theera](https://open.spotify.com/track/7FH3bPecMXGlkwHXuDZDW7) | [Krishna Tejasvi](https://open.spotify.com/artist/1Eg5wFfEYY6DsiGelBYi4q), [Usha Prasanna](https://open.spotify.com/artist/62VzI58YaYqPziIME2pjTS), [Akshay Yesodharan](https://open.spotify.com/artist/0v3tdZjCZmBF6L7H05dbwN) | [Kale Theera](https://open.spotify.com/album/2kpqsxK48MoF2OF29DZBcZ) | 3:29 | 2024-11-04 |  |
-| [Kalle Kalle](https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Kalle Kalle](https://open.spotify.com/album/6ahMugLjsmHEMnE8MGFT6R) | 3:10 | 2023-06-09 |  |
+| [Kalle Kalle](https://open.spotify.com/track/1jJfnXTyCJyvCfXvfR0u5K) | [Sunny Austin](https://open.spotify.com/artist/6t93SlM1MyMkieQcHWfCUA), [Chinna Swamy](https://open.spotify.com/artist/0wqqeq1yuSZkZimquJClaS) | [Kalle Kalle](https://open.spotify.com/album/6ahMugLjsmHEMnE8MGFT6R) | 3:10 | 2023-06-09 | 2025-01-18 |
 | [Kannullo Kala \- Manoharam](https://open.spotify.com/track/1GPnihVegNhrL1qbV2WMqh) | [The Fantasia Men](https://open.spotify.com/artist/5IbZwIG4wFy8JgdIDR76kk), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Kannullo Kala \(Manoharam\)](https://open.spotify.com/album/0vClCsoWXpytyztm9vWEcs) | 3:44 | 2023-03-22 |  |
 | [Karuna](https://open.spotify.com/track/3pYDC5i3YryOEkzHbKKDLy) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/2YtQTCZXkWX4LiaknHzga7) | 3:14 | 2023-05-31 | 2024-01-05 |
 | [Karuna](https://open.spotify.com/track/5nzBrLJixlLLmTMFQnYscF) | [Venkata Chaitanya](https://open.spotify.com/artist/39N69padIY95ql4Q4kQgKD) | [Karuna](https://open.spotify.com/album/1IbXWKQyr5fx7VjTrHZll6) | 3:14 | 2023-05-31 | 2024-02-15 |
@@ -291,6 +291,7 @@
 | [Tapana](https://open.spotify.com/track/2MZssNgryrjsC4foP7K4bU) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Tapana](https://open.spotify.com/album/3vREwqsQtKu8N0SMuULlxr) | 2:50 | 2023-10-16 | 2024-01-07 |
 | [Tapana](https://open.spotify.com/track/3kTxWyA0nqDHgwTbVRvp9Q) | [Harsha Prawin](https://open.spotify.com/artist/5S7CryoJO91PcKhXVcxQV1), [Aditya Bheemathati](https://open.spotify.com/artist/7otWOYhWeNnAhMyetbaMws) | [Tapana](https://open.spotify.com/album/5Hd9xSaq9KuM0QNAlVX3Ge) | 2:50 | 2023-10-16 | 2024-02-10 |
 | [Tara](https://open.spotify.com/track/7LvCYOfZMR5APbGNgj7P6p) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN) | [Tara](https://open.spotify.com/album/3cOpLZ4sBU9eke6KyOyUqo) | 2:49 | 2022-07-18 | 2023-05-26 |
+| [Teliyadhe](https://open.spotify.com/track/4Q1MEYpfcuC2NulVRnDP97) | [Durga Prasad Mittireddi](https://open.spotify.com/artist/5lAeMjuerzOFy6h8LXZ74o) | [Teliyadhe](https://open.spotify.com/album/7MvesWRvqc18WmkmCM7Irj) | 4:39 | 2025-01-17 |  |
 | [Teliyadhe](https://open.spotify.com/track/62lPzNTDBg3dazXOoBm72W) | [KASYAP](https://open.spotify.com/artist/4p4ILwTCyu0exslJsiQzZP), [Lipsika Bhashyam](https://open.spotify.com/artist/21dhDPAGZuoa1M2S60hFK1) | [Teliyadhe](https://open.spotify.com/album/5EpiiTu3WevKoIxq3brNyt) | 4:01 | 2024-01-18 |  |
 | [Telugodi Beat](https://open.spotify.com/track/5mQKKShZT8OuPLtZeEN5eq) | [Noel Sean](https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN) | [Telugodi Beat](https://open.spotify.com/album/3sxdDrmnrBgCQv8fZT30xV) | 3:51 | 2024-12-20 |  |
 | [Telugu Bhasha](https://open.spotify.com/track/3spnmQIfqbs7WApfP1l5uh) | [MaaHaa](https://open.spotify.com/artist/2nON7IMoqVBIWONZabqWBC) | [Telugu Bhasha](https://open.spotify.com/album/70P4Be7U3B8ANL5tYjdHjg) | 3:02 | 2024-02-02 | 2024-03-06 |

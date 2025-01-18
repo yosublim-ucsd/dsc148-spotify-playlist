@@ -4,7 +4,7 @@
 
 > The hottest Global and SA Pop tracks you love\. Cover: <a href="https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0?si=y5bMnMvtQKCSIsX\_tnkL4w">Anica Kiana</a>
 
-242 songs - 12 hr 18 min
+243 songs - 12 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -191,6 +191,7 @@
 | [Shhh](https://open.spotify.com/track/7ptNON5rnPOv1uFODNtDgP) | [Droomsindroom](https://open.spotify.com/artist/36P4zQxOGCSabr44bXS8kW) | [Shhh](https://open.spotify.com/album/0cCsW6WclcYR91SlpTWnaf) | 2:23 | 2024-08-15 | 2024-11-08 |
 | [Shirt](https://open.spotify.com/track/7Gejbl2DoylzXdpw2zbmOF) | [Connor Austin](https://open.spotify.com/artist/5RJmXI7u46XifTvVEVbc0j) | [Shirt](https://open.spotify.com/album/0TJjLt37lC5u5sV8xR8hnB) | 2:47 | 2024-07-11 | 2024-07-19 |
 | [Show Pony](https://open.spotify.com/track/4O05ZiEmlfUFPhvafHqcIO) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [I Love You So F\*\*\*ing Much](https://open.spotify.com/album/5i6LJyHq9wxLSecf0N2Iuw) | 4:15 | 2024-11-15 | 2024-12-06 |
+| [Shutcho \(feat\. The Joy\)](https://open.spotify.com/track/6AZLjrFI5qh6IsMHzvyrIi) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [The Joy](https://open.spotify.com/artist/0m75hupsCHphMuGJlDkQby) | [Scarlet 2 CLAUDE](https://open.spotify.com/album/5ho4S2bnJJdF0uwT8YiQsw) | 4:30 | 2025-01-17 |  |
 | [Sink Or Swim \- Acoustic](https://open.spotify.com/track/5TXkJOsgp8cWIHtTsuxrJP) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Artificial Paradise \(Super Deluxe\)](https://open.spotify.com/album/3rZyOsowQOtW3BMuO4vCmh) | 2:36 | 2024-12-05 |  |
 | [Slow It Down](https://open.spotify.com/track/51eSHglvG1RJXtL3qI5trr) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Fireworks & Rollerblades](https://open.spotify.com/album/168CdR21lfn0TTyw1Pkdcm) | 2:41 | 2024-07-11 | 2024-11-08 |
 | [Slow like honey](https://open.spotify.com/track/13yLVxy7sBepTm0jqZjxO5) | [Arno](https://open.spotify.com/artist/3c71mKaBMfyaygDCHekQsl) | [Slow like honey](https://open.spotify.com/album/4SnaKo9HDIv4t3XyPK9zls) | 2:39 | 2024-11-21 |  |

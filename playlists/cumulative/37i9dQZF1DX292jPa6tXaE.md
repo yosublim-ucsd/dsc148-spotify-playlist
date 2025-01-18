@@ -4,7 +4,7 @@
 
 > Discover the future of Punjabi Pop! Cover: Opinder Dhillon
 
-177 songs - 8 hr 29 min
+178 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,7 @@
 | [Dear Brother](https://open.spotify.com/track/16rCo9vtSAGFce8ZqVuBZt) | [Jass Rathour](https://open.spotify.com/artist/1PJeurLIeA8KCD0XIser63) | [Dear Brother](https://open.spotify.com/album/7i3nRNa0cDdKIg7ReZei1v) | 2:32 | 2024-10-16 | 2025-01-16 |
 | [Debi Ale Geet](https://open.spotify.com/track/5UzfxWB9l0A4590iAmpnjm) | [Opinder Dhillon](https://open.spotify.com/artist/4EzDYRmwrNVuHLYdCw7eFW), [FREEZZY BEATZ](https://open.spotify.com/artist/5eMuqVgMZ4fFnkSKjpMEs1) | [Debi Ale Geet](https://open.spotify.com/album/1yVXoby2H0ZSvKwkcUUCQZ) | 3:16 | 2024-11-13 |  |
 | [Desire](https://open.spotify.com/track/5zQFa7QEb0jrqvoLyvY0vj) | [Mananveer Singh](https://open.spotify.com/artist/3C0VF9Zgo9UMMF6CFTL9qG), [Gurman Singh](https://open.spotify.com/artist/2dL7hO5aHsjv2TOD0HLKww) | [Desire](https://open.spotify.com/album/1UjFH8I5wpZEBDeBD2716S) | 2:18 | 2025-01-15 |  |
-| [Dil Leja](https://open.spotify.com/track/5BlEi8npMvjNY43jiGxNfo) | [D Hans](https://open.spotify.com/artist/1RAOUJeDIypipfnlJ7LDU3) | [Dil Leja](https://open.spotify.com/album/7sT40bcb1cheOkGPrngt9c) | 2:14 | 2024-11-20 |  |
+| [Dil Leja](https://open.spotify.com/track/5BlEi8npMvjNY43jiGxNfo) | [D Hans](https://open.spotify.com/artist/1RAOUJeDIypipfnlJ7LDU3) | [Dil Leja](https://open.spotify.com/album/7sT40bcb1cheOkGPrngt9c) | 2:14 | 2024-11-20 | 2025-01-18 |
 | [Dil Lutdi](https://open.spotify.com/track/4nO63a8pcpSr4vKUerS5Ul) | [Hrmn Pannu](https://open.spotify.com/artist/4A9xEVbvrPZQcZ1M4ypsgk), [Aloof](https://open.spotify.com/artist/7GuZcMfBZ1gx0UjGLoEGDV) | [Dil Lutdi](https://open.spotify.com/album/76a7bRdoimFC99puLTlHXf) | 2:41 | 2024-10-23 |  |
 | [Diwana Tera](https://open.spotify.com/track/6J5NFk9xM7J5DwRPfkFTmX) | [Saajz](https://open.spotify.com/artist/2a2ivn274wtLKBnjDYa07b), [Onkaar Harman](https://open.spotify.com/artist/4nUGbIGm3hSmbNNDCanbw6) | [Diwana Tera](https://open.spotify.com/album/0syHU62MrNvxtb1rF4aRaD) | 3:33 | 2024-09-04 | 2024-10-24 |
 | [Don't Care Zafar Brar](https://open.spotify.com/track/4MHgUhqvflHic2d2RVsdos) | [Zafar Brar](https://open.spotify.com/artist/5LinFD2B7eycr2rGuR93nY) | [Don't Care Zafar Brar](https://open.spotify.com/album/5atV7orCSrhPWAyw3uG3MT) | 2:31 | 2024-07-03 | 2024-09-12 |
@@ -106,7 +106,7 @@
 | [Let It Be](https://open.spotify.com/track/01ShIzQsKqIasK06g9tFDc) | [NADAR](https://open.spotify.com/artist/1Bgk62DL2Mc8CthtepdVBr), [DaBrown](https://open.spotify.com/artist/4xAjp5uHf1HTQnXMGPZEMC) | [Let It Be](https://open.spotify.com/album/38mmeFfHE8qrujAZQ2jV9U) | 3:34 | 2024-07-03 | 2025-01-09 |
 | [Let's Ride Together](https://open.spotify.com/track/02dbngFtyEzsKdk85n7LPi) | [Davinder Dhillon](https://open.spotify.com/artist/76gJAlgNxPb4NpMY87qxrn) | [Let's Ride Together](https://open.spotify.com/album/5VNzg7iZv171Y5TqB16Lm0) | 3:04 | 2024-07-03 | 2025-01-09 |
 | [Level Up](https://open.spotify.com/track/2LNjZwyjOcxqsqRR1Lep4f) | [Lucky Maan](https://open.spotify.com/artist/09nbL4fECiLx91JQc7iONs), [Mr Harry](https://open.spotify.com/artist/6Aik27VekUXuiW9xnuWlIg) | [Level Up](https://open.spotify.com/album/4TSNQa5aBW9x1P39MUDNL4) | 2:51 | 2024-11-13 |  |
-| [Links](https://open.spotify.com/track/2xaC6YEI9n8HpzxnI2K5t5) | [Jugnu](https://open.spotify.com/artist/15npeM86AY1blmqFunBx3C) | [Links](https://open.spotify.com/album/60S8AvGNNAmYkeK2RgJODY) | 2:19 | 2025-01-15 |  |
+| [Links](https://open.spotify.com/track/2xaC6YEI9n8HpzxnI2K5t5) | [Jugnu](https://open.spotify.com/artist/15npeM86AY1blmqFunBx3C), [Verse](https://open.spotify.com/artist/6u7wsDrP8AnQth07iGnmkO) | [Links](https://open.spotify.com/album/60S8AvGNNAmYkeK2RgJODY) | 2:19 | 2025-01-15 |  |
 | [Long Distance](https://open.spotify.com/track/2uGov0C50BMmNhWEjznwIL) | [Qarn](https://open.spotify.com/artist/6iQlgUcQyy89NF7n9xs1FG), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM), [Deep Bajheriwala](https://open.spotify.com/artist/7rZrBECX3UBrOBloYmC7jL) | [Long Distance](https://open.spotify.com/album/32aTwYbiLXm2Gna2RAkm3h) | 2:19 | 2024-07-03 | 2025-01-09 |
 | [Lovelorn](https://open.spotify.com/track/0zGC8T0XicGLBJbFCb2SLn) | [Pavvi Singh](https://open.spotify.com/artist/4p8vDVPxlrR6IVZvIwqsJF) | [Lovelorn](https://open.spotify.com/album/14XhzE5O1I4sq16dWx8s3a) | 2:36 | 2024-07-03 | 2024-07-24 |
 | [Main Teriyan](https://open.spotify.com/track/596eXAmuLYKtUXVBgImgr2) | [Kalra Saab](https://open.spotify.com/artist/52wEoKNZk5QyZrVDFI3jWD) | [Main Teriyan](https://open.spotify.com/album/50eQJlIfGhAa17U636kEei) | 3:35 | 2024-07-23 | 2024-08-03 |
@@ -181,6 +181,7 @@
 | [Yaar Da Viah](https://open.spotify.com/track/18qQLgwJI7hrge4gI2oUxr) | [Samar Veer](https://open.spotify.com/artist/349nyiVdtB4mKn6BhjfkY3), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Yaar Da Viah](https://open.spotify.com/album/5TaTN1kr6ZxOvObvSds9uW) | 2:22 | 2024-09-11 | 2024-11-14 |
 | [Yaar Tera Ni](https://open.spotify.com/track/1vgF047kQq1a7i9nlpfTBl) | [Mananveer Singh](https://open.spotify.com/artist/3C0VF9Zgo9UMMF6CFTL9qG), [DPON DASH](https://open.spotify.com/artist/4bY5J8e8VjNcVUqz6hEyst) | [Yaar Tera Ni](https://open.spotify.com/album/4gOQgBtSEGCHRZCajXLTZM) | 2:17 | 2024-09-06 | 2024-11-14 |
 | [Yaari](https://open.spotify.com/track/5qMOxQs2vj9b5Vdh4pj8bi) | [PRIYA](https://open.spotify.com/artist/1DYZAMFzLj64clrOzfHHmX), [Lucas](https://open.spotify.com/artist/7y1Z5RFuhmn0L1in87Hayd) | [Flowers](https://open.spotify.com/album/2u13scMhPhD0LvK1ZZFXhH) | 2:19 | 2024-10-23 |  |
+| [Yakeen](https://open.spotify.com/track/5ViMVBlVhd31LEDZps4YFo) | [Ashu Mehtab](https://open.spotify.com/artist/6M8HVHEovnMXXIs6xvWZbp) | [Yakeen](https://open.spotify.com/album/3crMvufyuipjauRdPnTiKz) | 3:16 | 2025-01-17 |  |
 | [Yes/No](https://open.spotify.com/track/3zTsQC9xZzTSrNXRW8ij1b) | [Uday Bath](https://open.spotify.com/artist/248BJTjfR3ElYcIKa32FqX) | [Yes/No](https://open.spotify.com/album/0qng4ZG4ooOVSjZIHhS4Mu) | 2:35 | 2024-09-11 | 2025-01-09 |
 | [You're Mine](https://open.spotify.com/track/4uR3q4k23PsfQl8NFm8nTJ) | [Sheraa](https://open.spotify.com/artist/6LtWqJcfJaHaHBKJn7PdPf), [Dachamp](https://open.spotify.com/artist/0e8t6R4kX3xMeMUMB2HL7Z) | [You're Mine](https://open.spotify.com/album/0F1S3080cPEneEc5JzMmw5) | 2:38 | 2024-09-18 | 2024-11-21 |
 | [YOUTH WAVE](https://open.spotify.com/track/6OXaPFparqslpMCns4NqIr) | [Lovenoor](https://open.spotify.com/artist/1PLbOK3g7lqOANtCK1y4tw), [Kunwxrr](https://open.spotify.com/artist/2ln8u0bAiqCrbEeskIGOpL) | [YOUTH WAVE](https://open.spotify.com/album/4G8QmbeLMFwNbhC7WY3aol) | 2:35 | 2024-07-03 | 2025-01-09 |

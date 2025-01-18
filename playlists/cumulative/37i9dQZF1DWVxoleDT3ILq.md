@@ -2,9 +2,9 @@
 
 ### [Indie Chile](https://open.spotify.com/playlist/37i9dQZF1DWVxoleDT3ILq)
 
-> Todo el sonido indie de Chile\. Foto: Abrildefresa
+> Todo el sonido indie de Chile\. Foto: gabriela arcos
 
-523 songs - 1 day 7 hr 19 min
+524 songs - 1 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [Invierno](https://open.spotify.com/track/53Pcbz7MYvm4JX0cKXeMzn) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Invierno](https://open.spotify.com/album/1owF920lLxiiTuV7sdGrLk) | 4:15 | 2022-04-15 | 2022-12-10 |
 | [Juliana](https://open.spotify.com/track/4ofA2Txy2wWZdHwc4O8gO5) | [Hausi Kuta](https://open.spotify.com/artist/5iVb4hi1IDpP6NKIKdEwpF), [Natisú](https://open.spotify.com/artist/7BzSI3dTllADHzoJ2crQov) | [Juliana](https://open.spotify.com/album/2DwYhEkb9K1hixzLbQ1T40) | 4:39 | 2022-04-15 | 2022-07-29 |
 | [Junio](https://open.spotify.com/track/45pOC2Od71kyeZpWu9Do5o) | [Antonia Navarro](https://open.spotify.com/artist/1xmUtLnSPwuJOVGB5kZwSt) | [Insana y Salva](https://open.spotify.com/album/5TR2BOJGqJATv53IlerpdY) | 4:16 | 2023-07-14 | 2023-09-15 |
-| [Juntos](https://open.spotify.com/track/2arqRzisztcxm4EhjESG3D) | [L!mbus](https://open.spotify.com/artist/4DOAYcnLuG4D09awGDzAGS), [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Juntos](https://open.spotify.com/album/6PIXHkkkEtSNtPfkELn6SM) | 4:04 | 2024-04-26 |  |
+| [Juntos](https://open.spotify.com/track/2arqRzisztcxm4EhjESG3D) | [L!mbus](https://open.spotify.com/artist/4DOAYcnLuG4D09awGDzAGS), [Entrópica](https://open.spotify.com/artist/2IunebW5WpbBHwXU5BBv08) | [Juntos](https://open.spotify.com/album/6PIXHkkkEtSNtPfkELn6SM) | 4:04 | 2024-04-26 | 2025-01-18 |
 | [Karma](https://open.spotify.com/track/2XxJKaZNhPanBkpGSMoApE) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/7kP9AmZtw94OKJ9WwCbcs4) | 3:16 | 2022-10-14 |  |
 | [Karma](https://open.spotify.com/track/7nJzvoXmzFfKH0XupDiBzV) | [Charly Benavente](https://open.spotify.com/artist/38RtVKKRJwYGkKJDuZtHJP) | [Karma](https://open.spotify.com/album/5qJlhQrdU7GFAvn8w48ukg) | 3:16 | 2023-03-24 | 2023-06-10 |
 | [KAWAII MUY TIERNA](https://open.spotify.com/track/3OnVUPG7varDTzn8wbyWgT) | [Poder Fantasma](https://open.spotify.com/artist/7BAa5FikfNdBTzy3FNBV0w) | [AMOR EVITATIVO](https://open.spotify.com/album/5WAilTili7KDIEibSjpyk8) | 3:22 | 2024-07-26 |  |
@@ -262,6 +262,7 @@
 | [Lo Que No Hablas](https://open.spotify.com/track/0ma6SYCcqYUyaejkmxubjb) | [Rubio](https://open.spotify.com/artist/79YjWaAoD88XGLETIsnnQV) | [Lo Que No Hablas](https://open.spotify.com/album/1nKw1J4wJ5H040r1cKPwPE) | 3:28 | 2023-08-04 | 2024-08-24 |
 | [Lo que ya planté](https://open.spotify.com/track/4aT0PklOBmtNvmANBkYuqQ) | [Niño Cohete](https://open.spotify.com/artist/00kBFCMv8iB3aMpHy043LO) | [Lo que ya planté](https://open.spotify.com/album/716yYoWmdI1bRFaMod1JVC) | 3:39 | 2024-12-06 |  |
 | [Lo Vas a Ver](https://open.spotify.com/track/1TsJ958NQWw2mIwzlWkUXI) | [Corvje](https://open.spotify.com/artist/42lMX6nPhKNggJbRtEMQK3), [EsMikeGarcia](https://open.spotify.com/artist/5FK9isHItaC3GaYIdNX18w) | [Lo Vas a Ver](https://open.spotify.com/album/2wSBCh5Z3VeSQ6a3by0kKP) | 3:35 | 2022-04-15 | 2022-07-25 |
+| [LOCA](https://open.spotify.com/track/7rpetTXgYnbDENIZkLQcn0) | [gabriela arcos](https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx) | [quién llama a esta hora \(versión deluxe\)](https://open.spotify.com/album/2KYh73tnSooxmHciXtswtN) | 3:04 | 2025-01-17 |  |
 | [Los chicos están tristes](https://open.spotify.com/track/7IrF5Ej7qYZrWnN5gofepC) | [Paracaidistas](https://open.spotify.com/artist/6q0e1oKgBOTIhnNQTbfdWP) | [Los chicos están tristes](https://open.spotify.com/album/4q5k1NJ7LYj5efxUatjm7L) | 3:04 | 2022-05-06 | 2023-05-13 |
 | [Lunachena](https://open.spotify.com/track/3IrwrEJzH75G8Iitfkrzhw) | [Tu Temple](https://open.spotify.com/artist/5s3HMKPs4Jn0nWvkXXASuF) | [Lunachena](https://open.spotify.com/album/2qTJJyW8DpSmZAzCOzsv3d) | 4:17 | 2023-09-29 | 2023-10-13 |
 | [Madre Mía](https://open.spotify.com/track/1KfTE7KeZzP9re6Z5iVwTT) | [Oye, Elizabeth](https://open.spotify.com/artist/38qv984wcg1RA24MVl4BVP) | [Madre Mía](https://open.spotify.com/album/71oVyBiwTfXKZJ4vd7Cg0W) | 3:15 | 2022-04-15 | 2022-12-10 |

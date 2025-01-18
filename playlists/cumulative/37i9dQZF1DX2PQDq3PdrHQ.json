@@ -679,6 +679,24 @@
     },
     {
       "album": {
+        "name": "analog dreams",
+        "url": "https://open.spotify.com/album/3Uydfa6YJRIsAGR5eoRULU"
+      },
+      "artists": [
+        {
+          "name": "Beats on 21st",
+          "url": "https://open.spotify.com/artist/2VBUiCVWzqYXz3VdzHQMG5"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "analog dreams",
+      "url": "https://open.spotify.com/track/5h96Ai7Ef7ll9142dnOukV"
+    },
+    {
+      "album": {
         "name": "Angel Number",
         "url": "https://open.spotify.com/album/1X6EUgFJT1cwbG5SCePy7f"
       },
@@ -748,6 +766,28 @@
       "duration_ms": 110400,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3m8wuUjISsZykLLU1sYjpK"
+    },
+    {
+      "album": {
+        "name": "anytime soon",
+        "url": "https://open.spotify.com/album/1ku2ZgY2EKwTu1iBrTJzh1"
+      },
+      "artists": [
+        {
+          "name": "Lenny Loops",
+          "url": "https://open.spotify.com/artist/6MvnyPinXRQbUCMsPoymhR"
+        },
+        {
+          "name": "Hoogway",
+          "url": "https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153600,
+      "name": "anytime soon",
+      "url": "https://open.spotify.com/track/3agIll8PIeZq88lmBeyfaZ"
     },
     {
       "album": {
@@ -1512,6 +1552,24 @@
       "duration_ms": 125500,
       "name": "buffering",
       "url": "https://open.spotify.com/track/56GSCStJ5kWkGg8X2Ofgvp"
+    },
+    {
+      "album": {
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/7Ms79CscXJwdcwRkfFCUzy"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112125,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/1RaYGs0MT9wV3yIaudL6KW"
     },
     {
       "album": {
@@ -5614,7 +5672,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 120304,
       "name": "Horizon",
       "url": "https://open.spotify.com/track/4xWmP2VgS9akFld37kFR2y"
@@ -10022,7 +10080,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 153846,
       "name": "Past Eventide",
       "url": "https://open.spotify.com/track/1Td4GohivkKls25AodRzlF"
@@ -10486,7 +10544,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 131056,
       "name": "PWR nApp",
       "url": "https://open.spotify.com/track/3uvQsiIBs9ceN3hwSp3WJ1"

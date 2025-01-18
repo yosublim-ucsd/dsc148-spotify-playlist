@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 
 > easy breezy dance music
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,259 likes - 60 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,253 likes - 60 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,10 +28,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Z0nWFAx7KL.md) - [plain]
 | 18 | [Kids](https://open.spotify.com/track/6xhDH3jLEKg6rpcImMLTXo) | [Patrick Lite](https://open.spotify.com/artist/7hp5hDp0WIQHip75gbNc8v) | [Kids](https://open.spotify.com/album/2MlZjUB8aDVyhWPwEXn99T) | 2:21 |
 | 19 | [Thousand Lullabies](https://open.spotify.com/track/4WRtXqu9TmvvwZ3bzdcCVQ) | [Dynoro](https://open.spotify.com/artist/3v6Ji4uoWtKRkhuDUaxi9n) | [Thousand Lullabies](https://open.spotify.com/album/2dItiBT8SSIoydzHmiIMBU) | 2:09 |
 | 20 | [Temptation](https://open.spotify.com/track/3wqBSBa92YjumaxGO9SH3U) | [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [Temptation](https://open.spotify.com/album/7eYa0dcRtYtxiHKsj7Af43) | 3:09 |
-| 21 | [Far Beyond](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA) | [Munch](https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk) | [Far Beyond](https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5) | 2:17 |
-| 22 | [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 |
-| 23 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 |
-| 24 | [If I Have To](https://open.spotify.com/track/3YL13hNz8ssxUsPHG7GgUP) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Morane](https://open.spotify.com/artist/6UaAGwEkZDSzBtMbfPcDeB) | [If I Have To](https://open.spotify.com/album/4QuTyx5bLbYPRqzhUymkID) | 4:06 |
+| 21 | [My Girl](https://open.spotify.com/track/4vnCOTT3hRLXWogSFfFd1j) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [My Girl](https://open.spotify.com/album/6GNd7VlA7cEi2wrrweJSbu) | 2:04 |
+| 22 | [Far Beyond](https://open.spotify.com/track/048ZVt7BfDpFoTORcDKRJA) | [Munch](https://open.spotify.com/artist/4FX0r1sSgM9LzQdx5rgWft), [Piece Wise](https://open.spotify.com/artist/3ZgGFg9kFshmpMnayjb1Nk) | [Far Beyond](https://open.spotify.com/album/13M6DYmjgXDJUUdvsTSYW5) | 2:17 |
+| 23 | [If I Have To](https://open.spotify.com/track/3YL13hNz8ssxUsPHG7GgUP) | [Ajna \(BE\)](https://open.spotify.com/artist/6TILJrqby5UzMV1EemkxtN), [Mosoo](https://open.spotify.com/artist/4tb4RmDN2nG89wOo7SQLzh), [Samm \(BE\)](https://open.spotify.com/artist/2IDtMW47SEAptw9RwNREm0), [Morane](https://open.spotify.com/artist/6UaAGwEkZDSzBtMbfPcDeB) | [If I Have To](https://open.spotify.com/album/4QuTyx5bLbYPRqzhUymkID) | 4:06 |
+| 24 | [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 |
 | 25 | [Feeling Lost Tonight](https://open.spotify.com/track/0G8DSf59TefFfYMJbdyse2) | [Krister & Dalbani](https://open.spotify.com/artist/3t0AL6Nk9ZuRclRi0gjlfT) | [Feeling Lost Tonight](https://open.spotify.com/album/1vrWvbljMdILNfDPXlbDj6) | 1:46 |
 | 26 | [Falling](https://open.spotify.com/track/3qomIBwYjMXzo0qDVfSYzc) | [Chris Malinchak](https://open.spotify.com/artist/5UVzX8pQe6bb5ueNdfViih), [KOLIDESCOPES](https://open.spotify.com/artist/21ey6s5hEcTcVKDrF5MWby) | [Falling](https://open.spotify.com/album/3s8ghNpqaH4O7Xk0BqAfnS) | 3:17 |
 | 27 | [The Sun Will Come Again](https://open.spotify.com/track/77sqWKCdxGlxjEmJn3fg9F) | [Chicane](https://open.spotify.com/artist/5GxyeQagayzZOg4UwffQlD) | [Trampolines](https://open.spotify.com/album/6P3wd3aFVwuwF3tYbzCskk) | 4:02 |

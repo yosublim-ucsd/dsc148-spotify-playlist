@@ -131,6 +131,46 @@
     },
     {
       "album": {
+        "name": "Ain't No Place For You",
+        "url": "https://open.spotify.com/album/0YzVD5O3ETY5Grzb1XeVlm"
+      },
+      "artists": [
+        {
+          "name": "Family Jools",
+          "url": "https://open.spotify.com/artist/2D2dkAs69ZoWgiMmj4Cszl"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156672,
+      "name": "Ain't No Place For You",
+      "url": "https://open.spotify.com/track/3vAWda1qJ8Gj9VBEaHNm1i"
+    },
+    {
+      "album": {
+        "name": "Albatross Sunset",
+        "url": "https://open.spotify.com/album/4eWYrlI8Y8FqsWOGjfBIIi"
+      },
+      "artists": [
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
+        },
+        {
+          "name": "Big Leaf",
+          "url": "https://open.spotify.com/artist/1JUUWpP7Wx9WE8ZKmV6Gcb"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145877,
+      "name": "Albatross Sunset",
+      "url": "https://open.spotify.com/track/1EQnfd2pbVtxYK5wrK9jw5"
+    },
+    {
+      "album": {
         "name": "All Because Of Me",
         "url": "https://open.spotify.com/album/0d9tJvwp8GFrn9AJ9uVH3K"
       },
@@ -232,7 +272,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 408690,
       "name": "Alone",
       "url": "https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6"
@@ -646,7 +686,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 282282,
       "name": "Calm",
       "url": "https://open.spotify.com/track/6uSbTpPj6FFd0wht5yDwv2"
@@ -708,7 +748,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 381676,
       "name": "Canvas of Souls",
       "url": "https://open.spotify.com/track/6xyAgbpsNwUZULpEpmGt4S"
@@ -1084,6 +1124,24 @@
       "duration_ms": 232933,
       "name": "EMINENT SLEAZE",
       "url": "https://open.spotify.com/track/0W9jxYrpe2iNedGr8fyAqQ"
+    },
+    {
+      "album": {
+        "name": "LITHIUM",
+        "url": "https://open.spotify.com/album/0eK0vYBCmkjlDwP5qfTCKF"
+      },
+      "artists": [
+        {
+          "name": "Nrthrn",
+          "url": "https://open.spotify.com/artist/2JrapUnu1gX16UFMDjmok2"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230400,
+      "name": "END",
+      "url": "https://open.spotify.com/track/5VK0kYTGxFXeAbBvSbMv3j"
     },
     {
       "album": {
@@ -1578,7 +1636,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 219106,
       "name": "Holding On",
       "url": "https://open.spotify.com/track/4aJw10YHEyj06Rrf7dSyQ5"
@@ -1600,6 +1658,24 @@
       "duration_ms": 284426,
       "name": "Hope Is",
       "url": "https://open.spotify.com/track/4jy8mXwqnOmKGrwB64zKc6"
+    },
+    {
+      "album": {
+        "name": "Live Magic At Trading Boundaries",
+        "url": "https://open.spotify.com/album/7Gs0wtWgpkuabd47D9Fo6u"
+      },
+      "artists": [
+        {
+          "name": "Steve Hackett",
+          "url": "https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 106826,
+      "name": "Horizons - Live at Trading Boundaries",
+      "url": "https://open.spotify.com/track/6s0FpwrEl7LtG1A85QPzLR"
     },
     {
       "album": {
@@ -2138,10 +2214,28 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 244470,
       "name": "Like a Sunken Ship",
       "url": "https://open.spotify.com/track/3x2ZT5BPPLCKX0ZuRD6Oaq"
+    },
+    {
+      "album": {
+        "name": "Like The Phoenix I Will Rise",
+        "url": "https://open.spotify.com/album/5RA8SJWi2dIIfj1ro21f8z"
+      },
+      "artists": [
+        {
+          "name": "Arion",
+          "url": "https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256173,
+      "name": "Like The Phoenix I Will Rise",
+      "url": "https://open.spotify.com/track/2Yqstc9lDyjfB77XM4uUSC"
     },
     {
       "album": {
@@ -2318,7 +2412,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 277258,
       "name": "Mystic Highway (Looking For Linderman)",
       "url": "https://open.spotify.com/track/6yhjN4KttUEybk3Mi6aqrk"
@@ -2340,7 +2434,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 257862,
       "name": "Negative Space",
       "url": "https://open.spotify.com/track/7utgzokeoOeslAvdcogAKy"
@@ -2913,6 +3007,24 @@
     },
     {
       "album": {
+        "name": "Mend",
+        "url": "https://open.spotify.com/album/3HcKNLwUqCrMcX0fqqkp7W"
+      },
+      "artists": [
+        {
+          "name": "Eidola",
+          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236674,
+      "name": "Revelation: The Infinite Beauty Of Oneness",
+      "url": "https://open.spotify.com/track/71U2oAgK3YRWsSG1Lz9NGa"
+    },
+    {
+      "album": {
         "name": "Context: Fearless Pt. I (Live Expanded)",
         "url": "https://open.spotify.com/album/6m92p6SwyPE78eIw45rtpO"
       },
@@ -3277,6 +3389,24 @@
     },
     {
       "album": {
+        "name": "Siberian Khatru (Live at The Rainbow, London, England, 12/16/1972)",
+        "url": "https://open.spotify.com/album/53IXSSLKdnhFYvZbQpSwY7"
+      },
+      "artists": [
+        {
+          "name": "Yes",
+          "url": "https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 541080,
+      "name": "Siberian Khatru - Live at The Rainbow, London, England, 12/16/1972",
+      "url": "https://open.spotify.com/track/4mF7qSwnRN8m6kFrpHtgSf"
+    },
+    {
+      "album": {
         "name": "Signals (Volkor X Remix)",
         "url": "https://open.spotify.com/album/4TMeLSX3GtPMh4t2zDzfTA"
       },
@@ -3372,6 +3502,24 @@
       "duration_ms": 372570,
       "name": "Somber Aeons",
       "url": "https://open.spotify.com/track/68DepBpNgIzJuCztNn1rGT"
+    },
+    {
+      "album": {
+        "name": "Someone Who Can",
+        "url": "https://open.spotify.com/album/7t914q200AnbbeomCdJU9L"
+      },
+      "artists": [
+        {
+          "name": "Coheed and Cambria",
+          "url": "https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225125,
+      "name": "Someone Who Can",
+      "url": "https://open.spotify.com/track/4I67eSiBu1uekf8yYnJi7K"
     },
     {
       "album": {
@@ -3906,7 +4054,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 315160,
       "name": "The Piper's Call",
       "url": "https://open.spotify.com/track/4gS6q6RhJfM2QBr8g1U8Mu"
@@ -3924,7 +4072,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 309906,
       "name": "The Piper's Call Live Around The World",
       "url": "https://open.spotify.com/track/51SsUy9BaxMIW05zIRyQKg"
@@ -4184,6 +4332,24 @@
       "duration_ms": 235784,
       "name": "Tightrope",
       "url": "https://open.spotify.com/track/56X96FF5Z4GkA269Gn7wGD"
+    },
+    {
+      "album": {
+        "name": "Torn Apart (From \"Bleach\")",
+        "url": "https://open.spotify.com/album/0A9b5otbPvl7KKhjID5gnQ"
+      },
+      "artists": [
+        {
+          "name": "Gabriele Motta",
+          "url": "https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138857,
+      "name": "Torn Apart - From \"Bleach\"",
+      "url": "https://open.spotify.com/track/1ZrNwseUVVkTmFyJiJgZgd"
     },
     {
       "album": {

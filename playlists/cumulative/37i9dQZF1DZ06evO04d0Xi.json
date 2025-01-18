@@ -717,6 +717,24 @@
     },
     {
       "album": {
+        "name": "Lamparina",
+        "url": "https://open.spotify.com/album/2V275CmlT1rLr1ENcetYta"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248628,
+      "name": "Lamparina",
+      "url": "https://open.spotify.com/track/7wZbA2Bjl6zBHCOViGF2To"
+    },
+    {
+      "album": {
         "name": "Quebrantado Cora\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/18iixhv4a9Qr040CdmOCOU"
       },

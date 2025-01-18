@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 
 ### [Next Up](https://open.spotify.com/playlist/37i9dQZF1DWZvuOKNcLsjv)
 
-> 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Doechii
+> 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Teddy Swims & Giveon
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,302 likes - 80 songs - 4 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,300 likes - 80 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZvuOKNcLsjv.md) - [plain]
 | 79 | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/track/5S14RsWa0spDpV6ek557Wa) | [JP THE WAVY](https://open.spotify.com/artist/0hBYSjDjcAaAuSZcpN8jk9), [Yo\-Sea](https://open.spotify.com/artist/0ayU6CR43tInomJqB9JfRw), [LEX](https://open.spotify.com/artist/2KpK4apOMD6evPHoPggSVF), [IO](https://open.spotify.com/artist/7wJbfRQ42OuzAQfXMVidTd) | [i like it \(feat\. Yo\-Sea, LEX & IO\)](https://open.spotify.com/album/3z3jThgipmiUWDf9RzRPrU) | 3:04 |
 | 80 | [For Cryin' Out Loud!](https://open.spotify.com/track/5fz1rfGFT3npQUmNnu998w) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [For Cryin' Out Loud!](https://open.spotify.com/album/2nI6nzE1jBURI1jKNh22OL) | 3:37 |
 
-Snapshot ID: `Z4ke+AAAAACAz2hz01fj6DERyvceau7h`
+Snapshot ID: `Z4rWigAAAAB86vHI97H66lKG8cPBWd09`

@@ -4,7 +4,7 @@
 
 > Modern southern rock swagger served neat\. Cover: The Red Clay Strays
 
-275 songs - 16 hr 53 min
+276 songs - 16 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,7 @@
 | [Knock Me Down](https://open.spotify.com/track/2cVoehVb8c6ejefclEwaCD) | [L.A\. Guns](https://open.spotify.com/artist/22TEmHXBBLjTec2LOAuMdS) | [Knock Me Down](https://open.spotify.com/album/6vcHYDO5HTT3IJucfcI9WZ) | 4:07 | 2021-08-20 | 2023-08-08 |
 | [Knockin on the Door](https://open.spotify.com/track/5fVJAtauU1LhPw9jIGdlGc) | [The Bites](https://open.spotify.com/artist/5qNESecqVeNcCFuMcwFsS3) | [Knockin on the Door](https://open.spotify.com/album/5PiS8gNuWMCucLV6sRG8bp) | 4:09 | 2021-08-20 | 2022-02-12 |
 | [Lady Mine \(feat\. Chad Kroeger\)](https://open.spotify.com/track/0afR9bRVOepZeNYj3pKCuq) | [Josh Ramsay](https://open.spotify.com/artist/5lemlzREG6FOAergTgPi9B), [Chad Kroeger](https://open.spotify.com/artist/7fJYw1vK9yWb8o51I8qHin) | [Lady Mine \(feat\. Chad Kroeger\)](https://open.spotify.com/album/3bTZjLUpO6FQ8RXlHM9SC7) | 4:03 | 2021-12-03 |  |
-| [Last Train To Nowhere](https://open.spotify.com/track/4JlGrKroKFknodbz9KPSvr) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [First Last Time](https://open.spotify.com/album/0DmblXOXPvWPC8u5FnQuUM) | 3:36 | 2024-07-05 |  |
+| [Last Train To Nowhere](https://open.spotify.com/track/4JlGrKroKFknodbz9KPSvr) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [First Last Time](https://open.spotify.com/album/0DmblXOXPvWPC8u5FnQuUM) | 3:36 | 2024-07-05 | 2025-01-18 |
 | [Leaving Hell](https://open.spotify.com/track/6CqjB4PrpwqAD5kAnvTbJC) | [Treaty Oak Revival](https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV) | [Leaving Hell](https://open.spotify.com/album/2g8x4ROXs8Zhqog9uMGGUz) | 3:26 | 2021-10-15 | 2024-07-13 |
 | [Lend A Hand](https://open.spotify.com/track/0pelR2e4NgfyW8K2YyEdWI) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Lend A Hand](https://open.spotify.com/album/3kMnqtkZPrKeporSbpcC4W) | 3:21 | 2020-08-21 | 2022-07-29 |
 | [Lend A Hand](https://open.spotify.com/track/2so5K4rMu3PthPMB9uNGQG) | [The Georgia Thunderbolts](https://open.spotify.com/artist/0sukMbleG21A52WNk4O81d) | [Can We Get A Witness](https://open.spotify.com/album/5Knes2pddqGyhjacLakFGt) | 3:21 | 2022-06-14 | 2023-01-06 |
@@ -223,6 +223,7 @@
 | [See It To Believe It](https://open.spotify.com/track/6bn401AZaUr8josksESfuq) | [Bad Touch](https://open.spotify.com/artist/7mDw6B8FlS2JtsgVtwqgQw) | [Bittersweet Satisfaction](https://open.spotify.com/album/0kvZy7SqYI9x96qg47TRDP) | 2:48 | 2024-07-05 | 2024-07-13 |
 | [Shaking off the Evil](https://open.spotify.com/track/3ciJVCGD7fJmHQPyVGcG2U) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Shaking off the Evil](https://open.spotify.com/album/5d0TZJlxMGzDsIhAbJOyQR) | 3:53 | 2020-08-21 | 2022-07-29 |
 | [Shaking Off The Evil](https://open.spotify.com/track/4WtE2YBjbAXq252VSmAu1R) | [Moon Fever](https://open.spotify.com/artist/1CYg3IXkeWG2riXsL0Df1u) | [Shaking off the Evil](https://open.spotify.com/album/47U87lVnq682jHjg6YUp92) | 3:53 | 2022-06-14 | 2023-01-06 |
+| [She Runs Hot](https://open.spotify.com/track/5fLAUOUVivK8tXyI5m7zkl) | [Ghost Hounds](https://open.spotify.com/artist/69cpkpEaffiFjwcE19bvor) | [She Runs Hot](https://open.spotify.com/album/26WQ4szhge6FtRZgWqR8bn) | 3:07 | 2025-01-17 |  |
 | [She Talks To Angels](https://open.spotify.com/track/5NK8jad728pj6YeqM5VJD4) | [The Black Crowes](https://open.spotify.com/artist/5krkohEVJYw0qoB5VWwxaC) | [Shake Your Money Maker](https://open.spotify.com/album/2NRRQLuW6j3EsoWpIl2MR3) | 5:29 | 2020-08-21 |  |
 | [Sho Been Worse](https://open.spotify.com/track/2Qg9TUOmezQXfKV1NrT8bx) | [Tyler Bryant & the Shakedown](https://open.spotify.com/artist/3Ig1cmnFAUxpTEYVjTRkLo) | [Sho Been Worse](https://open.spotify.com/album/3sxE8PeJB8tUFIM5soGgco) | 2:54 | 2023-05-12 | 2024-07-06 |
 | [Side Street Shakedown](https://open.spotify.com/track/6kvU0tOTfsQV94MQvsuBmq) | [The Wild Feathers](https://open.spotify.com/artist/5YENCIQVzziCFdoVWc26Bn) | [Side Street Shakedown](https://open.spotify.com/album/3YtUZAChERlSGaIkRe4jdF) | 3:27 | 2021-09-10 | 2022-10-29 |

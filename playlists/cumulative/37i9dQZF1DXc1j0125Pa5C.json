@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-12-31",
-  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Marquinhos Sensa\u00e7\u00e3o",
+  "description": "Sucessos do pagode pra cantar junto, sem descanso e sem freio! Foto: Yan",
   "name": "Domingu\u00eara",
   "tracks": [
     {
@@ -516,7 +516,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 301746,
       "name": "Brigas por Nada / Trov\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/3eFDvMEwTkxS078DQNmHWa"
@@ -1066,6 +1066,24 @@
       "duration_ms": 196396,
       "name": "Eu Nunca Amei Assim / Meu Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/6fnOsjeeEP77DxSBH59TZm"
+    },
+    {
+      "album": {
+        "name": "Mais Uma Noite (Ao Vivo / Vol.2)",
+        "url": "https://open.spotify.com/album/4SggmyRDr6UIf4SPVs21G7"
+      },
+      "artists": [
+        {
+          "name": "Bruno Diegues",
+          "url": "https://open.spotify.com/artist/77BRZxLjoqGGTrra6Sx8uP"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 289620,
+      "name": "Eu Nunca Amei Assim / Sobrenatural - Ao Vivo",
+      "url": "https://open.spotify.com/track/4L5Wxub1A6rtH4Xqd3lpMw"
     },
     {
       "album": {
@@ -1672,6 +1690,32 @@
       "duration_ms": 305892,
       "name": "Jeito Insano / Oy\u00e1 - Ao Vivo",
       "url": "https://open.spotify.com/track/3uQVSvixePYKECcVHKnxM5"
+    },
+    {
+      "album": {
+        "name": "Mixturadin 3 - Vol. 3",
+        "url": "https://open.spotify.com/album/5iaTc8wLU0vV5sqbNxQXE0"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        },
+        {
+          "name": "Dilsinho",
+          "url": "https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg"
+        },
+        {
+          "name": "Kamisa 10",
+          "url": "https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 298852,
+      "name": "Lance Livre / P\u00e9ssimo Neg\u00f3cio / A Gente J\u00e1 N\u00e3o Rola - Ao Vivo",
+      "url": "https://open.spotify.com/track/48ZGOiBpmTfbd5rEH51ktX"
     },
     {
       "album": {
@@ -2404,7 +2448,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 276990,
       "name": "Pela Vida Inteira / Preciso De Amor / Nuance - Ao Vivo",
       "url": "https://open.spotify.com/track/4PbAWFSP9A2s61f4aerHPq"
@@ -3426,7 +3470,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 360815,
       "name": "Supera / Luz das Estrelas / Ainda \u00c9 Cedo pra Dizer Bye Bye / Desafio - Ao Vivo",
       "url": "https://open.spotify.com/track/00kVj18BmiLmiB8PUJWZ4G"
@@ -3594,7 +3638,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 317980,
       "name": "Trai\u00e7\u00e3o / Ref\u00e9m / Me Assume ou Me Esquece - Ao Vivo",
       "url": "https://open.spotify.com/track/2l0HFGslPbDoyXGSVEn8sB"
@@ -3883,6 +3927,28 @@
     },
     {
       "album": {
+        "name": "Vida Que Segue / Valeu Pra Aprender (Ao vivo)",
+        "url": "https://open.spotify.com/album/6ztXzCR3DuuyKcHOmOHxtV"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clareou",
+          "url": "https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q"
+        },
+        {
+          "name": "Thiago Soares",
+          "url": "https://open.spotify.com/artist/4zIE7LEe6kABBDLHLzAS4D"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302940,
+      "name": "Vida Que Segue / Valeu Pra Aprender - Ao Vivo",
+      "url": "https://open.spotify.com/track/3JV6G6HTIis796WXhAw91j"
+    },
+    {
+      "album": {
         "name": "Resenha De Ver\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/7L2kB8r4a0eExXVRwaYsJB"
       },
@@ -4036,6 +4102,28 @@
       "duration_ms": 172887,
       "name": "\u00c9 Dor Que N\u00e3o Passa / Diferent\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/6mWKlQPzqFMnkeEMoKoaVs"
+    },
+    {
+      "album": {
+        "name": "\u00c9 Hoje Que Eu Chego Amanh\u00e3 / Perdeu Pra Cerveja (Ao vivo)",
+        "url": "https://open.spotify.com/album/1PE3CnK7N9948y4zNxoL1q"
+      },
+      "artists": [
+        {
+          "name": "Grupo Clareou",
+          "url": "https://open.spotify.com/artist/0Jpjc7Fc84inIqLhOvBU1Q"
+        },
+        {
+          "name": "Grupo Revela\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/7yQrcdkLdBAkV7yY9fF2Hw"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248511,
+      "name": "\u00c9 Hoje Que Eu Chego Amanh\u00e3 / Perdeu Pra Cerveja - Ao Vivo",
+      "url": "https://open.spotify.com/track/4X2wfAruXzE2Jp4O1DhyPn"
     },
     {
       "album": {

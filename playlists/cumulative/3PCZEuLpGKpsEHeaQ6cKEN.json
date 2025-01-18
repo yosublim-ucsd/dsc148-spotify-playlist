@@ -9261,6 +9261,28 @@
     },
     {
       "album": {
+        "name": "Guide Me Home",
+        "url": "https://open.spotify.com/album/4BF0qJ8vVOhHS3PEPz2aqk"
+      },
+      "artists": [
+        {
+          "name": "Tiscore",
+          "url": "https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI"
+        },
+        {
+          "name": "Future Breeze",
+          "url": "https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157258,
+      "name": "Guide Me Home",
+      "url": "https://open.spotify.com/track/4twCXtLY2L9M1i3rGasj89"
+    },
+    {
+      "album": {
         "name": "Gypsy Woman (She's Homeless) [Jude & Frank Edit]",
         "url": "https://open.spotify.com/album/2nKiJScypZCL1zaA3XriZA"
       },

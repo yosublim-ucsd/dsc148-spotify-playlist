@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. Kannessa Lola Young.
 
-468 songs - 23 hr 21 min
+469 songs - 23 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -325,6 +325,7 @@
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-07-02 | 2024-08-02 |
 | [Pocket](https://open.spotify.com/track/4yhCi2ZN3L3OLkgipYvbkg) | [Rag'n'Bone Man](https://open.spotify.com/artist/4f9iBmdUOhQWeP7dcAn1pf) | [Pocket](https://open.spotify.com/album/54k3VeImklBEjV3faF7OjP) | 3:25 | 2024-10-03 | 2024-10-18 |
 | [Polari](https://open.spotify.com/track/0EBqoXXf1J6hj4Hhs1rZc7) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [Polari](https://open.spotify.com/album/2vo3u4aHoJPcwrmwOBDrId) | 1:27 | 2024-11-21 | 2024-11-29 |
+| [PORNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 | 2025-01-17 |  |
 | [Pour Me A Drink \(Feat\. Blake Shelton\)](https://open.spotify.com/track/5ZLL6wYXeqg0k35ZkDRfhZ) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60), [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Pour Me A Drink](https://open.spotify.com/album/1WE56xSN0l6bnwGyLeQWdz) | 3:15 | 2024-07-02 | 2024-07-12 |
 | [PPP](https://open.spotify.com/track/17CrgUrrHKhlC9hAdJrxT6) | [ILON](https://open.spotify.com/artist/40sIqI3UYyunS5uyEVILIa) | [PPP](https://open.spotify.com/album/38vT6jTm2yMX20tbdXjY9o) | 2:35 | 2024-07-02 | 2024-08-10 |
 | [PRADA SHEIDIT](https://open.spotify.com/track/6OplMWd0zoaj2Y8tpvIlXu) | [Davy](https://open.spotify.com/artist/2RttK43esYFkU4hD5BU0AT) | [PRADA SHEIDIT](https://open.spotify.com/album/1b4Ap7YFqXzo9R2vZ7XAL9) | 2:33 | 2024-07-22 | 2024-08-16 |

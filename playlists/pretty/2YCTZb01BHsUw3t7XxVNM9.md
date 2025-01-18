@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 
 > Western orientated Hardcore Music by Japanese Artists
 
-[Alice.SE](https://open.spotify.com/user/megustager) - 615 likes - 489 songs - 1 day 9 hr 57 min
+[Alice.SE](https://open.spotify.com/user/megustager) - 614 likes - 490 songs - 1 day 10 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -497,5 +497,6 @@ pretty - [cumulative](/playlists/cumulative/2YCTZb01BHsUw3t7XxVNM9.md) - [plain]
 | 487 | [The Disaster Sounds](https://open.spotify.com/track/2AdnKn7eM6GbalC1SqYEFj) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG), [Laur](https://open.spotify.com/artist/5fxJUmn4RTMzD0XPkTUpK3) | [The Disaster Sounds](https://open.spotify.com/album/4znL8KsguH4BQACygRbkRK) | 2:59 |
 | 488 | [FLATLINE](https://open.spotify.com/track/7xNMFJEbDvaJsyRN3IChOK) | [CreepP](https://open.spotify.com/artist/66aR9RFCiVYqefIoJaUzKv), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [FLATLINE](https://open.spotify.com/album/2bfAWaaP4dzWOu2qqIXxYS) | 3:13 |
 | 489 | [Lost in the Abyss](https://open.spotify.com/track/0OiJbU6z2vgdAilOaASNMm) | [Abyssmare](https://open.spotify.com/artist/1b1JNnumZJQBTNOY2Popqv), [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Lost in the Abyss](https://open.spotify.com/album/6YJtMkGUyeGJcKL9uyGEtX) | 2:08 |
+| 490 | [Pray for +++++](https://open.spotify.com/track/4z7hXHQ3isbT5vm5GuQaym) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Pray for +++++](https://open.spotify.com/album/4MT5hXU20ertKcjkarMGcn) | 3:54 |
 
-Snapshot ID: `AAACRwj0O8/ruOR5GPK9kqr4FBxhkldL`
+Snapshot ID: `AAACSGw94/dPFgjy5Ddlg7XRv8O8RExU`

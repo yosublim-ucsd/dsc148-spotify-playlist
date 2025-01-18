@@ -1,6 +1,6 @@
 {
   "description": "A pangea of ethnic/futuristic sounds inspired by Brian Eno and Jon Hassell's 'Fourth World Vol 1 - Possible Musics'.",
-  "num_followers": 20292,
+  "num_followers": 20296,
   "original_name": "Planetary Soul",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Shortwave Ruins",
-        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
-      },
-      "artists": [
-        {
-          "name": "Mount Shrine",
-          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
-        }
-      ],
-      "duration_ms": 434716,
-      "name": "Subtotem",
-      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Talk from Home",
         "url": "https://open.spotify.com/album/1RMrV8gQc6f3csRiNoQwP6"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 249704,
       "name": "Renee Sleeping",
       "url": "https://open.spotify.com/track/0wXlOE5NioNvUozBtNmBUy"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Shortwave Ruins",
+        "url": "https://open.spotify.com/album/33CNr0PMbRsXkda90MZ8AM"
+      },
+      "artists": [
+        {
+          "name": "Mount Shrine",
+          "url": "https://open.spotify.com/artist/6Md52GXgJjLniff4TEgHJr"
+        }
+      ],
+      "duration_ms": 434716,
+      "name": "Subtotem",
+      "url": "https://open.spotify.com/track/4XxfcsGiZFmIy9Rpdi8PGg"
     },
     {
       "added_at": "2024-08-29 04:26:33",
@@ -353,6 +353,22 @@
       "url": "https://open.spotify.com/track/3swR8qU8zudXx36fhwqHLk"
     },
     {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Tower of Silence",
+        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+      },
+      "artists": [
+        {
+          "name": "Roberto Musci",
+          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+        }
+      ],
+      "duration_ms": 369765,
+      "name": "Nexus On The Beach",
+      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
+    },
+    {
       "added_at": "2022-12-20 22:19:56",
       "album": {
         "name": "Whatever The Weather",
@@ -371,18 +387,22 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Tower of Silence",
-        "url": "https://open.spotify.com/album/0emZeMYklVE3LS97rGKN8S"
+        "name": "Fourth World Vol 1 Possible Musics",
+        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
       },
       "artists": [
         {
-          "name": "Roberto Musci",
-          "url": "https://open.spotify.com/artist/1HSz5qiRNcs8eJ0Sp2LOxw"
+          "name": "Jon Hassell",
+          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
+        },
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
         }
       ],
-      "duration_ms": 369765,
-      "name": "Nexus On The Beach",
-      "url": "https://open.spotify.com/track/6LMAeSiM6YiiGsfE1G4jUD"
+      "duration_ms": 209040,
+      "name": "Delta Rain Dream",
+      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
     },
     {
       "added_at": "2024-03-21 23:29:56",
@@ -423,26 +443,6 @@
       "duration_ms": 274466,
       "name": "Ultramarine",
       "url": "https://open.spotify.com/track/121tcNEsqszGVrJjViZFQR"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
-        "name": "Fourth World Vol 1 Possible Musics",
-        "url": "https://open.spotify.com/album/5vXMwvBidoteqCN6APRPo9"
-      },
-      "artists": [
-        {
-          "name": "Jon Hassell",
-          "url": "https://open.spotify.com/artist/5kNZV33crEsk2IMZMJ8bOQ"
-        },
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Delta Rain Dream",
-      "url": "https://open.spotify.com/track/1mMMpiuaPQe9I6RIqtFWql"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -695,22 +695,6 @@
     {
       "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Sakura",
-        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
-      },
-      "artists": [
-        {
-          "name": "Susumu Yokota",
-          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
-        }
-      ],
-      "duration_ms": 278693,
-      "name": "Tobiume",
-      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
-    },
-    {
-      "added_at": "2021-10-20 18:30:26",
-      "album": {
         "name": "Oquo",
         "url": "https://open.spotify.com/album/6cTuDue4MAQupjz57fNicv"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 160000,
       "name": "Omprovo",
       "url": "https://open.spotify.com/track/2IGlsC51UCUtQLIaDJuVPg"
+    },
+    {
+      "added_at": "2021-10-20 18:30:26",
+      "album": {
+        "name": "Sakura",
+        "url": "https://open.spotify.com/album/2BRedpXNmL3NkN2eutmXZ2"
+      },
+      "artists": [
+        {
+          "name": "Susumu Yokota",
+          "url": "https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ"
+        }
+      ],
+      "duration_ms": 278693,
+      "name": "Tobiume",
+      "url": "https://open.spotify.com/track/4IQWc6rhJwpFrRKBLx27X6"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -777,20 +777,20 @@
       "url": "https://open.spotify.com/track/0GjLTIe2YZDqf7qm1hmEhD"
     },
     {
-      "added_at": "2021-10-20 18:30:26",
+      "added_at": "2023-06-07 02:20:45",
       "album": {
-        "name": "Noodles",
-        "url": "https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60"
+        "name": "Intrapersonal Experience",
+        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
       },
       "artists": [
         {
-          "name": "Oils",
-          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
+          "name": "Saphileaum",
+          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
         }
       ],
-      "duration_ms": 326500,
-      "name": "The Brook",
-      "url": "https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu"
+      "duration_ms": 336000,
+      "name": "Dear",
+      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -813,20 +813,20 @@
       "url": "https://open.spotify.com/track/3c9lr5HgwAGEJbThGnkp3i"
     },
     {
-      "added_at": "2023-06-07 02:20:45",
+      "added_at": "2021-10-20 18:30:26",
       "album": {
-        "name": "Intrapersonal Experience",
-        "url": "https://open.spotify.com/album/7Lwmz636F3Oa6ezXspUzBg"
+        "name": "Noodles",
+        "url": "https://open.spotify.com/album/2osw99nWs2Ksyccj99sZ60"
       },
       "artists": [
         {
-          "name": "Saphileaum",
-          "url": "https://open.spotify.com/artist/0DGuM1iZlGWfdDqAIrQCfU"
+          "name": "Oils",
+          "url": "https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI"
         }
       ],
-      "duration_ms": 336000,
-      "name": "Dear",
-      "url": "https://open.spotify.com/track/0tAp8Yk3Sa6GLEaNkXRGzJ"
+      "duration_ms": 326500,
+      "name": "The Brook",
+      "url": "https://open.spotify.com/track/1ZGoURXFfkQ9STyFXtqsIu"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -965,22 +965,6 @@
       "url": "https://open.spotify.com/track/7ewoRGr2GvyibGbT2kd4UK"
     },
     {
-      "added_at": "2023-03-16 19:57:19",
-      "album": {
-        "name": "2 Years / 2 Years in Silence",
-        "url": "https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1"
-      },
-      "artists": [
-        {
-          "name": "Kazufumi Kodama & Undefined",
-          "url": "https://open.spotify.com/artist/0r4i5FbO3FinPDsWKpWKHA"
-        }
-      ],
-      "duration_ms": 288000,
-      "name": "Pale Purple Flower",
-      "url": "https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7"
-    },
-    {
       "added_at": "2021-10-20 18:30:26",
       "album": {
         "name": "Aka / Darbari / Java",
@@ -995,6 +979,22 @@
       "duration_ms": 293973,
       "name": "Empire II",
       "url": "https://open.spotify.com/track/6Ra8gN2dkT41IcGa6NX4HO"
+    },
+    {
+      "added_at": "2023-03-16 19:57:19",
+      "album": {
+        "name": "2 Years / 2 Years in Silence",
+        "url": "https://open.spotify.com/album/7998r3QuCkCHSE6QwCQGW1"
+      },
+      "artists": [
+        {
+          "name": "Kazufumi Kodama & Undefined",
+          "url": "https://open.spotify.com/artist/0r4i5FbO3FinPDsWKpWKHA"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Pale Purple Flower",
+      "url": "https://open.spotify.com/track/5tsLPAI6DbOftSQNsHXHC7"
     },
     {
       "added_at": "2021-10-20 18:30:26",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/5dt8T63KNSg3NHqBDvQAKq"
     },
     {
+      "added_at": "2022-09-14 12:31:52",
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n"
+      },
+      "artists": [
+        {
+          "name": "Christopher Willits",
+          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
+        }
+      ],
+      "duration_ms": 341577,
+      "name": "Endless",
+      "url": "https://open.spotify.com/track/15pARbUntgEEw4b8m9d15U"
+    },
+    {
       "added_at": "2024-08-14 14:20:37",
       "album": {
         "name": "Sky Time",
@@ -1079,22 +1095,6 @@
       "duration_ms": 182391,
       "name": "Sky Time",
       "url": "https://open.spotify.com/track/0Br1XgqraY0UkXY56QQ0oS"
-    },
-    {
-      "added_at": "2022-09-14 12:31:52",
-      "album": {
-        "name": "Gravity",
-        "url": "https://open.spotify.com/album/68vbTaCeZnvNpjZqDbvB4n"
-      },
-      "artists": [
-        {
-          "name": "Christopher Willits",
-          "url": "https://open.spotify.com/artist/0XHtezS69NYZ51SEFh8WEA"
-        }
-      ],
-      "duration_ms": 341577,
-      "name": "Endless",
-      "url": "https://open.spotify.com/track/15pARbUntgEEw4b8m9d15U"
     },
     {
       "added_at": "2022-09-30 02:47:05",

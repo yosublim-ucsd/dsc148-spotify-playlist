@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "heartbreak feels good in a place like this. cover: Lisa Curtis",
+  "description": "heartbreak feels good in a place like this. cover: Thomas Day",
   "name": "sad hour",
   "tracks": [
     {
@@ -1252,7 +1252,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 168145,
       "name": "Bench Sitter",
       "url": "https://open.spotify.com/track/69PbR7w1VkVMEd7m33NsgC"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 208960,
       "name": "black & white",
       "url": "https://open.spotify.com/track/0j2l3sf15o9vczIATwA3Xr"
@@ -12798,7 +12798,7 @@
       ],
       "date_added": "2024-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 173013,
       "name": "Te Maldigo (From \"Queer\")",
       "url": "https://open.spotify.com/track/3IZt8jkHRwRzJhk9G3TrYF"
@@ -13981,6 +13981,24 @@
     },
     {
       "album": {
+        "name": "Underwear",
+        "url": "https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207130,
+      "name": "Underwear",
+      "url": "https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z"
+    },
+    {
+      "album": {
         "name": "Undone (Love & Loss)",
         "url": "https://open.spotify.com/album/2e3Khs3vVusg6i0Ly2wni9"
       },
@@ -15035,6 +15053,24 @@
     },
     {
       "album": {
+        "name": "Why Can't You",
+        "url": "https://open.spotify.com/album/32G58TiwHXK7qTuhK69vWZ"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Why Can't You",
+      "url": "https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr"
+    },
+    {
+      "album": {
         "name": "why didn't you call???",
         "url": "https://open.spotify.com/album/5FeMSqLDKegFzCBoQxhZlK"
       },
@@ -15480,6 +15516,24 @@
       "duration_ms": 206497,
       "name": "you were in my dream",
       "url": "https://open.spotify.com/track/0Lg3v086REgQTLexgvfWDE"
+    },
+    {
+      "album": {
+        "name": "you were mine",
+        "url": "https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221584,
+      "name": "you were mine",
+      "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
     },
     {
       "album": {

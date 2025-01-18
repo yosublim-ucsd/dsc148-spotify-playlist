@@ -164,7 +164,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 317226,
       "name": "A Cat in the Rain",
       "url": "https://open.spotify.com/track/0Zt4KxjqHYswmQvjpnpiPe"
@@ -254,7 +254,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 250257,
       "name": "Abraham",
       "url": "https://open.spotify.com/track/7qfC3mu9cBBFegTKsNAyt8"
@@ -922,6 +922,24 @@
       "duration_ms": 285240,
       "name": "Atomized",
       "url": "https://open.spotify.com/track/0vSOiAgMIduuVfloqlaf2t"
+    },
+    {
+      "album": {
+        "name": "Baby Blue",
+        "url": "https://open.spotify.com/album/4PMpIDpeiHvUNMMxbze6Oe"
+      },
+      "artists": [
+        {
+          "name": "Willow Avalon",
+          "url": "https://open.spotify.com/artist/6EEkobfnenJF603WO8nUrR"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248831,
+      "name": "Baby Blue",
+      "url": "https://open.spotify.com/track/6sthHfwGUlwXAKY4pHUk6U"
     },
     {
       "album": {
@@ -4466,7 +4484,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 264600,
       "name": "Golden State",
       "url": "https://open.spotify.com/track/6OZlJDNIs9Eix2QGajJEOy"
@@ -4712,6 +4730,32 @@
       "duration_ms": 197426,
       "name": "Hands To Myself",
       "url": "https://open.spotify.com/track/6reRI1DvoOPCWJjHSpJADD"
+    },
+    {
+      "album": {
+        "name": "Happy Ever After You",
+        "url": "https://open.spotify.com/album/0CVVcusljbMQIa71biQm4v"
+      },
+      "artists": [
+        {
+          "name": "MacKenzie Porter",
+          "url": "https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq"
+        },
+        {
+          "name": "Jake Etheridge",
+          "url": "https://open.spotify.com/artist/6NTfV2oeuJfkni8EK3Tr2f"
+        },
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197071,
+      "name": "Happy Ever After You",
+      "url": "https://open.spotify.com/track/4TW2iaLFzZrLMST78bvv4i"
     },
     {
       "album": {
@@ -5948,7 +5992,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 294306,
       "name": "I Remember Carolina",
       "url": "https://open.spotify.com/track/3NweAkFEsegJXcIR8AfZUN"
@@ -6310,7 +6354,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 221449,
       "name": "It Takes Me Back",
       "url": "https://open.spotify.com/track/5zOUWxeymlEE9pvADC5gXj"
@@ -10287,6 +10331,24 @@
     },
     {
       "album": {
+        "name": "Silver Rounds",
+        "url": "https://open.spotify.com/album/2pCeDMMVviwYsU4eU85JSZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia Wolf",
+          "url": "https://open.spotify.com/artist/4nCfP4yZhkF1g7g8MlzCM7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245676,
+      "name": "Silver Rounds",
+      "url": "https://open.spotify.com/track/2qthPhpNXqORtnMtnbR1ZU"
+    },
+    {
+      "album": {
         "name": "Simple as Love",
         "url": "https://open.spotify.com/album/3SlXj3EtW3P47fka4KouxP"
       },
@@ -12319,6 +12381,24 @@
     },
     {
       "album": {
+        "name": "Time Waited",
+        "url": "https://open.spotify.com/album/7KAQ5nrJbMGqLtfCVWH1dF"
+      },
+      "artists": [
+        {
+          "name": "My Morning Jacket",
+          "url": "https://open.spotify.com/artist/43O3c6wewpzPKwVaGEEtBM"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219400,
+      "name": "Time Waited",
+      "url": "https://open.spotify.com/track/3YvHeJwoLvl06hHDKHRVDR"
+    },
+    {
+      "album": {
         "name": "To All the Girls I've Loved Before",
         "url": "https://open.spotify.com/album/20HLM7DxBDyiNyrIxCFz1q"
       },
@@ -12428,7 +12508,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 224200,
       "name": "Too Little, Too Late, Too Bad",
       "url": "https://open.spotify.com/track/5IbgM2ByuGPFI4AGY2IWvQ"

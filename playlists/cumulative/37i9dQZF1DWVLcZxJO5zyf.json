@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Marcelo Tofani, Djonga",
+  "description": "Ou\u00e7a todas as novidades e hits do pop br aqui e agora! Foto: Rachel Reis",
   "name": "Pop Brasil",
   "tracks": [
     {
@@ -1938,6 +1938,24 @@
       "duration_ms": 306281,
       "name": "DEIXA ESTAR",
       "url": "https://open.spotify.com/track/1h1uyRSbfQYgckDfb9EeyQ"
+    },
+    {
+      "album": {
+        "name": "Deixa Molhar",
+        "url": "https://open.spotify.com/album/2RS2bespFSSmu2RQtn00at"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181278,
+      "name": "Deixa Molhar",
+      "url": "https://open.spotify.com/track/3xzwKkGHQp8USzDQtlnHQS"
     },
     {
       "album": {
@@ -5724,7 +5742,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 190000,
       "name": "Que Tal",
       "url": "https://open.spotify.com/track/5tcdKHU3wqvFy8huoo4p68"

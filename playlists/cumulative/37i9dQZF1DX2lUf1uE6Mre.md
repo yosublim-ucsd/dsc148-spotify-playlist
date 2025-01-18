@@ -2,7 +2,7 @@
 
 ### [Shisha Club](https://open.spotify.com/playlist/37i9dQZF1DX2lUf1uE6Mre)
 
-> Die Playlist zur Wasserpfeife\. Cover: Jazeek
+> Die Playlist zur Wasserpfeife\. Cover: Rina
 
 184 songs - 7 hr 47 min
 

@@ -848,7 +848,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 193773,
       "name": "La Traviata: Libiamo, ne' lieti calici (Brindisi)",
       "url": "https://open.spotify.com/track/4a5e6pHMFMqI5dM4BhQbVL"
@@ -1636,6 +1636,72 @@
       "duration_ms": 333413,
       "name": "Puccini: Suor Angelica: \"Senza mamma\" (Angelica)",
       "url": "https://open.spotify.com/track/1TSesE2nP3HlNPVEvESMBy"
+    },
+    {
+      "album": {
+        "name": "Puccini: Tosca",
+        "url": "https://open.spotify.com/album/3Hfk4Q3Obou34kxfwJqtOc"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Renato Cioni",
+          "url": "https://open.spotify.com/artist/5sCZQBLFy7UHcebCGqFWp3"
+        },
+        {
+          "name": "Tito Gobbi",
+          "url": "https://open.spotify.com/artist/12msfS6HSE6p3CxcznZX6R"
+        },
+        {
+          "name": "Victor Godfrey",
+          "url": "https://open.spotify.com/artist/6L0Svmp26SNsoNOC3sj04O"
+        },
+        {
+          "name": "Robert Bowman",
+          "url": "https://open.spotify.com/artist/1ClLAg4AdetsRCo5pWvk93"
+        },
+        {
+          "name": "Dennis Wicks",
+          "url": "https://open.spotify.com/artist/6a1BZAYfKNB3BefKkqKP4a"
+        },
+        {
+          "name": "David Sellar",
+          "url": "https://open.spotify.com/artist/4yLSoRumzsHMpiz0KrzG7V"
+        },
+        {
+          "name": "Eric Garrett",
+          "url": "https://open.spotify.com/artist/0LFstXaDPIMhKFRYP3YMT9"
+        },
+        {
+          "name": "Carlo Felice Cillario",
+          "url": "https://open.spotify.com/artist/5Or0fj9ajo3hmSBj0iLNiN"
+        },
+        {
+          "name": "Chorus of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/06MDD2tGLJbN2URk3WzXAm"
+        },
+        {
+          "name": "Orchestra of the Royal Opera House, Covent Garden",
+          "url": "https://open.spotify.com/artist/2t5BHUdyeL3NBKqpOpaA4V"
+        },
+        {
+          "name": "Edgar Boniface",
+          "url": "https://open.spotify.com/artist/5kdrf8QOgA5HJjMP6zengB"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217066,
+      "name": "Puccini: Tosca, Act 1 Scene 5: \"Mia gelosa!\" (Cavaradossi, Tosca)",
+      "url": "https://open.spotify.com/track/6pcAAxU7Mz5yeq5G3zIHfB"
     },
     {
       "album": {

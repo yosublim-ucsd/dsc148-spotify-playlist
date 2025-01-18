@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Julissa",
+  "description": "Las canciones de fe que m\u00e1s se escuchan en Latinoam\u00e9rica. Foto: Oasis Ministry",
   "name": "\u00c9xitos Cristianos",
   "tracks": [
     {
@@ -984,7 +984,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 208791,
       "name": "ALGORITMO",
       "url": "https://open.spotify.com/track/76XrMB2iE4Mgrixsb6JhGk"
@@ -5103,6 +5103,28 @@
     },
     {
       "album": {
+        "name": "Es \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/5Vk9T7AnWfvszkXyVEk9xS"
+      },
+      "artists": [
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442894,
+      "name": "Es \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/2I62ilF5qfbJqDwaIJ5snf"
+    },
+    {
+      "album": {
         "name": "Esa Es La Raz\u00f3n (Live)",
         "url": "https://open.spotify.com/album/5HTaOwYUl701aYLyxYlezf"
       },
@@ -5568,6 +5590,24 @@
       "duration_ms": 179999,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
+    },
+    {
+      "album": {
+        "name": "Florece",
+        "url": "https://open.spotify.com/album/4iRMsujyuyX3KavmiIRVAd"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172272,
+      "name": "Florece",
+      "url": "https://open.spotify.com/track/1W0YfTjpNe4ZlZmLsVBYa1"
     },
     {
       "album": {
@@ -6422,7 +6462,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 312142,
       "name": "Hermoso Dios",
       "url": "https://open.spotify.com/track/6QqR2QsrqD5GmRfD2fdANx"
@@ -6712,7 +6752,7 @@
       ],
       "date_added": "2023-10-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 471100,
       "name": "INEXPLICABLE",
       "url": "https://open.spotify.com/track/6uOIHZAzjVPw4HMvVm2iLB"
@@ -9708,7 +9748,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 218138,
       "name": "Novus",
       "url": "https://open.spotify.com/track/3UrfZcpiYUiuUZxvf2mkKc"
@@ -13118,6 +13158,24 @@
       "duration_ms": 447173,
       "name": "Tu Coraz\u00f3n",
       "url": "https://open.spotify.com/track/7pdTTtVAmvMHZXfy83FxDN"
+    },
+    {
+      "album": {
+        "name": "Tu Dulce Voz (L\u00e1zaro)",
+        "url": "https://open.spotify.com/album/2CQTVx1twdKzRtBScaX7QH"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587066,
+      "name": "Tu Dulce Voz (L\u00e1zaro)",
+      "url": "https://open.spotify.com/track/708YdWq53xNewS3igtbYCg"
     },
     {
       "album": {

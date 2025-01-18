@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-22",
-  "description": "The new wave of Latin pop \ud83c\udf0a Cover: BORJA",
+  "description": "The new wave of Latin pop \ud83c\udf0a Cover: GALE",
   "name": "el nuevo pop",
   "tracks": [
     {
@@ -766,7 +766,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 152546,
       "name": "Algo Que Darte",
       "url": "https://open.spotify.com/track/1nPOOvlR6nA0YoYtFCidbs"
@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 170293,
       "name": "Aprender A Vivir",
       "url": "https://open.spotify.com/track/0ZZ2xsV9H75VQfJ195heKz"
@@ -2236,7 +2236,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 160000,
       "name": "B\u00e9same",
       "url": "https://open.spotify.com/track/2pLGfWUYMVjxJdjeWh8CzT"
@@ -3043,6 +3043,24 @@
     },
     {
       "album": {
+        "name": "CONFI\u00c9SALO",
+        "url": "https://open.spotify.com/album/3lIt5JdYXqqABaqSieeVRE"
+      },
+      "artists": [
+        {
+          "name": "Immasoul",
+          "url": "https://open.spotify.com/artist/21neefJLiFuSR6sQlHDblG"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147431,
+      "name": "CONFI\u00c9SALO",
+      "url": "https://open.spotify.com/track/0HVUYEYzU9pJ1ssuiBR5Dk"
+    },
+    {
+      "album": {
         "name": "Estemos Donde Estemos",
         "url": "https://open.spotify.com/album/4OwqjmfmyHgkGXFY88ef9C"
       },
@@ -3740,6 +3758,28 @@
       "duration_ms": 136951,
       "name": "De Nada",
       "url": "https://open.spotify.com/track/3YTe42RPu0iJVr1ZYJHHyC"
+    },
+    {
+      "album": {
+        "name": "DE NOTA EN NOTA",
+        "url": "https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5"
+      },
+      "artists": [
+        {
+          "name": "Marc Segu\u00ed",
+          "url": "https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF"
+        },
+        {
+          "name": "paopao",
+          "url": "https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212080,
+      "name": "DE NOTA EN NOTA",
+      "url": "https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt"
     },
     {
       "album": {
@@ -5292,7 +5332,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 189600,
       "name": "ETERNO RESPLANDOR",
       "url": "https://open.spotify.com/track/3CZBERnMlSszfxH5I4SGQS"
@@ -7017,6 +7057,24 @@
     },
     {
       "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/0EqbbXBY9rRuI8nc3j9hVG"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146524,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/5vTb7FgRm72sbe5DPbAyNt"
+    },
+    {
+      "album": {
         "name": "La Dosis",
         "url": "https://open.spotify.com/album/6REG6XsOTiPC2c7h7LfWVq"
       },
@@ -8166,6 +8224,28 @@
       "duration_ms": 214349,
       "name": "MAGIA NEGRA",
       "url": "https://open.spotify.com/track/1E71uY1krMSN6fyX7zOt2L"
+    },
+    {
+      "album": {
+        "name": "Maldito Reggaeton",
+        "url": "https://open.spotify.com/album/0PlrRQBzGuVObeEQI8PewY"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "Maldito Reggaeton",
+      "url": "https://open.spotify.com/track/2SEyetpzyJK1zv2wpWkP5Y"
     },
     {
       "album": {
@@ -11731,6 +11811,24 @@
     },
     {
       "album": {
+        "name": "Primero De Enero",
+        "url": "https://open.spotify.com/album/1D8f4wfvh3BpbQzAmSVYQ4"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185715,
+      "name": "Primero De Enero",
+      "url": "https://open.spotify.com/track/6BYqyN2XaVnghYqY5qwJcy"
+    },
+    {
+      "album": {
         "name": "att.",
         "url": "https://open.spotify.com/album/1yjQhgZzBmfdS0CTj6xQ2h"
       },
@@ -12062,6 +12160,28 @@
       "duration_ms": 194840,
       "name": "QUEREME",
       "url": "https://open.spotify.com/track/0bhWW1Bve1Ng6kEm8WjiQA"
+    },
+    {
+      "album": {
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/2n3f9KNVpIQ1z3rnwtahB7"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        },
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115007,
+      "name": "Querida Yo",
+      "url": "https://open.spotify.com/track/1dXfyBNV1Dv6Qj73bCtdrk"
     },
     {
       "album": {
@@ -12981,6 +13101,24 @@
     },
     {
       "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/62NbBxeE0ZcrV6nvirXORf"
+      },
+      "artists": [
+        {
+          "name": "Tiago PZK",
+          "url": "https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158122,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/07iT27MVMrGC1eK4U3zbrB"
+    },
+    {
+      "album": {
         "name": "Shorty",
         "url": "https://open.spotify.com/album/0ojWVNnUKkmAHDPnaRKSUJ"
       },
@@ -13258,6 +13396,24 @@
       "duration_ms": 162000,
       "name": "Skapat",
       "url": "https://open.spotify.com/track/0iFLPu2hj9ROYDh3tzHIhr"
+    },
+    {
+      "album": {
+        "name": "Skittles",
+        "url": "https://open.spotify.com/album/09VWiaARmxmaf4U9uo8fwI"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170813,
+      "name": "Skittles",
+      "url": "https://open.spotify.com/track/3F1OzaBwLv4F0cwLtL29gO"
     },
     {
       "album": {
@@ -13816,7 +13972,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 149547,
       "name": "Tarantino",
       "url": "https://open.spotify.com/track/2lnWSGiS0ptlY9wAAZrmla"
@@ -15016,7 +15172,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 167213,
       "name": "UN CUARTICO",
       "url": "https://open.spotify.com/track/2WYjLEYwE1vIWC6XNMN94z"
@@ -15052,7 +15208,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 157725,
       "name": "UN DOMINGO TRISTE VOL. I",
       "url": "https://open.spotify.com/track/0hQyAxsrOqM4xsJRtEjEiE"
@@ -16018,7 +16174,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 163480,
       "name": "\u00c1ngeles Griegos",
       "url": "https://open.spotify.com/track/0xwaiLpPfgojSOw1tCISE2"

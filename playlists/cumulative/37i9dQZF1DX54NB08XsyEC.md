@@ -2,7 +2,7 @@
 
 ### [pov](https://open.spotify.com/playlist/37i9dQZF1DX54NB08XsyEC)
 
-> o bb da Anitta nasceu!!!!! /Foto: The Weeknd
+> se eh bagunçada ticriticam se eh arrumada ticriticam /Foto: Lola Young
 
 410 songs - 21 hr 56 min
 

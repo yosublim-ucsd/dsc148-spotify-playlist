@@ -4,7 +4,7 @@
 
 > 📸 La Joaqui.
 
-252 songs - 11 hr 39 min
+254 songs - 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Freakitona](https://open.spotify.com/track/0OsOZCt48fvEZB7JQsr3ZI) | [Blunted Vato](https://open.spotify.com/artist/15RLdM61VHtknTIYIuNviR), [Lolo OG](https://open.spotify.com/artist/1HAO6fqdAGX5CiWxBvhiyv) | [Dog's Life](https://open.spotify.com/album/584o1hubq0s06fXd7vyokX) | 2:34 | 2023-12-15 | 2024-12-21 |
 | [Frikitona \- Remix](https://open.spotify.com/track/1PUyDB2OfOSS2jnl0ED4Wp) | [Nahuel Herrera](https://open.spotify.com/artist/12dKgSPncmYTBKnNsWlCIe), [XXL Irione](https://open.spotify.com/artist/4xqLeiTEE5VmPu5nQFWjHY) | [Frikitona \(Remix\)](https://open.spotify.com/album/4U8JcyOEdsLBARnfH3pJrl) | 1:54 | 2023-12-15 | 2024-01-11 |
 | [Fua Mi Amor](https://open.spotify.com/track/2QT316zZ7jBNQ74eUsIuI0) | [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr), [Four Plack](https://open.spotify.com/artist/3mEKRofaEAL1E4wmR1kCAW) | [Fua Mi Amor](https://open.spotify.com/album/1RIwnlL46NTomi13sv71QT) | 2:45 | 2023-12-15 |  |
+| [Funky Rocho](https://open.spotify.com/track/31Njdd4MbcsNm5kEBylagD) | [Dj Plaga](https://open.spotify.com/artist/6fOcj0NbaZF1GNiI5XnPEr), [Mc Tota](https://open.spotify.com/artist/3GDW0G0V4tmHof4ujHvnOW), [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5) | [Funky Rocho](https://open.spotify.com/album/1fYIM3Knhf3y26v0SyVGma) | 2:23 | 2025-01-17 |  |
 | [GAFITA Y CHOMBA](https://open.spotify.com/track/1905loqmX0pSFPMbA9rc1f) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [GAFITA Y CHOMBA](https://open.spotify.com/album/5ZmC8qxDVf6r8EfhZVptTB) | 3:12 | 2024-03-01 |  |
 | [Garota RKT](https://open.spotify.com/track/4PMiyhXJKDG4QBPgCxClGJ) | [Kaleb Di Masi](https://open.spotify.com/artist/5U5wYVqrbD6J8SK4kNhau4) | [Garota RKT](https://open.spotify.com/album/1wgGTb9B7HZmcFCVfS6942) | 2:46 | 2024-06-07 |  |
 | [Gitano](https://open.spotify.com/track/02HFF3DlWtfRyzMNTjDEVX) | [Ponte Perro](https://open.spotify.com/artist/2I223MQt4d0n5rhwLdlEq5), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI) | [Gitano](https://open.spotify.com/album/485XrYsxwzWGRYgBlEzOR5) | 2:44 | 2024-06-14 |  |
@@ -217,6 +218,7 @@
 | [Te Vienes Con El Turro](https://open.spotify.com/track/0E6tfmOBf1BjXtuEs79MIu) | [L\-Gante](https://open.spotify.com/artist/4YYxffPVDFe9XoqqbRW6Bq), [DT.Bilardo](https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR) | [Celda 4](https://open.spotify.com/album/2hRkndTPj8FDZZhSdhKUTW) | 3:29 | 2024-08-16 | 2024-09-11 |
 | [TEKA \| E6](https://open.spotify.com/track/1jl9TPNUehmS24N84LYuuT) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [EL NOBA](https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav) | [TEKA \| E6](https://open.spotify.com/album/7smhd2hrlFPI6KQ1A8MEay) | 2:17 | 2023-12-15 | 2024-02-24 |
 | [TERAPIA DE CHOQUE](https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C) | [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TERAPIA DE CHOQUE](https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc) | 2:44 | 2024-07-19 |  |
+| [TIKTOK \(feat\. Gusty dj\) \- Remix](https://open.spotify.com/track/6L8ifq5g2RDbjdSYiwOF2q) | [Ian Lucas](https://open.spotify.com/artist/4Y5ngKq3InS4UveL0Sp7Ik), [Fede Vigevani](https://open.spotify.com/artist/3CuloJ8QY3IiCwna8Q6SOr), [La Joaqui](https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM), [Gusty dj](https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L) | [TIKTOK \(feat\. Gusty dj\) \[Remix\]](https://open.spotify.com/album/4F8yon7oulloHMYTbVZO0A) | 2:55 | 2025-01-17 |  |
 | [Tirando Corte](https://open.spotify.com/track/60MM0hgQ8OKkqTDi1qTz8x) | [El negro tecla](https://open.spotify.com/artist/6M6pyt8k3EjvbFo1pZFS75), [Nahuel The Coach](https://open.spotify.com/artist/0hlv0auaYL5p7H0M27Gtrg) | [Tirando Corte](https://open.spotify.com/album/0Bvj4fN7e19wbrkmYhvDDY) | 2:32 | 2024-04-12 |  |
 | [TITAN](https://open.spotify.com/track/2cR9cH9ta7MStHBKs0aOcz) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/6rR0AsjAGzV4osTjzz4r2i) | 2:02 | 2023-12-15 | 2024-04-19 |
 | [TITAN](https://open.spotify.com/track/5fBQLapwAPSLw27STml9kr) | [Salastkbron](https://open.spotify.com/artist/3WMlRpW5JWuDI95TcEWt3r) | [TITAN](https://open.spotify.com/album/1dDXsrM0q5ZLxZptZOPBI2) | 2:02 | 2024-04-19 |  |

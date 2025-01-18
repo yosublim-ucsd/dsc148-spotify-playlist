@@ -1,13 +1,33 @@
 {
   "description": "Las grandes del Despecho y el G\u00e9nero Popular. Foto: Luis Alfonso & Yeison Jim\u00e9nez",
-  "num_followers": 235619,
+  "num_followers": 235647,
   "original_name": "La + Popular",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1vLgAAAAAANs+wVuI3t5MB9JHfid3ol",
+  "snapshot_id": "Z4nojgAAAADq66KsjvmTmwLWW0hx1Zmo",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:20:14",
+      "album": {
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/59NGQmOz4yxHkgbrVdFHhy"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 177580,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/6KOnLTb1xLfKDAjMC43I76"
+    },
     {
       "added_at": "2024-12-13 05:52:00",
       "album": {
@@ -69,40 +89,20 @@
       "url": "https://open.spotify.com/track/72BPA1JIC8LBrPP1uu1UNO"
     },
     {
-      "added_at": "2024-12-13 05:52:00",
+      "added_at": "2025-01-17 05:20:14",
       "album": {
-        "name": "Otra Mentira",
-        "url": "https://open.spotify.com/album/0QyUcWE0FaFOZTfSCNyfBl"
+        "name": "CABALLERO",
+        "url": "https://open.spotify.com/album/1TbBPReIMQpt3yquoZrvEN"
       },
       "artists": [
         {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+          "name": "Julian Daza",
+          "url": "https://open.spotify.com/artist/6v51qeWtu7Jci5u6dQuose"
         }
       ],
-      "duration_ms": 258303,
-      "name": "Otra Mentira",
-      "url": "https://open.spotify.com/track/1diUOdyPLzaEIefeOstM8q"
-    },
-    {
-      "added_at": "2024-12-13 05:52:00",
-      "album": {
-        "name": "Amor Borrachito",
-        "url": "https://open.spotify.com/album/3lwSfz7ZkKFyVFiuJ5IVhT"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        },
-        {
-          "name": "Luis Alfonso",
-          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
-        }
-      ],
-      "duration_ms": 152516,
-      "name": "Amor Borrachito",
-      "url": "https://open.spotify.com/track/1Oa80BFtliBEru0KgxwJx5"
+      "duration_ms": 160511,
+      "name": "CABALLERO",
+      "url": "https://open.spotify.com/track/07OBTyppEJC4JPGJt4Gro2"
     },
     {
       "added_at": "2024-12-13 05:52:00",
@@ -149,6 +149,26 @@
       "url": "https://open.spotify.com/track/4Os2ZQZSEXVmUo0dmTDyBe"
     },
     {
+      "added_at": "2025-01-17 05:20:14",
+      "album": {
+        "name": "Tequila Con Cerveza",
+        "url": "https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 143000,
+      "name": "Tequila Con Cerveza",
+      "url": "https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ"
+    },
+    {
       "added_at": "2024-12-13 05:52:00",
       "album": {
         "name": "El Tierno (feat. DFZM)",
@@ -171,26 +191,6 @@
     {
       "added_at": "2024-12-13 05:52:00",
       "album": {
-        "name": "EL KARMA (Remix)",
-        "url": "https://open.spotify.com/album/24WqSqxlxukWGqFdNQ3oTz"
-      },
-      "artists": [
-        {
-          "name": "Dayanara",
-          "url": "https://open.spotify.com/artist/6HxyqkGDMKQmzp9OsI9e0Q"
-        },
-        {
-          "name": "Arelys Henao",
-          "url": "https://open.spotify.com/artist/7G2AGQxjKPwIfraPoQvkDC"
-        }
-      ],
-      "duration_ms": 178163,
-      "name": "EL KARMA - Remix",
-      "url": "https://open.spotify.com/track/2vvueBffS7Mb0HHLJZ8lBc"
-    },
-    {
-      "added_at": "2024-12-13 05:52:00",
-      "album": {
         "name": "Regional Live by Yohan Usuga (Vol. 2)",
         "url": "https://open.spotify.com/album/4SFBBoHbLKDopGCT0GVNA5"
       },
@@ -209,20 +209,20 @@
       "url": "https://open.spotify.com/track/5sM5rI4R9pQflxdEO8iio3"
     },
     {
-      "added_at": "2024-12-13 05:52:00",
+      "added_at": "2025-01-17 05:20:14",
       "album": {
-        "name": "Florecer",
-        "url": "https://open.spotify.com/album/49XfluuOcJpZUTJJnqinZe"
+        "name": "La Diabla",
+        "url": "https://open.spotify.com/album/2IoSjweCu07y9mv5H1Cj3v"
       },
       "artists": [
         {
-          "name": "Shaira",
-          "url": "https://open.spotify.com/artist/72iuZRqLxm8SmvRoxYgPso"
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
         }
       ],
-      "duration_ms": 188836,
-      "name": "Modo Avi\u00f3n",
-      "url": "https://open.spotify.com/track/6pH8GcHpA5GETCVHsrPitk"
+      "duration_ms": 172264,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/0R6NfOiLzLj4O5VbYSJAjf"
     },
     {
       "added_at": "2024-12-13 05:52:00",
@@ -261,24 +261,20 @@
       "url": "https://open.spotify.com/track/3VPKklonK4rqpVxjlpHumH"
     },
     {
-      "added_at": "2024-12-13 05:52:00",
+      "added_at": "2025-01-17 05:20:14",
       "album": {
-        "name": "Si Preguntan Por Mi",
-        "url": "https://open.spotify.com/album/1qWVmLtOQOiFdAuwfMv6Yq"
+        "name": "Palabra De To's",
+        "url": "https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP"
       },
       "artists": [
         {
-          "name": "Chris Lebron",
-          "url": "https://open.spotify.com/artist/3GPTvhZ8XfH7WkHXidvELk"
-        },
-        {
-          "name": "Manuel Turizo",
-          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
         }
       ],
-      "duration_ms": 231428,
-      "name": "Si Preguntan Por Mi",
-      "url": "https://open.spotify.com/track/1DRB6KckMIFXPk3P0DCKfM"
+      "duration_ms": 127500,
+      "name": "El Amor De Mi Herida",
+      "url": "https://open.spotify.com/track/0QCTjU9xOvdDfe9LXEmxeT"
     },
     {
       "added_at": "2024-12-13 05:52:00",

@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-188 songs - 11 hr 54 min
+189 songs - 11 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Amor Sin Fronteras](https://open.spotify.com/track/6xXAMSAUOuVpmwgwBNuzfQ) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Movistar Arena](https://open.spotify.com/album/0a08iXh2r7gh0BmS2ijuI4) | 4:03 | 2022-07-15 | 2024-04-19 |
 | [Amor Sin Fronteras \(En Vivo Movistar Arena Santiago, Chile\)](https://open.spotify.com/track/3R9DduZt1LR0yVrevy2mRE) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o) | [10 Años Santaferia \(En Vivo Movistar Arena Santiago, Chile\)](https://open.spotify.com/album/0Ue9qza4OSxJXFVooMjhnq) | 4:03 | 2021-12-10 | 2022-07-29 |
 | [Amores como el nuestro](https://open.spotify.com/track/6gnbBWrui5jqGKyxy1CP89) | [Cumbia Viva](https://open.spotify.com/artist/0jc8WcEimrh9qGACBMNOYS), [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [Session \#14 \(Vol 2\) Los Charros](https://open.spotify.com/album/20CjhbSbh6yqAIsqsov7IU) | 3:15 | 2024-12-20 |  |
+| [Aque volviste mujer \- En Vivo](https://open.spotify.com/track/2LyiRlFyxmayopOsyjx00B) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [En Inca Megadisco \(En Vivo\)](https://open.spotify.com/album/3OCiEztfi9VD5TrtWD5i3E) | 3:38 | 2025-01-17 |  |
 | [Atorrante \(Luna Park\) \- En Vivo](https://open.spotify.com/track/4OMKZ5MG6GkzMAo1L9OeWL) | [Los Palmeras](https://open.spotify.com/artist/2Htm0q72SjGSmsy8EOIhRG), [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Ulises Bueno](https://open.spotify.com/artist/2UqRkW2wfEkZmyvKyTTv2W), [Migrantes](https://open.spotify.com/artist/48R2gYdPKtfnfKAzhSVPUx) | [Atorrante \(Luna Park\) \[En Vivo\]](https://open.spotify.com/album/0ASiPR9YvJTNbqIAdImg85) | 4:51 | 2025-01-14 |  |
 | [Atrapado en Tus Redes / En Este Mundo / La Que Me Pudo Enamorar/ Amor, Amor](https://open.spotify.com/track/3CQTlvddBStyQqsChwzpvc) | [El Polaco](https://open.spotify.com/artist/3ucYybVr1mTuB04HtoBDCc) | [En Vivo en el Teatro](https://open.spotify.com/album/1vvB4ZiqQrtrt0xBrh96qW) | 7:42 | 2022-01-03 | 2022-07-27 |
 | [Boquita De Caramelo / Una Copita Mas / Porque Yo / Otra Noche De Amor](https://open.spotify.com/track/6AqhV2E7fO7tENpESQFhXv) | [Daniel Agostini](https://open.spotify.com/artist/3NSJOyQdSXncJloHqhwlQB) | [Mi Vida \(En Vivo\)](https://open.spotify.com/album/5ljoydw3UBy6FlAdX02wxD) | 7:19 | 2021-12-10 |  |
@@ -98,7 +99,7 @@
 | [Locura y Pasión \(En Vivo en la Quinta Vergara\)](https://open.spotify.com/track/34ibXLS4Wp2x2vDAlAzIRM) | [Santaferia](https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o), [Joe Vasconcellos](https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce) | [Locura y Pasión \(En Vivo en la Quinta Vergara\)](https://open.spotify.com/album/2RjtKMQlFgUXw7UOnzi3Uk) | 4:00 | 2022-01-07 | 2022-07-25 |
 | [Los Dueños del Pabellón \- En Vivo](https://open.spotify.com/track/2UixuBXjGIS0hoyECo85Vp) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV) | [40 Minutos Atr \(En Vivo\)](https://open.spotify.com/album/7A1uzPilKxcvgBh7TZyk7j) | 2:10 | 2021-12-10 | 2022-07-29 |
 | [Los Pibes Chorros / Solo Le Pido a Dios / Botellero](https://open.spotify.com/track/6mFuiYMG6Alxph0dlgFVzq) | [Los Pibes Chorros](https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR) | [En Vivo...Hasta la Muerte](https://open.spotify.com/album/5uf6glZMGuQlF2yaeBPer4) | 4:47 | 2021-12-10 |  |
-| [Madre Soltera \- En Vivo](https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Bonita / Madre Soltera \(En Vivo\)](https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT) | 3:52 | 2022-11-18 |  |
+| [Madre Soltera \- En Vivo](https://open.spotify.com/track/1sW5XV58fHKTLB07WvrU69) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Bonita / Madre Soltera \(En Vivo\)](https://open.spotify.com/album/42RKKUdWT9eVM1OhLvFXfT) | 3:52 | 2022-11-18 | 2025-01-18 |
 | [Maldita Cazafortuna \- En Vivo](https://open.spotify.com/track/4xkwbDPG8vtks0zkmdOUYv) | [El Pepo](https://open.spotify.com/artist/2zCQFd804DNH07QAI3xa25) | [En Vivo en Pasión 2018](https://open.spotify.com/album/11aXTkgfRtDuNKGDpS608U) | 1:35 | 2022-01-03 | 2022-07-19 |
 | [Me Acostumbré a Ti / Chica Brasilera \- Live Session](https://open.spotify.com/track/6Oi8YNK9aVuQxlrmtF0a3M) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [Me Acostumbré a Ti / Chica Brasilera \(Live Session\)](https://open.spotify.com/album/23xgXJA2MLnOAXHy9JQiBc) | 5:40 | 2022-03-18 | 2022-06-09 |
 | [Me Enamore / A tus pies / Te falta sufrir \- En Vivo](https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Festival \(En Vivo\)](https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx) | 10:28 | 2024-03-29 |  |

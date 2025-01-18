@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Kevin Aguilar",
+  "description": "Lo nuevo y lo mejor en el estilo mariachi. Cover: Majo Aguilar",
   "name": "Mariachi 2025",
   "tracks": [
     {
@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/3mpQo65pohg46mRAd50PWh"
+      },
+      "artists": [
+        {
+          "name": "Franco Rey",
+          "url": "https://open.spotify.com/artist/5ijydygAQo5wd1WJFDrGk3"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160010,
+      "name": "Anestesia",
+      "url": "https://open.spotify.com/track/3ABiH8zbUCb4xpfi6eRdHQ"
+    },
+    {
+      "album": {
         "name": "Antes",
         "url": "https://open.spotify.com/album/4ngSFRnkWETqnzLbRWN0Tx"
       },
@@ -824,7 +842,7 @@
       ],
       "date_added": "2023-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 164120,
       "name": "Canci\u00f3n Para Olvidarte",
       "url": "https://open.spotify.com/track/5NHqqzA8PRI5qbslHYJirQ"
@@ -1216,6 +1234,24 @@
       "duration_ms": 130757,
       "name": "Cuando Vivas Conmigo",
       "url": "https://open.spotify.com/track/1TNJyikbOyenh5jsBY2rM6"
+    },
+    {
+      "album": {
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
     },
     {
       "album": {
@@ -1672,7 +1708,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 161373,
       "name": "Dime Qu\u00e9 Se Siente",
       "url": "https://open.spotify.com/track/2FnRmVa4tP4JTQO5TKZCrS"
@@ -1854,6 +1890,24 @@
       "duration_ms": 209118,
       "name": "El Anillo",
       "url": "https://open.spotify.com/track/4ZsmJY1ugWmo6ROkR9Tcba"
+    },
+    {
+      "album": {
+        "name": "El Beso",
+        "url": "https://open.spotify.com/album/7g9R1E1UH8WlAjg4zV2xfi"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155645,
+      "name": "El Beso",
+      "url": "https://open.spotify.com/track/37yyaWgqSRle0sKxW2p4Vc"
     },
     {
       "album": {
@@ -3128,7 +3182,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 186628,
       "name": "La Loter\u00eda",
       "url": "https://open.spotify.com/track/749UHtYWSdzlLqE9TTrjSs"
@@ -6363,6 +6417,24 @@
     },
     {
       "album": {
+        "name": "Si Lo Intentamos",
+        "url": "https://open.spotify.com/album/5VmfWoNwGaNi3DFu4TpHlZ"
+      },
+      "artists": [
+        {
+          "name": "Chema Elizondo",
+          "url": "https://open.spotify.com/artist/49Bb0CVbsJVubswtlxfvZ6"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174333,
+      "name": "Si Lo Intentamos",
+      "url": "https://open.spotify.com/track/3tCjr2h0VvNyZ1avCd1wJa"
+    },
+    {
+      "album": {
         "name": "Si Me Ven Llorando",
         "url": "https://open.spotify.com/album/7mHFFCcfWQiOQL9iRMb2g6"
       },
@@ -6698,7 +6770,7 @@
       ],
       "date_added": "2023-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 173613,
       "name": "S\u00f3lo Muere Si Se Olvida",
       "url": "https://open.spotify.com/track/30slSV1I6iiKvFhJ4X5aFd"
@@ -7208,7 +7280,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 215999,
       "name": "Tres Veces Te Enga\u00f1e",
       "url": "https://open.spotify.com/track/4IqKKRx9af3qGiSC9rdqMz"
@@ -8060,6 +8132,24 @@
       "duration_ms": 162916,
       "name": "\u00bfQu\u00e9 Le Echan al Tequila?",
       "url": "https://open.spotify.com/track/3e6nJ0bEkMA5j042TkZpua"
+    },
+    {
+      "album": {
+        "name": "\u00bfSeguimos o No?",
+        "url": "https://open.spotify.com/album/561lSkRFe7fRTVrR4afGcq"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142710,
+      "name": "\u00bfSeguimos o No?",
+      "url": "https://open.spotify.com/track/1NsjmaxOjSXMexCLix1WAI"
     },
     {
       "album": {

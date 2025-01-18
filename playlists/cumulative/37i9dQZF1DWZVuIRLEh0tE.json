@@ -86,7 +86,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 167931,
       "name": "121",
       "url": "https://open.spotify.com/track/1gu5rR3hJZh6PGAymwAAT2"
@@ -470,7 +470,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 170890,
       "name": "ABRIENDO EL A\u00d1O",
       "url": "https://open.spotify.com/track/2zblIbquNsfr8S3wFJ5UWV"
@@ -720,7 +720,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 71020,
       "name": "Al Bloke",
       "url": "https://open.spotify.com/track/44A9V7EISn7UhmQaQbZ3Xj"
@@ -760,6 +760,24 @@
       "duration_ms": 162466,
       "name": "Alta Gama",
       "url": "https://open.spotify.com/track/2hfeAtMrCUt0F9zlsRT9JJ"
+    },
+    {
+      "album": {
+        "name": "ALTITAJE",
+        "url": "https://open.spotify.com/album/1sBwxycb6MCco6fYzpKTDc"
+      },
+      "artists": [
+        {
+          "name": "LiI Naay",
+          "url": "https://open.spotify.com/artist/6y3UJsRO3xybnwKBRx8diF"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139505,
+      "name": "ALTITAJE",
+      "url": "https://open.spotify.com/track/3QO1BO2Dy9IoxiKGjSemRU"
     },
     {
       "album": {
@@ -1494,6 +1512,32 @@
       "duration_ms": 169411,
       "name": "Bendiciones",
       "url": "https://open.spotify.com/track/5Zg3Eq4cjcJ98MUADUBwTb"
+    },
+    {
+      "album": {
+        "name": "Besame",
+        "url": "https://open.spotify.com/album/3XTGdI9PwJqZ7bDDzNNgjV"
+      },
+      "artists": [
+        {
+          "name": "La Baby",
+          "url": "https://open.spotify.com/artist/4nK6aAl64JMOJs0jBJV3b2"
+        },
+        {
+          "name": "La Tata 20",
+          "url": "https://open.spotify.com/artist/2rCtDEPCEGXRAeLH8rJZ6N"
+        },
+        {
+          "name": "Puyalo Pantera",
+          "url": "https://open.spotify.com/artist/5O5qjKWtduHgXxeEYbbSxz"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139591,
+      "name": "Besame",
+      "url": "https://open.spotify.com/track/5WUS7LiI97Pz0klSd57KZO"
     },
     {
       "album": {
@@ -2798,7 +2842,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 227767,
       "name": "Cualto Y La Pistola Remix",
       "url": "https://open.spotify.com/track/27Ibh3TC55sAwzzIqUCgth"
@@ -4457,6 +4501,24 @@
     },
     {
       "album": {
+        "name": "El Mundo",
+        "url": "https://open.spotify.com/album/4Ti1hpJbNta68brPqO0vMD"
+      },
+      "artists": [
+        {
+          "name": "Treintisiete",
+          "url": "https://open.spotify.com/artist/1ZbuFVK9SeRYrZfQLkNzah"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162005,
+      "name": "El Mundo",
+      "url": "https://open.spotify.com/track/0CiTmXtvmgxJEHxiS3nZhA"
+    },
+    {
+      "album": {
         "name": "EL OPERATIVO CACHORRO 30",
         "url": "https://open.spotify.com/album/30z3SnasHh9ji3zO4DACJf"
       },
@@ -4472,6 +4534,28 @@
       "duration_ms": 265425,
       "name": "EL OPERATIVO CACHORRO 30",
       "url": "https://open.spotify.com/track/4UuqvEHdsnFn9MEaFH96Hv"
+    },
+    {
+      "album": {
+        "name": "El Punto",
+        "url": "https://open.spotify.com/album/2yM46VEon5VOe2FFw9xwiB"
+      },
+      "artists": [
+        {
+          "name": "Yomel El Meloso",
+          "url": "https://open.spotify.com/artist/34Y7klgDHuaH1qWA9TJkul"
+        },
+        {
+          "name": "Chael Produciendo",
+          "url": "https://open.spotify.com/artist/2iI5KWXLjw1tqLQsdjuo0e"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151224,
+      "name": "El Punto",
+      "url": "https://open.spotify.com/track/1XL6gEjYsBPFBk1mRRS8ru"
     },
     {
       "album": {
@@ -4530,6 +4614,28 @@
       "duration_ms": 194400,
       "name": "El Reloj",
       "url": "https://open.spotify.com/track/31xzUK9jMLTNB0TXBdiWfQ"
+    },
+    {
+      "album": {
+        "name": "El Reloj (Parte 2)",
+        "url": "https://open.spotify.com/album/2TynTSJNXYizvbh8kyA8Dy"
+      },
+      "artists": [
+        {
+          "name": "Quimico Ultra Mega",
+          "url": "https://open.spotify.com/artist/3tZdknQnzsVIIdaGCTj4RX"
+        },
+        {
+          "name": "Nino Freestyle",
+          "url": "https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261599,
+      "name": "El Reloj (Parte 2)",
+      "url": "https://open.spotify.com/track/6qPQL4ca0TTtLxEtsPd5sB"
     },
     {
       "album": {
@@ -5229,6 +5335,24 @@
     },
     {
       "album": {
+        "name": "Espacio (Freestyle)",
+        "url": "https://open.spotify.com/album/0g8dPTFDZmV1FpnD0coV7R"
+      },
+      "artists": [
+        {
+          "name": "Tivi Gunz",
+          "url": "https://open.spotify.com/artist/68KUcl8ndJO5nUcLkuwIjI"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Espacio (Freestyle)",
+      "url": "https://open.spotify.com/track/1VvXv8zBi3WndgMXpI8hZj"
+    },
+    {
+      "album": {
         "name": "ESTE",
         "url": "https://open.spotify.com/album/6IyqaZNwNpIEKSHGENe5DU"
       },
@@ -5358,6 +5482,24 @@
       "duration_ms": 121263,
       "name": "Explicito - Deluxe",
       "url": "https://open.spotify.com/track/5ykJEBmfZuSv6h4eeqVFEQ"
+    },
+    {
+      "album": {
+        "name": "Extra\u00f1andote",
+        "url": "https://open.spotify.com/album/7miXwXszGIZlPVFYckGmhG"
+      },
+      "artists": [
+        {
+          "name": "Jc La Nevula",
+          "url": "https://open.spotify.com/artist/6KBhywwNM5dStjqjHeNndc"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150361,
+      "name": "Extra\u00f1andote",
+      "url": "https://open.spotify.com/track/6atHPxGosTpRKS935LkF8Q"
     },
     {
       "album": {
@@ -6206,7 +6348,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 67200,
       "name": "Hennessy",
       "url": "https://open.spotify.com/track/2Uj1DJN4R85TybtrGqbqj8"
@@ -7767,6 +7909,28 @@
     },
     {
       "album": {
+        "name": "Loba",
+        "url": "https://open.spotify.com/album/0xu1Px2c0EGLOaiQpUFrs8"
+      },
+      "artists": [
+        {
+          "name": "Vadi",
+          "url": "https://open.spotify.com/artist/12HtyTeiwjTUPsnW9xvs1S"
+        },
+        {
+          "name": "andres yuma",
+          "url": "https://open.spotify.com/artist/1Zlp7gKGKtdZo1LLJj4n3N"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Loba",
+      "url": "https://open.spotify.com/track/72IQYRXmd15Qq38Ii1dMhQ"
+    },
+    {
+      "album": {
         "name": "Uno x Ellas",
         "url": "https://open.spotify.com/album/0YtX3JIpS3TEu03xO8tix1"
       },
@@ -8507,6 +8671,28 @@
     },
     {
       "album": {
+        "name": "Me Dejan Afuera",
+        "url": "https://open.spotify.com/album/4Zxydd72l3L1WVHlslY4dI"
+      },
+      "artists": [
+        {
+          "name": "Dj Scuff",
+          "url": "https://open.spotify.com/artist/4tmsSGhsR7ovyg478pebXh"
+        },
+        {
+          "name": "Manilo Rd",
+          "url": "https://open.spotify.com/artist/3CXD3lzKJLqxQe9K9tSSu9"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 633736,
+      "name": "Me Dejan Afuera",
+      "url": "https://open.spotify.com/track/4GkYtnEq7gousMz8uYnvUd"
+    },
+    {
+      "album": {
         "name": "Me Embobo",
         "url": "https://open.spotify.com/album/1oi2nAjfjnhQ9N6dYOPAfg"
       },
@@ -9054,6 +9240,32 @@
       "duration_ms": 182068,
       "name": "Mi Viejo",
       "url": "https://open.spotify.com/track/3j0GG11JvHJRITYP6cLECY"
+    },
+    {
+      "album": {
+        "name": "Mi Vuelo (Remix)",
+        "url": "https://open.spotify.com/album/1cdcg4t7AObQJpP8zGcrws"
+      },
+      "artists": [
+        {
+          "name": "El Componentte",
+          "url": "https://open.spotify.com/artist/4goASIkY45v9aFgDd2xnMO"
+        },
+        {
+          "name": "Gatillero 23",
+          "url": "https://open.spotify.com/artist/5ArjD2zzwnPVWvho8uSj8k"
+        },
+        {
+          "name": "Papy Crish",
+          "url": "https://open.spotify.com/artist/1gxE3M7ybmIpfmI6qexrO6"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195428,
+      "name": "Mi Vuelo - Remix",
+      "url": "https://open.spotify.com/track/0N1GQTtKD4rg7fTzZfHIxZ"
     },
     {
       "album": {
@@ -10244,7 +10456,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 151200,
       "name": "Normal",
       "url": "https://open.spotify.com/track/7KG62b2YjY8Qu10uThQD92"
@@ -11367,6 +11579,28 @@
     },
     {
       "album": {
+        "name": "Quedate",
+        "url": "https://open.spotify.com/album/65yx81lF6wt7PW0cAmKHTB"
+      },
+      "artists": [
+        {
+          "name": "Whitecity",
+          "url": "https://open.spotify.com/artist/3StWchMfGY8mo4YdIPp9Rb"
+        },
+        {
+          "name": "Dilon Baby",
+          "url": "https://open.spotify.com/artist/4ZIaiuKxYK6A6JwvvwqXoN"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167437,
+      "name": "Quedate",
+      "url": "https://open.spotify.com/track/7sk26sIpqduFAuNP0A0Gfa"
+    },
+    {
+      "album": {
         "name": "Quien Dijo",
         "url": "https://open.spotify.com/album/71APj7u0enlTCdHalW9tAa"
       },
@@ -11400,7 +11634,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 135509,
       "name": "Quien Es El Rey",
       "url": "https://open.spotify.com/track/1WiN0cxZmOLuroLChtpXya"
@@ -12152,6 +12386,24 @@
       "duration_ms": 231909,
       "name": "Solo",
       "url": "https://open.spotify.com/track/6kTMnty169llVx9sGHb6LD"
+    },
+    {
+      "album": {
+        "name": "SOLO",
+        "url": "https://open.spotify.com/album/3I3GRIwJ1KLQUe7T8mtHTV"
+      },
+      "artists": [
+        {
+          "name": "Ateriko",
+          "url": "https://open.spotify.com/artist/0hN1eVzVSkZMBMW1DpQQcC"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193384,
+      "name": "SOLO",
+      "url": "https://open.spotify.com/track/1K6xnYVt3CpLQesnSysCgw"
     },
     {
       "album": {

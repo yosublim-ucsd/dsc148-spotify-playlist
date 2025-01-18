@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Bethel Music",
+  "description": "The best mix of today's Christian music, all genres, worldwide. Cover: Ryan Ellis",
   "name": "Top Christian & Gospel",
   "tracks": [
     {
@@ -1347,6 +1347,32 @@
     },
     {
       "album": {
+        "name": "Be Love",
+        "url": "https://open.spotify.com/album/1NmzBBrRogo7n3gFxGq2Sg"
+      },
+      "artists": [
+        {
+          "name": "Common Hymnal",
+          "url": "https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN"
+        },
+        {
+          "name": "Tommy Sims",
+          "url": "https://open.spotify.com/artist/1v5hoRyO2K9NNPm8GVOPEe"
+        },
+        {
+          "name": "Praise Paige",
+          "url": "https://open.spotify.com/artist/183tdPgrLOTkQuSYjfdM7e"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328583,
+      "name": "Be Love",
+      "url": "https://open.spotify.com/track/6m6Zq0JcdPWIW49G51VKml"
+    },
+    {
+      "album": {
         "name": "Be Okay",
         "url": "https://open.spotify.com/album/2WP9xHy2XZjI78eXGmQ5XE"
       },
@@ -1456,7 +1482,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 145573,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/7j34VbruHObgUOHIaxpMMw"
@@ -3352,7 +3378,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 153268,
       "name": "Die For The Party",
       "url": "https://open.spotify.com/track/1JvV2nnstVEGe8rZ85EM41"
@@ -3406,7 +3432,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 240097,
       "name": "Don't Fight Alone",
       "url": "https://open.spotify.com/track/1nBs6CyPsd9THOxqsuLt0M"
@@ -9211,6 +9237,24 @@
     },
     {
       "album": {
+        "name": "Kind To Myself",
+        "url": "https://open.spotify.com/album/1cwR4ocIhy4MXuR7TVNsma"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182128,
+      "name": "Kind To Myself",
+      "url": "https://open.spotify.com/track/51OOS7PnlhHOgkl6vJZbBL"
+    },
+    {
+      "album": {
         "name": "Kinda Wild",
         "url": "https://open.spotify.com/album/0JgJBpHVvXiQNlFJP00iAy"
       },
@@ -9800,7 +9844,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 192000,
       "name": "Letting Go For Dear Life",
       "url": "https://open.spotify.com/track/23FhN1EL3dfcAJbR3kWYTC"
@@ -11697,6 +11741,24 @@
     },
     {
       "album": {
+        "name": "No Fear",
+        "url": "https://open.spotify.com/album/1QVqmWakFTgTju3TX6N5B9"
+      },
+      "artists": [
+        {
+          "name": "Jon Reddick",
+          "url": "https://open.spotify.com/artist/7H0gjeKVq6IPXcAUZzzhD2"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212580,
+      "name": "No Fear",
+      "url": "https://open.spotify.com/track/2yHurYHLYMpdDokqUnFtzT"
+    },
+    {
+      "album": {
         "name": "Young & Chosen",
         "url": "https://open.spotify.com/album/6brEcgs4ErYAGL7PxpxBF7"
       },
@@ -12166,6 +12228,24 @@
       "duration_ms": 206601,
       "name": "On Our Way",
       "url": "https://open.spotify.com/track/7DCbWeFsHONrfaQEvv3iib"
+    },
+    {
+      "album": {
+        "name": "On The Mend",
+        "url": "https://open.spotify.com/album/49knbNogUcgBdSYs4jjamj"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210384,
+      "name": "On The Mend",
+      "url": "https://open.spotify.com/track/4wghIQPQ2IrnzIbHjEPpxy"
     },
     {
       "album": {
@@ -13284,6 +13364,24 @@
       "duration_ms": 249564,
       "name": "Real Help",
       "url": "https://open.spotify.com/track/0KVNy4HMxuxUPWBx5a1op6"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/53JXiB6cQFo2JIkEbIdTWE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212876,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/64xTDRWYWyhfcx0rZexbhO"
     },
     {
       "album": {
@@ -18290,7 +18388,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 125948,
       "name": "WHITE ELEPHANT",
       "url": "https://open.spotify.com/track/3C9sUtiSUvAkhwko0kcmas"

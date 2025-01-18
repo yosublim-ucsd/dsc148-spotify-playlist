@@ -4,7 +4,7 @@
 
 > Listen to Arab women, at full volume\. Cover: Haneen Hussain
 
-693 songs - 1 day 15 hr 59 min
+694 songs - 1 day 16 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,6 +297,7 @@
 | [Kello Waham](https://open.spotify.com/track/1BswE7MEewdixfNF3Vm6dj) | [Elissa](https://open.spotify.com/artist/68rvMwPL0yMbYR5cv0pzCR) | [Kello Waham](https://open.spotify.com/album/1Bo8bgAlOE14eEZHeY8RXL) | 3:22 | 2024-01-29 | 2024-05-07 |
 | [Kelma Akhera](https://open.spotify.com/track/2A2NV6TRVGHV9Ggxb3Glmb) | [Laila Ahmed Zaher](https://open.spotify.com/artist/49HSYiVEi1YkIzR3jtiJxy) | [Kelma Akhera](https://open.spotify.com/album/1Pr1IhoF1383C9ZIbwO3Jb) | 5:12 | 2023-02-16 | 2024-01-30 |
 | [Khaleh Ala Halah](https://open.spotify.com/track/6o0aWKaBbVDPhcvsO4tgg6) | [Waham](https://open.spotify.com/artist/6xXZ8rexkcFBhqiQriNwc2) | [Khaleh Ala Halah](https://open.spotify.com/album/3eS0m5NofSBF8k9FcFiGZE) | 3:23 | 2021-12-23 | 2022-03-02 |
+| [Khali Makank](https://open.spotify.com/track/0oeIIvyBXKWBsbuxTD5QWo) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Khali Makank](https://open.spotify.com/album/3dbHhKZLXHpC0IGxcNxeUD) | 3:22 | 2025-01-17 |  |
 | [Khalleena](https://open.spotify.com/track/5c1fYVYWBs0vEdEnzcRikY) | [Rula Zaki](https://open.spotify.com/artist/1f5tpK7TPfwv7DoqhDu6bX) | [Khalleena](https://open.spotify.com/album/0gE4qgQVgcofnNP2JQmLPf) | 4:14 | 2021-12-23 | 2022-03-02 |
 | [Kheira](https://open.spotify.com/track/7AbtlIY4FXVDOuDXpivtJS) | [Carmen Soliman](https://open.spotify.com/artist/5gPruOKbqIMNHlXASmRXXt) | [Kheira](https://open.spotify.com/album/5mdW9cFswJ2SPNKI7ER224) | 4:13 | 2022-11-15 | 2023-02-02 |
 | [Kheles El Kalam](https://open.spotify.com/track/7lrnS2D78WccsAro9d9QTR) | [Shaimaa El Maghraby](https://open.spotify.com/artist/2JVy6Z1pDdqDfTtZ03ePE9) | [Kheles El Kalam](https://open.spotify.com/album/5acNcctheDVFIMvTlliQEL) | 2:35 | 2023-07-21 | 2023-09-25 |

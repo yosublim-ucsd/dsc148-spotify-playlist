@@ -4,7 +4,7 @@
 
 > Keep it Punjabi, Keep it Real\. Cover: Navaan Sandhu
 
-533 songs - 1 day 1 hr 32 min
+534 songs - 1 day 1 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,6 +205,7 @@
 | [Heads Up](https://open.spotify.com/track/6JGlFHvFHXe3VjqP1obvL6) | [Jxggi](https://open.spotify.com/artist/3fD8S8sslhiMSVOdXv8yuG), [Sickboi](https://open.spotify.com/artist/2RSjOH1tYnTgkpkz81WICb) | [Breakin Boundaries](https://open.spotify.com/album/4P8OqjU0giUlyoPgCLnR2e) | 2:40 | 2024-08-23 |  |
 | [Heel](https://open.spotify.com/track/3RjYCv0aBmCzZyLRIHH4o8) | [Kaka](https://open.spotify.com/artist/1Oh5bPXjw5jreVFhKc4jux), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Billo Kehndi](https://open.spotify.com/album/0zufKiU1f4TQOmcpTDpnpW) | 3:22 | 2024-01-18 | 2024-02-16 |
 | [Heeray](https://open.spotify.com/track/2ArvOTJvqP3tGTddDX5zXc) | [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Jashan Inder](https://open.spotify.com/artist/0tGfv5UMyYeDwBwo86cat8), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Ishq Di Ep](https://open.spotify.com/album/6O88c3OCo8IjNBfaIhE7EQ) | 3:04 | 2023-11-06 | 2023-11-13 |
+| [High On You](https://open.spotify.com/track/2eqUVYJVnlDs8PgOtuOlJm) | [Jind Universe](https://open.spotify.com/artist/5KmFbbptaZhEtmMibvibUE) | [High On You](https://open.spotify.com/album/7kt5CDMRKbe25KBeHDthWC) | 2:20 | 2025-01-17 |  |
 | [Highway To Hell](https://open.spotify.com/track/5f7N1TQ2N1Hf9Q4OUXLphX) | [Ekam Sudhar](https://open.spotify.com/artist/30QXHMkDM1bkVffpzvrZEy), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Highway To Hell](https://open.spotify.com/album/0NEzC57EkJUAeXmVZC2mjD) | 3:12 | 2023-03-29 | 2023-04-21 |
 | [Hisaab](https://open.spotify.com/track/1yRBYvgibg7JVS6uGvbDGU) | [DIVINE](https://open.spotify.com/artist/4Ai0pGz6GhQavjzaRhPTvz), [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Street Dreams](https://open.spotify.com/album/3UFq6P2Qu3yNM2hMZqfZ1Y) | 3:26 | 2024-02-15 | 2024-05-11 |
 | [Hisaab Kitab](https://open.spotify.com/track/2bL287Q0RTDyVpqMjZoSIe) | [Deep Saab](https://open.spotify.com/artist/6udnyEXo26gYI9Cx4G81Py), [Freak singh](https://open.spotify.com/artist/4TP5x2vBuTodGUHXr8sPUv), [Mahla Kot](https://open.spotify.com/artist/5kBnS6WReOcjbXrei12di6) | [Hisaab Kitab](https://open.spotify.com/album/10nmf47rEVpfdUiUTAlkzh) | 2:14 | 2024-08-12 | 2024-09-03 |
@@ -539,7 +540,7 @@
 | [Ykwim](https://open.spotify.com/track/6qS40yL7kXVoChI8SSCQIQ) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Mehar Vaani](https://open.spotify.com/artist/1292Fb98poF6N9aEk9oibw) | [Ykwim](https://open.spotify.com/album/14XBYP5RcavbvSREiaQ17V) | 3:14 | 2023-03-29 | 2023-07-15 |
 | [You Talking To Me?](https://open.spotify.com/track/668vJMj83AqV0E2oMFKsiQ) | [Guru Randhawa](https://open.spotify.com/artist/5rQoBDKFnd1n6BkdbgVaRL), [Trip Beats](https://open.spotify.com/artist/7tDPPascbZXHqvtye9tXrb) | [You Talking To Me?](https://open.spotify.com/album/6iG71uFCXUH91vFqaWFY58) | 2:20 | 2023-07-28 | 2023-10-07 |
 | [Your Loss](https://open.spotify.com/track/5pU4rfzTRYT6sig4hbV6i1) | [Harpreet Sran](https://open.spotify.com/artist/2UmqKUzlHmjjY8fv6yvGOv), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Dreamworld](https://open.spotify.com/album/1JNdpUfGJ6Wf9bTkCumcsj) | 2:31 | 2023-03-29 | 2023-04-09 |
-| [Zamana](https://open.spotify.com/track/3XgJFRVq5fdlCDxHBsDgr3) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 3:23 | 2024-08-23 |  |
+| [Zamana](https://open.spotify.com/track/3XgJFRVq5fdlCDxHBsDgr3) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Savraj](https://open.spotify.com/artist/2QO3W9e7MhaXQfCZuliJP9) | [Three Plays](https://open.spotify.com/album/7cg3ggWMPZjfQOUYCiSWmE) | 3:23 | 2024-08-23 | 2025-01-18 |
 | [Zehr Lagde](https://open.spotify.com/track/0WpAe6J79iViy1egcw2CyR) | [Bajwa](https://open.spotify.com/artist/235cIEn6QoaIkUtO2lLQzA), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Zehr Lagde](https://open.spotify.com/album/0thYIbzcXoqiJWGxuZyuPb) | 4:22 | 2023-03-29 | 2023-07-15 |
 
 \*This playlist was first scraped on 2023-03-30. Prior content cannot be recovered.

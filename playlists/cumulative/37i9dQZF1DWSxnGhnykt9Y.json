@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-04",
-  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: Zuchu",
+  "description": "Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars. \n\nCover: BLNDE",
   "name": "Women of Afro",
   "tracks": [
     {
@@ -85,6 +85,24 @@
     },
     {
       "album": {
+        "name": "Bad Company",
+        "url": "https://open.spotify.com/album/1jSyrNNZhhH0ETSZzJACWf"
+      },
+      "artists": [
+        {
+          "name": "Bella Alubo",
+          "url": "https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "Bad Company",
+      "url": "https://open.spotify.com/track/5sVlhCWCwy6hVL9xyCx743"
+    },
+    {
+      "album": {
         "name": "Bad Vibes",
         "url": "https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g"
       },
@@ -122,6 +140,24 @@
       "duration_ms": 148000,
       "name": "Bigger Picture",
       "url": "https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD"
+    },
+    {
+      "album": {
+        "name": "BISOUS",
+        "url": "https://open.spotify.com/album/4yI7pgYcbAcsV9v4VlbHSH"
+      },
+      "artists": [
+        {
+          "name": "Chrystel",
+          "url": "https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163809,
+      "name": "BISOUS",
+      "url": "https://open.spotify.com/track/1V2NorIjuRXla69SxsYIcs"
     },
     {
       "album": {
@@ -956,7 +992,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 114957,
       "name": "Ms Spender",
       "url": "https://open.spotify.com/track/4IYOmlcwhmWMyFN5DE2Dio"
@@ -996,6 +1032,24 @@
       "duration_ms": 169811,
       "name": "Murda",
       "url": "https://open.spotify.com/track/0gxt0HVcwztpRHgwKHtjg7"
+    },
+    {
+      "album": {
+        "name": "My Head",
+        "url": "https://open.spotify.com/album/2Zbvg74iS66Au0WLHrDbfn"
+      },
+      "artists": [
+        {
+          "name": "MzVee",
+          "url": "https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185739,
+      "name": "My Head",
+      "url": "https://open.spotify.com/track/5v9ZWzBcBZozh2Xy5D02Jp"
     },
     {
       "album": {
@@ -1116,6 +1170,24 @@
       "duration_ms": 182000,
       "name": "Old Flame",
       "url": "https://open.spotify.com/track/42iVBafiggSXxcdY2g02iA"
+    },
+    {
+      "album": {
+        "name": "Omo To Sexy",
+        "url": "https://open.spotify.com/album/3ajUkC6s6WOUx64JZJZZsL"
+      },
+      "artists": [
+        {
+          "name": "BLNDE",
+          "url": "https://open.spotify.com/artist/3ZA9FgX4nLjbfGgn7dOukU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167447,
+      "name": "Omo To Sexy",
+      "url": "https://open.spotify.com/track/0Ra2JEiYVrZwDyyNzMWKmQ"
     },
     {
       "album": {
@@ -1448,7 +1520,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 203628,
       "name": "Tomorrow",
       "url": "https://open.spotify.com/track/5yuP7KsSKbm3S94BGdK4Jy"

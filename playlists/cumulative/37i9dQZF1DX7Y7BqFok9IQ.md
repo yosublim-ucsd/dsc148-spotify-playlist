@@ -4,7 +4,7 @@
 
 > The best of modern blues rock\. Cover: Joe Bonamassa
 
-347 songs - 22 hr 35 min
+348 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -140,7 +140,7 @@
 | [How High](https://open.spotify.com/track/4BYD2s44Gzhnpw9XsyhfKk) | [Steve Marriner](https://open.spotify.com/artist/3gGtZLqY9EV0wTN8TjygoT) | [How High](https://open.spotify.com/album/5AImRUVECSvsxYnEeGVGMf) | 2:12 | 2021-07-02 |  |
 | [Hurricane Coming](https://open.spotify.com/track/03COlVqn5cuG51u2txqzGt) | [The Heavy](https://open.spotify.com/artist/0bZCak2tcRMY1dzEIuwF42) | [Hurricane Coming](https://open.spotify.com/album/2d1iNTtLFGZs5aXlEKSUfC) | 3:32 | 2023-01-13 |  |
 | [I Gotta Stop Letting You Let Me Down](https://open.spotify.com/track/5gkAlecczArRBlzatrPXBZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [I Gotta Stop Letting You Let Me Down](https://open.spotify.com/album/3tbUSmHhH2pqePByepxvP0) | 4:53 | 2024-12-06 |  |
-| [I Know Who You Are](https://open.spotify.com/track/0VIcEmhGQ13EnZoIKlw89a) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Gold](https://open.spotify.com/album/4aRBy6eobn9arGrtDGDcj0) | 3:11 | 2020-10-16 |  |
+| [I Know Who You Are](https://open.spotify.com/track/0VIcEmhGQ13EnZoIKlw89a) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Gold](https://open.spotify.com/album/4aRBy6eobn9arGrtDGDcj0) | 3:11 | 2020-10-16 | 2025-01-18 |
 | [I Need To Be](https://open.spotify.com/track/0Q4vxfviEyCBL27mzZUu1X) | [The Cassaday Concoction](https://open.spotify.com/artist/39jwyTOAsOtp0yMWtcxkbi) | [I Need To Be](https://open.spotify.com/album/62lmlE7kQ9nmBnaa86AbIp) | 4:49 | 2022-09-09 |  |
 | [I See You](https://open.spotify.com/track/4eER7CCkE8Ehb2XyuFdKAx) | [The Bones of J.R\. Jones](https://open.spotify.com/artist/7sMcWECQxLm7EoKdRlSCAn) | [Ones to Keep Close](https://open.spotify.com/album/7v3pyxWeamgw2yhPj40CB0) | 3:47 | 2020-10-16 | 2022-07-29 |
 | [I Wanna Keep It](https://open.spotify.com/track/0XAJiy3zJ20ZTvNviK5zCV) | [Free Joel](https://open.spotify.com/artist/3ASOgqQ8AGJGdKo1zleOEP) | [I Wanna Keep It](https://open.spotify.com/album/4rAJbotu9bdOzBUWEJyalC) | 5:26 | 2023-04-14 |  |
@@ -150,6 +150,7 @@
 | [I'm Comin' Home](https://open.spotify.com/track/5CJMgqgSVEtnKGIyWsbpPt) | [Royal Southern Brotherhood](https://open.spotify.com/artist/6vcUagbhY6zVVU71BnnURP) | [The Royal Gospel](https://open.spotify.com/album/4GSi5GCPkxsshu27jVQZLn) | 4:25 | 2020-10-16 | 2024-04-27 |
 | [I'm Gone](https://open.spotify.com/track/1ZbVqL2ErCQH26Zj4JkHy0) | [Vision Arcade](https://open.spotify.com/artist/21tnncEE8gHj8B6C7iOCFX) | [I'm Gone](https://open.spotify.com/album/2mQCWFo3LOBpx66YqquzXr) | 4:42 | 2021-11-05 |  |
 | [If God Is A Woman](https://open.spotify.com/track/54bGJlYr8LGaYzJ2piL3Op) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [If God Is A woman](https://open.spotify.com/album/564oj2NGIjqVfN6h4BFnYw) | 3:25 | 2024-09-20 | 2024-10-26 |
+| [If Not Soon](https://open.spotify.com/track/0V108MMvdjkutZMDt7TGbj) | [Roll Mega](https://open.spotify.com/artist/11XwVlYO6mULu84YZCNPj1), [Son Little](https://open.spotify.com/artist/4lujUKeO6nQAJXpq37Epn7), [Eric Krasno](https://open.spotify.com/artist/6tQIsqw6DrDfdoPwOrOD6k) | [If Not Soon](https://open.spotify.com/album/3xetKUExQqAkDgfNiCp2Bp) | 3:07 | 2025-01-17 |  |
 | [In Stride](https://open.spotify.com/track/1l6y7uGONbXJ9Rfr42K01e) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [The Ides of March](https://open.spotify.com/album/4tGVlRZ7MjAN3bo34gFHOP) | 3:47 | 2021-02-19 | 2024-04-19 |
 | [In Stride](https://open.spotify.com/track/4maDoiqrbnZYA64w4Wzmha) | [Myles Kennedy](https://open.spotify.com/artist/2YZOQlBE1v44RxPEAVSdVR) | [In Stride](https://open.spotify.com/album/7b11AjtUEnyIJfSVqSmY16) | 3:47 | 2021-02-19 |  |
 | [In The Night Time](https://open.spotify.com/track/0S84XFY5CMmwDTTkbi08q4) | [The Cold Stares](https://open.spotify.com/artist/0hLLs7dOw0Z1XBFFrLSDln) | [In The Night Time](https://open.spotify.com/album/3dd5Y678XGzwSOSkDLYOrF) | 3:08 | 2021-04-30 | 2022-07-29 |

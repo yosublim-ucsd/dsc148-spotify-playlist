@@ -243,6 +243,24 @@
     },
     {
       "album": {
+        "name": "Blank Canvas",
+        "url": "https://open.spotify.com/album/2goyTImq0vkhL4FEqmdsli"
+      },
+      "artists": [
+        {
+          "name": "ALO",
+          "url": "https://open.spotify.com/artist/65c0gzsw9JsPUxm09QPjQj"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220483,
+      "name": "Blank Canvas",
+      "url": "https://open.spotify.com/track/4Add8yFPCjaMGUMtotv0iU"
+    },
+    {
+      "album": {
         "name": "Blow You Away",
         "url": "https://open.spotify.com/album/70MEaXYusonEFxCPoKnvsi"
       },
@@ -837,6 +855,32 @@
     },
     {
       "album": {
+        "name": "Easy (with G. Love & Brett Dennen)",
+        "url": "https://open.spotify.com/album/6GvEodTVFPHkwNJpq1jlVu"
+      },
+      "artists": [
+        {
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
+        },
+        {
+          "name": "G. Love & Special Sauce",
+          "url": "https://open.spotify.com/artist/74fkl73HDlCXw0l6cemB89"
+        },
+        {
+          "name": "Brett Dennen",
+          "url": "https://open.spotify.com/artist/0FC1LIeQXKib0jOwZqeIwT"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211742,
+      "name": "Easy (with G. Love & Brett Dennen)",
+      "url": "https://open.spotify.com/track/5q9YSs9YEB7p6A7S9hgBT4"
+    },
+    {
+      "album": {
         "name": "Spafford",
         "url": "https://open.spotify.com/album/6XNKBFhh66GoOhMpOd8s05"
       },
@@ -1334,7 +1378,7 @@
       ],
       "date_added": "2023-03-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 285986,
       "name": "Growing Your Hands Back",
       "url": "https://open.spotify.com/track/2iQeEYuZvG1j0wVeNJbZtD"
@@ -2662,7 +2706,7 @@
       ],
       "date_added": "2022-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 485880,
       "name": "Random Company",
       "url": "https://open.spotify.com/track/6eOzmeLU3lJD7dw5kJ46EX"

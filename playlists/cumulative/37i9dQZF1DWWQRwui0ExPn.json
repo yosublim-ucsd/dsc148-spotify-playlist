@@ -19528,7 +19528,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 131180,
       "name": "carmeo",
       "url": "https://open.spotify.com/track/1TF4yIVyMM85Yvf1hzFQ19"
@@ -20548,7 +20548,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 108571,
       "name": "Cerveja",
       "url": "https://open.spotify.com/track/3pOQ3FcLGbTfa6eFqJSF2m"
@@ -23314,7 +23314,7 @@
       ],
       "date_added": "2024-01-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 150000,
       "name": "Clouds & Conversations",
       "url": "https://open.spotify.com/track/2I1mjhO8aEd2vopGO4Uasz"
@@ -25513,6 +25513,24 @@
     },
     {
       "album": {
+        "name": "Coney Island Sunsets",
+        "url": "https://open.spotify.com/album/4yjVETvBN3XDtsSMaTgYP5"
+      },
+      "artists": [
+        {
+          "name": "Brooklyn Beat Collective",
+          "url": "https://open.spotify.com/artist/59nfEy8ltSTF0rJcb9RmTE"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129229,
+      "name": "Coney Island Sunsets",
+      "url": "https://open.spotify.com/track/65jpgvAMLZRdt7bjTyWw5y"
+    },
+    {
+      "album": {
         "name": "Confete e serpentina",
         "url": "https://open.spotify.com/album/5SY6oIqvOTcjggKR4o13ZR"
       },
@@ -26378,7 +26396,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 137983,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/2zCUl0TvKXb2z7TV5uCKPT"
@@ -29692,6 +29710,24 @@
       "duration_ms": 90094,
       "name": "Days Off",
       "url": "https://open.spotify.com/track/4W195B4Z1X1tawEaQr6nJg"
+    },
+    {
+      "album": {
+        "name": "Days Past",
+        "url": "https://open.spotify.com/album/2RFScVuwmI1CplUygkNGrn"
+      },
+      "artists": [
+        {
+          "name": "WanderLight",
+          "url": "https://open.spotify.com/artist/5cSzGEEoyXq4x7tjOD3zha"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129149,
+      "name": "Days Past",
+      "url": "https://open.spotify.com/track/4Brvu4N2Vwpi3ookEP1OVy"
     },
     {
       "album": {
@@ -44114,7 +44150,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 152112,
       "name": "formula",
       "url": "https://open.spotify.com/track/4LuNorhOQh3Gkzff1a6kzD"
@@ -58272,7 +58308,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 137468,
       "name": "Inhale",
       "url": "https://open.spotify.com/track/4ZM8ZZ3yoKQ3iW4nwlq8ia"
@@ -62140,7 +62176,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 149916,
       "name": "Just Friends",
       "url": "https://open.spotify.com/track/2Bdx4PmAJyAvbRAdZ5295W"
@@ -66028,7 +66064,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 149620,
       "name": "Lazy",
       "url": "https://open.spotify.com/track/3tAqjc3xJHzdiCH33j9crl"
@@ -71180,7 +71216,7 @@
       ],
       "date_added": "2022-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-10",
+      "date_removed": null,
       "duration_ms": 115631,
       "name": "lovebird",
       "url": "https://open.spotify.com/track/17KHkEccHRhWYlZCqKDSNA"
@@ -81396,7 +81432,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 120901,
       "name": "Mystery Manor",
       "url": "https://open.spotify.com/track/6irOnKwOjYJFCvtCHG1RQC"
@@ -83182,6 +83218,24 @@
       "duration_ms": 127395,
       "name": "Nice To Meet U",
       "url": "https://open.spotify.com/track/6jadCrE6dGrv0vFAzv9hg4"
+    },
+    {
+      "album": {
+        "name": "Nicosia",
+        "url": "https://open.spotify.com/album/71WJXEyMnjkEephI5ONKpI"
+      },
+      "artists": [
+        {
+          "name": "Onyx Value",
+          "url": "https://open.spotify.com/artist/5Efar71Lbvxm2HjDpl45b4"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151333,
+      "name": "Nicosia",
+      "url": "https://open.spotify.com/track/52g1AKlXLq3lHnE7ZlsVlq"
     },
     {
       "album": {
@@ -100574,7 +100628,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 138352,
       "name": "Roll the Dice",
       "url": "https://open.spotify.com/track/4dSXPcxNserQeYmrJYVKFi"
@@ -118186,7 +118240,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 159000,
       "name": "sway",
       "url": "https://open.spotify.com/track/6Mx40XWfNJrRulCKXckuru"
@@ -135724,7 +135778,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 121209,
       "name": "Windmill",
       "url": "https://open.spotify.com/track/31EArKgvKgR8hdPSahd7QK"

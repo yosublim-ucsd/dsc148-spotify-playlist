@@ -2,7 +2,7 @@
 
 ### [Next Up](https://open.spotify.com/playlist/37i9dQZF1DWZvuOKNcLsjv)
 
-> 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Doechii
+> 注目の国内外ネクスト・ヒットをいち早くお届け。 cover: Teddy Swims & Giveon
 
 4,391 songs - 10 day 14 hr 32 min
 

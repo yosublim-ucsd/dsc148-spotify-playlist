@@ -2323,6 +2323,24 @@
     },
     {
       "album": {
+        "name": "The True Meaning Of Forever",
+        "url": "https://open.spotify.com/album/3reUPH5qmw9PJ3HwQyA0ED"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173927,
+      "name": "Coda",
+      "url": "https://open.spotify.com/track/64JOnjcWwrS4y1i5RsZb4o"
+    },
+    {
+      "album": {
         "name": "R\u00eaveries",
         "url": "https://open.spotify.com/album/7MyL55te5fPpNkleFCc56W"
       },
@@ -4086,7 +4104,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 202706,
       "name": "Fractured Light",
       "url": "https://open.spotify.com/track/4XUGZJBkx8OQSayvUfRasb"
@@ -6258,7 +6276,7 @@
       ],
       "date_added": "2020-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 210272,
       "name": "L\u00f3a - Bing & Ruth Rework",
       "url": "https://open.spotify.com/track/3cBQab6CbhO77vgqp5drdA"
@@ -6388,6 +6406,24 @@
       "duration_ms": 235000,
       "name": "Meant To Be",
       "url": "https://open.spotify.com/track/7oTmFx6P6v6ul1vemi20Ng"
+    },
+    {
+      "album": {
+        "name": "Thrive",
+        "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137213,
+      "name": "Memory of Water",
+      "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
     },
     {
       "album": {
@@ -6926,7 +6962,7 @@
       ],
       "date_added": "2020-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 121000,
       "name": "No Ball Games (Original Motion Picture Soundtrack)",
       "url": "https://open.spotify.com/track/4HUsC4vT6Aqeql8FKLfnbJ"
@@ -8910,6 +8946,24 @@
       "duration_ms": 198323,
       "name": "Somnia",
       "url": "https://open.spotify.com/track/3Q1jt1WHNwsszyEAJmyaRL"
+    },
+    {
+      "album": {
+        "name": "Redesigns",
+        "url": "https://open.spotify.com/album/01pxWoM3fYIyryqugVkQdL"
+      },
+      "artists": [
+        {
+          "name": "Carlos Cipa",
+          "url": "https://open.spotify.com/artist/23Yv6j1axUmPPo5M6u6erO"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170000,
+      "name": "Sonata Fragment (Beethoven redesigned)",
+      "url": "https://open.spotify.com/track/1pbad1CITB06vz2er7YtHw"
     },
     {
       "album": {

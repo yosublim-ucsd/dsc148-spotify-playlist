@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: TAAHLIAH",
+  "description": "A new world of alternative electronic music. Cover: Tobiahs",
   "name": "Portal",
   "tracks": [
     {
@@ -1046,6 +1046,24 @@
       "duration_ms": 127634,
       "name": "Angel Music",
       "url": "https://open.spotify.com/track/2d6d1sO8MWqcu30XMuttqa"
+    },
+    {
+      "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/1izDlrauAzvtBvSDn83NKf"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/2lFg6N5CQ1lh3kJUHmtEf4"
     },
     {
       "album": {
@@ -3018,7 +3036,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 228855,
       "name": "Ce Soir",
       "url": "https://open.spotify.com/track/043ZX3Psg0PnONroeaz7XH"
@@ -3142,7 +3160,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-23",
+      "date_removed": null,
       "duration_ms": 249894,
       "name": "CHROMA 002 L.A.V.A",
       "url": "https://open.spotify.com/track/53U1tJGUPNaTUfOqoAsbVx"
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 212339,
       "name": "Dafodil",
       "url": "https://open.spotify.com/track/6VVRLkRdr7EzgKTHzYZ1pa"
@@ -6566,7 +6584,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 146478,
       "name": "GROWUP",
       "url": "https://open.spotify.com/track/4BCHnbhllVVwyVBbHaQwyY"
@@ -8604,7 +8622,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 283620,
       "name": "Let Yourself Go!",
       "url": "https://open.spotify.com/track/7f2cK2TS5SL2yqsJgqMwV1"
@@ -10507,6 +10525,24 @@
     },
     {
       "album": {
+        "name": "Nobody Like U",
+        "url": "https://open.spotify.com/album/1cUynB6rxcJr9c3D0inGxP"
+      },
+      "artists": [
+        {
+          "name": "Harvey Sutherland",
+          "url": "https://open.spotify.com/artist/4CxFlJDif0atTK3gZebcEf"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206040,
+      "name": "Nobody Like U",
+      "url": "https://open.spotify.com/track/1gJgsOWfXRudTbu3AR6XmW"
+    },
+    {
+      "album": {
         "name": "Nothing That I Need",
         "url": "https://open.spotify.com/album/2Uo4lgzxkvNP0QOmX4NOKo"
       },
@@ -10652,7 +10688,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 169668,
       "name": "Oh No",
       "url": "https://open.spotify.com/track/4UOtElYfnpY2CxsTnWhrOA"
@@ -11142,6 +11178,28 @@
       "duration_ms": 275294,
       "name": "OVERTAKE )",
       "url": "https://open.spotify.com/track/7uc5ZdGN0Urx5EmqsGvTiA"
+    },
+    {
+      "album": {
+        "name": "Paquera",
+        "url": "https://open.spotify.com/album/7KBMZwOYrbogOfjQwGDsJa"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "PPJ",
+          "url": "https://open.spotify.com/artist/7KuCPW8FtCyMhcPxrxjeyi"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210476,
+      "name": "Paquera",
+      "url": "https://open.spotify.com/track/2vfVvP7IPIBeltQj1fw1zQ"
     },
     {
       "album": {
@@ -11759,6 +11817,24 @@
     },
     {
       "album": {
+        "name": "QQQQ",
+        "url": "https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203601,
+      "name": "QQQQ",
+      "url": "https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda"
+    },
+    {
+      "album": {
         "name": "DJ-Kicks: HAAi",
         "url": "https://open.spotify.com/album/5f7wLlgF33y9CUibAk3a5z"
       },
@@ -12316,7 +12392,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 216868,
       "name": "Ripples In The Timeline",
       "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
@@ -14522,6 +14598,40 @@
       "duration_ms": 223573,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/322CEeh6aukWbZkqJU8lhI"
+    },
+    {
+      "album": {
+        "name": "take your vibes and go (Taiki Nulight Remix)",
+        "url": "https://open.spotify.com/album/6PT7m57YeMiOZE9fA0YSaB"
+      },
+      "artists": [
+        {
+          "name": "Kito",
+          "url": "https://open.spotify.com/artist/3FLUBwpAnaIlIKeaBfsxFe"
+        },
+        {
+          "name": "Kah-Lo",
+          "url": "https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3"
+        },
+        {
+          "name": "brazy",
+          "url": "https://open.spotify.com/artist/5qdXUxsjbP0UAig0CtqO5b"
+        },
+        {
+          "name": "Baauer",
+          "url": "https://open.spotify.com/artist/25fqWEebq6PoiGQIHIrdtv"
+        },
+        {
+          "name": "Taiki Nulight",
+          "url": "https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182319,
+      "name": "take your vibes and go - Taiki Nulight Remix",
+      "url": "https://open.spotify.com/track/2nbDMerZUp6P3xiKet7mWX"
     },
     {
       "album": {

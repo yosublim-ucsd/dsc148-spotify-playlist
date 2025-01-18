@@ -46,7 +46,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 176170,
       "name": "A Solas",
       "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
@@ -595,6 +595,28 @@
     },
     {
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/29JIy55gOvxwgbTTz4FOrs"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233994,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BlMONswYrMdTaKMyB3Ox6"
+    },
+    {
+      "album": {
         "name": "Cuando Ya Est\u00e9 Muerto",
         "url": "https://open.spotify.com/album/5wlBPVzU5PyNNhNqhR5L3v"
       },
@@ -632,7 +654,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 244878,
       "name": "Cxrtier",
       "url": "https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7"
@@ -1006,6 +1028,24 @@
       "duration_ms": 232375,
       "name": "El Emblema",
       "url": "https://open.spotify.com/track/4txhf5l1bEOkJX83rV0IbA"
+    },
+    {
+      "album": {
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
+      },
+      "artists": [
+        {
+          "name": "LosPetitFellas",
+          "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224521,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
     },
     {
       "album": {
@@ -1907,6 +1947,32 @@
     },
     {
       "album": {
+        "name": "Morricone",
+        "url": "https://open.spotify.com/album/724FnfCim5tuhNIRVwFjjd"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        },
+        {
+          "name": "Pocket Tincho",
+          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233357,
+      "name": "Morricone",
+      "url": "https://open.spotify.com/track/71aX3sroqIFBPq0I3nayj3"
+    },
+    {
+      "album": {
         "name": "QUEEN OF TRAP",
         "url": "https://open.spotify.com/album/19RFiFwKmA8Z3FUjzdVPVi"
       },
@@ -1918,7 +1984,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 146202,
       "name": "Mucha Salsa",
       "url": "https://open.spotify.com/track/7MEam5ltcAIcNUsOTVV0T3"
@@ -2952,7 +3018,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 267133,
       "name": "Sputnik",
       "url": "https://open.spotify.com/track/33U3U0NBr7CDFyIfFqunNX"
@@ -2978,10 +3044,28 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 193043,
       "name": "Sudaca en el Rooftop",
       "url": "https://open.spotify.com/track/3S7C1d8Y3zkL2VUxjDdWhO"
+    },
+    {
+      "album": {
+        "name": "Suero Casero",
+        "url": "https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Suero Casero",
+      "url": "https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP"
     },
     {
       "album": {

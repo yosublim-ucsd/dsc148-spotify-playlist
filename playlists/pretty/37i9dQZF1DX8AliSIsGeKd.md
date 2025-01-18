@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Erly Tepshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 683,525 likes - 90 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 683,960 likes - 90 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 85 | [Love On My Mind](https://open.spotify.com/track/7JPdEKrvfdEXzZ9ON7VKTf) | [Effemar](https://open.spotify.com/artist/3QD8Op2asIft2YDqX154NB) | [Love On My Mind](https://open.spotify.com/album/1joYhhuvWklnJxHHYtoYUj) | 3:06 |
 | 86 | [Systems Down](https://open.spotify.com/track/5MHOWzZhQ3akNsnQIMpJ4x) | [Whoriskey](https://open.spotify.com/artist/6pEsC0Oa5KeLyqhJk2zixU) | [Systems Down](https://open.spotify.com/album/2sszLgcoFKsy1eEaiGtIo1) | 6:12 |
 | 87 | [Royal Way](https://open.spotify.com/track/4DejSZj02DfcoKph3IoHWX) | [Matara](https://open.spotify.com/artist/66fB9EwbHVweTsDtIh50Gz) | [Royal Way](https://open.spotify.com/album/6lflgpHcZTqyiNyYLwhRSO) | 5:56 |
-| 88 | [Selfish Gods](https://open.spotify.com/track/2zeWODGxRUqjcOImeBGteP) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Selfish Gods](https://open.spotify.com/album/4LMUaQouTpkNOJXDEvvMPe) | 3:53 |
+| 88 | [Selfish Gods](https://open.spotify.com/track/2zeWODGxRUqjcOImeBGteP) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH) | [Selfish Gods](https://open.spotify.com/album/4LMUaQouTpkNOJXDEvvMPe) | 3:52 |
 | 89 | [Spune](https://open.spotify.com/track/0KofiaNYs5ryC02egd1ysY) | [Crihan](https://open.spotify.com/artist/1xn7qDCSTB4NNqj4OYAJIf) | [Spune](https://open.spotify.com/album/4iy9TnxaHP3EvIGJ8GD7Pn) | 7:39 |
 | 90 | [Intensity Is Your Gift \- MLF Remix](https://open.spotify.com/track/5DKFk2AKO30rLaXBAauJpm) | [Vhyce](https://open.spotify.com/artist/5rzLwPhUU0Fh8KEM021KHa), [MLF](https://open.spotify.com/artist/0CjhUACd0GPS2hBPZZIoQi) | [Intensity Is Your Gift \(MLF Remix\)](https://open.spotify.com/album/2ALwosfZ75tGoZjQtvf5us) | 3:39 |
 

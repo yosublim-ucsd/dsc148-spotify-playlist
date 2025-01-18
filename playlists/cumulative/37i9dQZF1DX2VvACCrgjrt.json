@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Real nasty house \ud83d\ude08\ud83d\ude08 featuring Malaa",
+  "description": "Real nasty house \ud83d\udd25\ud83d\udd25 with Malaa",
   "name": "Nasty Bits",
   "tracks": [
     {
@@ -436,7 +436,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 183307,
       "name": "Alive",
       "url": "https://open.spotify.com/track/7JIAmKYpFq8uGleXuG1aUJ"
@@ -822,6 +822,28 @@
       "duration_ms": 207096,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/1HhfEj6K1gObPfi1nQfOyN"
+    },
+    {
+      "album": {
+        "name": "Arsonist",
+        "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "Arsonist",
+      "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
     },
     {
       "album": {
@@ -1446,7 +1468,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 162519,
       "name": "Badman Calling (feat. XO Man)",
       "url": "https://open.spotify.com/track/45qNoMn5mhess62JeqGM6v"
@@ -1678,6 +1700,24 @@
       "duration_ms": 158330,
       "name": "Bark Me",
       "url": "https://open.spotify.com/track/6IuzkMqkhCx5j8PdHlrIsS"
+    },
+    {
+      "album": {
+        "name": "Bass",
+        "url": "https://open.spotify.com/album/3JLr4kDFIYrVOwZDxHZEoy"
+      },
+      "artists": [
+        {
+          "name": "OKAYVAL",
+          "url": "https://open.spotify.com/artist/41TOOGX3nHghrVvmDJDHhQ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Bass",
+      "url": "https://open.spotify.com/track/2Yeg5H1I7pG9KQSN4wLw5I"
     },
     {
       "album": {
@@ -9397,6 +9437,24 @@
     },
     {
       "album": {
+        "name": "LA FAMILIA",
+        "url": "https://open.spotify.com/album/2jwif4T7jgWBTy5Sp5gPnN"
+      },
+      "artists": [
+        {
+          "name": "Kelland",
+          "url": "https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160827,
+      "name": "LA FAMILIA",
+      "url": "https://open.spotify.com/track/5KoHcFPZXpYY4PefooRiK6"
+    },
+    {
+      "album": {
         "name": "La Guitarra",
         "url": "https://open.spotify.com/album/4KBdjN4l1BQ54gd5m9MM9L"
       },
@@ -9416,6 +9474,24 @@
       "duration_ms": 169523,
       "name": "La Guitarra",
       "url": "https://open.spotify.com/track/6G6gv3EH3kWjm35x6tcsOF"
+    },
+    {
+      "album": {
+        "name": "Laka",
+        "url": "https://open.spotify.com/album/0ziloEkcViS8IZqFSI2L82"
+      },
+      "artists": [
+        {
+          "name": "MNNR",
+          "url": "https://open.spotify.com/artist/4yZ4oFs7rKNy4OXlZmcZnd"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Laka",
+      "url": "https://open.spotify.com/track/4KQV5pAijUOPOShDq0vmeV"
     },
     {
       "album": {
@@ -11969,6 +12045,24 @@
     },
     {
       "album": {
+        "name": "All In",
+        "url": "https://open.spotify.com/album/2my3scIg8dImUFBYcn3DEG"
+      },
+      "artists": [
+        {
+          "name": "Malaa",
+          "url": "https://open.spotify.com/artist/7w1eTNePApzDk8XtgykCPS"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Nobody",
+      "url": "https://open.spotify.com/track/2fxHu4Nfnt1Htt3Epsd5DY"
+    },
+    {
+      "album": {
         "name": "Non Stop",
         "url": "https://open.spotify.com/album/4fNaGRwWUfJfRoalFeUx9w"
       },
@@ -13675,6 +13769,28 @@
     },
     {
       "album": {
+        "name": "Rave Shake",
+        "url": "https://open.spotify.com/album/5aIIhw5GG718f2IKeOLNtj"
+      },
+      "artists": [
+        {
+          "name": "BROHUG",
+          "url": "https://open.spotify.com/artist/3IHsD0sttucHrX8b32Vcab"
+        },
+        {
+          "name": "Medium Rare",
+          "url": "https://open.spotify.com/artist/5bt2kSI1bD3Xfc70srooOK"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166299,
+      "name": "Rave Shake",
+      "url": "https://open.spotify.com/track/2lAELGJkxooRfmIizN5aqw"
+    },
+    {
+      "album": {
         "name": "Ravers Bounce",
         "url": "https://open.spotify.com/album/0nj0CJnBAKK7gkrXQgczxi"
       },
@@ -13712,7 +13828,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 141230,
       "name": "RAW",
       "url": "https://open.spotify.com/track/5ElgsT69PjIdtLzZxV7DcX"
@@ -15019,6 +15135,28 @@
     },
     {
       "album": {
+        "name": "nolimit",
+        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Naliya",
+          "url": "https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196129,
+      "name": "shake!the!city!",
+      "url": "https://open.spotify.com/track/0AdQigPVEFZrgzdBGHEnuC"
+    },
+    {
+      "album": {
         "name": "Shalala",
         "url": "https://open.spotify.com/album/7y6Znxh8mmSubMCbwqZBKv"
       },
@@ -15458,7 +15596,7 @@
       ],
       "date_added": "2023-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 191250,
       "name": "SOOTHSAYER (Jon Casey Remix)",
       "url": "https://open.spotify.com/track/6XWrXUk2UB4porMxQXFljZ"
@@ -16952,7 +17090,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 197841,
       "name": "The Power",
       "url": "https://open.spotify.com/track/2GaS9ec79BY9G6TW850wTe"
@@ -17608,7 +17746,7 @@
       ],
       "date_added": "2023-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 142445,
       "name": "Turn Up The Volume",
       "url": "https://open.spotify.com/track/2Y6ighvPsMpW8fIfUQzYXf"
@@ -18258,7 +18396,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 150639,
       "name": "What She Said",
       "url": "https://open.spotify.com/track/6oCpeIsU0vHpu2cIx2B1it"

@@ -4,7 +4,7 @@
 
 > Jazzy blips and blops
 
-425 songs - 1 day 1 hr 35 min
+426 songs - 1 day 1 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [88' Jason](https://open.spotify.com/track/1gTFeBtNXNU0ibIThvm0xc) | [Marcus Alan Ward](https://open.spotify.com/artist/7vaVHucaokI1K9NDZUqcB2), [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [88' Jason](https://open.spotify.com/album/5ouV0Mf6x1mMggYSGGOY4S) | 3:12 | 2022-10-21 | 2023-01-03 |
 | [A Night In Tunisia](https://open.spotify.com/track/1MMywhwJKpbVZeDlBAzOAH) | [Grace Kelly](https://open.spotify.com/artist/7bcjgJLky9kVQ4GcrQTibn) | [A Night in Tunisia](https://open.spotify.com/album/3mW1oqsOSmA7kaRPJ8wDZp) | 4:14 | 2022-10-21 |  |
 | [A Vibe](https://open.spotify.com/track/0ajpCcbA9tTaY4WycQJhm8) | [Blue Lab Beats](https://open.spotify.com/artist/4YLUMAgNyttwx4hUHgtBtR) | [Motherland Journey](https://open.spotify.com/album/1Ot6KlRfnV6vGwcQPpr6eg) | 3:38 | 2022-03-18 |  |
-| [Above Us](https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Above Us](https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa) | 2:42 | 2023-01-06 |  |
+| [Above Us](https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Above Us](https://open.spotify.com/album/5JDYGlqd6K6xmQJWtANYZa) | 2:42 | 2023-01-06 | 2025-01-18 |
 | [Aesthetics](https://open.spotify.com/track/6NFK9JpsD1M2YauNoEIdFG) | [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [Nico Harris](https://open.spotify.com/artist/7uG2WfWc9JvU3scV41GzpM) | [College Music Presents: In The Loop](https://open.spotify.com/album/60kQLr90yH2VLifc0D18Ya) | 2:39 | 2022-12-09 |  |
 | [Afro Blue](https://open.spotify.com/track/0if7xE45Jdg7QiJcXqMA12) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Satin Doll](https://open.spotify.com/album/3U2s9YywNQ7kA5TNgEFHyM) | 3:15 | 2021-01-29 | 2022-01-13 |
 | [Afro Blue](https://open.spotify.com/track/6OV5AAEspMRkv7uVsNQiRk) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk) | [Afro Blue](https://open.spotify.com/album/6Pxk9yPJlLqh8vTYg68YTu) | 3:15 | 2021-01-29 | 2022-03-15 |
@@ -417,6 +417,7 @@
 | [Who Feels It Knows It](https://open.spotify.com/track/7EYT5MVdDefH8RD8AmkQn2) | [Sunnyside Electric](https://open.spotify.com/artist/1bx2iY7qBgQBiQmYCHRi1U), [Luis Sigüenza](https://open.spotify.com/artist/3xDs547f3Xg4cNGt1eT1ql), [Justus Heher](https://open.spotify.com/artist/0yMJoO3Z1jIxZdk6nZd0P8), [David Baylies](https://open.spotify.com/artist/5S036sLb8sIMiVxMMUdzhA), [Steven McArdle](https://open.spotify.com/artist/2RvApkiagXXEXYip2eUu0a), [Vid Jamnik](https://open.spotify.com/artist/2kRKc7MnKvdxcjCqmguxKO), [Sousastep](https://open.spotify.com/artist/12OpXcX0kDIYU6EBIFDj6N) | [Who Feels It Knows It](https://open.spotify.com/album/4QFGpVgLpANQ6pgSxreb0d) | 3:02 | 2022-07-29 |  |
 | [Why Not Jungle](https://open.spotify.com/track/0R7j6lvGVhpcs15ePBLLr7) | [Skalpel](https://open.spotify.com/artist/4NMgXxIMZeiJ5PqxdA0t6q) | [Why Not Jungle](https://open.spotify.com/album/40oY1hBdf6Inarnr3iM8sC) | 4:24 | 2022-09-02 |  |
 | [Wild](https://open.spotify.com/track/0pLNBfL8hIf58lqpFgIhct) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wild](https://open.spotify.com/album/6FOuijhx9uJTJkL7XtMkn6) | 2:02 | 2023-06-23 | 2023-09-16 |
+| [Wild and Steady](https://open.spotify.com/track/4y5w91db336cCz1AwPCNna) | [Nathan\-Paul](https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB) | [Wild and Steady](https://open.spotify.com/album/2vcPFnOKUrwhJQKoo4p7C3) | 2:03 | 2025-01-17 |  |
 | [Wonder](https://open.spotify.com/track/3AniDSYZmzsDI06ENTimiz) | [Keeth](https://open.spotify.com/artist/5sv0yfLOm69KAnjd5mg52u) | [Wonder](https://open.spotify.com/album/0V6u5oyZhB5vx1EJroIXi2) | 2:07 | 2023-07-21 |  |
 | [Wonderland](https://open.spotify.com/track/2KMe85RjUyossAhvG4C1Eg) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/5UkSvvmhb6LelIKVQzTpG0) | 5:08 | 2021-03-05 | 2022-06-14 |
 | [Wonderland](https://open.spotify.com/track/31TqU3iyfmDGlNMo2rIRRY) | [A Certain Ratio](https://open.spotify.com/artist/2vygNfdnPBXah21ZrqhxYk) | [Wonderland](https://open.spotify.com/album/6lMjY92u9KVkfwVqJ5z2js) | 5:08 | 2021-03-12 | 2024-03-02 |

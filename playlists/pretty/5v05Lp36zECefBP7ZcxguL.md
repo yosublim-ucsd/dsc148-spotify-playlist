@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain]
 
 > Les meilleures musiques de l'année 2024 sélectionnées par la radio GRRIF\. <a href="http://www.grrif.ch">www.grrif.ch</a>
 
-[GRRIF](https://open.spotify.com/user/grrifradio) - 750 likes - 100 songs - 5 hr 36 min
+[GRRIF](https://open.spotify.com/user/grrifradio) - 751 likes - 100 songs - 5 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/5v05Lp36zECefBP7ZcxguL.md) - [plain]
 | 10 | [Love On You](https://open.spotify.com/track/0xV1udwDCxDnX2srYNxRpl) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [This Must Be A PawPaw Rod EP](https://open.spotify.com/album/7kCZCWQ1F3MAEQYEvcqQQF) | 3:07 |
 | 11 | [Far Away](https://open.spotify.com/track/7p6ru2D2smv8ga7f06JkTo) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI) | [Drop 7](https://open.spotify.com/album/2jK2rbbnrzsId5WWSc67HP) | 3:07 |
 | 12 | [Colors](https://open.spotify.com/track/37LWLqF9BwUcS9V6gtlMh4) | [Chenayder](https://open.spotify.com/artist/0BXnfQpsxFevtKePq6eX4y), [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [Maybe In Another Life](https://open.spotify.com/album/06eUuvfojvijkzWKr8uxLL) | 3:06 |
-| 13 | [Howlin' At The New Moon \(feat\. Mayer Hawthorne\)](https://open.spotify.com/track/154L2lO2eB160ZgHXpmSyl) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Do What Makes You Happy](https://open.spotify.com/album/7qr7ZwsgWStbaTrYlHIwYy) | 3:24 |
+| 13 | [Howlin' At The New Moon](https://open.spotify.com/track/154L2lO2eB160ZgHXpmSyl) | [Alice Ivy](https://open.spotify.com/artist/5hJy2vZbK50JNuVK6pvVR2), [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Do What Makes You Happy](https://open.spotify.com/album/7qr7ZwsgWStbaTrYlHIwYy) | 3:24 |
 | 14 | [Mulholland's Dinner and Wine](https://open.spotify.com/track/4nCNS9SexVaW62PGIbAjtF) | [Declan McKenna](https://open.spotify.com/artist/2D4FOOOtWycb3Aw9nY5n3c) | [What Happened to the Beach?](https://open.spotify.com/album/1qgVGhtiq8P6tfURWqDPX5) | 3:21 |
 | 15 | [SHOWER SONG](https://open.spotify.com/track/1T4prPBswtPajU0dzUkCia) | [Tierra Whack](https://open.spotify.com/artist/4lPl9gqgox3JDiaJ1yklKh) | [WORLD WIDE WHACK](https://open.spotify.com/album/128kgBRYqmfY4EjTOhiDWq) | 2:43 |
 | 16 | [Run Your Mouth](https://open.spotify.com/track/19fKJrO9XdOf6Xla2QHecO) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 2:40 |

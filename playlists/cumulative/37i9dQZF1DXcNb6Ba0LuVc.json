@@ -2059,6 +2059,24 @@
     },
     {
       "album": {
+        "name": "crisps & frizzles",
+        "url": "https://open.spotify.com/album/6yoBJb9g9641zQeJehXTNV"
+      },
+      "artists": [
+        {
+          "name": "SPUDB",
+          "url": "https://open.spotify.com/artist/21zky5Q21cXOpPlec8XnM6"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140307,
+      "name": "crisps & frizzles",
+      "url": "https://open.spotify.com/track/7eDUBsCpwelJStcnDkwB72"
+    },
+    {
+      "album": {
         "name": "Thousand Islands",
         "url": "https://open.spotify.com/album/1xYOX8UICuZXSwo1e7vLVy"
       },
@@ -2482,7 +2500,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 149250,
       "name": "Fantasy",
       "url": "https://open.spotify.com/track/602YfZUMO4FM5NcEzKf3SL"
@@ -3431,6 +3449,28 @@
     },
     {
       "album": {
+        "name": "Harvest",
+        "url": "https://open.spotify.com/album/5R749lPQYZku7ygy4UFt1J"
+      },
+      "artists": [
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
+        },
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115662,
+      "name": "Harvest",
+      "url": "https://open.spotify.com/track/4ZNo6Sa53jLKNPemk5bGYU"
+    },
+    {
+      "album": {
         "name": "SUMMER",
         "url": "https://open.spotify.com/album/0kIdu5ROzz19KB1SMABQ4W"
       },
@@ -3911,6 +3951,24 @@
     },
     {
       "album": {
+        "name": "Im Like Ice, Buddy",
+        "url": "https://open.spotify.com/album/7limCyVYGVJjik6yeFef92"
+      },
+      "artists": [
+        {
+          "name": "Cosmoo",
+          "url": "https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124895,
+      "name": "Im Like Ice, Buddy",
+      "url": "https://open.spotify.com/track/0QEfHUCh4fM9BOziJAZRG4"
+    },
+    {
+      "album": {
         "name": "Incredibly happy",
         "url": "https://open.spotify.com/album/4aE1MMVBFm1WESG0pRYHJs"
       },
@@ -4106,7 +4164,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 135529,
       "name": "JazzRevelations",
       "url": "https://open.spotify.com/track/2bCtCoIk4C9vwblph83dru"
@@ -9628,7 +9686,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 150524,
       "name": "Too Far Gone",
       "url": "https://open.spotify.com/track/1AadAbds0Iy5BwY5VZrhyg"

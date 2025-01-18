@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0sDai2F5jCQ.md) - [plain]
 
 > Your shortcut to the best new Hip Hop\. Cover: ONEFOUR
 
-[Spotify](https://open.spotify.com/user/spotify) - 504,923 likes - 54 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 504,920 likes - 54 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

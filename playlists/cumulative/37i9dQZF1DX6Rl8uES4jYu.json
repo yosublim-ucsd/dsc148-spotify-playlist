@@ -971,6 +971,32 @@
     },
     {
       "album": {
+        "name": "Believe In Ya",
+        "url": "https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179089,
+      "name": "Believe In Ya",
+      "url": "https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh"
+    },
+    {
+      "album": {
         "name": "Berlin 1",
         "url": "https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j"
       },
@@ -3344,7 +3370,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 183673,
       "name": "Good Mood",
       "url": "https://open.spotify.com/track/14Yvoau2QPIpHpI0uMJrOB"

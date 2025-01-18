@@ -4,7 +4,7 @@
 
 > Lull your little ones with piano music.
 
-693 songs - 21 hr 6 min
+695 songs - 21 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,7 +14,7 @@
 | [A Day of Fun](https://open.spotify.com/track/34I4zd3dNRDV3t9Q4oC2iQ) | [Isaac Trager](https://open.spotify.com/artist/06Ae73UENmF3flHQXpumU8) | [A Day of Fun](https://open.spotify.com/album/5GF0jPqSNbB2xlyFvlbESv) | 1:43 | 2024-10-25 |  |
 | [A Dream is a Wish Your Heart Makes](https://open.spotify.com/track/5zAG6QyEaqloTJPLn9wexX) | [Mark J Welles](https://open.spotify.com/artist/28MAEVYUiojJMpu7EqtBbr) | [A Dream is a Wish Your Heart Makes](https://open.spotify.com/album/2pCLp3sqJ72I9xSHEHLXhx) | 2:21 | 2021-10-07 | 2022-05-14 |
 | [A Friend Like You](https://open.spotify.com/track/3lUeZg1nFKs90uuP759lLx) | [Evelina Krueger](https://open.spotify.com/artist/5GlrFOukoWnBdZ7wIYfjcw) | [A Friend Like You](https://open.spotify.com/album/48s2eCCUzsLCDMu7oDAw4A) | 1:38 | 2022-01-21 |  |
-| [A Friend through the Night](https://open.spotify.com/track/2kETvpBJv1he7g3ofgtkaj) | [Joey Ty](https://open.spotify.com/artist/3PpceQMvXxZBxsF0v4yojB) | [A Friend through the Night](https://open.spotify.com/album/7jVd2qD7qlF1WX9CZWtI5w) | 1:09 | 2021-10-07 |  |
+| [A Friend through the Night](https://open.spotify.com/track/2kETvpBJv1he7g3ofgtkaj) | [Joey Ty](https://open.spotify.com/artist/3PpceQMvXxZBxsF0v4yojB) | [A Friend through the Night](https://open.spotify.com/album/7jVd2qD7qlF1WX9CZWtI5w) | 1:09 | 2021-10-07 | 2025-01-18 |
 | [A Little Miracle](https://open.spotify.com/track/75hEpUsgtjTqpvXbXJbft1) | [Serge Charlesbois](https://open.spotify.com/artist/58V4mpAIaMxa7yoCHnO24S) | [A Little Miracle](https://open.spotify.com/album/2WfyBbf2UawU7JNcsq1WmF) | 1:31 | 2022-01-21 |  |
 | [A Little Sun Rises](https://open.spotify.com/track/2psD0UIayu6V1oC20BKhKx) | [Jesse Holderman](https://open.spotify.com/artist/7oquH151NkXtAdQmXJZuez) | [A Little Sun Rises](https://open.spotify.com/album/52UkXhpFKB4uzKy0NdfbWc) | 2:04 | 2022-04-19 |  |
 | [A Miracle Under The Stars](https://open.spotify.com/track/6ZdTPcYHN0qxQfvKKNMPLG) | [Mylène Longet](https://open.spotify.com/artist/04hDeBzE5iAfVUqJDHobCQ) | [A Miracle Under The Stars](https://open.spotify.com/album/3EHWjNYtw8C3AFD5vXVuwL) | 2:05 | 2023-12-22 |  |
@@ -327,6 +327,7 @@
 | [Lille katt](https://open.spotify.com/track/08ZmHvSIhQl4T8zCEcvQuH) | [Hans Mölle](https://open.spotify.com/artist/7mfBLnW1eJRw9uYBT3f9ut) | [Lille katt](https://open.spotify.com/album/7G58XkRFL2Bu7i21wxd0Ye) | 1:31 | 2023-01-13 | 2023-08-19 |
 | [Lily's Lullaby](https://open.spotify.com/track/514iqNsy7WFVUXMfYnpNAU) | [Florentine Keys](https://open.spotify.com/artist/2Te57Yhv7Zizg4MuwuWYwU) | [Lily's Lullaby](https://open.spotify.com/album/3Db7Bl8AXL5Gy5oP5wcG9W) | 1:04 | 2021-10-07 | 2023-04-09 |
 | [Little Boy](https://open.spotify.com/track/5vl7yLTgL1cpEmUqtMhk9n) | [Auley Gere](https://open.spotify.com/artist/2JlV3vR07HGe6joOPztyuz) | [Little Boy](https://open.spotify.com/album/70GsT9wbvO2cUu0lhKnuvQ) | 2:35 | 2021-10-07 | 2023-06-16 |
+| [Little Dragon's Lullaby](https://open.spotify.com/track/6fOe1dLvD3bbJ9Nloabwgd) | [Chasing Mice](https://open.spotify.com/artist/5emC0ACttJgLui278GswPX) | [Little Dragon's Lullaby](https://open.spotify.com/album/5qD0GAjKGj2rVxrotxyHhL) | 2:03 | 2025-01-17 |  |
 | [Little Footies](https://open.spotify.com/track/4yljoNN95SdgQfk4euOCCa) | [Megan Fisher](https://open.spotify.com/artist/7GMaLb5prPuSPChGvMVyS4) | [Bottle Full of Milk](https://open.spotify.com/album/0lfpLadDQr994NWedMqJGZ) | 2:09 | 2021-10-07 | 2022-02-11 |
 | [Little George](https://open.spotify.com/track/2FQzlc7Ce8DRqJJXaoB9Yg) | [Thora Nelson](https://open.spotify.com/artist/32SpgZv8WZjxnzitTsP6R3) | [Little George](https://open.spotify.com/album/6MAEf2HE0oXGtnxmHRcXzh) | 1:57 | 2021-10-07 | 2024-03-29 |
 | [Little Juniper Tree](https://open.spotify.com/track/73LIz9HyLLfU1KsSSI3Xjm) | [Klara Söderman](https://open.spotify.com/artist/3M4QRATGYND6tUfBYU0Qyt) | [Little Juniper Tree](https://open.spotify.com/album/1F0uOct26s41A46zw0jwom) | 1:01 | 2023-10-20 |  |
@@ -399,6 +400,7 @@
 | [My Little Angel](https://open.spotify.com/track/7q2niOhFitCLwzgYM1arxn) | [Fraire Jaques](https://open.spotify.com/artist/449CtTB6t83bfPppU0GcfI) | [My Little Angel](https://open.spotify.com/album/4uuolQ8meACNGcHA8l5QgM) | 3:02 | 2021-10-07 | 2022-10-29 |
 | [My Little Musketeer](https://open.spotify.com/track/63KsY0VHBe1b78GLFu66rE) | [Agnes Widell](https://open.spotify.com/artist/6HpjNjCZmdoljjATAMaGHH) | [My Little Musketeer](https://open.spotify.com/album/1FY781TMk7oKgWieSLToXF) | 1:09 | 2021-10-07 | 2022-10-29 |
 | [My little sunshine](https://open.spotify.com/track/05CZrbMz2xWGCYn6I9g0nK) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [My little sunshine](https://open.spotify.com/album/7b1bk1Vr4C32XOgm2f1LXt) | 1:41 | 2022-06-30 | 2023-06-09 |
+| [My Little Superhero](https://open.spotify.com/track/2BpOILC6eTzpMDoFEx89Tb) | [Willow Leaf](https://open.spotify.com/artist/0kXI6vuhwYJE1daFSIduNU) | [My Little Superhero](https://open.spotify.com/album/5F4NSywFa9999QiEcSLugZ) | 2:35 | 2025-01-17 |  |
 | [My Moonlight](https://open.spotify.com/track/37bKSz4TZdTjPbCuPhTOS2) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [My Moonlight](https://open.spotify.com/album/3mPWcoL9GJPDUFZqHcWNfS) | 2:37 | 2024-08-30 |  |
 | [My Neighbour Nellie](https://open.spotify.com/track/4p8dNTAfY9aYqbUxjOOvkq) | [Vivian Hutchings](https://open.spotify.com/artist/05nMNToGOyGhqH0OrutEBf) | [My Neighbour Nellie](https://open.spotify.com/album/6G0FfEQPyxz2q58x92BDQK) | 1:31 | 2021-10-07 |  |
 | [My Night Story](https://open.spotify.com/track/2sDtiIjbQvJ0JP59zwPcnF) | [Vanessa Cino](https://open.spotify.com/artist/7Mw9GnKY2QTjLQQ06uuD8s) | [My Night Story](https://open.spotify.com/album/4elJsUiULx1qOYqh1aFLj2) | 1:52 | 2022-06-30 |  |
@@ -626,7 +628,7 @@
 | [Three Blind Mice](https://open.spotify.com/track/1Si6lEQAINTYVQIqebg3bl) | [Sally Holland](https://open.spotify.com/artist/5ozhAjJnyusQHHWCp9GmYy) | [Three Blind Mice](https://open.spotify.com/album/5mFKieElrxD0cmvAQlUgO0) | 2:24 | 2023-12-08 |  |
 | [Three Jolly Fishermen](https://open.spotify.com/track/43F86Pd7zjLtyPx3pxD02P) | [Kim Savege](https://open.spotify.com/artist/2UdEGunC9lK2FrpV4Rf1gZ) | [Three Jolly Fishermen](https://open.spotify.com/album/52LqGrg4oRQmr6skk5RIuV) | 1:18 | 2024-02-09 |  |
 | [Three little cats](https://open.spotify.com/track/4U8Wd1xF2vwZjc8p6XQnyy) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Three little cats](https://open.spotify.com/album/1TkptoHSTe9vrQyiZLBSjR) | 1:25 | 2024-03-22 |  |
-| [Through Thick And Thin](https://open.spotify.com/track/1UOGW0L8xvbQHlJVrDngtJ) | [Jamie Milford](https://open.spotify.com/artist/1pOqbevY6sXz577mYh0GUM) | [Through Thick And Thin](https://open.spotify.com/album/5aIhPyC1cC30v6j03E5jWQ) | 1:59 | 2021-10-07 |  |
+| [Through Thick And Thin](https://open.spotify.com/track/1UOGW0L8xvbQHlJVrDngtJ) | [Jamie Milford](https://open.spotify.com/artist/1pOqbevY6sXz577mYh0GUM) | [Through Thick And Thin](https://open.spotify.com/album/5aIhPyC1cC30v6j03E5jWQ) | 1:59 | 2021-10-07 | 2025-01-18 |
 | [Tickled Pink](https://open.spotify.com/track/5A5pxPH7uPfEP5p1PPHY5p) | [Jesse Holderman](https://open.spotify.com/artist/7oquH151NkXtAdQmXJZuez) | [Tickled Pink](https://open.spotify.com/album/3cHhdshyNOq2RYPzuUKhwJ) | 1:46 | 2021-10-07 | 2024-03-29 |
 | [Time for bed](https://open.spotify.com/track/6LRZFl99CLpefnYgmXQZoj) | [Eleonora Hart](https://open.spotify.com/artist/2NtgCvZABqYJDTpdR3Ruzt) | [Time for bed](https://open.spotify.com/album/7x5gJTjUMRz71L5X2Zq7sZ) | 2:10 | 2021-10-07 | 2022-12-24 |
 | [Time to say good night](https://open.spotify.com/track/2qYL484kH1dSW80lw0IfqC) | [Myrna Maguire](https://open.spotify.com/artist/0Hfs99lRGuzu8SRwQ0qWrB) | [Time to say good night](https://open.spotify.com/album/0W7CtKDGmjiOCUi4xlqWBj) | 2:21 | 2021-10-07 |  |

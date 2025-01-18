@@ -1,6 +1,6 @@
 {
   "description": "Latest Pakistani pop releases. Like this? Listen to the Pop hits in <a href=\"https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b\"> Pakistani Pop</a>. Cover - Ali Sethi",
-  "num_followers": 11171,
+  "num_followers": 11181,
   "original_name": "New Pakistani Pop",
   "owner": {
     "name": "Spotify",
@@ -27,6 +27,22 @@
     {
       "added_at": "2025-01-17 02:00:30",
       "album": {
+        "name": "Umeedon Ki",
+        "url": "https://open.spotify.com/album/4odGDsUGaQx1CR62FmviWH"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "duration_ms": 290963,
+      "name": "Umeedon Ki",
+      "url": "https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF"
+    },
+    {
+      "added_at": "2025-01-17 02:00:30",
+      "album": {
         "name": "Aadhey Adhoorey",
         "url": "https://open.spotify.com/album/4LyJ3UBUTCmoZC8SVCYPqM"
       },
@@ -43,6 +59,22 @@
       "duration_ms": 173124,
       "name": "Aadhey Adhoorey",
       "url": "https://open.spotify.com/track/6vjdxjLwPkIf8DQVeQgR8V"
+    },
+    {
+      "added_at": "2025-01-17 02:00:30",
+      "album": {
+        "name": "LV (Ja Re Ja)",
+        "url": "https://open.spotify.com/album/6IOeC3lO07Jr4flPHV3VuW"
+      },
+      "artists": [
+        {
+          "name": "Taha G",
+          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
+        }
+      ],
+      "duration_ms": 187374,
+      "name": "LV (Ja Re Ja)",
+      "url": "https://open.spotify.com/track/0E6bYWfPxfEEDKpSCDvRti"
     },
     {
       "added_at": "2025-01-17 02:00:30",
@@ -119,7 +151,7 @@
     {
       "added_at": "2025-01-17 02:00:30",
       "album": {
-        "name": "Dil Le Ke",
+        "name": "Dil Leke",
         "url": "https://open.spotify.com/album/3qYRXCzoU0z3uJB0KCNezV"
       },
       "artists": [
@@ -129,7 +161,7 @@
         }
       ],
       "duration_ms": 218863,
-      "name": "Dil Le Ke",
+      "name": "Dil Leke",
       "url": "https://open.spotify.com/track/3vFwuZnjH9h1o0WTQqZlLy"
     },
     {

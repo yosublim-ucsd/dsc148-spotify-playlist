@@ -1,6 +1,6 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Trettmann, MAJAN",
-  "num_followers": 585420,
+  "num_followers": 585411,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
@@ -143,22 +143,6 @@
     {
       "added_at": "2025-01-16 23:00:40",
       "album": {
-        "name": "Manchmal",
-        "url": "https://open.spotify.com/album/2HRMladOnjtIZcpDQF0wAy"
-      },
-      "artists": [
-        {
-          "name": "KC Rebell",
-          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Manchmal",
-      "url": "https://open.spotify.com/track/4JJQyGWn7U6UfvWgAqU4Y1"
-    },
-    {
-      "added_at": "2025-01-16 23:00:40",
-      "album": {
         "name": "pass auf mein herz auf",
         "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 156143,
       "name": "mit dir ist es anders",
       "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
+    },
+    {
+      "added_at": "2025-01-16 23:00:40",
+      "album": {
+        "name": "Manchmal",
+        "url": "https://open.spotify.com/album/2HRMladOnjtIZcpDQF0wAy"
+      },
+      "artists": [
+        {
+          "name": "KC Rebell",
+          "url": "https://open.spotify.com/artist/5p7mWeX4RlvqBCxylfiXdE"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Manchmal",
+      "url": "https://open.spotify.com/track/4JJQyGWn7U6UfvWgAqU4Y1"
     },
     {
       "added_at": "2025-01-16 23:00:40",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-01-16 23:00:40",
       "album": {
-        "name": "Farbenblind EP",
-        "url": "https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 148414,
-      "name": "Farbenblind",
-      "url": "https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz"
-    },
-    {
-      "added_at": "2025-01-16 23:00:40",
-      "album": {
         "name": "RED CUPS (feat. Paula Hartmann)",
         "url": "https://open.spotify.com/album/5w6vzpDKAOE0zEihBK6DYT"
       },
@@ -367,6 +351,22 @@
       "duration_ms": 206259,
       "name": "RED CUPS (feat. Paula Hartmann)",
       "url": "https://open.spotify.com/track/4MQEO1kn7nPytvAImsLyzs"
+    },
+    {
+      "added_at": "2025-01-16 23:00:40",
+      "album": {
+        "name": "Farbenblind EP",
+        "url": "https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI"
+      },
+      "artists": [
+        {
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
+        }
+      ],
+      "duration_ms": 148414,
+      "name": "Farbenblind",
+      "url": "https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz"
     },
     {
       "added_at": "2025-01-16 23:00:40",
@@ -967,22 +967,6 @@
     {
       "added_at": "2025-01-16 23:00:40",
       "album": {
-        "name": "Unzertrennlich",
-        "url": "https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 178500,
-      "name": "Unzertrennlich",
-      "url": "https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ"
-    },
-    {
-      "added_at": "2025-01-16 23:00:40",
-      "album": {
         "name": "Wo willst du hin",
         "url": "https://open.spotify.com/album/3iiwJPvHpXKkd7q6zypjH9"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 169360,
       "name": "Wo willst du hin",
       "url": "https://open.spotify.com/track/5LQWQfkGvMS73vYd3JMCP5"
+    },
+    {
+      "added_at": "2025-01-16 23:00:40",
+      "album": {
+        "name": "Unzertrennlich",
+        "url": "https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ"
+      },
+      "artists": [
+        {
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
+        }
+      ],
+      "duration_ms": 178500,
+      "name": "Unzertrennlich",
+      "url": "https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ"
     },
     {
       "added_at": "2025-01-16 23:00:40",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2025-01-16 23:00:40",
       "album": {
+        "name": "Let me love you",
+        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
+      },
+      "artists": [
+        {
+          "name": "EstA",
+          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
+        }
+      ],
+      "duration_ms": 167889,
+      "name": "Let me love you",
+      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
+    },
+    {
+      "added_at": "2025-01-16 23:00:40",
+      "album": {
         "name": "NuR Du :/",
         "url": "https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 206085,
       "name": "NuR Du :/",
       "url": "https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0"
-    },
-    {
-      "added_at": "2025-01-16 23:00:40",
-      "album": {
-        "name": "Let me love you",
-        "url": "https://open.spotify.com/album/7JzgE4gyrzuWpLKz9PBCJX"
-      },
-      "artists": [
-        {
-          "name": "EstA",
-          "url": "https://open.spotify.com/artist/2H5RJPxjfOKonBVphYdRzG"
-        }
-      ],
-      "duration_ms": 167889,
-      "name": "Let me love you",
-      "url": "https://open.spotify.com/track/5WtgFOXW3BOS8bwNcD72hw"
     },
     {
       "added_at": "2025-01-16 23:00:40",
@@ -1327,6 +1327,26 @@
     {
       "added_at": "2025-01-16 23:00:40",
       "album": {
+        "name": "NaNa",
+        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
+      },
+      "artists": [
+        {
+          "name": "Lune",
+          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
+        },
+        {
+          "name": "Kauta",
+          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
+        }
+      ],
+      "duration_ms": 141313,
+      "name": "NaNa",
+      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
+    },
+    {
+      "added_at": "2025-01-16 23:00:40",
+      "album": {
         "name": "Elbe",
         "url": "https://open.spotify.com/album/49fAdOAW2qhJWhpDayFcKg"
       },
@@ -1359,26 +1379,6 @@
       "duration_ms": 129136,
       "name": "Du Liebst Mich Auch PT. II (feat. Florentina)",
       "url": "https://open.spotify.com/track/1fuVhmutAEfV4exgyyFnIJ"
-    },
-    {
-      "added_at": "2025-01-16 23:00:40",
-      "album": {
-        "name": "NaNa",
-        "url": "https://open.spotify.com/album/2AR0fdXGiGxMN16aPFDW69"
-      },
-      "artists": [
-        {
-          "name": "Lune",
-          "url": "https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6"
-        },
-        {
-          "name": "Kauta",
-          "url": "https://open.spotify.com/artist/706cem551IzKiczuAQIEDw"
-        }
-      ],
-      "duration_ms": 141313,
-      "name": "NaNa",
-      "url": "https://open.spotify.com/track/6HB7JuxWRjLL3JXI9ECzhK"
     },
     {
       "added_at": "2025-01-16 23:00:40",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-01-16 23:00:40",
       "album": {
+        "name": "Ich brauche dich",
+        "url": "https://open.spotify.com/album/4dAv7gO2ACUpUV43hxflTN"
+      },
+      "artists": [
+        {
+          "name": "FANJI",
+          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
+        }
+      ],
+      "duration_ms": 147973,
+      "name": "Ich brauche dich",
+      "url": "https://open.spotify.com/track/7qj80xIKTGfCS2JI0wzjtN"
+    },
+    {
+      "added_at": "2025-01-16 23:00:40",
+      "album": {
         "name": "Pflaster",
         "url": "https://open.spotify.com/album/6C8d69W6aVlkUg9cDbqkw2"
       },
@@ -1439,22 +1455,6 @@
       "duration_ms": 133355,
       "name": "Pflaster",
       "url": "https://open.spotify.com/track/62rSz1cp8u66zl9CkieV7v"
-    },
-    {
-      "added_at": "2025-01-16 23:00:40",
-      "album": {
-        "name": "Ich brauche dich",
-        "url": "https://open.spotify.com/album/4dAv7gO2ACUpUV43hxflTN"
-      },
-      "artists": [
-        {
-          "name": "FANJI",
-          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
-        }
-      ],
-      "duration_ms": 147973,
-      "name": "Ich brauche dich",
-      "url": "https://open.spotify.com/track/7qj80xIKTGfCS2JI0wzjtN"
     },
     {
       "added_at": "2025-01-16 23:00:40",
@@ -1687,22 +1687,18 @@
     {
       "added_at": "2025-01-16 23:00:40",
       "album": {
-        "name": "Etage 3 (feat. Bausa)",
-        "url": "https://open.spotify.com/album/3sczb1THK9mTeiQTx8od59"
+        "name": "Selber Schuld",
+        "url": "https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg"
       },
       "artists": [
         {
-          "name": "ZAVET",
-          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
-        },
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+          "name": "Teven",
+          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
         }
       ],
-      "duration_ms": 134515,
-      "name": "Etage 3 (feat. Bausa)",
-      "url": "https://open.spotify.com/track/2yhSIniqP26PvJePcHFIg8"
+      "duration_ms": 141533,
+      "name": "Selber Schuld",
+      "url": "https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi"
     },
     {
       "added_at": "2025-01-16 23:00:40",
@@ -1727,18 +1723,22 @@
     {
       "added_at": "2025-01-16 23:00:40",
       "album": {
-        "name": "Selber Schuld",
-        "url": "https://open.spotify.com/album/0EMgrtQfKMle5eTHPnN9Fg"
+        "name": "Etage 3 (feat. Bausa)",
+        "url": "https://open.spotify.com/album/3sczb1THK9mTeiQTx8od59"
       },
       "artists": [
         {
-          "name": "Teven",
-          "url": "https://open.spotify.com/artist/4Gu3HeiC8HudZsnYp52Wg0"
+          "name": "ZAVET",
+          "url": "https://open.spotify.com/artist/4iIpwanKVqfqqMXhJOyTFG"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
         }
       ],
-      "duration_ms": 141533,
-      "name": "Selber Schuld",
-      "url": "https://open.spotify.com/track/06iwXB6a9rN46oR9dAYrKi"
+      "duration_ms": 134515,
+      "name": "Etage 3 (feat. Bausa)",
+      "url": "https://open.spotify.com/track/2yhSIniqP26PvJePcHFIg8"
     },
     {
       "added_at": "2025-01-16 23:00:40",

@@ -4,7 +4,7 @@
 
 > Motion en good vibes\. Cover: Jayh & Chavanté
 
-1,218 songs - 2 day 6 hr 36 min
+1,219 songs - 2 day 6 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Cheri Ya Motema](https://open.spotify.com/track/30To0a1sj1igWsyeZbLqBB) | [RSG](https://open.spotify.com/artist/0CkpQO9oREMoxNzioUIKj8) | [Relax](https://open.spotify.com/album/6xz4L3q20Rk2ICfn7v2pU2) | 2:47 | 2024-06-06 | 2024-06-28 |
 | [Chickie](https://open.spotify.com/track/7AiAxbSpcnZ5YRYnhwo1Eq) | [Fmg](https://open.spotify.com/artist/2cZwVNd4sK0CCJ6BqY7U9H), [Architrackz](https://open.spotify.com/artist/5YqXgMhzkUnyjYQGgoIvoq) | [Chickie](https://open.spotify.com/album/5O5FkfXq7uEgy32ZUjzonC) | 2:36 | 2022-11-17 | 2023-02-10 |
 | [Chicokis](https://open.spotify.com/track/0B4pPvg3BkxwfqleM2ZSWM) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Chicokis](https://open.spotify.com/album/7nwpYVW58MD6SmbW8beX7s) | 3:05 | 2024-06-20 | 2024-06-28 |
+| [chille guy](https://open.spotify.com/track/7BDorbvHZ7gcHwEZLu06eY) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC) | [chille guy](https://open.spotify.com/album/0fHVPIbtXgbAv0LJnri8jR) | 1:40 | 2025-01-17 |  |
 | [chille guy](https://open.spotify.com/track/6u6yLaxKWGQAUdzbisoGUM) | [Mensa](https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC), [SRNO](https://open.spotify.com/artist/0Kwf0zcciIFGLCKiqNcO6Q) | [chille guy](https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ) | 1:40 | 2024-12-05 | 2025-01-16 |
 | [Chingar \(Remix\)](https://open.spotify.com/track/3yPV7Z22Hf1Zsw8wkpExCc) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC), [El Clooy](https://open.spotify.com/artist/2iBSDwlk9bvp1aKT4ubGoC) | [Chingar \(Remix\)](https://open.spotify.com/album/1JVd3rY42r8rDAZb4X6Pq5) | 3:07 | 2023-02-02 | 2023-02-10 |
 | [Choco Waistline](https://open.spotify.com/track/5SKBH2ivPsHEs71WW8oTCD) | [Tur\-G](https://open.spotify.com/artist/3ront3zvcdInux0rUVQLF2), [Andy VDM](https://open.spotify.com/artist/37i2jOekpyKc0wGILqRuKJ), [YUNG ALXNDR](https://open.spotify.com/artist/39R4M57yCLhI1Ve3k0Xopt) | [Choco Waistline](https://open.spotify.com/album/4bphysFtykgFLnjaAfF67O) | 2:33 | 2022-07-14 | 2022-08-26 |

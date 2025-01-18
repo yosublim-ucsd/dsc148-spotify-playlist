@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 
 > De beste nieuwe releases van de week! Cover: Kensington
 
-[Spotify](https://open.spotify.com/user/spotify) - 267,584 likes - 97 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 267,831 likes - 97 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,4 +106,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb5BKLTO7ULa.md) - [plain]
 | 96 | [Believe In Ya](https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Believe In Ya](https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ) | 2:59 |
 | 97 | [Solodance](https://open.spotify.com/track/17YBzqFJYoX3jhzPgP55WD) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Liis Lemsalu](https://open.spotify.com/artist/2rdUWyphqOltYR6zPaMPrU) | [Solodance](https://open.spotify.com/album/3dkCyIgjPSL5knHWzRvWAw) | 2:56 |
 
-Snapshot ID: `Z4mPkgAAAACZH1NLU3jQzemgQ3vVL2TD`
+Snapshot ID: `Z4pBdQAAAAAtpC0WnKbf5BgzLNZ+xciI`

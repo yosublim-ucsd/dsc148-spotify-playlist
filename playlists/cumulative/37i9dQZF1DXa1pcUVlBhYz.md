@@ -2,9 +2,9 @@
 
 ### [Electronic + Dance Frequency](https://open.spotify.com/playlist/37i9dQZF1DXa1pcUVlBhYz)
 
-> Electronic + Dance making waves, every month\. Cover: Jazzy & KILIMANJARO
+> Electronic + Dance making waves, every month\. Cover: Jon Casey
 
-418 songs - 1 day 0 hr 58 min
+419 songs - 1 day 1 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,7 +124,7 @@
 | [Femme](https://open.spotify.com/track/3w2wq54qcswAGDr9CgRymT) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/2pYtRpgha87XaijSIwUUbn) | 6:22 | 2022-07-08 | 2023-06-11 |
 | [Femme](https://open.spotify.com/track/4mNI8DJ5LS91D1bTjaqNg7) | [DESIREE](https://open.spotify.com/artist/6TZbLCcOCv1DJvN28x3FBa) | [Femme Tech](https://open.spotify.com/album/3oMUty55rKKpoCrA0mme5J) | 6:22 | 2023-06-09 | 2023-07-22 |
 | [Fight to Love \- Radio Edit](https://open.spotify.com/track/0V2rtUVbb3Vpz2ZE5pu0Sa) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [Maleh](https://open.spotify.com/artist/0SDzHvhNuUANVi0rEuUD9i) | [Fight to Love \(Radio Edit\)](https://open.spotify.com/album/6ttCwZ0VxKrzDFnOhHlTj3) | 4:07 | 2022-02-01 | 2022-07-09 |
-| [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb) | 2:38 | 2023-12-01 |  |
+| [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/track/5wEZ2qosMq4JnIY050e7GO) | [Jamie Jones](https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji), [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [Fine Fine Baby \(with Kah\-Lo\)](https://open.spotify.com/album/5ZN7pH0k8botEVXsKCGVdb) | 2:38 | 2023-12-01 | 2025-01-18 |
 | [Finesse \(Jersey Club Remix\)](https://open.spotify.com/track/7eJVltzaJ8X9HS7I8XG5lg) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW), [DJ Flex](https://open.spotify.com/artist/6CDGm9cf1yeCLD147Zs125) | [Don't Say I Didn't Warn You \(Jersey Club Remixes\)](https://open.spotify.com/album/4mCjWDfNCRWBUpckc1Eu3a) | 2:11 | 2022-03-11 | 2023-06-17 |
 | [Flourish](https://open.spotify.com/track/3SYoswG9FXQGGMFphwNNgq) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5), [Laxcity](https://open.spotify.com/artist/4YUBqnGDhH4JphZIhi9cdB) | [Flourish](https://open.spotify.com/album/1cfItDeK7Zq8DptVmokzN2) | 4:03 | 2022-02-01 | 2022-05-07 |
 | [Follow You](https://open.spotify.com/track/0QiIiiGroBqnleILFsPUuc) | [Kornél Kovács](https://open.spotify.com/artist/0Ij7th9uWcDVYNAIOn5W22), [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE) | [Follow You](https://open.spotify.com/album/1fliEPXtaZylODnCOuoHHE) | 4:04 | 2022-08-26 | 2022-11-12 |
@@ -132,6 +132,7 @@
 | [Freaky Deaky \- R3HAB Remix](https://open.spotify.com/track/1HaI4iTFkGQbyEnys6k5kn) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Freaky Deaky \(R3HAB Remix\)](https://open.spotify.com/album/5ktrrVL7XAznO3eqZ4Vglp) | 2:20 | 2022-04-15 | 2022-07-09 |
 | [Free](https://open.spotify.com/track/0kzhCraxTEGj5uyft6y6aD) | [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Fancy Inc](https://open.spotify.com/artist/4Eoddnw0pOewmCHQYofuwh), [Roland Clark](https://open.spotify.com/artist/4OGlp2UdUQGPJVbvJ82Cz5) | [Free](https://open.spotify.com/album/0qfQxiLiUyGvWpz8QQs0Gd) | 3:57 | 2022-02-01 | 2022-04-16 |
 | [FREEDOM \- Big Freedia Remix](https://open.spotify.com/track/5a29MgzhrWtAN6tYSM0Hwc) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr) | [FREEDOM \(Big Freedia Remix\)](https://open.spotify.com/album/2ibSE8yIAeVccIg4enZzkq) | 2:52 | 2022-02-01 | 2022-04-02 |
+| [French Love Poem](https://open.spotify.com/track/527QAJEQwKLM4utnk5dwrA) | [Jon Casey](https://open.spotify.com/artist/5ttBnysifryX99bjzeFPGr) | [French Love Poem](https://open.spotify.com/album/5NhSh6tzk9V4Sv6udUMWOZ) | 3:08 | 2025-01-17 |  |
 | [Fudge](https://open.spotify.com/track/0L4B26cB6aqNFbLbJlzIqt) | [Idris Elba](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Eliza Legzdina](https://open.spotify.com/artist/0oehZWYTU3DazM5gV7i6Op) | [Fudge](https://open.spotify.com/album/4EjJO1x5dfezbOPLSP1POO) | 2:25 | 2022-02-01 | 2022-06-18 |
 | [Fun \(feat\. Roses Gabor\)](https://open.spotify.com/track/01Vrxw3jRGDimthKPRynsg) | [Black House](https://open.spotify.com/artist/3g5wnT5Y9GQy3EKbu3aJRc), [Roses Gabor](https://open.spotify.com/artist/2gcdX1NqiPU2F4QxSlBo7r) | [Fun \(feat\. Roses Gabor\)](https://open.spotify.com/album/0pdwqsscrJeqZKu4EJoqcT) | 2:31 | 2023-08-11 | 2024-06-01 |
 | [GD Woman](https://open.spotify.com/track/2RFPBuGma5LnPbTjplfsuZ) | [Kah\-Lo](https://open.spotify.com/artist/59iOp415oyqGlBHyAhu4z3) | [GD Woman](https://open.spotify.com/album/09NbOdvIzE2fuN9vhAJ0KE) | 2:58 | 2023-07-07 | 2024-01-20 |

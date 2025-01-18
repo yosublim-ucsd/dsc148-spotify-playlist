@@ -1,6 +1,6 @@
 {
   "description": "Uma pausa no dia para tomar um chocolate quente e aproveitar seu momento com Deus. ",
-  "num_followers": 151471,
+  "num_followers": 151498,
   "original_name": "Chocolate Crente",
   "owner": {
     "name": "Spotify",
@@ -43,6 +43,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "A Igreja Canta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
+      },
+      "artists": [
+        {
+          "name": "Leandro Borges",
+          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
+        }
+      ],
+      "duration_ms": 347434,
+      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Spring",
         "url": "https://open.spotify.com/album/0aT8MMYx6r4tN1W0ipTgOs"
       },
@@ -59,22 +75,6 @@
       "duration_ms": 209166,
       "name": "Waterfall (feat. Lucy Grimble)",
       "url": "https://open.spotify.com/track/6nnNPkofokKxTRDwL748CT"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "A Igreja Canta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5N8VNemVfa6Si2s95CriSq"
-      },
-      "artists": [
-        {
-          "name": "Leandro Borges",
-          "url": "https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ"
-        }
-      ],
-      "duration_ms": 347434,
-      "name": "Deus Vai Chegar Primeiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/09raNwSAWTI0H0wYwVZhoR"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -103,22 +103,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Recome\u00e7ar",
-        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
-      },
-      "artists": [
-        {
-          "name": "Diego Karter",
-          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
-        }
-      ],
-      "duration_ms": 230792,
-      "name": "Recome\u00e7ar",
-      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "C\u00e2nticos I",
         "url": "https://open.spotify.com/album/5o1ahJZADZVXGrAxVGlCJm"
       },
@@ -131,6 +115,22 @@
       "duration_ms": 266653,
       "name": "Te Agrade\u00e7o",
       "url": "https://open.spotify.com/track/4wKrEQFPjmTRGOcbXyidNW"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Recome\u00e7ar",
+        "url": "https://open.spotify.com/album/6RCZVCNWPM87w17ZNP4Tcv"
+      },
+      "artists": [
+        {
+          "name": "Diego Karter",
+          "url": "https://open.spotify.com/artist/7y1jUw8GzgpQzqmmn0einF"
+        }
+      ],
+      "duration_ms": 230792,
+      "name": "Recome\u00e7ar",
+      "url": "https://open.spotify.com/track/38xsb628AajcMiMOXr3MR6"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -359,18 +359,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Rotina",
-        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
+        "name": "Tua Presen\u00e7a Vale Mais",
+        "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
       },
       "artists": [
         {
-          "name": "Esdras Gondim",
-          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
+          "name": "Os Bravos",
+          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
         }
       ],
-      "duration_ms": 273994,
-      "name": "N\u00e3o Te Abandono",
-      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
+      "duration_ms": 360000,
+      "name": "Tua Presen\u00e7a Vale Mais",
+      "url": "https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -391,18 +391,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Tua Presen\u00e7a Vale Mais",
-        "url": "https://open.spotify.com/album/7547nl48X9lwWNOYsbXsaq"
+        "name": "Rotina",
+        "url": "https://open.spotify.com/album/4siTEVwWS4Z0EbIytdcwPp"
       },
       "artists": [
         {
-          "name": "Os Bravos",
-          "url": "https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm"
+          "name": "Esdras Gondim",
+          "url": "https://open.spotify.com/artist/52gUKkym63eZxX0y6plytb"
         }
       ],
-      "duration_ms": 360000,
-      "name": "Tua Presen\u00e7a Vale Mais",
-      "url": "https://open.spotify.com/track/4ghsOtdYykkVMzKgD2Z07g"
+      "duration_ms": 273994,
+      "name": "N\u00e3o Te Abandono",
+      "url": "https://open.spotify.com/track/6xOUGzMIalXyo3ZzFsvXi1"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -447,6 +447,22 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
+        "name": "Rastros e Trilha",
+        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
+      },
+      "artists": [
+        {
+          "name": "Os Arrais",
+          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
+        }
+      ],
+      "duration_ms": 302653,
+      "name": "Deserto",
+      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
         "name": "Intimidade",
         "url": "https://open.spotify.com/album/6gy3kuEBrBSBckXix84X2H"
       },
@@ -463,22 +479,6 @@
       "duration_ms": 201247,
       "name": "Intimidade",
       "url": "https://open.spotify.com/track/3ZLitoWeyPEH4qxUpyyKM0"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
-        "name": "Rastros e Trilha",
-        "url": "https://open.spotify.com/album/6AQjmvg9tvK1584vkpNZeA"
-      },
-      "artists": [
-        {
-          "name": "Os Arrais",
-          "url": "https://open.spotify.com/artist/1Ja8qReIBoi7Z6ik0AQ6zS"
-        }
-      ],
-      "duration_ms": 302653,
-      "name": "Deserto",
-      "url": "https://open.spotify.com/track/61fJbKeTzsoKwSgYEFjmsY"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -707,18 +707,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Experimente a Jornada",
-        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
+        "name": "Eu Quero Voltar",
+        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
       },
       "artists": [
         {
-          "name": "Projeto Norte",
-          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
+          "name": "Lancellote",
+          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
         }
       ],
-      "duration_ms": 267972,
-      "name": "Incrivelmente",
-      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
+      "duration_ms": 213762,
+      "name": "Eu Quero Voltar",
+      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -739,18 +739,18 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Eu Quero Voltar",
-        "url": "https://open.spotify.com/album/2BmAe3tRit49ajh1gHWMoW"
+        "name": "Experimente a Jornada",
+        "url": "https://open.spotify.com/album/2VS7dM6KkUCwyClbJA0zU0"
       },
       "artists": [
         {
-          "name": "Lancellote",
-          "url": "https://open.spotify.com/artist/4LsKHWRuD6TlQPJrvVLD8K"
+          "name": "Projeto Norte",
+          "url": "https://open.spotify.com/artist/77pooouVVZn9N4eqWdiyhe"
         }
       ],
-      "duration_ms": 213762,
-      "name": "Eu Quero Voltar",
-      "url": "https://open.spotify.com/track/2RF5COhGA2at2zoJvlEbKB"
+      "duration_ms": 267972,
+      "name": "Incrivelmente",
+      "url": "https://open.spotify.com/track/7e5dxB4XlHbzakVj25TvQS"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -847,8 +847,8 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Ora\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
+        "name": "Clarear",
+        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
       },
       "artists": [
         {
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
         }
       ],
-      "duration_ms": 277884,
-      "name": "Ora\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
+      "duration_ms": 318750,
+      "name": "Clarear",
+      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1031,8 +1031,8 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Clarear",
-        "url": "https://open.spotify.com/album/77Y7MbdwW4jZrUiWqHLnxD"
+        "name": "Ora\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/41Q9qrqAdLcNTkmuaPVs9W"
       },
       "artists": [
         {
@@ -1040,9 +1040,9 @@
           "url": "https://open.spotify.com/artist/42xizszi345HS5i21AR5MT"
         }
       ],
-      "duration_ms": 318750,
-      "name": "Clarear",
-      "url": "https://open.spotify.com/track/07TRn8v9uGu3bxUdrotOPa"
+      "duration_ms": 277884,
+      "name": "Ora\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/4jFzflnwj7VjdDySPygvCb"
     },
     {
       "added_at": "2024-08-30 03:01:00",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2024-08-30 03:01:00",
       "album": {
-        "name": "Coragem",
-        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
-      },
-      "artists": [
-        {
-          "name": "Netto",
-          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
-        }
-      ],
-      "duration_ms": 265982,
-      "name": "Coragem",
-      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
-    },
-    {
-      "added_at": "2024-08-30 03:01:00",
-      "album": {
         "name": "Eu Te Amo, Senhor",
         "url": "https://open.spotify.com/album/4gxN4G9Yj5gPB1hhgHUrKU"
       },
@@ -1107,6 +1091,22 @@
       "duration_ms": 326136,
       "name": "Eu Te Amo, Senhor",
       "url": "https://open.spotify.com/track/5U7C8i2lCvsPdgWJQwG7ZY"
+    },
+    {
+      "added_at": "2024-08-30 03:01:00",
+      "album": {
+        "name": "Coragem",
+        "url": "https://open.spotify.com/album/3kGyXvpJx1IrYx9HwjlO3G"
+      },
+      "artists": [
+        {
+          "name": "Netto",
+          "url": "https://open.spotify.com/artist/5awlcFnDX9Dst9FAu5zgFP"
+        }
+      ],
+      "duration_ms": 265982,
+      "name": "Coragem",
+      "url": "https://open.spotify.com/track/1RUoOYWFB0ofFixpupBK4K"
     },
     {
       "added_at": "2024-08-30 03:01:00",

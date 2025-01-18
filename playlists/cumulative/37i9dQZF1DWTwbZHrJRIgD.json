@@ -1510,7 +1510,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 215178,
       "name": "Dil Kuch Hor Ni Mangda",
       "url": "https://open.spotify.com/track/4h0eadqwYscU7J8YWcq86c"
@@ -2958,7 +2958,7 @@
       ],
       "date_added": "2024-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 241066,
       "name": "Kho Jaana",
       "url": "https://open.spotify.com/track/6fIgYyuZ4gEWjY8cqlyKWj"
@@ -4581,6 +4581,36 @@
     },
     {
       "album": {
+        "name": "Rang (From \"Sky Force\")",
+        "url": "https://open.spotify.com/album/4ktwhMw8KInkaejVO6zgDA"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Satinder Sartaaj",
+          "url": "https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/5hICADiHIRxjNDx2qEhlXb"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222230,
+      "name": "Rang (From \"Sky Force\")",
+      "url": "https://open.spotify.com/track/0EUrRFThmOODM86lqibGmL"
+    },
+    {
+      "album": {
         "name": "Rang Lageya (Chill Flip) - Single",
         "url": "https://open.spotify.com/album/0Vd3CgIWDZgWv0sBxreDqQ"
       },
@@ -4652,6 +4682,36 @@
       "duration_ms": 168452,
       "name": "Reh Ja",
       "url": "https://open.spotify.com/track/6m4595gWn1q5XjRiZommin"
+    },
+    {
+      "album": {
+        "name": "Rehna Kol (From \"Loveyapa\")",
+        "url": "https://open.spotify.com/album/6vBpUpxHUR4w1eSi53QtW4"
+      },
+      "artists": [
+        {
+          "name": "Jubin Nautiyal",
+          "url": "https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa"
+        },
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Zahrah S Khan",
+          "url": "https://open.spotify.com/artist/7C5xVXoqim1TICnCMZ9A6P"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224734,
+      "name": "Rehna Kol - From \"Loveyapa\"",
+      "url": "https://open.spotify.com/track/0TQGhzD9olq7uDkoxn9AuA"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Illuminating Asian artists everywhere.  Cover: Japanese Breakfast",
+  "description": "Illuminating Asian artists everywhere.  Cover: Knock2",
   "name": "Jasmine",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 212843,
       "name": "A Thousand Years",
       "url": "https://open.spotify.com/track/0VgDXkaNfs91oTrEsQl7nK"
@@ -2506,7 +2506,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 129600,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
@@ -3612,6 +3612,28 @@
       "duration_ms": 260560,
       "name": "Dance on the Shoreline",
       "url": "https://open.spotify.com/track/7uUwOx2B3emiTPtlhuRsMy"
+    },
+    {
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202652,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq"
     },
     {
       "album": {
@@ -5984,7 +6006,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 173903,
       "name": "Full Moon",
       "url": "https://open.spotify.com/track/3aejXimKS2GRPPg8UjET4F"
@@ -6028,10 +6050,32 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 176208,
       "name": "Fuzzy Feeling",
       "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
+    },
+    {
+      "album": {
+        "name": "nolimit",
+        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Rhea Raj",
+          "url": "https://open.spotify.com/artist/7inC0Ybb6OGEMB7GP8nfi1"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170201,
+      "name": "fw me (dirty)",
+      "url": "https://open.spotify.com/track/23bMrDNmqXJYfe8cY6Sw49"
     },
     {
       "album": {
@@ -6742,7 +6786,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 259466,
       "name": "Grieving",
       "url": "https://open.spotify.com/track/6g35sGpaj86cez2KwB4BNn"
@@ -8487,6 +8531,24 @@
     },
     {
       "album": {
+        "name": "In the End of the World (I Love You)",
+        "url": "https://open.spotify.com/album/1aRkkaRkSJucjtsBwCLW5S"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220965,
+      "name": "In the End of the World (I Love You)",
+      "url": "https://open.spotify.com/track/3CcENn2midZIlsOmie5Nvq"
+    },
+    {
+      "album": {
         "name": "In The Void",
         "url": "https://open.spotify.com/album/2iic9IUMlYln2vVXA0jDAp"
       },
@@ -8546,6 +8608,24 @@
       "duration_ms": 219847,
       "name": "INSOMNIA",
       "url": "https://open.spotify.com/track/1KfhDYbODqQoclom9Izd5u"
+    },
+    {
+      "album": {
+        "name": "Inspiration",
+        "url": "https://open.spotify.com/album/1XUriGq6ZVflo3L0nrT1pW"
+      },
+      "artists": [
+        {
+          "name": "Chloe Tang",
+          "url": "https://open.spotify.com/artist/4uwIzZYa9X7krqWld1B7JV"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161818,
+      "name": "Inspiration",
+      "url": "https://open.spotify.com/track/0aRgUjPU47NdUA9TZlQGfP"
     },
     {
       "album": {
@@ -9474,6 +9554,24 @@
       "duration_ms": 134000,
       "name": "liar",
       "url": "https://open.spotify.com/track/1FMO8gVoSFQdduxxulJUCF"
+    },
+    {
+      "album": {
+        "name": "LIE DOWN..",
+        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309381,
+      "name": "LIE DOWN..",
+      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
     },
     {
       "album": {
@@ -13305,6 +13403,28 @@
     },
     {
       "album": {
+        "name": "Sad Makeup",
+        "url": "https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X"
+      },
+      "artists": [
+        {
+          "name": "Yukimi",
+          "url": "https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo"
+        },
+        {
+          "name": "Little Dragon",
+          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230050,
+      "name": "Sad Makeup",
+      "url": "https://open.spotify.com/track/74eE402hFv13hLBw5iPQds"
+    },
+    {
+      "album": {
         "name": "Same Energy",
         "url": "https://open.spotify.com/album/7wLUa7Te2hgRruz9hFIeGc"
       },
@@ -15760,7 +15880,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 175595,
       "name": "tap my foot (\u0e05'\u03c9'\u0e05)",
       "url": "https://open.spotify.com/track/4NqBYPCg18AFJlpGTUxSWT"
@@ -16684,7 +16804,7 @@
       ],
       "date_added": "2024-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 243035,
       "name": "Time to Pretend - Spotify Singles",
       "url": "https://open.spotify.com/track/2fyn9gJRCGG6o2u3EIGBjg"
@@ -18646,6 +18766,24 @@
       "duration_ms": 155706,
       "name": "you don't like me like that",
       "url": "https://open.spotify.com/track/3OPyobYAM5MgTm35AJV99O"
+    },
+    {
+      "album": {
+        "name": "you were mine",
+        "url": "https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221584,
+      "name": "you were mine",
+      "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
     },
     {
       "album": {

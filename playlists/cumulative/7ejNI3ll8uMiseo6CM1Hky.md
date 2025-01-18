@@ -4,7 +4,7 @@
 
 > OwO \*notices your bulge\* look like you need some songs\. \*play music \* X3
 
-162 songs - 9 hr 8 min
+163 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [PERCEPTION CHECK](https://open.spotify.com/track/6o2nroFoqAxj7kSWLo6AGb) | [Tom Cardy](https://open.spotify.com/artist/0hQBkU2vuMYXucmd89JUSw) | [PERCEPTION CHECK](https://open.spotify.com/album/1oDeKWqb4qnYVUcIcFLkIk) | 1:49 | 2024-05-15 |  |
 | [Perfume!](https://open.spotify.com/track/6BGbt6NGG5LGGqKdwAzzS8) | [fusq](https://open.spotify.com/artist/0q0K0FV5t8OnVpbIQTXOhI) | [Lost Station](https://open.spotify.com/album/358hXrWXW1WXjqiA6NtaEl) | 2:54 | 2019-11-30 |  |
 | [Person in the Mirror](https://open.spotify.com/track/4L6mbkUpy4bmbeOQmw4hXu) | [Naethan Apollo](https://open.spotify.com/artist/7iS4CQkDpux3s40py3SqZi) | [Person in the Mirror](https://open.spotify.com/album/3xypvFTyaBdnGjwTwc1iSg) | 1:11 | 2022-05-09 |  |
+| [Phoenix](https://open.spotify.com/track/3SuxtjdFxY3RIaWyPgtkfk) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Phoenix](https://open.spotify.com/album/6NsZCEmTqHL2z7wOu1LQ9L) | 3:58 | 2025-01-17 |  |
 | [prom dress](https://open.spotify.com/track/5wpCYmvMJqF6h7hEBp4woB) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [prom dress](https://open.spotify.com/album/592KTdTWraFsmDPo2zGy9R) | 3:17 | 2021-08-20 |  |
 | [Rambley Review](https://open.spotify.com/track/6l1v42VTPQJxtqcZ5uWvqR) | [RecD](https://open.spotify.com/artist/6cqXqS5Iemewz8MolkBTdY), [Jakeneutron](https://open.spotify.com/artist/7kk9WfnMdCB0K2oEz1ISYD), [OtterBoyVA](https://open.spotify.com/artist/3VbB6AbCIBTjy7tS2ha410) | [Indigo Park, Chapter 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3iuF2S6yTMyvTEhwiVSLJu) | 3:19 | 2024-05-25 |  |
 | [Record Player \(with AJR\)](https://open.spotify.com/track/4jYt1pQqg2mIZmY4FWCZEM) | [Daisy the Great](https://open.spotify.com/artist/0SrIPejckovMwhrN3MZFPB), [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Record Player \(with AJR\)](https://open.spotify.com/album/0zs9o2NkQxcRTlGlcOteP5) | 2:29 | 2021-11-08 |  |

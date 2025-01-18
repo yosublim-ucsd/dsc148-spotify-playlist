@@ -4,11 +4,11 @@
 
 > Soft Jazz beats in the background while you're studying or relaxing.
 
-214 songs - 9 hr 21 min
+215 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [A Good Run](https://open.spotify.com/track/69vhTmt6CEyYHrM6rA1B4P) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [A Good Run](https://open.spotify.com/album/6uNvmepdDMBSTwWWVzBBzG) | 2:16 | 2024-11-12 |  |
+| [A Good Run](https://open.spotify.com/track/69vhTmt6CEyYHrM6rA1B4P) | [Korey Wade](https://open.spotify.com/artist/5EMhnsc8XoFAR7Cpb8TjPv) | [A Good Run](https://open.spotify.com/album/6uNvmepdDMBSTwWWVzBBzG) | 2:16 | 2024-11-12 | 2025-01-18 |
 | [Abduction](https://open.spotify.com/track/0tQHFnqCqhvR6tv0COYl6o) | [Baen Mow](https://open.spotify.com/artist/2mt3wR9B4tg9KXvICFYhqM), [Monaqee](https://open.spotify.com/artist/4EGwgTccVIMRAeJbpcIlaq), [Vanis](https://open.spotify.com/artist/3tMBRTfZnB4VrAvooWzbrz) | [Abduction](https://open.spotify.com/album/5D9Rzhx22E3YGaZ9wGlKjy) | 2:30 | 2023-01-12 |  |
 | [act n' chill](https://open.spotify.com/track/1Q4eNqqua4EeURDyCA0sbE) | [HPY DAYZ](https://open.spotify.com/artist/4kPDMyPezfKjzjK2q7IeWP) | [act n' chill](https://open.spotify.com/album/7MOhCxNRgpZL1TPpFX6od1) | 2:12 | 2024-06-07 |  |
 | [AI\-Music](https://open.spotify.com/track/3Av9I4jCysxCP4IscYJ3wJ) | [Dean Staffs](https://open.spotify.com/artist/36e0RyjykLGS9GkOp7rG8W) | [AI\-Music](https://open.spotify.com/album/5c8MgxHLFTH0vrBGoFvldU) | 3:35 | 2023-04-27 | 2023-06-02 |
@@ -169,6 +169,7 @@
 | [Riviera Nights](https://open.spotify.com/track/6BtRzObrcOEv2jTTGaNp25) | [Digby Jones](https://open.spotify.com/artist/4RSNNGdvEfBA2s3ziDFUlU) | [Riviera Nights](https://open.spotify.com/album/1rtz7vWTxLfwWOd9dkwPd5) | 3:33 | 2023-01-12 | 2023-03-10 |
 | [Roller Rink](https://open.spotify.com/track/14OGFMljamRhGrkNPI1IoH) | [Clifford](https://open.spotify.com/artist/2yS9Ixr0a7wHxb0dpEvc2j), [Howden](https://open.spotify.com/artist/5ij6GPX5uLZaxY5tttP8Vi) | [Roller Rink](https://open.spotify.com/album/3bWYM84vycenn6bzW3IuOp) | 2:30 | 2023-03-23 |  |
 | [Rush Hour](https://open.spotify.com/track/5O6z2ai9ZENm9XywrUjZZU) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Rush Hour](https://open.spotify.com/album/4Ly3M4zMNlO5dpUeHpg1Pq) | 2:39 | 2023-01-12 | 2023-08-25 |
+| [Sandscape Vibes](https://open.spotify.com/track/4r7ND09OEWwcsGGaVR9w9d) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Sandscape Vibes](https://open.spotify.com/album/0kkCV2JYagLkcvkqR2eiZA) | 1:55 | 2025-01-10 |  |
 | [Santorini](https://open.spotify.com/track/7j7MEvQoI9MPt7llQxh9e5) | [Beatific](https://open.spotify.com/artist/3yb8TZjDnL3VzpwqZus72C) | [Santorini](https://open.spotify.com/album/4lRjVxnEO699voyXOoOg24) | 1:25 | 2023-01-12 | 2023-08-19 |
 | [Scho Guet](https://open.spotify.com/track/6ottSGnUxB1xuyLR9Pd4Vd) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Scho Guet](https://open.spotify.com/album/0RW29wYWBcPejIxG1ANPKM) | 3:53 | 2023-01-13 | 2023-03-10 |
 | [Scrambled Eggs](https://open.spotify.com/track/7bTPwHHPyw83LN6dxLZgFF) | [Slo Five](https://open.spotify.com/artist/5irIh5qdcXwDG9p7EWegeN), [Hypntc](https://open.spotify.com/artist/40WuCSBpNDy6QCmhmZrl1E) | [Scrambled Eggs](https://open.spotify.com/album/03qZ8AJgMGeOyk1tfdRIWa) | 1:55 | 2023-06-20 | 2023-08-19 |

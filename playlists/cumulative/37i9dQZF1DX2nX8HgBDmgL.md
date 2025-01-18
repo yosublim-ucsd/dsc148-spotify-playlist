@@ -4,7 +4,7 @@
 
 > Home to the Desi Pop Bops\. For more desi bangers check out <a href="https://open.spotify.com/playlist/37i9dQZF1DWTwzVdyRpXm1?si=b23337fc53aa44fa">Desi Hits</a>\.  Cover: Ali Sethi
 
-293 songs - 15 hr 49 min
+294 songs - 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/track/35bGZ0hG27HIz9ZnTGNr7N) | [Nish](https://open.spotify.com/artist/3xyfJgRtCzUrNshzo4Deg9), [Mumzy Stranger](https://open.spotify.com/artist/1ZjTtkG8iHppYgibGNc4rw), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt) | [Turn Me on \(Remix\) \[feat\. Mumzy Stranger & Raxstar\]](https://open.spotify.com/album/30T3kSECyT1i2ytnwAcq0E) | 4:17 | 2021-11-11 | 2022-07-19 |
 | [Turri Jandi](https://open.spotify.com/track/1gSqal5vT2GzXgDPMwMelX) | [Shazia Manzoor](https://open.spotify.com/artist/5k8TaNhru2hLU3PRDGNS2S), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [Turri Jandi](https://open.spotify.com/album/0sSqbyObhNcau4CMkqC8JU) | 4:26 | 2024-06-21 |  |
 | [Udd Gaye](https://open.spotify.com/track/5ZsAhuQ24mWHiduaxJqnhW) | [Ritviz](https://open.spotify.com/artist/72beYOeW2sb2yfcS4JsRvb) | [Ved](https://open.spotify.com/album/7LPx9F9ZQWWvQlKgIQi1OZ) | 3:00 | 2022-07-18 | 2024-02-23 |
+| [Umeedon Ki](https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx) | [Umeedon Ki](https://open.spotify.com/album/4odGDsUGaQx1CR62FmviWH) | 4:50 | 2025-01-17 |  |
 | [US \(feat\. Raja Kumari\)](https://open.spotify.com/track/36cqlmc53NqlEUqPJdgUOx) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Raja Kumari](https://open.spotify.com/artist/5cBFMoMgcAt03YL2r0tS25) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 3:50 | 2022-07-18 | 2024-02-23 |
 | [Vaari](https://open.spotify.com/track/6RQPXXiTIkduK1LIQrol0c) | [Ickey Singh](https://open.spotify.com/artist/1aVl46MimzqUMhxWv683On), [Swifty Beats](https://open.spotify.com/artist/6wmOEv1HDNNQadm7KoxsOU), [J Spades](https://open.spotify.com/artist/0CUMYJraqFJ5RddqfuScWa) | [Vaari](https://open.spotify.com/album/3SZgHpIznSI54IfrbnE44R) | 2:39 | 2021-11-11 | 2022-07-19 |
 | [Ve Haaniyaan](https://open.spotify.com/track/2C6CJGFLbisteRuY6Plb7b) | [Danny](https://open.spotify.com/artist/1qyXgLYCg0osV4glEYuQIv), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Sagar](https://open.spotify.com/artist/1uY9B9QroF5K8wPyeEO1QN) | [Ve Haaniyaan](https://open.spotify.com/album/6ViHWV1ADObbcYBF7Aq1B5) | 4:00 | 2024-02-22 |  |

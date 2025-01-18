@@ -1,28 +1,32 @@
 {
   "description": "Where R&B meets Hip-Hop, Pop and everything in between !  Cover: Honey Bxby",
-  "num_followers": 1744411,
+  "num_followers": 1744406,
   "original_name": "Channel-X",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2XsDgAAAAC8TT2/JRcMgcbrtwQ7HKb3",
+  "snapshot_id": "Z4oS+AAAAABkuSK36ZuHgiUobBHyhpBG",
   "tracks": [
     {
-      "added_at": "2024-10-04 07:42:06",
+      "added_at": "2025-01-17 08:21:12",
       "album": {
-        "name": "LEFT EYE",
-        "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
+        "name": "Too Many Women (feat. kwn)",
+        "url": "https://open.spotify.com/album/26iaTdQU3Ce1IC4Bfz6L6V"
       },
       "artists": [
         {
-          "name": "Honey Bxby",
-          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+          "name": "Jordan Adetunji",
+          "url": "https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 133234,
-      "name": "LEFT EYE",
-      "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
+      "duration_ms": 118933,
+      "name": "Too Many Women (feat. kwn)",
+      "url": "https://open.spotify.com/track/27phUMXA53CLokQgatsJaz"
     },
     {
       "added_at": "2024-12-20 22:13:34",
@@ -63,6 +67,22 @@
       "duration_ms": 188348,
       "name": "In My Bag (feat. GloRilla)",
       "url": "https://open.spotify.com/track/4l9xe2rcwWctjrI43UFkgA"
+    },
+    {
+      "added_at": "2024-10-04 07:42:06",
+      "album": {
+        "name": "LEFT EYE",
+        "url": "https://open.spotify.com/album/73a0ZoJbegxvZoLe9pMW77"
+      },
+      "artists": [
+        {
+          "name": "Honey Bxby",
+          "url": "https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO"
+        }
+      ],
+      "duration_ms": 133234,
+      "name": "LEFT EYE",
+      "url": "https://open.spotify.com/track/6V0bEMXp3ZynscGRT3QBiA"
     },
     {
       "added_at": "2024-11-15 08:06:07",
@@ -113,20 +133,36 @@
       "url": "https://open.spotify.com/track/2oVVaVY0LkzwAYYcyzon6Z"
     },
     {
-      "added_at": "2024-11-08 15:33:02",
+      "added_at": "2025-01-17 08:21:12",
       "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+        "name": "MUTT",
+        "url": "https://open.spotify.com/album/0SzoksypeognxYJJOJEYip"
       },
       "artists": [
         {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         }
       ],
-      "duration_ms": 147146,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
+      "duration_ms": 192933,
+      "name": "MUTT",
+      "url": "https://open.spotify.com/track/2uvE4L5ZsYKpv8hbK4TIOt"
+    },
+    {
+      "added_at": "2024-11-15 08:06:07",
+      "album": {
+        "name": "POOKIE'S REQUIEM",
+        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
+      },
+      "artists": [
+        {
+          "name": "SAILORR",
+          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+        }
+      ],
+      "duration_ms": 108791,
+      "name": "POOKIE'S REQUIEM",
+      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
     },
     {
       "added_at": "2024-11-22 18:00:07",
@@ -147,6 +183,26 @@
       "duration_ms": 177598,
       "name": "luther (with sza)",
       "url": "https://open.spotify.com/track/45J4avUb9Ni0bnETYaYFVJ"
+    },
+    {
+      "added_at": "2025-01-17 08:21:12",
+      "album": {
+        "name": "Are You Even Real (feat. Giv\u0113on)",
+        "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        },
+        {
+          "name": "Giveon",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 147702,
+      "name": "Are You Even Real (feat. Giv\u0113on)",
+      "url": "https://open.spotify.com/track/4ZO4HvFADvujrrEidSatEC"
     },
     {
       "added_at": "2024-11-15 08:06:07",
@@ -183,6 +239,46 @@
       "duration_ms": 151786,
       "name": "Make It Up To You (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x"
+    },
+    {
+      "added_at": "2024-11-08 15:33:02",
+      "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
+    },
+    {
+      "added_at": "2025-01-17 08:21:12",
+      "album": {
+        "name": "My Birthday",
+        "url": "https://open.spotify.com/album/5wHP54XOoohb0nFMBhTzAU"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brackins",
+          "url": "https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/27kVgutRBYh0ne7iSMFuR2"
+        },
+        {
+          "name": "Ray J",
+          "url": "https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0"
+        }
+      ],
+      "duration_ms": 213238,
+      "name": "My Birthday",
+      "url": "https://open.spotify.com/track/5QIcWQbSUr6Nt7NYY79qzL"
     },
     {
       "added_at": "2024-12-06 06:05:41",
@@ -233,20 +329,48 @@
       "url": "https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg"
     },
     {
-      "added_at": "2024-11-15 08:06:07",
+      "added_at": "2025-01-17 08:21:12",
       "album": {
-        "name": "POOKIE'S REQUIEM",
-        "url": "https://open.spotify.com/album/5nWBg995g3QcLrbLUPwxBC"
+        "name": "A Story By: Keke Palmer",
+        "url": "https://open.spotify.com/album/5BoADWzxK0dBlM0Pdfghth"
       },
       "artists": [
         {
-          "name": "SAILORR",
-          "url": "https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci"
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        },
+        {
+          "name": "Diva Gurl",
+          "url": "https://open.spotify.com/artist/4ryikYxDE2ShiLDkzMqs11"
         }
       ],
-      "duration_ms": 108791,
-      "name": "POOKIE'S REQUIEM",
-      "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
+      "duration_ms": 154578,
+      "name": "Afford It (From the Motion picture \u201cOne Of Them Days\u201d)",
+      "url": "https://open.spotify.com/track/7ELTHpC3ZpT6geNBz1zzN4"
+    },
+    {
+      "added_at": "2025-01-17 08:21:12",
+      "album": {
+        "name": "Believe In Ya",
+        "url": "https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        }
+      ],
+      "duration_ms": 179089,
+      "name": "Believe In Ya",
+      "url": "https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh"
     },
     {
       "added_at": "2024-12-06 06:05:41",
@@ -317,6 +441,30 @@
       "url": "https://open.spotify.com/track/6NCtzHANN8GwvxdrSzJBB9"
     },
     {
+      "added_at": "2025-01-17 08:21:12",
+      "album": {
+        "name": "Up Or Down",
+        "url": "https://open.spotify.com/album/5KWVmcdDuGOL65cr3Pllly"
+      },
+      "artists": [
+        {
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        },
+        {
+          "name": "Runtown",
+          "url": "https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb"
+        },
+        {
+          "name": "Libianca",
+          "url": "https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ"
+        }
+      ],
+      "duration_ms": 166666,
+      "name": "Up Or Down",
+      "url": "https://open.spotify.com/track/1jMr6MgAnHax0QXLx69bn1"
+    },
+    {
       "added_at": "2024-10-25 07:49:44",
       "album": {
         "name": "Most Beautiful Design",
@@ -363,6 +511,26 @@
       "duration_ms": 167767,
       "name": "Make Room",
       "url": "https://open.spotify.com/track/6HpfFUKzicwYBysbrmYwW1"
+    },
+    {
+      "added_at": "2025-01-17 08:21:12",
+      "album": {
+        "name": "Laid Back/Old Skool Chevy (feat. Kenyon Dixon)",
+        "url": "https://open.spotify.com/album/45SobE43dJWduPtV3ww2rX"
+      },
+      "artists": [
+        {
+          "name": "TAVE",
+          "url": "https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "duration_ms": 163984,
+      "name": "Laid Back/Old Skool Chevy (feat. Kenyon Dixon)",
+      "url": "https://open.spotify.com/track/6ut8pLAqCv4kH0W5ura187"
     },
     {
       "added_at": "2024-11-22 08:37:32",
@@ -583,6 +751,22 @@
       "duration_ms": 205200,
       "name": "Always Time",
       "url": "https://open.spotify.com/track/7sVWgbgM2Ftw5jiYC5cDxK"
+    },
+    {
+      "added_at": "2025-01-17 08:21:12",
+      "album": {
+        "name": "Why Can't You",
+        "url": "https://open.spotify.com/album/32G58TiwHXK7qTuhK69vWZ"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "duration_ms": 195440,
+      "name": "Why Can't You",
+      "url": "https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr"
     },
     {
       "added_at": "2024-12-06 06:05:41",
@@ -2011,26 +2195,6 @@
       "duration_ms": 184552,
       "name": "Soh-Soh",
       "url": "https://open.spotify.com/track/1I08zQMc1sHy2xwd8itedV"
-    },
-    {
-      "added_at": "2024-08-30 04:49:06",
-      "album": {
-        "name": "MUTT (REMIX)",
-        "url": "https://open.spotify.com/album/4um7HKmzdzkIvStKG6gc6h"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 257383,
-      "name": "MUTT (feat. Freddie Gibbs) [Remix]",
-      "url": "https://open.spotify.com/track/1mw23Ltn9rCSEmgzz8O2pC"
     },
     {
       "added_at": "2024-08-09 04:00:00",

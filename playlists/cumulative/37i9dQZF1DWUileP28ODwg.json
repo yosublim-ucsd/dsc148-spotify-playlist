@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Katy Nichole",
+  "description": "Tune in here for new and current hits in Contemporary Christian music! Cover: Tenth Avenue North",
   "name": "Top Christian Contemporary",
   "tracks": [
+    {
+      "album": {
+        "name": "24/7",
+        "url": "https://open.spotify.com/album/7zjtPFsj5JwA8yPe4IbcRP"
+      },
+      "artists": [
+        {
+          "name": "Claire Leslie",
+          "url": "https://open.spotify.com/artist/5GkuwRdmvp8r48JCPwqM7E"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180006,
+      "name": "24/7",
+      "url": "https://open.spotify.com/track/4HR5BN6hc4AmcPO1NK0fgK"
+    },
     {
       "album": {
         "name": "Roll Tape: Live From Melody League Studios",
@@ -136,7 +154,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 189400,
       "name": "All Along",
       "url": "https://open.spotify.com/track/4AQ9Yz6qxhZhlyAbWbgsdI"
@@ -248,7 +266,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 190264,
       "name": "Altars Over Stages",
       "url": "https://open.spotify.com/track/3XRoa9mZpoODgvYUqXP2zg"
@@ -324,6 +342,24 @@
       "duration_ms": 266200,
       "name": "Amazing Grace / My Chains Are Gone",
       "url": "https://open.spotify.com/track/76Sn7FKuDkw4SssotSi5Rr"
+    },
+    {
+      "album": {
+        "name": "Ancient Love",
+        "url": "https://open.spotify.com/album/0JThox9ImeiTgqHsPOHgEP"
+      },
+      "artists": [
+        {
+          "name": "John Mark McMillan",
+          "url": "https://open.spotify.com/artist/0T1KC0OHfbRO0O5bNH2tek"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311850,
+      "name": "Ancient Love",
+      "url": "https://open.spotify.com/track/4jKpq2ssEnviL9RjdYjCHI"
     },
     {
       "album": {
@@ -440,6 +476,28 @@
       "duration_ms": 222162,
       "name": "As I Am",
       "url": "https://open.spotify.com/track/64Z4Mc4eSOasJt7DAmDqaE"
+    },
+    {
+      "album": {
+        "name": "Psalm 119, Vol. 1",
+        "url": "https://open.spotify.com/album/2Si7RbyONEQFRE6RyoagXP"
+      },
+      "artists": [
+        {
+          "name": "Stillcreek",
+          "url": "https://open.spotify.com/artist/11gEoW9B8Wb6GjflubNjOW"
+        },
+        {
+          "name": "Aaron Williams",
+          "url": "https://open.spotify.com/artist/4HRAisqWU6muzcJTkGMquz"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248467,
+      "name": "As I Go Your Way (Aleph)",
+      "url": "https://open.spotify.com/track/3eLcb4TcQLr1MC2w3iBFZD"
     },
     {
       "album": {
@@ -921,6 +979,28 @@
     },
     {
       "album": {
+        "name": "Burn Still",
+        "url": "https://open.spotify.com/album/3mVv4nZWrHFE4cRFmcRicN"
+      },
+      "artists": [
+        {
+          "name": "John Waller",
+          "url": "https://open.spotify.com/artist/2Px7jTtwBH0nHI1fYSYuaL"
+        },
+        {
+          "name": "Baylee Waller",
+          "url": "https://open.spotify.com/artist/2l2CcuEr6yMX39653SzsXU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279847,
+      "name": "Burn Still",
+      "url": "https://open.spotify.com/track/66rOZxW7kt5AnOMrsdaN0r"
+    },
+    {
+      "album": {
         "name": "Love, Evvie McKinney",
         "url": "https://open.spotify.com/album/19TJHZlE3D6OZ6lNSYGMQb"
       },
@@ -954,6 +1034,28 @@
       "duration_ms": 201639,
       "name": "By Faith",
       "url": "https://open.spotify.com/track/2X8yEmE9roYNGM0QLlVM6R"
+    },
+    {
+      "album": {
+        "name": "Can't Steal My Joy (feat. Brandon Lake)",
+        "url": "https://open.spotify.com/album/5Fa88waql5QY9FE23Hj9bI"
+      },
+      "artists": [
+        {
+          "name": "Josiah Queen",
+          "url": "https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2"
+        },
+        {
+          "name": "Brandon Lake",
+          "url": "https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213751,
+      "name": "Can't Steal My Joy (feat. Brandon Lake)",
+      "url": "https://open.spotify.com/track/1IrganK1YSvjYDvGNYu3aa"
     },
     {
       "album": {
@@ -1048,6 +1150,24 @@
       "duration_ms": 229200,
       "name": "Christ Our Hope In Life And Death",
       "url": "https://open.spotify.com/track/4FlV2NvMDxlYBLSGZcT8uu"
+    },
+    {
+      "album": {
+        "name": "Church Kids",
+        "url": "https://open.spotify.com/album/0lxwNEWSQJmuP5AWckIW0V"
+      },
+      "artists": [
+        {
+          "name": "Natalie Layne",
+          "url": "https://open.spotify.com/artist/6N1l2HIYtw3RhoJ2wzLYaB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153940,
+      "name": "Church Kids",
+      "url": "https://open.spotify.com/track/744gRHKFPX3ixps7BwP9TS"
     },
     {
       "album": {
@@ -1658,7 +1778,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 230443,
       "name": "Fear Has No Place",
       "url": "https://open.spotify.com/track/2KkMQcdYUweGWDAHikdmFu"
@@ -1853,6 +1973,24 @@
     },
     {
       "album": {
+        "name": "For What It's Worth",
+        "url": "https://open.spotify.com/album/5foVq2JQBB1dX1s3O3gX5E"
+      },
+      "artists": [
+        {
+          "name": "Rachael Lampa",
+          "url": "https://open.spotify.com/artist/0rAp8I6gq67AJEmzWEJ1ri"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203824,
+      "name": "For What It's Worth",
+      "url": "https://open.spotify.com/track/2EuFVrYeCxPIC5xy2bHc47"
+    },
+    {
+      "album": {
         "name": "Free At Last",
         "url": "https://open.spotify.com/album/2IBcv1U7JHj4stGwDTInUG"
       },
@@ -1997,6 +2135,24 @@
     },
     {
       "album": {
+        "name": "FUNNY",
+        "url": "https://open.spotify.com/album/3JR7hKZYIhmMequwo1C5S1"
+      },
+      "artists": [
+        {
+          "name": "One Common",
+          "url": "https://open.spotify.com/artist/7C8oYaoYaMU08umRm46EK9"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147988,
+      "name": "FUNNY",
+      "url": "https://open.spotify.com/track/5dUEw9YLflCgGZ7Nqaq36F"
+    },
+    {
+      "album": {
         "name": "Getting Started (Radio Version)",
         "url": "https://open.spotify.com/album/3oJ9UZKOQBx1DaAOnCMi9a"
       },
@@ -2118,6 +2274,42 @@
       "duration_ms": 251261,
       "name": "God Can Use A Broken Man",
       "url": "https://open.spotify.com/track/6LznqUukASGEgFxeMfzG4z"
+    },
+    {
+      "album": {
+        "name": "God Did It",
+        "url": "https://open.spotify.com/album/0dF6LIQolKm7tA25QEuZTV"
+      },
+      "artists": [
+        {
+          "name": "Micah Tyler",
+          "url": "https://open.spotify.com/artist/04XtgzagYQRpeZt1sJThKi"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169421,
+      "name": "God Did It",
+      "url": "https://open.spotify.com/track/2dFiX90LHhRw8XVixqOcKD"
+    },
+    {
+      "album": {
+        "name": "God Did It",
+        "url": "https://open.spotify.com/album/7qBsxgbh9WxBobhLyVnuiU"
+      },
+      "artists": [
+        {
+          "name": "TobyMac",
+          "url": "https://open.spotify.com/artist/5VX8hxrcfJWwaTLiqGUHG3"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213815,
+      "name": "God Did It",
+      "url": "https://open.spotify.com/track/4qRjzfGWDeEVwfZ066GI3s"
     },
     {
       "album": {
@@ -3060,6 +3252,24 @@
       "duration_ms": 243465,
       "name": "Heart of the Father",
       "url": "https://open.spotify.com/track/7gknAFcf8D0RgB0rFghWIf"
+    },
+    {
+      "album": {
+        "name": "Heartbreak Feels Like Home",
+        "url": "https://open.spotify.com/album/263qDwfuQjPJc9RIpwQwjE"
+      },
+      "artists": [
+        {
+          "name": "Hunter Plake",
+          "url": "https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218578,
+      "name": "Heartbreak Feels Like Home",
+      "url": "https://open.spotify.com/track/3YjAnfmtN1B6yAJDc107wj"
     },
     {
       "album": {
@@ -4240,7 +4450,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 203583,
       "name": "Jesus Cries",
       "url": "https://open.spotify.com/track/4euQFpAjLThkzv4S9Td2Ud"
@@ -4432,7 +4642,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 191025,
       "name": "Just As You Are",
       "url": "https://open.spotify.com/track/3DSvR7L5lAL7aRstFO9xCb"
@@ -4472,6 +4682,24 @@
       "duration_ms": 190586,
       "name": "KEEP YOUR WORD",
       "url": "https://open.spotify.com/track/5LLzYBflJbKhaF9GDAkimI"
+    },
+    {
+      "album": {
+        "name": "Kind To Myself",
+        "url": "https://open.spotify.com/album/1cwR4ocIhy4MXuR7TVNsma"
+      },
+      "artists": [
+        {
+          "name": "Tenth Avenue North",
+          "url": "https://open.spotify.com/artist/7v35CkHBaT1SStgQHl95a0"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182128,
+      "name": "Kind To Myself",
+      "url": "https://open.spotify.com/track/51OOS7PnlhHOgkl6vJZbBL"
     },
     {
       "album": {
@@ -4609,6 +4837,32 @@
     },
     {
       "album": {
+        "name": "Let It Begin",
+        "url": "https://open.spotify.com/album/1UqIz18Y3PAkflXfI67Zeg"
+      },
+      "artists": [
+        {
+          "name": "Big Daddy Weave",
+          "url": "https://open.spotify.com/artist/4SsMf4SjhOlSqEitcprgBt"
+        },
+        {
+          "name": "Megan Woods",
+          "url": "https://open.spotify.com/artist/5FCdZItP2SRoMCb3QNVFIl"
+        },
+        {
+          "name": "Ben Fuller",
+          "url": "https://open.spotify.com/artist/57zYbDb1zNVoTYNUGmv45d"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252047,
+      "name": "Let It Begin",
+      "url": "https://open.spotify.com/track/3dpXt0Dy7g1Aaewb7LG0YE"
+    },
+    {
+      "album": {
         "name": "Let Me In",
         "url": "https://open.spotify.com/album/2snKHr51NGLh7FegyNPjW3"
       },
@@ -4656,7 +4910,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 192000,
       "name": "Letting Go For Dear Life",
       "url": "https://open.spotify.com/track/23FhN1EL3dfcAJbR3kWYTC"
@@ -5091,6 +5345,24 @@
     },
     {
       "album": {
+        "name": "Mama Don't Lie (Alright)",
+        "url": "https://open.spotify.com/album/59L0URE6EBNfdGURMnyt4V"
+      },
+      "artists": [
+        {
+          "name": "Stars Go Dim",
+          "url": "https://open.spotify.com/artist/4O5EDKGt6YC5IXkOArVqk3"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196939,
+      "name": "Mama Don't Lie (Alright)",
+      "url": "https://open.spotify.com/track/1XeGUrBIQ8kdlJoKWpqGp0"
+    },
+    {
+      "album": {
         "name": "My Jesus",
         "url": "https://open.spotify.com/album/32hskBTJCQ3rmYAsUmol3Q"
       },
@@ -5316,7 +5588,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 193253,
       "name": "My God Can",
       "url": "https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL"
@@ -5352,7 +5624,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 242455,
       "name": "My Hope Is Jesus",
       "url": "https://open.spotify.com/track/3Wqc6im6bBdgm1ppqPKRbr"
@@ -5464,7 +5736,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 265911,
       "name": "Narrow Road",
       "url": "https://open.spotify.com/track/6nUhW3DT9vGkKyiEpP5j6c"
@@ -5522,6 +5794,24 @@
       "duration_ms": 245722,
       "name": "Narrow Road",
       "url": "https://open.spotify.com/track/7jm83aZTPxR23x64edVncD"
+    },
+    {
+      "album": {
+        "name": "Need To Know",
+        "url": "https://open.spotify.com/album/06Qsz0MH8NzErkhlsGoH3v"
+      },
+      "artists": [
+        {
+          "name": "Joel Vaughn",
+          "url": "https://open.spotify.com/artist/0LAqQNqZSCpMUXRgONL5iB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196941,
+      "name": "Need To Know",
+      "url": "https://open.spotify.com/track/2OnLaG9fe1OIMmRNeTfqAw"
     },
     {
       "album": {
@@ -5666,7 +5956,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 167207,
       "name": "No One Loves Me Like You Do - Radio Mix",
       "url": "https://open.spotify.com/track/0VHku8GcJIfdAC6AqQgUrm"
@@ -5742,7 +6032,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 176929,
       "name": "Nothin' Sweeter",
       "url": "https://open.spotify.com/track/2MCjqcZLDI9SCJ4MnsYFS1"
@@ -5855,6 +6145,24 @@
     },
     {
       "album": {
+        "name": "On The Mend",
+        "url": "https://open.spotify.com/album/49knbNogUcgBdSYs4jjamj"
+      },
+      "artists": [
+        {
+          "name": "Sanctus Real",
+          "url": "https://open.spotify.com/artist/6QgOGgahvXBHEEzpjbDsOj"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210384,
+      "name": "On The Mend",
+      "url": "https://open.spotify.com/track/4wghIQPQ2IrnzIbHjEPpxy"
+    },
+    {
+      "album": {
         "name": "One Heart at a Time",
         "url": "https://open.spotify.com/album/0nmUmA7IASmi7wu1f6ooZG"
       },
@@ -5942,7 +6250,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 251214,
       "name": "Open Up The Gates",
       "url": "https://open.spotify.com/track/7CtnDUvsmFcH0fRU1Tr0Qf"
@@ -6029,6 +6337,24 @@
     },
     {
       "album": {
+        "name": "Overthinking",
+        "url": "https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH"
+      },
+      "artists": [
+        {
+          "name": "Samantha Ebert",
+          "url": "https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204816,
+      "name": "Overthinking",
+      "url": "https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M"
+    },
+    {
+      "album": {
         "name": "The Stonebrook Project",
         "url": "https://open.spotify.com/album/2JvdBs33vEFPanVsFawXeU"
       },
@@ -6084,10 +6410,32 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 226348,
       "name": "People Like Us (feat. Emerson Day)",
       "url": "https://open.spotify.com/track/6GaqVg2P6XFCzSZqFsLZIw"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Phillips",
+          "url": "https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187894,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx"
     },
     {
       "album": {
@@ -6232,7 +6580,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 189666,
       "name": "Praise The Lord (Sunday Prelude)",
       "url": "https://open.spotify.com/track/6zoNrumHHjx6m5J2LVvAB9"
@@ -6308,7 +6656,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 159435,
       "name": "Prayer and A Bible",
       "url": "https://open.spotify.com/track/2M4GHBCQ7eCHhBA4jMj1m5"
@@ -6370,6 +6718,24 @@
       "duration_ms": 249564,
       "name": "Real Help",
       "url": "https://open.spotify.com/track/0KVNy4HMxuxUPWBx5a1op6"
+    },
+    {
+      "album": {
+        "name": "Real Love",
+        "url": "https://open.spotify.com/album/53JXiB6cQFo2JIkEbIdTWE"
+      },
+      "artists": [
+        {
+          "name": "Ryan Ellis",
+          "url": "https://open.spotify.com/artist/7mkCeiRcySEQSSAMYbud5C"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212876,
+      "name": "Real Love",
+      "url": "https://open.spotify.com/track/64xTDRWYWyhfcx0rZexbhO"
     },
     {
       "album": {
@@ -7115,6 +7481,24 @@
     },
     {
       "album": {
+        "name": "Started With You",
+        "url": "https://open.spotify.com/album/3F1B6OAjoD2K3vm0vrXmLw"
+      },
+      "artists": [
+        {
+          "name": "Dan Bremnes",
+          "url": "https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172054,
+      "name": "Started With You",
+      "url": "https://open.spotify.com/track/5PEAU0AlblZBoHPu7h7cvl"
+    },
+    {
+      "album": {
         "name": "Stay (Gonna Be Okay)",
         "url": "https://open.spotify.com/album/3S8ENSSxaobl7GuaZA39hd"
       },
@@ -7798,7 +8182,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 162323,
       "name": "The Jesus I Know",
       "url": "https://open.spotify.com/track/62FEtKRUj9QXjQgO40eJ16"
@@ -8026,7 +8410,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-26",
+      "date_removed": null,
       "duration_ms": 222295,
       "name": "The Truth",
       "url": "https://open.spotify.com/track/5WcF82ipHJa8vQMMrjdbF4"
@@ -8268,6 +8652,24 @@
       "duration_ms": 226213,
       "name": "To Be a Child Again",
       "url": "https://open.spotify.com/track/0ICZkdGTFKwB70Uffi1f23"
+    },
+    {
+      "album": {
+        "name": "To Move Your Heart",
+        "url": "https://open.spotify.com/album/1pqsyIydGa5dnxp8npesZg"
+      },
+      "artists": [
+        {
+          "name": "Spencer Annis",
+          "url": "https://open.spotify.com/artist/3PcnAVq9b3HyDUkNFTvyUu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225350,
+      "name": "To Move Your Heart",
+      "url": "https://open.spotify.com/track/3KIUSkO74EUMhkysOw7qiV"
     },
     {
       "album": {
@@ -8594,6 +8996,24 @@
       "duration_ms": 252306,
       "name": "We Will Stand",
       "url": "https://open.spotify.com/track/0Hdpqso5qi1PyShUxluscB"
+    },
+    {
+      "album": {
+        "name": "We're Gonna Make It",
+        "url": "https://open.spotify.com/album/02KoyTR71Rf8c3dG2qGGb0"
+      },
+      "artists": [
+        {
+          "name": "LANCO",
+          "url": "https://open.spotify.com/artist/2lRH2dgU5Kk4Bc5phmII4T"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186466,
+      "name": "We're Gonna Make It",
+      "url": "https://open.spotify.com/track/6L9sPIBo4WOEJE6IPs6bva"
     },
     {
       "album": {
@@ -8937,6 +9357,28 @@
     },
     {
       "album": {
+        "name": "Whiter Than Snow",
+        "url": "https://open.spotify.com/album/2WpDT1UYcOSxiJwUWrvwDd"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Clifton",
+          "url": "https://open.spotify.com/artist/2G0M287MWFHQB1dE4RwW7t"
+        },
+        {
+          "name": "Haddon",
+          "url": "https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204424,
+      "name": "Whiter Than Snow",
+      "url": "https://open.spotify.com/track/29LsFj8wqhsD6wHsGqN1ik"
+    },
+    {
+      "album": {
         "name": "Who I Am",
         "url": "https://open.spotify.com/album/2AQpfAuGzzPvarUVlKjjTO"
       },
@@ -8992,6 +9434,24 @@
       "duration_ms": 190250,
       "name": "Who the Cross Is For",
       "url": "https://open.spotify.com/track/7tmJcijyirkPOEf2CJuL8d"
+    },
+    {
+      "album": {
+        "name": "Wholeheartedly",
+        "url": "https://open.spotify.com/album/7fLxkmNRG2RX4g3XCI6FqD"
+      },
+      "artists": [
+        {
+          "name": "Austin Ludwig",
+          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240015,
+      "name": "Wholeheartedly",
+      "url": "https://open.spotify.com/track/3J9uGNRA6oMvM4wnOkSdxT"
     },
     {
       "album": {
@@ -9216,6 +9676,24 @@
       "duration_ms": 206606,
       "name": "Yes He Does",
       "url": "https://open.spotify.com/track/5O5HNh3c2lYctzGMjLCr2M"
+    },
+    {
+      "album": {
+        "name": "Yes I Will",
+        "url": "https://open.spotify.com/album/2Eql4gLEoYdvYLKrhBr540"
+      },
+      "artists": [
+        {
+          "name": "7eventh Time Down",
+          "url": "https://open.spotify.com/artist/15JWT0b1GY8dOBjVtrHaca"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232019,
+      "name": "Yes I Will - feat. Azlyn Howard",
+      "url": "https://open.spotify.com/track/3Tm3NWC1xcl20KjMSGEQsj"
     },
     {
       "album": {

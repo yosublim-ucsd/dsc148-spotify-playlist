@@ -8825,6 +8825,24 @@
     },
     {
       "album": {
+        "name": "i caught a body",
+        "url": "https://open.spotify.com/album/7MWFxmu9k6oyolCOAUZMSA"
+      },
+      "artists": [
+        {
+          "name": "DeeKay",
+          "url": "https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86511,
+      "name": "i caught a body",
+      "url": "https://open.spotify.com/track/0E1PTwAAWZkszkrymH3aNY"
+    },
+    {
+      "album": {
         "name": "I DID IT (w/ Kanii & Anycia)",
         "url": "https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB"
       },

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "( ali despierta )",
+        "url": "https://open.spotify.com/album/4B5zzJ1sVQMIP2KVESRudk"
+      },
+      "artists": [
+        {
+          "name": "Alice Wonder",
+          "url": "https://open.spotify.com/artist/0SquRSkIJbzPqCUxG2EZMi"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190127,
+      "name": "( ali despierta )",
+      "url": "https://open.spotify.com/track/1hVDeLgwAxvvXWje6ztnwT"
+    },
+    {
+      "album": {
         "name": "Magie \u00e0 minuit",
         "url": "https://open.spotify.com/album/2e4p5hzB4FstwusUaPg8w8"
       },
@@ -466,6 +484,24 @@
       "duration_ms": 163413,
       "name": "Action Figures Fighting",
       "url": "https://open.spotify.com/track/30hwT0deSgqiaBMxijn35R"
+    },
+    {
+      "album": {
+        "name": "Adagio",
+        "url": "https://open.spotify.com/album/3qgAUF0EAfwmsGH6lFrZiO"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176026,
+      "name": "Adagio",
+      "url": "https://open.spotify.com/track/1BOvtLCCUsAaObd94hdaS8"
     },
     {
       "album": {
@@ -966,7 +1002,7 @@
       ],
       "date_added": "2024-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 249932,
       "name": "Amerika",
       "url": "https://open.spotify.com/track/2SKdoe7rNB1q4uBLfmhHsZ"
@@ -1534,7 +1570,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 231684,
       "name": "Be More",
       "url": "https://open.spotify.com/track/4bp4kwe29qY9PBdrEgSa53"
@@ -2677,6 +2713,24 @@
     },
     {
       "album": {
+        "name": "Chicos malos",
+        "url": "https://open.spotify.com/album/2jxTKN8yjr8C9EMur5di70"
+      },
+      "artists": [
+        {
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230477,
+      "name": "Chicos malos",
+      "url": "https://open.spotify.com/track/0sWSfIo0G5QwCWJd6uzkdT"
+    },
+    {
+      "album": {
         "name": "CHINO CADA MARTES",
         "url": "https://open.spotify.com/album/5m5qT7i1FIeKBUT65FKwLJ"
       },
@@ -3242,7 +3296,7 @@
       ],
       "date_added": "2024-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 169307,
       "name": "Cuadriculado",
       "url": "https://open.spotify.com/track/2DCUiwZcxvT5VrpUyCITAh"
@@ -3408,7 +3462,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 203532,
       "name": "Dancing with my phone",
       "url": "https://open.spotify.com/track/4Zh9zZmEBoDLTKQRjXwict"
@@ -4922,7 +4976,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 183093,
       "name": "Espina",
       "url": "https://open.spotify.com/track/2rHjLXPpOmu5rKHPaUa8Qb"
@@ -5168,6 +5222,24 @@
       "duration_ms": 132737,
       "name": "Eyes on my baby",
       "url": "https://open.spotify.com/track/7cM6obAwlMkP6nDTwNPEl2"
+    },
+    {
+      "album": {
+        "name": "eYeSiGht",
+        "url": "https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y"
+      },
+      "artists": [
+        {
+          "name": "Min Taka",
+          "url": "https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143499,
+      "name": "eYeSiGht",
+      "url": "https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs"
     },
     {
       "album": {
@@ -5888,7 +5960,7 @@
       ],
       "date_added": "2024-02-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 220969,
       "name": "Fotomat\u00f3n",
       "url": "https://open.spotify.com/track/3nUhS8DepplICizKgbbVDS"
@@ -5906,7 +5978,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 178562,
       "name": "Fragile",
       "url": "https://open.spotify.com/track/2tr3OPvMejWh2kK7b1C9vP"
@@ -6794,7 +6866,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 229480,
       "name": "Hex",
       "url": "https://open.spotify.com/track/2DShMZVt6bD0BJdmSCdnER"
@@ -8456,7 +8528,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": "2023-07-15",
+      "date_removed": null,
       "duration_ms": 196476,
       "name": "late nite",
       "url": "https://open.spotify.com/track/1sYp5bkjaiSKl1aOGOu3uw"
@@ -8864,6 +8936,24 @@
       "duration_ms": 204404,
       "name": "lo \u00fanico que quer\u00eda este verano",
       "url": "https://open.spotify.com/track/7AcWGIqtd7MDMe6f1eSi79"
+    },
+    {
+      "album": {
+        "name": "qui\u00e9n llama a esta hora (versi\u00f3n deluxe)",
+        "url": "https://open.spotify.com/album/2KYh73tnSooxmHciXtswtN"
+      },
+      "artists": [
+        {
+          "name": "gabriela arcos",
+          "url": "https://open.spotify.com/artist/3SdRPRuSNLp9lj06iZuQlx"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184808,
+      "name": "LOCA",
+      "url": "https://open.spotify.com/track/7rpetTXgYnbDENIZkLQcn0"
     },
     {
       "album": {
@@ -11320,7 +11410,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 206956,
       "name": "Old With You",
       "url": "https://open.spotify.com/track/2a8dFwynGpl0p0YYSUEnax"
@@ -13006,7 +13096,7 @@
       ],
       "date_added": "2024-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 235565,
       "name": "relevante",
       "url": "https://open.spotify.com/track/5MsdSGMDYL4vPzoesYcOYt"
@@ -14351,6 +14441,24 @@
     },
     {
       "album": {
+        "name": "some thoughts",
+        "url": "https://open.spotify.com/album/0SNV7pkwbVDw5PqIiLgjtD"
+      },
+      "artists": [
+        {
+          "name": "nazire",
+          "url": "https://open.spotify.com/artist/5yq1O1yuIoimW9QFYk4Pop"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204727,
+      "name": "some thoughts",
+      "url": "https://open.spotify.com/track/5GY8JTQ6xfzDjt5e9FjXgc"
+    },
+    {
+      "album": {
         "name": "Mulholland Drive",
         "url": "https://open.spotify.com/album/0QB8JzlX70ame6G972aEF1"
       },
@@ -15293,6 +15401,24 @@
     },
     {
       "album": {
+        "name": "Take My Body",
+        "url": "https://open.spotify.com/album/2KxPHf0Em4pjeCfW8xxyk6"
+      },
+      "artists": [
+        {
+          "name": "James Alyn",
+          "url": "https://open.spotify.com/artist/2kkcOVicqa6SBIZqBSUCy5"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209446,
+      "name": "Take My Body",
+      "url": "https://open.spotify.com/track/3JRTvLuOKLLZoO0M5Wxj77"
+    },
+    {
+      "album": {
         "name": "Take My Hug",
         "url": "https://open.spotify.com/album/3gf0iNThdkWm4GmyPIwCGQ"
       },
@@ -15486,6 +15612,28 @@
       "duration_ms": 179249,
       "name": "Teenager",
       "url": "https://open.spotify.com/track/2oXYNuC2MyRIBEAuhVCIAz"
+    },
+    {
+      "album": {
+        "name": "Tell Me",
+        "url": "https://open.spotify.com/album/0IdZGZ4CGgMj4fhYXzxR4D"
+      },
+      "artists": [
+        {
+          "name": "Dept",
+          "url": "https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U"
+        },
+        {
+          "name": "PRETZELLE",
+          "url": "https://open.spotify.com/artist/5imDin9uo07y7ZuUiJgOU7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228671,
+      "name": "Tell Me",
+      "url": "https://open.spotify.com/track/2GZlVTFVaX6ViRnf4U7teJ"
     },
     {
       "album": {
@@ -17444,6 +17592,24 @@
       "duration_ms": 281170,
       "name": "where u are",
       "url": "https://open.spotify.com/track/5Twzpnu3oSKEWEjSHRlhgn"
+    },
+    {
+      "album": {
+        "name": "Where'd It Go Wrong?",
+        "url": "https://open.spotify.com/album/4iu8klcXQTCzDElkuwHyiL"
+      },
+      "artists": [
+        {
+          "name": "d4vd",
+          "url": "https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251294,
+      "name": "Where'd It Go Wrong?",
+      "url": "https://open.spotify.com/track/3l2asA2bO5lrwuiWneZbh0"
     },
     {
       "album": {

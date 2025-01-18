@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists every Wednesday\. Cover: Church Outfit \| Artwork: Nejc Prah
+> New music by the heaviest independent artists every Wednesday\. Cover: Church Tongue \| Artwork: Nejc Prah
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,828 likes - 55 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,893 likes - 55 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2wnPyeao7oY.md) - [plain]
 | 54 | [Tear The Sky Apart](https://open.spotify.com/track/3YQXvBv68y2IFsBPgZq8xc) | [Kids Don't Float](https://open.spotify.com/artist/7zkrumFBhmI2INqMP5tjNF) | [Into A Sea Of Gloom](https://open.spotify.com/album/1BrvFejgtMjJCe6jvNdXM4) | 2:07 |
 | 55 | [Death Oath](https://open.spotify.com/track/6N5hpnvbfFYDQYZNhKl0Dz) | [Venemous](https://open.spotify.com/artist/28an2UZBnMulKfdQxhNOBq) | [Death Oath](https://open.spotify.com/album/36SPNysziXOCW7n2BSfD1L) | 3:32 |
 
-Snapshot ID: `Z4fjTQAAAADd2bTO/y/NatRvAUq2bVkn`
+Snapshot ID: `Z4p98AAAAACKUGiAjgKuMzOC92PN4xMu`

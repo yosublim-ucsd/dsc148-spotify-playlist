@@ -4,7 +4,7 @@
 
 > Trendy & Chill Korean R&B music\. \(Cover: HUH YUNJIN\(허윤진\)\)
 
-789 songs - 1 day 17 hr 58 min
+790 songs - 1 day 18 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -528,6 +528,7 @@
 | [Only one \(feat\. Daniel Schulz\)](https://open.spotify.com/track/6sZDpl4d3TEO7DSGWHCEjv) | [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K), [Daniel Schulz](https://open.spotify.com/artist/3pVuaUisHmRfVy53qWwmql) | [Flyin' Part2 Single 1](https://open.spotify.com/album/5eeZEPGJnisr35XDEirELT) | 3:05 | 2023-07-25 | 2023-08-05 |
 | [Only U \(Feat\. PENOMECO\)](https://open.spotify.com/track/11ysgxz5ER0yvnZ8Uogbe8) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [Jiselle](https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Only U](https://open.spotify.com/album/2olAsLaKHRckNVhmB8xTI0) | 3:47 | 2022-05-09 | 2022-07-28 |
 | [Ooh Ooh](https://open.spotify.com/track/4gVZe1GRfFtvGmQKTWKZzV) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld) | [Ooh Ooh](https://open.spotify.com/album/5xnYffcKYsHsoAT57oH3j7) | 3:13 | 2022-07-24 | 2022-07-26 |
+| [opportunist \(Feat\. Skinny Brown\)](https://open.spotify.com/track/1rKYvZNCmwQ1UbZUEv2W31) | [muhpy](https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4), [HAAN](https://open.spotify.com/artist/2l8mENYuyXlnqdjSrsSLq6), [Skinny Brown](https://open.spotify.com/artist/0E0fq98DMHhkAgiXWpCViX) | [muhpy is HAAN piece](https://open.spotify.com/album/3n8O87rE3qUxTTdX1YYwFs) | 2:57 | 2025-01-18 |  |
 | [Optimist \(Feat\. Blase\)](https://open.spotify.com/track/0XoTRbjmqOw5Wx7b2aw9Ud) | [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr), [Blase](https://open.spotify.com/artist/6XsOOgLCtnkkOv2uhZXuB0) | [Optimist \(Feat\. Blase\)](https://open.spotify.com/album/7ErFctcmAOQiP6xNktc5lX) | 2:44 | 2023-03-14 | 2023-04-04 |
 | [Orange Clouds \(feat\. JUNNY\)](https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Orange Clouds](https://open.spotify.com/album/5aU6IDEb4SFEokay09FxXD) | 2:26 | 2024-08-22 | 2024-09-25 |
 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 | 2022-09-16 | 2022-11-14 |
@@ -770,7 +771,7 @@
 | [Wish You Were Here](https://open.spotify.com/track/0ck9OBdibazBRrYqIwqEJk) | [CL](https://open.spotify.com/artist/0tzSBCPJZmHTdOA3ZV2mN3) | [Wish You Were Here](https://open.spotify.com/album/16W36ygiBLxI7df9XQgPov) | 3:41 | 2022-04-19 | 2022-07-22 |
 | [Wishing On You](https://open.spotify.com/track/6ulJY8ia7SDCPO4Lnge1Pu) | [JIHYO](https://open.spotify.com/artist/7F1iAHRYxR3MY7yAEuFqgL) | [ZONE](https://open.spotify.com/album/1GIkapvyAw5lwdNw66hI44) | 3:14 | 2023-08-18 | 2024-10-15 |
 | [with you \(feat\. g0nny\)](https://open.spotify.com/track/32CXBkgJ0rRsvEvBPT5bYP) | [KOREA CRACKER](https://open.spotify.com/artist/0SciAzspUVXo1F4txGErsz), [g0nny](https://open.spotify.com/artist/5GtOjehIkcAjP9ykHB3MMR) | [with you \(feat\. g0nny\)](https://open.spotify.com/album/38jEKpk2q846icctNoaDKk) | 2:59 | 2023-07-07 | 2023-07-15 |
-| [Wonderland \(Carol ver.\)](https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:17 | 2024-12-24 |  |
+| [Wonderland \(Carol ver.\)](https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI) | [Dreamcatcher](https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ) | [\[My Christmas Sweet Love\]](https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM) | 3:17 | 2024-12-24 | 2025-01-18 |
 | [Woo hoo \(Feat\. Kid Milli\)](https://open.spotify.com/track/50JEzNr75B90UaYXZvCuaT) | [KAIAVANT](https://open.spotify.com/artist/2xTSAzEj9nYkoVr2nptxFe), [Kid Milli](https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J) | [Piece of space](https://open.spotify.com/album/38F3lt1f20fXN4paz2XF2X) | 4:05 | 2022-08-31 | 2022-09-09 |
 | [Woo\~](https://open.spotify.com/track/6A61HhOH8EwGSXEgyuv899) | [moim](https://open.spotify.com/artist/1sr5uaXiCwEqIh26gTWBtP) | [EGG](https://open.spotify.com/album/6riQ6u1zptxd4GdyjH0YtZ) | 2:47 | 2022-11-03 | 2022-11-23 |
 | [Write & Draw](https://open.spotify.com/track/2sV8dt5EihIImDnWrZYc34) | [Kim Boa](https://open.spotify.com/artist/6NJTdlLzuPZJg22hL0ku1p) | [Write & Draw](https://open.spotify.com/album/2uILChMZjGZ897DGnXeywE) | 3:52 | 2023-07-07 | 2023-07-15 |

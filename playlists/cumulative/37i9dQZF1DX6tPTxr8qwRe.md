@@ -2,7 +2,7 @@
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: KiNG MALA
+> Dark, hard hitting pop\. Cover: Joya Marleen
 
 838 songs - 1 day 14 hr 40 min
 

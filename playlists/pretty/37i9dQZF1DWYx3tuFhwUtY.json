@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138313,
+  "num_followers": 138315,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -287,6 +287,22 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
+        "name": "oh boi",
+        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "duration_ms": 160333,
+      "name": "oh boi",
+      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
         "name": "Mustang",
         "url": "https://open.spotify.com/album/00aKd415VlHgSv5uzQotNW"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 206733,
       "name": "Psychics in LA",
       "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "oh boi",
-        "url": "https://open.spotify.com/album/6PJNpyvjXzbPyYAYvSPJlM"
-      },
-      "artists": [
-        {
-          "name": "shego",
-          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
-        }
-      ],
-      "duration_ms": 160333,
-      "name": "oh boi",
-      "url": "https://open.spotify.com/track/2BkSglj7a3gYYm25lNNUjf"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Tasmania",
-        "url": "https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6"
-      },
-      "artists": [
-        {
-          "name": "Pond",
-          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
-        }
-      ],
-      "duration_ms": 244253,
-      "name": "Tasmania",
-      "url": "https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Valentine",
         "url": "https://open.spotify.com/album/4gYRifAy47Kiw1k152e6hv"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 196173,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/21brT2CZwKz8VPCf0nFxiP"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Tasmania",
+        "url": "https://open.spotify.com/album/4K7jmZcYAmNlKdIxqKUbH6"
+      },
+      "artists": [
+        {
+          "name": "Pond",
+          "url": "https://open.spotify.com/artist/4skJp5OKvcc9eKokiuhi2s"
+        }
+      ],
+      "duration_ms": 244253,
+      "name": "Tasmania",
+      "url": "https://open.spotify.com/track/2rhJ5aL37Tc40c2lWUrsJB"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "World Psychedelic Classics 3: Love's a Real Thing",
-        "url": "https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6"
-      },
-      "artists": [
-        {
-          "name": "Super Eagles",
-          "url": "https://open.spotify.com/artist/2vyu3bWnidVmXk5wmqJaQ5"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "Love's a Real Thing",
-      "url": "https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Favor",
         "url": "https://open.spotify.com/album/0XtWBWfzxNebzx8oYLEVJ9"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 278213,
       "name": "Favor",
       "url": "https://open.spotify.com/track/22u3zisnI1LmCT1jHNdULx"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "World Psychedelic Classics 3: Love's a Real Thing",
+        "url": "https://open.spotify.com/album/507y3UUuDaYdeBaQGhqRW6"
+      },
+      "artists": [
+        {
+          "name": "Super Eagles",
+          "url": "https://open.spotify.com/artist/2vyu3bWnidVmXk5wmqJaQ5"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "Love's a Real Thing",
+      "url": "https://open.spotify.com/track/3doVWfX2iomq1Z6XsidARn"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Play It Strange",
-        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
-      },
-      "artists": [
-        {
-          "name": "The Fresh & Onlys",
-          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 226296,
       "name": "One + One",
       "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Play It Strange",
+        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
+      },
+      "artists": [
+        {
+          "name": "The Fresh & Onlys",
+          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1195,18 +1195,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Que No",
-        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
+        "name": "Kills Birds",
+        "url": "https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF"
       },
       "artists": [
         {
-          "name": "Barbi Recanati",
-          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
+          "name": "Kills Birds",
+          "url": "https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN"
         }
       ],
-      "duration_ms": 230437,
-      "name": "Que No",
-      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
+      "duration_ms": 156001,
+      "name": "Worthy Girl",
+      "url": "https://open.spotify.com/track/3yK73VxfoiDT1hCex7X09X"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Kills Birds",
-        "url": "https://open.spotify.com/album/4ji7q0x2FcLB65vc9K3LUF"
+        "name": "Que No",
+        "url": "https://open.spotify.com/album/1seXkKYuDxoAgUgZznRKJJ"
       },
       "artists": [
         {
-          "name": "Kills Birds",
-          "url": "https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN"
+          "name": "Barbi Recanati",
+          "url": "https://open.spotify.com/artist/4nwFiHgPXUpo0KgR1rZSAD"
         }
       ],
-      "duration_ms": 156001,
-      "name": "Worthy Girl",
-      "url": "https://open.spotify.com/track/3yK73VxfoiDT1hCex7X09X"
+      "duration_ms": 230437,
+      "name": "Que No",
+      "url": "https://open.spotify.com/track/4DAQll50JkLQMasCbExBkp"
     }
   ],
   "unique_name": "Diarios de Bicicleta",

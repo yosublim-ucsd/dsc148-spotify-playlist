@@ -6,7 +6,7 @@
     "name": "Topsify",
     "url": "https://open.spotify.com/user/topsify"
   },
-  "snapshot_id": "AAAF6h8z8r1jEF9rX2OoQBbmvefHLleL",
+  "snapshot_id": "AAAF+U8kJ31bRQDSsla5QUURzdJgumZa",
   "tracks": [
     {
       "added_at": "2025-01-11 05:11:11",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
+      "added_at": "2025-01-17 17:50:06",
+      "album": {
+        "name": "Slowly, It Dawns",
+        "url": "https://open.spotify.com/album/4cXbkCGtivxpmwwbmdyuQR"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Vauxhall",
+      "url": "https://open.spotify.com/track/2ukWCx1OUBiZsTyjhfGVYY"
+    },
+    {
       "added_at": "2025-01-11 05:11:11",
       "album": {
         "name": "Hypothetically",
@@ -119,22 +135,6 @@
       "duration_ms": 162352,
       "name": "flatline",
       "url": "https://open.spotify.com/track/0MwF1mt4fB7ZAjAWIpCnG8"
-    },
-    {
-      "added_at": "2025-01-11 05:11:11",
-      "album": {
-        "name": "15%",
-        "url": "https://open.spotify.com/album/6UQlMFX1JWcBNBJvEZxYnL"
-      },
-      "artists": [
-        {
-          "name": "Victoria Canal",
-          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
-        }
-      ],
-      "duration_ms": 208480,
-      "name": "15%",
-      "url": "https://open.spotify.com/track/0Ocv0K4bzPBnG5CxvXAA8m"
     },
     {
       "added_at": "2025-01-11 05:11:11",
@@ -361,6 +361,22 @@
       "url": "https://open.spotify.com/track/4WVwZsK17vv5sOgeR8IjIu"
     },
     {
+      "added_at": "2025-01-17 17:53:12",
+      "album": {
+        "name": "shoreline",
+        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 244473,
+      "name": "shoreline",
+      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
+    },
+    {
       "added_at": "2025-01-11 05:11:11",
       "album": {
         "name": "He's A Dancer",
@@ -505,6 +521,22 @@
       "url": "https://open.spotify.com/track/3RMHQtjlUAi4SDtinzCuy4"
     },
     {
+      "added_at": "2025-01-17 17:59:30",
+      "album": {
+        "name": "Love Is Unkind",
+        "url": "https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU"
+      },
+      "artists": [
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 213142,
+      "name": "Love Is Unkind",
+      "url": "https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ"
+    },
+    {
       "added_at": "2025-01-11 05:11:11",
       "album": {
         "name": "8",
@@ -599,6 +631,22 @@
       "duration_ms": 205263,
       "name": "Add Up My Love",
       "url": "https://open.spotify.com/track/6FcDxtnGfsYHOcGkXN2OIG"
+    },
+    {
+      "added_at": "2025-01-17 21:56:45",
+      "album": {
+        "name": "you were just drunk",
+        "url": "https://open.spotify.com/album/5KBEO2fTXCj1iEjcROyPXA"
+      },
+      "artists": [
+        {
+          "name": "Julia Minichiello",
+          "url": "https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS"
+        }
+      ],
+      "duration_ms": 176652,
+      "name": "you were just drunk",
+      "url": "https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b"
     },
     {
       "added_at": "2025-01-15 19:52:14",
@@ -1377,6 +1425,22 @@
       "url": "https://open.spotify.com/track/6cx5CvFhqN19efStehJqoW"
     },
     {
+      "added_at": "2025-01-17 21:55:43",
+      "album": {
+        "name": "Wrong Side",
+        "url": "https://open.spotify.com/album/1hHusQ9kQa2oL5AiBh6sdE"
+      },
+      "artists": [
+        {
+          "name": "Lindsey Rose Black",
+          "url": "https://open.spotify.com/artist/6u0F0ksLPNfHhjQxLybjtv"
+        }
+      ],
+      "duration_ms": 220561,
+      "name": "Wrong Side",
+      "url": "https://open.spotify.com/track/19ytVRTHsqINkbEgYj1hNs"
+    },
+    {
       "added_at": "2025-01-11 05:11:11",
       "album": {
         "name": "99 Nights",
@@ -1671,6 +1735,22 @@
       "duration_ms": 135066,
       "name": "Glue Song (feat. Clairo)",
       "url": "https://open.spotify.com/track/0tMMPZEt6Gyrl9FI8zSicm"
+    },
+    {
+      "added_at": "2025-01-17 14:09:51",
+      "album": {
+        "name": "berlin",
+        "url": "https://open.spotify.com/album/6g9OX1OAWVPc7L14BpiU74"
+      },
+      "artists": [
+        {
+          "name": "Kayla Grace",
+          "url": "https://open.spotify.com/artist/12dfSc1rVtEea2qMe38v3T"
+        }
+      ],
+      "duration_ms": 183424,
+      "name": "berlin",
+      "url": "https://open.spotify.com/track/1H58FSrNhThtYkuOkYkcmm"
     }
   ],
   "unique_name": "Pop Focus | Pop Music for Studying",

@@ -4,7 +4,7 @@
 
 > Soulful, bluesy ballads\. Cover: Kashus Culpepper
 
-174 songs - 12 hr 6 min
+175 songs - 12 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Beautiful Stranger](https://open.spotify.com/track/3G5zOkX5R6i6QDuyY7xNRH) | [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [El Dorado](https://open.spotify.com/album/0twx7uqxPQtmtpeURTlZB0) | 4:07 | 2020-11-05 |  |
 | [Been My Last](https://open.spotify.com/track/4r7ZdD5korTwjnbe1mezoK) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/6yxTsj35RwLCNGm60hlf7h) | 3:44 | 2020-11-05 | 2022-07-29 |
 | [Been My Last](https://open.spotify.com/track/55LQy7ZJejUaTTiSN8TK9D) | [Matt Andersen](https://open.spotify.com/artist/2dOaom01dm1MhNLnyHpWD5) | [Halfway Home By Morning](https://open.spotify.com/album/42ly7pyWE5C0o3PFaMRd6e) | 3:44 | 2020-11-05 | 2024-03-09 |
+| [Believer](https://open.spotify.com/track/6dIiZC1dVN4DiVOUWE72DQ) | [Pug Johnson](https://open.spotify.com/artist/7Jrh16v5jTLnomhJCDH1CU) | [Believer](https://open.spotify.com/album/5DaItt8Fpb5txHmNB5IWcq) | 4:29 | 2025-01-17 |  |
 | [Better Days](https://open.spotify.com/track/6JUbNCkbY43fsTVcEr3Yxf) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/0p5LJ9i0t0HBwNDvuud4Kj) | [The Alders & The Ashes](https://open.spotify.com/album/2tqfiWVMrP284aCYzqtJb1) | 4:04 | 2023-01-20 | 2024-04-19 |
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2BrKBhvGdc2l0OTd8YSwCw) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [In the Sundust](https://open.spotify.com/album/4AHKtxn6vYt9a85DlCKg1g) | 4:03 | 2023-01-20 | 2024-02-19 |
 | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/track/2rB7QniNaAn2hDF6bb3FjN) | [The Hello Darlins](https://open.spotify.com/artist/7cjzTUnfgM7udsWRdTqnNC), [Dave Fenley](https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai) | [Better Days \(feat\. Dave Fenley\)](https://open.spotify.com/album/3SGnujKkgKLPUqLnf8lZFd) | 4:03 | 2023-01-20 |  |
@@ -133,7 +134,7 @@
 | [Slow Love](https://open.spotify.com/track/0JhPbFpBALh3B9c9njC6iB) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/4A271CZJOcBKENslfEDsYM) | 3:38 | 2020-11-05 | 2024-04-19 |
 | [Slow Love](https://open.spotify.com/track/0hoCHnREuYBPYdjRttLopJ) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Daptone Mood](https://open.spotify.com/album/75eePeKVblGR9BAAnhOtuC) | 3:38 | 2020-11-05 | 2022-11-14 |
 | [Slow Love](https://open.spotify.com/track/1DTjDi7vp3NnYfOtOnLf5R) | [Charles Bradley](https://open.spotify.com/artist/462T0buQ5ScBUQCRpodDRf), [Menahan Street Band](https://open.spotify.com/artist/1PryMSya1JnSAlcwYawCxp), [Saun & Starr](https://open.spotify.com/artist/6m4tJuf67jwVSvMP34hrck) | [Changes](https://open.spotify.com/album/7g7WzMzTLLOyTSzVUnJACI) | 3:38 | 2020-11-05 | 2023-04-30 |
-| [Smile](https://open.spotify.com/track/599mXRPZpfTGaecsE1A2OQ) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Unclassified](https://open.spotify.com/album/1bzshLWwMYoSQdLXa7HZn8) | 4:53 | 2020-11-05 |  |
+| [Smile](https://open.spotify.com/track/599mXRPZpfTGaecsE1A2OQ) | [Robert Randolph & The Family Band](https://open.spotify.com/artist/4xac3zhHlBm5QDxbZeqgeR) | [Unclassified](https://open.spotify.com/album/1bzshLWwMYoSQdLXa7HZn8) | 4:53 | 2020-11-05 | 2025-01-18 |
 | [Smile At The Mention](https://open.spotify.com/track/660y7d6UfYBNdU9U2Tewn6) | [Ben Harper](https://open.spotify.com/artist/45lorWzrKLxfKlWpV7r9CN) | [Bloodline Maintenance](https://open.spotify.com/album/5ZiQvnBPWaLdNtoZxYNuth) | 3:38 | 2022-07-29 |  |
 | [So Afraid of Losing You Again](https://open.spotify.com/track/0eHekxtEusjXpOBB0glzdx) | [Danielia Cotton](https://open.spotify.com/artist/50miJwBy3aOhmUFpyewX5t) | [So Afraid Of Losing You Again](https://open.spotify.com/album/1JNdCq5mTHHn3K3RIlGabD) | 4:12 | 2024-08-02 |  |
 | [So Glad I Found You](https://open.spotify.com/track/139qRX3nwAWmgBYal2yH1N) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [So Glad I Found You](https://open.spotify.com/album/0kzYR7CaWLFrqG87GxGwpY) | 3:16 | 2023-08-25 |  |

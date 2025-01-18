@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: Aliocha Schneider",
+  "description": "De la musique qu\u00e9b\u00e9coise pour tous les go\u00fbts. Photo: St\u00e9phanie Boulay",
   "name": "Qu\u00e9b\u00e9cois Contemporain",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 258540,
       "name": "Ami imaginaire",
       "url": "https://open.spotify.com/track/5fy9vWmI4x38nkNZIf67eR"
@@ -92,7 +92,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 185960,
       "name": "Balle Courbe",
       "url": "https://open.spotify.com/track/0HBQUemZHQZdW3npRpKREc"
@@ -136,6 +136,32 @@
       "duration_ms": 307133,
       "name": "Besoin de bras",
       "url": "https://open.spotify.com/track/4VJxp5oheMQcURrcbWLKAA"
+    },
+    {
+      "album": {
+        "name": "B\u00e9atrice",
+        "url": "https://open.spotify.com/album/3idJJWSIWD8dLHD4JpoGPQ"
+      },
+      "artists": [
+        {
+          "name": "Major-Moran",
+          "url": "https://open.spotify.com/artist/1G9UzmqlFkUfFF7Fa4rVPh"
+        },
+        {
+          "name": "Catherine Major",
+          "url": "https://open.spotify.com/artist/7FCNIhja91XHhr3eMzODeh"
+        },
+        {
+          "name": "Moran",
+          "url": "https://open.spotify.com/artist/1tJxanDuDZ2DWpBYxDH8Qm"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179833,
+      "name": "B\u00e9atrice",
+      "url": "https://open.spotify.com/track/5w4TBVGa5PM9dWV9Xm7l8W"
     },
     {
       "album": {
@@ -318,6 +344,24 @@
       "duration_ms": 253973,
       "name": "Comme les pigeons d'argile",
       "url": "https://open.spotify.com/track/4fCENMUKSgBffOnSDGI1M2"
+    },
+    {
+      "album": {
+        "name": "Corail",
+        "url": "https://open.spotify.com/album/55NhEOcVmjVT6gWcI18GFJ"
+      },
+      "artists": [
+        {
+          "name": "Simon Lachance",
+          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Corail",
+      "url": "https://open.spotify.com/track/1zhvNd9Owc6MYk4TjV7wdm"
     },
     {
       "album": {
@@ -621,7 +665,7 @@
     },
     {
       "album": {
-        "name": "Gagner ma cause",
+        "name": "GAGNER MA CAUSE",
         "url": "https://open.spotify.com/album/5JFQecaxwkh6VCBAP2SVZj"
       },
       "artists": [
@@ -634,7 +678,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 166126,
-      "name": "Gagner ma cause",
+      "name": "GAGNER MA CAUSE",
       "url": "https://open.spotify.com/track/3DN2jMQC18voS7AHGtVHGy"
     },
     {
@@ -848,7 +892,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 170560,
       "name": "Je te dirai tout",
       "url": "https://open.spotify.com/track/7u6H9XrZXYVaRa09dnyhkK"
@@ -942,6 +986,24 @@
       "duration_ms": 236680,
       "name": "La libert\u00e9 (c'est de suivre le plan)",
       "url": "https://open.spotify.com/track/4kNA1PnPZKrcmKItCEjSoE"
+    },
+    {
+      "album": {
+        "name": "Si l'essentiel c'est d'\u00eatre aim\u00e9 / La mauvaise question",
+        "url": "https://open.spotify.com/album/7vaSzxNrZe41hcNtz472qu"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "La mauvaise question",
+      "url": "https://open.spotify.com/track/6KYNFAa4z1GJYnAkDf9Gyw"
     },
     {
       "album": {
@@ -1602,7 +1664,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 176870,
       "name": "Parano\u00efa etc.",
       "url": "https://open.spotify.com/track/44sGbp0IOD4JgnFN9Oq7IS"
@@ -1628,6 +1690,24 @@
       "duration_ms": 179000,
       "name": "Pomme",
       "url": "https://open.spotify.com/track/26s7UGEzE0vfIK7BxvWb8q"
+    },
+    {
+      "album": {
+        "name": "Pris mes jambes \u00e0 mon cou",
+        "url": "https://open.spotify.com/album/6L5fUrhOffxBgXJc7Y3IqE"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Gray",
+          "url": "https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168804,
+      "name": "Pris mes jambes \u00e0 mon cou",
+      "url": "https://open.spotify.com/track/5eOVmRGm4DERbVGt5Gxy0k"
     },
     {
       "album": {
@@ -1950,7 +2030,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 163278,
       "name": "Ta bouche",
       "url": "https://open.spotify.com/track/5pGcX4EhocWxqwVw1QR8RY"
@@ -2030,6 +2110,24 @@
       "duration_ms": 209982,
       "name": "Tous ces doutes",
       "url": "https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y"
+    },
+    {
+      "album": {
+        "name": "Tout ce que je dis",
+        "url": "https://open.spotify.com/album/2zGxfVNGP1MoPkzHK1g4DH"
+      },
+      "artists": [
+        {
+          "name": "Olivier Couture",
+          "url": "https://open.spotify.com/artist/5whPaL8m91IdIvF7f7qqJq"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182106,
+      "name": "Tout ce que je dis",
+      "url": "https://open.spotify.com/track/4R0wdkiNyVehGsv4uMc58S"
     },
     {
       "album": {

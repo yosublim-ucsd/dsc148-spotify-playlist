@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-24",
-  "description": "R&B of the moment by the artists of the future. Cover: Amelia Moore",
+  "description": "R&B of the moment by the artists of the future. Cover: THEY.",
   "name": "R&B Rising",
   "tracks": [
     {
@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 143255,
       "name": "285",
       "url": "https://open.spotify.com/track/1zMF8kUaHB6Nb7iMgY8X1c"
@@ -482,6 +482,28 @@
       "duration_ms": 116655,
       "name": "Addicting",
       "url": "https://open.spotify.com/track/4A5X9UxxIzSU3ajhrJtER8"
+    },
+    {
+      "album": {
+        "name": "A Story By: Keke Palmer",
+        "url": "https://open.spotify.com/album/5BoADWzxK0dBlM0Pdfghth"
+      },
+      "artists": [
+        {
+          "name": "Keke Palmer",
+          "url": "https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq"
+        },
+        {
+          "name": "Diva Gurl",
+          "url": "https://open.spotify.com/artist/4ryikYxDE2ShiLDkzMqs11"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154578,
+      "name": "Afford It (From the Motion picture \u201cOne Of Them Days\u201d)",
+      "url": "https://open.spotify.com/track/7ELTHpC3ZpT6geNBz1zzN4"
     },
     {
       "album": {
@@ -3413,6 +3435,24 @@
     },
     {
       "album": {
+        "name": "Choosin'",
+        "url": "https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "Choosin'",
+      "url": "https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn"
+    },
+    {
+      "album": {
         "name": "chosen",
         "url": "https://open.spotify.com/album/3ffwr7SUI1xU2SR3BaHe2z"
       },
@@ -4076,6 +4116,28 @@
       "duration_ms": 184586,
       "name": "Crazy Down",
       "url": "https://open.spotify.com/track/6Dp3TqrwcYRs3KChuVlPMx"
+    },
+    {
+      "album": {
+        "name": "Crisis Evasion",
+        "url": "https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        },
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Crisis Evasion",
+      "url": "https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin"
     },
     {
       "album": {
@@ -8752,7 +8814,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 131590,
       "name": "I Decide",
       "url": "https://open.spotify.com/track/5ZHbW3KbAkz9JQ40u51r6k"
@@ -10285,6 +10347,28 @@
     },
     {
       "album": {
+        "name": "Laid Back/Old Skool Chevy (feat. Kenyon Dixon)",
+        "url": "https://open.spotify.com/album/45SobE43dJWduPtV3ww2rX"
+      },
+      "artists": [
+        {
+          "name": "TAVE",
+          "url": "https://open.spotify.com/artist/76ZWyAjoSOf6v8kH3UqLEK"
+        },
+        {
+          "name": "Kenyon Dixon",
+          "url": "https://open.spotify.com/artist/5AzjednUL6MFJP0dBic3be"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163984,
+      "name": "Laid Back/Old Skool Chevy (feat. Kenyon Dixon)",
+      "url": "https://open.spotify.com/track/6ut8pLAqCv4kH0W5ura187"
+    },
+    {
+      "album": {
         "name": "Closure Tapes",
         "url": "https://open.spotify.com/album/4rAj2yXfbuhHxR5ibpopF5"
       },
@@ -11670,7 +11754,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 281099,
       "name": "Lying (feat. Dylan Sinclair)",
       "url": "https://open.spotify.com/track/5ceDV9qcL7Ow4EyO1yPkQY"
@@ -12082,7 +12166,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 117333,
       "name": "Mi Amor",
       "url": "https://open.spotify.com/track/1GBk5m0nHSV2nwWv0fxpzA"
@@ -12998,7 +13082,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 152470,
       "name": "No Hoe Phases",
       "url": "https://open.spotify.com/track/1kePwWPGKfw4bREf6dOnjD"
@@ -15403,6 +15487,24 @@
     },
     {
       "album": {
+        "name": "Ready",
+        "url": "https://open.spotify.com/album/2pxhCHAdA9lGlAK9i7Bhau"
+      },
+      "artists": [
+        {
+          "name": "ASTN",
+          "url": "https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165828,
+      "name": "Ready",
+      "url": "https://open.spotify.com/track/0igbWhWPRW2dL35gXaHHcu"
+    },
+    {
+      "album": {
         "name": "6.9.4.2",
         "url": "https://open.spotify.com/album/4uF2fu9lFgrFNjTVxLTAxT"
       },
@@ -17618,7 +17720,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 146840,
       "name": "Step Bout Me",
       "url": "https://open.spotify.com/track/4LkFWE9BpmOomPN5Aq6hvp"
@@ -21752,6 +21854,28 @@
       "duration_ms": 228261,
       "name": "Your Ecstasy",
       "url": "https://open.spotify.com/track/347G6GmaMD9JQbv7LKAILT"
+    },
+    {
+      "album": {
+        "name": "Your Love Is Gold",
+        "url": "https://open.spotify.com/album/5DlolQXFXfRLIBn9NzbrOr"
+      },
+      "artists": [
+        {
+          "name": "4Fargo",
+          "url": "https://open.spotify.com/artist/33FcjtLCwlwxV9ImxJX2iK"
+        },
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207791,
+      "name": "Your Love Is Gold",
+      "url": "https://open.spotify.com/track/0MbqFNo6ajGsboV41LQhPu"
     },
     {
       "album": {

@@ -28899,6 +28899,24 @@
     },
     {
       "album": {
+        "name": "take it slow",
+        "url": "https://open.spotify.com/album/3AMNBMeY5JZYEO5k8mcaeR"
+      },
+      "artists": [
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137842,
+      "name": "take it slow",
+      "url": "https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo"
+    },
+    {
+      "album": {
         "name": "take me to the moon",
         "url": "https://open.spotify.com/album/6WZfKL7Lhhyqb84wMeejQJ"
       },

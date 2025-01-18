@@ -249,6 +249,24 @@
     },
     {
       "album": {
+        "name": "LOS QUE TE DAN SED",
+        "url": "https://open.spotify.com/album/10vWlJc7dYXBJpBVFXfuKs"
+      },
+      "artists": [
+        {
+          "name": "Supermerk2",
+          "url": "https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112223,
+      "name": "Alma herida",
+      "url": "https://open.spotify.com/track/49K0aG1Tcx0QyE0lru9OEd"
+    },
+    {
+      "album": {
         "name": "Mi \u00danico Amor",
         "url": "https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN"
       },
@@ -808,7 +826,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 201053,
       "name": "Cari\u00f1ito",
       "url": "https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx"

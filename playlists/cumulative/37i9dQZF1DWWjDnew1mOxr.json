@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "Boss music for boss people. Cover: Sam Fender",
+  "description": "Boss music for boss people. Cover: Somebody's Child",
   "name": "Proper Belters",
   "tracks": [
     {
@@ -856,6 +856,24 @@
       "duration_ms": 226077,
       "name": "Call Me What You Like",
       "url": "https://open.spotify.com/track/21rYCEejlfM0LYRlfzxGeM"
+    },
+    {
+      "album": {
+        "name": "Can't Say No",
+        "url": "https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192706,
+      "name": "Can't Say No",
+      "url": "https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU"
     },
     {
       "album": {
@@ -2966,7 +2984,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 189850,
       "name": "IGNORE THIS",
       "url": "https://open.spotify.com/track/2fAepZ7Fl8sbwZXxkIZMpS"
@@ -3478,6 +3496,24 @@
       "duration_ms": 184831,
       "name": "Lap Around The Sun",
       "url": "https://open.spotify.com/track/7iC546xP2SSf2Ws3fKeG9X"
+    },
+    {
+      "album": {
+        "name": "Last Night I Held Your Hand",
+        "url": "https://open.spotify.com/album/6ZvDph2g4dJnla8YJgkGA6"
+      },
+      "artists": [
+        {
+          "name": "Somebody's Child",
+          "url": "https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220264,
+      "name": "Last Night I Held Your Hand",
+      "url": "https://open.spotify.com/track/6NL6zL6uc5GmJLETAK6hn0"
     },
     {
       "album": {
@@ -4507,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+    },
+    {
+      "album": {
         "name": "Sad Boys",
         "url": "https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2"
       },
@@ -4648,7 +4702,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 191204,
       "name": "She Plays The Theremin",
       "url": "https://open.spotify.com/track/6Nw985j3MyhFTg6tUJSZuX"
@@ -4810,7 +4864,7 @@
       ],
       "date_added": "2024-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 262240,
       "name": "Sleeping with Ghosts",
       "url": "https://open.spotify.com/track/4NUEUfq39YLOGRbhIQbSUD"

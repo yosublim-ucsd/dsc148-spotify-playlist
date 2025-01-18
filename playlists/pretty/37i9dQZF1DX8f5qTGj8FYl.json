@@ -1,13 +1,33 @@
 {
   "description": "When the funk is too funky for words to keep up. Cover: Cory Wong",
-  "num_followers": 378769,
+  "num_followers": 378840,
   "original_name": "Instrumental Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZuO4wAAAAACUeu63HKNillu9aIgf5ZWV",
+  "snapshot_id": "Z4nj6wAAAAAGqmdLFgjgtMokUQzeFGww",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:27",
+      "album": {
+        "name": "Dopus no. 1",
+        "url": "https://open.spotify.com/album/0uK7KYfZUAEm535F4SKx9l"
+      },
+      "artists": [
+        {
+          "name": "True Loves",
+          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
+        },
+        {
+          "name": "Nigel Hall",
+          "url": "https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2"
+        }
+      ],
+      "duration_ms": 255520,
+      "name": "Dopus no. 1",
+      "url": "https://open.spotify.com/track/2uBbWlPLVLVhqLfuEbMNy3"
+    },
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
@@ -2235,22 +2255,6 @@
       "duration_ms": 357480,
       "name": "Down Frenchmen St",
       "url": "https://open.spotify.com/track/64yrmj2YIDvn3HgPsa3KyC"
-    },
-    {
-      "added_at": "2023-08-04 04:01:00",
-      "album": {
-        "name": "Sunday Afternoon",
-        "url": "https://open.spotify.com/album/44SAnz1tyckWug1tPnLrmZ"
-      },
-      "artists": [
-        {
-          "name": "True Loves",
-          "url": "https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z"
-        }
-      ],
-      "duration_ms": 268160,
-      "name": "Kabuki",
-      "url": "https://open.spotify.com/track/1CXowWtxmDJhS5EB3daVd2"
     },
     {
       "added_at": "2023-08-04 04:01:00",

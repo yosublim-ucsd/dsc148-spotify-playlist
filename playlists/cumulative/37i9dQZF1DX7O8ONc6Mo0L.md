@@ -4,7 +4,7 @@
 
 > Relaxe com hinos acústicos\. Foto: Débora Buzas, Isaias Saad
 
-165 songs - 12 hr 15 min
+166 songs - 12 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [Aba \- Acústico](https://open.spotify.com/track/0EkTVMibjK0km6Aj3Q3mSA) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/5N99X3KKFG4V8eHrttnTRc) | 4:08 | 2023-12-22 | 2024-04-19 |
 | [Aba \- Acústico](https://open.spotify.com/track/0rlCiHbjc4rbkljGdj1QAc) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Melhores Kemuel](https://open.spotify.com/album/1QxbWwl9OA1CnSZCHnL1O3) | 4:08 | 2023-12-22 | 2024-04-07 |
 | [Aba \- Acústico](https://open.spotify.com/track/2tKatbCNaw5fmdCUcX0ehw) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Filhos Acústico](https://open.spotify.com/album/2rmRfedhDgarSjsUvod3QA) | 4:08 | 2022-09-02 | 2024-09-21 |
-| [Abandono](https://open.spotify.com/track/5FTRBAWjLZkwlC54Hevd0q) | [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Relembrando Canções, Vol\. 01](https://open.spotify.com/album/7dOqoIm4f0OSMY6pkkpGxF) | 3:40 | 2024-08-23 |  |
+| [Abandono](https://open.spotify.com/track/5FTRBAWjLZkwlC54Hevd0q) | [Adriana Arydes](https://open.spotify.com/artist/2ioFpX89d2o7lA806GBITN) | [Relembrando Canções, Vol\. 01](https://open.spotify.com/album/7dOqoIm4f0OSMY6pkkpGxF) | 3:40 | 2024-08-23 | 2025-01-18 |
 | [Acredite \(Essência Sessions\)](https://open.spotify.com/track/0pEFUVX4V4EfFAo0lKr9cl) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld) | [Kemilly Santos no Essência Sessions](https://open.spotify.com/album/2fG0DCQ5XJuD3f3vDZt14p) | 4:58 | 2022-09-02 | 2023-02-04 |
 | [Adorarei](https://open.spotify.com/track/78emLVVS8NjCN3bksMeKKv) | [Sara Evelyn](https://open.spotify.com/artist/6yC6aaLyqwooTcdaAgagG0) | [Acústico, Vol\. 4](https://open.spotify.com/album/1SdnAD8W9tPuULdYDZGuhm) | 3:53 | 2024-11-29 |  |
 | [Algo Novo](https://open.spotify.com/track/2JI4EXMfT59uUWjLrJVvhj) | [Ton Carfi](https://open.spotify.com/artist/4IefiwlkKHUFoRdBsGj756) | [Ton Canta](https://open.spotify.com/album/2Ps1GhrLccx7ufkWB2UCvm) | 5:16 | 2022-09-02 |  |
@@ -66,6 +66,7 @@
 | [Esqueço Até o Tempo \(Acústico\)](https://open.spotify.com/track/73v7T2BnMUZBgvazzWS8eZ) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Feliz7Play](https://open.spotify.com/artist/6LD4cDaG4K0B2oguawXfIG), [Benjamim Silva](https://open.spotify.com/artist/7kHaI4UMrNTMHBJrvtNOuX) | [Esqueço Até o Tempo](https://open.spotify.com/album/6PeOq6vvMPDB1TixVs3AjU) | 2:39 | 2024-08-23 |  |
 | [Estou Com Você \- Acústico](https://open.spotify.com/track/1q5Dqlj8PNIuqaSx9VzNrX) | [Os Meireles](https://open.spotify.com/artist/4GvZo4MFJZPodaS1VXVEe1), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Estou Com Você \(Acústico\)](https://open.spotify.com/album/4xtgYl7Z9EIXPnwKWz7IGu) | 4:45 | 2023-05-12 |  |
 | [Eu e o Rei \- Ao Vivo](https://open.spotify.com/track/52QNEFCKtULSneiJfr7lvy) | [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Eu e o Rei \(Ao Vivo\)](https://open.spotify.com/album/0AeMfjhgwyDmcROxbEIYVJ) | 5:37 | 2022-09-02 |  |
+| [Eu Gosto Mesmo](https://open.spotify.com/track/6LgCrukNpvvMlCD8ZDArUE) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [CT Missões](https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE) | [Live Session \(Original Soundtrack\)](https://open.spotify.com/album/2RgJPg8bjZIJRlNm5unKCL) | 3:09 | 2025-01-17 |  |
 | [Eu Me Rendo \(I Surrender\) \- Acústico](https://open.spotify.com/track/0e4Ae3r1i8FsEDxVLyP8LB) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Acústico Mergulhar](https://open.spotify.com/album/7koQFV6RTpkbuiSUubuxSl) | 6:14 | 2022-09-02 |  |
 | [Eu Me Rendo \(I Surrender\) \- Acústico](https://open.spotify.com/track/2WGlHxK3Cwd7bEIT9D0dAY) | [Ministério Mergulhar](https://open.spotify.com/artist/1fSxRBeYGW7w0EtU9L6Gaf) | [Acústico Mergulhar](https://open.spotify.com/album/6pIY0cvrF5FrOtBHoPtInI) | 6:14 | 2023-10-20 | 2024-04-19 |
 | [Eu Não Sou Mais Órfão \- Acústico](https://open.spotify.com/track/5WOCuracx7DrET4eOVP2ZG) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Eu Não Sou Mais Órfão \(Acústico\)](https://open.spotify.com/album/2VjaDxyEHiM8CoQMlvL9Em) | 3:28 | 2022-10-28 | 2023-10-14 |

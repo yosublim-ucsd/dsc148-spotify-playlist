@@ -4,7 +4,7 @@
 
 > Temukan beragam musik terbaru dari talenta segar dalam negeri\. Cover: Kinar
 
-4,254 songs - 10 day 21 hr 0 min
+4,255 songs - 10 day 21 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1187,6 +1187,7 @@
 | [Forever](https://open.spotify.com/track/4AgT480b5qdUXyQqlwrRkh) | [Masalembo](https://open.spotify.com/artist/04YMqUOoUDUChyBomf1J5G) | [Forever](https://open.spotify.com/album/4Y0EphOE1XAFmz8OTV90Ee) | 2:50 | 2024-05-13 | 2024-06-01 |
 | [Forever](https://open.spotify.com/track/6INwdwLTaMIfcRGrZ8Fvx6) | [Rifaldy Bintara](https://open.spotify.com/artist/7FcxbQ4haTnNEMx74nBMjb) | [Freyanation Forever](https://open.spotify.com/album/7EQTgCWGluy3fczQUhyQVn) | 1:54 | 2023-12-08 | 2024-01-12 |
 | [Forever Yours](https://open.spotify.com/track/2FeG7fbhVNlVxWXx9uDXqC) | [Flowerbaby](https://open.spotify.com/artist/5fu2fvrcBE90L1GbRmsj1q) | [MIRACLES](https://open.spotify.com/album/19o1y2WqR88st1zakP8sBc) | 3:39 | 2022-02-24 | 2022-03-11 |
+| [Forever, Now And Then](https://open.spotify.com/track/1fOofmuD5xDwcx0dbBL46i) | [Rocker Kasarunk](https://open.spotify.com/artist/24AmNr7ZcbhFKHnZIZH2uo) | [Forever, Now And Then](https://open.spotify.com/album/6gisqYYgbeAc9honglKLic) | 3:58 | 2025-01-17 |  |
 | [forevermore](https://open.spotify.com/track/24svcbdXa9zaLo470uvgrJ) | [Sandhewa Beryl](https://open.spotify.com/artist/6K0lMu16UXPyMgakobPJxA) | [forevermore](https://open.spotify.com/album/3ZzdP37SZSL2kKYWXf6RnC) | 3:16 | 2022-01-06 | 2022-01-14 |
 | [Forevermore](https://open.spotify.com/track/56q68ye3nzBdZTk317KJBJ) | [Sarah Suhada](https://open.spotify.com/artist/4VXDmb0YoezorN1uFbAZsk) | [Forevermore](https://open.spotify.com/album/6NhBgLraWQWcs0z3B1Wzp3) | 2:21 | 2024-12-26 |  |
 | [Forevermore \(feat\. Shaedita\)](https://open.spotify.com/track/7rq3x1DxCqwjZUKeYt2si0) | [nomaden](https://open.spotify.com/artist/4JS4vfelrFOXDfBIezjmW3), [Shaedita](https://open.spotify.com/artist/1Xb1m46PmILZQgkJW3Wd14) | [Pure Hearts & Pretty Minds](https://open.spotify.com/album/5q4auXNcZUCI0rIvLLEWDj) | 2:53 | 2023-10-12 | 2023-11-03 |

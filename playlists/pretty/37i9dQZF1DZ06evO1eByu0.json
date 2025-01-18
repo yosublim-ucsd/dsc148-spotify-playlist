@@ -1,33 +1,13 @@
 {
   "description": "This is Aline Barros. The essential tracks, all in one playlist.",
-  "num_followers": 161284,
+  "num_followers": 161288,
   "original_name": "This Is Aline Barros",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4b6gAAAAAByJfjuGCqCa4PiNuTHQvy9",
+  "snapshot_id": "Z4hMAAAAAACoClrBu8u49wdjmHdqrnDI",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tudo Sobre Ele",
-        "url": "https://open.spotify.com/album/4FYo2VRJYru3XbUySDd7tA"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        },
-        {
-          "name": "Julliany Souza",
-          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
-        }
-      ],
-      "duration_ms": 323855,
-      "name": "Tudo Sobre Ele",
-      "url": "https://open.spotify.com/track/0xg06TxPO0Y6mXOk5vIS1L"
-    },
     {
       "added_at": null,
       "album": {
@@ -227,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Promessa Nasceu",
-        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
+        "name": "Brilha Tua Luz",
+        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
       },
       "artists": [
         {
@@ -236,13 +216,13 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         },
         {
-          "name": "Sarah Beatriz",
-          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
+          "name": "Isaias Saad",
+          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
         }
       ],
-      "duration_ms": 306103,
-      "name": "A Promessa Nasceu",
-      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+      "duration_ms": 295997,
+      "name": "Brilha Tua Luz",
+      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
     },
     {
       "added_at": null,
@@ -263,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brilha Tua Luz",
-        "url": "https://open.spotify.com/album/4WopDDMaq7rHHU8kzlBdd7"
+        "name": "A Promessa Nasceu",
+        "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
       },
       "artists": [
         {
@@ -272,13 +252,13 @@
           "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         },
         {
-          "name": "Isaias Saad",
-          "url": "https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz"
+          "name": "Sarah Beatriz",
+          "url": "https://open.spotify.com/artist/5eo3eRvCHJhgMDL6K1cbMT"
         }
       ],
-      "duration_ms": 295997,
-      "name": "Brilha Tua Luz",
-      "url": "https://open.spotify.com/track/3ivfJsULvjiSECTDKTbJZj"
+      "duration_ms": 306103,
+      "name": "A Promessa Nasceu",
+      "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
     },
     {
       "added_at": null,
@@ -567,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Caminho de Milagres",
-        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 359166,
-      "name": "Poder Pra Salvar (Mighty to Save)",
-      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus Cristo Basta (Jesucristo Basta) [Ao Vivo]",
         "url": "https://open.spotify.com/album/2YCQ0X6FLsq1F9B1dFV2xw"
       },
@@ -599,6 +563,22 @@
       "duration_ms": 287120,
       "name": "Jesus Cristo Basta (Jesucristo Basta) - Ao Vivo",
       "url": "https://open.spotify.com/track/5ftGbElbGveJXoB8tgqHDH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Caminho de Milagres",
+        "url": "https://open.spotify.com/album/28aJm8Sn0MLMUXi20GMk7u"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 359166,
+      "name": "Poder Pra Salvar (Mighty to Save)",
+      "url": "https://open.spotify.com/track/5XWANb1t35rvZLytVAnEXo"
     },
     {
       "added_at": null,
@@ -655,6 +635,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tudo Sobre Ele",
+        "url": "https://open.spotify.com/album/4FYo2VRJYru3XbUySDd7tA"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        },
+        {
+          "name": "Julliany Souza",
+          "url": "https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq"
+        }
+      ],
+      "duration_ms": 323855,
+      "name": "Tudo Sobre Ele",
+      "url": "https://open.spotify.com/track/0xg06TxPO0Y6mXOk5vIS1L"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Adorai (Os Melhores Momentos)",
         "url": "https://open.spotify.com/album/0rc7zAMJ7GCeeRvuyOY1Ow"
       },
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gra\u00e7a",
-        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 250682,
-      "name": "Lugar Seguro",
-      "url": "https://open.spotify.com/track/37BbleCLexY8yNcN3SpVSF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Som de Adoradores",
         "url": "https://open.spotify.com/album/44c0Ejf6sz9GAy5n00Cyb9"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 368454,
       "name": "Bem-Aventurado (Blessed)",
       "url": "https://open.spotify.com/track/0hGQKTSgKapwbkosHyeTFo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gra\u00e7a",
+        "url": "https://open.spotify.com/album/5e1UldjtFKyW0HT3H6QXYL"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 250682,
+      "name": "Lugar Seguro",
+      "url": "https://open.spotify.com/track/37BbleCLexY8yNcN3SpVSF"
     },
     {
       "added_at": null,
@@ -811,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vem Fluir (Fall Like Rain)",
-        "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
-      },
-      "artists": [
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 387779,
-      "name": "Vem Fluir (Fall Like Rain)",
-      "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Aline Barros e Cia 2",
         "url": "https://open.spotify.com/album/58dham8BeNuWKBJJTbzenr"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 189939,
       "name": "Pedro, Tiago e Jo\u00e3o no Barquinho",
       "url": "https://open.spotify.com/track/1180Pe0jjGNslftSXTrEKi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vem Fluir (Fall Like Rain)",
+        "url": "https://open.spotify.com/album/2ZUum9B6fcMzr49ZL5rxvK"
+      },
+      "artists": [
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
+        }
+      ],
+      "duration_ms": 387779,
+      "name": "Vem Fluir (Fall Like Rain)",
+      "url": "https://open.spotify.com/track/6vRgQZAlojDVRcSs7EODCW"
     },
     {
       "added_at": null,
@@ -891,26 +891,6 @@
       "duration_ms": 160914,
       "name": "Samuel",
       "url": "https://open.spotify.com/track/5NnWQ6Bqy3Lvcek2yoUXSE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Yo S\u00e9 Quien Soy",
-        "url": "https://open.spotify.com/album/5M9E9nX5CYId00OAWa5pPd"
-      },
-      "artists": [
-        {
-          "name": "Emir Sensini",
-          "url": "https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 239294,
-      "name": "Yo S\u00e9 Quien Soy",
-      "url": "https://open.spotify.com/track/34Ie7cr6R8Np8MighWg37q"
     }
   ],
   "unique_name": "This Is Aline Barros",

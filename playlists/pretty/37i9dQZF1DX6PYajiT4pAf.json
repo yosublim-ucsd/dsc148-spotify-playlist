@@ -1,12 +1,12 @@
 {
   "description": "Bad Gyal con Trueno y el resto de novedades m\u00e1s importantes de la semana.",
-  "num_followers": 339767,
+  "num_followers": 340589,
   "original_name": "Novedades Viernes Espa\u00f1a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mPxwAAAAAv6B2OooJgxEmeXmL1tLwL",
+  "snapshot_id": "Z4oaJAAAAAD+XoE8AqU73ExvJJnXzZ+H",
   "tracks": [
     {
       "added_at": "2025-01-16 23:01:27",
@@ -927,6 +927,22 @@
       "duration_ms": 251983,
       "name": "Marisol",
       "url": "https://open.spotify.com/track/1yvjxjNiirpqymfSTAwIjQ"
+    },
+    {
+      "added_at": "2025-01-17 08:51:48",
+      "album": {
+        "name": "Golondrinas",
+        "url": "https://open.spotify.com/album/364p89srTY73CwrLU3hhfK"
+      },
+      "artists": [
+        {
+          "name": "Juanjo Bona",
+          "url": "https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF"
+        }
+      ],
+      "duration_ms": 150016,
+      "name": "Golondrinas",
+      "url": "https://open.spotify.com/track/66cx1OPUvkgH3vykH9ar02"
     },
     {
       "added_at": "2025-01-16 23:01:27",

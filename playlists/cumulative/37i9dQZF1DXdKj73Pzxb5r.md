@@ -4,7 +4,7 @@
 
 > Rilisan mutakhir dari para musisi arus pinggir tanah air\. Cover: Olski
 
-247 songs - 15 hr 40 min
+248 songs - 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [Helpless](https://open.spotify.com/track/3PNY3KOBwCWoMlgcZqhblh) | [ATSEA](https://open.spotify.com/artist/29YMwt7N0OV3oG5nw2NmeI) | [Helpless](https://open.spotify.com/album/6x5ROoQjb8aG1uLhvFt6sn) | 2:30 | 2024-08-01 | 2024-09-20 |
 | [Higher \- Reinterpretation](https://open.spotify.com/track/34B32JK4vJNf9PtRZm7vwV) | [Astera](https://open.spotify.com/artist/4JnHEguLziouTWp1brStli), [Soulfood](https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo) | [Higher \(Reinterpretation\)](https://open.spotify.com/album/2LDFkidULv2Q7HbaUoDqVZ) | 3:04 | 2024-06-27 | 2024-08-02 |
 | [Hilang Di Nestapa](https://open.spotify.com/track/317JB3hbNXTfLYifDxzrDY) | [Inoya House](https://open.spotify.com/artist/5ItIPaGaHbUvu2zEFPfwBB) | [Hilang Di Nestapa](https://open.spotify.com/album/4Ou8VOT5xtIxCTYQVPsrMR) | 5:12 | 2024-06-27 | 2024-07-12 |
+| [Hilang Naluri](https://open.spotify.com/track/7v1tKoC0caE47BRf7HV0b9) | [Neo Ketaren](https://open.spotify.com/artist/3bkDbv5H0Dm88XmdlZlFqa), [Bilal Indrajaya](https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De) | [Hilang Naluri](https://open.spotify.com/album/4jWYBCnGcNIwCj2kX1adUr) | 5:21 | 2025-01-18 |  |
 | [hold me tight](https://open.spotify.com/track/5vMYg1wLg1ZK5vOweoRorf) | [Skyline](https://open.spotify.com/artist/3jFq99M5yrKG1yihywpcnf) | [hold me tight](https://open.spotify.com/album/2jJOkzVvP8iEFYjfl6qLeA) | 3:11 | 2024-06-27 | 2024-07-12 |
 | [Honey, You Are My Drama](https://open.spotify.com/track/3UYROV5XAcx4pq0izCQXL9) | [Misanthrope](https://open.spotify.com/artist/4vrQf7ZgpK8d7R4RiAgnuE) | [Honey, You Are My Drama](https://open.spotify.com/album/0HfqlNFma2ju4HaI35vzTi) | 5:19 | 2024-06-27 | 2024-08-02 |
 | [How Could You Still Love Me](https://open.spotify.com/track/0l7pTIk20PHJZxNYgQcON1) | [Oslo Ibrahim](https://open.spotify.com/artist/58tCW7poCEjQCqJTaeVsSF) | [How Could You Still Love Me](https://open.spotify.com/album/4nTE31Iy6lAONpS9kT6v33) | 4:24 | 2024-07-11 | 2024-10-04 |
@@ -228,7 +229,7 @@
 | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/track/0CADqD68QbiDuGkIGBusP4) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [ikkubaru](https://open.spotify.com/artist/3jOVGGa69UVA6d1InnQabx) | [Tell Me \(feat\. ikkubaru\)](https://open.spotify.com/album/1GXu9yIAipEhNmkJNU0tzq) | 3:20 | 2024-11-07 |  |
 | [Terdiasi](https://open.spotify.com/track/1UZKEWCeZ2Zv3BanLxDFD6) | [The Paperplane](https://open.spotify.com/artist/00MqgOUf6FeJBMHpmGAozh), [Koembang Terbang](https://open.spotify.com/artist/6G92HLtl4eLGTiqFrHIDxw) | [Terdiasi](https://open.spotify.com/album/71cVGV0wdx9cO8JVDGNkwg) | 3:56 | 2024-06-27 | 2024-07-05 |
 | [The Art of Chasing You](https://open.spotify.com/track/7HwHo4TOJzqcX9scDN7YCB) | [Magnolia Celebration](https://open.spotify.com/artist/3YfBnmHPOhPA3uEb0BxIHK), [Ade Paloh](https://open.spotify.com/artist/1WNds1Ueo0rd6XUigI9DPZ) | [Too Shy, Too Blind](https://open.spotify.com/album/6MVkNSm87gfSg4rG8728ii) | 5:06 | 2024-06-27 | 2024-12-06 |
-| [The Bigfoot Trademark Logo](https://open.spotify.com/track/1KSIC277cn81q0Kr4ylv7E) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [The Bigfoot Trademark Logo](https://open.spotify.com/album/2Th9GgqSdUCJFBgv5pI6Dn) | 2:52 | 2024-09-26 |  |
+| [The Bigfoot Trademark Logo](https://open.spotify.com/track/1KSIC277cn81q0Kr4ylv7E) | [Bedchamber](https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0) | [The Bigfoot Trademark Logo](https://open.spotify.com/album/2Th9GgqSdUCJFBgv5pI6Dn) | 2:52 | 2024-09-26 | 2025-01-18 |
 | [The Lady With The Sapphire in Her Eyes](https://open.spotify.com/track/3NLOvyOrCc1AxtXVBILHiJ) | [Serdadu Sam](https://open.spotify.com/artist/5C4HI7BDqAXMAKhMEGuTFe) | [The Lady With The Sapphire in Her Eyes](https://open.spotify.com/album/5xKO46V57iXZ6rlxXaHmiq) | 4:26 | 2024-06-27 | 2024-08-02 |
 | [The Society](https://open.spotify.com/track/3SnUub2OpfmI5MBfvyPwxK) | [Holy City Rollers](https://open.spotify.com/artist/1xX7RmaDFxsvVtR9l8qJ4v) | [The Society](https://open.spotify.com/album/2CaghgITxYwMtJpKTbabAV) | 3:53 | 2024-12-05 |  |
 | [This Day & Age \(feat\. Natasha Udu\) \(RIMALDI Reanimated\)](https://open.spotify.com/track/3KDSxEVrAkP4RfJaSWWctd) | [lightcraft](https://open.spotify.com/artist/444HDWJ9nggNbvuxbCikY3), [Natasha Udu](https://open.spotify.com/artist/5788KAWYDqWlejC63W92S7), [RIMALDI](https://open.spotify.com/artist/4HONrrOQf6N5rP9ukyBLFg) | [Hope + Love: reanimated edition](https://open.spotify.com/album/3Z5eDoTbEzeaEKWkwoQeUh) | 3:14 | 2024-07-04 | 2024-08-17 |

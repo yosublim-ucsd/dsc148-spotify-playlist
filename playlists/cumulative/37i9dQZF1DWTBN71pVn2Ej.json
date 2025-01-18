@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The shape of noise to come with OVERSIZE (pictured), Superheaven, Split Chain, Tarnish and more.",
+  "description": "The shape of noise to come with Split Chain (pictured), Superheaven,  and more.",
   "name": "adrenaline",
   "tracks": [
     {
@@ -2307,6 +2307,24 @@
     },
     {
       "album": {
+        "name": "charlie",
+        "url": "https://open.spotify.com/album/3DIh2PH02J3GXasLGQPe8x"
+      },
+      "artists": [
+        {
+          "name": "terraplana",
+          "url": "https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "charlie",
+      "url": "https://open.spotify.com/track/2ao0oy1rwhQm0xnfSu1jgs"
+    },
+    {
+      "album": {
         "name": "Charlie Bronson",
         "url": "https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN"
       },
@@ -2992,7 +3010,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 161967,
       "name": "Counting Hours",
       "url": "https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT"
@@ -3140,6 +3158,24 @@
       "duration_ms": 294798,
       "name": "Csts",
       "url": "https://open.spotify.com/track/0fbQD0elsISeiHp5nvVyPo"
+    },
+    {
+      "album": {
+        "name": "TOY",
+        "url": "https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184417,
+      "name": "Cut My Hair",
+      "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
     },
     {
       "album": {
@@ -6380,7 +6416,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 229490,
       "name": "I Don't Wanna Be Me",
       "url": "https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr"
@@ -6528,6 +6564,24 @@
       "duration_ms": 129147,
       "name": "I'm Feelin Alive",
       "url": "https://open.spotify.com/track/0ZdHUrfHYZpkmztomaDnIn"
+    },
+    {
+      "album": {
+        "name": "I'm Not Dying To Be Here",
+        "url": "https://open.spotify.com/album/38QYjYk8Th23g27sTaWvKn"
+      },
+      "artists": [
+        {
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204118,
+      "name": "I'm Not Dying To Be Here",
+      "url": "https://open.spotify.com/track/3KtbuP205Bjvseg2oSIIdp"
     },
     {
       "album": {
@@ -9046,7 +9100,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 183000,
       "name": "ONE NATION",
       "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"

@@ -2,19 +2,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 
 ### [SALT](https://open.spotify.com/playlist/37i9dQZF1DX6tPTxr8qwRe)
 
-> Dark, hard hitting pop\. Cover: KiNG MALA
+> Dark, hard hitting pop\. Cover: Joya Marleen
 
-[Spotify](https://open.spotify.com/user/spotify) - 421,418 likes - 85 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 421,446 likes - 85 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [GØD](https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [GØD](https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut) | 3:38 |
+| 1 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
 | 2 | [Bite Marks](https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE) | [League of Legends](https://open.spotify.com/artist/47mIJdHORyRerp4os813jD), [TEYA](https://open.spotify.com/artist/3o9SkahUjtGQ6U9IU0BjhI) | [Bite Marks](https://open.spotify.com/album/7vMVO2CFVTP2SwzUiaWvid) | 3:10 |
-| 3 | [difficult](https://open.spotify.com/track/4x4cEepHPh3gHaPmsYCB1k) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [difficult](https://open.spotify.com/album/388chaV4VuUYokNaJX0Fv5) | 2:36 |
-| 4 | [What Do Girls Do?](https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [What Do Girls Do?](https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7) | 2:46 |
-| 5 | [drop the man](https://open.spotify.com/track/2cKoq179oHQBXR4wDIke1i) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [drop the man](https://open.spotify.com/album/3zfhTxpvBj7scbiefWBTn3) | 2:37 |
-| 6 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 |
-| 7 | [HELL ON ME](https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [HELL ON ME](https://open.spotify.com/album/3nAubxHRrDZHrz4ZPF7bNg) | 2:58 |
+| 3 | [HELL ON ME](https://open.spotify.com/track/3QPxCTVBAHW1FV3xa4CS5U) | [Johnny Huynh](https://open.spotify.com/artist/7qX6R9NU7sWD66KLlYKnju) | [HELL ON ME](https://open.spotify.com/album/3nAubxHRrDZHrz4ZPF7bNg) | 2:58 |
+| 4 | [GØD](https://open.spotify.com/track/3Ycwfj94uJWSsAyaMoOkZF) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [GØD](https://open.spotify.com/album/7qD49vJQcp5IwNXSgFo5Ut) | 3:38 |
+| 5 | [What Do Girls Do?](https://open.spotify.com/track/5jumvbWz3xNsJOdH2dd29x) | [Snow Wife](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [What Do Girls Do?](https://open.spotify.com/album/77vLvAKcNHpgcvn4h5SUp7) | 2:46 |
+| 6 | [drop the man](https://open.spotify.com/track/2cKoq179oHQBXR4wDIke1i) | [Zoe Ko](https://open.spotify.com/artist/493xhO4GiL1eOhWUBt8CzZ) | [drop the man](https://open.spotify.com/album/3zfhTxpvBj7scbiefWBTn3) | 2:37 |
+| 7 | [Hunt You Down](https://open.spotify.com/track/00cfIJnoW78xtxUM83TYlV) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Hunt You Down](https://open.spotify.com/album/4gOsyoZj3dotG7QafFJV58) | 2:48 |
 | 8 | [dead2me](https://open.spotify.com/track/5F0OmmeUgcrxj2lwtshMsb) | [Ellise](https://open.spotify.com/artist/2FovgCfOwN9iqbkCBlKFdT) | [dead2me](https://open.spotify.com/album/4zhLf2SmruJcqRaRRzfIk3) | 2:44 |
 | 9 | [You are what you fear in me.](https://open.spotify.com/track/1I6sx82iLyF7iCD5CaeFBR) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [You are what you fear in me.](https://open.spotify.com/album/0AGfakFPdkGpiHBehGWcRh) | 2:24 |
 | 10 | [Dunes](https://open.spotify.com/track/4meDLFTdNbHqNuZ62xiKZz) | [Nomé Naku](https://open.spotify.com/artist/2Wssey2jP3QMFRsAFnCgXI) | [Naku](https://open.spotify.com/album/3w0DDYBr93G8h98dD4oJJS) | 3:56 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tPTxr8qwRe.md) - [plain]
 | 84 | [Nervous](https://open.spotify.com/track/0ycvaULgm8QZjmfu7NEq41) | [Aiko](https://open.spotify.com/artist/4rNUXX8pX47dfwyD6KL2zP) | [AIKONIC](https://open.spotify.com/album/3D3e4B1bGx5FWmCCWbHAYv) | 3:08 |
 | 85 | [DIVINE CEO](https://open.spotify.com/track/3BPHo1p02WqGa2IEnO6G2H) | [LuLuYam](https://open.spotify.com/artist/4TAg5ckpTlxXLPTJW4eDMo) | [DIVINE CEO](https://open.spotify.com/album/53byhoZELZngPlPwbpOyWb) | 3:41 |
 
-Snapshot ID: `Z4FYhAAAAAA1eoH2mIOR/bRSjxO59IIM`
+Snapshot ID: `Z4nkCQAAAAC9ZxwEa2rS8FfNd4avKmi3`

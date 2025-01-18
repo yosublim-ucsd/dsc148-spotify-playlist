@@ -741,7 +741,7 @@
     },
     {
       "album": {
-        "name": "Dil Le Ke",
+        "name": "Dil Leke",
         "url": "https://open.spotify.com/album/3qYRXCzoU0z3uJB0KCNezV"
       },
       "artists": [
@@ -754,7 +754,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 218863,
-      "name": "Dil Le Ke",
+      "name": "Dil Leke",
       "url": "https://open.spotify.com/track/3vFwuZnjH9h1o0WTQqZlLy"
     },
     {
@@ -1656,6 +1656,24 @@
       "duration_ms": 204155,
       "name": "Lovely Bukhaar",
       "url": "https://open.spotify.com/track/0ZecYdnRuxLDAmA00WMflH"
+    },
+    {
+      "album": {
+        "name": "LV (Ja Re Ja)",
+        "url": "https://open.spotify.com/album/6IOeC3lO07Jr4flPHV3VuW"
+      },
+      "artists": [
+        {
+          "name": "Taha G",
+          "url": "https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187374,
+      "name": "LV (Ja Re Ja)",
+      "url": "https://open.spotify.com/track/0E6bYWfPxfEEDKpSCDvRti"
     },
     {
       "album": {
@@ -3162,6 +3180,24 @@
       "duration_ms": 198000,
       "name": "Umeed",
       "url": "https://open.spotify.com/track/4BCA8oZlL95CWFBryL7waK"
+    },
+    {
+      "album": {
+        "name": "Umeedon Ki",
+        "url": "https://open.spotify.com/album/4odGDsUGaQx1CR62FmviWH"
+      },
+      "artists": [
+        {
+          "name": "Atif Aslam",
+          "url": "https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290963,
+      "name": "Umeedon Ki",
+      "url": "https://open.spotify.com/track/23Vg7dTsvIsja2PLeZ3awF"
     },
     {
       "album": {

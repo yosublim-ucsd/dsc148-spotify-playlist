@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "What's happening in r&b, right now \u2013 featuring Qing Madi.",
+  "description": "What's happening in r&b, right now \u2013 featuring Teddy Swims & Giveon.",
   "name": "R&B Right Now",
   "tracks": [
     {
@@ -2292,7 +2292,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 196339,
       "name": "Bum Bum",
       "url": "https://open.spotify.com/track/0EmgkOtLsGV0jXsnBZ66R3"
@@ -2981,6 +2981,24 @@
     },
     {
       "album": {
+        "name": "Choosin'",
+        "url": "https://open.spotify.com/album/6bW3Tm54WdO1OdHtBKckdy"
+      },
+      "artists": [
+        {
+          "name": "THEY.",
+          "url": "https://open.spotify.com/artist/0pghUohLPptZWBasy2wmUx"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176480,
+      "name": "Choosin'",
+      "url": "https://open.spotify.com/track/6ixs1OVZpJ4gIPDdpzZqvn"
+    },
+    {
+      "album": {
         "name": "Chrome",
         "url": "https://open.spotify.com/album/5fh2Gvkv8SaLkKO7S4aGVe"
       },
@@ -3525,6 +3543,28 @@
     },
     {
       "album": {
+        "name": "Crisis Evasion",
+        "url": "https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP"
+      },
+      "artists": [
+        {
+          "name": "Maz B",
+          "url": "https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH"
+        },
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Crisis Evasion",
+      "url": "https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin"
+    },
+    {
+      "album": {
         "name": "CRUISE CONTROL",
         "url": "https://open.spotify.com/album/7Chy3P3zV9mSRQMtACbSSA"
       },
@@ -3740,6 +3780,28 @@
       "duration_ms": 208427,
       "name": "Dangerous",
       "url": "https://open.spotify.com/track/3fKSm7Bq45k4iUAlFTmfNO"
+    },
+    {
+      "album": {
+        "name": "how did we end up here?",
+        "url": "https://open.spotify.com/album/7tn5OONBRFmZGwBbEEf2nl"
+      },
+      "artists": [
+        {
+          "name": "Reuben Aziz",
+          "url": "https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh"
+        },
+        {
+          "name": "wolfacejoeyy",
+          "url": "https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167983,
+      "name": "day+night (feat. Wolfacejoeyy)",
+      "url": "https://open.spotify.com/track/2T3vPMrMaugMh1Xu1nwmdP"
     },
     {
       "album": {
@@ -4425,6 +4487,24 @@
     },
     {
       "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
+    },
+    {
+      "album": {
         "name": "Infinite (Deluxe)",
         "url": "https://open.spotify.com/album/47IMZpndaX6Nl0yEKJWWCi"
       },
@@ -4552,7 +4632,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 185603,
       "name": "Elevate",
       "url": "https://open.spotify.com/track/5iWNskrPocMh7z8CwUBSRe"
@@ -8325,6 +8405,28 @@
     },
     {
       "album": {
+        "name": "JAI'S SONG (FALLING) [PT. 2]",
+        "url": "https://open.spotify.com/album/5E9g2J6iUYTtTrOlp8HWCw"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190467,
+      "name": "JAI'S SONG (FALLING) - PT. 2",
+      "url": "https://open.spotify.com/track/3GUkOkDKBh81Tv9bMOGtS3"
+    },
+    {
+      "album": {
         "name": "je t'aime",
         "url": "https://open.spotify.com/album/07My1drlRLs2E87EhyQk3I"
       },
@@ -8336,7 +8438,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 254500,
       "name": "je t'aime",
       "url": "https://open.spotify.com/track/6ece0xc9lHmLC7C0nEcbql"
@@ -10408,7 +10510,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 178571,
       "name": "Magic Gurl (feat. Lekan)",
       "url": "https://open.spotify.com/track/49tA7LEL1kX08hBD38G4Zr"
@@ -13406,7 +13508,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 108791,
       "name": "POOKIE'S REQUIEM",
       "url": "https://open.spotify.com/track/0Cu1FFIqiLPHXDLCxTUUnR"
@@ -19471,6 +19573,24 @@
     },
     {
       "album": {
+        "name": "Why Can't You",
+        "url": "https://open.spotify.com/album/32G58TiwHXK7qTuhK69vWZ"
+      },
+      "artists": [
+        {
+          "name": "Bryant Barnes",
+          "url": "https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195440,
+      "name": "Why Can't You",
+      "url": "https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr"
+    },
+    {
+      "album": {
         "name": "wild horses",
         "url": "https://open.spotify.com/album/7k4dnCbTDEXY74f3Z1UXpI"
       },
@@ -19674,7 +19794,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 158844,
       "name": "Woman Now",
       "url": "https://open.spotify.com/track/1ge9hmkt5PVOxnmIECJLYJ"

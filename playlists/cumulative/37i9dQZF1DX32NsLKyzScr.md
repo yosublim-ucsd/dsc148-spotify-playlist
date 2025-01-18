@@ -4,7 +4,7 @@
 
 > Tap it back or go for a spin with these uptempo tracks!
 
-1,193 songs - 2 day 16 hr 46 min
+1,194 songs - 2 day 16 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1112,7 +1112,8 @@
 | [Vibe](https://open.spotify.com/track/4YprqLB3jEAlHNOMXEcZtm) | [Mike Candys](https://open.spotify.com/artist/24Sxfn1uAoJmuR9N72drt9) | [Vibe](https://open.spotify.com/album/7xAt2RbkWlsf7lp8m8wePW) | 2:21 | 2021-06-26 | 2021-09-18 |
 | [Vibe \(If I Back It Up\) \- Majestic Remix](https://open.spotify.com/track/1NkZiKrhiBeqGrTeYz3QGs) | [Cookiee Kawaii](https://open.spotify.com/artist/0DbBBj0ScPumRqKXswGQH1), [Majestic](https://open.spotify.com/artist/6QMABvTzixnxzsLYyhqRxI) | [Vibe \(If I Back It Up\) \[Majestic Remix\]](https://open.spotify.com/album/29gbZxe1JARSl91Bz7s3db) | 4:08 | 2020-09-21\* | 2021-01-23 |
 | [Voodoo](https://open.spotify.com/track/3JsH3qnwhYGs20PBMsCgNx) | [Gorgon City](https://open.spotify.com/artist/4VNQWV2y1E97Eqo2D5UTjx) | [Voodoo](https://open.spotify.com/album/32JzuMXyPDs6ihDnRGh8vy) | 3:33 | 2023-04-21 | 2024-07-13 |
-| [Vorozhyla](https://open.spotify.com/track/1k7CJjdUHWs67jHcAMDCvo) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP), [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x), [Monokate](https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF) | [Vorozhyla](https://open.spotify.com/album/5EFiqpyEjYIGzQj2B5qFLu) | 3:05 | 2024-09-13 |  |
+| [Vorozhyla](https://open.spotify.com/track/1k7CJjdUHWs67jHcAMDCvo) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Rokston](https://open.spotify.com/artist/5XWSzLJ3W6zr7Hf1XhNvPP), [Go\_A](https://open.spotify.com/artist/4kvCU3MzggM2piZCqvxj0x), [Monokate](https://open.spotify.com/artist/2a34noMhBNoTjXAWD5aJeF) | [Vorozhyla](https://open.spotify.com/album/5EFiqpyEjYIGzQj2B5qFLu) | 3:05 | 2024-09-13 | 2025-01-18 |
+| [Wacuka](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [Wacuka](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2025-01-17 |  |
 | [Wait A Minute](https://open.spotify.com/track/59ujQJCSRNgLtKQ1ly3b7c) | [Biscits](https://open.spotify.com/artist/052B9SONfhoScw7dgYWw5o) | [Wait A Minute](https://open.spotify.com/album/2rieP0vqq7SkCqyOnDDb69) | 3:35 | 2021-11-13 | 2022-03-12 |
 | [Waiting All Night](https://open.spotify.com/track/7t4REIU4YrvVGVdvubIHNJ) | [Sikdope](https://open.spotify.com/artist/3EXfNuPuR3OFEdlyoSutcG) | [Waiting All Night](https://open.spotify.com/album/6t5MXUXxdiyuItOKhTDKIK) | 4:03 | 2021-03-11 | 2021-07-24 |
 | [Waiting For Love](https://open.spotify.com/track/0LtlhQCJl4un9g0rwmIz9x) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [neverwaves](https://open.spotify.com/artist/2js39lyEUjoD0x3VxshU5o) | [Waiting For Love](https://open.spotify.com/album/6CHRqmshlcoCfUTqck1IUB) | 4:22 | 2022-03-11 | 2022-04-21 |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-20",
-  "description": "gems from artists carving their own path. cover: Shygirl",
+  "description": "gems from artists carving their own path. cover: Fernie",
   "name": "outliers",
   "tracks": [
     {
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 233397,
       "name": "All Night",
       "url": "https://open.spotify.com/track/2VHlTLNsbMuhxiTasirOIn"
@@ -3300,7 +3300,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 232226,
       "name": "Bones & All",
       "url": "https://open.spotify.com/track/0d7HOxceqxmeD0gBTHPBe9"
@@ -3740,6 +3740,24 @@
       "duration_ms": 341955,
       "name": "C.R.U.S.H.",
       "url": "https://open.spotify.com/track/36lrFRfMH2SWBag141DLkB"
+    },
+    {
+      "album": {
+        "name": "11100011",
+        "url": "https://open.spotify.com/album/2rWZtoDwT3QESDsZXnFleg"
+      },
+      "artists": [
+        {
+          "name": "Asian Glow",
+          "url": "https://open.spotify.com/artist/74om4qLxb9MIsubhtvxQQJ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238113,
+      "name": "Camel8strike",
+      "url": "https://open.spotify.com/track/23K5wTomiNskKrWqDOwchX"
     },
     {
       "album": {
@@ -4306,7 +4324,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 176986,
       "name": "Check Your Face",
       "url": "https://open.spotify.com/track/4sjKAFUfKvzORpA445jNjd"
@@ -5630,7 +5648,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 207016,
       "name": "Crystal Breath",
       "url": "https://open.spotify.com/track/4YLuySkJBHaMvPtdntLH87"
@@ -5688,6 +5706,24 @@
       "duration_ms": 142280,
       "name": "CURFEW",
       "url": "https://open.spotify.com/track/1e21A5tTWZm9wyPnHu4HpH"
+    },
+    {
+      "album": {
+        "name": "Curso Avanzado de Perra",
+        "url": "https://open.spotify.com/album/4vL3EwRnbXQFXYtCSRc39p"
+      },
+      "artists": [
+        {
+          "name": "shego",
+          "url": "https://open.spotify.com/artist/1DiDa1DfTjldKJQeonyP33"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178693,
+      "name": "Curso Avanzado de Perra",
+      "url": "https://open.spotify.com/track/3vLy8XXfciY4KvQktrOClg"
     },
     {
       "album": {
@@ -6230,6 +6266,24 @@
       "duration_ms": 170400,
       "name": "delusion illusion",
       "url": "https://open.spotify.com/track/63VQqmfSMONIVnTBG2t3pH"
+    },
+    {
+      "album": {
+        "name": "Demolition",
+        "url": "https://open.spotify.com/album/3ULjJ69eZcG1bTj1cooEZz"
+      },
+      "artists": [
+        {
+          "name": "Marie Davidson",
+          "url": "https://open.spotify.com/artist/7xJVICbAWizNBKBD3mRWjF"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 306377,
+      "name": "Demolition",
+      "url": "https://open.spotify.com/track/53OegCh40rWw0D9grp5oEo"
     },
     {
       "album": {
@@ -10642,7 +10696,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 220171,
       "name": "harvest sky (Danny L Harle C Mix)",
       "url": "https://open.spotify.com/track/0wox2PTv9GtCK41dtLT00i"
@@ -11528,6 +11582,24 @@
       "duration_ms": 180219,
       "name": "Hopecore",
       "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
+    },
+    {
+      "album": {
+        "name": "Hopeless Dreams",
+        "url": "https://open.spotify.com/album/4NxlfS6ZSFv4BPRGPCdF5s"
+      },
+      "artists": [
+        {
+          "name": "Fernie",
+          "url": "https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173053,
+      "name": "Hopeless Dreams",
+      "url": "https://open.spotify.com/track/5FnRhAsZ49bWT959RnXtmJ"
     },
     {
       "album": {
@@ -14907,6 +14979,24 @@
     },
     {
       "album": {
+        "name": "Loud with you (Angel)",
+        "url": "https://open.spotify.com/album/5lRV0HzbDTApICK2SZOr2W"
+      },
+      "artists": [
+        {
+          "name": "tibia",
+          "url": "https://open.spotify.com/artist/14oZZcBTkCjGNKFIZ8N58t"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196506,
+      "name": "Loud with you (Angel)",
+      "url": "https://open.spotify.com/track/3Oqs4bnfa0GTCikDHBzell"
+    },
+    {
+      "album": {
         "name": "Medea",
         "url": "https://open.spotify.com/album/3WCA7wBg79hLEMANiMGuWM"
       },
@@ -17204,7 +17294,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 133333,
       "name": "Ninja",
       "url": "https://open.spotify.com/track/1xDENykwH0WhdB5XVDYX3k"
@@ -21578,7 +21668,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 294440,
       "name": "Sexy Clown",
       "url": "https://open.spotify.com/track/4ZqE4DkbeO1JMJ9tLslkVJ"
@@ -24032,6 +24122,28 @@
       "duration_ms": 187930,
       "name": "Take Me Away",
       "url": "https://open.spotify.com/track/5QxeMH2g21cftAVr7ypFiN"
+    },
+    {
+      "album": {
+        "name": "take me by the hand",
+        "url": "https://open.spotify.com/album/537kzzis1FK64BYUQanxci"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171570,
+      "name": "take me by the hand",
+      "url": "https://open.spotify.com/track/2RsaHAL0eJAwdyrZloFXI7"
     },
     {
       "album": {
@@ -26924,6 +27036,24 @@
       "duration_ms": 202986,
       "name": "WHAT A MAN",
       "url": "https://open.spotify.com/track/77MoMOxdBmjtIeC0oIbLoO"
+    },
+    {
+      "album": {
+        "name": "What a Piece Of Work",
+        "url": "https://open.spotify.com/album/76nJIxsyaIDLPzohvG0aS8"
+      },
+      "artists": [
+        {
+          "name": "Kyle Wildfern",
+          "url": "https://open.spotify.com/artist/5nOKoMOd55uTgzKTQ2IdRR"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151722,
+      "name": "What a Piece Of Work",
+      "url": "https://open.spotify.com/track/0hlXjImsT7j7niTQNKBuKJ"
     },
     {
       "album": {

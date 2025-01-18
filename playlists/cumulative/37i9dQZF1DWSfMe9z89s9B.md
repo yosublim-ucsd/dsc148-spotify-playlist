@@ -2,9 +2,9 @@
 
 ### [Vanguard](https://open.spotify.com/playlist/37i9dQZF1DWSfMe9z89s9B)
 
-> Leaders of the new school...Alternative R&B\. Cover: Gabriel Jacoby
+> Leaders of the new school...Alternative R&B\. Cover: Corbin
 
-1,355 songs - 2 day 23 hr 18 min
+1,357 songs - 2 day 23 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -271,7 +271,7 @@
 | [Complicated](https://open.spotify.com/track/5sHtBHGfFEp8pU2J6rcpZe) | [Gianni Lee](https://open.spotify.com/artist/3MF3cDsi7MeAAcpMhFaU20), [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Complicated](https://open.spotify.com/album/3IN7hgs45fy2lRxq1jfIF2) | 2:47 | 2024-12-13 |  |
 | [concentrate](https://open.spotify.com/track/78BHW3aMoR2UrF1Pg1W0oc) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ) | [concentrate](https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca) | 4:41 | 2023-11-10 | 2023-12-09 |
 | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/track/7j0JiUpuwvPQDtBinFct6E) | [Billy Lemos](https://open.spotify.com/artist/7ebBg3BuRFa2satTcY8whC), [Dua Saleh](https://open.spotify.com/artist/2DGBzoOLcKLK3eWxFyugdB) | [Concentrate \(feat\. Dua Saleh\)](https://open.spotify.com/album/2ZFIuteZ2Uqz1r5E1hvnoi) | 2:14 | 2022-12-09 | 2024-04-28 |
-| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-10 |  |
+| [Coney Island](https://open.spotify.com/track/15Ya2a4p4WLbZ3HLICeZrh) | [Bathe](https://open.spotify.com/artist/3BBN1P1JNw0sSdYEdBkOZK) | [Bicoastal: B\-Sides](https://open.spotify.com/album/0yJE5hjeOZ80XVdsTXfvhn) | 3:37 | 2024-05-10 | 2025-01-18 |
 | [Confused](https://open.spotify.com/track/7ocp0iNDImb4PzHnjYTQi0) | [Kevin George](https://open.spotify.com/artist/0UFKnbRkop5zKvIHhbnMCI) | [Confused](https://open.spotify.com/album/5BRM2xQqW2bTL6qZR6qF7Q) | 2:06 | 2022-04-01 | 2022-04-05 |
 | [Contact](https://open.spotify.com/track/02uslYmKRGArhSEe3Z72qm) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60) | [Contact](https://open.spotify.com/album/6DSbg4GkjUzTGeuNQdKcUR) | 4:00 | 2023-01-20 | 2023-02-11 |
 | [Conversations](https://open.spotify.com/track/45h8fd89Ft7vIaGMDWNFOV) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Conversations](https://open.spotify.com/album/2Ny2uwkmwda4hhIKCpo086) | 3:12 | 2024-01-26 | 2024-04-20 |
@@ -623,7 +623,7 @@
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-01-14 | 2022-07-14 |
 | [Is This Love](https://open.spotify.com/track/4GYtrWXfgSd09WCCTtsbjM) | [Toulouse](https://open.spotify.com/artist/4Vy0AbsAmU5l3ZWOxhilzr) | [Is This Love](https://open.spotify.com/album/1MiqKHjXCNAHLCKJiLY4tp) | 3:24 | 2022-04-01 | 2022-04-12 |
 | [is this real life?](https://open.spotify.com/track/3c7jfhoHw5LLp9OrwhanQh) | [Casper Sage](https://open.spotify.com/artist/1a1XGqoicVjPifnA1fBtLE) | [is this real life?](https://open.spotify.com/album/04Xf8kg1pUJ2pGOQ7JDoRz) | 4:25 | 2022-12-09 | 2022-12-17 |
-| [it don't hit no more](https://open.spotify.com/track/1beDigZX6dQfhSDUZvOGWc) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [it don't hit no more](https://open.spotify.com/album/62EG7JmCfi1hFz3yuCux9f) | 2:54 | 2024-02-02 |  |
+| [it don't hit no more](https://open.spotify.com/track/1beDigZX6dQfhSDUZvOGWc) | [N3WYRKLA](https://open.spotify.com/artist/1GMy1NJjIXk6bejCuYdLT9) | [it don't hit no more](https://open.spotify.com/album/62EG7JmCfi1hFz3yuCux9f) | 2:54 | 2024-02-02 | 2025-01-18 |
 | [It Won't Get Ya](https://open.spotify.com/track/53KuZto0guJ4qCSoNHgFfW) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [The Shave Experiment \(Director's Cut\)](https://open.spotify.com/album/6Q3iHNU0fOwOxoCvyteue0) | 3:38 | 2021-06-04 | 2022-01-14 |
 | [It's About A Girl](https://open.spotify.com/track/2tKXH7NdVrrjDvQrv9CCVd) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [It's About A Girl](https://open.spotify.com/album/3wZCwdtuCqWVuygemGAVGL) | 3:21 | 2022-04-01 | 2022-04-10 |
 | [it's not feeling good anymore](https://open.spotify.com/track/0CxtECSTmnaUbCKnChD6NK) | [Amindi](https://open.spotify.com/artist/1xQIR56DxgWYZPUvOLRIua) | [it's not feeling good anymore](https://open.spotify.com/album/33jUA4C0rMA2SqGjLBaEZy) | 2:25 | 2023-08-25 | 2023-09-02 |
@@ -1066,6 +1066,7 @@
 | [Space & Time](https://open.spotify.com/track/00cxdB8HetV2MWlkDRNBdX) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Space & Time](https://open.spotify.com/album/6BErFc50lbkXHxnMBZfu4l) | 3:03 | 2024-05-31 |  |
 | [sPaCe \(528hz\)](https://open.spotify.com/track/23zct1MabUAB9WL1nR7WZW) | [Dounia](https://open.spotify.com/artist/4fJsnm9CeDAPrwO4MAEToj) | [sPaCe \(528hz\) / Coolest Girl In California](https://open.spotify.com/album/6p6IFdRzEhIz5hE190x4sR) | 2:00 | 2023-09-08 | 2023-11-04 |
 | [Spacing Out](https://open.spotify.com/track/6YjAZ3ILDPH8AgTEtLrRrG) | [Sylo](https://open.spotify.com/artist/0QitJHI0ZwMa5F9TR6EYSl) | [Spacing Out](https://open.spotify.com/album/6vX0B7KKVkzPJrPqTMnsQM) | 3:13 | 2022-04-01 | 2022-04-04 |
+| [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/1LLPPqAA6Oz43N8JeITYdx) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 | 2025-01-17 |  |
 | [Spend More Time With Your Friends](https://open.spotify.com/track/5l842FSBBISyxTaMinQ12R) | [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Low End Love Songs](https://open.spotify.com/album/3BeoCT97pj90mbXYSTygee) | 3:30 | 2024-09-06 |  |
 | [Spin The Block](https://open.spotify.com/track/28iI7pOj51BlKlEwhmplaT) | [Rhyan Douglas](https://open.spotify.com/artist/7axjaaukpvCevGVNWKpYL2) | [Spin The Block](https://open.spotify.com/album/7AjozjGfrhjIgdgWvd7pg2) | 4:12 | 2024-02-23 | 2024-07-23 |
 | [Spinning Top](https://open.spotify.com/track/3F4TJKOb8mKb6A8UWXxcmB) | [alayna](https://open.spotify.com/artist/7JwNWaTv4y9WNJCihQFHpv), [Sango](https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg) | [Spinning Top](https://open.spotify.com/album/3d90PWbsUEaiJdfwhhLWws) | 3:10 | 2021-06-04 | 2022-01-27 |
@@ -1328,6 +1329,7 @@
 | [wish you hell](https://open.spotify.com/track/5QTpJCeiyOyBVaeThyMQUV) | [Samaria](https://open.spotify.com/artist/4FreKg40BVDMPRLGeubyku) | [wish you hell](https://open.spotify.com/album/1WlsXlSlUc0CxO0Rkqcp8t) | 2:54 | 2023-09-29 | 2023-11-01 |
 | [Wish You Well](https://open.spotify.com/track/6VaBTaTsjak8UAPWCIrvl8) | [RealestK](https://open.spotify.com/artist/35R1B97CfrqKFFI3QBkTDx) | [Wish You Well](https://open.spotify.com/album/21A6NJoF9eN9yuCqIHJu5y) | 2:54 | 2023-01-13 | 2023-02-11 |
 | [Without You](https://open.spotify.com/track/29fdAxeFYB5HL59p8xpGuc) | [Brandon](https://open.spotify.com/artist/08HpiyWkp2Z7gFTkVae265) | [Without You](https://open.spotify.com/album/2FWppGA54SYkp9BHEhWUoT) | 4:15 | 2024-08-02 | 2024-09-19 |
+| [Without You](https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff), [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2) | [Without You](https://open.spotify.com/album/2HdjmnNEQ3T0MUj2kT59nP) | 5:03 | 2025-01-17 |  |
 | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/track/4VyoOl99FlcemZr6WvzQed) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC), [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Woman \(feat\. Lianne La Havas\)](https://open.spotify.com/album/573VHLRrwj40u1oZcutY9r) | 3:11 | 2021-03-19 | 2022-01-25 |
 | [Won One](https://open.spotify.com/track/1Go1t1GBt5XJX75DMoMBoa) | [Tkay Maidza](https://open.spotify.com/artist/1kMPdZQVdUhMDKDWOJM5iK) | [Sweet Justice](https://open.spotify.com/album/2TvE3Ck4cUcXwwD7bkO7pl) | 2:41 | 2023-11-03 | 2024-01-31 |
 | [WORK 4 A SMILE \(DEMO\)](https://open.spotify.com/track/0pgR8YHXEZPOAo93QvWyhA) | [Rahul](https://open.spotify.com/artist/4oXf5OZHHXh8SbprWRa1f8) | [DEPRESSED BUT MAKE IT COOL](https://open.spotify.com/album/1C4fLVYiwsja5CtDc3kSp0) | 1:50 | 2022-09-09 | 2022-09-24 |

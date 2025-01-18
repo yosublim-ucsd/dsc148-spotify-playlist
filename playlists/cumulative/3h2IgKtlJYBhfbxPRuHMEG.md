@@ -2,9 +2,9 @@
 
 ### [Bass Drop](https://open.spotify.com/playlist/3h2IgKtlJYBhfbxPRuHMEG)
 
-> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: 1788\-L
+> The best EDM, Trap, Electronic, Drum&amp;Bass\. Cover: Zeds Dead
 
-156 songs - 8 hr 49 min
+157 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [NANOBLADE](https://open.spotify.com/track/0jLBkTFgx4zzXFIprJhto1) | [1788\-L](https://open.spotify.com/artist/7oB4pCSzvvRtZka6DxXUfN) | [NU\-TYPE vol\. 1](https://open.spotify.com/album/7CFctl9XFeGEcX2tBYEgZR) | 3:43 | 2024-11-29 |  |
 | [No Reason](https://open.spotify.com/track/70JiPk5FBlc6eymIcHPCxU) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo) | [No Reason](https://open.spotify.com/album/0noR7T69B8RDZ71B5VIIrt) | 4:00 | 2023-12-01 |  |
 | [Off Wiv Ya Headz](https://open.spotify.com/track/29LpCEcWnk9lFfzR2o3YVW) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Off Wiv Ya Headz](https://open.spotify.com/album/5TZjI8gx4AhL4yIdW6o8DQ) | 3:26 | 2023-12-01 |  |
+| [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 | 2025-01-17 |  |
 | [Origami](https://open.spotify.com/track/57s8meIN3qkYonEk7hOdLf) | [IMANU](https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1), [Hudson Lee](https://open.spotify.com/artist/15wwDN0ZICXvhJLfom0hCt) | [Unfold](https://open.spotify.com/album/3MWWoyTPwnuhND8LMOAyse) | 3:30 | 2023-12-01 |  |
 | [Out For Blood](https://open.spotify.com/track/0UNpHzs0Sm29tiIl6Wq6RN) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh), [Omar LinX](https://open.spotify.com/artist/6fSNDuge2fLINdnCCbpZx6) | [Out For Blood](https://open.spotify.com/album/4dYVktttrR5GVE6JEFA0Xp) | 5:16 | 2023-12-22 | 2024-11-09 |
 | [Patterns](https://open.spotify.com/track/23xE27jW7X7Tl2Y3favXv8) | [Taiki Nulight](https://open.spotify.com/artist/4QWmN97HRZya55JvxN3I5a), [Hamdi](https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg) | [Stay In Your Lane](https://open.spotify.com/album/0XCcosgLU9zNKgAcuaEQWI) | 3:40 | 2024-12-13 |  |

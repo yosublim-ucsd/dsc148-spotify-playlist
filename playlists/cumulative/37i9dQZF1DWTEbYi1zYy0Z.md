@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-486 songs - 1 day 10 hr 23 min
+487 songs - 1 day 10 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -302,7 +302,7 @@
 | [New Lives](https://open.spotify.com/track/1Uv9mEVCgAFwdgnvZdyGXh) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A), [Greg Manning](https://open.spotify.com/artist/124ZXfDP304DWzmuOM6Jza) | [New Lives](https://open.spotify.com/album/0MkZW5ETQZkQ5q2Bf7YS1R) | 4:11 | 2023-07-28 | 2024-10-19 |
 | [New Lives \- Radio Edit](https://open.spotify.com/track/0UBFcH7kXYQ8GiPvuHFKJJ) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [New Lives \(Radio Edit\)](https://open.spotify.com/album/7iVn7hAbIRliWQUp7d1808) | 4:11 | 2023-07-28 | 2024-04-19 |
 | [Newfound Treasure](https://open.spotify.com/track/34NSmeactf8t2me3ynMuAm) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Arun Shenoy](https://open.spotify.com/artist/2z4Hre9Bs3HgruyY01zYwU), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Sami Turunen](https://open.spotify.com/artist/2xLnJ9osiiSOHRiJT28qiO) | [Newfound Treasure](https://open.spotify.com/album/6W9eRTZ5LmNEOD9mW8LHc0) | 3:04 | 2022-06-17 | 2023-06-24 |
-| [Newport Nights \- Radio Edit](https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Newport Nights \(Radio Edit\)](https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj) | 3:49 | 2024-07-05 |  |
+| [Newport Nights \- Radio Edit](https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Newport Nights \(Radio Edit\)](https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj) | 3:49 | 2024-07-05 | 2025-01-18 |
 | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/track/4KopqTSf6XxC3hHmQR7Vgx) | [Walter Beasley](https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP), [Najee](https://open.spotify.com/artist/41F8cUV8LJGVDPNnj0ito3) | [Nice and Easy \(Walter's Version\)](https://open.spotify.com/album/2zVWak9gCSDkoCBPgMS4Zl) | 4:16 | 2023-06-02 |  |
 | [Nico’s Groove](https://open.spotify.com/track/2xPr3ODopFSqA2I1TmReAK) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [Nico’s Groove](https://open.spotify.com/album/2QxxlPUxcATya406iG9izA) | 6:57 | 2023-06-09 |  |
 | [Nico’s Groove](https://open.spotify.com/track/7rW0altos5eKOAQyqFFp0h) | [Brian Bromberg](https://open.spotify.com/artist/6iyIbAydXPDNz1yYFl7A9h) | [The Magic of Moonlight](https://open.spotify.com/album/6YmwG1NG50beLi4G6T7f2N) | 6:57 | 2023-06-09 | 2024-04-19 |
@@ -469,6 +469,7 @@
 | [Unstoppable](https://open.spotify.com/track/0BVGP7P6x7MoxOFqdJcU6U) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Unstoppable](https://open.spotify.com/album/4V5KFA6bg3Aol3eqt6bnsI) | 4:12 | 2024-02-02 | 2024-03-23 |
 | [Up All Night](https://open.spotify.com/track/4cayMK8FdWRvfVzZgsgElI) | [Michael Lington](https://open.spotify.com/artist/23P8kVBVyDkO8s6sn1QDre), [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Up All Night \(feat\. Boney James\)](https://open.spotify.com/album/3MgeZPkZbPAN2cdTKiVzMs) | 4:10 | 2021-03-12 | 2022-03-18 |
 | [Uptop](https://open.spotify.com/track/2dVePyjsLCrWmu6ICDm8cF) | [Adam Hawley](https://open.spotify.com/artist/1lWqhDiZ2OtpsJsQFtXsKX) | [Uptop](https://open.spotify.com/album/0e9CbmyR2qGr4k1vGQYtSv) | 4:20 | 2023-08-04 | 2024-02-03 |
+| [Vibes \- Radio Edit](https://open.spotify.com/track/04lmQEfGqUyFLnDQbUPVSr) | [Michael Cates](https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A) | [Vibes \(Radio Edit\)](https://open.spotify.com/album/5SGGbjc2zFk8OTe5h7oiQq) | 3:44 | 2025-01-17 |  |
 | [Victoria Falls](https://open.spotify.com/track/4fudubz4Z7yzxrbn6Ytgnr) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/0XeOa7J4MyLZcpvEDkq4fp) | 5:18 | 2023-10-13 | 2023-12-24 |
 | [Victoria Falls](https://open.spotify.com/track/5bMOMAvO7ZgE3Nqij4plFk) | [Matthew Shell](https://open.spotify.com/artist/4XfIiCq9teZp4gSPE0iYC9), [Douglas Lira](https://open.spotify.com/artist/2Ljy5B4j9O8O3cYwCgcZQI), [Angie Nicole](https://open.spotify.com/artist/5tZTqwfxy4zLaEWkVejTws) | [Victoria Falls](https://open.spotify.com/album/3fYI1OMxP4ZkBRfklrnVWg) | 5:18 | 2023-10-13 | 2024-01-13 |
 | [Vision Realized](https://open.spotify.com/track/6iupviWvu7nbvJYkdrUflk) | [Vandell Andrew](https://open.spotify.com/artist/2CqMN6Wc7xALKwcrV2vqEW) | [Vision Realized](https://open.spotify.com/album/0sPOEr6fmqrtZz5VvVomHz) | 4:05 | 2020-10-30 | 2022-03-13 |

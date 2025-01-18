@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Jungle
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,323 likes - 75 songs - 4 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,316 likes - 75 songs - 4 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 2 | [Unbelievable](https://open.spotify.com/track/0S85m8J9rdjI0jwOLiFGOP) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Ada](https://open.spotify.com/artist/1SUz2JjWDXSVyAtWokVinQ) | [Unbelievable](https://open.spotify.com/album/1zINq33LASwPgNKVnbIxrq) | 4:31 |
 | 3 | [What Have You Done For Me Lately](https://open.spotify.com/track/113ecSRDeHB0NMdWa01TtI) | [TATYANA](https://open.spotify.com/artist/40SwTLJmxQgWXTFi4YUKyP) | [What Have You Done For Me Lately](https://open.spotify.com/album/3C3GRRLeywAuS8ms3uFvbr) | 3:29 |
 | 4 | [Cut Stitch Scar](https://open.spotify.com/track/3NH823qTPhi6iwZBzzX8gV) | [CocoRosie](https://open.spotify.com/artist/05fo024EFotg9songSENOZ) | [Cut Stitch Scar](https://open.spotify.com/album/0ViGCN6YcGbu3Tj1B3ESn1) | 6:03 |
-| 5 | [Mystery](https://open.spotify.com/track/0rHEEVb39IQ6iUhoj1JU4A) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [Mystery](https://open.spotify.com/album/4zdhg2gmRL0WCcBN8MYMpd) | 4:50 |
+| 5 | [Mystery](https://open.spotify.com/track/0rHEEVb39IQ6iUhoj1JU4A) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [Mystery](https://open.spotify.com/album/4zdhg2gmRL0WCcBN8MYMpd) | 4:46 |
 | 6 | [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 |
 | 7 | [Secret Things](https://open.spotify.com/track/4a49WO6vXd8egkfPvulUtO) | [UTO](https://open.spotify.com/artist/1qLSzTLKNBRu1byHN1eXoD) | [Secret Things](https://open.spotify.com/album/7CORUQHjj1pmeP0g5K4PGG) | 3:15 |
 | 8 | [Armour](https://open.spotify.com/track/2GVTjTqTTLmA6N1FqBhTzL) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Armour](https://open.spotify.com/album/5yhpVegMsw2OTRsErE7NBM) | 3:26 |

@@ -4,7 +4,7 @@
 
 > A new take on a classic sound\. Cover: Thee Sacred Souls
 
-479 songs - 1 day 4 hr 54 min
+480 songs - 1 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,7 +29,7 @@
 | [B\-Side](https://open.spotify.com/track/2DccHqTquzubziHAPZRdct) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 4:34 | 2021-12-10 | 2024-04-19 |
 | [Back to your Place](https://open.spotify.com/track/0uWOQHOICf6RfBDXQW0Iv9) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Back to your Place](https://open.spotify.com/album/53IEOx1fqwy7HEVpfElZv3) | 3:22 | 2023-02-03 |  |
 | [Bad Advice \- The Pool Sessions](https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Bad Advice \(The Pool Sessions\)](https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ) | 3:28 | 2024-09-13 |  |
-| [Baptist](https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Flawed by Design](https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT) | 5:02 | 2024-05-31 |  |
+| [Baptist](https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Flawed by Design](https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT) | 5:02 | 2024-05-31 | 2025-01-18 |
 | [Be My Own Man](https://open.spotify.com/track/5wOthUe5Zx1FdIB9GSFvBd) | [Phillip\-Michael Scales](https://open.spotify.com/artist/0GUFrEry7OHxPMcpjPH9lQ) | [Be My Own Man](https://open.spotify.com/album/1Eboy7GftOfgKfFofBdW6O) | 3:45 | 2024-05-31 |  |
 | [Be With Me](https://open.spotify.com/track/6VavOiyoO5yXe31rzQQidB) | [Pat Van Dyke](https://open.spotify.com/artist/1yaeIrccwZJISDyXmizfZZ), [Jeff Taylor](https://open.spotify.com/artist/63PIgnaohnnnVea0ZSOWLp), [Ansley Stewart](https://open.spotify.com/artist/5vhTunGtLVYEAvjIOurNxS) | [Be With Me](https://open.spotify.com/album/1jZdxDxqza2rwg7vkfIgeI) | 3:30 | 2024-01-12 |  |
 | [Beat the Same](https://open.spotify.com/track/4YNS5X205ZvDvRIl1SLAKS) | [Joey Dosik](https://open.spotify.com/artist/3kANxNTLNOhxpOPoCbGq9E) | [Beat the Same](https://open.spotify.com/album/3nXMNTGJIbUY9ytMUUEVGc) | 3:46 | 2023-02-24 | 2023-06-03 |
@@ -308,6 +308,7 @@
 | [Our Love \(from the series Arcane League of Legends\)](https://open.spotify.com/track/0OFSdfkFF5wLszOz0csftu) | [Curtis Harding](https://open.spotify.com/artist/0CUpzKPDfIVzYqMn47jiV3), [Jazmine Sullivan](https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq) | [Arcane League of Legends \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/3MdiH74FL8mhlbnR6DcqJd) | 3:38 | 2021-12-13 | 2023-01-28 |
 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-03 | 2024-08-10 |
 | [Paddle to the Stars](https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi) | [The Dip](https://open.spotify.com/artist/2qFOYqFxPaIwEnffVhJhEn) | [Paddle to the Stars](https://open.spotify.com/album/4BXAPfbjgQM0JEHopQKkFU) | 2:36 | 2021-11-05 | 2022-07-29 |
+| [Paris](https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB) | [Wolfgang Valbrun](https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5) | [Paris](https://open.spotify.com/album/4cAI2lU33xuw3YLixV8w1T) | 2:56 | 2025-01-17 |  |
 | [Pelvis Pusher](https://open.spotify.com/track/6bo1ykqKEAYsdwVtR1ze8x) | [Vintage Trouble](https://open.spotify.com/artist/72Pauuctba5lMzC89R0Vk0) | [Pelvis Pusher](https://open.spotify.com/album/1bmrKIWcFwqW6PwAe5EnI8) | 3:07 | 2021-07-09 | 2022-09-03 |
 | [Piece of Me](https://open.spotify.com/track/5CbcqhKsBbiOsjdkh5Hsea) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/76yrGYfxRIv1FnVU01IhdS) | 3:42 | 2021-07-09 |  |
 | [Piece Of Me](https://open.spotify.com/track/63hmrFUS4mvbiWzFP9u2LK) | [Lady Wray](https://open.spotify.com/artist/1plioVQ0mcgAO7uhvWkJJy) | [Piece of Me](https://open.spotify.com/album/6YZfQdeTTIIkPUEAFmXvMB) | 3:44 | 2021-07-09 | 2024-04-19 |

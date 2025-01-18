@@ -451,6 +451,36 @@
     },
     {
       "album": {
+        "name": "A Laje",
+        "url": "https://open.spotify.com/album/2SJX2EcFiTzY466hX1cWMv"
+      },
+      "artists": [
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "Melly",
+          "url": "https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW"
+        },
+        {
+          "name": "Kandace Lindsey",
+          "url": "https://open.spotify.com/artist/6UOqGECOrz2Whn4I24CO8E"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 342928,
+      "name": "A Laje",
+      "url": "https://open.spotify.com/track/6pDASjyhHtN2Dv4ZY8EBhU"
+    },
+    {
+      "album": {
         "name": "A Vida De Uma Gostosa",
         "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
       },
@@ -1294,7 +1324,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 161738,
       "name": "Amigos nunca devem",
       "url": "https://open.spotify.com/track/2KNK4cM9bF5aGN1sYiQLPQ"
@@ -4719,6 +4749,24 @@
     },
     {
       "album": {
+        "name": "Deixa Molhar",
+        "url": "https://open.spotify.com/album/2RS2bespFSSmu2RQtn00at"
+      },
+      "artists": [
+        {
+          "name": "Rachel Reis",
+          "url": "https://open.spotify.com/artist/12i4XNuGj3mOnIsmeyw1HR"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181278,
+      "name": "Deixa Molhar",
+      "url": "https://open.spotify.com/track/3xzwKkGHQp8USzDQtlnHQS"
+    },
+    {
+      "album": {
         "name": "Deixa Pra L\u00e1",
         "url": "https://open.spotify.com/album/5Dat9zmMxlC6ps8Vd3ULgt"
       },
@@ -5872,6 +5920,24 @@
       "duration_ms": 127058,
       "name": "Espetacular",
       "url": "https://open.spotify.com/track/3XWnVWfwfb0IszI3X4CZrG"
+    },
+    {
+      "album": {
+        "name": "Esquinas",
+        "url": "https://open.spotify.com/album/2DVwOWSHjIm1L6pOm0EGIl"
+      },
+      "artists": [
+        {
+          "name": "ANAVIT\u00d3RIA",
+          "url": "https://open.spotify.com/artist/1sPg5EHuQXTMElpZ4iUgXe"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212699,
+      "name": "Espet\u00e1culo estranho",
+      "url": "https://open.spotify.com/track/7325x5azZOlWkYL9EpnqW5"
     },
     {
       "album": {
@@ -9107,6 +9173,28 @@
     },
     {
       "album": {
+        "name": "LUA CHEIA",
+        "url": "https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp"
+      },
+      "artists": [
+        {
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
+        },
+        {
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170089,
+      "name": "LUA CHEIA",
+      "url": "https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi"
+    },
+    {
+      "album": {
         "name": "Lua Cheia",
         "url": "https://open.spotify.com/album/6aRPIPyZQKpSQi3W2p7o4Y"
       },
@@ -12095,6 +12183,28 @@
     },
     {
       "album": {
+        "name": "Oi Xod\u00f3zinho",
+        "url": "https://open.spotify.com/album/7iIBpoiJlGI0bN0EH8RLvJ"
+      },
+      "artists": [
+        {
+          "name": "QUITXA",
+          "url": "https://open.spotify.com/artist/2cvrw3HWvaY0DoEvOYUvc6"
+        },
+        {
+          "name": "HEO",
+          "url": "https://open.spotify.com/artist/0H1f4AwctYhhhyNywuWi21"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124887,
+      "name": "Oi Xod\u00f3zinho",
+      "url": "https://open.spotify.com/track/3b643qVO94rCYxM6ywBI7y"
+    },
+    {
+      "album": {
         "name": "Olha Bela",
         "url": "https://open.spotify.com/album/2H84den6cdw9vICRQfwav0"
       },
@@ -12578,7 +12688,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 159999,
       "name": "passarela",
       "url": "https://open.spotify.com/track/052FrvNDco0zbAgZh3Zasz"
@@ -16706,7 +16816,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 151636,
       "name": "Sua Preferida",
       "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
@@ -16866,7 +16976,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 190451,
       "name": "Sussurro",
       "url": "https://open.spotify.com/track/4p8s2KgHNZiHBs6CBVAPsX"
@@ -18450,7 +18560,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 172950,
       "name": "Used To Be",
       "url": "https://open.spotify.com/track/7x2I8qW1uEp3vNBbCk3VCi"
@@ -19534,7 +19644,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 183211,
       "name": "\u00faltimo rom\u00e2ntico",
       "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"

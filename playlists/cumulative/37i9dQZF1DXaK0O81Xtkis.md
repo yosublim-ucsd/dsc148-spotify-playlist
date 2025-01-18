@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop\.  Cover: IDER
+> a little indie, a little pop\.  Cover: Magdalena Bay
 
-1,210 songs - 2 day 12 hr 14 min
+1,215 songs - 2 day 12 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -126,6 +126,7 @@
 | [Bleach](https://open.spotify.com/track/3j8mwslzqj90yjWWNwwff8) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Bleach](https://open.spotify.com/album/7ub18yc0hNRu7ImCIFzlYk) | 3:39 | 2022-02-18 | 2022-06-04 |
 | [BLEACH](https://open.spotify.com/track/0Yb631ktGsxwsDFFlKZm6A) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5), [Trevor Daniel](https://open.spotify.com/artist/7uaIm6Pw7xplS8Dy06V6pT) | [BLEACH](https://open.spotify.com/album/3uQYcHFnDBBo9K2BK5Ixj8) | 2:29 | 2023-12-08 | 2024-01-13 |
 | [bleachers](https://open.spotify.com/track/537lxjgEWi70xoayyrCWus) | [Haiden Henderson](https://open.spotify.com/artist/79xvSUqngetd6CbJ1bgb4p) | [bleachers](https://open.spotify.com/album/4BxtVVOL8m6cZLYNtJejGQ) | 2:36 | 2024-04-26 | 2024-07-19 |
+| [Blind \(feat\. Keiynan Lonsdale\)](https://open.spotify.com/track/0xVLBgZW9QeL4VKTj2yvMB) | [PEPTALK](https://open.spotify.com/artist/2vYtdvQwAT3n7Gq3crN4EA), [Keiynan Lonsdale](https://open.spotify.com/artist/0tkkz8CmkHga4YZgSHEDVl) | [Blind \(feat\. Keiynan Lonsdale\)](https://open.spotify.com/album/2lzrgCaMxKjwNqfHkGsc8x) | 3:13 | 2025-01-17 |  |
 | [Bloodstream](https://open.spotify.com/track/5kGJZNkZwVANWe47AdzSZV) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bloodstream](https://open.spotify.com/album/2Jim0UzhiiJtFjL7Ol35XH) | 3:31 | 2024-02-09 | 2024-03-16 |
 | [Bloom](https://open.spotify.com/track/5pvZYywDL4vELF5bwunAEZ) | [Aidan Bissett](https://open.spotify.com/artist/4XQI4hyuy5xun1ou3SM8Oe) | [Supernova](https://open.spotify.com/album/1fTspDmdJN3MlqyxnBO9GT) | 3:33 | 2024-01-05 | 2024-02-28 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-08-23 | 2024-09-21 |
@@ -179,6 +180,7 @@
 | [Capsize](https://open.spotify.com/track/3dVM8JotXWlRZ3TmMweoss) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Where the Redwoods Meet the Sea](https://open.spotify.com/album/3XPdCfPF5QctGxYqHGdqoH) | 3:39 | 2022-09-16 | 2023-02-11 |
 | [Capsize](https://open.spotify.com/track/7D27fovf8GDa5ZnJ5hyCqm) | [Windser](https://open.spotify.com/artist/0G9ibJ5qs4Zl6iupdrVAG1) | [Capsize](https://open.spotify.com/album/1iwBYzoshPBAXdBKD6DPS1) | 3:39 | 2022-09-16 | 2022-11-12 |
 | [Car Trouble](https://open.spotify.com/track/3k6ya2E34qLDC8iacwZ7xM) | [Owl City](https://open.spotify.com/artist/07QEuhtrNmmZ0zEcqE9SF6) | [Car Trouble](https://open.spotify.com/album/72HCvZNzt1VB7QjqY1QYVV) | 5:13 | 2024-03-01 | 2024-03-30 |
+| [Carpet Burn](https://open.spotify.com/track/4w8s45oHwAFUl1wUpe1wGY) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Carpet Burn](https://open.spotify.com/album/0rjWotPSPYNVjdpEjh3gyM) | 3:09 | 2025-01-17 |  |
 | [Casablanca](https://open.spotify.com/track/5EyZi2wYMNeIK3FPXfXTzG) | [Fly By Midnight](https://open.spotify.com/artist/4rQTEdG6hDVOlDUFKs9EjZ) | [Casablanca](https://open.spotify.com/album/1Ppx2NxJQ6RjRa7SO3z3hN) | 3:40 | 2024-09-13 |  |
 | [Casper](https://open.spotify.com/track/1dV2NyQUs4fnjIt03nsObq) | [Robert Grace](https://open.spotify.com/artist/6W8rk6H6C3Mcj0lALuLVg1) | [Casper](https://open.spotify.com/album/4jgelDulWcFndTEWGLyqJw) | 3:03 | 2023-07-28 | 2023-09-16 |
 | [Castaways](https://open.spotify.com/track/6ICGEHHvGJ9l4I68zuiyXB) | [Milow](https://open.spotify.com/artist/6mo0UbyIvIePdXNyLwQlk5), [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Castaways](https://open.spotify.com/album/43nTCW1quhIVMokEbaIV6r) | 2:44 | 2025-01-10 |  |
@@ -562,6 +564,7 @@
 | [If I'm Honest](https://open.spotify.com/track/2Z7EZcoB3z8KLB1o0gY1aw) | [Trousdale](https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE) | [If I'm Honest](https://open.spotify.com/album/60xkllE0RluvMz1pko3C8f) | 2:42 | 2023-08-18 | 2024-01-05 |
 | [if jesus saves, she's my type](https://open.spotify.com/track/4OmmvUxdmeew6cIJCxd2VH) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [if jesus saves, she’s my type](https://open.spotify.com/album/31eBckdffuyRK8cKmZYhkH) | 3:37 | 2022-02-18 | 2022-04-09 |
 | [ilu](https://open.spotify.com/track/5IEi6RGx2FaJGtmsrkbpgp) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [ilu](https://open.spotify.com/album/76Dh2doBSUmXzLQzwAExG0) | 2:49 | 2022-06-10 | 2022-08-20 |
+| [Image](https://open.spotify.com/track/0QW0KPBXXv67haGjbtkRRB) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 3:32 | 2025-01-17 |  |
 | [Imaginary Friends](https://open.spotify.com/track/276FYBBORL5s6Ob4XJ6eN8) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD), [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Imaginary Friends](https://open.spotify.com/album/6yx184mN6SndwRgl6PZlLc) | 2:52 | 2022-03-18 | 2022-06-25 |
 | [In His Room](https://open.spotify.com/track/22O3nWcyenKVftNJrJdJK6) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [Up At Night](https://open.spotify.com/album/5lHGdSSI9etvLGqCnuw5eb) | 2:47 | 2024-09-13 | 2024-12-14 |
 | [IN THE CLOUDS](https://open.spotify.com/track/3A1r88bLPBHsWW4JCdFyHl) | [DMAD](https://open.spotify.com/artist/4pjMa1uBw63lY4eoVqrfyX) | [IN THE CLOUDS](https://open.spotify.com/album/5y0xWK2xRC7rAfm6VAejnA) | 2:48 | 2023-03-31 | 2023-06-24 |
@@ -686,6 +689,7 @@
 | [Loverman](https://open.spotify.com/track/7yMvCjdJkJFKclMFnlutoV) | [Go\-Jo](https://open.spotify.com/artist/7CslUrDCYnm3vMtKZJZGNv) | [Loverman](https://open.spotify.com/album/6UyQiKLbwj1rfvWK0ybprK) | 2:26 | 2023-12-01 | 2024-02-10 |
 | [lowdown](https://open.spotify.com/track/4s10wX7nZoqgP8erbDwekP) | [Keli Holiday](https://open.spotify.com/artist/53IyqdnGZpmI0dRsySPdIM) | [JESTERMAN](https://open.spotify.com/album/2uhSDUavjgBCB46C5rYqUQ) | 3:14 | 2024-05-31 | 2024-07-19 |
 | [Lucky \- Edit](https://open.spotify.com/track/2MHkpE8EdENJyhsW80MVXf) | [Two Door Cinema Club](https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl) | [Lucky](https://open.spotify.com/album/5xuxGrVtAlSz5c8W2gkvLl) | 3:16 | 2022-07-29 | 2022-09-03 |
+| [LUCKY BOY](https://open.spotify.com/track/5w3s73fS7K0Ld0FMjwWooE) | [Maxwell Luke](https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX) | [LUCKY BOY](https://open.spotify.com/album/7sC2LnkJihVuPsBPPUPU7y) | 2:48 | 2025-01-17 |  |
 | [Magic](https://open.spotify.com/track/1ozTHWtYAhhLeJ2CejjNyF) | [Will Linley](https://open.spotify.com/artist/3xnCBQeZDec3FFo8vUSt4N) | [Magic](https://open.spotify.com/album/4ArIrhbEuQiYmNsePoj1OJ) | 3:13 | 2023-11-10 | 2024-01-05 |
 | [Make A Baby \(feat\. Yung Gravy\)](https://open.spotify.com/track/37bFHkEAi61i9bNGBANB7B) | [Jesse McCartney](https://open.spotify.com/artist/2Hjj68yyUPiC0HKEOigcEp), [Yung Gravy](https://open.spotify.com/artist/2YOYua8FpudSEiB9s88IgQ) | [Make A Baby \(feat\. Yung Gravy\)](https://open.spotify.com/album/26jkS6OX6tUpVYFBYSugEW) | 2:10 | 2024-03-01 | 2024-04-27 |
 | [make you sick](https://open.spotify.com/track/7Ec2TmAp6LQhPP21ioIEh1) | [Jake Cornell](https://open.spotify.com/artist/6zf13X0QDPkbKT2bQAcKyV) | [make you sick](https://open.spotify.com/album/59wTseGXxX8DibgCwwMzDP) | 2:01 | 2023-03-03 | 2023-06-24 |
@@ -1161,6 +1165,7 @@
 | [What We Wanted](https://open.spotify.com/track/5GjQuycV1lNwXWOPNx62U0) | [Stephen Dawes](https://open.spotify.com/artist/3jTU1IOqkO7Mz4zdbXPose) | [What We Wanted](https://open.spotify.com/album/4olIbtgqWVhl3yQN7xp5Qb) | 2:48 | 2024-04-26 | 2024-06-01 |
 | [What's Been On Your Mind?](https://open.spotify.com/track/3lpshfvmjrxGm9xr3x47F2) | [Surfaces](https://open.spotify.com/artist/4ETSs924pXMzjIeD6E9b4u) | [What's Been On Your Mind?](https://open.spotify.com/album/7HYuwChe92i9qPG4QFJ0Rs) | 2:52 | 2022-06-10 | 2022-08-13 |
 | [Whatever Comes My Way](https://open.spotify.com/track/5VjVqlPfslXPqORPGk5HlH) | [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [I had a beautiful time, now I have to leave](https://open.spotify.com/album/6uQgWP0yooJzPcr2bYYmrN) | 2:29 | 2023-12-08 | 2024-02-03 |
+| [What’s On Your Mind](https://open.spotify.com/track/6OEfp9hoy5ugnNaGhtBTK9) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Back to Me](https://open.spotify.com/album/4I0zCNINiIdL6JfUExr5M4) | 2:29 | 2025-01-17 |  |
 | [When I'm With You](https://open.spotify.com/track/15cQVPbbwv0sZXrHRIAZeX) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [DREAMSCAPE](https://open.spotify.com/album/4iF9sRunhefmp2zO5ys0AB) | 3:31 | 2024-11-15 |  |
 | [When I’m Leavin’](https://open.spotify.com/track/6oRHBT8w7LshsnffOf36X6) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [When I’m Leavin’](https://open.spotify.com/album/6RNT3jY4AJje3MVgMKi4JX) | 2:32 | 2024-04-12 | 2024-06-01 |
 | [when the rain stops](https://open.spotify.com/track/3GmdapszNp6FVKA07EtUD2) | [eaJ](https://open.spotify.com/artist/0kX41bvrBQtgqSEXbmTzMN) | [when the rain stopped following me](https://open.spotify.com/album/1PofmLWLes72yEnDBj4dmU) | 3:21 | 2024-09-20 |  |

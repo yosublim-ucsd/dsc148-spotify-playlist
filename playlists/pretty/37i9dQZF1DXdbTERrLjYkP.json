@@ -1,18 +1,34 @@
 {
-  "description": "Discover the next wave of talent writing their own songs. Cover: Julia Minichiello",
-  "num_followers": 217313,
+  "description": "Discover the next wave of talent writing their own songs. Cover: Esha Tewari",
+  "num_followers": 217372,
   "original_name": "Next Gen Singer-Songwriters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du6gAAAACMW+reUry7GkGjMX/2ErgC",
+  "snapshot_id": "Z4nj8AAAAADQLU4QRaRunRmg848epOvA",
   "tracks": [
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2025-01-17 05:00:32",
       "album": {
-        "name": "always know the exits",
-        "url": "https://open.spotify.com/album/68HRjx3Vpx1VLdVq9uhC5C"
+        "name": "you were mine",
+        "url": "https://open.spotify.com/album/2Z1dI60i67xgrHpNIa1tOX"
+      },
+      "artists": [
+        {
+          "name": "Esha Tewari",
+          "url": "https://open.spotify.com/artist/45W0uOq0sDCediEA9i8VJt"
+        }
+      ],
+      "duration_ms": 221584,
+      "name": "you were mine",
+      "url": "https://open.spotify.com/track/2iThSegFKI6KUtoo4ppAt2"
+    },
+    {
+      "added_at": "2025-01-17 05:00:32",
+      "album": {
+        "name": "you were just drunk",
+        "url": "https://open.spotify.com/album/5KBEO2fTXCj1iEjcROyPXA"
       },
       "artists": [
         {
@@ -20,9 +36,41 @@
           "url": "https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS"
         }
       ],
-      "duration_ms": 188353,
-      "name": "always know the exits",
-      "url": "https://open.spotify.com/track/3jX35k5Y0SvCGNMvYysS3p"
+      "duration_ms": 176652,
+      "name": "you were just drunk",
+      "url": "https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b"
+    },
+    {
+      "added_at": "2025-01-17 05:00:32",
+      "album": {
+        "name": "Slowly, It Dawns",
+        "url": "https://open.spotify.com/album/4cXbkCGtivxpmwwbmdyuQR"
+      },
+      "artists": [
+        {
+          "name": "Victoria Canal",
+          "url": "https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G"
+        }
+      ],
+      "duration_ms": 202200,
+      "name": "Vauxhall",
+      "url": "https://open.spotify.com/track/2ukWCx1OUBiZsTyjhfGVYY"
+    },
+    {
+      "added_at": "2025-01-17 05:00:32",
+      "album": {
+        "name": "A Little Kinder",
+        "url": "https://open.spotify.com/album/0PSfzTtE8Z7ax2V2aknKCy"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "A Little Kinder",
+      "url": "https://open.spotify.com/track/2FW5ayCDLgY1UiB5KeeiyO"
     },
     {
       "added_at": "2025-01-03 05:00:26",
@@ -493,22 +541,6 @@
       "url": "https://open.spotify.com/track/6oYl91cnhWSumFg2aOfPbJ"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
-      "album": {
-        "name": "Thank you for the love",
-        "url": "https://open.spotify.com/album/4vFiwnvKjMe0cvmOEV8XxM"
-      },
-      "artists": [
-        {
-          "name": "Charlie Burg",
-          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
-        }
-      ],
-      "duration_ms": 250355,
-      "name": "lovesong from the living room",
-      "url": "https://open.spotify.com/track/1LaCp9S2Db2dqAKzpY0p09"
-    },
-    {
       "added_at": "2024-10-18 04:00:00",
       "album": {
         "name": "8",
@@ -523,54 +555,6 @@
       "duration_ms": 170841,
       "name": "Where Do You Go?",
       "url": "https://open.spotify.com/track/1NbcvJtbdUSiXjwTSoWr3m"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "crumbs",
-        "url": "https://open.spotify.com/album/1nyrrw9Z37Hc1U3eALV51X"
-      },
-      "artists": [
-        {
-          "name": "corook",
-          "url": "https://open.spotify.com/artist/1rNVlQNJSIESCd5mixdqMt"
-        }
-      ],
-      "duration_ms": 185000,
-      "name": "crumbs",
-      "url": "https://open.spotify.com/track/7wOirCLiVCdWMihUSIgDSZ"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "Mass. Ave (You and I)",
-        "url": "https://open.spotify.com/album/3B7NIQEdQHvmK8hhZcgXY9"
-      },
-      "artists": [
-        {
-          "name": "Delilah Brao",
-          "url": "https://open.spotify.com/artist/5dWRkpyqnoYDNouN02NDdk"
-        }
-      ],
-      "duration_ms": 140560,
-      "name": "Mass. Ave (You and I)",
-      "url": "https://open.spotify.com/track/5IoBwcBsA3hK9vAcFvvx2A"
-    },
-    {
-      "added_at": "2024-10-18 04:00:00",
-      "album": {
-        "name": "cupids on cocaine",
-        "url": "https://open.spotify.com/album/4XdcZz88Its2ktA7lbRabC"
-      },
-      "artists": [
-        {
-          "name": "Meg Smith",
-          "url": "https://open.spotify.com/artist/4MfdeUAPPDpi4xdc1jvnwg"
-        }
-      ],
-      "duration_ms": 148357,
-      "name": "cupids on cocaine",
-      "url": "https://open.spotify.com/track/11RsKyyMsurzmtjBD3a5G1"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -635,22 +619,6 @@
       "duration_ms": 181153,
       "name": "As Soon As I'm Gone",
       "url": "https://open.spotify.com/track/2nQHEShCowzlA9MssApiAW"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Rearview",
-        "url": "https://open.spotify.com/album/2VuST67lANIbEPX13rzCTp"
-      },
-      "artists": [
-        {
-          "name": "Nicolina",
-          "url": "https://open.spotify.com/artist/7srWOPjLNJJW3N45zOynFb"
-        }
-      ],
-      "duration_ms": 192405,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/2wsvrOWiTvfFMxp3QEVIOT"
     },
     {
       "added_at": "2024-10-11 04:00:00",
@@ -797,38 +765,6 @@
       "url": "https://open.spotify.com/track/6joM1SZtTJjWFGw0iE9gvz"
     },
     {
-      "added_at": "2024-09-20 17:49:09",
-      "album": {
-        "name": "Old Car",
-        "url": "https://open.spotify.com/album/0dY7aaSn3OtgYSyeVl73hA"
-      },
-      "artists": [
-        {
-          "name": "Chrissy",
-          "url": "https://open.spotify.com/artist/3QwRBjTeM46BQmREpCiL6f"
-        }
-      ],
-      "duration_ms": 199922,
-      "name": "Old Car",
-      "url": "https://open.spotify.com/track/3o6wfrXEOOd1wk836lNyQS"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/7udQ2xdosB3zUkdNGaG4m8"
-      },
-      "artists": [
-        {
-          "name": "Aimee Carty",
-          "url": "https://open.spotify.com/artist/4LkmOQU5KA6vZgvJHnpQDl"
-        }
-      ],
-      "duration_ms": 153687,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/6SrYWzq2Fn0ReOmhE3lqh4"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Season One",
@@ -891,86 +827,6 @@
       "duration_ms": 183420,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
-    },
-    {
-      "added_at": "2024-09-06 04:00:00",
-      "album": {
-        "name": "Molly, I\u2019m Coming Around",
-        "url": "https://open.spotify.com/album/4yUap2F8j3GAzVdZ1KIqtI"
-      },
-      "artists": [
-        {
-          "name": "Annika Bennett",
-          "url": "https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l"
-        }
-      ],
-      "duration_ms": 161519,
-      "name": "Molly, I'm Coming Around",
-      "url": "https://open.spotify.com/track/2H4CUYU47uxckLEqih8dUH"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Friends",
-        "url": "https://open.spotify.com/album/6qFv9WrLCIfPgL6I2zEa5F"
-      },
-      "artists": [
-        {
-          "name": "Catie Turner",
-          "url": "https://open.spotify.com/artist/3nYYI90ObxhjLjdxaoXGSa"
-        }
-      ],
-      "duration_ms": 197047,
-      "name": "Friends",
-      "url": "https://open.spotify.com/track/6bi9RHbm4CNVczSQqU0g2E"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Unfinished Business",
-        "url": "https://open.spotify.com/album/4EgBAIKvsEgr9JZXd28G6K"
-      },
-      "artists": [
-        {
-          "name": "Liv Miraldi",
-          "url": "https://open.spotify.com/artist/3kqX5Myzg59lBJTPZmJTzY"
-        }
-      ],
-      "duration_ms": 236893,
-      "name": "Unfinished Business",
-      "url": "https://open.spotify.com/track/51Es7m0L8xBEthyJna04so"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Birthday Song",
-        "url": "https://open.spotify.com/album/3ZZlsJFtAzMAZ1xti6HAtB"
-      },
-      "artists": [
-        {
-          "name": "Sydney Rose",
-          "url": "https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv"
-        }
-      ],
-      "duration_ms": 263839,
-      "name": "Birthday Song",
-      "url": "https://open.spotify.com/track/72neMcbRmFNHmr97Qz8dOw"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "Eternal June",
-        "url": "https://open.spotify.com/album/07UddeVlOY0BdtTIkUH51b"
-      },
-      "artists": [
-        {
-          "name": "Emma Foley",
-          "url": "https://open.spotify.com/artist/2mT4dR2yqTdySXfsIkAp0x"
-        }
-      ],
-      "duration_ms": 144912,
-      "name": "Eternal June",
-      "url": "https://open.spotify.com/track/1KKHhlOK0Kt7aCRzccuQ5n"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1087,22 +943,6 @@
     {
       "added_at": "2024-08-30 04:00:00",
       "album": {
-        "name": "Becoming Unbecoming",
-        "url": "https://open.spotify.com/album/2uQryGgbiVHdvqjLbky4Bz"
-      },
-      "artists": [
-        {
-          "name": "Leanna Firestone",
-          "url": "https://open.spotify.com/artist/31431J9PD3bfNsPKkezt0d"
-        }
-      ],
-      "duration_ms": 206129,
-      "name": "Becoming Unbecoming",
-      "url": "https://open.spotify.com/track/5QjcxcxCdbvuMDrDm1etzB"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
         "name": "Peppermint Sky",
         "url": "https://open.spotify.com/album/2qRdKjU7UL9ozU9AX2iCNR"
       },
@@ -1115,22 +955,6 @@
       "duration_ms": 169870,
       "name": "Peppermint Sky",
       "url": "https://open.spotify.com/track/2jabv3amUzqPxqWInOQEHK"
-    },
-    {
-      "added_at": "2024-08-30 04:00:00",
-      "album": {
-        "name": "young wild & free",
-        "url": "https://open.spotify.com/album/4P0267ISb7jOxFTe6Gxe4L"
-      },
-      "artists": [
-        {
-          "name": "Harvey Brittain",
-          "url": "https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "young wild & free",
-      "url": "https://open.spotify.com/track/4YNmGqdF81pCTRO2YWp0ST"
     },
     {
       "added_at": "2024-08-30 04:00:00",

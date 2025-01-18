@@ -2,7 +2,7 @@
 
 ### [hot girl walk](https://open.spotify.com/playlist/37i9dQZF1DXbdNhlZLjJXz)
 
-> this one's for all my mean girls
+> Why y'all gagging? It's Lexi Love
 
 294 songs - 16 hr 12 min
 

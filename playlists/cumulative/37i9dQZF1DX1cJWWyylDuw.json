@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A mix of the best modern Deathcore tracks. Cover: Whitechapel",
+  "description": "A mix of the best modern Deathcore tracks. Cover: CABAL",
   "name": "Deathcore",
   "tracks": [
     {
@@ -211,6 +211,24 @@
     },
     {
       "album": {
+        "name": "Absentia",
+        "url": "https://open.spotify.com/album/4SdEHHpXGRge0PCmsa9Hpt"
+      },
+      "artists": [
+        {
+          "name": "Drown in Sulphur",
+          "url": "https://open.spotify.com/artist/4FFseinIReANTJHY36gSwI"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244415,
+      "name": "Absentia",
+      "url": "https://open.spotify.com/track/31Zonjdcnm2QB7tF61vjJU"
+    },
+    {
+      "album": {
         "name": "Absolved of The Strings And Stone",
         "url": "https://open.spotify.com/album/5K7nTqG2racfLQ4TcFRTox"
       },
@@ -378,6 +396,28 @@
       "duration_ms": 197250,
       "name": "Afflictions",
       "url": "https://open.spotify.com/track/3wrUHyoG7VOsCYWHjOnYnl"
+    },
+    {
+      "album": {
+        "name": "Brainflesh Split",
+        "url": "https://open.spotify.com/album/62BXkpwAMRr3FtzcWyoVlg"
+      },
+      "artists": [
+        {
+          "name": "Brains Outward",
+          "url": "https://open.spotify.com/artist/32BWrcLzz8vqCTIBqAMwFn"
+        },
+        {
+          "name": "PeelingFlesh",
+          "url": "https://open.spotify.com/artist/40DbKvYvADTiks7hZIUPHG"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136200,
+      "name": "Agony",
+      "url": "https://open.spotify.com/track/4uDff6HzvgfnCpHhowipHA"
     },
     {
       "album": {
@@ -2044,7 +2084,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 147746,
       "name": "COCKSNATCHER",
       "url": "https://open.spotify.com/track/77QKvXOMECqax6FVtEzmXu"
@@ -2919,6 +2959,24 @@
     },
     {
       "album": {
+        "name": "May Death Come Quickly",
+        "url": "https://open.spotify.com/album/4kjWCy4OWwvj4ZFDbca1WX"
+      },
+      "artists": [
+        {
+          "name": "The Hate Project",
+          "url": "https://open.spotify.com/artist/00LS9pzopfrTLw1Cv17GHo"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180684,
+      "name": "Diabolic Seer",
+      "url": "https://open.spotify.com/track/4dCdk1H4baLxYu8iy79Stu"
+    },
+    {
+      "album": {
         "name": "Digital Suicide",
         "url": "https://open.spotify.com/album/5FVHGM3B7LmQbcY9wJy6tN"
       },
@@ -3042,7 +3100,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 191781,
       "name": "Doom Sequence",
       "url": "https://open.spotify.com/track/3XbSTn9JFKZ8gTT3EGahlA"
@@ -4494,7 +4552,7 @@
       ],
       "date_added": "2023-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 190485,
       "name": "Gaslight",
       "url": "https://open.spotify.com/track/4CtFvQhdhJoBcgkSuaA0D9"
@@ -4737,6 +4795,28 @@
     },
     {
       "album": {
+        "name": "Guilt Trip (feat. Mental Cruelty)",
+        "url": "https://open.spotify.com/album/4EwGr4b4RC2stv9yNVzrBR"
+      },
+      "artists": [
+        {
+          "name": "Caliban",
+          "url": "https://open.spotify.com/artist/1oeo6cC9Fqa2bxxv67qBQL"
+        },
+        {
+          "name": "Mental Cruelty",
+          "url": "https://open.spotify.com/artist/2iE1NqruxoSxTvOpTCLkE9"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185608,
+      "name": "Guilt Trip (feat. Mental Cruelty)",
+      "url": "https://open.spotify.com/track/6hPO9zpZu9AwFoK5SuvelO"
+    },
+    {
+      "album": {
         "name": "Sanctum",
         "url": "https://open.spotify.com/album/0RyQZ62ByBc3nAIOTJqqFE"
       },
@@ -4770,6 +4850,24 @@
       "duration_ms": 121864,
       "name": "Gypsy Disco",
       "url": "https://open.spotify.com/track/3md0vbPVjAthmi7NgQYvcR"
+    },
+    {
+      "album": {
+        "name": "Hades",
+        "url": "https://open.spotify.com/album/7C5RDFQ6hRYl9hhoNJ5A7a"
+      },
+      "artists": [
+        {
+          "name": "Sun Eater",
+          "url": "https://open.spotify.com/artist/4gTpdTrY1wigOF2NvK409M"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Hades",
+      "url": "https://open.spotify.com/track/72tsE9vOqdHaFnJRL17k2u"
     },
     {
       "album": {
@@ -4864,6 +4962,24 @@
       "duration_ms": 215571,
       "name": "Headcase",
       "url": "https://open.spotify.com/track/3wgW1TMsVWnf0Yyq2ZhCS8"
+    },
+    {
+      "album": {
+        "name": "Moments of Misery",
+        "url": "https://open.spotify.com/album/3WAYSoXWabbEFu2yjSU4Qg"
+      },
+      "artists": [
+        {
+          "name": "Heavy//Hitter",
+          "url": "https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177428,
+      "name": "Heaven's Gate",
+      "url": "https://open.spotify.com/track/7nqXXHiraoBCFk7JBcx17Q"
     },
     {
       "album": {
@@ -5132,7 +5248,7 @@
       ],
       "date_added": "2021-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 231959,
       "name": "Hollowed Heart",
       "url": "https://open.spotify.com/track/7HZHFE3NN7uQgf9JRRN3Hh"
@@ -5208,6 +5324,24 @@
       "duration_ms": 211594,
       "name": "Human Target",
       "url": "https://open.spotify.com/track/6lCCcsaT5jPPx0X5DMy38H"
+    },
+    {
+      "album": {
+        "name": "Hymns in Dissonance",
+        "url": "https://open.spotify.com/album/4vrdVbbpdzmw9WMzdr0lra"
+      },
+      "artists": [
+        {
+          "name": "Whitechapel",
+          "url": "https://open.spotify.com/artist/5274obTQJjzjyycRyJlfml"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312466,
+      "name": "Hymns in Dissonance",
+      "url": "https://open.spotify.com/track/6KukQLPGIVCyPYHSG9aiIU"
     },
     {
       "album": {
@@ -5302,7 +5436,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 181626,
       "name": "Ignorance Is Fear",
       "url": "https://open.spotify.com/track/6ZlQfPJNxAXY9mp2sSoSQc"
@@ -6187,6 +6321,24 @@
     },
     {
       "album": {
+        "name": "Love Burns",
+        "url": "https://open.spotify.com/album/0lzXhCQvgW1sw7V5CeWpZL"
+      },
+      "artists": [
+        {
+          "name": "Paleface Swiss",
+          "url": "https://open.spotify.com/artist/467M2s2YxXdlL2ZpDUNL3A"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255858,
+      "name": "Love Burns",
+      "url": "https://open.spotify.com/track/3qybm3xmYoAg7vETamsmZv"
+    },
+    {
+      "album": {
         "name": "Love Me to Death",
         "url": "https://open.spotify.com/album/1s7syJTvVBjlbZuthJfFJa"
       },
@@ -6668,7 +6820,7 @@
       ],
       "date_added": "2022-05-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 214621,
       "name": "Mother's Repine",
       "url": "https://open.spotify.com/track/1IbQy1zPX2AWcroG1mpTJD"
@@ -6690,7 +6842,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 380639,
       "name": "Mournful Benediction (feat. Ben Duerr)",
       "url": "https://open.spotify.com/track/6gij4IsYFTkgiNuDiMHjsl"
@@ -7108,7 +7260,7 @@
       ],
       "date_added": "2024-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 269161,
       "name": "Not Immediately Life Threatening",
       "url": "https://open.spotify.com/track/2wdNw7kMd8mZFs62OueQNU"
@@ -7782,7 +7934,7 @@
       ],
       "date_added": "2024-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 205562,
       "name": "Plague Bringer - Inhuman Rework",
       "url": "https://open.spotify.com/track/38iDyu6u4bhga9HoufGxX8"
@@ -8163,6 +8315,24 @@
     },
     {
       "album": {
+        "name": "The Nothing That Is",
+        "url": "https://open.spotify.com/album/4ZYfWm41dWgewV1yMV4zmU"
+      },
+      "artists": [
+        {
+          "name": "Fit For An Autopsy",
+          "url": "https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 304493,
+      "name": "Red Horizon",
+      "url": "https://open.spotify.com/track/7Hrr1Setc3WFBICOm5kEgn"
+    },
+    {
+      "album": {
         "name": "Red Mist",
         "url": "https://open.spotify.com/album/2xjFTKvlEzxeE4BR6hbNsM"
       },
@@ -8214,6 +8384,24 @@
       "duration_ms": 229080,
       "name": "Reich der Gier",
       "url": "https://open.spotify.com/track/4MGD7UxEXnJvaK1FWIjYia"
+    },
+    {
+      "album": {
+        "name": "Release",
+        "url": "https://open.spotify.com/album/23Bt42wtllzSdSYdBBCXLW"
+      },
+      "artists": [
+        {
+          "name": "Traitors",
+          "url": "https://open.spotify.com/artist/1GkXxneFQE4d5YTsrbN6Ya"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244421,
+      "name": "Release",
+      "url": "https://open.spotify.com/track/4tGeH8kFzww24xr0S1kjEm"
     },
     {
       "album": {
@@ -8580,7 +8768,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 212853,
       "name": "Say Goodbye",
       "url": "https://open.spotify.com/track/5pPxKVIKJaICKxtF7VeOS9"
@@ -8704,6 +8892,46 @@
       "duration_ms": 283373,
       "name": "Seven Souls",
       "url": "https://open.spotify.com/track/5BVgixsn2PgaNzI9tZSjfm"
+    },
+    {
+      "album": {
+        "name": "SHALLOW GRAVE",
+        "url": "https://open.spotify.com/album/53ikhdZE3GFL8A1ATJDJNJ"
+      },
+      "artists": [
+        {
+          "name": "Sinizter",
+          "url": "https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8"
+        },
+        {
+          "name": "Left to Suffer",
+          "url": "https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 91643,
+      "name": "SHALLOW GRAVE",
+      "url": "https://open.spotify.com/track/4IRI94PiTsO8GPmEjBa5iO"
+    },
+    {
+      "album": {
+        "name": "Shard Throat",
+        "url": "https://open.spotify.com/album/6YDZrM7UvIVHtgo8P08XrD"
+      },
+      "artists": [
+        {
+          "name": "Gutrectomy",
+          "url": "https://open.spotify.com/artist/0GAUayKtM7XULaNosOHwaD"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153705,
+      "name": "Shard Throat",
+      "url": "https://open.spotify.com/track/3E2cJPNoEPrrxxZUihLQMU"
     },
     {
       "album": {
@@ -10474,7 +10702,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 285146,
       "name": "Under the Curse of the One God",
       "url": "https://open.spotify.com/track/1f7mdLZTP8taPKMZknvj3z"
@@ -10514,6 +10742,28 @@
       "duration_ms": 279250,
       "name": "Untruth",
       "url": "https://open.spotify.com/track/3BoYZLAdGWJNq4RRRkDsh7"
+    },
+    {
+      "album": {
+        "name": "Unveiled",
+        "url": "https://open.spotify.com/album/2tVkL6WmnYW358d9REQDzY"
+      },
+      "artists": [
+        {
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+        },
+        {
+          "name": "Nasty",
+          "url": "https://open.spotify.com/artist/7GnX7pGXdWtLObs16B1mFB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145160,
+      "name": "Unveiled",
+      "url": "https://open.spotify.com/track/0ddCNevYg1TERhDOW4nQOt"
     },
     {
       "album": {
@@ -10608,7 +10858,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 171735,
       "name": "Vile Postmortem Irrumatio",
       "url": "https://open.spotify.com/track/5qkWjyehS7SQYsLJR2nvNM"
@@ -10860,7 +11110,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 165571,
       "name": "Waste Of Life",
       "url": "https://open.spotify.com/track/1pLnssQzsg2KAUDK9Hltru"

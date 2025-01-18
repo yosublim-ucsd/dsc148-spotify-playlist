@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Supaveen",
-  "num_followers": 14092,
+  "num_followers": 14103,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4jXpAAAAACaL3jPmp1vZ9zB7IjQHwxY",
+  "snapshot_id": "Z4nkVAAAAACL6HbhDvV2vKBhuSfQ3MyY",
   "tracks": [
     {
       "added_at": "2024-12-23 05:34:44",
@@ -85,20 +85,20 @@
       "url": "https://open.spotify.com/track/2LLarbh5VTWDgOsGThd2rt"
     },
     {
-      "added_at": "2024-12-19 11:22:09",
+      "added_at": "2025-01-17 04:51:27",
       "album": {
-        "name": "Parakkiren Naan",
-        "url": "https://open.spotify.com/album/7jhdn9F7QtFXK8YVhQO7SN"
+        "name": "Santhosham",
+        "url": "https://open.spotify.com/album/79tK2NhrdB5Q2g1hFA906K"
       },
       "artists": [
         {
-          "name": "Roja Aditya",
-          "url": "https://open.spotify.com/artist/6g551keqGM5TQ6KOrvfSNQ"
+          "name": "Sasi The Don",
+          "url": "https://open.spotify.com/artist/6APAnfUdrwL4p3SKl733Q8"
         }
       ],
-      "duration_ms": 212000,
-      "name": "Parakkiren Naan",
-      "url": "https://open.spotify.com/track/5upbB3hM61InhJBHHpeT7N"
+      "duration_ms": 197626,
+      "name": "Santhosham",
+      "url": "https://open.spotify.com/track/7gocHLwMiHYistuL6IRvPC"
     },
     {
       "added_at": "2024-10-18 04:57:06",
@@ -115,6 +115,22 @@
       "duration_ms": 240666,
       "name": "Inidhai",
       "url": "https://open.spotify.com/track/0uYwGSjdw4xpIVMppngaOM"
+    },
+    {
+      "added_at": "2024-12-19 11:22:09",
+      "album": {
+        "name": "Parakkiren Naan",
+        "url": "https://open.spotify.com/album/7jhdn9F7QtFXK8YVhQO7SN"
+      },
+      "artists": [
+        {
+          "name": "Roja Aditya",
+          "url": "https://open.spotify.com/artist/6g551keqGM5TQ6KOrvfSNQ"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "Parakkiren Naan",
+      "url": "https://open.spotify.com/track/5upbB3hM61InhJBHHpeT7N"
     },
     {
       "added_at": "2024-12-05 06:19:59",
@@ -185,20 +201,24 @@
       "url": "https://open.spotify.com/track/4uDz10d3vMktL85WVPdY7i"
     },
     {
-      "added_at": "2024-11-25 06:20:32",
+      "added_at": "2025-01-17 04:48:16",
       "album": {
-        "name": "Azhagana Kadhali",
-        "url": "https://open.spotify.com/album/6EUzqEp4WRA7rzZ3sGJrtI"
+        "name": "Po Venaa",
+        "url": "https://open.spotify.com/album/0oB2AQsyWSlhrymk9iPLt6"
       },
       "artists": [
         {
-          "name": "Vibin Kumar",
-          "url": "https://open.spotify.com/artist/742EmbLi9qjhahiOJWDPEz"
+          "name": "Vismay Patel",
+          "url": "https://open.spotify.com/artist/43jHbOAD9UtOEO1la8CVHs"
+        },
+        {
+          "name": "Malvi Sunderesan",
+          "url": "https://open.spotify.com/artist/0rtWpyMW1JnQ7IFAtysnjE"
         }
       ],
-      "duration_ms": 246575,
-      "name": "Azhagana Kadhali",
-      "url": "https://open.spotify.com/track/2JFRYYfoUyvSt2Zkjft2jT"
+      "duration_ms": 125510,
+      "name": "Po Venaa",
+      "url": "https://open.spotify.com/track/15ilxiXT5Wf5yvOScCPz0N"
     },
     {
       "added_at": "2024-11-20 05:23:16",
@@ -219,6 +239,34 @@
       "duration_ms": 160874,
       "name": "Olti Vudu",
       "url": "https://open.spotify.com/track/65tEW5ZsbDwkNLCzf6JUFh"
+    },
+    {
+      "added_at": "2025-01-17 05:02:12",
+      "album": {
+        "name": "Pesum Paniye",
+        "url": "https://open.spotify.com/album/2NHfCoGhRlKPUyycjuQs2k"
+      },
+      "artists": [
+        {
+          "name": "Mithran",
+          "url": "https://open.spotify.com/artist/2IkfHRXExdUpuuT7sIiyxe"
+        },
+        {
+          "name": "Surya",
+          "url": "https://open.spotify.com/artist/7fkRuzZzNxqP3kUfDSqQlJ"
+        },
+        {
+          "name": "Gautham Mahesh",
+          "url": "https://open.spotify.com/artist/1SfDQ3uJwZKq0MHHkadNeB"
+        },
+        {
+          "name": "Aathisankar Vivek",
+          "url": "https://open.spotify.com/artist/61dz7DImoFT0x4dB7HEWYl"
+        }
+      ],
+      "duration_ms": 186666,
+      "name": "Pesum Paniye",
+      "url": "https://open.spotify.com/track/1LRV6xKvY45J83bhK2QqHP"
     },
     {
       "added_at": "2024-12-05 06:36:34",
@@ -275,6 +323,26 @@
       "duration_ms": 75200,
       "name": "Junjujukum Bojalo - Bb Vox",
       "url": "https://open.spotify.com/track/5EzdwQAb4mY3Lkm29lgHeT"
+    },
+    {
+      "added_at": "2025-01-17 05:02:12",
+      "album": {
+        "name": "Siragukal",
+        "url": "https://open.spotify.com/album/2938QEeQmOu68Eo0b3mMgf"
+      },
+      "artists": [
+        {
+          "name": "Karthikayini",
+          "url": "https://open.spotify.com/artist/2AzOAHcFQxHUp55v0RIr14"
+        },
+        {
+          "name": "Yazh",
+          "url": "https://open.spotify.com/artist/7Glpc6v4vLqa8YqoV0GpeR"
+        }
+      ],
+      "duration_ms": 226324,
+      "name": "Siragukal",
+      "url": "https://open.spotify.com/track/75xH3TWSOfl5eNUreaGtin"
     },
     {
       "added_at": "2024-12-19 11:21:15",
@@ -629,26 +697,6 @@
       "url": "https://open.spotify.com/track/5KNWO4AbtG5LBKt03aXh3N"
     },
     {
-      "added_at": "2024-12-16 12:35:52",
-      "album": {
-        "name": "Wings",
-        "url": "https://open.spotify.com/album/5wHoa5TTBvI4qhElruVqnq"
-      },
-      "artists": [
-        {
-          "name": "Maharani",
-          "url": "https://open.spotify.com/artist/3eierPHdYDKLc9SmZh70MW"
-        },
-        {
-          "name": "ItsyaboiKay",
-          "url": "https://open.spotify.com/artist/2B6HF8XA5T6hG0DmSG42q5"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Wings",
-      "url": "https://open.spotify.com/track/64g07AL2XWZfXEcfEgMzaI"
-    },
-    {
       "added_at": "2024-08-23 05:09:28",
       "album": {
         "name": "Chechi",
@@ -813,30 +861,6 @@
       "url": "https://open.spotify.com/track/3QT8Y48V2UfNenGW43sfRV"
     },
     {
-      "added_at": "2024-10-19 12:16:04",
-      "album": {
-        "name": "ALZHEIMER",
-        "url": "https://open.spotify.com/album/2hlU5GiGGW3vpJqcwp8FqT"
-      },
-      "artists": [
-        {
-          "name": "Aravind Karneeswaran",
-          "url": "https://open.spotify.com/artist/6WhCmwXKt1znjtpjt9Xcvi"
-        },
-        {
-          "name": "Nalini Vittobane",
-          "url": "https://open.spotify.com/artist/5imil4usnuFDZ320XNEHt3"
-        },
-        {
-          "name": "ADY KRIZ",
-          "url": "https://open.spotify.com/artist/4NpYZCwjj6a38XHpYOTbG2"
-        }
-      ],
-      "duration_ms": 160928,
-      "name": "ALZHEIMER",
-      "url": "https://open.spotify.com/track/2WDhkon2LhFpUPWvAwqpwL"
-    },
-    {
       "added_at": "2024-10-04 05:12:27",
       "album": {
         "name": "Nee",
@@ -971,26 +995,6 @@
       "duration_ms": 215996,
       "name": "Oh Kanmaniye",
       "url": "https://open.spotify.com/track/1miOAICSQx1qM6W3a3cp7C"
-    },
-    {
-      "added_at": "2024-12-16 12:35:52",
-      "album": {
-        "name": "Annakkiliye - Giant Music India - Originals",
-        "url": "https://open.spotify.com/album/20jo4olA3JTth10K4pRDU5"
-      },
-      "artists": [
-        {
-          "name": "Jagadeesh Kumar Balraj",
-          "url": "https://open.spotify.com/artist/6vS08NxeEwSRd6Tdt3iMwt"
-        },
-        {
-          "name": "Giant Music India",
-          "url": "https://open.spotify.com/artist/4i50YpLVKgBRGFModpDZPb"
-        }
-      ],
-      "duration_ms": 224985,
-      "name": "Annakkiliye - Giant Music India - Originals",
-      "url": "https://open.spotify.com/track/06CHfSu5mGkoF1ZipodSr1"
     },
     {
       "added_at": "2024-10-04 05:12:27",

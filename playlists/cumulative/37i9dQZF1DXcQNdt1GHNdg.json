@@ -140,7 +140,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 234893,
       "name": "410",
       "url": "https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc"
@@ -2464,6 +2464,28 @@
       "duration_ms": 156887,
       "name": "Pre Workout",
       "url": "https://open.spotify.com/track/0Ov71yacCGsGhHbFXwhKTo"
+    },
+    {
+      "album": {
+        "name": "Punjabi Kompa",
+        "url": "https://open.spotify.com/album/38K1o8yxmy7ZnHr4wJaYH3"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190923,
+      "name": "Punjabi Kompa",
+      "url": "https://open.spotify.com/track/3XUeQfDlKWphVg5LFWEaRi"
     },
     {
       "album": {

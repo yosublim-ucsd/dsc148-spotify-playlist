@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14831,
+  "num_followers": 14834,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Pracownia (deluks)",
-        "url": "https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk"
-      },
-      "artists": [
-        {
-          "name": "Vito Bambino",
-          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
-        }
-      ],
-      "duration_ms": 260146,
-      "name": "Etna",
-      "url": "https://open.spotify.com/track/6YkXBYroMBpqNONNvHSQDh"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/4tCFw1RZhfHEkWrZYf4r92"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 239712,
       "name": "Nie by\u0142o Ci\u0119 - Live",
       "url": "https://open.spotify.com/track/5DLUiOxvQvNPnc3JDs9oIr"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Pracownia (deluks)",
+        "url": "https://open.spotify.com/album/7mVLtEuT4iQ98hPVkyJzZk"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "duration_ms": 260146,
+      "name": "Etna",
+      "url": "https://open.spotify.com/track/6YkXBYroMBpqNONNvHSQDh"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Dekonstrukcja historyczna I",
-        "url": "https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW"
-      },
-      "artists": [
-        {
-          "name": "\u017bywio\u0142ak",
-          "url": "https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH"
-        }
-      ],
-      "duration_ms": 364733,
-      "name": "Do licha",
-      "url": "https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Moje serce w Warszawie",
         "url": "https://open.spotify.com/album/6S27z8vNLgebk8Jbgr6WcG"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 329773,
       "name": "Moje serce w Warszawie",
       "url": "https://open.spotify.com/track/3ctthws9etjZKZIctF34Wq"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Dekonstrukcja historyczna I",
+        "url": "https://open.spotify.com/album/0Qae3eaajKRFUwZZEU2vRW"
+      },
+      "artists": [
+        {
+          "name": "\u017bywio\u0142ak",
+          "url": "https://open.spotify.com/artist/3EYuaOf6w8uTG7eM8vpMLH"
+        }
+      ],
+      "duration_ms": 364733,
+      "name": "Do licha",
+      "url": "https://open.spotify.com/track/2Ge3YgPhQfeLq9pcRI0AsI"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Piosenki domowe",
-        "url": "https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lesz",
-          "url": "https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr"
-        }
-      ],
-      "duration_ms": 136500,
-      "name": "Klucz",
-      "url": "https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Narkotyki",
         "url": "https://open.spotify.com/album/3stYIijAh28k8QMDeNwynp"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 210346,
       "name": "Alkohol i mi\u0142o\u015b\u0107",
       "url": "https://open.spotify.com/track/1R3qRNzMhOlXux9vQzEdY5"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Piosenki domowe",
+        "url": "https://open.spotify.com/album/4w0n8M8u50Uskcu101GXqV"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lesz",
+          "url": "https://open.spotify.com/artist/3MDEKBsgb6XSMdYHAK4Vdr"
+        }
+      ],
+      "duration_ms": 136500,
+      "name": "Klucz",
+      "url": "https://open.spotify.com/track/26rX8UYphpOKEgDBmvLusI"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Frukstrakt",
-        "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
-      },
-      "artists": [
-        {
-          "name": "Micha\u0142 Aftyka Quintet",
-          "url": "https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT"
-        }
-      ],
-      "duration_ms": 211047,
-      "name": "Serce Otwarte Na P\u00f3\u0142",
-      "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Koncert w Rozmarino",
         "url": "https://open.spotify.com/album/4LLbHBbAUAe5mN3XqiKwHi"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 301021,
       "name": "Polski blues",
       "url": "https://open.spotify.com/track/1GNHK7y8giTkgo01AKn7K1"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Frukstrakt",
+        "url": "https://open.spotify.com/album/5c3QN5r2Z8rpafADwmhjCn"
+      },
+      "artists": [
+        {
+          "name": "Micha\u0142 Aftyka Quintet",
+          "url": "https://open.spotify.com/artist/2xS21KB9yVv474txV9ODfT"
+        }
+      ],
+      "duration_ms": 211047,
+      "name": "Serce Otwarte Na P\u00f3\u0142",
+      "url": "https://open.spotify.com/track/3XywU8Sg5a5VKT2jROPisX"
     },
     {
       "added_at": "2024-03-25 08:52:09",

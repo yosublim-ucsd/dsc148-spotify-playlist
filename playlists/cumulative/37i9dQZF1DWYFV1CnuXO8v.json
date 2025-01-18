@@ -1152,7 +1152,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 291226,
       "name": "Batamenak",
       "url": "https://open.spotify.com/track/3FozW42AAcwXxdzmj0nnrE"
@@ -1988,6 +1988,24 @@
       "duration_ms": 281899,
       "name": "Gany Fe Awanoh",
       "url": "https://open.spotify.com/track/5oOm80jbpoaXN9vcsUywaO"
+    },
+    {
+      "album": {
+        "name": "Yaah",
+        "url": "https://open.spotify.com/album/4ovMza1WebamIyWDRupshi"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Ghebet El Habayeb",
+      "url": "https://open.spotify.com/track/6EBKXT2EYYX4f0hqJCuDT0"
     },
     {
       "album": {
@@ -4236,7 +4254,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 280566,
       "name": "Ya Nas",
       "url": "https://open.spotify.com/track/3MDT6ZQtjHzeV0C1oZXoqZ"
@@ -4906,7 +4924,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 309290,
       "name": "\u062d\u0627\u0644\u0629 \u062d\u0628",
       "url": "https://open.spotify.com/track/39p66qAicNOejp5HezzEhx"

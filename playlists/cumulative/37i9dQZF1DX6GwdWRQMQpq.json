@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Ceechynaa",
+  "description": "The hip-hop playlist that's a whole mood. Art By Laci Jordan; Cover: Megan Thee Stallion",
   "name": "Feelin' Myself",
   "tracks": [
     {
@@ -598,7 +598,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 269430,
       "name": "Arctic Tundra (feat. Juice WRLD)",
       "url": "https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI"
@@ -11366,6 +11366,24 @@
       "duration_ms": 122699,
       "name": "Turn It Up",
       "url": "https://open.spotify.com/track/6ou2irr0bEoGNaTejrOEBl"
+    },
+    {
+      "album": {
+        "name": "Turn Me Up",
+        "url": "https://open.spotify.com/album/6Lc6kbVxDCYWlqvh42A6KC"
+      },
+      "artists": [
+        {
+          "name": "Lebra Jolie",
+          "url": "https://open.spotify.com/artist/3ej8SuMJzEgwFLe2lCBikV"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165250,
+      "name": "Turn Me Up",
+      "url": "https://open.spotify.com/track/1cFpJsDccThCnkHS10ypSB"
     },
     {
       "album": {

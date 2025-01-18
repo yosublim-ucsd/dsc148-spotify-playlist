@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 
 > Change will challenge tradition\. Listen to the music from and inspired by The Crown, streaming only on Netflix.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,340 likes - 152 songs - 8 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,381 likes - 152 songs - 8 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7pKSVhIpJRE.md) - [plain]
 | 8 | [Ding Dong](https://open.spotify.com/track/5NXAvbNZOSuDZiFotfWOA5) | [The Packards](https://open.spotify.com/artist/48NWAOVS7JwLkHZTYd11RO) | [Ding Dong: The Old Town Single](https://open.spotify.com/album/726ZbqJXE54KmtPEOp0WuB) | 2:29 |
 | 9 | [Angel Eyes](https://open.spotify.com/track/4pEoF7AVNZrF0QscLqTnQp) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella Fitzgerald \- First Lady Of Song](https://open.spotify.com/album/7n5UUn75pwadVsF2nujN0V) | 3:21 |
 | 10 | [I Only Have Eyes for You](https://open.spotify.com/track/3YdKJzcoMZMacISlpY4QoP) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenade](https://open.spotify.com/album/6XEtlJFNCbNrIz1Q5kdLjZ) | 3:22 |
-| 11 | [Let's Have a Wonderful Time](https://open.spotify.com/track/3FW7incHsSHFlE7k9zDQRR) | [The John Barry Seven](https://open.spotify.com/artist/7na85rPu9SP3GlFpy4JJKk) | [Essential Gold](https://open.spotify.com/album/3aKOVZEzQBtuWEAPlMQ87D) | 1:56 |
+| 11 | [Let's Have a Wonderful Time](https://open.spotify.com/track/3FW7incHsSHFlE7k9zDQRR) | [John Barry Seven](https://open.spotify.com/artist/4vzILq98l9gZRA9K2SdaTE) | [Essential Gold](https://open.spotify.com/album/3aKOVZEzQBtuWEAPlMQ87D) | 1:56 |
 | 12 | [Bad Penny Blues](https://open.spotify.com/track/6nvRpYq8drmql1EzioeaEj) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf) | [Think Well of Me](https://open.spotify.com/album/2RsfiNIOTs2xP0s3WDfB6L) | 2:44 |
 | 13 | [The Wonder of You](https://open.spotify.com/track/1gh0g1D4IHHRVIrt4EMlhv) | [Ronnie Hilton](https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M) | [A Mouse Lived In a Windmill](https://open.spotify.com/album/6zDGMk8NkLdSnv1fDZrJ3f) | 2:39 |
 | 14 | [I Really Love You So \- Honeybabe](https://open.spotify.com/track/1JXEGSyZstgJqWLVSWmSKK) | [The Solitaires](https://open.spotify.com/artist/78mbNM5OEXwFRxfF8fsFjD) | [The Best of the Solitaires](https://open.spotify.com/album/4o97DKummtbqdnBTsTMujv) | 2:44 |

@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-681 songs - 1 day 5 hr 39 min
+683 songs - 1 day 5 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -386,6 +386,7 @@
 | [Lunar Eclipse](https://open.spotify.com/track/5kJcizlIh307M97sktNJ1y) | [Besso](https://open.spotify.com/artist/3aCuS8b1HzTgrJGTzddyOJ), [Miriam Cooper](https://open.spotify.com/artist/2QBcmdWm0u9p6rDOJP1z2X) | [Lunar Eclipse](https://open.spotify.com/album/03L6gLurM4itwkwJrImRdp) | 2:53 | 2024-10-04 |  |
 | [Mad World](https://open.spotify.com/track/1Rlsm9AnDtAK4g7WeXcNw5) | [Muted Mind](https://open.spotify.com/artist/39kVqgwmP8wUYifFJtmXeL) | [Mad World](https://open.spotify.com/album/6FTTNTI66J6TDulSeVwYbO) | 2:27 | 2024-07-13 | 2024-10-14 |
 | [Magical place \(feat\. IOVA\) \- Dj Dark & MD Dj Remix](https://open.spotify.com/track/6fuJ46PG4wJyOQdDPcLSk8) | [Dj Sava](https://open.spotify.com/artist/0rDSGIC4lIxx1zc0eGJY42), [DJ Dark](https://open.spotify.com/artist/5IRiBpTO8LDFHarNWYVkdn), [MD DJ](https://open.spotify.com/artist/31shErrQgVvu6r5rvF3unD), [IOVA](https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O) | [Magical place \(feat\. IOVA\) \[Remixes\]](https://open.spotify.com/album/36gFYJadJDxWNwvo2zwNp7) | 3:08 | 2024-07-30 |  |
+| [Make It Last](https://open.spotify.com/track/61L5AdFhG0o9JqdubW6uaf) | [Curdz](https://open.spotify.com/artist/3zKKp7w1aPxxA93GCkVbO4), [Dallien](https://open.spotify.com/artist/3iAbOn3r0bXmmxyQYBxVHJ), [Donner](https://open.spotify.com/artist/1jXVpcmMvyA6AtyzQtG42z) | [Make It Last](https://open.spotify.com/album/1cJcA72FdB0IEyj3MmOH1P) | 2:43 | 2025-01-17 |  |
 | [Make It Up To You](https://open.spotify.com/track/4RODkN4UR4wHsQAxAZmdB3) | [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [TwoWorldsApart](https://open.spotify.com/artist/29CTrnvjIYocNxv66Umt5B) | [Make It Up To You](https://open.spotify.com/album/3mqqgH5xFQva15hTeR2i5R) | 2:32 | 2023-09-22 | 2024-01-28 |
 | [Make This Last](https://open.spotify.com/track/4tmj9VS29WKSq56ONqkjjs) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Fini](https://open.spotify.com/artist/6ar3PBCFiFgb4aBlFqUZyx) | [Make This Last](https://open.spotify.com/album/5dBWzddC9YrLlqRHUXjqXZ) | 2:10 | 2024-11-24 | 2025-01-05 |
 | [Make You Mine](https://open.spotify.com/track/4D2OiZB41uIbNCgNpDOLFD) | [Wavey](https://open.spotify.com/artist/0tLuInyvDe42qY57KDsqTz) | [Make You Mine](https://open.spotify.com/album/0yzzqTBdTGa0aQn3GnMYpB) | 2:19 | 2023-09-22 | 2023-12-31 |
@@ -499,6 +500,7 @@
 | [Rushing From Me](https://open.spotify.com/track/1E7R3c2lHdlftcXcK4HnJL) | [Santorelli](https://open.spotify.com/artist/2W3PRQeJoFaEFaLZYiVrkR) | [Rushing From Me](https://open.spotify.com/album/4w1iRgykyDw8c433JRIgFs) | 2:48 | 2024-01-27 | 2024-06-01 |
 | [Safe & Sound](https://open.spotify.com/track/09W35ykeoYUXdlCkEFkqLq) | [Cale](https://open.spotify.com/artist/4pE5amRArtmThtna3eGERQ), [Janet Tung](https://open.spotify.com/artist/5GlnTa5AGHo9hhKuon69KB) | [Safe & Sound](https://open.spotify.com/album/7EO8uLByqZseYCWOZ0pZ0G) | 2:13 | 2023-09-22 | 2024-01-15 |
 | [Safe & Sound](https://open.spotify.com/track/3LCNPUM4TlQ7mNUjuwKyjd) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [ELIJAH](https://open.spotify.com/artist/3BKfCtHSgkQpLqX2n2191z) | [Safe & Sound](https://open.spotify.com/album/06bGpE5F7hsAHngJKIptAj) | 2:29 | 2024-06-09 | 2024-11-11 |
+| [Same Room](https://open.spotify.com/track/4qzcWCDOoSdbD1Kfvy2DSs) | [CLÜE](https://open.spotify.com/artist/3Su0ARjycouuBn1jXKPgQv), [Idun Nicoline](https://open.spotify.com/artist/72QjpaY1mSltWRHfWXGmMr) | [Same Room](https://open.spotify.com/album/3VtREBWUIiBmonKQTJWXnD) | 2:27 | 2025-01-17 |  |
 | [Saturday Night](https://open.spotify.com/track/5vvyZn01OanyjFXLuhrz5p) | [DALEXO](https://open.spotify.com/artist/5s4QJTzJRjMrqBDzPiif9l), [july](https://open.spotify.com/artist/0mZ3vE5UEhRLjfTLfyWD77) | [Saturday Night](https://open.spotify.com/album/0jh1gOwsVek6YoijDpG4gf) | 2:40 | 2024-09-12 |  |
 | [Save Me](https://open.spotify.com/track/3WuCtioRgRisEqZLS6hyy2) | [Dūne](https://open.spotify.com/artist/5TtvkENnGTgiOTO8gTbTmo) | [Save Me](https://open.spotify.com/album/5F6XZV6i7gTz4RuPNKGJ2N) | 2:14 | 2023-10-30 | 2024-05-13 |
 | [Save Tonight](https://open.spotify.com/track/2Jq6SVGQB0aIeTbIe9w1xT) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Foínix](https://open.spotify.com/artist/7FNA36ZmHzr9QkZJcQjYcO), [Jordan Grace](https://open.spotify.com/artist/0NST5cNxDtRZuToY6ngC0k) | [Save Tonight](https://open.spotify.com/album/1DoruW6kOIvECsIWt1Z3sr) | 2:25 | 2023-11-03 | 2024-06-19 |

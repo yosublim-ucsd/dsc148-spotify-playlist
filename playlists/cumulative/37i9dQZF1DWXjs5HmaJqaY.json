@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Die Maschine auf Diskette 2",
+        "url": "https://open.spotify.com/album/1MEvGJ9G7CS9CJl5e7QTrq"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 453120,
+      "name": "Die Maschine auf Diskette 2",
+      "url": "https://open.spotify.com/track/4nhnu43OWDMMfu9BeWH7eO"
+    },
+    {
+      "album": {
         "name": "Dimension",
         "url": "https://open.spotify.com/album/6x0CBRdU8588pZ40icfONg"
       },
@@ -1150,7 +1168,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 493579,
       "name": "Dotted",
       "url": "https://open.spotify.com/track/7imMxKBRGaRRTsxNFRZJNJ"
@@ -3419,6 +3437,24 @@
     },
     {
       "album": {
+        "name": "Operate",
+        "url": "https://open.spotify.com/album/2DGAaFQ7eA2t8ApyefIdyi"
+      },
+      "artists": [
+        {
+          "name": "DSTRTD SGNL",
+          "url": "https://open.spotify.com/artist/4ISX2aRyZ10uoLtypdPNai"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332444,
+      "name": "Operate",
+      "url": "https://open.spotify.com/track/3m6VqP3WJAbVNh3UGSG7uW"
+    },
+    {
+      "album": {
         "name": "Extraterrestrial Intelligence",
         "url": "https://open.spotify.com/album/5CeNGjzJBPrdaLmZ5EtrGR"
       },
@@ -4064,7 +4100,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 389760,
       "name": "Sign My Way",
       "url": "https://open.spotify.com/track/4VWIVgGe2ZrTMdJtzDPdfz"
@@ -4674,6 +4710,24 @@
       "duration_ms": 404400,
       "name": "The Blame - Helsloot Remix",
       "url": "https://open.spotify.com/track/4HiowIhpREOxQ3reSVLQ8n"
+    },
+    {
+      "album": {
+        "name": "Space Office",
+        "url": "https://open.spotify.com/album/6gSs6ycAf2LVosLB0U3INv"
+      },
+      "artists": [
+        {
+          "name": "Supergloss",
+          "url": "https://open.spotify.com/artist/7uvZrAOASv4qg1VawEFR7Z"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317139,
+      "name": "The Days of Escape",
+      "url": "https://open.spotify.com/track/5vkI2GOVAzenX0GOayanNY"
     },
     {
       "album": {

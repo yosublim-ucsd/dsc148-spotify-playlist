@@ -1,13 +1,97 @@
 {
-  "description": "The best in blues right now. Cover: Fantastic Negrito",
-  "num_followers": 61474,
+  "description": "The best in blues right now. Cover: Billy F Gibbons",
+  "num_followers": 61536,
   "original_name": "Got Blues",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpWAAAAAB7AIzIUXSYkRwnDjpdA7/l",
+  "snapshot_id": "Z4nj6gAAAACjYWb/o/KiJ3cQdhh1pXRX",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Livin' It Up Down In Texas",
+        "url": "https://open.spotify.com/album/36RkaLXpxXqJOgyoFARRCE"
+      },
+      "artists": [
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        }
+      ],
+      "duration_ms": 285080,
+      "name": "Livin' It Up Down In Texas",
+      "url": "https://open.spotify.com/track/56fMChBQ4TlnX9E56WsyUT"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "I've Got Three Problems",
+        "url": "https://open.spotify.com/album/7gBCnKUHOxEkXxnJJ5c6rt"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "duration_ms": 256853,
+      "name": "I've Got Three Problems",
+      "url": "https://open.spotify.com/track/61byc1wX7RoVn0m7qwO5PW"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Trouble Of That Girl",
+        "url": "https://open.spotify.com/album/002PpWEcvLyEwuSEgsqYq3"
+      },
+      "artists": [
+        {
+          "name": "Will Wilde",
+          "url": "https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ"
+        }
+      ],
+      "duration_ms": 201933,
+      "name": "Trouble Of That Girl",
+      "url": "https://open.spotify.com/track/0rQ5Eyy3SsOpYTUVGu7lsH"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Bad People",
+        "url": "https://open.spotify.com/album/0BAhzx2xOHrMisUGO6d4y1"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "duration_ms": 260345,
+      "name": "Bad People",
+      "url": "https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Grayer Shade Of Blue",
+        "url": "https://open.spotify.com/album/7zPwZNffxXgI9gxJmlrfdR"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "duration_ms": 309320,
+      "name": "Grayer Shade Of Blue",
+      "url": "https://open.spotify.com/track/6o62jjYwIJVLDteWJwjTmH"
+    },
     {
       "added_at": "2025-01-10 05:00:08",
       "album": {
@@ -63,22 +147,6 @@
       "duration_ms": 238832,
       "name": "Church Bells (Little Zion)",
       "url": "https://open.spotify.com/track/2w9UXeDOvQ82fPs3e6amll"
-    },
-    {
-      "added_at": "2024-12-13 05:00:06",
-      "album": {
-        "name": "Wild Man",
-        "url": "https://open.spotify.com/album/5pWbZT5l3XFhljy6EgWkBH"
-      },
-      "artists": [
-        {
-          "name": "Will Wilde",
-          "url": "https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ"
-        }
-      ],
-      "duration_ms": 220066,
-      "name": "Wild Man",
-      "url": "https://open.spotify.com/track/4ZM8t3782vRWNlRZ2Fwlbh"
     },
     {
       "added_at": "2024-12-13 05:00:06",
@@ -815,22 +883,6 @@
       "duration_ms": 229603,
       "name": "Human Decency",
       "url": "https://open.spotify.com/track/6FJuXe1j7UcQQmGKRoCtu4"
-    },
-    {
-      "added_at": "2024-04-12 04:01:00",
-      "album": {
-        "name": "Devil In Me",
-        "url": "https://open.spotify.com/album/5ofOvPpwP7rsn4JsHEDLlj"
-      },
-      "artists": [
-        {
-          "name": "Joanne Shaw Taylor",
-          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
-        }
-      ],
-      "duration_ms": 181933,
-      "name": "Devil In Me",
-      "url": "https://open.spotify.com/track/2QpsQclk1kxSVZ0kX5OQVs"
     },
     {
       "added_at": "2024-04-05 04:01:00",
@@ -1593,26 +1645,6 @@
       "url": "https://open.spotify.com/track/180C2riJpRHFruOPpYTPIn"
     },
     {
-      "added_at": "2023-05-12 04:01:00",
-      "album": {
-        "name": "Last Time",
-        "url": "https://open.spotify.com/album/7d1zgjgQZO89I2ffcHpVze"
-      },
-      "artists": [
-        {
-          "name": "Bob Corritore",
-          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
-        },
-        {
-          "name": "Jimmy Rogers",
-          "url": "https://open.spotify.com/artist/20k4RFKXyboeDSz9bjumx0"
-        }
-      ],
-      "duration_ms": 151919,
-      "name": "Last Time",
-      "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
-    },
-    {
       "added_at": "2023-03-17 04:01:00",
       "album": {
         "name": "Oscar's Motel",
@@ -1739,38 +1771,6 @@
       "duration_ms": 232200,
       "name": "Pay the Price",
       "url": "https://open.spotify.com/track/7wWH5g020mkyhjo0zzL3ty"
-    },
-    {
-      "added_at": "2022-11-04 04:00:00",
-      "album": {
-        "name": "The Question",
-        "url": "https://open.spotify.com/album/3I3fGqtBn1ddWKEL7aYDAd"
-      },
-      "artists": [
-        {
-          "name": "Henrik Freischlader",
-          "url": "https://open.spotify.com/artist/2RQuyY0nQqKOtzhBhghSGu"
-        }
-      ],
-      "duration_ms": 447487,
-      "name": "The Question",
-      "url": "https://open.spotify.com/track/358TP1XP2PYWXM0RsLwmlY"
-    },
-    {
-      "added_at": "2022-10-28 04:01:00",
-      "album": {
-        "name": "American Dream",
-        "url": "https://open.spotify.com/album/6c7Ay78lDG9A3xep8taktA"
-      },
-      "artists": [
-        {
-          "name": "Darryl Jones",
-          "url": "https://open.spotify.com/artist/3AnAntOFWOdjn8Fn02sfV8"
-        }
-      ],
-      "duration_ms": 251439,
-      "name": "American Dream",
-      "url": "https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp"
     }
   ],
   "unique_name": "Got Blues",

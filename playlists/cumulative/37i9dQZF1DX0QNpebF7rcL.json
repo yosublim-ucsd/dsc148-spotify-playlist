@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best in blues right now. Cover: Fantastic Negrito",
+  "description": "The best in blues right now. Cover: Billy F Gibbons",
   "name": "Got Blues",
   "tracks": [
     {
@@ -356,7 +356,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 251439,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/0A2nLIAI5it1fRJYGJ5Qyp"
@@ -498,6 +498,24 @@
       "duration_ms": 279223,
       "name": "Bad Man",
       "url": "https://open.spotify.com/track/3YvsPZ2najCeA2yao47eKa"
+    },
+    {
+      "album": {
+        "name": "Bad People",
+        "url": "https://open.spotify.com/album/0BAhzx2xOHrMisUGO6d4y1"
+      },
+      "artists": [
+        {
+          "name": "Deltaphonic",
+          "url": "https://open.spotify.com/artist/0St0UP4Ko93saAbyvRGhx8"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260345,
+      "name": "Bad People",
+      "url": "https://open.spotify.com/track/21Nv0pTJBQNLNUaaBR0E2Y"
     },
     {
       "album": {
@@ -1538,7 +1556,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 181933,
       "name": "Devil In Me",
       "url": "https://open.spotify.com/track/2QpsQclk1kxSVZ0kX5OQVs"
@@ -2502,6 +2520,24 @@
       "duration_ms": 210800,
       "name": "Good To Be (Home Again)",
       "url": "https://open.spotify.com/track/7HgqEF7aPj3l6BnjoYi3my"
+    },
+    {
+      "album": {
+        "name": "Grayer Shade Of Blue",
+        "url": "https://open.spotify.com/album/7zPwZNffxXgI9gxJmlrfdR"
+      },
+      "artists": [
+        {
+          "name": "Joanne Shaw Taylor",
+          "url": "https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309320,
+      "name": "Grayer Shade Of Blue",
+      "url": "https://open.spotify.com/track/6o62jjYwIJVLDteWJwjTmH"
     },
     {
       "album": {
@@ -3643,6 +3679,28 @@
     },
     {
       "album": {
+        "name": "I've Got Three Problems",
+        "url": "https://open.spotify.com/album/7gBCnKUHOxEkXxnJJ5c6rt"
+      },
+      "artists": [
+        {
+          "name": "Bob Corritore",
+          "url": "https://open.spotify.com/artist/0I1ooxdREQHLoUphm6uihH"
+        },
+        {
+          "name": "Bobby Rush",
+          "url": "https://open.spotify.com/artist/7LdFlcnzWpySPKngmFCnLi"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256853,
+      "name": "I've Got Three Problems",
+      "url": "https://open.spotify.com/track/61byc1wX7RoVn0m7qwO5PW"
+    },
+    {
+      "album": {
         "name": "I've Got to Use My Imagination",
         "url": "https://open.spotify.com/album/64ekAE6otxRFXCez5e5IeK"
       },
@@ -4104,7 +4162,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 151919,
       "name": "Last Time",
       "url": "https://open.spotify.com/track/5y0qdBH20kqP3xCWP2UmQt"
@@ -4162,6 +4220,24 @@
       "duration_ms": 184760,
       "name": "Livin' for the Ones",
       "url": "https://open.spotify.com/track/0OY3sKkXVVbp7foCuHPNZt"
+    },
+    {
+      "album": {
+        "name": "Livin' It Up Down In Texas",
+        "url": "https://open.spotify.com/album/36RkaLXpxXqJOgyoFARRCE"
+      },
+      "artists": [
+        {
+          "name": "Billy F Gibbons",
+          "url": "https://open.spotify.com/artist/69Iibc3uQ7x2vDeZxTwKCw"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285080,
+      "name": "Livin' It Up Down In Texas",
+      "url": "https://open.spotify.com/track/56fMChBQ4TlnX9E56WsyUT"
     },
     {
       "album": {
@@ -6762,7 +6838,7 @@
       ],
       "date_added": "2022-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 447487,
       "name": "The Question",
       "url": "https://open.spotify.com/track/358TP1XP2PYWXM0RsLwmlY"
@@ -7076,6 +7152,24 @@
       "duration_ms": 254776,
       "name": "Tough Mother",
       "url": "https://open.spotify.com/track/5UndMjrWyjazFcG9dNFDd6"
+    },
+    {
+      "album": {
+        "name": "Trouble Of That Girl",
+        "url": "https://open.spotify.com/album/002PpWEcvLyEwuSEgsqYq3"
+      },
+      "artists": [
+        {
+          "name": "Will Wilde",
+          "url": "https://open.spotify.com/artist/6fsn6olrgMI77G29E5B0OZ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201933,
+      "name": "Trouble Of That Girl",
+      "url": "https://open.spotify.com/track/0rQ5Eyy3SsOpYTUVGu7lsH"
     },
     {
       "album": {
@@ -7900,7 +7994,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 220066,
       "name": "Wild Man",
       "url": "https://open.spotify.com/track/4ZM8t3782vRWNlRZ2Fwlbh"

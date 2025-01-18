@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative en rock songs\. Cover: Wodan Boys
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,556 likes - 70 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,597 likes - 70 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,29 +27,29 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 17 | [Shelf Life](https://open.spotify.com/track/7Blvsx4HrrtmE11kEKOcyR) | [Global Charming](https://open.spotify.com/artist/06rvBGtJ7XW87FytQSiR7t) | [Shelf Life](https://open.spotify.com/album/2WBHjEcLqPX4scJhcdr1zj) | 2:33 |
 | 18 | [Mortal Wound](https://open.spotify.com/track/3wktXpE9T9jtIkyNQyUMBr) | [The Veils](https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5) | [Mortal Wound](https://open.spotify.com/album/0VoEuoEmDUKasGhdKngXLH) | 3:16 |
 | 19 | [Hell Dog](https://open.spotify.com/track/4ZbNVJFXu7rJ1BEEcomxuk) | [bwana](https://open.spotify.com/artist/36ObPHoO5D8bWQIPnZBlKL) | [Hell Dog](https://open.spotify.com/album/0T7pVKcvJZo1MUBX6aFXV4) | 3:49 |
-| 20 | [Meditations](https://open.spotify.com/track/2XaZcy1CBRqfEpvy4JuJLr) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Meditations](https://open.spotify.com/album/2BRSukoWknGgMermHbSVt6) | 3:04 |
-| 21 | [Heard It All Before](https://open.spotify.com/track/1BoolWaGYMDJMA0lggMWhs) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [Heard It All Before](https://open.spotify.com/album/2uwdpoayHJgYm0stP0BIZd) | 3:00 |
-| 22 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
-| 23 | [Start Again \- Edit](https://open.spotify.com/track/2CVNBC4eLDqmNcpWdyHbNw) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Start Again \(Edit\)](https://open.spotify.com/album/4pqZLcQU4TaT1rlFJkXcmS) | 4:13 |
-| 24 | [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 |
-| 25 | [Dynamite](https://open.spotify.com/track/4CfR79xn4JT6XH6gBwLtft) | [Dull Boy Johnny](https://open.spotify.com/artist/6R3zHNuwxcY427ahFNU2z0) | [Dynamite](https://open.spotify.com/album/2HlvO6zXXBpw8KeA8V8UDr) | 3:25 |
-| 26 | [Final Wave](https://open.spotify.com/track/1VyoNaNdirAEi7J5PAoC8J) | [Eelke](https://open.spotify.com/artist/0e0T8BLxbBdC4LjjS1urjO) | [Final Wave](https://open.spotify.com/album/2ts4A1dtMnCtrb3JnEA1YB) | 3:52 |
-| 27 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
-| 28 | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7) | 3:48 |
-| 29 | [dancing with ayesha](https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp) | 3:17 |
-| 30 | [In My Head](https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [In My Head](https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA) | 5:50 |
-| 31 | [Shirt](https://open.spotify.com/track/749fYL6VeBCQM1518NYrJ2) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Launch The Rocket](https://open.spotify.com/album/0uc3RRD7UYqSX0Pkk8SSY1) | 2:42 |
-| 32 | [All The Time](https://open.spotify.com/track/1chSIMG2RYnBeTlp2OS7Bx) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [All The Time](https://open.spotify.com/album/2LCHdPqBVEyUZCdgDSM6H4) | 3:09 |
-| 33 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 |
-| 34 | [I Want More](https://open.spotify.com/track/1fjB51r9GbTQDr35eCPrK9) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Karaoke Moon](https://open.spotify.com/album/4wKRrC9FONCHBMgzX5NM3x) | 3:09 |
-| 35 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 |
-| 36 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 |
-| 37 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
-| 38 | [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 |
-| 39 | [Never Said Goodbye](https://open.spotify.com/track/019IPf1J7LiN9yBUBp0f8d) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [A Modern Day Distraction](https://open.spotify.com/album/6mQQg0TOprhR2mCpMb5Kl2) | 3:38 |
-| 40 | [Baby, if it’s toxic](https://open.spotify.com/track/51lu9OVGbmv4ptXQjzDZ55) | [John Coffey](https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA) | [Punch the clock, smile and wave](https://open.spotify.com/album/12J3q62nNerYGgv1CZgw7I) | 2:42 |
-| 41 | [seventeen](https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [seventeen](https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY) | 3:39 |
-| 42 | [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 |
+| 20 | [Fig Tree](https://open.spotify.com/track/1brJfz0AAt0N9frwnN4z2y) | [Chloe Slater](https://open.spotify.com/artist/43R8Umt7qVmJCcOZGWJy24) | [Fig Tree](https://open.spotify.com/album/5QeWE7EQufnbmrf9d9dwRy) | 3:41 |
+| 21 | [Meditations](https://open.spotify.com/track/2XaZcy1CBRqfEpvy4JuJLr) | [Cold War Kids](https://open.spotify.com/artist/6VDdCwrBM4qQaGxoAyxyJC) | [Meditations](https://open.spotify.com/album/2BRSukoWknGgMermHbSVt6) | 3:04 |
+| 22 | [Heard It All Before](https://open.spotify.com/track/1BoolWaGYMDJMA0lggMWhs) | [Quentyn](https://open.spotify.com/artist/5bYML8xTIbwYZg5e3izzjl) | [Heard It All Before](https://open.spotify.com/album/2uwdpoayHJgYm0stP0BIZd) | 3:00 |
+| 23 | [Open Wide](https://open.spotify.com/track/2DLgG6rUpYjKMlE2lYvqbv) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/54oOwVLYNFlG1glBKiSrMk) | 4:48 |
+| 24 | [Start Again \- Edit](https://open.spotify.com/track/2CVNBC4eLDqmNcpWdyHbNw) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Start Again \(Edit\)](https://open.spotify.com/album/4pqZLcQU4TaT1rlFJkXcmS) | 4:13 |
+| 25 | [My Head Is Not My Friend](https://open.spotify.com/track/4acyLZpDVab9HdGN5FRxg2) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [My Head Is Not My Friend](https://open.spotify.com/album/5muWg2LBXgOJMHMrvkHQR8) | 3:56 |
+| 26 | [Dynamite](https://open.spotify.com/track/4CfR79xn4JT6XH6gBwLtft) | [Dull Boy Johnny](https://open.spotify.com/artist/6R3zHNuwxcY427ahFNU2z0) | [Dynamite](https://open.spotify.com/album/2HlvO6zXXBpw8KeA8V8UDr) | 3:25 |
+| 27 | [Final Wave](https://open.spotify.com/track/1VyoNaNdirAEi7J5PAoC8J) | [Eelke](https://open.spotify.com/artist/0e0T8BLxbBdC4LjjS1urjO) | [Final Wave](https://open.spotify.com/album/2ts4A1dtMnCtrb3JnEA1YB) | 3:52 |
+| 28 | [People Watching](https://open.spotify.com/track/3ZZyUf7WkhfN1JkQZZ00fI) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [People Watching](https://open.spotify.com/album/2Qg1mJJObwIAJiFHTQvl9E) | 5:11 |
+| 29 | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/track/4TxNMcYUWERQEiIKiCjEGY) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Southern Life \(What It Must Be Like\)](https://open.spotify.com/album/3MNnWYFEBWSo8bfbCwtkd7) | 3:48 |
+| 30 | [dancing with ayesha](https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8) | [piglet](https://open.spotify.com/artist/4AIvNjE7HJplcY1MxJplmP) | [for frank forever](https://open.spotify.com/album/3wM7kOhib76CeSfp7tkPlp) | 3:17 |
+| 31 | [In My Head](https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR) | [The Haunted Youth](https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod) | [In My Head](https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA) | 5:50 |
+| 32 | [Shirt](https://open.spotify.com/track/749fYL6VeBCQM1518NYrJ2) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Launch The Rocket](https://open.spotify.com/album/0uc3RRD7UYqSX0Pkk8SSY1) | 2:42 |
+| 33 | [All The Time](https://open.spotify.com/track/1chSIMG2RYnBeTlp2OS7Bx) | [Mood Bored](https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu) | [All The Time](https://open.spotify.com/album/2LCHdPqBVEyUZCdgDSM6H4) | 3:09 |
+| 34 | [she will be missed](https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [she will be missed](https://open.spotify.com/album/6zDT9GlanhBdw7XK83gVlL) | 2:33 |
+| 35 | [I Want More](https://open.spotify.com/track/1fjB51r9GbTQDr35eCPrK9) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Karaoke Moon](https://open.spotify.com/album/4wKRrC9FONCHBMgzX5NM3x) | 3:09 |
+| 36 | [Amsterdam](https://open.spotify.com/track/0rBUDQJtjbXt9DlB6vsfa2) | [total tommy](https://open.spotify.com/artist/2dbSR7CwWSGsMkuKVITKRc) | [Amsterdam](https://open.spotify.com/album/50DndhOZbqv4vg5i19FT8x) | 2:36 |
+| 37 | [Fake Nice](https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK) | [Beach Weather](https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD) | [Melt](https://open.spotify.com/album/20K5SdVLHQqzBepWDdIqVs) | 3:27 |
+| 38 | [Before It Might Be Gone](https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92) | [The Vices](https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj) | [Before It Might Be Gone](https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM) | 4:56 |
+| 39 | [IGNORED](https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN) | [Boko Yout](https://open.spotify.com/artist/4WRA6GylKtbbRMUugHQuxP) | [IGNORED](https://open.spotify.com/album/7wMWXPQrL1LSMm0SNMBL4n) | 2:46 |
+| 40 | [Never Said Goodbye](https://open.spotify.com/track/019IPf1J7LiN9yBUBp0f8d) | [Jake Bugg](https://open.spotify.com/artist/4hf3caW9H8uFwwbv5pFjcg) | [A Modern Day Distraction](https://open.spotify.com/album/6mQQg0TOprhR2mCpMb5Kl2) | 3:38 |
+| 41 | [Baby, if it’s toxic](https://open.spotify.com/track/51lu9OVGbmv4ptXQjzDZ55) | [John Coffey](https://open.spotify.com/artist/4kffVdSOMGP0BOiBXVgeyA) | [Punch the clock, smile and wave](https://open.spotify.com/album/12J3q62nNerYGgv1CZgw7I) | 2:42 |
+| 42 | [seventeen](https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [seventeen](https://open.spotify.com/album/1tzd5ftXur0C44WJA86auY) | 3:39 |
 | 43 | [Nom Nom Nom](https://open.spotify.com/track/6ERT8hKy0fBbTLebsjnDu5) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5), [Sleaford Mods](https://open.spotify.com/artist/0otAqZw8htTsGHfqR491Yh) | [Nom Nom Nom / Cat Burglar](https://open.spotify.com/album/2oENWJ9l4Kmde07NBC3Crx) | 3:30 |
 | 44 | [Until Now](https://open.spotify.com/track/3KzKmr4BqWTj4ipgJ75h8r) | [Eelke](https://open.spotify.com/artist/0e0T8BLxbBdC4LjjS1urjO) | [Until Now](https://open.spotify.com/album/54mtvRH7CUzuGS8T9DZB2y) | 5:47 |
 | 45 | [Shotgun](https://open.spotify.com/track/4i24juuTMLWjpJxx3MOMJZ) | [TAPE TOY](https://open.spotify.com/artist/6yhSdvAyoNm3RZSmy4Yzbw) | [Shotgun](https://open.spotify.com/album/3LNdFkC41vTw5uzgEq4AI7) | 2:44 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 69 | [Tokyo, 7AM](https://open.spotify.com/track/38771tUZONFbp1BeBfAFOA) | [Nagasaki Swim](https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T) | [Tokyo, 7AM](https://open.spotify.com/album/3erTisiSvxtAgwbgmSE5kn) | 3:56 |
 | 70 | [Yoyo Love](https://open.spotify.com/track/6Kim3K4szMCZWVYMwFWTm9) | [Tusky](https://open.spotify.com/artist/6XbZ8G0cFqSgUL4FmtiSPr) | [Yoyo Love](https://open.spotify.com/album/03ztxEW4dxiKtm9Qn0lW1z) | 1:27 |
 
-Snapshot ID: `Z4mPkQAAAACAErgK8Aky0G9fj19TVQo1`
+Snapshot ID: `Z4pG1wAAAACWfLoiIceN9EW2xvWT8o0I`

@@ -3097,6 +3097,28 @@
     },
     {
       "album": {
+        "name": "Disney Jr. Music: RoboGobo (From \"Disney Jr. Music: RoboGobo\")",
+        "url": "https://open.spotify.com/album/78OTjWwoe5yyeDtQtro6K9"
+      },
+      "artists": [
+        {
+          "name": "RoboGobo - Cast",
+          "url": "https://open.spotify.com/artist/1ARw009ppFc8CQki3PrB3h"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 49984,
+      "name": "RoboGobo Theme Song",
+      "url": "https://open.spotify.com/track/5gRwe0PmaDfGh8usFGTrGe"
+    },
+    {
+      "album": {
         "name": "The Lion Guard: Disney Junior Music",
         "url": "https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv"
       },

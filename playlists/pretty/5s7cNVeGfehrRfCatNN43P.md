@@ -4,24 +4,25 @@ pretty - [cumulative](/playlists/cumulative/5s7cNVeGfehrRfCatNN43P.md) - [plain]
 
 > Song Of The Week at the top\. Standouts go to <a href="https://open.spotify.com/playlist/0qZqvnSwqnQJy3DnEuPgCy">Big Hit Energy</a> and <a href="https://open.spotify.com/playlist/5sjfG5VAi8rT3Dj76cUWEv">2022% Solid Pop Music</a>\. More: <a href="http://popjustice.com">Popjustice.com</a>.
 
-[Popjustice](https://open.spotify.com/user/popjustice) - 10,856 likes - 15 songs - 43 min 54 sec
+[Popjustice](https://open.spotify.com/user/popjustice) - 10,858 likes - 16 songs - 47 min 25 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
-| 2 | [I'm a never forgive kinda girl](https://open.spotify.com/track/2ukT0tGixZxC0rYwsG9b3J) | [Banshee](https://open.spotify.com/artist/0DG7J8Q9Alnt65HJv6owzf) | [FABLES](https://open.spotify.com/album/6oHz1CC0PuNSGgRzAOZowX) | 2:05 |
-| 3 | [Ashes](https://open.spotify.com/track/334GuKwzVHyHHrG2DczgKd) | [Camden Cox](https://open.spotify.com/artist/5mNpMP01Co4vXZ3U0fWP3C) | [Ashes](https://open.spotify.com/album/3G60uWVJXhTJ90dCCh2xBB) | 3:06 |
-| 4 | [Heartless Places](https://open.spotify.com/track/2ybw47zNjbIppNnKHDyqyM) | [Kite](https://open.spotify.com/artist/0nhhoDCycjsJVHS8sk4vzW), [Nina Persson](https://open.spotify.com/artist/4nHhXbMpzESguKp9QHap0c) | [Heartless Places](https://open.spotify.com/album/1X9JeyfAGQr6hiUFlAMbW3) | 4:12 |
-| 5 | [When We Kiss](https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L) | 3:32 |
-| 6 | [Bang Bang](https://open.spotify.com/track/5nBB1YZErJ1tMKR4NM65vs) | [Tom Aspaul](https://open.spotify.com/artist/413Q41cUdyDSRGezXozb54) | [Bang Bang](https://open.spotify.com/album/4sFWg7BQJVAAGOIQxynAoC) | 3:17 |
-| 7 | [Hypnotized \(feat\. Ellie Goulding\)](https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [Hypnotized](https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J) | 3:00 |
-| 8 | [Hooked](https://open.spotify.com/track/1Jkx5qCagN2zEnrxkzyHiA) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Hooked](https://open.spotify.com/album/5npYv1LOFlFeqHOUCnDthQ) | 2:41 |
-| 9 | [Last Song \(feat\. Faouzia\)](https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Faouzia](https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo) | [Walkerworld 2.0](https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw) | 2:33 |
-| 10 | [Kom igjen](https://open.spotify.com/track/7DXjtXcnBjPs1m6F3IPzpD) | [Zupermaria](https://open.spotify.com/artist/5COfgHyIX1sSJv38S01Mz7) | [Det tørker i solen](https://open.spotify.com/album/4bAmcSnuU1fdl9qKCOYdEK) | 2:49 |
-| 11 | [training wheels](https://open.spotify.com/track/15JC7KI98dZxwWCfz1LiH7) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [training wheels](https://open.spotify.com/album/4fDKMftKwXRPw7LJwuEs9h) | 3:30 |
-| 12 | [Midnight Gloria](https://open.spotify.com/track/5jMuFt9y8emrkkEFJXevi4) | [KEiiNO](https://open.spotify.com/artist/0chh7dlaUzEreDTulHiOlm) | [Midnight Gloria](https://open.spotify.com/album/3gOp4X3kMW7yeudKAlwaae) | 2:56 |
-| 13 | [push pull](https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y) | [Olivia Lobato](https://open.spotify.com/artist/6ZvwUYAvbACmP7YTavyVV0) | [push pull](https://open.spotify.com/album/7LPVKOK3v4fbhfnJwLez8O) | 2:27 |
-| 14 | [Attachment Theory](https://open.spotify.com/track/0iYTLa5yW6BsexECkr2qzT) | [IDER](https://open.spotify.com/artist/2LOwKJMjuv7VsprtYaFzl0) | [Attachment Theory](https://open.spotify.com/album/2pfXsWVHFTMoruJpEDpBA8) | 2:48 |
-| 15 | [Another Life](https://open.spotify.com/track/5vSwn5J5QdE5g6FJm7gg9E) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Another Life](https://open.spotify.com/album/1FlZN9twq2MMzucN76UOU0) | 2:19 |
+| 1 | [Colder](https://open.spotify.com/track/3VrTveHXhlLGHtnSK1riuT) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Colder](https://open.spotify.com/album/18gH3dJGcBPiPnwmtRHNLV) | 2:56 |
+| 2 | [IKYK](https://open.spotify.com/track/1Dex4T6UbptuDqqdmMT7xw) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [for your validation](https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd) | 2:46 |
+| 3 | [Tectonic](https://open.spotify.com/track/6sNqy7jQPZeIquoajpf6rF) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:16 |
+| 4 | [Better Off Alone](https://open.spotify.com/track/6ey9Kaqrb9dy49hQxy6Eyk) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Better Off Alone](https://open.spotify.com/album/2YB65n9xMGybOrD90n7yPn) | 2:05 |
+| 5 | [What Are You Doing](https://open.spotify.com/track/0sMWCcykjctGdCPaGD5CpQ) | [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [What Are You Doing](https://open.spotify.com/album/3F8aJdmGNH18cpDUg6asVN) | 3:28 |
+| 6 | [Pavement](https://open.spotify.com/track/6gyMQzxbQTBnmj3PHeTN7s) | [Mallrat](https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A) | [Pavement](https://open.spotify.com/album/1PipIZujnpuoZDni4ePKKP) | 3:05 |
+| 7 | [Happy People](https://open.spotify.com/track/41wgHYaNAx7QAEaUvmpUBb) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [Happy People](https://open.spotify.com/album/7K84PEN3LOZvwIigoIbJpy) | 3:20 |
+| 8 | [Head Down](https://open.spotify.com/track/2UecHtdzMeHhpeMdSZZfgi) | [Cher Lloyd](https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k) | [Head Down](https://open.spotify.com/album/4roX3Fjw70mH8BnX9pir4V) | 2:55 |
+| 9 | [Sirens](https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn) | [Dotter](https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t) | [Sirens](https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110) | 2:52 |
+| 10 | [Good Morning London](https://open.spotify.com/track/2w7shmFU4nGJNVEeXGPi4C) | [Rae Morris](https://open.spotify.com/artist/67xyhWIvYQK5qr6b0gElst), [redridinghoodldn](https://open.spotify.com/artist/54eIhwHHRhMQubiPEiJsd1) | [Something Big, Something Bright](https://open.spotify.com/album/6k93gI0YDCLncwexPwG8jS) | 2:41 |
+| 11 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 |
+| 12 | [All My Love](https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR) | [Vella](https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH) | [All My Love](https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI) | 3:07 |
+| 13 | [Generation Love](https://open.spotify.com/track/4VN7zNElegROYZccUa4z4V) | [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [NewEra](https://open.spotify.com/artist/4QLa9DWZEpFrBhNG5UWXF1) | [Generation Love](https://open.spotify.com/album/7pHABdpFxeR8mbMfG20EPm) | 2:59 |
+| 14 | [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 |
+| 15 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 |
+| 16 | [Not Enough](https://open.spotify.com/track/0KjtkLC1AVfhTh1ftQTR6M) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Not Enough](https://open.spotify.com/album/7DagVBaeEcCmoZRnJ8cFtt) | 3:37 |
 
-Snapshot ID: `AAALF2cYnHzg5YySls65rVT0EzwdhML3`
+Snapshot ID: `AAALGZC03LubDQDGkyukRdRIDVkIgY40`

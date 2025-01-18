@@ -1,12 +1,12 @@
 {
   "description": "Rilisan mutakhir dari para musisi arus pinggir tanah air. Cover: Olski",
-  "num_followers": 30064,
+  "num_followers": 30079,
   "original_name": "Skena Gres",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3bGJAAAAACLx0dfO/Dd8nuLzkUBFH+K",
+  "snapshot_id": "Z4sWvgAAAABlp5udHlGBHFU0YlVcqiTY",
   "tracks": [
     {
       "added_at": "2025-01-02 17:00:20",
@@ -55,6 +55,26 @@
       "duration_ms": 160000,
       "name": "Fall II - Acoustic",
       "url": "https://open.spotify.com/track/5y3Lki39SW5WKF6PLbCsVp"
+    },
+    {
+      "added_at": "2025-01-18 02:49:34",
+      "album": {
+        "name": "Hilang Naluri",
+        "url": "https://open.spotify.com/album/4jWYBCnGcNIwCj2kX1adUr"
+      },
+      "artists": [
+        {
+          "name": "Neo Ketaren",
+          "url": "https://open.spotify.com/artist/3bkDbv5H0Dm88XmdlZlFqa"
+        },
+        {
+          "name": "Bilal Indrajaya",
+          "url": "https://open.spotify.com/artist/4OqbMdJwZnREH8Kc3pi0De"
+        }
+      ],
+      "duration_ms": 321777,
+      "name": "Hilang Naluri",
+      "url": "https://open.spotify.com/track/7v1tKoC0caE47BRf7HV0b9"
     },
     {
       "added_at": "2025-01-02 17:00:20",
@@ -883,22 +903,6 @@
       "duration_ms": 179939,
       "name": "Still Wanna See You",
       "url": "https://open.spotify.com/track/38eedo1dJbYTEPKNCcFFxl"
-    },
-    {
-      "added_at": "2025-01-02 17:00:20",
-      "album": {
-        "name": "The Bigfoot Trademark Logo",
-        "url": "https://open.spotify.com/album/2Th9GgqSdUCJFBgv5pI6Dn"
-      },
-      "artists": [
-        {
-          "name": "Bedchamber",
-          "url": "https://open.spotify.com/artist/2cWNrggFURoSaRS97IobZ0"
-        }
-      ],
-      "duration_ms": 172228,
-      "name": "The Bigfoot Trademark Logo",
-      "url": "https://open.spotify.com/track/1KSIC277cn81q0Kr4ylv7E"
     },
     {
       "added_at": "2025-01-02 17:00:20",

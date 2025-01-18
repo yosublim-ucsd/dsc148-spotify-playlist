@@ -4,7 +4,7 @@
 
 > La casa de lxs MC's\. Foto: Flor de Rap & Ana Tijoux.
 
-223 songs - 12 hr 43 min
+224 songs - 12 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -190,6 +190,7 @@
 | [So Low](https://open.spotify.com/track/2W70m6qKcamPY9L9ILjeHJ) | [Cidtronyck](https://open.spotify.com/artist/4CQCHM6ILHdfaJiIE4guaS), [Juli Giuliani](https://open.spotify.com/artist/0mR4SM8yYLz8v21xpGYgTC), [Terroritmo](https://open.spotify.com/artist/76a1mTRVALWUyzKp83TKSm) | [So Low](https://open.spotify.com/album/1QJUn9vrxwKZ91dXJZ72O9) | 3:31 | 2022-11-18 | 2024-04-19 |
 | [Soldiers](https://open.spotify.com/track/4AewmdlfU0o7v304BYvKgY) | [Gran Rah](https://open.spotify.com/artist/6JjrF0EnCW3Ylj9gj3FXWZ), [Negro Sambo](https://open.spotify.com/artist/44D02T0aBZrnN7GKfB3VUk), [DJ Acres](https://open.spotify.com/artist/6RhHQP5MQPD3waU29h43gZ) | [Soldiers](https://open.spotify.com/album/0T3D7SPDBwIwlajamDzicC) | 3:23 | 2022-01-06 |  |
 | [Soy Todo](https://open.spotify.com/track/57f2X9Am4tNzizcxVIcPy8) | [DJ TEE](https://open.spotify.com/artist/2IC0V3djtmB5IuI4LlaANd), [Movimiento Original](https://open.spotify.com/artist/50u2mXgysmTttY0BizYWAo) | [Soy Todo](https://open.spotify.com/album/2rOtemlRB9ZvBIkUAF88D8) | 4:21 | 2024-03-08 |  |
+| [Soñe Contigo](https://open.spotify.com/track/5uS4YgxuOWNBYZX69pBJKy) | [Melodico](https://open.spotify.com/artist/0S6XZyWww6AyEUfk62wRJg), [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu) | [Soñe Contigo](https://open.spotify.com/album/7BMCD36F741zbGy423AOA9) | 2:49 | 2025-01-17 |  |
 | [Story](https://open.spotify.com/track/2hykudPQVRbSMTDaf7XhKD) | [Metalingüística](https://open.spotify.com/artist/6jPnjdXijpUoqWR4YTWDo3) | [Story](https://open.spotify.com/album/2NXtGPAy7OeK4pn7n5nLNw) | 3:01 | 2022-01-06 | 2023-12-14 |
 | [Sudoku](https://open.spotify.com/track/5e3mAVouv5Pn2lhLxIhBUH) | [EnSecreto](https://open.spotify.com/artist/1wxZSwi9v3v9grm87HCqju), [Snuk Narinas](https://open.spotify.com/artist/0OypGHts88DjuhcNxJ9aMk) | [Sudoku](https://open.spotify.com/album/0jlkJNd7ag8NS81bHvWAkO) | 4:54 | 2024-08-16 |  |
 | [Suerte](https://open.spotify.com/track/7oZLCoxcIMZzBE9hEHCWR0) | [Zita Zoe](https://open.spotify.com/artist/5w3yQZC4IFbbGaOTTne3Nk), [Gonem Beats](https://open.spotify.com/artist/15dlqhwACW4PoQRIsSQUYJ), [Nef Talib](https://open.spotify.com/artist/432tb6qpPvFIC2Djm5FoRQ) | [Suerte](https://open.spotify.com/album/0Rllfr3QR8wKH1ZjJ4TtB6) | 2:25 | 2023-05-19 | 2024-06-15 |

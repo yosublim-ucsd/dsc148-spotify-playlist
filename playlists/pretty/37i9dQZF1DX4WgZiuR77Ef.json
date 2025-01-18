@@ -1,13 +1,33 @@
 {
   "description": "New funky songs with a classic funky sound. Cover: Lettuce",
-  "num_followers": 395431,
+  "num_followers": 395452,
   "original_name": "All Funked Up",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z0AP0AAAAAAfSuvc72RFz0/KQmXrM1SK",
+  "snapshot_id": "Z4nj7AAAAABDBS62b6W+4NVosbZHCgI8",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "Lady Liberty",
+        "url": "https://open.spotify.com/album/1v3PXMe2Avq9Rv5ysOqKW7"
+      },
+      "artists": [
+        {
+          "name": "Galactic",
+          "url": "https://open.spotify.com/artist/4rMUtWPGbE6waga7PQO0oQ"
+        },
+        {
+          "name": "Irma Thomas",
+          "url": "https://open.spotify.com/artist/01Z8Z9K54zewyP04ZfGLSv"
+        }
+      ],
+      "duration_ms": 198461,
+      "name": "Lady Liberty",
+      "url": "https://open.spotify.com/track/3QJPovU9VCUl2pD0pu0ULy"
+    },
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
@@ -1035,22 +1055,6 @@
       "duration_ms": 250263,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/7c674n0AaxjWQiYv3g0TBG"
-    },
-    {
-      "added_at": "2022-03-25 04:01:00",
-      "album": {
-        "name": "Wicked Karma",
-        "url": "https://open.spotify.com/album/2ezwjIl6DMeeK8LkPx7RjX"
-      },
-      "artists": [
-        {
-          "name": "Orgone",
-          "url": "https://open.spotify.com/artist/4WmMnGO1nLIsE85XwcBAZE"
-        }
-      ],
-      "duration_ms": 233013,
-      "name": "Wicked Karma",
-      "url": "https://open.spotify.com/track/41slG6esf3Qr3V5CJ8tB2Y"
     },
     {
       "added_at": "2022-03-18 05:00:00",

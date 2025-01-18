@@ -4,7 +4,7 @@
 
 > Explore Pakistan's thriving independent scene\. Discover more on <a href="https://open.spotify.com/playlist/37i9dQZF1DX30DGof92rQX?si=b3603f2de11c43a7">Pakistani Indie Rising</a>\. Cover: Aashir Wajahat
 
-319 songs - 18 hr 0 min
+321 songs - 18 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Love Song](https://open.spotify.com/track/1YmC6MzyctKlE5XGtXy5ow) | [Sameen Khawaja](https://open.spotify.com/artist/3N3IttjqDCutknUWWA1q9B), [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN) | [Love Song](https://open.spotify.com/album/4dIAYG2b0XxwlI9udFN8h8) | 3:03 | 2024-06-14 | 2024-08-17 |
 | [LOVER BOY ROMANCE \(feat\. Hasan Raheem & Natasha Noorani\)](https://open.spotify.com/track/28H1HZZmzRkIv8RURFycO2) | [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Natasha Noorani](https://open.spotify.com/artist/1nGL9DljVpkRcayU8Wi285) | [ROCKSTAR WITHOUT A GUITAR](https://open.spotify.com/album/1DayIaoubhlZ9kiX2mB9So) | 3:17 | 2024-04-26 |  |
 | [Lovesick](https://open.spotify.com/track/3Xvnh8wxRtnQUB9vGYhmUQ) | [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Lovesick](https://open.spotify.com/album/3GVx36db2WQ05MTg2eh8Q0) | 3:04 | 2021-12-06 | 2022-09-06 |
+| [LV \(Ja Re Ja\)](https://open.spotify.com/track/0E6bYWfPxfEEDKpSCDvRti) | [Taha G](https://open.spotify.com/artist/4sqyi6AnMdNtF5H0UD1Nv5) | [LV \(Ja Re Ja\)](https://open.spotify.com/album/6IOeC3lO07Jr4flPHV3VuW) | 3:07 | 2025-01-17 |  |
 | [Maand](https://open.spotify.com/track/2ZzZ2qwZBWlDKs420hhloc) | [Bayaan](https://open.spotify.com/artist/3atMq790wQ7IqjeSO0HFeP), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Rovalio](https://open.spotify.com/artist/01pFDtbY3k5uOmy0Pbg93C) | [Safar](https://open.spotify.com/album/3M8j6IwEcqDnf0V3y3ZI3C) | 3:05 | 2024-12-12 |  |
 | [MAHI // AVAY](https://open.spotify.com/track/4klMH7SD2ypbWvV8GxR452) | [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [MAHI // AVAY](https://open.spotify.com/album/2XK1wrUHOGxc1thUePW9w0) | 2:34 | 2024-01-12 |  |
 | [Mahi Ve](https://open.spotify.com/track/2gpa7p45wwh0QDNOQsorgL) | [Danny Zee](https://open.spotify.com/artist/70qZujn9S3knvDBUOJBYXP) | [Mahi Ve](https://open.spotify.com/album/34aSTfoU0Y48pSE51JjpWQ) | 2:53 | 2021-12-06 | 2023-02-13 |
@@ -282,6 +283,7 @@
 | [surface](https://open.spotify.com/track/47N7k0N1sw26qkG96czqwK) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [surface](https://open.spotify.com/album/014RAFqcrT4Si2Umd68yZy) | 3:56 | 2021-12-06 | 2023-04-09 |
 | [surface](https://open.spotify.com/track/4utOySNKfpxN8GcvTXbWdD) | [Abdullah Siddiqui](https://open.spotify.com/artist/3PbkSdpJnYRF18jau74b7R), [Talha Anjum](https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci) | [dead Beat poets: side B](https://open.spotify.com/album/1EfNAbUarTHSgZzqHYnXGE) | 3:56 | 2022-11-30 | 2024-05-18 |
 | [SWEETU](https://open.spotify.com/track/7HwkCWwndPqQXozRbGCKYd) | [Talal Qureshi](https://open.spotify.com/artist/0nES9rTgJJV7uJF2cIkJNS), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Maanu](https://open.spotify.com/artist/3scNK8e4mqnP6Rb8a3lwZY) | [SWEETU](https://open.spotify.com/album/0LZoenSRLZreaObBEOpQo7) | 3:10 | 2021-12-06 | 2023-01-11 |
+| [Taaray \(Dou Hi Khwaab\)](https://open.spotify.com/track/7aWPJjyTSFtPRBer2IB6j7) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Asfand](https://open.spotify.com/artist/5Dmma2b9AAtPyCfZ2tlTcX) | [Taaray \(Dou Hi Khwaab\)](https://open.spotify.com/album/2mtFb2UfeiQQLqgMpOlAQk) | 2:06 | 2025-01-17 |  |
 | [Taare](https://open.spotify.com/track/1CMiSJKIt6kgOtqxYnIphc) | [Shamoon Ismail](https://open.spotify.com/artist/5bxVbtf4t5k1QPmy0XDvgv) | [Taare](https://open.spotify.com/album/6dDLiPBIKvchs0BvZuZQqE) | 3:55 | 2022-11-30 | 2023-01-11 |
 | [Take Me Home](https://open.spotify.com/track/5AUv6RJO2JBJ2BFcu4ErCO) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [ChillBazaar](https://open.spotify.com/artist/2NAjKl5QHznzsMfHy6cGOJ) | [Take Me Home](https://open.spotify.com/album/4TqDP0UAdkvYEcy9OwWl6P) | 3:06 | 2022-09-14 | 2024-04-13 |
 | [Take Your Turn](https://open.spotify.com/track/1IPDQby1evDO1L3xEQId0d) | [Umair Ali](https://open.spotify.com/artist/7lMOrU8n2Q6m9j74CtTPBs), [Zoha Zuberi](https://open.spotify.com/artist/7q7OAPH7UHoaTYL4DXe1LK) | [Take Your Turn](https://open.spotify.com/album/2WZnTtOIz6YawtLj8E2AFN) | 4:16 | 2021-12-06 | 2022-11-03 |

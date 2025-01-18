@@ -2,9 +2,9 @@
 
 ### [adrenaline](https://open.spotify.com/playlist/37i9dQZF1DWTBN71pVn2Ej)
 
-> The shape of noise to come with OVERSIZE \(pictured\), Superheaven, Split Chain, Tarnish and more.
+> The shape of noise to come with Split Chain \(pictured\), Superheaven,  and more.
 
-765 songs - 1 day 19 hr 39 min
+768 songs - 1 day 19 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Chalk](https://open.spotify.com/track/4Cvpb8DicKbLSiftBmac99) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Chalk](https://open.spotify.com/album/5tN7YlTteG5wZV44sNx1r6) | 2:29 | 2023-10-20 | 2024-02-10 |
 | [Chameleon](https://open.spotify.com/track/0NMkKC8DoQE3Y0WVyoD4zx) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Chameleon](https://open.spotify.com/album/229Cw9aarzYARsI8AJrLBn) | 3:12 | 2024-10-25 | 2024-11-27 |
 | [Change](https://open.spotify.com/track/74t1hORTsuyF0V6566Y21M) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Not Just Yet](https://open.spotify.com/album/4IXs7xwoAWybrQiinwE0Hm) | 3:32 | 2024-07-26 | 2024-09-14 |
+| [charlie](https://open.spotify.com/track/2ao0oy1rwhQm0xnfSu1jgs) | [terraplana](https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU) | [charlie](https://open.spotify.com/album/3DIh2PH02J3GXasLGQPe8x) | 3:38 | 2025-01-17 |  |
 | [Charlie Bronson](https://open.spotify.com/track/7dZFOg2cJIz57li5yByDXK) | [Black Honey](https://open.spotify.com/artist/2oVmQT6s29pVIKpqJkyxBS) | [Charlie Bronson](https://open.spotify.com/album/4epVkITSRbajj8VlnOIWvN) | 3:24 | 2022-08-12 | 2022-10-22 |
 | [Chasing Highs](https://open.spotify.com/track/419Xf10sOGQlpOpPGPkRro) | [Luna Bay](https://open.spotify.com/artist/4GxGE6FCYDdHtcDzRL7TYh) | [Chasing Highs](https://open.spotify.com/album/1qW6kWWCHk5xKrzIbzaNav) | 3:10 | 2022-09-06 | 2023-04-15 |
 | [Chasms](https://open.spotify.com/track/1icQihnClFMeGQgKrSGehY) | [Black Map](https://open.spotify.com/artist/6rCmNHjnotXZpGxnCM7tkq) | [Chasms](https://open.spotify.com/album/6pAvsIwYWDB7iVTVGT4SYA) | 4:48 | 2021-12-16 | 2022-02-18 |
@@ -172,7 +173,7 @@
 | [Corners Peeling](https://open.spotify.com/track/4xsnwt1XXsIhlH71cbgto9) | [Horror My Friend](https://open.spotify.com/artist/0beSP3JKpM7CKshcYrNMyb) | [repaper](https://open.spotify.com/album/7iO6H6I4MdRY91NaA0GrOb) | 4:03 | 2022-12-02 | 2023-03-03 |
 | [Cottonmouth](https://open.spotify.com/track/2I1mqyexg7275tAoJWtjYm) | [False Heads](https://open.spotify.com/artist/2tZaXwpCHEhoVEBQuRI4vu) | [Sick Moon](https://open.spotify.com/album/0dOCttwqrzhoBngWnuwJCd) | 3:58 | 2022-09-30 | 2023-02-10 |
 | [Cough Up Cherries](https://open.spotify.com/track/4Xyid6RWXc6zvgE20hQ2A6) | [Kills Birds](https://open.spotify.com/artist/4osJY6pXMgA3LezSpLSbkN) | [Cough Up Cherries](https://open.spotify.com/album/7bIjrTiG0YVJBjOBIVp03N) | 2:56 | 2021-12-16 | 2022-01-07 |
-| [Counting Hours](https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Counting Hours](https://open.spotify.com/album/5ZwA69GCI9pw1qgrrtOkaM) | 2:41 | 2024-12-13 |  |
+| [Counting Hours](https://open.spotify.com/track/2ZVVk5AQkFVfdjNXeFRPNT) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [Counting Hours](https://open.spotify.com/album/5ZwA69GCI9pw1qgrrtOkaM) | 2:41 | 2024-12-13 | 2025-01-18 |
 | [Counting Sheep](https://open.spotify.com/track/60uyVKK6KRhYK6ceJEbdjN) | [Anxious](https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH) | [Counting Sheep](https://open.spotify.com/album/6SsMMHu3EjoHGLseSwMLyC) | 4:06 | 2024-10-18 | 2024-12-04 |
 | [Counting Sheep](https://open.spotify.com/track/7rF03kr20a9jpRUng7XU5f) | [Pure Pleasure](https://open.spotify.com/artist/0HQnl1hXiwKMgYFL4E2ajp) | [Pure Pleasure](https://open.spotify.com/album/5guM78A4Dt1cFGYYaQiswE) | 2:21 | 2024-10-14 | 2024-12-07 |
 | [Crawl II](https://open.spotify.com/track/30mJq8ujEDX7Y3pUus8PUb) | [Slow Joy](https://open.spotify.com/artist/5p119sPXEyp2exxbpInGqL) | [Crawl II](https://open.spotify.com/album/3CTvjgbFrgEiv8dSm05M6k) | 3:15 | 2023-03-10 | 2023-05-04 |
@@ -181,6 +182,7 @@
 | [Crumbling](https://open.spotify.com/track/0LrNlyjutQwOTcxjNThoYW) | [Sign Language](https://open.spotify.com/artist/3KdIx1AzUI5DQCazdl4yKg) | [Madison & Floral](https://open.spotify.com/album/5VKs9SQxgi4fxI0tpulrAp) | 3:13 | 2024-01-19 | 2024-06-08 |
 | [Crushing Me](https://open.spotify.com/track/5h8EGfF4j1az4GNCAgQBkF) | [Footballhead](https://open.spotify.com/artist/2nwoELT7b1GI21sww1pRwd) | [Before I Die](https://open.spotify.com/album/65v7rU2IHRuhmxnMqgjjQ1) | 2:29 | 2024-08-02 | 2024-10-29 |
 | [Csts](https://open.spotify.com/track/0fbQD0elsISeiHp5nvVyPo) | [The Joy Formidable](https://open.spotify.com/artist/4LdZNE5MHGqvc0N9ivXNF3) | [Into the Blue \(Deluxe\)](https://open.spotify.com/album/1EjDpSngm4sh4mn8Hta2pV) | 4:54 | 2022-09-22 | 2023-02-25 |
+| [Cut My Hair](https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08) | [Dear Seattle](https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S) | [TOY](https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52) | 3:04 | 2025-01-17 |  |
 | [D.I.A.D.](https://open.spotify.com/track/4V3dIL2F7vbyrRko2yMkF4) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [D.I.A.D.](https://open.spotify.com/album/0jWYNExqrkXCTjSe3zfyFy) | 2:57 | 2024-02-09 | 2024-06-22 |
 | [D.I.A.D.](https://open.spotify.com/track/5MCBzwshyfAoOC8t4Yg5TL) | [Shell](https://open.spotify.com/artist/6E4a8L0b9CkRW5B1Zf70wm) | [The Need to Separate](https://open.spotify.com/album/0gA6P28dwwf52W8fXjZRtD) | 2:57 | 2024-04-02 | 2024-04-19 |
 | [daddy of mine](https://open.spotify.com/track/07eIxhkUIXeg0ch11rqCBE) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [daddy of mine](https://open.spotify.com/album/7jqa2zm2jYb1pt9ry4pJtN) | 2:24 | 2024-04-12 | 2024-08-31 |
@@ -358,7 +360,7 @@
 | [Hypodermic Sunshine](https://open.spotify.com/track/6XSEyo3CebbQCnUW5TJqC5) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [Hypodermic Sunshine](https://open.spotify.com/album/6Gq2CGxhh8aEojqRgUbBfY) | 3:15 | 2023-08-31 | 2023-10-14 |
 | [I Don't Need a Rocket to Find My Own Space](https://open.spotify.com/track/0WeFSW2vxAJ94y0EXWcTkt) | [LostAlone](https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC) | [The Warring Twenties](https://open.spotify.com/album/4773GkUhoAhblhtYXxX9Sb) | 2:47 | 2022-09-30 | 2022-10-15 |
 | [I Don't Need a Rocket to Find My Own Space](https://open.spotify.com/track/6UmsvKbBFOkDOxlgVIU6XY) | [LostAlone](https://open.spotify.com/artist/0rAOPs8hf2bB7KECYDdaMC) | [The Warring Twenties](https://open.spotify.com/album/3Anw877vaJLBkPoCCxVXVR) | 2:47 | 2022-10-14 | 2022-10-29 |
-| [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 | 2024-10-21 |  |
+| [I Don't Wanna Be Me](https://open.spotify.com/track/5kdCJtVGsVdbB5mcGxX7pr) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I Don't Wanna Be Me](https://open.spotify.com/album/3sYNerGyactdioVkmUpMyZ) | 3:49 | 2024-10-21 | 2025-01-18 |
 | [I Don't Wanna Think About It Anymore](https://open.spotify.com/track/0pPwh0OAc7DR4E2mKyBUGh) | [MOY](https://open.spotify.com/artist/3Rc6Z7I5jrIAKiYnrlWb0s) | [I Don't Wanna Think About It Anymore](https://open.spotify.com/album/4zhxDBXV48RtNB0fdFNkKD) | 2:29 | 2023-08-21 | 2023-09-23 |
 | [i heard they found you face down inside your living room](https://open.spotify.com/track/0GBmIoWGlCsBghx7mOE0Ll) | [Can't Swim](https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU) | [i heard they found you face down inside your living room](https://open.spotify.com/album/69bjMy1M1LF1IeLraUUY5q) | 3:11 | 2022-10-28 | 2023-06-03 |
 | [I Let Go](https://open.spotify.com/track/6gJkGHGvqikDZbsQXUo2Id) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [I Let Go](https://open.spotify.com/album/4Ms87tkNkj8S76XBmabn5N) | 2:21 | 2023-02-02 | 2023-03-03 |
@@ -367,6 +369,7 @@
 | [I Should Never Have Been Here in the First Place](https://open.spotify.com/track/12bZU3tBQ9nYM7dQ4jXedL) | [Hell Is For Heroes](https://open.spotify.com/artist/1vrwXqSGdLsWtvIev4H0WH) | [I Should Never Have Been Here in the First Place](https://open.spotify.com/album/5EJYQKoXkL65TZOYWD6GQ4) | 3:38 | 2022-12-15 | 2023-02-10 |
 | [I Want To Be Invisible](https://open.spotify.com/track/2rGVvk7cUGv4uJxXk0xIaX) | [Glitterer](https://open.spotify.com/artist/2bTjArGDYivNxnYFH5jUcj) | [Rationale](https://open.spotify.com/album/653MF1FIBn8pYkgqsg4bxV) | 2:16 | 2024-03-08 | 2024-05-18 |
 | [I'm Feelin Alive](https://open.spotify.com/track/0ZdHUrfHYZpkmztomaDnIn) | [Webbed Wing](https://open.spotify.com/artist/5WtT8OzAjn0fJ6tondvHrI) | [I'm Feelin Alive](https://open.spotify.com/album/2O9h13JUQR9Rl9y3lSutU9) | 2:09 | 2022-09-30 | 2022-12-03 |
+| [I'm Not Dying To Be Here](https://open.spotify.com/track/3KtbuP205Bjvseg2oSIIdp) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I'm Not Dying To Be Here](https://open.spotify.com/album/38QYjYk8Th23g27sTaWvKn) | 3:24 | 2025-01-17 |  |
 | [i've got more than i need \(and i don’t have much\)](https://open.spotify.com/track/3kpuZSjSvebrST7m74ImZO) | [Sick Joy](https://open.spotify.com/artist/2KmAhNcPz1C3oz0rS4iMlx) | [i've got more than i need \(and i don’t have much\)](https://open.spotify.com/album/7MrpFQHsePcwjjWRfTsz8d) | 3:41 | 2022-03-10 | 2022-09-07 |
 | [I.W.G.F.U.](https://open.spotify.com/track/6nIsw8hm5Qwna1iwJYTwXc) | [Tigercub](https://open.spotify.com/artist/6ekYAO2D1JkI58CF4uRRqw) | [I.W.G.F.U.](https://open.spotify.com/album/2X8mrYWzbs724f3FEnSUEI) | 3:36 | 2021-12-16 | 2022-06-24 |
 | [Idealized](https://open.spotify.com/track/2UA3GdEpVd6TQE65gfDUUf) | [Gouge Away](https://open.spotify.com/artist/1Gi5tHYi0ptGG0G3tX9PkU) | [Deep Sage](https://open.spotify.com/album/1PdfdsdJ4Chyist5lhfXQ1) | 3:41 | 2024-07-08 | 2024-08-24 |
@@ -505,7 +508,7 @@
 | [OK](https://open.spotify.com/track/5Hq77IhQwXUjySpk2D12Wy) | [cleopatrick](https://open.spotify.com/artist/6VTvaLJ9arNmKi8e1ekOwW) | [OK](https://open.spotify.com/album/32oPNdyJ9msTqi8btivvPZ) | 3:53 | 2022-08-31 | 2022-11-05 |
 | [On Drugs](https://open.spotify.com/track/5m1ncM2CKxfxsJwlVpgZPf) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [That's Life](https://open.spotify.com/album/0dXzD6JFPdhBEX7q2Zq4NR) | 2:33 | 2023-03-17 | 2023-07-29 |
 | [On Show](https://open.spotify.com/track/0agGCcwt41TA8i6quuwhe7) | [Secret World](https://open.spotify.com/artist/7ls3CIjiumrnJ1pOfHKS6k) | [Guilt Is Good](https://open.spotify.com/album/7utWDQvMIaQ1Hc7tPrPY7T) | 3:19 | 2024-11-15 |  |
-| [ONE NATION](https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [ONE NATION](https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q) | 3:03 | 2024-11-01 |  |
+| [ONE NATION](https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [ONE NATION](https://open.spotify.com/album/5JJ4MejqGy8oAdPevTNi3Q) | 3:03 | 2024-11-01 | 2025-01-18 |
 | [One Of A Million](https://open.spotify.com/track/129EFIQ1KrSVCPPIg1XQnj) | [Softcult](https://open.spotify.com/artist/13pYXGtaLO9d06VrXX4Aw0) | [One Of A Million](https://open.spotify.com/album/2RyB5I5mCKX3dic2vxyjvG) | 3:36 | 2022-09-22 | 2022-10-22 |
 | [Only One](https://open.spotify.com/track/2ba9azFI83kqCDUwWudeww) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/0D1pDHXoeqeOdBmtzbnji3) | 3:21 | 2023-04-07 | 2023-04-15 |
 | [Only One](https://open.spotify.com/track/3IDxRzc2zzTc16pGEz90LA) | [LOSER](https://open.spotify.com/artist/28erIPSPyu1d4BtolxQ624) | [Stadium Dreams On A Bedroom Budget](https://open.spotify.com/album/5OmL7X45YNYmlN4JECxdi3) | 3:21 | 2023-01-13 | 2023-02-26 |

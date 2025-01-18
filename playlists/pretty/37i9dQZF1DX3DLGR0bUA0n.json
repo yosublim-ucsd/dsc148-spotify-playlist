@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 71314,
+  "num_followers": 71366,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 179146,
-      "name": "Soy Para Ti",
-      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
+      "duration_ms": 128333,
+      "name": "Morenita Labios Rojos",
+      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 128333,
-      "name": "Morenita Labios Rojos",
-      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
+      "duration_ms": 179146,
+      "name": "Soy Para Ti",
+      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Made in Michoacan",
-        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
+        "name": "La \u00daltima Vuelta",
+        "url": "https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj"
       },
       "artists": [
         {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 224840,
-      "name": "Mi Destino Fue Quererte",
-      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
+      "duration_ms": 175217,
+      "name": "Frente A Frente",
+      "url": "https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "La \u00daltima Vuelta",
-        "url": "https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj"
+        "name": "Made in Michoacan",
+        "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
       },
       "artists": [
         {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
         }
       ],
-      "duration_ms": 175217,
-      "name": "Frente A Frente",
-      "url": "https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0"
+      "duration_ms": 224840,
+      "name": "Mi Destino Fue Quererte",
+      "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1783,22 +1783,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Amores Con Mi Estilo",
-        "url": "https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4"
-      },
-      "artists": [
-        {
-          "name": "La Leyenda De Servando Montalva",
-          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
-        }
-      ],
-      "duration_ms": 182400,
-      "name": "Amores Con Mi Estilo",
-      "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Exitos en Vivo (En Vivo)",
         "url": "https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO"
       },
@@ -1811,6 +1795,22 @@
       "duration_ms": 102609,
       "name": "Carga Fina - En Vivo",
       "url": "https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Amores Con Mi Estilo",
+        "url": "https://open.spotify.com/album/63YNDwByneAd6pjTyC69n4"
+      },
+      "artists": [
+        {
+          "name": "La Leyenda De Servando Montalva",
+          "url": "https://open.spotify.com/artist/3Nm9w1hNH8quV9rzZ30hvn"
+        }
+      ],
+      "duration_ms": 182400,
+      "name": "Amores Con Mi Estilo",
+      "url": "https://open.spotify.com/track/1ud0AROpkyiy8ze2hfY7B2"
     },
     {
       "added_at": "2024-12-20 06:00:10",

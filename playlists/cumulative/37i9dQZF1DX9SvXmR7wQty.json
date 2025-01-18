@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Fredz",
+  "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Roy",
   "name": "Nouveaut\u00e9s francophones",
   "tracks": [
     {
@@ -1886,6 +1886,24 @@
       "duration_ms": 164737,
       "name": "Agent secret",
       "url": "https://open.spotify.com/track/30B10lRLJJkHttK73Ghyo5"
+    },
+    {
+      "album": {
+        "name": "Agneau",
+        "url": "https://open.spotify.com/album/6YV4xkNfAOm2H0ueFBdiyU"
+      },
+      "artists": [
+        {
+          "name": "Ariane Roy",
+          "url": "https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150976,
+      "name": "Agneau",
+      "url": "https://open.spotify.com/track/7Eh2AGrjQbOD4Lln006DmR"
     },
     {
       "album": {
@@ -10458,7 +10476,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 254696,
       "name": "Comme la mer",
       "url": "https://open.spotify.com/track/43OJDSAjDYdKthKMgwYVWS"
@@ -11064,6 +11082,24 @@
       "duration_ms": 239925,
       "name": "Corail",
       "url": "https://open.spotify.com/track/2KWBGKai14pB73DiW3IsR3"
+    },
+    {
+      "album": {
+        "name": "Corail",
+        "url": "https://open.spotify.com/album/55NhEOcVmjVT6gWcI18GFJ"
+      },
+      "artists": [
+        {
+          "name": "Simon Lachance",
+          "url": "https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200040,
+      "name": "Corail",
+      "url": "https://open.spotify.com/track/1zhvNd9Owc6MYk4TjV7wdm"
     },
     {
       "album": {
@@ -12604,7 +12640,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 152679,
       "name": "Dans ma bulle",
       "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
@@ -13208,7 +13244,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 192689,
       "name": "Dernier couch\u00e9",
       "url": "https://open.spotify.com/track/2YJeZSKysC2HlzvTBxk6Qk"
@@ -13988,7 +14024,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 226877,
       "name": "Dissonante",
       "url": "https://open.spotify.com/track/4VvxgagdlNN2K21oVrxDW8"
@@ -17590,7 +17626,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 152567,
       "name": "fantom",
       "url": "https://open.spotify.com/track/4nAZkPixAgvlplCv9IUOjK"
@@ -24786,7 +24822,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 132000,
       "name": "Je veux",
       "url": "https://open.spotify.com/track/24XaR7XVMPJQrxHFFOfwMS"
@@ -27164,7 +27200,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 189569,
       "name": "La famine",
       "url": "https://open.spotify.com/track/2miptNhVu6KAZk5aaSUB3Y"
@@ -27552,6 +27588,24 @@
       "duration_ms": 142868,
       "name": "La Masia",
       "url": "https://open.spotify.com/track/2jnRmXdb2b9hPMdT1vWS33"
+    },
+    {
+      "album": {
+        "name": "Si l'essentiel c'est d'\u00eatre aim\u00e9 / La mauvaise question",
+        "url": "https://open.spotify.com/album/7vaSzxNrZe41hcNtz472qu"
+      },
+      "artists": [
+        {
+          "name": "St\u00e9phanie Boulay",
+          "url": "https://open.spotify.com/artist/2UQJENeogEzZALCbh7dQj0"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229173,
+      "name": "La mauvaise question",
+      "url": "https://open.spotify.com/track/6KYNFAa4z1GJYnAkDf9Gyw"
     },
     {
       "album": {
@@ -30157,6 +30211,24 @@
     },
     {
       "album": {
+        "name": "Le th\u00e9 est pr\u00eat",
+        "url": "https://open.spotify.com/album/5Pd99vuVYdne7PCZFIBvsh"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286675,
+      "name": "Le th\u00e9 est pr\u00eat",
+      "url": "https://open.spotify.com/track/1AiWcCcG0JjyfryFPPOIX3"
+    },
+    {
+      "album": {
         "name": "Le tour du bloc",
         "url": "https://open.spotify.com/album/0944SjjcsfLwaIjyMqbW16"
       },
@@ -31728,7 +31800,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 187798,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/6yt3AzDztr6MDqIZSYsqlM"
@@ -32102,6 +32174,28 @@
       "duration_ms": 121333,
       "name": "Longue Vie",
       "url": "https://open.spotify.com/track/4YJsPEuHqSk7UVG4uOpbYg"
+    },
+    {
+      "album": {
+        "name": "Look at me now",
+        "url": "https://open.spotify.com/album/1d7MGEbQ8eJOiMi9xBXUWh"
+      },
+      "artists": [
+        {
+          "name": "Caballero & JeanJass",
+          "url": "https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6"
+        },
+        {
+          "name": "Enima",
+          "url": "https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Look at me now",
+      "url": "https://open.spotify.com/track/0ERZkZtxcQu9yhGb5L4Zom"
     },
     {
       "album": {
@@ -33206,7 +33300,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 157616,
       "name": "Madeleine de Proust",
       "url": "https://open.spotify.com/track/30w2EoOuuLej0QhiPmWIOd"
@@ -33536,6 +33630,24 @@
       "duration_ms": 176169,
       "name": "Mal Lun\u00e9",
       "url": "https://open.spotify.com/track/13BEk2ZVdI8utzRXJFsc14"
+    },
+    {
+      "album": {
+        "name": "Mal lun\u00e9e",
+        "url": "https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI"
+      },
+      "artists": [
+        {
+          "name": "Nej",
+          "url": "https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194720,
+      "name": "Mal lun\u00e9e",
+      "url": "https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1"
     },
     {
       "album": {
@@ -37470,7 +37582,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 194311,
       "name": "NO LIMIT",
       "url": "https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2"
@@ -40852,7 +40964,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 174000,
       "name": "PDV",
       "url": "https://open.spotify.com/track/0CffaZP3BTRTlV9UZvDaor"
@@ -41648,6 +41760,24 @@
       "duration_ms": 251680,
       "name": "Pinceau au tombeau",
       "url": "https://open.spotify.com/track/1JHxLQcPTc833dUUqBZMbf"
+    },
+    {
+      "album": {
+        "name": "Pink Sh!t",
+        "url": "https://open.spotify.com/album/0OZc0klySsvKeGWjlqDiDe"
+      },
+      "artists": [
+        {
+          "name": "Lostboy Carlos",
+          "url": "https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144807,
+      "name": "Pink Sh!t",
+      "url": "https://open.spotify.com/track/0KCBDYjTojNCYIsMakWkQz"
     },
     {
       "album": {
@@ -43420,6 +43550,24 @@
       "duration_ms": 165789,
       "name": "Pris au pi\u00e8ge",
       "url": "https://open.spotify.com/track/1GbWu2NwYqEkOaztYMaYTa"
+    },
+    {
+      "album": {
+        "name": "Pris mes jambes \u00e0 mon cou",
+        "url": "https://open.spotify.com/album/6L5fUrhOffxBgXJc7Y3IqE"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9onie Gray",
+          "url": "https://open.spotify.com/artist/1kt4PKJ7KueinsGBtDdf7b"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168804,
+      "name": "Pris mes jambes \u00e0 mon cou",
+      "url": "https://open.spotify.com/track/5eOVmRGm4DERbVGt5Gxy0k"
     },
     {
       "album": {
@@ -46115,6 +46263,24 @@
     },
     {
       "album": {
+        "name": "Synesth\u00e9sies (Deluxe)",
+        "url": "https://open.spotify.com/album/6uGZAOKcVq2L31NFvroIBZ"
+      },
+      "artists": [
+        {
+          "name": "Sora\u00ef",
+          "url": "https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137896,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/7yYx3sq84YgiDTlyuCY8Il"
+    },
+    {
+      "album": {
         "name": "Rouge Cardinal",
         "url": "https://open.spotify.com/album/0FimdtrBFjUUZRNpwR2qV8"
       },
@@ -46470,7 +46636,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 180000,
       "name": "R\u00e9seau",
       "url": "https://open.spotify.com/track/3tQQqlX436aDst7fMfpgFC"
@@ -51796,7 +51962,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 216483,
       "name": "Tenir debout",
       "url": "https://open.spotify.com/track/6VQpsaB8qzXS40QK9NvD3z"
@@ -52272,6 +52438,24 @@
       "duration_ms": 228809,
       "name": "Tintagel",
       "url": "https://open.spotify.com/track/3erdL9LpuvDMfXugy2rHLc"
+    },
+    {
+      "album": {
+        "name": "TIP TOP",
+        "url": "https://open.spotify.com/album/5soRd7eV4e92LhHwYpoEZe"
+      },
+      "artists": [
+        {
+          "name": "Super Plage",
+          "url": "https://open.spotify.com/artist/4dOjpPwKB3QG5uh3lLvIM3"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "TIP TOP",
+      "url": "https://open.spotify.com/track/4O4Dfq2pIqOlB3E3INkfwC"
     },
     {
       "album": {
@@ -52868,7 +53052,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-24",
+      "date_removed": null,
       "duration_ms": 151973,
       "name": "Tour du Monde",
       "url": "https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS"
@@ -54480,7 +54664,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 231213,
       "name": "Tu vas me quitter encore longtemps ?",
       "url": "https://open.spotify.com/track/0tSzDK6w5n2t5gU8f7pohh"
@@ -59066,7 +59250,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 183960,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"

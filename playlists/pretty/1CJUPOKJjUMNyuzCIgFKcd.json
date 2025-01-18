@@ -1,12 +1,12 @@
 {
   "description": "The freshest Hip Hop and R&amp;B. ",
-  "num_followers": 23792,
+  "num_followers": 23794,
   "original_name": "Fresh Out",
   "owner": {
     "name": "EMPIRE",
     "url": "https://open.spotify.com/user/empiredistribution"
   },
-  "snapshot_id": "AAAl2FzlW8NAQT6Z9SSko5sja8NpLr9W",
+  "snapshot_id": "AAAl5vbrUhG+R5r9bffoxc+POsyjEhzI",
   "tracks": [
     {
       "added_at": "2024-12-13 23:19:22",
@@ -23,6 +23,58 @@
       "duration_ms": 200393,
       "name": "RIO FREE",
       "url": "https://open.spotify.com/track/1H3BKRHPHblRSbEm5HSPfU"
+    },
+    {
+      "added_at": "2025-01-17 23:10:20",
+      "album": {
+        "name": "inthej",
+        "url": "https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "duration_ms": 109727,
+      "name": "inthej",
+      "url": "https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx"
+    },
+    {
+      "added_at": "2025-01-17 23:10:31",
+      "album": {
+        "name": "Jan 14th",
+        "url": "https://open.spotify.com/album/19cwtBmyKmLFcmrJJEraNT"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "duration_ms": 103076,
+      "name": "Jan 14th",
+      "url": "https://open.spotify.com/track/7oYc3OXMLhxzJLmCCbdL5V"
+    },
+    {
+      "added_at": "2025-01-17 23:11:48",
+      "album": {
+        "name": "F.T.A. (Failure to Appear)",
+        "url": "https://open.spotify.com/album/6gX5QsRAK8vIJg0qgETdBv"
+      },
+      "artists": [
+        {
+          "name": "Morray",
+          "url": "https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd"
+        }
+      ],
+      "duration_ms": 163071,
+      "name": "F.T.A. (Failure to Appear)",
+      "url": "https://open.spotify.com/track/6jUFguYMExWxzoHMXmZz1o"
     },
     {
       "added_at": "2024-12-09 19:29:28",
@@ -47,6 +99,74 @@
       "duration_ms": 146470,
       "name": "BBL (feat. Rob49)",
       "url": "https://open.spotify.com/track/6RKaL2SJRb7OPDhApNa2Bc"
+    },
+    {
+      "added_at": "2025-01-17 23:10:48",
+      "album": {
+        "name": "Bread",
+        "url": "https://open.spotify.com/album/5alFxffK5IBHhrDM69yrqr"
+      },
+      "artists": [
+        {
+          "name": "OnPointLikeOP",
+          "url": "https://open.spotify.com/artist/0dTnryd4adS8rjtGva7z1v"
+        },
+        {
+          "name": "Sheff G",
+          "url": "https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm"
+        }
+      ],
+      "duration_ms": 153103,
+      "name": "Bread",
+      "url": "https://open.spotify.com/track/5pmPXqsgYiI3OJiatlQM2F"
+    },
+    {
+      "added_at": "2025-01-17 23:11:06",
+      "album": {
+        "name": "TANK GIRL",
+        "url": "https://open.spotify.com/album/1GVQRZxJSqe6v66YFErdhR"
+      },
+      "artists": [
+        {
+          "name": "Pouya",
+          "url": "https://open.spotify.com/artist/4nXOZlYoAD67hF9aUEncMY"
+        }
+      ],
+      "duration_ms": 124517,
+      "name": "TANK GIRL",
+      "url": "https://open.spotify.com/track/1BbDwdorboNVFecXqpl6Kb"
+    },
+    {
+      "added_at": "2025-01-17 23:12:13",
+      "album": {
+        "name": "BATTLEFIELD",
+        "url": "https://open.spotify.com/album/0GDcp4HLrumgvmvkEQjRvZ"
+      },
+      "artists": [
+        {
+          "name": "DUSTY LOCANE",
+          "url": "https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L"
+        }
+      ],
+      "duration_ms": 121624,
+      "name": "BATTLEFIELD",
+      "url": "https://open.spotify.com/track/2kQ1hGBfzveNrUZ94K50Yk"
+    },
+    {
+      "added_at": "2025-01-17 23:12:23",
+      "album": {
+        "name": "Kai Cenat",
+        "url": "https://open.spotify.com/album/30I326J1Rg65eMlDoKAtYT"
+      },
+      "artists": [
+        {
+          "name": "Kardashhh",
+          "url": "https://open.spotify.com/artist/6tI6IK5AHHkUYOZ53VWgFb"
+        }
+      ],
+      "duration_ms": 141696,
+      "name": "Kai Cenat",
+      "url": "https://open.spotify.com/track/5Rd14I96gYQcBayiR799qw"
     },
     {
       "added_at": "2024-12-09 19:29:22",

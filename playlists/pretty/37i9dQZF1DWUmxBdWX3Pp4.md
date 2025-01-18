@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 
 > Éxitos del trap latino con Arcangel.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,108,089 likes - 100 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,108,159 likes - 100 songs - 5 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 12 | [Ruleta](https://open.spotify.com/track/3Vv3mvIbY45MFMowOz4odr) | [KEVVO](https://open.spotify.com/artist/4QrBoWLm2WNlPdbFhmlaUZ) | [Ruleta](https://open.spotify.com/album/7bdRqdbiJLfOo7sfCDNZY0) | 2:21 |
 | 13 | [Heavyweight Pt\. 2 \(feat\. Pablo Chill\-E\)](https://open.spotify.com/track/6RpnLc5Z6fvceMcRcRSn72) | [Gloosito](https://open.spotify.com/artist/1MXug5KOetEEQjjvCPWwIm), [Pablo Chill\-E](https://open.spotify.com/artist/2XcZshqzPKm3iZcmt73R8D) | [Heavyweight Pt\. 2 \(feat\. Pablo Chill\-E\)](https://open.spotify.com/album/7ucHFWkHT4HSI14Ht0wz4X) | 2:04 |
 | 14 | [PACTO](https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PACTO](https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj) | 3:31 |
-| 15 | [Wake Up & Bake Up](https://open.spotify.com/track/7MBHncxZXB7fzf5cAx8C05) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:26 |
-| 16 | [SHEITE](https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [SHEITE](https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP) | 2:11 |
-| 17 | [Malita](https://open.spotify.com/track/0IAb8F6BICec5ltSCD8IDr) | [Dehry](https://open.spotify.com/artist/4LgrJOeMIq6iXZIPK3PczA), [Yaisel LM](https://open.spotify.com/artist/2PxnKk0fTNgMzm5pY6tINL) | [Malita](https://open.spotify.com/album/0L6aD75LxDrUUopgeVO8mZ) | 3:20 |
+| 15 | [ACEITE DE COCO \(feat\. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.\)](https://open.spotify.com/track/0hzO3OqNIPCwRKxvwBdtjS) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [ACEITE DE COCO \(feat\. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.\)](https://open.spotify.com/album/7K7gpv5RyKPE8hJK8HEXRV) | 6:41 |
+| 16 | [Wake Up & Bake Up](https://open.spotify.com/track/7MBHncxZXB7fzf5cAx8C05) | [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [AMERI](https://open.spotify.com/album/3rVk419T7ct4qoW52h2q2d) | 3:26 |
+| 17 | [SHEITE](https://open.spotify.com/track/3jdfbWA1JSqKgsASdZG1uC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [SHEITE](https://open.spotify.com/album/5Wzz3KhZ1OxupxCpwdtJIP) | 2:11 |
 | 18 | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \- Remix](https://open.spotify.com/track/3GD6eImRvT0zgr8cQnokUq) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3), [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV) | [BESAME \(feat\. Tiago PZK, Khea & Neo Pistea\) \[Remix\]](https://open.spotify.com/album/6rkhVb5zrsbR24Rpno9kHq) | 4:44 |
 | 19 | [Quickie](https://open.spotify.com/track/1KBVkz8PGjKlMwqCmuKSGN) | [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP) | [Quickie](https://open.spotify.com/album/3AKEIh80EKaMB0rswBiDU1) | 2:03 |
 | 20 | [Peines de 30](https://open.spotify.com/track/4iCSAjVvdkEpg0GoIYmrLa) | [ZARAMAY](https://open.spotify.com/artist/3wsYquQ9CiMlYG54BUR2ff), [Yung Beef](https://open.spotify.com/artist/1rTUwYS38LkQTlT2fhikch) | [Peines de 30](https://open.spotify.com/album/5UakqvT8uVtF9DENseHm4f) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUmxBdWX3Pp4.md) - [plain]
 | 99 | [Hoy \(feat\. Bad Bunny\)](https://open.spotify.com/track/1BssJgelMGDNOeIy7ZqgOW) | [Ñengo Flow](https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Real G4 Life Vol\. 3](https://open.spotify.com/album/4fIyZEKAUwrH6o4rWrdmT0) | 3:54 |
 | 100 | [FINA](https://open.spotify.com/track/3nNmRE0DxHC6ZaKkrpUumS) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 3:36 |
 
-Snapshot ID: `Z4CNSAAAAABZtdZ6RaWeYSVx7vdHupPW`
+Snapshot ID: `Z4nHtgAAAAA+AquMdeTFeNfsMXPdMmnX`

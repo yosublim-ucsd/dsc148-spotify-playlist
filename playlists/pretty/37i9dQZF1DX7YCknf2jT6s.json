@@ -1,13 +1,81 @@
 {
-  "description": "New jazz for open minds. Cover: ARTEMIS",
-  "num_followers": 944567,
+  "description": "New jazz for open minds. Cover: Butcher Brown",
+  "num_followers": 944661,
   "original_name": "State of Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpYQAAAABBvmAL0SwdEeOFUXtV9uVf",
+  "snapshot_id": "Z4nj7gAAAAC2w6FKAppaWStjpj//jX/s",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/2S8dRCPQLDWoRyfslTLivw"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "duration_ms": 256911,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "The 23",
+        "url": "https://open.spotify.com/album/4Va3hMfsSeiTGMqI3hMYYT"
+      },
+      "artists": [
+        {
+          "name": "Nels Cline",
+          "url": "https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp"
+        }
+      ],
+      "duration_ms": 315029,
+      "name": "The 23",
+      "url": "https://open.spotify.com/track/1mfF56nahvXEtBEOxAsxRo"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Last Train From Overbrook",
+        "url": "https://open.spotify.com/album/01lYkrKIr5DDtVeEkCnjvc"
+      },
+      "artists": [
+        {
+          "name": "Nick Hempton",
+          "url": "https://open.spotify.com/artist/0Pwn4BeFcbZYgApft1pPk7"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "duration_ms": 335390,
+      "name": "Last Train From Overbrook",
+      "url": "https://open.spotify.com/track/22v2NkeJpyTSAheUaTy1g7"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Wild and Steady",
+        "url": "https://open.spotify.com/album/2vcPFnOKUrwhJQKoo4p7C3"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "Wild and Steady",
+      "url": "https://open.spotify.com/track/4y5w91db336cCz1AwPCNna"
+    },
     {
       "added_at": "2025-01-10 05:00:17",
       "album": {
@@ -25,26 +93,10 @@
       "url": "https://open.spotify.com/track/6HNo6vEDnSxCVOwxXCRTMn"
     },
     {
-      "added_at": "2025-01-10 05:00:17",
+      "added_at": "2025-01-17 05:00:30",
       "album": {
-        "name": "Fair Weather",
-        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Pelt",
-          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
-        }
-      ],
-      "duration_ms": 284493,
-      "name": "Fair Weather",
-      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
-    },
-    {
-      "added_at": "2025-01-10 05:00:17",
-      "album": {
-        "name": "Step Ahead",
-        "url": "https://open.spotify.com/album/1Hm5RnZ6Fb1PKNPWscezsD"
+        "name": "Merry Dancers",
+        "url": "https://open.spotify.com/album/3Ae8U6JFzeLAdcXPFx1sSB"
       },
       "artists": [
         {
@@ -60,9 +112,145 @@
           "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
         }
       ],
-      "duration_ms": 398369,
-      "name": "Step Ahead",
-      "url": "https://open.spotify.com/track/4kx5HMY4HZ3YYe2x9XZU5h"
+      "duration_ms": 218106,
+      "name": "Merry Dancers",
+      "url": "https://open.spotify.com/track/10czY3myrN2qp1ymTRjZUM"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Southwood",
+        "url": "https://open.spotify.com/album/0cdAJ8EByPMuMcg8f7xlSb"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "duration_ms": 98000,
+      "name": "Southwood",
+      "url": "https://open.spotify.com/track/1vlR2uBjK3TUM8rcU7F43Z"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/3LXKWerzEPTDudnUuRvdAP"
+      },
+      "artists": [
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "duration_ms": 104027,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/0n2zCTohMb9QORwBk9DmfF"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/0hA5fwpqTpzxfz6xuMyulX"
+      },
+      "artists": [
+        {
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
+        }
+      ],
+      "duration_ms": 321080,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/6kCSXxieGoLrJGhEocItph"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        }
+      ],
+      "duration_ms": 367966,
+      "name": "Zatto",
+      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Pickles",
+        "url": "https://open.spotify.com/album/1NvyuHEzs3A7dOiP4zm2iQ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Roussel",
+          "url": "https://open.spotify.com/artist/4ZHBxjFO23C2Y2smCt67dG"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "duration_ms": 282562,
+      "name": "Pickles",
+      "url": "https://open.spotify.com/track/4ZylM8818hpzl7Y1ilOJU2"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Uno Punto Uno",
+        "url": "https://open.spotify.com/album/3lQtvxUDtIq73cDM5r3fuE"
+      },
+      "artists": [
+        {
+          "name": "Women In Jazz",
+          "url": "https://open.spotify.com/artist/4gnERVMow3Hd7meSbQ9joi"
+        },
+        {
+          "name": "Rosa Brunello",
+          "url": "https://open.spotify.com/artist/4n5W1O77gHcR2xdTysvsHI"
+        }
+      ],
+      "duration_ms": 272810,
+      "name": "Uno Punto Uno",
+      "url": "https://open.spotify.com/track/4kqAWPVIDUzKvP4594U3hE"
+    },
+    {
+      "added_at": "2025-01-17 05:00:30",
+      "album": {
+        "name": "Prince Eugene",
+        "url": "https://open.spotify.com/album/5XCc1gzDzxQLN9DPPyRUXq"
+      },
+      "artists": [
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "duration_ms": 292333,
+      "name": "Prince Eugene",
+      "url": "https://open.spotify.com/track/3WU50cuEjla6zCEeLxA5zl"
+    },
+    {
+      "added_at": "2025-01-10 05:00:17",
+      "album": {
+        "name": "Fair Weather",
+        "url": "https://open.spotify.com/album/0WElMAVB4r6VX75zorqBcd"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Pelt",
+          "url": "https://open.spotify.com/artist/0ie9W9nN4iPymAkS9WW8nX"
+        }
+      ],
+      "duration_ms": 284493,
+      "name": "Fair Weather",
+      "url": "https://open.spotify.com/track/1dgCELvPBCSpPGYNNNNU9q"
     },
     {
       "added_at": "2025-01-10 05:00:17",
@@ -101,6 +289,22 @@
       "url": "https://open.spotify.com/track/0beW1iW83NfopXu2bc0bQM"
     },
     {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "La Tijera",
+        "url": "https://open.spotify.com/album/1L1JAUSpOepPg6EWoPXd6A"
+      },
+      "artists": [
+        {
+          "name": "LA LOM",
+          "url": "https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ"
+        }
+      ],
+      "duration_ms": 224915,
+      "name": "La Tijera",
+      "url": "https://open.spotify.com/track/7LLdhEEpwgOLdNz737nhYS"
+    },
+    {
       "added_at": "2024-12-13 05:00:04",
       "album": {
         "name": "Motion I",
@@ -135,26 +339,6 @@
       "duration_ms": 467920,
       "name": "Ofafrii",
       "url": "https://open.spotify.com/track/2FpbV6zmzihAGz5JepkYoX"
-    },
-    {
-      "added_at": "2024-12-13 05:00:04",
-      "album": {
-        "name": "Soy Califa",
-        "url": "https://open.spotify.com/album/7cy9BMX1lz1kCXz5qXGzcf"
-      },
-      "artists": [
-        {
-          "name": "Nick Hempton",
-          "url": "https://open.spotify.com/artist/0Pwn4BeFcbZYgApft1pPk7"
-        },
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        }
-      ],
-      "duration_ms": 392664,
-      "name": "Soy Califa",
-      "url": "https://open.spotify.com/track/1UZEgyxN7O00QlLXb3vMLx"
     },
     {
       "added_at": "2024-12-13 05:00:04",
@@ -215,22 +399,6 @@
       "duration_ms": 466480,
       "name": "To The Moon (feat. Andr\u00e9 3000)",
       "url": "https://open.spotify.com/track/3ixFx7kbMdBVSeMqfYagJN"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "La Tijera",
-        "url": "https://open.spotify.com/album/1L1JAUSpOepPg6EWoPXd6A"
-      },
-      "artists": [
-        {
-          "name": "LA LOM",
-          "url": "https://open.spotify.com/artist/01sY3iLJZtSBa0BIbcpddJ"
-        }
-      ],
-      "duration_ms": 224915,
-      "name": "La Tijera",
-      "url": "https://open.spotify.com/track/7LLdhEEpwgOLdNz737nhYS"
     },
     {
       "added_at": "2024-11-25 14:00:27",
@@ -387,26 +555,6 @@
       "duration_ms": 77205,
       "name": "Echo Sax End",
       "url": "https://open.spotify.com/track/0wd3OKU2d2KW7QxAjCpkye"
-    },
-    {
-      "added_at": "2024-11-08 05:00:00",
-      "album": {
-        "name": "Montrose Forest featuring Nicholas Payton",
-        "url": "https://open.spotify.com/album/712rPLxjRtWqRjLgKOlMp8"
-      },
-      "artists": [
-        {
-          "name": "Butcher Brown",
-          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
-        },
-        {
-          "name": "Nicholas Payton",
-          "url": "https://open.spotify.com/artist/3cwVFmQ6mcUoGR6ZvIPuZ4"
-        }
-      ],
-      "duration_ms": 244048,
-      "name": "Montrose Forest featuring Nicholas Payton",
-      "url": "https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN"
     },
     {
       "added_at": "2023-09-22 04:00:00",
@@ -1097,22 +1245,6 @@
       "url": "https://open.spotify.com/track/4HihX0g2heU1QUxJhhk6Xz"
     },
     {
-      "added_at": "2024-09-27 04:00:00",
-      "album": {
-        "name": "Valencia",
-        "url": "https://open.spotify.com/album/0lxIxueK2Lsq8nrFAYpK0k"
-      },
-      "artists": [
-        {
-          "name": "Mike Casey",
-          "url": "https://open.spotify.com/artist/33KVH120xKsKhJncJcaoe2"
-        }
-      ],
-      "duration_ms": 330455,
-      "name": "Valencia",
-      "url": "https://open.spotify.com/track/7B5OKGINZQoicJXUffXFLb"
-    },
-    {
       "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "I Wanna Be Loved",
@@ -1273,66 +1405,6 @@
       "url": "https://open.spotify.com/track/5vEKd5RIP82JVRLEppdSab"
     },
     {
-      "added_at": "2024-08-16 04:00:00",
-      "album": {
-        "name": "The Stunt Man",
-        "url": "https://open.spotify.com/album/5PnI5RzrRRCC8wwxToCybR"
-      },
-      "artists": [
-        {
-          "name": "The Headhunters",
-          "url": "https://open.spotify.com/artist/5JzA5RES9AMM9bK3oDyulT"
-        },
-        {
-          "name": "Bill Summers",
-          "url": "https://open.spotify.com/artist/4jfExfOYzFuC4YkwHFSgiG"
-        },
-        {
-          "name": "Mike Clark",
-          "url": "https://open.spotify.com/artist/52gTviyJD418MV6uUsjf6k"
-        },
-        {
-          "name": "Donald Harrison",
-          "url": "https://open.spotify.com/artist/53pHwg1sjhqGk726JnJHYb"
-        },
-        {
-          "name": "Kyle Roussel",
-          "url": "https://open.spotify.com/artist/0YeH8ZTHzZZw0dqE1XVCZi"
-        },
-        {
-          "name": "Chris Severin",
-          "url": "https://open.spotify.com/artist/0KdWhB893jPoeFdidMNGyF"
-        }
-      ],
-      "duration_ms": 358520,
-      "name": "The Stunt Man",
-      "url": "https://open.spotify.com/track/3DDJ34JYZNJgsOpB5i3DdR"
-    },
-    {
-      "added_at": "2024-06-21 04:17:13",
-      "album": {
-        "name": "Universal Language",
-        "url": "https://open.spotify.com/album/1bAhvqzvSwitN4OfRv8HNe"
-      },
-      "artists": [
-        {
-          "name": "Myele Manzanza",
-          "url": "https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd"
-        },
-        {
-          "name": "Matthew Sheens",
-          "url": "https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E"
-        },
-        {
-          "name": "Matt Penman",
-          "url": "https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k"
-        }
-      ],
-      "duration_ms": 244498,
-      "name": "Universal Language",
-      "url": "https://open.spotify.com/track/17XLE3fJtYTyP2t7J0zdvk"
-    },
-    {
       "added_at": "2024-07-19 04:00:00",
       "album": {
         "name": "Twentyfour",
@@ -1421,26 +1493,6 @@
       "url": "https://open.spotify.com/track/5oiPuAbpv58XGorZCbo8XM"
     },
     {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Just Dreams",
-        "url": "https://open.spotify.com/album/16UuY4tlTcb5kycg4osnvM"
-      },
-      "artists": [
-        {
-          "name": "Alfa Mist",
-          "url": "https://open.spotify.com/artist/2i1CPudyCUjL50Wqjv8AMI"
-        },
-        {
-          "name": "Amika Quartet",
-          "url": "https://open.spotify.com/artist/2gRwP2o6X7iLs9dBcwOnOX"
-        }
-      ],
-      "duration_ms": 232053,
-      "name": "Just Dreams",
-      "url": "https://open.spotify.com/track/0ck55fNJidiuhc5hZPWRyH"
-    },
-    {
       "added_at": "2024-09-13 04:01:00",
       "album": {
         "name": "All in your palms",
@@ -1497,30 +1549,6 @@
       "url": "https://open.spotify.com/track/76KVWgsaoamQvSAdcmahcH"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "Early America",
-        "url": "https://open.spotify.com/album/6KFs45cU8vjNZuslNsPL2y"
-      },
-      "artists": [
-        {
-          "name": "Brian Charette",
-          "url": "https://open.spotify.com/artist/0BDMJnvi2kFbQAUNUqt5om"
-        },
-        {
-          "name": "Cory Weeds",
-          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
-        },
-        {
-          "name": "John Lee",
-          "url": "https://open.spotify.com/artist/2bLlwzmY1YcEVFuVEfaUmN"
-        }
-      ],
-      "duration_ms": 310373,
-      "name": "Early America",
-      "url": "https://open.spotify.com/track/47UW8ILxgNLihpIvKtv6gX"
-    },
-    {
       "added_at": "2024-08-30 04:00:00",
       "album": {
         "name": "The Bird Of A Thousand Voices",
@@ -1569,30 +1597,6 @@
       "url": "https://open.spotify.com/track/53CgYJu6NYV0lBP9AbezO4"
     },
     {
-      "added_at": "2024-10-04 04:00:00",
-      "album": {
-        "name": "Om Supreme (feat. Vijay Iyer & Immanuel Wilkins)",
-        "url": "https://open.spotify.com/album/2tQJ6JZhoKMgG5wm0w3N3r"
-      },
-      "artists": [
-        {
-          "name": "Ganavya",
-          "url": "https://open.spotify.com/artist/1NXSMPrdftOB0I4LeSkwjz"
-        },
-        {
-          "name": "Vijay Iyer",
-          "url": "https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6"
-        },
-        {
-          "name": "Immanuel Wilkins",
-          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
-        }
-      ],
-      "duration_ms": 615177,
-      "name": "Om Supreme (feat. Vijay Iyer & Immanuel Wilkins)",
-      "url": "https://open.spotify.com/track/2lcmMbNGKgCsM081mwdE36"
-    },
-    {
       "added_at": "2024-05-10 04:00:00",
       "album": {
         "name": "Remembrance",
@@ -1627,34 +1631,6 @@
       "duration_ms": 416440,
       "name": "Stuff Happens",
       "url": "https://open.spotify.com/track/7yOvhfKshKkcVKoXl7uyYk"
-    },
-    {
-      "added_at": "2024-08-23 04:00:00",
-      "album": {
-        "name": "Free Trap",
-        "url": "https://open.spotify.com/album/1W6O3yZir8yLmqBZu3kHbg"
-      },
-      "artists": [
-        {
-          "name": "Nathan-Paul",
-          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
-        },
-        {
-          "name": "TyC",
-          "url": "https://open.spotify.com/artist/2VjJ70ddXIbIGaeR5h35Ry"
-        },
-        {
-          "name": "Gabe Jones",
-          "url": "https://open.spotify.com/artist/7nPkG77EHzAvH5VjGOk9EP"
-        },
-        {
-          "name": "Tommy Lehman",
-          "url": "https://open.spotify.com/artist/1xb2srNfkHlcd8fNyTeR8h"
-        }
-      ],
-      "duration_ms": 214708,
-      "name": "Control",
-      "url": "https://open.spotify.com/track/4DHcY0NyOusUtbcYBfiUs9"
     },
     {
       "added_at": "2024-08-30 04:00:00",
@@ -1719,38 +1695,6 @@
       "duration_ms": 267013,
       "name": "Breeze",
       "url": "https://open.spotify.com/track/46MSjCl56neKwW4Rlhx6sl"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Purpose Love",
-        "url": "https://open.spotify.com/album/7pQ7R3at66Ap286Ue4RH6P"
-      },
-      "artists": [
-        {
-          "name": "Jhelisa",
-          "url": "https://open.spotify.com/artist/5Cku4OBzfFNMx4tdgDgFNA"
-        }
-      ],
-      "duration_ms": 249431,
-      "name": "Purpose Love - Edit",
-      "url": "https://open.spotify.com/track/5QuE3QjTqDbOdWzcLfd56P"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Curiouser and Curiouser",
-        "url": "https://open.spotify.com/album/4YQXl2JdIVWgyFBFmBphiX"
-      },
-      "artists": [
-        {
-          "name": "Dizraeli",
-          "url": "https://open.spotify.com/artist/3xjNFu3aAWJie7LQzDoYNa"
-        }
-      ],
-      "duration_ms": 291500,
-      "name": "Curiouser and Curiouser - Instrumental",
-      "url": "https://open.spotify.com/track/6QoLtt3oHxQXcdCfPRuB4M"
     },
     {
       "added_at": "2024-10-04 04:00:00",

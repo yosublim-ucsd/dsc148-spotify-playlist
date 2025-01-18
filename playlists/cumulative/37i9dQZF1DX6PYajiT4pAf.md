@@ -4,7 +4,7 @@
 
 > Bad Gyal con Trueno y el resto de novedades más importantes de la semana.
 
-856 songs - 1 day 19 hr 30 min
+857 songs - 1 day 19 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -313,6 +313,7 @@
 | [gervonta](https://open.spotify.com/track/0hfXHqWhOpbR9YQmQojDMN) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ) | [gervonta](https://open.spotify.com/album/07P3e4goBCLdmyLavq25cS) | 2:47 | 2024-12-06 | 2024-12-13 |
 | [Gigante](https://open.spotify.com/track/2utHyBwLp3ONsYUkGoWoPw) | [Leiva](https://open.spotify.com/artist/5Hsv8dUHHOdnn72q4XIVz7) | [Gigante](https://open.spotify.com/album/4GQpWhe2XtYdluFaDjqRup) | 4:12 | 2024-11-01 | 2024-11-08 |
 | [GOLFO X DESPECHO](https://open.spotify.com/track/3mOP0148Z2lExKw4Jv8oZT) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo), [Abraham Mateo](https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR), [CLARA](https://open.spotify.com/artist/6FPxOArEPVZUDv925qq8IQ) | [GOLFO X DESPECHO](https://open.spotify.com/album/5UwU3YKha4a2MPrz4Qo7Zf) | 2:49 | 2024-11-01 | 2024-11-08 |
+| [Golondrinas](https://open.spotify.com/track/66cx1OPUvkgH3vykH9ar02) | [Juanjo Bona](https://open.spotify.com/artist/471C5Rq1AJAT1Y1Epd56XF) | [Golondrinas](https://open.spotify.com/album/364p89srTY73CwrLU3hhfK) | 2:30 | 2025-01-17 |  |
 | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/track/2TWWbIe4aWGbbPBduYewWB) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [Dr\. Dre](https://open.spotify.com/artist/6DPYiyq5kWVQS4RGwxzPC7), [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Gorgeous \(feat\. Jhené Aiko\)](https://open.spotify.com/album/4i7qrK4UlqvfNnedt54DT0) | 2:56 | 2024-11-01 | 2024-11-08 |
 | [Goyard](https://open.spotify.com/track/09vTXaxjtGQuZUpxajiLLR) | [Love Yi](https://open.spotify.com/artist/6qyklgt2wzPT7KRdu15ZFL), [Bon Calso](https://open.spotify.com/artist/7ayZ0ZHp9SC1Bp6rzDd6gu) | [Goyard](https://open.spotify.com/album/4J7KuqFm8B9COsSH3jxJcW) | 3:36 | 2024-10-11 | 2024-10-18 |
 | [GRAN VÍA](https://open.spotify.com/track/2kQ1OvmMzs1xdlH020aJJh) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [BUENAS NOCHES](https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh) | 3:33 | 2024-11-21 | 2024-11-29 |

@@ -4,7 +4,7 @@
 
 > Western orientated Hardcore Music by Japanese Artists
 
-489 songs - 1 day 9 hr 57 min
+490 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -332,6 +332,7 @@
 | [Poem](https://open.spotify.com/track/6NSXJWewDoDWQnPG3hJimi) | [CANVAS](https://open.spotify.com/artist/4V7fWmLL91fiikyB9wEGdM), [RoughSketch](https://open.spotify.com/artist/0lYM4mCc6IhbmfGYpeNCyO), [Quimar](https://open.spotify.com/artist/6ZMSG6b8MEzGNaAFnzurRb) | [CARMINA](https://open.spotify.com/album/1J52fJBK6sV7nz1FXQ7dIQ) | 4:12 | 2024-05-03 |  |
 | [Poseidon](https://open.spotify.com/track/6IdhEhzGEefSApGfUYj1Ox) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Poseidon](https://open.spotify.com/album/76h8jXT72ihuHat3ZDsYl7) | 2:12 | 2019-09-13 |  |
 | [Poseidon \- Extended Ver.](https://open.spotify.com/track/5aucc4zDDSM1WYPJHrvmn8) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [OVERHEAT](https://open.spotify.com/album/2VRH44lzNZK9sUikj2OXJ8) | 3:40 | 2021-08-13 |  |
+| [Pray for +++++](https://open.spotify.com/track/4z7hXHQ3isbT5vm5GuQaym) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [Pray for +++++](https://open.spotify.com/album/4MT5hXU20ertKcjkarMGcn) | 3:54 | 2025-01-17 |  |
 | [PREVAIL](https://open.spotify.com/track/588dTEjalDDFpZZODYzMTf) | [DJ Myosuke](https://open.spotify.com/artist/0GsEX8wr2fhu19PIwQh1oG) | [HARDCORE SYNDROME 12](https://open.spotify.com/album/1D5ur2uxXVUy26jo1hgcNR) | 3:58 | 2019-02-03 |  |
 | [Prince of Persia](https://open.spotify.com/track/6lXm1dgGagK2T6WiuHtesl) | [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [STORYTELLER VOLUME 1](https://open.spotify.com/album/7k3YslPsLaJj8JHEGUtsq7) | 3:49 | 2019-08-27 |  |
 | [PROBLEM](https://open.spotify.com/track/3vryPetz7HjU0ySYtFA2Df) | [SENNA](https://open.spotify.com/artist/6YpkmIr6oAhiCLebOmx2G0) | [PROBLEM](https://open.spotify.com/album/6xor6gN5vTOl1QsRqBqgXF) | 3:48 | 2024-06-22 |  |

@@ -2440,7 +2440,7 @@
       ],
       "date_added": "2021-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 171704,
       "name": "Informalit\u00e9",
       "url": "https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK"
@@ -3984,6 +3984,28 @@
       "duration_ms": 162785,
       "name": "rollacoasta",
       "url": "https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB"
+    },
+    {
+      "album": {
+        "name": "Roman d'Amour",
+        "url": "https://open.spotify.com/album/41lgcktDlbTw48LI9NJRgO"
+      },
+      "artists": [
+        {
+          "name": "Alastair Lane",
+          "url": "https://open.spotify.com/artist/6TlnZfBVbxeu6ss2jcPDJo"
+        },
+        {
+          "name": "Sarah Degny",
+          "url": "https://open.spotify.com/artist/1yQ2xcATfwSb1C8rwkfKBb"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171173,
+      "name": "Roman d'Amour",
+      "url": "https://open.spotify.com/track/1fVQmMgrOUnrh8KgndKGzP"
     },
     {
       "album": {

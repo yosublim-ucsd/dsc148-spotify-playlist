@@ -7445,6 +7445,28 @@
     },
     {
       "album": {
+        "name": "Le Comte de Monte Cristo (Piano Version)",
+        "url": "https://open.spotify.com/album/6ulYFO2ddO44WMx1GzsOH9"
+      },
+      "artists": [
+        {
+          "name": "Alban Claudin",
+          "url": "https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp"
+        },
+        {
+          "name": "J\u00e9r\u00f4me Rebotier",
+          "url": "https://open.spotify.com/artist/5LDz41tmX7odOCzOzwuqGd"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156760,
+      "name": "Merc\u00e9d\u00e8s - Piano Version",
+      "url": "https://open.spotify.com/track/1vRrwx5xrDSMp9i0l9GMHP"
+    },
+    {
+      "album": {
         "name": "Christmas with Chloe Flower",
         "url": "https://open.spotify.com/album/6Iv1FqBBAnyZ9WYZRpOvs3"
       },
@@ -8164,6 +8186,24 @@
       "duration_ms": 130853,
       "name": "No. 7, Aquarium",
       "url": "https://open.spotify.com/track/72vkeAmE7MJJEelSqoMYst"
+    },
+    {
+      "album": {
+        "name": "Pohjola",
+        "url": "https://open.spotify.com/album/5zYVpvprhZGfeu5RSBHhw8"
+      },
+      "artists": [
+        {
+          "name": "A. Blomqvist",
+          "url": "https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215268,
+      "name": "Nocturne",
+      "url": "https://open.spotify.com/track/5owjzHrbQrDqykGJJjIiGg"
     },
     {
       "album": {
@@ -13888,6 +13928,28 @@
       "duration_ms": 120653,
       "name": "Three Solos for Yuja: III. Victor",
       "url": "https://open.spotify.com/track/2PIEQ8b55zCcPIvJFxdEGX"
+    },
+    {
+      "album": {
+        "name": "Three Visions: II. Summerland",
+        "url": "https://open.spotify.com/album/4U6PlBgQ1nPsS9bjYBQqr7"
+      },
+      "artists": [
+        {
+          "name": "William Grant Still",
+          "url": "https://open.spotify.com/artist/0KkJoXozXmbRdmpy7zCmYA"
+        },
+        {
+          "name": "Jeneba Kanneh-Mason",
+          "url": "https://open.spotify.com/artist/4N1PbaBSiRha6yzEmdwcCZ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199520,
+      "name": "Three Visions: II. Summerland",
+      "url": "https://open.spotify.com/track/3RCs6tI4rUWjvPp7wvF7Vu"
     },
     {
       "album": {

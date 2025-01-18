@@ -4,7 +4,7 @@
 
 > Catch the queens of Punjabi Pop\. Cover: Pari Pandher
 
-178 songs - 9 hr 7 min
+179 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,7 +28,8 @@
 | [Bajre Da Sitta](https://open.spotify.com/track/3eTu6nWvilfwbFDtH1F7eH) | [Khyati Sharma](https://open.spotify.com/artist/5FFNybwjWfaPZZ8SXDR2a7), [Leela](https://open.spotify.com/artist/7MBRGHeFs0vKcnK2VqI2dZ) | [Bajre Da Sitta](https://open.spotify.com/album/0h4Dv5YVxWQFD3PYxQXkal) | 2:29 | 2024-10-11 | 2024-11-09 |
 | [Be Aware](https://open.spotify.com/track/1QsojV2MruriPEFHh249kF) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Blessed](https://open.spotify.com/album/59APTUJ5kzD9oqOGAaHlSR) | 3:08 | 2023-10-05 | 2024-04-19 |
 | [Be Aware \(feat\. Kaater\)](https://open.spotify.com/track/63y0bDChOJ5rSd7PsxvTun) | [Kaur B](https://open.spotify.com/artist/43iOhUGMAnS6QbPEUYqkpg), [Kaater](https://open.spotify.com/artist/12bMjwsp9WCkVM3kscRAUE) | [Blessed](https://open.spotify.com/album/15c0xFkzJnqo87cqR5sOyu) | 3:08 | 2023-03-18 | 2024-09-06 |
-| [Behja](https://open.spotify.com/track/5ipjxMaTd2m0g7fv283MWn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J) | [Behja](https://open.spotify.com/album/2HpDwsJz1j15HXXo08OdhF) | 2:01 | 2025-01-15 |  |
+| [Bediyan \- Single Version](https://open.spotify.com/track/76sPL8Hy2PVu0ga56XIfHO) | [Simran Raj](https://open.spotify.com/artist/0Kq6kRoZ7plicvFNdCjc3P), [Prabh Bains](https://open.spotify.com/artist/1W3MZbE7esUbdnZ0Vdpb7y), [Coachsahb](https://open.spotify.com/artist/6Bh6azkXf8ySGXFCNuYifM) | [Bediyan \(Single Version\)](https://open.spotify.com/album/28hqqL7ZjleMIRMUQBOcfk) | 5:06 | 2025-01-17 |  |
+| [Behja](https://open.spotify.com/track/5ipjxMaTd2m0g7fv283MWn) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [Behja](https://open.spotify.com/album/2HpDwsJz1j15HXXo08OdhF) | 2:01 | 2025-01-15 |  |
 | [Big Loss](https://open.spotify.com/track/76voghdL792BAy9YwEKfzw) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Big Loss](https://open.spotify.com/album/7xZV2oU3dR8taMeW7OGdyP) | 2:45 | 2024-10-10 | 2024-11-16 |
 | [Big Men \- Chapter 3](https://open.spotify.com/track/2Gz1W4urkGIDOxAdbVP6Lm) | [R Nait](https://open.spotify.com/artist/4buk1Dwc5ynSnOGVeMJOON), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Big Men \- Chapter 3](https://open.spotify.com/album/69sDC46O5neuNkAYRklSuq) | 4:36 | 2023-03-18 | 2024-09-12 |
 | [Blackia](https://open.spotify.com/track/4iqXGZnemslGnA0LvUpgdc) | [Sarika Gill](https://open.spotify.com/artist/2gzKmku9ZYUmTrqgWeMDVc), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Shree Brar](https://open.spotify.com/artist/5Dr08SCxyjTmDovDDRZCa2) | [Blackia](https://open.spotify.com/album/1TY5R1wEFyeQyPeZVxpcLG) | 2:12 | 2024-11-05 |  |
@@ -137,7 +138,7 @@
 | [Patt Honeya](https://open.spotify.com/track/25EmyJwqn4w9XNgyavuYPv) | [Sona Walia](https://open.spotify.com/artist/5oskGmORhLpWRv2jcZiVkX), [Jaya Rohilla](https://open.spotify.com/artist/6hAMialSGkEoYb0eMtPjAH) | [Patt Honeya](https://open.spotify.com/album/2wq9au4ttipIHtxUADKInY) | 3:05 | 2024-11-27 | 2024-12-10 |
 | [Perfection](https://open.spotify.com/track/6hN5PBVrnAwydgOYNWeUWj) | [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Perfection](https://open.spotify.com/album/4IToiiA9yQfiSmAJJcQM4a) | 1:40 | 2024-04-24 | 2024-09-03 |
 | [Phulkari](https://open.spotify.com/track/1f660M0jwz7F4qlDjTSLmO) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Phulkari](https://open.spotify.com/album/3skDjGnv85nUKxVQknCk2B) | 3:16 | 2023-03-18 | 2024-11-05 |
-| [Raah](https://open.spotify.com/track/5jZDDXuXDySYyd6DSCKOco) | [Manvi Arora](https://open.spotify.com/artist/5qrWplhwtDCuQdSDKrDrxf) | [Raah](https://open.spotify.com/album/6cHoE8lreJw6ZgKuSOyBYy) | 2:20 | 2024-11-26 |  |
+| [Raah](https://open.spotify.com/track/5jZDDXuXDySYyd6DSCKOco) | [Manvi Arora](https://open.spotify.com/artist/5qrWplhwtDCuQdSDKrDrxf) | [Raah](https://open.spotify.com/album/6cHoE8lreJw6ZgKuSOyBYy) | 2:20 | 2024-11-26 | 2025-01-18 |
 | [Raanjha \- Spotify Singles](https://open.spotify.com/track/2Xi2rN0Awghch9seTfDmge) | [Nimrat Khaira](https://open.spotify.com/artist/0ea0y5ZxnN5TbEDzNtx5Fk) | [Raanjha \- Spotify Singles](https://open.spotify.com/album/644jvb8ZYS8ySgtUrXM8T0) | 2:23 | 2023-03-18 | 2023-04-20 |
 | [Rafflan](https://open.spotify.com/track/64LiKpnfoGb5E6h3TsTnEP) | [Sahiba Aulakh](https://open.spotify.com/artist/1dOU4M0v0yeTczwMOhIBWh), [Gurbilling](https://open.spotify.com/artist/5Ae4guOm8OzoaSunZvltCq) | [Rafflan](https://open.spotify.com/album/0H24XMNw4pK8lyXrTgHYMD) | 2:12 | 2024-12-03 |  |
 | [Raule](https://open.spotify.com/track/1IDO3YDXZEpBIT53R6QJSe) | [Jassa Dhillon](https://open.spotify.com/artist/2vJvM1hPBYqDoGBje0kRMd), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Above All](https://open.spotify.com/album/5MIukl4CU37RkKANzs0UbG) | 3:15 | 2023-03-18 | 2024-10-11 |

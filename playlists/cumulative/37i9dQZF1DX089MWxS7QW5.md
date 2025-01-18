@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: HyunJin\(현진\)\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 니브 \(NIve\)\)
 
-461 songs - 1 day 1 hr 5 min
+462 songs - 1 day 1 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [4 Seasons](https://open.spotify.com/track/0pO83HwPbv1XVUt6t02M9X) | [MELOH](https://open.spotify.com/artist/5Qb6QmI6WUeGFaJeGB5fdg), [VVON](https://open.spotify.com/artist/6CJEP3Ma2sqPIl1c9ppZby) | [4 Seasons](https://open.spotify.com/album/64xSyyzLpiFCfgnGiwmOfX) | 2:31 | 2024-12-05 |  |
 | [4EVeR](https://open.spotify.com/track/4Tiqs5kuuUIh8iJ1cvxwJQ) | [MRSHLL](https://open.spotify.com/artist/0seQaFC4HsYcxj5o27Ls45) | [XYZ](https://open.spotify.com/album/07W9u6v5DClq89nGm8MwLc) | 4:02 | 2022-05-28 | 2022-06-10 |
 | [55 \(Feat\. Yerin Baek, WENDY\)](https://open.spotify.com/track/1is7aJgbVS67fEMTAjh4mX) | [CODE KUNST](https://open.spotify.com/artist/4WnO2VmlwdTX77ANsThWLQ), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK), [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K) | [Archive 01](https://open.spotify.com/album/1rnLfXYRONXmkMKOAGEUpH) | 3:07 | 2023-03-08 | 2023-09-19 |
+| [A Bitter Letter To Myself](https://open.spotify.com/track/0djIuIFCPgHVHzjTk7OcuB) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [A Bitter Letter To Myself](https://open.spotify.com/album/2O2iOBGOlGcaCZgHj1fyQc) | 2:35 | 2025-01-17 |  |
 | [A Heartbreaking Story \(Feat\. Joon Park\)](https://open.spotify.com/track/2HjX3g6NK0wLhELTM0mMRc) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [박준형](https://open.spotify.com/artist/2xtMZ4zOq4eErGffG8utNG) | [A Heartbreaking Story](https://open.spotify.com/album/40aUkA4dLyHGK5mblFGcO0) | 4:21 | 2023-07-07 | 2023-10-17 |
 | [A to Z](https://open.spotify.com/track/3XwXsckFbi3WjsI4SYcOdp) | [SOULBYSEL](https://open.spotify.com/artist/64XKgSVwpKMMZmAUftB1Hp), [Rico](https://open.spotify.com/artist/6DwzHek5dCcuLoa9HGotoG) | [SOULBYSEL Compilation 04](https://open.spotify.com/album/6h8gTvlQIvC2ZZCFGTFbgm) | 3:50 | 2023-02-14 | 2023-08-18 |
 | [a u r o r a ✧ \(feat\. sooon\)](https://open.spotify.com/track/0B5Q4mi41Ht5xYTpIaXpyf) | [sweetch](https://open.spotify.com/artist/3PS40CD9LRfOPNoDMqns9L), [sooon](https://open.spotify.com/artist/3GemDSocaoRcYZeDHBdmHO) | [light \#1](https://open.spotify.com/album/39YKRrb64v8yPpD25dSPra) | 3:28 | 2022-11-08 | 2023-03-28 |
@@ -316,7 +317,7 @@
 | [pado ballad](https://open.spotify.com/track/7sKi4MTWJJIPXCik8yLmRV) | [Lahne](https://open.spotify.com/artist/2f6UH261iYhBitmwklLAlH) | [Blue Interior](https://open.spotify.com/album/5laWpGYSMaZiscOja0W4u1) | 3:42 | 2022-07-04 | 2022-11-15 |
 | [palindrome](https://open.spotify.com/track/1dVkhC11bocbMGiJw8RZ0I) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [palindrome](https://open.spotify.com/album/7KSmXVUSnMZRG0jQghsTVh) | 3:08 | 2024-08-04 | 2024-09-14 |
 | [Passion \(Feat\. PENOMECO\)](https://open.spotify.com/track/1w6ao8wqrRg5rOEKsZ3Qyy) | [INJAE](https://open.spotify.com/artist/52jCsWDfCYGGZiPqIYL0WD), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [Too Passionate](https://open.spotify.com/album/6Oa5bo4s3FhAlfssUI0JTU) | 2:55 | 2024-07-09 | 2024-09-14 |
-| [Perfect Moment](https://open.spotify.com/track/6cqwLE61pizVHv0nbuodzn) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Perfect Moment](https://open.spotify.com/album/0DKtnVlKm6G9R1xnoiuUgT) | 2:16 | 2024-09-02 |  |
+| [Perfect Moment](https://open.spotify.com/track/6cqwLE61pizVHv0nbuodzn) | [J.BASS](https://open.spotify.com/artist/1xIJdlCfkIVsdO5Egsu8ln), [ARO](https://open.spotify.com/artist/6ECu2vO8wvgX5pDjYqHEuC) | [Perfect Moment](https://open.spotify.com/album/0DKtnVlKm6G9R1xnoiuUgT) | 2:16 | 2024-09-02 | 2025-01-18 |
 | [Plastic Candy](https://open.spotify.com/track/1MxLhOFpRp0XgVgIV9Yakr) | [HaSeul](https://open.spotify.com/artist/5clV5I50OxxG9JGGxeW0C9) | [Plastic Candy](https://open.spotify.com/album/6H85pl4CetdaJl4wNlzXoJ) | 3:34 | 2023-10-27 | 2024-01-09 |
 | [Plus n Minus](https://open.spotify.com/track/0usiwkXqoWNX3yqGFfRBAu) | [Yein](https://open.spotify.com/artist/3mZkPqzEdMYwaKSQSd2lJQ) | [Plus n Minus](https://open.spotify.com/album/2ZJoZrfVVAKpt798ti3Qdc) | 2:36 | 2022-05-28 | 2022-07-28 |
 | [Power](https://open.spotify.com/track/13diDrHSmIrX0ybi3Bi3eN) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8) | [Power](https://open.spotify.com/album/2NMeQY7x3Asnp48FvZzHlX) | 2:49 | 2024-03-19 | 2024-07-11 |
@@ -377,7 +378,7 @@
 | [SUDA](https://open.spotify.com/track/3t6ljynTF1LLr8NVKCjrlS) | [MORE](https://open.spotify.com/artist/3sG5lKhIKPneoceflZon1C) | [SUDA](https://open.spotify.com/album/7m98itIoQ6Ptgk5JJC4Ic5) | 3:03 | 2024-06-23 | 2024-09-14 |
 | [Summer](https://open.spotify.com/track/7AWXUa5Sjpm9mcd38SMT6S) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Summer](https://open.spotify.com/album/1EOt2UEK3yFaIxgnFvkSri) | 3:20 | 2024-07-09 | 2024-09-14 |
 | [Summer Film](https://open.spotify.com/track/4GxzpNi392N3WKWeH6pcDF) | [NASON](https://open.spotify.com/artist/1vh78yjQeZmPN9a5qLlBpi) | [Summer Film](https://open.spotify.com/album/2c3oSnPNFVp5c6mPk4AiDM) | 3:18 | 2024-09-02 |  |
-| [Summer Night \(feat\. Pat Kiloran\)](https://open.spotify.com/track/4NiAxrhROAd0aZ4XkNUDv3) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Pat Kiloran](https://open.spotify.com/artist/2kbXxgFPlWAbDSBgkGBPz5) | [Summer Night](https://open.spotify.com/album/1qedG8sbfkuESe0OtH9M76) | 3:01 | 2024-08-30 |  |
+| [Summer Night \(feat\. Pat Kiloran\)](https://open.spotify.com/track/4NiAxrhROAd0aZ4XkNUDv3) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [Pat Kiloran](https://open.spotify.com/artist/2kbXxgFPlWAbDSBgkGBPz5) | [Summer Night](https://open.spotify.com/album/1qedG8sbfkuESe0OtH9M76) | 3:01 | 2024-08-30 | 2025-01-18 |
 | [SummerSweet](https://open.spotify.com/track/7I9Pu7IABwbwM9fEyOjAvi) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [SummerSweet](https://open.spotify.com/album/68weYmNQmhCr9BAgb9Oqgp) | 2:30 | 2022-07-27 | 2022-12-14 |
 | [Sunrise Surf](https://open.spotify.com/track/00BhvVsOJkBMJVyojR7Cd9) | [LEAFY](https://open.spotify.com/artist/1w2W3b2Z93RMJlygXigbNL) | [SUNNY SIDE UP](https://open.spotify.com/album/70AcRM1xkrvxLjCwyNw1Vl) | 2:41 | 2023-08-04 | 2023-11-29 |
 | [Sunset In Seoul](https://open.spotify.com/track/5H4EBz21rV1FYGM3aXZrR7) | [DNYDK](https://open.spotify.com/artist/5t6dhtQGa3M52lnW75gSSc), [DRbug](https://open.spotify.com/artist/45dH4Z5x2J3EQzia7gTqSr) | [SUMMER TAPE](https://open.spotify.com/album/3Sph192hAthWyxJisgLBIU) | 2:42 | 2024-08-10 | 2024-10-18 |

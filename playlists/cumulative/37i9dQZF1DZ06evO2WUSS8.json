@@ -506,7 +506,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 218417,
       "name": "Best We Can",
       "url": "https://open.spotify.com/track/7JkARLzgPhReJbeuKyRZyz"
@@ -748,7 +748,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 328813,
       "name": "Crosseyed and Painless",
       "url": "https://open.spotify.com/track/4Mv2cCZWORGFV6rbiRCWZX"
@@ -1026,7 +1026,7 @@
       ],
       "date_added": "2021-12-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 173640,
       "name": "Flying High",
       "url": "https://open.spotify.com/track/7bNc9SJKRyxkYbY0YRiMZS"
@@ -1418,6 +1418,36 @@
       "duration_ms": 316813,
       "name": "Lady",
       "url": "https://open.spotify.com/track/6FSRJ4uC0TF0p7uy4nN5Ew"
+    },
+    {
+      "album": {
+        "name": "Lady",
+        "url": "https://open.spotify.com/album/5gvkZr0EvB8x9vYy1pwBr2"
+      },
+      "artists": [
+        {
+          "name": "Tune-Yards",
+          "url": "https://open.spotify.com/artist/0asVlqTLu3TimnYVyY5Jxi"
+        },
+        {
+          "name": "Angelique Kidjo",
+          "url": "https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M"
+        },
+        {
+          "name": "?uestlove",
+          "url": "https://open.spotify.com/artist/1h2OVSKRdJHnVqyCKqCLkf"
+        },
+        {
+          "name": "Akua Naru",
+          "url": "https://open.spotify.com/artist/2xxyuUOZJxayJDF6SxLG2K"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315466,
+      "name": "Lady",
+      "url": "https://open.spotify.com/track/0dVLQmK8gQrz1zjkhhar3B"
     },
     {
       "album": {
@@ -2848,7 +2878,7 @@
       ],
       "date_added": "2022-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 220493,
       "name": "Try Everything",
       "url": "https://open.spotify.com/track/3V0ILZiWW8TStF12xdllmR"
@@ -2940,7 +2970,7 @@
       ],
       "date_added": "2022-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 249000,
       "name": "Wah Fu Dance (feat. Angelique Kidjo)",
       "url": "https://open.spotify.com/track/4owkTdzI6xtBFRbnZQWFiK"

@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 60653,
+  "num_followers": 60656,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "Carr Toons",
-        "url": "https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ"
-      },
-      "artists": [
-        {
-          "name": "Amanda Carr",
-          "url": "https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr"
-        }
-      ],
-      "duration_ms": 169533,
-      "name": "Scotch and Soda",
-      "url": "https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 205800,
       "name": "Si Me Dejas Ahora",
       "url": "https://open.spotify.com/track/0zVQryL6RPYDBmnk6bUdth"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "Carr Toons",
+        "url": "https://open.spotify.com/album/7axCmFJWsyuWe8GrsIcmvJ"
+      },
+      "artists": [
+        {
+          "name": "Amanda Carr",
+          "url": "https://open.spotify.com/artist/05F7ATDPBJrAcO6uIIoQRr"
+        }
+      ],
+      "duration_ms": 169533,
+      "name": "Scotch and Soda",
+      "url": "https://open.spotify.com/track/5DKiuGttXpShOHo23QILWG"
     },
     {
       "added_at": "2024-12-23 02:15:43",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "All About Chris",
-        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
-      },
-      "artists": [
-        {
-          "name": "Chris Connor",
-          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "All About Ronnie",
-      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 181826,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "All About Chris",
+        "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
+      },
+      "artists": [
+        {
+          "name": "Chris Connor",
+          "url": "https://open.spotify.com/artist/5Q6PVXflC7LKN42bYupRJQ"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "All About Ronnie",
+      "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
     },
     {
       "added_at": "2024-12-23 02:15:43",

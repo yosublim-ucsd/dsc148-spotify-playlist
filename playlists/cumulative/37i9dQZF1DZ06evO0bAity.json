@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Positive Rising (Pt. 1)",
+        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258053,
+      "name": "A Lot To Lose",
+      "url": "https://open.spotify.com/track/0yg4geNtQ7tlHUS08q1txz"
+    },
+    {
+      "album": {
         "name": "Positive Rising: Part 1",
         "url": "https://open.spotify.com/album/43nTe7AFg19waJxNOCUTPa"
       },
@@ -996,6 +1014,24 @@
       "duration_ms": 209988,
       "name": "My Mind Is Eating Me Alive - GAUCI Remix",
       "url": "https://open.spotify.com/track/4mbIZepv1eFGIAQiuuDP7r"
+    },
+    {
+      "album": {
+        "name": "Positive Rising (Pt. 1)",
+        "url": "https://open.spotify.com/album/40t8R9VOXLSxMzUjXbtDuN"
+      },
+      "artists": [
+        {
+          "name": "DZ Deathrays",
+          "url": "https://open.spotify.com/artist/0qGPycvPHafmEPTOm4M7Tu"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159826,
+      "name": "Nightmare Wrecker",
+      "url": "https://open.spotify.com/track/3K2jkIoUiCboA6RE8ui6Sr"
     },
     {
       "album": {

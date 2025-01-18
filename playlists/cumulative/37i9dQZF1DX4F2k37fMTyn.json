@@ -7411,6 +7411,24 @@
     },
     {
       "album": {
+        "name": "I Did: Bloom (Deluxe)",
+        "url": "https://open.spotify.com/album/2haRGdLvimDfNlDBW1LAt1"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193680,
+      "name": "See you in hell",
+      "url": "https://open.spotify.com/track/0ho6WKE45zywTVph0deBpq"
+    },
+    {
+      "album": {
         "name": "Self Destruction Mode",
         "url": "https://open.spotify.com/album/2freNDhR5KMLOUVIKZExtd"
       },

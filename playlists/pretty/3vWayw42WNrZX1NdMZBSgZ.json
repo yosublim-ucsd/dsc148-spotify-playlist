@@ -1,12 +1,12 @@
 {
   "description": "The perfect mix of the latest pop hits! Follow this playlist and play Camilo &amp; Carin Leon &quot;Una Vida Pasada,&quot; Nicki Nicole &quot;Ojos Verdes,&quot;  Sky Rompiendo &amp; Rauw Alejandro  &quot;Espectacular&quot;, Shakira &amp; Cardi B &quot;Punter\u00eda,&quot;  Cover: Luck Ra",
-  "num_followers": 53512,
+  "num_followers": 53508,
   "original_name": "Pop Latin Hits",
   "owner": {
     "name": "Filtr Latino",
     "url": "https://open.spotify.com/user/toplatino"
   },
-  "snapshot_id": "AAATD/74HuzTPPIPN+fxAkugD3hbCP5z",
+  "snapshot_id": "AAATE7k66Z24zl9sEkjxAr0LEz4C/0qQ",
   "tracks": [
     {
       "added_at": "2024-12-20 14:51:42",
@@ -27,6 +27,22 @@
       "duration_ms": 142000,
       "name": "SUAVEMENTE",
       "url": "https://open.spotify.com/track/1MErjQ93iYHCjayOT1hl9N"
+    },
+    {
+      "added_at": "2025-01-17 14:51:22",
+      "album": {
+        "name": "Skittles",
+        "url": "https://open.spotify.com/album/09VWiaARmxmaf4U9uo8fwI"
+      },
+      "artists": [
+        {
+          "name": "GALE",
+          "url": "https://open.spotify.com/artist/04pH6pkJugHJ7g3DTCQBVM"
+        }
+      ],
+      "duration_ms": 170813,
+      "name": "Skittles",
+      "url": "https://open.spotify.com/track/3F1OzaBwLv4F0cwLtL29gO"
     },
     {
       "added_at": "2025-01-10 14:34:41",
@@ -3095,42 +3111,6 @@
       "duration_ms": 158815,
       "name": "Te Imaginaba",
       "url": "https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b"
-    },
-    {
-      "added_at": "2024-10-25 06:32:41",
-      "album": {
-        "name": "Te Imaginaba",
-        "url": "https://open.spotify.com/album/34lHWGbMwEieuMtYcyhqrR"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 158815,
-      "name": "Te Imaginaba",
-      "url": "https://open.spotify.com/track/0YHtQ5UTlvjdgMJL3Gh09b"
-    },
-    {
-      "added_at": "2024-10-25 06:32:41",
-      "album": {
-        "name": "ALMA",
-        "url": "https://open.spotify.com/album/0pWzIntouGCOZzQsSW6xYc"
-      },
-      "artists": [
-        {
-          "name": "Nicki Nicole",
-          "url": "https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y"
-        },
-        {
-          "name": "Milo j",
-          "url": "https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3"
-        }
-      ],
-      "duration_ms": 143935,
-      "name": "DISPARA ***",
-      "url": "https://open.spotify.com/track/6r0TaoZh1Oc1KkuL4rC1kB"
     }
   ],
   "unique_name": "Pop Latin Hits",

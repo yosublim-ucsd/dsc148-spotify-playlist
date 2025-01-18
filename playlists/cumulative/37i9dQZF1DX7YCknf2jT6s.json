@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: ARTEMIS",
+  "description": "New jazz for open minds. Cover: Butcher Brown",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -6249,6 +6249,24 @@
     },
     {
       "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/0hA5fwpqTpzxfz6xuMyulX"
+      },
+      "artists": [
+        {
+          "name": "Yellowjackets",
+          "url": "https://open.spotify.com/artist/1zHPRenzLeI2vhT7nlR6Mq"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321080,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/6kCSXxieGoLrJGhEocItph"
+    },
+    {
+      "album": {
         "name": "concentrate",
         "url": "https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca"
       },
@@ -6402,7 +6420,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 214708,
       "name": "Control",
       "url": "https://open.spotify.com/track/4DHcY0NyOusUtbcYBfiUs9"
@@ -6742,7 +6760,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 291500,
       "name": "Curiouser and Curiouser - Instrumental",
       "url": "https://open.spotify.com/track/6QoLtt3oHxQXcdCfPRuB4M"
@@ -8752,7 +8770,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 310373,
       "name": "Early America",
       "url": "https://open.spotify.com/track/47UW8ILxgNLihpIvKtv6gX"
@@ -13797,6 +13815,24 @@
     },
     {
       "album": {
+        "name": "Ibiza",
+        "url": "https://open.spotify.com/album/2S8dRCPQLDWoRyfslTLivw"
+      },
+      "artists": [
+        {
+          "name": "Butcher Brown",
+          "url": "https://open.spotify.com/artist/2jQ6wRQ7yP1UrctodeuYQP"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256911,
+      "name": "Ibiza",
+      "url": "https://open.spotify.com/track/7s0wCxjksOoFTcfp7Ikk3t"
+    },
+    {
+      "album": {
         "name": "Ice Cream Song",
         "url": "https://open.spotify.com/album/053t2hqRh9XHIVG85cuTeP"
       },
@@ -14486,6 +14522,24 @@
       "duration_ms": 299616,
       "name": "Into Bright",
       "url": "https://open.spotify.com/track/1u2rsYfQzhzI5Fn1cTmuCN"
+    },
+    {
+      "album": {
+        "name": "Into The Night",
+        "url": "https://open.spotify.com/album/3LXKWerzEPTDudnUuRvdAP"
+      },
+      "artists": [
+        {
+          "name": "Yazz Ahmed",
+          "url": "https://open.spotify.com/artist/1srvW9AP2k4GLhS3hlC3IN"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 104027,
+      "name": "Into The Night",
+      "url": "https://open.spotify.com/track/0n2zCTohMb9QORwBk9DmfF"
     },
     {
       "album": {
@@ -15418,7 +15472,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 232053,
       "name": "Just Dreams",
       "url": "https://open.spotify.com/track/0ck55fNJidiuhc5hZPWRyH"
@@ -16058,6 +16112,28 @@
       "duration_ms": 188761,
       "name": "Last Laugh",
       "url": "https://open.spotify.com/track/307ZBrMJEoKG6khQpX0g4N"
+    },
+    {
+      "album": {
+        "name": "Last Train From Overbrook",
+        "url": "https://open.spotify.com/album/01lYkrKIr5DDtVeEkCnjvc"
+      },
+      "artists": [
+        {
+          "name": "Nick Hempton",
+          "url": "https://open.spotify.com/artist/0Pwn4BeFcbZYgApft1pPk7"
+        },
+        {
+          "name": "Cory Weeds",
+          "url": "https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 335390,
+      "name": "Last Train From Overbrook",
+      "url": "https://open.spotify.com/track/22v2NkeJpyTSAheUaTy1g7"
     },
     {
       "album": {
@@ -18457,6 +18533,32 @@
     },
     {
       "album": {
+        "name": "Merry Dancers",
+        "url": "https://open.spotify.com/album/3Ae8U6JFzeLAdcXPFx1sSB"
+      },
+      "artists": [
+        {
+          "name": "Greg Spero",
+          "url": "https://open.spotify.com/artist/0zimAUeLZD9gEVSEgc9RRd"
+        },
+        {
+          "name": "Nicole McCabe",
+          "url": "https://open.spotify.com/artist/00yDWlggrS34V03oLFjMbl"
+        },
+        {
+          "name": "Ka'Cye Thompkins",
+          "url": "https://open.spotify.com/artist/0Iw3kQWOb7EvjXwEpyH40I"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218106,
+      "name": "Merry Dancers",
+      "url": "https://open.spotify.com/track/10czY3myrN2qp1ymTRjZUM"
+    },
+    {
+      "album": {
         "name": "Moonlighting \u2013 AstroJazz Vol.1",
         "url": "https://open.spotify.com/album/4UaAyjTwG1k7X6qJkwYoAy"
       },
@@ -19126,7 +19228,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 244048,
       "name": "Montrose Forest featuring Nicholas Payton",
       "url": "https://open.spotify.com/track/5KDVm18IS8nave70ihVFqN"
@@ -21322,7 +21424,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 615177,
       "name": "Om Supreme (feat. Vijay Iyer & Immanuel Wilkins)",
       "url": "https://open.spotify.com/track/2lcmMbNGKgCsM081mwdE36"
@@ -22733,6 +22835,28 @@
     },
     {
       "album": {
+        "name": "Pickles",
+        "url": "https://open.spotify.com/album/1NvyuHEzs3A7dOiP4zm2iQ"
+      },
+      "artists": [
+        {
+          "name": "Kyle Roussel",
+          "url": "https://open.spotify.com/artist/4ZHBxjFO23C2Y2smCt67dG"
+        },
+        {
+          "name": "Preservation Hall Jazz Band",
+          "url": "https://open.spotify.com/artist/2S0rCVs10P1Q0v51wmOrM5"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282562,
+      "name": "Pickles",
+      "url": "https://open.spotify.com/track/4ZylM8818hpzl7Y1ilOJU2"
+    },
+    {
+      "album": {
         "name": "Piece of Mind",
         "url": "https://open.spotify.com/album/7tuIHvQNLrzizQXlh34KPq"
       },
@@ -23343,6 +23467,24 @@
     },
     {
       "album": {
+        "name": "Prince Eugene",
+        "url": "https://open.spotify.com/album/5XCc1gzDzxQLN9DPPyRUXq"
+      },
+      "artists": [
+        {
+          "name": "James Brandon Lewis",
+          "url": "https://open.spotify.com/artist/4vPE7pt5RgtB8cqDqQHhMK"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292333,
+      "name": "Prince Eugene",
+      "url": "https://open.spotify.com/track/3WU50cuEjla6zCEeLxA5zl"
+    },
+    {
+      "album": {
         "name": "Accretion",
         "url": "https://open.spotify.com/album/3pQNk3yX2QciBU96cR06i4"
       },
@@ -23578,7 +23720,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 249431,
       "name": "Purpose Love - Edit",
       "url": "https://open.spotify.com/track/5QuE3QjTqDbOdWzcLfd56P"
@@ -27163,6 +27305,24 @@
     },
     {
       "album": {
+        "name": "Southwood",
+        "url": "https://open.spotify.com/album/0cdAJ8EByPMuMcg8f7xlSb"
+      },
+      "artists": [
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 98000,
+      "name": "Southwood",
+      "url": "https://open.spotify.com/track/1vlR2uBjK3TUM8rcU7F43Z"
+    },
+    {
+      "album": {
         "name": "Soy Califa",
         "url": "https://open.spotify.com/album/7cy9BMX1lz1kCXz5qXGzcf"
       },
@@ -27178,7 +27338,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 392664,
       "name": "Soy Califa",
       "url": "https://open.spotify.com/track/1UZEgyxN7O00QlLXb3vMLx"
@@ -27620,7 +27780,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 398369,
       "name": "Step Ahead",
       "url": "https://open.spotify.com/track/4kx5HMY4HZ3YYe2x9XZU5h"
@@ -29250,6 +29410,24 @@
       "duration_ms": 252971,
       "name": "That's the Way It Is",
       "url": "https://open.spotify.com/track/2cQUpeNPocwLzbybZzm0Gi"
+    },
+    {
+      "album": {
+        "name": "The 23",
+        "url": "https://open.spotify.com/album/4Va3hMfsSeiTGMqI3hMYYT"
+      },
+      "artists": [
+        {
+          "name": "Nels Cline",
+          "url": "https://open.spotify.com/artist/3s6o8vxtYJ1utkWl8EXxUp"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315029,
+      "name": "The 23",
+      "url": "https://open.spotify.com/track/1mfF56nahvXEtBEOxAsxRo"
     },
     {
       "album": {
@@ -31008,7 +31186,7 @@
       ],
       "date_added": "2024-08-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 358520,
       "name": "The Stunt Man",
       "url": "https://open.spotify.com/track/3DDJ34JYZNJgsOpB5i3DdR"
@@ -32968,7 +33146,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 244498,
       "name": "Universal Language",
       "url": "https://open.spotify.com/track/17XLE3fJtYTyP2t7J0zdvk"
@@ -32994,6 +33172,28 @@
       "duration_ms": 154333,
       "name": "Uno a Uno",
       "url": "https://open.spotify.com/track/0sh22MHosEnR7oMDZfryIY"
+    },
+    {
+      "album": {
+        "name": "Uno Punto Uno",
+        "url": "https://open.spotify.com/album/3lQtvxUDtIq73cDM5r3fuE"
+      },
+      "artists": [
+        {
+          "name": "Women In Jazz",
+          "url": "https://open.spotify.com/artist/4gnERVMow3Hd7meSbQ9joi"
+        },
+        {
+          "name": "Rosa Brunello",
+          "url": "https://open.spotify.com/artist/4n5W1O77gHcR2xdTysvsHI"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272810,
+      "name": "Uno Punto Uno",
+      "url": "https://open.spotify.com/track/4kqAWPVIDUzKvP4594U3hE"
     },
     {
       "album": {
@@ -33224,7 +33424,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 330455,
       "name": "Valencia",
       "url": "https://open.spotify.com/track/7B5OKGINZQoicJXUffXFLb"
@@ -34495,6 +34695,24 @@
     },
     {
       "album": {
+        "name": "Wild and Steady",
+        "url": "https://open.spotify.com/album/2vcPFnOKUrwhJQKoo4p7C3"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Wild and Steady",
+      "url": "https://open.spotify.com/track/4y5w91db336cCz1AwPCNna"
+    },
+    {
+      "album": {
         "name": "Wings / Back To Africa",
         "url": "https://open.spotify.com/album/2fmSHB85lXiVxUT8tKwyP2"
       },
@@ -35466,6 +35684,24 @@
       "duration_ms": 225160,
       "name": "Yuca y Magnoca",
       "url": "https://open.spotify.com/track/3gOgwB3kgXvEDIrDo1mAOs"
+    },
+    {
+      "album": {
+        "name": "Zatto",
+        "url": "https://open.spotify.com/album/3zpeZbl6NBa9KJbXpQMrig"
+      },
+      "artists": [
+        {
+          "name": "Nariaki",
+          "url": "https://open.spotify.com/artist/6VhZSXucPwAlDJD1j2Zayk"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 367966,
+      "name": "Zatto",
+      "url": "https://open.spotify.com/track/3mnc8STf3GPV8E9JlA6j4X"
     },
     {
       "album": {

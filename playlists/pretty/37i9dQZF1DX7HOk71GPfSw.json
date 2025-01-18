@@ -1,28 +1,32 @@
 {
   "description": "featuring new music from Babymorocco & Frost Children",
-  "num_followers": 465208,
+  "num_followers": 465210,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1m/KwAAAABkx4zVUGaI4oqH6TBFa3Pc",
+  "snapshot_id": "Z4q28AAAAABEazzVfZq7sJdXRinS4SS3",
   "tracks": [
     {
-      "added_at": "2024-12-11 16:34:51",
+      "added_at": "2024-11-08 18:47:26",
       "album": {
-        "name": "Body Organic Disco Electronic",
-        "url": "https://open.spotify.com/album/1sat7HT0WjqPVnMTWYeTbI"
+        "name": "Bikinis and Trackies (feat. Frost Children)",
+        "url": "https://open.spotify.com/album/0kknMhut1ToMI0xpBAfnCl"
       },
       "artists": [
         {
           "name": "Babymorocco",
           "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        },
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Body Organic Disco Electronic",
-      "url": "https://open.spotify.com/track/61x4U9nM693hq6DiHBJ6N4"
+      "duration_ms": 163200,
+      "name": "Bikinis and Trackies (feat. Frost Children)",
+      "url": "https://open.spotify.com/track/3UtjaTgFZxKN38AkoJ5tED"
     },
     {
       "added_at": "2024-12-11 16:34:51",
@@ -39,6 +43,42 @@
       "duration_ms": 131123,
       "name": "Tenkasu",
       "url": "https://open.spotify.com/track/1d20AkgOlcFqNU2yxg9HrO"
+    },
+    {
+      "added_at": "2025-01-17 20:00:48",
+      "album": {
+        "name": "take me by the hand",
+        "url": "https://open.spotify.com/album/6IShuyiAbqSgjgXVCrHCOr"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        },
+        {
+          "name": "Bladee",
+          "url": "https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1"
+        }
+      ],
+      "duration_ms": 171570,
+      "name": "take me by the hand",
+      "url": "https://open.spotify.com/track/4AHeemjLSF5e1UbGRGCUO4"
+    },
+    {
+      "added_at": "2025-01-17 20:00:48",
+      "album": {
+        "name": "take it slow",
+        "url": "https://open.spotify.com/album/3AMNBMeY5JZYEO5k8mcaeR"
+      },
+      "artists": [
+        {
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
+        }
+      ],
+      "duration_ms": 137842,
+      "name": "take it slow",
+      "url": "https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo"
     },
     {
       "added_at": "2024-11-08 18:47:26",
@@ -97,40 +137,40 @@
       "url": "https://open.spotify.com/track/2NXtYnEeJbRQ3pqngPCHYO"
     },
     {
-      "added_at": "2024-12-03 17:03:01",
+      "added_at": "2024-12-06 05:36:49",
       "album": {
-        "name": "the laced up theory",
-        "url": "https://open.spotify.com/album/4zeikwsYhOpoy4DtR3cvrE"
+        "name": "Sugar Water Cyanide",
+        "url": "https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm"
       },
       "artists": [
         {
-          "name": "Moore Kismet",
-          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+          "name": "Rebecca Black",
+          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
         }
       ],
-      "duration_ms": 233856,
-      "name": "the laced up theory",
-      "url": "https://open.spotify.com/track/6dpxyZUBHIOeTlG4n2CIrt"
+      "duration_ms": 174296,
+      "name": "Sugar Water Cyanide",
+      "url": "https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN"
     },
     {
-      "added_at": "2024-11-08 18:47:26",
+      "added_at": "2025-01-17 20:00:48",
       "album": {
-        "name": "Bikinis and Trackies (feat. Frost Children)",
-        "url": "https://open.spotify.com/album/0kknMhut1ToMI0xpBAfnCl"
+        "name": "All My Fault",
+        "url": "https://open.spotify.com/album/7fiLM8GJ7fRrNZJiE6asBn"
       },
       "artists": [
         {
-          "name": "Babymorocco",
-          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+          "name": "Boy Destroy",
+          "url": "https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g"
         },
         {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+          "name": "AlienBlaze",
+          "url": "https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34"
         }
       ],
-      "duration_ms": 163200,
-      "name": "Bikinis and Trackies (feat. Frost Children)",
-      "url": "https://open.spotify.com/track/3UtjaTgFZxKN38AkoJ5tED"
+      "duration_ms": 164892,
+      "name": "All My Fault",
+      "url": "https://open.spotify.com/track/3Iu2PsD8ZWhF892DS8ffkr"
     },
     {
       "added_at": "2024-11-08 18:47:26",
@@ -147,6 +187,22 @@
       "duration_ms": 192096,
       "name": "BACKSTABBER",
       "url": "https://open.spotify.com/track/6b0eb25qUlz5M5ogTKZqbI"
+    },
+    {
+      "added_at": "2024-12-11 16:34:51",
+      "album": {
+        "name": "Body Organic Disco Electronic",
+        "url": "https://open.spotify.com/album/1sat7HT0WjqPVnMTWYeTbI"
+      },
+      "artists": [
+        {
+          "name": "Babymorocco",
+          "url": "https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Body Organic Disco Electronic",
+      "url": "https://open.spotify.com/track/61x4U9nM693hq6DiHBJ6N4"
     },
     {
       "added_at": "2024-11-08 18:47:26",
@@ -167,6 +223,30 @@
       "duration_ms": 195000,
       "name": "Matter of Time",
       "url": "https://open.spotify.com/track/1vU5cy9TLV4Vd8uUURhWHq"
+    },
+    {
+      "added_at": "2025-01-17 20:00:48",
+      "album": {
+        "name": "HPPY",
+        "url": "https://open.spotify.com/album/4yHbESvSRx9MsNlSfzME1z"
+      },
+      "artists": [
+        {
+          "name": "Wisdom Salad",
+          "url": "https://open.spotify.com/artist/1zQNIxfbliyVeHMpy75kVd"
+        },
+        {
+          "name": "Hasan Raheem",
+          "url": "https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V"
+        },
+        {
+          "name": "Shamsher Rana",
+          "url": "https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk"
+        }
+      ],
+      "duration_ms": 100500,
+      "name": "HPPY",
+      "url": "https://open.spotify.com/track/23v0PzHzkbddnDw43uaWFc"
     },
     {
       "added_at": "2024-12-06 05:36:49",
@@ -225,6 +305,22 @@
       "url": "https://open.spotify.com/track/4dl64UyUWHugKLFzVTRpjQ"
     },
     {
+      "added_at": "2024-12-03 17:03:01",
+      "album": {
+        "name": "the laced up theory",
+        "url": "https://open.spotify.com/album/4zeikwsYhOpoy4DtR3cvrE"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "duration_ms": 233856,
+      "name": "the laced up theory",
+      "url": "https://open.spotify.com/track/6dpxyZUBHIOeTlG4n2CIrt"
+    },
+    {
       "added_at": "2024-10-11 04:00:00",
       "album": {
         "name": "gold",
@@ -241,20 +337,28 @@
       "url": "https://open.spotify.com/track/74PYQHEdWRBPtLcJh5tzJj"
     },
     {
-      "added_at": "2024-12-06 05:36:49",
+      "added_at": "2025-01-17 20:00:48",
       "album": {
-        "name": "Sugar Water Cyanide",
-        "url": "https://open.spotify.com/album/4bR7ncoAX6DOX55QKJBtnm"
+        "name": "F*Me",
+        "url": "https://open.spotify.com/album/5n9y2KxRgl817mLecTNKxH"
       },
       "artists": [
         {
-          "name": "Rebecca Black",
-          "url": "https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9"
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Yseult",
+          "url": "https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX"
         }
       ],
-      "duration_ms": 174296,
-      "name": "Sugar Water Cyanide",
-      "url": "https://open.spotify.com/track/5o8owuQvK4fjGv6QFRZTvN"
+      "duration_ms": 188348,
+      "name": "F*Me",
+      "url": "https://open.spotify.com/track/2uQW9N6ObJYPV9HKgl1AAH"
     },
     {
       "added_at": "2024-11-08 18:47:26",
@@ -351,6 +455,26 @@
       "duration_ms": 129600,
       "name": "abandon",
       "url": "https://open.spotify.com/track/1f495HskURAOHqW7e0PVoz"
+    },
+    {
+      "added_at": "2025-01-17 20:00:48",
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/2WQjxNKWt8zORRfowxOPgN"
+      },
+      "artists": [
+        {
+          "name": "dark0wa",
+          "url": "https://open.spotify.com/artist/71DzcVT1Deu8uS7LIkTn53"
+        },
+        {
+          "name": "Spr1te",
+          "url": "https://open.spotify.com/artist/3XHSXSRk6VlYeU47uM8VZP"
+        }
+      ],
+      "duration_ms": 215849,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/3X4EBOzErbpQQSzUMRYuhe"
     },
     {
       "added_at": "2024-11-08 18:47:26",
@@ -497,6 +621,22 @@
       "url": "https://open.spotify.com/track/4It7yKYR3zPhA3mVtKNqd5"
     },
     {
+      "added_at": "2025-01-17 20:00:48",
+      "album": {
+        "name": "UFO",
+        "url": "https://open.spotify.com/album/5vIcrjrF1yaAJdKyopmh1H"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        }
+      ],
+      "duration_ms": 159023,
+      "name": "UFO",
+      "url": "https://open.spotify.com/track/1jovTsvEEuyIndZVGFSuIB"
+    },
+    {
       "added_at": "2024-10-04 05:00:00",
       "album": {
         "name": "Babestation",
@@ -549,6 +689,22 @@
       "url": "https://open.spotify.com/track/33Wh5qaiRVWuVIDnGGNlHh"
     },
     {
+      "added_at": "2025-01-17 20:00:48",
+      "album": {
+        "name": "Jealous",
+        "url": "https://open.spotify.com/album/4YDEa8f93zLbeECOccSLEU"
+      },
+      "artists": [
+        {
+          "name": "Ennaria",
+          "url": "https://open.spotify.com/artist/0vKadOdp1SPc45oHfkZd4U"
+        }
+      ],
+      "duration_ms": 241504,
+      "name": "Jealous",
+      "url": "https://open.spotify.com/track/1sRJhYROHuEeVWYle3jqwl"
+    },
+    {
       "added_at": "2024-10-03 18:36:45",
       "album": {
         "name": "SOPHIE",
@@ -599,6 +755,22 @@
       "duration_ms": 136783,
       "name": "re:laced.up",
       "url": "https://open.spotify.com/track/3UtylcU8x9gSnwBU999fJ8"
+    },
+    {
+      "added_at": "2025-01-17 20:00:48",
+      "album": {
+        "name": "T-Shirt",
+        "url": "https://open.spotify.com/album/04G7zMgiTnEHbU7cXiDRva"
+      },
+      "artists": [
+        {
+          "name": "Baby B3ns",
+          "url": "https://open.spotify.com/artist/0geGEoVXjWIz38cw8JcqVP"
+        }
+      ],
+      "duration_ms": 161520,
+      "name": "T-Shirt",
+      "url": "https://open.spotify.com/track/2c8wDars3qvBW5v5SAEDPH"
     },
     {
       "added_at": "2024-12-06 05:36:49",

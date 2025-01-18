@@ -2503,6 +2503,28 @@
     },
     {
       "album": {
+        "name": "Apenas pueda",
+        "url": "https://open.spotify.com/album/1Nalf7WuQ0q4e0cz59OCRY"
+      },
+      "artists": [
+        {
+          "name": "Suriz",
+          "url": "https://open.spotify.com/artist/04t82TUVuwxJcATzDFlHKK"
+        },
+        {
+          "name": "Skinnybear",
+          "url": "https://open.spotify.com/artist/21QhTrfHb0nFfpu03MwPua"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Apenas pueda",
+      "url": "https://open.spotify.com/track/7hFsWXXOOnOEVFn2zyPKVL"
+    },
+    {
+      "album": {
         "name": "Aqu\u00ed Sigo (Remix)",
         "url": "https://open.spotify.com/album/0k111CK5XkSEH9hFObcrYu"
       },
@@ -14140,7 +14162,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 183544,
       "name": "Ignorant / Steppers",
       "url": "https://open.spotify.com/track/25gluWq8OjXg0GgOKQsaX8"
@@ -17310,7 +17332,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 93692,
       "name": "LUV",
       "url": "https://open.spotify.com/track/3hNP7m8eKl91hL9J0hq2Ct"

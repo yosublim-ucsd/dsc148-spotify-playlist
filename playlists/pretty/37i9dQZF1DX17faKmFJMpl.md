@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 
 > 한국 힙합의 뿌리, 올드스쿨 한국 힙합을 만나보세요\. \(커버: Tiger JK\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,181 likes - 100 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,184 likes - 100 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX17faKmFJMpl.md) - [plain]
 | 57 | [엉터리 학생](https://open.spotify.com/track/44S4m3SbKCTQmS23BsNhNr) | [Honey Family](https://open.spotify.com/artist/0Wv8nB1Ld3I7SdxKeHkxmX) | [HONEY FAMILY](https://open.spotify.com/album/10rITeUipFURVOLf0PwJ7T) | 4:13 |
 | 58 | [Be Free \(feat\. Verbal Jint, Sean2Slow\)](https://open.spotify.com/track/7cBNp79z2hlEV0YfaaZtDA) | [Infinite Flow \(I.F\)](https://open.spotify.com/artist/3AoHwyG0A5hOD0EywkjsSc), [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR), [Sean2Slow](https://open.spotify.com/artist/4pdMtDzWCUoc08AhVOwWNU) | [We Are Music](https://open.spotify.com/album/42MwGnXRAsCAdqHiy0sZcJ) | 4:19 |
 | 59 | [History In The Making \- 2021 Remaster](https://open.spotify.com/track/4wZMRcybEBblgIIwlupPbP) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [Modern Rhymes XX](https://open.spotify.com/album/7wlc3uHwiee43xSpOwFUWa) | 3:42 |
-| 60 | [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 |
+| 60 | [Around Us](https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy) | [K.O.D](https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:36 |
 | 61 | [생긴대로 놀아 \(feat\. Juvie Train & Koonta\)](https://open.spotify.com/track/2sFF5YXdrsC39zLEERtmjV) | [DEEPFLOW](https://open.spotify.com/artist/4E7PyG6Vo26X1I9qURf45z), [Juvie Train](https://open.spotify.com/artist/2CEVA02kVlfCD2ASpvadw4), [KOONTA](https://open.spotify.com/artist/5T8LKv9A1vEnwMCO4dMo3c) | [Heavy Deep](https://open.spotify.com/album/5BCPxcdCSPOy5MdLR9HN9S) | 4:23 |
-| 62 | [Around Us](https://open.spotify.com/track/7ILCIKDNwYcKoT4LnvzYLy) | [K.O.D](https://open.spotify.com/artist/6jk1JvRWsPN3cEdkp5Qc5u) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:36 |
+| 62 | [불한당's oblige](https://open.spotify.com/track/52pVTfenFprVcvSunAqBxc) | [P\-Type](https://open.spotify.com/artist/7ngC61jtmmjDi2vbJRG3yq) | [절충 3 : 불한당들의 진입과 전투 Pt\. 1](https://open.spotify.com/album/3YBfM7wRxpAj4coq2Y6vJz) | 3:20 |
 | 63 | [Platonic](https://open.spotify.com/track/0fNcOzC0pEqanUltpHsoD4) | [Side B](https://open.spotify.com/artist/2RYBJ332TJNMmPoh0JiXMy) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:23 |
 | 64 | [Beatz 4 Da Streetz](https://open.spotify.com/track/5YkF8ZCdSM0ISElJx2pig7) | [Joosuc](https://open.spotify.com/artist/38Q6PDXhnt4Riuj5DxqRhf) | [MP Hip Hop 2001 대박](https://open.spotify.com/album/3vANbrXhS13NTEmvy3F7Y1) | 4:09 |
 | 65 | [Bulldozer](https://open.spotify.com/track/1rsiw9PsbKWSb1O2QGXMHy) | [Swings](https://open.spotify.com/artist/6F5tPDq3TIduDv2ki6O1Oq) | [Bulldozer](https://open.spotify.com/album/01fJjO7rrzQ8mn6Efrkbbe) | 3:24 |

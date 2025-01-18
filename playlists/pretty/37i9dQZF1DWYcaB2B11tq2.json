@@ -1,6 +1,6 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcos Witt",
-  "num_followers": 445393,
+  "num_followers": 445575,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "DTOX",
-        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
-      },
-      "artists": [
-        {
-          "name": "Alex Zurdo",
-          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
-        },
-        {
-          "name": "AZ Family",
-          "url": "https://open.spotify.com/artist/1aRYbnVZVADi825ka29635"
-        }
-      ],
-      "duration_ms": 222131,
-      "name": "Cuando Yo Te Conoc\u00ed",
-      "url": "https://open.spotify.com/track/69hFBsRNHaKuCkraGiExgA"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Uniendo Cielo Y Tierra",
         "url": "https://open.spotify.com/album/7BpTjCxgEwUfSNloEOuU7W"
       },
@@ -511,6 +491,26 @@
       "duration_ms": 601586,
       "name": "Al Que Est\u00e1 Sentado En el Trono (feat. Lucas Conslie)",
       "url": "https://open.spotify.com/track/499FGrXrU5vMuuh9EG0vEU"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "DTOX",
+        "url": "https://open.spotify.com/album/3Pe3gBLsaciO2Oae7Q5pw1"
+      },
+      "artists": [
+        {
+          "name": "Alex Zurdo",
+          "url": "https://open.spotify.com/artist/0WI8OfWCRvK4nGHmKfFQmd"
+        },
+        {
+          "name": "AZ Family",
+          "url": "https://open.spotify.com/artist/1aRYbnVZVADi825ka29635"
+        }
+      ],
+      "duration_ms": 222131,
+      "name": "Cuando Yo Te Conoc\u00ed",
+      "url": "https://open.spotify.com/track/69hFBsRNHaKuCkraGiExgA"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -899,22 +899,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "En Esto Creo (Live)",
-        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 259613,
-      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
-      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Jes\u00fas en el Centro (En Vivo)",
         "url": "https://open.spotify.com/album/4vBRmMYDBILOKwtIeXm9EK"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 402626,
       "name": "Jesus En El Centro - Live",
       "url": "https://open.spotify.com/track/1Nrx8iiWCJWxn6OrVuREz3"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "En Esto Creo (Live)",
+        "url": "https://open.spotify.com/album/5krvA7IxNpPXSPFZdZUedg"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 259613,
+      "name": "Oc\u00e9anos (Donde Mis Pies Pueden Fallar) - Live",
+      "url": "https://open.spotify.com/track/2lyyDJyp9EWJ28drEu1PZv"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
+        "name": "Ante Tu Altar (Tour Edition) [Live]",
+        "url": "https://open.spotify.com/album/6laEQlL6119G9GUAjdnXIc"
+      },
+      "artists": [
+        {
+          "name": "Averly Morillo",
+          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
+        }
+      ],
+      "duration_ms": 497127,
+      "name": "\u00bfQui\u00e9n Podr\u00e1? - Live",
+      "url": "https://open.spotify.com/track/6NU3tnaJXjFxY9ZB4JRmvq"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
         "name": "Tranz4mando el Universo (Los Legendarios Presenta Triple Seven)",
         "url": "https://open.spotify.com/album/5oHA1GyW3JXvVPmpY8sCXX"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 408026,
       "name": "Vine a Adorarte (feat. Marcela G\u00e2ndara)",
       "url": "https://open.spotify.com/track/6MB7lTUlKuJi8WBSa5V7FR"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "Ante Tu Altar (Tour Edition) [Live]",
-        "url": "https://open.spotify.com/album/6laEQlL6119G9GUAjdnXIc"
-      },
-      "artists": [
-        {
-          "name": "Averly Morillo",
-          "url": "https://open.spotify.com/artist/40oCnQkoBkpfTohVnTf40S"
-        }
-      ],
-      "duration_ms": 497127,
-      "name": "\u00bfQui\u00e9n Podr\u00e1? - Live",
-      "url": "https://open.spotify.com/track/6NU3tnaJXjFxY9ZB4JRmvq"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Humano",
-        "url": "https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 180229,
-      "name": "Humano",
-      "url": "https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Vivir",
         "url": "https://open.spotify.com/album/3hiOeTkrqLVWDemApjlois"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 285288,
       "name": "Yo Tengo un Nuevo Amor",
       "url": "https://open.spotify.com/track/6sbYCeaRR96YVxQCdG10qd"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Humano",
+        "url": "https://open.spotify.com/album/7FUlsDT6g65ZB1lAi1CTSx"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 180229,
+      "name": "Humano",
+      "url": "https://open.spotify.com/track/0YoMzVYRo37ckKpn6pTdhV"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1439,22 +1439,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Todos Unidos (Discograf\u00eda Completa)",
-        "url": "https://open.spotify.com/album/1XgXnV9pF7ITKOaOf6EPrs"
-      },
-      "artists": [
-        {
-          "name": "Jackson Gomez",
-          "url": "https://open.spotify.com/artist/3HsDckNcQ0EqJ5HhhodhCP"
-        }
-      ],
-      "duration_ms": 344283,
-      "name": "Leon de Jud\u00e1",
-      "url": "https://open.spotify.com/track/3rCg0CNahe2SnzGefriBgO"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Dios de Lo Imposible",
         "url": "https://open.spotify.com/album/56F3pXYyl8HDFvgfazVAFo"
       },
@@ -1471,22 +1455,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Glorioso D\u00eda",
-        "url": "https://open.spotify.com/album/79lisODI2SlbY69xklS6kE"
-      },
-      "artists": [
-        {
-          "name": "Lucas Conslie",
-          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
-        }
-      ],
-      "duration_ms": 430869,
-      "name": "Glorioso D\u00eda",
-      "url": "https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Cordero Inmolado (Live)",
         "url": "https://open.spotify.com/album/4nHUmEs17FbQwjhm5O43RY"
       },
@@ -1499,6 +1467,38 @@
       "duration_ms": 995605,
       "name": "Cordero Inmolado - Live",
       "url": "https://open.spotify.com/track/1vF4AjVzhyGYqy7MQRpw35"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Todos Unidos (Discograf\u00eda Completa)",
+        "url": "https://open.spotify.com/album/1XgXnV9pF7ITKOaOf6EPrs"
+      },
+      "artists": [
+        {
+          "name": "Jackson Gomez",
+          "url": "https://open.spotify.com/artist/3HsDckNcQ0EqJ5HhhodhCP"
+        }
+      ],
+      "duration_ms": 344283,
+      "name": "Leon de Jud\u00e1",
+      "url": "https://open.spotify.com/track/3rCg0CNahe2SnzGefriBgO"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Glorioso D\u00eda",
+        "url": "https://open.spotify.com/album/79lisODI2SlbY69xklS6kE"
+      },
+      "artists": [
+        {
+          "name": "Lucas Conslie",
+          "url": "https://open.spotify.com/artist/20uZDxss82sidLBxEyjnD1"
+        }
+      ],
+      "duration_ms": 430869,
+      "name": "Glorioso D\u00eda",
+      "url": "https://open.spotify.com/track/2brWbcadjJi6XagaBC04Pd"
     },
     {
       "added_at": "2024-12-11 11:03:37",
@@ -1691,42 +1691,6 @@
     {
       "added_at": "2024-12-11 11:03:37",
       "album": {
-        "name": "Ante Ti",
-        "url": "https://open.spotify.com/album/185S8AFFL2ZHGzg107Oy8d"
-      },
-      "artists": [
-        {
-          "name": "Jennifer Salinas",
-          "url": "https://open.spotify.com/artist/7GudoSqEQavoY6X5CtYTp9"
-        }
-      ],
-      "duration_ms": 336900,
-      "name": "Ante Ti",
-      "url": "https://open.spotify.com/track/4VPQcpABzjTFFQvypXA1fg"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
-        "name": "La Bater\u00eda",
-        "url": "https://open.spotify.com/album/6G8BppUXH9y4TKv7fi39iM"
-      },
-      "artists": [
-        {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        },
-        {
-          "name": "Nxtwave",
-          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
-        }
-      ],
-      "duration_ms": 175942,
-      "name": "La Bater\u00eda",
-      "url": "https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs"
-    },
-    {
-      "added_at": "2024-12-11 11:03:37",
-      "album": {
         "name": "Aproape de Tine",
         "url": "https://open.spotify.com/album/7dIcBnTIrOLKcodyuYv7hQ"
       },
@@ -1779,6 +1743,42 @@
       "duration_ms": 230377,
       "name": "Tu Luz",
       "url": "https://open.spotify.com/track/0xBHLeeNrqMXDcxDyCCiO8"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "Ante Ti",
+        "url": "https://open.spotify.com/album/185S8AFFL2ZHGzg107Oy8d"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Salinas",
+          "url": "https://open.spotify.com/artist/7GudoSqEQavoY6X5CtYTp9"
+        }
+      ],
+      "duration_ms": 336900,
+      "name": "Ante Ti",
+      "url": "https://open.spotify.com/track/4VPQcpABzjTFFQvypXA1fg"
+    },
+    {
+      "added_at": "2024-12-11 11:03:37",
+      "album": {
+        "name": "La Bater\u00eda",
+        "url": "https://open.spotify.com/album/6G8BppUXH9y4TKv7fi39iM"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Nxtwave",
+          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
+        }
+      ],
+      "duration_ms": 175942,
+      "name": "La Bater\u00eda",
+      "url": "https://open.spotify.com/track/4dDmjpzqtIB0aw7AyrseKs"
     },
     {
       "added_at": "2024-12-11 11:03:37",

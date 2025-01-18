@@ -1,12 +1,12 @@
 {
   "description": "This is Brandi Carlile. The essential tracks, all in one playlist.",
-  "num_followers": 112880,
+  "num_followers": 112886,
   "original_name": "This Is Brandi Carlile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4WpAAAAAAAlGKo2Y59C9Vdgx3+BEbpD",
+  "snapshot_id": "Z4hMAAAAAAC8ggpALjx8QeAJjuK3oXfM",
   "tracks": [
     {
       "added_at": null,
@@ -999,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Firewatcher's Daughter",
-        "url": "https://open.spotify.com/album/5ZpxRLVRkCZ2BXXW1KYbTB"
+        "name": "Broken Hearts & Dirty Windows: Songs of John Prine, Vol. 2",
+        "url": "https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70"
       },
       "artists": [
         {
@@ -1008,9 +1008,9 @@
           "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
         }
       ],
-      "duration_ms": 206268,
-      "name": "The Things I Regret",
-      "url": "https://open.spotify.com/track/2zbVdL6Htw7heJDjbBBEcs"
+      "duration_ms": 156973,
+      "name": "I Remember Everything",
+      "url": "https://open.spotify.com/track/7Gx9IYUjSClP29kCeMruVu"
     }
   ],
   "unique_name": "This Is Brandi Carlile",

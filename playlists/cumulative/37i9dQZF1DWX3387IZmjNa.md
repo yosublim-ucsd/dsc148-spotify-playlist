@@ -4,7 +4,7 @@
 
 > Hip\-Hop + R&B: Before\. Anything\. Else\. Cover: Loe Shimmy
 
-645 songs - 1 day 8 hr 31 min
+646 songs - 1 day 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,7 +272,7 @@
 | [In Touch](https://open.spotify.com/track/0ZiEInpnUrUD0T3WIFMIW9) | [Dreezy](https://open.spotify.com/artist/7gWumE1wMALHXANLSIt054), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [HITGIRL](https://open.spotify.com/album/2J9CZL9gMrruzFq3SnIlMm) | 2:44 | 2022-05-20 | 2022-09-17 |
 | [In Your Hands \(feat\. Ty Dolla $ign\)](https://open.spotify.com/track/52pTh7e1s3Sy9wjpuZv1eo) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [Hot Commodity](https://open.spotify.com/album/7izAmu5sQIaqaKtXmqW5Dl) | 2:21 | 2023-10-06 | 2023-10-14 |
 | [India Me](https://open.spotify.com/track/3WWky2z2RbCuWmMJHJL5Rc) | [SleazyWorld Go](https://open.spotify.com/artist/7FOQfJbC3e4GNoheojERnF) | [India Me](https://open.spotify.com/album/1vPxv5pAUpEJORNnjwogar) | 3:03 | 2022-08-26 | 2022-10-29 |
-| [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 | 2024-11-15 |  |
+| [Insecurities](https://open.spotify.com/track/6afQ4fJDJ9QqU5BKIH99Ej) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Insecurities](https://open.spotify.com/album/2g28Q65tnnBD8TaCAFpdQi) | 2:07 | 2024-11-15 | 2025-01-18 |
 | [Intentions \(feat\. Hunxho\)](https://open.spotify.com/track/6KcHNmb0ISeoKnIZhCbbLU) | [Lil Darius](https://open.spotify.com/artist/2QFzplw4w06o3HuBhjrPnn), [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [Intentions \(feat\. Hunxho\)](https://open.spotify.com/album/2vT1OjbnmGuFLhaw4nN8Ah) | 2:45 | 2024-07-26 | 2024-09-21 |
 | [Is There Someone New?](https://open.spotify.com/track/0994zyvjadFAqOkl5ak8Uo) | [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Jeremy](https://open.spotify.com/album/5X7h8P7D3blxtgexUNAyV3) | 2:32 | 2024-04-26 | 2024-06-08 |
 | [It's About A Girl](https://open.spotify.com/track/2tKXH7NdVrrjDvQrv9CCVd) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [It's About A Girl](https://open.spotify.com/album/3wZCwdtuCqWVuygemGAVGL) | 3:21 | 2021-10-07\* | 2021-10-23 |
@@ -559,6 +559,7 @@
 | [Time Goes By](https://open.spotify.com/track/55KbAuNeK5FFQEnR9sY1QS) | [YK Osiris](https://open.spotify.com/artist/7meyrw7Or5DwteYxDJrkCM) | [Time Goes By](https://open.spotify.com/album/7DRjRkSC5t3EJeMiN4Tpc4) | 2:38 | 2024-02-02 | 2024-04-27 |
 | [To Summer, From Cole \- Audio Hug](https://open.spotify.com/track/2f86Ae3R4OKAu1lEIqouih) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [CLEAR 2: SOFT LIFE EP](https://open.spotify.com/album/034Q9kY3buGcizT3Xpj9Re) | 2:27 | 2023-07-07 | 2024-02-17 |
 | [Too Deep](https://open.spotify.com/track/27SWMXDonOi2apKXgj5EYM) | [Kodie Shane](https://open.spotify.com/artist/1CUeN4GnHAGUk9nAXPorF4) | [Too Deep](https://open.spotify.com/album/0HfOaaQirIIiwkcJWkLfBN) | 2:19 | 2024-03-08 | 2024-03-30 |
+| [Too Many Women \(feat\. kwn\)](https://open.spotify.com/track/27phUMXA53CLokQgatsJaz) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [Too Many Women \(feat\. kwn\)](https://open.spotify.com/album/26iaTdQU3Ce1IC4Bfz6L6V) | 1:58 | 2025-01-17 |  |
 | [Too Much](https://open.spotify.com/track/2sZmxXCO6mZCPTHd6DRcBH) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 3:47 | 2021-10-07\* | 2021-12-04 |
 | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/track/4rm5u0dOb7eVBpsB4hsP6g) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Skye Morales](https://open.spotify.com/artist/7aqNn14e0HTC6IU6yuGx4p) | [Took My Breath Away \(feat\. Skye Morales\)](https://open.spotify.com/album/0OvsEm90C9FfkKSNnDwhGw) | 3:00 | 2023-06-16 | 2023-07-08 |
 | [Touch You](https://open.spotify.com/track/6ISm3GwztEFGsDKuF2X8fl) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [Touch You](https://open.spotify.com/album/4Mk7V7BkcDEobk4xs7HTft) | 2:38 | 2021-10-07\* | 2021-10-23 |

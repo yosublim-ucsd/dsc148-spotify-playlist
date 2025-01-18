@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\. \| Request songs @ Furrest.Online
 
-268 songs - 14 hr 19 min
+271 songs - 14 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Delete All Your Socials](https://open.spotify.com/track/0FXg5omnMhBUbGBhMjSGZC) | [delle](https://open.spotify.com/artist/7BE9ycKGxDTdID7BN4oPcF) | [Bay Area Demon](https://open.spotify.com/album/0TmiQoUOsXrnvmY1VoJGNz) | 2:22 | 2024-07-22 |  |
 | [Determination](https://open.spotify.com/track/6xnYqujJZOarqDQ0HGGUeR) | [Duzzled](https://open.spotify.com/artist/0GhzKJWv9t65ln61aRlywb), [Zane de Klerk](https://open.spotify.com/artist/6P203pkgmGipAdomu0a3cH) | [Determination](https://open.spotify.com/album/4HXshGxrNPjY2etRb02SxM) | 2:34 | 2023-06-14 |  |
 | [diaries of a small town](https://open.spotify.com/track/6maCQUoO6Ld9GwK1fN0NYQ) | [RUDEDOG](https://open.spotify.com/artist/67Mz6SeKa3JJo65q9zGK2P) | [diaries of a small town](https://open.spotify.com/album/1VQNdZ6m27lRsuPXJyiwX7) | 4:03 | 2024-11-18 |  |
+| [DIGITAL](https://open.spotify.com/track/3Ex7txNb9xZYMqPNV6i837) | [BASSDOG](https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU) | [DIGITAL](https://open.spotify.com/album/6pO4KZg5p64j4jy6A0gVac) | 3:18 | 2025-01-18 |  |
 | [Dimensional Psychic Rift](https://open.spotify.com/track/0EmPe6LKa2CBZ9KqjmZBEt) | [KweenCephi](https://open.spotify.com/artist/5oLCu2fxPnNatOrRoclO3n) | [Ghost Bounty Hunter](https://open.spotify.com/album/7yt1fLy831HgXf0LRGaVcf) | 2:28 | 2023-06-14 |  |
 | [DINNER!](https://open.spotify.com/track/0zeJA3ABeJ0ZuziPetWBl3) | [femtanyl](https://open.spotify.com/artist/53e9n1LucuH3guikmtv180) | [DINNER!](https://open.spotify.com/album/6YbAqDsUx7KxcK3eoOZtk0) | 2:16 | 2024-02-17 | 2024-12-20 |
 | [Distraction](https://open.spotify.com/track/7iV6Qd17zrFGLSimz2CbDG) | [Multi Fox](https://open.spotify.com/artist/1YPaCMVNOqU6ZTICZPgsTs) | [Bits & Bytes, Vol\. 1](https://open.spotify.com/album/2gERJhdpyprBByroGo4oEM) | 3:56 | 2024-06-04 |  |
@@ -91,6 +92,7 @@
 | [FERAL](https://open.spotify.com/track/6Ladd0JIHbBKDqH6jRj1XP) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:21 | 2024-07-22 |  |
 | [Fetch.](https://open.spotify.com/track/7bOUBE0BeEXUpuztG62y0X) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [Fetch.](https://open.spotify.com/album/35Ap3et5kzcEUwHmd8b8sg) | 2:30 | 2024-07-22 |  |
 | [Fetish](https://open.spotify.com/track/2ld8OXTfS16XTEkv2fu3sH) | [delcarmen](https://open.spotify.com/artist/0HTHt3sXvPqKnV9KfPzOgU) | [delcarmen](https://open.spotify.com/album/3RkyZBjxQae3qOD90QTB1c) | 2:45 | 2024-08-15 |  |
+| [Fight For You](https://open.spotify.com/track/112hvUfQjrjaYxZo1cUCct) | [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Fight For You](https://open.spotify.com/album/2WtVCMJcru3ZMipJjOrmWi) | 2:05 | 2025-01-18 |  |
 | [Fly Away \- 2024 Remaster](https://open.spotify.com/track/5hyr4avaVh2OZLG7DPGhGk) | [OSVLD](https://open.spotify.com/artist/5sEPLBlT091Kqqt58rCqlM), [Aural Alliance](https://open.spotify.com/artist/5w8crpjE8OAqon6Z0brpRu) | [Fly Away \(2024 Remaster\)](https://open.spotify.com/album/7y2pnziJyQTHkr10J2zy8G) | 3:51 | 2024-02-09 |  |
 | [Fox Boy](https://open.spotify.com/track/6Znko1vwkXU7ebLmQ0Nl4E) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Fox Boy](https://open.spotify.com/album/68m9JFPkoH54ntMsCh2niB) | 4:00 | 2023-06-14 |  |
 | [Fratricide](https://open.spotify.com/track/7a6Q9vKtA9oPU08XZSOGR9) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Moka](https://open.spotify.com/artist/4W6v3SkHwSbsdCkJrzQLXl) | [Fratricide](https://open.spotify.com/album/6yzq6H3QI7ylehs1yZ4z3G) | 3:40 | 2023-08-07 |  |
@@ -191,6 +193,7 @@
 | [Pretty Life](https://open.spotify.com/track/5PEOCbho8hqAIJHk3Bxmie) | [Whsprs](https://open.spotify.com/artist/6Eu37PvzuV9ylWqU9G5z3h) | [Pretty Life](https://open.spotify.com/album/79u9U7lJ41Tdh6maa1wPGE) | 3:11 | 2023-06-14 |  |
 | [pulsar](https://open.spotify.com/track/4mvO5VCVcgQmpaj9rm6aNq) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 2:24 | 2024-11-18 |  |
 | [Punching Bag](https://open.spotify.com/track/0nLEEvXYj3G63yq06rLMTd) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [AlphaFXRE](https://open.spotify.com/artist/1gvvMvEXsRKbPMZCYFdE8m) | [D.Y.H.H.](https://open.spotify.com/album/0Ehm7iU4wjsp0wuYizhzmA) | 2:33 | 2023-10-30 |  |
+| [PUNCTURE WOUND](https://open.spotify.com/track/7j9CLBCltNLLWSkRkCnFm0) | [GABUISLOST](https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH) | [PUNCTURE WOUND](https://open.spotify.com/album/6UB47krwdiR2eKER9X0e5j) | 3:11 | 2025-01-18 |  |
 | [Raised by Aliens](https://open.spotify.com/track/5ezyCaoc5XiVdkpRYWeyG5) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 3:05 | 2024-12-06 |  |
 | [Rambley Review](https://open.spotify.com/track/6l1v42VTPQJxtqcZ5uWvqR) | [RecD](https://open.spotify.com/artist/6cqXqS5Iemewz8MolkBTdY), [Jakeneutron](https://open.spotify.com/artist/7kk9WfnMdCB0K2oEz1ISYD), [OtterBoyVA](https://open.spotify.com/artist/3VbB6AbCIBTjy7tS2ha410) | [Indigo Park, Chapter 1 \(Original Game Soundtrack\)](https://open.spotify.com/album/3iuF2S6yTMyvTEhwiVSLJu) | 3:19 | 2024-06-03 |  |
 | [Rawr :3](https://open.spotify.com/track/4l2N91QX3yW3jc94RQ9378) | [Lilvzexy](https://open.spotify.com/artist/70gmOi8Mk9xG69yTicnvBi) | [Rawr :3](https://open.spotify.com/album/1Pz50tlzfchpsbVr6SaCf8) | 2:00 | 2023-12-28 |  |

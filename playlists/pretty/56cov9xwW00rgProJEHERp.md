@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/56cov9xwW00rgProJEHERp.md) - [plain]
 | 59 | [Felt Too Good!](https://open.spotify.com/track/2LI1mrR3LCyQitVw6vHBdX) | [Jesse Gold](https://open.spotify.com/artist/0ScLk4lNexNrtkDmGQicRx) | [Felt Too Good!](https://open.spotify.com/album/4dxyVZMH7oFr3OjpHef5l4) | 3:04 |
 | 60 | [I'm The Leader](https://open.spotify.com/track/6c4B0ZzFfUDB38JYwoZ9TM) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [I'm The Leader](https://open.spotify.com/album/7mBUrXQwDZ78xjZ6OVPIFu) | 2:46 |
 
-Snapshot ID: `AAAU68oXFo6gvE+9H9FgQgg5Gjgd/676`
+Snapshot ID: `AAAU7W/iMh414KDudm3dXdygdbK68SOV`

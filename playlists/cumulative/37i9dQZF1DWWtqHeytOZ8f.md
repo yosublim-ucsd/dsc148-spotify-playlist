@@ -4,7 +4,7 @@
 
 > Contemplate the universe in a bottle of friendly colored magma.
 
-639 songs - 2 day 9 hr 41 min
+640 songs - 2 day 9 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [...og lengra \- Orchestral Version](https://open.spotify.com/track/3l9lClq76p5PARSFPvaj1S) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia), [Royal Liverpool Philharmonic Orchestra](https://open.spotify.com/artist/6I6fmQU7HGrUsCm4B5Nlk3), [Robert Ames](https://open.spotify.com/artist/0TArUQakaqRxFMynA8vA7q) | [...og lengra \(Orchestral Version\)](https://open.spotify.com/album/2DJsCZ0wRj07W4H6JAiuly) | 3:48 | 2021-10-20 |  |
 | [1/2 SCULPTURE](https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz) | 8:11 | 2021-10-20 | 2022-07-29 |
 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 | 2023-04-15 |
+| [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 |  |
 | [13](https://open.spotify.com/track/7u5Flib6Wqt4dJ6NRhIXu9) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x), [Henrik Meierkord](https://open.spotify.com/artist/1P3kpCPt72YWzJDjJ1Ii8D), [Sole Gipp Ossler](https://open.spotify.com/artist/4W6WFc9Q6Zx4SkrfO94D9W) | [Nights](https://open.spotify.com/album/3OgylkCHfph806816TzkGN) | 7:06 | 2024-09-16 |  |
 | [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 |  |
 | [2020\-03\-05](https://open.spotify.com/track/2qc2up4l8rJvB0WNUm5rIa) | [Lake of Chabarovsk](https://open.spotify.com/artist/189hdvnlY4adQK6aAQ65fl) | [2020\-03\-05](https://open.spotify.com/album/11LYjZ54JzFiZmWfO0gV3B) | 2:46 | 2021-10-20 | 2022-07-29 |
@@ -557,7 +558,7 @@
 | [The Psychedelic One](https://open.spotify.com/track/4R9SrmMdJK2kQCWuZjzOsg) | [Oils](https://open.spotify.com/artist/3Q2M9TPSdCOUOw0IStqvdI) | [Between Voids](https://open.spotify.com/album/0ledrPUfebeLTGu1Lr4DQE) | 4:28 | 2022-03-30 |  |
 | [The Quaking Mess](https://open.spotify.com/track/0Yd9nY8GQExedAjm18b0Wr) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv), [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By), [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Solar Bridge](https://open.spotify.com/album/5XvuOSe15rwQZdNUlaIrg7) | 14:15 | 2024-01-11 | 2024-12-10 |
 | [The Rhythm Of A Dividing Pair](https://open.spotify.com/track/17pno112VTzDeNAh34PMeC) | [A Winged Victory for the Sullen](https://open.spotify.com/artist/13CMfEeq8AC6ryGOPODqE1), [Adam Wiltzie](https://open.spotify.com/artist/5W6H1jJ9bQMcUm1G2iToMs), [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq) | [The Rhythm Of A Dividing Pair](https://open.spotify.com/album/4BqeQ6SM5xmFBAvztzMBdt) | 4:52 | 2021-10-20 |  |
-| [The Ritan Bells 4](https://open.spotify.com/track/3Fv3rj6UCNxfnVqGFs0mYn) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Ritan Bells](https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6) | 4:33 | 2023-06-05 |  |
+| [The Ritan Bells 4](https://open.spotify.com/track/3Fv3rj6UCNxfnVqGFs0mYn) | [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [The Ritan Bells](https://open.spotify.com/album/3C8LHlCTZTviG9JTA6QMN6) | 4:33 | 2023-06-05 | 2025-01-18 |
 | [The Secret \(Alpha Waves\)](https://open.spotify.com/track/2WzNumvLOHTnnNzRymIUYk) | [Leerseite](https://open.spotify.com/artist/7l8dnU5tDk33Zw78dgfwi5) | [The Power of Now \(Alpha Binaural Beats\)](https://open.spotify.com/album/3paWjmhxh5wcMFRumXjtxk) | 3:08 | 2021-10-20 |  |
 | [The Space Between Us](https://open.spotify.com/track/5zIsoqu053UuhfjlxSlyMP) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [The Space Between Us](https://open.spotify.com/album/3L1yyvtdjxRJHRVGZ7Q0YC) | 2:52 | 2021-10-20 | 2024-04-19 |
 | [The Space Between Us](https://open.spotify.com/track/6PyEQZpOdshy4qkGa8TLfa) | [Amaranth Cove](https://open.spotify.com/artist/1Gt39QnTBTndeyiJ5SO04q) | [The Space Between Us](https://open.spotify.com/album/1c5sd38NY8Jt9C0lv8Nn19) | 2:52 | 2021-10-20 | 2022-05-20 |

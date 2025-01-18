@@ -1,12 +1,12 @@
 {
-  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Church Tongue.",
-  "num_followers": 8814,
+  "description": "Every week badass heavy-music artists drop badass new cuts, and every week we&#x27;ll add those tracks to this evolving list for your headbanging pleasure. Cover artist: Alien Weaponry.",
+  "num_followers": 8817,
   "original_name": "Best New Songs Right Now",
   "owner": {
     "name": "revolvermagazine",
     "url": "https://open.spotify.com/user/revolvermagazine"
   },
-  "snapshot_id": "AAANOS9gYLVYSVKM6MFJcZ1zGXxSbAtf",
+  "snapshot_id": "AAANQMS9R6ZsySJwz9B4zzbqUkzDilTE",
   "tracks": [
     {
       "added_at": "2025-01-03 20:24:41",
@@ -5091,6 +5091,102 @@
       "duration_ms": 141000,
       "name": "Bury Me (One Thousand Times)",
       "url": "https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF"
+    },
+    {
+      "added_at": "2025-01-17 20:30:00",
+      "album": {
+        "name": "Next To Bleed",
+        "url": "https://open.spotify.com/album/3Q5ig5r9B1HnQEKJJnW5tU"
+      },
+      "artists": [
+        {
+          "name": "Gates to Hell",
+          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
+        }
+      ],
+      "duration_ms": 114425,
+      "name": "Next To Bleed",
+      "url": "https://open.spotify.com/track/0QsSzy8TtvrHskTJ4CRjUe"
+    },
+    {
+      "added_at": "2025-01-17 20:30:12",
+      "album": {
+        "name": "Cold Hard Truth",
+        "url": "https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7"
+      },
+      "artists": [
+        {
+          "name": "Fox Lake",
+          "url": "https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL"
+        }
+      ],
+      "duration_ms": 182061,
+      "name": "Cold Hard Truth",
+      "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
+    },
+    {
+      "added_at": "2025-01-17 20:30:24",
+      "album": {
+        "name": "Too Much",
+        "url": "https://open.spotify.com/album/4PEpzl1k2KTG6oCMiTMviE"
+      },
+      "artists": [
+        {
+          "name": "Initiate",
+          "url": "https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau"
+        }
+      ],
+      "duration_ms": 221218,
+      "name": "Too Much",
+      "url": "https://open.spotify.com/track/6F4qSBCQTV36A4U8qBTAjS"
+    },
+    {
+      "added_at": "2025-01-17 20:30:37",
+      "album": {
+        "name": "FEED",
+        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        }
+      ],
+      "duration_ms": 206857,
+      "name": "NO REVIVES",
+      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
+    },
+    {
+      "added_at": "2025-01-17 20:30:50",
+      "album": {
+        "name": "Blackhole",
+        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "Blackhole",
+      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
+    },
+    {
+      "added_at": "2025-01-17 20:31:03",
+      "album": {
+        "name": "Mau Moko",
+        "url": "https://open.spotify.com/album/2NnSQN57zQmBuOE855iDxF"
+      },
+      "artists": [
+        {
+          "name": "Alien Weaponry",
+          "url": "https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm"
+        }
+      ],
+      "duration_ms": 225252,
+      "name": "Mau Moko",
+      "url": "https://open.spotify.com/track/7GEGSpjoraxIjBixahlNGq"
     }
   ],
   "unique_name": "Best New Songs Right Now",

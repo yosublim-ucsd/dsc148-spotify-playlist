@@ -1,6 +1,6 @@
 [pretty](/playlists/pretty/37i9dQZF1DX0dUsjwqfaGM.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DX0dUsjwqfaGM) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX0dUsjwqfaGM)
 
-### [Best of RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
+### [RADAR Vietnam](https://open.spotify.com/playlist/37i9dQZF1DX0dUsjwqfaGM)
 
 > Thế hệ nghệ sĩ mới\. Ảnh bìa: SIXTYUPTOWN
 

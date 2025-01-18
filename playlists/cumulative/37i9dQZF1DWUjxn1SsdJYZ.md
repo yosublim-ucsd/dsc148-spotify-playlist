@@ -4,7 +4,7 @@
 
 > The best new AUS & NZ Rap\. Cover: Pistol Pete & Enzo
 
-1,040 songs - 2 day 0 hr 20 min
+1,041 songs - 2 day 0 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Hustle Hard](https://open.spotify.com/track/4qSn5AOjai0wplOnIr3Kze) | [The 046](https://open.spotify.com/artist/0rJUZobNG4r8bsot6DiF8g) | [Hustle Hard](https://open.spotify.com/album/7AILztHNRABgeU6x5kbu9H) | 4:11 | 2024-11-28 |  |
 | [HYPNOTIC HANDS](https://open.spotify.com/track/6JBLrwICB4IuZggNDEylba) | [Posseshot](https://open.spotify.com/artist/1iMp6xzgbWnO15izaVC7QU) | [PS4: OPERATION BURNER RAP](https://open.spotify.com/album/6pbjJaIL59QUTy1dMkEJs1) | 3:54 | 2024-09-26 | 2024-11-22 |
 | [I Ain't Never Met A Cigarette I Couldn't Smoke](https://open.spotify.com/track/3p0DvtpZ8HCLz2iekgh9eN) | [Faceless 1\-7](https://open.spotify.com/artist/4G8pxxXC4de4hnFBVWLqgV) | [I Ain't Never Met A Cigarette I Couldn't Smoke](https://open.spotify.com/album/686LQZJ2lwgS79gF4HlVpU) | 2:21 | 2024-08-23 | 2024-11-29 |
+| [i caught a body](https://open.spotify.com/track/0E1PTwAAWZkszkrymH3aNY) | [DeeKay](https://open.spotify.com/artist/1XoVa4Iq4JIdtSOeRsTRsi) | [i caught a body](https://open.spotify.com/album/7MWFxmu9k6oyolCOAUZMSA) | 1:26 | 2025-01-16 |  |
 | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB) | 2:39 | 2024-08-01 | 2024-10-25 |
 | [I LOVE YOU HOE \(w/ 9lives\)](https://open.spotify.com/track/0NaUT74rJ0NHS62fewzatU) | [Odetari](https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc), [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q) | [3x3](https://open.spotify.com/album/32BvlHf3nCW7cOTH970V7t) | 2:06 | 2023-07-13 | 2023-08-18 |
 | [I SEE RED \(feat\. REI AMI\)](https://open.spotify.com/track/3ZNHOPnbBKJxI3V0K0Uy3Y) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT), [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [I SEE RED \(feat\. REI AMI\)](https://open.spotify.com/album/1evaU8UGMvmi3jWw5QAfjD) | 2:34 | 2024-05-09 | 2024-06-14 |

@@ -1,6 +1,6 @@
 {
   "description": "The official EA SPORTS FC 24 Soundtrack.",
-  "num_followers": 117026,
+  "num_followers": 117038,
   "original_name": "EA SPORTS FC 24 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -1567,6 +1567,30 @@
     {
       "added_at": "2023-11-20 15:00:00",
       "album": {
+        "name": "Waiting To Go",
+        "url": "https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP"
+      },
+      "artists": [
+        {
+          "name": "DRS",
+          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
+        },
+        {
+          "name": "Duskee",
+          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
+        },
+        {
+          "name": "Disrupta",
+          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
+        }
+      ],
+      "duration_ms": 150344,
+      "name": "Waiting To Go",
+      "url": "https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw"
+    },
+    {
+      "added_at": "2023-11-20 15:00:00",
+      "album": {
         "name": "Relentless",
         "url": "https://open.spotify.com/album/0bHBnCqz1qeDuwRc6qSAIp"
       },
@@ -1591,30 +1615,6 @@
       "duration_ms": 178373,
       "name": "Relentless",
       "url": "https://open.spotify.com/track/4BTvXr4GKPvuHAWGr14ghc"
-    },
-    {
-      "added_at": "2023-11-20 15:00:00",
-      "album": {
-        "name": "Waiting To Go",
-        "url": "https://open.spotify.com/album/2OE4PqS7d2DgcZD0CljNmP"
-      },
-      "artists": [
-        {
-          "name": "DRS",
-          "url": "https://open.spotify.com/artist/0WCfu8x76QX3CjVgiE3Hn2"
-        },
-        {
-          "name": "Duskee",
-          "url": "https://open.spotify.com/artist/3f2xeagPNM6X9FktDTIudH"
-        },
-        {
-          "name": "Disrupta",
-          "url": "https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G"
-        }
-      ],
-      "duration_ms": 150344,
-      "name": "Waiting To Go",
-      "url": "https://open.spotify.com/track/3n7QF1NicPjiwce2MpBOUw"
     },
     {
       "added_at": "2023-11-20 15:00:00",

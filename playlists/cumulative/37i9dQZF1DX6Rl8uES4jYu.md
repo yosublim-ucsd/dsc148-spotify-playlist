@@ -4,7 +4,7 @@
 
 > This fun, upbeat playlist will help get you up and ready to start your day!
 
-463 songs - 1 day 1 hr 47 min
+464 songs - 1 day 1 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,6 +55,7 @@
 | [Be Who You Are \(Real Magic\) \(feat\. JID, NewJeans & Camilo\)](https://open.spotify.com/track/7fcZk7OXeFWD7DWybltVVf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7), [NewJeans](https://open.spotify.com/artist/6HvZYsbFfjnjFrWF950C9d), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Be Who You Are \(Real Magic\)](https://open.spotify.com/album/1Pk1W5xbmAqG6wBNL4sjq5) | 3:09 | 2023-06-02 |  |
 | [Beach House](https://open.spotify.com/track/23Pi81mwR6wNeFhym9mUMx) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Beach House](https://open.spotify.com/album/0GqKALU6JwUSF5wH6ClRuB) | 2:30 | 2022-08-08 | 2024-08-10 |
 | [Been in Between](https://open.spotify.com/track/0tV5enCGP261xTxW1Lhk80) | [Footprint Project](https://open.spotify.com/artist/4t7eLqngSabfN9Ip8X1Dto) | [Been in Between](https://open.spotify.com/album/3VXn1NGgVuD6TdKErh0qYM) | 4:37 | 2022-05-06 | 2022-05-15 |
+| [Believe In Ya](https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Believe In Ya](https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ) | 2:59 | 2025-01-17 |  |
 | [Berlin 1](https://open.spotify.com/track/1s3cQmlsiqoDNsRGyWmUzX) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Berlin 1](https://open.spotify.com/album/7uhLTFCUoPx782RCycvz8j) | 5:02 | 2022-07-29 | 2023-08-19 |
 | [Bet On Me](https://open.spotify.com/track/1rBtX2UbcSY9jizKtmnu6C) | [Jordan Astra](https://open.spotify.com/artist/0nTUhCTsVt89nR1U5Ysub7) | [Bet On Me](https://open.spotify.com/album/1HIGB8Hl480Du1r7nP3ISx) | 3:11 | 2021-09-21 | 2022-07-20 |
 | [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/track/5zvJABAyFbNEhdMTr0cCtT) | [Mesto](https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9), [Aloe Blacc](https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl) | [Better Days \(feat\. Aloe Blacc\)](https://open.spotify.com/album/3k8hV5JyJKOjBG1xiuLpT5) | 2:36 | 2022-09-23 | 2024-03-23 |
@@ -172,7 +173,7 @@
 | [Good Day](https://open.spotify.com/track/5zsTxXxpVzWC9MqeNJ3Pes) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:53 | 2022-10-28 | 2024-04-19 |
 | [Good Feeling About You](https://open.spotify.com/track/1sWsCZe653N3hhocXtBh4e) | [MAGIC!](https://open.spotify.com/artist/0DxeaLnv6SyYk2DOqkLO8c) | [Good Feeling About You](https://open.spotify.com/album/62Ec8rNbl3bWBehqjeqYNd) | 3:06 | 2024-01-19 |  |
 | [Good Good](https://open.spotify.com/track/5ISFFwzDlnzcFrvhp0egaf) | [Blessing Offor](https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC) | [My Tribe \(Extended Edition\)](https://open.spotify.com/album/4xwLMnQG1UoZ4uP6DN8gG8) | 2:43 | 2023-09-01 |  |
-| [Good Mood](https://open.spotify.com/track/14Yvoau2QPIpHpI0uMJrOB) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Good Mood](https://open.spotify.com/album/4VPjKOf9J7LcqMv1gmp8GL) | 3:03 | 2022-01-14 |  |
+| [Good Mood](https://open.spotify.com/track/14Yvoau2QPIpHpI0uMJrOB) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Good Mood](https://open.spotify.com/album/4VPjKOf9J7LcqMv1gmp8GL) | 3:03 | 2022-01-14 | 2025-01-18 |
 | [Good Mood](https://open.spotify.com/track/3Kr8aPFBZ0Vs3ZcOyGBcGM) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Me](https://open.spotify.com/album/76O3m2z2IlxG5CKKjhzCGc) | 3:03 | 2022-01-21 | 2024-01-20 |
 | [Good Mood](https://open.spotify.com/track/5FrydegjliPxjr3RuaFtac) | [Lady Bri](https://open.spotify.com/artist/1p5FodMOL5gU5E1i9enTGO) | [Me](https://open.spotify.com/album/4tnsaaiWkpMdeybYdXuPxn) | 3:03 | 2022-01-21 | 2024-04-19 |
 | [Good Morning \(Fabian Mazur Remix\)](https://open.spotify.com/track/3ogjbq2SnZ9GNcmwtUKgcC) | [Alex Aiono](https://open.spotify.com/artist/5KPJMJR9PCfMWSfco8i4W4), [Fabian Mazur](https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG) | [Good Morning \(Fabian Mazur Remix\)](https://open.spotify.com/album/0oNGLrTSixGmB1lVif4eLo) | 2:42 | 2020-11-13 | 2022-03-26 |

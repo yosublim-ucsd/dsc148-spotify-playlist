@@ -4,7 +4,7 @@
 
 > Sing\-along to your favorite songs from Disney Jr\. shows including music from SuperKitties.
 
-214 songs - 5 hr 33 min
+215 songs - 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Pupstruction Main Title](https://open.spotify.com/track/1CbTnS6qEpTzq9azHlvyNG) | [Pupstruction \- Cast](https://open.spotify.com/artist/2S8DsL6ILnWb8hWE8by07O), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Pupstruction](https://open.spotify.com/album/5g9BAhD0svxThlYeBsNsPI) | 0:49 | 2023-06-16 |  |
 | [Red, Yellow, and Blue](https://open.spotify.com/track/2BLkRYSXAVYHjKuO4H10ON) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 4](https://open.spotify.com/album/2TkZI64E1Lzw2fqZeOdrWB) | 1:26 | 2022-03-18 |  |
 | [Rhyme Time](https://open.spotify.com/track/0AKVAACGh7TtvmUnBy5JuZ) | [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 1](https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o) | 1:25 | 2022-03-18 |  |
+| [RoboGobo Theme Song](https://open.spotify.com/track/5gRwe0PmaDfGh8usFGTrGe) | [RoboGobo \- Cast](https://open.spotify.com/artist/1ARw009ppFc8CQki3PrB3h), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: RoboGobo \(From "Disney Jr\. Music: RoboGobo"\)](https://open.spotify.com/album/78OTjWwoe5yyeDtQtro6K9) | 0:49 | 2025-01-17 |  |
 | [Running with the King](https://open.spotify.com/track/25Y2A6JrotUwzqx9zef86c) | [Cast \- The Lion Guard](https://open.spotify.com/artist/5JzY52U0wxtkFAxSsgQub7) | [The Lion Guard: Disney Junior Music](https://open.spotify.com/album/14vTy6HIn4yERpXiN3IIuv) | 1:54 | 2022-03-18 |  |
 | [Sh\-Sh\-Sh\-Shapes](https://open.spotify.com/track/3x6WKRRJY5ccuXZcu4O8Rd) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Ready for Preschool Vol\. 1](https://open.spotify.com/album/7EmFGJEsdiXwYZACc5wy2o) | 1:27 | 2022-03-18 |  |
 | [Sharing](https://open.spotify.com/track/0j7rD6DG1jMAKPCR0OC16M) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I), [Genevieve Goings](https://open.spotify.com/artist/33FChbguJKySyP5Spe5jiN) | [Disney Junior Music: Ready for Preschool Vol\. 2](https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ) | 1:26 | 2022-03-18 |  |

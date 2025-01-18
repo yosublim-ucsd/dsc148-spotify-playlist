@@ -2,7 +2,7 @@
 
 ### [O Drip](https://open.spotify.com/playlist/37i9dQZF1DWT22037si3kl)
 
-> bgl é ser original, vocês já sabem\. Foto: N.A.N.A
+> bgl é ser original, vocês já sabem\. Foto: Nebrugg
 
 410 songs - 19 hr 51 min
 

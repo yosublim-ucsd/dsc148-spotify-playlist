@@ -4,7 +4,7 @@
 
 > The best classic and new sounds from South African Rock\. Cover: <a href="https://open.spotify.com/artist/0gx3eXtA1Dzx4Fiap3ZBRN?si=SEbpsFzoQ82l3hcJR\_oS2Q">KRYYE</a>
 
-570 songs - 1 day 9 hr 46 min
+571 songs - 1 day 9 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Anima](https://open.spotify.com/track/4Qyg5bCO8wA2K5KB3iZf7D) | [Sueños](https://open.spotify.com/artist/3AOLvJjBisGaLoFRWsVOPL) | [Anima](https://open.spotify.com/album/1d5hvQ7OYkZmpVfMLf9Vqj) | 5:22 | 2023-03-02 | 2023-05-19 |
 | [Anker](https://open.spotify.com/track/7vcdnzmzZS0oNDpqLgfn3g) | [Arnold Bailie](https://open.spotify.com/artist/7xttIqt236FLfWKVsIDMxp) | [Anker](https://open.spotify.com/album/1Viibdh9TgQh4TGpkmnLth) | 2:47 | 2022-12-08 | 2023-04-28 |
 | [Another Universe](https://open.spotify.com/track/6djogrE7rj6KTRE7OfxZkw) | [Arno Carstens](https://open.spotify.com/artist/4VE8VoX8eVfwfVSuikRyxE) | [Another Universe](https://open.spotify.com/album/4dFHkHm4bOqHphNjtTFGcn) | 3:34 | 2024-01-04 |  |
+| [Any Other Way](https://open.spotify.com/track/62Q7FUT0qA1RkFou4r4OpE) | [Anica Kiana](https://open.spotify.com/artist/0B6OnZVakGggmtAviW0ep0) | [Any Other Way](https://open.spotify.com/album/04rzWRhGs0L3fx2cL2Ll5o) | 2:34 | 2025-01-17 |  |
 | [Apollo Motel](https://open.spotify.com/track/03omYk1VNwgCdeu72j9zEZ) | [Apollo Motel](https://open.spotify.com/artist/7ztNWtpfiEIPWu13f62d8t) | [Apollo Motel](https://open.spotify.com/album/3Jqqsx0b3ucMITzbG5r5qB) | 3:14 | 2023-09-07 | 2023-12-08 |
 | [Aquarius Girl](https://open.spotify.com/track/7qPMIsXE4pVqzAVIN436va) | [Hugo Pooe](https://open.spotify.com/artist/786vB3MPgJ2kUzhNrbeaMZ) | [Love Bite](https://open.spotify.com/album/6oriENkGeG0n3RT2EJVFZo) | 3:38 | 2022-02-10 | 2022-05-27 |
 | [As Ek Jou Hoor Lag](https://open.spotify.com/track/1W5M5PXjBeLKgac4uMrbHO) | [Jan Bloukaas](https://open.spotify.com/artist/78BYwFUCGOHFIC54M4Rnic) | [As Ek Jou Hoor Lag](https://open.spotify.com/album/3GW8Df9g7461vot9mVJN29) | 2:46 | 2022-11-24 | 2023-05-12 |
@@ -322,7 +323,7 @@
 | [Mayhem](https://open.spotify.com/track/1MDc7PDmDGCmogKJO2OkjC) | [Alanna Joy](https://open.spotify.com/artist/4EVOaWmv3mIsrqm4Oxyo9k), [Lost//Youth](https://open.spotify.com/artist/4BdFQrwkW4xye28RMbrfOo) | [Mayhem](https://open.spotify.com/album/53wKblbUHvMxx3pUskWF74) | 4:05 | 2021-05-28 | 2022-01-22 |
 | [Medikasie](https://open.spotify.com/track/7hnvlcQRhwt4LTZBKwGE2p) | [DEJA VU](https://open.spotify.com/artist/5i6BaUfrVT8EXDzEv3Y7SZ) | [Medikasie](https://open.spotify.com/album/3CXb12jfguQCmaOxqQIW23) | 3:46 | 2024-07-04 | 2024-08-22 |
 | [Melissa](https://open.spotify.com/track/4pKk804FhBSKWQudzb3EV4) | [Zebra](https://open.spotify.com/artist/4uYxKWbZsXrwg0h4zEmOf4) | [Melissa](https://open.spotify.com/album/6v4eNc39wqE4HyayIIjnpg) | 3:25 | 2023-05-25 | 2023-08-12 |
-| [Mia, Jy](https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg) | [wiesner](https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I) | [Mia, Jy](https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO) | 4:32 | 2024-10-31 |  |
+| [Mia, Jy](https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg) | [wiesner](https://open.spotify.com/artist/57bqeusfyDsCIt1qDA1J9I) | [Mia, Jy](https://open.spotify.com/album/5wHPieDfDaOum3eraaZhuO) | 4:32 | 2024-10-31 | 2025-01-18 |
 | [Michelle](https://open.spotify.com/track/1QxazQmnrfG3tiKGp8mHlZ) | [Metro Villa](https://open.spotify.com/artist/5ix8M9VgoCHupwSJu5022W) | [Michelle](https://open.spotify.com/album/5Ukb8khXf7sJbNfvbTdi1o) | 3:45 | 2023-06-22 | 2023-09-01 |
 | [Midnight Man](https://open.spotify.com/track/69K78xQYAiwO7GUEJgXByG) | [Kenny Hughes](https://open.spotify.com/artist/6Y0yxjU9WEv7qauNd39OYL) | [Midnight Man](https://open.spotify.com/album/0U63JmTcJjB7MA3P1oyEfL) | 3:06 | 2023-02-02 | 2023-03-18 |
 | [Millions of Us \- Part 2](https://open.spotify.com/track/4qFncR4AGgz6HOg1EWSntS) | [BCUC](https://open.spotify.com/artist/5CGnQOjeOoZW4a4FoPhUxW) | [Millions of Us](https://open.spotify.com/album/0sUJTQiCZB1iu5NXenCyJA) | 5:14 | 2023-06-01 | 2023-08-18 |

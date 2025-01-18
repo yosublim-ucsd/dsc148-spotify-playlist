@@ -4,7 +4,7 @@
 
 > Trace the history of Jazz from timeless classics to boundary\-breaking contemporary favorites from the women of Jazz\. Cover: Diana Krall
 
-198 songs - 14 hr 20 min
+199 songs - 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Beautiful Love](https://open.spotify.com/track/3Str3OZii9YMeMOuJLG577) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/7epEg8WuJeNQ0iXT6PRLQA) | 2:58 | 2021-12-02 |  |
 | [Beautiful Love](https://open.spotify.com/track/4vrdSRSPdwRPjeLL5iqb3p) | [Sophie Milman](https://open.spotify.com/artist/19GI8I4UhSpBl8Y9XpKyT4) | [Take Love Easy](https://open.spotify.com/album/0kJ2PsNKRL8lA6jjeZcLDk) | 2:59 | 2022-03-08 | 2024-04-19 |
 | [Bella Ci Dormi](https://open.spotify.com/track/4PCvloqv0ebXW0BVOLkS7l) | [Elina Duni](https://open.spotify.com/artist/2uuSFOLMgwxUEuzMFCNehL), [Rob Luft](https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL), [Fred Thomas](https://open.spotify.com/artist/3lK5x1jZZM2Y8HzdZl4aCB), [Matthieu Michel](https://open.spotify.com/artist/41FrZElPoQw0plv2d3UL2r) | [Lost Ships](https://open.spotify.com/album/6g0LxTi0WdqCDfcte6TvJg) | 6:55 | 2021-12-02 |  |
+| [Bewitched \- Live at the Hollywood Bowl](https://open.spotify.com/track/5HYPtMvVMkodNkwlTCVkPV) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU) | [A Night At The Symphony: Live at the Hollywood Bowl](https://open.spotify.com/album/5JCuiPbX9OrBLWhqK4qGJZ) | 4:15 | 2025-01-17 |  |
 | [Blue Moon](https://open.spotify.com/track/6iRmzLNOLg0HqSM9y8hhUp) | [Rebecca Ferguson](https://open.spotify.com/artist/0CrCKxXekxMpkYfMEf8mca) | [Lady Sings the Blues](https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys) | 2:50 | 2021-12-02 |  |
 | [Bring Him Home](https://open.spotify.com/track/4V6joFDGUPoVI36OZNkuMl) | [Melissa Aldana](https://open.spotify.com/artist/56qrzp61GEif1i0UjqkHrz), [Crash Trio](https://open.spotify.com/artist/0VQ5CHc2za0YUjmN83gUYF) | [Melissa Aldana & Crash Trio](https://open.spotify.com/album/3CNXkqxyvlUw5883YxcPeh) | 5:09 | 2021-12-02 |  |
 | [Bring Him Home](https://open.spotify.com/track/56n3i3qXPMDuEfU4maiBK6) | [Melissa Aldana & Crash Trio](https://open.spotify.com/artist/34IAv54nMtYZTtX3QVHDvL) | [Melissa Aldana & Crash Trio](https://open.spotify.com/album/24SzTzOtzYObsSaqgMEIw1) | 5:09 | 2022-03-08 | 2024-04-19 |

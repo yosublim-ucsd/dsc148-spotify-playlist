@@ -1,6 +1,6 @@
 {
   "description": "this should have been her espresso\n\nSee also: <a href=\"spotify:playlist:37i9dQZF1DX7YE2tQ4q86h\">OBSESSED</a>",
-  "num_followers": 121084,
+  "num_followers": 121146,
   "original_name": "Deserved",
   "owner": {
     "name": "Spotify",
@@ -263,22 +263,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Be the One",
-        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
-      },
-      "artists": [
-        {
-          "name": "Dua Lipa",
-          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
-        }
-      ],
-      "duration_ms": 202914,
-      "name": "Be the One",
-      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Heal",
         "url": "https://open.spotify.com/album/73FYKSgOypVgghYr8GsEGl"
       },
@@ -291,6 +275,22 @@
       "duration_ms": 214133,
       "name": "Euphoria",
       "url": "https://open.spotify.com/track/2knr7ikPt4l7bk92qS4ZXW"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Be the One",
+        "url": "https://open.spotify.com/album/27BxsWgarjLePdql0KzOLP"
+      },
+      "artists": [
+        {
+          "name": "Dua Lipa",
+          "url": "https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we"
+        }
+      ],
+      "duration_ms": 202914,
+      "name": "Be the One",
+      "url": "https://open.spotify.com/track/1ixphys4A3NEXp6MDScfih"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
-      },
-      "artists": [
-        {
-          "name": "Sky Ferreira",
-          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
-        }
-      ],
-      "duration_ms": 249906,
-      "name": "Everything Is Embarrassing",
-      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Caracal (Deluxe)",
         "url": "https://open.spotify.com/album/08ipn1MH7xqgoqhUbtvCTy"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 199245,
       "name": "Magnets",
       "url": "https://open.spotify.com/track/7nRmfGNhHKEEu5o8yFXLXt"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
+      },
+      "artists": [
+        {
+          "name": "Sky Ferreira",
+          "url": "https://open.spotify.com/artist/7pyhre5oEEFMqcgMEvJY7q"
+        }
+      ],
+      "duration_ms": 249906,
+      "name": "Everything Is Embarrassing",
+      "url": "https://open.spotify.com/track/70v5mCvyPRquTyU7qTIU81"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "G.R.L.",
-        "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
-      },
-      "artists": [
-        {
-          "name": "G.R.L.",
-          "url": "https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq"
-        }
-      ],
-      "duration_ms": 198306,
-      "name": "Ugly Heart",
-      "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Love. Angel. Music. Baby.",
         "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
       },
@@ -643,6 +627,22 @@
       "duration_ms": 189333,
       "name": "Cool",
       "url": "https://open.spotify.com/track/4QvTOAIVxL3NGgrIYU97pj"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "G.R.L.",
+        "url": "https://open.spotify.com/album/3EnagjeTqe4GvpF3dgVPtF"
+      },
+      "artists": [
+        {
+          "name": "G.R.L.",
+          "url": "https://open.spotify.com/artist/3Yl4nkmEa8BSuGWbwhdLDq"
+        }
+      ],
+      "duration_ms": 198306,
+      "name": "Ugly Heart",
+      "url": "https://open.spotify.com/track/3qqho4PnTn3zlMPBzWhFFD"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -995,6 +995,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Battlefield",
+        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
+      },
+      "artists": [
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "duration_ms": 241920,
+      "name": "Battlefield",
+      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "Cherry (feat. Hayley Kiyoko)",
         "url": "https://open.spotify.com/album/1h0qJIukGxKxxG4lfT0UOf"
       },
@@ -1011,22 +1027,6 @@
       "duration_ms": 152511,
       "name": "Cherry (feat. Hayley Kiyoko)",
       "url": "https://open.spotify.com/track/1o9kTjiWJ5lTgKonUK6jAU"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Battlefield",
-        "url": "https://open.spotify.com/album/1ji0b2gTyx4VYtkrbc3XJt"
-      },
-      "artists": [
-        {
-          "name": "Jordin Sparks",
-          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
-        }
-      ],
-      "duration_ms": 241920,
-      "name": "Battlefield",
-      "url": "https://open.spotify.com/track/1Nme6K1PYAh7p7uygyuRdf"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Breathe In. Breathe Out.",
-        "url": "https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT"
-      },
-      "artists": [
-        {
-          "name": "Hilary Duff",
-          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
-        }
-      ],
-      "duration_ms": 185920,
-      "name": "Sparks",
-      "url": "https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/0ktookQxpwDrShMBr1U4Sf"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 194586,
       "name": "Lost In My Bedroom",
       "url": "https://open.spotify.com/track/5wiBvOZezmmN6IOZT7dVbt"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Breathe In. Breathe Out.",
+        "url": "https://open.spotify.com/album/2hyPisCjBWeFQ90FLwhriT"
+      },
+      "artists": [
+        {
+          "name": "Hilary Duff",
+          "url": "https://open.spotify.com/artist/2S9W9aSAd7e5mp8WqWxN2h"
+        }
+      ],
+      "duration_ms": 185920,
+      "name": "Sparks",
+      "url": "https://open.spotify.com/track/2ipJSuGf1GtxSIt2KvOGxl"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1423,22 +1423,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Record Collection",
-        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+        "name": "Somebody To Love",
+        "url": "https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9"
       },
       "artists": [
         {
-          "name": "Mark Ronson",
-          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+          "name": "Leighton Meester",
+          "url": "https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn"
         },
         {
-          "name": "The Business Intl",
-          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+          "name": "Robin Thicke",
+          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
         }
       ],
-      "duration_ms": 297933,
-      "name": "Somebody to Love Me",
-      "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
+      "duration_ms": 212933,
+      "name": "Somebody To Love",
+      "url": "https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1455,6 +1455,26 @@
       "duration_ms": 221493,
       "name": "How to Be a Heartbreaker",
       "url": "https://open.spotify.com/track/2Ow4Pmi0VOOLvbmJ8V70qo"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Record Collection",
+        "url": "https://open.spotify.com/album/0m8wvW3WNm9D7J0KUlbf3h"
+      },
+      "artists": [
+        {
+          "name": "Mark Ronson",
+          "url": "https://open.spotify.com/artist/3hv9jJF3adDNsBSIQDqcjp"
+        },
+        {
+          "name": "The Business Intl",
+          "url": "https://open.spotify.com/artist/5D19FUPuoRUpCBtWoY14C4"
+        }
+      ],
+      "duration_ms": 297933,
+      "name": "Somebody to Love Me",
+      "url": "https://open.spotify.com/track/2Tky1eOpdLXo8yYawnTMcj"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1539,26 +1559,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Somebody To Love",
-        "url": "https://open.spotify.com/album/1eb3ioGBDBkLiIWPFYzMK9"
-      },
-      "artists": [
-        {
-          "name": "Leighton Meester",
-          "url": "https://open.spotify.com/artist/481VlDdXZAIRxnHyywNbXn"
-        },
-        {
-          "name": "Robin Thicke",
-          "url": "https://open.spotify.com/artist/0ZrpamOxcZybMHGg1AYtHP"
-        }
-      ],
-      "duration_ms": 212933,
-      "name": "Somebody To Love",
-      "url": "https://open.spotify.com/track/1fPp89nbZQiRar1f3a8lPe"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "TREAT MYSELF",
         "url": "https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs"
       },
@@ -1575,6 +1575,22 @@
       "duration_ms": 176947,
       "name": "Wave (feat. Mike Sabath)",
       "url": "https://open.spotify.com/track/0kOUusNPraZGQfqcnA1zoP"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/3ZNvrzPJ5AQZscVD2kWGVN"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "duration_ms": 215388,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/15VB0uLh5VP3bs3hLJM1I7"
     },
     {
       "added_at": "2024-06-02 21:23:10",
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/3ZNvrzPJ5AQZscVD2kWGVN"
-      },
-      "artists": [
-        {
-          "name": "Heidi Montag",
-          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
-        }
-      ],
-      "duration_ms": 215388,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/15VB0uLh5VP3bs3hLJM1I7"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
         "name": "A Public Affair",
         "url": "https://open.spotify.com/album/2YzYKCgsmHx3sG4Gkm34Me"
       },
@@ -1659,6 +1659,22 @@
     {
       "added_at": "2024-06-02 21:23:10",
       "album": {
+        "name": "Playlist: The Very Best Of Kelly Rowland",
+        "url": "https://open.spotify.com/album/25h3hmV7iot9lZlhjsmmHz"
+      },
+      "artists": [
+        {
+          "name": "Kelly Rowland",
+          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
+        }
+      ],
+      "duration_ms": 191026,
+      "name": "Work - Freemasons Radio Edit",
+      "url": "https://open.spotify.com/track/1foEfzZaWdicH22pCxx52P"
+    },
+    {
+      "added_at": "2024-06-02 21:23:10",
+      "album": {
         "name": "D\u00e9j\u00e0 vu",
         "url": "https://open.spotify.com/album/09IChrkzmFo9ZZroCRYujr"
       },
@@ -1675,22 +1691,6 @@
       "duration_ms": 212413,
       "name": "Tom's Diner (feat. Britney Spears)",
       "url": "https://open.spotify.com/track/73Iz0ppjXiDwgXqXaMd9Xp"
-    },
-    {
-      "added_at": "2024-06-02 21:23:10",
-      "album": {
-        "name": "Playlist: The Very Best Of Kelly Rowland",
-        "url": "https://open.spotify.com/album/25h3hmV7iot9lZlhjsmmHz"
-      },
-      "artists": [
-        {
-          "name": "Kelly Rowland",
-          "url": "https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB"
-        }
-      ],
-      "duration_ms": 191026,
-      "name": "Work - Freemasons Radio Edit",
-      "url": "https://open.spotify.com/track/1foEfzZaWdicH22pCxx52P"
     }
   ],
   "unique_name": "Deserved",

@@ -2,7 +2,7 @@
 
 ### [Calorcito](https://open.spotify.com/playlist/37i9dQZF1DX7dXtI26GOnj)
 
-> Todo o calor latino está aqui! 🔥  foto: Shakira
+> Todo o calor latino está aqui! 🔥  foto: Bad Bunny
 
 462 songs - 1 day 0 hr 16 min
 

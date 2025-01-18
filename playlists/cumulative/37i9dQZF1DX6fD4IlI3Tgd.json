@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-10-03",
-  "description": "Desde M\u00e9xico hasta Argentina, el hogar de los beats latinoamericanos. Foto: Esteman",
+  "description": "Desde M\u00e9xico hasta Argentina, el hogar de los beats latinoamericanos. Foto: Cobuz & Bustta, Be\u00e9le",
   "name": "Pulso Latino",
   "tracks": [
     {
@@ -326,10 +326,28 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 187640,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/3CBc589syKaYJd0VYgxjka"
+    },
+    {
+      "album": {
+        "name": "Chismofilia",
+        "url": "https://open.spotify.com/album/1Ph8fF8qKFyTRnGVgjZqrB"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178608,
+      "name": "Chismofilia",
+      "url": "https://open.spotify.com/track/0323rphB8wdBL4riIlKt0G"
     },
     {
       "album": {
@@ -470,7 +488,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 200480,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/5OTucOvf73XQA7zE1eXqmk"
@@ -910,7 +928,7 @@
       ],
       "date_added": "2023-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 202380,
       "name": "Me Medicaron (Remix)",
       "url": "https://open.spotify.com/track/0aCNp6QjGiNNE3x7UInQn9"
@@ -1545,6 +1563,28 @@
     },
     {
       "album": {
+        "name": "Tequila Con Cerveza",
+        "url": "https://open.spotify.com/album/5SjZ1C7RfzX8qjM3olSWFg"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143000,
+      "name": "Tequila Con Cerveza",
+      "url": "https://open.spotify.com/track/4x7oOM338zTGyLb33RR8jJ"
+    },
+    {
+      "album": {
         "name": "The Prey (Gui Boratto & Vintage Culture Remix)",
         "url": "https://open.spotify.com/album/6FZqkIDsHmsVPxQkjjbBQG"
       },
@@ -1682,6 +1722,28 @@
       "duration_ms": 200128,
       "name": "Un poco todo",
       "url": "https://open.spotify.com/track/1PRQbBDsB6GwxGPoFpTcd9"
+    },
+    {
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/5pmu24zVnh7HyBh1TGsaep"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161951,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/0hm6AjreMiuTmSVHA2yxQL"
     },
     {
       "album": {

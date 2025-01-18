@@ -4,7 +4,7 @@
 
 > Atmospheric and emotional piano pieces.
 
-214 songs - 11 hr 51 min
+215 songs - 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Silhouette](https://open.spotify.com/track/2hwV3gqCQ0hmS8sp8vXioj) | [Biba Dupont](https://open.spotify.com/artist/7vwpKCVjqvSn8RVOhD38g9) | [Silhouette](https://open.spotify.com/album/04KfDPzBhw4C3iAqNJIV5A) | 2:23 | 2021-12-10 | 2023-03-15 |
 | [Solomeo](https://open.spotify.com/track/1FWA5vw5kvSjnOPS1fPZTD) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy), [John Metcalfe](https://open.spotify.com/artist/6s8AUvcmf2fp0Kh7PctPnd), [Louisa Fuller](https://open.spotify.com/artist/557AjoqV9wVpa8vO2k4wuJ), [Chris Worsey](https://open.spotify.com/artist/33TpuAICGC2gekoZZDDZhE) | [Intercosmia Vol\. 1](https://open.spotify.com/album/3y5tT5o4of6SEyndkccXMI) | 3:34 | 2024-11-08 |  |
 | [Some](https://open.spotify.com/track/28gRlopNz7IIWwiH32poAb) | [Nils Frahm](https://open.spotify.com/artist/5gqhueRUZEa7VDnQt4HODp) | [Solo](https://open.spotify.com/album/1pvK662Ezwrn0ofOxHZOcP) | 4:14 | 2021-12-10 | 2023-01-04 |
-| [Sonatine, M\. 40: I\. Modéré](https://open.spotify.com/track/4BkANQwjj7buotJeAXS0c7) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Ravel: Sonatine, M\. 40: I\. Modéré](https://open.spotify.com/album/1rCB2MRut3uRPnOBEVyTVE) | 4:40 | 2024-12-24 |  |
+| [Sonatine, M\. 40: I\. Modéré](https://open.spotify.com/track/4BkANQwjj7buotJeAXS0c7) | [Maurice Ravel](https://open.spotify.com/artist/17hR0sYHpx7VYTMRfFUOmY), [Seong\-Jin Cho](https://open.spotify.com/artist/1p0J5PXJQMVqk5uVV4T1ja) | [Ravel: Sonatine, M\. 40: I\. Modéré](https://open.spotify.com/album/1rCB2MRut3uRPnOBEVyTVE) | 4:40 | 2024-12-24 | 2025-01-18 |
 | [Spartacus Love Theme](https://open.spotify.com/track/6VtKjjaeZIsGIf7pqXJDoA) | [Alex North](https://open.spotify.com/artist/2x2WoBP4HIXYCxxNzfGG34), [ARSHA KAVIANI](https://open.spotify.com/artist/6X2QoSBLc6zeYdIQrtLNed) | [Accents & Echoes](https://open.spotify.com/album/6hitDfHO4Bhp0709ZY2Mag) | 3:36 | 2024-10-11 |  |
 | [Stars Light Up The Water](https://open.spotify.com/track/3Jff69kvbsXnRwHnJTOL2A) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stars Light Up The Water](https://open.spotify.com/album/3rsPuZNT9JJUVwCfjBY8eJ) | 2:16 | 2021-12-10 |  |
 | [Stella de Oro](https://open.spotify.com/track/0nf1kFIPnMpPgZaCWTYuUx) | [Yana](https://open.spotify.com/artist/3tJde1HLB27pgg4UCWN8cA) | [Solace](https://open.spotify.com/album/3DsKkabaqsYGKSriLuHHRl) | 4:10 | 2022-04-01 |  |
@@ -191,6 +191,7 @@
 | [Story of You](https://open.spotify.com/track/2NYXYakw0PmjrRr91V3jk3) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Life As We Know It](https://open.spotify.com/album/7osNPv4ZRIj0fhcs5H9PkT) | 2:19 | 2021-12-10 |  |
 | [Summer 1987.](https://open.spotify.com/track/2k7pE7D98DMSXaLc57tsG1) | [Christian.](https://open.spotify.com/artist/0pwpSckn3W7W3TSeAYZevV) | [Summer 1987.](https://open.spotify.com/album/4DXELJ6zegvkSUFDmYKKRv) | 2:59 | 2022-08-05 |  |
 | [Sun Prelude](https://open.spotify.com/track/07RjQvhbiROEpMtNyNE08U) | [Ola Gjeilo](https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G) | [Gjeilo: Sun Prelude](https://open.spotify.com/album/2j5otpbzoJX9uB9pD7jdzK) | 2:34 | 2022-08-05 |  |
+| [Sunday \- Andante Piano Sessions](https://open.spotify.com/track/6CPvwfpmNuTM5eHRh6qQyk) | [Michiel Borstlap](https://open.spotify.com/artist/3NLvXOZtSYiCwXc24os7Wh) | [Sunday \(Andante Piano Sessions\)](https://open.spotify.com/album/0RaqsfHCIH5MVeNI8pZqAJ) | 3:01 | 2025-01-17 |  |
 | [Suspire](https://open.spotify.com/track/2zKqrmNdj8oIgzBnLWBumi) | [Garreth Broke](https://open.spotify.com/artist/2VfNXBb3vlgXHEzQci1btx) | [Suspire](https://open.spotify.com/album/6nhSCmmNv2XicER2xdJlv9) | 2:13 | 2021-12-10 |  |
 | [That Feeling, Though](https://open.spotify.com/track/5W7cnjrNZcv1ITMv3xyvkV) | [Fabrizio Paterlini](https://open.spotify.com/artist/0jrFMgW018F1XVnLtCXOKi) | [That Feeling, Though](https://open.spotify.com/album/0KApkc3q8azy74RibeRkb1) | 1:31 | 2021-12-10 |  |
 | [The Art of Falling](https://open.spotify.com/track/4xmWnJpazNxLLxDJcCKgeG) | [Dardust](https://open.spotify.com/artist/6JhUHne9H09NdkTI5E9GSt) | [Urban Impressionism](https://open.spotify.com/album/2HwoFNovpqusvem2csYBU4) | 4:09 | 2024-11-08 |  |

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,715 songs - 3 day 17 hr 1 min
+1,716 songs - 3 day 17 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -395,7 +395,7 @@
 | [Eddie](https://open.spotify.com/track/4LkUiHoUEEYRXPLRIHBYct) | [SIV](https://open.spotify.com/artist/7g1jXjtNKxyfZ2grW439rY) | [Eddie](https://open.spotify.com/album/0CcfTPmWTUUtG6yMdkfgzn) | 2:37 | 2024-08-29 | 2024-09-06 |
 | [Edelweiss](https://open.spotify.com/track/3lnm0gx9usupGiYbwnxH9o) | [Signe & Hjördis](https://open.spotify.com/artist/4pkf3JUp7fOYK7kumrKuqG) | [Edelweiss](https://open.spotify.com/album/1Tzn1c4m7eM9s69pC3znQh) | 2:47 | 2023-03-25 | 2023-09-22 |
 | [Effort](https://open.spotify.com/track/7psuJ34tIkm9MTPMeBwn0o) | [SVEA](https://open.spotify.com/artist/4XtfY4CBieEfqF3CSiPrRx) | [Effort](https://open.spotify.com/album/19WN3R2e1vksJnVObrFzQl) | 2:31 | 2023-04-13 | 2023-10-20 |
-| [Efter efterfesten](https://open.spotify.com/track/4vpHmKY5BDiS5U7GDUGwEE) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Efter efterfesten](https://open.spotify.com/album/0qb9fiPyMUDdTB5UmRhUpd) | 3:23 | 2024-10-24 |  |
+| [Efter efterfesten](https://open.spotify.com/track/4vpHmKY5BDiS5U7GDUGwEE) | [estraden](https://open.spotify.com/artist/2Osj5g9VkHReOlZgfoEQao) | [Efter efterfesten](https://open.spotify.com/album/0qb9fiPyMUDdTB5UmRhUpd) | 3:23 | 2024-10-24 | 2025-01-18 |
 | [Ego](https://open.spotify.com/track/3yRHgip6pI2MQRUgGnBxVj) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Ego](https://open.spotify.com/album/03FC9kUAxdKNXIdDJBNiaf) | 2:52 | 2023-04-13 | 2023-07-16 |
 | [Elaine](https://open.spotify.com/track/02TJw6vUHpiFOFw3TVNjFK) | [Hagsätra Sport](https://open.spotify.com/artist/0QAkm7atdiO4zIMNQDKkua), [Niklas Strömstedt](https://open.spotify.com/artist/3nEiRzdQNmkUgoknNt9IRu), [Andreas Johnson](https://open.spotify.com/artist/5CKhp4ovgbSd7PdVIza7cC) | [Elaine](https://open.spotify.com/album/2cyHxoHmfKnjN9F4cXZ8fw) | 3:03 | 2024-06-27 | 2024-09-28 |
 | [Electric](https://open.spotify.com/track/2T0dh7hiBM73mEFwUGSqMQ) | [Darin](https://open.spotify.com/artist/1rKFeRryEci6cxNkdvHzNr) | [Electric](https://open.spotify.com/album/0p1JV81BhYbX8dQWuQVmvE) | 2:52 | 2024-03-21 | 2024-05-03 |
@@ -483,7 +483,7 @@
 | [Fjäder](https://open.spotify.com/track/7z7EbUeXvStvBOLwoGfJOE) | [Metin](https://open.spotify.com/artist/6eSot2vezArDhUu5g4hKNR), [Louis](https://open.spotify.com/artist/1pqyhTXoBNwHs4qhZFlRBZ), [Xavs](https://open.spotify.com/artist/6cthS8RRByX6tvYcBZbYJD) | [Fjäder](https://open.spotify.com/album/75RFUt0lpPpplbQzdRfT7p) | 2:39 | 2024-08-22 | 2024-09-07 |
 | [Flame](https://open.spotify.com/track/3wKrTUsTyHA0BPzoyOe1kO) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [LIAMOO](https://open.spotify.com/artist/1SU2pMMSbU1hqWyFXp97Br) | [Flame](https://open.spotify.com/album/0k9Q5aNmzrppjIPQJXWk4o) | 2:53 | 2024-05-30 | 2024-06-28 |
 | [Flamma](https://open.spotify.com/track/69Ryae6S7mOorlm3MX0kuZ) | [Kayo](https://open.spotify.com/artist/1VbaXEYjZBuKXgW0uuVtIz) | [Flamma](https://open.spotify.com/album/46frGAgIvMsalRxiRByxLS) | 3:15 | 2024-08-08 | 2024-09-08 |
-| [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 |  |
+| [Flowers at a Funeral](https://open.spotify.com/track/3tW7YR0lQoJds70KsLP0i7) | [NOEL](https://open.spotify.com/artist/15JdzpiJMd44n9p7TbFI9p) | [Flowers at a Funeral](https://open.spotify.com/album/4YXKLLSnxHt1Kvgb2OQLvg) | 3:27 | 2024-08-22 | 2025-01-18 |
 | [Fluent Stutter](https://open.spotify.com/track/3FnEbhsdwIbe9gPR0O1okt) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/23Moldp9m4ZHPUHokhwg3z) | 2:26 | 2023-04-13 | 2023-06-10 |
 | [Fluent Stutter](https://open.spotify.com/track/5ajwojfoQcgv1a7VVk20hb) | [Deki Alem](https://open.spotify.com/artist/2AK3F4tVjxYuqSGefozy52) | [Fluent Stutter](https://open.spotify.com/album/5Yt14bxTQxx2FbFcmTjAYA) | 2:26 | 2023-06-08 | 2023-07-07 |
 | [Flyg Fula Fluga Flyg](https://open.spotify.com/track/01fQ3xuWfYAHmUIiFC1JVP) | [Hanna Ferm](https://open.spotify.com/artist/2xQUbkvQFCU8DpdBFbMfLq) | [Flyg Fula Fluga Flyg \- Spotify Studio It's Hits Recording](https://open.spotify.com/album/5xwu2ZxKFPk1wM1JBEO2Jf) | 2:39 | 2021-12-16 | 2022-09-16 |
@@ -829,6 +829,7 @@
 | [Kite \- Acoustic](https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Kite \(Acoustic\)](https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd) | 2:29 | 2024-03-07 | 2024-04-19 |
 | [Klyschor](https://open.spotify.com/track/48FbJkI4sTkj4jbJGxqv9i) | [Nadja Evelina](https://open.spotify.com/artist/2LiW9iY4e5Mtfaoj5bdaRC) | [Klyschor](https://open.spotify.com/album/2CG51w8OSpena3TWNNNhYd) | 2:33 | 2024-08-08 | 2024-10-08 |
 | [Knallpulver](https://open.spotify.com/track/4KFTbuGudoMnSKwFlK4yrO) | [Niello](https://open.spotify.com/artist/3oKLD3PuOc20nNDoSCKDY7) | [Knallpulver](https://open.spotify.com/album/4OAO9n9fnusvbLTBa3m0fl) | 2:38 | 2022-05-26 | 2022-07-28 |
+| [Komma över dig](https://open.spotify.com/track/3nnq5v3pPs5WUAFL5TqLk9) | [Linus Kajman](https://open.spotify.com/artist/481GuwBdWn7VytCBh3BDjb) | [Slitna Hjärtan](https://open.spotify.com/album/7GZNaSTVttqQPKnqcU0TaM) | 2:34 | 2025-01-16 |  |
 | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/track/7ahokyY6O0NK0PnpFBxUHM) | [Petter](https://open.spotify.com/artist/5A0Bu9azuFEnud3q7t0V2r), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Komma över dig \(feat\. Benjamin Ingrosso\)](https://open.spotify.com/album/32HVqxhJDc732q8O1TeapO) | 3:08 | 2022-05-05 | 2023-02-18 |
 | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/track/23CTXfKqXyz4QkEwCGONhz) | [Ella Hedström](https://open.spotify.com/artist/2yZOGE9w5XZPTWF9e6wYEr) | [Konstig \(Förstår mig inte på dig\)](https://open.spotify.com/album/3wGLhdFwuUVEpkuswcM5km) | 2:54 | 2022-05-05 | 2022-07-22 |
 | [Kontakt](https://open.spotify.com/track/0JNzY6AqndqZS9I3q2iHYg) | [Christian Nanou](https://open.spotify.com/artist/2BQUPbMBCJF16dUMMnaVQu) | [Kontakt](https://open.spotify.com/album/1gFh0wZIlYt6R3AeBnDOqL) | 2:44 | 2024-05-16 | 2024-06-14 |
@@ -1610,7 +1611,7 @@
 | [Viktigt](https://open.spotify.com/track/5pOmq3IrlHIqdSgcacwuKX) | [10.2%](https://open.spotify.com/artist/6sObrcMSo8LcFzXeXWxwHH) | [Viktigt](https://open.spotify.com/album/7ER18ZbwfpfM5ZJh1Ex5gU) | 2:57 | 2024-04-04 | 2024-05-03 |
 | [Vill Ha Dig](https://open.spotify.com/track/4hMgZHTuFA6TJHIXTvU6A1) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [Vill Ha Dig](https://open.spotify.com/album/18ptVEEe7WJF7q8rbIoTKV) | 3:57 | 2021-12-16 | 2022-01-06 |
 | [Vill inte att solen går upp](https://open.spotify.com/track/2ICKdmYbZpybSuamPkmgGS) | [TRENDEN](https://open.spotify.com/artist/6YuKFo9oa6f4KGcrDm982S) | [Vill inte att solen går upp](https://open.spotify.com/album/17DT47CYYqJRIQtfL05ag0) | 3:23 | 2024-08-08 | 2024-10-02 |
-| [Vill va honom](https://open.spotify.com/track/6Wy5YhGJfn18p8SFLZqrXb) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Vill va honom](https://open.spotify.com/album/4syylJ7CrezyUxNdkSFsuI) | 3:04 | 2024-06-27 | 2024-10-28 |
+| [Vill va honom](https://open.spotify.com/track/6Wy5YhGJfn18p8SFLZqrXb) | [Theo](https://open.spotify.com/artist/5vBoU7A2kwbTXyUPZK5Gq1) | [Vill va honom](https://open.spotify.com/album/4syylJ7CrezyUxNdkSFsuI) | 3:04 | 2024-06-27 |  |
 | [Vincent](https://open.spotify.com/track/2OkBi8s5tBzrKIYjINs4p7) | [TUAI](https://open.spotify.com/artist/2BM8oWFRsHTy9SMaeCjarR) | [Vincent](https://open.spotify.com/album/2rHuQYFtCQ8LNHo2SenIJY) | 2:39 | 2023-11-16 | 2024-02-09 |
 | [VINCENT VAN GOGH](https://open.spotify.com/track/6OX0wJBp76vVHprJhpwOCl) | [Neville](https://open.spotify.com/artist/2gt9YfYa9tUbY9grQKYwi1) | [VINCENT VAN GOGH](https://open.spotify.com/album/40HVvl2Bk1XoeN8kH2dmVL) | 2:33 | 2022-05-30 | 2022-07-20 |
 | [Vingar](https://open.spotify.com/track/2tv7wKMIWw9Z1NpcTN3XX5) | [ORKID](https://open.spotify.com/artist/2fTfS7krIHHUCF6dRQmbkG) | [Vingar](https://open.spotify.com/album/3IhYDgccVPQzJ8Y0x1O7au) | 2:53 | 2024-05-30 | 2024-06-28 |

@@ -4,7 +4,7 @@
 
 > Más música, menos etiquetas\.  <br/>📷 un muerto mas & Clara Cava
 
-393 songs - 20 hr 52 min
+394 songs - 20 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -321,6 +321,7 @@
 | [Si Sabes Regresar](https://open.spotify.com/track/2rliXcqi1OZ7xhaPUUeh1x) | [Molok0](https://open.spotify.com/artist/7zrKyjlv5C1kp9eoJwG01J) | [Si Sabes Regresar](https://open.spotify.com/album/6bQRPUxBERpv9A0Yd461ZN) | 2:38 | 2024-10-18 |  |
 | [Si Tú No Vuelves](https://open.spotify.com/track/37jtZLmqnI6JMVXXIWboVH) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Flores Robadas](https://open.spotify.com/album/1Lxh8VM5Q8fBA811bVKTPy) | 3:21 | 2023-12-15 | 2024-03-30 |
 | [sin dormir](https://open.spotify.com/track/59UvXZfr6mHrJBRAuUE9sw) | [Carolina Donati](https://open.spotify.com/artist/6eIiOzrOXkaZXB1nrdwHxT) | [sin dormir](https://open.spotify.com/album/2SYQZ048xVo5QFVddwryM8) | 3:00 | 2023-10-13 | 2024-07-06 |
+| [sin mirar](https://open.spotify.com/track/4FzA5DKCpBhPD5z3JlX0NO) | [Saramalacara](https://open.spotify.com/artist/3QchzUOTSCKWmaRGEEiuir) | [sin mirar](https://open.spotify.com/album/256sP7HP2JdilDPCAmAs4t) | 1:42 | 2025-01-17 |  |
 | [SIN TI](https://open.spotify.com/track/0JxLBxUnL4NL01OmhbqutD) | [Delfina Dib](https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ), [SANTU](https://open.spotify.com/artist/3P3HEwD70uW4S1Gs5fhO9L) | [SIN TI](https://open.spotify.com/album/0qai8pi4z5sN95OHaaJrn3) | 2:57 | 2023-11-17 | 2024-02-17 |
 | [Snobs](https://open.spotify.com/track/7bp6TPhLJx0SXrdTA8tDyf) | [Juan Baro](https://open.spotify.com/artist/4Qt3SF0nE9YaCDhnX2EnaI) | [Snobs](https://open.spotify.com/album/1xKo8vFagzsXGfOkaS0Q9s) | 3:33 | 2024-11-22 | 2025-01-11 |
 | [Sole](https://open.spotify.com/track/5CZQ77K8uZ6N2uEIUVY8fx) | [boom boom kid](https://open.spotify.com/artist/2h2frsYL6pssri5AZdlMUU) | [Sole](https://open.spotify.com/album/3lQsuXtmeNGhWxezsxSbBR) | 4:03 | 2024-02-16 | 2024-05-03 |

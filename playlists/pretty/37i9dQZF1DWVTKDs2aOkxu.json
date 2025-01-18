@@ -1,12 +1,12 @@
 {
   "description": "The best indie music of the moment. Cover: jasmine.4.t",
-  "num_followers": 726085,
+  "num_followers": 726108,
   "original_name": "The Indie List",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdlQAAAAD2JuXwltLiMWMsUkadH5b3",
+  "snapshot_id": "Z4pU8QAAAAA1qknpYmV7jHjpcT8g4LKi",
   "tracks": [
     {
       "added_at": "2025-01-17 00:00:21",
@@ -363,6 +363,22 @@
       "duration_ms": 327584,
       "name": "Champagne",
       "url": "https://open.spotify.com/track/64fFsjcOMJcHNfpeqMx1w7"
+    },
+    {
+      "added_at": "2025-01-17 13:02:41",
+      "album": {
+        "name": "Bovine Excision",
+        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
+      },
+      "artists": [
+        {
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
+        }
+      ],
+      "duration_ms": 173177,
+      "name": "Bovine Excision",
+      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
     },
     {
       "added_at": "2025-01-17 00:00:21",

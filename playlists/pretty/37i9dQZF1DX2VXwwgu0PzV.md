@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8?si=nmFmCeXARAOHq9xyk43Dww>Nina Shezz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 44,993 likes - 86 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,006 likes - 86 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

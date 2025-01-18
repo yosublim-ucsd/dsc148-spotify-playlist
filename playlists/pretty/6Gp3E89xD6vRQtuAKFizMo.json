@@ -1,13 +1,65 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every Tuesday and Friday!",
-  "num_followers": 44220,
+  "num_followers": 44219,
   "original_name": "Dim Mak New Releases",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAZz4znbypjA10lHwf8vxkbipR5ktOv",
+  "snapshot_id": "AAAZ0p/Qg8VGZ1O0Q4YsXyhzMTLPYfDe",
   "tracks": [
+    {
+      "added_at": "2025-01-17 16:14:41",
+      "album": {
+        "name": "Lie To Me",
+        "url": "https://open.spotify.com/album/2LqzMjzHldeOKlrePl0Yg6"
+      },
+      "artists": [
+        {
+          "name": "Dani Thorne",
+          "url": "https://open.spotify.com/artist/3x6yf8WduJ8AkkTwuTXTku"
+        }
+      ],
+      "duration_ms": 286400,
+      "name": "Lie To Me",
+      "url": "https://open.spotify.com/track/20JhzRFKYsHF87NKD9RlR1"
+    },
+    {
+      "added_at": "2025-01-17 16:15:09",
+      "album": {
+        "name": "Drive Away Slow",
+        "url": "https://open.spotify.com/album/59EFiO8WfiZr4f1urFi4rv"
+      },
+      "artists": [
+        {
+          "name": "Ookay",
+          "url": "https://open.spotify.com/artist/1HQGhla3VNj1dBmKTtVT2t"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "duration_ms": 202076,
+      "name": "Drive Away Slow",
+      "url": "https://open.spotify.com/track/793RMDpPvxf3f1MFI9Dhbn"
+    },
+    {
+      "added_at": "2025-01-17 16:15:14",
+      "album": {
+        "name": "Take Me Somewhere",
+        "url": "https://open.spotify.com/album/2HfVs7vcAfGapGM62Z2KCu"
+      },
+      "artists": [
+        {
+          "name": "Baclash",
+          "url": "https://open.spotify.com/artist/7xx3oCh7EkiUdZsF2drXpp"
+        }
+      ],
+      "duration_ms": 223195,
+      "name": "Take Me Somewhere",
+      "url": "https://open.spotify.com/track/4865lnqZ8s6xtNdCntE7X6"
+    },
     {
       "added_at": "2025-01-10 15:59:05",
       "album": {

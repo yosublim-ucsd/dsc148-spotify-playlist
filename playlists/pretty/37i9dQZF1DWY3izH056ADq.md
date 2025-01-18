@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! HIPHOPメディアミックスプロジェクト「Paradox Live（パラライ）」の楽曲&ドラマトラックを1つのプレイリストで。 ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 42,742 likes - 133 songs - 20 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 42,747 likes - 133 songs - 20 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,7 +70,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 60 | [Life Is Beautiful](https://open.spotify.com/track/5YCuRO5C1Njp2qLviXpwo5) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS) | [Paradox Live Exhibition Show \-The Cat’s Whiskers\-](https://open.spotify.com/album/5mZkoKj6iJyrdr2c8Rf2wD) | 3:26 |
 | 61 | [Back Off](https://open.spotify.com/track/35bPsvF8kxTHd5y9BBfxvG) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live Exhibition Show \-cozmez\-](https://open.spotify.com/album/6JQzd5Ef2iKrF1KC758s30) | 3:12 |
 | 62 | [REBELLION \-悪漢奴等 is still Burning\-](https://open.spotify.com/track/1A41PE1Z8ho4FMsswv8CMX) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live Exhibition Show \-悪漢奴等\-](https://open.spotify.com/album/4SUPnE9AhmKqt7ws8j5jLH) | 3:56 |
-| 63 | [P△R△DISE \- feat\. ISSA](https://open.spotify.com/track/3JsLZ9MZpwnk9e18KU8l01) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [ISSA](https://open.spotify.com/artist/55qUCocACeYAjC0FwPCYxT) | [Paradox Live Exhibition Show \-BAE\-](https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p) | 3:23 |
+| 63 | [P△R△DISE \- feat\. ISSA](https://open.spotify.com/track/3JsLZ9MZpwnk9e18KU8l01) | [Bae](https://open.spotify.com/artist/4ZBu9jBrNpCCuyiPUXWmZH), [ISSA](https://open.spotify.com/artist/7Lv8GRenhn7wtrjQurHznx) | [Paradox Live Exhibition Show \-BAE\-](https://open.spotify.com/album/6Mjif8qAaWdTdVOBjrSC1p) | 3:23 |
 | 64 | [My Sweetest Love \- feat\. ミッチェル和馬](https://open.spotify.com/track/3Vy07r6U50pdOEhMFNoz5v) | [The Cat's Whiskers](https://open.spotify.com/artist/2E4FGvqaZ65gGPYyFg5aUS), [ミッチェル和馬](https://open.spotify.com/artist/5zTmFDG1UQZv21KlJp3SVH) | [Paradox Live Exhibition Show \-The Cat’s Whiskers\-](https://open.spotify.com/album/5mZkoKj6iJyrdr2c8Rf2wD) | 4:32 |
 | 65 | [Good Time \- feat\. SKY\-HI](https://open.spotify.com/track/6M116cTbFxwbv7tJcMiv5G) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn), [SKY\-HI](https://open.spotify.com/artist/4Kbxm7oCQujaslLxf9q7k2) | [Paradox Live Exhibition Show \-cozmez\-](https://open.spotify.com/album/6JQzd5Ef2iKrF1KC758s30) | 2:48 |
 | 66 | [EMPEROR \- WE ON FIRE!! \- \- feat\. 倖田來未](https://open.spotify.com/track/6Ih3BC1tbYyNqrebW6z8GN) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC), [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [Paradox Live Exhibition Show \-悪漢奴等\-](https://open.spotify.com/album/4SUPnE9AhmKqt7ws8j5jLH) | 3:54 |

@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-566 songs - 1 day 23 hr 22 min
+567 songs - 1 day 23 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,7 +127,7 @@
 | [Dream Machine](https://open.spotify.com/track/4cAypK013iEiqKZG5YLrJ3) | [Nina Kraviz](https://open.spotify.com/artist/1oZmFNkGAT93yD1xX4vTRE) | [Stranno Stranno Neobjatno](https://open.spotify.com/album/1dtFPfxQfvkejo2W3HL3TY) | 6:28 | 2022-05-03 | 2022-10-23 |
 | [Echoes](https://open.spotify.com/track/3oJ0ImxhIlU6lZ9JtCWYVd) | [Icarus](https://open.spotify.com/artist/0nUF7iT0e6D5xEl743Jfu3) | [Echoes](https://open.spotify.com/album/0xr2nntVBXisNTLyan5wZt) | 6:03 | 2022-02-21 | 2023-09-12 |
 | [Egyptian Sun](https://open.spotify.com/track/0Y3xTcu928EXNhF5yuPOvH) | [Francis Mercier](https://open.spotify.com/artist/44qAhQu52dYKcHOFQd3esf), [Kiesza](https://open.spotify.com/artist/4zxvC7CRGvggq9EWXOpwAo) | [Egyptian Sun](https://open.spotify.com/album/1S9zeICRVy9V9DxSH0XAaa) | 4:17 | 2023-05-26 |  |
-| [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/track/5EM9H0b9vbwPAkl7CWlEmS) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 4:23 | 2022-02-21 |  |
+| [Eleuthera \(Catching Flies Remix\)](https://open.spotify.com/track/5EM9H0b9vbwPAkl7CWlEmS) | [Tor](https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG), [Catching Flies](https://open.spotify.com/artist/4zAOqBfNLyWFvj1e3yvypJ) | [Oasis Sky \(Remixes\)](https://open.spotify.com/album/0SPKzHlhMuoAeQoRwJWCgb) | 4:23 | 2022-02-21 | 2025-01-18 |
 | [Embrace \- Black Coffee + Aquatone Remix](https://open.spotify.com/track/26wBcR6Damyd7l4xGI6DNg) | [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Phoebe Killdeer](https://open.spotify.com/artist/318VpIRUWele6jD0k3ldkT), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Embrace \(Black Coffee + Aquatone Remix\)](https://open.spotify.com/album/3vFWCPubU6GiPuJm2wJXHv) | 6:56 | 2022-01-14 | 2022-11-17 |
 | [Embre](https://open.spotify.com/track/770lpPPoDrrdb67bTKSnGe) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp), [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB) | [Moho EP](https://open.spotify.com/album/32qvWoJh8qTJ8hrD6snjwx) | 8:56 | 2023-11-17 | 2024-04-13 |
 | [Embre](https://open.spotify.com/track/3wbUuzRdemeNJuqnMNBC9m) | [Tim Green](https://open.spotify.com/artist/68vO4fkFxLbWPxTSHosxsB), [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Moho EP](https://open.spotify.com/album/5UFFlblxN3PC2hYcNT4i9t) | 8:56 | 2021-12-08 | 2023-11-05 |
@@ -411,6 +411,7 @@
 | [Rio Secreto](https://open.spotify.com/track/4kVs5d1P8daSnqzPEWoPZC) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Rio Secreto](https://open.spotify.com/album/4z5eQMzC2Z98HvWknjKbMs) | 6:14 | 2021-12-08 | 2023-11-06 |
 | [Rio Secreto](https://open.spotify.com/track/7MXu9rAQDign2nhEVp5tbL) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR) | [Rio Secreto](https://open.spotify.com/album/6OZ8EuKS1bqv4W709VRak4) | 6:14 | 2024-02-09 | 2024-04-19 |
 | [Rise & Shine](https://open.spotify.com/track/7D6pcC9xM2HJl9A9XrHbYA) | [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Rise & Shine](https://open.spotify.com/album/6BjaQ5LvXt38L2gfwfBIbd) | 2:17 | 2021-12-08 | 2023-01-06 |
+| [Rising](https://open.spotify.com/track/0QyPnlWW6qqVcusNFw0dis) | [Klaverson](https://open.spotify.com/artist/3HutVQvkOWjDk8fYsWATEr) | [Rising](https://open.spotify.com/album/4r0uqyILCVvOo3A04GagvB) | 3:05 | 2025-01-17 |  |
 | [Robots With Soul Part 1 \- Original Mix](https://open.spotify.com/track/6VR7ss1z27BJr67VrL4hC6) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 7:59 | 2021-12-08 | 2022-07-29 |
 | [Robots With Soul Part 2 \- Original Mix](https://open.spotify.com/track/5y6CnB9Q3WDQvVG5rwoYZ1) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:54 | 2021-12-08 | 2022-07-29 |
 | [Robots With Soul Part 3 \- Original Mix](https://open.spotify.com/track/0Q93Bly24xaWk0WcqruOuD) | [Android Cartel](https://open.spotify.com/artist/6ZaLBRmhbbx9ZyAZ93VL9D) | [Robots With Soul EP](https://open.spotify.com/album/4eWkrzkYCR6nBkgPaDklMU) | 8:20 | 2021-12-08 | 2022-07-26 |

@@ -4,7 +4,7 @@
 
 > Soft and smooth vocal Jazz to help you relax and unwind.
 
-214 songs - 15 hr 55 min
+215 songs - 16 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -175,7 +175,8 @@
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/24mo3C5GuVTfoL8vedPMqL) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Come Away With Me \(Super Deluxe Edition\)](https://open.spotify.com/album/3ArSFkv4OQOosOvYTrZNIl) | 3:48 | 2022-07-21 | 2022-10-12 |
 | [Spring Can Really Hang You Up The Most \- Demo](https://open.spotify.com/track/6SjpAsNdQMizJqNvvzsCK3) | [Norah Jones](https://open.spotify.com/artist/2Kx7MNY7cI1ENniW7vT30N) | [Spring Can Really Hang You Up The Most / Come Away With Me](https://open.spotify.com/album/5BWCqsQ5neaxEhnVxybYuG) | 3:48 | 2022-04-13 | 2022-07-29 |
 | [Spring Waltz](https://open.spotify.com/track/1ZDSqMMJaZdydXb20eqtHM) | [Sinne Eeg](https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw), [Thomas Fonnesbæk](https://open.spotify.com/artist/2GWMZZQNuU0VZra0suXVph) | [Spring Waltz](https://open.spotify.com/album/0jz0L3IGFLS6E8tZMHHLVO) | 3:26 | 2022-04-13 |  |
-| [Stardust](https://open.spotify.com/track/1tBLUuXRWEkbzOWVPmgtqG) | [Rhoda Scott](https://open.spotify.com/artist/7bALAz7fry73sw8SgpdZhl), [Sophie Alour](https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT), [Lisa Cat\-Berro](https://open.spotify.com/artist/6iaBypg8M8oxSEOWOvrrmm), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ), [Julie Saury](https://open.spotify.com/artist/7Ie5grAtdOBPylHOxPgPSt) | [Ladies & Gentlemen](https://open.spotify.com/album/2OAEoKkYrS5vLATLD4j9nN) | 6:33 | 2024-12-06 |  |
+| [Stairway to the Stars](https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF) | [Laura Anglade](https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG) | [Stairway to the Stars](https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80) | 5:18 | 2025-01-17 |  |
+| [Stardust](https://open.spotify.com/track/1tBLUuXRWEkbzOWVPmgtqG) | [Rhoda Scott](https://open.spotify.com/artist/7bALAz7fry73sw8SgpdZhl), [Sophie Alour](https://open.spotify.com/artist/0a0itmMDe3aXvoIGirdUHT), [Lisa Cat\-Berro](https://open.spotify.com/artist/6iaBypg8M8oxSEOWOvrrmm), [Hugh Coltman](https://open.spotify.com/artist/6tV34lUTJjldwoOHb7EwIQ), [Julie Saury](https://open.spotify.com/artist/7Ie5grAtdOBPylHOxPgPSt) | [Ladies & Gentlemen](https://open.spotify.com/album/2OAEoKkYrS5vLATLD4j9nN) | 6:33 | 2024-12-06 | 2025-01-18 |
 | [Stardust](https://open.spotify.com/track/1SC7yyif78lqVKvfhyRQV8) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Stardust](https://open.spotify.com/album/7kMzUihLu60fHLRIUCuw60) | 3:53 | 2022-04-13 |  |
 | [Stardust](https://open.spotify.com/track/60gs0cMpDerQrMDmGOj8LX) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Samara Joy](https://open.spotify.com/album/4vtI5mccGzPEsOXOtPmef6) | 3:53 | 2022-07-21 | 2024-04-19 |
 | [Stardust](https://open.spotify.com/track/7igdmFrayEJPE75Xhnj6vY) | [Samara Joy](https://open.spotify.com/artist/5LkbTSqXfMBjFSGi9LOGjq) | [Stardust](https://open.spotify.com/album/0YodJo8Kspf6yvq3BZUVKJ) | 3:53 | 2024-03-20 | 2024-04-17 |

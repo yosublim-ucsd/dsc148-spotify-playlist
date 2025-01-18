@@ -4,7 +4,7 @@
 
 > The country way of testifying.
 
-260 songs - 15 hr 52 min
+261 songs - 15 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [The Distance](https://open.spotify.com/track/2y4pN2wraqU3JOJbv68EiR) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [The Distance](https://open.spotify.com/album/4LCkyZl9VAaO2TBjpnvtxO) | 3:24 | 2021-12-10 |  |
 | [The Distance](https://open.spotify.com/track/6j5M0J8g1pfRnJ9wWwrvFP) | [Gary LeVox](https://open.spotify.com/artist/6daR4Ec3o6K4VJnRcPM6w6) | [One On One](https://open.spotify.com/album/5UGVoX8a8k9bh46FWaVWcr) | 3:24 | 2022-07-15 | 2024-04-19 |
 | [The Heaven I'm Headed To](https://open.spotify.com/track/48TO77FBMrQl7hU1aGGwm5) | [Dierks Bentley](https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS) | [Long Trip Alone](https://open.spotify.com/album/2xONRhFNwgzkxM26JK9YI6) | 4:29 | 2021-12-10 | 2024-12-14 |
+| [The Life in Your Years](https://open.spotify.com/track/6oP512iJ1bv2Neu892FODz) | [Ron Pope](https://open.spotify.com/artist/6CmXhyslohOFRJMtPpRm4O) | [The Life in Your Years](https://open.spotify.com/album/2SOIjoUJQcUMwi8trSxFs5) | 3:00 | 2025-01-17 |  |
 | [The Old Man Said](https://open.spotify.com/track/11YK2L3U5Yr4SepKwX1yiE) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Unwanted Man](https://open.spotify.com/album/4o5I0LPIKI0LqNGfV88pCw) | 3:39 | 2022-08-20 |  |
 | [The Old Rugged Cross](https://open.spotify.com/track/436rdO5fgKVH3HhjA0VyFQ) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [My Savior](https://open.spotify.com/album/4Dep4FHb2IMFImgEhs83ww) | 3:30 | 2021-12-10 |  |
 | [The Other Side](https://open.spotify.com/track/4QpTG5bffatmfaW04SZH16) | [Lauren Alaina](https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv) | [The Other Side](https://open.spotify.com/album/0X38hMX0JsisGGQjBRSNNz) | 3:26 | 2021-12-10 |  |

@@ -3741,6 +3741,24 @@
     },
     {
       "album": {
+        "name": "manic at the disco",
+        "url": "https://open.spotify.com/album/1w0vFtU6Yjsa4ZU9RwJc3t"
+      },
+      "artists": [
+        {
+          "name": "Midnight Dance Party",
+          "url": "https://open.spotify.com/artist/27CcPFsy79qUbXjqWSDkjj"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193714,
+      "name": "manic at the disco",
+      "url": "https://open.spotify.com/track/55TELAw1zkLz4uWzD0GgaS"
+    },
+    {
+      "album": {
         "name": "Maria Maria",
         "url": "https://open.spotify.com/album/4VMuvqjQv3yvtFdlLs9Mnd"
       },

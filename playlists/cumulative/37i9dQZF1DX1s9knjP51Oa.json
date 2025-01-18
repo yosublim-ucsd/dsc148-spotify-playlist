@@ -2601,6 +2601,24 @@
     },
     {
       "album": {
+        "name": "Come Closer",
+        "url": "https://open.spotify.com/album/0WDnbyZgbX8euTOrgnv4ya"
+      },
+      "artists": [
+        {
+          "name": "Theordor Wessman",
+          "url": "https://open.spotify.com/artist/0PakiWNpTSBhrIdGmVW9PA"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158500,
+      "name": "Come Closer",
+      "url": "https://open.spotify.com/track/4YhkT8T70gKq8jREW2MRfV"
+    },
+    {
+      "album": {
         "name": "Evenings",
         "url": "https://open.spotify.com/album/2sBzLTRfZXJDg8fcqdxZge"
       },
@@ -12332,6 +12350,24 @@
       "duration_ms": 150750,
       "name": "Synchronicity",
       "url": "https://open.spotify.com/track/0nk3vSKIYGQV6CK6pShUDQ"
+    },
+    {
+      "album": {
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/0RcyNjfoHSNHmMqRpo2RW6"
+      },
+      "artists": [
+        {
+          "name": "Stace Brinorma",
+          "url": "https://open.spotify.com/artist/0uhbT4yNeyFnQePzFddGJk"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154224,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/3BRf8a39rGKSSBp7AmqclQ"
     },
     {
       "album": {

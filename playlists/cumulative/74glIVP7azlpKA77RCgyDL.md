@@ -2,9 +2,9 @@
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Church Tongue.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Alien Weaponry.
 
-885 songs - 2 day 7 hr 41 min
+891 songs - 2 day 8 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -85,6 +85,7 @@
 | [Big Man](https://open.spotify.com/track/5RvkIiOCUCUNpHRnrbzpEC) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [Big Man](https://open.spotify.com/album/0aVjveFPW5GO8RnwSu0JjP) | 1:45 | 2023-04-13 | 2024-02-03 |
 | [BITE MY FACE \(FEAT\. COREY TAYLOR\)](https://open.spotify.com/track/5edonX335e9w96au4UTRn5) | [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL), [Corey Taylor](https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q) | [SKIN](https://open.spotify.com/album/6gl8rX7dP20vjIQPi1mlDO) | 3:06 | 2022-03-11 | 2023-07-15 |
 | [Bite The Hook](https://open.spotify.com/track/3aOCnkGig7Zz7oXCW2OqpM) | [Incendiary](https://open.spotify.com/artist/3nS4tSuT4VwGiZH6BtlJfC) | [Bite The Hook](https://open.spotify.com/album/4O73RVcXZeXUDtBZSHnd8p) | 2:55 | 2023-03-17 | 2024-02-03 |
+| [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-17 |  |
 | [Blind](https://open.spotify.com/track/29Cd4nVlCL3gT3ZuEoUsFb) | [Fentanyl](https://open.spotify.com/artist/6ymyFsvAhvTJTgOqlFaiGb) | [Or So I Thought / Blind / Detached](https://open.spotify.com/album/2XC4AVj5pijoCPkgyWOSib) | 0:59 | 2024-08-16 |  |
 | [Blind Side Sonny](https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Blind Side Sonny](https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ) | 2:22 | 2024-10-04 |  |
 | [Blinding Faith](https://open.spotify.com/track/5oSnYy4EijgEEEDO9MPDq4) | [Knocked Loose](https://open.spotify.com/artist/4qrHkx5cgWIslciLXUMrYw) | [Blinding Faith](https://open.spotify.com/album/2SUpvMXqoANnpp4qLYCnMp) | 2:51 | 2024-03-01 |  |
@@ -143,6 +144,7 @@
 | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/track/6HNWDjbome8TQp0rYRZTQS) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Cobra \(Rock Remix\) \[feat\. Spiritbox\]](https://open.spotify.com/album/30DntygbtMJmhmSFr8ZY5Y) | 3:06 | 2023-11-10 | 2024-02-03 |
 | [Cold](https://open.spotify.com/track/1QivlVy4J2yWaCZ6RnWl70) | [Dream Widow](https://open.spotify.com/artist/3gmJYDVdrlGWWD5uVCUQOe) | [Dream Widow](https://open.spotify.com/album/2FfewmvnA0wctMD64KjOxP) | 5:13 | 2022-03-25 | 2023-07-15 |
 | [COLD BLOOD](https://open.spotify.com/track/2IwBtsToltEHPDn8QJqHaC) | [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth), [Lamb of God](https://open.spotify.com/artist/3JFsVIxOn7STeilPICkkB2) | [COLD BLOOD](https://open.spotify.com/album/5gAZ9Iay75PXZITgGlIc1K) | 5:26 | 2022-02-18 | 2023-07-15 |
+| [Cold Hard Truth](https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Cold Hard Truth](https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7) | 3:02 | 2025-01-17 |  |
 | [Cold Steel](https://open.spotify.com/track/5jrJtM2gqtnM4KNdrAvqkZ) | [Ingrown](https://open.spotify.com/artist/7DHEVu8mFuQP14XdDIFhss) | [Cold Steel](https://open.spotify.com/album/6GCVZljtqV7hILSZtPsRwO) | 1:32 | 2023-10-20 | 2024-02-03 |
 | [Collapse](https://open.spotify.com/track/18rWDMiC3wqHOaWiTg4My2) | [REZN](https://open.spotify.com/artist/3pDqLo5LnCyCBxhKZygkfK) | [Collapse](https://open.spotify.com/album/5GVwROoQpQE8f5KwjfoNcO) | 5:33 | 2024-05-10 |  |
 | [Collider](https://open.spotify.com/track/6IlKPlDPBvx11UFTfdaxOt) | [Silent Planet](https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU) | [Collider](https://open.spotify.com/album/5U6toqNWDTsxJiYhn1ZUVy) | 3:41 | 2023-08-25 | 2024-02-03 |
@@ -442,6 +444,7 @@
 | [Martyr](https://open.spotify.com/track/2wtCQ4hMGsPQrQ45Kq98qJ) | [GEL](https://open.spotify.com/artist/1fRv9jiRIN7zAOSpOfRP73) | [Persona](https://open.spotify.com/album/7iSh8UZLiaaxaxi6H8BRjc) | 2:36 | 2024-08-16 |  |
 | [Masc](https://open.spotify.com/track/4VXRyp2UzYP7AEfPw9BMze) | [Chat Pile](https://open.spotify.com/artist/4yRSUmhuSJ3KcIMljdh4fH) | [Masc](https://open.spotify.com/album/3kiTF4RUr3WAoV4fZiHXSA) | 4:09 | 2024-08-23 |  |
 | [Masters of Morbidity](https://open.spotify.com/track/0T6GFp0XeYDiQv083xTZyp) | [200 Stab Wounds](https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv) | [Masters of Morbidity](https://open.spotify.com/album/7IAQnZhOMVvzgeAS4BMRu7) | 4:22 | 2022-11-11 | 2023-07-15 |
+| [Mau Moko](https://open.spotify.com/track/7GEGSpjoraxIjBixahlNGq) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Mau Moko](https://open.spotify.com/album/2NnSQN57zQmBuOE855iDxF) | 3:45 | 2025-01-17 |  |
 | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/track/4AFjPeecGnS3999PV5iOSK) | [Gojira](https://open.spotify.com/artist/0GDGKpJFhVpcjIGF8N6Ewt), [Marina Viotti](https://open.spotify.com/artist/79i3gkVE8U1ff8X4TRX7y4), [Victor Le Masne](https://open.spotify.com/artist/73HYvBYbBoXKmDEzsM27RI) | [Mea Culpa \(Ah! Ça ira!\)](https://open.spotify.com/album/4k6UKb3mWQcQ5yEiyi43DT) | 2:53 | 2024-08-30 |  |
 | [Meat & Greet](https://open.spotify.com/track/4GxFq0SoA0QOsocHvtHIvL) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [Meat & Greet](https://open.spotify.com/album/0EDJSn1GinJHCk2jE8DiMp) | 3:30 | 2023-10-20 | 2024-02-03 |
 | [Meat Magnet](https://open.spotify.com/track/35r5Dt58LBPIwL0Tzk3wX8) | [Escuela Grind](https://open.spotify.com/artist/75lXMXjUfNNbrBz6auGvvG), [Barney Greenway](https://open.spotify.com/artist/62sEOi8iaAJtqjv6pq7XO9) | [Meat Magnet](https://open.spotify.com/album/48xhkBjkwomTJ8XpYK8sxk) | 3:07 | 2023-12-15 | 2024-02-03 |
@@ -478,6 +481,7 @@
 | [New Lords](https://open.spotify.com/track/4sIMxYelrFrWIpwmaZDFbD) | [Mindforce](https://open.spotify.com/artist/2Tl7uZui4u9a3nXUM9VMei) | [New Lords](https://open.spotify.com/album/3ooHHRgO3lE9JjCXAwZAqz) | 1:16 | 2022-09-16 | 2023-07-15 |
 | [New Reality](https://open.spotify.com/track/5Mz72qEJk1btZmPCasmS7Z) | [Cave In](https://open.spotify.com/artist/5m2NwwPj4pzGQC0PQwMBWi) | [New Reality](https://open.spotify.com/album/6KPHDHJ2nRjyGHwICBkorf) | 4:41 | 2022-03-18 | 2023-07-15 |
 | [new way out](https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t) | [Poppy](https://open.spotify.com/artist/5mlbvTfWUOfDrUIK6dkNzv) | [new way out](https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD) | 3:22 | 2024-06-07 |  |
+| [Next To Bleed](https://open.spotify.com/track/0QsSzy8TtvrHskTJ4CRjUe) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Next To Bleed](https://open.spotify.com/album/3Q5ig5r9B1HnQEKJJnW5tU) | 1:54 | 2025-01-17 |  |
 | [Night Flight](https://open.spotify.com/track/2Y0SPSerR77eRSbHDM2Rim) | [NEMOPHILA](https://open.spotify.com/artist/1ijXMkMWUj8mJrW2SnIvpp) | [Night Flight](https://open.spotify.com/album/1v5HmQMkleI2DILizLGfiV) | 3:57 | 2023-05-26 | 2024-02-03 |
 | [Night Stalkers](https://open.spotify.com/track/27uMsh4uGnICXv12WQd4fN) | [Megadeth](https://open.spotify.com/artist/1Yox196W7bzVNZI7RBaPnf), [ICE\-T](https://open.spotify.com/artist/0eGh2jSWPBX5GuqIHoZJZG) | [Night Stalkers / We’ll Be Back](https://open.spotify.com/album/7E23y6lreAy6VWsxTnFx4s) | 6:38 | 2022-07-22 | 2023-07-15 |
 | [Night Terror](https://open.spotify.com/track/0bFg4i9Izzpc4p9bTj4Pug) | [Dream Theater](https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep) | [Night Terror](https://open.spotify.com/album/0hTHZRYNB5s7yteEoYQIzC) | 9:55 | 2024-10-11 |  |
@@ -489,6 +493,7 @@
 | [No Love Lost](https://open.spotify.com/track/3Q9cNpMUVatuDLlRtmxvJD) | [Year of the Knife](https://open.spotify.com/artist/6z6uImpvyrxii5OyX1ic8Q) | [No Love Lost](https://open.spotify.com/album/5nOj9wbbrVwrNCAwue9PTf) | 3:45 | 2023-10-27 | 2024-02-03 |
 | [No Mercy, No Remorse](https://open.spotify.com/track/7fVuehJJQ7tccou7HcNtCD) | [Heavy//Hitter](https://open.spotify.com/artist/67VjKj4enx3D6auLtAZKCU) | [No Mercy, No Remorse](https://open.spotify.com/album/4yCPhsLVlRQ1HVA0dH3uXm) | 2:48 | 2024-09-06 |  |
 | [No Place That Doesn't See You](https://open.spotify.com/track/0l8TDZQIVuigiK5iMHLiVt) | [Mil\-Spec](https://open.spotify.com/artist/5iWmisoEhjZGn4QYLRqzuy) | [Marathon](https://open.spotify.com/album/0V6pjsjhW4XG6KA0ZCG1c4) | 2:22 | 2023-10-06 | 2024-02-03 |
+| [NO REVIVES](https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [FEED](https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4) | 3:26 | 2025-01-17 |  |
 | [No Temple](https://open.spotify.com/track/0tvT2HYtCSmgrVhwEvUAIK) | [Pupil Slicer](https://open.spotify.com/artist/4CKJ5MS6jkSIRsReeyCNjk) | [No Temple](https://open.spotify.com/album/4QFjiT8ogt8dHH44ZWhk4e) | 4:38 | 2023-04-13 | 2024-02-03 |
 | [Noah](https://open.spotify.com/track/7nNIk5X6AanHDEhYKekymO) | [Left to Suffer](https://open.spotify.com/artist/36d1uVy1ZuZWqfnsPxCUOk), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Noah](https://open.spotify.com/album/4PyTSqcMOE1DXi4pLu1T0F) | 3:36 | 2023-08-04 | 2024-02-03 |
 | [Nobody](https://open.spotify.com/track/4tjTsxTBcacHcx0AvWERLE) | [Avenged Sevenfold](https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs) | [Nobody](https://open.spotify.com/album/4SeaFQDKygggRW9lrmwAhy) | 5:53 | 2023-03-17 | 2024-02-03 |
@@ -780,6 +785,7 @@
 | [To Cut Off The Head Of The Snake](https://open.spotify.com/track/3kj5ZrH5xC5xfXVKNKwwTo) | [Living Gate](https://open.spotify.com/artist/6uiTa3MLovwAdLBbDCveLa) | [To Cut Off The Head Of The Snake](https://open.spotify.com/album/5EqAKmfvMg6I3aFhk8ag6v) | 4:55 | 2024-09-27 |  |
 | [To The Dance Floor For Shelter](https://open.spotify.com/track/56Vtx5Pdhg0sgmbczxJ5b5) | [SeeYouSpaceCowboy...](https://open.spotify.com/artist/7CFS5X96xBaJft4QdzTTC1), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [To The Dance Floor For Shelter \(feat\. Courtney LaPlante\)](https://open.spotify.com/album/5S9zh1BaFjgNq1TdDNH1Se) | 4:19 | 2024-03-29 |  |
 | [TOMBSTONE](https://open.spotify.com/track/2jv1ovpDpTJEPIlth5Wn07) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [TOMBSTONE](https://open.spotify.com/album/1GBHFnzhG6Sja5exkh59Xr) | 2:58 | 2024-05-17 |  |
+| [Too Much](https://open.spotify.com/track/6F4qSBCQTV36A4U8qBTAjS) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Too Much](https://open.spotify.com/album/4PEpzl1k2KTG6oCMiTMviE) | 3:41 | 2025-01-17 |  |
 | [Toothache](https://open.spotify.com/track/1ebbuLtMSqv3epP1UCDZRk) | [LOCKED SHUT](https://open.spotify.com/artist/5wXFJIjoTJiIcUqTrL808e) | [Toothache](https://open.spotify.com/album/1TEguvuGEPkC2DaNXIJBE2) | 1:54 | 2024-08-09 |  |
 | [Torn From Your Silhouette](https://open.spotify.com/track/1zLdk7jMOHh3QQkC9GrW5L) | [Dying Wish](https://open.spotify.com/artist/4igS2MSwOIf3F9YeL929IO) | [Torn From Your Silhouette](https://open.spotify.com/album/5mTEPe5O2xBhkGJpDalRx4) | 2:26 | 2023-04-07 | 2024-02-03 |
 | [Tote](https://open.spotify.com/track/51rKTcFDLxU0YJyP5eH6b5) | [Slay Squad](https://open.spotify.com/artist/1Zi4Bswn8gDAoyFwEkQFqE) | [Tote](https://open.spotify.com/album/4mOdpOvQV5XOqosMWsvy7s) | 2:07 | 2023-05-26 | 2024-02-03 |

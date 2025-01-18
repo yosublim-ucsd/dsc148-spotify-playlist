@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 202639,
       "name": "Acostumbr\u00e1ndome",
       "url": "https://open.spotify.com/track/5jcPyB4EBW37EeoDaqzDDx"
@@ -4154,7 +4154,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 165806,
       "name": "Ay Dio\u00b4mio",
       "url": "https://open.spotify.com/track/7iUeXX3cyks4GInJ1F9dwF"
@@ -5356,7 +5356,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 175636,
       "name": "Bueno",
       "url": "https://open.spotify.com/track/52vDuygHaa5PnaW0as9jzy"
@@ -7164,6 +7164,24 @@
       "duration_ms": 413663,
       "name": "Como el Ciervo Brama - Live",
       "url": "https://open.spotify.com/track/0wgCAaj7jIeOduT7RjVSy1"
+    },
+    {
+      "album": {
+        "name": "Como en El Cielo (V2)",
+        "url": "https://open.spotify.com/album/4oDQgOcI6MntPZq6RrDKea"
+      },
+      "artists": [
+        {
+          "name": "Naci\u00f3n Real",
+          "url": "https://open.spotify.com/artist/3CRjPCbwgcnkxwVZYQqgcu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182307,
+      "name": "Como En El Cielo - V2",
+      "url": "https://open.spotify.com/track/2UcGQ5vDwWpBTDoRK3SQZU"
     },
     {
       "album": {
@@ -9341,6 +9359,28 @@
     },
     {
       "album": {
+        "name": "Cuando Veo Tu Gloria",
+        "url": "https://open.spotify.com/album/2oQnSXghxtK3P5uuTFoSUL"
+      },
+      "artists": [
+        {
+          "name": "Genesis Campos",
+          "url": "https://open.spotify.com/artist/7wkTrNBSBRtgQpmi0k7wHj"
+        },
+        {
+          "name": "Ayrton Day",
+          "url": "https://open.spotify.com/artist/45ofU8JjddtvjfP1UXV7um"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195975,
+      "name": "Cuando Veo Tu Gloria",
+      "url": "https://open.spotify.com/track/6t9bhCxFfg8kf1v621qR34"
+    },
+    {
+      "album": {
         "name": "Cuando Yo Te Vuelva a Ver",
         "url": "https://open.spotify.com/album/2x8MAYmBxCEqRIjEVJ2atv"
       },
@@ -10030,6 +10070,32 @@
       "duration_ms": 233408,
       "name": "De La Mano",
       "url": "https://open.spotify.com/track/5YS7ytkllQHupVVwkJOeHV"
+    },
+    {
+      "album": {
+        "name": "De Lo Mio",
+        "url": "https://open.spotify.com/album/4IhZwaFfS1aVAktK45vM9U"
+      },
+      "artists": [
+        {
+          "name": "Samuel ASH",
+          "url": "https://open.spotify.com/artist/0rEA0gRl4PtPfrb2bdAjtv"
+        },
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Niko Eme",
+          "url": "https://open.spotify.com/artist/4jLWtcGrESS5YvRip2ATmL"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175133,
+      "name": "De Lo Mio",
+      "url": "https://open.spotify.com/track/6FmP8ytOuZrqC7FBKJi24A"
     },
     {
       "album": {
@@ -15389,6 +15455,28 @@
     },
     {
       "album": {
+        "name": "Es \u00c9l (En Vivo)",
+        "url": "https://open.spotify.com/album/5Vk9T7AnWfvszkXyVEk9xS"
+      },
+      "artists": [
+        {
+          "name": "Felipe S. Santos",
+          "url": "https://open.spotify.com/artist/2CDj0rjKfUgyXeSazcfPHJ"
+        },
+        {
+          "name": "Marcos Brunet",
+          "url": "https://open.spotify.com/artist/7cLoxFihGCVL3s1K3xHK4I"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 442894,
+      "name": "Es \u00c9l - En Vivo",
+      "url": "https://open.spotify.com/track/2I62ilF5qfbJqDwaIJ5snf"
+    },
+    {
+      "album": {
         "name": "Es \u00c9pico Cristiano",
         "url": "https://open.spotify.com/album/2vGONICCl3n71w90DmmzYV"
       },
@@ -16995,6 +17083,28 @@
     },
     {
       "album": {
+        "name": "Fidelidad (Live)",
+        "url": "https://open.spotify.com/album/4BdSMlD1rUrRFejwWAgeP7"
+      },
+      "artists": [
+        {
+          "name": "Lakewood Music Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3hQcvPIPBPvb9loR6XbIK6"
+        },
+        {
+          "name": "Ingrid Rosario",
+          "url": "https://open.spotify.com/artist/39PYJNgoQuBHjE6LEn3ZdE"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285853,
+      "name": "Fidelidad - Live",
+      "url": "https://open.spotify.com/track/4fjdILkDlj7E68r4PPTAut"
+    },
+    {
+      "album": {
         "name": "Fiel",
         "url": "https://open.spotify.com/album/32lSJQMbYSQ22TBeWSo2d8"
       },
@@ -17288,6 +17398,24 @@
       "duration_ms": 179999,
       "name": "Flavor",
       "url": "https://open.spotify.com/track/1SJhAaHz6DbDOfQJ11RqzF"
+    },
+    {
+      "album": {
+        "name": "Florece",
+        "url": "https://open.spotify.com/album/4iRMsujyuyX3KavmiIRVAd"
+      },
+      "artists": [
+        {
+          "name": "Jay Kalyl",
+          "url": "https://open.spotify.com/artist/0sHeKC0Zcxpz4wOHHE5oJ7"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172272,
+      "name": "Florece",
+      "url": "https://open.spotify.com/track/1W0YfTjpNe4ZlZmLsVBYa1"
     },
     {
       "album": {
@@ -21399,6 +21527,28 @@
     },
     {
       "album": {
+        "name": "Incomparable (Live)",
+        "url": "https://open.spotify.com/album/6sRZ9iubi48FtsF1HRZnS9"
+      },
+      "artists": [
+        {
+          "name": "Jennifer Salinas",
+          "url": "https://open.spotify.com/artist/7GudoSqEQavoY6X5CtYTp9"
+        },
+        {
+          "name": "Denicher Pol",
+          "url": "https://open.spotify.com/artist/3C3hBriCxs5RVra7yTMacj"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 728888,
+      "name": "Incomparable - Live",
+      "url": "https://open.spotify.com/track/1xZBs9vTm9sw7P3d7zHf7Q"
+    },
+    {
+      "album": {
         "name": "Cicatrices",
         "url": "https://open.spotify.com/album/0xILbmyhDj8m7vIbHFA878"
       },
@@ -23131,6 +23281,32 @@
     },
     {
       "album": {
+        "name": "La Delicada Voz de Tu Esp\u00edritu",
+        "url": "https://open.spotify.com/album/7pvmbz7aAEyaFNP81LxjCk"
+      },
+      "artists": [
+        {
+          "name": "Mariannah y Diego",
+          "url": "https://open.spotify.com/artist/2bZwH6BImOFTkOPaSdbtOG"
+        },
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        },
+        {
+          "name": "David Ordo\u00f1ez",
+          "url": "https://open.spotify.com/artist/2ObAn94Bm0Q9cSyryDKVI0"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184466,
+      "name": "La Delicada Voz de Tu Esp\u00edritu",
+      "url": "https://open.spotify.com/track/2mU3BYLKIxxrVOf9tX0nZ8"
+    },
+    {
+      "album": {
         "name": "Christian Legacy's Big Band Vol. 2",
         "url": "https://open.spotify.com/album/3UAaKWobGWTGc8gawnBQB5"
       },
@@ -23332,7 +23508,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 178867,
       "name": "La M\u00e1s Bella",
       "url": "https://open.spotify.com/track/5QDD1UPPDcwpB6u3Bk58lm"
@@ -27664,7 +27840,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 214855,
       "name": "Mi Cita Favorita",
       "url": "https://open.spotify.com/track/5BAaLXQXVE1SB2xSLwc9QL"
@@ -28142,7 +28318,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 162827,
       "name": "Mi Medicina - Version Ac\u00fastica",
       "url": "https://open.spotify.com/track/37EbwEhNgHk3f7H4zHz0nW"
@@ -30748,7 +30924,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 174684,
       "name": "No Hay Como Tu",
       "url": "https://open.spotify.com/track/4WfuBeMG5FHbXUlAmpdsZd"
@@ -31528,7 +31704,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 146828,
       "name": "No Soy El Mismo",
       "url": "https://open.spotify.com/track/43Cn4CVlpTBOseALvTsjUY"
@@ -33430,6 +33606,28 @@
       "duration_ms": 455885,
       "name": "Para Siempre te Bendecir\u00e9",
       "url": "https://open.spotify.com/track/3j7kQdXknNWpjQgzH59LBJ"
+    },
+    {
+      "album": {
+        "name": "Para Siempre YHWH",
+        "url": "https://open.spotify.com/album/4Dcg3zKsIFZPe6AAeGwkPI"
+      },
+      "artists": [
+        {
+          "name": "Anthem Worship Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/32P5BFOjACzqsAvzeJkR9A"
+        },
+        {
+          "name": "Giovanna Diaz",
+          "url": "https://open.spotify.com/artist/5vuM2iDsp7ICyv7CIiUKGQ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182904,
+      "name": "Para Siempre YHWH",
+      "url": "https://open.spotify.com/track/0IM0LBjxn2a2ZsDoUuoCQy"
     },
     {
       "album": {
@@ -37206,7 +37404,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 220425,
       "name": "Restaurame - JIMMY ROCK Remix",
       "url": "https://open.spotify.com/track/4LmaeamquxdrXJnrNqwjgV"
@@ -40472,6 +40670,28 @@
     {
       "album": {
         "name": "Solo Cristo",
+        "url": "https://open.spotify.com/album/7KIakekNHZvK4ZJe7lXxQa"
+      },
+      "artists": [
+        {
+          "name": "Arisa",
+          "url": "https://open.spotify.com/artist/5SFnAytG1FCMgIDzdSl9me"
+        },
+        {
+          "name": "Shammai",
+          "url": "https://open.spotify.com/artist/3hp9n03tGKNU5O3xMdSRMz"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 657553,
+      "name": "Solo Cristo",
+      "url": "https://open.spotify.com/track/3oGlMMQKw37nuf6yLuCtb3"
+    },
+    {
+      "album": {
+        "name": "Solo Cristo",
         "url": "https://open.spotify.com/album/6OSnVqORLcv0eLMoG4Ye5a"
       },
       "artists": [
@@ -42799,6 +43019,24 @@
     },
     {
       "album": {
+        "name": "Te prefiero a Ti",
+        "url": "https://open.spotify.com/album/4RB7jvYrST5c3T7JvdGZNF"
+      },
+      "artists": [
+        {
+          "name": "Oveja Cosmica",
+          "url": "https://open.spotify.com/artist/753kMQPUSpCNEXk4YcEUy6"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158817,
+      "name": "Te prefiero a Ti",
+      "url": "https://open.spotify.com/track/7IhmQYe5KGBxgexwvGJ8ig"
+    },
+    {
+      "album": {
         "name": "Te Prometo (Un Viaje Sinf\u00f3nico de Fe y Esperanza)",
         "url": "https://open.spotify.com/album/7ioVlnB6RIY4mQi2TusSPr"
       },
@@ -44544,6 +44782,24 @@
       "duration_ms": 192000,
       "name": "Tu Disc\u00edpulo Quiero Ser",
       "url": "https://open.spotify.com/track/4PQGzI1jpTggw4V3Wl53cH"
+    },
+    {
+      "album": {
+        "name": "Tu Dulce Voz (L\u00e1zaro)",
+        "url": "https://open.spotify.com/album/2CQTVx1twdKzRtBScaX7QH"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 587066,
+      "name": "Tu Dulce Voz (L\u00e1zaro)",
+      "url": "https://open.spotify.com/track/708YdWq53xNewS3igtbYCg"
     },
     {
       "album": {
@@ -48450,7 +48706,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 180687,
       "name": "VUELO",
       "url": "https://open.spotify.com/track/4dqmHKaA7n7NHT8C8Au6TZ"
@@ -48782,7 +49038,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 178536,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/2X9pPhUKzlmThqWiWp6a4L"
@@ -50022,7 +50278,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 255600,
       "name": "\u00c9l Es Jes\u00fas",
       "url": "https://open.spotify.com/track/1YxrQ5wKheADRhEdCYLBh2"

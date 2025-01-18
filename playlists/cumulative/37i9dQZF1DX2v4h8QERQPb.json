@@ -724,7 +724,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 179761,
       "name": "Argentinos de Carton",
       "url": "https://open.spotify.com/track/5i7Dv8J1ie8KYF8F7BVhnX"
@@ -2614,7 +2614,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 144950,
       "name": "FLAM",
       "url": "https://open.spotify.com/track/0G6HHWjYnMRXhB7wYBHjRj"
@@ -3311,6 +3311,32 @@
     },
     {
       "album": {
+        "name": "2017",
+        "url": "https://open.spotify.com/album/6nEOeF9t2sdFkxu6oQ4LF0"
+      },
+      "artists": [
+        {
+          "name": "Nico Miseria",
+          "url": "https://open.spotify.com/artist/79ff28apoBUFLfPJQoTfro"
+        },
+        {
+          "name": "Mir Nicolas",
+          "url": "https://open.spotify.com/artist/0wTR1DXxJ3Ok60O4K4U9WT"
+        },
+        {
+          "name": "Allan Parrish",
+          "url": "https://open.spotify.com/artist/2yMVIdS7Fd5ndzQ7R86PIQ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181682,
+      "name": "Iconoclasta",
+      "url": "https://open.spotify.com/track/1AJFcqYb9gC9j3ngU6g8oz"
+    },
+    {
+      "album": {
         "name": "Ida & Vuelta",
         "url": "https://open.spotify.com/album/7Mb7nJQnyKx2v374tYtsRv"
       },
@@ -3556,7 +3582,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 154285,
       "name": "Juntas y Revueltas",
       "url": "https://open.spotify.com/track/6fUunh7NpHXcOcpUmmPlOO"
@@ -5343,6 +5369,24 @@
     },
     {
       "album": {
+        "name": "PRIO",
+        "url": "https://open.spotify.com/album/13JyHZ3nVS2OIP5M52lXwg"
+      },
+      "artists": [
+        {
+          "name": "Nacho A.K.A Augenuino",
+          "url": "https://open.spotify.com/artist/4MEAP9bVBG0XVdhxFtCnrQ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171810,
+      "name": "PRIO",
+      "url": "https://open.spotify.com/track/3KC6zFvBuikwNLOZRaOH4s"
+    },
+    {
+      "album": {
         "name": "PUAJ (sesi\u00f3n)",
         "url": "https://open.spotify.com/album/2NU5SWfJFO8IN7cvecZlww"
       },
@@ -6558,7 +6602,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 176086,
       "name": "Una Copa",
       "url": "https://open.spotify.com/track/7pXGoroCMyPQVLQmVHCn1z"

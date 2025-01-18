@@ -4,12 +4,13 @@
 
 > Explore the inner worlds floating in the imagination of experimental Ambient music producers.
 
-343 songs - 1 day 6 hr 3 min
+344 songs - 1 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [\#19](https://open.spotify.com/track/3zSBsvj6MWavRKfPE51395) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [\#19](https://open.spotify.com/album/7njwofUGv4MhSLm1VblQss) | 10:14 | 2024-06-18 |  |
 | [+puzzle](https://open.spotify.com/track/4rZ6nmUhYVCcuk2ijWgcrW) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [+puzzle](https://open.spotify.com/album/7FK9vKwozsNBvoioINxFa7) | 4:14 | 2024-09-01 |  |
+| [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 |  |
 | [1969](https://open.spotify.com/track/6AP8cZgUPZbbxlV40H98Xv) | [Ken Verheecke](https://open.spotify.com/artist/2zRXC9OjmjzJYeGJ76irbl) | [Northern Skies](https://open.spotify.com/album/2CQlQUHsZIiLKJkDyXZhj0) | 2:50 | 2022-02-18 |  |
 | [1st Day](https://open.spotify.com/track/1zbAxqx1OfY6Avcp7s1wJb) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 2:21 | 2022-03-04 |  |
 | [5th Night](https://open.spotify.com/track/7vEkNIl8MnRzugwZyQtSQY) | [Debit](https://open.spotify.com/artist/101vLnWdoeyAyQhADB4bqe) | [The Long Count](https://open.spotify.com/album/5E3VtquEh09l4f1jvLbksN) | 3:04 | 2022-09-21 | 2024-07-31 |
@@ -169,7 +170,7 @@
 | [Lux1](https://open.spotify.com/track/5GWSvEJ9CLeg438Lc4h6gB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Starethrough EP](https://open.spotify.com/album/3zQKEOD2AsQDAzBPR2DVYD) | 6:03 | 2021-10-06 | 2022-07-15 |
 | [Ma germanes](https://open.spotify.com/track/2NDSJ3mZdo0tO9qvDkTACF) | [Ubaldo](https://open.spotify.com/artist/4gE3moa3VLhHqUrm1Rw5I3) | [Casa](https://open.spotify.com/album/22YaEKiumEvAKJesARqhfx) | 6:01 | 2021-12-15 | 2022-07-27 |
 | [Magic](https://open.spotify.com/track/7os5F4kzYma6UM1zUMc7X8) | [Emeralds](https://open.spotify.com/artist/45btnwhUWFlR7Op5oTfDPv), [Steve Hauschildt](https://open.spotify.com/artist/2L00vHmYcwC9OlsEv6M5UO), [Mark McGuire](https://open.spotify.com/artist/2w7aH9RfRWfODKlj0WI8By), [Imaginary Softwoods](https://open.spotify.com/artist/7KUvseAKmkJLnTRikLsaPG) | [Solar Bridge](https://open.spotify.com/album/5XvuOSe15rwQZdNUlaIrg7) | 12:30 | 2024-01-11 |  |
-| [Mammatus](https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Mammatus](https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5) | 3:54 | 2022-02-18 |  |
+| [Mammatus](https://open.spotify.com/track/6giYnirz09CPhUuZpbUD9g) | [Aatom](https://open.spotify.com/artist/3jZNP1cGIr9jG32lxHUezh) | [Mammatus](https://open.spotify.com/album/6NZf1c6w62aoBAgaixdKD5) | 3:54 | 2022-02-18 | 2025-01-18 |
 | [Melancholia II](https://open.spotify.com/track/243SYVzBHECQf3paZxeHGd) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 6:49 | 2023-04-21 | 2024-04-19 |
 | [Melancholia II](https://open.spotify.com/track/0ALo5LHdF3hJiD8WFN770B) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/40PGXFDDAcsyKVFA3IcN4q) | 6:50 | 2021-10-06 | 2023-04-29 |
 | [Melancholia II](https://open.spotify.com/track/2UZXQrEi0A8ySbDuyeuMt3) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2mDwgIyil7jUI192RqJ1Lm) | 6:50 | 2021-10-06 | 2022-07-29 |

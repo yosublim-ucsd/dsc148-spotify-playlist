@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4WpAAAAAAC1WlZ2dUCgW6hd740iQdXF",
+  "snapshot_id": "Z4hMAAAAAACFyL7RQofJKbHUwAaYFdxW",
   "tracks": [
     {
       "added_at": null,
@@ -388,29 +388,25 @@
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 180087,
-      "name": "Launa \u02bbOle K\u014d Hie",
-      "url": "https://open.spotify.com/track/5QDDHyxpe452EYRsTwwreB"
+      "duration_ms": 214366,
+      "name": "Ulup\u014d Nui",
+      "url": "https://open.spotify.com/track/3hP50hIbqKdScxY4DKKLKW"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Na Pono Hawaii",
-        "url": "https://open.spotify.com/album/2a0Q1Fp7UmDBM6sIb3H7Qa"
+        "name": "K\u0101wili",
+        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
       },
       "artists": [
-        {
-          "name": "Kamehameha Schools Children's Chorus",
-          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
-        },
         {
           "name": "Keauhou",
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 176013,
-      "name": "N\u0101 Pono Hawai\u2018i",
-      "url": "https://open.spotify.com/track/4VUxv1fLgA0EFKyOlLRiaq"
+      "duration_ms": 159020,
+      "name": "He Aloha Wau i\u0101 \u02bbOe",
+      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
     },
     {
       "added_at": null,
@@ -447,18 +443,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "K\u0101wili",
-        "url": "https://open.spotify.com/album/5Jrfi28fF8l3NK0coDarNC"
+        "name": "Na Pono Hawaii",
+        "url": "https://open.spotify.com/album/2a0Q1Fp7UmDBM6sIb3H7Qa"
       },
       "artists": [
+        {
+          "name": "Kamehameha Schools Children's Chorus",
+          "url": "https://open.spotify.com/artist/5uOO6CI45847UsjUQsd2iS"
+        },
         {
           "name": "Keauhou",
           "url": "https://open.spotify.com/artist/2GZLTtHWCgY8ITTKfNhoyq"
         }
       ],
-      "duration_ms": 159020,
-      "name": "He Aloha Wau i\u0101 \u02bbOe",
-      "url": "https://open.spotify.com/track/0xu4HQ3huYGtg3Gy12GROP"
+      "duration_ms": 176013,
+      "name": "N\u0101 Pono Hawai\u2018i",
+      "url": "https://open.spotify.com/track/4VUxv1fLgA0EFKyOlLRiaq"
     },
     {
       "added_at": null,

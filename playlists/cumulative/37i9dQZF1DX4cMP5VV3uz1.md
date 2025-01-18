@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-360 songs - 21 hr 3 min
+361 songs - 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,6 +335,7 @@
 | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/track/6WwzdsP1Y1bb4NYXpgn5CD) | [Luude](https://open.spotify.com/artist/20cmhoGvN0eyzhmsHJH1Mg), [Bru\-C](https://open.spotify.com/artist/7GDrXlpRrdG29o4n0pNR5D), [Kevin Lyttle](https://open.spotify.com/artist/1GaBsp1ICIp1e6udgE7fba) | [TMO \(Turn Me On\) \[feat\. Kevin Lyttle\]](https://open.spotify.com/album/3RYTWuCl3BNAJSUkIo8Wnv) | 2:39 | 2023-05-19 | 2024-07-27 |
 | [To The Sky](https://open.spotify.com/track/2ta1uHvZMY7yG8xms7VTr3) | [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [To The Sky](https://open.spotify.com/album/3LviA14vmUtH2BxQs0R2ez) | 3:11 | 2024-10-18 |  |
 | [Tour](https://open.spotify.com/track/1Mze7crzF9BWo82DiAsmjj) | [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx) | [Tour](https://open.spotify.com/album/1fPMAtqc8DOwCSLIVb98xv) | 4:49 | 2022-09-30 | 2023-11-17 |
+| [Trigga Finga](https://open.spotify.com/track/1DRu17abhsN8N28KxvhFVn) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [T95](https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS), [Eksman](https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7) | [Trigga Finga](https://open.spotify.com/album/6BiHmR3sbgeTTWUUvOc7At) | 3:28 | 2025-01-17 |  |
 | [Trouble You](https://open.spotify.com/track/05LJS5peVvEBurQfv6YzvB) | [Sigma](https://open.spotify.com/artist/01pKrlgPJhm5dB4lneYAqS), [Watch the Ride](https://open.spotify.com/artist/6nagLG9dZzeqtMQCYMO9RC), [Doktor](https://open.spotify.com/artist/39Oq22GIYJKzgCbCDbOnRl) | [Trouble You](https://open.spotify.com/album/6ywuNTPdyga6Cxl5Q49LNp) | 2:45 | 2023-04-13 | 2023-05-27 |
 | [UFO](https://open.spotify.com/track/3prsXbnZl0Gn7JNAbI78vQ) | [Jamezy](https://open.spotify.com/artist/6HlduQEYuiszCOxwfhUBem) | [UFO / Artillery](https://open.spotify.com/album/6sY1GIFNgoYuwlUeCY164X) | 3:21 | 2024-11-22 | 2025-01-11 |
 | [UFO](https://open.spotify.com/track/1ulJc36cqWyrHbGp2WWEb0) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [UFO](https://open.spotify.com/album/4RDCwwCBcoC2Pv4vOYo7sT) | 2:34 | 2024-07-25 | 2024-09-19 |
@@ -348,7 +349,7 @@
 | [Waiting For You](https://open.spotify.com/track/5KATLe2Fizt1tV0qdw3mwh) | [Freaks & Geeks](https://open.spotify.com/artist/6Qcn4TflUyLRoA6w44IQSU) | [Waiting For You](https://open.spotify.com/album/4eeqWekeDRL40SWdsxQUte) | 3:46 | 2022-09-30 | 2024-02-23 |
 | [Want You](https://open.spotify.com/track/3QRE0rMSiI6ceS0ZOxFblB) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/1gwNOFmeMRGzIj2752iJEB) | 4:07 | 2023-05-19 | 2024-02-23 |
 | [Want You](https://open.spotify.com/track/4nrcPumLm5ozA8qOEHcVm2) | [Kanine](https://open.spotify.com/artist/1KiNUGL3r0GgyLwqYCY1yV) | [Want You](https://open.spotify.com/album/099tQXLTaW2A2pdLqX1dbL) | 4:07 | 2022-09-30 | 2023-05-19 |
-| [Wassup](https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Wassup](https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83) | 3:01 | 2024-11-22 |  |
+| [Wassup](https://open.spotify.com/track/6fkhc54YV2TpWaYiFUcGUJ) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Wassup](https://open.spotify.com/album/1eEL1av8bJtv07FWJ2oK83) | 3:01 | 2024-11-22 | 2025-01-18 |
 | [Wasted Youth \(feat\. Cat Burns\) \- \[IVY\] Remix](https://open.spotify.com/track/0bJV0wJnOCHNGetX12UX9t) | [goddard.](https://open.spotify.com/artist/3yDDYheQFqfhKZXdjFQuuP), [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn), [\[IVY\]](https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw) | [Wasted Youth \(feat\. Cat Burns\) \[\[IVY\] Remix\]](https://open.spotify.com/album/4skDqItwjbLSSLQlp5IdvE) | 3:09 | 2024-02-23 | 2025-01-11 |
 | [Wave](https://open.spotify.com/track/1g0qWlFYfzGxQpQn43DdKP) | [3BULLETS](https://open.spotify.com/artist/6LRMEcsM3RNPkRkfQyfcR7), [Lucky Luke](https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR), [Pat](https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL) | [Wave](https://open.spotify.com/album/1pmhtYrqBJZafUymULlRiv) | 2:00 | 2025-01-10 |  |
 | [We No Care](https://open.spotify.com/track/15NecrhXvyr5lm5Fh9jRmF) | [Exile](https://open.spotify.com/artist/021nLKqHhOqmUUMWt0EkDG), [Sola](https://open.spotify.com/artist/48Ndw6JlG5UMDTwuvCqr0u), [Dread MC](https://open.spotify.com/artist/2U5JmM5bTJuARrzQYnDAKn) | [We No Care](https://open.spotify.com/album/6p9bKNupWppnpL3DC6lNh9) | 4:09 | 2024-10-03 |  |

@@ -2,7 +2,7 @@
 
 ### [Hot Hits Brasil](https://open.spotify.com/playlist/37i9dQZF1DX03VbhoH7arm)
 
-> Grandes hits do BR e do 🌎 / Foto: IZA
+> Grandes hits do BR e do 🌎 / Foto: Pedro Sampaio, GW
 
 358 songs - 17 hr 31 min
 

@@ -401,6 +401,24 @@
     },
     {
       "album": {
+        "name": "D\u00cdA",
+        "url": "https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB"
+      },
+      "artists": [
+        {
+          "name": "Ela Minus",
+          "url": "https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 312282,
+      "name": "ABRIR MONTE",
+      "url": "https://open.spotify.com/track/7npn0mfuaUUNcrrVBsOEib"
+    },
+    {
+      "album": {
         "name": "Nothing Lasts Forever",
         "url": "https://open.spotify.com/album/1G4cROLKOADQHqhNeCzGqC"
       },
@@ -666,6 +684,24 @@
       "duration_ms": 179500,
       "name": "Alyosha Lying",
       "url": "https://open.spotify.com/track/2Xm1NUw2buXWoNvzKz7Wai"
+    },
+    {
+      "album": {
+        "name": "AMB001-008",
+        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
+      },
+      "artists": [
+        {
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 363353,
+      "name": "AMB001",
+      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
     },
     {
       "album": {
@@ -2462,7 +2498,7 @@
       ],
       "date_added": "2022-02-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 184000,
       "name": "Diamond Beach",
       "url": "https://open.spotify.com/track/5WVz5up4Vy54E981lOQ17P"
@@ -2700,7 +2736,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 596250,
       "name": "Earthship",
       "url": "https://open.spotify.com/track/3533PV6FkVuFWZi3sAPmce"
@@ -4121,6 +4157,24 @@
     },
     {
       "album": {
+        "name": "Lake",
+        "url": "https://open.spotify.com/album/5thgnsnY8BYC27Esdvnr6H"
+      },
+      "artists": [
+        {
+          "name": "Juha M\u00e4ki-Patola",
+          "url": "https://open.spotify.com/artist/6UMvXeBrLr04seUgcTvlxK"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211053,
+      "name": "Lake",
+      "url": "https://open.spotify.com/track/1YtOsElSkFdSDMbtDiSkJD"
+    },
+    {
+      "album": {
         "name": "let all the poisons that lurk in the mud seep out (Actress Remix)",
         "url": "https://open.spotify.com/album/1OsykdLbXH6KL0tAebPL1X"
       },
@@ -4442,7 +4496,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 264155,
       "name": "Mexican Helium",
       "url": "https://open.spotify.com/track/6JSfZeeU5uG9GjRXE8H9ua"
@@ -6303,6 +6357,24 @@
     },
     {
       "album": {
+        "name": "Shall We Begin",
+        "url": "https://open.spotify.com/album/6fAc71Y6Z2tPdEmYeVE9Jg"
+      },
+      "artists": [
+        {
+          "name": "Above & Beyond",
+          "url": "https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Shall We Begin",
+      "url": "https://open.spotify.com/track/7cOyWm2g0GNZMbsFIiR2J6"
+    },
+    {
+      "album": {
         "name": "Reflections 06",
         "url": "https://open.spotify.com/album/4rCoIoKUuFFEqHaNTpgvOx"
       },
@@ -6398,7 +6470,7 @@
       ],
       "date_added": "2023-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 447847,
       "name": "Signal",
       "url": "https://open.spotify.com/track/1BlAZfBzrNiXyHfUQUSilj"

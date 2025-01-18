@@ -1,6 +1,6 @@
 {
   "description": "Songs, die von innen w\u00e4rmen.",
-  "num_followers": 1066183,
+  "num_followers": 1066304,
   "original_name": "Winter Chillout",
   "owner": {
     "name": "Spotify",
@@ -311,6 +311,22 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
+        "name": "Depression Cherry",
+        "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 320466,
+      "name": "Space Song",
+      "url": "https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
         "name": "Lady Lady",
         "url": "https://open.spotify.com/album/2wqG59dVVQlJaxoO7N0LJt"
       },
@@ -327,22 +343,6 @@
       "duration_ms": 301893,
       "name": "Tadow",
       "url": "https://open.spotify.com/track/51rPRW8NjxZoWPPjnRGzHw"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
-        "name": "Depression Cherry",
-        "url": "https://open.spotify.com/album/4SkZTSXdPpzTbf6C0m1UKv"
-      },
-      "artists": [
-        {
-          "name": "Beach House",
-          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
-        }
-      ],
-      "duration_ms": 320466,
-      "name": "Space Song",
-      "url": "https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -411,26 +411,6 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        },
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 190464,
-      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
-      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
         "name": "Texas Moon",
         "url": "https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu"
       },
@@ -447,6 +427,26 @@
       "duration_ms": 310553,
       "name": "Mariella",
       "url": "https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
+        "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+        "url": "https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        },
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 190464,
+      "name": "Snooze (Acoustic) (feat. Justin Bieber)",
+      "url": "https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -727,22 +727,6 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "S P E Y S I D E",
-        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 209077,
-      "name": "S P E Y S I D E",
-      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
         "name": "Crystal Tears",
         "url": "https://open.spotify.com/album/5EQiMkO4WpYpk8zPG8hrTb"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 239384,
       "name": "Crystal Tears",
       "url": "https://open.spotify.com/track/4z6YXURKvs98NXUlVGyevf"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "when words fail",
-        "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
-      },
-      "artists": [
-        {
-          "name": "Lara Samira",
-          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
-        }
-      ],
-      "duration_ms": 176495,
-      "name": "when words fail",
-      "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
         "name": "when i close my eyes",
         "url": "https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb"
       },
@@ -1127,6 +1111,22 @@
       "duration_ms": 226117,
       "name": "when i close my eyes",
       "url": "https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
+        "name": "when words fail",
+        "url": "https://open.spotify.com/album/2NU3pJ1McxMPwuVL2udxWU"
+      },
+      "artists": [
+        {
+          "name": "Lara Samira",
+          "url": "https://open.spotify.com/artist/6bzG909aYBHPSo8DVqvJK3"
+        }
+      ],
+      "duration_ms": 176495,
+      "name": "when words fail",
+      "url": "https://open.spotify.com/track/0gxdJ21QgsITEllamSwEXA"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "Oceanside",
-        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
-      },
-      "artists": [
-        {
-          "name": "Dennis Lloyd",
-          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
-        }
-      ],
-      "duration_ms": 167826,
-      "name": "Oceanside",
-      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
         "name": "Same Vibes",
         "url": "https://open.spotify.com/album/0m8atgFEMGDQy6FHBF9ypO"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 180721,
       "name": "Same Vibes",
       "url": "https://open.spotify.com/track/5TCkEIJWaKr0UzMGPVtWTM"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
+        "name": "Oceanside",
+        "url": "https://open.spotify.com/album/2t6dBaFMf05cJTSHGkkBWV"
+      },
+      "artists": [
+        {
+          "name": "Dennis Lloyd",
+          "url": "https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt"
+        }
+      ],
+      "duration_ms": 167826,
+      "name": "Oceanside",
+      "url": "https://open.spotify.com/track/21QdmvUzHMBUYHQLbKGMvq"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1383,18 +1383,18 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "Wasting Away",
-        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
       },
       "artists": [
         {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+          "name": "Wallners",
+          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
         }
       ],
-      "duration_ms": 168956,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
+      "duration_ms": 267100,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1415,18 +1415,18 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/24j6IoQ8Junn1mIXfgijU4"
+        "name": "Wasting Away",
+        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
       },
       "artists": [
         {
-          "name": "Wallners",
-          "url": "https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos"
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
         }
       ],
-      "duration_ms": 267100,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/4LIRPQO4jzel3t4aN5J8PN"
+      "duration_ms": 168956,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1443,6 +1443,26 @@
       "duration_ms": 156500,
       "name": "Barefoot",
       "url": "https://open.spotify.com/track/2v3wP0540bmkM7CFEqtqYy"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
+        "name": "i don't mind floating",
+        "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
+      },
+      "artists": [
+        {
+          "name": "Humble the Great",
+          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
+        },
+        {
+          "name": "Amie Blu",
+          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+        }
+      ],
+      "duration_ms": 174240,
+      "name": "september lightning",
+      "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1483,22 +1503,6 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "Our Beautiful Mess",
-        "url": "https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3"
-      },
-      "artists": [
-        {
-          "name": "ELI",
-          "url": "https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR"
-        }
-      ],
-      "duration_ms": 162517,
-      "name": "Build Me A Bridge",
-      "url": "https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
         "name": "Ha Ha Heartbreak",
         "url": "https://open.spotify.com/album/6LuOPb9O7o8nrUvARf1SDb"
       },
@@ -1515,22 +1519,18 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "i don't mind floating",
-        "url": "https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0"
+        "name": "Our Beautiful Mess",
+        "url": "https://open.spotify.com/album/0ZkXgfTXWi2UsQGmKqCHQ3"
       },
       "artists": [
         {
-          "name": "Humble the Great",
-          "url": "https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP"
-        },
-        {
-          "name": "Amie Blu",
-          "url": "https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC"
+          "name": "ELI",
+          "url": "https://open.spotify.com/artist/63gbXCha1jpkrJJ9K5gGpR"
         }
       ],
-      "duration_ms": 174240,
-      "name": "september lightning",
-      "url": "https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8"
+      "duration_ms": 162517,
+      "name": "Build Me A Bridge",
+      "url": "https://open.spotify.com/track/07aDoPEceysLO98w5Jy5IK"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
+        "name": "Versailles (Hold)",
+        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
+      },
+      "artists": [
+        {
+          "name": "Christian L\u00f6ffler",
+          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+        }
+      ],
+      "duration_ms": 218727,
+      "name": "Versailles (Hold) - Edit",
+      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+    },
+    {
+      "added_at": "2025-01-10 03:17:06",
+      "album": {
         "name": "Built To Break",
         "url": "https://open.spotify.com/album/1ZEvKDsf5wcTSzrfJ2LDGh"
       },
@@ -1619,18 +1635,26 @@
     {
       "added_at": "2025-01-10 03:17:06",
       "album": {
-        "name": "Versailles (Hold)",
-        "url": "https://open.spotify.com/album/0LKvGM4ka3ESkrCaiOuD15"
+        "name": "Closure (feat. BIRDY and Mishaal)",
+        "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
       },
       "artists": [
         {
-          "name": "Christian L\u00f6ffler",
-          "url": "https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO"
+          "name": "Sarcastic Sounds",
+          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
+        },
+        {
+          "name": "Birdy",
+          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
+        },
+        {
+          "name": "Mishaal Tamer",
+          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
         }
       ],
-      "duration_ms": 218727,
-      "name": "Versailles (Hold) - Edit",
-      "url": "https://open.spotify.com/track/4Yf9QLUM8EeHaCS7EnaHnX"
+      "duration_ms": 183986,
+      "name": "Closure (feat. BIRDY and Mishaal)",
+      "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
     },
     {
       "added_at": "2025-01-10 03:17:06",
@@ -1671,30 +1695,6 @@
       "duration_ms": 218786,
       "name": "Slow It Down",
       "url": "https://open.spotify.com/track/3BCA5KOKE7RRcrx0tK7kDK"
-    },
-    {
-      "added_at": "2025-01-10 03:17:06",
-      "album": {
-        "name": "Closure (feat. BIRDY and Mishaal)",
-        "url": "https://open.spotify.com/album/5zbJm1IeYNPeWEcxLH7yCk"
-      },
-      "artists": [
-        {
-          "name": "Sarcastic Sounds",
-          "url": "https://open.spotify.com/artist/1bq8rqNnfrojn0OSAfeNXJ"
-        },
-        {
-          "name": "Birdy",
-          "url": "https://open.spotify.com/artist/2WX2uTcsvV5OnS0inACecP"
-        },
-        {
-          "name": "Mishaal Tamer",
-          "url": "https://open.spotify.com/artist/2NM1t8dMvgeu9Lfl06574g"
-        }
-      ],
-      "duration_ms": 183986,
-      "name": "Closure (feat. BIRDY and Mishaal)",
-      "url": "https://open.spotify.com/track/2gQqknpjQSpBwJOtvTOnqP"
     },
     {
       "added_at": "2025-01-10 03:17:06",

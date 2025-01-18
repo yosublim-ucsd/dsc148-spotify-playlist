@@ -1,12 +1,12 @@
 {
   "description": "The best new music by independent artists in the Nordics. Cover: snuggle",
-  "num_followers": 24108,
+  "num_followers": 24127,
   "original_name": "Fresh Finds Nordics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mPQwAAAAARDYdq70oFOo364kO3BkfU",
+  "snapshot_id": "Z4py7gAAAAAGpdiUETMVa3Vx4eV8P69l",
   "tracks": [
     {
       "added_at": "2025-01-16 22:59:15",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-01-16 22:59:15",
       "album": {
-        "name": "gods last chance",
-        "url": "https://open.spotify.com/album/1tslCSJOQI9uIFLgG91BLJ"
-      },
-      "artists": [
-        {
-          "name": "Jaycov",
-          "url": "https://open.spotify.com/artist/6kbM2bCTPewpVWA4jXP7UV"
-        }
-      ],
-      "duration_ms": 124180,
-      "name": "gods last chance",
-      "url": "https://open.spotify.com/track/3pUPww70x2A3mYl9Tvbra9"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
         "name": "Hate Me For This",
         "url": "https://open.spotify.com/album/3AWwgYgmsw5BzxKEpF3Nyr"
       },
@@ -667,22 +651,6 @@
       "duration_ms": 166322,
       "name": "IGNORED",
       "url": "https://open.spotify.com/track/5juBv5OIT5ZMEiaVR0TqFN"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "Anima (Think of You)",
-        "url": "https://open.spotify.com/album/5ixZ3aCXcmZV14DQ5p4uzC"
-      },
-      "artists": [
-        {
-          "name": "Bav\u00e9",
-          "url": "https://open.spotify.com/artist/35y24zM1eLIcSUbdf7vPhM"
-        }
-      ],
-      "duration_ms": 197080,
-      "name": "Anima (Think of You)",
-      "url": "https://open.spotify.com/track/1AieXnhuF3VUadZ9fshOGv"
     },
     {
       "added_at": "2025-01-16 22:59:15",
@@ -799,22 +767,6 @@
     {
       "added_at": "2025-01-16 22:59:15",
       "album": {
-        "name": "Killerz",
-        "url": "https://open.spotify.com/album/1BmAoJthqgOtPu4jd4ab3K"
-      },
-      "artists": [
-        {
-          "name": "Dione",
-          "url": "https://open.spotify.com/artist/7KDUMWHH2AF8xfp5HV79aK"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "Killerz",
-      "url": "https://open.spotify.com/track/22cAqPXROdMYhrXtpQm9t8"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
         "name": "Enemy",
         "url": "https://open.spotify.com/album/2JcWwmyL0gDebUT18fZLnV"
       },
@@ -831,22 +783,6 @@
       "duration_ms": 204853,
       "name": "Just Yours (Your Hell)",
       "url": "https://open.spotify.com/track/6IINIwPsWoF5kEwCIcsA0N"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "Shoulder",
-        "url": "https://open.spotify.com/album/7jjCS1RPvekWlZ6RFZ0Ni1"
-      },
-      "artists": [
-        {
-          "name": "Venus Anon",
-          "url": "https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg"
-        }
-      ],
-      "duration_ms": 173440,
-      "name": "Shoulder",
-      "url": "https://open.spotify.com/track/1Z8MidkV2WcP1vUxM64vpf"
     },
     {
       "added_at": "2025-01-16 22:59:15",
@@ -943,22 +879,6 @@
       "duration_ms": 123258,
       "name": "Ugly",
       "url": "https://open.spotify.com/track/4tq4JNRU9x4wAh8KJ4krw3"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "10/10",
-        "url": "https://open.spotify.com/album/6XR7x0yo8BgOU5CdIUJPVX"
-      },
-      "artists": [
-        {
-          "name": "joel",
-          "url": "https://open.spotify.com/artist/01iqB1OLOnd5sNm6wo1jSR"
-        }
-      ],
-      "duration_ms": 172653,
-      "name": "10/10",
-      "url": "https://open.spotify.com/track/0A19MZxroYjdFfwF3xvShG"
     },
     {
       "added_at": "2025-01-16 22:59:15",
@@ -1207,22 +1127,6 @@
     {
       "added_at": "2025-01-16 22:59:15",
       "album": {
-        "name": "Sthlm In My <3",
-        "url": "https://open.spotify.com/album/4GHkgOqbKjs7YqQ8qADO23"
-      },
-      "artists": [
-        {
-          "name": "Megra",
-          "url": "https://open.spotify.com/artist/75JMPNQ1B2A6WZydvs06Ok"
-        }
-      ],
-      "duration_ms": 206865,
-      "name": "Sthlm In My <3",
-      "url": "https://open.spotify.com/track/7HrlxmJTE4B3HGFxPcUy2M"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
         "name": "Club Stranger",
         "url": "https://open.spotify.com/album/1Yyd6Q37sIgAl4MHPyKSdI"
       },
@@ -1235,22 +1139,6 @@
       "duration_ms": 164629,
       "name": "One Last Dance With You",
       "url": "https://open.spotify.com/track/2G34bn0Q30DpQMYdEXjRLq"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "Isolation Tank",
-        "url": "https://open.spotify.com/album/6M397yrObeJtlQKsA9H4uG"
-      },
-      "artists": [
-        {
-          "name": "ABY iO",
-          "url": "https://open.spotify.com/artist/5iqh7Mzaz75Gw2BqOYCYkP"
-        }
-      ],
-      "duration_ms": 137583,
-      "name": "Isolation Tank",
-      "url": "https://open.spotify.com/track/3G5m8R3WJDpsSGzDYs4SSk"
     },
     {
       "added_at": "2025-01-16 22:59:15",
@@ -1387,22 +1275,6 @@
     {
       "added_at": "2025-01-16 22:59:15",
       "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL"
-      },
-      "artists": [
-        {
-          "name": "Daghem",
-          "url": "https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Restart",
-      "url": "https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
         "name": "Heal Me",
         "url": "https://open.spotify.com/album/2pxE7IC7YYYfeJGImbvV8y"
       },
@@ -1483,102 +1355,6 @@
       "duration_ms": 214064,
       "name": "Souvenir",
       "url": "https://open.spotify.com/track/0wsGBYdn4Yl5f1otYZ8Ao9"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "Get down / Lovin you",
-        "url": "https://open.spotify.com/album/3Qf4lism8vGQb7jVVVHjxv"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 145246,
-      "name": "Get down",
-      "url": "https://open.spotify.com/track/5WPV4JsrLkNA1HSwx4JNgB"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "Cinema",
-        "url": "https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc"
-      },
-      "artists": [
-        {
-          "name": "Sunnan",
-          "url": "https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh"
-        }
-      ],
-      "duration_ms": 231000,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "Keep Forgetting",
-        "url": "https://open.spotify.com/album/5HBhsnBwHddgj9ookdBhDj"
-      },
-      "artists": [
-        {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        }
-      ],
-      "duration_ms": 173028,
-      "name": "Keep Forgetting",
-      "url": "https://open.spotify.com/track/1rc1butXPjPJnAR2LVJWvv"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "I Used To Be A Real Piece Of Shit",
-        "url": "https://open.spotify.com/album/4SpOELLHyGJCAvRJsMYvuT"
-      },
-      "artists": [
-        {
-          "name": "Sl\u00f8tface",
-          "url": "https://open.spotify.com/artist/5sCDleuvB5bBwbSGsp9Bwh"
-        }
-      ],
-      "duration_ms": 118343,
-      "name": "I Used To Be A Real Piece Of Shit",
-      "url": "https://open.spotify.com/track/4TdEpIsXQytCXjWxxegZdt"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "I don't want nobody but your body",
-        "url": "https://open.spotify.com/album/1xABETXf5cysdaFsx1k6sD"
-      },
-      "artists": [
-        {
-          "name": "JOA",
-          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
-        }
-      ],
-      "duration_ms": 171733,
-      "name": "I don't want nobody but your body",
-      "url": "https://open.spotify.com/track/49cJqSdMc8AebAsjnTM9H9"
-    },
-    {
-      "added_at": "2025-01-16 22:59:15",
-      "album": {
-        "name": "I Wanna Dive in the Seven Seas",
-        "url": "https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq"
-      },
-      "artists": [
-        {
-          "name": "School of X",
-          "url": "https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B"
-        }
-      ],
-      "duration_ms": 164523,
-      "name": "I Wanna Dive in the Seven Seas",
-      "url": "https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9"
     }
   ],
   "unique_name": "Fresh Finds Nordics",

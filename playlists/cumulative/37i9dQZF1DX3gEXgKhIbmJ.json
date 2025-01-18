@@ -1337,6 +1337,24 @@
     },
     {
       "album": {
+        "name": "De mansinho",
+        "url": "https://open.spotify.com/album/071vnK90AFzDfU0TOGOxe6"
+      },
+      "artists": [
+        {
+          "name": "Logri",
+          "url": "https://open.spotify.com/artist/1pDdBrq22wMmvTvms7RVEX"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197538,
+      "name": "De mansinho",
+      "url": "https://open.spotify.com/track/2eyNLImVSCAEFpp31EzICO"
+    },
+    {
+      "album": {
         "name": "Decis\u00f5es",
         "url": "https://open.spotify.com/album/2QryuPuVC5337ykUMYMb1j"
       },
@@ -1400,7 +1418,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 150822,
       "name": "Demb\u00e9l\u00e9 (feat. Niink & Veigh)",
       "url": "https://open.spotify.com/track/6Lgqcjgo0vYFSzdR8f15Gm"
@@ -1580,6 +1598,32 @@
       "duration_ms": 168779,
       "name": "Drink Azul",
       "url": "https://open.spotify.com/track/7lmt01rNRrfzWCfzKQI4oS"
+    },
+    {
+      "album": {
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
+      },
+      "artists": [
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+        },
+        {
+          "name": "DomLaike",
+          "url": "https://open.spotify.com/artist/4PzPx1yc3kGVo4EgCiLqCQ"
+        },
+        {
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128516,
+      "name": "DUAS VERS\u00d5ES",
+      "url": "https://open.spotify.com/track/1661UvXeRJJ5YBtERX83xz"
     },
     {
       "album": {
@@ -2868,7 +2912,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 108493,
       "name": "Luz da Lua",
       "url": "https://open.spotify.com/track/3q4v3jZOaWEfN7AEb3nG6O"

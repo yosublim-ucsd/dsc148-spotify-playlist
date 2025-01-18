@@ -1,13 +1,29 @@
 {
   "description": "Jazz voices of today. Cover: Samara Joy",
-  "num_followers": 152719,
+  "num_followers": 152769,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpWAAAAADzcnD9v+2Q1CMQV8FNgM4F",
+  "snapshot_id": "Z4nj6QAAAABYGFXWbneRoBxiPCkKwxlq",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:25",
+      "album": {
+        "name": "Stairway to the Stars",
+        "url": "https://open.spotify.com/album/1rHWr9iSD5OUtaO2mCIh80"
+      },
+      "artists": [
+        {
+          "name": "Laura Anglade",
+          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
+        }
+      ],
+      "duration_ms": 318857,
+      "name": "Stairway to the Stars",
+      "url": "https://open.spotify.com/track/2aRV7NOutbMjN6Ot1b7fBF"
+    },
     {
       "added_at": "2025-01-10 05:00:08",
       "album": {
@@ -223,22 +239,6 @@
       "duration_ms": 143358,
       "name": "Old Devil Moon",
       "url": "https://open.spotify.com/track/5mChxjgMC9mVrrGsoPNkiE"
-    },
-    {
-      "added_at": "2024-10-25 04:00:00",
-      "album": {
-        "name": "I Don\u2019t Mind",
-        "url": "https://open.spotify.com/album/6QbmGqAoE5zgRf0SXcpu0d"
-      },
-      "artists": [
-        {
-          "name": "Laura Anglade",
-          "url": "https://open.spotify.com/artist/49gu1QHXBPcWoeT5cyAGqG"
-        }
-      ],
-      "duration_ms": 252240,
-      "name": "I Don't Mind",
-      "url": "https://open.spotify.com/track/0QsXt6buqw7bJHqhlEIF4h"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -891,26 +891,6 @@
       "duration_ms": 262741,
       "name": "Silver Tongue",
       "url": "https://open.spotify.com/track/0Qxsuh1NoCMWDYVfC49XRE"
-    },
-    {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Lover + Tattoo",
-        "url": "https://open.spotify.com/album/6Le1QNBHfDZiDlZocTuuNV"
-      },
-      "artists": [
-        {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
-        },
-        {
-          "name": "Haley Reinhart",
-          "url": "https://open.spotify.com/artist/5cKlE8f6b26h61Ml7m052Q"
-        }
-      ],
-      "duration_ms": 286426,
-      "name": "Lover",
-      "url": "https://open.spotify.com/track/1KSyemSUL2kyIzIK1rtOrY"
     },
     {
       "added_at": "2024-05-24 04:00:00",

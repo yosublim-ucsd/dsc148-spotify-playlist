@@ -4,7 +4,7 @@
 
 > Discover the classical side of your favourite Disney soundtracks.
 
-160 songs - 8 hr 17 min
+163 songs - 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -36,6 +36,7 @@
 | [Cavern](https://open.spotify.com/track/7G7mCFXQRHxNkbtsZPkNc9) | [Mark Mancina](https://open.spotify.com/artist/4pVaQcaBqbvk0ucB4r65e3) | [Moana \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/6pZj4nvx6lV3ulIK3BSjvs) | 2:05 | 2021-10-07 |  |
 | [Coco \- Día de los Muertos Suite](https://open.spotify.com/track/3BY6XoTTapX2tV9qQCCsFW) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Coco \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7nMexBA71PdwPnfqS5Yji5) | 5:47 | 2021-10-07 | 2022-07-16 |
 | [Colette Shows Him Le Ropes](https://open.spotify.com/track/6p8lCOvTbSI4eijtyw6pW4) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Ratatouille \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2) | 2:56 | 2021-10-07 |  |
+| [Colors of the Wind \(From “Pocahontas”\) \- Piano Lullabies For Baby Sleep](https://open.spotify.com/track/7iMlFTZR28AVSNBhYFgSTR) | [Sleepy Seal](https://open.spotify.com/artist/3itO4vtXsLy4jsollzofdE) | [Disney Lullabies for Baby Sleep \- Calm Piano \| Musica Para Dormir Vol.1](https://open.spotify.com/album/5UzSgZySpodwjcNjje6s2E) | 2:15 | 2025-01-17 |  |
 | [Colors of the Wind \- From "Pocahontas"](https://open.spotify.com/track/7x63W1DjKHdw02s6JyC0jt) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Colors of the Wind \(From "Pocahontas"\)](https://open.spotify.com/album/5ZWCfX6VPczkF2pqWX6cYc) | 3:28 | 2021-10-07 |  |
 | [Coronation Day \- From "Frozen"/Score](https://open.spotify.com/track/1nm4vrhyOvwJX5MJRlLAps) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen \(Original Score\)](https://open.spotify.com/album/7o2waKdsh4gVGgb0KgQlc0) | 1:14 | 2022-07-07 | 2024-04-19 |
 | [Coronation Day \- From "Frozen"/Score](https://open.spotify.com/track/43b6XBJV8Py28xxFn2G5A2) | [Christophe Beck](https://open.spotify.com/artist/1GjWNGbMtHDQ7CNYf2d7cw) | [Frozen: Uma Aventura Congelante \(Trilha Sonora Original\)](https://open.spotify.com/album/63IXPF8JmG6ABTKBqeoKep) | 1:14 | 2022-10-03 | 2022-11-14 |
@@ -66,6 +67,8 @@
 | [Finding Dory \(Main Title\)](https://open.spotify.com/track/354K3xQPgALQEOiIYzAMat) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Dory \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1S27vSJrXuHXiBOolInF0j) | 0:55 | 2021-10-07 |  |
 | [Finding Nemo](https://open.spotify.com/track/2JpsSmsRTBeE2v4D55HVCT) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo Original Soundtrack](https://open.spotify.com/album/7BWvDrobl2vSTnbDN7wXQk) | 1:19 | 2021-10-07 |  |
 | [Finding Nemo](https://open.spotify.com/track/4MrXuZ2T6CMD0V5VURGBwx) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Finding Nemo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2kJpuz9FOqX5riMjGwihhY) | 1:19 | 2022-07-07 | 2024-04-19 |
+| [For The First Time In Forever \(Arr\. Piano\) \- from "Frozen"](https://open.spotify.com/track/48sBWn6xM2nDo8kvbSKjT3) | [Music Lab Collective](https://open.spotify.com/artist/1ylcY77FWeSVQKh5et1VGp) | [For The First Time In Forever \(Arr\. Piano\) \[from "Frozen"\]](https://open.spotify.com/album/0wsltLUkV3tg64usaeWMxi) | 2:22 | 2025-01-17 |  |
+| [Go the Distance \(From "Hercules"\)](https://open.spotify.com/track/145NS8v0pKl7DyvEsGRo7V) | [JoJo Piano](https://open.spotify.com/artist/3jJAHAlFWv5hAnnXa2zQGJ) | [Go the Distance \(From "Hercules"\)](https://open.spotify.com/album/3N9a1Wf90FwMUx7BHf8RiK) | 1:55 | 2025-01-17 |  |
 | [Go The Distance \- From "Hercules"](https://open.spotify.com/track/0O3o5L6SHXCjYvE5KY72bl) | [Royal Philharmonic Orchestra](https://open.spotify.com/artist/0MvSBMGRQJY3mRwIbJsqF1) | [Go The Distance \(From "Hercules"\)](https://open.spotify.com/album/5F5ibk9DFIhMSxUJVJiVFj) | 4:22 | 2021-10-07 |  |
 | [Goodbye](https://open.spotify.com/track/0mJWI8txYL48XCY9TXvdRa) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Cars Original Soundtrack \(English Version\)](https://open.spotify.com/album/6FnSPeYlcIvo4Or4R4fQgr) | 2:42 | 2021-10-07 | 2022-07-16 |
 | [Goodbye Old Friend](https://open.spotify.com/track/33vFouLVYOF5ErAoNtdHsI) | [Marc Shaiman](https://open.spotify.com/artist/4A5NGno1SttXk4vB4SLGHo) | [Mary Poppins Returns \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4A5q8ZjS2S7kXoixcEU81B) | 2:32 | 2021-10-07 |  |

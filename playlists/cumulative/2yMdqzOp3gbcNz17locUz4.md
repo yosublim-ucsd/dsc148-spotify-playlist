@@ -4,7 +4,7 @@
 
 > furry, ΘΔ, indie\. Cover: <a href="https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb">salv the dog</a> \|\| Visit our <a href="https://indieanthro.com">website</a> for more ✨
 
-133 songs - 7 hr 5 min
+134 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Campfire Song](https://open.spotify.com/track/5ZK9bDniZfEkc0sjthyKSo) | [fish eat cat](https://open.spotify.com/artist/4lqXQlGrKjNYgXi5fTPBZa) | [Campfire Song](https://open.spotify.com/album/0P9Ui8VhxgD5v8A3f681rU) | 4:05 | 2023-08-13 |  |
 | [Can You Hear Me](https://open.spotify.com/track/1dtaawRuJKq1h55UDojE8i) | [Floralia](https://open.spotify.com/artist/2HSpGh8ARgTJY3qmiKXkLV) | [Circular Rainbows](https://open.spotify.com/album/1OWaZm1VF8nmC4wteS4eWd) | 3:23 | 2024-08-21 |  |
 | [chalice](https://open.spotify.com/track/0aoI3GEPeQweHe7HlG8TTl) | [lydia portrait](https://open.spotify.com/artist/50vBx8BhanN5vGMZVgXh0F) | [\(HOLOFOIL\) halloween curse spell etsy 666 SPECIALIST'S CHOICE EXXXTREME POWER](https://open.spotify.com/album/6gwn9fRrWScWjhbKPgj2wY) | 2:05 | 2024-12-10 | 2025-01-10 |
+| [CHALLENGER](https://open.spotify.com/track/2YHJuaDbBXc48MAfPiw4Ph) | [wolfears](https://open.spotify.com/artist/0KH2J9H1plokYrluA5UJRi) | [CHALLENGER](https://open.spotify.com/album/0oBs2M9fgZqlURAQugbijz) | 3:13 | 2025-01-17 |  |
 | [choke it out!](https://open.spotify.com/track/3632pCJ3FvPPEguHYkcvKn) | [salv the dog](https://open.spotify.com/artist/2RF0Qc90gHipSs8XWeGyTb) | [choke it out!](https://open.spotify.com/album/224eFGHoBYq2E7AGruKc1u) | 1:50 | 2024-12-10 |  |
 | [Circuit Bent](https://open.spotify.com/track/314vr3XssUuliX2QAb5GvY) | [STOMACH BOOK](https://open.spotify.com/artist/079cEjjSpv5dOLH5xsGdvN) | [Circuit Bent](https://open.spotify.com/album/6T2tskWsZCC8KK5np7e5mK) | 3:55 | 2024-10-10 |  |
 | [Colorblind](https://open.spotify.com/track/77KJzN42xWRix9N3LQOLrA) | [Shïbae](https://open.spotify.com/artist/687jABLqMnxvaLEdUiRl6d) | [Colorblind](https://open.spotify.com/album/4lOxLrNMNxAnbusLkDJwMi) | 2:59 | 2024-04-19 |  |
@@ -42,7 +43,7 @@
 | [Ecstasy](https://open.spotify.com/track/7vpLsbJ74y5xg2PPe97WHm) | [ZephyrInTheWind](https://open.spotify.com/artist/2lqQ3jGN37e45ZjxAvRT1E), [Zenny](https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM) | [Ecstasy EP](https://open.spotify.com/album/5XEMVlHCDPSOTud8oIDwPh) | 3:52 | 2024-11-21 |  |
 | [edge of time](https://open.spotify.com/track/6gB9Aawe3IJG17x1gjONev) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 3:26 | 2024-12-10 |  |
 | [Eight Hundred Miles](https://open.spotify.com/track/0n0u5eWNOg9KTgRwCj7qrm) | [Final Messenger](https://open.spotify.com/artist/2DjeuaCtAeA58tkOQVlNoh) | [Ideation](https://open.spotify.com/album/4p4hhSKUzls8z9kLGkcoh0) | 3:51 | 2025-01-03 |  |
-| [ELEMENTS](https://open.spotify.com/track/6zEF9hbtbsEkPlDwEgZMDp) | [wolfears](https://open.spotify.com/artist/0KH2J9H1plokYrluA5UJRi) | [ELEMENTS](https://open.spotify.com/album/5kvZxkcL25X7FEZsIOlw47) | 3:27 | 2024-09-06 |  |
+| [ELEMENTS](https://open.spotify.com/track/6zEF9hbtbsEkPlDwEgZMDp) | [wolfears](https://open.spotify.com/artist/0KH2J9H1plokYrluA5UJRi) | [ELEMENTS](https://open.spotify.com/album/5kvZxkcL25X7FEZsIOlw47) | 3:27 | 2024-09-06 | 2025-01-18 |
 | [Embrace My Sin](https://open.spotify.com/track/4JQ66ezm9aUMd4eG6rWhMO) | [Fly To The Night](https://open.spotify.com/artist/0iy9HnsI5Dalerbz1Vr5AV) | [Embrace My Sin](https://open.spotify.com/album/0WUKvIFzldF7XoQmFDdPel) | 3:19 | 2024-07-12 |  |
 | [enby](https://open.spotify.com/track/7hqHsQlwymS7BIT53hzi9L) | [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [enby](https://open.spotify.com/album/708Sdmpbu2yG1BmXiEX2Yu) | 2:17 | 2024-07-12 |  |
 | [ENOUGH 4 U](https://open.spotify.com/track/6iOOVsIcmpFSF0Jw4gZOF6) | [f0xtr0t](https://open.spotify.com/artist/671ydWFXmxU9Y7p8I8NaeN), [meer](https://open.spotify.com/artist/7guxb1KDkQyvp4OUEolmsx) | [ENOUGH 4 U](https://open.spotify.com/album/5C81xOkNjPpcEv47vVktYi) | 1:59 | 2024-05-19 | 2025-01-01 |

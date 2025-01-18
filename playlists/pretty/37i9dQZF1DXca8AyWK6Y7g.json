@@ -1,13 +1,29 @@
 {
-  "description": "I told my mother what you did! cover: beabadoobee",
-  "num_followers": 1548528,
+  "description": "living life! cover: Matilda Mann",
+  "num_followers": 1548472,
   "original_name": "young & free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3du6QAAAAB8q5j6dj3nYx4zABYhN2gf",
+  "snapshot_id": "Z4nkDQAAAAD/VQQAtybZTP8ktNWeSen0",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "Just Because",
+        "url": "https://open.spotify.com/album/50Iqs6mIhEZTfRdfjzwgwx"
+      },
+      "artists": [
+        {
+          "name": "Matilda Mann",
+          "url": "https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu"
+        }
+      ],
+      "duration_ms": 169586,
+      "name": "Just Because",
+      "url": "https://open.spotify.com/track/1DwmNjO23qRsGsgmxfADfC"
+    },
     {
       "added_at": "2024-11-18 01:33:06",
       "album": {
@@ -25,10 +41,10 @@
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
     },
     {
-      "added_at": "2025-01-03 05:00:25",
+      "added_at": "2025-01-17 05:01:01",
       "album": {
-        "name": "start all over",
-        "url": "https://open.spotify.com/album/6E3NYKusAj1XttDsSGQ5dW"
+        "name": "for your validation",
+        "url": "https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd"
       },
       "artists": [
         {
@@ -36,25 +52,25 @@
           "url": "https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx"
         }
       ],
-      "duration_ms": 205511,
-      "name": "start all over",
-      "url": "https://open.spotify.com/track/6zTuzIwC6fLeDm35FFMJVv"
+      "duration_ms": 166528,
+      "name": "IKYK",
+      "url": "https://open.spotify.com/track/1Dex4T6UbptuDqqdmMT7xw"
     },
     {
-      "added_at": "2024-08-23 04:37:51",
+      "added_at": "2025-01-17 05:01:01",
       "album": {
-        "name": "Messy",
-        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+        "name": "shoreline",
+        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
         }
       ],
-      "duration_ms": 284068,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+      "duration_ms": 244473,
+      "name": "shoreline",
+      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
     },
     {
       "added_at": "2024-12-13 05:00:35",
@@ -73,6 +89,38 @@
       "url": "https://open.spotify.com/track/3fpWkbEZMP1BgOOfymwoaS"
     },
     {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/76H4e6RLzuJYEnrItNMq63"
+      },
+      "artists": [
+        {
+          "name": "Trousdale",
+          "url": "https://open.spotify.com/artist/26DvqLYszG0oIOeelTF5kE"
+        }
+      ],
+      "duration_ms": 208577,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/216jWgl9L5G0dYgyEIOSni"
+    },
+    {
+      "added_at": "2024-08-23 04:37:51",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
       "added_at": "2025-01-03 05:00:25",
       "album": {
         "name": "MAYBE",
@@ -87,6 +135,22 @@
       "duration_ms": 194304,
       "name": "MAYBE",
       "url": "https://open.spotify.com/track/1PS9AXcHyldKbcRWhNgjOq"
+    },
+    {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "i'm in love, believe it",
+        "url": "https://open.spotify.com/album/7b5KQTF6C0vrUMdSzjQmA2"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "i'm in love, believe it",
+      "url": "https://open.spotify.com/track/06qR4ao8CrVOHqUj30ZYJi"
     },
     {
       "added_at": "2024-10-18 04:00:00",
@@ -119,6 +183,22 @@
       "duration_ms": 256064,
       "name": "Souvenirs",
       "url": "https://open.spotify.com/track/61gTjqzNXQ1U0MbKk0y36H"
+    },
+    {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "Not Enough",
+        "url": "https://open.spotify.com/album/7DagVBaeEcCmoZRnJ8cFtt"
+      },
+      "artists": [
+        {
+          "name": "Mia Wray",
+          "url": "https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E"
+        }
+      ],
+      "duration_ms": 217066,
+      "name": "Not Enough",
+      "url": "https://open.spotify.com/track/0KjtkLC1AVfhTh1ftQTR6M"
     },
     {
       "added_at": "2024-12-13 05:00:35",
@@ -233,6 +313,22 @@
       "url": "https://open.spotify.com/track/0dKmeSB7WlW7bM7erNcKOX"
     },
     {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "Pavement",
+        "url": "https://open.spotify.com/album/2MWSw8tBvNWIXURHKT6ai0"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "duration_ms": 185940,
+      "name": "Pavement",
+      "url": "https://open.spotify.com/track/3SLpYifPLNbact2miciz7A"
+    },
+    {
       "added_at": "2024-12-27 05:40:07",
       "album": {
         "name": "Flicker of Light",
@@ -279,6 +375,22 @@
       "duration_ms": 173433,
       "name": "Bulldozer",
       "url": "https://open.spotify.com/track/6brAdlfcmGeb3lhrTnTyct"
+    },
+    {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "if i was ur boy",
+        "url": "https://open.spotify.com/album/7pEiX5BexOW7z19LHKUy1R"
+      },
+      "artists": [
+        {
+          "name": "D\u00e9yyess",
+          "url": "https://open.spotify.com/artist/59bzGvKWNwalsyer84z5HK"
+        }
+      ],
+      "duration_ms": 195940,
+      "name": "if i was ur boy",
+      "url": "https://open.spotify.com/track/0VGLIZj88s96enxD4u0U5o"
     },
     {
       "added_at": "2024-11-29 05:25:28",
@@ -439,22 +551,6 @@
       "duration_ms": 161075,
       "name": "breaking news",
       "url": "https://open.spotify.com/track/654XTpkoachnc4HT2Fi3Fn"
-    },
-    {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Chloe Qisha",
-        "url": "https://open.spotify.com/album/5VOSQ0i2JMwIILQOSl5RMM"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 164175,
-      "name": "Scary Movie",
-      "url": "https://open.spotify.com/track/2UoRPtgf3YTbv9DJ1h2ikI"
     },
     {
       "added_at": "2024-09-13 18:59:41",
@@ -1095,26 +1191,6 @@
       "duration_ms": 232985,
       "name": "He's My Man",
       "url": "https://open.spotify.com/track/62rwEl9PfnDqrjqNjApOwV"
-    },
-    {
-      "added_at": "2024-10-11 04:00:00",
-      "album": {
-        "name": "No Genius",
-        "url": "https://open.spotify.com/album/3vgJpjbFHVCK5bRSv6bZG5"
-      },
-      "artists": [
-        {
-          "name": "Raissa",
-          "url": "https://open.spotify.com/artist/1C9U2fqP6cYCEwb73uv2LS"
-        },
-        {
-          "name": "Rahim Redcar",
-          "url": "https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW"
-        }
-      ],
-      "duration_ms": 171213,
-      "name": "No Genius",
-      "url": "https://open.spotify.com/track/7K1NTN2YI7ss0aENvjOmsO"
     },
     {
       "added_at": "2024-10-11 04:00:00",

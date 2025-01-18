@@ -4,7 +4,7 @@
 
 > Songs from “ENSEMBLE STARS!!” © 2014\-2019 Happy Elements K.K
 
-138 songs - 9 hr 17 min
+139 songs - 9 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,6 +49,7 @@
 | [Grateful allegiance](https://open.spotify.com/track/1k30Wm1kuCz97Jy7Iu7AnD) | [Knights/月永レオ\(CV.浅沼晋太郎\)、瀬名泉\(CV.伊藤マサミ\)、朔間凛月\(CV.山下大輝\)、鳴上嵐\(CV.北村諒\)、朱桜司\(CV.土田玲央\)](https://open.spotify.com/artist/0MWS0g20z5StsBOML5UZ8A) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 4:28 | 2024-05-24 | 2025-01-06 |
 | [Helter\-Spider](https://open.spotify.com/track/5O0ATLOGx1KZvh0lMfHPcw) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [Crazy:B「Helter\-Spider」あんさんぶるスターズ！！ ESアイドルソング season3](https://open.spotify.com/album/4y2uwjpjMgXjeOr75HGhhz) | 3:20 | 2024-04-26 |  |
 | [Honeycomb Summer](https://open.spotify.com/track/6jZaxLW2LKa9XuNHsrxJJi) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [あんさんぶるスターズ！！ ESアイドルソング season1 Crazy:B](https://open.spotify.com/album/0LVSiV6lhKYnufCIws2bHJ) | 4:08 | 2024-04-26 | 2025-01-17 |
+| [Hysteric Humanoid](https://open.spotify.com/track/4GDOaroj4GirkuS9Eq1f9b) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [ALKALOID「Believe 4 leaves」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/7aQDesep26GWfrEGjKrN1m) | 4:09 | 2025-01-14 |  |
 | [Ironic Blue](https://open.spotify.com/track/3lFRXoGPlpHoaUyWiH6SwK) | [瀬名泉\(CV.伊藤マサミ\)](https://open.spotify.com/artist/1dU0QhfWX3xNS0HYugINlY) | [あんさんぶるスターズ！ アルバムシリーズ Knights](https://open.spotify.com/album/6AvMxznw9rviWn2cx9y7Oc) | 3:33 | 2024-04-26 | 2024-05-08 |
 | [JUMPIN' LUCK BEAT](https://open.spotify.com/track/6xooenMiEU8fcuuawnubXh) | [Ra\*bits](https://open.spotify.com/artist/6re7tAM2hhfDcUNCjAMuQK) | [あんさんぶるスターズ！！ ESアイドルソング season5 Ra\*bits 「JUMPIN' LUCK BEAT」](https://open.spotify.com/album/2oTxRxLNZ9prO8Sd8tAPZz) | 3:47 | 2024-12-12 |  |
 | [Kiss of Life](https://open.spotify.com/track/7FZ8p7BXhPoG9AvC8ymbhC) | [ALKALOID/天城 一彩\(CV.梶原 岳人\)、白鳥 藍良\(CV.天﨑 滉平\)、礼瀬 マヨイ\(CV.重松 千晴\)、風早 巽\(CV.中澤 まさとも\)](https://open.spotify.com/artist/2KsAMzSMNP6i4aQKTZnAkv) | [あんさんぶるスターズ！！ ユニットソングCD ALKALOID](https://open.spotify.com/album/6nBym9midy0B0Dzkltz56L) | 4:48 | 2024-04-26 |  |
@@ -135,7 +136,7 @@
 | [幸せの歌](https://open.spotify.com/track/6qu4fgyaEmfv4Pw1CHpjmX) | [Trickstar/氷鷹北斗\(CV.前野智昭\)、明星スバル\(CV.柿原徹也\)、遊木 真\(CV.森久保祥太郎\)、衣更真緒\(CV.梶 裕貴\)](https://open.spotify.com/artist/5WAQOmu0t73ueEVvBXsnG4) | [あんさんぶるスターズ！！アルバムシリーズ 『TRIP』 Trickstar](https://open.spotify.com/album/5gjdqnZbcXvA8QEV1YH2v7) | 4:50 | 2024-04-26 | 2024-12-10 |
 | [指先のアリアドネ](https://open.spotify.com/track/0m4Fozv8EttrtJcFFPj5PR) | [Crazy:B/天城 燐音\(CV.阿座上 洋平\)、HiMERU\(CV.笠間 淳\)、桜河 こはく\(CV.海渡 翼\)、椎名 ニキ\(CV.山口 智広\)](https://open.spotify.com/artist/5PaMXRPWxlUL5Q0u0gQ8ej) | [Crazy:B「指先のアリアドネ」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/6GdnM9XjuFotzIXuCsirrO) | 4:38 | 2024-04-26 |  |
 | [星の鳴動響きし時に](https://open.spotify.com/track/4HfzaFfOFv2zIAzXT37LC6) | [Valkyrie](https://open.spotify.com/artist/4nMEbXMHbM2myBdwQueSrz) | [あんさんぶるスターズ！！ ESアイドルソング season5 Valkyrie「星の鳴動響きし時に」](https://open.spotify.com/album/0oTq1rLPPyyOmjIqEY0km5) | 6:19 | 2025-01-14 |  |
-| [月光奇譚](https://open.spotify.com/track/705LiBmCJHgFJaOj2bEiEE) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [紅月「月光奇譚」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/069zrfaEQIbpcoLh2YX5kH) | 4:23 | 2025-01-14 |  |
+| [月光奇譚](https://open.spotify.com/track/705LiBmCJHgFJaOj2bEiEE) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [紅月「月光奇譚」あんさんぶるスターズ！！ ESアイドルソング season2](https://open.spotify.com/album/069zrfaEQIbpcoLh2YX5kH) | 4:23 | 2025-01-14 | 2025-01-18 |
 | [流星花火](https://open.spotify.com/track/75ZhCM7iQI3I6X1qOTjXLl) | [流星隊/守沢千秋\(CV.帆世雄一\)、深海奏汰\(CV.西山宏太朗\)、南雲鉄虎\(CV.中島ヨシキ\)、高峯翠\(CV.渡辺拓海\)、仙石忍\(CV.新田杏樹\)](https://open.spotify.com/artist/1McImYokA5QMesgOLKNpnl) | [あんさんぶるスターズ！ アルバムシリーズ 流星隊](https://open.spotify.com/album/51xCDrABka0BpPMG1p0qNe) | 4:13 | 2024-12-12 |  |
 | [百花繚乱、紅月夜](https://open.spotify.com/track/2tU9EY1nufIeoOcbMWxBIN) | [紅月/蓮巳敬人\(CV.梅原裕一郎\)、鬼龍紅郎\(CV.神尾晋一郎\)、神崎颯馬\(CV.神永圭佑\)](https://open.spotify.com/artist/2uqHLjgXdyv3XJhoeAespG) | [あんさんぶるスターズ！ アルバムシリーズ 紅月](https://open.spotify.com/album/2n2oBQlnhZm1CSS2SUp2SY) | 4:22 | 2024-04-26 |  |
 | [百花繚乱、紅月夜 \(2025 ver.\)](https://open.spotify.com/track/40CBtoFAQB16zgwkZfYRZf) | [紅月](https://open.spotify.com/artist/3vcRME7zu5NYZxk4nweuCs) | [あんさんぶるスターズ！！ ESアイドルソング season5 紅月「百花繚乱、紅月夜」 \(2025 ver.\)](https://open.spotify.com/album/3oSqmv9f8hc0zMb4rmPGCz) | 4:20 | 2025-01-08 |  |

@@ -424,7 +424,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 176337,
       "name": "Aprend\u00ed",
       "url": "https://open.spotify.com/track/0DnX9wUxxC9egMheWyLLpw"
@@ -878,6 +878,24 @@
       "duration_ms": 166153,
       "name": "BOCINITA",
       "url": "https://open.spotify.com/track/6i756aKbChLZVITKa3X2cR"
+    },
+    {
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/4esjAMJrZ8UboaHvy9G3qr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136108,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/4Ex8xfsLh79RptPZpnQvvG"
     },
     {
       "album": {
@@ -5954,7 +5972,7 @@
       ],
       "date_added": "2022-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 226720,
       "name": "Otra Baby",
       "url": "https://open.spotify.com/track/4f2nbpKWfnj7tNyL2Ihj9n"
@@ -5984,6 +6002,32 @@
       "duration_ms": 159157,
       "name": "OTRA LIGA",
       "url": "https://open.spotify.com/track/1GgE3Et7kx551FNJIy2xKA"
+    },
+    {
+      "album": {
+        "name": "OTRA VEZ",
+        "url": "https://open.spotify.com/album/2kxZtqYr6nNNdcbSSU3hvs"
+      },
+      "artists": [
+        {
+          "name": "Dacid",
+          "url": "https://open.spotify.com/artist/7djO1fr9V73noGwXaFjA7r"
+        },
+        {
+          "name": "TYE",
+          "url": "https://open.spotify.com/artist/3BWnKZnfPaAbn9oFQtYVd3"
+        },
+        {
+          "name": "Gummy Records",
+          "url": "https://open.spotify.com/artist/7ayLFimVU1UaoKOYmrzMoV"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169999,
+      "name": "OTRA VEZ",
+      "url": "https://open.spotify.com/track/2RPqEf96kt2YdW2HNsP9Pc"
     },
     {
       "album": {
@@ -6646,6 +6690,28 @@
       "duration_ms": 251866,
       "name": "Por Ley",
       "url": "https://open.spotify.com/track/3Zb2735n7CfJ8ZwKd69O01"
+    },
+    {
+      "album": {
+        "name": "Por Que Me Dejaste",
+        "url": "https://open.spotify.com/album/1zszgFD87E0MUdOAsCTSzD"
+      },
+      "artists": [
+        {
+          "name": "Baby Karen",
+          "url": "https://open.spotify.com/artist/3IStYJkZzqb5HbYpoKzirl"
+        },
+        {
+          "name": "Regue Records",
+          "url": "https://open.spotify.com/artist/3UmN4yVf7yktR0tFTvxPeG"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209920,
+      "name": "Por Que Me Dejaste",
+      "url": "https://open.spotify.com/track/6Axtt8cR01vgBskI1iHXGs"
     },
     {
       "album": {
@@ -8906,7 +8972,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 178285,
       "name": "Velita",
       "url": "https://open.spotify.com/track/3c1Ydc3Yh8vc46COAYuGh9"

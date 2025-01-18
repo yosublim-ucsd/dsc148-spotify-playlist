@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 
 ### [Best New Songs Right Now](https://open.spotify.com/playlist/74glIVP7azlpKA77RCgyDL)
 
-> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Church Tongue.
+> Every week badass heavy\-music artists drop badass new cuts, and every week we&\#x27;ll add those tracks to this evolving list for your headbanging pleasure\. Cover artist: Alien Weaponry.
 
-[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,814 likes - 305 songs - 18 hr 30 min
+[revolvermagazine](https://open.spotify.com/user/revolvermagazine) - 8,817 likes - 311 songs - 18 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -313,5 +313,11 @@ pretty - [cumulative](/playlists/cumulative/74glIVP7azlpKA77RCgyDL.md) - [plain]
 | 303 | [Gravity](https://open.spotify.com/track/0KrlBjdNgEYFFuwlormJqV) | [Lacuna Coil](https://open.spotify.com/artist/4OAddazJM576euUnFSvXSL) | [Gravity](https://open.spotify.com/album/3VcSdAEkHNPyI8VVNGknpw) | 4:03 |
 | 304 | [Abilene Grime](https://open.spotify.com/track/6SKTgAhiEMtU1GWx6Vguz3) | [Spiritworld](https://open.spotify.com/artist/3nKWlekyskH6bAM2Vat1hE) | [Abilene Grime](https://open.spotify.com/album/26y9YsB8vO10wH3zxpee4I) | 3:21 |
 | 305 | [Bury Me \(One Thousand Times\)](https://open.spotify.com/track/1SwwcNkbTpe4vuQF59LabF) | [Church Tongue](https://open.spotify.com/artist/698NcCj3gdla5i3RrYYgFh) | [Bury Me \(One Thousand Times\)](https://open.spotify.com/album/6GHhhTjhfjg8Z331AmEaSg) | 2:21 |
+| 306 | [Next To Bleed](https://open.spotify.com/track/0QsSzy8TtvrHskTJ4CRjUe) | [Gates to Hell](https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw) | [Next To Bleed](https://open.spotify.com/album/3Q5ig5r9B1HnQEKJJnW5tU) | 1:54 |
+| 307 | [Cold Hard Truth](https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Cold Hard Truth](https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7) | 3:02 |
+| 308 | [Too Much](https://open.spotify.com/track/6F4qSBCQTV36A4U8qBTAjS) | [Initiate](https://open.spotify.com/artist/4chi4s0FYncuGQul8cezau) | [Too Much](https://open.spotify.com/album/4PEpzl1k2KTG6oCMiTMviE) | 3:41 |
+| 309 | [NO REVIVES](https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT) | [PSYCHO\-FRAME](https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR) | [FEED](https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4) | 3:26 |
+| 310 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 |
+| 311 | [Mau Moko](https://open.spotify.com/track/7GEGSpjoraxIjBixahlNGq) | [Alien Weaponry](https://open.spotify.com/artist/2vov4zolAP7zbIhB5CsIPm) | [Mau Moko](https://open.spotify.com/album/2NnSQN57zQmBuOE855iDxF) | 3:45 |
 
-Snapshot ID: `AAANOS9gYLVYSVKM6MFJcZ1zGXxSbAtf`
+Snapshot ID: `AAANQMS9R6ZsySJwz9B4zzbqUkzDilTE`

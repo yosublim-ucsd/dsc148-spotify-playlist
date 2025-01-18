@@ -1,16 +1,16 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain](/playlists/plain/37i9dQZF1DXaDDXaHNhJDD) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DXaDDXaHNhJDD)
 
-### [Best of Mollywood Gold in 2024](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
+### [ Mollywood Gold ](https://open.spotify.com/playlist/37i9dQZF1DXaDDXaHNhJDD)
 
-> Our editor’s picks for best Malayalam songs of the year \#SpotifyWrapped Cover : Manjummel Boys
+> Finest collection of Tamil Music from the past 10 years Cover : Aavesham
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,407 likes - 50 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,490 likes - 50 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Kuthanthram](https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Manjummel Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML) | 4:00 |
-| 2 | [Angu Vaana Konilu](https://open.spotify.com/track/25YVPOdnGdr0hnA9XJ5Jbs) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb) | [ARM \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oaInp3W6gvXXmU8GjpUoM) | 4:09 |
-| 3 | [Illuminati \- From "Aavesham"](https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Illuminati \(From "Aavesham"\)](https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE) | 3:32 |
+| 1 | [Illuminati \- From "Aavesham"](https://open.spotify.com/track/1kFNFsAZ4iZy4vjBEtT12I) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Illuminati \(From "Aavesham"\)](https://open.spotify.com/album/57NtYNhoXDC8oDMZrJo5aE) | 3:32 |
+| 2 | [Kuthanthram](https://open.spotify.com/track/11BKSlBxpkxrHvPi8uxXzV) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Vedan](https://open.spotify.com/artist/1Clwe5e4xyRasANUVlpcCf) | [Manjummel Boys \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7HJZ57XsMHMgYsa7PpuZML) | 4:00 |
+| 3 | [Angu Vaana Konilu](https://open.spotify.com/track/25YVPOdnGdr0hnA9XJ5Jbs) | [Dhibu Ninan Thomas](https://open.spotify.com/artist/1QHr8p3h0ayWLaaYK0X6bi), [Vaikom Vijayalakshmi](https://open.spotify.com/artist/1tsy6ph4p6fVETd32Cbpcb) | [ARM \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5oaInp3W6gvXXmU8GjpUoM) | 4:09 |
 | 4 | [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 |
 | 5 | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/track/1HNig28114roVWfkCHk5oJ) | [Sam C.S.](https://open.spotify.com/artist/5VAyiDhBinVfc6RM5RKnLa), [Kapil Kapilan](https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2) | [Neela Nilave \(From "RDX"\)](https://open.spotify.com/album/0StmeakxNJCLQw2YLRBt9g) | 4:13 |
 | 6 | [Mrudhu Bhaave Dhruda Kruthye](https://open.spotify.com/track/1wOdYfw93oBobalH0AsNaW) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S) | [Kannur Squad \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0IFNcdNSiJ1J2ItzQs8uY4) | 5:32 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaDDXaHNhJDD.md) - [plain]
 | 49 | [Sita Kalyanam](https://open.spotify.com/track/2ZppB7cqsWeEdJgU1TgXxK) | [Renuka Arun](https://open.spotify.com/artist/7vJRDw4tsuuQD9vqJZQRUv), [Sooraj S\. Kurup](https://open.spotify.com/artist/0wvji3X9BFRc6KORiVgN8p) | [Solo \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/743hktib4oAhlPFEtAIDJ4) | 4:32 |
 | 50 | [Darshana \- From "Hridayam"](https://open.spotify.com/track/4BBwON1XG02S4cpYrV10u2) | [Hesham Abdul Wahab](https://open.spotify.com/artist/50iBEPSw6kQ8GQkumXz7XZ), [Darshana Rajendran](https://open.spotify.com/artist/5nfZOPYU4aFJii2PCGALu2), [Arun Alat](https://open.spotify.com/artist/5OlyzvlgJPRnzj4nZSgSwW) | [Darshana \(From "Hridayam"\)](https://open.spotify.com/album/6yvdx4kNq4Ui9gmD6guGfe) | 3:46 |
 
-Snapshot ID: `Z1BHxAAAAAB7Diuujewc6BswrdMD6Q9c`
+Snapshot ID: `Z4pKkgAAAAA1M3dfQmb7lRv2Uc4ZvsgY`

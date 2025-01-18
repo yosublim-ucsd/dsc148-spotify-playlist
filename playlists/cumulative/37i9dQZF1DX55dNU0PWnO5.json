@@ -230,7 +230,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 162352,
       "name": "Above Us",
       "url": "https://open.spotify.com/track/47fKcJZsn4xyWEwMJ0RAr0"
@@ -8820,6 +8820,24 @@
       "duration_ms": 122181,
       "name": "Wild",
       "url": "https://open.spotify.com/track/0pLNBfL8hIf58lqpFgIhct"
+    },
+    {
+      "album": {
+        "name": "Wild and Steady",
+        "url": "https://open.spotify.com/album/2vcPFnOKUrwhJQKoo4p7C3"
+      },
+      "artists": [
+        {
+          "name": "Nathan-Paul",
+          "url": "https://open.spotify.com/artist/5nTcwumRsv459Yw9kUP1JB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123750,
+      "name": "Wild and Steady",
+      "url": "https://open.spotify.com/track/4y5w91db336cCz1AwPCNna"
     },
     {
       "album": {

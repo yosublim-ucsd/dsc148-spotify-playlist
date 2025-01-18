@@ -1,13 +1,37 @@
 {
   "description": "Bringing the roaring 20s into the 2020s",
-  "num_followers": 382640,
+  "num_followers": 382643,
   "original_name": "Electro Swing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpWAAAAAAQiCTRIpRyqb2Wr3ywaFoP",
+  "snapshot_id": "Z4nj6gAAAADq7hHfv0JELVYtrKJpDAqv",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Believer (Electro Swing Version)",
+        "url": "https://open.spotify.com/album/7hGyjOKjq1UVe4rVz3W3LW"
+      },
+      "artists": [
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        },
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        },
+        {
+          "name": "Four On Six Band",
+          "url": "https://open.spotify.com/artist/2jYXVygeBfAVpwTekUz70T"
+        }
+      ],
+      "duration_ms": 207270,
+      "name": "Believer - Electro Swing Version",
+      "url": "https://open.spotify.com/track/1e8diwtB6TyGmoL3Y1LHlx"
+    },
     {
       "added_at": "2025-01-10 05:00:08",
       "album": {
@@ -91,6 +115,30 @@
       "duration_ms": 178615,
       "name": "Sunny",
       "url": "https://open.spotify.com/track/758jr3lwM0Q6O9yPafMs8k"
+    },
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Dance Like Nobodys Watching",
+        "url": "https://open.spotify.com/album/2enGzdX4BOUaRlsmTSpXgu"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Emma Lea",
+          "url": "https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ"
+        },
+        {
+          "name": "Offbeat",
+          "url": "https://open.spotify.com/artist/1Vuw7wuxpiK5W9pzGL86X8"
+        }
+      ],
+      "duration_ms": 176389,
+      "name": "Dance Like Nobodys Watching",
+      "url": "https://open.spotify.com/track/7ySqtlC5b9uutdCXB1JhI4"
     },
     {
       "added_at": "2024-11-04 16:02:20",
@@ -1083,30 +1131,6 @@
       "duration_ms": 240800,
       "name": "Cinnamon Girl",
       "url": "https://open.spotify.com/track/58x6LBD5b6Tu7IPsYL99oG"
-    },
-    {
-      "added_at": "2024-11-04 16:02:20",
-      "album": {
-        "name": "Magic Man",
-        "url": "https://open.spotify.com/album/1ChLMfuAUS9ieJlUDix04t"
-      },
-      "artists": [
-        {
-          "name": "Balduin",
-          "url": "https://open.spotify.com/artist/6vSMEdD0kY3g9AaqUGeMMv"
-        },
-        {
-          "name": "Wolfgang Lohr",
-          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
-        },
-        {
-          "name": "J Fitz",
-          "url": "https://open.spotify.com/artist/5fO3cjaQXn3DpDsxlJbmQJ"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Magic Man",
-      "url": "https://open.spotify.com/track/0hPLh77jQo9DFNVP2YPKUD"
     },
     {
       "added_at": "2024-11-04 16:02:20",
@@ -2543,26 +2567,6 @@
       "duration_ms": 149138,
       "name": "Mr Sunshine",
       "url": "https://open.spotify.com/track/0veV0DEgDnpup5VRFF7O8n"
-    },
-    {
-      "added_at": "2024-11-04 16:02:20",
-      "album": {
-        "name": "Say What (2019)",
-        "url": "https://open.spotify.com/album/1imwwhPZfBPXfgy8vFwzRL"
-      },
-      "artists": [
-        {
-          "name": "Cut Capers",
-          "url": "https://open.spotify.com/artist/0UmcqMDiiyihc3KMXvGwWb"
-        },
-        {
-          "name": "Pisk",
-          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
-        }
-      ],
-      "duration_ms": 193809,
-      "name": "Say What - Pisk Electro Swing Remix",
-      "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"
     },
     {
       "added_at": "2024-11-04 16:02:20",

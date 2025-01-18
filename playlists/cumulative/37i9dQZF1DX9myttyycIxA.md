@@ -4,7 +4,7 @@
 
 > Underground indie rock gems\. Cover: SPELLLING
 
-1,435 songs - 3 day 10 hr 22 min
+1,438 songs - 3 day 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -419,6 +419,7 @@
 | [Entitled To](https://open.spotify.com/track/4a3AosNrplvGuvnOODh2WP) | [Mr Floyd Larry](https://open.spotify.com/artist/1k8ck5j4cuHYuzy3nPHDrM) | [Dream Punk](https://open.spotify.com/album/6vZVc2ApISADXou1bVzhF2) | 3:00 | 2022-02-25 | 2022-04-16 |
 | [ERUPT](https://open.spotify.com/track/3UrBQlFZijtZuWWbq3xtCe) | [Rain on Fridays](https://open.spotify.com/artist/1clbqsZIkv7ci3xQ9lmGPj) | [ERUPT](https://open.spotify.com/album/5tqV7K4XoM6Cjcf5BhsYRn) | 4:11 | 2022-09-02 | 2022-10-29 |
 | [Escape](https://open.spotify.com/track/5WG6oimqjMZHIUsbXvKVxI) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [GIZMO](https://open.spotify.com/album/7mUxu7byX5w4tdgKuUWuX1) | 2:19 | 2023-06-15 | 2023-10-30 |
+| [Ever](https://open.spotify.com/track/2Gu2H8HRVuV9GOneJuYV5D) | [After](https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li) | [Ever](https://open.spotify.com/album/7zsRDPDkCAJBcQrbG8Agr9) | 3:00 | 2025-01-17 |  |
 | [Every Once In A While](https://open.spotify.com/track/02J8r68LSYS8MuxI5rEzaO) | [Cut Worms](https://open.spotify.com/artist/2upjmNmngAXZcra9dQRR2l) | [Every Once In A While](https://open.spotify.com/album/3MDfSodOC8B0eF6HFrySvH) | 4:37 | 2021-03-05 | 2022-04-29 |
 | [Everybody's Birthday](https://open.spotify.com/track/32JZLH23FvupI5jvzKrahn) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Everybody's Birthday](https://open.spotify.com/album/3B4J9TUXP9AMwU5ltYHErn) | 2:48 | 2021-08-27 | 2022-04-29 |
 | [Everything](https://open.spotify.com/track/3tQXwwGZOYrz6xbl7e7yZg) | [Hovvdy](https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C) | [Everything](https://open.spotify.com/album/0OvSbzmj1pyI5z4PNNFnDA) | 3:17 | 2022-03-26 | 2022-07-16 |
@@ -1131,6 +1132,7 @@
 | [Someway Somehow](https://open.spotify.com/track/4zVs1kuSTwvLPpcBL4Rj6D) | [Party Nails](https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4) | [Someway Somehow](https://open.spotify.com/album/5hYsYw1TOEos0WRxIfspDo) | 3:28 | 2023-08-03 | 2024-01-27 |
 | [Song About Love](https://open.spotify.com/track/0qeupsSDLPTk2j8aU8prNI) | [English Teacher](https://open.spotify.com/artist/5H9IFTRxSICj24uxO15ScU) | [Song About Love](https://open.spotify.com/album/1Bnv0p3eZKXZw2oTvtJiHq) | 3:42 | 2023-01-27 | 2023-03-25 |
 | [Sorry I Am](https://open.spotify.com/track/2XbtAowMkaRMktJFII7h0Y) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [Sorry I Am](https://open.spotify.com/album/1OckLS0LTnxNRWqGJ8ojoy) | 4:02 | 2021-04-02 | 2022-04-29 |
+| [sorrynotsorry](https://open.spotify.com/track/1TI8NKAfjMvvx6P5M0u1Iy) | [Faerybabyy](https://open.spotify.com/artist/2jp9e4qVPGoS2X2fyNy9id) | [sorrynotsorry](https://open.spotify.com/album/3Py8BTTA0sId5dkgSRNYOH) | 1:54 | 2025-01-17 |  |
 | [Sorry’s Not Enough](https://open.spotify.com/track/7zXERMvGbaqcZmdXo7ebw8) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Sorry's Not Enough](https://open.spotify.com/album/6hWqBLAzPVl9GBYXs36ISC) | 4:51 | 2021-10-08 | 2022-03-22 |
 | [Sort Me Out](https://open.spotify.com/track/6qVYM8HpTfR1wRZTUUZAHO) | [Trampolene](https://open.spotify.com/artist/28KtnfdwBHptsGPPWjeovU) | [Sort Me Out](https://open.spotify.com/album/6GckIKoXhqoB79zGqMN7St) | 3:38 | 2022-12-02 | 2022-12-15 |
 | [Sort Of Stranger](https://open.spotify.com/track/5lAflCrqbAfo0nMflKGb0N) | [The Greeting Committee](https://open.spotify.com/artist/1MIe1z4RdqLqHSJsb7EBMm), [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Sort Of Stranger](https://open.spotify.com/album/027yuK6aJh9vCUNxp7i6YH) | 3:30 | 2022-03-04 | 2022-06-19 |
@@ -1204,6 +1206,7 @@
 | [Sweet Lilac](https://open.spotify.com/track/4AvzyTw47aX8JW04H33O1i) | [YULLOLA](https://open.spotify.com/artist/6vABHl7aPLdJwk0BU9cilg) | [Zen Maiden](https://open.spotify.com/album/5KzJWSKekKo0IbzjrrXjsR) | 2:48 | 2024-05-24 | 2024-11-23 |
 | [Sweet Nothings](https://open.spotify.com/track/4geTZtpHV4859N6uRFVXtb) | [Nieve Ella](https://open.spotify.com/artist/14zhvja4OxwrmivOB3LHOn) | [Watch It Ache and Bleed](https://open.spotify.com/album/1Y4022GxgmyDF8DQkFmFwE) | 3:23 | 2024-10-18 |  |
 | [Sweetgreen](https://open.spotify.com/track/1vE7VkxO8nIvtidcZTf1yy) | [Gabbo](https://open.spotify.com/artist/1RSDS6LlCTScYAfJivL0Cw) | [Sweetgreen](https://open.spotify.com/album/5vheKIiwAA69WtWQT67DWs) | 4:16 | 2021-07-16 | 2022-04-12 |
+| [Switch Over](https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm) | [Horsegirl](https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra) | [Switch Over](https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR) | 3:05 | 2025-01-17 |  |
 | [T\-Shirt](https://open.spotify.com/track/4nbUCgADOoOzz8bU8SXkk0) | [Laura Elliott](https://open.spotify.com/artist/0YJEuTCD642Yp34CoiH0ox) | [T\-Shirt](https://open.spotify.com/album/4xxjiWgYKD5P1g0SFKBqNh) | 2:47 | 2023-11-17 | 2024-05-03 |
 | [Table](https://open.spotify.com/track/5OkOZ6NZzrqSUE3OlBY2RJ) | [Katy Kirby](https://open.spotify.com/artist/3ZH4IYVc5qVlKyJoZhGpwy) | [Table](https://open.spotify.com/album/1ZDE21dsxXP6INA3HwkvID) | 2:00 | 2023-10-27 | 2024-01-27 |
 | [Take Care](https://open.spotify.com/track/18aiK0KLCZjHME5ILdgJqK) | [Tanukichan](https://open.spotify.com/artist/7d0wUlQ0ZXIGFa0YzuBiR6) | [Take Care](https://open.spotify.com/album/55c7EDosAWRRQgSr2oeuCZ) | 3:47 | 2023-02-17 | 2023-04-09 |

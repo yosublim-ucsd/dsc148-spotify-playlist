@@ -1,13 +1,29 @@
 {
   "description": "A new take on a classic sound. Cover: Thee Sacred Souls",
-  "num_followers": 355316,
+  "num_followers": 355351,
   "original_name": "Retro Soul",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpWQAAAABHe3EKUn+gmC3Wr8Kf++83",
+  "snapshot_id": "Z4nj6gAAAADpOmatB9eaN64sQq33aEmH",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:26",
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/4cAI2lU33xuw3YLixV8w1T"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "duration_ms": 176054,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB"
+    },
     {
       "added_at": "2025-01-10 05:00:09",
       "album": {
@@ -731,22 +747,6 @@
       "duration_ms": 246149,
       "name": "Strawberry Hill",
       "url": "https://open.spotify.com/track/3xpMvP8XgTxR1k4p0AEZxg"
-    },
-    {
-      "added_at": "2024-10-25 04:01:00",
-      "album": {
-        "name": "Flawed by Design",
-        "url": "https://open.spotify.com/album/0mTzaEzi97RqYK4VbwtQcT"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Valbrun",
-          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
-        }
-      ],
-      "duration_ms": 302736,
-      "name": "Baptist",
-      "url": "https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT"
     },
     {
       "added_at": "2024-06-21 04:00:00",

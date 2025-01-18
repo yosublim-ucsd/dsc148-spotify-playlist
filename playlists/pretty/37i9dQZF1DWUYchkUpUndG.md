@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=oY4Z3lDxRSOPcOAzPqMYPg>Onos</a> and <a href=https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4?si=qE5TAGjeSHSZ\_vDci9s4TA>Seph Schulueter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,181 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,317 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 | 13 | [Anza Nami \(feat\. Guardian Angel\)](https://open.spotify.com/track/3V6MVehktSGLq4yIR2kdyf) | [Boss MOG](https://open.spotify.com/artist/5bymobnzzgQnuh60dY84Ie), [Guardian Angel](https://open.spotify.com/artist/4GH5MurAeyms73h1WLx1FZ) | [Anza Nami \(feat\. Guardian Angel\)](https://open.spotify.com/album/7jVZb2169KDjIBMrLDjiDo) | 3:51 |
 | 14 | [This Year](https://open.spotify.com/track/7nHbnOU25HaIdXZZ1G3WVH) | [Drakare](https://open.spotify.com/artist/0BoOl61L5Z9Movl0eAI1Be), [Protek Illasheva](https://open.spotify.com/artist/5E8DCdcnM0P7tHQP9CjXcP) | [This Year](https://open.spotify.com/album/56b93WtYVMaF00oazDpSg6) | 2:10 |
 | 15 | [Idi Ebube](https://open.spotify.com/track/7Cg94EAs6wePmyRbZhPGj4) | [Preye Odede](https://open.spotify.com/artist/7Aqgu2MNhHNHobtzJB1DlK) | [Idi Ebube](https://open.spotify.com/album/2Z7QAmd2g7fXSLpgLZ2Mkn) | 7:49 |
-| 16 | [Odun TunTun](https://open.spotify.com/track/7l9DrBCHCIXEKdg6KjqgK9) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Dre\-Sticks](https://open.spotify.com/artist/1L5d6PT1GMkSZ8wKWuumdq) | [Odun TunTun](https://open.spotify.com/album/2Bz6fblHWkOHOH3hnTfe9r) | 4:08 |
+| 16 | [Odun tun tun](https://open.spotify.com/track/7l9DrBCHCIXEKdg6KjqgK9) | [TESTIMONY JAGA](https://open.spotify.com/artist/0RuEx08C8sVTmomMsW9N3h), [Dre\-Sticks](https://open.spotify.com/artist/1L5d6PT1GMkSZ8wKWuumdq) | [Odun tun tun](https://open.spotify.com/album/2Bz6fblHWkOHOH3hnTfe9r) | 4:14 |
 | 17 | [Freedom Song](https://open.spotify.com/track/2esjn7VKNcXXlxTquqVqQr) | [Favrish](https://open.spotify.com/artist/3s1ZKnwkYA76TmSxqHs22E) | [Freedom Song](https://open.spotify.com/album/52iozviApKyfhCNWh0LNSj) | 2:20 |
 | 18 | [Worthy](https://open.spotify.com/track/3wvWdSDQSNlyof2evfER3t) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Shime Ahua](https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5) | [Worthy](https://open.spotify.com/album/2Len8qt5dWE2N91BjQxR1r) | 2:49 |
 | 19 | [ELYON! \- Acoustic version](https://open.spotify.com/track/2P6ONZhT6TcaA7QjuQf72k) | [Queeneth](https://open.spotify.com/artist/4W1nrydMUYV0Z1kPs3wi5p), [SOD MUSIQ](https://open.spotify.com/artist/7mnFt3PI9H2cGgHDLROJHY), [ECHO EDGE](https://open.spotify.com/artist/1hlvpNS7MoN7MlfxcxxQ8j) | [ELYON! \(Acoustic version\)](https://open.spotify.com/album/5u4XSi4MGjOZEMmqATs9DH) | 4:55 |

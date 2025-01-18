@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 
 > Flaket kommer studsa!
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,359 likes - 73 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,332 likes - 73 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVcV87ePAqAq.md) - [plain]
 | 53 | [Leva/Dö](https://open.spotify.com/track/2DpoXMqHG88yjwZZEcoqzM) | [Albatraoz](https://open.spotify.com/artist/5wOlRsRt9ggoBDjjmhaF7x) | [Leva/Dö](https://open.spotify.com/album/2fvPVTfcUKVgvsr4f2aU4X) | 2:32 |
 | 54 | [Sun Goes Up](https://open.spotify.com/track/5dkOqvclwlxrYMR3RTEVrV) | [C3DRIC](https://open.spotify.com/artist/5P2W0yAyT5iL5HzSi7uHpK), [Eliine](https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk) | [Sun Goes Up](https://open.spotify.com/album/0JxEJBxZUarekN0UZzV9iT) | 2:13 |
 | 55 | [Sommarnätter](https://open.spotify.com/track/3c1KrqOhuqTigFZTev07rK) | [PERZZONA](https://open.spotify.com/artist/4WId87hZzznRDnqwQQLyeC), [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9) | [Sommarnätter](https://open.spotify.com/album/1aC01cXxZVXtqigdiN5RQu) | 2:24 |
-| 56 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
-| 57 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 |
-| 58 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
-| 59 | [ALLA FÅR KOMMA](https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Akin Jensen](https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [ALLA FÅR KOMMA](https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8) | 2:24 |
+| 56 | [IGEN IGEN IGEN](https://open.spotify.com/track/72AsuB2gKeQGDKEsjXdjls) | [LOOKET](https://open.spotify.com/artist/4gYsIoRXPc0MnHDYIqEYVE) | [IGEN IGEN IGEN](https://open.spotify.com/album/7nKcbzRHoxG6uhXymDpgaj) | 2:10 |
+| 57 | [Om du var min](https://open.spotify.com/track/520OGfBzjjGqVLO52KPvvC) | [J.O.X](https://open.spotify.com/artist/1MF8pP2ATm53GpUJ9xIaS9), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Om du var min](https://open.spotify.com/album/5iaCqxVddsqcWvonadClWp) | 2:38 |
+| 58 | [ALLA FÅR KOMMA](https://open.spotify.com/track/5hfJmnBWRsot4uJeVYc7xX) | [FESTEN](https://open.spotify.com/artist/6kkPyeuOgSIKJGWbPCSW5h), [Akin Jensen](https://open.spotify.com/artist/07wIp9CHYFGgNTlm0XmdvX), [BR0D3R](https://open.spotify.com/artist/0NSC3dpFINJlCOdJLSz2Ow) | [ALLA FÅR KOMMA](https://open.spotify.com/album/7izPnVoMJlAbo5eH23Oce8) | 2:24 |
+| 59 | [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 |
 | 60 | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD) | [Crille](https://open.spotify.com/artist/40HMc5TsB4jkjnSlDK0V9Z), [Skurk3n](https://open.spotify.com/artist/1HUodyPt48DvzRQZksaOQW) | [STUDENTEN \(Hardstyle\)](https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3) | 2:12 |
 | 61 | [Vad bänkar du?](https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW) | [Gunilla Persson](https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE) | [Vad bänkar du?](https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv) | 2:47 |
 | 62 | [MEDVETSLÖS](https://open.spotify.com/track/0vNFRCUrTjjD70nzpjBSxy) | [Raggarligan](https://open.spotify.com/artist/6uljULAp34CZrrwTVhImVH) | [MEDVETSLÖS](https://open.spotify.com/album/4BeHYixWz9D3cjnpEJdcpH) | 3:04 |

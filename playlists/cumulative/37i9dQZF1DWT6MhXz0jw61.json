@@ -2599,6 +2599,32 @@
     },
     {
       "album": {
+        "name": "Birds",
+        "url": "https://open.spotify.com/album/1vsT2jyons7rMOVsBJnsRV"
+      },
+      "artists": [
+        {
+          "name": "Barney Bones",
+          "url": "https://open.spotify.com/artist/7rzyYETlkvNEdxdtSUXXTV"
+        },
+        {
+          "name": "Buddy",
+          "url": "https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ"
+        },
+        {
+          "name": "Samant",
+          "url": "https://open.spotify.com/artist/3uRWOTy9otoxixGe3yG8Bh"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202162,
+      "name": "Birds",
+      "url": "https://open.spotify.com/track/4NKCtKcL7oGSwJ2EfOBU8N"
+    },
+    {
+      "album": {
         "name": "Birds (with 6LACK) - Remix",
         "url": "https://open.spotify.com/album/72Lhfv0DqqPcNnKAeNPb3O"
       },
@@ -3988,7 +4014,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 155076,
       "name": "cavalier",
       "url": "https://open.spotify.com/track/3b2ewlfHxNqiXxgOgKY7X9"
@@ -7320,7 +7346,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 86563,
       "name": "fan mail",
       "url": "https://open.spotify.com/track/73WzXkIlLGRozIFNFIR7DZ"
@@ -8479,6 +8505,24 @@
     },
     {
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+    },
+    {
+      "album": {
         "name": "FWB",
         "url": "https://open.spotify.com/album/18vjT0utRs7VsrTHoBtJuK"
       },
@@ -9148,7 +9192,7 @@
       ],
       "date_added": "2023-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 237473,
       "name": "Good Ol' Days (feat. Joey Bada$$)",
       "url": "https://open.spotify.com/track/2KvVSwEsBgQAelnpsBZ2dq"
@@ -9242,7 +9286,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 157953,
       "name": "gossamer",
       "url": "https://open.spotify.com/track/6fwndkzociIcaO91QH9ROH"
@@ -13405,6 +13449,24 @@
     },
     {
       "album": {
+        "name": "Main Event",
+        "url": "https://open.spotify.com/album/5VRD3ZH7nzNmjcG4expgbY"
+      },
+      "artists": [
+        {
+          "name": "Lelo",
+          "url": "https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Main Event",
+      "url": "https://open.spotify.com/track/3OtRFiTaP8XRtRhUFG1iV0"
+    },
+    {
+      "album": {
         "name": "D.O.L.L.A.R",
         "url": "https://open.spotify.com/album/22Lb6qfUdyTlIn4qxfnBTf"
       },
@@ -15064,7 +15126,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 189689,
       "name": "Northside",
       "url": "https://open.spotify.com/track/0OtIhBOZpVAvLg2CzqA3Ny"
@@ -17735,6 +17797,24 @@
     },
     {
       "album": {
+        "name": "EVER SINCE SHEFFIELD",
+        "url": "https://open.spotify.com/album/4v0IxyTdW6n5yk3W37HpQw"
+      },
+      "artists": [
+        {
+          "name": "millkzy",
+          "url": "https://open.spotify.com/artist/7sxM2gRejxUDw7fKtCISzR"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201379,
+      "name": "RUSSIAN ROULETTE(I ADORE U)",
+      "url": "https://open.spotify.com/track/04YRSuoGZcAj9kj57c6utu"
+    },
+    {
+      "album": {
         "name": "S.A.D. (Shit Ain't Deep)",
         "url": "https://open.spotify.com/album/0t8IRBkkltXHBBZqO87hsT"
       },
@@ -18306,7 +18386,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 183624,
       "name": "Shadowboxing",
       "url": "https://open.spotify.com/track/55VuWFnJK7aiv8aiTlbJ9Q"
@@ -18346,6 +18426,24 @@
       "duration_ms": 205287,
       "name": "Shame On The Devil",
       "url": "https://open.spotify.com/track/6nEikEkWTXZ4SiZvUOAqND"
+    },
+    {
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169273,
+      "name": "Shangri-La",
+      "url": "https://open.spotify.com/track/2VOnMNQWQ44OqHWwvXn5z6"
     },
     {
       "album": {
@@ -20666,7 +20764,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 223164,
       "name": "The Autograph",
       "url": "https://open.spotify.com/track/58DM0MQw9eajfBVaNlte3k"
@@ -21400,6 +21498,24 @@
       "duration_ms": 135510,
       "name": "Thinking to Myself",
       "url": "https://open.spotify.com/track/5QsN1W5nvBZcweBfRtaWFj"
+    },
+    {
+      "album": {
+        "name": "Aquarius III",
+        "url": "https://open.spotify.com/album/2Sgg02H2euJ1x6eZAysstY"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245622,
+      "name": "This Is The Way",
+      "url": "https://open.spotify.com/track/7pbdtNguG9ZnOTy4kS8dXF"
     },
     {
       "album": {
@@ -22320,6 +22436,24 @@
       "duration_ms": 143434,
       "name": "T\u00e9l\u00e9 Couleur",
       "url": "https://open.spotify.com/track/6uNa9YhkIlugSGnxHv36UB"
+    },
+    {
+      "album": {
+        "name": "Aquarius III",
+        "url": "https://open.spotify.com/album/2Sgg02H2euJ1x6eZAysstY"
+      },
+      "artists": [
+        {
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144046,
+      "name": "Universe",
+      "url": "https://open.spotify.com/track/4gDsU8osD9ZR1pQKFSsQfl"
     },
     {
       "album": {

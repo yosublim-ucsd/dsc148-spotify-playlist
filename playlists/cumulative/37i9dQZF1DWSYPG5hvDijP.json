@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Taaza Hip Hop Hindi. Cover: Yashraj",
+  "description": "Naya Hip-Hop Hindi! Cover: Naezy",
   "name": "New Rap Hindi",
   "tracks": [
     {
@@ -534,7 +534,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 117761,
       "name": "A ONE",
       "url": "https://open.spotify.com/track/3VUyUulQuD5fekhXhvCNhC"
@@ -1528,7 +1528,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 152867,
       "name": "Back For More",
       "url": "https://open.spotify.com/track/0j85mL6RKQezexqfNJQjkb"
@@ -2110,6 +2110,28 @@
       "duration_ms": 144375,
       "name": "Bhai Hai",
       "url": "https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8"
+    },
+    {
+      "album": {
+        "name": "Bhayankar",
+        "url": "https://open.spotify.com/album/4fpSopdqIuAItBKrf01cpu"
+      },
+      "artists": [
+        {
+          "name": "Fat Krrent",
+          "url": "https://open.spotify.com/artist/4E98XpRcPeJB8ICcqoyj3N"
+        },
+        {
+          "name": "Wah Da Fu",
+          "url": "https://open.spotify.com/artist/6NuXiU3815gSsMNvFIFxwa"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183226,
+      "name": "Bhayankar",
+      "url": "https://open.spotify.com/track/7AnR1q9hzBon0iTM9EqpCm"
     },
     {
       "album": {
@@ -3972,7 +3994,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 197368,
       "name": "Dheere Dheere Bol Koi Sun Na Le -The Hustle Flip",
       "url": "https://open.spotify.com/track/2J9UH7mbRSA8Lyj87pyCSG"
@@ -5672,7 +5694,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 141184,
       "name": "Gorilla (with Rebel 7)",
       "url": "https://open.spotify.com/track/7MBbENrJlmxDL8gVyNsw7o"
@@ -6858,7 +6880,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 168673,
       "name": "Iraade",
       "url": "https://open.spotify.com/track/0X6KaEVwPrkF1lhb4WA2mP"
@@ -7511,6 +7533,28 @@
     },
     {
       "album": {
+        "name": "Kalam",
+        "url": "https://open.spotify.com/album/34X3WZHw3g7lrL3madCyCz"
+      },
+      "artists": [
+        {
+          "name": "Shrota",
+          "url": "https://open.spotify.com/artist/5sIlbBFVuLgFyyMVkE0AIn"
+        },
+        {
+          "name": "Bhavesh",
+          "url": "https://open.spotify.com/artist/4qtiCD5tpuBcRCka9eDGSx"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154284,
+      "name": "Kalam",
+      "url": "https://open.spotify.com/track/6T4DaFsbDNAASO7KzE2hvc"
+    },
+    {
+      "album": {
         "name": "Kalamkaand",
         "url": "https://open.spotify.com/album/6MPlFOjhFBYddTxV4shdcX"
       },
@@ -8148,6 +8192,24 @@
       "duration_ms": 240333,
       "name": "KULFA-KAR-MA",
       "url": "https://open.spotify.com/track/4RnHapKw9jDMaND7srX9Se"
+    },
+    {
+      "album": {
+        "name": "Kya Total ?",
+        "url": "https://open.spotify.com/album/1DaTKK0BBsmC5r6X9f7ztP"
+      },
+      "artists": [
+        {
+          "name": "Emiway Bantai",
+          "url": "https://open.spotify.com/artist/008PpLcKUtVXle6JSwkq3I"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134400,
+      "name": "Kya Total ?",
+      "url": "https://open.spotify.com/track/0OcuQDCk6kiiDKToCAQyJo"
     },
     {
       "album": {
@@ -11535,6 +11597,24 @@
     },
     {
       "album": {
+        "name": "RAMP WALK",
+        "url": "https://open.spotify.com/album/2ha39KAOiWOFnErsB6RzQV"
+      },
+      "artists": [
+        {
+          "name": "Nazz",
+          "url": "https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145931,
+      "name": "RAMP WALK",
+      "url": "https://open.spotify.com/track/5N2bQ5u0YFpHowkWDfaqTx"
+    },
+    {
+      "album": {
         "name": "RANI",
         "url": "https://open.spotify.com/album/0fFLVK1B4ijITBAu3szlGw"
       },
@@ -12368,7 +12448,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 206566,
       "name": "Soot Samet - Red Bull 64 Bars",
       "url": "https://open.spotify.com/track/0SVqbDAclGaw07kKNt2k3q"
@@ -12834,6 +12914,24 @@
       "duration_ms": 145531,
       "name": "Surma",
       "url": "https://open.spotify.com/track/7mwm44cHIEM0FcDHGgQl4J"
+    },
+    {
+      "album": {
+        "name": "Taafu (From \"Fateh\")",
+        "url": "https://open.spotify.com/album/6ZlSkvyEavEPTDQAF7ar87"
+      },
+      "artists": [
+        {
+          "name": "Naezy",
+          "url": "https://open.spotify.com/artist/2oeTqp8DgAmtnP2WGc1OS2"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118115,
+      "name": "Taafu (From \"Fateh\")",
+      "url": "https://open.spotify.com/track/2xgIP8fKs4jRFe9B1m7YDV"
     },
     {
       "album": {
@@ -13396,7 +13494,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 206808,
       "name": "They Them",
       "url": "https://open.spotify.com/track/6Qwv07rQhHCkoCMVIJZryC"
@@ -13810,6 +13908,24 @@
       "duration_ms": 192475,
       "name": "Ucha Maqam",
       "url": "https://open.spotify.com/track/5k6HOMFj3ecFEFLHy9ghs7"
+    },
+    {
+      "album": {
+        "name": "Udate Hai",
+        "url": "https://open.spotify.com/album/1m9Oyg0q2QK3mW3f3WvdvD"
+      },
+      "artists": [
+        {
+          "name": "Mellow D",
+          "url": "https://open.spotify.com/artist/7tH8oZj2nLERlp2hE5QNjp"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Udate Hai",
+      "url": "https://open.spotify.com/track/3oWmAfsaBdTdnuI2pH8snX"
     },
     {
       "album": {
@@ -14354,6 +14470,32 @@
       "duration_ms": 146000,
       "name": "Wild",
       "url": "https://open.spotify.com/track/42vGPrrqp1iMNigqs1Aa9o"
+    },
+    {
+      "album": {
+        "name": "Without You",
+        "url": "https://open.spotify.com/album/6M7x5AsEJelf5u5nGKDeHP"
+      },
+      "artists": [
+        {
+          "name": "Byg Smyle",
+          "url": "https://open.spotify.com/artist/4Jw8bandV6BAMsS85XggcH"
+        },
+        {
+          "name": "Taimour Baig",
+          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
+        },
+        {
+          "name": "Abhi Kesla",
+          "url": "https://open.spotify.com/artist/1NVrTipROaOFk58cgq77XM"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224098,
+      "name": "Without You",
+      "url": "https://open.spotify.com/track/1kDZXLsCFrOA2v1uEhaphj"
     },
     {
       "album": {

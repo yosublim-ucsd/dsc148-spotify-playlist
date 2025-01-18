@@ -1,6 +1,6 @@
 {
   "description": "\u305f\u3063\u305f\u72ec\u308a\u3067\u30e1\u30ed\u30c7\u30a3\u30fc\u3068\u8a00\u8449\u3092\u7d21\u3050\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc\u3002Cover: \u30d2\u30b0\u30c1\u30a2\u30a4",
-  "num_followers": 57505,
+  "num_followers": 57566,
   "original_name": "\u30d6\u30eb\u30fc\u306b\u3053\u3093\u304c\u3089\u304c\u3063\u3066",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
+        "name": "\u5143\u6c17\u3067\u3044\u3066\u306d\u3002",
+        "url": "https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x"
+      },
+      "artists": [
+        {
+          "name": "WurtS",
+          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
+        }
+      ],
+      "duration_ms": 169773,
+      "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
+      "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
         "name": "\u307e\u305a\u306f\u4eca\u65e5\u304b\u3089",
         "url": "https://open.spotify.com/album/0nncGUnUSR7PKsGubVMhxw"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 267040,
       "name": "\u30af\u30ea\u30b9\u30de\u30b9\u306e\u65e5\u3058\u3083\u306a\u304f\u3066\u3044\u3044\u304b\u3089",
       "url": "https://open.spotify.com/track/6RkW1REvjaQ6PHy4Md83rS"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "\u5143\u6c17\u3067\u3044\u3066\u306d\u3002",
-        "url": "https://open.spotify.com/album/7DRmTIvDfwHPjSGzZraS9x"
-      },
-      "artists": [
-        {
-          "name": "WurtS",
-          "url": "https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK"
-        }
-      ],
-      "duration_ms": 169773,
-      "name": "\u30e9\u30a4\u30d5\u30b9\u30bf\u30a4\u30eb",
-      "url": "https://open.spotify.com/track/6DX1571XvHNwRoqQJx6A8r"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -863,22 +863,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Feel Like This",
-        "url": "https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW"
-      },
-      "artists": [
-        {
-          "name": "YU-KA",
-          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
-        }
-      ],
-      "duration_ms": 228866,
-      "name": "Feel Like This",
-      "url": "https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "FLAG",
         "url": "https://open.spotify.com/album/25JNVUxYxxBle0cJJNb3Td"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 276681,
       "name": "FLAG",
       "url": "https://open.spotify.com/track/6If6vrgZ9Ap4tR3C5RzDmj"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "Feel Like This",
+        "url": "https://open.spotify.com/album/7tUMr3wPoPlP7IGIFcfXjW"
+      },
+      "artists": [
+        {
+          "name": "YU-KA",
+          "url": "https://open.spotify.com/artist/1mnAFQLFTaUbccNqvK5pqX"
+        }
+      ],
+      "duration_ms": 228866,
+      "name": "Feel Like This",
+      "url": "https://open.spotify.com/track/4I1JA2Iv5wSTA2mN2wKDh5"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Machi....",
-        "url": "https://open.spotify.com/album/1xp7bm3K4XSdqWG7ZVHTn7"
-      },
-      "artists": [
-        {
-          "name": ".ENDRECHERI.",
-          "url": "https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78"
-        }
-      ],
-      "duration_ms": 385446,
-      "name": "Machi....",
-      "url": "https://open.spotify.com/track/7ENZ2lMGtjNgyN0cHVEJZz"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "\u30a8\u30f3\u30c9\u30ed\u30fc\u30eb",
         "url": "https://open.spotify.com/album/28DVTgvUMIxHDP7TLc2v7e"
       },
@@ -1043,18 +1027,34 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u6b69\u307f",
-        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
+        "name": "Machi....",
+        "url": "https://open.spotify.com/album/1xp7bm3K4XSdqWG7ZVHTn7"
       },
       "artists": [
         {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+          "name": ".ENDRECHERI.",
+          "url": "https://open.spotify.com/artist/2Xe4i1wmyan14oNqhrTS78"
         }
       ],
-      "duration_ms": 230809,
-      "name": "\u6b69\u307f",
-      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
+      "duration_ms": 385446,
+      "name": "Machi....",
+      "url": "https://open.spotify.com/track/7ENZ2lMGtjNgyN0cHVEJZz"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "\u624b\u306e\u3072\u3089\u671b\u9060\u93e1",
+        "url": "https://open.spotify.com/album/6nZLHAV76GXfH2CqSBnl6O"
+      },
+      "artists": [
+        {
+          "name": "\u304c\u3089\u308a",
+          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
+        }
+      ],
+      "duration_ms": 186347,
+      "name": "\u5348\u5f8c\u4e8c\u6642\u306e\u901a\u308a\u96e8",
+      "url": "https://open.spotify.com/track/51Z4HhqC0DljkAmYeFDRmx"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
+        "name": "\u6b69\u307f",
+        "url": "https://open.spotify.com/album/1CIm1BQJajeRVf3dR1JMHU"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "duration_ms": 230809,
+      "name": "\u6b69\u307f",
+      "url": "https://open.spotify.com/track/6uBYQFQ1dL8ZYIvvc6Emth"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
         "name": "HAPPY END",
         "url": "https://open.spotify.com/album/7oenBMkeHD3LzFfPR93Apx"
       },
@@ -1107,22 +1123,6 @@
       "duration_ms": 192487,
       "name": "HAPPY END",
       "url": "https://open.spotify.com/track/1osPfNzwwAxWjRv2tCB3FN"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "\u624b\u306e\u3072\u3089\u671b\u9060\u93e1",
-        "url": "https://open.spotify.com/album/6nZLHAV76GXfH2CqSBnl6O"
-      },
-      "artists": [
-        {
-          "name": "\u304c\u3089\u308a",
-          "url": "https://open.spotify.com/artist/0JLttnOJnnXSyy8xRFiCPp"
-        }
-      ],
-      "duration_ms": 186347,
-      "name": "\u5348\u5f8c\u4e8c\u6642\u306e\u901a\u308a\u96e8",
-      "url": "https://open.spotify.com/track/51Z4HhqC0DljkAmYeFDRmx"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
-        "url": "https://open.spotify.com/album/33xhBqA8gGwvGbZTLFWJnq"
-      },
-      "artists": [
-        {
-          "name": "LUCKY TAPES",
-          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
-        }
-      ],
-      "duration_ms": 193977,
-      "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
-      "url": "https://open.spotify.com/track/3F36vTQbeIorGh3IMDQQtd"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
         "url": "https://open.spotify.com/album/6BzlZed8i1DMcJdToU0n4l"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 318733,
       "name": "\u30ea\u30a2\u30eb\u30bf\u30a4\u30e0\u30b7\u30f3\u30ac\u30fc\u30bd\u30f3\u30b0\u30e9\u30a4\u30bf\u30fc",
       "url": "https://open.spotify.com/track/6v4ZXXpTjf3qp27clLZkMm"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
+        "url": "https://open.spotify.com/album/33xhBqA8gGwvGbZTLFWJnq"
+      },
+      "artists": [
+        {
+          "name": "LUCKY TAPES",
+          "url": "https://open.spotify.com/artist/7tyrh2CwSnilzMD8olQxcx"
+        }
+      ],
+      "duration_ms": 193977,
+      "name": "\u9000\u5c48\u306a\u65e5\u3005\u306b\u82b1\u675f\u3092",
+      "url": "https://open.spotify.com/track/3F36vTQbeIorGh3IMDQQtd"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
-        "url": "https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO"
-      },
-      "artists": [
-        {
-          "name": "\u30cb\u30a4\u30ca",
-          "url": "https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV"
-        }
-      ],
-      "duration_ms": 168539,
-      "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
-      "url": "https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "illusion",
         "url": "https://open.spotify.com/album/0wimYbq1Bt4h831oilomYX"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 169879,
       "name": "illusion",
       "url": "https://open.spotify.com/track/6m53DkRrzvS8oZWHs9oiz0"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
+        "url": "https://open.spotify.com/album/4LOx4VDXKIYFCaPiFQOzNO"
+      },
+      "artists": [
+        {
+          "name": "\u30cb\u30a4\u30ca",
+          "url": "https://open.spotify.com/artist/3awoctCVai4GDLEzZREbPV"
+        }
+      ],
+      "duration_ms": 168539,
+      "name": "\u79c1\u3070\u3063\u304b\u308a\u30d0\u30ab\u307f\u305f\u3044\uff01",
+      "url": "https://open.spotify.com/track/22nGsWDIVhOh46WWvdo5fT"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1335,22 +1335,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "For Life",
-        "url": "https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK"
-      },
-      "artists": [
-        {
-          "name": "Swagcky",
-          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
-        }
-      ],
-      "duration_ms": 208971,
-      "name": "Holiday",
-      "url": "https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "\u3042\u3068\u3060\u3057",
         "url": "https://open.spotify.com/album/5gp6e1opnbjMBJSchdDMrc"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 208053,
       "name": "\u3042\u3068\u3060\u3057",
       "url": "https://open.spotify.com/track/2jgbFVpPCG5QUgAjd55dVG"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "For Life",
+        "url": "https://open.spotify.com/album/3q0k8fPXOh4Up1zGcwErJK"
+      },
+      "artists": [
+        {
+          "name": "Swagcky",
+          "url": "https://open.spotify.com/artist/7b7V60vgvYGdfrPmCYHfrj"
+        }
+      ],
+      "duration_ms": 208971,
+      "name": "Holiday",
+      "url": "https://open.spotify.com/track/4tL1BupkC47E9VYcy6nhmJ"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
+        "name": "\u5922\u66b4\u30c0\u30f3\u30b9",
+        "url": "https://open.spotify.com/album/64ECSlH886jHubGKsQ4L5a"
+      },
+      "artists": [
+        {
+          "name": "STRANGE REITARO",
+          "url": "https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "\u5922\u66b4\u30c0\u30f3\u30b9",
+      "url": "https://open.spotify.com/track/7KvsWeVx45QJhw4h74y3I1"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
         "name": "\u30cf\u30c3\u30d4\u30fc\u30fb\u30c8\u30a5\u30b2\u30b6\u30fc",
         "url": "https://open.spotify.com/album/0SfcoxoxAmqSNM966enqMV"
       },
@@ -1527,18 +1543,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u5922\u66b4\u30c0\u30f3\u30b9",
-        "url": "https://open.spotify.com/album/64ECSlH886jHubGKsQ4L5a"
+        "name": "Horizon",
+        "url": "https://open.spotify.com/album/6nmV990yr4xqzwJ7jDJery"
       },
       "artists": [
         {
-          "name": "STRANGE REITARO",
-          "url": "https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4"
+          "name": "Moeka Yahagi",
+          "url": "https://open.spotify.com/artist/6p3V5vYmdNwDlq7zJweKCg"
         }
       ],
-      "duration_ms": 225400,
-      "name": "\u5922\u66b4\u30c0\u30f3\u30b9",
-      "url": "https://open.spotify.com/track/7KvsWeVx45QJhw4h74y3I1"
+      "duration_ms": 248041,
+      "name": "Horizon",
+      "url": "https://open.spotify.com/track/5UxdVznuQnmWBO7JJu0efv"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1575,34 +1591,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u5149\u308a",
-        "url": "https://open.spotify.com/album/6Gv1a05kz4EnbY7iQzJ1xt"
+        "name": "Blue Inside You",
+        "url": "https://open.spotify.com/album/6ktH5R1nwPHZuH0tFppChA"
       },
       "artists": [
         {
-          "name": "\u4e0a\u91ce\u5927\u6a39",
-          "url": "https://open.spotify.com/artist/5YPkOSqagMwjOWf7PLjHNF"
+          "name": "luvis",
+          "url": "https://open.spotify.com/artist/0TkhuOSDpZ6NhRiPkmQ77M"
         }
       ],
-      "duration_ms": 235666,
-      "name": "\u5149\u308a",
-      "url": "https://open.spotify.com/track/5e1noXlF90H0ZpPmpwGqX1"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "Horizon",
-        "url": "https://open.spotify.com/album/6nmV990yr4xqzwJ7jDJery"
-      },
-      "artists": [
-        {
-          "name": "Moeka Yahagi",
-          "url": "https://open.spotify.com/artist/6p3V5vYmdNwDlq7zJweKCg"
-        }
-      ],
-      "duration_ms": 248041,
-      "name": "Horizon",
-      "url": "https://open.spotify.com/track/5UxdVznuQnmWBO7JJu0efv"
+      "duration_ms": 206931,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/6lRQiLSV8HaEYg9KlEuGff"
     },
     {
       "added_at": "2025-01-14 15:00:02",

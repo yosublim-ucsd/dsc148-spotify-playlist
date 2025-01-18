@@ -414,7 +414,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 157838,
       "name": "Ahi",
       "url": "https://open.spotify.com/track/5rVy4OrfXilu9iQE423JO0"
@@ -502,6 +502,24 @@
       "duration_ms": 145555,
       "name": "Alma",
       "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
+    },
+    {
+      "album": {
+        "name": "Aloh Aloh",
+        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136571,
+      "name": "Aloh Aloh",
+      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
     },
     {
       "album": {
@@ -1265,6 +1283,24 @@
     },
     {
       "album": {
+        "name": "BESITOS DULCES",
+        "url": "https://open.spotify.com/album/6tpnJnYTgfnQse2nUdneeo"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142960,
+      "name": "BESITOS DULCES",
+      "url": "https://open.spotify.com/track/44xqs8Z1S0YSkJSDZ59KMM"
+    },
+    {
+      "album": {
         "name": "Beyblade",
         "url": "https://open.spotify.com/album/06tRiOznvjvLPmn7Yv4j2p"
       },
@@ -1394,7 +1430,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 259333,
       "name": "Brisa",
       "url": "https://open.spotify.com/track/5xhFO6kaUjGcSezSp5hIhG"
@@ -1442,7 +1478,7 @@
       ],
       "date_added": "2022-05-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 199826,
       "name": "Buenos D\u00edas",
       "url": "https://open.spotify.com/track/2MxHuZWC99rsELX9SrCW7K"
@@ -1508,7 +1544,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 170000,
       "name": "Call Me",
       "url": "https://open.spotify.com/track/0VaOGXNtoYUf1vAXM0X9ST"
@@ -2032,7 +2068,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 209429,
       "name": "Costa",
       "url": "https://open.spotify.com/track/5mMBb2qFfu3IH1oolQXlch"
@@ -3252,7 +3288,7 @@
       ],
       "date_added": "2022-09-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 203571,
       "name": "Fumando",
       "url": "https://open.spotify.com/track/7J02hWxvWMi026FUPXU4nq"
@@ -3743,6 +3779,28 @@
     },
     {
       "album": {
+        "name": "Imag\u00ednate",
+        "url": "https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170365,
+      "name": "Imag\u00ednate",
+      "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
+    },
+    {
+      "album": {
         "name": "INGRATA4 (dime si a\u00fan)",
         "url": "https://open.spotify.com/album/2ze4ym7uREFXo0nvswNpek"
       },
@@ -3998,6 +4056,24 @@
       "duration_ms": 161206,
       "name": "LA DEL CAMP",
       "url": "https://open.spotify.com/track/3bs0jnlXhc0PDmyjgeOUcS"
+    },
+    {
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/0EqbbXBY9rRuI8nc3j9hVG"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146524,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/5vTb7FgRm72sbe5DPbAyNt"
     },
     {
       "album": {
@@ -4844,6 +4920,28 @@
       "duration_ms": 198160,
       "name": "Mala Suerte",
       "url": "https://open.spotify.com/track/5DlIHONh8EZTGHhLYJX8ch"
+    },
+    {
+      "album": {
+        "name": "Maldito Reggaeton",
+        "url": "https://open.spotify.com/album/0PlrRQBzGuVObeEQI8PewY"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "Maldito Reggaeton",
+      "url": "https://open.spotify.com/track/2SEyetpzyJK1zv2wpWkP5Y"
     },
     {
       "album": {
@@ -6134,7 +6232,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 205340,
       "name": "Pa all\u00e1",
       "url": "https://open.spotify.com/track/1uyE6UwyCXzpY54zhOSkYb"
@@ -7118,6 +7216,32 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "album": {
+        "name": "Heart Breakers",
+        "url": "https://open.spotify.com/album/5pMxRF0JypIBboZK9Ozd0L"
+      },
+      "artists": [
+        {
+          "name": "Andy Sante",
+          "url": "https://open.spotify.com/artist/2aQclMvGEqrhmXpgeeA0Cg"
+        },
+        {
+          "name": "Nando Produce",
+          "url": "https://open.spotify.com/artist/1w4C4n43HhI5bgubu3iIsI"
+        },
+        {
+          "name": "Yung Ghoul",
+          "url": "https://open.spotify.com/artist/7gDEUuw7nYPFiyFHYexF8C"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200171,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/4JKWeLoOPSKQ0bHQQVBUMH"
     },
     {
       "album": {
@@ -8345,6 +8469,24 @@
     },
     {
       "album": {
+        "name": "Todo va bien",
+        "url": "https://open.spotify.com/album/4yvvPqWxPpEZiINneVK0cc"
+      },
+      "artists": [
+        {
+          "name": "Mati G\u00f3mez",
+          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Todo va bien",
+      "url": "https://open.spotify.com/track/4gVWsZLkYqZxrDumM2Ma3I"
+    },
+    {
+      "album": {
         "name": "Cracker Island",
         "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
       },
@@ -8814,7 +8956,7 @@
       ],
       "date_added": "2024-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 237754,
       "name": "Vive La Vida - Remix",
       "url": "https://open.spotify.com/track/5f8KjV1pu3KHkzTcmtI50o"
@@ -8920,6 +9062,32 @@
       "duration_ms": 217000,
       "name": "Ya Quiero Verte",
       "url": "https://open.spotify.com/track/1ZIqjrEbJrlHt8vrIrhwre"
+    },
+    {
+      "album": {
+        "name": "YO NO REPITO",
+        "url": "https://open.spotify.com/album/0ctMCDzOMmdVMzOneDyQGW"
+      },
+      "artists": [
+        {
+          "name": "El Rojo",
+          "url": "https://open.spotify.com/artist/4Fl5VgTlGrsH024Ctya7N9"
+        },
+        {
+          "name": "Nestor Meness",
+          "url": "https://open.spotify.com/artist/5zYAiOzYghsIseeUp9ncpP"
+        },
+        {
+          "name": "Gatillo",
+          "url": "https://open.spotify.com/artist/299LR5yQ0wDij37IEsG1LT"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175333,
+      "name": "YO NO REPITO",
+      "url": "https://open.spotify.com/track/3BFIW1iKURXDi1UD2gKqew"
     },
     {
       "album": {

@@ -2,9 +2,9 @@
 
 ### [African Wedding Hits](https://open.spotify.com/playlist/37i9dQZF1DX18jYOKSXaB2)
 
-> Goes best with small chops and party jollof
+> Best served with party jollof
 
-162 songs - 8 hr 14 min
+163 songs - 8 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Beautiful](https://open.spotify.com/track/3Jbbpijvtlt7q8BQxdo7Aa) | [Nyashinski](https://open.spotify.com/artist/7KY9NaOVRmptl8vlpVomi6) | [Beautiful](https://open.spotify.com/album/3awn4URVbx6A9yzwevCbSo) | 3:08 | 2023-06-22 | 2023-11-03 |
 | [Believe Me](https://open.spotify.com/track/5wgbfoSDM7EuYVvbd3QWlG) | [Johnny Drille](https://open.spotify.com/artist/4f8vvLN5Rt3WszqOqVR9e9) | [Believe Me](https://open.spotify.com/album/4zG1SZyuLAzxwinmg9Z22F) | 3:31 | 2023-04-14 |  |
 | [Big Shirt & Boxers](https://open.spotify.com/track/6Q49ojL3C8Ou5dx5POpi8B) | [DOTTi The Deity](https://open.spotify.com/artist/1APmyJUpl7Z2JeJ2M7iMsR), [Reminisce](https://open.spotify.com/artist/4YIOi9aFNviV1jRQeiNZgO) | [Big Shirt & Boxers](https://open.spotify.com/album/52y2XJl6P5htCryvDaG1Z0) | 3:18 | 2024-05-17 | 2024-08-31 |
+| [Bride Price](https://open.spotify.com/track/4FQTBegN76cKnDvjKvD73p) | [Terry Apala](https://open.spotify.com/artist/0lHE0lpGvHJWcbieicn5wM), [Bella Shurmuda](https://open.spotify.com/artist/33yrkToeYjqUo7KT9zZmV4) | [Bride Price](https://open.spotify.com/album/4Cgae05jrRiZFCCFdtqX0m) | 3:35 | 2025-01-17 |  |
 | [Bucket List](https://open.spotify.com/track/7fnH0BHcOanXLbaPOFW5AA) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Jiggy Forever](https://open.spotify.com/album/6xr2tWr8pg5ndECtOD66lp) | 2:41 | 2024-04-12 | 2024-07-06 |
 | [Butterfly](https://open.spotify.com/track/2Oi5nmXp7PaxZdtx9oWc98) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE) | [Butterfly](https://open.spotify.com/album/3M8CZLQqMNipOWzNe9DBFp) | 2:38 | 2023-11-03 | 2024-02-03 |
 | [Can't Let You Go \(feat\. King Promise\)](https://open.spotify.com/track/60HGKB4wbcZhClLTYIjzNw) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf) | [Black Love](https://open.spotify.com/album/38LPmNiFu2NPdKAPAYb7ct) | 3:43 | 2022-02-11 |  |
@@ -114,7 +115,7 @@
 | [Ogechi](https://open.spotify.com/track/6YYnBEMEaj960IX1evcTun) | [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA) | [Ogechi](https://open.spotify.com/album/3RrnJMe8E4SmVIzo393sLg) | 2:32 | 2024-05-17 | 2024-07-13 |
 | [Ogechi \(feat\. Davido\) \- Remix](https://open.spotify.com/track/6O2hrfRRPBJ59PwKhSKFHz) | [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Ogechi \(feat\. Davido\) \[Remix\]](https://open.spotify.com/album/2dCuTGe45gBETZfBkEUWb4) | 3:12 | 2024-06-27 |  |
 | [Ohemaa](https://open.spotify.com/track/0kRy7nW9uIdvBK0Xr90U9W) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Ohemaa](https://open.spotify.com/album/0gOlMRtoFxvMUAfyLtIJ1h) | 4:05 | 2022-02-11 | 2023-04-15 |
-| [Ole](https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Ole](https://open.spotify.com/album/0rQjFXsqyI6eD0I6p3idA0) | 2:44 | 2024-08-30 |  |
+| [Ole](https://open.spotify.com/track/6wuN1XZESVxWp72Luqfh9P) | [Logos olori](https://open.spotify.com/artist/4UNUAstUhS75JruJEPeD0Z), [Crayon](https://open.spotify.com/artist/3Uv5hfyuC7TkLsQ6p4ikSb), [Yarden](https://open.spotify.com/artist/1nN9bKS2bD4OHNrKkS0Djd) | [Ole](https://open.spotify.com/album/0rQjFXsqyI6eD0I6p3idA0) | 2:44 | 2024-08-30 | 2025-01-18 |
 | [One & Only](https://open.spotify.com/track/3g1ap9E3iRZzlya84LRhwt) | [Kiyagi](https://open.spotify.com/artist/175itjZJLOZ4toEeb4Y0Yj) | [One & Only](https://open.spotify.com/album/0QmRBHLzLp4b78JIjzOEue) | 3:03 | 2024-10-25 |  |
 | [One And Only](https://open.spotify.com/track/7wKjjHpcu0XT8xvW5rE8PU) | [Di'Ja](https://open.spotify.com/artist/6NPhzQsQKDigbNjJInGdCd) | [One And Only](https://open.spotify.com/album/3IHJ9ZVzVTnbClgxFTT3E1) | 2:44 | 2024-11-22 |  |
 | [Onyeka \(Baby\)](https://open.spotify.com/track/2v52t6uTRjPIgnh9HHBAaf) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Twice As Tall](https://open.spotify.com/album/4moiYbxseWbPD2moVhOYje) | 3:22 | 2022-02-11 | 2024-04-19 |

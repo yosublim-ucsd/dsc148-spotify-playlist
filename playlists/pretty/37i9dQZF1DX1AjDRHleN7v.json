@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 353587,
+  "num_followers": 353901,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
@@ -663,26 +663,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Go Back",
-        "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
-      },
-      "artists": [
-        {
-          "name": "Patr\u00edcia Ahmaral",
-          "url": "https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx"
-        },
-        {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        }
-      ],
-      "duration_ms": 190453,
-      "name": "Go Back",
-      "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Sol da Meia-Noite",
         "url": "https://open.spotify.com/album/28W7g8L3MysCINCqaLOgN7"
       },
@@ -703,38 +683,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Andei S\u00f3",
-        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+        "name": "Go Back",
+        "url": "https://open.spotify.com/album/1XjmTQqDIvqsbR9oVQC39y"
       },
       "artists": [
         {
-          "name": "Francisco, el Hombre",
-          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+          "name": "Patr\u00edcia Ahmaral",
+          "url": "https://open.spotify.com/artist/2iWBU8uSOix81wnZtwDqLx"
         },
         {
-          "name": "La Delio Valdez",
-          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
         }
       ],
-      "duration_ms": 357533,
-      "name": "Andei S\u00f3",
-      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Pedra Preciosa",
-        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 204586,
-      "name": "Pedra Preciosa",
-      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+      "duration_ms": 190453,
+      "name": "Go Back",
+      "url": "https://open.spotify.com/track/1CbfQxR8BrepwWRS8RwS3e"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -755,6 +719,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Pedra Preciosa",
+        "url": "https://open.spotify.com/album/1dGKlrAidKqbr2UQswAFeY"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 204586,
+      "name": "Pedra Preciosa",
+      "url": "https://open.spotify.com/track/3c6Me0aOTbvv9eDiQGKirx"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Confia Mais",
         "url": "https://open.spotify.com/album/6G6HxSlbqCoGhOiWNdDCTO"
       },
@@ -771,6 +751,26 @@
       "duration_ms": 189000,
       "name": "Confia Mais",
       "url": "https://open.spotify.com/track/6lTigAcpgVecT9Sq0StVL4"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Andei S\u00f3",
+        "url": "https://open.spotify.com/album/6HJf6QbEk7IR6zpDRiHMMd"
+      },
+      "artists": [
+        {
+          "name": "Francisco, el Hombre",
+          "url": "https://open.spotify.com/artist/317yGDHMNsNQMfjsNNPYUg"
+        },
+        {
+          "name": "La Delio Valdez",
+          "url": "https://open.spotify.com/artist/3tzacGOmngxUV8W8lU9h3Q"
+        }
+      ],
+      "duration_ms": 357533,
+      "name": "Andei S\u00f3",
+      "url": "https://open.spotify.com/track/3SfD0MD4vj9vRRqxbmvhLI"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -927,18 +927,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "LEVE",
-        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
+        "name": "Enquanto Houver",
+        "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
       },
       "artists": [
         {
-          "name": "Thiago Muller",
-          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
+          "name": "Walace Fonseca",
+          "url": "https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW"
+        },
+        {
+          "name": "Bruno Harry",
+          "url": "https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF"
         }
       ],
-      "duration_ms": 143023,
-      "name": "LEVE",
-      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
+      "duration_ms": 180481,
+      "name": "Enquanto Houver",
+      "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -959,22 +963,18 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Enquanto Houver",
-        "url": "https://open.spotify.com/album/2MXJJpkpyxiUHO1c0Y405O"
+        "name": "LEVE",
+        "url": "https://open.spotify.com/album/2SSx10zSB8ZtF98MgDEKvr"
       },
       "artists": [
         {
-          "name": "Walace Fonseca",
-          "url": "https://open.spotify.com/artist/4xgWOvc4WXipnXYfA3JYIW"
-        },
-        {
-          "name": "Bruno Harry",
-          "url": "https://open.spotify.com/artist/4t793GwdVTpumLvvKDkVsF"
+          "name": "Thiago Muller",
+          "url": "https://open.spotify.com/artist/6WyIBfeJIvg5bYY0GRFZwi"
         }
       ],
-      "duration_ms": 180481,
-      "name": "Enquanto Houver",
-      "url": "https://open.spotify.com/track/3tMOge7zmbH20bw78vWTGj"
+      "duration_ms": 143023,
+      "name": "LEVE",
+      "url": "https://open.spotify.com/track/7dnmU4oMR74LOnR9x5NQUo"
     },
     {
       "added_at": "2025-01-10 03:00:26",

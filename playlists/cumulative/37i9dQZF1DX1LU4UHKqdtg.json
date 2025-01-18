@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: BSS",
+  "description": "The freshest K-Pop of today!  //\u6700\u5148\u7aef\u306eK-Pop\u3092\u30d4\u30c3\u30af\u30a2\u30c3\u30d7\uff01 Cover: Yves",
   "name": "K-Pop Fresh",
   "tracks": [
     {
@@ -3762,7 +3762,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 194400,
       "name": "Checkmate (Prod. Czaer)",
       "url": "https://open.spotify.com/track/2CvP09dI7LvW1CMy2Lus76"
@@ -4452,7 +4452,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 164554,
       "name": "CRAZY",
       "url": "https://open.spotify.com/track/3AoEQRuFf8zVXWqSLo2UOi"
@@ -10129,6 +10129,24 @@
     },
     {
       "album": {
+        "name": "Dear.M",
+        "url": "https://open.spotify.com/album/47FAjLG2fBhDBgb4mRHMQT"
+      },
+      "artists": [
+        {
+          "name": "ONEUS",
+          "url": "https://open.spotify.com/artist/3CVYSpM7nfHFG5qCTW7Ht9"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168386,
+      "name": "IKUK",
+      "url": "https://open.spotify.com/track/1CjaEVRcMcHJs6K6JcsBg4"
+    },
+    {
+      "album": {
         "name": "illumination",
         "url": "https://open.spotify.com/album/516cSsK1gUdpPRmNzh8zPe"
       },
@@ -13414,7 +13432,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 163657,
       "name": "NA",
       "url": "https://open.spotify.com/track/4UVsqRoSys14kMLBfpJDTQ"
@@ -14033,6 +14051,24 @@
     },
     {
       "album": {
+        "name": "NOW OR NEVER",
+        "url": "https://open.spotify.com/album/2X6c4OK7DZVbEAOHTfaIfi"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202773,
+      "name": "NOW OR NEVER",
+      "url": "https://open.spotify.com/track/2xRSV9JyN6xJe0Puyitnzj"
+    },
+    {
+      "album": {
         "name": "Nu Boo (feat. SOMIN of KARD)",
         "url": "https://open.spotify.com/album/317dY0NQqcIYgQT9ySk3gD"
       },
@@ -14424,7 +14460,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 186306,
       "name": "ON MY BIKE",
       "url": "https://open.spotify.com/track/7rWJErOewz9Q4x6Z02HXkM"
@@ -17311,6 +17347,24 @@
     },
     {
       "album": {
+        "name": "Season of Memories (Special Album)",
+        "url": "https://open.spotify.com/album/3RKQHq3qRjvC1haI9WxOKM"
+      },
+      "artists": [
+        {
+          "name": "GFRIEND",
+          "url": "https://open.spotify.com/artist/0qlWcS66ohOIi0M8JZwPft"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186558,
+      "name": "Season of Memories",
+      "url": "https://open.spotify.com/track/6QHWOhx5fYFKtI3LhgLrqM"
+    },
+    {
+      "album": {
         "name": "Season of Memories",
         "url": "https://open.spotify.com/album/3UUFDXb07kihCozeRLTe5y"
       },
@@ -17322,7 +17376,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 186558,
       "name": "Season of Memories",
       "url": "https://open.spotify.com/track/7LFwi4RolcCPnVEXXXVfQP"
@@ -17366,6 +17420,24 @@
       "duration_ms": 182795,
       "name": "See that?",
       "url": "https://open.spotify.com/track/3Zice5cXhiPVLwrdBJlyHc"
+    },
+    {
+      "album": {
+        "name": "I Did: Bloom (Deluxe)",
+        "url": "https://open.spotify.com/album/2haRGdLvimDfNlDBW1LAt1"
+      },
+      "artists": [
+        {
+          "name": "Yves",
+          "url": "https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193680,
+      "name": "See you in hell",
+      "url": "https://open.spotify.com/track/0ho6WKE45zywTVph0deBpq"
     },
     {
       "album": {
@@ -18072,6 +18144,28 @@
       "duration_ms": 198586,
       "name": "SMARTPHONE",
       "url": "https://open.spotify.com/track/3660VWl7PCUsXhZlakn0KY"
+    },
+    {
+      "album": {
+        "name": "SMB (w/ Hongjoong of ATEEZ)",
+        "url": "https://open.spotify.com/album/1Lgz2bQZCHu1scUkX0qpnl"
+      },
+      "artists": [
+        {
+          "name": "Odetari",
+          "url": "https://open.spotify.com/artist/7ITMCzIU9uII8gwRg8JAhc"
+        },
+        {
+          "name": "ATEEZ",
+          "url": "https://open.spotify.com/artist/68KmkJeZGfwe1OUaivBa2L"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133565,
+      "name": "SMB (w/ Hongjoong of ATEEZ)",
+      "url": "https://open.spotify.com/track/37BYze5s1mi14oE0U0c3Fg"
     },
     {
       "album": {

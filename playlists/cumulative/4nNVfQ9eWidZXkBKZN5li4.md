@@ -2,7 +2,7 @@
 
 ### [Bollywood Top 50](https://open.spotify.com/playlist/4nNVfQ9eWidZXkBKZN5li4)
 
-> Hindi hits, Punjabi bangers, love songs, chart toppers, timeless classics, latest trending tracks and much more under a single playlist featuring best of the artists like Arijit Singh, Pritam, A R Rahman, Badshah, B Praak &amp; AP Dhillon\. Follow now!
+> Hindi hits, Punjabi bangers, love songs, chart toppers, timeless Bollywood classics, latest trending tracks under a single playlist featuring the best of Arijit Singh, Pritam, A R Rahman, Badshah, AP Dhillon and more\. Follow now!
 
 319 songs - 19 hr 29 min
 

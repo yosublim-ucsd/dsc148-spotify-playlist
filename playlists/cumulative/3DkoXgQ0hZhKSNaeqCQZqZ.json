@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "DIGITAL",
+        "url": "https://open.spotify.com/album/6pO4KZg5p64j4jy6A0gVac"
+      },
+      "artists": [
+        {
+          "name": "BASSDOG",
+          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198384,
+      "name": "DIGITAL",
+      "url": "https://open.spotify.com/track/3Ex7txNb9xZYMqPNV6i837"
+    },
+    {
+      "album": {
         "name": "Ghost Bounty Hunter",
         "url": "https://open.spotify.com/album/7yt1fLy831HgXf0LRGaVcf"
       },
@@ -1660,6 +1678,24 @@
       "duration_ms": 165823,
       "name": "Fetish",
       "url": "https://open.spotify.com/track/2ld8OXTfS16XTEkv2fu3sH"
+    },
+    {
+      "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/2WtVCMJcru3ZMipJjOrmWi"
+      },
+      "artists": [
+        {
+          "name": "Zenny",
+          "url": "https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125868,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/112hvUfQjrjaYxZo1cUCct"
     },
     {
       "album": {
@@ -3624,6 +3660,24 @@
       "duration_ms": 153663,
       "name": "Punching Bag",
       "url": "https://open.spotify.com/track/0nLEEvXYj3G63yq06rLMTd"
+    },
+    {
+      "album": {
+        "name": "PUNCTURE WOUND",
+        "url": "https://open.spotify.com/album/6UB47krwdiR2eKER9X0e5j"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191232,
+      "name": "PUNCTURE WOUND",
+      "url": "https://open.spotify.com/track/7j9CLBCltNLLWSkRkCnFm0"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Music from \"Idle Master SideM\". \u30a2THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n",
-  "num_followers": 23633,
+  "num_followers": 23634,
   "original_name": "THE IDOLM@STER SideM",
   "owner": {
     "name": "Spotify",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
+        "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 05",
+        "url": "https://open.spotify.com/album/0KvTfXuzZhYRpeoX6yTZ6J"
+      },
+      "artists": [
+        {
+          "name": "Altessimo",
+          "url": "https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8"
+        }
+      ],
+      "duration_ms": 286266,
+      "name": "mermaid fermata",
+      "url": "https://open.spotify.com/track/5CX43IRpUiO8ndaOxwLreD"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
         "name": "THE IDOLM@STER SideM ANIMATION PROJECT 01 Reason!!",
         "url": "https://open.spotify.com/album/2dWuenMwbM25FIFG8K7ACG"
       },
@@ -1171,38 +1187,6 @@
       "duration_ms": 245786,
       "name": "\u590f\u6642\u9593\u30b0\u30e9\u30d5\u30a3\u30c6\u30a3",
       "url": "https://open.spotify.com/track/2fFyk58FJRGKL40fAa9R1A"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "Genesis Contact",
-        "url": "https://open.spotify.com/album/0xSFCJ8rDhy7K1WTY5kBKv"
-      },
-      "artists": [
-        {
-          "name": "\u51ac\u7f8e \u65ec (CV.\u6c38\u585a\u62d3\u99ac)",
-          "url": "https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb"
-        },
-        {
-          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
-          "url": "https://open.spotify.com/artist/4zXriNQJamN0PnIh2htWGZ"
-        },
-        {
-          "name": "\u90fd\u7bc9 \u572d (CV.\u571f\u5c90\u96bc\u4e00)",
-          "url": "https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx"
-        },
-        {
-          "name": "\u6771\u96f2\u8358\u4e00\u90ce (CV.\u5929\ufa11\u6ec9\u5e73)",
-          "url": "https://open.spotify.com/artist/7Fag7eFJZILyzgp3Y7TFn2"
-        },
-        {
-          "name": "\u83ef\u6751\u7fd4\u771f (CV.\u30d0\u30ec\u30c3\u30bf\u88d5)",
-          "url": "https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l"
-        }
-      ],
-      "duration_ms": 282272,
-      "name": "Genesis Contact",
-      "url": "https://open.spotify.com/track/11siJxjQ7hd0WAwdUnXu7m"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -1255,6 +1239,38 @@
       "duration_ms": 265480,
       "name": "\u60c5\u71b1...FIGHTER",
       "url": "https://open.spotify.com/track/59adiCCwOpRo5mMqQLlZWb"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "Genesis Contact",
+        "url": "https://open.spotify.com/album/0xSFCJ8rDhy7K1WTY5kBKv"
+      },
+      "artists": [
+        {
+          "name": "\u51ac\u7f8e \u65ec (CV.\u6c38\u585a\u62d3\u99ac)",
+          "url": "https://open.spotify.com/artist/5sax8TYbIWIh8oAOxTBIOb"
+        },
+        {
+          "name": "\u5929\u30f6\u702c\u51ac\u99ac (CV.\u5bfa\u5cf6\u62d3\u7be4)",
+          "url": "https://open.spotify.com/artist/4zXriNQJamN0PnIh2htWGZ"
+        },
+        {
+          "name": "\u90fd\u7bc9 \u572d (CV.\u571f\u5c90\u96bc\u4e00)",
+          "url": "https://open.spotify.com/artist/4uLjWMjKIIfL9EIjR6vnQx"
+        },
+        {
+          "name": "\u6771\u96f2\u8358\u4e00\u90ce (CV.\u5929\ufa11\u6ec9\u5e73)",
+          "url": "https://open.spotify.com/artist/7Fag7eFJZILyzgp3Y7TFn2"
+        },
+        {
+          "name": "\u83ef\u6751\u7fd4\u771f (CV.\u30d0\u30ec\u30c3\u30bf\u88d5)",
+          "url": "https://open.spotify.com/artist/2eGwnPZ5MnK9A5XTEoOW3l"
+        }
+      ],
+      "duration_ms": 282272,
+      "name": "Genesis Contact",
+      "url": "https://open.spotify.com/track/11siJxjQ7hd0WAwdUnXu7m"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -1331,22 +1347,6 @@
     {
       "added_at": "2025-01-14 15:56:57",
       "album": {
-        "name": "THE IDOLM@STER SideM 49 ELEMENTS -06 THE \u864e\u7259\u9053",
-        "url": "https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz"
-      },
-      "artists": [
-        {
-          "name": "\u5186\u57ce\u5bfa\u9053\u6d41 (CV.\u6ff1\u91ce\u5927\u8f1d)",
-          "url": "https://open.spotify.com/artist/0SSbCy2ER4tkPjFrE4LI2R"
-        }
-      ],
-      "duration_ms": 214133,
-      "name": "Determined Soul",
-      "url": "https://open.spotify.com/track/4mRkFvR1xxqfrdcs4eeJAJ"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
         "name": "THE IDOLM@STER SideM 2nd ANNIVERSARY 02",
         "url": "https://open.spotify.com/album/0lRIL8bWRWlOpSZGOmkgSF"
       },
@@ -1359,6 +1359,22 @@
       "duration_ms": 269386,
       "name": "\u30b5\u30fb\u30e8\u30fb\u30ca\u30fb\u30e9 Summer Holiday",
       "url": "https://open.spotify.com/track/3GTuCwTQnwQwdDQF427hWN"
+    },
+    {
+      "added_at": "2025-01-14 15:56:57",
+      "album": {
+        "name": "THE IDOLM@STER SideM 49 ELEMENTS -06 THE \u864e\u7259\u9053",
+        "url": "https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz"
+      },
+      "artists": [
+        {
+          "name": "\u5186\u57ce\u5bfa\u9053\u6d41 (CV.\u6ff1\u91ce\u5927\u8f1d)",
+          "url": "https://open.spotify.com/artist/0SSbCy2ER4tkPjFrE4LI2R"
+        }
+      ],
+      "duration_ms": 214133,
+      "name": "Determined Soul",
+      "url": "https://open.spotify.com/track/4mRkFvR1xxqfrdcs4eeJAJ"
     },
     {
       "added_at": "2025-01-14 15:56:57",
@@ -1435,22 +1451,6 @@
       "duration_ms": 253920,
       "name": "Teatime Clich\u00e9",
       "url": "https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt"
-    },
-    {
-      "added_at": "2025-01-14 15:56:57",
-      "album": {
-        "name": "THE IDOLM@STER SideM GROWING SIGN@L 18",
-        "url": "https://open.spotify.com/album/61lUtgXia5yWLvkYm3K5Kl"
-      },
-      "artists": [
-        {
-          "name": "High\u00d7Joker",
-          "url": "https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec"
-        }
-      ],
-      "duration_ms": 260252,
-      "name": "Toward Pole Star",
-      "url": "https://open.spotify.com/track/3ttWXcnYMaTc5IUgRmQndI"
     }
   ],
   "unique_name": "THE IDOLM@STER SideM",

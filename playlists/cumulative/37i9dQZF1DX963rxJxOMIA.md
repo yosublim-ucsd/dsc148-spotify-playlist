@@ -4,7 +4,7 @@
 
 > Fino y elegante, como Kapo
 
-284 songs - 15 hr 1 min
+285 songs - 15 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -178,6 +178,7 @@
 | [Mírate Bien](https://open.spotify.com/track/7yQVxpEIfgUJZJLoucfbs3) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP), [Symon Dice](https://open.spotify.com/artist/13UfNcNfBVluLz2d0J6y6v) | [Mírate Bien](https://open.spotify.com/album/2ihZsxbhXzGAIWzG51ImRM) | 3:00 | 2022-09-06 | 2022-10-14 |
 | [Nadie Nos Vio \- Spotify Singles](https://open.spotify.com/track/0BibHMUWAVk5R4R0EpUOfX) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [DJ Luian](https://open.spotify.com/artist/64aJYyrXljOodnUG6jvhRD), [Mambo Kingz](https://open.spotify.com/artist/2T1aUibqR2QC2sINIDQOAK) | [Nadie Nos Vio \- Spotify Singles](https://open.spotify.com/album/5TCDz405Ejfs2yEK9Mgu8c) | 2:40 | 2022-11-03 | 2023-01-21 |
 | [Necesito un Amor \- Remix](https://open.spotify.com/track/29sxr5UMCuDqLlfLhF5knt) | [Golpe a Golpe](https://open.spotify.com/artist/0nqpXa8bkBlWgS9FKhNCuj), [Yerman & Yembo](https://open.spotify.com/artist/6u2YMRUE2lcI09dwKrF5tm), [Guajiro](https://open.spotify.com/artist/2w53XcQlatjpOQFT0PZhz4) | [Necesito un Amor \(Remix\)](https://open.spotify.com/album/3cXPomhP1XKwlho1A6nwEX) | 3:26 | 2022-09-30 | 2022-10-14 |
+| [NI X EL PUTXS](https://open.spotify.com/track/1KL5rlmHCcyqkoGHjsle8v) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [NI X EL PUTXS](https://open.spotify.com/album/60BWMQAOZyitudi2E543PQ) | 3:07 | 2025-01-17 |  |
 | [Nivel De Perreo](https://open.spotify.com/track/0nDGgXV5oI8TdAmWjUx65l) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz) | [Nivel De Perreo](https://open.spotify.com/album/6uDeoe39q6zh4vNScJTTgr) | 2:31 | 2022-09-06 | 2023-04-01 |
 | [Niña Bonita](https://open.spotify.com/track/3Gs7mVfWKl567mjozgxmXv) | [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9) | [Niña Bonita](https://open.spotify.com/album/3bVdhbdl1XxW7u7A0TffBB) | 3:07 | 2023-04-21 | 2023-10-21 |
 | [No Copio](https://open.spotify.com/track/20ULOJfgc85eBXq83rjKEf) | [Crudo Means Raw](https://open.spotify.com/artist/3fQP5a7SIC91kV4N8AOy53) | [No Copio](https://open.spotify.com/album/2A3JkMQdIK53qMJo6PcXhT) | 3:25 | 2022-10-13 | 2022-12-31 |
@@ -258,7 +259,7 @@
 | [Stunt Life](https://open.spotify.com/track/7cltqN5aU4QDevKw4nHTTv) | [Teo LB](https://open.spotify.com/artist/0HwtulWF8xZD2g2IMhNXwo) | [A Tope](https://open.spotify.com/album/6mSxJETRf3SranFbgFs1QM) | 3:18 | 2023-04-21 | 2023-04-29 |
 | [Sueltas](https://open.spotify.com/track/6PkiSdWbhsuFP9qaFyu3CA) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd) | [Sueltas](https://open.spotify.com/album/7owbqoUvVQBJYuoEto3IMe) | 2:43 | 2023-03-17 | 2023-06-24 |
 | [Suero Casero](https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Suero Casero](https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE) | 3:05 | 2024-01-26 | 2024-03-01 |
-| [Sueños Perdidos \- Remix](https://open.spotify.com/track/4Vn92wJSxKy1hxalV0FRQK) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Sueños Perdidos \(Remix\)](https://open.spotify.com/album/4H0XsgmB5TYrfKdZP0qWNg) | 4:58 | 2024-04-10 |  |
+| [Sueños Perdidos \- Remix](https://open.spotify.com/track/4Vn92wJSxKy1hxalV0FRQK) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [Esteban Rojas](https://open.spotify.com/artist/680tleL97NcpJiib89V6UU), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo), [Justin Quiles](https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP) | [Sueños Perdidos \(Remix\)](https://open.spotify.com/album/4H0XsgmB5TYrfKdZP0qWNg) | 4:58 | 2024-04-10 | 2025-01-18 |
 | [Tararea](https://open.spotify.com/track/5TiXw4jvzMAQsWjCpT61TB) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:19 | 2022-10-13 | 2023-03-03 |
 | [Te Conviene](https://open.spotify.com/track/6SYcT9BykBSNLVYbpEemT4) | [SOG](https://open.spotify.com/artist/18dspUI6gqabm5XCC2RcUD), [Nio Garcia](https://open.spotify.com/artist/5hdhHgpxyniooUiQVaPxQ0) | [Te Conviene](https://open.spotify.com/album/484smOVqzQc6jrpflc6Lzr) | 3:00 | 2024-12-06 |  |
 | [Te Llamé](https://open.spotify.com/track/6bjiDhrHMY0zUbBQliYlQu) | [Philip Ariaz](https://open.spotify.com/artist/0OJB7a56o2eMyB6hOmv6vC) | [Te Llamé](https://open.spotify.com/album/3qbKWFKK1qOjMncTxS0woZ) | 3:15 | 2022-10-07 | 2022-10-14 |

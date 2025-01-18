@@ -6,8 +6,56 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADFpB9y2Q++KTtv4Ag605UoxzzGVp1",
+  "snapshot_id": "AAADGtIARqUsR99ZPIzPkp+7Zl/ryUjA",
   "tracks": [
+    {
+      "added_at": "2025-01-18 02:13:15",
+      "album": {
+        "name": "Fight For You",
+        "url": "https://open.spotify.com/album/2WtVCMJcru3ZMipJjOrmWi"
+      },
+      "artists": [
+        {
+          "name": "Zenny",
+          "url": "https://open.spotify.com/artist/5SMFP03GsMF9j28hEzbdQM"
+        }
+      ],
+      "duration_ms": 125868,
+      "name": "Fight For You",
+      "url": "https://open.spotify.com/track/112hvUfQjrjaYxZo1cUCct"
+    },
+    {
+      "added_at": "2025-01-18 02:13:30",
+      "album": {
+        "name": "PUNCTURE WOUND",
+        "url": "https://open.spotify.com/album/6UB47krwdiR2eKER9X0e5j"
+      },
+      "artists": [
+        {
+          "name": "GABUISLOST",
+          "url": "https://open.spotify.com/artist/1gVZVEcZQvNwe6hEdRlugH"
+        }
+      ],
+      "duration_ms": 191232,
+      "name": "PUNCTURE WOUND",
+      "url": "https://open.spotify.com/track/7j9CLBCltNLLWSkRkCnFm0"
+    },
+    {
+      "added_at": "2025-01-18 02:13:48",
+      "album": {
+        "name": "DIGITAL",
+        "url": "https://open.spotify.com/album/6pO4KZg5p64j4jy6A0gVac"
+      },
+      "artists": [
+        {
+          "name": "BASSDOG",
+          "url": "https://open.spotify.com/artist/12nm0BL6ld04PNgVi1UwwU"
+        }
+      ],
+      "duration_ms": 198384,
+      "name": "DIGITAL",
+      "url": "https://open.spotify.com/track/3Ex7txNb9xZYMqPNV6i837"
+    },
     {
       "added_at": "2025-01-17 00:02:43",
       "album": {
@@ -27,6 +75,38 @@
       "duration_ms": 96923,
       "name": "SPOOKY",
       "url": "https://open.spotify.com/track/4aT2W9wchQKAimxVFSRIva"
+    },
+    {
+      "added_at": "2025-01-07 19:20:28",
+      "album": {
+        "name": "No Matter What 2024 EP",
+        "url": "https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY"
+      },
+      "artists": [
+        {
+          "name": "Vylet Pony",
+          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
+        },
+        {
+          "name": "NekoSnicker",
+          "url": "https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo"
+        },
+        {
+          "name": "Sylver Stripe",
+          "url": "https://open.spotify.com/artist/0aohwwtpLSJi4RAXQkjKkb"
+        },
+        {
+          "name": "Namii",
+          "url": "https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6"
+        },
+        {
+          "name": "GalaxySquid",
+          "url": "https://open.spotify.com/artist/5Bf0U4uWT0KwE3047UWYja"
+        }
+      ],
+      "duration_ms": 275000,
+      "name": "No Matter What - 2024",
+      "url": "https://open.spotify.com/track/2XJlp7wla0EJI8CNlzICpG"
     },
     {
       "added_at": "2025-01-08 21:57:50",
@@ -79,38 +159,6 @@
       "duration_ms": 128000,
       "name": "I LOVE BEING NORMAL",
       "url": "https://open.spotify.com/track/1ePCMvoywpQ4eB6VQPsPwe"
-    },
-    {
-      "added_at": "2025-01-07 19:20:28",
-      "album": {
-        "name": "No Matter What 2024 EP",
-        "url": "https://open.spotify.com/album/6akqia0sGSOuQ4MbWafPJY"
-      },
-      "artists": [
-        {
-          "name": "Vylet Pony",
-          "url": "https://open.spotify.com/artist/1kM5BZXs7FFN8Dj1WpgH2j"
-        },
-        {
-          "name": "NekoSnicker",
-          "url": "https://open.spotify.com/artist/0u5lrFG404zDUFTmcBmijo"
-        },
-        {
-          "name": "Sylver Stripe",
-          "url": "https://open.spotify.com/artist/0aohwwtpLSJi4RAXQkjKkb"
-        },
-        {
-          "name": "Namii",
-          "url": "https://open.spotify.com/artist/1tC9tzzTRbx0gDMaNmxUZ6"
-        },
-        {
-          "name": "GalaxySquid",
-          "url": "https://open.spotify.com/artist/5Bf0U4uWT0KwE3047UWYja"
-        }
-      ],
-      "duration_ms": 275000,
-      "name": "No Matter What - 2024",
-      "url": "https://open.spotify.com/track/2XJlp7wla0EJI8CNlzICpG"
     },
     {
       "added_at": "2025-01-06 19:39:36",

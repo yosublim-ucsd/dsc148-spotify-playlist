@@ -315,6 +315,24 @@
     },
     {
       "album": {
+        "name": "ALLNIGHT",
+        "url": "https://open.spotify.com/album/4gUumxLX7X6Cw2ZKhu6WPO"
+      },
+      "artists": [
+        {
+          "name": "VILLA",
+          "url": "https://open.spotify.com/artist/6CjQ1qXQdr7P84BkOEuTwS"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152571,
+      "name": "ALLNIGHT",
+      "url": "https://open.spotify.com/track/6lpdBm0IQiLJfULgAPqDzb"
+    },
+    {
+      "album": {
         "name": "ALONE",
         "url": "https://open.spotify.com/album/7aAH1oolGZgDb828klxPPj"
       },
@@ -986,6 +1004,24 @@
       "duration_ms": 185142,
       "name": "Bite Your Lip pt. 2",
       "url": "https://open.spotify.com/track/62FIFVM7LIDDfNM4fEqDgx"
+    },
+    {
+      "album": {
+        "name": "BITTER! (for the lack of a better word)",
+        "url": "https://open.spotify.com/album/7ahbPm3kB21xLz8ex6btz2"
+      },
+      "artists": [
+        {
+          "name": "Moore Kismet",
+          "url": "https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181245,
+      "name": "BITTER! (for the lack of a better word)",
+      "url": "https://open.spotify.com/track/5mhfTdq8DGNefTsR0R7pbp"
     },
     {
       "album": {
@@ -3950,7 +3986,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 133714,
       "name": "Freak",
       "url": "https://open.spotify.com/track/7dwlpzOcMnYcBmQC0OjJKg"
@@ -4524,7 +4560,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 150857,
       "name": "Goons",
       "url": "https://open.spotify.com/track/25P31QyaHp71BqA3jhxAb2"
@@ -5296,6 +5332,24 @@
       "duration_ms": 146000,
       "name": "Huhhh",
       "url": "https://open.spotify.com/track/0yDFbeIHE9P5r1c531mAlr"
+    },
+    {
+      "album": {
+        "name": "Hurt",
+        "url": "https://open.spotify.com/album/2SNoAgXeao4wQ63bni0p8C"
+      },
+      "artists": [
+        {
+          "name": "STUCA",
+          "url": "https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192300,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/50JrXCKNKTV8y0oyWyAHbM"
     },
     {
       "album": {
@@ -6754,7 +6808,7 @@
       ],
       "date_added": "2024-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 208279,
       "name": "LOSE CONTROL",
       "url": "https://open.spotify.com/track/6dGm7Nbq7TCho3U8jew0HG"
@@ -8053,6 +8107,24 @@
     },
     {
       "album": {
+        "name": "Obsidian Dreams",
+        "url": "https://open.spotify.com/album/40bXIqm70c3LRpe7vdDDZB"
+      },
+      "artists": [
+        {
+          "name": "Leat'eq",
+          "url": "https://open.spotify.com/artist/1iBxtU5394iPOzmot1FDUD"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158042,
+      "name": "Obsidian Dreams",
+      "url": "https://open.spotify.com/track/60lV9Sfut4e9vlKHgzd04t"
+    },
+    {
+      "album": {
         "name": "Octavia",
         "url": "https://open.spotify.com/album/7pLF40nSHudOnKd0i4m30m"
       },
@@ -8502,6 +8574,32 @@
       "duration_ms": 239220,
       "name": "PRISM",
       "url": "https://open.spotify.com/track/4v4EcZ7Yz50KaiAiDyFnDm"
+    },
+    {
+      "album": {
+        "name": "Prize",
+        "url": "https://open.spotify.com/album/54wOA7NwxH2G1UtbtbeKyR"
+      },
+      "artists": [
+        {
+          "name": "Fabian Mazur",
+          "url": "https://open.spotify.com/artist/5BBBDm18Y0TCRXZggaOnZG"
+        },
+        {
+          "name": "Golden Child",
+          "url": "https://open.spotify.com/artist/2LXnlHvRvGIIR8wegJfTVR"
+        },
+        {
+          "name": "Robu",
+          "url": "https://open.spotify.com/artist/5s3iXQgBxJvFSQVviVilbt"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136805,
+      "name": "Prize",
+      "url": "https://open.spotify.com/track/7kweAeNokxeIoJOUuS45Dy"
     },
     {
       "album": {
@@ -9202,7 +9300,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 177935,
       "name": "SAINT VITUS",
       "url": "https://open.spotify.com/track/0er5nt6WASDSnqAN27HF3u"
@@ -9524,7 +9622,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 155586,
       "name": "SHOTTAS",
       "url": "https://open.spotify.com/track/0pUcofQDWTGspjUsyE1bB2"
@@ -10584,7 +10682,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 231000,
       "name": "The Call",
       "url": "https://open.spotify.com/track/3TpIccn4uYgXO7A67WuXoN"
@@ -11006,7 +11104,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 131842,
       "name": "Too Hot To Touch",
       "url": "https://open.spotify.com/track/5ev32fQKapkhbbKtbrfkFG"
@@ -11406,7 +11504,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 198857,
       "name": "Twin Fang",
       "url": "https://open.spotify.com/track/4w8OjBEgU5TY5hFnnSry9B"
@@ -11512,7 +11610,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-17",
+      "date_removed": null,
       "duration_ms": 238344,
       "name": "UH OH!",
       "url": "https://open.spotify.com/track/4hd3nmmHJ53ztZllQG6CQl"

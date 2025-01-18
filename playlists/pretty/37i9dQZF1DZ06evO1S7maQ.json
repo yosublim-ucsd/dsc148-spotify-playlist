@@ -1,29 +1,13 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 634402,
+  "num_followers": 634419,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4WpAAAAAADtt3tdEzho056tUB4HftUI",
+  "snapshot_id": "Z4hMAAAAAAD4kgYNk6e2o3cS9AU95Kcx",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Live Series: Songs Under Cover Vol. 3",
-        "url": "https://open.spotify.com/album/2ToxcbU9tQxs51Z9PjJDgZ"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 287200,
-      "name": "Rainy Night in SoHo - Live at Croke Park, Dublin, Ireland - 5/19/2024",
-      "url": "https://open.spotify.com/track/64a3Adt7uk4sV07DioafsZ"
-    },
     {
       "added_at": null,
       "album": {
@@ -640,9 +624,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 177840,
-      "name": "One Minute You're Here",
-      "url": "https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf"
+      "duration_ms": 354813,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
     },
     {
       "added_at": null,
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
         }
       ],
-      "duration_ms": 354813,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/6ZOdsfgq6ygEPnG3nCIY8L"
+      "duration_ms": 177840,
+      "name": "One Minute You're Here",
+      "url": "https://open.spotify.com/track/4VpkCmCnqgcUcysgHdTbYf"
     },
     {
       "added_at": null,

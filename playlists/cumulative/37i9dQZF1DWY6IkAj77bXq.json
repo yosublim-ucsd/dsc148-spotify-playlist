@@ -3271,6 +3271,24 @@
     },
     {
       "album": {
+        "name": "Shimmer",
+        "url": "https://open.spotify.com/album/4zkNPikCAPWeCQJBh7VjvW"
+      },
+      "artists": [
+        {
+          "name": "AuraLoom",
+          "url": "https://open.spotify.com/artist/2ZYVbc2WImD0mJNivdjZPV"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200536,
+      "name": "Shimmer",
+      "url": "https://open.spotify.com/track/2GFGWVc42MIAd3jdI6WlJF"
+    },
+    {
+      "album": {
         "name": "Shimmering Skies",
         "url": "https://open.spotify.com/album/2OX9kxWj8XmANZvmnVKZAK"
       },
@@ -3516,7 +3534,7 @@
       ],
       "date_added": "2022-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 304952,
       "name": "Solace - Meditation",
       "url": "https://open.spotify.com/track/27IttMdiGdiffTT0fnBxZK"

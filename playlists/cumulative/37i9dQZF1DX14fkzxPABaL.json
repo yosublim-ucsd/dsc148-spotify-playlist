@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-21",
-  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: MYA",
+  "description": "La m\u00fasica que te acompa\u00f1a en el amor. Foto: Ricardo Arjona.",
   "name": "Enamor\u00e1ndose",
   "tracks": [
     {
@@ -2393,6 +2393,24 @@
     },
     {
       "album": {
+        "name": "SECO",
+        "url": "https://open.spotify.com/album/2r03AVsnOvc0bZ1TzYqXuD"
+      },
+      "artists": [
+        {
+          "name": "Ricardo Arjona",
+          "url": "https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276566,
+      "name": "Mujer",
+      "url": "https://open.spotify.com/track/2kGWsi1lTLiDtru26eGKUs"
+    },
+    {
+      "album": {
         "name": "Muy lejos de mi",
         "url": "https://open.spotify.com/album/6MaeCEK3zDlWHrhrOb3zUd"
       },
@@ -3774,7 +3792,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 242000,
       "name": "Te Amo",
       "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"

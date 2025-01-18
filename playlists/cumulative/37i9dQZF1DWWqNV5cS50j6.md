@@ -4,7 +4,7 @@
 
 > Alternative indie music etc\. Cover: Roy Blair
 
-1,782 songs - 3 day 13 hr 31 min
+1,783 songs - 3 day 13 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1511,6 +1511,7 @@
 | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \- Remix](https://open.spotify.com/track/7eCEFon46sdQ93C9Bn1A1U) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu), [Travis Barker](https://open.spotify.com/artist/4exLIFE8sISLr28sqG1qNX) | [t r a n s p a r e n t s o u l feat\. Kid Cudi & Travis Barker \(Remix\)](https://open.spotify.com/album/7nh9bTQBhetVOYSXWBhK8l) | 3:19 | 2021-11-19 | 2022-02-12 |
 | [Tailor Swif](https://open.spotify.com/track/5xMjhZKSo8yh5r9b5vrYRr) | [A$AP Rocky](https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca) | [Tailor Swif](https://open.spotify.com/album/5r4bE2O6LCLBTjT42RBXwg) | 2:35 | 2024-09-03 | 2024-10-05 |
 | [take a trip](https://open.spotify.com/track/7iK56bHDb3S8ijQ5cy7xlk) | [ceo@business.net](https://open.spotify.com/artist/62AQgmEbWNT2jh8uL4PfRR), [jungle bobby](https://open.spotify.com/artist/2OOLZKc1j4FoOCHOgGbtRl), [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz), [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [incentivize unpaid overtime 2](https://open.spotify.com/album/61DXuWPO5fHZmeORMrB5Ao) | 2:40 | 2021-09-12 | 2021-10-16 |
+| [take it slow](https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo) | [nate sib](https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv) | [take it slow](https://open.spotify.com/album/3AMNBMeY5JZYEO5k8mcaeR) | 2:17 | 2025-01-17 |  |
 | [take me to the moon](https://open.spotify.com/track/4PJ7GSAn3rt808GqAD0G9a) | [Julius](https://open.spotify.com/artist/3753dgqQEAM0UINlu7UaTs) | [take me to the moon](https://open.spotify.com/album/6WZfKL7Lhhyqb84wMeejQJ) | 3:28 | 2021-08-08 | 2021-10-16 |
 | [TAKE THE BLAME](https://open.spotify.com/track/6RXQ5Q933Z3kkVDKVVbBy4) | [Brevin Kim](https://open.spotify.com/artist/7lU8Gtn7moZmPqqu4oPkEh) | [PAIN MUSEUM](https://open.spotify.com/album/1XitWSLK1DrQ9pPSruVjss) | 2:42 | 2022-05-13 | 2022-07-19 |
 | [TAKEN BACK](https://open.spotify.com/track/4WOKM2f2FgbuLPiEqGSlBi) | [Allen Haley](https://open.spotify.com/artist/0A23HecVtZf5hwBgVi0uYb) | [TAKEN BACK](https://open.spotify.com/album/6mQgaTQxOJ8HRFD6kQ46qB) | 2:33 | 2022-02-23 | 2022-04-10 |

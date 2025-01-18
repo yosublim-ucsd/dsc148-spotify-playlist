@@ -4,7 +4,7 @@
 
 > 感受超級女聲力量。Cover: 泳兒
 
-438 songs - 1 day 2 hr 10 min
+439 songs - 1 day 2 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -262,6 +262,7 @@
 | [孤島 \- 劇集《旁觀者》主題曲](https://open.spotify.com/track/5gVYg7bkbQxK0aemnXBbJB) | [Jinny Ng](https://open.spotify.com/artist/03OP7wr6EAMFBmDiaRsdbf) | [孤島 \(劇集《旁觀者》主題曲\)](https://open.spotify.com/album/5dJZaBBUhpg3jZYTNax4bA) | 3:28 | 2024-06-27 |  |
 | [孤獨的戀愛家](https://open.spotify.com/track/4UuXDAnySNrnVcE7y1Xjwi) | [Kerryta](https://open.spotify.com/artist/4Ks5LLyn8jdLnD7J2JKY6s) | [孤獨的戀愛家](https://open.spotify.com/album/5ycW8WPd14X1j7uxkC9Vl4) | 3:43 | 2024-06-27 |  |
 | [安全駕駛](https://open.spotify.com/track/59Z3XOZ5qxfgjyiAvqjNev) | [Stephanie Cheng](https://open.spotify.com/artist/6qAoh45c4dsSqxNhp845SQ) | [安全駕駛](https://open.spotify.com/album/1uBaNTKO4ATifamnt6mEVa) | 3:48 | 2024-06-27 |  |
+| [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/track/0WPVn5cAsN8f3Cjuqtmyfr) | [Jaime Cheung](https://open.spotify.com/artist/0HlQqnAtrcPAXQcfdKqz5h) | [將快樂這刻蔓延 \(snap it）](https://open.spotify.com/album/70qRv1iy64ecKwEP5d32GB) | 2:53 | 2025-01-16 |  |
 | [小半生](https://open.spotify.com/track/1Pw9vrZzCGHBLHlGJJ4y9m) | [JW](https://open.spotify.com/artist/5YsDFZYpkNgiIxfDW6rXlu) | [小半生](https://open.spotify.com/album/04zcfiPky1B6WcST77FusT) | 4:12 | 2024-06-27 |  |
 | [小夜燈](https://open.spotify.com/track/3pC8cDilwplM1adGHuAun1) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [小夜燈](https://open.spotify.com/album/3XTrVWieYlnIkvPAhbJH5n) | 4:06 | 2024-06-27 |  |
 | [左手香](https://open.spotify.com/track/2PATmOyvRZGKwOoD46DQpC) | [陳葦璇](https://open.spotify.com/artist/0nA2s878rKSluSrpBTpABm) | [左手香](https://open.spotify.com/album/0d1i03fdM8bnMKQjj4PdCA) | 3:30 | 2024-06-27 |  |

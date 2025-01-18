@@ -1,12 +1,12 @@
 {
   "description": "As\u00ed suena la m\u00fasica urbana de Panam\u00e1 hoy. Foto: Sech",
-  "num_followers": 124661,
+  "num_followers": 124690,
   "original_name": "Flow Panam\u00e1",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hBbgAAAACjOLu0lzUQ6s754NdKoyWT",
+  "snapshot_id": "Z4nj7AAAAAAdX8HfQ/md8At4200KdQwl",
   "tracks": [
     {
       "added_at": "2024-06-28 04:00:00",
@@ -285,6 +285,22 @@
       "url": "https://open.spotify.com/track/1lqN4gOvA0aGccIuHUxwsS"
     },
     {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "Bolero",
+        "url": "https://open.spotify.com/album/4esjAMJrZ8UboaHvy9G3qr"
+      },
+      "artists": [
+        {
+          "name": "Kenny Man",
+          "url": "https://open.spotify.com/artist/6SGvRyZuaSuWmP6IWUKpGf"
+        }
+      ],
+      "duration_ms": 136108,
+      "name": "Bolero",
+      "url": "https://open.spotify.com/track/4Ex8xfsLh79RptPZpnQvvG"
+    },
+    {
       "added_at": "2025-01-02 04:01:38",
       "album": {
         "name": "Ex Bandida",
@@ -357,6 +373,26 @@
       "url": "https://open.spotify.com/track/1qE6wkqpuD1UClL9HvOEDd"
     },
     {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "Por Que Me Dejaste",
+        "url": "https://open.spotify.com/album/1zszgFD87E0MUdOAsCTSzD"
+      },
+      "artists": [
+        {
+          "name": "Baby Karen",
+          "url": "https://open.spotify.com/artist/3IStYJkZzqb5HbYpoKzirl"
+        },
+        {
+          "name": "Regue Records",
+          "url": "https://open.spotify.com/artist/3UmN4yVf7yktR0tFTvxPeG"
+        }
+      ],
+      "duration_ms": 209920,
+      "name": "Por Que Me Dejaste",
+      "url": "https://open.spotify.com/track/6Axtt8cR01vgBskI1iHXGs"
+    },
+    {
       "added_at": "2025-01-15 23:14:54",
       "album": {
         "name": "Lo Tengo Todo",
@@ -375,26 +411,6 @@
       "duration_ms": 209780,
       "name": "Lo Tengo Todo",
       "url": "https://open.spotify.com/track/3FYNVSbhDZEHjtVMsybgAW"
-    },
-    {
-      "added_at": "2025-01-02 04:01:38",
-      "album": {
-        "name": "Aprend\u00ed",
-        "url": "https://open.spotify.com/album/1Y8L8eYG3pzvfxNb1DFrch"
-      },
-      "artists": [
-        {
-          "name": "Elty",
-          "url": "https://open.spotify.com/artist/4dlXeMiq59ilk4DUppR5rf"
-        },
-        {
-          "name": "RBaby",
-          "url": "https://open.spotify.com/artist/2jYTYpIUgV1k3oU6jrsgsM"
-        }
-      ],
-      "duration_ms": 176337,
-      "name": "Aprend\u00ed",
-      "url": "https://open.spotify.com/track/0DnX9wUxxC9egMheWyLLpw"
     },
     {
       "added_at": "2024-02-02 05:00:00",
@@ -437,6 +453,30 @@
       "url": "https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ"
     },
     {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "OTRA VEZ",
+        "url": "https://open.spotify.com/album/2kxZtqYr6nNNdcbSSU3hvs"
+      },
+      "artists": [
+        {
+          "name": "Dacid",
+          "url": "https://open.spotify.com/artist/7djO1fr9V73noGwXaFjA7r"
+        },
+        {
+          "name": "TYE",
+          "url": "https://open.spotify.com/artist/3BWnKZnfPaAbn9oFQtYVd3"
+        },
+        {
+          "name": "Gummy Records",
+          "url": "https://open.spotify.com/artist/7ayLFimVU1UaoKOYmrzMoV"
+        }
+      ],
+      "duration_ms": 169999,
+      "name": "OTRA VEZ",
+      "url": "https://open.spotify.com/track/2RPqEf96kt2YdW2HNsP9Pc"
+    },
+    {
       "added_at": "2024-02-02 05:00:00",
       "album": {
         "name": "S\u00edgueme (Remix)",
@@ -455,26 +495,6 @@
       "duration_ms": 202546,
       "name": "S\u00edgueme - Remix",
       "url": "https://open.spotify.com/track/3pAwh9JxSJxWyUy3BUBPb4"
-    },
-    {
-      "added_at": "2025-01-02 04:01:38",
-      "album": {
-        "name": "Velita",
-        "url": "https://open.spotify.com/album/1RzO5G6FYbhTTPWz7AKm8Q"
-      },
-      "artists": [
-        {
-          "name": "Cale musik",
-          "url": "https://open.spotify.com/artist/05DT52mpMXunirP7ekViCs"
-        },
-        {
-          "name": "Sir Andy Vaney",
-          "url": "https://open.spotify.com/artist/3aHhhry4dWLCoLHAj42sJw"
-        }
-      ],
-      "duration_ms": 178285,
-      "name": "Velita",
-      "url": "https://open.spotify.com/track/3c1Ydc3Yh8vc46COAYuGh9"
     },
     {
       "added_at": "2024-07-19 06:00:00",
@@ -1139,34 +1159,6 @@
       "duration_ms": 180640,
       "name": "Temple",
       "url": "https://open.spotify.com/track/6Qqo9UEYNbfRBLzzJ7S9Nx"
-    },
-    {
-      "added_at": "2024-02-02 05:00:00",
-      "album": {
-        "name": "Otra Baby",
-        "url": "https://open.spotify.com/album/1f15Kn5Jb4sKbG8bhW5NwZ"
-      },
-      "artists": [
-        {
-          "name": "Akim",
-          "url": "https://open.spotify.com/artist/2y0XUKKpAeeGyQ5ND7dTY3"
-        },
-        {
-          "name": "Dalex",
-          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
-        },
-        {
-          "name": "Be\u00e9le",
-          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
-        },
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        }
-      ],
-      "duration_ms": 226720,
-      "name": "Otra Baby",
-      "url": "https://open.spotify.com/track/4f2nbpKWfnj7tNyL2Ihj9n"
     }
   ],
   "unique_name": "Flow Panam\u00e1",

@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 33165,
+  "num_followers": 33168,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -839,6 +839,22 @@
     {
       "added_at": "2024-11-29 09:48:23",
       "album": {
+        "name": "FRAME",
+        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
+      },
+      "artists": [
+        {
+          "name": "Han Seungwoo",
+          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
+        }
+      ],
+      "duration_ms": 184280,
+      "name": "Dive Into",
+      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
+    },
+    {
+      "added_at": "2024-11-29 09:48:23",
+      "album": {
         "name": "TAKE",
         "url": "https://open.spotify.com/album/7Eeb9AQcOZ3iM4B0HFoos6"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 213000,
       "name": "I want to (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4rkYKiXRJWCCam1gbxMyqO"
-    },
-    {
-      "added_at": "2024-11-29 09:48:23",
-      "album": {
-        "name": "FRAME",
-        "url": "https://open.spotify.com/album/5mrHp5MBbkAokYlDb41ere"
-      },
-      "artists": [
-        {
-          "name": "Han Seungwoo",
-          "url": "https://open.spotify.com/artist/2RSsuFG2pkU9sGZ85UzFgl"
-        }
-      ],
-      "duration_ms": 184280,
-      "name": "Dive Into",
-      "url": "https://open.spotify.com/track/4i5Jxokc2PUjZDF3JPdzx5"
     },
     {
       "added_at": "2024-11-29 09:48:23",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2024-11-29 09:48:23",
       "album": {
+        "name": "SUNRISE",
+        "url": "https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov"
+      },
+      "artists": [
+        {
+          "name": "Wildberry",
+          "url": "https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf"
+        },
+        {
+          "name": "EunBii",
+          "url": "https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Sunrise (Feat. EunBii)",
+      "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
+    },
+    {
+      "added_at": "2024-11-29 09:48:23",
+      "album": {
         "name": "Remained scent",
         "url": "https://open.spotify.com/album/5638w5Ob2sZRfvGT1JkmKu"
       },
@@ -1071,26 +1091,6 @@
       "duration_ms": 143315,
       "name": "At Night (feat. Kuzi)",
       "url": "https://open.spotify.com/track/64biPdxhHIxYkFy5OSydKK"
-    },
-    {
-      "added_at": "2024-11-29 09:48:23",
-      "album": {
-        "name": "SUNRISE",
-        "url": "https://open.spotify.com/album/1x7iDbE1nFvqPgTgFSz3Ov"
-      },
-      "artists": [
-        {
-          "name": "Wildberry",
-          "url": "https://open.spotify.com/artist/1YQcUhWjs1NGWi24wLDkgf"
-        },
-        {
-          "name": "EunBii",
-          "url": "https://open.spotify.com/artist/1kNV67V0x2A12uccRtB3xE"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Sunrise (Feat. EunBii)",
-      "url": "https://open.spotify.com/track/0RLqnVxt7xUw9squmxCqkN"
     }
   ],
   "unique_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",

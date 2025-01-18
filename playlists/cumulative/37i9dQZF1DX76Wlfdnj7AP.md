@@ -4,7 +4,7 @@
 
 > Get your beast mode on!
 
-1,401 songs - 3 day 3 hr 37 min
+1,402 songs - 3 day 3 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -893,7 +893,7 @@
 | [Overtime](https://open.spotify.com/track/2IoVnTEyj8NdFBpWoEFrMZ) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Overtime](https://open.spotify.com/album/7JnRw2TyqBA2qEXGZZ5Za5) | 3:23 | 2019-07-30 | 2020-10-21 |
 | [Pa Pale](https://open.spotify.com/track/4NJEVgft9GpqI4CkB1AoH1) | [Michael Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Baky](https://open.spotify.com/artist/3bIpszMh2QVDRLw1knzG5h), [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [Lokal](https://open.spotify.com/album/2tJF2pIy9E28Jv8tfYAkWn) | 2:38 | 2019-07-06 | 2019-10-23 |
 | [PA' ROMPERLA](https://open.spotify.com/track/5XqCz18k96K8tx6DAYM97i) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [LAS QUE NO IBAN A SALIR](https://open.spotify.com/album/4gvQO5mEuhbMSrLIuwXkmz) | 3:14 | 2020-05-23 | 2021-10-12 |
-| [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2023-10-02 |  |
+| [Paint The Town Red](https://open.spotify.com/track/7DlZH8EiVDgQXNoj3dnyZC) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/6DmPNcfpkXBVRJsEIJY9tl) | 3:50 | 2023-10-02 | 2025-01-18 |
 | [Panicking](https://open.spotify.com/track/61kMGJD8kvLl8uq62T6Lyn) | [Lil Haiti](https://open.spotify.com/artist/4E9dumwOMLlTyXUp1i2WdI) | [Panicking](https://open.spotify.com/album/1u5yrBqkPLP3FGqDytIxRg) | 2:42 | 2019-06-23 | 2020-02-01 |
 | [Panini \- DaBaby Remix](https://open.spotify.com/track/4SDgTLDYrJ2UrHbkRkg7MD) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Panini](https://open.spotify.com/album/71BrrQxz8mZAneNSDE9Lov) | 2:31 | 2019-09-16 | 2021-02-02 |
 | [Pants On Fire](https://open.spotify.com/track/60YB2F2svQsNesOdVAiquA) | [dEVOLVE](https://open.spotify.com/artist/6kLN4GaYwfWUe0A4cnNS6d) | [Pants On Fire](https://open.spotify.com/album/5tDdV9jF8dlSII0WGnfvdv) | 3:27 | 2019-05-28 | 2019-10-23 |
@@ -1189,6 +1189,7 @@
 | [The Business](https://open.spotify.com/track/6f3Slt0GbA2bPZlz0aIFXN) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [The Business](https://open.spotify.com/album/2adSO4KU3FDjeM1PXCRDZm) | 2:44 | 2020-11-03 | 2021-01-26 |
 | [The Business, Pt\. II](https://open.spotify.com/track/0SZPXD0uEl72YjUVY2K3E9) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq) | [The Business, Pt\. II](https://open.spotify.com/album/2E5YkarkawdVYhDaoygvih) | 2:44 | 2021-01-27 | 2022-07-29 |
 | [The Cage](https://open.spotify.com/track/6PyPvnJTfAcFm1LqLan0rF) | [DialedIN](https://open.spotify.com/artist/0IjH4bQIXzUAGqpVekBtPl), [HoodLit](https://open.spotify.com/artist/6h8URsgxylEK1jbiWgbXVb) | [The Cage](https://open.spotify.com/album/0PJeUZynag6sp7ZsiLTFjQ) | 2:49 | 2020-07-03 | 2020-09-15 |
+| [The Days \- NOTION Remix](https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8) | [Chrystal](https://open.spotify.com/artist/5bQ3wFgekuIMIcWJuxkqLK), [NOTION](https://open.spotify.com/artist/1uRVM0wBdtyEuU582EeKJM) | [The Days \(NOTION Remix\)](https://open.spotify.com/album/15gT6ikjvzrlIxQ5eTpqLJ) | 3:53 | 2025-01-17 |  |
 | [The Drill](https://open.spotify.com/track/0cZGbSrqRJ9BQF0wduo4qJ) | [Magnificence](https://open.spotify.com/artist/5zfDGV6C2Xwns1g773GF3N), [7 Skies](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5) | [The Drill](https://open.spotify.com/album/4v3KlMhRBVPafxjTsGihqf) | 2:25 | 2019-11-14 | 2020-05-30 |
 | [The Drop](https://open.spotify.com/track/51hSi1p7g2KdXg7fJA1Hgp) | [Bro Safari](https://open.spotify.com/artist/6d9SnuHI2bRer7c76d8sLq) | [The Drop EP](https://open.spotify.com/album/2HbsPbdhF3TfA34vn9q7Wg) | 3:49 | 2019-07-07 | 2019-08-13 |
 | [The Drop](https://open.spotify.com/track/013PVeWEFQio3XHFH9rIC6) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Nicole Scherzinger](https://open.spotify.com/artist/40xbWSB4JPdOkRyuTDy1oP), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [The Drop](https://open.spotify.com/album/3R69AWht6e2vZq7Cg3XGPH) | 2:01 | 2022-07-15 | 2023-10-28 |

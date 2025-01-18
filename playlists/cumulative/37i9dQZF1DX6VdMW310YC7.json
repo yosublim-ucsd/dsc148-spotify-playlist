@@ -5447,6 +5447,28 @@
     },
     {
       "album": {
+        "name": "Colder",
+        "url": "https://open.spotify.com/album/18gH3dJGcBPiPnwmtRHNLV"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Moyka",
+          "url": "https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176250,
+      "name": "Colder",
+      "url": "https://open.spotify.com/track/3VrTveHXhlLGHtnSK1riuT"
+    },
+    {
+      "album": {
         "name": "10 Years From Now / Collide",
         "url": "https://open.spotify.com/album/3QiV7hRMnpXoGHiFLHr8x5"
       },
@@ -17498,7 +17520,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 206017,
       "name": "LIFELINE",
       "url": "https://open.spotify.com/track/1DgDLr9M24s6EDdySEsQkh"
@@ -18398,7 +18420,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 182444,
       "name": "Lost In The Melody",
       "url": "https://open.spotify.com/track/5YEYbqDTxFBuwEVVGRQCwz"
@@ -24232,7 +24254,7 @@
       ],
       "date_added": "2024-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 195250,
       "name": "Prism",
       "url": "https://open.spotify.com/track/4Mab2bqF9kXQwvKcoJRPbz"
@@ -30686,7 +30708,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 262008,
       "name": "The Thought of You",
       "url": "https://open.spotify.com/track/2KbMdgWDWQSHPd9wRMV8ka"
@@ -31903,6 +31925,28 @@
     },
     {
       "album": {
+        "name": "Tug Of War",
+        "url": "https://open.spotify.com/album/6Zl0xR6Vek5PTxDJJ6WnwU"
+      },
+      "artists": [
+        {
+          "name": "Massane",
+          "url": "https://open.spotify.com/artist/0cjvrTtv350Ls87eGY80iz"
+        },
+        {
+          "name": "LeyeT",
+          "url": "https://open.spotify.com/artist/1qo3qvulyeKNNWjFCPXwwb"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264836,
+      "name": "Tug Of War",
+      "url": "https://open.spotify.com/track/74DwvNKN1OCl9vvHgTP7AV"
+    },
+    {
+      "album": {
         "name": "Turning Away (Parra for Cuva Remix)",
         "url": "https://open.spotify.com/album/1lIxiDKxX65zzDz9J1UVVs"
       },
@@ -33024,6 +33068,28 @@
       "duration_ms": 184509,
       "name": "Way Back Home",
       "url": "https://open.spotify.com/track/5ORJq9RvKIVGf1pVWWTUB7"
+    },
+    {
+      "album": {
+        "name": "We Are Always Under The Same Sky",
+        "url": "https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ"
+      },
+      "artists": [
+        {
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+        },
+        {
+          "name": "Josie Man",
+          "url": "https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249479,
+      "name": "Wayside",
+      "url": "https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld"
     },
     {
       "album": {
@@ -34420,6 +34486,24 @@
       "duration_ms": 165600,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/0Ll26jZ8wzvUxaWdQlqIko"
+    },
+    {
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/05pQbTZE59ptAsv1hNtsTd"
+      },
+      "artists": [
+        {
+          "name": "Mondingo",
+          "url": "https://open.spotify.com/artist/11g4H9gRvProNpOglq4APV"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215983,
+      "name": "You",
+      "url": "https://open.spotify.com/track/4UUA57IJP5b5N2lJEOJD3g"
     },
     {
       "album": {

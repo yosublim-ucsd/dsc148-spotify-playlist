@@ -4,7 +4,7 @@
 
 > Way 2 Slizzy\. Cover: Wolfacejoeyy, Cash Cobain and Chow Lee
 
-84 songs - 3 hr 56 min
+85 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,7 +50,7 @@
 | [Jodeci \(Remix\) \[with Vontee the Singer & Cash Cobain\]](https://open.spotify.com/track/0FJs8qeAmoEwmZ6ofaBYrx) | [Connie Diiamond](https://open.spotify.com/artist/0XJA8RpM6VgQeIYzjnP8wK), [Vontee the Singer](https://open.spotify.com/artist/0f2wqzUtXEyqDUHwLxc57a), [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Jodeci \(Remix\)](https://open.spotify.com/album/1kyI3Ci7WNgngBwjffXBFE) | 3:30 | 2024-12-13 |  |
 | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/track/5Nt2FMqnKI2mlp7lztURNo) | [Jordan Adetunji](https://open.spotify.com/artist/0jPHHnU8GUWEF7rwPE9osY), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [KEHLANI \(REMIX\) \[feat\. Kehlani\]](https://open.spotify.com/album/3nvHqMFKLvVafOzbR6dANQ) | 2:59 | 2024-10-25 |  |
 | [Lifted](https://open.spotify.com/track/0zMzOp7GY9yBrTFB8ZKtpK) | [NLE Choppa](https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ), [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI) | [PICASSO: SLUFFIN SZN X SLUT SZN](https://open.spotify.com/album/5XKf4jhGXPuxuUcv32bxe8) | 3:50 | 2024-12-26 |  |
-| [Like This \(Remix\) \[feat\. Bay Swag and wolfacejoeyy\]](https://open.spotify.com/track/09VSVEnGU1QDktP3WBRQRF) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [2 Sides of the Story \(Deluxe\)](https://open.spotify.com/album/4448e2jWEMcHjOQJKQk2u9) | 3:10 | 2024-12-13 |  |
+| [Like This \(Remix\) \[feat\. Bay Swag and wolfacejoeyy\]](https://open.spotify.com/track/09VSVEnGU1QDktP3WBRQRF) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [2 Sides of the Story \(Deluxe\)](https://open.spotify.com/album/4448e2jWEMcHjOQJKQk2u9) | 3:10 | 2024-12-13 | 2025-01-18 |
 | [Loopy](https://open.spotify.com/track/1FQ4gFzY4SAsvVtqqzBcOW) | [Jay Critch](https://open.spotify.com/artist/6Av6GMCOznZIlHuNcBWgf4) | [Loopy](https://open.spotify.com/album/6HzhPQQ81iZ8wMLhmDBjGS) | 2:21 | 2024-10-25 |  |
 | [MADE4ME](https://open.spotify.com/track/5kSWLljjrkAdtUsuKbYUwS) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [MADE4ME](https://open.spotify.com/album/0BlWxkm0UGzwkLfdI7LvGT) | 1:37 | 2024-10-25 |  |
 | [Make It](https://open.spotify.com/track/5Kruw5nxEp8kP9PSENCs2j) | [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Make It](https://open.spotify.com/album/2ALakB56cdxPOLT3jByPcn) | 3:00 | 2024-11-22 | 2024-11-30 |
@@ -68,6 +68,7 @@
 | [Pray 4 Us](https://open.spotify.com/track/09NJWVz1VAUrLFX6pkWxbd) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax) | [Saint Michael](https://open.spotify.com/album/3hfXFibd09Z5FjzkVir5lw) | 2:59 | 2024-10-25 |  |
 | [Private Room](https://open.spotify.com/track/35qWJOaWkfaGLuY9Ngn6VV) | [J.P.](https://open.spotify.com/artist/6ygDlIilHZqielxxkvmIVH) | [Coming Out Party](https://open.spotify.com/album/5vdKOSZqhHsEf9HEMqWidz) | 2:33 | 2024-10-25 | 2024-11-14 |
 | [problem](https://open.spotify.com/track/62DOQC3exqebSVLWyN2mWa) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1), [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [PLAY CASH COBAIN](https://open.spotify.com/album/1nMDe5h9FEfmCSm6nwA66s) | 7:39 | 2024-10-25 |  |
+| [PROGRESSION](https://open.spotify.com/track/5gPOvRTZlGvva5RkZIGIuO) | [R2R MOE](https://open.spotify.com/artist/6wNPY2m52IiyyVZXR339D9) | [PROGRESSION](https://open.spotify.com/album/1yIUDCF985oPjob0CBcSeZ) | 2:34 | 2025-01-17 |  |
 | [RENZ&B](https://open.spotify.com/track/2bcQBG9OI7etCWLNPJdHzB) | [Renz](https://open.spotify.com/artist/41CSndbOU6r05kajQCO9b1) | [RENZ&B](https://open.spotify.com/album/7Hg6cdprOXcTZff5gVpJ5H) | 2:00 | 2024-10-25 |  |
 | [Rump Punch](https://open.spotify.com/track/2jqISPQZfkZbcbQiVbUUAO) | [Cash Cobain](https://open.spotify.com/artist/2R0CFyeMDiRbfkhkIMbyl1) | [Rump Punch](https://open.spotify.com/album/7oDtnVBRHE48kEcQp1AvVe) | 2:03 | 2024-10-25 |  |
 | [settings!](https://open.spotify.com/track/3TDZRV8TdWySueKV3UX3j2) | [Chow Lee](https://open.spotify.com/artist/3yQMCDmPQPJlf6xJMzcnZL) | [SEX DRIVE](https://open.spotify.com/album/5cAEY0anGcXg5bneAMAKXh) | 2:35 | 2024-10-25 |  |

@@ -184,7 +184,7 @@
       ],
       "date_added": "2024-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 220640,
       "name": "2 AM",
       "url": "https://open.spotify.com/track/06nXt6ESO6FzbvD5QQ1Eqj"
@@ -366,6 +366,28 @@
       "duration_ms": 253072,
       "name": "All for You",
       "url": "https://open.spotify.com/track/1aHiADbmDJi1ukmZghtvIn"
+    },
+    {
+      "album": {
+        "name": "All I Need",
+        "url": "https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng"
+      },
+      "artists": [
+        {
+          "name": "Maribou State",
+          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
+        },
+        {
+          "name": "Andreya Triana",
+          "url": "https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227934,
+      "name": "All I Need",
+      "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
     },
     {
       "album": {
@@ -4410,7 +4432,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 181921,
       "name": "It Feels Much Better",
       "url": "https://open.spotify.com/track/1GsEyWzxbT2rz8tpDgm0h6"
@@ -4699,6 +4721,24 @@
     },
     {
       "album": {
+        "name": "Keep Me Satisfied",
+        "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145663,
+      "name": "Keep Me Satisfied",
+      "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
+    },
+    {
+      "album": {
         "name": "Keep On Moving (All Night Long)",
         "url": "https://open.spotify.com/album/6c4XaRbkTQdtgrOikQ5w5j"
       },
@@ -4714,7 +4754,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 164510,
       "name": "Keep On Moving (All Night Long)",
       "url": "https://open.spotify.com/track/35G2b6JZTfvSE7RxVCyM1s"
@@ -5418,7 +5458,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 247446,
       "name": "Love is so Unreal",
       "url": "https://open.spotify.com/track/6way0VicE5Og0xQDtKG5tl"
@@ -5520,7 +5560,7 @@
       ],
       "date_added": "2023-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 194594,
       "name": "Loving You",
       "url": "https://open.spotify.com/track/5m5THqRa6jHwKYLMWp2DEW"
@@ -8754,6 +8794,24 @@
       "duration_ms": 227309,
       "name": "Sunshine Blue Skies",
       "url": "https://open.spotify.com/track/0TbmhSoWUBpaDMsjiJNWKC"
+    },
+    {
+      "album": {
+        "name": "Sunshine in my Pocket (Sunset Version)",
+        "url": "https://open.spotify.com/album/1Wohg2GaliDz66oOB3G6sG"
+      },
+      "artists": [
+        {
+          "name": "Parallelle",
+          "url": "https://open.spotify.com/artist/4j2NOrZwtpyVrtrCXsKsag"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165535,
+      "name": "Sunshine in my Pocket - Sunset Version",
+      "url": "https://open.spotify.com/track/4OkbaLuOTGAwQ4sybiBcve"
     },
     {
       "album": {

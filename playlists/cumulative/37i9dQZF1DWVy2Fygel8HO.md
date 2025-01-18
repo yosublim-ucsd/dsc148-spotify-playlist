@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-151 songs - 6 hr 16 min
+154 songs - 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -45,6 +45,7 @@
 | [Dreams of Us](https://open.spotify.com/track/6I1qp1q6iTtOCNUXfziWpn) | [William Cas](https://open.spotify.com/artist/0HT4Y9hhNdkrCEE2tKokzO) | [Dreams of Us](https://open.spotify.com/album/3JX3J9PAtEMfo7RtFork94) | 2:25 | 2023-05-09 |  |
 | [Drøm](https://open.spotify.com/track/2wD4uaLNl9DZrBmRC87a3W) | [Tankeflukt](https://open.spotify.com/artist/5AlAiT9n6MGUG2Lron7jB1) | [Drøm](https://open.spotify.com/album/2KOmdQ7vwCdf8An8sKO7ex) | 1:49 | 2023-05-09 |  |
 | [Dwell in Possibility](https://open.spotify.com/track/0ZFdTxzFR0RRN1TifSPAxm) | [Gina Ordonieva](https://open.spotify.com/artist/3MMGcm0uz164HFTE1Dp5Jh) | [Dwell in Possibility](https://open.spotify.com/album/3PT6wXsxMWdWcEIJUjqdoD) | 2:12 | 2023-05-09 |  |
+| [Echoes in the Rain](https://open.spotify.com/track/4SHc8k6K4KEviFqdI7VoHU) | [Elion Headford](https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0) | [Echoes in the Rain](https://open.spotify.com/album/0NVJMgNWPnUFPKOQBlYUPg) | 2:26 | 2025-01-17 |  |
 | [Ecru](https://open.spotify.com/track/1EvgGClIT8lWfBI77ZU6xK) | [Kristian Hart](https://open.spotify.com/artist/22SCUKjW2tk0xN50keUwjD) | [Ecru](https://open.spotify.com/album/1mLEQBy5wZefMZiSNp14hL) | 1:58 | 2024-08-23 |  |
 | [Ellie](https://open.spotify.com/track/4QfPxrgEAfWt0DEjrR1CXw) | [Aeyes Libe](https://open.spotify.com/artist/2PUFZI4SN9XsFMf0i7qEwv) | [Ellie](https://open.spotify.com/album/5v7bkrqDm8YY8kWWgRQ7cw) | 2:58 | 2023-10-04 |  |
 | [Elma I](https://open.spotify.com/track/3KCsumTTBnPJKkbDWWzFm2) | [Miguel Pérez](https://open.spotify.com/artist/5DG18ntYAeW551JGpRosX8) | [Elma I](https://open.spotify.com/album/6lPWV8gSxaUxBoGdOctL1A) | 2:30 | 2023-05-09 |  |
@@ -58,6 +59,7 @@
 | [For Peace](https://open.spotify.com/track/1FiGodE7QpV6yXRtDGSuKO) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [For Peace](https://open.spotify.com/album/3eKtNhAo1QB2slYY1A6P85) | 2:16 | 2023-05-09 |  |
 | [frozen kiss](https://open.spotify.com/track/6R1H9Z89KDuRtt8h9PvKeu) | [everall](https://open.spotify.com/artist/7uw5yIgAwkGoEdbziOAmiX) | [frozen kiss & imperfect love](https://open.spotify.com/album/1ec1G9tjJMC8GjBQMtge5N) | 2:41 | 2024-07-16 |  |
 | [Glance Out A Casement Window](https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J) | [Janet Redger](https://open.spotify.com/artist/7303TPICVC0WJvWy0FVstL) | [Glance Out A Casement Window](https://open.spotify.com/album/5fULKKtZk4on3DgNMD2Q4L) | 2:10 | 2023-05-09 |  |
+| [Glass Maze](https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu) | [Friedrich Hahn](https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C) | [Glass Maze](https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS) | 3:51 | 2025-01-17 |  |
 | [Golden Hour](https://open.spotify.com/track/2Df6FcpcajZ02DNjHHEi1Y) | [Odette Montano](https://open.spotify.com/artist/3J2sqtWaUCFmoVhS2ibEXC) | [Golden Hour](https://open.spotify.com/album/4quXwctlEiPi3tGCuIKx4p) | 3:31 | 2024-09-30 |  |
 | [Gravity](https://open.spotify.com/track/5rWsceGlMA0FD647lhEVEX) | [Ole\-Bjørn Talstad](https://open.spotify.com/artist/1RRY8KBuZYuhAAJRgdDlP9) | [Gravity](https://open.spotify.com/album/48f225tKoJvjJOu6HDpzmb) | 2:15 | 2024-10-21 |  |
 | [Hana, My Love](https://open.spotify.com/track/4OI6jrwpj1xkejfp6R5uj2) | [Spencer Zahn](https://open.spotify.com/artist/7Besl9VdibJqiIjJ40fphx) | [Pale Horizon](https://open.spotify.com/album/4GbaledvjJ39zGpUtwB3pT) | 2:24 | 2023-05-09 |  |
@@ -146,6 +148,7 @@
 | [Twilights](https://open.spotify.com/track/10qZCmeusg6BbdHDTMADpr) | [Mirta da Silva](https://open.spotify.com/artist/0lQPyV27qv4l2vBbFJsImj) | [Twilights](https://open.spotify.com/album/5gjIbZAtznmk77DLADIGFY) | 2:17 | 2023-05-09 |  |
 | [Un sourire et une larme \(valse\)](https://open.spotify.com/track/70pC9IQb39VDNUm3Uio5kD) | [Tom Kristiaan](https://open.spotify.com/artist/1ZU9WJfipgna3ANBoomXYk) | [Petites danses et rêveries](https://open.spotify.com/album/0sHbXMgCDveBs71HiIJulB) | 2:26 | 2023-05-09 |  |
 | [Una Flor](https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd) | [Pelagia Calisto](https://open.spotify.com/artist/51V1l6ATUknZWvH8YdRkVv) | [Una Flor](https://open.spotify.com/album/2RXROsgEvnUi8nZdmGhIfJ) | 1:49 | 2023-05-09 |  |
+| [Until We Meet Again](https://open.spotify.com/track/3FnodjeI8yW2WgbasYVgnP) | [Nascondiglio](https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK) | [Until We Meet Again](https://open.spotify.com/album/6H5ndDLpcwgYXnEegDh9ye) | 2:35 | 2025-01-17 |  |
 | [Valse pour Johann](https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC) | [Fjellson Weber](https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2) | [Valse pour Johann](https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd) | 2:25 | 2023-05-09 |  |
 | [Vicino a te](https://open.spotify.com/track/0jyMAqJwPO3ov7Mo3vHAbb) | [Maura Bellucci](https://open.spotify.com/artist/7EJf6TnQIBHlzkCmMx6oFW) | [Vicino a te](https://open.spotify.com/album/4ytOeb0tk33w4DlIP2P4SC) | 2:26 | 2023-05-09 |  |
 | [vierde moment](https://open.spotify.com/track/1IqWZERE8ZOVtgE3fmekFv) | [antinode](https://open.spotify.com/artist/5kGK1D4L7GJKyvVxtV8YR3) | [Midnight Improvisations // Momenten](https://open.spotify.com/album/0wVbGonjdCw4QHcJ4HnRRM) | 3:21 | 2023-05-09 | 2024-04-19 |

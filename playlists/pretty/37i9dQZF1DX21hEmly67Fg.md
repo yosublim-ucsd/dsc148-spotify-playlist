@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 
 > Chill to these laid\-back classical covers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 230,309 likes - 135 songs - 6 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 230,539 likes - 135 songs - 6 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX21hEmly67Fg.md) - [plain]
 | 15 | [More Than A Feeling \- Guitar Version](https://open.spotify.com/track/1vUA2IyTkmXcI9rfdS9kvW) | [Purple Lions](https://open.spotify.com/artist/5e6l2ue9kA8MNkch1M8OYn) | [More Than A Feeling \(Guitar Version\)](https://open.spotify.com/album/4vyP5IdLb333rig61yVuFg) | 3:51 |
 | 16 | [Unholy](https://open.spotify.com/track/0Ug2sprcGoWHbQYzvTA1ry) | [Davide Ambrosia](https://open.spotify.com/artist/7Jd8IfE12z0jbepgMaVpXl) | [Unholy](https://open.spotify.com/album/0Tvoo673A3bqsAnXkcPRma) | 2:36 |
 | 17 | [SNAP](https://open.spotify.com/track/5uMWSeFHIac38xwDJ1oCKo) | [Hampus Bjorklund](https://open.spotify.com/artist/4oAJ4PcUscttZvT2beypMS) | [SNAP](https://open.spotify.com/album/4dSyrbOTZRv2TWRL8xpUux) | 3:10 |
-| 18 | [Mr Brightside \- Cover](https://open.spotify.com/track/2Zvx48hDcNviwOwvzuh1sb) | [The Enneagrams](https://open.spotify.com/artist/6hSPm8hejwOjSWxFT1BCHJ) | [Mr Brightside \(Cover\)](https://open.spotify.com/album/1eBmSEvhldtMxylXTwgXxy) | 2:41 |
+| 18 | [Mr\. Brightside](https://open.spotify.com/track/2Zvx48hDcNviwOwvzuh1sb) | [The Enneagrams](https://open.spotify.com/artist/6hSPm8hejwOjSWxFT1BCHJ) | [Mr\. Brightside](https://open.spotify.com/album/1eBmSEvhldtMxylXTwgXxy) | 2:41 |
 | 19 | [Until I Found You](https://open.spotify.com/track/5SAK6BC92F7POlKKO5gDLA) | [Davide Ambrosia](https://open.spotify.com/artist/7Jd8IfE12z0jbepgMaVpXl) | [Until I Found You](https://open.spotify.com/album/4eaBzs8PLXM6xde6VnnHwr) | 2:35 |
 | 20 | [If You Leave Me Now](https://open.spotify.com/track/2br0u2rXPYBPl2LxghWaI5) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [If You Leave Me Now](https://open.spotify.com/album/2SOzSum0avhI6D4Gh4dtg1) | 2:44 |
 | 21 | [Forget Me](https://open.spotify.com/track/79yGCs4eXnpvbdHLw9N0If) | [Romans Veiss](https://open.spotify.com/artist/6a1NBji7Ei3pEtuNnF8Vgp) | [Forget Me](https://open.spotify.com/album/3CLGONlXt6PiHwUxbVQtDg) | 2:16 |

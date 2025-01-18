@@ -529,6 +529,32 @@
     },
     {
       "album": {
+        "name": "Believer (Electro Swing Version)",
+        "url": "https://open.spotify.com/album/7hGyjOKjq1UVe4rVz3W3LW"
+      },
+      "artists": [
+        {
+          "name": "Pisk",
+          "url": "https://open.spotify.com/artist/2c2wuveILva0R8OYac7lwc"
+        },
+        {
+          "name": "Simona Molinari",
+          "url": "https://open.spotify.com/artist/5d5jafxHTP33OEUupZCxJq"
+        },
+        {
+          "name": "Four On Six Band",
+          "url": "https://open.spotify.com/artist/2jYXVygeBfAVpwTekUz70T"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207270,
+      "name": "Believer - Electro Swing Version",
+      "url": "https://open.spotify.com/track/1e8diwtB6TyGmoL3Y1LHlx"
+    },
+    {
+      "album": {
         "name": "Big Bad Wolf",
         "url": "https://open.spotify.com/album/3aXhjfpVZAjBKJsvZNqtt0"
       },
@@ -1350,6 +1376,32 @@
       "duration_ms": 148278,
       "name": "Dance (To Save Your Soul) - Electro Swing Radio Mix",
       "url": "https://open.spotify.com/track/3pXQOgmtcy2AVysJuXKsxP"
+    },
+    {
+      "album": {
+        "name": "Dance Like Nobodys Watching",
+        "url": "https://open.spotify.com/album/2enGzdX4BOUaRlsmTSpXgu"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Lohr",
+          "url": "https://open.spotify.com/artist/5GImm0oU5MkW7OHkb91jwu"
+        },
+        {
+          "name": "Emma Lea",
+          "url": "https://open.spotify.com/artist/6DmqHeHxcu5cQicAfz7aDJ"
+        },
+        {
+          "name": "Offbeat",
+          "url": "https://open.spotify.com/artist/1Vuw7wuxpiK5W9pzGL86X8"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176389,
+      "name": "Dance Like Nobodys Watching",
+      "url": "https://open.spotify.com/track/7ySqtlC5b9uutdCXB1JhI4"
     },
     {
       "album": {
@@ -4080,7 +4132,7 @@
       ],
       "date_added": "2022-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 202000,
       "name": "Magic Man",
       "url": "https://open.spotify.com/track/0hPLh77jQo9DFNVP2YPKUD"
@@ -5464,7 +5516,7 @@
       ],
       "date_added": "2020-10-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 193809,
       "name": "Say What - Pisk Electro Swing Remix",
       "url": "https://open.spotify.com/track/5CoMPmAsnk95FviCoqPFAk"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 
 > I'm odetari and this is my gaming playlist featuring tracks from myself, Saraunh0ly, 2hollis and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,057 likes - 33 songs - 1 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,153 likes - 33 songs - 1 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1xEPBKyoFUz.md) - [plain]
 | 14 | [Evergreen](https://open.spotify.com/track/1FeUpzRAClFQVLDiPKd7Hs) | [leverfall](https://open.spotify.com/artist/1YADFycnliZ7F34FA9eE18) | [Evergreen](https://open.spotify.com/album/1ehAsc4xXqngxZUsKvVLVM) | 1:50 |
 | 15 | [did i tell u that i miss u](https://open.spotify.com/track/3qeFjtPJ1lIRKDTB5DZWpt) | [adore](https://open.spotify.com/artist/7ofG5BaSiQp8WeL4YCYDhF) | [did i tell u that i miss u](https://open.spotify.com/album/5mw5lqpHiII2dtNFjWfKTd) | 1:55 |
 | 16 | [south](https://open.spotify.com/track/286uu9vYV996c1DBX7tvcj) | [jaydes](https://open.spotify.com/artist/5zI4LODdVYwnKZHv4mDHRv) | [south](https://open.spotify.com/album/2yyjLFg1O8GMv65O1068hU) | 1:44 |
-| 17 | [NUNCA HACER COCAINA](https://open.spotify.com/track/3F5PZqTMc9N2nreVOZil3s) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Sayso Says](https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU) | 2:04 |
+| 17 | [NUNCA HACER COCAINA](https://open.spotify.com/track/3F5PZqTMc9N2nreVOZil3s) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Sayso Says](https://open.spotify.com/album/47geWD2PbTuFY3z1CNsEDU) | 2:04 |
 | 18 | [RIZZ](https://open.spotify.com/track/3DqOJ2BoddzZpNdty3okJH) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [RIZZ](https://open.spotify.com/album/6uH0vo25qVqNveP02Pr4Uc) | 3:20 |
 | 19 | [play pretend](https://open.spotify.com/track/2qqc9tXKiSBrYDviqD18V9) | [Cybertrash](https://open.spotify.com/artist/6qKNO74t6cNcytBKSunEcW) | [play pretend](https://open.spotify.com/album/2zHnxbgJR8TW6SFRGFrZoz) | 1:57 |
 | 20 | [scars](https://open.spotify.com/track/0c683aCGn2mXMU1I9Js449) | [Novulent](https://open.spotify.com/artist/2Q0rAyTIfdTUwDt8jpEpv0) | [VOL\. 1](https://open.spotify.com/album/3R0aymNlz4UIHimcaw0T0i) | 1:35 |

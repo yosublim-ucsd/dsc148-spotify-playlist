@@ -2,9 +2,9 @@
 
 ### [Rap québ](https://open.spotify.com/playlist/37i9dQZF1DWTZeTXqKTge4)
 
-> Le meilleur du hip\-hop québécois\. Photo: Rymz
+> Le meilleur du hip\-hop québécois\. Photo: MB
 
-767 songs - 1 day 15 hr 10 min
+769 songs - 1 day 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -365,7 +365,7 @@
 | [Je me souviens](https://open.spotify.com/track/1YDOT9IYoh3LiPpUZeXU7s) | [Samian](https://open.spotify.com/artist/4R9opfaSnt6ApDaiJb3zw6) | [Je me souviens](https://open.spotify.com/album/1Rad7yTz1sxAydB0dw8iso) | 3:09 | 2022-03-11 | 2022-08-27 |
 | [Je sais](https://open.spotify.com/track/46LFXSN7WJyhBMf5JlfF1D) | [D\-Track](https://open.spotify.com/artist/6iCGxocdnrQ3pxNN1drzNu), [Mindflip](https://open.spotify.com/artist/1EH4lsraLQb7WNDW5h4sKi) | [Je sais](https://open.spotify.com/album/2wCV8VjaKhfEFR7g3fE4p6) | 3:47 | 2023-06-16 | 2024-01-20 |
 | [Je sais tu veux quoi](https://open.spotify.com/track/2HXUTvWk5wsYIqnAgXNnOG) | [MB](https://open.spotify.com/artist/2v1aABncTZrtkXA84ZqtyU), [Capitaine Gaza](https://open.spotify.com/artist/3MHoGWYHorYV0tblzQ1Nzj), [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Je sais tu veux quoi](https://open.spotify.com/album/7ivf5INurlB5n3b6FsSSnM) | 3:37 | 2022-01-07 | 2022-04-19 |
-| [Je suis Lui](https://open.spotify.com/track/29FkN0B3K17qtzYEOnhyW3) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Sous Pression](https://open.spotify.com/album/4Wqm3skMPygg27BNMtNEDw) | 2:03 | 2023-07-07 |  |
+| [Je suis Lui](https://open.spotify.com/track/29FkN0B3K17qtzYEOnhyW3) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Sous Pression](https://open.spotify.com/album/4Wqm3skMPygg27BNMtNEDw) | 2:03 | 2023-07-07 | 2025-01-18 |
 | [Jelly](https://open.spotify.com/track/0VVfam9xsR7Em7CWoYECr6) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Jelly](https://open.spotify.com/album/2aP0DI7powMQM4PO5nFrfd) | 2:16 | 2023-08-18 | 2023-10-14 |
 | [Jeune Fiori](https://open.spotify.com/track/3ltsp56ST2mxh0xuCg1UsI) | [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf), [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Aequanimitas](https://open.spotify.com/album/49c4wopLmVaZHHG2Wr0WKh) | 1:56 | 2024-12-04 | 2025-01-11 |
 | [Jeune Fiori](https://open.spotify.com/track/3g7ezTi7UhygHwHZ3UQgUN) | [DJ White Socks](https://open.spotify.com/artist/0j0eSYnIP4NmdBRRMRvdUf), [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Jeune Fiori](https://open.spotify.com/album/5f0ykgertWsuRDny9E2az2) | 1:58 | 2024-05-10 |  |
@@ -422,6 +422,7 @@
 | [Locked up](https://open.spotify.com/track/08dFKPYV0QkzFoj45A9NnI) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Locked up](https://open.spotify.com/album/1opUtD58ydqprBjhlvc8NT) | 2:59 | 2024-11-01 |  |
 | [Locked Up](https://open.spotify.com/track/3ftGuXapLDXSxQvf3o6751) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Locked Up](https://open.spotify.com/album/5Q57aL7ma8akgKMCbBjkzD) | 2:35 | 2024-11-29 |  |
 | [London en Maybach](https://open.spotify.com/track/6mOFltMTVmyPPM6tPb3FWK) | [Rowjay](https://open.spotify.com/artist/5qMf7CFNNQi7gb1WQb74Pc), [Mister V](https://open.spotify.com/artist/5qisLjDrKoHMI9zOK2hfzs) | [Carnaval de Finesse 2 : Les Chroniques d'un Jeune Entrepreneur](https://open.spotify.com/album/6XHp29DWqSqCS2UIZislPO) | 3:00 | 2022-01-07 | 2022-02-05 |
+| [Look at me now](https://open.spotify.com/track/0ERZkZtxcQu9yhGb5L4Zom) | [Caballero & JeanJass](https://open.spotify.com/artist/1mMUzAMrNqoTHgtxA0dZi6), [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT) | [Look at me now](https://open.spotify.com/album/1d7MGEbQ8eJOiMi9xBXUWh) | 2:48 | 2025-01-17 |  |
 | [Love d'un voyou](https://open.spotify.com/track/5AxnOc77Zl6gA4UQWqhFVA) | [Mody](https://open.spotify.com/artist/6dkxSINLJmaCC2uxuM61ds) | [Love d'un voyou](https://open.spotify.com/album/6ehJBKCLlIMQrBpT6hwbP9) | 2:44 | 2022-09-30 | 2023-07-01 |
 | [Loyal](https://open.spotify.com/track/545IggvcFgJ9hBYWdVYVdZ) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV), [Lebza Khey](https://open.spotify.com/artist/6oW3oCa9th1gUBNkI1LnGA) | [Mourir en Essayant](https://open.spotify.com/album/14SrZvsojiHw4cod9OPXOu) | 2:36 | 2022-03-11 | 2022-04-16 |
 | [Loyauté](https://open.spotify.com/track/69T9LCG5yBYd9WeRBsdMwR) | [Zach Scott](https://open.spotify.com/artist/0x1BXAAWrf873stnf7Iszw), [MikeZup](https://open.spotify.com/artist/3kmw1yvcUhvPD3pDz8hOVk) | [Loyauté](https://open.spotify.com/album/2cmNwVH9VNp3mggrrmCEiJ) | 3:09 | 2024-07-19 | 2024-11-30 |
@@ -558,13 +559,14 @@
 | [Peurple](https://open.spotify.com/track/6Ninewf6AmuyOstLCftPu0) | [Julaï](https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn) | [Peurple](https://open.spotify.com/album/6aVhBM0CjXfUeVpf7erNqA) | 2:16 | 2022-04-22 | 2022-08-27 |
 | [Pickup](https://open.spotify.com/track/6KG4QjMExxShMAlozINvae) | [Lova](https://open.spotify.com/artist/3AaQmXxkr6SJLELOEIeSh2) | [Pickup](https://open.spotify.com/album/17SQM0VornpdLSuuc4FgEY) | 2:14 | 2024-10-11 | 2024-10-26 |
 | [Pickup](https://open.spotify.com/track/3QR5mPpzBG26S4Uqe6XZi7) | [Sly Cooper](https://open.spotify.com/artist/2chxHFLwg84ucaOUKKQ1Bk), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Pickup](https://open.spotify.com/album/0o9ydVRqFkEwZS4F28SGFc) | 3:40 | 2022-05-06 | 2022-12-03 |
+| [Pink Sh!t](https://open.spotify.com/track/0KCBDYjTojNCYIsMakWkQz) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Pink Sh!t](https://open.spotify.com/album/0OZc0klySsvKeGWjlqDiDe) | 2:24 | 2025-01-17 |  |
 | [Piège Rock Alternatif](https://open.spotify.com/track/6AASCclUSMqIM5hhLuS7nj) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Piège Rock Alternatif](https://open.spotify.com/album/3OXD6B8JLON63qRHf0xEhg) | 2:41 | 2022-05-20 | 2022-06-11 |
 | [Planer](https://open.spotify.com/track/1hlXA96A3AyXX8UT0OK7I5) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Planer](https://open.spotify.com/album/4b6ns1QBr9YtTEmjyn7HHK) | 2:55 | 2023-07-14 | 2024-04-27 |
 | [Plata](https://open.spotify.com/track/2S4GE0dXH8F0G4HZwviRSQ) | [Gnino](https://open.spotify.com/artist/03sPkUqjLbCXdxu3e46T3H) | [400](https://open.spotify.com/album/1QLh17mGCqestAzRo8VcC0) | 2:57 | 2022-10-14 | 2023-03-11 |
 | [Plein d'adresses](https://open.spotify.com/track/0JDUmGFPfeNE3bgev0iZCc) | [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp), [Le Ice](https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI), [Salgrimo](https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE) | [Plein d'adresses](https://open.spotify.com/album/5COClDxF8SwIZUVlg1wQf3) | 4:06 | 2024-03-01 | 2024-03-30 |
 | [Polygone](https://open.spotify.com/track/6HZgqXad50xSCbAvpzzrfH) | [Nikki\-B](https://open.spotify.com/artist/0W4nncV2qo2VMYhhx1GBA0), [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Polygone](https://open.spotify.com/album/7rRouNve7pkhxSWiTStvJs) | 3:29 | 2022-09-16 | 2022-11-26 |
 | [Pont Champlain](https://open.spotify.com/track/2Gqd3aQoirH3bwRytPhnpC) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [Pont Champlain](https://open.spotify.com/album/1fumWxp522ocJH8odkks3L) | 3:30 | 2023-03-17 | 2023-08-05 |
-| [PORT D'ARME](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 | 2024-04-19 |  |
+| [PORT D'ARME](https://open.spotify.com/track/3RdzJ2qCGDEFkSGe9jFgCJ) | [Enima](https://open.spotify.com/artist/47cHAE0NFwzGOlc3L4oszT), [RK](https://open.spotify.com/artist/2s7fZ34RK8RUJQ2ewsh6I5) | [DZ D’AMERIQUE](https://open.spotify.com/album/6AYsObXMfjrgj5qaH4zLRA) | 3:02 | 2024-04-19 | 2025-01-18 |
 | [Porte](https://open.spotify.com/track/1XkvgJQShm0CpIWe6UbTHH) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Pour de Vrai](https://open.spotify.com/album/5JcvPcv2DJ51OEdOKrfZrw) | 3:03 | 2022-11-11 | 2023-06-17 |
 | [Post mortem](https://open.spotify.com/track/60TztDj0niSWokNuDrAlx8) | [Bkay](https://open.spotify.com/artist/5JoE2pt6hYEd4g4qq5rQHl) | [Post mortem](https://open.spotify.com/album/0oT0z4MkqXDQlGsmK7fh6a) | 3:30 | 2022-02-11 | 2022-03-12 |
 | [Potion](https://open.spotify.com/track/1KZfFKGx6fPEAqMJh4BKNi) | [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc), [KingAlexBeats](https://open.spotify.com/artist/6UKzVrB3hJHkBAz60T4jlw), [Majosty](https://open.spotify.com/artist/6S6YyE0Pz6mYmTCER2PI1A), [agoldencoast](https://open.spotify.com/artist/6ks6hf6P8T5aOYZt8ykVlv) | [Potion](https://open.spotify.com/album/2TBeusZ0VFhF22CupNSplb) | 2:59 | 2024-04-26 | 2024-12-05 |

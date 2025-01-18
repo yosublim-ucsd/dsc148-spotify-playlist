@@ -1,6 +1,6 @@
 {
   "description": "big d com a senha da cena, fenomenal!",
-  "num_followers": 62974,
+  "num_followers": 63004,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,26 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
+        "name": "Regras",
+        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
+      },
+      "artists": [
+        {
+          "name": "Nivy",
+          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
+        },
+        {
+          "name": "Plvco",
+          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
+        }
+      ],
+      "duration_ms": 122500,
+      "name": "Regras",
+      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
         "name": "Verdinha Criminosa",
         "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
       },
@@ -863,26 +883,6 @@
       "duration_ms": 159516,
       "name": "Verdinha Criminosa",
       "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
-        "name": "Regras",
-        "url": "https://open.spotify.com/album/3smXtSQhzu7tmjAK71guLH"
-      },
-      "artists": [
-        {
-          "name": "Nivy",
-          "url": "https://open.spotify.com/artist/70cJFTHKCTRuBdNNn741Xh"
-        },
-        {
-          "name": "Plvco",
-          "url": "https://open.spotify.com/artist/2ktvR9Lv2QE9sJuzRSPpiV"
-        }
-      ],
-      "duration_ms": 122500,
-      "name": "Regras",
-      "url": "https://open.spotify.com/track/4XNJTkox9jlzi7CGkj1rCl"
     },
     {
       "added_at": "2024-12-13 13:06:33",

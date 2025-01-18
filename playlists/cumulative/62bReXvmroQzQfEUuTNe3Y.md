@@ -4,7 +4,7 @@
 
 > Chill tracks to vibe or dance to for 2025\. Updated weekly\. \| 🌈 <a href="https://www.instagram.com/selectedofficial">Instagram</a>
 
-463 songs - 1 day 2 hr 3 min
+464 songs - 1 day 2 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,6 +158,7 @@
 | [Hold Me](https://open.spotify.com/track/13jgeCWlw2Bjeh90vyZajK) | [JSUNT](https://open.spotify.com/artist/5tgmqoI3yKsDNg3AuewVoM), [Brieda](https://open.spotify.com/artist/76zhe0Iq37waOXl1n9CplW) | [Hold Me](https://open.spotify.com/album/7FPgYTd0iUarrky09zXPVP) | 3:12 | 2020-09-13\* | 2020-09-15 |
 | [Hold Me](https://open.spotify.com/track/4SnuG111QPmgwRmlwhJ4Mg) | [Lavern](https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO) | [Hold Me](https://open.spotify.com/album/7osmi3cnYDpPDYflMWa80W) | 2:20 | 2024-02-23 |  |
 | [Hold on Me](https://open.spotify.com/track/43FNnp0KnanReB8KCTl97p) | [Why U So](https://open.spotify.com/artist/4oxwokKRwskQbaEFsCHyeS), [SHELLS](https://open.spotify.com/artist/1ZwuShKjJItDJez0aDCsxN) | [Hold on Me](https://open.spotify.com/album/4IakmM35Ob6hbaNQ6giuFj) | 2:46 | 2024-04-26 |  |
+| [Hold On, We're Going Home](https://open.spotify.com/track/5rOZLvuxnouaWA5jl5rYeY) | [Sixten](https://open.spotify.com/artist/270lBB4c4WBLdrzQKgrXDI), [Embody](https://open.spotify.com/artist/0e7jcv95x5MTycydtfg6wv), [STO CULTR](https://open.spotify.com/artist/3rxaya7knZ0iL2myO6CX6G) | [Hold On, We're Going Home](https://open.spotify.com/album/7d4RTsPBRCw6SE13RtcdEI) | 2:37 | 2025-01-17 |  |
 | [Hold You Back](https://open.spotify.com/track/4d2aMvOMJPy0KCfslxNq9q) | [Falden](https://open.spotify.com/artist/6O5LAkus9iGG1vvMGu5mDo), [Dan Soleil](https://open.spotify.com/artist/2z0mmxKTw0KpO7Qnb6aB2r) | [Hold You Back](https://open.spotify.com/album/1HBCbOUgsLJ7qrRRWThdLe) | 2:47 | 2021-08-20 |  |
 | [Holding On](https://open.spotify.com/track/67EPXZyocCphVYz0zUHllM) | [WILL K](https://open.spotify.com/artist/7m3cYjDlffT2RvkaRrJksn), [MAGNUS](https://open.spotify.com/artist/4pOglqMAavrWFo20ORRx5w), [Alessia Labate](https://open.spotify.com/artist/3znJOYi3CDM5ZQkbo6kmjd) | [Holding On](https://open.spotify.com/album/5oVvqVFvUdgYYVq5XmjFGD) | 2:30 | 2022-02-04 | 2024-02-24 |
 | [Hollow](https://open.spotify.com/track/6P5yJhVBhB0nV27SXhwTZc) | [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6), [Shallou](https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk) | [Hollow](https://open.spotify.com/album/5U2Dty2S3jO8pfEIPPNThL) | 4:14 | 2021-11-06 | 2021-11-11 |
@@ -356,7 +357,7 @@
 | [Shelter](https://open.spotify.com/track/56es20uK9nOaNsPycHJojQ) | [Indigo Eyes](https://open.spotify.com/artist/04qGSeuOlRDSyVYFblRy9O), [Lily Ward](https://open.spotify.com/artist/1kYMGmkw8ta4nvMiK0pcdF) | [Shelter](https://open.spotify.com/album/7ymnnljOmnTNiJmlcNrv9Q) | 3:47 | 2023-05-12 | 2023-12-14 |
 | [Shipwreck](https://open.spotify.com/track/4nzXOL0cDe90TzBB1ZKIBT) | [Klangkarussell](https://open.spotify.com/artist/041iTeoMIwXMlShuQPIVKo) | [Shipwreck / My World](https://open.spotify.com/album/7KuX0qEAZtyeC6O1R0YYna) | 4:03 | 2021-03-06 | 2021-11-27 |
 | [Show Me](https://open.spotify.com/track/4WQtQMbcS53c7k50ddOr9A) | [JLV](https://open.spotify.com/artist/5CBNhusqki2s2jp4Lo6i2L), [Thandi](https://open.spotify.com/artist/7b48KVEzrlVcLLLBAGHBuj) | [Show Me](https://open.spotify.com/album/7hOMWAtuSvc46C0GpWJlVr) | 2:25 | 2024-02-09 |  |
-| [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-07-26 |  |
+| [Sideways](https://open.spotify.com/track/02YMpD1xbZZzpZbuZNvmD7) | [Gordo](https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [DIAMANTE](https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx) | 4:13 | 2024-07-26 | 2025-01-18 |
 | [Sky and Sand](https://open.spotify.com/track/3ZSqMer9RLSglvi18bWXYV) | [Paul Kalkbrenner](https://open.spotify.com/artist/0rasA5Z5h1ITtHelCpfu9R), [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [Berlin Calling \(The Soundtrack by Paul Kalkbrenner\)](https://open.spotify.com/album/1PjYHybPrB6rU3qABrNldm) | 3:50 | 2023-12-08 | 2024-01-13 |
 | [Sky Is Crying](https://open.spotify.com/track/0VH9sKPtKbkxllpqyYmJ7E) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Sky Is Crying](https://open.spotify.com/album/1QMNjCy5KoPIu45sIU59s8) | 4:24 | 2021-03-26 | 2021-04-03 |
 | [Sleep Walking](https://open.spotify.com/track/11KXhIzhMQvUZBqiwkEShR) | [Franklin](https://open.spotify.com/artist/4bU685oayr3KvaP4qdoYdu) | [Sleep Walking](https://open.spotify.com/album/0N78Ojgqv1VEpkw9sEbFF3) | 2:26 | 2023-12-08 |  |

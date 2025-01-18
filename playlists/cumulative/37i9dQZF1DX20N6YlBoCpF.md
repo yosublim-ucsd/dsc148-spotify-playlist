@@ -4,7 +4,7 @@
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8?si=D4oj7s0qQySyqKODyvTlzQ">Jan\-Mattys</a>
 
-1,456 songs - 3 day 9 hr 9 min
+1,457 songs - 3 day 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -659,6 +659,7 @@
 | [Klein Donker Hollywood](https://open.spotify.com/track/0QqKdojXKZlQ4VyePE4tO6) | [Floris Voges](https://open.spotify.com/artist/16wQ8IMeqALLTWoghP6oKS) | [Klein Donker Hollywood](https://open.spotify.com/album/3x3uXwM1F9WKJxCB6p8SLM) | 3:25 | 2024-09-26 | 2024-10-04 |
 | [Klein Dorpie Mentaliteit](https://open.spotify.com/track/6rrCstREfdO0xhAuF0X4DO) | [Zoé](https://open.spotify.com/artist/2J1JhQzNtZ3RURghA5aF65), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Klein Dorpie Mentaliteit](https://open.spotify.com/album/2ExL0yZqD4rKG7YhyemZYX) | 3:54 | 2024-10-17 | 2024-12-06 |
 | [Klein en Kleiner](https://open.spotify.com/track/2LnTbuOSvkVRUZak8wNfV5) | [Werner Olckers](https://open.spotify.com/artist/0uGoWMIEm56ThYr7kIW4VG) | [Klein en Kleiner](https://open.spotify.com/album/3jS3teEcV35axnBPk3kQ3W) | 3:06 | 2023-07-27 | 2023-09-01 |
+| [Klein Maanskyn](https://open.spotify.com/track/4pGXZTvQg8RoP2Eiz8EX9L) | [Touch by Mirror](https://open.spotify.com/artist/0wyKENJo86SfbhWYUiFOc8) | [Realms Of Disaster](https://open.spotify.com/album/3TpP5APtJ0YJukbSYs1RC1) | 3:44 | 2025-01-16 |  |
 | [Klein Wêreld](https://open.spotify.com/track/0JK74oz3Sn06CBG1vq3Ru8) | [Vrede](https://open.spotify.com/artist/4SqW28gCAQ45aqUa0KszgX) | [Klein Wêreld](https://open.spotify.com/album/0ICYpf8GssQkw1ZjX0b10s) | 3:09 | 2023-06-08 | 2023-06-23 |
 | [Kleintjie](https://open.spotify.com/track/4QbAFKHU08d9Ecko8P1Xnk) | [Wikus Botma](https://open.spotify.com/artist/099AZ9nM47Fy3VJ7aLN2Io) | [Kleintjie](https://open.spotify.com/album/2BqvLKSqRQwnLG1DMVumfH) | 2:59 | 2023-03-30 | 2023-07-28 |
 | [Kleurblind](https://open.spotify.com/track/489MxNLlLGS9bG7Hutg8gi) | [Aidan Kade](https://open.spotify.com/artist/5qkCpTcIZDqRxqoJCI0Lgr) | [Kleurblind](https://open.spotify.com/album/657yrmRz2wMF3CZC6F8JNE) | 3:06 | 2025-01-16 |  |

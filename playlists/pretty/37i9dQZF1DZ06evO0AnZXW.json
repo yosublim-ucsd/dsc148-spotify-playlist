@@ -1,12 +1,12 @@
 {
   "description": "This is XXXTENTACION. The essential tracks, all in one playlist.",
-  "num_followers": 2958797,
+  "num_followers": 2958878,
   "original_name": "This Is XXXTENTACION",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4WpAAAAAACTwaaY+nNSJlMvvXjne2/O",
+  "snapshot_id": "Z4hMAAAAAACcNbAW++GDbWwIY3cb/kpm",
   "tracks": [
     {
       "added_at": null,
@@ -519,26 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revenge",
-        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        },
-        {
-          "name": "Ski Mask The Slump God",
-          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
-        }
-      ],
-      "duration_ms": 169978,
-      "name": "RIP Roach",
-      "url": "https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Spider-Man: Into the Spider-Verse (Soundtrack From & Inspired by the Motion Picture)",
         "url": "https://open.spotify.com/album/35s58BRTGAEWztPo9WqCIs"
       },
@@ -559,6 +539,26 @@
       "duration_ms": 233000,
       "name": "Scared of the Dark (feat. XXXTENTACION)",
       "url": "https://open.spotify.com/track/3vWzyGTu6Ovo1GdrcJqH6e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revenge",
+        "url": "https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        },
+        {
+          "name": "Ski Mask The Slump God",
+          "url": "https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry"
+        }
+      ],
+      "duration_ms": 169978,
+      "name": "RIP Roach",
+      "url": "https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE"
     },
     {
       "added_at": null,
@@ -643,38 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teeth (Interlude)",
-        "url": "https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 142716,
-      "name": "Teeth (Interlude)",
-      "url": "https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Vibes Forever",
-        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
-      },
-      "artists": [
-        {
-          "name": "XXXTENTACION",
-          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
-        }
-      ],
-      "duration_ms": 82470,
-      "name": "numb the pain",
-      "url": "https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arms Around You (feat. Maluma & Swae Lee)",
         "url": "https://open.spotify.com/album/3FtwiRgtcCLAiKHDvoj7bO"
       },
@@ -699,6 +667,38 @@
       "duration_ms": 198902,
       "name": "Arms Around You (feat. Maluma & Swae Lee)",
       "url": "https://open.spotify.com/track/2LskIZrCeLxRvCiGP8gxlh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Vibes Forever",
+        "url": "https://open.spotify.com/album/3hn46RDrEmoi4XhLjgdNjZ"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 82470,
+      "name": "numb the pain",
+      "url": "https://open.spotify.com/track/4rhr8LgQoPtWkQaXVPSNOO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teeth (Interlude)",
+        "url": "https://open.spotify.com/album/7Gy8dMtA8JLwItcuYQiSXu"
+      },
+      "artists": [
+        {
+          "name": "XXXTENTACION",
+          "url": "https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4"
+        }
+      ],
+      "duration_ms": 142716,
+      "name": "Teeth (Interlude)",
+      "url": "https://open.spotify.com/track/2TIgwzoxcj1VIX1Y43OhMG"
     },
     {
       "added_at": null,

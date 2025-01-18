@@ -2029,6 +2029,28 @@
     },
     {
       "album": {
+        "name": "Bag On Me",
+        "url": "https://open.spotify.com/album/0vnKhucD9aWTxUeR1kjit2"
+      },
+      "artists": [
+        {
+          "name": "Cartier",
+          "url": "https://open.spotify.com/artist/43Nu4ChA6nE5ENwu8f7Jzf"
+        },
+        {
+          "name": "Peezy",
+          "url": "https://open.spotify.com/artist/6lOaHNmL3l3hKDGNf0egfs"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166922,
+      "name": "Bag On Me",
+      "url": "https://open.spotify.com/track/4bd0t1JQm2vYGJ5pIT76Bi"
+    },
+    {
+      "album": {
         "name": "Balance My Lows (feat. Coi Leray)",
         "url": "https://open.spotify.com/album/1Ez46n26k39YixXE5N9Dyq"
       },
@@ -5479,6 +5501,28 @@
     },
     {
       "album": {
+        "name": "F 12 (feat. Tee Grizzley)",
+        "url": "https://open.spotify.com/album/2Id9lue5steVCFtSVfgbPm"
+      },
+      "artists": [
+        {
+          "name": "Luhh Dyl",
+          "url": "https://open.spotify.com/artist/4dZBZceC6PDa9XCr3mJwq2"
+        },
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "F 12 (feat. Tee Grizzley)",
+      "url": "https://open.spotify.com/track/2IAw1RaieriGhcV1TejaTY"
+    },
+    {
+      "album": {
         "name": "Murda Man",
         "url": "https://open.spotify.com/album/1wtzd2FP1y9AwbTklAJOA3"
       },
@@ -6908,7 +6952,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 126164,
       "name": "Go",
       "url": "https://open.spotify.com/track/1HQFiEOMA4k4lPCnUMFwDm"
@@ -8284,7 +8328,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 217920,
       "name": "HOLY MATRIMONY",
       "url": "https://open.spotify.com/track/1XEmwSgAM12jiBcPzBpi5J"
@@ -11023,6 +11067,28 @@
     },
     {
       "album": {
+        "name": "Love Latto",
+        "url": "https://open.spotify.com/album/1p8jTE1aBk8c5MAuOFqkNl"
+      },
+      "artists": [
+        {
+          "name": "Bfb Da Packman",
+          "url": "https://open.spotify.com/artist/3C1bStPNVIPmGIrORT5OlF"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 115355,
+      "name": "Love Latto",
+      "url": "https://open.spotify.com/track/0XlwpohhNVknPYEPvNAu20"
+    },
+    {
+      "album": {
         "name": "Finally Rich",
         "url": "https://open.spotify.com/album/2B4y3j02ho6XNF8BEzx3JF"
       },
@@ -11702,7 +11768,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 129473,
       "name": "Mirror, Mirror (feat. BabyChiefDoit)",
       "url": "https://open.spotify.com/track/5JJjHSKUIQaqu1nSEBpPYs"
@@ -13271,6 +13337,24 @@
     },
     {
       "album": {
+        "name": "BIG SCOOM (Vol. 1)",
+        "url": "https://open.spotify.com/album/08IxpbkS8U33weBUBYOy49"
+      },
+      "artists": [
+        {
+          "name": "MAF Teeski",
+          "url": "https://open.spotify.com/artist/0mokg9WGOIBWvBjaF2wkSB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167829,
+      "name": "Only One",
+      "url": "https://open.spotify.com/track/4NWaRVvYAFfP90fxzVfZRD"
+    },
+    {
+      "album": {
         "name": "Youngest N Charge 2",
         "url": "https://open.spotify.com/album/1NgNw5Mba9ZYsRx30sDWwx"
       },
@@ -13826,7 +13910,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 206520,
       "name": "Perc & Sex 2",
       "url": "https://open.spotify.com/track/0Qchbh2Aacdxoj06AXycaY"

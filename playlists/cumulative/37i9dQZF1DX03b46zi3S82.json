@@ -4183,6 +4183,24 @@
     },
     {
       "album": {
+        "name": "Nordic Sunset",
+        "url": "https://open.spotify.com/album/65Cml5MnWFs3jeca3oiyGl"
+      },
+      "artists": [
+        {
+          "name": "Foora",
+          "url": "https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Nordic Sunset",
+      "url": "https://open.spotify.com/track/6daWwJ5d0lswGClgWB18Pc"
+    },
+    {
+      "album": {
         "name": "Notturno",
         "url": "https://open.spotify.com/album/5sTu5u2ARluSip9mOYGXBc"
       },
@@ -4922,7 +4940,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 131723,
       "name": "Rosa",
       "url": "https://open.spotify.com/track/7AGO4RrJJKHUUX3rKPlIiL"
@@ -6121,6 +6139,24 @@
     },
     {
       "album": {
+        "name": "The Quiet Room",
+        "url": "https://open.spotify.com/album/1bUlMMwOomK8AOUqGJUYeu"
+      },
+      "artists": [
+        {
+          "name": "Spring Bunny",
+          "url": "https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "The Quiet Room",
+      "url": "https://open.spotify.com/track/0Iq6y319N2q1xTj3QtjvQF"
+    },
+    {
+      "album": {
         "name": "All Encores",
         "url": "https://open.spotify.com/album/5fHIn0grAPQdsjXe7KtSFj"
       },
@@ -6514,6 +6550,24 @@
       "duration_ms": 152780,
       "name": "Une histoire d\u2019amour",
       "url": "https://open.spotify.com/track/1RfSykRvuEDqTUimaVE64E"
+    },
+    {
+      "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/6H5ndDLpcwgYXnEegDh9ye"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155463,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/3FnodjeI8yW2WgbasYVgnP"
     },
     {
       "album": {

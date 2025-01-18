@@ -1,6 +1,6 @@
 {
   "description": "A collection of tracks produced with the legendary TB-303 rhythm composer. Cover: Richie Hawtin",
-  "num_followers": 131512,
+  "num_followers": 131585,
   "original_name": "303 Classics",
   "owner": {
     "name": "Spotify",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-10 08:16:23",
       "album": {
+        "name": "I Have a Question",
+        "url": "https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI"
+      },
+      "artists": [
+        {
+          "name": "K-Hand",
+          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
+        }
+      ],
+      "duration_ms": 361402,
+      "name": "Sound 6",
+      "url": "https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4"
+    },
+    {
+      "added_at": "2024-07-10 08:16:23",
+      "album": {
         "name": "Frequencies",
         "url": "https://open.spotify.com/album/5HJhDqS70hQWNdOwQjY5b0"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 511031,
       "name": "Winona",
       "url": "https://open.spotify.com/track/5yDZCMX6kiySxu3GCmzFEN"
-    },
-    {
-      "added_at": "2024-07-10 08:16:23",
-      "album": {
-        "name": "I Have a Question",
-        "url": "https://open.spotify.com/album/4sSqDINTJ5OtTEHM9dVgmI"
-      },
-      "artists": [
-        {
-          "name": "K-Hand",
-          "url": "https://open.spotify.com/artist/0qWuk2qgRK2HNKYxqbIn5G"
-        }
-      ],
-      "duration_ms": 361402,
-      "name": "Sound 6",
-      "url": "https://open.spotify.com/track/5eKjIuddXknAUujhrtQsz4"
     },
     {
       "added_at": "2024-07-10 08:16:23",

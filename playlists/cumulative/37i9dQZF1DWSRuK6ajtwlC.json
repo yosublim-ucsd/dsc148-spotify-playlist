@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-11",
-  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. La Pocima Norte\u00f1a en portada.",
+  "description": "A levantar polvadera con lo mejor de la m\u00fasica de sax. Los Del North Texas en portada.",
   "name": "Norte\u00f1o Sax",
   "tracks": [
     {
@@ -149,6 +149,24 @@
     },
     {
       "album": {
+        "name": "Amor Lejano",
+        "url": "https://open.spotify.com/album/4hJYs92LWOUZeAkILAKsI1"
+      },
+      "artists": [
+        {
+          "name": "Los Del North Texas",
+          "url": "https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134164,
+      "name": "Amor Lejano",
+      "url": "https://open.spotify.com/track/0L5KswcswHCr4ctNhDK6IY"
+    },
+    {
+      "album": {
         "name": "Amor Maldito",
         "url": "https://open.spotify.com/album/194E6RdfGCtoKwKpn4lCAb"
       },
@@ -190,7 +208,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 147335,
       "name": "Anda Alegre La Muchacha",
       "url": "https://open.spotify.com/track/3AFlzMGEfYn4uMtBSKANRf"
@@ -285,6 +303,24 @@
     },
     {
       "album": {
+        "name": "Aunque me Dejes en Visto",
+        "url": "https://open.spotify.com/album/2gJas5TpAOdfvEQPRbmsT3"
+      },
+      "artists": [
+        {
+          "name": "La Fiera de Ojinaga",
+          "url": "https://open.spotify.com/artist/6qm0DFounuQWwu6IF0ZGH2"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157323,
+      "name": "Aunque me Dejes en Visto",
+      "url": "https://open.spotify.com/track/6cxuRIoRb7unyRQQQwIZqf"
+    },
+    {
+      "album": {
         "name": "Bajo El Agua",
         "url": "https://open.spotify.com/album/098VAFbYJo4Syqkr4zqO1h"
       },
@@ -336,7 +372,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 204072,
       "name": "Bemaste",
       "url": "https://open.spotify.com/track/4YiuckLW9XY7VrpMmWpKfc"
@@ -520,7 +556,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 157699,
       "name": "Chingos de Gracias",
       "url": "https://open.spotify.com/track/6jSdVpmbRdInpAX29hC7x3"
@@ -889,6 +925,24 @@
     },
     {
       "album": {
+        "name": "De Enero a Enero",
+        "url": "https://open.spotify.com/album/0PpclJyayVIXIvc9CnLvNY"
+      },
+      "artists": [
+        {
+          "name": "La Zenda Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156491,
+      "name": "De Enero a Enero",
+      "url": "https://open.spotify.com/track/4VYFOvHNma9mKr3pl4KCmM"
+    },
+    {
+      "album": {
         "name": "Volando Hacia Ti",
         "url": "https://open.spotify.com/album/3jZIqx45s0A2gpGp2LOQoh"
       },
@@ -1200,7 +1254,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 150812,
       "name": "En Autom\u00e1tico",
       "url": "https://open.spotify.com/track/3kGeAU2fVqf72NCoAJdxbT"
@@ -1362,7 +1416,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 180653,
       "name": "Habr\u00e1 Se\u00f1ales",
       "url": "https://open.spotify.com/track/5syzK647pWd2ajo2nqxns9"
@@ -1506,7 +1560,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 216967,
       "name": "Juan Ayon",
       "url": "https://open.spotify.com/track/6BQjnXrMGzoJy43vEnO3jz"
@@ -1654,7 +1708,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 153478,
       "name": "La Leona y El Carcomido",
       "url": "https://open.spotify.com/track/5Z90tsHyYip1H723b4otI4"
@@ -2178,7 +2232,7 @@
       ],
       "date_added": "2024-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 179105,
       "name": "Miel Pura",
       "url": "https://open.spotify.com/track/3mpB8AiOMz5DwZmGKN88w9"
@@ -2630,6 +2684,24 @@
       "duration_ms": 173761,
       "name": "Por Amarte Tanto",
       "url": "https://open.spotify.com/track/1CU4kIdtvDjtrf1zXgTyLG"
+    },
+    {
+      "album": {
+        "name": "Por Defecto",
+        "url": "https://open.spotify.com/album/1iIwOafNviR11pdxABf3cx"
+      },
+      "artists": [
+        {
+          "name": "La Pocima Norte\u00f1a",
+          "url": "https://open.spotify.com/artist/0R03Yxwm5XGODyeMHO0eXj"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161044,
+      "name": "Por Defecto",
+      "url": "https://open.spotify.com/track/0J4WnTMyYVLTOdEYp1CsLO"
     },
     {
       "album": {
@@ -3307,6 +3379,24 @@
     },
     {
       "album": {
+        "name": "Tenemos Algo Muy Bonito",
+        "url": "https://open.spotify.com/album/2bfonfWR8osDy9axaknL4b"
+      },
+      "artists": [
+        {
+          "name": "Keith Nieto",
+          "url": "https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193060,
+      "name": "Tenemos Algo Muy Bonito",
+      "url": "https://open.spotify.com/track/38m7Kg7Vi3ai0f8auLsSJm"
+    },
+    {
+      "album": {
         "name": "Tonto Mi Corazon (En Vivo Estudio)",
         "url": "https://open.spotify.com/album/6lSibFBrplfh8WNAJeWHHB"
       },
@@ -3426,7 +3516,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 146360,
       "name": "Tus Historias Mienten",
       "url": "https://open.spotify.com/track/6M3fUO8he626evmaoYay1a"
@@ -3502,7 +3592,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 124137,
       "name": "Un Mujer\u00f3n",
       "url": "https://open.spotify.com/track/6EdaW24zoFoIRegHCNH3WR"

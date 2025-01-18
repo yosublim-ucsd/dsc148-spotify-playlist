@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Latinoam\u00e9rica baila al ritmo de Quevedo.",
+  "description": "Latinoam\u00e9rica baila al ritmo de Bad Gyal & Trueno.",
   "name": "El Ritmo",
   "tracks": [
     {
@@ -1725,6 +1725,28 @@
     },
     {
       "album": {
+        "name": "Angelito",
+        "url": "https://open.spotify.com/album/1MbNQm1oxXxqPboTVHsc9o"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130813,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP"
+    },
+    {
+      "album": {
         "name": "ANGELITO",
         "url": "https://open.spotify.com/album/1wIbAOcYH3TDxkWI1Zcb5K"
       },
@@ -1788,6 +1810,28 @@
       "duration_ms": 142354,
       "name": "Anoche llam\u00e9",
       "url": "https://open.spotify.com/track/69AGmizjPlRLhOnHqvhZfB"
+    },
+    {
+      "album": {
+        "name": "Anormales",
+        "url": "https://open.spotify.com/album/6udTLuj1WuRd4QaDjpttwL"
+      },
+      "artists": [
+        {
+          "name": "DJ Maff",
+          "url": "https://open.spotify.com/artist/5CKb0P2vvpC9JD7wjB80gu"
+        },
+        {
+          "name": "Neutro Shorty",
+          "url": "https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Anormales",
+      "url": "https://open.spotify.com/track/7LCDh7VvM08V5jn0tk6LhC"
     },
     {
       "album": {
@@ -2912,7 +2956,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 190000,
       "name": "Beso Pal Cielo",
       "url": "https://open.spotify.com/track/1VkiUCSsIAZa0kcGDMnOdT"
@@ -3176,7 +3220,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 189600,
       "name": "Blunt",
       "url": "https://open.spotify.com/track/6QIZZAq8DnZ3ull7MW167v"
@@ -11667,6 +11711,28 @@
     },
     {
       "album": {
+        "name": "La Culpa",
+        "url": "https://open.spotify.com/album/2PYzhKNS8nyiOtGrLPlha9"
+      },
+      "artists": [
+        {
+          "name": "Wizu",
+          "url": "https://open.spotify.com/artist/3jbaNN3lvwBh3EAHUfFa8W"
+        },
+        {
+          "name": "Matt Hunter",
+          "url": "https://open.spotify.com/artist/20pVLDSueWpSOPCWnCWzIU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156671,
+      "name": "La Culpa",
+      "url": "https://open.spotify.com/track/3AeA8sKpjg7XlDXOfDwCEg"
+    },
+    {
+      "album": {
         "name": "INSOMNIO",
         "url": "https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU"
       },
@@ -11704,6 +11770,24 @@
       "duration_ms": 257592,
       "name": "La del Tik Tok",
       "url": "https://open.spotify.com/track/2nl5JkOfrjVSYQY9rVZl4N"
+    },
+    {
+      "album": {
+        "name": "La Despedida",
+        "url": "https://open.spotify.com/album/0EqbbXBY9rRuI8nc3j9hVG"
+      },
+      "artists": [
+        {
+          "name": "Ingratax",
+          "url": "https://open.spotify.com/artist/62YF0FglEltB3CnVIjoko8"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146524,
+      "name": "La Despedida",
+      "url": "https://open.spotify.com/track/5vTb7FgRm72sbe5DPbAyNt"
     },
     {
       "album": {
@@ -12350,7 +12434,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 187200,
       "name": "La Trinidad",
       "url": "https://open.spotify.com/track/43SEzRHiv6GvPg9zOyVrX6"
@@ -12814,6 +12898,32 @@
       "duration_ms": 196586,
       "name": "Lo Caro y Lo Bueno",
       "url": "https://open.spotify.com/track/2AhTzExaPgf9A8AXK2D2QW"
+    },
+    {
+      "album": {
+        "name": "Lo Siento (Remix)",
+        "url": "https://open.spotify.com/album/4P0RyNTM09nmZAhPqHlutU"
+      },
+      "artists": [
+        {
+          "name": "Milo Bvgatti",
+          "url": "https://open.spotify.com/artist/7lyNgZSgWXCRYXx6y1flAK"
+        },
+        {
+          "name": "Dalex",
+          "url": "https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn"
+        },
+        {
+          "name": "Maisak",
+          "url": "https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213793,
+      "name": "Lo Siento - Remix",
+      "url": "https://open.spotify.com/track/2rdpt16HmtfqApETJZkSAj"
     },
     {
       "album": {
@@ -13471,6 +13581,28 @@
     },
     {
       "album": {
+        "name": "Maldito Reggaeton",
+        "url": "https://open.spotify.com/album/0PlrRQBzGuVObeEQI8PewY"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Esteban Rojas",
+          "url": "https://open.spotify.com/artist/680tleL97NcpJiib89V6UU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190773,
+      "name": "Maldito Reggaeton",
+      "url": "https://open.spotify.com/track/2SEyetpzyJK1zv2wpWkP5Y"
+    },
+    {
+      "album": {
         "name": "EL CANTANTE DEL GHETTO",
         "url": "https://open.spotify.com/album/0d9r31X5eeyHWLkYAZIxmE"
       },
@@ -13856,7 +13988,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 220000,
       "name": "MAS LOCO QUE TU",
       "url": "https://open.spotify.com/track/3VV1vrtcicdnst83mWFPnW"
@@ -17694,7 +17826,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 138260,
       "name": "Papelito",
       "url": "https://open.spotify.com/track/4do9SGv2DQ1irWpwqxXANJ"
@@ -18954,7 +19086,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 166530,
       "name": "Primos (feat. Dj Kiire)",
       "url": "https://open.spotify.com/track/4udwfvT8bOZ8lfbgGRLp68"
@@ -19676,7 +19808,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 202222,
       "name": "RED FLAG",
       "url": "https://open.spotify.com/track/3mhF6nhwtdKO6y35tGx7wu"
@@ -22804,6 +22936,24 @@
       "duration_ms": 168215,
       "name": "Todo Se Mantiene en Su Lugar",
       "url": "https://open.spotify.com/track/1heE3OvlSL96SdP1RfaSaR"
+    },
+    {
+      "album": {
+        "name": "Todo va bien",
+        "url": "https://open.spotify.com/album/4yvvPqWxPpEZiINneVK0cc"
+      },
+      "artists": [
+        {
+          "name": "Mati G\u00f3mez",
+          "url": "https://open.spotify.com/artist/23mC5tLCbMk9zqrR2dFtNE"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160776,
+      "name": "Todo va bien",
+      "url": "https://open.spotify.com/track/4gVWsZLkYqZxrDumM2Ma3I"
     },
     {
       "album": {

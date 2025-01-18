@@ -4,7 +4,7 @@
 
 > Coez in cover + tutte le migliori uscite della settimana!
 
-3,244 songs - 6 day 19 hr 49 min
+3,245 songs - 6 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -335,7 +335,7 @@
 | [Because Of You](https://open.spotify.com/track/0ie2asHHJ88g3wwH2hSziW) | [Lauv](https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv) | [Because Of You](https://open.spotify.com/album/0tIUtEy8aF9pMoCHjSN8tX) | 2:19 | 2024-11-15 | 2024-11-22 |
 | [Bed Chem](https://open.spotify.com/track/1UHS8Rf6h5Ar3CDWRd3wjF) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:51 | 2024-08-22 | 2024-08-30 |
 | [Before I Let You Go \(feat\. MarcLo\)](https://open.spotify.com/track/0MBE2aSvZdmDxmAG9O2Fhs) | [CYRIL](https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom), [MarcLo](https://open.spotify.com/artist/3Aa8vv6PuVakY8yP8tpi2X) | [To The World](https://open.spotify.com/album/465mvLX0RMXAvsz9KtcSRa) | 2:19 | 2024-08-29 | 2024-09-06 |
-| [Believe In Ya](https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Believe In Ya](https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ) | 2:59 | 2025-01-16 |  |
+| [Believe In Ya](https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh) | [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy), [Yaeji](https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt), [Girl Talk](https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr) | [Believe In Ya](https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ) | 2:59 | 2025-01-16 | 2025-01-18 |
 | [BELLADAMORIRE \(feat\. Lil Busso\)](https://open.spotify.com/track/6RMofhEUami5oM976lMlcb) | [Tancredi](https://open.spotify.com/artist/6BeaPpdgW7R4Q1ZGqENbV0), [Lil Busso](https://open.spotify.com/artist/17O59ptnhN9Fgur5zIt051) | [BELLADAMORIRE \(feat\. Lil Busso\)](https://open.spotify.com/album/2sN3wMiBdeSrmk1zWmJrFO) | 2:33 | 2025-01-16 |  |
 | [BELLISSIMO E POI NIENTE](https://open.spotify.com/track/7FxnWqvydxAYhgHcpmPdfm) | [Angelica Bove](https://open.spotify.com/artist/0T2LdB8gO5vgY4Ku8bYYx8) | [BELLISSIMO E POI NIENTE](https://open.spotify.com/album/6l2EQR4IVh6yLeRfpvMoG6) | 2:31 | 2024-10-03 | 2024-10-11 |
 | [Bells and Whistles](https://open.spotify.com/track/5Y5FQ3HD5HD7pBMAzm7JKb) | [Bright Eyes](https://open.spotify.com/artist/5o206eFLx38glA2bb4zqIU) | [Bells and Whistles](https://open.spotify.com/album/7l20u6rZraVZuuh4C7vqPE) | 4:07 | 2024-06-27 | 2024-07-05 |
@@ -2802,6 +2802,7 @@
 | [Take 5](https://open.spotify.com/track/6H1DuBy9TBVECpECPCzm03) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [Take 5](https://open.spotify.com/album/2phJY3CjRbyx4DUaPY7lRO) | 3:11 | 2024-08-29 | 2024-09-06 |
 | [Take A Bite](https://open.spotify.com/track/7ddVpLW467CLYffbPRQNmH) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Take A Bite](https://open.spotify.com/album/7sgA12Lei0Nx2SX8iAMSU6) | 2:38 | 2024-05-09 | 2024-05-17 |
 | [Take Me Back](https://open.spotify.com/track/4G37m3eLuPYXCPOeLgpW7b) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Take Me Back](https://open.spotify.com/album/3sbuWV2U4lcyfx64Se1YXK) | 2:33 | 2024-06-27 | 2024-07-05 |
+| [take me by the hand](https://open.spotify.com/track/4AHeemjLSF5e1UbGRGCUO4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [take me by the hand](https://open.spotify.com/album/6IShuyiAbqSgjgXVCrHCOr) | 2:51 | 2025-01-17 |  |
 | [TAKE ME IN](https://open.spotify.com/track/2EKpybTASGXP5DdTA3r6aP) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME..\. PART\-2](https://open.spotify.com/album/3wU2wXacpwqetSRloR0nMX) | 3:39 | 2024-09-05 | 2024-09-13 |
 | [Take Me to the Beach \(feat\. Ernia\)](https://open.spotify.com/track/6jzhZu5eDsQLd1PY59aoxH) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q), [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm) | [Take Me to the Beach \(feat\. Ernia\)](https://open.spotify.com/album/4Qrq02nmWAb9o300fpCPtn) | 2:47 | 2024-10-17 | 2024-10-25 |
 | [TALETE](https://open.spotify.com/track/2obQUZCZJttb5PHR3ANAZo) | [AIELLO](https://open.spotify.com/artist/5bxbPQo0VkFgZKemF0YKb4) | [TALETE](https://open.spotify.com/album/3FkPnzeDGlNsfdgrCMTzX8) | 2:57 | 2024-05-23 | 2024-06-01 |

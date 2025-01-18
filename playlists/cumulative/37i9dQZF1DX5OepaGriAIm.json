@@ -491,6 +491,28 @@
     },
     {
       "album": {
+        "name": "A Night At The Symphony: Live at the Hollywood Bowl",
+        "url": "https://open.spotify.com/album/5JCuiPbX9OrBLWhqK4qGJZ"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        },
+        {
+          "name": "Los Angeles Philharmonic",
+          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255546,
+      "name": "Bewitched - Live at the Hollywood Bowl",
+      "url": "https://open.spotify.com/track/5HYPtMvVMkodNkwlTCVkPV"
+    },
+    {
+      "album": {
         "name": "Lady Sings the Blues",
         "url": "https://open.spotify.com/album/6ZdKc2ZMEQnhPCjB2NL2ys"
       },

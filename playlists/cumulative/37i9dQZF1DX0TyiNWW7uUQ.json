@@ -559,6 +559,32 @@
     },
     {
       "album": {
+        "name": "Chillanjirukkiye (From \"Lubber Pandhu\")",
+        "url": "https://open.spotify.com/album/7eucanSNGPAuKBJCzXO8Pq"
+      },
+      "artists": [
+        {
+          "name": "Sean Roldan",
+          "url": "https://open.spotify.com/artist/3TUNkjIHkcvEy9oeK2D4hU"
+        },
+        {
+          "name": "Pradeep Kumar",
+          "url": "https://open.spotify.com/artist/15ClyGUe5g2vllncIC4tp6"
+        },
+        {
+          "name": "Sivaangi Krishnakumar",
+          "url": "https://open.spotify.com/artist/0VocNHCBQ7Mzn9jNOmuSmz"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247448,
+      "name": "Chillanjirukkiye (From \"Lubber Pandhu\")",
+      "url": "https://open.spotify.com/track/3jixbQHg5vDuZRNqzordcI"
+    },
+    {
+      "album": {
         "name": "Ponniyin Selvan Part-1 (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/6efDS3Pp3DUkDnr5XgPyMN"
       },
@@ -622,6 +648,24 @@
       "duration_ms": 199398,
       "name": "Dharala Prabhu Title Track",
       "url": "https://open.spotify.com/track/7MtK3lPdVPq2WGO6EWHB9V"
+    },
+    {
+      "album": {
+        "name": "Dheema (From \"Love Insurance Kompany\")",
+        "url": "https://open.spotify.com/album/5eqQtQhwXiBhZEzrbdDOXQ"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235102,
+      "name": "Dheema (From \"Love Insurance Kompany\")",
+      "url": "https://open.spotify.com/track/6CvW7N8JjBHmwEfGz2Yxhk"
     },
     {
       "album": {
@@ -951,6 +995,36 @@
     },
     {
       "album": {
+        "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+        "url": "https://open.spotify.com/album/0Wmaf5kSAnQ3hSn09w9BYR"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Haricharan",
+          "url": "https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Karthik Netha",
+          "url": "https://open.spotify.com/artist/3o7GGc9KjbLzTCwOq9WL55"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229811,
+      "name": "Hey Minnale (From \"Amaran\") (Tamil)",
+      "url": "https://open.spotify.com/track/1kmJ0EvXClJAt0fSSQLX1m"
+    },
+    {
+      "album": {
         "name": "Comali (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3RpJzMQ79BEK7xCJIzgPSk"
       },
@@ -1010,7 +1084,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 240169,
       "name": "High On Love",
       "url": "https://open.spotify.com/track/6OcZhL1AbSmtC0OtlT8zmq"
@@ -1462,7 +1536,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 237558,
       "name": "Kanja Poovu Kannala (From \"Viruman\")",
       "url": "https://open.spotify.com/track/78tblPcz2otRZd1VOeU7zz"
@@ -2620,7 +2694,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 332711,
       "name": "Pirai Thedum",
       "url": "https://open.spotify.com/track/4Dd5XLOdAAmURIZSLThPvH"
@@ -2660,7 +2734,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 223326,
       "name": "Po Indru Neeyaga (From \"Velai Illa Pattadhaari\")",
       "url": "https://open.spotify.com/track/45TUsDINS6CMvccCZ25YKk"
@@ -2800,7 +2874,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 157650,
       "name": "Railin Oligal",
       "url": "https://open.spotify.com/track/0vvKTDg4oR8WA0jc55nhwV"
@@ -3062,6 +3136,32 @@
       "duration_ms": 106495,
       "name": "Sandhanam Theme - Background Score",
       "url": "https://open.spotify.com/track/525NKU3UFgZQtCXWBWE0al"
+    },
+    {
+      "album": {
+        "name": "Sawadeeka (From \"Vidaamuyarchi\")",
+        "url": "https://open.spotify.com/album/3J9YX3ayznkSAV2XecdDzT"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Anthony Daasan",
+          "url": "https://open.spotify.com/artist/1lDx24tVvy8JVKOVjnlJfv"
+        },
+        {
+          "name": "Arivu",
+          "url": "https://open.spotify.com/artist/7rVV9d6vc4FLT752uRuk71"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204413,
+      "name": "Sawadeeka (From \"Vidaamuyarchi\")",
+      "url": "https://open.spotify.com/track/0Vh3jGxKhm9KxzQgnfnIV6"
     },
     {
       "album": {
@@ -3895,6 +3995,36 @@
     },
     {
       "album": {
+        "name": "Amaran (Tamil)",
+        "url": "https://open.spotify.com/album/1xONf0eKTmlbuy13uaStDJ"
+      },
+      "artists": [
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        },
+        {
+          "name": "Kapil Kapilan",
+          "url": "https://open.spotify.com/artist/0nMjhemqRwrboQGcs92fh2"
+        },
+        {
+          "name": "Rakshita Suresh",
+          "url": "https://open.spotify.com/artist/76Z6SMQPibr8qI24AhdvbJ"
+        },
+        {
+          "name": "Yugabharathi",
+          "url": "https://open.spotify.com/artist/4kzSv6FtNOoY6s4VFD3L6e"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213333,
+      "name": "Vennilavu Saaral",
+      "url": "https://open.spotify.com/track/79Aa3LFIeZpMWTXs8y3Qgk"
+    },
+    {
+      "album": {
         "name": "Vikram (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0FIP7MeIO3yqL8K6uTz3b1"
       },
@@ -4010,7 +4140,7 @@
       ],
       "date_added": "2022-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 250325,
       "name": "Yaar Azhaippadhu",
       "url": "https://open.spotify.com/track/2ZqzELrxZZyeTPSR7GZBH4"
@@ -4098,6 +4228,32 @@
       "duration_ms": 205985,
       "name": "Yelo Pullelo",
       "url": "https://open.spotify.com/track/44tt44Coydbx27QJlWiKXb"
+    },
+    {
+      "album": {
+        "name": "Kadhalikka Neramillai",
+        "url": "https://open.spotify.com/album/7mbvUIVOl6vON1sCqdPJjT"
+      },
+      "artists": [
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Dhee",
+          "url": "https://open.spotify.com/artist/77YvCBWe0tTLygpgSJsdOH"
+        },
+        {
+          "name": "Vivek",
+          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228792,
+      "name": "Yennai Izhukkuthadi",
+      "url": "https://open.spotify.com/track/5D2sz1jrV060bf55IMbFtR"
     },
     {
       "album": {

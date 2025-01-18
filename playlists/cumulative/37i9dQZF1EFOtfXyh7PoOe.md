@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1EFOtfXyh7PoOe.md) - cumulative - [plain](/playlists/plain/37i9dQZF1EFOtfXyh7PoOe) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1EFOtfXyh7PoOe)
 
-### [Written By Pablo Bowman](https://open.spotify.com/playlist/37i9dQZF1EFOtfXyh7PoOe)
+### [Written By Pablo Bowman Navarro](https://open.spotify.com/playlist/37i9dQZF1EFOtfXyh7PoOe)
 
-> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
+> The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4VL4QRgUHPpilJ4CRhCW1I">Pablo Bowman Navarro</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
 134 songs - 6 hr 26 min
 

@@ -4,7 +4,7 @@
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-271 songs - 18 hr 40 min
+272 songs - 18 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Don't Worry 'Bout What I Do](https://open.spotify.com/track/2NrgFbqq1uCovinEtTw3Mj) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Cold As Weiss](https://open.spotify.com/album/39wAzMaFzTVEN0yqJXYyzK) | 5:14 | 2022-01-07 | 2023-07-25 |
 | [Don't Worry 'Bout What I Do](https://open.spotify.com/track/4kp5U4OFRtXdZuqo8hmMB3) | [Delvon Lamarr Organ Trio](https://open.spotify.com/artist/7owr01EP6gwCYjnfQtPKy8) | [Don't Worry 'Bout What I Do](https://open.spotify.com/album/24GTxaUWlSRJnxxMZ7VTQk) | 5:14 | 2022-01-07 | 2022-07-29 |
 | [Don’t Mind](https://open.spotify.com/track/0zu754002s0GvX6DkgF7O9) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW) | [Sho Is Funky Down Here](https://open.spotify.com/album/0U4H8i5foFCpjuxSMi6HJc) | 3:31 | 2020-11-13 |  |
+| [Dopus no\. 1](https://open.spotify.com/track/2uBbWlPLVLVhqLfuEbMNy3) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Dopus no\. 1](https://open.spotify.com/album/0uK7KYfZUAEm535F4SKx9l) | 4:15 | 2025-01-17 |  |
 | [Down Frenchmen St](https://open.spotify.com/track/64yrmj2YIDvn3HgPsa3KyC) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/752MnPnpNk25IvMRpIiLh6) | 5:57 | 2020-11-13 |  |
 | [Down Frenchmen St](https://open.spotify.com/track/7ofSPPgO1q41e6qTdL29U8) | [The Filthy Six](https://open.spotify.com/artist/1AiQK5vJEjhf6pFcWs5nWp) | [The Fox](https://open.spotify.com/album/6jNDtYJlpZtqjEqc0a3I9J) | 5:57 | 2020-11-13 | 2024-04-19 |
 | [Drive \- Instrumental](https://open.spotify.com/track/4Avjd3iNlmXjleo36vVFli) | [Freekbass](https://open.spotify.com/artist/1abdeL1cpNSTlJp5NQchch), [Eddie Roberts](https://open.spotify.com/artist/7oitwuUO5J1Bd9ItTsc3bI), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Krameria](https://open.spotify.com/album/6I29JAbN4R1GkaOC6dOEIZ) | 2:48 | 2022-02-04 | 2022-07-27 |
@@ -142,7 +143,7 @@
 | [Just Shake](https://open.spotify.com/track/5lOcbDk97jxKpvQfK0Pxuy) | [Vito Lalinga \(Vi Mode Inc\. Project\)](https://open.spotify.com/artist/07Z1hrMGpROTkdhqPI6UpM) | [Urban Night](https://open.spotify.com/album/44pq5WmybJ7QEqwLkeZeSZ) | 5:42 | 2021-02-12 |  |
 | [Kabuki](https://open.spotify.com/track/0GTNVTzaXx4B8BBid7KPF2) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/0P3xpotuVfJghJHe4yLKqD) | 4:28 | 2023-08-04 | 2024-04-19 |
 | [Kabuki](https://open.spotify.com/track/4SkVO7JGpsMclUhc8Kcwwf) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/2GEg0F8CDPyC2lLSWIN5Xy) | 4:28 | 2023-08-04 | 2023-11-04 |
-| [Kabuki](https://open.spotify.com/track/1CXowWtxmDJhS5EB3daVd2) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/44SAnz1tyckWug1tPnLrmZ) | 4:28 | 2021-05-28 |  |
+| [Kabuki](https://open.spotify.com/track/1CXowWtxmDJhS5EB3daVd2) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z) | [Sunday Afternoon](https://open.spotify.com/album/44SAnz1tyckWug1tPnLrmZ) | 4:28 | 2021-05-28 | 2025-01-18 |
 | [Kashmir](https://open.spotify.com/track/5aEurCKzsfoo0nFHK6OPXT) | [Speedometer](https://open.spotify.com/artist/20ztaBo1Ap1UXnF0HpOX44) | [Our Kind of Movement](https://open.spotify.com/album/5AZNZXj3lW7M2jHj3IqI0q) | 3:55 | 2020-11-13 |  |
 | [Keb's Bucket](https://open.spotify.com/track/2xDpbCLvTF5jEKPK8w3B3z) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled and Fried](https://open.spotify.com/album/4LSIevKcUj7YbQZvJ7R2C0) | 3:30 | 2020-11-13 | 2022-04-21 |
 | [Keb's Bucket](https://open.spotify.com/track/43eTrnAbpvPedfm5pYvpb8) | [Cookin' On 3 Burners](https://open.spotify.com/artist/726MxZBpkxnnoKl6aN7mmj) | [Baked, Broiled & Fried](https://open.spotify.com/album/5TB3O4gATp2KZ9R65dsDuN) | 3:30 | 2020-11-13 | 2022-10-16 |

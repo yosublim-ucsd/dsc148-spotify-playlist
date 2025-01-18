@@ -4,7 +4,7 @@
 
 > The best new songs of the week! Cover: Gustaph
 
-3,215 songs - 7 day 2 hr 52 min
+3,217 songs - 7 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,6 @@
 | [100 Bands](https://open.spotify.com/track/7nQMqUUXPkMCQNOESQ3bkV) | [Dina Ayada](https://open.spotify.com/artist/5L88UL7xuw4CzYyzxqwgBz) | [100 Bands](https://open.spotify.com/album/4c4krYMGjRDh5FxtEEQhP2) | 2:07 | 2024-05-02 | 2024-05-10 |
 | [100 bux](https://open.spotify.com/track/25zxKayL0KzDPwPMPuerAh) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [100 bux](https://open.spotify.com/album/732DkEJVj0w1phBu5KJerz) | 3:15 | 2024-08-29 | 2024-09-06 |
 | [100 Lives](https://open.spotify.com/track/1esueU6TI7y7bOwHhOP14K) | [Jonas Blue](https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf), [Eyelar](https://open.spotify.com/artist/3u4qXYRgHgU7YtjZt9sduX) | [100 Lives](https://open.spotify.com/album/6zOK13fGEgCUcqCwYySpHu) | 3:13 | 2024-07-19 | 2024-07-27 |
-| [1140](https://open.spotify.com/track/6mAhZ0nq1rkJC8pRoUfctw) | [OG Gold](https://open.spotify.com/artist/1MdO2qXpn6Ub2G4WAde1oT) | [1140](https://open.spotify.com/album/0xb9OFyoT2nqgYYnKQz0p6) | 2:43 | 2025-01-16 |  |
 | [120](https://open.spotify.com/track/5Pvpk8WHAvmmxMr7SkcZsN) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 2:10 | 2024-09-19 | 2024-09-27 |
 | [12345](https://open.spotify.com/track/7qHPzMqmkurIRehQpJozti) | [MEYY](https://open.spotify.com/artist/6ovTUUvyWpxSigzDhtfVs5), [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du) | [12345](https://open.spotify.com/album/2kOmYYJoal09SYZ1LVYuUI) | 2:42 | 2024-09-05 | 2024-09-13 |
 | [15 MINUTES](https://open.spotify.com/track/2Dazu1HgFj1geJOfKKFOpf) | [Madison Beer](https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q) | [15 MINUTES](https://open.spotify.com/album/4OFZVvqlg84Czl7td7XddK) | 3:09 | 2024-07-19 | 2024-07-27 |
@@ -1530,6 +1529,7 @@
 | [Koning Liefde \- uit Liefde Voor Muziek](https://open.spotify.com/track/7DtbIsDVNnQzY0cGL9d6K3) | [Clouseau](https://open.spotify.com/artist/1aK4CAEPdOJS3wBL0OnQts) | [Koning Liefde \(uit Liefde Voor Muziek\)](https://open.spotify.com/album/1hMfCA5mhBY2JIn65L1cPr) | 3:36 | 2024-05-16 | 2024-05-24 |
 | [Koningen / الملوك](https://open.spotify.com/track/1UoOKetW4S32laDb9uuY9p) | [Soufiane Eddyani](https://open.spotify.com/artist/3g6GiVVg4ynji0D8f93bHZ) | [Koningen / الملوك](https://open.spotify.com/album/57mG4pbH1w92xLXJnxtk7U) | 3:01 | 2024-06-20 | 2024-06-28 |
 | [Kosmische zee](https://open.spotify.com/track/4V0Bx2mscJPHcXNNFX1wq9) | [Samoerai](https://open.spotify.com/artist/2acTiAeq44pdrghY6wT6m8), [Saimn\-I](https://open.spotify.com/artist/3EyFR67QjHIRayYy2Z3ieP), [Vorre](https://open.spotify.com/artist/0nSVZpCTFgG2ekadtOPO5e) | [Kosmische zee](https://open.spotify.com/album/5anovjpGeFpibSKEljeMNR) | 6:28 | 2024-08-29 | 2024-09-06 |
+| [Kusha](https://open.spotify.com/track/6mAhZ0nq1rkJC8pRoUfctw) | [OG Gold](https://open.spotify.com/artist/1MdO2qXpn6Ub2G4WAde1oT) | [Kusha](https://open.spotify.com/album/0xb9OFyoT2nqgYYnKQz0p6) | 2:43 | 2025-01-16 |  |
 | [Këur](https://open.spotify.com/track/7awY6bDRy9M3OGfwGXG0T8) | [Booba](https://open.spotify.com/artist/58wXmynHaAWI5hwlPZP3qL) | [Këur](https://open.spotify.com/album/1fYhYoGkV8ekc0PdsJQ73a) | 2:45 | 2025-01-02 | 2025-01-10 |
 | [L O T T O](https://open.spotify.com/track/6zf88z6ryaBu2k5KaDS3PQ) | [Saint Ronil](https://open.spotify.com/artist/1cnBbwuD3CUvOf981TFR34) | [L O T T O](https://open.spotify.com/album/1bS9YbOoR9CGQF55mvHvRy) | 3:52 | 2025-01-02 | 2025-01-10 |
 | [L'agréable inutile \- Infini](https://open.spotify.com/track/3MiJzmeyDnys0DogiJjr0H) | [Patrick Fiori](https://open.spotify.com/artist/18PkzXDURSTyGZTg9w66qq) | [Le chant est libre \(Nouvelle édition\)](https://open.spotify.com/album/6al2UeHBMNWXQpUOlqbedD) | 2:59 | 2024-12-05 | 2024-12-13 |
@@ -1583,6 +1583,7 @@
 | [Le fou et le roi](https://open.spotify.com/track/7d1ZInihycTtV0pwkoiXI5) | [Ycare](https://open.spotify.com/artist/0hNK6eH7pXpC1yvhnFXTWB) | [Le fou et le roi](https://open.spotify.com/album/5NOoVKuN5JRv6t7HS3LMUp) | 3:22 | 2024-10-17 | 2024-10-25 |
 | [le goût du ciel.](https://open.spotify.com/track/1uZlWgabvj68zfbj5TsIdr) | [Axel Enderlin](https://open.spotify.com/artist/2MQ3E39TGXpcv9yMqRMHSt) | [promis, tout ira bien.](https://open.spotify.com/album/1HsiPJDsTQzzjersSgXNyU) | 2:40 | 2024-11-15 | 2024-11-22 |
 | [Le Lapin](https://open.spotify.com/track/6tnuOeUxeBj4AtAY9RVQKA) | [Iliona](https://open.spotify.com/artist/64s6yr2vWCKyr5Ldwaslwk) | [Le Lapin](https://open.spotify.com/album/5aNnsz21tHgQqvrYbwoMD8) | 2:37 | 2024-06-13 | 2024-06-21 |
+| [Le monde demain \(Version radio\)](https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6) | [Les Enfoirés](https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN) | [Le monde demain \(Version radio\)](https://open.spotify.com/album/4rWgy3CQjjhcKFtVL2ABcz) | 3:18 | 2025-01-17 |  |
 | [Le Risque](https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ) | [King Gizzard & The Lizard Wizard](https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn) | [Le Risque](https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol) | 3:34 | 2024-07-11 | 2024-07-19 |
 | [le secret.](https://open.spotify.com/track/45qdB0VWRuBc5Iyek9Luv0) | [Axel Enderlin](https://open.spotify.com/artist/2MQ3E39TGXpcv9yMqRMHSt) | [le secret.](https://open.spotify.com/album/41Kgsn8A5MZXUPWR4qdhQZ) | 2:59 | 2024-07-04 | 2024-07-12 |
 | [LEADERSHIP](https://open.spotify.com/track/2JDOsdjAtwKD4KNCNQmGhw) | [Miss Angel](https://open.spotify.com/artist/714BxIYCFvSENkMWlaCwfi) | [MISS'UNDERSTOOD](https://open.spotify.com/album/2Pxw94k2kzdJFcrXP6DGl3) | 2:10 | 2024-09-12 | 2024-09-20 |
@@ -2414,6 +2415,7 @@
 | [Schemerlicht](https://open.spotify.com/track/1iR82C2tScKuAUCa2srzfc) | [IKRAAAN](https://open.spotify.com/artist/2tCegOPiGh8HZLAy1fmi8A) | [Schemerlicht](https://open.spotify.com/album/1NlwOAu1Z51iJEYRNXbEvA) | 3:04 | 2024-04-26 | 2024-05-03 |
 | [Scissors](https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m), [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [Scissors](https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL) | 2:25 | 2025-01-09 | 2025-01-17 |
 | [Scissors](https://open.spotify.com/track/0s5CBIvJJdecBCEq1Lg3VP) | [L'itch](https://open.spotify.com/artist/2RBwwJzlh3ZmuSWSmHyWaT) | [Scissors](https://open.spotify.com/album/6oF5vC3F95Xv51qjdKjwjf) | 2:56 | 2024-09-26 | 2024-10-04 |
+| [scorpion ascendant scorpion \(상승궁 전갈자리\)](https://open.spotify.com/track/12oCxUOAgMIlP4AmlEAjHt) | [Miki](https://open.spotify.com/artist/55Dacc2jL4tgb6Af23NlF6) | [graou](https://open.spotify.com/album/1Zc5T41oAD6MoVilGvadRf) | 2:11 | 2025-01-17 |  |
 | [SCREAM MY NAME](https://open.spotify.com/track/6V9FSNT1V3LceWw9TjlXRg) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [DISTRACTION / SCREAM MY NAME](https://open.spotify.com/album/4eeDjxrPJQQHv150OiVedy) | 2:40 | 2024-07-26 | 2024-08-02 |
 | [Scumbag](https://open.spotify.com/track/5NJQHLtg873KNDOUJS6Ga0) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Kansas Anymore](https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s) | 3:03 | 2024-07-19 | 2024-07-27 |
 | [SD Night](https://open.spotify.com/track/7E8RJY17lUK5W7J1TDFd6z) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [SD Night](https://open.spotify.com/album/4hQDYoPdi19Fkd0BJPLhp6) | 3:02 | 2024-07-19 | 2024-07-27 |

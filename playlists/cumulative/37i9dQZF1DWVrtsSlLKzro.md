@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">electronic</a> melancholy < / 3
 
-363 songs - 21 hr 31 min
+365 songs - 21 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -177,6 +177,7 @@
 | [I Don't Wanna Know](https://open.spotify.com/track/2r02W5rL1vgregWKJMlqlx) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI) | [I Don't Wanna Know \(LOWES Acoustic Mix\)](https://open.spotify.com/album/6e7JY1kVRRwihqh5YdkJ2a) | 3:00 | 2022-10-28 | 2022-11-13 |
 | [I Don't Wanna Know](https://open.spotify.com/track/33VTOL8M86sq1qJOL6rNIm) | [Silience](https://open.spotify.com/artist/7yk8lN0B2B5wBdb4DJfQLI) | [I Don't Wanna Know](https://open.spotify.com/album/3mfq4FoNGi29lLyMxhXARc) | 3:00 | 2021-12-03 |  |
 | [I Hope That It Hurts](https://open.spotify.com/track/7xi3mpdF9tC1SLrbkossDu) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [I Hope That It Hurts](https://open.spotify.com/album/46qNOQ9GrhScSpo6JStrck) | 2:40 | 2022-08-12 | 2023-06-10 |
+| [I Know](https://open.spotify.com/track/0HTUlHM6UBjuMFWlCGLXjg) | [ORACLE](https://open.spotify.com/artist/3gZrJ9QnqxKlSdZAkT54aF), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [I Know](https://open.spotify.com/album/0Vfyo3iWYetuk51mZoo9nj) | 3:26 | 2025-01-17 |  |
 | [I Miss U](https://open.spotify.com/track/1ZK7PV7r9is98UD4zqSy9h) | [Flight School](https://open.spotify.com/artist/1fw6qimskalGQg0oSABmnX), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [I Miss U](https://open.spotify.com/album/3Q7mwi4OMpK0pN1QhM7zn4) | 3:10 | 2023-08-11 |  |
 | [I Should Be Loving You](https://open.spotify.com/track/3oa2Al3mRUn4eSBLgo1gkA) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [YOU](https://open.spotify.com/artist/266PvBAoJzPdxt3dgkEsBW) | [I Should Be Loving You](https://open.spotify.com/album/6Cfa0XaQseVyBqqUbbFU1p) | 3:28 | 2021-12-03 | 2022-05-07 |
 | [I Think I’m Over You](https://open.spotify.com/track/189f0Iy7MlhflRfDi82QP0) | [Win and Woo](https://open.spotify.com/artist/2KPQ6PYAZapLEwMmkzbQxC), [PENNYWILD](https://open.spotify.com/artist/3QpgroEPepqsrcv3KWOtI8) | [I Think I’m Over You](https://open.spotify.com/album/0oVKDSQOr4dBRkCurmPmAA) | 3:13 | 2023-04-21 |  |
@@ -338,6 +339,7 @@
 | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/track/6VMYHTWpyvYMF1L84fCYmJ) | [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw), [MYRNE](https://open.spotify.com/artist/41DKMtAnhVo7aDeluAHDJg), [Evalyn](https://open.spotify.com/artist/68WwJXWrpo1yVOOIZjLSeT) | [Want It All \(feat\. Evalyn\)](https://open.spotify.com/album/1nAWwOc68NxVwurG946Toj) | 3:06 | 2024-04-19 | 2024-11-16 |
 | [Want You Bad](https://open.spotify.com/track/4TQnD9qrhuNN5bea2kCWQ5) | [Punctual](https://open.spotify.com/artist/1ocnIbhFWM9bSPrd7Hu4zF), [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5) | [Want You Bad](https://open.spotify.com/album/3GS1ipxKJuw8BY9n7kizOi) | 3:13 | 2021-12-03 | 2022-05-07 |
 | [Way Out](https://open.spotify.com/track/6CO3fQyH8y4r3M9N7XUGVN) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM), [Clara Mae](https://open.spotify.com/artist/3kRVuRS2HUrZYZvqDywznP) | [Way Out](https://open.spotify.com/album/5ai1MASn3vIFi0E9YwPByE) | 2:41 | 2021-12-03 |  |
+| [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-01-17 |  |
 | [We Know Who We Are](https://open.spotify.com/track/2LWKBMNdzVJzmQe27IQGWc) | [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7), [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu) | [Sentiment](https://open.spotify.com/album/4eZHJqBC68gC2UtAKeiCnA) | 4:07 | 2022-07-15 | 2024-04-19 |
 | [We Know Who We Are](https://open.spotify.com/track/0Ff3J8pmBql72dKFEHl99M) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [Sentiment](https://open.spotify.com/album/2NRBI2mvyZIYpHMEcDmN6A) | 4:07 | 2022-07-15 | 2022-08-03 |
 | [We Know Who We Are](https://open.spotify.com/track/40KNxBXDuACwNkRjPIR34r) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [Olivver the Kid](https://open.spotify.com/artist/3SoOohS0zlj8nLdGmhrKA7) | [We Know Who We Are](https://open.spotify.com/album/5L3XtVZvY6vRiWKIxkZkTz) | 4:07 | 2021-12-03 |  |

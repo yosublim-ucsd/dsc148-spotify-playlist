@@ -4,7 +4,7 @@
 
 > Just lean back and enjoy relaxed beats.
 
-307 songs - 16 hr 59 min
+308 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,7 +136,7 @@
 | [In Deep](https://open.spotify.com/track/28CuT91wRWdQtJU93Hm3ds) | [Beachwax](https://open.spotify.com/artist/0FBeOkbRfYxk44W6AOooKr) | [In Deep](https://open.spotify.com/album/6db4KQXbbcBQ82ox62bVAm) | 2:51 | 2022-03-11 |  |
 | [In the Mirror](https://open.spotify.com/track/205U3hn1052lvW97Adry7h) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/3pakGLnxN48aQvbe7VVXaE) | 2:07 | 2021-12-09 | 2023-06-17 |
 | [In the Mirror](https://open.spotify.com/track/39US9RrwQtLld8H0Cofii3) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [LissA](https://open.spotify.com/artist/6aAestjbtEbALwyIYPg8Na), [clarity.](https://open.spotify.com/artist/3cQgKzo3URkXcwxEyjhkPH) | [In the Mirror](https://open.spotify.com/album/4I21qLgqAPYlfJGJ1V4Ol6) | 2:07 | 2023-10-13 | 2024-01-17 |
-| [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2021-12-09 |  |
+| [Informalité](https://open.spotify.com/track/26dZCWHzlsHuuoaMdpdzfK) | [Nyhuis](https://open.spotify.com/artist/6EVayLPsEOA5csxrOs2Q8d) | [Informalité](https://open.spotify.com/album/0pzkss5ToOuqq0XPazOyWQ) | 2:51 | 2021-12-09 | 2025-01-18 |
 | [IOU](https://open.spotify.com/track/05fPNUOJ5ZwhNBavMU7vIu) | [EMBRZ](https://open.spotify.com/artist/1abeK6nTH1bQUmfhyfSpPh), [Lizzy Land](https://open.spotify.com/artist/1Cg7AdS9hOJBqmGUdbQ6Ux) | [IOU](https://open.spotify.com/album/2dBJHbZd05aKf9PKaSLIIp) | 3:32 | 2023-06-09 | 2024-07-17 |
 | [Ipanema](https://open.spotify.com/track/4nXjQX3YnsTsKNJucIK1Vo) | [Pureblue](https://open.spotify.com/artist/0ytRHtQMhO8Sts30vPTcON) | [Ipanema](https://open.spotify.com/album/1hCZk8eJdYdtNogEsWGbGq) | 2:04 | 2022-01-21 | 2022-05-14 |
 | [It Takes so Long](https://open.spotify.com/track/5S6UVAdQpJ0SZ5HfU4LQ1B) | [Sons Of Maria](https://open.spotify.com/artist/2SfhiNVhk8w8xCQ89P3NPU) | [It Takes so Long](https://open.spotify.com/album/3VuE81EtTJTiNf8kUwgqpN) | 3:37 | 2023-05-26 | 2023-06-22 |
@@ -219,6 +219,7 @@
 | [Rissa](https://open.spotify.com/track/3UxADbf7B5ZCuJxSxdbf5O) | [Valante](https://open.spotify.com/artist/3s1vSYK2eb5fflFHezIbUh) | [Vella](https://open.spotify.com/album/0WSLBPf8mXcAFQpaq6EteH) | 4:42 | 2021-12-09 |  |
 | [Rohan](https://open.spotify.com/track/27qGyy5X3rkrIQ6XXx8r5V) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Rohan](https://open.spotify.com/album/5PuEISOccj2QmqLv7wyplF) | 2:42 | 2023-01-13 |  |
 | [rollacoasta](https://open.spotify.com/track/1CRcnpmLaXxdipLh4g0plB) | [Mateo Hill](https://open.spotify.com/artist/6ZwI5BEf3SVNDkdOKFpxKQ) | [rollacoasta](https://open.spotify.com/album/6oXbyjfKySarMAKjy6BCQr) | 2:42 | 2022-05-20 | 2023-09-22 |
+| [Roman d'Amour](https://open.spotify.com/track/1fVQmMgrOUnrh8KgndKGzP) | [Alastair Lane](https://open.spotify.com/artist/6TlnZfBVbxeu6ss2jcPDJo), [Sarah Degny](https://open.spotify.com/artist/1yQ2xcATfwSb1C8rwkfKBb) | [Roman d'Amour](https://open.spotify.com/album/41lgcktDlbTw48LI9NJRgO) | 2:51 | 2025-01-17 |  |
 | [Romance](https://open.spotify.com/track/22wyV35EezfLo1x4ppf1dq) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Cheekybeefy](https://open.spotify.com/artist/1anJKb6IVtSwR7jAadjF3I) | [Romance](https://open.spotify.com/album/1924eD5uH2WOuyMmI1sYho) | 2:32 | 2021-12-09 | 2022-07-23 |
 | [Romantic Seas](https://open.spotify.com/track/1Y24a9yOtzQsd27w8RtJNk) | [Worldtraveller](https://open.spotify.com/artist/5bD3IY6lj5iEqasOqqnllb) | [Romantic Seas \(Extended Version\)](https://open.spotify.com/album/5XqqnVTdynp062z49DyxGk) | 3:19 | 2021-12-09 | 2022-04-18 |
 | [Rose \- Edit](https://open.spotify.com/track/6VbQw65NuHHJ5o1NvJGlKa) | [Ljuvski](https://open.spotify.com/artist/2xE2iDErWgKFLmOOcF8hMa) | [Chill House x 3](https://open.spotify.com/album/34TKQyCcsvUv3ISgZsU60p) | 3:20 | 2021-12-09 | 2023-02-23 |

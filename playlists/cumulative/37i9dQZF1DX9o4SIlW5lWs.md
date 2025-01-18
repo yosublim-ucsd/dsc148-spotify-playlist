@@ -4,7 +4,7 @@
 
 > Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
 
-504 songs - 1 day 4 hr 37 min
+505 songs - 1 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Ella Es Mi Todo](https://open.spotify.com/track/7MLFa0eKyW4FfDjXNY4Qnr) | [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Ella Es Mi Todo](https://open.spotify.com/album/2Diitd6eEo8ttiRAK9KJdL) | 3:22 | 2022-01-14 | 2022-07-27 |
 | [En El Lugar Menos Pensado](https://open.spotify.com/track/3hGNU1G9uQA1WpiXeLFXAT) | [La Silver Chance](https://open.spotify.com/artist/3pt4SBQDDGMWhR1YNakp9Q) | [En El Lugar Menos Pensado](https://open.spotify.com/album/261UsKjHjZoPKo3u919VoG) | 2:48 | 2022-04-01 | 2022-07-17 |
 | [En la Misma Esquina](https://open.spotify.com/track/3QvX0ExumGKvefsU04ymsU) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [En la Misma Esquina](https://open.spotify.com/album/5aTWebXpWnJnhR88DP5eGh) | 3:35 | 2022-04-01 | 2022-04-21 |
+| [En Que Brazos Estarás](https://open.spotify.com/track/4EBrUwCaeGSopgDeI9fH1c) | [Grupo Nectar](https://open.spotify.com/artist/67ktO6WKPZ0h4cBxSBBoep) | [En Que Brazos Estarás](https://open.spotify.com/album/32rxVfFCBryFDVFHcvIDqG) | 3:36 | 2025-01-17 |  |
 | [En tu Mirada](https://open.spotify.com/track/1975eMXkTwveCl6A7QqafM) | [Del Coco](https://open.spotify.com/artist/4Oax8tWS5HJo2PXppjYVLd), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [En Tu Mirada](https://open.spotify.com/album/01wDyzFyhqi0IqBk4BJqg9) | 4:07 | 2023-09-15 | 2023-09-27 |
 | [En Una de Esas](https://open.spotify.com/track/08Z31XojFdEwE8iVrFChfJ) | [Uriel Lozano](https://open.spotify.com/artist/5Qv1EsPany9Fc3yyCJnoxw) | [En Una de Esas](https://open.spotify.com/album/4yIesG8JV0ci23vBPnn5T5) | 3:17 | 2022-01-21 |  |
 | [Enemigos](https://open.spotify.com/track/1hP5LmFzOEKXI2l1UsQK7w) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [Aye Jaime](https://open.spotify.com/artist/7Bru0w5SCg7ME73iHX8ygf) | [Enemigos](https://open.spotify.com/album/2bq7t9l0uWDLjRGWJF9HGZ) | 2:24 | 2022-04-01 | 2022-06-12 |
@@ -420,7 +421,7 @@
 | [Te extraño](https://open.spotify.com/track/6SGsYigLaGXaCH2jM2JwlZ) | [Los Charros](https://open.spotify.com/artist/1poWksyUHxANlcdBLPhsV9) | [20 años de cumbia \- Los mejores exitos de 1990 \- 2010](https://open.spotify.com/album/6x0GbSgMkwKW1rP4x5YWbU) | 3:44 | 2022-01-14 |  |
 | [Te Extraño :\(](https://open.spotify.com/track/5Lg7nUobqmANgJAnb8XHWo) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Te Extraño :\(](https://open.spotify.com/album/7sRJzszfNpe3RjjTgNovwZ) | 2:45 | 2022-04-01 | 2022-05-23 |
 | [Te Felicito](https://open.spotify.com/track/35ZHtz35yjq91UBqe7fTdk) | [La Sonora Master](https://open.spotify.com/artist/34ncxwjKmuXtfWo8wh91sL) | [Te Felicito](https://open.spotify.com/album/6FjriXiFkFOWvcpFXDnuFT) | 3:31 | 2023-11-24 | 2023-12-09 |
-| [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 | 2022-01-14 |  |
+| [Te Hubieras Ido Antes](https://open.spotify.com/track/2UxquTQq2PH2zHACCtgJ2d) | [Super Quinteto](https://open.spotify.com/artist/4ArkxyeBPg8alE9CcBf86X), [El Gordo Luis](https://open.spotify.com/artist/6BKMcsGBcNTkXAFY8Dibqq) | [Te Hubieras Ido Antes](https://open.spotify.com/album/7AgB035l0VvxVvBAblr4gq) | 5:23 | 2022-01-14 | 2025-01-18 |
 | [Te Juro Que No Es Verdad](https://open.spotify.com/track/2aWgJioTPpqp5LRqmOngYo) | [La Combo Tortuga](https://open.spotify.com/artist/1wyjMJTy6WbOvYBSDL9fMR), [Los Caligaris](https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs) | [Te Juro Que No Es Verdad](https://open.spotify.com/album/4ZU9H16IMJE4EC44krbayO) | 2:35 | 2024-10-18 |  |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/7x0Y9NVem9mV0Ly4DDf5G2) | [La Rama](https://open.spotify.com/artist/36Wa6C4jLLtnY4fqS8qqEm) | [Te Juro Que Te Amo](https://open.spotify.com/album/2HfZ9Nip6khFvSEeodwOtf) | 3:45 | 2022-07-22 | 2022-08-13 |
 | [Te Juro Que Te Amo](https://open.spotify.com/track/5Y3n9BcwwtJPPilw4GMaII) | [Viru Kumbieron](https://open.spotify.com/artist/7edrtXagYn0nCFOwQp8AS1), [Raul Ramirez](https://open.spotify.com/artist/5LN3tGphckDuG0irNsiAs0) | [Te Juro Que Te Amo](https://open.spotify.com/album/57uOjRBETAv53834da99GP) | 4:03 | 2023-09-01 | 2023-09-12 |

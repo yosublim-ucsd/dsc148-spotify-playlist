@@ -4,7 +4,7 @@
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-169 songs - 8 hr 30 min
+170 songs - 8 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -81,7 +81,8 @@
 | [Lembra?](https://open.spotify.com/track/209CDNqYuXqpv3T1LvqYPC) | [D'Castelo](https://open.spotify.com/artist/3zUmvZ6hU3cD0Wej7fsfAR), [BRUNNOASH](https://open.spotify.com/artist/6kuFicEpFN9pojNoTKWIRd) | [Lembra?](https://open.spotify.com/album/6H247bh0RID4t1srD2PCtD) | 3:40 | 2023-09-15 | 2024-06-22 |
 | [Levado \- Spotify Singles](https://open.spotify.com/track/15psePad9IL6X85xlyjzRh) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Rennan Guerra](https://open.spotify.com/artist/1342WybEuWuTMbl8emV1TA), [Patrick Laplan](https://open.spotify.com/artist/4XfU95qBFC5ZmdhfRXeP6o) | [Levado \- Spotify Singles](https://open.spotify.com/album/2vJRY4PZKv6wtUdG7Uoldy) | 2:55 | 2023-09-15 | 2023-10-28 |
 | [Levante](https://open.spotify.com/track/09tODjIWVm1d08ZstMQs7d) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:39 | 2024-08-09 |  |
-| [Lingerie Azul](https://open.spotify.com/track/04l6YnwfUE1c3M4Ukzrf58) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Garotas Amam Namorar](https://open.spotify.com/album/4wgbXSLUAfX5DwflkH3YYD) | 2:07 | 2024-06-07 |  |
+| [Lingerie Azul](https://open.spotify.com/track/04l6YnwfUE1c3M4Ukzrf58) | [Olívia](https://open.spotify.com/artist/2ujvd2c3fhWYQAzC9mT8UQ), [Carla Sol](https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN) | [Garotas Amam Namorar](https://open.spotify.com/album/4wgbXSLUAfX5DwflkH3YYD) | 2:07 | 2024-06-07 | 2025-01-18 |
+| [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 | 2025-01-17 |  |
 | [Luar](https://open.spotify.com/track/4Z5ZtsO6XkH95ZTKtynWlP) | [Yumee](https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX), [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu) | [Luar](https://open.spotify.com/album/2ocVAidyTvJkrp8laFGOIk) | 3:14 | 2024-01-12 |  |
 | [LUNA](https://open.spotify.com/track/2532CwbBhEyoXmEE6udb1J) | [Andrade](https://open.spotify.com/artist/2R5AqLTQob9ojaJVg26TDQ) | [LUNA](https://open.spotify.com/album/1YGjRxJd4jYc5GIFgaroNu) | 2:51 | 2024-05-10 | 2024-07-19 |
 | [MAIS VERDE](https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR) | [2:22](https://open.spotify.com/artist/4f8nHS4E6JwdMsn0YJSjU4) | [MAIS VERDE](https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl) | 3:28 | 2024-03-01 |  |

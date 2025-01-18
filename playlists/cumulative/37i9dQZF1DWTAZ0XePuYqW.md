@@ -2,9 +2,9 @@
 
 ### [Bounce](https://open.spotify.com/playlist/37i9dQZF1DWTAZ0XePuYqW)
 
-> That's that big energy\. Cover: TOKiMONSTA
+> That's that big energy\. Cover: Young Franco
 
-440 songs - 21 hr 50 min
+441 songs - 21 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -341,6 +341,7 @@
 | [Selecta \(feat\. Stefflon Don\)](https://open.spotify.com/track/6TlFnB8GBrlILKv5qy27Sn) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stefflon Don](https://open.spotify.com/artist/2ExGrw6XpbtUAJHTLtUXUD) | [2 RUFF, Vol\. 1](https://open.spotify.com/album/4SjzjaFsXvXiS7quZFzYEl) | 3:09 | 2023-11-10 | 2023-12-16 |
 | [Selfmade $lick](https://open.spotify.com/track/379ldnzfmpVV1aaXQQVVOC) | [Nápoles](https://open.spotify.com/artist/3Dobjv7S9rOSiQMb1Jjnk1) | [Selfmade $lick](https://open.spotify.com/album/6m2yz9GrAqT8JZRRQYV8Md) | 3:03 | 2023-08-18 | 2023-09-23 |
 | [Sensei](https://open.spotify.com/track/2Gad6cnlOw8iSwANtVZXWi) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sensei](https://open.spotify.com/album/1MZ5oWdyVremyimSTUkDPu) | 1:58 | 2024-02-02 | 2024-05-18 |
+| [Shadow Wurk](https://open.spotify.com/track/2ZFBq3VkRxgoOfx1LIMUfH) | [ROZET](https://open.spotify.com/artist/4LyGWqMGeTHfJXbKQmk6YY) | [Shadow Wurk](https://open.spotify.com/album/1d9lIIpYOVP9mukCMYlriF) | 3:23 | 2025-01-17 |  |
 | [SHAKE SUMN \(with Sexyy Red\) \- REMIX](https://open.spotify.com/track/3IxGpAFxBAAfCQ6dv6sBiw) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [SHAKE SUMN \(with Sexyy Red\) \[REMIX\]](https://open.spotify.com/album/7drTkl9fjKDq51rRdye9ZS) | 2:04 | 2023-08-18 | 2023-12-09 |
 | [She Ride The Wind](https://open.spotify.com/track/4JkCvBOYKBifUiO0eDgHAX) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [She Ride The Wind](https://open.spotify.com/album/76cucuTaNRAGT3zHwIAWQd) | 3:13 | 2024-11-22 |  |
 | [She Ride The Wind \(feat\. Arlissa\)](https://open.spotify.com/track/3bSmptlKjwEpTEuCKImUEg) | [Life on Planets](https://open.spotify.com/artist/2EtksajEPOMDkyVKMZi1eO), [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [She Ride The Wind \(feat\. Arlissa\)](https://open.spotify.com/album/3CCjUqC7qwEAdmGrp0kRGh) | 3:13 | 2024-05-03 | 2024-09-21 |

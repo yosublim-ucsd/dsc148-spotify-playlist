@@ -1,13 +1,37 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 125507,
+  "num_followers": 125506,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAATh93A9oHnrUeC+KY8aHtvQUDqVncZ",
+  "snapshot_id": "AAATiCWZyO5tT+g+1RCanGdhO2TAOopa",
   "tracks": [
+    {
+      "added_at": "2025-01-17 15:17:15",
+      "album": {
+        "name": "Polarised",
+        "url": "https://open.spotify.com/album/49iHwFQju9SdF39hRDaJoL"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        },
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        },
+        {
+          "name": "Blanke",
+          "url": "https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT"
+        }
+      ],
+      "duration_ms": 209655,
+      "name": "Polarised",
+      "url": "https://open.spotify.com/track/3MKWCuPRKubEOplEPgGyQL"
+    },
     {
       "added_at": "2025-01-16 16:00:23",
       "album": {

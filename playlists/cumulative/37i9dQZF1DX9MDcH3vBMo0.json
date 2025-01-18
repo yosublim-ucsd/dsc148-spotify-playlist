@@ -14001,6 +14001,24 @@
     },
     {
       "album": {
+        "name": "Without Hindrance",
+        "url": "https://open.spotify.com/album/288xtBTL5O2YTmnAQ0k8Xb"
+      },
+      "artists": [
+        {
+          "name": "Erjos",
+          "url": "https://open.spotify.com/artist/70qp21FDz8QMIIGF3ETrAV"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130058,
+      "name": "Without Hindrance",
+      "url": "https://open.spotify.com/track/2F9zb7dvdw3QOHA3JL7kmL"
+    },
+    {
+      "album": {
         "name": "wolkenlos",
         "url": "https://open.spotify.com/album/2wgLJwE2XaxOQ6ROrm8lIk"
       },

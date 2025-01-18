@@ -1,13 +1,29 @@
 {
   "description": "So fresh, so smooth. Cover: Boney James",
-  "num_followers": 70947,
+  "num_followers": 70968,
   "original_name": "New Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4CpWAAAAAClAnp39bXEDbgj2OTjHObO",
+  "snapshot_id": "Z4nj6wAAAADoFLZGUn/nABn+/wJhHYJO",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:27",
+      "album": {
+        "name": "Vibes (Radio Edit)",
+        "url": "https://open.spotify.com/album/5SGGbjc2zFk8OTe5h7oiQq"
+      },
+      "artists": [
+        {
+          "name": "Michael Cates",
+          "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
+        }
+      ],
+      "duration_ms": 224074,
+      "name": "Vibes - Radio Edit",
+      "url": "https://open.spotify.com/track/04lmQEfGqUyFLnDQbUPVSr"
+    },
     {
       "added_at": "2025-01-10 05:00:08",
       "album": {
@@ -243,22 +259,6 @@
       "duration_ms": 243975,
       "name": "Happy Hour",
       "url": "https://open.spotify.com/track/3iZDt8tUUKq5KblXWZGXiL"
-    },
-    {
-      "added_at": "2024-07-05 04:00:00",
-      "album": {
-        "name": "Newport Nights (Radio Edit)",
-        "url": "https://open.spotify.com/album/35C6c8BYLjAa6OBYtdfIpj"
-      },
-      "artists": [
-        {
-          "name": "Michael Cates",
-          "url": "https://open.spotify.com/artist/4OOHTZ8r9IzokEYsqeXA2A"
-        }
-      ],
-      "duration_ms": 229628,
-      "name": "Newport Nights - Radio Edit",
-      "url": "https://open.spotify.com/track/5b82tnpFe2WDC2ZgEnbAAx"
     },
     {
       "added_at": "2024-06-21 04:00:00",

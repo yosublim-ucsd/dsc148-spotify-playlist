@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \| Cover:  Storm Mollison, KI/KI
 
-1,266 songs - 2 day 19 hr 42 min
+1,267 songs - 2 day 19 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -428,6 +428,7 @@
 | [Greyhound](https://open.spotify.com/track/6huTylpm1emW3FcnUiqC8w) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Ibiza 2023 \- Armada Music](https://open.spotify.com/album/08t2nRgDFFGc8qZq3NntAg) | 3:39 | 2023-07-31 | 2023-12-14 |
 | [Growing In The Shadows](https://open.spotify.com/track/0cHBlkdti2EgOKac5FbSIV) | [Jarod Glawe](https://open.spotify.com/artist/6gzCf25nxnA68tQ3kJUEB4), [Chris Howard](https://open.spotify.com/artist/2TuEDoyqgGdr6B5DPqFqX9) | [Growing In The Shadows](https://open.spotify.com/album/3yL9JrlfXgLwDypiRWBnh6) | 2:25 | 2023-03-16 | 2023-04-01 |
 | [Guarachando](https://open.spotify.com/track/1FrSR100cAr7txwuTzLrNE) | [Albert Neve](https://open.spotify.com/artist/4qq3Lutu3o965YhHUsnyDC), [Abel Ramos](https://open.spotify.com/artist/4PfnYN4AwskT2RgGn4OwCR) | [Guarachando](https://open.spotify.com/album/3pqmwF2Mq5trb9VftNQTAk) | 2:17 | 2022-09-01 | 2022-10-07 |
+| [Guide Me Home](https://open.spotify.com/track/4twCXtLY2L9M1i3rGasj89) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [Future Breeze](https://open.spotify.com/artist/2Qa4UBwzhEFt1Tpj95cZls) | [Guide Me Home](https://open.spotify.com/album/4BF0qJ8vVOhHS3PEPz2aqk) | 2:37 | 2025-01-17 |  |
 | [Gypsy Woman \(She's Homeless\) \- Jude & Frank Edit](https://open.spotify.com/track/5IHKqZl6SLp0luZMR0r6cn) | [Lotus](https://open.spotify.com/artist/5NgQo5enpKJsf6ohQedD6b), [Popstick](https://open.spotify.com/artist/0YHn2QD40pApgOmlunIrrV), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43), [Jude & Frank](https://open.spotify.com/artist/7rUJV3QhhZJVRucw5BK09x) | [Gypsy Woman \(She's Homeless\) \[Jude & Frank Edit\]](https://open.spotify.com/album/2nKiJScypZCL1zaA3XriZA) | 3:01 | 2022-08-25 | 2022-12-09 |
 | [Hagüe](https://open.spotify.com/track/0lpy5ODb3Hk08nGa5izWb6) | [Tom & Collins](https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta) | [Hagüe](https://open.spotify.com/album/0fdy6q55zq1iYKuMkuCJfH) | 2:57 | 2022-06-23 | 2023-01-20 |
 | [HAL](https://open.spotify.com/track/3vjz2nfJ8TEcdIG6sbGVHg) | [Kölsch](https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0), [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC) | [HAL, Still So High, First Blood](https://open.spotify.com/album/1XcDRJLJS3Jvm5hiF4IXlI) | 5:45 | 2024-06-13 | 2024-10-19 |

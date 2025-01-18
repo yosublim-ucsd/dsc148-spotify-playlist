@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e sucessos do Pop Crist\u00e3o. Foto: Jos\u00e9 Jr",
-  "num_followers": 103216,
+  "num_followers": 103255,
   "original_name": "Pop Gospel",
   "owner": {
     "name": "Spotify",
@@ -571,18 +571,26 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "Dia de Festa",
-        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+        "name": "Tudo Novo",
+        "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
       },
       "artists": [
         {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+          "name": "DJ Roger Vale",
+          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
+        },
+        {
+          "name": "Duo Franco",
+          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
+        },
+        {
+          "name": "Thaiane Seghetto",
+          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
         }
       ],
-      "duration_ms": 298213,
-      "name": "Dia de Festa",
-      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
+      "duration_ms": 185901,
+      "name": "Tudo Novo",
+      "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -611,30 +619,6 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "Tudo Novo",
-        "url": "https://open.spotify.com/album/51e8mw5vBRkEqljx5DUkZN"
-      },
-      "artists": [
-        {
-          "name": "DJ Roger Vale",
-          "url": "https://open.spotify.com/artist/07YSzRpBPsuBZ1ZR9RrVqo"
-        },
-        {
-          "name": "Duo Franco",
-          "url": "https://open.spotify.com/artist/0rnMMhoMmFkyFZe4dNY29b"
-        },
-        {
-          "name": "Thaiane Seghetto",
-          "url": "https://open.spotify.com/artist/3NTei7B7tmvJh8ZC8GdcDG"
-        }
-      ],
-      "duration_ms": 185901,
-      "name": "Tudo Novo",
-      "url": "https://open.spotify.com/track/4DTSBQsKzEaP99gq0G77ra"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
         "name": "A Melhor Hist\u00f3ria",
         "url": "https://open.spotify.com/album/2AiV9qnqvjsixneFgqPT9b"
       },
@@ -655,6 +639,22 @@
       "duration_ms": 230727,
       "name": "A Melhor Hist\u00f3ria",
       "url": "https://open.spotify.com/track/6frTdCdn2iCcmOqcYZggTr"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
+        "name": "Dia de Festa",
+        "url": "https://open.spotify.com/album/7knyVqeyA7t2dcizeOPQhs"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        }
+      ],
+      "duration_ms": 298213,
+      "name": "Dia de Festa",
+      "url": "https://open.spotify.com/track/0Noo39tE71YM0x48nxAVzi"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -711,26 +711,6 @@
       "duration_ms": 245744,
       "name": "SOCORRO",
       "url": "https://open.spotify.com/track/5M2v0sO51o9nbXzsCqVt9D"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
-        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
-        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
-      },
-      "artists": [
-        {
-          "name": "Paulo Cesar Baruk",
-          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
-        },
-        {
-          "name": "Alexandre Magnani",
-          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
-        }
-      ],
-      "duration_ms": 238826,
-      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
-      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -807,26 +787,6 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "Alegria (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
-      },
-      "artists": [
-        {
-          "name": "Preto no Branco",
-          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
-        },
-        {
-          "name": "Silas Sim\u00f5es",
-          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
-        }
-      ],
-      "duration_ms": 298703,
-      "name": "Alegria - Ao Vivo",
-      "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
         "name": "Corre",
         "url": "https://open.spotify.com/album/0TC9002kYM2Hd6wo7UaxKZ"
       },
@@ -847,6 +807,26 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
+        "name": "Deus \u00c9 Bom (Ao Vivo Em Lisboa)",
+        "url": "https://open.spotify.com/album/5DRGybcYnJ5pGlj3hGoDew"
+      },
+      "artists": [
+        {
+          "name": "Paulo Cesar Baruk",
+          "url": "https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD"
+        },
+        {
+          "name": "Alexandre Magnani",
+          "url": "https://open.spotify.com/artist/6mTGdkHV5pKO7VHGMuiKGu"
+        }
+      ],
+      "duration_ms": 238826,
+      "name": "Deus \u00c9 Bom - Ao Vivo Em Lisboa",
+      "url": "https://open.spotify.com/track/1F4oaBBPlKXYHtzsjByp6s"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
         "name": "Desacreditar Jamais (Ao Vivo)",
         "url": "https://open.spotify.com/album/4nc06VDidz51hnkBaXPRCq"
       },
@@ -859,6 +839,42 @@
       "duration_ms": 225068,
       "name": "Desacreditar Jamais - Ao Vivo",
       "url": "https://open.spotify.com/track/5cjWYZuXWQZG08nOHUaqLp"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
+        "name": "Alegria (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1CXsC4dmG2M0DOc4UNpb1p"
+      },
+      "artists": [
+        {
+          "name": "Preto no Branco",
+          "url": "https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom"
+        },
+        {
+          "name": "Silas Sim\u00f5es",
+          "url": "https://open.spotify.com/artist/0o1MH6PBeBMiZOcbxsNj8r"
+        }
+      ],
+      "duration_ms": 298703,
+      "name": "Alegria - Ao Vivo",
+      "url": "https://open.spotify.com/track/7E9xAVx1ARZm0eLVPwP2sx"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
+        "name": "Pai Nosso",
+        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
+      },
+      "artists": [
+        {
+          "name": "Welcson",
+          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
+        }
+      ],
+      "duration_ms": 261200,
+      "name": "Pai Nosso - Our Father",
+      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -879,22 +895,6 @@
       "duration_ms": 262019,
       "name": "Reconstituir",
       "url": "https://open.spotify.com/track/3IZL1m4OR2XuljkOJrJPji"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
-        "name": "Pai Nosso",
-        "url": "https://open.spotify.com/album/2CunA6PC2Oxb5fRjaX4Kcl"
-      },
-      "artists": [
-        {
-          "name": "Welcson",
-          "url": "https://open.spotify.com/artist/24KBFgKuNtKpvYdxm5CAqN"
-        }
-      ],
-      "duration_ms": 261200,
-      "name": "Pai Nosso - Our Father",
-      "url": "https://open.spotify.com/track/5UcxW6kkmh1wkhkxFRzqOp"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "At\u00e9 Sermos Um",
-        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 178446,
-      "name": "At\u00e9 Sermos Um",
-      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
         "name": "Neste Lugar",
         "url": "https://open.spotify.com/album/5pIGdmHVVKLTNIZ6pCAyA0"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 314622,
       "name": "Neste Lugar",
       "url": "https://open.spotify.com/track/64rFHVKbXxm2xzFbkjIZ6d"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
+        "name": "At\u00e9 Sermos Um",
+        "url": "https://open.spotify.com/album/24PZIfsN50tPldnbkdBnlG"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 178446,
+      "name": "At\u00e9 Sermos Um",
+      "url": "https://open.spotify.com/track/4zlRBI3oN4CcqjS0LJnn41"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
+        "name": "Escrevi (Legado)",
+        "url": "https://open.spotify.com/album/3pxFY4lbNOhjMTTsqv4LwL"
+      },
+      "artists": [
+        {
+          "name": "Novo Som",
+          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
+        }
+      ],
+      "duration_ms": 245019,
+      "name": "Escrevi (Legado)",
+      "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
         "name": "Esque\u00e7o At\u00e9 o Tempo",
         "url": "https://open.spotify.com/album/5IpzcMpWNDaLiLylbnS3XV"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 160050,
       "name": "Esque\u00e7o At\u00e9 o Tempo",
       "url": "https://open.spotify.com/track/1hLQBVG5zm1VuMEDtgN2lN"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
-        "name": "Escrevi (Legado)",
-        "url": "https://open.spotify.com/album/3pxFY4lbNOhjMTTsqv4LwL"
-      },
-      "artists": [
-        {
-          "name": "Novo Som",
-          "url": "https://open.spotify.com/artist/5Ndy97bmXPTeg8Cer60Rtl"
-        }
-      ],
-      "duration_ms": 245019,
-      "name": "Escrevi (Legado)",
-      "url": "https://open.spotify.com/track/5PbMhRZgOKvlJjDOIytCup"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
+        "name": "Me Chamar de Filho",
+        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
+      },
+      "artists": [
+        {
+          "name": "Ana Canhoto",
+          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
+        }
+      ],
+      "duration_ms": 187565,
+      "name": "Me Chamar de Filho",
+      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
         "name": "Teu Calor",
         "url": "https://open.spotify.com/album/3vPE8PhgjRTYSJATjYDRNm"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 224000,
       "name": "Teu Calor",
       "url": "https://open.spotify.com/track/4VCJzN8CnPPyRtzfYaWtIT"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
-        "name": "Me Chamar de Filho",
-        "url": "https://open.spotify.com/album/59m8L5x58ZYO2j2pimCJrM"
-      },
-      "artists": [
-        {
-          "name": "Ana Canhoto",
-          "url": "https://open.spotify.com/artist/3DhF2mhTVqQtTIwUk9wn6y"
-        }
-      ],
-      "duration_ms": 187565,
-      "name": "Me Chamar de Filho",
-      "url": "https://open.spotify.com/track/6wJEeDU8gqDrX4yw2ggmo0"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -1291,10 +1291,14 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "Seu Amor",
-        "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
+        "name": "Amor Perfeito",
+        "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
       },
       "artists": [
+        {
+          "name": "Gui Hazel",
+          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
+        },
         {
           "name": "Jana Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
@@ -1308,9 +1312,9 @@
           "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 166530,
-      "name": "Seu Amor",
-      "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
+      "duration_ms": 155789,
+      "name": "Amor Perfeito",
+      "url": "https://open.spotify.com/track/0obHBNT5xglQUlQxfMElRx"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -1347,14 +1351,10 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "Amor Perfeito",
-        "url": "https://open.spotify.com/album/5hMUO0OGBZZ2JB25RwMmWK"
+        "name": "Seu Amor",
+        "url": "https://open.spotify.com/album/6LcTSFHZhMgI4qcfcVoRLs"
       },
       "artists": [
-        {
-          "name": "Gui Hazel",
-          "url": "https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP"
-        },
         {
           "name": "Jana Vit\u00f3ria",
           "url": "https://open.spotify.com/artist/3iOSS7l3Np373ttFNtDwEb"
@@ -1368,9 +1368,9 @@
           "url": "https://open.spotify.com/artist/64DTkZLH6KkkMwZEEZ5VWC"
         }
       ],
-      "duration_ms": 155789,
-      "name": "Amor Perfeito",
-      "url": "https://open.spotify.com/track/0obHBNT5xglQUlQxfMElRx"
+      "duration_ms": 166530,
+      "name": "Seu Amor",
+      "url": "https://open.spotify.com/track/0v0lWoA3TVcsPYkHNP388C"
     },
     {
       "added_at": "2025-01-10 03:01:03",

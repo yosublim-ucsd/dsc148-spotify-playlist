@@ -1,15 +1,35 @@
 {
-  "description": "The wave of Latin Electronic music. Cover: Gordo & Emilia ",
-  "num_followers": 1935985,
+  "description": "The wave of Latin Electronic music. Cover: Be\u00e9le,  Cobuz & Bustta",
+  "num_followers": 1935926,
   "original_name": "mint Latin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1yOxAAAAADkyoOxv7fFOwF7xOwl91wX",
+  "snapshot_id": "Z4nj7AAAAADNIVhpX9STy0Bfbmi3Jna2",
   "tracks": [
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "Una Noche M\u00e1s",
+        "url": "https://open.spotify.com/album/5pmu24zVnh7HyBh1TGsaep"
+      },
+      "artists": [
+        {
+          "name": "Cobuz & Bustta",
+          "url": "https://open.spotify.com/artist/3m7M07iLR1ragTqZ1Wm1NX"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "duration_ms": 161951,
+      "name": "Una Noche M\u00e1s",
+      "url": "https://open.spotify.com/track/0hm6AjreMiuTmSVHA2yxQL"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "NO HAY VERANO SIN GORDO",
         "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
@@ -20,36 +40,16 @@
           "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
         },
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
         }
       ],
-      "duration_ms": 157500,
-      "name": "Olvidarte (feat. Emilia)",
-      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+      "duration_ms": 123692,
+      "name": "Wet (feat. Bad Gyal)",
+      "url": "https://open.spotify.com/track/2Orogrk4RD8N4WlJ55nn5z"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
-      "album": {
-        "name": "Corridos y Alcohol",
-        "url": "https://open.spotify.com/album/1r88sJglhILi4IUamnCufn"
-      },
-      "artists": [
-        {
-          "name": "Steve Aoki",
-          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
-        },
-        {
-          "name": "Oscar Maydon",
-          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
-        }
-      ],
-      "duration_ms": 171096,
-      "name": "Corridos y Alcohol",
-      "url": "https://open.spotify.com/track/0rM42t81JYJ3N6FOmD9gTQ"
-    },
-    {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "SOFIA",
         "url": "https://open.spotify.com/album/4wFXQxAGXu7y52v6AGkgxo"
@@ -73,7 +73,187 @@
       "url": "https://open.spotify.com/track/7oOk8wOR0sBcbEL93kNoBU"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "MiDNiGHT",
+        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
+      },
+      "artists": [
+        {
+          "name": "DannyLux",
+          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
+        }
+      ],
+      "duration_ms": 186595,
+      "name": "MiDNiGHT",
+      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "Corridos y Alcohol",
+        "url": "https://open.spotify.com/album/1r88sJglhILi4IUamnCufn"
+      },
+      "artists": [
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        },
+        {
+          "name": "Oscar Maydon",
+          "url": "https://open.spotify.com/artist/3l9G1G9MxH6DaRhwLklaf5"
+        }
+      ],
+      "duration_ms": 171096,
+      "name": "Corridos y Alcohol",
+      "url": "https://open.spotify.com/track/0rM42t81JYJ3N6FOmD9gTQ"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Emilia",
+          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
+        }
+      ],
+      "duration_ms": 157500,
+      "name": "Olvidarte (feat. Emilia)",
+      "url": "https://open.spotify.com/track/39KyQTzp1dr7jab7et2PlH"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "ELLA QUIERE TECHNO",
+        "url": "https://open.spotify.com/album/1epUliWrbqCZbbaVorlTRu"
+      },
+      "artists": [
+        {
+          "name": "Imanbek",
+          "url": "https://open.spotify.com/artist/5rGrDvrLOV2VV8SCFVGWlj"
+        },
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 137769,
+      "name": "ELLA QUIERE TECHNO",
+      "url": "https://open.spotify.com/track/1t36kr1G5VQfyYGMpqUb2R"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "Una Velita",
+        "url": "https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL"
+      },
+      "artists": [
+        {
+          "name": "Ti\u00ebsto",
+          "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Una Velita",
+      "url": "https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "NO HAY VERANO SIN GORDO",
+        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
+      },
+      "artists": [
+        {
+          "name": "Gordo",
+          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
+        },
+        {
+          "name": "Junkie Kid",
+          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 220131,
+      "name": "Outside (feat. Eladio Carrion)",
+      "url": "https://open.spotify.com/track/56LRkFZsRR5qDpiDm5mek2"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+        "url": "https://open.spotify.com/album/4dYtSX7swBIrNsBSWWLpVa"
+      },
+      "artists": [
+        {
+          "name": "Dan Sanchez",
+          "url": "https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG"
+        },
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Yay",
+          "url": "https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l"
+        }
+      ],
+      "duration_ms": 182584,
+      "name": "LA PERLA (V. ELECTRO-CORRIDO)",
+      "url": "https://open.spotify.com/track/6uyiI0rLWiYc2DkG0USL4s"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "Ven Dame",
+        "url": "https://open.spotify.com/album/2ljIXyndbD1sjE9qgz38AV"
+      },
+      "artists": [
+        {
+          "name": "Les Castizos",
+          "url": "https://open.spotify.com/artist/5o7bOfP4102PystoDMEo0M"
+        }
+      ],
+      "duration_ms": 196190,
+      "name": "Ven Dame",
+      "url": "https://open.spotify.com/track/0Z3X177LbWULaTcJnN81Qw"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "Orion (Sistek Remix)",
+        "url": "https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA"
+      },
+      "artists": [
+        {
+          "name": "Boza",
+          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
+        },
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        },
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        }
+      ],
+      "duration_ms": 281433,
+      "name": "Orion - Sistek Remix",
+      "url": "https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI"
+    },
+    {
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Fiesta En La Ciudad (feat. KRZ & Diana Landa)",
         "url": "https://open.spotify.com/album/4iem4izhogumCHM1HWwhjG"
@@ -105,71 +285,7 @@
       "url": "https://open.spotify.com/track/1Gu7K4GKdUdfkVewxeKHhl"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
-      "album": {
-        "name": "NO HAY VERANO SIN GORDO",
-        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Junkie Kid",
-          "url": "https://open.spotify.com/artist/3CjPghA9sowRwFGSrU038J"
-        },
-        {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
-        }
-      ],
-      "duration_ms": 220131,
-      "name": "Outside (feat. Eladio Carrion)",
-      "url": "https://open.spotify.com/track/56LRkFZsRR5qDpiDm5mek2"
-    },
-    {
-      "added_at": "2024-12-13 19:45:07",
-      "album": {
-        "name": "MiDNiGHT",
-        "url": "https://open.spotify.com/album/6rHbnk2tsW8nVVqM6vIhxy"
-      },
-      "artists": [
-        {
-          "name": "DannyLux",
-          "url": "https://open.spotify.com/artist/6ElqtIfQsAkEYypgfJIjeK"
-        }
-      ],
-      "duration_ms": 186595,
-      "name": "MiDNiGHT",
-      "url": "https://open.spotify.com/track/63hryqFlfnTheZeeueei2E"
-    },
-    {
-      "added_at": "2024-12-13 19:45:07",
-      "album": {
-        "name": "Orion (Sistek Remix)",
-        "url": "https://open.spotify.com/album/2BCnxN9BmS2BSPhaop2CJA"
-      },
-      "artists": [
-        {
-          "name": "Boza",
-          "url": "https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso"
-        },
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        },
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        }
-      ],
-      "duration_ms": 281433,
-      "name": "Orion - Sistek Remix",
-      "url": "https://open.spotify.com/track/7v0mEMXTjjyUyfI2bQlDkI"
-    },
-    {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
         "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
@@ -189,27 +305,7 @@
       "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
-      "album": {
-        "name": "NO HAY VERANO SIN GORDO",
-        "url": "https://open.spotify.com/album/0SXbX6oObgnZs6JquWEz0P"
-      },
-      "artists": [
-        {
-          "name": "Gordo",
-          "url": "https://open.spotify.com/artist/4Ge9GwmWnOQsohwPTrXyHc"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
-        }
-      ],
-      "duration_ms": 123692,
-      "name": "Wet (feat. Bad Gyal)",
-      "url": "https://open.spotify.com/track/2Orogrk4RD8N4WlJ55nn5z"
-    },
-    {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Teka (with Peso Pluma)",
         "url": "https://open.spotify.com/album/4MGpOqMU3FlZ7li35laoBu"
@@ -229,7 +325,7 @@
       "url": "https://open.spotify.com/track/555maXFEF9m0lE4UGRzCHk"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Fria (Felix Jaehn Remix)",
         "url": "https://open.spotify.com/album/71PHfxas0RxjsP7REVxbQa"
@@ -249,7 +345,7 @@
       "url": "https://open.spotify.com/track/44CPdSxbOvhrmvt8O3cVJk"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "PERO NO TE ENAMORES",
         "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
@@ -269,7 +365,7 @@
       "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Back To Black",
         "url": "https://open.spotify.com/album/26ZkYpbnAPNUIshWHwHiVS"
@@ -289,7 +385,7 @@
       "url": "https://open.spotify.com/track/75jUh4fjG6ECXnVhC1lNE5"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Perra Melanc\u00f3lica",
         "url": "https://open.spotify.com/album/6C8qex5HWCDbEWKt5wcZZ1"
@@ -309,7 +405,7 @@
       "url": "https://open.spotify.com/track/5xNQWOdsYfgukMO65Eiwwb"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "DIAMANTE",
         "url": "https://open.spotify.com/album/6KoGMkF6Fp3W9C339E5eVx"
@@ -329,7 +425,7 @@
       "url": "https://open.spotify.com/track/1oe4qSlEZIObCbvRE05Stg"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Ahora M\u00e1s Cerca",
         "url": "https://open.spotify.com/album/5AQryScEI2dHueokHgzZ7h"
@@ -345,7 +441,7 @@
       "url": "https://open.spotify.com/track/1ivlQ8csQQjPjssfqujbdF"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "D\u00c1MELO",
         "url": "https://open.spotify.com/album/7uINYMMIVSS12ySiJdJxRl"
@@ -365,7 +461,7 @@
       "url": "https://open.spotify.com/track/3D181wlMmabLEbWL8tIn4s"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "El Rat\u00f3n (Jay Fase Remix)",
         "url": "https://open.spotify.com/album/3muZg2JpmuzGPr0Smtsg2k"
@@ -389,7 +485,7 @@
       "url": "https://open.spotify.com/track/3vkmRV8jk6OxcDWiyFBHug"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "SOLTERA",
         "url": "https://open.spotify.com/album/2U0L1nCCSV5HUfsCzaI1RQ"
@@ -409,7 +505,7 @@
       "url": "https://open.spotify.com/track/3tSCKN736ypIH1HrTwi7rL"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Como La Flor",
         "url": "https://open.spotify.com/album/5O60OvFCNM7VOq5tiZwWyB"
@@ -433,7 +529,7 @@
       "url": "https://open.spotify.com/track/2rtNhMuH01qb1riJvC6wJR"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Plata",
         "url": "https://open.spotify.com/album/1SqNO6d7TJI3R4hlUhc40J"
@@ -453,7 +549,7 @@
       "url": "https://open.spotify.com/track/5sxvPLgO5OfHvRi8ZU3BM0"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Cuando Fue (feat. Jay Wheeler)",
         "url": "https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6"
@@ -477,7 +573,7 @@
       "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Me Caes Muy Bien",
         "url": "https://open.spotify.com/album/4AYdIA4uoXMxyTfJkdxjSH"
@@ -493,7 +589,7 @@
       "url": "https://open.spotify.com/track/6kTCDfKw1X01COdmKM89v0"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Preseo Perreo (Afro House)",
         "url": "https://open.spotify.com/album/58yJNWzNW0qUex9bSN3Az2"
@@ -513,7 +609,7 @@
       "url": "https://open.spotify.com/track/2aPFAY4ppBGUt4XNeRcp7T"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "NO PUEDO VIVIR SIN TI",
         "url": "https://open.spotify.com/album/3mxNF7d6aphldzMljEu3DD"
@@ -529,7 +625,7 @@
       "url": "https://open.spotify.com/track/3LFmTL2Pe8DTl4kwGGVdGV"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Fuego",
         "url": "https://open.spotify.com/album/1rfXepPH3SdaJ5HxNloRkR"
@@ -545,7 +641,7 @@
       "url": "https://open.spotify.com/track/2LyEzzKsYKQ0V04SW1ibP3"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Las Gatas (feat. Jory Boy & The Good Son)",
         "url": "https://open.spotify.com/album/4plKxzj6CfQNPlDDfBTkfn"
@@ -569,7 +665,7 @@
       "url": "https://open.spotify.com/track/5Y273bqlD01aozcKujkLIZ"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "En El Underground",
         "url": "https://open.spotify.com/album/56Nz5mTZYGBFEEKmOmbPnN"
@@ -585,7 +681,7 @@
       "url": "https://open.spotify.com/track/2MBgN5g6WuGlNGkzF4Dr6V"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "LIV - Spotify Singles",
         "url": "https://open.spotify.com/album/7kNCZQ07q2BzzdIJXE6IcM"
@@ -605,7 +701,7 @@
       "url": "https://open.spotify.com/track/0PhHUQkJi6qwFBItoywCiI"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "EL CAGAZON",
         "url": "https://open.spotify.com/album/3ZA75E7Yu0mbKMtEQiWjMz"
@@ -625,7 +721,7 @@
       "url": "https://open.spotify.com/track/5yrz6gKRUXeM8pqPDwVdF0"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "TURBINA",
         "url": "https://open.spotify.com/album/3L8jy2X8qNlS1AIYQyAAsn"
@@ -645,7 +741,7 @@
       "url": "https://open.spotify.com/track/0rzvrAIOOLq1BlOfmfluY3"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "TABLA",
         "url": "https://open.spotify.com/album/15E0lX6pHvCz8WIyZRZ6MR"
@@ -669,7 +765,7 @@
       "url": "https://open.spotify.com/track/0jpqvB6Up1DTAD3XSfaBUu"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "DURO",
         "url": "https://open.spotify.com/album/7s3uEJa4VwAiij9v3N0DMW"
@@ -693,7 +789,7 @@
       "url": "https://open.spotify.com/track/7D2pw1k24KdVVRkD2RzXoV"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Noche Y Dia",
         "url": "https://open.spotify.com/album/7f8GZCsm9oouiSvTKrYtxs"
@@ -713,7 +809,7 @@
       "url": "https://open.spotify.com/track/0wxPlfCVEGPBgqxwziRwJa"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "PINK",
         "url": "https://open.spotify.com/album/07ZVt89JXh0m1h8pCGYQgo"
@@ -737,7 +833,7 @@
       "url": "https://open.spotify.com/track/5JIywJ2IgYvFVNk8cU3CyA"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Quiero Fiesta (feat. Boy Wonder CF, Three Seven Music, The Chosen Few)",
         "url": "https://open.spotify.com/album/7xFN7ma6s9g2SfkaXnyV4R"
@@ -773,7 +869,7 @@
       "url": "https://open.spotify.com/track/2s2VIrvLwByM1agfaPVss2"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "El 100",
         "url": "https://open.spotify.com/album/5u7FM0fN09SgCkZRh7vNin"
@@ -793,7 +889,7 @@
       "url": "https://open.spotify.com/track/6LSMoKokOy7XfJGkDAhDw5"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Sigo Extra\u00f1ando",
         "url": "https://open.spotify.com/album/6oAn3iZfm3nTs5ZjEwWJt4"
@@ -813,7 +909,7 @@
       "url": "https://open.spotify.com/track/14wb4WKTP1m9r5Qa1xGt4f"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Cafecito",
         "url": "https://open.spotify.com/album/22APOaVCt7C6TsWH3XB3Sl"
@@ -837,7 +933,7 @@
       "url": "https://open.spotify.com/track/0Jx0wecBc4647J4QMdmsY1"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "THE GOAT",
         "url": "https://open.spotify.com/album/3hmlgJRuR8ax8QLHvKs8Eb"
@@ -853,7 +949,7 @@
       "url": "https://open.spotify.com/track/3pqEJlyY1HOdYIq5GHB4bp"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Bagatelle",
         "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
@@ -881,7 +977,7 @@
       "url": "https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Need You",
         "url": "https://open.spotify.com/album/7oePs0HPrbFcw3aIs54Rt6"
@@ -897,7 +993,7 @@
       "url": "https://open.spotify.com/track/1NZWAeNc6AuG3utnJgy4gx"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "LA FALDA (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/6nkUCUZ4vT2z074AjCbr2s"
@@ -917,7 +1013,7 @@
       "url": "https://open.spotify.com/track/3mnH4IGAoxIh5sRY8N8NS0"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "PE$O",
         "url": "https://open.spotify.com/album/2XoyikKhNxe9XLRloDLRC7"
@@ -941,43 +1037,7 @@
       "url": "https://open.spotify.com/track/5o0r8QqEH6AR5OOrBVrKxr"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
-      "album": {
-        "name": "Pusilinda",
-        "url": "https://open.spotify.com/album/3EuOv81O9nJxOPrCTxkFjE"
-      },
-      "artists": [
-        {
-          "name": "Guaynaa",
-          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
-        },
-        {
-          "name": "Play-N-Skillz",
-          "url": "https://open.spotify.com/artist/7MP4jhYmFEgb0AtiOkw55s"
-        }
-      ],
-      "duration_ms": 179050,
-      "name": "Pusilinda",
-      "url": "https://open.spotify.com/track/1M3KKYQ3zE0XZp8qkUetTo"
-    },
-    {
-      "added_at": "2024-12-13 19:45:07",
-      "album": {
-        "name": "Bella",
-        "url": "https://open.spotify.com/album/5Hef5rVWnh3nNzYODt0xks"
-      },
-      "artists": [
-        {
-          "name": "RAYBEN",
-          "url": "https://open.spotify.com/artist/2HnEFMmaUbmt0RTCiTxk47"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "Bella",
-      "url": "https://open.spotify.com/track/5wUy2O6MboPWHvIgkMuaNN"
-    },
-    {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "CHILDSTAR",
         "url": "https://open.spotify.com/album/7HgMhV3EUrhCvEWgwNzdYH"
@@ -997,31 +1057,7 @@
       "url": "https://open.spotify.com/track/4x28h5orMbnVYOaGCjXMhN"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
-      "album": {
-        "name": "PPP",
-        "url": "https://open.spotify.com/album/75iFgRPgqvNwqm6kgqsBtr"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        },
-        {
-          "name": "Deorro",
-          "url": "https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR"
-        },
-        {
-          "name": "Skrapy",
-          "url": "https://open.spotify.com/artist/3exJEpEoygFnfUyVen7QSP"
-        }
-      ],
-      "duration_ms": 188225,
-      "name": "PPP",
-      "url": "https://open.spotify.com/track/1zNobOaHvQIFzYpGb3VBR9"
-    },
-    {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Parcera",
         "url": "https://open.spotify.com/album/1zli9BhqCmdNUeLXd2JFQm"
@@ -1041,23 +1077,7 @@
       "url": "https://open.spotify.com/track/56oomeTRgamzypt6iObrvA"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
-      "album": {
-        "name": "Cola Rica",
-        "url": "https://open.spotify.com/album/5BLmqnEbyP9Zq89GFXIuPV"
-      },
-      "artists": [
-        {
-          "name": "Sak Noel",
-          "url": "https://open.spotify.com/artist/15jrieCvf3EklAScnD9kKl"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Cola Rica",
-      "url": "https://open.spotify.com/track/7AVinM4LHRWK3Y5aeivVhi"
-    },
-    {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "fit mami",
         "url": "https://open.spotify.com/album/2WsAeXmqIu0IOdz8DhoRmk"
@@ -1073,7 +1093,7 @@
       "url": "https://open.spotify.com/track/7IMRZR1rZHzpz6ggu6zih2"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Danza Kuduro (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/2FKAOTpsqDC8AgutOaIl5g"
@@ -1097,7 +1117,7 @@
       "url": "https://open.spotify.com/track/64tld7huCbqobyTfV5oBZR"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "To The Beat",
         "url": "https://open.spotify.com/album/6ICIY47SvWgH6mOhtgY5au"
@@ -1133,7 +1153,7 @@
       "url": "https://open.spotify.com/track/4y9tKMhrx5uepqljKj7wq9"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Vocation",
         "url": "https://open.spotify.com/album/2wxhtvRbDXBBHnGXQ8HCqa"
@@ -1153,7 +1173,7 @@
       "url": "https://open.spotify.com/track/70xKqgJOnicN4OsIB6hOXU"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Patadas de Ahogado / LAT\u00cdN MAFIA, HUMBE (Rework)",
         "url": "https://open.spotify.com/album/4XNpw8KZFcml3E0wz4ZyYx"
@@ -1169,7 +1189,7 @@
       "url": "https://open.spotify.com/track/14S2VMZRhekYGluotZ4pqg"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "MA\u00d1ANA SER\u00c1 BONITO (BICHOTA SEASON)",
         "url": "https://open.spotify.com/album/0FqAaUEyKCyUNFE1uQPZ7i"
@@ -1189,7 +1209,7 @@
       "url": "https://open.spotify.com/track/7xHNDiHAqzjIKKeR8f5vhH"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "La Diabla (Electro Remix)",
         "url": "https://open.spotify.com/album/0Sf5WOcZk8n9NIgp2LmrKa"
@@ -1205,7 +1225,7 @@
       "url": "https://open.spotify.com/track/6ZZ4I66vS4x4arMNwBht2m"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "La Bebe (David Guetta Remix)",
         "url": "https://open.spotify.com/album/1BFVfHT9ScguUQTXT4ef63"
@@ -1229,7 +1249,7 @@
       "url": "https://open.spotify.com/track/2OOmObvtYKotf1WwcqRwe4"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Pa las Baby's Y Belikeada",
         "url": "https://open.spotify.com/album/3zu0hJJew2qXZNlselIQk8"
@@ -1249,7 +1269,7 @@
       "url": "https://open.spotify.com/track/6CvTEtGagmzQvkUzzyKR9k"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Pepas (Ti\u00ebsto Remix)",
         "url": "https://open.spotify.com/album/5Auj1vFNdvZDtyV0rqfVIQ"
@@ -1269,7 +1289,7 @@
       "url": "https://open.spotify.com/track/1bFgMkoazsyZGSflpCzYm6"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Trackhouse",
         "url": "https://open.spotify.com/album/1l86t4bTNT2j1X0ZBCIv6R"
@@ -1289,7 +1309,7 @@
       "url": "https://open.spotify.com/track/6ZTTj1y8kEtADL3nMHoV4a"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "No Le Doy Luz",
         "url": "https://open.spotify.com/album/7j6CPNOLT28RPKOjKuZl43"
@@ -1313,7 +1333,7 @@
       "url": "https://open.spotify.com/track/3Y3lh7Urn7VLV3y7pgaaQm"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Pega",
         "url": "https://open.spotify.com/album/167hCxWi15k96f2XJfqGPM"
@@ -1337,7 +1357,7 @@
       "url": "https://open.spotify.com/track/1kYlz5hWpg8Okxcg5nzS2A"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Mr.Pig",
         "url": "https://open.spotify.com/album/6kiD6iS7MAcG9MjCpmUfUa"
@@ -1353,7 +1373,7 @@
       "url": "https://open.spotify.com/track/5mkhP5I8alKIYytxsuhYNr"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "ALVRGZO",
         "url": "https://open.spotify.com/album/6ZbXdOGGsxEqOWM0WFOaF5"
@@ -1377,7 +1397,7 @@
       "url": "https://open.spotify.com/track/4DnhYGcizQepwr7vvvntih"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Marianela (Que Pasa)",
         "url": "https://open.spotify.com/album/5As1VmPUMn4HIgYSbFD6l0"
@@ -1401,7 +1421,7 @@
       "url": "https://open.spotify.com/track/5bZjb7xKqLqa58QiUBcVvl"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Pasa_je_ro (J. Cross Remix)",
         "url": "https://open.spotify.com/album/4dbEfyoiIFfVQMwuDkzYX2"
@@ -1421,7 +1441,7 @@
       "url": "https://open.spotify.com/track/6ukkR8zXQO06ohLyuPEQd9"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "BEACHY (Play-N-Skillz House Remix)",
         "url": "https://open.spotify.com/album/3uLcK52pbcbW74QQZseCYv"
@@ -1445,7 +1465,7 @@
       "url": "https://open.spotify.com/track/73DBgvxxWCJxgwqhlBK4pa"
     },
     {
-      "added_at": "2024-12-13 19:45:07",
+      "added_at": "2025-01-17 05:00:28",
       "album": {
         "name": "Hueso",
         "url": "https://open.spotify.com/album/3slBqlYuBO49cney0hb3hk"

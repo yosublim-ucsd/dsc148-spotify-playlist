@@ -2,9 +2,9 @@
 
 ### [mint South Africa](https://open.spotify.com/playlist/37i9dQZF1DWX4IFcj5utrY)
 
-> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6lbUCWVW3hgQgrJwB8wadJ"> Nitefreak </a>
+> The best dance hits in South Africa and across the globe\. Cover: <a href="https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX?si=DqPU7Xy6TDSGYKMTtwqUmQ"> Oscar Mbo</a>
 
-1,134 songs - 4 day 5 hr 37 min
+1,135 songs - 4 day 5 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -600,7 +600,7 @@
 | [Lutar \- Chronical Deep Clap Back](https://open.spotify.com/track/3O1VFIfue3HJskTTPUou7g) | [Hypaphonik](https://open.spotify.com/artist/6UL6IL0VVbVeCtvcemX7Io), [Kali Mija](https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP), [Offkey](https://open.spotify.com/artist/6ufQp4V8xUqJphvbke0j97) | [Lutar](https://open.spotify.com/album/5bKM4dE8NKTYCg6bvWTYAl) | 7:22 | 2022-01-20 | 2022-02-11 |
 | [Mabebuza](https://open.spotify.com/track/3HPgwat1jJCtrbtDZYMUVL) | [Maline Aura](https://open.spotify.com/artist/1LcX3ZFNBeGKxkpfCIr4cP), [Drega](https://open.spotify.com/artist/1Gj6W2RfGpl6ebJGle93VG) | [Mabebuza](https://open.spotify.com/album/5MwJllAjpaGazBZfP8CtCd) | 5:02 | 2022-09-22 | 2022-11-18 |
 | [Mabele](https://open.spotify.com/track/4YupfisjrO7n5pz2mk55pS) | [Tswex Malabola](https://open.spotify.com/artist/6cTBXiyGb4MACMv1WjgLKs) | [The Border Lands](https://open.spotify.com/album/53fLCJiZxbwAV9WYfEYXZZ) | 6:40 | 2021-12-29 | 2022-01-21 |
-| [Magic](https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [Aubs](https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3), [Kabomo](https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f) | [Mmino Wa Batho](https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ) | 5:54 | 2024-10-24 |  |
+| [Magic](https://open.spotify.com/track/3HjYj3NtP9nO539UA4KTXB) | [Miza](https://open.spotify.com/artist/3mBVublR1nZUbjtVTMqeJ1), [Aubs](https://open.spotify.com/artist/7xFMyWEhRwAXmnhr6dMVm3), [Kabomo](https://open.spotify.com/artist/3OcUY8YTn6uDmMyCzKw18f) | [Mmino Wa Batho](https://open.spotify.com/album/3NMGKlR1F7LrS3cF8U3sGJ) | 5:54 | 2024-10-24 | 2025-01-18 |
 | [Magic](https://open.spotify.com/track/2aqkBEgu7YH5uhcSDB6bbA) | [Rhey Osborne](https://open.spotify.com/artist/5emPE752O8nTusYcDzuoiC), [kALEGO](https://open.spotify.com/artist/6XIDZAHJj0vDbVZ6zHz3dw) | [Magic](https://open.spotify.com/album/15P7HxkFENVU3cmrX7k9kI) | 5:53 | 2022-08-18 | 2022-09-30 |
 | [Maji Matamu \- Main HT](https://open.spotify.com/track/0r3lYlCsW31s7rWcWxBY7X) | [HyperSOUL\-X](https://open.spotify.com/artist/5dUiC3SlfbKnbLW7hXq4Os) | [Maji Matamu \(Main HT\)](https://open.spotify.com/album/0K3KmKQOJBMRDzLfc6koBI) | 5:43 | 2022-05-05 | 2022-06-18 |
 | [Make Up Your Mind](https://open.spotify.com/track/2yIXVCaIrvVL6TSamoMdVR) | [Chronical Deep](https://open.spotify.com/artist/391IHvSC8S9yNnt3VHZUYt) | [Stay True Sounds Vol.4 Compiled By Kid Fonque](https://open.spotify.com/album/5K19EXUx0mNTfKPc7Zo5AK) | 7:46 | 2022-04-28 | 2022-09-10 |
@@ -1061,6 +1061,7 @@
 | [Voices in the Dark](https://open.spotify.com/track/1ez59pHOwUvt4akUeVJ8f4) | [Master A](https://open.spotify.com/artist/2rF7w74yNMrFXlu8hChz1W) | [2 the Floor](https://open.spotify.com/album/79gStCbGf3q4PbpRJtEHWv) | 6:27 | 2022-03-10 | 2022-03-18 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-09-21 | 2023-11-17 |
 | [Vormir](https://open.spotify.com/track/1nYxF2nufCc8iGe0YYVnSz) | [Wodash Stogh](https://open.spotify.com/artist/3StaDgLQW9Db7KNwMmZbhI) | [Vormir](https://open.spotify.com/album/2DxnP6B7SZERgp6iycP7Hd) | 6:17 | 2022-02-10 | 2022-02-18 |
+| [Vuka \(feat\. Thukuthela\)](https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief) | [Oscar Mbo](https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX), [Jazzworx](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [Vuka \(feat\. Thukuthela\)](https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE) | 5:27 | 2025-01-17 |  |
 | [Vulnerable](https://open.spotify.com/track/17IEdpDXGZdtrJxjTWoZIL) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Vanessa Campagna](https://open.spotify.com/artist/4a4KcYuu2DZrL8sTGyu5sM) | [Vulnerable](https://open.spotify.com/album/0DigVHhrbPjsGDzZCDJ1Tr) | 3:19 | 2023-03-09 | 2023-03-25 |
 | [Vumani](https://open.spotify.com/track/50EzgMX3uxJZ8T2IJm2U6R) | [Dr Feel](https://open.spotify.com/artist/20OBylFJKe5WtQzqO32Xxq) | [Vumani](https://open.spotify.com/album/6ebtxzQZG0o22JkfFY8t1B) | 6:17 | 2022-02-03 | 2022-04-08 |
 | [Vuvuzela](https://open.spotify.com/track/28QivzTXBahunPN2l5c00w) | [Double Drop](https://open.spotify.com/artist/1KiSpGrzs4IkIUb83atLVr) | [Vuvuzela](https://open.spotify.com/album/0P3I3gTJStIelLybEr2dUW) | 5:53 | 2022-09-22 | 2022-10-14 |

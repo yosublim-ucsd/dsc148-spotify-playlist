@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,085 likes - 129 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,172 likes - 129 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 87 | [Tujhe Kitna Chahein Aur Hum \(From "Love In Lo\-Fi Volume 1"\)](https://open.spotify.com/track/6LnKF81ya983e07tTgAFql) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Dj Chetas](https://open.spotify.com/artist/1jPeDHvfU5Knw8VyOP6TZN), [DJ Nyk](https://open.spotify.com/artist/6tTBTKIvckFAIzxeNAvnnF) | [Tujhe Kitna Chahein Aur Hum \(From "Love In Lo\-Fi Volume 1"\)](https://open.spotify.com/album/290HHvw24qTpvo7irhLjcv) | 4:12 |
 | 88 | [O Yaara \- Trosk Remix](https://open.spotify.com/track/6DI3lah2sebJfcVEYFwBQf) | [Kaavish](https://open.spotify.com/artist/6znPk9JRNmg6uyB6h8nJu3), [Trosk](https://open.spotify.com/artist/63VhQFmCaLpDaNuPWftJCN) | [O Yaara \(Trosk Remix\)](https://open.spotify.com/album/68zxgf3IDdXRR4F9bVMyqS) | 4:03 |
 | 89 | [Chal Dil Mere \- Lo\-Fi Mix](https://open.spotify.com/track/1zFdFJ5WaNy2Y1vYClfTIi) | [Ali Zafar](https://open.spotify.com/artist/3cKNppGLfcxdt9CtoHEZmQ) | [Chal Dil Mere \(Lo\-Fi Mix\)](https://open.spotify.com/album/6MsGzuZqI04z7zUNWiftxd) | 3:37 |
-| 90 | [Ek Din Teri Raahon \(Lofi Mix\)](https://open.spotify.com/track/1Y6uLf2pklzliCb8OFuxgZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7) | [Ek Din Teri Raahon \(Lofi Mix\)](https://open.spotify.com/album/5W1hY7h9HRraLrgYwcC1ZO) | 4:04 |
+| 90 | [Ek Din Teri Raahon \(Lofi Mix\)](https://open.spotify.com/track/1Y6uLf2pklzliCb8OFuxgZ) | [Javed Ali](https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7), [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Ek Din Teri Raahon \(Lofi Mix\)](https://open.spotify.com/album/5W1hY7h9HRraLrgYwcC1ZO) | 4:04 |
 | 91 | [Kabhii Tumhhe \- Lofi Flip](https://open.spotify.com/track/1Bd027R0spghop0PUwgjyN) | [VIBIE](https://open.spotify.com/artist/1btklM4yoTaKiVjLodLrOh), [Darshan Raval](https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS), [Javed\-Mohsin](https://open.spotify.com/artist/2zvJLk0gTH7r7A5Q6X5Bq8), [Bollywood Lofi](https://open.spotify.com/artist/2HxBUNEBJe2o9KRvDQSgu7) | [Kabhii Tumhhe \(Lofi Flip\)](https://open.spotify.com/album/2HKpGKHLutpacZeAKA4izG) | 3:37 |
 | 92 | [O Re Piya \- Lofi Mix](https://open.spotify.com/track/13KIV1iZ2LXabTE1v9GONW) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Jaideep Sahni](https://open.spotify.com/artist/5kPOMQZvgkAEnRZqwn9SYQ) | [O Re Piya \- Lofi Mix](https://open.spotify.com/album/6uWKNBToVidEgpXsFJ1ssx) | 3:45 |
 | 93 | [Teri Deewani \- Lofi Flip](https://open.spotify.com/track/0Bfima51LTKrxuBYjv0Qwp) | [Kailash Kher](https://open.spotify.com/artist/4oVMLzAqW6qhRpZWt8fNw4), [Deepanshu Ruhela](https://open.spotify.com/artist/5dvCHAlgZZBuYuRdSm3dQE), [Bollywood Lofi](https://open.spotify.com/artist/2HxBUNEBJe2o9KRvDQSgu7) | [Teri Deewani \(Lofi Flip\)](https://open.spotify.com/album/7slPAEKXiHSCOOQc6WhkoO) | 3:07 |

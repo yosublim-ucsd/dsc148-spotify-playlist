@@ -4,7 +4,7 @@
 
 > ¡Canciones para sonreír durante el día!
 
-183 songs - 10 hr 26 min
+184 songs - 10 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -130,6 +130,7 @@
 | [Piel Canela](https://open.spotify.com/track/7qBT9qcbtkLqrfm9LiTNB4) | [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Piel Canela](https://open.spotify.com/album/2sNKWMhg0kOHdPDlvl0w6t) | 1:42 | 2021-11-26 |  |
 | [Piel Canela](https://open.spotify.com/track/6giLMzQSzjxQ7T2kmRhlVb) | [Mi Sobrino Memo](https://open.spotify.com/artist/2ae7hwWgesyGJVI2vebofH) | [Piel Canela](https://open.spotify.com/album/4LZIwHEvfRBNmEyT9rBduh) | 3:32 | 2021-11-26 | 2022-08-03 |
 | [Plutón](https://open.spotify.com/track/0w41wEubHTq13Hh4tfRCke) | [CNCO](https://open.spotify.com/artist/0eecdvMrqBftK0M1VKhaF4), [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Plutón](https://open.spotify.com/album/6etaamYe4bL3P9MHoDcMSQ) | 2:45 | 2022-08-02 |  |
+| [Pueblo Salvaje](https://open.spotify.com/track/2YkBIlrhKqmKhxNZJLNTti) | [Manuel Carrasco](https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA) | [Pueblo Salvaje](https://open.spotify.com/album/0cLZ1oITv9JWWEANBM6Yf1) | 3:25 | 2025-01-17 |  |
 | [Querernos Bien](https://open.spotify.com/track/69kefiOj7Lk6RZa0BxriD2) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK) | [Querernos Bien](https://open.spotify.com/album/1A1bcSRZLXJBWbr9uzD8G2) | 3:03 | 2021-11-26 |  |
 | [Quiero Sentirlo Todo](https://open.spotify.com/track/7DriJx4tYq3amdFXPwy9n5) | [Arath Herce](https://open.spotify.com/artist/4ZhGmNXaVf4Ki1YJDwxvVs) | [Quiero Sentirlo Todo](https://open.spotify.com/album/3yeYZPv55qzu06w19BOhpF) | 3:40 | 2021-11-26 | 2024-03-23 |
 | [Quiero Verte Hoy](https://open.spotify.com/track/74gjbauuARjux0uNGAPmoA) | [Benjamín Walker](https://open.spotify.com/artist/4uqz8sHfvYPHlpHZYyanEK), [Vanessa Zamora](https://open.spotify.com/artist/3IZxs4ZukiitIk8vkAPAxC) | [Quiero Verte Hoy](https://open.spotify.com/album/2XIZYpCWUtQlEcMgbtSHlJ) | 3:35 | 2021-11-26 |  |
@@ -143,7 +144,7 @@
 | [Sed](https://open.spotify.com/track/6vj0K3O5jciMMNg345YWsG) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Sed](https://open.spotify.com/album/17ernAiKiNzzHxSyknI6J8) | 2:19 | 2024-11-29 |  |
 | [Sentimiento](https://open.spotify.com/track/6DTrDC4N7FMR2bThvW9RVy) | [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu) | [Sentimiento](https://open.spotify.com/album/53nvTD2BYsEqicPz4hhuQY) | 2:52 | 2022-08-02 | 2024-03-23 |
 | [Shulaguapa](https://open.spotify.com/track/5rIFFt6LclUTS5xIRnA7cR) | [Caloncho](https://open.spotify.com/artist/2z3KntXLyEF5Lvz1kpdBoA), [Gabacho](https://open.spotify.com/artist/45L7xrCulh5DcK2ueYJZKu), [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Shulaguapa](https://open.spotify.com/album/5uXS2XeWDDHbWeB3lfmTzi) | 3:07 | 2021-11-26 |  |
-| [Si Te Das la Vuelta](https://open.spotify.com/track/3ESqXAZA4pbDKWOmRnWR5U) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Si Te Das la Vuelta](https://open.spotify.com/album/4CK7pcX2ZtTYTpvW1Btc79) | 3:14 | 2021-11-26 |  |
+| [Si Te Das la Vuelta](https://open.spotify.com/track/3ESqXAZA4pbDKWOmRnWR5U) | [Los Rumberos](https://open.spotify.com/artist/05k3uSz8dyKtbllIY988Ip) | [Si Te Das la Vuelta](https://open.spotify.com/album/4CK7pcX2ZtTYTpvW1Btc79) | 3:14 | 2021-11-26 | 2025-01-18 |
 | [Smile](https://open.spotify.com/track/3DXdjHnePKnh6oXw2ZgGSl) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Smile](https://open.spotify.com/album/61HTU0pcDaTmotLnBQgoLs) | 2:46 | 2021-11-26 | 2022-08-03 |
 | [Smile](https://open.spotify.com/track/1U5dinVLlZWPfxyM8Wp63v) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Viral Women](https://open.spotify.com/album/2b7ymARfIOZvtZR6YUBzfY) | 3:16 | 2022-08-26 | 2022-11-13 |
 | [Smile](https://open.spotify.com/track/4aR9bPMAOFySBuQSbVWF3d) | [Lily Allen](https://open.spotify.com/artist/13saZpZnCDWOI9D4IJhp1f) | [Alright, Still \(Bonus Track Version\)](https://open.spotify.com/album/3nxPzWEJBjzonYWtTNb0uY) | 3:16 | 2021-11-26 | 2024-03-23 |

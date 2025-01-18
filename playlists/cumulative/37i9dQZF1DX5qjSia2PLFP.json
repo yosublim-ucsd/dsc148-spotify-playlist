@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "They got next and now. Cover: <a href=\"spotify:artist:0WK3H9OErSn5zKOkOV5egm\">DDG</a> ",
+  "description": "They got next and now. Cover: <a href=\"spotify:artist:79NDEw5QWlDC9KaIbogNhS\">PlaqueBoyMax</a> ",
   "name": "Ripple Effect",
   "tracks": [
     {
@@ -5759,6 +5759,32 @@
     },
     {
       "album": {
+        "name": "Dumb Crasy (Remix)",
+        "url": "https://open.spotify.com/album/4b1ngzO1CEwu6ivGw1LFSJ"
+      },
+      "artists": [
+        {
+          "name": "So Supa",
+          "url": "https://open.spotify.com/artist/6D6Uf2RTnvHkD64pUapryP"
+        },
+        {
+          "name": "Tre Loaded",
+          "url": "https://open.spotify.com/artist/2IfOv1im8CNxZ6kFtob1e3"
+        },
+        {
+          "name": "Big Boogie",
+          "url": "https://open.spotify.com/artist/372IgXgnCt4wlfumrMTIOs"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124117,
+      "name": "Dumb Crasy (Remix)",
+      "url": "https://open.spotify.com/track/3EAJCeqLEzhVgzRGIoIdl0"
+    },
+    {
+      "album": {
         "name": "Dunk Contest",
         "url": "https://open.spotify.com/album/3b9qtBH7FdyWcTSHS0ThdF"
       },
@@ -8086,7 +8112,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 161783,
       "name": "GOOCHIE MAYNE",
       "url": "https://open.spotify.com/track/0kF9DF1tV4Qcpdg7ysoY76"
@@ -10047,6 +10073,28 @@
     },
     {
       "album": {
+        "name": "JAI'S SONG (FALLING) [PT. 2]",
+        "url": "https://open.spotify.com/album/5E9g2J6iUYTtTrOlp8HWCw"
+      },
+      "artists": [
+        {
+          "name": "THEHONESTGUY",
+          "url": "https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt"
+        },
+        {
+          "name": "PHABO",
+          "url": "https://open.spotify.com/artist/5FdZDr2bMbEcnsEKRgO3rn"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190467,
+      "name": "JAI'S SONG (FALLING) - PT. 2",
+      "url": "https://open.spotify.com/track/3GUkOkDKBh81Tv9bMOGtS3"
+    },
+    {
+      "album": {
         "name": "jane baby (feat. Cash Cobain)",
         "url": "https://open.spotify.com/album/0Olav5Z1duvVGHvKTqBOmO"
       },
@@ -10754,7 +10802,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 213608,
       "name": "Lay Down - Remix",
       "url": "https://open.spotify.com/track/4MtdVcnZZ9WjssJV4whnPQ"
@@ -11703,6 +11751,24 @@
     },
     {
       "album": {
+        "name": "DoonieVerse",
+        "url": "https://open.spotify.com/album/7vpSZirYCsgTAJ3IXCxAxE"
+      },
+      "artists": [
+        {
+          "name": "YN Jay",
+          "url": "https://open.spotify.com/artist/3gIWD9hK0VEhgsSrLu19PU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133015,
+      "name": "Make Up (Dont Look The Same)",
+      "url": "https://open.spotify.com/track/4a0yVAkHM9HnIYIOJLalzp"
+    },
+    {
+      "album": {
         "name": "Malibu",
         "url": "https://open.spotify.com/album/7rnwiV4SUyPHQ63X6uPZRc"
       },
@@ -12156,6 +12222,24 @@
       "duration_ms": 189425,
       "name": "Miranda",
       "url": "https://open.spotify.com/track/6N4gbJIDfW7cwolK2mYjSJ"
+    },
+    {
+      "album": {
+        "name": "Miss It",
+        "url": "https://open.spotify.com/album/6a5sfPmcIeU2ymjGDXUSpZ"
+      },
+      "artists": [
+        {
+          "name": "Big Yba",
+          "url": "https://open.spotify.com/artist/1RI955NtytmC8WSVGGva9p"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150282,
+      "name": "Miss It",
+      "url": "https://open.spotify.com/track/6wL21FBalVlRM9ynI9lkr5"
     },
     {
       "album": {
@@ -14152,7 +14236,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 141031,
       "name": "overseas",
       "url": "https://open.spotify.com/track/722NAIXkI6WRNvu9O7JkdH"
@@ -20146,7 +20230,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 164571,
       "name": "Viking",
       "url": "https://open.spotify.com/track/1TUHiLBQ6CVYZQOgnLjHbM"

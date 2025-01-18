@@ -4,7 +4,7 @@
 
 > Super Cool Indie Tracks from Gods Own Country<br/>Cover: Masala Coffee
 
-260 songs - 17 hr 16 min
+261 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [Paarvai](https://open.spotify.com/track/2N9dBikRpIheV21JWCbgmN) | [DeXterDuke](https://open.spotify.com/artist/7pgCk3NAxxOTwBPm2dmZOa), [Christopher](https://open.spotify.com/artist/0GRIRWJz1BV0WuL92LnCJQ), [Mahenth](https://open.spotify.com/artist/5YXgranKlBWMHBN5EG9F6Z) | [Paarvai](https://open.spotify.com/album/0y3yvEPxCUYQYCuLnGBOxr) | 3:28 | 2024-06-28 |  |
 | [Paattu](https://open.spotify.com/track/77sckVjf0h9oNyrGi7jIT7) | [Aromal Chekaver](https://open.spotify.com/artist/730w8BmSWsTCB4sBCnBkFa), [Meenakshi Krishna](https://open.spotify.com/artist/5RfM3LYItqRdk1yAcdFfou) | [Paattu](https://open.spotify.com/album/45lcm2jQOdd0XNubzRPtaj) | 2:48 | 2024-11-07 |  |
 | [Padayatra \- Live](https://open.spotify.com/track/2PDaNC5MT6HZYE52HYHyjo) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [Padayatra \(Live\)](https://open.spotify.com/album/2i97iGps3MYG1kG87i3be1) | 4:50 | 2022-06-23 | 2024-12-07 |
+| [PALAAYANAM](https://open.spotify.com/track/6c7ceJAZjXqVYTgT4VUh5U) | [Job Kurian](https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS) | [PALAAYANAM](https://open.spotify.com/album/0QQBIFPpgVnHl60JZlaq5t) | 3:45 | 2025-01-17 |  |
 | [Palavidham](https://open.spotify.com/track/0I9fnx3ubOqy1T4IvLf4He) | [Arya Dhayal](https://open.spotify.com/artist/3wgZfKbyO4MfUMvfDlxdQp) | [Palavidham](https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf) | 3:04 | 2023-09-05 | 2024-07-16 |
 | [Pande](https://open.spotify.com/track/4YRVb6Ppv2zTN9obOzmDSZ) | [Matadoria](https://open.spotify.com/artist/16HrBYlg7ETaVKRZ8qVc9B) | [Pande](https://open.spotify.com/album/7ymtCchQnro2Bc4c1v2TDc) | 3:13 | 2024-05-20 |  |
 | [Panimathi](https://open.spotify.com/track/5ZyK3ukvDuLooLNY0ZHd0k) | [Kavya Ajit](https://open.spotify.com/artist/50ydDju7QfqeZrLfjlJMQ3), [Precious Peter](https://open.spotify.com/artist/6qb784Bx7lh1vIfrR55r81) | [Panimathi](https://open.spotify.com/album/6W9y8ofX3WacudRQ1fkZyz) | 3:12 | 2024-07-22 |  |

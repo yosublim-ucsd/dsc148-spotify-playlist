@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: KAROL G y el combo +57",
+  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: Kapo",
   "name": "Made in Colombia",
   "tracks": [
     {
@@ -378,6 +378,46 @@
       "duration_ms": 223613,
       "name": "Alguien Robo",
       "url": "https://open.spotify.com/track/7gpccT9M7V3NGWDlxKVQzt"
+    },
+    {
+      "album": {
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0"
+      },
+      "artists": [
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
+        },
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145555,
+      "name": "Alma",
+      "url": "https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O"
+    },
+    {
+      "album": {
+        "name": "Aloh Aloh",
+        "url": "https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136571,
+      "name": "Aloh Aloh",
+      "url": "https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd"
     },
     {
       "album": {
@@ -806,7 +846,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 198238,
       "name": "Cali Buenaventura",
       "url": "https://open.spotify.com/track/0W8UQlUt6yVuPeUvGU7OdK"
@@ -948,7 +988,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 205293,
       "name": "CANTO A LA VIDA",
       "url": "https://open.spotify.com/track/3QBF5mHQJbs8Z2ByPHWn7y"
@@ -1330,6 +1370,28 @@
       "duration_ms": 173547,
       "name": "Copa Vac\u00eda",
       "url": "https://open.spotify.com/track/2iVgM5C7m1G4CJGbms301G"
+    },
+    {
+      "album": {
+        "name": "Coqueta (Remix)",
+        "url": "https://open.spotify.com/album/5ahZTZNyNywBsg1O7YVINs"
+      },
+      "artists": [
+        {
+          "name": "Heredero",
+          "url": "https://open.spotify.com/artist/6lH7FsK8dwGhPaz6mE2PgY"
+        },
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226461,
+      "name": "Coqueta - Remix",
+      "url": "https://open.spotify.com/track/6rq3raDazN9D0XUCudW1Nx"
     },
     {
       "album": {
@@ -1766,7 +1828,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 198947,
       "name": "Dios Te Cuide",
       "url": "https://open.spotify.com/track/6lrjtAXDlt1sofIXPK7LM2"
@@ -2778,7 +2840,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 188304,
       "name": "Gaga",
       "url": "https://open.spotify.com/track/1CmXpRe5Z7bKhX9N0mzAZM"
@@ -5458,6 +5520,44 @@
       "duration_ms": 205242,
       "name": "Por Pura Curiosidad",
       "url": "https://open.spotify.com/track/1oRfaDjjGDgO3HCql0AOUy"
+    },
+    {
+      "album": {
+        "name": "Por Toda la Vida (feat. Jhonathan Chavez, Alejandro Torres, Kenny y Kiara, Ra\u00fal Aparicio & Anarkelys Arias) [Versi\u00f3n Tipiquero]",
+        "url": "https://open.spotify.com/album/0BilFXP1xS9EaZRH6C9DBl"
+      },
+      "artists": [
+        {
+          "name": "Fonseca",
+          "url": "https://open.spotify.com/artist/53KTldaJ8tHSkYU3nigfwP"
+        },
+        {
+          "name": "Jhonathan Chavez",
+          "url": "https://open.spotify.com/artist/6gCY0XIwk511IezQOER1yI"
+        },
+        {
+          "name": "Alejandro Torres",
+          "url": "https://open.spotify.com/artist/2tZQPPO8wMmZXZCcAciMla"
+        },
+        {
+          "name": "Kenny y Kiara",
+          "url": "https://open.spotify.com/artist/02UcRPddRYQDqU44x3Vhcq"
+        },
+        {
+          "name": "Ra\u00fal Aparicio",
+          "url": "https://open.spotify.com/artist/75PGDKvW32YSiTcSHcJmzL"
+        },
+        {
+          "name": "Anarkelys Arias",
+          "url": "https://open.spotify.com/artist/6ZvrytRw1D6iDdKG4fOWyV"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221935,
+      "name": "Por Toda la Vida (feat. Jhonathan Chavez, Alejandro Torres, Kenny y Kiara, Ra\u00fal Aparicio & Anarkelys Arias) - Versi\u00f3n Tipiquero",
+      "url": "https://open.spotify.com/track/6BVwjfkHaq3oxomEvu1kET"
     },
     {
       "album": {

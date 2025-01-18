@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "A new wave of rock music. Cover: Witch Post",
+  "description": "A new wave of rock music. Cover: HotWax",
   "name": "shockwave",
   "tracks": [
     {
@@ -218,6 +218,24 @@
       "duration_ms": 157766,
       "name": "Adore Adore Adore",
       "url": "https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI"
+    },
+    {
+      "album": {
+        "name": "Afraid",
+        "url": "https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160573,
+      "name": "Afraid",
+      "url": "https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA"
     },
     {
       "album": {
@@ -3889,6 +3907,24 @@
     },
     {
       "album": {
+        "name": "Infinity Peaking",
+        "url": "https://open.spotify.com/album/0YabSp9pMWmiGywTKXtQDK"
+      },
+      "artists": [
+        {
+          "name": "bdrmm",
+          "url": "https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 341426,
+      "name": "Infinity Peaking",
+      "url": "https://open.spotify.com/track/7KqCRSIvcQoVI37ZRzaZqm"
+    },
+    {
+      "album": {
         "name": "Jacked",
         "url": "https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn"
       },
@@ -4869,6 +4905,24 @@
     },
     {
       "album": {
+        "name": "Mean Girlz",
+        "url": "https://open.spotify.com/album/6wUvk2kc27ELwVAwA8NT7R"
+      },
+      "artists": [
+        {
+          "name": "Baby Said",
+          "url": "https://open.spotify.com/artist/4Nc9OZQfWhkashN6dDDgXl"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126645,
+      "name": "Mean Girlz",
+      "url": "https://open.spotify.com/track/5EBlBdOfvQy0hY0lZDY5Pp"
+    },
+    {
+      "album": {
         "name": "Medic",
         "url": "https://open.spotify.com/album/2wTDj7Wy6qKwYRMAfr31El"
       },
@@ -5485,6 +5539,24 @@
     },
     {
       "album": {
+        "name": "One More Reason",
+        "url": "https://open.spotify.com/album/3LQ3FqsjmOmghUpPk5uK0e"
+      },
+      "artists": [
+        {
+          "name": "HotWax",
+          "url": "https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181275,
+      "name": "One More Reason",
+      "url": "https://open.spotify.com/track/2PhkNQP93tocN4XUt0JRa0"
+    },
+    {
+      "album": {
         "name": "Devoured by the Mouth of Hell",
         "url": "https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l"
       },
@@ -5554,6 +5626,24 @@
       "duration_ms": 188388,
       "name": "Pale Blue Dot",
       "url": "https://open.spotify.com/track/4JKSUh154aRg65VbGztvvQ"
+    },
+    {
+      "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/6o5GuCq2dvDfBSpd7UsoBN"
+      },
+      "artists": [
+        {
+          "name": "MERE AMORE",
+          "url": "https://open.spotify.com/artist/3qvG0tL3iBNwD2TPRAZskb"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/0TQTk6ZPgvSTZ9VMMzQs4X"
     },
     {
       "album": {
@@ -6170,6 +6260,24 @@
       "duration_ms": 108984,
       "name": "RUN & HIDE",
       "url": "https://open.spotify.com/track/7EFbx9VydYfzHnBBVtZiDc"
+    },
+    {
+      "album": {
+        "name": "Running Outside With Heather",
+        "url": "https://open.spotify.com/album/5Md4WxC1tzTz0sZq6HRCef"
+      },
+      "artists": [
+        {
+          "name": "WOOZE",
+          "url": "https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Running Outside With Heather",
+      "url": "https://open.spotify.com/track/78138DPQKocexQHWWaVoWO"
     },
     {
       "album": {
@@ -7856,7 +7964,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 166912,
       "name": "Wanna Be A Doll",
       "url": "https://open.spotify.com/track/7ET28C0jaXWkHaBVUXHbt8"

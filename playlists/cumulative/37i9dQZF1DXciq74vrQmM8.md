@@ -2,9 +2,9 @@
 
 ### [misfits 2.0](https://open.spotify.com/playlist/37i9dQZF1DXciq74vrQmM8)
 
-> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Banshee
+> welcome to our 𝖚𝖓𝖎𝖛𝖊𝖗𝖘𝖊 ft\. Deijuvhs
 
-1,046 songs - 2 day 2 hr 46 min
+1,051 songs - 2 day 3 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,12 +28,14 @@
 | [ABOMINATION](https://open.spotify.com/track/2h2142a0MCcrd1bBNohCaN) | [Lynks](https://open.spotify.com/artist/44tV2d4RDeMsS2sLOdcXHD) | [ABOMINATION](https://open.spotify.com/album/6am19f0GGzZgJYTSvGCuSr) | 3:18 | 2024-04-11 | 2024-09-27 |
 | [ABYSS](https://open.spotify.com/track/0oyLeHwK228pw76jx2VZNQ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC) | [ABYSS](https://open.spotify.com/album/5tHG1GajRvMq3PoTxyijCo) | 2:31 | 2022-09-29 | 2022-10-07 |
 | [ACHOO!](https://open.spotify.com/track/5RuUuBtaiPVnACY5nTohue) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K) | [CRITTERS](https://open.spotify.com/album/7jycItY9gSsb0WJKLXFuOL) | 1:39 | 2023-11-17 | 2024-05-29 |
+| [Afraid](https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Afraid](https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut) | 2:40 | 2025-01-17 |  |
 | [AGAIN.](https://open.spotify.com/track/2knqxjt5zHq0So8l619O88) | [KDVSGOLIATH](https://open.spotify.com/artist/1fxSfIUHcYGuFkPY7kOCkQ) | [AGAIN.](https://open.spotify.com/album/0VEOmqs7veZkwAQwV88NgF) | 3:01 | 2022-06-02 | 2022-08-05 |
 | [AGORAPHOBIC](https://open.spotify.com/track/08vwKlwLT6uALzO23JhfFC) | [n0trixx](https://open.spotify.com/artist/4YsqBmE9rJRgxRUxMGY4VE), [Whispersinyahead](https://open.spotify.com/artist/5TUcnm4SFnAYTQW9VLhc4I) | [AGORAPHOBIC](https://open.spotify.com/album/1fJoDtzl26zX3o49dk5zGG) | 1:49 | 2023-07-06 | 2023-09-22 |
 | [AI \(Save Yourself\)](https://open.spotify.com/track/2MrnJVZSGAzz1IobfPEwHv) | [Kid Bookie](https://open.spotify.com/artist/7DiLiJ8nji6DslsFSzx0IV) | [AI \(Save Yourself\)](https://open.spotify.com/album/2PcWCQtSCQea2SDQbJmuqO) | 3:08 | 2023-12-08 | 2024-05-29 |
 | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/track/3tlLXN7iwOhqLhOS6qHh1J) | [Amandla Stenberg](https://open.spotify.com/artist/0DK7ZkQ9RydhZnOhI6j6Ck) | [Alice \(Bodies Bodies Bodies\)](https://open.spotify.com/album/6LipFhXDD2PSYBtWIas8If) | 2:21 | 2022-09-29 | 2022-10-07 |
 | [ALL AMERICAN NIGHTMARE](https://open.spotify.com/track/6urGFOw5gaknvtYxTXxYi3) | [tommy.](https://open.spotify.com/artist/61sAraGpRoTyiM1pzlOFgp) | [BEWARE, THE EYES IN THE CORNER OF THE ROOM](https://open.spotify.com/album/01f8MXg9Iy2h6vOI5pTEYM) | 2:51 | 2024-10-17 | 2024-11-15 |
 | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/track/6Bike9oqxqToe0XPwtVIhD) | [BLACKSTARKIDS](https://open.spotify.com/artist/7but14WsfXJkF8hm07xx6E) | [ALL COPS ARE BASTARDS\*](https://open.spotify.com/album/22GzbmGV3Uw6honxKUDSYr) | 3:04 | 2021-12-27 | 2022-01-19 |
+| [All My Fault](https://open.spotify.com/track/3Iu2PsD8ZWhF892DS8ffkr) | [Boy Destroy](https://open.spotify.com/artist/0XY2aV7KJchNyv7ENP8E9g), [AlienBlaze](https://open.spotify.com/artist/79eu73GhyfHgYTGt6lTn34) | [All My Fault](https://open.spotify.com/album/7fiLM8GJ7fRrNZJiE6asBn) | 2:44 | 2025-01-17 |  |
 | [all my friends](https://open.spotify.com/track/1iOfDDaBNgV2qJhNBRe33l) | [plxntkid](https://open.spotify.com/artist/18Slf2vmL64UBt4TTU9cHY), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry) | [all my friends](https://open.spotify.com/album/25kTH4jXP7PcBlvQ4LLBFQ) | 2:22 | 2022-10-28 | 2023-01-22 |
 | [All The Time](https://open.spotify.com/track/4xQSKB4sB45F3tKVeCBh2F) | [Snow Strippers](https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8) | [The Snow Strippers](https://open.spotify.com/album/0cE44CtxepzcW0uP2Gx7xA) | 3:10 | 2024-05-28 | 2024-06-07 |
 | [ALLIGATOR](https://open.spotify.com/track/65UWHk2wQf6hjZeeNOwqsP) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [ALLIGATOR](https://open.spotify.com/album/20tuHWUfwJe3BIu8lyIa7l) | 2:42 | 2024-10-17 | 2024-12-13 |
@@ -207,6 +209,7 @@
 | [crying](https://open.spotify.com/track/2WrRYFKJEL15GBkgJQT7k0) | [Static Dress](https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi) | [crying](https://open.spotify.com/album/5VGqp5e9AbRnjpBVxJIPqp) | 3:07 | 2024-05-16 | 2024-09-27 |
 | [Crying In Nightclub Bathrooms](https://open.spotify.com/track/6WMsGpTydHmOtmgtkygmHH) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Crying In Nightclub Bathrooms](https://open.spotify.com/album/4hW3UI3MkBkDHYzpcx6v7g) | 3:15 | 2022-11-25 | 2023-01-22 |
 | [Cuntology 101](https://open.spotify.com/track/3wCJGNuWIoeKHsrZdAybiO) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [Who Let The Dogs Out](https://open.spotify.com/album/4GzF4Yg3GSkKi4hAzmjBKV) | 2:18 | 2025-01-10 |  |
+| [Cursed](https://open.spotify.com/track/1IH4cjYdKYSoMSbGuWNUFY) | [BUNNY](https://open.spotify.com/artist/5Dccem9dkRqim9eKHXkSd3) | [Cursed](https://open.spotify.com/album/6A232jNcfQirn08T0cJQeB) | 3:31 | 2025-01-17 |  |
 | [cursed angel](https://open.spotify.com/track/4pydYArxjKWJlEiv0XEo8K) | [cumgirl8](https://open.spotify.com/artist/0Y0U54wBpoCl8KvkYc9Ej6) | [cursed angel](https://open.spotify.com/album/5gmokIT1CReABvOdt1YGpI) | 3:45 | 2023-07-20 | 2023-07-28 |
 | [CURSED!](https://open.spotify.com/track/6oMjU97NaXbH8S4DZsF8Re) | [Sinizter](https://open.spotify.com/artist/5owshUGXR3vxuTQqfo28Q8), [SHUSH](https://open.spotify.com/artist/17qcgleNjGWZoAqUM0MQHs) | [CURSED!](https://open.spotify.com/album/6pfERQIQWzInwC2oMKXr7b) | 2:42 | 2024-08-08 | 2024-09-13 |
 | [CUT](https://open.spotify.com/track/4PfmDu5FfaGBX5wYUE6xzK) | [Jaguar Jonze](https://open.spotify.com/artist/0QClnkSUCnc9chv8MLyTaR) | [CUT](https://open.spotify.com/album/49XT5V5ifCiMj7IM4a2x5O) | 2:58 | 2022-01-19 | 2022-07-08 |
@@ -659,6 +662,7 @@
 | [MONTANA \(feat\. Yeti Bones of Ho99o9\)](https://open.spotify.com/track/2Lq56gQdjYKB0teT3errMZ) | [Mimi Barks](https://open.spotify.com/artist/5A4P1UOSqbSvJKoi3VYlCC), [Yeti Bones](https://open.spotify.com/artist/1sGhUFR90HIsZQVAuxobGE), [Ho99o9](https://open.spotify.com/artist/5KuuNGYTUTokLerXMNYCGL) | [MONTANA \(feat\. Yeti Bones of Ho99o9\)](https://open.spotify.com/album/0zuA8PMsy7wFrkwEpPk9Xz) | 2:59 | 2024-05-23 | 2024-08-16 |
 | [Moonlight](https://open.spotify.com/track/4nmXdcB02E6yKdWso4XCQZ) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Siiickbrain](https://open.spotify.com/artist/1oPEr1Ci8sWOYj8SSh2VPE) | [Moonlight](https://open.spotify.com/album/0QH0SPSXwLl3PPNdAD1Zuk) | 2:23 | 2022-03-18 | 2022-10-14 |
 | [Moonlight Bop](https://open.spotify.com/track/1nB9wuOJGl3h1M4hdtZeI1) | [Deijuvhs](https://open.spotify.com/artist/1pdiVBF8SDDpleSjlNhP8C) | [Moonlight Bop](https://open.spotify.com/album/3TPxD0aPYlGe9F9yJMj5OV) | 1:56 | 2023-06-29 | 2023-09-15 |
+| [More Than Life](https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [More than Life](https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7) | 5:33 | 2025-01-17 |  |
 | [moshpit](https://open.spotify.com/track/2mCtLEJmnn1JiY2IQGUCy4) | [renforshort](https://open.spotify.com/artist/3GYvf7puxwkr51EYoD9E7D) | [moshpit](https://open.spotify.com/album/6PXSrLiT6piovfkbtM3mTs) | 3:38 | 2022-01-28 | 2022-03-25 |
 | [Most Viewed](https://open.spotify.com/track/0YYJRs8ENvqnU7BQf8wVrm) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD) | [Most Viewed](https://open.spotify.com/album/1tQArKbrcX6BbyVED8aIYr) | 3:14 | 2023-04-13 | 2023-06-16 |
 | [Most Viewed \(Himera's Dream\)](https://open.spotify.com/track/2TrvMlffH5wuqAaU17t50K) | [twst](https://open.spotify.com/artist/5zEQC9Hbg0Sql7lQB466xD), [Himera](https://open.spotify.com/artist/1Vi0Dq6hC56i3a6eVA9Y6g) | [Most Viewed \(Himera’s Dream\)](https://open.spotify.com/album/6PA0ldKaakuuJHHkIX0pc5) | 3:29 | 2023-05-18 | 2023-06-09 |
@@ -803,6 +807,7 @@
 | [rosier/punk2](https://open.spotify.com/track/5fr1gqzvwrPrGS76ltBsFK) | [brakence](https://open.spotify.com/artist/4kqFrZkeqDfOIEqTWqbOOV) | [punk2](https://open.spotify.com/album/0BAmcZfsraNVyG6rj782Og) | 3:42 | 2022-04-19 | 2022-04-29 |
 | [RUDEBOY](https://open.spotify.com/track/6zewICx5nFMLM9GxCr0zNT) | [NOISY](https://open.spotify.com/artist/5bt1iZVk3VV1LxRL4wzZ9F) | [RUDEBOY](https://open.spotify.com/album/0bbIAvjGn9LtCUJNKvwQ0H) | 3:20 | 2023-01-13 | 2023-02-03 |
 | [Run](https://open.spotify.com/track/2DZ45B4hVwD6XoQ7gJE8ag) | [PENGSHUi](https://open.spotify.com/artist/7F8CwvvwIi7GJvZ7qD2ybR) | [EP iii](https://open.spotify.com/album/2PIWW0DFCG6MJl96s6gFYR) | 3:01 | 2024-03-09 | 2024-05-17 |
+| [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 | 2025-01-17 |  |
 | [Ry Ry's Song \- 2009 Remaster](https://open.spotify.com/track/0FaL1Zoii3CVQtNx3QvDQ3) | [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [Everything You Ever Wanted To Know About Silence Remaster](https://open.spotify.com/album/1fUuTc7d6COMx8rR1qAmr8) | 3:32 | 2024-05-28 | 2024-06-07 |
 | [sacrifice/surrender](https://open.spotify.com/track/4HB55BRbNxoynvMFxrVlco) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [sacrifice/surrender](https://open.spotify.com/album/46wAFzEPEs6AQWWnyV2OO8) | 3:13 | 2023-07-27 | 2023-10-24 |
 | [Sad Girl Summer](https://open.spotify.com/track/52ITJgaQHGQ4Uxnqz44jWP) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Sad Girl Summer](https://open.spotify.com/album/6BD3f64782idv4IF2npufe) | 3:13 | 2022-05-26 | 2022-09-09 |

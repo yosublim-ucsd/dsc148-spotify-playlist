@@ -4,7 +4,7 @@
 
 > This is N.I.N.A\. The essential tracks, all in one playlist.
 
-53 songs - 3 hr 11 min
+54 songs - 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,5 +61,6 @@
 | [Tanto Faz](https://open.spotify.com/track/0kgVCF1GMXafogX6R2Dpc5) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Tanto Faz](https://open.spotify.com/album/3C0DYA08H30vEvi78i7A2B) | 3:35 | 2024-02-28 | 2024-08-22 |
 | [Teve uma garota](https://open.spotify.com/track/1ObqgVJGDGfwnbyeeLax4K) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Ruxell](https://open.spotify.com/artist/5H3IVg3012xSskH8ZjKwDg) | [Para Todos os Garotos que já Mamei](https://open.spotify.com/album/74Ib1RgIXLeq1P3kkKxiBK) | 2:48 | 2024-01-02 | 2024-01-11 |
 | [Too Street 4 T.V.](https://open.spotify.com/track/3D9nPliI0cgYTdyUMb9KxL) | [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET) | [Dysfunktional Family \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0iBGpWpeiX2GPcIVCF5yEV) | 4:15 | 2023-12-30 |  |
+| [VIM DE LÁ](https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [N.I.N.A](https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET), [Ogrand](https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe) | [FUTURO III](https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR) | 2:19 | 2025-01-18 |  |
 
 \*This playlist was first scraped on 2023-12-31. Prior content cannot be recovered.

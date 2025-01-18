@@ -4,7 +4,7 @@
 
 > Immerse in an imaginary panorama of atmospheric soundscapes.
 
-586 songs - 2 day 7 hr 41 min
+587 songs - 2 day 7 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [1/2 SCULPTURE](https://open.spotify.com/track/17G2vjTbT1niPRGsUCbza2) | [Sam Gendel](https://open.spotify.com/artist/3luuQQRuSBuDNnrkYvatnk), [Ethan Braun](https://open.spotify.com/artist/6YFpKWCQ9nZG4B3snroNLi) | [Rio Nilo 66](https://open.spotify.com/album/4N8JdnLYaUCPR3C5bHfoCz) | 8:11 | 2021-10-06 | 2022-07-28 |
 | [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 | 2023-02-15 |
 | [11 5 18 2 5 18](https://open.spotify.com/track/6z4gkvnKeiOOjKG6ZN0Zyn) | [Yann Tiersen](https://open.spotify.com/artist/00sazWvoTLOqg5MFwC68Um) | [11 5 18 2 5 18](https://open.spotify.com/album/4RN4j6MUCjqIIBW5gpWqpy) | 11:39 | 2022-04-14 | 2022-07-21 |
+| [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 |  |
 | [1:17 PM](https://open.spotify.com/track/7sX3ulXwDyyE5q5g8z3yUN) | [Celia Hollander](https://open.spotify.com/artist/0LdvtStWB1M2XlcR9D6IhA) | [Timekeeper](https://open.spotify.com/album/4xBGAlIlejqITTgDkOBDIy) | 3:29 | 2021-10-06 | 2022-07-22 |
 | [25°C](https://open.spotify.com/track/5GkwLJY8HC4L0lUUAXqaBS) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 7:27 | 2022-12-20 | 2024-09-08 |
 | [30](https://open.spotify.com/track/3h9BQoh0mAmm93aHINUprR) | [ed leigh](https://open.spotify.com/artist/2HvZdoZCKiZBlILDLOk0ge) | [millennial falcon \(episode I\)](https://open.spotify.com/album/2a7aAujN1kAEj3KsECBpc8) | 3:14 | 2022-08-03 | 2022-08-24 |
@@ -113,7 +114,7 @@
 | [BTM Blau](https://open.spotify.com/track/4dkmuKPFVIDziqQK7BrbGb) | [Hainbach](https://open.spotify.com/artist/3FlXXv8lfSt3ZWk9epMxe7) | [BTM Blau](https://open.spotify.com/album/6zugigBgYg8n1bKNWP1Zka) | 2:22 | 2022-10-14 | 2022-10-28 |
 | [Burning Love](https://open.spotify.com/track/0YjoKktjL95d6bCszZits7) | [santyskies](https://open.spotify.com/artist/6Ow8olhOixQI8aiRnhcayv) | [Burning Love](https://open.spotify.com/album/7MLEP4Ik41myE0hJnFcjt2) | 5:50 | 2022-08-13 | 2022-09-28 |
 | [C.N.C.S.](https://open.spotify.com/track/2ZiiKpgE7q6BjCQ4tfr0dN) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [Hikima \- Creativity](https://open.spotify.com/album/6uFdhuYmW7Yei51ghA7Uh3) | 6:31 | 2021-10-06 | 2022-06-03 |
-| [C2 \- Misplaced in time](https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 2\)](https://open.spotify.com/album/5x7V7s4itsBIV1B5UhNlVm) | 4:42 | 2023-12-20 | 2025-01-16 |
+| [C2 \- Misplaced in time](https://open.spotify.com/track/5T8IT6Qq5eH08c5T95j1ON) | [The Caretaker](https://open.spotify.com/artist/2uQn9OFibYuvEMqMuH1zaP) | [Everywhere at the End of Time \(Stage 2\)](https://open.spotify.com/album/5x7V7s4itsBIV1B5UhNlVm) | 4:42 | 2023-12-20 |  |
 | [Cabaraú](https://open.spotify.com/track/0DbDPy9K2mLuIBE6ai2XaU) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/4yxOkUTHo8ZBU5LI6Ltmt1) | 6:32 | 2022-03-30 | 2023-02-27 |
 | [Cabaraú](https://open.spotify.com/track/6wCIFkMgQitrrJyc2ruYj0) | [Pandit Pam Pam](https://open.spotify.com/artist/759jaawE6btqp3Wh9GM9S9) | [Cabaraú](https://open.spotify.com/album/5ZhBJowx9ClZT35DONFnH0) | 6:32 | 2022-03-30 | 2022-07-18 |
 | [Caged At Last](https://open.spotify.com/track/6SruU1URjdHmZQmo4oMBjo) | [Mister Water Wet](https://open.spotify.com/artist/5aqEOu3QIHCuqyYCVm9rwB) | [Top Natural Drum](https://open.spotify.com/album/2ljEWiS1VCpgLw9amVDLri) | 3:43 | 2023-01-12 | 2023-02-15 |
@@ -320,7 +321,7 @@
 | [Marilene \- Somewhere in Texas](https://open.spotify.com/track/6jVbgzKpU5TV5Vijk7TD37) | [Gigi Masin](https://open.spotify.com/artist/0dCVhSVXD9JhJh2bTySJZx) | [Marilene \(Somewhere in Texas\)](https://open.spotify.com/album/77JuxMNZxYkDmhDzFywvn7) | 7:55 | 2022-10-01 | 2022-10-15 |
 | [Masi Stone Duet](https://open.spotify.com/track/7HPWrrZrLGFt3QBl6hlMPW) | [CTM](https://open.spotify.com/artist/7yaj7l8QczhEsLttuFDaRz), [August Rosenbaum](https://open.spotify.com/artist/60jACvCiMkGWezYS8VZXQ4) | [Celeste](https://open.spotify.com/album/5KVMzzZ01MJxw5Sd9qvdCY) | 2:00 | 2022-03-30 | 2022-07-21 |
 | [May As Well Be](https://open.spotify.com/track/3bPrZswZF1OiWToRkgB7i8) | [Vels Trio](https://open.spotify.com/artist/68ZVpxiS12BeN3EgBgXW0l) | [Celestial Greens](https://open.spotify.com/album/7cj9GeDDwhl4o4iAZ7OECO) | 4:00 | 2022-01-12 | 2024-11-20 |
-| [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 | 2022-10-14 |  |
+| [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 | 2022-10-14 | 2025-01-18 |
 | [Medela](https://open.spotify.com/track/3dCqGW7sretd5eP1V2smGU) | [Ben Lukas Boysen](https://open.spotify.com/artist/0lYoJnsYMVaAitj1pZVqER) | [Medela](https://open.spotify.com/album/2mUOpzjjdsc8caCYWv5sHp) | 8:41 | 2021-10-06 | 2022-05-15 |
 | [Meditation No\. 1](https://open.spotify.com/track/3Z9PWaE8d55XcOxEHwx6U8) | [Laraaji](https://open.spotify.com/artist/6sd3qv6kReAdo6WsLBtXX4), [Brian Eno](https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi) | [Ambient 3: Day Of Radiance](https://open.spotify.com/album/42Lahj8mKJKxPgncRXPuPw) | 18:47 | 2021-10-06 | 2024-08-13 |
 | [Melancholia VI](https://open.spotify.com/track/7HfZJvZMAG5TRecSfLwzZN) | [William Basinski](https://open.spotify.com/artist/6u5axd0rpDsWSmzhFfb2VB) | [Melancholia](https://open.spotify.com/album/2942iMljVSFpfxH8lJaCZr) | 2:15 | 2022-10-14 | 2024-02-20 |
@@ -593,6 +594,6 @@
 | [Zorza](https://open.spotify.com/track/1KRAvMxcvm62rAHUzs9n00) | [Pruski](https://open.spotify.com/artist/25pMn6OremNFW2pRX909Ib) | [Zorza](https://open.spotify.com/album/6c4KbagJQzxCyefFMUbRCi) | 5:36 | 2022-02-18 | 2022-07-29 |
 | [Неизбежно](https://open.spotify.com/track/1zRpr4YLFJzoN72yrdteqN) | [Gospel Gin](https://open.spotify.com/artist/09eQPEAGFDxA3a7k5OvpLU) | [Неизбежно](https://open.spotify.com/album/459xB5WmsADeIOch0MsMv4) | 5:17 | 2022-03-11 | 2022-07-26 |
 | [ザ・ミラージュ](https://open.spotify.com/track/1fvrnSlOdMqNTsRMzZZLSZ) | [Yoshio Chin Suzuki](https://open.spotify.com/artist/6W8LyZnFvPHsiapMkFb1dD) | [モーニング・ピクチャー](https://open.spotify.com/album/0nwnSiW0Zeo2UnODZu1UNC) | 5:06 | 2021-10-06 | 2022-07-18 |
-| [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 | 2021-10-06 |  |
+| [日本の空気 \- Air of Japan](https://open.spotify.com/track/4wKQfi7BK5PgqkOyy288Iw) | [Michiru Aoyama](https://open.spotify.com/artist/75cLQlfceOKJMop2LqS4Fu) | [音は光る \(The Sound Is Shining\)](https://open.spotify.com/album/1GYbiaI0mZ9OQPnggq6d4T) | 3:58 | 2021-10-06 | 2025-01-18 |
 
 \*This playlist was first scraped on 2022-01-06. Prior content cannot be recovered.

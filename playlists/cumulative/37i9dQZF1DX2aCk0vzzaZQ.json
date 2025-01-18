@@ -315,6 +315,32 @@
     },
     {
       "album": {
+        "name": "The Age of Extremes: W.F. Bach, G. Benda & C.P.E. Bach",
+        "url": "https://open.spotify.com/album/666rWzJgsF6pZo9KyAZ27A"
+      },
+      "artists": [
+        {
+          "name": "Ji\u0159\u00ed Anton\u00edn Benda",
+          "url": "https://open.spotify.com/artist/5Ufc9053YhJgkhl1Dyc0bh"
+        },
+        {
+          "name": "Francesco Corti",
+          "url": "https://open.spotify.com/artist/0UqPgVQCLfkuRbaqXWPkY2"
+        },
+        {
+          "name": "Il Pomo D'oro",
+          "url": "https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249160,
+      "name": "Harpsichord Concerto in F Minor: III. Allegro di molto",
+      "url": "https://open.spotify.com/track/53VQjOazHAJz6SrQ84iAa0"
+    },
+    {
+      "album": {
         "name": "Symphony No. 49 in F Minor, Hob. I:49 \"La passione\": IV. Finale. Presto",
         "url": "https://open.spotify.com/album/1uxbxr0blf14EbtfljjUN6"
       },

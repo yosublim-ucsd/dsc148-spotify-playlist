@@ -879,6 +879,28 @@
     },
     {
       "album": {
+        "name": "Contra Todos 2",
+        "url": "https://open.spotify.com/album/3pqZ4E4zgXpUhO8dSve1qJ"
+      },
+      "artists": [
+        {
+          "name": "Duzz",
+          "url": "https://open.spotify.com/artist/4oPnjkJcLqOim9KJxvIYMz"
+        },
+        {
+          "name": "MIBR",
+          "url": "https://open.spotify.com/artist/47DQHEqqDAc2b6IXbjSxbj"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196000,
+      "name": "Contra Todos 2",
+      "url": "https://open.spotify.com/track/37tiyYkguGDeCsrIZTNjgP"
+    },
+    {
+      "album": {
         "name": "De Peito Aberto",
         "url": "https://open.spotify.com/album/1ApkjW1tSvt1tDghtCPJOl"
       },
@@ -2502,7 +2524,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 105600,
       "name": "Mar Azul",
       "url": "https://open.spotify.com/track/0O7mQ3AEwQnfRctOT7n8tt"

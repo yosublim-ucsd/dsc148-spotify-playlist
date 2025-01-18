@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > Nettspend\. Born and raised on the internet.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,382,508 likes - 100 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,382,396 likes - 100 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -78,7 +78,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 | 68 | [HILARIOUS \(feat\. Cochise\)](https://open.spotify.com/track/0hVzJm5oOVNp57EPcJ3IY6) | [$NOT](https://open.spotify.com/artist/5IbEL2xjRtKsunfmsahLuO), [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [HILARIOUS \(feat\. Cochise\)](https://open.spotify.com/album/2O3Ucp3isxbLXo87AQkmLl) | 2:11 |
 | 69 | [Heavy On My Heart](https://open.spotify.com/track/1IjxlfejE7sf6C70vYGcmw) | [LUCKI](https://open.spotify.com/artist/5tQMB0cuNXdCtzovGt55uD) | [2 Faced, Pt\. 2](https://open.spotify.com/album/20WBtyZuLSGHtzJ02ZsY4p) | 2:42 |
 | 70 | [cake](https://open.spotify.com/track/7eWKbchJXbuMc3SoLsLWa4) | [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [cake / don't be dishonest](https://open.spotify.com/album/2VFC37FS3TqHDUlRoqzoAJ) | 2:57 |
-| 71 | [Pizza Time](https://open.spotify.com/track/3pxg2vxImneIXH7Kt4raVM) | [che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pizza Time](https://open.spotify.com/album/6ZiijIxxYqmi8nIzsPe8dL) | 1:59 |
+| 71 | [Pizza Time](https://open.spotify.com/track/3pxg2vxImneIXH7Kt4raVM) | [Che](https://open.spotify.com/artist/5A7T1LAGJg5NXySBoIKUmF) | [Pizza Time](https://open.spotify.com/album/6ZiijIxxYqmi8nIzsPe8dL) | 1:59 |
 | 72 | [Back It up and Dump It \(Dump Truck\)](https://open.spotify.com/track/3hFnQwSt5zAWaYpLuMSWB7) | [GC Eternal](https://open.spotify.com/artist/0ZOCqmN2WKW2Pd4X5soZ02), [Kinfolk Thugs](https://open.spotify.com/artist/3HKeu1ODauzWmisaf17RBS), [Tyme Bomb](https://open.spotify.com/artist/0mDzqk1BoBvyKUYfcg6Zbd), [Tre'v](https://open.spotify.com/artist/3G4S7c0YyMbTNf09kdVybp) | [Back It Up and Dump It \(Dump Truck\)](https://open.spotify.com/album/71hlcT83y4lzW8a2nn0PyM) | 3:27 |
 | 73 | [Talk My Shit](https://open.spotify.com/track/6O3WfmAQIgnLBGVzZJVS40) | [BossMan Dlow](https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc) | [Mr Beat The Road](https://open.spotify.com/album/3x3G6TKWWgRS1vWp03FoNb) | 1:44 |
 | 74 | [rifle crew](https://open.spotify.com/track/654B7c3gkhv7SkbKIgjHDV) | [sniper2004](https://open.spotify.com/artist/7EjJ8vM2BQi4Oxrxm2ytYT) | [i wanna be a sniperrrrr](https://open.spotify.com/album/0CmzOQGge1zb0rmoZPI6Ft) | 2:03 |

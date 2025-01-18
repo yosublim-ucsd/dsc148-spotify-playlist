@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Tech house technicians, featuring Cole Knight \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
+  "description": "Tech house technicians, featuring Riordan \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
   "name": "Tech House Operator",
   "tracks": [
     {
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 177096,
       "name": "All Night",
       "url": "https://open.spotify.com/track/3vUcG8qu1KgThYYEYHWIti"
@@ -2948,7 +2948,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 146731,
       "name": "Beats Keep Rockin' - Edit",
       "url": "https://open.spotify.com/track/7GDBm3a49RNgL7EpdWtUh7"
@@ -6722,10 +6722,28 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 196153,
       "name": "Control It",
       "url": "https://open.spotify.com/track/2TAcaBTASCeVdrYSBL3YTN"
+    },
+    {
+      "album": {
+        "name": "Coolin",
+        "url": "https://open.spotify.com/album/67mdVbF5GykYcxqXhTHagp"
+      },
+      "artists": [
+        {
+          "name": "HILLS",
+          "url": "https://open.spotify.com/artist/3r1crp6G0IKYW21wO5h7dB"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155538,
+      "name": "Coolin",
+      "url": "https://open.spotify.com/track/6ol2ZKZgFE7jV2rv6KsB11"
     },
     {
       "album": {
@@ -7864,6 +7882,24 @@
     {
       "album": {
         "name": "Demon Time",
+        "url": "https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg"
+      },
+      "artists": [
+        {
+          "name": "AYYBO",
+          "url": "https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201377,
+      "name": "Demon Time",
+      "url": "https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4"
+    },
+    {
+      "album": {
+        "name": "Demon Time",
         "url": "https://open.spotify.com/album/2eyOhgQY4OLEmwRjSoAE3i"
       },
       "artists": [
@@ -8860,7 +8896,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 169790,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/7D2r7m4qTH8ZadTb6LtrUw"
@@ -9718,6 +9754,28 @@
       "duration_ms": 188709,
       "name": "Duro",
       "url": "https://open.spotify.com/track/1vDkc8P9SDkqXlXHs3uzjV"
+    },
+    {
+      "album": {
+        "name": "Duro",
+        "url": "https://open.spotify.com/album/4iGe0eupYDjenM04toracP"
+      },
+      "artists": [
+        {
+          "name": "Federico Scavo",
+          "url": "https://open.spotify.com/artist/0sPG1Yn8sWnhwDHsUbrU0F"
+        },
+        {
+          "name": "CHRSTPHR",
+          "url": "https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151384,
+      "name": "Duro",
+      "url": "https://open.spotify.com/track/04IR6lTeq9SNfftICb6BDS"
     },
     {
       "album": {
@@ -13169,6 +13227,24 @@
     },
     {
       "album": {
+        "name": "Gimme",
+        "url": "https://open.spotify.com/album/4dvN32CHvR0D1lFhJ0H0wK"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179887,
+      "name": "Gimme",
+      "url": "https://open.spotify.com/track/6WbefFOKFX4e22BAhq65Wc"
+    },
+    {
+      "album": {
         "name": "Gimme More",
         "url": "https://open.spotify.com/album/1iDSLPZqq0diRa0tMPFR97"
       },
@@ -15012,7 +15088,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 194109,
       "name": "Honey",
       "url": "https://open.spotify.com/track/7vvcLryn7Ty6BC4xt0rAqy"
@@ -15848,7 +15924,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 164307,
       "name": "I Feel It",
       "url": "https://open.spotify.com/track/3fhFzDGxemPED8xWxo46mE"
@@ -18717,6 +18793,36 @@
     },
     {
       "album": {
+        "name": "Latinamerica (feat. Vika)",
+        "url": "https://open.spotify.com/album/2bHb66F60DMmKtFlmlkFJK"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Jayie",
+          "url": "https://open.spotify.com/artist/4yiUOYE4qfKINbGjeePqiG"
+        },
+        {
+          "name": "Vika",
+          "url": "https://open.spotify.com/artist/4oJoVioxaLXaqrc9YTvKKu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "Latinamerica (feat. Vika)",
+      "url": "https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6"
+    },
+    {
+      "album": {
         "name": "Lauren (I Can't Stay Forever)",
         "url": "https://open.spotify.com/album/3L1NLn5rcrmV4uVqgaoTI7"
       },
@@ -19442,7 +19548,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 153754,
       "name": "Lift Me Up",
       "url": "https://open.spotify.com/track/1mjEtDb6zXbWWyqyLpN8YR"
@@ -20554,6 +20660,28 @@
       "duration_ms": 191250,
       "name": "Love Songs & Sex",
       "url": "https://open.spotify.com/track/6bM5gMOcBTKSbbNLSCuGw3"
+    },
+    {
+      "album": {
+        "name": "Love Spell",
+        "url": "https://open.spotify.com/album/7CF7PF1YvnPkuziTrWvfQW"
+      },
+      "artists": [
+        {
+          "name": "Westend",
+          "url": "https://open.spotify.com/artist/4epc3Bd0DOBA0kDywkRAsu"
+        },
+        {
+          "name": "Dave Summer",
+          "url": "https://open.spotify.com/artist/24qTxxQWmyOY28ZtW5z7O5"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182769,
+      "name": "Love Spell",
+      "url": "https://open.spotify.com/track/0fjN6JXHE5CS03lUp6DHlk"
     },
     {
       "album": {
@@ -26009,6 +26137,24 @@
     },
     {
       "album": {
+        "name": "Paula Abdul",
+        "url": "https://open.spotify.com/album/2VwwIv7odmc6l7SIFwB0vx"
+      },
+      "artists": [
+        {
+          "name": "Braydon Terzo",
+          "url": "https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218181,
+      "name": "Paula Abdul - Radio Edit",
+      "url": "https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J"
+    },
+    {
+      "album": {
         "name": "Pega",
         "url": "https://open.spotify.com/album/167hCxWi15k96f2XJfqGPM"
       },
@@ -26580,6 +26726,36 @@
       "duration_ms": 183750,
       "name": "Poison (feat. Darla Jade)",
       "url": "https://open.spotify.com/track/7wNny3grnsHDuHxCrrcpgF"
+    },
+    {
+      "album": {
+        "name": "Pony",
+        "url": "https://open.spotify.com/album/4XJj6w9B1gj4pWmtFtwS1P"
+      },
+      "artists": [
+        {
+          "name": "Lee Foss",
+          "url": "https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip"
+        },
+        {
+          "name": "Detlef",
+          "url": "https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI"
+        },
+        {
+          "name": "TheConnect",
+          "url": "https://open.spotify.com/artist/4iHQEWytJI7gcqaNLsyLn0"
+        },
+        {
+          "name": "Spektrum",
+          "url": "https://open.spotify.com/artist/4Z0QHIb2JGll7LllNLeKyD"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230697,
+      "name": "Pony feat. Spektrum",
+      "url": "https://open.spotify.com/track/0wHTFWA4lXEVy4O5URaLVA"
     },
     {
       "album": {
@@ -28546,7 +28722,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 151874,
       "name": "Rockstar",
       "url": "https://open.spotify.com/track/73Isx1gb055c1VEHleCdn9"
@@ -32931,6 +33107,24 @@
     },
     {
       "album": {
+        "name": "S\u00e3o Paulo EP",
+        "url": "https://open.spotify.com/album/690QdmHPXtjGxLuQ4MzJt4"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180468,
+      "name": "S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1LZ8F84Vj6EAnerY7RiMUO"
+    },
+    {
+      "album": {
         "name": "T.F.C.",
         "url": "https://open.spotify.com/album/0W8dOcmOLqtPv79RzaUWIT"
       },
@@ -33308,7 +33502,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 220033,
       "name": "take your vibes and go - Kino Todo Remix",
       "url": "https://open.spotify.com/track/7rKntPgNiS11cRF8kBNfIR"
@@ -37339,6 +37533,24 @@
     },
     {
       "album": {
+        "name": "W Up EP",
+        "url": "https://open.spotify.com/album/1aG9J0UUaOLXdiKQnJ2gnk"
+      },
+      "artists": [
+        {
+          "name": "EdiP",
+          "url": "https://open.spotify.com/artist/5LJwuxjm7hqe5ssWMyyQTE"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "W Up",
+      "url": "https://open.spotify.com/track/4sD8IER4xBNH6Onug5klHU"
+    },
+    {
+      "album": {
         "name": "Wait A Minute",
         "url": "https://open.spotify.com/album/2rieP0vqq7SkCqyOnDDb69"
       },
@@ -38786,7 +38998,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 154903,
       "name": "Work",
       "url": "https://open.spotify.com/track/4YiJqjUolSijPyCoWqwftq"

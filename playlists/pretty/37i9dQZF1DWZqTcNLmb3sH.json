@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62382,
+  "num_followers": 62425,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4jKcQAAAADonAhD8OE3YxjgU6f+Vmp8",
+  "snapshot_id": "Z4oXRAAAAABZZmr8yZVpLtpTafUgkJm2",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -95,6 +95,54 @@
       "duration_ms": 266397,
       "name": "Churuku Notave (From \"Apaayavide Eccharike\")",
       "url": "https://open.spotify.com/track/6816V0I711ysVSEh8mV1GX"
+    },
+    {
+      "added_at": "2025-01-17 08:38:52",
+      "album": {
+        "name": "Maathu Kelayya (From \"Hari Hara Veera Mallu\") [Kannada]",
+        "url": "https://open.spotify.com/album/0L3EaVuJuMKbiOYy0YMWbX"
+      },
+      "artists": [
+        {
+          "name": "Lokeshwar Edara",
+          "url": "https://open.spotify.com/artist/7ag0al5P3y3IzzEh0G7YL8"
+        },
+        {
+          "name": "M. M. Keeravaani",
+          "url": "https://open.spotify.com/artist/12l1SqSNsg2mI2IcXpPWjR"
+        },
+        {
+          "name": "Varadaraj Chikkaballapura",
+          "url": "https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Maathu Kelayya (From \"Hari Hara Veera Mallu\") [Kannada]",
+      "url": "https://open.spotify.com/track/4ZMNKb1eV1IiLVsBVv5mV7"
+    },
+    {
+      "added_at": "2025-01-17 07:48:56",
+      "album": {
+        "name": "The Arrival (From \"45\")",
+        "url": "https://open.spotify.com/album/0oc0tZ0QhazcuuIGvNOXSW"
+      },
+      "artists": [
+        {
+          "name": "Rahul Dit-O",
+          "url": "https://open.spotify.com/artist/1wYqqLCZJQ3ZMfKUGgZQoe"
+        },
+        {
+          "name": "Roopesh",
+          "url": "https://open.spotify.com/artist/4JEMqZwWIDIoqldRZgkEek"
+        },
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        }
+      ],
+      "duration_ms": 159301,
+      "name": "The Arrival (From \"45\")",
+      "url": "https://open.spotify.com/track/4mNsYI4BkuvYLwyGulaM5p"
     },
     {
       "added_at": "2025-01-16 08:59:29",
@@ -1659,30 +1707,6 @@
       "duration_ms": 250172,
       "name": "Spark (From \"The Greatest Of All Time\")",
       "url": "https://open.spotify.com/track/7kJoZkaSJRBeXZ6PKnTyRP"
-    },
-    {
-      "added_at": "2024-11-19 05:23:54",
-      "album": {
-        "name": "Gaayalu Nee (From \"Zebra\")",
-        "url": "https://open.spotify.com/album/2Ma13R8BeWH5dHWlxIKbfO"
-      },
-      "artists": [
-        {
-          "name": "Santhosh Venky",
-          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
-        },
-        {
-          "name": "Ravi Basrur",
-          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
-        },
-        {
-          "name": "Shashank Soghal",
-          "url": "https://open.spotify.com/artist/0tDeB0fjnuGuyy1z1tVW47"
-        }
-      ],
-      "duration_ms": 221353,
-      "name": "Gaayalu Nee (From \"Zebra\")",
-      "url": "https://open.spotify.com/track/07pP8TWc17ocVQ5OZAwirx"
     },
     {
       "added_at": "2024-11-20 04:04:52",

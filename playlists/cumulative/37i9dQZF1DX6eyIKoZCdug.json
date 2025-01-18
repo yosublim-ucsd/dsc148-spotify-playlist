@@ -1295,6 +1295,28 @@
     },
     {
       "album": {
+        "name": "Exit",
+        "url": "https://open.spotify.com/album/2gQD5y4BwUH5gfUxhGX7RY"
+      },
+      "artists": [
+        {
+          "name": "SOLECO",
+          "url": "https://open.spotify.com/artist/7JX7i8Tb9zle1j3Qm5Mb5w"
+        },
+        {
+          "name": "Kali Mija",
+          "url": "https://open.spotify.com/artist/6hMmznEAGabh8UiGkQIuvP"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227556,
+      "name": "Exit",
+      "url": "https://open.spotify.com/track/5ajy4B3K4qknKQhy5kntaZ"
+    },
+    {
+      "album": {
         "name": "Faster",
         "url": "https://open.spotify.com/album/2EEZMFcpzSYOklnonD9p3p"
       },
@@ -5540,6 +5562,32 @@
       "duration_ms": 399661,
       "name": "VOICES",
       "url": "https://open.spotify.com/track/74jHixTwsXLdIKDKA7PK6V"
+    },
+    {
+      "album": {
+        "name": "Vuka (feat. Thukuthela)",
+        "url": "https://open.spotify.com/album/2kOXA5AceS4b8bfjtZW4nE"
+      },
+      "artists": [
+        {
+          "name": "Oscar Mbo",
+          "url": "https://open.spotify.com/artist/6rPG97md3RdzwNc1eJQQNX"
+        },
+        {
+          "name": "Jazzworx",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327451,
+      "name": "Vuka (feat. Thukuthela)",
+      "url": "https://open.spotify.com/track/24fRfn3FOM4xk02aE4wief"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-758 songs - 1 day 18 hr 14 min
+759 songs - 1 day 18 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -77,6 +77,7 @@
 | [BANG](https://open.spotify.com/track/3l6D0NUQn6Ttyz5ePSPk5w) | [Chaz French](https://open.spotify.com/artist/3BYzEWh3pY0DZpMN0hFufv), [Butch Dawson](https://open.spotify.com/artist/5OrGPqB2BSIc3I6ar90qIL) | [BANG](https://open.spotify.com/album/6owjFYUYF5Dz5KoZNUpows) | 3:15 | 2023-02-10 | 2023-11-11 |
 | [Barbie Dangerous](https://open.spotify.com/track/1fKT7RUtOf4xNEqctEFe5L) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh) | [Pink Friday 2](https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2) | 2:12 | 2023-12-08 | 2024-02-10 |
 | [Be Honest'](https://open.spotify.com/track/0YQ1b1ySD9cDPnqpDVB7SQ) | [Skip Waiters](https://open.spotify.com/artist/4VarNqx7kH5tBCBQwtixav) | [MP3 Player](https://open.spotify.com/album/0RiBrW2AVB3VpGL0m3gYc5) | 2:10 | 2022-11-18 | 2023-04-15 |
+| [Bear Trap](https://open.spotify.com/track/2eI39ZcdcjFiPvLQvJ1COb) | [MIKE](https://open.spotify.com/artist/1wlzPS1hSNrkriIIwLFTmU) | [Bear Trap](https://open.spotify.com/album/0ckGmkDxDZeVpHZ8sP5G8P) | 2:50 | 2025-01-17 |  |
 | [Beat Breaks \(feat\. Nas\)](https://open.spotify.com/track/34rwJDeFgvZXd9KtiBkQKI) | [DJ Premier](https://open.spotify.com/artist/6GEykX11lQqp92UVOQQCC7), [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Hip Hop 50: Vol\. 1](https://open.spotify.com/album/3YQRfcAxfqX4KJt4o0yCTm) | 2:39 | 2022-07-15 | 2022-12-17 |
 | [Beautiful Life \(feat\. 38 Spesh & Jay Worthy\)](https://open.spotify.com/track/6lKRzRSizlPqAnHSAALuqG) | [Jay Exodus](https://open.spotify.com/artist/5dgpDskNSWSGt4CfF3uEmA), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [Beautiful Life \(feat\. 38 Spesh & Jay Worthy\)](https://open.spotify.com/album/5FpBZuKzH03Q38TG6crrB4) | 4:13 | 2024-04-05 | 2024-06-01 |
 | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/track/1nLHSHocLNaLJCjKO153zw) | [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo), [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS), [Dylan Cartlidge](https://open.spotify.com/artist/0ofvvakxXcRhIy5fgIoB9z), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [Because \(feat\. Joey Bada$$, Russ, and Dylan Cartlidge\)](https://open.spotify.com/album/1pR6uGydVEKpApUfXi3SRp) | 4:41 | 2022-06-17 | 2022-10-15 |
@@ -582,7 +583,7 @@
 | [Sicilian Gold](https://open.spotify.com/track/3D8zRq1zN0hCwxgQutkKma) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Ghostface Killah](https://open.spotify.com/artist/6FD0unjzGQhX3b6eMccMJe), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Soul Assassins 3: Death Valley](https://open.spotify.com/album/2mdiBHkwcyU6EBnhLtStoD) | 1:54 | 2023-08-25 | 2024-01-06 |
 | [Sign Language](https://open.spotify.com/track/4wGAMAf3eUM0TKY4CbGvvT) | [REASON](https://open.spotify.com/artist/6XpXnnKHIhCOUbOLOJGe6o), [ICECOLDBISHOP](https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4) | [Sign Language](https://open.spotify.com/album/7Ms13CjeARBBSgBoybweig) | 2:20 | 2022-09-23 | 2022-11-12 |
 | [SILVERSTONE SUMMERTIMES III.](https://open.spotify.com/track/4nSIagdYwtuni95rRopyty) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [SILVERSTONE SUMMERTIMES III.](https://open.spotify.com/album/1FgNpmK9hdaVy9fZq5HK5P) | 4:02 | 2024-09-06 | 2024-12-07 |
-| [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 | 2023-12-08 |  |
+| [Simon Says](https://open.spotify.com/track/62l1ZGNoUlJlVwhwMKu2T6) | [Pharoahe Monch](https://open.spotify.com/artist/5DKuVtlpDH0agZQUFDy8O7) | [Internal Affairs](https://open.spotify.com/album/4tAVbKbYeZ4fJ3jT5i3LQS) | 2:53 | 2023-12-08 | 2025-01-18 |
 | [SINCE ELEMENTARY](https://open.spotify.com/track/71d0lchALPqiRFOFK97UIk) | [Nick Grant](https://open.spotify.com/artist/2QOP6zKx1d0gGEtuuXOvJ3) | [SINCE ELEMENTARY](https://open.spotify.com/album/4vfgYrG8nEUrwXJ0xbGYZs) | 3:24 | 2023-06-02 | 2023-09-23 |
 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/68B0wu3z0t7N8p9lpko4Ak) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [From a Birds Eye View](https://open.spotify.com/album/3N3alcn9EvmanafUt70Vxh) | 2:26 | 2022-07-22 | 2023-01-28 |
 | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/track/2Tq63TjpS5euE9jT1GWleN) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Sinister \(feat\. Lil Wayne\)](https://open.spotify.com/album/7iW9jDpzjy2dGOudC2dRXX) | 2:28 | 2022-04-29 | 2022-07-29 |

@@ -1,13 +1,33 @@
 {
   "description": "Sing-along to your favorite songs from Disney Jr. shows including music from SuperKitties.",
-  "num_followers": 58200,
+  "num_followers": 58208,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "ZxXRwAAAAAC2iB564NXrEiulsoGeT4xw",
+  "snapshot_id": "Z4nj7AAAAACW9CRT6WqdKOpildMmwXNU",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:00:28",
+      "album": {
+        "name": "Disney Jr. Music: RoboGobo (From \"Disney Jr. Music: RoboGobo\")",
+        "url": "https://open.spotify.com/album/78OTjWwoe5yyeDtQtro6K9"
+      },
+      "artists": [
+        {
+          "name": "RoboGobo - Cast",
+          "url": "https://open.spotify.com/artist/1ARw009ppFc8CQki3PrB3h"
+        },
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        }
+      ],
+      "duration_ms": 49984,
+      "name": "RoboGobo Theme Song",
+      "url": "https://open.spotify.com/track/5gRwe0PmaDfGh8usFGTrGe"
+    },
     {
       "added_at": "2024-06-26 21:40:30",
       "album": {

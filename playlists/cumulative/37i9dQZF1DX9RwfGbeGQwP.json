@@ -2394,6 +2394,24 @@
     {
       "album": {
         "name": "Blue Skies",
+        "url": "https://open.spotify.com/album/3BWSJPIXOjB4foaWZUaaP3"
+      },
+      "artists": [
+        {
+          "name": "fnonose",
+          "url": "https://open.spotify.com/artist/74yvhBPUU5nloVsshHE95q"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Blue Skies",
+      "url": "https://open.spotify.com/track/0mjdAMZmxOAbepyOzsQnDp"
+    },
+    {
+      "album": {
+        "name": "Blue Skies",
         "url": "https://open.spotify.com/album/3BtBTdhmL7fg1RchxUWnoK"
       },
       "artists": [
@@ -5038,7 +5056,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-16",
+      "date_removed": null,
       "duration_ms": 112207,
       "name": "copacabana",
       "url": "https://open.spotify.com/track/7H0dkH6iZd6DliDhp9PgLf"
@@ -11110,7 +11128,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 92086,
       "name": "hot chocolate",
       "url": "https://open.spotify.com/track/01qfQeaiIl62qPTRHp4A7w"
@@ -13456,7 +13474,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 144000,
       "name": "Leaves",
       "url": "https://open.spotify.com/track/20FnrNSnrCmwZ3vZwcOVVP"
@@ -17193,6 +17211,28 @@
     },
     {
       "album": {
+        "name": "new menu",
+        "url": "https://open.spotify.com/album/38pMJfagwN6Hope1Q30J18"
+      },
+      "artists": [
+        {
+          "name": "yeyts.",
+          "url": "https://open.spotify.com/artist/4fawpeTlkJtDMXDzJmBYSR"
+        },
+        {
+          "name": "Howiewonder",
+          "url": "https://open.spotify.com/artist/6tLB3u0PouAAwQXDRFuiSk"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118611,
+      "name": "new menu",
+      "url": "https://open.spotify.com/track/4rakqmJYFMSWhehlqzoG9b"
+    },
+    {
+      "album": {
         "name": "New Sneakers",
         "url": "https://open.spotify.com/album/1nZCM4YAGBf6CgKuLUCxIx"
       },
@@ -17342,7 +17382,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 118170,
       "name": "Night Fall",
       "url": "https://open.spotify.com/track/5VoNMQnReFhac59idZ1lNS"
@@ -24386,7 +24426,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 129882,
       "name": "Sunset Dreams",
       "url": "https://open.spotify.com/track/46CFqyiU1lUJ4IUJ5zskas"
@@ -26346,7 +26386,7 @@
       ],
       "date_added": "2022-07-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 134457,
       "name": "Tortilla Monday",
       "url": "https://open.spotify.com/track/37wRNwFhzLSkYx3CrSi9JI"

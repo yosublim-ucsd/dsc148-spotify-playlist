@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-4,778 songs - 10 day 13 hr 13 min
+4,782 songs - 10 day 13 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -944,6 +944,7 @@
 | [Crooks & Crypto](https://open.spotify.com/track/038LSiJGYexpIkaMkMf5eP) | [Temz](https://open.spotify.com/artist/3ksrra1WHKgGrr7ss2BYYg) | [Superstar Symptoms](https://open.spotify.com/album/2yod5iWQt2nqckSVpqXRWf) | 3:00 | 2022-11-25 | 2022-12-31 |
 | [Crossroads](https://open.spotify.com/track/2dnESpld6LUhkSbsSqJblB) | [Eleftherios](https://open.spotify.com/artist/2JqkLFTZVP8UHr2mwex9pe), [Jordan Dennis](https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5) | [Crossroads](https://open.spotify.com/album/49hwIhafb6YNeFRp25sBn2) | 3:28 | 2021-03-06 | 2021-03-27 |
 | [Cruise Control](https://open.spotify.com/track/6XQHvN0W6OZnKB1b1wNnge) | [ONEFOUR](https://open.spotify.com/artist/6kQfGeicc9EiQMzAYX0f9U) | [Cruise Control](https://open.spotify.com/album/6d9gmxzE3xJnvHcKx3JjGQ) | 2:11 | 2022-05-13 | 2022-06-25 |
+| [CRUSH](https://open.spotify.com/track/1beIM2SJTmoOxlfQuiSuqp) | [ENERGY11](https://open.spotify.com/artist/2vyP9Rp235NU2fZQmwOMQv) | [WOLF CLUB](https://open.spotify.com/album/64nm4DNVpPoxjdaghiRUgt) | 4:15 | 2025-01-17 |  |
 | [Crush](https://open.spotify.com/track/7kstFtIrBtNXk15GAAKL5q) | [Entrelineas](https://open.spotify.com/artist/3mMfJELOQF6XvIreA3sZir) | [Crush](https://open.spotify.com/album/2pJzCnpujxrJ4l1a8Ep4Cp) | 3:03 | 2023-07-07 | 2023-07-29 |
 | [Crushed Heavenly](https://open.spotify.com/track/32nb79RqOvkpx8fPnmtl4M) | [Kenny Segal](https://open.spotify.com/artist/13vr2QqzoWOWDyaAZDuEGO), [K\-The\-I???](https://open.spotify.com/artist/2FCPd4DAHb83lvNwNZRDBF), [ShrapKnel](https://open.spotify.com/artist/6ndlgcnRjreUsHyQCjsQnj), [PremRock](https://open.spotify.com/artist/13kiuNRHlROJeT7L15o7vi), [Curly Castro](https://open.spotify.com/artist/0GvYGN5U1LNaLvW2OkzxNS) | [Crushed Heavenly](https://open.spotify.com/album/4Q1VMjbQ7PkGSteiB6rp91) | 2:54 | 2024-11-22 | 2025-01-11 |
 | [cry 4 help](https://open.spotify.com/track/5kwzvY7exmihTO4w7BNH7Q) | [oddCouple](https://open.spotify.com/artist/4SNPCk41ou9AgQeMBIEZqi) | [cry 4 help](https://open.spotify.com/album/1NPWk77dYSpHD2nbszYYt1) | 3:05 | 2024-05-03 | 2024-05-25 |
@@ -1510,6 +1511,7 @@
 | [Focus](https://open.spotify.com/track/565DOCIbgHQmFNnC7r7Wc4) | [Asher Kosher](https://open.spotify.com/artist/7nTnkuOevyqxZXyWkzNDz6), [Whoeva?](https://open.spotify.com/artist/1v5GXwd79sYewyWJw7gnCh), [Eerf Evil](https://open.spotify.com/artist/7lAgcr9ZD4sYzAmxuDOxlm) | [Focus](https://open.spotify.com/album/7JL1EQlrFSFKd5LtH4jnK7) | 2:58 | 2022-05-20 | 2022-06-18 |
 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 | 2025-01-03 |  |
 | [FONTE \|\|](https://open.spotify.com/track/6MmCQhk7nVGRWHd1V9vfqW) | [Dow Raiz](https://open.spotify.com/artist/73rvzBoed3qMm7yNNBtWfu) | [FONTE \|\|](https://open.spotify.com/album/31TTFgxLStUMfVgK6jOz41) | 4:15 | 2024-03-01 | 2024-03-16 |
+| [Fooling Me Twice](https://open.spotify.com/track/5d6nwyEKhri5q8uT9Ypgdh) | [p\-rallel](https://open.spotify.com/artist/0YSI1Vwzd1u7wO7p3md4qD), [Dom Valentino](https://open.spotify.com/artist/1eWXBPrs5K5aZXTIWdIlPe) | [Fooling Me Twice](https://open.spotify.com/album/4eZ4Cu2SvitRosfPcORdmR) | 2:45 | 2025-01-17 |  |
 | [Fools Gold](https://open.spotify.com/track/6CPS0sKD6T34lwJIv4fwfE) | [Fenn Wilson](https://open.spotify.com/artist/7ktc5g5kgHs3N42OXJfNei) | [Honey Dates Death / Ghazals](https://open.spotify.com/album/6zjFV4HBFZaCyqhhKzlNc1) | 4:21 | 2023-04-14 | 2023-05-06 |
 | [Fools In Porsches](https://open.spotify.com/track/2Z8rJ1smsm9y2VyzRxI9mT) | [sounds mint](https://open.spotify.com/artist/5hx1tP4Egp1xNgI1c5cLcK) | [Club Penguin](https://open.spotify.com/album/4qoR3UwTqNYmdevF61jXSD) | 2:16 | 2024-03-15 | 2024-04-13 |
 | [For Life](https://open.spotify.com/track/0GKlt96aftWsiJsT7e9Qvr) | [Tempza](https://open.spotify.com/artist/4L3I92jE3sohrZafi1UNdC), [Cooky](https://open.spotify.com/artist/1gIG3PQXZfplVilbDBdzap) | [For Life](https://open.spotify.com/album/0BT4Rsg2tIxdCkDjgdmH2N) | 2:41 | 2023-12-08 | 2024-01-06 |
@@ -2174,6 +2176,7 @@
 | [JOGODO](https://open.spotify.com/track/1ogXdYZQ7ZNn7hJaBdwlBX) | [Hasin](https://open.spotify.com/artist/2s1fxat2D0HFYkx7aimn0z), [LuckyDchampion](https://open.spotify.com/artist/4bhX8kI7zEhvgq3qbqBijn) | [JOGODO](https://open.spotify.com/album/1VaJF2mVwwSOGznmLuhxdW) | 3:06 | 2024-02-09 | 2024-03-02 |
 | [John Doe](https://open.spotify.com/track/3Vhb7zXnRhB4hbyIpZmTTc) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [John Doe](https://open.spotify.com/album/7Kfc8USTj4HDK3eoQf8xGU) | 2:00 | 2024-02-16 | 2024-03-02 |
 | [Johnny Cogio Su Fusil](https://open.spotify.com/track/09cDfofidQIO4QQncAXOvm) | [LocoAlien](https://open.spotify.com/artist/6WW9x3k9ErTm4GNr6efdZp) | [Johnny Cogio Su Fusil](https://open.spotify.com/album/2sr0HxZoR5u1Ele9N6r8sV) | 2:03 | 2023-02-24 | 2023-03-11 |
+| [Joli](https://open.spotify.com/track/66FpEtAe4LDqZJF0GORY1S) | [sheyni](https://open.spotify.com/artist/7LjN82BFnz7DGbQOR6WPWU) | [Joli](https://open.spotify.com/album/5e6BdutOMWL5Zki30hPcZu) | 2:24 | 2025-01-17 |  |
 | [Jordan 1s](https://open.spotify.com/track/2VU0FHPZfnkCYQLTTosD9e) | [Vv Pete](https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr), [UTILITY](https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi) | [Jordan 1s](https://open.spotify.com/album/6wWL8dHpzUOG6pR01OQmpy) | 3:09 | 2023-05-26 | 2023-06-17 |
 | [Jordans](https://open.spotify.com/track/65ieRUsNtOnobKFCBZbepm) | [SR](https://open.spotify.com/artist/2NZN0JDhWXmMmhSXTbhm1h) | [Jordans](https://open.spotify.com/album/3HCBsHt2YJ0KbeV8H2xf0u) | 3:13 | 2023-03-31 | 2023-05-13 |
 | [Josefina](https://open.spotify.com/track/1dcR4TvFbZ93ewTZwFjLiY) | [La Vida Bohème](https://open.spotify.com/artist/5gs7iemsrjIJbz0ryFcy79) | [TITULARES](https://open.spotify.com/album/10Mobda5NcZfTaFymiZrR6) | 4:50 | 2022-04-22 | 2022-05-28 |
@@ -3364,6 +3367,7 @@
 | [Prophase](https://open.spotify.com/track/3x5btfCqFzGhMcSy8dGQ9O) | [Zafty](https://open.spotify.com/artist/6vZZaBN2jQ513Dt7onY3Hk) | [Prophase](https://open.spotify.com/album/0WmCbhJIUPdAllRgGpuuzm) | 2:09 | 2024-05-03 | 2024-05-25 |
 | [Protect The Brand](https://open.spotify.com/track/6c1WN5aRvWeBCDlvDjIgle) | [KILL, THE ICON!](https://open.spotify.com/artist/2qM0u5t1l6nuAhmOZKn5Wg) | [Protect The Brand](https://open.spotify.com/album/3d7s3yKZuZy5hUS1iPGEiN) | 3:51 | 2023-02-24 | 2023-03-11 |
 | [PSYCHO](https://open.spotify.com/track/4hML3fFHY3xtJdGqlmNgw0) | [Self Deception](https://open.spotify.com/artist/0FHW0Lp33r3fvIG0HL4mW0) | [PSYCHO](https://open.spotify.com/album/0UK8WwRL2oYVG4wakmjk6p) | 3:24 | 2022-05-13 | 2022-07-03 |
+| [Psycho Killer](https://open.spotify.com/track/3cO0kyyBTA9NKPktWLNiq6) | [AViVA](https://open.spotify.com/artist/50tDsT4wwq8FCMJNkn1D67), [Mblue](https://open.spotify.com/artist/4134TXTLVwvAo2oe3lMVCJ), [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Psycho Killer](https://open.spotify.com/album/1i4yS9lXGa6q9WidW8Up3T) | 3:01 | 2025-01-17 |  |
 | [public](https://open.spotify.com/track/1A9PM7vk2DlpnDPfNtT6Th) | [mike.](https://open.spotify.com/artist/5G9kmDLg3OeUyj8KVBLzbu) | [public](https://open.spotify.com/album/32AwwVEvEC12LkCcV5GoYP) | 2:57 | 2024-02-16 | 2024-03-09 |
 | [Public Displays Of Deflection](https://open.spotify.com/track/4qLnpun6wf5ZcJ0YfOzAHn) | [90ivy](https://open.spotify.com/artist/0ysjzJcaC8CMgXBL1Iw3BC) | [Public Displays Of Deflection](https://open.spotify.com/album/3wQesREQYzKYgC62ObINzx) | 3:04 | 2023-07-28 | 2023-08-20 |
 | [Puddles](https://open.spotify.com/track/6V1RPcnnpiw4WIFKNI1GWK) | [Nat Slater](https://open.spotify.com/artist/6aoPz3BFmcELxlTAx9xxts) | [Puddles](https://open.spotify.com/album/3KmHQqnBYtynGMt6ZW16FP) | 3:35 | 2021-11-06 | 2021-12-04 |

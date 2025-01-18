@@ -2040,6 +2040,24 @@
     {
       "album": {
         "name": "chille guy",
+        "url": "https://open.spotify.com/album/0fHVPIbtXgbAv0LJnri8jR"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100279,
+      "name": "chille guy",
+      "url": "https://open.spotify.com/track/7BDorbvHZ7gcHwEZLu06eY"
+    },
+    {
+      "album": {
+        "name": "chille guy",
         "url": "https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ"
       },
       "artists": [

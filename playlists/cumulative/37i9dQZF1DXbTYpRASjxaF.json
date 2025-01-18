@@ -1332,7 +1332,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 166034,
       "name": "Bala da Coruja",
       "url": "https://open.spotify.com/track/7MjUS0vMe6hQNSJQTAw4Vo"
@@ -9534,7 +9534,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 193663,
       "name": "Prazer Te Conhecer",
       "url": "https://open.spotify.com/track/1FW29XcpGqX66vYb0Nfo7X"
@@ -12668,6 +12668,62 @@
       "duration_ms": 300000,
       "name": "Vou de Lala",
       "url": "https://open.spotify.com/track/6MQrN9fclpvR4nf0uJrG1x"
+    },
+    {
+      "album": {
+        "name": "LOGO MANIA",
+        "url": "https://open.spotify.com/album/2PZmM0dcw06xshDRwHzUup"
+      },
+      "artists": [
+        {
+          "name": "MC KTRINE",
+          "url": "https://open.spotify.com/artist/5OYUyB5akCjyfKq9TDn283"
+        },
+        {
+          "name": "DJ SAZE",
+          "url": "https://open.spotify.com/artist/2HrKTpCwAnIHz39mXoaNot"
+        },
+        {
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+        },
+        {
+          "name": "EHXIS",
+          "url": "https://open.spotify.com/artist/3QDb2HGMBIMqmkhF5iJ2Q4"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127384,
+      "name": "Vou de Mizuno",
+      "url": "https://open.spotify.com/track/649axAiAco1gH3PgaPVTky"
+    },
+    {
+      "album": {
+        "name": "Vou Nessa",
+        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "Vou Nessa",
+      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
     },
     {
       "album": {

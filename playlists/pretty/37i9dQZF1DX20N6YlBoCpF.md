@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8?si=D4oj7s0qQySyqKODyvTlzQ">Jan\-Mattys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,789 likes - 59 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,867 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,17 +55,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 | 45 | [Rooisee](https://open.spotify.com/track/7zmERFx3IZauAmhAUGqwSQ) | [Steve Hofmeyr](https://open.spotify.com/artist/3XYaWzAVTUeNetMigezvS5), [Liezel Pieters](https://open.spotify.com/artist/3Wk4aDwlH1CsErepTTZVe4) | [Rooisee](https://open.spotify.com/album/6SiVqggBdw9kh57sRqhf4j) | 3:26 |
 | 46 | [Byt vissie byt](https://open.spotify.com/track/5xLX2MgXHkaGmjqbHkxLlR) | [Robbie Wessels](https://open.spotify.com/artist/05RbDB13aoIZwFzHqe8ehO) | [Byt vissie byt](https://open.spotify.com/album/6HqmAbAB88brvHGD3hLnKk) | 3:16 |
 | 47 | [Liefde Koop Nie Brood Nie](https://open.spotify.com/track/17sYTxAm9Kh0Nl4BwfPriG) | [Barto](https://open.spotify.com/artist/4gzfjw2nlFFo1tda8jgJbG) | [Liefde Koop Nie Brood Nie](https://open.spotify.com/album/38TQCChizTtMzHAwQ96tz4) | 3:18 |
-| 48 | [Getroude Boude](https://open.spotify.com/track/6uLCYySr4QxglFTmhQOZJH) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25) | [Getroude Boude](https://open.spotify.com/album/2DitNCv66bEHYVCushkd2A) | 2:46 |
-| 49 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
-| 50 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
-| 51 | [Ik Ben Een Afrikaander](https://open.spotify.com/track/6qqq4BVds5A4py5kwBgw2p) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Ik Ben Een Afrikaander](https://open.spotify.com/album/6ltCW6g9GHM3Q234qeF3V0) | 3:21 |
-| 52 | [Ek Verstaan](https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ek Verstaan](https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI) | 2:44 |
-| 53 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
-| 54 | [VERE!](https://open.spotify.com/track/5Ag7JEOVKVNN8VkWeQMIfB) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [VERE!](https://open.spotify.com/album/4xai2wdYQVMV0oBdLU7nB4) | 2:39 |
-| 55 | [Klomp Keer Lekker](https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Klomp Keer Lekker](https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP) | 3:05 |
-| 56 | [Reik Na Die Sterre \- SENSASIE Remix](https://open.spotify.com/track/3TKQeEZ9XMo34b42W30qPN) | [Gerrie Pretorius](https://open.spotify.com/artist/5uLIqMxUxjQWhWR0cizCHT), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [SENSASIE Remixes](https://open.spotify.com/album/2OuDbimuXJ9yiu9OYYEdct) | 3:33 |
-| 57 | [Hande Op My Lyf \- Shokbasse Remix](https://open.spotify.com/track/5W08ALPUW7VdOwbLJGzzJd) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Hande Op My Lyf \(Shokbasse Remix\)](https://open.spotify.com/album/4WnmAgC6OB7zYOJQfZSDA3) | 2:38 |
-| 58 | [Plaas Toe](https://open.spotify.com/track/0NFSKhj9XWqqkpK42avcoI) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Plaas Toe](https://open.spotify.com/album/5VPMeKZAZZOEiKKGr8UoWA) | 3:08 |
-| 59 | [Soen My Op My Boepie](https://open.spotify.com/track/7IXrDETAoVKmsNp7vvQrPr) | [Daniel Hoffmann](https://open.spotify.com/artist/3JdglLgnqthoUlF5m1cBGX) | [Soen My Op My Boepie](https://open.spotify.com/album/0VOk3O5kZ9J7Pv9QdPZRTa) | 3:13 |
+| 48 | [Klein Maanskyn](https://open.spotify.com/track/4pGXZTvQg8RoP2Eiz8EX9L) | [Touch by Mirror](https://open.spotify.com/artist/0wyKENJo86SfbhWYUiFOc8) | [Realms Of Disaster](https://open.spotify.com/album/3TpP5APtJ0YJukbSYs1RC1) | 3:44 |
+| 49 | [Getroude Boude](https://open.spotify.com/track/6uLCYySr4QxglFTmhQOZJH) | [Peer Papsak](https://open.spotify.com/artist/5tIdqrPNjJrG3JpyYY4D25) | [Getroude Boude](https://open.spotify.com/album/2DitNCv66bEHYVCushkd2A) | 2:46 |
+| 50 | [Klein Bietjie](https://open.spotify.com/track/3VAhXrrV3pA0hSHfG3fFPr) | [Tamlyn Wessels](https://open.spotify.com/artist/7kn42hQGKZNuDbr3K9cxEu) | [Klein Bietjie](https://open.spotify.com/album/0ZkDuGMo31cNfxnjmOrP2r) | 3:01 |
+| 51 | [Lego](https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ) | [Sonder Onderbroeke](https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx) | [Lego](https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1) | 2:31 |
+| 52 | [Ik Ben Een Afrikaander](https://open.spotify.com/track/6qqq4BVds5A4py5kwBgw2p) | [Bok Van Blerk](https://open.spotify.com/artist/0vevzNDJEuDySBGxIPWcHZ) | [Ik Ben Een Afrikaander](https://open.spotify.com/album/6ltCW6g9GHM3Q234qeF3V0) | 3:21 |
+| 53 | [Ek Verstaan](https://open.spotify.com/track/4f1ejHkPawc7rqetNInHOA) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa), [Karlien Van Jaarsveld](https://open.spotify.com/artist/25SUuR1e32ukcdYldmAyp5) | [Ek Verstaan](https://open.spotify.com/album/1lgKA1jlBsN9OqDct5jzrI) | 2:44 |
+| 54 | [Kan 'N Man](https://open.spotify.com/track/3w7vidvutb67kWqPqneh6O) | [Ruhan Du Toit](https://open.spotify.com/artist/4C448Mfxj3pcyU9pgHTTpe) | [Kan 'N Man](https://open.spotify.com/album/2KYAMqC9CrrTisESdH1LoV) | 2:49 |
+| 55 | [VERE!](https://open.spotify.com/track/5Ag7JEOVKVNN8VkWeQMIfB) | [Franja Du Plessis](https://open.spotify.com/artist/3GsEM7KApCMtRdlUrj1V41) | [VERE!](https://open.spotify.com/album/4xai2wdYQVMV0oBdLU7nB4) | 2:39 |
+| 56 | [Klomp Keer Lekker](https://open.spotify.com/track/40FGZ56Zjax8fsqsKw9fo9) | [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [Klomp Keer Lekker](https://open.spotify.com/album/5Mr8tnCRqLWARX2UM8U5EP) | 3:05 |
+| 57 | [Reik Na Die Sterre \- SENSASIE Remix](https://open.spotify.com/track/3TKQeEZ9XMo34b42W30qPN) | [Gerrie Pretorius](https://open.spotify.com/artist/5uLIqMxUxjQWhWR0cizCHT), [SENSASIE](https://open.spotify.com/artist/10HlHRiu2de76RWUBTbg14) | [SENSASIE Remixes](https://open.spotify.com/album/2OuDbimuXJ9yiu9OYYEdct) | 3:33 |
+| 58 | [Hande Op My Lyf \- Shokbasse Remix](https://open.spotify.com/track/5W08ALPUW7VdOwbLJGzzJd) | [Armand Joubert](https://open.spotify.com/artist/5KnlL16gAV2FJVBZgT04Tu), [ShokBasse](https://open.spotify.com/artist/5T2FFt1abRd5ZJKrzB2ZZj) | [Hande Op My Lyf \(Shokbasse Remix\)](https://open.spotify.com/album/4WnmAgC6OB7zYOJQfZSDA3) | 2:38 |
+| 59 | [Plaas Toe](https://open.spotify.com/track/0NFSKhj9XWqqkpK42avcoI) | [WG NEL](https://open.spotify.com/artist/62J5bvFwPxJf52xjGcHTd4) | [Plaas Toe](https://open.spotify.com/album/5VPMeKZAZZOEiKKGr8UoWA) | 3:08 |
+| 60 | [Soen My Op My Boepie](https://open.spotify.com/track/7IXrDETAoVKmsNp7vvQrPr) | [Daniel Hoffmann](https://open.spotify.com/artist/3JdglLgnqthoUlF5m1cBGX) | [Soen My Op My Boepie](https://open.spotify.com/album/0VOk3O5kZ9J7Pv9QdPZRTa) | 3:13 |
 
 Snapshot ID: `Z4mBdwAAAABgvJogoZ0kQaHXEHEm/ncD`

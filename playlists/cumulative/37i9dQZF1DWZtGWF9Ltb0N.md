@@ -4,7 +4,7 @@
 
 > Floor shattering bass and dark soundscapes ♣️
 
-724 songs - 2 day 0 hr 54 min
+726 songs - 2 day 0 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Altair](https://open.spotify.com/track/4U95OXDYDP37bDPQmQAjYO) | [3WA](https://open.spotify.com/artist/2HWBW5CHvjEMqmPL5HmPgp) | [Altair](https://open.spotify.com/album/4ysjvZUUh0pBHJL78QXjqa) | 5:01 | 2022-02-17 | 2022-07-28 |
 | [Always](https://open.spotify.com/track/7aMmDj30GXfnSxuiKuyxBE) | [Circumference](https://open.spotify.com/artist/55WGXEp1qUerac8ChlL5Ii) | [Time](https://open.spotify.com/album/2YCC1Rk5v1QvXRDrPQBTZD) | 4:11 | 2024-05-10 | 2024-11-01 |
 | [Ancient Secrets](https://open.spotify.com/track/1ReUQBuR6rPojwvZJYyepT) | [Nyrus](https://open.spotify.com/artist/4K129VU520mAbin25QcKfH), [Serpentis](https://open.spotify.com/artist/7GDTaBQ5irjbkqAg8JIvbi) | [Ancient Secrets](https://open.spotify.com/album/1VWls87v6qVn7S9tXS0M1o) | 3:42 | 2024-10-11 |  |
-| [Anex](https://open.spotify.com/track/5V8SOMlVqsb99wHRVd5IQH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd) | [Anex](https://open.spotify.com/album/3sAk2b4mwCZmMQ4JuAVlvB) | 3:10 | 2024-09-13 |  |
+| [Anex](https://open.spotify.com/track/5V8SOMlVqsb99wHRVd5IQH) | [ATYYA](https://open.spotify.com/artist/36NAuk7D3nO0JFfgZf3XI7), [ColtCuts](https://open.spotify.com/artist/7B7K7clWpHy7DkuIX7d9xd) | [Anex](https://open.spotify.com/album/3sAk2b4mwCZmMQ4JuAVlvB) | 3:10 | 2024-09-13 | 2025-01-18 |
 | [Ange](https://open.spotify.com/track/4TvmFIi8lcfZBnuU9omTYN) | [Monty](https://open.spotify.com/artist/2w5c2l70mYNDdSLifFyZjJ), [Visages](https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL) | [Ange](https://open.spotify.com/album/2nT20AFqNcpq1HDuqU2xHW) | 5:54 | 2023-03-10 | 2024-08-10 |
 | [Angel Above](https://open.spotify.com/track/10hYODoxosJRO9VaWIvi18) | [ZEKE BEATS](https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl), [Barclay Crenshaw](https://open.spotify.com/artist/3uWK9g12Kh4IarZX052vJR) | [Angel Above](https://open.spotify.com/album/0BBlkwYEunT5J8Bt74MrBW) | 2:53 | 2024-07-26 |  |
 | [Animalistic](https://open.spotify.com/track/7s3ZsZ1AfCgGVLTsrduJfE) | [Milano](https://open.spotify.com/artist/53ok35nquVSO2ie4OQBgBU), [Daggz](https://open.spotify.com/artist/3S5aXjH9pDeyD7BDMkLbiF) | [Animalistic](https://open.spotify.com/album/7y0nfLxeDl2JkbOJ0VpW1u) | 2:22 | 2024-10-25 | 2024-12-29 |
@@ -74,7 +74,7 @@
 | [Bleed](https://open.spotify.com/track/6XEL57IMhRLsT9Q4XiCF7W) | [Shades](https://open.spotify.com/artist/3hZYcnuncZYCJzqO9pwpAK), [Alix Perez](https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z), [Eprom](https://open.spotify.com/artist/2c2X6dr1PHctH24BxNOjHi) | [From a Vein](https://open.spotify.com/album/77clkL2ZSpeDl8knKgGszu) | 3:20 | 2022-08-12 | 2024-11-09 |
 | [Bliss \- Original Mix](https://open.spotify.com/track/4Jj9wXI1FRoMRa2RqzgY20) | [SubDimension](https://open.spotify.com/artist/6fwIH24ZNPIqkWa6BLjyqb) | [Woe & Bliss EP](https://open.spotify.com/album/1rwQMdcIf52wbSVG3YvmOH) | 6:13 | 2022-02-17 | 2024-09-14 |
 | [Bloodhound](https://open.spotify.com/track/3w6XYpRbMJZ5Lcu65ujgoa) | [MYTHM](https://open.spotify.com/artist/5OC3ZSef1PDix2FZaXLial) | [Bloodhound](https://open.spotify.com/album/6VxXFL6MApAg3l46KxMeH1) | 3:00 | 2023-09-15 | 2024-02-03 |
-| [BODIES](https://open.spotify.com/track/5UszdwERmPCDaHd0zpIeVD) | [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [BODIES](https://open.spotify.com/album/60wKp6mKfrdUEYGppNPVN9) | 4:11 | 2024-08-23 |  |
+| [BODIES](https://open.spotify.com/track/5UszdwERmPCDaHd0zpIeVD) | [Drinkurwater](https://open.spotify.com/artist/4P4PUC5CstzTajr5dhwQZk) | [BODIES](https://open.spotify.com/album/60wKp6mKfrdUEYGppNPVN9) | 4:11 | 2024-08-23 | 2025-01-18 |
 | [Boi](https://open.spotify.com/track/7aCc1Qi6GLpzR3yOzgGJnl) | [Abelation](https://open.spotify.com/artist/3ezpQc6XHKaha2SmkFsEfR) | [Boi](https://open.spotify.com/album/2EpK3T7VOSuuJeFWGsdqof) | 3:38 | 2023-09-15 | 2023-10-28 |
 | [Boks](https://open.spotify.com/track/6AhoZHpoeXmIyH37QrIDYN) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW) | [Unreleased Classics\. Vol.2 2004\-2006](https://open.spotify.com/album/4t4cgkh5JyDnl3lyD8RliW) | 5:36 | 2022-02-17 | 2022-04-08 |
 | [Bonker.s](https://open.spotify.com/track/2JpKHShAfduhwMMU7oJvfx) | [msft](https://open.spotify.com/artist/2G8vzUhESNnXthOWoZn3mx) | [Bonker.s](https://open.spotify.com/album/1e8j0JFqQfRIy36IqPNHtU) | 3:15 | 2024-11-08 |  |
@@ -293,6 +293,7 @@
 | [Hot Head](https://open.spotify.com/track/1qJwPyvZGsr0sihvgAT25y) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Gutter Riddim / Hot Head](https://open.spotify.com/album/0eIjQVqOOIPELKPDKAjDd6) | 3:43 | 2022-02-17 | 2022-07-28 |
 | [Hot Head](https://open.spotify.com/track/4MXUdrjlh0TnIrvB3zSkIc) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Gutter Riddim / Hot Head](https://open.spotify.com/album/2QXWlAO8eMlN5mJ0eRRsQL) | 3:43 | 2022-07-08 | 2023-01-14 |
 | [Huh?!](https://open.spotify.com/track/5kHHXRhLEApwPRuJdNcrvu) | [Raar](https://open.spotify.com/artist/2inN4goKGw8lstrQxVQYgO), [Gehena](https://open.spotify.com/artist/7GZ9F76btw0gJl7herdi3k) | [Huh?!](https://open.spotify.com/album/1GCbN8HQE7qfqVTa2gHDvB) | 3:12 | 2024-10-04 |  |
+| [Hurt](https://open.spotify.com/track/50JrXCKNKTV8y0oyWyAHbM) | [STUCA](https://open.spotify.com/artist/5W9QwHSJPJ5blGIyn8nSUb) | [Hurt](https://open.spotify.com/album/2SNoAgXeao4wQ63bni0p8C) | 3:12 | 2025-01-17 |  |
 | [Hush](https://open.spotify.com/track/6AlfGbQ59wwGyt2VmbjnZF) | [borne](https://open.spotify.com/artist/3NaqR0cf5IwAY1b1AaPAtB), [Alexis B](https://open.spotify.com/artist/6sdWdDAgkNeIIZNQ4xExec) | [Hush](https://open.spotify.com/album/44izydeupjKkWEGoytnwWH) | 2:03 | 2024-06-21 |  |
 | [HUSH](https://open.spotify.com/track/25leIaVDdC2lgJC1RAkNaS) | [Forrest Taylor](https://open.spotify.com/artist/65B2wTz12IA9U4ydyGHXP2) | [HUSH](https://open.spotify.com/album/7uekRat53bn1qWk6pRvife) | 2:21 | 2024-05-24 | 2024-08-31 |
 | [HYPE](https://open.spotify.com/track/4FbGnd9gdcAATKYXiGL18P) | [BLVZE](https://open.spotify.com/artist/2FAwXIzmUIwtmYsUb5V1i2) | [HYPE](https://open.spotify.com/album/4CFsbMb5kk72ViQ6XR9j3P) | 2:10 | 2024-08-23 |  |
@@ -322,6 +323,7 @@
 | [Jahh](https://open.spotify.com/track/59Dlm2urLresvu5p9Vjcvf) | [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI) | [Jahh](https://open.spotify.com/album/6qMSr5NjQjtnORisC64Iz5) | 2:05 | 2024-04-19 | 2024-07-27 |
 | [Jimini Dub](https://open.spotify.com/track/3hv891SnyhvxkBpdSPAFs8) | [Dubamine](https://open.spotify.com/artist/1cTFPzuPsiYtINcLic2qCV) | [Joker Smoker](https://open.spotify.com/album/0VE7dgNYsU3qxtWAp6jVXS) | 4:03 | 2022-02-17 | 2022-07-29 |
 | [Jimini Dub](https://open.spotify.com/track/6SmQ7RrBa8hj1xXc2QJZ5M) | [Dubamine](https://open.spotify.com/artist/1cTFPzuPsiYtINcLic2qCV), [Saule](https://open.spotify.com/artist/2LYnpbhgghXEWcTj0yKVHr) | [Joker Smoker](https://open.spotify.com/album/4E1kGxsLEkMJT7wK9FYyWZ) | 4:03 | 2022-07-08 | 2024-02-17 |
+| [Jinzo](https://open.spotify.com/track/6SKL12zIthJNzC2KtsqXOK) | [KTRL](https://open.spotify.com/artist/2D2akNyW7qrfKDa7Bg4Cae) | [Jinzo](https://open.spotify.com/album/0VVnzDNxx5FJA1Vgjiy6J0) | 2:17 | 2025-01-17 |  |
 | [Juan40](https://open.spotify.com/track/2mLnO19YpsMZ7KOdsBWMi5) | [Cesco](https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3) | [Juan40](https://open.spotify.com/album/2xPmwMIOGyWFwK99q4YKou) | 4:13 | 2022-07-08 | 2022-11-19 |
 | [Juce](https://open.spotify.com/track/199zSCFLQLcXyY9Zgxfp7p) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Juce](https://open.spotify.com/album/1BrXQYAL1k8owmS9OUf1zK) | 5:12 | 2022-07-08 | 2022-07-30 |
 | [Juce](https://open.spotify.com/track/1YLCRZDFbNNdBJc53jUfF9) | [Causa](https://open.spotify.com/artist/2oC5VotUk44u8BVhD2H0hB) | [Juce](https://open.spotify.com/album/6Quzmmpf3RmbIWPzRIYXsd) | 5:12 | 2022-02-17 | 2022-07-27 |

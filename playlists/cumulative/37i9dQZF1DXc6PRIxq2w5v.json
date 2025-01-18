@@ -741,6 +741,24 @@
     },
     {
       "album": {
+        "name": "Amor Freestyle",
+        "url": "https://open.spotify.com/album/45cdilGFj6SLZ6sChb664R"
+      },
+      "artists": [
+        {
+          "name": "GBZIN",
+          "url": "https://open.spotify.com/artist/3luAYGXaZLEAJdsI9yHcfs"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168861,
+      "name": "Amor Freestyle",
+      "url": "https://open.spotify.com/track/7BCHx6GN874jNeeuTBGhqE"
+    },
+    {
+      "album": {
         "name": "Amor \u00c1gape",
         "url": "https://open.spotify.com/album/3e1uEOZv78o5VnfgWKqnkc"
       },
@@ -5320,7 +5338,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 163245,
       "name": "Mesma Miss\u00e3o",
       "url": "https://open.spotify.com/track/22pvTbhNThSeIaA40tjZSZ"

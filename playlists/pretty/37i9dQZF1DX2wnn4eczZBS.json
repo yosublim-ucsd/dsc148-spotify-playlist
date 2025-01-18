@@ -1,6 +1,6 @@
 {
   "description": "indie & indiepop in het Nederlands. Cover: S10",
-  "num_followers": 9809,
+  "num_followers": 9817,
   "original_name": "indiepuntnl",
   "owner": {
     "name": "Spotify",
@@ -283,22 +283,6 @@
     {
       "added_at": "2025-01-16 23:00:33",
       "album": {
-        "name": "platland",
-        "url": "https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A"
-      },
-      "artists": [
-        {
-          "name": "Elmer",
-          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
-        }
-      ],
-      "duration_ms": 190467,
-      "name": "alle buren moeten dood",
-      "url": "https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk"
-    },
-    {
-      "added_at": "2025-01-16 23:00:33",
-      "album": {
         "name": "Altijd Anders",
         "url": "https://open.spotify.com/album/7ma0pucTvx56rAqs4bAzVp"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 228813,
       "name": "Altijd Anders",
       "url": "https://open.spotify.com/track/33EP7F8c3UUAJQzMYLcoyC"
+    },
+    {
+      "added_at": "2025-01-16 23:00:33",
+      "album": {
+        "name": "platland",
+        "url": "https://open.spotify.com/album/7bQbvkfIpzMjcgICb7Ph4A"
+      },
+      "artists": [
+        {
+          "name": "Elmer",
+          "url": "https://open.spotify.com/artist/1ESdlHhFi2Ww9jt8qLOyYp"
+        }
+      ],
+      "duration_ms": 190467,
+      "name": "alle buren moeten dood",
+      "url": "https://open.spotify.com/track/4S9rZWREFz276yShOf09Dk"
     },
     {
       "added_at": "2025-01-16 23:00:33",
@@ -375,6 +375,22 @@
       "duration_ms": 156406,
       "name": "Koortsdroom",
       "url": "https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN"
+    },
+    {
+      "added_at": "2025-01-16 23:00:33",
+      "album": {
+        "name": "Suicide Vest",
+        "url": "https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ"
+      },
+      "artists": [
+        {
+          "name": "Massi",
+          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
+        }
+      ],
+      "duration_ms": 242286,
+      "name": "Suicide Vest",
+      "url": "https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU"
     },
     {
       "added_at": "2025-01-16 23:00:33",
@@ -459,22 +475,6 @@
       "duration_ms": 200223,
       "name": "Het Outro",
       "url": "https://open.spotify.com/track/6bk3p646tz37ZqL0k3gDfe"
-    },
-    {
-      "added_at": "2025-01-16 23:00:33",
-      "album": {
-        "name": "Suicide Vest",
-        "url": "https://open.spotify.com/album/2qfzIAJETQsix94hAecDmZ"
-      },
-      "artists": [
-        {
-          "name": "Massi",
-          "url": "https://open.spotify.com/artist/3d1W8SvTGX6fS4dZKz8056"
-        }
-      ],
-      "duration_ms": 242286,
-      "name": "Suicide Vest",
-      "url": "https://open.spotify.com/track/3dg92GcW0cYVTRdByFfiqU"
     },
     {
       "added_at": "2025-01-16 23:00:33",
@@ -659,22 +659,6 @@
     {
       "added_at": "2025-01-16 23:00:33",
       "album": {
-        "name": "Je Geeft Me Niets",
-        "url": "https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE"
-      },
-      "artists": [
-        {
-          "name": "Aarde aan Daan",
-          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
-        }
-      ],
-      "duration_ms": 153831,
-      "name": "Je Geeft Me Niets",
-      "url": "https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y"
-    },
-    {
-      "added_at": "2025-01-16 23:00:33",
-      "album": {
         "name": "Ik Weet Het",
         "url": "https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 241833,
       "name": "Ik Weet Het",
       "url": "https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26"
+    },
+    {
+      "added_at": "2025-01-16 23:00:33",
+      "album": {
+        "name": "Je Geeft Me Niets",
+        "url": "https://open.spotify.com/album/5AzbWe7jSCrmcKOEMDQ0iE"
+      },
+      "artists": [
+        {
+          "name": "Aarde aan Daan",
+          "url": "https://open.spotify.com/artist/2vgN5rrQjTeLcQqoZcEQDf"
+        }
+      ],
+      "duration_ms": 153831,
+      "name": "Je Geeft Me Niets",
+      "url": "https://open.spotify.com/track/0KKYgORHSuLfmKENVaA53y"
     },
     {
       "added_at": "2025-01-16 23:00:33",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-01-16 23:00:33",
       "album": {
-        "name": "Starstruck (Celebrity)",
-        "url": "https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa"
-      },
-      "artists": [
-        {
-          "name": "NONCHELANGE",
-          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
-        }
-      ],
-      "duration_ms": 231676,
-      "name": "Starstruck (Celebrity)",
-      "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
-    },
-    {
-      "added_at": "2025-01-16 23:00:33",
-      "album": {
         "name": "Ik Voel Voor Jou",
         "url": "https://open.spotify.com/album/0H2Ik4fier1UkwvJzlyzG2"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 162039,
       "name": "Koortsdroom (Nooit Spijt)",
       "url": "https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0"
+    },
+    {
+      "added_at": "2025-01-16 23:00:33",
+      "album": {
+        "name": "Starstruck (Celebrity)",
+        "url": "https://open.spotify.com/album/4yHOJauSMEwuUbbIPABuHa"
+      },
+      "artists": [
+        {
+          "name": "NONCHELANGE",
+          "url": "https://open.spotify.com/artist/2LXqYe2hCeP11rbXogtV3n"
+        }
+      ],
+      "duration_ms": 231676,
+      "name": "Starstruck (Celebrity)",
+      "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
     },
     {
       "added_at": "2025-01-16 23:00:33",

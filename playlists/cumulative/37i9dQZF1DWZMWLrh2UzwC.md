@@ -4,7 +4,7 @@
 
 > The best newly released songs of the week\. Cover: Noh Salleh
 
-14,000 songs - 31 day 23 hr 17 min
+14,002 songs - 31 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -225,6 +225,7 @@
 | [A Beautiful Life \(From the Netflix Film ‘A Beautiful Life’\)](https://open.spotify.com/track/2e6JU6XBm7w0FnHyQqrqMs) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [A Beautiful Life \(Music From The Netflix Film\)](https://open.spotify.com/album/6Gp4FYNauiy3p5g2Xd0g9C) | 3:38 | 2023-06-01 | 2023-06-09 |
 | [A Better Way](https://open.spotify.com/track/0xokXIFTMCizdQMRUHEKNk) | [Masia One](https://open.spotify.com/artist/5xwsVRGFYIPpDmoaCC9XpB), [Skunga Kong](https://open.spotify.com/artist/1KYK8Ll0fkwofWiJEJUm1g) | [A Better Way](https://open.spotify.com/album/6UUH80Mdcc8uhXdwiiolG7) | 3:51 | 2025-01-09 | 2025-01-17 |
 | [A Bit of Previous](https://open.spotify.com/track/5VoR3fJfPbOdd7Jdb1908c) | [Belle and Sebastian](https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h) | [A Bit of Previous](https://open.spotify.com/album/6HcdBrU1NlcLFLqPRfUqr9) | 3:49 | 2022-06-09 | 2022-06-17 |
+| [A Bitter Letter To Myself](https://open.spotify.com/track/0djIuIFCPgHVHzjTk7OcuB) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [A Bitter Letter To Myself](https://open.spotify.com/album/2O2iOBGOlGcaCZgHj1fyQc) | 2:35 | 2025-01-16 |  |
 | [A Child's Question, August](https://open.spotify.com/track/471H7nQUp3VaAn4ZcA6THS) | [PJ Harvey](https://open.spotify.com/artist/12VaqyEhgwDRuFfEqbnrpz) | [A Child's Question, August](https://open.spotify.com/album/23vvKltYuD1To9zWGQ5NnB) | 2:46 | 2023-04-27 | 2023-05-05 |
 | [A Cosmic Yes](https://open.spotify.com/track/4yoi9XLOG48REmXtImAU5y) | [Bearcubs](https://open.spotify.com/artist/5iPtkyoEOCILhwFgl2a2d3) | [A Cosmic Yes](https://open.spotify.com/album/2oue0Dyi1nsDf3QAijrwtA) | 4:18 | 2022-03-03 | 2022-03-11 |
 | [A Dangerous Thing](https://open.spotify.com/track/3Ola5gPTe1NK9GgnVgLoVX) | [AURORA](https://open.spotify.com/artist/1WgXqy2Dd70QQOU7Ay074N) | [A Dangerous Thing](https://open.spotify.com/album/0JyKCwmc6Ye0J88dwkm8uj) | 3:35 | 2022-01-06 | 2022-01-14 |
@@ -9857,6 +9858,7 @@
 | [See You Again](https://open.spotify.com/track/1wYTR3Hg5rBQcdfxGEdsx0) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [ILLENIUM](https://open.spotify.com/artist/45eNHdiiabvmbp4erw26rg), [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [See You Again](https://open.spotify.com/album/5YD0kqXIXIg5GqSHiX7pJ4) | 2:43 | 2023-06-22 | 2023-06-30 |
 | [See You Again \(Prod\. KM\)](https://open.spotify.com/track/3UBqo3b3Brb61ibj7cflbQ) | [SIRUP](https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh), [KM](https://open.spotify.com/artist/2Nz5XwOa02deTyyS2vw5Wa) | [BLUE BLUR](https://open.spotify.com/album/7D0lh15t5tAZZtTgWCJmUg) | 3:07 | 2023-04-27 | 2023-05-05 |
 | [see you in hell](https://open.spotify.com/track/6UyQKEayts0gGkocQIQ3bU) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [see you in hell](https://open.spotify.com/album/7sRtmBFmILBIybIywVhXQM) | 2:52 | 2023-08-24 | 2023-09-01 |
+| [See you in hell](https://open.spotify.com/track/0ho6WKE45zywTVph0deBpq) | [Yves](https://open.spotify.com/artist/6AkddQqEu75QRbsCo12zce) | [I Did: Bloom \(Deluxe\)](https://open.spotify.com/album/2haRGdLvimDfNlDBW1LAt1) | 3:13 | 2025-01-16 |  |
 | [See You In My Dreams](https://open.spotify.com/track/72NyOVk69pDEGQwe313bnC) | [Daya](https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH) | [In Between Dreams](https://open.spotify.com/album/65aMVW2EfbGTgW9KvG2AMz) | 2:39 | 2022-09-15 | 2022-09-23 |
 | [See You In The Afterlife](https://open.spotify.com/track/6qtGeawfnmQMUWyQ95LdIL) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Paradise State of Mind](https://open.spotify.com/album/27ynHS80OjICdw3qLNMgQP) | 3:09 | 2024-08-15 | 2024-08-23 |
 | [See you soon](https://open.spotify.com/track/6zeVhhjpvpSPocAa09arGd) | [2PUP](https://open.spotify.com/artist/26wgoALgH9kCfxjAp1LWSV) | [See you soon](https://open.spotify.com/album/3F0MKEVEuWmbnSj0ycUn8y) | 3:03 | 2023-07-13 | 2023-07-21 |

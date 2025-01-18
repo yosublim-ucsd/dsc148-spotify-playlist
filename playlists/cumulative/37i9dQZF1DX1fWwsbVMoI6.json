@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 209293,
       "name": "Juraste Querrerme",
       "url": "https://open.spotify.com/track/4vzKzns8wDmtJVpL6kay4C"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 218101,
       "name": "La Caballita",
       "url": "https://open.spotify.com/track/57njETyUk3WXYhXiPSa74P"
@@ -2621,6 +2621,28 @@
     },
     {
       "album": {
+        "name": "Terco Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8"
+      },
+      "artists": [
+        {
+          "name": "Coraz\u00f3n Serrano",
+          "url": "https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD"
+        },
+        {
+          "name": "Rafaga",
+          "url": "https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167359,
+      "name": "Terco Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53"
+    },
+    {
+      "album": {
         "name": "Los Amos del Ritmo Caliente, Vol. 2",
         "url": "https://open.spotify.com/album/1ZXiEqSLL7KZGDe7Men9md"
       },
@@ -2918,6 +2940,28 @@
       "duration_ms": 243533,
       "name": "Voy a Buscarme un Amor",
       "url": "https://open.spotify.com/track/0IGpE4M5z9RXaaRl0Jde8h"
+    },
+    {
+      "album": {
+        "name": "VUELVE CORAZ\u00d3N \u2661",
+        "url": "https://open.spotify.com/album/2yWIAhw4rVHAUdBYLi6jFG"
+      },
+      "artists": [
+        {
+          "name": "Milena Warthon",
+          "url": "https://open.spotify.com/artist/65vjAwgtLCwB1nQE7V5eMd"
+        },
+        {
+          "name": "Cumbia Club",
+          "url": "https://open.spotify.com/artist/1LWvHPrD7uPBU16bkZeh0x"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195855,
+      "name": "VUELVE CORAZ\u00d3N \u2661",
+      "url": "https://open.spotify.com/track/7eMLIzWfgXeeUBQuQija9W"
     },
     {
       "album": {

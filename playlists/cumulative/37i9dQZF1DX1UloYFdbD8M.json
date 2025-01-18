@@ -3775,6 +3775,24 @@
     },
     {
       "album": {
+        "name": "PALAAYANAM",
+        "url": "https://open.spotify.com/album/0QQBIFPpgVnHl60JZlaq5t"
+      },
+      "artists": [
+        {
+          "name": "Job Kurian",
+          "url": "https://open.spotify.com/artist/4rJY6amSC7TWtV9oifBnrS"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225436,
+      "name": "PALAAYANAM",
+      "url": "https://open.spotify.com/track/6c7ceJAZjXqVYTgT4VUh5U"
+    },
+    {
+      "album": {
         "name": "Palavidham",
         "url": "https://open.spotify.com/album/7uVQSl9yYgyy7ax92Zp8lf"
       },

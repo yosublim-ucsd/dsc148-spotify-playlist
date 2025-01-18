@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Heavy](https://open.spotify.com/playlist/37i9dQZF1DX2wnPyeao7oY)
 
-> New music by the heaviest independent artists every Wednesday\. Cover: Church Outfit \| Artwork: Nejc Prah
+> New music by the heaviest independent artists every Wednesday\. Cover: Church Tongue \| Artwork: Nejc Prah
 
 166 songs - 10 hr 0 min
 

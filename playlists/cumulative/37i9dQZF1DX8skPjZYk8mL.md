@@ -4,7 +4,7 @@
 
 > Soft instrumental lullabies for the little ones.
 
-1,094 songs - 1 day 8 hr 37 min
+1,096 songs - 1 day 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -330,6 +330,7 @@
 | [Furry Friends](https://open.spotify.com/track/6NLXrHE37TBshJMIihdAXd) | [Hob Nob Guitars](https://open.spotify.com/artist/5Hi0d602CvheKefJyN6GLw) | [Furry Friends](https://open.spotify.com/album/7yHibwuN87k4iv4W0Zglh1) | 1:47 | 2024-01-19 |  |
 | [Fuzzy Blanket](https://open.spotify.com/track/2OfEkQFc3cpm3t3a4ztUrj) | [Victoria Kane](https://open.spotify.com/artist/5PiuZN8Y36VoBqEvLuqiuQ) | [Fuzzy Blanket](https://open.spotify.com/album/7bCYGWUWkA1BT8C1m2UH7F) | 1:32 | 2023-09-22 |  |
 | [Gentle Dreams](https://open.spotify.com/track/1kETBJfZROZUl3nngNRVRu) | [Mary Monroe](https://open.spotify.com/artist/34r7GYfCBgI8AHhKuazmtc) | [Gentle Dreams](https://open.spotify.com/album/4f3WGJ9z4RtE9S8015k7pq) | 2:18 | 2021-11-08 | 2024-04-05 |
+| [Gentle Nightfall](https://open.spotify.com/track/02rnRDyPFZo92BDKmJc75L) | [Butterfly Forest](https://open.spotify.com/artist/7ILiN5iUfdcOWOZgjKkch5) | [Gentle Nightfall](https://open.spotify.com/album/2tDylx0WgEj0V3XkUOPZOf) | 1:44 | 2025-01-17 |  |
 | [Gently Slow](https://open.spotify.com/track/08RpEhbRnJzzt318TOEEPJ) | [Mimmi East](https://open.spotify.com/artist/5JD1k7FiD0YmTS7Xcv3RF6) | [Gently Slow](https://open.spotify.com/album/20dortqEfJRZJmobdM7g48) | 2:15 | 2022-07-29 | 2023-08-18 |
 | [Get Your Cozy](https://open.spotify.com/track/7erHsPOy5lmIfLA6A9U4Il) | [David Finnegan](https://open.spotify.com/artist/5Q7zEQv9vodtCdUZl98Ox0) | [Tomorrow Again](https://open.spotify.com/album/2ARWUIkaaH6YYeOIixWudf) | 1:45 | 2021-11-08 | 2022-11-12 |
 | [Gigglepaws](https://open.spotify.com/track/0OKnujtaEPOi8KIR7zpQo2) | [The Stories We Tell](https://open.spotify.com/artist/0KZ1jg7xT2z2zrMCY2iAlB) | [Gigglepaws](https://open.spotify.com/album/63fT6KHGS3LydubtYtztPc) | 1:49 | 2024-09-13 |  |
@@ -625,6 +626,7 @@
 | [My Little Cat](https://open.spotify.com/track/2JnqypQMsZWAoQDIMSpZIF) | [Iris Fairchild](https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa) | [My Little Cat](https://open.spotify.com/album/4rfAwWGX508yWzvGfcL4mk) | 1:41 | 2024-09-30 |  |
 | [My little rainbow](https://open.spotify.com/track/0wK05M3wzD12F1C76MuPyK) | [Karl Schintz](https://open.spotify.com/artist/1nsmmigdcrwlaJE81ebiun) | [My little rainbow](https://open.spotify.com/album/5PxTlfNfmsQkTFMcW34d6h) | 1:45 | 2024-09-30 |  |
 | [My little sunshine](https://open.spotify.com/track/05CZrbMz2xWGCYn6I9g0nK) | [Esmee Price](https://open.spotify.com/artist/4Rl6N4VmQzqDlGKrG6YfgD) | [My little sunshine](https://open.spotify.com/album/7b1bk1Vr4C32XOgm2f1LXt) | 1:41 | 2022-06-30 | 2024-05-24 |
+| [My Little Superhero](https://open.spotify.com/track/2BpOILC6eTzpMDoFEx89Tb) | [Willow Leaf](https://open.spotify.com/artist/0kXI6vuhwYJE1daFSIduNU) | [My Little Superhero](https://open.spotify.com/album/5F4NSywFa9999QiEcSLugZ) | 2:35 | 2025-01-17 |  |
 | [My Lucky Star](https://open.spotify.com/track/3biHKGutlJ1N3omX2uSGcu) | [Kaja Tucker](https://open.spotify.com/artist/5MTYungdXV9JzKLDWg4Uyt) | [My Lucky Star](https://open.spotify.com/album/2E2SyWnuCwyejUGqVTYygu) | 1:42 | 2021-11-08 | 2023-04-09 |
 | [My Lullaby](https://open.spotify.com/track/25qf1J7bSxNIDS526yWS4y) | [Sylvan Potter](https://open.spotify.com/artist/518Vo5g5C5V56nXlJuKq8z) | [My Lullaby](https://open.spotify.com/album/2H2GsvAONdfCIvqwvEFRjQ) | 1:13 | 2021-11-08 | 2023-02-18 |
 | [My Moonlight](https://open.spotify.com/track/37bKSz4TZdTjPbCuPhTOS2) | [Mia Gardner](https://open.spotify.com/artist/2tZe0OSKNCVGbBd5wJ1djr) | [My Moonlight](https://open.spotify.com/album/3mPWcoL9GJPDUFZqHcWNfS) | 2:37 | 2024-08-30 |  |
@@ -669,7 +671,7 @@
 | [On More Sleep](https://open.spotify.com/track/5LPFIx2yusxKYAvioLn4xp) | [Carla Galloway](https://open.spotify.com/artist/4UCjsEwUrldNSYac9hetq0) | [Sleepy Eyes](https://open.spotify.com/album/20f2sObexRNK0NtpZ4jx9W) | 2:59 | 2023-04-07 | 2023-08-18 |
 | [On The Field Of Dreams](https://open.spotify.com/track/2h4Iktht8vvC9DQDFbHQcV) | [Izabella Kirk](https://open.spotify.com/artist/0PrTw0kgFwYZz0lje9LFED) | [On The Field Of Dreams](https://open.spotify.com/album/3AyzUXZw4EJaFwMOxss7ZY) | 1:11 | 2022-12-16 | 2024-04-05 |
 | [Once Upon a December](https://open.spotify.com/track/4Ct2FBRIzgXjrLGlql3JvG) | [Vic Mcmillan](https://open.spotify.com/artist/1aF8NmmySgiOzqLEloByPD) | [Once Upon a December](https://open.spotify.com/album/1E6mJ1A34IXrdR0T4Ko9oL) | 1:37 | 2024-12-06 |  |
-| [Once Upon A Star](https://open.spotify.com/track/5ro4n67wO8Q8aRV3upxnut) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Once Upon A Star](https://open.spotify.com/album/11xfwgFFCr73Y4rkb7Xz8S) | 1:43 | 2023-02-17 |  |
+| [Once Upon A Star](https://open.spotify.com/track/5ro4n67wO8Q8aRV3upxnut) | [Julius Cuvier](https://open.spotify.com/artist/1zj0nZIQrUmBXtnxQPVHYZ) | [Once Upon A Star](https://open.spotify.com/album/11xfwgFFCr73Y4rkb7Xz8S) | 1:43 | 2023-02-17 | 2025-01-18 |
 | [One And Only](https://open.spotify.com/track/3K61YrrGJmcfiOmDSvrRhw) | [Unni Wide](https://open.spotify.com/artist/5kkxB64YQjSwNgfftsQvOL) | [One And Only](https://open.spotify.com/album/20XXrFzgc3zoD3iqQzJa45) | 1:48 | 2022-09-23 | 2024-04-05 |
 | [One Finger One Thumb](https://open.spotify.com/track/22stRqJ2Av94yvBn213fWY) | [Lacie Palmer](https://open.spotify.com/artist/6cKhJWZ1pgXqGT3y8tLlve) | [One Finger One Thumb](https://open.spotify.com/album/3CJ38TFdZFLSmGJB4WC23J) | 1:55 | 2022-12-16 | 2024-04-05 |
 | [One for you, one for me](https://open.spotify.com/track/3D5eIqkrGvHEe42hEaBTwK) | [Amy\-leigh Hill](https://open.spotify.com/artist/3EKtt09Qwccgxvs5QiIazR) | [Peek\-a\-boo](https://open.spotify.com/album/1FoAFlOjirEpU0bHgNhxBZ) | 1:48 | 2021-11-08 | 2022-12-16 |
@@ -875,7 +877,7 @@
 | [Sunshine jewel](https://open.spotify.com/track/1ABF9IBS1FTSuuF5uKpPr3) | [Tony Delvin](https://open.spotify.com/artist/2PeMIKslHDxZGDTOlOoCIh) | [Sunshine jewel](https://open.spotify.com/album/0T00z2Ao8lwFTvYkMQPInj) | 1:38 | 2023-11-17 |  |
 | [Sunshine Song](https://open.spotify.com/track/6hicKBEJhWxv7QYQMyU7Mr) | [Lena Terne](https://open.spotify.com/artist/0GjoEUgHE1zBQ591fbqqZg) | [Sunshine Song](https://open.spotify.com/album/5EcAYi9tzvt2ZkrZXvJNnd) | 1:20 | 2024-01-05 |  |
 | [Sunshine Symphony](https://open.spotify.com/track/1EugQp3Dr9Fl6zuUiHw0v7) | [Elmer Kask](https://open.spotify.com/artist/4mSdgNX5rXaRTWoVCMxIcR) | [Sunshine Symphony](https://open.spotify.com/album/3Hb2bBbFbhnWQavn99YR0c) | 1:24 | 2023-09-08 |  |
-| [Suo Gan](https://open.spotify.com/track/2Ao3ql098f12DeavWNgaLc) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Suo Gan](https://open.spotify.com/album/4niFFsiGXKOtHR2rHdy1Yo) | 1:59 | 2023-03-17 |  |
+| [Suo Gan](https://open.spotify.com/track/2Ao3ql098f12DeavWNgaLc) | [Rex Miller](https://open.spotify.com/artist/2p9DbVZjPWxDe9o716M43d) | [Suo Gan](https://open.spotify.com/album/4niFFsiGXKOtHR2rHdy1Yo) | 1:59 | 2023-03-17 | 2025-01-18 |
 | [Sussa Lilla Pyret](https://open.spotify.com/track/37PeTRwr9iE5yGCVC15EsT) | [Oscar Johansson](https://open.spotify.com/artist/7DAXxxehmZNAV13QRR3Ys1) | [Drömmarnas Rike](https://open.spotify.com/album/0ZSYxWOf8vJ4G9FiOavpT2) | 1:39 | 2022-11-11 | 2023-06-03 |
 | [Sweet Child Of Mine](https://open.spotify.com/track/5CagvKjDmV0febzGggWu60) | [Fruity Koala](https://open.spotify.com/artist/4R8wFQxG9Xrl8As1ClyGJH) | [Sweet Child Of Mine](https://open.spotify.com/album/7d3yk3BDG0t6U7k28EK6Bv) | 1:23 | 2024-10-25 |  |
 | [Sweet Dreamer](https://open.spotify.com/track/1pXbbNs7BxiqRZm5jIBcUm) | [Ishaq Love](https://open.spotify.com/artist/6SZObXUJQ4ypexiBQUyEEC) | [Sweet Dreamer](https://open.spotify.com/album/0pw4ddqdSi0v26chZ4Wa1r) | 2:06 | 2024-04-05 |  |

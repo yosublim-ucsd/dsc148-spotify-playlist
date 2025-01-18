@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-25",
-  "description": "Where faith meets R&B. Cover: Evvie Mckinney",
+  "description": "Where faith meets R&B. Cover: RED Hands",
   "name": "Rhythm & Praise",
   "tracks": [
     {
@@ -1412,7 +1412,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 208461,
       "name": "Bless Your Name",
       "url": "https://open.spotify.com/track/15VshmwYf6ode8MzvKaSwr"
@@ -2514,7 +2514,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 157931,
       "name": "DND",
       "url": "https://open.spotify.com/track/6xhbmrgrtaMDouMNx3Ngrh"
@@ -2644,7 +2644,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 192921,
       "name": "Don't touch my Fro",
       "url": "https://open.spotify.com/track/5NJ96lj3VoSlaFmOh3rDCv"
@@ -2798,6 +2798,24 @@
       "duration_ms": 178536,
       "name": "Echo",
       "url": "https://open.spotify.com/track/5btpqXrSh4Xx304dKSYLql"
+    },
+    {
+      "album": {
+        "name": "EDEN",
+        "url": "https://open.spotify.com/album/3SFl8aQrLGu5BCxdf49tJZ"
+      },
+      "artists": [
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170533,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/49NGnwBkgH6RId1yjn8KO1"
     },
     {
       "album": {
@@ -3343,6 +3361,28 @@
     },
     {
       "album": {
+        "name": "Forever Free",
+        "url": "https://open.spotify.com/album/0VHRTYZzeoI4A28gQPRDuf"
+      },
+      "artists": [
+        {
+          "name": "Franchesca",
+          "url": "https://open.spotify.com/artist/5xgXj0clLJ7jCasOAaAuGM"
+        },
+        {
+          "name": "C\u00e8Jae",
+          "url": "https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208137,
+      "name": "Forever Free",
+      "url": "https://open.spotify.com/track/6bwNw4QMBIvjsFKg1C6Wbe"
+    },
+    {
+      "album": {
         "name": "Clarity",
         "url": "https://open.spotify.com/album/64fVuTbjAULFsImYYYXByp"
       },
@@ -3448,7 +3488,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 179031,
       "name": "G.O.A.L.S.",
       "url": "https://open.spotify.com/track/2DHpfCtX1KmkvHvc5rutRV"
@@ -3582,7 +3622,7 @@
       ],
       "date_added": "2024-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 172444,
       "name": "Go Jehovah",
       "url": "https://open.spotify.com/track/1yNWDbvUeCD0OjeoyTahzG"
@@ -3953,6 +3993,24 @@
     },
     {
       "album": {
+        "name": "GPS",
+        "url": "https://open.spotify.com/album/3LaUaXAOBE5fvIBNrWFOB8"
+      },
+      "artists": [
+        {
+          "name": "Lee Vasi",
+          "url": "https://open.spotify.com/artist/4bkzAmMBYHBfpSIecicRhf"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161981,
+      "name": "GPS",
+      "url": "https://open.spotify.com/track/5lfeSwPNWexggo6tXCOQFw"
+    },
+    {
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/21muhjj4VKsJ3a7Nb6D66v"
       },
@@ -4040,7 +4098,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 206153,
       "name": "Grace of God",
       "url": "https://open.spotify.com/track/6EkR61MyHQt1E4TQrbrg1M"
@@ -4088,6 +4146,24 @@
       "duration_ms": 224634,
       "name": "Grateful",
       "url": "https://open.spotify.com/track/4icYKOgfJLxp44GNWEZqyJ"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/48DyXZ84piYUHyoF5qLTAP"
+      },
+      "artists": [
+        {
+          "name": "Jay Manwell",
+          "url": "https://open.spotify.com/artist/7MDy7SOqkdabf2wweldR0p"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171142,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/1rf2lyMRyRwXJxX5mXu6F9"
     },
     {
       "album": {
@@ -4985,6 +5061,24 @@
     },
     {
       "album": {
+        "name": "I Would Rather Have Jesus",
+        "url": "https://open.spotify.com/album/5kvHxvs3BQcnKc5oerJgxG"
+      },
+      "artists": [
+        {
+          "name": "Sondae",
+          "url": "https://open.spotify.com/artist/2PCl4hx9Qds8sjcnoWUdqp"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205090,
+      "name": "I Would Rather Have Jesus",
+      "url": "https://open.spotify.com/track/4VFvAGwd6mV0kH3DtYj9RB"
+    },
+    {
+      "album": {
         "name": "I'll Praise",
         "url": "https://open.spotify.com/album/3yCYG5wQ1J4tckxRWs8NC4"
       },
@@ -5126,6 +5220,24 @@
       "duration_ms": 213937,
       "name": "Illuminate",
       "url": "https://open.spotify.com/track/3oSy6Kfqr3LGMB32RUqmnk"
+    },
+    {
+      "album": {
+        "name": "Impossible",
+        "url": "https://open.spotify.com/album/7gJifmJDQTPqMbByCsFZ55"
+      },
+      "artists": [
+        {
+          "name": "C\u00e8Jae",
+          "url": "https://open.spotify.com/artist/15AlBadiR2gLPibtqELUH3"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194202,
+      "name": "Impossible",
+      "url": "https://open.spotify.com/track/7E9EalF830tMPcu3JGzgMM"
     },
     {
       "album": {
@@ -6440,7 +6552,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 181124,
       "name": "MEANT FOR ME",
       "url": "https://open.spotify.com/track/42LGQOQoLCR81i6SRaTFnk"
@@ -6458,7 +6570,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 188133,
       "name": "Memories",
       "url": "https://open.spotify.com/track/0Yv88gXq362a9oTSeC7J67"
@@ -7380,7 +7492,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 248790,
       "name": "Obinator",
       "url": "https://open.spotify.com/track/1B2R8mw41w37KbtozJ8CnS"
@@ -7406,6 +7518,24 @@
       "duration_ms": 253426,
       "name": "Oil & Water (feat. Anthony Hamilton)",
       "url": "https://open.spotify.com/track/6vREtE2UPe78r9FfuoBtJj"
+    },
+    {
+      "album": {
+        "name": "FAITH PACK",
+        "url": "https://open.spotify.com/album/26wZhfGqEpVNjcd16aTzb7"
+      },
+      "artists": [
+        {
+          "name": "Kushim",
+          "url": "https://open.spotify.com/artist/7ySTyvAPMU1SaCLo7fRvHX"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130632,
+      "name": "Oil For The Flame",
+      "url": "https://open.spotify.com/track/1Yl0qUegjSm6GWx4EBgsd5"
     },
     {
       "album": {
@@ -7727,6 +7857,24 @@
     },
     {
       "album": {
+        "name": "Perfect Will",
+        "url": "https://open.spotify.com/album/6Cr4WHu4IQHdSoKtt4qnYo"
+      },
+      "artists": [
+        {
+          "name": "Stevie Rizo",
+          "url": "https://open.spotify.com/artist/2oL0lsdUDgJOSDTcXCf8BL"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165968,
+      "name": "Perfect Will",
+      "url": "https://open.spotify.com/track/6IDG21M4aHcHx5lA9Zf4xj"
+    },
+    {
+      "album": {
         "name": "pillow soft",
         "url": "https://open.spotify.com/album/27ToXf5vltBPO8rnssYEUp"
       },
@@ -8037,6 +8185,24 @@
     },
     {
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/29D7mUl2JogSYnDm5gLnU1"
+      },
+      "artists": [
+        {
+          "name": "RED Hands",
+          "url": "https://open.spotify.com/artist/71NpTPgQYCxTExcd2n6UT4"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199938,
+      "name": "Proud Of Me",
+      "url": "https://open.spotify.com/track/0IKQF4nHCkDZI11mPDOTiQ"
+    },
+    {
+      "album": {
         "name": "Proud of You",
         "url": "https://open.spotify.com/album/0lDZxSZH13HjjhRLnK4n7i"
       },
@@ -8124,7 +8290,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 177281,
       "name": "Psalm 51",
       "url": "https://open.spotify.com/track/7K4AXXM9P6PDbTRLxZu4jR"
@@ -8610,6 +8776,24 @@
       "duration_ms": 198333,
       "name": "Rollin'",
       "url": "https://open.spotify.com/track/3TjzAhRpmo4wH7Msh4rMcC"
+    },
+    {
+      "album": {
+        "name": "Rolling Stone",
+        "url": "https://open.spotify.com/album/1VurqgycIlTJbZ9MOXfI66"
+      },
+      "artists": [
+        {
+          "name": "Damon Elbert",
+          "url": "https://open.spotify.com/artist/2WXYTbQLAhC8jhJLsw5nIi"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180048,
+      "name": "Rolling Stone",
+      "url": "https://open.spotify.com/track/2DHzmQa57F3K6hYzBFtUdB"
     },
     {
       "album": {
@@ -11024,6 +11208,28 @@
       "duration_ms": 178536,
       "name": "Worthy",
       "url": "https://open.spotify.com/track/2XyCh83wH78eHKPrAxKMd3"
+    },
+    {
+      "album": {
+        "name": "Worthy",
+        "url": "https://open.spotify.com/album/2Len8qt5dWE2N91BjQxR1r"
+      },
+      "artists": [
+        {
+          "name": "LAMB CULTURE.",
+          "url": "https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9"
+        },
+        {
+          "name": "Shime Ahua",
+          "url": "https://open.spotify.com/artist/10hDEzXFAjeQPXm8fxhds5"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169787,
+      "name": "Worthy",
+      "url": "https://open.spotify.com/track/3wvWdSDQSNlyof2evfER3t"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Music from the winners and nominees of the 82nd Golden Globe Awards. ",
-  "num_followers": 7055,
+  "num_followers": 7060,
   "original_name": "Golden Globes Official Playlist",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
+        "name": "Ripley (Soundtrack from the Netflix Series)",
+        "url": "https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt"
+      },
+      "artists": [
+        {
+          "name": "Jeff Russo",
+          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+        }
+      ],
+      "duration_ms": 215333,
+      "name": "The Talented Mr. Ripley - FIN",
+      "url": "https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC"
+    },
+    {
+      "added_at": "2024-12-20 14:00:08",
+      "album": {
         "name": "Monsters: The Lyle and Erik Menendez Story (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/0Jq2GDZ4mfpwHqlwmpofLu"
       },
@@ -435,38 +451,18 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "Ripley (Soundtrack from the Netflix Series)",
-        "url": "https://open.spotify.com/album/0p3fvO7atTe2UxvHleKsDt"
+        "name": "The Brutalist (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p"
       },
       "artists": [
         {
-          "name": "Jeff Russo",
-          "url": "https://open.spotify.com/artist/5L9DgM2FSb2Ny1vfxfyYU8"
+          "name": "Daniel Blumberg",
+          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
         }
       ],
-      "duration_ms": 215333,
-      "name": "The Talented Mr. Ripley - FIN",
-      "url": "https://open.spotify.com/track/227ZJgTdFVs1xy6QTdCegC"
-    },
-    {
-      "added_at": "2024-12-20 14:00:08",
-      "album": {
-        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
-      },
-      "artists": [
-        {
-          "name": "Adriana Paz",
-          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
-        },
-        {
-          "name": "The Mexican Choir",
-          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
-        }
-      ],
-      "duration_ms": 247186,
-      "name": "Las Damas que Pasan",
-      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
+      "duration_ms": 289386,
+      "name": "Overture (Ship)",
+      "url": "https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W"
     },
     {
       "added_at": "2024-12-20 14:00:08",
@@ -487,18 +483,22 @@
     {
       "added_at": "2024-12-20 14:00:08",
       "album": {
-        "name": "The Brutalist (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5H6FMR8iIBc9q36L8B7A6p"
+        "name": "Emilia P\u00e9rez (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1lTp4dWxNevEDQZhRYfQNU"
       },
       "artists": [
         {
-          "name": "Daniel Blumberg",
-          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
+          "name": "Adriana Paz",
+          "url": "https://open.spotify.com/artist/3lRv03FuzVeH86fJhllcMz"
+        },
+        {
+          "name": "The Mexican Choir",
+          "url": "https://open.spotify.com/artist/68jpn60DDc7XyG0MqeJeqh"
         }
       ],
-      "duration_ms": 289386,
-      "name": "Overture (Ship)",
-      "url": "https://open.spotify.com/track/6HGPnSZRHXwERGEmZ4Wh6W"
+      "duration_ms": 247186,
+      "name": "Las Damas que Pasan",
+      "url": "https://open.spotify.com/track/6rLqn0ZchGobKToeW4EKSj"
     },
     {
       "added_at": "2024-12-20 14:00:08",

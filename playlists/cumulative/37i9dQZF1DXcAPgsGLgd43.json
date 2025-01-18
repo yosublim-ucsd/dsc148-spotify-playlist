@@ -534,7 +534,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 165000,
       "name": "Bad Bongo",
       "url": "https://open.spotify.com/track/20va3aCizGTofhvgwm6cKN"
@@ -916,7 +916,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 177786,
       "name": "Benjam\u00edn Carri\u00f3n",
       "url": "https://open.spotify.com/track/4wxoAvFshEHA6JL1ymeFNf"
@@ -1090,6 +1090,32 @@
       "duration_ms": 163468,
       "name": "Bonito",
       "url": "https://open.spotify.com/track/33qvQJ5MmwdSJlJcVDlx8i"
+    },
+    {
+      "album": {
+        "name": "Bora Nessa",
+        "url": "https://open.spotify.com/album/1cNMT60ZuWPDNG998L0q3T"
+      },
+      "artists": [
+        {
+          "name": "Tom & Collins",
+          "url": "https://open.spotify.com/artist/1XU5MjR4kex9BGyY4UMtta"
+        },
+        {
+          "name": "Calussa",
+          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
+        },
+        {
+          "name": "Augusto Yepes",
+          "url": "https://open.spotify.com/artist/4Fii6zdHW1hbQw0LS4qeTs"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234250,
+      "name": "Bora Nessa",
+      "url": "https://open.spotify.com/track/4OYFxsFpZvKuXgBfY6dCAs"
     },
     {
       "album": {
@@ -3139,6 +3165,28 @@
     },
     {
       "album": {
+        "name": "Give 6 Feet",
+        "url": "https://open.spotify.com/album/42XnwupGHYNUmaZd3DRThB"
+      },
+      "artists": [
+        {
+          "name": "Mojjo",
+          "url": "https://open.spotify.com/artist/6AVyGjQ7gNzSkGlBldHS1j"
+        },
+        {
+          "name": "De Qualite",
+          "url": "https://open.spotify.com/artist/1SPYqFTZFY8jLNLRUimSAu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204923,
+      "name": "Give 6 Feet",
+      "url": "https://open.spotify.com/track/6xG7xUwkYqOcm2xx5MMIyk"
+    },
+    {
+      "album": {
         "name": "Gringada",
         "url": "https://open.spotify.com/album/31IgBVgxGhUfMUGlA6wZAq"
       },
@@ -3424,6 +3472,28 @@
       "duration_ms": 157230,
       "name": "Kuba",
       "url": "https://open.spotify.com/track/7Mv6lRAkJt83BSqBLDDTY1"
+    },
+    {
+      "album": {
+        "name": "La Bomba (Mr. Pauer Remix Original)",
+        "url": "https://open.spotify.com/album/5hwn6ZlFtnqo9P4PNdYedl"
+      },
+      "artists": [
+        {
+          "name": "Azul Azul",
+          "url": "https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa"
+        },
+        {
+          "name": "Mr. Pauer",
+          "url": "https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153635,
+      "name": "La Bomba - Mr. Pauer Remix Original",
+      "url": "https://open.spotify.com/track/0bfvwaqeQrk39mY7o7XEBT"
     },
     {
       "album": {
@@ -3949,6 +4019,36 @@
     },
     {
       "album": {
+        "name": "Latinamerica (feat. Vika)",
+        "url": "https://open.spotify.com/album/2bHb66F60DMmKtFlmlkFJK"
+      },
+      "artists": [
+        {
+          "name": "Raffa Fl",
+          "url": "https://open.spotify.com/artist/0j4dGWeyGGE4GvrAzdZIZ5"
+        },
+        {
+          "name": "MichaelBM",
+          "url": "https://open.spotify.com/artist/6RY7vqzR938x0DE0Eh6srl"
+        },
+        {
+          "name": "Jayie",
+          "url": "https://open.spotify.com/artist/4yiUOYE4qfKINbGjeePqiG"
+        },
+        {
+          "name": "Vika",
+          "url": "https://open.spotify.com/artist/4oJoVioxaLXaqrc9YTvKKu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124830,
+      "name": "Latinamerica (feat. Vika)",
+      "url": "https://open.spotify.com/track/3b5hWg2x9MoVM7wjZ3qiY6"
+    },
+    {
+      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/53Nn61QR2zPMyZotqnfIic"
       },
@@ -4096,7 +4196,7 @@
       ],
       "date_added": "2024-10-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 139687,
       "name": "Locamente",
       "url": "https://open.spotify.com/track/54LL57cecNcm6sNmTglKPH"
@@ -5702,7 +5802,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 154869,
       "name": "rosa blanca",
       "url": "https://open.spotify.com/track/6gBJ4VpnAtnJXnOorPikov"
@@ -6146,6 +6246,24 @@
       "duration_ms": 159360,
       "name": "Sway (Mucho Mambo)",
       "url": "https://open.spotify.com/track/5Un9adXHRrNedbZt9QLC2C"
+    },
+    {
+      "album": {
+        "name": "S\u00e3o Paulo EP",
+        "url": "https://open.spotify.com/album/690QdmHPXtjGxLuQ4MzJt4"
+      },
+      "artists": [
+        {
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180468,
+      "name": "S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/1LZ8F84Vj6EAnerY7RiMUO"
     },
     {
       "album": {
@@ -7116,7 +7234,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 218709,
       "name": "Wataki",
       "url": "https://open.spotify.com/track/4PaUK4T6fMbhLSzZaX9In4"

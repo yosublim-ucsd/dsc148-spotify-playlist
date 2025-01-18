@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 751795,
+  "num_followers": 751750,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -1231,26 +1231,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "bellodrama",
-        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Rocco Hunt",
-          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
-        }
-      ],
-      "duration_ms": 169677,
-      "name": "A Un Paso De La Luna",
-      "url": "https://open.spotify.com/track/1vNYb4aLINWNy0plIsLQeX"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "COBARDE",
         "url": "https://open.spotify.com/album/5OZzcXlWpCUFz5sNa09zy6"
       },
@@ -1267,6 +1247,26 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/2IEhUsa1s1seGFAySt3zh7"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "bellodrama",
+        "url": "https://open.spotify.com/album/3Bk95OiIUpFX417h8OFnrb"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Rocco Hunt",
+          "url": "https://open.spotify.com/artist/0L1f9i3L3fkMNENljDOsjG"
+        }
+      ],
+      "duration_ms": 169677,
+      "name": "A Un Paso De La Luna",
+      "url": "https://open.spotify.com/track/1vNYb4aLINWNy0plIsLQeX"
     },
     {
       "added_at": "2024-09-02 07:47:14",

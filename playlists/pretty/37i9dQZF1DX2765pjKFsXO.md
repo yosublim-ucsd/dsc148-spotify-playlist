@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 
 > Największe polskie alternatywne kawałki w 2024 według naszej redakcji\. Cover: Daria ze Śląska
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,110 likes - 50 songs - 2 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,115 likes - 50 songs - 2 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2765pjKFsXO.md) - [plain]
 | 27 | [Fusy](https://open.spotify.com/track/6Tt5MoBZs1XgMUtxlLH0VD) | [Jakub Skorupa](https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Zeszyt drugi](https://open.spotify.com/album/4NmLblFoMD20b6pzVMCMrV) | 4:10 |
 | 28 | [Nie chcę być w Twoim życiu przejazdem](https://open.spotify.com/track/4AHXoE1MS8jTZMeW57000F) | [Patrick the Pan](https://open.spotify.com/artist/7vYfq6OMlGDw1IpTxar2h2) | [To nie najlepszy czas dla wrażliwych ludzi](https://open.spotify.com/album/4DX4IM3HoMQUFKDre6OiEV) | 3:18 |
 | 29 | [Północ](https://open.spotify.com/track/50wRVL5qab62jxUXkc5YQs) | [Natalia Szroeder](https://open.spotify.com/artist/2DhJauCHKgwVilZO9A8og3) | [REM](https://open.spotify.com/album/60pr4OenpcPMFiEkKObw6g) | 3:17 |
-| 30 | [Trzymaj moją głowę nad wodą](https://open.spotify.com/track/49TGbfOaLX90KgXINPBs2O) | [Matylda/Łukasiewicz](https://open.spotify.com/artist/63F505DnjfX3lGnyUSjPW6), [Matylda Damięcka](https://open.spotify.com/artist/6oJbbHi7Jqa8LQYzhE4wmi), [Radek Łukasiewicz](https://open.spotify.com/artist/1dDVE9rqZARiwmJpnuVECt) | [Matka](https://open.spotify.com/album/4tkbfsn4fNMHiFQ8fv6ZU9) | 4:18 |
+| 30 | [Trzymaj moją głowę nad wodą](https://open.spotify.com/track/49TGbfOaLX90KgXINPBs2O) | [Matylda/Łukasiewicz](https://open.spotify.com/artist/63F505DnjfX3lGnyUSjPW6), [Matylda](https://open.spotify.com/artist/6oJbbHi7Jqa8LQYzhE4wmi), [Radek Łukasiewicz](https://open.spotify.com/artist/1dDVE9rqZARiwmJpnuVECt) | [Matka](https://open.spotify.com/album/4tkbfsn4fNMHiFQ8fv6ZU9) | 4:18 |
 | 31 | [znowu sam](https://open.spotify.com/track/3LsWDZo1SpXNAzwQX35gPh) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [znowu sam](https://open.spotify.com/album/5kPIe6YX1PrxG91Axzhmfd) | 2:40 |
 | 32 | [Pusty pixel](https://open.spotify.com/track/02OGaCfVugKmBlNslKSl0n) | [KARAŚ/ROGUCKI](https://open.spotify.com/artist/1ZAGaCgMaOtt2yOUm1Qq6x) | [Atlas Iskier](https://open.spotify.com/album/6oi4yuECBxANeBl9Y21AGU) | 3:43 |
 | 33 | [Sierpień](https://open.spotify.com/track/0tH24ae0FBxOucvo21QW01) | [Brodka](https://open.spotify.com/artist/4D22jVMhvZgzvt8Hh9AcKY) | [WAWA](https://open.spotify.com/album/1FaiUUAQ26t9Xrv0ItyiLV) | 3:16 |

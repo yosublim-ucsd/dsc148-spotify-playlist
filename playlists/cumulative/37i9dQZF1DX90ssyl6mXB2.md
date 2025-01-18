@@ -4,7 +4,7 @@
 
 > late night vibes – notifications off.
 
-160 songs - 7 hr 25 min
+164 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [Ciao!](https://open.spotify.com/track/0oMlowcYGs70fDAfRf8eKJ) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:05 | 2024-04-05 | 2024-11-02 |
 | [Clouded](https://open.spotify.com/track/2J6OF7CkpdQGSfm1wdclqn) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Fuck The World](https://open.spotify.com/album/3vi20DRHkqv4HyVg9Rt9wC) | 1:50 | 2024-02-02 |  |
 | [come thru](https://open.spotify.com/track/79Xwa8oIicEai4bFVBxsuN) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [come thru](https://open.spotify.com/album/6iyCsIynra6MsjVoV3tnrQ) | 2:33 | 2024-02-20 |  |
+| [Crisis Evasion](https://open.spotify.com/track/4i09IieVZUDPilgSnOMpin) | [Maz B](https://open.spotify.com/artist/7dmwSItAEr4EhkUH5C9aXH), [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Crisis Evasion](https://open.spotify.com/album/3hlLYKWn1HdOujfn1NTKNP) | 2:34 | 2025-01-17 |  |
 | [Dangerously In Love](https://open.spotify.com/track/7M5COssVtV99IUsU1HxHzS) | [Yvng Ev](https://open.spotify.com/artist/2fm64bFy2cks8y7SEMyTXN) | [Dangerously In Love](https://open.spotify.com/album/3JksmbqVD1Nj94ptBNDpBH) | 1:59 | 2024-10-25 |  |
 | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/track/15ZqvIC2zw8BWXD2hhLiAR) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/album/7qpuVhQPYGbtdkuNeoCElG) | 2:47 | 2024-09-13 | 2024-10-19 |
 | [DEAD MAN WALKING](https://open.spotify.com/track/2c2tlXfEmLgUNvxngIi1qL) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [WASTELAND](https://open.spotify.com/album/0PHMNbcgHfzSUALlfk7wGg) | 4:07 | 2024-02-02 | 2024-03-30 |
@@ -52,6 +53,7 @@
 | [Dopamine](https://open.spotify.com/track/1MuSaxhOeNsFXdftnS5Ldc) | [Yo Trane](https://open.spotify.com/artist/4W49e48G0gg1pucAN6JiGH) | [Dopamine](https://open.spotify.com/album/05hmev84ZOX3Bfrl6D0bGC) | 2:37 | 2024-05-17 |  |
 | [Double Time](https://open.spotify.com/track/1TbRmfLl7wT5MjrKKigGbU) | [Ryan Trey](https://open.spotify.com/artist/5YHM0i7v5TqqibZhS0YiuX) | [Double Time](https://open.spotify.com/album/1BMXPORYXkdUNmkPrUow1z) | 2:05 | 2024-11-01 |  |
 | [downtown](https://open.spotify.com/track/7rW9b5Ymr730VxYpT4Itk1) | [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [downtown](https://open.spotify.com/album/1nYhBZnlXskZ3etFCq4TXh) | 1:54 | 2024-05-17 | 2024-07-06 |
+| [Downtown](https://open.spotify.com/track/308jljtqrUhq4Rf51zUrNj) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Alan Voung](https://open.spotify.com/artist/1LCkAp8OSUo48W6B4bjNb3) | [Made Me This Way](https://open.spotify.com/album/368u9D9vZjmbmXwsE8WmZB) | 3:31 | 2025-01-17 |  |
 | [Drake Shit](https://open.spotify.com/track/16ro5cM2twX9wSRwVMQmBC) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [EROS](https://open.spotify.com/album/2gSZZtjbuBEJ4G9qavkfUG) | 3:05 | 2024-04-05 |  |
 | [Drake Shit](https://open.spotify.com/track/5oxOG73S76T48t7qI08aGG) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Drake Shit](https://open.spotify.com/album/1nlFRkbl4YO8IjjJTwZJ8G) | 3:05 | 2024-03-22 | 2024-04-06 |
 | [Ex\-Men](https://open.spotify.com/track/2lHxwQEVL9brjoZgXwovhN) | [Sy Ari Da Kid](https://open.spotify.com/artist/5ZI5pbnKxA6Qy1fVNsjCp0) | [Ex\-Men](https://open.spotify.com/album/4nfRCyTlTIlAM9spNTpn7a) | 3:28 | 2024-05-17 |  |
@@ -135,6 +137,7 @@
 | [Smoke + Mirrors \(Remix\)](https://open.spotify.com/track/2llhKemeYEaIH5gOiE9o4R) | [Leo Waters](https://open.spotify.com/artist/3ZIvVs9CoUB4YkYTwG36eX), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Smoke + Mirrors \(Remix\)](https://open.spotify.com/album/4Q5IBAmOTbs1O0IZsEWkIU) | 2:48 | 2024-10-25 |  |
 | [Someday](https://open.spotify.com/track/243MZdDZaiZwNw5UMIUcMn) | [JAHKOY](https://open.spotify.com/artist/1c5SlzViAqsaB0kXygfSjh) | [Someday](https://open.spotify.com/album/6m1UOy8xyZBjmz33YPuWwY) | 3:27 | 2024-06-28 |  |
 | [Soul On Fire](https://open.spotify.com/track/6xEkgmEvZMwkyPNTjeVKL3) | [TheARTI$t](https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a) | [Soul On Fire](https://open.spotify.com/album/76MCbADCF4wMTika7FpgZK) | 2:13 | 2024-10-25 |  |
+| [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/1LLPPqAA6Oz43N8JeITYdx) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 | 2025-01-17 |  |
 | [Stay Gold](https://open.spotify.com/track/4bpuF6xenrFjMLA9tfKuc7) | [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Bryson Tiller](https://open.spotify.com/album/0frVQ5nctt6zS9ZR1g5HMX) | 2:37 | 2024-04-05 |  |
 | [story to TELL](https://open.spotify.com/track/1mTa2MvvpFPDMs7Ed0EpNZ) | [Snoozegod](https://open.spotify.com/artist/6WhabHAnf9RpSa3b24CvPG), [dim.](https://open.spotify.com/artist/6gu1kyhltIYnwqWIEjO5Jy) | [story to TELL](https://open.spotify.com/album/3MIx3qRkqB9SEP4EXu21p9) | 2:03 | 2024-10-25 |  |
 | [Superficial](https://open.spotify.com/track/3qGpf4fDQxXl8rPQ52LtB9) | [SAFE](https://open.spotify.com/artist/3bnpcWBcvlfq4hPFJjNPbz) | [Superficial](https://open.spotify.com/album/1kuIqGJ1FD8GF8oJgTI2zK) | 2:14 | 2024-02-02 |  |
@@ -161,6 +164,7 @@
 | [White Tee \(with NO1\-NOAH\)](https://open.spotify.com/track/5m0eMnsWwzgGsUxe1mhFYR) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS), [NO1\-NOAH](https://open.spotify.com/artist/5kmRNFOl1XO1JHS76Zoe7j) | [Life On Earth \- EP](https://open.spotify.com/album/0MJ0Sjfn5PCa4kpUbU31JR) | 3:31 | 2024-02-02 | 2024-10-19 |
 | [Why Lie](https://open.spotify.com/track/37LKILFccnzABdLtAOrglY) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [Why Lie](https://open.spotify.com/album/32a37XMqaUjYwzcroBmHie) | 2:40 | 2024-02-16 |  |
 | [Without Me \(MajorStage Original\)](https://open.spotify.com/track/4sTKQ9YjcmrxJ0823U6jAf) | [Aáyanna](https://open.spotify.com/artist/4lL3E6bGEObeXcKHVy4D5P), [MajorStage](https://open.spotify.com/artist/3H3bgktdv4JjIrdl9py6CI) | [Without Me \(MajorStage Original\)](https://open.spotify.com/album/4IFNhEyH8siGkv2AlT8R2L) | 2:21 | 2024-04-05 |  |
+| [Without You](https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff), [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2) | [Without You](https://open.spotify.com/album/2HdjmnNEQ3T0MUj2kT59nP) | 5:03 | 2025-01-17 |  |
 | [worst behaviour](https://open.spotify.com/track/5EQHN6tBq72rJxHhmGnDoJ) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [worst behaviour](https://open.spotify.com/album/1QDdD3BJIcadQhuWBnuGTh) | 2:58 | 2024-11-01 |  |
 | [wrestla'](https://open.spotify.com/track/54E9mPo0FwoIg4hdSZ5kvr) | [Destin Laurel](https://open.spotify.com/artist/33hj9n9Y19jGhXk8m7ezKR) | [wrestla'](https://open.spotify.com/album/5jJ2NpIjt4AAfPCrSbFP16) | 1:34 | 2024-04-12 |  |
 | [WY@](https://open.spotify.com/track/3ria9Axw5mheRAOoP9bnof) | [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Larger Than Life](https://open.spotify.com/album/26rTTXIEtEeSTan28AiLaV) | 3:27 | 2024-02-02 |  |

@@ -4,7 +4,7 @@
 
 > Bold and pioneering\. LGBTQIA+ artists and allies at the centre of electronic music culture\. Cover: Babymorocco
 
-316 songs - 20 hr 31 min
+317 songs - 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [QUICK LICK \(TEQUILA Remix\)](https://open.spotify.com/track/0j3gAEzdaNCiv6cXzdY5gZ) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne), [Ayesha Erotica](https://open.spotify.com/artist/7M5pDtJpCdnftEQZtczYco) | [SUCCUBUS XXXTENDED](https://open.spotify.com/album/6pbWoujpcmXhbyn2HU2UET) | 3:19 | 2024-07-26 |  |
 | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/track/2wohA4HoBQCpmRSXNIrLbr) | [LVL1](https://open.spotify.com/artist/5cIVFxPSiXer2MuaoEATkJ), [DJ Final Boss](https://open.spotify.com/artist/5f1h4iaYmHu0ApZ5jGCldR), [DJ Flapjack](https://open.spotify.com/artist/33mtMf9Cwueem8a7VpLxy6) | [Rave Generator \(feat\. DJ Flapjack\)](https://open.spotify.com/album/6enIuErd03wGWN1e7SthZX) | 3:02 | 2024-07-12 |  |
 | [Raw Silk Uncut Wood](https://open.spotify.com/track/5wVB3rkTxCGLV9xBj0GGAl) | [Laurel Halo](https://open.spotify.com/artist/0sRVVDpgF2sKzPBkDszzUl) | [Raw Silk Uncut Wood](https://open.spotify.com/album/2dsRjDCYTJeqoQXuc8ZRjY) | 10:00 | 2021-10-15 | 2024-05-01 |
-| [RAWWWWWW \(feat\. Jozzy\)](https://open.spotify.com/track/14HlZbpTKZ0OSve8OMrHYf) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 2:53 | 2024-09-30 |  |
+| [RAWWWWWW \(feat\. Jozzy\)](https://open.spotify.com/track/14HlZbpTKZ0OSve8OMrHYf) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Jozzy](https://open.spotify.com/artist/6Ja6zFB5d7XRihhfMo6KzY) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 2:53 | 2024-09-30 | 2025-01-18 |
 | [Real Groove \- Studio 2054 Remix](https://open.spotify.com/track/3MySeyJCAKyPkTRvlvq7gm) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Real Groove \(Studio 2054 Remix\)](https://open.spotify.com/album/0z0lPmTXhkoyF1RyIAkGHm) | 4:22 | 2021-10-15 | 2023-08-31 |
 | [Real Hawt](https://open.spotify.com/track/7s12v8WY72vTwpbBGjCrN3) | [Meg Ward](https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s) | [Real Hawt](https://open.spotify.com/album/1xBgHCOPvBXxdLPteOGr0w) | 5:06 | 2021-10-15 | 2024-06-08 |
 | [Real Hot n Naughty](https://open.spotify.com/track/1hPBJwV6CK6d8IgC9OUmqW) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Felix Mufti](https://open.spotify.com/artist/1N4X5hZ0hEXhhFdg1q0AlN) | [Real Hot n Naughty](https://open.spotify.com/album/1AUPiPnIbLT7FkOgEfaPGa) | 3:34 | 2024-03-01 | 2024-09-01 |
@@ -317,6 +317,7 @@
 | [way of the dolls](https://open.spotify.com/track/4HvYbLRi7l6n1fBoxpZl6q) | [Star Amerasu](https://open.spotify.com/artist/5KeTqUR48eqXCpvEHQm7P6) | [way of the dolls](https://open.spotify.com/album/28p3hxN9jIXZC6Qoqqu0rF) | 3:32 | 2024-05-24 | 2024-10-01 |
 | [WICKED GYAL](https://open.spotify.com/track/1iwXGYb4uYrRxO9mErMcj6) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [Lady Lykez](https://open.spotify.com/artist/2G7c1PLHP1kGjq6XAol0MS) | [WICKED GYAL](https://open.spotify.com/album/0qbhpOqIGOMnwveNz9Ljwb) | 3:33 | 2023-06-20 | 2023-06-24 |
 | [Won't Bring Me Down](https://open.spotify.com/track/7bLSxU45c73nYiBUWHYTb6) | [Emmber](https://open.spotify.com/artist/4hwIFnxgvP9Lgq3JMPrjNe), [Terrell Carter](https://open.spotify.com/artist/4slqmBm48YTltzDWUvQju6) | [Won't Bring Me Down](https://open.spotify.com/album/0VmSyU3137lyHjvS5KYjqp) | 3:15 | 2024-06-21 | 2024-08-17 |
+| [WORK](https://open.spotify.com/track/0u1WLKUVURx5kY972ZrjSB) | [Mainline Magic Orchestra](https://open.spotify.com/artist/05zSozHG9kAvZTCmEo1fFT), [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Harri Poter](https://open.spotify.com/album/4cxMY0PxzpJry88fvw39mB) | 3:42 | 2025-01-17 |  |
 | [Work \(feat\. Dave Giles II, Cor.Ece & Mike Dunn\)](https://open.spotify.com/track/27mpDozgyKGFOvQZbStbdc) | [Honey Dijon](https://open.spotify.com/artist/0XfQBWgzisaS9ltDV9bXAS), [Dave Giles II](https://open.spotify.com/artist/5tceE0eTO2p70lG8DTvehw), [Cor.Ece](https://open.spotify.com/artist/7kBeFHrKwVJsFTP5wpRYEv), [Mike Dunn](https://open.spotify.com/artist/55UOywvWbUD9c6C3NSGdft) | [Black Girl Magic](https://open.spotify.com/album/27hbmfsdUp1BKsCu2N4AFN) | 3:01 | 2023-06-01 | 2024-09-14 |
 | [World's Hardest Game](https://open.spotify.com/track/0a09r51dqD5n8xCEOld1WO) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [World's Hardest Game](https://open.spotify.com/album/4860b8aDFA93PRHSPqvAOB) | 3:28 | 2024-03-22 | 2024-10-26 |
 | [XXX](https://open.spotify.com/track/3QcWzAQvI41KYheHtvsNoT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Slut Pop](https://open.spotify.com/album/4rs52z8T5zPbsa5HM75tua) | 2:04 | 2023-08-30 | 2024-06-22 |

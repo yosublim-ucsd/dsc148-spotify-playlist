@@ -4,7 +4,7 @@
 
 > Lazy slow lofi beats for laid\-back moments.
 
-1,913 songs - 3 day 2 hr 7 min
+1,919 songs - 3 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,6 +64,7 @@
 | [Afternoon Stroll](https://open.spotify.com/track/16UWKSd2xblYHt17IvMwqo) | [Corey J\. Beats](https://open.spotify.com/artist/0CpOAY2TliyvzxykFggFVS) | [Familiar Faces Vol\. 1](https://open.spotify.com/album/19mL5qH4MCuPoALZQKMFQs) | 2:58 | 2022-10-28 | 2023-09-16 |
 | [afternoon walk](https://open.spotify.com/track/1dnSIg4ulPAEIWDmuWA5Cf) | [herbstreit](https://open.spotify.com/artist/0xEjYcNKVqT5QQOpyas94i) | [afternoon walk](https://open.spotify.com/album/4fQCqOIKtbSKjUzqLDLTuy) | 2:46 | 2023-12-08 |  |
 | [afterthought](https://open.spotify.com/track/2pyIsphe6DooZRSExreQEJ) | [knock on wood](https://open.spotify.com/artist/6n3ZDOSMNusTBDKdj9s8Kv) | [afterthought](https://open.spotify.com/album/23QpEq74jS4B7MpJRT1CEv) | 2:50 | 2024-02-09 |  |
+| [Agua](https://open.spotify.com/track/3kukrfIwQS4LTeOMOHbWFX) | [Juliàn](https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk), [Natov](https://open.spotify.com/artist/4W3oULy68lC5r6CYwmGGgW) | [Agua](https://open.spotify.com/album/1VogeLO8wSlf6cL9YXGWo5) | 2:17 | 2025-01-17 |  |
 | [Aiko](https://open.spotify.com/track/4fFxOZyWvb5jREQ5v5umOC) | [Komorebi](https://open.spotify.com/artist/2eOS10ukiu8a9nPVwivizO) | [Aiko](https://open.spotify.com/album/5p2BCf91BtGvfUKu7468Wj) | 1:52 | 2022-10-28 | 2024-12-12 |
 | [Air For Free](https://open.spotify.com/track/6vs59RA3n1K1Qx8U1Mlwzx) | [AmbieNeon](https://open.spotify.com/artist/5yoZBQ9Q1iokNQDr2dwShe) | [Made Alive](https://open.spotify.com/album/2VXvG4r61yiEGsbTQlDySS) | 3:03 | 2023-01-20 | 2024-07-19 |
 | [Air V](https://open.spotify.com/track/0itPjvqfCq6Od5hMAVeJYi) | [Marcos Caixa](https://open.spotify.com/artist/2MnrAvsTKE41QWJzhqNmq5) | [Air V](https://open.spotify.com/album/30uDAdGTkafGoJVlEoPQfD) | 2:28 | 2023-05-19 |  |
@@ -233,6 +234,7 @@
 | [Bunch Of Flowers](https://open.spotify.com/track/6DBneGJiUSPIKNRTOAsP1V) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Bunch Of Flowers](https://open.spotify.com/album/0pK0K5qYpRjbF5RRCDYtG5) | 1:52 | 2023-09-01 | 2023-10-27 |
 | [Bundle Up](https://open.spotify.com/track/1f7KyBindCWLpGzRxoQETw) | [d'Addario](https://open.spotify.com/artist/4V0Cgq9L5jRSOTcDVZgABQ) | [Bundle Up](https://open.spotify.com/album/58gwIKgrNtHC50Oe7oryL7) | 1:45 | 2022-12-09 |  |
 | [Burnt Coffee](https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG) | [AAGAPE](https://open.spotify.com/artist/5H0vNnElBgqs1rirt5I15W) | [Burnt Coffee](https://open.spotify.com/album/7JLxezcgbxK6owUxAtJnsA) | 2:06 | 2023-11-17 |  |
+| [Bus Stop](https://open.spotify.com/track/1RaYGs0MT9wV3yIaudL6KW) | [iasilma](https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu) | [Bus Stop](https://open.spotify.com/album/7Ms79CscXJwdcwRkfFCUzy) | 1:52 | 2025-01-17 |  |
 | [butter](https://open.spotify.com/track/2gouQWJVOdLrjfAF6N1WIg) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [butter](https://open.spotify.com/album/564uFHwoXpTQUR8RkRDJjS) | 2:18 | 2023-12-08 | 2024-08-31 |
 | [Butterfly](https://open.spotify.com/track/5lMNl413kkVmPsydazadVw) | [Allgood](https://open.spotify.com/artist/27axU7fE93Z7h8OhRFrD4r) | [Butterfly](https://open.spotify.com/album/73kb2i5eyHMwv3fP55GZA2) | 3:45 | 2022-11-25 | 2023-02-18 |
 | [button press](https://open.spotify.com/track/1W5oSgHcgFqLZkUGSb5mgi) | [QUARTEER](https://open.spotify.com/artist/3Al6VUDbDL5JSWXLebLDYX) | [button press](https://open.spotify.com/album/0gzqGvz8CA2SIhVaErYEyk) | 2:05 | 2021-12-07 | 2023-07-14 |
@@ -913,7 +915,7 @@
 | [Lazy](https://open.spotify.com/track/4DZKPNhRgAbwzYyrRxdjs6) | [KLIM](https://open.spotify.com/artist/2mI6A1by7u32RZH8Kf61Kw) | [Lazy](https://open.spotify.com/album/5aD9NJUsi8i1zFqXb3Jh1y) | 2:17 | 2023-08-21 | 2023-09-22 |
 | [Lazy Afternoon](https://open.spotify.com/track/01oIpuqR1FPDmwPn3AJ3wg) | [Fulton St Brunch Club](https://open.spotify.com/artist/1grsC7ugHHrEGvwQI4o0OT) | [Lazy Afternoon](https://open.spotify.com/album/4zbV9ik45RNPsam6i62k5V) | 2:21 | 2023-03-08 |  |
 | [Lazy Afternoon](https://open.spotify.com/track/3yQ8tNg2WieEbTtHcvjKPB) | [sleepsleepsleep](https://open.spotify.com/artist/014LowNhgN2d8KreuoFRFd) | [Lazy Afternoon](https://open.spotify.com/album/6gsabbw0tVacAtgWbsu2JY) | 2:06 | 2023-05-19 | 2024-02-09 |
-| [Lazy Days](https://open.spotify.com/track/6hRR9B0kIoMFuiJw5ra4MV) | [Blues Trip](https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw) | [Lazy Days](https://open.spotify.com/album/1kU27rgNOeTPXvGHdANVwl) | 2:07 | 2022-10-28 |  |
+| [Lazy Days](https://open.spotify.com/track/6hRR9B0kIoMFuiJw5ra4MV) | [Blues Trip](https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw) | [Lazy Days](https://open.spotify.com/album/1kU27rgNOeTPXvGHdANVwl) | 2:07 | 2022-10-28 | 2025-01-18 |
 | [Lazy Locomotive](https://open.spotify.com/track/0l8GPSRbZlKMXM5sxKni49) | [Cmd q](https://open.spotify.com/artist/6XiXz5Vit02rmpr0M9SzMG) | [Lazy Locomotive](https://open.spotify.com/album/3Rdx410mbDx8WSFVvMVACk) | 2:00 | 2023-11-17 |  |
 | [Le petit château](https://open.spotify.com/track/5kp388qs5Gi8LntsoEWgIt) | [lechiffrebeats](https://open.spotify.com/artist/0RDK14Ri76NaSlTIBrzYcn) | [Le petit château](https://open.spotify.com/album/6So1Y5e9s8bFd9SvaQ05uf) | 1:36 | 2022-06-24 | 2022-09-30 |
 | [Leafy Greens](https://open.spotify.com/track/03Ax0kOLlmuTKA1ay5DOeU) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Leafy Greens](https://open.spotify.com/album/2gyBZBz0kU5JX8ku3WkHt5) | 3:30 | 2021-12-07 | 2022-09-10 |
@@ -1173,6 +1175,7 @@
 | [Mystic Kush](https://open.spotify.com/track/00DlqX8lQx1qGnyOYTvzkQ) | [Crate Diggers](https://open.spotify.com/artist/0WOGvsLAjAft28z7O3QHQ8) | [In Your Head](https://open.spotify.com/album/08pzGhysC0jaWMuqkZVLkp) | 2:14 | 2021-12-07 | 2022-07-01 |
 | [Mystiqa](https://open.spotify.com/track/4RwJDAOh06mjuEGXjr9JbL) | [Duane Drew](https://open.spotify.com/artist/5yFE7Dwg7yEJtQNGBuAx0J) | [Mystiqa](https://open.spotify.com/album/6M3oABRnIDaxJs6K6g0NJ4) | 2:21 | 2021-12-07 | 2022-07-01 |
 | [N & F](https://open.spotify.com/track/3cAFp5HdY7NIYV0dcl5eeq) | [Nathaniel Azul](https://open.spotify.com/artist/7rAzVSBHwlz0f2umpI0fkq) | [N & F](https://open.spotify.com/album/2rv52MWXECLsVOUc0ktIgC) | 2:02 | 2023-03-16 | 2024-06-13 |
+| [Nagi](https://open.spotify.com/track/0VpwwwGr5W2m2E2KGkRu0I) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [Nagi](https://open.spotify.com/album/1rMXmIZ8uDsceLiATzqML1) | 2:51 | 2025-01-17 |  |
 | [nakano ride](https://open.spotify.com/track/5ydchUCAyRP8PIv2yN58Xj) | [yukku](https://open.spotify.com/artist/5s1XIyM3GUlnNMT51DGAjN) | [nakano ride](https://open.spotify.com/album/65jey1RllY2XjRtXrZjlQT) | 2:11 | 2022-07-22 | 2023-04-12 |
 | [Naming Clouds](https://open.spotify.com/track/2BgEnSZWPomufRA3eKjdxZ) | [Otis Neon](https://open.spotify.com/artist/3GMuWlPjxsaDOInrqPP1k5) | [Naming Clouds](https://open.spotify.com/album/2lT3msaYSoTHbm2GYNPG5C) | 1:44 | 2023-05-19 | 2023-09-16 |
 | [NapBeats](https://open.spotify.com/track/4zS59362dyP7KThMCGiUEt) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [NapBeats](https://open.spotify.com/album/6737tjypnmZPh9eIRb4gIQ) | 2:04 | 2024-08-09 |  |
@@ -1337,6 +1340,7 @@
 | [Quasimodo](https://open.spotify.com/track/5iOp8b3L4fRjkf6Ad9ZW8E) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Love Letter](https://open.spotify.com/album/4lqMf5sKDweXGvejwarWWt) | 2:51 | 2022-09-02 | 2023-07-14 |
 | [Quench](https://open.spotify.com/track/4BVLqvnrBw8SwSDQ1sINgN) | [Jerry Izo](https://open.spotify.com/artist/4LbJlOrH7Vt2oCMdTLq6Aq) | [Quench](https://open.spotify.com/album/2f8kAfndHfmrQmNDuGpPpe) | 2:07 | 2021-12-07 | 2022-07-01 |
 | [questa terra](https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL) | [takemefaraway](https://open.spotify.com/artist/500UKPrqhWmoLq70q6GleM), [Nick's chill factory](https://open.spotify.com/artist/3QJraihPHVrl3gSNaXLEr9) | [questa terra](https://open.spotify.com/album/6avgf77GkCvhuRNeG63fAx) | 2:27 | 2023-12-08 |  |
+| [Quiescent](https://open.spotify.com/track/4D9hOQKRnYn3NX1v2WiX1s) | [Soft Fortune](https://open.spotify.com/artist/3c0kgUD7FcQGnFPlI1m1Mq) | [Quiescent](https://open.spotify.com/album/0RcFjaKjt6EPlQlCRlhNfl) | 2:20 | 2025-01-17 |  |
 | [quiet](https://open.spotify.com/track/08vuEOCKcpO6zH5g20Iidg) | [dcxv](https://open.spotify.com/artist/0joMqsMoTtZ8blx2CHKMj1) | [quiet](https://open.spotify.com/album/6hPUiZ29SufPYDYQ3U4896) | 1:39 | 2021-12-07 | 2022-04-22 |
 | [Quiet Pulse](https://open.spotify.com/track/7F3aYjhN3tF2s9d57s6IiC) | [poems](https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w) | [Quiet Pulse](https://open.spotify.com/album/53X8PzRYZrcqmXrMgRuBuT) | 2:00 | 2024-11-22 |  |
 | [Quietude](https://open.spotify.com/track/3AWnr9QfEbEI7zfKTRmK7i) | [after noon](https://open.spotify.com/artist/23ZyvK3IS7xXY1COP8KiRW) | [Quietude](https://open.spotify.com/album/6f2vv18fPIs91xXC9q2ZQ9) | 2:32 | 2022-12-09 | 2023-04-12 |
@@ -1624,6 +1628,7 @@
 | [Sunset](https://open.spotify.com/track/5cm5OwzLP6SAjPYYeMb4BC) | [Lex Raycon](https://open.spotify.com/artist/0cfVRTHY5eC42VtxflRZEE) | [Sunset](https://open.spotify.com/album/45eoyxwz9YuUgyBOKpURCh) | 2:25 | 2021-12-07 | 2022-07-29 |
 | [Sunset Driver](https://open.spotify.com/track/7sB14XGjDap7MksnZD4kBc) | [Vanilla Beach](https://open.spotify.com/artist/4gJj9oQfNWsfgwKYeUdlCe) | [Sunset Driver](https://open.spotify.com/album/45L0cycorLNnk9gMiwo2p9) | 3:17 | 2021-12-07 | 2022-09-10 |
 | [Sunset Hills](https://open.spotify.com/track/4En2tJ8oxs5a0QCktfpxCq) | [Chill Denis](https://open.spotify.com/artist/4gOKqVqVRQCGUrc70alpbr) | [Sunset Hills](https://open.spotify.com/album/7f0Zi0weOeMaTzcsKZJEZW) | 1:58 | 2022-07-15 | 2022-07-22 |
+| [Sunset Over the Boardwalk](https://open.spotify.com/track/4brNxJy0JcQYtgnjk33lj1) | [driftø blues](https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E) | [Sunset Over the Boardwalk](https://open.spotify.com/album/4eZwnvYBZwqqqMsevU4hQI) | 2:28 | 2025-01-17 |  |
 | [Sunset Sunrise](https://open.spotify.com/track/5IUIpu0CDdFXF2rhQgtgIZ) | [sunala.](https://open.spotify.com/artist/4hBM2zmhhFPO2aKD5cHtJl) | [Sunset Sunrise](https://open.spotify.com/album/4WQohBnOkIhn4KWxkjVmJW) | 2:11 | 2023-04-20 |  |
 | [Sunset Wish](https://open.spotify.com/track/5OuutCf0GMIB0fSyI2kHNr) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD), [Hoogway](https://open.spotify.com/artist/1Mh9G47YfuaLdQs44voLrQ) | [Sunset Wish](https://open.spotify.com/album/63RgFySdicgg8HLgCbSTen) | 2:14 | 2021-12-07 | 2022-09-10 |
 | [Sunshine Recorder](https://open.spotify.com/track/49oVOPbXKaRLNaL5B1JG4U) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Secret Village of Chill](https://open.spotify.com/album/4xHXC1XtNxxSZCHxT2eoFs) | 1:52 | 2021-12-07 | 2022-06-03 |
@@ -1788,6 +1793,7 @@
 | [under water](https://open.spotify.com/track/1sQlZIzRvIakw7SIB4THi1) | [bax iv](https://open.spotify.com/artist/0JZZhhFnYFY5c4mDXTgj42) | [under water](https://open.spotify.com/album/5lMoCrsL2AheZithd3omCi) | 2:06 | 2023-09-22 | 2023-09-29 |
 | [Under Water](https://open.spotify.com/track/2UltutQuhWKc1hPuEY5Rje) | [LAV8](https://open.spotify.com/artist/0n0N8rkm96ulhvOxNu6zK5) | [Under Water](https://open.spotify.com/album/2hcHXpCfHtP28XiAgEopaB) | 3:00 | 2022-08-19 | 2023-04-21 |
 | [Undersea](https://open.spotify.com/track/5CGRlXxWh4zaskAWpg4AeB) | [HoKø](https://open.spotify.com/artist/7pRU1CndlfPZTkcMG5ZkBD) | [Undersea](https://open.spotify.com/album/2nzMIHsSPel9lPyUGWGnUp) | 2:56 | 2022-07-22 | 2022-11-12 |
+| [Underwater Blue](https://open.spotify.com/track/0QeAaK8CFKkh2qmCt3YHco) | [MyceliumBug](https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK) | [Underwater Blue](https://open.spotify.com/album/00OQEeuYndQegzno7CqR4B) | 1:42 | 2025-01-17 |  |
 | [Unfair](https://open.spotify.com/track/6almDaOLy2R0MAMTLmNIBb) | [Krynoze](https://open.spotify.com/artist/3iGthn6RykA9JUHnilAIr0), [Strong.AL&](https://open.spotify.com/artist/41iDgaNQFTv4Igs0WMw8d1), [Mondo Loops](https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK) | [Unfair](https://open.spotify.com/album/3eYupVErUCArn2ltlYQ3NA) | 2:10 | 2022-08-12 | 2022-11-12 |
 | [Unfair Ways](https://open.spotify.com/track/5szxQkFES2xCKVgyVfM7YM) | [Mysolar](https://open.spotify.com/artist/6Mn6XV2oKxar2RnbvDRSqi) | [Musique Aquarelle](https://open.spotify.com/album/0jSiLY1h1Y7KLSvwT1Bd1f) | 2:00 | 2021-12-07 | 2022-10-08 |
 | [Unfocused](https://open.spotify.com/track/1nvfLfYYMaqp727vk7SQdn) | [Synkop](https://open.spotify.com/artist/6BZBpezhFNyPBC0xE0mBE2) | [Firetree](https://open.spotify.com/album/114VCNLwSI8JIysVGXZUmX) | 1:25 | 2021-12-07 | 2022-05-27 |

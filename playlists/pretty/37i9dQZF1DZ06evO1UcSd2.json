@@ -1,12 +1,12 @@
 {
   "description": "This is Lenin Ram\u00edrez. The essential tracks, all in one playlist.",
-  "num_followers": 73177,
+  "num_followers": 73181,
   "original_name": "This Is Lenin Ram\u00edrez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4WpAAAAAACELVuj4qxB6bRNCe/DwxIf",
+  "snapshot_id": "Z4hMAAAAAACi9Ja/Wa8AhRCMgKj/hZIT",
   "tracks": [
     {
       "added_at": null,
@@ -95,26 +95,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Solita (En Vivo)",
-        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 215984,
-      "name": "Solita (En Vivo)",
-      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joaqu\u00edn",
         "url": "https://open.spotify.com/album/6QqtIICcsDotbqg5SPWWUi"
       },
@@ -135,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bien Positivo",
-        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+        "name": "Solita (En Vivo)",
+        "url": "https://open.spotify.com/album/50ABTjpmglksLMkTdoo1lP"
       },
       "artists": [
         {
@@ -144,13 +124,13 @@
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         },
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
         }
       ],
-      "duration_ms": 139668,
-      "name": "Cuando Andaba Recio (El Cholo)",
-      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
+      "duration_ms": 215984,
+      "name": "Solita (En Vivo)",
+      "url": "https://open.spotify.com/track/6ggHV1SCPqLLV5U2kyW9qD"
     },
     {
       "added_at": null,
@@ -167,6 +147,26 @@
       "duration_ms": 198062,
       "name": "El Famoso Chino Antrax",
       "url": "https://open.spotify.com/track/5JINcxe6jLF09D6RSpHH5p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bien Positivo",
+        "url": "https://open.spotify.com/album/30BSsKftPkHrOGfso3pvcv"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 139668,
+      "name": "Cuando Andaba Recio (El Cholo)",
+      "url": "https://open.spotify.com/track/3PQbEoyDHaxvCpBqWq6gbn"
     },
     {
       "added_at": null,
@@ -563,18 +563,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Polvo Rosita",
-        "url": "https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz"
+        "name": "En Vivo Desde Mi Ranchito",
+        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        },
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 159786,
-      "name": "Polvo Rosita",
-      "url": "https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU"
+      "duration_ms": 270318,
+      "name": "Un Frisian Llamado El Centenario - En Vivo",
+      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
     },
     {
       "added_at": null,
@@ -595,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mi Ranchito",
-        "url": "https://open.spotify.com/album/22Ovk2DIKkjtoEDWZ6AaTs"
+        "name": "Polvo Rosita",
+        "url": "https://open.spotify.com/album/20uQNNeCnnuo4LbZzpHztz"
       },
       "artists": [
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        },
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 270318,
-      "name": "Un Frisian Llamado El Centenario - En Vivo",
-      "url": "https://open.spotify.com/track/0kTsX5yfHhdg4nK7t4pbzz"
+      "duration_ms": 159786,
+      "name": "Polvo Rosita",
+      "url": "https://open.spotify.com/track/2wFr4kDAHG9Q3BeetDRpqU"
     },
     {
       "added_at": null,
@@ -819,6 +819,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "duration_ms": 193190,
+      "name": "La Vida del Changuito",
+      "url": "https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Del Barrio Hasta Aqu\u00ed, Vol. 2",
         "url": "https://open.spotify.com/album/1UtMaTZl4kau9NSFqc8wHp"
       },
@@ -839,18 +855,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
+        "name": "El Teniente Pa' La Clica",
+        "url": "https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR"
       },
       "artists": [
+        {
+          "name": "Jesus Payan e Imparables",
+          "url": "https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup"
+        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 193190,
-      "name": "La Vida del Changuito",
-      "url": "https://open.spotify.com/track/6IoVCLDSIZnSYkvn1Br1dG"
+      "duration_ms": 170393,
+      "name": "El Teniente Pa' La Clica",
+      "url": "https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW"
     },
     {
       "added_at": null,
@@ -879,22 +899,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Teniente Pa' La Clica",
-        "url": "https://open.spotify.com/album/66SjzdSEl1T3MLVSLYE3DR"
+        "name": "Mi Conquista",
+        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
       },
       "artists": [
-        {
-          "name": "Jesus Payan e Imparables",
-          "url": "https://open.spotify.com/artist/7y24WJ50nXUe8p8P4doUup"
-        },
         {
           "name": "Lenin Ram\u00edrez",
           "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 170393,
-      "name": "El Teniente Pa' La Clica",
-      "url": "https://open.spotify.com/track/7IBCbYw9TWBn5bb6XM4vdW"
+      "duration_ms": 180250,
+      "name": "Recuerdos del R",
+      "url": "https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz"
     },
     {
       "added_at": null,
@@ -915,22 +931,6 @@
       "duration_ms": 202750,
       "name": "A Lo Que Sigue",
       "url": "https://open.spotify.com/track/0Ndnbc16qPg2CO34a8Z65Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Conquista",
-        "url": "https://open.spotify.com/album/79ZIEAQjbnfv1GHteRx3P7"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 180250,
-      "name": "Recuerdos del R",
-      "url": "https://open.spotify.com/track/6JCyVBSbVg2YH1SlOhg0rz"
     },
     {
       "added_at": null,
@@ -996,9 +996,9 @@
           "url": "https://open.spotify.com/artist/6yRnpibMV9phmk5aIiqhVk"
         }
       ],
-      "duration_ms": 116520,
-      "name": "Juan Colorado (En Vivo)",
-      "url": "https://open.spotify.com/track/5OBhWFGXpI1l9IhOMdntzb"
+      "duration_ms": 128039,
+      "name": "El Centenario (En Vivo)",
+      "url": "https://open.spotify.com/track/0eUb4yGTMT4WFiElWuTH5N"
     }
   ],
   "unique_name": "This Is Lenin Ram\u00edrez",

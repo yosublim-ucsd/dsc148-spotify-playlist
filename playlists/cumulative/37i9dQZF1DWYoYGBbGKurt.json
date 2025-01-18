@@ -1081,6 +1081,28 @@
     },
     {
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/1VogeLO8wSlf6cL9YXGWo5"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00e0n",
+          "url": "https://open.spotify.com/artist/2SJLGPoAJhy9Id6N8oAftk"
+        },
+        {
+          "name": "Natov",
+          "url": "https://open.spotify.com/artist/4W3oULy68lC5r6CYwmGGgW"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/3kukrfIwQS4LTeOMOHbWFX"
+    },
+    {
+      "album": {
         "name": "Aiko",
         "url": "https://open.spotify.com/album/5p2BCf91BtGvfUKu7468Wj"
       },
@@ -4304,6 +4326,24 @@
       "duration_ms": 126857,
       "name": "Burnt Coffee",
       "url": "https://open.spotify.com/track/754aGQqZJaznJc5fc2lTbG"
+    },
+    {
+      "album": {
+        "name": "Bus Stop",
+        "url": "https://open.spotify.com/album/7Ms79CscXJwdcwRkfFCUzy"
+      },
+      "artists": [
+        {
+          "name": "iasilma",
+          "url": "https://open.spotify.com/artist/3pDdMkuOaBgEfSrzpFmWcu"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112125,
+      "name": "Bus Stop",
+      "url": "https://open.spotify.com/track/1RaYGs0MT9wV3yIaudL6KW"
     },
     {
       "album": {
@@ -17358,7 +17398,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 127500,
       "name": "Lazy Days",
       "url": "https://open.spotify.com/track/6hRR9B0kIoMFuiJw5ra4MV"
@@ -22307,6 +22347,24 @@
     },
     {
       "album": {
+        "name": "Nagi",
+        "url": "https://open.spotify.com/album/1rMXmIZ8uDsceLiATzqML1"
+      },
+      "artists": [
+        {
+          "name": "Shimon Hoshino",
+          "url": "https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Nagi",
+      "url": "https://open.spotify.com/track/0VpwwwGr5W2m2E2KGkRu0I"
+    },
+    {
+      "album": {
         "name": "nakano ride",
         "url": "https://open.spotify.com/album/65jey1RllY2XjRtXrZjlQT"
       },
@@ -25368,6 +25426,24 @@
       "duration_ms": 147230,
       "name": "questa terra",
       "url": "https://open.spotify.com/track/6FevAR2uTxKH1WkX7NwoFL"
+    },
+    {
+      "album": {
+        "name": "Quiescent",
+        "url": "https://open.spotify.com/album/0RcFjaKjt6EPlQlCRlhNfl"
+      },
+      "artists": [
+        {
+          "name": "Soft Fortune",
+          "url": "https://open.spotify.com/artist/3c0kgUD7FcQGnFPlI1m1Mq"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Quiescent",
+      "url": "https://open.spotify.com/track/4D9hOQKRnYn3NX1v2WiX1s"
     },
     {
       "album": {
@@ -30805,6 +30881,24 @@
     },
     {
       "album": {
+        "name": "Sunset Over the Boardwalk",
+        "url": "https://open.spotify.com/album/4eZwnvYBZwqqqMsevU4hQI"
+      },
+      "artists": [
+        {
+          "name": "drift\u00f8 blues",
+          "url": "https://open.spotify.com/artist/6IK9tbMR95RzFZhaHvHi5E"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148427,
+      "name": "Sunset Over the Boardwalk",
+      "url": "https://open.spotify.com/track/4brNxJy0JcQYtgnjk33lj1"
+    },
+    {
+      "album": {
         "name": "Sunset Sunrise",
         "url": "https://open.spotify.com/album/4WQohBnOkIhn4KWxkjVmJW"
       },
@@ -33954,6 +34048,24 @@
       "duration_ms": 176370,
       "name": "Undersea",
       "url": "https://open.spotify.com/track/5CGRlXxWh4zaskAWpg4AeB"
+    },
+    {
+      "album": {
+        "name": "Underwater Blue",
+        "url": "https://open.spotify.com/album/00OQEeuYndQegzno7CqR4B"
+      },
+      "artists": [
+        {
+          "name": "MyceliumBug",
+          "url": "https://open.spotify.com/artist/4Ck1JIZA91251fV2hyHGHK"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 102089,
+      "name": "Underwater Blue",
+      "url": "https://open.spotify.com/track/0QeAaK8CFKkh2qmCt3YHco"
     },
     {
       "album": {

@@ -675,6 +675,24 @@
     },
     {
       "album": {
+        "name": "Echoes in the Rain",
+        "url": "https://open.spotify.com/album/0NVJMgNWPnUFPKOQBlYUPg"
+      },
+      "artists": [
+        {
+          "name": "Elion Headford",
+          "url": "https://open.spotify.com/artist/3DtXDehf7i5tjLgcwhXaM0"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146041,
+      "name": "Echoes in the Rain",
+      "url": "https://open.spotify.com/track/4SHc8k6K4KEviFqdI7VoHU"
+    },
+    {
+      "album": {
         "name": "Ecru",
         "url": "https://open.spotify.com/album/1mLEQBy5wZefMZiSNp14hL"
       },
@@ -906,6 +924,24 @@
       "duration_ms": 130164,
       "name": "Glance Out A Casement Window",
       "url": "https://open.spotify.com/track/5hFkGfx038V0LhqI0Uff2J"
+    },
+    {
+      "album": {
+        "name": "Glass Maze",
+        "url": "https://open.spotify.com/album/50ifG2BjEBlPjelAE1VsIS"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Hahn",
+          "url": "https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231980,
+      "name": "Glass Maze",
+      "url": "https://open.spotify.com/track/0Gip9R2bdofMa8bp0ix7yu"
     },
     {
       "album": {
@@ -2498,6 +2534,24 @@
       "duration_ms": 109768,
       "name": "Una Flor",
       "url": "https://open.spotify.com/track/2NDa9A2bztLx2utRxtRyzd"
+    },
+    {
+      "album": {
+        "name": "Until We Meet Again",
+        "url": "https://open.spotify.com/album/6H5ndDLpcwgYXnEegDh9ye"
+      },
+      "artists": [
+        {
+          "name": "Nascondiglio",
+          "url": "https://open.spotify.com/artist/6ySvmMDgTOV3XTT6sgIovK"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155463,
+      "name": "Until We Meet Again",
+      "url": "https://open.spotify.com/track/3FnodjeI8yW2WgbasYVgnP"
     },
     {
       "album": {

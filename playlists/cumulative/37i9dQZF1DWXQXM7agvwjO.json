@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-28",
-  "description": "Hottest indie sound from Asia. Cover: Paolo Sandejas  (Philippines)",
+  "description": "Hottest indie sound from Asia. Cover: Noh Salleh  (Malaysia)",
   "name": ".ORG",
   "tracks": [
     {
@@ -1162,7 +1162,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 225853,
       "name": "Alone",
       "url": "https://open.spotify.com/track/5Qejt8cDgNL0fg98C8R2Dn"
@@ -8758,7 +8758,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 206615,
       "name": "Fill My Empty Soul",
       "url": "https://open.spotify.com/track/3YN2Vz3jYYIIvkC2eX2mGr"
@@ -12933,6 +12933,24 @@
     },
     {
       "album": {
+        "name": "In the End of the World (I Love You)",
+        "url": "https://open.spotify.com/album/1aRkkaRkSJucjtsBwCLW5S"
+      },
+      "artists": [
+        {
+          "name": "I Mean Us",
+          "url": "https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220965,
+      "name": "In the End of the World (I Love You)",
+      "url": "https://open.spotify.com/track/3CcENn2midZIlsOmie5Nvq"
+    },
+    {
+      "album": {
         "name": "In the end we\u2019re just",
         "url": "https://open.spotify.com/album/10IuJieY6wTU772PLGkoxl"
       },
@@ -14517,6 +14535,24 @@
     },
     {
       "album": {
+        "name": "LIE DOWN..",
+        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309381,
+      "name": "LIE DOWN..",
+      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
+    },
+    {
+      "album": {
         "name": "Life 4 You",
         "url": "https://open.spotify.com/album/0y8AqUHFyZX5e8A0qBKKAh"
       },
@@ -15446,7 +15482,7 @@
       ],
       "date_added": "2024-11-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 301907,
       "name": "Lucif\u00e9rine",
       "url": "https://open.spotify.com/track/5Ijd36DisS37oD9P9rUha1"
@@ -17560,7 +17596,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 310133,
       "name": "NEON",
       "url": "https://open.spotify.com/track/4Sx73QNB9EAgDWPIgQRQ9y"
@@ -17853,6 +17889,24 @@
     },
     {
       "album": {
+        "name": "Nirmala",
+        "url": "https://open.spotify.com/album/47kv2lYLvQoUTIMbj2EWGs"
+      },
+      "artists": [
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "Nirmala",
+      "url": "https://open.spotify.com/track/5girXMAp0lBtfQpNZEe1cT"
+    },
+    {
+      "album": {
         "name": "Lost Humanity",
         "url": "https://open.spotify.com/album/7BtGOVpYZMEyqiPpLqgPEP"
       },
@@ -17948,7 +18002,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 116550,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/3THtnG1bwcN8slSt4GJeEG"
@@ -21840,6 +21894,28 @@
       "duration_ms": 244247,
       "name": "Shall We Dance",
       "url": "https://open.spotify.com/track/2iLzrjQXYYOUuiFFHO83oQ"
+    },
+    {
+      "album": {
+        "name": "Stigma",
+        "url": "https://open.spotify.com/album/4LZh8WcrwnewfAvjUMvtM8"
+      },
+      "artists": [
+        {
+          "name": "Green!Eyes",
+          "url": "https://open.spotify.com/artist/1bQ6HkvmQA9SaPcBRxmTUh"
+        },
+        {
+          "name": "Pei-Yu Hung",
+          "url": "https://open.spotify.com/artist/0rARfHZ4ZteUlzbAuxUwAs"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217533,
+      "name": "Shallow",
+      "url": "https://open.spotify.com/track/0SbQAxOciLnTM5tdi84vR8"
     },
     {
       "album": {
@@ -27806,6 +27882,24 @@
       "duration_ms": 142400,
       "name": "whatis<3?",
       "url": "https://open.spotify.com/track/6fQTD5r77ZujlMXsC0Jyht"
+    },
+    {
+      "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/4I0zCNINiIdL6JfUExr5M4"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "What\u2019s On Your Mind",
+      "url": "https://open.spotify.com/track/6OEfp9hoy5ugnNaGhtBTK9"
     },
     {
       "album": {

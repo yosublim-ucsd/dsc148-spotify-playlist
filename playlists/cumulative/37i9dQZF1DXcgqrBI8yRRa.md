@@ -2,7 +2,7 @@
 
 ### [Internet Famous](https://open.spotify.com/playlist/37i9dQZF1DXcgqrBI8yRRa)
 
-> As heard on the FYP.
+> As heard on the FYP\.  Cover: BLNDE
 
 639 songs - 1 day 10 hr 49 min
 

@@ -391,6 +391,24 @@
     },
     {
       "album": {
+        "name": "Amble",
+        "url": "https://open.spotify.com/album/2MJwSBOPC3hwSCigceB7Qx"
+      },
+      "artists": [
+        {
+          "name": "Alsephina",
+          "url": "https://open.spotify.com/artist/2EFJqbmRZS645xeescnjp6"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157673,
+      "name": "Amble",
+      "url": "https://open.spotify.com/track/5cV6U9P1ItEIGrvSpkb35V"
+    },
+    {
+      "album": {
         "name": "Always Wear A Crown",
         "url": "https://open.spotify.com/album/1lqjD9lHsGxFVgzoYP7Xxg"
       },
@@ -716,6 +734,24 @@
       "duration_ms": 185770,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/6LTIZenP15l2VvkvPF2lFM"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/5GUFDpP1akb6gih6Ey36lU"
+      },
+      "artists": [
+        {
+          "name": "Pete McMurray",
+          "url": "https://open.spotify.com/artist/0axEcnxjPL29xOVtOW2RSN"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160934,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/6kPDienBIgRFWtWHw7mX4m"
     },
     {
       "album": {
@@ -1850,7 +1886,7 @@
       ],
       "date_added": "2023-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 168000,
       "name": "Cwsg",
       "url": "https://open.spotify.com/track/7kabmQdunJ6Jk5PAeTSwtL"
@@ -2325,6 +2361,24 @@
     },
     {
       "album": {
+        "name": "Down Time",
+        "url": "https://open.spotify.com/album/4PJI6SUXMzhcfvNiCMA1KP"
+      },
+      "artists": [
+        {
+          "name": "Livrunna",
+          "url": "https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139551,
+      "name": "Down Time",
+      "url": "https://open.spotify.com/track/48VnXdQcdP3qaPnqdUTiuo"
+    },
+    {
+      "album": {
         "name": "Dream Dependence",
         "url": "https://open.spotify.com/album/6Jle8T0G5NdKPJkfOuIVQd"
       },
@@ -2772,6 +2826,24 @@
       "duration_ms": 195750,
       "name": "Enlightment",
       "url": "https://open.spotify.com/track/51MgNNSnDIqwfcQhU9jDqK"
+    },
+    {
+      "album": {
+        "name": "Entanglement",
+        "url": "https://open.spotify.com/album/7DvHZu5WZpAo3hXSP2Zpa8"
+      },
+      "artists": [
+        {
+          "name": "unvrsl frqncy",
+          "url": "https://open.spotify.com/artist/57MWtuK2Td08YgvBJg2EQm"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166674,
+      "name": "Entanglement",
+      "url": "https://open.spotify.com/track/4yDVceKS2GYRzbxY3PI4MZ"
     },
     {
       "album": {
@@ -3308,7 +3380,7 @@
       ],
       "date_added": "2022-02-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 141510,
       "name": "For Your Relief",
       "url": "https://open.spotify.com/track/2bBNdeBMLLOrpzewcEQIPl"
@@ -5936,7 +6008,7 @@
       ],
       "date_added": "2022-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 189010,
       "name": "Morgentau",
       "url": "https://open.spotify.com/track/4sFKNjTnjAI6xsU6YsSEcS"
@@ -6048,6 +6120,24 @@
       "duration_ms": 293877,
       "name": "Muladhara",
       "url": "https://open.spotify.com/track/3pOIvvzAM9nj0ipjmGGhRs"
+    },
+    {
+      "album": {
+        "name": "Must Be Real",
+        "url": "https://open.spotify.com/album/5YdSHKqh4g8XJmYDLJMsYI"
+      },
+      "artists": [
+        {
+          "name": "EMIKO",
+          "url": "https://open.spotify.com/artist/6ucAqkMiK3gtdXjcBjwZNx"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210000,
+      "name": "Must Be Real",
+      "url": "https://open.spotify.com/track/4e9nh4ytV1l6ldBKhaAPxS"
     },
     {
       "album": {
@@ -6192,6 +6282,24 @@
       "duration_ms": 180624,
       "name": "Nefelibata",
       "url": "https://open.spotify.com/track/07MRGolhqppoqEWDV5aZhJ"
+    },
+    {
+      "album": {
+        "name": "Neural Cloud",
+        "url": "https://open.spotify.com/album/6p9aZ6HAdEGJom70KHrsOC"
+      },
+      "artists": [
+        {
+          "name": "Digitalis",
+          "url": "https://open.spotify.com/artist/0dxuNGL2sY3z2qXzZ69ki2"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166215,
+      "name": "Neural Cloud",
+      "url": "https://open.spotify.com/track/1PLJILCaR8acauvJFNJouM"
     },
     {
       "album": {
@@ -6350,7 +6458,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 198500,
       "name": "Nights Shining",
       "url": "https://open.spotify.com/track/4ntDp0FMEDnTxGF6GlLYiO"
@@ -6494,7 +6602,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 198552,
       "name": "Northern Vision",
       "url": "https://open.spotify.com/track/5YOZJuXBLkMiOakT0xi0CA"
@@ -6602,7 +6710,7 @@
       ],
       "date_added": "2024-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 192173,
       "name": "Ocean of stars",
       "url": "https://open.spotify.com/track/0NVVfr89Lp4nWbvseoydH1"
@@ -9497,6 +9605,24 @@
     },
     {
       "album": {
+        "name": "Terrestrial",
+        "url": "https://open.spotify.com/album/3pVquKUViUvq5JxeNjFAo9"
+      },
+      "artists": [
+        {
+          "name": "Cristoforo Giordano",
+          "url": "https://open.spotify.com/artist/5kCSdIBChGo0GjOEuyjb40"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187174,
+      "name": "Terrestrial",
+      "url": "https://open.spotify.com/track/4N3kD7uiBkk73cAHcylBDJ"
+    },
+    {
+      "album": {
         "name": "LiKKma",
         "url": "https://open.spotify.com/album/5SNYbkLmRHm1LnLqxq302d"
       },
@@ -9760,7 +9886,7 @@
       ],
       "date_added": "2022-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 155240,
       "name": "Timelapses",
       "url": "https://open.spotify.com/track/3M0p85lGZSAirN47876OKc"
@@ -9778,7 +9904,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 192452,
       "name": "To Illuminate",
       "url": "https://open.spotify.com/track/4oEvUOPyQqMcvYgYHwnMn9"
@@ -10174,7 +10300,7 @@
       ],
       "date_added": "2021-11-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 141055,
       "name": "Vinsamlegast",
       "url": "https://open.spotify.com/track/1bSIKUAxUGk2pUVctmRLrv"
@@ -10268,6 +10394,24 @@
       "duration_ms": 152280,
       "name": "Vista",
       "url": "https://open.spotify.com/track/14sRXDn38uhpfk65uVeJsW"
+    },
+    {
+      "album": {
+        "name": "Visualizing",
+        "url": "https://open.spotify.com/album/5BDh4c51PD8OYA10o2hpMr"
+      },
+      "artists": [
+        {
+          "name": "Kai Stellar",
+          "url": "https://open.spotify.com/artist/5Ni9tbQ9r28mw5RS8AyGQr"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "Visualizing",
+      "url": "https://open.spotify.com/track/1aakOkX34CbmgrGERegFqW"
     },
     {
       "album": {

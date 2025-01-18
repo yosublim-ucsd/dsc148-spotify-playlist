@@ -2,9 +2,9 @@
 
 ### [Boom Rap](https://open.spotify.com/playlist/37i9dQZF1DX3zN05ePDN6Q)
 
-> boom bap renasce todo dia\. Foto: Parteum
+> boom bap renasce todo dia\. Foto: Akira Presidente, Fleezus
 
-598 songs - 1 day 7 hr 27 min
+599 songs - 1 day 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [Bel\-Prazer](https://open.spotify.com/track/7vkDhw3AXPs50aKShHW32B) | [Zeus](https://open.spotify.com/artist/5kgI1wqNVu9xTVu6yO4nQG) | [Bel\-Prazer](https://open.spotify.com/album/0AzbyouwyggESCr7GgpP25) | 3:16 | 2022-04-29 | 2022-08-06 |
 | [Besteiras](https://open.spotify.com/track/50QaTi8c8XZxCX09lGd32Q) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/2BWuEcfvGCiIaqwb0HTqFm) | 3:04 | 2023-12-15 |  |
 | [Besteiras](https://open.spotify.com/track/5K4HRJIIr39tHJBpD0YeyC) | [LEALL](https://open.spotify.com/artist/4h52MPCFvx56uhmH254Uqz), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [Babidi](https://open.spotify.com/artist/1S2Wiv7Swqnnvp1ktoWaul) | [Eu Ainda Tenho Coração](https://open.spotify.com/album/7dMDChrId0PHuWQy5R3P5o) | 3:04 | 2023-12-15 | 2024-04-19 |
+| [Big Man](https://open.spotify.com/track/2fEcLZdJP3Ni4vMAUabEHS) | [Akira Presidente](https://open.spotify.com/artist/6ZnwtQznVleZpEkQINdyfG), [Fleezus](https://open.spotify.com/artist/5vl7Vj67mORmn0yJccFCfq), [MAD GUI](https://open.spotify.com/artist/3EurgulwAwWZ9hjxOQ0NXv) | [Big Man](https://open.spotify.com/album/5LPDZn3qaYJTlT6EgHWM4v) | 3:07 | 2025-01-17 |  |
 | [Bipolar](https://open.spotify.com/track/0aZQn07s3Kf2UlE6tnkAPg) | [Chiocki](https://open.spotify.com/artist/0UFcxMt1Cv90Y1qKpVDT5Z) | [Cansei de Ouvir Trap Mixtape](https://open.spotify.com/album/5j9OB2EfeWOhLBNo1sNy5s) | 1:26 | 2023-08-25 | 2023-10-14 |
 | [Black Mafia](https://open.spotify.com/track/3AEeaAqF0XBQYNLGHXrn97) | [Romer Attack](https://open.spotify.com/artist/2kWsMzpXAlYAt8viDHOck0), [Goldman](https://open.spotify.com/artist/34Tri1BoJA03aIDbQlYEU7), [Menthor](https://open.spotify.com/artist/0XzXCGtdBwz8qaAUuqCxsM), [Mahal Reis](https://open.spotify.com/artist/5jG0MAA7TLDdeZq2O03s8U) | [Street Disciple](https://open.spotify.com/album/2MOUb2b9whF10xglGuDX31) | 4:17 | 2024-06-07 | 2024-08-10 |
 | [Boca do Cais](https://open.spotify.com/track/2EsQKH1tYRXFlGF8obK8Uh) | [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1), [yung vegan](https://open.spotify.com/artist/1syJqMCwFKLRoDT9plGxJV), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC) | [Boca do Cais](https://open.spotify.com/album/2XVHUp4Lh9caAr45PLTKiJ) | 3:12 | 2023-11-24 | 2024-03-02 |
@@ -106,7 +107,7 @@
 | [Carro Bixo](https://open.spotify.com/track/0ZMrc3LsGEvc1g6uBAp0r9) | [ADL](https://open.spotify.com/artist/6Ywb1no2hXLazjIs4LUiQD), [MV Bill](https://open.spotify.com/artist/4oE4ASN8auDhoW9vsXp3VJ) | [Carro Bixo](https://open.spotify.com/album/0xMLfvrpdEZH1Je066UQGk) | 4:30 | 2024-12-13 |  |
 | [Carta Aberta](https://open.spotify.com/track/7bYemOhOuShzPq4BAje0XI) | [Lil Fuub](https://open.spotify.com/artist/47KYl2Wi5f5jmldU2F13An) | [AM/PM](https://open.spotify.com/album/44YOBuLwAxZxhJ6zVvCtWj) | 4:09 | 2024-09-06 | 2024-11-09 |
 | [Carta pra Lucas](https://open.spotify.com/track/0FiYM9wfGccAJn8z4S5hxB) | [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Rock Danger](https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb), [El Lif Beatz](https://open.spotify.com/artist/0HBQtIkqXtoKagoPOgxK8k) | [Troféu](https://open.spotify.com/album/5M274S1cUS8suxN7aD4hvp) | 3:01 | 2022-03-18 | 2024-01-02 |
-| [Cartas](https://open.spotify.com/track/5L0w4gRHKGfFy3ZUlBYunb) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1) | [Cartas](https://open.spotify.com/album/7mJNXzEsl9ZbmZBzcqhZNd) | 3:32 | 2024-06-21 |  |
+| [Cartas](https://open.spotify.com/track/5L0w4gRHKGfFy3ZUlBYunb) | [Elo Da Corrente](https://open.spotify.com/artist/208xLawVEQeZUnQe2FKrZe), [BEATDOMK](https://open.spotify.com/artist/3skj2KZCvizGrCwYD03ApC), [Murica](https://open.spotify.com/artist/5tevA98mEA8sgH93W3PxE1) | [Cartas](https://open.spotify.com/album/7mJNXzEsl9ZbmZBzcqhZNd) | 3:32 | 2024-06-21 | 2025-01-18 |
 | [Casa](https://open.spotify.com/track/5MtBO8sJ42NiAQHP0gIsKK) | [Kamau](https://open.spotify.com/artist/2oB7m9exCPwJ8jwDgKWjho), [Flavia K](https://open.spotify.com/artist/4IlT0E6L6RdAetLBw5aDgn), [Dj Nyack](https://open.spotify.com/artist/6qWqYtNvKPE8HwgmoPfkHx) | [Est...](https://open.spotify.com/album/71vqUUjWo99McniK992hzn) | 3:21 | 2024-10-11 |  |
 | [Caso Cerrado](https://open.spotify.com/track/3jQXBjRY7j6WNKEq6ZByc9) | [Turek Hem](https://open.spotify.com/artist/5HSROvpnFBzRENwjZ30RNx), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK) | [Caso Cerrado](https://open.spotify.com/album/7JjO9lvCXBvWBf9edW9FEc) | 3:24 | 2022-08-05 | 2022-08-27 |
 | [Caso Toca Meu Som](https://open.spotify.com/track/4A6f7kAieGGqlk7XF98NCi) | [NP Vocal](https://open.spotify.com/artist/2mCaOwbPetRnHmVUwnCTMU), [Avila Beatz](https://open.spotify.com/artist/7xUdVOv7jgGkwdfMlvxaRf), [OTUS500](https://open.spotify.com/artist/5TdG0jBIKHn7Yd5uvBcjH1) | [Caso Toca Meu Som](https://open.spotify.com/album/69ol99UrEIWc0vGZOhgrwm) | 2:34 | 2024-05-31 | 2024-06-08 |

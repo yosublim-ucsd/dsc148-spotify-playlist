@@ -2,9 +2,9 @@
 
 ### [The Pit](https://open.spotify.com/playlist/37i9dQZF1DWXXKBeJuKnWE)
 
-> The home for heavy music\. Cover: Architects
+> The home for heavy music\. Cover: Split Chain
 
-453 songs - 1 day 3 hr 5 min
+459 songs - 1 day 3 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [a new moral low ground](https://open.spotify.com/track/2XNJNwSOq8tLWhQ5a9sGBb) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:31 | 2022-11-10 | 2023-07-26 |
 | [Abortion](https://open.spotify.com/track/048Yte6RBmRVn3reWZQvYq) | [The Menstrual Cramps](https://open.spotify.com/artist/5ZV8lDOPUCh9tzkSQBVarI) | [Abortion](https://open.spotify.com/album/1ZcgrAlvWGlYthMo5bCsJC) | 2:40 | 2024-01-26 | 2024-05-24 |
 | [Act Violently](https://open.spotify.com/track/7ly7Em7Mwj89WKKSQKhOBK) | [SOFT PLAY](https://open.spotify.com/artist/3xByNj8XW17oW0wsJhgzYL) | [Act Violently](https://open.spotify.com/album/5z8XoC7FxcuPfT2PrT0xEK) | 2:51 | 2024-05-03 |  |
+| [Afraid](https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Afraid](https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut) | 2:40 | 2025-01-17 |  |
 | [Afterlove](https://open.spotify.com/track/2guRN4CqL8RzsauI3nKOqY) | [Afterlove](https://open.spotify.com/artist/4JzQX0UIGSB9qzGZEplQDm), [Siamese](https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0) | [Afterlove](https://open.spotify.com/album/3hUGMqXXDHKYBEMySgoHGY) | 3:20 | 2024-11-22 |  |
 | [Alkaline](https://open.spotify.com/track/0B4YX3OMtZSmPm9KpiZKl2) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/4SD2UxRO9OgeSCQK0PN7cC) | 3:34 | 2023-02-10 | 2023-03-25 |
 | [Alkaline](https://open.spotify.com/track/2bhO18WXe8NbFpc7sAQcEw) | [Sleep Token](https://open.spotify.com/artist/2n2RSaZqBuUUukhbLlpnE6) | [This Place Will Become Your Tomb](https://open.spotify.com/album/53PfSATgN0YM7IsfI2CDvs) | 3:34 | 2022-11-10 | 2023-02-18 |
@@ -27,6 +28,7 @@
 | [All My Life](https://open.spotify.com/track/2p5LjvjZlMSxxwNUtDyG5x) | [Falling In Reverse](https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [All My Life](https://open.spotify.com/album/4jrP67zEPygoCd90h6vMHr) | 3:10 | 2024-06-15 |  |
 | [All Or Nothing](https://open.spotify.com/track/4X7W1t7pii0H8i5YS4Zu5Z) | [Bobby Wolfgang](https://open.spotify.com/artist/7HJGdWKxnA9ef6HtaQfXJP) | [All Or Nothing](https://open.spotify.com/album/4MzxRsRJOsaU76pZxhNUCI) | 3:18 | 2023-07-25 | 2024-01-27 |
 | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/track/5viZ8CLipufc1Q1NXpMRNN) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF), [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz), [Daryl Palumbo](https://open.spotify.com/artist/6GcRo52zMhZXYOsEkMyMrX), [Glassjaw](https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0) | [AmEN! \(feat\. Lil Uzi Vert and Daryl Palumbo of Glassjaw\)](https://open.spotify.com/album/1n9nqA87ulG7FxxVrpULRA) | 3:09 | 2023-06-01 | 2024-05-24 |
+| [An Artist Is An Artist](https://open.spotify.com/track/1QlHr6xzSARBWQ6QvTb7TW) | [Skunk Anansie](https://open.spotify.com/artist/5HlXA01kcjssYDT7EoqUJF) | [An Artist Is An Artist](https://open.spotify.com/album/4V3UKsFn4HbEnJKNa0BRAZ) | 3:11 | 2025-01-17 |  |
 | [Angel Dust](https://open.spotify.com/track/4bDZt8PBRFOhBEcBS1Rdfs) | [Savage Hands](https://open.spotify.com/artist/3z1C31NkSQPWEFGkXCp3zx) | [Angel Dust](https://open.spotify.com/album/1PFAJuhUUb52aSlAMhRPPf) | 3:27 | 2023-07-25 | 2024-01-12 |
 | [Animals](https://open.spotify.com/track/5ofoB8PFmocBXFBEWVb6Vz) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:04 | 2022-11-10 | 2023-07-26 |
 | [ANYTHING > HUMAN](https://open.spotify.com/track/7I50EtrBjzjZmHwLj7BeFl) | [Bad Omens](https://open.spotify.com/artist/3Ri4H12KFyu98LMjSoij5V), [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [CONCRETE JUNGLE \[THE OST\]](https://open.spotify.com/album/4syhGzikXsrKqlOUA9s9ld) | 3:55 | 2024-06-01 |  |
@@ -38,6 +40,7 @@
 | [Baby Steps](https://open.spotify.com/track/6tdaPu8xDrBsQLV1Jfj1cF) | [XL LIFE](https://open.spotify.com/artist/6ql3PKpzPtJITCzZBebyaV), [Bob Vylan](https://open.spotify.com/artist/6XgIk9Y6qy6JCMZVime6DQ) | [Baby Steps](https://open.spotify.com/album/3WmyWjZ6EujeH4iaaKcW9G) | 4:22 | 2023-07-25 | 2024-01-12 |
 | [Back From The Dead](https://open.spotify.com/track/2kxp6iR7nCNGYTx0eNYp2C) | [Halestorm](https://open.spotify.com/artist/6om12Ev5ppgoMy3OYSoech) | [Back From the Dead](https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu) | 3:30 | 2023-07-25 |  |
 | [Back With Another One](https://open.spotify.com/track/09A8fZVdi4iv5YG8mZTN0S) | [BLACKGOLD](https://open.spotify.com/artist/3IWxZuMgQKWrNn1S20D1qa) | [Back With Another One](https://open.spotify.com/album/0Gq9CLto1yWYpcCFihQFYw) | 2:12 | 2023-11-17 | 2024-05-11 |
+| [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY) | [Conquer Divide](https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc), [Of Virtue](https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA) | [Bad Dreams \(feat\. Of Virtue\)](https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31) | 3:40 | 2025-01-17 |  |
 | [Be Someone \(feat\. Eric Vanlerberghe of I Prevail\)](https://open.spotify.com/track/3ftyD427SvsTqDJ57PAcbd) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh), [Eric Vanlerberghe](https://open.spotify.com/artist/1oaELF1Z21iJBfE3tfyyt2) | [Be Someone \(feat\. Eric Vanlerberghe of I Prevail\)](https://open.spotify.com/album/7uFCwYvYgm8tf8LC1TVgWp) | 4:13 | 2024-07-19 |  |
 | [be very afraid](https://open.spotify.com/track/1nXWhLumXogqFeijfa1uJd) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 4:20 | 2022-11-10 | 2023-02-01 |
 | [BED OF NAILS](https://open.spotify.com/track/2D3DJWvbt96sgDYR8rHcpR) | [Florence Black](https://open.spotify.com/artist/7ubhUvkY7FB68rfzz7DmW4) | [BED OF NAILS](https://open.spotify.com/album/5hNrR9DKWi3HDavme0qTkd) | 4:13 | 2024-01-12 |  |
@@ -48,6 +51,7 @@
 | [Bite Through My Tongue](https://open.spotify.com/track/1cPGuicrSNjZhIocQaRNOV) | [Casey](https://open.spotify.com/artist/7KqVvL7NOdUWyQg2B63cck) | [Bite Through My Tongue](https://open.spotify.com/album/5JkNcCBmKSAkTR4fDllwhm) | 3:28 | 2023-12-01 | 2024-05-04 |
 | [Black Sheep](https://open.spotify.com/track/0phSq8JjgvNlRmFaGDbmlh) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [DOGMA](https://open.spotify.com/album/6TPRyXWXQuVfgmOO14xRno) | 3:52 | 2023-10-13 | 2024-04-19 |
 | [Black Sheep](https://open.spotify.com/track/2izSnazOLEjr2N8ioPj2tQ) | [Crown The Empire](https://open.spotify.com/artist/2vKiJjsgjgqIECUyYeIVvO) | [Black Sheep](https://open.spotify.com/album/7dOV7dlS4FDKXpWp4TdCoX) | 3:52 | 2023-07-25 |  |
+| [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 | 2025-01-17 |  |
 | [Bleeders](https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [Bleeders](https://open.spotify.com/album/3U2tS7mIbIbj3Vg7lREEOc) | 4:34 | 2024-07-24 |  |
 | [Bleeding](https://open.spotify.com/track/6WPEREfyyWXcOUsRmrTlEM) | [Kill The Lights](https://open.spotify.com/artist/2b2c6xP76y8HCLiovv7kIZ) | [Death Melodies](https://open.spotify.com/album/7hMvX9SJmUEORfGoIlrLlB) | 3:18 | 2024-03-08 | 2024-05-24 |
 | [Blind Side Sonny](https://open.spotify.com/track/3yJIHyPa3J6SadRkhp5QsZ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [Blind Side Sonny](https://open.spotify.com/album/3Q8URHjCFx82FDBf6BUeFJ) | 2:22 | 2024-10-04 |  |
@@ -101,6 +105,7 @@
 | [Delusion:All](https://open.spotify.com/track/61f3iPQRIe0I6CSj7qJdi3) | [ONE OK ROCK](https://open.spotify.com/artist/7k73EtZwoPs516ZxE72KsO) | [Delusion:All](https://open.spotify.com/album/5z4TVXmLIziKpgUEbtHr61) | 3:04 | 2024-07-11 |  |
 | [Delusions of Grandeur](https://open.spotify.com/track/1PhnLoIh8emLvQ7mUM1CyJ) | [Trash Boat](https://open.spotify.com/artist/0XGJ3GUPwslwFJ66yNbHeh) | [Delusions of Grandeur](https://open.spotify.com/album/0ehJqGshc3gcqVjJeo6hy1) | 2:58 | 2023-02-10 | 2023-10-06 |
 | [Demure](https://open.spotify.com/track/0q3a74dm3dH5Sm8ORI2hnB) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Demure](https://open.spotify.com/album/7wuJv3LE3mXdMY0CxF29Mj) | 4:49 | 2023-07-25 | 2024-01-27 |
+| [Depth Perception](https://open.spotify.com/track/4eX7ab529UMekc74rqhRIc) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Depth Perception](https://open.spotify.com/album/6nhVlevmyWxfLDpHdFqDlu) | 3:52 | 2025-01-17 |  |
 | [Descend](https://open.spotify.com/track/21gzflUH729pjKczveSrHU) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [Descend](https://open.spotify.com/album/4tnun5NPcqNyEBaWacXb97) | 3:40 | 2024-04-19 |  |
 | [DESERT RAP](https://open.spotify.com/track/3AJS1eZLyHUSUFq4RU2Jan) | [FEVER 333](https://open.spotify.com/artist/1B0155rdv175D1tQ8VH7Oy) | [DESERT RAP](https://open.spotify.com/album/0VCDFicjr02GvApktZoPO8) | 3:12 | 2024-09-20 |  |
 | [Devil](https://open.spotify.com/track/6REIaFxddyAZI2MjmlSHOW) | [Black Veil Brides](https://open.spotify.com/artist/6O7MpKrY91vlCd4Osi6XKs) | [The Mourning](https://open.spotify.com/album/4xAVywnk3mapIPdtXEefro) | 3:23 | 2022-11-10 | 2023-04-20 |
@@ -194,6 +199,7 @@
 | [I Hope You Choke](https://open.spotify.com/track/5tzQBDvosYbVemX5GLFkmB) | [Harper](https://open.spotify.com/artist/1zhymMZgQLPrt0bSh3UGL3) | [I Hope You Choke](https://open.spotify.com/album/2cHzgepoOGSgCETJzyXPb6) | 3:27 | 2024-02-16 | 2024-03-23 |
 | [I Think You Should Leave](https://open.spotify.com/track/3hJlhv7rIPi1MMvDiO6ka9) | [Problem Patterns](https://open.spotify.com/artist/4u5UG0TxXroCBnpgBruPOP) | [I Think You Should Leave](https://open.spotify.com/album/3PzFW7lRfp0eqw3X3fpHKU) | 3:59 | 2024-08-09 |  |
 | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/track/1kWQO5R5UylzN2myHqyi3r) | [Winona Fighter](https://open.spotify.com/artist/1u5SWpU4mZSziEz2hdPSWQ) | [I'M IN THE MARKET TO PLEASE NO ONE](https://open.spotify.com/album/2vxhkK1zHVNKyf9VRdy6xP) | 2:40 | 2024-03-08 | 2024-04-20 |
+| [I'm Not Dying To Be Here](https://open.spotify.com/track/3KtbuP205Bjvseg2oSIIdp) | [Split Chain](https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar) | [I'm Not Dying To Be Here](https://open.spotify.com/album/38QYjYk8Th23g27sTaWvKn) | 3:24 | 2025-01-17 |  |
 | [Idiot Box](https://open.spotify.com/track/015kSVnGm0KHrcHFf5o1ND) | [Frost\*](https://open.spotify.com/artist/1Ha9FtCeuoajMbOG4Kz2d7) | [Idiot Box](https://open.spotify.com/album/6JWMghtrHlYLNYOp45X7Qe) | 4:58 | 2024-10-17 |  |
 | [If Darkness Had a Son](https://open.spotify.com/track/3i4Nwzze8zflIoKsuoeBPM) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [72 Seasons](https://open.spotify.com/album/70uejEPPRPSLBrTRdfghP5) | 6:36 | 2023-03-23 | 2023-06-25 |
 | [If Darkness Had a Son](https://open.spotify.com/track/69HjtjyHuP8KJT7xBaUmtW) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [If Darkness Had a Son](https://open.spotify.com/album/07wqwU4JaQl7XTWwfiAobb) | 6:36 | 2023-03-03 | 2023-04-17 |

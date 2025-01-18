@@ -1,12 +1,12 @@
 {
   "description": "Estas son las grandes voces del Hip Hop. Foto: Alkolirykoz",
-  "num_followers": 22263,
+  "num_followers": 22282,
   "original_name": "Los Gallos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z22uiQAAAAAD1mPvT4CDIxCQV+ybKs+8",
+  "snapshot_id": "Z4nojgAAAACbpCX+qIBSg6+atJTNw8In",
   "tracks": [
     {
       "added_at": "2024-12-26 19:29:13",
@@ -53,6 +53,26 @@
       "url": "https://open.spotify.com/track/22JYKMt5XrcRQO0dzY5fwE"
     },
     {
+      "added_at": "2025-01-17 05:20:14",
+      "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/29JIy55gOvxwgbTTz4FOrs"
+      },
+      "artists": [
+        {
+          "name": "Nach",
+          "url": "https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        }
+      ],
+      "duration_ms": 233994,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6BlMONswYrMdTaKMyB3Ox6"
+    },
+    {
       "added_at": "2024-12-26 19:29:13",
       "album": {
         "name": "Solo Es Una",
@@ -93,6 +113,22 @@
       "url": "https://open.spotify.com/track/1fNhNyGGQ9d5pkhc8dvqZD"
     },
     {
+      "added_at": "2025-01-17 05:20:14",
+      "album": {
+        "name": "Suero Casero",
+        "url": "https://open.spotify.com/album/6VHX4Z87U5UjJtNr5LPAdE"
+      },
+      "artists": [
+        {
+          "name": "Alcolirykoz",
+          "url": "https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D"
+        }
+      ],
+      "duration_ms": 185806,
+      "name": "Suero Casero",
+      "url": "https://open.spotify.com/track/1WG3ZRwyzLm2OPRjRzuczP"
+    },
+    {
       "added_at": "2024-12-26 19:29:13",
       "album": {
         "name": "Obra Negra",
@@ -125,34 +161,10 @@
       "url": "https://open.spotify.com/track/3hWnBTMoc0QGporRnmLZQn"
     },
     {
-      "added_at": "2024-12-26 19:29:13",
+      "added_at": "2025-01-17 05:20:14",
       "album": {
-        "name": "Cxrtier",
-        "url": "https://open.spotify.com/album/18yDCznNglFexmWgTQJAeC"
-      },
-      "artists": [
-        {
-          "name": "Ruzto",
-          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
-        },
-        {
-          "name": "N. Hardem",
-          "url": "https://open.spotify.com/artist/6oqagavQDMpR3KKeX4eqjL"
-        },
-        {
-          "name": "Ecks One",
-          "url": "https://open.spotify.com/artist/4kwGYV3ZRvWaEbRW1VuKBF"
-        }
-      ],
-      "duration_ms": 244878,
-      "name": "Cxrtier",
-      "url": "https://open.spotify.com/track/4d1VlTfnv3hn488JmtH3h7"
-    },
-    {
-      "added_at": "2024-12-26 19:29:13",
-      "album": {
-        "name": "Formas para Perderse o I.D.E.A.S",
-        "url": "https://open.spotify.com/album/5hVZa47W1Zil7bIDRgGWjT"
+        "name": "El Sol",
+        "url": "https://open.spotify.com/album/1wpkzV51fjsIlKpTPfx5pl"
       },
       "artists": [
         {
@@ -160,9 +172,9 @@
           "url": "https://open.spotify.com/artist/0KuSKX95imv2ymBDqrixLv"
         }
       ],
-      "duration_ms": 267133,
-      "name": "Sputnik",
-      "url": "https://open.spotify.com/track/33U3U0NBr7CDFyIfFqunNX"
+      "duration_ms": 224521,
+      "name": "El Sol",
+      "url": "https://open.spotify.com/track/2qaRS0nH4KHINXl2nMNQFZ"
     },
     {
       "added_at": "2024-12-26 19:29:13",
@@ -199,6 +211,30 @@
       "duration_ms": 184000,
       "name": "Le dec\u00edan que no pod\u00eda",
       "url": "https://open.spotify.com/track/1H74BSIoJD0Usb5Boyocsl"
+    },
+    {
+      "added_at": "2025-01-17 05:20:14",
+      "album": {
+        "name": "Morricone",
+        "url": "https://open.spotify.com/album/724FnfCim5tuhNIRVwFjjd"
+      },
+      "artists": [
+        {
+          "name": "Ruzto",
+          "url": "https://open.spotify.com/artist/5Ti7e3WlCPPlcsZfxqtzTo"
+        },
+        {
+          "name": "Rap Bang Club",
+          "url": "https://open.spotify.com/artist/0cRHRB8jrBv74aDfyXQPrd"
+        },
+        {
+          "name": "Pocket Tincho",
+          "url": "https://open.spotify.com/artist/4s65hXCQfmaf39pGFlM387"
+        }
+      ],
+      "duration_ms": 233357,
+      "name": "Morricone",
+      "url": "https://open.spotify.com/track/71aX3sroqIFBPq0I3nayj3"
     },
     {
       "added_at": "2024-12-26 19:29:13",
@@ -375,22 +411,6 @@
       "duration_ms": 204146,
       "name": "M\u00e1s que reales",
       "url": "https://open.spotify.com/track/39Pw6j6Sd5J9qZv6aPO3WQ"
-    },
-    {
-      "added_at": "2024-12-26 19:29:13",
-      "album": {
-        "name": "QUEEN OF TRAP",
-        "url": "https://open.spotify.com/album/19RFiFwKmA8Z3FUjzdVPVi"
-      },
-      "artists": [
-        {
-          "name": "Lil Keren",
-          "url": "https://open.spotify.com/artist/2T2r8MMgDzMeDLABgJw4Xt"
-        }
-      ],
-      "duration_ms": 146202,
-      "name": "Mucha Salsa",
-      "url": "https://open.spotify.com/track/7MEam5ltcAIcNUsOTVV0T3"
     },
     {
       "added_at": "2024-12-26 19:29:13",
@@ -635,30 +655,6 @@
     {
       "added_at": "2024-12-26 19:29:13",
       "album": {
-        "name": "Sudaca en el Rooftop",
-        "url": "https://open.spotify.com/album/6MBPWZl4xbYrrgbQcnKQhv"
-      },
-      "artists": [
-        {
-          "name": "Tsh Sudaca",
-          "url": "https://open.spotify.com/artist/6kfPkheKpxesJXLqA4h7jO"
-        },
-        {
-          "name": "Brina Quoya",
-          "url": "https://open.spotify.com/artist/632hn2DX5vh2nnytdhrDfY"
-        },
-        {
-          "name": "Dr Bizarro",
-          "url": "https://open.spotify.com/artist/61IKvGm6q6Bf8kArlFb0vn"
-        }
-      ],
-      "duration_ms": 193043,
-      "name": "Sudaca en el Rooftop",
-      "url": "https://open.spotify.com/track/3S7C1d8Y3zkL2VUxjDdWhO"
-    },
-    {
-      "added_at": "2024-12-26 19:29:13",
-      "album": {
         "name": "La Escuela",
         "url": "https://open.spotify.com/album/2wjVKjLqiuQkEkNBkrM3ib"
       },
@@ -723,26 +719,6 @@
       "duration_ms": 197647,
       "name": "Exc\u00e1libur",
       "url": "https://open.spotify.com/track/0n28ai4yMotZny94Wn9QPt"
-    },
-    {
-      "added_at": "2024-12-26 19:29:13",
-      "album": {
-        "name": "A Solas",
-        "url": "https://open.spotify.com/album/3jGg8lgUeNP74f9kyULRKr"
-      },
-      "artists": [
-        {
-          "name": "Juan Sinatra",
-          "url": "https://open.spotify.com/artist/7k1jHUZ4OqRGJcOjCQu28Y"
-        },
-        {
-          "name": "Inti Sigma",
-          "url": "https://open.spotify.com/artist/3wAPsE5VK5xEt0gqf1w0p0"
-        }
-      ],
-      "duration_ms": 176170,
-      "name": "A Solas",
-      "url": "https://open.spotify.com/track/6UQrzoN3uVRmS1kXpkcjtI"
     },
     {
       "added_at": "2024-12-26 19:29:13",

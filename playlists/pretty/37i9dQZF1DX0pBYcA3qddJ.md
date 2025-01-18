@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 
 > 夜になる一歩手前の時刻に一瞬でもリラックスできるような、音響系オルタナティブとクラシックミュージックを。
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,790 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,792 likes - 100 songs - 6 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 25 | [Berceuse](https://open.spotify.com/track/2aj9gk89sJ9Rj8kE6EfxM3) | [Armas Järnefelt](https://open.spotify.com/artist/0DDOvrV9wGcN6EPZU2KeRK), [Erkki Rautio](https://open.spotify.com/artist/0mrn7eJEcqV7KPopqH5UYy), [Izumi Tateno](https://open.spotify.com/artist/1IDW9jgQRukXDqINZyrkue) | [Finland 100 Years: Classical Music](https://open.spotify.com/album/7hCQ6pzgHwpyKFPSoS2sym) | 3:21 |
 | 26 | [Inori \- 2023 ver.](https://open.spotify.com/track/2vC17akaNidEPKLa9ZALi4) | [Yuka Akatsu](https://open.spotify.com/artist/5ajEbTXKWMi6XYjrBvvyEb) | [Botanic](https://open.spotify.com/album/5c6OgEcD6ADRwvyWJR8eBe) | 5:24 |
 | 27 | [Snow](https://open.spotify.com/track/7dr3ZhQmk9hZZTz5svschC) | [Tomoya Naka](https://open.spotify.com/artist/16swNvdMD5sQAXlVaHc8Hx) | [Luna e Sole](https://open.spotify.com/album/2fvASnd0fRoJeGxxVVgQmM) | 3:08 |
-| 28 | [まなざし](https://open.spotify.com/track/42RuSzxp1B7DXgQBj1mYF3) | [Blumepopo](https://open.spotify.com/artist/04RNBUTa49gFIa0Kqc7UYQ) | [Body Meets Dress](https://open.spotify.com/album/44mC0kMz1fWmB6mwtBIy7n) | 3:43 |
+| 28 | [まなざし](https://open.spotify.com/track/42RuSzxp1B7DXgQBj1mYF3) | [Blume popo](https://open.spotify.com/artist/3dZl31JVG5DlLnJn1nKeob) | [Body Meets Dress](https://open.spotify.com/album/44mC0kMz1fWmB6mwtBIy7n) | 3:43 |
 | 29 | [18の小品 作品72 より 2 子守唄](https://open.spotify.com/track/4uzt6LR0Grjosxh86JMM6K) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [金子三勇士](https://open.spotify.com/artist/6PdcjZrcYniTGsVEfGPMIT) | [チャイコフスキー：ピアノ協奏曲 第1番、他](https://open.spotify.com/album/0AA2EHp1Jh0P1QVAHnbbqb) | 6:36 |
 | 30 | [An Embroidery](https://open.spotify.com/track/3EmzrBnKgnW6ewXjwHopMT) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [An Embroidery](https://open.spotify.com/album/1TgoX6RQQ7xWKeB8ylRwgy) | 4:09 |
 | 31 | [ピアノ・ソナタ ロ短調 S.178 Lento assai \- Allegro energico](https://open.spotify.com/track/1SzoVGg51SC9ecy3wIMhOu) | [フランツ・リスト](https://open.spotify.com/artist/5TpmEhdgm9h6EhkVqEmSlA), [古海行子](https://open.spotify.com/artist/3BCjmEq3Xyrf7EUk0ER0IY) | [リスト: ピアノ・ソナタ](https://open.spotify.com/album/4r4ElrIYKSbUrSJOVfQACQ) | 12:01 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0pBYcA3qddJ.md) - [plain]
 | 97 | [TREE](https://open.spotify.com/track/5nW41zamR8GqKYUxvxo12d) | [Ólafur Arnalds](https://open.spotify.com/artist/7E3BRXV9ZbCt5lQTCXMTia) | [TREE](https://open.spotify.com/album/3YW20Fu5fMy01J2EY4Dlav) | 4:38 |
 | 98 | [パッヘルベルのカノン \- beautiful sleep ver.](https://open.spotify.com/track/5LsS7gOqxIIdz4DVtpBi4A) | [Shinya Kiyozuka](https://open.spotify.com/artist/2acDvNu4hqCoCPlUdehoj2) | [眠るためのピアノアルバム～beautiful sleep～](https://open.spotify.com/album/7H191esP6oW2m58tzIDfhZ) | 3:21 |
 | 99 | [drip&trip](https://open.spotify.com/track/4OfEynGcmC1MPHT7XRMfS3) | [アツムワンダフル](https://open.spotify.com/artist/5bSP4BWuxMm8IaUdgLg1qW), [一服track](https://open.spotify.com/artist/0C2tFTcfwbzUujsItAj7Ed) | [drip&trip](https://open.spotify.com/album/3ucbmnrGL2KCldRy3LZaVB) | 2:45 |
-| 100 | [mou](https://open.spotify.com/track/12zymbsA9SpQ9TZqRg7gCn) | [Teruyuki Nobuchika](https://open.spotify.com/artist/2TJHKFB5XTGjMcTZ04tAkM) | [Sonorite](https://open.spotify.com/album/4faTpoJmxjd59tAvoxsCi8) | 2:53 |
+| 100 | [fallen leaves](https://open.spotify.com/track/0sYfmKsl5ebxiUhJHLxmeK) | [Koshun Nakao](https://open.spotify.com/artist/6VpDrxopEFg1YOqmXOdPyz) | [fallen leaves](https://open.spotify.com/album/5WACx3ToU3nizu4plI5ldW) | 2:31 |
 
 Snapshot ID: `ZliZxwAAAABTpQUwqC5XhXVfV4c6YDtl`

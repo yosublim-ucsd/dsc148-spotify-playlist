@@ -298,7 +298,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 135981,
       "name": "A Practical Matter",
       "url": "https://open.spotify.com/track/6diJq4Hz5Z8SMP87VhQR82"
@@ -1132,7 +1132,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 125530,
       "name": "Believe",
       "url": "https://open.spotify.com/track/6mS1UBTYXQ4qN1XpG7KmCU"
@@ -1842,7 +1842,7 @@
       ],
       "date_added": "2024-05-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 147272,
       "name": "cloud dance",
       "url": "https://open.spotify.com/track/7mVMtlLrzxVD8yuBRreH06"
@@ -4312,7 +4312,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 111047,
       "name": "Guidance",
       "url": "https://open.spotify.com/track/35cbWQsBEHm2UFkfbrzq07"
@@ -4678,10 +4678,28 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 182000,
       "name": "Hotline Bling",
       "url": "https://open.spotify.com/track/0geJbuyMR6YmogxKPFSmbv"
+    },
+    {
+      "album": {
+        "name": "Hotline Bling (Remixes)",
+        "url": "https://open.spotify.com/album/1GAR8k5C71yn3RfLSsxmmt"
+      },
+      "artists": [
+        {
+          "name": "Gibran Alcocer",
+          "url": "https://open.spotify.com/artist/5nWYvcpaqKtp08cYxjOfFr"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "Hotline Bling",
+      "url": "https://open.spotify.com/track/6zNoaA3PJA7BImBRMTgi2b"
     },
     {
       "album": {
@@ -5284,7 +5302,7 @@
       ],
       "date_added": "2024-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 106500,
       "name": "In The Winds",
       "url": "https://open.spotify.com/track/7wW9XUM3lb1unfvSRYmQjf"
@@ -5592,6 +5610,24 @@
       "duration_ms": 204827,
       "name": "Lagunas",
       "url": "https://open.spotify.com/track/2nIXmbPLBaS7OlXZuGioiB"
+    },
+    {
+      "album": {
+        "name": "Lake Tahoe",
+        "url": "https://open.spotify.com/album/7L5roWS3JzHQg8DV0wXcJ2"
+      },
+      "artists": [
+        {
+          "name": "Pierre Lebold",
+          "url": "https://open.spotify.com/artist/4SzI7OmT3fVa9pWZgUuXfM"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155437,
+      "name": "Lake Tahoe",
+      "url": "https://open.spotify.com/track/4bn47fIQ1iFk4VfZC1Eh1r"
     },
     {
       "album": {
@@ -7951,6 +7987,24 @@
     },
     {
       "album": {
+        "name": "quiet nights",
+        "url": "https://open.spotify.com/album/29M0mIYmNZk1oKzlZp6WN1"
+      },
+      "artists": [
+        {
+          "name": "Jonas Hoffmann",
+          "url": "https://open.spotify.com/artist/5cEU3AV44x8TnbyQjOlInP"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138030,
+      "name": "quiet nights",
+      "url": "https://open.spotify.com/track/6oEvvtPZU0G2vrR0urefuj"
+    },
+    {
+      "album": {
         "name": "Quiet Thought",
         "url": "https://open.spotify.com/album/4ku1gGUALwIW5W1tc6bGSE"
       },
@@ -7998,7 +8052,7 @@
       ],
       "date_added": "2023-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 124778,
       "name": "raindrops",
       "url": "https://open.spotify.com/track/6LFt83kO2UpsmzRlNBw3uM"
@@ -8326,6 +8380,24 @@
       "duration_ms": 105123,
       "name": "Roses are Fine",
       "url": "https://open.spotify.com/track/7qjmoVTdz6CiB8Ymxnnt9q"
+    },
+    {
+      "album": {
+        "name": "Sadness Without You",
+        "url": "https://open.spotify.com/album/2xfSOlVnCavhMNlUKWa6hm"
+      },
+      "artists": [
+        {
+          "name": "Charles Szczepanek",
+          "url": "https://open.spotify.com/artist/2RHgkbONbH9he8kovTc0MX"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163928,
+      "name": "Sadness Without You",
+      "url": "https://open.spotify.com/track/4jRVjDiL3QjJyoJkeG0J1c"
     },
     {
       "album": {
@@ -9856,7 +9928,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 100892,
       "name": "The Faroes",
       "url": "https://open.spotify.com/track/1xa8mqm2xZCuvzjfo5pCAa"
@@ -11468,7 +11540,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 168165,
       "name": "Willow's weep",
       "url": "https://open.spotify.com/track/1kmssd5o575LBfzOnep0FA"

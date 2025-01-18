@@ -8,7 +8,7 @@ pretty - [cumulative](/playlists/cumulative/0q2dbyUyAuUkW3ec6XRwJD.md) - [plain]
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Rock Around The Clock](https://open.spotify.com/track/6eZ4AQ3S8caRHrfE3mWaRe) | [Bill Haley](https://open.spotify.com/artist/2XBzvyw3fwtZu4iUz12x0G) | [The Best Of Rock](https://open.spotify.com/album/5VtMEvBaxGv1pGTgV1Ujlg) | 2:12 |
+| 1 | [Rock Around The Clock](https://open.spotify.com/track/6eZ4AQ3S8caRHrfE3mWaRe) | [Bill Haley & His Comets](https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr) | [The Best Of Rock](https://open.spotify.com/album/5VtMEvBaxGv1pGTgV1Ujlg) | 2:12 |
 | 2 | [Love Me Tender](https://open.spotify.com/track/6dQCoiKBsswvY6uojb17xU) | [Elvis Presley](https://open.spotify.com/artist/43ZHCT0cAZBISjO8DG9PnE) | [Top 10 Hits Of The 50s \- 50 Original Hits](https://open.spotify.com/album/1LuX7NnQ9BJMz8h1PZwhCo) | 2:44 |
 | 3 | [Mr Sandman](https://open.spotify.com/track/1dMsoOPtKoYuiPAFZNNGfL) | [The Chordettes](https://open.spotify.com/artist/62GnBjssWSXBlKvQohT2Bk) | [Top 10 Hits Of The 50s \- 50 Original Hits](https://open.spotify.com/album/1LuX7NnQ9BJMz8h1PZwhCo) | 2:26 |
 | 4 | [I'm into Something Good \(Rerecorded Version\)](https://open.spotify.com/track/3W2w8oCiXGrHFHDFYahvAM) | [Herman's Hermits](https://open.spotify.com/artist/48YxSlb23RAaCd4RyHcV9V) | [Top hits of the 60's](https://open.spotify.com/album/26bLhPBceS5YmfajxAVrft) | 2:34 |

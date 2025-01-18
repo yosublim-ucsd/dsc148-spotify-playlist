@@ -218,7 +218,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 269746,
       "name": "Arachnophobia",
       "url": "https://open.spotify.com/track/5vm7AyTfxTPmQBfpRNOI5b"
@@ -600,7 +600,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 176521,
       "name": "Boomerang",
       "url": "https://open.spotify.com/track/4fAYA4RrFXPekZNgsR658X"
@@ -961,6 +961,24 @@
     },
     {
       "album": {
+        "name": "co do joty (wersja zima)",
+        "url": "https://open.spotify.com/album/7txc26kZ23Entx9WEk4pRD"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195555,
+      "name": "co do joty (wersja zima)",
+      "url": "https://open.spotify.com/track/6xJdoCgXLI7M0nrCbtwhYp"
+    },
+    {
+      "album": {
         "name": "co jest nie tak?",
         "url": "https://open.spotify.com/album/3y8517HsHuK8QFbMPuFhis"
       },
@@ -1148,6 +1166,28 @@
       "duration_ms": 182685,
       "name": "Daisies",
       "url": "https://open.spotify.com/track/2PmoFIT5DrNn7ZHrZGdhVq"
+    },
+    {
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202652,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq"
     },
     {
       "album": {
@@ -1368,6 +1408,24 @@
       "duration_ms": 153586,
       "name": "drugi taniec - z filmu \u201eDru\u017cyna A(A)\u201d",
       "url": "https://open.spotify.com/track/1AYzYoqkHWJKWkrhD9lH56"
+    },
+    {
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
       "album": {
@@ -1996,7 +2054,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 231626,
       "name": "I DON'T WANT TO FEEL THAT WAY",
       "url": "https://open.spotify.com/track/11kXuEqLHM2dKPCZnllbba"
@@ -2364,7 +2422,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 235773,
       "name": "Krok St\u0105d",
       "url": "https://open.spotify.com/track/0XPK8vCdJSUjrmMBXrJWWp"
@@ -3130,7 +3188,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 234715,
       "name": "Na Si\u0142\u0119",
       "url": "https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg"
@@ -3348,7 +3406,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 207213,
       "name": "Nie umiem ta\u0144czy\u0107",
       "url": "https://open.spotify.com/track/1Iy8pt0HXtTNblnNIkEygc"
@@ -3666,6 +3724,24 @@
       "duration_ms": 294557,
       "name": "One Day",
       "url": "https://open.spotify.com/track/77mWGue0DTf1Aj2YzWLmoi"
+    },
+    {
+      "album": {
+        "name": "One Way Ticket",
+        "url": "https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq"
+      },
+      "artists": [
+        {
+          "name": "Biig Piig",
+          "url": "https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167000,
+      "name": "One Way Ticket",
+      "url": "https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX"
     },
     {
       "album": {
@@ -4880,7 +4956,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 150000,
       "name": "Tears",
       "url": "https://open.spotify.com/track/6RJwyhltEzomoVV0ZveZyO"
@@ -5089,6 +5165,24 @@
     },
     {
       "album": {
+        "name": "DZIECI DOKER\u00d3W",
+        "url": "https://open.spotify.com/album/4Y1O2OPtH6fuQndU4Sa6qa"
+      },
+      "artists": [
+        {
+          "name": "Sara Kordowska",
+          "url": "https://open.spotify.com/artist/0tEwXd8Y8XF92pbRVVGq9P"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219288,
+      "name": "TO KIEDY\u015a MINIE",
+      "url": "https://open.spotify.com/track/4G5JYGSUKdWOFL4UWRi8xS"
+    },
+    {
+      "album": {
         "name": "To nie powt\u00f3rzy si\u0119",
         "url": "https://open.spotify.com/album/5onY55u4ziZAjx9lE5KFZf"
       },
@@ -5230,6 +5324,28 @@
       "duration_ms": 158195,
       "name": "Trucizna",
       "url": "https://open.spotify.com/track/3wuZirKsS6ZXKDIUSV7jN4"
+    },
+    {
+      "album": {
+        "name": "Tsunami",
+        "url": "https://open.spotify.com/album/0noxWwMrDt0phcOdH3oYP1"
+      },
+      "artists": [
+        {
+          "name": "Bovska",
+          "url": "https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg"
+        },
+        {
+          "name": "Wiktor Dydu\u0142a",
+          "url": "https://open.spotify.com/artist/7FauNoLr3HWvWfsaBlFPhs"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202784,
+      "name": "Tsunami",
+      "url": "https://open.spotify.com/track/1CN4xpeOZDn1Q1sdZjNHE6"
     },
     {
       "album": {
@@ -5914,6 +6030,24 @@
       "duration_ms": 181000,
       "name": "Zosta\u0144",
       "url": "https://open.spotify.com/track/4iFEwSB6Pr6WEs1mFNHuSR"
+    },
+    {
+      "album": {
+        "name": "\u0106ma",
+        "url": "https://open.spotify.com/album/0bmxGp8qMZcfKrKFR6wJMz"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279925,
+      "name": "\u0106ma",
+      "url": "https://open.spotify.com/track/4TsUpBDBZQLGaSEjNrgCKX"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXakrXW5YU9SI"

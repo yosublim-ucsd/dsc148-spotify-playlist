@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 ### [Shisha Club](https://open.spotify.com/playlist/37i9dQZF1DX2lUf1uE6Mre)
 
-> Die Playlist zur Wasserpfeife\. Cover: Jazeek
+> Die Playlist zur Wasserpfeife\. Cover: Rina
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,277 likes - 80 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,269 likes - 80 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 79 | [NuR Du :/](https://open.spotify.com/track/3DYJ9tHSIhZqCVT8l5QAd0) | [Lune](https://open.spotify.com/artist/3pMYJHAY5ErzmJQVWb8VX6), [SHABAB](https://open.spotify.com/artist/1pOuPivcxEwA8lnpMYYVsO) | [NuR Du :/](https://open.spotify.com/album/2ri0pX0fz7FEQSW9xyKURZ) | 3:26 |
 | 80 | [PALMA](https://open.spotify.com/track/13sDAmZXzKXctwIIvL9RFd) | [Dhurata Dora](https://open.spotify.com/artist/6t7U7sYlVCtlMWzbecJcHd), [RAF Camora](https://open.spotify.com/artist/0Dvx6p8JDyzeOPGmaCIH1L) | [PALMA](https://open.spotify.com/album/6vndwDmNy7L0Pacfgu7NqR) | 2:27 |
 
-Snapshot ID: `Z4mPmQAAAADixu7Woi94CdLSCGwpWdui`
+Snapshot ID: `Z4pojAAAAACUxmaosptOe+uocyck0wht`

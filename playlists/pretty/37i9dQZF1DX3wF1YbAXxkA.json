@@ -1,6 +1,6 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 25. ",
-  "num_followers": 93848,
+  "num_followers": 93989,
   "original_name": "EA SPORTS FC 25 Official Soundtrack",
   "owner": {
     "name": "Spotify",
@@ -205,6 +205,22 @@
       "url": "https://open.spotify.com/track/0VccAZeCgMvsnoLnokOBoh"
     },
     {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Flicker of Light",
+        "url": "https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 199085,
+      "name": "Flicker of Light",
+      "url": "https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW"
+    },
+    {
       "added_at": "2024-09-16 22:46:03",
       "album": {
         "name": "I P\u2019 ME, TU P\u2019 TE",
@@ -223,22 +239,6 @@
       "duration_ms": 187881,
       "name": "I P\u2019 ME, TU P\u2019 TE",
       "url": "https://open.spotify.com/track/3j1453KrdHjw7y4gnBj7nF"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "Flicker of Light",
-        "url": "https://open.spotify.com/album/2wwEUTNKOlvU3kfeFuoQbg"
-      },
-      "artists": [
-        {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
-        }
-      ],
-      "duration_ms": 199085,
-      "name": "Flicker of Light",
-      "url": "https://open.spotify.com/track/3etbPFMXnAuShtcImz4UXW"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -291,22 +291,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Break My Love",
-        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
-      },
-      "artists": [
-        {
-          "name": "R\u00dcF\u00dcS DU SOL",
-          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
-        }
-      ],
-      "duration_ms": 260400,
-      "name": "Break My Love",
-      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Neverender",
         "url": "https://open.spotify.com/album/6UGnOHEJZT6AkVXrtgcP0u"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 266493,
       "name": "Neverender",
       "url": "https://open.spotify.com/track/0ccoGCaOFCxI6pHixrQpKj"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Break My Love",
+        "url": "https://open.spotify.com/album/52LgW9Zy9r1T3uVsT07Y6Y"
+      },
+      "artists": [
+        {
+          "name": "R\u00dcF\u00dcS DU SOL",
+          "url": "https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj"
+        }
+      ],
+      "duration_ms": 260400,
+      "name": "Break My Love",
+      "url": "https://open.spotify.com/track/3tqyv30P7pO53IAIUo8IeN"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -947,30 +947,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "USB",
-        "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Duoteque",
-          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
-        },
-        {
-          "name": "Orion Sun",
-          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
-        }
-      ],
-      "duration_ms": 327508,
-      "name": "ItsNotREEAALLLLLLLL",
-      "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "King of Sweden",
         "url": "https://open.spotify.com/album/7IqORU6gxOldCJUbQP1Bf8"
       },
@@ -1003,6 +979,30 @@
       "duration_ms": 191516,
       "name": "GODMOTHER (feat. Eden Ben Zaken)",
       "url": "https://open.spotify.com/track/72yhMb8kkkzWxM4UEPywPC"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "USB",
+        "url": "https://open.spotify.com/album/7ibCW271bXBi24a6YGfsDz"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Duoteque",
+          "url": "https://open.spotify.com/artist/1fDV6gCETmlkCUugBxq59g"
+        },
+        {
+          "name": "Orion Sun",
+          "url": "https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m"
+        }
+      ],
+      "duration_ms": 327508,
+      "name": "ItsNotREEAALLLLLLLL",
+      "url": "https://open.spotify.com/track/7ijuKZ7TRWKOprJTbTK0Q1"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "Allergy",
-        "url": "https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr"
-      },
-      "artists": [
-        {
-          "name": "Pa Salieu",
-          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
-        }
-      ],
-      "duration_ms": 152613,
-      "name": "Allergy",
-      "url": "https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Dark Times",
         "url": "https://open.spotify.com/album/53yiSGNdLyOa8mdFCoDTs3"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 198630,
       "name": "Black&Blue",
       "url": "https://open.spotify.com/track/1jQzmnsKQEvinCoBgKYrEX"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "Allergy",
+        "url": "https://open.spotify.com/album/26TnKWNugPfAIOY2wt0vUr"
+      },
+      "artists": [
+        {
+          "name": "Pa Salieu",
+          "url": "https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7"
+        }
+      ],
+      "duration_ms": 152613,
+      "name": "Allergy",
+      "url": "https://open.spotify.com/track/64Ntvzfh6V4Cq7i4O1XxW9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1275,6 +1275,26 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
+        "name": "My Reason",
+        "url": "https://open.spotify.com/album/2S4dyF1yekWz8irV4OrzlK"
+      },
+      "artists": [
+        {
+          "name": "NERVO",
+          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
+        },
+        {
+          "name": "Hook N Sling",
+          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
+        }
+      ],
+      "duration_ms": 189375,
+      "name": "My Reason",
+      "url": "https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
         "name": "U Want More",
         "url": "https://open.spotify.com/album/6Tssac3g5lLEJ08XIKqBQV"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 157424,
       "name": "On Sight",
       "url": "https://open.spotify.com/track/10MTlKhDjVG0oFvRUd1Oc5"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
-        "name": "My Reason",
-        "url": "https://open.spotify.com/album/2S4dyF1yekWz8irV4OrzlK"
-      },
-      "artists": [
-        {
-          "name": "NERVO",
-          "url": "https://open.spotify.com/artist/4j5KBTO4tk7up54ZirNGvK"
-        },
-        {
-          "name": "Hook N Sling",
-          "url": "https://open.spotify.com/artist/3iN9k8uvm4WrgdlOigOH8D"
-        }
-      ],
-      "duration_ms": 189375,
-      "name": "My Reason",
-      "url": "https://open.spotify.com/track/71A6PWUOjJfIzS1soAAMZM"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "NOBODY // ME",
-        "url": "https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4"
-      },
-      "artists": [
-        {
-          "name": "Boston Bun",
-          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
-        }
-      ],
-      "duration_ms": 215386,
-      "name": "NOBODY // ME",
-      "url": "https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Exactly As It Seems",
         "url": "https://open.spotify.com/album/6NdCqqlcVdODR1xJ6ubVY4"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 279053,
       "name": "Uptight",
       "url": "https://open.spotify.com/track/5kDsYTx4hn1nmeUP633hGD"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "NOBODY // ME",
+        "url": "https://open.spotify.com/album/3KOwQLqnTrwRkji5RBX8l4"
+      },
+      "artists": [
+        {
+          "name": "Boston Bun",
+          "url": "https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5"
+        }
+      ],
+      "duration_ms": 215386,
+      "name": "NOBODY // ME",
+      "url": "https://open.spotify.com/track/0uAD0jDNgK5d5MIxT5iBTH"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        }
-      ],
-      "duration_ms": 153560,
-      "name": "What Type Of Girl Am I?",
-      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "GOODTIME",
         "url": "https://open.spotify.com/album/0hSOM2pULHVVCgOyI98rHy"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 240917,
       "name": "Everybody's Different",
       "url": "https://open.spotify.com/track/2EMniKj6ybqN7ASJ2h5WU4"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/2TTsYkEOtnLgcWq469WQ83"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        }
+      ],
+      "duration_ms": 153560,
+      "name": "What Type Of Girl Am I?",
+      "url": "https://open.spotify.com/track/5WBdze2PHKyrQdYglTF5T9"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-09-16 11:00:00",
       "album": {
-        "name": "samba de rua",
-        "url": "https://open.spotify.com/album/09yJxhmXzfP1BVwgOOJdmr"
-      },
-      "artists": [
-        {
-          "name": "Pastel",
-          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
-        }
-      ],
-      "duration_ms": 154846,
-      "name": "samba de rua",
-      "url": "https://open.spotify.com/track/2KAA9pNM75emBljtHSzwYr"
-    },
-    {
-      "added_at": "2024-09-16 11:00:00",
-      "album": {
         "name": "Juanita",
         "url": "https://open.spotify.com/album/6s3Fpi741oftAVXvdqfhe9"
       },
@@ -1747,6 +1731,22 @@
       "duration_ms": 226337,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/52iHuhD1Xw0KcMgE55MvcK"
+    },
+    {
+      "added_at": "2024-09-16 11:00:00",
+      "album": {
+        "name": "samba de rua",
+        "url": "https://open.spotify.com/album/09yJxhmXzfP1BVwgOOJdmr"
+      },
+      "artists": [
+        {
+          "name": "Pastel",
+          "url": "https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO"
+        }
+      ],
+      "duration_ms": 154846,
+      "name": "samba de rua",
+      "url": "https://open.spotify.com/track/2KAA9pNM75emBljtHSzwYr"
     },
     {
       "added_at": "2024-09-16 11:00:00",
@@ -1845,6 +1845,22 @@
       "url": "https://open.spotify.com/track/5if52FGNH4mJFR2sh2PxC6"
     },
     {
+      "added_at": "2024-10-09 21:20:16",
+      "album": {
+        "name": "A.T.A",
+        "url": "https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        }
+      ],
+      "duration_ms": 129229,
+      "name": "A.T.A",
+      "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
+    },
+    {
       "added_at": "2024-09-16 18:33:06",
       "album": {
         "name": "On Job",
@@ -1867,22 +1883,6 @@
       "duration_ms": 121846,
       "name": "On Job",
       "url": "https://open.spotify.com/track/63bbcglKkosNVVJpN0q4EP"
-    },
-    {
-      "added_at": "2024-10-09 21:20:16",
-      "album": {
-        "name": "A.T.A",
-        "url": "https://open.spotify.com/album/241KgBa8yVFqlUjY4ZhHvd"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        }
-      ],
-      "duration_ms": 129229,
-      "name": "A.T.A",
-      "url": "https://open.spotify.com/track/17ee3ShvzGiJL9MYsSKaM9"
     },
     {
       "added_at": "2024-09-16 11:00:00",

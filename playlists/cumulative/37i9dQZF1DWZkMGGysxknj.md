@@ -4,7 +4,7 @@
 
 > Café caliente, sillón blandito y la mejor lectura o compañía.
 
-297 songs - 17 hr 4 min
+298 songs - 17 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Colourblind](https://open.spotify.com/track/3OXgHuQZgk1uDyGuuTZwZo) | [Indigo Sparke](https://open.spotify.com/artist/3KlPjpVKfm6vESPL46NDCh) | [Echo](https://open.spotify.com/album/6akscmS833btWR5O7F5BMJ) | 3:54 | 2021-07-16 | 2024-04-08 |
 | [Complicated](https://open.spotify.com/track/7j6xAadMrhFIuZ7epyU5YT) | [M w S](https://open.spotify.com/artist/6YvmHs9jWcXOHZ6SDtDeS8) | [Complicated](https://open.spotify.com/album/5TNdGmCbItkOtiuWzhXIbc) | 3:30 | 2021-07-16 | 2022-07-29 |
 | [Concéntrica Canción](https://open.spotify.com/track/4gSBMIeKcra4fwb9oIXPQt) | [Alex Cuba](https://open.spotify.com/artist/7gZRUp2WL6r11PXTv309P1) | [Concéntrica Canción](https://open.spotify.com/album/4LepOoTd1jPdGdouTPdiYS) | 2:42 | 2021-07-16 |  |
-| [Confession](https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Confession](https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x) | 4:09 | 2021-07-16 |  |
+| [Confession](https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs) | [Zoe](https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn) | [Confession](https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x) | 4:09 | 2021-07-16 | 2025-01-18 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/0eoPoF7uj2QlMmQ9OdcRaz) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Configuraciones Onduladas](https://open.spotify.com/album/4jjkFIeyBjwPwLK5DzvQ6O) | 2:10 | 2021-07-16 | 2022-07-29 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/4EQYYZtNhlZTcyx1SiO9cf) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/0quZtM7APWWY3xcc0pKkSh) | 2:10 | 2023-06-09 | 2024-04-19 |
 | [Configuraciones Onduladas](https://open.spotify.com/track/6mCEdL597Bus5O4rTAkRDg) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [Claroscuro](https://open.spotify.com/album/13AWsHWqkylnIJSSDkhKj9) | 2:10 | 2021-07-16 | 2023-10-14 |
@@ -111,6 +111,7 @@
 | [Graveyard \- Acoustic](https://open.spotify.com/track/7c0YUDcJreOv1OoBGf1KdH) | [Highland Peak](https://open.spotify.com/artist/1J8P3Xd19imC48x8qnxxFV) | [Graveyard](https://open.spotify.com/album/5ikC0QzKV75C5uXx7aTOq1) | 4:14 | 2021-07-16 |  |
 | [Grow](https://open.spotify.com/track/0CqM6zDR0TCug8F4XFSVK3) | [M w S](https://open.spotify.com/artist/6YvmHs9jWcXOHZ6SDtDeS8) | [Grow](https://open.spotify.com/album/2BkwfdtFYuxTEU9Tv4eoUm) | 3:31 | 2021-07-16 | 2022-07-29 |
 | [Hablando a tu corazón](https://open.spotify.com/track/3KrjA5jcVd3MLAz8lJh4ay) | [Camila Moreno](https://open.spotify.com/artist/0SJy1J0FgP21lbvGBMKT8H) | [Hablando a tu corazón](https://open.spotify.com/album/0NzydCzEbzZVmMfzaccgKh) | 3:59 | 2024-02-02 | 2024-11-05 |
+| [Hablar de Más](https://open.spotify.com/track/3NmM5cmYlgkFJyDg0zTC4z) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Hablar de Más](https://open.spotify.com/album/7sJ562pCwgxEBYhNkYqLOD) | 3:34 | 2025-01-17 |  |
 | [Hacia El Amor \- Acústico](https://open.spotify.com/track/1a8JXGNz4a9gmiAdEKUpks) | [Emicida](https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K), [Ibeyi](https://open.spotify.com/artist/5Q8NEHGX70m1kkojbtm8wa) | [Hacia El Amor \(Acústico\)](https://open.spotify.com/album/0sVRD9qXjjQIy9E6GY6XIY) | 3:40 | 2021-07-16 | 2022-07-29 |
 | [Happy Now \- Acoustic](https://open.spotify.com/track/3aXsAIpsE1VR9FNvW0V4rU) | [Linn Brikell](https://open.spotify.com/artist/0PNyNiPpI6zQnbQyXDPQzu) | [Happy Now \(Acoustic Version\)](https://open.spotify.com/album/3NQLd4nYN0KfiZsU6M3xlm) | 3:33 | 2021-07-16 |  |
 | [Havana](https://open.spotify.com/track/5tEziW9XfHKAjAgAwAsWcb) | [LHITNEY](https://open.spotify.com/artist/2HhlA4UCn0CSQPhKBavzog) | [Havana](https://open.spotify.com/album/6EV58YwDlkcPBqFoP2nXcp) | 3:05 | 2021-07-16 |  |

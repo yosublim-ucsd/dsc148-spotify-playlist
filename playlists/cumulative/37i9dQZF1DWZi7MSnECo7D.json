@@ -1,8 +1,26 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Ra\u00e7a",
+  "description": "M\u00fasica brasileira fora da curva. Foto: Pap\u00f4la",
   "name": "alt BR",
   "tracks": [
+    {
+      "album": {
+        "name": "100 Anos",
+        "url": "https://open.spotify.com/album/4PmRfJVuXijOVOgBLis4nq"
+      },
+      "artists": [
+        {
+          "name": "dad\u00e1 Jo\u00e3ozinho",
+          "url": "https://open.spotify.com/artist/2iGbCpu2oDuyZHrYdNwD1X"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157601,
+      "name": "100 Anos",
+      "url": "https://open.spotify.com/track/0SpFmPgLsYbfzHrgKk5sxp"
+    },
     {
       "album": {
         "name": "144",
@@ -2569,6 +2587,24 @@
     },
     {
       "album": {
+        "name": "charlie",
+        "url": "https://open.spotify.com/album/3DIh2PH02J3GXasLGQPe8x"
+      },
+      "artists": [
+        {
+          "name": "terraplana",
+          "url": "https://open.spotify.com/artist/0mOiRg1cqDkCESsFozsuZU"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218093,
+      "name": "charlie",
+      "url": "https://open.spotify.com/track/2ao0oy1rwhQm0xnfSu1jgs"
+    },
+    {
+      "album": {
         "name": "Charlie e o Cacto C\u00e9rebro",
         "url": "https://open.spotify.com/album/1vSimp3wuaulHJ5DFUOFg5"
       },
@@ -2866,6 +2902,24 @@
       "duration_ms": 177391,
       "name": "Consciente",
       "url": "https://open.spotify.com/track/44DfRvxTdq4taWVWeuuRjI"
+    },
+    {
+      "album": {
+        "name": "Contram\u00e3o",
+        "url": "https://open.spotify.com/album/2lNbjxSBRCWxolD5x5eVqa"
+      },
+      "artists": [
+        {
+          "name": "Pap\u00f4la",
+          "url": "https://open.spotify.com/artist/75QtFEkddr2y6u35NZtG7I"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285000,
+      "name": "Contram\u00e3o",
+      "url": "https://open.spotify.com/track/0lnmNrF8OlP3c4yyA5nDfn"
     },
     {
       "album": {
@@ -6279,6 +6333,24 @@
     },
     {
       "album": {
+        "name": "J\u00e1 Sei Bem",
+        "url": "https://open.spotify.com/album/0CAMmC8eKr3mSJ7bgnrAVj"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00e9 Tardia",
+          "url": "https://open.spotify.com/artist/1XoJ1dcJu0aUwt4H7dTt2i"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126309,
+      "name": "J\u00e1 Sei Bem",
+      "url": "https://open.spotify.com/track/3kDmLxXVt51zY3tIBT23Hj"
+    },
+    {
+      "album": {
         "name": "Latada / Na Bad",
         "url": "https://open.spotify.com/album/5YL2vkCw7HJZvyvi1ADxow"
       },
@@ -9267,6 +9339,28 @@
     },
     {
       "album": {
+        "name": "Oi Xod\u00f3zinho",
+        "url": "https://open.spotify.com/album/7iIBpoiJlGI0bN0EH8RLvJ"
+      },
+      "artists": [
+        {
+          "name": "QUITXA",
+          "url": "https://open.spotify.com/artist/2cvrw3HWvaY0DoEvOYUvc6"
+        },
+        {
+          "name": "HEO",
+          "url": "https://open.spotify.com/artist/0H1f4AwctYhhhyNywuWi21"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124887,
+      "name": "Oi Xod\u00f3zinho",
+      "url": "https://open.spotify.com/track/3b643qVO94rCYxM6ywBI7y"
+    },
+    {
+      "album": {
         "name": "Olha Pra Mim",
         "url": "https://open.spotify.com/album/7Ml3eKws4xsBDfDyyDqGzI"
       },
@@ -11333,6 +11427,24 @@
     },
     {
       "album": {
+        "name": "Seco Seu Gelo",
+        "url": "https://open.spotify.com/album/1Se6hfDD8jkbNm14KviTPw"
+      },
+      "artists": [
+        {
+          "name": "Luiza Carmo",
+          "url": "https://open.spotify.com/artist/559DQx1QwaUc7lzOuYhttq"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Seco Seu Gelo",
+      "url": "https://open.spotify.com/track/1h9OBPHQ1j0E3OolaQAK84"
+    },
+    {
+      "album": {
         "name": "Segredo",
         "url": "https://open.spotify.com/album/5eU1Fz5ZMApp5smsVVnLlu"
       },
@@ -12044,6 +12156,24 @@
       "duration_ms": 182400,
       "name": "S\u00e9ries",
       "url": "https://open.spotify.com/track/1kzQwfTgAVLs1LVRNXXQQ5"
+    },
+    {
+      "album": {
+        "name": "RITMO 0",
+        "url": "https://open.spotify.com/album/5ZR9KcdO8rdxqQ3u6EjdMi"
+      },
+      "artists": [
+        {
+          "name": "MarthaV",
+          "url": "https://open.spotify.com/artist/374l3EPJE9ijqtpW2zEm3w"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162539,
+      "name": "S\u00edNCOPE DAS PEQUENAS ALMAS",
+      "url": "https://open.spotify.com/track/5MBvxYwz1aZi1qZJc2KaOS"
     },
     {
       "album": {

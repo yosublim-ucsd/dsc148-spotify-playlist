@@ -2,9 +2,9 @@
 
 ### [shockwave](https://open.spotify.com/playlist/37i9dQZF1DWYlpoS0u7ZOs)
 
-> A new wave of rock music\. Cover: Witch Post
+> A new wave of rock music\. Cover: HotWax
 
-467 songs - 1 day 1 hr 35 min
+473 songs - 1 day 1 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Adore Adore Adore](https://open.spotify.com/track/44V3ZtDSkemI5Vgpr1bQdv) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Shadow of a Doubt](https://open.spotify.com/album/724kt4OSnlasKT95uIfzfk) | 2:37 | 2023-11-18 | 2024-01-08 |
 | [Adore Adore Adore](https://open.spotify.com/track/4UgkFdXpJD0fhw06BMk0bz) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Letter to Self](https://open.spotify.com/album/1PTPBDLcqveMGkymgIqZoZ) | 2:37 | 2023-12-20 | 2024-01-27 |
 | [Adore Adore Adore](https://open.spotify.com/track/7cbHLDW7Iir9IZKWgHJuuI) | [SPRINTS](https://open.spotify.com/artist/27nD8P491xX8UzG3j01eIY) | [Adore Adore Adore](https://open.spotify.com/album/0hNw5wk6iWSH4wnsCKEMfi) | 2:37 | 2023-06-08 | 2023-12-17 |
+| [Afraid](https://open.spotify.com/track/0TesiDBRH4ZOatQf4OMuHA) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Afraid](https://open.spotify.com/album/4CFQDi0NqT2pCe2mcHi9Ut) | 2:40 | 2025-01-17 |  |
 | [Afterglow](https://open.spotify.com/track/61Wb1e1WDS5FtXQ9Wc6Efs) | [chokecherry](https://open.spotify.com/artist/6FO0bkcJ4D8MJ1REvBRhNT) | [Afterglow](https://open.spotify.com/album/1jJIwhz4U3GCRJnCXo8pTz) | 4:22 | 2024-06-27 |  |
 | [all i know](https://open.spotify.com/track/2WMDasbAaIgTA3V2SsFfw2) | [glasseyed](https://open.spotify.com/artist/3Y38CJx9If6ZXXTWhKUjDG) | [all i know](https://open.spotify.com/album/5iacqoZQel4rOdHsrA8t2V) | 3:40 | 2024-10-10 |  |
 | [Allodynia](https://open.spotify.com/track/6StlC5OqkTe7coHvkZRia8) | [TNL VZN](https://open.spotify.com/artist/3di6YoR5j617hBNYJJ9c1h) | [Allodynia](https://open.spotify.com/album/5UxOfzGbKXLPVW49TlNjgf) | 2:30 | 2024-11-08 |  |
@@ -222,6 +223,7 @@
 | [Impossible + Strange](https://open.spotify.com/track/3bYpAjZAzD1GWc9ucXKI92) | [Lizzie Esau](https://open.spotify.com/artist/3E2PKHxfpNa2R6N3RIpa8S) | [Impossible + Strange](https://open.spotify.com/album/7t0dcCAHAITzLv3BthyXdh) | 2:58 | 2024-01-26 | 2024-10-11 |
 | [In My Egg](https://open.spotify.com/track/5NGZU0uyAHF24eCKUGisKj) | [Buzzard Buzzard Buzzard](https://open.spotify.com/artist/69ilUSFj31FA2iLHtegRwi) | [In My Egg](https://open.spotify.com/album/13xSNKbGHEFHWGACDIc4iA) | 3:08 | 2024-03-15 | 2024-04-13 |
 | [in my ways](https://open.spotify.com/track/5RpIFvmg1HYGF7VKLCQdSZ) | [King Isis](https://open.spotify.com/artist/7jz1wM1NdiskFWrlosZhVw) | [in my ways](https://open.spotify.com/album/4jHrhCm1rbkI6xNMTCkFMU) | 2:23 | 2023-02-03 | 2023-09-22 |
+| [Infinity Peaking](https://open.spotify.com/track/7KqCRSIvcQoVI37ZRzaZqm) | [bdrmm](https://open.spotify.com/artist/4Cx5LnF4WNJIn9SSqyeq9C) | [Infinity Peaking](https://open.spotify.com/album/0YabSp9pMWmiGywTKXtQDK) | 5:41 | 2025-01-17 |  |
 | [Jacked](https://open.spotify.com/track/7KciyHD7RzGnihFZVwHjmc) | [Heartworms](https://open.spotify.com/artist/1slmc4uUMOsz7J3pQqeWPP) | [Jacked](https://open.spotify.com/album/31Uydr3KK9ZqJPgkuVVGfn) | 4:27 | 2024-06-14 |  |
 | [Jayne](https://open.spotify.com/track/5l8OTYkuZnPim46fTv1cwD) | [JAXN](https://open.spotify.com/artist/7DwbU77epeOXvBO9xfOmh7) | [Jayne](https://open.spotify.com/album/0vwds1IJmwx3iWRwlKqaMJ) | 2:27 | 2024-04-25 | 2024-11-09 |
 | [Jealous Type](https://open.spotify.com/track/4E7TTfyR1nQavGupnxeqcF) | [Mudi Sama](https://open.spotify.com/artist/4OFlR9OFN1PRLww3MSVF7W) | [Jealous Type](https://open.spotify.com/album/4O1DrDeQGMRjzhHdkdPRXE) | 3:22 | 2024-11-08 |  |
@@ -276,6 +278,7 @@
 | [Mayday](https://open.spotify.com/track/1edhPisNI08MF5QlmY7cBa) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Mayday](https://open.spotify.com/album/6heLspB3z0lhszKGKwNBfo) | 3:15 | 2023-01-13 | 2023-07-14 |
 | [Me](https://open.spotify.com/track/2g1N53haeJ7YuSHVilxUnG) | [BONES UK](https://open.spotify.com/artist/16kd5X3pBMOtXdLlX5LcAw) | [Soft](https://open.spotify.com/album/632m6v8Y3OStcJabOmAEYR) | 2:42 | 2024-09-12 |  |
 | [Meal Deal](https://open.spotify.com/track/5qKqepzQPaif5QKoZNsiOU) | [Panic Shack](https://open.spotify.com/artist/26HCuM5PamldoaHII5Ifxc) | [Meal Deal](https://open.spotify.com/album/1vxQHrNWHlXJsKIsozh2UZ) | 2:23 | 2023-01-13 | 2023-03-03 |
+| [Mean Girlz](https://open.spotify.com/track/5EBlBdOfvQy0hY0lZDY5Pp) | [Baby Said](https://open.spotify.com/artist/4Nc9OZQfWhkashN6dDDgXl) | [Mean Girlz](https://open.spotify.com/album/6wUvk2kc27ELwVAwA8NT7R) | 2:06 | 2025-01-17 |  |
 | [Medic](https://open.spotify.com/track/19Pz0tELBDS6OtP8W6XLSy) | [gürl](https://open.spotify.com/artist/7AYAOzmAp9u45wGPVfi3DL) | [Medic](https://open.spotify.com/album/2wTDj7Wy6qKwYRMAfr31El) | 3:41 | 2023-11-18 | 2024-02-09 |
 | [MELANCHOLIA](https://open.spotify.com/track/38IWcchmapmGxnObgwSOEj) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [MELANCHOLIA](https://open.spotify.com/album/4tUCkpJ4tPL2uU4Aj5uEtA) | 3:27 | 2024-06-14 |  |
 | [Memento](https://open.spotify.com/track/2hXILrNult7kzQpMVduV5Y) | [Love Is Noise](https://open.spotify.com/artist/4qY6XGFQwZubu0oKBJeVki) | [Memento](https://open.spotify.com/album/1pHMFUWSlIq6FVFhi1Yn2Q) | 4:11 | 2023-09-21 | 2024-02-09 |
@@ -310,10 +313,12 @@
 | [Notre Dame Made Out of Flesh](https://open.spotify.com/track/3qiftvGuJKJhHB5Pjy1u9p) | [UNIVERSITY](https://open.spotify.com/artist/2TDMep1IfMAASZxbC5FAo5) | [Notre Dame Made Out of Flesh](https://open.spotify.com/album/0UFabPWPdCbnptLEJnu5LZ) | 5:05 | 2023-10-13 | 2023-11-18 |
 | [Now Here’s The Weather](https://open.spotify.com/track/35xhpjvv0SakWLpe05Jwkq) | [Whitelands](https://open.spotify.com/artist/4B9oWJTIts1eOPLGKy4mro) | [Night\-bound Eyes Are Blind To The Day](https://open.spotify.com/album/4ygfNjZCyPGrVcfuZ8WHx7) | 4:13 | 2024-02-23 | 2024-06-28 |
 | [On My Body](https://open.spotify.com/track/0k91EQSnQa8PpWCPtzHaTB) | [Crae Wolf](https://open.spotify.com/artist/0sLk8jQFM8gu9omVj2JGT9) | [Rogue Legacy](https://open.spotify.com/album/1G724TepG4WPvRmU8bisoF) | 2:26 | 2024-11-08 |  |
+| [One More Reason](https://open.spotify.com/track/2PhkNQP93tocN4XUt0JRa0) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [One More Reason](https://open.spotify.com/album/3LQ3FqsjmOmghUpPk5uK0e) | 3:01 | 2025-01-17 |  |
 | [Opaline](https://open.spotify.com/track/3LMWOBPxDCAdJXaQfcSjk1) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Devoured by the Mouth of Hell](https://open.spotify.com/album/4vZr6vNAUHUjLNmbjGI62l) | 3:21 | 2024-10-10 |  |
 | [Our Love Is Growing \- Single Mix](https://open.spotify.com/track/1UpFjzn7zBmwtrZgyXL63p) | [LIFE](https://open.spotify.com/artist/2NWimAynlyqVUWD4YnJHlC) | [Our Love Is Growing](https://open.spotify.com/album/00TPwByRL8JEFa9aykOuW5) | 3:01 | 2023-01-13 | 2023-02-03 |
 | [Overdrive](https://open.spotify.com/track/707tiOrq4dd0Ytno2G8rBx) | [Superlove](https://open.spotify.com/artist/33esp5UFKcRpxcR4Xo0Sne) | [follow: noise](https://open.spotify.com/album/4qEoK6TngEPWbVIezdE2JN) | 2:57 | 2023-06-08 | 2024-02-09 |
 | [Pale Blue Dot](https://open.spotify.com/track/4JKSUh154aRg65VbGztvvQ) | [Maxwell Varey](https://open.spotify.com/artist/1P7CehS5wt5UNQjTsgMhRS) | [Pale Blue Dot](https://open.spotify.com/album/3tVElDerwUvbvNskj6mXWU) | 3:08 | 2024-12-06 |  |
+| [PARANOIA](https://open.spotify.com/track/0TQTk6ZPgvSTZ9VMMzQs4X) | [MERE AMORE](https://open.spotify.com/artist/3qvG0tL3iBNwD2TPRAZskb) | [PARANOIA](https://open.spotify.com/album/6o5GuCq2dvDfBSpd7UsoBN) | 3:03 | 2025-01-17 |  |
 | [Parasite](https://open.spotify.com/track/3PjR8wGGGUjxdKFCtoScZP) | [Coach Party](https://open.spotify.com/artist/4trP4C2bZ0TqMUxw0tLRAZ) | [Parasite](https://open.spotify.com/album/7jGfpPmNuDC9ggP7rxCIne) | 1:37 | 2023-08-10 | 2024-02-09 |
 | [parasite](https://open.spotify.com/track/1xXS5zW2jMxpFdxXgBwKYB) | [OC Saint](https://open.spotify.com/artist/1W80xMiJWGfGsymfrjCCLa) | [parasite](https://open.spotify.com/album/4EI3dIY1GHQ8gZrkfDO3fm) | 3:33 | 2023-06-02 | 2023-07-22 |
 | [Passing Judgment](https://open.spotify.com/track/1R2dM4T5lrnAk2Ajp0s1PA) | [Been Stellar](https://open.spotify.com/artist/3ep1YmatQ8L9UKCGYiJNBh) | [All In One](https://open.spotify.com/album/433yKcIuI3sgm8eYmhJuHg) | 3:58 | 2024-04-12 | 2024-06-15 |
@@ -348,6 +353,7 @@
 | [Rohmeresse](https://open.spotify.com/track/1fhdNRoxgELg1nTqC4O011) | [ĠENN](https://open.spotify.com/artist/5mZ836Fy59tOJEcqWfN771) | [Rohmeresse](https://open.spotify.com/album/2LyFQ90jBJrIL5A6tElzLW) | 4:51 | 2023-01-13 | 2023-02-10 |
 | [Ruin Your Night](https://open.spotify.com/track/0gWPthWTDVcV4cBCyuaYxV) | [modernlove.](https://open.spotify.com/artist/2u17Ej1u0JHyRsstmofsrh) | [Ruin Your Night](https://open.spotify.com/album/6kIHeuiJfhPGq6eo68hfqV) | 4:01 | 2023-01-13 | 2023-03-03 |
 | [RUN & HIDE](https://open.spotify.com/track/7EFbx9VydYfzHnBBVtZiDc) | [Layzee Gold](https://open.spotify.com/artist/7hcfPgk1kIiXbQFbLwkTwK) | [RUN & HIDE](https://open.spotify.com/album/2r5LYOb2EY3Uvg10ELI5sE) | 1:48 | 2023-01-13 | 2023-03-18 |
+| [Running Outside With Heather](https://open.spotify.com/track/78138DPQKocexQHWWaVoWO) | [WOOZE](https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA) | [Running Outside With Heather](https://open.spotify.com/album/5Md4WxC1tzTz0sZq6HRCef) | 3:10 | 2025-01-17 |  |
 | [Russian Roulette](https://open.spotify.com/track/7KIrDWJzJGKx1xlK0tOqiU) | [Liquid State](https://open.spotify.com/artist/5Bn0UxpJyKDg5mpcDOaS3p) | [Russian Roulette](https://open.spotify.com/album/5dSgvHcSr0RE9aXpWD2HZB) | 3:50 | 2023-07-21 | 2024-01-27 |
 | [sacrifice/surrender](https://open.spotify.com/track/4HB55BRbNxoynvMFxrVlco) | [KNIFE BRIDE](https://open.spotify.com/artist/34THm21WWzzr69EetTmnVG) | [sacrifice/surrender](https://open.spotify.com/album/46wAFzEPEs6AQWWnyV2OO8) | 3:13 | 2023-07-28 | 2023-11-18 |
 | [Sad Boys](https://open.spotify.com/track/6uwXSUhQeW0jKH5fZrgYzb) | [Bandit](https://open.spotify.com/artist/0D77POYEzzGCwxFGJjfPop) | [Sad Boys](https://open.spotify.com/album/3uI556NUIIikU57t1dbhP2) | 3:12 | 2023-10-13 | 2023-11-18 |
@@ -440,7 +446,7 @@
 | [wait what](https://open.spotify.com/track/39YEqg7dtit80pcOWB6mBw) | [Gia Lily](https://open.spotify.com/artist/5d7p9yDO6NSYQVbI9YNcHB) | [wait what](https://open.spotify.com/album/0jpYTCHCGg3f2NzN90DRYA) | 2:43 | 2023-02-03 | 2023-03-11 |
 | [Waiting](https://open.spotify.com/track/2KMefBHwUJBmP9w2XZKnoa) | [FLOWVERS](https://open.spotify.com/artist/3XoX4Dj24vKTKVNRvlFksP) | [Waiting](https://open.spotify.com/album/2avlwtPBYNGSb08LXQrI9S) | 2:53 | 2023-01-13 | 2023-06-09 |
 | [Waiting for Something](https://open.spotify.com/track/4WiTO0yNWAmDM1IFhobDYa) | [Jaws the Shark](https://open.spotify.com/artist/4aroFthfrYQXH0QJdLUH3S) | [Waiting for Something](https://open.spotify.com/album/2ntLhXUBkrbVLWDegwUz98) | 4:02 | 2023-08-10 | 2023-11-18 |
-| [Wanna Be A Doll](https://open.spotify.com/track/7ET28C0jaXWkHaBVUXHbt8) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Wanna Be A Doll](https://open.spotify.com/album/5eEewGcL8AGpa7b1daD1FK) | 2:46 | 2024-12-06 |  |
+| [Wanna Be A Doll](https://open.spotify.com/track/7ET28C0jaXWkHaBVUXHbt8) | [HotWax](https://open.spotify.com/artist/237mvWGlQNJJhc9b8pSawZ) | [Wanna Be A Doll](https://open.spotify.com/album/5eEewGcL8AGpa7b1daD1FK) | 2:46 | 2024-12-06 | 2025-01-18 |
 | [Waves](https://open.spotify.com/track/06JGsU2snVzhic3RegsYXx) | [DAYTIME TV](https://open.spotify.com/artist/35ls7qnn5iKLPMT8PnOBy8) | [Waves](https://open.spotify.com/album/3bVrHlVSUVUss3doxEXu6j) | 3:14 | 2023-11-18 | 2024-04-13 |
 | [Way Out](https://open.spotify.com/track/5i1B4LLrCJmBUCz5oek861) | [happydaze](https://open.spotify.com/artist/572WK6qt9zpRCcN7iS1NMR) | [Way Out](https://open.spotify.com/album/0ZuEJvoBnw8STA9RoGToz7) | 3:22 | 2024-10-10 | 2024-11-09 |
 | [Way, No Way](https://open.spotify.com/track/6cYLLMcgoRzSKPLHRtbk6e) | [Public Body](https://open.spotify.com/artist/0afEu0n4WzBeNOdyjfBU6X) | [Way, No Way](https://open.spotify.com/album/272UlvmzxL0Z6If8reDTrs) | 2:39 | 2023-06-08 | 2023-12-21 |

@@ -4,7 +4,7 @@
 
 > Os grandes artistas da MPB\. Foto: Maria Bethânia, Caetano Veloso
 
-163 songs - 10 hr 19 min
+164 songs - 10 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,7 +83,7 @@
 | [Ex\-Amor](https://open.spotify.com/track/5eN58yh1jG1af8DWgZELk0) | [Ney Matogrosso](https://open.spotify.com/artist/2SFIMUkCdZowbeisskDdhn) | [Ex\-Amor](https://open.spotify.com/album/4fOylDdAzEOm0idOZlXVDf) | 4:05 | 2021-12-31 |  |
 | [Exagerado 3.0](https://open.spotify.com/track/4D3HlCklYQQgTEuPDso96G) | [Cazuza](https://open.spotify.com/artist/1PwOU6fFbmaGkK3wkbb8fU) | [Exagerado 3.0 \- Single](https://open.spotify.com/album/7CJhsjfz2e9FujsupS99y3) | 3:46 | 2021-12-31 |  |
 | [Fado do Ultramar](https://open.spotify.com/track/6hIwZzQCIbu7DRymTbp7aX) | [Ivan Lins](https://open.spotify.com/artist/64neTfIIdYKNhJ9zxoz3jF), [Thais Nicodemo](https://open.spotify.com/artist/5AZTwsZvQ1X5fTz2c3APov) | [Fado do Ultramar](https://open.spotify.com/album/1fezN2gBwdCi7tqMby5H03) | 4:08 | 2021-12-31 | 2022-04-16 |
-| [Façamos \(Vamos Amar\)](https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Do Cóccix Até o Pescoço](https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR) | 5:53 | 2022-01-20 |  |
+| [Façamos \(Vamos Amar\)](https://open.spotify.com/track/7y6vnVnkRzcxUZMdoCaksh) | [Elza Soares](https://open.spotify.com/artist/4cn4gMq0KXORHeYA45PcBi), [Chico Buarque](https://open.spotify.com/artist/6tOsSffQQIXmK8TqsDck8t) | [Do Cóccix Até o Pescoço](https://open.spotify.com/album/1jPumMqSdJBEfhZyRUrDfR) | 5:53 | 2022-01-20 | 2025-01-18 |
 | [Feito nós](https://open.spotify.com/track/00nCJkH4vKNohhcxDnif24) | [Milton Nascimento](https://open.spotify.com/artist/3Bnq7jiU506HcPjRgQ43TM) | [Miltons](https://open.spotify.com/album/7qrmWwDm6WEBdJH9rtCIeV) | 3:51 | 2021-12-31 | 2022-04-23 |
 | [Flor de Lis](https://open.spotify.com/track/1TX4h6MrIZ0K3r4OOG11WO) | [Djavan](https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA) | [A Voz, o Violão, a Música de Djavan](https://open.spotify.com/album/75BwBy0LF4uPuViycU0Agf) | 3:45 | 2021-12-31 |  |
 | [Força Estranha](https://open.spotify.com/track/6sKopGG4r21ObTE8V6pD6x) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Gal Tropical](https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2) | 3:34 | 2022-11-09 |  |
@@ -130,6 +130,7 @@
 | [Paciência](https://open.spotify.com/track/4HHDRt7w95ewCrZtRS8djw) | [Lenine](https://open.spotify.com/artist/4YLBdrR3DVSMncm785NH6C) | [Lenine In Cité \(Deluxe\)](https://open.spotify.com/album/0wqZdjiUhFzPahuSLMcDnI) | 3:51 | 2021-12-31 |  |
 | [Paisagem da Janela \- Ao Vivo](https://open.spotify.com/track/4e25SCOxAWPs7uiDOXT6Zu) | [Lô Borges](https://open.spotify.com/artist/1mZbRiSVb2ExneAlDbBiiT) | [Tênis + Clube \- Ao Vivo No Circo Voador](https://open.spotify.com/album/5oYcMJgLk78W4BveRGzcMQ) | 3:12 | 2021-12-31 |  |
 | [Planos do Céu](https://open.spotify.com/track/7cw9ocbl12GVol9IZFDjRT) | [Angela Ro Ro](https://open.spotify.com/artist/4oqEOTTnqopPdYFYz0i61Y) | [Planos do Céu](https://open.spotify.com/album/1x9Nsd4WRdCtvuRWwk075V) | 4:07 | 2024-07-26 | 2024-12-10 |
+| [Pote D'Água](https://open.spotify.com/track/6nHJYUXxgzUzqbrak7donA) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Lourimbau](https://open.spotify.com/artist/2DADvBzRBVfGLburXTOb7y), [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Pote D'Água](https://open.spotify.com/album/2hf5j7Y5mt0cE37GsEwfdg) | 3:28 | 2025-01-17 |  |
 | [Preciso Me Encontrar](https://open.spotify.com/track/1op7nM2R2M6FAU6dSCTRWV) | [Cartola](https://open.spotify.com/artist/0RSWHhBUwW7lhCqXqxKxWN) | [Raizes Do Samba](https://open.spotify.com/album/0i9SwtLwZ8cOuH5qtkwTvT) | 2:59 | 2021-12-31 |  |
 | [Preta Pretinha](https://open.spotify.com/track/0q1hmhVWdR04mZup6mR56u) | [Novos Baianos](https://open.spotify.com/artist/2ohBjgFT9V0LRDWO2wF9DJ) | [Acabou Chorare](https://open.spotify.com/album/5pIlMNPZh4D9iJSoCfMzGi) | 6:37 | 2021-12-31 |  |
 | [Pérola Negra \- Ao Vivo](https://open.spotify.com/track/0l9BjXMUwxN8QHmD8n7hFF) | [Gal Costa](https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD) | [Estratosférica Ao Vivo](https://open.spotify.com/album/7eSEnOlFor4HMoblLfwLXz) | 5:00 | 2021-12-31 |  |

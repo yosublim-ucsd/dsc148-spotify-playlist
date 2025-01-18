@@ -430,7 +430,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 302736,
       "name": "Baptist",
       "url": "https://open.spotify.com/track/44KmVlb7C8yGHkDtqOwUDT"
@@ -5706,6 +5706,24 @@
       "duration_ms": 156173,
       "name": "Paddle to the Stars",
       "url": "https://open.spotify.com/track/74TtehL8KqCN6dvTX6uiRi"
+    },
+    {
+      "album": {
+        "name": "Paris",
+        "url": "https://open.spotify.com/album/4cAI2lU33xuw3YLixV8w1T"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Valbrun",
+          "url": "https://open.spotify.com/artist/3uE4EsnezRtXJn2q3TTKg5"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176054,
+      "name": "Paris",
+      "url": "https://open.spotify.com/track/2dgSbz6osX3pCZtNmPGCzB"
     },
     {
       "album": {

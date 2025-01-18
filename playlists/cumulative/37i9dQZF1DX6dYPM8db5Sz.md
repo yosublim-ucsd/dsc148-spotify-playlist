@@ -4,7 +4,7 @@
 
 > The best Indie sounds from South Africa and beyond\. Cover: <a href="https://open.spotify.com/artist/34uEJg0k0siI2NxKK2TeHa?si=QmnRf0g8Rj\-aI86JHvO89g">Stephen Willo</a>
 
-991 songs - 2 day 8 hr 21 min
+992 songs - 2 day 8 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -589,7 +589,7 @@
 | [No Place Like Home](https://open.spotify.com/track/1HDAvSg4nARVkl5inW779y) | [TIMMS](https://open.spotify.com/artist/6DNRxGWJWEoeI4gLNrRRPz) | [No Place Like Home](https://open.spotify.com/album/7xH7wIl5e2rsPGgDP1Nio9) | 2:43 | 2023-05-11 | 2023-07-07 |
 | [No Platonic Male Friends](https://open.spotify.com/track/0HtIsMcal2Ma8JOgL1b7yB) | [Alex Solomon](https://open.spotify.com/artist/0T4llo79dwDWJrgR7FP0sU) | [No Platonic Male Friends](https://open.spotify.com/album/0bqG2FO5rOEfGxdrZJkaeN) | 2:40 | 2022-12-15 | 2023-01-13 |
 | [No Shame](https://open.spotify.com/track/06CVhsgjl04o7aHLCPQgts) | [PSILK](https://open.spotify.com/artist/2En0hpA97YxdCqyGVnDOK6) | [No Shame](https://open.spotify.com/album/3B1yfLf0k45yrIyBBK0yP8) | 3:39 | 2024-12-05 |  |
-| [No Way To Relax When You Are On Fire](https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 4:02 | 2024-10-10 |  |
+| [No Way To Relax When You Are On Fire](https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc) | [Dora Jar](https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH) | [No Way To Relax When You Are On Fire](https://open.spotify.com/album/50nvPOvceq4QENvfPhSEoC) | 4:02 | 2024-10-10 | 2025-01-18 |
 | [noba bangathini](https://open.spotify.com/track/4qfoM0662Amfu0vUBhxzQP) | [Bongeziwe Mabandla](https://open.spotify.com/artist/5upKpIk1pv0hh0u2gwblwy) | [noba bangathini](https://open.spotify.com/album/6bAahiYLIo1WGuiSip2EU0) | 4:50 | 2023-01-27 | 2023-04-22 |
 | [Nobody Knows](https://open.spotify.com/track/1JpAOBxF5pwxd3SqkcX7BD) | [Ashwin Smith](https://open.spotify.com/artist/21O1GLm7iw8np86CJ4hNtO) | [Nobody Knows](https://open.spotify.com/album/0eUVqTxFN57calcxdfKOEr) | 3:11 | 2024-06-27 | 2024-07-12 |
 | [Nobody Like You](https://open.spotify.com/track/6VN4ApobrC2hUgOdKUpFCW) | [The Plastics](https://open.spotify.com/artist/2TwbN0GbcmhHelBGFarQJq) | [EVE](https://open.spotify.com/album/7FyR8Ndv9swxVJ5KzO1ATE) | 3:18 | 2023-11-09 | 2023-12-22 |
@@ -944,6 +944,7 @@
 | [We Will Meet Again](https://open.spotify.com/track/7EZk8tmByNxbkr3oRNG369) | [Hunter As a Horse](https://open.spotify.com/artist/4ymRolHad3YoWJw8rW7G9F) | [We Will Meet Again](https://open.spotify.com/album/44gvqKoDEpsDC9QRE2sChM) | 3:55 | 2023-07-13 | 2023-09-02 |
 | [We're Alright](https://open.spotify.com/track/0rfSD7r8fUFzHX2btj5Fa9) | [Steve Umculo](https://open.spotify.com/artist/5rnqlstQORnxg0odyfLw0B), [Soweto Gospel Choir](https://open.spotify.com/artist/6mMaqfhEcPjrR2FEKWVpOl) | [We're Alright](https://open.spotify.com/album/4saH7xQGWXrY13Uppv637S) | 3:48 | 2024-08-29 | 2024-12-13 |
 | [We're on an Island, but it's the UK](https://open.spotify.com/track/2iy71gZuDJndppxGOdcrrB) | [HONEYMOAN](https://open.spotify.com/artist/5J9s2Y6roGagMAipTa5XqV) | [We're on an Island, but it's the UK](https://open.spotify.com/album/2ELmcmBeba6spRuwGgqHRt) | 2:48 | 2023-07-13 | 2023-11-18 |
+| [Weight](https://open.spotify.com/track/3li8bYr29vc2Md6QvKrmra) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Weight](https://open.spotify.com/album/378aYaLsxI1Dk1bb4RhbH6) | 3:11 | 2025-01-17 |  |
 | [WGTMOMM??](https://open.spotify.com/track/4scFevAlibVBXC66b1yf9R) | [Sishii](https://open.spotify.com/artist/7qSWBbKrqf8gIGvvZLY2KG) | [WGTMOMM??](https://open.spotify.com/album/19LMdvfBQP6A9ATYAfr9qN) | 2:00 | 2024-08-01 | 2024-10-11 |
 | [what do i care?](https://open.spotify.com/track/4dUd78G324Z1YnxSjCnFl3) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL) | [what do i care?](https://open.spotify.com/album/5BqomERv8kyvEPHY9Y2e5q) | 2:10 | 2023-08-24 | 2023-11-18 |
 | [What You Mean To Me](https://open.spotify.com/track/0C5IVQuuhiCffMpuycFm06) | [SŌNN](https://open.spotify.com/artist/1mujbWE1l8sIS8v0Wj6kaJ) | [What You Mean To Me](https://open.spotify.com/album/30oyf8luP13xzo7lnEQvQh) | 3:30 | 2023-07-06 | 2023-08-12 |

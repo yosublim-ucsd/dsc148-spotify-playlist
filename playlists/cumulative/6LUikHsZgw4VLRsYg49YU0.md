@@ -4,7 +4,7 @@
 
 > New and classic sounds from the world of Anime featuring the latest tracks from Solo Leveling, Chainsaw Man, Cyberpunk, BLEACH &amp; more!
 
-236 songs - 13 hr 47 min
+239 songs - 13 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -183,6 +183,7 @@
 | [Who Do You Love \- R3HAB Remix](https://open.spotify.com/track/5QkVPG2Hf3MmAarireF6lh) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy), [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ) | [Who Do You Love \(R3HAB Remix\)](https://open.spotify.com/album/0ctKYh2R83FinJ8SzUFRd3) | 2:32 | 2022-02-18 | 2022-12-10 |
 | [Wild Side](https://open.spotify.com/track/3UknZzYzAhqcCVPahU5FY1) | [ALI](https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU) | [Wild Side](https://open.spotify.com/album/5U0HGouVI00GhXr9hcFJSy) | 2:38 | 2022-12-09 | 2024-02-03 |
 | [WIND BREAKER\(Main Theme\)](https://open.spotify.com/track/6Gxc1KYyGnHZiygPvsFr9b) | [高橋 諒](https://open.spotify.com/artist/5FuGM1eKg3JtvOv4OjGUqN) | [WIND BREAKER Original Soundtrack](https://open.spotify.com/album/2iBGxSZe9pSKeNdRrkFXGq) | 3:03 | 2024-06-21 |  |
+| [You're My Sunshine \- from "Honey Lemon Soda" Soundtrack](https://open.spotify.com/track/1IDCpaNETSyfcWhGwyhOFh) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [You're My Sunshine \(from "Honey Lemon Soda" Soundtrack\)](https://open.spotify.com/album/6XoIoaJygwBxqOZESH6UCL) | 4:19 | 2025-01-17 |  |
 | [yurukuru\*love（TV Size）](https://open.spotify.com/track/4Gsy3Af9H0uHQcpOO9VvGd) | [相沢 智\(CV:高橋李依\)](https://open.spotify.com/artist/7irrLhnxYR8qs4dHY6I8TI), [群堂みすず\(CV:日高里菜\)](https://open.spotify.com/artist/4vd1PZjB3QigIWcuIuta9q), [キャロル・オールストン\(CV:天城サリー\)](https://open.spotify.com/artist/5kAddo3uymgOgZR5aNaGp3) | [トモちゃんは女の子！　オリジナルサウンドトラック](https://open.spotify.com/album/23MmEjzwSZkjJydj6d1ZYL) | 1:33 | 2023-01-27 |  |
 | [βios](https://open.spotify.com/track/30XxVjgbzt3BhaZIRIriaE) | [Hiroyuki Sawano](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y), [Mika Kobayashi](https://open.spotify.com/artist/2PszAsvg6kdXh0D2bMC8Yz) | [GUILTY CROWN COMPLETE SOUNDTRACK](https://open.spotify.com/album/0GYWaav81pYQVP3QcOdVv1) | 4:33 | 2022-12-09 | 2024-04-13 |
 | [きときと \- 四本足の踊り \- 「おおかみこどもの雨と雪」より](https://open.spotify.com/track/6wIVbWJHu7vwlYXgjnRFt5) | [Masakatsu Takagi](https://open.spotify.com/artist/7kSP0XY1UueKCMOGJhIV9N), [栗田博文](https://open.spotify.com/artist/3h92zvnLf9CvvrQrmH0YIx), [Tokyo Philharmonic Orchestra](https://open.spotify.com/artist/2nFcdyj05pnaQEwlSndbJ6) | [STUDIO CHIZU Music Journey Vol\. 1 \- Cinematic Orchestra 2022](https://open.spotify.com/album/5smAOm1KBol1RqR9QJttcw) | 3:26 | 2023-08-04 |  |
@@ -218,6 +219,7 @@
 | [恋ノ行方](https://open.spotify.com/track/1ognDP1UWqfcPaOvlzTCXx) | [あかせあかり](https://open.spotify.com/artist/50k6hfXdVJ3uD8fUt7PQvL) | [恋ノ行方](https://open.spotify.com/album/5PobZ27bNVPebdG5sRvnQF) | 3:37 | 2023-01-13 | 2024-09-21 |
 | [恋愛サーキュレーション](https://open.spotify.com/track/5P8lyudWE7HQxb4ludLbEm) | [物語シリーズ](https://open.spotify.com/artist/0NT8fqhPoKJrd038u1Qumz) | [Utamonogatari Special Edition \(Original Soundtrack\)](https://open.spotify.com/album/0Wibr4Xn7la0V69fnnujJw) | 4:15 | 2022-12-09 | 2024-04-13 |
 | [旅のゆくえ](https://open.spotify.com/track/7kOzUAVtgt0zovCULJ7oSv) | [Hana Hope](https://open.spotify.com/artist/0HRps5F3fAsPL6QmFCdK7a) | [旅のゆくえ](https://open.spotify.com/album/79FxBaskvhHUSmrYJsNid1) | 3:34 | 2024-04-05 |  |
+| [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/track/1qlReORrShNTOYtRgjYLvk) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [普通 \- FUTSUU \- Ending Theme to SAKAMOTO DAYS](https://open.spotify.com/album/1yDDZCaYQK2LTdU7kAMO40) | 3:04 | 2025-01-17 |  |
 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 | 2024-06-14 |  |
 | [朝が来る](https://open.spotify.com/track/6Mq4q5OIMO25vBsKpFdlnH) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [朝が来る](https://open.spotify.com/album/072aXGXyby8RpZ4TNP37Rx) | 4:54 | 2023-01-13 | 2024-10-12 |
 | [楽園](https://open.spotify.com/track/6X9m9JRk2ypGusClUBraII) | [Fujifabric](https://open.spotify.com/artist/2QgdUzpKFNxey5IuwvsGBL) | [楽園](https://open.spotify.com/album/0Mr39HG5mzEClMKWpQGrGo) | 3:45 | 2022-12-09 | 2024-01-13 |
@@ -238,6 +240,7 @@
 | [蕾](https://open.spotify.com/track/02J918WUY2J6jBLux5ONUI) | [Omoinotake](https://open.spotify.com/artist/63ylN6WBUUxxMsySiDmr0B) | [蕾](https://open.spotify.com/album/0PuGKOl8H5w8Ar0esB1f2V) | 3:13 | 2024-05-10 |  |
 | [裸の勇者](https://open.spotify.com/track/3k64vNcgYPkETG7TNgpW4o) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [裸の勇者](https://open.spotify.com/album/3Wu7a56Nl1iml7pwR4Fvv7) | 3:21 | 2022-12-09 |  |
 | [誰我為](https://open.spotify.com/track/3vwgJifwUJHSy7BsvY6puE) | [TK from Ling tosite sigure](https://open.spotify.com/artist/3B9O5mYYw89fFXkwKh7jCS) | [誰我為](https://open.spotify.com/album/5De5i2XAiq6RXg8UxEZ9Qf) | 4:29 | 2024-05-10 |  |
+| [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/track/4XObDlhGp6sREJoZj2lFv2) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [走れSAKAMOTO \- RUN SAKAMOTO RUN \- Opening theme to SAKAMOTO DAYS](https://open.spotify.com/album/7HHU5nfClWij4FgSIlXivY) | 3:25 | 2025-01-17 |  |
 | [転がる岩、君に朝が降る](https://open.spotify.com/track/6wH2RsJUO8oypx8c5PG0bP) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [結束バンド](https://open.spotify.com/album/5ZGzGGNAB6U7QlKpdaMu0d) | 4:31 | 2023-01-06 | 2024-07-13 |
 | [遥か](https://open.spotify.com/track/5DjOVg4mTlMHWsLREAHe7S) | [Ryujin Kiyoshi](https://open.spotify.com/artist/15c6wAJcxNMHjSZVjgE8VW) | [遥か](https://open.spotify.com/album/3YDS1skzsx5PZk0HspoEm9) | 3:01 | 2023-12-08 |  |
 | [青のすみか](https://open.spotify.com/track/12usPU2WnqgCHAW1EK2dfd) | [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [青のすみか](https://open.spotify.com/album/4QjNVlIw8Rx6jItSZtn2VS) | 3:16 | 2023-07-07 |  |

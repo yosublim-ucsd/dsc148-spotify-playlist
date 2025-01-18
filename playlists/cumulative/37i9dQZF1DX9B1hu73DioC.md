@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-861 songs - 2 day 3 hr 5 min
+863 songs - 2 day 3 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -123,7 +123,7 @@
 | [Blood And Butter](https://open.spotify.com/track/5KE5Inz4uZKGb2EzETaOEe) | [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Desire, I Want To Turn Into You](https://open.spotify.com/album/22PkV1Le9P3X4RY4xtmK0q) | 4:27 | 2023-02-21 | 2023-09-16 |
 | [blue](https://open.spotify.com/track/0ErTD8qvL1tdsWlPBAt8DO) | [lavender](https://open.spotify.com/artist/6FfKXg3QdDbbwRs9JzffpY), [nomoon](https://open.spotify.com/artist/3PHv1VSfNo6zsr5MLviV9F) | [blue](https://open.spotify.com/album/2i5BEbOgAszucapMjK4e6e) | 3:52 | 2022-03-07 | 2022-07-29 |
 | [Blue Sea, Red Sea](https://open.spotify.com/track/1TNIPwsB6knLXdlfjjnPTX) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Blue Sea, Red Sea](https://open.spotify.com/album/2U7xjAw0NfmFOUNV3zCV7F) | 3:53 | 2020-10-05\* | 2022-06-25 |
-| [BLUEBERRY](https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [BLUEBERRY](https://open.spotify.com/album/4YBz6DeSzUCaQucSUTuW77) | 3:09 | 2024-11-15 |  |
+| [BLUEBERRY](https://open.spotify.com/track/7tTZKcbvZzbpPBjyLFj4UO) | [NOT THE TWOS](https://open.spotify.com/artist/1CxS0TjLxZZ8QERRRZTxEn) | [BLUEBERRY](https://open.spotify.com/album/4YBz6DeSzUCaQucSUTuW77) | 3:09 | 2024-11-15 | 2025-01-18 |
 | [BNR](https://open.spotify.com/track/54uXC93r53jOJFuhMueold) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [BNR & Balloon](https://open.spotify.com/album/5xAIgRLvUIVd0SgVBAlpFl) | 3:01 | 2021-05-03 | 2022-04-20 |
 | [Body Fat \- Edit](https://open.spotify.com/track/4EgOBJmOd71QqAlqFXQxCy) | [How To Dress Well](https://open.spotify.com/artist/4jLcgJjDGmW0HmvbSf6lEI) | [The Anteroom](https://open.spotify.com/album/0hCuM8sgQPmlvgWVvVfiE1) | 3:34 | 2020-10-05\* | 2020-10-06 |
 | [Borderline Insane](https://open.spotify.com/track/3G48URkjBTbQLTwW8mz1Po) | [Matilda Mann](https://open.spotify.com/artist/76oY04bOzECod3aGVTDtzu), [spill tab](https://open.spotify.com/artist/3qqkHeEhezlIaNj1vFYH2r) | [Borderline Insane](https://open.spotify.com/album/5Qh5HPMvrJfFujCGAV9GDB) | 2:19 | 2023-09-29 | 2024-05-07 |
@@ -512,6 +512,7 @@
 | [Miami Baby](https://open.spotify.com/track/5A9OHrIpG3dSlYC1jppFRo) | [DOPE LEMON](https://open.spotify.com/artist/7oZLKL1GjYiaAgssXsLmW8) | [Kimosabè](https://open.spotify.com/album/3gMgItWPVNpinFuRp9NMgC) | 4:53 | 2023-09-29 | 2024-04-19 |
 | [Midnight](https://open.spotify.com/track/6Gh6lzW6QeiXkFSfsvNS0b) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Sun](https://open.spotify.com/album/5BAukn6AWk5tubfqjtN8gd) | 5:14 | 2020-10-16 | 2022-07-29 |
 | [misses](https://open.spotify.com/track/6WTFHKrnZpwEBLRS10Ylqs) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [14 minutes](https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9) | 1:14 | 2024-05-06 |  |
+| [Moments](https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN) | [MOIO](https://open.spotify.com/artist/4D35LiRbeEHboAHa0bYUJb) | [Moments](https://open.spotify.com/album/7JvAa1BUvfV8YS2P3NEhJB) | 4:07 | 2025-01-17 |  |
 | [Moments / Tides](https://open.spotify.com/track/7D56acHvA76RlIuebqxWKD) | [Goth Babe](https://open.spotify.com/artist/7o96HO2zrujyATtVsqGhh3) | [Moments / Tides](https://open.spotify.com/album/2Amx6zNWVblidE5xhCPMXY) | 3:24 | 2020-10-05\* | 2022-06-01 |
 | [Momma, I've Got a Feeling \- Joey Pecoraro Remix](https://open.spotify.com/track/3MzuvokLBSrQlW06YPBy3D) | [Andrew Applepie](https://open.spotify.com/artist/5BYcwjrQth7em7maAt0yKE), [Joey Pecoraro](https://open.spotify.com/artist/7xCobP8qDlYdUyYow7Ji38) | [Momma, I've Got a Feeling \(Joey Pecoraro Remix\)](https://open.spotify.com/album/5vJx9C9A0Z6Epc6DBI7gRV) | 3:24 | 2020-10-05\* | 2020-10-06 |
 | [Monster](https://open.spotify.com/track/3wv0Ht6hXfj4zYdWctVnp1) | [ALASKALASKA](https://open.spotify.com/artist/78CgVNlDQMvOVDIrRL84tJ) | [Monster](https://open.spotify.com/album/0gMJKnDtsImn2K0AmTsDO8) | 3:53 | 2021-03-16 | 2022-04-17 |
@@ -541,7 +542,7 @@
 | [Ne Me Quitte Pas \(Don't Leave Me\)](https://open.spotify.com/track/7DYkWTA0ckaqm2MFfAIlQr) | [Orion Sun](https://open.spotify.com/artist/2efrqekWSHlvhATD50AG3m) | [Hold Space For Me](https://open.spotify.com/album/4Y9r8QQYroasHOYHUwCeSB) | 2:48 | 2020-12-08 | 2023-07-08 |
 | [neo roneo](https://open.spotify.com/track/7zoVtzzASRtacCvgQKLFaS) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH), [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF) | [neo roneo](https://open.spotify.com/album/23ieEAZkDq0jew4MZmb9zT) | 2:46 | 2024-10-04 |  |
 | [Neo Surf](https://open.spotify.com/track/6XmT8fIEfcS3ZSVEz00U7m) | [GENER8ION](https://open.spotify.com/artist/5xXSrTidFvVRJmiam2Zh1o), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Neo Surf](https://open.spotify.com/album/2g3h5sHGcVvbvsit77Sbbb) | 3:20 | 2021-11-19 | 2023-02-21 |
-| [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 |  |
+| [NEVER AGAIN](https://open.spotify.com/track/1ssKH0F6yLc3neySzdUMN2) | [MICHELLE](https://open.spotify.com/artist/4yYvor6Rq4fG82J1L47DYp) | [NEVER AGAIN](https://open.spotify.com/album/6cJQHjzKnI1Q9YRrnU1LOW) | 2:25 | 2024-01-12 | 2025-01-18 |
 | [New Flesh](https://open.spotify.com/track/6TEiFwaiHERpdfG6WnGed1) | [Current Joys](https://open.spotify.com/artist/0m5FakHKCQdA7UN0PIzMcL) | [Wild Heart](https://open.spotify.com/album/2hwXntoP4IIoi7yxHbH7aL) | 2:47 | 2020-10-05\* | 2022-04-15 |
 | [New Person, Same Old Mistakes](https://open.spotify.com/track/52ojopYMUzeNcudsoz7O9D) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 6:03 | 2020-10-06 | 2022-04-14 |
 | [Next to You](https://open.spotify.com/track/2mKtxLxiekDg8kH64LtTHK) | [Sam Evian](https://open.spotify.com/artist/5MXsi1oKkm8LuStuKkMdzu), [KAZU](https://open.spotify.com/artist/0prgQn2c68gb0HZvimE9bo) | [Next to You](https://open.spotify.com/album/0ZPq4mLSF1UqIAMw360jtV) | 4:25 | 2020-10-05\* | 2022-04-21 |
@@ -688,6 +689,7 @@
 | [Simulation Swarm](https://open.spotify.com/track/2FwDApgXk91kXvqy2oB7dz) | [Big Thief](https://open.spotify.com/artist/5QdyldG4Fl4TPiOIeMNpBZ) | [Dragon New Warm Mountain I Believe In You](https://open.spotify.com/album/7Ln81p86r5cCsesd3KBWIY) | 4:12 | 2023-04-06 |  |
 | [Sixty Summers](https://open.spotify.com/track/595FAzn7RvuGdSn473jOaI) | [Julia Stone](https://open.spotify.com/artist/4gZRt9wlRx1IsxT9glJdrc) | [Sixty Summers](https://open.spotify.com/album/51xOggJs98Kdp21rkQQexX) | 3:19 | 2021-05-10 | 2022-05-29 |
 | [Skin](https://open.spotify.com/track/467t3218y3yihFcyDGWjr0) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Skin](https://open.spotify.com/album/1E3Dc94QXnqiQcGVgij0iW) | 3:50 | 2024-01-12 | 2024-04-12 |
+| [SLOW DANCE IN A GAY BAR](https://open.spotify.com/track/1JkpySdM4EIKzcYbOBkIXr) | [Benjamin Booker](https://open.spotify.com/artist/7mZgBMpvaBziYQfc9TbJH5) | [SLOW DANCE IN A GAY BAR](https://open.spotify.com/album/41ilB5sMsVVhnGtoTrzN4P) | 4:10 | 2025-01-17 |  |
 | [Slowing Down](https://open.spotify.com/track/3o1ah1V2PJDtsCyDCpwXe4) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Waiting to Spill](https://open.spotify.com/album/2Gb2plO2TkNRIgoCuJGm7C) | 5:20 | 2022-10-07 | 2023-09-16 |
 | [Slowing Down](https://open.spotify.com/track/5hP4E6151iBhUXsuNhuwfk) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Slowing Down](https://open.spotify.com/album/4lFKMJASTntuvHbLhjt4g4) | 5:20 | 2022-10-07 | 2022-11-02 |
 | [Slowly](https://open.spotify.com/track/3GJTkh9w9IBLS0vszvekyL) | [Weston Estate](https://open.spotify.com/artist/18CPEToK1OfjJ5B5vDBDKa) | [Slowly](https://open.spotify.com/album/4rZXOJhiSMy1iwwUCwBBum) | 2:53 | 2023-09-08 | 2024-11-16 |

@@ -1,13 +1,49 @@
 {
   "description": "Discover your favorite new chill pop songs. Cover: mxmtoon",
-  "num_followers": 1326311,
+  "num_followers": 1326273,
   "original_name": "Fresh & Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z1KE0AAAAADU0EvXqdikV3ZIWDBMPQbz",
+  "snapshot_id": "Z4nkDQAAAAAyglUia6f4bwNgvtsbvYck",
   "tracks": [
+    {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "duration_ms": 202652,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq"
+    },
+    {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "Keep Me Honest",
+        "url": "https://open.spotify.com/album/3Q31EPb80KbZiB2sYJOshy"
+      },
+      "artists": [
+        {
+          "name": "Michael Marcagi",
+          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
+        }
+      ],
+      "duration_ms": 190890,
+      "name": "Keep Me Honest",
+      "url": "https://open.spotify.com/track/4UjWi9O04gSjMFS2gZF1U7"
+    },
     {
       "added_at": "2024-10-11 04:00:00",
       "album": {
@@ -43,6 +79,22 @@
       "duration_ms": 216666,
       "name": "A-frame",
       "url": "https://open.spotify.com/track/7DNB6Es2bipdtHoJ6uq3nB"
+    },
+    {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "Underwear",
+        "url": "https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "duration_ms": 207130,
+      "name": "Underwear",
+      "url": "https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -195,6 +247,22 @@
       "duration_ms": 238962,
       "name": "lower",
       "url": "https://open.spotify.com/track/7CXbgSMNes8779tvEkz8Ft"
+    },
+    {
+      "added_at": "2025-01-17 05:01:01",
+      "album": {
+        "name": "i'm in love, believe it",
+        "url": "https://open.spotify.com/album/7b5KQTF6C0vrUMdSzjQmA2"
+      },
+      "artists": [
+        {
+          "name": "Aziya",
+          "url": "https://open.spotify.com/artist/5GlFG0lCadjEBnY1w1FwwW"
+        }
+      ],
+      "duration_ms": 156086,
+      "name": "i'm in love, believe it",
+      "url": "https://open.spotify.com/track/06qR4ao8CrVOHqUj30ZYJi"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -817,22 +885,6 @@
       "url": "https://open.spotify.com/track/7smmFrbHO0vi23LiwHFipr"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "Bottom of a Dirty Shoe",
-        "url": "https://open.spotify.com/album/6KwrResX8trTc66PevQ0O8"
-      },
-      "artists": [
-        {
-          "name": "BabyJake",
-          "url": "https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq"
-        }
-      ],
-      "duration_ms": 160626,
-      "name": "Bottom of a Dirty Shoe",
-      "url": "https://open.spotify.com/track/0oKEOYOgh2dtypShicMHh0"
-    },
-    {
       "added_at": "2024-04-26 04:00:00",
       "album": {
         "name": "boy",
@@ -1289,22 +1341,6 @@
       "url": "https://open.spotify.com/track/1D6wWuhDf19IsCFDOR9rlP"
     },
     {
-      "added_at": "2024-05-31 04:00:00",
-      "album": {
-        "name": "All I Ever Wanted",
-        "url": "https://open.spotify.com/album/3ea7Bl4ur3eojJ8ycDVsXZ"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 189966,
-      "name": "All I Ever Wanted",
-      "url": "https://open.spotify.com/track/3SlVjHXWf3GmFw5eRhW7GM"
-    },
-    {
       "added_at": "2024-06-21 04:00:00",
       "album": {
         "name": "Life at First Sight",
@@ -1541,26 +1577,6 @@
       "url": "https://open.spotify.com/track/3wtuQJ5cWlAmDp0exZwLe3"
     },
     {
-      "added_at": "2024-05-17 04:00:00",
-      "album": {
-        "name": "Treehouse",
-        "url": "https://open.spotify.com/album/5fXOvCcWEgxK4x0qgY35U0"
-      },
-      "artists": [
-        {
-          "name": "Ben Platt",
-          "url": "https://open.spotify.com/artist/6qGkLCMQkNGOJ079iEcC5k"
-        },
-        {
-          "name": "Brandy Clark",
-          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
-        }
-      ],
-      "duration_ms": 214826,
-      "name": "Treehouse (feat. Brandy Clark)",
-      "url": "https://open.spotify.com/track/1YhfDSpXJ61IHRF5IymP3S"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Disturbing",
@@ -1607,22 +1623,6 @@
       "duration_ms": 218556,
       "name": "Dancing With Tears In My Eyes",
       "url": "https://open.spotify.com/track/1lWtt6T1RiLUrUnGCp2Yci"
-    },
-    {
-      "added_at": "2024-05-10 04:00:00",
-      "album": {
-        "name": "Stargazing",
-        "url": "https://open.spotify.com/album/3VNxRarx9HUI5w7DHv0TBj"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/3Vr3zh0r7ALn8VLqCiRR10"
     },
     {
       "added_at": "2024-09-06 04:00:00",

@@ -334,10 +334,28 @@
       ],
       "date_added": "2024-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 212720,
       "name": "Attach",
       "url": "https://open.spotify.com/track/5dOOepMv3psX67DJAP5D6I"
+    },
+    {
+      "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165466,
+      "name": "Aura",
+      "url": "https://open.spotify.com/track/5shPYn8ItWhDUj9EUuJzpq"
     },
     {
       "album": {
@@ -386,6 +404,32 @@
       "duration_ms": 222229,
       "name": "Azhage (Fallin)",
       "url": "https://open.spotify.com/track/6K3Jpn3gocuX0FDkSFaLUE"
+    },
+    {
+      "album": {
+        "name": "HARD DRIVE Vol. 2",
+        "url": "https://open.spotify.com/album/3bnBokwvwAquTvlExGG9Y9"
+      },
+      "artists": [
+        {
+          "name": "Raftaar",
+          "url": "https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36"
+        },
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159183,
+      "name": "BAAWE",
+      "url": "https://open.spotify.com/track/6AhYiJyXQTOjuytJ0khZBD"
     },
     {
       "album": {
@@ -661,6 +705,24 @@
     },
     {
       "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184133,
+      "name": "Bars",
+      "url": "https://open.spotify.com/track/3VBjpYmyCGOr06tZtjuOVu"
+    },
+    {
+      "album": {
         "name": "Insaan",
         "url": "https://open.spotify.com/album/5Xrj5h7GQkxcjXRWJAtNvF"
       },
@@ -914,6 +976,24 @@
       "duration_ms": 160851,
       "name": "Bt Ho Gayi",
       "url": "https://open.spotify.com/track/1boqva32nCghdoWiKLm5rX"
+    },
+    {
+      "album": {
+        "name": "Sicario",
+        "url": "https://open.spotify.com/album/7vpQCYM9kT9jhKa2MEzZSl"
+      },
+      "artists": [
+        {
+          "name": "Shubh",
+          "url": "https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Buckle Up",
+      "url": "https://open.spotify.com/track/54AudvSPbqmll6GcLKjBlY"
     },
     {
       "album": {
@@ -1318,6 +1398,36 @@
       "duration_ms": 265327,
       "name": "Dev Nagri",
       "url": "https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv"
+    },
+    {
+      "album": {
+        "name": "Dhak Dhak",
+        "url": "https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2"
+      },
+      "artists": [
+        {
+          "name": "Aanchal Tyagi",
+          "url": "https://open.spotify.com/artist/2Zk1S1jMx7YNHnGQi07off"
+        },
+        {
+          "name": "Raga",
+          "url": "https://open.spotify.com/artist/4MJZBb8KABfKw0gzfgacpO"
+        },
+        {
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202105,
+      "name": "Dhak Dhak",
+      "url": "https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N"
     },
     {
       "album": {
@@ -2043,7 +2153,7 @@
     },
     {
       "album": {
-        "name": "GLORY",
+        "name": "Glory",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
       },
       "artists": [
@@ -2824,7 +2934,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 141473,
       "name": "La Vida",
       "url": "https://open.spotify.com/track/6oScY8qe1DGd6PlrCJ7e44"
@@ -2982,7 +3092,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 178424,
       "name": "Losing Myself (feat. Gunna)",
       "url": "https://open.spotify.com/track/1RBKibhjmaVoBj4L3AuUhz"
@@ -3104,7 +3214,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 154285,
       "name": "Main Hawa Mein Hu",
       "url": "https://open.spotify.com/track/1y80LDw4jNgs5X8o1pSXOY"
@@ -3593,7 +3703,7 @@
     },
     {
       "album": {
-        "name": "GLORY",
+        "name": "Glory",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
       },
       "artists": [
@@ -3610,7 +3720,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 226751,
-      "name": "Payal (Feat. Nora Fatehi)",
+      "name": "Payal",
       "url": "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9"
     },
     {
@@ -3819,7 +3929,7 @@
     },
     {
       "album": {
-        "name": "GLORY",
+        "name": "Glory",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
       },
       "artists": [
@@ -4344,7 +4454,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-18",
       "duration_ms": 270324,
       "name": "SUPREME LEADER",
       "url": "https://open.spotify.com/track/6xrlfwtDlgVN8M3aox9215"

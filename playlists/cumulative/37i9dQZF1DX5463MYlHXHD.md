@@ -4,7 +4,7 @@
 
 > Vieja escuela y de ahora 📸 Los Turros.
 
-308 songs - 17 hr 21 min
+309 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,6 +20,7 @@
 | [Ahora Estoy Solo](https://open.spotify.com/track/6kiaJxn4WIVqKRRlkBaNFx) | [Yerba Brava](https://open.spotify.com/artist/7JRxvyluWYJ3M3ssmZrVs6) | [Yerba Brava: 20 Grandes Éxitos](https://open.spotify.com/album/5Hv1x7MLsD4XcS8CHTr2fo) | 2:50 | 2024-03-08 | 2024-08-22 |
 | [AL RITMO \| E2](https://open.spotify.com/track/1CPH4SeQjS6xIFYdDpPABA) | [DJ Alex](https://open.spotify.com/artist/7ygNQCdpQWW7iSWAxDhvhI), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [AL RITMO \| E2](https://open.spotify.com/album/6LteX3gEtSFKhpiVBuHep7) | 2:56 | 2023-05-26 | 2024-03-06 |
 | [Alma Blanca](https://open.spotify.com/track/7fP1GwN7MokxTLoMPxeN9p) | [Meta Guacha](https://open.spotify.com/artist/3HOkZ1yVuMiVJeH1sFjMQL) | [Supermerk2 & Meta Guacha: 2x1](https://open.spotify.com/album/3iEZnqx25qRtb6XKFaYq0y) | 4:10 | 2024-04-19 | 2024-12-24 |
+| [Alma herida](https://open.spotify.com/track/49K0aG1Tcx0QyE0lru9OEd) | [Supermerk2](https://open.spotify.com/artist/3coKfYwV0ppdzD65z1cu3i) | [LOS QUE TE DAN SED](https://open.spotify.com/album/10vWlJc7dYXBJpBVFXfuKs) | 1:52 | 2025-01-17 |  |
 | [Amigos en la Distancia](https://open.spotify.com/track/5l6mbeyJZ9duDg73T7pxFp) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [Mi Único Amor](https://open.spotify.com/album/0XbjIvrClo1jg5G1W3DFMN) | 2:47 | 2024-03-05 | 2024-06-17 |
 | [Amor de Chat](https://open.spotify.com/track/0bMqpzZyG55EGV6v1DdTQr) | [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Kekelandia](https://open.spotify.com/artist/3cU7QclsaxDJY7usiRHYcy) | [Sin Rivales](https://open.spotify.com/album/0XgMEPTCRNXvdlFtmJIFVP) | 3:58 | 2024-03-05 | 2024-04-19 |
 | [Amor De Chat \- Remix](https://open.spotify.com/track/3XfKWVuM7egYc2cMdCOyNX) | [ECKO](https://open.spotify.com/artist/2Jb9jVnCpWkXtoGznFJ6bF), [Roman El Original](https://open.spotify.com/artist/72kCHSLbK0D94Bgpo7G4sJ), [Lauty Gram](https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG) | [Amor De Chat \(Remix\)](https://open.spotify.com/album/5c9pBkdi15fKAfcw7D0cTe) | 3:05 | 2024-12-13 |  |
@@ -44,7 +45,7 @@
 | [Cachito](https://open.spotify.com/track/3CyYTW3cSscn3Y9elQqUcV) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [K\-LIBRE 9](https://open.spotify.com/artist/0hhZgx8NFIbtCbqtptcbIn) | [Cachito](https://open.spotify.com/album/4wiQsolniLNGuv8PpaCotJ) | 3:34 | 2023-10-20 | 2023-11-18 |
 | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/track/3fUZbg31mIJKIxuv8nUcGg) | [DJ Tao](https://open.spotify.com/artist/5CA5IqbsFr4hpNLdjgO0BU), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| DJ TAO Turreo Sessions \#723](https://open.spotify.com/album/3QH6xfxFEoQNVUdtlyHpup) | 2:43 | 2023-05-26 |  |
 | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr) | [Alan Gomez](https://open.spotify.com/artist/6oMRQ5H3A2XA5I3RG3leni), [Callejero Fino](https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr) | [CALLEJERO FINO \| Mission 10](https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB) | 2:48 | 2023-05-26 |  |
-| [Cariñito](https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC) | 3:21 | 2024-04-19 |  |
+| [Cariñito](https://open.spotify.com/track/2VnehfkcQBTzwMT0MYIfxx) | [La Base](https://open.spotify.com/artist/2WXllWJylpBWxIAHHcTEQ0) | [Más Solida](https://open.spotify.com/album/1JgEomLE67XLgt24p50XAC) | 3:21 | 2024-04-19 | 2025-01-18 |
 | [Carta A Un Amigo](https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02) | [Pala Ancha](https://open.spotify.com/artist/2DRTGjBvhQtEYN9wYM3opQ) | [El Autentico Creador De La Cumbia Callejera](https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq) | 3:35 | 2024-03-08 |  |
 | [Carta Para Un Amigo](https://open.spotify.com/track/4JG5M3Q1JLlQ37FM7yGDiG) | [Repiola](https://open.spotify.com/artist/14rsSkmuSkij7q3SNsZSHQ), [Los Pibes del Penal](https://open.spotify.com/artist/23h9kiR8GTLVQyoGWVubqi), [El Adri Music](https://open.spotify.com/artist/0meQtjreUHEscunPE1xSb5) | [Carta Para un Amigo](https://open.spotify.com/album/1mu1cA4fFZaCF3xAC14JQm) | 2:13 | 2024-03-29 | 2024-04-19 |
 | [Chetos y Cumbieros](https://open.spotify.com/track/6EsuTkSB0cLNfeHnzxBUJS) | [Nene Malo](https://open.spotify.com/artist/58UPAlQ4MRWEDLhfdP4VcN) | [Me Declaro Culpable](https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn) | 2:57 | 2023-05-26 |  |
