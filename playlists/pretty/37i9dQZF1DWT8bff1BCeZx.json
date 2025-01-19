@@ -1,6 +1,6 @@
 {
   "description": "African Praise music taking you all the way up!",
-  "num_followers": 19606,
+  "num_followers": 19614,
   "original_name": "Higher",
   "owner": {
     "name": "Spotify",
@@ -449,6 +449,22 @@
       "url": "https://open.spotify.com/track/37raeQxIZHQOG4rQOJPbB8"
     },
     {
+      "added_at": "2024-10-25 00:01:00",
+      "album": {
+        "name": "Talk",
+        "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
+      },
+      "artists": [
+        {
+          "name": "Boy Spyce",
+          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Talk",
+      "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
+    },
+    {
       "added_at": "2023-12-15 00:01:00",
       "album": {
         "name": "God of Love",
@@ -467,22 +483,6 @@
       "duration_ms": 337160,
       "name": "Wonderful Wonder",
       "url": "https://open.spotify.com/track/5sSoA18jYUkQkvC64o0IDS"
-    },
-    {
-      "added_at": "2024-10-25 00:01:00",
-      "album": {
-        "name": "Talk",
-        "url": "https://open.spotify.com/album/4rAvN7aWSeV7E13e18MCUL"
-      },
-      "artists": [
-        {
-          "name": "Boy Spyce",
-          "url": "https://open.spotify.com/artist/6DUbLg2GQ7Dd7G9v6uwoPT"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Talk",
-      "url": "https://open.spotify.com/track/7LXdDDxVEMkETCMw3SX9da"
     },
     {
       "added_at": "2024-08-16 00:01:00",

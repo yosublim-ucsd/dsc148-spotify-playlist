@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 
 > shop, wrap, bake, study or just chill to these cozy christmas beats.
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,065 likes - 153 songs - 5 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,059 likes - 153 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,9 +22,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 12 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/0bgcp8ZKgJg2pqCwegbw1M) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/2JO5EUMtP6BxGAHr3dyETU) | 2:40 |
 | 13 | [Snow Fall](https://open.spotify.com/track/2QScw1XZ9UMw0HmmlyExBQ) | [Lyonti](https://open.spotify.com/artist/5alCrCpsi15ZOtbyBlV5RQ) | [Snow Fall](https://open.spotify.com/album/4BC8r8YSZfEw77vzyjQbwz) | 2:05 |
 | 14 | [Beats & Baubles](https://open.spotify.com/track/1nJiaOfFOxhM2zPupNQaoh) | [MPC Blues](https://open.spotify.com/artist/6yB7F6p4mdln4jB2PLpOeF) | [Beats & Baubles](https://open.spotify.com/album/32Jogj0yxkutOXSmLnOuJ1) | 1:48 |
-| 15 | [SNOWMAN](https://open.spotify.com/track/5FDlU08eFeBHVIqpOkbh16) | [chateau\_lounge](https://open.spotify.com/artist/69AjHyxWyUkSN7pmLIbXwd) | [SNOWMAN](https://open.spotify.com/album/0GE7b3xACXmFmkpiw6TEKM) | 1:52 |
-| 16 | [Christmas Time Is Here](https://open.spotify.com/track/5eeLuQVqGv8XAmud2RRCw6) | [Alejandra Webb](https://open.spotify.com/artist/2Lz8COjDMuGOxLwh5scGPA) | [Christmas Time Is Here](https://open.spotify.com/album/3bknC2a31jcEzUvUpgb6WC) | 2:46 |
-| 17 | [Christmas by the Fireplace](https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:33 |
+| 15 | [Christmas by the Fireplace](https://open.spotify.com/track/2CM0NiI2NDZnxBRtRj6jx2) | [Sleepy Tom](https://open.spotify.com/artist/03Tk5nZMEoqaWZOXoiN7Km) | [Christmas Lofi](https://open.spotify.com/album/7gmQbKGOCPJUY9mmKv7f01) | 1:33 |
+| 16 | [SNOWMAN](https://open.spotify.com/track/5FDlU08eFeBHVIqpOkbh16) | [chateau\_lounge](https://open.spotify.com/artist/69AjHyxWyUkSN7pmLIbXwd) | [SNOWMAN](https://open.spotify.com/album/0GE7b3xACXmFmkpiw6TEKM) | 1:52 |
+| 17 | [Christmas Time Is Here](https://open.spotify.com/track/5eeLuQVqGv8XAmud2RRCw6) | [Alejandra Webb](https://open.spotify.com/artist/2Lz8COjDMuGOxLwh5scGPA) | [Christmas Time Is Here](https://open.spotify.com/album/3bknC2a31jcEzUvUpgb6WC) | 2:46 |
 | 18 | [The Lonely Elf](https://open.spotify.com/track/2AlpsYQFj9EW3h4o8gEMv7) | [justregular](https://open.spotify.com/artist/5Zx4suKma9aE2dRBP36bhZ) | [The Lonely Elf](https://open.spotify.com/album/5euv0xltD6buYPqSac2jIT) | 1:42 |
 | 19 | [Slay Bells](https://open.spotify.com/track/3RSrEnMcJ48u9bQZi0TIoo) | [james.lfo](https://open.spotify.com/artist/68x86W8SsxxJjDIT8SoWUa), [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Holiday Hustle](https://open.spotify.com/album/4nWDxRMiJuKx5BCsPFbK0S) | 3:51 |
 | 20 | [candles and xmas](https://open.spotify.com/track/3uK6ktiYn9pLdoV5FQDnsw) | [TAX VRKT](https://open.spotify.com/artist/5LfSaYsGTL3HkaV5a2qHBD) | [candles and xmas](https://open.spotify.com/album/3SuobeLAn8dQST6bg1eg0J) | 2:20 |
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 41 | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/track/5Fwj3sPOh0TzshTIQWbrH5) | [tres islas](https://open.spotify.com/artist/7CRBLbMHIR0QIrBGhj4mc8) | [Ven A Mi Casa Esta Navidad](https://open.spotify.com/album/06pftaJLqXmfGn67McYKdc) | 2:15 |
 | 42 | [xmas feels](https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL) | [ARSD](https://open.spotify.com/artist/6fJceX9nO6HyXIlrdvNxAM) | [xmas feels](https://open.spotify.com/album/5VIjYaI1DNQI8ZyRPfsoFX) | 2:20 |
 | 43 | [Santa's Lowrider](https://open.spotify.com/track/6iUbgMflpaO6flBTxLpZrR) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Santa's Lowrider](https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC) | 2:09 |
-| 44 | [rudolfs beat](https://open.spotify.com/track/5DGMWOsbwnttCV4h8Zp2BP) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [rudolfs beat](https://open.spotify.com/album/1cgH2L5MZmfB5roLS15dNa) | 2:21 |
-| 45 | [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 |
+| 44 | [Mary On A Cross](https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM) | [Gloomey](https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr) | [Mary On A Cross](https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM) | 2:24 |
+| 45 | [rudolfs beat](https://open.spotify.com/track/5DGMWOsbwnttCV4h8Zp2BP) | [slowvibe](https://open.spotify.com/artist/3WEs7RfxMRuGpNYkVRYJcO) | [rudolfs beat](https://open.spotify.com/album/1cgH2L5MZmfB5roLS15dNa) | 2:21 |
 | 46 | [We Wish You The Merriest](https://open.spotify.com/track/2QTqOtbCrKnW7KQGELDIGo) | [Cowdy](https://open.spotify.com/artist/6rUvNZQERCDcVh0yiE3fs5) | [We Wish You The Merriest](https://open.spotify.com/album/2vYPFOPOIMhnkscklYWa6C) | 2:12 |
 | 47 | [Cold December Night](https://open.spotify.com/track/3WAQqvfLBjzFtNb5qz5G6q) | [Frosty Pete](https://open.spotify.com/artist/5ujER9YpzDrJrRfH7BSV2R) | [Cold December Night](https://open.spotify.com/album/6PVUVUlzdwfWysT5TQffva) | 2:41 |
 | 48 | [Nighttide](https://open.spotify.com/track/1yokaYy8WVounrXG82iiM7) | [melloe](https://open.spotify.com/artist/6hQPDJPAjllBEsN3Kcm2PI) | [Nighttide](https://open.spotify.com/album/3rVDMhVZkYZ2iFclFc0EaF) | 2:12 |
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2XnVlaQ0YRO.md) - [plain]
 | 112 | [JOY](https://open.spotify.com/track/4PU3g1wGXO9hcLRGuSdP9C) | [Max Mix](https://open.spotify.com/artist/2f8IL6GQhmOI1Of2fMHqka) | [JOY](https://open.spotify.com/album/33Me4g9n924cJ6ezfiOAXg) | 3:09 |
 | 113 | [Bells R Ringin](https://open.spotify.com/track/6BQlF26EIaqZqvOvo0YOtX) | [Guustavv](https://open.spotify.com/artist/4ztOXfl03SlHkzRIsrvWmX) | [A Merry Lofi Christmas](https://open.spotify.com/album/13vGKM3it9EuTEGVg0CJuG) | 2:08 |
 | 114 | [A Holy Jolly Christmas](https://open.spotify.com/track/66TPQ0Cw4SvXbCPJGdfwM6) | [Estelas](https://open.spotify.com/artist/2fVSVXAO5UftuzBca9SZQ6) | [A Holy Jolly Christmas](https://open.spotify.com/album/4zgAtGu8evTT3OU541WbcK) | 3:01 |
-| 115 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2HQ8G7TzumQY2u8Ii7gvU3) | [Yagami Lo Vibe](https://open.spotify.com/artist/0mrkkkfEfuv48VceciqpwJ) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/6t0R9YC1o1feCRdEZ4B5bZ) | 2:36 |
-| 116 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
+| 115 | [Snow Angel](https://open.spotify.com/track/2sWdHoGbx4QFDTVcxgmGTD) | [barry straw](https://open.spotify.com/artist/1aYvhE4GIScIIafVt47U8E) | [Snow Angel](https://open.spotify.com/album/4btW84uwKxLPx96n35337s) | 1:34 |
+| 116 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/2HQ8G7TzumQY2u8Ii7gvU3) | [Yagami Lo Vibe](https://open.spotify.com/artist/0mrkkkfEfuv48VceciqpwJ) | [God Rest Ye Merry Gentlemen](https://open.spotify.com/album/6t0R9YC1o1feCRdEZ4B5bZ) | 2:36 |
 | 117 | [My Christmas in Brooklyn](https://open.spotify.com/track/2TafYvQY6ABtnDeWVBkHNd) | [Lomery](https://open.spotify.com/artist/6MJePaEUCor6hhvc0Pjxgj) | [My Christmas in Brooklyn](https://open.spotify.com/album/00C32wsRQi76yAIBVOnL4j) | 1:41 |
 | 118 | [My Mistletoe](https://open.spotify.com/track/5xGOCagb5VvPzdolvCmiWw) | [Blues Trip](https://open.spotify.com/artist/1tR2bO3i8fdS3A8tLn2UEw) | [My Mistletoe](https://open.spotify.com/album/62pk1aYQuUcyml4qe0Dpoc) | 2:27 |
 | 119 | [Light Me Up](https://open.spotify.com/track/4VbMTX1RlbKmZCAVt5hzm0) | [with\_myself](https://open.spotify.com/artist/5Rk5w7ys4oOfR1IuavKOiS) | [Light Me Up](https://open.spotify.com/album/1oun5kgXlgm2qsTDC14hV4) | 2:18 |

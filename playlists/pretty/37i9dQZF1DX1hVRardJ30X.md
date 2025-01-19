@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Yami Safdie & Camilo, Luis R Conriquez & Peso Pluma, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,509 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,584 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

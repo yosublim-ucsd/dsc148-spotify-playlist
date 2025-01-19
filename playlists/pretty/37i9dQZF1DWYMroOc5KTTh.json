@@ -1,6 +1,6 @@
 {
   "description": "100% good vibes.",
-  "num_followers": 578123,
+  "num_followers": 578313,
   "original_name": "Serotonin",
   "owner": {
     "name": "Spotify",
@@ -791,26 +791,6 @@
     {
       "added_at": "2024-11-07 16:40:28",
       "album": {
-        "name": "Glad I Found You",
-        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 211191,
-      "name": "Glad I Found You",
-      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
-    },
-    {
-      "added_at": "2024-11-07 16:40:28",
-      "album": {
         "name": "Want You In My Soul (Radio Edit)",
         "url": "https://open.spotify.com/album/5fu8yhW5S0JXmOgxbYpsNS"
       },
@@ -827,6 +807,26 @@
       "duration_ms": 190413,
       "name": "Want You In My Soul - Radio Edit",
       "url": "https://open.spotify.com/track/0qGrGaA27FZlEAbR4RgZ4X"
+    },
+    {
+      "added_at": "2024-11-07 16:40:28",
+      "album": {
+        "name": "Glad I Found You",
+        "url": "https://open.spotify.com/album/5zB2w539G0UD6sGpnevP07"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 211191,
+      "name": "Glad I Found You",
+      "url": "https://open.spotify.com/track/4D7WGniYHsapNrosDX8KDK"
     },
     {
       "added_at": "2024-11-07 16:40:28",

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Esto es punta!",
-  "num_followers": 29910,
+  "num_followers": 29944,
   "original_name": "Punta",
   "owner": {
     "name": "Spotify",
@@ -383,8 +383,8 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
-        "name": "Banana",
-        "url": "https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR"
+        "name": "Puro Exitos",
+        "url": "https://open.spotify.com/album/42LKEb3ZUrsCTXtSvVX8W7"
       },
       "artists": [
         {
@@ -392,9 +392,9 @@
           "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
         }
       ],
-      "duration_ms": 196676,
-      "name": "Banana",
-      "url": "https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l"
+      "duration_ms": 255190,
+      "name": "Si Pudiera Yo",
+      "url": "https://open.spotify.com/track/7C0qwetoetcHa3Q4mCBCWz"
     },
     {
       "added_at": "2024-07-12 22:32:28",
@@ -511,6 +511,22 @@
     {
       "added_at": "2024-07-12 22:32:28",
       "album": {
+        "name": "Banana",
+        "url": "https://open.spotify.com/album/4gcyP6xuH2Dz69J7gaNAeR"
+      },
+      "artists": [
+        {
+          "name": "Kazzabe",
+          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
+        }
+      ],
+      "duration_ms": 196676,
+      "name": "Banana",
+      "url": "https://open.spotify.com/track/61AxjjJ98vp7XOzUVutY3l"
+    },
+    {
+      "added_at": "2024-07-12 22:32:28",
+      "album": {
         "name": "Saben Quien Llego",
         "url": "https://open.spotify.com/album/78w7svKazglFlKTtHOYht7"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 193516,
       "name": "Carolina (Club Mix)",
       "url": "https://open.spotify.com/track/44vM0hGs6C6GMvoFrAJpGH"
-    },
-    {
-      "added_at": "2024-07-12 22:32:28",
-      "album": {
-        "name": "La Parranda (Sei Sei Bei)",
-        "url": "https://open.spotify.com/album/1YAZf04dRwNpRg689EKfgI"
-      },
-      "artists": [
-        {
-          "name": "Kazzabe",
-          "url": "https://open.spotify.com/artist/758FKId0OeNnHwnFP2pwFv"
-        }
-      ],
-      "duration_ms": 192954,
-      "name": "La Parranda (Sei Sei Bei)",
-      "url": "https://open.spotify.com/track/3EJTCYD1PUIpYIz11C028p"
     },
     {
       "added_at": "2024-07-12 22:32:28",

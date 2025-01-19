@@ -4,7 +4,7 @@
 
 > Groove\-heavy, soothing tunes for the soul and R&B
 
-538 songs - 1 day 7 hr 48 min
+539 songs - 1 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Free Room \(feat\. Appleby\)](https://open.spotify.com/track/3HEn14GqygLCNfroOnYiZb) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz), [Appleby](https://open.spotify.com/artist/4Y2i9jhU3jW0PVsvTLIbWX) | [Moon Shoes EP](https://open.spotify.com/album/57X0V74PxWKM2fuyf283tE) | 3:37 | 2022-03-24 |  |
 | [Friend or Foe](https://open.spotify.com/track/5PM4EyvM68K8XA0UCmWpLF) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [Friend or Foe](https://open.spotify.com/album/2yBWhovYNLKS7VnHdK8cEN) | 4:10 | 2024-04-12 | 2024-05-10 |
 | [Full Time \(Part Time Allthetime\)](https://open.spotify.com/track/5TDsWeQtaNonNuhY5PMfV3) | [Fieh](https://open.spotify.com/artist/0KmBIwN1qmQbXpR4wtJX88) | [III](https://open.spotify.com/album/6P6orEowiFPwJFJxZOTpPl) | 5:11 | 2023-09-14 | 2023-11-10 |
+| [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 | 2025-01-16 |  |
 | [Funny Thing About Love \(with Bipolar Sunshine\)](https://open.spotify.com/track/4u1uoGRnt2bAvan9JYLvjN) | [BabyJake](https://open.spotify.com/artist/07Asx51VtMw5kbNXKrpZlq), [Bipolar Sunshine](https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H) | [Funny Thing About Love](https://open.spotify.com/album/6VeNlwGaLoFL2B8rcVgDf9) | 2:43 | 2021-12-23 | 2022-04-20 |
 | [Garden Party](https://open.spotify.com/track/7166FiVEnGCG27MITo4kXC) | [Masego](https://open.spotify.com/artist/3ycxRkcZ67ALN3GQJ57Vig), [Big Boi](https://open.spotify.com/artist/2ht3wxeT69CzyKFChNnNAB), [JID](https://open.spotify.com/artist/6U3ybJ9UHNKEdsH7ktGBZ7) | [Garden Party](https://open.spotify.com/album/7p0R9IR7TOzFe7rENEKQn9) | 3:49 | 2021-12-23 | 2022-09-15 |
 | [Genie](https://open.spotify.com/track/4JnnCJ3pkIsPuTXw73S977) | [quicksand bed](https://open.spotify.com/artist/5PHCGqnqL1dzGEud0XL2ym), [aint lindy](https://open.spotify.com/artist/1fQGGKBMELqEeoBsoywDrC) | [Genie](https://open.spotify.com/album/1A5cmGhs8OFHtyuKqzxEhU) | 3:13 | 2024-11-30 | 2024-12-14 |
@@ -325,7 +326,7 @@
 | [Ordinary Pleasure](https://open.spotify.com/track/0Dh7LsAuAyaaucEMD5ULHV) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/4kacwUKxOLBmawdgRg2Xri) | 3:03 | 2024-03-07 | 2024-04-19 |
 | [Ordinary Pleasure](https://open.spotify.com/track/1r1BFALfShEfyv1aEs7MRW) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/3KkxbmbkRvxghNwGwQRZcj) | 3:03 | 2022-07-28 | 2022-12-16 |
 | [Ordinary Pleasure](https://open.spotify.com/track/6q3qQZ5TU2UwatDd42YwZ8) | [Toro y Moi](https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp) | [Outer Peace](https://open.spotify.com/album/25HC3XL5abbniok4YslEQr) | 3:03 | 2021-12-23 | 2022-07-27 |
-| [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-05-12 |  |
+| [Out Loud \(feat\. Kehlani\)](https://open.spotify.com/track/0P11qKeHWhUy0rDPeY8dyB) | [Syd](https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Broken Hearts Club](https://open.spotify.com/album/04xudYiCT2xyEVfF5Ov14Y) | 3:23 | 2022-05-12 | 2025-01-19 |
 | [Over](https://open.spotify.com/track/0WNovyXRTUworAoxipGRMa) | [Thee Marloes](https://open.spotify.com/artist/0rTTgwJUHLQWqQV9sNvcbE) | [Over](https://open.spotify.com/album/0kUUvN3XCe4ArSRlxuvVbU) | 3:39 | 2024-07-12 | 2024-10-12 |
 | [Overdrive](https://open.spotify.com/track/1Kky7w3PxIhc7opCaLZe1w) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy), [Kings](https://open.spotify.com/artist/32GMj177nVLZPp3lqVrCXp) | [Overdrive](https://open.spotify.com/album/2EawgbUgLHmihszPlKtFoK) | 2:46 | 2022-03-24 | 2022-04-16 |
 | [Palace](https://open.spotify.com/track/3vkgn6CpM3UHEjyCrFj73C) | [Tora\-i](https://open.spotify.com/artist/4oJsWKOJCNMfUbIpR2jk8Z) | [Palace](https://open.spotify.com/album/7DAjdbPM5XfV7zSVnxUGcO) | 2:32 | 2023-03-25 | 2023-05-19 |

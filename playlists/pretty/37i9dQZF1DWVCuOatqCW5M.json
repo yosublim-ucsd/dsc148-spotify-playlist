@@ -1,6 +1,6 @@
 {
   "description": "Latest music from your fav I-Pop artists. Cover - Rashmeet Kaur",
-  "num_followers": 65296,
+  "num_followers": 65339,
   "original_name": "New Music Friday I-Pop ",
   "owner": {
     "name": "Spotify",
@@ -130,6 +130,10 @@
         {
           "name": "King",
           "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
         }
       ],
       "duration_ms": 193104,

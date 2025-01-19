@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdnOj1VEuhgb.md) - [plain]
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: UZI
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,385,378 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,385,421 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Güldüğün Gün](https://open.spotify.com/track/4SCe7B8JmbXrrSxphhddPo) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Güldüğün Gün](https://open.spotify.com/album/59NS8Aqr6usY5H6Z5kwCJA) | 2:48 |
 | 2 | [NEON](https://open.spotify.com/track/4DPjZs1Jjw5mQ41w0xt9KA) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [NEON](https://open.spotify.com/album/7GTNIfApsUZTP72J4r7Pv8) | 2:31 |
 | 3 | [PSYCHO](https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM) | [Jeff Redd](https://open.spotify.com/artist/6xqA7u7TxHUYJp6Ww1XgNx) | [Drama](https://open.spotify.com/album/2eFw0PGVpuVHagqAU8vO9X) | 2:33 |
-| 4 | [PARANOYA](https://open.spotify.com/track/1BPPJqdXnvktKXOk77sOC9) | [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [PARANOYA](https://open.spotify.com/album/1jplytmVef58F9YcU0qAPX) | 2:35 |
+| 4 | [PARANOYA](https://open.spotify.com/track/1BPPJqdXnvktKXOk77sOC9) | [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm), [Organize](https://open.spotify.com/artist/5W2dGRPmYetOpUIpErUtD3) | [PARANOYA](https://open.spotify.com/album/1jplytmVef58F9YcU0qAPX) | 2:35 |
 | 5 | [Gibi](https://open.spotify.com/track/4iKftOZWorMkLpeZpGI2nF) | [Ahiyan](https://open.spotify.com/artist/0U8sdaBYsYld98xOIX1nYB) | [2024 Bootleg](https://open.spotify.com/album/2gHBAriairZLVMKT4yn0Mo) | 3:21 |
 | 6 | [DAYANAMAM](https://open.spotify.com/track/3Qv16lQpg3HmCrYouyQfle) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL) | [DAYANAMAM](https://open.spotify.com/album/5pQsLYpkwiQ78rpskaXAhf) | 3:22 |
 | 7 | [Sönen Sigaralar](https://open.spotify.com/track/0QuKutgaaa0Q1WUZEnrZ93) | [Ati](https://open.spotify.com/artist/6bGOmNBU1AOgttgOjh0ldf) | [Manifesto](https://open.spotify.com/album/5ABVGZE1Ykvy6n0MrWWWww) | 3:31 |

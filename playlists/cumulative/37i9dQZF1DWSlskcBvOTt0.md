@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-835 songs - 3 day 1 hr 17 min
+836 songs - 3 day 1 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -658,7 +658,7 @@
 | [Seve 2.0 \- Luch Rework](https://open.spotify.com/track/0Z2DaVumQ6gfmFngXl7XUb) | [Tez Cadey](https://open.spotify.com/artist/5cBeFQv3kBVP8o15CmPTKb), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Seve 2.0 \(Luch Rework\)](https://open.spotify.com/album/46AW75spYWrIPCA2KiK82s) | 6:36 | 2024-08-02 |  |
 | [Shades Of Night](https://open.spotify.com/track/5S4eQ6DcoKLwbPzSZltt3R) | [Einmusik](https://open.spotify.com/artist/1LXTXZjheh25pXMEUT9iC1) | [Shades Of Night](https://open.spotify.com/album/3Q20S7c0JtKWsmAo7m3TSp) | 6:49 | 2023-02-24 | 2023-07-16 |
 | [Shadow](https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk) | [Marino Canal](https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8), [Kotiēr](https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu) | [Shadow](https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO) | 3:16 | 2024-11-29 |  |
-| [Shake Body](https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Shake Body](https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8) | 3:11 | 2024-08-23 |  |
+| [Shake Body](https://open.spotify.com/track/1cBGFuYOmBFvl8gvWenZLR) | [IDRIS](https://open.spotify.com/artist/0Dc2rdPzleezxhvQhQbXuS), [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Shake Body](https://open.spotify.com/album/0fLeleRD32oW4nq1uLwUt8) | 3:11 | 2024-08-23 | 2025-01-19 |
 | [Shakshaka](https://open.spotify.com/track/2RGuapH4pwoOSIIdpPS5Ey) | [Cosmicat](https://open.spotify.com/artist/34iHrE61AX1yx8uAqNOCyU) | [Shakshaka](https://open.spotify.com/album/71GUT29ISc2e0qyokN06TX) | 3:26 | 2024-01-05 | 2024-05-11 |
 | [Shaman](https://open.spotify.com/track/0CCTuZS9cObjmWjfwYOaPM) | [Azedia](https://open.spotify.com/artist/19YDv4gY8HMpdJgABGIVJn) | [Shaman](https://open.spotify.com/album/1O1d80c9ux5acX2CIPDtrs) | 5:41 | 2021-08-20 | 2022-07-28 |
 | [Shout It Out](https://open.spotify.com/track/1rb2J5X3ncQy0fMixDgWCm) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Night Tales](https://open.spotify.com/artist/7lCWd42OYd5Rn7UbozbA6R) | [Shout It Out](https://open.spotify.com/album/6eWeacm1Oij2HwG8wHd3ms) | 3:08 | 2024-12-13 |  |
@@ -802,6 +802,7 @@
 | [Wait For Me](https://open.spotify.com/track/1KDmLC2qkMVpXcNr4KZ8rg) | [Sintra](https://open.spotify.com/artist/7G8FPZ2dGqGtMqPE9fy13e), [Howie Conyack](https://open.spotify.com/artist/2fn4XVGOAmEU5HRti9ohQV) | [Wait For Me](https://open.spotify.com/album/4VLhdemHbUanudVyCiNHE0) | 4:07 | 2024-11-08 | 2024-12-05 |
 | [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2024-11-29 |  |
 | [Waiting for the Sun to Rise](https://open.spotify.com/track/4wArg9NWqTyqDQV9QUl0nZ) | [Beije](https://open.spotify.com/artist/3S1XM8o51QkQUJzaV7Ngds) | [Waiting for the Sun to Rise](https://open.spotify.com/album/7ik4kx0saV6Fjo4gAd5Zbi) | 7:39 | 2021-04-21 | 2022-07-16 |
+| [Waka](https://open.spotify.com/track/0gnM3s2dCx7wxa4vX3cqSH) | [Batuhan Kınık](https://open.spotify.com/artist/4Y3WP8PTL2r3PLxJxlUyBP), [AFRONOM](https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0) | [Waka](https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB) | 2:37 | 2025-01-17 |  |
 | [Wala](https://open.spotify.com/track/0GJv9BBqz7MqQCFv8FdO64) | [Like Mike](https://open.spotify.com/artist/4pwXiI7Z5ZStkgKowZyoKi), [Jalal Ramdani](https://open.spotify.com/artist/1Q0KlPMSuhBFnCZX01iFyu), [Stevo Atambire](https://open.spotify.com/artist/6gbEfMzGr0anNu4sKlXZye), [Yeronimo](https://open.spotify.com/artist/1CObxPLlXlYBwNIBMt4qdo), [The Wild Child](https://open.spotify.com/artist/091aJocFJ87i6778f2Jxba) | [Wala](https://open.spotify.com/album/6y2TG4gY0lBPPBu1e3LOu3) | 3:20 | 2024-03-15 | 2024-07-13 |
 | [Walden Pond](https://open.spotify.com/track/5MDVgUhQ5i273BBEQFtptT) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m) | [Walden Pond](https://open.spotify.com/album/3XDdODoPsOHhhJgKA3RQGb) | 4:47 | 2021-07-16 | 2022-07-29 |
 | [Walking Away](https://open.spotify.com/track/6j0ao2DgHem5dpnGeHwufi) | [Mind Against](https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72) | [Walking Away](https://open.spotify.com/album/7dEfqz2vpf9b77Lx4e4FkR) | 7:05 | 2022-08-05 | 2023-07-22 |

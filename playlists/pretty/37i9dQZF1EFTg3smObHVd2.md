@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 63 | [K.I.S.S.](https://open.spotify.com/track/0JybtN2NzEPuOO4kfO0Vtr) | [Mýa](https://open.spotify.com/artist/6lHL3ubAMgSasKjNqKb8HF) | [K.I.S.S\. \(Keep It Sexy & Simple\)](https://open.spotify.com/album/3pQkFScrWZMYZLT5dceCDA) | 3:53 |
 | 64 | [Disrespect](https://open.spotify.com/track/3o4F3z6qFvfhCt3TmOkNF0) | [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv) | [From The Roots Up \(Deluxe Edition\)](https://open.spotify.com/album/0uvCiMlB7yjUiSQknJwtuh) | 3:38 |
 | 65 | [Stick Shift \- Radio Edit](https://open.spotify.com/track/7tUNmJGpLbAlH3Mm6jtgp8) | [Antoine Clamaran](https://open.spotify.com/artist/2LTa2TleomBhi05k8khxCF), [Soraya](https://open.spotify.com/artist/28dUwtiFMRTAVNym83n1rU) | [Stick Shift](https://open.spotify.com/album/5KhDRsp04yfZxwmXvFihG4) | 3:34 |
-| 66 | [Copy Cat \(feat\. Kelis\)](https://open.spotify.com/track/1vc12Ns4iHzW7IAb91JvlQ) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Skreamizm Vol\. 7](https://open.spotify.com/album/5hAMTdqVEAaEdv79pKqIUB) | 3:50 |
+| 66 | [Copy Cat](https://open.spotify.com/track/6tpB37tRaxknycR6H8eZSF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Skreamizm \(Vol\. 7\)](https://open.spotify.com/album/39p56lfVsxR1pnTK8BVLjS) | 3:50 |
 | 67 | [Faller](https://open.spotify.com/track/4r8rbfAPNPgruiLZ5gIHqQ) | [EHI](https://open.spotify.com/artist/7MlrqHRXsNIKRC17Dv5a0v), [Blen](https://open.spotify.com/artist/6xRxLNPuTgJ56RyCRk1dB7) | [Toni Braxton](https://open.spotify.com/album/2BcHVk4npO1TxL74JEd9Gj) | 3:36 |
 | 68 | [Subtitles](https://open.spotify.com/track/4rcuPpjHrjDiS2xvxzUigK) | [Neon Hitch](https://open.spotify.com/artist/2TnJ7VOpGzjtKUn0ObpEYe), [Kinetics](https://open.spotify.com/artist/6MbdoQknD1A8JsZByxbUmB) | [301 to Paradise Mixtape](https://open.spotify.com/album/7fkEYyakqwhcQyNemwQBMr) | 5:28 |
 | 69 | [ONE](https://open.spotify.com/track/1cHPuNybXYunaoRttk3dgJ) | [JASMINE](https://open.spotify.com/artist/76sRRqpyFhBYjdimBWjmfg) | [Complexxx](https://open.spotify.com/album/3HEpWC29VtEdFm9GF1rCYy) | 3:20 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFTg3smObHVd2.md) - [plain]
 | 83 | [Livewire](https://open.spotify.com/track/46AbOV6ziHvcRa7klwiJwc) | [Cairo Gold](https://open.spotify.com/artist/0MURvFYyuOVvECDJkCCgAV) | [Cairo Gold](https://open.spotify.com/album/3tA1PiUa8QrgjEKVjpHAwe) | 3:12 |
 | 84 | [Bullseye](https://open.spotify.com/track/57lxmFu1GsHgz6TCQg3iOl) | [Lukas](https://open.spotify.com/artist/3uZKKQew2u0fACpUypBGLO) | [Bullseye](https://open.spotify.com/album/3UScZ0tLexrUir6uAqbo18) | 3:00 |
 
-Snapshot ID: `AbnI9AAAAACyioIP97MtI2CsJlMPMTXQ`
+Snapshot ID: `AbnOigAAAACSurM9xJ8lcdovAA8c5AdG`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 
 > Encuentra un mix de clásicos y nuevos talentos\. Foto: El Cómodo Silencio De Los Que Hablan Poco.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,573 likes - 90 songs - 5 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,578 likes - 90 songs - 5 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,10 +45,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TKWnpd3vOb.md) - [plain]
 | 35 | [Solo de Ti](https://open.spotify.com/track/01pHsM5mHXLRT01w9wt1JT) | [Hermanos Ilabaca](https://open.spotify.com/artist/0PyhxG9e14b5UvwUH0X3Qd) | [Solo de Ti](https://open.spotify.com/album/29MnwmnbfpgL9AqH4FDzBF) | 3:57 |
 | 36 | [LSD](https://open.spotify.com/track/3oF3yA7Jyawwb9HumQkLkv) | [Julius Popper](https://open.spotify.com/artist/4ZWex7Cr0HbNkpnTZPCcfO) | [LSD](https://open.spotify.com/album/6rmse0izagsgiivMVe2UjD) | 3:36 |
 | 37 | [Déjate Caer \- 2024](https://open.spotify.com/track/0Gtud72mE4ui8FF9lFBeaX) | [Los Tres](https://open.spotify.com/artist/4qXIYIWo6wRsN0lZxvgH6S) | [Revuelta](https://open.spotify.com/album/1iuOFo8UaMk6t8Wz78gN2V) | 3:22 |
-| 38 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 |
-| 39 | [Mala Fama \- En Vivo](https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Ases Falsos En El Coliseo](https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R) | 4:03 |
+| 38 | [Mala Fama \- En Vivo](https://open.spotify.com/track/1guVg6k2Hw4jwG70bqYzHI) | [Ases Falsos](https://open.spotify.com/artist/5duXcUlwdTvVHJTLWJa2j1) | [Ases Falsos En El Coliseo](https://open.spotify.com/album/3z9ajon3uJlZpp4x3KIz3R) | 4:03 |
+| 39 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 |
 | 40 | [Caballo sin dueño](https://open.spotify.com/track/2RQbZvq8nqZJF2AvhM0l5X) | [Pettinellis](https://open.spotify.com/artist/2UqwAwxVtnr9MyQ96yNoGD) | [Caballo sin dueño](https://open.spotify.com/album/0QFXBy5wBY5jUagOv9fWJz) | 3:37 |
-| 41 | [Traicionarse](https://open.spotify.com/track/0qG3gzcSJSs80Ln7kHPiIL) | [Los Animales También Se Suicidan](https://open.spotify.com/artist/18FgNgLaepUxsAIWuD8K9T) | [Traicionarse](https://open.spotify.com/album/3U7I3y7jTE2IRQp7n7mfeU) | 3:13 |
+| 41 | [Dignidad](https://open.spotify.com/track/3Uz4E986pBirZXn5ye3l0J) | [La Mórbida](https://open.spotify.com/artist/6c6bxhGugdKBXAGkoup27K) | [Dignidad](https://open.spotify.com/album/6qZWeqxYDcp9WOSHWlCRkt) | 4:08 |
 | 42 | [Tótem](https://open.spotify.com/track/4kcZZP5pHhiylu2SxioZA9) | [Pedropiedra](https://open.spotify.com/artist/0WCbmGMzwvFFx0JT8k7THP) | [Tótem](https://open.spotify.com/album/6eTNtkIIWXTzIpP3R57eaa) | 2:27 |
 | 43 | [El Viento Escapó](https://open.spotify.com/track/6hz4y1GdHiiud66cAML3Hs) | [Electrodomesticos](https://open.spotify.com/artist/1jW8O5TTQQUb1G05GLxSEn) | [Mirar La Luz](https://open.spotify.com/album/6Yjmxngg0nEBFR49QtpIbV) | 4:30 |
 | 44 | [Fiesta En El Barrio](https://open.spotify.com/track/4ADJLGCE2ZnOIvXJOaOPel) | [Alectrofobia](https://open.spotify.com/artist/6SBThA2w6qBakDSGVoSXPZ), [Plumas](https://open.spotify.com/artist/3y5Ow3rtN1WGkfFIXLIxMg) | [PORTAL](https://open.spotify.com/album/3DNTMjDlKj5kI7tuECzP2H) | 4:53 |

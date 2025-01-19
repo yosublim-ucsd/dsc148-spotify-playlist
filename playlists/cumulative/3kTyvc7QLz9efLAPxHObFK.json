@@ -621,6 +621,24 @@
     },
     {
       "album": {
+        "name": "Afraid Of The Dark",
+        "url": "https://open.spotify.com/album/0wBFt7nMeVqcSS4J8UvlZr"
+      },
+      "artists": [
+        {
+          "name": "Irradiate",
+          "url": "https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125647,
+      "name": "Afraid Of The Dark",
+      "url": "https://open.spotify.com/track/3wyBgywTIZttDWITW0ayVF"
+    },
+    {
+      "album": {
         "name": "After The Sun",
         "url": "https://open.spotify.com/album/3XqJXroRvhC4VzN5qBTIyX"
       },
@@ -7722,6 +7740,28 @@
       "duration_ms": 208500,
       "name": "DAMAGE",
       "url": "https://open.spotify.com/track/4D2zwRijiqYlyNwpDjkr1T"
+    },
+    {
+      "album": {
+        "name": "Damage Patrol",
+        "url": "https://open.spotify.com/album/2d6kJHTjU2EyJGV6Gnb0vK"
+      },
+      "artists": [
+        {
+          "name": "Mutilator",
+          "url": "https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN"
+        },
+        {
+          "name": "Imperatorz",
+          "url": "https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136547,
+      "name": "Damage Patrol",
+      "url": "https://open.spotify.com/track/5Pqv59wygKSWblt45CJlwB"
     },
     {
       "album": {

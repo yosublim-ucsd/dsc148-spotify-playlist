@@ -4,7 +4,7 @@
 
 > This is Edith Márquez\. The essential tracks, all in one playlist.
 
-60 songs - 3 hr 35 min
+61 songs - 3 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Completamente Blindada](https://open.spotify.com/track/4sCU7QEK7JtINBK7GaqQcN) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Contigo](https://open.spotify.com/album/1lysy0ngPpch1cVGu5FA3X) | 3:41 | 2023-12-18 |  |
 | [Cosas del Amor](https://open.spotify.com/track/0RQrkp624qMK7L6T9xnLsz) | [María José](https://open.spotify.com/artist/1dJyh390MvfYPuNbhnbSDs), [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amante de Lo Ajeno](https://open.spotify.com/album/25dP4uxWWNVpBN5M5DDWAJ) | 4:05 | 2023-12-18 |  |
 | [Cuando grita la piel](https://open.spotify.com/track/3ZZuE4BtdSRwHewgXm48yz) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Canciones de Amor y Sentimiento](https://open.spotify.com/album/39mbS15BDr9xgth9egyADB) | 4:04 | 2024-06-06 |  |
+| [Cuando Yo Quiera Has De Volver](https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Cuando Yo Quiera Has De Volver](https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw) | 3:32 | 2025-01-19 |  |
 | [Cómo Fui a Enamorarme de Ti](https://open.spotify.com/track/44MQKjd4d2SOV3INfboy0I) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Emociones](https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq) | 3:53 | 2023-12-18 | 2024-07-02 |
 | [Dejémoslo Así](https://open.spotify.com/track/0xAMxdE2NOraV1EEIPLbwV) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Amar No Es Suficiente](https://open.spotify.com/album/0KIiLC3DMqS2DZOkzLtqtU) | 3:31 | 2023-12-18 |  |
 | [Dígale](https://open.spotify.com/track/3OAGx6n5CpzwfdS8VUcXrY) | [Edith Márquez](https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv) | [Pasiones de Cabaret](https://open.spotify.com/album/1q1SusB7gV3PgGOBvdSThq) | 3:58 | 2025-01-18 |  |

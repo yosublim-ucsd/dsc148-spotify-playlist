@@ -3653,6 +3653,28 @@
     },
     {
       "album": {
+        "name": "Dare U",
+        "url": "https://open.spotify.com/album/4a0Ijzxk9twvWg2ZYjtr7V"
+      },
+      "artists": [
+        {
+          "name": "NLE Choppa",
+          "url": "https://open.spotify.com/artist/0ErzCpIMyLcjPiwT4elrtZ"
+        },
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141922,
+      "name": "Dare U",
+      "url": "https://open.spotify.com/track/02FqPcKOjgOBbZRYdpAIhS"
+    },
+    {
+      "album": {
         "name": "MANSION MUSIK",
         "url": "https://open.spotify.com/album/0F166z0TRwmSRuHBOId890"
       },

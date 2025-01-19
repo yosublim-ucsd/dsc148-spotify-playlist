@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 
 > Música groovera, for the true Funk Soldiers!
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,753 likes - 94 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,763 likes - 94 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,19 +88,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1RiaoenusUk.md) - [plain]
 | 78 | [Todo Atrás](https://open.spotify.com/track/7yCpBkWqPLQ3NfWNHgsvn8) | [Fonky Taxi](https://open.spotify.com/artist/4jeGMG6b45WZuaLCk1QCre) | [La Nave](https://open.spotify.com/album/0LverTA7cR49u1FukL6fBk) | 4:32 |
 | 79 | [Nada Sería Igual](https://open.spotify.com/track/6w4rHYinnXDrI1lkFR7uy0) | [La Hipocresía Mató al Gato](https://open.spotify.com/artist/2JawDgk6R97R9UMZJ07IBe), [Motafonkas](https://open.spotify.com/artist/3SFlyIysvEljCERd4wKUjS) | [Nada Sería Igual](https://open.spotify.com/album/7w5eoI6jwqmr4DfNM8B5zw) | 3:23 |
 | 80 | [Get Porn](https://open.spotify.com/track/16bUIajNJpM6DNFoHDP19D) | [Free Anguila](https://open.spotify.com/artist/63si21bSlLuxWVfuhdzoEN) | [Get Porn](https://open.spotify.com/album/3XCMSUgt9Ic45XXlA5ublh) | 5:43 |
-| 81 | [Cenizas de Funk](https://open.spotify.com/track/3RxKMPtvN2STYXRENTOJw3) | [Sinergia](https://open.spotify.com/artist/0pJOMTSgzqAEK2DAEzVeh4) | [Ripio](https://open.spotify.com/album/60xWCqkLmPB6bh0btThW7G) | 3:02 |
-| 82 | [Twice](https://open.spotify.com/track/3VKdesoESiJOCohefJctj3) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Twice](https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527) | 3:36 |
+| 81 | [Twice](https://open.spotify.com/track/3VKdesoESiJOCohefJctj3) | [Willy Crook](https://open.spotify.com/artist/0OdeZASgfypHefnghEjCAD), [Funky Torinos](https://open.spotify.com/artist/55ctmYTgmbtn5IEGs9xac5) | [Twice](https://open.spotify.com/album/6oTWq9X9mmzBoamr5Q9527) | 3:36 |
+| 82 | [Cenizas de Funk](https://open.spotify.com/track/3RxKMPtvN2STYXRENTOJw3) | [Sinergia](https://open.spotify.com/artist/0pJOMTSgzqAEK2DAEzVeh4) | [Ripio](https://open.spotify.com/album/60xWCqkLmPB6bh0btThW7G) | 3:02 |
 | 83 | [Aire](https://open.spotify.com/track/062HCNJ9IvnGox5GgkNHBJ) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/3Ew0mVd4RRu7UFWMMalvmR) | 3:10 |
-| 84 | [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 |
-| 85 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
-| 86 | [7 Am](https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [P1cky](https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a) | [7 Am](https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN) | 3:59 |
-| 87 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 |
+| 84 | [Melodías](https://open.spotify.com/track/6FFVgXUdy3hQepL1FtjbVH) | [Monoson](https://open.spotify.com/artist/3d56fwrxkhDUwyTeV6g56A) | [Melodías](https://open.spotify.com/album/4KtxaUtnvHgtieeMvlA1Kj) | 3:05 |
+| 85 | [Ando Buscando](https://open.spotify.com/track/7nBwBoDKXzHVKwfmR4fiFk) | [Flor Lovaglio](https://open.spotify.com/artist/3ZeKtTdfEsMQX1SlnK5BWU) | [Ando Buscando](https://open.spotify.com/album/2tVhz3vgd1Ic2PpTH10SU1) | 3:26 |
+| 86 | [Droga](https://open.spotify.com/track/5Ocq5x5VfdKk6C5IXAsooi) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:11 |
+| 87 | [7 Am](https://open.spotify.com/track/0ODREAhFrzSo6Amvw31QA4) | [Afromama](https://open.spotify.com/artist/7jSATcOaLux4k5T2TTc2tN), [P1cky](https://open.spotify.com/artist/7jNnJdQzPxtOW3fLmAnd1a) | [7 Am](https://open.spotify.com/album/18Gy6Xx7OqnlKksIerzJQN) | 3:59 |
 | 88 | [No la Ves](https://open.spotify.com/track/4ql5SX2c5PVj8FDYRGmdLX) | [Warlock ARG](https://open.spotify.com/artist/3Et7l92EvT83F7NsmtDYzV) | [No la Ves](https://open.spotify.com/album/0ja7i6140pD18DMHukGkeP) | 4:19 |
 | 89 | [Al Otro Lado](https://open.spotify.com/track/3z4qhzZR43nyO2iyJvr8ZR) | [Milhojas](https://open.spotify.com/artist/5SYSiqQnMA3kKiIe1BzQdb) | [Inmunidad](https://open.spotify.com/album/3SJ7gTxtIxHXZ1e2xnJ6TG) | 3:31 |
 | 90 | [Polvo Cósmico \- Remix](https://open.spotify.com/track/70a8kMxbPGDkGk0yNXnU5B) | [Cevlade](https://open.spotify.com/artist/7FavRzQTgusKjQCqvO4xXY), [C\-Funk](https://open.spotify.com/artist/4W818VxLQukD34t6dFjoRO) | [Polvo Cósmico \(Remix\)](https://open.spotify.com/album/6mGtBcrNrRiMMH8LIWqINx) | 3:27 |
-| 91 | [Cariñoso Calificativo](https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd) | 3:47 |
-| 92 | [No Me Lo Digas \(In Session\)](https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf) | [Jose Molina](https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7) | [Jose Molina in Session](https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM) | 7:46 |
-| 93 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 |
-| 94 | [Amor Inocente](https://open.spotify.com/track/5Ua8g5V7j5ah5ieDeJHzNV) | [Antes de Nacer](https://open.spotify.com/artist/1TxWs211DxYPxHvI5bNqfo) | [Amor Inocente](https://open.spotify.com/album/7pWtehv340syIcZaXSZclR) | 3:47 |
+| 91 | [No Me Lo Digas \(In Session\)](https://open.spotify.com/track/01L5lcM6Tv58xLgTREdTBf) | [Jose Molina](https://open.spotify.com/artist/5wwt19tqha2MslydUbFGH7) | [Jose Molina in Session](https://open.spotify.com/album/761hQFQrsf4sNdJULRpHLM) | 7:46 |
+| 92 | [Cariñoso Calificativo](https://open.spotify.com/track/0gWiGSQNQpfSt4zFIdkIYU) | [Ania Ivania](https://open.spotify.com/artist/4X5zjb9hLr37IngXyDpdZb) | [Aire](https://open.spotify.com/album/0h3fqfIY7r003GSs1HupSd) | 3:47 |
+| 93 | [Sujeto a Espacio](https://open.spotify.com/track/1Q6cCRmlEmgqSEwdBsfbFb) | [Jvlian](https://open.spotify.com/artist/1rdtWdewVAF99Rr8vqL6UT) | [Crisis](https://open.spotify.com/album/4vux7VUf8tpFUNa1dcHgRU) | 2:41 |
+| 94 | [Sapukai](https://open.spotify.com/track/6l1n78Osrf2e1WyCL1V8Cq) | [Joaquín Plada](https://open.spotify.com/artist/1dh1GlSC1Ct1EKaxAO5Y8D) | [Los Días](https://open.spotify.com/album/37PiRnmx7fmtWzM5cZrvZr) | 2:58 |
 
 Snapshot ID: `Zzc5pwAAAACJ+6msCeEzk/xUIh2AoBRo`

@@ -4,13 +4,14 @@
 
 > Alcuni amori bruciano più di altri\. Cover: Emis Killa
 
-202 songs - 10 hr 25 min
+203 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 MESSAGGI](https://open.spotify.com/track/5bXgMzxuNymWhpwkgvYn4O) | [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [100 MESSAGGI](https://open.spotify.com/album/3XBD2ZHIvauc7k4MRQmS4N) | 4:04 | 2024-02-26 |  |
 | [2% \(feat\. Frah Quintale\)](https://open.spotify.com/track/5ODlTG5qxhCsC05E36Rv25) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [Sinatra](https://open.spotify.com/album/6facASUoGUBZNCEWiQ9I3R) | 3:31 | 2022-05-03 |  |
 | [3D](https://open.spotify.com/track/1OMlasYCHuDJ6aVJeL4Lnr) | [Vale pain](https://open.spotify.com/artist/1ZDu0fOcpCIjDwyl2cvk08) | [PAIN](https://open.spotify.com/album/41grqs0jslpaOFto4UghCq) | 3:30 | 2022-10-20 | 2022-11-21 |
+| [A Lei](https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R) | [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [Nerissima Serpe](https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB), [Fritu](https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF) | [Mafia Slime 2](https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI) | 3:05 | 2025-01-17 |  |
 | [A TE](https://open.spotify.com/track/28XXZdpUgIHIHlibEL3Pmu) | [Il Ghost](https://open.spotify.com/artist/2tOGpIgNsnDk6BxqFU2vCX) | [A TE](https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv) | 2:04 | 2022-07-07 | 2022-09-30 |
 | [Acqua Passata](https://open.spotify.com/track/52eHiUKvh9btZMY8M3JD03) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Acqua Passata](https://open.spotify.com/album/18gBtYf9XjFqf2m0Sk7cnT) | 3:09 | 2024-03-07 |  |
 | [AIRFORCE \(feat\. Madame\)](https://open.spotify.com/track/4MTlIhliwFJnTfbEoctDyB) | [Massimo Pericolo](https://open.spotify.com/artist/1El4YQA8oCXX7ynFSxRTFq), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C), [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [SOLO TUTTO](https://open.spotify.com/album/7I9kWuzlJwWCtP0jDgqpcw) | 3:40 | 2022-05-03 | 2024-06-21 |
@@ -126,7 +127,7 @@
 | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/track/2QieMRkH51KbJw4ZauGJfY) | [AVA](https://open.spotify.com/artist/7zPS3i8YJBNeDcqXUHfCMr), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tony Boy](https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk) | [MOON \(feat\. Capo Plaza & Tony Boy\)](https://open.spotify.com/album/257g998F1JZB1zxKp0CPNd) | 3:06 | 2024-01-25 |  |
 | [MUJER](https://open.spotify.com/track/6K8MYTkn5mZzF6p14hV5cj) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6qr1f4DPu36HcaQ2T26SFV) | 2:41 | 2022-08-22 | 2024-04-19 |
 | [MUJER](https://open.spotify.com/track/6LHw9ZjMZ2VGW2AbSABBO4) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [Sottozero](https://open.spotify.com/album/5W5MeWj7h77dMUazvzjR5w) | 2:41 | 2022-11-07 | 2022-11-19 |
-| [MUJER](https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6s3XBzC7ghTwGeEFEDJRzM) | 2:41 | 2024-04-11 |  |
+| [MUJER](https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K) | [Icy Subzero](https://open.spotify.com/artist/24oVOFAARWAYUb1LaedbI0) | [MUJER](https://open.spotify.com/album/6s3XBzC7ghTwGeEFEDJRzM) | 2:41 | 2024-04-11 | 2025-01-19 |
 | [MY LOVE SONG 2 \(feat\. Coez & Frah Quintale\)](https://open.spotify.com/track/3ySS2RpQNWsN5T88sfilZb) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Noyz Narcos](https://open.spotify.com/artist/49UAapOfpOg1ZOU4xf2NgY), [Coez](https://open.spotify.com/artist/5dXlc7MnpaTeUIsHLVe3n4), [Frah Quintale](https://open.spotify.com/artist/7BgEOZ9w3Y4IMShXTMu1nN) | [CVLT](https://open.spotify.com/album/6HXtcSvv1AXivyZrZjEdG1) | 2:54 | 2023-11-02 | 2023-11-29 |
 | [Nessuno](https://open.spotify.com/track/7EV3ONJpL7lmlQb75rlP2D) | [Sacky](https://open.spotify.com/artist/1sybJwRGo9WiiqcZLzzAbS), [Nko](https://open.spotify.com/artist/4kTOsBwxhA2Sn4PSs7PqnN) | [Nessuno](https://open.spotify.com/album/1L2jEnUZw5QlTe9pInCMQt) | 3:07 | 2023-02-01 | 2023-07-01 |
 | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/track/0RUzwtbvoASM5AVKRcmyYR) | [Timon](https://open.spotify.com/artist/4pQprwhppwLQDnYkXVNCHp), [CoCo](https://open.spotify.com/artist/5FEh6KHK99CyLXp3qFvZFM), [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [New Date \(feat\. Don Pero, CoCo\)](https://open.spotify.com/album/0cV8EqMkPdAivkRmFQ1uHo) | 2:45 | 2024-06-20 | 2024-07-05 |

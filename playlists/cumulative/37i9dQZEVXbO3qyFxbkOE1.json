@@ -2099,6 +2099,28 @@
     },
     {
       "album": {
+        "name": "Bandida",
+        "url": "https://open.spotify.com/album/5AIi8LYYq6kwvUAxZuqUBd"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165026,
+      "name": "Bandida",
+      "url": "https://open.spotify.com/track/4dF08DjAjgactxNnsjRod6"
+    },
+    {
+      "album": {
         "name": "Bandido",
         "url": "https://open.spotify.com/album/5sIyJyOgwEIOgBhLxIGG3t"
       },
@@ -2608,7 +2630,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 215983,
       "name": "BOKeTE",
       "url": "https://open.spotify.com/track/79x7xtoCLpf6l32Zz6mWo4"
@@ -4162,7 +4184,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 241648,
       "name": "COQUETA",
       "url": "https://open.spotify.com/track/1PREzVLuDT6PSE9sej4wnV"
@@ -6222,10 +6244,32 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 172059,
       "name": "El Mayor de los Ranas",
       "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
+    },
+    {
+      "album": {
+        "name": "Con Tokio",
+        "url": "https://open.spotify.com/album/7rnKX7At3vWHV0MZAGzihw"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172059,
+      "name": "El Mayor De Los Ranas",
+      "url": "https://open.spotify.com/track/6v5qt5KPQHJt5ckWuhDGtM"
     },
     {
       "album": {
@@ -9782,6 +9826,28 @@
       "duration_ms": 198367,
       "name": "La Corriente",
       "url": "https://open.spotify.com/track/1797zYiX4cKosMH836X9Gt"
+    },
+    {
+      "album": {
+        "name": "La Cuadrada",
+        "url": "https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160557,
+      "name": "La Cuadrada",
+      "url": "https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk"
     },
     {
       "album": {

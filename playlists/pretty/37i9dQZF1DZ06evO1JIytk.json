@@ -1,12 +1,12 @@
 {
   "description": "This is Anti-Flag. The essential tracks, all in one playlist.",
-  "num_followers": 16236,
+  "num_followers": 16240,
   "original_name": "This Is Anti-Flag",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAB0cp5ceBsJq+AQWK6coJPP",
+  "snapshot_id": "Z4mdgAAAAABVEyAsrNs/5zWwPlbuyWNk",
   "tracks": [
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "For Blood And Empire",
-        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
+        "name": "The General Strike",
+        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 150666,
-      "name": "1 Trillion Dollar$ - Dirty Version",
-      "url": "https://open.spotify.com/track/1dIYsviqWVfAOmkvZm8WQ2"
+      "duration_ms": 165767,
+      "name": "This Is the New Sound",
+      "url": "https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M"
     },
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The General Strike",
-        "url": "https://open.spotify.com/album/406J0Oguq0uZBtJmsc5juw"
+        "name": "For Blood And Empire",
+        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
         }
       ],
-      "duration_ms": 165767,
-      "name": "This Is the New Sound",
-      "url": "https://open.spotify.com/track/4t98qp03cHX5oau9jsxE0M"
+      "duration_ms": 150666,
+      "name": "1 Trillion Dollar$ - Dirty Version",
+      "url": "https://open.spotify.com/track/1dIYsviqWVfAOmkvZm8WQ2"
     },
     {
       "added_at": null,
@@ -215,22 +215,6 @@
       "duration_ms": 214600,
       "name": "911 for Peace",
       "url": "https://open.spotify.com/track/4CrufimpcYAOqighojrziP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Blood And Empire",
-        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 130759,
-      "name": "I'd Tell You But...",
-      "url": "https://open.spotify.com/track/1iZKML1ki9knISenUIzXpM"
     },
     {
       "added_at": null,
@@ -263,6 +247,22 @@
       "duration_ms": 101466,
       "name": "Drink Drank Punk",
       "url": "https://open.spotify.com/track/2b9H8ocxdhOXoV6HeRvJNg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "For Blood And Empire",
+        "url": "https://open.spotify.com/album/3B3gJszXnaDZMz8YVRZ1J2"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 130759,
+      "name": "I'd Tell You But...",
+      "url": "https://open.spotify.com/track/1iZKML1ki9knISenUIzXpM"
     },
     {
       "added_at": null,
@@ -355,22 +355,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A New Kind of Army",
-        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 194351,
-      "name": "Got the Numbers",
-      "url": "https://open.spotify.com/track/4YLt6nawVzFRoqRlEbbsMh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Spring",
         "url": "https://open.spotify.com/album/6UtJ5648uGVbr0EGCJs6S7"
       },
@@ -387,6 +371,22 @@
       "duration_ms": 210306,
       "name": "Brandenburg Gate",
       "url": "https://open.spotify.com/track/4znw3ffZ2cCB18B74irrst"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A New Kind of Army",
+        "url": "https://open.spotify.com/album/1Y0Z1edYpuumeeELWdseMv"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 194351,
+      "name": "Got the Numbers",
+      "url": "https://open.spotify.com/track/4YLt6nawVzFRoqRlEbbsMh"
     },
     {
       "added_at": null,
@@ -739,22 +739,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "20/20 Vision",
-        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
-      },
-      "artists": [
-        {
-          "name": "Anti-Flag",
-          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
-        }
-      ],
-      "duration_ms": 146773,
-      "name": "20/20 Vision",
-      "url": "https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "American Fall",
         "url": "https://open.spotify.com/album/55oNSkAEaPPS1PnSZimhts"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 169426,
       "name": "Finish What We Started",
       "url": "https://open.spotify.com/track/1XZVctTif3B1ojGOqXkoze"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "20/20 Vision",
+        "url": "https://open.spotify.com/album/0ESfHPooquTT2SI5EL1ycl"
+      },
+      "artists": [
+        {
+          "name": "Anti-Flag",
+          "url": "https://open.spotify.com/artist/30sqtiTKIb1oDve0SdYayT"
+        }
+      ],
+      "duration_ms": 146773,
+      "name": "20/20 Vision",
+      "url": "https://open.spotify.com/track/7MsspKVfHpHkwYpOukORAN"
     },
     {
       "added_at": null,

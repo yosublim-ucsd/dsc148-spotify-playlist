@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 
 > A collection of the best recent Prog Rock tracks\. Cover: Weather Systems
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,756 likes - 75 songs - 7 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,818 likes - 75 songs - 7 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXgtgITTKvYl.md) - [plain]
 | 19 | [Immunity](https://open.spotify.com/track/00gHK05ITKDT2c40WJDevj) | [Long Distance Calling](https://open.spotify.com/artist/3SiCxhceGZgzusCLHd4Zz6) | [Immunity](https://open.spotify.com/album/56wRI2u3cxOM6CHEG9S9kY) | 5:40 |
 | 20 | [Siberian Khatru \- Live at The Rainbow, London, England, 12/16/1972](https://open.spotify.com/track/4mF7qSwnRN8m6kFrpHtgSf) | [Yes](https://open.spotify.com/artist/7AC976RDJzL2asmZuz7qil) | [Siberian Khatru \(Live at The Rainbow, London, England, 12/16/1972\)](https://open.spotify.com/album/53IXSSLKdnhFYvZbQpSwY7) | 9:01 |
 | 21 | [Horizons \- Live at Trading Boundaries](https://open.spotify.com/track/6s0FpwrEl7LtG1A85QPzLR) | [Steve Hackett](https://open.spotify.com/artist/4vs7NIU7kZc2Efh6yOGKEZ) | [Live Magic At Trading Boundaries](https://open.spotify.com/album/7Gs0wtWgpkuabd47D9Fo6u) | 1:46 |
-| 22 | [Albatross Sunset](https://open.spotify.com/track/1EQnfd2pbVtxYK5wrK9jw5) | [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50), [Big Leaf](https://open.spotify.com/artist/1JUUWpP7Wx9WE8ZKmV6Gcb) | [Albatross Sunset](https://open.spotify.com/album/4eWYrlI8Y8FqsWOGjfBIIi) | 2:25 |
+| 22 | [Albatross Sunset](https://open.spotify.com/track/1EQnfd2pbVtxYK5wrK9jw5) | [Big Leaf](https://open.spotify.com/artist/1JUUWpP7Wx9WE8ZKmV6Gcb), [The Brothers Nylon](https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50) | [Albatross Sunset](https://open.spotify.com/album/4eWYrlI8Y8FqsWOGjfBIIi) | 2:25 |
 | 23 | [Like The Phoenix I Will Rise](https://open.spotify.com/track/2Yqstc9lDyjfB77XM4uUSC) | [Arion](https://open.spotify.com/artist/0c09mxGbMHuFLpPJMY6JdA) | [Like The Phoenix I Will Rise](https://open.spotify.com/album/5RA8SJWi2dIIfj1ro21f8z) | 4:16 |
 | 24 | [Revelation: The Infinite Beauty Of Oneness](https://open.spotify.com/track/71U2oAgK3YRWsSG1Lz9NGa) | [Eidola](https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3) | [Mend](https://open.spotify.com/album/3HcKNLwUqCrMcX0fqqkp7W) | 3:56 |
 | 25 | [Torn Apart \- From "Bleach"](https://open.spotify.com/track/1ZrNwseUVVkTmFyJiJgZgd) | [Gabriele Motta](https://open.spotify.com/artist/74Z82c9qeF0yFO30XSs8nQ) | [Torn Apart \(From "Bleach"\)](https://open.spotify.com/album/0A9b5otbPvl7KKhjID5gnQ) | 2:18 |

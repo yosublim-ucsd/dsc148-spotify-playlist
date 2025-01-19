@@ -3571,6 +3571,28 @@
     },
     {
       "album": {
+        "name": "Stay (Feat. Youlakk)",
+        "url": "https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd"
+      },
+      "artists": [
+        {
+          "name": "Grass",
+          "url": "https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi"
+        },
+        {
+          "name": "\uc5ec\ub77d\uc774\ub4e4",
+          "url": "https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU"
+        }
+      ],
+      "date_added": "2024-10-27",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208771,
+      "name": "Stay (Feat. Youlakk)",
+      "url": "https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON"
+    },
+    {
+      "album": {
         "name": "Stay with Me",
         "url": "https://open.spotify.com/album/2oo1T8nsS5wCD3tE3Ieq1L"
       },
@@ -4026,7 +4048,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 210333,
       "name": "The Love",
       "url": "https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF"

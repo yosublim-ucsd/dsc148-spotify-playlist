@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 
 > Bedroom bootlegs and electroclash gems\. Cover: MGMT
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,448 likes - 75 songs - 6 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,459 likes - 75 songs - 6 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSyOfQ9LA1uF.md) - [plain]
 | 71 | [Disco Shoes \- Electrixx Mix](https://open.spotify.com/track/43BRvTH97W9jPjJYTjV1bo) | [Acid Jacks](https://open.spotify.com/artist/3Gcp6oFkW9YAQxE6XgWU1w) | [Disco Shoes](https://open.spotify.com/album/2eLBlmbqw2mkYYGP7a76aT) | 5:41 |
 | 72 | [We Are Your Friends \- Justice Vs Simian](https://open.spotify.com/track/49ErwcBYfYRPNBdRuPvpYA) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N), [Simian](https://open.spotify.com/artist/19rgRqYVP3LJf9tGmMWLjP) | [We Are Your Friends](https://open.spotify.com/album/1M9rUTZKBvDhKIqK9rNxLi) | 4:22 |
 | 73 | [Bongo Song](https://open.spotify.com/track/7LYkRnxddh6BTp3CrXmofK) | [Zongamin](https://open.spotify.com/artist/3GpAL7oEFD37IJDOOiirqy) | [Bongo Song](https://open.spotify.com/album/5Ys062wL4Hzm11mpaKnk4u) | 5:14 |
-| 74 | [Crimewave](https://open.spotify.com/track/4xymOOdANFwko4RpeR961e) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Crystal Castles](https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC) | 4:18 |
-| 75 | [Intro](https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running \- Single](https://open.spotify.com/album/6Ps0YLiG5zpgsqx5kBPIul) | 4:54 |
+| 74 | [Intro](https://open.spotify.com/track/3EXPdW0NGGkPlyDMcScfgu) | [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Fred Falke](https://open.spotify.com/artist/0AfNNw1LS2i9KW4icd7inD) | [Running \- Single](https://open.spotify.com/album/6Ps0YLiG5zpgsqx5kBPIul) | 4:54 |
+| 75 | [Crimewave](https://open.spotify.com/track/4xymOOdANFwko4RpeR961e) | [Crystal Castles](https://open.spotify.com/artist/7K3zpFXBvPcvzhj7zlGJdO), [HEALTH](https://open.spotify.com/artist/6FfjnGXMhxSsJTuGLWBDth) | [Crystal Castles](https://open.spotify.com/album/75olNPlDKi2XQhTD9IPlVC) | 4:18 |
 
 Snapshot ID: `ZrUUJQAAAAA/aAWqhT6Q9OGBvoV1PSvb`

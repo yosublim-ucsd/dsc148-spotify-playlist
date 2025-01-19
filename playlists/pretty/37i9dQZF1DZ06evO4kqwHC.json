@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1080384,
+  "num_followers": 1080412,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAAyEfaL45qoWRsjfvHNrZsN",
+  "snapshot_id": "Z4mdgAAAAAADLmZZQ9jVViBOZZpi2IX7",
   "tracks": [
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 229786,
-      "name": "The Glass",
-      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
+      "duration_ms": 207786,
+      "name": "Nothing At All",
+      "url": "https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G"
     },
     {
       "added_at": null,
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 207786,
-      "name": "Nothing At All",
-      "url": "https://open.spotify.com/track/0csL34JYEsHmFBAZ1fgf8G"
+      "duration_ms": 229786,
+      "name": "The Glass",
+      "url": "https://open.spotify.com/track/26iWAXoJRiUv9yYzxYBqSv"
     },
     {
       "added_at": null,

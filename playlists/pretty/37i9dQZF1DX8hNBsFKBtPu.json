@@ -168,12 +168,12 @@
       },
       "artists": [
         {
-          "name": "ELOQ",
-          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
-        },
-        {
           "name": "BBYBITES",
           "url": "https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW"
+        },
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
         }
       ],
       "duration_ms": 130929,

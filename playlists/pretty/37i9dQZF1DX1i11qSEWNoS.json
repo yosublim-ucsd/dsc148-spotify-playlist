@@ -1,6 +1,6 @@
 {
   "description": "und macht laune",
-  "num_followers": 605089,
+  "num_followers": 605198,
   "original_name": "schiebt anders",
   "owner": {
     "name": "Spotify",
@@ -303,30 +303,6 @@
     {
       "added_at": "2025-01-16 23:00:42",
       "album": {
-        "name": "Kisses (feat. bbyclose)",
-        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
-      },
-      "artists": [
-        {
-          "name": "BL3SS",
-          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
-        },
-        {
-          "name": "CamrinWatsin",
-          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
-        },
-        {
-          "name": "bbyclose",
-          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
-        }
-      ],
-      "duration_ms": 138246,
-      "name": "Kisses (feat. bbyclose)",
-      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2025-01-16 23:00:42",
-      "album": {
         "name": "Nothing but the Beat (Ultimate Edition)",
         "url": "https://open.spotify.com/album/4bTjdxhRRUiWfwj200f9Kl"
       },
@@ -347,6 +323,30 @@
       "duration_ms": 194840,
       "name": "Where Them Girls At (feat. Nicki Minaj & Flo Rida)",
       "url": "https://open.spotify.com/track/7ks6AZmFcm3Y6PGGxGSmlB"
+    },
+    {
+      "added_at": "2025-01-16 23:00:42",
+      "album": {
+        "name": "Kisses (feat. bbyclose)",
+        "url": "https://open.spotify.com/album/3eIA3WFdBvYVUP8sVD5p34"
+      },
+      "artists": [
+        {
+          "name": "BL3SS",
+          "url": "https://open.spotify.com/artist/6kbR2eL4hecj3rFwGOsYsI"
+        },
+        {
+          "name": "CamrinWatsin",
+          "url": "https://open.spotify.com/artist/20rKUmFZsfv9GBXiv6R9d6"
+        },
+        {
+          "name": "bbyclose",
+          "url": "https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH"
+        }
+      ],
+      "duration_ms": 138246,
+      "name": "Kisses (feat. bbyclose)",
+      "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
     },
     {
       "added_at": "2025-01-16 23:00:42",
@@ -995,30 +995,6 @@
     {
       "added_at": "2025-01-16 23:00:42",
       "album": {
-        "name": "Abenteuerland",
-        "url": "https://open.spotify.com/album/3quzSBWWSsSon0G4MZE29v"
-      },
-      "artists": [
-        {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
-        },
-        {
-          "name": "SDP",
-          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
-        },
-        {
-          "name": "Phil The Beat",
-          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
-        }
-      ],
-      "duration_ms": 179087,
-      "name": "Abenteuerland",
-      "url": "https://open.spotify.com/track/189vFQyTAhpSCsI07yjQVq"
-    },
-    {
-      "added_at": "2025-01-16 23:00:42",
-      "album": {
         "name": "EWIGKEIT (REMIX)",
         "url": "https://open.spotify.com/album/7g9MhzAbsC7Z7Orsa0Z7Dz"
       },
@@ -1039,6 +1015,30 @@
       "duration_ms": 137647,
       "name": "EWIGKEIT - REMIX",
       "url": "https://open.spotify.com/track/4kcgrgZhd4h8chSAJ86mIq"
+    },
+    {
+      "added_at": "2025-01-16 23:00:42",
+      "album": {
+        "name": "Abenteuerland",
+        "url": "https://open.spotify.com/album/3quzSBWWSsSon0G4MZE29v"
+      },
+      "artists": [
+        {
+          "name": "FiNCH",
+          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+        },
+        {
+          "name": "SDP",
+          "url": "https://open.spotify.com/artist/1EfwyuCzDQpCslZc8C9gkG"
+        },
+        {
+          "name": "Phil The Beat",
+          "url": "https://open.spotify.com/artist/35pKZ36ma78w8aE467fRO9"
+        }
+      ],
+      "duration_ms": 179087,
+      "name": "Abenteuerland",
+      "url": "https://open.spotify.com/track/189vFQyTAhpSCsI07yjQVq"
     },
     {
       "added_at": "2025-01-16 23:00:42",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2025-01-16 23:00:42",
       "album": {
+        "name": "Cooler Than Me",
+        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
+      },
+      "artists": [
+        {
+          "name": "Lucky Luke",
+          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Cooler Than Me",
+      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
+    },
+    {
+      "added_at": "2025-01-16 23:00:42",
+      "album": {
         "name": "JUNGE BALLER",
         "url": "https://open.spotify.com/album/573YDpCq1I93aebAWluexj"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 130660,
       "name": "JUNGE BALLER",
       "url": "https://open.spotify.com/track/29vCE5UzdE8dzcJWbG2CsK"
-    },
-    {
-      "added_at": "2025-01-16 23:00:42",
-      "album": {
-        "name": "Cooler Than Me",
-        "url": "https://open.spotify.com/album/5BmY6ZPLmhyIm9bRdN4mWP"
-      },
-      "artists": [
-        {
-          "name": "Lucky Luke",
-          "url": "https://open.spotify.com/artist/5ee4yhrWOxaxvL77BoVpVR"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Cooler Than Me",
-      "url": "https://open.spotify.com/track/525GY0mXYnxajolwgS8Eaz"
     },
     {
       "added_at": "2025-01-16 23:00:42",
@@ -1271,42 +1271,6 @@
     {
       "added_at": "2025-01-16 23:00:42",
       "album": {
-        "name": "N\u00dcCHTERN",
-        "url": "https://open.spotify.com/album/7xKFVx6gSDKbJSfR9bPe3X"
-      },
-      "artists": [
-        {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
-        },
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        }
-      ],
-      "duration_ms": 195125,
-      "name": "N\u00dcCHTERN",
-      "url": "https://open.spotify.com/track/1uUo1d1amOQEfjOWirEw5Q"
-    },
-    {
-      "added_at": "2025-01-16 23:00:42",
-      "album": {
-        "name": "Leben am Limit",
-        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
-      },
-      "artists": [
-        {
-          "name": "SXTN",
-          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Von Party zu Party",
-      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
-    },
-    {
-      "added_at": "2025-01-16 23:00:42",
-      "album": {
         "name": "Ich will nur dass du wei\u00dft (IIVEN Remix)",
         "url": "https://open.spotify.com/album/2prLFss2H7K0y4ZY094MZA"
       },
@@ -1327,6 +1291,42 @@
       "duration_ms": 156387,
       "name": "Ich will nur dass du wei\u00dft - IIVEN Remix",
       "url": "https://open.spotify.com/track/7MCNurIGh8Hg9SYaCPP9vv"
+    },
+    {
+      "added_at": "2025-01-16 23:00:42",
+      "album": {
+        "name": "Leben am Limit",
+        "url": "https://open.spotify.com/album/3GFtNDpTMjFmmPNVGI202h"
+      },
+      "artists": [
+        {
+          "name": "SXTN",
+          "url": "https://open.spotify.com/artist/0tMFcqLXhtm1Gep20iuIR3"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Von Party zu Party",
+      "url": "https://open.spotify.com/track/4h6UIDvGWTYZvu4BLf2GpO"
+    },
+    {
+      "added_at": "2025-01-16 23:00:42",
+      "album": {
+        "name": "N\u00dcCHTERN",
+        "url": "https://open.spotify.com/album/7xKFVx6gSDKbJSfR9bPe3X"
+      },
+      "artists": [
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "duration_ms": 195125,
+      "name": "N\u00dcCHTERN",
+      "url": "https://open.spotify.com/track/1uUo1d1amOQEfjOWirEw5Q"
     },
     {
       "added_at": "2025-01-16 23:00:42",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-01-16 23:00:42",
       "album": {
-        "name": "Moment",
-        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Binder",
-          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Moment",
-      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
-    },
-    {
-      "added_at": "2025-01-16 23:00:42",
-      "album": {
         "name": "KETA UND KRAWALL",
         "url": "https://open.spotify.com/album/1J45kvnBanNkQebLmKvXTa"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 125492,
       "name": "KETA UND KRAWALL",
       "url": "https://open.spotify.com/track/6zP4Utvok4QRXlNYBZkpGa"
+    },
+    {
+      "added_at": "2025-01-16 23:00:42",
+      "album": {
+        "name": "Moment",
+        "url": "https://open.spotify.com/album/5l4IBxY3EZwenZLXqzFCDV"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Binder",
+          "url": "https://open.spotify.com/artist/4cisvT0RilDGHw8lzANpUA"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Moment",
+      "url": "https://open.spotify.com/track/4rGKCr6pj3tKNWJvICbOaZ"
     },
     {
       "added_at": "2025-01-16 23:00:42",
@@ -1539,26 +1539,6 @@
     {
       "added_at": "2025-01-16 23:00:42",
       "album": {
-        "name": "How You Remind Me",
-        "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
-      },
-      "artists": [
-        {
-          "name": "HBz",
-          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
-        },
-        {
-          "name": "Captain Curtis",
-          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
-        }
-      ],
-      "duration_ms": 148411,
-      "name": "How You Remind Me",
-      "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
-    },
-    {
-      "added_at": "2025-01-16 23:00:42",
-      "album": {
         "name": "Lila Wolken - EP",
         "url": "https://open.spotify.com/album/0uS3xAFBJqwjr0YqWBEGQo"
       },
@@ -1579,6 +1559,26 @@
       "duration_ms": 228053,
       "name": "Lila Wolken",
       "url": "https://open.spotify.com/track/2i7LYnvqSFfmimscnZqVLn"
+    },
+    {
+      "added_at": "2025-01-16 23:00:42",
+      "album": {
+        "name": "How You Remind Me",
+        "url": "https://open.spotify.com/album/0W6erefb8fRvnBVvfxCS1P"
+      },
+      "artists": [
+        {
+          "name": "HBz",
+          "url": "https://open.spotify.com/artist/7I2JG3CcPawkeQPE7uypHJ"
+        },
+        {
+          "name": "Captain Curtis",
+          "url": "https://open.spotify.com/artist/3uGJkMEEZ1kGFieLT5KytR"
+        }
+      ],
+      "duration_ms": 148411,
+      "name": "How You Remind Me",
+      "url": "https://open.spotify.com/track/2SqCxbiL0ClhKZgIQxAgK0"
     },
     {
       "added_at": "2025-01-16 23:00:42",
@@ -1611,6 +1611,26 @@
       "duration_ms": 143416,
       "name": "Outfit Check",
       "url": "https://open.spotify.com/track/1SM6ss2QblSsTBJAyczfDN"
+    },
+    {
+      "added_at": "2025-01-16 23:00:42",
+      "album": {
+        "name": "UNISEXKLO",
+        "url": "https://open.spotify.com/album/5MMeg4v6o13thfc6KPexH6"
+      },
+      "artists": [
+        {
+          "name": "Ikkimel",
+          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
+        },
+        {
+          "name": "Lucry & Suena",
+          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
+        }
+      ],
+      "duration_ms": 126542,
+      "name": "UNISEXKLO",
+      "url": "https://open.spotify.com/track/1o8QpucQOjzA41D7WKnBd4"
     },
     {
       "added_at": "2025-01-16 23:00:42",
@@ -1683,26 +1703,6 @@
     {
       "added_at": "2025-01-16 23:00:42",
       "album": {
-        "name": "UNISEXKLO",
-        "url": "https://open.spotify.com/album/5MMeg4v6o13thfc6KPexH6"
-      },
-      "artists": [
-        {
-          "name": "Ikkimel",
-          "url": "https://open.spotify.com/artist/0CzoJbqBbtBNLArLyAFDPn"
-        },
-        {
-          "name": "Lucry & Suena",
-          "url": "https://open.spotify.com/artist/4TPAWIeZhHw6CnsoPe9vxY"
-        }
-      ],
-      "duration_ms": 126542,
-      "name": "UNISEXKLO",
-      "url": "https://open.spotify.com/track/1o8QpucQOjzA41D7WKnBd4"
-    },
-    {
-      "added_at": "2025-01-16 23:00:42",
-      "album": {
         "name": "Kein DJ",
         "url": "https://open.spotify.com/album/6j2xOsq0yFEYDw7uaYbtp1"
       },
@@ -1759,6 +1759,22 @@
     {
       "added_at": "2025-01-16 23:00:42",
       "album": {
+        "name": "Dunes",
+        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
+      },
+      "artists": [
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+        }
+      ],
+      "duration_ms": 184752,
+      "name": "Typa Girl",
+      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
+    },
+    {
+      "added_at": "2025-01-16 23:00:42",
+      "album": {
         "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
         "url": "https://open.spotify.com/album/2nP38OhbFaK5iCeGV8gEbP"
       },
@@ -1775,22 +1791,6 @@
       "duration_ms": 125032,
       "name": "Ich nehm dich bei der Hand (SimsalaGrimm)",
       "url": "https://open.spotify.com/track/14iwJXnTuI9qdcosMEB73h"
-    },
-    {
-      "added_at": "2025-01-16 23:00:42",
-      "album": {
-        "name": "Dunes",
-        "url": "https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB"
-      },
-      "artists": [
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
-        }
-      ],
-      "duration_ms": 184752,
-      "name": "Typa Girl",
-      "url": "https://open.spotify.com/track/16SKOkyJsJNeJkHUFTcDUm"
     },
     {
       "added_at": "2025-01-16 23:00:42",
@@ -1847,22 +1847,22 @@
     {
       "added_at": "2025-01-16 23:00:42",
       "album": {
-        "name": "VAMOS",
-        "url": "https://open.spotify.com/album/6KdsuvLd4GiIwZyVa512sO"
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/2QG7NUjK3TYm1qNTyqRnDd"
       },
       "artists": [
         {
-          "name": "FiNCH",
-          "url": "https://open.spotify.com/artist/1ZyqnbV7Brg5LgyS4EZCUD"
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
         },
         {
-          "name": "Loona",
-          "url": "https://open.spotify.com/artist/7ugN9bU7x54gVI2295brJF"
+          "name": "Nik Sitz",
+          "url": "https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm"
         }
       ],
-      "duration_ms": 149773,
-      "name": "VAMOS",
-      "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"
+      "duration_ms": 241519,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/0KC0gOIXRiJohCEBS5aaUl"
     }
   ],
   "unique_name": "schiebt anders",

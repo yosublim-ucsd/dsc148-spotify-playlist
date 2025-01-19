@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 95953,
+  "num_followers": 95984,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -527,18 +527,22 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Right There / Holy Ghost",
-        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
+        "name": "Just Want Another Chance",
+        "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
       },
       "artists": [
         {
-          "name": "Floorplan",
-          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
+          "name": "Reese",
+          "url": "https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG"
+        },
+        {
+          "name": "Kevin Saunderson",
+          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
         }
       ],
-      "duration_ms": 177885,
-      "name": "Right There",
-      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
+      "duration_ms": 312894,
+      "name": "Just Want Another Chance - Original Mix",
+      "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -563,22 +567,18 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Just Want Another Chance",
-        "url": "https://open.spotify.com/album/4XagqaRMPdxYcBibgCgCWH"
+        "name": "Right There / Holy Ghost",
+        "url": "https://open.spotify.com/album/1v1mqL9KE1f5ZzAww9x2MX"
       },
       "artists": [
         {
-          "name": "Reese",
-          "url": "https://open.spotify.com/artist/4ZZnndm8YgzLlG05uSmQOG"
-        },
-        {
-          "name": "Kevin Saunderson",
-          "url": "https://open.spotify.com/artist/0jS6VTFGujWxinY5TSQwOG"
+          "name": "Floorplan",
+          "url": "https://open.spotify.com/artist/0RBnTX5xoVa1bDYt9Qbies"
         }
       ],
-      "duration_ms": 312894,
-      "name": "Just Want Another Chance - Original Mix",
-      "url": "https://open.spotify.com/track/2fLoViPlr6qskNBS19sO7j"
+      "duration_ms": 177885,
+      "name": "Right There",
+      "url": "https://open.spotify.com/track/5YKYzjEbhcMxzhFgU2CLbf"
     },
     {
       "added_at": "2023-10-26 20:41:14",

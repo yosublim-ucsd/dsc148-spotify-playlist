@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 77951,
+  "num_followers": 77963,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADuflJRKXEKrM4JqmsqJpA0",
+  "snapshot_id": "Z4mdgAAAAACFpegTP6NNlvSALEXN2w0Z",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imprescindibles",
-        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 181640,
-      "name": "Para Poder Llegar A Ti",
-      "url": "https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
         "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 210946,
       "name": "Corrido De Chito Cano",
       "url": "https://open.spotify.com/track/31cRUiuUfvpxAEYAXn1Qtq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imprescindibles",
+        "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 181640,
+      "name": "Para Poder Llegar A Ti",
+      "url": "https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC"
     },
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Triste Recuerdo (Aferrado Por Ti)",
-        "url": "https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 185266,
-      "name": "Triste Recuerdo",
-      "url": "https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Central Camionera",
         "url": "https://open.spotify.com/album/7HqZHKxJhg64tA9o6Dxveu"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 202373,
       "name": "Central Camionera",
       "url": "https://open.spotify.com/track/0N57zOUnZ9AvassdfVf3IV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Triste Recuerdo (Aferrado Por Ti)",
+        "url": "https://open.spotify.com/album/6BPIQtgq7bYpXflr0Sx8eS"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 185266,
+      "name": "Triste Recuerdo",
+      "url": "https://open.spotify.com/track/6RFq3bDIY2HTvwSgsZC6tg"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Rama De Mezquite",
-        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "Cuando Yo Era Un Jovencito",
-      "url": "https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Qu\u00e9 Casualidad",
         "url": "https://open.spotify.com/album/48MmKDBvYTuFZMdzgfER9w"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 213666,
       "name": "Me Llega Me Llega",
       "url": "https://open.spotify.com/track/7MS00H6ipFouSvCpBzaZaT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Rama De Mezquite",
+        "url": "https://open.spotify.com/album/4JYoO4nKwHf4uPBa6Loh07"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "Cuando Yo Era Un Jovencito",
+      "url": "https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W"
     },
     {
       "added_at": null,
@@ -635,6 +635,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PURA MUSICA DE CANTINA",
+        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 177826,
+      "name": "Me Sacaron Del Tenampa",
+      "url": "https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Celebrando a una Leyenda, Segunda Parte (En Vivo)",
         "url": "https://open.spotify.com/album/7vvK1TuP5ZPZxmq28YKAgv"
       },
@@ -651,22 +667,6 @@
       "duration_ms": 172346,
       "name": "Cu\u00e1nto Me Cuesta (Me Cuesta Ponerle Letra) - En Vivo",
       "url": "https://open.spotify.com/track/55BQZ6AqbzlvR7fBfJgesF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PURA MUSICA DE CANTINA",
-        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 177826,
-      "name": "Me Sacaron Del Tenampa",
-      "url": "https://open.spotify.com/track/6Z5SW8KHzO5A1ETdYkVZhi"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
-        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 167133,
-      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
-      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Casas de Madera",
         "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 235706,
       "name": "M\u00e1ndame A La Tumba",
       "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FREDDIE RECORDS PRESENTA EL DIA DE LAS MADRES",
+        "url": "https://open.spotify.com/album/1lrpWHUZEI6Kgmqi7Aw4kp"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 167133,
+      "name": "Te Traigo Estas Flores A Dueto Con Freddie Martinez",
+      "url": "https://open.spotify.com/track/3Xt34CsfQLiNfbluq5fTWO"
     },
     {
       "added_at": null,

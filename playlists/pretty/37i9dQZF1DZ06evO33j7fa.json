@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 55616,
+  "num_followers": 55630,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAB4oWrUq/l3i3+RgzE+nh1m",
+  "snapshot_id": "Z4mdgAAAAAB3uNbXWRgLmVrjSDkGGtXU",
   "tracks": [
     {
       "added_at": null,
@@ -52,9 +52,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 146026,
-      "name": "Day Is Done",
-      "url": "https://open.spotify.com/track/66790TBuwlIrGxWWTVc6yl"
+      "duration_ms": 258680,
+      "name": "River Man",
+      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
     },
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 258680,
-      "name": "River Man",
-      "url": "https://open.spotify.com/track/3Uh7rAb7F0XGVpEEDwfH1k"
+      "duration_ms": 146026,
+      "name": "Day Is Done",
+      "url": "https://open.spotify.com/track/66790TBuwlIrGxWWTVc6yl"
     },
     {
       "added_at": null,

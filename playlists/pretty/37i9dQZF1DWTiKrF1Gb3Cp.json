@@ -1,6 +1,6 @@
 {
   "description": "Musicaliza tu sesi\u00f3n de videojuegos con estos versos de barrio.",
-  "num_followers": 218360,
+  "num_followers": 218427,
   "original_name": "Gaming Belic\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -435,6 +435,22 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
+        "name": "DELTAS",
+        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 142372,
+      "name": "DELTAS",
+      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
         "name": "Proyecto X",
         "url": "https://open.spotify.com/album/26bEhG1sClXny7YvN4eRxs"
       },
@@ -451,30 +467,6 @@
       "duration_ms": 158036,
       "name": "Proyecto X",
       "url": "https://open.spotify.com/track/3PdxzrKH2jVQwAYWe0OMK8"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
-        "name": "El Gabacho",
-        "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        },
-        {
-          "name": "Neton Vega",
-          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 162617,
-      "name": "El Gabacho",
-      "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -507,18 +499,26 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "DELTAS",
-        "url": "https://open.spotify.com/album/0JW0RPwoL2AdbPNy8Gh9Tf"
+        "name": "El Gabacho",
+        "url": "https://open.spotify.com/album/0LKe7YF4Yozxq5Z75jhAsq"
       },
       "artists": [
         {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
         }
       ],
-      "duration_ms": 142372,
-      "name": "DELTAS",
-      "url": "https://open.spotify.com/track/61XFhjfvKdPGhIbrStu63i"
+      "duration_ms": 162617,
+      "name": "El Gabacho",
+      "url": "https://open.spotify.com/track/6jhSG6DQqih3islx9pQCB5"
     },
     {
       "added_at": "2024-12-27 06:00:18",
@@ -1279,26 +1279,6 @@
     {
       "added_at": "2024-12-27 06:00:18",
       "album": {
-        "name": "Tenis Jordan",
-        "url": "https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ"
-      },
-      "artists": [
-        {
-          "name": "Tito Torbellino Jr",
-          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
-        },
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        }
-      ],
-      "duration_ms": 149962,
-      "name": "Tenis Jordan",
-      "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
-    },
-    {
-      "added_at": "2024-12-27 06:00:18",
-      "album": {
         "name": "Pow Wow Wow",
         "url": "https://open.spotify.com/album/6ja3hrP2QFKJb7qhPpX3Cy"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 166293,
       "name": "Pow Wow Wow",
       "url": "https://open.spotify.com/track/6mmhluGpoTV7m49MG5krOY"
+    },
+    {
+      "added_at": "2024-12-27 06:00:18",
+      "album": {
+        "name": "Tenis Jordan",
+        "url": "https://open.spotify.com/album/2dJbpugovzlI5ITCPdF9GJ"
+      },
+      "artists": [
+        {
+          "name": "Tito Torbellino Jr",
+          "url": "https://open.spotify.com/artist/0dXXFVCw0LKzmHFrTLUaQJ"
+        },
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        }
+      ],
+      "duration_ms": 149962,
+      "name": "Tenis Jordan",
+      "url": "https://open.spotify.com/track/3vwq2eAsQFDyhwJvlVtC09"
     },
     {
       "added_at": "2024-12-27 06:00:18",

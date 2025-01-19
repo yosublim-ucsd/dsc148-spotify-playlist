@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,077 songs - 4 day 21 hr 42 min
+2,078 songs - 4 day 21 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -707,6 +707,7 @@
 | [Gimme the Loot](https://open.spotify.com/track/3vGQvGXIi7PtHfESTK8eBt) | [Diskull](https://open.spotify.com/artist/0UDh4IMs4J12Egm0pKjlBi) | [Gimme the Loot](https://open.spotify.com/album/1RxGmAxXdpvVErXOm5VcUU) | 4:45 | 2022-10-14 | 2022-10-29 |
 | [Giodisco](https://open.spotify.com/track/04ljyATONPMyz6cNNGLdAM) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [Giodisco](https://open.spotify.com/album/4rYiVESqq3TGA1uJ7nMWeD) | 2:43 | 2023-06-30 | 2023-07-16 |
 | [Girl](https://open.spotify.com/track/26AvnGY4zYLuBMx8Pbw9xo) | [Dots Per Inch](https://open.spotify.com/artist/20BQJA9TcJiWM3AWbMY7wl), [Major Key](https://open.spotify.com/artist/2B5vbLfmwX978rjCVL7foF) | [Girl](https://open.spotify.com/album/6lQZTA5XSMa300CyVnMyue) | 2:34 | 2022-08-05 | 2022-09-03 |
+| [Girls](https://open.spotify.com/track/7s4FWMmzcHjOkJvo4L2ZWs) | [Dan Molinari](https://open.spotify.com/artist/2LXI2TTxPC81l79b2ZGWRE) | [Girls](https://open.spotify.com/album/4aMjAjmddidXMjA5e65gaX) | 5:26 | 2025-01-18 |  |
 | [Girls](https://open.spotify.com/track/2yBqbY8RfyKMVRXQUpOHQI) | [Danbox](https://open.spotify.com/artist/5bSJlUHWko1F0bHPd2Oqym), [LeBoops](https://open.spotify.com/artist/2OyPqEgEKnFAaUMzlDApAd) | [Girls](https://open.spotify.com/album/6rZTT2mtsRGChqnSnp6KZf) | 3:27 | 2023-12-16 | 2023-12-23 |
 | [Girls Around The World](https://open.spotify.com/track/4GSEMGvemOfecBVJFRos3j) | [Max Low](https://open.spotify.com/artist/1OGrGLXNm7YPutzu0KAYSP) | [Girls Around The World](https://open.spotify.com/album/769AZtCyjPYwy7p8XG6qC6) | 3:13 | 2022-09-02 | 2022-09-10 |
 | [Girls Who Like Girls ft\. Haylee Wood](https://open.spotify.com/track/2FFHTjJrODAhpfPKWDheGD) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j), [Haylee Wood](https://open.spotify.com/artist/7o9KqAZV369uKQOCJkb4aR) | [Girls Who Like Girls EP](https://open.spotify.com/album/6BrxPteXfLmqj2PkSXTfo6) | 3:16 | 2022-09-17 | 2022-09-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 
 > Real rap music from the golden era.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,930,215 likes - 100 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,931,842 likes - 100 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 11 | [Insane in the Brain](https://open.spotify.com/track/1oTHteQbmJw15rPxPVXUTv) | [Cypress Hill](https://open.spotify.com/artist/4P0dddbxPil35MNN9G2MEX) | [Black Sunday](https://open.spotify.com/album/02lktkm4J7K7N8T63Gm7KX) | 3:28 |
 | 12 | [N.Y\. State of Mind](https://open.spotify.com/track/0trHOzAhNpGCsGBEu7dOJo) | [Nas](https://open.spotify.com/artist/20qISvAhX20dpIbOOzGK3q) | [Illmatic](https://open.spotify.com/album/3kEtdS2pH6hKcMU9Wioob1) | 4:53 |
 | 13 | [ATLiens](https://open.spotify.com/track/2vfvGlqCB7oertO5VLE0sz) | [Outkast](https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7) | [ATLiens](https://open.spotify.com/album/1IaBCF26OjgYwUCEPaIyC0) | 3:50 |
-| 14 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
-| 15 | [Check Yo Self \- Remix](https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Bootlegs And B\-Sides](https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo) | 4:33 |
+| 14 | [Check Yo Self \- Remix](https://open.spotify.com/track/3NGT0Td7H4Is1qrlDQJxma) | [Ice Cube](https://open.spotify.com/artist/3Mcii5XWf6E0lrY3Uky4cA), [Das EFX](https://open.spotify.com/artist/0auu2itHTxEdAMRHvx7CyG) | [Bootlegs And B\-Sides](https://open.spotify.com/album/5WMLlQk7xLN9A40jipd3xo) | 4:33 |
+| 15 | [Dear Mama](https://open.spotify.com/track/6tDxrq4FxEL2q15y37tXT9) | [2Pac](https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh) | [Me Against The World](https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk) | 4:40 |
 | 16 | [Survival of the Fittest](https://open.spotify.com/track/7N1Vjtzr1lmmCW9iasQ8YO) | [Mobb Deep](https://open.spotify.com/artist/6O2zJ0tId7g07yzHtX0yap) | [The Infamous](https://open.spotify.com/album/1cCAb1vN8uUsdfEylVmTLs) | 3:44 |
 | 17 | [Can I Kick It?](https://open.spotify.com/track/3Ti0GdlrotgwsAVBBugv0I) | [A Tribe Called Quest](https://open.spotify.com/artist/09hVIj6vWgoCDtT03h8ZCa) | [People's Instinctive Travels and the Paths of Rhythm \(25th Anniversary Edition\)](https://open.spotify.com/album/3kV0i1qqudjf0PGawJ4jck) | 4:11 |
 | 18 | [93 'Til Infinity](https://open.spotify.com/track/0PV1TFUMTBrDETzW6KQulB) | [Souls Of Mischief](https://open.spotify.com/artist/5Rzqmz1zAszembFHGZQuAt) | [93 'til Infinity](https://open.spotify.com/album/7aSjaEi3OQ2aZemcJDhMb1) | 4:46 |
@@ -106,7 +106,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX186v583rmzp.md) - [plain]
 | 96 | [Luchini AKA This Is It](https://open.spotify.com/track/20DcrlNK0NcRknbX4wcEO4) | [Camp Lo](https://open.spotify.com/artist/4oLZx5FplbgfM8DEe9U8LB) | [Uptown Saturday Night](https://open.spotify.com/album/21EglTSwzUorpiXpMBNW2E) | 4:00 |
 | 97 | [Me Or The Papes](https://open.spotify.com/track/1h20yRsf5WeuHbohrlfcCt) | [Jeru The Damaja](https://open.spotify.com/artist/6CsOL9C9iLL0eWKINlDxzQ) | [Wrath Of The Math](https://open.spotify.com/album/7jvuTIYaBYqbTcLZZwXlIZ) | 4:25 |
 | 98 | [Ante Up \(Robbin Hoodz Theory\)](https://open.spotify.com/track/550JPXXPgjr1xqxtKIaX6b) | [M.O.P.](https://open.spotify.com/artist/1BH45DVSTeGBvcYXNCd67g) | [Warriorz](https://open.spotify.com/album/0mw0v424Ribwwrt0oMVB1j) | 4:08 |
-| 99 | [It's Been A Long Time](https://open.spotify.com/track/4sMH75ctV0RVSOHZqXJpHD) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The 18th Letter / The Book Of Life](https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn) | 3:57 |
-| 100 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/5PbFD3AIyunz5HxocduA9e) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:02 |
+| 99 | [Flava in Ya Ear Remix \(feat\. The Notorious B.I.G., LL Cool J, Busta Rhymes, Rampage\)](https://open.spotify.com/track/5PbFD3AIyunz5HxocduA9e) | [Craig Mack](https://open.spotify.com/artist/4akj4uteQQrrGxhX9Rjuyf), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK), [LL COOL J](https://open.spotify.com/artist/1P8IfcNKwrkQP5xJWuhaOC), [Rampage](https://open.spotify.com/artist/6edzoyx2aOvZpdFeCCWU1t), [The Notorious B.I.G.](https://open.spotify.com/artist/5me0Irg2ANcsgc93uaYrpb) | [Bad Boy's 10th Anniversary\- The Hits](https://open.spotify.com/album/46JQVqJpOg8opDLUl1qHT1) | 5:02 |
+| 100 | [It's Been A Long Time](https://open.spotify.com/track/4sMH75ctV0RVSOHZqXJpHD) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE) | [The 18th Letter / The Book Of Life](https://open.spotify.com/album/24ukVVKIZapjS6uDgF1qSn) | 3:57 |
 
 Snapshot ID: `Zn6M9QAAAAByBhz7pLMEJAo7/xFCcfBe`

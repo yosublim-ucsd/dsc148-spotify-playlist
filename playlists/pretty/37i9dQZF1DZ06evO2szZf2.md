@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 
 > This is Mc Dricka\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,796 likes - 50 songs - 3 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,804 likes - 50 songs - 3 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2szZf2.md) - [plain]
 | 42 | [Pretinha do Peitin e do Bundão](https://open.spotify.com/track/5Y9nPcOtIyzT4DeHAqIatb) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Pretinha do Peitin e do Bundão](https://open.spotify.com/album/67QFNXjKS1gwrBhu6STeHl) | 2:48 |
 | 43 | [No Sigilo \(Medley Delas\)](https://open.spotify.com/track/2m5poJAyoqPGFpNPUtnXQo) | [DJ Alex BNH](https://open.spotify.com/artist/6Je1GWROutRKp3J1Kxi0Gl), [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Central dos Bailes](https://open.spotify.com/artist/3fpAxSkLRgqGWNW2VxX15i) | [No Sigilo \(Medley Delas\)](https://open.spotify.com/album/2E5N59Rpxao35WYArCIEzo) | 3:45 |
 | 44 | [Popola \(feat\. Mc Dricka\)](https://open.spotify.com/track/41mbP4HHVq29rVatGp0S2t) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Tropkillaz](https://open.spotify.com/artist/5bzWtCkjIAMgN93gLt56SO), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Mellokillaz](https://open.spotify.com/album/4Tl9UDO3kyio8srwAu4Jnd) | 2:36 |
-| 45 | [Festa na Marina](https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb) | [DJ Gabriel](https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB), [Pedro Guerra](https://open.spotify.com/artist/4oYIGuipaeOKiLrqy6OVjs), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Festa na Marina](https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm) | 2:03 |
+| 45 | [Festa na Marina](https://open.spotify.com/track/1eXwKl0la1JN01oMjFEOmb) | [DJ Gabriel](https://open.spotify.com/artist/3sU7tsAOhfPn0sCPE7z1PB), [Pedro Guerra](https://open.spotify.com/artist/3EtXD1ODCDVhaWv0gbBEt6), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Festa na Marina](https://open.spotify.com/album/3YPoXNtm6t8D1zoeSJJ0Hm) | 2:03 |
 | 46 | [Catucadão](https://open.spotify.com/track/7LryHNIEa0AtcaGjr5744f) | [Shevchenko e Elloco](https://open.spotify.com/artist/0UkgR9OaNIythB9LMU6ND1), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [MC Marley](https://open.spotify.com/artist/02RgHAzh0DVNQR24lBuGOI), [Biel XCamoso](https://open.spotify.com/artist/5P0GB7AHjAnR2Q2RWKWJab) | [Catucadão](https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt) | 2:18 |
 | 47 | [Porque Elas Te Preferem](https://open.spotify.com/track/1XkIme5AQCLEJZTkWGL7rr) | [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Porque Elas Te Preferem](https://open.spotify.com/album/7t8S7eUrVjR1JWASUNNMKr) | 2:40 |
 | 48 | [Vagabunda do Caralho](https://open.spotify.com/track/4hlHoQgfFH0Ke875XAOkvc) | [MC Rick](https://open.spotify.com/artist/1mvpEXClANunyiHFtAXCxt), [Mc Dricka](https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q) | [Rickweek](https://open.spotify.com/album/3hWqmz0ezKfNe2pVW3eoNf) | 2:06 |

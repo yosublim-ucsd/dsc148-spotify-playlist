@@ -1,6 +1,6 @@
 {
   "description": "Spotify Japan proudly introduces the freshest and most talented Japanese artists to the world.",
-  "num_followers": 390223,
+  "num_followers": 390265,
   "original_name": "Tokyo Rising",
   "owner": {
     "name": "Spotify",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-01-15 04:05:25",
       "album": {
-        "name": "Love seeker",
-        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
-      },
-      "artists": [
-        {
-          "name": "JO1",
-          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
-        }
-      ],
-      "duration_ms": 174226,
-      "name": "Love seeker",
-      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
-    },
-    {
-      "added_at": "2025-01-15 04:05:25",
-      "album": {
         "name": "After Rain",
         "url": "https://open.spotify.com/album/1CAomhM0hQtJsGz2vz1Q1e"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 174095,
       "name": "After Rain",
       "url": "https://open.spotify.com/track/4FXsMYjDAPSTzhMfanWku8"
+    },
+    {
+      "added_at": "2025-01-15 04:05:25",
+      "album": {
+        "name": "Love seeker",
+        "url": "https://open.spotify.com/album/0fcbyNShvGubuLdQqpMSbF"
+      },
+      "artists": [
+        {
+          "name": "JO1",
+          "url": "https://open.spotify.com/artist/2koP6FEfIEVk4l2Fe6jFhu"
+        }
+      ],
+      "duration_ms": 174226,
+      "name": "Love seeker",
+      "url": "https://open.spotify.com/track/3tmFGmmYcYdI8tZRSLlc0G"
     },
     {
       "added_at": "2025-01-15 04:05:25",
@@ -1367,6 +1367,22 @@
     {
       "added_at": "2025-01-15 04:05:25",
       "album": {
+        "name": "FORGIVE ME",
+        "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
+      },
+      "artists": [
+        {
+          "name": "CHANMINA",
+          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
+        }
+      ],
+      "duration_ms": 143240,
+      "name": "FORGIVE ME",
+      "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
+    },
+    {
+      "added_at": "2025-01-15 04:05:25",
+      "album": {
         "name": "\u611b\u3092\u3055\u308f\u308c\u305f\u3089",
         "url": "https://open.spotify.com/album/1bN92M7cjUtDxKiTfZeMEA"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 225778,
       "name": "\u611b\u3092\u3055\u308f\u308c\u305f\u3089",
       "url": "https://open.spotify.com/track/5DA6yq9ff76RQ6ol54WU1D"
-    },
-    {
-      "added_at": "2025-01-15 04:05:25",
-      "album": {
-        "name": "FORGIVE ME",
-        "url": "https://open.spotify.com/album/1YKto8Y7O94ThCnyts7ad4"
-      },
-      "artists": [
-        {
-          "name": "CHANMINA",
-          "url": "https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX"
-        }
-      ],
-      "duration_ms": 143240,
-      "name": "FORGIVE ME",
-      "url": "https://open.spotify.com/track/5YCujphGH0H7MbNlYnHtI9"
     },
     {
       "added_at": "2025-01-15 04:05:25",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2025-01-15 04:05:25",
       "album": {
-        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 243177,
-      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
-      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
-    },
-    {
-      "added_at": "2025-01-15 04:05:25",
-      "album": {
         "name": "Cult.",
         "url": "https://open.spotify.com/album/5LB9Uee8CNhGPEIiyYOk0o"
       },
@@ -1491,6 +1475,22 @@
     {
       "added_at": "2025-01-15 04:05:25",
       "album": {
+        "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+        "url": "https://open.spotify.com/album/6cX6EIVlZ8fpJvWbPF0jmk"
+      },
+      "artists": [
+        {
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
+        }
+      ],
+      "duration_ms": 243177,
+      "name": "\u4f55\u8272\u3067\u3082\u306a\u3044\u82b1",
+      "url": "https://open.spotify.com/track/50tPNAlIyAbQtixQQ0huP5"
+    },
+    {
+      "added_at": "2025-01-15 04:05:25",
+      "album": {
         "name": "L7 Blues",
         "url": "https://open.spotify.com/album/4hACNva5MygOCnqS3xaTvg"
       },
@@ -1503,6 +1503,22 @@
       "duration_ms": 141974,
       "name": "L7 Blues",
       "url": "https://open.spotify.com/track/3jlz3hv1rjQZSrrAtoRlXR"
+    },
+    {
+      "added_at": "2025-01-15 04:05:25",
+      "album": {
+        "name": "Superstar",
+        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
+      },
+      "artists": [
+        {
+          "name": "Ayumu Imazu",
+          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
+        }
+      ],
+      "duration_ms": 200268,
+      "name": "Superstar",
+      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
     },
     {
       "added_at": "2025-01-15 04:05:25",
@@ -1527,22 +1543,6 @@
       "duration_ms": 124933,
       "name": "CHEESE CAKE",
       "url": "https://open.spotify.com/track/46qwh8ErZ9HQZS11L87Llm"
-    },
-    {
-      "added_at": "2025-01-15 04:05:25",
-      "album": {
-        "name": "Superstar",
-        "url": "https://open.spotify.com/album/6leH4noIUVeYeirCICzGHi"
-      },
-      "artists": [
-        {
-          "name": "Ayumu Imazu",
-          "url": "https://open.spotify.com/artist/51fH9mmZDwz1mSgUmgQIjM"
-        }
-      ],
-      "duration_ms": 200268,
-      "name": "Superstar",
-      "url": "https://open.spotify.com/track/3awBg1GqxcmYzrjv4GYdzG"
     },
     {
       "added_at": "2025-01-15 04:05:25",
@@ -1683,6 +1683,22 @@
     {
       "added_at": "2025-01-15 04:05:25",
       "album": {
+        "name": "\u30ab\u30eb\u30c8",
+        "url": "https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb"
+      },
+      "artists": [
+        {
+          "name": "Tele",
+          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+        }
+      ],
+      "duration_ms": 228913,
+      "name": "\u30ab\u30eb\u30c8",
+      "url": "https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU"
+    },
+    {
+      "added_at": "2025-01-15 04:05:25",
+      "album": {
         "name": "AOS",
         "url": "https://open.spotify.com/album/1rY6739giM1uBqMwc1stBe"
       },
@@ -1695,22 +1711,6 @@
       "duration_ms": 220040,
       "name": "AOS",
       "url": "https://open.spotify.com/track/7wUXGC5UqNIL8Rj4siTwzr"
-    },
-    {
-      "added_at": "2025-01-15 04:05:25",
-      "album": {
-        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
-      },
-      "artists": [
-        {
-          "name": "Hikaru Utada",
-          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
-        }
-      ],
-      "duration_ms": 254291,
-      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
-      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2025-01-15 04:05:25",
@@ -1731,18 +1731,18 @@
     {
       "added_at": "2025-01-15 04:05:25",
       "album": {
-        "name": "\u30ab\u30eb\u30c8",
-        "url": "https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb"
+        "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+        "url": "https://open.spotify.com/album/2imXyePzAn9t5cfc9QWPwk"
       },
       "artists": [
         {
-          "name": "Tele",
-          "url": "https://open.spotify.com/artist/2DesRdo7rppo0VC8cR3vsf"
+          "name": "Hikaru Utada",
+          "url": "https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2"
         }
       ],
-      "duration_ms": 228913,
-      "name": "\u30ab\u30eb\u30c8",
-      "url": "https://open.spotify.com/track/1ejjFGLrQUzOhbthe2fYAU"
+      "duration_ms": 254291,
+      "name": "Gold\u3000\uff5e\u307e\u305f\u9022\u3046\u65e5\u307e\u3067\uff5e",
+      "url": "https://open.spotify.com/track/6hasQfFdygcQow58WNA614"
     },
     {
       "added_at": "2025-01-15 04:05:25",

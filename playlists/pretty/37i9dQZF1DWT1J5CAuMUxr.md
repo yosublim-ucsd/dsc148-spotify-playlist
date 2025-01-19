@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1J5CAuMUxr.md) - [plain]
 
 > La esencia ranchera del mariachi se une al romanticismo de tus artistas pop favoritos\. Natalia Jiménez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 179,456 likes - 85 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 179,481 likes - 85 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

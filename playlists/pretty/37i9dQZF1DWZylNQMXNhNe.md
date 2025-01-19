@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Boombeat, Jaloo
 
-[Spotify](https://open.spotify.com/user/spotify) - 222,724 likes - 60 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 222,714 likes - 60 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,14 +24,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 14 | [Sexta as 7](https://open.spotify.com/track/0fzuQm09JHIw7JWY8A3qFa) | [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy) | [Sexta as 7](https://open.spotify.com/album/0D7TTFellfpY4ZLqlcpwtL) | 3:07 |
 | 15 | [Falta de Mim \- Ao Vivo](https://open.spotify.com/track/2IGh6DnMiX408xwoJP9Lmb) | [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [Mari Fernandez](https://open.spotify.com/artist/0BHm7qbh3ENxvXzkQAG7MP) | [Numanice \#3 \(Ao Vivo\)](https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af) | 2:34 |
 | 16 | [SEQUÊNCIA COLOCADÃO](https://open.spotify.com/track/4zDaVEHAvqPiIQN7jKtmhM) | [PEDRO SAMPAIO](https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [Delano](https://open.spotify.com/artist/5TmW0cFVEYEbypgTdSNNDn) | [SEQUÊNCIA COLOCADÃO](https://open.spotify.com/album/5XEZADQba0OnNJGOGGXqjq) | 1:43 |
-| 17 | [5 Minutinhos \- Ao Vivo](https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:05 |
-| 18 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 |
+| 17 | [Me Lambe](https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPER](https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD) | 2:55 |
+| 18 | [5 Minutinhos \- Ao Vivo](https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I) | [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw) | [Serenata da GG, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK) | 3:05 |
 | 19 | [Sorte \- Ao Vivo](https://open.spotify.com/track/5OwOtdiPrzZHq0WQ7QYOKl) | [Silva](https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Silva & Liniker \(Ao Vivo\)](https://open.spotify.com/album/7KLR11ffMXPDqbsXVT9GtG) | 3:50 |
 | 20 | [Amor Traumatizado](https://open.spotify.com/track/6Tlsi4Nx5kVBkjKnAwxZVH) | [Carol Biazin](https://open.spotify.com/artist/5dYdZmGyv2UTIN1XMe1drN) | [Amor Traumatizado](https://open.spotify.com/album/1mn2Kwp5yl0ztp2JkPGnKB) | 3:10 |
 | 21 | [SEREIA](https://open.spotify.com/track/3ytU0WnU96nOQDmiuOEkPC) | [Lia Clark](https://open.spotify.com/artist/3bY8SmKlzUFImE0mt0zDjY), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [LIA CLARK](https://open.spotify.com/album/1r4ULdTciiU79dFkXWhMJO) | 2:35 |
 | 22 | [FUDER CHAPADA RMX](https://open.spotify.com/track/1dd5D9BYGZK9dcyIkNneAH) | [Kaya Conky](https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe), [Danny Bond](https://open.spotify.com/artist/7Eli9jWjQ5F1d06clIH46R), [S4TAN](https://open.spotify.com/artist/0NGWlVN1aoxbq5wXeoHFvw), [DJ RaMeMes \(O DESTRUIDOR DO FUNK\)](https://open.spotify.com/artist/6Xk7H8ufVBIZcgGWAhY9b3) | [FUDER CHAPADA RMX](https://open.spotify.com/album/4R700TYguI6aw5B7WN2yGV) | 2:54 |
-| 23 | [O Triste É Que Eu Te Amo](https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:32 |
-| 24 | [Electric Fish](https://open.spotify.com/track/71nZeuoiMnfxISvp7luJy2) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama de Gato Que Eu Sou Sua](https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW) | 4:12 |
+| 23 | [Electric Fish](https://open.spotify.com/track/71nZeuoiMnfxISvp7luJy2) | [Ana Frango Elétrico](https://open.spotify.com/artist/7uvxsk688pwnBNA62cTKS1) | [Me Chama de Gato Que Eu Sou Sua](https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW) | 4:12 |
+| 24 | [O Triste É Que Eu Te Amo](https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w) | [Jão](https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2) | [SUPERNOVA](https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf) | 3:32 |
 | 25 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 3:06 |
 | 26 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 |
 | 27 | [Baby 95](https://open.spotify.com/track/6Qf9UJy2DJEKnLE5DAySiN) | [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Baby 95](https://open.spotify.com/album/6tje1i1T0fit8GEe2cdHKY) | 5:18 |
@@ -67,6 +67,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 57 | [TREMBARBIE](https://open.spotify.com/track/7yx2ojlzOVGT4xSDY7mzPw) | [Charm Mone](https://open.spotify.com/artist/6SwZ7tPzqkYRTNBVNshv7c), [Tshawtty](https://open.spotify.com/artist/7aCVM3RVhiKY8OtbueWlLR), [Carlos do Complexo](https://open.spotify.com/artist/6ub5DtvWZmTMiIuKMf0Bi2) | [CORRE](https://open.spotify.com/album/4cUvIR6DfafOnGzeLlfayI) | 2:46 |
 | 58 | [ARROCHA O NÓ](https://open.spotify.com/track/5ixl6ksErzwIkmSHZ2LAA2) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe) | [ARROCHA O NÓ](https://open.spotify.com/album/74o7mwocj2QW0ZM1rFlQV6) | 2:12 |
 | 59 | [Me Bate](https://open.spotify.com/track/4nIbgRXB46ucTtEYnSSMKN) | [A Travestis](https://open.spotify.com/artist/00Jb0oU8RUPJgKTWKsNCxw), [lia mersi](https://open.spotify.com/artist/4SphBMSSyBqb1HR4o0TOze) | [Me Bate](https://open.spotify.com/album/0HdsFRrZcOP2YsviiLZkSx) | 1:51 |
-| 60 | [O Menino que Mexe Comigo](https://open.spotify.com/track/5panpHdwYvwP6OS2tYlF98) | [Hiran](https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW) | [Jaqueira](https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M) | 1:37 |
+| 60 | [Pra Nós](https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5) | [MEL](https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L), [Pepita](https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa), [Raquel](https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR) | [Pra Nós](https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L) | 2:41 |
 
 Snapshot ID: `ZwU3wAAAAADBwDlGl32JtXFJqezT5wgA`

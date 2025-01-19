@@ -1,6 +1,6 @@
 {
   "description": "Gr\u00fcezi! This is 100% made in Switzerland. ",
-  "num_followers": 36954,
+  "num_followers": 36959,
   "original_name": "Swiss Made",
   "owner": {
     "name": "Spotify",
@@ -371,18 +371,18 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "For You",
-        "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
+        "name": "How Much Can a Heart Break",
+        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
       },
       "artists": [
         {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+          "name": "Pegasus",
+          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
         }
       ],
-      "duration_ms": 167450,
-      "name": "For You",
-      "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
+      "duration_ms": 195055,
+      "name": "How Much Can a Heart Break",
+      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -407,18 +407,34 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "How Much Can a Heart Break",
-        "url": "https://open.spotify.com/album/6UO64Z8AgMqPdSgoljbaRx"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/6Rutg4L3Or3wdZgmH4muOV"
       },
       "artists": [
         {
-          "name": "Pegasus",
-          "url": "https://open.spotify.com/artist/6IWxOu9w3PtIpLa7A178ad"
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
         }
       ],
-      "duration_ms": 195055,
-      "name": "How Much Can a Heart Break",
-      "url": "https://open.spotify.com/track/0NAzeWAZjFBFzTorfZS9DF"
+      "duration_ms": 167450,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/4cwymvMH81iHgtQJsq12z1"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "No Time to Cry",
+        "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
+      },
+      "artists": [
+        {
+          "name": "Chiara Castelli",
+          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "No Time to Cry",
+      "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -439,22 +455,6 @@
       "duration_ms": 141479,
       "name": "Don't Go",
       "url": "https://open.spotify.com/track/7ewh7KBEKWY0zufqwpuTWf"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "No Time to Cry",
-        "url": "https://open.spotify.com/album/7BzVEVmymCnsyeSrq20MnC"
-      },
-      "artists": [
-        {
-          "name": "Chiara Castelli",
-          "url": "https://open.spotify.com/artist/6wi2d3tk31DPhUagWLgR33"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "No Time to Cry",
-      "url": "https://open.spotify.com/track/3Sb2oR0HGNPyhsx1qnJiDh"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Girlfriend",
-        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
-      },
-      "artists": [
-        {
-          "name": "MAREA",
-          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
-        }
-      ],
-      "duration_ms": 167701,
-      "name": "Girlfriend",
-      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Rollen in den Norden",
         "url": "https://open.spotify.com/album/1nD5KpzwWkHiJPKZMH273C"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 150648,
       "name": "Rollen in den Norden",
       "url": "https://open.spotify.com/track/6azpoZEIlXsc4SkmfcOskn"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Girlfriend",
+        "url": "https://open.spotify.com/album/5MARdnZTyKQohhJuNvZN1K"
+      },
+      "artists": [
+        {
+          "name": "MAREA",
+          "url": "https://open.spotify.com/artist/4IKPB8W9WIyQ7imXh9x63Y"
+        }
+      ],
+      "duration_ms": 167701,
+      "name": "Girlfriend",
+      "url": "https://open.spotify.com/track/2eKJuuFWUGZQUpUMGZCj8u"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Julia?",
+        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
+      },
+      "artists": [
+        {
+          "name": "Nickless",
+          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
+        }
+      ],
+      "duration_ms": 224464,
+      "name": "Julia?",
+      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Colorblind",
         "url": "https://open.spotify.com/album/2sWFFkdTvfXKd60zupdNN3"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 171696,
       "name": "Can't Be Loved",
       "url": "https://open.spotify.com/track/69H5EfyNRLIKd0WAPNQr0T"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Julia?",
-        "url": "https://open.spotify.com/album/0yb32DY8k0di8YqzkyQAKi"
-      },
-      "artists": [
-        {
-          "name": "Nickless",
-          "url": "https://open.spotify.com/artist/1qhcP0Cfa1bJtE8JmbQ4Ea"
-        }
-      ],
-      "duration_ms": 224464,
-      "name": "Julia?",
-      "url": "https://open.spotify.com/track/6AUxnfBgpjkcM5qBgGGlPD"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -795,22 +795,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Stories of the XXI",
-        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
-      },
-      "artists": [
-        {
-          "name": "Bastian Baker",
-          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
-        }
-      ],
-      "duration_ms": 175093,
-      "name": "Call Me in L.A.",
-      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "I'll Never Tire of Loving You",
         "url": "https://open.spotify.com/album/5zFAF4vS3ojw4XR8wBJC5R"
       },
@@ -839,6 +823,22 @@
       "duration_ms": 162929,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/7EiDTXXFEKSAG5Uxm1ZRnb"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Stories of the XXI",
+        "url": "https://open.spotify.com/album/5nGM72Vr3X2zq1bqxtC6GG"
+      },
+      "artists": [
+        {
+          "name": "Bastian Baker",
+          "url": "https://open.spotify.com/artist/1mwbzhowyG1SDxFSWyLeKC"
+        }
+      ],
+      "duration_ms": 175093,
+      "name": "Call Me in L.A.",
+      "url": "https://open.spotify.com/track/0AQa2zcUia32ZfDTUqL617"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -875,22 +875,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Losing My Mind",
-        "url": "https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH"
-      },
-      "artists": [
-        {
-          "name": "Argyle",
-          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
-        }
-      ],
-      "duration_ms": 190621,
-      "name": "Losing My Mind",
-      "url": "https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Milchstrass (feat. Aaron Asteria)",
         "url": "https://open.spotify.com/album/2FTCdDCysfUceC2dPBSKdL"
       },
@@ -911,38 +895,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Warrior",
-        "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
-      },
-      "artists": [
-        {
-          "name": "Amaya Gloor",
-          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
-        }
-      ],
-      "duration_ms": 148720,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "Long Year",
-        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
-      },
-      "artists": [
-        {
-          "name": "Remo Forrer",
-          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
-        }
-      ],
-      "duration_ms": 196246,
-      "name": "Long Year",
-      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "As Long as You Stay Here",
         "url": "https://open.spotify.com/album/0LLsEHdoL5UfP1Ue3upLGb"
       },
@@ -959,18 +911,34 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Counting Days",
-        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
+        "name": "Losing My Mind",
+        "url": "https://open.spotify.com/album/7nVYW5nmxvdUsKdGwIdmdH"
       },
       "artists": [
         {
-          "name": "Jared Lembo",
-          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
+          "name": "Argyle",
+          "url": "https://open.spotify.com/artist/341j56Mxd1Dm9mOUC2OBfg"
         }
       ],
-      "duration_ms": 164501,
-      "name": "Counting Days",
-      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
+      "duration_ms": 190621,
+      "name": "Losing My Mind",
+      "url": "https://open.spotify.com/track/3dB12m9FLxV7ezUR7QTas7"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Warrior",
+        "url": "https://open.spotify.com/album/5ZE71v7il62OZrxBGIDjZa"
+      },
+      "artists": [
+        {
+          "name": "Amaya Gloor",
+          "url": "https://open.spotify.com/artist/7zq1dJ7R6GzLynDM6DPZ4x"
+        }
+      ],
+      "duration_ms": 148720,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/0OhXtT9H8ssYendcnOvEhG"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -991,18 +959,34 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Where Were You",
-        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
+        "name": "Counting Days",
+        "url": "https://open.spotify.com/album/61hyS4rmGow2ddAzSQkfr2"
       },
       "artists": [
         {
-          "name": "Naomi Lareine",
-          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+          "name": "Jared Lembo",
+          "url": "https://open.spotify.com/artist/7m40p3LDka0BxsiX0tZT9g"
         }
       ],
-      "duration_ms": 162836,
-      "name": "Where Were You",
-      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+      "duration_ms": 164501,
+      "name": "Counting Days",
+      "url": "https://open.spotify.com/track/6ujzmWSyfa57nVtjNO54G0"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Long Year",
+        "url": "https://open.spotify.com/album/403VoMw8bj4b12FhJI7RuI"
+      },
+      "artists": [
+        {
+          "name": "Remo Forrer",
+          "url": "https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk"
+        }
+      ],
+      "duration_ms": 196246,
+      "name": "Long Year",
+      "url": "https://open.spotify.com/track/02GZkec6yQg08auFuGqlsc"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -1023,6 +1007,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Where Were You",
+        "url": "https://open.spotify.com/album/4gNbqvaLePlFJDme8TfKeG"
+      },
+      "artists": [
+        {
+          "name": "Naomi Lareine",
+          "url": "https://open.spotify.com/artist/0umAOumGRDuZ2elvqjaK3i"
+        }
+      ],
+      "duration_ms": 162836,
+      "name": "Where Were You",
+      "url": "https://open.spotify.com/track/0wQX5IoDmttPaz7imkbrCQ"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Bored Of The Circus",
         "url": "https://open.spotify.com/album/4oothiJCmPORbNYinRinfo"
       },
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
-        "name": "Wasteland",
-        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
-      },
-      "artists": [
-        {
-          "name": "ZIAN",
-          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
-        }
-      ],
-      "duration_ms": 163712,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
         "name": "Floating",
         "url": "https://open.spotify.com/album/3b5Z4RX4Ew5ivVQ8FHkHD5"
       },
@@ -1067,6 +1051,22 @@
       "duration_ms": 170146,
       "name": "Floating",
       "url": "https://open.spotify.com/track/6KF1PU58VkEa4yhWApIyCC"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
+        "name": "Wasteland",
+        "url": "https://open.spotify.com/album/04XF5WXiZptRv11spXa0QB"
+      },
+      "artists": [
+        {
+          "name": "ZIAN",
+          "url": "https://open.spotify.com/artist/0YQgIcmKel8h48AYxofu4J"
+        }
+      ],
+      "duration_ms": 163712,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/5fTSVKzNqVpuBsv4O7JDOW"
     },
     {
       "added_at": "2025-01-10 03:33:11",
@@ -1127,6 +1127,22 @@
     {
       "added_at": "2025-01-10 03:33:11",
       "album": {
+        "name": "Soft",
+        "url": "https://open.spotify.com/album/6j6zpnvnaBXfhhufqhPAbn"
+      },
+      "artists": [
+        {
+          "name": "Mel D",
+          "url": "https://open.spotify.com/artist/5UXFqyAj973tF87Entr44J"
+        }
+      ],
+      "duration_ms": 183093,
+      "name": "Soft",
+      "url": "https://open.spotify.com/track/3KCbhxaG26Mr39MuRJGaxB"
+    },
+    {
+      "added_at": "2025-01-10 03:33:11",
+      "album": {
         "name": "Julia",
         "url": "https://open.spotify.com/album/59GWFnfxZuC00B708ZeKvk"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 194379,
       "name": "Julia",
       "url": "https://open.spotify.com/track/6CTHHyCpJqqZiHQ8IdTKX3"
-    },
-    {
-      "added_at": "2025-01-10 03:33:11",
-      "album": {
-        "name": "I Hate The Sun",
-        "url": "https://open.spotify.com/album/17evjTTTBinbk36ZAjd2kx"
-      },
-      "artists": [
-        {
-          "name": "Kings Elliot",
-          "url": "https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy"
-        }
-      ],
-      "duration_ms": 202623,
-      "name": "I Hate The Sun",
-      "url": "https://open.spotify.com/track/5Ylf778mAXBMuEw5eJl1fH"
     },
     {
       "added_at": "2025-01-10 03:33:11",

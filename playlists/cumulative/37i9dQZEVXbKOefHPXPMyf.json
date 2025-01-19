@@ -786,7 +786,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 206492,
       "name": "5 Years Of Finder - Carl Cox Remix Edit",
       "url": "https://open.spotify.com/track/5O5Dw4CfzDt1aV6UKq5xpk"
@@ -9856,7 +9856,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 134097,
       "name": "CATFISH",
       "url": "https://open.spotify.com/track/3QQvSQKV8YmQxGolwwWe59"
@@ -14930,6 +14930,24 @@
     {
       "album": {
         "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
+    },
+    {
+      "album": {
+        "name": "Hozier (Special Edition)",
         "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
       },
       "artists": [
@@ -14940,7 +14958,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 257893,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
@@ -19880,6 +19898,28 @@
       "duration_ms": 295533,
       "name": "Fix You",
       "url": "https://open.spotify.com/track/7LVHVU3tWfcxj5aiPFEW4Q"
+    },
+    {
+      "album": {
+        "name": "flashes",
+        "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "flashes",
+      "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
     },
     {
       "album": {
@@ -27030,7 +27070,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 164318,
       "name": "LA CUEVA",
       "url": "https://open.spotify.com/track/14vcO1XwnWzz4RJnUAQSkW"
@@ -30643,6 +30683,28 @@
     },
     {
       "album": {
+        "name": "LUCETE",
+        "url": "https://open.spotify.com/album/2wiimfL08pnzE0magP7Qey"
+      },
+      "artists": [
+        {
+          "name": "El Jayy",
+          "url": "https://open.spotify.com/artist/67WZCRo6isOQY1nB4X08oE"
+        },
+        {
+          "name": "El Yeyo PP",
+          "url": "https://open.spotify.com/artist/3r0UTZrNnAhbXmmfF91TD2"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185391,
+      "name": "LUCETE",
+      "url": "https://open.spotify.com/track/1AwXQzkuyy0upeDRXwAEil"
+    },
+    {
+      "album": {
         "name": "LUCETE (EL JAY x EL YEYO PP)",
         "url": "https://open.spotify.com/album/4DezCxoocMWeatovyUesjj"
       },
@@ -30654,7 +30716,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 185333,
       "name": "LUCETE (EL JAY x EL YEYO PP)",
       "url": "https://open.spotify.com/track/5GH8Hrm6abcX9AFUTExX2f"
@@ -32604,7 +32666,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 212002,
       "name": "ME JALO",
       "url": "https://open.spotify.com/track/3D24ErT1MMmUfXWotSj2A2"
@@ -36664,7 +36726,7 @@
       ],
       "date_added": "2024-12-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 126832,
       "name": "NISSAN ALTIMA",
       "url": "https://open.spotify.com/track/2dKkVF2m160z0RNDN2dddc"
@@ -37076,7 +37138,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 284466,
       "name": "No One Noticed (Extended Spanish)",
       "url": "https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze"
@@ -39321,6 +39383,24 @@
     },
     {
       "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2025-01-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
+    },
+    {
+      "album": {
         "name": "un mech\u00f3n de pelo",
         "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
       },
@@ -39762,7 +39842,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 215327,
       "name": "Pancad\u00e3o New Som - Mel\u00f4 de jog Future Remix PVP",
       "url": "https://open.spotify.com/track/2qfwJirVvrA8bVvq9zH7yB"
@@ -42108,24 +42188,6 @@
       "duration_ms": 149250,
       "name": "Por Verte Feliz",
       "url": "https://open.spotify.com/track/6dI0iFnBCj9YkcWgXeoRkx"
-    },
-    {
-      "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "date_added": "2025-01-05",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149440,
-      "name": "PORNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "album": {
@@ -44986,7 +45048,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-31",
+      "date_removed": null,
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
@@ -59240,6 +59302,24 @@
       "duration_ms": 212720,
       "name": "XQ ERES AS\u00cd",
       "url": "https://open.spotify.com/track/5V3CFqzpQSp3frtlVp4T3D"
+    },
+    {
+      "album": {
+        "name": "EMDP (The Last Album)",
+        "url": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
     },
     {
       "album": {

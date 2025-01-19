@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 
 > late night vibes – notifications off.
 
-[Spotify](https://open.spotify.com/user/spotify) - 146,265 likes - 136 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 146,416 likes - 136 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX90ssyl6mXB2.md) - [plain]
 | 9 | [M a k e I t T o T h e M o r n i n g](https://open.spotify.com/track/12VH4g5pTMZmrUVzfJq7F7) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [PARTYNEXTDOOR 4 \(P4\)](https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K) | 2:48 |
 | 10 | [Downtown](https://open.spotify.com/track/308jljtqrUhq4Rf51zUrNj) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Alan Voung](https://open.spotify.com/artist/1LCkAp8OSUo48W6B4bjNb3) | [Made Me This Way](https://open.spotify.com/album/368u9D9vZjmbmXwsE8WmZB) | 3:31 |
 | 11 | [body2body](https://open.spotify.com/track/7fF0vAuRH2Pt1LsllMGtaf) | [Kelz2busy](https://open.spotify.com/artist/7rk80kubaj220eDZQvFYU6) | [body2body](https://open.spotify.com/album/1bGOog5wRSuYtXR4pYxggJ) | 2:43 |
-| 12 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/1LLPPqAA6Oz43N8JeITYdx) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
+| 12 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/7nLd7fJANdOTlg7A2XpfmS) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
 | 13 | [roll da dice](https://open.spotify.com/track/1zV2mbt3vg6yVr6Sb1PFjz) | [4batz](https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [roll da dice](https://open.spotify.com/album/0tOKRPGHYTIqOmWQQUFtFh) | 3:10 |
 | 14 | [Late Nite Slider Music](https://open.spotify.com/track/1D4VYPt5J1znGmzeMGgHHx) | [Karri](https://open.spotify.com/artist/6EYGGkM2JDpX5CjHpGkiME) | [Late Nite Slider Music](https://open.spotify.com/album/3xhkpLspxHrvkZQ9nPUTJZ) | 3:13 |
 | 15 | [AFTER HOURS](https://open.spotify.com/track/2ss03wfWSV9g3DdvDklHH2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [AFTER HOURS](https://open.spotify.com/album/0C4vpjaKHhAAcd0fo9hWaT) | 2:53 |

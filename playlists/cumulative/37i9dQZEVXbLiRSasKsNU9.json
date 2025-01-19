@@ -16160,10 +16160,28 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 257560,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
+    },
+    {
+      "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257893,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
     },
     {
       "album": {
@@ -44901,6 +44919,24 @@
     },
     {
       "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
+    },
+    {
+      "album": {
         "name": "P.S. I LOVE YOU",
         "url": "https://open.spotify.com/album/3AIGFmb0M86SOig1ghbxvq"
       },
@@ -47228,7 +47264,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 206627,
       "name": "PIToRRO DE COCO",
       "url": "https://open.spotify.com/track/14QaXYIK3K3QPtezqxRRPN"
@@ -47820,24 +47856,6 @@
       "duration_ms": 149250,
       "name": "Por Verte Feliz",
       "url": "https://open.spotify.com/track/6dI0iFnBCj9YkcWgXeoRkx"
-    },
-    {
-      "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "date_added": "2025-01-03",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149440,
-      "name": "PORNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "album": {
@@ -64878,7 +64896,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-13",
+      "date_removed": null,
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"

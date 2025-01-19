@@ -4,7 +4,7 @@
 
 > 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: 니브 \(NIve\)\)
 
-462 songs - 1 day 1 hr 8 min
+463 songs - 1 day 1 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,6 +154,7 @@
 | [Fantasy \(feat\. Gary & ALi\)](https://open.spotify.com/track/1QOot7m7p0cDBL0Ei4qpCJ) | [Babylon](https://open.spotify.com/artist/3P16F9giedxmc5238b66bo), [GARY](https://open.spotify.com/artist/5myBH2YqzOgyWoTKCsydAi), [ALi](https://open.spotify.com/artist/62CcVzIaV3dNGEmE12YAL9) | [EGO 90'S PART 2](https://open.spotify.com/album/7zCPiOJpqtj70zmIjZIo0c) | 3:48 | 2022-12-15 | 2023-07-08 |
 | [faraway](https://open.spotify.com/track/6MysgWeikCdIVrDhPVSCZU) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [faraway](https://open.spotify.com/album/13csUC6m7mKJpmyfWG8bz8) | 3:49 | 2022-10-28 | 2023-07-08 |
 | [FAVORITE](https://open.spotify.com/track/4sSo8hmQ1g7qt1iE1uMRDr) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:07 | 2022-07-27 | 2023-01-14 |
+| [Feeling You](https://open.spotify.com/track/5wvADQcJzUbNE1s1SnKTC3) | [muhpy](https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4) | [Feeling You](https://open.spotify.com/album/0l1XFnHjuGUgWQd3ELfi6c) | 2:45 | 2025-01-18 |  |
 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 | 2024-11-29 |  |
 | [Fever](https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 3:00 | 2024-01-26 | 2024-05-28 |
 | [Film \(Feat\. Woshi\)](https://open.spotify.com/track/7apLdgVlb0oNefPZ4v1NOY) | [JOPH](https://open.spotify.com/artist/3Jn4TDQyolues3v10Ncj7D), [Woshi](https://open.spotify.com/artist/0yaXJ7iu4X7m7OS8qaOsHq) | [Film \(Feat\. Woshi\)](https://open.spotify.com/album/42ATmPhbmPJrjLsoUjKEcU) | 3:20 | 2023-01-20 | 2023-08-18 |
@@ -271,7 +272,7 @@
 | [Lucid Dream](https://open.spotify.com/track/6cLJ7dV0buAC5TfcfSVmcw) | [LEEBADA](https://open.spotify.com/artist/17vCFclNbTzsDfPgsaWaQO) | [Lucid Dream](https://open.spotify.com/album/6WuRU0IlGtQqBcDC3BKBNU) | 3:15 | 2022-05-28 | 2022-07-28 |
 | [Lychee Lime Juice](https://open.spotify.com/track/03IxmjvEqfzHCw9ivFX3pm) | [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [SUMMER FREAK: Sun, Rain, Love](https://open.spotify.com/album/0rawyUTz3wjP4gVFYAloIM) | 4:30 | 2024-08-01 | 2024-09-14 |
 | [Magnolia](https://open.spotify.com/track/7gIeUVYUGkXX6qKyfhSvCT) | [VIN](https://open.spotify.com/artist/1mmjD0oS7NfQKd5NaIzkj4) | [Magnolia](https://open.spotify.com/album/47VCVcsD6bPIYiIqosclMh) | 3:24 | 2024-09-13 | 2024-11-30 |
-| [Malibu](https://open.spotify.com/track/4dhQCCfrY8a4EXGZWZ4dBS) | [KIND](https://open.spotify.com/artist/1gWxpQhTiJXSFMRnwDZ7LO), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Malibu](https://open.spotify.com/album/5AI1aMZ3MZQAjr3EMVGrUv) | 3:18 | 2024-09-02 |  |
+| [Malibu](https://open.spotify.com/track/4dhQCCfrY8a4EXGZWZ4dBS) | [KIND](https://open.spotify.com/artist/1gWxpQhTiJXSFMRnwDZ7LO), [Ha Dong Qn](https://open.spotify.com/artist/7gjNpUcKOWzo2jnN7VsxoQ), [Brick](https://open.spotify.com/artist/0WY9YPM5zCQZhIzR7wtwP0) | [Malibu](https://open.spotify.com/album/5AI1aMZ3MZQAjr3EMVGrUv) | 3:18 | 2024-09-02 | 2025-01-19 |
 | [Man Like You](https://open.spotify.com/track/4g93jayBWXtNJfpfTUFq40) | [Hannah Jang](https://open.spotify.com/artist/3cWtiOT7kvkAsISTRp1eK8), [Los](https://open.spotify.com/artist/396SgLoc5TB6oqatyTy2HD) | [Man Like You](https://open.spotify.com/album/6Jc77yFtdk1idMAF5DrhKV) | 2:38 | 2024-09-20 |  |
 | [Maybe](https://open.spotify.com/track/74jt4ibS6WxQD4fvQRnz0Y) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3) | [Maybe](https://open.spotify.com/album/4hKJCeZ9ZqXh8pnexuL5jg) | 3:30 | 2022-06-13 | 2022-10-05 |
 | [Mean](https://open.spotify.com/track/0aY6RRY09db64dX7KXvF1S) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Mean](https://open.spotify.com/album/5wRFy9LcZeGSzMFQUrIcPs) | 3:27 | 2023-10-05 | 2024-02-23 |

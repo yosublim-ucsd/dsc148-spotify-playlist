@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 
 > This playlist features gospel songs from Africa and beyond aimed at bringing you up close with the Lord\. Cover:  <a href=https://open.spotify.com/artist/22eqNziE8ta7JfDrEkUx8H?si=iMXNw6ajR7CLOUWYr1j2YQ>Malcolm Rue</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,185 likes - 50 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,189 likes - 50 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -48,15 +48,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vgStRdrKer.md) - [plain]
 | 38 | [Wonderful Merciful Saviour](https://open.spotify.com/track/7MQS6PLjtkz8BLWZw0HucY) | [CalledOut Music](https://open.spotify.com/artist/3VY7IlU2547DIC1ca88lRH) | [Retro Worship](https://open.spotify.com/album/6BCCYStZ2GjzRAOwJUPWQm) | 2:52 |
 | 39 | [Amaram Onyewem \- Live](https://open.spotify.com/track/4hICkRdqsvZnu4B0gsY47v) | [Mercy Chinwo](https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp), [Pastor Jerry Eze](https://open.spotify.com/artist/5UpWOLAQgVUxzukbqKX3hn) | [Amaram Onyewem \(Live\)](https://open.spotify.com/album/0xSHtIqcHSX3OBLolbuKgP) | 10:42 |
 | 40 | [Good God II](https://open.spotify.com/track/19GRiA2ef367zIrmAm54e1) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Good God II](https://open.spotify.com/album/2Lr7qw2RPpX6YXu2HjxEMm) | 3:01 |
-| 41 | [I'm Ready](https://open.spotify.com/track/4MeBfW1xgl07PR7pnE0Bwz) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [I'm Ready](https://open.spotify.com/album/6S7gLUI8nQr3HRW79IjTaH) | 3:05 |
-| 42 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 |
+| 41 | [Kama Si We](https://open.spotify.com/track/57Vr7KK65zhmFiZqObKAnS) | [Kanjii Mbugua](https://open.spotify.com/artist/2x6rpLyqNPMMOyDgSvuMWY), [Pambio](https://open.spotify.com/artist/3EuZWendm4t9IRhkVCnrYs) | [Kama Si We](https://open.spotify.com/album/1q8AY8q98nPV8Rgkv5YSWw) | 4:07 |
+| 42 | [I'm Ready](https://open.spotify.com/track/4MeBfW1xgl07PR7pnE0Bwz) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5), [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [I'm Ready](https://open.spotify.com/album/6S7gLUI8nQr3HRW79IjTaH) | 3:05 |
 | 43 | [After All These Years](https://open.spotify.com/track/3ruNtWNKVsgAZ4YF9ybSl6) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [after all these years](https://open.spotify.com/album/3GnDcrTrQitO9vZq62Stcs) | 4:28 |
-| 44 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God \(Live\)](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 |
-| 45 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 |
+| 44 | [Higher](https://open.spotify.com/track/5hg8qrfIWqQkLBKSA4eK4j) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu) | [Higher](https://open.spotify.com/album/5gCr6gapQlJfsruHPjdqPj) | 2:42 |
+| 45 | [Jesus, Lamb Of God \- Live](https://open.spotify.com/track/08nS6fLDRnrMH9k5JxT6hr) | [Phil Thompson](https://open.spotify.com/artist/3NYwlCIjzmWwNdLPGT9UV8), [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [Jesus, Lamb Of God \(Live\)](https://open.spotify.com/album/67tLt8xhPpBETjINHUZwV4) | 8:40 |
 | 46 | [AYO](https://open.spotify.com/track/5eEQZ65yYoI0rUo5rGhyac) | [Rotimikeys](https://open.spotify.com/artist/6kMfCacgijUReCAskGVQwR) | [AYO](https://open.spotify.com/album/1199pVmktIpFtvTGHDzK5H) | 3:43 |
-| 47 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
-| 48 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 |
-| 49 | [Hold On](https://open.spotify.com/track/7u1TRg7Si7fgKy9TDQ3cj7) | [K3ndrick](https://open.spotify.com/artist/0ULEmCfIKnFCdZfZsTmxG5) | [Hold On](https://open.spotify.com/album/5IT0DNo7zHmPjhZdDDKxfS) | 2:45 |
-| 50 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 |
+| 47 | [In the Room \(Rendition\)](https://open.spotify.com/track/1BtLSpIErQW4pyXxSHJabn) | [Grace Idowu](https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH) | [In the Room \(Rendition\)](https://open.spotify.com/album/5Kfd8a8myhiGOEUePTCwaA) | 6:11 |
+| 48 | [Blast \- tongues](https://open.spotify.com/track/1ePjErlDfOTAvsfdOCzsHa) | [Prinx Emmanuel](https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz) | [Blast \(tongues\)](https://open.spotify.com/album/1V35wxdkxrywDkMf8wMEp8) | 3:24 |
+| 49 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 |
+| 50 | [iZono Zami](https://open.spotify.com/track/43c0XDVLdVzxeu3lWrmxLp) | [Nomcebo Zikode](https://open.spotify.com/artist/4cfKtwkefMW3aiXtxfw8w6) | [iZono Zami](https://open.spotify.com/album/4DvwJkQT8zr14KE4YAYg1b) | 5:19 |
 
 Snapshot ID: `Z4md2AAAAADFcpe/nF5+TZbkSTENJx90`

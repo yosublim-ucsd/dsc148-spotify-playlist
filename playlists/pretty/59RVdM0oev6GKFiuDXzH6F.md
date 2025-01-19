@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/59RVdM0oev6GKFiuDXzH6F.md) - [plain]
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,250 likes - 151 songs - 8 hr 13 min
+[Spinnin’ Records](https://open.spotify.com/user/spinninrecordsofficial) - 4,251 likes - 151 songs - 8 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

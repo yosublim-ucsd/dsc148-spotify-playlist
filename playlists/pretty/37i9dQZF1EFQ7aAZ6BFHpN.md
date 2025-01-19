@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6f8N8qe1L2qiB0f5U0sCp7">George Gershwin</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 407 likes - 190 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 406 likes - 190 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,7 +60,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 50 | [Bess, Oh Where's My Bess](https://open.spotify.com/track/2hpolv9C81h76XptArOZp6) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Golden Star Collection Vol\. 1](https://open.spotify.com/album/7iMlhQfk9HhYdOqHu0tPDq) | 2:37 |
 | 51 | [Porgy And Bess: Medley: Here Come De Honey Man / Crab Man / Oh, Dey's So Fresh And Fine](https://open.spotify.com/track/3taCqapkDK2S3Upc8g5FdH) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Porgy And Bess](https://open.spotify.com/album/1vvnTmmNWnGmqvVFjVIINf) | 3:29 |
 | 52 | [Summertime](https://open.spotify.com/track/2bZ00g0QNNHnLkoEdR9IUk) | [Sarah Vaughan](https://open.spotify.com/artist/1bgyxtWjZwA5PQlDsvs9b8) | [Sarah Vaughan Sings George Gershwin](https://open.spotify.com/album/3WNkR1jew5kfBxl1PhgwPa) | 2:54 |
-| 53 | [Promenade: Walking the Dog](https://open.spotify.com/track/1lyk2IpuT8YfuoInTRfHM4) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Michael Tilson Thomas](https://open.spotify.com/artist/2v1lHgfpG4joXW7kDdDI78), [Los Angeles Philharmonic](https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU) | [Michael Tilson Thomas Conducts Gershwin](https://open.spotify.com/album/2xELVSKhDHrh32KsyWq69o) | 2:54 |
+| 53 | [Walking the Dog](https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ) | [George Gershwin](https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4), [Iain Sutherland Concert Orchestra](https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a), [Iain Sutherland](https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss) | [Manhattan Playboys \- American Light Classics](https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m) | 3:06 |
 | 54 | [Shall We Dance?](https://open.spotify.com/track/50DCnk4jRHhysh4RBJFmnj) | [Oscar Peterson](https://open.spotify.com/artist/6zkX5fhrSD4tdVOmimR9wB) | [Oscar Peterson Plays The George Gershwin Song Book](https://open.spotify.com/album/2O5GOZsGSYLfbypGw6C96a) | 2:15 |
 | 55 | [Gone, Gone, Gone](https://open.spotify.com/track/7JXspV8huWhAauiO8cGVLr) | [Miles Davis](https://open.spotify.com/artist/0kbYTNQb4Pb1rPbbaF0pT4) | [Porgy And Bess](https://open.spotify.com/album/5TZUz4IkdUZY8i1cnbaAHz) | 2:03 |
 | 56 | [I Like That You Can't Take That Away From Me](https://open.spotify.com/track/0ZsWdOc919i76q32pmlz1r) | [Jae Millz](https://open.spotify.com/artist/0qWtta2AJnHQITmWvhcehs), [Eric B\. & Rakim](https://open.spotify.com/artist/6jHG1YQkqgojdEzerwvrVv), [Mashonda](https://open.spotify.com/artist/5SyhqYagv3kA1s7xbI8QGi), [June Christy](https://open.spotify.com/artist/7D51E97yRZ8Su45PW9zbzP) | [Take The Lead](https://open.spotify.com/album/5pjfujDJYCQoOZJ87KezQV) | 2:27 |
@@ -199,4 +199,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQ7aAZ6BFHpN.md) - [plain]
 | 189 | [Crab Man](https://open.spotify.com/track/5c6p9txsU48nVObYtRTYHQ) | [The Magni Wentzel Sextet](https://open.spotify.com/artist/7427u0wL9sJxNaJ3vzbp69) | [Porgy & Bess](https://open.spotify.com/album/7i7NoSvjk1MpeQMEua7tpc) | 1:37 |
 | 190 | [Man](https://open.spotify.com/track/3nMDOiuqvSIwCxRrxn7OOG) | [The Moonlight Fairy's Manuru Home run](https://open.spotify.com/artist/53phTNQTwRpSxcK7oBwfY6) | [Love OST](https://open.spotify.com/album/6Uo8YynM7evPWl13t6r3Ud) | 2:19 |
 
-Snapshot ID: `AbnI4AAAAADylT9/KGAouLbxvtJOEbFM`
+Snapshot ID: `AbnOqAAAAADMmNyQsVIf/L6QNPrC3hAJ`

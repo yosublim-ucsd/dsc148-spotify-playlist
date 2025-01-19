@@ -1,6 +1,6 @@
 {
   "description": "Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.",
-  "num_followers": 75271,
+  "num_followers": 75268,
   "original_name": "LoFi Rod's Chillhop Lounge",
   "owner": {
     "name": "awesomeplaylists",
@@ -356,12 +356,12 @@
       },
       "artists": [
         {
-          "name": "Zmeyev",
-          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
-        },
-        {
           "name": "Screen Jazzmaster",
           "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
         }
       ],
       "duration_ms": 115662,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Brazil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,571 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,662 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbKzoK95AbRy9.md) - [plain]
 | 49 | [A Bebê Quer Oque](https://open.spotify.com/track/3sv5Da5mGwNvLDc6h3sVzq) | [MC Cebezinho](https://open.spotify.com/artist/5Dz2FizMLqV0Cr3c8uhEcF), [DJ Oreia](https://open.spotify.com/artist/4ktNyrJJnjREAm9W9P9lVP), [Menor Richard](https://open.spotify.com/artist/5IeMNkDHgwwqWG9fs89dhn), [MC GP](https://open.spotify.com/artist/5s27i7oqhNWIcE4HeoVdq0), [Mc Don Juan](https://open.spotify.com/artist/7Lmrb6KcIzfkmgbtokjsAL), [Love Funk](https://open.spotify.com/artist/2VYwmX6cgOHJeeKTLi1AEd) | [Vai Tomando](https://open.spotify.com/album/7GoQF9lbtpWqG9SFKf6fCQ) | 4:08 |
 | 50 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 
-Snapshot ID: `Lx3FSAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `Lx8ZIAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 37658,
+  "num_followers": 37668,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAACTcrw3eShHDIJT8t6vzp5z",
+  "snapshot_id": "Z4mdgAAAAADvtcrVcTetfiE3qf+1gUll",
   "tracks": [
     {
       "added_at": null,
@@ -447,22 +447,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bailando Por Ti",
-        "url": "https://open.spotify.com/album/69eUUgCWiR86DCzjWCQbY0"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
       "artists": [
-        {
-          "name": "Fey",
-          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Bailando Por Ti",
-      "url": "https://open.spotify.com/track/36o3tX1dcTJ5rwFRk5aOPx"
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
     },
     {
       "added_at": null,
@@ -483,18 +479,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+        "name": "Bailando Por Ti",
+        "url": "https://open.spotify.com/album/69eUUgCWiR86DCzjWCQbY0"
       },
       "artists": [
+        {
+          "name": "Fey",
+          "url": "https://open.spotify.com/artist/3uC20p2EoNm5LYtzSVWdkL"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
+      "duration_ms": 165000,
+      "name": "Bailando Por Ti",
+      "url": "https://open.spotify.com/track/36o3tX1dcTJ5rwFRk5aOPx"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Despertar",
+        "url": "https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 195026,
+      "name": "Despertar",
+      "url": "https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1er Acto",
         "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
       },
@@ -659,22 +675,6 @@
       "duration_ms": 315853,
       "name": "True Love (feat. Monsieur Perin\u00e9 & Juan Pablo Vega)",
       "url": "https://open.spotify.com/track/5uHMZeWwY6GQxKHGJfUvSu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Despertar",
-        "url": "https://open.spotify.com/album/7GMhyohcuBcKYnfR7FMM8L"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 195026,
-      "name": "Despertar",
-      "url": "https://open.spotify.com/track/4eYTJkjurpWAOvsEmG5W8A"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "1er Acto",
-        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Oh L\u00e0 L\u00e0 (feat. Monsieur Perin\u00e9)",
-      "url": "https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Solo (Remix)",
         "url": "https://open.spotify.com/album/0aEEuIWU7eZZdRk1cw5kYg"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 160573,
       "name": "Solo - Remix",
       "url": "https://open.spotify.com/track/0P4hFzJlR3ZMEXz92mrk1b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "1er Acto",
+        "url": "https://open.spotify.com/album/2x5iHcA02lEoWUECIZ9gzg"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Oh L\u00e0 L\u00e0 (feat. Monsieur Perin\u00e9)",
+      "url": "https://open.spotify.com/track/6A9woRzbEFLUshXy15Q4EO"
     },
     {
       "added_at": null,
@@ -947,22 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pobre Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 182786,
-      "name": "Pobre Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amor Libre",
         "url": "https://open.spotify.com/album/3ZNcUIksSrVfc5Ow7f4J6F"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 199440,
       "name": "7 D\u00edas",
       "url": "https://open.spotify.com/track/0iQ5TF0YYNCuDfUOZ0ASoD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pobre Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/7uGhAfUDxsISXHgNTVb8S2"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 182786,
+      "name": "Pobre Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/6FogkmJRkh4AoGZ4NBXZ4G"
     },
     {
       "added_at": null,

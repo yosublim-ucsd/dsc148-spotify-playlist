@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 
 > This is Banda Toro\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,028 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,030 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4dQL3v.md) - [plain]
 | 49 | [Camino de Guanajuato Ay Jalisco](https://open.spotify.com/track/7kMIIhdwGPQk9TvMrh2wGR) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Cantando a Mexico](https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw) | 2:27 |
 | 50 | [El Remedio \- Estilo Tierra Caliente](https://open.spotify.com/track/6YyvKw9HikBVMcPhWLeQB7) | [Banda Toro](https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg) | [Corridos y Canciones](https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ) | 2:20 |
 
-Snapshot ID: `Z4hMAAAAAABw8Vkwb8SJ2CNsOrD219wr`
+Snapshot ID: `Z4mdgAAAAACnr3x0y0b9M3AWuQnCjs7A`

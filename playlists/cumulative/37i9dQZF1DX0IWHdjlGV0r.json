@@ -63,6 +63,32 @@
     },
     {
       "album": {
+        "name": "Mafia Slime 2",
+        "url": "https://open.spotify.com/album/3lWXS1KGNgGSvBU9lpwkFI"
+      },
+      "artists": [
+        {
+          "name": "Papa V",
+          "url": "https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU"
+        },
+        {
+          "name": "Nerissima Serpe",
+          "url": "https://open.spotify.com/artist/08ppjXEpROUgrG1X0DEquB"
+        },
+        {
+          "name": "Fritu",
+          "url": "https://open.spotify.com/artist/4PYZsCk6AeRr8VjtJ7z1RF"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185343,
+      "name": "A Lei",
+      "url": "https://open.spotify.com/track/50uGP4Bs22S1iPNn1hTo3R"
+    },
+    {
+      "album": {
         "name": "A TE",
         "url": "https://open.spotify.com/album/3l52RCkfjUrcK9fXI5fodv"
       },
@@ -2500,7 +2526,7 @@
       ],
       "date_added": "2024-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 161739,
       "name": "MUJER",
       "url": "https://open.spotify.com/track/6MeRMkI1kS0glrxGxut60K"

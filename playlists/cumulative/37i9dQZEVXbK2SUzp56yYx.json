@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -1204,7 +1204,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 171520,
       "name": "BOLO (feat. YDG)",
       "url": "https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk"
@@ -3240,7 +3240,7 @@
       ],
       "date_added": "2024-12-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 136370,
       "name": "Ela Vira Mortal",
       "url": "https://open.spotify.com/track/28Qri8CIMxJUQauS8YOR7o"
@@ -3596,7 +3596,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 231626,
       "name": "FANTASTIC BABY - Japanese ver.",
       "url": "https://open.spotify.com/track/26JeAi8xsSvLRoNsl9B8Js"
@@ -3916,6 +3916,28 @@
       "duration_ms": 174495,
       "name": "Fly Me",
       "url": "https://open.spotify.com/track/0J0PzgQE1UfCp6BBmErofS"
+    },
+    {
+      "album": {
+        "name": "Fly Me",
+        "url": "https://open.spotify.com/album/5jdSsNPzopEWGO7LyJYO6J"
+      },
+      "artists": [
+        {
+          "name": "ShadowStep",
+          "url": "https://open.spotify.com/artist/36v2TgVqNVxF5tUhvVjfnv"
+        },
+        {
+          "name": "Nova Whisper",
+          "url": "https://open.spotify.com/artist/78pq2MH3SxnmSZvA5WexxN"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174495,
+      "name": "Fly Me",
+      "url": "https://open.spotify.com/track/3oh9r1B45kV2DTqM0AHU9y"
     },
     {
       "album": {
@@ -6132,7 +6154,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 236266,
       "name": "Impacto",
       "url": "https://open.spotify.com/track/5agpMV7rvg7Hf8IiX5kQXe"
@@ -7322,7 +7344,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -7352,7 +7374,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -12366,7 +12388,7 @@
       ],
       "date_added": "2024-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 112171,
       "name": "The Love I Lost",
       "url": "https://open.spotify.com/track/5v2wBVnZ8Wdj1qwIqhcVw2"
@@ -13250,7 +13272,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
@@ -14762,7 +14784,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 135939,
       "name": "\u0411\u0435\u043b\u043e\u0447\u043a\u0430",
       "url": "https://open.spotify.com/track/47Y0NrNMAPdl00HWIrZyRO"
@@ -17050,7 +17072,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 107586,
       "name": "\u0417\u043d\u0430\u044e",
       "url": "https://open.spotify.com/track/4vFjz0tXIr8ncLpBCiBJpc"
@@ -17892,7 +17914,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 293035,
       "name": "\u041b\u044e\u0431\u043b\u044e",
       "url": "https://open.spotify.com/track/1xLXgTfojHvAqVuevBQ1Gz"
@@ -19042,6 +19064,28 @@
       "duration_ms": 221160,
       "name": "\u041d\u043e\u0432\u043e\u0435 \u041f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0435 - Original soundtrack \"\u041d\u043e\u0432\u043e\u0435 \u041f\u043e\u043a\u043e\u043b\u0435\u043d\u0438\u0435\"",
       "url": "https://open.spotify.com/track/0wsJZFyklmgeIbmgUN5oap"
+    },
+    {
+      "album": {
+        "name": "\u041d\u041e\u0412\u042b\u0419 \u0413\u041e\u0414",
+        "url": "https://open.spotify.com/album/2e04GCIFnP7gI1QEUHVZ5v"
+      },
+      "artists": [
+        {
+          "name": "SEXBOMBA31",
+          "url": "https://open.spotify.com/artist/3uEiNF1AMSHc0idHHP3ppL"
+        },
+        {
+          "name": "5mewmet",
+          "url": "https://open.spotify.com/artist/6M09SBwYD0F13PjIavxbih"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119169,
+      "name": "\u041d\u041e\u0412\u042b\u0419 \u0413\u041e\u0414",
+      "url": "https://open.spotify.com/track/6bbADhWXP1WZN7czuUDmDO"
     },
     {
       "album": {
@@ -20572,6 +20616,24 @@
       "duration_ms": 279177,
       "name": "\u041f\u0440\u043e\u0441\u043d\u0438\u0441\u044c",
       "url": "https://open.spotify.com/track/3eHoVb8CC6Nal3DdbLA4su"
+    },
+    {
+      "album": {
+        "name": "\u0412\u043e\u0441\u043f\u0438\u0442\u0430\u043d\u0438\u0435 \u0438 \u0422\u0430\u043a\u0442",
+        "url": "https://open.spotify.com/album/6jUAGSgNN8Wb8000zuFfKR"
+      },
+      "artists": [
+        {
+          "name": "\u041f\u043e\u0440\u0435\u0437 \u043d\u0430 \u0421\u043e\u0431\u0430\u043a\u0435",
+          "url": "https://open.spotify.com/artist/4DHJUKEpxQH7ypjFgXmAD6"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325516,
+      "name": "\u041f\u0440\u043e\u0441\u043f\u0430\u043b",
+      "url": "https://open.spotify.com/track/6sMGwJLnCUM75e2FoyStyN"
     },
     {
       "album": {

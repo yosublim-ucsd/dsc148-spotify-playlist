@@ -1,6 +1,6 @@
 {
   "description": "\ud83c\udf42\n",
-  "num_followers": 92629,
+  "num_followers": 92619,
   "original_name": "H\u00f8st i lufta",
   "owner": {
     "name": "Spotify",
@@ -1163,6 +1163,30 @@
     {
       "added_at": "2025-01-16 23:00:39",
       "album": {
+        "name": "It's Ok If You Forget Me",
+        "url": "https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG"
+      },
+      "artists": [
+        {
+          "name": "Thomas Dybdahl",
+          "url": "https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n"
+        },
+        {
+          "name": "Emma Jensen",
+          "url": "https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "It\u00b4s Ok If You Forget Me (feat. Emma Jensen)",
+      "url": "https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP"
+    },
+    {
+      "added_at": "2025-01-16 23:00:39",
+      "album": {
         "name": "Thunder in my heart (music from the series)",
         "url": "https://open.spotify.com/album/2VqDK3TlI9CJhV1nYurP7B"
       },
@@ -1211,6 +1235,22 @@
     {
       "added_at": "2025-01-16 23:00:39",
       "album": {
+        "name": "Ringdans",
+        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
+      },
+      "artists": [
+        {
+          "name": "Bj\u00f8rn Eidsv\u00e5g",
+          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
+        }
+      ],
+      "duration_ms": 212258,
+      "name": "Ringdans",
+      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
+    },
+    {
+      "added_at": "2025-01-16 23:00:39",
+      "album": {
         "name": "Sommer i Norge",
         "url": "https://open.spotify.com/album/1uYRxAEK2Zq2aapegql4Gh"
       },
@@ -1247,6 +1287,38 @@
     {
       "added_at": "2025-01-16 23:00:39",
       "album": {
+        "name": "Coming home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
+        "url": "https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf"
+      },
+      "artists": [
+        {
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Anna Lille",
+          "url": "https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk"
+        },
+        {
+          "name": "Chris Holsten",
+          "url": "https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF"
+        },
+        {
+          "name": "HILLARI",
+          "url": "https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM"
+        },
+        {
+          "name": "Ruben",
+          "url": "https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM"
+        }
+      ],
+      "duration_ms": 226251,
+      "name": "Coming home (from NRK-scenen at P3 Gull) [feat. Ruben, Chris Holsten, Hillari, Anna Lille]",
+      "url": "https://open.spotify.com/track/2uqMA5ZyEWiau08lBqmO8Q"
+    },
+    {
+      "added_at": "2025-01-16 23:00:39",
+      "album": {
         "name": "Head In My Hands",
         "url": "https://open.spotify.com/album/4OiUkPoc5WSkXGjjSOYO00"
       },
@@ -1259,22 +1331,6 @@
       "duration_ms": 192818,
       "name": "Head In My Hands",
       "url": "https://open.spotify.com/track/3iLF9cXb9IHSLNpGIbLOvs"
-    },
-    {
-      "added_at": "2025-01-16 23:00:39",
-      "album": {
-        "name": "Ringdans",
-        "url": "https://open.spotify.com/album/6KG6VP2dQbEOWOmove7R5A"
-      },
-      "artists": [
-        {
-          "name": "Bj\u00f8rn Eidsv\u00e5g",
-          "url": "https://open.spotify.com/artist/11Vny8qHe4KR50ZIjhz7sz"
-        }
-      ],
-      "duration_ms": 212258,
-      "name": "Ringdans",
-      "url": "https://open.spotify.com/track/20s9BT2BeSaA7qgnOLofzt"
     },
     {
       "added_at": "2025-01-16 23:00:39",
@@ -1311,22 +1367,6 @@
     {
       "added_at": "2025-01-16 23:00:39",
       "album": {
-        "name": "Synd synd synd",
-        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
-      },
-      "artists": [
-        {
-          "name": "Gabrielle",
-          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
-        }
-      ],
-      "duration_ms": 192213,
-      "name": "Synd synd synd",
-      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
-    },
-    {
-      "added_at": "2025-01-16 23:00:39",
-      "album": {
         "name": "Nakna",
         "url": "https://open.spotify.com/album/4RMs8zDTlJw0myt5YEYb4B"
       },
@@ -1343,6 +1383,38 @@
       "duration_ms": 192080,
       "name": "Nakna",
       "url": "https://open.spotify.com/track/4MCoAGbqnf0qyUmtiQTao1"
+    },
+    {
+      "added_at": "2025-01-16 23:00:39",
+      "album": {
+        "name": "Synd synd synd",
+        "url": "https://open.spotify.com/album/2zFAp1uKtE5vVfuBP9ptJn"
+      },
+      "artists": [
+        {
+          "name": "Gabrielle",
+          "url": "https://open.spotify.com/artist/4OovmAu23KrDlDQI2UbneL"
+        }
+      ],
+      "duration_ms": 192213,
+      "name": "Synd synd synd",
+      "url": "https://open.spotify.com/track/1E3XUJ45spbv204ePpWeJR"
+    },
+    {
+      "added_at": "2025-01-16 23:00:39",
+      "album": {
+        "name": "S\u00e5nn som deg",
+        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
+      },
+      "artists": [
+        {
+          "name": "Stavangerkameratene",
+          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
+        }
+      ],
+      "duration_ms": 204529,
+      "name": "S\u00e5nn som deg",
+      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
     },
     {
       "added_at": "2025-01-16 23:00:39",
@@ -1367,22 +1439,6 @@
     {
       "added_at": "2025-01-16 23:00:39",
       "album": {
-        "name": "S\u00e5nn som deg",
-        "url": "https://open.spotify.com/album/7MLCz2Gkx4tSfm8iPNuIO2"
-      },
-      "artists": [
-        {
-          "name": "Stavangerkameratene",
-          "url": "https://open.spotify.com/artist/4tJ6n38cpgqKuzjSX24BJA"
-        }
-      ],
-      "duration_ms": 204529,
-      "name": "S\u00e5nn som deg",
-      "url": "https://open.spotify.com/track/4nlnCmzyjdzzWkP7gB7KE3"
-    },
-    {
-      "added_at": "2025-01-16 23:00:39",
-      "album": {
         "name": "D\u00e5rlig id\u00e9",
         "url": "https://open.spotify.com/album/4UfLRdNSGpF5i8afckhwyx"
       },
@@ -1395,42 +1451,6 @@
       "duration_ms": 132616,
       "name": "D\u00e5rlig id\u00e9",
       "url": "https://open.spotify.com/track/4yU4cBkLZ2zrub6rw0mzTk"
-    },
-    {
-      "added_at": "2025-01-16 23:00:39",
-      "album": {
-        "name": "Ti tusen",
-        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
-      },
-      "artists": [
-        {
-          "name": "Kapteinen",
-          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
-        }
-      ],
-      "duration_ms": 180906,
-      "name": "Ti tusen",
-      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
-    },
-    {
-      "added_at": "2025-01-16 23:00:39",
-      "album": {
-        "name": "Sommerfl\u00f8rt",
-        "url": "https://open.spotify.com/album/7gJqpQ14ZDjTGyGzqRqFxC"
-      },
-      "artists": [
-        {
-          "name": "Isah",
-          "url": "https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B"
-        },
-        {
-          "name": "Synne Vo",
-          "url": "https://open.spotify.com/artist/5WDOXIkjKNjEzlXmLgZVz9"
-        }
-      ],
-      "duration_ms": 161750,
-      "name": "Sommerfl\u00f8rt",
-      "url": "https://open.spotify.com/track/7ELUUCWIHlyWIPlO2u1WT8"
     },
     {
       "added_at": "2025-01-16 23:00:39",
@@ -1451,22 +1471,18 @@
     {
       "added_at": "2025-01-16 23:00:39",
       "album": {
-        "name": "Om du tror p\u00e5 oss",
-        "url": "https://open.spotify.com/album/7kE6Q0jwl7Wr1icIIFwQQ6"
+        "name": "Ti tusen",
+        "url": "https://open.spotify.com/album/6OlniEdHOM81ARbDn0z17X"
       },
       "artists": [
         {
-          "name": "Eva Weel Skram",
-          "url": "https://open.spotify.com/artist/3u2Sz4K3PFfalhDU0vSHT3"
-        },
-        {
-          "name": "Erlend Ropstad",
-          "url": "https://open.spotify.com/artist/5DEpvCUOqEagldzoh25m1t"
+          "name": "Kapteinen",
+          "url": "https://open.spotify.com/artist/1Q6fwxJ9j46RqSFY9EXBj9"
         }
       ],
-      "duration_ms": 230201,
-      "name": "Om du tror p\u00e5 oss",
-      "url": "https://open.spotify.com/track/4x8DtLpcjCTMrFym0aS5kL"
+      "duration_ms": 180906,
+      "name": "Ti tusen",
+      "url": "https://open.spotify.com/track/4NnrvgxfleczknQYs2d8cv"
     }
   ],
   "unique_name": "H\u00f8st i lufta",

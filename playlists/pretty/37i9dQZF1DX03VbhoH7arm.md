@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 
 > Grandes hits do BR e do 🌎 / Foto: Pedro Sampaio, GW
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,601,952 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,602,056 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX03VbhoH7arm.md) - [plain]
 | 10 | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/track/4PDw1XpsurgUnN7YSZmh1Q) | [Dj Luan Gomes](https://open.spotify.com/artist/34kJWuUS4hNN1MkqiIG0dS) | [QUERO VER SE VOCÊ TEM ATITUDE](https://open.spotify.com/album/7ouR6mhMMrCZuv5qCv6ooT) | 1:57 |
 | 11 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 12 | [APT.](https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [APT.](https://open.spotify.com/album/2IYQwwgxgOIn7t3iF6ufFD) | 2:49 |
-| 13 | [PORNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
+| 13 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
 | 14 | [MTG NA IMAGINAÇÃO \- TOPO SESSIONS VOL\. 1](https://open.spotify.com/track/4jUZymsR3lkia9wkP0o9cX) | [DJ TOPO](https://open.spotify.com/artist/0xj9MJx9r0wO2o4aqdergP), [Mc Livinho](https://open.spotify.com/artist/7me0S5Z40qVWj3gzyK8aC3) | [MTG NA IMAGINAÇÃO \(TOPO SESSIONS VOL\. 1\)](https://open.spotify.com/album/0jMhgDRoYlzzqIM407XCPk) | 2:24 |
 | 15 | [Como Posso Amar Assim?](https://open.spotify.com/track/2YRY4fYbGfmvBQK7aEiaZ0) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Como Posso Amar Assim?](https://open.spotify.com/album/6ipkpdX3Wry0Yq97mMnIrs) | 3:13 |
 | 16 | [Fui Mlk](https://open.spotify.com/track/4pOGEJRVOuaa9oyy7qTGf6) | [Nilo](https://open.spotify.com/artist/5uD6uRKj2xYxpqx8bscaco), [Mc Paiva ZS](https://open.spotify.com/artist/0gHj4MPwwcZ8Zl9CY0hqT5), [DJ Di Marques](https://open.spotify.com/artist/4CJ3CnKb8dSlzci7eaSOcV), [FamousKyo](https://open.spotify.com/artist/6neX3m8RObh5N8X6AEBYiw) | [Fui Mlk](https://open.spotify.com/album/7mEKSrjUwJjp4QaZD8fp8r) | 2:54 |

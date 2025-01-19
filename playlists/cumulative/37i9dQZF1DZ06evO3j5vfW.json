@@ -473,6 +473,32 @@
     },
     {
       "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/0nEX0kWY8RlL74Fxm9UK3q"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200119,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/2oixBcIkXHvLCA4yrBlN0H"
+    },
+    {
+      "album": {
         "name": "Drown (feat. Clinton Kane) [Nicky Romero Remix]",
         "url": "https://open.spotify.com/album/0yyVHA6DKNQSfYMVuvjuza"
       },

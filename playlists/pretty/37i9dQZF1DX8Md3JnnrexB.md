@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 
 > Laid back soul music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 211,878 likes - 100 songs - 6 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 211,883 likes - 100 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8Md3JnnrexB.md) - [plain]
 | 57 | [Heaven Help](https://open.spotify.com/track/4X574HplOe89kLaj4a4Cnq) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Black Diamond \(Deluxe Edition\)](https://open.spotify.com/album/06H2UUZRxzOuD7gyB5MjLu) | 3:20 |
 | 58 | [I'm Back for More](https://open.spotify.com/track/2zC0uKFfERvtOYNKendhEs) | [Al Johnson](https://open.spotify.com/artist/4FkXsXGJUTP1J32k3ZYiOA), [Jean Carn](https://open.spotify.com/artist/5swBKHtsRDaCBmdpYRYOg1) | [Back for More](https://open.spotify.com/album/4QshQgkwrqisn6j9yJZ1qb) | 5:09 |
 | 59 | [Float On](https://open.spotify.com/track/0i38ukkDaXt4bCP0osIbz0) | [The Floaters](https://open.spotify.com/artist/6GpuL6WNTOVhmMl6lZbiKS) | [Music For Groovin'](https://open.spotify.com/album/2kGXFgIy6EBmYZRrQjTtON) | 4:10 |
-| 60 | [You Are Everything](https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf) | 2:54 |
-| 61 | [Through The Test Of Time](https://open.spotify.com/track/4aRVe5BSez0xl1znDotjxX) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Love Is Gonna Getcha](https://open.spotify.com/album/709eBqOXOnZfdMts8husvP) | 5:07 |
+| 60 | [Through The Test Of Time](https://open.spotify.com/track/4aRVe5BSez0xl1znDotjxX) | [Patti Austin](https://open.spotify.com/artist/0JxChc2w5fwTGbXKfc4cRd) | [Love Is Gonna Getcha](https://open.spotify.com/album/709eBqOXOnZfdMts8husvP) | 5:07 |
+| 61 | [You Are Everything](https://open.spotify.com/track/6VzG27NVjcEAP4af8ShhWM) | [The Stylistics](https://open.spotify.com/artist/2O0Hw1WSMbskB5tD9aWah3) | [Greatest Hits](https://open.spotify.com/album/2gQx5PIKDCftkEiMwB2Pcf) | 2:54 |
 | 62 | [Something He Can Feel](https://open.spotify.com/track/4IOtu2nO8Us3kPtEZmUr0k) | [Aretha Franklin](https://open.spotify.com/artist/7nwUJBm0HE4ZxD3f5cy5ok) | [Sparkle](https://open.spotify.com/album/0SKeM61sUnpAIRUPH4Tzk3) | 6:21 |
 | 63 | [Moody's Mood](https://open.spotify.com/track/3qLbISQSn2uZajYIxYiOcP) | [George Benson](https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv) | [Give Me the Night](https://open.spotify.com/album/6qwOcN9wZgVF0bishcfFsh) | 3:24 |
 | 64 | [Never Change \(feat\. Philip Bailey\)](https://open.spotify.com/track/4OFt2tXFSQtRUryZwCrUz5) | [BJ The Chicago Kid](https://open.spotify.com/artist/07d5etnpjriczFBB8pxmRe), [Philip Bailey](https://open.spotify.com/artist/6ZNeppgfBLPUyugks9Yn1u) | [Gravy](https://open.spotify.com/album/5xZdBUJsZ3RIiePqGFgOaP) | 4:16 |

@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Wild Wind, LAVE, The Strike and more
+> With LAVE, The Wild Wind, The Strike and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 2,018 likes - 50 songs - 3 hr 15 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [Miles Ahead](https://open.spotify.com/track/4YTY53IsP2suUTVilL4Vex) | [The Strike](https://open.spotify.com/artist/6VB4TqEl0yfaF88LYHH4wj) | [The Lost Years](https://open.spotify.com/album/7zjFpjrJPPuhcNxWjgEb5e) | 4:05 |
 | 50 | [On the Corner Where You Live](https://open.spotify.com/track/4BEI01RMjIuA2geFPZIVHS) | [The Paper Kites](https://open.spotify.com/artist/79hrYiudVcFyyxyJW0ipTy) | [On the Corner Where You Live](https://open.spotify.com/album/4iiL0cdvbQoPNEbvyDTkOU) | 4:36 |
 
-Snapshot ID: `Z4sV5wAAAAAE3rqEtO+4aPP0+6g0vyyu`
+Snapshot ID: `Z4xw5AAAAADw7/Z3HBXs1veisODm6DNF`

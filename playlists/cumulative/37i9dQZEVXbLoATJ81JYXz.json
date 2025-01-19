@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
+    },
+    {
+      "album": {
         "name": "08 ZOO",
         "url": "https://open.spotify.com/album/2IOQXMQV5gN3xxpMcMXLNM"
       },
@@ -4842,6 +4860,24 @@
       "duration_ms": 278281,
       "name": "BREAK MY SOUL",
       "url": "https://open.spotify.com/track/5pyoxDZ1PX0KxBxiRVxA4U"
+    },
+    {
+      "album": {
+        "name": "G\u00e5 f\u00f6r glory",
+        "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227840,
+      "name": "Bring it on, bring it all",
+      "url": "https://open.spotify.com/track/26SzKaorApo4AFsVcCekkF"
     },
     {
       "album": {
@@ -9825,6 +9861,24 @@
     },
     {
       "album": {
+        "name": "E45",
+        "url": "https://open.spotify.com/album/6j1gOicypIIjqglYLP1T6f"
+      },
+      "artists": [
+        {
+          "name": "Ringnes-Ronny",
+          "url": "https://open.spotify.com/artist/4TNb6OInXahdseLnzAY1eL"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136285,
+      "name": "E45",
+      "url": "https://open.spotify.com/track/3Q9oHOl5jdRAwHA2qGh12L"
+    },
+    {
+      "album": {
         "name": "Easy On Me",
         "url": "https://open.spotify.com/album/224jZ4sUX7OhAuMwaxp86S"
       },
@@ -10210,6 +10264,28 @@
       "duration_ms": 174124,
       "name": "Eloise",
       "url": "https://open.spotify.com/track/7liZY5pEPPfOhZ5QtnT20L"
+    },
+    {
+      "album": {
+        "name": "ELOISE",
+        "url": "https://open.spotify.com/album/0uugVi9973DgE3eF9wfJ2S"
+      },
+      "artists": [
+        {
+          "name": "Rasmus Gozzi",
+          "url": "https://open.spotify.com/artist/3loTvAld5Tpk5aSNbboGpj"
+        },
+        {
+          "name": "FR\u00d6KEN SNUSK",
+          "url": "https://open.spotify.com/artist/6RjsbK9T7d1UQD1PFEYYGt"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193846,
+      "name": "ELOISE",
+      "url": "https://open.spotify.com/track/1N90TLVkjG5s85lSYUg3DX"
     },
     {
       "album": {
@@ -11160,6 +11236,24 @@
       "duration_ms": 132765,
       "name": "Faceplant",
       "url": "https://open.spotify.com/track/5VGmSRG8MQP72ZXiyFfrdE"
+    },
+    {
+      "album": {
+        "name": "G\u00e5 f\u00f6r glory",
+        "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150826,
+      "name": "Facklan \u00e4r tillbaka",
+      "url": "https://open.spotify.com/track/1Zng7mAtSpQO9twO9JxyrE"
     },
     {
       "album": {
@@ -13300,7 +13394,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 255045,
       "name": "F\u00f6rsent",
       "url": "https://open.spotify.com/track/1U49LNwMAgAwlLMQxeqWL6"
@@ -14520,7 +14614,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -14958,7 +15052,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 218004,
       "name": "Gud F\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/5ZE7KHXKUNIDp62OHKhSnd"
@@ -15126,6 +15220,24 @@
       "duration_ms": 269040,
       "name": "G\u00e4rna lite till",
       "url": "https://open.spotify.com/track/15Fs9wpP2uQQewAceBGYPc"
+    },
+    {
+      "album": {
+        "name": "G\u00e5 f\u00f6r glory",
+        "url": "https://open.spotify.com/album/0O1Vm8GzLMmuaG73QKDq0a"
+      },
+      "artists": [
+        {
+          "name": "H\u00e5kan Hellstr\u00f6m",
+          "url": "https://open.spotify.com/artist/3H7Ez7cwaYw4L3ELy4v3Lc"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206373,
+      "name": "G\u00e5 f\u00f6r glory",
+      "url": "https://open.spotify.com/track/5JF5WXIyAvGAhMVI8Rn5AG"
     },
     {
       "album": {
@@ -15318,6 +15430,24 @@
       "duration_ms": 153710,
       "name": "Hallabaloo",
       "url": "https://open.spotify.com/track/1aNk5NV589KrdpbW0CmtAO"
+    },
+    {
+      "album": {
+        "name": "Halleluja",
+        "url": "https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157386,
+      "name": "Halleluja",
+      "url": "https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf"
     },
     {
       "album": {
@@ -16490,7 +16620,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 165283,
       "name": "Hiphop N RnB",
       "url": "https://open.spotify.com/track/5bx4stZRInFwFz40fHDa7h"
@@ -20446,7 +20576,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 235230,
       "name": "Kaprifol",
       "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
@@ -21519,6 +21649,28 @@
     },
     {
       "album": {
+        "name": "Land Till Land",
+        "url": "https://open.spotify.com/album/5RNOw8MKgHH5lUwteCZQx8"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130709,
+      "name": "Land Till Land",
+      "url": "https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0"
+    },
+    {
+      "album": {
         "name": "LAST CHRISTMAS",
         "url": "https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ"
       },
@@ -22068,7 +22220,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 199906,
       "name": "Levels - Radio Edit",
       "url": "https://open.spotify.com/track/5UqCQaDshqbIk3pkhy4Pjg"
@@ -23210,6 +23362,24 @@
       "duration_ms": 80306,
       "name": "Lucia (S\u00e5 m\u00f6rk \u00e4r natten)",
       "url": "https://open.spotify.com/track/4fXpKspFnY2bbjZDiUgOZS"
+    },
+    {
+      "album": {
+        "name": "Lucky Luciano",
+        "url": "https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135319,
+      "name": "Lucky Luciano",
+      "url": "https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1"
     },
     {
       "album": {
@@ -24560,7 +24730,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 157200,
       "name": "Medusa",
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
@@ -25238,7 +25408,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 143437,
       "name": "Min 9a",
       "url": "https://open.spotify.com/track/7FkgQNWwDGyEbMRKBFN9YB"
@@ -26958,7 +27128,7 @@
       ],
       "date_added": "2023-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 161481,
       "name": "Nu s\u00e4ger vi godnatt",
       "url": "https://open.spotify.com/track/7qLwjBWh3M2JLFlEokIjUP"
@@ -29438,7 +29608,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 198120,
       "name": "Pushar - Live",
       "url": "https://open.spotify.com/track/4joNGqx1fKYpyxtZXHXPOE"
@@ -30260,7 +30430,7 @@
       ],
       "date_added": "2024-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 150733,
       "name": "Regnbl\u00f6ta skor",
       "url": "https://open.spotify.com/track/2YYsb4d39JKLpQgTMpXOQ0"
@@ -33038,6 +33208,24 @@
       "duration_ms": 254126,
       "name": "Skotth\u00e5l",
       "url": "https://open.spotify.com/track/4SsT3j8JYrTbGUJrlIHJda"
+    },
+    {
+      "album": {
+        "name": "Skriker mitt namn",
+        "url": "https://open.spotify.com/album/3vYIwRY2034ADqRskGJpFr"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181533,
+      "name": "Skriker mitt namn",
+      "url": "https://open.spotify.com/track/3jGTLWpILJexFMVibAjij9"
     },
     {
       "album": {
@@ -35993,6 +36181,24 @@
     },
     {
       "album": {
+        "name": "S\u00e4g n\u00e5t",
+        "url": "https://open.spotify.com/album/7LgWrBIe8VFX0yRdpRxG09"
+      },
+      "artists": [
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186819,
+      "name": "S\u00e4g n\u00e5t",
+      "url": "https://open.spotify.com/track/2OoTbhFGNQ8iYfrQa5CuIw"
+    },
+    {
+      "album": {
         "name": "Young&Strapped",
         "url": "https://open.spotify.com/album/5jQeVs9qODgBoddT5zsowp"
       },
@@ -36986,7 +37192,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 233229,
       "name": "The Days - NOTION Remix",
       "url": "https://open.spotify.com/track/2FAZskT9yRjp2Oow9szJD8"
@@ -37192,7 +37398,7 @@
       ],
       "date_added": "2024-08-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -40824,7 +41030,7 @@
       ],
       "date_added": "2022-01-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/0nrRP2bk19rLc0orkWPQk2"
@@ -40842,7 +41048,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 247426,
       "name": "Wake Me Up",
       "url": "https://open.spotify.com/track/3xNvgP5eZ49TIhcpCe28pu"

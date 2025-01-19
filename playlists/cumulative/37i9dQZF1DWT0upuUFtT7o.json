@@ -14245,24 +14245,6 @@
     },
     {
       "album": {
-        "name": "I Can Change Your Mind",
-        "url": "https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6"
-      },
-      "artists": [
-        {
-          "name": "Maddie Jay",
-          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
-        }
-      ],
-      "date_added": "2025-01-15",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 208636,
-      "name": "Every Little Thing",
-      "url": "https://open.spotify.com/track/0u4g7SYTCckp1HsyKGrv30"
-    },
-    {
-      "album": {
         "name": "Every Little Thing",
         "url": "https://open.spotify.com/album/34K60NEpcRkB52CnUhucGH"
       },
@@ -14282,6 +14264,28 @@
       "duration_ms": 208636,
       "name": "Every Little Thing",
       "url": "https://open.spotify.com/track/0o7batVkWFEAPfBppQTR7M"
+    },
+    {
+      "album": {
+        "name": "I Can Change Your Mind",
+        "url": "https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6"
+      },
+      "artists": [
+        {
+          "name": "Maddie Jay",
+          "url": "https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h"
+        },
+        {
+          "name": "Chase Ceglie",
+          "url": "https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn"
+        }
+      ],
+      "date_added": "2025-01-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208636,
+      "name": "Every Little Thing",
+      "url": "https://open.spotify.com/track/0u4g7SYTCckp1HsyKGrv30"
     },
     {
       "album": {

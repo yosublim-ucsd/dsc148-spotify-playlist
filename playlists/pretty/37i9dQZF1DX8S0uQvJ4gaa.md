@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 
 > New music discovery is what we're about\. Try it on for size\. Cover: Hailey Whitters
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,262,028 likes - 100 songs - 5 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,262,133 likes - 100 songs - 5 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8S0uQvJ4gaa.md) - [plain]
 | 21 | [Started Stoppin'](https://open.spotify.com/track/0cw6yDjjU0cYNVZoKpEEK3) | [Mitchell Tenpenny](https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc) | [Started Stoppin'](https://open.spotify.com/album/4Z3Z8UeRmbXeqe3quwFbMv) | 2:55 |
 | 22 | [SOMETHING TO CHASE](https://open.spotify.com/track/4bD3GAjb8q7Rv9xDcgVMyP) | [Graham Barham](https://open.spotify.com/artist/3WHWgx8Dh0IqQT1BMDTeE3) | [SOMETHING TO CHASE](https://open.spotify.com/album/6URLjfDm2H8FX8Gxfdnw1w) | 3:00 |
 | 23 | [Day Late & A Buck Short](https://open.spotify.com/track/2fsCi7ljM1DCc9nmMw7WU6) | [Julia Cole](https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene) | [Day Late & A Buck Short](https://open.spotify.com/album/1FfgPDghlTyXLyqV1Vdnpj) | 2:33 |
-| 24 | [Ruin My Night](https://open.spotify.com/track/0s7lHTfWuvq5FLUkCGj7mj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Ruin My Night](https://open.spotify.com/album/4Uz0bbzAhV0HUeteZNX7Bc) | 3:13 |
+| 24 | [Ruin My Night](https://open.spotify.com/track/0s7lHTfWuvq5FLUkCGj7mj) | [Redferrin](https://open.spotify.com/artist/4oCk0xbmAtqXZFzXtH3AgF) | [Ruin My Night](https://open.spotify.com/album/4Uz0bbzAhV0HUeteZNX7Bc) | 3:15 |
 | 25 | [Miss You So \(Letters To You\)](https://open.spotify.com/track/5jKoCHR5URBRhPjlxTAyCG) | [Russell Dickerson](https://open.spotify.com/artist/1E2AEtxaFaJtH0lO7kgNKw) | [Bones The EP](https://open.spotify.com/album/4DEZ73SNPiNkSLxQvQhD0c) | 3:18 |
 | 26 | [Nostalgia](https://open.spotify.com/track/3Z9UDAqfYxU9WVAapTmY62) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [The Storyteller](https://open.spotify.com/album/7KypIz0P88XTX6VrtYdC0E) | 3:31 |
 | 27 | [To Tell You The Truth](https://open.spotify.com/track/3vgdTBd541sOtok3Pa450z) | [Shaylen](https://open.spotify.com/artist/5wqQVApxKeHbMsfLJTfWMJ) | [To Tell You The Truth](https://open.spotify.com/album/0savSqjUPqCB7tTyHSn5Gz) | 3:42 |

@@ -1383,6 +1383,24 @@
     },
     {
       "album": {
+        "name": "1992-1998",
+        "url": "https://open.spotify.com/album/2WwcPCIKcAoVlYmIKjd8PO"
+      },
+      "artists": [
+        {
+          "name": "Bedhead",
+          "url": "https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231653,
+      "name": "Crushing",
+      "url": "https://open.spotify.com/track/0qS8CNO9bZlCJoGk6jyGXo"
+    },
+    {
+      "album": {
         "name": "There is only love and fear",
         "url": "https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe"
       },

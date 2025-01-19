@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt?si=YX3RD7MbRfKlSj8eX7ExQQ"> THEHONESTGUY </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,264 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,352 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 10 | [Best One](https://open.spotify.com/track/3okLple9wHPArlHDpZ3j75) | [Journey Montana](https://open.spotify.com/artist/3Cc2VaMxLueacPpXPf4Iyv) | [Best One](https://open.spotify.com/album/0iaLFGCxF2qegvCAUSNYiP) | 2:23 |
 | 11 | [Breathe](https://open.spotify.com/track/07GWBE0uO09Yq4JJosrurR) | [Otis Kane](https://open.spotify.com/artist/2rp9zfs7yPrwCGVl4CjWAl) | [Violet](https://open.spotify.com/album/0q4ElxLsNfykdm4nNwVEl6) | 3:47 |
 | 12 | [Do I Ever Cross Your Mind](https://open.spotify.com/track/2Fr2iWzC3YSBUnkNKB7SZo) | [Josh Berkeley](https://open.spotify.com/artist/7MpeVbVrg6arHele8tcgSl) | [Do I Ever Cross Your Mind](https://open.spotify.com/album/2ZAejFshJcfP7R0ZDy9282) | 2:23 |
-| 13 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/1LLPPqAA6Oz43N8JeITYdx) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
+| 13 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/7nLd7fJANdOTlg7A2XpfmS) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
 | 14 | [prototype](https://open.spotify.com/track/0qaPhQRCflRC2On7ftM1zy) | [Easton Fitz](https://open.spotify.com/artist/2ooSgDOhrT3enJRx12bbjQ) | [Prolog](https://open.spotify.com/album/0kmHKLIbstqWTHjSdinvkZ) | 2:34 |
 | 15 | [take time](https://open.spotify.com/track/7tIwXH6CgVGohwljvPt4Qp) | [Isaiah kaleo](https://open.spotify.com/artist/13b0dupEOyYPm8dZqbqtb5) | [take time](https://open.spotify.com/album/7hAwRSXYOMmZeXZTr4S75i) | 2:16 |
 | 16 | [day+night \(feat\. Wolfacejoeyy\)](https://open.spotify.com/track/2T3vPMrMaugMh1Xu1nwmdP) | [Reuben Aziz](https://open.spotify.com/artist/7si4D4nUA1Z9WKUV58hhnh), [wolfacejoeyy](https://open.spotify.com/artist/7LjXznzJeKuvjRbNcBWd6Z) | [how did we end up here?](https://open.spotify.com/album/7tn5OONBRFmZGwBbEEf2nl) | 2:47 |

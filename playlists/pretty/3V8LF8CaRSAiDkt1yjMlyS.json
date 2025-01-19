@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 36960,
+  "num_followers": 37104,
   "original_name": "When depression hits hard",
   "owner": {
     "name": "ada",
     "url": "https://open.spotify.com/user/adadoro"
   },
-  "snapshot_id": "AAAA1fofHtr5Dms0PrUSRNKcY+AS9q4M",
+  "snapshot_id": "AAAA15xfWM5dLoJirjTpA5tjzVlWQT37",
   "tracks": [
     {
       "added_at": "2023-01-13 09:23:19",
@@ -411,6 +411,26 @@
       "duration_ms": 110580,
       "name": "snowfall (Sped Up)",
       "url": "https://open.spotify.com/track/2kU3tL5BVXkFLefXLy8pBi"
+    },
+    {
+      "added_at": "2025-01-18 10:02:18",
+      "album": {
+        "name": "DUSKWEAVER",
+        "url": "https://open.spotify.com/album/2SK2qhrt9TyRB1lEdxibcZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Thal",
+          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
+        },
+        {
+          "name": "Finn Lavo",
+          "url": "https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR"
+        }
+      ],
+      "duration_ms": 144879,
+      "name": "Ivory Descent",
+      "url": "https://open.spotify.com/track/3BODItmW74qn90hULauUym"
     },
     {
       "added_at": "2024-12-11 20:41:06",

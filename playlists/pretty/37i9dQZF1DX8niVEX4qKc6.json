@@ -1,6 +1,6 @@
 {
   "description": "Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario. Foto: Feli Colina",
-  "num_followers": 188510,
+  "num_followers": 188527,
   "original_name": "Modo Ac\u00fastico",
   "owner": {
     "name": "Spotify",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "LA NENA DE ARGENTINA",
-        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 192703,
-      "name": "DESAFIANDO EL DESTINO",
-      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Fiesta Nacional (Mtv Unplugged)",
         "url": "https://open.spotify.com/album/72XWQY6SO3b4M01tHYsIM7"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 249306,
       "name": "Loco (Tu Forma de Ser) [Ft. Rub\u00e9n Albarr\u00e1n] - MTV Unplugged",
       "url": "https://open.spotify.com/track/0639sfoRA7sW4fGS1EzcQu"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "LA NENA DE ARGENTINA",
+        "url": "https://open.spotify.com/album/55onwkSIEu5gEXdiJ6ssFG"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 192703,
+      "name": "DESAFIANDO EL DESTINO",
+      "url": "https://open.spotify.com/track/4rBQxFVwTnf99p818azSon"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -723,22 +723,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "yen3",
-        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 186625,
-      "name": "yen3",
-      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Mi Primer D\u00eda Triste",
         "url": "https://open.spotify.com/album/7IT0jjgh94QCM7Uyfn5Oyo"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 150859,
       "name": "Am\u00e1ndote",
       "url": "https://open.spotify.com/track/5hVQs7zKz18voznuYAjOkU"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "yen3",
+        "url": "https://open.spotify.com/album/2V3ZN5QG0b5TLBaP9sBmBy"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 186625,
+      "name": "yen3",
+      "url": "https://open.spotify.com/track/4OjtJ3VuA51RYAFcr4O8vV"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "flashi\u00e9",
-        "url": "https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP"
-      },
-      "artists": [
-        {
-          "name": "lisandro skar",
-          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
-        }
-      ],
-      "duration_ms": 154033,
-      "name": "flashi\u00e9",
-      "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "Polos (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/3gtfXh1084dgAtUyDqHeQC"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 271229,
       "name": "En Redondel - Ac\u00fastica",
       "url": "https://open.spotify.com/track/5ojsrMggxGkBFt7J1ECcTl"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "flashi\u00e9",
+        "url": "https://open.spotify.com/album/1UxjRYTtJFxHRMXLBXPDSP"
+      },
+      "artists": [
+        {
+          "name": "lisandro skar",
+          "url": "https://open.spotify.com/artist/1lapQeH8MRBluX1sSUEgeg"
+        }
+      ],
+      "duration_ms": 154033,
+      "name": "flashi\u00e9",
+      "url": "https://open.spotify.com/track/6zrYtyVwFddDzxY4gUBTNs"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -883,22 +883,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "No me pidas que no sea un inconsciente",
-        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
-      },
-      "artists": [
-        {
-          "name": "Sir Hope",
-          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
-        }
-      ],
-      "duration_ms": 133859,
-      "name": "No me pidas que no sea un inconsciente",
-      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "La Otra Dimensi\u00f3n",
         "url": "https://open.spotify.com/album/4Q6CHV4X8HsF80bVxHQkc6"
       },
@@ -911,6 +895,22 @@
       "duration_ms": 320600,
       "name": "El Tesoro - Ac\u00fastico",
       "url": "https://open.spotify.com/track/5PNsvpWfizCAbohxvev8jW"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "No me pidas que no sea un inconsciente",
+        "url": "https://open.spotify.com/album/40RaXs4L3REotbG4aUQh9g"
+      },
+      "artists": [
+        {
+          "name": "Sir Hope",
+          "url": "https://open.spotify.com/artist/53TIYA7MKf5c5tgpI4gcEA"
+        }
+      ],
+      "duration_ms": 133859,
+      "name": "No me pidas que no sea un inconsciente",
+      "url": "https://open.spotify.com/track/7zHsLEE8CDXjzHyaw3Klc2"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Te vamos a salvar",
+        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
+      },
+      "artists": [
+        {
+          "name": "Pol Nada",
+          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
+      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "No Te Puedo Decir Que No",
         "url": "https://open.spotify.com/album/0s4Yzgd1fDrjq05WBFSvvp"
       },
@@ -1159,26 +1179,6 @@
       "duration_ms": 321433,
       "name": "Vasos Vac\u00edos",
       "url": "https://open.spotify.com/track/6P2KDyo8e74VfxeC1aAlFV"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Te vamos a salvar",
-        "url": "https://open.spotify.com/album/5qbCFeeajwgQWohZoDQejW"
-      },
-      "artists": [
-        {
-          "name": "Pol Nada",
-          "url": "https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "Amigos Animales (Ac\u00fastico) - Edici\u00f3n 2024",
-      "url": "https://open.spotify.com/track/5CUWsc35thJK6tvVouCtyd"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
-        "name": "Fin de Fiesta",
-        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
-      },
-      "artists": [
-        {
-          "name": "Miau Tr\u00edo",
-          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
-        }
-      ],
-      "duration_ms": 101818,
-      "name": "Fin de Fiesta",
-      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
         "name": "BIG BANG",
         "url": "https://open.spotify.com/album/6B7FOMNgkV9mi9HjDm3NvS"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 183131,
       "name": "BIG BANG",
       "url": "https://open.spotify.com/track/7tAfeILKh4vMrLMTswA8Xf"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
+        "name": "Fin de Fiesta",
+        "url": "https://open.spotify.com/album/4sui0UO1NPlOUeRC9zvKy5"
+      },
+      "artists": [
+        {
+          "name": "Miau Tr\u00edo",
+          "url": "https://open.spotify.com/artist/0WIn93XS8EmNaLPG3AZpeL"
+        }
+      ],
+      "duration_ms": 101818,
+      "name": "Fin de Fiesta",
+      "url": "https://open.spotify.com/track/0ZzNRgWM8LkgiHXbr3gfuq"
     },
     {
       "added_at": "2024-12-20 03:00:01",
@@ -1335,6 +1335,22 @@
     {
       "added_at": "2024-12-20 03:00:01",
       "album": {
+        "name": "Romaphonic Sessions",
+        "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Calamaro",
+          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
+        }
+      ],
+      "duration_ms": 279994,
+      "name": "Paloma - Romaphonic",
+      "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
+    },
+    {
+      "added_at": "2024-12-20 03:00:01",
+      "album": {
         "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
         "url": "https://open.spotify.com/album/6lA85fh5n7ut2C8B1PUWt0"
       },
@@ -1351,22 +1367,6 @@
       "duration_ms": 183786,
       "name": "Live Sessions Vol. 1 - Ya Me Habr\u00e9 Ido",
       "url": "https://open.spotify.com/track/7fYrjpCLegFYOA3LTznMzk"
-    },
-    {
-      "added_at": "2024-12-20 03:00:01",
-      "album": {
-        "name": "Romaphonic Sessions",
-        "url": "https://open.spotify.com/album/4WBgkA2GTBT6Vc2Eo7hjpl"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Calamaro",
-          "url": "https://open.spotify.com/artist/3tAICgiSR5PfYY4B8qsoAU"
-        }
-      ],
-      "duration_ms": 279994,
-      "name": "Paloma - Romaphonic",
-      "url": "https://open.spotify.com/track/6zSl32Slcz3R6guCdNIiIF"
     },
     {
       "added_at": "2024-12-20 03:00:01",

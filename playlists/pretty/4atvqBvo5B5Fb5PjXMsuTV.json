@@ -1,12 +1,12 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 18 Jan 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 19 Jan 23:03 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOo7nGX0Vj5eDfSeiW0TNgIvGqh3+r",
+  "snapshot_id": "AAAOrIKieZFQ+a872yvVKI93Soe4z11T",
   "tracks": [
     {
       "added_at": "2025-01-17 19:03:32",
@@ -45,6 +45,42 @@
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
     },
     {
+      "added_at": "2025-01-18 23:03:29",
+      "album": {
+        "name": "big change",
+        "url": "https://open.spotify.com/album/486zPFFGXeujkL6xSZxyCW"
+      },
+      "artists": [
+        {
+          "name": "Neil Young",
+          "url": "https://open.spotify.com/artist/6v8FB84lnmJs434UJf2Mrm"
+        },
+        {
+          "name": "neil young and the chrome hearts",
+          "url": "https://open.spotify.com/artist/35S7T09aV4E9CC0R2RgTXK"
+        }
+      ],
+      "duration_ms": 174560,
+      "name": "big change",
+      "url": "https://open.spotify.com/track/0s4xPjltG2hQhNMqNwRUlx"
+    },
+    {
+      "added_at": "2025-01-18 19:03:20",
+      "album": {
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4roX3Fjw70mH8BnX9pir4V"
+      },
+      "artists": [
+        {
+          "name": "Cher Lloyd",
+          "url": "https://open.spotify.com/artist/4m4SfDVbF5wxrwEjDKgi4k"
+        }
+      ],
+      "duration_ms": 175139,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/2UecHtdzMeHhpeMdSZZfgi"
+    },
+    {
       "added_at": "2025-01-17 23:02:57",
       "album": {
         "name": "Daddy's Home",
@@ -81,6 +117,22 @@
       "url": "https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ"
     },
     {
+      "added_at": "2025-01-18 04:02:53",
+      "album": {
+        "name": "A Question of You",
+        "url": "https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "duration_ms": 222667,
+      "name": "A Question of You",
+      "url": "https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE"
+    },
+    {
       "added_at": "2025-01-17 14:03:36",
       "album": {
         "name": "MISS ME?",
@@ -95,6 +147,26 @@
       "duration_ms": 126680,
       "name": "MISS ME?",
       "url": "https://open.spotify.com/track/19T5c0CENOO6K32TJTUg7r"
+    },
+    {
+      "added_at": "2025-01-18 04:02:53",
+      "album": {
+        "name": "Still Da Same",
+        "url": "https://open.spotify.com/album/7kjyLS15NdK1fOH0DM7f6b"
+      },
+      "artists": [
+        {
+          "name": "Sematary",
+          "url": "https://open.spotify.com/artist/1GLnyPuL45vOsZPs5iANcC"
+        },
+        {
+          "name": "xaviersobased",
+          "url": "https://open.spotify.com/artist/2oM7LMPFu882oC6jSwEqjd"
+        }
+      ],
+      "duration_ms": 178159,
+      "name": "Still Da Same",
+      "url": "https://open.spotify.com/track/5dH46v9t7cv72dEze9kr32"
     },
     {
       "added_at": "2025-01-17 09:03:22",
@@ -131,6 +203,38 @@
       "duration_ms": 482711,
       "name": "Even Further Down The Drain",
       "url": "https://open.spotify.com/track/6Yng1QJUTp6heu8uVd4zYf"
+    },
+    {
+      "added_at": "2025-01-18 09:02:38",
+      "album": {
+        "name": "Spawn!",
+        "url": "https://open.spotify.com/album/0ujtXCesRc8pzxQ7j88DY3"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "duration_ms": 196800,
+      "name": "Spawn!",
+      "url": "https://open.spotify.com/track/5NFO5SRoOO8XDixabs1aTp"
+    },
+    {
+      "added_at": "2025-01-18 19:03:20",
+      "album": {
+        "name": "FEED",
+        "url": "https://open.spotify.com/album/0TL8SR1bIxBb5yEca2pUZ4"
+      },
+      "artists": [
+        {
+          "name": "PSYCHO-FRAME",
+          "url": "https://open.spotify.com/artist/1eJus7RvYqtaTR82aRSWgR"
+        }
+      ],
+      "duration_ms": 206857,
+      "name": "NO REVIVES",
+      "url": "https://open.spotify.com/track/2Ev083dzx80UqK8kMBXVNT"
     },
     {
       "added_at": "2025-01-17 19:03:32",
@@ -413,6 +517,22 @@
       "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
     },
     {
+      "added_at": "2025-01-18 04:02:53",
+      "album": {
+        "name": "shoreline",
+        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
+      },
+      "artists": [
+        {
+          "name": "chloe moriondo",
+          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
+        }
+      ],
+      "duration_ms": 244473,
+      "name": "shoreline",
+      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
+    },
+    {
       "added_at": "2025-01-15 19:02:40",
       "album": {
         "name": "Ankles",
@@ -459,6 +579,22 @@
       "duration_ms": 173177,
       "name": "Bovine Excision",
       "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
+    },
+    {
+      "added_at": "2025-01-18 04:02:53",
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "duration_ms": 296226,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl"
     },
     {
       "added_at": "2025-01-15 09:02:44",
@@ -567,6 +703,22 @@
       "duration_ms": 185915,
       "name": "Switch Over",
       "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
+    },
+    {
+      "added_at": "2025-01-18 09:02:38",
+      "album": {
+        "name": "Undefined",
+        "url": "https://open.spotify.com/album/6OLWuDPS5HLefkEusT8UL6"
+      },
+      "artists": [
+        {
+          "name": "Bad Computer",
+          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
+        }
+      ],
+      "duration_ms": 214687,
+      "name": "Undefined",
+      "url": "https://open.spotify.com/track/7KISwkT8OQRUDRsZLjFCra"
     },
     {
       "added_at": "2025-01-11 23:02:39",
@@ -715,158 +867,6 @@
       "duration_ms": 335233,
       "name": "What It Feels Like",
       "url": "https://open.spotify.com/track/6zkQMyz95McIOpoR01l0T9"
-    },
-    {
-      "added_at": "2025-01-13 23:02:48",
-      "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 180540,
-      "name": "Hypnotized (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
-    },
-    {
-      "added_at": "2025-01-10 19:02:51",
-      "album": {
-        "name": "Single File Line",
-        "url": "https://open.spotify.com/album/5ubqjn1OiCSkv9RAF9sFsy"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        }
-      ],
-      "duration_ms": 130673,
-      "name": "Single File Line",
-      "url": "https://open.spotify.com/track/3jZTAWOSNWaWauQ03WX9da"
-    },
-    {
-      "added_at": "2025-01-10 09:02:54",
-      "album": {
-        "name": "IT girl",
-        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 153718,
-      "name": "IT girl",
-      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
-    },
-    {
-      "added_at": "2025-01-11 04:02:37",
-      "album": {
-        "name": "COME DANCE (MIU MIU ENCOUNTERS)",
-        "url": "https://open.spotify.com/album/0zpJPhxojU5qHOjjNCZbZM"
-      },
-      "artists": [
-        {
-          "name": "Lexie Liu",
-          "url": "https://open.spotify.com/artist/6fs2or0cKLEM2xohWq8SoX"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "COME DANCE (MIU MIU ENCOUNTERS)",
-      "url": "https://open.spotify.com/track/3H29ThvDBpmrqntJnXekvM"
-    },
-    {
-      "added_at": "2025-01-12 23:02:54",
-      "album": {
-        "name": "Snowlover",
-        "url": "https://open.spotify.com/album/6Z0JpOkA3bxou9X6Cg4R70"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 178666,
-      "name": "Snowlover",
-      "url": "https://open.spotify.com/track/4VnfGYHaTRDEO4Udn3f8C1"
-    },
-    {
-      "added_at": "2025-01-10 09:02:54",
-      "album": {
-        "name": "Penthouse",
-        "url": "https://open.spotify.com/album/4dF8UpDyIp7wld4rbmmyf1"
-      },
-      "artists": [
-        {
-          "name": "1oneam",
-          "url": "https://open.spotify.com/artist/089ASSwOW4Cih3frNuDtUv"
-        }
-      ],
-      "duration_ms": 161280,
-      "name": "Penthouse",
-      "url": "https://open.spotify.com/track/1SH8lZ4fP6dt7PjEhji4pD"
-    },
-    {
-      "added_at": "2025-01-12 19:02:28",
-      "album": {
-        "name": "Itamambuca",
-        "url": "https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb"
-      },
-      "artists": [
-        {
-          "name": "Paulo Londra",
-          "url": "https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 243793,
-      "name": "Itamambuca",
-      "url": "https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl"
-    },
-    {
-      "added_at": "2025-01-09 19:02:27",
-      "album": {
-        "name": "5 Dollar Pony Rides",
-        "url": "https://open.spotify.com/album/63QYYtqaXBVJMDp161amnY"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 222119,
-      "name": "5 Dollar Pony Rides",
-      "url": "https://open.spotify.com/track/3ob86O0HYEc7PDkBpdzSoT"
-    },
-    {
-      "added_at": "2025-01-09 19:02:27",
-      "album": {
-        "name": "Paranoid",
-        "url": "https://open.spotify.com/album/2B23QII7brSpBxobhnAXfr"
-      },
-      "artists": [
-        {
-          "name": "PUP",
-          "url": "https://open.spotify.com/artist/6A7uqgC2N1nUhrCLAytHxN"
-        }
-      ],
-      "duration_ms": 205632,
-      "name": "Paranoid",
-      "url": "https://open.spotify.com/track/6wZ9zc4U7XGcXRdlyDLfBK"
     }
   ],
   "unique_name": "New Singles Now",

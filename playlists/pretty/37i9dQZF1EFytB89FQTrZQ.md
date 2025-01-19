@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4Wi1FLcqmkfe8LZa5QxrSA">MNEK</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,577 likes - 346 songs - 19 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,578 likes - 346 songs - 19 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -196,8 +196,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 186 | [Oh The Glamour](https://open.spotify.com/track/12bjMLgcc4vtwAQZd0byLL) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Eden Prince](https://open.spotify.com/artist/31Eea8xaK1xAMyJy2iWE0z) | [MYCELiUM](https://open.spotify.com/album/70EGm440rh8lEHNCj4NZdX) | 3:21 |
 | 187 | [Shoulda Woulda Coulda](https://open.spotify.com/track/24tiLnZ26wjYX3UiKUmVdK) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 3:46 |
 | 188 | [Love Divine](https://open.spotify.com/track/0MJSzqM7qt4ImICjuhXqNe) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO) | [Love Divine](https://open.spotify.com/album/5YFotMhIQuhQqoxzS2qhnu) | 4:41 |
-| 189 | [Girlfriend](https://open.spotify.com/track/0jIUiSTrJuDxjkf7ddAEYy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:03 |
-| 190 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
+| 189 | [Psycho and Beautiful](https://open.spotify.com/track/66hTmSvvdanE90lCEp7ogV) | [CLASS:y](https://open.spotify.com/artist/3jcfHmXvjOgHzfyVE55GzZ) | [LOVE XX](https://open.spotify.com/album/27oOn7dm9kXQSmksJkAHy5) | 2:50 |
+| 190 | [Girlfriend](https://open.spotify.com/track/0jIUiSTrJuDxjkf7ddAEYy) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 4:03 |
 | 191 | [Correct](https://open.spotify.com/track/6FKSabhxmRfpAsn6NJMfms) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:55 |
 | 192 | [Find A Place \(ft\. MNEK\)](https://open.spotify.com/track/04dqOCvtYqZiCyroSmC8AG) | [Becky Hill](https://open.spotify.com/artist/4EPJlUEBy49EX1wuFOvtjK), [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Get To Know](https://open.spotify.com/album/1vlHG5JJCSsWBuA5vPTY7Q) | 3:43 |
 | 193 | [I'll Be Your Strength](https://open.spotify.com/track/6UWkU4NFEECPDwoGQN4ESx) | [The Wanted](https://open.spotify.com/artist/2NhdGz9EDv2FeUw6udu2g1) | [Battleground \(Deluxe Edition\)](https://open.spotify.com/album/2hnaJ8ktG2FSP1EthsCo6N) | 3:25 |
@@ -230,8 +230,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 220 | [Critical](https://open.spotify.com/track/5OzECzDAbZ4BUKenQB11q2) | [Sam Tompkins](https://open.spotify.com/artist/04uu8U3I1h26Fp2NBkPTRZ) | [From My Sleeve To The World](https://open.spotify.com/album/5B9nB3l4Ge5AOiBz4jEs2o) | 3:14 |
 | 221 | [Phone](https://open.spotify.com/track/2ClPhnTuoffoj3CkDxEdGi) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [Language](https://open.spotify.com/album/1Savte5xUnDV7zXpzpf4AR) | 3:23 |
 | 222 | [I Took A Little Something \- Version](https://open.spotify.com/track/1TYlXRabF5SOS7N4YjlGAE) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [I Took a Little Something, Dance Package](https://open.spotify.com/album/6KsVRguKevj787iSPkD6hQ) | 4:11 |
-| 223 | [INNOCENT](https://open.spotify.com/track/1KIFCi8G2xun3uXACcZDZy) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM), [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [INNOCENT](https://open.spotify.com/album/4EW6GvsKJE1X40aHbOR9Fk) | 3:26 |
-| 224 | [Trustworthy \(Interlude\)](https://open.spotify.com/track/2TPggh1EPuvx8NoshafWn5) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 1:36 |
+| 223 | [Trustworthy \(Interlude\)](https://open.spotify.com/track/2TPggh1EPuvx8NoshafWn5) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Access All Areas](https://open.spotify.com/album/3wSWMuHQOJ2gU22t5sCouR) | 1:36 |
+| 224 | [INNOCENT](https://open.spotify.com/track/1KIFCi8G2xun3uXACcZDZy) | [Ryan Ashley](https://open.spotify.com/artist/6kZjELknW6k5H1kSZDKcoM), [Kate Stewart](https://open.spotify.com/artist/494OPqLjjEhjKil1G6MWho) | [INNOCENT](https://open.spotify.com/album/4EW6GvsKJE1X40aHbOR9Fk) | 3:26 |
 | 225 | [Worth My While](https://open.spotify.com/track/61yCjv5bKruUBDmbsls0Pn) | [Manny Norté](https://open.spotify.com/artist/5IZXhE6DcoszTt30hAeJuw), [Stalk Ashley](https://open.spotify.com/artist/6VCt6Dh7TaZF330ZFeNHv5), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Worth My While](https://open.spotify.com/album/4xjs0e8UUcJ7HUWrapvqR5) | 3:25 |
 | 226 | [Silly Games](https://open.spotify.com/track/3aCak9ENO5AvlhjNbYwR6N) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Silly Games](https://open.spotify.com/album/3VZ8Mriwb6VFPeE690S0Hh) | 2:39 |
 | 227 | [Press Rewind](https://open.spotify.com/track/26GKELlEnxOfYpUDJ5etbB) | [Kaiser Chiefs](https://open.spotify.com/artist/0LbLWjaweRbO4FDKYlbfNt) | [Stay Together](https://open.spotify.com/album/1a1d7otjF9oxSGHHlSGbmo) | 5:01 |
@@ -355,4 +355,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFytB89FQTrZQ.md) - [plain]
 | 345 | [Forever](https://open.spotify.com/track/4nFQk5qNI8TKWnorHDljEp) | [Jono Hill](https://open.spotify.com/artist/6gQmXqh4cXimoa1NotjBQW) | [As Far as the Eye Can See \(Original Score\)](https://open.spotify.com/album/6ACj9tILNQn22YobKjbfAr) | 0:44 |
 | 346 | [See You When I Look At You](https://open.spotify.com/track/3qjXYDCuRWVmCulEsCAM3L) | [King Lowkey Tha Bread Winner](https://open.spotify.com/artist/1xHrLzZi7eNjqQUcSIpiUp) | [Real Recognize Real But I Peep The Fake Too](https://open.spotify.com/album/2wj9RYyXjMuHLvlTHMmPb6) | 2:47 |
 
-Snapshot ID: `AbnI1gAAAAAsoMTi3kAjeHNrqx/VYpcY`
+Snapshot ID: `AbnOsgAAAACOCLLgkExbgIlZyXPvPElu`

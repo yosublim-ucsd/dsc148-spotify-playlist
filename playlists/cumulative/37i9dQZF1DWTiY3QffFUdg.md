@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-244 songs - 13 hr 0 min
+245 songs - 13 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,6 +79,7 @@
 | [Gasoline](https://open.spotify.com/track/5ardmsHuWc0chy7GzsvrLd) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [Gasoline](https://open.spotify.com/album/7CvBP12l6XQHKCkn6hnxeY) | 3:13 | 2024-03-29 |  |
 | [GENESIS](https://open.spotify.com/track/2NZ8HlZmXQUvDonf24hw34) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD), [Oliver Heldens](https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p) | [GENESIS](https://open.spotify.com/album/0ooUnGvQJmZap152eUHY0y) | 3:28 | 2024-02-02 | 2024-07-25 |
 | [Get Up](https://open.spotify.com/track/6UFmrytCO3Dfia95c40RcB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Get Up](https://open.spotify.com/album/3d5lmdfqpoCU49lJaI4k8J) | 4:03 | 2023-08-11 | 2023-08-26 |
+| [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 | 2025-01-17 |  |
 | [Give In \- VE/RA Remix](https://open.spotify.com/track/0dGhV1P8EXUJDNAckHGmI1) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC) | [Give In \(VE/RA Remix\)](https://open.spotify.com/album/2bb0dvGrReZelAiRSNqlfB) | 3:06 | 2023-08-25 | 2023-09-08 |
 | [Glow](https://open.spotify.com/track/4hulj08qi6HvsUfipIkzdk) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/1zcHK4j2d06jEEoLrnSS0G) | 3:13 | 2023-08-11 | 2023-11-05 |
 | [Glow](https://open.spotify.com/track/5SgJkK2j7HQXUAFl1wJ9HW) | [Rebūke](https://open.spotify.com/artist/113reBz1jA6rVxbXl55mlj) | [Glow / Void](https://open.spotify.com/album/5EJiHGODG0BccM8YHsDTH1) | 3:13 | 2023-11-03 | 2024-04-19 |
@@ -142,7 +143,7 @@
 | [Monster \- Don Diablo VIP Mix](https://open.spotify.com/track/27vl3TEItJk29fllQ3LD9V) | [Don Diablo](https://open.spotify.com/artist/1l2ekx5skC4gJH8djERwh1), [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG) | [Monster \(Don Diablo VIP Mix\)](https://open.spotify.com/album/4tOwtG1yNJspwp0tWvU1GG) | 3:03 | 2024-05-31 | 2024-07-09 |
 | [Move](https://open.spotify.com/track/1zR99sAbPNjVnO7v9Q5IiP) | [Hardwell](https://open.spotify.com/artist/6BrvowZBreEkXzJQMpL174), [KAAZE](https://open.spotify.com/artist/6WGE3kO8ULME2ErBcOksSR) | [Move](https://open.spotify.com/album/07tfndkMlsS8WpEDU8oFDx) | 2:59 | 2024-06-07 | 2024-10-05 |
 | [Move It](https://open.spotify.com/track/7F7G8FuCtggmPvs51E9fmN) | [POLTERGST](https://open.spotify.com/artist/0QlnfOIWscqfuWTcci7IwM) | [Move It](https://open.spotify.com/album/1IxDiKZoA2gGfoQMC3EJ4n) | 3:05 | 2023-10-06 |  |
-| [My Fantasy](https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [My Fantasy](https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF) | 3:00 | 2024-08-23 |  |
+| [My Fantasy](https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [My Fantasy](https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF) | 3:00 | 2024-08-23 | 2025-01-19 |
 | [My Fantasy](https://open.spotify.com/track/2mbRfE0uDMWBAG0x3I7VCJ) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [My Fantasy](https://open.spotify.com/album/4BtrOR6UZNQV8yJl0P3vF4) | 2:59 | 2024-01-26 | 2024-03-16 |
 | [My Gasoline](https://open.spotify.com/track/6dyfsauAoa5qN0tj9JKamE) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Fēlēs](https://open.spotify.com/artist/7akxhVMmCpSDFw152XqCu6) | [My Gasoline](https://open.spotify.com/album/0EaF9YPTmGw5K9ndExhQ7a) | 3:56 | 2023-08-18 |  |
 | [New Generation \(The Official Nature One Anthem 2024\)](https://open.spotify.com/track/297in4fZqWvilokR586DlB) | [Lilly Palmer](https://open.spotify.com/artist/4h8IEOdrg60WM5XGyNOCVU) | [New Generation](https://open.spotify.com/album/3ZTcFG7CiXC20BedmT96UB) | 3:18 | 2024-05-31 | 2024-07-16 |

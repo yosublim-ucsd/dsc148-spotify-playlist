@@ -1,6 +1,6 @@
 {
   "description": "R&B jams for the brokenhearted.",
-  "num_followers": 8484,
+  "num_followers": 8483,
   "original_name": "Heartbreak Hotel",
   "owner": {
     "name": "Spotify",
@@ -639,6 +639,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Lemonade",
+        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
+      },
+      "artists": [
+        {
+          "name": "Beyonc\u00e9",
+          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
+        }
+      ],
+      "duration_ms": 237440,
+      "name": "Love Drought",
+      "url": "https://open.spotify.com/track/2RQAG0wQt35UzAPEyVJFWN"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Unleash The Dragon",
         "url": "https://open.spotify.com/album/0nyora4kbjBGE4d1B9gxnm"
       },
@@ -671,22 +687,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Lemonade",
-        "url": "https://open.spotify.com/album/7dK54iZuOxXFarGhXwEXfF"
-      },
-      "artists": [
-        {
-          "name": "Beyonc\u00e9",
-          "url": "https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m"
-        }
-      ],
-      "duration_ms": 237440,
-      "name": "Love Drought",
-      "url": "https://open.spotify.com/track/2RQAG0wQt35UzAPEyVJFWN"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Over",
         "url": "https://open.spotify.com/album/5AnJbiMebwoHI7mwgbhv2H"
       },
@@ -699,6 +699,22 @@
       "duration_ms": 205275,
       "name": "Over",
       "url": "https://open.spotify.com/track/1DOgkaR5Gqa8JtPEIbQORC"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Change",
+        "url": "https://open.spotify.com/album/1xY00CnzzvXjYZjZEUS4qI"
+      },
+      "artists": [
+        {
+          "name": "Sugababes",
+          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
+        }
+      ],
+      "duration_ms": 212400,
+      "name": "About You Now",
+      "url": "https://open.spotify.com/track/1ctdfJSzp6qF2iDAVdDrfl"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -719,22 +735,6 @@
       "duration_ms": 270546,
       "name": "Never Call Me",
       "url": "https://open.spotify.com/track/0WXct4PcELq8Jh1R4Yhw4W"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/1xY00CnzzvXjYZjZEUS4qI"
-      },
-      "artists": [
-        {
-          "name": "Sugababes",
-          "url": "https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf"
-        }
-      ],
-      "duration_ms": 212400,
-      "name": "About You Now",
-      "url": "https://open.spotify.com/track/1ctdfJSzp6qF2iDAVdDrfl"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -763,22 +763,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Your Woman",
-        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
-      },
-      "artists": [
-        {
-          "name": "Sunshine Anderson",
-          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
-        }
-      ],
-      "duration_ms": 295826,
-      "name": "Heard It All Before",
-      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "The Way It Is",
         "url": "https://open.spotify.com/album/4zEAsP0RIfbGARdtsgAaUV"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 327693,
       "name": "I Should Have Cheated",
       "url": "https://open.spotify.com/track/5tFDgH6do20IXdSoNBAmXK"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Your Woman",
+        "url": "https://open.spotify.com/album/2y7sSNd02a5uTfauRPY0lp"
+      },
+      "artists": [
+        {
+          "name": "Sunshine Anderson",
+          "url": "https://open.spotify.com/artist/0hnmRa5ahunapQbPjKUbMK"
+        }
+      ],
+      "duration_ms": 295826,
+      "name": "Heard It All Before",
+      "url": "https://open.spotify.com/track/0xikWgPgYN9BEes0ieZ8Co"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -879,6 +879,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Selfless",
+        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
+      },
+      "artists": [
+        {
+          "name": "Kiana Led\u00e9",
+          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
+        }
+      ],
+      "duration_ms": 222386,
+      "name": "EX",
+      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Brian McKnight",
         "url": "https://open.spotify.com/album/2LftuOQxTIDRfHYOGaCJJG"
       },
@@ -907,22 +923,6 @@
       "duration_ms": 246773,
       "name": "Charlene",
       "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Selfless",
-        "url": "https://open.spotify.com/album/3mt812NnyqmyhujjNNT1oP"
-      },
-      "artists": [
-        {
-          "name": "Kiana Led\u00e9",
-          "url": "https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs"
-        }
-      ],
-      "duration_ms": 222386,
-      "name": "EX",
-      "url": "https://open.spotify.com/track/47cQCF21TczFSmGfpd7c07"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -959,22 +959,6 @@
       "duration_ms": 233666,
       "name": "Don't Hurt Yourself (feat. Jack White)",
       "url": "https://open.spotify.com/track/78eouBKVRyhbSzJwChr6QM"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Back At One",
-        "url": "https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo"
-      },
-      "artists": [
-        {
-          "name": "Brian McKnight",
-          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
-        }
-      ],
-      "duration_ms": 247466,
-      "name": "6, 8, 12",
-      "url": "https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1067,6 +1051,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Back At One",
+        "url": "https://open.spotify.com/album/0ZnKlkQrZb1xDbT8bmPSjo"
+      },
+      "artists": [
+        {
+          "name": "Brian McKnight",
+          "url": "https://open.spotify.com/artist/6k0IBR0lU42s2GYpNX7kA9"
+        }
+      ],
+      "duration_ms": 247466,
+      "name": "6, 8, 12",
+      "url": "https://open.spotify.com/track/0IR0twnckQoKMgbnPf5uw0"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Still Over It",
         "url": "https://open.spotify.com/album/4lPqFAvgmG97pxyxQsyCQx"
       },
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
+        "name": "Jackie (Deluxe)",
+        "url": "https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ"
+      },
+      "artists": [
+        {
+          "name": "Ciara",
+          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
+        }
+      ],
+      "duration_ms": 287933,
+      "name": "I Bet",
+      "url": "https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/7hhWPFOdpmA1R9pUM5iUwe"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 218072,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/360NCp4XoQ0sFi5jgu5Ww7"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
-        "name": "Jackie (Deluxe)",
-        "url": "https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ"
-      },
-      "artists": [
-        {
-          "name": "Ciara",
-          "url": "https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX"
-        }
-      ],
-      "duration_ms": 287933,
-      "name": "I Bet",
-      "url": "https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 266306,
-      "name": "Bust Your Windows",
-      "url": "https://open.spotify.com/track/0rE8OLQpoOFe2xa35twgve"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Toni Braxton",
         "url": "https://open.spotify.com/album/73ojqvZakvdkBxSg9pyPqz"
       },
@@ -1327,6 +1311,22 @@
       "duration_ms": 264933,
       "name": "It's Over Now",
       "url": "https://open.spotify.com/track/769geiA8btidGHda4BBDOJ"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/6YW49fCw3Ig7ZWRKCgP4hv"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 266306,
+      "name": "Bust Your Windows",
+      "url": "https://open.spotify.com/track/0rE8OLQpoOFe2xa35twgve"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Fearless",
-        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
-      },
-      "artists": [
-        {
-          "name": "Jazmine Sullivan",
-          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
-        }
-      ],
-      "duration_ms": 257426,
-      "name": "Need U Bad",
-      "url": "https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Sober",
         "url": "https://open.spotify.com/album/7BCTfMzue11vOGekGO0xL0"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 266287,
       "name": "Sober",
       "url": "https://open.spotify.com/track/3C57ewlHARCVqeH3KiYkma"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Fearless",
+        "url": "https://open.spotify.com/album/2V99Z0aZgSK6XTbh19UYTU"
+      },
+      "artists": [
+        {
+          "name": "Jazmine Sullivan",
+          "url": "https://open.spotify.com/artist/7gSjFKpVmDgC2MMsnN8CYq"
+        }
+      ],
+      "duration_ms": 257426,
+      "name": "Need U Bad",
+      "url": "https://open.spotify.com/track/0Ri0LzOMJmqi9HGZE5cRYV"
     },
     {
       "added_at": "2024-04-05 09:59:10",
@@ -1567,22 +1567,6 @@
     {
       "added_at": "2024-04-05 09:59:10",
       "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
-      },
-      "artists": [
-        {
-          "name": "Faith Evans",
-          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
-        }
-      ],
-      "duration_ms": 269173,
-      "name": "You Used to Love Me",
-      "url": "https://open.spotify.com/track/0KhXVmAN4sqeEgsqRd39f2"
-    },
-    {
-      "added_at": "2024-04-05 09:59:10",
-      "album": {
         "name": "Live",
         "url": "https://open.spotify.com/album/7Cg83CbNY30zxin7u5zwSX"
       },
@@ -1595,6 +1579,22 @@
       "duration_ms": 221866,
       "name": "Tyrone - Live",
       "url": "https://open.spotify.com/track/1MCem6JigI6jgQPMgriKbU"
+    },
+    {
+      "added_at": "2024-04-05 09:59:10",
+      "album": {
+        "name": "Faith",
+        "url": "https://open.spotify.com/album/36G7gDkkRckUGU7lgG6nev"
+      },
+      "artists": [
+        {
+          "name": "Faith Evans",
+          "url": "https://open.spotify.com/artist/5NDMothbpdpq2xHqSjrrWn"
+        }
+      ],
+      "duration_ms": 269173,
+      "name": "You Used to Love Me",
+      "url": "https://open.spotify.com/track/0KhXVmAN4sqeEgsqRd39f2"
     },
     {
       "added_at": "2024-04-05 09:59:10",

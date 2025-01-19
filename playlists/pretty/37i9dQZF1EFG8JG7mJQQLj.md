@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,081 likes - 469 songs - 1 day 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,092 likes - 469 songs - 1 day 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,8 +114,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 104 | [WTF Do I Know](https://open.spotify.com/track/37PJvlIfYWqEX6fgjHlnTf) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 2:51 |
 | 105 | [Faking Love \(feat\. Saweetie\)](https://open.spotify.com/track/63IC8gaszSBCasV9THojiT) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 2:28 |
 | 106 | [Somebody To Love](https://open.spotify.com/track/2z8S9ARUXOXWT9h0PdF4yP) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 3:01 |
-| 107 | [Night Crawling \(feat\. Billy Idol\)](https://open.spotify.com/track/4U34WsyOvppOMnRfq7DuOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:09 |
-| 108 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
+| 107 | [hurt my feelings](https://open.spotify.com/track/4mFcwFOlSCxp6hjemRXwpd) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [THINK LATER](https://open.spotify.com/album/0OUOx6rJXtL66AzTnP9KUE) | 2:02 |
+| 108 | [Night Crawling \(feat\. Billy Idol\)](https://open.spotify.com/track/4U34WsyOvppOMnRfq7DuOy) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Billy Idol](https://open.spotify.com/artist/7lzordPuZEXxwt9aoVZYmG) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:09 |
 | 109 | [Rollercoaster](https://open.spotify.com/track/7dxKdQC9Vo1hDxIUnt1z0Q) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:01 |
 | 110 | [Everybody Loves Me](https://open.spotify.com/track/0Q0Vl9fKJF5MDxfVKbD78e) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 3:34 |
 | 111 | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/track/4cno0k9jDEFpLAQyHNjqVx) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb) | [Tócame \(feat\. Arcangel & De La Ghetto\)](https://open.spotify.com/album/6OW0sjGhqQJKxjcBzyvpcq) | 2:46 |
@@ -167,8 +167,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 157 | [Used To Be](https://open.spotify.com/track/2n6red10oCd6YhlEUp6jXy) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Happiness Begins](https://open.spotify.com/album/1Uf67JAtkVWfdydzFFqNF2) | 3:04 |
 | 158 | [Wrong Places \(from Songland\)](https://open.spotify.com/track/2mtLGVN6xZm93wDG9nvviS) | [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os) | [Wrong Places \(from Songland\)](https://open.spotify.com/album/2egSKhWoeRAIycSMnlew9P) | 3:17 |
 | 159 | [Happy](https://open.spotify.com/track/55whSVkLeOcEhLaU91DQ8Q) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 4:02 |
-| 160 | [Bring U Down](https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:11 |
-| 161 | [He Said She Said](https://open.spotify.com/track/0jTTjg6q4jsd2RhuHwTvLj) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Headstrong](https://open.spotify.com/album/18Cdeub4WBPKku92zlsfWp) | 3:08 |
+| 160 | [He Said She Said](https://open.spotify.com/track/0jTTjg6q4jsd2RhuHwTvLj) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Headstrong](https://open.spotify.com/album/18Cdeub4WBPKku92zlsfWp) | 3:08 |
+| 161 | [Bring U Down](https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:11 |
 | 162 | [Higher](https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
 | 163 | [Back for More \(TXT Ver.\)](https://open.spotify.com/track/2AdzsePCqH6NUcMq7tYYmx) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:42 |
 | 164 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
@@ -317,8 +317,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 307 | [Colors](https://open.spotify.com/track/2UyZTPrWFSMysY9cVVjmaB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 3:51 |
 | 308 | [Need](https://open.spotify.com/track/3Fgr0oHWqNnzI3061G0hB3) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Make A Move](https://open.spotify.com/album/1EQNkmhggPKCVbFpJldHeb) | 3:47 |
 | 309 | [Love Me, Love Me](https://open.spotify.com/track/5AJfaxekTYEnZTijlvOuxk) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:11 |
-| 310 | [Passenger](https://open.spotify.com/track/3LzDGNWo1EuIN1bW2RTw2x) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:00 |
-| 311 | [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 |
+| 310 | [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 |
+| 311 | [Passenger](https://open.spotify.com/track/3LzDGNWo1EuIN1bW2RTw2x) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:00 |
 | 312 | [Cowboys](https://open.spotify.com/track/4pQx11xYo2rNP5HdOoaLgt) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 3:58 |
 | 313 | [Hello World \- Song of the Olympics™](https://open.spotify.com/track/5Y9HJkaDmUlIfgNZzUYd5x) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Hello World \(Song of the Olympics™\)](https://open.spotify.com/album/2BVhJV5jYUfHz1AffRqvDJ) | 2:31 |
 | 314 | [Club 57](https://open.spotify.com/track/6vk99X2Rz3TPb5af8kx6Gz) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Give Me The Future](https://open.spotify.com/album/2A3BFOsrRHn0VQuafW2zYs) | 3:12 |
@@ -478,4 +478,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 468 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 469 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AbnI1gAAAAARArBrHsM0egb992AJtMsE`
+Snapshot ID: `AbnOqAAAAACA0/u5Zx2YyWxjLYOjBYX3`

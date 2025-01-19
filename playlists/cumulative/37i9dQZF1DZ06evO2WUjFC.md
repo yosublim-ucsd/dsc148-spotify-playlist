@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-104 songs - 5 hr 50 min
+105 songs - 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,7 +54,7 @@
 | [HEY THERE DELILAH](https://open.spotify.com/track/7vIuBxFomeUSpcy39s23ws) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [HEY THERE DELILAH](https://open.spotify.com/album/7yb61lKZLOXeOIFbyXHrmk) | 4:04 | 2024-05-26 | 2024-07-31 |
 | [HOMBRES BIEN ARMADOS](https://open.spotify.com/track/57uhVytxox6TyjR1MvdnoR) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 2:43 | 2024-02-09 | 2024-05-24 |
 | [Hora de Abordar](https://open.spotify.com/track/1obCocrWe79DkbP4LRvHoa) | [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ahí Viene la Subida](https://open.spotify.com/album/00I04FlbiupCLlwbK7jELJ) | 4:15 | 2024-01-29 |  |
-| [Impala Tumbado](https://open.spotify.com/track/3ufuq63rR9b6vVDoCWuIkd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Impala Tumbado](https://open.spotify.com/album/23bBZvZ2qUoFRrZ7puYXfT) | 2:57 | 2024-01-29 |  |
+| [Impala Tumbado](https://open.spotify.com/track/3ufuq63rR9b6vVDoCWuIkd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Impala Tumbado](https://open.spotify.com/album/23bBZvZ2qUoFRrZ7puYXfT) | 2:57 | 2024-01-29 | 2025-01-19 |
 | [INTRO TUMBADO](https://open.spotify.com/track/4qHB4HsyhVZbJ3IJMH25ZM) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [TUMBADO STYLE](https://open.spotify.com/album/15v1tSjbFg63kCeN009ht7) | 1:37 | 2024-01-29 |  |
 | [Ismael \- En Vivo](https://open.spotify.com/track/1DNSgyWVtQp3TqWmksmVgr) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Ismael \(En Vivo\)](https://open.spotify.com/album/6bHWJYwlZw44HFgKCWVCZ3) | 3:15 | 2024-02-01 | 2024-10-16 |
 | [La Ambición](https://open.spotify.com/track/3lo1Mv3ovnJLijz5BppO48) | [Los Rojos](https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [La Ambición](https://open.spotify.com/album/1QbFLgmBJcU1zxxvxpsq5S) | 3:43 | 2024-02-12 | 2024-11-22 |
@@ -68,6 +68,7 @@
 | [La Niña Quiere Cerveza \(Live\)](https://open.spotify.com/track/3RGHrqczwFxYhdY3gwm62T) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 4:18 | 2024-08-11 | 2025-01-11 |
 | [LA VIDA](https://open.spotify.com/track/2B0hBszNk6Se9sHipx9dig) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [La Vida](https://open.spotify.com/album/5JHQikqMLjcbEu7gIPLmK7) | 3:43 | 2024-01-29 |  |
 | [La Vida Es Un Carnaval \(Live\)](https://open.spotify.com/track/3qsJZt81pdlzRBN3uT1bRH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Live, Cumbia Style](https://open.spotify.com/album/4D7wdyK9OX8l0ApDVOQqO5) | 2:46 | 2024-03-27 | 2024-12-26 |
+| [Las Coquette](https://open.spotify.com/track/5lSATBJW5sKxdtZoWEkOWl) | [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk), [Lupe Borbon y su Blindaje 7](https://open.spotify.com/artist/7gVnPBgCu1Tce8GLBvk7kl), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Las Coquette](https://open.spotify.com/album/4o9brFx9I8j4e7kS12vEqf) | 3:02 | 2025-01-19 |  |
 | [Los Andares De Alfredo](https://open.spotify.com/track/2PL2WfNavyQPrihZYO84B5) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Migueles De Miguel Montoya](https://open.spotify.com/artist/5bNWEPILoKYKWkPbnTKHns) | [Los Andares De Alfredo](https://open.spotify.com/album/1qBgmwNHtokGyv7normIXi) | 3:01 | 2024-01-29 |  |
 | [Los Botones Azules \- En Vivo](https://open.spotify.com/track/2NHn4MUTVUoT3K7LWP2Itb) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 2:25 | 2024-01-29 |  |
 | [LOS CHISMES](https://open.spotify.com/track/2nzLF18tyAGgwXdRzpY2sv) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [LOS CHISMES](https://open.spotify.com/album/0OCz3ZTLBSQQWixFUfx6WX) | 2:55 | 2024-06-17 | 2024-10-07 |

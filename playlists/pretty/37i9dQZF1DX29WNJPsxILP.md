@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 
 > Hindi hip hop hits, fiery bars, and killer beats\. Cover: Emiway Bantai
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,883 likes - 75 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,936 likes - 75 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX29WNJPsxILP.md) - [plain]
 | 33 | [Cigarette](https://open.spotify.com/track/6UsWMfasysjKyYk26oJrFs) | [Farhan Khan](https://open.spotify.com/artist/7htUdS6qzUt3hTmDxMrTFy), [Mr\. Doss](https://open.spotify.com/artist/4oluNv7Wba9L5uGIIrXWKG) | [Alif Laila \(Part 2\)](https://open.spotify.com/album/3MUSOdDUE4NojtZZauRh0i) | 3:35 |
 | 34 | [Bhai Hai](https://open.spotify.com/track/0z2xoirJvVGRDXoBxaH9h8) | [Fotty Seven](https://open.spotify.com/artist/7n5rLZ6NonT1BXW1fQmbuA), [Bali](https://open.spotify.com/artist/65pmgBULHr82D3llNlHtB8), [Enzo](https://open.spotify.com/artist/0QX0UY2UJtnhfEbqUbTz6h) | [Bhai Hai](https://open.spotify.com/album/030XdUEQhiS5NI7hgvgLap) | 2:24 |
 | 35 | [11K](https://open.spotify.com/track/4q7ls1XOMHmZCvTYAqNhxZ) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Lunch Break](https://open.spotify.com/album/16PSZwABl4VFJvfDFOPOoB) | 2:54 |
-| 36 | [Classmate](https://open.spotify.com/track/0xKEqBJh5uYsjM4yYRdmyJ) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ) | [Classmate](https://open.spotify.com/album/7p9kZpL7HHbfNhZNrlhezX) | 3:29 |
-| 37 | [NO CHINA](https://open.spotify.com/track/1LZbyxhEXOjdHwWoaWN7Ve) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:18 |
+| 36 | [NO CHINA](https://open.spotify.com/track/1LZbyxhEXOjdHwWoaWN7Ve) | [Raftaar](https://open.spotify.com/artist/5UdFr0GeO7jKIaNIJgwB36), [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t) | [HARD DRIVE Vol\. 1](https://open.spotify.com/album/1AHeeHqsxY6YxuMzHESiEv) | 3:18 |
+| 37 | [Classmate](https://open.spotify.com/track/0xKEqBJh5uYsjM4yYRdmyJ) | [Karun](https://open.spotify.com/artist/7FvX2e6CgYllzgZ9uempWF), [Nanku](https://open.spotify.com/artist/1ZBspcSxfWh6GuxjGr5u0p), [Adil](https://open.spotify.com/artist/3iTfVWPV4ur3XkrBwz41VZ) | [Classmate](https://open.spotify.com/album/7p9kZpL7HHbfNhZNrlhezX) | 3:29 |
 | 38 | [Title Kya Doon?](https://open.spotify.com/track/7CAAWyMGx2vo4HGDQpgw80) | [Vijay Dk](https://open.spotify.com/artist/0FnHTpXidzx2HMEaqMerkt), [MC Altaf](https://open.spotify.com/artist/1oMKeiHXRkg7tNqwhaS3fu) | [Title Kya Doon?](https://open.spotify.com/album/7pInKnDPeSiG094c81DKpB) | 3:53 |
 | 39 | [Kaha Tak](https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV) | [KR$NA](https://open.spotify.com/artist/5C1S9XwxMuuCciutwMhp5t), [Jokhay](https://open.spotify.com/artist/0Nl4kTPLk2ucrARvaf55zQ), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Time Will Tell](https://open.spotify.com/album/2KeoHVqxTVYsOz5ThUyQ6y) | 3:33 |
 | 40 | [Shakti Aur Kshama](https://open.spotify.com/track/67CZPR2aGFSTKL1r1zlzN8) | [Seedhe Maut](https://open.spotify.com/artist/2oBG74gAocPMFv6Ij9ykdo) | [Kshama](https://open.spotify.com/album/6jgP3YiYzMadVp5XT3FD08) | 4:15 |

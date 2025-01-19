@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,609 likes - 17 songs - 1 hr 8 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,624 likes - 18 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,5 +25,6 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 15 | [The "Sweetest Girl"](https://open.spotify.com/track/2vHXzgaYSP0LNIOZTFx2FA) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 5:07 |
 | 16 | [Love Song for Someone](https://open.spotify.com/track/6agbRiKOPcWFy7ooUX5L9L) | [Labi Siffre](https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX) | [Labi Siffre \(Deluxe Edition\)](https://open.spotify.com/album/53G6qQDFTKytYhSKNAMINo) | 2:47 |
 | 17 | [Stan Is Lowe](https://open.spotify.com/track/2E3h67GZuG6NQ9jDQpV24t) | [Geoffrey Landers](https://open.spotify.com/artist/61boQYG7JKM1E48RWon8Lc) | [The Ever Decimal Pulse](https://open.spotify.com/album/2q4XZHhXycsAejrdhMCVkP) | 5:43 |
+| 18 | [Crushing](https://open.spotify.com/track/0qS8CNO9bZlCJoGk6jyGXo) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/2WwcPCIKcAoVlYmIKjd8PO) | 3:51 |
 
-Snapshot ID: `AAALsgXjpVClPFmIm0km223jkC7Zqobe`
+Snapshot ID: `AAALs3jJd34lzLKv7Z/iBcsPctIBSzSq`

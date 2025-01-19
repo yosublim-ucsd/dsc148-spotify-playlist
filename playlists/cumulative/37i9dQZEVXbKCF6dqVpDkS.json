@@ -853,6 +853,24 @@
     },
     {
       "album": {
+        "name": "A Moment",
+        "url": "https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203545,
+      "name": "A Moment",
+      "url": "https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI"
+    },
+    {
+      "album": {
         "name": "The Off-Season",
         "url": "https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX"
       },
@@ -6755,6 +6773,32 @@
     },
     {
       "album": {
+        "name": "Dag & Nacht",
+        "url": "https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Dag & Nacht",
+      "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
+    },
+    {
+      "album": {
         "name": "Sinterklaasliedjes om mee te zingen",
         "url": "https://open.spotify.com/album/33wATtcjV8qvqOgomkpXAd"
       },
@@ -9734,7 +9778,7 @@
       ],
       "date_added": "2024-09-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 175459,
       "name": "Espresso",
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
@@ -11447,6 +11491,24 @@
     },
     {
       "album": {
+        "name": "Ga Dan!",
+        "url": "https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137999,
+      "name": "Ga Dan!",
+      "url": "https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa"
+    },
+    {
+      "album": {
         "name": "Gaan We Weg?",
         "url": "https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas"
       },
@@ -11630,6 +11692,28 @@
       "duration_ms": 215400,
       "name": "Gata Only (Mashup)",
       "url": "https://open.spotify.com/track/5EWf240yQq0JhlkMBSPyBN"
+    },
+    {
+      "album": {
+        "name": "GBP (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
     },
     {
       "album": {
@@ -14598,7 +14682,7 @@
       ],
       "date_added": "2024-06-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 149732,
       "name": "Huisfeestje",
       "url": "https://open.spotify.com/track/6HfzAzEWhwo19n2jrJnM7k"
@@ -17876,7 +17960,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
@@ -17898,7 +17982,7 @@
       ],
       "date_added": "2024-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -21438,7 +21522,7 @@
       ],
       "date_added": "2024-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 177598,
       "name": "Move",
       "url": "https://open.spotify.com/track/1BJJbSX6muJVF2AK7uH1x4"
@@ -21958,7 +22042,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 144675,
       "name": "NASA",
       "url": "https://open.spotify.com/track/2rpIkmBVX8wCsGcJytW9IY"
@@ -22896,6 +22980,28 @@
       "duration_ms": 187013,
       "name": "Nu Ik Niet Meer Over Je Schrijf",
       "url": "https://open.spotify.com/track/2wvPA1ZpNEtewvbngmbOXY"
+    },
+    {
+      "album": {
+        "name": "Nu Meteen (Slide)",
+        "url": "https://open.spotify.com/album/0nbuaqiqyG3lN2wfOHgypg"
+      },
+      "artists": [
+        {
+          "name": "KM",
+          "url": "https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw"
+        },
+        {
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153621,
+      "name": "Nu Meteen (Slide)",
+      "url": "https://open.spotify.com/track/73epTVTwGh2rSnMkrKmgJS"
     },
     {
       "album": {
@@ -25622,7 +25728,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 156825,
       "name": "PUSH 2 START",
       "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
@@ -27222,7 +27328,7 @@
       ],
       "date_added": "2023-11-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 121451,
       "name": "Satisfyer",
       "url": "https://open.spotify.com/track/0Uy5VFlvsosR3YZbpsxYFh"
@@ -27842,7 +27948,7 @@
       ],
       "date_added": "2024-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
@@ -31168,7 +31274,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 212648,
       "name": "The Door",
       "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
@@ -32870,7 +32976,7 @@
       ],
       "date_added": "2024-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 166153,
       "name": "Vaag - REMIX",
       "url": "https://open.spotify.com/track/6eldmQ56gAtXN55c7MuH8N"
@@ -33178,6 +33284,28 @@
       "duration_ms": 213566,
       "name": "Verdien Model",
       "url": "https://open.spotify.com/track/2QKr1BQ4K2I4sL73kZ1HSy"
+    },
+    {
+      "album": {
+        "name": "Vergeef Mij",
+        "url": "https://open.spotify.com/album/3gbn1CfmSn0Bobgsuja6VP"
+      },
+      "artists": [
+        {
+          "name": "Cor",
+          "url": "https://open.spotify.com/artist/66wqVYADY665LeMxs8nlk3"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188716,
+      "name": "Vergeef Mij",
+      "url": "https://open.spotify.com/track/3sD4qj9SDkPFyNOFHPPiuh"
     },
     {
       "album": {
@@ -35148,7 +35276,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

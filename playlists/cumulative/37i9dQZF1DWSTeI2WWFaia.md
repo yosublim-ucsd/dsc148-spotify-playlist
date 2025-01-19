@@ -4,7 +4,7 @@
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Doechii
 
-745 songs - 1 day 15 hr 50 min
+746 songs - 1 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -189,6 +189,7 @@
 | [DISTANCE](https://open.spotify.com/track/6Bf7cjpixSYnqQbX4rh4Jw) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [DISTANCE](https://open.spotify.com/album/6wTlSDRDjKrG796F3CrRy1) | 2:28 | 2023-07-14 | 2023-08-19 |
 | [Dmtri](https://open.spotify.com/track/1CEVg3GpmapQ5rK5feHbFc) | [Action Bronson](https://open.spotify.com/artist/7BMccF0hQFBpP6417k1OtQ), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Lamb Over Rice](https://open.spotify.com/album/3BPX4x5EQOd9vzpPC2rMrm) | 4:34 | 2021-09-03 | 2022-08-06 |
 | [Do Better](https://open.spotify.com/track/06kBwptOYkGn1xL5XvtsRT) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Zacari](https://open.spotify.com/artist/3qBKjEOanahMxlRojwCzhI) | [Do Better](https://open.spotify.com/album/4XhdHEPifvpnVUa4S33548) | 3:51 | 2022-10-21 | 2023-07-08 |
+| [Do You Have A Destination?](https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 3:24 | 2025-01-17 |  |
 | [DOIN GREAT](https://open.spotify.com/track/3uwTGCYleQp63OlweDUii0) | [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Mike & Keys](https://open.spotify.com/artist/5J0hy1k4Ghvo1iIZ8P7cd4) | [APT 6E](https://open.spotify.com/album/3HDR2DFS1a5QbC1ZnGYiZF) | 2:36 | 2024-06-07 | 2024-07-20 |
 | [Don't Condone 2](https://open.spotify.com/track/5o8cjOJw2TYCAYWL39BCwh) | [Symba](https://open.spotify.com/artist/06S3fr7xEES7e3QPXhu3ay) | [Don't Condone 2](https://open.spotify.com/album/4hb0mt3XZ4gbUePCMoPYeQ) | 4:24 | 2022-06-10 | 2022-06-18 |
 | [Don't Let The Devil \[Feat\. thankugoodsir\] \- Single Version](https://open.spotify.com/track/2LBwRP4HSUTJiLobjhaaXp) | [Killer Mike](https://open.spotify.com/artist/2N4EYkIlG1kv25g6Wv8LGI), [El\-P](https://open.spotify.com/artist/57UnSUpae3SbRekxNa5Kgl), [thankugoodsir](https://open.spotify.com/artist/64wFZ5RSArS1MwJ0N0nJhN) | [Don't Let The Devil \[Feat\. thankugoodsir\]](https://open.spotify.com/album/60rpMY5zgymbCEn7ICfi8M) | 2:44 | 2023-04-21 | 2023-08-12 |
@@ -495,7 +496,7 @@
 | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/track/4kh3n9otS9ITMUItdDyi8z) | [Smoke DZA](https://open.spotify.com/artist/3kf0gOpxWtkyeMNJVDQPtd), [MonstaBeatz](https://open.spotify.com/artist/6HySifT1vTrgLx6Og9BqPu), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Park Bench Blues \(feat\. Curren$y\)](https://open.spotify.com/album/2qee44vmrcczNqBuMv4Jf1) | 2:13 | 2022-12-16 | 2023-03-02 |
 | [Passion](https://open.spotify.com/track/6oVLxrogWL86DNet6SR6y2) | [Millyz](https://open.spotify.com/artist/7dDYME7Y3GoEQotd8gUvQg) | [Passion](https://open.spotify.com/album/3AFkefqinn7Jz7DuvuvLoe) | 3:05 | 2023-09-29 | 2023-12-08 |
 | [Paula Deen \(feat\. Westside Gunn\)](https://open.spotify.com/track/0x928J9Dupgv8zxmuO565F) | [Armani Caesar](https://open.spotify.com/artist/53S3boqktbqiB1JfHzsu1f), [Westside Gunn](https://open.spotify.com/artist/0ABk515kENDyATUdpCKVfW) | [Paula Deen \(feat\. Westside Gunn\)](https://open.spotify.com/album/7KJH5Nyt14qEwWUKnUwDcH) | 2:00 | 2022-09-23 | 2023-04-09 |
-| [Peace](https://open.spotify.com/track/5grAb7wy8xwwKxdGkSclX7) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Punch](https://open.spotify.com/artist/3qpAgvQBkPuFhUtRi1qbd0) | [Soul Burger](https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6) | 5:42 | 2024-11-08 |  |
+| [Peace](https://open.spotify.com/track/5grAb7wy8xwwKxdGkSclX7) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Lupe Fiasco](https://open.spotify.com/artist/01QTIT5P1pFP3QnnFSdsJf), [Punch](https://open.spotify.com/artist/3qpAgvQBkPuFhUtRi1qbd0) | [Soul Burger](https://open.spotify.com/album/4h3I43cFQyDqezGcREnTK6) | 5:42 | 2024-11-08 | 2025-01-19 |
 | [Peaks N Pitfalls](https://open.spotify.com/track/0tk5j9BcmGEzdRziv2U8aR) | [GRIP](https://open.spotify.com/artist/4Ew8VmfE06siL2THiMBwPP) | [Peaks N Pitfalls](https://open.spotify.com/album/0ZyQCcrEs9zGWadDPdZCjE) | 3:11 | 2021-09-03 | 2022-07-29 |
 | [Penny & Shaq Freestyle \(feat\. 38 Spesh\)](https://open.spotify.com/track/2Z83a47oGc8t8RoUQmJvmk) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT) | [Buffalo Butch, Vol\. 1](https://open.spotify.com/album/6MM5ngsgBgSK4oKU5cNTY4) | 2:24 | 2024-08-23 | 2024-08-31 |
 | [PENSION](https://open.spotify.com/track/4mFXc7wNAtbPtks8W266AT) | [Marlon Craft](https://open.spotify.com/artist/7MigDh04CCntQbsBvugEmb) | [PENSION](https://open.spotify.com/album/2u0ZgJFyAZ7jm4qxuoxiro) | 3:17 | 2023-06-16 | 2023-07-22 |

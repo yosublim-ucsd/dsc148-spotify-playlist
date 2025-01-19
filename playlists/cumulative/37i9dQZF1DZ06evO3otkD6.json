@@ -731,6 +731,28 @@
     },
     {
       "album": {
+        "name": "La Cuadrada",
+        "url": "https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J"
+      },
+      "artists": [
+        {
+          "name": "Belinda",
+          "url": "https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW"
+        },
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160557,
+      "name": "La Cuadrada",
+      "url": "https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk"
+    },
+    {
+      "album": {
         "name": "LA MALA",
         "url": "https://open.spotify.com/album/4R2sQCI4LfP0SVFdm8kobO"
       },

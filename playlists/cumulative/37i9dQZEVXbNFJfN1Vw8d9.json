@@ -1637,6 +1637,28 @@
     },
     {
       "album": {
+        "name": "Angelito",
+        "url": "https://open.spotify.com/album/1MbNQm1oxXxqPboTVHsc9o"
+      },
+      "artists": [
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        },
+        {
+          "name": "Trueno",
+          "url": "https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130813,
+      "name": "Angelito",
+      "url": "https://open.spotify.com/track/1gRaHuKLW9Uo9qYkb7MvGP"
+    },
+    {
+      "album": {
         "name": "ANTAGONISTA",
         "url": "https://open.spotify.com/album/7ofQ6GsdNL01Kki0GVaNrZ"
       },
@@ -4554,7 +4576,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 197418,
       "name": "CHAPIADORA.COM",
       "url": "https://open.spotify.com/track/1iP7aZUNvyt2EtmpjSbtRz"
@@ -7132,6 +7154,24 @@
       "duration_ms": 144427,
       "name": "DONDE SE APRENDE A QUERER?",
       "url": "https://open.spotify.com/track/0sfk352FO8bJUjWjIsyzSR"
+    },
+    {
+      "album": {
+        "name": "DONDE TE ESCONDES?",
+        "url": "https://open.spotify.com/album/1vrAnAX1vy8ALSS9l25aGE"
+      },
+      "artists": [
+        {
+          "name": "Yapi",
+          "url": "https://open.spotify.com/artist/6dhhE0bRngFuvKe3vnzdKn"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134870,
+      "name": "DONDE TE ESCONDES?",
+      "url": "https://open.spotify.com/track/7DiNJqM6uyiYqqWX1wsqxG"
     },
     {
       "album": {
@@ -12070,7 +12110,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 183172,
       "name": "KASSANDRA",
       "url": "https://open.spotify.com/track/6mP16Mr2X3ZU2bNmWBUqzK"
@@ -13170,6 +13210,32 @@
       "duration_ms": 150000,
       "name": "LA REINA",
       "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
+    },
+    {
+      "album": {
+        "name": "LA REINA (REMIX)",
+        "url": "https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        },
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205223,
+      "name": "LA REINA - REMIX",
+      "url": "https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M"
     },
     {
       "album": {
@@ -15872,7 +15938,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 192906,
       "name": "Me has invitado a bailar",
       "url": "https://open.spotify.com/track/3tMftGMXTPbQlmjh4FzXpZ"

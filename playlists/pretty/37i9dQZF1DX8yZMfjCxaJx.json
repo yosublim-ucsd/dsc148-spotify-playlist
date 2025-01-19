@@ -1,6 +1,6 @@
 {
   "description": "Las favoritas de los patrones. Los Tucanes de Tijuana, Luis R Conriquez en portada.",
-  "num_followers": 240814,
+  "num_followers": 240915,
   "original_name": "Corridos Chakalosos",
   "owner": {
     "name": "Spotify",
@@ -507,22 +507,6 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "Mono Verde",
-        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
-      },
-      "artists": [
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 195223,
-      "name": "Mono Verde",
-      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
         "name": "Lunetas",
         "url": "https://open.spotify.com/album/77PjwDAfnqkqKWm4yGlV93"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 176760,
       "name": "Lunetas",
       "url": "https://open.spotify.com/track/5stvPTThbnckmxWgW8Nswj"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "Mono Verde",
+        "url": "https://open.spotify.com/album/7nRoaZeKMvG2qmIlKeiy5r"
+      },
+      "artists": [
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 195223,
+      "name": "Mono Verde",
+      "url": "https://open.spotify.com/track/52Z2MDhr07lZuvnR5X47WO"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -943,22 +943,6 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "El Viejo Fino",
-        "url": "https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG"
-      },
-      "artists": [
-        {
-          "name": "Alemi Bustos",
-          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
-        }
-      ],
-      "duration_ms": 171785,
-      "name": "El Viejo Fino",
-      "url": "https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
         "name": "EXOTIC\u00d3N",
         "url": "https://open.spotify.com/album/7MTZomem1mbxWoBgo9u52X"
       },
@@ -975,6 +959,26 @@
       "duration_ms": 158493,
       "name": "EXOTIC\u00d3N",
       "url": "https://open.spotify.com/track/5D679I3gCMw6maX0MQR5Vw"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "El Sera y El Chavo (En Vivo)",
+        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Arriesgado",
+          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 177000,
+      "name": "El Sera y El Chavo (En Vivo)",
+      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -999,22 +1003,18 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "El Sera y El Chavo (En Vivo)",
-        "url": "https://open.spotify.com/album/5puwoWcEjwpboU8sWOAI6C"
+        "name": "El Viejo Fino",
+        "url": "https://open.spotify.com/album/01EPmgyUtq7RRLPFbwpwtG"
       },
       "artists": [
         {
-          "name": "Grupo Arriesgado",
-          "url": "https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh"
-        },
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Alemi Bustos",
+          "url": "https://open.spotify.com/artist/0llOGBcrHCKcZrw8mmdDkF"
         }
       ],
-      "duration_ms": 177000,
-      "name": "El Sera y El Chavo (En Vivo)",
-      "url": "https://open.spotify.com/track/3iHjdDuhelZbJUYTKIoGEq"
+      "duration_ms": 171785,
+      "name": "El Viejo Fino",
+      "url": "https://open.spotify.com/track/0fOUYjkxWEtO5lCeqBfqbh"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "La Gente Del M",
-        "url": "https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO"
-      },
-      "artists": [
-        {
-          "name": "Grupo Definitivo",
-          "url": "https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR"
-        },
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 170403,
-      "name": "La Gente Del M",
-      "url": "https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
         "name": "El Baleado",
         "url": "https://open.spotify.com/album/6YPl2VJp0yGK0xSVfUXmiX"
       },
@@ -1399,6 +1379,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "El Muchacho de la Barba",
+        "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 154352,
+      "name": "El Muchacho de la Barba",
+      "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "EVO LUXURY 2",
         "url": "https://open.spotify.com/album/1f1JtMSwI8gogUd1kj6LmZ"
       },
@@ -1415,18 +1411,38 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "El Muchacho de la Barba",
-        "url": "https://open.spotify.com/album/18YC6REM3qcCvpDlFB0TgQ"
+        "name": "La Gente Del M",
+        "url": "https://open.spotify.com/album/2CvOJKn34jkVEyNoJZBbpO"
       },
       "artists": [
         {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+          "name": "Grupo Definitivo",
+          "url": "https://open.spotify.com/artist/3lPaiUdNwPTpYXdBmrhkxR"
+        },
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
         }
       ],
-      "duration_ms": 154352,
-      "name": "El Muchacho de la Barba",
-      "url": "https://open.spotify.com/track/7fBIGbmh5x4K8tBaBCK5iD"
+      "duration_ms": 170403,
+      "name": "La Gente Del M",
+      "url": "https://open.spotify.com/track/0poOlZivtPe0hUixXV4VsW"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "Punto Y Aparte",
+        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
+      },
+      "artists": [
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "duration_ms": 189149,
+      "name": "Seraf\u00edn",
+      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1451,22 +1467,6 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "Punto Y Aparte",
-        "url": "https://open.spotify.com/album/5PEGCaUeB26YYT8jvlwqmF"
-      },
-      "artists": [
-        {
-          "name": "Panter B\u00e9lico",
-          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
-        }
-      ],
-      "duration_ms": 189149,
-      "name": "Seraf\u00edn",
-      "url": "https://open.spotify.com/track/7s9pcSenofBwaNfI0vjisP"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
         "name": "El Jelty",
         "url": "https://open.spotify.com/album/0HnwPMtwdE6iRhv8vRaulE"
       },
@@ -1479,6 +1479,22 @@
       "duration_ms": 189605,
       "name": "El Jelty",
       "url": "https://open.spotify.com/track/0hXOh8C8Yz6Ok0yMXqdgnO"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 211866,
+      "name": "El G\u00fcero Rey del Pop",
+      "url": "https://open.spotify.com/track/5H4qUtRQC0rJxWolOaEaPy"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1543,22 +1559,6 @@
       "duration_ms": 169216,
       "name": "Mente Activa",
       "url": "https://open.spotify.com/track/0csZ1ZrXQvC71Ocmblrmlp"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "XV Recargado",
-        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 211866,
-      "name": "El G\u00fcero Rey del Pop",
-      "url": "https://open.spotify.com/track/5H4qUtRQC0rJxWolOaEaPy"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
+        "name": "XV Recargado",
+        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
+      },
+      "artists": [
+        {
+          "name": "C\u00f3digo FN",
+          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
+        }
+      ],
+      "duration_ms": 219116,
+      "name": "15 Millones por el M (En Vivo)",
+      "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
         "name": "Todo Marcha Bien",
         "url": "https://open.spotify.com/album/4oxmEgTKEEGghIEUQcNoc9"
       },
@@ -1691,42 +1707,6 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "Por Clave P1",
-        "url": "https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors De Mexicali",
-          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
-        },
-        {
-          "name": "Martin Castillo",
-          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
-        }
-      ],
-      "duration_ms": 187063,
-      "name": "Por Clave P1",
-      "url": "https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
-        "name": "XV Recargado",
-        "url": "https://open.spotify.com/album/47pZ8cK6ufjFgX1RNObRLd"
-      },
-      "artists": [
-        {
-          "name": "C\u00f3digo FN",
-          "url": "https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH"
-        }
-      ],
-      "duration_ms": 219116,
-      "name": "15 Millones por el M (En Vivo)",
-      "url": "https://open.spotify.com/track/28WrLmRF0Q89fv4SpZZigT"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
         "name": "Yo Soy Serafin",
         "url": "https://open.spotify.com/album/6gl5yLhjGsSgZJG0Hu80KM"
       },
@@ -1743,6 +1723,26 @@
       "duration_ms": 161703,
       "name": "Yo Soy Serafin",
       "url": "https://open.spotify.com/track/5eAiuGaZcQ8ckwSMLSDIBu"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "Por Clave P1",
+        "url": "https://open.spotify.com/album/1M5vjzOqjRGWrM1npkK5lo"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors De Mexicali",
+          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
+        },
+        {
+          "name": "Martin Castillo",
+          "url": "https://open.spotify.com/artist/7cTBwZEDfYdYu1ti31AgPw"
+        }
+      ],
+      "duration_ms": 187063,
+      "name": "Por Clave P1",
+      "url": "https://open.spotify.com/track/6zLjCyMBDQeqm7gYP5WQBR"
     },
     {
       "added_at": "2025-01-03 17:44:39",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2025-01-03 17:44:39",
       "album": {
-        "name": "Al Gusto de Uno",
-        "url": "https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg"
-      },
-      "artists": [
-        {
-          "name": "Los Juniors De Mexicali",
-          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
-        }
-      ],
-      "duration_ms": 174804,
-      "name": "El Guero Reyna",
-      "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
-    },
-    {
-      "added_at": "2025-01-03 17:44:39",
-      "album": {
         "name": "El Cabez\u00f3n (El Papas Fritas)",
         "url": "https://open.spotify.com/album/480oASOS6npWutZkW7zeNf"
       },
@@ -1871,6 +1855,22 @@
       "duration_ms": 188393,
       "name": "Bienvenidos a Guasave",
       "url": "https://open.spotify.com/track/1Fmurh0G4umnBgsJtZoD0Q"
+    },
+    {
+      "added_at": "2025-01-03 17:44:39",
+      "album": {
+        "name": "Al Gusto de Uno",
+        "url": "https://open.spotify.com/album/1BUH194MsemjacjDtbp8Eg"
+      },
+      "artists": [
+        {
+          "name": "Los Juniors De Mexicali",
+          "url": "https://open.spotify.com/artist/5XzuwKjS3XZsZTLlP5V0Ou"
+        }
+      ],
+      "duration_ms": 174804,
+      "name": "El Guero Reyna",
+      "url": "https://open.spotify.com/track/0QpkBadc9WblLVSAOK1PQP"
     }
   ],
   "unique_name": "Corridos Chakalosos",

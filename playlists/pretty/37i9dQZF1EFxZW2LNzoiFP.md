@@ -152,8 +152,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 142 | [For You](https://open.spotify.com/track/1cSUTpCUfxCfC8edMtGfPw) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Love To You, Mate](https://open.spotify.com/album/28H1uFx2XFNcQxBkCD2Xj9) | 2:38 |
 | 143 | [Purple Candy Glow](https://open.spotify.com/track/2lTsw84jqXpQs57N6bISs3) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:34 |
 | 144 | [Tomboy](https://open.spotify.com/track/5tXDZ6bye9mxgWAG6jgQ3v) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Yellerkin](https://open.spotify.com/album/7cl5vDncATpcdebhi8hDZ5) | 3:13 |
-| 145 | [Vines](https://open.spotify.com/track/6HjzcRvJrPCPb9Sm4EhKwk) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Vines](https://open.spotify.com/album/7zjWTxQoonrrKIpls4TFaS) | 3:51 |
-| 146 | [Open House](https://open.spotify.com/track/1JDkCStrVPtg6Ni8Z1L3TR) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:52 |
+| 145 | [Open House](https://open.spotify.com/track/1JDkCStrVPtg6Ni8Z1L3TR) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 3:52 |
+| 146 | [Vines](https://open.spotify.com/track/6HjzcRvJrPCPb9Sm4EhKwk) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Vines](https://open.spotify.com/album/7zjWTxQoonrrKIpls4TFaS) | 3:51 |
 | 147 | [The Heat](https://open.spotify.com/track/7sWG0VcHMYPmwSEIFCBkHe) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:11 |
 | 148 | [Joni](https://open.spotify.com/track/6sSRt2THpkn3DdwsmStmd9) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [The Party And The Mess](https://open.spotify.com/album/3fSI4OFejKzQKZFosmR0vX) | 2:32 |
 | 149 | [Take It Easy](https://open.spotify.com/track/7f5IZibzWCT9QFfWcuod1s) | [Rose Paradise](https://open.spotify.com/artist/6ASJ9GtIPOO0QYL7DAVSJv) | [Take It Easy](https://open.spotify.com/album/6scYCCGcXvtyOqClQxK0BM) | 3:44 |
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 234 | [What'll I Do](https://open.spotify.com/track/0pnZEpLAkS86u7CM7I6GQS) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [vavy](https://open.spotify.com/album/28UGEFQlNvLZbJBqZtcXYk) | 1:12 |
 | 235 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `AbnJCAAAAAA3T6iBbs9osqSMdgxh9tqz`
+Snapshot ID: `AbnOlAAAAAB9vXVott82G/L2ACqwpbHm`

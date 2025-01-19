@@ -4,7 +4,7 @@
 
 > Forget it and disappear with deep & melodic <a href="spotify:genre:edm\_dance">house</a>.
 
-567 songs - 1 day 23 hr 25 min
+569 songs - 1 day 23 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [China Plate](https://open.spotify.com/track/0aGjzEGpEJgBLb5KoZAS8i) | [djimboh](https://open.spotify.com/artist/7cIzAFnvs0ilTGyfFJY8fd) | [China Plate / Sivonium](https://open.spotify.com/album/21bUJXbaJUOewmKrZfxfjE) | 3:48 | 2023-05-26 |  |
 | [Churches](https://open.spotify.com/track/4PWnRpj7y40SaUUD2fELAn) | [INVŌKER](https://open.spotify.com/artist/2TV6OGSsDnoV2EpybXrNZ1) | [Secret Weapons Part 12](https://open.spotify.com/album/3aN2y7POprvpyRmxOR1hzD) | 4:41 | 2021-12-08 | 2022-07-23 |
 | [Clear as Water](https://open.spotify.com/track/0OaZHTmB08aPpFrP0FaaFW) | [AK](https://open.spotify.com/artist/33Cf4O1KAVbtQa00scMi2A), [YOSIE](https://open.spotify.com/artist/3uSFIs8rPUcRzKliQ6Tel9) | [Clear as Water](https://open.spotify.com/album/5ouBZZ3FrXwd6NSbVZUb2Z) | 2:54 | 2023-08-04 |  |
+| [Come On Back With Your Love \- Sunrise Mix](https://open.spotify.com/track/7yTD5MdgZQMIGh6nnRUlg4) | [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Come On Back With Your Love](https://open.spotify.com/album/4jU9hmYyqwY2eurr8BMOmf) | 3:26 | 2025-01-17 |  |
 | [Cosmic Burst](https://open.spotify.com/track/08cpxxd1LWWD0ThphypIB6) | [Jason Krupp](https://open.spotify.com/artist/1IwXiIpWgZQ7txUBbdqCFf) | [Cosmic Burst](https://open.spotify.com/album/6NdKNFmfFEooVNv0SYCAK3) | 3:12 | 2024-03-01 |  |
 | [could you not go?](https://open.spotify.com/track/7KZ9PE9btCfgqqhMGDh7P6) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [could you not go?](https://open.spotify.com/album/7qE5I0RQDSp3xt5QYPMuF1) | 2:47 | 2024-07-12 |  |
 | [Coyhaique](https://open.spotify.com/track/0YTKtvWqIfXqFGVtHpcB4L) | [Gabriel Rocha](https://open.spotify.com/artist/7En86TUEQnK6O2EEisI8Mx), [DJ PP](https://open.spotify.com/artist/5mrbZMjvRmXg6s1PeSWSoZ) | [Coyhaique](https://open.spotify.com/album/2NgUleHkvhRgysgdxHTHgU) | 6:32 | 2023-03-03 | 2024-04-13 |
@@ -369,7 +370,7 @@
 | [Palermo](https://open.spotify.com/track/3rtPfogqDQQB392GBadZ3C) | [Above & Beyond](https://open.spotify.com/artist/10gzBoINW3cLJfZUka8Zoe), [PROFF](https://open.spotify.com/artist/3jAosRBCdrybxqTnrI4Sld) | [Palermo / Fractals](https://open.spotify.com/album/2yfg6aVt4CCtc8AH3YuRqM) | 3:15 | 2024-08-02 |  |
 | [Palms](https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9) | 4:15 | 2021-12-08 | 2022-07-29 |
 | [Palms](https://open.spotify.com/track/4cWrrjsKvHnKV8uqlUF8kb) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/3LZ2WSfLEVEIy7PRi672MC) | 4:15 | 2022-05-03 | 2024-01-05 |
-| [Pan Gloss](https://open.spotify.com/track/22WIjBd903xZOBdnaQXall) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [The Half Full EP](https://open.spotify.com/album/2S87ZI5bdNHKtveA6uhF9O) | 7:03 | 2024-07-12 |  |
+| [Pan Gloss](https://open.spotify.com/track/22WIjBd903xZOBdnaQXall) | [Josh Wink](https://open.spotify.com/artist/6DQLkRykAsF6paJnlIMX4H) | [The Half Full EP](https://open.spotify.com/album/2S87ZI5bdNHKtveA6uhF9O) | 7:03 | 2024-07-12 | 2025-01-19 |
 | [Paradigm](https://open.spotify.com/track/1vY7MXnKBpwmmQfZEyGn2F) | [Arkangel](https://open.spotify.com/artist/4crDJZ41E0jOp0XX5MXJJy) | [Paradigm](https://open.spotify.com/album/3JJYj2V6kyfo3turvi7dEj) | 5:10 | 2024-04-12 | 2024-04-19 |
 | [Parallel 6](https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:06 | 2021-12-08 | 2023-01-06 |
 | [Passing Clouds](https://open.spotify.com/track/1quyPEEgePl4mFkIumBWyJ) | [Sum Wave](https://open.spotify.com/artist/0bfdnPaHczaQt6tYe8J4Ci) | [Passing Clouds](https://open.spotify.com/album/3SoSko9KzlGKS7PbM4acLt) | 2:32 | 2023-05-26 | 2024-04-19 |
@@ -544,7 +545,8 @@
 | [Walk With Me](https://open.spotify.com/track/6QBP6d9mDyEGE1jnS3jWrO) | [Harry Wolfman](https://open.spotify.com/artist/3IUdSUxRiKdLL7e7BJgzYv) | [Sly Contrast EP](https://open.spotify.com/album/2TMRfy0J0nW0n4kIVhVAjy) | 5:21 | 2021-12-08 | 2023-03-10 |
 | [Wasting Love](https://open.spotify.com/track/57UWfCanZsaBLtKVdceMOp) | [SRTW](https://open.spotify.com/artist/7vHAcPVlEDksRsCfkez2CD) | [Wasting Love](https://open.spotify.com/album/7cHrVEGRTqnSgrgu1h0Bu1) | 2:13 | 2021-12-08 | 2023-01-06 |
 | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/track/6ymVxYG0UHqIjXmclbE1cu) | [BLOND:ISH](https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR), [Grace Tither](https://open.spotify.com/artist/0W2uPY2bPqyGxEYBJUuHfa) | [Waves \(feat\. Grace Tither\)](https://open.spotify.com/album/2IYPZalD9Rc91KERQfYIaf) | 3:22 | 2021-12-08 |  |
-| [We Used to Disappear](https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [We Used to Disappear](https://open.spotify.com/album/0PHhJfWHYIc0oJlmMD87JU) | 4:00 | 2024-04-12 |  |
+| [Wayside](https://open.spotify.com/track/41BRWHGuqEcSZszacBBCld) | [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw), [Josie Man](https://open.spotify.com/artist/1bkxOwOWP9R4SzB6poMhtQ) | [We Are Always Under The Same Sky](https://open.spotify.com/album/0SpZZ8NyMsk2xlKrp9rBkJ) | 4:09 | 2025-01-17 |  |
+| [We Used to Disappear](https://open.spotify.com/track/1sNKiFNrFYD086hl3i6QTP) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [We Used to Disappear](https://open.spotify.com/album/0PHhJfWHYIc0oJlmMD87JU) | 4:00 | 2024-04-12 | 2025-01-19 |
 | [What Can I Do](https://open.spotify.com/track/2CGaIWj2aaWdyCEVL7hVoa) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [Blaze / What Can I Do](https://open.spotify.com/album/3g3SOezLpRLmLkNUe5jjpO) | 6:15 | 2022-05-03 | 2024-04-13 |
 | [What Can I Do](https://open.spotify.com/track/6U9DI9uIT0X5XJJBQrC0Xu) | [A\-Trak](https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt), [Loods](https://open.spotify.com/artist/1uF7AFfGahplhiaHEy9NNl) | [What Can I Do](https://open.spotify.com/album/3Xy0bFY1wxOoKpTph3NnIO) | 6:15 | 2021-12-08 | 2022-07-29 |
 | [What You Want](https://open.spotify.com/track/1RuMPMUxwdAZ0tMcaUwQiw) | [glue70](https://open.spotify.com/artist/3AsWxxZTFPoCFxM1s8Lg1J) | [Lo\-Fi\_house.Zip](https://open.spotify.com/album/3wHEG6d2ZaQwtYvAw00A7W) | 3:45 | 2021-12-08 | 2024-04-13 |

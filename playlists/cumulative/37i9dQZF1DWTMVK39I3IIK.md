@@ -4,7 +4,7 @@
 
 > de skarpeste knive i dansk musik  📸  Soleima
 
-136 songs - 7 hr 16 min
+137 songs - 7 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [DIE FOR ME](https://open.spotify.com/track/0dsNrdmIL3l8dxKhmjI1PP) | [USSEL](https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp) | [DIE FOR ME \(JEG VIL IKKE VIDE DU FINDES\)](https://open.spotify.com/album/2IcXBbSxLwjwp7OdNzgis4) | 2:46 | 2024-06-27 | 2024-09-13 |
 | [Din Sang](https://open.spotify.com/track/4g7rhpPsZDftOjKqNXzpG7) | [PIND](https://open.spotify.com/artist/2feslzBLWgoLAT5PfH2V9q) | [Din Sang](https://open.spotify.com/album/4zY0cv1ongZ9vxz5K9w7eD) | 2:56 | 2024-06-27 | 2024-10-10 |
 | [Do you wanna \- Fine + Molina EDIT](https://open.spotify.com/track/6xTOSlWaiBRiVj3Xh265FL) | [Astrid Sonne](https://open.spotify.com/artist/7qiyPneI60DzZmxVxC7689), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [Great Doubt EDITS](https://open.spotify.com/album/3Q4ckErENVJA9V1nx3pMS4) | 2:25 | 2024-09-19 | 2024-11-16 |
-| [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 |  |
+| [Dopa min](https://open.spotify.com/track/7jxowF3F2CJoEjoX8P8Hl7) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Dopa min](https://open.spotify.com/album/2bwcQANrSwHeZtJDyttd9b) | 2:41 | 2024-06-27 | 2025-01-19 |
 | [Dopamin](https://open.spotify.com/track/0tDh78JNlubuGDJfkv8Juk) | [Dos Santos](https://open.spotify.com/artist/5MCNh315T9Mi2yQTD4bYkn) | [Dopamin](https://open.spotify.com/album/1vFGBcedPfM321fycYoNqs) | 2:28 | 2024-06-27 |  |
 | [Dårligste Bedste Idé](https://open.spotify.com/track/3MMQxJeAw1A9jjqyGHz8DF) | [LUCY](https://open.spotify.com/artist/3YYCYfeypDt0g0kwgNYIWw) | [Dårligste Bedste Idé](https://open.spotify.com/album/0fsi7iQLNKjjs2zsWjNzyl) | 3:16 | 2024-06-27 |  |
 | [Dér \(feat\. Wads\)](https://open.spotify.com/track/1CHopLIbq57daqmMzdZW1k) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen), [Wads](https://open.spotify.com/artist/6MrX2ndZBm5xqWGTX26X2M) | [Dér \(feat\. Wads\)](https://open.spotify.com/album/4DVroCTqltqCUJdOcKaG9E) | 3:20 | 2024-06-27 |  |
@@ -74,6 +74,7 @@
 | [I Made It \(feat\. andreas odbjerg\)](https://open.spotify.com/track/43jK7qyJgxFIDSDbTeIjZ6) | [JOSVA](https://open.spotify.com/artist/40k85G0FYRLzZnHmfUc2mr), [andreas odbjerg](https://open.spotify.com/artist/6aHaYKL09sA8L260zXNlVR) | [I Made It \(feat\. andreas odbjerg\)](https://open.spotify.com/album/6wfDg2hy0GrwJEOQ7h1yMD) | 3:29 | 2024-06-27 |  |
 | [I Wanna Dive in the Seven Seas](https://open.spotify.com/track/2r4lqpAn19prTJcZy7YgC9) | [School of X](https://open.spotify.com/artist/4VL17UwE7ktJcG04WdbR9B) | [I Wanna Dive in the Seven Seas](https://open.spotify.com/album/0VN7yTWPdcNhAiOhApsmVq) | 2:44 | 2024-10-18 | 2024-11-28 |
 | [I'm Sick of Missing You](https://open.spotify.com/track/6AKcw88IDs1odE5xiHZxqV) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [Swim\. Søul](https://open.spotify.com/artist/1FTm71bvpmvZcYeLSdBCi0) | [I'm Sick of Missing You](https://open.spotify.com/album/5O0EsehiDCiX5MxcOuJObJ) | 1:52 | 2024-11-21 |  |
+| [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 | 2025-01-16 |  |
 | [Ildfluer](https://open.spotify.com/track/44AFri447xop1t5EblgHbE) | [First Flush](https://open.spotify.com/artist/3rdxGMdJ33uN89az9Hm9cj) | [Ildfluer](https://open.spotify.com/album/7IqD3qu5GyL4r4diTeUTpj) | 3:32 | 2024-09-19 | 2024-10-11 |
 | [Jaloux](https://open.spotify.com/track/5XjrY4alxaOIBkQou85wnW) | [August Høyen](https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm) | [Jaloux](https://open.spotify.com/album/3mIgrmII5V9ELRviikw1oW) | 2:37 | 2024-06-27 | 2024-10-30 |
 | [JEG TOG FEJL](https://open.spotify.com/track/16HT5c4HSKErYQYPClyAUb) | [Albert Heath](https://open.spotify.com/artist/0JYSq0mqljZ5VYGF1M3r2L) | [JEG TOG FEJL](https://open.spotify.com/album/2itUyX1wmrsc42VapC3MIo) | 2:57 | 2024-06-27 | 2024-07-15 |

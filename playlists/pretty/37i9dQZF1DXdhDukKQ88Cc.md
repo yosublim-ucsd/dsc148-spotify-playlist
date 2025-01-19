@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > min ven er <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">@Mas</a> og vi er på månen over hans nye 🌜<a href="spotify:album:16EjNHcMJ402k7OhdoFxqS">album</a>🌛
 
-[Spotify](https://open.spotify.com/user/spotify) - 187,536 likes - 51 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 187,559 likes - 51 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

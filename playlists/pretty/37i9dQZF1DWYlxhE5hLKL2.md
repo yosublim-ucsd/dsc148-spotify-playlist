@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 
 > Digging old Japanese records and flipping them into something new.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,116 likes - 67 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,134 likes - 67 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYlxhE5hLKL2.md) - [plain]
 | 6 | [January 28th](https://open.spotify.com/track/6LBpGdlukUARutol7VgWIS) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [2014 Forest Hills Drive](https://open.spotify.com/album/0UMMIkurRUmkruZ3KGBLtG) | 4:02 |
 | 7 | [AfricAryaN](https://open.spotify.com/track/76ZrqdtkKxhMl42xAQTnFm) | [Logic](https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L), [Neil deGrasse Tyson](https://open.spotify.com/artist/1v3r802Az10JtIzSPawWzw) | [Everybody](https://open.spotify.com/album/1HiN2YXZcc3EjmVZ4WjfBk) | 12:08 |
 | 8 | [ラップ現象](https://open.spotify.com/track/1ta8wvLW6xchXFOB8zXqHm) | [YELLOW MAGIC ORCHESTRA](https://open.spotify.com/artist/2JIf5JxI3ypOSfrfNIIMQE) | [BGM](https://open.spotify.com/album/5ouO0cdsV0laOO5u6jWHk4) | 4:32 |
-| 9 | [Go Get Em \- Instrumental](https://open.spotify.com/track/6MgUFO8r2TCBuM5eiAxCg9) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Lost Tapes, Reels + More](https://open.spotify.com/album/5dxucrfNPblqH8OdJv3LAo) | 2:10 |
+| 9 | [Go Get Em \(Instrumental\)](https://open.spotify.com/track/6MgUFO8r2TCBuM5eiAxCg9) | [J Dilla](https://open.spotify.com/artist/0IVcLMMbm05VIjnzPkGCyp) | [Lost Tapes, Reels + More](https://open.spotify.com/album/5dxucrfNPblqH8OdJv3LAo) | 2:10 |
 | 10 | [上を向いて歩こう](https://open.spotify.com/track/7BIj2EumM3JA6NmxPcF6C5) | [Kyu Sakamoto](https://open.spotify.com/artist/3WKkjW8B7x5UZmfC9pnDmN) | [ベスト9!](https://open.spotify.com/album/51VPN0fGRllJBCpi449czB) | 3:08 |
 | 11 | [Lodi Dodi](https://open.spotify.com/track/6OtfwrzhIaIg6gmnzgPlu1) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Doggystyle](https://open.spotify.com/album/5IFOummNcGXY3qCBWRchqP) | 5:01 |
 | 12 | [扉の冬](https://open.spotify.com/track/0mRLWYEDx8Kf5xYt7UnFwC) | [Minako Yoshida](https://open.spotify.com/artist/5vYmBw71RC0kABACDCq4Zi) | [扉の冬](https://open.spotify.com/album/6RIPbKWjHHRcmwAInhfZc5) | 2:45 |

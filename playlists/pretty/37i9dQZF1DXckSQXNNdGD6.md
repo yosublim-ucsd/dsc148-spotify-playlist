@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 
 > La banda sonora de tu orgullo\. Foto: Luna Zuazu.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,499 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,502 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,8 +47,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 37 | [So Cute](https://open.spotify.com/track/6HcNMJShCZgFOfbKEPZIKu) | [MAYO](https://open.spotify.com/artist/0HgzUc7N5MqMv2ZwQFv9H0) | [So Cute](https://open.spotify.com/album/2xIBtY1jRGzxYtSiN8CKnz) | 2:20 |
 | 38 | [dos sombras](https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b) | [Gala Nell](https://open.spotify.com/artist/4CVNESQIOFNvurriZVBarY) | [dos sombras](https://open.spotify.com/album/0OdUtb0AsbynTk3X6MFFZw) | 2:57 |
 | 39 | [Aitana O'Caña](https://open.spotify.com/track/7yoxipcKVR52kAV8kMLJsU) | [Turista Sueca](https://open.spotify.com/artist/7oj5rE2gs45DoAIxkHO3z7) | [Aitana O'Caña](https://open.spotify.com/album/4Iwvq5gd7DVHzYqa8dCg0u) | 2:52 |
-| 40 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 |
-| 41 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
+| 40 | [Confieso](https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe) | [K!ngdom](https://open.spotify.com/artist/7awzJ795ZYRCpQktKCKgW4) | [Confieso](https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU) | 3:00 |
+| 41 | [Nunca Llega 05](https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf) | [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [Nunca Llega 05](https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f) | 2:39 |
 | 42 | [Backstage](https://open.spotify.com/track/4YkHQLQxlhNNrvASynXrU2) | [Metrika](https://open.spotify.com/artist/51WwqSqhXeyz3q9Q105Kjy), [D.Basto](https://open.spotify.com/artist/3Nn5v8JJyCp7CnNMXVXHlF), [ANADIE](https://open.spotify.com/artist/4fQlbLtVsxTde62HZJH2xs) | [No hay nada más de vampiro que tener unos primos en Portugal](https://open.spotify.com/album/2GeDiM6fRg4HAr7ipdtrLq) | 2:42 |
 | 43 | [En el cielo](https://open.spotify.com/track/6MDbBn6KBYLh0uN90wbRJ6) | [SAZZA](https://open.spotify.com/artist/3vkv2mfJalVqonHHe5yLEe) | [En el cielo](https://open.spotify.com/album/7sylEHh3tp4orTqSG2fWaI) | 2:23 |
 | 44 | [De Resaca](https://open.spotify.com/track/3jfECz02GU8Se0YKTDVJYB) | [Martta Sanz](https://open.spotify.com/artist/1CPRjRyTqc1WT3CctaYtuq) | [De Resaca](https://open.spotify.com/album/6Tlbb32M4uk9hTz8iBkFfO) | 2:38 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXckSQXNNdGD6.md) - [plain]
 | 47 | [aguacero 2](https://open.spotify.com/track/2dotHiPGpnsxDZzJ8nfLDe) | [SN Systema](https://open.spotify.com/artist/4bMdRMMGiBMblBm3qPUvpp), [Lua de Santana](https://open.spotify.com/artist/1SCoi5U37R1KbEQHuKKgam), [Merca Bae](https://open.spotify.com/artist/7tNlqSl7RogtzMsEA20byE), [Vince Aloé](https://open.spotify.com/artist/4dlPVZBuFy6zkdANnn1ib5) | [aguacero 2](https://open.spotify.com/album/6WucM4riE6CGcbEmjxmYpB) | 2:14 |
 | 48 | [Nada Importa Tanto](https://open.spotify.com/track/7lJ9hBAw1M1HEzVv2DDTJd) | [Cariño](https://open.spotify.com/artist/7fWD0BSDlixbj6YNQyHTLh) | [Nada Importa Tanto](https://open.spotify.com/album/5amLYy53WJ55Ga58lgv1w4) | 2:59 |
 | 49 | [Mi corazón](https://open.spotify.com/track/0B41ToR8B3Y9LgzAp8tNhx) | [Kora](https://open.spotify.com/artist/3ZxaYY2eYNWxg8v1s2k6JD) | [002](https://open.spotify.com/album/4FRDtcPSafCRj7HtzmRT1w) | 4:04 |
-| 50 | [Collar Fular](https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ) | [Ojete Calor](https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x) | [Collar Fular](https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP) | 2:12 |
+| 50 | [Paris Hilton](https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS) | [Jordana B.](https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD) | [Paris Hilton](https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT) | 3:35 |
 
 Snapshot ID: `Z32x8QAAAAAmvc1bu+4cJx36OGeIuWwO`

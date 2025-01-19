@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZuIX5Q3yUjF.md) - [plain]
 
 > Sidy in cover della playlist dell'R&B italiano 🎧
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,001 likes - 65 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,004 likes - 65 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

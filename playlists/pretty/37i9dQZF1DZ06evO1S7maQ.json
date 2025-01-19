@@ -1,12 +1,12 @@
 {
   "description": "This is Bruce Springsteen. The essential tracks, all in one playlist.",
-  "num_followers": 634419,
+  "num_followers": 634466,
   "original_name": "This Is Bruce Springsteen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAD4kgYNk6e2o3cS9AU95Kcx",
+  "snapshot_id": "Z4mdgAAAAACFaBBMta2VILbQtHZdVJ71",
   "tracks": [
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Run",
-        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
-      },
-      "artists": [
-        {
-          "name": "Bruce Springsteen",
-          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
-        }
-      ],
-      "duration_ms": 190466,
-      "name": "Tenth Avenue Freeze-Out",
-      "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Take the Sadness Out of Saturday Night",
         "url": "https://open.spotify.com/album/6SPUtbeCQiPGej0t5RBasE"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 244186,
       "name": "Chinatown (feat. Bruce Springsteen)",
       "url": "https://open.spotify.com/track/1AA3ZjLo9tD2iSZAs2svyj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Born To Run",
+        "url": "https://open.spotify.com/album/43YIoHKSrEw2GJsWmhZIpu"
+      },
+      "artists": [
+        {
+          "name": "Bruce Springsteen",
+          "url": "https://open.spotify.com/artist/3eqjTLE0HfPfh78zjh6TqT"
+        }
+      ],
+      "duration_ms": 190466,
+      "name": "Tenth Avenue Freeze-Out",
+      "url": "https://open.spotify.com/track/4Gmdm6oRVwJgsM8gYnwRoE"
     },
     {
       "added_at": null,

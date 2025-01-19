@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלכם\. שירים יפים מישראל והעולם\. עטיפה: אקו
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,577 likes - 100 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,575 likes - 100 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -82,13 +82,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 72 | [עזבת ת'בית](https://open.spotify.com/track/4wEFTT1fmFfsLY1K7Y40Cy) | [Peled](https://open.spotify.com/artist/26lUUiDmS9zj1LOOCkZUiS), [Nastia Rod](https://open.spotify.com/artist/3yQQWvFCAI4upNGhuUIVSS) | [TATE WE MADE IT](https://open.spotify.com/album/4knIoipUdeG1OeNk07EKEn) | 3:48 |
 | 73 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 |
 | 74 | [יהיה טוב & מים שקופים](https://open.spotify.com/track/44GSjYhBxuuKx0ikN5Dmag) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL), [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr) | [יהיה טוב & מים שקופים](https://open.spotify.com/album/2EXKJU0fNDfuFSTCea3xCl) | 4:47 |
-| 75 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
-| 76 | [תיק קטן](https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [תיק קטן](https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f) | 2:53 |
+| 75 | [תיק קטן](https://open.spotify.com/track/3mCCFs2hdDM2mObzARzxOg) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [תיק קטן](https://open.spotify.com/album/2eKft1fH1UqbnKrhWyuk4f) | 2:53 |
+| 76 | [Houdini](https://open.spotify.com/track/4OMJGnvZfDvsePyCwRGO7X) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Houdini](https://open.spotify.com/album/5pTaRVLwZOFObIbRBubmeb) | 3:05 |
 | 77 | [ככה וככה](https://open.spotify.com/track/3QCWA9RzAPb4Xw4BagADFq) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [Part II](https://open.spotify.com/album/01OO9h8ieclWd8XiHHDg5e) | 3:39 |
 | 78 | [עולם משוגע](https://open.spotify.com/track/4JmmjsGmOED0sn0Le3r84u) | [Tuna](https://open.spotify.com/artist/17pbOSPIn3lmY0vHhOlKGL), [Ravid Plotnik](https://open.spotify.com/artist/2JQK9mzxqKz16lSgICHDTx) | [גם זה יעבור](https://open.spotify.com/album/0MYnKew1Jfihg9ItpHg2oT) | 5:55 |
-| 79 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 |
+| 79 | [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 |
 | 80 | [אהבה חולה](https://open.spotify.com/track/4RyMByXc5HfKc3b8wqwOso) | [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח](https://open.spotify.com/album/3YoJ4HHNk56z0qabdxYmci) | 3:02 |
-| 81 | [לתת לחיים לרקוד](https://open.spotify.com/track/0pwe6ne12KNaNYXyxquuPl) | [Idan Amedi](https://open.spotify.com/artist/6Kwkb16geAot0de45IW9Ox) | [סופרמן](https://open.spotify.com/album/7bN2qSjFIgvpEeBl8JJEbS) | 3:37 |
+| 81 | [למה את?](https://open.spotify.com/track/7rdPtMBZmQpSBraOq8ppuI) | [ילד.](https://open.spotify.com/artist/0WfHRTAUTncteWfXm917EG) | [למה את?](https://open.spotify.com/album/4bJP264v4vbf2y7HY9bCHk) | 3:13 |
 | 82 | [לצאת מדיכאון](https://open.spotify.com/track/0E9S1H3TktlpHmGyuKEfkL) | [יגל אושרי](https://open.spotify.com/artist/6Kn2CjfEButrWXszsA0E6Q) | [לצאת מדיכאון](https://open.spotify.com/album/3yKhRbzXdiublxlbHo69JF) | 3:10 |
 | 83 | [רונדלים](https://open.spotify.com/track/3Au0H4VhjcXZ5HGOHo8Nc3) | [Static](https://open.spotify.com/artist/5Ea0d3mUECVaMf8h2DTehE) | [לירז](https://open.spotify.com/album/6yYi9EdNhdOZGXIWKVVK7G) | 1:54 |
 | 84 | [38 וחוץ מכדורגל](https://open.spotify.com/track/3X0WwsNHfSqpd85A9Iggr2) | [Hanan Ben Ari](https://open.spotify.com/artist/343YYaA5MSjiZZ5cGyTr4u), [Peer Tasi](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [38 וחוץ מכדורגל](https://open.spotify.com/album/20Pqok9eZIM415mGqpRPya) | 4:26 |

@@ -4,7 +4,7 @@
 
 > たった独りでメロディーと言葉を紡ぐシンガーソングライター。Cover: ヒグチアイ
 
-375 songs - 23 hr 57 min
+376 songs - 1 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -119,7 +119,7 @@
 | [On Any Day \- 2024 Acoustic Ver.](https://open.spotify.com/track/3cvWsAWrq8zbZei5hTomPa) | [Mao Abe](https://open.spotify.com/artist/5ajce5LoM5SK6a6zzyF4My) | [On Any Day \(2024 Acoustic Ver.\)](https://open.spotify.com/album/5KMKexste3rhDksQAam18X) | 5:46 | 2024-12-24 | 2025-01-08 |
 | [ongakunankakikanakuteiiyouni](https://open.spotify.com/track/2miGY2WqbYUEx8y0QnwJIP) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [ongakunankakikanakuteiiyouni](https://open.spotify.com/album/3NwELJfso6WcGaje3gIXjf) | 3:15 | 2024-12-10 | 2025-01-08 |
 | [Paradise Forever](https://open.spotify.com/track/3uOLzqlQhPqlgLJJxDJ7kD) | [Manatsu Nagahara](https://open.spotify.com/artist/7eiPZxPx3fflpweXb8NbnJ) | [Paradise Forever](https://open.spotify.com/album/34xVl32E3CiI11lzqO6cH2) | 3:58 | 2024-07-30 | 2024-09-04 |
-| [PASADENA](https://open.spotify.com/track/2DBqqzOsOsZgKAB0T4GBVt) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [PASADENA](https://open.spotify.com/album/1YXqbhWmPZvD4rc3USbnGe) | 3:20 | 2024-12-17 |  |
+| [PASADENA](https://open.spotify.com/track/2DBqqzOsOsZgKAB0T4GBVt) | [Yu Sakai](https://open.spotify.com/artist/2rgC29v3ZYaGgbzPGh3d9Y) | [PASADENA](https://open.spotify.com/album/1YXqbhWmPZvD4rc3USbnGe) | 3:20 | 2024-12-17 | 2025-01-19 |
 | [Passing](https://open.spotify.com/track/44t7cEmazmGE1tvpYI9ubE) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU) | [Passing](https://open.spotify.com/album/0rTi7onngxwm1XYUI5bsbu) | 2:53 | 2025-01-14 |  |
 | [Petillant](https://open.spotify.com/track/1L4uVdBzKUt1so7Pgys21k) | [Yuga](https://open.spotify.com/artist/2QPqMxppznwSxghh3R8WrT) | [Love Deluxe](https://open.spotify.com/album/21F5oKkCpE0DuOlA7S3KCl) | 3:32 | 2024-09-03 | 2024-09-18 |
 | [Pick you up](https://open.spotify.com/track/7lEamS5mWLjjnxYDHS3Z5R) | [iri](https://open.spotify.com/artist/1mN9lPKzTRTOop4u7S1Uy9) | [Pick you up](https://open.spotify.com/album/5ec6P46lMezGX5zBzpHRvy) | 3:38 | 2024-11-13 |  |
@@ -209,6 +209,7 @@
 | [アイネクライネ](https://open.spotify.com/track/45YBVp6zMwQZRbUDcPzmMB) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:48 | 2024-07-02 | 2024-12-25 |
 | [アイモライモ](https://open.spotify.com/track/5d0dz0ekefZ243cWDGiDJ1) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [アイモライモ](https://open.spotify.com/album/0G2Dn7aEZSIcWu9UxE7kLC) | 4:15 | 2024-11-26 |  |
 | [アイワナ](https://open.spotify.com/track/1KsxzZxW14vwC3j8s68kUS) | [冨岡愛](https://open.spotify.com/artist/28uwiPI48qGWTiPz6Zgnwi) | [アイワナ](https://open.spotify.com/album/3JHCc7hNg1hHCcIQsF1xzM) | 3:50 | 2024-07-02 | 2024-10-31 |
+| [アンコール](https://open.spotify.com/track/6lLSeZW7S4dIpqPzrYiEGH) | [我生](https://open.spotify.com/artist/0d3y3ua0lOFOVfcXn11AmT) | [アンコール](https://open.spotify.com/album/70hHW9KSrCVJSVdI9w6WJD) | 3:40 | 2025-01-14 |  |
 | [アーミ](https://open.spotify.com/track/66YOQ3cFmgQfXpfl08yRyM) | [Ritsuki Akiyama](https://open.spotify.com/artist/2RyFl8CsXJDOd4hnh3RRE9) | [アーミ](https://open.spotify.com/album/7g30B1GkIbYJtmUXH5weK1) | 2:10 | 2024-10-01 | 2024-10-09 |
 | [インビテーション](https://open.spotify.com/track/30L3F9Fe5V2khsVoQoPIgK) | [LUA](https://open.spotify.com/artist/6Kn5qpqJoHEY2D8uvgUQut) | [インビテーション](https://open.spotify.com/album/4wEVBwjA9mEIKJKDVMhlpS) | 3:01 | 2024-12-24 | 2025-01-08 |
 | [ウー・ルー](https://open.spotify.com/track/0C6h44NgBrAAwj4nBU9W4O) | [Fuyumi Abe](https://open.spotify.com/artist/3LMkQzoTUDoZaLhM58O2Ej) | [ウー・ルー](https://open.spotify.com/album/58SX25ljtFtNUJlW1fJHqs) | 4:16 | 2025-01-14 |  |

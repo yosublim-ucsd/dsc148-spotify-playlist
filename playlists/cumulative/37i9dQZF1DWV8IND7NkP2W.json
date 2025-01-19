@@ -791,6 +791,24 @@
     },
     {
       "album": {
+        "name": "Aple",
+        "url": "https://open.spotify.com/album/7LzdO8th6hghtKg5rAgOQv"
+      },
+      "artists": [
+        {
+          "name": "ORANCHA",
+          "url": "https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143376,
+      "name": "Aple",
+      "url": "https://open.spotify.com/track/7l0yJXXHpVBXJ0UhSoATDJ"
+    },
+    {
+      "album": {
         "name": "Aquamarine",
         "url": "https://open.spotify.com/album/52z4GzIPY0zJyf6NtEVUbD"
       },
@@ -6494,7 +6512,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 131520,
       "name": "kokoro",
       "url": "https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6"

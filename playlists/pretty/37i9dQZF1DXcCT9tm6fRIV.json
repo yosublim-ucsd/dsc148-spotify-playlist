@@ -1,6 +1,6 @@
 {
   "description": "Disfruta esta fina selecci\u00f3n de los mejores Tangos argentinos.",
-  "num_followers": 244209,
+  "num_followers": 244252,
   "original_name": "Tangos y Milongas",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Si Sos Brujo",
-        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Gobbi",
-          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
-        }
-      ],
-      "duration_ms": 209746,
-      "name": "Si Sos Brujo",
-      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "El Tango",
         "url": "https://open.spotify.com/album/7akIfhOcL4nMi4vwILqXsX"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 221500,
       "name": "Tarde",
       "url": "https://open.spotify.com/track/3NBK1KYBB7K278yKrWugnY"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "Rescatados",
+        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
+      },
+      "artists": [
+        {
+          "name": "Omar Mollo",
+          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+        }
+      ],
+      "duration_ms": 177977,
+      "name": "Sur",
+      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -867,18 +867,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Rescatados",
-        "url": "https://open.spotify.com/album/226r72g4B8q7rIC2oIhKFy"
+        "name": "Si Sos Brujo",
+        "url": "https://open.spotify.com/album/799zjqijo8F3CcZj4nBmIh"
       },
       "artists": [
         {
-          "name": "Omar Mollo",
-          "url": "https://open.spotify.com/artist/3gvvM06RykBuIcFpWljUhD"
+          "name": "Alfredo Gobbi",
+          "url": "https://open.spotify.com/artist/62ABL5pqowZJin1fkheWo7"
         }
       ],
-      "duration_ms": 177977,
-      "name": "Sur",
-      "url": "https://open.spotify.com/track/4nHtnFsPM2tOes5jnDC9ZC"
+      "duration_ms": 209746,
+      "name": "Si Sos Brujo",
+      "url": "https://open.spotify.com/track/4eOhpwd6EPmXjWARVd7TCX"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "El Mundo De La Fantas\u00eda",
-        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
-      },
-      "artists": [
-        {
-          "name": "Cacho Casta\u00f1a",
-          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
-        }
-      ],
-      "duration_ms": 207746,
-      "name": "El Mundo De La Fantas\u00eda",
-      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
         "name": "Castiellos",
         "url": "https://open.spotify.com/album/54xztW047EbGLz0wkr1QST"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 241546,
       "name": "Soledad",
       "url": "https://open.spotify.com/track/0H4KhjWDe4TftcaXr6dFru"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
+        "name": "El Mundo De La Fantas\u00eda",
+        "url": "https://open.spotify.com/album/3HOIEH3oy2eEjXG2DIEbvD"
+      },
+      "artists": [
+        {
+          "name": "Cacho Casta\u00f1a",
+          "url": "https://open.spotify.com/artist/3lwRbCTt1qmo0QgXUai8ao"
+        }
+      ],
+      "duration_ms": 207746,
+      "name": "El Mundo De La Fantas\u00eda",
+      "url": "https://open.spotify.com/track/4ZdOJD4CAQU4rdh06nhzaF"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -987,22 +987,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Muchacha (ojos de papel)",
-        "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
+        "name": "Todo Es Amor",
+        "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
       },
       "artists": [
         {
-          "name": "Spinettango",
-          "url": "https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr"
-        },
-        {
-          "name": "Litto Nebbia",
-          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
+          "name": "Cristian Chinellato",
+          "url": "https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy"
         }
       ],
-      "duration_ms": 198944,
-      "name": "Muchacha (ojos de papel)",
-      "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
+      "duration_ms": 253573,
+      "name": "Todo Es Amor",
+      "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1027,18 +1023,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Todo Es Amor",
-        "url": "https://open.spotify.com/album/2kV8huoq9yaO65m6LeCkl5"
+        "name": "Muchacha (ojos de papel)",
+        "url": "https://open.spotify.com/album/32Rrsfqs8OEV3igoRZkDyl"
       },
       "artists": [
         {
-          "name": "Cristian Chinellato",
-          "url": "https://open.spotify.com/artist/3jcTbMxvNkZAzH52lzHsLy"
+          "name": "Spinettango",
+          "url": "https://open.spotify.com/artist/0fzRepdCbhZBArYBGRrszr"
+        },
+        {
+          "name": "Litto Nebbia",
+          "url": "https://open.spotify.com/artist/2SpMjzpc9CfI6WWtwdToiA"
         }
       ],
-      "duration_ms": 253573,
-      "name": "Todo Es Amor",
-      "url": "https://open.spotify.com/track/1cj8FcBF6bs8mWXqAfwgoH"
+      "duration_ms": 198944,
+      "name": "Muchacha (ojos de papel)",
+      "url": "https://open.spotify.com/track/6qBGItCcsPzUcAMsPIiSUW"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1251,6 +1251,22 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
+        "name": "El Album Blanco",
+        "url": "https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM"
+      },
+      "artists": [
+        {
+          "name": "Rub\u00e9n Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
+        }
+      ],
+      "duration_ms": 208120,
+      "name": "Los Cosos De Al Lao",
+      "url": "https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto"
+    },
+    {
+      "added_at": "2024-08-02 03:00:00",
+      "album": {
         "name": "Medallita De La Suerte",
         "url": "https://open.spotify.com/album/5hwMHIuCLMtUQNzjurIVY2"
       },
@@ -1267,22 +1283,6 @@
       "duration_ms": 206480,
       "name": "Fumando Espero",
       "url": "https://open.spotify.com/track/0L7qfLnsxy2IBdNf5GDM3N"
-    },
-    {
-      "added_at": "2024-08-02 03:00:00",
-      "album": {
-        "name": "El Album Blanco",
-        "url": "https://open.spotify.com/album/05KSJ0XmnH3PqdVKGm6LZM"
-      },
-      "artists": [
-        {
-          "name": "Rub\u00e9n Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/4idyrAA6wZyU9umXHFoM9p"
-        }
-      ],
-      "duration_ms": 208120,
-      "name": "Los Cosos De Al Lao",
-      "url": "https://open.spotify.com/track/5qGKjmoKrvmHo4yf1U7bto"
     },
     {
       "added_at": "2024-08-02 03:00:00",
@@ -1407,26 +1407,18 @@
     {
       "added_at": "2024-08-02 03:00:00",
       "album": {
-        "name": "Luna de Abril",
-        "url": "https://open.spotify.com/album/58HgWHuOnicbuY8txcgTtT"
+        "name": "A Gran Orquesta",
+        "url": "https://open.spotify.com/album/42gr2cyiQY9JlB9Lga289b"
       },
       "artists": [
         {
-          "name": "Tute",
-          "url": "https://open.spotify.com/artist/0dqZd1F2k9ZRZYakdUT3bn"
-        },
-        {
-          "name": "Hern\u00e1n Lucero",
-          "url": "https://open.spotify.com/artist/001b4VR8r9cFgS3vKTkTXs"
-        },
-        {
-          "name": "Lidia Borda",
-          "url": "https://open.spotify.com/artist/1SkyJrTK7wUmLxV9H7ekBt"
+          "name": "Leopoldo Federico",
+          "url": "https://open.spotify.com/artist/3RibY876FBPC7kuqm4YqzJ"
         }
       ],
-      "duration_ms": 227426,
-      "name": "Luna de Abril",
-      "url": "https://open.spotify.com/track/4WCTuomZXV97hsRqSkjPeF"
+      "duration_ms": 187000,
+      "name": "Responso",
+      "url": "https://open.spotify.com/track/7vBkXx83Ui48fX6G6y3h29"
     }
   ],
   "unique_name": "Tangos y Milongas",

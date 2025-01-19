@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 
 > Coez in cover + tutte le migliori uscite della settimana!
 
-[Spotify](https://open.spotify.com/user/spotify) - 323,150 likes - 100 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 323,183 likes - 100 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVKDF4ycOESi.md) - [plain]
 | 43 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 |
 | 44 | [La Bohème](https://open.spotify.com/track/35XPv6YnBbJzzhxol0h2uK) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [DES3ETT](https://open.spotify.com/artist/2tBbq6Y0ejbtc8tNWtaMyN) | [La Bohème](https://open.spotify.com/album/0KPV5PV7fs0qD0KRPbDTEH) | 3:27 |
 | 45 | [Man Down 3!](https://open.spotify.com/track/4rSfjYpGAac0MwfQ1RXUvf) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Man Down 3!](https://open.spotify.com/album/2eBm5IPjsjOk6viusZcWkT) | 2:55 |
-| 46 | [Roccia Music \(feat.Glocky\)](https://open.spotify.com/track/7G1ZJ10tNun4aXjZYjaOBp) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [MOON\-X](https://open.spotify.com/album/2rFVJtrPo5cqTtb45y8qJV) | 2:03 |
+| 46 | [Roccia Music \(feat\. Glocky\)](https://open.spotify.com/track/7G1ZJ10tNun4aXjZYjaOBp) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [MOON\-X](https://open.spotify.com/album/2rFVJtrPo5cqTtb45y8qJV) | 2:03 |
 | 47 | [SCAPPA](https://open.spotify.com/track/5Cy9aEx5pMEL4wbyuRCTDC) | [Tokyo](https://open.spotify.com/artist/6EbqAudWdOXJmGgJnfzAqq), [Kermit](https://open.spotify.com/artist/0jT2eOThoVRjBt35kG86jK) | [SCAPPA](https://open.spotify.com/album/6qM9P4tWyT7qFO6yeUEE8q) | 2:30 |
 | 48 | [Puta](https://open.spotify.com/track/2FC5sOcrq3jMdL9RJDsg1O) | [Ethan](https://open.spotify.com/artist/10KF61FrHX7o9dRf0elZ70) | [METAMORFOSI \(VOL\. 1\)](https://open.spotify.com/album/0SWbbt8nlNVfp3MDekAkT1) | 2:50 |
 | 49 | [Ana Bali](https://open.spotify.com/track/1o0W82bLuXErKZazwcBHqv) | [TÄRA](https://open.spotify.com/artist/0ez4Y0vHwlRCrqGIkChC3Q), [Livio Cori](https://open.spotify.com/artist/67ZKaYOA7fXtnWve33FcSX) | [Ana Bali](https://open.spotify.com/album/39hwTU0DOMJKo9gmCHqym7) | 3:04 |

@@ -1149,6 +1149,24 @@
     },
     {
       "album": {
+        "name": "Arcane",
+        "url": "https://open.spotify.com/album/7flZpeGykp1XXbK82FfGs2"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216200,
+      "name": "Arcane",
+      "url": "https://open.spotify.com/track/0bDXKUQvhUYVhR1sRpLlIV"
+    },
+    {
+      "album": {
         "name": "Are You Ready Now?",
         "url": "https://open.spotify.com/album/6xbmpgRs0VTklRRVHIpmrn"
       },
@@ -6635,6 +6653,24 @@
     },
     {
       "album": {
+        "name": "Glass Shatters (New Mix)",
+        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244397,
+      "name": "Glass Shatters - New Mix",
+      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
+    },
+    {
+      "album": {
         "name": "Glitch",
         "url": "https://open.spotify.com/album/6nUaOQGLU8xIAI5MQqHvup"
       },
@@ -11138,7 +11174,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 207160,
       "name": "MISTY ECSTASY",
       "url": "https://open.spotify.com/track/1CqXnW5b375JJFppbD5YQl"
@@ -19800,7 +19836,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 197383,
       "name": "WELCOME TO DYSTOPIA",
       "url": "https://open.spotify.com/track/41qGDR2V9ocYrYEqOnGjcR"

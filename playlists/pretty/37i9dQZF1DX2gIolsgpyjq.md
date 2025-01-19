@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: snuggle
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,127 likes - 81 songs - 4 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,135 likes - 81 songs - 4 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

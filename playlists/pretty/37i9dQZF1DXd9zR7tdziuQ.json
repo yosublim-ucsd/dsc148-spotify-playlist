@@ -1,6 +1,6 @@
 {
   "description": "Rel\u00e1jate con tus canciones favoritas en versi\u00f3n ac\u00fastica / Descontrai com vers\u00f5es ac\u00fasticas das tuas m\u00fasicas preferidas.",
-  "num_followers": 942384,
+  "num_followers": 942436,
   "original_name": "Hits ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "City of Stars",
-        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
-      },
-      "artists": [
-        {
-          "name": "Gavin James",
-          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
-        }
-      ],
-      "duration_ms": 154858,
-      "name": "City of Stars",
-      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Umbrella (Acoustic Version)",
         "url": "https://open.spotify.com/album/1T16ylIh3VPIFFi65OutI6"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 178319,
       "name": "Umbrella - Acoustic Version",
       "url": "https://open.spotify.com/track/1hrDzrt4YgZdD67MOu5U0Q"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "City of Stars",
+        "url": "https://open.spotify.com/album/1TylOvw81vANdJBV5Fa3BU"
+      },
+      "artists": [
+        {
+          "name": "Gavin James",
+          "url": "https://open.spotify.com/artist/25tMQOrIU4LlUo6Sv8v5SE"
+        }
+      ],
+      "duration_ms": 154858,
+      "name": "City of Stars",
+      "url": "https://open.spotify.com/track/0KQnOjW6AP1LECHd18xjFj"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1239,6 +1239,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Youtube Sessions",
+        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
+      },
+      "artists": [
+        {
+          "name": "Alex Cornell",
+          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Sex On Fire",
+      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Send My Love (To Your New Lover) [Live]",
         "url": "https://open.spotify.com/album/6LcZmab2uq6Ml3XA0R9F0Z"
       },
@@ -1255,22 +1271,6 @@
       "duration_ms": 225033,
       "name": "Send My Love (To Your New Lover) - Live",
       "url": "https://open.spotify.com/track/0dGjfWSQNYuF7e6dYv9yrs"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Youtube Sessions",
-        "url": "https://open.spotify.com/album/3bGwqoEhtRavXVdMN9YEpJ"
-      },
-      "artists": [
-        {
-          "name": "Alex Cornell",
-          "url": "https://open.spotify.com/artist/2zVCLRV59G7nPOoKxj4xyY"
-        }
-      ],
-      "duration_ms": 185500,
-      "name": "Sex On Fire",
-      "url": "https://open.spotify.com/track/1ZXSLHLp5AJnCp12UXdYiO"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1427,22 +1427,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Dancing In The Moonlight: The Best Of Toploader",
-        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
-      },
-      "artists": [
-        {
-          "name": "Toploader",
-          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
-        }
-      ],
-      "duration_ms": 180573,
-      "name": "Dancing in the Moonlight - Acoustic Version",
-      "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Scars To Your Beautiful",
         "url": "https://open.spotify.com/album/7lwdqOUtzxHH7wxUHtFffj"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 237857,
       "name": "Scars To Your Beautiful",
       "url": "https://open.spotify.com/track/19f6MVdX9dLFerHynoM5im"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Dancing In The Moonlight: The Best Of Toploader",
+        "url": "https://open.spotify.com/album/3Yxy4ITyguWRkdXwrB9uC9"
+      },
+      "artists": [
+        {
+          "name": "Toploader",
+          "url": "https://open.spotify.com/artist/6xeFne1rkxMhKSW3ipvkdV"
+        }
+      ],
+      "duration_ms": 180573,
+      "name": "Dancing in the Moonlight - Acoustic Version",
+      "url": "https://open.spotify.com/track/3whQonlWrOjLVkZcA1GQsV"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Think Before I Talk (Acoustic)",
-        "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
-      },
-      "artists": [
-        {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        }
-      ],
-      "duration_ms": 217400,
-      "name": "Think Before I Talk - Acoustic",
-      "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Hello (Adele Cover)",
         "url": "https://open.spotify.com/album/0A6U4HudXB9ZDv3y1Y44qW"
       },
@@ -1619,6 +1603,22 @@
       "duration_ms": 230225,
       "name": "Hello",
       "url": "https://open.spotify.com/track/5mCLi8QdP2d9EoSIEoO8jX"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Think Before I Talk (Acoustic)",
+        "url": "https://open.spotify.com/album/4xBuuPBwFuPxv8sZNMqeVT"
+      },
+      "artists": [
+        {
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
+        }
+      ],
+      "duration_ms": 217400,
+      "name": "Think Before I Talk - Acoustic",
+      "url": "https://open.spotify.com/track/0xr4LgYImMBZL3lnniYzHv"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
-        "name": "Passport Home - EP",
-        "url": "https://open.spotify.com/album/3geJ2JihmZE86xCXINxDgx"
-      },
-      "artists": [
-        {
-          "name": "JP Cooper",
-          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
-        }
-      ],
-      "duration_ms": 178166,
-      "name": "Passport Home - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/5iZdKYiMnjUetBtqvWA4Mn"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
         "name": "Weak",
         "url": "https://open.spotify.com/album/4KeIxMxenWyNIfusGxKCb7"
       },
@@ -1787,6 +1771,22 @@
       "duration_ms": 201282,
       "name": "Weak - Acoustic",
       "url": "https://open.spotify.com/track/5RvpcF6WipmIipuZbjJkVV"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
+        "name": "Passport Home - EP",
+        "url": "https://open.spotify.com/album/3geJ2JihmZE86xCXINxDgx"
+      },
+      "artists": [
+        {
+          "name": "JP Cooper",
+          "url": "https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy"
+        }
+      ],
+      "duration_ms": 178166,
+      "name": "Passport Home - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/5iZdKYiMnjUetBtqvWA4Mn"
     },
     {
       "added_at": "2024-07-10 07:20:21",
@@ -2191,6 +2191,22 @@
     {
       "added_at": "2024-07-10 07:20:21",
       "album": {
+        "name": "Lift Your Spirit",
+        "url": "https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg"
+      },
+      "artists": [
+        {
+          "name": "Aloe Blacc",
+          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
+        }
+      ],
+      "duration_ms": 225333,
+      "name": "Wake Me Up - Acoustic",
+      "url": "https://open.spotify.com/track/3Jc0ABqhf9yMLn8bbAdmKX"
+    },
+    {
+      "added_at": "2024-07-10 07:20:21",
+      "album": {
         "name": "Another Bundle of Tantrums",
         "url": "https://open.spotify.com/album/0suH3Rwd18aTcUNz8OoOg1"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 192277,
       "name": "Mama - Acoustic",
       "url": "https://open.spotify.com/track/3VOtM6x5KXZuxSzHaaf9oO"
-    },
-    {
-      "added_at": "2024-07-10 07:20:21",
-      "album": {
-        "name": "Lift Your Spirit",
-        "url": "https://open.spotify.com/album/1ImxhQBpfEQeM7bNh61Aqg"
-      },
-      "artists": [
-        {
-          "name": "Aloe Blacc",
-          "url": "https://open.spotify.com/artist/0id62QV2SZZfvBn9xpmuCl"
-        }
-      ],
-      "duration_ms": 225333,
-      "name": "Wake Me Up - Acoustic",
-      "url": "https://open.spotify.com/track/3Jc0ABqhf9yMLn8bbAdmKX"
     },
     {
       "added_at": "2024-07-10 07:20:21",

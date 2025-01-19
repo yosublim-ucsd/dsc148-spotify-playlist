@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 72151,
+  "num_followers": 72154,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAABJ4l+EycN3Ika5wq4Hu1pK",
+  "snapshot_id": "Z4mdgAAAAACpvKP6YVMhm5g8rUCvThaP",
   "tracks": [
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "MMH",
-        "url": "https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr"
+        "name": "Neo SOUND BEST",
+        "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 208253,
-      "name": "WINGS ever",
-      "url": "https://open.spotify.com/track/0adiFWAZ8P8lG5JY0NzS4O"
+      "duration_ms": 334026,
+      "name": "\u6fc0\u52d5",
+      "url": "https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP"
     },
     {
       "added_at": null,
@@ -451,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Neo SOUND BEST",
-        "url": "https://open.spotify.com/album/026YUzz3W2bYO1QNvgfrs6"
+        "name": "MMH",
+        "url": "https://open.spotify.com/album/5RrsFS1r5qn2MkjKNEnCFr"
       },
       "artists": [
         {
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 334026,
-      "name": "\u6fc0\u52d5",
-      "url": "https://open.spotify.com/track/2bB94ADjTpb7qavnp8NYQP"
+      "duration_ms": 208253,
+      "name": "WINGS ever",
+      "url": "https://open.spotify.com/track/0adiFWAZ8P8lG5JY0NzS4O"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSER",
-        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 312746,
-      "name": "AFTER LIFE",
-      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PROGLUTION",
         "url": "https://open.spotify.com/album/4d8OnI47NpOYNaEXvaVo9q"
       },
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "LIFE 6 SENSE",
-        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
       },
       "artists": [
         {
@@ -696,9 +680,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 200426,
-      "name": "\u767d\u663c\u5922",
-      "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
+      "duration_ms": 312746,
+      "name": "AFTER LIFE",
+      "url": "https://open.spotify.com/track/5I1tUVKvEgfFws2udGUvt2"
     },
     {
       "added_at": null,
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "UNSER",
-        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+        "name": "LIFE 6 SENSE",
+        "url": "https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 202013,
-      "name": "First Sight",
-      "url": "https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w"
+      "duration_ms": 200426,
+      "name": "\u767d\u663c\u5922",
+      "url": "https://open.spotify.com/track/6u6ZZKeq5Upa3Dq7fgdwxq"
     },
     {
       "added_at": null,
@@ -751,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "UNSER",
+        "url": "https://open.spotify.com/album/5HV9QkpAM1knGp8FjdLWf8"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 202013,
+      "name": "First Sight",
+      "url": "https://open.spotify.com/track/5RURcUXdfhdthGDjBtsS3w"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "30",
         "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
@@ -760,9 +760,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 229253,
-      "name": "AS ONE",
-      "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
+      "duration_ms": 183693,
+      "name": "\u3048\u304f\u307c",
+      "url": "https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf"
     },
     {
       "added_at": null,
@@ -824,9 +824,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 183693,
-      "name": "\u3048\u304f\u307c",
-      "url": "https://open.spotify.com/track/1SjtklLoo3b72GS939fLTf"
+      "duration_ms": 229253,
+      "name": "AS ONE",
+      "url": "https://open.spotify.com/track/3aOLlgI7uj7kByYd5PKfqf"
     }
   ],
   "unique_name": "This Is UVERworld",

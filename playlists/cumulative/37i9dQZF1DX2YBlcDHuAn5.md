@@ -4,7 +4,7 @@
 
 > De mooiste muziek: Americana \| Country
 
-185 songs - 11 hr 13 min
+186 songs - 11 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [For The Better Of Me](https://open.spotify.com/track/4p1auAjWQJyV3cLJ7pqmpZ) | [Yentl](https://open.spotify.com/artist/6M2IE7XTPYn2pzfhpnDyWE) | [For The Better Of Me](https://open.spotify.com/album/7kl4zINXzUgsaYpPNj61Jg) | 3:50 | 2023-03-30 | 2024-08-30 |
 | [Forever a Prisoner](https://open.spotify.com/track/5UEffWajlacLxVJd2jODNX) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP), [VanWyck](https://open.spotify.com/artist/113MK4jDLZQiDOe1r18Qdb) | [Forever a Prisoner](https://open.spotify.com/album/489krjRSaaFyODbOscNedG) | 3:19 | 2023-08-31 | 2023-10-06 |
 | [Frozen In Time](https://open.spotify.com/track/7qoc1IZ1k6FXlF5KrPqAXe) | [Mell & Vintage Future](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Frozen In Time](https://open.spotify.com/album/2Xd0nXYllq7usaXQ99UXlA) | 2:58 | 2023-10-05 | 2023-10-31 |
-| [Fruits Of My Labor](https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Fruits Of My Labor](https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO) | 3:36 | 2023-11-02 |  |
+| [Fruits Of My Labor](https://open.spotify.com/track/3Un8AiGf6AmPY5YGzdrzJP) | [Amos Lee](https://open.spotify.com/artist/0QrowybipCKUDnq5y10PD2) | [Fruits Of My Labor](https://open.spotify.com/album/5f8FA5nXO3K4idqU1mAFuO) | 3:36 | 2023-11-02 | 2025-01-19 |
 | [Going Home](https://open.spotify.com/track/79Y9I1GYMaNEfVwEDmWh28) | [Robbert Duijf](https://open.spotify.com/artist/479RX3LATApuM30lH2cemD), [Maud Knubben](https://open.spotify.com/artist/109tzSrdsNx4IQJvJBTRXV) | [Dangers Mood](https://open.spotify.com/album/2vwbTmsYqcMqePxrfPRV4z) | 3:12 | 2023-04-27 | 2023-09-01 |
 | [Gold Dust Woman](https://open.spotify.com/track/1FH9iCgUtZXnwodYzahivh) | [Warren Haynes](https://open.spotify.com/artist/73iWh9WUMf0xK6cRkNJK4h), [Jim James](https://open.spotify.com/artist/1MhtYlJvUqfd2EgHSQTGK4), [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Gold Dust Woman](https://open.spotify.com/album/1jvxRIDR1nCdEw13R9Pv0S) | 3:00 | 2023-12-01 | 2025-01-18 |
 | [Gone Forever](https://open.spotify.com/track/0tRQcoSBhl4GUjc2EKs9UG) | [INA ROSE](https://open.spotify.com/artist/19ehJM5qKnIvJ1KXOnKddA) | [Gone Forever](https://open.spotify.com/album/5XKSg6lZFs45iry4wkRqvq) | 3:27 | 2024-09-26 | 2024-11-09 |
@@ -82,6 +82,7 @@
 | [How Did We Get To Goodbye](https://open.spotify.com/track/0QUij64RHqhEEPLFhFBDMc) | [Danielle Nicole](https://open.spotify.com/artist/34mu675oQQ5ZNuK1soZrIn) | [How Did We Get To Goodbye](https://open.spotify.com/album/6oDyjJGpgwgvb3N19B8Gxq) | 4:39 | 2023-12-01 |  |
 | [Huddle by the Fire](https://open.spotify.com/track/5cmp99VIIXksQZGdDIf5sB) | [Them Dirty Dimes](https://open.spotify.com/artist/5ALoTX7C68nChnuiz2loRP) | [Huddle by the Fire](https://open.spotify.com/album/56cOKNhTkIwryEvl3QQNOq) | 2:41 | 2023-10-05 | 2025-01-17 |
 | [I Believe](https://open.spotify.com/track/2OWWVJ4aCJfaATMozLKkQz) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [I Believe](https://open.spotify.com/album/3cZYZeskSVIYAUdBYarTCE) | 2:59 | 2024-08-29 |  |
+| [I Cry Alone](https://open.spotify.com/track/2KLXKaVVPN5JEQao4EX6aw) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a) | [I Cry Alone](https://open.spotify.com/album/1TuR4n1YDtRMgJhORKN5Na) | 3:31 | 2025-01-16 |  |
 | [I Feel for You](https://open.spotify.com/track/6XOWuyehpI0CEDYr7EQQun) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [I Feel for You](https://open.spotify.com/album/1T7prrdakLyU8Nk7AlXEgb) | 3:03 | 2023-02-23 | 2023-06-01 |
 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 | 2024-08-29 |  |
 | [I Remember Everything \(feat\. Kacey Musgraves\)](https://open.spotify.com/track/4KULAymBBJcPRpk1yO4dOG) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2), [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Zach Bryan](https://open.spotify.com/album/6PbnGueEO6LGodPfvNldYf) | 3:47 | 2023-09-01 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 
 > Hardcore, Frenchcore and uptempo to get you pumped
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,115 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,158 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3ND264N08pv.md) - [plain]
 | 45 | [365](https://open.spotify.com/track/7FeG9loIhGzhqnIH72hTd7) | [Maul](https://open.spotify.com/artist/4xTRZ0A9NyJ8f1Nzm01vRU) | [365](https://open.spotify.com/album/0xV7AAaEIHVrLSo8ptGWg1) | 2:20 |
 | 46 | [Sleepless](https://open.spotify.com/track/7MSgHpQ6jEIecruihONovW) | [Imperial](https://open.spotify.com/artist/2qx5TM5UVg3th3ZQ9Vkj2X), [Lumex](https://open.spotify.com/artist/5mmH8aPIBykETuGLc97VOi) | [Sleepless](https://open.spotify.com/album/0qGcJ4UEz2E3mH1I3mIWBn) | 3:27 |
 | 47 | [Make It Blow](https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU) | [Never Surrender](https://open.spotify.com/artist/0kyjNsbKXmVOtnaAMOVhW6), [Unresolved](https://open.spotify.com/artist/6glAHKAPvBPUQ4HQcYXxpr) | [Make It Blow](https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu) | 2:55 |
-| 48 | [WEEKEND](https://open.spotify.com/track/3RIHeko0AomqwG0capWJkT) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [WEEKEND](https://open.spotify.com/album/74yxOLteYsb8zILT9XVSfI) | 2:31 |
-| 49 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 |
+| 48 | [Higher](https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX) | [Korsakoff](https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE) | [Higher](https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM) | 3:54 |
+| 49 | [WEEKEND](https://open.spotify.com/track/3RIHeko0AomqwG0capWJkT) | [Mind Compressor](https://open.spotify.com/artist/04K4XkeDWVLIilcHHAAJ9n) | [WEEKEND](https://open.spotify.com/album/74yxOLteYsb8zILT9XVSfI) | 2:31 |
 | 50 | [Weltschmerz](https://open.spotify.com/track/0iqtMeuABRFHRo3C9h4igj) | [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh) | [Weltschmerz](https://open.spotify.com/album/2XWVk6Dr7iGdaRqSsQ3Ljd) | 3:05 |
 
 Snapshot ID: `Z4D04gAAAAAT3dxg2LpJHtaVJHOLIHye`

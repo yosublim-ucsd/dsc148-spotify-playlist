@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Norman Hutchins, Kurt Carr, Byron Cage and more
+> With LaShun Pace, Dorothy Norwood, Kurt Carr and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 235 likes - 50 songs - 4 hr 6 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4D8xyoXUDhng.md) - [plain]
 | 49 | [Now Are We](https://open.spotify.com/track/2Raelp57GEKfCeQVr2RpP6) | [Marvin Winans And The Perfected Praise Choir](https://open.spotify.com/artist/5bacVzt9GLSZEEjHKXwaEo) | [Introducing Perfected Praise](https://open.spotify.com/album/5Y3JhsPmHYR31DRQOe4o96) | 6:27 |
 | 50 | [Let Everything That Has Breath Praise](https://open.spotify.com/track/0bIEsDKNHO1hfmSVoC0HNl) | [Kurt Carr & The Kurt Carr Singers](https://open.spotify.com/artist/5yoZYhT8x7DXiFl0srkXLQ) | [Bless This House](https://open.spotify.com/album/3YeZE1HA9pr4xE6N2jwHft) | 5:14 |
 
-Snapshot ID: `Z4seSAAAAAAY9k0k1vd+8suRYBN59ToO`
+Snapshot ID: `Z4xw4wAAAABsH6gsrwjjZrBW3brzVlvp`

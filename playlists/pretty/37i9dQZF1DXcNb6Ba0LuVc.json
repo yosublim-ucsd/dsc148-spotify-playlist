@@ -1,6 +1,6 @@
 {
   "description": "Uplifting instrumental beats to brighten your day.",
-  "num_followers": 278456,
+  "num_followers": 278630,
   "original_name": "Feel Good Beats",
   "owner": {
     "name": "Spotify",
@@ -1364,12 +1364,12 @@
       },
       "artists": [
         {
-          "name": "Zmeyev",
-          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
-        },
-        {
           "name": "Screen Jazzmaster",
           "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        },
+        {
+          "name": "Zmeyev",
+          "url": "https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL"
         }
       ],
       "duration_ms": 115662,

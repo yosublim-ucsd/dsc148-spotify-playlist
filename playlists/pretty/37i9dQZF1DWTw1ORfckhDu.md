@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Bizi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,791 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,804 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
-| 2 | [Willy Wonka Freestyle](https://open.spotify.com/track/2q94C1i58OxdqyApjWByeC) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Willy Wonka Freestyle](https://open.spotify.com/album/316Aav3ExDWznx8uLtnOtT) | 2:01 |
+| 1 | [Willy Wonka Freestyle](https://open.spotify.com/track/2q94C1i58OxdqyApjWByeC) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Willy Wonka Freestyle](https://open.spotify.com/album/316Aav3ExDWznx8uLtnOtT) | 2:01 |
+| 2 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
 | 3 | [Päivä joka meidät pilaa](https://open.spotify.com/track/7pas0lEEhW9FpmWkDJ260C) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Päivä joka meidät pilaa](https://open.spotify.com/album/3axhVDy2rJGw40hBlY7fh7) | 3:27 |
 | 4 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
 | 5 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 7 | [Ympyrää](https://open.spotify.com/track/0M6h2AOJ6YjnkdGfeJEmuo) | [Isaac Sene](https://open.spotify.com/artist/227yfva6O3LBBYJWNJHC6a), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [Ympyrää](https://open.spotify.com/album/53Z3cU90vVY3vAsH8ll3kj) | 2:25 |
 | 8 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
 | 9 | [Taikuri](https://open.spotify.com/track/7fdNCtxfZArtOZK3hLqqm3) | [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [ROADMAN](https://open.spotify.com/album/77h9rh1J6b9OE8z8wAQF4m) | 2:56 |
-| 10 | [Tili tuli, tili meni](https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tili tuli, tili meni](https://open.spotify.com/album/6N1NMvekc9JN5miaabjIRr) | 2:33 |
-| 11 | [Jeesus](https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Jeesus](https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe) | 1:50 |
+| 10 | [Jeesus](https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R) | [koira](https://open.spotify.com/artist/4rL7vju2zGQGrzqkpzkwOo), [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA), [MELO](https://open.spotify.com/artist/4FHSjUpacxrQeyXkOyX6hz) | [Jeesus](https://open.spotify.com/album/0wjev3WWKrBs0ZxhxqnVZe) | 1:50 |
+| 11 | [Tili tuli, tili meni](https://open.spotify.com/track/62fvSFu3kdDzTd0z5LQcnX) | [JVG](https://open.spotify.com/artist/55mdlQp6zN8zdyIYB9DDQj) | [Tili tuli, tili meni](https://open.spotify.com/album/6N1NMvekc9JN5miaabjIRr) | 2:33 |
 | 12 | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy) | 3:03 |
 | 13 | [Diva](https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy) | [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Diva](https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM) | 2:31 |
 | 14 | [Otan Kii](https://open.spotify.com/track/0msAT2TjdYnHHCkS2WajM4) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [Otan Kii](https://open.spotify.com/album/5txkutfbBbOpnGVl5ufKeJ) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Miljoona](https://open.spotify.com/track/4c6GQUHarKXDAzcUxTg7bH) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Miljoona](https://open.spotify.com/album/1sXCFKPdwPZAAQh79Vthrz) | 2:40 |
 | 50 | [Forever Young \(feat\. Joe L\)](https://open.spotify.com/track/6pG5I35avZEynviks1Cxjz) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Forever Young \(feat\. Joe L\)](https://open.spotify.com/album/43tslB3llPYF8ULFuwlgmJ) | 2:59 |
 
-Snapshot ID: `Z4mBoAAAAAAg6QwlL/TDQ1vTXNlop3de`
+Snapshot ID: `Z4v/zwAAAAClseCEwShKLicPtO2yTEw7`

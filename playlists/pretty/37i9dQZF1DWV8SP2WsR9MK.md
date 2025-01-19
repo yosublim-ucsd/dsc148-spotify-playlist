@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 
 > The classic Jazz guitarists and their finest pieces\. Cover: Grant Green
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,046 likes - 100 songs - 9 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,107 likes - 100 songs - 9 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV8SP2WsR9MK.md) - [plain]
 | 60 | [Night And Day](https://open.spotify.com/track/3uydYrCQIkBAi2BG2fgjaF) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [For Django](https://open.spotify.com/album/52hlifh2FGBhx4BQVl2OJD) | 3:44 |
 | 61 | [Nimbus](https://open.spotify.com/track/2wpyQnXMfrbwJi2LND6DOY) | [Ralph Towner](https://open.spotify.com/artist/1tbxopipOkDjnRDfMKj535), [Jan Garbarek](https://open.spotify.com/artist/7MEyCD4G0Zl6kmikEAZsym), [Eberhard Weber](https://open.spotify.com/artist/2BPSfZHtSYon5DKvp95xXT), [Jon Christensen](https://open.spotify.com/artist/5Li0fvh4kEJOWbLYWfNrPr) | [Solstice](https://open.spotify.com/album/3sKuk1zytR31B2Vdi5d4B0) | 6:25 |
 | 62 | [Ralph's Piano Waltz](https://open.spotify.com/track/6eldKsQmwvE8W8RJvE4bF8) | [John Abercrombie](https://open.spotify.com/artist/1OCdpTg8d7Ehpj8B9j4iqa), [Jan Hammer](https://open.spotify.com/artist/50zRydJXfkLzGIOj9mITfy), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Timeless](https://open.spotify.com/album/0nI82CyOhfSVAlElZlAUXW) | 4:52 |
-| 63 | [Wholly Cats \(feat\. Charlie Christian\)](https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS) | [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1), [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 3:02 |
-| 64 | [Polka Dots and Moonbeams](https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 5:48 |
+| 63 | [Polka Dots and Moonbeams](https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14) | [Lenny Breau](https://open.spotify.com/artist/5ZNvJC7YIhztLqxS58c1or), [Chet Atkins](https://open.spotify.com/artist/4dZrt8Ong5t7YYpvbfp0RU) | [Standard Brands](https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e) | 5:48 |
+| 64 | [Wholly Cats \(feat\. Charlie Christian\)](https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS) | [Benny Goodman Sextet](https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1), [Charlie Christian](https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6) | [The Essential Benny Goodman](https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK) | 3:02 |
 | 65 | [I Never Knew](https://open.spotify.com/track/6Xugk0xzYvSkmH77VL1GwL) | [Kenny Burrell](https://open.spotify.com/artist/1sdyFmN4bVOcuFDpTVsxBB), [John Coltrane](https://open.spotify.com/artist/2hGh5VOeeqimQFxqXvfCUf) | [Kenny Burrell & John Coltrane](https://open.spotify.com/album/4BZcEZub79xqoEJwtVNQoY) | 7:02 |
 | 66 | [Giant Steps](https://open.spotify.com/track/74c8OtmpOrPtwjroiriM54) | [Steve Smith](https://open.spotify.com/artist/7pnpCbCBCIHvkCqrXSib0z), [Scott Henderson](https://open.spotify.com/artist/7iqVI0BpCxVVHyVyGSfAmn), [Victor Wooten](https://open.spotify.com/artist/2STVYmc2T02GlvvWZl7umj) | [Vital Techtones](https://open.spotify.com/album/6d7fOKSVvPBoTVIWPJB2Ed) | 5:45 |
 | 67 | [Moonlight In Vermont](https://open.spotify.com/track/73CYjb6oGhV4CqohyR2OVV) | [Jimmy Bruno](https://open.spotify.com/artist/1oTIG44ppYw0nUBqFvZ5Q5) | [Burnin'](https://open.spotify.com/album/0mF2ClZgcgBlyibysq4B5K) | 8:12 |

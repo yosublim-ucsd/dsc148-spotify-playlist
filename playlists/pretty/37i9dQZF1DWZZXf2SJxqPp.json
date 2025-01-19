@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 142061,
+  "num_followers": 142081,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Laberinto (Bosq Remix)",
-        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
-      },
-      "artists": [
-        {
-          "name": "Rawayana",
-          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
-        },
-        {
-          "name": "Bosq",
-          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
-        }
-      ],
-      "duration_ms": 224211,
-      "name": "Laberinto - Bosq Remix",
-      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Mon Cheri",
         "url": "https://open.spotify.com/album/6PmUVTmxKzphzJPIqCZbMJ"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 248127,
       "name": "Mon Cheri",
       "url": "https://open.spotify.com/track/1Fu9QYiYh8izSKG0cqUXxn"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Laberinto (Bosq Remix)",
+        "url": "https://open.spotify.com/album/5vfciS3URPiFrOBnzSIy2k"
+      },
+      "artists": [
+        {
+          "name": "Rawayana",
+          "url": "https://open.spotify.com/artist/2AbQwU2cuEGfD465wCXlg2"
+        },
+        {
+          "name": "Bosq",
+          "url": "https://open.spotify.com/artist/2tpbLTmBZZcGvcCHX6uw1U"
+        }
+      ],
+      "duration_ms": 224211,
+      "name": "Laberinto - Bosq Remix",
+      "url": "https://open.spotify.com/track/73EADOHLCpA5Fk4EM8vzO1"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -729,22 +729,6 @@
       "url": "https://open.spotify.com/track/67yw6kP3lhXD8HRsvCVWtm"
     },
     {
-      "added_at": "2024-06-26 18:40:57",
-      "album": {
-        "name": "Rainbow",
-        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
-      },
-      "artists": [
-        {
-          "name": "ATRIP",
-          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
-        }
-      ],
-      "duration_ms": 176105,
-      "name": "Rainbow",
-      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Can't Stop Your Lovin'",
@@ -763,6 +747,22 @@
       "duration_ms": 237533,
       "name": "Can't Stop Your Lovin'",
       "url": "https://open.spotify.com/track/5P1eorfAD2voGnX7ZbuvFz"
+    },
+    {
+      "added_at": "2024-06-26 18:40:57",
+      "album": {
+        "name": "Rainbow",
+        "url": "https://open.spotify.com/album/45XxHc9UCdtq7htlaBFiE1"
+      },
+      "artists": [
+        {
+          "name": "ATRIP",
+          "url": "https://open.spotify.com/artist/4fu0Er7pG6kZZa7Awf3NMI"
+        }
+      ],
+      "duration_ms": 176105,
+      "name": "Rainbow",
+      "url": "https://open.spotify.com/track/4bLujgDSlHpsPaMZDuc59i"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1027,6 +1027,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Canta",
+        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
+      },
+      "artists": [
+        {
+          "name": "Amo Amo",
+          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
+        }
+      ],
+      "duration_ms": 275746,
+      "name": "Canta",
+      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Topical Dancer",
         "url": "https://open.spotify.com/album/4ivk3u8J7qg7YoWUZlnGNz"
       },
@@ -1043,22 +1059,6 @@
       "duration_ms": 226253,
       "name": "Ceci n'est pas un clich\u00e9",
       "url": "https://open.spotify.com/track/1usZqtTrEPNm8gvn1vN4T8"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Canta",
-        "url": "https://open.spotify.com/album/2rmC6nJOCMzUn2VqTxbFik"
-      },
-      "artists": [
-        {
-          "name": "Amo Amo",
-          "url": "https://open.spotify.com/artist/6IXFZ8obsCsz6YcPuPwSSm"
-        }
-      ],
-      "duration_ms": 275746,
-      "name": "Canta",
-      "url": "https://open.spotify.com/track/4BkwcPvGeKVat4mXCHBORN"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1181,26 +1181,6 @@
       "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
-      "added_at": "2024-05-30 23:14:49",
-      "album": {
-        "name": "Genius of Love",
-        "url": "https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv"
-      },
-      "artists": [
-        {
-          "name": "Toro y Moi",
-          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
-        },
-        {
-          "name": "Brijean",
-          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
-        }
-      ],
-      "duration_ms": 205000,
-      "name": "Genius of Love",
-      "url": "https://open.spotify.com/track/0UMfconu33lpuioJ696nKv"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Horizons",
@@ -1219,6 +1199,26 @@
       "duration_ms": 261224,
       "name": "How Long",
       "url": "https://open.spotify.com/track/1uOtAQ7g9zVKf8vh0dcO4d"
+    },
+    {
+      "added_at": "2024-05-30 23:14:49",
+      "album": {
+        "name": "Genius of Love",
+        "url": "https://open.spotify.com/album/7ATVtKtlDE1cxauGVsZvSv"
+      },
+      "artists": [
+        {
+          "name": "Toro y Moi",
+          "url": "https://open.spotify.com/artist/6O4EGCCb6DoIiR6B1QCQgp"
+        },
+        {
+          "name": "Brijean",
+          "url": "https://open.spotify.com/artist/2TRNyrjoKJnqSc9G8jCZfb"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Genius of Love",
+      "url": "https://open.spotify.com/track/0UMfconu33lpuioJ696nKv"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1341,26 +1341,6 @@
       "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
     },
     {
-      "added_at": "2024-07-09 06:43:32",
-      "album": {
-        "name": "Money Face",
-        "url": "https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        },
-        {
-          "name": "Kondi Band",
-          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
-        }
-      ],
-      "duration_ms": 258874,
-      "name": "Money Face",
-      "url": "https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Mopedbart",
@@ -1395,6 +1375,26 @@
       "duration_ms": 229386,
       "name": "Boney M Down",
       "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
+    },
+    {
+      "added_at": "2024-07-09 06:43:32",
+      "album": {
+        "name": "Money Face",
+        "url": "https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v"
+      },
+      "artists": [
+        {
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        },
+        {
+          "name": "Kondi Band",
+          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
+        }
+      ],
+      "duration_ms": 258874,
+      "name": "Money Face",
+      "url": "https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1745,20 +1745,20 @@
       "url": "https://open.spotify.com/track/32w1T02SEa3WVJIukZjvEe"
     },
     {
-      "added_at": "2024-07-01 18:08:26",
+      "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+        "name": "Last Dream",
+        "url": "https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9"
       },
       "artists": [
         {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+          "name": "Jones Meadow",
+          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
         }
       ],
-      "duration_ms": 245786,
-      "name": "Crystallize",
-      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+      "duration_ms": 242123,
+      "name": "Shut Down",
+      "url": "https://open.spotify.com/track/4voScCHrWmAGe5iAHrFMmk"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1777,20 +1777,20 @@
       "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
+      "added_at": "2024-07-01 18:08:26",
       "album": {
-        "name": "Last Dream",
-        "url": "https://open.spotify.com/album/19hum2Jtf27MsPyb9nEHK9"
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
       },
       "artists": [
         {
-          "name": "Jones Meadow",
-          "url": "https://open.spotify.com/artist/3MK71khOrqZwGpyfYzwKXR"
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
         }
       ],
-      "duration_ms": 242123,
-      "name": "Shut Down",
-      "url": "https://open.spotify.com/track/4voScCHrWmAGe5iAHrFMmk"
+      "duration_ms": 245786,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
     },
     {
       "added_at": "2023-08-14 14:58:41",

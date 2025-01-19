@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -2130,7 +2130,7 @@
       ],
       "date_added": "2025-01-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -2752,6 +2752,28 @@
       "duration_ms": 152464,
       "name": "Blaue Monarchie, Vol.3",
       "url": "https://open.spotify.com/track/38H4YiyRNiLMo1DFFXCf4d"
+    },
+    {
+      "album": {
+        "name": "Blikkendag",
+        "url": "https://open.spotify.com/album/5dpLNuG6TiMugxpqyLDGZB"
+      },
+      "artists": [
+        {
+          "name": "Sven Versteeg",
+          "url": "https://open.spotify.com/artist/0NJI3CV8t7MIgRhC3Ov2vV"
+        },
+        {
+          "name": "Likke P\u00eahp",
+          "url": "https://open.spotify.com/artist/4aO9wZpEijSfCiaXZjR2ma"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209090,
+      "name": "Blikkendag",
+      "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
     },
     {
       "album": {
@@ -5560,7 +5582,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 257560,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
@@ -5578,7 +5600,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 257893,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
@@ -6839,6 +6861,24 @@
     },
     {
       "album": {
+        "name": "99 Nights (Edition Deluxe)",
+        "url": "https://open.spotify.com/album/7x5lWIns61zRNE9fThAiSD"
+      },
+      "artists": [
+        {
+          "name": "Charlotte Cardin",
+          "url": "https://open.spotify.com/artist/1G0YV9WooUBjrwDq0Q7EFK"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163472,
+      "name": "Feel Good",
+      "url": "https://open.spotify.com/track/1pqKCnjkTBcAX6NyzSDahf"
+    },
+    {
+      "album": {
         "name": "Feel Good",
         "url": "https://open.spotify.com/album/3W7uKLpwgHebqF1kjKbYix"
       },
@@ -6850,7 +6890,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 163472,
       "name": "Feel Good",
       "url": "https://open.spotify.com/track/6PcVlezWXunO2Bh78iEq0W"
@@ -9976,7 +10016,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 213040,
       "name": "I Surrender (feat. Lange Frans) - Remix",
       "url": "https://open.spotify.com/track/5v9RI8UmSTgDSsZ8cKENc5"
@@ -9998,7 +10038,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 213040,
       "name": "I Surrender - Remix",
       "url": "https://open.spotify.com/track/7GDEIrIOGdE5AkQfuk1FA3"
@@ -10096,7 +10136,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 192906,
       "name": "I'm Alright",
       "url": "https://open.spotify.com/track/7pL6TKQP2DI5YWMYndzIkt"
@@ -11716,7 +11756,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
@@ -11738,7 +11778,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -12519,6 +12559,24 @@
     },
     {
       "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef"
+      },
+      "artists": [
+        {
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143811,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg"
+    },
+    {
+      "album": {
         "name": "WE DON'T TRUST YOU",
         "url": "https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn"
       },
@@ -13182,7 +13240,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -13212,7 +13270,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -14362,7 +14420,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 214506,
       "name": "Moi qui r\u00eavais d'avoir un fr\u00e8re",
       "url": "https://open.spotify.com/track/3g99OgqoMVQ5ycWuMQR7bj"
@@ -14896,7 +14954,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-13",
+      "date_removed": null,
       "duration_ms": 203015,
       "name": "My Favourite Game",
       "url": "https://open.spotify.com/track/1O28S9MYZONNh5PNG1bYeC"
@@ -15670,7 +15728,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 266266,
       "name": "November",
       "url": "https://open.spotify.com/track/4ZZd1CLMuF50ZW7t515S6l"
@@ -16836,7 +16894,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 206627,
       "name": "PIToRRO DE COCO",
       "url": "https://open.spotify.com/track/14QaXYIK3K3QPtezqxRRPN"
@@ -23162,6 +23220,32 @@
       "duration_ms": 119160,
       "name": "What Have They Done To Us (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/4ZdFMKqprNtEqdqdhu7gU0"
+    },
+    {
+      "album": {
+        "name": "What I Need",
+        "url": "https://open.spotify.com/album/5G6QBfcTbR4Jqs3zeacHLJ"
+      },
+      "artists": [
+        {
+          "name": "Naarly",
+          "url": "https://open.spotify.com/artist/4ME20XT9IP5JOpqoIGQ6Js"
+        },
+        {
+          "name": "Sickluv",
+          "url": "https://open.spotify.com/artist/0VKlKyeBQek2wH0MTxUuWe"
+        },
+        {
+          "name": "Thabza De Soul",
+          "url": "https://open.spotify.com/artist/3FCL7AQnXR5pCWrceDPFhH"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244026,
+      "name": "What I Need",
+      "url": "https://open.spotify.com/track/5wBTPxJisiSQz9vkneZSlr"
     },
     {
       "album": {

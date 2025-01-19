@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 
 > Άκου τα πιο χοτ trends στην Ελλάδα αυτή τη στιγμή!
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,220 likes - 60 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,236 likes - 60 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0QfDOCxg9IE.md) - [plain]
 | 18 | [APT.](https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:49 |
 | 19 | [JARHEADS](https://open.spotify.com/track/56mswY7shVnGHExoqpqWsD) | [Kareem Kalokoh](https://open.spotify.com/artist/6fIBCdiEDMUziaNwDi2Awb), [Moose](https://open.spotify.com/artist/3LcKlNE5nPPFpDtmc2wtdC), [Light](https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2) | [BOOTCAMP](https://open.spotify.com/album/79kqAwD9ox0faaFmzuXlZA) | 2:49 |
 | 20 | [Lekes](https://open.spotify.com/track/48tVeEffiTEE6v8sMMQjf8) | [Anna Vissi](https://open.spotify.com/artist/3qg78GGGWP04yTv0ZQMsXl) | [Lekes](https://open.spotify.com/album/32OzRuOOFSRH69LzHEK0JF) | 4:15 |
-| 21 | [PORNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
+| 21 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
 | 22 | [Mpires Gia To Spiti](https://open.spotify.com/track/7tiAlo4OwOePj3X0Z3EK0y) | [Rammenos Assos](https://open.spotify.com/artist/3pb0mN0l2oMj8RIkJFI2t4), [TAF LATHOS](https://open.spotify.com/artist/5sMTmnLClGnDFZm4c1yjCP), [Sumo Beats](https://open.spotify.com/artist/7v5615g0bsYcu6u2KEJIiF) | [Nosos Tou Realismou](https://open.spotify.com/album/5G91ijM2CCIjnRrcDFziB7) | 4:43 |
 | 23 | [Nero Sti Varka](https://open.spotify.com/track/6mFycTUAIVXhPottIqiTbu) | [Martha Frintzila](https://open.spotify.com/artist/4fPLi7lkdcE6i3C2jIGaPv), [Orestis Ntantos](https://open.spotify.com/artist/0ywXBvMabVdbaY3UtsnBN8) | [Takounia Gia Karfia](https://open.spotify.com/album/21itgD37WJCHarCdcjlJM4) | 3:07 |
 | 24 | [ZIZEL](https://open.spotify.com/track/09VjssqvFOrYxBj4IyYfcR) | [Emils](https://open.spotify.com/artist/7hJSYwTFB1sIj6EWGj2gBU) | [ZIZEL](https://open.spotify.com/album/5KWsFnhOvaEmuf4WiCOrEy) | 1:43 |

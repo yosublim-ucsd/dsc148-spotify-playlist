@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 
 > Fearless sounds at the crossroads of country and folk\. Cover: Post Malone
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,859 likes - 100 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,875 likes - 100 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWHw0yK8z3Pm.md) - [plain]
 | 92 | [Back to You](https://open.spotify.com/track/6mUwYseemAWVt1BJJhcSDC) | [Denitia](https://open.spotify.com/artist/6Dfjb3S1itIcLl2toYSiRp) | [Back to You](https://open.spotify.com/album/4ieLgIodUv5nDX2LlRUSpe) | 2:57 |
 | 93 | [Everywhere I Go](https://open.spotify.com/track/1D9jGMIvyONAaD16DeHlGR) | [Cat Clyde](https://open.spotify.com/artist/7oRT0oC3vhUGQJCL6CYYzk) | [Down Rounder](https://open.spotify.com/album/3vFxPWFA56HSBQr096PbUO) | 2:19 |
 | 94 | [Say When](https://open.spotify.com/track/0QChG9YrqEMjILmLpMiLOr) | [The Sarandons](https://open.spotify.com/artist/6kXK0sCYEljyWxMNgN0phM) | [Say When](https://open.spotify.com/album/2yO30qxwFfUOAiLBZXFDn6) | 4:13 |
-| 95 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
-| 96 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 |
+| 95 | [Don't Feel Like Crying](https://open.spotify.com/track/7rbLQE71YypSgiewESHiiw) | [The Bros\. Landreth](https://open.spotify.com/artist/7aW0i5ASfG998fHzkNDniL), [Leith Ross](https://open.spotify.com/artist/4nxKz1dRYXnsGzN1lUURtG) | [Come Morning](https://open.spotify.com/album/70Lbc0nDNzvJb4UBDXVU6K) | 4:13 |
+| 96 | [Please Don't Go](https://open.spotify.com/track/6DHPLbudo5JXNdUlG7zDcC) | [Wyatt Flores](https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y) | [Please Don't Go](https://open.spotify.com/album/4K2htiCgz7DrhLOWepp3ru) | 3:01 |
 | 97 | [Numbers](https://open.spotify.com/track/1IcMEQNw8ZuXZtfLGnrKcq) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Among Other Things](https://open.spotify.com/album/3xFMep9WfDGEqDveIQQf1V) | 4:28 |
 | 98 | [Mountain Road](https://open.spotify.com/track/2aM472azYtxa73uSX3RXmi) | [Boy Golden](https://open.spotify.com/artist/4oNZapwLKDfR92AX7LbRk1) | [Mountain Road](https://open.spotify.com/album/2WiDDDp9WsUkmIaSoLTOY9) | 3:35 |
-| 99 | [Devil's Wine feat\. Joe Newton](https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Joe Newton](https://open.spotify.com/artist/66DRCybnaEyb52neuFgE8Z) | [Devil's Wine](https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ) | 3:16 |
-| 100 | [Against The Grain](https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Adrian Underhill](https://open.spotify.com/artist/4cxNlCYxlWWtkYRkNk04CN) | [Against The Grain](https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y) | 3:15 |
+| 99 | [Against The Grain](https://open.spotify.com/track/0aC6vbkbcZwfeDW0TjWZq7) | [Julianna Riolino](https://open.spotify.com/artist/4IkYUDeCe6OrwQhdSZZ81b), [Adrian Underhill](https://open.spotify.com/artist/4cxNlCYxlWWtkYRkNk04CN) | [Against The Grain](https://open.spotify.com/album/6GVN9nEFPZM6I4gsXr1k0Y) | 3:15 |
+| 100 | [Devil's Wine feat\. Joe Newton](https://open.spotify.com/track/3FpxNZXWtkfTDCS18ItwlA) | [Moontricks](https://open.spotify.com/artist/6o52orvClP7ba1qV4zMVlg), [Joe Newton](https://open.spotify.com/artist/66DRCybnaEyb52neuFgE8Z) | [Devil's Wine](https://open.spotify.com/album/1omFDYbbRyTEz12vG0GEhJ) | 3:16 |
 
 Snapshot ID: `Z4nkCgAAAAD6kcrH6FBMGJlgKaF4xLtq`

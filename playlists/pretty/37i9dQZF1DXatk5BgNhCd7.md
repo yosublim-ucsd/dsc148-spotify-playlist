@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 
 > Nuevos temas de géneros tropicales\. Foto: Los Ángeles Azules & Thalia.
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,089 likes - 100 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,165 likes - 100 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,7 +93,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatk5BgNhCd7.md) - [plain]
 | 83 | [Escucha Mi Voz & Yo Soy tu Prisionero & Buscándote entre los Rosales \- En Vivo](https://open.spotify.com/track/6h3QgCdRII27s3FJYubONc) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi) | [Escucha Mi Voz & Yo Soy tu Prisionero & Buscándote entre los Rosales \(En Vivo\)](https://open.spotify.com/album/37OaxVyHFKASlSdBBh9s4l) | 6:24 |
 | 84 | [OHNANA](https://open.spotify.com/track/2uuaPXA9MoNU6n0iw8KNfI) | [La Pleyer](https://open.spotify.com/artist/2aNUpJ7j735QzVplzYdlRJ), [DesaKTa2](https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0) | [QueSigaLaGira \#10](https://open.spotify.com/album/16gNjbZBxq6zYr1xlYDPfk) | 2:24 |
 | 85 | [Pa' la Selección \- En Vivo](https://open.spotify.com/track/6o74gO9Cc65yOph1pWnWmS) | [La T y La M](https://open.spotify.com/artist/1FxPMQ9A0882eNDx3ZkD6B) | [Luna Park \(En Vivo\)](https://open.spotify.com/album/1Oatu8AcJtDJsC24cEJr3r) | 3:18 |
-| 86 | [Cumbia Mix: Inventame / Mi verdad / Inevitable](https://open.spotify.com/track/2opfmvZhOHdcdXw8GWSQrV) | [Angela Leiva](https://open.spotify.com/artist/6Y4g5zwJI7jcRzGLXh0H5d), [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo) | [Cumbia Mix: Invéntame / Mi verdad / Inevitable](https://open.spotify.com/album/2piplSe5rIAuG6gtvBQKp3) | 10:28 |
+| 86 | [Cumbia Mix: Inventame / Mi verdad / Inevitable](https://open.spotify.com/track/2opfmvZhOHdcdXw8GWSQrV) | [Los del Fuego](https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T), [Los Wachiturros](https://open.spotify.com/artist/1LUSs33lIrjmo5XTgX6Yoo) | [Cumbia Mix: Invéntame / Mi verdad / Inevitable](https://open.spotify.com/album/2piplSe5rIAuG6gtvBQKp3) | 10:28 |
 | 87 | [Dos Dias](https://open.spotify.com/track/2CjAvddX3v0q18wzJlThep) | [Grupo Play](https://open.spotify.com/artist/2PFG7Z9o7dUTCCVAuzZYJS), [Ezequiel Y La Clave](https://open.spotify.com/artist/74CIXR2mbIKC3gRYZQqKdY) | [Dos Dias](https://open.spotify.com/album/5NBhxv04cPcmr21qO5EmWP) | 2:54 |
 | 88 | [No Me Sigas Más \- En Vivo](https://open.spotify.com/track/26sh3TichZ1YnLGHvCnJVP) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Daniel Cardozo](https://open.spotify.com/artist/3Mr0TsHv8DUbDBMEFW2L9T) | [35 Años \(En Vivo\)](https://open.spotify.com/album/1aMMeshkQBx8XjnABlzGMn) | 4:01 |
 | 89 | [Zapada 3](https://open.spotify.com/track/5lV1gffVy0Tygf7OJONcp7) | [El Perro](https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM), [Marquino](https://open.spotify.com/artist/4jaw5iogUkmoylPtcoBtJS), [Soy el Manu](https://open.spotify.com/artist/6vYsRTPWrNVTckLCWr8WNp) | [Zapada 3](https://open.spotify.com/album/1EYq1D8HcXFwMG9zw9wJ0H) | 5:18 |

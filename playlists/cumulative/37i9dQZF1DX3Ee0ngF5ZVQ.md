@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-677 songs - 1 day 16 hr 21 min
+679 songs - 1 day 16 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -41,7 +41,7 @@
 | [Amy's Back In Austin](https://open.spotify.com/track/6zQYNHtuXmHkfYVJNzOYRG) | [Eli Young Band](https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Amy's Back In Austin](https://open.spotify.com/album/51EfDF9ysbbelIVF20ygZC) | 4:17 | 2023-12-15 | 2024-05-03 |
 | [Anderson County](https://open.spotify.com/track/13x5ByGTp5k2Eu1nFCM0cc) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [FREE](https://open.spotify.com/album/3rSKjvRVAGtNE038X3pjXb) | 3:07 | 2022-11-04 | 2023-01-06 |
 | [Anderson County](https://open.spotify.com/track/75VAQ0SRTBKzqzAZuIepN8) | [Chad Cooke Band](https://open.spotify.com/artist/7BFmW9uJ3wCZmZxpr03u0H) | [Anderson County](https://open.spotify.com/album/7qT9Yz0XXRIQBvSHAYz8FI) | 3:07 | 2022-09-09 | 2022-11-07 |
-| [Angels & Heathens](https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Angels & Heathens](https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9) | 3:18 | 2024-09-27 |  |
+| [Angels & Heathens](https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j) | [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Angels & Heathens](https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9) | 3:18 | 2024-09-27 | 2025-01-19 |
 | [Another Man](https://open.spotify.com/track/7uzj53gXpNtiQw82rE3h2g) | [Caiden Wallace](https://open.spotify.com/artist/5yg39kxC6Y8JfBKFRi7lua) | [Another Man](https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv) | 3:16 | 2024-08-30 |  |
 | [Another You](https://open.spotify.com/track/3OKan3IZFHAYCPd0DlsD96) | [Drew Fish Band](https://open.spotify.com/artist/0zYSaMFTNzN0Y8a8Zv5oD5) | [Another You](https://open.spotify.com/album/0dcheBteHIIiY9n6DBjTSI) | 4:27 | 2022-03-18 | 2022-07-29 |
 | [Any Other Guy](https://open.spotify.com/track/1WaeUaL6AcSPZA96q5S8fA) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [Any Other Guy](https://open.spotify.com/album/3aX8bB9ctFZJS3NF9YAliw) | 4:18 | 2021-12-17 | 2022-05-28 |
@@ -235,7 +235,7 @@
 | [Goodbye Horses](https://open.spotify.com/track/4dM6n7StQUjohoWk0JFLw4) | [Joshua Ray Walker](https://open.spotify.com/artist/5SlqleEyFgUYZEZCJ5juDr) | [What Is It Even?](https://open.spotify.com/album/7pOByvaZQPALod9AwZJi3j) | 3:41 | 2023-08-04 | 2023-10-21 |
 | [Grain of Salt](https://open.spotify.com/track/0Kv4Y5oOn41W93IFXsvcpY) | [Kin Faux](https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu) | [Grain of Salt](https://open.spotify.com/album/11fYmLaOYK0KKoj77tliqj) | 3:49 | 2022-07-15 | 2022-07-18 |
 | [Green Eyes Blue](https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Green Eyes Blue](https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq) | 3:37 | 2023-03-24 |  |
-| [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 | 2024-08-23 |  |
+| [Green in Colorado](https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Green in Colorado](https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2) | 3:16 | 2024-08-23 | 2025-01-19 |
 | [Growing Up](https://open.spotify.com/track/0OQBDgDbMM9eJITeGwZusI) | [Jacob Stelly](https://open.spotify.com/artist/0UARFNqkG0EVLtLlUMyM41) | [Growing Up](https://open.spotify.com/album/5RKdHUALvM0KCNPwsHRO1V) | 3:44 | 2022-07-08 | 2022-07-30 |
 | [Guess Some Dreams Come True](https://open.spotify.com/track/3huD0tFdSCq5NZ6rM5G1Ug) | [Logan Ryan Band](https://open.spotify.com/artist/7LVl0gsG1AEc6lid0fJK6P) | [Guess Some Dreams Come True](https://open.spotify.com/album/26WPzOLfAPiBfTd3NLI0l8) | 4:19 | 2022-02-25 | 2022-07-19 |
 | [Haggard Blues](https://open.spotify.com/track/36h7sbu4iGnHkQg7KlOrcW) | [Aaron Watson](https://open.spotify.com/artist/5BKzvAPtNXnt0LwzGvKOH3) | [Haggard Blues](https://open.spotify.com/album/5v2BdBLvdMc3gUj6plY9lK) | 3:07 | 2025-01-10 |  |
@@ -323,6 +323,7 @@
 | [It Ain't Austin](https://open.spotify.com/track/3lSS8lGZEXH8zd2p6wUUil) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Ain't Austin](https://open.spotify.com/album/6G5V9cVY38NOL9JwcMdNaY) | 3:14 | 2024-04-05 |  |
 | [It Wasn’t Love](https://open.spotify.com/track/5B3loG5N0IdvkrEWQlVwCh) | [Larissa Boyd](https://open.spotify.com/artist/76BLe6Ojs4hwzg9xOkOagD) | [It Wasn’t Love](https://open.spotify.com/album/4xpeLcxmn097Fo2YknqVv1) | 4:05 | 2022-05-27 | 2023-09-02 |
 | [it won't always be this way](https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T) | [Kaitlin Butts](https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD) | [it won't always be this way](https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc) | 4:27 | 2022-03-18 |  |
+| [It Won't Be Long](https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt) | [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [It Won't Be Long](https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv) | 3:17 | 2025-01-17 |  |
 | [It's Gonna Take Neon](https://open.spotify.com/track/6PjQ5PfjRv72JkclFeN4t4) | [Carter Lybrand](https://open.spotify.com/artist/0ophv4tU6QFbsUQ0DwotdM) | [It's Gonna Take Neon](https://open.spotify.com/album/5PlGkJkgN7H4A9oGWk4TiX) | 3:27 | 2022-01-28 | 2022-08-06 |
 | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/track/0JaGv3nU0muVvfSUClLm26) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [I’m Just An Old Chunk Of Coal \(But I’m Gonna Be A Diamond Someday\)](https://open.spotify.com/album/58ho3We8TBDCQYMLyNetqN) | 4:08 | 2022-09-09 | 2024-03-08 |
 | [Jacket On](https://open.spotify.com/track/6hiVYUsXeDk9i6icgbEHzm) | [Mike Ryan](https://open.spotify.com/artist/026v3mvWdRvVdjL67VBySh) | [Jacket On](https://open.spotify.com/album/3BhLbN0ui08445wGLHG7mt) | 2:36 | 2021-12-17 | 2022-06-18 |
@@ -417,6 +418,7 @@
 | [Oklahoma](https://open.spotify.com/track/6whzN4pEb9ArYN4z9FqijU) | [Casey Donahew](https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib) | [Oklahoma](https://open.spotify.com/album/4UjSoAyBIRZu3cGSEA6MXM) | 3:39 | 2023-11-17 |  |
 | [Oklahoma Smokeshow](https://open.spotify.com/track/0OWhKvvsHptt6vnnNUSM9a) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Summertime Blues](https://open.spotify.com/album/2qPki6xBkJ1Mbra43t7hnA) | 3:31 | 2022-09-02 | 2024-02-03 |
 | [Old Fashioned Feeling](https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [Old Fashioned Feeling](https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9) | 3:22 | 2024-10-04 |  |
+| [Old Tricks](https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [Old Tricks](https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV) | 2:28 | 2025-01-17 |  |
 | [On My Way](https://open.spotify.com/track/5KZzV6eNfHLFjQW4tSoTnr) | [Keller Cox](https://open.spotify.com/artist/7kxALHF5FOUlUZz3g67T1u) | [On My Way](https://open.spotify.com/album/18lEO0bUtImvRtUHn9FDgy) | 3:03 | 2022-06-10 | 2022-07-16 |
 | [Once in a Blue Moon](https://open.spotify.com/track/0T57qwTgUjH26XH3mmHWNq) | [Triston Marez](https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88), [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Once in a Blue Moon](https://open.spotify.com/album/7il1OFIKfeTBSiYBFlH1Mk) | 3:07 | 2022-04-01 | 2023-02-12 |
 | [One Honky Tonk Town](https://open.spotify.com/track/1j3aYPaCzk1ENO4dL9nxw5) | [David Adam Byrnes](https://open.spotify.com/artist/1A4vcbjzJ0M1wbuCqEY6cU) | [One Honky Tonk Town](https://open.spotify.com/album/1ZtExQ6KB7P60h9QyyC1VO) | 3:20 | 2022-04-29 | 2022-07-10 |

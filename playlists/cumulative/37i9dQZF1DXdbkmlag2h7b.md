@@ -4,7 +4,7 @@
 
 > Drift away with enthralling instrumentals.
 
-203 songs - 10 hr 33 min
+204 songs - 10 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,7 +98,7 @@
 | [Into the Deep](https://open.spotify.com/track/2gNdWpUGH3hJjg0O4fqeFq) | [Voyager](https://open.spotify.com/artist/4nvRxWe5SwOuTDQZ500nzo) | [Into The Deep](https://open.spotify.com/album/27oPm96pP1CtjvfZWd1BPN) | 2:35 | 2021-12-09 | 2023-12-14 |
 | [Intrinsic Silence](https://open.spotify.com/track/1io6Gt0Vb9cpmRcNwoA4eE) | [Hatha Priya](https://open.spotify.com/artist/3PrmIS6YRTKENfGH4xf8S6) | [Intrinsic Silence](https://open.spotify.com/album/2mEo8AqAkefEdUT5G4VP03) | 2:44 | 2023-01-17 |  |
 | [Jeevan](https://open.spotify.com/track/06k8aoKACp7ouBnP1lZFOz) | [Gamini Khatri](https://open.spotify.com/artist/3IbbzLtE2xQEMIw5htkA9i) | [Jeevan](https://open.spotify.com/album/2DOS9BHPBdFcVrjJf2YPsJ) | 2:30 | 2021-12-09 |  |
-| [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2021-12-09 |  |
+| [Jubran's Lake \(432hz\) \- No Ambience](https://open.spotify.com/track/0GANgueuFu0T6NJ0sOmuyL) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Jubran's Lake \(432hz\)](https://open.spotify.com/album/0czlyUWgNcb8QbJo98xxeb) | 4:00 | 2021-12-09 | 2025-01-19 |
 | [Kadunud Taevasse](https://open.spotify.com/track/7az3fA5PzUlxjlIntHmFMU) | [Kikolu](https://open.spotify.com/artist/0ecJPDWWtfkKyVHPX6DlJ5) | [Kadunud Taevasse](https://open.spotify.com/album/2rFsIzSruGBdB8HnQ1VdPA) | 3:00 | 2024-03-14 |  |
 | [Kalapas](https://open.spotify.com/track/24DMnKgG21XIzf4XVTM119) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Earth Child](https://open.spotify.com/album/249FX3lkU1NYoKA43AeA1p) | 2:45 | 2021-12-09 | 2023-11-11 |
 | [Lagrima](https://open.spotify.com/track/2HjCLXHg41WhaJjJeTtXtm) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3) | [Ambientes](https://open.spotify.com/album/4VE8K1ccgbiGo0f8eeIxC0) | 2:00 | 2021-12-09 | 2023-07-29 |
@@ -158,6 +158,7 @@
 | [Sentiments in Emptiness](https://open.spotify.com/track/1rSrcxldbRRpwt6vu5kbEU) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/0Wfx9bfeel0tvMe6BLyJMt) | 3:41 | 2022-07-22 | 2022-11-13 |
 | [Sentiments in Emptiness](https://open.spotify.com/track/5tlzeu9WthIjEDlRMY1Ko3) | [Firas Zreik](https://open.spotify.com/artist/2tMwxSA9DSeHrI84cdg2RW) | [Sentiments in Emptiness](https://open.spotify.com/album/2M5fJOeUUEKlqNY0QLbjwX) | 3:41 | 2021-12-09 | 2022-07-29 |
 | [Serum](https://open.spotify.com/track/4rY8XniJXHS2Njj7IElGIM) | [Cieri](https://open.spotify.com/artist/5UuRXvPONj8EeWpeppEoAL) | [Serum](https://open.spotify.com/album/0lXFYu9PTccU0bgal3E7HT) | 3:44 | 2021-12-09 |  |
+| [Shadows and Light](https://open.spotify.com/track/34BejjO0gUS6NZL9mOBb47) | [Natthiko](https://open.spotify.com/artist/2WhAGlrlrhnSrEtFnahLmh) | [Shadows and Light](https://open.spotify.com/album/0DpBlbbgmPAQRSc96JqX2I) | 2:32 | 2025-01-14 |  |
 | [Shamanic](https://open.spotify.com/track/0DDD0cFxLVkKbdYLeYb7WP) | [Embodied Soul](https://open.spotify.com/artist/0hobX02qEX5ITvPf1KiShY) | [Shamanic](https://open.spotify.com/album/4ptdOCuO7fl9SOgnDAKHKy) | 2:43 | 2023-11-10 |  |
 | [Sketches](https://open.spotify.com/track/5ytbuBtoL3hHrhyuS6ATww) | [Arico Mist](https://open.spotify.com/artist/1zIRktVgkdLx17ZSqsKRYu) | [Sketches](https://open.spotify.com/album/0R8pifsvqOqjnc5wAE3fbN) | 2:52 | 2024-09-19 |  |
 | [Soft Red Bunk](https://open.spotify.com/track/2MAS4wdXkuqRmIkMmzZaQB) | [Astral Lighthouse](https://open.spotify.com/artist/3jbqBkSBvcmQKkQxavE1Ym) | [Soft Red Bunk](https://open.spotify.com/album/2sNghMXOciUYE1gvsOaIli) | 3:06 | 2025-01-14 |  |

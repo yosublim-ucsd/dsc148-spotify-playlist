@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaN3n8Umehd8.md) - [plain]
 
 > me cuesta trabajo entender cómo hay gente que todavía no entiende la puta vibra wey, y jamás la entendería\. Por maria bottle.
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,364 likes - 32 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,438 likes - 32 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

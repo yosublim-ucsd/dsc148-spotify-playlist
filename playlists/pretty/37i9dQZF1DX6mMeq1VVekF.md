@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 
 > No tags, no labels \- just free form\. Cover: Jeshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,876 likes - 60 songs - 2 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,889 likes - 60 songs - 2 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,15 +58,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6mMeq1VVekF.md) - [plain]
 | 48 | [Wagashi](https://open.spotify.com/track/5ifi0DNboZVQjOgZrZyDpB) | [BXKS](https://open.spotify.com/artist/2YEOMpI5fq8pz4BeJjoAsQ) | [Wagashi](https://open.spotify.com/album/3Izy2Hdi68EcgQScKajavq) | 1:56 |
 | 49 | [Angels](https://open.spotify.com/track/6yK03ueKKklIAhShI5VDlg) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [Angels](https://open.spotify.com/album/6pIYfWJ4CBt3hVsUhPTKuA) | 3:49 |
 | 50 | [Guilty Pleasure](https://open.spotify.com/track/2vXsmZGEJWU8jnXL3HZ6lF) | [Nix Northwest](https://open.spotify.com/artist/1nJX9DZHvd27lKDx8NM8Rt), [Xadi](https://open.spotify.com/artist/3nTY0gzNvMAkUJeOp4MzEO) | [Guilty Pleasure](https://open.spotify.com/album/08OPrfRxBo0wvVna3Mu69T) | 2:44 |
-| 51 | [Desert Belly](https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Desert Belly](https://open.spotify.com/album/6cueH6MQc7tnnwdy1d16Ug) | 3:02 |
+| 51 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 |
 | 52 | [New Day](https://open.spotify.com/track/1WPku57CbhXyWxkOSy4oWK) | [Jay Prince](https://open.spotify.com/artist/2TLYSzGyVYkxAgYSCqUnQj) | [New Day](https://open.spotify.com/album/6i72V24SOOku076TNzxShq) | 3:15 |
-| 53 | [Better Now](https://open.spotify.com/track/3bLdtDjvbSqpjsfSuep4ii) | [Len Blake](https://open.spotify.com/artist/1OeefDyjCBqteZJTmb3PJ7) | [Better Now](https://open.spotify.com/album/4F3xKbjKXBaN9xPPWl4zqC) | 3:16 |
-| 54 | [what it is & what it ain't](https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [what it is & what it ain't](https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD) | 2:29 |
-| 55 | [MASHUP](https://open.spotify.com/track/3n1rNdl7nDbZVJ8JkmA2Xo) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [MASHUP](https://open.spotify.com/album/4Wv59sKVFaUyJESv5EW9Mj) | 2:17 |
-| 56 | [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 |
-| 57 | [Mafone](https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Mafone](https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA) | 2:44 |
-| 58 | [Platonic](https://open.spotify.com/track/7MpWkFfg0wLMCvo53ChsPF) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Platonic](https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu) | 2:18 |
-| 59 | [Grateful](https://open.spotify.com/track/34SGK10UwQXbKsmh81LyLs) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Long Live Dylan](https://open.spotify.com/album/4EvkXeFRdf79GJQcpx7pBu) | 2:14 |
-| 60 | [SAME WAYZ](https://open.spotify.com/track/3qiyi5s7saiQLQwL17LWPs) | [Azekel](https://open.spotify.com/artist/446nYwuXzCKnDwZUu4kGQA) | [SONIC INCENSE](https://open.spotify.com/album/4gJgwFk9dnQkrVKJ034eLk) | 3:25 |
+| 53 | [Desert Belly](https://open.spotify.com/track/5bDgbp9kKLsSAK5LsWGAmc) | [Oscar Jerome](https://open.spotify.com/artist/39cDMNnxwjrKJE1dyt47jh) | [Desert Belly](https://open.spotify.com/album/6cueH6MQc7tnnwdy1d16Ug) | 3:02 |
+| 54 | [Cook & Effy](https://open.spotify.com/track/2Ine8NFQ7cUXIIlvzBlOPE) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [Cook & Effy](https://open.spotify.com/album/2UNDZH4KDV03ElCDxEhJTX) | 3:07 |
+| 55 | [what it is & what it ain't](https://open.spotify.com/track/5rBG7cddHR8uirAjgbjVN8) | [Tyde](https://open.spotify.com/artist/72uF0XGKFzegXDiUcUwwM1) | [what it is & what it ain't](https://open.spotify.com/album/5Eb8AoIz91S3tOvJAFgIqD) | 2:29 |
+| 56 | [MASHUP](https://open.spotify.com/track/3n1rNdl7nDbZVJ8JkmA2Xo) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [Fimiguerrero](https://open.spotify.com/artist/4M5b70A8aORXdyJVjRJ8du) | [MASHUP](https://open.spotify.com/album/4Wv59sKVFaUyJESv5EW9Mj) | 2:17 |
+| 57 | [DRAMA](https://open.spotify.com/track/0onShXGnisu2meDKLJtzix) | [D7](https://open.spotify.com/artist/3YOZTsZa2dczQKpodqy2yS) | [DRAMA](https://open.spotify.com/album/3j81wWqxgPUrXX2cWhOICJ) | 3:12 |
+| 58 | [Mafone](https://open.spotify.com/track/0YoEZvVZLE0HoVDMNWZ7PH) | [dialE](https://open.spotify.com/artist/2MRAnlUDLuUImm4UEZ9nHB) | [Mafone](https://open.spotify.com/album/6fqzzAnLj4amGX6xazjyCA) | 2:44 |
+| 59 | [Platonic](https://open.spotify.com/track/7MpWkFfg0wLMCvo53ChsPF) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Platonic](https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu) | 2:18 |
+| 60 | [Grateful](https://open.spotify.com/track/34SGK10UwQXbKsmh81LyLs) | [163Margs](https://open.spotify.com/artist/3YCLjLKCZN6U1t7IBJv8k2) | [Long Live Dylan](https://open.spotify.com/album/4EvkXeFRdf79GJQcpx7pBu) | 2:14 |
 
 Snapshot ID: `Z4pK3wAAAACIdmxKBJ0Si4WtN7OkPWIE`

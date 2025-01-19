@@ -3486,7 +3486,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 336222,
       "name": "Lover, You Should\u2019ve Come Over",
       "url": "https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca"
@@ -3740,6 +3740,24 @@
       "duration_ms": 238049,
       "name": "Nobody Dies Anymore",
       "url": "https://open.spotify.com/track/78xIX4Kt6miLXt3uMzez9W"
+    },
+    {
+      "album": {
+        "name": "Northern Sky (from The Fire Inside)",
+        "url": "https://open.spotify.com/album/5SUt4IBkcDOfQPtukbwJkO"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210666,
+      "name": "Northern Sky - from The Fire Inside",
+      "url": "https://open.spotify.com/track/6ySbh4Se81hlu3oqITPCAL"
     },
     {
       "album": {

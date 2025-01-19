@@ -219,6 +219,28 @@
     },
     {
       "album": {
+        "name": "Skreamizm (Vol. 7)",
+        "url": "https://open.spotify.com/album/39p56lfVsxR1pnTK8BVLjS"
+      },
+      "artists": [
+        {
+          "name": "Skream",
+          "url": "https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW"
+        },
+        {
+          "name": "Kelis",
+          "url": "https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230043,
+      "name": "Copy Cat",
+      "url": "https://open.spotify.com/track/6tpB37tRaxknycR6H8eZSF"
+    },
+    {
+      "album": {
         "name": "Skreamizm Vol. 7",
         "url": "https://open.spotify.com/album/5hAMTdqVEAaEdv79pKqIUB"
       },
@@ -234,7 +256,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 230043,
       "name": "Copy Cat (feat. Kelis)",
       "url": "https://open.spotify.com/track/1vc12Ns4iHzW7IAb91JvlQ"

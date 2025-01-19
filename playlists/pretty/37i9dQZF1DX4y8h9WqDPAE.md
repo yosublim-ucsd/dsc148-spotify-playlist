@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 
 > Where R&B meets Hip\-Hop, Pop and everything in between !  Cover: Honey Bxby
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,744,406 likes - 175 songs - 8 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,744,384 likes - 175 songs - 8 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4y8h9WqDPAE.md) - [plain]
 | 12 | [Drive Me Crazy](https://open.spotify.com/track/1pPIpBWyQu3gI2FSkyRiz7) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [Drive Me Crazy](https://open.spotify.com/album/5cvwR7gP8SrzyOsrdvILr2) | 2:42 |
 | 13 | [Make It Up To You \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Ujhdpqhj6MnXELN0GAx0x) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Sincere \(Deluxe\)](https://open.spotify.com/album/1E8QXt1GZK0g2SC2JDK4ZE) | 2:31 |
 | 14 | [Dreamin](https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh) | [PARTYNEXTDOOR](https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV) | [Dreamin](https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd) | 2:27 |
-| 15 | [My Birthday](https://open.spotify.com/track/5QIcWQbSUr6Nt7NYY79qzL) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Jeremih](https://open.spotify.com/artist/27kVgutRBYh0ne7iSMFuR2), [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [My Birthday](https://open.spotify.com/album/5wHP54XOoohb0nFMBhTzAU) | 3:33 |
+| 15 | [My Birthday](https://open.spotify.com/track/5QIcWQbSUr6Nt7NYY79qzL) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Jeremih](https://open.spotify.com/artist/27kVgutRBYh0ne7iSMFuR2), [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [My Birthday](https://open.spotify.com/album/5wHP54XOoohb0nFMBhTzAU) | 3:31 |
 | 16 | [gameboy](https://open.spotify.com/track/77n3jFGqPPxYrEGwrWylNv) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:46 |
 | 17 | [Scorsese Baby Daddy](https://open.spotify.com/track/2E7a96qey4AzSOdK6H21vS) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS Deluxe: LANA](https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ) | 2:33 |
 | 18 | [All Of Me](https://open.spotify.com/track/4biivZcnoeiB6vzmdOL6Bg) | [Nao](https://open.spotify.com/artist/7aFTOGFDEqDtJUCziLVsVC) | [All Of Me](https://open.spotify.com/album/2ga0hYHyX3p1N0xEsKh0L8) | 2:45 |

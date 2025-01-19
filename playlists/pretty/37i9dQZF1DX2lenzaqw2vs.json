@@ -1,6 +1,6 @@
 {
   "description": "Artistas LGBTQIA+ que brillan e inspiran.\nCover: Arca & Tokischa",
-  "num_followers": 136250,
+  "num_followers": 136256,
   "original_name": "BRILLO",
   "owner": {
     "name": "Spotify",
@@ -415,6 +415,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "La Sustancia X",
+        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 176960,
+      "name": "C\u00e1scara de Coco",
+      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "To Anywhere",
         "url": "https://open.spotify.com/album/0D0l81uLwVgMbS7DfaEh6V"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 144691,
       "name": "Pi\u00f1a",
       "url": "https://open.spotify.com/track/6Fdho6pm3GhNyA4TZajC2X"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "La Sustancia X",
-        "url": "https://open.spotify.com/album/3vNcWxeBpYQJ9OkAcm3ch3"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 176960,
-      "name": "C\u00e1scara de Coco",
-      "url": "https://open.spotify.com/track/0IPoG1zyHibWHm3ACZdgBP"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -563,26 +563,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Noches De Verano",
-        "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Noches De Verano",
-      "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Reina de la Selva",
         "url": "https://open.spotify.com/album/7MCEgz1kjLJ2CaZH9DMkf6"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 176986,
       "name": "Reina de la Selva",
       "url": "https://open.spotify.com/track/68i3siyBxZpKxYW1TVXMHj"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Noches De Verano",
+        "url": "https://open.spotify.com/album/1ktGnE8t1PSzCRELZJTChF"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Noches De Verano",
+      "url": "https://open.spotify.com/track/5LgasjuMHee4NZ4LsoaOh0"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Bellakosa",
+        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
+      },
+      "artists": [
+        {
+          "name": "Sailorfag",
+          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+        }
+      ],
+      "duration_ms": 173333,
+      "name": "Bellakosa",
+      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Dime Precioso",
         "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
       },
@@ -683,18 +699,18 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Bellakosa",
-        "url": "https://open.spotify.com/album/5tUZWuzaD4vnLJRnH5zxPc"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
       "artists": [
         {
-          "name": "Sailorfag",
-          "url": "https://open.spotify.com/artist/3YvJLKikEKjbzNBk9rfIKE"
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Bellakosa",
-      "url": "https://open.spotify.com/track/3zmjT7DVb5s01CC8Iy8BlN"
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -711,22 +727,6 @@
       "duration_ms": 242445,
       "name": "Te Queria",
       "url": "https://open.spotify.com/track/10Jr2PJeIMPYYRWsWximsP"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Multicolor",
-        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
-      },
-      "artists": [
-        {
-          "name": "Adri\u00e1n Bello",
-          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
-        }
-      ],
-      "duration_ms": 220777,
-      "name": "Multicolor",
-      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Crimen",
         "url": "https://open.spotify.com/album/0yproFmJufIWXkyXypQvAo"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 187234,
       "name": "Crimen",
       "url": "https://open.spotify.com/track/2OM21ugwD24GvvNcLFnbfj"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Multicolor",
+        "url": "https://open.spotify.com/album/6f1t2zPTfzFJ8CEbzOsqxF"
+      },
+      "artists": [
+        {
+          "name": "Adri\u00e1n Bello",
+          "url": "https://open.spotify.com/artist/0ZwjmGhps2YvUMzB7ihFV8"
+        }
+      ],
+      "duration_ms": 220777,
+      "name": "Multicolor",
+      "url": "https://open.spotify.com/track/5ltWXcgwXQTlEYAufeo5g6"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
-        "name": "Drama Pop",
-        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
-      },
-      "artists": [
-        {
-          "name": "DANI RIDE",
-          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
-        }
-      ],
-      "duration_ms": 206497,
-      "name": "Sentirme Amante",
-      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
         "name": "Sue\u00f1os",
         "url": "https://open.spotify.com/album/4yR4MIZ2kn7WULEOPohp6V"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 225000,
       "name": "Sue\u00f1os",
       "url": "https://open.spotify.com/track/0VBlnEmi1kQXbi1SVumgEE"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
+        "name": "Drama Pop",
+        "url": "https://open.spotify.com/album/6R4OZmoA8oEf2E2fyeUfkR"
+      },
+      "artists": [
+        {
+          "name": "DANI RIDE",
+          "url": "https://open.spotify.com/artist/3KKA5IFGqdkUw7i657IEL6"
+        }
+      ],
+      "duration_ms": 206497,
+      "name": "Sentirme Amante",
+      "url": "https://open.spotify.com/track/4XZxkvm2ZLGwVwD1KlxFev"
     },
     {
       "added_at": "2024-09-20 04:00:00",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2024-09-20 04:00:00",
       "album": {
+        "name": "Kick",
+        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
+      },
+      "artists": [
+        {
+          "name": "Arca",
+          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
+        }
+      ],
+      "duration_ms": 163348,
+      "name": "Prada",
+      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
+    },
+    {
+      "added_at": "2024-09-20 04:00:00",
+      "album": {
         "name": "Uno de nosotros (feat. Javiera Mena)",
         "url": "https://open.spotify.com/album/18I7niIiTfGvgJ2rEtdKq3"
       },
@@ -1455,22 +1471,6 @@
       "duration_ms": 249518,
       "name": "Unx de nosotrxs (feat. Javiera Mena)",
       "url": "https://open.spotify.com/track/7yVGw6fxhYPOLsD9BPWXnA"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "Kick",
-        "url": "https://open.spotify.com/album/7vG4sP0DjiSzPPihnuXnLL"
-      },
-      "artists": [
-        {
-          "name": "Arca",
-          "url": "https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj"
-        }
-      ],
-      "duration_ms": 163348,
-      "name": "Prada",
-      "url": "https://open.spotify.com/track/5MN4hnNta44Ezm2dfajQB0"
     },
     {
       "added_at": "2024-09-20 04:00:00",

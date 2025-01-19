@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,946 likes - 520 songs - 1 day 4 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,949 likes - 520 songs - 1 day 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 80 | [Waves](https://open.spotify.com/track/0YbFEoJi7Esa7lhIrEpBjl) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Mercury \- Acts 1 & 2](https://open.spotify.com/album/6yiXkzHvC0OTmhfDQOEWtS) | 3:45 |
 | 81 | [Uh Huh](https://open.spotify.com/track/0oiKDZUxZn9i4jCCDmbTM2) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 2:58 |
 | 82 | [Help Me Out](https://open.spotify.com/track/76hFpagPBZ6X5s0oqMbJ5Q) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Red Pill Blues \(Deluxe\)](https://open.spotify.com/album/4TzpYBYJA7Jz0k6WYRbnCe) | 3:13 |
-| 83 | [Slumber Party feat\. Tinashe](https://open.spotify.com/track/2UglvRm2EVjeQCO4zyBBZm) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:33 |
-| 84 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 |
+| 83 | [Pretty Girls](https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:26 |
+| 84 | [Slumber Party feat\. Tinashe](https://open.spotify.com/track/2UglvRm2EVjeQCO4zyBBZm) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4), [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Glory \(Japan Deluxe Version\)](https://open.spotify.com/album/6IM1rlrohJp2B4QtA6dLDy) | 3:33 |
 | 85 | [Hell Nos And Headphones](https://open.spotify.com/track/6nHBJFQz4gsK2Q6RIpBD0M) | [Hailee Steinfeld](https://open.spotify.com/artist/5p7f24Rk5HkUZsaS3BLG5F) | [HAIZ](https://open.spotify.com/album/5m01tty1948HnkXUhG0urw) | 3:50 |
 | 86 | [Invisible](https://open.spotify.com/track/6OocN63GLU7NF0wHdewhID) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [One More Light](https://open.spotify.com/album/5Eevxp2BCbWq25ZdiXRwYd) | 3:34 |
 | 87 | [Only](https://open.spotify.com/track/1uRBbjQ3uNFXCncWyNomHf) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Origins \(Deluxe\)](https://open.spotify.com/album/3JfSxDfmwS5OeHPwLSkrfr) | 3:00 |
@@ -439,8 +439,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 429 | [Only Time of Year](https://open.spotify.com/track/2SI7uQa7rugjxIrDM2czso) | [Brandy Clark](https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:58 |
 | 430 | [Leave A Little Light On](https://open.spotify.com/track/337fiM9RuaS2fDjIzVm9RQ) | [Jordan Smith](https://open.spotify.com/artist/6TV0LZ3BaEun0OQEh96elP) | [Something Beautiful \(Deluxe Version\)](https://open.spotify.com/album/3MhNuSt8uRLn46yXvjFnZa) | 4:09 |
 | 431 | [1%](https://open.spotify.com/track/2NlkgVciKV8f5uNwNmnNqR) | [Rich White Ladies](https://open.spotify.com/artist/0B2368o7srjJnRrzmpRWj7) | [Rich White Ladies](https://open.spotify.com/album/1NcEnLyvUB5InbFzscqJKX) | 3:15 |
-| 432 | [Smile](https://open.spotify.com/track/3FsyMk1uhRnZrcdGDmZF8x) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Smile](https://open.spotify.com/album/4giCzMM87NTQYxJLxC1LOC) | 3:15 |
-| 433 | [Loser](https://open.spotify.com/track/4XUj6f8aO9GIsvQhOEc4eS) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Loser](https://open.spotify.com/album/0JbE9OLwtc9dThd8kcwKeW) | 3:12 |
+| 432 | [Loser](https://open.spotify.com/track/4XUj6f8aO9GIsvQhOEc4eS) | [Jake Wesley Rogers](https://open.spotify.com/artist/5lEF4Tt1uK7Kuk80ILMlE9) | [Loser](https://open.spotify.com/album/0JbE9OLwtc9dThd8kcwKeW) | 3:12 |
+| 433 | [Smile](https://open.spotify.com/track/3FsyMk1uhRnZrcdGDmZF8x) | [Shea Diamond](https://open.spotify.com/artist/5blcro89qJueGv0DGQ2rsH) | [Smile](https://open.spotify.com/album/4giCzMM87NTQYxJLxC1LOC) | 3:15 |
 | 434 | [Christmas Morning](https://open.spotify.com/track/3e6hg15CXjN8t5bLHSiMtU) | [kennedi](https://open.spotify.com/artist/5eWCWtbcFDjLGPisPgqcy8) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 2:41 |
 | 435 | [Chosen Family](https://open.spotify.com/track/7ESINUDVrHhoPNY3oslqKC) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR) | [Happiest Season \(Music from and Inspired by the Film\)](https://open.spotify.com/album/4FwF3viwUJiAzgSNohUI02) | 3:05 |
 | 436 | [How to Love a Woman](https://open.spotify.com/track/0tS3AQJ0c0ViBISfkPHzbE) | [Justin Garner](https://open.spotify.com/artist/3xOsqNaO7F3UNdQjJJif8o) | [Into the Wild](https://open.spotify.com/album/4bn7FsDL3yq413zqcBBBVq) | 3:59 |
@@ -529,4 +529,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQn0XRhyzu2L.md) - [plain]
 | 519 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 520 | [Living A Lie](https://open.spotify.com/track/2mI14DzPxj1TZ3xIn5YQmI) | [Justin A\. G.](https://open.spotify.com/artist/5hEVcpUrC8MQdXTPv502jC) | [Here's To You, Here's To Me](https://open.spotify.com/album/1AlBjy74LvUvDCWXlgiJpb) | 2:29 |
 
-Snapshot ID: `AbnI1gAAAADyPtPkvyia1ERUlnQC3Qh0`
+Snapshot ID: `AbnOdgAAAAB/mT67tOopdf7XUlY96VO+`

@@ -23622,6 +23622,28 @@
     {
       "album": {
         "name": "Jarabe",
+        "url": "https://open.spotify.com/album/5Pommj9j3IRKoW4WSg5t1y"
+      },
+      "artists": [
+        {
+          "name": "Filtra Kidd",
+          "url": "https://open.spotify.com/artist/21PpDqkxrzVeVvvWTtPszR"
+        },
+        {
+          "name": "TuGoldoFiltra",
+          "url": "https://open.spotify.com/artist/6uBpKQRBTcxm7LAmP5ubRl"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421802,
+      "name": "Jarabe",
+      "url": "https://open.spotify.com/track/082eRvHZRjLOcAwr1SryUU"
+    },
+    {
+      "album": {
+        "name": "Jarabe",
         "url": "https://open.spotify.com/album/3j3p4Vfen9ybSQvOLa4wqE"
       },
       "artists": [
@@ -35963,6 +35985,24 @@
     },
     {
       "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
+    },
+    {
+      "album": {
         "name": "un mech\u00f3n de pelo",
         "url": "https://open.spotify.com/album/3wOG84RkmoSoeN3LKkxXga"
       },
@@ -38932,24 +38972,6 @@
       "duration_ms": 149250,
       "name": "Por Verte Feliz",
       "url": "https://open.spotify.com/track/6dI0iFnBCj9YkcWgXeoRkx"
-    },
-    {
-      "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "date_added": "2025-01-08",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149440,
-      "name": "PORNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "album": {
@@ -47222,7 +47244,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 241626,
       "name": "Te Juro Que Te Amo",
       "url": "https://open.spotify.com/track/3slDIEuZJqMRq0P0UI8Ps9"

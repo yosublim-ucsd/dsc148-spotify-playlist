@@ -1,6 +1,6 @@
 {
   "description": "Mielenkiintoisimmat biisit ensisoitossa. \ud83d\udc8e Kannessa Jaakko Kulta.",
-  "num_followers": 24367,
+  "num_followers": 24368,
   "original_name": "Ensisoitossa",
   "owner": {
     "name": "Spotify",
@@ -811,22 +811,6 @@
     {
       "added_at": "2025-01-16 22:01:04",
       "album": {
-        "name": "Mantra",
-        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        }
-      ],
-      "duration_ms": 136627,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
-    },
-    {
-      "added_at": "2025-01-16 22:01:04",
-      "album": {
         "name": "SOS Deluxe: LANA",
         "url": "https://open.spotify.com/album/3VQkNrG74QPY4rHBPoyZYZ"
       },
@@ -843,6 +827,22 @@
       "duration_ms": 278277,
       "name": "30 For 30 (with Kendrick Lamar)",
       "url": "https://open.spotify.com/track/3aSWXU6owkZeVhh94XxEWO"
+    },
+    {
+      "added_at": "2025-01-16 22:01:04",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/3e5tDT1kfaAGx10yOjIDgW"
+      },
+      "artists": [
+        {
+          "name": "JENNIE",
+          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
+        }
+      ],
+      "duration_ms": 136627,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2CspwnypzT7rcWI9RfsoSb"
     },
     {
       "added_at": "2025-01-16 22:01:04",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-16 22:01:04",
       "album": {
-        "name": "PIToRRO DE COCO",
-        "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 206627,
-      "name": "PIToRRO DE COCO",
-      "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
-    },
-    {
-      "added_at": "2025-01-16 22:01:04",
-      "album": {
         "name": "Move (feat. Camila Cabello & Malachiii)",
         "url": "https://open.spotify.com/album/1Jo5dOD8bFEWnPIXKlORVp"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 180236,
       "name": "Move (feat. Camila Cabello & Malachiii)",
       "url": "https://open.spotify.com/track/0scd3nh27AYTNXo0KHRmsG"
+    },
+    {
+      "added_at": "2025-01-16 22:01:04",
+      "album": {
+        "name": "PIToRRO DE COCO",
+        "url": "https://open.spotify.com/album/0K1PZ5xlzj8VctBaoAtTly"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 206627,
+      "name": "PIToRRO DE COCO",
+      "url": "https://open.spotify.com/track/1OSOHTBFkIkhUtxhOyUksc"
     },
     {
       "added_at": "2025-01-16 22:01:04",
@@ -1263,6 +1263,22 @@
     {
       "added_at": "2025-01-16 22:01:04",
       "album": {
+        "name": "IT girl",
+        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 153718,
+      "name": "IT girl",
+      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
+    },
+    {
+      "added_at": "2025-01-16 22:01:04",
+      "album": {
         "name": "Two Faced",
         "url": "https://open.spotify.com/album/4kksZlvAqineklmhltdTFe"
       },
@@ -1291,22 +1307,6 @@
       "duration_ms": 132911,
       "name": "Nada",
       "url": "https://open.spotify.com/track/6qJb1Bd9J8ZGFFesNqMFen"
-    },
-    {
-      "added_at": "2025-01-16 22:01:04",
-      "album": {
-        "name": "IT girl",
-        "url": "https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 153718,
-      "name": "IT girl",
-      "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
     },
     {
       "added_at": "2025-01-16 22:01:04",
@@ -1431,22 +1431,6 @@
     {
       "added_at": "2025-01-16 22:01:04",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM"
-      },
-      "artists": [
-        {
-          "name": "Averagekidluke",
-          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy"
-    },
-    {
-      "added_at": "2025-01-16 22:01:04",
-      "album": {
         "name": "Older (and Wiser)",
         "url": "https://open.spotify.com/album/0jw9gOg8M1Ve6KpP4Iu7XF"
       },
@@ -1459,6 +1443,22 @@
       "duration_ms": 262518,
       "name": "Spring Into Summer",
       "url": "https://open.spotify.com/track/6oCXDaFZYL7sHnowv6pdXb"
+    },
+    {
+      "added_at": "2025-01-16 22:01:04",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/1Nk1t1ZS15Kg7Jt3M5wtyM"
+      },
+      "artists": [
+        {
+          "name": "Averagekidluke",
+          "url": "https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/6zLzNEyVqtyZoohE75maSy"
     },
     {
       "added_at": "2025-01-16 22:01:04",
@@ -1535,6 +1535,22 @@
     {
       "added_at": "2025-01-16 22:01:04",
       "album": {
+        "name": "Marraskuu",
+        "url": "https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs"
+      },
+      "artists": [
+        {
+          "name": "ibe",
+          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
+        }
+      ],
+      "duration_ms": 183789,
+      "name": "Marraskuu",
+      "url": "https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV"
+    },
+    {
+      "added_at": "2025-01-16 22:01:04",
+      "album": {
         "name": "STRATEGY",
         "url": "https://open.spotify.com/album/3oHYO9TOCQtQhyHWRWAZz9"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 201760,
       "name": "Strategy (feat. Megan Thee Stallion)",
       "url": "https://open.spotify.com/track/3tAdTGraj8pxbFnycDLMke"
-    },
-    {
-      "added_at": "2025-01-16 22:01:04",
-      "album": {
-        "name": "Marraskuu",
-        "url": "https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs"
-      },
-      "artists": [
-        {
-          "name": "ibe",
-          "url": "https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA"
-        }
-      ],
-      "duration_ms": 183789,
-      "name": "Marraskuu",
-      "url": "https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV"
     },
     {
       "added_at": "2025-01-16 22:01:04",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2025-01-16 22:01:04",
       "album": {
-        "name": "The Party Never Ends",
-        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
-      },
-      "artists": [
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 159029,
-      "name": "Misfit",
-      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
-    },
-    {
-      "added_at": "2025-01-16 22:01:04",
-      "album": {
         "name": "EXIT",
         "url": "https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap"
       },
@@ -1663,22 +1647,6 @@
     {
       "added_at": "2025-01-16 22:01:04",
       "album": {
-        "name": "Fantasy",
-        "url": "https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc"
-      },
-      "artists": [
-        {
-          "name": "JADE",
-          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
-        }
-      ],
-      "duration_ms": 216588,
-      "name": "Fantasy",
-      "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
-    },
-    {
-      "added_at": "2025-01-16 22:01:04",
-      "album": {
         "name": "Iha miten vaa",
         "url": "https://open.spotify.com/album/5yn9M6Cd8HYBCt1Yvt5Wrm"
       },
@@ -1699,6 +1667,38 @@
       "duration_ms": 196837,
       "name": "Iha miten vaa",
       "url": "https://open.spotify.com/track/3Pf2yQgJ1B8vKgPFd1oOXC"
+    },
+    {
+      "added_at": "2025-01-16 22:01:04",
+      "album": {
+        "name": "Fantasy",
+        "url": "https://open.spotify.com/album/4TLjECteKor6f1j5zpVYYc"
+      },
+      "artists": [
+        {
+          "name": "JADE",
+          "url": "https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3"
+        }
+      ],
+      "duration_ms": 216588,
+      "name": "Fantasy",
+      "url": "https://open.spotify.com/track/6dpPD92UT5ETTb56EI57yI"
+    },
+    {
+      "added_at": "2025-01-16 22:01:04",
+      "album": {
+        "name": "The Party Never Ends",
+        "url": "https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil"
+      },
+      "artists": [
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 159029,
+      "name": "Misfit",
+      "url": "https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s"
     },
     {
       "added_at": "2025-01-16 22:01:04",

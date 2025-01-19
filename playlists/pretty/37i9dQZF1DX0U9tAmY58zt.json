@@ -1,6 +1,6 @@
 {
   "description": "Todos los artistas del Corona Capital en una sola playlist! Green Day en portada ",
-  "num_followers": 152683,
+  "num_followers": 152686,
   "original_name": "Corona Capital Forever",
   "owner": {
     "name": "Spotify",
@@ -776,8 +776,8 @@
       },
       "artists": [
         {
-          "name": "Petey",
-          "url": "https://open.spotify.com/artist/4TeKBLCqmYXzvcgYX4t4YA"
+          "name": "Petey USA",
+          "url": "https://open.spotify.com/artist/53OVzzhCgqPTeQuqTc54tr"
         }
       ],
       "duration_ms": 165293,
@@ -1471,22 +1471,6 @@
     {
       "added_at": "2024-06-21 19:01:42",
       "album": {
-        "name": "Torches",
-        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
-      },
-      "artists": [
-        {
-          "name": "Foster The People",
-          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Pumped Up Kicks",
-      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
-    },
-    {
-      "added_at": "2024-06-21 19:01:42",
-      "album": {
         "name": "Young And Beautiful",
         "url": "https://open.spotify.com/album/1D92WOHWUI2AGQCCdplcXL"
       },
@@ -1503,8 +1487,24 @@
     {
       "added_at": "2024-06-21 19:01:42",
       "album": {
-        "name": "Favourite Worst Nightmare",
-        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
+        "name": "Torches",
+        "url": "https://open.spotify.com/album/7Kmmw7Z5D2UD5MVwdm10sT"
+      },
+      "artists": [
+        {
+          "name": "Foster The People",
+          "url": "https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Pumped Up Kicks",
+      "url": "https://open.spotify.com/track/7w87IxuO7BDcJ3YUqCyMTT"
+    },
+    {
+      "added_at": "2024-06-21 19:01:42",
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
@@ -1512,9 +1512,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 253586,
-      "name": "505",
-      "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"
+      "duration_ms": 272394,
+      "name": "Do I Wanna Know?",
+      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
     },
     {
       "added_at": "2024-06-21 19:01:42",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2024-06-21 19:01:42",
       "album": {
-        "name": "Freaks",
-        "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
-      },
-      "artists": [
-        {
-          "name": "Surf Curse",
-          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
-        }
-      ],
-      "duration_ms": 147062,
-      "name": "Freaks",
-      "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
-    },
-    {
-      "added_at": "2024-06-21 19:01:42",
-      "album": {
         "name": "Evolve",
         "url": "https://open.spotify.com/album/33pt9HBdGlAbRGBHQgsZsU"
       },
@@ -1615,8 +1599,24 @@
     {
       "added_at": "2024-06-21 19:01:42",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "Freaks",
+        "url": "https://open.spotify.com/album/5WjaIWthUR3AjA0UYG3jR5"
+      },
+      "artists": [
+        {
+          "name": "Surf Curse",
+          "url": "https://open.spotify.com/artist/1gl0S9pS0Zw0qfa14rDD3D"
+        }
+      ],
+      "duration_ms": 147062,
+      "name": "Freaks",
+      "url": "https://open.spotify.com/track/7EkWXAI1wn8Ii883ecd9xr"
+    },
+    {
+      "added_at": "2024-06-21 19:01:42",
+      "album": {
+        "name": "Favourite Worst Nightmare",
+        "url": "https://open.spotify.com/album/1XkGORuUX2QGOEIL4EbJKm"
       },
       "artists": [
         {
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 272394,
-      "name": "Do I Wanna Know?",
-      "url": "https://open.spotify.com/track/5FVd6KXrgO9B3JPmC8OPst"
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/0BxE4FqsDD1Ot4YuBXwAPp"
     },
     {
       "added_at": "2024-06-21 19:01:42",

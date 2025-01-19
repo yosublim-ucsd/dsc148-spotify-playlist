@@ -1,6 +1,6 @@
 {
   "description": "Welcome to the Nordic queendom of pop.",
-  "num_followers": 7159,
+  "num_followers": 7165,
   "original_name": "GRL PWR",
   "owner": {
     "name": "Spotify",
@@ -975,22 +975,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Bloody Mind",
-        "url": "https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp"
-      },
-      "artists": [
-        {
-          "name": "Cornelia Jakobs",
-          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
-        }
-      ],
-      "duration_ms": 259097,
-      "name": "Bloody Mind",
-      "url": "https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "The Ick",
         "url": "https://open.spotify.com/album/4Y2bMtjeJhl8ERBECy7MCN"
       },
@@ -1007,6 +991,22 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
+        "name": "Bloody Mind",
+        "url": "https://open.spotify.com/album/3Oo7uuwStA88miudT3MInp"
+      },
+      "artists": [
+        {
+          "name": "Cornelia Jakobs",
+          "url": "https://open.spotify.com/artist/7cYZ8F0N2jby95FsxU9hh4"
+        }
+      ],
+      "duration_ms": 259097,
+      "name": "Bloody Mind",
+      "url": "https://open.spotify.com/track/2nJFBUSQgTeLekXCkBzmDn"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
         "name": "Foam",
         "url": "https://open.spotify.com/album/3X3aYCX8E2cKg9JhhCzH4m"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 144051,
       "name": "Wishing well",
       "url": "https://open.spotify.com/track/2uEGXnrVqAlBgvLLYLZiZi"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "maserati",
+        "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 92133,
+      "name": "maserati",
+      "url": "https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1051,22 +1067,6 @@
       "duration_ms": 208880,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3jRPGXCJVVCFZTDIGOk2WH"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
-        "name": "maserati",
-        "url": "https://open.spotify.com/album/0J45WL6UeysdDlHpHjuQp5"
-      },
-      "artists": [
-        {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
-        }
-      ],
-      "duration_ms": 92133,
-      "name": "maserati",
-      "url": "https://open.spotify.com/track/6Aiq7jGRrIEJ5UlrFsk4sB"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "glued to the floor",
-        "url": "https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o"
-      },
-      "artists": [
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 138953,
-      "name": "glued to the floor",
-      "url": "https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "THE ONE AFTER ME",
         "url": "https://open.spotify.com/album/1CpAZ5SVa6llHILfePxjRq"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 147859,
       "name": "COFFEE REMIX",
       "url": "https://open.spotify.com/track/4EJAZGvayQDbTkbcVDCs7m"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "glued to the floor",
+        "url": "https://open.spotify.com/album/0kA1PVu4d8eMmN0kc7EL9o"
+      },
+      "artists": [
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 138953,
+      "name": "glued to the floor",
+      "url": "https://open.spotify.com/track/20Y7AHrMDTxzOxMfw0jCv5"
     },
     {
       "added_at": "2024-02-08 23:00:00",
@@ -1215,26 +1215,6 @@
     {
       "added_at": "2024-02-08 23:00:00",
       "album": {
-        "name": "Attack of the Ghost Riders",
-        "url": "https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY"
-      },
-      "artists": [
-        {
-          "name": "M\u00d8",
-          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
-        },
-        {
-          "name": "The Raveonettes",
-          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
-        }
-      ],
-      "duration_ms": 164351,
-      "name": "Attack of the Ghost Riders",
-      "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
-    },
-    {
-      "added_at": "2024-02-08 23:00:00",
-      "album": {
         "name": "Let's Get It",
         "url": "https://open.spotify.com/album/4Zt6JAobDaBHR2hxGauHpp"
       },
@@ -1251,6 +1231,26 @@
       "duration_ms": 112131,
       "name": "Let's Get It",
       "url": "https://open.spotify.com/track/33WKRSrbY7Ku0HmlYiCQ6K"
+    },
+    {
+      "added_at": "2024-02-08 23:00:00",
+      "album": {
+        "name": "Attack of the Ghost Riders",
+        "url": "https://open.spotify.com/album/5AGkIQ0OiuvG0mhqAWgqsY"
+      },
+      "artists": [
+        {
+          "name": "M\u00d8",
+          "url": "https://open.spotify.com/artist/0bdfiayQAKewqEvaU6rXCv"
+        },
+        {
+          "name": "The Raveonettes",
+          "url": "https://open.spotify.com/artist/3LTXHU3DhiYzGIgF2PP8Q8"
+        }
+      ],
+      "duration_ms": 164351,
+      "name": "Attack of the Ghost Riders",
+      "url": "https://open.spotify.com/track/51MPm38qe6Mgp816W18ayV"
     },
     {
       "added_at": "2024-02-08 23:00:00",

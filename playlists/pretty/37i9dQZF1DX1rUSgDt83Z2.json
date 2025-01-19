@@ -1,6 +1,6 @@
 {
   "description": "Mooi van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 34795,
+  "num_followers": 34800,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -375,22 +375,6 @@
     {
       "added_at": "2025-01-16 11:04:13",
       "album": {
-        "name": "Klaar Voor Wat Er Komt",
-        "url": "https://open.spotify.com/album/3nDUUpZK89esI3MkJfxnM7"
-      },
-      "artists": [
-        {
-          "name": "Guus Hulshof",
-          "url": "https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl"
-        }
-      ],
-      "duration_ms": 206642,
-      "name": "Klaar Voor Wat Er Komt",
-      "url": "https://open.spotify.com/track/74oGstwGCWwsxlM5cwz7ge"
-    },
-    {
-      "added_at": "2025-01-16 11:04:13",
-      "album": {
         "name": "Wat Ik Ook Ga Doen",
         "url": "https://open.spotify.com/album/4SQiHWRdAA9WfUF3tae3XY"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 158694,
       "name": "Wat Ik Ook Ga Doen",
       "url": "https://open.spotify.com/track/35BBNYg2fEtgYjkgJrGcg1"
+    },
+    {
+      "added_at": "2025-01-16 11:04:13",
+      "album": {
+        "name": "Klaar Voor Wat Er Komt",
+        "url": "https://open.spotify.com/album/3nDUUpZK89esI3MkJfxnM7"
+      },
+      "artists": [
+        {
+          "name": "Guus Hulshof",
+          "url": "https://open.spotify.com/artist/5G2yrrfIxyRjzNGWtz7mYl"
+        }
+      ],
+      "duration_ms": 206642,
+      "name": "Klaar Voor Wat Er Komt",
+      "url": "https://open.spotify.com/track/74oGstwGCWwsxlM5cwz7ge"
     },
     {
       "added_at": "2025-01-16 11:04:13",
@@ -735,22 +735,6 @@
     {
       "added_at": "2025-01-16 11:04:13",
       "album": {
-        "name": "Gesprekken Met Mezelf",
-        "url": "https://open.spotify.com/album/70N54SQQ0RFVBnAlWElfYK"
-      },
-      "artists": [
-        {
-          "name": "Daniel Kist",
-          "url": "https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA"
-        }
-      ],
-      "duration_ms": 237672,
-      "name": "Zaklamp",
-      "url": "https://open.spotify.com/track/20m1WeiZZKKESChUwoqRwN"
-    },
-    {
-      "added_at": "2025-01-16 11:04:13",
-      "album": {
         "name": "Slapeloos",
         "url": "https://open.spotify.com/album/3rorul1v1uEObKiX6Zn3i4"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 189396,
       "name": "Slapeloos",
       "url": "https://open.spotify.com/track/2RrgTyCnqDo2QNsRiJoy28"
+    },
+    {
+      "added_at": "2025-01-16 11:04:13",
+      "album": {
+        "name": "Gesprekken Met Mezelf",
+        "url": "https://open.spotify.com/album/70N54SQQ0RFVBnAlWElfYK"
+      },
+      "artists": [
+        {
+          "name": "Daniel Kist",
+          "url": "https://open.spotify.com/artist/3hcVwibmXAqkX0DIWxDVLA"
+        }
+      ],
+      "duration_ms": 237672,
+      "name": "Zaklamp",
+      "url": "https://open.spotify.com/track/20m1WeiZZKKESChUwoqRwN"
     },
     {
       "added_at": "2025-01-16 11:04:13",

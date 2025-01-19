@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Miranda Lambert",
-  "num_followers": 410777,
+  "num_followers": 410792,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -931,18 +931,18 @@
     {
       "added_at": "2025-01-17 05:00:51",
       "album": {
-        "name": "Old Fashioned Feeling",
-        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
+        "name": "It Won't Be Long",
+        "url": "https://open.spotify.com/album/1JXyyQl8aPFi9rAXwOF7pv"
       },
       "artists": [
         {
-          "name": "Midland",
-          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+          "name": "George Birge",
+          "url": "https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp"
         }
       ],
-      "duration_ms": 202280,
-      "name": "Old Fashioned Feeling",
-      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
+      "duration_ms": 197794,
+      "name": "It Won't Be Long",
+      "url": "https://open.spotify.com/track/4L7H1toyQvfKJWNlD0RfHt"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -959,6 +959,38 @@
       "duration_ms": 219799,
       "name": "Oklahoma",
       "url": "https://open.spotify.com/track/6whzN4pEb9ArYN4z9FqijU"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
+        "name": "Old Fashioned Feeling",
+        "url": "https://open.spotify.com/album/3ojGoD6lwIzSjHKqgndFD9"
+      },
+      "artists": [
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "duration_ms": 202280,
+      "name": "Old Fashioned Feeling",
+      "url": "https://open.spotify.com/track/1mlFsqgc3lgTCboLATYHBo"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
+        "name": "it won't always be this way",
+        "url": "https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 267040,
+      "name": "it won't always be this way",
+      "url": "https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -983,18 +1015,18 @@
     {
       "added_at": "2025-01-17 05:00:51",
       "album": {
-        "name": "it won't always be this way",
-        "url": "https://open.spotify.com/album/1JRgVPJ28ZoqRIyXSxZtpc"
+        "name": "Don\u2019t Mess With Exes",
+        "url": "https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956"
       },
       "artists": [
         {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+          "name": "Mackenzie Carpenter",
+          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
         }
       ],
-      "duration_ms": 267040,
-      "name": "it won't always be this way",
-      "url": "https://open.spotify.com/track/5z7R8So9WwQsMS8IECnH0T"
+      "duration_ms": 207893,
+      "name": "Don\u2019t Mess With Exes",
+      "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1011,22 +1043,6 @@
       "duration_ms": 182318,
       "name": "Tennessee Drinkin'",
       "url": "https://open.spotify.com/track/2hxzzKDKEZilB6dVzo6o28"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "Don\u2019t Mess With Exes",
-        "url": "https://open.spotify.com/album/35nVx6SYYd33ss6uWNW956"
-      },
-      "artists": [
-        {
-          "name": "Mackenzie Carpenter",
-          "url": "https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Don\u2019t Mess With Exes",
-      "url": "https://open.spotify.com/track/5OeJTsIgXpwacSUj7Wlxa0"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1059,22 +1075,6 @@
       "duration_ms": 253101,
       "name": "Wherever I Am",
       "url": "https://open.spotify.com/track/1mIAWUrotcchpannDztoxM"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "Outlaws and Mustangs",
-        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
-      },
-      "artists": [
-        {
-          "name": "Cody Jinks",
-          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
-        }
-      ],
-      "duration_ms": 240025,
-      "name": "Outlaws and Mustangs",
-      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1127,18 +1127,18 @@
     {
       "added_at": "2025-01-17 05:00:51",
       "album": {
-        "name": "That's What You Get",
-        "url": "https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT"
+        "name": "Outlaws and Mustangs",
+        "url": "https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs"
       },
       "artists": [
         {
-          "name": "Austin Michael",
-          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
+          "name": "Cody Jinks",
+          "url": "https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD"
         }
       ],
-      "duration_ms": 159841,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU"
+      "duration_ms": 240025,
+      "name": "Outlaws and Mustangs",
+      "url": "https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2025-01-17 05:00:51",
       "album": {
-        "name": "Horseback",
-        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+        "name": "That's What You Get",
+        "url": "https://open.spotify.com/album/5RrS8vIjRW2ppMf7TvbpZT"
       },
       "artists": [
         {
-          "name": "Jenna Paulette",
-          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+          "name": "Austin Michael",
+          "url": "https://open.spotify.com/artist/1zC9zNeGmSoC49nN646SDp"
         }
       ],
-      "duration_ms": 212720,
-      "name": "Horseback",
-      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
+      "duration_ms": 159841,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/4pa00oKsxQsUWSOD48QiRU"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1255,8 +1255,8 @@
     {
       "added_at": "2025-01-17 05:00:51",
       "album": {
-        "name": "When My Baby\u2019s In Boots",
-        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
+        "name": "Green Eyes Blue",
+        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
       },
       "artists": [
         {
@@ -1264,9 +1264,9 @@
           "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
         }
       ],
-      "duration_ms": 183613,
-      "name": "When My Baby\u2019s In Boots",
-      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
+      "duration_ms": 217093,
+      "name": "Green Eyes Blue",
+      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2025-01-17 05:00:51",
       "album": {
+        "name": "Horseback",
+        "url": "https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP"
+      },
+      "artists": [
+        {
+          "name": "Jenna Paulette",
+          "url": "https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "Horseback",
+      "url": "https://open.spotify.com/track/5dnFskVANQJ007A7egWZqC"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
         "name": "Settle for a Beer (with Triston Marez)",
         "url": "https://open.spotify.com/album/1q249Sj18kanQdDOnbPiep"
       },
@@ -1303,22 +1319,6 @@
       "duration_ms": 174327,
       "name": "Settle for a Beer (with Triston Marez)",
       "url": "https://open.spotify.com/track/115CHmW7Y3cRC0qYZyeUGM"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "Till You",
-        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
-      },
-      "artists": [
-        {
-          "name": "Dave Fenley",
-          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
-        }
-      ],
-      "duration_ms": 206016,
-      "name": "Till You",
-      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-01-17 05:00:51",
       "album": {
-        "name": "Whole Lotta Lubbock",
-        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
+        "name": "Till You",
+        "url": "https://open.spotify.com/album/29VsW5EVau6fNhYop1nIWR"
       },
       "artists": [
         {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+          "name": "Dave Fenley",
+          "url": "https://open.spotify.com/artist/6qGu24WJrspRNLeieoWQai"
         }
       ],
-      "duration_ms": 192651,
-      "name": "Whole Lotta Lubbock",
-      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
+      "duration_ms": 206016,
+      "name": "Till You",
+      "url": "https://open.spotify.com/track/2XSZ4cEzB2lUY8i2rUWKN6"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1387,6 +1387,38 @@
     {
       "added_at": "2025-01-17 05:00:51",
       "album": {
+        "name": "Whole Lotta Lubbock",
+        "url": "https://open.spotify.com/album/0RWcrXzqJdnKGwTA70a2hY"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 192651,
+      "name": "Whole Lotta Lubbock",
+      "url": "https://open.spotify.com/track/5MWhVTIZG6x7VHV2vdkmft"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
+        "name": "When My Baby\u2019s In Boots",
+        "url": "https://open.spotify.com/album/0E0hnTHYem327caHZmgP1Q"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 183613,
+      "name": "When My Baby\u2019s In Boots",
+      "url": "https://open.spotify.com/track/7b9KD6zHFdvaxa8esotppL"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
         "name": "Dancin' With The Devil",
         "url": "https://open.spotify.com/album/2lyRkU6hBSaV6TciIe7kP4"
       },
@@ -1399,22 +1431,6 @@
       "duration_ms": 178848,
       "name": "Dancin' With The Devil",
       "url": "https://open.spotify.com/track/2NZnlBkPCFaWvtEkifGZIB"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "Green Eyes Blue",
-        "url": "https://open.spotify.com/album/4H07PvbznqL0YjMMVT66tq"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 217093,
-      "name": "Green Eyes Blue",
-      "url": "https://open.spotify.com/track/1x15fRBTT4lJCEvPX7kXw6"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1435,22 +1451,6 @@
     {
       "added_at": "2025-01-17 05:00:51",
       "album": {
-        "name": "Baker Hotel",
-        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
-      },
-      "artists": [
-        {
-          "name": "William Clark Green",
-          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
-        }
-      ],
-      "duration_ms": 276280,
-      "name": "Anymore",
-      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
         "name": "Never Again One More Time",
         "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
       },
@@ -1467,6 +1467,22 @@
       "duration_ms": 178284,
       "name": "Never Again One More Time",
       "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
+        "name": "Baker Hotel",
+        "url": "https://open.spotify.com/album/7oj9A1igjcHCBnq6SyfB75"
+      },
+      "artists": [
+        {
+          "name": "William Clark Green",
+          "url": "https://open.spotify.com/artist/0cshCXEe1I7wlRwdrL91ZQ"
+        }
+      ],
+      "duration_ms": 276280,
+      "name": "Anymore",
+      "url": "https://open.spotify.com/track/5DzqR9xwyVEwbhRVXes5sZ"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1495,58 +1511,6 @@
       "duration_ms": 243120,
       "name": "Tough Country",
       "url": "https://open.spotify.com/track/20XPXqe5eCGYA5CnVnKUZF"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "Love Talking",
-        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
-      },
-      "artists": [
-        {
-          "name": "Eli Young Band",
-          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
-        }
-      ],
-      "duration_ms": 173131,
-      "name": "Love Talking",
-      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "Never Not Love You",
-        "url": "https://open.spotify.com/album/44PWdOc9Ho4uITytJonMFD"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 204933,
-      "name": "Whiskey to Work",
-      "url": "https://open.spotify.com/track/3sH3FccJtWk2DnTL1Egj3j"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "That's What Makes the World Go Around",
-        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
-      },
-      "artists": [
-        {
-          "name": "Charley Crockett",
-          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
-        },
-        {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
-        }
-      ],
-      "duration_ms": 197861,
-      "name": "That's What Makes The World Go Around",
-      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1587,6 +1551,74 @@
       "duration_ms": 207933,
       "name": "God Blessed Texas",
       "url": "https://open.spotify.com/track/0NCSOMwJ2JUNEXmoaZd7Mb"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
+        "name": "Love Talking",
+        "url": "https://open.spotify.com/album/0bflVbQQISnuMdv5KjVPHB"
+      },
+      "artists": [
+        {
+          "name": "Eli Young Band",
+          "url": "https://open.spotify.com/artist/6eKWqnckwdIlSnjaYgIyxv"
+        }
+      ],
+      "duration_ms": 173131,
+      "name": "Love Talking",
+      "url": "https://open.spotify.com/track/5kFLWyiAXjYrecLHnR7bTk"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
+      },
+      "artists": [
+        {
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
+        }
+      ],
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
+        "name": "Never Not Love You",
+        "url": "https://open.spotify.com/album/44PWdOc9Ho4uITytJonMFD"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 204933,
+      "name": "Whiskey to Work",
+      "url": "https://open.spotify.com/track/3sH3FccJtWk2DnTL1Egj3j"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
+        "name": "That's What Makes the World Go Around",
+        "url": "https://open.spotify.com/album/0WJUACzppmRQemrlwap45e"
+      },
+      "artists": [
+        {
+          "name": "Charley Crockett",
+          "url": "https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4"
+        },
+        {
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+        }
+      ],
+      "duration_ms": 197861,
+      "name": "That's What Makes The World Go Around",
+      "url": "https://open.spotify.com/track/2pDe6RYFsS998K9u4OQKcy"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -1683,38 +1715,6 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "Angels & Heathens",
-        "url": "https://open.spotify.com/album/45Oduf6EgTY4VEjhstUIK9"
-      },
-      "artists": [
-        {
-          "name": "Paul Cauthen",
-          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
-        }
-      ],
-      "duration_ms": 198089,
-      "name": "Angels & Heathens",
-      "url": "https://open.spotify.com/track/7sauICCZ5qbeWz9Fv9n44j"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "Green in Colorado",
-        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
-      },
-      "artists": [
-        {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
-        }
-      ],
-      "duration_ms": 196833,
-      "name": "Green in Colorado",
-      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
     }
   ],
   "unique_name": "Texas Country Now",

@@ -69,9 +69,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 59 | [Thanks a lot now I can’t smile](https://open.spotify.com/track/04yovA3Awq1PhEuSRgPXFi) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Thanks a lot now I can’t smile](https://open.spotify.com/album/6FN7cEitzdKJnH6UlZLJXO) | 2:44 |
 | 60 | [Lägenheten \(Säg till han\)](https://open.spotify.com/track/3VJMWOIZZ3dmsExKbGi7DP) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:55 |
 | 61 | [Dark Waters \(feat\. HOLT\)](https://open.spotify.com/track/2j4bCIxx7IReA1d1gGw4hF) | [Axel Johansson](https://open.spotify.com/artist/2xW3pBjCngD69hC1wIUgjA), [HOLT](https://open.spotify.com/artist/7w2d2YiQBG8CPh1lk1qYis) | [Dark Waters \(feat\. HOLT\)](https://open.spotify.com/album/03dBnxknCp96kyY1rMavoV) | 2:32 |
-| 62 | [Glömd&Begraven](https://open.spotify.com/track/0yNXh5Js8rYPKzczlUmTyd) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [+3 bpm](https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq) | 3:19 |
-| 63 | [Like You](https://open.spotify.com/track/43UyWO6ngUld3xcjYl5XRR) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/2I3nYpvclZVh4kMB7pzaRS) | 3:24 |
-| 64 | [All I Know](https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [All I Know](https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp) | 2:39 |
+| 62 | [All I Know](https://open.spotify.com/track/6jQTdFaV6imDFLp1VNl6YN) | [TELYKAST](https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz) | [All I Know](https://open.spotify.com/album/2HcSAb3yKrNOmSbiFtW2Hp) | 2:39 |
+| 63 | [Glömd&Begraven](https://open.spotify.com/track/0yNXh5Js8rYPKzczlUmTyd) | [Myra Granberg](https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2) | [+3 bpm](https://open.spotify.com/album/7fZMtaTLaGtmxTr92ELKbq) | 3:19 |
+| 64 | [Like You](https://open.spotify.com/track/43UyWO6ngUld3xcjYl5XRR) | [Future Chess Club](https://open.spotify.com/artist/3qhz6nnUi7DZZAEwcGKtGW) | [Like You](https://open.spotify.com/album/2I3nYpvclZVh4kMB7pzaRS) | 3:24 |
 | 65 | [För bra för att va sant](https://open.spotify.com/track/520XKC8d8bAet1txRq1xop) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [För bra för att va sant](https://open.spotify.com/album/1SGDAuJ6p6689iDBaluvKB) | 2:49 |
 | 66 | [Frank Ocean](https://open.spotify.com/track/29fcce3Nr3mrYcfdWFEln8) | [Julia Lov](https://open.spotify.com/artist/51fbFSdDRO2j9qwBSA1Xuq) | [Frank Ocean](https://open.spotify.com/album/0oR9YdgNzj4o3GcWzK1xCr) | 2:36 |
 | 67 | [säga inget säger allt](https://open.spotify.com/track/2rBv1g6VfRXIHuLSpi0ZOM) | [Oscar Zia](https://open.spotify.com/artist/42TbHQxJ8d94CD93vAoDgl) | [dö\(d\) för mig](https://open.spotify.com/album/0h7YW4GgLTQRIof8sxseMU) | 2:37 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 99 | [Indigo Bruised](https://open.spotify.com/track/19UnB1WA1EhlnWIyGHyDfZ) | [Diane Emerita](https://open.spotify.com/artist/3LhfJfuhr6OZLHrpCXIyuH) | [Indigo Bruised](https://open.spotify.com/album/4BxfBMRKQhFiIw1EpEm4Et) | 3:22 |
 | 100 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 
-Snapshot ID: `AbnI9AAAAACwegP7swiIWgFbV1tgTjxc`
+Snapshot ID: `AbnOgAAAAAC6sClKdk1GJUFrRL5SMjf0`

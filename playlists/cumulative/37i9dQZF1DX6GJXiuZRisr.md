@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-559 songs - 1 day 15 hr 5 min
+560 songs - 1 day 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Bloom](https://open.spotify.com/track/6pRvIg1q3LVQw63PwLJGlb) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Intercell](https://open.spotify.com/album/1H5RU9ymFKcu0GGt3QVZbI) | 3:16 | 2023-10-13 | 2023-11-04 |
 | [Bloom](https://open.spotify.com/track/4O8aAhhXLBCSTDW7zUF1FV) | [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Bloom / Rise](https://open.spotify.com/album/7z8dvy3gNn7Yys09BKgBtS) | 4:49 | 2021-05-07 | 2022-04-21 |
 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 | 2024-03-22 |  |
+| [Blue Symphony](https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Blue Symphony](https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv) | 3:23 | 2025-01-17 |  |
 | [Blur](https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Marlo Rex](https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS) | [Blur](https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr) | 2:58 | 2023-10-06 |  |
 | [Breakfast In Vegas](https://open.spotify.com/track/2o6RuGihlwJhA7vT41lz5A) | [Sander van Doorn](https://open.spotify.com/artist/22bukBZvUppuwQwmDz75Gz) | [Breakfast In Vegas](https://open.spotify.com/album/3vAAypb5bNznpu4gml1xCI) | 3:40 | 2022-02-25 | 2022-07-29 |
 | [Breathe Me In](https://open.spotify.com/track/0eiLudweyosA5c7EUJ6y0c) | [Harrison](https://open.spotify.com/artist/58O8UPrTdl4u2buM0skj94) | [Breathe Me In](https://open.spotify.com/album/0Ez7Txv5ziazJVEVZq41Rc) | 2:58 | 2021-12-10 | 2024-04-13 |
@@ -392,7 +393,7 @@
 | [Replay](https://open.spotify.com/track/67Lj6xHDrizXIDDFKYwdae) | [Giuseppe Ottaviani](https://open.spotify.com/artist/5B9q1NRokzWYB7nSgnlHyv), [Natalie Shay](https://open.spotify.com/artist/6pDapjUwN36LXMdYk0WKuQ) | [Replay](https://open.spotify.com/album/2bwXbiQpSrhw8ioKitFRDD) | 4:12 | 2022-04-15 | 2022-07-29 |
 | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/track/2pvQCbUnXHOpAcJOkgAYmZ) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Kaskade](https://open.spotify.com/artist/6TQj5BFPooTa08A7pk8AQ1), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Resonate \(feat\. Julia Church\)](https://open.spotify.com/album/7r9LSib4rKpvAS9hTRt1QJ) | 4:01 | 2024-06-21 |  |
 | [Rewind](https://open.spotify.com/track/2mEb5O579Ctj4sYqfkJSZd) | [Anden](https://open.spotify.com/artist/7CO6M2cT1lbumazmOjKnxF) | [Rewind EP](https://open.spotify.com/album/2uwlsjnBdNtDzikfUibUjn) | 3:33 | 2021-05-07 | 2022-07-27 |
-| [Rewind](https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Rewind](https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N) | 3:30 | 2024-11-08 |  |
+| [Rewind](https://open.spotify.com/track/6wzMevey2rDXo0e1POZ67m) | [Pretty Girl](https://open.spotify.com/artist/6KkltYAOOGsCaW7dO9jF98) | [Rewind](https://open.spotify.com/album/5o3lrb6NCyEJT65AnSmV3N) | 3:30 | 2024-11-08 | 2025-01-19 |
 | [Rhythm \(Of The Night\)](https://open.spotify.com/track/4G58eym5EGj8ZG1qt8DXIx) | [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX), [Yotto](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Rhythm \(Of The Night\)](https://open.spotify.com/album/3i4rXOFxdMqzFJtXTxV1IW) | 3:21 | 2022-10-14 |  |
 | [Riptide](https://open.spotify.com/track/7yT31cuPzcqkE2BJV4Fusx) | [Lane 8](https://open.spotify.com/artist/27gtK7m9vYwCyJ04zz0kIb), [Davey Havok](https://open.spotify.com/artist/1Q1ItjYrk6Si5q4tQtRbx8) | [Riptide](https://open.spotify.com/album/1fY8TWeIEA2EXH24sT9RJn) | 5:50 | 2021-06-18 | 2022-10-19 |
 | [Risky Business](https://open.spotify.com/track/75N5R8CeZDyJurQJsoRTx1) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [Risky Business](https://open.spotify.com/album/11dna2TSKlOcxUgMuhPT0k) | 5:20 | 2021-05-07 | 2023-07-01 |

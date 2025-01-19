@@ -1,6 +1,6 @@
 {
   "description": "why so hot?",
-  "num_followers": 22855,
+  "num_followers": 22856,
   "original_name": "very hot",
   "owner": {
     "name": "Spotify",
@@ -431,22 +431,6 @@
     {
       "added_at": "2024-08-13 06:46:21",
       "album": {
-        "name": "Weezer",
-        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
-      },
-      "artists": [
-        {
-          "name": "Weezer",
-          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
-    },
-    {
-      "added_at": "2024-08-13 06:46:21",
-      "album": {
         "name": "Leave Before You Love Me",
         "url": "https://open.spotify.com/album/66JuK41D3LpkbX3HCTGcQk"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 154983,
       "name": "Leave Before You Love Me (with Jonas Brothers)",
       "url": "https://open.spotify.com/track/4qu63nuBpdn0qHUHuObEj1"
+    },
+    {
+      "added_at": "2024-08-13 06:46:21",
+      "album": {
+        "name": "Weezer",
+        "url": "https://open.spotify.com/album/2OBSz5Nlto0Q5CtYPzPY7c"
+      },
+      "artists": [
+        {
+          "name": "Weezer",
+          "url": "https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/2MLHyLy5z5l5YRp7momlgw"
     },
     {
       "added_at": "2024-08-13 06:46:21",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-08-13 06:46:21",
       "album": {
-        "name": "CLAPCLAPCLAP!",
-        "url": "https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk"
-      },
-      "artists": [
-        {
-          "name": "IV Of Spades",
-          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
-        }
-      ],
-      "duration_ms": 246396,
-      "name": "Come Inside Of My Heart",
-      "url": "https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU"
-    },
-    {
-      "added_at": "2024-08-13 06:46:21",
-      "album": {
         "name": "Flaming Hot Cheetos",
         "url": "https://open.spotify.com/album/12pkuSY7Cy2sc5Ix0XIYIE"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 123884,
       "name": "Flaming Hot Cheetos",
       "url": "https://open.spotify.com/track/1F6IbA7di42uPc3cff8PXV"
+    },
+    {
+      "added_at": "2024-08-13 06:46:21",
+      "album": {
+        "name": "CLAPCLAPCLAP!",
+        "url": "https://open.spotify.com/album/5mGR6qKnpILzSzq1yyAUXk"
+      },
+      "artists": [
+        {
+          "name": "IV Of Spades",
+          "url": "https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG"
+        }
+      ],
+      "duration_ms": 246396,
+      "name": "Come Inside Of My Heart",
+      "url": "https://open.spotify.com/track/3Eb5sztvEMa0Mqnb8DUAlU"
     },
     {
       "added_at": "2024-08-13 06:46:21",
@@ -927,22 +927,6 @@
     {
       "added_at": "2024-08-13 06:46:21",
       "album": {
-        "name": "Goodbye Lullaby (Expanded Edition)",
-        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
-      },
-      "artists": [
-        {
-          "name": "Avril Lavigne",
-          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
-        }
-      ],
-      "duration_ms": 220706,
-      "name": "What the Hell",
-      "url": "https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo"
-    },
-    {
-      "added_at": "2024-08-13 06:46:21",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 217426,
       "name": "New Light",
       "url": "https://open.spotify.com/track/4T6FWA703h6H7zk1FoSARw"
+    },
+    {
+      "added_at": "2024-08-13 06:46:21",
+      "album": {
+        "name": "Goodbye Lullaby (Expanded Edition)",
+        "url": "https://open.spotify.com/album/1COPJyU2PpM2Itcob3vhFF"
+      },
+      "artists": [
+        {
+          "name": "Avril Lavigne",
+          "url": "https://open.spotify.com/artist/0p4nmQO2msCgU4IF37Wi3j"
+        }
+      ],
+      "duration_ms": 220706,
+      "name": "What the Hell",
+      "url": "https://open.spotify.com/track/2z4U9d5OAA4YLNXoCgioxo"
     },
     {
       "added_at": "2024-08-13 06:46:21",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2024-08-13 06:46:21",
       "album": {
-        "name": "Reckless",
-        "url": "https://open.spotify.com/album/5lVImnUah94yoxXy2H1qo7"
+        "name": "Culture II",
+        "url": "https://open.spotify.com/album/7fd7SEK25VS3gJAUgSwL6y"
       },
       "artists": [
         {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+          "name": "Migos",
+          "url": "https://open.spotify.com/artist/6oMuImdp5ZcFhWP0ESe6mG"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 203384,
-      "name": "Reckless",
-      "url": "https://open.spotify.com/track/5ajjAnNRh8bxFvaVHzpPjh"
+      "duration_ms": 276147,
+      "name": "Walk It Talk It",
+      "url": "https://open.spotify.com/track/6n4U3TlzUGhdSFbUUhTvLP"
     }
   ],
   "unique_name": "very hot",

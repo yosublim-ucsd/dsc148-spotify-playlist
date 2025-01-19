@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 111 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 180 likes - 112 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,5 +119,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBrkYMAxqIw.md) - [plain]
 | 109 | [State of Love](https://open.spotify.com/track/45DsD814Bmk110GzaglxXP) | [Coco Morier](https://open.spotify.com/artist/0wGJRytej6eabFy1c6huF6), [Lula The Beat](https://open.spotify.com/artist/63FOxu3a3g8tOIFaaGOUZ4) | [State of Love](https://open.spotify.com/album/3OaqTfrMtHmCRHwF6qenQR) | 3:23 |
 | 110 | [Swimming Pool](https://open.spotify.com/track/5jOMjgcaamUtATeo4r8vrv) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:56 |
 | 111 | [Unfold](https://open.spotify.com/track/7HYeMEo9wG6GNSxupp2U6M) | [Hawkon](https://open.spotify.com/artist/6klAmp0IDtvZFh2HOG7FUi) | [Vulnerability1000](https://open.spotify.com/album/24SHrr3mrVT3xPP9RZqt4y) | 2:18 |
+| 112 | [Back to Loving You](https://open.spotify.com/track/79Soo1jhXGYqaFfLS68rcr) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj) | [Back to Loving You](https://open.spotify.com/album/2U2ZgBUG21VP9mG2UU3XWC) | 3:54 |
 
-Snapshot ID: `AbnI1gAAAAAUfbOOy64mRneoCqQvlqaa`
+Snapshot ID: `AbnOqAAAAADyWLWX6krvVpszYu1Kn/VR`

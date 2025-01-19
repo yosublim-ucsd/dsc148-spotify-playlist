@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 
 > New music picks every Friday from your friends at Brownies &amp; Lemonade
 
-[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,119 likes - 77 songs - 4 hr 21 min
+[Brownies & Lemonade](https://open.spotify.com/user/browniesandlemonade) - 21,141 likes - 77 songs - 4 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/03de8Phg9jBojkrhxQX9LE.md) - [plain]
 | 53 | [Amado](https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY) | [MAXI MERAKI](https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm), [Orsay](https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4) | [Amado](https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI) | 3:30 |
 | 54 | [RAVE T00L](https://open.spotify.com/track/6fuDpHjM0CSZj7m1XQxzs6) | [TWONSKi](https://open.spotify.com/artist/0wpHC77nsV39LreyyX5TK3) | [RAVE T00L](https://open.spotify.com/album/61NfZYuUVaHhqBlMFzowb9) | 3:00 |
 | 55 | [KEEP SEARCHING](https://open.spotify.com/track/7vbtr4mKxzlM8yDK8kB6qO) | [Gurf](https://open.spotify.com/artist/2TEakNv09AUIDiW11ZsHIM) | [KEEP SEARCHING](https://open.spotify.com/album/3nn5NJUxOCzGvUPyTZFlHY) | 3:01 |
-| 56 | [Abyss](https://open.spotify.com/track/1XoPHBfPv2OVE8sMGCnBxh) | [Bastion](https://open.spotify.com/artist/0BEM8BWLSxOdmUyj5xKF61) | [Abyss](https://open.spotify.com/album/1X8GP3RItxWWDe4IWR1Ru1) | 5:11 |
+| 56 | [Abyss](https://open.spotify.com/track/1XoPHBfPv2OVE8sMGCnBxh) | [Bastion](https://open.spotify.com/artist/0BEM8BWLSxOdmUyj5xKF61) | [Abyss](https://open.spotify.com/album/1X8GP3RItxWWDe4IWR1Ru1) | 5:24 |
 | 57 | [Get Tired](https://open.spotify.com/track/3byvmep8Cs6ioMrRWcCQNF) | [LYNY](https://open.spotify.com/artist/7xqIp1044Z2vd9v9ZphjLa) | [Get Tired](https://open.spotify.com/album/2jR8JmdAQrmmUJL6b4hsBv) | 3:40 |
 | 58 | [Una Velita](https://open.spotify.com/track/2KP7x5rt44zaTgcKBdLKkT) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z) | [Una Velita](https://open.spotify.com/album/3jYPfh3KxGy5wSndoME6BL) | 2:43 |
 | 59 | [Energy](https://open.spotify.com/track/0WestNiV3HHGYx241RZb0J) | [Kayzo](https://open.spotify.com/artist/72iCiKwu6nu6Qq9emIwzYv), [Vastive](https://open.spotify.com/artist/5dqKDhDTrjMvSExBmfMNeH) | [Energy](https://open.spotify.com/album/3LnyoZtjl0R0Xiwqgn61za) | 4:04 |

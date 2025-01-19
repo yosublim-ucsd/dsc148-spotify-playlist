@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19876,
+  "num_followers": 19884,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,22 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "COLADINHO",
-        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
+        "name": "LUA CHEIA",
+        "url": "https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp"
       },
       "artists": [
         {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+          "name": "Enme",
+          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
         },
         {
-          "name": "Liz Kaweria",
-          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
-        },
-        {
-          "name": "Kaf\u00e9",
-          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+          "name": "UANA",
+          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
         }
       ],
-      "duration_ms": 152079,
-      "name": "COLADINHO",
-      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+      "duration_ms": 170089,
+      "name": "LUA CHEIA",
+      "url": "https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -187,6 +183,30 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
+        "name": "COLADINHO",
+        "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
+      },
+      "artists": [
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        },
+        {
+          "name": "Liz Kaweria",
+          "url": "https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77"
+        },
+        {
+          "name": "Kaf\u00e9",
+          "url": "https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw"
+        }
+      ],
+      "duration_ms": 152079,
+      "name": "COLADINHO",
+      "url": "https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
         "name": "Corrente",
         "url": "https://open.spotify.com/album/5D15hBPxJW8nm119i0T5cz"
       },
@@ -203,6 +223,26 @@
       "duration_ms": 176605,
       "name": "Corrente",
       "url": "https://open.spotify.com/track/58slFsFwosSTeALLiPxIkI"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Caninana",
+        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Caninana",
+      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -227,22 +267,22 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Caninana",
-        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
+        "name": "Asop\u00f8",
+        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
       },
       "artists": [
         {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
         },
         {
           "name": "Paiva Prod",
           "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
         }
       ],
-      "duration_ms": 190105,
-      "name": "Caninana",
-      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
+      "duration_ms": 195421,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -323,26 +363,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Asop\u00f8",
-        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 195421,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "De Lua",
         "url": "https://open.spotify.com/album/0Cjb1U6WfJ97NhMegCmyWa"
       },
@@ -411,26 +431,6 @@
       "duration_ms": 182448,
       "name": "Coragem",
       "url": "https://open.spotify.com/track/2ICmFpSpyqKk68VT5TMFu1"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "LUA CHEIA",
-        "url": "https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp"
-      },
-      "artists": [
-        {
-          "name": "Enme",
-          "url": "https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8"
-        },
-        {
-          "name": "UANA",
-          "url": "https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO"
-        }
-      ],
-      "duration_ms": 170089,
-      "name": "LUA CHEIA",
-      "url": "https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -551,26 +551,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Deixa Eu Te Contar",
-        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
-      },
-      "artists": [
-        {
-          "name": "Yas",
-          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
-        },
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 193200,
-      "name": "Deixa Eu Te Contar",
-      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "Ch\u00e1",
         "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
       },
@@ -595,22 +575,22 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "PILULA DO DIA SEGUINTE",
-        "url": "https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy"
+        "name": "Deixa Eu Te Contar",
+        "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
       },
       "artists": [
         {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+          "name": "Yas",
+          "url": "https://open.spotify.com/artist/3tFl0Vh4EoMvMutypugPYO"
         },
         {
-          "name": "Biuw",
-          "url": "https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         }
       ],
-      "duration_ms": 150602,
-      "name": "PEGA PEGA",
-      "url": "https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V"
+      "duration_ms": 193200,
+      "name": "Deixa Eu Te Contar",
+      "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -635,6 +615,26 @@
       "duration_ms": 144444,
       "name": "S\u00f3 Voc\u00ea",
       "url": "https://open.spotify.com/track/50NwQLqay9RJRTgWW8qS5j"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "PILULA DO DIA SEGUINTE",
+        "url": "https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Biuw",
+          "url": "https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv"
+        }
+      ],
+      "duration_ms": 150602,
+      "name": "PEGA PEGA",
+      "url": "https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V"
     },
     {
       "added_at": "2025-01-17 03:01:13",

@@ -63,6 +63,24 @@
     },
     {
       "album": {
+        "name": "MI MAMI FUNK, Vol. 2",
+        "url": "https://open.spotify.com/album/49jDV7fUqm6uPdj7cXPsEG"
+      },
+      "artists": [
+        {
+          "name": "DJ-JY12",
+          "url": "https://open.spotify.com/artist/5opiOfmWLFeHTjI3dL6alu"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100263,
+      "name": "(Ultra Slowed)",
+      "url": "https://open.spotify.com/track/0SWKNM553KGaTzYiF3pAQH"
+    },
+    {
+      "album": {
         "name": "+57",
         "url": "https://open.spotify.com/album/5TT8KluomuelzsNF7T1U37"
       },
@@ -2076,7 +2094,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -2094,7 +2112,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -2848,7 +2866,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 92307,
       "name": "Bonde das Oncinhas",
       "url": "https://open.spotify.com/track/1iGlVlQlv3Vkrkn6BiHOkB"
@@ -8700,7 +8718,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 88615,
       "name": "Hoje em Dia \u00e9 Dif\u00edcil Encontrar - Vers\u00e3o BH",
       "url": "https://open.spotify.com/track/4j4wr1y3pcpa4aFWlC1llc"
@@ -9292,7 +9310,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-07",
+      "date_removed": null,
       "duration_ms": 170365,
       "name": "Imag\u00ednate",
       "url": "https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh"
@@ -11312,7 +11330,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -14152,7 +14170,7 @@
       ],
       "date_added": "2024-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 131548,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/3cUo0Hh8caA5VeZMPvV2id"
@@ -14478,6 +14496,24 @@
       "duration_ms": 68580,
       "name": "Owaie - Remix",
       "url": "https://open.spotify.com/track/2zzTSghLrVWR65WfA5VM7l"
+    },
+    {
+      "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2025-01-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "album": {
@@ -15371,24 +15407,6 @@
     },
     {
       "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "date_added": "2025-01-11",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149440,
-      "name": "PORNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
-    },
-    {
-      "album": {
         "name": "Porque Te Vas",
         "url": "https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX"
       },
@@ -15626,7 +15644,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 184874,
       "name": "Quiero Contarte (from the Prime Video Original Movie CULPA TUYA)",
       "url": "https://open.spotify.com/track/3rS46EYsF234vb3QM2iT2N"
@@ -16548,7 +16566,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-08",
+      "date_removed": null,
       "duration_ms": 177590,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
@@ -21849,6 +21867,28 @@
     },
     {
       "album": {
+        "name": "EPIC: The Ithaca Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Anna Lea",
+          "url": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 345812,
+      "name": "Would You Fall in Love with Me Again",
+      "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"
+    },
+    {
+      "album": {
         "name": "WTF 2",
         "url": "https://open.spotify.com/album/5ERveSd2VSGk3x37LPgjYy"
       },
@@ -22108,6 +22148,24 @@
       "duration_ms": 212720,
       "name": "XQ ERES AS\u00cd",
       "url": "https://open.spotify.com/track/5V3CFqzpQSp3frtlVp4T3D"
+    },
+    {
+      "album": {
+        "name": "EMDP (The Last Album)",
+        "url": "https://open.spotify.com/album/2G4T745eynlKnJdhDj3bAB"
+      },
+      "artists": [
+        {
+          "name": "Don Miguelo",
+          "url": "https://open.spotify.com/artist/1noWnd8QFQD9VLxWEeo4Zf"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163759,
+      "name": "Y Que Fue?",
+      "url": "https://open.spotify.com/track/2wAmparvQdtQemzY9I8PKv"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 
 > Soolking & GIMS on the cover of Habibi Gang Gang
 
-[Spotify](https://open.spotify.com/user/spotify) - 235,086 likes - 80 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 235,124 likes - 80 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3MGdnF1V53j.md) - [plain]
 | 54 | [Ya Habibi](https://open.spotify.com/track/3TZoDoLspZbHMhI1NhKUVO) | [Kida](https://open.spotify.com/artist/0rtILhtW5MNyUqkZzKDd3J), [Oualid](https://open.spotify.com/artist/60tsxRkHtGIlk3IW8U8O2y) | [Ya Habibi](https://open.spotify.com/album/3pTpbCY8ubsEkzACkIUItA) | 2:53 |
 | 55 | [Triq Salama](https://open.spotify.com/track/4Z9koEpZf88mBXSoeV5aPO) | [KATNUF](https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo), [ICE](https://open.spotify.com/artist/2lijXumljJXXrdagON1wtM) | [Triq Salama](https://open.spotify.com/album/3Z1THnQmX5vP8riVMtjDSp) | 2:22 |
 | 56 | [JNTP](https://open.spotify.com/track/5PRJiN6g7yEpvN9E01K9Cj) | [Mula B](https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi) | [Narcopop](https://open.spotify.com/album/0oWnZBk90oMGqXRIueDk98) | 2:40 |
-| 57 | [Je M'en Fous](https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Je M'en Fous](https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd) | 2:57 |
-| 58 | [Panama](https://open.spotify.com/track/6ZByuSpQg2Jmzd9nhV4JnC) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 2:34 |
+| 57 | [Panama](https://open.spotify.com/track/6ZByuSpQg2Jmzd9nhV4JnC) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a), [Maes](https://open.spotify.com/artist/6L34dW6SKMSDaGIfYDU19j) | [ATHENA](https://open.spotify.com/album/4krkLLyWeRYqr8JLIAx0KP) | 2:34 |
+| 58 | [Je M'en Fous](https://open.spotify.com/track/0D5ZNFuO7cN9xvhYQKdj9t) | [Makar](https://open.spotify.com/artist/4PUr4W5mWlzMkyVpSiX2ZN), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h), [MB](https://open.spotify.com/artist/2TDTS5K5hN0lAyfOOKIkoe) | [Je M'en Fous](https://open.spotify.com/album/06ZRa1jHSnD74FYyQXADbd) | 2:57 |
 | 59 | [Ça c'est bien](https://open.spotify.com/track/1CFcahfucbIGHRzLOP3qYX) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG) | [Ça c'est bien](https://open.spotify.com/album/6laF6aVjTtWwMZvwYdLOES) | 2:39 |
 | 60 | [Machi 3adi](https://open.spotify.com/track/5LMlEIZB05DzkNcvvF3WGo) | [Inez](https://open.spotify.com/artist/2sGGaKKex7GgNlH1DRXZSa) | [Machi 3adi](https://open.spotify.com/album/7ds6gFjCD41GxFElWOxGeK) | 2:50 |
 | 61 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 |

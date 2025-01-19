@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVYgpMbMPJMz.md) - [plain]
 
 > Experience the lastest and the greatest Worship music right here, right now\. Cover:  Jesus Culture
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,014,321 likes - 100 songs - 9 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,014,530 likes - 100 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [None Like You \- Live](https://open.spotify.com/track/7dLYwQF7HRsIA8hpNeEf1v) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Marie Elizabeth](https://open.spotify.com/artist/58sdrMtaL6qpjTh435hhBu) | [None Like You \(Live\)](https://open.spotify.com/album/5YmFL5uGLVJHEnzrWl7LNa) | 8:00 |
+| 1 | [None Like You \- Live](https://open.spotify.com/track/7dLYwQF7HRsIA8hpNeEf1v) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Marie Welch](https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE) | [None Like You \(Live\)](https://open.spotify.com/album/5YmFL5uGLVJHEnzrWl7LNa) | 8:00 |
 | 2 | [Words We'll Sing Forever](https://open.spotify.com/track/52nHwiyey8yFvn9Wo4SXTt) | [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Words We'll Sing Forever](https://open.spotify.com/album/54WBbnfppn8JKOiMz4vgvy) | 4:28 |
 | 3 | [Worship!](https://open.spotify.com/track/3uJ539yuwsbaVh2CIAp4Cr) | [TAYA](https://open.spotify.com/artist/3D04fb59z3ANxVaeHBfxtW) | [Worship!](https://open.spotify.com/album/3oYzCAKcT1AVna2vPCYWxF) | 4:01 |
 | 4 | [Love of God \(Live\)](https://open.spotify.com/track/5lwi7XvSzlGsJ6NIGR1qAn) | [Brandon Lake](https://open.spotify.com/artist/1bdnGJxkbIIys5Jhk1T74v), [Phil Wickham](https://open.spotify.com/artist/5d1JhBfyb58upMXCZOdbQu) | [Love of God \(Live\)](https://open.spotify.com/album/1NdJ3UWZpGZFkrMu6Xe69K) | 7:48 |

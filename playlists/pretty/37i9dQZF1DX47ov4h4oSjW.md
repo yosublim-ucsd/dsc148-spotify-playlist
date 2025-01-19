@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 
 > Music to help you concentrate during your homework.
 
-[Spotify](https://open.spotify.com/user/spotify) - 101,193 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 101,192 likes - 100 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 33 | [Valse pour Johann](https://open.spotify.com/track/5oLtQcVkF0Ilww3U3P8McC) | [Fjellson Weber](https://open.spotify.com/artist/3t6bNYrd5aYZ4WQlqHvKx2) | [Valse pour Johann](https://open.spotify.com/album/37bbp6xNCJxf1z17XGqIwd) | 2:25 |
 | 34 | [Forêt Profonde](https://open.spotify.com/track/0hfmBHOwBmy9Hmi2vd9eku) | [Ricard Paul](https://open.spotify.com/artist/6N2AxUq3v1faD2lVriyeJu) | [Forêt Profonde](https://open.spotify.com/album/2k9TF8OSLFWUrMVz9u0RKA) | 3:07 |
 | 35 | [Mantra for Piano](https://open.spotify.com/track/2FifEFnO1xZHMsG8O6Ir6p) | [Carl Bonet](https://open.spotify.com/artist/3NvG2KsrNSJqeGRryYyl8x) | [Center of Gravity](https://open.spotify.com/album/53A24jAS0pIuBHGINApD71) | 3:18 |
-| 36 | [Airbourne](https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Airbourne](https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M) | 3:58 |
-| 37 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 |
+| 36 | [Avenues](https://open.spotify.com/track/6JO9hJYbENVIeo5J6NP8l4) | [Seth Fernsby](https://open.spotify.com/artist/1HURo2WjQ7rMSgqgcKT6MX) | [Avenues](https://open.spotify.com/album/0rvrpin8MFriRR4dIIneA1) | 2:19 |
+| 37 | [Airbourne](https://open.spotify.com/track/3AZJgN2201Etx46AlOsCYu) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Airbourne](https://open.spotify.com/album/2NR9OmMNtdfA45E0nsnN4M) | 3:58 |
 | 38 | [Beyond This Moment](https://open.spotify.com/track/54QFGiOthVqXeJtiXdlLYa) | [Patrick O'Hearn](https://open.spotify.com/artist/6T7JFvP8qvpOia4q43OmbJ) | [So Flows The Current](https://open.spotify.com/album/2G7NJdUQxp6vAO0arTebvj) | 4:49 |
 | 39 | [Dolce](https://open.spotify.com/track/44e6QZtPPxu2OXO1AkEYMf) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Dolce](https://open.spotify.com/album/7GKZUq1a6RjmM2SHRqotMv) | 2:23 |
 | 40 | [Kardelen](https://open.spotify.com/track/3d7Tl14KLOVLGvTnzROcKh) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Kardelen](https://open.spotify.com/album/1JDuMQKNZHgURjACFtv0d8) | 2:47 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 47 | [Coelicolor](https://open.spotify.com/track/59uTTjYZrhemOxdwht85fA) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Coelicolor](https://open.spotify.com/album/2u28DhrSjoAAtn6sVudqYI) | 2:42 |
 | 48 | [The Winding Paths](https://open.spotify.com/track/5VceRZmSDeW6y7ipxiwOvK) | [Regina Mira](https://open.spotify.com/artist/5TxyXnLkmonAVNpdgJ7z4C) | [October](https://open.spotify.com/album/3csL43PsskrOpVuXSRTw91) | 1:59 |
 | 49 | [Under Cold Water](https://open.spotify.com/track/6ECOpOKBN29CzxonEiLEmx) | [Sarah Spring](https://open.spotify.com/artist/2ichvOEY8OwpGaodYoOELd) | [Under Cold Water](https://open.spotify.com/album/6XyVXHLqGPcfa7vAxO1yyq) | 2:06 |
-| 50 | [Truly Yours](https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Truly Yours](https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7) | 3:05 |
-| 51 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 |
+| 50 | [Trail of Light](https://open.spotify.com/track/02aWFfloZhQ0QXTRpG1D3n) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:18 |
+| 51 | [Truly Yours](https://open.spotify.com/track/0G1cg2Ezj39U7GI5K0A7ia) | [Eamonn Watt](https://open.spotify.com/artist/2T4ifP8x0qzmkB2iY1LRZ7) | [Truly Yours](https://open.spotify.com/album/67h6iAyVDbAr0baVzyAAG7) | 3:05 |
 | 52 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 |
 | 53 | [Midnight Musette](https://open.spotify.com/track/1wC7zd8ZiRgiRaIT2THV8c) | [De Maynes](https://open.spotify.com/artist/46rRHXeWejBCxgPv6Sdjcn) | [Midnight Musette](https://open.spotify.com/album/1t0632m5eesD6Fbanaqfnb) | 3:17 |
 | 54 | [Unrequited](https://open.spotify.com/track/07tUhErHb7K8bdOcwyvbuK) | [Josef Passagio](https://open.spotify.com/artist/0TQaVw4oiRmOcP5MIIZ9wF) | [Unrequited](https://open.spotify.com/album/6TrZIMK6F5vNaw3Fpk18yb) | 2:06 |
@@ -86,20 +86,20 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX47ov4h4oSjW.md) - [plain]
 | 76 | [Adesso](https://open.spotify.com/track/0t0X7v3Qcq7wMviNjWaWDO) | [Carluccio](https://open.spotify.com/artist/06bxyT4bXPZaKsInaJ75UL) | [Adesso](https://open.spotify.com/album/33kzMmushokneJ49TH7O7K) | 2:27 |
 | 77 | [Sunlight](https://open.spotify.com/track/3PFaIXHfT7cLCo1mRGbhZU) | [Alec Windt](https://open.spotify.com/artist/3zz0C9ZwusoYHsr5K8b0HW) | [In Love](https://open.spotify.com/album/2KlIpwlJnD92CbIQp3CiIm) | 2:15 |
 | 78 | [Fallboard](https://open.spotify.com/track/4vCdNdBT7N2t9ajQHxIR92) | [Esther Dutch](https://open.spotify.com/artist/5dE53rEeytVtDqFaOViuZ7) | [Fallboard](https://open.spotify.com/album/265fflCLaUsPMiMkX4ies2) | 2:40 |
-| 79 | [Ocean And 17th](https://open.spotify.com/track/2IUuk04dZVG8KRBJpcrpzt) | [Lummus Park](https://open.spotify.com/artist/6aLdEQv4u2nemqw1v3cQmH) | [Ocean And 17th](https://open.spotify.com/album/4YEDcRREGpiZpyziVG4jIh) | 3:09 |
-| 80 | [Nos](https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [The Wind](https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj) | 1:21 |
+| 79 | [My Piano Night](https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Blue Hour](https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx) | 4:45 |
+| 80 | [Ocean And 17th](https://open.spotify.com/track/2IUuk04dZVG8KRBJpcrpzt) | [Lummus Park](https://open.spotify.com/artist/6aLdEQv4u2nemqw1v3cQmH) | [Ocean And 17th](https://open.spotify.com/album/4YEDcRREGpiZpyziVG4jIh) | 3:09 |
 | 81 | [Branches étoilées](https://open.spotify.com/track/4FoP6Z1UO96TSRdjD4aAQq) | [Leonard Czernay](https://open.spotify.com/artist/4432QSnb7mXXq9Mo2hPLRM) | [Branches étoilées](https://open.spotify.com/album/1EpKF5KgUMncRXA0hC4MJj) | 2:46 |
-| 82 | [My Piano Night](https://open.spotify.com/track/31dgOyBLg64GEgdbsBjwXy) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [The Blue Hour](https://open.spotify.com/album/39eaolcUiLPvOYBVwfgIEx) | 4:45 |
+| 82 | [Nos](https://open.spotify.com/track/5QIm5UVUJhPrpXwfFXAgKI) | [Balmorhea](https://open.spotify.com/artist/1U0FaHAc4fcwQcYEJFgkm9) | [The Wind](https://open.spotify.com/album/4Ud5YQc9KHMuj0TQQfvnnj) | 1:21 |
 | 83 | [Inner Child](https://open.spotify.com/track/68nmWUVocivtdIOe9dYTH5) | [Louise Lennehan](https://open.spotify.com/artist/3qDXOw6W1ocOSAJQoE4TPW) | [The Sacred Self](https://open.spotify.com/album/65DCR1ubmwGmG5u0ijqPbm) | 3:08 |
 | 84 | [Palette](https://open.spotify.com/track/44OOm3Op6tXw3gePWBtiI2) | [Denise Santoz](https://open.spotify.com/artist/4Uovljndj83LXd0QLdSCtp) | [Palette](https://open.spotify.com/album/72ail4RoAjee7GtdCcOOTY) | 3:46 |
 | 85 | [Tient qu'à un fil](https://open.spotify.com/track/1DXbUPygEVCQXOOOO9bIhO) | [Gaspar Parentau](https://open.spotify.com/artist/1MmYji7itTSkju9XROcoIQ) | [Tient qu'à un fil](https://open.spotify.com/album/23AhF6hK4a1bAONNOz37qr) | 2:47 |
 | 86 | [Mystique](https://open.spotify.com/track/47u0q4Z7iALJXli6pkcnvA) | [Cassandra Nestico](https://open.spotify.com/artist/5rJMWRWoISTfzsFsGHSzP9) | [Mystique](https://open.spotify.com/album/3XDrOM2hdwuRYvqlmTQFvL) | 2:30 |
-| 87 | [Remembrance](https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG) | [Jen Libby](https://open.spotify.com/artist/7njdkPTNcWVWTncUFVlR3w) | [Remembrance](https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr) | 2:28 |
-| 88 | [Gently](https://open.spotify.com/track/2O6Iydf5216CgF3v0jTN95) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Gently](https://open.spotify.com/album/5W8DqZ91qSx6HlRDaorcaN) | 2:07 |
-| 89 | [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 |
-| 90 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 |
-| 91 | [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 |
-| 92 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 |
+| 87 | [Gently](https://open.spotify.com/track/2O6Iydf5216CgF3v0jTN95) | [Levi Stills](https://open.spotify.com/artist/1SsPpMBBiD7g5iVFkJepaO) | [Gently](https://open.spotify.com/album/5W8DqZ91qSx6HlRDaorcaN) | 2:07 |
+| 88 | [Remembrance](https://open.spotify.com/track/0OVn0hQeQmvIdTcUiY5sEG) | [Jen Libby](https://open.spotify.com/artist/7njdkPTNcWVWTncUFVlR3w) | [Remembrance](https://open.spotify.com/album/7zM9YVLmgnBAyaXK3HuIKr) | 2:28 |
+| 89 | [Endless Summer](https://open.spotify.com/track/6rpe9Mdf5msSSHYZHOPuRA) | [Alexander Motovilov](https://open.spotify.com/artist/5jeXvO9stGQvyuo861praw) | [Endless Summer](https://open.spotify.com/album/6zyluI1jtjlirqAKuaCgmJ) | 2:45 |
+| 90 | [Amorzinho \- Piano Version](https://open.spotify.com/track/0QDTA0d6RMhVZbgTaVHHsp) | [Tip Ferreira](https://open.spotify.com/artist/3TSlZVPsG99cbGNs8AJAYw) | [Amorzinho \(Piano Version\)](https://open.spotify.com/album/455AYqMGwATvf8WG5JXfyJ) | 3:36 |
+| 91 | [Maiestas](https://open.spotify.com/track/0rZYsX5OgshLXSj4zumlxx) | [Keiko Ishida](https://open.spotify.com/artist/5kiKC3sVss9s7fjEa1HDLW) | [Maiestas](https://open.spotify.com/album/7oCpbL8Bgz9eoaYXc4Lyok) | 2:51 |
+| 92 | [Is it Over](https://open.spotify.com/track/2CK7J3mSxn2KBfgbDoGcW2) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Amuse Bouche](https://open.spotify.com/album/1N8DybvTCUqWBkEUvqUS5q) | 3:17 |
 | 93 | [Winter Birds](https://open.spotify.com/track/0sAgJJf8kr1NcwrWGrh0NN) | [Algoth Holmes](https://open.spotify.com/artist/1T6WU2UcLZhrtMLEva6RJl) | [Way Back Home](https://open.spotify.com/album/07R3bhJLKUd2GyrjOlAOzh) | 2:50 |
 | 94 | [Elevate](https://open.spotify.com/track/4hHEz6u8xPXcTU4qmVNkpq) | [Nelson Haynes](https://open.spotify.com/artist/1rOFIl5TolohZGyTxJni75) | [Elevate](https://open.spotify.com/album/6Nl9NX8dwkAbKS3BB5dRlO) | 3:08 |
 | 95 | [The Piano Inside](https://open.spotify.com/track/0BtymruMtXTo6vdk4LH4aB) | [Milo Edale](https://open.spotify.com/artist/6ht27sA8oqmvcG4a2gcCsk) | [The Piano Inside](https://open.spotify.com/album/7dwDcfD6Oo51Vp2bdXwkeO) | 3:11 |

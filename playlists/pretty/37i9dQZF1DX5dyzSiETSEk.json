@@ -1,6 +1,6 @@
 {
   "description": "The whole family will enjoy popular hits from yesterday and today!",
-  "num_followers": 585126,
+  "num_followers": 585135,
   "original_name": "Pop for Kids",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-08-06 19:46:59",
       "album": {
-        "name": "Better When I'm Dancin'",
-        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
-      },
-      "artists": [
-        {
-          "name": "Meghan Trainor",
-          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
-        }
-      ],
-      "duration_ms": 176266,
-      "name": "Better When I'm Dancin'",
-      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
-    },
-    {
-      "added_at": "2024-08-06 19:46:59",
-      "album": {
         "name": "Talking Dreams (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1oHY6eQmEG8skElDvFgKz2"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 237626,
       "name": "Cool Kids",
       "url": "https://open.spotify.com/track/13P5rwmk2EsoFRIz9UCeh9"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
+        "name": "Better When I'm Dancin'",
+        "url": "https://open.spotify.com/album/6C2AXbI5gZZ0eEFEQY83yH"
+      },
+      "artists": [
+        {
+          "name": "Meghan Trainor",
+          "url": "https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz"
+        }
+      ],
+      "duration_ms": 176266,
+      "name": "Better When I'm Dancin'",
+      "url": "https://open.spotify.com/track/5k5fWendNngd89O8JKoE8L"
     },
     {
       "added_at": "2024-08-06 19:46:59",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-08-06 19:46:59",
       "album": {
+        "name": "Surfers Paradise (Expanded)",
+        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
+      },
+      "artists": [
+        {
+          "name": "Cody Simpson",
+          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
+        }
+      ],
+      "duration_ms": 196786,
+      "name": "La Da Dee",
+      "url": "https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe"
+    },
+    {
+      "added_at": "2024-08-06 19:46:59",
+      "album": {
         "name": "TROLLS Band Together (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5izS9lEKFma3NVRl6uBbTs"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 150266,
       "name": "Watch Me Work",
       "url": "https://open.spotify.com/track/0ukPlkEhhWPQWKq5b2awnn"
-    },
-    {
-      "added_at": "2024-08-06 19:46:59",
-      "album": {
-        "name": "Surfers Paradise (Expanded)",
-        "url": "https://open.spotify.com/album/5oQFHp1OcYC9eHYTG84vAH"
-      },
-      "artists": [
-        {
-          "name": "Cody Simpson",
-          "url": "https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K"
-        }
-      ],
-      "duration_ms": 196786,
-      "name": "La Da Dee",
-      "url": "https://open.spotify.com/track/0ccwMrlZONy5yXrirq7lTe"
     },
     {
       "added_at": "2024-08-06 19:46:59",

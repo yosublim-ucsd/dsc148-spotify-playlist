@@ -1,6 +1,6 @@
 {
   "description": "Vieja escuela y de ahora \ud83d\udcf8 Los Turros.",
-  "num_followers": 572567,
+  "num_followers": 572628,
   "original_name": "Cumbia villera",
   "owner": {
     "name": "Spotify",
@@ -895,6 +895,22 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
+        "name": "Tamo Chelo",
+        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
+      },
+      "artists": [
+        {
+          "name": "EL NOBA",
+          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
+        }
+      ],
+      "duration_ms": 112507,
+      "name": "Tamo Chelo",
+      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
+    },
+    {
+      "added_at": "2025-01-17 03:00:07",
+      "album": {
         "name": "DISCULPE OFICIAL",
         "url": "https://open.spotify.com/album/2tK3L7byFI4TF0q9OfoDKg"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 122455,
       "name": "DISCULPE OFICIAL",
       "url": "https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG"
-    },
-    {
-      "added_at": "2025-01-17 03:00:07",
-      "album": {
-        "name": "Tamo Chelo",
-        "url": "https://open.spotify.com/album/0Qq7s35RRXlEWQKsZIJ2DD"
-      },
-      "artists": [
-        {
-          "name": "EL NOBA",
-          "url": "https://open.spotify.com/artist/5MVcNHzaXuOnZSrOav2Kav"
-        }
-      ],
-      "duration_ms": 112507,
-      "name": "Tamo Chelo",
-      "url": "https://open.spotify.com/track/1Hv5uEwnI5UQEFvHWJaL3T"
     },
     {
       "added_at": "2025-01-17 03:00:07",
@@ -975,54 +975,6 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
-        "name": "Homenaje a Colombia",
-        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Y Su Combo Negro",
-          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
-        }
-      ],
-      "duration_ms": 232760,
-      "name": "La Pollera de Jimmy",
-      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
-    },
-    {
-      "added_at": "2025-01-17 03:00:07",
-      "album": {
-        "name": "Barrio Prendido",
-        "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
-      },
-      "artists": [
-        {
-          "name": "The La Planta",
-          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
-        },
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/3RBwlm5DeZ9ywEknLEqIzr"
-        },
-        {
-          "name": "Marka Akme",
-          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
-        },
-        {
-          "name": "MOMO",
-          "url": "https://open.spotify.com/artist/6Oa7dtz85WbPv9pYDcRSDN"
-        },
-        {
-          "name": "Pushi",
-          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
-        }
-      ],
-      "duration_ms": 240008,
-      "name": "Barrio Prendido",
-      "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
-    },
-    {
-      "added_at": "2025-01-17 03:00:07",
-      "album": {
         "name": "La Repandilla",
         "url": "https://open.spotify.com/album/7wUrqsk3ts4yUYsKNWnWpi"
       },
@@ -1035,38 +987,6 @@
       "duration_ms": 208631,
       "name": "La Mejor de Todas",
       "url": "https://open.spotify.com/track/3JfGUpclRKRkhp4QdqHckz"
-    },
-    {
-      "added_at": "2025-01-17 03:00:07",
-      "album": {
-        "name": "Pibes Chorros - Criando Cuervos",
-        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
-      },
-      "artists": [
-        {
-          "name": "Los Pibes Chorros",
-          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
-        }
-      ],
-      "duration_ms": 193080,
-      "name": "La colorada",
-      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
-    },
-    {
-      "added_at": "2025-01-17 03:00:07",
-      "album": {
-        "name": "Es Corta la Bocha",
-        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
-      },
-      "artists": [
-        {
-          "name": "Eh!!! Guacho",
-          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
-        }
-      ],
-      "duration_ms": 152813,
-      "name": "Baila Sola",
-      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
     },
     {
       "added_at": "2025-01-17 03:00:07",
@@ -1103,6 +1023,86 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
+        "name": "Homenaje a Colombia",
+        "url": "https://open.spotify.com/album/5QeijHM4iXhRVqrw9HBpg7"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Y Su Combo Negro",
+          "url": "https://open.spotify.com/artist/2Kos2hpYxoC9itiKmODwNY"
+        }
+      ],
+      "duration_ms": 232760,
+      "name": "La Pollera de Jimmy",
+      "url": "https://open.spotify.com/track/0JMpgXpB4lGwRa8SCo9ADD"
+    },
+    {
+      "added_at": "2025-01-17 03:00:07",
+      "album": {
+        "name": "Pibes Chorros - Criando Cuervos",
+        "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
+      },
+      "artists": [
+        {
+          "name": "Los Pibes Chorros",
+          "url": "https://open.spotify.com/artist/3TINnlLcMBQA88OoalsvYR"
+        }
+      ],
+      "duration_ms": 193080,
+      "name": "La colorada",
+      "url": "https://open.spotify.com/track/6h7rsBRyWze6oa1idGeRrY"
+    },
+    {
+      "added_at": "2025-01-17 03:00:07",
+      "album": {
+        "name": "Es Corta la Bocha",
+        "url": "https://open.spotify.com/album/3G9FLQq5jEbBVfdsjxp1BM"
+      },
+      "artists": [
+        {
+          "name": "Eh!!! Guacho",
+          "url": "https://open.spotify.com/artist/2iRVMe7HOINAwwEpGCU2mF"
+        }
+      ],
+      "duration_ms": 152813,
+      "name": "Baila Sola",
+      "url": "https://open.spotify.com/track/3umahkAeAgMSu0bf9gsdDA"
+    },
+    {
+      "added_at": "2025-01-17 03:00:07",
+      "album": {
+        "name": "Barrio Prendido",
+        "url": "https://open.spotify.com/album/1y2ar7cUSgVihUHXeCI21J"
+      },
+      "artists": [
+        {
+          "name": "The La Planta",
+          "url": "https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS"
+        },
+        {
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/3RBwlm5DeZ9ywEknLEqIzr"
+        },
+        {
+          "name": "Marka Akme",
+          "url": "https://open.spotify.com/artist/4SgKWjM7cJDCh2aY9H4HZf"
+        },
+        {
+          "name": "MOMO",
+          "url": "https://open.spotify.com/artist/6Oa7dtz85WbPv9pYDcRSDN"
+        },
+        {
+          "name": "Pushi",
+          "url": "https://open.spotify.com/artist/1l6UgL5G16tId4qoYH8qJn"
+        }
+      ],
+      "duration_ms": 240008,
+      "name": "Barrio Prendido",
+      "url": "https://open.spotify.com/track/2I3qA0KslRCxFTfZnPyDhf"
+    },
+    {
+      "added_at": "2025-01-17 03:00:07",
+      "album": {
         "name": "Me Declaro Culpable",
         "url": "https://open.spotify.com/album/4yYNMESzEFHZ0aJkUWGkVn"
       },
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 234863,
+      "name": "Triste Palomita",
+      "url": "https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2"
+    },
+    {
+      "added_at": "2025-01-17 03:00:07",
+      "album": {
         "name": "CALLEJERO FINO | Mission 10",
         "url": "https://open.spotify.com/album/3iqAvQSDTyB34WTmKmL7hB"
       },
@@ -1151,22 +1167,6 @@
       "duration_ms": 168994,
       "name": "CALLEJERO FINO | Mission 10",
       "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
-    },
-    {
-      "added_at": "2025-01-17 03:00:07",
-      "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 234863,
-      "name": "Triste Palomita",
-      "url": "https://open.spotify.com/track/1SX37vPJPxTVA9HLAw0Gm2"
     },
     {
       "added_at": "2025-01-17 03:00:07",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
-        "name": "Los Maleantes",
-        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
-      },
-      "artists": [
-        {
-          "name": "La Piedra Urbana",
-          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
-        }
-      ],
-      "duration_ms": 164780,
-      "name": "Sentado en la Esquina",
-      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
-    },
-    {
-      "added_at": "2025-01-17 03:00:07",
-      "album": {
         "name": "Triste Palomita",
         "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
       },
@@ -1359,18 +1343,18 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
-        "name": "Y Si Est\u00e1s Perseguido...!",
-        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+        "name": "Los Maleantes",
+        "url": "https://open.spotify.com/album/4Qjy0jhjBUFH1btd8lmg6Q"
       },
       "artists": [
         {
-          "name": "El Perro",
-          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+          "name": "La Piedra Urbana",
+          "url": "https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt"
         }
       ],
-      "duration_ms": 161410,
-      "name": "Te Escapas De Mis Brazos",
-      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
+      "duration_ms": 164780,
+      "name": "Sentado en la Esquina",
+      "url": "https://open.spotify.com/track/2KTrV1P4FIooFm8wFRcUBQ"
     },
     {
       "added_at": "2025-01-17 03:00:07",
@@ -1387,6 +1371,22 @@
       "duration_ms": 246240,
       "name": "Traigo Una Rosa",
       "url": "https://open.spotify.com/track/4CVezbl39jn7YIDcid9eXI"
+    },
+    {
+      "added_at": "2025-01-17 03:00:07",
+      "album": {
+        "name": "Y Si Est\u00e1s Perseguido...!",
+        "url": "https://open.spotify.com/album/4UeRqgzWD9WsGWpbpsiAeq"
+      },
+      "artists": [
+        {
+          "name": "El Perro",
+          "url": "https://open.spotify.com/artist/7eCZ5oRjRXT5FGfJ36pPTM"
+        }
+      ],
+      "duration_ms": 161410,
+      "name": "Te Escapas De Mis Brazos",
+      "url": "https://open.spotify.com/track/2sSWZSjYU38Hmy32P6ECt8"
     },
     {
       "added_at": "2025-01-17 03:00:07",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
-        "name": "Triste Palomita",
-        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
-      },
-      "artists": [
-        {
-          "name": "Escucha!",
-          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
-        }
-      ],
-      "duration_ms": 256463,
-      "name": "Quiero una chica",
-      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
-    },
-    {
-      "added_at": "2025-01-17 03:00:07",
-      "album": {
         "name": "El Autentico Creador De La Cumbia Callejera",
         "url": "https://open.spotify.com/album/4zruxAuHRzEjbpGB07ycdq"
       },
@@ -1511,6 +1495,22 @@
       "duration_ms": 215640,
       "name": "Carta A Un Amigo",
       "url": "https://open.spotify.com/track/4ddL0CTugJEPHOyxOc7K02"
+    },
+    {
+      "added_at": "2025-01-17 03:00:07",
+      "album": {
+        "name": "Triste Palomita",
+        "url": "https://open.spotify.com/album/2wyrgXe79p4vY4Y0QlyFB7"
+      },
+      "artists": [
+        {
+          "name": "Escucha!",
+          "url": "https://open.spotify.com/artist/2U4caDhaqjDdjVg9Uyp0bp"
+        }
+      ],
+      "duration_ms": 256463,
+      "name": "Quiero una chica",
+      "url": "https://open.spotify.com/track/41sxeJzkP7TMCEDAvmaXBO"
     },
     {
       "added_at": "2025-01-17 03:00:07",
@@ -1683,26 +1683,18 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
-        "name": "6to Sentido (Una Vuelta)",
-        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
+        "name": "A Todo Remix",
+        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
       },
       "artists": [
         {
-          "name": "DT.Bilardo",
-          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
-        },
-        {
-          "name": "Perro Primo",
-          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
-        },
-        {
-          "name": "DJ Cronox",
-          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
+          "name": "Puro Movimiento DJ",
+          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
         }
       ],
-      "duration_ms": 128265,
-      "name": "6to Sentido (Una Vuelta)",
-      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
+      "duration_ms": 237586,
+      "name": "Porque te vas",
+      "url": "https://open.spotify.com/track/1PgqERsYRG7eEmk3C5Ltls"
     },
     {
       "added_at": "2025-01-17 03:00:07",
@@ -1739,18 +1731,26 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
-        "name": "A Todo Remix",
-        "url": "https://open.spotify.com/album/35MkUNVLgqZFRxlXc3Tgod"
+        "name": "6to Sentido (Una Vuelta)",
+        "url": "https://open.spotify.com/album/4u3hJm3bh7L8lcANjjUINr"
       },
       "artists": [
         {
-          "name": "Puro Movimiento DJ",
-          "url": "https://open.spotify.com/artist/4iIPpaogGdOBKNikJTz04q"
+          "name": "DT.Bilardo",
+          "url": "https://open.spotify.com/artist/5kfMU816qY0ujqEt3xIHqR"
+        },
+        {
+          "name": "Perro Primo",
+          "url": "https://open.spotify.com/artist/4MUsDaGK0nPDJvYSoaoFUA"
+        },
+        {
+          "name": "DJ Cronox",
+          "url": "https://open.spotify.com/artist/3xEW53mjWRObQjw1yu6fvi"
         }
       ],
-      "duration_ms": 237586,
-      "name": "Porque te vas",
-      "url": "https://open.spotify.com/track/1PgqERsYRG7eEmk3C5Ltls"
+      "duration_ms": 128265,
+      "name": "6to Sentido (Una Vuelta)",
+      "url": "https://open.spotify.com/track/0j2p4MTvu6tfrK8UsKLS31"
     },
     {
       "added_at": "2025-01-17 03:00:07",

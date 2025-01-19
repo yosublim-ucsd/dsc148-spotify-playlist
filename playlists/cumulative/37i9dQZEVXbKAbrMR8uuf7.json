@@ -7274,7 +7274,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 174288,
       "name": "De tu amor",
       "url": "https://open.spotify.com/track/0wBewzClu7ZeunloGZpvhu"
@@ -8346,7 +8346,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 251667,
       "name": "Die With A Smile",
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
@@ -17319,6 +17319,24 @@
     },
     {
       "album": {
+        "name": "Lil Naay Pa Tripea",
+        "url": "https://open.spotify.com/album/24y5GSGg8u1t9o7TCyUsZZ"
+      },
+      "artists": [
+        {
+          "name": "Lillmusic.in",
+          "url": "https://open.spotify.com/artist/3UdYS3dXLszm1tb2IlvHtk"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133770,
+      "name": "Lil Naay Pa Tripea",
+      "url": "https://open.spotify.com/track/20VrNT97LUbZ5Hor3J4UhU"
+    },
+    {
+      "album": {
         "name": "Linda",
         "url": "https://open.spotify.com/album/6rFyXU9FiGytyYqfbwYO09"
       },
@@ -23100,7 +23118,7 @@
       ],
       "date_added": "2024-11-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 133669,
       "name": "Pa Tripea",
       "url": "https://open.spotify.com/track/2NKe3jG4Tsdarixp87OnCE"
@@ -24298,7 +24316,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 178066,
       "name": "Perreo Tiktoker",
       "url": "https://open.spotify.com/track/5VB4VcjbZbEaeyWP0qY304"
@@ -28860,6 +28878,28 @@
       "duration_ms": 181106,
       "name": "SEJODIOTO",
       "url": "https://open.spotify.com/track/704LUEih663hiE3CnyUrFW"
+    },
+    {
+      "album": {
+        "name": "Selena",
+        "url": "https://open.spotify.com/album/6xksdawoI89NlTsFofYMMq"
+      },
+      "artists": [
+        {
+          "name": "Brazil21",
+          "url": "https://open.spotify.com/artist/1AVZxsgWEtXAGauXkPEHwm"
+        },
+        {
+          "name": "Lomiiel",
+          "url": "https://open.spotify.com/artist/2rMFPjySMqkgBajkLKL6zo"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155809,
+      "name": "Selena",
+      "url": "https://open.spotify.com/track/1DXmGJ0Wj3PVuyIBfipz03"
     },
     {
       "album": {

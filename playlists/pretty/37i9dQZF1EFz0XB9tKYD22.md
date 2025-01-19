@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7Co1jvHSQ9FFXOEY0TdPHQ">Hillary Lindsey</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 383 likes - 343 songs - 20 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 384 likes - 343 songs - 20 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 48 | [Hate My Heart](https://open.spotify.com/track/4oGCfTHN1hmXGy5mqmJVc3) | [Carrie Underwood](https://open.spotify.com/artist/4xFUf1FHVy696Q1JQZMTRj) | [Denim & Rhinestones](https://open.spotify.com/album/2owWAe2Sg7kh14s1JzR67u) | 3:03 |
 | 49 | [Unapologetically](https://open.spotify.com/track/2qeMy5mI5ovLGG6rUYnjj7) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF) | [Unapologetically](https://open.spotify.com/album/76TPKafjzyzB1PjXOuvRtT) | 3:38 |
 | 50 | [See You Next Summer](https://open.spotify.com/track/4UHcW6UABWfi7GwFI5jBcS) | [Brian Kelley](https://open.spotify.com/artist/46c50yWMo9wiTgVe1VxBbQ) | [Tennessee Truth](https://open.spotify.com/album/3JXT0VtuMwE4kdZh0KErF8) | 2:37 |
-| 51 | [Don't Text Me When You're Drunk](https://open.spotify.com/track/3xSoK8ldUubd66INPOszNi) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Don't Text Me When You're Drunk](https://open.spotify.com/album/5AMveWacvgD5dNeZlXlr4c) | 3:14 |
-| 52 | [Tryin' to Love Me](https://open.spotify.com/track/4n2bcosyUN2mMAqovwqKRP) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Old Boots, New Dirt](https://open.spotify.com/album/5i2qu2FGIYy2BMhHDKST43) | 3:45 |
+| 51 | [Tryin' to Love Me](https://open.spotify.com/track/4n2bcosyUN2mMAqovwqKRP) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [Old Boots, New Dirt](https://open.spotify.com/album/5i2qu2FGIYy2BMhHDKST43) | 3:45 |
+| 52 | [Don't Text Me When You're Drunk](https://open.spotify.com/track/3xSoK8ldUubd66INPOszNi) | [Stacey Ryan](https://open.spotify.com/artist/3sXwEUqxSzb11VpuFa5cvJ), [Zai1k](https://open.spotify.com/artist/2ORU5xiGsr9qfRKNvZ3UII) | [Don't Text Me When You're Drunk](https://open.spotify.com/album/5AMveWacvgD5dNeZlXlr4c) | 3:14 |
 | 53 | [Tequila On A Boat \(feat\. Chris Lane\)](https://open.spotify.com/track/4idLLtLm3rxGAZPyyiqYhE) | [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Blue In The Sky](https://open.spotify.com/album/2u0DD4sNHOcgbuJrJyMUu3) | 3:07 |
 | 54 | [The Only One I Know \(Cowboy Life\)](https://open.spotify.com/track/2hDGiGNj8DXkxO7AXj6oOX) | [Cody Johnson](https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I) | [Gotta Be Me](https://open.spotify.com/album/5TxhzESD1pW7osKlZRFNYD) | 3:59 |
 | 55 | [Telescope](https://open.spotify.com/track/4wqonrBExUZTIsm6FV2dJZ) | [Nashville Cast](https://open.spotify.com/artist/2NvmDZar6FF2CICK1yBS4I), [Lennon & Maisy](https://open.spotify.com/artist/720fJ5sGqAOhvU2IUypqIr) | [The Nashville Cast Featuring Lennon & Maisy Stella As Maddie & Daphne Conrad](https://open.spotify.com/album/71OuGqEMd5o77pF3PaBOHw) | 2:28 |
@@ -250,8 +250,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 240 | [Mine](https://open.spotify.com/track/6LxvSVIXjn7Qy8vIW5E5S0) | [Swordbelt's Band](https://open.spotify.com/artist/3iB2MxQhPEr7ShkGKH29bk) | [Top Hits\-Country](https://open.spotify.com/album/7wVFWTUWTVIf8Qp4z0ON1w) | 3:56 |
 | 241 | [That's Why God Made Guitars](https://open.spotify.com/track/0PLDRD7EXSVkFcR2Xy3eAo) | [Brett Kissel](https://open.spotify.com/artist/6VOaUBrKfzd49nIAzjVKmm) | [Pick Me Up](https://open.spotify.com/album/2AIjGgi7S3zWimTIekSxYj) | 3:19 |
 | 242 | [North Pole](https://open.spotify.com/track/0dQE4CFjAG204JLAML95Cm) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Christmas is Right Here](https://open.spotify.com/album/64nzajicSCtDOXYbedroJv) | 3:35 |
-| 243 | [Starlight](https://open.spotify.com/track/2SXIud8vEZJ8vmRha7WDuZ) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:24 |
-| 244 | [Wild Is Her Favorite Color](https://open.spotify.com/track/6cdSWhFCGjOEJg0A2Rv8oC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 4:06 |
+| 243 | [Wild Is Her Favorite Color](https://open.spotify.com/track/6cdSWhFCGjOEJg0A2Rv8oC) | [Jenna Paulette](https://open.spotify.com/artist/6wCypaPtud9fC2djKw9PDX) | [Horseback](https://open.spotify.com/album/3B9J0OHqfInPblBcgVBQhP) | 4:06 |
+| 244 | [Starlight](https://open.spotify.com/track/2SXIud8vEZJ8vmRha7WDuZ) | [Lori McKenna](https://open.spotify.com/artist/1OV5mEATxtVma7fleFaUyl) | [Numbered Doors](https://open.spotify.com/album/0nCbtAU3ojDJz83Cx0iD8y) | 3:24 |
 | 245 | [So Magical](https://open.spotify.com/track/01JLUwhRyHMOqjteJFYhct) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 3:51 |
 | 246 | [When You Love Me](https://open.spotify.com/track/2zxYSJr8384Vtyjr46Lstz) | [Martina McBride](https://open.spotify.com/artist/3P33qFNGBVXl86yQYWspFj) | [Martina](https://open.spotify.com/album/3xtQSAQgeAV6TcvzyF4iDd) | 4:30 |
 | 247 | [Rose\-Colored Rearview](https://open.spotify.com/track/0kdW43oNL3rAK08YB1VXFD) | [Grace Potter](https://open.spotify.com/artist/1PJVVIeS5Wu0wbZDhtC0Ht) | [Mother Road](https://open.spotify.com/album/5LjmGiV7L4vzjS5F2cLPUf) | 3:58 |
@@ -352,4 +352,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFz0XB9tKYD22.md) - [plain]
 | 342 | [I'm Gone](https://open.spotify.com/track/3GdOcYTlNMirnl0o0tWLkb) | [Paul Dunn](https://open.spotify.com/artist/7amKjhbrhokyIBk0bYjoFg) | [Out of the Shadows](https://open.spotify.com/album/6OW6DnU2bnqupmngFZtIHu) | 3:59 |
 | 343 | [I Won't Lie](https://open.spotify.com/track/6eDFmuT7OW5TQGERzto20z) | [BFM Hits](https://open.spotify.com/artist/6Xdp9Oz4PJJB9O0yoZmg7r) | [Karaoke: Country Hits 1998, Vol\. 11](https://open.spotify.com/album/0QvHzG6xAWCUjxzuoIuyUb) | 3:20 |
 
-Snapshot ID: `AbnI9AAAAAA9Db3shK5rw/1k5Vei2Hqs`
+Snapshot ID: `AbnOigAAAADdGQ2A99WcwjH5pMxDZs8Q`

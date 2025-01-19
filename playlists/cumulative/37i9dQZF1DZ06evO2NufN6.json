@@ -16,7 +16,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 278506,
       "name": "100 Grandkids",
       "url": "https://open.spotify.com/track/4z0PnuB07fxtVZZRWsCfxb"
@@ -88,7 +88,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 292466,
       "name": "Ascension",
       "url": "https://open.spotify.com/track/19CkkPInDRDIOlqfrz1mVn"
@@ -142,7 +142,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 159119,
       "name": "Best Day Ever",
       "url": "https://open.spotify.com/track/1sVJY4n3fJOcrSiTA8oAos"
@@ -178,7 +178,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 228440,
       "name": "Buttons",
       "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
@@ -381,6 +381,24 @@
     },
     {
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204564,
+      "name": "Do You Have A Destination?",
+      "url": "https://open.spotify.com/track/1KwIDHEK3CYbHPJUTMxxNu"
+    },
+    {
+      "album": {
         "name": "Best Day Ever (5th Anniversary Remastered Edition)",
         "url": "https://open.spotify.com/album/0YA7XxxfkaGwecj3liSTvj"
       },
@@ -454,10 +472,46 @@
       ],
       "date_added": "2024-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 301769,
       "name": "Fight the Feeling (feat. Kendrick Lamar & Iman Omari)",
       "url": "https://open.spotify.com/track/0jFxJ1US3dmwQn7DJi269h"
+    },
+    {
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285805,
+      "name": "Friendly Hallucinations",
+      "url": "https://open.spotify.com/track/1lw3asU5xp73sdBy0rYsuK"
+    },
+    {
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263941,
+      "name": "Funny Papers",
+      "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
     },
     {
       "album": {
@@ -526,7 +580,7 @@
       ],
       "date_added": "2024-03-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 35723,
       "name": "Hole In My Pocket",
       "url": "https://open.spotify.com/track/3McH4Z1SYLn2Ibv9pjN51R"
@@ -696,6 +750,24 @@
       "duration_ms": 178902,
       "name": "Missed Calls",
       "url": "https://open.spotify.com/track/2ySc7XpO3sdt01UG986MwE"
+    },
+    {
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244857,
+      "name": "Mrs. Deborah Downer",
+      "url": "https://open.spotify.com/track/5auyZ3WJq8klh6OnhzBU35"
     },
     {
       "album": {
@@ -884,7 +956,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 153881,
       "name": "Rain (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd"
@@ -974,10 +1046,28 @@
       ],
       "date_added": "2023-07-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 175782,
       "name": "Senior Skip Day",
       "url": "https://open.spotify.com/track/3BbS4oLUDNOLctshheQucc"
+    },
+    {
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169273,
+      "name": "Shangri-La",
+      "url": "https://open.spotify.com/track/2VOnMNQWQ44OqHWwvXn5z6"
     },
     {
       "album": {
@@ -1089,6 +1179,24 @@
     },
     {
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243522,
+      "name": "Stoned",
+      "url": "https://open.spotify.com/track/1e3AdX6I8gaQKjQMONn9tA"
+    },
+    {
+      "album": {
         "name": "Circles",
         "url": "https://open.spotify.com/album/5sY6UIQ32GqwMLAfSNEaXb"
       },
@@ -1104,6 +1212,24 @@
       "duration_ms": 330506,
       "name": "Surf",
       "url": "https://open.spotify.com/track/1kwnxJNVl7cwcU98RvMBaR"
+    },
+    {
+      "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33141,
+      "name": "Tambourine Dream",
+      "url": "https://open.spotify.com/track/5eAKaGCR0QEuPOxOo0zXqs"
     },
     {
       "album": {
@@ -1184,7 +1310,7 @@
       ],
       "date_added": "2024-05-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 371870,
       "name": "The Question (feat. Lil Wayne)",
       "url": "https://open.spotify.com/track/29tKprMGnf4yxIhWmN0NHq"
@@ -1202,7 +1328,7 @@
       ],
       "date_added": "2023-06-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 163033,
       "name": "The Scoop On Heaven",
       "url": "https://open.spotify.com/track/2nZPwKpV75BQpn9snGy2xG"

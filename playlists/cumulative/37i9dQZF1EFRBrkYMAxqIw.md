@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6UztFn6QlpVV2mxivfMFol">Hannah Wilson</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-143 songs - 7 hr 33 min
+144 songs - 7 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/track/4esyKRHqA3E57OuXm8U8Mu) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm), [HRVY](https://open.spotify.com/artist/28y6CyJNkGNjJQKrlx4AmN) | [Am I The Only One \(with Astrid S & HRVY\)](https://open.spotify.com/album/4g9Aep5KECuUy65mvm2wUs) | 2:32 | 2022-05-25 |  |
 | [American Spirits](https://open.spotify.com/track/2Aza8RDhzkcY8Ee27HsGdq) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/4oroUN99tUCHorAFBW3QFN) | 2:45 | 2022-08-20 |  |
 | [Baby Teeth](https://open.spotify.com/track/6EmpAm2TG5olS2OEdGRsy8) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Baby Teeth](https://open.spotify.com/album/7GVHPxSJrUJcb3sA7DhiDS) | 3:16 | 2022-05-25 |  |
+| [Back to Loving You](https://open.spotify.com/track/79Soo1jhXGYqaFfLS68rcr) | [Gracie Ella](https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj) | [Back to Loving You](https://open.spotify.com/album/2U2ZgBUG21VP9mG2UU3XWC) | 3:54 | 2025-01-18 |  |
 | [Back To Summer](https://open.spotify.com/track/1ecT8HKw4RnjgGoC63jHXI) | [Shift K3Y](https://open.spotify.com/artist/26OrZl5U3VNGHU9qUj8EcM) | [Back To Summer](https://open.spotify.com/album/0Ri4Tg1CvxhvaDKmHtf8X5) | 3:01 | 2022-05-25 |  |
 | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/track/1tQNwQeYxq5FsSm0FALERe) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io), [Glowie](https://open.spotify.com/artist/303SwmjLibkh8OJH5xxZOM) | [Better Without You \(feat\. Glowie\)](https://open.spotify.com/album/3WbGTK5SA0XEc7bbUVgHUt) | 2:27 | 2022-05-25 |  |
 | [Big Feelings](https://open.spotify.com/track/6DEf0oAPdhAA90LUy7tOd0) | [EYJAA](https://open.spotify.com/artist/3Izf45JtVxEjBMvq5vJOsg) | [Big Feelings](https://open.spotify.com/album/4hpkCPORoCgGW8iEvbb3D2) | 2:39 | 2022-07-26 |  |

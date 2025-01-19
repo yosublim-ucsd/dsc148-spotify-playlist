@@ -1,6 +1,6 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 71366,
+  "num_followers": 71420,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 128333,
-      "name": "Morenita Labios Rojos",
-      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
+      "duration_ms": 179146,
+      "name": "Soy Para Ti",
+      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 179146,
-      "name": "Soy Para Ti",
-      "url": "https://open.spotify.com/track/2heuUbIlUGo61dgA4rqXy7"
+      "duration_ms": 128333,
+      "name": "Morenita Labios Rojos",
+      "url": "https://open.spotify.com/track/25gGaMURpL6xXOKTuyrYj6"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -955,6 +955,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
+        "name": "A Donde Vas Chiquilla",
+        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+      },
+      "artists": [
+        {
+          "name": "La Fuerza de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+        }
+      ],
+      "duration_ms": 216040,
+      "name": "El Rengo Del Gallo Giro",
+      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
         "name": "Los De Tierra Caliente (En Vivo)",
         "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
@@ -975,34 +991,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "A Donde Vas Chiquilla",
-        "url": "https://open.spotify.com/album/2f0ggDU5arXZosxybBui6y"
+        "name": "Camionero",
+        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
       },
       "artists": [
         {
-          "name": "La Fuerza de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/2sn3HLUhYpRJsBngGA332N"
+          "name": "Los Kapsi",
+          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
         }
       ],
-      "duration_ms": 216040,
-      "name": "El Rengo Del Gallo Giro",
-      "url": "https://open.spotify.com/track/5nQBW3jrmIm7XTAvRkXDbw"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Los Huaches En Vivo 2013",
-        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
-      },
-      "artists": [
-        {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
-        }
-      ],
-      "duration_ms": 276853,
-      "name": "Coyuca De Catalan (Zapateado)",
-      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
+      "duration_ms": 229346,
+      "name": "El Camionero",
+      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Camionero",
-        "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
+        "name": "Los Huaches En Vivo 2013",
+        "url": "https://open.spotify.com/album/09I9lyDDUBsPK4v2R9qIix"
       },
       "artists": [
         {
-          "name": "Los Kapsi",
-          "url": "https://open.spotify.com/artist/7h9BkDMDEVInWvBkShQvna"
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
         }
       ],
-      "duration_ms": 229346,
-      "name": "El Camionero",
-      "url": "https://open.spotify.com/track/4ICia47iPxrmI1NPY75tDc"
+      "duration_ms": 276853,
+      "name": "Coyuca De Catalan (Zapateado)",
+      "url": "https://open.spotify.com/track/4XN4tK27BhX6cA7IYFdJtx"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1075,26 +1075,6 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Los De Tierra Caliente (En Vivo)",
-        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
-      },
-      "artists": [
-        {
-          "name": "El Mimoso Luis Antonio L\u00f3pez",
-          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
-        },
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 580430,
-      "name": "Ser\u00e1 Mi Castigo / La Silla Vac\u00eda / Somos Ajenos (En Vivo)",
-      "url": "https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
         "name": "Exitos de La Victoria de Mexico: Volume 1",
         "url": "https://open.spotify.com/album/7dSZTQ9RG7Ytk7h08A6Tgf"
       },
@@ -1127,18 +1107,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Los Huaches Vip 2015",
-        "url": "https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF"
+        "name": "Los De Tierra Caliente (En Vivo)",
+        "url": "https://open.spotify.com/album/0o72ypAIEh2XtM7SYzrNfL"
       },
       "artists": [
         {
-          "name": "Los Huaches De Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+          "name": "El Mimoso Luis Antonio L\u00f3pez",
+          "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
+        },
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
         }
       ],
-      "duration_ms": 188397,
-      "name": "Conchita Del Mar",
-      "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
+      "duration_ms": 580430,
+      "name": "Ser\u00e1 Mi Castigo / La Silla Vac\u00eda / Somos Ajenos (En Vivo)",
+      "url": "https://open.spotify.com/track/3cOKczNlW5tZp8BfDnsInE"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1187,6 +1171,22 @@
       "duration_ms": 732885,
       "name": "Puras Pa' bailar (Primera Tanda)",
       "url": "https://open.spotify.com/track/5R0gDUS6ODYNgfLS4n6ujr"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
+        "name": "Los Huaches Vip 2015",
+        "url": "https://open.spotify.com/album/58LE63ynfEACZoYkKruFrF"
+      },
+      "artists": [
+        {
+          "name": "Los Huaches De Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4rEZfTTpxjsnEo49OeCqum"
+        }
+      ],
+      "duration_ms": 188397,
+      "name": "Conchita Del Mar",
+      "url": "https://open.spotify.com/track/0WLCgFQL1zGrHrCVnAjNXB"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1303,18 +1303,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Cuando Los Hombres Lloran",
-        "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
       },
       "artists": [
         {
-          "name": "Josecito Leon y Su Internacional Banda Roja",
-          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
         }
       ],
-      "duration_ms": 156288,
-      "name": "Cuando Los Hombres Lloran",
-      "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
+        "name": "Cuando Los Hombres Lloran",
+        "url": "https://open.spotify.com/album/5YIASXVs6Ps86VhKtihANo"
       },
       "artists": [
         {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+          "name": "Josecito Leon y Su Internacional Banda Roja",
+          "url": "https://open.spotify.com/artist/0SC9A4onqXVy7hlbLzYxuw"
         }
       ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
+      "duration_ms": 156288,
+      "name": "Cuando Los Hombres Lloran",
+      "url": "https://open.spotify.com/track/2ZfamCU9nLYxUa9dxIpd14"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1403,18 +1403,18 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
-        "name": "La \u00daltima Vuelta",
-        "url": "https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj"
+        "name": "Al Mismo Nivel",
+        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
       },
       "artists": [
         {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
+          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
         }
       ],
-      "duration_ms": 175217,
-      "name": "Frente A Frente",
-      "url": "https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0"
+      "duration_ms": 163265,
+      "name": "El Padrino",
+      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
     },
     {
       "added_at": "2024-12-20 06:00:10",
@@ -1435,6 +1435,22 @@
     {
       "added_at": "2024-12-20 06:00:10",
       "album": {
+        "name": "La \u00daltima Vuelta",
+        "url": "https://open.spotify.com/album/0uKK9zywGx5BTFBFkKQmfj"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 175217,
+      "name": "Frente A Frente",
+      "url": "https://open.spotify.com/track/5Y8hdg0LijpFRIKTiF50o0"
+    },
+    {
+      "added_at": "2024-12-20 06:00:10",
+      "album": {
         "name": "Made in Michoacan",
         "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
       },
@@ -1447,22 +1463,6 @@
       "duration_ms": 224840,
       "name": "Mi Destino Fue Quererte",
       "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
-    },
-    {
-      "added_at": "2024-12-20 06:00:10",
-      "album": {
-        "name": "Al Mismo Nivel",
-        "url": "https://open.spotify.com/album/0K5Jy0WQG14kGAyJfL5dBD"
-      },
-      "artists": [
-        {
-          "name": "La Imponente Banda Inspiracion de Tierra Caliente",
-          "url": "https://open.spotify.com/artist/4ZcLyO7cW4AxrQ2hbDAJzd"
-        }
-      ],
-      "duration_ms": 163265,
-      "name": "El Padrino",
-      "url": "https://open.spotify.com/track/4N2x61jKoau8lW7OnkICf2"
     },
     {
       "added_at": "2024-12-20 06:00:10",

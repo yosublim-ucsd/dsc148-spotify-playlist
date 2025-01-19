@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 
 > Den bästa och största rocklistan i Sverige! ⚡️
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,315 likes - 87 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,354 likes - 87 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 |
 | 2 | [Heroes \- Spotify Singles](https://open.spotify.com/track/0eOT4T0gy2vqOZsMI2FKQS) | [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq) | [Heroes \- Spotify Singles](https://open.spotify.com/album/1OvEqblBGrHaEiI5hG09Ag) | 3:00 |
 | 3 | [Can't Put Out the Fire](https://open.spotify.com/track/4l1riVSKc7WJBw2zxdFh90) | [Thundermother](https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw) | [Can't Put Out the Fire](https://open.spotify.com/album/04hERRotffJJgN6S5Dadey) | 3:16 |
-| 4 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
-| 5 | [Double Nature](https://open.spotify.com/track/07yVHMlXo1yYj5pnpK5f5x) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Latest Version of the Truth](https://open.spotify.com/album/4hj9NQZbhv7LjEO147YBWx) | 4:44 |
-| 6 | [If I Die Tomorrow](https://open.spotify.com/track/04NEtP8O4nY7Yo7dMsCKqV) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/09FfLWLJiHt0dbVCxzmARW) | 3:42 |
-| 7 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 |
-| 8 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 |
-| 9 | [GODDESS](https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [GODDESS](https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx) | 3:10 |
+| 4 | [Double Nature](https://open.spotify.com/track/07yVHMlXo1yYj5pnpK5f5x) | [Mustasch](https://open.spotify.com/artist/7ig8pUnno95YNA9MclOveH) | [Latest Version of the Truth](https://open.spotify.com/album/4hj9NQZbhv7LjEO147YBWx) | 4:44 |
+| 5 | [If I Die Tomorrow](https://open.spotify.com/track/04NEtP8O4nY7Yo7dMsCKqV) | [Mötley Crüe](https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL) | [Greatest Hits](https://open.spotify.com/album/09FfLWLJiHt0dbVCxzmARW) | 3:42 |
+| 6 | [GODDESS](https://open.spotify.com/track/4MARqIBLNGWgouDvlZbmon) | [SCARLET](https://open.spotify.com/artist/1ezwRjcVcSgr0HNIwRd2CN) | [GODDESS](https://open.spotify.com/album/0TwdkBnX2yvXhR8TePUnKx) | 3:10 |
+| 7 | [Whiskey In The Jar](https://open.spotify.com/track/2R6UrJ8uWbSIiHWmvRQvN8) | [Metallica](https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB) | [Garage Inc.](https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF) | 5:04 |
+| 8 | [Perfect Soul](https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN) | [Spiritbox](https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW) | [Perfect Soul](https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5) | 3:59 |
+| 9 | [Over Each Other](https://open.spotify.com/track/3t4IkHfT4eXZggkupi4SUe) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Over Each Other](https://open.spotify.com/album/09mU09ThtQmKfCgtEeiQZP) | 2:50 |
 | 10 | [Perfume Of The Timeless](https://open.spotify.com/track/2XXXvrIkEBtR3LlbfJExpJ) | [Nightwish](https://open.spotify.com/artist/2NPduAUeLVsfIauhRwuft1) | [Perfume Of The Timeless](https://open.spotify.com/album/2lzs5KtWl3eovh9AMdWwCt) | 8:12 |
 | 11 | [Blackhole](https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Blackhole](https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI) | 3:20 |
 | 12 | [The Boys of Summer](https://open.spotify.com/track/5BmagRD7Thki6O1zZwbxBy) | [The Ataris](https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi) | [So Long, Astoria](https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg) | 4:18 |
@@ -96,4 +96,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdiF2k2CLnQA.md) - [plain]
 | 86 | [Fatal Fall](https://open.spotify.com/track/2CwnFRc760BhIzKFouvQkc) | [Scarefield](https://open.spotify.com/artist/1soOUPqMH7Vgkb59Br8AzX) | [Fatal Fall](https://open.spotify.com/album/1VMeATHwwraw1xU5EtLhof) | 4:41 |
 | 87 | [The World Belongs To Me](https://open.spotify.com/track/4IMFeclMZPanzmyx5m9mZr) | [Battering Ram](https://open.spotify.com/artist/5ZE8smCT2oR50Kq9yLZ3GW) | [The World Belongs To Me](https://open.spotify.com/album/7GD749YVkYURBaBGLuT4lW) | 3:51 |
 
-Snapshot ID: `Z4mPxQAAAADC51PlrLCzk7ORESqTLT06`
+Snapshot ID: `Z4wBBAAAAAA7mbR64/BBxJVuUy2NSylV`

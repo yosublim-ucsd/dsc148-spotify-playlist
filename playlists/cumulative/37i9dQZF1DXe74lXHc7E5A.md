@@ -4,7 +4,7 @@
 
 > Hip Hop and Rap songs guaranteed to get you hyped\. Cover: Central Cee & 21 Savage
 
-494 songs - 1 day 1 hr 8 min
+495 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,7 @@
 | [3023](https://open.spotify.com/track/2A5qmDuRrn9Wvac7mJrovL) | [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [3023](https://open.spotify.com/album/74Dp5K8pSq3MxqgcUl0Ixl) | 2:30 | 2023-11-10 | 2023-12-14 |
 | [500 DEGREES](https://open.spotify.com/track/3vtiHUVpP0d4CJmaqNxjfM) | [Straffitti](https://open.spotify.com/artist/4mCGYkTmNnEsnTrIr3atNB) | [500 DEGREES](https://open.spotify.com/album/12DMWu6jgeqicdxuJcb75A) | 2:10 | 2022-10-28 | 2022-11-25 |
 | [54321](https://open.spotify.com/track/0iPb0dxCtjFcmFa2ElfBJ5) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [54321](https://open.spotify.com/album/5vW8LuMydrkQQqkQlw5Won) | 3:02 | 2022-08-18 | 2022-10-08 |
-| [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 | 2024-06-28 |  |
+| [911](https://open.spotify.com/track/4A3IuipnqFLJN9zDOTDSx8) | [Roddy Ricch](https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB) | [911](https://open.spotify.com/album/6ttkQSLzTo8hug4JWcBkOa) | 2:07 | 2024-06-28 | 2025-01-19 |
 | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/track/51uFHphBfV17Bw6v1D0X20) | [Bosom P\-Yung](https://open.spotify.com/artist/394xOVuImKoT7jJtWkWNyQ), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz), [Quamina Mp](https://open.spotify.com/artist/7lv12RUXorFKjX5hKtNwUw), [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [Abele \(feat\. Beeztrap KOTM\)](https://open.spotify.com/album/6JtzGphkHwXPTV9GnGp4g1) | 3:54 | 2024-06-21 | 2024-07-27 |
 | [Abracadabra \(feat\. Travis Scott\)](https://open.spotify.com/track/4Zsi5pyvmZBxvRg0KeDFMC) | [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [BUSINESS IS BUSINESS](https://open.spotify.com/album/6qElaeK7SHsEzb8uV8eG3D) | 4:07 | 2023-06-23 | 2023-10-02 |
 | [ACID GUNZX](https://open.spotify.com/track/4v9zgwEMMhuKQD5bIzYhBh) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ) | [DARRYL WUZ HERE](https://open.spotify.com/album/6LPUfqQ1OMiUFMJs7XC8FX) | 1:46 | 2023-12-22 | 2023-12-30 |
@@ -180,6 +180,7 @@
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/3lE8TCA1FKNQthjj73Sjrv) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/3fZZ4lUejEiCoyLUpqZIi1) | 2:39 | 2023-01-20 | 2023-02-03 |
 | [Gangsta Boo \(with Lil Tjay\)](https://open.spotify.com/track/6Ntj4LvgVgjlprxD2JyhZS) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Like..?](https://open.spotify.com/album/2rfLvysxiPTuk7var3Ugp3) | 2:39 | 2023-01-20 | 2023-04-23 |
 | [Gas Me Up \(Diligent\)](https://open.spotify.com/track/18cocM7GNYj2Scj1ePOJYc) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN) | [Gas Me Up \(Diligent\)](https://open.spotify.com/album/1cqM7r4c9z3iVOa1EosiRn) | 2:51 | 2024-01-26 | 2024-06-22 |
+| [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 |  |
 | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/track/3R9AZOrnO20E5MVMBiofqH) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0), [AJ Tracey](https://open.spotify.com/artist/4Xi6LSfFqv26XgP9NKN26U) | [GEEKIN \(feat\. AJ Tracey\)](https://open.spotify.com/album/4Aq9PhYsSQU4N6mUyXA2kV) | 2:45 | 2024-02-02 | 2024-03-09 |
 | [Gen Z](https://open.spotify.com/track/4gh9uUGWk1lndZ9A2DuXei) | [Joey B](https://open.spotify.com/artist/7ACLUXo71FsLZaKMOPDnEJ), [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [Gen Z](https://open.spotify.com/album/1ZeBM3YvOTSbaa3QnBl8ys) | 2:10 | 2024-12-06 |  |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 | 2023-11-11 |

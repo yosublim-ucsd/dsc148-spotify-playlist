@@ -1,6 +1,6 @@
 {
   "description": "Compare, prenda el carb\u00f3n y saque la bocina que ya se arm\u00f3 la carnita.",
-  "num_followers": 415296,
+  "num_followers": 415400,
   "original_name": "Carnita Asada Estilo Norte\u00f1o",
   "owner": {
     "name": "Spotify",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
+        "name": "Con Toda La Fe",
+        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 144726,
+      "name": "Con Toda La Fe",
+      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
         "name": "El T\u00f3xico",
         "url": "https://open.spotify.com/album/2kYTqAuJhgYQ0p4694Ve8s"
       },
@@ -443,22 +459,6 @@
       "duration_ms": 179745,
       "name": "El T\u00f3xico",
       "url": "https://open.spotify.com/track/41QD8eEf8HLLpy20d8j2Kx"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
-        "name": "Con Toda La Fe",
-        "url": "https://open.spotify.com/album/0o9sF4PX1BBPOtGajo8ckx"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 144726,
-      "name": "Con Toda La Fe",
-      "url": "https://open.spotify.com/track/5JXhKG0ftxR1RxRwJOw1EF"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "Chale",
-        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 170744,
-      "name": "Chale",
-      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
         "name": "Me Gusta Vivir De Noche",
         "url": "https://open.spotify.com/album/3g3iZ2Zpx2KvqOVV3VFYdd"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 164466,
       "name": "El Amor So\u00f1ado",
       "url": "https://open.spotify.com/track/587p8shYuTXUhThG3t9x60"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "Chale",
+        "url": "https://open.spotify.com/album/6xsbNXdWNHFDvl9vCT3a8a"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 170744,
+      "name": "Chale",
+      "url": "https://open.spotify.com/track/74WROFXsox6wkeUrEK2DS6"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -891,22 +891,6 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "Aguanta Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 170333,
-      "name": "Mi Casa Nueva",
-      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
         "name": "Ya Te Olvide",
         "url": "https://open.spotify.com/album/1vkcpQesyYNuleAzUmUTsB"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 216317,
       "name": "Ya Te Olvide",
       "url": "https://open.spotify.com/track/6Bcy1jJFcIAuAzJMtfpImi"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "Aguanta Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/1rtPiqPMmhjLP1cNBTb5q5"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 170333,
+      "name": "Mi Casa Nueva",
+      "url": "https://open.spotify.com/track/0YqxST7jMa8B4Ecr1675u6"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "DEV, Vol. 2",
-        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
+        "name": "Vuelvo Contigo",
+        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
       },
       "artists": [
         {
-          "name": "Marca MP",
-          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
         }
       ],
-      "duration_ms": 189408,
-      "name": "Ya Acabo",
-      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
+      "duration_ms": 161493,
+      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
+      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "Vuelvo Contigo",
-        "url": "https://open.spotify.com/album/3Bqrpyh09jij3b2SiqzQlU"
+        "name": "DEV, Vol. 2",
+        "url": "https://open.spotify.com/album/07TMPBekE9j6Q1ae126ysU"
       },
       "artists": [
         {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+          "name": "Marca MP",
+          "url": "https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa"
         }
       ],
-      "duration_ms": 161493,
-      "name": "A M\u00ed, \u00bfQu\u00e9 Me Qued\u00f3?",
-      "url": "https://open.spotify.com/track/0b72rOmkspR8dJHsUjaVi4"
+      "duration_ms": 189408,
+      "name": "Ya Acabo",
+      "url": "https://open.spotify.com/track/4H3t8C59tXjKf1R2iKtc5M"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -1087,6 +1087,22 @@
       "duration_ms": 183653,
       "name": "Sentimientos De Cart\u00f3n",
       "url": "https://open.spotify.com/track/7ctLV5QnYVq3V89EK3XNsa"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "Corleone",
+        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
+      },
+      "artists": [
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 203829,
+      "name": "Hoy Todo Cambio",
+      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -1127,22 +1143,6 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "Corleone",
-        "url": "https://open.spotify.com/album/5kFm2qP6M186qWYI9wY0ji"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 203829,
-      "name": "Hoy Todo Cambio",
-      "url": "https://open.spotify.com/track/1tinKBj5pMxJswRan96Mj7"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
         "name": "Sobran Motivos",
         "url": "https://open.spotify.com/album/6Xz3loQRKnqGKzq43ihYDH"
       },
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "A Ellas",
-        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
-      },
-      "artists": [
-        {
-          "name": "El Poder Del Norte",
-          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
-        }
-      ],
-      "duration_ms": 212506,
-      "name": "Ni Que Valieras Tanto",
-      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
         "name": "Sin Pagar Renta",
         "url": "https://open.spotify.com/album/2QoQgEfF8ktaAohV5BOYR9"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 202443,
       "name": "Sin Pagar Renta",
       "url": "https://open.spotify.com/track/0kbUYmoU2KatRvhh3m5W65"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "Decide T\u00fa",
+        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 212640,
+      "name": "Ave Cautiva",
+      "url": "https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -1227,22 +1227,6 @@
       "duration_ms": 206077,
       "name": "Sin Querer Queriendo",
       "url": "https://open.spotify.com/track/4IpgZypFevhuHjyvitEuFJ"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
-        "name": "Decide T\u00fa",
-        "url": "https://open.spotify.com/album/5lYbSy6Hf540WyiVaoN8HU"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 212640,
-      "name": "Ave Cautiva",
-      "url": "https://open.spotify.com/track/5uexdMpm1BUShEKQEte4Gx"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -1291,6 +1275,38 @@
       "duration_ms": 156453,
       "name": "No Eres Tu Ahora Soy Yo",
       "url": "https://open.spotify.com/track/2id1k05l5qxinSNil4mfdM"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "A Ellas",
+        "url": "https://open.spotify.com/album/0CwYtDDWOYWvrMXN1GWg8u"
+      },
+      "artists": [
+        {
+          "name": "El Poder Del Norte",
+          "url": "https://open.spotify.com/artist/4E9GScOUpq8PgyRhItXx7x"
+        }
+      ],
+      "duration_ms": 212506,
+      "name": "Ni Que Valieras Tanto",
+      "url": "https://open.spotify.com/track/4YEtrr6BJfUX61LrEBjgLK"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "Morir De Amor",
+        "url": "https://open.spotify.com/album/3AhuZYSOIefITqG353D25H"
+      },
+      "artists": [
+        {
+          "name": "Conjunto Primavera",
+          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
+        }
+      ],
+      "duration_ms": 182280,
+      "name": "Morir De Amor",
+      "url": "https://open.spotify.com/track/3opWtXcWfM3YFzrm0ffSII"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -1359,22 +1375,6 @@
       "duration_ms": 177200,
       "name": "So\u00f1ador Eterno",
       "url": "https://open.spotify.com/track/3NrfU7FvNF0w6mGcFVnlUj"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
-        "name": "Morir De Amor",
-        "url": "https://open.spotify.com/album/3AhuZYSOIefITqG353D25H"
-      },
-      "artists": [
-        {
-          "name": "Conjunto Primavera",
-          "url": "https://open.spotify.com/artist/3nFB4eMP5gdqee2eQb8nZb"
-        }
-      ],
-      "duration_ms": 182280,
-      "name": "Morir De Amor",
-      "url": "https://open.spotify.com/track/3opWtXcWfM3YFzrm0ffSII"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
-        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        }
-      ],
-      "duration_ms": 203816,
-      "name": "Amorcito Mio - En Vivo",
-      "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
         "name": "Sin Miedo (En Vivo)",
         "url": "https://open.spotify.com/album/5QDDvngvx6I5Uvnv2v5tqd"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 210000,
       "name": "Sin Miedo - En Vivo",
       "url": "https://open.spotify.com/track/60jxKcZFGBJT2GOIn8DKTJ"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "Encerrados Pero Enfiestados, Vol. 1 (En Vivo)",
+        "url": "https://open.spotify.com/album/6eMs2ZZt8PDdOj9QKNjhfg"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        }
+      ],
+      "duration_ms": 203816,
+      "name": "Amorcito Mio - En Vivo",
+      "url": "https://open.spotify.com/track/31UICcEejwN9HFOgbc17KS"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -2211,26 +2211,6 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "Ajustad\u00f3n",
-        "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
-      },
-      "artists": [
-        {
-          "name": "Luis Mexia",
-          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 159685,
-      "name": "Ajustad\u00f3n",
-      "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
         "name": "Ra\u00edces",
         "url": "https://open.spotify.com/album/3GA3RoW04gWXZYTw3dHdRN"
       },
@@ -2247,6 +2227,26 @@
       "duration_ms": 184893,
       "name": "Debajo del Sombrero (feat. Pancho Uresti)",
       "url": "https://open.spotify.com/track/1WxHPhfIClKbpSnPPHnkF4"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "Ajustad\u00f3n",
+        "url": "https://open.spotify.com/album/3BmRferj96GiKpT6IfGe0j"
+      },
+      "artists": [
+        {
+          "name": "Luis Mexia",
+          "url": "https://open.spotify.com/artist/4IEP61D1hdCPQVzAYzP9VC"
+        },
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 159685,
+      "name": "Ajustad\u00f3n",
+      "url": "https://open.spotify.com/track/3HgmSgGxjVSIL3WjZVe4bs"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -2319,22 +2319,6 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "Pura Pieza de Mi Gusto",
-        "url": "https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Vega y su Dinastia",
-          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
-        }
-      ],
-      "duration_ms": 135616,
-      "name": "Noches de Junio",
-      "url": "https://open.spotify.com/track/0SeeNu3S0xLViR8M4sGAOF"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
         "name": "Fantasia",
         "url": "https://open.spotify.com/album/1zfz2tGhzYXWbe8etA3CAm"
       },
@@ -2347,6 +2331,22 @@
       "duration_ms": 155746,
       "name": "Fantasia",
       "url": "https://open.spotify.com/track/41rJ9FmSJ2pV5SIitwDvdu"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "Pura Pieza de Mi Gusto",
+        "url": "https://open.spotify.com/album/0HcFVoI6GxQV2lHbXgUhZj"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Vega y su Dinastia",
+          "url": "https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d"
+        }
+      ],
+      "duration_ms": 135616,
+      "name": "Noches de Junio",
+      "url": "https://open.spotify.com/track/0SeeNu3S0xLViR8M4sGAOF"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -2383,6 +2383,22 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
+        "name": "Beso - Spotify Singles",
+        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        }
+      ],
+      "duration_ms": 143231,
+      "name": "Beso - Spotify Singles",
+      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
         "name": "Necesito Decirte",
         "url": "https://open.spotify.com/album/1mbKbybVA8gxjLnEHs8HjV"
       },
@@ -2399,22 +2415,6 @@
       "duration_ms": 207725,
       "name": "Necesito Decirte",
       "url": "https://open.spotify.com/track/5APm7ovr3mZBAEtJlF8pbY"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
-        "name": "Beso - Spotify Singles",
-        "url": "https://open.spotify.com/album/448r8kUAvwPVIjlxsSgkEs"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        }
-      ],
-      "duration_ms": 143231,
-      "name": "Beso - Spotify Singles",
-      "url": "https://open.spotify.com/track/2Ik9ckKC3t566rQcW1A6aE"
     },
     {
       "added_at": "2024-12-17 23:35:22",
@@ -2539,22 +2539,6 @@
     {
       "added_at": "2024-12-17 23:35:22",
       "album": {
-        "name": "15 Super Exitos",
-        "url": "https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp"
-      },
-      "artists": [
-        {
-          "name": "Cornelio Reyna",
-          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
-        }
-      ],
-      "duration_ms": 236538,
-      "name": "Mil Noches",
-      "url": "https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ"
-    },
-    {
-      "added_at": "2024-12-17 23:35:22",
-      "album": {
         "name": "Las M\u00e1s Tocadas",
         "url": "https://open.spotify.com/album/20Bcfqp9GJ3UNL1mDlZepp"
       },
@@ -2567,6 +2551,22 @@
       "duration_ms": 172788,
       "name": "Mi Unico Camino",
       "url": "https://open.spotify.com/track/0zD1NLTk9QkTj7CZFCGVpX"
+    },
+    {
+      "added_at": "2024-12-17 23:35:22",
+      "album": {
+        "name": "15 Super Exitos",
+        "url": "https://open.spotify.com/album/1KSE2b7yXmIQKcvYpINrLp"
+      },
+      "artists": [
+        {
+          "name": "Cornelio Reyna",
+          "url": "https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx"
+        }
+      ],
+      "duration_ms": 236538,
+      "name": "Mil Noches",
+      "url": "https://open.spotify.com/track/07lhQQZmg4ANOJ2ar5RecQ"
     },
     {
       "added_at": "2024-12-17 23:35:22",

@@ -311,6 +311,24 @@
     },
     {
       "album": {
+        "name": "A Question of You",
+        "url": "https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222667,
+      "name": "A Question of You",
+      "url": "https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE"
+    },
+    {
+      "album": {
         "name": "Abandon All Hope",
         "url": "https://open.spotify.com/album/4ylZeG92GetC46n8gU0o0l"
       },
@@ -556,7 +574,7 @@
       ],
       "date_added": "2022-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 264986,
       "name": "Alright",
       "url": "https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf"
@@ -2800,7 +2818,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 189418,
       "name": "Dog Days",
       "url": "https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1"
@@ -4230,6 +4248,24 @@
       "duration_ms": 212093,
       "name": "Growing/Dying",
       "url": "https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp"
+    },
+    {
+      "album": {
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
+      },
+      "artists": [
+        {
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276437,
+      "name": "Guy Fawkes Tesco Dissociation",
+      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
     },
     {
       "album": {

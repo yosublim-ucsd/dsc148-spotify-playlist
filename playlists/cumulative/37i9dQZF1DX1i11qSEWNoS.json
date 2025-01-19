@@ -5355,6 +5355,28 @@
     },
     {
       "album": {
+        "name": "Tunnel Vision",
+        "url": "https://open.spotify.com/album/2QG7NUjK3TYm1qNTyqRnDd"
+      },
+      "artists": [
+        {
+          "name": "Restricted",
+          "url": "https://open.spotify.com/artist/7mx6iGwPF157vXwYcl1DQ3"
+        },
+        {
+          "name": "Nik Sitz",
+          "url": "https://open.spotify.com/artist/4HihOLMje7U0pcQ7hvC6Bm"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241519,
+      "name": "Tunnel Vision",
+      "url": "https://open.spotify.com/track/0KC0gOIXRiJohCEBS5aaUl"
+    },
+    {
+      "album": {
         "name": "Turn All The Lights On",
         "url": "https://open.spotify.com/album/2So8QRALJzGvefJp86htBu"
       },
@@ -5536,7 +5558,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 149773,
       "name": "VAMOS",
       "url": "https://open.spotify.com/track/6Ng40TRrkhviBybqFF1s6P"

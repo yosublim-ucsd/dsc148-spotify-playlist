@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 
 > This is Arooj Aftab\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,538 likes - 41 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,545 likes - 41 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,11 +12,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evNZVXOdW.md) - [plain]
 | 2 | [Last Night](https://open.spotify.com/track/3OBkjktMqs7QJ6dOUPWTji) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:58 |
 | 3 | [Mehram](https://open.spotify.com/track/2oi55VmillH7At5wHVNFbE) | [Asfar Hussain](https://open.spotify.com/artist/7lDDbppbcK5F2ZJXG12pru), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Mehram](https://open.spotify.com/album/1I7fGWBGZzOfsbkxxLGSyq) | 5:38 |
 | 4 | [Freedom Now](https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5) | [Nick Mulvey](https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj), [Golshifteh Farahani](https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB), [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Freedom Now](https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO) | 3:44 |
-| 5 | [Autumn Leaves \(feat\. James Francies\)](https://open.spotify.com/track/4A4BdAB3MPQhLn7MZZOSmW) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 4:46 |
+| 5 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
 | 6 | [Mohabbat](https://open.spotify.com/track/4lcQHckNMeUkM8jx67j28G) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 7:42 |
 | 7 | [Udhero Na feat\. Anoushka Shankar](https://open.spotify.com/track/2hFN5GkZ1CNZNRp1tFYWqW) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [Vulture Prince \(Deluxe Edition\)](https://open.spotify.com/album/1WH2ttzuKMSlxtfA7PQw8S) | 5:03 |
 | 8 | [Lullaby](https://open.spotify.com/track/7g4891487QfCuRrENM8vUs) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Bird Under Water](https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R) | 3:52 |
-| 9 | [Raat Ki Rani](https://open.spotify.com/track/4fw0uoL1HXUhcgcU2gbVZN) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 5:13 |
+| 9 | [Autumn Leaves \(feat\. James Francies\)](https://open.spotify.com/track/4A4BdAB3MPQhLn7MZZOSmW) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [James Francies](https://open.spotify.com/artist/0K4Pj79XGQRXv1ESJADlMX) | [Night Reign](https://open.spotify.com/album/2JdE3ilolUGhsNkW1oQfvf) | 4:46 |
 | 10 | [Diya Hai](https://open.spotify.com/track/5kxJ6PiADtz7kxMr9mBYBS) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Badi Assad](https://open.spotify.com/artist/5FjCbWsyUcmYeuOweDuyqs) | [Vulture Prince](https://open.spotify.com/album/6HrBTi1F76h7mJuQDHEijH) | 5:40 |
 | 11 | [To Remain/To Return \- Excerpt](https://open.spotify.com/track/6M3usJPYEhslEX2zpII94T) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5), [Vijay Iyer](https://open.spotify.com/artist/27DeRe5LjIt9ZPXUjF90h6), [Shahzad Ismaily](https://open.spotify.com/artist/4FaBmP30QiO2lXc3yyuqrV) | [Love In Exile](https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ) | 3:19 |
 | 12 | [Island No\. 1](https://open.spotify.com/track/0RcYcNvHFFLkMb9F0Dku5c) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Siren Islands](https://open.spotify.com/album/6X8Gj8VvfnpzyJFkK9ZWGl) | 8:01 |

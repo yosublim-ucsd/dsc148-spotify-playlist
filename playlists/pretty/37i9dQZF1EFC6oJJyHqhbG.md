@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5WOedGxnA81idBhEPfRzgl">Bonnie Mckee</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,563 likes - 136 songs - 8 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,567 likes - 136 songs - 8 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -123,8 +123,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 113 | [Electric Heaven](https://open.spotify.com/track/2I02ASw3z4X4GXOvnKn6sq) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:25 |
 | 114 | [Snatched](https://open.spotify.com/track/0U9GbG7Bmzzd586ZgGXxHF) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N), [Priyanka](https://open.spotify.com/artist/1RSalo3q49NotNwKB2jtjO) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:21 |
 | 115 | [Honey](https://open.spotify.com/track/1ECd5UKynaaBRmfAp9Iect) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:45 |
-| 116 | [A Voice That Carries](https://open.spotify.com/track/6poGVzrkdRMFmegbUmR08U) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:48 |
-| 117 | [I Wanna Call You](https://open.spotify.com/track/6i1VxlG0EYhGpu9C7c66sx) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:06 |
+| 116 | [I Wanna Call You](https://open.spotify.com/track/6i1VxlG0EYhGpu9C7c66sx) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Hot City](https://open.spotify.com/album/7IEPLolpdghx1jkNiN2FMT) | 3:06 |
+| 117 | [A Voice That Carries](https://open.spotify.com/track/6poGVzrkdRMFmegbUmR08U) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:48 |
 | 118 | [Cold Heart](https://open.spotify.com/track/3l5lhKAXRyISZ1NOBEMRhO) | [Elliott Yamin](https://open.spotify.com/artist/4am1I89OWXUzFh4ctRLkdd) | [Fight for Love](https://open.spotify.com/album/5jjrd3mUF01Da1FITGf8fY) | 3:34 |
 | 119 | [January](https://open.spotify.com/track/4Vc6f3K8mXoMwZDICJPPAw) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:07 |
 | 120 | [Open Your Eyes](https://open.spotify.com/track/1AddvxH9HumxaQ8av44opX) | [Bonnie McKee](https://open.spotify.com/artist/7dtJROxWQe3fxxF5t7o67N) | [Trouble](https://open.spotify.com/album/70SkODkeESUeqcfDoRtw7S) | 4:59 |
@@ -145,4 +145,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC6oJJyHqhbG.md) - [plain]
 | 135 | [Burnin'](https://open.spotify.com/track/16zrncqFw9Jlh9x98rhVFp) | [LVCRFT](https://open.spotify.com/artist/49JFqkKqN2PWANlXIQlB5T), [Dehiro](https://open.spotify.com/artist/5wveL5t3Phar9SspgSSf1f) | [V](https://open.spotify.com/album/2L7KIZcK3zvkxaZZ5S8I2k) | 3:29 |
 | 136 | [Hasta La Vista](https://open.spotify.com/track/7Hqkibl2LIjY1gWtqTb4HW) | [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV), [Static Revenger](https://open.spotify.com/artist/4Q08msBV0v3oEN91O7ubsD) | [Hasta La Vista](https://open.spotify.com/album/7tyoTr3dPhTbDZ8QDmfopy) | 2:48 |
 
-Snapshot ID: `AbnI4AAAAABqgcTOfKoCXRUZPRto0Yio`
+Snapshot ID: `AbnOgAAAAAAkdo6HSLVKvoggmFCB96Dz`

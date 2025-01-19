@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 
 > Grandes relatos de toque reflexivo y visión consciente.
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,096 likes - 100 songs - 6 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,119 likes - 100 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,10 +24,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 14 | [Alquimista](https://open.spotify.com/track/6jnLJ9M1obPdVKj4kluKAD) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Alquimista](https://open.spotify.com/album/66bNCIpTWpOyUkSxm3UvKE) | 3:34 |
 | 15 | [De Mi Muerte](https://open.spotify.com/track/14OCjeksnltHj3ttKoiwtz) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Muerte](https://open.spotify.com/album/27xqCLyTHom0wyjtw08K12) | 3:41 |
 | 16 | [Chico Problemático](https://open.spotify.com/track/40lYti7pxLGRqpwIxRui95) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Poesía Difusa](https://open.spotify.com/album/1zrVeZHRsPsRWdnQSuUIYG) | 5:16 |
-| 17 | [Tributos](https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [Tributos](https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE) | 3:33 |
-| 18 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 |
+| 17 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 |
+| 18 | [Tributos](https://open.spotify.com/track/6QtAJqBqwwsbQBG0shnhQr) | [Proof](https://open.spotify.com/artist/2Gcx4c9rFAAloAYV2cMGUd), [TREN LOKOTE](https://open.spotify.com/artist/6DjBv6gyR1HLsvwGUOD5V9), [Trafikante de Almas](https://open.spotify.com/artist/68YbaTAnCofpeeN4EXrBrP) | [Tributos](https://open.spotify.com/album/0dEUXKP7jRiyUDny8TbivE) | 3:33 |
 | 19 | [Guerra](https://open.spotify.com/track/04zodNGYYLI7Q7DsFgQAql) | [Residente](https://open.spotify.com/artist/5GcWBUX00IPuWVGMIRK1sS) | [Residente](https://open.spotify.com/album/6yClcORh3xiP9Gg1aqbvZ9) | 5:34 |
-| 20 | [Ríe Cuando Puedas](https://open.spotify.com/track/18YCZgBpjvd7OiDzlqffj9) | [El Chojin](https://open.spotify.com/artist/3m1an5fzquhCtk4UnhmLmc) | [Striptease](https://open.spotify.com/album/0xElYfxH7E9JXw5Sq3s8Gi) | 3:41 |
+| 20 | [Lastima](https://open.spotify.com/track/7LK6f8PSEBdVHxFky21fYv) | [Neutro Shorty](https://open.spotify.com/artist/5wUO3A6DT4tO5UDz21kE2Y), [Selected Music](https://open.spotify.com/artist/4JfavcBZEpY1vMW8Xqcc6y) | [Lastima](https://open.spotify.com/album/2M3EmYAlbA52gefdceSa05) | 3:43 |
 | 21 | [Cuidado en Quien Confias](https://open.spotify.com/track/34LnKrUc7W3N9zqrdPtts3) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [Cualquier Parecido con La Realidad](https://open.spotify.com/album/1fWIXSbLLG41HN0WFdkjGb) | 4:33 |
 | 22 | [Patrullando](https://open.spotify.com/track/0Gwt9fOjhcIjfSQJM0ARua) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Tornillo](https://open.spotify.com/artist/5OGraDcSkO4oTWthkm77WL) | [Patrullando](https://open.spotify.com/album/5EqL0JJmFbL3dY1JsVbWlH) | 3:14 |
 | 23 | [Libertad](https://open.spotify.com/track/57yJ604s8wEXyjkqPsZdKC) | [Kase.O](https://open.spotify.com/artist/7GmXwGXJSsmWTkCyk5Twux) | [Kase.O Jazz Magnetism](https://open.spotify.com/album/0Xtm1ILSm1hdlgQEOJjMx4) | 3:30 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVWkDeZT3s1w.md) - [plain]
 | 89 | [Dictamen](https://open.spotify.com/track/55J7TRa8LzJuW37RidTxJb) | [Mecal](https://open.spotify.com/artist/6h3Pg7Xk3YfLIdQOxnb6d5) | [Dictamen](https://open.spotify.com/album/4USKDqlbw79WXbr5KMbXEx) | 3:14 |
 | 90 | [A Veces](https://open.spotify.com/track/3OaeZUVIcb0O4JVU3NIIHq) | [Al2 El Aldeano](https://open.spotify.com/artist/6lYSDSFhJyUV6CtNix2fBA) | [Inedito](https://open.spotify.com/album/1XEV9JjDafI3OdqFcOGAvt) | 2:47 |
 | 91 | [Algo Bien](https://open.spotify.com/track/6NJKTfYmo9AgGTtjkgKwr5) | [Golden Ganga](https://open.spotify.com/artist/54P0u0BOmRdmtEVPgcoZy0), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL), [A.C.O](https://open.spotify.com/artist/0x2z4hugJaiGdTP0lzhxvO), [Rafael Lechowski](https://open.spotify.com/artist/307pYxWsFHn3u9gMe8vaf3) | [Algo Bien](https://open.spotify.com/album/6KUZQ0l1keA5Dlo3ovaYRW) | 4:31 |
-| 92 | [Luciérnagas](https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Luciérnagas](https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf) | 4:16 |
-| 93 | [Cinismo](https://open.spotify.com/track/3OSrgkoRo90ZOIyfyrYNOb) | [Dante](https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX) | [Cinismo](https://open.spotify.com/album/6mVHvemGHSvGDTEjtBIPJC) | 2:26 |
-| 94 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 |
-| 95 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
+| 92 | [Legendarios](https://open.spotify.com/track/5flzNTZypqHAQtcMn1ARBl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/0zz6EViiEPDUKt6IZRUDCc) | 2:44 |
+| 93 | [Luciérnagas](https://open.spotify.com/track/2NncsZRIlGWIxFh0aqQz5p) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [Luciérnagas](https://open.spotify.com/album/0PhgzFFEXpSfDC0tmoESVf) | 4:16 |
+| 94 | [Cinismo](https://open.spotify.com/track/3OSrgkoRo90ZOIyfyrYNOb) | [Dante](https://open.spotify.com/artist/2hDnlqxEGmcq74MAfO9iEX) | [Cinismo](https://open.spotify.com/album/6mVHvemGHSvGDTEjtBIPJC) | 2:26 |
+| 95 | [Magia](https://open.spotify.com/track/56SPzpl7mMlf44D9ZEkIA1) | [Horus](https://open.spotify.com/artist/4DO3YOE8E3NS1chgm6ZKxf) | [Colección Inéditos](https://open.spotify.com/album/3skRkN1MIwSDjleT384X28) | 3:40 |
 | 96 | [Prometo](https://open.spotify.com/track/6KhHjRqNsyY8IUH0A8besf) | [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7), [Cristóbal Briceño](https://open.spotify.com/artist/0TE3FlkFJ5OgdyulXv99iX), [Dj Perez](https://open.spotify.com/artist/4pYx5PDavOZqKec3vIX9Xr) | [Gala](https://open.spotify.com/album/7DrW3wQ0xdLqFyaVXI19Y6) | 3:03 |
 | 97 | [Mañana Será Otro Día](https://open.spotify.com/track/0Ao7UyZ0IcKH9WQitKd0EL) | [Canserbero](https://open.spotify.com/artist/1wGIhYkKWSq4yACtTkCkSX) | [Can + Zoo Índigo](https://open.spotify.com/album/2C1f1HTc46X7uGF6zXPQXM) | 3:19 |
-| 98 | [Legendarios](https://open.spotify.com/track/5flzNTZypqHAQtcMn1ARBl) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Charles Ans](https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL) | [Cora](https://open.spotify.com/album/0zz6EViiEPDUKt6IZRUDCc) | 2:44 |
-| 99 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 |
+| 98 | [Se Busca](https://open.spotify.com/track/1bblnw82snIuxpDhxEfBKW) | [Mare Advertencia](https://open.spotify.com/artist/3QVB7ctBlqEFuQZeMDt6Qh) | [SE BUSCA](https://open.spotify.com/album/3tITprG2WPraA2ejbTaZVD) | 2:34 |
+| 99 | [Deja](https://open.spotify.com/track/3rFQdyT9s0sg1zEaYQmJ45) | [Ali Aka Mind](https://open.spotify.com/artist/5ZdWGWlHFXgo51ouiol6hl) | [Mestizo](https://open.spotify.com/album/0eDsjuoAukMeT8fy9RDG9f) | 3:31 |
 | 100 | [Mi Propio Cielo](https://open.spotify.com/track/64Gtc50srT8uAef6aOgkyY) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto) | [Ars Magna / Miradas](https://open.spotify.com/album/16HBbvrdIhOmqACyHvSlZa) | 4:44 |
 
 Snapshot ID: `ZtqaYAAAAADO313S63HKhsa3PmDCDSzi`

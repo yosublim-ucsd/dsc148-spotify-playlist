@@ -1,12 +1,12 @@
 {
   "description": "This is Edith M\u00e1rquez. The essential tracks, all in one playlist.",
-  "num_followers": 82498,
+  "num_followers": 82508,
   "original_name": "This Is Edith M\u00e1rquez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAC+MtbsIrwUy+bGuwXIGsv7",
+  "snapshot_id": "Z4mdgAAAAABEEQ9B7fbGHx3Kf+L+jUi8",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,22 @@
       "duration_ms": 179013,
       "name": "T\u00fa Me Obligaste",
       "url": "https://open.spotify.com/track/2U5AymDbKKdUncaaGGi3Jt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
     },
     {
       "added_at": null,
@@ -500,9 +516,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 173000,
-      "name": "\u00d3diame",
-      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
+      "duration_ms": 165000,
+      "name": "Hasta Que Amanezca",
+      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
     },
     {
       "added_at": null,
@@ -568,9 +584,9 @@
           "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
         }
       ],
-      "duration_ms": 165000,
-      "name": "Hasta Que Amanezca",
-      "url": "https://open.spotify.com/track/3uTBp9Y39NAk42a8ffblp1"
+      "duration_ms": 173000,
+      "name": "\u00d3diame",
+      "url": "https://open.spotify.com/track/1sLFbfGVN4LAnvmGO0RnEP"
     },
     {
       "added_at": null,
@@ -655,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Exitos del coraz\u00f3n (USA)",
+        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 200186,
+      "name": "T\u00f3mame o d\u00e9jame",
+      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Grandes \u00c9xitos de las Sonoras, Con la M\u00e1s Grande, La Sonora Santanera",
         "url": "https://open.spotify.com/album/5Gir03Fy6IXYvsdE1G3WfZ"
       },
@@ -671,22 +703,6 @@
       "duration_ms": 176440,
       "name": "El Nido (with Edith M\u00e1rquez)",
       "url": "https://open.spotify.com/track/5ihvNbdpF5f70bP4wSyMso"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Exitos del coraz\u00f3n (USA)",
-        "url": "https://open.spotify.com/album/6hixQLHfR41yzRQBCCdvNK"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 200186,
-      "name": "T\u00f3mame o d\u00e9jame",
-      "url": "https://open.spotify.com/track/247rGPlCUNTBTZ2dTNOL1a"
     },
     {
       "added_at": null,
@@ -871,22 +887,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Extrav\u00edate",
-        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
-      },
-      "artists": [
-        {
-          "name": "Edith M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
-        }
-      ],
-      "duration_ms": 262933,
-      "name": "Mi nombre",
-      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Las Mejores Baladas del Pop",
         "url": "https://open.spotify.com/album/7ypiEzpdXi5pktXBFnHUe0"
       },
@@ -899,6 +899,22 @@
       "duration_ms": 258986,
       "name": "Tengo todo excepto a ti",
       "url": "https://open.spotify.com/track/5qJbSTfXbnkzXnoFPNGCXG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Extrav\u00edate",
+        "url": "https://open.spotify.com/album/75JrKLDJ5vzb6OUu9baNTb"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "duration_ms": 262933,
+      "name": "Mi nombre",
+      "url": "https://open.spotify.com/track/6OE87tPl4AIuvRlrtuwrea"
     },
     {
       "added_at": null,

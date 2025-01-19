@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3wlYs23A2Ma5v7mAwIBJsR">Meghan Trainor</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,414 likes - 165 songs - 8 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,415 likes - 165 songs - 8 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 112 | [Rollin'](https://open.spotify.com/track/3Q1eEtOuXMGdqsddQzx3Br) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:46 |
 | 113 | [Ashes](https://open.spotify.com/track/7LImynpVAFaCrQhMTCTGnf) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:17 |
 | 114 | [Breezy \(feat\. Theron Theron\)](https://open.spotify.com/track/0gZperMfdaYprsNv7k7Pae) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [Theron Theron](https://open.spotify.com/artist/3NDd4Jte97ZCYqZBEQbs23) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:04 |
-| 115 | [I Believe In Santa](https://open.spotify.com/track/1NgLQouxQqWVA2oQdr0Ze0) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:38 |
-| 116 | [Drama Queen](https://open.spotify.com/track/11QeiHjd4600PBx7n85hlA) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:08 |
+| 115 | [Drama Queen](https://open.spotify.com/track/11QeiHjd4600PBx7n85hlA) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:08 |
+| 116 | [I Believe In Santa](https://open.spotify.com/track/1NgLQouxQqWVA2oQdr0Ze0) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:38 |
 | 117 | [Lucky](https://open.spotify.com/track/4KbzMAEGkkYAyVhE3heBPr) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:08 |
 | 118 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 |
 | 119 | [Here To Stay](https://open.spotify.com/track/34z8lt0220mD5i159EpuEm) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:03 |
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 122 | [Love On Hold \(feat\. T\-Pain\)](https://open.spotify.com/track/0t99zoq7bEVFzEVAiyohJz) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Timeless](https://open.spotify.com/album/07oUxYZMdbyNQtxBsaNhyB) | 2:57 |
 | 123 | [Remind Me](https://open.spotify.com/track/6PctdJn0tMlRtWUDtVZEW4) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Takin' It Back](https://open.spotify.com/album/4LVa9bljQRvLYpWr8qyaXs) | 3:20 |
 | 124 | [Special Delivery \(feat\. MAX\)](https://open.spotify.com/track/1nYERUIQ42uJjsvCbDPKlU) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz), [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [Takin' It Back \(Deluxe\)](https://open.spotify.com/album/6IK5i5sR0uxIcM0rV8HThX) | 3:04 |
-| 125 | [Lie To Me](https://open.spotify.com/track/1y4Prmj3j1eZZ9XDK84GXJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:40 |
-| 126 | [I Don't Do Maybe](https://open.spotify.com/track/7uxxQdI16xLbnhyuUDc1dQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:30 |
+| 125 | [I Don't Do Maybe](https://open.spotify.com/track/7uxxQdI16xLbnhyuUDc1dQ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless](https://open.spotify.com/album/58UwdMAci96aMa30xLuutY) | 2:30 |
+| 126 | [Lie To Me](https://open.spotify.com/track/1y4Prmj3j1eZZ9XDK84GXJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 2:40 |
 | 127 | [I'm Down](https://open.spotify.com/track/4N4AQ2IciPBGq93Ch9lmcd) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [The Love Train](https://open.spotify.com/album/0kPe8FDWUOInMERIeolerd) | 3:16 |
 | 128 | [Naughty List](https://open.spotify.com/track/5iGw5PJKukFN1YMj3Ls2rm) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [A Very Trainor Christmas](https://open.spotify.com/album/2Mb2HvX9H2J98qOvZGdsFf) | 2:37 |
 | 129 | [Babygirl](https://open.spotify.com/track/2Colaaxtnx0ybCl4ga39sF) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [TREAT MYSELF](https://open.spotify.com/album/766Hr0WDvATeOSIo41JvNs) | 3:20 |
@@ -174,4 +174,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFMwL9WIxJ7Jk.md) - [plain]
 | 164 | [Take Me There](https://open.spotify.com/track/67bB21Y4jSjG3bPPxmqHE8) | [Roger](https://open.spotify.com/artist/4znx0x1npb8pWk0b7Te7hg) | [Hoy \(Finalista La Voz Kids 2015\)](https://open.spotify.com/album/03R3ZvRxNVnjl4PvAeloSg) | 3:30 |
 | 165 | [I'm Ready](https://open.spotify.com/track/4vHh5UPDjmK4R8OPu6sizb) | [Dave Audé](https://open.spotify.com/artist/1vWImodgVqIgTUkekGEfR9), [Kinsley](https://open.spotify.com/artist/45TaTVSd9vVWTbafjbljHX) | [Motions LP](https://open.spotify.com/album/2yrVlPZtagwIhwpGm2arbH) | 2:27 |
 
-Snapshot ID: `AbnI1gAAAADQDGL+1YLTyDhQACiLcFFE`
+Snapshot ID: `AbnOgAAAAADtypuqurElVH0t3LxK460v`

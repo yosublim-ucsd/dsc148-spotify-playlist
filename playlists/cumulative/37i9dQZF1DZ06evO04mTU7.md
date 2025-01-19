@@ -4,7 +4,7 @@
 
 > This is AJULIACOSTA\. The essential tracks, all in one playlist.
 
-34 songs - 1 hr 58 min
+35 songs - 2 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Eles Me Odeiam](https://open.spotify.com/track/5lZS4UU5KbkR1QLRbkWG5W) | [Ryu, The Runner](https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx) | [SEMRÉH \(FINAL SPRINT\)](https://open.spotify.com/album/2i1FaEQY9JIUS8M0kMhsH9) | 3:07 | 2024-07-27 |  |
 | [Empresário](https://open.spotify.com/track/5QxxKQQNZyL5Q4N7Rggjg0) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 3:07 | 2024-04-08 |  |
 | [Homens Como Você](https://open.spotify.com/track/1M6VDhgs95sHQSnsSOocIj) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 3:10 | 2023-12-30 |  |
+| [LIGAÇÃO DE BANDIDA](https://open.spotify.com/track/5uhNbbVioHel9R6LnBfWrW) | [Attlanta](https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [Pior Versão de Mim](https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7) | [FUTURO III](https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR) | 3:46 | 2025-01-19 |  |
 | [MAMA](https://open.spotify.com/track/4OR8cm9oFCI4z4yjfgvng0) | [Muse Maya](https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm), [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd) | [VERÃO](https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs) | 2:45 | 2024-03-02 |  |
 | [Marido de Bandida](https://open.spotify.com/track/6qybczOKmJLTfomZrtD5fF) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [iamlope$$](https://open.spotify.com/artist/2wT7Qe4IArSitWcIKqa7CZ) | [AJU](https://open.spotify.com/album/4iMCSlpCg1jYXJU509vWNO) | 2:43 | 2023-12-30 |  |
 | [Mil e uma Treta](https://open.spotify.com/track/41i1EFJa4guXadDAIHbXad) | [AJULIACOSTA](https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd), [MAT](https://open.spotify.com/artist/4iNwfMO291ysasPOC6Fj5U) | [Brutas Amam, Choram e Sentem Raiva](https://open.spotify.com/album/0LVN0GsRFWkrhfhMVbJuBj) | 1:58 | 2023-12-30 |  |

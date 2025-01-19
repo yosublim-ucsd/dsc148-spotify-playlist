@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 
 > Where swing meets blues.
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,250 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,282 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 8 | [Big Fat Mama](https://open.spotify.com/track/6q6T3LrOoC18LwpJDqKqLO) | [Roy Milton](https://open.spotify.com/artist/02tMtF5FVucqAJW2TQB9ig) | [Roy Milton And His Solid Senders](https://open.spotify.com/album/5CRCPzgbhVIdehbui3RmBO) | 2:43 |
 | 9 | [Cadillac Boogie](https://open.spotify.com/track/0N143ZIbhVs7xVAOHVk8E9) | [Jimmy Liggins and His Drops Of Joy](https://open.spotify.com/artist/4xQBPJJJ7cnIch3BhKTm6S) | [Jimmy Liggins And His Drops Of Joy](https://open.spotify.com/album/4HQ1P6MhPIZ37LSAv9IDts) | 2:36 |
 | 10 | [Mighty Mighty Man](https://open.spotify.com/track/5tBDBrsPypLVJ9Rbpy3MNm) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Boogie At Midnight](https://open.spotify.com/album/3TlIlU1oNMJkDNxZ53OgKC) | 2:23 |
-| 11 | [Wild Wild Young Men](https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:33 |
-| 12 | [Lovin' Machine](https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:25 |
+| 11 | [Lovin' Machine](https://open.spotify.com/track/3UV8u4aqSU60xR4l7wYzYX) | [Wynonie Harris](https://open.spotify.com/artist/4Imc3wiT22cuynvQNpXcVn) | [Lovin' Machine](https://open.spotify.com/album/4oHzoB06yfTbggLGro4Oxo) | 2:25 |
+| 12 | [Wild Wild Young Men](https://open.spotify.com/track/3TIkpec14up3Wb7oykhdwV) | [Ruth Brown](https://open.spotify.com/artist/4EYVgfZJ8wKXWmIvCx3gOY) | [Ruth Brown](https://open.spotify.com/album/1k5uQeczqciJ3kOcETQvAI) | 2:33 |
 | 13 | [Down The Road Apiece](https://open.spotify.com/track/4aWXCY2dBDULAE9yjo7Wcq) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:59 |
 | 14 | [Good Golly](https://open.spotify.com/track/1XjV7jqITBJgpq2yj6O9hK) | [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [The Capitol Years](https://open.spotify.com/album/2HrlxHARSvSqo9EUtkZ7FV) | 1:52 |
 | 15 | [\(Every Time I Hear\) That Mellow Saxophone](https://open.spotify.com/track/2RjpkTcVv36r30mmT4XOTy) | [Roy Montrell](https://open.spotify.com/artist/0MZfXdUZT01ubCcpRJm9lq) | [Mardi Gras Blues](https://open.spotify.com/album/5tLHw9N8vVR5OVySvPB1Ak) | 2:27 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nt6DdNdydo.md) - [plain]
 | 27 | [Mr\. Five By Five](https://open.spotify.com/track/4PAj4rebLjJLFEeZNPEjf2) | [Humphrey Lyttelton](https://open.spotify.com/artist/64rUsDFcuATcV1JyYn26mf), [Jimmy Rushing](https://open.spotify.com/artist/5oSx3uh0EaLA2xEywrMsCX) | [The Humphrey Lyttelton Big Band with Jimmy Rushing](https://open.spotify.com/album/0Vf3hj99x2COkEfGXOdjhh) | 1:56 |
 | 28 | [Nervous Man Nervous](https://open.spotify.com/track/69CI6aEDyRmPYM46WaTFkj) | [Big Jay McNeely](https://open.spotify.com/artist/5K3FOIJ4gEZlPaJJpqaXmm) | [Nervous](https://open.spotify.com/album/0vNGXCP2gfCjlkYB0ktiri) | 2:34 |
 | 29 | [Sax Shack Boogie](https://open.spotify.com/track/5M0LiPltBA6gVxGhFzBXKw) | [Amos Milburn](https://open.spotify.com/artist/3uZRvkqeNHKLMFQrJBaUCX) | [Down The Road Apiece \-The Best Of Amos Milburn](https://open.spotify.com/album/04bo29HzmFDq9Un9O93nEp) | 2:51 |
-| 30 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
-| 31 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 |
+| 30 | [Ravin' At The Haven](https://open.spotify.com/track/1RSqMNhk8G61L50P8CYzFN) | [Eddie "Lockjaw" Davis](https://open.spotify.com/artist/0gNn3uUyIEErdQthThI51i) | [The Ultimate Jazz Archive 24 \(1 Of 4\)](https://open.spotify.com/album/5qexDsh1yWVL4Ot6rbr9il) | 2:25 |
+| 31 | [Let the Four Winds Blow](https://open.spotify.com/track/42YTOpUqCmVEL6jmOH5G59) | [Roy Brown](https://open.spotify.com/artist/1tawCzlbH40c30eztzufSu) | [Travelin' Blues](https://open.spotify.com/album/1ebcZ8wxJmT0UvU9aQEXJT) | 1:57 |
 | 32 | [Skeet's California Sunshine](https://open.spotify.com/track/2ewbTqjVof485O4tVrNXsd) | [Floyd Dixon](https://open.spotify.com/artist/5UCUtfCh50agObTTt2ma1M) | [Summer Blues Essentials](https://open.spotify.com/album/2n5OaC1GrgHfCQ2T2XpH9U) | 2:39 |
 | 33 | [Roll 'Em Pete](https://open.spotify.com/track/7cZee2jcOLtRtHcU3em8ZR) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA), [Joe Williams](https://open.spotify.com/artist/7FMGtucexJvUxVz7scydEL) | [Count Basie Swings \- Joe Williams Sings](https://open.spotify.com/album/4ZNICkebqBbvXNZmBTUcq5) | 3:10 |
 | 34 | [Don't Leave Me Baby](https://open.spotify.com/track/4o7M4lcfWchslXl2Lmr1hG) | [Lowell Fulson](https://open.spotify.com/artist/3VhvGNnWfzmlEyiuhzdgf5) | [The Aladdin Records Story](https://open.spotify.com/album/6u6jOi6YuLSVQkhRHK3rvM) | 3:00 |

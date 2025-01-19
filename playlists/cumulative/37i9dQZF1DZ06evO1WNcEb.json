@@ -263,6 +263,24 @@
     },
     {
       "album": {
+        "name": "Deus Forte (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270373,
+      "name": "Deus Forte (Ao Vivo)",
+      "url": "https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk"
+    },
+    {
+      "album": {
         "name": "Deus no Controle",
         "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
       },

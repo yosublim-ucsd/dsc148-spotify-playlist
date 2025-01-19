@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 119312,
+  "num_followers": 119322,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADxmIWQxRydl3afTi3nAyP3",
+  "snapshot_id": "Z4mdgAAAAABNpe+RaXGLskUNhnQuIAqu",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 160013,
-      "name": "Mick Jones Nicked My Pudding",
-      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Meanest Of Times",
         "url": "https://open.spotify.com/album/3yvUrHVpwhjIVz6MJvaQVX"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 219280,
       "name": "(F)lannigan's Ball",
       "url": "https://open.spotify.com/track/6mLxZx4FJpxWufufxpp9uG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 160013,
+      "name": "Mick Jones Nicked My Pudding",
+      "url": "https://open.spotify.com/track/2MmLVVAR4tB2zc7S61mvYk"
     },
     {
       "added_at": null,
@@ -555,38 +555,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 140693,
-      "name": "Peg O' My Heart",
-      "url": "https://open.spotify.com/track/435VOrlsquEIBjvVCV4z77"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blackout",
-        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 334226,
-      "name": "Kiss Me I'm #!@'faced",
-      "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "This Machine Still Kills Fascists (Expanded Edition)",
         "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
       },
@@ -607,6 +575,38 @@
       "duration_ms": 213357,
       "name": "The Last One (feat. Evan Felker of Turnpike Troubadours)",
       "url": "https://open.spotify.com/track/1rWZj9AJHpzT93KDVfl2mK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blackout",
+        "url": "https://open.spotify.com/album/5F8xhxWHGJDPiVQBuhKZza"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 334226,
+      "name": "Kiss Me I'm #!@'faced",
+      "url": "https://open.spotify.com/track/76JBKwPnXX4SjpTrOMfTNM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Going Out In Style",
+        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 140693,
+      "name": "Peg O' My Heart",
+      "url": "https://open.spotify.com/track/435VOrlsquEIBjvVCV4z77"
     },
     {
       "added_at": null,
@@ -659,8 +659,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 139152,
-      "name": "Finnegan's Wake",
-      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
+      "duration_ms": 222749,
+      "name": "Turn Up That Dial",
+      "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
     },
     {
       "added_at": null,
@@ -691,8 +691,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 222749,
-      "name": "Turn Up That Dial",
-      "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
+      "duration_ms": 139152,
+      "name": "Finnegan's Wake",
+      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
     },
     {
       "added_at": null,
@@ -807,18 +807,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Going Out In Style",
-        "url": "https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r"
+        "name": "Cold Like This",
+        "url": "https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah"
       },
       "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        },
         {
           "name": "Dropkick Murphys",
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 303333,
-      "name": "Broken Hymns",
-      "url": "https://open.spotify.com/track/6A4LNBVzs1Oe1ZOgR00EYX"
+      "duration_ms": 156618,
+      "name": "Cold Like This",
+      "url": "https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

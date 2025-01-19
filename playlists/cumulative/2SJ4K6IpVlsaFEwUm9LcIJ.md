@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-425 songs - 23 hr 38 min
+426 songs - 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Cozy](https://open.spotify.com/track/6WTEo1YkpHsOIg0CH638Z0) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Cozy](https://open.spotify.com/album/0IPNMyYo3yYoFu9vUtjKtY) | 3:11 | 2024-03-20 | 2024-05-16 |
 | [Cross Purposes](https://open.spotify.com/track/1LWNGV4aU7nLCnfIgO2xuJ) | [Novak](https://open.spotify.com/artist/2fb1zlAyUxXYuZnrtLw90x) | [Novak](https://open.spotify.com/album/7wJpbPDD3MhcxblMVKjdg1) | 4:54 | 2024-10-08 | 2024-11-14 |
 | [Cruel](https://open.spotify.com/track/7Ka90WZhBoWgyyoualEHcb) | [Hildegard](https://open.spotify.com/artist/2Ffds2i0bCHVuLiJq6GqCC), [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0), [Ouri](https://open.spotify.com/artist/41gxyJbzbAaChEyrZ9j3rv) | [Cruel](https://open.spotify.com/album/5wbdEyE7lvzohXtsFfvvdZ) | 3:18 | 2024-10-10 | 2024-11-14 |
+| [Crushing](https://open.spotify.com/track/0qS8CNO9bZlCJoGk6jyGXo) | [Bedhead](https://open.spotify.com/artist/1555UFA4CyCnJEzCKikGHe) | [1992\-1998](https://open.spotify.com/album/2WwcPCIKcAoVlYmIKjd8PO) | 3:51 | 2025-01-18 |  |
 | [Dawn blessings](https://open.spotify.com/track/2CDErqDxCM5ggWEgiYopcl) | [Bex Burch](https://open.spotify.com/artist/1tdT4MNoOC6sagnhU2XEbQ), [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [There is only love and fear](https://open.spotify.com/album/1uVwUTnbeJYN352RI4jRKe) | 4:50 | 2024-05-20 | 2024-05-25 |
 | [Day Out](https://open.spotify.com/track/47aR6Tg46yUtzc8N9QsRfI) | [Spresso](https://open.spotify.com/artist/1dsIiWajz8hxv8BVeqGWkw), [Alpha Maid](https://open.spotify.com/artist/6Rjl3uxMWyxlvDo6FnT6kW), [Mica Levi](https://open.spotify.com/artist/29LOCR81IrdEJjCAeCEOU3) | [Rockstars](https://open.spotify.com/album/7MqHeNymT801sFiL6dm8Z6) | 1:36 | 2024-08-12 | 2024-09-08 |
 | [Days Incomplete](https://open.spotify.com/track/4kWa3YO4waI2Iz69peM7gx) | [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Days Incomplete](https://open.spotify.com/album/4eG5JklQFLR4PPSVzfcb4d) | 3:39 | 2024-05-16 | 2024-07-12 |

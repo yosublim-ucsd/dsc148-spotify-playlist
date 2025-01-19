@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 
 > Country songs that soundtrack the great Australian outback
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,897 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,939 likes - 80 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 8 | [Duncan](https://open.spotify.com/track/6jHBKCN0A4nYI8Y6RZ5vBj) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 2:35 |
 | 9 | [Not Pretty Enough](https://open.spotify.com/track/5fkp9yhvTJ3oJEFO1AnFzm) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Barricades & Brickwalls](https://open.spotify.com/album/4dEBmwBqKmP1HOLtsO3oVP) | 3:19 |
 | 10 | [Long Hot Summer](https://open.spotify.com/track/3PY88239tYBnAv5LQoU2oY) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Get Closer \(Deluxe Version\)](https://open.spotify.com/album/62MetN2sHDnc8vVth9iInk) | 4:33 |
-| 11 | [Banks Of The Ohio](https://open.spotify.com/track/6ZS881EDqCJuLpCPFrAvjK) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:19 |
+| 11 | [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 |
 | 12 | [Give Me Tonight](https://open.spotify.com/track/5trK9XKx6v9zoAOlaDJ6Hr) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [My Mind's Projection](https://open.spotify.com/album/7fSZE2xLU6bZ1iobxww9WP) | 3:41 |
 | 13 | [Day Drunk](https://open.spotify.com/track/7nGuT0EfqQ1TXcADEKwB6Q) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 3:14 |
 | 14 | [The Outback Club \- Remastered 2017](https://open.spotify.com/track/2c5kAeXAQmgb97baBdtLqI) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i) | [Three Chain Road](https://open.spotify.com/album/2SMUg77ruqEc4C5hmZkmc7) | 3:23 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 16 | [We're Good Together](https://open.spotify.com/track/61Hpngia9MglsIAeIJW6Oe) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [Town of a Million Dreams](https://open.spotify.com/album/7EBct2XcvSl4zwCCphASFS) | 2:59 |
 | 17 | [Raining on the Plains](https://open.spotify.com/track/4vh4gdpGssQbhyZXcyU8RW) | [Sara Storer](https://open.spotify.com/artist/4NS9MlKeWzcx3EWAj3hjDL), [John Williamson](https://open.spotify.com/artist/5fH1pefToSzsa6ZqG3LVOt) | [Beautiful Circle](https://open.spotify.com/album/4KNo99ec5fHrQk0ulmA2IM) | 3:08 |
 | 18 | [A Pub With No Beer \- 1979 Version](https://open.spotify.com/track/0TJSVhxbtUzejxxkDnIHmp) | [Slim Dusty](https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5) | [No\. 50 \- The Golden Anniversary Album](https://open.spotify.com/album/78LRfatOMrEN0a3Ix1NmeW) | 3:00 |
-| 19 | [Let Me Be There](https://open.spotify.com/track/0E4HRDc8ReRr7Fy59eW2bX) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:01 |
+| 19 | [Banks Of The Ohio](https://open.spotify.com/track/6ZS881EDqCJuLpCPFrAvjK) | [Olivia Newton\-John](https://open.spotify.com/artist/4BoRxUdrcgbbq1rxJvvhg9) | [Let Me Be There](https://open.spotify.com/album/6WXUSQLuAYtoVRSWOFCBnx) | 3:19 |
 | 20 | [The Captain](https://open.spotify.com/track/1njWYdD28YORBUTF6vshxc) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The Captain](https://open.spotify.com/album/1vzuy2Jk6ZHMwIV1UIQPOB) | 4:32 |
 | 21 | [Territory Time](https://open.spotify.com/track/6roCB2PRkDbuE6HFLMklAd) | [Tom Curtain](https://open.spotify.com/artist/7tDBDlKPk1ifHO8oKFj5JH) | [Territory Time](https://open.spotify.com/album/7a5eGe0BAUZptvWMQa6cYh) | 3:18 |
 | 22 | [Young Again](https://open.spotify.com/track/5KClAAep73NVj6DYpLkvRA) | [Morgan Evans](https://open.spotify.com/artist/6fzQ81ouajOEFqCIB9VwrS) | [Things That We Drink To](https://open.spotify.com/album/7CgrejBVsP6OeA3WgxDPPc) | 2:55 |
@@ -87,6 +87,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4tXZzWpHEly.md) - [plain]
 | 77 | [Better Days](https://open.spotify.com/track/7eGt8dg46ni1LGK82034MJ) | [Casey Barnes](https://open.spotify.com/artist/1WN3NClJsEUzhRjTLSpt60) | [The Good Life](https://open.spotify.com/album/0o8Ylc1KfRnV1nv41BCP2c) | 3:52 |
 | 78 | [Saturated](https://open.spotify.com/track/17bC7BQoH9R4x5E9SDYTsa) | [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [Wayward Angel](https://open.spotify.com/album/5SgPHI9Nm8dffXY8YfFEQR) | 4:00 |
 | 79 | [A Little More Country](https://open.spotify.com/track/492kDhn2lpOQw5zWJ3aWuX) | [Troy Kemp](https://open.spotify.com/artist/3o6t3UAOCyBn3jNytoNNoT) | [Against the Grain](https://open.spotify.com/album/4jSskwRuBUEcGxYosdmds5) | 3:43 |
-| 80 | [Old Country Soul](https://open.spotify.com/track/0C56gk0HEzfCdzXl1WELhR) | [Christie Lamb](https://open.spotify.com/artist/4Pr9AicHS9itF9d7YdeN4F) | [Broken Lines](https://open.spotify.com/album/4gAB4N0q6hzK3gOiV14FAN) | 3:07 |
+| 80 | [Walk A Country Mile](https://open.spotify.com/track/7kwxHUvCUdBVsIMzCBbVVD) | [Lee Kernaghan](https://open.spotify.com/artist/7rT5vCRSip37zugzc8KN4i), [Troy Cassar\-Daley](https://open.spotify.com/artist/3RIsSUoG3tw0S19WabHxiM), [Kasey Chambers](https://open.spotify.com/artist/6uATIQFyydDXPc2RlLzcUE) | [The 25th Anniversary Album](https://open.spotify.com/album/6nBBO13SjitxrmnTvj04Ql) | 3:46 |
 
 Snapshot ID: `Z3vUAwAAAADK/oat1dZp5UjCiH85n62z`

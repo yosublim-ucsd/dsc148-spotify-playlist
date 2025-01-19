@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 222724,
+  "num_followers": 222714,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
-      },
-      "artists": [
-        {
-          "name": "Gloria Groove",
-          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
-        }
-      ],
-      "duration_ms": 185816,
-      "name": "5 Minutinhos - Ao Vivo",
-      "url": "https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
         "name": "SUPER",
         "url": "https://open.spotify.com/album/66R0BPV3pIJCpOWjAc1MBD"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 175086,
       "name": "Me Lambe",
       "url": "https://open.spotify.com/track/48cRh79BIB3MTXuwJY8rOJ"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "Serenata da GG, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2rKJHBwHEuztGQqjBkDDAK"
+      },
+      "artists": [
+        {
+          "name": "Gloria Groove",
+          "url": "https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw"
+        }
+      ],
+      "duration_ms": 185816,
+      "name": "5 Minutinhos - Ao Vivo",
+      "url": "https://open.spotify.com/track/0olqsq6LOpziaBUDIPvR0I"
     },
     {
       "added_at": "2024-10-08 13:46:40",
@@ -435,22 +435,6 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "SUPERNOVA",
-        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
-      },
-      "artists": [
-        {
-          "name": "J\u00e3o",
-          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
-        }
-      ],
-      "duration_ms": 212608,
-      "name": "O Triste \u00c9 Que Eu Te Amo",
-      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
         "name": "Me Chama de Gato Que Eu Sou Sua",
         "url": "https://open.spotify.com/album/0ge5ZLyto8vFQrif125mtW"
       },
@@ -463,6 +447,22 @@
       "duration_ms": 252959,
       "name": "Electric Fish",
       "url": "https://open.spotify.com/track/71nZeuoiMnfxISvp7luJy2"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "SUPERNOVA",
+        "url": "https://open.spotify.com/album/3MN8yWquVuWoOM0DOLRXsf"
+      },
+      "artists": [
+        {
+          "name": "J\u00e3o",
+          "url": "https://open.spotify.com/artist/59FrDXDVJz0EKqYg39dnT2"
+        }
+      ],
+      "duration_ms": 212608,
+      "name": "O Triste \u00c9 Que Eu Te Amo",
+      "url": "https://open.spotify.com/track/3XlPD6JLXbfqqrlAk4zB2w"
     },
     {
       "added_at": "2024-10-08 13:46:40",
@@ -1111,18 +1111,26 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "Jaqueira",
-        "url": "https://open.spotify.com/album/0HRQHuzohSmYpjYxL5cp3M"
+        "name": "Pra N\u00f3s",
+        "url": "https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L"
       },
       "artists": [
         {
-          "name": "Hiran",
-          "url": "https://open.spotify.com/artist/590jgrhOiQjSIASrY4mwPW"
+          "name": "MEL",
+          "url": "https://open.spotify.com/artist/3gjrLHmv3vMvjIXPPeUP2L"
+        },
+        {
+          "name": "Pepita",
+          "url": "https://open.spotify.com/artist/4dIZeMZqLu9pSUxsmItDxa"
+        },
+        {
+          "name": "Raquel",
+          "url": "https://open.spotify.com/artist/1W2iZuMWizkCnbbCKNaKxR"
         }
       ],
-      "duration_ms": 97863,
-      "name": "O Menino que Mexe Comigo",
-      "url": "https://open.spotify.com/track/5panpHdwYvwP6OS2tYlF98"
+      "duration_ms": 161190,
+      "name": "Pra N\u00f3s",
+      "url": "https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5"
     }
   ],
   "unique_name": "GLOW Brasil",

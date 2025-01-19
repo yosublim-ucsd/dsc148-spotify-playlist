@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Yoly Saa.
 
-734 songs - 1 day 19 hr 49 min
+735 songs - 1 day 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,7 +373,7 @@
 | [lo que siento](https://open.spotify.com/track/6cMql2rbxU8fKCDjNIdjBu) | [Valeria Castro](https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD) | [lo que siento](https://open.spotify.com/album/6DtlwcQChlzCGwjErEk8et) | 3:11 | 2023-01-20 | 2023-03-18 |
 | [lo\_divino](https://open.spotify.com/track/3cINNpglikeD4NAuTFMOaX) | [Juana Aguirre](https://open.spotify.com/artist/0BqnaIeIaSncq1NPK4kpD2) | [lo\_divino](https://open.spotify.com/album/2g6RJzn4rdlFwB3UgCX63A) | 3:21 | 2024-01-12 | 2024-02-17 |
 | [Lobo](https://open.spotify.com/track/7yRhEZ11EWwbHwIUQmxT49) | [Elena Gadel](https://open.spotify.com/artist/1xRDIbNubdwQ6WGevJWCHO) | [Lobo](https://open.spotify.com/album/2LOiM1ZumqvUE6Imy2AdwT) | 4:36 | 2023-03-02 | 2023-03-18 |
-| [Lobo](https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Lobo](https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk) | 3:06 | 2024-06-14 |  |
+| [Lobo](https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6) | [Marta Gómez](https://open.spotify.com/artist/759Wbu0yM5VsYUEFnWcYHY) | [Lobo](https://open.spotify.com/album/4d3I9khxaMn5J7RxbpBkJk) | 3:06 | 2024-06-14 | 2025-01-19 |
 | [Los amores perros](https://open.spotify.com/track/23bYhF4HNawfGoxR927Iuk) | [Soleado](https://open.spotify.com/artist/6GxANftnqrZYaBRulKsov8) | [Los amores perros](https://open.spotify.com/album/513UFrrW9KMHQjvTKigVLg) | 2:32 | 2024-10-25 | 2024-11-14 |
 | [Los Ancestros](https://open.spotify.com/track/7epCtFajoM2z7QtbnY23W2) | [Lucio Mantel](https://open.spotify.com/artist/5kCJ9ht14oLO98WlBRfwyk), [La Lá](https://open.spotify.com/artist/7nZ3e67Mo4DLU1RC81KX8H) | [Los Ancestros](https://open.spotify.com/album/2CUmklyaIJvfKBU65k5o24) | 4:10 | 2024-05-30 | 2024-08-31 |
 | [Los Andes](https://open.spotify.com/track/6bfd8pclPiJJ0Iunlt50xQ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Chancha Via Circuito](https://open.spotify.com/artist/6E8vZ5lkpXbXlkgHhbVJSl) | [Los Andes](https://open.spotify.com/album/46HToLQXsQFmePBjJlF07j) | 2:35 | 2022-07-22 | 2022-08-03 |
@@ -580,6 +580,7 @@
 | [Ronca \(Carta para una mija\)](https://open.spotify.com/track/4mrMJOIEADfaiKA4JGOxGI) | [Las Mijas](https://open.spotify.com/artist/5wCV48XtdJnhSEiu9bj8NP), [Briela Ojeda](https://open.spotify.com/artist/1MbehwcqhGMlU79kDBYOxo), [La Muchacha](https://open.spotify.com/artist/74IAICxWfYBsjabuEbKQXV) | [Ronca \(Carta para una mija\)](https://open.spotify.com/album/0ZMTvuqQsratPmmf2v4hva) | 3:42 | 2022-07-22 | 2022-09-03 |
 | [Ronda al canto \(A cielo abierto\)](https://open.spotify.com/track/0oSYjXfxfCcVbNoWZclRL6) | [el nido](https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka), [El Naan](https://open.spotify.com/artist/6cZpo2gbRxfH8bkYPpRIDk) | [Todo aire](https://open.spotify.com/album/1WQup3Fjz90NUT2EOsgFUF) | 3:21 | 2024-04-19 | 2024-04-29 |
 | [Ruegos y Demás](https://open.spotify.com/track/7fWlwO4QBU6TEg3sadKJCS) | [Raquel Lúa](https://open.spotify.com/artist/1QV6dJc7p6LRvDGtPqXsjU) | [Ruegos y Demás](https://open.spotify.com/album/7If6XahI9AqBcHY7MiBvNf) | 5:54 | 2021-12-24 | 2022-07-29 |
+| [Ruido](https://open.spotify.com/track/6m1OQPPhB0qpgQJ2oWfkqC) | [Alvaro Ruiz](https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg), [Juan Pablo Vega](https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0) | [Ruido](https://open.spotify.com/album/0fXJCqZ40DOe2XYHthR1sI) | 3:31 | 2025-01-16 |  |
 | [Rumba en Cahuita](https://open.spotify.com/track/0weanLGPZzqdbznu0iklgW) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Rumba en Cahuita](https://open.spotify.com/album/6jXK3xOmatH5Eb6fysEwDf) | 2:47 | 2022-07-22 | 2024-04-19 |
 | [Rumba en Cahuita](https://open.spotify.com/track/2cpVlayykQr0o0orPVt9ZZ) | [Perotá Chingó](https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox) | [Rumba en Cahuita](https://open.spotify.com/album/0SHpnCl4SJhdpdOSCMjZdm) | 2:47 | 2021-12-24 | 2022-07-29 |
 | [Sabéis Quiénes Sois](https://open.spotify.com/track/2LzQ5MZuUFAuuqSctvnA7M) | [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Sabéis Quiénes Sois](https://open.spotify.com/album/6vhOlsztLifwHFGDVzdmyq) | 3:45 | 2021-12-24 | 2023-06-17 |

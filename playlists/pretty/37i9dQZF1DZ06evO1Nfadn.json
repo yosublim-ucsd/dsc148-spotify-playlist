@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Maguey. The essential tracks, all in one playlist.",
-  "num_followers": 30422,
+  "num_followers": 30444,
   "original_name": "This Is Banda Maguey",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADSEbiKltRF16jlLd3wMC3M",
+  "snapshot_id": "Z4mdgAAAAACj51JOmVIZyEH4KvAw93BL",
   "tracks": [
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu Eterno Enamorado",
+        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 150706,
+      "name": "Porque Es Amor",
+      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -583,22 +599,6 @@
       "duration_ms": 148188,
       "name": "Ay Amigo",
       "url": "https://open.spotify.com/track/199n62G0tdmv5LARvuPdPB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pa Que Veas Lo Que Se Siente",
-        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 216373,
-      "name": "Evidencias",
-      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,
@@ -619,8 +619,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tu Eterno Enamorado",
-        "url": "https://open.spotify.com/album/6rCAwHhGY5NUtmaEFG4nCH"
+        "name": "Pa Que Veas Lo Que Se Siente",
+        "url": "https://open.spotify.com/album/1GxBZ4J8MGYc2aPocy0Lcg"
       },
       "artists": [
         {
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
         }
       ],
-      "duration_ms": 150706,
-      "name": "Porque Es Amor",
-      "url": "https://open.spotify.com/track/3awzdEMT0FtzYZ0gcbKZkI"
+      "duration_ms": 216373,
+      "name": "Evidencias",
+      "url": "https://open.spotify.com/track/1v24D8YVZIWfV9c8A3VkXU"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los 15 para Coleccionar",
-        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
-      },
-      "artists": [
-        {
-          "name": "Banda Maguey",
-          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
-        }
-      ],
-      "duration_ms": 160306,
-      "name": "Madrecita Querida",
-      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u00c9xitos de Oro",
         "url": "https://open.spotify.com/album/6IpONMMEs5dxZEhkA18Uyq"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 158157,
       "name": "Por una L\u00e1grima",
       "url": "https://open.spotify.com/track/5lMi9SktHdwfast6BALpAQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los 15 para Coleccionar",
+        "url": "https://open.spotify.com/album/0t5ruOg4UdTqyXxVqFkVhm"
+      },
+      "artists": [
+        {
+          "name": "Banda Maguey",
+          "url": "https://open.spotify.com/artist/36jRzJQUvAeKRukEMtm44w"
+        }
+      ],
+      "duration_ms": 160306,
+      "name": "Madrecita Querida",
+      "url": "https://open.spotify.com/track/6IaC9i9Oic4FkjjFoOpSTj"
     },
     {
       "added_at": null,

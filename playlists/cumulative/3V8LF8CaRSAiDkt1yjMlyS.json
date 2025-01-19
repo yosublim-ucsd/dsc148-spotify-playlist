@@ -1325,6 +1325,28 @@
     },
     {
       "album": {
+        "name": "DUSKWEAVER",
+        "url": "https://open.spotify.com/album/2SK2qhrt9TyRB1lEdxibcZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Thal",
+          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
+        },
+        {
+          "name": "Finn Lavo",
+          "url": "https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144879,
+      "name": "Ivory Descent",
+      "url": "https://open.spotify.com/track/3BODItmW74qn90hULauUym"
+    },
+    {
+      "album": {
         "name": "Je te laisserai des mots",
         "url": "https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8"
       },

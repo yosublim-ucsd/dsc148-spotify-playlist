@@ -1,6 +1,6 @@
 {
   "description": "\u00a1A almorzar con sabrosura pop y tropical!",
-  "num_followers": 48577,
+  "num_followers": 48589,
   "original_name": "Sopa y Seco",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Caraluna",
-        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
-      },
-      "artists": [
-        {
-          "name": "Bacilos",
-          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
-        }
-      ],
-      "duration_ms": 266160,
-      "name": "Caraluna",
-      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "3.0",
         "url": "https://open.spotify.com/album/6vBpLg3T8bojcqzoKI6m0R"
       },
@@ -155,6 +139,22 @@
       "duration_ms": 252346,
       "name": "Vivir Mi Vida",
       "url": "https://open.spotify.com/track/3QHMxEOAGD51PDlbFPHLyJ"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Caraluna",
+        "url": "https://open.spotify.com/album/2bM009J81OBNisrMbFwBJj"
+      },
+      "artists": [
+        {
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        }
+      ],
+      "duration_ms": 266160,
+      "name": "Caraluna",
+      "url": "https://open.spotify.com/track/7DhYjNLksXZhbRQeheAums"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -239,22 +239,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Valio La Pena",
-        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 300160,
-      "name": "Tu Amor Me Hace Bien - Salsa Version",
-      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "20th Anniversary",
         "url": "https://open.spotify.com/album/6quTUa9H2vITjPy9TArBvW"
       },
@@ -267,6 +251,38 @@
       "duration_ms": 354973,
       "name": "Gotas De Lluvia",
       "url": "https://open.spotify.com/track/6sna5KCgNbt1ciZtVJCjzx"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Lo Esencial",
+        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
+      },
+      "artists": [
+        {
+          "name": "DLG",
+          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
+        }
+      ],
+      "duration_ms": 302320,
+      "name": "La Quiero A Morir",
+      "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Valio La Pena",
+        "url": "https://open.spotify.com/album/4O3yvEN5II2yKWKBPtDLD7"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 300160,
+      "name": "Tu Amor Me Hace Bien - Salsa Version",
+      "url": "https://open.spotify.com/track/3yEtuhGR8jOtusa29jWrhG"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -291,22 +307,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Lo Esencial",
-        "url": "https://open.spotify.com/album/0xgbPkhH5Hvuqa0hBGjpj3"
-      },
-      "artists": [
-        {
-          "name": "DLG",
-          "url": "https://open.spotify.com/artist/0z0w28IvsF1gsKhVAMbh9p"
-        }
-      ],
-      "duration_ms": 302320,
-      "name": "La Quiero A Morir",
-      "url": "https://open.spotify.com/track/3rsVX2Pd8UkjqF2MAZqeif"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/44rPp1bnN1eL9ld3QE1t9c"
       },
@@ -319,26 +319,6 @@
       "duration_ms": 308693,
       "name": "Idilio",
       "url": "https://open.spotify.com/track/6VQ2fI8goSX8mpSvytXkXR"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "The Greatest Salsa Ever",
-        "url": "https://open.spotify.com/album/6exx6nGkNvyAsyjLhvaXh5"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 367920,
-      "name": "Vivir Lo Nuestro",
-      "url": "https://open.spotify.com/track/4UXdWLgdsdmkeOFABIGwZY"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -363,6 +343,26 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "The Greatest Salsa Ever",
+        "url": "https://open.spotify.com/album/6exx6nGkNvyAsyjLhvaXh5"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        },
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 367920,
+      "name": "Vivir Lo Nuestro",
+      "url": "https://open.spotify.com/track/4UXdWLgdsdmkeOFABIGwZY"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "El Hombre Mas Famoso De La Tierra",
         "url": "https://open.spotify.com/album/59IdVahjfUKyRxPcGiAp98"
       },
@@ -379,22 +379,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Sigo Siendo Yo",
-        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
-      },
-      "artists": [
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
-        }
-      ],
-      "duration_ms": 302946,
-      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
-      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "The Best",
         "url": "https://open.spotify.com/album/1b2HgTcfv1ocO7J83D1eIm"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 293893,
       "name": "Sin Sentimientos",
       "url": "https://open.spotify.com/track/4ubwzNjqHGaZZ5k06PDx1H"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
+        "name": "Sigo Siendo Yo",
+        "url": "https://open.spotify.com/album/70XO7jxoVIV9p9IFyjXGvJ"
+      },
+      "artists": [
+        {
+          "name": "Marc Anthony",
+          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
+        }
+      ],
+      "duration_ms": 302946,
+      "name": "Qu\u00e9 Precio Tiene el Cielo - Salsa Version",
+      "url": "https://open.spotify.com/track/2MnKininlD8bY9ggRNSJ37"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "La Universidad de La Salsa",
+        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        }
+      ],
+      "duration_ms": 301373,
+      "name": "Y No Hago Mas Na'",
+      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "Los Reyes Del Ritmo",
         "url": "https://open.spotify.com/album/16fBXAobpXR3CMdoln0h3o"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 261133,
       "name": "Cuando el Amor se Da\u00f1a",
       "url": "https://open.spotify.com/track/4uq7AHJBZbXE6jqIVqQD5A"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "La Universidad de La Salsa",
-        "url": "https://open.spotify.com/album/4DsJh2ZUJMbAIZ3tdpI6Zf"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        }
-      ],
-      "duration_ms": 301373,
-      "name": "Y No Hago Mas Na'",
-      "url": "https://open.spotify.com/track/4fHYtAHpAmsFDq7kTLzgh5"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -583,22 +583,6 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Sin Medir Distancia",
-        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
-      },
-      "artists": [
-        {
-          "name": "Rikarena",
-          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
-        }
-      ],
-      "duration_ms": 279266,
-      "name": "Era Mentira",
-      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
         "name": "El Hombre Merengue",
         "url": "https://open.spotify.com/album/2pQywjfiQQQQnjRGrxjHwd"
       },
@@ -651,6 +635,22 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "Sin Medir Distancia",
+        "url": "https://open.spotify.com/album/2zu3zhuorKNMUQCOtkgyyq"
+      },
+      "artists": [
+        {
+          "name": "Rikarena",
+          "url": "https://open.spotify.com/artist/2Z0C8UvMoiixS0cRV8Urtr"
+        }
+      ],
+      "duration_ms": 279266,
+      "name": "Era Mentira",
+      "url": "https://open.spotify.com/track/5HsglGvMFQvP0wEupHBRV3"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "Colecci\u00f3n \u00c9xitos Pastor L\u00f3pez (Vol. 1)",
         "url": "https://open.spotify.com/album/2xz5eDdp7jLgCCcmCkGaHk"
       },
@@ -667,18 +667,18 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Vida",
-        "url": "https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9"
+        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
       },
       "artists": [
         {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
+          "name": "Carlos Vives",
+          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
         }
       ],
-      "duration_ms": 301133,
-      "name": "Pegame Tu Vicio",
-      "url": "https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4"
+      "duration_ms": 247720,
+      "name": "La Foto de los Dos",
+      "url": "https://open.spotify.com/track/2VL0W9x83RwQOBGbfphBqW"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -699,18 +699,18 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
-        "name": "Coraz\u00f3n Profundo (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/5aYaYsDnVXSvVTP7KTHmSl"
+        "name": "Vida",
+        "url": "https://open.spotify.com/album/29eoBGwO0kyHR7Vu5NiyO9"
       },
       "artists": [
         {
-          "name": "Carlos Vives",
-          "url": "https://open.spotify.com/artist/4vhNDa5ycK0ST968ek7kRr"
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 247720,
-      "name": "La Foto de los Dos",
-      "url": "https://open.spotify.com/track/2VL0W9x83RwQOBGbfphBqW"
+      "duration_ms": 301133,
+      "name": "Pegame Tu Vicio",
+      "url": "https://open.spotify.com/track/0DLaQPP83EMpgmbiEuzwM4"
     },
     {
       "added_at": "2024-07-12 22:59:20",
@@ -751,6 +751,22 @@
     {
       "added_at": "2024-07-12 22:59:20",
       "album": {
+        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
+      },
+      "artists": [
+        {
+          "name": "Felipe Pel\u00e1ez",
+          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
+        }
+      ],
+      "duration_ms": 311506,
+      "name": "Cuando Quieras Quiero - En Vivo",
+      "url": "https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk"
+    },
+    {
+      "added_at": "2024-07-12 22:59:20",
+      "album": {
         "name": "Historia de \u00c9xitos, Vol. 1",
         "url": "https://open.spotify.com/album/6wGUXNz5DDVpWq1x1oLO6v"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 260432,
       "name": "La Vamo a Tumb\u00e1",
       "url": "https://open.spotify.com/track/0dXGYzrcRP1rmSAumo4wFe"
-    },
-    {
-      "added_at": "2024-07-12 22:59:20",
-      "album": {
-        "name": "Felipe Pel\u00e1ez 30 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/0f5F611gI9fLfW7N9wr5Zw"
-      },
-      "artists": [
-        {
-          "name": "Felipe Pel\u00e1ez",
-          "url": "https://open.spotify.com/artist/6dexNK5MjEL8UvmA5MjSgg"
-        }
-      ],
-      "duration_ms": 311506,
-      "name": "Cuando Quieras Quiero - En Vivo",
-      "url": "https://open.spotify.com/track/7mne6vl01FpHSn1r1S2BCk"
     },
     {
       "added_at": "2024-07-12 22:59:20",

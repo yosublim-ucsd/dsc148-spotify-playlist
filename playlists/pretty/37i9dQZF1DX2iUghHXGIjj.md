@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 
 > Raw, emotional, and acoustic\. Cover: Charlie Musselwhite
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,068 likes - 100 songs - 6 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,063 likes - 100 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2iUghHXGIjj.md) - [plain]
 | 45 | [Riding In the Moonlight / Mr\. Luck](https://open.spotify.com/track/1mkxMjrjzzXU9mg4S375Zo) | [Colin James](https://open.spotify.com/artist/5OH6mZ9jAWB8UnC1447H1j) | [Blue Highways](https://open.spotify.com/album/5IzvgXy4fmGzgxkfVS2tul) | 2:57 |
 | 46 | [Sideways](https://open.spotify.com/track/2hVQh6Yq26Qjk8tEp484Vb) | [Jo Harman](https://open.spotify.com/artist/6ydZgJ9WCRguM0ZZRG8thk) | [Sideways](https://open.spotify.com/album/5PdyH6DLYq6QQkeX1DRLYY) | 4:21 |
 | 47 | [Diving Duck Blues](https://open.spotify.com/track/0hK8IwYBQwGbTgd7C5XyRZ) | [Taj Mahal](https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp), [Keb' Mo'](https://open.spotify.com/artist/6iDaoPZVgxrTkndDCisX8F) | [TajMo](https://open.spotify.com/album/3NF642glRZZKf3Ng96eMfX) | 4:28 |
-| 48 | [When the Levee Breaks \(feat\. Jean Jacques Milteau\)](https://open.spotify.com/track/6uJKEvWD4zKL8PGwadftFv) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh), [Jean\-Jacques Milteau](https://open.spotify.com/artist/4ConspsaeqXp9c2pOc3M0n) | [Tiny Town](https://open.spotify.com/album/2oRSRMtrLn135wYYzdksnA) | 3:18 |
+| 48 | [When the Levee Breaks](https://open.spotify.com/track/6uJKEvWD4zKL8PGwadftFv) | [Cary Morin](https://open.spotify.com/artist/51oTB1rGltPYEUj9WqBqgh), [Jean\-Jacques Milteau](https://open.spotify.com/artist/4ConspsaeqXp9c2pOc3M0n) | [Tiny Town](https://open.spotify.com/album/2oRSRMtrLn135wYYzdksnA) | 3:18 |
 | 49 | [Deep River Blues](https://open.spotify.com/track/4PvPkRcbnO4s67MPnij3sh) | [Doc Watson](https://open.spotify.com/artist/01N1aZStXA4yGvkz4vRXtJ) | [Doc Watson](https://open.spotify.com/album/5utfrn0rGdeOC9MO2xCI6r) | 3:12 |
 | 50 | [Backstreets](https://open.spotify.com/track/5zxLOp4pDCfnJuMhZakq4f) | [Lazer Lloyd](https://open.spotify.com/artist/3M7XE8fhxddDJWWhchEXud) | [Backstreets](https://open.spotify.com/album/3OgV4LLpLHkzMKY063lPdi) | 4:56 |
 | 51 | [With My Maker I Am One](https://open.spotify.com/track/7rphDmPtaLsPMLxxtc7nQY) | [Eric Bibb](https://open.spotify.com/artist/2uNcfNhlVJUyEX0t0NG1m1) | [Booker’s Guitar](https://open.spotify.com/album/6ds4XXPkWpPm1FkqYsA3xr) | 3:41 |

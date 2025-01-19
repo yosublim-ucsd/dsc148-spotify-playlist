@@ -4,7 +4,7 @@
 
 > This is what folk sounds like en español\. Cover: Kevin Kaarl
 
-161 songs - 9 hr 35 min
+162 songs - 9 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -75,6 +75,7 @@
 | [Instantes y Aullidos](https://open.spotify.com/track/5RMNO57A2o5QYj7amonXVE) | [Tomás del Real](https://open.spotify.com/artist/0LhgYcyninijD4GAKXPa3v) | [Instantes y Aullidos](https://open.spotify.com/album/7FHSfjRkiYxyZ9keRX0r2Q) | 5:00 | 2024-03-29 |  |
 | [It’s All In Your Mind](https://open.spotify.com/track/6i6zi5TgXuKUxooOMqhKfQ) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Sonido Cósmico](https://open.spotify.com/album/0FI8JaUH7kqtvM6EkmCm7t) | 4:38 | 2024-06-14 |  |
 | [Juegos y Miedos \- Acústico](https://open.spotify.com/track/4TRZk8gb5btbkXbTx3yo7k) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [X Mí \(Vol\. 1\)](https://open.spotify.com/album/6acPZRAg6LmiWEX3FPtmQF) | 6:04 | 2023-05-05 | 2024-07-06 |
+| [julia](https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [julia](https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu) | 3:12 | 2025-01-17 |  |
 | [Kevin Garvey](https://open.spotify.com/track/3hRUlliVQPHxWPGo4nyzUs) | [Teo Planell](https://open.spotify.com/artist/3Mhaefda5u1LJlRWdJgqz4) | [Aún No Existía Beatrice](https://open.spotify.com/album/72nobYM1if8xQLwU5I193A) | 3:02 | 2024-09-20 | 2025-01-18 |
 | [La Casa de la Esquina](https://open.spotify.com/track/20WdW4UdJHtYcaQEyEktaa) | [Vivir Quintana](https://open.spotify.com/artist/3Z3OTfxYdBnJKMXFbRjmU2) | [Te mereces un amor](https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF) | 3:44 | 2023-10-20 |  |
 | [La Casa de Mis Papás](https://open.spotify.com/track/57uar5nkiQYNc97olkS1LJ) | [Andrés Obregón](https://open.spotify.com/artist/0AQMbCYt6y84wEHGzScKve) | [La Casa de Mis Papás](https://open.spotify.com/album/4fDVPUDYYSLk6g3WWoZUzG) | 2:56 | 2023-12-15 |  |
@@ -87,7 +88,7 @@
 | [Los Chicos Tristes \[Feat\. Jensine Benitez\] \- El Michels Affair Remix](https://open.spotify.com/track/0rn2hYyqGKK7wwpwsrXcc8) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Jensine Benitez](https://open.spotify.com/artist/6EkOEYrG2cAQgIatrHQJbX) | [Los Chicos Tristes \[Feat\. Jensine Benitez\] \(El Michels Affair Remix\)](https://open.spotify.com/album/0UQ4Se7ofqNnYlemid3D4b) | 2:41 | 2023-10-13 | 2024-04-19 |
 | [Lotta Love](https://open.spotify.com/track/4xPoGj1cAY9v5AGardly8e) | [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ), [Flock of Dimes](https://open.spotify.com/artist/1TTfuOdEtj8lin2zR4OWmP) | [Lotta Love](https://open.spotify.com/album/5x4bbGHyxTYhEnhXXmN2OE) | 3:17 | 2023-02-24 | 2024-04-19 |
 | [Love Song \- Helado Negro Remix](https://open.spotify.com/track/2PKJ88Ap4ebLFxJ4lwAGRF) | [Devendra Banhart](https://open.spotify.com/artist/1YZEoYFXx4AxVv13OiOPvZ), [Helado Negro](https://open.spotify.com/artist/69qhRLDvsWJOhWGXXQ0lQQ) | [Love Song \(Helado Negro Remix\)](https://open.spotify.com/album/2p5v0LukKFqgNeLsNPVqYF) | 4:19 | 2023-02-24 |  |
-| [Luces](https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 3:22 | 2023-12-15 |  |
+| [Luces](https://open.spotify.com/track/25j1JelJbw6qcWSrwm6GAh) | [Danny Schiller](https://open.spotify.com/artist/6Jrjs10cg0Sf0uMzLjfraC) | [Luces](https://open.spotify.com/album/7mhGFgIm9IZpU8AQX6anG3) | 3:22 | 2023-12-15 | 2025-01-19 |
 | [Luchín](https://open.spotify.com/track/6DGmZzSK5KJebAw3CrAmaa) | [Emilia y Pablo](https://open.spotify.com/artist/4yHD7XAN2Xtk203wG7Gzad) | [Luchín](https://open.spotify.com/album/2pz5K8WJlwSCMxpVNZHxRB) | 4:04 | 2024-04-24 | 2024-07-21 |
 | [Lugar ideal](https://open.spotify.com/track/7ci35SpcUNFGAEyLqvp6rA) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [El Kanka](https://open.spotify.com/artist/4Byu6VBhuMYzcoIUrIyLuL) | [Dos Hemisferios](https://open.spotify.com/album/3v0GqkeQbUQtzgd4yPYpDu) | 3:18 | 2024-07-05 |  |
 | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/track/34ajEsNwrD90F2K80UjeLs) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW), [Oscar Isaac](https://open.spotify.com/artist/5opRYqktzpMFqZ7jtnp7yy) | [Luna de Xelajú \(feat\. Oscar Isaac\)](https://open.spotify.com/album/17gVN1sl8a6wg1yBLPyCiE) | 3:18 | 2023-03-31 |  |

@@ -1,6 +1,6 @@
 {
   "description": "Chill techno, melodic house and tech house.",
-  "num_followers": 976459,
+  "num_followers": 976622,
   "original_name": "Lowkey Tech",
   "owner": {
     "name": "Spotify",
@@ -191,6 +191,26 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
+        "name": "Inner Light",
+        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
+      },
+      "artists": [
+        {
+          "name": "Elderbrook",
+          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
+        },
+        {
+          "name": "Bob Moses",
+          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
+        }
+      ],
+      "duration_ms": 257984,
+      "name": "Inner Light",
+      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
         "name": "ten days",
         "url": "https://open.spotify.com/album/3DQueEd1Ft9PHWgovDzPKh"
       },
@@ -219,26 +239,6 @@
       "duration_ms": 453068,
       "name": "glow",
       "url": "https://open.spotify.com/track/3i9QKRl5Ql3pgUfNdYBVTc"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "Inner Light",
-        "url": "https://open.spotify.com/album/4lwHXYfthE95rn7z1B3dWD"
-      },
-      "artists": [
-        {
-          "name": "Elderbrook",
-          "url": "https://open.spotify.com/artist/2vf4pRsEY6LpL5tKmqWb64"
-        },
-        {
-          "name": "Bob Moses",
-          "url": "https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5"
-        }
-      ],
-      "duration_ms": 257984,
-      "name": "Inner Light",
-      "url": "https://open.spotify.com/track/40tPP3K10yMZxwnT65REKj"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -659,6 +659,22 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
+        "name": "WONDER",
+        "url": "https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf"
+      },
+      "artists": [
+        {
+          "name": "me n \u00fc",
+          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
+        }
+      ],
+      "duration_ms": 159600,
+      "name": "WONDER",
+      "url": "https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
         "name": "The Echo",
         "url": "https://open.spotify.com/album/2SL1jZqdMyq7TZAiVOG5pS"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 214680,
       "name": "Euphoria - Jan Blomqvist Remix Edit",
       "url": "https://open.spotify.com/track/77XYcWypukNOCbRw8yhlfc"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "WONDER",
-        "url": "https://open.spotify.com/album/5UDziBqXsCROej1kQLJVwf"
-      },
-      "artists": [
-        {
-          "name": "me n \u00fc",
-          "url": "https://open.spotify.com/artist/1hqo0TnaWxL6jVm0wdzi9f"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "WONDER",
-      "url": "https://open.spotify.com/track/5rEdvcGN1LKDAufgdw2K6s"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
-        "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
-      },
-      "artists": [
-        {
-          "name": "Mahmut Orhan",
-          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 158000,
-      "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
-      "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "Flora",
         "url": "https://open.spotify.com/album/33WKJM2wXacefLeiFUIyq1"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 202741,
       "name": "Flora",
       "url": "https://open.spotify.com/track/2KOZxPEN0SpuzR8dPal8As"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
+        "url": "https://open.spotify.com/album/2NBk2VsMfEeBlN8KObjo7h"
+      },
+      "artists": [
+        {
+          "name": "Mahmut Orhan",
+          "url": "https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 158000,
+      "name": "Maldad Pura (feat. Jasiel Nu\u00f1ez)",
+      "url": "https://open.spotify.com/track/2DlC8rbljmNHJMteSMWJWa"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1075,22 +1075,22 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Lean Into Light",
-        "url": "https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO"
+        "name": "Ascension",
+        "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
       },
       "artists": [
         {
-          "name": "Qrion",
-          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
+          "name": "Marsh",
+          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
         },
         {
-          "name": "pinkpirate",
-          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
+          "name": "Volen Sentir",
+          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
         }
       ],
-      "duration_ms": 205053,
-      "name": "Lean Into Light",
-      "url": "https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq"
+      "duration_ms": 244517,
+      "name": "Ascension",
+      "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1111,22 +1111,22 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Ascension",
-        "url": "https://open.spotify.com/album/6mhiuF8VWrCnXFyX8UpPVS"
+        "name": "Lean Into Light",
+        "url": "https://open.spotify.com/album/282NridUZkVAFKM7tBVTEO"
       },
       "artists": [
         {
-          "name": "Marsh",
-          "url": "https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp"
+          "name": "Qrion",
+          "url": "https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw"
         },
         {
-          "name": "Volen Sentir",
-          "url": "https://open.spotify.com/artist/7scXA3hBD8JyGGajVR9q9l"
+          "name": "pinkpirate",
+          "url": "https://open.spotify.com/artist/2C4qc4gKpneYW9QhGSeyCZ"
         }
       ],
-      "duration_ms": 244517,
-      "name": "Ascension",
-      "url": "https://open.spotify.com/track/6Gi53jMV1JLVFYOS2iywxA"
+      "duration_ms": 205053,
+      "name": "Lean Into Light",
+      "url": "https://open.spotify.com/track/37KtKCmBdI0LFiuPdlGaEq"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1187,18 +1187,26 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Don't Stop Me Now",
-        "url": "https://open.spotify.com/album/2jS4uQwgKMayLnhp2M38eS"
+        "name": "Promised Land (Remixes)",
+        "url": "https://open.spotify.com/album/7y2Ql92gRjn5vdf1pE8Dhn"
       },
       "artists": [
         {
-          "name": "Oliver Koletzki",
-          "url": "https://open.spotify.com/artist/1WjBIvYAnZTkTh5UiZNwlR"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+        },
+        {
+          "name": "The Temper Trap",
+          "url": "https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq"
+        },
+        {
+          "name": "K\u00f6lsch",
+          "url": "https://open.spotify.com/artist/2D9Oe8R9UhbMvFAsMJpXj0"
         }
       ],
-      "duration_ms": 344369,
-      "name": "Don't Stop Me Now",
-      "url": "https://open.spotify.com/track/2FxDmxZdZ0yNb8rABBxLS1"
+      "duration_ms": 254395,
+      "name": "Too Far Down The Trap - K\u00f6lsch Remix",
+      "url": "https://open.spotify.com/track/2HBcyKXs7ahHDssSJ9goSq"
     }
   ],
   "unique_name": "Lowkey Tech",

@@ -1,12 +1,12 @@
 {
   "description": "This is $uicideboy$. The essential tracks, all in one playlist.",
-  "num_followers": 630435,
+  "num_followers": 630540,
   "original_name": "This Is $uicideboy$",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAAZDRIAER6BNWpqHHKCNjr+",
+  "snapshot_id": "Z4mdgAAAAAB7m4Cf0xfaw22zJ9I5u7YI",
   "tracks": [
     {
       "added_at": null,
@@ -611,22 +611,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Goodnight Lovell",
-        "url": "https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS"
+        "name": "7th or St. Tammany",
+        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
       },
       "artists": [
-        {
-          "name": "Night Lovell",
-          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
-        },
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 145202,
-      "name": "JOAN OF ARC",
-      "url": "https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt"
+      "duration_ms": 144242,
+      "name": "Drugs/Hoes/Money/Etc.",
+      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
     },
     {
       "added_at": null,
@@ -647,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "7th or St. Tammany",
-        "url": "https://open.spotify.com/album/4BqLJSu0S1KEsA6DBbJ9L4"
+        "name": "Goodnight Lovell",
+        "url": "https://open.spotify.com/album/7DNZURhi8nhcGxhoRriZFS"
       },
       "artists": [
+        {
+          "name": "Night Lovell",
+          "url": "https://open.spotify.com/artist/2y246nnP9pQT0E6v3ZMMOO"
+        },
         {
           "name": "$uicideboy$",
           "url": "https://open.spotify.com/artist/1VPmR4DJC1PlOtd0IADAO0"
         }
       ],
-      "duration_ms": 144242,
-      "name": "Drugs/Hoes/Money/Etc.",
-      "url": "https://open.spotify.com/track/4OiSO4RZwrDE4THvfhyRPG"
+      "duration_ms": 145202,
+      "name": "JOAN OF ARC",
+      "url": "https://open.spotify.com/track/1nQwi9UGdNeN1FyzGE7jDt"
     },
     {
       "added_at": null,

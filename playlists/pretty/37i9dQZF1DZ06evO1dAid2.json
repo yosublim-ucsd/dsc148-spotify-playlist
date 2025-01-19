@@ -1,12 +1,12 @@
 {
   "description": "This is Chuck Berry. The essential tracks, all in one playlist.",
-  "num_followers": 130753,
+  "num_followers": 130763,
   "original_name": "This Is Chuck Berry",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAABOyDkY2ENybnrX07wXs8Uz",
+  "snapshot_id": "Z4mdgAAAAABTVMuRljrx6a1Q58OBk5/s",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 205733,
-      "name": "San Francisco Dues",
-      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
+      "duration_ms": 157240,
+      "name": "Bordeaux In My Pirough",
+      "url": "https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chuck Berry In Memphis",
-        "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
+        "name": "After School Session",
+        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 150333,
-      "name": "I Do Really Love You",
-      "url": "https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK"
+      "duration_ms": 169173,
+      "name": "Downbound Train",
+      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
     },
     {
       "added_at": null,
@@ -760,15 +760,15 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 157240,
-      "name": "Bordeaux In My Pirough",
-      "url": "https://open.spotify.com/track/3RVH1OQ7AH4A4iac4MzqLT"
+      "duration_ms": 205733,
+      "name": "San Francisco Dues",
+      "url": "https://open.spotify.com/track/2ksmbGi6N2xe3ToE6V7rsd"
     },
     {
       "added_at": null,
       "album": {
-        "name": "After School Session",
-        "url": "https://open.spotify.com/album/74l3iTVn21XoY6VZJ0FpkH"
+        "name": "Chuck Berry In Memphis",
+        "url": "https://open.spotify.com/album/6YcMOYUcy7x4uOg7PasswM"
       },
       "artists": [
         {
@@ -776,9 +776,9 @@
           "url": "https://open.spotify.com/artist/293zczrfYafIItmnmM3coR"
         }
       ],
-      "duration_ms": 169173,
-      "name": "Downbound Train",
-      "url": "https://open.spotify.com/track/4q0J9IdCJ7l8YjNNxp4UZL"
+      "duration_ms": 150333,
+      "name": "I Do Really Love You",
+      "url": "https://open.spotify.com/track/2yJ5SBKkxC7MLHbrEPFQjK"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\. \| Request songs @ Furrest.Online
 
-271 songs - 14 hr 27 min
+272 songs - 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -43,6 +43,7 @@
 | [CAN'T STOP](https://open.spotify.com/track/2TMC4JYz0pD8nJlm65IBKN) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh) | [CAN'T STOP](https://open.spotify.com/album/2FElMr0pH6TSfOt1g78IjT) | 2:58 | 2024-11-03 |  |
 | [Candy Heaven](https://open.spotify.com/track/6Gn1p6UBqBHRvIlK8rmPTp) | [Tenkitsune](https://open.spotify.com/artist/3npM0ZkW5qRUL5Y7ihHRrU) | [Candy Heaven](https://open.spotify.com/album/4CaJy3M7jYKZmuygaN6PWt) | 3:28 | 2023-06-14 |  |
 | [card](https://open.spotify.com/track/2kNuf5L0935uC0Sp6m23Cu) | [Ashley Ninelives](https://open.spotify.com/artist/75f7kE3UP14RoDP8tEAPnE) | [cheshire days](https://open.spotify.com/album/1hLHnPf5helwdhFCOgGjSi) | 2:34 | 2024-08-15 |  |
+| [CASUAL >:D](https://open.spotify.com/track/3gthipeVjVlyEkLqU8hvGV) | [lil fasty](https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU) | [CASUAL >:D](https://open.spotify.com/album/6i3l92cclMejoNliq82wv9) | 1:33 | 2025-01-18 |  |
 | [Catdelions IIS](https://open.spotify.com/track/6TROIvKbmnmfIZhuN2v3Vj) | [UrvTek](https://open.spotify.com/artist/3YRcEMe1SRTPBGYbiRtBGh), [Artifyber](https://open.spotify.com/artist/41B16M5LFJKcwUW3L75PVh) | [Catdelions IIS](https://open.spotify.com/album/1QX1Z2oES9tANgs5iE5sq6) | 2:52 | 2024-11-03 |  |
 | [certified lover dog](https://open.spotify.com/track/5rNoYEugXQWhscYIHBvyL0) | [What The PUP!](https://open.spotify.com/artist/1Uti1MlTR0fRL0u0vI6zl9), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [certified lover dog](https://open.spotify.com/album/5A7yXtru8oRrgzZRFIWMmM) | 2:18 | 2024-08-15 |  |
 | [chainsaww](https://open.spotify.com/track/5rDRbegMCOe1eWL0V7t8Xa) | [Maple](https://open.spotify.com/artist/7FqhC9JMS6bbcfMVKKPHBc), [siouxxie sixxsta](https://open.spotify.com/artist/0OO76E5lRfeyBI3fkA73Dr) | [PLASTIC SURGEON](https://open.spotify.com/album/2d4pf9HzPYDi7No4K2iBeC) | 2:53 | 2023-06-30 |  |

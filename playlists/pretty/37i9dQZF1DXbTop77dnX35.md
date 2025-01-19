@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,025 likes - 53 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,131 likes - 53 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

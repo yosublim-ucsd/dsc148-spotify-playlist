@@ -1,6 +1,6 @@
 {
   "description": "Um pouco de folk, jazz e MPB para acordar com o p\u00e9 na estrada.",
-  "num_followers": 132407,
+  "num_followers": 132447,
   "original_name": "Amanhecer na Estrada",
   "owner": {
     "name": "Spotify",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2024-12-03 22:02:31",
       "album": {
-        "name": "The Search for Everything",
-        "url": "https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP"
+        "name": "Princess of China",
+        "url": "https://open.spotify.com/album/3yddXawPNWK9qUDqB2UMY7"
       },
       "artists": [
         {
-          "name": "John Mayer",
-          "url": "https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14"
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
         }
       ],
-      "duration_ms": 202813,
-      "name": "Roll it on Home",
-      "url": "https://open.spotify.com/track/0Zrug5Ry3x6x60lohpEU0C"
+      "duration_ms": 206693,
+      "name": "Princess of China - Acoustic",
+      "url": "https://open.spotify.com/track/2tKqZsc0epdLrsNUT6y0Ls"
     }
   ],
   "unique_name": "Amanhecer na Estrada",

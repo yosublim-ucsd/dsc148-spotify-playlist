@@ -2,7 +2,7 @@
 
 ### [Callie Day Radio](https://open.spotify.com/playlist/37i9dQZF1E4D8xyoXUDhng)
 
-> With Norman Hutchins, Kurt Carr, Byron Cage and more
+> With LaShun Pace, Dorothy Norwood, Kurt Carr and more
 
 1,653 songs - 5 day 4 hr 7 min
 

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 
 > This is Mr Eazi\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,759 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,758 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2Sc0Gk.md) - [plain]
 | 49 | [AKWAABA](https://open.spotify.com/track/7rzqupSdvmgFqdKYBfNfOa) | [GuiltyBeatz](https://open.spotify.com/artist/5DCdWXQ0QHQYlok4KK97em), [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Patapaa](https://open.spotify.com/artist/2IiQaWRKteXMGLUcdHLBO9), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [AKWAABA](https://open.spotify.com/album/5oDtmoFdP9LuzNO4rVF4uj) | 3:26 |
 | 50 | [Oh My Gawd](https://open.spotify.com/track/2YPt00iweeNvS9qDu0X48d) | [Mr Eazi](https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [K4mo](https://open.spotify.com/artist/7IziQIyiq8TGse0Mc1laYi) | [Oh My Gawd](https://open.spotify.com/album/5P5MvJc13ZQcxfMzyk60d0) | 3:00 |
 
-Snapshot ID: `Z4hMAAAAAADOAkxZmhaToXDQGv3eF5S7`
+Snapshot ID: `Z4mdgAAAAADiczIexgYMHJ12golpjNWY`

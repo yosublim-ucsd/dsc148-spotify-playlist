@@ -1,6 +1,6 @@
 {
   "description": "The classic Jazz guitarists and their finest pieces. Cover: Grant Green",
-  "num_followers": 103046,
+  "num_followers": 103107,
   "original_name": "Jazz Guitar Classics",
   "owner": {
     "name": "Spotify",
@@ -1107,26 +1107,6 @@
     {
       "added_at": "2024-07-17 12:19:46",
       "album": {
-        "name": "The Essential Benny Goodman",
-        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
-      },
-      "artists": [
-        {
-          "name": "Benny Goodman Sextet",
-          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
-        },
-        {
-          "name": "Charlie Christian",
-          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
-        }
-      ],
-      "duration_ms": 182653,
-      "name": "Wholly Cats (feat. Charlie Christian)",
-      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
-    },
-    {
-      "added_at": "2024-07-17 12:19:46",
-      "album": {
         "name": "Standard Brands",
         "url": "https://open.spotify.com/album/2XskO7sdfBIG31loR0X55e"
       },
@@ -1143,6 +1123,26 @@
       "duration_ms": 348066,
       "name": "Polka Dots and Moonbeams",
       "url": "https://open.spotify.com/track/5VRDZxFLIIjGTH2Q33Aq14"
+    },
+    {
+      "added_at": "2024-07-17 12:19:46",
+      "album": {
+        "name": "The Essential Benny Goodman",
+        "url": "https://open.spotify.com/album/7ykWEOYdt8gyA4seOlwtWK"
+      },
+      "artists": [
+        {
+          "name": "Benny Goodman Sextet",
+          "url": "https://open.spotify.com/artist/33N6sGOKJwLGOnq31ZmEl1"
+        },
+        {
+          "name": "Charlie Christian",
+          "url": "https://open.spotify.com/artist/0WdDpEeDIDmtYh5sqRrdI6"
+        }
+      ],
+      "duration_ms": 182653,
+      "name": "Wholly Cats (feat. Charlie Christian)",
+      "url": "https://open.spotify.com/track/4p9naPxsiai1ayHWKvvhCS"
     },
     {
       "added_at": "2024-07-17 12:19:46",

@@ -1,6 +1,6 @@
 {
   "description": "Kick on with this mix of homegrown electronic music",
-  "num_followers": 141241,
+  "num_followers": 141287,
   "original_name": "Sunday Sessions",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,22 @@
     {
       "added_at": "2025-01-09 03:00:01",
       "album": {
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 228688,
+      "name": "GEMINI",
+      "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
+    },
+    {
+      "added_at": "2025-01-09 03:00:01",
+      "album": {
         "name": "Strangers (with Mansionair)",
         "url": "https://open.spotify.com/album/7n50hdKDAZWurnx43hDHhJ"
       },
@@ -535,22 +551,6 @@
       "duration_ms": 217390,
       "name": "Strangers (with Mansionair)",
       "url": "https://open.spotify.com/track/5nBqvq3hUl8n6HtKtwNphW"
-    },
-    {
-      "added_at": "2025-01-09 03:00:01",
-      "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/0UEDwo3KtuQHtuKkeZkRyi"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 228688,
-      "name": "GEMINI",
-      "url": "https://open.spotify.com/track/7fvgfalLXZBa0y7AMXZadu"
     },
     {
       "added_at": "2025-01-09 03:00:01",
@@ -583,26 +583,6 @@
     {
       "added_at": "2025-01-09 03:00:01",
       "album": {
-        "name": "Cowgirl",
-        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
-      },
-      "artists": [
-        {
-          "name": "honey",
-          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
-        },
-        {
-          "name": "Vrdnyn",
-          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
-        }
-      ],
-      "duration_ms": 145741,
-      "name": "Cowgirl",
-      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
-    },
-    {
-      "added_at": "2025-01-09 03:00:01",
-      "album": {
         "name": "Chase the Sun (Odd Mob Remix)",
         "url": "https://open.spotify.com/album/5v87Q53Us8RfXe26HNjIG4"
       },
@@ -619,6 +599,26 @@
       "duration_ms": 258750,
       "name": "Chase the Sun (Odd Mob Remix)",
       "url": "https://open.spotify.com/track/6CrakXqqM1VgkCOmo7OU6i"
+    },
+    {
+      "added_at": "2025-01-09 03:00:01",
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/7DDKQh6Y9UbKCMVIYHKnHz"
+      },
+      "artists": [
+        {
+          "name": "honey",
+          "url": "https://open.spotify.com/artist/6cUanG4fLNSAhNEcu6n34w"
+        },
+        {
+          "name": "Vrdnyn",
+          "url": "https://open.spotify.com/artist/6Gq2D2UOJNriDLfSPR6Y2Y"
+        }
+      ],
+      "duration_ms": 145741,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/6pA4a92E9V12qoFWNwmw8e"
     },
     {
       "added_at": "2025-01-09 03:00:01",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-01-09 03:00:01",
       "album": {
+        "name": "MACHINE",
+        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
+      },
+      "artists": [
+        {
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+        }
+      ],
+      "duration_ms": 197018,
+      "name": "MACHINE",
+      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
+    },
+    {
+      "added_at": "2025-01-09 03:00:01",
+      "album": {
         "name": "Love Is Real",
         "url": "https://open.spotify.com/album/2zQJvUy9Cw6BGlYBBL4f8X"
       },
@@ -731,22 +747,6 @@
       "duration_ms": 216868,
       "name": "Ripples In The Timeline",
       "url": "https://open.spotify.com/track/2rgtbtPeODayxJBwMo5glI"
-    },
-    {
-      "added_at": "2025-01-09 03:00:01",
-      "album": {
-        "name": "MACHINE",
-        "url": "https://open.spotify.com/album/44T3g6iiEfy2Sre3LPsBbA"
-      },
-      "artists": [
-        {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
-        }
-      ],
-      "duration_ms": 197018,
-      "name": "MACHINE",
-      "url": "https://open.spotify.com/track/0nGqpM1FC31Pnofc8K4b1h"
     },
     {
       "added_at": "2025-01-09 03:00:01",
@@ -863,26 +863,6 @@
     {
       "added_at": "2025-01-09 03:00:01",
       "album": {
-        "name": "Function",
-        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Jordan Dennis",
-          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
-        }
-      ],
-      "duration_ms": 197639,
-      "name": "Function",
-      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
-    },
-    {
-      "added_at": "2025-01-09 03:00:01",
-      "album": {
         "name": "Drift / Long Story Short",
         "url": "https://open.spotify.com/album/2Xd17DTj75hnMPUFEkHBGx"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 246956,
       "name": "Drift",
       "url": "https://open.spotify.com/track/75psyfokDgEGACe1wurFPa"
+    },
+    {
+      "added_at": "2025-01-09 03:00:01",
+      "album": {
+        "name": "Function",
+        "url": "https://open.spotify.com/album/1aWuDVpiNWrOQgMNB59adV"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Jordan Dennis",
+          "url": "https://open.spotify.com/artist/2iSbupdaMW303tk8tqdCv5"
+        }
+      ],
+      "duration_ms": 197639,
+      "name": "Function",
+      "url": "https://open.spotify.com/track/4I58pzQEyFpHLXyDGekkCc"
     },
     {
       "added_at": "2025-01-09 03:00:01",
@@ -991,46 +991,6 @@
     {
       "added_at": "2025-01-09 03:00:01",
       "album": {
-        "name": "You",
-        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
-      },
-      "artists": [
-        {
-          "name": "Flansie",
-          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
-        },
-        {
-          "name": "Mall Grab",
-          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
-        }
-      ],
-      "duration_ms": 246832,
-      "name": "You",
-      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
-    },
-    {
-      "added_at": "2025-01-09 03:00:01",
-      "album": {
-        "name": "Morning Light (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6w6zFr3hWjlBD5YzNLE0rN"
-      },
-      "artists": [
-        {
-          "name": "Tentendo",
-          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
-        },
-        {
-          "name": "Annalisa Fernandez",
-          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
-        }
-      ],
-      "duration_ms": 203806,
-      "name": "Shining",
-      "url": "https://open.spotify.com/track/16XAvcjHPRbyKIjLU3g0NH"
-    },
-    {
-      "added_at": "2025-01-09 03:00:01",
-      "album": {
         "name": "Sirena Deep",
         "url": "https://open.spotify.com/album/4AllwUNpRrTbuujwhOvpAl"
       },
@@ -1047,6 +1007,26 @@
       "duration_ms": 341500,
       "name": "Sirena Deep",
       "url": "https://open.spotify.com/track/7Esye77Caf24GfFmAzAUHW"
+    },
+    {
+      "added_at": "2025-01-09 03:00:01",
+      "album": {
+        "name": "You",
+        "url": "https://open.spotify.com/album/0Gc4oCJpqyp7D2OchNftc1"
+      },
+      "artists": [
+        {
+          "name": "Flansie",
+          "url": "https://open.spotify.com/artist/2BArfYNHUsUFaABc7WzoSI"
+        },
+        {
+          "name": "Mall Grab",
+          "url": "https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7"
+        }
+      ],
+      "duration_ms": 246832,
+      "name": "You",
+      "url": "https://open.spotify.com/track/0qjYHI9np3bsH5tr0tX2Pk"
     },
     {
       "added_at": "2025-01-09 03:00:01",
@@ -1087,6 +1067,26 @@
       "duration_ms": 241777,
       "name": "Don't Touch Me Baby",
       "url": "https://open.spotify.com/track/71AfT3Bewb71c8108NgOMU"
+    },
+    {
+      "added_at": "2025-01-09 03:00:01",
+      "album": {
+        "name": "Morning Light (Deluxe Version)",
+        "url": "https://open.spotify.com/album/6w6zFr3hWjlBD5YzNLE0rN"
+      },
+      "artists": [
+        {
+          "name": "Tentendo",
+          "url": "https://open.spotify.com/artist/3eUpxakSdjFZ5ROQKgfL2W"
+        },
+        {
+          "name": "Annalisa Fernandez",
+          "url": "https://open.spotify.com/artist/5eGzlY642wbXxiXFTwBW0f"
+        }
+      ],
+      "duration_ms": 203806,
+      "name": "Shining",
+      "url": "https://open.spotify.com/track/16XAvcjHPRbyKIjLU3g0NH"
     },
     {
       "added_at": "2025-01-09 03:00:01",

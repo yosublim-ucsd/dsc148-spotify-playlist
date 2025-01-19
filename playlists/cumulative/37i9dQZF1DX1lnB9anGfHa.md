@@ -4,7 +4,7 @@
 
 > A journey into the unknown, dark, and experimental.
 
-295 songs - 20 hr 5 min
+296 songs - 20 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -243,7 +243,7 @@
 | [The King](https://open.spotify.com/track/6aFYhF9iSJv4OCee099HxM) | [Anjimile](https://open.spotify.com/artist/4CmXLOB2gQfewLf8iTbNVp) | [The King](https://open.spotify.com/album/0ouw4GHpv8UexlEOMidhwJ) | 3:44 | 2023-06-02 |  |
 | [The Metallic Index](https://open.spotify.com/track/2VUQrmHV4Ewv9BdwOCOPcO) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index / Pulsion \(Nurse on Train\)](https://open.spotify.com/album/4GhYKLVsRVVfAGWyjtaHHv) | 1:34 | 2022-09-21 | 2023-02-09 |
 | [The Metallic Index](https://open.spotify.com/track/3GQbilk0MocKiEEccxsZmr) | [Fenella](https://open.spotify.com/artist/0IzOzLPM6viWFLxD2V8f9R), [Jane Weaver](https://open.spotify.com/artist/1UrfmsMDKHSYXj7SaPjyWL) | [The Metallic Index](https://open.spotify.com/album/0rFQ0WB7KaIEva6TiM0Wpr) | 1:34 | 2022-09-21 | 2024-04-19 |
-| [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 |  |
+| [The Order of the Rain](https://open.spotify.com/track/4LCsXtT1cAeERXN0gb0Kbm) | [Mercedes Nasta](https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH), [Rodrigo Blanco](https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK) | [The Order of the Rain](https://open.spotify.com/album/63gVoVz1raiZGgFldjpNKK) | 5:00 | 2022-09-22 | 2025-01-19 |
 | [Theta](https://open.spotify.com/track/3O6I4hF2cfElw9sHZf3U6V) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Play at Night](https://open.spotify.com/album/4qgbJb7sWnKv67QHPKXrwk) | 2:31 | 2025-01-09 |  |
 | [thieves](https://open.spotify.com/track/34ZXYNErf3WC4tgO0PAnUx) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [thieves](https://open.spotify.com/album/0Xs1Xc5yUxPlYFOKyJ0UV7) | 2:58 | 2024-04-29 |  |
 | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/track/3njtYpKsQTnuKYVmIFLtaE) | [Waterbaby](https://open.spotify.com/artist/7rZM3S0PVEdLKpDLqtXIhx), [BABii](https://open.spotify.com/artist/30qGwXnygZNCzxjN7QsIR0) | [Thin Air \(WaterBABii\_MiiX\)](https://open.spotify.com/album/3m5gpzvJDi7wObxSwFjUmZ) | 4:02 | 2022-09-03 | 2024-04-23 |
@@ -281,6 +281,7 @@
 | [Watch](https://open.spotify.com/track/7dXD5KXxYVTpAv6Bcsp85c) | [Arca](https://open.spotify.com/artist/4SQdUpG4f7UbkJG3cJ2Iyj), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [KiCk i](https://open.spotify.com/album/2KICtQ7dqaaot7B1yN9wPq) | 2:28 | 2020-10-20 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/26nkRghL4ROI2GdxjJ2ZQG) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/75mwsGyTLIsi3PnxFxz061) | 2:56 | 2020-10-20 | 2022-07-29 |
 | [Watch Me](https://open.spotify.com/track/2biaN4CEUrKHqJgPZLXgEc) | [The Pom\-Poms](https://open.spotify.com/artist/2ufAy0kXnQMTP8rkvoTqUC) | [The Pom\-Poms](https://open.spotify.com/album/237EqTv2dtmYvRWcADo4lj) | 2:56 | 2020-10-20 | 2023-10-06 |
+| [ways of being](https://open.spotify.com/track/4Zl0FwwXFujfHVrTYyLNA0) | [Tristan Arp](https://open.spotify.com/artist/5PvxHyYKtHsyyI5XjdqnD9), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [a pool, a portal](https://open.spotify.com/album/4u4RJlUhvlenhfRpcmAXkQ) | 4:05 | 2025-01-18 |  |
 | [Wee Rosebud](https://open.spotify.com/track/4UZmFxgOxdrbgJyskDm3AS) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Wee Rosebud](https://open.spotify.com/album/52NR1QlvraGMvlG7d6OVdD) | 4:21 | 2024-01-05 |  |
 | [WEEDKILLER](https://open.spotify.com/track/4c5LGEwgEEgL8VlNeeBCL8) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [WEEDKILLER](https://open.spotify.com/album/6b3Dg5Yc2v7SN0EjTVfcoa) | 2:06 | 2023-04-14 | 2023-06-08 |
 | [WET](https://open.spotify.com/track/4JncjhRUDvh84eO25bopKp) | [COBRAH](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [WET](https://open.spotify.com/album/5UUIPBAzbPaM9J05cLZiaw) | 2:49 | 2020-10-20 | 2023-01-03 |

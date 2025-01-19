@@ -4,7 +4,7 @@
 
 > All the indie gems from 2024 that may have flown under your radar! Cover: Saya Gray
 
-313 songs - 17 hr 38 min
+314 songs - 17 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,7 @@
 | [Homes](https://open.spotify.com/track/0YeT52y9Z9rIL1F2pUtkcT) | [Georgia Harmer](https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4) | [Stay In Touch](https://open.spotify.com/album/3FocbWHJtfvMRhUWmhJTh4) | 4:49 | 2022-11-30 | 2023-11-30 |
 | [hotline](https://open.spotify.com/track/0ZUZmQiHvcHJY3375xsk3F) | [bby](https://open.spotify.com/artist/04PoYcw0Zcevr7MQC0kzUM) | [hotline](https://open.spotify.com/album/4UkjOqrpHBqN3n3WgqsR8f) | 2:17 | 2023-11-29 | 2024-12-05 |
 | [How](https://open.spotify.com/track/3ELZoXfv1YZzfm7V4saBmi) | [Wooly Aziz](https://open.spotify.com/artist/4c7j9jUzYSNDKdNBb0W2P1), [John Mark Nelson](https://open.spotify.com/artist/7JhOzFlNJjcRrFan1wlwYB) | [How](https://open.spotify.com/album/3JTNuOXSNm8Se4JKUrDpA4) | 2:38 | 2022-11-30 | 2023-11-30 |
-| [How Can I Love Her More?](https://open.spotify.com/track/5aR0Zrg6Oq0EulyTZPwAxG) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 2:47 | 2024-12-04 |  |
+| [How Can I Love Her More?](https://open.spotify.com/track/5aR0Zrg6Oq0EulyTZPwAxG) | [The Lemon Twigs](https://open.spotify.com/artist/7eYZSXnQVCODCVmTV8Hk2T) | [A Dream Is All We Know](https://open.spotify.com/album/3ZEIxul2SC2AslVuGZGO68) | 2:47 | 2024-12-04 | 2025-01-19 |
 | [How I Love](https://open.spotify.com/track/2XBmrWOsPavSy6YnwbG7f8) | [King Tuff](https://open.spotify.com/artist/0uI2HyW0eIbTbyH3S2XDHI) | [Smalltown Stardust](https://open.spotify.com/album/6tvYZyoxDRTIOVUwWH6ttG) | 4:48 | 2023-11-29 | 2024-12-05 |
 | [How many miles](https://open.spotify.com/track/5zL6U9C5mmeaJSks7H4Xmw) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Candy / How many miles](https://open.spotify.com/album/1bxCJT77jNW4aIwOsJoN1T) | 2:21 | 2023-11-29 | 2024-12-05 |
 | [Huh](https://open.spotify.com/track/2Dy7ZKdu40oGTkv8FwVyew) | [Logan](https://open.spotify.com/artist/7w8LS5pR81tvDOskUj8x1j) | [Huh](https://open.spotify.com/album/79rY7sqFQLxLGePOOkaUXR) | 2:26 | 2023-11-29 | 2024-04-15 |
@@ -300,6 +300,7 @@
 | [time waits](https://open.spotify.com/track/6KVFcap7bKzswabvTXqzh4) | [Glitter Party](https://open.spotify.com/artist/0aap0g0NB08EJrS6FMDrdB) | [time waits](https://open.spotify.com/album/0bQ8W6aJPOW3CI6vlGZGTZ) | 3:19 | 2023-11-29 | 2024-01-14 |
 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 | 2022-11-30 | 2023-11-30 |
 | [Top Fan](https://open.spotify.com/track/4DHT5FB2rVe1PuJMcgZmg2) | [Yelle](https://open.spotify.com/artist/0WbqAlM1WvfUD6dF7omThd) | [Top Fan](https://open.spotify.com/album/0mbMLXHFzPZsIMJNpChwtX) | 3:10 | 2023-11-29 | 2024-12-05 |
+| [Train Full of Gasoline](https://open.spotify.com/track/59bZ9ljtDTsYJZZqgGHQNW) | [Ducks Ltd.](https://open.spotify.com/artist/6PypZhdlKno9oouYu6roMG) | [Harm's Way](https://open.spotify.com/album/6iT0wjt3dStlDoLOJXTwfM) | 2:50 | 2024-12-04 |  |
 | [Up and Away](https://open.spotify.com/track/6r7fP6eQHull2Y8GECHYfI) | [Σtella](https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu), [Redinho](https://open.spotify.com/artist/72WcKL1SYgNzcNojYLFQsB) | [Up and Away](https://open.spotify.com/album/4i2Cb9v7g9ieShCgf1gakk) | 3:11 | 2022-11-30 | 2023-11-30 |
 | [Valley](https://open.spotify.com/track/1W7RPYYwhzOZFvJnkwXlLZ) | [Racoma](https://open.spotify.com/artist/3Y3bK9UlgDtqEfIwFUCLH0) | [Valley](https://open.spotify.com/album/4fdEKnOKRHW3lU2YK3BbLD) | 3:29 | 2022-11-30 | 2023-11-30 |
 | [VIOLET \(feat\. ZERØ\)](https://open.spotify.com/track/0FJTsZUu6A6pd6DXdeZq50) | [BOKKA](https://open.spotify.com/artist/6R2e6FSXY9vhgOulV08FO3), [ZERØ](https://open.spotify.com/artist/4X0wkHFRCALIvIprXD5YsK) | [VIOLET \(feat\. ZERØ\)](https://open.spotify.com/album/7nwOlCC2BHsdRV4JB4Ze3z) | 4:10 | 2023-11-29 | 2024-12-05 |

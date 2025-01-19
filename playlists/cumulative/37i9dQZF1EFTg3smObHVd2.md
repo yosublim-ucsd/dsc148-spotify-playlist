@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2WIAmGdvEpT3tP6sPn2Fxg">Autumn Rowe</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-88 songs - 5 hr 5 min
+89 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,8 @@
 | [Clay](https://open.spotify.com/track/0BPxCIs9XRWkireH3WzMQE) | [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Perfectly Imperfect \(Japan Version\)](https://open.spotify.com/album/58CpIUMD6axObdLxxTIGGB) | 3:36 | 2024-02-27 |  |
 | [Collect My Love \(feat\. Alex Newell\)](https://open.spotify.com/track/0vKHq50iizaMQivSaItLf3) | [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC), [Alex Newell](https://open.spotify.com/artist/2vGaSKEDFsVPBgcnGxqlBN) | [55](https://open.spotify.com/album/66eHI59X5UEaLrEqrEDKTx) | 3:15 | 2024-02-27 |  |
 | [Collide \- Radio Edit](https://open.spotify.com/track/3bxtgzAeAZPdRtKoPL5GG2) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm), [Avicii](https://open.spotify.com/artist/1vCWHaC5f2uS3yhpwWbIA6) | [Collide \(Radio Edit\)](https://open.spotify.com/album/3GZwrOSPZpRGFlweFm2x7U) | 3:59 | 2024-02-27 |  |
-| [Copy Cat \(feat\. Kelis\)](https://open.spotify.com/track/1vc12Ns4iHzW7IAb91JvlQ) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Skreamizm Vol\. 7](https://open.spotify.com/album/5hAMTdqVEAaEdv79pKqIUB) | 3:50 | 2024-02-27 |  |
+| [Copy Cat](https://open.spotify.com/track/6tpB37tRaxknycR6H8eZSF) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Skreamizm \(Vol\. 7\)](https://open.spotify.com/album/39p56lfVsxR1pnTK8BVLjS) | 3:50 | 2025-01-18 |  |
+| [Copy Cat \(feat\. Kelis\)](https://open.spotify.com/track/1vc12Ns4iHzW7IAb91JvlQ) | [Skream](https://open.spotify.com/artist/2jbP92oFLWqPqogflK1wlW), [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM) | [Skreamizm Vol\. 7](https://open.spotify.com/album/5hAMTdqVEAaEdv79pKqIUB) | 3:50 | 2024-02-27 | 2025-01-19 |
 | [Daybreak \(feat\. The Knocks\)](https://open.spotify.com/track/38GELrQkVj6WskiF0VrNQu) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Holiday87](https://open.spotify.com/album/2kVT1AQsUshZlMZv0w2bN0) | 4:10 | 2024-02-27 |  |
 | [Disrespect](https://open.spotify.com/track/3o4F3z6qFvfhCt3TmOkNF0) | [Delilah](https://open.spotify.com/artist/6J1pbNXDK0BTTMCvaO5xPv) | [From The Roots Up \(Deluxe Edition\)](https://open.spotify.com/album/0uvCiMlB7yjUiSQknJwtuh) | 3:38 | 2024-02-27 |  |
 | [Don't Wanna Dance Alone](https://open.spotify.com/track/0PqzweEfZz6CFduasBimQQ) | [Fifth Harmony](https://open.spotify.com/artist/1l8Fu6IkuTP0U5QetQJ5Xt) | [Reflection \(Japan Deluxe Edition\)](https://open.spotify.com/album/6IBUil5AQA6wPLCzpYrlMI) | 3:50 | 2024-02-27 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Frank Sinatra. The essential tracks, all in one playlist.",
-  "num_followers": 1197192,
+  "num_followers": 1197302,
   "original_name": "This Is Frank Sinatra",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAABlUh+bz64nOxd3PZgJGyXH",
+  "snapshot_id": "Z4mdgAAAAABabalXYoLjkYkkbHyqFe3f",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sinatra's Sinatra",
-        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 174466,
-      "name": "Young At Heart",
-      "url": "https://open.spotify.com/track/0QbRfr3pJtHGxhIpIMYmbN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In The Wee Small Hours",
         "url": "https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 180933,
       "name": "In The Wee Small Hours Of The Morning - Remastered 1998",
       "url": "https://open.spotify.com/track/0Hsc0sIaxOxXBZbT3ms2oj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sinatra's Sinatra",
+        "url": "https://open.spotify.com/album/3HBuwtSVm028hyFuwuTiJ5"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 174466,
+      "name": "Young At Heart",
+      "url": "https://open.spotify.com/track/0QbRfr3pJtHGxhIpIMYmbN"
     },
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come Fly With Me (Expanded Edition)",
-        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 134066,
-      "name": "Chicago - Remastered",
-      "url": "https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sinatra And Swingin' Brass",
         "url": "https://open.spotify.com/album/7B45fvRtEecfSqKqUYXh6X"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 194093,
       "name": "I Get A Kick Out Of You",
       "url": "https://open.spotify.com/track/3mKdw0slI6wmnb1FBrvwn2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come Fly With Me (Expanded Edition)",
+        "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 134066,
+      "name": "Chicago - Remastered",
+      "url": "https://open.spotify.com/track/6uayMGc7bnH9ZPk46APSS3"
     },
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
-        "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
-      },
-      "artists": [
-        {
-          "name": "Tommy Dorsey",
-          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
-        },
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 199733,
-      "name": "Polka Dots and Moonbeams",
-      "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "My Way (Expanded Edition)",
         "url": "https://open.spotify.com/album/3IdNQBn7De23AVyv2V67wn"
       },
@@ -651,6 +631,26 @@
       "duration_ms": 171066,
       "name": "For Once In My Life",
       "url": "https://open.spotify.com/track/3FsrG1TIB79ONER5Fr1cCt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Duets (20th Anniversary Deluxe Edition)",
+        "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        },
+        {
+          "name": "Julio Iglesias",
+          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+        }
+      ],
+      "duration_ms": 153146,
+      "name": "Summer Wind",
+      "url": "https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu"
     },
     {
       "added_at": null,
@@ -675,22 +675,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duets (20th Anniversary Deluxe Edition)",
-        "url": "https://open.spotify.com/album/67TRGeFfMzq6ArsHrJkzya"
+        "name": "The Essential Frank Sinatra with the Tommy Dorsey Orchestra (with Frank Sinatra)",
+        "url": "https://open.spotify.com/album/6mcP2ZPyrpMIOrXvSDNQ3g"
       },
       "artists": [
         {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+          "name": "Tommy Dorsey",
+          "url": "https://open.spotify.com/artist/4WoGga7UeRcmjD4ufif4nG"
         },
         {
-          "name": "Julio Iglesias",
-          "url": "https://open.spotify.com/artist/4etuCZVdP8yiNPn4xf0ie5"
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
         }
       ],
-      "duration_ms": 153146,
-      "name": "Summer Wind",
-      "url": "https://open.spotify.com/track/1KGFGleVVS76wuLiOtS7Iu"
+      "duration_ms": 199733,
+      "name": "Polka Dots and Moonbeams",
+      "url": "https://open.spotify.com/track/0HFWS5C6ThNeuOr10Xz21U"
     },
     {
       "added_at": null,

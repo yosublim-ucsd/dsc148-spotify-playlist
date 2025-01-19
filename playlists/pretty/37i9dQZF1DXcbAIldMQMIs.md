@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 
 > Indie pop when ur crushing
 
-[Spotify](https://open.spotify.com/user/spotify) - 539,112 likes - 70 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 539,089 likes - 70 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcbAIldMQMIs.md) - [plain]
 | 60 | [dumb dumb](https://open.spotify.com/track/7pq7gsLHiMhkF4RSN9RtWT) | [mazie](https://open.spotify.com/artist/4adSXA1GDOxNG7Zw89YHyz) | [dumb dumb](https://open.spotify.com/album/0mq5MBb02slLpdG5Rkm2hz) | 2:05 |
 | 61 | [homies](https://open.spotify.com/track/3ocupZmiN2ZqQjTVntVtLv) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH), [Tiana Major9](https://open.spotify.com/artist/1Naqgo0HMRoumRP0e2MXD9) | [homies](https://open.spotify.com/album/7by5M1CXms39FAGvXTlB9X) | 3:45 |
 | 62 | [Thunder](https://open.spotify.com/track/0afGLa6wcYiLLXFZ48ZQpY) | [Roy Blair](https://open.spotify.com/artist/6Sa4YbwEdGlfVSJMF1Lp67) | [Cat Heaven](https://open.spotify.com/album/0Z9NeEvqeecaLCFUmI4uDw) | 5:13 |
-| 63 | [Talk 2 Me](https://open.spotify.com/track/0kqWdi9oHVO1KcjFjNCBL2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/75SIA2hiu5OyZ85i7uVvR4) | 2:19 |
-| 64 | [fall at the same time](https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [fall at the same time](https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp) | 2:22 |
+| 63 | [fall at the same time](https://open.spotify.com/track/15sMBXkb4XHIKPxFLHvDAn) | [aldn](https://open.spotify.com/artist/2GUw9Wzha61PkZoRVv1PDD) | [fall at the same time](https://open.spotify.com/album/7aNtdBuIYUy6vEg1KymPkp) | 2:22 |
+| 64 | [Talk 2 Me](https://open.spotify.com/track/0kqWdi9oHVO1KcjFjNCBL2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Talk 2 Me](https://open.spotify.com/album/75SIA2hiu5OyZ85i7uVvR4) | 2:19 |
 | 65 | [Falling For You with Justin Bieber](https://open.spotify.com/track/24MWSatP5sTylISvJONhnB) | [Jaden](https://open.spotify.com/artist/0xOeVMOz2fVg5BJY3N6akT), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [CTV3: Cool Tape Vol\. 3](https://open.spotify.com/album/2NuZ1TloomufyKf57ZLBQn) | 3:42 |
 | 66 | [kissing girls](https://open.spotify.com/track/5lCtzEEl2FxySHX4zR9yEf) | [Grady](https://open.spotify.com/artist/6FmiNnTXQJTmOMAx4kB38R) | [a place we can always go.](https://open.spotify.com/album/0kl5WlV5aL2X4aho9KQXP3) | 1:40 |
 | 67 | [newbury park](https://open.spotify.com/track/4ZeMEs9lhf7s83QHeqR432) | [Lexi Jayde](https://open.spotify.com/artist/69761NObDw2KwmmFgZmxzC) | [newbury park](https://open.spotify.com/album/5vRetraxEpG9IAvq46a1j1) | 2:54 |

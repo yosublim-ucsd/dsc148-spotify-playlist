@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 
 > This is Singeli\. High energy dance music echoing throughout the streets of Tanzania
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,936 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,942 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 34 | [Dua](https://open.spotify.com/track/5CZXDKVNmd2NGJtrtuhnT1) | [Dulla Makabila](https://open.spotify.com/artist/1rVjPBFl9JlzgEO5P0RL8u) | [Dua](https://open.spotify.com/album/3zr0XmzcH06k2mejKtW2A7) | 4:42 |
 | 35 | [Sina](https://open.spotify.com/track/3nuVeMmA0MqApgbpDDz58n) | [Malkia Karen](https://open.spotify.com/artist/7b06gok59Tl7xADRHWKpnr), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Sina](https://open.spotify.com/album/4Mbf8XSzcpQCck4Qzu2Awu) | 4:58 |
 | 36 | [Sanamu La Michelini](https://open.spotify.com/track/4izbp6tGtMpur0Dw05Wmql) | [Mzee wa Bwax](https://open.spotify.com/artist/15gV1NHna8kwzsNzmXaRU9), [Tamimu](https://open.spotify.com/artist/1tjcmVIRIiOUmnE9Yu4L1k) | [Sanamu La Michelini](https://open.spotify.com/album/5cKSAOEgMgvIdOmNfOqFWG) | 3:53 |
-| 37 | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR) | 4:39 |
+| 37 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 |
 | 38 | [Boss Kalewa](https://open.spotify.com/track/0hWLGhDjvYyXqDfHJstOpb) | [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Boss Kalewa](https://open.spotify.com/album/3hObipsh4XFmmdFvFKO52w) | 5:23 |
-| 39 | [Stress](https://open.spotify.com/track/11ogL4EDviRvREmLPLZtIg) | [Balaa MC](https://open.spotify.com/artist/099c0S0PPscGtwAOW5mwZL) | [Stress](https://open.spotify.com/album/3ABUxuGydsu6SaXKSH21CD) | 4:12 |
+| 39 | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/track/6tyNhUeTa66PcE5Mn7HjTu) | [Ommy Dimpoz](https://open.spotify.com/artist/3xf0XXmoiUgVVyZBYYjpt6), [Meja Kunta](https://open.spotify.com/artist/3yvoOWoxvT5Pq5OHc2Mjku) | [Cheusi Cheupe \(feat\. Meja Kunta\)](https://open.spotify.com/album/7AVAEgdwX6CcoqzWksPPeR) | 4:39 |
 | 40 | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/track/08gv96cmICLpxdxxrmUkJF) | [Lava Lava](https://open.spotify.com/artist/2cL2c9xC1XYPHP9HkToTkd), [2Fani](https://open.spotify.com/artist/4j8ZLGMEsHVLQS0ncpueAD), [Chobamc](https://open.spotify.com/artist/5hhkDXKt5bvsLxvFdXuNDM) | [Tajiri Remix \(feat\. 2Fani & Chobamc\)](https://open.spotify.com/album/6qlqApXPZO4U4RojFkVeH7) | 4:52 |
 | 41 | [Kijumbe](https://open.spotify.com/track/68I76ceLuHRfU9wqlA6wo4) | [MABANTU](https://open.spotify.com/artist/41d5wDbsNkjpFaRI7jUHl8) | [Kijumbe](https://open.spotify.com/album/2iQbLXbeyFsokSg0ENz5VR) | 3:29 |
 | 42 | [Wapambe](https://open.spotify.com/track/4YW7lRL207zKlGBPQak7pl) | [Elisha](https://open.spotify.com/artist/7beQHnSg083MMXTbHMN4yi), [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Wapambe](https://open.spotify.com/album/22slAeb6NP4Eq9Q5c8eOie) | 4:00 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTmJfgGWCsDY.md) - [plain]
 | 52 | [Kizimkazi](https://open.spotify.com/track/1timkZv543vJPprluNTDQ4) | [Sholo Mwamba](https://open.spotify.com/artist/49Moorcln5j7DWi8eEA50T) | [Kizimkazi](https://open.spotify.com/album/1iiN5854GcCoiJXQCUgwDY) | 3:53 |
 | 53 | [Chura](https://open.spotify.com/track/5NsYl2TsHcS8C68i9hiO7g) | [Snura](https://open.spotify.com/artist/7BameHT63FkDAmYuzxPkM9) | [Chura](https://open.spotify.com/album/42IUnXUa8lue5w3cMQn4Zm) | 4:32 |
 | 54 | [Wapo](https://open.spotify.com/track/5lnh2ywv9loDuCDr2MKQaa) | [Kayumba](https://open.spotify.com/artist/1HzG2aC1CemHeowaRUeahk) | [Wapo](https://open.spotify.com/album/2a3xlNZr038Xafq8ION39O) | 4:03 |
-| 55 | [Chura Wangu](https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Chura Wangu](https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR) | 3:07 |
-| 56 | [Upwii](https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Upwii](https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ) | 3:07 |
+| 55 | [Upwii](https://open.spotify.com/track/5UI00Ic2qjPZLEdJEBLDKH) | [Kadilida](https://open.spotify.com/artist/3IQ6Cq1KB09iPoMzMdWihN), [Mkataba Mc](https://open.spotify.com/artist/4X3L1Yra9ZOdfnMEm7URz3) | [Upwii](https://open.spotify.com/album/7DBI9S96GzWRWBHCgh9LTJ) | 3:07 |
+| 56 | [Chura Wangu](https://open.spotify.com/track/6aAfZHeY3N8H3dYZZF4j0g) | [Balaa MC](https://open.spotify.com/artist/4LKJiY9cqptOjiMqwc5gnR) | [Chura Wangu](https://open.spotify.com/album/44Pc5MxG00w4z3s8q7xrQR) | 3:07 |
 | 57 | [Mr Dj](https://open.spotify.com/track/2Fsdy8geaRfOQzsCBd1ibk) | [Dogo Elisha](https://open.spotify.com/artist/5CG6UhfNKkswvBkUwQ5P13) | [Mr Dj](https://open.spotify.com/album/37awOEGhmiE9qzRWY1tllI) | 5:13 |
 | 58 | [Kua Uone](https://open.spotify.com/track/4gRo8rOkHiRhTYk1fz5ADd) | [Beka Flavour](https://open.spotify.com/artist/6jETz99dtLj1EgPF1C3xvU), [Easy Man](https://open.spotify.com/artist/6mIxcMm0CZEezi8vDKdYXt) | [Kua Uone](https://open.spotify.com/album/3UsfjtKI2y7GmjoHxh5TIs) | 4:51 |
 | 59 | [Singeli Jungles](https://open.spotify.com/track/6H3EHuYWvGB0zYNt5HshDy) | [MC Palakata](https://open.spotify.com/artist/6vcyi3nPfWG7KVc5zBFxq7), [Tom Blip](https://open.spotify.com/artist/1xazZO4qWRZ29dlJfeaR6x) | [Singeli Jungles](https://open.spotify.com/album/3FLTSy9L7qepabWJlluH1n) | 4:40 |

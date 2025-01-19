@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Nao
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,097 likes - 150 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,233 likes - 150 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,13 +22,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 12 | [Why Can't You](https://open.spotify.com/track/2fwsmT1AbClEwHbujP4ZMr) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Why Can't You](https://open.spotify.com/album/32G58TiwHXK7qTuhK69vWZ) | 3:15 |
 | 13 | [Hope](https://open.spotify.com/track/0nNGGHaoxw5CAW5vzTFRwW) | [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [Hope](https://open.spotify.com/album/3eZ7SxlGN0STDBkn5gVpX6) | 3:25 |
 | 14 | [KIKI](https://open.spotify.com/track/0pW6oqHyCPIxwxWzTumzGZ) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [KIKI](https://open.spotify.com/album/6S1h8bRrNu5yS3gngQJO4K) | 2:41 |
-| 15 | [My Birthday](https://open.spotify.com/track/5QIcWQbSUr6Nt7NYY79qzL) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Jeremih](https://open.spotify.com/artist/27kVgutRBYh0ne7iSMFuR2), [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [My Birthday](https://open.spotify.com/album/5wHP54XOoohb0nFMBhTzAU) | 3:33 |
+| 15 | [My Birthday](https://open.spotify.com/track/5QIcWQbSUr6Nt7NYY79qzL) | [Bobby Brackins](https://open.spotify.com/artist/72rsQfzxNVLPpbzQzXVJSc), [Jeremih](https://open.spotify.com/artist/27kVgutRBYh0ne7iSMFuR2), [Ray J](https://open.spotify.com/artist/6gbGGM0E8Q1hE511psqxL0) | [My Birthday](https://open.spotify.com/album/5wHP54XOoohb0nFMBhTzAU) | 3:31 |
 | 16 | [Tamagotchi](https://open.spotify.com/track/0ZHHvtAHSnELaNhFQXQLxb) | [Tash](https://open.spotify.com/artist/3kX6nt9QiDarAkCsIGRIgR) | [Tamagotchi](https://open.spotify.com/album/0cH2JHhdZvZvZKHe7zNquZ) | 3:33 |
 | 17 | [TEMPTED](https://open.spotify.com/track/36Kf76qkaPiTblyijQxKbL) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [AYUSH](https://open.spotify.com/artist/3fpnEWsbU7hKS0Jfpt5mZE) | [TEMPTED](https://open.spotify.com/album/1Ti79L7sU5rUQ3UdjX8qEA) | 3:29 |
 | 18 | [Ready](https://open.spotify.com/track/0igbWhWPRW2dL35gXaHHcu) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Ready](https://open.spotify.com/album/2pxhCHAdA9lGlAK9i7Bhau) | 2:45 |
 | 19 | [me + u](https://open.spotify.com/track/4DiU3ia1gpGu6qR15ceT6f) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [me + u](https://open.spotify.com/album/1gKZ6kvUqbOC14srZS00f0) | 2:37 |
 | 20 | [Downtown](https://open.spotify.com/track/308jljtqrUhq4Rf51zUrNj) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Alan Voung](https://open.spotify.com/artist/1LCkAp8OSUo48W6B4bjNb3) | [Made Me This Way](https://open.spotify.com/album/368u9D9vZjmbmXwsE8WmZB) | 3:31 |
-| 21 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/1LLPPqAA6Oz43N8JeITYdx) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
+| 21 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/7nLd7fJANdOTlg7A2XpfmS) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
 | 22 | [ON MY MIND](https://open.spotify.com/track/3uXN50jcJ3K4U4MKcH3FQd) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [ON MY MIND](https://open.spotify.com/album/3ojQKwUU3kVprQc4q0h0X2) | 2:21 |
 | 23 | [Immune](https://open.spotify.com/track/2GIrbMR66ztcl9R6L8woes) | [NYA](https://open.spotify.com/artist/0JkKPtdoOFdrZDPswFPQku) | [Immune](https://open.spotify.com/album/0g6wNEMCb41CgDbGLSqrgF) | 3:19 |
 | 24 | [Right One, Wrong Time](https://open.spotify.com/track/2PJP7lSOD44N6kRN7o6MNQ) | [JeRonelle](https://open.spotify.com/artist/4zhiJYdxOO4c9ygljrq0DZ), [Dende](https://open.spotify.com/artist/0xq4TZno4XwBzkbLnBAhlF) | [Right One, Wrong Time](https://open.spotify.com/album/0k0X8HA8QCyr5KIBDn9VpU) | 3:26 |

@@ -1,6 +1,6 @@
 {
   "description": "Ny musikk \ud83c\udfb5",
-  "num_followers": 190706,
+  "num_followers": 190720,
   "original_name": "New Music Friday Norway",
   "owner": {
     "name": "Spotify",
@@ -636,12 +636,12 @@
       },
       "artists": [
         {
-          "name": "ELOQ",
-          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
-        },
-        {
           "name": "BBYBITES",
           "url": "https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW"
+        },
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
         }
       ],
       "duration_ms": 130929,

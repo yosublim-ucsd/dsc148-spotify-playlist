@@ -1,6 +1,6 @@
 {
   "description": "Classic songs from the Blues songbook. Cover: Muddy Waters.",
-  "num_followers": 109995,
+  "num_followers": 110086,
   "original_name": "Blues Standards",
   "owner": {
     "name": "Spotify",
@@ -339,22 +339,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Night Beat",
-        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 171826,
-      "name": "Little Red Rooster",
-      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Jamming With Edward",
         "url": "https://open.spotify.com/album/4flw1L8widdDehQ4BYHQvO"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 314373,
       "name": "It Hurts Me Too",
       "url": "https://open.spotify.com/track/5lgfWxatYUKXvQEE1oTGDE"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Night Beat",
+        "url": "https://open.spotify.com/album/4FsWNGbkeZtMD1BWXhIvRk"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 171826,
+      "name": "Little Red Rooster",
+      "url": "https://open.spotify.com/track/1msykqPE0qoZig4nb9khI0"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 187773,
-      "name": "Blues With A Feeling",
-      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Messing With The Blues",
         "url": "https://open.spotify.com/album/05uzQLgp14mnUm3QO4Hmlp"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 253266,
       "name": "Crossroads - Live",
       "url": "https://open.spotify.com/track/2ETejAvEOWY7vUk6OSCOTx"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 187773,
+      "name": "Blues With A Feeling",
+      "url": "https://open.spotify.com/track/0jonK6wMWVKsG1UutRmfpX"
     },
     {
       "added_at": "2024-06-02 16:42:51",
@@ -707,22 +707,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "The Essential Little Walter",
-        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
-      },
-      "artists": [
-        {
-          "name": "Little Walter",
-          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
-        }
-      ],
-      "duration_ms": 175466,
-      "name": "Mean Old World",
-      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Double Trouble",
         "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
+        "name": "The Essential Little Walter",
+        "url": "https://open.spotify.com/album/2Y2oBBKe7dnNGJrf6HAGBc"
+      },
+      "artists": [
+        {
+          "name": "Little Walter",
+          "url": "https://open.spotify.com/artist/22JuR9OeENcP54XN5TlNWS"
+        }
+      ],
+      "duration_ms": 175466,
+      "name": "Mean Old World",
+      "url": "https://open.spotify.com/track/4Eqa2PFcVgCWjBlj2Xw8wN"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
         "name": "The Big Beat Of Dave Bartholomew: 20 Milestone Dave Bartholomew Productions 1949-1960",
         "url": "https://open.spotify.com/album/4G6NddtuU6vDjErHhtiMuj"
       },
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-06-02 16:42:51",
       "album": {
-        "name": "Can't Quit You Baby / Sit Down Baby",
-        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 187173,
-      "name": "I Can't Quit You Baby",
-      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
-    },
-    {
-      "added_at": "2024-06-02 16:42:51",
-      "album": {
         "name": "Somebody Loan Me A Dime",
         "url": "https://open.spotify.com/album/5SynQAltvwPyTbz3m8axVl"
       },
@@ -879,6 +863,22 @@
       "duration_ms": 287933,
       "name": "Five Long Years",
       "url": "https://open.spotify.com/track/6rTKHtkWjoe7pRuyFSwwfX"
+    },
+    {
+      "added_at": "2024-06-02 16:42:51",
+      "album": {
+        "name": "Can't Quit You Baby / Sit Down Baby",
+        "url": "https://open.spotify.com/album/60D6KvcknnGhSbh9jCm6dV"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 187173,
+      "name": "I Can't Quit You Baby",
+      "url": "https://open.spotify.com/track/56eLEV7mKEetelkzEZBXrE"
     },
     {
       "added_at": "2024-06-02 16:42:51",

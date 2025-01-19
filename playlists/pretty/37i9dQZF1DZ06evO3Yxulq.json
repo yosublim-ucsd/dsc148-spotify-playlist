@@ -1,6 +1,6 @@
 {
   "description": "This is Christine D'Clario. The essential tracks, all in one playlist.",
-  "num_followers": 40354,
+  "num_followers": 40358,
   "original_name": "This Is Christine D'Clario",
   "owner": {
     "name": "Spotify",
@@ -163,26 +163,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa proveer\u00e1s",
-        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
-      },
-      "artists": [
-        {
-          "name": "Majo y Dan",
-          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 368020,
-      "name": "T\u00fa proveer\u00e1s",
-      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mi Libertador",
         "url": "https://open.spotify.com/album/3jCrSepI3QyihfgochlS1m"
       },
@@ -199,6 +179,26 @@
       "duration_ms": 491232,
       "name": "Mi Libertador",
       "url": "https://open.spotify.com/track/3PDI2JGivXW4WguUBbhPgw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "T\u00fa proveer\u00e1s",
+        "url": "https://open.spotify.com/album/1WqCRhM0naadSCNwyw6Zjs"
+      },
+      "artists": [
+        {
+          "name": "Majo y Dan",
+          "url": "https://open.spotify.com/artist/0cEa9u1e3cDLXCZxxiuEmi"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 368020,
+      "name": "T\u00fa proveer\u00e1s",
+      "url": "https://open.spotify.com/track/6nLdm3keaBYtW3PXkVQBQQ"
     },
     {
       "added_at": null,
@@ -751,22 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ancla",
-        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
-      },
-      "artists": [
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 499411,
-      "name": "Ancla",
-      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jesus People",
         "url": "https://open.spotify.com/album/67xyz68zWd9nRbTHmc06r5"
       },
@@ -787,6 +771,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Loco Amor (Spanish Version)",
+        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+      },
+      "artists": [
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 303373,
+      "name": "Loco Amor - Spanish Version",
+      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta Poder Ver",
         "url": "https://open.spotify.com/album/1GQ7sa8KYl7zpHUx5ZwZwX"
       },
@@ -803,8 +803,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Loco Amor (Spanish Version)",
-        "url": "https://open.spotify.com/album/296hXu6pzMLEJTlYz7D7Do"
+        "name": "Ancla",
+        "url": "https://open.spotify.com/album/63ai3W2Gr4izvGLuz8un6A"
       },
       "artists": [
         {
@@ -812,9 +812,9 @@
           "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
         }
       ],
-      "duration_ms": 303373,
-      "name": "Loco Amor - Spanish Version",
-      "url": "https://open.spotify.com/track/58M4SwOWHE976VC5b5rHuj"
+      "duration_ms": 499411,
+      "name": "Ancla",
+      "url": "https://open.spotify.com/track/0ZGRXbaZcphuVXHTYFNURv"
     },
     {
       "added_at": null,
@@ -899,6 +899,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ambientes de Cuna",
+        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
+      },
+      "artists": [
+        {
+          "name": "Aliento Kids",
+          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
+        },
+        {
+          "name": "Christine D'Clario",
+          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
+        }
+      ],
+      "duration_ms": 452354,
+      "name": "Como Dijiste",
+      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Novia",
         "url": "https://open.spotify.com/album/1XAoegvmhszmRoVQq3kPuB"
       },
@@ -931,26 +951,6 @@
       "duration_ms": 271374,
       "name": "Corriente / Un D\u00eda A La Vez (Medley) - En Vivo",
       "url": "https://open.spotify.com/track/7deRNBsb0iL1xzYea8aAj2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ambientes de Cuna",
-        "url": "https://open.spotify.com/album/5G15j9kqUFavMmjyrBTQCu"
-      },
-      "artists": [
-        {
-          "name": "Aliento Kids",
-          "url": "https://open.spotify.com/artist/3YizQtvjJAAx4IJSRxVBYt"
-        },
-        {
-          "name": "Christine D'Clario",
-          "url": "https://open.spotify.com/artist/6JaSyvyg28SHC0Of8YE6M9"
-        }
-      ],
-      "duration_ms": 452354,
-      "name": "Como Dijiste",
-      "url": "https://open.spotify.com/track/7eTHXbvKavcvhSoD5L7D5J"
     },
     {
       "added_at": null,

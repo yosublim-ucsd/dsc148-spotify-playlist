@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2sE0XOCyp1Qp8gfwRn8gjl">Joni Mitchell</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,197 likes - 273 songs - 17 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,199 likes - 273 songs - 17 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 27 | [Amelia](https://open.spotify.com/track/0sWXc2HP7INhTEkuUbxJGk) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 6:01 |
 | 28 | [People's Parties](https://open.spotify.com/track/5RI0qk5rSvAJwCwxtDSKKM) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:15 |
 | 29 | [Ladies of the Canyon](https://open.spotify.com/track/1Q8BMaKg8czMR2Y6wLlXJf) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:32 |
-| 30 | [Black Crow](https://open.spotify.com/track/2PGBKxAZJxYGxajZ7iO5ai) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:47 |
-| 31 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 |
+| 30 | [Court and Spark](https://open.spotify.com/track/2l8kERLPqgP7p94Duj9nqH) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Court and Spark](https://open.spotify.com/album/2akjxkzFolkeV72Yyv5KrM) | 2:46 |
+| 31 | [Black Crow](https://open.spotify.com/track/2PGBKxAZJxYGxajZ7iO5ai) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Girl In The Other Room](https://open.spotify.com/album/7dZFqyK7mEYr3tyatC7k0s) | 4:47 |
 | 32 | [Conversation](https://open.spotify.com/track/1wcbiRER4ChnikvcLc2OE6) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 4:26 |
 | 33 | [Urge for Going](https://open.spotify.com/track/6DWrIR5yIbe95e3lZDiuDD) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hits](https://open.spotify.com/album/0dFqUCRbAMalnd74c4tw25) | 5:08 |
 | 34 | [Hejira](https://open.spotify.com/track/5YoBEhJWkFwT0zsWD2rUst) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 6:42 |
@@ -77,8 +77,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 67 | [Refuge of the Roads](https://open.spotify.com/track/5UAjuRGeoSy88qlLVTmn7G) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Hejira](https://open.spotify.com/album/3Z0qQc09rmk4JYtIaxEx2J) | 6:42 |
 | 68 | [The Priest](https://open.spotify.com/track/6WWoWlxdD2OEKY8olGBpW7) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:40 |
 | 69 | [The Tea Leaf Prophecy \(Lay Down Your Arms\)](https://open.spotify.com/track/3k9NJHvoQdtMwmcBk1x4lW) | [Herbie Hancock](https://open.spotify.com/artist/2ZvrvbQNrHKwjT7qfGFFUW), [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [River: The Joni Letters](https://open.spotify.com/album/4XkWqozX4Uqc0qwncCVZxi) | 6:33 |
-| 70 | [The Dry Cleaner From Des Moines](https://open.spotify.com/track/06BRd83MC31o8vzZNwH0WP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/33vCXtlecxvFyBcoICxMYx) | 3:21 |
-| 71 | [Night Ride Home](https://open.spotify.com/track/2wqau7jqHc5JY91OhabALP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 3:22 |
+| 70 | [Night Ride Home](https://open.spotify.com/track/2wqau7jqHc5JY91OhabALP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Night Ride Home](https://open.spotify.com/album/58eSrybTtZMVNaZWt2f1rP) | 3:22 |
+| 71 | [The Dry Cleaner From Des Moines](https://open.spotify.com/track/06BRd83MC31o8vzZNwH0WP) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Mingus](https://open.spotify.com/album/33vCXtlecxvFyBcoICxMYx) | 3:21 |
 | 72 | [Tin Angel](https://open.spotify.com/track/013GhfdBzuuCf2iqo2ITlV) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 4:09 |
 | 73 | [The Jungle Line](https://open.spotify.com/track/6C5xDvn42YYdohvSEjsoP2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:24 |
 | 74 | [Night in the City](https://open.spotify.com/track/6sPcNGvVFAi4XcvgyAcgsi) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Song to a Seagull](https://open.spotify.com/album/6rg3WTvmv68Vd6tgR0yS0E) | 2:29 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 77 | [Songs to Aging Children Come](https://open.spotify.com/track/6VOo52HfSgjysDSD8VD5w2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Clouds](https://open.spotify.com/album/03iFLgmgkLT7X5gnXVPID5) | 3:10 |
 | 78 | [Don't Interrupt the Sorrow](https://open.spotify.com/track/3r0Tk9ibA2KT1KiLGIuKXA) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 4:04 |
 | 79 | [Blue Boy](https://open.spotify.com/track/5YZic8ezfc1HWBmYylYy8R) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 2:54 |
-| 80 | [Talk to Me](https://open.spotify.com/track/3mGSbvZPJjcKNuhsLeTWgJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 3:45 |
-| 81 | [Cold Blue Steel and Sweet Fire](https://open.spotify.com/track/45XSmn7yPZMTIgo9kdErh9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 4:17 |
+| 80 | [Cold Blue Steel and Sweet Fire](https://open.spotify.com/track/45XSmn7yPZMTIgo9kdErh9) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 4:17 |
+| 81 | [Talk to Me](https://open.spotify.com/track/3mGSbvZPJjcKNuhsLeTWgJ) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Don Juan's Reckless Daughter](https://open.spotify.com/album/7EsyKOyc1yISaxMt4iQvGN) | 3:45 |
 | 82 | [The Boho Dance](https://open.spotify.com/track/7HRmnRfpghEaPsHHqvHhmv) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [The Hissing of Summer Lawns](https://open.spotify.com/album/3gUlFM3azK6ZIkKz1zK7Nj) | 3:50 |
 | 83 | [Night of the Iguana](https://open.spotify.com/track/7zsFDV159sMF5s6NjGMqkq) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Shine](https://open.spotify.com/album/2U5MjSQ07NGHV7rCLfSU6G) | 4:38 |
 | 84 | [Woman of Heart and Mind](https://open.spotify.com/track/1kXJRTFqY1Iy5yzGS7JdhL) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [For the Roses](https://open.spotify.com/album/1yyPagl5Z7wE6rmJoqv8wj) | 2:38 |
@@ -282,4 +282,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHRSQ6clXkGF.md) - [plain]
 | 272 | [Intro To California \(with James Taylor\) \- Live on In Concert, BBC, Paris Theatre, London, England, 10/29/1970](https://open.spotify.com/track/4RQHJvLC2tytuuFxqPR15u) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve), [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 | 273 | [Intro To Chelsea Morning: John Peel \- Live on Top Gear, BBC Radio, London, England, 9/23/1968](https://open.spotify.com/track/5RjnysVYo2c1aDi4w2A3OC) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Joni Mitchell Archives, Vol\. 2: The Reprise Years \(1968\-1971\)](https://open.spotify.com/album/0o9FY7BfZYuf1ujyBcd77d) | 0:14 |
 
-Snapshot ID: `AbnJCAAAAAACqkLeJ2cqm0xvdkApHjZf`
+Snapshot ID: `AbnOgAAAAAABw10D7AANlCkFeBwF2LAG`

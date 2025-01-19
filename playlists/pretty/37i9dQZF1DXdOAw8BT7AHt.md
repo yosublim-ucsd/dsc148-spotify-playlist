@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 
 > The best in modern punk rock music\. Cover: Amyl & The Sniffers
 
-[Spotify](https://open.spotify.com/user/spotify) - 468,771 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 468,799 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 9 | [stone cold summer](https://open.spotify.com/track/6o8okNBgNmV2ccqNYRFzrg) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [stone cold summer](https://open.spotify.com/album/3fQgWMLRBqYqGgB1mhSAmi) | 2:47 |
 | 10 | [Back 2 U](https://open.spotify.com/track/3hA261S9ScDqG4SvNEYNqn) | [Yours Truly](https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo) | [TOXIC](https://open.spotify.com/album/0N4IN0hPXGFtfsjlXqei4B) | 2:59 |
 | 11 | [Dumbstruck Dumbf\*\*k](https://open.spotify.com/track/7peo1MPjb3r1gtmySPe8uj) | [Neck Deep](https://open.spotify.com/artist/2TM0qnbJH4QPhGMCdPt7fH) | [Neck Deep](https://open.spotify.com/album/5dJ7QsXRqsX5oErJatoERd) | 2:58 |
-| 12 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
-| 13 | [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 |
+| 12 | [End Eric Sparrow and the Life of Him](https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [End Eric Sparrow and the Life of Him](https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi) | 2:49 |
+| 13 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
 | 14 | [Watch You Go](https://open.spotify.com/track/6VD9nT0dBYokELI1MEYBDt) | [The Story So Far](https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg) | [I Want To Disappear](https://open.spotify.com/album/3E6iXP2MtzpyhgFmeB4vyo) | 2:10 |
 | 15 | [God's Country](https://open.spotify.com/track/4UccUaOQ6lU7kAffOVgz1d) | [Lambrini Girls](https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb) | [God's Country](https://open.spotify.com/album/4ymxAnpNkFo2spUPzjouAR) | 2:15 |
 | 16 | [Love & Co.](https://open.spotify.com/track/6uE4mbm9sPcAADEdIsmZ0Q) | [The Home Team](https://open.spotify.com/artist/0hp58JplihFjlLstUbKS0x), [Intervals](https://open.spotify.com/artist/0xpJGyjbEzkWSNfcf2tcMl) | [The Crucible Of Life](https://open.spotify.com/album/3YMGlieEVrvq5GFV7wCDZm) | 2:39 |
@@ -70,9 +70,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOAw8BT7AHt.md) - [plain]
 | 60 | [uncooked](https://open.spotify.com/track/4jIwJ0CAWO4poBAtgRT0Lr) | [Four Year Strong](https://open.spotify.com/artist/0qqxspZOkbN00bu6DaRIrn) | [uncooked](https://open.spotify.com/album/7hDxtcZ7hxARwvA699UUc0) | 3:14 |
 | 61 | [DOWN N OUT](https://open.spotify.com/track/3I7bQjEBfbyo7wI3AeF0eg) | [FIDLAR](https://open.spotify.com/artist/3P6duIn7oHeiBACZfYeNud) | [DOWN N OUT](https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98) | 2:23 |
 | 62 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 |
-| 63 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
-| 64 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
-| 65 | [Claw](https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Claw](https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ) | 3:15 |
+| 63 | [Claw](https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee) | [Chalk](https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi) | [Claw](https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ) | 3:15 |
+| 64 | [Girls!](https://open.spotify.com/track/6mzLKnoN7tFpSa2sZ1ypfx) | [Gen and the Degenerates](https://open.spotify.com/artist/7oEVPoHXaj73ddUCTNlO9E), [Uninvited](https://open.spotify.com/artist/5q0XJRqusj0KaNKwLVSVQn) | [ANTI\-FUN PROPAGANDA](https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW) | 3:04 |
+| 65 | [3 DAY HEADACHE](https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [3 DAY HEADACHE](https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK) | 1:54 |
 | 66 | [Yankee Trails](https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC) | [Drug Church](https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ) | [PRUDE](https://open.spotify.com/album/4SiGEjeock157xR33nCQdb) | 2:47 |
 | 67 | [On The Brink](https://open.spotify.com/track/3pZkECxp728z1JKMG9nHYK) | [SPY](https://open.spotify.com/artist/7vCI1d19vrokQuRkiAhwMC) | [On The Brink](https://open.spotify.com/album/39bVJ3bstQjSHazht9mNct) | 1:48 |
 | 68 | [International Hide and Seek Champions](https://open.spotify.com/track/7brqlMfN4OHSCFPqWLpk4d) | [Frank Turner](https://open.spotify.com/artist/27M9shmwhIjRo7WntpT9Rp) | [Undefeated](https://open.spotify.com/album/5htcBxqWfEWaZ7CCETXcH9) | 2:25 |

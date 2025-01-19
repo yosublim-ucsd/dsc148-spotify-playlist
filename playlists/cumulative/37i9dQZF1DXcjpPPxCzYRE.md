@@ -4,7 +4,7 @@
 
 > Música tranquila para evadirse.
 
-333 songs - 19 hr 11 min
+334 songs - 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Pure Love](https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Damon Albarn](https://open.spotify.com/artist/0O98jlCaPzvsoei6U5jfEL) | [Pure Love](https://open.spotify.com/album/3oq00BFmWA0gbTgzDvpnQC) | 4:24 | 2024-12-23 |  |
 | [Push N Shuv](https://open.spotify.com/track/08KP4FEV1JZUQu8ZL2Uru9) | [Lava La Rue](https://open.spotify.com/artist/271bbpX3pdCi56ZJA1jQ43) | [Push N Shuv](https://open.spotify.com/album/4NqFASjab96Rtmtu2vCcRR) | 3:31 | 2024-03-15 | 2024-04-12 |
 | [Quelqu'un m'a dit](https://open.spotify.com/track/5lIOhDGfy2lQJWWwxBm8L4) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx) | [Quelqu'un m'a dit](https://open.spotify.com/album/5i2pYUFwnFnNCfXVK4hj1k) | 2:48 | 2022-11-11 |  |
+| [QUEMARLO TODO](https://open.spotify.com/track/4BR7wVkXymTFKcDkYkSTtC) | [Suave](https://open.spotify.com/artist/16QMnwd53HiSIbB57esWKu), [D3llano](https://open.spotify.com/artist/2op8AnWkI11yZAv1KwS9Ck) | [QUEMARLO TODO](https://open.spotify.com/album/2n0iynESypPLAPOVu4GVj9) | 2:30 | 2025-01-03 |  |
 | [Quién Pudiera?](https://open.spotify.com/track/0oPGGzsXUmZswgsxUhLn45) | [Cardellino](https://open.spotify.com/artist/7HFja6X48hWE58m3pQnGV0), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw), [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln), [Veztalone](https://open.spotify.com/artist/5KhJh3jJOH5EkZiplQLw5h), [Comida Para Llevar](https://open.spotify.com/artist/6ybUCb9uQ4fd6gtIptuaYO) | [Quién Pudiera?](https://open.spotify.com/album/2MYyRpVLzYJuTwO70iLQph) | 3:33 | 2023-06-09 | 2023-07-07 |
 | [Qué Bueno!](https://open.spotify.com/track/3pCibQLOsHM1z7DnyEpysp) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Chukky](https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL) | [Qué Bueno!](https://open.spotify.com/album/5KJd4syqmjCuCWIMV4mBZM) | 3:42 | 2022-11-11 | 2023-05-11 |
 | [Qué Bueno!](https://open.spotify.com/track/7qRyLLHIsqpdeSK7Sc5G2A) | [Cheti](https://open.spotify.com/artist/14MWie92G8fspcINNwL7n7), [Chukky](https://open.spotify.com/artist/1pbypJzDS0Glu3baISY6AL) | [Qué Bueno!](https://open.spotify.com/album/5WNBYyuGl3MMwW7TfdlcJO) | 3:42 | 2023-04-20 | 2024-04-19 |
@@ -312,7 +313,7 @@
 | [Too Good At Goodbyes](https://open.spotify.com/track/3VlbOrM6nYPprVvzBZllE5) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [The Thrill Of It All \(Special Edition\)](https://open.spotify.com/album/3XftSbguntyRTBQaGItmfK) | 3:21 | 2022-11-11 | 2023-03-16 |
 | [Trampas](https://open.spotify.com/track/5IxfOWrIQmioHViXiRq6Bv) | [Isla de Caras](https://open.spotify.com/artist/0GUxqzAYRCveTfqBLhojnF) | [Gran Turismo](https://open.spotify.com/album/3h1wAtr3lIasoLwOMFuRIn) | 3:08 | 2023-07-06 | 2023-08-19 |
 | [True Colours](https://open.spotify.com/track/1rGxG6Y5OgmSwGPRPJv9Q4) | [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [True Colours](https://open.spotify.com/album/2KYcp0bkKyyGllYygfdtHX) | 2:23 | 2022-11-11 |  |
-| [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 | 2024-06-06 |  |
+| [Tu](https://open.spotify.com/track/7q1v3sbmw7UoAxJw555ODh) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [Vernat](https://open.spotify.com/artist/5lxFyGjIisTPiz6W2MiOm9) | [Tu](https://open.spotify.com/album/2sgKRpXusixxYI50XOOxaS) | 2:43 | 2024-06-06 | 2025-01-19 |
 | [tu fan \(with salem ilese\)](https://open.spotify.com/track/1xW2DTaGSxrLCiequZitXQ) | [mafalda cardenal](https://open.spotify.com/artist/1AsstJ8Cf7uQX92weRmZRz), [salem ilese](https://open.spotify.com/artist/3QJUFtGBGL05vo0kCJZsmT) | [tu fan \(with salem ilese\)](https://open.spotify.com/album/248tuXXYvIE268RIT0rYxJ) | 3:54 | 2024-03-15 | 2024-03-24 |
 | [tu película](https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j) | [vangoura](https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g) | [tu película](https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1) | 2:54 | 2024-12-23 |  |
 | [tu piel me ha besado](https://open.spotify.com/track/4ThDVnZgvk7qFL7vjTEZ5M) | [Cariatydes](https://open.spotify.com/artist/21D4leQCTCqoikrOT6V84W) | [tu piel me ha besado](https://open.spotify.com/album/0XWAMxQJV9RimKNpW0L5Mx) | 3:42 | 2024-06-06 | 2024-08-03 |

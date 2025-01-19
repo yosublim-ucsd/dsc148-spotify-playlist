@@ -1,12 +1,12 @@
 {
   "description": "This is Wizkid. The essential tracks, all in one playlist.",
-  "num_followers": 147791,
+  "num_followers": 147826,
   "original_name": "This Is Wizkid",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADfg+/L2VJHEPYoWbiGIP30",
+  "snapshot_id": "Z4mdgAAAAABJkC253qKO0LlUyU5Cyco2",
   "tracks": [
     {
       "added_at": null,
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 190120,
-      "name": "A Million Blessings",
-      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
+      "duration_ms": 174053,
+      "name": "Kese (Dance)",
+      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
     },
     {
       "added_at": null,
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 174053,
-      "name": "Kese (Dance)",
-      "url": "https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT"
+      "duration_ms": 190120,
+      "name": "A Million Blessings",
+      "url": "https://open.spotify.com/track/2hZttcpkiVBA6thTLFDaS9"
     },
     {
       "added_at": null,
@@ -339,22 +339,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Legend Or No Legend",
-        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
+        "name": "Low",
+        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
       },
       "artists": [
         {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+          "name": "Larry Gaaga",
+          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 209970,
-      "name": "Ebelebe (feat. Wizkid)",
-      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
+      "duration_ms": 233012,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
     },
     {
       "added_at": null,
@@ -375,22 +375,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/5ml5qP7IbT2FDujhSNpSRT"
+        "name": "Legend Or No Legend",
+        "url": "https://open.spotify.com/album/1pSC9nqMSfJgh6WVZYkTqJ"
       },
       "artists": [
         {
-          "name": "Larry Gaaga",
-          "url": "https://open.spotify.com/artist/62s0EsXQNJEwy8fKZ386VU"
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
         },
         {
           "name": "Wizkid",
           "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
         }
       ],
-      "duration_ms": 233012,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/4GW2SIyvB5fy8xtK1eO8PS"
+      "duration_ms": 209970,
+      "name": "Ebelebe (feat. Wizkid)",
+      "url": "https://open.spotify.com/track/2mwNqgMNrguu5Xlns3kqeg"
     },
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "More Love, Less Ego",
+        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
+      },
+      "artists": [
+        {
+          "name": "Wizkid",
+          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
+        }
+      ],
+      "duration_ms": 178586,
+      "name": "Bad To Me",
+      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Refuse to Be Broke: Da Revolution 2",
         "url": "https://open.spotify.com/album/1ERZOMokw1NKzB47dfarQ7"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 261545,
       "name": "Slow Down (feat. Wiz Kid)",
       "url": "https://open.spotify.com/track/4voOsb8qpJ569JaMiGAyrl"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "More Love, Less Ego",
-        "url": "https://open.spotify.com/album/73rKiFhHZatrwJL0B1F6hY"
-      },
-      "artists": [
-        {
-          "name": "Wizkid",
-          "url": "https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp"
-        }
-      ],
-      "duration_ms": 178586,
-      "name": "Bad To Me",
-      "url": "https://open.spotify.com/track/2HYcI74UpbMMxLZ1m7Xnfn"
     },
     {
       "added_at": null,

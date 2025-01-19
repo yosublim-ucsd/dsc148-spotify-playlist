@@ -1,6 +1,6 @@
 {
   "description": "Todos pro alto, cada um com o seu. Foto: Danzo",
-  "num_followers": 132623,
+  "num_followers": 132635,
   "original_name": "Cop\u00e3o na M\u00e3o",
   "owner": {
     "name": "Spotify",
@@ -875,6 +875,30 @@
     {
       "added_at": "2025-01-17 03:01:14",
       "album": {
+        "name": "Vou Nessa",
+        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
+      },
+      "artists": [
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        },
+        {
+          "name": "Bielzin",
+          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
+        },
+        {
+          "name": "Mc Kadu",
+          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
+        }
+      ],
+      "duration_ms": 226875,
+      "name": "Vou Nessa",
+      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
+    },
+    {
+      "added_at": "2025-01-17 03:01:14",
+      "album": {
         "name": "Falc\u00e3o do Morro",
         "url": "https://open.spotify.com/album/7dAgNIIV8VVzZFCDSbpnlG"
       },
@@ -1243,30 +1267,6 @@
       "duration_ms": 186461,
       "name": "BrusaDaNike e GShock",
       "url": "https://open.spotify.com/track/7rBEfUy7v0ptREXUh1BJi8"
-    },
-    {
-      "added_at": "2025-01-17 03:01:14",
-      "album": {
-        "name": "Vou Nessa",
-        "url": "https://open.spotify.com/album/4huR5dw6AO0rq92G6xMdcq"
-      },
-      "artists": [
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        },
-        {
-          "name": "Bielzin",
-          "url": "https://open.spotify.com/artist/2vWGxqWbGgmgxVDZ5CBvBP"
-        },
-        {
-          "name": "Mc Kadu",
-          "url": "https://open.spotify.com/artist/21ELc2P2rA3Cu6xw3VWqvv"
-        }
-      ],
-      "duration_ms": 226875,
-      "name": "Vou Nessa",
-      "url": "https://open.spotify.com/track/3tXT3n0NHFJo0MswFlzJAl"
     },
     {
       "added_at": "2025-01-17 03:01:14",

@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica navide\u00f1a para celebrar el nacimiento de nuestro Salvador. Portada: Miel San Marcos",
-  "num_followers": 38591,
+  "num_followers": 38587,
   "original_name": "Navidad Cristiana",
   "owner": {
     "name": "Spotify",
@@ -739,6 +739,38 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
+        "name": "Es Navidad",
+        "url": "https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK"
+      },
+      "artists": [
+        {
+          "name": "Vaes",
+          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
+        }
+      ],
+      "duration_ms": 167025,
+      "name": "V I D A - (Ac\u00fastico)",
+      "url": "https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Emanuel",
+        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
+      },
+      "artists": [
+        {
+          "name": "Lourdes Toledo",
+          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
+        }
+      ],
+      "duration_ms": 214853,
+      "name": "Desde Que Naci\u00f3",
+      "url": "https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
         "name": "Welcome Home (Este Es Tu Hogar)",
         "url": "https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB"
       },
@@ -779,22 +811,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Emanuel",
-        "url": "https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45"
-      },
-      "artists": [
-        {
-          "name": "Lourdes Toledo",
-          "url": "https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3"
-        }
-      ],
-      "duration_ms": 214853,
-      "name": "Desde Que Naci\u00f3",
-      "url": "https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "A Mar\u00eda",
         "url": "https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 218493,
       "name": "A Mar\u00eda",
       "url": "https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
-        "name": "Es Navidad",
-        "url": "https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK"
-      },
-      "artists": [
-        {
-          "name": "Vaes",
-          "url": "https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu"
-        }
-      ],
-      "duration_ms": 167025,
-      "name": "V I D A - (Ac\u00fastico)",
-      "url": "https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -959,26 +959,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Feliz Navidad",
-        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
-      },
-      "artists": [
-        {
-          "name": "Blest",
-          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
-        },
-        {
-          "name": "Betsy",
-          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
-        }
-      ],
-      "duration_ms": 186613,
-      "name": "Noche De Paz (feat. Betsy)",
-      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Cantamos Gloria",
         "url": "https://open.spotify.com/album/0i7htaf0ZTPTubP784xd7Q"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 227771,
       "name": "Cantamos Gloria",
       "url": "https://open.spotify.com/track/4Jy3kEtTF3MuGzOXsuXyrg"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Feliz Navidad",
+        "url": "https://open.spotify.com/album/3oJSPmWFXWGbpF36xixwjc"
+      },
+      "artists": [
+        {
+          "name": "Blest",
+          "url": "https://open.spotify.com/artist/21EeuGgcwNjoqWpPX7AsAw"
+        },
+        {
+          "name": "Betsy",
+          "url": "https://open.spotify.com/artist/3TOemmBl5mLJzRKHh6JzWH"
+        }
+      ],
+      "duration_ms": 186613,
+      "name": "Noche De Paz (feat. Betsy)",
+      "url": "https://open.spotify.com/track/487OTOaC3kiNZ19VVvwPI7"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Venid Fieles Todos",
-        "url": "https://open.spotify.com/album/1eyvsPm2cB5zCccG8c20NZ"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 259946,
-      "name": "Venid Fieles Todos",
-      "url": "https://open.spotify.com/track/3InKvzpC1JOXz6sUXti34H"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "Buscando Al Rey",
         "url": "https://open.spotify.com/album/6BhFVK8EwY0FgwmWoMDHZx"
       },
@@ -1431,18 +1415,18 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Navidad, Vol. 3",
-        "url": "https://open.spotify.com/album/51QldFAn1JAiP70Zxg2FAw"
+        "name": "Venid Fieles Todos",
+        "url": "https://open.spotify.com/album/1eyvsPm2cB5zCccG8c20NZ"
       },
       "artists": [
         {
-          "name": "Nxtwave",
-          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
         }
       ],
-      "duration_ms": 207530,
-      "name": "T\u00fa Eres la Luz Noche de Paz (Bonus Track) [Live]",
-      "url": "https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw"
+      "duration_ms": 259946,
+      "name": "Venid Fieles Todos",
+      "url": "https://open.spotify.com/track/3InKvzpC1JOXz6sUXti34H"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1459,6 +1443,22 @@
       "duration_ms": 192078,
       "name": "Un A\u00f1o M\u00e1s",
       "url": "https://open.spotify.com/track/0mfXZiUkaiVFwOBNWUEF7d"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Navidad, Vol. 3",
+        "url": "https://open.spotify.com/album/51QldFAn1JAiP70Zxg2FAw"
+      },
+      "artists": [
+        {
+          "name": "Nxtwave",
+          "url": "https://open.spotify.com/artist/3icg8QXxKDihHvzfoC1Vpm"
+        }
+      ],
+      "duration_ms": 207530,
+      "name": "T\u00fa Eres la Luz Noche de Paz (Bonus Track) [Live]",
+      "url": "https://open.spotify.com/track/0XC0bvJGIGki2iMVemR0Zw"
     },
     {
       "added_at": "2024-12-13 04:11:31",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-12-13 04:11:31",
       "album": {
-        "name": "Navidad: El Proyecto de Paz",
-        "url": "https://open.spotify.com/album/1cKq1KpQfMR5T9dn3SNhkG"
-      },
-      "artists": [
-        {
-          "name": "Hillsong en Espa\u00f1ol",
-          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
-        }
-      ],
-      "duration_ms": 304986,
-      "name": "Se Oye Un Canto En Alta Esfera",
-      "url": "https://open.spotify.com/track/6neP56zQ7GXdRsB5ScVUIP"
-    },
-    {
-      "added_at": "2024-12-13 04:11:31",
-      "album": {
         "name": "El Ni\u00f1o del Tambor",
         "url": "https://open.spotify.com/album/2US8CE8hkbsAFBwdT0aU8b"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 204583,
       "name": "El Ni\u00f1o del Tambor",
       "url": "https://open.spotify.com/track/5QUkcerfqvVsBTyLEYNr8r"
+    },
+    {
+      "added_at": "2024-12-13 04:11:31",
+      "album": {
+        "name": "Navidad: El Proyecto de Paz",
+        "url": "https://open.spotify.com/album/1cKq1KpQfMR5T9dn3SNhkG"
+      },
+      "artists": [
+        {
+          "name": "Hillsong en Espa\u00f1ol",
+          "url": "https://open.spotify.com/artist/3phVKYqeq84Ai91CHTQfNq"
+        }
+      ],
+      "duration_ms": 304986,
+      "name": "Se Oye Un Canto En Alta Esfera",
+      "url": "https://open.spotify.com/track/6neP56zQ7GXdRsB5ScVUIP"
     },
     {
       "added_at": "2024-12-13 04:11:31",

@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Thailand.
 
-1,010 songs - 2 day 11 hr 4 min
+1,011 songs - 2 day 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -314,6 +314,7 @@
 | [Kitsch](https://open.spotify.com/track/4hbU7BVioG3WnoRNEy5YUf) | [IVE](https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ) | [Kitsch](https://open.spotify.com/album/7KgFOJg5QAU9Ex9L2oTy67) | 3:15 | 2023-03-29 | 2023-04-03 |
 | [Knock On Wood](https://open.spotify.com/track/0c2wKRwXpqSCBrAImEFCNf) | [Red Velvet](https://open.spotify.com/artist/1z4g3DjTBBZKhvAroFlhOM) | [Queendom \- The 6th Mini Album](https://open.spotify.com/album/6Pe5LGQgU3mmvuRjFMsACV) | 3:40 | 2021-08-18 | 2021-08-19 |
 | [Kung Fu](https://open.spotify.com/track/0tofuAPwrPfzajixmn1Ryg) | [LUSS](https://open.spotify.com/artist/6hJoakJWJIDyWnYujjhhR6) | [Kung Fu](https://open.spotify.com/album/2RAiyvUcSRHt0l4Sn3D8PV) | 3:25 | 2021-06-27 | 2021-09-07 |
+| [La La La](https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB) | [Naughty Boy](https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5), [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI) | [Hotel Cabana \(Deluxe Version\)](https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv) | 3:42 | 2025-01-18 |  |
 | [Labyrinth](https://open.spotify.com/track/0A1JLUlkZkp2EFrosoNQi0) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [Midnights](https://open.spotify.com/album/151w1FgRZfnKZA9FEcg9Z3) | 4:07 | 2022-10-22 | 2022-10-24 |
 | [LALALALA](https://open.spotify.com/track/1OG1NoKpZZLrMqMYCk9m84) | [Stray Kids](https://open.spotify.com/artist/2dIgFjalVxs4ThymZ67YCE) | [ROCK\-STAR](https://open.spotify.com/album/0aJnGEZWIc1VCYlZOXv05a) | 3:02 | 2023-11-11 | 2023-11-14 |
 | [LALISA](https://open.spotify.com/track/7uQZVznj0uQOGC9KhV2Mg6) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [LALISA](https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd) | 3:20 | 2021-09-12 | 2024-07-12 |
@@ -484,7 +485,7 @@
 | [Road Trip](https://open.spotify.com/track/2OoG4BqX926Te1vGdMFB2F) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [Sticker \- The 3rd Album](https://open.spotify.com/album/6nYbIKGcTmKM5BAlJPPcad) | 3:35 | 2021-09-19 | 2021-09-21 |
 | [Rocket](https://open.spotify.com/track/2hr3geQBSViX9Oi2OsnY3c) | [NCT DREAM](https://open.spotify.com/artist/1gBUSTR3TyDdTVFIaQnc02) | [Hot Sauce \- The 1st Album](https://open.spotify.com/album/1miTgxRTUje9Jqml1aOSUi) | 2:55 | 2021-05-12 | 2021-05-13 |
 | [Rockin' Around The Christmas Tree](https://open.spotify.com/track/2EjXfH91m7f8HiJN1yQg97) | [Brenda Lee](https://open.spotify.com/artist/4cPHsZM98sKzmV26wlwD2W) | [Merry Christmas From Brenda Lee](https://open.spotify.com/album/34wa3zf2prXFMk47t9zHFG) | 2:06 | 2021-12-26 | 2023-12-30 |
-| [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-29 | 2025-01-16 |
+| [Rockstar](https://open.spotify.com/track/6vvPecFTmWxDfEJ6cYT1wa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:18 | 2024-06-29 |  |
 | [Rockstar \- Extended](https://open.spotify.com/track/01prGWjCTxKBxJc400zwvQ) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:44 | 2024-06-29 | 2024-08-18 |
 | [Rockstar \- Instrumental](https://open.spotify.com/track/64Wx8rvZgTwXgoVrapW1mj) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:13 | 2024-06-29 | 2024-08-09 |
 | [Rockstar \- Slowed Down](https://open.spotify.com/track/3cRVqcndSoWFjf3QNTDoNx) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Rockstar](https://open.spotify.com/album/7wIIhHPyaxAHRvdNQQO2G9) | 2:40 | 2024-06-29 | 2024-07-27 |
@@ -951,7 +952,7 @@
 | [เมะ](https://open.spotify.com/track/1M2XakpRDkxjiuCirVPD8c) | [THE TOYS](https://open.spotify.com/artist/5pokGZ1K9Hr6etaKPDxSG8) | [เมะ](https://open.spotify.com/album/6ItJnQ1PwIOS9tqdaVc3Kw) | 3:06 | 2021-08-21 | 2022-08-07 |
 | [เลือกคนที่เขารักเรา](https://open.spotify.com/track/62cOB2rHLifRe73H85MhNz) | [Three Man Down](https://open.spotify.com/artist/1qAOsY7jv9GFTv4HoVof5P) | [This City Won’t Be Lonely Anymore](https://open.spotify.com/album/3ChHwbwIhGCH4gprc66ZgU) | 3:46 | 2021-03-27\* | 2021-03-27 |
 | [เลือดกรุ๊ปบี](https://open.spotify.com/track/4CdW5KKyIjrpx6Hz981dUt) | [CHRRISSA](https://open.spotify.com/artist/3eK3fsbCi7wc4hThk9wSZO) | [เลือดกรุ๊ปบี](https://open.spotify.com/album/3yxeQVMGenKeriJbIjZyD7) | 4:49 | 2023-01-08 | 2023-10-18 |
-| [เล่นของสูง](https://open.spotify.com/track/72qkpImFQ25A2APz0Wto7L) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [Seven](https://open.spotify.com/album/18131oAh4GYVaYKfYjVUl3) | 4:06 | 2025-01-01 |  |
+| [เล่นของสูง](https://open.spotify.com/track/72qkpImFQ25A2APz0Wto7L) | [Big Ass](https://open.spotify.com/artist/0GsileCtd1UjaVh4OpW7Qv) | [Seven](https://open.spotify.com/album/18131oAh4GYVaYKfYjVUl3) | 4:06 | 2025-01-01 | 2025-01-19 |
 | [เวลาเธอยิ้ม](https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:47 | 2022-08-29 |  |
 | [เสนอตัว \(Ooh!\)](https://open.spotify.com/track/3LSVGHaeHEImPdNM3JUykE) | [PP Krit](https://open.spotify.com/artist/1xrRqVDsJaZPw0sXme5i2T) | [เสนอตัว \(Ooh!\)](https://open.spotify.com/album/1FaIlBwYnBhae6YUUsxrGD) | 2:55 | 2024-03-16 | 2024-04-19 |
 | [เสียดายของ](https://open.spotify.com/track/2yDEfRpX5tRUcAo4VM0wFA) | [Basher](https://open.spotify.com/artist/5R4RoARrqvWRT5GEjYHcWp) | [Fresh](https://open.spotify.com/album/5yRdk1fWK4klY9hCpEc8ru) | 3:46 | 2024-12-16 |  |
@@ -965,7 +966,7 @@
 | [เอาปากกามาวง](https://open.spotify.com/track/4aDz9NTsLULSvewSLg8lih) | [BELL WARISARA](https://open.spotify.com/artist/6rkiZwshBMorgls8PbDzSY) | [เอาปากกามาวง](https://open.spotify.com/album/7HadcYAjeZGgkiCg0WnPnm) | 3:24 | 2021-12-01 | 2022-06-10 |
 | [เฮอร์ไมโอน้อง \- Hermionong](https://open.spotify.com/track/6YArEquYF9TDuqofFO9CY7) | [TheChanisara](https://open.spotify.com/artist/5h3gT12qsHsSQhWo2mRqox) | [เฮอร์ไมโอน้อง \(Hermionong\)](https://open.spotify.com/album/4jEtlQzKbQhriwj494khVj) | 3:36 | 2022-07-06 | 2022-12-03 |
 | [เเฟนผมน่ารัก](https://open.spotify.com/track/0GJHuhvKkuAnocAGNJvNw5) | [Bow Maylada](https://open.spotify.com/artist/6ncWdDNCY4fQHIaGdfme4d), [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC) | [เเฟนผมน่ารัก](https://open.spotify.com/album/2rFDr7JyK6wHOM0ou28ncj) | 3:20 | 2022-09-28 | 2023-02-17 |
-| [แค่คุณ](https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:58 | 2024-09-30 |  |
+| [แค่คุณ](https://open.spotify.com/track/5u8iqPNTa3ryOqeiNdgi6o) | [Musketeers](https://open.spotify.com/artist/0OjRa6r1EIPF5RZPy1SGz9) | [Uprising](https://open.spotify.com/album/4HusBQo7V60wRjyJelOr7X) | 3:58 | 2024-09-30 | 2025-01-19 |
 | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/track/08NGk13plUmQ5E5yjxIPIz) | [BUS](https://open.spotify.com/artist/5kU6FKYW7YBB2ikPQnk8cS) | [แค่น้องชาย \(brother zone\)](https://open.spotify.com/album/66Y30I4oMrnHVPshlzmpFb) | 3:44 | 2024-06-06 | 2025-01-03 |
 | [แค่ฝันไป](https://open.spotify.com/track/1JU4ZiABEUdYEONLwmbLQd) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [WILLISHMARA \(วิลิศมาหรา\)](https://open.spotify.com/album/7nNAJmV2ohLa1DZsqsC9Jw) | 4:44 | 2021-04-02 | 2021-04-20 |
 | [แค่ฝันไป](https://open.spotify.com/track/6odrQWsbCEeOZ8gptITc2i) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [แค่ฝันไป](https://open.spotify.com/album/6gW5lIWIAgJEv0gl8mwPVV) | 4:44 | 2021-03-27\* | 2021-04-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 
 > songs voor je playlist! \#fyp
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,530 likes - 84 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,542 likes - 84 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7br4y32b7L8.md) - [plain]
 | 10 | [Drink Niet Meer](https://open.spotify.com/track/5ao2Yb1Ec7YbY1gHqtZAV5) | [Bokoesam](https://open.spotify.com/artist/2NFWbreVmIEJG0iqIvLDOI), [$hirak](https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2), [De Jeugd Van Tegenwoordig](https://open.spotify.com/artist/1u7uShzlA1tXJeox3jMFPq) | [Nachtvlinder 2](https://open.spotify.com/album/0bQsTCXR5uOP4C8vD9sC3r) | 3:09 |
 | 11 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 |
 | 12 | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/track/0QRhtV1MwywpkLTvCdMaWq) | [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Christoph Andersson](https://open.spotify.com/artist/2dTGHCFyCD8uj6tAM9q8ED) | [Lady Killers II \(Christoph Andersson Remix\)](https://open.spotify.com/album/1tmjsiIUIlF0Zyaj2J5vI1) | 4:57 |
-| 13 | [PORNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
+| 13 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
 | 14 | [J'me tire](https://open.spotify.com/track/4w47YE9rjhmZUdtZjSCb82) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Subliminal \(La face cachée\)](https://open.spotify.com/album/5EU9LqPsBwrhq4Iqx0xMVd) | 4:09 |
 | 15 | [Spijt Is Voor Later](https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD) | [Martin Morero](https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3) | [Spijt Is Voor Later](https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT) | 2:44 |
 | 16 | [Tweaker](https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn) | [G3 GELO](https://open.spotify.com/artist/6Pfep8fkqFHQ87DjvWu54J) | [Tweaker](https://open.spotify.com/album/3xB16GTlwKloB2Ip22N2an) | 3:09 |

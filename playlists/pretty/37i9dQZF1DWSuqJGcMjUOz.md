@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 
 > Découvrez les artistes à l'affiche de l’édition 2024 des Francos de Montréal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,719 likes - 125 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,722 likes - 125 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,10 +90,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 80 | [Celui qui attend](https://open.spotify.com/track/7mn8maSbvyP6Zkot8KxgTm) | [VioleTT Pi](https://open.spotify.com/artist/1kQY8Lg1LUIL23eT1DSGx7) | [Baloney suicide](https://open.spotify.com/album/1I8Rle8kXRX8sqTYl1Jm5b) | 2:02 |
 | 81 | [ÇA APPELLE](https://open.spotify.com/track/7lVXC2IpkKj7J91C3mVdaS) | [KNLO](https://open.spotify.com/artist/56zW5cgHbn3F88lDBF6wAV), [Alaclair Ensemble](https://open.spotify.com/artist/6qQ2if1od4FAg6ilAETwMG) | [SAC À SURPRISE](https://open.spotify.com/album/2YEflT4OhLEpsQWoNsaP8E) | 2:49 |
 | 82 | [Chien Mangé Chien](https://open.spotify.com/track/46fStnezu8JLXjCJd7gQUN) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ), [Shreez](https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp) | [Chien Mangé Chien](https://open.spotify.com/album/6TMjLEOv81pWhF0E2TNC5j) | 3:23 |
-| 83 | [Non merci](https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Emmanuelle](https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply) | 2:26 |
-| 84 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
-| 85 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
-| 86 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 |
+| 83 | [Soleil](https://open.spotify.com/track/5DqD5ofjvx3AnXMDPgyUnX) | [Walter Astral](https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC) | [Jour](https://open.spotify.com/album/1WbuV4tbecNNhcudpZn8hS) | 3:25 |
+| 84 | [Non merci](https://open.spotify.com/track/0dawdOrZLjHjKDlh0oMV0Y) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Emmanuelle](https://open.spotify.com/album/7EAwquK65E1LEcnBJS7Ply) | 2:26 |
+| 85 | [J'espère encore que quelque part l'attente s'arrête](https://open.spotify.com/track/4Ehesap4bAGsZfUFOon9fW) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Lou\-Adriane Cassidy vous dit : Bonsoir](https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7) | 1:48 |
+| 86 | [Anomie](https://open.spotify.com/track/4BooW1BcdEhGCS4j7Kpx9M) | [Galaxie](https://open.spotify.com/artist/4RGr0QWqqUMDcXBIWTJ1xa) | [À demain peut\-être](https://open.spotify.com/album/5xjD6pGqoH2Hgh8CqkwNtW) | 2:59 |
 | 87 | [Don't Lose The Funk](https://open.spotify.com/track/1QZlFIvEatwyW17faW1GOg) | [Arielle Roberge](https://open.spotify.com/artist/3vlFs1TJBZwN7WY1v6nkNe) | [Don't Lose The Funk](https://open.spotify.com/album/1OCeIkoYpv3BEJskCa7bQw) | 4:07 |
 | 88 | [Du country dans le ravin](https://open.spotify.com/track/2T2mpckFPDfpM9wgCFdJXt) | [Alex Burger](https://open.spotify.com/artist/03jYzuKwvEWujYj8iVtUo7) | [Ça s'invente pas](https://open.spotify.com/album/1QPEBa411xm2gFUwXiGeRg) | 2:23 |
 | 89 | [La fessée](https://open.spotify.com/track/58yY0A77OhfNWhTJ6wyWW1) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [La fessée](https://open.spotify.com/album/0TXhfvemA79THgrX4Jcwet) | 3:57 |
@@ -118,8 +118,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSuqJGcMjUOz.md) - [plain]
 | 108 | [R.B.](https://open.spotify.com/track/6YMG5XbVgKUdVIrMaFr8J5) | [Population II](https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd) | [R.B.](https://open.spotify.com/album/7xZKrE00O2cUzItOtQ2oPU) | 4:49 |
 | 109 | [Soso](https://open.spotify.com/track/5ugVYYDavQiHeu27gFEbll) | [Kizaba](https://open.spotify.com/artist/57I0wEuRpFPzqFEQTKjP2X) | [Kizavibe](https://open.spotify.com/album/3UmSnzA1lWOT8Y2Pji5Wvv) | 3:50 |
 | 110 | [Le bois](https://open.spotify.com/track/7rDjKfbvrjrhCgQVQoSE6V) | [Vanille](https://open.spotify.com/artist/3tHAfDZrW7zR6hXd4FzWWn) | [La clairière](https://open.spotify.com/album/6Q5X9RmkPOay3CQQMYTplq) | 2:59 |
-| 111 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
-| 112 | [Ailleurs](https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Elle était une fois](https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ) | 2:51 |
+| 111 | [Ailleurs](https://open.spotify.com/track/6c6DYfUdwCPciEPPsxJN2P) | [Parazar](https://open.spotify.com/artist/6f0kSez71CExbBGe7WkonD), [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Elle était une fois](https://open.spotify.com/album/3mHCRXJZDxAyAcRd2wPwNQ) | 2:51 |
+| 112 | [Holla](https://open.spotify.com/track/6GBNzIYj90vLRZNmdiS3VR) | [Guessmi](https://open.spotify.com/artist/1iPrqRhbEuH0BRuIv16zv2) | [On frap la route?](https://open.spotify.com/album/7hES63PMmDtTdyuXzN2usE) | 2:52 |
 | 113 | [Dolce Vita](https://open.spotify.com/track/2yM8hnByWMOLVRxuUmOuT5) | [DJ Mohtorious](https://open.spotify.com/artist/5HaxxHnRzfZCyJbbxs0mIc), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Fababy](https://open.spotify.com/artist/1ufm09MhiuoHpIFkbcIZGx) | [Dolce Vita](https://open.spotify.com/album/2uAzgEvhRjbA9sL9boeVNl) | 3:14 |
 | 114 | [OnO Song](https://open.spotify.com/track/2ijTLkJoTfURme2Imejq7t) | [Bobo Ono](https://open.spotify.com/artist/3W0ilC5qMFlJpVpILq73FC) | [Fluxus](https://open.spotify.com/album/2Re7fd3sBGL6iZURyYsdWu) | 2:36 |
 | 115 | [Plage](https://open.spotify.com/track/2998oP5SBv3hzc4lefuK6B) | [Fanny Bloom](https://open.spotify.com/artist/5WjAa6SM7JS2zr4HfSPsII), [Greg Beaudin](https://open.spotify.com/artist/546YsSEtGcmiOu121v7Yj0) | [Holistique](https://open.spotify.com/album/4EjrzXrsVMgoc4MMWOBMcM) | 3:13 |

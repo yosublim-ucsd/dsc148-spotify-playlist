@@ -1,6 +1,6 @@
 {
   "description": "Cuando las palabras no alcanzan, siempre habr\u00e1 canciones para decirle lo que sientes. Delilah en portada.",
-  "num_followers": 74805,
+  "num_followers": 74817,
   "original_name": "Cantamores",
   "owner": {
     "name": "Spotify",
@@ -279,26 +279,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "No Me Llores",
-        "url": "https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq"
-      },
-      "artists": [
-        {
-          "name": "Carin Leon",
-          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
-        },
-        {
-          "name": "Manuel Carrasco",
-          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
-        }
-      ],
-      "duration_ms": 198750,
-      "name": "No Me Llores",
-      "url": "https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "Contigo",
         "url": "https://open.spotify.com/album/6fv6tD2JlEMZaFf6tF0GcH"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 208600,
       "name": "Contigo",
       "url": "https://open.spotify.com/track/55CJCECkPMd9ZhGr4JOKn7"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "No Me Llores",
+        "url": "https://open.spotify.com/album/112yccFr5RIT3Ibd1LVakq"
+      },
+      "artists": [
+        {
+          "name": "Carin Leon",
+          "url": "https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ"
+        },
+        {
+          "name": "Manuel Carrasco",
+          "url": "https://open.spotify.com/artist/7qAoXV4U0qDxQAUqhszjAA"
+        }
+      ],
+      "duration_ms": 198750,
+      "name": "No Me Llores",
+      "url": "https://open.spotify.com/track/5NbbA12mQcSXuJtP5IjN8k"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -467,6 +467,22 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
+        "name": "pesimista",
+        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
+      },
+      "artists": [
+        {
+          "name": "Joaquina",
+          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
+        }
+      ],
+      "duration_ms": 234453,
+      "name": "pesimista",
+      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
         "name": "Buenos Tiempos",
         "url": "https://open.spotify.com/album/0JZFAmJrauExEk4sR9YzzV"
       },
@@ -483,22 +499,6 @@
       "duration_ms": 228880,
       "name": "Buenos Tiempos",
       "url": "https://open.spotify.com/track/7pDRRilFOcD5JZUuKWkDzx"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
-        "name": "pesimista",
-        "url": "https://open.spotify.com/album/2ZcHbieh3trp1wEv6QRsaX"
-      },
-      "artists": [
-        {
-          "name": "Joaquina",
-          "url": "https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0"
-        }
-      ],
-      "duration_ms": 234453,
-      "name": "pesimista",
-      "url": "https://open.spotify.com/track/1XDRDbJFoE01ZPwm5pczBk"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -767,22 +767,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "RUBEDO",
-        "url": "https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8"
-      },
-      "artists": [
-        {
-          "name": "CARMEN MAR\u00cdA",
-          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
-        }
-      ],
-      "duration_ms": 160124,
-      "name": "TANTO PARA NADA",
-      "url": "https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "Diosa",
         "url": "https://open.spotify.com/album/18U7oO2RFxBwsjJ7XPYIhG"
       },
@@ -795,6 +779,22 @@
       "duration_ms": 186333,
       "name": "Diosa",
       "url": "https://open.spotify.com/track/23uXCbqN0hXjeLZauvL7q5"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "RUBEDO",
+        "url": "https://open.spotify.com/album/0HNmKq8vzdyhaAMBkECXO8"
+      },
+      "artists": [
+        {
+          "name": "CARMEN MAR\u00cdA",
+          "url": "https://open.spotify.com/artist/3Mq6h69Nv434ZL6wTlEzSn"
+        }
+      ],
+      "duration_ms": 160124,
+      "name": "TANTO PARA NADA",
+      "url": "https://open.spotify.com/track/2LTV5uUh07nhEEWacmWrfo"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -987,26 +987,6 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Me Caga Decir Adi\u00f3s",
-        "url": "https://open.spotify.com/album/4EsC2tboO66epqFTb6BIoZ"
-      },
-      "artists": [
-        {
-          "name": "Sofi Saar",
-          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
-        },
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
-        }
-      ],
-      "duration_ms": 153410,
-      "name": "Me Caga Decir Adi\u00f3s",
-      "url": "https://open.spotify.com/track/1w0ikKJMJL0lVLQbcWYOAu"
-    },
-    {
-      "added_at": "2024-12-20 19:09:13",
-      "album": {
         "name": "Lo Que Mis Ojos Ven",
         "url": "https://open.spotify.com/album/0Em4TdhQo6KXPF23HJWXKA"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 207224,
       "name": "Lo Que Mis Ojos Ven",
       "url": "https://open.spotify.com/track/31nYyIoeDUHkTvZ0bguvhr"
+    },
+    {
+      "added_at": "2024-12-20 19:09:13",
+      "album": {
+        "name": "Me Caga Decir Adi\u00f3s",
+        "url": "https://open.spotify.com/album/4EsC2tboO66epqFTb6BIoZ"
+      },
+      "artists": [
+        {
+          "name": "Sofi Saar",
+          "url": "https://open.spotify.com/artist/3r05yoej4zrrPsMA64bZzp"
+        },
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
+        }
+      ],
+      "duration_ms": 153410,
+      "name": "Me Caga Decir Adi\u00f3s",
+      "url": "https://open.spotify.com/track/1w0ikKJMJL0lVLQbcWYOAu"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -1239,22 +1239,22 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "Solo Los Amantes Sobreviven",
-        "url": "https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx"
+        "name": "La Calle de las Sirenas",
+        "url": "https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi"
       },
       "artists": [
         {
-          "name": "Tufic",
-          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
+          "name": "Ximena Sari\u00f1ana",
+          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
         },
         {
-          "name": "David de la Luz",
-          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
+          "name": "Kabah",
+          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
         }
       ],
-      "duration_ms": 196071,
-      "name": "Solo Los Amantes Sobreviven",
-      "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"
+      "duration_ms": 274601,
+      "name": "La Calle de las Sirenas",
+      "url": "https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L"
     },
     {
       "added_at": "2024-12-20 19:09:13",
@@ -1275,22 +1275,22 @@
     {
       "added_at": "2024-12-20 19:09:13",
       "album": {
-        "name": "La Calle de las Sirenas",
-        "url": "https://open.spotify.com/album/2GuFTan2nM0JthPoVk7vXi"
+        "name": "Solo Los Amantes Sobreviven",
+        "url": "https://open.spotify.com/album/607MeyFBaVjYitpJbPQaBx"
       },
       "artists": [
         {
-          "name": "Ximena Sari\u00f1ana",
-          "url": "https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1"
+          "name": "Tufic",
+          "url": "https://open.spotify.com/artist/5vtHlotcrr5pZQUgdnozWV"
         },
         {
-          "name": "Kabah",
-          "url": "https://open.spotify.com/artist/61hAcjvvUS6EXMpeeHwaDi"
+          "name": "David de la Luz",
+          "url": "https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3"
         }
       ],
-      "duration_ms": 274601,
-      "name": "La Calle de las Sirenas",
-      "url": "https://open.spotify.com/track/6BAbFEuSQOuzK5mQwZgk9L"
+      "duration_ms": 196071,
+      "name": "Solo Los Amantes Sobreviven",
+      "url": "https://open.spotify.com/track/7irJUUYtWxt3fRFfjGIDXF"
     },
     {
       "added_at": "2024-12-20 19:09:13",

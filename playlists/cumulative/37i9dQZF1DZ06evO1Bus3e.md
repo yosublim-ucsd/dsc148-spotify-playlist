@@ -4,7 +4,7 @@
 
 > This is Arsenal Efectivo\. The essential tracks, all in one playlist.
 
-27 songs - 1 hr 19 min
+28 songs - 1 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [PLATICAME DE TI \- En Vivo](https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr) | [Mariachi Sol De Mi Tierra](https://open.spotify.com/artist/6iHkaXDkUBYdOstTu1OoCE), [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [GUILLERMO RAFAEL HERNANDEZ RAMOS](https://open.spotify.com/artist/6TV8tWJXeXlIeQg8YrW0hE) | [PLATICAME DE TI \(En Vivo\)](https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is) | 2:54 | 2024-11-18 |  |
 | [Playas](https://open.spotify.com/track/7xVJ2ccRAQpUWL6fHPslqL) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:26 | 2024-01-29 |  |
 | [Recio Andamos](https://open.spotify.com/track/6MNSEAJ2acxLtDVC1DmBu8) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [En La Fuga](https://open.spotify.com/album/4TLsRBy0U6InnsvEeZ7cNq) | 2:56 | 2024-01-29 |  |
+| [Sacando El Polvo](https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0), [Omar Ruiz](https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC) | [Sacando El Polvo](https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP) | 4:01 | 2025-01-19 |  |
 | [Sea Donde Sea](https://open.spotify.com/track/1a55CiM5pSJir39PNVPv2a) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 2:40 | 2024-01-29 | 2024-04-28 |
 | [Seguiremos Trabajando](https://open.spotify.com/track/2IIM3kOZaaGAKbmhTbeBiF) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Seguiremos Trabajando](https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4) | 3:02 | 2024-01-29 |  |
 | [Soy Ayon](https://open.spotify.com/track/59R6ch1PRI9YY7aGHGiOc0) | [Arsenal Efectivo](https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0) | [Vida Peligrosa](https://open.spotify.com/album/45hVcJdR56XnHg2Phvb7WY) | 2:57 | 2024-01-29 |  |

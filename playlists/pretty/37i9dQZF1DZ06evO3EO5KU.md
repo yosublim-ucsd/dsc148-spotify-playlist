@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 
 > This is Los Plebes del Rancho de Ariel Camacho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 159,053 likes - 50 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 159,074 likes - 50 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3EO5KU.md) - [plain]
 | 41 | [Vida Truncada](https://open.spotify.com/track/2oyQaHGTKl0F937NeijYpz) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Recordando A Una Leyenda](https://open.spotify.com/album/6APWjRHjNqmSLAEauCu1fR) | 3:37 |
 | 42 | [Cosas del Olvido](https://open.spotify.com/track/7pAErCAyqljlxLXvGIjNQY) | [Los 2 de la S](https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Cosas del Olvido](https://open.spotify.com/album/2Q95jEf6GLOANI2jHaa0Nj) | 2:58 |
 | 43 | [Díganle A Mi Ex](https://open.spotify.com/track/3wAB6BoHzcy4OQg040Jydm) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Díganle A Mi Ex](https://open.spotify.com/album/0t0rQcO5MICiLAjTwVZZbn) | 3:00 |
-| 44 | [Así Fue \- En Vivo](https://open.spotify.com/track/15Hdxsy3XJnSCsXoV8YX6b) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Así Fue \(En Vivo\)](https://open.spotify.com/album/5F7Lq8OdE9JzMHeYJ04bTE) | 5:53 |
-| 45 | [Amor Pasajero](https://open.spotify.com/track/4G4SU5CjZZuzneQlkpb8zJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/2u7lP3WGZ7QusWcvPaqzXo) | 3:30 |
-| 46 | [¿Por Qué Me Haces Llorar? \- En Vivo](https://open.spotify.com/track/6YuIK9sCV6g89yVmkNZtla) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [¿Por Qué Me Haces Llorar? \(En Vivo\)](https://open.spotify.com/album/7LosuoGd6sHiY1QKXimQUW) | 3:18 |
-| 47 | [Alguien Como Tú](https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus) | 3:21 |
+| 44 | [Amor Pasajero](https://open.spotify.com/track/4G4SU5CjZZuzneQlkpb8zJ) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Amor Pasajero](https://open.spotify.com/album/2u7lP3WGZ7QusWcvPaqzXo) | 3:30 |
+| 45 | [Así Fue \- En Vivo](https://open.spotify.com/track/15Hdxsy3XJnSCsXoV8YX6b) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Así Fue \(En Vivo\)](https://open.spotify.com/album/5F7Lq8OdE9JzMHeYJ04bTE) | 5:53 |
+| 46 | [Alguien Como Tú](https://open.spotify.com/track/10bHLOwkm2l51jANpw1Hni) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Alguien Como Tú](https://open.spotify.com/album/2udRZWpORdAe1jhyU14Hus) | 3:21 |
+| 47 | [¿Por Qué Me Haces Llorar? \- En Vivo](https://open.spotify.com/track/6YuIK9sCV6g89yVmkNZtla) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [¿Por Qué Me Haces Llorar? \(En Vivo\)](https://open.spotify.com/album/7LosuoGd6sHiY1QKXimQUW) | 3:18 |
 | 48 | [No Comprendo](https://open.spotify.com/track/4GDJN9KM4qvGGjPIsgp6aA) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Recuerden Mi Estilo \(Edición Deluxe\)](https://open.spotify.com/album/231JOhLcsYQsO2G4TDXHuZ) | 2:29 |
 | 49 | [Luces, Cámara y Acción](https://open.spotify.com/track/3mdFsWlgPsY9SH9281Tk2f) | [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77), [Juanpa Salazar](https://open.spotify.com/artist/6r92NGrlnmNvFJA9Kl0PAx) | [Luces, Cámara y Acción](https://open.spotify.com/album/7apdNS89KMDFKuU7ztnaQ3) | 2:59 |
 | 50 | [Oscar Olivas \- Live](https://open.spotify.com/track/2KqfhnWTABwhaYNSca5aYW) | [Canelos Jrs](https://open.spotify.com/artist/1UvezhOPrN6k3PV1AfwfKF), [Los Plebes del Rancho de Ariel Camacho](https://open.spotify.com/artist/6cnl6Jz97730GUS8zEAK77) | [Oscar Olivas \(Live\)](https://open.spotify.com/album/3fM7r0c4dWEaki7Vbxry96) | 4:11 |
 
-Snapshot ID: `Z4hMAAAAAAAMqu9uIgn5HrvijLtINFN9`
+Snapshot ID: `Z4mdgAAAAAD4rfLXF717EUAmgiS2cGYy`

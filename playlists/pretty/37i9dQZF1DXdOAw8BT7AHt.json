@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers",
-  "num_followers": 468771,
+  "num_followers": 468799,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Afraid To Die",
-        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
-      },
-      "artists": [
-        {
-          "name": "Movements",
-          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
-        }
-      ],
-      "duration_ms": 182216,
-      "name": "Afraid To Die",
-      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "End Eric Sparrow and the Life of Him",
         "url": "https://open.spotify.com/album/5MSJvNBZTMnt5f7iyvNChi"
       },
@@ -219,6 +203,22 @@
       "duration_ms": 169000,
       "name": "End Eric Sparrow and the Life of Him",
       "url": "https://open.spotify.com/track/1zZuJm4FZjGVY9J3Hy5CNP"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Afraid To Die",
+        "url": "https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ"
+      },
+      "artists": [
+        {
+          "name": "Movements",
+          "url": "https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac"
+        }
+      ],
+      "duration_ms": 182216,
+      "name": "Afraid To Die",
+      "url": "https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1031,6 +1031,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Claw",
+        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "Claw",
+      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "ANTI-FUN PROPAGANDA",
         "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
       },
@@ -1063,22 +1079,6 @@
       "duration_ms": 114284,
       "name": "3 DAY HEADACHE",
       "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
-        "name": "Claw",
-        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        }
-      ],
-      "duration_ms": 195195,
-      "name": "Claw",
-      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
     },
     {
       "added_at": "2024-10-10 17:06:38",

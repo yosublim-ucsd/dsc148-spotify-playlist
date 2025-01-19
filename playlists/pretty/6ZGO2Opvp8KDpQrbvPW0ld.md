@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 
 > Step inside to hear the best new Chillhop, Jazzhop and Lofi beats.
 
-[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,271 likes - 300 songs - 10 hr 21 min
+[awesomeplaylists](https://open.spotify.com/user/awesomeplaylists) - 75,268 likes - 300 songs - 10 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/6ZGO2Opvp8KDpQrbvPW0ld.md) - [plain]
 | 15 | [Upward](https://open.spotify.com/track/5zX4WdsawACZctLRiXu7Sr) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Upward](https://open.spotify.com/album/44V5CiEXGl4wb49WfYUMYn) | 2:33 |
 | 16 | [Late Night Jazz](https://open.spotify.com/track/3LPerQLej4uysEuCBC3sQ3) | [woof](https://open.spotify.com/artist/5Sk9vF5dNolgKVVDuFTyyp), [Intoku](https://open.spotify.com/artist/0Eoy1XlOfZ0xiHKayBoJbi) | [Late Night Jazz](https://open.spotify.com/album/71S2eApyxGaGAdyy71owPr) | 2:08 |
 | 17 | [Cinnamon](https://open.spotify.com/track/4bS5Nz7Kr31kdA7SaorMTn) | [filo.](https://open.spotify.com/artist/7BXGmkHIbjr5z5WOkrkJUB), [.Eehou](https://open.spotify.com/artist/5n9SautEmQzoC7G47NBta0) | [Cinnamon](https://open.spotify.com/album/0cJvIVL8zF0qYA7BAXrPdw) | 2:20 |
-| 18 | [Harvest](https://open.spotify.com/track/4ZNo6Sa53jLKNPemk5bGYU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Harvest](https://open.spotify.com/album/5R749lPQYZku7ygy4UFt1J) | 1:55 |
+| 18 | [Harvest](https://open.spotify.com/track/4ZNo6Sa53jLKNPemk5bGYU) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Harvest](https://open.spotify.com/album/5R749lPQYZku7ygy4UFt1J) | 1:55 |
 | 19 | [Sandscape Vibes](https://open.spotify.com/track/4r7ND09OEWwcsGGaVR9w9d) | [Monocloud](https://open.spotify.com/artist/5nljYdfvafyRYs5soqzJ1U), [Bertram Kvist](https://open.spotify.com/artist/2Dd2EvgmTdtghdTS07FtcG) | [Sandscape Vibes](https://open.spotify.com/album/0kkCV2JYagLkcvkqR2eiZA) | 1:55 |
 | 20 | [Elusive](https://open.spotify.com/track/37eZ2rXsGxW2hyMjyZoydo) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [Gatz2Gatz](https://open.spotify.com/artist/5YfpC2gY9twAVAQJqB8vIi) | [Elusive](https://open.spotify.com/album/7vqTEGOwwmCaxCB1taPj1W) | 2:43 |
 | 21 | [Time Is Endlessly](https://open.spotify.com/track/2tOO9hjcYUIaDVrNyJeqZq) | [Drips Zacheer](https://open.spotify.com/artist/6evg3DBRRbN4YNlzbeS6VN), [Living Room](https://open.spotify.com/artist/0sLb0ouettR8lDLnEgCSVK) | [Time Is Endlessly](https://open.spotify.com/album/5TiTuQ1cNSkb0gzooTReaG) | 1:48 |

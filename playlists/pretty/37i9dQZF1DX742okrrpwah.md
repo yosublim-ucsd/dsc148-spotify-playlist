@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Alonzo et GIMS au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 359,586 likes - 93 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 359,619 likes - 93 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

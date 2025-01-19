@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-789 songs - 2 day 4 hr 55 min
+790 songs - 2 day 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -654,6 +654,7 @@
 | [Sweet Mickey](https://open.spotify.com/track/7LYPaZ2vyJBN6i99MJLqOS) | [Armand Hammer](https://open.spotify.com/artist/3SCI7sXHUZIeDKMWC5NT9C), [billy woods](https://open.spotify.com/artist/39vtb2iiz3079nqfL5nfFc), [E L U C I D](https://open.spotify.com/artist/6F5n3bvrBgoyicdFT6L8IB) | [Paraffin](https://open.spotify.com/album/1LkgalktPs3mJMbcD9dhY8) | 2:29 | 2021-08-26 |  |
 | [Swing \(In A Dream\)](https://open.spotify.com/track/3L7aQYaKfELkdsoMUAv8zN) | [Squid](https://open.spotify.com/artist/685XjGzGztyivfR3fAjoxo) | [O Monolith](https://open.spotify.com/album/6El4L0QbF7grZlJmpv7KPI) | 4:29 | 2023-09-17 |  |
 | [ta1lsd001](https://open.spotify.com/track/3TInK6YpLRQ7Dt2Vn12Y3u) | [ta1lsd0ll](https://open.spotify.com/artist/6hGItsib0tmvh4cCE5LRQe) | [cursed001](https://open.spotify.com/album/6q6e64QrmXmrfcn19hI9t9) | 1:38 | 2024-02-24 | 2024-03-09 |
+| [Tambourine Dream](https://open.spotify.com/track/5eAKaGCR0QEuPOxOo0zXqs) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 0:33 | 2025-01-18 |  |
 | [Tarkus \(i\. Eruption / ii\. Stones of Years / iii\. Iconoclast / iv\. Mass / v\. Manticore / vi\. Battlefield / vii\. Aquatarkus\) \( 2012 \- Remaster\)](https://open.spotify.com/track/7fLEJNwcW60W74XehVmR5p) | [Emerson, Lake & Palmer](https://open.spotify.com/artist/0nCiidE5GgDrc5kWN3NZgZ) | [Tarkus](https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO) | 20:43 | 2024-03-13 |  |
 | [Taste](https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Short n' Sweet](https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH) | 2:37 | 2024-09-06 | 2024-12-02 |
 | [Tears Of Rage \- Remastered 2000](https://open.spotify.com/track/1FEdEeL3LVSw0upgUChKAB) | [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [Music From Big Pink \(Remastered\)](https://open.spotify.com/album/0ky5kdvfPxSmSpj03hpSAE) | 5:19 | 2023-06-28 | 2023-07-05 |
@@ -692,7 +693,7 @@
 | [The Long Run \- 2013 Remaster](https://open.spotify.com/track/2YOwVfcUTRjNpcLny4UC4r) | [Eagles](https://open.spotify.com/artist/0ECwFtbIWEVNwjlrfc6xoL) | [The Long Run \(2013 Remaster\)](https://open.spotify.com/album/1sW1HxI9VppbiXqgFQHVCP) | 3:41 | 2024-01-01 | 2024-07-31 |
 | [The Medium](https://open.spotify.com/track/2evdiqJddtt5vfocPme5l7) | [Navy Blue](https://open.spotify.com/artist/5qRbfEf4Ooo19aRXKQzvUV) | [Ways of Knowing](https://open.spotify.com/album/65buOcLOPAzBGLeW46tIDO) | 2:14 | 2023-06-03 |  |
 | [The Nights of Wine and Roses](https://open.spotify.com/track/3uS4xj4hCZfEKYJxZyw0r7) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Celebration Rock](https://open.spotify.com/album/2UdWvqAgpwhALQniIICGMZ) | 4:02 | 2023-11-04 |  |
-| [The Only Picture](https://open.spotify.com/track/3YEHs8spNnp4erj65qhhfz) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Garbology](https://open.spotify.com/album/5vRUE4UELZbjkjjQDI7sSz) | 0:45 | 2024-01-03 |  |
+| [The Only Picture](https://open.spotify.com/track/3YEHs8spNnp4erj65qhhfz) | [Aesop Rock](https://open.spotify.com/artist/2fSaE6BXtQy0x7R7v9IOmZ), [Blockhead](https://open.spotify.com/artist/7bHm3B3jJju0q9FUdOgp3b) | [Garbology](https://open.spotify.com/album/5vRUE4UELZbjkjjQDI7sSz) | 0:45 | 2024-01-03 | 2025-01-19 |
 | [The Overwhelming Event](https://open.spotify.com/track/7lWkreHFTUhYyLy1GRQk7O) | [Jay Electronica](https://open.spotify.com/artist/0TkqXdyWLsssJH7okthMPQ) | [A Written Testimony](https://open.spotify.com/album/0ZJt4dCoI19u71k37E1nQu) | 2:17 | 2022-01-22 | 2023-08-20 |
 | [The Plan](https://open.spotify.com/track/5nrIEQ6ZmVwt9Pfr3ydvbn) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [Keep It like a Secret](https://open.spotify.com/album/2PKZhfPrgMmK5zug2pqdHA) | 3:29 | 2022-09-20 |  |
 | [The Robots \- 2009 Remaster](https://open.spotify.com/track/5eqZWYQ5tbIehx00NeKXz7) | [Kraftwerk](https://open.spotify.com/artist/0dmPX6ovclgOy8WWJaFEUU) | [The Man\-Machine \(2009 Remaster\)](https://open.spotify.com/album/3eyz60xEK5dGEeZF1JJSi9) | 6:12 | 2023-12-30 |  |

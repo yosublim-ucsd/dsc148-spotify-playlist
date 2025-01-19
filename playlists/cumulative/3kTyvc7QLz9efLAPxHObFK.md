@@ -4,7 +4,7 @@
 
 > 
 
-1,968 songs - 4 day 8 hr 35 min
+1,970 songs - 4 day 8 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Addicts 2.0](https://open.spotify.com/track/7zgQDPZJXI9azbU9RQ8QND) | [Hatred](https://open.spotify.com/artist/3TvVKqrkgwoHXuj8r71GEJ) | [Addicts 2.0](https://open.spotify.com/album/4YMnbNMEywlMuolTWO1khw) | 2:37 | 2022-11-21 |  |
 | [Adrenaline](https://open.spotify.com/track/65VnFcg021LSGnysdpjVXj) | [X\-Pander](https://open.spotify.com/artist/5BD89DInX2q6j9laqzi79K) | [Adrenaline](https://open.spotify.com/album/4SIEe2m3angT9PaSxPERpj) | 3:02 | 2024-06-24 |  |
 | [Adrenaline Overload](https://open.spotify.com/track/1iD09eMQvJIxlT3ZaomPpx) | [Sound Rush](https://open.spotify.com/artist/7IFPeV5Ew63S7Hid0AjNgK), [The Purge](https://open.spotify.com/artist/4CyjDlfEi7Sb4NLgWP0x3w), [Adjuzt](https://open.spotify.com/artist/0UDN8FPWVrZoMQ7mQB3bS8) | [Adrenaline Overload](https://open.spotify.com/album/4Mfm6EyEDSRwVy2gFd5jr2) | 3:17 | 2023-11-20 |  |
+| [Afraid Of The Dark](https://open.spotify.com/track/3wyBgywTIZttDWITW0ayVF) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Afraid Of The Dark](https://open.spotify.com/album/0wBFt7nMeVqcSS4J8UvlZr) | 2:05 | 2025-01-18 |  |
 | [After The Sun](https://open.spotify.com/track/1LLQlTvq6hfPhZ06GZ9NqU) | [Stonecold](https://open.spotify.com/artist/5JqdHSabEGojR14BFWLczw), [Gearbox Digital](https://open.spotify.com/artist/32Eil9DTJeGj6fnhyXn9L6) | [After The Sun](https://open.spotify.com/album/3XqJXroRvhC4VzN5qBTIyX) | 3:05 | 2024-12-28 |  |
 | [After You](https://open.spotify.com/track/1joE0VMxQgzefYW5gilve9) | [Maltorian](https://open.spotify.com/artist/2eCUlOmEGLwJwpyQG17bA5) | [After You](https://open.spotify.com/album/7M0CG5GNZbxnFd3B1CQUEK) | 2:35 | 2024-04-09 |  |
 | [Afterglow](https://open.spotify.com/track/7BikwNivwUDQn2fEldBroy) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr), [tachibana](https://open.spotify.com/artist/5ReSbMzIP1BtdLOzzmXjns), [Massive New Krew](https://open.spotify.com/artist/1D3hV1Gke8LLRSn1aymglN) | [Afterglow](https://open.spotify.com/album/6uBfQOKNdpFCoZESsvTliL) | 2:56 | 2024-10-08 |  |
@@ -388,6 +389,7 @@
 | [D L FKN M](https://open.spotify.com/track/699EBS8AxkgLbEALUqbH2e) | [Rebelion](https://open.spotify.com/artist/5JcSyYpBdqCmjJyVlKh7Yg), [Malice](https://open.spotify.com/artist/0endjvK01uydkCL84mD3Z5) | [The Second Dose](https://open.spotify.com/album/3zShX0xTLDzcTV2dvG7mDk) | 1:12 | 2024-04-26 |  |
 | [Dageki](https://open.spotify.com/track/3mokfADy4F9mRWMACtRFy4) | [Alby Loud](https://open.spotify.com/artist/2LAMUtUpLsPEEBsfGTRRUx), [YUKIYANAGI](https://open.spotify.com/artist/5CxWZpW3bKbMiOC6jJ5r7i) | [Dageki](https://open.spotify.com/album/2jTrTT4a453vGYIgfYngJm) | 2:21 | 2022-02-22 |  |
 | [DAMAGE](https://open.spotify.com/track/4D2zwRijiqYlyNwpDjkr1T) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY), [Zatox](https://open.spotify.com/artist/27Z5l2Kfy1IaYZMg5INWqO) | [DAMAGE](https://open.spotify.com/album/02Ps7gwhBl9dnOEWIG8UEF) | 3:28 | 2023-06-24 |  |
+| [Damage Patrol](https://open.spotify.com/track/5Pqv59wygKSWblt45CJlwB) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Damage Patrol](https://open.spotify.com/album/2d6kJHTjU2EyJGV6Gnb0vK) | 2:16 | 2025-01-18 |  |
 | [DAMNATION](https://open.spotify.com/track/2LxjYhOBFlwvR5kuN1XZME) | [Riot Shift](https://open.spotify.com/artist/5J3RIw3YwgyXeosItjR9GY) | [DAMNATION](https://open.spotify.com/album/7u31LrLdPsHPQWeUOge4sh) | 2:34 | 2024-05-10 |  |
 | [Dance](https://open.spotify.com/track/55fdT51ZdxLX0KmkOu5TY8) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7) | [The G.A.B.B.E.R\. EP VOL 1.](https://open.spotify.com/album/1W0s9g2HwPUDS3QCIVMtRw) | 3:20 | 2024-12-14 |  |
 | [DANCE](https://open.spotify.com/track/3Lp5HFhm5uygXeOkNjC60Y) | [Suspect](https://open.spotify.com/artist/1g5TBMBIK1S48I5amyae6u), [Valido](https://open.spotify.com/artist/65kw4SfFANgttyuNSTMUdy), [Dirty Workz](https://open.spotify.com/artist/02oW60rlHXuLMBiODd6nob) | [DANCE](https://open.spotify.com/album/5lW1S7WK1RTWGbu47I00eY) | 2:51 | 2024-11-16 |  |

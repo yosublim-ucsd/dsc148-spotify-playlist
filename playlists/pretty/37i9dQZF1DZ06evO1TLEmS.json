@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAAp6NJOGrKcTaadWvpa2lEy",
+  "snapshot_id": "Z4mdgAAAAADD2N0Bz/2re9p5XEFHUWiZ",
   "tracks": [
     {
       "added_at": null,
@@ -116,9 +116,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 139346,
-      "name": "Stephanie",
-      "url": "https://open.spotify.com/track/4G1idx6dUpoZCQBWRG8VbY"
+      "duration_ms": 252960,
+      "name": "Without A Leg To Stand On",
+      "url": "https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f"
     },
     {
       "added_at": null,
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 252960,
-      "name": "Without A Leg To Stand On",
-      "url": "https://open.spotify.com/track/4CDF9sHXsSNSNUGOgvFI3f"
+      "duration_ms": 139346,
+      "name": "Stephanie",
+      "url": "https://open.spotify.com/track/4G1idx6dUpoZCQBWRG8VbY"
     },
     {
       "added_at": null,
@@ -319,22 +319,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "...but i'd rather be with you, too",
-        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
+        "name": "Plain Letters (Reimagined)",
+        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
       },
       "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 197790,
-      "name": "Strong Enough",
-      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
+      "duration_ms": 273150,
+      "name": "Plain Letters - Reimagined",
+      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
     },
     {
       "added_at": null,
@@ -359,18 +355,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plain Letters (Reimagined)",
-        "url": "https://open.spotify.com/album/3CNj2dFPx3h6c2ToL3V85O"
+        "name": "...but i'd rather be with you, too",
+        "url": "https://open.spotify.com/album/5rBVASdotOwS4z4a4LAbmS"
       },
       "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
         {
           "name": "Madison Cunningham",
           "url": "https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL"
         }
       ],
-      "duration_ms": 273150,
-      "name": "Plain Letters - Reimagined",
-      "url": "https://open.spotify.com/track/7LfTX8haVHsWco3kaoHqot"
+      "duration_ms": 197790,
+      "name": "Strong Enough",
+      "url": "https://open.spotify.com/track/69qLjFRZbz7V7uM13DtmOW"
     },
     {
       "added_at": null,

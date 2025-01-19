@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Lo naco es chido, y que viva el rocanroool! Alex Lora en portada.",
-  "num_followers": 179529,
+  "num_followers": 179590,
   "original_name": "Rock Urbano",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
-        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
-      },
-      "artists": [
-        {
-          "name": "Heavy Nopal",
-          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
-        }
-      ],
-      "duration_ms": 265589,
-      "name": "No Tengo Tiempo",
-      "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "Valedores Juveniles",
         "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
       },
@@ -123,6 +107,22 @@
       "duration_ms": 188917,
       "name": "Mi Mu\u00f1equita Sint\u00e9tica",
       "url": "https://open.spotify.com/track/7KHDYWsMQJYemuYR08gtU6"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Lo M\u00e1s Prendido de Rockdrigo Gonz\u00e1lez",
+        "url": "https://open.spotify.com/album/37yYMb961LIiE7NTmAASHZ"
+      },
+      "artists": [
+        {
+          "name": "Heavy Nopal",
+          "url": "https://open.spotify.com/artist/7oFDTCTqOMHss3q89srhul"
+        }
+      ],
+      "duration_ms": 265589,
+      "name": "No Tengo Tiempo",
+      "url": "https://open.spotify.com/track/5xOW6mtZzHEtnLfekkg5fO"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -223,22 +223,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Delincuentes Con Placa",
-        "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
-      },
-      "artists": [
-        {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
-        }
-      ],
-      "duration_ms": 253653,
-      "name": "El No Lo Mato",
-      "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "Un Panteon Muy Vivo",
         "url": "https://open.spotify.com/album/0HgimXrbh89mAHF3nLGsLP"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 243670,
       "name": "Tu Mam\u00e1 No Me Quiere - Remastered",
       "url": "https://open.spotify.com/track/0vGzODOKTWE2jJQgBbYF3v"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Delincuentes Con Placa",
+        "url": "https://open.spotify.com/album/4Sdi8I9p9AkGbx8LnFf4wn"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 253653,
+      "name": "El No Lo Mato",
+      "url": "https://open.spotify.com/track/2hntX3w48OucbEqoLoDnPZ"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -335,18 +335,18 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Valedores Juveniles",
-        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+        "name": "Un Minuto de Amor",
+        "url": "https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL"
       },
       "artists": [
         {
-          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
-          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 181394,
-      "name": "No Estoy Muerto",
-      "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
+      "duration_ms": 213000,
+      "name": "Un Minuto de Amor, Pt. 1",
+      "url": "https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -383,18 +383,34 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Un Minuto de Amor",
-        "url": "https://open.spotify.com/album/77sGKcufHihszGpeaEUFbL"
+        "name": "15 \u00c9xitos",
+        "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
       },
       "artists": [
         {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+          "name": "Sur 16",
+          "url": "https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq"
         }
       ],
-      "duration_ms": 213000,
-      "name": "Un Minuto de Amor, Pt. 1",
-      "url": "https://open.spotify.com/track/56eJXlNuSgZ7ylwPSXWtvK"
+      "duration_ms": 212520,
+      "name": "En Dos",
+      "url": "https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Valedores Juveniles",
+        "url": "https://open.spotify.com/album/1EozvZIEU6wB5gwy6cEKCN"
+      },
+      "artists": [
+        {
+          "name": "El Harag\u00e1n y Compa\u00f1\u00eda",
+          "url": "https://open.spotify.com/artist/2NN9pzej9qFOOLBfRnmhIV"
+        }
+      ],
+      "duration_ms": 181394,
+      "name": "No Estoy Muerto",
+      "url": "https://open.spotify.com/track/6ZVHAIXNueVu9mbYnzuXAU"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -411,22 +427,6 @@
       "duration_ms": 214366,
       "name": "El Perdedor",
       "url": "https://open.spotify.com/track/4mjRBGJ2HKf9cvL8ymKnlg"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "15 \u00c9xitos",
-        "url": "https://open.spotify.com/album/5K7JaRLKjYiSr4zYl7ldBO"
-      },
-      "artists": [
-        {
-          "name": "Sur 16",
-          "url": "https://open.spotify.com/artist/4xoQxXwJNDs7ntJ7ZJ7dwq"
-        }
-      ],
-      "duration_ms": 212520,
-      "name": "En Dos",
-      "url": "https://open.spotify.com/track/4ZhN7nhbg91qqqfljUBTYf"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -463,18 +463,18 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Cristo Viejo",
-        "url": "https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy"
+        "name": "En Guerra de Amor",
+        "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
       },
       "artists": [
         {
-          "name": "Fantasma De Canterville",
-          "url": "https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx"
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
         }
       ],
-      "duration_ms": 323626,
-      "name": "Cristo Viejo",
-      "url": "https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2"
+      "duration_ms": 224351,
+      "name": "Una Rola de Amor",
+      "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -495,18 +495,18 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "En Guerra de Amor",
-        "url": "https://open.spotify.com/album/7ypKLsIHFHBVnAEdlotmxe"
+        "name": "Cristo Viejo",
+        "url": "https://open.spotify.com/album/71AJr8ywoxzLvKKssrPKBy"
       },
       "artists": [
         {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+          "name": "Fantasma De Canterville",
+          "url": "https://open.spotify.com/artist/040rbCr9V95JeswXJeStGx"
         }
       ],
-      "duration_ms": 224351,
-      "name": "Una Rola de Amor",
-      "url": "https://open.spotify.com/track/4oc6fWlPQfoERkPs9TOZGj"
+      "duration_ms": 323626,
+      "name": "Cristo Viejo",
+      "url": "https://open.spotify.com/track/43IpgycykkiMC7Tm6Q6SS2"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -591,6 +591,22 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "Rock Sin Visa, Vol. 2",
+        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 187640,
+      "name": "Historia de un Minuto",
+      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "En Sentido Contrario",
         "url": "https://open.spotify.com/album/1eW1g24GLcMwUKFyQBX5vx"
       },
@@ -619,22 +635,6 @@
       "duration_ms": 169180,
       "name": "No Todo Es Oro",
       "url": "https://open.spotify.com/track/138kU5xpFub1SxSD4oI7b0"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "Rock Sin Visa, Vol. 2",
-        "url": "https://open.spotify.com/album/6i7PrFosUXchqHxPez1IpL"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 187640,
-      "name": "Historia de un Minuto",
-      "url": "https://open.spotify.com/track/1dJQRFpIkASsM7Xmf8MhAP"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -751,22 +751,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Anda Borracho Pancho",
-        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
-      },
-      "artists": [
-        {
-          "name": "Sam Sam",
-          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
-        }
-      ],
-      "duration_ms": 261038,
-      "name": "Como Dona a Su Agujero",
-      "url": "https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 200053,
       "name": "Quien Te Cantara",
       "url": "https://open.spotify.com/track/6h4YWETL6DAEKpeSr0CaGu"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Anda Borracho Pancho",
+        "url": "https://open.spotify.com/album/6h5XBXviV0nnD4ZgyAbuXw"
+      },
+      "artists": [
+        {
+          "name": "Sam Sam",
+          "url": "https://open.spotify.com/artist/0LRuvIEgEeGnU02JG2Rbcb"
+        }
+      ],
+      "duration_ms": 261038,
+      "name": "Como Dona a Su Agujero",
+      "url": "https://open.spotify.com/track/4SeWTbfjNvu6ljXCo61tra"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
+        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
+      },
+      "artists": [
+        {
+          "name": "Interpuesto",
+          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
+        }
+      ],
+      "duration_ms": 215746,
+      "name": "Volver\u00e9",
+      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "15 Grandes Exitos",
         "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
       },
@@ -911,38 +927,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Inhalando Amor",
-        "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
-      },
-      "artists": [
-        {
-          "name": "Hazel",
-          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
-        }
-      ],
-      "duration_ms": 291426,
-      "name": "Que Ser\u00e1 de M\u00ed",
-      "url": "https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "Grandes \u00c9xitos a Nuestro Estilo, Vol. 1",
-        "url": "https://open.spotify.com/album/5N3V31gLMUfOt999zrpKpV"
-      },
-      "artists": [
-        {
-          "name": "Interpuesto",
-          "url": "https://open.spotify.com/artist/2BbXMNKjkmAw56U7oXQDLB"
-        }
-      ],
-      "duration_ms": 215746,
-      "name": "Volver\u00e9",
-      "url": "https://open.spotify.com/track/1Cgos3Sy03bCQMKxqnswGU"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "Por Tu Amor",
         "url": "https://open.spotify.com/album/4M1twGVolM2JCjLET2zQBa"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 200388,
       "name": "Por Tu Amor",
       "url": "https://open.spotify.com/track/14Piw2n4E4fsRs8Ay3BhPS"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "Inhalando Amor",
+        "url": "https://open.spotify.com/album/7L1jJusN1PUODglxbCykzG"
+      },
+      "artists": [
+        {
+          "name": "Hazel",
+          "url": "https://open.spotify.com/artist/6rRH3dKCPZ8L550tadjx1i"
+        }
+      ],
+      "duration_ms": 291426,
+      "name": "Que Ser\u00e1 de M\u00ed",
+      "url": "https://open.spotify.com/track/6hwU9WaaHd6MQlk2LzHJsb"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -975,22 +975,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 210720,
-      "name": "Chavo de onda",
-      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "15 Rolitas de Amor",
         "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
@@ -1003,6 +987,22 @@
       "duration_ms": 221320,
       "name": "Esta Vez",
       "url": "https://open.spotify.com/track/42RFJrVk4jAnMKJAOkd3c1"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 210720,
+      "name": "Chavo de onda",
+      "url": "https://open.spotify.com/track/21eBjW0qDhxhqSWF7RTVp8"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -1107,38 +1107,6 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "Noticia Punk (Remasterizada)",
-        "url": "https://open.spotify.com/album/4yXuYGgh54H2R5EjELCRA5"
-      },
-      "artists": [
-        {
-          "name": "Rebel'd Punk",
-          "url": "https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4"
-        }
-      ],
-      "duration_ms": 139000,
-      "name": "Noticia Punk - Remasterizada",
-      "url": "https://open.spotify.com/track/1wb2YWZEB6OaB2n6b1w4IK"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
-      },
-      "artists": [
-        {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Abuso de autoridad",
-      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
-    },
-    {
-      "added_at": "2025-01-03 06:00:19",
-      "album": {
         "name": "Botellita De Jerez",
         "url": "https://open.spotify.com/album/78MN9NUuPR8pxYx7m0WYcg"
       },
@@ -1155,18 +1123,18 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "15 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+        "name": "Noticia Punk (Remasterizada)",
+        "url": "https://open.spotify.com/album/4yXuYGgh54H2R5EjELCRA5"
       },
       "artists": [
         {
-          "name": "Charlie Monttana",
-          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+          "name": "Rebel'd Punk",
+          "url": "https://open.spotify.com/artist/0IdBNIZmMIhMIUk8lfIuY4"
         }
       ],
-      "duration_ms": 215480,
-      "name": "Tocando el Cielo",
-      "url": "https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB"
+      "duration_ms": 139000,
+      "name": "Noticia Punk - Remasterizada",
+      "url": "https://open.spotify.com/track/1wb2YWZEB6OaB2n6b1w4IK"
     },
     {
       "added_at": "2025-01-03 06:00:19",
@@ -1187,6 +1155,38 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+      },
+      "artists": [
+        {
+          "name": "Three Souls In My Mind",
+          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Abuso de autoridad",
+      "url": "https://open.spotify.com/track/1XheWGcrMGywXilhQPoZzr"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
+        "name": "15 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5gd5kQbqAKWxckZvtSTtA0"
+      },
+      "artists": [
+        {
+          "name": "Charlie Monttana",
+          "url": "https://open.spotify.com/artist/6hszx52doSbSMupWHUGdTv"
+        }
+      ],
+      "duration_ms": 215480,
+      "name": "Tocando el Cielo",
+      "url": "https://open.spotify.com/track/3pE3ecB6BsdzovRRtcieRB"
+    },
+    {
+      "added_at": "2025-01-03 06:00:19",
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV"
       },
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2025-01-03 06:00:19",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/4XF4LoXW8gg1wMVLLfJIRR"
+        "name": "15 Rolitas de Amor",
+        "url": "https://open.spotify.com/album/2zZmPYbtRdix1vDkr2ve21"
       },
       "artists": [
         {
-          "name": "Three Souls In My Mind",
-          "url": "https://open.spotify.com/artist/0FWt6THmobpdzk7727cq2R"
+          "name": "Brebaje Extra\u00f1o",
+          "url": "https://open.spotify.com/artist/5dG11RSw7uCz9J4sZnCTlZ"
         }
       ],
-      "duration_ms": 162826,
-      "name": "Oye Cantinero",
-      "url": "https://open.spotify.com/track/2P5ujdnvH3G4MNwWLUY129"
+      "duration_ms": 280240,
+      "name": "Ha Vuelto Ya",
+      "url": "https://open.spotify.com/track/3MTq6Gbw6pDp5NZJ0e2idG"
     }
   ],
   "unique_name": "Rock Urbano",

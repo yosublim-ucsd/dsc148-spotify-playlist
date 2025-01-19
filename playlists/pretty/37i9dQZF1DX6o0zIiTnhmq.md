@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,280 likes - 50 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,367 likes - 50 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,12 +51,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 41 | [Gayatri Mantra 108 Times](https://open.spotify.com/track/2v1mkc6rK4XB5zWiMwsIgG) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe), [Insane Muzik](https://open.spotify.com/artist/3i0fKusLUkw5dq9ypNQMzq) | [Gayatri Mantra 108 Times](https://open.spotify.com/album/0ujyZG2HtKKNH2Q6Wu01rw) | 23:24 |
 | 42 | [Hanuman Mantra\-Om Han Hanumate Namah\-Chanting](https://open.spotify.com/track/63X9mOwaxcxtgFLUFY8nzj) | [Sanatana Bharat](https://open.spotify.com/artist/1sXo5MDxuXxF3Svq3v0HFW), [Upadhyay](https://open.spotify.com/artist/0xkzavIlPS4PUtvkfIm6w6), [Amrita Chaturvedi](https://open.spotify.com/artist/15L5cGvj9QNJicO6rVVKze) | [Hanuman Mantra\-Om Han Hanumate Namah\-Chanting](https://open.spotify.com/album/0wp1yOIKLzrzIOMAzTb5RV) | 6:55 |
 | 43 | [Om Gam Ganapataye](https://open.spotify.com/track/1QI85rkz7xEfSA12pIdvDk) | [Hédi Carlee](https://open.spotify.com/artist/1MhZK1my2DU36E3e1wC6ir) | [Om Gam Ganapataye](https://open.spotify.com/album/2ojL0JmPVeMWS3HSC1zL67) | 10:30 |
-| 44 | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb) | 34:22 |
-| 45 | [Ganesh Panchratna Stotram](https://open.spotify.com/track/4VM3QCwCdwHxCbaLmgSlG4) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Phaldata Ganesh](https://open.spotify.com/album/4gfFKxRzFVNbZBabQWVxOd) | 7:43 |
+| 44 | [Ganesh Panchratna Stotram](https://open.spotify.com/track/4VM3QCwCdwHxCbaLmgSlG4) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [Phaldata Ganesh](https://open.spotify.com/album/4gfFKxRzFVNbZBabQWVxOd) | 7:43 |
+| 45 | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/track/49If13tqDUc8w1F6Muet5m) | [Arijit Singh](https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw) | [Nava Durga Gayatri Mantra Jaap](https://open.spotify.com/album/3ax4WPkiZ3Jaggidl8XJcb) | 34:22 |
 | 46 | [Om Namah Shivay Mantra](https://open.spotify.com/track/7ac2jKXhOfnNPHQQ2BBGBx) | [Palak Sharma](https://open.spotify.com/artist/4NO7tLuZuP8T3KfvGUYtuG), [JusKeys](https://open.spotify.com/artist/3WOftlTipq4ezwzR72Pkwc), [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf) | [Om Namah Shivay Mantra](https://open.spotify.com/album/1q2387c87LOveOx3uBFIhJ) | 12:17 |
 | 47 | [Antarjami Purakh Bidhate](https://open.spotify.com/track/6gKNIl2Cv47OKDa9JKwX40) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Mantras for Positive Energy](https://open.spotify.com/album/7C97tpyMI6dTlWVAkWXBZ7) | 11:20 |
 | 48 | [Ganesh Mantra](https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Ganesh Mantra](https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs) | 4:43 |
-| 49 | [Shloka](https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Durga](https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg) | 4:09 |
-| 50 | [Ik Onkar \- Mool Mantra](https://open.spotify.com/track/7JKIryV7GlXMpbzF7QuLwC) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Ik Onkar \- Mool Mantra](https://open.spotify.com/album/2F4KvMF2TeB5nIWZFZJAju) | 5:11 |
+| 49 | [Ik Onkar \- Mool Mantra](https://open.spotify.com/track/7JKIryV7GlXMpbzF7QuLwC) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Ik Onkar \- Mool Mantra](https://open.spotify.com/album/2F4KvMF2TeB5nIWZFZJAju) | 5:11 |
+| 50 | [Shloka](https://open.spotify.com/track/2pChwr7eWvftb5KoC8YOKS) | [Pandit Jasraj](https://open.spotify.com/artist/6vvIQFcpGLIum7HYhYwNx0) | [Durga](https://open.spotify.com/album/5cc9E4jWCXtdVj3rAwh1kg) | 4:09 |
 
 Snapshot ID: `Z4TMwAAAAAD5wYU61WmXy5evwcdbfDV9`

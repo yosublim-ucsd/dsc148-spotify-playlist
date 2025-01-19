@@ -5231,6 +5231,32 @@
     },
     {
       "album": {
+        "name": "CHAMPIONS LEAGUE",
+        "url": "https://open.spotify.com/album/2tHW0wmKMlYc4jJENTyUPP"
+      },
+      "artists": [
+        {
+          "name": "Mizzy Miles",
+          "url": "https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I"
+        },
+        {
+          "name": "Slow J",
+          "url": "https://open.spotify.com/artist/7crp1tZcefnjT5RuL6WZQ0"
+        },
+        {
+          "name": "Gson",
+          "url": "https://open.spotify.com/artist/6XjHGcba7ZbaZ6nYtwhaCj"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161082,
+      "name": "CHAMPIONS LEAGUE",
+      "url": "https://open.spotify.com/track/7jMSd85QqbHjqlpDSr66Hg"
+    },
+    {
+      "album": {
         "name": "Heartbreak & Other Stories",
         "url": "https://open.spotify.com/album/3ZND79VBwdSp1g9jUndMXU"
       },
@@ -9644,6 +9670,36 @@
       "duration_ms": 456933,
       "name": "Family Matters",
       "url": "https://open.spotify.com/track/1wFFFzJ5EsKbBWZriAcubN"
+    },
+    {
+      "album": {
+        "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
+        "url": "https://open.spotify.com/album/7JbiJkrVXvo1num2mfA33v"
+      },
+      "artists": [
+        {
+          "name": "GORD\u00c3O DO PC",
+          "url": "https://open.spotify.com/artist/34BnNmWVguXa3CigvfHJHS"
+        },
+        {
+          "name": "Mc Menor DN",
+          "url": "https://open.spotify.com/artist/2FJjf1qmmogfQyqLKjbPML"
+        },
+        {
+          "name": "Mc Leozin",
+          "url": "https://open.spotify.com/artist/6mKwmTMzDrye9elc8JWiw3"
+        },
+        {
+          "name": "Ana Laura Lopes",
+          "url": "https://open.spotify.com/artist/0uGD30yANzeWbNUAQoiJF2"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171162,
+      "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
+      "url": "https://open.spotify.com/track/6x6EA3N9xXgptSakS7VZUg"
     },
     {
       "album": {
@@ -18680,7 +18736,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 141230,
       "name": "MTG PASSA PASSA PRA EU SARRAR",
       "url": "https://open.spotify.com/track/5G0kKNRYFCoORvJ2VzwvrY"
@@ -18758,7 +18814,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 123692,
       "name": "MTG QUEM N\u00c3O QUER SOU EU",
       "url": "https://open.spotify.com/track/6RjSXi9cPGroetXeNsWFGL"

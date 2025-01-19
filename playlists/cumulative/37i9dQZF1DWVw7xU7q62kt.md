@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-369 songs - 17 hr 53 min
+370 songs - 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,7 @@
 | [Cap Camarat](https://open.spotify.com/track/4TWtN1Dyc4VpP5pJlpxj0z) | [The Offline](https://open.spotify.com/artist/6hk187bUA8NzTX9NFGppv9) | [Cap Camarat](https://open.spotify.com/album/4MXJK2URbvnoLt3UTkezyP) | 4:15 | 2023-10-13 | 2024-06-05 |
 | [Caresse](https://open.spotify.com/track/5vdXZnMr6JmyOhnEAdQGc9) | [Unwind Project](https://open.spotify.com/artist/1pKbeFgKBZ7fk5UVIxo6mf), [Elijah Lee](https://open.spotify.com/artist/2ZVKeej6s975bMSdzxjIhu), [Paul Grant](https://open.spotify.com/artist/69FGWeFKaCyCjiDU2afEUl) | [Caresse](https://open.spotify.com/album/03ci1mkaZ2iqhV4hdZP6XK) | 2:26 | 2024-10-25 |  |
 | [Caterpillar](https://open.spotify.com/track/4jdQy8mSJyVY3KaoTKSS2Y) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul) | [Caterpillar](https://open.spotify.com/album/32rGvU3BrFUlryfw3yA5EU) | 3:06 | 2023-11-10 |  |
-| [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-08-22 |  |
+| [Chance of a Day, Pt\. 3](https://open.spotify.com/track/0s9VfOoqJPquZo84u9B6oS) | [Erik von Spreckelsen](https://open.spotify.com/artist/4YWdRbOI5cjXB8Ffxf3efA), [Bo Stief](https://open.spotify.com/artist/6btUX9F5YeOm9ChA2v5yDg) | [Chance of a Day, Pt\. 3](https://open.spotify.com/album/1DDUzSGu06cmlKlTuctpO5) | 6:27 | 2023-08-22 | 2025-01-19 |
 | [Chime](https://open.spotify.com/track/5V3TlTt1Jwg53UaUcF8MgS) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [Chime](https://open.spotify.com/album/7M0vcSJJuFrevzgrwjJ2EW) | 1:49 | 2023-08-22 |  |
 | [CHROME](https://open.spotify.com/track/2cR7IykiFG4LBWFzpKW8GK) | [Jazzbois](https://open.spotify.com/artist/0jq1z5MQSlFtvpbnLzeEul), [Dom Beats](https://open.spotify.com/artist/2eaCBvMHhhq9rQo9npqKet) | [CHROME](https://open.spotify.com/album/1moJUIovbsCWN0KRMvY0rz) | 4:42 | 2024-08-23 | 2024-09-20 |
 | [Cinnamon Tree](https://open.spotify.com/track/1JatTobpZIzETrBiixL4wf) | [MrAnthony](https://open.spotify.com/artist/6yCelGvbSQCdGHnyjZ26Mx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i), [Porcel](https://open.spotify.com/artist/5Hk0Mny2WBqXDCWicNmD2G) | [Cinnamon Tree](https://open.spotify.com/album/0IdhU7PE6vg2RSgNxPVhBx) | 1:56 | 2024-09-06 |  |
@@ -331,6 +331,7 @@
 | [tempeh's blues](https://open.spotify.com/track/3FWsbMI5aSJhYfNNTDZjb2) | [jetfueljayy](https://open.spotify.com/artist/70ovbvXoXJ33c8zTKFFHw2), [Esbe](https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa) | [tempeh's blues](https://open.spotify.com/album/2unzpgV37RboGqTjsp7HIG) | 1:51 | 2024-09-06 |  |
 | [Terra](https://open.spotify.com/track/6RHmpxgOzMYsZHhhkM4D3l) | [Dpsht](https://open.spotify.com/artist/2VhyMRukJ2e1CgZ6k7Tux3), [tenkousei.](https://open.spotify.com/artist/2eSSdM2jPcCHpN4ple7x6N) | [Terra](https://open.spotify.com/album/75NSOvwrQGZmbzS88DblU5) | 2:21 | 2024-09-06 |  |
 | [The Banquet](https://open.spotify.com/track/0zBVBRE5tTBUCi3EKgECpO) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN), [Yasper](https://open.spotify.com/artist/1axdL80XjVHdInGsJbURyt) | [Twelve Chapters](https://open.spotify.com/album/2CEkaTZxGY6wrwURFq9bpf) | 2:19 | 2023-08-22 |  |
+| [The Calm](https://open.spotify.com/track/1r11FNdYPaGKYzTaW6H857) | [Paul Prime](https://open.spotify.com/artist/15B9ZmmgDysKO1mJggYWgU), [Future of Lofi](https://open.spotify.com/artist/6dcs4v9l9DXN0l2GKZXxD4) | [The Calm](https://open.spotify.com/album/3tqdmNTAsBljKWpJKE1jcZ) | 2:03 | 2025-01-10 |  |
 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/1hChYJtjxczG5aZ5MFIcI5) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple \(Live From Malibu\)](https://open.spotify.com/album/4PbVeRsOUaxf8Fjlo9eGCf) | 2:43 | 2024-03-20 |  |
 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/3yc3KFakYKMOso38RHBtzI) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Colour Purple](https://open.spotify.com/album/1ionXEA2jbPJgpKKjYHq3Z) | 2:43 | 2024-01-12 | 2024-01-29 |
 | [The Colour Purple \- Live From Malibu](https://open.spotify.com/track/6OCawhDsDWOyyhWwoumwsT) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht) | [The Yussef Dayes Experience \(Live From Malibu\)](https://open.spotify.com/album/3PGNm2ibnsl8rldfXjQ1wB) | 2:43 | 2024-01-26 | 2024-04-19 |

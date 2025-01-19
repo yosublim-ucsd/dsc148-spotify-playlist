@@ -4,7 +4,7 @@
 
 > This is Eyshila\. The essential tracks, all in one playlist.
 
-74 songs - 6 hr 30 min
+75 songs - 6 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,6 +21,7 @@
 | [Dependente](https://open.spotify.com/track/2hvEKOvLh4Vt1m1r4nuCaV) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi), [Damares](https://open.spotify.com/artist/1jJo9A3hVYQztRTHaIFJka) | [Tudo Volta ao Seu Lugar](https://open.spotify.com/album/7iFsnjU5wTgTSeEF4tLxV5) | 6:31 | 2023-07-09 | 2025-01-03 |
 | [Deus dos Vales, Deus dos Montes](https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Nada Pode Calar Um Adorador](https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE) | 4:43 | 2023-07-09 |  |
 | [Deus Está me Ensinando](https://open.spotify.com/track/3ewNwpEyciD3Ly38dmAgcl) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Até Tocar o Céu](https://open.spotify.com/album/0No068lRyBvHg02eKHItlq) | 4:54 | 2023-07-09 |  |
+| [Deus Forte \(Ao Vivo\)](https://open.spotify.com/track/3i7GanYhWqwGpC1fRJQquk) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Forte \(Ao Vivo\)](https://open.spotify.com/album/7C1wJaUx8jI3E1XV9oi4ED) | 4:30 | 2025-01-19 |  |
 | [Deus no Controle](https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus no Controle](https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq) | 4:51 | 2023-07-09 |  |
 | [Deus no Controle \- Remix](https://open.spotify.com/track/5n2tjV0imDqsZhgBhCWdd2) | [Lito Atalaia](https://open.spotify.com/artist/40VTmb5TDKq5wom2CAnvU3), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Deus no Controle \- Remix](https://open.spotify.com/album/5vE3dKmYcbc3yQ7lX4Grdn) | 3:35 | 2023-07-29 | 2024-09-06 |
 | [Deus Proverá](https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy) | [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Deus Proverá](https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm) | 5:35 | 2023-07-09 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 
 > The hottest new pop with all the drops\. Cover: Faouzia & Alan Walker
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,261 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,596 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWOGXILUAh53.md) - [plain]
 | 6 | [Better Off Alone](https://open.spotify.com/track/6ey9Kaqrb9dy49hQxy6Eyk) | [FAANGS](https://open.spotify.com/artist/2UlXIWBLOjskz5esa7ec2j) | [Better Off Alone](https://open.spotify.com/album/2YB65n9xMGybOrD90n7yPn) | 2:05 |
 | 7 | [Someone For Me](https://open.spotify.com/track/2LtoZ6EThyjG4QscR6MuZC) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Someone For Me](https://open.spotify.com/album/1b5E2J5Uh6Trif3ZvPMu5o) | 2:19 |
 | 8 | [Deep Theory \(feat\. Catching Cairo\)](https://open.spotify.com/track/5INHyiY8jkVdXtOj9iQBuW) | [Will Sass](https://open.spotify.com/artist/1yCIbpGEKpVs3fZbGItAXc), [Catching Cairo](https://open.spotify.com/artist/1MW1wqNtF2hNgsPfGDhrHB) | [Deep Theory/String Theory](https://open.spotify.com/album/2MWBLpzeLzGJpN3Zz7OlkN) | 1:59 |
-| 9 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw), [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 |
+| 9 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 |
 | 10 | [Mystery](https://open.spotify.com/track/0rHEEVb39IQ6iUhoj1JU4A) | [Kapote](https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH), [GUINNY](https://open.spotify.com/artist/2We5sHePj1UqVLOFNU6IOK) | [Mystery](https://open.spotify.com/album/4zdhg2gmRL0WCcBN8MYMpd) | 4:46 |
 | 11 | [IT girl](https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh) | [JADE](https://open.spotify.com/artist/24b0qNYNgeOfpP5rbljIB3) | [IT girl](https://open.spotify.com/album/4SNJSuB52Xj4tyx8pcqtbG) | 2:33 |
 | 12 | [Deeper Love](https://open.spotify.com/track/22i2Jrth3s7Qq5dgrMLy8T) | [Martin Jensen](https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB), [The Stickmen Project](https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY), [Matt Steffanina](https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8) | [Deeper Love](https://open.spotify.com/album/6qHwqkS01qDWlrrwW5bTfy) | 2:20 |

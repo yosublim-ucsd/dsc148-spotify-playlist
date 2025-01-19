@@ -747,6 +747,24 @@
     },
     {
       "album": {
+        "name": "CASUAL >:D",
+        "url": "https://open.spotify.com/album/6i3l92cclMejoNliq82wv9"
+      },
+      "artists": [
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 93024,
+      "name": "CASUAL >:D",
+      "url": "https://open.spotify.com/track/3gthipeVjVlyEkLqU8hvGV"
+    },
+    {
+      "album": {
         "name": "Catdelions IIS",
         "url": "https://open.spotify.com/album/1QX1Z2oES9tANgs5iE5sq6"
       },

@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6jW9mPgBGv2.md) - [plain]
 
 > El rango más alto\. Ellos lo tienen y lo saben\. Papi Arca plantando cara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 255,429 likes - 100 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 255,546 likes - 100 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [La Franquicia](https://open.spotify.com/track/7wveZaf1jTbvYJ0bqF3693) | [Arcángel](https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X) | [Papi Arca](https://open.spotify.com/album/0TnXanpr5ASzEcS5lEaKRN) | 2:27 |
 | 2 | [COMPETENCIA](https://open.spotify.com/track/1hrRcfsancQb92OcifmMV1) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [LA PANTERA NEGRA](https://open.spotify.com/album/6NmYJszy5BaEm1WF4tJL7Z) | 3:10 |
-| 3 | [La K y la J \(feat\. Kris R.\)](https://open.spotify.com/track/33WXomaEcsTpggOEpu9iQZ) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [La K y la J \(feat\. Kris R.\)](https://open.spotify.com/album/6AoQAO5fem0he9Mcr6XSGD) | 3:15 |
+| 3 | [La K y la J \(feat\. Kris R.\)](https://open.spotify.com/track/33WXomaEcsTpggOEpu9iQZ) | [Juliito](https://open.spotify.com/artist/1u6AXgo5qmg0tfY8rDP18Z), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [The Essence](https://open.spotify.com/artist/1pe9Q1b2o1PueqfqjkoT5C) | [La K y la J \(feat\. Kris R.\)](https://open.spotify.com/album/6AoQAO5fem0he9Mcr6XSGD) | 3:15 |
 | 4 | [Huelemos Rosado](https://open.spotify.com/track/23cLCLCiEdYFb5raIdmEa1) | [Ele A El Dominio](https://open.spotify.com/artist/4SzD0wClEg9NKVJZbCRFqS) | [Huelemos Rosado](https://open.spotify.com/album/1n2OROTZFLYfNXT5W1BJMt) | 2:18 |
 | 5 | [Las Piponas \(Remix\)](https://open.spotify.com/track/281YJmnThveWjsWVic9Ym6) | [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK), [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX) | [Las Piponas \(Remix\)](https://open.spotify.com/album/6FnnT3IOidLkfgQtrC2RJb) | 4:04 |
 | 6 | [PACTO](https://open.spotify.com/track/0Fm4d7o40HCRabkFtM0Pf4) | [Neo Pistea](https://open.spotify.com/artist/01m2XZ7m7rAz6KY3scTdaV), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [PACTO](https://open.spotify.com/album/15OyvuHRZnfuRn1cZ58Quj) | 3:31 |

@@ -1,6 +1,6 @@
 {
   "description": "Racikan akustik dalam secangkir kopi. ",
-  "num_followers": 557454,
+  "num_followers": 557470,
   "original_name": "Kopikustik",
   "owner": {
     "name": "Spotify",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2024-12-09 08:16:48",
       "album": {
-        "name": "Apa Mungkin (Demo Version)",
-        "url": "https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 131000,
-      "name": "Apa Mungkin - Demo Version",
-      "url": "https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA"
-    },
-    {
-      "added_at": "2024-12-09 08:16:48",
-      "album": {
         "name": "a letter to my 17 year old",
         "url": "https://open.spotify.com/album/48SUVfdwm8K3U67cS5QC2h"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 236394,
       "name": "Bicara (feat. Monita Tahalea)",
       "url": "https://open.spotify.com/track/1Dxb9nWV16f5PthsUsV1XZ"
+    },
+    {
+      "added_at": "2024-12-09 08:16:48",
+      "album": {
+        "name": "Apa Mungkin (Demo Version)",
+        "url": "https://open.spotify.com/album/6tR9LzZ03VCSXMjhrzl1Jf"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 131000,
+      "name": "Apa Mungkin - Demo Version",
+      "url": "https://open.spotify.com/track/5RveogdH4YRFlW2kdGT0vA"
     },
     {
       "added_at": "2024-12-09 08:16:48",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2024-12-09 08:16:48",
       "album": {
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
+      },
+      "artists": [
+        {
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
+        }
+      ],
+      "duration_ms": 195914,
+      "name": "Cahaya",
+      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
+    },
+    {
+      "added_at": "2024-12-09 08:16:48",
+      "album": {
         "name": "Tak Ingin Pisah Lagi",
         "url": "https://open.spotify.com/album/55EPRJFc0JAWKeLEFJogQ4"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 265518,
       "name": "Tak Ingin Pisah Lagi",
       "url": "https://open.spotify.com/track/67L0rPX2z7n44XBYStoHDg"
-    },
-    {
-      "added_at": "2024-12-09 08:16:48",
-      "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 195914,
-      "name": "Cahaya",
-      "url": "https://open.spotify.com/track/2rGGLCSkv9ISfH64KSYFBj"
     },
     {
       "added_at": "2024-12-09 08:16:48",

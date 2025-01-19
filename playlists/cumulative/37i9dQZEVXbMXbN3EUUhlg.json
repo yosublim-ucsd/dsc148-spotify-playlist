@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "Manifesto Musical 2 (Ao Vivo / Vol.1)",
+        "url": "https://open.spotify.com/album/6ZzYIwoppAL4h1U777KuQn"
+      },
+      "artists": [
+        {
+          "name": "Henrique & Juliano",
+          "url": "https://open.spotify.com/artist/3p7PcrEHaaKLJnPUGOtRlT"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150992,
+      "name": "Amigo Da Minha Saudade - Ao Vivo",
+      "url": "https://open.spotify.com/track/07kLShG3HTeLXTqnFCqNAJ"
+    },
+    {
+      "album": {
         "name": "Amor da Despedida",
         "url": "https://open.spotify.com/album/2E5eG2FJ0VAkg4rVmLlX1i"
       },
@@ -4796,7 +4814,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 186165,
       "name": "Calculista",
       "url": "https://open.spotify.com/track/5mPn4ueXc1oua018FDvknz"
@@ -9948,7 +9966,7 @@
       ],
       "date_added": "2024-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 266666,
       "name": "Eu sou Cantor N\u00e3o Sou Bandido",
       "url": "https://open.spotify.com/track/2wXqRqVGiGB2fyy9eoPJbP"
@@ -10120,7 +10138,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 181960,
       "name": "eu vou ser rico",
       "url": "https://open.spotify.com/track/3RKxR4ylugvzHU0S8AhVaz"
@@ -10552,6 +10570,28 @@
       "duration_ms": 171162,
       "name": "FANTASMA (vers\u00e3o GORD\u00c3O DO PC)",
       "url": "https://open.spotify.com/track/6x6EA3N9xXgptSakS7VZUg"
+    },
+    {
+      "album": {
+        "name": "Retr\u00f4, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tlIwC64SXmEK3dR2fRnCc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185521,
+      "name": "Farra da Marcinha - Ao Vivo",
+      "url": "https://open.spotify.com/track/69DenmsFlfhs6yPhkJg382"
     },
     {
       "album": {
@@ -17707,6 +17747,28 @@
     },
     {
       "album": {
+        "name": "Nada Com Nada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04sBatWiwPdPqgn5MGqZ8M"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Mioto",
+          "url": "https://open.spotify.com/artist/1X6ORK7IekgmyjV6IFPszP"
+        },
+        {
+          "name": "Grupo Menos \u00c9 Mais",
+          "url": "https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161866,
+      "name": "Nada Com Nada - Ao Vivo",
+      "url": "https://open.spotify.com/track/37QloSdzrjx2xCH0m65800"
+    },
+    {
+      "album": {
         "name": "Namora A\u00ed",
         "url": "https://open.spotify.com/album/2MhX3Z4EpIVYLG0KduFY1i"
       },
@@ -17748,7 +17810,7 @@
       ],
       "date_added": "2025-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 157546,
       "name": "Namora Ela - Ao Vivo",
       "url": "https://open.spotify.com/track/28lX0N3Fa1L5YzzPfklvc0"
@@ -19968,7 +20030,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 144461,
       "name": "PARECE - Ao Vivo",
       "url": "https://open.spotify.com/track/4HDqfO6SQMHFeGDFcepIPP"
@@ -19986,7 +20048,7 @@
       ],
       "date_added": "2024-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 144461,
       "name": "PARECE - Ao Vivo",
       "url": "https://open.spotify.com/track/77X5UMAX4FjUx1aOaLqotz"
@@ -28570,6 +28632,28 @@
       "duration_ms": 186815,
       "name": "voc\u00ea foi a melhor",
       "url": "https://open.spotify.com/track/6hd5MpG4Wsw8lzGupFegck"
+    },
+    {
+      "album": {
+        "name": "Retr\u00f4, Pt. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tlIwC64SXmEK3dR2fRnCc"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1rcia Fellipe",
+          "url": "https://open.spotify.com/artist/3OxZ4asD88P1lJJmLcXz4K"
+        },
+        {
+          "name": "Raphaela Santos",
+          "url": "https://open.spotify.com/artist/1xUYzPQi0zdezdLkEjuqQH"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206086,
+      "name": "Voc\u00ea Lembra - Ao Vivo",
+      "url": "https://open.spotify.com/track/6rMteVnxuGa7Dixs0SPW4l"
     },
     {
       "album": {

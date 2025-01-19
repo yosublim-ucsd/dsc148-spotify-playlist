@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases\. Cover: Apache 207, Luciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,937 likes - 85 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,944 likes - 85 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 3 | [100.000](https://open.spotify.com/track/3ONthFKTmjEkuxN6WCCRsZ) | [MAJAN](https://open.spotify.com/artist/60pVmLS5zlt31OWk340O3U), [Trettmann](https://open.spotify.com/artist/6QzzeKV0VcnT2vJMYDPuL4) | [100.000](https://open.spotify.com/album/1zK2tmCjG873OQ9UrbKjd1) | 4:03 |
 | 4 | [Someone For Me](https://open.spotify.com/track/2LtoZ6EThyjG4QscR6MuZC) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Someone For Me](https://open.spotify.com/album/1b5E2J5Uh6Trif3ZvPMu5o) | 2:19 |
 | 5 | [Verknallen \(mit Chapo102\)](https://open.spotify.com/track/1KpNgmkmEVNetub7W13AJj) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Verknallen \(mit Chapo102\)](https://open.spotify.com/album/3CkavsknXY4VdS0yPUr2Vq) | 2:26 |
-| 6 | [Do U Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do U Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 |
+| 6 | [Do You Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do You Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 |
 | 7 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 |
 | 8 | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 |
 | 9 | [Crockett's Theme \(Invincible\)](https://open.spotify.com/track/4GkJ6RvWnHc0m3yLwm4Dj1) | [Klaas](https://open.spotify.com/artist/25sJFKMqDENdsTF7zRXoif) | [Crockett's Theme \(Invincible\)](https://open.spotify.com/album/2R9Umrylm3Rfg1jAn78Lw2) | 2:11 |
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 | 52 | [Talking To Strangers](https://open.spotify.com/track/4e1EFgbXKAo787T4xb2oRB) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Talking To Strangers](https://open.spotify.com/album/1ID9AIx4yujHUPFI5GvOQV) | 3:31 |
 | 53 | [Unbelievable](https://open.spotify.com/track/0S85m8J9rdjI0jwOLiFGOP) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Ada](https://open.spotify.com/artist/1SUz2JjWDXSVyAtWokVinQ) | [Unbelievable](https://open.spotify.com/album/1zINq33LASwPgNKVnbIxrq) | 4:31 |
 | 54 | [Never Get To Heaven](https://open.spotify.com/track/3bC6XRGBeGNgyk1n4t7nPd) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Never Get To Heaven](https://open.spotify.com/album/1AMzTwrvPJ76Iuf9EDcbRz) | 2:34 |
-| 55 | [Leider not](https://open.spotify.com/track/3QMhTLKTPWqzxaLSwd8sol) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [Leider not](https://open.spotify.com/album/7DmtU2krsryUNCzD7VlAHM) | 2:26 |
+| 55 | [leider not](https://open.spotify.com/track/3QMhTLKTPWqzxaLSwd8sol) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [leider not](https://open.spotify.com/album/7DmtU2krsryUNCzD7VlAHM) | 2:26 |
 | 56 | [SOS](https://open.spotify.com/track/5pbHdA34hiAuLEsJFp8sgl) | [Craig David](https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c) | [SOS](https://open.spotify.com/album/7aaihvQBAqCeeaCsfjFqkq) | 3:30 |
 | 57 | [BAYAMÓN](https://open.spotify.com/track/2zF0lBxzjQFYs0jN13D5f0) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [ATM Yamil](https://open.spotify.com/artist/3wlIk7QokyE4U8ysTLgdy5) | [BAYAMÓN](https://open.spotify.com/album/2f8y3WiwPWPeUiPQlISFMX) | 3:39 |
 | 58 | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt) | 2:40 |

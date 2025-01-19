@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 
 > Lavando e louvando a Deus com grandes hinos.
 
-[Spotify](https://open.spotify.com/user/spotify) - 427,124 likes - 75 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 427,181 likes - 75 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY9crkqLGj4o.md) - [plain]
 | 11 | [Deus e Eu \- Ao Vivo](https://open.spotify.com/track/5ia3xk0HqOkLrUE2JJSbxP) | [Leandro Borges](https://open.spotify.com/artist/1W08UTn6HSj0dHarQE7ReQ) | [Leandro Borges ao Vivo: Parte 2](https://open.spotify.com/album/4ULGr8T3tW0EowY8zjwFHQ) | 4:03 |
 | 12 | [Eu Escolho Deus \- Ao Vivo](https://open.spotify.com/track/2MaKWxPGQ6zocvj2ciYREO) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Uma História Escrita pelo Dedo de Deus, Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/2SGXRWHHPEMjaOEwzmJt7R) | 4:00 |
 | 13 | [Acalma o Meu Coração](https://open.spotify.com/track/3VYgop8eTvEitSxxKc6jGp) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Raridade](https://open.spotify.com/album/1PqKeJJ5C79S4FfLvvFJtc) | 4:21 |
-| 14 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 |
-| 15 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
+| 14 | [Maranata \- Ao Vivo](https://open.spotify.com/track/21UUN3OEpS7Lr8YiN4xh4N) | [Ministério Avivah](https://open.spotify.com/artist/5Ip7ix7yIh34uZbY1Ppws9), [Fernanda Madaloni](https://open.spotify.com/artist/2zooTs2rDXKbq4kN7BKivZ) | [Maranata](https://open.spotify.com/album/5Xb81Si0VxpVIWL1LJUJ5b) | 6:24 |
+| 15 | [Enche\-me \- Ao Vivo](https://open.spotify.com/track/7AHSqYhBEL41VTISN6wPR1) | [Isaias Saad](https://open.spotify.com/artist/1THj0JI7zld7YDsWERcSUz), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Enche\-me \(Ao Vivo\)](https://open.spotify.com/album/74y0JyRZhViylaRsmrx8mk) | 7:30 |
 | 16 | [Não Morrerei](https://open.spotify.com/track/2kgaOkiO7jKzZd5DomhJFz) | [Marquinhos Gomes](https://open.spotify.com/artist/2llyl9OO3itnyIvJcIEaeP), [Força Jovem RJ](https://open.spotify.com/artist/6MyKEycdZOKcCXq0pQ4feI), [Angelo Torres](https://open.spotify.com/artist/5hvG3vCln060TdigBSXnOV) | [Ele Não Desiste de Você](https://open.spotify.com/album/66e3vt8NHTng82HAKQJxGW) | 3:51 |
 | 17 | [Abraça\-me \- Ao Vivo](https://open.spotify.com/track/65qcNFxcUWaElan6H81c2X) | [BRASAS](https://open.spotify.com/artist/5PNsJHfFejQHph4pQPGENg), [David Quinlan](https://open.spotify.com/artist/71FkOGkNoEpRQAAmV9CP73), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq) | [Abraça\-me \(Ao Vivo\)](https://open.spotify.com/album/1cwt4zrrAGViRMkCMLrEqE) | 10:52 |
 | 18 | [Oh Quão Lindo Esse Nome É \(What a Beautiful Name\) \[Sony Music Live\]](https://open.spotify.com/track/58EmHn2c6ArCeIsSWBx60n) | [Kemuel](https://open.spotify.com/artist/5GHeXsPtAVd0KLe1oMikxm) | [Kemuel \(Sony Music Live\)](https://open.spotify.com/album/5ewCRapBYzfnGeXTQq1fE1) | 5:14 |

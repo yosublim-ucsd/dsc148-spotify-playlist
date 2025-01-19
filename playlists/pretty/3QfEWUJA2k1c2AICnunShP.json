@@ -1,12 +1,12 @@
 {
   "description": "Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen",
-  "num_followers": 26190,
+  "num_followers": 26224,
   "original_name": "Klassische Musik zum Lesen, Lernen & Studieren",
   "owner": {
     "name": "Filtr Germany",
     "url": "https://open.spotify.com/user/playlists.germany"
   },
-  "snapshot_id": "AAABtZGmxoy1Iq0RsxG1uYNDvic4/T7h",
+  "snapshot_id": "AAAB1QhROigVLbauMhx4dqxDWTWJBWyW",
   "tracks": [
     {
       "added_at": "2023-08-29 04:45:45",
@@ -585,24 +585,20 @@
       "url": "https://open.spotify.com/track/4VZZgBgdeLdaWjEnxl7iHD"
     },
     {
-      "added_at": "2022-10-15 04:37:05",
+      "added_at": "2025-01-18 03:58:58",
       "album": {
-        "name": "Theme for Ennio",
-        "url": "https://open.spotify.com/album/2L2DtrrCSMD3ww7c55SBJP"
+        "name": "Jour de pluie",
+        "url": "https://open.spotify.com/album/1t7ABB34r85Iwj4mCd7Phr"
       },
       "artists": [
         {
-          "name": "Andrea Morricone",
-          "url": "https://open.spotify.com/artist/6ClJFNWZvfAc1jD6fB37B3"
-        },
-        {
-          "name": "HAUSER",
-          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+          "name": "Braths",
+          "url": "https://open.spotify.com/artist/1v2CQluRj2ywORRhdk3sQd"
         }
       ],
-      "duration_ms": 203856,
-      "name": "Theme for Ennio",
-      "url": "https://open.spotify.com/track/2vschBeYhU94MX6mV7WKIG"
+      "duration_ms": 186420,
+      "name": "Jour de pluie",
+      "url": "https://open.spotify.com/track/2v0aDkCi99KBt8NACXBv0P"
     },
     {
       "added_at": "2022-11-05 04:33:18",
@@ -1243,6 +1239,26 @@
       "duration_ms": 248434,
       "name": "Music for a While (from Oedipus, Z. 583)",
       "url": "https://open.spotify.com/track/3ExGm8D3DUSezDEvPiRsYG"
+    },
+    {
+      "added_at": "2022-10-15 04:37:05",
+      "album": {
+        "name": "Theme for Ennio",
+        "url": "https://open.spotify.com/album/2L2DtrrCSMD3ww7c55SBJP"
+      },
+      "artists": [
+        {
+          "name": "Andrea Morricone",
+          "url": "https://open.spotify.com/artist/6ClJFNWZvfAc1jD6fB37B3"
+        },
+        {
+          "name": "HAUSER",
+          "url": "https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s"
+        }
+      ],
+      "duration_ms": 203856,
+      "name": "Theme for Ennio",
+      "url": "https://open.spotify.com/track/2vschBeYhU94MX6mV7WKIG"
     },
     {
       "added_at": "2021-11-06 05:54:48",

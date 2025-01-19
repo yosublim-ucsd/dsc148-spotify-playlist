@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbmSEUe2qmDp.md) - [plain]
 
 > Conheça as novas vozes da música sertaneja! Foto: Leo e Matheus
 
-[Spotify](https://open.spotify.com/user/spotify) - 474,581 likes - 86 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 474,596 likes - 86 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

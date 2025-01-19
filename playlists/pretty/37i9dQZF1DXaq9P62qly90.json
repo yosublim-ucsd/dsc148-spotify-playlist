@@ -1,6 +1,6 @@
 {
   "description": "Conscious songs for everyday reflection.",
-  "num_followers": 12970,
+  "num_followers": 12971,
   "original_name": "Peace Of Mind",
   "owner": {
     "name": "Spotify",
@@ -731,22 +731,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Rebel Frequency",
-        "url": "https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR"
-      },
-      "artists": [
-        {
-          "name": "Nattali Rize",
-          "url": "https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv"
-        }
-      ],
-      "duration_ms": 240440,
-      "name": "One People",
-      "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Por Favor",
         "url": "https://open.spotify.com/album/3xh8mYf6G3AaJaJ5AYlrWN"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 169613,
       "name": "What's the Secret?",
       "url": "https://open.spotify.com/track/4mz4vDsoyYLZFvPOtqZQkv"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Rebel Frequency",
+        "url": "https://open.spotify.com/album/0Fy6vW3LC71qxPSw421IMR"
+      },
+      "artists": [
+        {
+          "name": "Nattali Rize",
+          "url": "https://open.spotify.com/artist/0FomusKA1QZNUY5EdQdBbv"
+        }
+      ],
+      "duration_ms": 240440,
+      "name": "One People",
+      "url": "https://open.spotify.com/track/35zXxNUgVHw5qy4N9YdVxv"
     },
     {
       "added_at": "2024-03-25 16:49:10",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-03-25 16:49:10",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
-      },
-      "artists": [
-        {
-          "name": "Will Evans",
-          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
-        }
-      ],
-      "duration_ms": 191562,
-      "name": "Family Tree",
-      "url": "https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC"
-    },
-    {
-      "added_at": "2024-03-25 16:49:10",
-      "album": {
         "name": "Double Vision",
         "url": "https://open.spotify.com/album/2K4mKmxSsxhkkhqESs6Foj"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 280104,
       "name": "Fast And Slow",
       "url": "https://open.spotify.com/track/4OO9SNBNWasLpz5MiwqxEM"
+    },
+    {
+      "added_at": "2024-03-25 16:49:10",
+      "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/4FHRjXbcPSmvMcDo92Typu"
+      },
+      "artists": [
+        {
+          "name": "Will Evans",
+          "url": "https://open.spotify.com/artist/73spEk5voL22ZXjoSXZmh8"
+        }
+      ],
+      "duration_ms": 191562,
+      "name": "Family Tree",
+      "url": "https://open.spotify.com/track/0VAj6ZQR6ASDcojp2zdJvC"
     },
     {
       "added_at": "2024-03-25 16:49:10",

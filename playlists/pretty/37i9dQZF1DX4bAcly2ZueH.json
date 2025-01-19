@@ -1,6 +1,6 @@
 {
   "description": "\u4f8b\u3048\u3070\u3001\u90e8\u5c4b\u3067\u732b\u3068\u663c\u5bdd\u3092\u3059\u308b\u3088\u3046\u306b\u3001\u3086\u3063\u305f\u308a\u3068\u3057\u305f\u30a8\u30ec\u30af\u30c8\u30ed\u30c1\u30eb\u3067\u5c0f\u4f11\u61a9\u3057\u307e\u305b\u3093\u304b\uff1f\uff1f",
-  "num_followers": 52560,
+  "num_followers": 52563,
   "original_name": "\u732b\u3068\u304a\u663c\u5bdd Afternoon Catnap",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,18 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "It Hurts to Love You (it meant a lot)",
-        "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
+        "name": "KUMORI",
+        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
       },
       "artists": [
         {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        },
-        {
-          "name": "Akacia",
-          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
+          "name": "Orihusay",
+          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
         }
       ],
-      "duration_ms": 117600,
-      "name": "It Hurts to Love You (it meant a lot)",
-      "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
+      "duration_ms": 163809,
+      "name": "KUMORI",
+      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -655,18 +651,38 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "KUMORI",
-        "url": "https://open.spotify.com/album/10w0lTzIkTEUyw0wYolUOu"
+        "name": "It Hurts to Love You (it meant a lot)",
+        "url": "https://open.spotify.com/album/5Y4c4Kw0d200NV2xrSRf9T"
       },
       "artists": [
         {
-          "name": "Orihusay",
-          "url": "https://open.spotify.com/artist/20VhCHd7ZmGaO3SlH4ckxm"
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        },
+        {
+          "name": "Akacia",
+          "url": "https://open.spotify.com/artist/4D9a1UPPFCoOm1kBtJfni5"
         }
       ],
-      "duration_ms": 163809,
-      "name": "KUMORI",
-      "url": "https://open.spotify.com/track/6UqDlPe144ugEhzgN15voY"
+      "duration_ms": 117600,
+      "name": "It Hurts to Love You (it meant a lot)",
+      "url": "https://open.spotify.com/track/0ZnhEBFsiW2JuyED8OmV7m"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Night Owl Dream",
+        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
+      },
+      "artists": [
+        {
+          "name": "Wataru Fujiwara",
+          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
+        }
+      ],
+      "duration_ms": 156279,
+      "name": "Night Owl Dream",
+      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -687,22 +703,6 @@
       "duration_ms": 195648,
       "name": "ugotmyheart",
       "url": "https://open.spotify.com/track/3VbVcvK33AjjIC4iTvK0qK"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
-        "name": "Night Owl Dream",
-        "url": "https://open.spotify.com/album/7LrZWyLdaaX8j01qDBehVV"
-      },
-      "artists": [
-        {
-          "name": "Wataru Fujiwara",
-          "url": "https://open.spotify.com/artist/0wOfP27EddIPwwB7X7ZrWP"
-        }
-      ],
-      "duration_ms": 156279,
-      "name": "Night Owl Dream",
-      "url": "https://open.spotify.com/track/4HcXkAhRLyBsWvgvOOgUE3"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -763,26 +763,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Resting Place",
-        "url": "https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka"
-      },
-      "artists": [
-        {
-          "name": "E J R M",
-          "url": "https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ"
-        },
-        {
-          "name": "yutaka hirasaka",
-          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
-        }
-      ],
-      "duration_ms": 189723,
-      "name": "Resting Place",
-      "url": "https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Nightfall",
         "url": "https://open.spotify.com/album/1ITqSRuosyfNyvy4QPVOQP"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 169090,
       "name": "Blue",
       "url": "https://open.spotify.com/track/1A78vsnQhQCGqeaX14LUhB"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Resting Place",
+        "url": "https://open.spotify.com/album/5zqrCPsgymWf2bfYZQ7Rka"
+      },
+      "artists": [
+        {
+          "name": "E J R M",
+          "url": "https://open.spotify.com/artist/3LR4QxuUpK1ZwhWc260xAZ"
+        },
+        {
+          "name": "yutaka hirasaka",
+          "url": "https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ"
+        }
+      ],
+      "duration_ms": 189723,
+      "name": "Resting Place",
+      "url": "https://open.spotify.com/track/0iB8cBNqKUv5CVbRI3cDJO"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Love",
-        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
-      },
-      "artists": [
-        {
-          "name": "Kastorbeats",
-          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
-        }
-      ],
-      "duration_ms": 138352,
-      "name": "Love",
-      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "Dreamwave",
         "url": "https://open.spotify.com/album/1McCmCfd1TPUq5iWBUqZxb"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 222985,
       "name": "Touch the Sky",
       "url": "https://open.spotify.com/track/3O4IXYk2mTnA4pTHjcRtdr"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Love",
+        "url": "https://open.spotify.com/album/4JqlARz1ulnW4QkaMEhuXe"
+      },
+      "artists": [
+        {
+          "name": "Kastorbeats",
+          "url": "https://open.spotify.com/artist/49iPLmqT2MJYoLqR1xzcMC"
+        }
+      ],
+      "duration_ms": 138352,
+      "name": "Love",
+      "url": "https://open.spotify.com/track/3XeT86JyIocazYBBuKAnN5"
     },
     {
       "added_at": "2025-01-08 09:54:54",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2025-01-08 09:54:54",
       "album": {
-        "name": "Just Piano",
-        "url": "https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ"
-      },
-      "artists": [
-        {
-          "name": "FKJ",
-          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
-        }
-      ],
-      "duration_ms": 212158,
-      "name": "Sundays - Just Piano Version",
-      "url": "https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK"
-    },
-    {
-      "added_at": "2025-01-08 09:54:54",
-      "album": {
         "name": "The Sea",
         "url": "https://open.spotify.com/album/1UsGJY24SYBJDXRDJe73VP"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 165449,
       "name": "The Sea",
       "url": "https://open.spotify.com/track/4kPPj8k1gBxVeC5KxzZvta"
+    },
+    {
+      "added_at": "2025-01-08 09:54:54",
+      "album": {
+        "name": "Just Piano",
+        "url": "https://open.spotify.com/album/5SE9QAP8pab2Ke1Tce1EeJ"
+      },
+      "artists": [
+        {
+          "name": "FKJ",
+          "url": "https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z"
+        }
+      ],
+      "duration_ms": 212158,
+      "name": "Sundays - Just Piano Version",
+      "url": "https://open.spotify.com/track/2iNjjoEw6W0Y05ykgQWBCK"
     },
     {
       "added_at": "2025-01-08 09:54:54",

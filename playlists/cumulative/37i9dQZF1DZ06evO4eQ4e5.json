@@ -175,6 +175,24 @@
     },
     {
       "album": {
+        "name": "Cuando Yo Quiera Has De Volver",
+        "url": "https://open.spotify.com/album/3mcq4piDeCm7V7ehaXf5nw"
+      },
+      "artists": [
+        {
+          "name": "Edith M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/7afXSXOa8dE3c2C5XIguAv"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212126,
+      "name": "Cuando Yo Quiera Has De Volver",
+      "url": "https://open.spotify.com/track/5wOLNXLmwy3Ki5mAMXH4hu"
+    },
+    {
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },

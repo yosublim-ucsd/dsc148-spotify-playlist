@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 
 > Sun, sand, salt water and the perfect songs to match.
 
-[Spotify](https://open.spotify.com/user/spotify) - 265 likes - 85 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 274 likes - 85 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,8 +90,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWM3whAjEnqy.md) - [plain]
 | 80 | [Better Days](https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [See The Sun](https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy) | 3:43 |
 | 81 | [You're My Window To The Sky](https://open.spotify.com/track/0DpNBQAHa6S6GDZARSe9TF) | [The Avener](https://open.spotify.com/artist/0e6qzpphJHtObTSwD75mi0), [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [The Wanderings Of The Avener](https://open.spotify.com/album/7DxvbZIXVgixTbo3sZ15Gy) | 3:21 |
 | 82 | [Greed](https://open.spotify.com/track/08ieGNMFXGov5zk7VZ6box) | [Tash Sultana](https://open.spotify.com/artist/6zVFRTB0Y1whWyH7ZNmywf) | [Greed](https://open.spotify.com/album/6Ve1hXgzBAID5x42Ipfhpm) | 3:41 |
-| 83 | [As You Go](https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [As You Go](https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K) | 3:00 |
+| 83 | [Morning Sun](https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Morning Sun](https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX) | 4:55 |
 | 84 | [Tahitian Blue](https://open.spotify.com/track/7a1tbfGu5FEaDDSleUFBn0) | [John Butler Trio](https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt) | [HOME](https://open.spotify.com/album/2O6hJP7lu68hxDvbkXwtOK) | 4:15 |
-| 85 | [Morning Sun](https://open.spotify.com/track/7EbF4gSZiu6G6NDx5pHStP) | [The Beautiful Girls](https://open.spotify.com/artist/0hDJSg859MdK4c9vqu1dS8) | [Morning Sun](https://open.spotify.com/album/4tdsg3GqsZV9aXZpeo0bQX) | 4:55 |
+| 85 | [As You Go](https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu) | [Jordy Maxwell](https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb) | [As You Go](https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K) | 3:00 |
 
 Snapshot ID: `Z2okmwAAAADCysy0EvjaA0eroxD8bbB/`

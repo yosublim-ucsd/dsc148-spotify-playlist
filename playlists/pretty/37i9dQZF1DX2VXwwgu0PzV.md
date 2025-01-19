@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  <a href=https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8?si=nmFmCeXARAOHq9xyk43Dww>Nina Shezz</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,006 likes - 86 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,028 likes - 86 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 31 | [Amazing](https://open.spotify.com/track/4mPdrJA4h0txHWUYQqozw7) | [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ), [Reblah](https://open.spotify.com/artist/7EHtFdWeBK26GJ5lKt02SV) | [Amazing](https://open.spotify.com/album/0aXpeLU03p6F9X1L6k7FVU) | 3:06 |
 | 32 | [Calling My Name \(I'm A Soldier\) \- Live](https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW) | [Ebuka Songs](https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM) | [Calling My Name \(I'm A Soldier\) \[Live\]](https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO) | 10:38 |
 | 33 | [Jireh \(feat\. Chandler Moore & Naomi Raine\)](https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Old Church Basement](https://open.spotify.com/album/1lsf7hKaOd3r214nvwmtwg) | 9:58 |
-| 34 | [P&A](https://open.spotify.com/track/7jptixxxwHCtk1wiZxbw42) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [P&A](https://open.spotify.com/album/5S3nsAPACcO7HW1kIHK5va) | 2:41 |
+| 34 | [P&A](https://open.spotify.com/track/7jptixxxwHCtk1wiZxbw42) | [Anendlessocean](https://open.spotify.com/artist/43bV8yQzojEPet60WrZJau) | [P&A](https://open.spotify.com/album/5S3nsAPACcO7HW1kIHK5va) | 2:40 |
 | 35 | [CORRECT](https://open.spotify.com/track/0akvZghvgczbBpV09jxu08) | [Greatman Takit](https://open.spotify.com/artist/47oK1JYR8A9TABs010suzH) | [CORRECT](https://open.spotify.com/album/4KfMojNZjUJVJnq5eqXvf6) | 2:40 |
 | 36 | [Freedom Song](https://open.spotify.com/track/2esjn7VKNcXXlxTquqVqQr) | [Favrish](https://open.spotify.com/artist/3s1ZKnwkYA76TmSxqHs22E) | [Freedom Song](https://open.spotify.com/album/52iozviApKyfhCNWh0LNSj) | 2:20 |
 | 37 | [Miracle No Dey Tire Jesus](https://open.spotify.com/track/4BdSQteqYNDGU8oD487KEU) | [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM), [Festizie](https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu), [Chizie](https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE) | [Miracle No Dey Tire Jesus](https://open.spotify.com/album/6aA6U5p9m8dREYkv0K8tTT) | 2:46 |

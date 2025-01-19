@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 
 > This is RIOPY\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,525 likes - 51 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,535 likes - 51 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2FusBW.md) - [plain]
 | 50 | [Flow State 22](https://open.spotify.com/track/0E9NGd4NMBF93UBzrEv7u5) | [TUNE YOUR MIND](https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1), [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Meditation 66](https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13) | 22:49 |
 | 51 | [Piano Allegretto](https://open.spotify.com/track/7tDBLBdtP38f4TRZQsmhTL) | [RIOPY](https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA) | [Thrive](https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T) | 3:50 |
 
-Snapshot ID: `Z4hMAAAAAADp50OQur3v/v53vmWe94rG`
+Snapshot ID: `Z4mdgAAAAAAyp2MnHKvkzwNkGcXqZi0B`

@@ -1,6 +1,6 @@
 {
   "description": "Dejate llevar por los mejores lentos del rock. Foto: Las Pelotas",
-  "num_followers": 147631,
+  "num_followers": 147738,
   "original_name": "Baladas Rock",
   "owner": {
     "name": "Spotify",
@@ -439,22 +439,6 @@
     {
       "added_at": "2024-12-17 15:40:09",
       "album": {
-        "name": "Especial",
-        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
-      },
-      "artists": [
-        {
-          "name": "Viejas Locas",
-          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
-        }
-      ],
-      "duration_ms": 263653,
-      "name": "Homero",
-      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
-    },
-    {
-      "added_at": "2024-12-17 15:40:09",
-      "album": {
         "name": "Alta Suciedad",
         "url": "https://open.spotify.com/album/44D07i1Lk0zFtWHRARMih6"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 264840,
       "name": "Cr\u00edmenes perfectos",
       "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2024-12-17 15:40:09",
+      "album": {
+        "name": "Especial",
+        "url": "https://open.spotify.com/album/6jnYqzP7SLpLabodU9Ie0E"
+      },
+      "artists": [
+        {
+          "name": "Viejas Locas",
+          "url": "https://open.spotify.com/artist/7wTu5u7W3kc9Id5JAvSAFV"
+        }
+      ],
+      "duration_ms": 263653,
+      "name": "Homero",
+      "url": "https://open.spotify.com/track/3AjSUbPd7siXGOSlmXm9Nr"
     },
     {
       "added_at": "2024-12-17 15:40:09",

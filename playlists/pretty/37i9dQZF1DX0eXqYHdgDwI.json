@@ -1,6 +1,6 @@
 {
   "description": "canzoni su cui piangere \ud83e\udd40",
-  "num_followers": 113056,
+  "num_followers": 113055,
   "original_name": "Canzoni Tristi",
   "owner": {
     "name": "Spotify",
@@ -883,6 +883,22 @@
     {
       "added_at": "2024-08-07 16:06:41",
       "album": {
+        "name": "Complicated",
+        "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
+      },
+      "artists": [
+        {
+          "name": "Olivia O'Brien",
+          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
+        }
+      ],
+      "duration_ms": 189000,
+      "name": "Complicated",
+      "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
+    },
+    {
+      "added_at": "2024-08-07 16:06:41",
+      "album": {
         "name": "21",
         "url": "https://open.spotify.com/album/7n3QJc7TBOxXtlYh4Ssll8"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 233720,
       "name": "Love Yourself",
       "url": "https://open.spotify.com/track/3hB5DgAiMAQ4DzYbsMq1IT"
-    },
-    {
-      "added_at": "2024-08-07 16:06:41",
-      "album": {
-        "name": "Complicated",
-        "url": "https://open.spotify.com/album/18IaOJpyXfqbOsZIqmnfpZ"
-      },
-      "artists": [
-        {
-          "name": "Olivia O'Brien",
-          "url": "https://open.spotify.com/artist/1QRj3hoop9Mv5VvHQkwPEp"
-        }
-      ],
-      "duration_ms": 189000,
-      "name": "Complicated",
-      "url": "https://open.spotify.com/track/0jllH0usRFD4LJkJnGK9Lf"
     },
     {
       "added_at": "2024-08-07 16:06:41",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 
 > Brand new music from Mumford & Sons \(pictured\), Central Cee ft\. 21 Savage, Rose Gray and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,313 likes - 120 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 872,392 likes - 120 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4W3aJJYCDfV.md) - [plain]
 | 48 | [No Place Like You](https://open.spotify.com/track/5ymenEwTMYQ0Qjj3hu0bWs) | [Plested](https://open.spotify.com/artist/2nJYGgfTf2846LtVB3AES8) | [No Place Like You](https://open.spotify.com/album/6405c6m9bzga6WHRpFRBdz) | 3:36 |
 | 49 | [Run Rabbit](https://open.spotify.com/track/1znGDCclMTeWASFVF8tj2N) | [ALT BLK ERA](https://open.spotify.com/artist/4FNR2qdCVKGAep4alfgt25) | [Run Rabbit](https://open.spotify.com/album/5FUeeX24CzLG40MorWm1zK) | 3:06 |
 | 50 | [Wicked Jazz](https://open.spotify.com/track/5OfBwAgbfsPb6dvPLFvrfH) | [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Wicked Jazz](https://open.spotify.com/album/3rrsLPWZr2ZXXcDmDtbqwQ) | 2:29 |
-| 51 | [Canva \(How?\)](https://open.spotify.com/track/6s1NOGFMIH1GXDczlZmJTM) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Mayday](https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy), [DubzCo](https://open.spotify.com/artist/7eoLO7NzIZsAo7iY5iAokh), [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0) | [Canva \(How?\)](https://open.spotify.com/album/0SC2bq3OFatneMuSVRbm09) | 2:07 |
+| 51 | [Canva \(How?\)](https://open.spotify.com/track/6s1NOGFMIH1GXDczlZmJTM) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0), [Mayday](https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy), [DubzCo](https://open.spotify.com/artist/7eoLO7NzIZsAo7iY5iAokh) | [Canva \(How?\)](https://open.spotify.com/album/0SC2bq3OFatneMuSVRbm09) | 2:07 |
 | 52 | [KNOW ME](https://open.spotify.com/track/374paA6T20EohUYyClwIqN) | [charlieeeee](https://open.spotify.com/artist/06a7x2F8Yi3TARax1iFKIp), [Phoebe Hall](https://open.spotify.com/artist/3WaAMZL6ZWyDkvxYro8kbw) | [KNOW ME](https://open.spotify.com/album/119BZNJBmqZrSHz8sEqFfb) | 2:41 |
 | 53 | [Tap](https://open.spotify.com/track/7zTcDU0SkLDbTTafpMfvKw) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Tap](https://open.spotify.com/album/3dEDoMrCyP0OCTXkT61aY7) | 2:47 |
 | 54 | [More Than Life](https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW) | [The Horrors](https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd) | [More than Life](https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7) | 5:33 |

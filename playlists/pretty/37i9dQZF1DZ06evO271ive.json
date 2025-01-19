@@ -1,12 +1,12 @@
 {
   "description": "This is Sexyy Red. The essential tracks, all in one playlist.",
-  "num_followers": 23591,
+  "num_followers": 23624,
   "original_name": "This Is Sexyy Red",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAAlq6tBBi8/DJYMr0F3+DzA",
+  "snapshot_id": "Z4mdgAAAAADPgB1MS+JiJSqVF1zR9uU3",
   "tracks": [
     {
       "added_at": null,
@@ -807,6 +807,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Sexyy We Trust",
+        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        }
+      ],
+      "duration_ms": 131965,
+      "name": "Ova Bad",
+      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shiesty (feat. Kaliii & Sexyy Red)",
         "url": "https://open.spotify.com/album/5KAMwIkKnQW0GLJK2wm83T"
       },
@@ -827,22 +843,6 @@
       "duration_ms": 216541,
       "name": "Shiesty (feat. Kaliii & Sexyy Red)",
       "url": "https://open.spotify.com/track/3erWnQRZiMmOzRqnVhHaox"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Sexyy We Trust",
-        "url": "https://open.spotify.com/album/5PmtX9B5vNa4uaiXQVn4Gx"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        }
-      ],
-      "duration_ms": 131965,
-      "name": "Ova Bad",
-      "url": "https://open.spotify.com/track/7eP2aGOcagXwchZIIKX0QO"
     },
     {
       "added_at": null,

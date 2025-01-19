@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1960s.",
-  "num_followers": 279272,
+  "num_followers": 279382,
   "original_name": "60s Party",
   "owner": {
     "name": "Spotify",
@@ -409,20 +409,20 @@
       "url": "https://open.spotify.com/track/5uES1C2NgkdrNHiCwf9jRr"
     },
     {
-      "added_at": "2022-06-16 22:02:00",
+      "added_at": "2023-05-30 09:14:29",
       "album": {
-        "name": "Heart & Soul: A Retrospective",
-        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
+        "name": "Are You Experienced",
+        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
       },
       "artists": [
         {
-          "name": "Etta James",
-          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
+          "name": "Jimi Hendrix",
+          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
         }
       ],
-      "duration_ms": 169746,
-      "name": "Something's Got A Hold On Me",
-      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
+      "duration_ms": 170813,
+      "name": "Purple Haze",
+      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -441,20 +441,20 @@
       "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
-      "added_at": "2023-05-30 09:14:29",
+      "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Are You Experienced",
-        "url": "https://open.spotify.com/album/7rSZXXHHvIhF4yUFdaOCy9"
+        "name": "Heart & Soul: A Retrospective",
+        "url": "https://open.spotify.com/album/6s1DWmUCmFjzD09SRdnfVH"
       },
       "artists": [
         {
-          "name": "Jimi Hendrix",
-          "url": "https://open.spotify.com/artist/776Uo845nYHJpNaStv1Ds4"
+          "name": "Etta James",
+          "url": "https://open.spotify.com/artist/0iOVhN3tnSvgDbcg25JoJb"
         }
       ],
-      "duration_ms": 170813,
-      "name": "Purple Haze",
-      "url": "https://open.spotify.com/track/0wJoRiX5K5BxlqZTolB2LD"
+      "duration_ms": 169746,
+      "name": "Something's Got A Hold On Me",
+      "url": "https://open.spotify.com/track/6EAlFsajDK1PVgfhdJbS5Y"
     },
     {
       "added_at": "2023-05-30 09:14:29",
@@ -555,22 +555,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "This Old Heart Of Mine",
-        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 172733,
-      "name": "This Old Heart Of Mine (Is Weak For You)",
-      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Jump Up Calypso",
         "url": "https://open.spotify.com/album/1o6SO1ywnIQgb3MFMF1siI"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 221704,
       "name": "Jump in the Line",
       "url": "https://open.spotify.com/track/1zW2csx1vVJrKfvDrFQNVt"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "This Old Heart Of Mine",
+        "url": "https://open.spotify.com/album/6iIk47TPgtfIxzL2ALdBSN"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 172733,
+      "name": "This Old Heart Of Mine (Is Weak For You)",
+      "url": "https://open.spotify.com/track/5c33j1xFVOL4G24zxYhssB"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -699,22 +699,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Knock On Wood",
-        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
-      },
-      "artists": [
-        {
-          "name": "Eddie Floyd",
-          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
-        }
-      ],
-      "duration_ms": 189840,
-      "name": "Knock on Wood",
-      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The Best of The Kingsmen",
         "url": "https://open.spotify.com/album/2SMBIc9VqCmLvWAd9srlSx"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 165381,
       "name": "Louie Louie",
       "url": "https://open.spotify.com/track/0iA3xXSkSCiJywKyo1UKjQ"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Knock On Wood",
+        "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
+      },
+      "artists": [
+        {
+          "name": "Eddie Floyd",
+          "url": "https://open.spotify.com/artist/6Bfy6QzadCXS92y0T8dDZF"
+        }
+      ],
+      "duration_ms": 189840,
+      "name": "Knock on Wood",
+      "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -827,22 +827,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Take Good Care Of My Baby",
-        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
-      },
-      "artists": [
-        {
-          "name": "Bobby Vee",
-          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
-        }
-      ],
-      "duration_ms": 149800,
-      "name": "Take Good Care Of My Baby",
-      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Lesley Gore Sings Of Mixed-Up Hearts",
         "url": "https://open.spotify.com/album/5eluBwSJ7uwDBizWCiazSJ"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 96000,
       "name": "Sunshine, Lollipops And Rainbows",
       "url": "https://open.spotify.com/track/0AZb6ryK8LsFcvY1jWHO61"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Take Good Care Of My Baby",
+        "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
+      },
+      "artists": [
+        {
+          "name": "Bobby Vee",
+          "url": "https://open.spotify.com/artist/5MX2l6ewjOaeWn1lYNhzlO"
+        }
+      ],
+      "duration_ms": 149800,
+      "name": "Take Good Care Of My Baby",
+      "url": "https://open.spotify.com/track/06JokgprGDKrtZ1eP6z2CQ"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Rick Is 21",
-        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
-      },
-      "artists": [
-        {
-          "name": "Ricky Nelson",
-          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
-        }
-      ],
-      "duration_ms": 138546,
-      "name": "Hello Mary Lou, Goodbye Heart - Remastered",
-      "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Make It Happen",
         "url": "https://open.spotify.com/album/6vbD4D3SpN2JBjCoXdGE3i"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 181800,
       "name": "The Tears Of A Clown",
       "url": "https://open.spotify.com/track/4Dq749x2QP6OXTURJ9GGY8"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Rick Is 21",
+        "url": "https://open.spotify.com/album/0eWkaY2z2iBw1t7M8eHKQe"
+      },
+      "artists": [
+        {
+          "name": "Ricky Nelson",
+          "url": "https://open.spotify.com/artist/73sSFVlM6pkweLXE8qw1OS"
+        }
+      ],
+      "duration_ms": 138546,
+      "name": "Hello Mary Lou, Goodbye Heart - Remastered",
+      "url": "https://open.spotify.com/track/6ImmlZj8ysK2jDnqqbKp60"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Summer Days (And Summer Nights) [Remastered]",
-        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 168240,
-      "name": "Help Me, Rhonda - Single Version/Remastered 2001",
-      "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "Tell Him",
         "url": "https://open.spotify.com/album/1i2c4K7HnASzLOo6cagJVg"
       },
@@ -1311,6 +1295,22 @@
       "duration_ms": 156160,
       "name": "Tell Him - Single Version",
       "url": "https://open.spotify.com/track/7rGOWzo4evAQQ2FzrSKp0B"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Summer Days (And Summer Nights) [Remastered]",
+        "url": "https://open.spotify.com/album/13f845bYjx8MUVF2bl1uJ0"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 168240,
+      "name": "Help Me, Rhonda - Single Version/Remastered 2001",
+      "url": "https://open.spotify.com/track/3haZcHm3HydDVxm3je3Zmg"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "At Abbey Road",
-        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
-      },
-      "artists": [
-        {
-          "name": "Gerry & The Pacemakers",
-          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
-        }
-      ],
-      "duration_ms": 114986,
-      "name": "How Do You Do It? - Mono",
-      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "The EP Collection",
         "url": "https://open.spotify.com/album/1bCXn9wG3R40gzR5hwRWmP"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 172133,
       "name": "Shout",
       "url": "https://open.spotify.com/track/317IZhdCGvInrl3vcmxOlq"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "At Abbey Road",
+        "url": "https://open.spotify.com/album/00tUXbwwa6LigkT63sGXSR"
+      },
+      "artists": [
+        {
+          "name": "Gerry & The Pacemakers",
+          "url": "https://open.spotify.com/artist/3UmBeGyNwr4iDWi1vTxWi8"
+        }
+      ],
+      "duration_ms": 114986,
+      "name": "How Do You Do It? - Mono",
+      "url": "https://open.spotify.com/track/601a0vnyLYe7pzLKVjKSha"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1539,18 +1539,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Things & Other Things",
-        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
+        "name": "The Dimension Dolls",
+        "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
       },
       "artists": [
         {
-          "name": "Bobby Darin",
-          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
+          "name": "Little Eva",
+          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
         }
       ],
-      "duration_ms": 151413,
-      "name": "Things",
-      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
+      "duration_ms": 148626,
+      "name": "The Loco-Motion - Single Version",
+      "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1571,18 +1571,18 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "The Dimension Dolls",
-        "url": "https://open.spotify.com/album/6zur7suYuG3M6dFXxUbGE9"
+        "name": "Things & Other Things",
+        "url": "https://open.spotify.com/album/7wyMqH6vUeHYT09iaWhtx3"
       },
       "artists": [
         {
-          "name": "Little Eva",
-          "url": "https://open.spotify.com/artist/4S76LQXJD6N2uPcLhKejG8"
+          "name": "Bobby Darin",
+          "url": "https://open.spotify.com/artist/0EodhzA6yW1bIdD5B4tcmJ"
         }
       ],
-      "duration_ms": 148626,
-      "name": "The Loco-Motion - Single Version",
-      "url": "https://open.spotify.com/track/1hClDWPgajpLIFjLOkFuau"
+      "duration_ms": 151413,
+      "name": "Things",
+      "url": "https://open.spotify.com/track/5hgei65n0pGJ9uUHo8v2en"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1803,22 +1803,6 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
-        "name": "Up-Tight Everything's Alright",
-        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 175066,
-      "name": "Uptight (Everything's Alright)",
-      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
         "name": "20 Golden Greats",
         "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
       },
@@ -1831,6 +1815,22 @@
       "duration_ms": 174640,
       "name": "Bus Stop",
       "url": "https://open.spotify.com/track/5rVj0WJEGMO0WQeX9GG4kh"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Up-Tight Everything's Alright",
+        "url": "https://open.spotify.com/album/79jRgkYwwfQjxkB1qd5mAP"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 175066,
+      "name": "Uptight (Everything's Alright)",
+      "url": "https://open.spotify.com/track/5q5q7yDHiVkBnaivsda4TN"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1863,6 +1863,22 @@
       "duration_ms": 163293,
       "name": "Friday on My Mind",
       "url": "https://open.spotify.com/track/2CT08rpgdut8qQs7IAzMGi"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
+        "name": "Groovin' with Manfred Mann",
+        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
+      },
+      "artists": [
+        {
+          "name": "Manfred Mann",
+          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
+        }
+      ],
+      "duration_ms": 143400,
+      "name": "Do Wah Diddy Diddy",
+      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1903,6 +1919,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "20 Golden Greats",
+        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
+      },
+      "artists": [
+        {
+          "name": "The Hollies",
+          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
+        }
+      ],
+      "duration_ms": 175893,
+      "name": "Carrie Anne",
+      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Needles & Pins",
         "url": "https://open.spotify.com/album/0i2VaiznHnihFRJq7iHRG0"
       },
@@ -1915,22 +1947,6 @@
       "duration_ms": 131360,
       "name": "Needles and Pins - Mono",
       "url": "https://open.spotify.com/track/0zABw1PtGYHsU4VDpDZsra"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "Groovin' with Manfred Mann",
-        "url": "https://open.spotify.com/album/24uIWywoZqArplgomqtvfW"
-      },
-      "artists": [
-        {
-          "name": "Manfred Mann",
-          "url": "https://open.spotify.com/artist/5670CyWrIOA7702gNjsGMZ"
-        }
-      ],
-      "duration_ms": 143400,
-      "name": "Do Wah Diddy Diddy",
-      "url": "https://open.spotify.com/track/7gEpTMp9MQc1uJwivtL37R"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -1963,22 +1979,6 @@
       "duration_ms": 125706,
       "name": "Papa's Got A Brand New Bag",
       "url": "https://open.spotify.com/track/6v4gV9s0pnwKbmF1yk5knO"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "20 Golden Greats",
-        "url": "https://open.spotify.com/album/5ourevL93kFzjWH6lIyT42"
-      },
-      "artists": [
-        {
-          "name": "The Hollies",
-          "url": "https://open.spotify.com/artist/6waa8mKu91GjzD4NlONlNJ"
-        }
-      ],
-      "duration_ms": 175893,
-      "name": "Carrie Anne",
-      "url": "https://open.spotify.com/track/7hbS99uuSAjqwFwcYgUdEV"
     },
     {
       "added_at": "2022-06-16 22:02:00",
@@ -2047,6 +2047,22 @@
     {
       "added_at": "2022-06-16 22:02:00",
       "album": {
+        "name": "The 50th Anniversary Collection",
+        "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
+      },
+      "artists": [
+        {
+          "name": "James Brown",
+          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
+        }
+      ],
+      "duration_ms": 166053,
+      "name": "I Got You (I Feel Good)",
+      "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
+    },
+    {
+      "added_at": "2022-06-16 22:02:00",
+      "album": {
         "name": "Twist & Shout",
         "url": "https://open.spotify.com/album/7tUyCuhlC8ag79kPg6rO6J"
       },
@@ -2075,22 +2091,6 @@
       "duration_ms": 176160,
       "name": "I'm A Man",
       "url": "https://open.spotify.com/track/5zWehIgPMCGysidrvbltlU"
-    },
-    {
-      "added_at": "2022-06-16 22:02:00",
-      "album": {
-        "name": "The 50th Anniversary Collection",
-        "url": "https://open.spotify.com/album/6qjdgmUrq3X20R9mB5goM8"
-      },
-      "artists": [
-        {
-          "name": "James Brown",
-          "url": "https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW"
-        }
-      ],
-      "duration_ms": 166053,
-      "name": "I Got You (I Feel Good)",
-      "url": "https://open.spotify.com/track/7E8VSUdBkRURoqzEQ7jQgb"
     },
     {
       "added_at": "2022-06-16 22:02:00",

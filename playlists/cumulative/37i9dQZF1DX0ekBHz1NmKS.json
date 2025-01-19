@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "02:30",
+        "url": "https://open.spotify.com/album/4a1vLUmOFdCWKRveif26Ja"
+      },
+      "artists": [
+        {
+          "name": "Rymdpojken",
+          "url": "https://open.spotify.com/artist/6EgpIGGBsDihJL6JucBT17"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "02:30",
+      "url": "https://open.spotify.com/track/1jpxVXKhTwvnBoAoEVOdE7"
+    },
+    {
+      "album": {
         "name": "H\u00f6ghusdr\u00f6mmar/070-xxxx xxx",
         "url": "https://open.spotify.com/album/6LH0TF7elitnmWQ5n0znPb"
       },
@@ -262,7 +280,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 183718,
       "name": "30 grader",
       "url": "https://open.spotify.com/track/5vgXUNzWWxOFSWM93PapZ3"
@@ -732,7 +750,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 140571,
       "name": "Akta dig",
       "url": "https://open.spotify.com/track/1rCTBsaXSDnVx66pP7yg8o"
@@ -1148,6 +1166,24 @@
       "duration_ms": 164017,
       "name": "Alla m\u00e5ste \u00e4lska mig",
       "url": "https://open.spotify.com/track/3xahTikNV7Arb70nJcavwM"
+    },
+    {
+      "album": {
+        "name": "Alla Tittar P\u00e5 Mig",
+        "url": "https://open.spotify.com/album/5S1ATUDgqCdYRei7UEIxkr"
+      },
+      "artists": [
+        {
+          "name": "Laleh",
+          "url": "https://open.spotify.com/artist/62QZPjYQMoo5g56FP9Webq"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144586,
+      "name": "Alla Tittar P\u00e5 Mig",
+      "url": "https://open.spotify.com/track/1NTRILHCdM1JLeLJZ6lAYG"
     },
     {
       "album": {
@@ -6054,7 +6090,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 195954,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/3StgrlhRpFhZjS6gJOgIeX"
@@ -10655,6 +10691,24 @@
     },
     {
       "album": {
+        "name": "Growing Pains",
+        "url": "https://open.spotify.com/album/3EkMaLkTVimNeSiA98E1zk"
+      },
+      "artists": [
+        {
+          "name": "Clara Mae",
+          "url": "https://open.spotify.com/artist/6RHKEd9dpzQ4c09x8Zdaxu"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188601,
+      "name": "Growing Pains",
+      "url": "https://open.spotify.com/track/7B2MTQj1JrSNRi6oQoAF4O"
+    },
+    {
+      "album": {
         "name": "Gr\u00e4t",
         "url": "https://open.spotify.com/album/2QpFnswrI1v7H8u3Eup2Fu"
       },
@@ -10844,6 +10898,24 @@
       "duration_ms": 193268,
       "name": "Hail Mary",
       "url": "https://open.spotify.com/track/15pyj3akaHTgy2qBkPGmRj"
+    },
+    {
+      "album": {
+        "name": "Halleluja",
+        "url": "https://open.spotify.com/album/6oG0r4B68LY1oQIe8rQJuv"
+      },
+      "artists": [
+        {
+          "name": "Miriam Bryant",
+          "url": "https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157386,
+      "name": "Halleluja",
+      "url": "https://open.spotify.com/track/0Oz87iCfzi4JXmEV3YdjZf"
     },
     {
       "album": {
@@ -15582,7 +15654,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 160000,
       "name": "Kudde",
       "url": "https://open.spotify.com/track/6MW0vqvHbvcRMOWZuU4LjR"
@@ -18128,7 +18200,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 212105,
       "name": "Midnight Shining",
       "url": "https://open.spotify.com/track/3mYsAOZUuqeqVwQw0BAdgv"
@@ -24051,6 +24123,24 @@
     },
     {
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/7fQj6lwy2kSaqJv5xvH110"
+      },
+      "artists": [
+        {
+          "name": "Dotter",
+          "url": "https://open.spotify.com/artist/5CPsScBTPYY11Lv4Eb7k4t"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172838,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/4onivzHQlMuwfCdXZ7zysn"
+    },
+    {
+      "album": {
         "name": "Siri",
         "url": "https://open.spotify.com/album/7mUoHkdkOSw6SRU6Zms8P8"
       },
@@ -26742,6 +26832,24 @@
       "duration_ms": 242074,
       "name": "S\u00e4g f\u00f6rl\u00e5t",
       "url": "https://open.spotify.com/track/5foAcyMDMeFa4mMDwJUmqh"
+    },
+    {
+      "album": {
+        "name": "S\u00e4g n\u00e5t",
+        "url": "https://open.spotify.com/album/7LgWrBIe8VFX0yRdpRxG09"
+      },
+      "artists": [
+        {
+          "name": "Daniela Rathana",
+          "url": "https://open.spotify.com/artist/5U2TzkbKD84n8gHhZtL3Ui"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186819,
+      "name": "S\u00e4g n\u00e5t",
+      "url": "https://open.spotify.com/track/2OoTbhFGNQ8iYfrQa5CuIw"
     },
     {
       "album": {
@@ -30022,7 +30130,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 184945,
       "name": "Vill va honom",
       "url": "https://open.spotify.com/track/6Wy5YhGJfn18p8SFLZqrXb"

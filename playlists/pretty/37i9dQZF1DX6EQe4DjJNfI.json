@@ -1,6 +1,6 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: Luccas Carlos",
-  "num_followers": 176618,
+  "num_followers": 176632,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
@@ -423,6 +423,22 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
+        "name": "Selene",
+        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
+      },
+      "artists": [
+        {
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+        }
+      ],
+      "duration_ms": 150031,
+      "name": "Preta",
+      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
+    },
+    {
+      "added_at": "2024-12-20 03:01:12",
+      "album": {
         "name": "Topo da Minha Cabe\u00e7a",
         "url": "https://open.spotify.com/album/0kUnqER78fdTcAEPDCpwo0"
       },
@@ -439,22 +455,6 @@
       "duration_ms": 249728,
       "name": "T\u00e3o Crazy",
       "url": "https://open.spotify.com/track/0Bl9rTGsGKSQq1L601N9MX"
-    },
-    {
-      "added_at": "2024-12-20 03:01:12",
-      "album": {
-        "name": "Selene",
-        "url": "https://open.spotify.com/album/71izF9Onm4qAlIhoekpKTX"
-      },
-      "artists": [
-        {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
-        }
-      ],
-      "duration_ms": 150031,
-      "name": "Preta",
-      "url": "https://open.spotify.com/track/4da13NOAbtTcFCWTEy5sRc"
     },
     {
       "added_at": "2024-12-20 03:01:12",
@@ -775,26 +775,6 @@
     {
       "added_at": "2024-12-20 03:01:12",
       "album": {
-        "name": "1001 Roteiros",
-        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
-      },
-      "artists": [
-        {
-          "name": "IZRRA",
-          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        }
-      ],
-      "duration_ms": 161024,
-      "name": "1001 Roteiros",
-      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
-    },
-    {
-      "added_at": "2024-12-20 03:01:12",
-      "album": {
         "name": "Liga\u00e7\u00e3o",
         "url": "https://open.spotify.com/album/4voB6EnfiNGT4BKJ2Hg1IG"
       },
@@ -815,6 +795,26 @@
       "duration_ms": 209389,
       "name": "Liga\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/0EsziAlF3lAdqTxzwxP2kA"
+    },
+    {
+      "added_at": "2024-12-20 03:01:12",
+      "album": {
+        "name": "1001 Roteiros",
+        "url": "https://open.spotify.com/album/7BML7mAZR24Tle4tpZtCvm"
+      },
+      "artists": [
+        {
+          "name": "IZRRA",
+          "url": "https://open.spotify.com/artist/38m0QxjrBKOOEymSd33GzV"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        }
+      ],
+      "duration_ms": 161024,
+      "name": "1001 Roteiros",
+      "url": "https://open.spotify.com/track/6yMVMThd3yOGcJMEc0vGgZ"
     },
     {
       "added_at": "2024-12-20 03:01:12",

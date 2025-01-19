@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0q3zClOVaZA.md) - [plain]
 
 > \(\-\) "Connection, Discovery, & Growth"
 
-[Spotify](https://open.spotify.com/user/spotify) - 563,870 likes - 111 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 564,085 likes - 111 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

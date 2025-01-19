@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,706 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,720 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 32 | [Monster](https://open.spotify.com/track/4UVQWsOTjFJYk4p9FkrTGH) | [vinni](https://open.spotify.com/artist/2rvUlmaAfN7eKSVAcaRj9t) | [Monster](https://open.spotify.com/album/2SzJgg9VzeDU4dVLjYXSew) | 2:18 |
 | 33 | [Blue Symphony](https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5) | [KREAM](https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5), [Jem Cooke](https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH) | [Blue Symphony](https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv) | 3:23 |
 | 34 | [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 |
-| 35 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw), [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 |
+| 35 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 |
 | 36 | [Compromise](https://open.spotify.com/track/2uDk6I7t68BZQwMG9PQoMI) | [Nico de Andrea](https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD), [hazel](https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J) | [Compromise](https://open.spotify.com/album/6tV5ImdhGjwuNnj4GhHrSd) | 3:31 |
 | 37 | [All I Need](https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ) | [Maribou State](https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg), [Andreya Triana](https://open.spotify.com/artist/6SKEuFZYhaTytrhtJjgnO2) | [All I Need](https://open.spotify.com/album/7cynQpUNbqg7ZqYQu11Yng) | 3:47 |
 | 38 | [Mu Váibmu](https://open.spotify.com/track/6tPYlbyulv881gMjkPDO5s) | [Ella Marie](https://open.spotify.com/artist/6rYrNxnxJEZlhVnxR1c6C7) | [Mu Váibmu](https://open.spotify.com/album/70EjwBg5QocwnyWeSwtnog) | 3:37 |

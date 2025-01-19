@@ -1,6 +1,6 @@
 {
   "description": "A hand-picked selection for an extraordinary palette. Cover: Perfume Genius ",
-  "num_followers": 91790,
+  "num_followers": 91794,
   "original_name": "The Listening Post",
   "owner": {
     "name": "Spotify",
@@ -263,6 +263,22 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
+        "name": "Ankles",
+        "url": "https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP"
+      },
+      "artists": [
+        {
+          "name": "Lucy Dacus",
+          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
+        }
+      ],
+      "duration_ms": 191476,
+      "name": "Ankles",
+      "url": "https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
         "name": "Bright Lights",
         "url": "https://open.spotify.com/album/5tXjEtdOSXA0DHyt6doeJ4"
       },
@@ -391,22 +407,6 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
-        "name": "Ankles",
-        "url": "https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "Ankles",
-      "url": "https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
         "name": "Insecure",
         "url": "https://open.spotify.com/album/4Dj67Y8bsAfGzUYYCOPrbw"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 279429,
       "name": "Hope",
       "url": "https://open.spotify.com/track/2hPZRSLyKFyJCYTotrmM1q"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
+        "name": "Greyhound",
+        "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
+      },
+      "artists": [
+        {
+          "name": "Palace",
+          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
+        }
+      ],
+      "duration_ms": 226235,
+      "name": "Greyhound",
+      "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -475,22 +491,6 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
-        "name": "Floating Parade",
-        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
-      },
-      "artists": [
-        {
-          "name": "Michael Kiwanuka",
-          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
-        }
-      ],
-      "duration_ms": 229619,
-      "name": "Floating Parade",
-      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
         "name": "Just Like North",
         "url": "https://open.spotify.com/album/7dy3rpDg0KQRR9Eee7Zgld"
       },
@@ -503,6 +503,22 @@
       "duration_ms": 184334,
       "name": "Just Like North",
       "url": "https://open.spotify.com/track/1AWsIwO7b5LqJ9vyVfIX2X"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
+        "name": "Floating Parade",
+        "url": "https://open.spotify.com/album/7BWSIBTLybNPD7RbxMVAED"
+      },
+      "artists": [
+        {
+          "name": "Michael Kiwanuka",
+          "url": "https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj"
+        }
+      ],
+      "duration_ms": 229619,
+      "name": "Floating Parade",
+      "url": "https://open.spotify.com/track/4mv58j67K96UMIeYvpffHB"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -559,22 +575,6 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
-        "name": "Greyhound",
-        "url": "https://open.spotify.com/album/4SVuAXDREVQ4JTAAAW9tCx"
-      },
-      "artists": [
-        {
-          "name": "Palace",
-          "url": "https://open.spotify.com/artist/48vDIufGC8ujPuBiTxY8dm"
-        }
-      ],
-      "duration_ms": 226235,
-      "name": "Greyhound",
-      "url": "https://open.spotify.com/track/60DSysH1dDIThBHXpNxSNv"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
         "name": "MADRA",
         "url": "https://open.spotify.com/album/1Z04cqirpWoJhEi9iovmqw"
       },
@@ -587,6 +587,22 @@
       "duration_ms": 203037,
       "name": "Sickly Sweet",
       "url": "https://open.spotify.com/track/2mUl2MNzIO6BHCrI1QdEcj"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
+        "name": "LIE DOWN..",
+        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "duration_ms": 309381,
+      "name": "LIE DOWN..",
+      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -607,22 +623,6 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
-        "name": "Wall Of Eyes",
-        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 314440,
-      "name": "Read The Room",
-      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
         "name": "Cold Dreaming",
         "url": "https://open.spotify.com/album/5D22FZEUtC73xui9g1iQqz"
       },
@@ -635,6 +635,22 @@
       "duration_ms": 302233,
       "name": "Cold Dreaming",
       "url": "https://open.spotify.com/track/32gOXeiuZo01yiLeY8tHON"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
+        "name": "Wall Of Eyes",
+        "url": "https://open.spotify.com/album/6PdPOv5ybKZ9ZuGMk5iGZd"
+      },
+      "artists": [
+        {
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
+        }
+      ],
+      "duration_ms": 314440,
+      "name": "Read The Room",
+      "url": "https://open.spotify.com/track/4WlKWgWG030Cpatn5P6uGE"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -935,34 +951,18 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
-        "name": "SHHHHHHH!",
-        "url": "https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf"
+        "name": "You Are The Morning",
+        "url": "https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq"
       },
       "artists": [
         {
-          "name": "King Krule",
-          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+          "name": "jasmine.4.t",
+          "url": "https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm"
         }
       ],
-      "duration_ms": 117876,
-      "name": "Time For Slurp",
-      "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
-        "name": "Le Risque",
-        "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
-      },
-      "artists": [
-        {
-          "name": "King Gizzard & The Lizard Wizard",
-          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
-        }
-      ],
-      "duration_ms": 214125,
-      "name": "Le Risque",
-      "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
+      "duration_ms": 276437,
+      "name": "Guy Fawkes Tesco Dissociation",
+      "url": "https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -983,6 +983,22 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
+        "name": "SHHHHHHH!",
+        "url": "https://open.spotify.com/album/1zvvdEwZHfPQvLsADalPmf"
+      },
+      "artists": [
+        {
+          "name": "King Krule",
+          "url": "https://open.spotify.com/artist/4wyNyxs74Ux8UIDopNjIai"
+        }
+      ],
+      "duration_ms": 117876,
+      "name": "Time For Slurp",
+      "url": "https://open.spotify.com/track/6wZDkz0R5igIna0rHlR1EY"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/78idguEf1xfzmWnsL6akZn"
       },
@@ -995,6 +1011,22 @@
       "duration_ms": 153266,
       "name": "Mood Swings - Spotify Singles",
       "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
+        "name": "Le Risque",
+        "url": "https://open.spotify.com/album/6TKzuIScjBAZ0BR6ogubol"
+      },
+      "artists": [
+        {
+          "name": "King Gizzard & The Lizard Wizard",
+          "url": "https://open.spotify.com/artist/6XYvaoDGE0VmRt83Jss9Sn"
+        }
+      ],
+      "duration_ms": 214125,
+      "name": "Le Risque",
+      "url": "https://open.spotify.com/track/4UHdakkfNO99jT2GnaCZUQ"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -1079,6 +1111,22 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
+        "name": "Don't Want To Dance",
+        "url": "https://open.spotify.com/album/4m480I6O0EuUWLuFJf7Yuf"
+      },
+      "artists": [
+        {
+          "name": "Porridge Radio",
+          "url": "https://open.spotify.com/artist/4vAQ4M7vgItwBtmBTgRu48"
+        }
+      ],
+      "duration_ms": 182128,
+      "name": "Don\u2019t Want To Dance",
+      "url": "https://open.spotify.com/track/0gDuGkVaGDZJ6DvYYIZNLI"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
         "name": "L.A. Times",
         "url": "https://open.spotify.com/album/7wYyR1xrLO0uWxBlanysNT"
       },
@@ -1111,22 +1159,6 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
-        "name": "Tigers Blood",
-        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
-      },
-      "artists": [
-        {
-          "name": "Waxahatchee",
-          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
-        }
-      ],
-      "duration_ms": 210693,
-      "name": "Ice Cold",
-      "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
         "name": "Elephant",
         "url": "https://open.spotify.com/album/0PGtSQPXJc2iZtDcOgiied"
       },
@@ -1139,6 +1171,22 @@
       "duration_ms": 245120,
       "name": "Elephant",
       "url": "https://open.spotify.com/track/6eIoIF1c8zjyKg7Yk5n8pA"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
+        "name": "Tigers Blood",
+        "url": "https://open.spotify.com/album/2n3HUMLmNl0Cm2atVwWSK6"
+      },
+      "artists": [
+        {
+          "name": "Waxahatchee",
+          "url": "https://open.spotify.com/artist/5IWCU0V9evBlW4gIeGY4zF"
+        }
+      ],
+      "duration_ms": 210693,
+      "name": "Ice Cold",
+      "url": "https://open.spotify.com/track/1w9rm8gK8BbvTSVOo34DET"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -1207,6 +1255,22 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
+        "name": "Switch Over",
+        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
+      },
+      "artists": [
+        {
+          "name": "Horsegirl",
+          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
+        }
+      ],
+      "duration_ms": 185915,
+      "name": "Switch Over",
+      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
         "name": "Grace",
         "url": "https://open.spotify.com/album/46x33FiHk7u4QRrf2H6pfY"
       },
@@ -1235,6 +1299,22 @@
       "duration_ms": 241503,
       "name": "I'm In Love (Subaru)",
       "url": "https://open.spotify.com/track/0GZLo69mxt7lUlZP8b5VIO"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
+        "name": "More than Life",
+        "url": "https://open.spotify.com/album/0LSpjM0q2oTaH0pnaQSsO7"
+      },
+      "artists": [
+        {
+          "name": "The Horrors",
+          "url": "https://open.spotify.com/artist/7EFB09NxZrMi9pGlOnuBpd"
+        }
+      ],
+      "duration_ms": 333665,
+      "name": "More Than Life",
+      "url": "https://open.spotify.com/track/4MDDmR04IUFyHS1VEVhvQW"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -1383,6 +1463,22 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
+        "name": "Just Be Friends",
+        "url": "https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG"
+      },
+      "artists": [
+        {
+          "name": "SASAMI",
+          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
+        }
+      ],
+      "duration_ms": 217392,
+      "name": "Just Be Friends",
+      "url": "https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp"
+    },
+    {
+      "added_at": "2025-01-17 00:00:22",
+      "album": {
         "name": "The Last Year",
         "url": "https://open.spotify.com/album/0c576Mju3GRgkxR4YcUmtT"
       },
@@ -1415,22 +1511,6 @@
       "duration_ms": 160882,
       "name": "Death Valley High",
       "url": "https://open.spotify.com/track/5TbPDrMOmLlmWtdXLvhLFG"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
-        "name": "Just Be Friends",
-        "url": "https://open.spotify.com/album/3HJmmpkG2ZlgJwGS4zYJFG"
-      },
-      "artists": [
-        {
-          "name": "SASAMI",
-          "url": "https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz"
-        }
-      ],
-      "duration_ms": 217392,
-      "name": "Just Be Friends",
-      "url": "https://open.spotify.com/track/6dVY2aszSEmDNRuopAZLJp"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -1515,34 +1595,18 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
-        "name": "Mountain out of a Molehill",
-        "url": "https://open.spotify.com/album/5dEd9QjQeedQGdwmZcjQ0j"
+        "name": "QWERTY II",
+        "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
       },
       "artists": [
         {
-          "name": "Villagers",
-          "url": "https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ"
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
         }
       ],
-      "duration_ms": 205330,
-      "name": "Mountain out of a Molehill",
-      "url": "https://open.spotify.com/track/6XiREk9KhKOGI2iRS6ltAb"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
-        "name": "Bodies Laughing",
-        "url": "https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH"
-      },
-      "artists": [
-        {
-          "name": "The Smile",
-          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
-        }
-      ],
-      "duration_ms": 297866,
-      "name": "Bodies Laughing",
-      "url": "https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf"
+      "duration_ms": 289760,
+      "name": "2 2 BOOTLEG",
+      "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
     },
     {
       "added_at": "2025-01-17 00:00:22",
@@ -1563,82 +1627,18 @@
     {
       "added_at": "2025-01-17 00:00:22",
       "album": {
-        "name": "QWERTY II",
-        "url": "https://open.spotify.com/album/0uPxqFTWGfboMKWBpLo9lO"
+        "name": "Bodies Laughing",
+        "url": "https://open.spotify.com/album/57MazNcT8V1wYpLB7lkMwH"
       },
       "artists": [
         {
-          "name": "Saya Gray",
-          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+          "name": "The Smile",
+          "url": "https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM"
         }
       ],
-      "duration_ms": 289760,
-      "name": "2 2 BOOTLEG",
-      "url": "https://open.spotify.com/track/3qMTOPe1wpVVHkVuVL8SzB"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
-        "name": "Chicken",
-        "url": "https://open.spotify.com/album/2MKGBJYKuJFWgEg3IWGYqD"
-      },
-      "artists": [
-        {
-          "name": "Pixies",
-          "url": "https://open.spotify.com/artist/6zvul52xwTWzilBZl6BUbT"
-        }
-      ],
-      "duration_ms": 262653,
-      "name": "Chicken",
-      "url": "https://open.spotify.com/track/0nEVjbu58y0cghChyOoxW8"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
-        "name": "How We See The Light",
-        "url": "https://open.spotify.com/album/6xrZ6CmKzXvEpxqad5yR0f"
-      },
-      "artists": [
-        {
-          "name": "John Cale",
-          "url": "https://open.spotify.com/artist/5MWBg16f5UYiaSlyVhzlIW"
-        }
-      ],
-      "duration_ms": 285375,
-      "name": "How We See The Light",
-      "url": "https://open.spotify.com/track/4i2lt1nfGMH13ZB7sZylwu"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
-        "name": "The Tw*ts",
-        "url": "https://open.spotify.com/album/5N3ROnE45uWHTrgf2XiiQy"
-      },
-      "artists": [
-        {
-          "name": "bar italia",
-          "url": "https://open.spotify.com/artist/6tYmTHApvspl6KAgTfHjAY"
-        }
-      ],
-      "duration_ms": 198417,
-      "name": "The only conscious being in the universe",
-      "url": "https://open.spotify.com/track/7iEwvFYCKssQmV1Zz6WPam"
-    },
-    {
-      "added_at": "2025-01-17 00:00:22",
-      "album": {
-        "name": "Big Sigh",
-        "url": "https://open.spotify.com/album/5eoEqqiZy86YGeZvI2f1ST"
-      },
-      "artists": [
-        {
-          "name": "Marika Hackman",
-          "url": "https://open.spotify.com/artist/5DGJC3n9DS0Y9eY5ul9y0O"
-        }
-      ],
-      "duration_ms": 183706,
-      "name": "The Yellow Mile",
-      "url": "https://open.spotify.com/track/3d6CZ2dTOoSLqvfQG0rqjJ"
+      "duration_ms": 297866,
+      "name": "Bodies Laughing",
+      "url": "https://open.spotify.com/track/3yEDXBjgKahj3mKHmyNHcf"
     }
   ],
   "unique_name": "The Listening Post",

@@ -267,6 +267,32 @@
     },
     {
       "album": {
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
+      },
+      "artists": [
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+        },
+        {
+          "name": "AJULIACOSTA",
+          "url": "https://open.spotify.com/artist/0eHkGhhUyp3LZdtZjaA8gd"
+        },
+        {
+          "name": "Pior Vers\u00e3o de Mim",
+          "url": "https://open.spotify.com/artist/3VI6PCewAVll6K4cYoNWt7"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226285,
+      "name": "LIGA\u00c7\u00c3O DE BANDIDA",
+      "url": "https://open.spotify.com/track/5uhNbbVioHel9R6LnBfWrW"
+    },
+    {
+      "album": {
         "name": "VER\u00c3O",
         "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
       },

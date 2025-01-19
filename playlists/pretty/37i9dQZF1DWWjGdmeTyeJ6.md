@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music by independent artists and labels\. Cover artist: Maddie Jay, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,214,441 likes - 54 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,214,481 likes - 54 songs - 3 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 8 | [Driving Home The Long Way](https://open.spotify.com/track/1xG7WFJOvO5LUghjqssjGW) | [Clara Mann](https://open.spotify.com/artist/0BcrhuzQqziiZJXLSdiJu0) | [Driving Home The Long Way](https://open.spotify.com/album/5YOs9mesohm8ucJvdPR1r1) | 2:50 |
 | 9 | [Baboom](https://open.spotify.com/track/7BSfh75cbw1HVoLrA1hKIj) | [Micah McLaurin](https://open.spotify.com/artist/65myEloviHpLiDJ7sA79DD) | [Baboom](https://open.spotify.com/album/36HM1JItHUPboC7NnEOg0E) | 2:47 |
 | 10 | [Dust](https://open.spotify.com/track/29wV9roYIEAbZidbfOQbC7) | [Anna Vaus](https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1) | [Dust](https://open.spotify.com/album/3kUuaCcH2A6FDjYAZ8H89H) | 2:58 |
-| 11 | [Every Little Thing](https://open.spotify.com/track/0u4g7SYTCckp1HsyKGrv30) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [I Can Change Your Mind](https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6) | 3:28 |
+| 11 | [Every Little Thing](https://open.spotify.com/track/0u4g7SYTCckp1HsyKGrv30) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [I Can Change Your Mind](https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6) | 3:28 |
 | 12 | [9volt](https://open.spotify.com/track/5jh6yjHTLHetlk96lKLAL4) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [Bip / 9volt](https://open.spotify.com/album/2PjwycUpCjf04r7ikWgmao) | 2:45 |
 | 13 | [People \(feat\. Club Azur\)](https://open.spotify.com/track/6OlK7sPU2naVspkttQZsj7) | [Edd](https://open.spotify.com/artist/2yATHzEnQZ0nO5NCokVTmX), [Victor Flash](https://open.spotify.com/artist/1IEF03NP5cb0XuOBpfxZXg), [Gero](https://open.spotify.com/artist/0qVlTFcbWu2eNXGdHrp0g1), [Club Azur](https://open.spotify.com/artist/7HjhcFRLzzNysy05pyufdh) | [People \(feat\. Club Azur\)](https://open.spotify.com/album/6kLLXpTOM7TpA3NZNTToFZ) | 4:29 |
 | 14 | [COMMON SENSE](https://open.spotify.com/track/6cvY4PWZcpT9q9pqTIWUze) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [COMMON SENSE](https://open.spotify.com/album/7faaHkMOir7YI4wacRvcmD) | 3:39 |

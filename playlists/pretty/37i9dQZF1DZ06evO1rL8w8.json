@@ -1,12 +1,12 @@
 {
   "description": "This is El Komander. The essential tracks, all in one playlist.",
-  "num_followers": 217466,
+  "num_followers": 217509,
   "original_name": "This Is El Komander",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAACCBetDGXciMnGW9ohoi5Or",
+  "snapshot_id": "Z4mdgAAAAAAmkhMX1IiwGICyDNqKe2BW",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 140750,
       "name": "Amado Carrillo",
       "url": "https://open.spotify.com/track/227X7GnGSMjX57IbSTSZmX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ranchero Con Dinero",
-        "url": "https://open.spotify.com/album/5tTUdhDlIv1nbKVGujEZtg"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 134208,
-      "name": "Ranchero Con Dinero",
-      "url": "https://open.spotify.com/track/53iLzcP6V12oTgzqKEuLKO"
     },
     {
       "added_at": null,
@@ -623,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Movimiento Alterado Vol. 3",
-        "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
+        "name": "Ranchero Con Dinero",
+        "url": "https://open.spotify.com/album/5tTUdhDlIv1nbKVGujEZtg"
       },
       "artists": [
         {
@@ -632,9 +616,9 @@
           "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
         }
       ],
-      "duration_ms": 142933,
-      "name": "El Tamarindo",
-      "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
+      "duration_ms": 134208,
+      "name": "Ranchero Con Dinero",
+      "url": "https://open.spotify.com/track/53iLzcP6V12oTgzqKEuLKO"
     },
     {
       "added_at": null,
@@ -651,6 +635,22 @@
       "duration_ms": 159306,
       "name": "100 Balazos Al Blindaje",
       "url": "https://open.spotify.com/track/06d8TRNC7WLP1kpyTmoD40"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Movimiento Alterado Vol. 3",
+        "url": "https://open.spotify.com/album/3kAOjL60TZgpCf7Ir6G4DO"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 142933,
+      "name": "El Tamarindo",
+      "url": "https://open.spotify.com/track/1tz8HjQD09LI1TYgnMskxz"
     },
     {
       "added_at": null,
@@ -719,22 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde Zapopan (En Vivo)",
-        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 229982,
-      "name": "Me Gustas Mucho (En Vivo)",
-      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Archivo Privado",
         "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 147506,
       "name": "Estrategias De Escape",
       "url": "https://open.spotify.com/track/3ROMpY5IE7Y61Z3dVfugpm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde Zapopan (En Vivo)",
+        "url": "https://open.spotify.com/album/21GHxCkKFIiblHyCo0Bbon"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 229982,
+      "name": "Me Gustas Mucho (En Vivo)",
+      "url": "https://open.spotify.com/track/3kgYtInhlF3Ajcp0OyeFH7"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
-        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Como Me Haces Falta - En Vivo",
-      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -867,6 +851,38 @@
       "duration_ms": 180436,
       "name": "Le Pas\u00e9 a la Plebe",
       "url": "https://open.spotify.com/track/43WgBOhr7JZl6p6Vh0LaUY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Belika Mafiosa",
+        "url": "https://open.spotify.com/album/4f9JhZkS7xg6yZWR369ZT2"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 137096,
+      "name": "Belika Mafiosa",
+      "url": "https://open.spotify.com/track/0Oy3v2dIU4HPPXpi5Z9gJq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Mis Caballerizas, Vol. 1",
+        "url": "https://open.spotify.com/album/59nx99DdT3xKtSZFw3bZcy"
+      },
+      "artists": [
+        {
+          "name": "El Komander",
+          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Como Me Haces Falta - En Vivo",
+      "url": "https://open.spotify.com/track/7eRY3sxx881NHPg0R9zNWr"
     },
     {
       "added_at": null,
@@ -891,22 +907,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Belika Mafiosa",
-        "url": "https://open.spotify.com/album/4f9JhZkS7xg6yZWR369ZT2"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 137096,
-      "name": "Belika Mafiosa",
-      "url": "https://open.spotify.com/track/0Oy3v2dIU4HPPXpi5Z9gJq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Empresario",
         "url": "https://open.spotify.com/album/3mSQrFZ3JZjOJaxE21FL11"
       },
@@ -919,22 +919,6 @@
       "duration_ms": 154357,
       "name": "El Empresario",
       "url": "https://open.spotify.com/track/2I6VBvRxhFWdnOrpXk4nHU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Archivo Privado",
-        "url": "https://open.spotify.com/album/7uHF1rtc9LSIMa6gjrMqVG"
-      },
-      "artists": [
-        {
-          "name": "El Komander",
-          "url": "https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr"
-        }
-      ],
-      "duration_ms": 148093,
-      "name": "El Ejecutor (Bonus Track)",
-      "url": "https://open.spotify.com/track/1DhA9CMyDg1XogiU3KLQej"
     }
   ],
   "unique_name": "This Is El Komander",

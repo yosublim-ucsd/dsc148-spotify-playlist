@@ -1,12 +1,12 @@
 {
   "description": "Music, laughter and happiness all around on your special day.",
-  "num_followers": 50638,
+  "num_followers": 50744,
   "original_name": "Mehendi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z3Yz/gAAAAArtuPS1POCWSFVU5vjSHgg",
+  "snapshot_id": "Z4suSQAAAAAzn/SuPKOFo0ECWgwlc6gu",
   "tracks": [
     {
       "added_at": "2025-01-02 06:36:46",
@@ -53,32 +53,28 @@
       "url": "https://open.spotify.com/track/7eQl3Yqv35ioqUfveKHitE"
     },
     {
-      "added_at": "2025-01-02 06:36:46",
+      "added_at": "2025-01-18 04:30:01",
       "album": {
-        "name": "Saanvarey",
-        "url": "https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5"
+        "name": "Sajna",
+        "url": "https://open.spotify.com/album/4TjqdNmCG0IEbNKVfbxTBV"
       },
       "artists": [
         {
-          "name": "Armaan Malik",
-          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
         },
         {
-          "name": "Aashna Shroff",
-          "url": "https://open.spotify.com/artist/6bloMDvy36IYdJJjE3atxT"
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
         },
         {
-          "name": "Amaal Mallik",
-          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
-        },
-        {
-          "name": "Shloke Lal",
-          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
+          "name": "Hansika Pareek",
+          "url": "https://open.spotify.com/artist/0RVfcqug2nB820dxIGycIW"
         }
       ],
-      "duration_ms": 268037,
-      "name": "Ghar",
-      "url": "https://open.spotify.com/track/7Ls3ec0l4Kd2OZ3rPrgq0W"
+      "duration_ms": 224680,
+      "name": "Sajna",
+      "url": "https://open.spotify.com/track/3uWQkslzoaKzbtOAjQxWNr"
     },
     {
       "added_at": "2025-01-02 06:36:46",
@@ -1491,6 +1487,22 @@
     {
       "added_at": "2025-01-02 06:36:46",
       "album": {
+        "name": "Phillauri",
+        "url": "https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "duration_ms": 215304,
+      "name": "Din Shagna Da",
+      "url": "https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp"
+    },
+    {
+      "added_at": "2025-01-02 06:36:46",
+      "album": {
         "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\") - Single",
         "url": "https://open.spotify.com/album/1skD49xUwXnHLMrlEKTo6j"
       },
@@ -1511,22 +1523,6 @@
       "duration_ms": 266075,
       "name": "Phir Aur Kya Chahiye (From \"Zara Hatke Zara Bachke\")",
       "url": "https://open.spotify.com/track/7Ky9U9iHjGBiRax3joCRDS"
-    },
-    {
-      "added_at": "2025-01-02 06:36:46",
-      "album": {
-        "name": "Phillauri",
-        "url": "https://open.spotify.com/album/0VcufnK1aFnUCIQR2j9cFE"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        }
-      ],
-      "duration_ms": 215304,
-      "name": "Din Shagna Da",
-      "url": "https://open.spotify.com/track/20rwogC6aE369YsxFb5aRp"
     },
     {
       "added_at": "2025-01-02 06:36:46",
@@ -1627,18 +1623,30 @@
     {
       "added_at": "2025-01-02 06:36:46",
       "album": {
-        "name": "Nit Nit",
-        "url": "https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05"
+        "name": "Saanvarey",
+        "url": "https://open.spotify.com/album/69rceaPY8Gc7nutstZ4oI5"
       },
       "artists": [
         {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Aashna Shroff",
+          "url": "https://open.spotify.com/artist/6bloMDvy36IYdJJjE3atxT"
+        },
+        {
+          "name": "Amaal Mallik",
+          "url": "https://open.spotify.com/artist/76fuWYgIf3TVIopTs3vaJ6"
+        },
+        {
+          "name": "Shloke Lal",
+          "url": "https://open.spotify.com/artist/1pjDnQK4lN75yaCU4ikNz1"
         }
       ],
-      "duration_ms": 246136,
-      "name": "Nit Nit",
-      "url": "https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd"
+      "duration_ms": 268037,
+      "name": "Ghar",
+      "url": "https://open.spotify.com/track/7Ls3ec0l4Kd2OZ3rPrgq0W"
     },
     {
       "added_at": "2025-01-02 06:36:46",
@@ -1687,22 +1695,18 @@
     {
       "added_at": "2025-01-02 06:36:46",
       "album": {
-        "name": "Wazir",
-        "url": "https://open.spotify.com/album/58UGZt8xJwDCcxZlRCGNws"
+        "name": "Nit Nit",
+        "url": "https://open.spotify.com/album/4RxwQSQoIluErWi0NHUs05"
       },
       "artists": [
         {
-          "name": "Sonu Nigam",
-          "url": "https://open.spotify.com/artist/1dVygo6tRFXC8CSWURQJq2"
-        },
-        {
-          "name": "Shreya Ghoshal",
-          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
         }
       ],
-      "duration_ms": 244151,
-      "name": "Tere Bin",
-      "url": "https://open.spotify.com/track/3F5PXirySr1SjFZWOcSUbS"
+      "duration_ms": 246136,
+      "name": "Nit Nit",
+      "url": "https://open.spotify.com/track/6GT0oiQdjiYX91qgAMi7Vd"
     }
   ],
   "unique_name": "Mehendi",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 
 > This is TOKiMONSTA\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,269 likes - 51 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,270 likes - 51 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2i3yMV.md) - [plain]
 | 50 | [Come and Go \- Halogenix Remix](https://open.spotify.com/track/20vmuTwxzhupT4hQhAtdtL) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [VanJess](https://open.spotify.com/artist/0Ek89uaJyo6NfWK22awFvI), [Halogenix](https://open.spotify.com/artist/24eQxPRLv3UMwEIo6mawVW) | [Oasis Nocturno \(Remixed\)](https://open.spotify.com/album/4DukjYnNOXaJgv8JiVcKfH) | 4:08 |
 | 51 | [Sa Mo Jung](https://open.spotify.com/track/0hzDTl4D0iK3VUqcQ2rBIB) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI) | [Midnight Menu](https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi) | 3:06 |
 
-Snapshot ID: `Z4hMAAAAAADInQ7QQJHctvIKTTvrOAJW`
+Snapshot ID: `Z4mdgAAAAAAuRP5ezms+57PpqPlbKInR`

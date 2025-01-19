@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 
 > Hip hop and rap music from Nigeria\. Cover: Bhadboi OML
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,498 likes - 70 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,528 likes - 70 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,8 +74,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHcUDX0za7N.md) - [plain]
 | 64 | [Wake Up](https://open.spotify.com/track/77IIR7ZnfwCbq8MuNlzUQn) | [Shoody B](https://open.spotify.com/artist/08FMIXBhjyNxg3yFMG3kJf), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Wake Up](https://open.spotify.com/album/0x0wYSXTwPMo2RaH54Egnh) | 3:03 |
 | 65 | [One Night](https://open.spotify.com/track/25qB0KAQ6UCAbT9vrbb5Ng) | [CDQ](https://open.spotify.com/artist/1VsvlBp2dqKk2g9EVFvxXg), [Serenità](https://open.spotify.com/artist/4aExgMFrxhYAQPhzCf9VbQ) | [One Night](https://open.spotify.com/album/130KYe4mR2RwkZ98rBCN1p) | 3:12 |
 | 66 | [Astaghfirullah](https://open.spotify.com/track/7vPdUMggasHhurAHHHpnjI) | [Lyta](https://open.spotify.com/artist/5Vok15YfAjyyCbUg5YBRGE), [Otega](https://open.spotify.com/artist/08Fcm7JKxT1qummaWUzavs) | [Astaghfirullah](https://open.spotify.com/album/0fvetqJGSjHvVmMONklsPw) | 2:40 |
-| 67 | [BETELGEUSE](https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe), [Veelantyne](https://open.spotify.com/artist/4bRg2DHU6q0w50FUheWEnz), [s0ru](https://open.spotify.com/artist/3qBr0SHrFBc7FwOtCS1hyj), [Fred the Prod.](https://open.spotify.com/artist/1qp88C8AzFspKgERhcUlWA) | [BETELGEUSE](https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj) | 3:28 |
-| 68 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
+| 67 | [Drip \- Remix](https://open.spotify.com/track/6hewMA6fdyQn8OrufnuRFP) | [GINGO](https://open.spotify.com/artist/68R99JNwcSkTFtF4csRRJV), [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [Drip \(Remix\)](https://open.spotify.com/album/0Vf0PWZL99O3ZcRGpoPGL6) | 2:20 |
+| 68 | [BETELGEUSE](https://open.spotify.com/track/26L1Z05SIVNb3LYiesSzWd) | [Sosa.ttw](https://open.spotify.com/artist/5yh4KL43XecTrNwFmDF7Ko), [K.I](https://open.spotify.com/artist/6fG5o0kIAg543WNXI4AkZe), [Veelantyne](https://open.spotify.com/artist/4bRg2DHU6q0w50FUheWEnz), [s0ru](https://open.spotify.com/artist/3qBr0SHrFBc7FwOtCS1hyj), [Fred the Prod.](https://open.spotify.com/artist/1qp88C8AzFspKgERhcUlWA) | [BETELGEUSE](https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj) | 3:28 |
 | 69 | [LOCO](https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV) | [Nizzy](https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R) | [Afro Jersey](https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ) | 2:20 |
 | 70 | [Make It Out](https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O) | [Shegzy Marley](https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs), [Areezy](https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD) | [Make It Out](https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL) | 2:43 |
 

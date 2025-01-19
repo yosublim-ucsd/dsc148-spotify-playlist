@@ -1,6 +1,6 @@
 {
   "description": "New styles, deep sounds. Cover: Helado Negro",
-  "num_followers": 421120,
+  "num_followers": 421148,
   "original_name": "Modern Eclectic",
   "owner": {
     "name": "Spotify",
@@ -695,22 +695,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Digital Meadow",
-        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
-      },
-      "artists": [
-        {
-          "name": "Dora Jar",
-          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
-        }
-      ],
-      "duration_ms": 136320,
-      "name": "Multiply",
-      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "More Than a Love Song",
         "url": "https://open.spotify.com/album/4mKa3XUlzWNoUub36qy9mX"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 287000,
       "name": "More Than a Love Song",
       "url": "https://open.spotify.com/track/2LflS98n1TRQb0Fcj1910h"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Digital Meadow",
+        "url": "https://open.spotify.com/album/1Hs5SAioUMz5JA1qw8zrmZ"
+      },
+      "artists": [
+        {
+          "name": "Dora Jar",
+          "url": "https://open.spotify.com/artist/4V30Q8ACPdJCcAmAYibfrH"
+        }
+      ],
+      "duration_ms": 136320,
+      "name": "Multiply",
+      "url": "https://open.spotify.com/track/7epHw01JrUjS1kKdxdENTE"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -975,6 +975,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Cala",
+        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+      },
+      "artists": [
+        {
+          "name": "Fionn Regan",
+          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+        }
+      ],
+      "duration_ms": 148773,
+      "name": "Collar of Fur",
+      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Filming School",
         "url": "https://open.spotify.com/album/3t5QsHVDqA1HCLWCZBHdLl"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 190746,
       "name": "Filming School",
       "url": "https://open.spotify.com/track/5Wk8ShrY6d6d43wHrAdIJr"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "notes to self",
-        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
-      },
-      "artists": [
-        {
-          "name": "Maria Kelly",
-          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
-        }
-      ],
-      "duration_ms": 184400,
-      "name": "prelude",
-      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Cala",
-        "url": "https://open.spotify.com/album/5N1201PBNTiy1gj7b7sPsW"
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
       },
       "artists": [
         {
-          "name": "Fionn Regan",
-          "url": "https://open.spotify.com/artist/0WJc0VDtzsLIk33XRB20Dy"
+          "name": "Brent Cobb",
+          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
         }
       ],
-      "duration_ms": 148773,
-      "name": "Collar of Fur",
-      "url": "https://open.spotify.com/track/7ytLP3YW58akAQyMTwW78l"
+      "duration_ms": 186269,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1055,18 +1055,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/5SoDgEyUeO6DcS88kOuR0d"
+        "name": "In the Game",
+        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
       },
       "artists": [
         {
-          "name": "Brent Cobb",
-          "url": "https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz"
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        },
+        {
+          "name": "Susan O'Neill",
+          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
         }
       ],
-      "duration_ms": 186269,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/4O6pTiXCFeuLE8fBz3LWGf"
+      "duration_ms": 200161,
+      "name": "Chain Reaction",
+      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1087,22 +1091,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "In the Game",
-        "url": "https://open.spotify.com/album/0yuuoIvqUqnumxCaqM71j8"
+        "name": "notes to self",
+        "url": "https://open.spotify.com/album/4oZm9dVzOajDU9ATDnJcjU"
       },
       "artists": [
         {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        },
-        {
-          "name": "Susan O'Neill",
-          "url": "https://open.spotify.com/artist/1YHKDPqd413c6QH1d3Pgua"
+          "name": "Maria Kelly",
+          "url": "https://open.spotify.com/artist/15MkO1zSQcHtjObfkiEUaV"
         }
       ],
-      "duration_ms": 200161,
-      "name": "Chain Reaction",
-      "url": "https://open.spotify.com/track/2l2mM35OlTIAV3ewmBblRA"
+      "duration_ms": 184400,
+      "name": "prelude",
+      "url": "https://open.spotify.com/track/1btCox4dQ6X24ciWGUNRgy"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1139,6 +1139,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Tobacco City, USA",
+        "url": "https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20"
+      },
+      "artists": [
+        {
+          "name": "Tobacco City",
+          "url": "https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX"
+        }
+      ],
+      "duration_ms": 225297,
+      "name": "Never on My Mind",
+      "url": "https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Mariachi Static",
         "url": "https://open.spotify.com/album/1f7tVn8Ff2Nr3PesnIi9HE"
       },
@@ -1171,18 +1187,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Tobacco City, USA",
-        "url": "https://open.spotify.com/album/11J38DSk3mY2KEOx1NEY20"
+        "name": "Joy'All",
+        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
       },
       "artists": [
         {
-          "name": "Tobacco City",
-          "url": "https://open.spotify.com/artist/00Af3oygT0HC6ld0c2HwFX"
+          "name": "Jenny Lewis",
+          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
         }
       ],
-      "duration_ms": 225297,
-      "name": "Never on My Mind",
-      "url": "https://open.spotify.com/track/4z9ViersKJgj1ZwTjjfhtk"
+      "duration_ms": 224493,
+      "name": "Joy'All",
+      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1199,22 +1215,6 @@
       "duration_ms": 196066,
       "name": "Hero",
       "url": "https://open.spotify.com/track/5O89rL395q32qmTzYGxNfb"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Joy'All",
-        "url": "https://open.spotify.com/album/2TF6deaYHbiP5xepwFYbd1"
-      },
-      "artists": [
-        {
-          "name": "Jenny Lewis",
-          "url": "https://open.spotify.com/artist/5cMVRrisBpDkXCVG48epED"
-        }
-      ],
-      "duration_ms": 224493,
-      "name": "Joy'All",
-      "url": "https://open.spotify.com/track/5bzMnlKnmaitjCAaJed3Oj"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1467,22 +1467,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Fish Pond Fish",
-        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 231066,
-      "name": "A Light On In The Dark",
-      "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Galacticana",
         "url": "https://open.spotify.com/album/7qGW8JjT3nz4MC4x3daSZg"
       },
@@ -1495,6 +1479,22 @@
       "duration_ms": 240733,
       "name": "Galacticana",
       "url": "https://open.spotify.com/track/73xmoTyIsGhr2zevMYqa71"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Fish Pond Fish",
+        "url": "https://open.spotify.com/album/4l3Y57hxx4pkndMSfEg2q7"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 231066,
+      "name": "A Light On In The Dark",
+      "url": "https://open.spotify.com/track/0394SYHavxFIhrN7ALPWf7"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Dublin, Texas",
-        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
-      },
-      "artists": [
-        {
-          "name": "RF Shannon",
-          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
-        }
-      ],
-      "duration_ms": 269286,
-      "name": "Dublin, Texas",
-      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Porta",
         "url": "https://open.spotify.com/album/4qf9PU9z1f7qql846P9bYO"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 206960,
       "name": "Porta",
       "url": "https://open.spotify.com/track/6zfI5bLVFhDzYUBHmMA7ni"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Dublin, Texas",
+        "url": "https://open.spotify.com/album/2yJ45g1GWeNubkv8o6wGPW"
+      },
+      "artists": [
+        {
+          "name": "RF Shannon",
+          "url": "https://open.spotify.com/artist/46CVdgJTvxMLcMqZ7YY0b5"
+        }
+      ],
+      "duration_ms": 269286,
+      "name": "Dublin, Texas",
+      "url": "https://open.spotify.com/track/2OhnZjTg7evaWdAtRJ5B1c"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Mecca",
-        "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
-      },
-      "artists": [
-        {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        }
-      ],
-      "duration_ms": 291762,
-      "name": "Mecca",
-      "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Everything Was Beautiful",
         "url": "https://open.spotify.com/album/4s7idL3BJEZIpsytOCEPZK"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 241681,
       "name": "Love Without Possession",
       "url": "https://open.spotify.com/track/738fOOmAzfEssdCzYRv6Un"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Mecca",
+        "url": "https://open.spotify.com/album/0diLOQUXoO0jIWMmC4S4KV"
+      },
+      "artists": [
+        {
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
+        }
+      ],
+      "duration_ms": 291762,
+      "name": "Mecca",
+      "url": "https://open.spotify.com/track/4C5bRIloL1afbepFvjMLYE"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "All Now",
-        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
-      },
-      "artists": [
-        {
-          "name": "The Staves",
-          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
-        }
-      ],
-      "duration_ms": 270026,
-      "name": "All Now",
-      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "Teeth Marks",
         "url": "https://open.spotify.com/album/0YOnr9NbhkWBBYOWGWq7AE"
       },
@@ -1935,6 +1919,22 @@
       "duration_ms": 217130,
       "name": "Teeth Marks",
       "url": "https://open.spotify.com/track/4hpHGNOycA02mFKH6U97Gx"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "All Now",
+        "url": "https://open.spotify.com/album/2f8gXFGCNXBRNJ7xdqxQuM"
+      },
+      "artists": [
+        {
+          "name": "The Staves",
+          "url": "https://open.spotify.com/artist/5G49Sq5mMzAkGL4ZP6eVPY"
+        }
+      ],
+      "duration_ms": 270026,
+      "name": "All Now",
+      "url": "https://open.spotify.com/track/7gEQuszu1NiKweV7zOTFr6"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2099,18 +2099,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Narcissist - EP",
-        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
+        "name": "Ignorance (Deluxe Version)",
+        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
       },
       "artists": [
         {
-          "name": "Cale Tyson",
-          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
         }
       ],
-      "duration_ms": 241000,
-      "name": "Not Healthy Anymore",
-      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
+      "duration_ms": 173008,
+      "name": "Better Now",
+      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2131,18 +2131,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Ignorance (Deluxe Version)",
-        "url": "https://open.spotify.com/album/4XjIsxdISfzX90bzSSikTr"
+        "name": "Narcissist - EP",
+        "url": "https://open.spotify.com/album/66d8LWhYAHdrzp1W3xQ4hT"
       },
       "artists": [
         {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+          "name": "Cale Tyson",
+          "url": "https://open.spotify.com/artist/0BU835xMjZ04GXuJSxBrJy"
         }
       ],
-      "duration_ms": 173008,
-      "name": "Better Now",
-      "url": "https://open.spotify.com/track/204zAZKZ0pDcd2Mqgp1ctO"
+      "duration_ms": 241000,
+      "name": "Not Healthy Anymore",
+      "url": "https://open.spotify.com/track/5miGESqEVwfKAdjE164WXx"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -2275,22 +2275,6 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Where I Should End",
-        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
-      },
-      "artists": [
-        {
-          "name": "Saint Sister",
-          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
-        }
-      ],
-      "duration_ms": 318718,
-      "name": "Any Dreams?",
-      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
         "name": "On A Beach",
         "url": "https://open.spotify.com/album/0DyVOB2dfSxlmomqQoh7t6"
       },
@@ -2307,6 +2291,22 @@
       "duration_ms": 245656,
       "name": "On A Beach",
       "url": "https://open.spotify.com/track/6MdKxxCkNTmassiqorlX5Y"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
+        "name": "Where I Should End",
+        "url": "https://open.spotify.com/album/3bhefIMRjVWNQ73NN8QZ6v"
+      },
+      "artists": [
+        {
+          "name": "Saint Sister",
+          "url": "https://open.spotify.com/artist/7ufZdjYTNe1vzA9Z6Fek14"
+        }
+      ],
+      "duration_ms": 318718,
+      "name": "Any Dreams?",
+      "url": "https://open.spotify.com/track/68Iv09LPmQVMdg6sk1p06z"
     },
     {
       "added_at": "2024-09-13 04:00:00",

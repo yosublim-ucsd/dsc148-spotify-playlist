@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 278,456 likes - 235 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 278,630 likes - 235 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,7 +91,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 81 | [Jetlag](https://open.spotify.com/track/0HFPMPIPGy0o9ocbHMNz2P) | [baegel](https://open.spotify.com/artist/5NaaHKhCjBsIbSRh96NuzA) | [Cloudscape](https://open.spotify.com/album/1fN2VRfRVaRSJCn6hS4bgo) | 2:26 |
 | 82 | [camellia](https://open.spotify.com/track/0whBmEP3B9AMBaAm3LSjKn) | [Mozzie](https://open.spotify.com/artist/10gjx964A7V2fWnMZXTiy4) | [camellia](https://open.spotify.com/album/4cIHkWwWqlqegjsR6J4tzM) | 2:07 |
 | 83 | [eggplants & oregano](https://open.spotify.com/track/4NFpLeNabRQZa5ri80KRcA) | [buggy beats](https://open.spotify.com/artist/20sIKWsBpGJNPLbWNeSrT7) | [eggplants & oregano](https://open.spotify.com/album/1xqBqzSAxguUoi25iST312) | 1:37 |
-| 84 | [Harvest](https://open.spotify.com/track/4ZNo6Sa53jLKNPemk5bGYU) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt) | [Harvest](https://open.spotify.com/album/5R749lPQYZku7ygy4UFt1J) | 1:55 |
+| 84 | [Harvest](https://open.spotify.com/track/4ZNo6Sa53jLKNPemk5bGYU) | [Screen Jazzmaster](https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt), [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [Harvest](https://open.spotify.com/album/5R749lPQYZku7ygy4UFt1J) | 1:55 |
 | 85 | [spice age](https://open.spotify.com/track/12Wq2oMs3cC5X4kLib48AX) | [JoJo Mojo](https://open.spotify.com/artist/3rk7Py7nULekgVHb7BjVH0) | [spice age](https://open.spotify.com/album/6H4pKjbmFUb0tvbvaTSJHr) | 1:59 |
 | 86 | [Tuesday morning](https://open.spotify.com/track/3TZ29GfSdOsQM7PYE6ROi8) | [BB Queen](https://open.spotify.com/artist/0xYs9AtekcZjUcEjJBqtmN) | [Tuesday morning](https://open.spotify.com/album/1ohpQMV9r3qcZ3se5ZyZwl) | 1:24 |
 | 87 | [Deluxe](https://open.spotify.com/track/3FxsIVEcew8ZHUXwEKTHpw) | [Elles Lee](https://open.spotify.com/artist/7Mugr5RlsfIZfQT0SD4vxW) | [Deluxe](https://open.spotify.com/album/3mz297kvvZW1aCiqz8n4kC) | 2:22 |

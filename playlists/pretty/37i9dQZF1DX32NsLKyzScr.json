@@ -1,6 +1,6 @@
 {
   "description": "Tap it back or go for a spin with these uptempo tracks!",
-  "num_followers": 2604738,
+  "num_followers": 2604951,
   "original_name": "Power Hour",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,26 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
+        "name": "Hypnotized",
+        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
+      },
+      "artists": [
+        {
+          "name": "Anyma",
+          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
+        },
+        {
+          "name": "Ellie Goulding",
+          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
+        }
+      ],
+      "duration_ms": 180540,
+      "name": "Hypnotized (feat. Ellie Goulding)",
+      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
         "name": "Tell Me Why (MEDUZA Remix)",
         "url": "https://open.spotify.com/album/6CTjQWx50yUs4wNu95cnlM"
       },
@@ -707,26 +727,6 @@
       "duration_ms": 215583,
       "name": "Finally",
       "url": "https://open.spotify.com/track/5a2Mb0OPY17zkS8FnciQhg"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
-        "name": "Hypnotized",
-        "url": "https://open.spotify.com/album/4k0x8hi3zxwSKNxkcYX67J"
-      },
-      "artists": [
-        {
-          "name": "Anyma",
-          "url": "https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN"
-        },
-        {
-          "name": "Ellie Goulding",
-          "url": "https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ"
-        }
-      ],
-      "duration_ms": 180540,
-      "name": "Hypnotized (feat. Ellie Goulding)",
-      "url": "https://open.spotify.com/track/16qhKHGz2mDlFrxvNLYeHW"
     },
     {
       "added_at": "2025-01-17 16:17:44",
@@ -795,26 +795,6 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
-        "name": "Lioness",
-        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
-      },
-      "artists": [
-        {
-          "name": "Swedish House Mafia",
-          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
-        },
-        {
-          "name": "Niki & The Dove",
-          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
-        }
-      ],
-      "duration_ms": 172515,
-      "name": "Lioness",
-      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
         "name": "girl$",
         "url": "https://open.spotify.com/album/5a9XC3rwRYjos3SaTRM1uc"
       },
@@ -855,6 +835,26 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
+        "name": "Where You Are",
+        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+      },
+      "artists": [
+        {
+          "name": "John Summit",
+          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+        },
+        {
+          "name": "HAYLA",
+          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+        }
+      ],
+      "duration_ms": 236000,
+      "name": "Where You Are",
+      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
         "name": "Desire (with Sam Smith)",
         "url": "https://open.spotify.com/album/3XDtRvXV5DR1xZfvcneG2C"
       },
@@ -875,22 +875,38 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
-        "name": "Where You Are",
-        "url": "https://open.spotify.com/album/4bIEy1wDeaEklS1BanbsmR"
+        "name": "Lioness",
+        "url": "https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u"
       },
       "artists": [
         {
-          "name": "John Summit",
-          "url": "https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205"
+          "name": "Swedish House Mafia",
+          "url": "https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs"
         },
         {
-          "name": "HAYLA",
-          "url": "https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc"
+          "name": "Niki & The Dove",
+          "url": "https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS"
         }
       ],
-      "duration_ms": 236000,
-      "name": "Where You Are",
-      "url": "https://open.spotify.com/track/4qDpLaFGf5ampf2DXD2TMA"
+      "duration_ms": 172515,
+      "name": "Lioness",
+      "url": "https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
+        "name": "Love Is The Only Thing",
+        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        }
+      ],
+      "duration_ms": 171093,
+      "name": "Love Is The Only Thing",
+      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     },
     {
       "added_at": "2025-01-17 16:17:44",
@@ -931,22 +947,6 @@
       "duration_ms": 226677,
       "name": "places to be",
       "url": "https://open.spotify.com/track/561pBFcFL2Pwb9HPO9tU8J"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
-        "name": "Love Is The Only Thing",
-        "url": "https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        }
-      ],
-      "duration_ms": 171093,
-      "name": "Love Is The Only Thing",
-      "url": "https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW"
     },
     {
       "added_at": "2025-01-17 16:17:44",
@@ -1039,6 +1039,26 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
+        "name": "Walkerworld 2.0",
+        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Faouzia",
+          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
+        }
+      ],
+      "duration_ms": 153207,
+      "name": "Last Song (feat. Faouzia)",
+      "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
         "name": "MONEY ON THE DASH",
         "url": "https://open.spotify.com/album/1nlaLDMPSzXL8G5LPBDhwd"
       },
@@ -1087,46 +1107,6 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
-        "name": "leavemealone",
-        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
-      },
-      "artists": [
-        {
-          "name": "Fred again..",
-          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
-        },
-        {
-          "name": "Baby Keem",
-          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
-        }
-      ],
-      "duration_ms": 222784,
-      "name": "leavemealone",
-      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
-        "name": "Walkerworld 2.0",
-        "url": "https://open.spotify.com/album/2NNRWnLkPkqmVXQbvlBlkw"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Faouzia",
-          "url": "https://open.spotify.com/artist/5NhgsV7qPWHZqYEMKzbYvo"
-        }
-      ],
-      "duration_ms": 153207,
-      "name": "Last Song (feat. Faouzia)",
-      "url": "https://open.spotify.com/track/6zqYzdvcMcfYolvjO10sS6"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
         "name": "Say My Name (Remix)",
         "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
       },
@@ -1163,6 +1143,26 @@
       "duration_ms": 181364,
       "name": "Rhyme Dust",
       "url": "https://open.spotify.com/track/59QDyqLww2pxyg9ijOPO7f"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
+        "name": "leavemealone",
+        "url": "https://open.spotify.com/album/3Tsut3cVOWP7AKAR4Dtmhb"
+      },
+      "artists": [
+        {
+          "name": "Fred again..",
+          "url": "https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe"
+        },
+        {
+          "name": "Baby Keem",
+          "url": "https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1"
+        }
+      ],
+      "duration_ms": 222784,
+      "name": "leavemealone",
+      "url": "https://open.spotify.com/track/1MVqeIAwhD4T44AKVkIfic"
     },
     {
       "added_at": "2025-01-17 16:17:44",
@@ -1227,6 +1227,26 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
+        "name": "Wacuka",
+        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
+      },
+      "artists": [
+        {
+          "name": "AVAION",
+          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
+        },
+        {
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
+        }
+      ],
+      "duration_ms": 190153,
+      "name": "Wacuka",
+      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
         "name": "Ascend",
         "url": "https://open.spotify.com/album/4mAF3peOEA7768ugEsKNHk"
       },
@@ -1259,6 +1279,22 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
+        "name": "MERTHER",
+        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
+      },
+      "artists": [
+        {
+          "name": "Mau P",
+          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
+        }
+      ],
+      "duration_ms": 189405,
+      "name": "MERTHER",
+      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
         "name": "ALL MY LOVE (PNAU x Coldplay)",
         "url": "https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO"
       },
@@ -1279,22 +1315,6 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
-        "name": "MERTHER",
-        "url": "https://open.spotify.com/album/78PoitNO680GzJX7WLp3lo"
-      },
-      "artists": [
-        {
-          "name": "Mau P",
-          "url": "https://open.spotify.com/artist/0w1sbtZVQoK6GzV4A4OkCv"
-        }
-      ],
-      "duration_ms": 189405,
-      "name": "MERTHER",
-      "url": "https://open.spotify.com/track/5jOz15GVP7iQXEb40tQhX2"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
         "name": "Another World",
         "url": "https://open.spotify.com/album/72ArwEgG0egqM3vmQKxWVZ"
       },
@@ -1311,26 +1331,6 @@
       "duration_ms": 144000,
       "name": "Another World",
       "url": "https://open.spotify.com/track/5U0iZCQ9e8PaLYxup0pcnO"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
-        "name": "Wacuka",
-        "url": "https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw"
-      },
-      "artists": [
-        {
-          "name": "AVAION",
-          "url": "https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 190153,
-      "name": "Wacuka",
-      "url": "https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4"
     },
     {
       "added_at": "2025-01-17 16:17:44",
@@ -2083,6 +2083,26 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
+        "name": "What Took You So Long",
+        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
+      },
+      "artists": [
+        {
+          "name": "Armin van Buuren",
+          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
+        },
+        {
+          "name": "Gryffin",
+          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
+        }
+      ],
+      "duration_ms": 211058,
+      "name": "What Took You So Long",
+      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
         "name": "Where Do I Go",
         "url": "https://open.spotify.com/album/2j6oBklvVZk5D8ExS1280q"
       },
@@ -2107,26 +2127,6 @@
       "duration_ms": 138461,
       "name": "Where Do I Go",
       "url": "https://open.spotify.com/track/287x3GNRnwnyn6mjkmDHUU"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
-        "name": "What Took You So Long",
-        "url": "https://open.spotify.com/album/5BxLMz1DhF1yZNdeAlID3h"
-      },
-      "artists": [
-        {
-          "name": "Armin van Buuren",
-          "url": "https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5"
-        },
-        {
-          "name": "Gryffin",
-          "url": "https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh"
-        }
-      ],
-      "duration_ms": 211058,
-      "name": "What Took You So Long",
-      "url": "https://open.spotify.com/track/2YSWJU0HINhi24oH19ALo6"
     },
     {
       "added_at": "2025-01-17 16:17:44",
@@ -2167,30 +2167,6 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
-        "name": "Thick Of It All",
-        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Joe Jonas",
-          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Thick Of It All",
-      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
         "name": "Told You So (Remixes Vol. 2)",
         "url": "https://open.spotify.com/album/7tSdlRlODwsNkMHTT86VCY"
       },
@@ -2211,6 +2187,30 @@
       "duration_ms": 221102,
       "name": "Told You So - Agents Of Time Remix",
       "url": "https://open.spotify.com/track/2lQnyDTZSKQEgPYZtXYMaV"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
+        "name": "Thick Of It All",
+        "url": "https://open.spotify.com/album/0JvWGbkCMpAdbPVlczwKDx"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Joe Jonas",
+          "url": "https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Thick Of It All",
+      "url": "https://open.spotify.com/track/6JbvvGKwtgcjeOU810AS8w"
     },
     {
       "added_at": "2025-01-17 16:17:44",
@@ -2379,6 +2379,22 @@
     {
       "added_at": "2025-01-17 16:17:44",
       "album": {
+        "name": "Bad Boy",
+        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
+      },
+      "artists": [
+        {
+          "name": "Linska",
+          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
+        }
+      ],
+      "duration_ms": 178139,
+      "name": "Bad Boy",
+      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
+    },
+    {
+      "added_at": "2025-01-17 16:17:44",
+      "album": {
         "name": "Lucky (feat. Remi Wolf)",
         "url": "https://open.spotify.com/album/76Jj7hac3l9fzFerLzckVV"
       },
@@ -2423,22 +2439,6 @@
       "duration_ms": 305806,
       "name": "Along Came Polly (Konstantin Sibold, ZAC, CARMEE Remix)",
       "url": "https://open.spotify.com/track/5EkSIWWEX7zkFTtSO28vT7"
-    },
-    {
-      "added_at": "2025-01-17 16:17:44",
-      "album": {
-        "name": "Bad Boy",
-        "url": "https://open.spotify.com/album/1TEKWGE5byHlJaed68p4BN"
-      },
-      "artists": [
-        {
-          "name": "Linska",
-          "url": "https://open.spotify.com/artist/5f7jxYF5js7lD5lMyIPUBq"
-        }
-      ],
-      "duration_ms": 178139,
-      "name": "Bad Boy",
-      "url": "https://open.spotify.com/track/6JHLEqlfiQDVJ0SbSsZIyL"
     },
     {
       "added_at": "2025-01-17 16:17:44",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > This is R&B in Canada\. Elevate your aura with Maz B from Winnipeg, MB and Avenoir from Edmonton, AB.
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,148 likes - 75 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,200 likes - 75 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 8 | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/track/2eCIT1yhrYfWdfC5VahUrt) | [Jessie Reyez](https://open.spotify.com/artist/3KedxarmBCyFBevnqQHy3P), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [JUST LIKE THAT \(with Ari Lennox\)](https://open.spotify.com/album/04paAyoEdoSL1nSUdoMSp1) | 2:43 |
 | 9 | [OMG](https://open.spotify.com/track/4qowXkItbd8sIw2t3PfdRO) | [THEHONESTGUY](https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt) | [VELVET SOUL](https://open.spotify.com/album/64XKBCW9qJgHqZDuiCg6Qn) | 3:14 |
 | 10 | [Favour](https://open.spotify.com/track/7lTUaX0Bs1uE9ALFsmLF8G) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Favour](https://open.spotify.com/album/1t3qbk6POPJIh0DnEDW2rF) | 2:36 |
-| 11 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/1LLPPqAA6Oz43N8JeITYdx) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
+| 11 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/7nLd7fJANdOTlg7A2XpfmS) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
 | 12 | [Take Your Mask Off \(feat\. Daniel Caesar & LaToiya Williams\)](https://open.spotify.com/track/4BSR9I4ExlCJdXJo2GpBD5) | [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF), [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [LaToiya Williams](https://open.spotify.com/artist/6w71vXwHI2Oz6I5OO41tRM) | [CHROMAKOPIA](https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH) | 4:13 |
 | 13 | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/track/5YABYtKx9qa56vBjlXDbmw) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Snooze \(Acoustic\) \(feat\. Justin Bieber\)](https://open.spotify.com/album/0bQ8NyqdTKKQpZHYhZqCUU) | 3:10 |
 | 14 | [We Got This \- 7'' Version](https://open.spotify.com/track/4OQMZBaOgEvAcXI8NMWEz7) | [Beatchild](https://open.spotify.com/artist/4k7KKAyXbpBKe0iziD7c2P) | [We Got This](https://open.spotify.com/album/79Utq6WQvxX0OkODgZEfDO) | 2:57 |

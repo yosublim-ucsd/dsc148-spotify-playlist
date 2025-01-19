@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 88378,
+  "num_followers": 88394,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAC/VoWl1I2yMofUlgc32cVo",
+  "snapshot_id": "Z4mdgAAAAACXnINn3J1qW6Q5yEcw2icY",
   "tracks": [
     {
       "added_at": null,
@@ -31,8 +31,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Awuke (ADP Club Mix)",
-        "url": "https://open.spotify.com/album/7L2MYhwy6UmYOhDKNnIPFb"
+        "name": "Awuke",
+        "url": "https://open.spotify.com/album/6t9A9CaPsaknVT4WgCPuXL"
       },
       "artists": [
         {
@@ -42,15 +42,11 @@
         {
           "name": "YG Marley",
           "url": "https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr"
-        },
-        {
-          "name": "ADP",
-          "url": "https://open.spotify.com/artist/0QAjuB54V29PdceQCHXq2i"
         }
       ],
-      "duration_ms": 172000,
-      "name": "Awuke - ADP Club Mix",
-      "url": "https://open.spotify.com/track/3uctEnI3gYlp5D2HsK8nt3"
+      "duration_ms": 172628,
+      "name": "Awuke",
+      "url": "https://open.spotify.com/track/6e0YUaVAfDxUabmybOjguy"
     },
     {
       "added_at": null,
@@ -447,6 +443,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fall",
+        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Fall",
+      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Joy",
         "url": "https://open.spotify.com/album/6DyLH9VXRUxCJYoMAOhQ3V"
       },
@@ -463,22 +475,6 @@
       "duration_ms": 170785,
       "name": "Joy",
       "url": "https://open.spotify.com/track/3fy1cZJ5BwRXJ44Quz9Sum"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fall",
-        "url": "https://open.spotify.com/album/49EjkUgoE70dxKcXXd9szs"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Fall",
-      "url": "https://open.spotify.com/track/4ou5xyFUJX4VwX76tw1qb1"
     },
     {
       "added_at": null,
@@ -1047,38 +1043,6 @@
       "duration_ms": 229668,
       "name": "Gobe",
       "url": "https://open.spotify.com/track/0OU8OELBKP0WlQmK4Uedse"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aza",
-        "url": "https://open.spotify.com/album/5Ma7CMgO2eSOqCRqXxORkl"
-      },
-      "artists": [
-        {
-          "name": "DMW",
-          "url": "https://open.spotify.com/artist/6DmouQfvRZ2y9auxK3DjuI"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Duncan Mighty",
-          "url": "https://open.spotify.com/artist/5N47dnIfPuGH8kIHpf8gZK"
-        },
-        {
-          "name": "Fresh VDM",
-          "url": "https://open.spotify.com/artist/0Ijrcr7x3JUfy29iFVFSZ9"
-        },
-        {
-          "name": "Peruzzi",
-          "url": "https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf"
-        }
-      ],
-      "duration_ms": 225336,
-      "name": "Aza",
-      "url": "https://open.spotify.com/track/2EWptnQCk6ZcGPDYpXMMJU"
     }
   ],
   "unique_name": "This Is Davido",

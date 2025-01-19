@@ -1,6 +1,6 @@
 {
   "description": "Favoritl\u00e5tar f\u00f6r lugna och sk\u00f6na stunder.",
-  "num_followers": 620762,
+  "num_followers": 620773,
   "original_name": "Lugnt & Sk\u00f6nt",
   "owner": {
     "name": "Spotify",
@@ -139,6 +139,22 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        }
+      ],
+      "duration_ms": 189806,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
         "name": "Lost and found",
         "url": "https://open.spotify.com/album/4lYqiJcxx3bhcZ076VRyjG"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 194785,
       "name": "Lost and found",
       "url": "https://open.spotify.com/track/5GdAGqF9ZI4gADtpVAxqe7"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/5SrfDaHUYiIGprdRBpAy8x"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        }
-      ],
-      "duration_ms": 189806,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/7mdJAkMBPkKYOLxcVPDqa0"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -327,26 +327,6 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "All The Little Lights (Anniversary Edition)",
-        "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
-      },
-      "artists": [
-        {
-          "name": "Passenger",
-          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
-        },
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        }
-      ],
-      "duration_ms": 256986,
-      "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
-      "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
         "name": "Scissors",
         "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
       },
@@ -363,6 +343,26 @@
       "duration_ms": 145622,
       "name": "Scissors",
       "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "All The Little Lights (Anniversary Edition)",
+        "url": "https://open.spotify.com/album/25bKp06DTIMODKnzXQf4gR"
+      },
+      "artists": [
+        {
+          "name": "Passenger",
+          "url": "https://open.spotify.com/artist/0gadJ2b9A4SKsB1RFkBb66"
+        },
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        }
+      ],
+      "duration_ms": 256986,
+      "name": "Let Her Go (feat. Ed Sheeran) - Anniversary Edition",
+      "url": "https://open.spotify.com/track/1nHKI4L5pWrN5CUvW07nHP"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -495,22 +495,26 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "The Parting Glass",
-        "url": "https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO"
+        "name": "A Lovestory",
+        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
       },
       "artists": [
         {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+          "name": "Astrid S",
+          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
         },
         {
-          "name": "Ye Vagabonds",
-          "url": "https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO"
+          "name": "Fay Wildhagen",
+          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
+        },
+        {
+          "name": "Hver gang vi m\u00f8tes",
+          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
         }
       ],
-      "duration_ms": 251000,
-      "name": "The Parting Glass",
-      "url": "https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU"
+      "duration_ms": 184120,
+      "name": "A Lovestory",
+      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -531,18 +535,22 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "It Takes A Woman",
-        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
+        "name": "The Parting Glass",
+        "url": "https://open.spotify.com/album/3hapDRjTtKNAQOuavK6vgO"
       },
       "artists": [
         {
-          "name": "Chris Stapleton",
-          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
+        },
+        {
+          "name": "Ye Vagabonds",
+          "url": "https://open.spotify.com/artist/34Or4SetJBRvrlE8AO1qDO"
         }
       ],
-      "duration_ms": 246986,
-      "name": "It Takes A Woman",
-      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
+      "duration_ms": 251000,
+      "name": "The Parting Glass",
+      "url": "https://open.spotify.com/track/0bbZ3J2KdCT92SlBFORNNU"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -567,26 +575,18 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "A Lovestory",
-        "url": "https://open.spotify.com/album/42ADiGXcG2hT5peZ2R5AMT"
+        "name": "It Takes A Woman",
+        "url": "https://open.spotify.com/album/5x2dlq5qBsCHiC9UVSJ4RR"
       },
       "artists": [
         {
-          "name": "Astrid S",
-          "url": "https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm"
-        },
-        {
-          "name": "Fay Wildhagen",
-          "url": "https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P"
-        },
-        {
-          "name": "Hver gang vi m\u00f8tes",
-          "url": "https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO"
+          "name": "Chris Stapleton",
+          "url": "https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh"
         }
       ],
-      "duration_ms": 184120,
-      "name": "A Lovestory",
-      "url": "https://open.spotify.com/track/468eI0Pa2pHWH99czCghAU"
+      "duration_ms": 246986,
+      "name": "It Takes A Woman",
+      "url": "https://open.spotify.com/track/64lQdlm7FlF0AYZsRaZlBP"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -671,22 +671,6 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "the rest",
-        "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
-      },
-      "artists": [
-        {
-          "name": "boygenius",
-          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
-        }
-      ],
-      "duration_ms": 168263,
-      "name": "Voyager",
-      "url": "https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
         "name": "Heartbeat",
         "url": "https://open.spotify.com/album/5Bsydl8rvTJkqZBFU8vv0d"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 231723,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/2RSHP21KqTUkCfy4xgwuN1"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "Swan Upon Leda",
+        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 222026,
+      "name": "Swan Upon Leda",
+      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -719,18 +719,18 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "Swan Upon Leda",
-        "url": "https://open.spotify.com/album/7m6BGvx8EBvA7VXsoOKMuk"
+        "name": "the rest",
+        "url": "https://open.spotify.com/album/1n0esOkFQdL74PwMwTVgtz"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "boygenius",
+          "url": "https://open.spotify.com/artist/1hLiboQ98IQWhpKeP9vRFw"
         }
       ],
-      "duration_ms": 222026,
-      "name": "Swan Upon Leda",
-      "url": "https://open.spotify.com/track/3TjoLn6AliBGi3QbwwTxKp"
+      "duration_ms": 168263,
+      "name": "Voyager",
+      "url": "https://open.spotify.com/track/6Xl18Edf3v9Z2FLw1H69cr"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -767,58 +767,6 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "S P E Y S I D E",
-        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 209077,
-      "name": "S P E Y S I D E",
-      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
-        "name": "Just Us",
-        "url": "https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 214935,
-      "name": "Just Us",
-      "url": "https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
-        "name": "In A Perfect World (with Julia Michaels)",
-        "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
-      },
-      "artists": [
-        {
-          "name": "Dean Lewis",
-          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
-        },
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        }
-      ],
-      "duration_ms": 191013,
-      "name": "In A Perfect World (with Julia Michaels)",
-      "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
         "name": "ALLTING D\u00c4REMELLAN",
         "url": "https://open.spotify.com/album/03b0ygdn23KMUTWpRmwpON"
       },
@@ -851,6 +799,42 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
+        "name": "In A Perfect World (with Julia Michaels)",
+        "url": "https://open.spotify.com/album/2OFiWC4MyJh72imvTDV3gq"
+      },
+      "artists": [
+        {
+          "name": "Dean Lewis",
+          "url": "https://open.spotify.com/artist/3QSQFmccmX81fWCUSPTS7y"
+        },
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        }
+      ],
+      "duration_ms": 191013,
+      "name": "In A Perfect World (with Julia Michaels)",
+      "url": "https://open.spotify.com/track/2ibGdhv3nTO89VN9KR7N2H"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "Just Us",
+        "url": "https://open.spotify.com/album/72TKdSLyVJMDrw8lPsTNtc"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 214935,
+      "name": "Just Us",
+      "url": "https://open.spotify.com/track/2QIChPucCEGOZjzkqFHxQ6"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
         "name": "Autumn Variations",
         "url": "https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 194277,
       "name": "Magical",
       "url": "https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "S P E Y S I D E",
+        "url": "https://open.spotify.com/album/5VFsihsTprFnqRHyrNxMPs"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 209077,
+      "name": "S P E Y S I D E",
+      "url": "https://open.spotify.com/track/6khKJVbTxzfhbGfHMtyOM8"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -899,18 +899,18 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "Middle Ground",
-        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+        "name": "Bitter Sweet Love",
+        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
       },
       "artists": [
         {
-          "name": "Maroon 5",
-          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
         }
       ],
-      "duration_ms": 219800,
-      "name": "Middle Ground",
-      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
+      "duration_ms": 173400,
+      "name": "Free Falling",
+      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
+        "name": "Middle Ground",
+        "url": "https://open.spotify.com/album/5jmEjw5krglNmuEy45URZT"
+      },
+      "artists": [
+        {
+          "name": "Maroon 5",
+          "url": "https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP"
+        }
+      ],
+      "duration_ms": 219800,
+      "name": "Middle Ground",
+      "url": "https://open.spotify.com/track/3xiccJ9jlTVwC8Yl66eGv5"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
         "name": "Here It Is",
         "url": "https://open.spotify.com/album/0ibF6E9LRmi4Ar7dUKkIaL"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 193389,
       "name": "Here It Is",
       "url": "https://open.spotify.com/track/6EtlSjhcsMofKcd9Kx2cCV"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
-        "name": "Bitter Sweet Love",
-        "url": "https://open.spotify.com/album/02muSEofPSAk276DCafUPb"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 173400,
-      "name": "Free Falling",
-      "url": "https://open.spotify.com/track/13d25rq5AA5ppzekwPwtUz"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -1015,74 +1015,6 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "Your Bones",
-        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
-      },
-      "artists": [
-        {
-          "name": "Chelsea Cutler",
-          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "Your Bones",
-      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
-        "name": "Better Man",
-        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
-      },
-      "artists": [
-        {
-          "name": "Sekou",
-          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
-        }
-      ],
-      "duration_ms": 192130,
-      "name": "Better Man",
-      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
-        "name": "From The Jump (Duet Version)",
-        "url": "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        },
-        {
-          "name": "Kelly Clarkson",
-          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
-        }
-      ],
-      "duration_ms": 231522,
-      "name": "From The Jump (Duet Version)",
-      "url": "https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
-        "name": "Hus utan speglar",
-        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
-      },
-      "artists": [
-        {
-          "name": "Peg Parnevik",
-          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
-        }
-      ],
-      "duration_ms": 164531,
-      "name": "Hus utan speglar",
-      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
         "name": "Act 4: Atonement",
         "url": "https://open.spotify.com/album/7BBJypdDRXvdYsnGDjrHFD"
       },
@@ -1111,6 +1043,74 @@
       "duration_ms": 217960,
       "name": "Never Look Down",
       "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "From The Jump (Duet Version)",
+        "url": "https://open.spotify.com/album/1cScP0vTcI9hTtjoYMeosl"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        },
+        {
+          "name": "Kelly Clarkson",
+          "url": "https://open.spotify.com/artist/3BmGtnKgCSGYIUhmivXKWX"
+        }
+      ],
+      "duration_ms": 231522,
+      "name": "From The Jump (Duet Version)",
+      "url": "https://open.spotify.com/track/3DZXLbZv5uUMZ1R1nsSMQg"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "Your Bones",
+        "url": "https://open.spotify.com/album/4DYdcN6zXdIH8lWmtd1FQV"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Cutler",
+          "url": "https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp"
+        }
+      ],
+      "duration_ms": 159400,
+      "name": "Your Bones",
+      "url": "https://open.spotify.com/track/6bIJHwyaNb1txgOKbYh0rH"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "Hus utan speglar",
+        "url": "https://open.spotify.com/album/5Df3GkRmprbUE1c4SDVmVe"
+      },
+      "artists": [
+        {
+          "name": "Peg Parnevik",
+          "url": "https://open.spotify.com/artist/2lLqHBjAnD1QyH24pOPoH6"
+        }
+      ],
+      "duration_ms": 164531,
+      "name": "Hus utan speglar",
+      "url": "https://open.spotify.com/track/5HlqlmK2aXj8yGuzqxlYxE"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "Better Man",
+        "url": "https://open.spotify.com/album/1hfIWkFQJnxCtCTWshLEX7"
+      },
+      "artists": [
+        {
+          "name": "Sekou",
+          "url": "https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c"
+        }
+      ],
+      "duration_ms": 192130,
+      "name": "Better Man",
+      "url": "https://open.spotify.com/track/7qqOrc0Uvpvl5NvoAPRGLE"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "Mirror (Deluxe)",
-        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
-      },
-      "artists": [
-        {
-          "name": "Lauren Spencer Smith",
-          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
-        }
-      ],
-      "duration_ms": 175550,
-      "name": "Sad Forever",
-      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
         "name": "Genom livet",
         "url": "https://open.spotify.com/album/5Pah6nJz3gdWm1oHnCVjHQ"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 167156,
       "name": "Genom livet",
       "url": "https://open.spotify.com/track/1KR5Mtn7zLFDTPfFlyblc3"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "Mirror (Deluxe)",
+        "url": "https://open.spotify.com/album/5mm7YZkfxMlprJTOJEWfxq"
+      },
+      "artists": [
+        {
+          "name": "Lauren Spencer Smith",
+          "url": "https://open.spotify.com/artist/79AyR6ATpj2LTPxfb6FX50"
+        }
+      ],
+      "duration_ms": 175550,
+      "name": "Sad Forever",
+      "url": "https://open.spotify.com/track/63jCeAYGLcRL21xm0jKlgn"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -1211,22 +1211,6 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "Feeling Good (triple j Like A Version)",
-        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 239299,
-      "name": "Feeling Good - triple j Like A Version",
-      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/6CczqhUdYOH4qLSDnN3zkg"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 232277,
       "name": "Doesn\u2019t Do Me Any Good",
       "url": "https://open.spotify.com/track/3Rou7KR8ctza5jeqQfyer0"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "Feeling Good (triple j Like A Version)",
+        "url": "https://open.spotify.com/album/6YQtpgkFSYr9sF8fTsHbMs"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 239299,
+      "name": "Feeling Good - triple j Like A Version",
+      "url": "https://open.spotify.com/track/4kY3cAWzzKVn3ZmYfOOJul"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
+        "name": "80's",
+        "url": "https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV"
+      },
+      "artists": [
+        {
+          "name": "Moonica Mac",
+          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "80's",
+      "url": "https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
         "name": "Dansa Med Mig (Stripped Version) [feat. Julia Lov]",
         "url": "https://open.spotify.com/album/6IRITh06BmYY5OdplF8mhl"
       },
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "80's",
-        "url": "https://open.spotify.com/album/6FPJRjSJpm6dDcgKOS0dOV"
-      },
-      "artists": [
-        {
-          "name": "Moonica Mac",
-          "url": "https://open.spotify.com/artist/4EeCKtQAywZzC578wwGp1n"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "80's",
-      "url": "https://open.spotify.com/track/2cGlzTR9gC93lc12cZ8afB"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
         "name": "Till dig",
         "url": "https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1"
       },
@@ -1355,38 +1355,6 @@
       "duration_ms": 211000,
       "name": "Du & jag",
       "url": "https://open.spotify.com/track/5lD4PboLvP3yWc3MCULsRb"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
-        "name": "Old Soul",
-        "url": "https://open.spotify.com/album/3hkcvyytxhkLSe5aK5fvNo"
-      },
-      "artists": [
-        {
-          "name": "Charlie South",
-          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "Old Soul",
-      "url": "https://open.spotify.com/track/4mTEtGtUyyRolD7pbSlWnR"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
-        "name": "anywhere",
-        "url": "https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC"
-      },
-      "artists": [
-        {
-          "name": "Malen",
-          "url": "https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g"
-        }
-      ],
-      "duration_ms": 151139,
-      "name": "anywhere",
-      "url": "https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -1443,6 +1411,38 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
+        "name": "Old Soul",
+        "url": "https://open.spotify.com/album/3hkcvyytxhkLSe5aK5fvNo"
+      },
+      "artists": [
+        {
+          "name": "Charlie South",
+          "url": "https://open.spotify.com/artist/12n8WUOyeP6V8jwgC4G97e"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "Old Soul",
+      "url": "https://open.spotify.com/track/4mTEtGtUyyRolD7pbSlWnR"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "anywhere",
+        "url": "https://open.spotify.com/album/5JbRU6OuMz1vcPlnnZNVsC"
+      },
+      "artists": [
+        {
+          "name": "Malen",
+          "url": "https://open.spotify.com/artist/4IdTbZsJ8z00CNjZDdyV4g"
+        }
+      ],
+      "duration_ms": 151139,
+      "name": "anywhere",
+      "url": "https://open.spotify.com/track/3UTw97nvn3xfPsB3RtbdWN"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
         "name": "Deep Down (From the Film \u2018The Abyss\u2019)",
         "url": "https://open.spotify.com/album/0x5GZNE8nfCVKa5UhPwq1u"
       },
@@ -1471,6 +1471,22 @@
       "duration_ms": 170414,
       "name": "Hard To Be Human",
       "url": "https://open.spotify.com/track/3rhcTGF7AK0QsSzMmLVkqu"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "S\u00e5 mycket b\u00e4ttre 2024 (Tolkningarna)",
+        "url": "https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq"
+      },
+      "artists": [
+        {
+          "name": "Seinabo Sey",
+          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
+        }
+      ],
+      "duration_ms": 237561,
+      "name": "Jag vill tacka livet",
+      "url": "https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U"
     },
     {
       "added_at": "2025-01-17 00:00:20",
@@ -1559,22 +1575,6 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "S\u00e5 mycket b\u00e4ttre 2024 (Tolkningarna)",
-        "url": "https://open.spotify.com/album/5MW11hiXsVTNA6gGekn8Dq"
-      },
-      "artists": [
-        {
-          "name": "Seinabo Sey",
-          "url": "https://open.spotify.com/artist/4X0v8sFoDZ6rIfkeOeVm2i"
-        }
-      ],
-      "duration_ms": 237561,
-      "name": "Jag vill tacka livet",
-      "url": "https://open.spotify.com/track/7bgXaQmsifJMTDk80rNd5U"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
         "name": "Oh love",
         "url": "https://open.spotify.com/album/1jkaudEDlOrNjdPNQM3g67"
       },
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "WILD CHILD",
-        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
-      },
-      "artists": [
-        {
-          "name": "charlieonnafriday",
-          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
-        }
-      ],
-      "duration_ms": 133106,
-      "name": "I Don't Wanna Go Downtown",
-      "url": "https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU"
-    },
-    {
-      "added_at": "2025-01-17 00:00:20",
-      "album": {
         "name": "Heaven (Acoustic)",
         "url": "https://open.spotify.com/album/2BVa3nSaQSubIwgKYEtXka"
       },
@@ -1675,18 +1659,34 @@
     {
       "added_at": "2025-01-17 00:00:20",
       "album": {
-        "name": "Slow Running",
-        "url": "https://open.spotify.com/album/5YCkmTgvykc6JFbvT5NlZF"
+        "name": "Awful Liar",
+        "url": "https://open.spotify.com/album/1hormOqpdmUva6N31RPeDg"
       },
       "artists": [
         {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+          "name": "Lisa Ajax",
+          "url": "https://open.spotify.com/artist/15k33gArN2NU6cEYyQC3xZ"
         }
       ],
-      "duration_ms": 262205,
-      "name": "Slow Running",
-      "url": "https://open.spotify.com/track/6qg7RK7REbNVr9eOqPZ8zH"
+      "duration_ms": 182491,
+      "name": "Awful Liar",
+      "url": "https://open.spotify.com/track/4UXJYpHAyh1Y7tXvhKWyc2"
+    },
+    {
+      "added_at": "2025-01-17 00:00:20",
+      "album": {
+        "name": "WILD CHILD",
+        "url": "https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR"
+      },
+      "artists": [
+        {
+          "name": "charlieonnafriday",
+          "url": "https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA"
+        }
+      ],
+      "duration_ms": 133106,
+      "name": "I Don't Wanna Go Downtown",
+      "url": "https://open.spotify.com/track/7tnvzuwBCzMcSqYlLgOyRU"
     }
   ],
   "unique_name": "Lugnt & Sk\u00f6nt",

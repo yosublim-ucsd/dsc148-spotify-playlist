@@ -1,13 +1,29 @@
 {
   "description": "The playlist made for furries, by furries. | Request songs @ Furrest.Online",
-  "num_followers": 445,
+  "num_followers": 449,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADGtIARqUsR99ZPIzPkp+7Zl/ryUjA",
+  "snapshot_id": "AAADGzGiyLymszxeMfM9iNVYvy4WPhPp",
   "tracks": [
+    {
+      "added_at": "2025-01-18 23:27:56",
+      "album": {
+        "name": "CASUAL >:D",
+        "url": "https://open.spotify.com/album/6i3l92cclMejoNliq82wv9"
+      },
+      "artists": [
+        {
+          "name": "lil fasty",
+          "url": "https://open.spotify.com/artist/6yaCScRjwHuniWvfDEyBcU"
+        }
+      ],
+      "duration_ms": 93024,
+      "name": "CASUAL >:D",
+      "url": "https://open.spotify.com/track/3gthipeVjVlyEkLqU8hvGV"
+    },
     {
       "added_at": "2025-01-18 02:13:15",
       "album": {

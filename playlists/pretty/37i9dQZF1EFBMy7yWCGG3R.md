@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0iKz6qu5KoKo2vjBaqe8Z0">Julia Michaels</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,296 likes - 288 songs - 15 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,300 likes - 288 songs - 15 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -285,7 +285,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 275 | [Forever](https://open.spotify.com/track/5CfSDNwDvKZkZWlCLeP8p5) | [Dro Fe](https://open.spotify.com/artist/0JgRstxHntWC1kFPRXgaJd) | [Big Narco 2](https://open.spotify.com/album/5ubyVL0skVdgxsmIN1Gl69) | 2:40 |
 | 276 | [Sway](https://open.spotify.com/track/6yV9zIvGXvFzB964tdq65x) | [White Knight Instrumental](https://open.spotify.com/artist/46mFShagVGedAtk3aIxg4l) | [Instrumental Covers of the Pussycat Dolls](https://open.spotify.com/album/5uACZWBERupfGnOHQmuoxi) | 3:13 |
 | 277 | [Easy Lover \- Workout Remix 140 Bpm](https://open.spotify.com/track/3r36au0ztmAKCiPLKr6nIJ) | [Workout Music Tv](https://open.spotify.com/artist/0k5KeG8St6LiePh5blOwwl) | [Kick Boxing Fall 2022 Workout Session \(60 Minutes Non\-Stop Mixed Compilation for Fitness & Workout \- 140 Bpm / 32 Count\)](https://open.spotify.com/album/2wpWGNSbdTSjjOJiwYuiSt) | 3:53 |
-| 278 | [Who You Are](https://open.spotify.com/track/3xg7PX8PzLHzvejaShh2tt) | [Julia](https://open.spotify.com/artist/5invLjAbMjYAs5zAzPgvOD) | [Super Girl](https://open.spotify.com/album/1Cc0VhEOuzBebDytKToJmC) | 3:17 |
+| 278 | [Who You Are](https://open.spotify.com/track/3xg7PX8PzLHzvejaShh2tt) | [Julia](https://open.spotify.com/artist/3iKuQ9K89SSUkTH67EILJf) | [Super Girl](https://open.spotify.com/album/1Cc0VhEOuzBebDytKToJmC) | 3:17 |
 | 279 | [Clean](https://open.spotify.com/track/5RJZVsJ1AtdlmUjO9ZJz0U) | [Container 90](https://open.spotify.com/artist/4MHWISvr8CHu0KwaZKUCuS) | [World ChampionShit](https://open.spotify.com/album/5pcxqalhjZjgdGQcff7hgH) | 4:27 |
 | 280 | [Don't Mind \- A.P\. Remix](https://open.spotify.com/track/6B919zI8u4Qw9HVa7J0oYS) | [Sopik](https://open.spotify.com/artist/0uiVxrM68v5NoVFPQshjtm), [A.P.](https://open.spotify.com/artist/2CDW0Jl4tv5lKunTPozN3k) | [Don't Mind \[Remixes\]](https://open.spotify.com/album/0Qu12kcCWN9M1rWy57ae6T) | 6:55 |
 | 281 | [No Filter \- Trommer Remix](https://open.spotify.com/track/1k6nghthvwndkQdF1Ib3A2) | [EZEK](https://open.spotify.com/artist/5U2GxDdFtp1NLVsUc2o9TU), [Trommer](https://open.spotify.com/artist/6ql1tTiamEtDMwpA8qpupq) | [No Filter](https://open.spotify.com/album/6oe1oXdwjs51jP3AUTKMTb) | 7:44 |
@@ -297,4 +297,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBMy7yWCGG3R.md) - [plain]
 | 287 | [Peace Of Mind](https://open.spotify.com/track/4Idr1z7T2bII6J2AqiyLlQ) | [BeaRSawse](https://open.spotify.com/artist/6E8Fnr97BcuynjkSJwlK69) | [DON'T TAKE THIS SERIOUS Vol.2](https://open.spotify.com/album/3dN10aaPR4bO7MJtcGa5yD) | 3:09 |
 | 288 | [It's Not You](https://open.spotify.com/track/4Bs02m3Wc1B3CAyNQPzTjQ) | [Michael Reiser](https://open.spotify.com/artist/1j8LcBs60GqvQuleshFkhw) | [Quiet Moon](https://open.spotify.com/album/2f1yMMxCo13pt6Ao1ZXyBJ) | 3:33 |
 
-Snapshot ID: `AbnI9AAAAAAgdeKesAot+TVtIrT6tiHX`
+Snapshot ID: `AbnOdgAAAACS2QtznMLY5A+9CvOFhZo9`

@@ -1,6 +1,6 @@
 {
   "description": "Continue giving God praise with these classic worship songs! Cover: Matt Redman",
-  "num_followers": 336715,
+  "num_followers": 336829,
   "original_name": "Worship Classics",
   "owner": {
     "name": "Spotify",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Awake",
-        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 265133,
-      "name": "King Of Kings",
-      "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Neon Steeple",
         "url": "https://open.spotify.com/album/0SZuWTFCgmLbEwKvDcDiDf"
       },
@@ -991,6 +971,26 @@
       "duration_ms": 302577,
       "name": "Holy Spirit",
       "url": "https://open.spotify.com/track/0VqMBJyeeRA4I6mSPO5uqZ"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Awake",
+        "url": "https://open.spotify.com/album/6ZPHrDQvgzBcaKtGUMd9rC"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 265133,
+      "name": "King Of Kings",
+      "url": "https://open.spotify.com/track/5E2v6b4Mo4jxuPrcK4YEIF"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1823,22 +1823,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Just Be",
-        "url": "https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 273960,
-      "name": "Just Be",
-      "url": "https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Battles",
         "url": "https://open.spotify.com/album/6JxqRfI35r8hqBDj4bReFv"
       },
@@ -1851,6 +1835,22 @@
       "duration_ms": 437360,
       "name": "Defender",
       "url": "https://open.spotify.com/track/7vye6MbNlJ61o97p2Ccb8r"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Just Be",
+        "url": "https://open.spotify.com/album/3HHaO3Bpaf6UEt225M55Us"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 273960,
+      "name": "Just Be",
+      "url": "https://open.spotify.com/track/65O1Ry1edYOixyVOCXXY7R"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Insatiable",
-        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
-      },
-      "artists": [
-        {
-          "name": "Kim Walker-Smith",
-          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
-        }
-      ],
-      "duration_ms": 266620,
-      "name": "Insatiable",
-      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Alive Again",
         "url": "https://open.spotify.com/album/6Y07x7oqvxOt0oUiBBWaHX"
       },
@@ -1987,6 +1971,22 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
+        "name": "Insatiable",
+        "url": "https://open.spotify.com/album/6FZGWRfo7AVtW8134aKpan"
+      },
+      "artists": [
+        {
+          "name": "Kim Walker-Smith",
+          "url": "https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz"
+        }
+      ],
+      "duration_ms": 266620,
+      "name": "Insatiable",
+      "url": "https://open.spotify.com/track/4akWCQ67naeytv8v0CIhVu"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
         "name": "Canvas And Clay (Live)",
         "url": "https://open.spotify.com/album/4N1jzfvc9FTcDWqQnD46Rv"
       },
@@ -2027,22 +2027,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Lord Send Revival (Live)",
-        "url": "https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Young & Free",
-          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
-        }
-      ],
-      "duration_ms": 402052,
-      "name": "Lord Send Revival - Live",
-      "url": "https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "The Power of Your Name",
         "url": "https://open.spotify.com/album/11ERH4AY90y6lkIn5HwJrb"
       },
@@ -2059,6 +2043,22 @@
       "duration_ms": 395371,
       "name": "The Power of Your Name",
       "url": "https://open.spotify.com/track/6Y6s7XxfE0uHrh2V4hM8EF"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Lord Send Revival (Live)",
+        "url": "https://open.spotify.com/album/6ya12fuStrbncKsL57ekwF"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Young & Free",
+          "url": "https://open.spotify.com/artist/7m4gF38CPATtHrk5HS42WZ"
+        }
+      ],
+      "duration_ms": 402052,
+      "name": "Lord Send Revival - Live",
+      "url": "https://open.spotify.com/track/1XjxnzmxzFPEKoGBjDTolQ"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2207,22 +2207,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Worship With Don Moen",
-        "url": "https://open.spotify.com/album/4t2n1gHda7XMuUa3bxgiT5"
-      },
-      "artists": [
-        {
-          "name": "Don Moen",
-          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "I Worship You Almighty God",
-      "url": "https://open.spotify.com/track/0JG48Th3ip08g9y5x5qDNl"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "One and Only",
         "url": "https://open.spotify.com/album/34TxhWZkBsTUFJYhPnkvtN"
       },
@@ -2235,6 +2219,22 @@
       "duration_ms": 326733,
       "name": "Audience of One",
       "url": "https://open.spotify.com/track/6s2kbczHvB0VDd5US1J5AL"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Worship With Don Moen",
+        "url": "https://open.spotify.com/album/4t2n1gHda7XMuUa3bxgiT5"
+      },
+      "artists": [
+        {
+          "name": "Don Moen",
+          "url": "https://open.spotify.com/artist/2JGLjTHV2t8u8wxmLaiFfe"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "I Worship You Almighty God",
+      "url": "https://open.spotify.com/track/0JG48Th3ip08g9y5x5qDNl"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -2367,22 +2367,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Amazing Love",
-        "url": "https://open.spotify.com/album/2W98WWOtzGwZTcKeLDV1CG"
-      },
-      "artists": [
-        {
-          "name": "Graham Kendrick",
-          "url": "https://open.spotify.com/artist/1srLlKy0yVmQorLl9PhXbS"
-        }
-      ],
-      "duration_ms": 279093,
-      "name": "Only By Grace",
-      "url": "https://open.spotify.com/track/1jlUPNZoiY8rMuDDX2M84Q"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "The Reason",
         "url": "https://open.spotify.com/album/347JypsBn6wwUeQtPaoMQV"
       },
@@ -2395,6 +2379,22 @@
       "duration_ms": 297333,
       "name": "In Christ Alone / The Solid Rock - Medley",
       "url": "https://open.spotify.com/track/7lFVnw9VGXTxUcjlrSH4g6"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Amazing Love",
+        "url": "https://open.spotify.com/album/2W98WWOtzGwZTcKeLDV1CG"
+      },
+      "artists": [
+        {
+          "name": "Graham Kendrick",
+          "url": "https://open.spotify.com/artist/1srLlKy0yVmQorLl9PhXbS"
+        }
+      ],
+      "duration_ms": 279093,
+      "name": "Only By Grace",
+      "url": "https://open.spotify.com/track/1jlUPNZoiY8rMuDDX2M84Q"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -3147,22 +3147,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "There Is More (Studio Sessions)",
-        "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 199520,
-      "name": "Who You Say I Am",
-      "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "United We Stand (Live)",
         "url": "https://open.spotify.com/album/50naWCBZJurPrqIL4p2V6f"
       },
@@ -3175,6 +3159,22 @@
       "duration_ms": 378986,
       "name": "From The Inside Out - Live",
       "url": "https://open.spotify.com/track/3PcIyN4w8oNpcPFv4dNeVy"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "There Is More (Studio Sessions)",
+        "url": "https://open.spotify.com/album/2kwKl75APbUs1AxEv74JdQ"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 199520,
+      "name": "Who You Say I Am",
+      "url": "https://open.spotify.com/track/0jBu6T5GgOekdHuXA5hVQM"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -3283,22 +3283,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "Glorious Ruins (Live)",
-        "url": "https://open.spotify.com/album/7xLjYHAsg4pe76OLFWGFks"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        }
-      ],
-      "duration_ms": 314546,
-      "name": "Man Of Sorrows - Live",
-      "url": "https://open.spotify.com/track/7tURQQhMTcJXIVe1dvji7v"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "People (Live)",
         "url": "https://open.spotify.com/album/6Ek7aLgG88iYlJLKLvFdPT"
       },
@@ -3315,6 +3299,22 @@
       "duration_ms": 265518,
       "name": "Another In The Fire",
       "url": "https://open.spotify.com/track/2e7UGyxFACAfwHjmgNNMbS"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "Glorious Ruins (Live)",
+        "url": "https://open.spotify.com/album/7xLjYHAsg4pe76OLFWGFks"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        }
+      ],
+      "duration_ms": 314546,
+      "name": "Man Of Sorrows - Live",
+      "url": "https://open.spotify.com/track/7tURQQhMTcJXIVe1dvji7v"
     },
     {
       "added_at": "2024-12-11 10:16:32",
@@ -3403,26 +3403,6 @@
     {
       "added_at": "2024-12-11 10:16:32",
       "album": {
-        "name": "This Is Our God (Live)",
-        "url": "https://open.spotify.com/album/64JHslZZ5Y8uj0HhjGr7th"
-      },
-      "artists": [
-        {
-          "name": "Hillsong Worship",
-          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
-        },
-        {
-          "name": "Brooke Ligertwood",
-          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
-        }
-      ],
-      "duration_ms": 250973,
-      "name": "Desert Song - Live",
-      "url": "https://open.spotify.com/track/47ayLGE4g5YsyGgmrZzJ1f"
-    },
-    {
-      "added_at": "2024-12-11 10:16:32",
-      "album": {
         "name": "Burning Lights",
         "url": "https://open.spotify.com/album/3tSSB1DofuOXRnNXPDjwiW"
       },
@@ -3439,6 +3419,26 @@
       "duration_ms": 312963,
       "name": "Crown Him (Majesty)",
       "url": "https://open.spotify.com/track/23hpQH3gde7yxn89rBxksN"
+    },
+    {
+      "added_at": "2024-12-11 10:16:32",
+      "album": {
+        "name": "This Is Our God (Live)",
+        "url": "https://open.spotify.com/album/64JHslZZ5Y8uj0HhjGr7th"
+      },
+      "artists": [
+        {
+          "name": "Hillsong Worship",
+          "url": "https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24"
+        },
+        {
+          "name": "Brooke Ligertwood",
+          "url": "https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC"
+        }
+      ],
+      "duration_ms": 250973,
+      "name": "Desert Song - Live",
+      "url": "https://open.spotify.com/track/47ayLGE4g5YsyGgmrZzJ1f"
     },
     {
       "added_at": "2024-12-11 10:16:32",

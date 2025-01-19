@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Luna Zuazu.",
-  "num_followers": 19499,
+  "num_followers": 19502,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -763,22 +763,6 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Nunca Llega 05",
-        "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lacunza",
-          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
-        }
-      ],
-      "duration_ms": 159056,
-      "name": "Nunca Llega 05",
-      "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
-    },
-    {
-      "added_at": "2025-01-07 23:00:01",
-      "album": {
         "name": "Confieso",
         "url": "https://open.spotify.com/album/2ySp1RZ1gkmH1aVIFkR2sU"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 180481,
       "name": "Confieso",
       "url": "https://open.spotify.com/track/0CMhIGS8QEIIq92amMvZCe"
+    },
+    {
+      "added_at": "2025-01-07 23:00:01",
+      "album": {
+        "name": "Nunca Llega 05",
+        "url": "https://open.spotify.com/album/1I4mCP5FZrrUX2PYRWO07f"
+      },
+      "artists": [
+        {
+          "name": "Natalia Lacunza",
+          "url": "https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP"
+        }
+      ],
+      "duration_ms": 159056,
+      "name": "Nunca Llega 05",
+      "url": "https://open.spotify.com/track/7jnSPE7jVrhO9nVFUWcslf"
     },
     {
       "added_at": "2025-01-07 23:00:01",
@@ -943,18 +943,18 @@
     {
       "added_at": "2025-01-07 23:00:01",
       "album": {
-        "name": "Collar Fular",
-        "url": "https://open.spotify.com/album/1JuSedkicPVexihsz6qHuP"
+        "name": "Paris Hilton",
+        "url": "https://open.spotify.com/album/1GixI3bHkUq3WEtPXnDkQT"
       },
       "artists": [
         {
-          "name": "Ojete Calor",
-          "url": "https://open.spotify.com/artist/39OG2j99BjXdZbgj9mgF9x"
+          "name": "Jordana B.",
+          "url": "https://open.spotify.com/artist/3aqVNqgYvDz8VF5n6nJBDD"
         }
       ],
-      "duration_ms": 132680,
-      "name": "Collar Fular",
-      "url": "https://open.spotify.com/track/4s2eThXBozqzc54PX5ZfvJ"
+      "duration_ms": 215516,
+      "name": "Paris Hilton",
+      "url": "https://open.spotify.com/track/4X0mNzqvErzoXWqAllTozS"
     }
   ],
   "unique_name": "Glow Espa\u00f1a",

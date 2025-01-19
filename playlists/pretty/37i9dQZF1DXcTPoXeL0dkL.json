@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los grandes nombres del Vallenato viven aqu\u00ed!",
-  "num_followers": 208758,
+  "num_followers": 208807,
   "original_name": "Vallenato Full Bacano",
   "owner": {
     "name": "Spotify",
@@ -503,18 +503,22 @@
     {
       "added_at": "2025-01-10 17:43:02",
       "album": {
-        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
-        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
+        "name": "10 A\u00f1os De \u00c9xitos",
+        "url": "https://open.spotify.com/album/7D92qocb9QcTxAEu8jx0Dj"
       },
       "artists": [
         {
           "name": "Jorge Celed\u00f3n",
           "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
+        },
+        {
+          "name": "Jimmy Zambrano",
+          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 252706,
-      "name": "Parranda en el Cafetal",
-      "url": "https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi"
+      "duration_ms": 270106,
+      "name": "No Merezco Tanto Silencio",
+      "url": "https://open.spotify.com/track/2ziBdd68fIz53nTUWmeo6l"
     },
     {
       "added_at": "2025-01-10 17:43:02",
@@ -623,22 +627,18 @@
     {
       "added_at": "2025-01-10 17:43:02",
       "album": {
-        "name": "10 A\u00f1os De \u00c9xitos",
-        "url": "https://open.spotify.com/album/7D92qocb9QcTxAEu8jx0Dj"
+        "name": "Jorge Celed\u00f3n & Jimmy Zambrano De Lo Nuevo... Lo Mejor",
+        "url": "https://open.spotify.com/album/6R35eXDADiNHvwcVhsC27D"
       },
       "artists": [
         {
           "name": "Jorge Celed\u00f3n",
           "url": "https://open.spotify.com/artist/7rNbdH4pgrnwguvzxhA2Ek"
-        },
-        {
-          "name": "Jimmy Zambrano",
-          "url": "https://open.spotify.com/artist/3uKiTiDNyvbeVE5zlM4Zlj"
         }
       ],
-      "duration_ms": 270106,
-      "name": "No Merezco Tanto Silencio",
-      "url": "https://open.spotify.com/track/2ziBdd68fIz53nTUWmeo6l"
+      "duration_ms": 252706,
+      "name": "Parranda en el Cafetal",
+      "url": "https://open.spotify.com/track/4t1HrUv6iMdLK6nDpvdMLi"
     },
     {
       "added_at": "2025-01-10 17:43:02",

@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb with Gordo",
-  "num_followers": 64837,
+  "num_followers": 64996,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,30 @@
     {
       "added_at": "2025-01-17 05:00:48",
       "album": {
+        "name": "Morenita",
+        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
+      },
+      "artists": [
+        {
+          "name": "Cumbiafrica",
+          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
+        },
+        {
+          "name": "Lucas Estrada",
+          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
+        },
+        {
+          "name": "Paradise Inc.",
+          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
+        }
+      ],
+      "duration_ms": 178816,
+      "name": "Morenita",
+      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
+    },
+    {
+      "added_at": "2025-01-17 05:00:48",
+      "album": {
         "name": "Bandolera",
         "url": "https://open.spotify.com/album/5GwGA7XXx9mjUISFnkk7Bp"
       },
@@ -751,30 +775,6 @@
       "duration_ms": 117667,
       "name": "Bandolera",
       "url": "https://open.spotify.com/track/1ojVykojpI0LHcD6SQFSpe"
-    },
-    {
-      "added_at": "2025-01-17 05:00:48",
-      "album": {
-        "name": "Morenita",
-        "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
-      },
-      "artists": [
-        {
-          "name": "Cumbiafrica",
-          "url": "https://open.spotify.com/artist/72zmP13MQQhZHt4Kl0FOTs"
-        },
-        {
-          "name": "Lucas Estrada",
-          "url": "https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz"
-        },
-        {
-          "name": "Paradise Inc.",
-          "url": "https://open.spotify.com/artist/67vOeDGgGxBetc1ckJH6Ka"
-        }
-      ],
-      "duration_ms": 178816,
-      "name": "Morenita",
-      "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
     },
     {
       "added_at": "2025-01-17 05:00:48",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2025-01-17 05:00:48",
       "album": {
+        "name": "Barah\u00fanda",
+        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
+      },
+      "artists": [
+        {
+          "name": "Monge",
+          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
+        }
+      ],
+      "duration_ms": 139082,
+      "name": "Barah\u00fanda",
+      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
+    },
+    {
+      "added_at": "2025-01-17 05:00:48",
+      "album": {
         "name": "Sola",
         "url": "https://open.spotify.com/album/4L10sDlgzuYQbPCz0sgZOU"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 105703,
       "name": "Sola",
       "url": "https://open.spotify.com/track/1L1tBBzEQ2OxchU3Ti5zdX"
-    },
-    {
-      "added_at": "2025-01-17 05:00:48",
-      "album": {
-        "name": "Barah\u00fanda",
-        "url": "https://open.spotify.com/album/1FQDhOTFGyuBHt3jSULiOv"
-      },
-      "artists": [
-        {
-          "name": "Monge",
-          "url": "https://open.spotify.com/artist/6DZ0EGYRySI2aVb4NVSDd1"
-        }
-      ],
-      "duration_ms": 139082,
-      "name": "Barah\u00fanda",
-      "url": "https://open.spotify.com/track/2ZuWHrPX5Qas5lQ4fqAcXS"
     },
     {
       "added_at": "2025-01-17 05:00:48",
@@ -1483,6 +1483,26 @@
     {
       "added_at": "2025-01-17 05:00:48",
       "album": {
+        "name": "Matadora (Radio Edit)",
+        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
+      },
+      "artists": [
+        {
+          "name": "Maahez",
+          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Matadora - Radio Edit",
+      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
+    },
+    {
+      "added_at": "2025-01-17 05:00:48",
+      "album": {
         "name": "Cuando Fue (feat. Jay Wheeler)",
         "url": "https://open.spotify.com/album/57iSYR56c4nm0b0IOOMFU6"
       },
@@ -1503,26 +1523,6 @@
       "duration_ms": 183310,
       "name": "Cuando Fue (feat. Jay Wheeler)",
       "url": "https://open.spotify.com/track/4ZO5ZKx2VaTILp5oZGOY61"
-    },
-    {
-      "added_at": "2025-01-17 05:00:48",
-      "album": {
-        "name": "Matadora (Radio Edit)",
-        "url": "https://open.spotify.com/album/0Zmw4jLJ56fa35F7xzeizV"
-      },
-      "artists": [
-        {
-          "name": "Maahez",
-          "url": "https://open.spotify.com/artist/3i6JYFidKoDsJTtRLMkPXZ"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Matadora - Radio Edit",
-      "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
     },
     {
       "added_at": "2025-01-17 05:00:48",
@@ -1819,26 +1819,6 @@
     {
       "added_at": "2025-01-17 05:00:48",
       "album": {
-        "name": "Bidi Bam",
-        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        },
-        {
-          "name": "Jenn Morel",
-          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
-        }
-      ],
-      "duration_ms": 120930,
-      "name": "Bidi Bam",
-      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
-    },
-    {
-      "added_at": "2025-01-17 05:00:48",
-      "album": {
         "name": "Satisfied",
         "url": "https://open.spotify.com/album/5Ao966nL5V38v8652399lo"
       },
@@ -1855,6 +1835,26 @@
       "duration_ms": 186713,
       "name": "Satisfied",
       "url": "https://open.spotify.com/track/0swB7iITDrfzrKqQXR661u"
+    },
+    {
+      "added_at": "2025-01-17 05:00:48",
+      "album": {
+        "name": "Bidi Bam",
+        "url": "https://open.spotify.com/album/1RreSdbQIKRdAQx1Nj5jl7"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        },
+        {
+          "name": "Jenn Morel",
+          "url": "https://open.spotify.com/artist/7iWWbIVw66I3hHVy9crw6a"
+        }
+      ],
+      "duration_ms": 120930,
+      "name": "Bidi Bam",
+      "url": "https://open.spotify.com/track/2xmyChXyNeUWhxQIdlk9mY"
     },
     {
       "added_at": "2025-01-17 05:00:48",

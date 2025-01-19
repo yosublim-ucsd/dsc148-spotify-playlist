@@ -1,6 +1,6 @@
 {
   "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Jean Tassy",
-  "num_followers": 293235,
+  "num_followers": 293244,
   "original_name": "brisa",
   "owner": {
     "name": "Spotify",
@@ -1071,6 +1071,26 @@
     {
       "added_at": "2025-01-17 03:00:04",
       "album": {
+        "name": "eu n\u00e3o queria mais nada",
+        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
+      },
+      "artists": [
+        {
+          "name": "bela",
+          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
+        },
+        {
+          "name": "contito",
+          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
+        }
+      ],
+      "duration_ms": 148187,
+      "name": "eu n\u00e3o queria mais nada",
+      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
+    },
+    {
+      "added_at": "2025-01-17 03:00:04",
+      "album": {
         "name": "O Agora",
         "url": "https://open.spotify.com/album/2WWfpmd4ixsB2plCwPRsmC"
       },
@@ -1091,26 +1111,6 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
-    },
-    {
-      "added_at": "2025-01-17 03:00:04",
-      "album": {
-        "name": "eu n\u00e3o queria mais nada",
-        "url": "https://open.spotify.com/album/7fgvOLMEcCid3ARWQif6hc"
-      },
-      "artists": [
-        {
-          "name": "bela",
-          "url": "https://open.spotify.com/artist/1xiD7F83C6p1qxL4tWohcD"
-        },
-        {
-          "name": "contito",
-          "url": "https://open.spotify.com/artist/20mSlUD4qdidUcGtz9PrvT"
-        }
-      ],
-      "duration_ms": 148187,
-      "name": "eu n\u00e3o queria mais nada",
-      "url": "https://open.spotify.com/track/0brEYv71k1NrZEKuyRmKL3"
     },
     {
       "added_at": "2025-01-17 03:00:04",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2025-01-17 03:00:04",
       "album": {
-        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
-        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
-      },
-      "artists": [
-        {
-          "name": "Fi Barreto",
-          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
-        }
-      ],
-      "duration_ms": 123600,
-      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
-      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
-    },
-    {
-      "added_at": "2025-01-17 03:00:04",
-      "album": {
         "name": "O Som do Litoral",
         "url": "https://open.spotify.com/album/3NMCvWJPRL56sFSfmEabuL"
       },
@@ -1195,30 +1179,6 @@
       "duration_ms": 174064,
       "name": "Espa\u00e7o Aberto",
       "url": "https://open.spotify.com/track/64pvZ766S9JymsAgCHQflR"
-    },
-    {
-      "added_at": "2025-01-17 03:00:04",
-      "album": {
-        "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-        "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
-      },
-      "artists": [
-        {
-          "name": "Vit\u00e3o",
-          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
-        },
-        {
-          "name": "Ferrugem",
-          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
-        },
-        {
-          "name": "WC no Beat",
-          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
-        }
-      ],
-      "duration_ms": 168448,
-      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
-      "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
     },
     {
       "added_at": "2025-01-17 03:00:04",
@@ -1251,6 +1211,46 @@
     {
       "added_at": "2025-01-17 03:00:04",
       "album": {
+        "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+        "url": "https://open.spotify.com/album/0jWlOY3pDrv5eQpoz9ds2X"
+      },
+      "artists": [
+        {
+          "name": "Vit\u00e3o",
+          "url": "https://open.spotify.com/artist/06lnOkY99sXVW44Y0M4BDP"
+        },
+        {
+          "name": "Ferrugem",
+          "url": "https://open.spotify.com/artist/5ZfBThYiIIhL7jHMG8gDB2"
+        },
+        {
+          "name": "WC no Beat",
+          "url": "https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS"
+        }
+      ],
+      "duration_ms": 168448,
+      "name": "Proposital (Cita\u00e7\u00e3o Aquele Abra\u00e7o)",
+      "url": "https://open.spotify.com/track/4I1dCogzyGuaP5uIXrMTs2"
+    },
+    {
+      "added_at": "2025-01-17 03:00:04",
+      "album": {
+        "name": "Ib\u00e9rico (O Canto do Beija-Flor-de-Gravata-Verde)",
+        "url": "https://open.spotify.com/album/138YzrA0SuuS8fwiBs9Lua"
+      },
+      "artists": [
+        {
+          "name": "Fi Barreto",
+          "url": "https://open.spotify.com/artist/5hJ0ykBQGDxLmp3Lw7DpBe"
+        }
+      ],
+      "duration_ms": 123600,
+      "name": "Ib\u00e9rico - O Canto do Beija-Flor-de-Gravata-Verde",
+      "url": "https://open.spotify.com/track/1bbShYj2Vz5n9NZ4TtkfYj"
+    },
+    {
+      "added_at": "2025-01-17 03:00:04",
+      "album": {
         "name": "Vinho",
         "url": "https://open.spotify.com/album/4uU2HBHwoCdQQQZUmZB0G9"
       },
@@ -1271,30 +1271,6 @@
       "duration_ms": 183211,
       "name": "\u00faltimo rom\u00e2ntico",
       "url": "https://open.spotify.com/track/73yEnFvnQmSJNMi92fnz6m"
-    },
-    {
-      "added_at": "2025-01-17 03:00:04",
-      "album": {
-        "name": "Quem Vai Ser?",
-        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
-      },
-      "artists": [
-        {
-          "name": "Mar\u00edlia Lopes",
-          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
-        },
-        {
-          "name": "Rashid",
-          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
-        },
-        {
-          "name": "CANETARIA",
-          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
-        }
-      ],
-      "duration_ms": 157918,
-      "name": "Quem Vai Ser?",
-      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
     },
     {
       "added_at": "2025-01-17 03:00:04",
@@ -1343,6 +1319,30 @@
       "duration_ms": 133921,
       "name": "n\u00e3o te amo mais",
       "url": "https://open.spotify.com/track/3kFI2dFHYvFsB3KSyzN5ko"
+    },
+    {
+      "added_at": "2025-01-17 03:00:04",
+      "album": {
+        "name": "Quem Vai Ser?",
+        "url": "https://open.spotify.com/album/2NP2vLsbMBD6fcFWkb3lsz"
+      },
+      "artists": [
+        {
+          "name": "Mar\u00edlia Lopes",
+          "url": "https://open.spotify.com/artist/2TGcXvWmLlIaFMuYWoys1U"
+        },
+        {
+          "name": "Rashid",
+          "url": "https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH"
+        },
+        {
+          "name": "CANETARIA",
+          "url": "https://open.spotify.com/artist/6P6uQzjvmHHsygCrGiEmBS"
+        }
+      ],
+      "duration_ms": 157918,
+      "name": "Quem Vai Ser?",
+      "url": "https://open.spotify.com/track/3b3TgmrEVvWEQ3VCTbz95m"
     },
     {
       "added_at": "2025-01-17 03:00:04",
@@ -1603,26 +1603,6 @@
     {
       "added_at": "2025-01-17 03:00:04",
       "album": {
-        "name": "O Que Voc\u00ea Quiser",
-        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
-      },
-      "artists": [
-        {
-          "name": "Pel\u00e9 MilFlows",
-          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
-        },
-        {
-          "name": "Liu Beatz",
-          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "O Que Voc\u00ea Quiser",
-      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
-    },
-    {
-      "added_at": "2025-01-17 03:00:04",
-      "album": {
         "name": "Jeito Doce",
         "url": "https://open.spotify.com/album/3566q2civxcN8c7gx8TiJe"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 182500,
       "name": "Jeito Doce",
       "url": "https://open.spotify.com/track/4QoYhyxLJ8HveJPflDIGhP"
+    },
+    {
+      "added_at": "2025-01-17 03:00:04",
+      "album": {
+        "name": "O Que Voc\u00ea Quiser",
+        "url": "https://open.spotify.com/album/2l0DlAqbZU9gtnhV7kJ3fk"
+      },
+      "artists": [
+        {
+          "name": "Pel\u00e9 MilFlows",
+          "url": "https://open.spotify.com/artist/4WbHbolEKZIhnkO2xv2Lm0"
+        },
+        {
+          "name": "Liu Beatz",
+          "url": "https://open.spotify.com/artist/106xNJkxSAfb0o8GIt6joQ"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "O Que Voc\u00ea Quiser",
+      "url": "https://open.spotify.com/track/1IewiHtYbNWvkjqpbkn8kN"
     },
     {
       "added_at": "2025-01-17 03:00:04",
@@ -1711,6 +1711,26 @@
     {
       "added_at": "2025-01-17 03:00:04",
       "album": {
+        "name": "Naturalmente",
+        "url": "https://open.spotify.com/album/59w70fXpOJqCTQLK90p2Co"
+      },
+      "artists": [
+        {
+          "name": "Sagaz",
+          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
+        },
+        {
+          "name": "Du10",
+          "url": "https://open.spotify.com/artist/5x35imJ0DLzAkC9mjmmeAJ"
+        }
+      ],
+      "duration_ms": 115763,
+      "name": "Naturalmente",
+      "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
+    },
+    {
+      "added_at": "2025-01-17 03:00:04",
+      "album": {
         "name": "Ins\u00f4nia",
         "url": "https://open.spotify.com/album/2wJVJm1Rg9PO2eOrQeZFa0"
       },
@@ -1735,22 +1755,22 @@
     {
       "added_at": "2025-01-17 03:00:04",
       "album": {
-        "name": "Naturalmente",
-        "url": "https://open.spotify.com/album/59w70fXpOJqCTQLK90p2Co"
+        "name": "AINDA T\u00d4 NO PROCESSO",
+        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
       },
       "artists": [
         {
-          "name": "Sagaz",
-          "url": "https://open.spotify.com/artist/5rl6n6CUJu1WGsvzf5m8M8"
+          "name": "Rafa Bicalho",
+          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
         },
         {
-          "name": "Du10",
-          "url": "https://open.spotify.com/artist/5x35imJ0DLzAkC9mjmmeAJ"
+          "name": "SEST",
+          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
         }
       ],
-      "duration_ms": 115763,
-      "name": "Naturalmente",
-      "url": "https://open.spotify.com/track/2ptglFQqEtPggQpBX4nUFn"
+      "duration_ms": 211647,
+      "name": "AINDA T\u00d4 NO PROCESSO",
+      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
     },
     {
       "added_at": "2025-01-17 03:00:04",
@@ -1771,26 +1791,6 @@
       "duration_ms": 136430,
       "name": "Seu Z\u00e9",
       "url": "https://open.spotify.com/track/7uZm4WI4OqH25LFlNobiff"
-    },
-    {
-      "added_at": "2025-01-17 03:00:04",
-      "album": {
-        "name": "AINDA T\u00d4 NO PROCESSO",
-        "url": "https://open.spotify.com/album/44OZLqQGTBzaV9QLM5EeEN"
-      },
-      "artists": [
-        {
-          "name": "Rafa Bicalho",
-          "url": "https://open.spotify.com/artist/6P7ApWt4Cqh2UsxK3l1tfE"
-        },
-        {
-          "name": "SEST",
-          "url": "https://open.spotify.com/artist/6TaJMoxhKD43q5yWg2XlHQ"
-        }
-      ],
-      "duration_ms": 211647,
-      "name": "AINDA T\u00d4 NO PROCESSO",
-      "url": "https://open.spotify.com/track/2ProqeIk4CM7ZmUmYCqUsQ"
     },
     {
       "added_at": "2025-01-17 03:00:04",

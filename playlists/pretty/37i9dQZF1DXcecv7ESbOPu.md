@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik! Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,284 likes - 103 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,314 likes - 103 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 65 | [WHISTLE](https://open.spotify.com/track/2g0lcbepYzcfts6khNOUpL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [WHISTLE](https://open.spotify.com/album/76oXPkkbhtHmG0UkuZZqDW) | 2:11 |
 | 66 | [Someone For Me](https://open.spotify.com/track/2LtoZ6EThyjG4QscR6MuZC) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA), [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH) | [Someone For Me](https://open.spotify.com/album/1b5E2J5Uh6Trif3ZvPMu5o) | 2:19 |
 | 67 | [CHROMA 008 TANGZ](https://open.spotify.com/track/5CQ8kbCeDFZmASjXzp2I6b) | [BICEP](https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga), [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [CHROMA 008](https://open.spotify.com/album/5V70JZgrMpZ6oZowA3h8Yb) | 5:12 |
-| 68 | [Canva \(How?\)](https://open.spotify.com/track/6s1NOGFMIH1GXDczlZmJTM) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Mayday](https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy), [DubzCo](https://open.spotify.com/artist/7eoLO7NzIZsAo7iY5iAokh), [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0) | [Canva \(How?\)](https://open.spotify.com/album/0SC2bq3OFatneMuSVRbm09) | 2:07 |
+| 68 | [Canva \(How?\)](https://open.spotify.com/track/6s1NOGFMIH1GXDczlZmJTM) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [TFace](https://open.spotify.com/artist/6u6CpsGYc3s2bJNESCR1t0), [Mayday](https://open.spotify.com/artist/4VTrwnihHd2ynEqKEl1lxy), [DubzCo](https://open.spotify.com/artist/7eoLO7NzIZsAo7iY5iAokh) | [Canva \(How?\)](https://open.spotify.com/album/0SC2bq3OFatneMuSVRbm09) | 2:07 |
 | 69 | [Changes](https://open.spotify.com/track/7c85rhgZ68cUiORoC33Yhz) | [Blasterjaxx](https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Changes](https://open.spotify.com/album/1gJLdjFptxsVUHp6PuCZoC) | 2:35 |
 | 70 | [Outlaws](https://open.spotify.com/track/3eKEtRWpU8hT1HNNS1CrkG) | [Mike Perry](https://open.spotify.com/artist/6lB8vOoI4DRrrVxXwuV19c) | [Outlaws](https://open.spotify.com/album/3fMnEdDnkb2exoRZrO4dXr) | 2:38 |
 | 71 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 |
@@ -85,7 +85,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 | 75 | [Little Bird](https://open.spotify.com/track/0eWmckh5yefvjUsuUyb1Sf) | [Oscar Stembridge](https://open.spotify.com/artist/21PEkJjPYN8SDkaATbMdl9) | [Little Bird](https://open.spotify.com/album/3fVWpYHmSYv1UGPotSinkH) | 2:42 |
 | 76 | [Caledonia](https://open.spotify.com/track/33N5cX1HJOICZEdLDkb8qA) | [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd) | [Caledonia](https://open.spotify.com/album/1Vc4danXNj3LmbE70BuGCq) | 4:54 |
 | 77 | [A Story In The Night](https://open.spotify.com/track/5dBjjpErKlD05klWaI10YG) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [A Story In The Night](https://open.spotify.com/album/0EKbuUGMpKHCq0W2TsMhPY) | 5:34 |
-| 78 | [Ready, Willing & Able](https://open.spotify.com/track/6oNACi0r312Pd7uLYaL6Pl) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne) | [Ready, Willing & Able](https://open.spotify.com/album/0yD4RVf33B2yXtYU27ohPm) | 5:18 |
+| 78 | [I´m Ready](https://open.spotify.com/track/6oNACi0r312Pd7uLYaL6Pl) | [The Playtones](https://open.spotify.com/artist/4UThQDoYdZatw3BH5zZIne), [Johan Blohm](https://open.spotify.com/artist/6DdzgodxFYNnPqi40FH8gU) | [Ready, Willing & Able](https://open.spotify.com/album/0yD4RVf33B2yXtYU27ohPm) | 5:18 |
 | 79 | [Sell Your Soul](https://open.spotify.com/track/6ZPFJ8mAXp4v0ywUCQVgul) | [Räre Birds](https://open.spotify.com/artist/00MLgSbXVP2m2uRDKpaaBt) | [Sell Your Soul](https://open.spotify.com/album/5NslCkGXnja2wTbOtNq5cD) | 3:03 |
 | 80 | [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 |
 | 81 | [IKYK](https://open.spotify.com/track/1Dex4T6UbptuDqqdmMT7xw) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [for your validation](https://open.spotify.com/album/1urRiweW0usayaxE3ueVmd) | 2:46 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Nidji
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,100 likes - 84 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,174 likes - 84 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 41 | [One More Time](https://open.spotify.com/track/3e6jOLO8kabk6eOZ4zH0Nl) | [KRU](https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr) | [One More Time](https://open.spotify.com/album/3f55a3kyOyEaYLMpzy3nyu) | 3:25 |
 | 42 | [Racun](https://open.spotify.com/track/3QPjFOaHenvJawbm5cik7p) | [Jaclyn Victor](https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB) | [Glorious](https://open.spotify.com/album/0gpLxjZBBdWsHJjQFS59Mt) | 4:01 |
 | 43 | [Gagal Diet](https://open.spotify.com/track/4zno3HyakA9YSSEH4pON1w) | [ArumtaLa](https://open.spotify.com/artist/59efzixYcOYbnNEAZ50zev) | [Gagal Diet](https://open.spotify.com/album/3mcLJfwHU5VR1N9pwSNCeO) | 3:08 |
-| 44 | [I CAN'T LIE](https://open.spotify.com/track/7F6PH2Nqfp1kg0hkU2tnfE) | [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [Agil](https://open.spotify.com/artist/0GBQ8yDiKBkHNHQUTfTGHb) | [I CAN'T LIE](https://open.spotify.com/album/6jc2lDM71w7uuuhtdYhiXS) | 3:16 |
+| 44 | [I CAN'T LIE](https://open.spotify.com/track/7F6PH2Nqfp1kg0hkU2tnfE) | [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [Agil](https://open.spotify.com/artist/38wMq2bKDrTfBLob1EOmtw) | [I CAN'T LIE](https://open.spotify.com/album/6jc2lDM71w7uuuhtdYhiXS) | 3:16 |
 | 45 | [PRACHODAYAT](https://open.spotify.com/track/10n5jMd5Ep9TjoQnX7tKJ8) | [METZDUB](https://open.spotify.com/artist/480WlU1tH7Er4feZTN3z87), [Elda Suryani](https://open.spotify.com/artist/7ojVqLvWD5CFVEXYp3VnjJ) | [PRACHODAYAT](https://open.spotify.com/album/7hvs6s2xum5nvT5MGKVseq) | 6:02 |
 | 46 | [Not Enough](https://open.spotify.com/track/0KjtkLC1AVfhTh1ftQTR6M) | [Mia Wray](https://open.spotify.com/artist/3pol9num4gn7ifeZrENp2E) | [Not Enough](https://open.spotify.com/album/7DagVBaeEcCmoZRnJ8cFtt) | 3:37 |
 | 47 | [Who’s Making You Feel It](https://open.spotify.com/track/3fogOLGOLBcvpDD5e0ukPa) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Who’s Making You Feel It](https://open.spotify.com/album/5aZnyZi7nvqMtZSkMYMlR6) | 3:36 |

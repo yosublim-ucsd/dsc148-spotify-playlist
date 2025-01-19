@@ -1,6 +1,6 @@
 {
   "description": "2000\ub144\ub300\ub97c \uc218 \ub193\uc558\ub358 \uba85\uace1\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 16481,
+  "num_followers": 16493,
   "original_name": "2000\ub144\ub300 \ubca0\uc2a4\ud2b8",
   "owner": {
     "name": "Spotify",
@@ -795,6 +795,26 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
+        "name": "Ames Room",
+        "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
+      },
+      "artists": [
+        {
+          "name": "Supreme Team",
+          "url": "https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7"
+        },
+        {
+          "name": "Youngjun",
+          "url": "https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt"
+        }
+      ],
+      "duration_ms": 263079,
+      "name": "Then Then Then",
+      "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
         "name": "Like The Bible",
         "url": "https://open.spotify.com/album/4eBXK4EXrxjzSaAonbyRSe"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 211520,
       "name": "\uc810\uc810",
       "url": "https://open.spotify.com/track/0IwDO38DaBE7cMl4aLgybU"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
-        "name": "Ames Room",
-        "url": "https://open.spotify.com/album/5MCWiknia0CVi71e67Fdzh"
-      },
-      "artists": [
-        {
-          "name": "Supreme Team",
-          "url": "https://open.spotify.com/artist/6dHoQP2ONf0e9DMH94Obo7"
-        },
-        {
-          "name": "Youngjun",
-          "url": "https://open.spotify.com/artist/7n7p8oXuygFVSkrCO9FvAt"
-        }
-      ],
-      "duration_ms": 263079,
-      "name": "Then Then Then",
-      "url": "https://open.spotify.com/track/5SQPTxNUunDOhBMOggDmX7"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -879,22 +879,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Traveling You",
-        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
-      },
-      "artists": [
-        {
-          "name": "Un",
-          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
-        }
-      ],
-      "duration_ms": 251846,
-      "name": "\ud30c\ub3c4",
-      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/127CxMmFX7bctgIccMVPib"
       },
@@ -907,6 +891,22 @@
       "duration_ms": 258973,
       "name": "\ud55c \ub0a8\uc790",
       "url": "https://open.spotify.com/track/0KjswKgBYLO65T674Hvldc"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Traveling You",
+        "url": "https://open.spotify.com/album/7uxUZh3iA2IAvMIlSPxZV2"
+      },
+      "artists": [
+        {
+          "name": "Un",
+          "url": "https://open.spotify.com/artist/2k3wogLJyPnkEpb2pn3GLk"
+        }
+      ],
+      "duration_ms": 251846,
+      "name": "\ud30c\ub3c4",
+      "url": "https://open.spotify.com/track/66Ea5DkLH0Ok6wR2zuqZcM"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
-        "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
-      },
-      "artists": [
-        {
-          "name": "Position",
-          "url": "https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo"
-        }
-      ],
-      "duration_ms": 329952,
-      "name": "I LOVE YOU",
-      "url": "https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Hug",
         "url": "https://open.spotify.com/album/3cSN60IWlvmvzwiRzvjmpf"
       },
@@ -1051,6 +1035,22 @@
       "duration_ms": 228960,
       "name": "Hug",
       "url": "https://open.spotify.com/track/3fB6z972xZddHD2SBKYCMc"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "\ud3ec\uc9c0\uc158 \uc2a4\ud398\uc15c I LOVE YOU",
+        "url": "https://open.spotify.com/album/2KvPzTe2rEACWx6nlQEebv"
+      },
+      "artists": [
+        {
+          "name": "Position",
+          "url": "https://open.spotify.com/artist/46Bj2frkvUzqJUwcSx24Wo"
+        }
+      ],
+      "duration_ms": 329952,
+      "name": "I LOVE YOU",
+      "url": "https://open.spotify.com/track/0rXBAMbHo7WTddZYfK2AX9"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Brown Eyes",
-        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
-      },
-      "artists": [
-        {
-          "name": "Brown Eyes",
-          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
-        }
-      ],
-      "duration_ms": 215840,
-      "name": "With Coffee\u2026",
-      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "With L.O.V.E Brown Eyed Girls",
         "url": "https://open.spotify.com/album/4aAT9INUonYUREjOyxDhQl"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 217626,
       "name": "LOVE",
       "url": "https://open.spotify.com/track/6hQZn0khzhIZmMQ2erzx6q"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Brown Eyes",
+        "url": "https://open.spotify.com/album/59LLKRi3hOZZvszabtTeWA"
+      },
+      "artists": [
+        {
+          "name": "Brown Eyes",
+          "url": "https://open.spotify.com/artist/6O7LgtO6NKOOOudzRayUfJ"
+        }
+      ],
+      "duration_ms": 215840,
+      "name": "With Coffee\u2026",
+      "url": "https://open.spotify.com/track/7svHY5rTJ1Aotj6sDsDgdV"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Lovers in Paris (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
-      },
-      "artists": [
-        {
-          "name": "Jo Sung Mo",
-          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
-        }
-      ],
-      "duration_ms": 249352,
-      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
-      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "fuzz . Buzz",
         "url": "https://open.spotify.com/album/0gLmRYm4KjIRmYM9jUcEux"
       },
@@ -1363,18 +1347,34 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Homecoming",
-        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
+        "name": "Lovers in Paris (Original Television Soundtrack)",
+        "url": "https://open.spotify.com/album/0e2VSNZvj1vIOmthsh7Qii"
       },
       "artists": [
         {
-          "name": "Kim Dong Ryul",
-          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
+          "name": "Jo Sung Mo",
+          "url": "https://open.spotify.com/artist/52IPniXhQmDTYa5xQnoA2K"
         }
       ],
-      "duration_ms": 287741,
-      "name": "I say \"I love you\" again",
-      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
+      "duration_ms": 249352,
+      "name": "\ub108\uc758 \uacc1\uc73c\ub85c",
+      "url": "https://open.spotify.com/track/72cdYcriYaCOBzxTu42YfH"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Longing",
+        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
+      },
+      "artists": [
+        {
+          "name": "Noel",
+          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Missing you",
+      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1399,18 +1399,18 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Longing",
-        "url": "https://open.spotify.com/album/5HOLb1Hdf9asv3tWWiUkva"
+        "name": "Homecoming",
+        "url": "https://open.spotify.com/album/4hpVodQbGrI7WMlR9P6H4d"
       },
       "artists": [
         {
-          "name": "Noel",
-          "url": "https://open.spotify.com/artist/2G5VFTwwlZUulCbtPbc1nx"
+          "name": "Kim Dong Ryul",
+          "url": "https://open.spotify.com/artist/3zYyfrb4r6ZHI5Di0rB9bV"
         }
       ],
-      "duration_ms": 232960,
-      "name": "Missing you",
-      "url": "https://open.spotify.com/track/0OnYYBxChwtrOcb9xWdhfS"
+      "duration_ms": 287741,
+      "name": "I say \"I love you\" again",
+      "url": "https://open.spotify.com/track/2LzM5vAdnIcVUyDah8kZpG"
     },
     {
       "added_at": "2024-08-05 16:59:31",
@@ -1499,22 +1499,6 @@
     {
       "added_at": "2024-08-05 16:59:31",
       "album": {
-        "name": "Fine Killing Liberty : Blue Rain",
-        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
-      },
-      "artists": [
-        {
-          "name": "Fin.K.L",
-          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
-        }
-      ],
-      "duration_ms": 238466,
-      "name": "To My Boyfriend",
-      "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
-    },
-    {
-      "added_at": "2024-08-05 16:59:31",
-      "album": {
         "name": "Cool Best",
         "url": "https://open.spotify.com/album/1zVmfOfaYgVnKPOgy4TZFA"
       },
@@ -1527,6 +1511,22 @@
       "duration_ms": 255844,
       "name": "All For You",
       "url": "https://open.spotify.com/track/06Y6AQOxZw8Ybibi1ELCoi"
+    },
+    {
+      "added_at": "2024-08-05 16:59:31",
+      "album": {
+        "name": "Fine Killing Liberty : Blue Rain",
+        "url": "https://open.spotify.com/album/7qYBfdhb8Lq4icwXhHoXoe"
+      },
+      "artists": [
+        {
+          "name": "Fin.K.L",
+          "url": "https://open.spotify.com/artist/2aRLyjYp7WPr4EkjkI1gvS"
+        }
+      ],
+      "duration_ms": 238466,
+      "name": "To My Boyfriend",
+      "url": "https://open.spotify.com/track/0qD5kstOSUeLUQgW3cuhcD"
     },
     {
       "added_at": "2024-08-05 16:59:31",

@@ -1,6 +1,6 @@
 {
   "description": "\ud83d\udea8<a href=\"spotify:artist:5H4yInM5zmHqpKIoMNAx4r\">Central Cee</a> /  <a href=\"spotify:artist:1URnnhqYAYcrqrcwql10ft\">21 Savage</a>\ud83d\udea8",
-  "num_followers": 117185,
+  "num_followers": 117191,
   "original_name": "New Music Friday Denmark",
   "owner": {
     "name": "Spotify",
@@ -96,12 +96,12 @@
       },
       "artists": [
         {
-          "name": "ELOQ",
-          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
-        },
-        {
           "name": "BBYBITES",
           "url": "https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW"
+        },
+        {
+          "name": "ELOQ",
+          "url": "https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw"
         }
       ],
       "duration_ms": 130929,

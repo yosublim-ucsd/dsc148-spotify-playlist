@@ -1,6 +1,6 @@
 {
   "description": "Enhance your focus with classical music.",
-  "num_followers": 347901,
+  "num_followers": 348019,
   "original_name": "Classical Focus",
   "owner": {
     "name": "Spotify",
@@ -103,26 +103,18 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Songs from the Arc of Life",
-        "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
+        "name": "Awadis: \u00c9tude No. 8: Through the Window",
+        "url": "https://open.spotify.com/album/1HEcDNLYMGhK0sXGbOFIOx"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
-        },
-        {
-          "name": "Yo-Yo Ma",
-          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
-        },
-        {
-          "name": "Kathryn Stott",
-          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
+          "name": "Marie Awadis",
+          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
         }
       ],
-      "duration_ms": 160226,
-      "name": "Apr\u00e8s un r\u00eave, Op. 7, No. 1",
-      "url": "https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS"
+      "duration_ms": 340040,
+      "name": "\u00c9tude No. 8: Through the Window",
+      "url": "https://open.spotify.com/track/35ciMkUbqwKEDrsF6ttZzo"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -147,18 +139,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Awadis: \u00c9tude No. 8: Through the Window",
-        "url": "https://open.spotify.com/album/1HEcDNLYMGhK0sXGbOFIOx"
+        "name": "Songs from the Arc of Life",
+        "url": "https://open.spotify.com/album/2y85NsbsBnGTXcXgHpj3PD"
       },
       "artists": [
         {
-          "name": "Marie Awadis",
-          "url": "https://open.spotify.com/artist/7hmy8Td2c8HSzUAPayPKkN"
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Yo-Yo Ma",
+          "url": "https://open.spotify.com/artist/5Dl3HXZjG6ZOWT5cV375lk"
+        },
+        {
+          "name": "Kathryn Stott",
+          "url": "https://open.spotify.com/artist/7JmDqds7Y1LRSWZVM8e0Og"
         }
       ],
-      "duration_ms": 340040,
-      "name": "\u00c9tude No. 8: Through the Window",
-      "url": "https://open.spotify.com/track/35ciMkUbqwKEDrsF6ttZzo"
+      "duration_ms": 160226,
+      "name": "Apr\u00e8s un r\u00eave, Op. 7, No. 1",
+      "url": "https://open.spotify.com/track/05yzhEWkmVXiigqWfcNTQS"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
+      },
+      "artists": [
+        {
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
+        }
+      ],
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
         "name": "Bruch, Brahms & Schubert: Chamber Works",
         "url": "https://open.spotify.com/album/7opugbzWAHbl5FKUZGjzgz"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 159010,
       "name": "8 Pieces, Op. 83 (Arr. for Violin, Viola & Piano): No. 2, Allegro con moto",
       "url": "https://open.spotify.com/track/1xWTaBLkw6T758GCLXNubf"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
-        "name": "Harpa Sessions",
-        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Memory - Harpa Sessions",
-      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1051,26 +1051,6 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
-        "url": "https://open.spotify.com/album/075BGMvnefok6HKmhbaR5V"
-      },
-      "artists": [
-        {
-          "name": "Ludwig van Beethoven",
-          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
-        },
-        {
-          "name": "Beatrice Rana",
-          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
-        }
-      ],
-      "duration_ms": 147613,
-      "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
-      "url": "https://open.spotify.com/track/0vqFUCbcApsfeJDQJLBBM0"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
         "name": "Schumann: 3 Romances, Op. 94: No. 2, Einfach, innig (Musical Moments)",
         "url": "https://open.spotify.com/album/2P5WbvbtDDbxEdEj0JBPXU"
       },
@@ -1091,6 +1071,26 @@
       "duration_ms": 223213,
       "name": "3 Romances, Op. 94: No. 2, Einfach, innig - Musical Moments",
       "url": "https://open.spotify.com/track/6cjmhZ4qsLBcHk8i4yqie3"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
+        "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
+        "url": "https://open.spotify.com/album/075BGMvnefok6HKmhbaR5V"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Beatrice Rana",
+          "url": "https://open.spotify.com/artist/0dy2MCCdtamIXLSncTg9SP"
+        }
+      ],
+      "duration_ms": 147613,
+      "name": "Beethoven: Piano Sonata No. 29 in B-Flat Major, Op. 106 \"Hammerklavier\": IV. Largo",
+      "url": "https://open.spotify.com/track/0vqFUCbcApsfeJDQJLBBM0"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1487,26 +1487,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Vanhal: Symphonies, Vol. 3",
-        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
+        "name": "Saint-Sa\u00ebns: Symphonic Poems",
+        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
       },
       "artists": [
         {
-          "name": "Johann Baptist Vanhal",
-          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
         },
         {
-          "name": "Toronto Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+          "name": "Orchestre National de Lille",
+          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
         },
         {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
+          "name": "Jun Markl",
+          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
         }
       ],
-      "duration_ms": 304813,
-      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
-      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
+      "duration_ms": 376560,
+      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
+      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1535,26 +1535,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Saint-Sa\u00ebns: Symphonic Poems",
-        "url": "https://open.spotify.com/album/20GQrDilCY1nkCfYQJ6jrD"
+        "name": "Vanhal: Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
       },
       "artists": [
         {
-          "name": "Camille Saint-Sa\u00ebns",
-          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
         },
         {
-          "name": "Orchestre National de Lille",
-          "url": "https://open.spotify.com/artist/4tf4qUbwCkHR28VYqcpaUf"
+          "name": "Toronto Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
         },
         {
-          "name": "Jun Markl",
-          "url": "https://open.spotify.com/artist/69ZwC2PyjJXhXn3XJ86zgd"
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
         }
       ],
-      "duration_ms": 376560,
-      "name": "Sarabande et rigaudon, Op. 93: Sarabande",
-      "url": "https://open.spotify.com/track/5KwqOPqGO04tDkpppNklad"
+      "duration_ms": 304813,
+      "name": "Symphony in G Major, Bryan G6: II. Andante molto grazioso",
+      "url": "https://open.spotify.com/track/3DruXfuowq2uyM9FkTt6A4"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1655,30 +1655,6 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Vanhal: Symphonies, Vol. 3",
-        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
-      },
-      "artists": [
-        {
-          "name": "Johann Baptist Vanhal",
-          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
-        },
-        {
-          "name": "Toronto Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
-        },
-        {
-          "name": "Kevin Mallon",
-          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
-        }
-      ],
-      "duration_ms": 223493,
-      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
-      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
         "name": "Couperin: Les Ombres Errantes",
         "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
       },
@@ -1695,6 +1671,26 @@
       "duration_ms": 114601,
       "name": "La Petite Pince-Sans-Rire: 21\u00e8me ordre, 4\u00e8me livre",
       "url": "https://open.spotify.com/track/2HjFsnNuH2ZTrs8SHgsVlm"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
+        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
+        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+      },
+      "artists": [
+        {
+          "name": "Erik Satie",
+          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+        },
+        {
+          "name": "Bruno Fontaine",
+          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+        }
+      ],
+      "duration_ms": 106320,
+      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
+      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1719,22 +1715,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Satie: Gymnop\u00e9dies; Gnossiennes; Pi\u00e8ces froides; Nocturnes; Sonatine bureaucratique",
-        "url": "https://open.spotify.com/album/44PnboL62pJpHZdBvBA2eS"
+        "name": "Vanhal: Symphonies, Vol. 3",
+        "url": "https://open.spotify.com/album/1gwIAPEe0zzLanZamBsQQ2"
       },
       "artists": [
         {
-          "name": "Erik Satie",
-          "url": "https://open.spotify.com/artist/459INk8vcC0ebEef82WjIK"
+          "name": "Johann Baptist Vanhal",
+          "url": "https://open.spotify.com/artist/0dzul8iKQZ52HPrqk41Ij6"
         },
         {
-          "name": "Bruno Fontaine",
-          "url": "https://open.spotify.com/artist/7J4BKGKTlBHa0VfoPcGUAp"
+          "name": "Toronto Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/76mnXDnPlFWta9lUzGQnNC"
+        },
+        {
+          "name": "Kevin Mallon",
+          "url": "https://open.spotify.com/artist/6PwinjxhkFHQ9GqZjdBm3s"
         }
       ],
-      "duration_ms": 106320,
-      "name": "Pi\u00e8ces froides: II. Airs \u00e0 faire fuir (Modestement)",
-      "url": "https://open.spotify.com/track/3hUepKDdsvTQ3tr8LU4Lwq"
+      "duration_ms": 223493,
+      "name": "Symphony in C Minor, Bryan Cm2: II. Andante",
+      "url": "https://open.spotify.com/track/61BZ2UBzjv5i6AHadb18Lz"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1847,6 +1847,22 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
+        "name": "Reverie",
+        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
+      },
+      "artists": [
+        {
+          "name": "Regn\u00f8r",
+          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
+        }
+      ],
+      "duration_ms": 144415,
+      "name": "Reverie",
+      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
         "name": "Handel : Water Music, Concerti grossi, Israel in Egypt, The Ways of Zion Do Mourn & Semele",
         "url": "https://open.spotify.com/album/2RqoZwQoUZjV9CkekCMPI5"
       },
@@ -1867,22 +1883,6 @@
       "duration_ms": 261213,
       "name": "Handel: Water Music, Suite No. 3 in G Major, HWV 350: III. Minuets I & II",
       "url": "https://open.spotify.com/track/5Olix25Y5aNqIWGDrrB0Pb"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
-        "name": "Reverie",
-        "url": "https://open.spotify.com/album/60dptYAyv7EK6evaotqKwv"
-      },
-      "artists": [
-        {
-          "name": "Regn\u00f8r",
-          "url": "https://open.spotify.com/artist/2bmadkijrsqPPsROnqeXIq"
-        }
-      ],
-      "duration_ms": 144415,
-      "name": "Reverie",
-      "url": "https://open.spotify.com/track/4M5TBrCTxqTCzM4qDaI2sM"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
-        "name": "Couperin: Les Ombres Errantes",
-        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
-      },
-      "artists": [
-        {
-          "name": "Fran\u00e7ois Couperin",
-          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
-        },
-        {
-          "name": "Iddo Bar-Sha\u00ef",
-          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
-        }
-      ],
-      "duration_ms": 161961,
-      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
-      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
         "name": "Mozart: Night Music - Serenades Nos. 6 & 13; A Musical Joke; Adagio & Fugue",
         "url": "https://open.spotify.com/album/4nf4imwG0lfPqhoEGCazGT"
       },
@@ -2031,6 +2011,26 @@
     {
       "added_at": "2025-01-07 09:54:00",
       "album": {
+        "name": "Couperin: Les Ombres Errantes",
+        "url": "https://open.spotify.com/album/3qsB60Pmng0d7kg1hZHIzB"
+      },
+      "artists": [
+        {
+          "name": "Fran\u00e7ois Couperin",
+          "url": "https://open.spotify.com/artist/4kVLtXuKJTE7SgYd2sQtaL"
+        },
+        {
+          "name": "Iddo Bar-Sha\u00ef",
+          "url": "https://open.spotify.com/artist/6ACU5c6yaqQdW5u8bRNCvW"
+        }
+      ],
+      "duration_ms": 161961,
+      "name": "L'Engageante: 13\u00e8me ordre, 3\u00e8me livre",
+      "url": "https://open.spotify.com/track/3N19GXXX5JsftHU9q7YOUU"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
         "name": "Klassieke Muziek voor Zondagochtend",
         "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
       },
@@ -2047,26 +2047,6 @@
       "duration_ms": 96786,
       "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
       "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
-    },
-    {
-      "added_at": "2025-01-07 09:54:00",
-      "album": {
-        "name": "Klara4Kids: Sterren en Sneeuwvlokken - Klassiek onder de kerstboom",
-        "url": "https://open.spotify.com/album/5hYoeeEAATiqb981lvtdfy"
-      },
-      "artists": [
-        {
-          "name": "Marc-Antoine Charpentier",
-          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
-        },
-        {
-          "name": "Andrew Parrott",
-          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
-        }
-      ],
-      "duration_ms": 69693,
-      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
-      "url": "https://open.spotify.com/track/6xhtLLQI133wVdxnOZRBKj"
     },
     {
       "added_at": "2025-01-07 09:54:00",
@@ -2091,6 +2071,26 @@
       "duration_ms": 230426,
       "name": "Handel: Water Music, Suite No. 1 in F Major, HWV 348: VI. Air",
       "url": "https://open.spotify.com/track/0n9cHRLNSCXECfXx4cvw0D"
+    },
+    {
+      "added_at": "2025-01-07 09:54:00",
+      "album": {
+        "name": "Klara4Kids: Sterren en Sneeuwvlokken - Klassiek onder de kerstboom",
+        "url": "https://open.spotify.com/album/5hYoeeEAATiqb981lvtdfy"
+      },
+      "artists": [
+        {
+          "name": "Marc-Antoine Charpentier",
+          "url": "https://open.spotify.com/artist/5OvQ8g54fWhffM2x8eCc6s"
+        },
+        {
+          "name": "Andrew Parrott",
+          "url": "https://open.spotify.com/artist/3XHSTHtChESFEiOw1LqKuM"
+        }
+      ],
+      "duration_ms": 69693,
+      "name": "Canticum in nativitatem Domini, 'Frigidae noctis umbra': Marche",
+      "url": "https://open.spotify.com/track/6xhtLLQI133wVdxnOZRBKj"
     },
     {
       "added_at": "2025-01-07 09:54:00",

@@ -1,6 +1,6 @@
 {
   "description": "Soundtrack spring time with uplifting and sunny Jazz.",
-  "num_followers": 16782,
+  "num_followers": 16783,
   "original_name": "Spring Jazz",
   "owner": {
     "name": "Spotify",
@@ -995,22 +995,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "That Bad Eartha",
-        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Avril au Portugal",
-      "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Let's Sail Away",
         "url": "https://open.spotify.com/album/5ONLFeBhrqRDGq5Y9x3ccD"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 283826,
       "name": "Pennies from Heaven",
       "url": "https://open.spotify.com/track/6DK8CIViKcULxgNSKONH7I"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "That Bad Eartha",
+        "url": "https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Avril au Portugal",
+      "url": "https://open.spotify.com/track/11ephJHUUPlf7KrQiM05ic"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Come What May",
-        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
-      },
-      "artists": [
-        {
-          "name": "Jane Monheit",
-          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
-        }
-      ],
-      "duration_ms": 178573,
-      "name": "I Believe In You",
-      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "Grand Songs",
         "url": "https://open.spotify.com/album/2Yo7r6mKv3i7koaHptX2Qv"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 227960,
       "name": "Take a Giant Step",
       "url": "https://open.spotify.com/track/3JzqSi4PEvFZiQlayiDnqN"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "Come What May",
+        "url": "https://open.spotify.com/album/1PfdkCao8Kpvpwn977xklZ"
+      },
+      "artists": [
+        {
+          "name": "Jane Monheit",
+          "url": "https://open.spotify.com/artist/7rwI5cbw9cUKFVul2rZMiZ"
+        }
+      ],
+      "duration_ms": 178573,
+      "name": "I Believe In You",
+      "url": "https://open.spotify.com/track/362GKG5yz5Da5c77jUsR9A"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1287,18 +1287,18 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Broadway By Day",
-        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
+        "name": "Alma",
+        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
       },
       "artists": [
         {
-          "name": "Spencer Day",
-          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
+          "name": "Alma Naidu",
+          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
         }
       ],
-      "duration_ms": 196413,
-      "name": "Getting To Know You",
-      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
+      "duration_ms": 277866,
+      "name": "Something 'bout the Rain",
+      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1319,18 +1319,18 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "Alma",
-        "url": "https://open.spotify.com/album/0lmJI5b1ilP0w7v6HsivOa"
+        "name": "Broadway By Day",
+        "url": "https://open.spotify.com/album/77MPiMeWIQnfeISRi238o3"
       },
       "artists": [
         {
-          "name": "Alma Naidu",
-          "url": "https://open.spotify.com/artist/6sNpcJfKBnG8yQayRi7hbE"
+          "name": "Spencer Day",
+          "url": "https://open.spotify.com/artist/0vzxJvDfnwbniaBt97Ylw6"
         }
       ],
-      "duration_ms": 277866,
-      "name": "Something 'bout the Rain",
-      "url": "https://open.spotify.com/track/2WfHw7Hr7VWvQmdeZnIrLK"
+      "duration_ms": 196413,
+      "name": "Getting To Know You",
+      "url": "https://open.spotify.com/track/6EtTFFycF09St9D0lxOilY"
     },
     {
       "added_at": "2024-06-13 12:59:10",
@@ -1391,26 +1391,6 @@
     {
       "added_at": "2024-06-13 12:59:10",
       "album": {
-        "name": "We've Just Begun",
-        "url": "https://open.spotify.com/album/4bLp5hTNAS8EiwIxeSakwE"
-      },
-      "artists": [
-        {
-          "name": "Sinne Eeg",
-          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
-        },
-        {
-          "name": "The Danish Radio Big Band",
-          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
-        }
-      ],
-      "duration_ms": 401235,
-      "name": "Comes Love",
-      "url": "https://open.spotify.com/track/5dJ2bMErk0WLMyyLsVt0wc"
-    },
-    {
-      "added_at": "2024-06-13 12:59:10",
-      "album": {
         "name": "The Show Must Go On",
         "url": "https://open.spotify.com/album/6jKTnQzbrpRONtKbIt3kfo"
       },
@@ -1435,6 +1415,26 @@
       "duration_ms": 187400,
       "name": "Dont Rain on My Parade",
       "url": "https://open.spotify.com/track/20IvaJ03BcSyUqGonmpRCm"
+    },
+    {
+      "added_at": "2024-06-13 12:59:10",
+      "album": {
+        "name": "We've Just Begun",
+        "url": "https://open.spotify.com/album/4bLp5hTNAS8EiwIxeSakwE"
+      },
+      "artists": [
+        {
+          "name": "Sinne Eeg",
+          "url": "https://open.spotify.com/artist/20qKLdeJMj9d5RUHe37Izw"
+        },
+        {
+          "name": "The Danish Radio Big Band",
+          "url": "https://open.spotify.com/artist/7ztGJv7tQJ33cm44UcNGoE"
+        }
+      ],
+      "duration_ms": 401235,
+      "name": "Comes Love",
+      "url": "https://open.spotify.com/track/5dJ2bMErk0WLMyyLsVt0wc"
     },
     {
       "added_at": "2024-06-13 12:59:10",

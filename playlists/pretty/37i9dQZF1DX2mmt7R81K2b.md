@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 
 > Where jazz meets classical, and classical meets jazz.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,425 likes - 72 songs - 5 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,627 likes - 72 songs - 5 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2mmt7R81K2b.md) - [plain]
 | 10 | [Für Elise \- Batiste](https://open.spotify.com/track/53zEryaU5hYSdxk2hsrJeu) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [Für Elise \- Batiste](https://open.spotify.com/album/5QICnreyAmyuoITY89NwT4) | 4:04 |
 | 11 | [Passepied nouveau](https://open.spotify.com/track/0Ojn5HBy1lcILqz4m0Nj2h) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Monsieur Claude \(A Travel with Claude Debussy\)](https://open.spotify.com/album/1Eh0JcWtm36zjJaR276Rph) | 4:50 |
 | 12 | [Arietta \- Based on Grieg's Lyrical Pieces, Op\. 12](https://open.spotify.com/track/5X9RBOhzBCfbNWTqevvuhp) | [Edvard Grieg](https://open.spotify.com/artist/5ihY290YPGc3aY2xTyx7Gy), [Tim Allhoff](https://open.spotify.com/artist/7qnobTqHT8IGF1DjMtEMDY), [Morphing Chamber Orchestra](https://open.spotify.com/artist/3NJaau60IyYeDGWI0cxI0W) | [Arietta \(Based on Grieg's Lyrical Pieces, Op\. 12\)](https://open.spotify.com/album/40SKSPh1RyASTnFrK3KBQ5) | 3:43 |
-| 13 | [Take The A Train](https://open.spotify.com/track/2PM5bvgkJlhUHRie3dTGoF) | [Bigband der Deutschen Oper Berlin](https://open.spotify.com/artist/1jcpqH8Y6Gvafllw91Ye9q), [Orchester der Deutschen Oper Berlin](https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO) | [Take The A Train](https://open.spotify.com/album/0McCfjCQo1o8sPnCslfHPl) | 4:38 |
+| 13 | [Take The A Train \- Live](https://open.spotify.com/track/2PM5bvgkJlhUHRie3dTGoF) | [Bigband der Deutschen Oper Berlin](https://open.spotify.com/artist/1jcpqH8Y6Gvafllw91Ye9q), [Orchester der Deutschen Oper Berlin](https://open.spotify.com/artist/4UH0f8KeI9GR9H403vxsNO) | [Take The A Train \(Live\)](https://open.spotify.com/album/0McCfjCQo1o8sPnCslfHPl) | 4:38 |
 | 14 | [MONTREUX PALACE](https://open.spotify.com/track/1eeW0hCupU2nC63gPbWJpJ) | [Ferdi](https://open.spotify.com/artist/1aX9ohWGCXmVvXNCKiRXpd), [Sofiane Pamart](https://open.spotify.com/artist/4RB2EEsmLhQTOSVQQpDzNg) | [TAKE 01](https://open.spotify.com/album/0wsjLI8ESlTLN9k53M5YmA) | 2:42 |
 | 15 | [Lettre Encore](https://open.spotify.com/track/2iQGTUBLVkvAQkjA7yLkEr) | [Roland Dyens](https://open.spotify.com/artist/004s3WVecP2IQy7Hw8gfoi), [Alexandra Whittingham](https://open.spotify.com/artist/54UqAWfr4SIdCc5xBapeMM) | [Dyens: Lettre Encore](https://open.spotify.com/album/1UlvY6kRnHGlLLdYjU0raG) | 1:34 |
 | 16 | [7 Virtuoso Etudes after Gershwin: VI\. I Got Rhythm](https://open.spotify.com/track/7dTWn6EnHD4zMtQI2gCOdh) | [Earl Wild](https://open.spotify.com/artist/12Fk4SuKXPe97FaSVD6WHK), [Claire Huangci](https://open.spotify.com/artist/6iFs9LvpM2UzZPmRtOrkLf) | [Wild: 7 Virtuoso Etudes after Gershwin: VI\. I Got Rhythm](https://open.spotify.com/album/5Td4Cp9Xsw3z720USgtNBy) | 2:11 |

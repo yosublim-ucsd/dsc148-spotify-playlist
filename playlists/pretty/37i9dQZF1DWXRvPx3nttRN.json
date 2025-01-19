@@ -1,6 +1,6 @@
 {
   "description": "Acoustic rock and pop that makes you feel good.",
-  "num_followers": 556373,
+  "num_followers": 556591,
   "original_name": "Feel Good Acoustic",
   "owner": {
     "name": "Spotify",
@@ -1107,18 +1107,18 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Dream Your Life Away (Special Edition)",
-        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
       },
       "artists": [
         {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+          "name": "Rita Ora",
+          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
         }
       ],
-      "duration_ms": 204280,
-      "name": "Riptide",
-      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
+      "duration_ms": 142177,
+      "name": "Only Want You - Live from Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1155,18 +1155,18 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/4aNDmtlwH25CBLUjKUXPLu"
+        "name": "Dream Your Life Away (Special Edition)",
+        "url": "https://open.spotify.com/album/5S9b8euumqMhQbMk0zzQdH"
       },
       "artists": [
         {
-          "name": "Rita Ora",
-          "url": "https://open.spotify.com/artist/5CCwRZC6euC8Odo6y9X8jr"
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 142177,
-      "name": "Only Want You - Live from Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/04RaThB20KTtI8wwXASw3L"
+      "duration_ms": 204280,
+      "name": "Riptide",
+      "url": "https://open.spotify.com/track/3JvrhDOgAt6p7K8mDyZwRd"
     },
     {
       "added_at": "2024-07-01 15:02:12",
@@ -1463,6 +1463,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "T-Shirts (Acoustic)",
+        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
+      },
+      "artists": [
+        {
+          "name": "James Smith",
+          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
+        }
+      ],
+      "duration_ms": 195480,
+      "name": "T-Shirts - Acoustic",
+      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "The Covers, Vol. 4",
         "url": "https://open.spotify.com/album/3ZAIFOXNrAcIR4PskJFTjU"
       },
@@ -1543,6 +1559,22 @@
     {
       "added_at": "2024-07-01 15:02:12",
       "album": {
+        "name": "Hold My Girl (Acoustic Version)",
+        "url": "https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6"
+      },
+      "artists": [
+        {
+          "name": "George Ezra",
+          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
+        }
+      ],
+      "duration_ms": 211715,
+      "name": "Hold My Girl (Acoustic Version)",
+      "url": "https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg"
+    },
+    {
+      "added_at": "2024-07-01 15:02:12",
+      "album": {
         "name": "Front Porch",
         "url": "https://open.spotify.com/album/50c3CHjqTVnD3dskKzmbL5"
       },
@@ -1587,38 +1619,6 @@
       "duration_ms": 192574,
       "name": "Solo Dance - Acoustic Mix",
       "url": "https://open.spotify.com/track/5PUqb7aCQHByJ0waXwdxkw"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "Hold My Girl (Acoustic Version)",
-        "url": "https://open.spotify.com/album/5BCRmDymzplgBFTNWBYMj6"
-      },
-      "artists": [
-        {
-          "name": "George Ezra",
-          "url": "https://open.spotify.com/artist/2ysnwxxNtSgbb9t1m2Ur4j"
-        }
-      ],
-      "duration_ms": 211715,
-      "name": "Hold My Girl (Acoustic Version)",
-      "url": "https://open.spotify.com/track/6jR6rBNVF9bHpvdNNqOjvg"
-    },
-    {
-      "added_at": "2024-07-01 15:02:12",
-      "album": {
-        "name": "T-Shirts (Acoustic)",
-        "url": "https://open.spotify.com/album/5E2YTBO09Sujc2cwNunLkF"
-      },
-      "artists": [
-        {
-          "name": "James Smith",
-          "url": "https://open.spotify.com/artist/543ccHFPnZfJMD8tRGPtu7"
-        }
-      ],
-      "duration_ms": 195480,
-      "name": "T-Shirts - Acoustic",
-      "url": "https://open.spotify.com/track/27hauwRp0G2YflSJfkmD3o"
     },
     {
       "added_at": "2024-07-01 15:02:12",

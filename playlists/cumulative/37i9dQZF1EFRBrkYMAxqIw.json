@@ -205,6 +205,24 @@
     },
     {
       "album": {
+        "name": "Back to Loving You",
+        "url": "https://open.spotify.com/album/2U2ZgBUG21VP9mG2UU3XWC"
+      },
+      "artists": [
+        {
+          "name": "Gracie Ella",
+          "url": "https://open.spotify.com/artist/3HjHBNeLc1IOdv8BMgFrXj"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234668,
+      "name": "Back to Loving You",
+      "url": "https://open.spotify.com/track/79Soo1jhXGYqaFfLS68rcr"
+    },
+    {
+      "album": {
         "name": "Back To Summer",
         "url": "https://open.spotify.com/album/0Ri4Tg1CvxhvaDKmHtf8X5"
       },

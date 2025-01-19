@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 
 > Die Playlist zur Wasserpfeife\. Cover: Rina
 
-[Spotify](https://open.spotify.com/user/spotify) - 912,269 likes - 80 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 912,271 likes - 80 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2lUf1uE6Mre.md) - [plain]
 | 46 | [GUNSHOT](https://open.spotify.com/track/14PkTcqjxqsUk5pO9Cz74a) | [Eno](https://open.spotify.com/artist/3GBBxBdoolb0B5YizZq9bF), [Olexesh](https://open.spotify.com/artist/2Z9KL8Zmqx5Sg3cd7Fldhl) | [GUNSHOT](https://open.spotify.com/album/2oO4oJUUP9wHa1wv9CbW7Q) | 1:57 |
 | 47 | [TOPG](https://open.spotify.com/track/5200qwwFttxV6xvuTehsMV) | [Ataypapi](https://open.spotify.com/artist/6vRKWcwC6OphUNy3Ds5O0U), [KALIM](https://open.spotify.com/artist/2NJWI8byqTSqDaJRnqJY2z) | [CHEB ATAY \(Deluxe Version\)](https://open.spotify.com/album/4bicwEUAx4KJTgxSZ1qRLf) | 2:16 |
 | 48 | [FÜR IMMER](https://open.spotify.com/track/3HzLCE4KDrtwCuSvy8t7GS) | [Hava](https://open.spotify.com/artist/3Mn6d673ieRza7uw6zY2Zv), [Dardan](https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp) | [FÜR IMMER](https://open.spotify.com/album/5zZcS8YmoeA99WdPzfxlzb) | 2:40 |
-| 49 | [Do U Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do U Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 |
+| 49 | [Do You Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do You Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 |
 | 50 | [Champions League \(feat\. Haaland936, Aymen & Amo\)](https://open.spotify.com/track/7gQwzl8rXRpe0rTOTU5pyb) | [Rap La Rue](https://open.spotify.com/artist/3oaGNYMn968LbpA1sthjos), [Haaland936](https://open.spotify.com/artist/6OBEI1JlLksVqrVOJXWdRe), [Aymen](https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N), [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Champions League \(feat\. Haaland936, Aymen & Amo\)](https://open.spotify.com/album/00GSVkuouhL4n9Iou8s4y7) | 2:42 |
 | 51 | [Mittelmeer](https://open.spotify.com/track/5iviRbXQMPPJJrK6nTjYGA) | [Nimo](https://open.spotify.com/artist/3ZuBEj9ppJe8GSdKaMTfMN) | [Mittelmeer](https://open.spotify.com/album/29z9beb0haultY7O6b0UMu) | 2:40 |
 | 52 | [Amo aller Amos](https://open.spotify.com/track/7eBo7oeGFWJ9GlL1Me6NuV) | [Amo](https://open.spotify.com/artist/3F2BUPEkX9IDaRYAeJN0Gh) | [Amo aller Amos](https://open.spotify.com/album/2tlaiOi78UcXOTtsD3k48j) | 1:49 |

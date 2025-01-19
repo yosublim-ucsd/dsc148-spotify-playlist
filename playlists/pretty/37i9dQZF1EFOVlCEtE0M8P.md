@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0j0VkkLGXceKjMIWL6htE1">Jennifer Decilveo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,224 likes - 240 songs - 14 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,225 likes - 240 songs - 14 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -128,8 +128,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 118 | [Lie Out Loud](https://open.spotify.com/track/4r3OHHoR6JoSFaHjZCAq6N) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 3:02 |
 | 119 | [Messiah](https://open.spotify.com/track/1KmvFKwJO3oK7e2rIz2OdG) | [Crawlers](https://open.spotify.com/artist/2xtmoxSauQs0TQFUoHmbfy) | [The Mess We Seem To Make \(Deluxe\)](https://open.spotify.com/album/3C1OK6djJ12taoAWI95Sef) | 3:43 |
 | 120 | [home](https://open.spotify.com/track/6M4m465yvuv1js4qpxyRWd) | [Christina Perri](https://open.spotify.com/artist/7H55rcKCfwqkyDFH9wpKM6) | [a lighter shade of blue](https://open.spotify.com/album/7HEHgvui9j8u79SCn80tbq) | 3:39 |
-| 121 | [Call](https://open.spotify.com/track/0GCD5WOLFUVJMujQOWUrs3) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Call](https://open.spotify.com/album/76C2FYAWtNCxBeKWyi85Fz) | 3:30 |
-| 122 | [Diamonds](https://open.spotify.com/track/6LfVWHL4FujWJhCDafODEZ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 |
+| 121 | [Diamonds](https://open.spotify.com/track/6LfVWHL4FujWJhCDafODEZ) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:42 |
+| 122 | [Call](https://open.spotify.com/track/0GCD5WOLFUVJMujQOWUrs3) | [wens](https://open.spotify.com/artist/0QcblRyHbgYTLOKlP5BE66) | [Call](https://open.spotify.com/album/76C2FYAWtNCxBeKWyi85Fz) | 3:30 |
 | 123 | [Mr\. Diva](https://open.spotify.com/track/0aItLBbKuK6DXwUL7v46Tq) | [Jeffree Star](https://open.spotify.com/artist/0ZVqyfTk5GaaRiQNQaW9jg) | [Mr\. Diva \- EP](https://open.spotify.com/album/6QRuYRIVmLpS1YZGcPChYh) | 4:07 |
 | 124 | [Slide](https://open.spotify.com/track/7HJ86cmPozGoxEFjntcMzp) | [LPX](https://open.spotify.com/artist/7xmK7SfecrmjqsiIoSa1uf) | [Slide](https://open.spotify.com/album/4JXMgekPtqjDcnrlERWiGS) | 4:13 |
 | 125 | [Dance To The Music](https://open.spotify.com/track/2945XgGPQwoDP2ZM69af4h) | [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Tension II](https://open.spotify.com/album/0edaiVumHgKoTUCTfQXMuw) | 2:31 |
@@ -160,8 +160,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 150 | [JUNKIE](https://open.spotify.com/track/6azzQpelUGRtIQUfgR9R0J) | [Royal & the Serpent](https://open.spotify.com/artist/64EHXDoln95lnccszdPum0) | [RAT TRAP 2: the burn](https://open.spotify.com/album/4kDBAwGGcSpxs6d4FFdPYG) | 3:08 |
 | 151 | [GIRLS](https://open.spotify.com/track/1sn7q04dXzhpGfltvgqy56) | [Betta Lemme](https://open.spotify.com/artist/1WZLagiBdNltn918sr8kkw) | [GIRLS](https://open.spotify.com/album/6Q6SdHFruQVMkyXjAaP8BU) | 3:24 |
 | 152 | [Always](https://open.spotify.com/track/00f9bVD0cVpRK0V9DnCVoF) | [Matt Wills](https://open.spotify.com/artist/5tECdXibmWAxONygvS9ktT) | [Cigarettes & City Lights](https://open.spotify.com/album/7a5sQmXXnUANreLelj7OFe) | 3:49 |
-| 153 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 |
-| 154 | [Mother Nature](https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:59 |
+| 153 | [Mother Nature](https://open.spotify.com/track/09UiY7Lj5ircmWblcX2sF6) | [Angelique Kidjo](https://open.spotify.com/artist/51qUDJb5AtQX6jIL4VJx6M) | [Mother Nature](https://open.spotify.com/album/3phDjtPilkdOx6nr66aXC5) | 2:59 |
+| 154 | [obsession](https://open.spotify.com/track/0wRnT8ip6JycEahq7WXXf1) | [Shura](https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [forevher \(Deluxe Edition\)](https://open.spotify.com/album/53FOCXSdGQzkFRLpgd2DUT) | 3:31 |
 | 155 | [Slugger](https://open.spotify.com/track/3NMXHkEhxF2ijm2KC0wHKU) | [SASAMI](https://open.spotify.com/artist/4pdoRs7yHNXakMobf8M9Oz) | [Slugger](https://open.spotify.com/album/3vq1m0WbgBEgTsG18SN62z) | 3:00 |
 | 156 | [Party Trick](https://open.spotify.com/track/4srByK7V18CGHfGUzdXIvq) | [ella jane](https://open.spotify.com/artist/3gBjSrNsYzzbeo0nwsL21J) | [Marginalia](https://open.spotify.com/album/6XO4LrNz9pugcgr8K6yh4a) | 3:26 |
 | 157 | [Temporary Feeling](https://open.spotify.com/track/7E77vE8shn8oqt3BNGF1tU) | [Michelle Branch](https://open.spotify.com/artist/5rScKX1Sh1U67meeUyTGwk) | [Hopeless Romantic](https://open.spotify.com/album/0KQoc67ApuKSx5qBPtrXJt) | 3:34 |
@@ -212,8 +212,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 202 | [Higher](https://open.spotify.com/track/7D0I8fOtcm8AWaemRWLre4) | [Wynter Gordon](https://open.spotify.com/artist/4nmrm4zpgJ0RC6aZRSUEjF) | [Five Needle](https://open.spotify.com/album/226GOluIz4EHZQaY8fFCnO) | 3:23 |
 | 203 | [Big Machine](https://open.spotify.com/track/75TJ9jx0geVtyjfHx8b6mO) | [Liz Lawrence](https://open.spotify.com/artist/5v4XGACPGcMZs2ANXBzVmC) | [Peanuts](https://open.spotify.com/album/4umimrxQlVJj2YyiFjAnlJ) | 3:57 |
 | 204 | [Deeds Not Words](https://open.spotify.com/track/5cqaJArTBB5RUtfEjZf6ks) | [Fantastically Great Women](https://open.spotify.com/artist/2lI6OvhOdgOtTxFjQy7KFE), [Kirstie Skivington](https://open.spotify.com/artist/4Hs5DxFq2PIHZwenZINJBX), [Jade Kennedy](https://open.spotify.com/artist/2YCruzLCWtvJpweNckjR96), [Renée Lamb](https://open.spotify.com/artist/3nl3Ok4MCLC1gZhmi2OGBs), [Christina Modestou](https://open.spotify.com/artist/21uejta558No7qYG1Nmwn7) | [Fantastically Great Women Who Changed The World \(Studio Cast Recording\)](https://open.spotify.com/album/2jGOKOM3XjP9Lq3T1SEUag) | 3:47 |
-| 205 | [Nightmare](https://open.spotify.com/track/79JXZAooztEbWrUGU0FELt) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:35 |
-| 206 | [Change](https://open.spotify.com/track/4hRpQDEQtPW4GyRtl4OvWh) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Home in Another Life](https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY) | 3:32 |
+| 205 | [Change](https://open.spotify.com/track/4hRpQDEQtPW4GyRtl4OvWh) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Home in Another Life](https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY) | 3:32 |
+| 206 | [Nightmare](https://open.spotify.com/track/79JXZAooztEbWrUGU0FELt) | [Taylor Janzen](https://open.spotify.com/artist/3rTVTBOBT7NPgXtI5oWyxc) | [I Live In Patterns](https://open.spotify.com/album/2msBvZC5EUxnYRpQ5UfE8i) | 3:35 |
 | 207 | [Locked Out](https://open.spotify.com/track/70ksJnv0Ii3sRnRajmyR3I) | [Tall Heights](https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp) | [Juniors](https://open.spotify.com/album/3nzqLuP7d24XYuBnbiaiop) | 4:11 |
 | 208 | [Give Me The Keys](https://open.spotify.com/track/13MQ5ZJrwqW8CW3eMehlqv) | [BLOXX](https://open.spotify.com/artist/4wYzzR0lpEub1gUU8bbBTw) | [Lie Out Loud](https://open.spotify.com/album/1vfCJpWRr50g1jvcWtXnjH) | 2:43 |
 | 209 | [Desert Man \- Piano Version](https://open.spotify.com/track/5PbH4oB3MK6khwE9tBcrJf) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [Desert Man \(Piano Version\)](https://open.spotify.com/album/4HTYKRgFXPblODKK54U9Qv) | 3:28 |
@@ -249,4 +249,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFOVlCEtE0M8P.md) - [plain]
 | 239 | [Never Love Me](https://open.spotify.com/track/73wdJkuGNi5r5yaxQcbbnx) | [Erose](https://open.spotify.com/artist/3nTWNq4d2PshG3F70A8zg8) | [Unrealistic](https://open.spotify.com/album/7DJ38rShyy5odFN0uT9C8i) | 2:00 |
 | 240 | [Goodbye Wrong](https://open.spotify.com/track/5DrxXrWnsxkpbR0QUBj8aS) | [Dawn Marie](https://open.spotify.com/artist/4BCgFgcMiSfFEmRIqeAD1K) | [Goodbye Wrong](https://open.spotify.com/album/3dFRqt0nO1GxdcBaE3ryth) | 3:25 |
 
-Snapshot ID: `AbnI6gAAAADEM8FsyS2KQePDa/UQhRif`
+Snapshot ID: `AbnOigAAAAD0Jw05RuP8cXMb8rpB8CrY`

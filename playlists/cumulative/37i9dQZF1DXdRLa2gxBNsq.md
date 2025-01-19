@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN.
 
-229 songs - 11 hr 51 min
+230 songs - 11 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -150,6 +150,7 @@
 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/7yu3tzlkrr17M2EL0ELF71) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/5I1ldD90ymu5m41CjABLUX) | 1:31 | 2024-04-18 | 2024-07-01 |
 | [Mucha Policía, Poca Diversión](https://open.spotify.com/track/75sT5MajoXIj5uviuKaAmF) | [Eskorbuto](https://open.spotify.com/artist/3AXQ8iTveAp1uA5NlbK8qb) | [Eskizofrenia](https://open.spotify.com/album/1ASN9C5KKT8pbqH7KxVH2l) | 1:33 | 2023-12-08 | 2024-04-19 |
 | [Mundo Muerto](https://open.spotify.com/track/1QiX7ZF1DC00p3443jzII1) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [EtsaiakEroak](https://open.spotify.com/artist/0xmpnK00j3aUbhdXqkX7j6) | [Mundo Muerto](https://open.spotify.com/album/6zyik6tAV3g4jMLeJU8Tei) | 2:37 | 2024-08-16 | 2025-01-04 |
+| [Mártir en Prisión](https://open.spotify.com/track/3c4FJdR3vgWqsMJiqu9Mqt) | [A Granel](https://open.spotify.com/artist/6G1liRVBUdEs0Cltyr5u9M) | [Apaga y Vámonos](https://open.spotify.com/album/39r6Qd8zBeDEmYhwcyzxIW) | 2:41 | 2025-01-16 |  |
 | [Nada que me haga resurgir](https://open.spotify.com/track/0HIfkUaLyb4V3F3sFdu6zt) | [A Cuchillo](https://open.spotify.com/artist/5uk2dAd5kCHIyMlKxJNGIZ) | [Nada que me haga resurgir](https://open.spotify.com/album/6adyHHRjUSRHF3P7ZzENEI) | 3:07 | 2024-05-23 |  |
 | [Narco](https://open.spotify.com/track/64I6KsFDkGNg639k69Yt4D) | [Manolo Kabezabolo](https://open.spotify.com/artist/0mCVBnmmGLp7tjBR4J8Q3M) | [Narco](https://open.spotify.com/album/6C6NaXzXrBnAHaa9orpiFS) | 1:04 | 2024-09-13 | 2024-12-13 |
 | [Ni Descanso, Ni Paz!](https://open.spotify.com/track/0b5PjlQGnxkjNThxUmCSGP) | [La Polla Records](https://open.spotify.com/artist/3vHlZN6pTa2zOl2eVxiEdJ) | [Ni Descanso, Ni Paz!](https://open.spotify.com/album/0jndA7RswPbdGEYEe4Tq3Z) | 2:17 | 2023-12-08 |  |
@@ -167,7 +168,7 @@
 | [Noche Molona](https://open.spotify.com/track/6rjOCHV71E19A3mq6I1ZzI) | [Tu Madre Es Puta](https://open.spotify.com/artist/5SGCYqP9PN2R85WfA0yjPu) | [Noche Molona](https://open.spotify.com/album/0koYvQafHxEe9Eu8CcWTxU) | 2:58 | 2023-12-08 | 2024-06-28 |
 | [Nos Engañan](https://open.spotify.com/track/0l55TBWYpX12SZ0hWS0Vch) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [No Hay Opción](https://open.spotify.com/album/7ndpOGCY0VD7psI6RWg47M) | 3:06 | 2023-12-28 | 2024-04-19 |
 | [Nos Engañan](https://open.spotify.com/track/24oc9DIh7ZMUJ1F78YUacH) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/3DGMfxfw5kQOjkgBx8gqNR) | 3:06 | 2023-12-08 | 2023-12-23 |
-| [Nos Engañan \- original](https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK) | 3:06 | 2024-04-18 |  |
+| [Nos Engañan \- original](https://open.spotify.com/track/0WFeE2O8RI03RheJ4PPbDr) | [Parabellum](https://open.spotify.com/artist/0JbJ9sG3cB719QmmkIRTPQ) | [Envenenado](https://open.spotify.com/album/5GO7H2fSWsSs8QA7ahTcsK) | 3:06 | 2024-04-18 | 2025-01-19 |
 | [Nuestra guerra](https://open.spotify.com/track/5a15KPWIoPM6yTDGmfbVtX) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Ska\-P](https://open.spotify.com/artist/2fiiGUBgPsIKDCE0bTthnl) | [Nuestra guerra](https://open.spotify.com/album/1j3t3IGL0iIcnvuScslFAf) | 5:05 | 2024-04-11 | 2024-06-21 |
 | [Nueva libertad](https://open.spotify.com/track/3UtJ8omZiJbHynoIbi4mQE) | [Beta Máximo](https://open.spotify.com/artist/365RFaJ5rIVgB8JkNSLN0M) | [A cuchillo](https://open.spotify.com/album/0I0MU6bbaZ6xvgtsEgXOz2) | 1:45 | 2024-11-07 | 2024-12-06 |
 | [Nunca Pasa Nada](https://open.spotify.com/track/2OxMzKMrwoaEJvK70oFLgj) | [Porco Bravo](https://open.spotify.com/artist/7lVNBntG3I8zoUlzYCGFBc) | [Porco Bravo](https://open.spotify.com/album/18fU6efhpawi8Egj1pNB9P) | 2:57 | 2023-12-08 | 2024-07-20 |

@@ -1,6 +1,6 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 60656,
+  "num_followers": 60665,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "Only Trust Your Heart",
-        "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
-      },
-      "artists": [
-        {
-          "name": "Diana Krall",
-          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
-        }
-      ],
-      "duration_ms": 337866,
-      "name": "Squeeze Me",
-      "url": "https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
         "name": "Haven't We Met?",
         "url": "https://open.spotify.com/album/3NSYINIVVAT3C6dMkdcbdx"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 301543,
       "name": "I'm Glad There Is You",
       "url": "https://open.spotify.com/track/3cqo3iiXecJmN3CbQAAtpn"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "Only Trust Your Heart",
+        "url": "https://open.spotify.com/album/3ZocvPcE7EGyv9EEP95YeC"
+      },
+      "artists": [
+        {
+          "name": "Diana Krall",
+          "url": "https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL"
+        }
+      ],
+      "duration_ms": 337866,
+      "name": "Squeeze Me",
+      "url": "https://open.spotify.com/track/5kyfBYQcu5Swr0i80s8zLJ"
     },
     {
       "added_at": "2024-12-23 02:15:43",
@@ -743,22 +743,6 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "Laura Benanti",
-        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
-      },
-      "artists": [
-        {
-          "name": "Laura Benanti",
-          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
-        }
-      ],
-      "duration_ms": 264653,
-      "name": "Go Slow",
-      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
         "name": "Take To The Sky",
         "url": "https://open.spotify.com/album/1MqGJoEKazTWPX0HaA17L2"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 312293,
       "name": "Summertime",
       "url": "https://open.spotify.com/track/7hPTKT0j7mEn9lBKerFtit"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "Laura Benanti",
+        "url": "https://open.spotify.com/album/5lTuYzH9Bc6i59TGVtxw81"
+      },
+      "artists": [
+        {
+          "name": "Laura Benanti",
+          "url": "https://open.spotify.com/artist/6KMFhD0SFLgUNoQJGxf37V"
+        }
+      ],
+      "duration_ms": 264653,
+      "name": "Go Slow",
+      "url": "https://open.spotify.com/track/3KMeqdGzrtxXGa5oRwZFGQ"
     },
     {
       "added_at": "2024-12-23 02:15:43",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
-        "name": "Jamison",
-        "url": "https://open.spotify.com/album/0vTcCt6Pgf4nRntWOzXUU2"
-      },
-      "artists": [
-        {
-          "name": "Jamison Ross",
-          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
-        }
-      ],
-      "duration_ms": 262573,
-      "name": "These Things You Are to Me",
-      "url": "https://open.spotify.com/track/4TaFVK9pEO6Wo3cFhRC0CQ"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
         "name": "Joyride",
         "url": "https://open.spotify.com/album/30zNfEzFZzFVSy4NFben4f"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 181826,
       "name": "It Ain't Over 'Til It's Over",
       "url": "https://open.spotify.com/track/5xtiAessAtry987cTy5maQ"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "Jamison",
+        "url": "https://open.spotify.com/album/0vTcCt6Pgf4nRntWOzXUU2"
+      },
+      "artists": [
+        {
+          "name": "Jamison Ross",
+          "url": "https://open.spotify.com/artist/7cWhEUzLtzKg5FH2JJItyK"
+        }
+      ],
+      "duration_ms": 262573,
+      "name": "These Things You Are to Me",
+      "url": "https://open.spotify.com/track/4TaFVK9pEO6Wo3cFhRC0CQ"
     },
     {
       "added_at": "2024-12-23 02:15:43",
@@ -1115,6 +1115,38 @@
     {
       "added_at": "2024-12-23 02:15:43",
       "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
+      },
+      "artists": [
+        {
+          "name": "Susan Wong",
+          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
+        }
+      ],
+      "duration_ms": 164652,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
+        "name": "Li'l Darlin",
+        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
+      },
+      "artists": [
+        {
+          "name": "Monica Borrfors",
+          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
+        }
+      ],
+      "duration_ms": 195706,
+      "name": "Li'l Darlin",
+      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
+    },
+    {
+      "added_at": "2024-12-23 02:15:43",
+      "album": {
         "name": "As We Are",
         "url": "https://open.spotify.com/album/4NbKMvjr3BYWJydaVvwWjx"
       },
@@ -1143,38 +1175,6 @@
       "duration_ms": 330893,
       "name": "As You Are",
       "url": "https://open.spotify.com/track/4NMmzP4VL8cPZmbBzr7zgI"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
-        "name": "Li'l Darlin",
-        "url": "https://open.spotify.com/album/1Vsqz9ExEorZDUJ7Zw72m9"
-      },
-      "artists": [
-        {
-          "name": "Monica Borrfors",
-          "url": "https://open.spotify.com/artist/6kQLrF8BwbKymqwvCJJzLb"
-        }
-      ],
-      "duration_ms": 195706,
-      "name": "Li'l Darlin",
-      "url": "https://open.spotify.com/track/39CPeGjg70L1qtXzdJmKmU"
-    },
-    {
-      "added_at": "2024-12-23 02:15:43",
-      "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
-      },
-      "artists": [
-        {
-          "name": "Susan Wong",
-          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
-        }
-      ],
-      "duration_ms": 164652,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
     },
     {
       "added_at": "2024-12-23 02:15:43",

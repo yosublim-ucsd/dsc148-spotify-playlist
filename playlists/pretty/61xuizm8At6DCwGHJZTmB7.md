@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 
 > Top Christian Worship 2025 \| The latest and greatest of today's best Worship music for Worship Nights, Sunday Mornings and everyday worship! Featuring artist's such as Chris Tomlin, Kari Jobe, Cody Carnes and Benjamin William Hastings! Made by <a href="spotify:user:sozoofficial">SOZO Playlists</a>!
 
-[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,812 likes - 186 songs - 17 hr 32 min
+[SOZO Playlists ](https://open.spotify.com/user/sozoofficial) - 118,822 likes - 186 songs - 17 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/61xuizm8At6DCwGHJZTmB7.md) - [plain]
 | 18 | [Rest On Us \- Live At Bethel Church, Redding, CA, 2024](https://open.spotify.com/track/6g42vmxaRpAhEGqdJMAQyC) | [Housefires](https://open.spotify.com/artist/6egyCFgiJ1j941PaxKoWJD), [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [David Funk](https://open.spotify.com/artist/5Bj9jhPkLNyIDxkHOf2fpc) | [Rest On Us](https://open.spotify.com/album/0HsyzJKf3EgQy9dXdUYTM3) | 9:55 |
 | 19 | [Nothing](https://open.spotify.com/track/1I3pR0lbHQBGpG8eplkEHG) | [Jeremy Rosado](https://open.spotify.com/artist/57H6K2mTvFS2TESVHCoDKY), [Seph Schlueter](https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4) | [Nothing](https://open.spotify.com/album/4zU1cjr6vHoXgUGhxfdfir) | 3:20 |
 | 20 | [Make Me New \- Live](https://open.spotify.com/track/1w6zWeMq3uzIsvGF6YkrSr) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Melody Noel](https://open.spotify.com/artist/6NA5WdQi9RbQe2woDzs5yi), [Jonathan Traylor](https://open.spotify.com/artist/7KcmdvVaaO7Y0pmHQjOEFo) | [Day & Night \(Live At Influence Church\)](https://open.spotify.com/album/0RNsGbiBEbcNQWu2jeY2Wn) | 6:09 |
-| 21 | [None Like You \- Live](https://open.spotify.com/track/7dLYwQF7HRsIA8hpNeEf1v) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Marie Elizabeth](https://open.spotify.com/artist/58sdrMtaL6qpjTh435hhBu) | [None Like You \(Live\)](https://open.spotify.com/album/5YmFL5uGLVJHEnzrWl7LNa) | 8:00 |
+| 21 | [None Like You \- Live](https://open.spotify.com/track/7dLYwQF7HRsIA8hpNeEf1v) | [Jesus Culture](https://open.spotify.com/artist/0Onvkz1Nbs4wHXXUwOIGk8), [Marie Welch](https://open.spotify.com/artist/57hkwgTr1hoISQpKpXfThE) | [None Like You \(Live\)](https://open.spotify.com/album/5YmFL5uGLVJHEnzrWl7LNa) | 8:00 |
 | 22 | [Time](https://open.spotify.com/track/2OXWcPKO4Bzo4O17OvGkD0) | [Aodhán King](https://open.spotify.com/artist/2EpEo5cgrVpjbLIVlwyyQf), [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Beyond Us](https://open.spotify.com/album/269eDd6kP3lI8kkDUw1NIn) | 3:49 |
 | 23 | [Son of Man \- Live](https://open.spotify.com/track/6PRCI4q7b1xxPYrXKSQdFV) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Son of Man \(Live\)](https://open.spotify.com/album/1duByF6XEDQkJD7QbvyXvZ) | 9:05 |
 | 24 | [Come To Jesus](https://open.spotify.com/track/0t0Rq9MjMmcvlC95xBCkGH) | [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx) | [Come To Jesus](https://open.spotify.com/album/4FAdRHzHD0hOMjUqqlrKRe) | 3:48 |

@@ -4,7 +4,7 @@
 
 > Folksy takes on your favorite tracks\. Cover: Timothée Chalamet in A Complete Unknown
 
-294 songs - 18 hr 42 min
+295 songs - 18 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -187,7 +187,7 @@
 | [Love Hurts](https://open.spotify.com/track/6UreecgqiwH1aQTXfRiMqg) | [Ashley Monroe](https://open.spotify.com/artist/37BiX28I6pF104F92U1hDP), [Tyler Cain](https://open.spotify.com/artist/7xmVA0jnh2yjM3S642J1Bd), [Ruston Kelly](https://open.spotify.com/artist/5zuqnTZOeJzI0N0yQ7XA7I) | [The Covers](https://open.spotify.com/album/36J1uwN2oRzKRihIKxDIUV) | 3:16 | 2021-12-13 |  |
 | [Love Song to a Stranger](https://open.spotify.com/track/4okbeDeYmiiVB9s4A4Wg50) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [Love Song to a Stranger](https://open.spotify.com/album/4hr2AtZvyXNmtmzr5g1YdY) | 4:28 | 2021-12-13 | 2022-07-29 |
 | [Love Will Tear Us Apart](https://open.spotify.com/track/24mkZs0ouxgWcSa7zhlBZf) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Love Will Tear Us Apart](https://open.spotify.com/album/4rIfE20Yf1aeKSNdlRp81C) | 2:48 | 2022-01-14 | 2024-12-03 |
-| [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 | 2022-01-14 |  |
+| [Lover, You Should’ve Come Over](https://open.spotify.com/track/6BPje3kCxisxvzyP9d1Xca) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Wednesday \(Extended Edition\)](https://open.spotify.com/album/1me3fOCssRFnYRbTHgiiHk) | 5:36 | 2022-01-14 | 2025-01-19 |
 | [Maybe Not \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0XoKwViOafkIMd2qE1wfqO) | [The National](https://open.spotify.com/artist/2cCUtGK9sDU2EoElnk0GNB) | [Spotify Singles](https://open.spotify.com/album/0bXHx2L5JCRKG9R7jDbTd8) | 4:07 | 2022-01-21 | 2022-02-18 |
 | [Mississippi Goddam \(feat\. Adia Victoria & Kyshona Armstrong\)](https://open.spotify.com/track/5d02bbrSQZzjZzEfKiopHm) | [Kelsey Waldon](https://open.spotify.com/artist/6hQxXJuBnpCcS2VLTezQv1), [Adia Victoria](https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl), [Kyshona](https://open.spotify.com/artist/6W2VAlwJmXUkGwOmtFCFUA) | [Mississippi Goddam / They'll Never Keep Us Down](https://open.spotify.com/album/7dn7kSgHlzwaPD8aVrh8O3) | 4:54 | 2021-12-13 | 2022-07-29 |
 | [Mr Bojangles](https://open.spotify.com/track/5HCEmNaQAdqN3xRFu2ChmZ) | [Marlon Williams](https://open.spotify.com/artist/5ENM4Vw9brkpcN51HtC8ga) | [En attendant Bojangles](https://open.spotify.com/album/6zaUIV18Hyfm99ivyJDf3V) | 4:03 | 2022-01-14 | 2022-07-29 |
@@ -201,6 +201,7 @@
 | [Nebraska \- Acoustic](https://open.spotify.com/track/5H3hNv8kLr15zQxFUiuIqT) | [Aoife O'Donovan](https://open.spotify.com/artist/1f3ubTd6eyxuy30ddDJQQa) | [In the Magic Hour Solo Sessions](https://open.spotify.com/album/1XxOQRUB7eOOQWryZM3YZM) | 3:48 | 2023-05-05 | 2024-04-19 |
 | [No Ordinary Love \(Live at Eddie's Attic\)](https://open.spotify.com/track/6RTF7UzUAtMqOpGbakgzGj) | [The Civil Wars](https://open.spotify.com/artist/6J7rw7NELJUCThPbAfyLIE) | [Live at Eddie's Attic](https://open.spotify.com/album/40LvDRa8e5cdgUFsKgSUzq) | 3:29 | 2023-04-28 | 2023-12-11 |
 | [Nobody Dies Anymore](https://open.spotify.com/track/78xIX4Kt6miLXt3uMzez9W) | [Bella White](https://open.spotify.com/artist/7Bk7ojRJfkv48w69JNF66V) | [Nobody Dies Anymore](https://open.spotify.com/album/7gCbxIpqSafuDrI7ixuMIr) | 3:58 | 2024-07-12 |  |
+| [Northern Sky \- from The Fire Inside](https://open.spotify.com/track/6ySbh4Se81hlu3oqITPCAL) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9) | [Northern Sky \(from The Fire Inside\)](https://open.spotify.com/album/5SUt4IBkcDOfQPtukbwJkO) | 3:30 | 2025-01-17 |  |
 | [Norwegian Wood](https://open.spotify.com/track/2EK3UM0CKpjxMVk6JWRONr) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Lennon Bermuda](https://open.spotify.com/album/5oprSAJ9hPKahkUBBSbOQj) | 2:23 | 2021-12-13 |  |
 | [One More Cup of Coffee \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/1XLJxAcTdnMIeQpsvdfkSv) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx) | [Spotify Singles](https://open.spotify.com/album/0uneTqrqMeF49ETtLvVOcl) | 3:21 | 2021-12-13 |  |
 | [Perfect Places \- Live From BBC Radio 2](https://open.spotify.com/track/2hUyNUvpSlNBmYKCUNCLu5) | [First Aid Kit](https://open.spotify.com/artist/21egYD1eInY6bGFcniCRT1) | [Live From BBC Radio 2](https://open.spotify.com/album/70nPdV7ZMFzddatb5WjgrE) | 3:38 | 2021-12-13 |  |

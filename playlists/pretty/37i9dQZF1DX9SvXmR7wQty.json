@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Roy",
-  "num_followers": 43305,
+  "num_followers": 43308,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -291,22 +291,6 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "J'AI MENTI.",
-        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 216973,
-      "name": "Laisse-moi tranquille.",
-      "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
         "name": "Run",
         "url": "https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 179253,
       "name": "Run",
       "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
+        "name": "J'AI MENTI.",
+        "url": "https://open.spotify.com/album/69NQGw0ZEDnhsASkg9MzXr"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 216973,
+      "name": "Laisse-moi tranquille.",
+      "url": "https://open.spotify.com/track/2cZ00x4yqQtDl4AQIHMb1y"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -439,6 +439,26 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
+        "name": "SURVIVAL MODE",
+        "url": "https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U"
+      },
+      "artists": [
+        {
+          "name": "Ril\u00e8s",
+          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "OBVIOUS",
+      "url": "https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
         "name": "Inarr\u00eatable",
         "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
       },
@@ -451,22 +471,6 @@
       "duration_ms": 198653,
       "name": "Je suis fait pour...",
       "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "TESTIMONY.",
-        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 242225,
-      "name": "Que toi",
-      "url": "https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -487,22 +491,18 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "SURVIVAL MODE",
-        "url": "https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U"
+        "name": "TESTIMONY.",
+        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
       },
       "artists": [
         {
-          "name": "Ril\u00e8s",
-          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
-        },
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
         }
       ],
-      "duration_ms": 161632,
-      "name": "OBVIOUS",
-      "url": "https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu"
+      "duration_ms": 242225,
+      "name": "Que toi",
+      "url": "https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -663,22 +663,6 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "CHROME",
-        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
-      },
-      "artists": [
-        {
-          "name": "Damso",
-          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
-        }
-      ],
-      "duration_ms": 155066,
-      "name": "CHROME",
-      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
         "name": "Mon sang",
         "url": "https://open.spotify.com/album/5vaEbgmMZb48Q84vZDZHPR"
       },
@@ -695,6 +679,22 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
+        "name": "CHROME",
+        "url": "https://open.spotify.com/album/6sYnP5m9GmPZTIW4cCFZXX"
+      },
+      "artists": [
+        {
+          "name": "Damso",
+          "url": "https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie"
+        }
+      ],
+      "duration_ms": 155066,
+      "name": "CHROME",
+      "url": "https://open.spotify.com/track/0qGy0pxEhbiMsDQhwOKTAg"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
         "name": "IMPOSTEUR",
         "url": "https://open.spotify.com/album/530vPuQlxS2kq2jNJIx59g"
       },
@@ -707,26 +707,6 @@
       "duration_ms": 208560,
       "name": "Les d\u00e9mons de minuit",
       "url": "https://open.spotify.com/track/0FJxWDiOrOuSUwCwhVS7wT"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "PROSECCO",
-        "url": "https://open.spotify.com/album/6EqYEiZynSrDXKfPzpjBwQ"
-      },
-      "artists": [
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        },
-        {
-          "name": "Vacra",
-          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
-        }
-      ],
-      "duration_ms": 203902,
-      "name": "PROSECCO",
-      "url": "https://open.spotify.com/track/72sH4ge8L9u9BwLzBwfxgP"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -787,6 +767,26 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
+        "name": "PROSECCO",
+        "url": "https://open.spotify.com/album/6EqYEiZynSrDXKfPzpjBwQ"
+      },
+      "artists": [
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        },
+        {
+          "name": "Vacra",
+          "url": "https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu"
+        }
+      ],
+      "duration_ms": 203902,
+      "name": "PROSECCO",
+      "url": "https://open.spotify.com/track/72sH4ge8L9u9BwLzBwfxgP"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
         "name": "AMOR\u00c9",
         "url": "https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW"
       },
@@ -803,6 +803,26 @@
       "duration_ms": 144394,
       "name": "AMOR\u00c9",
       "url": "https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
+        "name": "Couteau dans le dos",
+        "url": "https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Couteau dans le dos",
+      "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -887,22 +907,6 @@
       "duration_ms": 183960,
       "name": "\u00c9videmment",
       "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "Tour du Monde",
-        "url": "https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY"
-      },
-      "artists": [
-        {
-          "name": "Soprano",
-          "url": "https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1"
-        }
-      ],
-      "duration_ms": 151973,
-      "name": "Tour du Monde",
-      "url": "https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

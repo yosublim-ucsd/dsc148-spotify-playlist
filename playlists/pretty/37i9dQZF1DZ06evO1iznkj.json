@@ -1,12 +1,12 @@
 {
   "description": "This is Gunna. The essential tracks, all in one playlist.",
-  "num_followers": 164278,
+  "num_followers": 164351,
   "original_name": "This Is Gunna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAC0pM24uGZcJUeL5fmw8nsZ",
+  "snapshot_id": "Z4mdgAAAAAA30apxEkqAnBBPiUERRrKk",
   "tracks": [
     {
       "added_at": null,
@@ -23,22 +23,6 @@
       "duration_ms": 125040,
       "name": "fukumean",
       "url": "https://open.spotify.com/track/4rXLjWdF2ZZpXCVTfWcshS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GOT DAMN",
-        "url": "https://open.spotify.com/album/4FqRmhztQw60a8VYaHoA3r"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 156800,
-      "name": "GOT DAMN",
-      "url": "https://open.spotify.com/track/21hxBpoPMPyZAfpby6uPK9"
     },
     {
       "added_at": null,
@@ -79,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GOT DAMN",
+        "url": "https://open.spotify.com/album/6HO6ObAHr6Yf03scMOWFec"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 156800,
+      "name": "GOT DAMN",
+      "url": "https://open.spotify.com/track/6D1Pr14PtFHoj6gBEoOfQP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "B4 The Storm",
         "url": "https://open.spotify.com/album/4Y5lQYgpDrkyru90jltD5a"
       },
@@ -107,22 +107,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIM ALL ALONG",
-        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158666,
-      "name": "HIM ALL ALONG",
-      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "One of Wun",
         "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
       },
@@ -135,6 +119,22 @@
       "duration_ms": 144000,
       "name": "one of wun",
       "url": "https://open.spotify.com/track/4Na2HfNSr58chvfX69fy36"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIM ALL ALONG",
+        "url": "https://open.spotify.com/album/5HoNV9xqGbGufrIFH271dR"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 158666,
+      "name": "HIM ALL ALONG",
+      "url": "https://open.spotify.com/track/2EKL77lwxvo615Ga7VjEUl"
     },
     {
       "added_at": null,
@@ -183,6 +183,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 127853,
+      "name": "hakuna matata",
+      "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Happiness (feat. Asake & Gunna)",
         "url": "https://open.spotify.com/album/0D5fIo40wr5QpfUQ2l26vf"
       },
@@ -207,22 +223,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 127853,
-      "name": "hakuna matata",
-      "url": "https://open.spotify.com/track/32TTewBmtmhUmYxS1ajqaJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Drip or Drown 2",
         "url": "https://open.spotify.com/album/1oUzjom2A9xtyRM1SdOAGj"
       },
@@ -235,22 +235,6 @@
       "duration_ms": 151539,
       "name": "Who You Foolin",
       "url": "https://open.spotify.com/track/7KVPsVMOK3NL7subwJ0dZj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drip or Drown",
-        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 126168,
-      "name": "Drip or Drown",
-      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
     },
     {
       "added_at": null,
@@ -287,6 +271,22 @@
       "duration_ms": 200786,
       "name": "let it breathe (feat. Roddy Ricch)",
       "url": "https://open.spotify.com/track/4vpx4cL7IRedZul0j0bL2c"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Drip or Drown",
+        "url": "https://open.spotify.com/album/3flHKlyXgH4vu277N43sMJ"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 126168,
+      "name": "Drip or Drown",
+      "url": "https://open.spotify.com/track/6ZthdsKjWtiCxnxbhs74vF"
     },
     {
       "added_at": null,
@@ -335,6 +335,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        },
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "duration_ms": 165346,
+      "name": "prada dem (feat. Offset)",
+      "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So Much Fun (Deluxe)",
         "url": "https://open.spotify.com/album/24jAbLMFzCTlIv3kQ94HwK"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 279906,
       "name": "Hot (Remix) [feat. Gunna and Travis Scott]",
       "url": "https://open.spotify.com/track/4ea9w8c4ROqiZpJVhfBA3m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        },
-        {
-          "name": "Offset",
-          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
-        }
-      ],
-      "duration_ms": 165346,
-      "name": "prada dem (feat. Offset)",
-      "url": "https://open.spotify.com/track/7fzN9lz890zav0HERLvVKZ"
     },
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "One of Wun",
+        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
+      },
+      "artists": [
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 147720,
+      "name": "collage",
+      "url": "https://open.spotify.com/track/41TXadM22OIJY04xSW9iuv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "WUNNA",
         "url": "https://open.spotify.com/album/0gA0nZrZ55PLUp7ARfrICu"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 197760,
       "name": "DOLLAZ ON MY HEAD (feat. Young Thug)",
       "url": "https://open.spotify.com/track/3nS9a01VvXHQriLqJYwRqG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "One of Wun",
-        "url": "https://open.spotify.com/album/7g0PJ7VbsOkYTECUFkyNPN"
-      },
-      "artists": [
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 147720,
-      "name": "collage",
-      "url": "https://open.spotify.com/track/41TXadM22OIJY04xSW9iuv"
     },
     {
       "added_at": null,
@@ -767,26 +767,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Me Than You",
-        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
-      },
-      "artists": [
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 203637,
-      "name": "It Is What It Is (feat. Gunna)",
-      "url": "https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Style Rare (with Gunna)",
         "url": "https://open.spotify.com/album/05MZLUrinCJorGmOMcnXF0"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 208800,
       "name": "Style Rare (with Gunna)",
       "url": "https://open.spotify.com/track/16k6Mkih2WIccEjhtRmMni"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Me Than You",
+        "url": "https://open.spotify.com/album/4Re8JSuo0lUxYCMjDnafvd"
+      },
+      "artists": [
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "It Is What It Is (feat. Gunna)",
+      "url": "https://open.spotify.com/track/5oq7ssOOA3U6UbQ5vjYQvO"
     },
     {
       "added_at": null,
@@ -947,26 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BABY I'M BACK (Remix)",
-        "url": "https://open.spotify.com/album/4TCXp0ZTbzKsmRIAmRPofE"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 230540,
-      "name": "BABY I'M BACK - Remix",
-      "url": "https://open.spotify.com/track/2vlUAb1FCGBt2hLKIOVjN7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HEROES & VILLAINS",
         "url": "https://open.spotify.com/album/7txGsnDSqVMoRl6RQ9XyZP"
       },
@@ -983,6 +963,26 @@
       "duration_ms": 167400,
       "name": "All The Money (with Gunna) [Bonus]",
       "url": "https://open.spotify.com/track/4a1fh9vJMMoRjNrBmEWoM0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BABY I'M BACK (Remix)",
+        "url": "https://open.spotify.com/album/4TCXp0ZTbzKsmRIAmRPofE"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "Gunna",
+          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
+        }
+      ],
+      "duration_ms": 230540,
+      "name": "BABY I'M BACK - Remix",
+      "url": "https://open.spotify.com/track/2vlUAb1FCGBt2hLKIOVjN7"
     },
     {
       "added_at": null,
@@ -1023,26 +1023,6 @@
       "duration_ms": 197420,
       "name": "Top Off",
       "url": "https://open.spotify.com/track/0HCnj7pfrvshnocOJUFeit"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Please Excuse Me for Being Antisocial",
-        "url": "https://open.spotify.com/album/52u4anZbHd6UInnmHRFzba"
-      },
-      "artists": [
-        {
-          "name": "Roddy Ricch",
-          "url": "https://open.spotify.com/artist/757aE44tKEUQEqRuT6GnEB"
-        },
-        {
-          "name": "Gunna",
-          "url": "https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ"
-        }
-      ],
-      "duration_ms": 158691,
-      "name": "Start Wit Me (feat. Gunna)",
-      "url": "https://open.spotify.com/track/7A20WnLkjtZU2d7hIB6Ziu"
     }
   ],
   "unique_name": "This Is Gunna",

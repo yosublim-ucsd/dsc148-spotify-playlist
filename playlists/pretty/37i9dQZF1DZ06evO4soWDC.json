@@ -1,12 +1,12 @@
 {
   "description": "This is Luca Brasi. The essential tracks, all in one playlist.",
-  "num_followers": 898,
+  "num_followers": 899,
   "original_name": "This Is Luca Brasi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADbFlgfKSrPsyFNBEBRqr3m",
+  "snapshot_id": "Z4mdgAAAAABmoe7uq7Vzq3rA70gwg3yD",
   "tracks": [
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 168451,
-      "name": "Reeling",
-      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
+      "duration_ms": 186270,
+      "name": "Collisions",
+      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
     },
     {
       "added_at": null,
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu"
         }
       ],
-      "duration_ms": 186270,
-      "name": "Collisions",
-      "url": "https://open.spotify.com/track/5zhsZVgFMhEd7q3L3BbpOb"
+      "duration_ms": 168451,
+      "name": "Reeling",
+      "url": "https://open.spotify.com/track/1nvESaptuv0S2ZzfKsLL9U"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Psyched-out bands from the four corners of the world. Hermanos Guti\u00e9rrez on cover.",
-  "num_followers": 552097,
+  "num_followers": 552204,
   "original_name": "Neo-Psychedelic Rock",
   "owner": {
     "name": "Spotify",
@@ -299,18 +299,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Django's High",
-        "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
+        "name": "Barrio Hustle",
+        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
       },
       "artists": [
         {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+          "name": "Hermanos Guti\u00e9rrez",
+          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
         }
       ],
-      "duration_ms": 183978,
-      "name": "Casino",
-      "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
+      "duration_ms": 194400,
+      "name": "Barrio Hustle",
+      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
     },
     {
       "added_at": "2025-01-16 21:42:19",
@@ -363,34 +363,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Barrio Hustle",
-        "url": "https://open.spotify.com/album/2AEaojPi8YQ9nXo7pip5lV"
+        "name": "Django's High",
+        "url": "https://open.spotify.com/album/05ToJnopcSnLYnbO0u8Mxq"
       },
       "artists": [
         {
-          "name": "Hermanos Guti\u00e9rrez",
-          "url": "https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV"
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
         }
       ],
-      "duration_ms": 194400,
-      "name": "Barrio Hustle",
-      "url": "https://open.spotify.com/track/6FOc4NSB1VANpAu1e24JbC"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "SongBook",
-        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
-      },
-      "artists": [
-        {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
-        }
-      ],
-      "duration_ms": 261556,
-      "name": "Imaginary Girl",
-      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+      "duration_ms": 183978,
+      "name": "Casino",
+      "url": "https://open.spotify.com/track/2F6OAlmLqW0MmRA4Qo5o6W"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -411,6 +395,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "SongBook",
+        "url": "https://open.spotify.com/album/1w73ipVNe04ERHc8bwEQG0"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 261556,
+      "name": "Imaginary Girl",
+      "url": "https://open.spotify.com/track/0dXdVTTo1hVSWvqEJQ04Gy"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Cinnamon Temple",
         "url": "https://open.spotify.com/album/1P85aR5iylgBaVh7plJAxJ"
       },
@@ -423,6 +423,22 @@
       "duration_ms": 200664,
       "name": "Cinnamon Temple",
       "url": "https://open.spotify.com/track/423nHTxJ1p5nopxYRNywqD"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Pain",
+        "url": "https://open.spotify.com/album/5MIa2rtg1bmxpWHo3rOOmG"
+      },
+      "artists": [
+        {
+          "name": "The Americojones Experience",
+          "url": "https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf"
+        }
+      ],
+      "duration_ms": 506000,
+      "name": "Pain",
+      "url": "https://open.spotify.com/track/0m3kahWiwRZJH30EJmU6jH"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -443,26 +459,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "We Were We Still Are",
-        "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        },
-        {
-          "name": "Kae Tempest",
-          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
-        }
-      ],
-      "duration_ms": 177920,
-      "name": "We Were We Still Are",
-      "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Lonerism",
         "url": "https://open.spotify.com/album/3C2MFZ2iHotUQOSBzdSvM7"
       },
@@ -479,18 +475,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Pain",
-        "url": "https://open.spotify.com/album/5MIa2rtg1bmxpWHo3rOOmG"
+        "name": "We Were We Still Are",
+        "url": "https://open.spotify.com/album/01DzJZ1Ir8CkDfVDZdxsW9"
       },
       "artists": [
         {
-          "name": "The Americojones Experience",
-          "url": "https://open.spotify.com/artist/5nxmzG12WW5he5vDgnyQLf"
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        },
+        {
+          "name": "Kae Tempest",
+          "url": "https://open.spotify.com/artist/1YcprGtF13BYCZQK9jYPEw"
         }
       ],
-      "duration_ms": 506000,
-      "name": "Pain",
-      "url": "https://open.spotify.com/track/0m3kahWiwRZJH30EJmU6jH"
+      "duration_ms": 177920,
+      "name": "We Were We Still Are",
+      "url": "https://open.spotify.com/track/1t7KPfFCA5fVTV1FR9kSuJ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -543,22 +543,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Looking For A Way Out (Of Del Rio)",
-        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
-      },
-      "artists": [
-        {
-          "name": "Future Utopia",
-          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
-        }
-      ],
-      "duration_ms": 187613,
-      "name": "Looking For A Way Out (Of Del Rio)",
-      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "The Gold & Silver Sessions",
         "url": "https://open.spotify.com/album/4WD2n2uML96zPjzds22Ykl"
       },
@@ -591,22 +575,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "H\u00e4xan",
-        "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
-      },
-      "artists": [
-        {
-          "name": "Yo Diablo",
-          "url": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
-        }
-      ],
-      "duration_ms": 247034,
-      "name": "Cap.4: El Sabbath de las Brujas",
-      "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "A Dream of Lasting Peace",
         "url": "https://open.spotify.com/album/1pHgdqO0kbrAdWjLyxViTw"
       },
@@ -619,6 +587,38 @@
       "duration_ms": 218013,
       "name": "Secrets",
       "url": "https://open.spotify.com/track/1ss4bFTY8QsBBaefZul5W0"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Looking For A Way Out (Of Del Rio)",
+        "url": "https://open.spotify.com/album/1LMu6OXrzOcVAtLZ7qX0H5"
+      },
+      "artists": [
+        {
+          "name": "Future Utopia",
+          "url": "https://open.spotify.com/artist/1vlBj1Zv2y6dCNdGeIBsNo"
+        }
+      ],
+      "duration_ms": 187613,
+      "name": "Looking For A Way Out (Of Del Rio)",
+      "url": "https://open.spotify.com/track/3vOyu61SLPVWmfQLYgv7Gd"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "H\u00e4xan",
+        "url": "https://open.spotify.com/album/73dHfYxUCu6FCSJJOfgsUW"
+      },
+      "artists": [
+        {
+          "name": "Yo Diablo",
+          "url": "https://open.spotify.com/artist/5Z38kr6DZXdvG4A3fQVu2W"
+        }
+      ],
+      "duration_ms": 247034,
+      "name": "Cap.4: El Sabbath de las Brujas",
+      "url": "https://open.spotify.com/track/5BnzY7dZ0Ws2SPXeuQlAFZ"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Overdrive",
-        "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
-      },
-      "artists": [
-        {
-          "name": "Phafner",
-          "url": "https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci"
-        }
-      ],
-      "duration_ms": 329693,
-      "name": "Plea From The Soul",
-      "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "ILION",
         "url": "https://open.spotify.com/album/13eFPkUHYAhYQ7uSSm9It3"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 668573,
       "name": "Ilion",
       "url": "https://open.spotify.com/track/6mRehTAP8l6ntbSrMhQcIS"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Overdrive",
+        "url": "https://open.spotify.com/album/1uk2d7U9mHyflSmcPxkhV5"
+      },
+      "artists": [
+        {
+          "name": "Phafner",
+          "url": "https://open.spotify.com/artist/4DfFBzcBgZvLafLxiLhHci"
+        }
+      ],
+      "duration_ms": 329693,
+      "name": "Plea From The Soul",
+      "url": "https://open.spotify.com/track/3IroBaDGAzIty2iPEdVX1F"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -895,6 +895,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "EP1",
+        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
+      },
+      "artists": [
+        {
+          "name": "The Lazy Eyes",
+          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+        }
+      ],
+      "duration_ms": 207000,
+      "name": "The Seaside - Edit",
+      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Moon Needs The Owl Pt. 1",
         "url": "https://open.spotify.com/album/1Q2wAdsHkrMy4LzY4cyIEx"
       },
@@ -911,18 +927,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "EP1",
-        "url": "https://open.spotify.com/album/0nXVT3uABRGS2yObbKA2eQ"
+        "name": "Gnod Drop Out With White Hills II",
+        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
       },
       "artists": [
         {
-          "name": "The Lazy Eyes",
-          "url": "https://open.spotify.com/artist/5ZCOgPpZNvlJEBnUZnDqW8"
+          "name": "Gnod",
+          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
+        },
+        {
+          "name": "White Hills",
+          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
         }
       ],
-      "duration_ms": 207000,
-      "name": "The Seaside - Edit",
-      "url": "https://open.spotify.com/track/1NzrEMlDGFMhVpkquqO8zZ"
+      "duration_ms": 661120,
+      "name": "Drop Out",
+      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -955,26 +975,6 @@
       "duration_ms": 425036,
       "name": "attention",
       "url": "https://open.spotify.com/track/3OIHAfGqY1X14l9kmJKdnX"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "Gnod Drop Out With White Hills II",
-        "url": "https://open.spotify.com/album/3mdaA9ijfJwy7Fep0mtDyN"
-      },
-      "artists": [
-        {
-          "name": "Gnod",
-          "url": "https://open.spotify.com/artist/0M7HBnNJoTfTWouL5O7FtO"
-        },
-        {
-          "name": "White Hills",
-          "url": "https://open.spotify.com/artist/0ttvGAnfEC6KZLrljUdIyX"
-        }
-      ],
-      "duration_ms": 661120,
-      "name": "Drop Out",
-      "url": "https://open.spotify.com/track/6x4gyJlPYr3C4hROTubXvh"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Bud Spencer Blues Explosion",
-        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
-      },
-      "artists": [
-        {
-          "name": "Bud Spencer Blues Explosion",
-          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
-        }
-      ],
-      "duration_ms": 195013,
-      "name": "Hey Boy Hey Girl - Cover Version",
-      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "The Efferusphere",
         "url": "https://open.spotify.com/album/1URVqxp9YmQ8i32dCjlsUA"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 232444,
       "name": "Red Sun",
       "url": "https://open.spotify.com/track/7Eu6PeKZpGJdOOe2aatrHJ"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Bud Spencer Blues Explosion",
+        "url": "https://open.spotify.com/album/6bmgowes6uR9WeQggryKqL"
+      },
+      "artists": [
+        {
+          "name": "Bud Spencer Blues Explosion",
+          "url": "https://open.spotify.com/artist/1bfWecjdxJOuN7f42oIH5S"
+        }
+      ],
+      "duration_ms": 195013,
+      "name": "Hey Boy Hey Girl - Cover Version",
+      "url": "https://open.spotify.com/track/22OlsKR3jeW1VWfeLLJzrf"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1139,18 +1139,18 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs"
+        "name": "The Real Work",
+        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
       },
       "artists": [
         {
-          "name": "Dead Vibrations",
-          "url": "https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr"
+          "name": "Party Dozen",
+          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
         }
       ],
-      "duration_ms": 235583,
-      "name": "Reflections",
-      "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
+      "duration_ms": 266737,
+      "name": "Risky Behaviour",
+      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1171,6 +1171,22 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/69rQ1bld0ENV22159ssTEs"
+      },
+      "artists": [
+        {
+          "name": "Dead Vibrations",
+          "url": "https://open.spotify.com/artist/4Mp0Z4j3la5wMW7qufBzsr"
+        }
+      ],
+      "duration_ms": 235583,
+      "name": "Reflections",
+      "url": "https://open.spotify.com/track/4Mg8hV7BLoqDzvUii8x9Iw"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
         "name": "Breathe in, Breathe Out",
         "url": "https://open.spotify.com/album/6KsF7RqHsReBCAmMqj8p0G"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 170333,
       "name": "Breathe in, Breathe Out",
       "url": "https://open.spotify.com/track/4J9LOhzDYiASTnXdOgG6I1"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
-        "name": "The Real Work",
-        "url": "https://open.spotify.com/album/2F5tmLKUwzhiIPdaUgIUIx"
-      },
-      "artists": [
-        {
-          "name": "Party Dozen",
-          "url": "https://open.spotify.com/artist/5LeiYFiAx31mpoPKxdOLOm"
-        }
-      ],
-      "duration_ms": 266737,
-      "name": "Risky Behaviour",
-      "url": "https://open.spotify.com/track/1ncZ5SwFLhrMzf9x6SsVKm"
     },
     {
       "added_at": "2024-09-27 06:00:00",
@@ -1563,22 +1563,6 @@
     {
       "added_at": "2024-09-27 06:00:00",
       "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv"
-      },
-      "artists": [
-        {
-          "name": "Kaleydo",
-          "url": "https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur"
-        }
-      ],
-      "duration_ms": 155975,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV"
-    },
-    {
-      "added_at": "2024-09-27 06:00:00",
-      "album": {
         "name": "Crispy Moon",
         "url": "https://open.spotify.com/album/1aQVe15zOQEamyYePKjtj2"
       },
@@ -1591,6 +1575,22 @@
       "duration_ms": 214466,
       "name": "Saku Saku (\u30b5\u30af\u30b5\u30af\uff09",
       "url": "https://open.spotify.com/track/0kyoRa0YcOHWjdcf4l2IIf"
+    },
+    {
+      "added_at": "2024-09-27 06:00:00",
+      "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/31lFR1BLOhNmWSh24DHPlv"
+      },
+      "artists": [
+        {
+          "name": "Kaleydo",
+          "url": "https://open.spotify.com/artist/0lUzMAqPTftADJZmdLe8ur"
+        }
+      ],
+      "duration_ms": 155975,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/3vdrGJ80tat9sdn4np0OVV"
     },
     {
       "added_at": "2024-09-27 06:00:00",

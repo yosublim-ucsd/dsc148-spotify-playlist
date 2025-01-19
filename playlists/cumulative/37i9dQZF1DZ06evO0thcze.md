@@ -4,7 +4,7 @@
 
 > This is Neto Peña\. The essential tracks, all in one playlist.
 
-71 songs - 4 hr 38 min
+72 songs - 4 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Creo En Mi](https://open.spotify.com/track/6n6sZz85ncrEiOaNNrjs4c) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Creo En Mi](https://open.spotify.com/album/0hgY2SAqUIOT10A3q9Qxj9) | 3:08 | 2023-12-16 | 2024-03-08 |
 | [Cypher](https://open.spotify.com/track/0M8HCM6ztBgsF150J7oCBt) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Bipo Montana](https://open.spotify.com/artist/6JG2QQcaQBzinELNvu9PRk), [Teeam Revolver](https://open.spotify.com/artist/5MRMYpdAWZawm3ivBeWvdK), [Geassassin](https://open.spotify.com/artist/4V2V4PaSblStayYVWTGDbZ), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4), [Toser One](https://open.spotify.com/artist/7rpKb1IlFFPINHXghluWTr) | [Cypher](https://open.spotify.com/album/74MnBAt8ADj9XZjmUiro9f) | 8:02 | 2023-11-10 |  |
 | [Debo Entender](https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [Debo Entender](https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8) | 3:58 | 2023-11-10 |  |
+| [Déjame Conocerte](https://open.spotify.com/track/15ruMfVVmUmseegU8b1VUU) | [La Garfield](https://open.spotify.com/artist/4MT1vDqEKurI3ctpK6TqLt), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI) | [Déjame Conocerte](https://open.spotify.com/album/64jzkUox8C2chUZAxUerD2) | 3:37 | 2025-01-19 |  |
 | [El Fiestón](https://open.spotify.com/track/4Vjn04mr4e3VMw5fbO2EVP) | [Toser One](https://open.spotify.com/artist/1oHPSeQJBwNmpq0J52Wjn1), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Almanegra](https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j), [Lefty Sm](https://open.spotify.com/artist/6eXHRfK9Ad3IpMpSAqvcDf), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Yoss Bones](https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4) | [El Fiestón](https://open.spotify.com/album/6oUqqtcH3bsQYsRXypgWvx) | 3:22 | 2023-11-10 |  |
 | [Eres Ese Algo 2.0](https://open.spotify.com/track/3uqPmBYZNkLax6vjYXI8VL) | [La Maquinaria Norteña](https://open.spotify.com/artist/7uGhSk7fVURjDaiXW1FSbL), [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Keith Nieto](https://open.spotify.com/artist/2I7I7undHMppfowRViQQ1p) | [Eres Ese Algo 2.0](https://open.spotify.com/album/5sBF9KH0kIVomiZp0DAvMU) | 2:48 | 2024-03-19 |  |
 | [Gallo de Pelea](https://open.spotify.com/track/0YYeNXmLPXWkRbVCnVAgga) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Akwid](https://open.spotify.com/artist/3mYFuz6iY7D9X78rOXg5CG) | [Gallo de Pelea](https://open.spotify.com/album/56X9pfjeVIccEJ8SVJlGod) | 4:24 | 2023-11-10 | 2024-12-02 |

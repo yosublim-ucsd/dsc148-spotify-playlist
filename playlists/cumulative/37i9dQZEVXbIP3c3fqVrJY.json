@@ -1794,7 +1794,7 @@
       ],
       "date_added": "2024-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 143030,
       "name": "a\u017e bude ho\u0159et",
       "url": "https://open.spotify.com/track/58fJfG0hk0vdapXWxljz20"
@@ -2824,7 +2824,7 @@
       ],
       "date_added": "2024-04-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 180304,
       "name": "Beautiful Things",
       "url": "https://open.spotify.com/track/3xkHsmpQCBMytMJNiDf3Ii"
@@ -6769,6 +6769,24 @@
     },
     {
       "album": {
+        "name": "SEPTUM",
+        "url": "https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178909,
+      "name": "Detox",
+      "url": "https://open.spotify.com/track/3QXIiWV390pSshsltzEwut"
+    },
+    {
+      "album": {
         "name": "Rammstein",
         "url": "https://open.spotify.com/album/1LoyJQVHPLHE3fCCS8Juek"
       },
@@ -7804,7 +7822,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 237117,
       "name": "DtMF",
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
@@ -10970,7 +10988,7 @@
       ],
       "date_added": "2024-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 146938,
       "name": "Habibi",
       "url": "https://open.spotify.com/track/74wgD07g5b77f2v1lPBK43"
@@ -14494,7 +14512,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 135000,
       "name": "KART\u00c1\u010cEK",
       "url": "https://open.spotify.com/track/2ybp61FAvNxmAe8XvmYWqW"
@@ -15056,6 +15074,24 @@
       "duration_ms": 208866,
       "name": "Kiss Me More (feat. SZA)",
       "url": "https://open.spotify.com/track/748mdHapucXQri7IAO8yFK"
+    },
+    {
+      "album": {
+        "name": "SEPTUM",
+        "url": "https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177500,
+      "name": "KISSES",
+      "url": "https://open.spotify.com/track/4PLB0dLpcbSGdoaE6jzowA"
     },
     {
       "album": {
@@ -19629,6 +19665,28 @@
     },
     {
       "album": {
+        "name": "S.A.M.O.",
+        "url": "https://open.spotify.com/album/03QrrM2ielwT7oZ2VsGjQX"
+      },
+      "artists": [
+        {
+          "name": "Saul",
+          "url": "https://open.spotify.com/artist/6xg3PSVEwviVyfnx3mtsPL"
+        },
+        {
+          "name": "Viktor Sheen",
+          "url": "https://open.spotify.com/artist/4cG43cUBRJWWDsRh4SW48i"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220502,
+      "name": "Na O\u010diach Vyryt\u00e9",
+      "url": "https://open.spotify.com/track/1Qzgt6gOMrwhMlmiBl3jbc"
+    },
+    {
+      "album": {
         "name": "NA ROHU",
         "url": "https://open.spotify.com/album/4srOAg5WqytWatEUXPW1ZJ"
       },
@@ -19785,6 +19843,28 @@
     },
     {
       "album": {
+        "name": "SEPTUM",
+        "url": "https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "KOJO",
+          "url": "https://open.spotify.com/artist/0edxmbwC1I57fIyRCuz2FY"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171130,
+      "name": "Napo\u0159\u00e1d",
+      "url": "https://open.spotify.com/track/0aOLXwkLkcEjaPYC8xnJGb"
+    },
+    {
+      "album": {
         "name": "Narcos",
         "url": "https://open.spotify.com/album/5RFUeH46MDwQ1PSIPJM6s5"
       },
@@ -19862,6 +19942,28 @@
       "duration_ms": 189466,
       "name": "Natural",
       "url": "https://open.spotify.com/track/2FY7b99s15jUprqC0M5NCT"
+    },
+    {
+      "album": {
+        "name": "SEPTUM",
+        "url": "https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "LUISA",
+          "url": "https://open.spotify.com/artist/7J8NWckBrcIlgoE7Ue8v9H"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145294,
+      "name": "NAVARI",
+      "url": "https://open.spotify.com/track/3LvnJ6uHMJqlq1whySnycK"
     },
     {
       "album": {
@@ -21284,7 +21386,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 122482,
       "name": "No Time (feat. Ektor)",
       "url": "https://open.spotify.com/track/2oVHIl6QBYy6bSbxTnc6Ee"
@@ -22088,10 +22190,28 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 190156,
       "name": "omluva",
       "url": "https://open.spotify.com/track/0cvBT4NeKjhFBI6IdSgtVK"
+    },
+    {
+      "album": {
+        "name": "SEPTUM",
+        "url": "https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190156,
+      "name": "omluva",
+      "url": "https://open.spotify.com/track/4yVTPAQ2bHS1PsbkMSXWMf"
     },
     {
       "album": {
@@ -27465,6 +27585,28 @@
     },
     {
       "album": {
+        "name": "SEPTUM",
+        "url": "https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Karol Komenda",
+          "url": "https://open.spotify.com/artist/62SyaQ2R5SyZeGiml0mrKB"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157714,
+      "name": "SN\u00cdH",
+      "url": "https://open.spotify.com/track/2v2sAMqfSOOvnwfYmnVr3s"
+    },
+    {
+      "album": {
         "name": "So Kere$",
         "url": "https://open.spotify.com/album/287O76jTne4yZ3JphdaWFL"
       },
@@ -28812,7 +28954,7 @@
       ],
       "date_added": "2023-04-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 155520,
       "name": "Sunset",
       "url": "https://open.spotify.com/track/4WXX611x1aCtwcqVJgA3xb"
@@ -28961,6 +29103,24 @@
     },
     {
       "album": {
+        "name": "SEPTUM",
+        "url": "https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141224,
+      "name": "Sv\u00edt\u00e1",
+      "url": "https://open.spotify.com/track/4uWbp5V95DXMIMQcnfSxVF"
+    },
+    {
+      "album": {
         "name": "Planeta opic",
         "url": "https://open.spotify.com/album/1lm4K8VIsxdvb6B0Rj6FMl"
       },
@@ -29034,7 +29194,7 @@
       ],
       "date_added": "2021-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 240400,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
@@ -30094,7 +30254,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 208211,
       "name": "The Night We Met",
       "url": "https://open.spotify.com/track/3hRV0jL3vUpRrcy398teAU"
@@ -30900,7 +31060,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 238050,
       "name": "Toxickej",
       "url": "https://open.spotify.com/track/3wBeakQgdNYT1dEQWvmboM"
@@ -31494,6 +31654,24 @@
       "duration_ms": 181790,
       "name": "U wish",
       "url": "https://open.spotify.com/track/1ev8LQb7reElKJQ9FweyKt"
+    },
+    {
+      "album": {
+        "name": "SEPTUM",
+        "url": "https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150478,
+      "name": "UBER CABRIO",
+      "url": "https://open.spotify.com/track/5jlM8LQ0Y9qsXMzORB2epl"
     },
     {
       "album": {
@@ -34691,6 +34869,28 @@
     },
     {
       "album": {
+        "name": "SEPTUM",
+        "url": "https://open.spotify.com/album/0bQIs0qfalOGxTcY3tXrmu"
+      },
+      "artists": [
+        {
+          "name": "Ben Cristovao",
+          "url": "https://open.spotify.com/artist/1bpca6RQE5kp92pIwPMBE8"
+        },
+        {
+          "name": "Hard Rico",
+          "url": "https://open.spotify.com/artist/4Vmja4orT3sZ2F3x3DanBZ"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162461,
+      "name": "Zaslou\u017een\u00fd",
+      "url": "https://open.spotify.com/track/7HdlQ15U3u9fLIzH5st0lq"
+    },
+    {
+      "album": {
         "name": "Zasvoe",
         "url": "https://open.spotify.com/album/1fDny1IqbOjL4jKfHDcGZg"
       },
@@ -34902,7 +35102,7 @@
       ],
       "date_added": "2024-11-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 148333,
       "name": "Zima Blue (feat. Nik Tendo & Yzomandias)",
       "url": "https://open.spotify.com/track/5wKPW5Df9Clwn2TmAvkQks"

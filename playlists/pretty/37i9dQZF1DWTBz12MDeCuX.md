@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 
 > Die Playlist, die dich fühlt\. Cover: Ritter Lean, Chapo 102
 
-[Spotify](https://open.spotify.com/user/spotify) - 471,614 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,565 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTBz12MDeCuX.md) - [plain]
 | 59 | [Günlerdir](https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo) | [Ceren](https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E) | [Günlerdir](https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt) | 2:45 |
 | 60 | [lass dich los](https://open.spotify.com/track/1BVqOjjfoLqRXS5n8gA8A5) | [mathi](https://open.spotify.com/artist/2WdZDDcWNpEKsQjSetoZE4) | [lass dich los](https://open.spotify.com/album/723T7wmPOm3KkUC1AunOg5) | 2:25 |
 | 61 | [Farbenblind](https://open.spotify.com/track/6LsWeh6tZFhcoBOkp0LGMz) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Farbenblind EP](https://open.spotify.com/album/2F29axH05m5a2d7iPKMxXI) | 2:28 |
-| 62 | [PORNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
+| 62 | [P\*RNSTAR](https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [AFTERCARE](https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub) | 2:29 |
 | 63 | [Shake It](https://open.spotify.com/track/3N582gksyaFCe7EkyjJIcd) | [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [Shake It](https://open.spotify.com/album/6DmLqPYNM4ofkQqq7fz6iZ) | 2:24 |
 | 64 | [HERZ](https://open.spotify.com/track/6P9bLDz0tS6KkopNkHNMTJ) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [BUNT.](https://open.spotify.com/artist/2CpLIMBoE2ZzyY3ZBCRZ7j) | [HERZ](https://open.spotify.com/album/0N8lZTYwdk9zuxDSXzshxt) | 2:03 |
 | 65 | [Allein da \- Radio Edit](https://open.spotify.com/track/1ZAY0JeV4APCcfvRkwTWEH) | [SAMIRA](https://open.spotify.com/artist/1ja6rO5jiXnkuG5E8WmmZD), [Jazeek](https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J) | [Allein da \(Radio Edit\)](https://open.spotify.com/album/4dhujyi2cjuJ8ByR9Ot1Nk) | 2:40 |

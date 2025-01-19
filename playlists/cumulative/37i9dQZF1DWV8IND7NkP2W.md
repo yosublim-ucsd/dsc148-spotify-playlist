@@ -4,7 +4,7 @@
 
 > The ultimate instrumental soundtrack for a long\-haul journey, to the bustling metropolis in Japan that never sleeps\. 日本のプロデューサーによるインスト楽曲を特集。
 
-776 songs - 1 day 11 hr 2 min
+777 songs - 1 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Another Dream](https://open.spotify.com/track/6asjZPi0s4wdk4Etx3eArV) | [yutaka hirasaka](https://open.spotify.com/artist/0stmdx2IonUUUIlWQ9bLYZ), [Lucid Green](https://open.spotify.com/artist/587BLbZ68izUrdPtYAFYfs) | [Another Dream](https://open.spotify.com/album/6sTcGK7CQiZPCmpE5ENpl8) | 2:51 | 2021-12-23 |  |
 | [Another Moment](https://open.spotify.com/track/7iKRSD3veF495sEM174M97) | [DJ Ryow a.k.a\. Smooth Current](https://open.spotify.com/artist/11TpYQQbNIsB5W9dvakmjy) | [Another Moment](https://open.spotify.com/album/4G5Va0UINm6wkRsUJgLLxL) | 4:08 | 2021-12-23 |  |
 | [ao](https://open.spotify.com/track/12V8V1jdcg3ah1CoelwNm8) | [Shimon Hoshino](https://open.spotify.com/artist/0glynIW7kVokBq524NHRQH) | [ao](https://open.spotify.com/album/2ThJpeNGPpcWwBVXDGfEtu) | 2:40 | 2023-04-27 | 2023-06-27 |
+| [Aple](https://open.spotify.com/track/7l0yJXXHpVBXJ0UhSoATDJ) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Aple](https://open.spotify.com/album/7LzdO8th6hghtKg5rAgOQv) | 2:23 | 2025-01-13 |  |
 | [Aquamarine](https://open.spotify.com/track/6lzL8uBR5CMV25mC8mOgPA) | [NICKELMAN](https://open.spotify.com/artist/36pqgmoQFc12FhcRZitq6I) | [Aquamarine](https://open.spotify.com/album/52z4GzIPY0zJyf6NtEVUbD) | 3:37 | 2022-01-06 | 2022-07-28 |
 | [Arayashiki](https://open.spotify.com/track/0XWQDqYLIVz9maYrUGNYQ7) | [EVISBEATS](https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc) | [That's Life](https://open.spotify.com/album/2RjG0cRdZWlSOTakPbKxB6) | 2:49 | 2023-02-09 |  |
 | [Arch](https://open.spotify.com/track/5yU7OG4WqTGf9iAugbIY02) | [Bugseed](https://open.spotify.com/artist/0ObliAtls0po56kVnacsOd) | [Arch](https://open.spotify.com/album/3ciBE6IkZerQqNGdHQmMuP) | 3:21 | 2022-02-15 | 2022-07-28 |
@@ -347,7 +348,7 @@
 | [Kizuna](https://open.spotify.com/track/6bsS5j5OC2q5ZrxlVg9rTs) | [LONELY ONES](https://open.spotify.com/artist/1LKvEhiNWYuFkzrfBsX1i7) | [Kizuna](https://open.spotify.com/album/1ISgbuRY57vsJWuxiNLtYu) | 3:09 | 2021-12-23 | 2022-07-19 |
 | [Know](https://open.spotify.com/track/2oRJS3visA5i3TNnGdqgIl) | [Rin Ishi](https://open.spotify.com/artist/1lpChpnNOXYwKQKjzl5wup) | [Know](https://open.spotify.com/album/2saePS98KD93dEu1pYAM2H) | 2:52 | 2022-03-31 | 2023-04-21 |
 | [Kodama](https://open.spotify.com/track/4Umx3U9NAiorxTL6DUoGY8) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP) | [Kodama](https://open.spotify.com/album/4S9RRERSAdBcIi0QcTnZmG) | 3:06 | 2021-12-23 |  |
-| [kokoro](https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [kokoro](https://open.spotify.com/album/61O3OR2eHp9oJUbQGcZK0B) | 2:11 | 2024-07-26 |  |
+| [kokoro](https://open.spotify.com/track/1xIhftSWn47k5e7wqRUwJ6) | [hario island](https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN) | [kokoro](https://open.spotify.com/album/61O3OR2eHp9oJUbQGcZK0B) | 2:11 | 2024-07-26 | 2025-01-19 |
 | [Konbi](https://open.spotify.com/track/6P8KIcJyzzBst9rTZoTpFh) | [Mura Kami](https://open.spotify.com/artist/1UMKAtfbQKKYEp8mvAHRWE) | [Konbi](https://open.spotify.com/album/7oujpeIz11LxhncniITIoh) | 2:15 | 2021-12-23 | 2022-05-29 |
 | [Kurumi](https://open.spotify.com/track/3j1b88dEz4HILuRltaaC00) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0kyAObNeOcC4abeGJkLW0K) | 2:43 | 2022-04-14 | 2022-07-29 |
 | [Kurumi](https://open.spotify.com/track/5pniszt2JxZLIIbrhTPrf6) | [ORANCHA](https://open.spotify.com/artist/2qF0nxmV3bJDUBGwnJ0xSp) | [Mentatea](https://open.spotify.com/album/0Gdtq1ZZ7G1LP1l9DJMWLe) | 2:43 | 2022-07-28 | 2022-12-24 |

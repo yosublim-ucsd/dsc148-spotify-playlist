@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX55dNU0PWnO5.md) - [plain]
 
 > Jazzy blips and blops
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,834 likes - 200 songs - 12 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,850 likes - 200 songs - 12 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

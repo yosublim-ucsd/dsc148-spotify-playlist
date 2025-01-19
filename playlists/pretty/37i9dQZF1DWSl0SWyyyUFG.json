@@ -1,6 +1,6 @@
 {
   "description": "Recordando a los \u00eddolos de la m\u00fasica de banda. Julio Preciado en portada.",
-  "num_followers": 328744,
+  "num_followers": 329003,
   "original_name": "Banda: Viejitas Pero Bonitas",
   "owner": {
     "name": "Spotify",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2024-07-03 18:00:30",
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 205813,
-      "name": "Me equivoqu\u00e9",
-      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
-    },
-    {
-      "added_at": "2024-07-03 18:00:30",
-      "album": {
         "name": "Simplemente Arrolladora",
         "url": "https://open.spotify.com/album/6WBda3pmvB70QXDRRw1cSv"
       },
@@ -2315,6 +2299,22 @@
       "duration_ms": 207186,
       "name": "\u00bfQu\u00e9 Me Vas a Dar?",
       "url": "https://open.spotify.com/track/6noag39xc1z1VuHLm9CSA5"
+    },
+    {
+      "added_at": "2024-07-03 18:00:30",
+      "album": {
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
+      },
+      "artists": [
+        {
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
+        }
+      ],
+      "duration_ms": 205813,
+      "name": "Me equivoqu\u00e9",
+      "url": "https://open.spotify.com/track/2b9l3Hx1Msq36CiiVoqmtX"
     },
     {
       "added_at": "2024-07-03 18:00:30",

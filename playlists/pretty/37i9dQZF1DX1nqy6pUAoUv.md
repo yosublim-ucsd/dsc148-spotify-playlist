@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 181,643 likes - 100 songs - 6 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 181,656 likes - 100 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 78 | [Pigeons](https://open.spotify.com/track/5v11vzJ8bvdCkUm6yBUKsF) | [Bill Callahan](https://open.spotify.com/artist/7gqsi6aBSkRMJoL9psKqMr) | [Gold Record](https://open.spotify.com/album/309GzmwSB1Aj3gh8Tpp3Fo) | 5:25 |
 | 79 | [Between the Dirt and the Stars](https://open.spotify.com/track/6KVNq8E6WNEzzVG6FKbB67) | [Mary Chapin Carpenter](https://open.spotify.com/artist/0qAmeOULjwn04k6jMMeDyr) | [Between the Dirt and the Stars](https://open.spotify.com/album/2zycZmLSNzFFttOYmBqDYK) | 7:43 |
 | 80 | [Black Myself](https://open.spotify.com/track/5cH2yuvqPh7IsqetGmSoAE) | [Our Native Daughters](https://open.spotify.com/artist/6RnVRG8PIgQT6vYzbfHZXW), [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl), [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Leyla McCalla](https://open.spotify.com/artist/2Roq56H3IIvY3DZUKrGO7Y), [Allison Russell](https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6) | [Songs of Our Native Daughters](https://open.spotify.com/album/4h2VDUKuFcJ0cJTQFcNc3A) | 3:54 |
-| 81 | [The Lonely Persistence of Time](https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Lonely Persistence of Time](https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d) | 4:20 |
-| 82 | [Another Day](https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Before I Go](https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP) | 4:55 |
+| 81 | [Another Day](https://open.spotify.com/track/1uHFTt7HcnjLsgZXHYwhzm) | [Ordinary Elephant](https://open.spotify.com/artist/4KDRZ2NwxT9UZ0RyG8gHFs) | [Before I Go](https://open.spotify.com/album/1lLVbM1SXPFR4WeVcQ0KQP) | 4:55 |
+| 82 | [The Lonely Persistence of Time](https://open.spotify.com/track/14QQhzM4gDwNP1M52pyq9p) | [Mary Bragg](https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj) | [The Lonely Persistence of Time](https://open.spotify.com/album/5g84elUozrlHGFSYCvvV8d) | 4:20 |
 | 83 | [Georgia Drumbeat](https://open.spotify.com/track/3VqiXdRJTMkz3LHwsCgkaj) | [Dom Flemons](https://open.spotify.com/artist/79ScU9PMzW9i0jw67b5kVb) | [Prospect Hill: The American Songster Omnibus](https://open.spotify.com/album/4Pp8Sv28eS0e694u9dKTfo) | 2:50 |
 | 84 | [Not Dark Yet](https://open.spotify.com/track/6uG0VaubeAXcdqWJWirGtv) | [Shelby Lynne](https://open.spotify.com/artist/3xx17YXYvPl9PBx6Jzalk4), [Allison Moorer](https://open.spotify.com/artist/1Fp2fNrv2udkdpOqFWn8IY) | [Not Dark Yet](https://open.spotify.com/album/4yJfRrReJMfIEULve1NksC) | 4:19 |
 | 85 | [The Fray \(feat\. The Milk Carton Kids\)](https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:09 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 95 | [In the Kingdom of Dreams](https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD) | [Ian Felice](https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv) | [In the Kingdom of Dreams](https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7) | 3:56 |
 | 96 | [Lorraine](https://open.spotify.com/track/3jHOkEZCTrMeKXniGvZDwc) | [Peter Bradley Adams](https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V) | [Lorraine](https://open.spotify.com/album/51pYSEkHVj2zC8Eaoo1NoA) | 4:33 |
 | 97 | [Walk Into a Storm](https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk Into a Storm](https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp) | 5:06 |
-| 98 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
-| 99 | [Unmistakable Love](https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Songs Of](https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY) | 3:55 |
+| 98 | [Unmistakable Love](https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Songs Of](https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY) | 3:55 |
+| 99 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
 | 100 | [Pacific Northwest Bound](https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN) | [Mike McKenna Jr.](https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0) | [Pacific Northwest Bound](https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ) | 2:53 |
 
 Snapshot ID: `ZzbVUAAAAACmG3SgEe4Q2ECDWp6ZUWED`

@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best recent Prog Rock tracks. Cover: Weather Systems",
-  "num_followers": 108756,
+  "num_followers": 108818,
   "original_name": "Prog Rock",
   "owner": {
     "name": "Spotify",
@@ -376,12 +376,12 @@
       },
       "artists": [
         {
-          "name": "The Brothers Nylon",
-          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
-        },
-        {
           "name": "Big Leaf",
           "url": "https://open.spotify.com/artist/1JUUWpP7Wx9WE8ZKmV6Gcb"
+        },
+        {
+          "name": "The Brothers Nylon",
+          "url": "https://open.spotify.com/artist/5WLTGcENPt84BZtmx6rt50"
         }
       ],
       "duration_ms": 145877,

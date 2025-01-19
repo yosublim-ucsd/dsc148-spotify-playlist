@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 40 | [Heavenly Light](https://open.spotify.com/track/7m8kjTGYFtjjn4ZnrDLX6B) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:50 |
 | 41 | [Dreamcatcher](https://open.spotify.com/track/0D81wzH8VlGw25o2DZnACn) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:15 |
 | 42 | [One Night in the Sun](https://open.spotify.com/track/7AeweiIEGcs2iAmSqTmR8r) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 4:24 |
-| 43 | [The Power](https://open.spotify.com/track/5Z1RqaiphN2HUoNa4fvvZd) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 4:38 |
-| 44 | [Die For Your Love](https://open.spotify.com/track/1AOTYevwqid1yqhxvaxDoY) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:39 |
+| 43 | [Die For Your Love](https://open.spotify.com/track/1AOTYevwqid1yqhxvaxDoY) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 3:39 |
+| 44 | [The Power](https://open.spotify.com/track/5Z1RqaiphN2HUoNa4fvvZd) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Heart To Mouth](https://open.spotify.com/album/2Cjcnt1YhsNpMz6oE1IpUs) | 4:38 |
 | 45 | [One Last Mistake](https://open.spotify.com/track/0Mo8e9GpOr8dJ2YuOo7jNB) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 3:35 |
 | 46 | [Day By Day](https://open.spotify.com/track/1AWffsRRRPuqAM6hC5atPX) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Day By Day](https://open.spotify.com/album/6VU1gU8DiUTwtBOglFMYGO) | 3:40 |
 | 47 | [Your Town](https://open.spotify.com/track/3HzpX6bOdxUq9X4cDObkNJ) | [LP](https://open.spotify.com/artist/0J7U24vlOOIeMpuaO6Q85A) | [Forever for Now \(Deluxe Edition\)](https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw) | 4:25 |
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLoUfni1QYZU.md) - [plain]
 | 83 | [Afraid To Sleep \- The Voice Performance](https://open.spotify.com/track/06Km3ZJ7x5Bbw6BzwvKNgq) | [Vicci Martinez](https://open.spotify.com/artist/1sxu3pxg9icRUHpyWpDxz2) | [Afraid To Sleep \(The Voice Performance\)](https://open.spotify.com/album/1ZXYmRM2sYpVMXRHYvSezX) | 3:20 |
 | 84 | [Pedestal](https://open.spotify.com/track/1mVW6SmGOr1UMfIBf9xSag) | [EMIN](https://open.spotify.com/artist/0sKY9AcBdiGx4FbFbQsXoX) | [Good Love](https://open.spotify.com/album/13jgOeU2lMcpB0JJ77aJXt) | 3:25 |
 
-Snapshot ID: `AbnI6gAAAAA2FXfPplhreMyixPFTXgdv`
+Snapshot ID: `AbnOgAAAAABvtV+ElkpuAXnJ4UrkcN4u`

@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 101759,
       "name": "Blossom's Day",
       "url": "https://open.spotify.com/track/2kQKAtga9QYY9RV4xO8huL"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-05-25",
+      "date_removed": null,
       "duration_ms": 110000,
       "name": "City Bay",
       "url": "https://open.spotify.com/track/5G2aoK7fQ8XEIEgsRiRq01"
@@ -6052,6 +6052,24 @@
       "duration_ms": 140416,
       "name": "Eternal Minds",
       "url": "https://open.spotify.com/track/1hI8kgl7nOWmpWDS4TPPqa"
+    },
+    {
+      "album": {
+        "name": "Ethereal",
+        "url": "https://open.spotify.com/album/1fIKqOS8o1aNSwloiSAUz3"
+      },
+      "artists": [
+        {
+          "name": "Evil Needle",
+          "url": "https://open.spotify.com/artist/37nE9g0LRDhDSIejDuPKPS"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168255,
+      "name": "Ethereal",
+      "url": "https://open.spotify.com/track/1ThCIYjM5j5UWPRd39PEd8"
     },
     {
       "album": {
@@ -11650,7 +11668,7 @@
       ],
       "date_added": "2023-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 128000,
       "name": "Low Games",
       "url": "https://open.spotify.com/track/4PM6vMw5PXjGqQwgggO6Ay"

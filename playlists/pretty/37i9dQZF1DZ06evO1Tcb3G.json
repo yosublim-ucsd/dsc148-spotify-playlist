@@ -1,13 +1,45 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 481828,
+  "num_followers": 481892,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAAQxcyDd3yy86PPC0rovXva",
+  "snapshot_id": "Z4mdgAAAAADWXPz3cNFbVzcvIGHUywIJ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/1ozQDYIyCeM7YKhHotVdny"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/0rPHsDRiWwPfR6HG7JLj1K"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+    },
     {
       "added_at": null,
       "album": {
@@ -563,30 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Johannesburg",
-        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
-      },
-      "artists": [
-        {
-          "name": "Mumford & Sons",
-          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
-        },
-        {
-          "name": "The Very Best",
-          "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
-        },
-        {
-          "name": "Beatenberg",
-          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
-        }
-      ],
-      "duration_ms": 221099,
-      "name": "Fool You\u2019ve Landed",
-      "url": "https://open.spotify.com/track/0MKQZo1oHR4IOoc63V6Mxg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wilder Mind (Deluxe)",
         "url": "https://open.spotify.com/album/4QX0TZrsq1Q8OCSQAptQAV"
       },
@@ -599,6 +607,34 @@
       "duration_ms": 190034,
       "name": "Just Smoke",
       "url": "https://open.spotify.com/track/2zQsaJTFKkFInvAvTaurHY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Johannesburg",
+        "url": "https://open.spotify.com/album/27AgSR4nCZSfMzb61JQ066"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        },
+        {
+          "name": "Baaba Maal",
+          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
+        },
+        {
+          "name": "The Very Best",
+          "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
+        },
+        {
+          "name": "Beatenberg",
+          "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
+        }
+      ],
+      "duration_ms": 240453,
+      "name": "Wona",
+      "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
     },
     {
       "added_at": null,
@@ -628,10 +664,6 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         },
         {
-          "name": "Baaba Maal",
-          "url": "https://open.spotify.com/artist/49z6oAiD2RpyUf5yLJs7Nf"
-        },
-        {
           "name": "The Very Best",
           "url": "https://open.spotify.com/artist/7ngHgvOBZdRQb9ITJfLvdO"
         },
@@ -640,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3S9sb8w9r1iojdrAL1soiU"
         }
       ],
-      "duration_ms": 240453,
-      "name": "Wona",
-      "url": "https://open.spotify.com/track/63akED5KUaUrrjhp3D57lE"
+      "duration_ms": 221099,
+      "name": "Fool You\u2019ve Landed",
+      "url": "https://open.spotify.com/track/0MKQZo1oHR4IOoc63V6Mxg"
     }
   ],
   "unique_name": "This Is Mumford & Sons",

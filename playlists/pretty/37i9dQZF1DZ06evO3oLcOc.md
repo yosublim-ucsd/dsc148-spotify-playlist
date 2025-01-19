@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 
 > This is Tyga\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 224,893 likes - 51 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 224,906 likes - 51 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,12 +52,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3oLcOc.md) - [plain]
 | 42 | [Sheikh Talk](https://open.spotify.com/track/34617Qo6OTu44BEEg2f9uG) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Sheikh Talk](https://open.spotify.com/album/2h9HZUoglSEwFarjdWcPzi) | 2:40 |
 | 43 | [Lights Out \(feat\. Fat Trel\)](https://open.spotify.com/track/77ZhzP75wx1qzhFG4P7vyt) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:46 |
 | 44 | [soak city \(feat\. OhGeesy & BlueBucksClan\)](https://open.spotify.com/track/2EYdheS1WcwbBv8bRmbvvW) | [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p), [Blueface](https://open.spotify.com/artist/3Fl1V19tmjt57oBdxXKAjJ), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [OHGEESY](https://open.spotify.com/artist/3ppQEG71r7jVpI8RudzycF), [BlueBucksClan](https://open.spotify.com/artist/1l61CX1j6go8arTjPH9wy0) | [soak city \(feat\. OhGeesy & BlueBucksClan\)](https://open.spotify.com/album/3htlZheOSXN2DdT7L1HtDF) | 4:04 |
-| 45 | [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 |
-| 46 | [Bops Goin Brazy](https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Bops Goin Brazy](https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S) | 2:08 |
+| 45 | [Bops Goin Brazy](https://open.spotify.com/track/1A8bKLSq6A4OboABhnDN6Q) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Bops Goin Brazy](https://open.spotify.com/album/4xmCPyhSVSiLPGpWxrUQ1S) | 2:08 |
+| 46 | [Nasty](https://open.spotify.com/track/0WlotBaAKbCwFTRnrypGpu) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Nasty](https://open.spotify.com/album/4vP2T7n2mNQlyib3eMGjbO) | 3:28 |
 | 47 | [Girl You Loud](https://open.spotify.com/track/6dRVOzSxLqRdqUjc9mctGg) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 3:33 |
 | 48 | [Legendary \(feat\. Gunna\)](https://open.spotify.com/track/4yn0ftNHQSwsWE81h33y4K) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [Legendary](https://open.spotify.com/album/6hHIX3lfGKnZ2ji41YZMVV) | 2:32 |
 | 49 | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/3GW3dMxqIbl14cZtpLRQBy) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Splash \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/78G2ZuU0lbpOLgrMS4OYbv) | 2:53 |
-| 50 | [Don't Be Fooled](https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 3:14 |
-| 51 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
+| 50 | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/track/7FX4EvQht57zUc2P313cEZ) | [Scott Storch](https://open.spotify.com/artist/4hadtPX6kKntrnA87Zdy01), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fuego Del Calor \(feat\. Ozuna, Tyga & Capo Plaza\)](https://open.spotify.com/album/6O7pWTHLRiNKcHPkonDJWz) | 3:16 |
+| 51 | [Don't Be Fooled](https://open.spotify.com/track/68nJfpn8kBhuasoaBqGmbQ) | [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Don't Be Fooled](https://open.spotify.com/album/3fyfhnGmCGj7AiMc1aBfW2) | 3:14 |
 
-Snapshot ID: `Z4hMAAAAAADx5JaRojcZAkXq+z/9U35O`
+Snapshot ID: `Z4mdgAAAAACn9s4aWL5/3ujmf7hL46Qz`

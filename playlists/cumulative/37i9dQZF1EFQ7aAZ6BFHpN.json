@@ -3354,7 +3354,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 174266,
       "name": "Promenade: Walking the Dog",
       "url": "https://open.spotify.com/track/1lyk2IpuT8YfuoInTRfHM4"
@@ -4196,6 +4196,32 @@
       "duration_ms": 501933,
       "name": "Violin Concerto in D Major, Op. 61: III. Rondo - Allegro",
       "url": "https://open.spotify.com/track/6KnRJ01itdWnLAwjZRUi8T"
+    },
+    {
+      "album": {
+        "name": "Manhattan Playboys - American Light Classics",
+        "url": "https://open.spotify.com/album/4to8RtQ37KGn9KPliy7E2m"
+      },
+      "artists": [
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        },
+        {
+          "name": "Iain Sutherland Concert Orchestra",
+          "url": "https://open.spotify.com/artist/0T8RuYrFepdPuz5Zkpyo1a"
+        },
+        {
+          "name": "Iain Sutherland",
+          "url": "https://open.spotify.com/artist/5IMrAzailmE4a1Xh84e2ss"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186400,
+      "name": "Walking the Dog",
+      "url": "https://open.spotify.com/track/44BqSNIY939oSXXYWYfoQJ"
     },
     {
       "album": {

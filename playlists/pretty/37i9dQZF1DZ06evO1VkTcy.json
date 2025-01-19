@@ -1,12 +1,12 @@
 {
   "description": "This is Lourena. The essential tracks, all in one playlist.",
-  "num_followers": 21896,
+  "num_followers": 21899,
   "original_name": "This Is Lourena",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAAMrlLFO+dcvLZ4WkPTR+I0",
+  "snapshot_id": "Z4mdgAAAAACrnbNvV+wQ90XZdrTyISL0",
   "tracks": [
     {
       "added_at": null,
@@ -523,34 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Pe\u00e7o Pra Ficar",
-        "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Black",
-          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
-        },
-        {
-          "name": "Salve Malak",
-          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
-        }
-      ],
-      "duration_ms": 235862,
-      "name": "Te Pe\u00e7o Pra Ficar",
-      "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica Ep. Acabou",
         "url": "https://open.spotify.com/album/5sENXit6vpwJiumlyKo1Gw"
       },
@@ -579,6 +551,34 @@
       "duration_ms": 270000,
       "name": "Poesia Ac\u00fastica Ep. Acabou",
       "url": "https://open.spotify.com/track/4O70zH7vpNWNZCYtyRkuoJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Te Pe\u00e7o Pra Ficar",
+        "url": "https://open.spotify.com/album/4ekM383zmPmwR4S4EPinIl"
+      },
+      "artists": [
+        {
+          "name": "Pineapple StormTv",
+          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Black",
+          "url": "https://open.spotify.com/artist/2UzbrOSDiSjcLFN8wZ4bz2"
+        },
+        {
+          "name": "Salve Malak",
+          "url": "https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0"
+        }
+      ],
+      "duration_ms": 235862,
+      "name": "Te Pe\u00e7o Pra Ficar",
+      "url": "https://open.spotify.com/track/74JYs66H7a8iEM1CJdkBwA"
     },
     {
       "added_at": null,
@@ -723,6 +723,26 @@
       "duration_ms": 194730,
       "name": "O Agora",
       "url": "https://open.spotify.com/track/2h3rxJbIftSJCyIvae7rCU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Prioridade",
+        "url": "https://open.spotify.com/album/1tQe4DId5aSpPVhMIvPOna"
+      },
+      "artists": [
+        {
+          "name": "Mariana Nolasco",
+          "url": "https://open.spotify.com/artist/2DMXwm5MCyjDIQ7W3Zh7EH"
+        },
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        }
+      ],
+      "duration_ms": 208576,
+      "name": "Prioridade",
+      "url": "https://open.spotify.com/track/5cSW70c7FYpNtioW8zBoLb"
     },
     {
       "added_at": null,
@@ -1135,6 +1155,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chore N\u00e3o",
+        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
+      },
+      "artists": [
+        {
+          "name": "Lourena",
+          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
+        },
+        {
+          "name": "Haga",
+          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
+        }
+      ],
+      "duration_ms": 176111,
+      "name": "Chore N\u00e3o",
+      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Poesia Ac\u00fastica #9: Melhor Forma (LOCOS Remix)",
         "url": "https://open.spotify.com/album/0T25XNwakPTqyCio9TaeKJ"
       },
@@ -1155,26 +1195,6 @@
       "duration_ms": 113442,
       "name": "Poesia Ac\u00fastica #9: Melhor Forma - LOCOS Remix",
       "url": "https://open.spotify.com/track/7z3OQBFYClg9rHbUX2o0yQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chore N\u00e3o",
-        "url": "https://open.spotify.com/album/1AxgqUpUQOP16G1MJq5ERn"
-      },
-      "artists": [
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Haga",
-          "url": "https://open.spotify.com/artist/5LmwSGneAmeX78pWDTbq8o"
-        }
-      ],
-      "duration_ms": 176111,
-      "name": "Chore N\u00e3o",
-      "url": "https://open.spotify.com/track/6N1HbvxPCd4cP82dtVL0tk"
     },
     {
       "added_at": null,
@@ -1315,50 +1335,6 @@
       "duration_ms": 181800,
       "name": "Fogo",
       "url": "https://open.spotify.com/track/3EaEZXAL1JIuV69lig1o96"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Poetisas No Topo 2",
-        "url": "https://open.spotify.com/album/16uPlD73yxyVijz6qPdYVu"
-      },
-      "artists": [
-        {
-          "name": "Pineapple StormTv",
-          "url": "https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm"
-        },
-        {
-          "name": "Stefanie",
-          "url": "https://open.spotify.com/artist/2Pm1qbLKTFFJC5WTQWEtOe"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "WinniT",
-          "url": "https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy"
-        },
-        {
-          "name": "Ebony",
-          "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
-        },
-        {
-          "name": "Lourena",
-          "url": "https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh"
-        },
-        {
-          "name": "Kmila Cdd",
-          "url": "https://open.spotify.com/artist/5pTtdzoyljdOQnTLVULZvv"
-        },
-        {
-          "name": "Malive",
-          "url": "https://open.spotify.com/artist/5JsnFhU4OqgEtNXs7Sq1Vm"
-        }
-      ],
-      "duration_ms": 556662,
-      "name": "Poetisas No Topo 2",
-      "url": "https://open.spotify.com/track/00LRPoVKWNm7OxeX4TvC8y"
     },
     {
       "added_at": null,

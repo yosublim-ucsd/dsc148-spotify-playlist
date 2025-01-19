@@ -4,7 +4,7 @@
 
 > Daj się otulić ciepłym brzmieniom ☕
 
-321 songs - 18 hr 4 min
+323 songs - 18 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,6 +50,7 @@
 | [Call Me Up](https://open.spotify.com/track/1E9T8kPAQV2zMSf0hz3K6A) | [daydreamers](https://open.spotify.com/artist/2uRvlfS3M0Fix0OdsEzSw8) | [Call Me Up](https://open.spotify.com/album/0KfdSmpAWlWIsX46PARiNO) | 2:41 | 2024-06-28 | 2024-08-21 |
 | [Cats on the Ceiling](https://open.spotify.com/track/6cj79wCb9j6UZbB2WQq19P) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Cats on the Ceiling](https://open.spotify.com/album/1mdZldhSr3BhLx3lHNZPow) | 3:33 | 2024-10-17 |  |
 | [Cały czas](https://open.spotify.com/track/0QJOCY8XN0CpmLtIdQLRGK) | [Oskar Cyms](https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr) | [Cały czas](https://open.spotify.com/album/76PJvmUn6i4tMeBUqFBHJ8) | 2:48 | 2024-06-28 | 2024-09-13 |
+| [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 | 2025-01-17 |  |
 | [Celebrate](https://open.spotify.com/track/0wDTskEQUKP63CjogXK6yc) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [STUTS](https://open.spotify.com/artist/0qC4CNzOUtgdmdVzRqCa1d) | [Celebrate](https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o) | 3:43 | 2024-11-08 |  |
 | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/track/4eetH1a8sk7WMcxUokfkGa) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Charlie \(feat\. Lil Yachty\)](https://open.spotify.com/album/64Ds4fDPQ901b25uuULZ10) | 4:51 | 2024-11-08 | 2025-01-11 |
 | [Chasing Low Vibrations](https://open.spotify.com/track/0Mrd1zn7yPnaOqGGowzQfB) | [Foster The People](https://open.spotify.com/artist/7gP3bB2nilZXLfPHJhMdvc) | [Chasing Low Vibrations](https://open.spotify.com/album/1rzbg3MTkaMZgXkAYQ8Vkt) | 3:24 | 2024-07-25 | 2024-08-21 |
@@ -88,7 +89,7 @@
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-28 | 2024-09-13 |
 | [Eusexua](https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V) | [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH) | [Eusexua](https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj) | 4:23 | 2024-09-12 | 2024-11-22 |
 | [everything that lacks in me](https://open.spotify.com/track/5bClS9J3zmoi9bDDlHi8WK) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP) | [everything that lacks in me](https://open.spotify.com/album/2xMBQ3IdrDWRl1Rmptgev1) | 2:33 | 2024-09-12 | 2024-09-28 |
-| [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-01-10 |  |
+| [eYeSiGht](https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs) | [Min Taka](https://open.spotify.com/artist/1IXhBghuEWlU4soJjaV5gH) | [eYeSiGht](https://open.spotify.com/album/3tWIYglfU6WDsXSjFOb06y) | 2:23 | 2025-01-10 | 2025-01-19 |
 | [Fake ID](https://open.spotify.com/track/5gcokYc6au92x8EUbgJ3KR) | [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [Fake ID](https://open.spotify.com/album/5QGGbcVRxSnDuRdQXJsKq2) | 2:32 | 2024-06-28 | 2024-07-06 |
 | [Falling Back](https://open.spotify.com/track/13JBJbh4d6rx98CjJcROpl) | [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [sanah](https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE) | [Falling Back](https://open.spotify.com/album/40rKWr7rMApkEp7D52Z8mX) | 3:09 | 2024-08-23 | 2024-11-22 |
 | [feel like we used to](https://open.spotify.com/track/3UBNj3GZN0Wf3LjUrxQdH1) | [Zimmer90](https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX) | [feel like we used to](https://open.spotify.com/album/1HbbsKtw9xMY90dE4C5yM5) | 2:56 | 2024-09-20 | 2024-10-08 |
@@ -172,7 +173,7 @@
 | [Mr\. Believer](https://open.spotify.com/track/51zWdMMHdddlM7SevmSzZ6) | [TYNSKY](https://open.spotify.com/artist/31Sw8RRROaHLjst7yEXwZF) | [It’s All About The Changes](https://open.spotify.com/album/37UQSwu9Vzx0J77aEl8zBE) | 2:39 | 2024-11-21 | 2024-12-03 |
 | [Music On The Radio](https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA) | [Empire Of The Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c) | [Music On The Radio](https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv) | 2:56 | 2024-06-28 | 2024-09-13 |
 | [my](https://open.spotify.com/track/19dHt2hh8aaWNCDC3ReLZY) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [my](https://open.spotify.com/album/19GsnIluYB9d42QHswzfej) | 3:36 | 2024-07-11 | 2024-07-19 |
-| [my, „artyści”](https://open.spotify.com/track/4TTvKjB4D60JVEfTeFB1wx) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Żony Hollywood](https://open.spotify.com/album/3qR6yvACFqUEMJu3OKbJOW) | 3:22 | 2024-11-21 |  |
+| [my, „artyści”](https://open.spotify.com/track/4TTvKjB4D60JVEfTeFB1wx) | [Lor](https://open.spotify.com/artist/0TwM0vzeyhAMTegVdIq8rx) | [Żony Hollywood](https://open.spotify.com/album/3qR6yvACFqUEMJu3OKbJOW) | 3:22 | 2024-11-21 | 2025-01-19 |
 | [Na głęboką wodę](https://open.spotify.com/track/489E6avDN1rhZfs65W4iW9) | [Wiktor Waligóra](https://open.spotify.com/artist/10PLt1zAFo8GDQlo0VD4iL) | [Czekam na świt](https://open.spotify.com/album/2H3xnoal5SM4eEUeluu47n) | 3:34 | 2024-09-12 | 2024-09-28 |
 | [na nowo](https://open.spotify.com/track/3KVUAC8mscMSocwPkSYMqM) | [Vito Bambino](https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o) | [na nowo](https://open.spotify.com/album/3AxccIxhlKZVXQ77xIcF4a) | 2:04 | 2024-09-12 | 2024-10-15 |
 | [Na noże](https://open.spotify.com/track/2Ug5alwLaG2oDaUa7D4mtg) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu), [Arek Kopera](https://open.spotify.com/artist/70wQF5hZS0M1Rp6TpaXhVt) | [Czas się bać! \(Akt II\)](https://open.spotify.com/album/1UUVdPE6Puv3oC6KwERvRU) | 3:32 | 2024-11-21 | 2024-12-20 |
@@ -306,6 +307,7 @@
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2024-12-19 |  |
 | [Weekend Boy](https://open.spotify.com/track/2SBXmWWHWuG12G7S7SKvwA) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/1iArxZvJgmmlTo6VwuHvll) | 2:51 | 2024-10-07 | 2024-11-22 |
 | [Where The Names Are Real](https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Where The Names Are Real](https://open.spotify.com/album/0SnEZObvH4juxuuJEznkGV) | 5:21 | 2024-09-20 | 2024-10-07 |
+| [Who’s Making You Feel It](https://open.spotify.com/track/3fogOLGOLBcvpDD5e0ukPa) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Who’s Making You Feel It](https://open.spotify.com/album/5aZnyZi7nvqMtZSkMYMlR6) | 3:36 | 2025-01-17 |  |
 | [Wiatr](https://open.spotify.com/track/3KWWFT878MW91P22IealNu) | [Igo](https://open.spotify.com/artist/6I5JdHLVup9pIjn9g5K20N) | [Wiatr](https://open.spotify.com/album/2iZW07HMNtT7rg0DXmWpnH) | 2:48 | 2024-10-25 | 2024-11-09 |
 | [WILDFLOWER](https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 4:21 | 2024-09-12 | 2024-11-22 |
 | [Wisła \- Magiera Lo\-fi Remix](https://open.spotify.com/track/4AOuahbJm9qZR8lf7rFwQf) | [Robert Mróz Jr](https://open.spotify.com/artist/0QQOdzcr4w488zxeSSSTaG), [Magiera](https://open.spotify.com/artist/3OFZwEYEAKMEmUheZ8TKso) | [Wisła \(Magiera Lo\-fi Remix\)](https://open.spotify.com/album/4M60GATA6TQcUHpYsBBx9k) | 3:07 | 2024-10-25 | 2024-11-09 |

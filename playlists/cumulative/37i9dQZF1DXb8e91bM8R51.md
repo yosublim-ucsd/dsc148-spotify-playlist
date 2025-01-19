@@ -4,7 +4,7 @@
 
 > Hip Hop pra fazer os corres da vida.
 
-386 songs - 22 hr 6 min
+387 songs - 22 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,6 +146,7 @@
 | [FYBRSPACE SUMMIT \(GuggenheimGoon\)](https://open.spotify.com/track/7LihfQlJ3AYHaZJnOh8IDF) | [A$AP Twelvyy](https://open.spotify.com/artist/0tPjSrb43a58uznKru1k2P) | [Vanilla Sky](https://open.spotify.com/album/0JBYjJ6QJrZ0nyr8whq35E) | 2:40 | 2022-01-14 | 2022-02-19 |
 | [G Lock](https://open.spotify.com/track/7GOhZdDMd59QgrDlOhEJCC) | [Digga D](https://open.spotify.com/artist/57n1OF36WvtOeATY6WQ6iw), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [G Lock](https://open.spotify.com/album/0yDW2vbVqPPqROfABlI2OE) | 3:10 | 2022-03-04 | 2022-03-26 |
 | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/track/6snYsavG9vq3C7RGN98dst) | [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb), [ScHoolboy Q](https://open.spotify.com/artist/5IcR3N7QB1j6KBL8eImZ8m) | [Gang Signs \(feat\. ScHoolboy Q\)](https://open.spotify.com/album/6djndSUOt3l5SJRc1wHdml) | 2:46 | 2022-01-14 | 2022-03-12 |
+| [GBP \(feat\. 21 Savage\)](https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r), [21 Savage](https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft) | [GBP \(feat\. 21 Savage\)](https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De) | 2:34 | 2025-01-17 |  |
 | [Gently \(feat\. Bad Bunny\)](https://open.spotify.com/track/6ZprqcYFC6D9eIZaCoqrSn) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 2:13 | 2023-10-06 | 2023-11-11 |
 | [Get Dis Money](https://open.spotify.com/track/6xrjmQMIIYgLgjCOeq2dee) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa) | [Fan\-Tas\-Tic, Vol\. 2](https://open.spotify.com/album/22IhsI5JpldSrE7vhidAja) | 3:31 | 2022-01-14 |  |
 | [Ginseng Strip 2002](https://open.spotify.com/track/79nEEoEPY2w8EXj9hjn5oc) | [Yung Lean](https://open.spotify.com/artist/67lytN32YpUxiSeWlKfHJ3) | [Lavender](https://open.spotify.com/album/09kU2R5DyHy86Ko8xXfkKK) | 2:33 | 2022-02-11 | 2022-04-09 |
@@ -273,7 +274,7 @@
 | [Police](https://open.spotify.com/track/34TZ4X0J2RSFKL4oocpIu8) | [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG), [J5 Slap](https://open.spotify.com/artist/4UxMwyiu2JpqRyNa2CWzH0), [A1 Yolaman](https://open.spotify.com/artist/4WyKPazxbqOYXaNhpZKkX1), [Jiggie June](https://open.spotify.com/artist/55thP7PNySlkQFzaDdfkbf) | [Police](https://open.spotify.com/album/6trzY0QXeydfFxDM8Ch7B6) | 3:55 | 2022-01-28 | 2022-02-19 |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-21 | 2022-11-13 |
 | [Poppin' Them Thangs](https://open.spotify.com/track/1OKPQF7iS8TVxY4gwvBZ3n) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy \(Explicit Version\)](https://open.spotify.com/album/41Ow8QFVL1VL8RIXLoXH9O) | 4:00 | 2022-01-14 | 2022-06-24 |
-| [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 | 2022-01-14 |  |
+| [Quicksand](https://open.spotify.com/track/33HO2V42Tc6xE0SbCg6vBj) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Quicksand](https://open.spotify.com/album/3VB5ViVn5PK58UmJaCdopk) | 3:43 | 2022-01-14 | 2025-01-19 |
 | [Quicksand](https://open.spotify.com/track/4iCZ6Cr76For1TuHUQ90r8) | [Morray](https://open.spotify.com/artist/44vREmJC0OlVZjZaGLqVEd) | [Street Sermons](https://open.spotify.com/album/2GEF3N9pOsKD9jLnZj07HN) | 3:44 | 2022-07-08 | 2024-04-19 |
 | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/track/29M1mAkW4VlxJ4noKN0RxY) | [GoldLink](https://open.spotify.com/artist/5XenQ7XfcvQdfIbpLEFaKQ), [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Raindrops \(feat\. Flo Milli\)](https://open.spotify.com/album/52IKnS2cBXHstdyJjQGVkv) | 2:35 | 2022-01-14 | 2022-07-29 |
 | [RAPSTAR](https://open.spotify.com/track/43PGPuHIlVOc04jrZVh9L6) | [Polo G](https://open.spotify.com/artist/6AgTAQt8XS6jRWi4sX7w49) | [RAPSTAR](https://open.spotify.com/album/0SVzFcpsByITKgURaxXdsV) | 2:45 | 2022-01-14 | 2022-07-09 |

@@ -1188,7 +1188,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 133533,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/0Z8ah17xEJ6EMh40vy51tR"
@@ -11002,7 +11002,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 157506,
       "name": "Elska",
       "url": "https://open.spotify.com/track/3u3uS54VRFbCJThLdTZN8k"
@@ -11526,7 +11526,7 @@
       ],
       "date_added": "2022-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 252387,
       "name": "Esjan",
       "url": "https://open.spotify.com/track/1tCcIkkqlbgLoYGub8bNzV"
@@ -14522,6 +14522,28 @@
       "duration_ms": 222000,
       "name": "Gata Only",
       "url": "https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6"
+    },
+    {
+      "album": {
+        "name": "GBP (feat. 21 Savage)",
+        "url": "https://open.spotify.com/album/4Ep5kfo5Z40qVV0vBYC8De"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "21 Savage",
+          "url": "https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154800,
+      "name": "GBP (feat. 21 Savage)",
+      "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
     },
     {
       "album": {
@@ -18478,7 +18500,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-20",
+      "date_removed": null,
       "duration_ms": 157611,
       "name": "Hvert ertu a\u00f0 fara?",
       "url": "https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ"
@@ -25696,6 +25718,28 @@
       "duration_ms": 165442,
       "name": "MEIRA",
       "url": "https://open.spotify.com/track/3sajnpFxSNBjJNSR9ytFlN"
+    },
+    {
+      "album": {
+        "name": "MEIRA FRELSI",
+        "url": "https://open.spotify.com/album/08cYRTmCqzdr3vxEzZF2qN"
+      },
+      "artists": [
+        {
+          "name": "H\u00e1ski",
+          "url": "https://open.spotify.com/artist/4sFpLVLUs2JUcRucrWxnVE"
+        },
+        {
+          "name": "Luigi",
+          "url": "https://open.spotify.com/artist/7rjcERw1K9oR9vtik3YSJN"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170621,
+      "name": "MEIRA FRELSI",
+      "url": "https://open.spotify.com/track/0BJYjH6Q1ZOO6Qsvcw9pbL"
     },
     {
       "album": {
@@ -41302,7 +41346,7 @@
       ],
       "date_added": "2024-09-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 251424,
       "name": "Too Sweet",
       "url": "https://open.spotify.com/track/19XpFsce28aByvCC4g89tJ"
@@ -42060,10 +42104,28 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 189473,
       "name": "Tweaker",
       "url": "https://open.spotify.com/track/5nk6BxN9bM5rLNkA3pMOzn"
+    },
+    {
+      "album": {
+        "name": "Tweaker",
+        "url": "https://open.spotify.com/album/2R9Q7MynhyFU9yOqh7JuPq"
+      },
+      "artists": [
+        {
+          "name": "GELO",
+          "url": "https://open.spotify.com/artist/5FZN8ElUU5zENi2IK7gMnu"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189544,
+      "name": "Tweaker",
+      "url": "https://open.spotify.com/track/7HDq8aEtkBeZq7gfzYjW28"
     },
     {
       "album": {
@@ -44986,7 +45048,7 @@
       ],
       "date_added": "2024-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 261466,
       "name": "WILDFLOWER",
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"

@@ -12029,6 +12029,24 @@
     },
     {
       "album": {
+        "name": "Balloonerism",
+        "url": "https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 33141,
+      "name": "Tambourine Dream",
+      "url": "https://open.spotify.com/track/5eAKaGCR0QEuPOxOo0zXqs"
+    },
+    {
+      "album": {
         "name": "Tarkus",
         "url": "https://open.spotify.com/album/5yByhxbOs8FOU2UutO7AGO"
       },
@@ -12748,7 +12766,7 @@
       ],
       "date_added": "2024-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 45333,
       "name": "The Only Picture",
       "url": "https://open.spotify.com/track/3YEHs8spNnp4erj65qhhfz"

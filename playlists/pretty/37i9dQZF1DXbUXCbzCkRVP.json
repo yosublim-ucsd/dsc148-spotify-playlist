@@ -1,6 +1,6 @@
 {
   "description": "Iconic instrumentals from the history of Blues.",
-  "num_followers": 59701,
+  "num_followers": 59734,
   "original_name": "Classic Instrumental Blues",
   "owner": {
     "name": "Spotify",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
-        "name": "Second Album",
-        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
-      },
-      "artists": [
-        {
-          "name": "Roy Buchanan",
-          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
-        }
-      ],
-      "duration_ms": 205400,
-      "name": "Tribute To Elmore James",
-      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
         "name": "The Paul Butterfield Blues Band",
         "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
       },
@@ -879,6 +863,22 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
+        "name": "Second Album",
+        "url": "https://open.spotify.com/album/3sQGboPz478r7roRcq45cZ"
+      },
+      "artists": [
+        {
+          "name": "Roy Buchanan",
+          "url": "https://open.spotify.com/artist/0augulkuXFx1qPfb590w2C"
+        }
+      ],
+      "duration_ms": 205400,
+      "name": "Tribute To Elmore James",
+      "url": "https://open.spotify.com/track/0RGJg8HUx82PSbIKjbips5"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
         "name": "Texas Sensation",
         "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
       },
@@ -888,9 +888,9 @@
           "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
         }
       ],
-      "duration_ms": 185786,
-      "name": "Side Tracked",
-      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
+      "duration_ms": 194106,
+      "name": "The Stumble",
+      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
     },
     {
       "added_at": "2024-05-29 07:23:14",
@@ -951,6 +951,22 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
+        "name": "The Paul Butterfield Blues Band",
+        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "Thank You Mr. Poobah",
+      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
         "name": "Blues On The South Side",
         "url": "https://open.spotify.com/album/0gf11Wt8uQxan5JN6DWIvC"
       },
@@ -967,6 +983,22 @@
     {
       "added_at": "2024-05-29 07:23:14",
       "album": {
+        "name": "Texas Sensation",
+        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
+      },
+      "artists": [
+        {
+          "name": "Freddie King",
+          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
+        }
+      ],
+      "duration_ms": 185786,
+      "name": "Side Tracked",
+      "url": "https://open.spotify.com/track/7qB9g4tusEHV5HGPzZejGj"
+    },
+    {
+      "added_at": "2024-05-29 07:23:14",
+      "album": {
         "name": "Broken Halo",
         "url": "https://open.spotify.com/album/0Dpk0b9BcgKUFaYYSgVh3S"
       },
@@ -979,38 +1011,6 @@
       "duration_ms": 178826,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/6gLPSVs7lhIxm6HNsrjMkn"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
-        "name": "Texas Sensation",
-        "url": "https://open.spotify.com/album/4umKoGiZh0ddpdQZHqTPVA"
-      },
-      "artists": [
-        {
-          "name": "Freddie King",
-          "url": "https://open.spotify.com/artist/5dCuFngSPyOOnTAvrC7v2s"
-        }
-      ],
-      "duration_ms": 194106,
-      "name": "The Stumble",
-      "url": "https://open.spotify.com/track/4SAKoygdIR2OwBO66j82vh"
-    },
-    {
-      "added_at": "2024-05-29 07:23:14",
-      "album": {
-        "name": "The Paul Butterfield Blues Band",
-        "url": "https://open.spotify.com/album/785WNIAl2zC3OZ6XHjFaIG"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "Thank You Mr. Poobah",
-      "url": "https://open.spotify.com/track/3qeO6POcgepMG7CptnMibV"
     },
     {
       "added_at": "2024-05-29 07:23:14",

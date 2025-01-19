@@ -1,12 +1,12 @@
 {
   "description": "This is Pennywise. The essential tracks, all in one playlist.",
-  "num_followers": 33543,
+  "num_followers": 33548,
   "original_name": "This Is Pennywise",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAAAK0CkWV+jlxqRjOb48bo3",
+  "snapshot_id": "Z4mdgAAAAADC+Vi8IKSFSGeroiD3Y5FR",
   "tracks": [
     {
       "added_at": null,
@@ -556,9 +556,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 195333,
-      "name": "Greed",
-      "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
+      "duration_ms": 161666,
+      "name": "Straight Ahead",
+      "url": "https://open.spotify.com/track/2hnXPU065OUTJo3orgiOWh"
     },
     {
       "added_at": null,
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 161666,
-      "name": "Straight Ahead",
-      "url": "https://open.spotify.com/track/2hnXPU065OUTJo3orgiOWh"
+      "duration_ms": 195333,
+      "name": "Greed",
+      "url": "https://open.spotify.com/track/17emFflIwwnd4B5naKzv4r"
     },
     {
       "added_at": null,
@@ -675,22 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Or Nothing (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 195280,
-      "name": "X Generation",
-      "url": "https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Unknown Road (2005 Remaster)",
         "url": "https://open.spotify.com/album/0l680tJFfovpGiaaFC6a4H"
       },
@@ -703,6 +687,22 @@
       "duration_ms": 185493,
       "name": "Dying to Know - 2005 Remaster",
       "url": "https://open.spotify.com/track/6wHh6CHqcIQR1gpmmjeaKL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Or Nothing (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/3k0DvRgQzEtUXFCrCDB8qa"
+      },
+      "artists": [
+        {
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
+        }
+      ],
+      "duration_ms": 195280,
+      "name": "X Generation",
+      "url": "https://open.spotify.com/track/5ANtwzlycAMmMoHxqiH9F1"
     },
     {
       "added_at": null,

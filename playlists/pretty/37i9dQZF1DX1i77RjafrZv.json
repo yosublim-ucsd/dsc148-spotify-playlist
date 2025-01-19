@@ -1,6 +1,6 @@
 {
   "description": "Les plus belles chansons d'amour de la vari\u00e9t\u00e9 fran\u00e7aise.",
-  "num_followers": 320827,
+  "num_followers": 320854,
   "original_name": "French Kiss",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2024-10-15 19:50:17",
       "album": {
-        "name": "Fragile (Remastered)",
-        "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
-      },
-      "artists": [
-        {
-          "name": "Francis Cabrel",
-          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
-        }
-      ],
-      "duration_ms": 186706,
-      "name": "L'encre de tes yeux - Remastered",
-      "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
-    },
-    {
-      "added_at": "2024-10-15 19:50:17",
-      "album": {
         "name": "Joie de vivre",
         "url": "https://open.spotify.com/album/7cyuFUJLQkLVF7JIB2U9T2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 176160,
       "name": "Aimer \u00e0 mort",
       "url": "https://open.spotify.com/track/2HENwndPLHINxHhQPMh8BE"
+    },
+    {
+      "added_at": "2024-10-15 19:50:17",
+      "album": {
+        "name": "Fragile (Remastered)",
+        "url": "https://open.spotify.com/album/0UPJEVD6jVBaAEuFyTaCyX"
+      },
+      "artists": [
+        {
+          "name": "Francis Cabrel",
+          "url": "https://open.spotify.com/artist/5uo5NwSONVNfvSHHMQrHAv"
+        }
+      ],
+      "duration_ms": 186706,
+      "name": "L'encre de tes yeux - Remastered",
+      "url": "https://open.spotify.com/track/2mLFPvKfZ6LI9NaAtFDyUL"
     },
     {
       "added_at": "2024-10-15 19:50:17",

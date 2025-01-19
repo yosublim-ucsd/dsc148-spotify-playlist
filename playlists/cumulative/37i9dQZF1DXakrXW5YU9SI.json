@@ -810,6 +810,24 @@
     {
       "album": {
         "name": "Celebrate",
+        "url": "https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220910,
+      "name": "Celebrate",
+      "url": "https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX"
+    },
+    {
+      "album": {
+        "name": "Celebrate",
         "url": "https://open.spotify.com/album/4qiEMrSLAIUn2zPrANiH2o"
       },
       "artists": [
@@ -1548,7 +1566,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 143499,
       "name": "eYeSiGht",
       "url": "https://open.spotify.com/track/61PhLZbklL2DeRgvuESvFs"
@@ -3112,7 +3130,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 202123,
       "name": "my, \u201earty\u015bci\u201d",
       "url": "https://open.spotify.com/track/4TTvKjB4D60JVEfTeFB1wx"
@@ -5606,6 +5624,24 @@
       "duration_ms": 321047,
       "name": "Where The Names Are Real",
       "url": "https://open.spotify.com/track/6anbHjGgQbYQH5FbF6bAvR"
+    },
+    {
+      "album": {
+        "name": "Who\u2019s Making You Feel It",
+        "url": "https://open.spotify.com/album/5aZnyZi7nvqMtZSkMYMlR6"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216241,
+      "name": "Who\u2019s Making You Feel It",
+      "url": "https://open.spotify.com/track/3fogOLGOLBcvpDD5e0ukPa"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > This is Lola Indigo\. The essential tracks, all in one playlist.
 
-82 songs - 4 hr 15 min
+83 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,8 @@
 | [La Niña de la Escuela](https://open.spotify.com/track/1g4cZvi0nLeeIycd0Rkljj) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp), [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW) | [La Niña](https://open.spotify.com/album/1hFRQRNjiMSWgH5xyEiVme) | 3:24 | 2023-11-10 |  |
 | [LA PRIMAVERA](https://open.spotify.com/track/4cuPBlZB9PBKIyiZAifjU9) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [GRX](https://open.spotify.com/album/2ORVtNDtwoBtJ1uTzRJogx) | 2:55 | 2024-02-21 |  |
 | [LA PRIMAVERA](https://open.spotify.com/track/5e2xxpLD2rjvUmpHaZseCd) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [La Plazuela](https://open.spotify.com/artist/3iNrNJ38T7OEaI1UofQcIB) | [GRX](https://open.spotify.com/album/3N8WkOmiTx5YdCizQivQbX) | 2:55 | 2023-12-16 | 2024-02-22 |
-| [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 | 2024-06-16 |  |
+| [LA REINA](https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA REINA](https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4) | 2:30 | 2024-06-16 | 2025-01-19 |
+| [LA REINA \- REMIX](https://open.spotify.com/track/1LX9Kq7JFcEINO2a04WI2M) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [Villano Antillano](https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq) | [LA REINA \(REMIX\)](https://open.spotify.com/album/3nRLpUwK7gI1C7Ya3w7VAv) | 3:25 | 2025-01-19 |  |
 | [LA SANTA](https://open.spotify.com/track/3TcSNX1WhlcVAI6fLWt7Qs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [LA SANTA](https://open.spotify.com/album/7s7TZHak9Chi57TNKIH7T8) | 2:45 | 2023-11-10 | 2023-12-14 |
 | [LA SANTA](https://open.spotify.com/track/5IkKZvMCle5egJBU7VG4Ly) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:45 | 2023-12-13 |  |
 | [LA TIRITA](https://open.spotify.com/track/3PDpyXUoutFfBapsCDKAY8) | [Belén Aguilera](https://open.spotify.com/artist/5fmYDIdgEkSgLdL6esxgfp), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [SUPERPOP](https://open.spotify.com/album/6V77SSxyvFabMPHt4I5BF8) | 2:52 | 2023-11-10 |  |
@@ -66,7 +67,7 @@
 | [PARA OLVIDARME DE TI](https://open.spotify.com/track/35KAbrp0kn0kqjTVL7qHjE) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [EL DRAGÓN](https://open.spotify.com/album/27fFLYwlXF1x8n1ixpFbFH) | 2:40 | 2023-11-10 | 2024-07-16 |
 | [PERREITO PA LLORAR](https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [PERREITO PA LLORAR](https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv) | 3:33 | 2024-12-01 |  |
 | [PESADILLAS](https://open.spotify.com/track/7HTReIcz7VKLyBWHpWqn5o) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [PESADILLAS](https://open.spotify.com/album/4IabA7t6hEqyzNiy00gDid) | 3:15 | 2024-09-15 |  |
-| [Piketaison](https://open.spotify.com/track/6Oqk95NE1dakJBbO2ZaYxv) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [CL34N](https://open.spotify.com/album/4mGvnfMaCkGXo1LHWjiOmD) | 3:01 | 2023-11-10 | 2024-12-15 |
+| [Piketaison](https://open.spotify.com/track/6Oqk95NE1dakJBbO2ZaYxv) | [LUNA KI](https://open.spotify.com/artist/5yD3wtXDmbOloiFzO3km1M), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [CL34N](https://open.spotify.com/album/4mGvnfMaCkGXo1LHWjiOmD) | 3:01 | 2023-11-10 |  |
 | [Problema](https://open.spotify.com/track/4qqKKWNXXPbRX2eEi1pP8i) | [Mala Rodríguez](https://open.spotify.com/artist/3Ces1OJeGOVGcUB0wPaPXJ), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [MALA](https://open.spotify.com/album/3YI2j0vFoKKdOPmJQ02ByH) | 3:01 | 2023-11-10 | 2024-05-11 |
 | [Respira](https://open.spotify.com/track/1TMGfpNI1iANwJvplASSa2) | [Guaynaa](https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq), [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna) | [La República](https://open.spotify.com/album/3SSr7Txt7OCcA4D31tRScH) | 3:02 | 2023-11-10 |  |
 | [Romeo Y Julieta](https://open.spotify.com/track/1rJat7yJE9fHXLuoaJfoND) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8) | [Romeo Y Julieta](https://open.spotify.com/album/3xWDkfHl65CP2OgF488trX) | 2:58 | 2023-11-10 |  |

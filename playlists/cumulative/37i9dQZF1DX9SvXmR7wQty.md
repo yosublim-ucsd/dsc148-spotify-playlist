@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ariane Roy
 
-3,044 songs - 6 day 17 hr 47 min
+3,045 songs - 6 day 17 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -584,6 +584,7 @@
 | [Courir](https://open.spotify.com/track/7m5FdqzG02hWKc9rCEI4Ba) | [Jé Lalune](https://open.spotify.com/artist/4zEfYbafYHBBWtgoU9fXYh) | [Jé Lalune](https://open.spotify.com/album/4QMJdDBmwWGdbOzK9sp9Dd) | 2:38 | 2022-04-22 | 2022-04-29 |
 | [Cours, Cora, cours](https://open.spotify.com/track/6YPN40n5wwv1xtMGcuB3Sk) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt) | [Cours, Cora, cours / Journal d'un loup\-garou](https://open.spotify.com/album/20OjhCVhXkRXRa8sKAu52g) | 4:05 | 2024-11-22 | 2024-12-07 |
 | [Couteau](https://open.spotify.com/track/6pukjmfBCkq8x0UD1M277q) | [Hello Cosmo](https://open.spotify.com/artist/3QJ2aFL6EIx8B2mlkf5rtU) | [Couteau](https://open.spotify.com/album/42iEBpSWn6T0N02jRCEvN3) | 3:17 | 2022-01-21 | 2022-01-29 |
+| [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 | 2025-01-17 |  |
 | [Couteau papillon](https://open.spotify.com/track/7kUI8QLcPNlrttLyHyh0Wh) | [Allô Fantôme](https://open.spotify.com/artist/48P9cQW6qwEGKMfeM60h2i) | [Couteau papillon](https://open.spotify.com/album/67eBaryuZEhVyWxJlxqmOo) | 4:32 | 2022-11-04 | 2022-11-19 |
 | [Couvre\-feu](https://open.spotify.com/track/6iajB8dvW4K4yqw2XQyY5w) | [Eric Charland](https://open.spotify.com/artist/0iVKDPN1HSFirCQeLIIJW1) | [Couvre\-feu](https://open.spotify.com/album/1fhy95IAcRn1N3DKo6CeSJ) | 5:15 | 2022-04-08 | 2022-04-16 |
 | [Cowboy](https://open.spotify.com/track/4eBIBc2kWpJfBUiww6OLZ8) | [FouKi](https://open.spotify.com/artist/3IMC79WXhjXUkDHhpsSN8n) | [Zayon](https://open.spotify.com/album/6mZScaQNqoMn89hPorVTwY) | 3:21 | 2023-02-17 | 2023-03-04 |
@@ -2728,7 +2729,7 @@
 | [Toune 2](https://open.spotify.com/track/0McnGxQOn78rzxXZvuNfKe) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Toune 2](https://open.spotify.com/album/4D1iaqCVxIq7Za3dk2Gfiz) | 3:51 | 2022-05-27 | 2022-06-04 |
 | [Toune 9](https://open.spotify.com/track/6SIBHaXzFYw7NG98NnNbWL) | [Anatole](https://open.spotify.com/artist/7Bbf1C1upxNS3U8GypL396) | [Alexandre Martel](https://open.spotify.com/album/12gDz8t5kwGaQtuWrwVEsH) | 4:18 | 2022-10-28 | 2022-11-12 |
 | [Tour du Monde](https://open.spotify.com/track/2H6qZe4igbGLoLGD3CxvRr) | [HALO](https://open.spotify.com/artist/7xWSJDc5wUpKp4jxGEKNSk) | [Tour du Monde](https://open.spotify.com/album/1ybBcRxpUhorl343FGWUyO) | 2:25 | 2024-06-14 | 2024-06-29 |
-| [Tour du Monde](https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Tour du Monde](https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY) | 2:31 | 2024-11-22 |  |
+| [Tour du Monde](https://open.spotify.com/track/4SBcbQDGWAmZzmMXV09ZqS) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1) | [Tour du Monde](https://open.spotify.com/album/6PDyNaRKTKWiT0SFggT1FY) | 2:31 | 2024-11-22 | 2025-01-19 |
 | [Tour à tour](https://open.spotify.com/track/4UmWhzUhv36VxBAZOiCL1Q) | [Rosie Valland](https://open.spotify.com/artist/4lJWbDc6yz6JDL99fbSq5C) | [Tour à tour](https://open.spotify.com/album/6uHRnW7m0xWOKaOotcRote) | 3:20 | 2022-10-28 | 2022-11-19 |
 | [Tous ces doutes](https://open.spotify.com/track/6wCGMrL57mOUNEMjxiZP3y) | [Jeanick Fournier](https://open.spotify.com/artist/2BDPAOnxUpnVhzI7UCX246), [morgxn](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW) | [Tous ces doutes](https://open.spotify.com/album/2U2YWU5XqLs3ocRxswF1wD) | 3:29 | 2024-03-08 | 2024-03-16 |
 | [Tous ces ongles rongés](https://open.spotify.com/track/6XugQIyPKPxE7MaAxNAOhT) | [JeanJass](https://open.spotify.com/artist/11jTIrOwxFOLvhJIdb4FYo) | [Tous ces ongles rongés](https://open.spotify.com/album/67ocT0IRwTaGyjiWycPNLV) | 2:58 | 2024-09-20 | 2024-10-06 |

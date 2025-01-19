@@ -1,6 +1,6 @@
 {
   "description": "This is Nicky Romero. The essential tracks, all in one playlist.",
-  "num_followers": 71894,
+  "num_followers": 71895,
   "original_name": "This Is Nicky Romero",
   "owner": {
     "name": "Spotify",
@@ -8,6 +8,30 @@
   },
   "snapshot_id": "Z4hMAAAAAACjUoq0Lnmpx7UOUE7bd97R",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Let Go",
+        "url": "https://open.spotify.com/album/0nEX0kWY8RlL74Fxm9UK3q"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "WHAT EVA",
+          "url": "https://open.spotify.com/artist/0zE0NouVo8UxXHQOnhoLO3"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 200119,
+      "name": "Don't Let Go",
+      "url": "https://open.spotify.com/track/2oixBcIkXHvLCA4yrBlN0H"
+    },
     {
       "added_at": null,
       "album": {
@@ -431,30 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Take Me Home",
-        "url": "https://open.spotify.com/album/591dja1K2VghhGHhGw8adX"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Joe Jury",
-          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 188284,
-      "name": "Take Me Home",
-      "url": "https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fine Day",
         "url": "https://open.spotify.com/album/4Et38i4TF8kD2x1hAV8JOV"
       },
@@ -475,6 +475,30 @@
       "duration_ms": 214946,
       "name": "Fine Day",
       "url": "https://open.spotify.com/track/1uW6xjcbHIqhQvVniFRRzH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Take Me Home",
+        "url": "https://open.spotify.com/album/591dja1K2VghhGHhGw8adX"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Joe Jury",
+          "url": "https://open.spotify.com/artist/6CfdbVxJuo31StQ21ffOer"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 188284,
+      "name": "Take Me Home",
+      "url": "https://open.spotify.com/track/5la4c7y1IqBcJiwouVjdy9"
     },
     {
       "added_at": null,
@@ -607,26 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lost In The Dust",
-        "url": "https://open.spotify.com/album/2XOCrLWJZquxGUgkrgNk49"
-      },
-      "artists": [
-        {
-          "name": "Monocule",
-          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 164053,
-      "name": "Lost In The Dust",
-      "url": "https://open.spotify.com/track/6ZL3xfiqRJBBJhkbSTEdy2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/1vuWqrCgIqeiaTUJnbAF40"
       },
@@ -687,6 +691,26 @@
       "duration_ms": 162924,
       "name": "Sober",
       "url": "https://open.spotify.com/track/4LSkEJ5P5MV0y3PZqw7guJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lost In The Dust",
+        "url": "https://open.spotify.com/album/2XOCrLWJZquxGUgkrgNk49"
+      },
+      "artists": [
+        {
+          "name": "Monocule",
+          "url": "https://open.spotify.com/artist/0SURDCN1DbuW9STmuSHUaR"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 164053,
+      "name": "Lost In The Dust",
+      "url": "https://open.spotify.com/track/6ZL3xfiqRJBBJhkbSTEdy2"
     },
     {
       "added_at": null,
@@ -807,26 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Out Of Control",
-        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 168387,
-      "name": "Out Of Control",
-      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sensation",
         "url": "https://open.spotify.com/album/0XaCGj1qgwNeHgnvSUrCzs"
       },
@@ -843,6 +847,26 @@
       "duration_ms": 174665,
       "name": "Sensation",
       "url": "https://open.spotify.com/track/4df0o75oXAjyc2KdiFKBIY"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Out Of Control",
+        "url": "https://open.spotify.com/album/3k9PBFjo8FHjGzV2EvsRUk"
+      },
+      "artists": [
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        },
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 168387,
+      "name": "Out Of Control",
+      "url": "https://open.spotify.com/track/44fFj5FWWuFseMDEvToXCn"
     },
     {
       "added_at": null,
@@ -947,30 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hero (Nicky Romero Remix)",
-        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
-      },
-      "artists": [
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        },
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        }
-      ],
-      "duration_ms": 192380,
-      "name": "Hero - Nicky Romero Remix",
-      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love You Forever",
         "url": "https://open.spotify.com/album/6HiujSCdsYuCXdd759w2kr"
       },
@@ -991,6 +991,30 @@
       "duration_ms": 234609,
       "name": "Love You Forever",
       "url": "https://open.spotify.com/track/2gqzTQEn4g5ly0n5ScdMx0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hero (Nicky Romero Remix)",
+        "url": "https://open.spotify.com/album/1ddufbXwUwO3l2uIB3qKe3"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
+        }
+      ],
+      "duration_ms": 192380,
+      "name": "Hero - Nicky Romero Remix",
+      "url": "https://open.spotify.com/track/4QDlt4NhI93bs9TI5s1sCc"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7zjIlRz0yNsZwtpV07KLBI">RuthAnne Cunningham</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 615 likes - 127 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 617 likes - 127 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -126,8 +126,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 116 | [My Mind \(Interlude\)](https://open.spotify.com/track/1QSIe9IQAv6wbZ1JdG2fyq) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Matters of the Heart](https://open.spotify.com/album/3one8FvyVPWhjIwdFuS0kw) | 2:34 |
 | 117 | [Enough \(feat\. RuthAnne\)](https://open.spotify.com/track/40ZpSsFtEKkFcTxWhkhA8N) | [Black Saint](https://open.spotify.com/artist/7JMPwFdbHhPe46HDJXKhA5), [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [Everybody Wants You](https://open.spotify.com/album/5uxehNuBMZCrVNDl57aqq2) | 3:25 |
 | 118 | [Sliding Doors](https://open.spotify.com/track/2tgyMQjcwVp2CjFT6gAZwh) | [Baptiste Giabiconi](https://open.spotify.com/artist/4DD9H38CXQBbIME7AGNOr9) | [Oxygen](https://open.spotify.com/album/3wJqURLm1qe9DucNTntWS3) | 3:41 |
-| 119 | [Perfection](https://open.spotify.com/track/2xjjnaHGzETkvZhXnEcqcV) | [Tata Young](https://open.spotify.com/artist/7dJ3pPuDcHLEwhtlZNJKcr) | [Ready For Love](https://open.spotify.com/album/7jFWCaN4SZbNS1XJNeeFe3) | 3:14 |
-| 120 | [Tell Me What You Want](https://open.spotify.com/track/4Slv79Cvbf0dfw1LlRy8Qm) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Wally Callerio](https://open.spotify.com/artist/17ONczWNpCXkcRu40gy7cK), [Mikey V.](https://open.spotify.com/artist/2BnKT3mTPKt0eKTszhRq7u) | [After Parties & Aeroplanes](https://open.spotify.com/album/76gqFX9pIgy9WzF92ecoSc) | 6:20 |
+| 119 | [Tell Me What You Want](https://open.spotify.com/track/4Slv79Cvbf0dfw1LlRy8Qm) | [Sonny Fodera](https://open.spotify.com/artist/39B7ChWwrWDs7zXlsu3MoP), [Wally Callerio](https://open.spotify.com/artist/17ONczWNpCXkcRu40gy7cK), [Mikey V.](https://open.spotify.com/artist/2BnKT3mTPKt0eKTszhRq7u) | [After Parties & Aeroplanes](https://open.spotify.com/album/76gqFX9pIgy9WzF92ecoSc) | 6:20 |
+| 120 | [Perfection](https://open.spotify.com/track/2xjjnaHGzETkvZhXnEcqcV) | [Tata Young](https://open.spotify.com/artist/7dJ3pPuDcHLEwhtlZNJKcr) | [Ready For Love](https://open.spotify.com/album/7jFWCaN4SZbNS1XJNeeFe3) | 3:14 |
 | 121 | [Gratitude](https://open.spotify.com/track/2cI7IM2jlIC7wKdfpQvctA) | [Erica\-Cody](https://open.spotify.com/artist/6h9boYU490q7cRC64QsEBI) | [Love & Light](https://open.spotify.com/album/2XrzEmUgAStgYTQT8lDzHG) | 3:25 |
 | 122 | [Flaws](https://open.spotify.com/track/0SWDM8WYXyM1PkJUqRW0pn) | [RuthAnne](https://open.spotify.com/artist/31rVRoX5ZG9ZyRbHvlEwjA) | [The Way I Love You](https://open.spotify.com/album/7b0LDjvwIauR7OUEX8rQAo) | 2:53 |
 | 123 | [Mutual Danger](https://open.spotify.com/track/2mh17l0N0eJ1q5BcMJ2KvK) | [Jamie Joseph](https://open.spotify.com/artist/6SAHiawT7qwvIRpebD2sS4) | [Can't Seem to Change](https://open.spotify.com/album/6AsEVSLb6TQFh6XiZCm24F) | 4:03 |
@@ -136,4 +136,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFRBTIIBSxoJr.md) - [plain]
 | 126 | [Waiting Room](https://open.spotify.com/track/6WIjcI93x7ai2wHjIYbvkH) | [Sasha\-Lee](https://open.spotify.com/artist/7ef107j57lGW8zlDLp78n6) | [Sasha\-Lee](https://open.spotify.com/album/7jzpZmpkbzHMRB3YCTlYfC) | 3:31 |
 | 127 | [New World](https://open.spotify.com/track/3FDGiAjvt2DgrW59SPzz1C) | [Ruth\-Anne](https://open.spotify.com/artist/4LnlxzBp14IU8sJ0dmC9Au) | [New World](https://open.spotify.com/album/5XiSwbh3jsRJvGz8qRjch4) | 3:08 |
 
-Snapshot ID: `AbnI1gAAAACZfCIK1eemora/Nli0NtyB`
+Snapshot ID: `AbnOgAAAAAABjc1S+1SB6dCA0sbOrGt4`

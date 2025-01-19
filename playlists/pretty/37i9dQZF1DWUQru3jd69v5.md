@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Waze RRX in cover della playlist con la nuova generazione del rap italiano.
 
-[Spotify](https://open.spotify.com/user/spotify) - 226,389 likes - 56 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 226,377 likes - 56 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Santo Domingo](https://open.spotify.com/track/2WLXU9SmXgcxPC3gfLfhLX) | [Kassimi](https://open.spotify.com/artist/2SLBMi00NHiYhfnJ36aTvd) | [MC30](https://open.spotify.com/album/5dhZ6Rpkqyg3QRbBMBQEgS) | 2:06 |
 | 2 | [G II](https://open.spotify.com/track/3HUPMluR4pzVtC1tVdcxlh) | [Don Pero](https://open.spotify.com/artist/2KLafS2cc489GVGuYm5aE2) | [G II](https://open.spotify.com/album/3qo652f9S3cLUEHQcCz4XG) | 2:33 |
-| 3 | [Roccia Music \(feat.Glocky\)](https://open.spotify.com/track/7G1ZJ10tNun4aXjZYjaOBp) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [MOON\-X](https://open.spotify.com/album/2rFVJtrPo5cqTtb45y8qJV) | 2:03 |
+| 3 | [Roccia Music \(feat\. Glocky\)](https://open.spotify.com/track/7G1ZJ10tNun4aXjZYjaOBp) | [Waze RRX](https://open.spotify.com/artist/12wWvc6Z0111IfGRncCtwD), [Glocky](https://open.spotify.com/artist/6frLp49xcNeQN6QYYrbSw7) | [MOON\-X](https://open.spotify.com/album/2rFVJtrPo5cqTtb45y8qJV) | 2:03 |
 | 4 | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/track/6zzcr5civMj9cKQDiTFE3l) | [Rue Diego](https://open.spotify.com/artist/6egOVydoArbWCk87BHbf2F), [Artie 5ive](https://open.spotify.com/artist/2R4kNOwHUUsuDYhKsESVbF) | [MILLY \(feat\. Artie 5ive\)](https://open.spotify.com/album/1kVpGWPrFHLWXogTepm0fr) | 3:37 |
 | 5 | [Man Down 3!](https://open.spotify.com/track/4rSfjYpGAac0MwfQ1RXUvf) | [Melons](https://open.spotify.com/artist/1LGeIi5WWtxGRavjH50STe), [Ddusi](https://open.spotify.com/artist/5VTNrKBvvSe0NdWMW8qTwa) | [Man Down 3!](https://open.spotify.com/album/2eBm5IPjsjOk6viusZcWkT) | 2:55 |
 | 6 | [MARINÈ \(feat\. Kuremino & Sethu\)](https://open.spotify.com/track/38BvK6W3ZhVYEwQvSQsXz5) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Kuremino](https://open.spotify.com/artist/1V4Yspflqmghgh91FQJW9n), [Sethu](https://open.spotify.com/artist/5N9yiZXsLClmcg1KHZuJf5) | [MARINÈ \(feat\. Kuremino & Sethu\)](https://open.spotify.com/album/6i3OSpZELeob30QCvXHG0c) | 2:30 |
@@ -63,6 +63,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 53 | [MOB](https://open.spotify.com/track/5bOnfzY2D7tHEhYgrIDfBo) | [raili](https://open.spotify.com/artist/4a3JcHZa8hyE8HqFqcQIlI) | [MOB](https://open.spotify.com/album/5Pq9UgqqMpAYFlNZWKNCLE) | 3:36 |
 | 54 | [SHOOTING STARS](https://open.spotify.com/track/5qfFFCcvqh1gDB8XusCRrn) | [BHG Rich](https://open.spotify.com/artist/0oQoakhuWlElIuMe2sZwrl) | [SHOOTING STARS](https://open.spotify.com/album/3KRdkP9kN3tA2yTw7FDjGq) | 2:47 |
 | 55 | [NON RALLENTI MAI](https://open.spotify.com/track/4a6ogwxxOXsnw9iORCrdUl) | [HEVA](https://open.spotify.com/artist/1L4n1oqjzmZqXVWD9V4V4z) | [ESORDIO](https://open.spotify.com/album/7satvpXjYURRriEn48rk6k) | 2:26 |
-| 56 | [Non Cambio Mai](https://open.spotify.com/track/2W7IuDsBqZDGR8aJVBMnEQ) | [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF), [Yasap G](https://open.spotify.com/artist/3jlYQejooUvWS7CPSQ9bLN), [Dibbe](https://open.spotify.com/artist/6I5iMFfp4NJdNJpSPXqGUH) | [Non Cambio Mai](https://open.spotify.com/album/7r6iJ1Nvj7cjfnWw7uS3DG) | 3:02 |
+| 56 | [Non Cambio Mai](https://open.spotify.com/track/2W7IuDsBqZDGR8aJVBMnEQ) | [Amin Ossy Yassp G x Dibbe](https://open.spotify.com/artist/1lA3Eb7H6bIeR3YItHXCMt) | [Non Cambio Mai](https://open.spotify.com/album/7r6iJ1Nvj7cjfnWw7uS3DG) | 3:02 |
 
 Snapshot ID: `Z4mPxgAAAAAEdcGquWI4uX3SD4WoID9J`

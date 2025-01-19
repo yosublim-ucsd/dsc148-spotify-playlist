@@ -4,7 +4,7 @@
 
 > 
 
-151 songs - 8 hr 12 min
+152 songs - 8 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Inside Out](https://open.spotify.com/track/6WlmEymaXKMRs3D2c4j6os) | [Duster](https://open.spotify.com/artist/5AyEXCtu3xnnsTGCo4RVZh) | [Stratosphere](https://open.spotify.com/album/2S3289mypNw2zP0OpFexMb) | 2:21 | 2023-07-24 |  |
 | [Insomniac](https://open.spotify.com/track/2klj0StczYde6WUHBJo5F6) | [Memo Boy](https://open.spotify.com/artist/2jwC7uml6QVgLBfx1Hbtek), [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Songs & Demos 2015\-2017](https://open.spotify.com/album/0a0ftVkZr4K1QoOXcZF0V1) | 3:32 | 2023-09-25 |  |
 | [It's Snowing Like It's the End of the World](https://open.spotify.com/track/2r5XS1YoCgYq4uHvHxbVxz) | [Krobak](https://open.spotify.com/artist/3NSPUQNQB8sZ4dUdHSGa0Z) | [Little Victories](https://open.spotify.com/album/7CbeLrrlWnIOBH4MjuZFlR) | 11:50 | 2023-07-22 |  |
+| [Ivory Descent](https://open.spotify.com/track/3BODItmW74qn90hULauUym) | [Ben Thal](https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB), [Finn Lavo](https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR) | [DUSKWEAVER](https://open.spotify.com/album/2SK2qhrt9TyRB1lEdxibcZ) | 2:24 | 2025-01-18 |  |
 | [Je te laisserai des mots](https://open.spotify.com/track/0V5cvmTKsYmF5FmGGEAfmS) | [Patrick Watson](https://open.spotify.com/artist/7bPs6jf983f0bjRAt1yxDM) | [Je te laisserai des mots](https://open.spotify.com/album/7KPvATOyLVFbV6UR6DujF8) | 2:40 | 2023-09-21 |  |
 | [laleconparticulere.](https://open.spotify.com/track/3sUo9q67Pl3izLgUgfyHKK) | [pandora.](https://open.spotify.com/artist/2kz8ErEfOCprZuWDcFgzSM), [chillwithme](https://open.spotify.com/artist/7AvcFSTZCBcqx0Uf03lrP8), [cødy](https://open.spotify.com/artist/0CLVTdLvMwJzZtHovVneAC) | [laleconparticulere.](https://open.spotify.com/album/4koTRhv7vJHays2gNvf31v) | 1:03 | 2024-01-01 |  |
 | [Last Christmas](https://open.spotify.com/track/2FRnf9qhLbvw8fu4IBXx78) | [Wham!](https://open.spotify.com/artist/5lpH0xAS4fVfLkACg9DAuM) | [LAST CHRISTMAS](https://open.spotify.com/album/6egzU9NKfora01qaNbvwfZ) | 4:22 | 2023-01-16 |  |

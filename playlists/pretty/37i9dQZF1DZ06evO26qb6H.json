@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAACtgEoPrCaLQ5Vbmh+4k1+9",
+  "snapshot_id": "Z4mdgAAAAABpIqd/nRH3ZCyD3A84JH+6",
   "tracks": [
     {
       "added_at": null,
@@ -551,26 +551,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bless Yo Trap",
-        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
-      },
-      "artists": [
-        {
-          "name": "Smokepurpp",
-          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "123",
-      "url": "https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
         "url": "https://open.spotify.com/album/00M4ecLNv6pzPmr5lheMPr"
       },
@@ -591,6 +571,26 @@
       "duration_ms": 180609,
       "name": "Fendi (feat. Nicki Minaj & Murda Beatz)",
       "url": "https://open.spotify.com/track/7H1591r6SfmZZh6BUE7Gue"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bless Yo Trap",
+        "url": "https://open.spotify.com/album/3UTI3QQcowXYG3DA0Piy5f"
+      },
+      "artists": [
+        {
+          "name": "Smokepurpp",
+          "url": "https://open.spotify.com/artist/21dooacK2WGBB5amYvKyfM"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "123",
+      "url": "https://open.spotify.com/track/2uVRSSzX96V7Rzlhx7fosj"
     },
     {
       "added_at": null,
@@ -643,30 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Raining",
-        "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Yung Bleu",
-          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 222740,
-      "name": "Raining (feat. Yung Bleu & Murda Beatz)",
-      "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Yeah Yeah (feat. 50 Cent and Murda Beatz)",
         "url": "https://open.spotify.com/album/2hiGavzPxodvstp41CauLv"
       },
@@ -695,6 +671,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Raining",
+        "url": "https://open.spotify.com/album/4bxulEQgaLNyfd5U0xOiJo"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Yung Bleu",
+          "url": "https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 222740,
+      "name": "Raining (feat. Yung Bleu & Murda Beatz)",
+      "url": "https://open.spotify.com/track/6i5wxOzIv91jvGwi4gofGn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
         "url": "https://open.spotify.com/album/71uxGkMDuq1nSSXfkpeqqZ"
       },
@@ -715,26 +715,6 @@
       "duration_ms": 170523,
       "name": "Shopping Spree (feat. Lil Pump & Sheck Wes)",
       "url": "https://open.spotify.com/track/7K3qxAZqTZEScGAEjVcUnJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "McQueen",
-        "url": "https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an"
-      },
-      "artists": [
-        {
-          "name": "TrifeDrew",
-          "url": "https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr"
-        },
-        {
-          "name": "Murda Beatz",
-          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "McQueen",
-      "url": "https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl"
     },
     {
       "added_at": null,
@@ -763,6 +743,26 @@
       "duration_ms": 204804,
       "name": "1Night (feat. PARTYNEXTDOOR, 21 Savage & Murda Beatz)",
       "url": "https://open.spotify.com/track/2uZUFhEOjWOUHSoxmrlzMt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "McQueen",
+        "url": "https://open.spotify.com/album/3kCfNWxtVZI9UuUXLGv0an"
+      },
+      "artists": [
+        {
+          "name": "TrifeDrew",
+          "url": "https://open.spotify.com/artist/3cWGilyM7pw2Q1bGbTXuBr"
+        },
+        {
+          "name": "Murda Beatz",
+          "url": "https://open.spotify.com/artist/3CbYyyd8wH3RT6t0jwpdzC"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "McQueen",
+      "url": "https://open.spotify.com/track/4vLRgSxcRmhnhAl9dKb0jl"
     },
     {
       "added_at": null,

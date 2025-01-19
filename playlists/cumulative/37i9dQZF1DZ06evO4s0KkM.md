@@ -4,7 +4,7 @@
 
 > This is Dropkick Murphys\. The essential tracks, all in one playlist.
 
-117 songs - 6 hr 17 min
+118 songs - 6 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,13 +21,14 @@
 | [Blood and Whiskey](https://open.spotify.com/track/686FZUtOvjfdhSsyjbGfXb) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Gang's All Here](https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy) | 1:47 | 2022-09-16 | 2022-10-06 |
 | [Boys on the Docks](https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:33 | 2022-09-16 |  |
 | [Bring It Home \(feat\. Jaime Wyatt\)](https://open.spotify.com/track/5PWke7d2ucI1I4NEqgH6DB) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Jaime Wyatt](https://open.spotify.com/artist/6QCJlDImUdyqBFXcMvm52U) | [Okemah Rising](https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK) | 3:22 | 2023-05-13 | 2024-10-26 |
-| [Broken Hymns](https://open.spotify.com/track/6A4LNBVzs1Oe1ZOgR00EYX) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r) | 5:03 | 2025-01-10 |  |
+| [Broken Hymns](https://open.spotify.com/track/6A4LNBVzs1Oe1ZOgR00EYX) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Going Out In Style](https://open.spotify.com/album/4Adk6f8Ikbd17xCYWRpE1r) | 5:03 | 2025-01-10 | 2025-01-19 |
 | [Cadence To Arms](https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:49 | 2022-09-16 |  |
 | [Cadillac, Cadillac](https://open.spotify.com/track/3e46b4yxZyHMV2MEMvcU7n) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [This Machine Still Kills Fascists](https://open.spotify.com/album/4o7P2SaOMsHMgsWcnXrsT3) | 2:53 | 2022-10-04 | 2022-10-13 |
 | [Cadillac, Cadillac \(feat\. Sammy Amara of Broilers\) \- Bonus Track](https://open.spotify.com/track/3BI2VcceUXegNQ9WCzc7J3) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Sammy Amara](https://open.spotify.com/artist/4RBEJH5AwRE4dQT2qBmi6p), [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 2:53 | 2023-01-15 | 2023-03-06 |
 | [Captain Kelly's Kitchen](https://open.spotify.com/track/1ruLENRDCRMU1CAefJlrfA) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Warrior's Code](https://open.spotify.com/album/2sZGDqHfU884z3iFris122) | 2:48 | 2022-09-16 |  |
 | [Caught In A Jar](https://open.spotify.com/track/1qqu8COuWRIDUpMLrYKRou) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 2:19 | 2022-09-16 | 2023-07-22 |
 | [Citizen C.I.A\. \(Live At Ryman Auditorium\)](https://open.spotify.com/track/32q1ILx2fzW64DqqKCPyOX) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Live At Ryman Auditorium](https://open.spotify.com/album/47D7JxsBmpXvkQdauxqQVA) | 2:42 | 2024-09-10 | 2024-09-22 |
+| [Cold Like This](https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3) | [The Rumjacks](https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd), [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Cold Like This](https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah) | 2:36 | 2025-01-19 |  |
 | [Dig A Hole \(feat\. Woody Guthrie\)](https://open.spotify.com/track/6ExuAoRylhOacHhNp9aoKa) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx), [Woody Guthrie](https://open.spotify.com/artist/4rAgFKtlTr66ic18YZZyF1) | [This Machine Still Kills Fascists \(Expanded Edition\)](https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB) | 3:09 | 2023-02-04 | 2023-02-07 |
 | [Do Or Die](https://open.spotify.com/track/4zuEua2fQF5q6ev0oWt5XW) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [Do Or Die](https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk) | 1:50 | 2022-09-16 | 2023-05-16 |
 | [Famous for Nothing](https://open.spotify.com/track/7752ly2fp6Pfktq8I7zsxR) | [Dropkick Murphys](https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx) | [The Meanest of Times](https://open.spotify.com/album/6jGmS4aaYHvyRhKzACeQij) | 2:46 | 2022-09-16 | 2022-10-13 |

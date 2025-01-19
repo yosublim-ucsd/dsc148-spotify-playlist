@@ -1,6 +1,6 @@
 {
   "description": "A decade full of 00s country hits! Cover: Rascal Flatts",
-  "num_followers": 879996,
+  "num_followers": 880178,
   "original_name": "2000s Country",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Need You Now",
+        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+      },
+      "artists": [
+        {
+          "name": "Lady A",
+          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+        }
+      ],
+      "duration_ms": 224866,
+      "name": "American Honey",
+      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "Pull My Chain",
         "url": "https://open.spotify.com/album/6Wl6e47SHuCOoweTGGd1TG"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 183960,
       "name": "I Wanna Talk About Me",
       "url": "https://open.spotify.com/track/3VHevS1BocAcrihLnl11DG"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
-        "name": "Taylor Swift",
-        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        }
-      ],
-      "duration_ms": 203040,
-      "name": "Teardrops On My Guitar - Radio Single Remix",
-      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1019,18 +1019,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Need You Now",
-        "url": "https://open.spotify.com/album/3hnGcNi8oqGdwTm3CeniFA"
+        "name": "Taylor Swift",
+        "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
       "artists": [
         {
-          "name": "Lady A",
-          "url": "https://open.spotify.com/artist/32WkQRZEVKSzVAAYqukAEA"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
         }
       ],
-      "duration_ms": 224866,
-      "name": "American Honey",
-      "url": "https://open.spotify.com/track/4xInIiKipU1mtUogJ3ZdYr"
+      "duration_ms": 203040,
+      "name": "Teardrops On My Guitar - Radio Single Remix",
+      "url": "https://open.spotify.com/track/7zMcNqs55Mxer82bvZFkpg"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Sunset Man (Standard Version)",
-        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
-      },
-      "artists": [
-        {
-          "name": "James Otto",
-          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
-        }
-      ],
-      "duration_ms": 234640,
-      "name": "Just Got Started Lovin' You",
-      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Who Needs Pictures",
         "url": "https://open.spotify.com/album/3t0TWByW3sYvBsJFzmDRVk"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 226226,
       "name": "We Danced",
       "url": "https://open.spotify.com/track/79DjV1vsU6yVoCbrQNNDdI"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "Sunset Man (Standard Version)",
+        "url": "https://open.spotify.com/album/79uExtsVJH2aNcS2Xu4Cim"
+      },
+      "artists": [
+        {
+          "name": "James Otto",
+          "url": "https://open.spotify.com/artist/3VStI6m5Ig9FAyUaa0lYAP"
+        }
+      ],
+      "duration_ms": 234640,
+      "name": "Just Got Started Lovin' You",
+      "url": "https://open.spotify.com/track/4b0XF7CDpJEBAdVHMw7amV"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1791,22 +1791,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Tim McGraw And The Dancehall Doctors",
-        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 283560,
-      "name": "Red Ragtop",
-      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Smoke Rings In The Dark (Deluxe Edition)",
         "url": "https://open.spotify.com/album/7AfIfaS5H3UWCvELRpKMLX"
       },
@@ -1819,6 +1803,22 @@
       "duration_ms": 257646,
       "name": "Smoke Rings In The Dark",
       "url": "https://open.spotify.com/track/47tVV7s6UzdcyTJBoIW7aX"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "Tim McGraw And The Dancehall Doctors",
+        "url": "https://open.spotify.com/album/76TexugJVi7Eg8suRNpQg6"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 283560,
+      "name": "Red Ragtop",
+      "url": "https://open.spotify.com/track/5xErd5QhOvTKFU7l8dffWC"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "A Place In The Sun",
-        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 217733,
-      "name": "My Next Thirty Years",
-      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Some People Change",
         "url": "https://open.spotify.com/album/4VnDYciDlyoi7Y7E5K1l9m"
       },
@@ -1919,22 +1903,6 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "34 Number Ones",
-        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
-      },
-      "artists": [
-        {
-          "name": "Alan Jackson",
-          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
-        }
-      ],
-      "duration_ms": 171813,
-      "name": "It Must Be Love",
-      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
-    },
-    {
-      "added_at": "2024-09-06 03:55:42",
-      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/0xBQEVKKlFKaetqike1qXK"
       },
@@ -1951,18 +1919,18 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
-        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
+        "name": "34 Number Ones",
+        "url": "https://open.spotify.com/album/26w8J2SKCxa80Bwq6G8ctN"
       },
       "artists": [
         {
-          "name": "Dierks Bentley",
-          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+          "name": "Alan Jackson",
+          "url": "https://open.spotify.com/artist/4mxWe1mtYIYfP040G38yvS"
         }
       ],
-      "duration_ms": 201120,
-      "name": "Free And Easy (Down The Road I Go)",
-      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
+      "duration_ms": 171813,
+      "name": "It Must Be Love",
+      "url": "https://open.spotify.com/track/16OFkCrdYH524sqvTPt6CT"
     },
     {
       "added_at": "2024-09-06 03:55:42",
@@ -1983,6 +1951,38 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
+        "name": "Greatest Hits / Every Mile A Memory 2003 - 2008",
+        "url": "https://open.spotify.com/album/4iUwiEhZk4bbaoA6qiZSy6"
+      },
+      "artists": [
+        {
+          "name": "Dierks Bentley",
+          "url": "https://open.spotify.com/artist/7x8nK0m0cP2ksQf0mjWdPS"
+        }
+      ],
+      "duration_ms": 201120,
+      "name": "Free And Easy (Down The Road I Go)",
+      "url": "https://open.spotify.com/track/4Ng7hGdPwpINleVecBWiOO"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
+        "name": "A Place In The Sun",
+        "url": "https://open.spotify.com/album/2EkJjknrgd5DeIH2x9HLjD"
+      },
+      "artists": [
+        {
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
+        }
+      ],
+      "duration_ms": 217733,
+      "name": "My Next Thirty Years",
+      "url": "https://open.spotify.com/track/7AHw9SfOITU9Q7sj3V5vxV"
+    },
+    {
+      "added_at": "2024-09-06 03:55:42",
+      "album": {
         "name": "Play On",
         "url": "https://open.spotify.com/album/3iLrVuA1k7onNmZTuUQH4u"
       },
@@ -1999,38 +1999,34 @@
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Let It Go",
-        "url": "https://open.spotify.com/album/47bt3mVEJg8ei4lhB8xjQo"
+        "name": "Rascal Flatts",
+        "url": "https://open.spotify.com/album/6RhvNGfuqrGZBNs5AChVO4"
       },
       "artists": [
         {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        },
-        {
-          "name": "Faith Hill",
-          "url": "https://open.spotify.com/artist/25NQNriVT2YbSW80ILRWJa"
+          "name": "Rascal Flatts",
+          "url": "https://open.spotify.com/artist/0a1gHP0HAqALbEyxaD5Ngn"
         }
       ],
-      "duration_ms": 248800,
-      "name": "I Need You",
-      "url": "https://open.spotify.com/track/18wDkct4lkK046D6gcCASs"
+      "duration_ms": 215600,
+      "name": "Prayin' For Daylight",
+      "url": "https://open.spotify.com/track/0DAVCurdi9ZqkVUKIuikzm"
     },
     {
       "added_at": "2024-09-06 03:55:42",
       "album": {
-        "name": "Lonely Grill",
-        "url": "https://open.spotify.com/album/7ykiOoPC4GLrVYSDVdDGq2"
+        "name": "Golden Road",
+        "url": "https://open.spotify.com/album/1O87Gkgvc6QR1JRpMkgnE7"
       },
       "artists": [
         {
-          "name": "Lonestar",
-          "url": "https://open.spotify.com/artist/3qbnxnvUqR14MJ9g8QwZJK"
+          "name": "Keith Urban",
+          "url": "https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf"
         }
       ],
-      "duration_ms": 210000,
-      "name": "What About Now",
-      "url": "https://open.spotify.com/track/1xK2NkwOfT8qZYWPossXGz"
+      "duration_ms": 227733,
+      "name": "You Look Good In My Shirt",
+      "url": "https://open.spotify.com/track/4O4hiA7KxHhzv3s0QIHDlz"
     }
   ],
   "unique_name": "2000s Country",

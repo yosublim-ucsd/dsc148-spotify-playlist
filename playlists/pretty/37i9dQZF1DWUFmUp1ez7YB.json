@@ -1,6 +1,6 @@
 {
   "description": "Los \u00e9xitos de la salsa de ayer y hoy en un s\u00f3lo lugar. Foto: Joe Arroyo",
-  "num_followers": 814592,
+  "num_followers": 815235,
   "original_name": "Dame Salsa",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Ciclos",
-        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
-      },
-      "artists": [
-        {
-          "name": "Luis Enrique",
-          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
-        }
-      ],
-      "duration_ms": 259853,
-      "name": "Yo No S\u00e9 Ma\u00f1ana",
-      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Nuevo Milenio - El Mismo Sabor",
         "url": "https://open.spotify.com/album/4VjDEGwmMTP7hOn2Afmbkn"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 292653,
       "name": "Mi Media Mitad",
       "url": "https://open.spotify.com/track/64QyipABOzDwoUFqaEnCvU"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Ciclos",
+        "url": "https://open.spotify.com/album/63irJwZoWLRUc1lBKtuxmQ"
+      },
+      "artists": [
+        {
+          "name": "Luis Enrique",
+          "url": "https://open.spotify.com/artist/2mUI4K6csTQd3jieswcmiI"
+        }
+      ],
+      "duration_ms": 259853,
+      "name": "Yo No S\u00e9 Ma\u00f1ana",
+      "url": "https://open.spotify.com/track/7nDIflSHQXzaa8zupxwv3U"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Oro Salsero",
-        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
-      },
-      "artists": [
-        {
-          "name": "David Pabon",
-          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
-        }
-      ],
-      "duration_ms": 308893,
-      "name": "Aqu\u00e9l Viejo Motel",
-      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Numero 7",
         "url": "https://open.spotify.com/album/0VaX081B3DVzrDJOxWVqGS"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 298515,
       "name": "Un verano en Nueva York",
       "url": "https://open.spotify.com/track/1q2J8KWeewoqOrZI4a65P9"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Oro Salsero",
+        "url": "https://open.spotify.com/album/45jRKB7cqJYwk7vHyYgveo"
+      },
+      "artists": [
+        {
+          "name": "David Pabon",
+          "url": "https://open.spotify.com/artist/3L3YHYkS8b2vgAbnqBTXrE"
+        }
+      ],
+      "duration_ms": 308893,
+      "name": "Aqu\u00e9l Viejo Motel",
+      "url": "https://open.spotify.com/track/286NP8kXWzx2uHb5tr7TGv"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "La-33",
-        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
-      },
-      "artists": [
-        {
-          "name": "La-33",
-          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
-        }
-      ],
-      "duration_ms": 285546,
-      "name": "Soledad",
-      "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "El Juicio",
         "url": "https://open.spotify.com/album/3VGeuVPBeITXJwWt2YUPZW"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 369120,
       "name": "Aguanile",
       "url": "https://open.spotify.com/track/0pX477ap2l86BbHfKTncpM"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "La-33",
+        "url": "https://open.spotify.com/album/38sJtIZtuLAMfphGWBtHSt"
+      },
+      "artists": [
+        {
+          "name": "La-33",
+          "url": "https://open.spotify.com/artist/1Y2yzHPbBWZouNYTOGFq7u"
+        }
+      ],
+      "duration_ms": 285546,
+      "name": "Soledad",
+      "url": "https://open.spotify.com/track/3bpqoOSDwdaK003DPMvDJQ"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "Siempre Una Aventura",
+        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 354093,
+      "name": "Busca Por Dentro",
+      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "Milenario, Vol. 3",
         "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
       },
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Siempre Una Aventura",
-        "url": "https://open.spotify.com/album/2yAheDQ4qgtbVfHVOhKDNF"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 354093,
-      "name": "Busca Por Dentro",
-      "url": "https://open.spotify.com/track/2canuqE41S1yUstx6qnLFc"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Exitos y Mas",
         "url": "https://open.spotify.com/album/3TbMMalrMelzvOnprzpVpD"
       },
@@ -1107,22 +1107,6 @@
       "duration_ms": 306440,
       "name": "A Donde Iras",
       "url": "https://open.spotify.com/track/6BWPT5ku80skdgRnBuMJ28"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "Vale La Pena (It's Worth It)",
-        "url": "https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg"
-      },
-      "artists": [
-        {
-          "name": "La Caro Band",
-          "url": "https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P"
-        }
-      ],
-      "duration_ms": 291906,
-      "name": "Amor De Etiqueta",
-      "url": "https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1143,6 +1127,22 @@
       "duration_ms": 366200,
       "name": "Vivir Lo Nuestro",
       "url": "https://open.spotify.com/track/0LIZVQBQtDi4lLhB83qJIp"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Vale La Pena (It's Worth It)",
+        "url": "https://open.spotify.com/album/3Elnd422KIW79au5a0bmPg"
+      },
+      "artists": [
+        {
+          "name": "La Caro Band",
+          "url": "https://open.spotify.com/artist/7cOkK8AkHEuPjIRhycNt3P"
+        }
+      ],
+      "duration_ms": 291906,
+      "name": "Amor De Etiqueta",
+      "url": "https://open.spotify.com/track/2O1EHaqGqQjAqshMGOBfyB"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
+      },
+      "artists": [
+        {
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
+        }
+      ],
+      "duration_ms": 280013,
+      "name": "Ese Hombre",
+      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "El Sonero Quel El Pueblo Prefiere",
         "url": "https://open.spotify.com/album/4UCOrGLB3LoRAeHPWA4O3G"
       },
@@ -1239,22 +1255,6 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Picadillo A La Criolla",
-        "url": "https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv"
-      },
-      "artists": [
-        {
-          "name": "Lebr\u00f3n Brothers",
-          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
-        }
-      ],
-      "duration_ms": 290960,
-      "name": "Temperatura",
-      "url": "https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
         "name": "Voy Pa'Encima",
         "url": "https://open.spotify.com/album/6EMYCH8HyTiX5KSav7RTML"
       },
@@ -1267,6 +1267,22 @@
       "duration_ms": 287120,
       "name": "Desn\u00fadate Mujer",
       "url": "https://open.spotify.com/track/65nL3OLuHHfEYxKkHMQ1fL"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
+        "name": "Picadillo A La Criolla",
+        "url": "https://open.spotify.com/album/5YSx10FSWV3fsoO0tAuvNv"
+      },
+      "artists": [
+        {
+          "name": "Lebr\u00f3n Brothers",
+          "url": "https://open.spotify.com/artist/3MeSOWo9ZSTe5Esf66uXam"
+        }
+      ],
+      "duration_ms": 290960,
+      "name": "Temperatura",
+      "url": "https://open.spotify.com/track/1Iv6gLvrLTOCGzNGf1txYo"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1299,22 +1315,6 @@
       "duration_ms": 331773,
       "name": "Conciencia",
       "url": "https://open.spotify.com/track/5kwJWQgBaJWm1QZtWeC3uj"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "Dicen Que Soy",
-        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 280013,
-      "name": "Ese Hombre",
-      "url": "https://open.spotify.com/track/1BK353EYyBMkDd80kmfrqA"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1371,18 +1371,18 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "Y No Hay M\u00e1s Na",
-        "url": "https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X"
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
       "artists": [
         {
-          "name": "N'Samble",
-          "url": "https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 353253,
-      "name": "Coraz\u00f3n Embusteros",
-      "url": "https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU"
+      "duration_ms": 297040,
+      "name": "Nunca Voy A Olvidarte",
+      "url": "https://open.spotify.com/track/7JXThmie7TTZfnGpD6hOJG"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1403,6 +1403,22 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
+        "name": "Y No Hay M\u00e1s Na",
+        "url": "https://open.spotify.com/album/3NfQpI1g7293zTjirDR73X"
+      },
+      "artists": [
+        {
+          "name": "N'Samble",
+          "url": "https://open.spotify.com/artist/7Ksq8BTaGcbM7OgVQi3y8f"
+        }
+      ],
+      "duration_ms": 353253,
+      "name": "Coraz\u00f3n Embusteros",
+      "url": "https://open.spotify.com/track/527sYZvnJbG8z5ScW2DAVU"
+    },
+    {
+      "added_at": "2024-06-21 20:58:37",
+      "album": {
         "name": "Serie Millennium 21: Paquito Guzman",
         "url": "https://open.spotify.com/album/5TU711ERq1aUbOGgj5Jlrn"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 309253,
       "name": "Cinco Noches",
       "url": "https://open.spotify.com/track/15bMjRos3fdlgwfQOXchez"
-    },
-    {
-      "added_at": "2024-06-21 20:58:37",
-      "album": {
-        "name": "Dicen Que Soy",
-        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
-      },
-      "artists": [
-        {
-          "name": "LA INDIA",
-          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
-        }
-      ],
-      "duration_ms": 297040,
-      "name": "Nunca Voy A Olvidarte",
-      "url": "https://open.spotify.com/track/7JXThmie7TTZfnGpD6hOJG"
     },
     {
       "added_at": "2024-06-21 20:58:37",
@@ -1503,18 +1503,18 @@
     {
       "added_at": "2024-06-21 20:58:37",
       "album": {
-        "name": "No Le Cuentes",
-        "url": "https://open.spotify.com/album/6c7vDgCjz0dGtefj7j3Lw1"
+        "name": "Dicen Que Soy",
+        "url": "https://open.spotify.com/album/5Bj8dRzPK5F1ozrV5IPb4u"
       },
       "artists": [
         {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+          "name": "LA INDIA",
+          "url": "https://open.spotify.com/artist/3NIZFmehJM8YiGpCdihlck"
         }
       ],
-      "duration_ms": 223197,
-      "name": "No Le Cuentes",
-      "url": "https://open.spotify.com/track/2kkrmf5Lm78SRaVgc4AySq"
+      "duration_ms": 281040,
+      "name": "Dicen Que Soy",
+      "url": "https://open.spotify.com/track/6Lr6DGoVF77bNdHsfiwfPZ"
     }
   ],
   "unique_name": "Dame Salsa",

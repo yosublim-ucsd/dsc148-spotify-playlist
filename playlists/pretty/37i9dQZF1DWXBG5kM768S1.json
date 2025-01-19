@@ -1,6 +1,6 @@
 {
   "description": "Fantastiske viser fra noen av v\u00e5re aller beste artister.",
-  "num_followers": 77510,
+  "num_followers": 77538,
   "original_name": "Norske viser",
   "owner": {
     "name": "Spotify",
@@ -259,18 +259,22 @@
     {
       "added_at": "2025-01-16 23:00:35",
       "album": {
-        "name": "Fra 4 Til 70",
-        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
+        "name": "Linedans",
+        "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
       },
       "artists": [
         {
-          "name": "Inger Lise Rypdal",
-          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
+          "name": "\u00c5ge Aleksandersen",
+          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
+        },
+        {
+          "name": "Line Sofie Aleksandersen",
+          "url": "https://open.spotify.com/artist/139biVMfyquAUumShjaSQs"
         }
       ],
-      "duration_ms": 222146,
-      "name": "En Spennende Dag for Josefine",
-      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
+      "duration_ms": 230973,
+      "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
+      "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
     },
     {
       "added_at": "2025-01-16 23:00:35",
@@ -307,22 +311,18 @@
     {
       "added_at": "2025-01-16 23:00:35",
       "album": {
-        "name": "Linedans",
-        "url": "https://open.spotify.com/album/79BW7npDsLuTpg7RCJ1KrU"
+        "name": "Fra 4 Til 70",
+        "url": "https://open.spotify.com/album/1HtbTHXEUz2MSQg4cCWQtP"
       },
       "artists": [
         {
-          "name": "\u00c5ge Aleksandersen",
-          "url": "https://open.spotify.com/artist/08H8B226x5IRKwbm8TD8bz"
-        },
-        {
-          "name": "Line Sofie Aleksandersen",
-          "url": "https://open.spotify.com/artist/139biVMfyquAUumShjaSQs"
+          "name": "Inger Lise Rypdal",
+          "url": "https://open.spotify.com/artist/1lvXjNoyEprcUc0Cb2N0QH"
         }
       ],
-      "duration_ms": 230973,
-      "name": "Trondheimsnatt (feat. Line Sofie Aleksandersen)",
-      "url": "https://open.spotify.com/track/0eIvpsLphOvtjcaDoAMDvf"
+      "duration_ms": 222146,
+      "name": "En Spennende Dag for Josefine",
+      "url": "https://open.spotify.com/track/6TOeA3fUURRV9hbRd2dpXa"
     },
     {
       "added_at": "2025-01-16 23:00:35",
@@ -347,22 +347,6 @@
       "duration_ms": 203937,
       "name": "\u00c5 Kunne \u00c6 Skrive",
       "url": "https://open.spotify.com/track/3Q5UYAQJ4l3crdc3YjnqbK"
-    },
-    {
-      "added_at": "2025-01-16 23:00:35",
-      "album": {
-        "name": "Alt det som skinner",
-        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
-      },
-      "artists": [
-        {
-          "name": "Anne Grete Preus",
-          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
-        }
-      ],
-      "duration_ms": 250403,
-      "name": "Alt det som skinner",
-      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
     },
     {
       "added_at": "2025-01-16 23:00:35",
@@ -395,6 +379,22 @@
       "duration_ms": 223706,
       "name": "Jeg Vet",
       "url": "https://open.spotify.com/track/3ZTHN0y3NwiciPH3CpfXcL"
+    },
+    {
+      "added_at": "2025-01-16 23:00:35",
+      "album": {
+        "name": "Alt det som skinner",
+        "url": "https://open.spotify.com/album/2R6Dqa6ORZaDkBXeD9SMbr"
+      },
+      "artists": [
+        {
+          "name": "Anne Grete Preus",
+          "url": "https://open.spotify.com/artist/32mTrXKr7W8Tg4hH4S2Do1"
+        }
+      ],
+      "duration_ms": 250403,
+      "name": "Alt det som skinner",
+      "url": "https://open.spotify.com/track/0HYvxo4SmIg7pS6TDoODUD"
     },
     {
       "added_at": "2025-01-16 23:00:35",
@@ -559,22 +559,6 @@
     {
       "added_at": "2025-01-16 23:00:35",
       "album": {
-        "name": "De N\u00e6re Ting",
-        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
-      },
-      "artists": [
-        {
-          "name": "Ingrid Olava",
-          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
-        }
-      ],
-      "duration_ms": 138412,
-      "name": "De N\u00e6re Ting",
-      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
-    },
-    {
-      "added_at": "2025-01-16 23:00:35",
-      "album": {
         "name": "Evig kvile",
         "url": "https://open.spotify.com/album/3FXRGtIbIadCBWasFSyOaq"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 189239,
       "name": "Evig kvile",
       "url": "https://open.spotify.com/track/10mUGsqnNGEUf1pt4ke1pB"
+    },
+    {
+      "added_at": "2025-01-16 23:00:35",
+      "album": {
+        "name": "De N\u00e6re Ting",
+        "url": "https://open.spotify.com/album/1AGrD04xDQrvxRamd8m9ih"
+      },
+      "artists": [
+        {
+          "name": "Ingrid Olava",
+          "url": "https://open.spotify.com/artist/31QXbjGMTpXUWhhAFtIkmQ"
+        }
+      ],
+      "duration_ms": 138412,
+      "name": "De N\u00e6re Ting",
+      "url": "https://open.spotify.com/track/0k9J6f4A22q8JXqU8atMuz"
     },
     {
       "added_at": "2025-01-16 23:00:35",
@@ -759,38 +759,6 @@
     {
       "added_at": "2025-01-16 23:00:35",
       "album": {
-        "name": "Ennu her",
-        "url": "https://open.spotify.com/album/3kFboxbUwWBzFBHfNwQqZ0"
-      },
-      "artists": [
-        {
-          "name": "Kari Bremnes",
-          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
-        }
-      ],
-      "duration_ms": 212817,
-      "name": "Folk som ingen ser",
-      "url": "https://open.spotify.com/track/3Fk2KahVKObtHOfLzKm0RZ"
-    },
-    {
-      "added_at": "2025-01-16 23:00:35",
-      "album": {
-        "name": "Hildringstimer - 14 velvalgte viser",
-        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
-      },
-      "artists": [
-        {
-          "name": "Erik Bye",
-          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
-        }
-      ],
-      "duration_ms": 187600,
-      "name": "Varherres Klinkekuler",
-      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
-    },
-    {
-      "added_at": "2025-01-16 23:00:35",
-      "album": {
         "name": "Eg Glemmer Deg Aldri",
         "url": "https://open.spotify.com/album/01u1QpBhHmNTWp1UhhCKHQ"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 178116,
       "name": "Eg glemmer deg aldri",
       "url": "https://open.spotify.com/track/5uIf5trHyNF4uvsmCr1NHc"
+    },
+    {
+      "added_at": "2025-01-16 23:00:35",
+      "album": {
+        "name": "Hildringstimer - 14 velvalgte viser",
+        "url": "https://open.spotify.com/album/3STZjoiXVRs4EnnkrBiZ1x"
+      },
+      "artists": [
+        {
+          "name": "Erik Bye",
+          "url": "https://open.spotify.com/artist/1qqBCY3Scz9Ea1mjkCDgaZ"
+        }
+      ],
+      "duration_ms": 187600,
+      "name": "Varherres Klinkekuler",
+      "url": "https://open.spotify.com/track/5jbz1Pwz06o9fPMYFrmTOP"
+    },
+    {
+      "added_at": "2025-01-16 23:00:35",
+      "album": {
+        "name": "Ennu her",
+        "url": "https://open.spotify.com/album/3kFboxbUwWBzFBHfNwQqZ0"
+      },
+      "artists": [
+        {
+          "name": "Kari Bremnes",
+          "url": "https://open.spotify.com/artist/1vHopQ5qWJVDXXPc2VxjUd"
+        }
+      ],
+      "duration_ms": 212817,
+      "name": "Folk som ingen ser",
+      "url": "https://open.spotify.com/track/3Fk2KahVKObtHOfLzKm0RZ"
     },
     {
       "added_at": "2025-01-16 23:00:35",

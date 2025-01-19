@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit\. Kannessa JVG.
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,790 likes - 65 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,795 likes - 65 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,9 +14,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 4 | [Sekaisin](https://open.spotify.com/track/17MJxFMzJkmy1f9m1ubTS3) | [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Sekaisin](https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q) | 2:43 |
 | 5 | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/track/3kK8hgEtjb9tcBjIRv2674) | [Karim B](https://open.spotify.com/artist/6WmsWPACSMLs5OfLjs0gSi), [TUULI](https://open.spotify.com/artist/4CvGI7cUCGi7gcG0X0nrwc) | [Miljoonii \(feat\. TUULI\)](https://open.spotify.com/album/4Aj6yWiJMb9N8dpdRccoZx) | 2:45 |
 | 6 | [Hitaammin hautaan](https://open.spotify.com/track/56gErvTUBhx82XqEauET28) | [Nelli Matula](https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE) | [Hitaammin hautaan](https://open.spotify.com/album/5sacMb3lLplhX3RT9LiKw7) | 2:58 |
-| 7 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
-| 8 | [KOHTALO](https://open.spotify.com/track/2WlZzWKyyQRFpXnqV6JepA) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [KOHTALO](https://open.spotify.com/album/3gFojaJRDbfyUjUTr4KJ1A) | 3:02 |
-| 9 | [Suuria tarinoita](https://open.spotify.com/track/4ZPgBmWL0HQ87T1E8dHoHk) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Suuria tarinoita](https://open.spotify.com/album/26XMsvBWYRJzSv8VBt1dw3) | 3:06 |
+| 7 | [Suuria tarinoita](https://open.spotify.com/track/4ZPgBmWL0HQ87T1E8dHoHk) | [Arttu Wiskari](https://open.spotify.com/artist/3XqH4FcUOrw2gw7L3BBaDn) | [Suuria tarinoita](https://open.spotify.com/album/26XMsvBWYRJzSv8VBt1dw3) | 3:06 |
+| 8 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
+| 9 | [KOHTALO](https://open.spotify.com/track/2WlZzWKyyQRFpXnqV6JepA) | [KIKI](https://open.spotify.com/artist/5zod5X1F6ZTshIfpg2vVAF) | [KOHTALO](https://open.spotify.com/album/3gFojaJRDbfyUjUTr4KJ1A) | 3:02 |
 | 10 | [Ainutlaatuinen](https://open.spotify.com/track/492KK2E3cyWKthhZKBfEr4) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2) | [Ainutlaatuinen](https://open.spotify.com/album/02iD0MjewEEvBdXiSdXRRk) | 2:40 |
 | 11 | [Ihmishirviö](https://open.spotify.com/track/6EsFnbuNzZmSgiKAd0weFZ) | [Jemina](https://open.spotify.com/artist/7hmwVPq4RGI2LOUrqzlLxA) | [Ihmishirviö](https://open.spotify.com/album/2xlMjMfeOJXJwgTtgQae17) | 3:06 |
 | 12 | [Levoton tuhkimo](https://open.spotify.com/track/1hls6dgYL9TXFhZWPp6dlf) | [emma & matilda](https://open.spotify.com/artist/2jBUgp0vh5pEIqeTLpWCgV) | [Levoton tuhkimo](https://open.spotify.com/album/5R2ehet2HmbbOTrePv6WAi) | 4:18 |
@@ -31,10 +31,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 21 | [Luotathan](https://open.spotify.com/track/0hua7obC2aRxJdPkSoFKEu) | [Mirella](https://open.spotify.com/artist/5m8QXFAKCuty66pOzy9aPZ), [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Luotathan](https://open.spotify.com/album/1JH90V2dgSBiHZbuCzgIIZ) | 3:20 |
 | 22 | [Marraskuu](https://open.spotify.com/track/5A5sHRQoeJHzMULQGPLoOV) | [ibe](https://open.spotify.com/artist/2Pn8JMNrnRnSpNRPPgtiWA) | [Marraskuu](https://open.spotify.com/album/4EXEdIokgH6hdVJxnKziWs) | 3:03 |
 | 23 | [Magiaa](https://open.spotify.com/track/0s2r7IbiptWCtJs8DwfqCv) | [Jaakko Kulta](https://open.spotify.com/artist/3yKaJcys5vfZv2nE2IURyO) | [Magiaa](https://open.spotify.com/album/0HDQhauTygM1mMOF4YUzzf) | 3:20 |
-| 24 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
-| 25 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
-| 26 | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy) | 3:03 |
-| 27 | [Vuosi](https://open.spotify.com/track/7HLjXn0DkzLjVfCM8GePX6) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Vuosi](https://open.spotify.com/album/4o2NeIpas2AuMq50pLdJ2Q) | 3:00 |
+| 24 | [Vuosi](https://open.spotify.com/track/7HLjXn0DkzLjVfCM8GePX6) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Vuosi](https://open.spotify.com/album/4o2NeIpas2AuMq50pLdJ2Q) | 3:00 |
+| 25 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
+| 26 | [Sata shottii](https://open.spotify.com/track/4SzyvEZEyXIYiIe4rpsxcO) | [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Tähtisumua](https://open.spotify.com/album/0QKY0hyk6h6hkytXBY9Jt4) | 2:25 |
+| 27 | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/track/4CiCkXKT895ANPBhePPqIX) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Paletti \(feat\. Sexmane\)](https://open.spotify.com/album/6K8JX9fixwTxSFYOd4LqVy) | 3:03 |
 | 28 | [Ihan vähän sua](https://open.spotify.com/track/2a4cjRKZCV3HnJavEDVLLx) | [ABREU](https://open.spotify.com/artist/5kOwMqoAYEX24YgxEZP6K7) | [Ihan vähän sua](https://open.spotify.com/album/1FyivtsWLHas4iXj9cavH5) | 2:50 |
 | 29 | [Viimeiset häät](https://open.spotify.com/track/1l4Nc7WQjivhZtehTVImWz) | [Elias Kaskinen](https://open.spotify.com/artist/2ema1DJVrVL8ZzcNF2hRcj) | [Viimeiset häät](https://open.spotify.com/album/7gQckz8H2R6MUdYENUsa2v) | 2:58 |
 | 30 | [Maa ilman vettä](https://open.spotify.com/track/5gFVdvBQ0wVIZPYqrMSM8m) | [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Maa ilman vettä](https://open.spotify.com/album/4zDfO6q0mJkiTUDeysv6M1) | 2:19 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 64 | [Auf Wiedersehen](https://open.spotify.com/track/5pvHU5kxqnpwyf7fHFuVcE) | [Ira](https://open.spotify.com/artist/2UkgjMChHf3vFEwOzLE5o9) | [Auf Wiedersehen](https://open.spotify.com/album/5v0n0BodZ2ryQQQRqQrGYo) | 2:48 |
 | 65 | [Yön selkään](https://open.spotify.com/track/4uGuic7I5mYTwKFA9vf7XX) | [Eini](https://open.spotify.com/artist/6yTTkPtwPo2PEkQF4SScwM) | [Yön selkään](https://open.spotify.com/album/4mPAgbKX4KmL3N9XDZ6oNS) | 2:58 |
 
-Snapshot ID: `Z4mBnwAAAAD1EZMMLOS2FhEtxf60N2Er`
+Snapshot ID: `Z4v/iwAAAACKQP+du4C1n2EL8FqpLYRT`

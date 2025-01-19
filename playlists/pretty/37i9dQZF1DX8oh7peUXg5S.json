@@ -1,6 +1,6 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Valeria Castro.",
-  "num_followers": 335380,
+  "num_followers": 335409,
   "original_name": "Cantautoras",
   "owner": {
     "name": "Spotify",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "Antolog\u00eda Desordenada",
-        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        },
-        {
-          "name": "Silvio Rodr\u00edguez",
-          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
-        }
-      ],
-      "duration_ms": 192840,
-      "name": "Lucia (with Silvio Rodr\u00edguez)",
-      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
-    },
-    {
-      "added_at": "2025-01-09 16:18:10",
-      "album": {
         "name": "Mirame",
         "url": "https://open.spotify.com/album/0kCoPtVjOcbKXsgBSaCmVs"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 215106,
       "name": "No Se por Que Te Quiero",
       "url": "https://open.spotify.com/track/7GITdJq0WUdMk2NgHIDFFq"
+    },
+    {
+      "added_at": "2025-01-09 16:18:10",
+      "album": {
+        "name": "Antolog\u00eda Desordenada",
+        "url": "https://open.spotify.com/album/5hyxVY36Zb54xX5uEpVwCR"
+      },
+      "artists": [
+        {
+          "name": "Joan Manuel Serrat",
+          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
+        },
+        {
+          "name": "Silvio Rodr\u00edguez",
+          "url": "https://open.spotify.com/artist/4rUyBlggM5tZUH5QZn9ZuO"
+        }
+      ],
+      "duration_ms": 192840,
+      "name": "Lucia (with Silvio Rodr\u00edguez)",
+      "url": "https://open.spotify.com/track/44RRIuioxHdtujpJ3PDkxA"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "City Zen",
-        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Desde Que Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
-    },
-    {
-      "added_at": "2025-01-09 16:18:10",
-      "album": {
         "name": "Canciones 1980-2009",
         "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
       },
@@ -1043,26 +1027,18 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "Vulnerables",
-        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
+        "name": "City Zen",
+        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
       },
       "artists": [
         {
-          "name": "Pedro Pastor",
-          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
-        },
-        {
-          "name": "Los Locos Descalzos",
-          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
-        },
-        {
-          "name": "Perot\u00e1 Ching\u00f3",
-          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
         }
       ],
-      "duration_ms": 210440,
-      "name": "El Baile",
-      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
+      "duration_ms": 228413,
+      "name": "Desde Que Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -1107,6 +1083,30 @@
       "duration_ms": 187146,
       "name": "Fina Estampa",
       "url": "https://open.spotify.com/track/7COfZjseddNFUpZcONru4M"
+    },
+    {
+      "added_at": "2025-01-09 16:18:10",
+      "album": {
+        "name": "Vulnerables",
+        "url": "https://open.spotify.com/album/7sJGGvXAGPGDjqzgzjlDIl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Pastor",
+          "url": "https://open.spotify.com/artist/12L0n6FPcTKBtKvWcFEbmP"
+        },
+        {
+          "name": "Los Locos Descalzos",
+          "url": "https://open.spotify.com/artist/2EPApWYEyXYCw5YbtADEWS"
+        },
+        {
+          "name": "Perot\u00e1 Ching\u00f3",
+          "url": "https://open.spotify.com/artist/5cMTiWeaWidGI8hVoZY8Ox"
+        }
+      ],
+      "duration_ms": 210440,
+      "name": "El Baile",
+      "url": "https://open.spotify.com/track/6ABaTYAx9k8d0v9NSZ9uYS"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -1175,6 +1175,22 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
+        "name": "Apuntes Sobre Mi Paso por el Invierno",
+        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
+      },
+      "artists": [
+        {
+          "name": "Marw\u00e1n",
+          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
+        }
+      ],
+      "duration_ms": 241937,
+      "name": "Un D\u00eda de Estos",
+      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
+    },
+    {
+      "added_at": "2025-01-09 16:18:10",
+      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1191,22 +1207,6 @@
       "duration_ms": 217373,
       "name": "Sinmigo",
       "url": "https://open.spotify.com/track/4GjjFFJpivq5otRgAfUGqw"
-    },
-    {
-      "added_at": "2025-01-09 16:18:10",
-      "album": {
-        "name": "Apuntes Sobre Mi Paso por el Invierno",
-        "url": "https://open.spotify.com/album/1bRyXcN5qtq5aGf0GBss1b"
-      },
-      "artists": [
-        {
-          "name": "Marw\u00e1n",
-          "url": "https://open.spotify.com/artist/6mR7YwqzUTv6hnbySnXIEO"
-        }
-      ],
-      "duration_ms": 241937,
-      "name": "Un D\u00eda de Estos",
-      "url": "https://open.spotify.com/track/0eRrshPPfWfo1sbzdsGQLq"
     },
     {
       "added_at": "2025-01-09 16:18:10",
@@ -1707,18 +1707,18 @@
     {
       "added_at": "2025-01-09 16:18:10",
       "album": {
-        "name": "El \u00c1rbol y el Bosque",
-        "url": "https://open.spotify.com/album/2wSVggNrCf1q8TidXuKTpT"
+        "name": "La Mas Completa Coleccion",
+        "url": "https://open.spotify.com/album/6ie8SesJgc1UflnOl42NHB"
       },
       "artists": [
         {
-          "name": "Rozal\u00e9n",
-          "url": "https://open.spotify.com/artist/5soMpG6E6oApEiCZgrWeVz"
+          "name": "Pablo Milan\u00e9s",
+          "url": "https://open.spotify.com/artist/4vOfKh5wz7lTcdqB3EwsC5"
         }
       ],
-      "duration_ms": 196547,
-      "name": "A Tu Vida",
-      "url": "https://open.spotify.com/track/7mxEr34kxxQKGbcVuJN8fH"
+      "duration_ms": 274906,
+      "name": "El Amor De Mi Vida",
+      "url": "https://open.spotify.com/track/6Byf7nRNKYLuqXsWf80ahI"
     },
     {
       "added_at": "2025-01-09 16:18:10",

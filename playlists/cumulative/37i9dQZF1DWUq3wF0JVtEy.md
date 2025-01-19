@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:edm\_dance">Shuffle</a> your heart out.
 
-498 songs - 1 day 0 hr 18 min
+499 songs - 1 day 0 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,6 +30,7 @@
 | [Apocalyptic](https://open.spotify.com/track/3E5Go2swucT0A6NmqOEChM) | [3LAU](https://open.spotify.com/artist/4YLQaW1UU3mrVetC8gNkg5) | [Apocalyptic](https://open.spotify.com/album/6QupCtenijUBkVdEJx7dar) | 3:24 | 2021-10-29 | 2022-06-11 |
 | [Are You Feeling This?](https://open.spotify.com/track/4dd5zWyjZqBbXaQ0TMeBCb) | [Shiba San](https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc) | [Are You Feeling This? / Stay Focused](https://open.spotify.com/album/0UXIfC3eMOrEJrDqz7fkpK) | 2:46 | 2023-11-17 | 2024-01-27 |
 | [Around You](https://open.spotify.com/track/5EGieT4siO2pu39978xZK5) | [Bougenvilla](https://open.spotify.com/artist/1I5pYXplsbqmHaVWlAEhla), [East Dawn](https://open.spotify.com/artist/5d1toYNLtZklQSSoh985P4) | [Around You](https://open.spotify.com/album/6kHveSyKGbIT7m6NJ2l1zA) | 2:18 | 2022-05-27 | 2022-06-01 |
+| [Arsonist](https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Arsonist](https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln) | 2:15 | 2025-01-17 |  |
 | [Aspirin](https://open.spotify.com/track/0bsdo8CM58RrF4aXg9vZBs) | [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Aspirin](https://open.spotify.com/album/3qxIR5WOrNlTio5OZ0Mhg5) | 3:10 | 2023-06-09 | 2023-10-25 |
 | [Back To Me](https://open.spotify.com/track/1MFmiir89nKDrfw8AjeNKu) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ALRT](https://open.spotify.com/artist/4XH5qVwKcWRS0Z6tr85exf) | [Back To Me](https://open.spotify.com/album/7rviCBw7v6m8Rf5LfirNnQ) | 2:46 | 2022-02-11 | 2022-07-13 |
 | [Backseat](https://open.spotify.com/track/7nMNn3PJJMjhipGwFedAm3) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 2:49 | 2023-01-06 | 2023-04-16 |
@@ -234,7 +235,7 @@
 | [Inside Out](https://open.spotify.com/track/2CwHctWzU9Woi5C5ZC5m38) | [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS), [Angemi](https://open.spotify.com/artist/3q5DAsSH8efMqNxjxbdpGx), [Laura White](https://open.spotify.com/artist/4eWvHAcWh3Hq6DYJ9K3mD4) | [Inside Out](https://open.spotify.com/album/31uJRIZULUZVh9xEz1bgBH) | 2:40 | 2022-04-01 | 2023-06-10 |
 | [Insomnia](https://open.spotify.com/track/5czwOsSExLRO25zcnaJuRr) | [Marc Kiss](https://open.spotify.com/artist/4o5VpOIpQtpayG0gbDaNzO), [ThomTree](https://open.spotify.com/artist/5AzHtrPXDhfNECgcGOjQse), [Crystal Rock](https://open.spotify.com/artist/7eehGkMnqCS6Hp7HJIXH9e) | [Insomnia](https://open.spotify.com/album/4kfORdPZiXbOTGFBceUrf9) | 2:36 | 2022-11-29 |  |
 | [IQ Doesn't Matter](https://open.spotify.com/track/1hvAkRZP9V3tGipGa5TWvc) | [Lika Morgan](https://open.spotify.com/artist/61StZOWgYff2AxDUejw4UI) | [IQ Doesn't Matter](https://open.spotify.com/album/47Mks62R6OaDfQWPt55fbp) | 2:27 | 2021-10-29 | 2022-03-21 |
-| [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-07-12 |  |
+| [it boy](https://open.spotify.com/track/2UerDbZznc07mmGMD3WfHH) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [it boy](https://open.spotify.com/album/6tl4X5mM1eOnkWr7oB5LAM) | 2:25 | 2024-07-12 | 2025-01-19 |
 | [It Doesn't Matter](https://open.spotify.com/track/5I9JYEaXmKsrHlXsnvNYjd) | [SMACK](https://open.spotify.com/artist/5uJw4WCX5nYj4FHky9r1Ug), [DJs From Mars](https://open.spotify.com/artist/1pmwwNA38kkkJwEMWe8hLD) | [It Doesn't Matter](https://open.spotify.com/album/60pKd4GWa9RYzVRspilfHg) | 2:24 | 2023-03-03 | 2023-04-04 |
 | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/track/1rI9fFHBnxcVT0FUKfrGOA) | [Henry Fong](https://open.spotify.com/artist/3nALc9PyUfe6CO3EY9bNhH), [ANG](https://open.spotify.com/artist/3iGTIdf1fn9YmiiZiODGTl), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [I’m A Freak \(feat\. Kazhi\)](https://open.spotify.com/album/2XPjCyxirQKCpW3d52WmUs) | 2:36 | 2024-01-26 | 2024-02-22 |
 | [Joi](https://open.spotify.com/track/3olgZmF1O7MHpv76iHmDDf) | [Funkin Matt](https://open.spotify.com/artist/11chB4Th19iMA7j65oGMk1) | [Joi](https://open.spotify.com/album/5EBb7SSkPgxO9Lmt8NjAPT) | 3:36 | 2021-10-29 | 2022-12-17 |

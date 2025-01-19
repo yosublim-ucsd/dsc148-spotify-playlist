@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,962 songs - 4 day 8 hr 14 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,964 songs - 4 day 8 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1970,5 +1970,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1960 | [Numa numa \- Radio Edit](https://open.spotify.com/track/1qP0CfnNQ1zuiO7IBZw4BX) | [K\-Style](https://open.spotify.com/artist/0O3T7774twOW0Wv1asJvp9), [Charmendo](https://open.spotify.com/artist/4JS2lTQZgzfanDQj7Yfrkq) | [Numa numa \(Radio Edit\)](https://open.spotify.com/album/2fiIsXOTyNCm60CxDUbCHs) | 2:24 |
 | 1961 | [Right Here Waiting](https://open.spotify.com/track/0twtzKazK0nffXzGBsI01e) | [Inquisitive](https://open.spotify.com/artist/6K4XQXfV7Gill2ULeRu6fw) | [Right Here Waiting](https://open.spotify.com/album/0eKYyBLHCxJklKCwqivRMa) | 3:41 |
 | 1962 | [Flame](https://open.spotify.com/track/3ZT3IIRQ2Som8OdxYiR33X) | [KLIO](https://open.spotify.com/artist/7IGMJ3A8I6Sa2GlJ8qprcz), [DJ Satomi](https://open.spotify.com/artist/7MlcYSTwlLeOtBMDJ6WOv5) | [Flame](https://open.spotify.com/album/627TUnbvckfQbMh4rLZL56) | 2:35 |
+| 1963 | [Afraid Of The Dark](https://open.spotify.com/track/3wyBgywTIZttDWITW0ayVF) | [Irradiate](https://open.spotify.com/artist/3iVpZjQNb6mpiV5KY2xY9I) | [Afraid Of The Dark](https://open.spotify.com/album/0wBFt7nMeVqcSS4J8UvlZr) | 2:05 |
+| 1964 | [Damage Patrol](https://open.spotify.com/track/5Pqv59wygKSWblt45CJlwB) | [Mutilator](https://open.spotify.com/artist/3AkGIMk9xwDj4A5ttNBPiN), [Imperatorz](https://open.spotify.com/artist/7eS0sxPiRLeafMwpgLJml1) | [Damage Patrol](https://open.spotify.com/album/2d6kJHTjU2EyJGV6Gnb0vK) | 2:16 |
 
-Snapshot ID: `AAAH4mjLUhxG/9jAQYsnxeVlclxgXMOa`
+Snapshot ID: `AAAH5EA+Y84z/VBGqqtu4f1Z525TaRBd`

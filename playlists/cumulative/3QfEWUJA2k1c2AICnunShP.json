@@ -1279,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "Jour de pluie",
+        "url": "https://open.spotify.com/album/1t7ABB34r85Iwj4mCd7Phr"
+      },
+      "artists": [
+        {
+          "name": "Braths",
+          "url": "https://open.spotify.com/artist/1v2CQluRj2ywORRhdk3sQd"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186420,
+      "name": "Jour de pluie",
+      "url": "https://open.spotify.com/track/2v0aDkCi99KBt8NACXBv0P"
+    },
+    {
+      "album": {
         "name": "Vivaldi: The Four Seasons",
         "url": "https://open.spotify.com/album/4oA9NonjesroQ0m5KNUY2N"
       },

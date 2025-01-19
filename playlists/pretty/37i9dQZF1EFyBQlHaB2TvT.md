@@ -21,11 +21,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyBQlHaB2TvT.md) - [plain]
 | 11 | [MY EX](https://open.spotify.com/track/5Yfy4sbXzwFRe4gxrV2TAS) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [DIE FOR MY BITCH](https://open.spotify.com/album/7Cw4LObzgnVqSlkuIyywtI) | 2:33 |
 | 12 | [patience interlude](https://open.spotify.com/track/24xpL4l70GDGIVFIxLbW8s) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 2:21 |
 | 13 | [the giver](https://open.spotify.com/track/77hsj8fxAQlPMgjpQxT9Ln) | [MAVI](https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ) | [shadowbox](https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ) | 2:20 |
-| 14 | [Pit stop](https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/4QFU1zIY53hxuX85LyGi4B) | 4:02 |
-| 15 | [ALLOCATE](https://open.spotify.com/track/7njFMXMSIiLFzPH3jguEgt) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [YEAH YEAH!](https://open.spotify.com/album/2bvmhK8LbNwtpnxmAow0vW) | 1:57 |
-| 16 | [CRAZY H\*ES](https://open.spotify.com/track/23p0ZzA6n7gebamzKQPApg) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [CRAZY H\*ES](https://open.spotify.com/album/2rHdtqnw7ljpy9lLiVX6Hl) | 2:18 |
+| 14 | [CRAZY H\*ES](https://open.spotify.com/track/23p0ZzA6n7gebamzKQPApg) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [CRAZY H\*ES](https://open.spotify.com/album/2rHdtqnw7ljpy9lLiVX6Hl) | 2:18 |
+| 15 | [Pit stop](https://open.spotify.com/track/7xRzl8bqp2M7W9niFua0h3) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [Good News](https://open.spotify.com/album/4QFU1zIY53hxuX85LyGi4B) | 4:02 |
+| 16 | [ALLOCATE](https://open.spotify.com/track/7njFMXMSIiLFzPH3jguEgt) | [Eem Triplin](https://open.spotify.com/artist/5kxnZh8gXyXdIvCWbDMevT) | [YEAH YEAH!](https://open.spotify.com/album/2bvmhK8LbNwtpnxmAow0vW) | 1:57 |
 | 17 | [Forgiving Myself](https://open.spotify.com/track/2lguBq1ku75GPVdRiTOD1y) | [Sekou](https://open.spotify.com/artist/1mYgKcXdbklH5RwjU6XA8c) | [Forgiving Myself](https://open.spotify.com/album/0T708QHQH4KXAWbWq0maCj) | 2:55 |
 | 18 | [The Love Intro](https://open.spotify.com/track/3hjCUYBBJUCB9nyBNRIVj8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:38 |
 | 19 | [Wave Watching Interlude](https://open.spotify.com/track/6w5n41T13eattfdxrqVPs8) | [Tanna Leone](https://open.spotify.com/artist/1bPYCoigTRLOQwNfjpwmff) | [Sleepy Soldier](https://open.spotify.com/album/5DsTYhB4bzvBvMSHAu1yiM) | 1:24 |
 
-Snapshot ID: `AbnI9AAAAAChuQzn5tXtBOv+v5FxjQNE`
+Snapshot ID: `AbnOigAAAAAfp4haSvGY5pHBOgggqdfP`

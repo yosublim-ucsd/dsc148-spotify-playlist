@@ -1,6 +1,6 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: Jessica Pratt",
-  "num_followers": 153137,
+  "num_followers": 153134,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
@@ -207,6 +207,22 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
+        "name": "Thirties",
+        "url": "https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ"
+      },
+      "artists": [
+        {
+          "name": "Jill Andrews",
+          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
+        }
+      ],
+      "duration_ms": 192160,
+      "name": "Sorry Now",
+      "url": "https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
         "name": "Notes from the Archive: Recordings 2011-2016",
         "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
       },
@@ -223,22 +239,6 @@
       "duration_ms": 382613,
       "name": "New Song",
       "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
-        "name": "Thirties",
-        "url": "https://open.spotify.com/album/4ITAxjdVfgevnS8SA4liGZ"
-      },
-      "artists": [
-        {
-          "name": "Jill Andrews",
-          "url": "https://open.spotify.com/artist/35VpsbV6V2NdfTeNZEbKfc"
-        }
-      ],
-      "duration_ms": 192160,
-      "name": "Sorry Now",
-      "url": "https://open.spotify.com/track/2I0t9apRfrVbkxr8Fym2yf"
     },
     {
       "added_at": "2024-08-23 14:16:37",
@@ -607,26 +607,6 @@
     {
       "added_at": "2024-08-23 14:16:37",
       "album": {
-        "name": "Crooked Tree",
-        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
-      },
-      "artists": [
-        {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
-        }
-      ],
-      "duration_ms": 232827,
-      "name": "Crooked Tree",
-      "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
-    },
-    {
-      "added_at": "2024-08-23 14:16:37",
-      "album": {
         "name": "The Baby",
         "url": "https://open.spotify.com/album/7faAwJDTt9Y8kVAcSHy9Y6"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 223628,
       "name": "Keeping The Light On",
       "url": "https://open.spotify.com/track/1Uacdg0eFpE2bpjS90feZQ"
+    },
+    {
+      "added_at": "2024-08-23 14:16:37",
+      "album": {
+        "name": "Crooked Tree",
+        "url": "https://open.spotify.com/album/1lIZUzexPXR4Q7exPmNqCc"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 232827,
+      "name": "Crooked Tree",
+      "url": "https://open.spotify.com/track/1NlwiyN4GGn3gVgyZ8T5AW"
     },
     {
       "added_at": "2024-08-23 14:16:37",

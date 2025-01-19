@@ -1872,7 +1872,7 @@
       ],
       "date_added": "2022-09-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 237832,
       "name": "Basrah w Atooh",
       "url": "https://open.spotify.com/track/4vIbws1xp082bv0zl8vLaJ"
@@ -6382,7 +6382,7 @@
       ],
       "date_added": "2023-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 196650,
       "name": "Khaleny Fe Hodnak",
       "url": "https://open.spotify.com/track/6yVGUtmHwDsqqXs1Lak423"
@@ -6940,7 +6940,7 @@
       ],
       "date_added": "2024-06-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 218833,
       "name": "LAYALINA",
       "url": "https://open.spotify.com/track/1yiJHrunZu2fov7OhC7vM9"
@@ -7660,7 +7660,7 @@
       ],
       "date_added": "2024-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 227053,
       "name": "Mahzouz",
       "url": "https://open.spotify.com/track/2fNGw4weCNtNiP58znlTve"
@@ -7686,6 +7686,24 @@
       "duration_ms": 170501,
       "name": "Major Distribution",
       "url": "https://open.spotify.com/track/46s57QULU02Voy0Kup6UEb"
+    },
+    {
+      "album": {
+        "name": "Yaah",
+        "url": "https://open.spotify.com/album/4ovMza1WebamIyWDRupshi"
+      },
+      "artists": [
+        {
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212112,
+      "name": "Makrehtosh",
+      "url": "https://open.spotify.com/track/01O9Ijz8tcyllso5VJ6w75"
     },
     {
       "album": {
@@ -18664,7 +18682,7 @@
       ],
       "date_added": "2023-02-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 216356,
       "name": "\u064a\u0645\u0643\u0646 \u062e\u064a\u0631",
       "url": "https://open.spotify.com/track/4Guq7XrO1FjduwFBsVbr0E"

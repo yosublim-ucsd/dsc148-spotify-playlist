@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Tutku
 
-181 songs - 8 hr 51 min
+182 songs - 8 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,7 +78,7 @@
 | [Gücüm Yok](https://open.spotify.com/track/0yXU2mHp4li95DiqWX2K9X) | [Melis Karaduman](https://open.spotify.com/artist/0aM5REcXSL40rNGsyCSxNG) | [Gücüm Yok](https://open.spotify.com/album/1ywWSw85x5lEAPb8mi49HM) | 2:48 | 2024-10-10 | 2024-12-20 |
 | [Gün Batarken](https://open.spotify.com/track/0vEbYeEU4jLKM0OFkLXKi1) | [Ayberk Serin](https://open.spotify.com/artist/1Q8rbtdvSoGQj33lP2HcJF) | [Gün Batarken](https://open.spotify.com/album/7ztxgxUW6llbRujo4udfEF) | 2:53 | 2024-10-10 |  |
 | [Günebakan](https://open.spotify.com/track/0kve63qUZXfXLRTOm6H3YI) | [Selin Çıngır](https://open.spotify.com/artist/05DklNAEcs3u54uuYOcR2S) | [Günebakan](https://open.spotify.com/album/6FspaOaszVqDuYgkRtjiAw) | 3:14 | 2024-06-20 |  |
-| [Güzel Olmaz Mı?](https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Güzel Olmaz Mı?](https://open.spotify.com/album/2HVpwKFTAkn2fSCfS2biRi) | 2:56 | 2024-08-29 |  |
+| [Güzel Olmaz Mı?](https://open.spotify.com/track/4aiPmZeZmXgDGaFzm51PNW) | [Kaset](https://open.spotify.com/artist/3D272RoVaG7oXSBIOgqgnJ) | [Güzel Olmaz Mı?](https://open.spotify.com/album/2HVpwKFTAkn2fSCfS2biRi) | 2:56 | 2024-08-29 | 2025-01-19 |
 | [Hala Aklımda](https://open.spotify.com/track/6EgzIwY7XSH9C3K7Ahzxu8) | [Meriç İzgi](https://open.spotify.com/artist/06BMyGi6T6nmrRqp9P4B6H) | [Hala Aklımda](https://open.spotify.com/album/3l5p9eyMeyJJcbbmbVQwjA) | 2:45 | 2024-11-21 |  |
 | [Hala Niye Burdayım](https://open.spotify.com/track/4nEb2EscWMff2wh3l0yK6e) | [Işıl Ayman](https://open.spotify.com/artist/5q6bMEU5EbDAOrTFUvOsC0) | [Hala Niye Burdayım](https://open.spotify.com/album/2LYJQQSdhdoVBrx9rScLTS) | 2:38 | 2024-06-20 |  |
 | [Hani Yine Yoksan](https://open.spotify.com/track/1pVKwy1xgTv99BoA0OobY6) | [Naz](https://open.spotify.com/artist/64iFKhLP2ou8VZAxiawTcw) | [Hani Yine Yoksan](https://open.spotify.com/album/4x2w2oYIjliuVD0evvth63) | 3:43 | 2024-09-05 | 2024-09-28 |
@@ -170,6 +170,7 @@
 | [Yine Sev Diyemem](https://open.spotify.com/track/027QueXikc6hen5DyuOhw2) | [Kirli](https://open.spotify.com/artist/1xphUgdrqKwGdIpcLVH7ho) | [Yine Sev Diyemem](https://open.spotify.com/album/4iJ9li7MMjbzaueRIpmAgh) | 2:57 | 2024-09-05 | 2024-09-28 |
 | [Yok](https://open.spotify.com/track/5Cq5zptacxHIUzkGbYpU1D) | [Karambol](https://open.spotify.com/artist/27FDgyQe3lWYySeW2AyJy3) | [Yok](https://open.spotify.com/album/6QwUoVji4yP7SB3tUgLyO3) | 3:15 | 2024-06-20 | 2024-09-06 |
 | [Yok O Bana Kalsın](https://open.spotify.com/track/2MM6VJGmdpTPBbIAveWScz) | [Mert Tunçmakas](https://open.spotify.com/artist/1OYIIzg7yzOwPicLYnmrBS) | [Yok O Bana Kalsın](https://open.spotify.com/album/1eYVsKfLgM34xn5M2H5J6O) | 3:17 | 2024-11-14 |  |
+| [Yok Yok](https://open.spotify.com/track/68jMTjLKJy7PzYReGJ3bCw) | [Şatellites](https://open.spotify.com/artist/5i2aeGMxTOr8ox7IIqJoxi) | [Yok Yok](https://open.spotify.com/album/3QeBIMpH51fL7RTp4hVAS4) | 4:17 | 2025-01-16 |  |
 | [Yok Çarem](https://open.spotify.com/track/24xDhoPk7y5oqeAszaz8d0) | [Melis Aydın](https://open.spotify.com/artist/6bO5A4UYdnsR3kpmzLsci6) | [Yok Çarem](https://open.spotify.com/album/2KYzsYYCXhf5rOwAWlvFxc) | 3:21 | 2024-06-20 | 2024-08-06 |
 | [Yokluğunun Derdi](https://open.spotify.com/track/44ZDaAnptNUdAvZpOZM46Y) | [Tolga Ayaz](https://open.spotify.com/artist/7G2ZpX14n32mQ9k61IdLmY) | [Yokluğunun Derdi](https://open.spotify.com/album/21YPQ6dih6e33kajrqoNW1) | 3:34 | 2024-11-14 |  |
 | [Yoksa](https://open.spotify.com/track/2OxerxQt4Mj2Hx7VRHH695) | [Bostancı Dayı](https://open.spotify.com/artist/49R24Ako5Qa6SV3HAR06gS) | [Yoksa](https://open.spotify.com/album/7KKvr4LKTp2jRSKcxdSjX6) | 3:22 | 2024-10-03 | 2024-12-05 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Mar de Copas. The essential tracks, all in one playlist.",
-  "num_followers": 8172,
+  "num_followers": 8173,
   "original_name": "This Is Mar de Copas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADmDPnuEiOdRMPT6r3ieF7m",
+  "snapshot_id": "Z4mdgAAAAAB92YHIHz6VP8bQyUc6hKm5",
   "tracks": [
     {
       "added_at": null,
@@ -187,8 +187,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar de Copas",
-        "url": "https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ"
+        "name": "Lado B",
+        "url": "https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t"
       },
       "artists": [
         {
@@ -196,9 +196,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 227933,
-      "name": "Dulce y Veloz",
-      "url": "https://open.spotify.com/track/75FSoDobii3528jGAMVCd0"
+      "duration_ms": 181213,
+      "name": "No Me Imagino",
+      "url": "https://open.spotify.com/track/4RtuS9cCFMytWPPhVnmZOe"
     },
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lado B",
-        "url": "https://open.spotify.com/album/6lAwgVT7xFEeZazlF95q2t"
+        "name": "Mar de Copas",
+        "url": "https://open.spotify.com/album/08mPDAxP3cAeqUga7266QQ"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 181213,
-      "name": "No Me Imagino",
-      "url": "https://open.spotify.com/track/4RtuS9cCFMytWPPhVnmZOe"
+      "duration_ms": 227933,
+      "name": "Dulce y Veloz",
+      "url": "https://open.spotify.com/track/75FSoDobii3528jGAMVCd0"
     },
     {
       "added_at": null,
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 347733,
-      "name": "Lo Que Tu Gesto Da",
-      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
+      "duration_ms": 273120,
+      "name": "El Rumbo del Mar",
+      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "III",
-        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
-      },
-      "artists": [
-        {
-          "name": "Mar de Copas",
-          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
-        }
-      ],
-      "duration_ms": 291320,
-      "name": "Cuenta la Historia",
-      "url": "https://open.spotify.com/track/0UEHcAD6CutZxkZXhVbVyk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/4Hqwb17imLElcwhbbjQJX4"
       },
@@ -715,6 +699,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "III",
+        "url": "https://open.spotify.com/album/4rBvKNO0rcUjv8ItVyA4dG"
+      },
+      "artists": [
+        {
+          "name": "Mar de Copas",
+          "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
+        }
+      ],
+      "duration_ms": 291320,
+      "name": "Cuenta la Historia",
+      "url": "https://open.spotify.com/track/0UEHcAD6CutZxkZXhVbVyk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Suna",
         "url": "https://open.spotify.com/album/2dbtl75dnHdb0weSIvhrtI"
       },
@@ -724,9 +724,9 @@
           "url": "https://open.spotify.com/artist/01CPQQGyqdgTqtyLxPrPur"
         }
       ],
-      "duration_ms": 273120,
-      "name": "El Rumbo del Mar",
-      "url": "https://open.spotify.com/track/3DJ3U63ZMcyDto3nT4yLTO"
+      "duration_ms": 347733,
+      "name": "Lo Que Tu Gesto Da",
+      "url": "https://open.spotify.com/track/5AgU65tzExyFTeO4hJ9knw"
     },
     {
       "added_at": null,

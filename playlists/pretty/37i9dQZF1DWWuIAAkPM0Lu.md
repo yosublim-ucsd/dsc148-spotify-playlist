@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🚨<a href="spotify:artist:5H4yInM5zmHqpKIoMNAx4r">Central Cee</a> /  <a href="spotify:artist:1URnnhqYAYcrqrcwql10ft">21 Savage</a>🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,185 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,191 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 2 | [Bare Vent \(feat\. Artigeardit\)](https://open.spotify.com/track/5TC4trc7XgCCkycbTSTqV2) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Artigeardit](https://open.spotify.com/artist/6a3WaWgxrVmNIvaiTCI0Kk) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 2:21 |
 | 3 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
 | 4 | [Småting \(feat\. Lamin & Kundo\)](https://open.spotify.com/track/2ZwOtQXG5k1M7gHmTmTMgw) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:04 |
-| 5 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw), [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 |
+| 5 | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/track/0x6muMyvn26GPjGu5fP6ju) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW), [ELOQ](https://open.spotify.com/artist/36mHwYa65L0WZbAXY2iSGw) | [If Eyes Could Kill \(BBYBITES x ELOQ\)](https://open.spotify.com/album/26VlSymjHZe3tv6Lp6ymxT) | 2:10 |
 | 6 | [UPPERCLA$$](https://open.spotify.com/track/2CUPM4Wh4ikPogZy40Vvav) | [Magzim](https://open.spotify.com/artist/4tnPeloLvmhM0H3gY7aqnn) | [UPPERCLA$$](https://open.spotify.com/album/7vbC3MlULMbqJeYah2xMhH) | 2:57 |
 | 7 | [HEY BOUNCER!](https://open.spotify.com/track/41HlTcsGxkcfUmjGD55MNw) | [Ericka Jane](https://open.spotify.com/artist/1L4HGLMFRrJsAnug5M7slL) | [HEY BOUNCER!](https://open.spotify.com/album/27I77pnmANAUNOxpXuGdCF) | 2:34 |
 | 8 | [Stime \(feat\. KESI\)](https://open.spotify.com/track/5rBJLnaIpZ2NJQTWmjJNYO) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Månen Er Min Ven](https://open.spotify.com/album/16EjNHcMJ402k7OhdoFxqS) | 3:29 |

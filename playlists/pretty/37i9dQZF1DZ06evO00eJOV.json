@@ -1,12 +1,12 @@
 {
   "description": "This is Brenda Fassie. The essential tracks, all in one playlist.",
-  "num_followers": 36212,
+  "num_followers": 36214,
   "original_name": "This Is Brenda Fassie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAABk7oZx1E5nu15IzHoYqDPv",
+  "snapshot_id": "Z4mdgAAAAADOEhCeKiHnuJhDQP0lGvBC",
   "tracks": [
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 288213,
-      "name": "Wewe (African Wedding)",
-      "url": "https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw"
+      "duration_ms": 229240,
+      "name": "Vuma",
+      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
     },
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gimme Some Volume",
-        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 301986,
-      "name": "Matshidiso",
-      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amadlozi",
         "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
       },
@@ -411,6 +395,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gimme Some Volume",
+        "url": "https://open.spotify.com/album/0mZUadtsJA1ax3WHtX8oAO"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 301986,
+      "name": "Matshidiso",
+      "url": "https://open.spotify.com/track/3rcrsKkRXu7EnVHLCdrUGF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Mina Nawe",
         "url": "https://open.spotify.com/album/2bghemSyO0h96j7YDSjpV0"
       },
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 229240,
-      "name": "Vuma",
-      "url": "https://open.spotify.com/track/6mWsjfFrRkdIr03LBN0Zpa"
+      "duration_ms": 288213,
+      "name": "Wewe (African Wedding)",
+      "url": "https://open.spotify.com/track/26vfNVp3EkjxMZv9ix1vXw"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
+        "name": "Nomakanjani",
+        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 208706,
-      "name": "Ama-Gents",
-      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
+      "duration_ms": 307333,
+      "name": "Jiva",
+      "url": "https://open.spotify.com/track/0mJXMCZ4p6bPVpsjj0zTGe"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nomakanjani",
-        "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 307333,
-      "name": "Jiva",
-      "url": "https://open.spotify.com/track/0mJXMCZ4p6bPVpsjj0zTGe"
+      "duration_ms": 208706,
+      "name": "Ama-Gents",
+      "url": "https://open.spotify.com/track/4cSfKyG7CwbggcJwOrF0mj"
     },
     {
       "added_at": null,
@@ -603,22 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Greatest Hits 1964-2004",
-        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "Zola Budd",
-      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Refe Matla",
         "url": "https://open.spotify.com/album/3GaxO1raa0cySNEF0ZnCC8"
       },
@@ -639,26 +623,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soon And Very Soon",
-        "url": "https://open.spotify.com/album/6lCOAL1VyOJF5pcCDwKRxs"
+        "name": "Greatest Hits 1964-2004",
+        "url": "https://open.spotify.com/album/7nPJeqaecmuCa9fau1OHQ0"
       },
       "artists": [
-        {
-          "name": "Children Of God",
-          "url": "https://open.spotify.com/artist/7M649YaEUgAnKaIW48vbcZ"
-        },
-        {
-          "name": "Chicco",
-          "url": "https://open.spotify.com/artist/0k8qF9yLQtIcgozNjrIk7f"
-        },
         {
           "name": "Brenda Fassie",
           "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
         }
       ],
-      "duration_ms": 328133,
-      "name": "Living Waters (Let The)",
-      "url": "https://open.spotify.com/track/2yzLvXmkMJkVSRF3pekfoJ"
+      "duration_ms": 240640,
+      "name": "Zola Budd",
+      "url": "https://open.spotify.com/track/2YAaOJ86NNPFq70QrMNc4g"
     },
     {
       "added_at": null,
@@ -683,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amadlozi",
-        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
-      },
-      "artists": [
-        {
-          "name": "Brenda Fassie",
-          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
-        }
-      ],
-      "duration_ms": 244333,
-      "name": "Ngizobuya",
-      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Nomakanjani",
         "url": "https://open.spotify.com/album/5ahFIyiKJP6a1JlNCZ4fzM"
       },
@@ -711,6 +671,22 @@
       "duration_ms": 275960,
       "name": "Soon And Very Soon - 99 Remix",
       "url": "https://open.spotify.com/track/03ms4BB4zAfsAn9wGp4UeG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Amadlozi",
+        "url": "https://open.spotify.com/album/36kOxKTiTXKPhCviqniiNw"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 244333,
+      "name": "Ngizobuya",
+      "url": "https://open.spotify.com/track/7lT8T11ouPtzJ9kQD2ohqC"
     },
     {
       "added_at": null,
@@ -855,6 +831,22 @@
       "duration_ms": 236560,
       "name": "Only Jesus",
       "url": "https://open.spotify.com/track/1uqXE6k9BlpdWHBnnoxiSg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Am Not A Bad Girl",
+        "url": "https://open.spotify.com/album/0vIuUSqlsrRd0n1WTkU51Y"
+      },
+      "artists": [
+        {
+          "name": "Brenda Fassie",
+          "url": "https://open.spotify.com/artist/07Pw9XQo0hIwtKRrBwo0Rl"
+        }
+      ],
+      "duration_ms": 288626,
+      "name": "Romantic World",
+      "url": "https://open.spotify.com/track/6pOOXngC299Z7wOPU4kDWQ"
     }
   ],
   "unique_name": "This Is Brenda Fassie",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Jeden Freitag gibt's hier die besten Neuerscheinungen der Woche in einer Playlist\. Cover: Apache 207, Luciano
 
-[Spotify](https://open.spotify.com/user/spotify) - 832,130 likes - 81 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 832,194 likes - 81 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 48 | [Talking To Strangers](https://open.spotify.com/track/4e1EFgbXKAo787T4xb2oRB) | [JP Cooper](https://open.spotify.com/artist/4kYGAK2zu9EAomwj3hXkXy) | [Talking To Strangers](https://open.spotify.com/album/1ID9AIx4yujHUPFI5GvOQV) | 3:31 |
 | 49 | [Unbelievable](https://open.spotify.com/track/0S85m8J9rdjI0jwOLiFGOP) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Ada](https://open.spotify.com/artist/1SUz2JjWDXSVyAtWokVinQ) | [Unbelievable](https://open.spotify.com/album/1zINq33LASwPgNKVnbIxrq) | 4:31 |
 | 50 | [Never Get To Heaven](https://open.spotify.com/track/3bC6XRGBeGNgyk1n4t7nPd) | [L'aupaire](https://open.spotify.com/artist/6d9XIbBseVi999qdzDEtwE) | [Never Get To Heaven](https://open.spotify.com/album/1AMzTwrvPJ76Iuf9EDcbRz) | 2:34 |
-| 51 | [Leider not](https://open.spotify.com/track/3QMhTLKTPWqzxaLSwd8sol) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [Leider not](https://open.spotify.com/album/7DmtU2krsryUNCzD7VlAHM) | 2:26 |
+| 51 | [leider not](https://open.spotify.com/track/3QMhTLKTPWqzxaLSwd8sol) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [leider not](https://open.spotify.com/album/7DmtU2krsryUNCzD7VlAHM) | 2:26 |
 | 52 | [Bleib am Leben](https://open.spotify.com/track/3SUUrWqc5DLa27L0Nfv1So) | [Tocotronic](https://open.spotify.com/artist/4WOaecAM3RMMmrbZzNx0vu) | [Bleib am Leben](https://open.spotify.com/album/1h0P2VhjIctsAL7YiWzB7w) | 3:52 |
 | 53 | [BAYAMÓN](https://open.spotify.com/track/2zF0lBxzjQFYs0jN13D5f0) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [ATM Yamil](https://open.spotify.com/artist/3wlIk7QokyE4U8ysTLgdy5) | [BAYAMÓN](https://open.spotify.com/album/2f8y3WiwPWPeUiPQlISFMX) | 3:39 |
 | 54 | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/track/05ayHD9SFkfqhVUOUxBOyv) | [Tream](https://open.spotify.com/artist/6vNAKgK5d74N1I0zTxRPDp), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [HERZBLATT \(AUA AUA\)](https://open.spotify.com/album/0ViUN0lv5zpINiOo7gk4mt) | 2:40 |
@@ -82,7 +82,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 72 | [Hustle & Prayer](https://open.spotify.com/track/7er18shbtZK7sqTtjGTR68) | [idolinjo](https://open.spotify.com/artist/7slJ8mgbVwvyPEzQMJ5qYO), [Juh\-Dee](https://open.spotify.com/artist/2vUksNaSYwWudCDXabAwvB), [Young Mesh](https://open.spotify.com/artist/5YaK0DIsPwmvRYaadmVKys) | [Hustle & Prayer](https://open.spotify.com/album/4lqGUoGBmg5BPNP9G073Uo) | 2:55 |
 | 73 | [Weltenuntergang](https://open.spotify.com/track/5LDDM8pzwf0NRwrsBehzRk) | [Oehl](https://open.spotify.com/artist/0LLCimRswRk6Ks5oBJ4Abp), [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [Weltenuntergang](https://open.spotify.com/album/0YdqMKDanHR7uXSsBL6efq) | 3:16 |
 | 74 | [Hin & Her ⋆｡˚𖦹](https://open.spotify.com/track/4BGlo2lBqNc5F93U7CTV89) | [S1RENA](https://open.spotify.com/artist/6CvM2CYmcK06XVbI1qI4SW) | [Hin & Her ⋆｡˚𖦹](https://open.spotify.com/album/284du4tzWTmjyc7jpD9FZJ) | 2:27 |
-| 75 | [Do U Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do U Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 |
+| 75 | [Do You Love Me](https://open.spotify.com/track/3K8o02PbcMEZcBx238e1Q1) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Do You Love Me](https://open.spotify.com/album/6sOgA2ZcFdkw4wxBEYlohd) | 2:27 |
 | 76 | [Tagebuch](https://open.spotify.com/track/1VA6CJBR7AqNdEKCGIIwG7) | [Haiyti](https://open.spotify.com/artist/3NjbpG6MmFGVLXwbcPXH90) | [Tagebuch](https://open.spotify.com/album/6L4becPO2DnJAtRDRjSf6x) | 2:13 |
 | 77 | [Hundertmal Nichts \(Gold\) \(feat\. Rocko Schamoni\)](https://open.spotify.com/track/2W4OWW7pSnxJ9aFzeVWq1g) | [Christopher Annen](https://open.spotify.com/artist/2WWeCEF0kF9vHGlLlsHaRE), [Francesco Wilking](https://open.spotify.com/artist/6XlZ98sKawGp29N1VyWFqV), [Rocko Schamoni](https://open.spotify.com/artist/1Enw1OhPzkUmYl8daiaBtS) | [Hundertmal Nichts \(Gold\) \(feat\. Rocko Schamoni\)](https://open.spotify.com/album/4yT5fwdkPJTOBAtkQzKxO5) | 2:52 |
 | 78 | [Deadlines](https://open.spotify.com/track/77TznXvHi8vX42uBZMNhyH) | [Delivery](https://open.spotify.com/artist/44qDh9SR4FYA9V1yb7Amig) | [Deadlines](https://open.spotify.com/album/0Ic1Oi2gXqIEEF27HPtJdE) | 3:05 |

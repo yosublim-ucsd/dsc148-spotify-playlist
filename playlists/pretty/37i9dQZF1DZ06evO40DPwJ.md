@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,699 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,703 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 14 | [Take Me Back](https://open.spotify.com/track/4TdrHKdMJYlKDuPBenJomu) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Catch 22](https://open.spotify.com/album/768phjrQ22pDyr1oQoW0bY) | 3:34 |
 | 15 | [Fast Car](https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Fast Hits EP](https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc) | 3:45 |
 | 16 | [I Can Be](https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:45 |
-| 17 | [Dirty Picture](https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:38 |
-| 18 | [Booty Bounce \- Extended Mix](https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf) | 4:00 |
+| 17 | [Booty Bounce \- Extended Mix](https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf) | 4:00 |
+| 18 | [Dirty Picture](https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:38 |
 | 19 | [Signs](https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Signs](https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq) | 2:53 |
 | 20 | [Moving On](https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:51 |
 | 21 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 42 | [Imagine \- Big Brothers Big Sisters Charity Single](https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Imagine](https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj) | 3:00 |
 | 43 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 
-Snapshot ID: `Z4hMAAAAAAB94MucWAwjq7omsW9Rv/sY`
+Snapshot ID: `Z4mdgAAAAACGd3dFtwClieO5Pomu5wi6`

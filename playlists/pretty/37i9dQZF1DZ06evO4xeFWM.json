@@ -1,12 +1,12 @@
 {
   "description": "This is Bastille. The essential tracks, all in one playlist.",
-  "num_followers": 216376,
+  "num_followers": 216390,
   "original_name": "This Is Bastille",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAABFS0D6g9XgDkDqbBmZWoHK",
+  "snapshot_id": "Z4mdgAAAAADj7ZE4Qpq7L06Zra70KrG+",
   "tracks": [
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 204986,
-      "name": "Lethargy",
-      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
+      "duration_ms": 175880,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
         }
       ],
-      "duration_ms": 175880,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/7yrx5A6zDOsd7Bn02WvbLH"
+      "duration_ms": 204986,
+      "name": "Lethargy",
+      "url": "https://open.spotify.com/track/28mBT1l5sJrfSWn8KM3JLT"
     },
     {
       "added_at": null,

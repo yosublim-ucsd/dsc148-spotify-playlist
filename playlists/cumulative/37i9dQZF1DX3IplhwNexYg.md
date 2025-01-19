@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Spacey Jane
 
-650 songs - 1 day 12 hr 35 min
+652 songs - 1 day 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [666](https://open.spotify.com/track/7yigKUgbzfQEak6g29SVNn) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [666](https://open.spotify.com/album/1ITW9O4YiphTqc3h6xUvXh) | 2:55 | 2023-05-25 | 2023-07-15 |
 | [A Feeling](https://open.spotify.com/track/2ZutXbnInegCq7HuzlowoU) | [Another Sky](https://open.spotify.com/artist/08p5D6BYuwPqGsFuIDLNFr) | [A Feeling](https://open.spotify.com/album/1sABhF8EK5cn1ErlTOD48M) | 2:35 | 2023-06-30 | 2023-07-14 |
 | [A Psychic Wound](https://open.spotify.com/track/7DrorFVqKrul2KtTtqatEm) | [Los Campesinos!](https://open.spotify.com/artist/6FlOCziOXI157pvUREAh3E) | [A Psychic Wound](https://open.spotify.com/album/50Xdk6vtfqe5g6o3VCop3Z) | 4:01 | 2024-05-16 | 2024-07-20 |
+| [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-01-17 |  |
 | [Abandon All Hope](https://open.spotify.com/track/1nKwN2fypWq43r0OUeJ5kx) | [Ethan P\. Flynn](https://open.spotify.com/artist/1c0MTVrGbnets3DTXAEa0z) | [Abandon All Hope](https://open.spotify.com/album/4ylZeG92GetC46n8gU0o0l) | 3:46 | 2023-06-30 | 2023-07-14 |
 | [Advice](https://open.spotify.com/track/6sGKhzoyBaXJUmjd8z3NuY) | [Gabrielle Graves](https://open.spotify.com/artist/57kmu1y4MHclkEskT1iB2j) | [Advice](https://open.spotify.com/album/1aevEls5wxPs6XvvvJQ7Hg) | 4:18 | 2021-03-09 | 2022-01-17 |
 | [Afterlife](https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Afterlife](https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN) | 4:08 | 2024-12-06 |  |
@@ -36,7 +37,7 @@
 | [All Dressed Up For Nothing](https://open.spotify.com/track/2MHkWrU8EtiU6mANOCVO5t) | [Dead Pony](https://open.spotify.com/artist/3lGO6uBIzoFyU6OoGMER1B) | [War Boys \- EP](https://open.spotify.com/album/27cHXHny5VwZZndOEskS4s) | 3:46 | 2022-09-22 | 2022-11-20 |
 | [All the Noise](https://open.spotify.com/track/6Tgj4AN3ufqIeIVqxnCE1N) | [Spacey Jane](https://open.spotify.com/artist/6V70yeZQCoSR2M3fyW8qiA) | [All the Noise](https://open.spotify.com/album/1vqh5RgezLNVZwDLxTsdKc) | 2:59 | 2025-01-17 |  |
 | [Alright](https://open.spotify.com/track/1J5d0ELID0QInebg1Sl3JJ) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Alright](https://open.spotify.com/album/0gGGoMyxPz6CKGjmoWJGmv) | 2:36 | 2022-08-18 | 2023-05-14 |
-| [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2022-08-18 |  |
+| [Alright](https://open.spotify.com/track/57BvpyURy7xPYKgbPRaynf) | [Sam Fender](https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc) | [Alright](https://open.spotify.com/album/2rUWCf2wXA1PMK3NUckp2p) | 4:24 | 2022-08-18 | 2025-01-19 |
 | [Always Like This](https://open.spotify.com/track/0H6ABSnWE53gUJIdiadL6e) | [Bradley Simpson](https://open.spotify.com/artist/3zvWY9gE8cITnJz7vJeDDE) | [Always Like This](https://open.spotify.com/album/5G8PoOaWgopOQRhJlk66tq) | 2:55 | 2024-10-03 | 2024-12-12 |
 | [American Cockroach](https://open.spotify.com/track/1fhSSzhdcAuAOkl0S4saVk) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [American Cockroach](https://open.spotify.com/album/5ddhrGgCIVAFwaYBORbOdi) | 3:08 | 2021-06-21 | 2022-07-29 |
 | [American Cockroach](https://open.spotify.com/track/20lrGXYjB5SF92sm8Abq7J) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [American Cockroach](https://open.spotify.com/album/4gttzbvfMlUHIwWv6PboVB) | 3:08 | 2022-04-01 | 2022-08-19 |
@@ -160,7 +161,7 @@
 | [Discount De Kooning \(Last One Standing\)](https://open.spotify.com/track/7oGpYDcFyHQSQS0CvEejVB) | [The Vaccines](https://open.spotify.com/artist/0Ak6DLKHtpR6TEEnmcorKA) | [Pick\-Up Full Of Pink Carnations](https://open.spotify.com/album/6enl3uuyldMQvTQfgWP9F4) | 3:49 | 2024-01-12 |  |
 | [Do It All the Same](https://open.spotify.com/track/6o9mE8B6hhpDWutaOSsAho) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Do It All the Same](https://open.spotify.com/album/0oqtiAPmi6ZiZd7PnuDLuT) | 3:27 | 2022-09-01 | 2022-10-14 |
 | [Do You Wanna Talk](https://open.spotify.com/track/32SDqcUr2HkSJ20NlHcMBe) | [Circa Waves](https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2) | [Do You Wanna Talk](https://open.spotify.com/album/1M9rhdjdrp2azAxUtavJuX) | 2:26 | 2022-09-22 | 2023-08-31 |
-| [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 | 2024-05-16 |  |
+| [Dog Days](https://open.spotify.com/track/1L7JZUL4xBvXwrXUmaMTA1) | [Dehd](https://open.spotify.com/artist/6yzuBFtT6dK2aQMZJZtcB1) | [Poetry](https://open.spotify.com/album/6aghGRwQw9Rjzh1qRtQLpR) | 3:09 | 2024-05-16 | 2025-01-19 |
 | [Don't Press Me](https://open.spotify.com/track/1kjV1x2jSTA6g4RoPm3HdY) | [Dry Cleaning](https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO) | [Anna Calls From The Arctic](https://open.spotify.com/album/5jwTWkWKnLiNQL9NXklUva) | 1:50 | 2022-08-18 | 2022-09-23 |
 | [DOOLALLY](https://open.spotify.com/track/5KiOQH7AdJMxAo6LtgkQHg) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [DOOLALLY](https://open.spotify.com/album/3TZLSPVmWjBqmwqXn1Xal5) | 3:22 | 2023-05-18 | 2023-08-05 |
 | [Doubt](https://open.spotify.com/track/3s6sLTCG8QZmpIIRgIW4HS) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Yard](https://open.spotify.com/album/1KHEiLyeBq82jCqzllcXu9) | 2:35 | 2023-10-06 | 2024-04-19 |
@@ -240,6 +241,7 @@
 | [Growing Up](https://open.spotify.com/track/027uWCaOfVFzShwCQoqVjY) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/3Ewo9h706OFEl6r4WSuEfa) | 3:06 | 2022-02-04 | 2022-07-29 |
 | [Growing Up](https://open.spotify.com/track/4Pa5KeSpeVbr6ubFTiG6If) | [The Linda Lindas](https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5) | [Growing Up](https://open.spotify.com/album/6BkAzZNlSz80Iz3oTlKHet) | 3:06 | 2022-04-01 | 2022-08-19 |
 | [Growing/Dying](https://open.spotify.com/track/4JAFlkYkNy1MM6zOqRbiGp) | [The Backseat Lovers](https://open.spotify.com/artist/6p2HnfM955TI1bX34dkLnI) | [Growing/Dying](https://open.spotify.com/album/29kPpfrcYvtyTD1nhXxui0) | 3:32 | 2022-08-18 | 2022-10-07 |
+| [Guy Fawkes Tesco Dissociation](https://open.spotify.com/track/6bPvOeqJRytjU4KFl6Wzdy) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/4amlS1zcZeSWkphaXn3lEq) | 4:36 | 2025-01-17 |  |
 | [Hachiko](https://open.spotify.com/track/0QXQCwvUmUSB36N2j1cgM3) | [Nathan Day](https://open.spotify.com/artist/3kEC0PwfYf8pGHiKFQk8OX) | [Hachiko](https://open.spotify.com/album/3tO1iMKFjUYG3SW2bhf3Ce) | 2:54 | 2022-11-18 | 2023-01-01 |
 | [Hammer](https://open.spotify.com/track/6Krb3n3QGEubvJjIEMs4Rq) | [Hana Vu](https://open.spotify.com/artist/3diDUq8QMCCtx8a4Jy42aO) | [Hammer](https://open.spotify.com/album/0PwrCiCW0SetmMMx1Uf1ap) | 3:39 | 2024-03-15 | 2024-06-15 |
 | [Handle](https://open.spotify.com/track/1U2ul6SmAuRtnRCDDIAg3Q) | [Molly Payton](https://open.spotify.com/artist/6mbzLeDgokrXD05pj6kf0N) | [Handle](https://open.spotify.com/album/0f1y4j9KXMhnrpLzj4PEC6) | 3:25 | 2022-10-13 | 2023-02-01 |

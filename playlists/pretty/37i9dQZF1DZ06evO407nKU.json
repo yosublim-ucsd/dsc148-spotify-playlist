@@ -1,12 +1,12 @@
 {
   "description": "This is Perdidos De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 50830,
+  "num_followers": 50845,
   "original_name": "This Is Perdidos De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAA1VmthmQhK4/qNJsW9uZ0Q",
+  "snapshot_id": "Z4mdgAAAAABGsKUKTFLtUQKUyGXBi31x",
   "tracks": [
     {
       "added_at": null,
@@ -383,30 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cinco Minutos",
-        "url": "https://open.spotify.com/album/5PRmplKgfcZ3b5FG1x6AIB"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Grupo Dual",
-          "url": "https://open.spotify.com/artist/0Gz0umq9MkzCPkwrO67llg"
-        },
-        {
-          "name": "emiliano leal",
-          "url": "https://open.spotify.com/artist/7a7jFqAQfK8rqgkTaglahi"
-        }
-      ],
-      "duration_ms": 159517,
-      "name": "Cinco Minutos",
-      "url": "https://open.spotify.com/track/5xGahPi8NyyOefUbSOs8LW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Te So\u00f1\u00e9",
         "url": "https://open.spotify.com/album/1MxOELHpth8E33rUByRI37"
       },
@@ -427,6 +403,30 @@
       "duration_ms": 235798,
       "name": "Te So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/7J9QZv972WMhZlxZBvswN8"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cinco Minutos",
+        "url": "https://open.spotify.com/album/5PRmplKgfcZ3b5FG1x6AIB"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Grupo Dual",
+          "url": "https://open.spotify.com/artist/0Gz0umq9MkzCPkwrO67llg"
+        },
+        {
+          "name": "emiliano leal",
+          "url": "https://open.spotify.com/artist/7a7jFqAQfK8rqgkTaglahi"
+        }
+      ],
+      "duration_ms": 159517,
+      "name": "Cinco Minutos",
+      "url": "https://open.spotify.com/track/5xGahPi8NyyOefUbSOs8LW"
     },
     {
       "added_at": null,
@@ -483,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Soy Lo Que Soy",
+        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 236493,
+      "name": "La Pura Verdad",
+      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Coraz\u00f3n Bipolar",
         "url": "https://open.spotify.com/album/7qLk5wwsiS2CuMWTU2CmUu"
       },
@@ -499,22 +515,6 @@
       "duration_ms": 198205,
       "name": "Coraz\u00f3n Bipolar",
       "url": "https://open.spotify.com/track/0eGYbVotEAcQJEnOlO69nV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soy Lo Que Soy",
-        "url": "https://open.spotify.com/album/4kDXhqPRkNQ7cRcxjUHfoK"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 236493,
-      "name": "La Pura Verdad",
-      "url": "https://open.spotify.com/track/1A6TbVMf9EHeMzlBNqlCPY"
     },
     {
       "added_at": null,
@@ -719,26 +719,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tengo Un Problema",
-        "url": "https://open.spotify.com/album/1l2wGXbYBOC0f6tRvrUDIf"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Palafox",
-          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
-        },
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        }
-      ],
-      "duration_ms": 183872,
-      "name": "Tengo Un Problema",
-      "url": "https://open.spotify.com/track/6KZimZRdGSWbsNwCRzue9Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tonieladas (feat. Kanales)",
         "url": "https://open.spotify.com/album/73D9IF6R7JhKsO5rtLJ1LX"
       },
@@ -759,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tengo Un Problema",
+        "url": "https://open.spotify.com/album/1l2wGXbYBOC0f6tRvrUDIf"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        },
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        }
+      ],
+      "duration_ms": 183872,
+      "name": "Tengo Un Problema",
+      "url": "https://open.spotify.com/track/6KZimZRdGSWbsNwCRzue9Y"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo",
         "url": "https://open.spotify.com/album/1biWQccrv9YnXyhT1gDg2m"
       },
@@ -771,6 +771,26 @@
       "duration_ms": 148302,
       "name": "Carta Abierta - En Vivo",
       "url": "https://open.spotify.com/track/6fR8JchZYueUVGY5NojnMs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Un Amor Como El M\u00edo",
+        "url": "https://open.spotify.com/album/2E5A8pOmmT8aoWPHEEYR4I"
+      },
+      "artists": [
+        {
+          "name": "Perdidos De Sinaloa",
+          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Tambora Ritmo Express",
+          "url": "https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6"
+        }
+      ],
+      "duration_ms": 191071,
+      "name": "Un Amor Como El M\u00edo",
+      "url": "https://open.spotify.com/track/11JSOFkvdssDhJZKrQ3rzE"
     },
     {
       "added_at": null,
@@ -923,26 +943,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Un Amor Como El M\u00edo",
-        "url": "https://open.spotify.com/album/2E5A8pOmmT8aoWPHEEYR4I"
-      },
-      "artists": [
-        {
-          "name": "Perdidos De Sinaloa",
-          "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
-        },
-        {
-          "name": "Tambora Ritmo Express",
-          "url": "https://open.spotify.com/artist/5XmFilREaCbdcCcMgLVme6"
-        }
-      ],
-      "duration_ms": 191071,
-      "name": "Un Amor Como El M\u00edo",
-      "url": "https://open.spotify.com/track/11JSOFkvdssDhJZKrQ3rzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuidala (En Vivo)",
         "url": "https://open.spotify.com/album/4cUZuVBzhtfyHKrVxcMALF"
       },
@@ -967,22 +967,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sesi\u00f3n Ac\u00fastica",
-        "url": "https://open.spotify.com/album/1DmVpertYtEh2c3YPqnVak"
+        "name": "Tira Que Jala (Live)",
+        "url": "https://open.spotify.com/album/6tn0gofCUDKRDvyD61nYMy"
       },
       "artists": [
         {
-          "name": "Dariel Ramirez Y Sus Perdidos",
-          "url": "https://open.spotify.com/artist/3acX5lZj9MKXR1NcWyMeNU"
-        },
-        {
           "name": "Perdidos De Sinaloa",
           "url": "https://open.spotify.com/artist/6LNlfExL1VfbLmpkVfg4N9"
+        },
+        {
+          "name": "Grupo La Ka\u00f1a",
+          "url": "https://open.spotify.com/artist/6paWSc30mMu1ji3scSzD1Q"
         }
       ],
-      "duration_ms": 254880,
-      "name": "Una Pregunta Obvia",
-      "url": "https://open.spotify.com/track/7iiOtyfWI3IJqVIV7CaEfi"
+      "duration_ms": 202922,
+      "name": "Tira Que Jala - Live",
+      "url": "https://open.spotify.com/track/2OZNhRH9Z2oNqLCBz9YeZy"
     }
   ],
   "unique_name": "This Is Perdidos De Sinaloa",

@@ -1,12 +1,12 @@
 {
   "description": "This is Gerardo Ortiz. The essential tracks, all in one playlist.",
-  "num_followers": 445832,
+  "num_followers": 445900,
   "original_name": "This Is Gerardo Ortiz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADSR8mzrxH5oFlIgGzWNOpu",
+  "snapshot_id": "Z4mdgAAAAACtJk9G5fW8UbaFwtQL3Ix1",
   "tracks": [
     {
       "added_at": null,
@@ -231,6 +231,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 181986,
+      "name": "Amor Confuso",
+      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tal Como Eres",
         "url": "https://open.spotify.com/album/7l5DIHz7uYdBHFjX7VlLNa"
       },
@@ -247,22 +263,6 @@
       "duration_ms": 230802,
       "name": "Tal Como Eres",
       "url": "https://open.spotify.com/track/5iDnp09ecAvbywcRBkabXg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 198026,
-      "name": "Aquiles Afirmo",
-      "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
     },
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Entre Dios y El Diablo (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 198026,
+      "name": "Aquiles Afirmo",
+      "url": "https://open.spotify.com/track/5L92JAcxJMVmLlKIWHhLCY"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 187280,
       "name": "En Preparacion",
       "url": "https://open.spotify.com/track/5I0SHuT00cgXe7F2MUzEyH"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Entre Dios y El Diablo (Deluxe Version)",
-        "url": "https://open.spotify.com/album/5Z8W1u3XfVt5Qep5gI5raN"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 181986,
-      "name": "Amor Confuso",
-      "url": "https://open.spotify.com/track/4DylHCW46VE8AmQiW1EjUZ"
     },
     {
       "added_at": null,
@@ -367,22 +367,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ni Hoy Ni Manana",
-        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 154946,
-      "name": "El Trokero Lokochon",
-      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Parca",
         "url": "https://open.spotify.com/album/4Wyq5S8SygjS92CA5MrXLG"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 193612,
       "name": "La Parca",
       "url": "https://open.spotify.com/track/6RL2LfHexgiFXFEb3yJEdK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ni Hoy Ni Manana",
+        "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 154946,
+      "name": "El Trokero Lokochon",
+      "url": "https://open.spotify.com/track/6wMYwA7VyjkvTFUPj2LgyB"
     },
     {
       "added_at": null,
@@ -583,6 +583,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Morir y Existir En Vivo",
+        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Ortiz",
+          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
+        }
+      ],
+      "duration_ms": 185546,
+      "name": "Morir Y Existir",
+      "url": "https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D\u00e9cimo Aniversario (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1FlTGY7gHcjTtBbhCDY3hj"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 159390,
       "name": "El Ranchero",
       "url": "https://open.spotify.com/track/6XZtHcPKpn2pGVCLEBzwxj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Morir y Existir En Vivo",
-        "url": "https://open.spotify.com/album/3fFAsEBYDHC89w3Unkk9fY"
-      },
-      "artists": [
-        {
-          "name": "Gerardo Ortiz",
-          "url": "https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Morir Y Existir",
-      "url": "https://open.spotify.com/track/12cT1bEwXxg42o2AOwFF2q"
     },
     {
       "added_at": null,

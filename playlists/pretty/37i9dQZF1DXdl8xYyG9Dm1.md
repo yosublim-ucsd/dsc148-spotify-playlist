@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 
 > The latest straight bars and Afro\-Trap\. Cover: Black Sherif
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,797 likes - 70 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,901 likes - 70 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,11 +72,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdl8xYyG9Dm1.md) - [plain]
 | 62 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 |
 | 63 | [Warning!](https://open.spotify.com/track/1hf7ngzSpYKOyc0cTqmCXP) | [Kel\-P](https://open.spotify.com/artist/4j2hypl84JFGRz00du5JT8), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Warning!](https://open.spotify.com/album/6VLWSdz3qe1ZHo5p3UCvQr) | 2:44 |
 | 64 | [VIOLATION](https://open.spotify.com/track/21COrY4QAM3QGc4iIvzD1H) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [VIOLATION](https://open.spotify.com/album/6gpmJar9EPyRhRDzgEs4Pd) | 2:28 |
-| 65 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 |
-| 66 | [Believer](https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK) | [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Believer](https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf) | 3:50 |
+| 65 | [Believer](https://open.spotify.com/track/36o7zjnqf5ouMXZTOkI0MK) | [Emtee](https://open.spotify.com/artist/6U3gCOvxVWKBxXItqp3mdr) | [Believer](https://open.spotify.com/album/5rb4fEmvkfDSPP9A7YxkPf) | 3:50 |
+| 66 | [Gwara Gwara](https://open.spotify.com/track/3ITpuImbmMtavdxCPoYQsX) | [Moonchild Sanelly](https://open.spotify.com/artist/6aDX1jzNVAI9enlQzW0Pgw) | [Gwara Gwara](https://open.spotify.com/album/1tTCpNbAR3vpq3PUFQw1Zm) | 3:18 |
 | 67 | [Kiki](https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8) | [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL), [Flow Jones Jr.](https://open.spotify.com/artist/16lC2NTx9Dj12PsgOzraQa), [Glody Kasongo](https://open.spotify.com/artist/3HTDaBCCpXP4Y6TyoGyP9i) | [Kiki](https://open.spotify.com/album/5fhYSXpWS5hEzZ7e7U23y9) | 2:54 |
 | 68 | [Endless](https://open.spotify.com/track/6Sjfvyk5dEtdGFPCF37mYe) | [Nasty C](https://open.spotify.com/artist/2gzWmhOZhDN6gXL49JW9qj) | [Endless](https://open.spotify.com/album/0uVRzWfzo09LD86fBRxIdU) | 3:00 |
-| 69 | [PULL UP \(WHERE THE MUD BE\)](https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [ROLE MODEL \(DELUXE VERSION\)](https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1) | 2:34 |
-| 70 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 |
+| 69 | [Hate](https://open.spotify.com/track/1aOG93pV9v9fYvTTUC9UsZ) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [Hate](https://open.spotify.com/album/33CQoQojSZtFZJO8xALGJ1) | 3:30 |
+| 70 | [PULL UP \(WHERE THE MUD BE\)](https://open.spotify.com/track/5KuVMkU5BAVsltPAJJTcyk) | [Internet Girl](https://open.spotify.com/artist/2eVTKG3Z5bbKk2OWMIe3iL), [Maglera Doe Boy](https://open.spotify.com/artist/1UXX0jyiEJK15VdkmzYD9L) | [ROLE MODEL \(DELUXE VERSION\)](https://open.spotify.com/album/4Ui6fqKeQrsxVVArV6mkr1) | 2:34 |
 
 Snapshot ID: `Z4md2gAAAAAY8nXsIoSqRx4CpmibUvg1`

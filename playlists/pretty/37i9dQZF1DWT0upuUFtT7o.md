@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Cameron Winter
 
-[Spotify](https://open.spotify.com/user/spotify) - 238,630 likes - 41 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 238,689 likes - 41 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Nausicaä \(Love Will Be Revealed\)](https://open.spotify.com/track/2tdNTV4xpZgiom27mENc2N) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 4:11 |
-| 2 | [Every Little Thing](https://open.spotify.com/track/0u4g7SYTCckp1HsyKGrv30) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h) | [I Can Change Your Mind](https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6) | 3:28 |
+| 2 | [Every Little Thing](https://open.spotify.com/track/0u4g7SYTCckp1HsyKGrv30) | [Maddie Jay](https://open.spotify.com/artist/0eelrX0AcylGwVNf1HW77h), [Chase Ceglie](https://open.spotify.com/artist/7mUgXAhW0NrIYhwsxhkCEn) | [I Can Change Your Mind](https://open.spotify.com/album/6yiwJDKR9WEysm1UaHS7r6) | 3:28 |
 | 3 | [COMMON SENSE](https://open.spotify.com/track/6cvY4PWZcpT9q9pqTIWUze) | [papa mbye](https://open.spotify.com/artist/5JVtTuCBPvUOTZ2YjrAPTp) | [COMMON SENSE](https://open.spotify.com/album/7faaHkMOir7YI4wacRvcmD) | 3:39 |
 | 4 | [THESE FEELS AGAIN](https://open.spotify.com/track/4esvmj0DJYZ0jBRTvZTPwd) | [Olive Hatake](https://open.spotify.com/artist/0Ig3Il7HEb2qHjZ8vVLMTG), [Tony Konstone](https://open.spotify.com/artist/21qh0ol8shv7XMLRJe2PKe) | [BOYS NEED MORE LOVE](https://open.spotify.com/album/1K0GajbCT6Qv2eHix9MGzK) | 3:18 |
 | 5 | [Vows](https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK) | [Operelly](https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63) | [Vows](https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa) | 2:42 |

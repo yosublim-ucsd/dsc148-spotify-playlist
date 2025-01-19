@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Current indie tunes from Asia and around the world. Cover: Franz Ferdinand",
+  "description": "Current indie tunes from Asia and around the world. Cover: Perfume Genius",
   "name": "Indie Shuffle",
   "tracks": [
     {
@@ -2364,6 +2364,24 @@
       "duration_ms": 249160,
       "name": "Australia (Peter Bjorn and John Remix)",
       "url": "https://open.spotify.com/track/2Lj8ydwvBiIxCliS0kmATB"
+    },
+    {
+      "album": {
+        "name": "Avalon",
+        "url": "https://open.spotify.com/album/0UBwjbjvYRNbAqsNdk0AYq"
+      },
+      "artists": [
+        {
+          "name": "Travis",
+          "url": "https://open.spotify.com/artist/3bUwxJgNakzYKkqAVgZLlh"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141865,
+      "name": "Avalon",
+      "url": "https://open.spotify.com/track/5g1tmiBDqeRkkV98g1OMWW"
     },
     {
       "album": {
@@ -5311,6 +5329,24 @@
     },
     {
       "album": {
+        "name": "Can't Say No",
+        "url": "https://open.spotify.com/album/0eXqzpHZp49CthfRA4ggtN"
+      },
+      "artists": [
+        {
+          "name": "The Wombats",
+          "url": "https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192706,
+      "name": "Can't Say No",
+      "url": "https://open.spotify.com/track/2fzc6So1P2MYJ2YtokLgLU"
+    },
+    {
+      "album": {
         "name": "Spotify Singles",
         "url": "https://open.spotify.com/album/7ChLJ2d4pLNKIrLSuGl8Df"
       },
@@ -6966,7 +7002,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 132986,
       "name": "Crawl",
       "url": "https://open.spotify.com/track/37DAC9LSqcr4Lv2hFHxutm"
@@ -7381,6 +7417,28 @@
     },
     {
       "album": {
+        "name": "Dandelion",
+        "url": "https://open.spotify.com/album/4d9X64meCyPThkTj9dzjpI"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Ruel",
+          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202652,
+      "name": "Dandelion",
+      "url": "https://open.spotify.com/track/0tz35TsCwA94l9b1KvTWVq"
+    },
+    {
+      "album": {
         "name": "Daniel",
         "url": "https://open.spotify.com/album/5T3BU6YIJtgaxo3sfrEYyD"
       },
@@ -7714,7 +7772,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 213867,
       "name": "Deadbeat",
       "url": "https://open.spotify.com/track/1enKqw8WNSYA8YxvzEcgsg"
@@ -8652,7 +8710,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 203373,
       "name": "Don\u2019t Let Me Down Again",
       "url": "https://open.spotify.com/track/1fuQki4HKxBZfoR6NGD0DQ"
@@ -9728,7 +9786,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 151373,
       "name": "Even (with Cat Burns)",
       "url": "https://open.spotify.com/track/5CeJU8nNGuwR6LWUzJa5QF"
@@ -12596,6 +12654,24 @@
       "duration_ms": 246418,
       "name": "Golden",
       "url": "https://open.spotify.com/track/0n3UoAO5294hETx9TZKQWS"
+    },
+    {
+      "album": {
+        "name": "Gondola",
+        "url": "https://open.spotify.com/album/0SosOFdN5ntz2tvNcbTalP"
+      },
+      "artists": [
+        {
+          "name": "Richard Dawson",
+          "url": "https://open.spotify.com/artist/0VeQgI9lzgoOMszAOq0iml"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273973,
+      "name": "Gondola",
+      "url": "https://open.spotify.com/track/71DBKw4Zv0YtRaiCpYpVpW"
     },
     {
       "album": {
@@ -16335,6 +16411,24 @@
     },
     {
       "album": {
+        "name": "It's a Mirror",
+        "url": "https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz"
+      },
+      "artists": [
+        {
+          "name": "Perfume Genius",
+          "url": "https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212320,
+      "name": "It's a Mirror",
+      "url": "https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON"
+    },
+    {
+      "album": {
         "name": "It's Not Just Me, It's Everybody",
         "url": "https://open.spotify.com/album/0OFDZTYgwiuv7a4CZEVAsR"
       },
@@ -16942,6 +17036,24 @@
       "duration_ms": 183000,
       "name": "KEEP IT UP",
       "url": "https://open.spotify.com/track/0ioTTk5l0Zz7Oh48qEocgj"
+    },
+    {
+      "album": {
+        "name": "Keep Me Satisfied",
+        "url": "https://open.spotify.com/album/6QDVSbU4yXnw4TEmTynaQM"
+      },
+      "artists": [
+        {
+          "name": "Jungle",
+          "url": "https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145663,
+      "name": "Keep Me Satisfied",
+      "url": "https://open.spotify.com/track/4OxDppy29ZuxXgQ1kMEjCr"
     },
     {
       "album": {
@@ -17720,6 +17832,24 @@
       "duration_ms": 177733,
       "name": "Lexicon",
       "url": "https://open.spotify.com/track/70aDp1WRRHjSO2EFYvFgLK"
+    },
+    {
+      "album": {
+        "name": "LIE DOWN..",
+        "url": "https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf"
+      },
+      "artists": [
+        {
+          "name": "Saya Gray",
+          "url": "https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 309381,
+      "name": "LIE DOWN..",
+      "url": "https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp"
     },
     {
       "album": {
@@ -20036,6 +20166,24 @@
       "duration_ms": 181200,
       "name": "mirror",
       "url": "https://open.spotify.com/track/1EgzmXxvjwC5aS8g6A2osl"
+    },
+    {
+      "album": {
+        "name": "Mirror",
+        "url": "https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y"
+      },
+      "artists": [
+        {
+          "name": "The Weather Station",
+          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296226,
+      "name": "Mirror",
+      "url": "https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl"
     },
     {
       "album": {
@@ -28726,7 +28874,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 192857,
       "name": "Sorrow (feat. Mandark)",
       "url": "https://open.spotify.com/track/0ZCcrOzh8CnhkQY0PpcKzT"
@@ -28878,6 +29026,24 @@
       "duration_ms": 262856,
       "name": "Sparks",
       "url": "https://open.spotify.com/track/2z6EbZR9tXxESExgrUjVyP"
+    },
+    {
+      "album": {
+        "name": "Speed Freak",
+        "url": "https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs"
+      },
+      "artists": [
+        {
+          "name": "Youth Lagoon",
+          "url": "https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209851,
+      "name": "Speed Freak",
+      "url": "https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U"
     },
     {
       "album": {
@@ -33043,6 +33209,24 @@
     },
     {
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD"
+      },
+      "artists": [
+        {
+          "name": "Sharon Van Etten",
+          "url": "https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300045,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ"
+    },
+    {
+      "album": {
         "name": "Trouble Is An Enemy",
         "url": "https://open.spotify.com/album/4hsrYdTGo35Fqqf521php9"
       },
@@ -33694,6 +33878,24 @@
       "duration_ms": 256880,
       "name": "Unnecessary Drama",
       "url": "https://open.spotify.com/track/6Qn9jSYaISHshe0aEZjQIz"
+    },
+    {
+      "album": {
+        "name": "Unreal",
+        "url": "https://open.spotify.com/album/04cSvvmWbCt7T2rkfglQZt"
+      },
+      "artists": [
+        {
+          "name": "Cold Desires",
+          "url": "https://open.spotify.com/artist/5uBWWO1aJPQtgeimC707Uv"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281529,
+      "name": "Unreal",
+      "url": "https://open.spotify.com/track/5ekvT5IEz4IoNZUHTzEuKH"
     },
     {
       "album": {
@@ -34988,6 +35190,24 @@
       "duration_ms": 168176,
       "name": "What\u2019s It Take to Be a Star?",
       "url": "https://open.spotify.com/track/1PUSZJtA4Q7WGT6uX6lyQw"
+    },
+    {
+      "album": {
+        "name": "Back to Me",
+        "url": "https://open.spotify.com/album/4I0zCNINiIdL6JfUExr5M4"
+      },
+      "artists": [
+        {
+          "name": "Peach Luffe",
+          "url": "https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149750,
+      "name": "What\u2019s On Your Mind",
+      "url": "https://open.spotify.com/track/6OEfp9hoy5ugnNaGhtBTK9"
     },
     {
       "album": {

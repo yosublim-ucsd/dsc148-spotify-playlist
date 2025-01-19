@@ -2,7 +2,7 @@
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With The Wild Wind, LAVE, The Strike and more
+> With LAVE, The Wild Wind, The Strike and more
 
 1,404 songs - 3 day 18 hr 0 min
 

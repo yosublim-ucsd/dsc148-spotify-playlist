@@ -1393,6 +1393,24 @@
     },
     {
       "album": {
+        "name": "Arcane",
+        "url": "https://open.spotify.com/album/7flZpeGykp1XXbK82FfGs2"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216200,
+      "name": "Arcane",
+      "url": "https://open.spotify.com/track/0bDXKUQvhUYVhR1sRpLlIV"
+    },
+    {
+      "album": {
         "name": "Architect (feat. Currents)",
         "url": "https://open.spotify.com/album/5WuZVUS6PaMWD6qveUZd6q"
       },
@@ -3884,7 +3902,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 113414,
       "name": "Cold",
       "url": "https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE"
@@ -10618,7 +10636,7 @@
       ],
       "date_added": "2024-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 209240,
       "name": "Lie To Me",
       "url": "https://open.spotify.com/track/4fXGTlfKRv5v4QBr3ynAFP"
@@ -16286,6 +16304,24 @@
       "duration_ms": 277323,
       "name": "Solace and Serenity",
       "url": "https://open.spotify.com/track/54a1FNgetgOdZEsD6PlO6s"
+    },
+    {
+      "album": {
+        "name": "Solace In Silence",
+        "url": "https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176095,
+      "name": "Solace In Silence",
+      "url": "https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou"
     },
     {
       "album": {

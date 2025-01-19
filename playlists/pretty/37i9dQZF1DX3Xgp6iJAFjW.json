@@ -1,6 +1,6 @@
 {
   "description": "Celebra con saz\u00f3n. A holiday playlist with tropical flavor. ",
-  "num_followers": 39635,
+  "num_followers": 39630,
   "original_name": "Navidad Con Sabor",
   "owner": {
     "name": "Spotify",
@@ -675,18 +675,18 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "20 Exitos Navide\u00f1os",
-        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
+        "name": "Navidad a Lo Boricua",
+        "url": "https://open.spotify.com/album/5wfv8V9nRCajVyBNKXp0nM"
       },
       "artists": [
         {
-          "name": "Danny Rivera",
-          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
+          "name": "La Nueva Patrulla 15",
+          "url": "https://open.spotify.com/artist/7vLJ6OLd5o3zCoUpSguI3d"
         }
       ],
-      "duration_ms": 198000,
-      "name": "El Coqui",
-      "url": "https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE"
+      "duration_ms": 240586,
+      "name": "El 5 de Enero",
+      "url": "https://open.spotify.com/track/0wA1WkJouLmvBG9eIYaVrP"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -715,18 +715,18 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Navidad a Lo Boricua",
-        "url": "https://open.spotify.com/album/5wfv8V9nRCajVyBNKXp0nM"
+        "name": "20 Exitos Navide\u00f1os",
+        "url": "https://open.spotify.com/album/04b8TTJVA0jaG7SQ2NHzi1"
       },
       "artists": [
         {
-          "name": "La Nueva Patrulla 15",
-          "url": "https://open.spotify.com/artist/7vLJ6OLd5o3zCoUpSguI3d"
+          "name": "Danny Rivera",
+          "url": "https://open.spotify.com/artist/3LZUHg9BIh2U5ol71qrVGL"
         }
       ],
-      "duration_ms": 240586,
-      "name": "El 5 de Enero",
-      "url": "https://open.spotify.com/track/0wA1WkJouLmvBG9eIYaVrP"
+      "duration_ms": 198000,
+      "name": "El Coqui",
+      "url": "https://open.spotify.com/track/7yhXGpFnh0L7XYuN6oItXE"
     },
     {
       "added_at": "2024-12-13 05:00:21",
@@ -1379,26 +1379,6 @@
     {
       "added_at": "2024-12-13 05:00:21",
       "album": {
-        "name": "Tradici\u00f3n Urbana",
-        "url": "https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA"
-      },
-      "artists": [
-        {
-          "name": "Jerry Rivera",
-          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
-        },
-        {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
-        }
-      ],
-      "duration_ms": 183367,
-      "name": "T\u00fa No Bailas Mas Que Yo",
-      "url": "https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C"
-    },
-    {
-      "added_at": "2024-12-13 05:00:21",
-      "album": {
         "name": "Diciembre Colombiano",
         "url": "https://open.spotify.com/album/1k4QeqeqrihPty4qrv9Kqa"
       },
@@ -1415,6 +1395,26 @@
       "duration_ms": 253506,
       "name": "Aguinaldo Navide\u00f1o",
       "url": "https://open.spotify.com/track/3rFwtBGwM0kxJKGfh5TmXt"
+    },
+    {
+      "added_at": "2024-12-13 05:00:21",
+      "album": {
+        "name": "Tradici\u00f3n Urbana",
+        "url": "https://open.spotify.com/album/3gL1JUfwdzStBfmKJQDoPA"
+      },
+      "artists": [
+        {
+          "name": "Jerry Rivera",
+          "url": "https://open.spotify.com/artist/7wOZy3KdFVVINgNFFxkxwO"
+        },
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        }
+      ],
+      "duration_ms": 183367,
+      "name": "T\u00fa No Bailas Mas Que Yo",
+      "url": "https://open.spotify.com/track/28rpGvE9oOR6ZK9D2Kwj6C"
     },
     {
       "added_at": "2024-12-13 05:00:21",

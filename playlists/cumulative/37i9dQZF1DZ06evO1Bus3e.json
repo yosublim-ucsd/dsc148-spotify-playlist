@@ -353,6 +353,28 @@
     },
     {
       "album": {
+        "name": "Sacando El Polvo",
+        "url": "https://open.spotify.com/album/3x9bpEr5yOvsJgH22RQllP"
+      },
+      "artists": [
+        {
+          "name": "Arsenal Efectivo",
+          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
+        },
+        {
+          "name": "Omar Ruiz",
+          "url": "https://open.spotify.com/artist/2ylQO8qFEBINvkNNZGe4uC"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241727,
+      "name": "Sacando El Polvo",
+      "url": "https://open.spotify.com/track/4XlYZ7xckZy2Vz1eXg4IFy"
+    },
+    {
+      "album": {
         "name": "Seguiremos Trabajando",
         "url": "https://open.spotify.com/album/0flR15FFQkQ4jo7PDIUJk4"
       },

@@ -4,7 +4,7 @@
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: Silent Planet
 
-1,103 songs - 2 day 19 hr 58 min
+1,105 songs - 2 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Apathy](https://open.spotify.com/track/4qu7JCxO7rC8ox8aDE3v7z) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Apathy / 31.10](https://open.spotify.com/album/3E53cANM5usgkr7vuGRHu0) | 3:31 | 2024-12-18 | 2025-01-18 |
 | [Apollo](https://open.spotify.com/track/7fFb8tJU5thmLGP1ZKqLxw) | [Crystal Lake](https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX) | [Helix](https://open.spotify.com/album/5XlKRhFaEPZl0NEoLbMsRo) | 5:12 | 2022-07-13 | 2022-07-23 |
 | [Aquila](https://open.spotify.com/track/7goOBp1pzbohHhaaJO05H2) | [Allt](https://open.spotify.com/artist/6YRr0btzGqfQ5K7r23qjEM) | [Aquila](https://open.spotify.com/album/06vkY41nabAWVastRByeLy) | 4:07 | 2024-09-20 | 2024-10-19 |
+| [Arcane](https://open.spotify.com/track/0bDXKUQvhUYVhR1sRpLlIV) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Arcane](https://open.spotify.com/album/7flZpeGykp1XXbK82FfGs2) | 3:36 | 2025-01-17 |  |
 | [Architect \(feat\. Currents\)](https://open.spotify.com/track/7HBBiUgHGMQPsMw1SNwuCr) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237), [Currents](https://open.spotify.com/artist/5pqvAI85RMxL9K0xHvSwGu) | [Architect \(feat\. Currents\)](https://open.spotify.com/album/5WuZVUS6PaMWD6qveUZd6q) | 4:06 | 2024-08-12 | 2024-12-19 |
 | [Arkangel](https://open.spotify.com/track/07dXbgUPrylumB0XpFTULY) | [Thornhill](https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD) | [Arkangel](https://open.spotify.com/album/3S8mn8c5yKRKAdE9eaD3pW) | 4:10 | 2022-01-28 | 2022-05-06 |
 | [As If It Never Was](https://open.spotify.com/track/5ihb2wN6ltF6kciiBEDFGM) | [Invent Animate](https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt) | [The Sun Sleeps, As If It Never Was](https://open.spotify.com/album/3BkRwfs7XLuJA0hILM9EXB) | 4:54 | 2021-12-17 | 2022-01-08 |
@@ -214,7 +215,7 @@
 | [CODE MISTAKE](https://open.spotify.com/track/39iRz0h1eZOyXzch8tKQit) | [CORPSE](https://open.spotify.com/artist/7yntSJ6uojO3z6GFUVwhAW), [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [CODE MISTAKE](https://open.spotify.com/album/02V5iAi2paX4K7Z20R5lvl) | 2:45 | 2023-07-14 | 2024-02-10 |
 | [Code of Honor](https://open.spotify.com/track/1ejDrrIUJvvZnXWkiXdABO) | [Upon A Burning Body](https://open.spotify.com/artist/1bPBx2qbpWzEoLujeHC3G7) | [Fury](https://open.spotify.com/album/5SuH3r7QBzpe1WMgE3cabl) | 3:06 | 2022-05-06 | 2022-12-17 |
 | [Coffin of Pain](https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Under the Weight of Things I Couldn't Change](https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU) | 3:36 | 2022-07-13 | 2022-07-15 |
-| [Cold](https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Maybe Death Is All I Need](https://open.spotify.com/album/3ZgCBOcMZUn3oZV0pgt4sg) | 1:53 | 2024-10-18 |  |
+| [Cold](https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Maybe Death Is All I Need](https://open.spotify.com/album/3ZgCBOcMZUn3oZV0pgt4sg) | 1:53 | 2024-10-18 | 2025-01-19 |
 | [Cold Blooded](https://open.spotify.com/track/55qsUnoBhvLZ6ktj5v3lKp) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [Cold Blooded](https://open.spotify.com/album/5pSv7gNjAnaM169UjdNXY0) | 3:38 | 2021-12-17 | 2022-04-02 |
 | [Cold World](https://open.spotify.com/track/0OgCom0J2EH70YJJxcFlgr) | [Additional Time](https://open.spotify.com/artist/41OZ2IjrF9kjGWDYIGBYOz) | [Cold World](https://open.spotify.com/album/4yHK77sLinmbGY7Ebp1l3i) | 4:06 | 2021-12-17 | 2022-01-15 |
 | [Collapse](https://open.spotify.com/track/3LR5jyD6SzxndATDr83izY) | [Vigils](https://open.spotify.com/artist/3EzYyT79hzNl6mxm7v44h0) | [Collapse](https://open.spotify.com/album/2DVcJX849QCM4XMcZ92qaO) | 3:12 | 2022-01-07 | 2022-04-09 |
@@ -573,7 +574,7 @@
 | [Let Down](https://open.spotify.com/track/2JrPhJ74FfygxtRYMXU0Fk) | [The Anchor](https://open.spotify.com/artist/2x583f2zJEjkiPd6IY4yfW) | [Let Down](https://open.spotify.com/album/52ssN73hMqj9cv16Zc0JLp) | 4:29 | 2022-12-16 | 2023-04-22 |
 | [Let Go](https://open.spotify.com/track/2iHdiDAIYBPOqnNxVrNBYO) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Let Go](https://open.spotify.com/album/0rEiAGXHPJUbsNsKP9TfkH) | 3:50 | 2023-03-03 | 2023-07-01 |
 | [Leviathan](https://open.spotify.com/track/5FTvAZs7y44je1UfwQYHza) | [Inertia](https://open.spotify.com/artist/1E6e3PEiDGmLH89A83pe5g), [Jacob Charlton](https://open.spotify.com/artist/2HqCz2f12Frw8b3MLGDU0s) | [Leviathan](https://open.spotify.com/album/6TYjW6u3rcC7K7p908mg7Z) | 4:01 | 2024-08-12 | 2024-12-19 |
-| [Lie To Me](https://open.spotify.com/track/4fXGTlfKRv5v4QBr3ynAFP) | [Termina](https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta) | [Lie To Me](https://open.spotify.com/album/73HqdbtGW8S5TmqP5Qu2GQ) | 3:29 | 2024-09-20 |  |
+| [Lie To Me](https://open.spotify.com/track/4fXGTlfKRv5v4QBr3ynAFP) | [Termina](https://open.spotify.com/artist/5so7YSsRh7TGtWfkRZ2fbo), [Nik Nocturnal](https://open.spotify.com/artist/1Gc5ZiJhqjQQcfvMTSCa3q), [Andy Cizek](https://open.spotify.com/artist/0C5fT1ymHhTRTrSVhDYUta) | [Lie To Me](https://open.spotify.com/album/73HqdbtGW8S5TmqP5Qu2GQ) | 3:29 | 2024-09-20 | 2025-01-19 |
 | [Lie2Me](https://open.spotify.com/track/5Lj46byXVaSNMFGB0NkK08) | [Octopus Montage](https://open.spotify.com/artist/1fTRB21pCaxDms0xwplYiG) | [Lie2Me](https://open.spotify.com/album/4nr7TwAm9Nc0MU5QG631EW) | 3:04 | 2022-02-11 | 2022-02-26 |
 | [Life of a Parasite](https://open.spotify.com/track/6LXQba9gRcFhYZc3OD7nre) | [We're Wolves](https://open.spotify.com/artist/73hZY77xQYtJsTrslIzy7v) | [Evil Things](https://open.spotify.com/album/7vgtKRBOKgM1BUEjJ0sEIl) | 3:16 | 2021-12-17 | 2022-01-28 |
 | [Lifeblood](https://open.spotify.com/track/7FEWI4TMXlzNIqvREwIhHd) | [Brand of Sacrifice](https://open.spotify.com/artist/4d6Rawrese4OLF1zZCztod) | [Lifeblood](https://open.spotify.com/album/0HKMrwsbf7v7IHHXhSHylS) | 4:17 | 2022-07-13 | 2022-07-23 |
@@ -874,6 +875,7 @@
 | [Sol](https://open.spotify.com/track/3Svbk7PnKp2hKqViRCti7S) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [Disparity](https://open.spotify.com/album/2aI7O7ukQBWxfMimo9pUo8) | 3:21 | 2022-09-02 | 2022-12-17 |
 | [Sol Absentia](https://open.spotify.com/track/048bNBLjuitoM1LUbuoquz) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [ERRA \(Deluxe\)](https://open.spotify.com/album/76qhDcjWn2hw3Ig0NtX189) | 4:03 | 2022-03-18 | 2022-05-21 |
 | [Solace and Serenity](https://open.spotify.com/track/54a1FNgetgOdZEsD6PlO6s) | [The Acacia Strain](https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs) | [E](https://open.spotify.com/album/7FXcpxnTHupS7uwEc8S5uC) | 4:37 | 2022-07-13 | 2022-07-15 |
+| [Solace In Silence](https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou) | [Not Enough Space](https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK) | [Solace In Silence](https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9) | 2:56 | 2025-01-17 |  |
 | [SOMEONE ELSE](https://open.spotify.com/track/71yPnlKcVhY98DayZdUFYH) | [Space Of Variations](https://open.spotify.com/artist/6mcSNYbGthL93gHZEIdsw6) | [SOMEONE ELSE](https://open.spotify.com/album/77UuardHSldSzZApqo95tt) | 3:26 | 2022-01-21 | 2022-04-29 |
 | [Something I'm Not](https://open.spotify.com/track/266NgH6rHSWkgdTSHyVfnB) | [Graphic Nature](https://open.spotify.com/artist/0QUcDHMfwBsMAufKXbzhkH) | [Something I'm Not](https://open.spotify.com/album/6TprautIu2RUz8oYQSv8BB) | 3:25 | 2024-06-04 | 2024-12-19 |
 | [Soul Chasm](https://open.spotify.com/track/66fCFGrX5XQD69VumC1sZA) | [Heriot](https://open.spotify.com/artist/49O77SKrEk1b9sNjhI0kM4) | [Soul Chasm](https://open.spotify.com/album/4zkhWlE1kPQbgd4qJPxOUA) | 3:24 | 2023-11-27 | 2024-06-05 |

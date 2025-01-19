@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Ruthie Foster
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,818 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,841 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcFk5r8uS3l2.md) - [plain]
 | 8 | [I Have No One](https://open.spotify.com/track/2vjv5sUGTHsb2fLem7b8AB) | [ZZ Ward](https://open.spotify.com/artist/7aJSIsbI5wV8aFi2kkFfPi) | [Mother](https://open.spotify.com/album/5q8iAuzS4wFRlkHjy50Ryj) | 2:33 |
 | 9 | [When It Gets Dark](https://open.spotify.com/track/5g53x9XQ3zDJHZ52xcsAH2) | [Bryan Elijah Smith](https://open.spotify.com/artist/78tFFT4Yq3il8qf74b4Dre) | [When It Gets Dark](https://open.spotify.com/album/1Sq7BpNCgBM7DiQZfnUZja) | 2:28 |
 | 10 | [All The Things I Said](https://open.spotify.com/track/5viV8dro184RtltNGT0JiZ) | [Joanne Shaw Taylor](https://open.spotify.com/artist/3FmTlY1F9dQyRursrsUaU7) | [All The Things I Said](https://open.spotify.com/album/0wSIwTKTUh0MiXcS5jRhyQ) | 4:47 |
-| 11 | [Found A Friend In You](https://open.spotify.com/track/1WXAspzwAg4loOothMAxis) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Found A Friend In You](https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw) | 2:40 |
+| 11 | [Found A Friend In You](https://open.spotify.com/track/1WXAspzwAg4loOothMAxis) | [Southern Avenue](https://open.spotify.com/artist/4HfoncnCuBS7D4xU4VDosQ) | [Found A Friend In You](https://open.spotify.com/album/2J9ZviZDjKMSqBerq84iKw) | 2:38 |
 | 12 | [Mileage](https://open.spotify.com/track/3F2jU00UiKwXJ3xu5LI8mF) | [Ruthie Foster](https://open.spotify.com/artist/2lL4ckeM1A2Qo2Fe64dP0F) | [Mileage](https://open.spotify.com/album/2md8QvUu2FUCDWvNPW5atB) | 4:10 |
 | 13 | [Drifting \(feat\. Marcus King\)](https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q) | [Alain Apaloo](https://open.spotify.com/artist/3q8l8BcNjXxBaUP204OgX2), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Naked](https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa) | 4:15 |
 | 14 | [Seasons Change](https://open.spotify.com/track/6s9DuDzSqgGqKoGTSWdpPu) | [Chadwick Johnson](https://open.spotify.com/artist/21iVIpVgIhkCIkz7yQfKgV) | [Seasons Change](https://open.spotify.com/album/1DjF9YaLZ3PKdzmwNPdwok) | 3:27 |

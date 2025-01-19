@@ -1,12 +1,12 @@
 {
   "description": "This is Justin Timberlake. The essential tracks, all in one playlist.",
-  "num_followers": 644880,
+  "num_followers": 644955,
   "original_name": "This Is Justin Timberlake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAC8HLtfBN3oshah3Qbr6RHN",
+  "snapshot_id": "Z4mdgAAAAADdAbZhzxc7cEHQxQgN5pzf",
   "tracks": [
     {
       "added_at": null,
@@ -484,17 +484,13 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Kid Cudi",
-          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
-        },
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+          "name": "Anna Kendrick",
+          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
         }
       ],
-      "duration_ms": 152160,
-      "name": "Perfect",
-      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
+      "duration_ms": 81666,
+      "name": "BroZone's Back",
+      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
     },
     {
       "added_at": null,
@@ -580,13 +576,17 @@
           "url": "https://open.spotify.com/artist/3twuAojvYNrlWZpMkxLm3P"
         },
         {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
+          "name": "Kid Cudi",
+          "url": "https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu"
+        },
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
         }
       ],
-      "duration_ms": 81666,
-      "name": "BroZone's Back",
-      "url": "https://open.spotify.com/track/02xkg0KUfiytfbnwAevy1p"
+      "duration_ms": 152160,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/4dNKAlFAjUqelFX5ganK7Y"
     },
     {
       "added_at": null,
@@ -1123,34 +1123,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "TROLLS Holiday In Harmony",
-        "url": "https://open.spotify.com/album/4QhiPwSJKMHBk0EL67zBaT"
+        "name": "Keep Going Up",
+        "url": "https://open.spotify.com/album/0leO4lM0iYTks8dy039b7c"
       },
       "artists": [
         {
+          "name": "Timbaland",
+          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
+        },
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
           "name": "Justin Timberlake",
           "url": "https://open.spotify.com/artist/31TPClRtHm23RisEBtV3X7"
-        },
-        {
-          "name": "Anna Kendrick",
-          "url": "https://open.spotify.com/artist/6xfqnpe2HnLVUaYXs2F8YS"
-        },
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        },
-        {
-          "name": "Ester Dean",
-          "url": "https://open.spotify.com/artist/0v2Y5jwtcv8LiWNTRls1KM"
         }
       ],
-      "duration_ms": 176466,
-      "name": "Together Now",
-      "url": "https://open.spotify.com/track/0wGlWyLEXXjeBTpNIPFii0"
+      "duration_ms": 174222,
+      "name": "Keep Going Up (with Nelly Furtado & Justin Timberlake)",
+      "url": "https://open.spotify.com/track/0MBRKCgePXewM1iBQiPn7Q"
     }
   ],
   "unique_name": "This Is Justin Timberlake",

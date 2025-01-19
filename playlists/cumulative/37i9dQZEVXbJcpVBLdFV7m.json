@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 257560,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
@@ -4074,7 +4074,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 257893,
       "name": "Do I Wanna Know? - Live At the BBC",
       "url": "https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3"
@@ -4598,7 +4598,7 @@
       ],
       "date_added": "2025-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 222568,
       "name": "EL CL\u00faB",
       "url": "https://open.spotify.com/track/0iKo4pNNjHHdKUcFARlfCa"
@@ -7596,7 +7596,7 @@
       ],
       "date_added": "2024-11-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
@@ -8800,7 +8800,7 @@
       ],
       "date_added": "2025-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -9130,6 +9130,24 @@
       "duration_ms": 278014,
       "name": "Like Him (feat. Lola Young)",
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
+    },
+    {
+      "album": {
+        "name": "LIKE ME",
+        "url": "https://open.spotify.com/album/70DaRkWZeZJelLPwKOvVef"
+      },
+      "artists": [
+        {
+          "name": "MGEE",
+          "url": "https://open.spotify.com/artist/2ne0JU8F28S7nw9mmb7KOC"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143811,
+      "name": "LIKE ME",
+      "url": "https://open.spotify.com/track/6BuB8dzxIclK31T7z2ppLg"
     },
     {
       "album": {
@@ -11382,7 +11400,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 110005,
       "name": "New Jeans - Jersey Club - Slowed Down",
       "url": "https://open.spotify.com/track/01KwChscJRBSfNDiZbzet5"
@@ -12361,6 +12379,24 @@
     },
     {
       "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2024-12-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -12809,24 +12845,6 @@
     },
     {
       "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "date_added": "2024-12-24",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 149440,
-      "name": "PORNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
-    },
-    {
-      "album": {
         "name": "PORSCHE",
         "url": "https://open.spotify.com/album/6lmp6mLKJkcj0bC4WJDADZ"
       },
@@ -12932,7 +12950,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 153999,
       "name": "PSYCHO",
       "url": "https://open.spotify.com/track/7eLW4rL7saxNtZ640Na7vM"
@@ -13190,7 +13208,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 202415,
       "name": "RAZMERA",
       "url": "https://open.spotify.com/track/1wtT060YQgPDEcfNAzaTce"
@@ -19412,7 +19430,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 345812,
       "name": "Would You Fall in Love with Me Again",
       "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"
@@ -19528,6 +19546,36 @@
       "duration_ms": 193515,
       "name": "wutiwant",
       "url": "https://open.spotify.com/track/7Ff17wDVMRzK1MNDjPqdMG"
+    },
+    {
+      "album": {
+        "name": "X (feat. Maluma & Ozuna) [Remix]",
+        "url": "https://open.spotify.com/album/5VQfOfiYcDLGZo9HFW1IJM"
+      },
+      "artists": [
+        {
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Ozuna",
+          "url": "https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY"
+        }
+      ],
+      "date_added": "2025-01-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235746,
+      "name": "X (feat. Maluma & Ozuna) - Remix",
+      "url": "https://open.spotify.com/track/6JjPBQfI2Y8nIjnm65X6Pw"
     },
     {
       "album": {
@@ -22372,7 +22420,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 156367,
       "name": "\u0421\u0410\u041c\u0410",
       "url": "https://open.spotify.com/track/1uYCC3Jsee15WgmZhiTLin"

@@ -1,6 +1,6 @@
 {
   "description": "pura morra rifada. RPLK en portada.",
-  "num_followers": 10679,
+  "num_followers": 10682,
   "original_name": "Ruidosas",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
-        "name": "Azul Es Donde Siempre Estoy",
-        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
-      },
-      "artists": [
-        {
-          "name": "Clara Cava",
-          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Protagonista",
-      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
         "name": "Aqui",
         "url": "https://open.spotify.com/album/02FnxsRIsjpfiRxv5PCpNJ"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 198560,
       "name": "De Mis Pasos",
       "url": "https://open.spotify.com/track/2meVfM6TuffeHGh8SuHShQ"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
+        "name": "Azul Es Donde Siempre Estoy",
+        "url": "https://open.spotify.com/album/77Vk3uswiePwToPS6yUz1M"
+      },
+      "artists": [
+        {
+          "name": "Clara Cava",
+          "url": "https://open.spotify.com/artist/5bOm9wAui94GDhPOCKgmhY"
+        }
+      ],
+      "duration_ms": 173000,
+      "name": "Protagonista",
+      "url": "https://open.spotify.com/track/4Aoz42A3p0N9fReZrIezJ5"
     },
     {
       "added_at": "2024-06-07 12:38:26",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2024-06-07 12:38:26",
       "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
+      },
+      "artists": [
+        {
+          "name": "Valentina Moretti",
+          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
+    },
+    {
+      "added_at": "2024-06-07 12:38:26",
+      "album": {
         "name": "Te mereces un amor",
         "url": "https://open.spotify.com/album/4pZWUWPYGu8tglUI2e8pVF"
       },
@@ -1295,22 +1311,6 @@
       "duration_ms": 242666,
       "name": "Un d\u00eda nos vamos a morir",
       "url": "https://open.spotify.com/track/5X5Xsye9sVzAR41FAF0IUi"
-    },
-    {
-      "added_at": "2024-06-07 12:38:26",
-      "album": {
-        "name": "Quiero",
-        "url": "https://open.spotify.com/album/1GYAiTrFqi5raLcCxP6A6x"
-      },
-      "artists": [
-        {
-          "name": "Valentina Moretti",
-          "url": "https://open.spotify.com/artist/1smi39GfJBKzbFCPwogmRS"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Quiero",
-      "url": "https://open.spotify.com/track/1xklTrnCEhu2E4I3xLaGLf"
     },
     {
       "added_at": "2024-06-07 12:38:26",

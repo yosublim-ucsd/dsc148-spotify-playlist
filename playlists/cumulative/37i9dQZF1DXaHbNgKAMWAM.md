@@ -4,7 +4,7 @@
 
 > 연인에게 전하는 노랫말과 달달한 시간을 함께하세요.
 
-268 songs - 15 hr 55 min
+269 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -195,6 +195,7 @@
 | [Stand by you](https://open.spotify.com/track/10U69KqbjO3IuQ375CoYZ8) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [HJZM : The Butterfly Phantasy](https://open.spotify.com/album/7kSTVSMfL0zGGylNn0vgdo) | 4:21 | 2022-05-11 | 2022-07-28 |
 | [STAR](https://open.spotify.com/track/0DZ2mMWPkgDwWBnH6gtsQW) | [STAYC](https://open.spotify.com/artist/01XYiBYaoMJcNhPokrg0l0) | [Our Blues, Pt\. 8 \(Original Television Soundtrack\)](https://open.spotify.com/album/7HGYMEqDL4pBarAVmpQDho) | 4:17 | 2022-06-09 |  |
 | [Stay](https://open.spotify.com/track/4XWyhO9TJeXdmyhRdbGPfI) | [Dept](https://open.spotify.com/artist/48JtfAggQQpfUXQNxkGm5U), [amin](https://open.spotify.com/artist/05FbaV2QkbVQoHri4l491N) | [Love Has a Limit](https://open.spotify.com/album/3OG247ZpvgEx93sC5Szv7d) | 2:41 | 2022-05-11 | 2022-07-25 |
+| [Stay \(Feat\. Youlakk\)](https://open.spotify.com/track/1YYAvzoS8YUOL6w1zG4WON) | [Grass](https://open.spotify.com/artist/3IAV4UlkGi0MzK0rEijrHi), [여락이들](https://open.spotify.com/artist/2dhRTTYuLyLZUsexxAMwkU) | [Stay \(Feat\. Youlakk\)](https://open.spotify.com/album/5Htbkxi0DYn6ovXPOiRTdd) | 3:28 | 2024-10-27 |  |
 | [Stay with Me](https://open.spotify.com/track/60VIk0jMDirLYcetygYrmE) | [Aden](https://open.spotify.com/artist/4UDCQ7Ef3OTa8jd1SzXIsv), [Woo Rim Jeun](https://open.spotify.com/artist/1rJEZ3DgRS9PYsgciJPHKr) | [Stay with Me](https://open.spotify.com/album/2oo1T8nsS5wCD3tE3Ieq1L) | 2:26 | 2022-05-11 | 2022-06-01 |
 | [Still with you](https://open.spotify.com/track/4qL1uZDOmVW5sgXi1IAOic) | [SU A](https://open.spotify.com/artist/72XqIIqjxuftxq8x5l0V9Y) | [Minamdang \(Original Television Soundtrack, Pt\. 7\)](https://open.spotify.com/album/2GIuXzkq4ta6ymxiFQuLgv) | 3:06 | 2022-08-19 | 2022-11-20 |
 | [Sugardance](https://open.spotify.com/track/3yq1iV9RwejrwebPyWnh6B) | [Milena](https://open.spotify.com/artist/6hm6cRg1O2MWOhXX61jA2w) | [Sweeet](https://open.spotify.com/album/7Io0qmAUvOmpo6pVGSFiIl) | 2:57 | 2024-03-08 | 2024-10-28 |
@@ -219,7 +220,7 @@
 | [The Best Present \(Prod\. by PSY\)](https://open.spotify.com/track/12nafIbZ2LAVfht3WMy33b) | [Rain](https://open.spotify.com/artist/5L4EafeXwZ0stGuPtGr5Tz) | [The Best Present](https://open.spotify.com/album/5IhMtglLwKtJWeHCz4KcA4) | 3:59 | 2022-05-11 | 2022-07-21 |
 | [The chair](https://open.spotify.com/track/2MXwcdPjTG3CE4NcQIOQgt) | [Ku One Chan](https://open.spotify.com/artist/6ClAFFqc8VEOKSGTrvy8V5) | [Object](https://open.spotify.com/album/5ax2uYwKJV6BG3JaHAt2kq) | 3:53 | 2023-02-03 | 2023-03-18 |
 | [The Film](https://open.spotify.com/track/4KYzR5AKCyoargIQFOYWxZ) | [J\_ust](https://open.spotify.com/artist/6Jj218qsLCZlYHwRGbXEGZ) | [The Film](https://open.spotify.com/album/5C43D5TjB15GoKHogFTNEq) | 3:16 | 2023-05-02 | 2024-09-13 |
-| [The Love](https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Love](https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW) | 3:30 | 2022-08-12 |  |
+| [The Love](https://open.spotify.com/track/6XTTvNy1FG2kqTkTf41lTF) | [Punch](https://open.spotify.com/artist/2FgZrgTMX6Sk0VNcOsEPmm) | [The Love](https://open.spotify.com/album/1retTjvT8CC2hzab0L2crW) | 3:30 | 2022-08-12 | 2025-01-19 |
 | [THE MIRACLE](https://open.spotify.com/track/3FGhoG7s17n1VfDZfCFLQp) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Reborn Rich OST Part\. 6 \(Soundtrack\)](https://open.spotify.com/album/3YinMIPjIc3hIdxsG9dZv6) | 4:17 | 2022-12-26 | 2023-03-13 |
 | [The Night](https://open.spotify.com/track/07VDPJCVaA5CNHpZZRzqje) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter, Pt\. 4 \(Original Television Soundtrack\)](https://open.spotify.com/album/2N7EdpdneMgsdOyqPQwTFZ) | 3:41 | 2022-07-08 | 2024-04-19 |
 | [The Night](https://open.spotify.com/track/4J9rYQeCN7kNDlaAKLWmQ8) | [Eric Nam](https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM) | [Encounter \(Original Television Soundtrack\), Pt\. 4](https://open.spotify.com/album/4OPs1ewSg1KJOFzeMNKllB) | 3:41 | 2022-05-11 | 2022-07-29 |

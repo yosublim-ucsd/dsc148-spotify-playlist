@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. 🐶 Kannessa One Morning Left.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,195 likes - 91 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,199 likes - 91 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Puppy](https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Puppy](https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV) | 2:40 |
 | 2 | [THE RECKONING](https://open.spotify.com/track/5w3sr7Zq8ad9b8l47n5F9Y) | [Daughtry](https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot) | [THE RECKONING](https://open.spotify.com/album/17ZT5G9PwwvoVCe9N5pzh2) | 2:59 |
 | 3 | [Beneath The Dark Waters](https://open.spotify.com/track/13kWbHrPMTukglznUzvsrI) | [Horizon Ignited](https://open.spotify.com/artist/6ckq60ZYOQgb3qpcBIWt1E) | [Beneath The Dark Waters](https://open.spotify.com/album/1JUCESIKfgBxI8tpe6z3HJ) | 4:15 |
-| 4 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 |
-| 5 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
+| 4 | [Faster](https://open.spotify.com/track/4XBtYPGMAYJkuJu2w4pmYl) | [Within Temptation](https://open.spotify.com/artist/3hE8S8ohRErocpkY7uJW4a) | [The Unforgiving](https://open.spotify.com/album/1EvpTfBqlDzPwDYzWTgTw3) | 4:23 |
+| 5 | [Boulevard of Broken Dreams](https://open.spotify.com/track/1hwJKpe0BPUsq6UUrwBWTw) | [Green Day](https://open.spotify.com/artist/7oPftvlwr6VrsViSDV7fJY) | [Boulevard of Broken Dreams](https://open.spotify.com/album/2sIWM1FzNqLCccNwXuC4SA) | 4:21 |
 | 6 | [The End](https://open.spotify.com/track/6hbAVcAB0mQVXMPubZnwuL) | [Five Finger Death Punch](https://open.spotify.com/artist/5t28BP42x2axFnqOOMg3CM) | [AfterLife](https://open.spotify.com/album/2xO5zlCGNyap7Jx1ED3HgG) | 3:43 |
 | 7 | [Little Lies](https://open.spotify.com/track/4NDVw6qwhHOQYcP8pEeMZU) | [Living in Fiction](https://open.spotify.com/artist/1AQHAqCjfAC3iitV5bd3ET) | [Little Lies](https://open.spotify.com/album/7drCN98XWUvoSY6PtIBf3O) | 3:36 |
 | 8 | [Taivas](https://open.spotify.com/track/4zBuget6g86I99WgsuFYwe) | [Stam1na](https://open.spotify.com/artist/41nB823nb3wxEI25UeGHqG) | [X](https://open.spotify.com/album/3PXcjRSf1M1xyf2410HJn8) | 4:38 |
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 | 90 | [Outcome](https://open.spotify.com/track/1T68xySFdNYYCjX9S0XtBa) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6), [Smash Into Pieces](https://open.spotify.com/artist/2vhrwzjf9H3icunkVFi9tq), [Samuel Ericsson](https://open.spotify.com/artist/6atTe9Lf4xvmWJ3ZdG4A4L) | [The Affliction](https://open.spotify.com/album/3OPfTGs6dit3vywqCGpGHQ) | 3:25 |
 | 91 | [Sharp Dressed Man \- 2008 Remaster](https://open.spotify.com/track/1UBQ5GK8JaQjm5VbkBZY66) | [ZZ Top](https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN) | [Eliminator](https://open.spotify.com/album/5LMGAYhn2ywaxGZdtmXGpw) | 4:18 |
 
-Snapshot ID: `Z4mBoAAAAADpH1gCa1PPpaa+lNigWZ17`
+Snapshot ID: `Z4wAhAAAAABCLtTJnF7K/TlFAhJdvMGs`

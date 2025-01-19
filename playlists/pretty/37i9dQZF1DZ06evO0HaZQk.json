@@ -1,12 +1,12 @@
 {
   "description": "This is Natalia Lafourcade. The essential tracks, all in one playlist.",
-  "num_followers": 507336,
+  "num_followers": 507443,
   "original_name": "This Is Natalia Lafourcade",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAACjD7PwYh8+B8fESc5vURm9",
+  "snapshot_id": "Z4mdgAAAAABo9jhVYMd5CjVntisAh4LO",
   "tracks": [
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jet Love",
-        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
-      },
-      "artists": [
-        {
-          "name": "Conociendo Rusia",
-          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 203193,
-      "name": "Cinco Horas Menos",
-      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "De Todas las Flores",
         "url": "https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81"
       },
@@ -319,6 +299,26 @@
       "duration_ms": 267200,
       "name": "Mamita (feat. Natalia Lafourcade)",
       "url": "https://open.spotify.com/track/4YU0xHroexMt4ohhPVbKla"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jet Love",
+        "url": "https://open.spotify.com/album/7hPfPQgLWyKGnCiY6oqOaZ"
+      },
+      "artists": [
+        {
+          "name": "Conociendo Rusia",
+          "url": "https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 203193,
+      "name": "Cinco Horas Menos",
+      "url": "https://open.spotify.com/track/6Uu4Jpk4Qc8iFA4APbB2aM"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
-        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
-      },
-      "artists": [
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        },
-        {
-          "name": "Los Macorinos",
-          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
-        }
-      ],
-      "duration_ms": 198653,
-      "name": "Luz de Luna (feat. Los Macorinos)",
-      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Los Amigos Invisibles, Ac\u00fastico",
         "url": "https://open.spotify.com/album/0Q9wBe7VRzVzfZDw0oTZhG"
       },
@@ -939,22 +919,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "T\u00fa Ve",
-        "url": "https://open.spotify.com/album/4KSwWkeERQnwgucugHziPV"
+        "name": "Musas (Un Homenaje al Folclore Latinoamericano en Manos de Los Macorinos), Vol. 2",
+        "url": "https://open.spotify.com/album/7JbbUP152jaRbhQ7CJ1DOy"
       },
       "artists": [
         {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        },
+        {
+          "name": "Los Macorinos",
+          "url": "https://open.spotify.com/artist/1ldFRYgmjxDrX27bIe3dWx"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Luz de Luna (feat. Los Macorinos)",
+      "url": "https://open.spotify.com/track/74dEpDBV7Lb5OJlhRPmRKw"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Universo De Ley",
+        "url": "https://open.spotify.com/album/2iLYjVwnzIN0XNrBXe2RuN"
+      },
+      "artists": [
+        {
+          "name": "Rosario",
+          "url": "https://open.spotify.com/artist/05xSLrRgGwm2nCH2SmnNMW"
         },
         {
           "name": "Natalia Lafourcade",
           "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
         }
       ],
-      "duration_ms": 238743,
-      "name": "T\u00fa Ve",
-      "url": "https://open.spotify.com/track/7pOuB6eH3MB758FlUqdcV7"
+      "duration_ms": 199990,
+      "name": "Ese Beso",
+      "url": "https://open.spotify.com/track/1IRfZJq6prpHXM3HZFejb0"
     }
   ],
   "unique_name": "This Is Natalia Lafourcade",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9IALXsyt8zk.md) - [plain]
 
 > 2024년 RADAR Korea를 빛낸 트랙들을 만나보세요! \(Cover: RIIZE\) \(Listen the highlight tracks in RADAR Korea playlist this year!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,586 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,584 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

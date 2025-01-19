@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Puros lanzamientos\. Lo nuevo de toda Iberoamérica\. Portada: Tiago PZK
 
-[Spotify](https://open.spotify.com/user/spotify) - 888,258 likes - 53 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 888,299 likes - 53 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 24 | [WHISKY A LA ROCA](https://open.spotify.com/track/3nDhIGkMvnsd8zo5u6eD05) | [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Swift 047](https://open.spotify.com/artist/2dsPXjJl58yqBAtUQmnFOb) | [WHISKY A LA ROCA](https://open.spotify.com/album/4vBWyx2dQhl4dYSpbAXSu1) | 2:39 |
 | 25 | [Mereketengue](https://open.spotify.com/track/0chbnQ9raFnyfIfVqCvQuB) | [Marcianeke](https://open.spotify.com/artist/5XQWXnMwsvuvCPMneXUbsy), [Dj Rocka](https://open.spotify.com/artist/6FZI89BrWDIRqUOW64CgNJ), [Gold Music](https://open.spotify.com/artist/6Hvn4M9HNAKXe6LshfKmze) | [Mereketengue](https://open.spotify.com/album/3IQY6wNcyH1YnIQRxUkmd2) | 1:58 |
 | 26 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 |
-| 27 | [Acabaste Conmigo](https://open.spotify.com/track/58hsUyQmJEsymvIbaRUYOK) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Elder Dayán](https://open.spotify.com/artist/3Ec9BqAAkj9rmE6j9vuVbt) | [Acabaste Conmigo](https://open.spotify.com/album/2ZtG6NWNqfrPEX4GbHzSl4) | 3:37 |
+| 27 | [Acabaste Conmigo](https://open.spotify.com/track/58hsUyQmJEsymvIbaRUYOK) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe), [Elder Dayán Díaz](https://open.spotify.com/artist/0w8jfjckFjwtKLRkX9NT2K) | [Acabaste Conmigo](https://open.spotify.com/album/2ZtG6NWNqfrPEX4GbHzSl4) | 3:37 |
 | 28 | [PERSONALIDAD](https://open.spotify.com/track/7kigxgXiLVSltwiymkS37Q) | [Jere Klein](https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9), [Kidd Voodoo](https://open.spotify.com/artist/10VBp06W8NIgMW4JruLCC4), [Valdi](https://open.spotify.com/artist/1zGUwbcyzOe61rhv9mLQSK), [Distobal](https://open.spotify.com/artist/2fbx2ZUJ47fJKCT3RKDEWD), [Mateo on the Beatz](https://open.spotify.com/artist/07WSqyexqFJM0ZeQVPqJJg) | [PERSONALIDAD](https://open.spotify.com/album/29W6dLgJM0obeKhLQgIofr) | 2:21 |
 | 29 | [Almohada](https://open.spotify.com/track/1SafimM2YckVTFkHYWrsty) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [El Metaliko](https://open.spotify.com/artist/7omz6u7o8LnQ1r5uwL4DNA) | [Almohada](https://open.spotify.com/album/5GQyDNIUGwUOg0p5YwIWyD) | 3:12 |
 | 30 | [La Bomba \- Mr\. Pauer Remix Original](https://open.spotify.com/track/0bfvwaqeQrk39mY7o7XEBT) | [Azul Azul](https://open.spotify.com/artist/0SWtMcmZLgP04Kj5x0eCxa), [Mr\. Pauer](https://open.spotify.com/artist/0yYKXWJ4TLMKfx4UugL8dJ) | [La Bomba \(Mr\. Pauer Remix Original\)](https://open.spotify.com/album/5hwn6ZlFtnqo9P4PNdYedl) | 2:33 |

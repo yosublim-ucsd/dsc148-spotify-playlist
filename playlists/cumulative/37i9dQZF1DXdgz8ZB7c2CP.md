@@ -4,7 +4,7 @@
 
 > A sprinkle of bass, warm vocal drizzle, and dreamy <a href="spotify:genre:edm\_dance">dance music</a>, featuring Killen.
 
-924 songs - 2 day 3 hr 3 min
+925 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [ONANON](https://open.spotify.com/track/5Byvs8uIVgPZVQN3Pw7UgL) | [Killen.](https://open.spotify.com/artist/0faVSLrVTvEXkpSVBUQ3Wt) | [ONANON](https://open.spotify.com/album/5u25vyvBp9WqntAHMqGwPP) | 3:15 | 2025-01-02 |  |
 | [one good reason](https://open.spotify.com/track/28m6u1EywxomZiKMGhfL9x) | [Howlan](https://open.spotify.com/artist/0ZmunMZUP2AH3nPuoNRILY) | [one good reason](https://open.spotify.com/album/6i5est68crDfNVDSAw7nZs) | 3:10 | 2024-06-20 | 2024-07-27 |
 | [One More Night](https://open.spotify.com/track/7cR4WZEjKT9PU2heOK8cnx) | [KUČKA](https://open.spotify.com/artist/6JcD2YKEhgimweLpUI0NEw), [Flume](https://open.spotify.com/artist/6nxWCVXbOlEVRexSbLsTer) | [One More Night](https://open.spotify.com/album/5pxTLRkOvxwalmPF2xxdng) | 2:44 | 2024-02-16 | 2024-08-09 |
+| [One Of These Mornings](https://open.spotify.com/track/0vsxMd5M3FtFEgPg94uX8z) | [Zeds Dead](https://open.spotify.com/artist/67qogtRNI0GjUr8PlaG6Zh) | [One Of These Mornings](https://open.spotify.com/album/7kvQPoyI6WuY4lAesXxcdS) | 3:11 | 2025-01-16 |  |
 | [only way out](https://open.spotify.com/track/1JZK4g9p89N6sACbG6V0a8) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [only way out](https://open.spotify.com/album/76WZMVMTs8HmJgNVYmFUWm) | 3:52 | 2021-08-06 | 2022-07-29 |
 | [Open Blinds](https://open.spotify.com/track/0cR04cbujsPTTyKUazySY0) | [DROELOE](https://open.spotify.com/artist/0u18Cq5stIQLUoIaULzDmA) | [Open Blinds](https://open.spotify.com/album/1FjlCRtCcyuwWfGf7ZJLgs) | 4:15 | 2021-08-06 | 2023-05-13 |
 | [Open Spaces](https://open.spotify.com/track/2TXNzTUp1KMUMD7pYMWkCY) | [Just A Gent](https://open.spotify.com/artist/1kwGj7uDO5WXVXtQLvGJr0), [Nevve](https://open.spotify.com/artist/3RTklnRcfHgkQJwFpgOq3t) | [Open Spaces](https://open.spotify.com/album/7mBvMl2VpFS77P9nfY3gUt) | 3:26 | 2021-08-06 | 2023-05-13 |
@@ -888,7 +889,7 @@
 | [waves](https://open.spotify.com/track/2Prh6y8sogVP04PjwPI0To) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [waves](https://open.spotify.com/album/7ko2pVfTdGboSqs5EtktDS) | 3:18 | 2021-10-29 | 2022-07-26 |
 | [Waves](https://open.spotify.com/track/7DjdQgWuOECvAc1d7MRh8O) | [Kidswaste](https://open.spotify.com/artist/4aCkc4HrwC4Dopig7RELoH) | [Waves](https://open.spotify.com/album/4T3NGJe2sLSEoV9DiU5iOM) | 3:03 | 2022-05-13 | 2023-05-13 |
 | [Wavy](https://open.spotify.com/track/1g2q4DStDT1N6LRRUX0o6e) | [Mazde](https://open.spotify.com/artist/60ELFqAhwT7jwRKJV6Rgfx), [Flowdan](https://open.spotify.com/artist/07CimrZi5vs9iEao47TNQ4) | [Wavy](https://open.spotify.com/album/07jas6TsfQ7q9eiB4GtxqI) | 3:14 | 2023-08-17 | 2023-12-17 |
-| [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-20 |  |
+| [We Are Making Out](https://open.spotify.com/track/2edyh4YVEmmyvv8BosK5rw) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [We Are Making Out](https://open.spotify.com/album/04S5Dt209BG3Gzci4HdrFs) | 2:50 | 2024-06-20 | 2025-01-19 |
 | [We Got This](https://open.spotify.com/track/3t0ZToA8zfqVD2vDIbmiKm) | [⌭ IceMorph ⌬](https://open.spotify.com/artist/5L1J00k5wzxqYK5u2ieZ2z) | [We Got This](https://open.spotify.com/album/6cOUXAvS2le4C9kJclZwTe) | 4:00 | 2024-05-16 | 2024-06-07 |
 | [We Will Meet Again](https://open.spotify.com/track/6VpRQDOM7nQ6viuVUSXWGn) | [San Holo](https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo), [Jai Wolf](https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw) | [We Will Meet Again](https://open.spotify.com/album/5Pz41jv4xOHJzn93rhHWle) | 3:21 | 2022-06-03 | 2023-05-13 |
 | [We're Fine](https://open.spotify.com/track/7bxeNP77YS2eeamGdzmLiA) | [Cozmoe](https://open.spotify.com/artist/2krDA9qCEfYKl4QjZcruhy) | [We're Fine](https://open.spotify.com/album/3shsnHsWg2aeVluxVeKR7O) | 3:21 | 2023-05-12 | 2023-05-20 |

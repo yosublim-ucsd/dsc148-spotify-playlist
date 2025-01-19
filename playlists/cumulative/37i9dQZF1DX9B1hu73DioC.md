@@ -4,7 +4,7 @@
 
 > put it on and let it play.
 
-863 songs - 2 day 3 hr 14 min
+865 songs - 2 day 3 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -380,7 +380,7 @@
 | [Human Shape](https://open.spotify.com/track/6bUchdGcZj2k1iLjTHm6kR) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn) | [DREAM SOUP](https://open.spotify.com/album/4rDFEnOjCq5M7JGCd2KIPP) | 3:26 | 2022-06-01 | 2022-07-29 |
 | [I Can Dream](https://open.spotify.com/track/4T0V5H3xvsPtc8L7Gt0U3b) | [Luke Temple](https://open.spotify.com/artist/6MUv39LOn5bz2QW4SBKE85) | [I Can Dream](https://open.spotify.com/album/1FXJHXlWYHfQW3Iv5pA8l0) | 4:37 | 2024-06-17 | 2024-10-04 |
 | [I Can't Speak](https://open.spotify.com/track/2DX5gNbz6dPpv9UJpFgHRh) | [La Luz](https://open.spotify.com/artist/6QRlkjrHz5A62mqeNZz7t3) | [Weirdo Shrine](https://open.spotify.com/album/6q4OSe8nsfQ6eHYETx7yis) | 3:03 | 2020-10-05\* | 2022-04-17 |
-| [I Can’t Even Cry](https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Can’t Even Cry](https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb) | 3:41 | 2024-08-16 |  |
+| [I Can’t Even Cry](https://open.spotify.com/track/2knRILXCUzgUfP10oxsgk3) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [I Can’t Even Cry](https://open.spotify.com/album/26k2vkmqtFn6hQtnWO2lSb) | 3:41 | 2024-08-16 | 2025-01-19 |
 | [I Don't Know](https://open.spotify.com/track/56PgQIFxAvXcEtXNYrsB0w) | [Sjowgren](https://open.spotify.com/artist/32Ko3nL0210QAt14S3Rs4Y) | [I Don't Know](https://open.spotify.com/album/0C0Oq2jJhJ4Rs6IwgCe0Ob) | 3:15 | 2020-10-05\* | 2022-11-11 |
 | [I Dreamt We Spoke Again](https://open.spotify.com/track/0AHOqF7FKuOR7rSUIMQkWr) | [Death Cab for Cutie](https://open.spotify.com/artist/0YrtvWJMgSdVrk3SfNjTbx) | [I Dreamt We Spoke Again](https://open.spotify.com/album/3NggszD6AO6baGJUz131Nr) | 3:04 | 2020-10-05\* | 2021-05-24 |
 | [i haunt ur dreams](https://open.spotify.com/track/7jBAskQhyfjmbYC0o3pXdW) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [i haunt ur dreams](https://open.spotify.com/album/2MoArCdFeYXB456NLYXbPi) | 3:36 | 2023-03-10 | 2023-09-16 |
@@ -565,7 +565,7 @@
 | [Nothing's Gonna Hurt You Baby](https://open.spotify.com/track/7cs7MLtAWvsdf3w5kBvfK2) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [I.](https://open.spotify.com/album/12UGkXT4z3ajgq6xheCGDk) | 4:46 | 2023-09-15 | 2024-04-19 |
 | [nu love](https://open.spotify.com/track/65ateMRfXeMudz8VLmUrir) | [Kirnbauer](https://open.spotify.com/artist/76KihzDzdR7li8RPVY50EA) | [nu love](https://open.spotify.com/album/14kHubdslzsNufp8qf7jgW) | 3:29 | 2021-05-05 | 2022-04-18 |
 | [Numb](https://open.spotify.com/track/6Ijmj8Z0L31hCp5pLZnT5U) | [Men I Trust](https://open.spotify.com/artist/3zmfs9cQwzJl575W1ZYXeT) | [Numb](https://open.spotify.com/album/1HMR6PG5Su7p0JjRws7NBb) | 3:39 | 2020-11-17 | 2022-09-30 |
-| [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 2:55 | 2023-08-11 |  |
+| [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/track/3qruUcemmywHKW2jQ7EV6J) | [Local Natives](https://open.spotify.com/artist/75dQReiBOHN37fQgWQrIAJ), [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [NYE \[Feat\. Suki Waterhouse\]](https://open.spotify.com/album/1xdMTJSRqMwXYFl580FuHP) | 2:55 | 2023-08-11 | 2025-01-19 |
 | [o shit!](https://open.spotify.com/track/0RQpg3Q0QOxp6gqDpE8uWH) | [lentra](https://open.spotify.com/artist/484bfoveqgHfx2VhNY4zzT) | [o shit!](https://open.spotify.com/album/14V0wL2inmCogS2KVsWNm2) | 2:16 | 2021-05-03 | 2022-04-14 |
 | [Obsession](https://open.spotify.com/track/0Vr11jCXTQK0tyCQcEjZhq) | [Joshoo](https://open.spotify.com/artist/7BuZYuru2eFUpXMFtkVIdx) | [Obsession](https://open.spotify.com/album/53Gj9IfS2qInEcIrmBK99s) | 3:28 | 2022-10-07 | 2022-10-15 |
 | [Occasional Stoner](https://open.spotify.com/track/43avjZf2deGDNuYnnSinij) | [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [Occasional Stoner](https://open.spotify.com/album/4chVFCoJPIHRxAz9XDozJl) | 3:03 | 2024-12-17 |  |
@@ -582,6 +582,7 @@
 | [One Last Dance](https://open.spotify.com/track/0MzrzzeC7IvFk1J9DFdu4d) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [One Last Dance](https://open.spotify.com/album/4jkz8mydS7s16NGGaBdQTe) | 3:28 | 2024-03-15 | 2024-07-06 |
 | [One Night with The Valet](https://open.spotify.com/track/3idyjPuEkDzVSFrA9A8Nh5) | [Tennis](https://open.spotify.com/artist/1ybAN3utgdoUL1MUCtH4QM) | [One Night with The Valet](https://open.spotify.com/album/0fBTCN3D6Aoh3lhntAV4Jh) | 1:53 | 2022-11-18 | 2023-03-01 |
 | [One Trick Ponies](https://open.spotify.com/track/3NARYtRUkQEU6KCd9OgEfq) | [Kurt Vile](https://open.spotify.com/artist/5gspAQIAH8nJUrMYgXjCJ2) | [Bottle It In](https://open.spotify.com/album/7lXj7neMWuwD4PTYkaToes) | 5:21 | 2020-10-06 | 2022-04-20 |
+| [One Way Ticket](https://open.spotify.com/track/23bXqg4y1R7VRzpY1x7xNX) | [Biig Piig](https://open.spotify.com/artist/4GoD5FJCgC0lbzde7ly44M) | [One Way Ticket](https://open.spotify.com/album/7wVHIyCRRLri9u5ksWP5iq) | 2:47 | 2025-01-17 |  |
 | [Only You](https://open.spotify.com/track/3NcGNpeJ3rouV7fQ3dtv04) | [Steve Monite](https://open.spotify.com/artist/0EEHriKw0Gzrmb2ZII2apY) | [Doing It in Lagos: Boogie, Pop & Disco in 1980's Nigeria](https://open.spotify.com/album/2kEqaFXOjqbwd6nKci9pEX) | 6:21 | 2020-10-21 | 2022-04-12 |
 | [Only You Know](https://open.spotify.com/track/1pCHi3zHca7jgR27Sfu7L8) | [Beach House](https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY) | [Once Twice Melody](https://open.spotify.com/album/6hALRlahIPURVmo93pN9Qx) | 4:49 | 2022-03-07 | 2022-07-27 |
 | [Open](https://open.spotify.com/track/3JsA2sWDNR9oQogGAzqqtH) | [Rhye](https://open.spotify.com/artist/2AcUPzkVWo81vumdzeLLRN) | [Woman](https://open.spotify.com/album/6b1HPtDuYioXwmw5xLLFQ9) | 3:37 | 2020-10-16 | 2022-09-30 |
@@ -800,6 +801,7 @@
 | [Track](https://open.spotify.com/track/3lmiUjD283FiDGWB6LHAkr) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Moveys](https://open.spotify.com/album/3RVAiBjIsu9OSYPWo6dcDq) | 3:34 | 2021-04-05 | 2022-04-18 |
 | [Tres Hermanos](https://open.spotify.com/track/4TesXLELrAp8TPGHckP6Ap) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV), [Dan Auerbach](https://open.spotify.com/artist/6YWdHD3R863Apw1hkx3BwC) | [El Bueno Y El Malo](https://open.spotify.com/album/2kfqCsmR9Uw43ruDP2hjPZ) | 3:21 | 2023-02-15 | 2024-04-06 |
 | [Trouble](https://open.spotify.com/track/62UQj5LkqTpNaXqpY4i0Io) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Friends](https://open.spotify.com/album/3yuV4GeplvzBIiYGhQp2nd) | 3:23 | 2020-10-05\* | 2022-04-21 |
+| [Trouble](https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Trouble](https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD) | 5:00 | 2025-01-17 |  |
 | [trouble](https://open.spotify.com/track/4tRUbPTB8CpQqPPW4zVs1P) | [Zach Templar](https://open.spotify.com/artist/5YgOA27qcu8nSl1lp5ektj) | [trouble](https://open.spotify.com/album/2iEZpstaXItfUJTlaXTWNE) | 3:08 | 2024-03-05 | 2024-04-27 |
 | [True Blue Interlude](https://open.spotify.com/track/6U7YaQrDz6GyxcgHotcfoM) | [Magdalena Bay](https://open.spotify.com/artist/1oPRcJUkloHaRLYx0olBLJ) | [Imaginal Disk](https://open.spotify.com/album/4HTy9WFTYooRjE9giTmzAF) | 1:49 | 2024-11-15 |  |
 | [Truly Madly Deeply \- Recorded at Spotify Studios NYC](https://open.spotify.com/track/0ApIlfcdY0hVdVEVUyS2Zf) | [Yoke Lore](https://open.spotify.com/artist/7FU0xCgmSYQEiBeevUqQ4S) | [Spotify Singles](https://open.spotify.com/album/4yLdDDVmXRbB5q2hFGac4t) | 3:10 | 2022-07-25 | 2023-03-18 |

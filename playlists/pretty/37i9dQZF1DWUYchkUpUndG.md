@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUYchkUpUndG.md) - [plain]
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=oY4Z3lDxRSOPcOAzPqMYPg>Onos</a> and <a href=https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4?si=qE5TAGjeSHSZ\_vDci9s4TA>Seph Schulueter</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,317 likes - 70 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,326 likes - 70 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1193,6 +1193,42 @@
     },
     {
       "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/1ozQDYIyCeM7YKhHotVdny"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/0rPHsDRiWwPfR6HG7JLj1K"
+    },
+    {
+      "album": {
+        "name": "Rushmere",
+        "url": "https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ"
+      },
+      "artists": [
+        {
+          "name": "Mumford & Sons",
+          "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192066,
+      "name": "Rushmere",
+      "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+    },
+    {
+      "album": {
         "name": "Wilder Mind",
         "url": "https://open.spotify.com/album/7LMz6ALQP2Jn9FdZmeeuiQ"
       },

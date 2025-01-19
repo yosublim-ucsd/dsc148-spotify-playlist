@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 2010s.",
-  "num_followers": 42695,
+  "num_followers": 42698,
   "original_name": "10s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -187,6 +187,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+      },
+      "artists": [
+        {
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+        }
+      ],
+      "duration_ms": 266600,
+      "name": "Little Talks",
+      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "Some Nights",
         "url": "https://open.spotify.com/album/7m7F7SQ3BXvIpvOgjW51Gp"
       },
@@ -203,22 +219,6 @@
       "duration_ms": 250626,
       "name": "We Are Young (feat. Janelle Mon\u00e1e)",
       "url": "https://open.spotify.com/track/5rgy6ghBq1eRApCkeUdJXf"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
-      },
-      "artists": [
-        {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
-        }
-      ],
-      "duration_ms": 266600,
-      "name": "Little Talks",
-      "url": "https://open.spotify.com/track/2ihCaVdNZmnHZWt0fvAM7B"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -955,18 +955,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "Life Starts Now",
-        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
+        "name": "My Head Is An Animal",
+        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
       },
       "artists": [
         {
-          "name": "Three Days Grace",
-          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
+          "name": "Of Monsters and Men",
+          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
         }
       ],
-      "duration_ms": 173173,
-      "name": "The Good Life",
-      "url": "https://open.spotify.com/track/55KYlnsC6nYnr3IykbmJwE"
+      "duration_ms": 211453,
+      "name": "Mountain Sound",
+      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -987,18 +987,18 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
-        "name": "My Head Is An Animal",
-        "url": "https://open.spotify.com/album/4p9dVvZDaZliSjTCbFRhJy"
+        "name": "Life Starts Now",
+        "url": "https://open.spotify.com/album/0vv1zKShlm7WuawEup5Mf4"
       },
       "artists": [
         {
-          "name": "Of Monsters and Men",
-          "url": "https://open.spotify.com/artist/4dwdTW1Lfiq0cM8nBAqIIz"
+          "name": "Three Days Grace",
+          "url": "https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj"
         }
       ],
-      "duration_ms": 211453,
-      "name": "Mountain Sound",
-      "url": "https://open.spotify.com/track/3SPVZJzf1Hs30rB6yXVf2y"
+      "duration_ms": 173173,
+      "name": "The Good Life",
+      "url": "https://open.spotify.com/track/55KYlnsC6nYnr3IykbmJwE"
     },
     {
       "added_at": "2024-07-12 15:00:09",
@@ -1115,6 +1115,22 @@
     {
       "added_at": "2024-07-12 15:00:09",
       "album": {
+        "name": "Asylum (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 204826,
+      "name": "Warrior",
+      "url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00"
+    },
+    {
+      "added_at": "2024-07-12 15:00:09",
+      "album": {
         "name": "North (Deluxe Edition)",
         "url": "https://open.spotify.com/album/3JdxPzUYUcVeRgfdOGXZLC"
       },
@@ -1143,22 +1159,6 @@
       "duration_ms": 268600,
       "name": "This Life",
       "url": "https://open.spotify.com/track/4dRqYKhLVujxiBXcq50YzG"
-    },
-    {
-      "added_at": "2024-07-12 15:00:09",
-      "album": {
-        "name": "Asylum (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/23Kf2cl3kz7pFNKhl4iMp9"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 204826,
-      "name": "Warrior",
-      "url": "https://open.spotify.com/track/2TNPagu8Z4zvDOpmnktF00"
     },
     {
       "added_at": "2024-07-12 15:00:09",

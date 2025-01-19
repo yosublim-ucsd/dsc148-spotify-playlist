@@ -1,6 +1,6 @@
 {
   "description": "Celebrating Haitian music. Cover: Rutshelle, John Legend and Micha\u00ebl Brun",
-  "num_followers": 93308,
+  "num_followers": 93340,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
@@ -619,6 +619,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "Tous Ces D\u00e9tails",
+        "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
+      },
+      "artists": [
+        {
+          "name": "Durkheim",
+          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
+        }
+      ],
+      "duration_ms": 144371,
+      "name": "Aidez Moi",
+      "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Clueless (with Oxlade)",
         "url": "https://open.spotify.com/album/5uwXfCyZk7F60Eq0CtrD54"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 164705,
       "name": "Clueless (with Oxlade)",
       "url": "https://open.spotify.com/track/7E8Dy2nkCyVShfROcpxsMg"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "Tous Ces D\u00e9tails",
-        "url": "https://open.spotify.com/album/7KccjirryUiEPD35fR9VtZ"
-      },
-      "artists": [
-        {
-          "name": "Durkheim",
-          "url": "https://open.spotify.com/artist/28GKrByz3DusRJbZY9dpn0"
-        }
-      ],
-      "duration_ms": 144371,
-      "name": "Aidez Moi",
-      "url": "https://open.spotify.com/track/66ZNWVuuumYbNegMgBTmfI"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -775,42 +775,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Ti Sesi Ti Sela",
-        "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
-      },
-      "artists": [
-        {
-          "name": "BMIXX",
-          "url": "https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM"
-        },
-        {
-          "name": "Afriken An",
-          "url": "https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4"
-        }
-      ],
-      "duration_ms": 173113,
-      "name": "Ti Sesi Ti Sela",
-      "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
-        "name": "K\u00e8 m Nan Men w",
-        "url": "https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76"
-      },
-      "artists": [
-        {
-          "name": "Rutshelle Guillaume",
-          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
-        }
-      ],
-      "duration_ms": 275797,
-      "name": "K\u00e8 m Nan Men w",
-      "url": "https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Chante ap ret chante",
         "url": "https://open.spotify.com/album/5W63l4Gttowqd29x5EnHM7"
       },
@@ -831,6 +795,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
+        "name": "K\u00e8 m Nan Men w",
+        "url": "https://open.spotify.com/album/0MZfhWvePxkfAXl1JmlC76"
+      },
+      "artists": [
+        {
+          "name": "Rutshelle Guillaume",
+          "url": "https://open.spotify.com/artist/6LUu9GMlm6tW5m2Ox34pzk"
+        }
+      ],
+      "duration_ms": 275797,
+      "name": "K\u00e8 m Nan Men w",
+      "url": "https://open.spotify.com/track/1tPhjL2a68EuAchJiG7zwJ"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
         "name": "Mal",
         "url": "https://open.spotify.com/album/5kPcG2Ust8TEPQ56RVJuS4"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 258790,
       "name": "Mal",
       "url": "https://open.spotify.com/track/1FaEZe9E5eRYbpmwBDnYYK"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Ti Sesi Ti Sela",
+        "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
+      },
+      "artists": [
+        {
+          "name": "BMIXX",
+          "url": "https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM"
+        },
+        {
+          "name": "Afriken An",
+          "url": "https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4"
+        }
+      ],
+      "duration_ms": 173113,
+      "name": "Ti Sesi Ti Sela",
+      "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -911,26 +911,6 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Podyab Yo",
-        "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
-      },
-      "artists": [
-        {
-          "name": "Blondedy Ferdinand",
-          "url": "https://open.spotify.com/artist/0cg303cCZs8xyXQJQbOVqr"
-        },
-        {
-          "name": "D-Perfect",
-          "url": "https://open.spotify.com/artist/2bTguhttdiYEA47vewTehr"
-        }
-      ],
-      "duration_ms": 319974,
-      "name": "Podyab Yo",
-      "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
-    },
-    {
-      "added_at": "2024-11-22 05:00:00",
-      "album": {
         "name": "Rap ap rete Rap",
         "url": "https://open.spotify.com/album/5U5GvGlNnV78o75CE86Vlk"
       },
@@ -955,6 +935,26 @@
       "duration_ms": 236923,
       "name": "Si Yo Vle",
       "url": "https://open.spotify.com/track/1V0BrmoNx3Dp2OjPPx3DHw"
+    },
+    {
+      "added_at": "2024-11-22 05:00:00",
+      "album": {
+        "name": "Podyab Yo",
+        "url": "https://open.spotify.com/album/2Jpm6VFzVuFBmpVspJSfva"
+      },
+      "artists": [
+        {
+          "name": "Blondedy Ferdinand",
+          "url": "https://open.spotify.com/artist/0cg303cCZs8xyXQJQbOVqr"
+        },
+        {
+          "name": "D-Perfect",
+          "url": "https://open.spotify.com/artist/2bTguhttdiYEA47vewTehr"
+        }
+      ],
+      "duration_ms": 319974,
+      "name": "Podyab Yo",
+      "url": "https://open.spotify.com/track/49NaaHGyi4uuHzZoGDYXp8"
     },
     {
       "added_at": "2024-11-22 05:00:00",
@@ -1875,22 +1875,22 @@
     {
       "added_at": "2024-11-22 05:00:00",
       "album": {
-        "name": "Flavors",
-        "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
+        "name": "Rasanbleman (Red Moon)",
+        "url": "https://open.spotify.com/album/1x2q7MNT4VcCAtYEq7sZDY"
       },
       "artists": [
         {
-          "name": "J. Sevad",
-          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
         },
         {
-          "name": "Spectrum the Originator",
-          "url": "https://open.spotify.com/artist/0XfL2K0709iL1VEEbjCIBm"
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
         }
       ],
-      "duration_ms": 166008,
-      "name": "Wine Pon Me - Remix",
-      "url": "https://open.spotify.com/track/3skgq2A1NYyrfTbpQ3YrSS"
+      "duration_ms": 400388,
+      "name": "Ayizan",
+      "url": "https://open.spotify.com/track/0teJdmvqpIy1rTbDlr8ulB"
     }
   ],
   "unique_name": "Haitian Heat",

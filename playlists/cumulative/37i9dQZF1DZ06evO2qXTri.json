@@ -1890,7 +1890,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-19",
       "duration_ms": 339733,
       "name": "Revolution",
       "url": "https://open.spotify.com/track/48LZC1RDcSX3qwSUkmqLbz"
@@ -2476,6 +2476,28 @@
       "duration_ms": 341360,
       "name": "When I Get There",
       "url": "https://open.spotify.com/track/4lZSRuTcs9ucnBDuxExFm0"
+    },
+    {
+      "album": {
+        "name": "Hero",
+        "url": "https://open.spotify.com/album/6j1ewaeiw48zvPdaC3RK7m"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        },
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276066,
+      "name": "Why (with Stevie Wonder)",
+      "url": "https://open.spotify.com/track/50zeoBIX5BQnry0yyZpeVZ"
     },
     {
       "album": {

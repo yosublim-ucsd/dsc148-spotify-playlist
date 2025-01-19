@@ -1,12 +1,12 @@
 {
   "description": "This is Los Tucanes De Tijuana. The essential tracks, all in one playlist.",
-  "num_followers": 321050,
+  "num_followers": 321126,
   "original_name": "This Is Los Tucanes De Tijuana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAAAfvSNzHQKLH3guGa5MyH7A",
+  "snapshot_id": "Z4mdgAAAAACFpjuA7wTLYY9kbO8cbmH1",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fiesta En La Sierra",
-        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 242653,
-      "name": "Fiesta En La Sierra",
-      "url": "https://open.spotify.com/track/3Fqo0aANNOCAZIzLNUkVQJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Arriba La T\u00eda, Desde Las Vegas (En Vivo)",
         "url": "https://open.spotify.com/album/3AUGAUtS6FRsbPQGRd3yDO"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 222653,
       "name": "Secuestro De Amor (En Vivo)",
       "url": "https://open.spotify.com/track/1oIgvLYxxowV3Lh4UljRGC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta En La Sierra",
+        "url": "https://open.spotify.com/album/1L6ZKKNxkl6WVIVaT4eyk9"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 242653,
+      "name": "Fiesta En La Sierra",
+      "url": "https://open.spotify.com/track/3Fqo0aANNOCAZIzLNUkVQJ"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jugo A La Vida",
-        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
-      },
-      "artists": [
-        {
-          "name": "Los Tucanes De Tijuana",
-          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
-        }
-      ],
-      "duration_ms": 224933,
-      "name": "La Chica Sexy",
-      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "14 Tucanazos Bien Pesados",
         "url": "https://open.spotify.com/album/5poff6oDNapTa60LAq46O0"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 174773,
       "name": "Suena La Banda",
       "url": "https://open.spotify.com/track/5IsIBQ58FTGKxCHOkWOqio"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jugo A La Vida",
+        "url": "https://open.spotify.com/album/5lgrTxeADbH5owlSV1tagK"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "duration_ms": 224933,
+      "name": "La Chica Sexy",
+      "url": "https://open.spotify.com/track/2kSIYlXbNK6JQ8F2n8TDLW"
     },
     {
       "added_at": null,
@@ -847,22 +847,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "El \u00c1guila Blanca",
-        "url": "https://open.spotify.com/album/5JejGcuWuFRx2SeuIIXFso"
+        "name": "Corridos Time Season Two \"Los Implacables\"",
+        "url": "https://open.spotify.com/album/2xumkDb8a5iqmPz5a0EmAh"
       },
       "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        },
         {
           "name": "Los Tucanes De Tijuana",
           "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
         }
       ],
-      "duration_ms": 135882,
-      "name": "El \u00c1guila Blanca",
-      "url": "https://open.spotify.com/track/4z7isLhEqhDj5UAhDBPLNN"
+      "duration_ms": 221493,
+      "name": "El Chavo",
+      "url": "https://open.spotify.com/track/1j8X26U42cDQpxcjCk8IiI"
     }
   ],
   "unique_name": "This Is Los Tucanes De Tijuana",
