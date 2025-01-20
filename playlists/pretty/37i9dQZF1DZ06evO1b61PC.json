@@ -1,12 +1,12 @@
 {
   "description": "This is Jai Wolf. The essential tracks, all in one playlist.",
-  "num_followers": 11128,
+  "num_followers": 11127,
   "original_name": "This Is Jai Wolf",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAABDRsAklkvq9MmVHF2RJXzR",
+  "snapshot_id": "Z4rvAAAAAACdANvOJZi6p2ouj9sSNcO9",
   "tracks": [
     {
       "added_at": null,
@@ -87,26 +87,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Look Down (feat. BANKS)",
-        "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "BANKS",
-          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
-        }
-      ],
-      "duration_ms": 205423,
-      "name": "Don't Look Down (feat. BANKS)",
-      "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Moon Rider (feat. Wrabel)",
         "url": "https://open.spotify.com/album/7BabZSvjym8he0rkorBY3v"
       },
@@ -127,6 +107,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Don't Look Down (feat. BANKS)",
+        "url": "https://open.spotify.com/album/1tBi2zMsVkQYk8VBkdCNnu"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "BANKS",
+          "url": "https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "Don't Look Down (feat. BANKS)",
+      "url": "https://open.spotify.com/track/0NUsMgXjITsbxk5WC4aleu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cure To Loneliness",
         "url": "https://open.spotify.com/album/6UbQjblPQ5McfYCNSYlknJ"
       },
@@ -139,26 +139,6 @@
       "duration_ms": 258545,
       "name": "Lose My Mind (feat. Mr Gabriel)",
       "url": "https://open.spotify.com/track/4qCGMn3A5NNy8sLzHDyCC3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Water Sign (feat. Aluna)",
-        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Water Sign (feat. Aluna)",
-      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
     },
     {
       "added_at": null,
@@ -179,6 +159,26 @@
       "duration_ms": 193984,
       "name": "When I Fall Asleep (with Jai Wolf)",
       "url": "https://open.spotify.com/track/4tAoeWXn57YwKRNgSc6cBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Water Sign (feat. Aluna)",
+        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is Nanpa B\u00e1sico. The essential tracks, all in one playlist.",
-  "num_followers": 236346,
+  "num_followers": 236422,
   "original_name": "This Is Nanpa B\u00e1sico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAAgvhdGNoP9ksiBIE9YIeN7",
+  "snapshot_id": "Z4rvAAAAAABA1z0FPY/HWDK/z1fA/4Oe",
   "tracks": [
     {
       "added_at": null,
@@ -171,30 +171,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Duelo",
-        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
+        "name": "Todav\u00eda No",
+        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
       },
       "artists": [
         {
+          "name": "Ha*Ash",
+          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
+        },
+        {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
-        },
-        {
-          "name": "GARABATTO",
-          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
-        },
-        {
-          "name": "PMP",
-          "url": "https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK"
         }
       ],
-      "duration_ms": 199757,
-      "name": "Peor Que La Polic\u00eda (feat. PMP)",
-      "url": "https://open.spotify.com/track/75ujpDovO206MUKRNHSRP6"
+      "duration_ms": 198280,
+      "name": "Todav\u00eda No",
+      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
     },
     {
       "added_at": null,
@@ -223,22 +215,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Todav\u00eda No",
-        "url": "https://open.spotify.com/album/14HRjTaQi0BJvpyYw4hW6L"
+        "name": "Duelo",
+        "url": "https://open.spotify.com/album/5lyKUk7jLN0Tue0ThuW9kl"
       },
       "artists": [
         {
-          "name": "Ha*Ash",
-          "url": "https://open.spotify.com/artist/5xd2Tg7Zo8755eCy8Gxkp8"
-        },
-        {
           "name": "Nanpa B\u00e1sico",
           "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
+        },
+        {
+          "name": "GARABATTO",
+          "url": "https://open.spotify.com/artist/6JaOGIlSvYswVLPmGUheOO"
+        },
+        {
+          "name": "PMP",
+          "url": "https://open.spotify.com/artist/5ZCfjramRRGj3D72drnyxK"
         }
       ],
-      "duration_ms": 198280,
-      "name": "Todav\u00eda No",
-      "url": "https://open.spotify.com/track/2cYqMVc4sVem0FsuwArxD2"
+      "duration_ms": 199757,
+      "name": "Peor Que La Polic\u00eda (feat. PMP)",
+      "url": "https://open.spotify.com/track/75ujpDovO206MUKRNHSRP6"
     },
     {
       "added_at": null,
@@ -607,6 +607,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mal Mal Mal",
+        "url": "https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        }
+      ],
+      "duration_ms": 228214,
+      "name": "Mal Mal Mal",
+      "url": "https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los No Tan Tristes",
         "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 229982,
       "name": "Vuelve",
       "url": "https://open.spotify.com/track/7JLsVIpyj7hLi43uHs8BFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mal Mal Mal",
-        "url": "https://open.spotify.com/album/6iB3O3TKxj76KRjhG71OXf"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        }
-      ],
-      "duration_ms": 228214,
-      "name": "Mal Mal Mal",
-      "url": "https://open.spotify.com/track/1Yrm0hOIWwZtfMf6xS3D3E"
     },
     {
       "added_at": null,
@@ -755,6 +755,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+        "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Samantha Barr\u00f3n",
+          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+        }
+      ],
+      "duration_ms": 244802,
+      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
+      "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' Que Mami No Llore",
         "url": "https://open.spotify.com/album/2jCTuHgAwxIYmBr8k5WVt8"
       },
@@ -779,22 +799,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-        "url": "https://open.spotify.com/album/1QMgEedfemVeov7BRt0UQ6"
+        "name": "Como T\u00fa Ninguna",
+        "url": "https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn"
       },
       "artists": [
         {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+          "name": "Almanegra",
+          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
         },
         {
-          "name": "Samantha Barr\u00f3n",
-          "url": "https://open.spotify.com/artist/0zfvfy9XlborSqXNRhi8Bk"
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
         }
       ],
-      "duration_ms": 244802,
-      "name": "Arregl\u00e1ndome y Da\u00f1\u00e1ndome",
-      "url": "https://open.spotify.com/track/3WU12COUqfu5nZQNSMwukB"
+      "duration_ms": 236756,
+      "name": "Como T\u00fa Ninguna",
+      "url": "https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5"
     },
     {
       "added_at": null,
@@ -815,26 +835,6 @@
       "duration_ms": 169348,
       "name": "Rebelde",
       "url": "https://open.spotify.com/track/4GBlVGqPPOQOzsy6C8D1pc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como T\u00fa Ninguna",
-        "url": "https://open.spotify.com/album/30nUAI8wWDgNjyOfHPJpRn"
-      },
-      "artists": [
-        {
-          "name": "Almanegra",
-          "url": "https://open.spotify.com/artist/3IrTSci2J1v5SbMp75mX6j"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 236756,
-      "name": "Como T\u00fa Ninguna",
-      "url": "https://open.spotify.com/track/2a3WucROZGobQgS2LvZph5"
     },
     {
       "added_at": null,

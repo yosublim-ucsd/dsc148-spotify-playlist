@@ -1,12 +1,12 @@
 {
   "description": "This is Gabriela Rocha. The essential tracks, all in one playlist.",
-  "num_followers": 265618,
+  "num_followers": 265641,
   "original_name": "This Is Gabriela Rocha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAADUGd2pOj3xxZOa4Q5Pi5nH",
+  "snapshot_id": "Z4rvAAAAAACp4KxE23x+WTOXcVVffFtA",
   "tracks": [
     {
       "added_at": null,
@@ -731,26 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        },
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 338218,
-      "name": "Believe For It",
-      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Can\u00e7\u00e3o do C\u00e9u (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KGMmd1fToQKwrpeEDMkhS"
       },
@@ -767,6 +747,26 @@
       "duration_ms": 499584,
       "name": "Can\u00e7\u00e3o do C\u00e9u - Ao vivo",
       "url": "https://open.spotify.com/track/3ZO97iaXkDq9Y7sMv0atus"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/3RB7a3IhazOJUJHPccIpQz"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        },
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 338218,
+      "name": "Believe For It",
+      "url": "https://open.spotify.com/track/4kDXqQjTLK3DJyKVh069PB"
     },
     {
       "added_at": null,

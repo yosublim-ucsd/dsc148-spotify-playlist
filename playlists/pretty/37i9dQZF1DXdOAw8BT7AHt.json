@@ -1,6 +1,6 @@
 {
   "description": "The best in modern punk rock music. Cover: Amyl & The Sniffers",
-  "num_followers": 468799,
+  "num_followers": 468838,
   "original_name": "Today's Punk",
   "owner": {
     "name": "Spotify",
@@ -311,18 +311,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Beg For More",
-        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
+        "name": "Blow It",
+        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
       },
       "artists": [
         {
-          "name": "In Her Own Words",
-          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
+          "name": "Jack Kays",
+          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
         }
       ],
-      "duration_ms": 174000,
-      "name": "Beg For More",
-      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
+      "duration_ms": 164283,
+      "name": "Blow It",
+      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -343,18 +343,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Blow It",
-        "url": "https://open.spotify.com/album/19O52p5ZCj30KUQ6rwPrpk"
+        "name": "Beg For More",
+        "url": "https://open.spotify.com/album/3TLwLUtGf6IogGrpIbip3I"
       },
       "artists": [
         {
-          "name": "Jack Kays",
-          "url": "https://open.spotify.com/artist/24qqDoA4BBXVnPOdHBjT54"
+          "name": "In Her Own Words",
+          "url": "https://open.spotify.com/artist/3NBHNlkwYabSLvnisILPSI"
         }
       ],
-      "duration_ms": 164283,
-      "name": "Blow It",
-      "url": "https://open.spotify.com/track/4uCDa4YimMEPVYux3C41Cl"
+      "duration_ms": 174000,
+      "name": "Beg For More",
+      "url": "https://open.spotify.com/track/7xrHACgTT1t3v6siiFKMqx"
     },
     {
       "added_at": "2024-11-15 10:05:02",
@@ -375,22 +375,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB"
-      },
-      "artists": [
-        {
-          "name": "Radio Free Alice",
-          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
-        }
-      ],
-      "duration_ms": 214507,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "God's Country / Body of Mine",
         "url": "https://open.spotify.com/album/630TvkzIGIJtmfd04Li7Ql"
       },
@@ -403,6 +387,22 @@
       "duration_ms": 131161,
       "name": "Body of Mine",
       "url": "https://open.spotify.com/track/18DJZuLkgGwKtSDeOMrUsB"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/6YEMTWtez77SaeIp2lxalB"
+      },
+      "artists": [
+        {
+          "name": "Radio Free Alice",
+          "url": "https://open.spotify.com/artist/4cCA6V2DRIDqeYDyGIcEoj"
+        }
+      ],
+      "duration_ms": 214507,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/3F63vPO9NcMyTB46Gtt5yj"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -473,22 +473,6 @@
       "url": "https://open.spotify.com/track/0AYOV3i35BkGFHBwZTKDl2"
     },
     {
-      "added_at": "2024-11-15 10:05:02",
-      "album": {
-        "name": "Big Dick Energy",
-        "url": "https://open.spotify.com/album/4zIY0BCNtGj3qoJnvomEDR"
-      },
-      "artists": [
-        {
-          "name": "Lambrini Girls",
-          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
-        }
-      ],
-      "duration_ms": 256799,
-      "name": "Big Dick Energy",
-      "url": "https://open.spotify.com/track/2qEUv2v5mAqUZuZeluhA3F"
-    },
-    {
       "added_at": "2024-10-10 17:06:38",
       "album": {
         "name": "Pretty Good To Feel Something",
@@ -503,6 +487,22 @@
       "duration_ms": 186679,
       "name": "Pretty Good To Feel Something",
       "url": "https://open.spotify.com/track/4JNMzNr6ukpwa6ALIMnkje"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Hypocrite",
+        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
+      },
+      "artists": [
+        {
+          "name": "Daisy Grenade",
+          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+        }
+      ],
+      "duration_ms": 108650,
+      "name": "Hypocrite",
+      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -525,20 +525,20 @@
       "url": "https://open.spotify.com/track/4i8U1t123TAsAgwudp0a3X"
     },
     {
-      "added_at": "2024-10-10 17:06:38",
+      "added_at": "2024-11-15 10:05:02",
       "album": {
-        "name": "Hypocrite",
-        "url": "https://open.spotify.com/album/0b7M1yTWCB0lCDtIhBn01N"
+        "name": "Big Dick Energy",
+        "url": "https://open.spotify.com/album/4zIY0BCNtGj3qoJnvomEDR"
       },
       "artists": [
         {
-          "name": "Daisy Grenade",
-          "url": "https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH"
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
         }
       ],
-      "duration_ms": 108650,
-      "name": "Hypocrite",
-      "url": "https://open.spotify.com/track/4UM0WAccdPzvZIHCcxWDf0"
+      "duration_ms": 256799,
+      "name": "Big Dick Energy",
+      "url": "https://open.spotify.com/track/2qEUv2v5mAqUZuZeluhA3F"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -701,26 +701,6 @@
       "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
     },
     {
-      "added_at": "2024-11-15 10:05:02",
-      "album": {
-        "name": "love bombs",
-        "url": "https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2"
-      },
-      "artists": [
-        {
-          "name": "BESTIES",
-          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
-        },
-        {
-          "name": "Yours Truly",
-          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
-        }
-      ],
-      "duration_ms": 205357,
-      "name": "love bombs",
-      "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
-    },
-    {
       "added_at": "2024-10-10 17:06:38",
       "album": {
         "name": "The New Chaos",
@@ -751,6 +731,26 @@
       "duration_ms": 178253,
       "name": "Swing and Sway",
       "url": "https://open.spotify.com/track/3t4Wpwg36E2VoBUiGKK6Fx"
+    },
+    {
+      "added_at": "2024-11-15 10:05:02",
+      "album": {
+        "name": "love bombs",
+        "url": "https://open.spotify.com/album/1EaVWWVkoB3inD2AIjNwX2"
+      },
+      "artists": [
+        {
+          "name": "BESTIES",
+          "url": "https://open.spotify.com/artist/7muEjzf4QdKgX7XB3OHRsj"
+        },
+        {
+          "name": "Yours Truly",
+          "url": "https://open.spotify.com/artist/76NpRNEWMaNdOudixwOPRo"
+        }
+      ],
+      "duration_ms": 205357,
+      "name": "love bombs",
+      "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -855,22 +855,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "What A Fucking Nightmare",
-        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
-      },
-      "artists": [
-        {
-          "name": "The Chisel",
-          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
-        }
-      ],
-      "duration_ms": 145957,
-      "name": "Cry Your Eyes Out",
-      "url": "https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/3DS7XjGjZHW6aL8BSJogSE"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 181881,
       "name": "People Watching",
       "url": "https://open.spotify.com/track/6WKc3CetpaIRyDmukASzYi"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "What A Fucking Nightmare",
+        "url": "https://open.spotify.com/album/7zLyYaOIilCtSBIrexqQ55"
+      },
+      "artists": [
+        {
+          "name": "The Chisel",
+          "url": "https://open.spotify.com/artist/20jscDXkBqf0euv7zSsyTx"
+        }
+      ],
+      "duration_ms": 145957,
+      "name": "Cry Your Eyes Out",
+      "url": "https://open.spotify.com/track/0OVyXMEWE466pyca4a0HPR"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -919,22 +919,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Demolition Man",
-        "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
-      },
-      "artists": [
-        {
-          "name": "Drug Church",
-          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
-        }
-      ],
-      "duration_ms": 165786,
-      "name": "Demolition Man",
-      "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "The Sacrifice / At Sickness",
         "url": "https://open.spotify.com/album/1lQVrbW9pt4fPalmmKT8yL"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 208400,
       "name": "The Sacrifice",
       "url": "https://open.spotify.com/track/4d4yRBNhVyISQ2lreeEmut"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Demolition Man",
+        "url": "https://open.spotify.com/album/6rLNcJWYaLLv14WLDzUdf8"
+      },
+      "artists": [
+        {
+          "name": "Drug Church",
+          "url": "https://open.spotify.com/artist/6q4AmzK3GzCuEzkurnYuEQ"
+        }
+      ],
+      "duration_ms": 165786,
+      "name": "Demolition Man",
+      "url": "https://open.spotify.com/track/7A2KxqI16tEpJhxZn6Ji1P"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -999,6 +999,22 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
+        "name": "Claw",
+        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
+      },
+      "artists": [
+        {
+          "name": "Chalk",
+          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
+        }
+      ],
+      "duration_ms": 195195,
+      "name": "Claw",
+      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
         "name": "DOWN N OUT",
         "url": "https://open.spotify.com/album/6wkmm5YeCDnfIZoKXhLU98"
       },
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Claw",
-        "url": "https://open.spotify.com/album/6YZCABW3FLh1IiHc5ESNVQ"
-      },
-      "artists": [
-        {
-          "name": "Chalk",
-          "url": "https://open.spotify.com/artist/3qa9pv6B0dmiBVETLQOCpi"
-        }
-      ],
-      "duration_ms": 195195,
-      "name": "Claw",
-      "url": "https://open.spotify.com/track/3kQol8CHBOFzGGd9dzW8Ee"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "ANTI-FUN PROPAGANDA",
         "url": "https://open.spotify.com/album/56STnkZ21Pd3Wo6kJGlrKW"
       },
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "3 DAY HEADACHE",
-        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
-      },
-      "artists": [
-        {
-          "name": "NOAHFINNCE",
-          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
-        }
-      ],
-      "duration_ms": 114284,
-      "name": "3 DAY HEADACHE",
-      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "PRUDE",
         "url": "https://open.spotify.com/album/4SiGEjeock157xR33nCQdb"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 167000,
       "name": "Yankee Trails",
       "url": "https://open.spotify.com/track/560Grf0kkkBF0v0unWmOIC"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "3 DAY HEADACHE",
+        "url": "https://open.spotify.com/album/499mEC3ZLcprlNXqgHMZEK"
+      },
+      "artists": [
+        {
+          "name": "NOAHFINNCE",
+          "url": "https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM"
+        }
+      ],
+      "duration_ms": 114284,
+      "name": "3 DAY HEADACHE",
+      "url": "https://open.spotify.com/track/5u4MPbgZPmajC5vVf1O5xb"
     },
     {
       "added_at": "2024-11-15 10:05:02",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "Johnny",
-        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
-      },
-      "artists": [
-        {
-          "name": "CARR",
-          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
-        }
-      ],
-      "duration_ms": 149786,
-      "name": "Johnny",
-      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Get Down",
         "url": "https://open.spotify.com/album/1q6grMLrlXI4o1fANDnovc"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 219720,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/1PNkX69uB2KUsmJIAh5yiB"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "Johnny",
+        "url": "https://open.spotify.com/album/47lvAhcAnEbkuhpJwJYE6r"
+      },
+      "artists": [
+        {
+          "name": "CARR",
+          "url": "https://open.spotify.com/artist/7ufjo5jO7vQfG6Zg0QzWEJ"
+        }
+      ],
+      "duration_ms": 149786,
+      "name": "Johnny",
+      "url": "https://open.spotify.com/track/37wZMhakpKNVYQO8LjHaDJ"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1177,22 +1177,6 @@
       "url": "https://open.spotify.com/track/207bcqHODbUfxAsyhi1fkR"
     },
     {
-      "added_at": "2024-11-15 10:05:02",
-      "album": {
-        "name": "Sentiment Valley",
-        "url": "https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR"
-      },
-      "artists": [
-        {
-          "name": "Chiefland",
-          "url": "https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW"
-        }
-      ],
-      "duration_ms": 186795,
-      "name": "Gravity",
-      "url": "https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN"
-    },
-    {
       "added_at": "2024-10-10 17:06:38",
       "album": {
         "name": "Fascist Bob",
@@ -1207,6 +1191,22 @@
       "duration_ms": 116240,
       "name": "Fascist Bob",
       "url": "https://open.spotify.com/track/4sXLPgHzJ742DRqms3CSrI"
+    },
+    {
+      "added_at": "2024-11-15 10:05:02",
+      "album": {
+        "name": "Sentiment Valley",
+        "url": "https://open.spotify.com/album/3wcZGDA4GuhywW609ZaSrR"
+      },
+      "artists": [
+        {
+          "name": "Chiefland",
+          "url": "https://open.spotify.com/artist/0u85oIp6ihTxfPkGuECDiW"
+        }
+      ],
+      "duration_ms": 186795,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/5cPZPo5MArJShiaAaL9TGN"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "No Backbone",
-        "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
-      },
-      "artists": [
-        {
-          "name": "Can't Swim",
-          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
-        }
-      ],
-      "duration_ms": 137076,
-      "name": "No Backbone",
-      "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
-    },
-    {
-      "added_at": "2024-10-10 17:06:38",
-      "album": {
         "name": "Elster Stares the Desert Down",
         "url": "https://open.spotify.com/album/3LehnIMiP8l21O4P7ZFlr3"
       },
@@ -1275,18 +1259,18 @@
     {
       "added_at": "2024-10-10 17:06:38",
       "album": {
-        "name": "The Mosaic",
-        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
+        "name": "No Backbone",
+        "url": "https://open.spotify.com/album/1HTERR04ZhV8lRaxlvYBeL"
       },
       "artists": [
         {
-          "name": "Capstan",
-          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+          "name": "Can't Swim",
+          "url": "https://open.spotify.com/artist/62elZbH5Iop8UPcChp7OrU"
         }
       ],
-      "duration_ms": 213387,
-      "name": "Final Words",
-      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
+      "duration_ms": 137076,
+      "name": "No Backbone",
+      "url": "https://open.spotify.com/track/4aVYHhJU15iTOK29U4PWIM"
     },
     {
       "added_at": "2024-10-10 17:06:38",
@@ -1303,6 +1287,22 @@
       "duration_ms": 145893,
       "name": "Stupid",
       "url": "https://open.spotify.com/track/1sZ0l4JoRhrNHDOplkImZR"
+    },
+    {
+      "added_at": "2024-10-10 17:06:38",
+      "album": {
+        "name": "The Mosaic",
+        "url": "https://open.spotify.com/album/4VDyL1ptJ0KhgiaLvMjmtW"
+      },
+      "artists": [
+        {
+          "name": "Capstan",
+          "url": "https://open.spotify.com/artist/3cb9CRWtkBQNjVLQNLP9FE"
+        }
+      ],
+      "duration_ms": 213387,
+      "name": "Final Words",
+      "url": "https://open.spotify.com/track/1CZpEkQIsrMTBoEfJZsCU8"
     },
     {
       "added_at": "2024-10-10 17:06:38",

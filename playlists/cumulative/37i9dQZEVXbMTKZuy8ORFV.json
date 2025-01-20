@@ -2094,7 +2094,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 220177,
       "name": "BANG BANG BANG",
       "url": "https://open.spotify.com/track/3dI59jLoFMjMAyUAyRZnkE"
@@ -2112,7 +2112,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 221173,
       "name": "BANG BANG BANG - KR Ver.",
       "url": "https://open.spotify.com/track/6iu311jZAJFLPgoIWgrA72"
@@ -7232,6 +7232,28 @@
       "duration_ms": 169440,
       "name": "FIRST LOVE",
       "url": "https://open.spotify.com/track/3QQAeMQbbjZXVFbF8DgFWT"
+    },
+    {
+      "album": {
+        "name": "flashes",
+        "url": "https://open.spotify.com/album/58nQ8Vzv9VqS4fXnZ1cZqk"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8Z",
+          "url": "https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI"
+        },
+        {
+          "name": "Yng Lvcas",
+          "url": "https://open.spotify.com/artist/1NNRWkhwmcXRimFYSBpB1y"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185076,
+      "name": "flashes",
+      "url": "https://open.spotify.com/track/0WldJKCaZhHHZbzu4kFV1m"
     },
     {
       "album": {
@@ -16196,7 +16218,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-03",
+      "date_removed": null,
       "duration_ms": 354857,
       "name": "Resenha do Arrocha",
       "url": "https://open.spotify.com/track/0NQyryTVbjGMtWMA1eSqIn"
@@ -16638,7 +16660,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 227647,
       "name": "Sabor Caramelo",
       "url": "https://open.spotify.com/track/6SvGjgBFnsyUCPfIR4JN7l"
@@ -17690,7 +17712,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 300500,
       "name": "Smell Like Cherry",
       "url": "https://open.spotify.com/track/03P9SGtqetfIhwlV0822gZ"

@@ -10595,6 +10595,24 @@
     },
     {
       "album": {
+        "name": "Plazma",
+        "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180832,
+      "name": "Plazma",
+      "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
+    },
+    {
+      "album": {
         "name": "Pointless 5",
         "url": "https://open.spotify.com/album/18AtpuxDZUVuwRk4M91IYX"
       },
@@ -16554,7 +16572,7 @@
       ],
       "date_added": "2024-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 237600,
       "name": "\u304c\u3089\u304f\u305f - JUNK",
       "url": "https://open.spotify.com/track/52ItXyP098zb8OR4na4iQk"

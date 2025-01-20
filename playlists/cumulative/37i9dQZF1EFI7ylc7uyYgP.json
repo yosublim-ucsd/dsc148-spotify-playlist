@@ -129,6 +129,24 @@
     },
     {
       "album": {
+        "name": "Lost & Found",
+        "url": "https://open.spotify.com/album/6xVhVxpq8XvEH5JdV4DDQt"
+      },
+      "artists": [
+        {
+          "name": "Jesse Blaze",
+          "url": "https://open.spotify.com/artist/1c8pHcgA2ZjOSfC3gAOfnf"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207072,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/6o5yJOHRffyjiSe8odvVZA"
+    },
+    {
+      "album": {
         "name": "All You Good Friends",
         "url": "https://open.spotify.com/album/7uRg23QH5OnhG2a7hFMk3d"
       },

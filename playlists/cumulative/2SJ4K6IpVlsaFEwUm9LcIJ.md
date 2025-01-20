@@ -4,7 +4,7 @@
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-426 songs - 23 hr 42 min
+427 songs - 23 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -288,6 +288,7 @@
 | [Orioles at Dusk](https://open.spotify.com/track/315K8VqorZUcQxbppcGYMC) | [22º Halo](https://open.spotify.com/artist/6p355yiyJc67iSNeWLM8WH) | [Orioles at Dusk](https://open.spotify.com/album/2vmRhotSXyS1RvcJPcDNBQ) | 4:23 | 2024-10-10 | 2024-11-14 |
 | [Our Dust](https://open.spotify.com/track/7kbwqZhRlhbTE3QEbH1mVm) | [A.C\. Marias](https://open.spotify.com/artist/1AflKUFcBPDdHHyLNagENU) | [One Of Our Girls \(Has Gone Missing\)](https://open.spotify.com/album/4e3BoKUJfL6dTebq0vU2wQ) | 3:29 | 2024-12-10 | 2025-01-12 |
 | [Overcome \- 2009 Remix](https://open.spotify.com/track/2fIn2blB174jad6eM27LXj) | [Tricky](https://open.spotify.com/artist/6hhA8TKRNryM8FNzqCqdDO), [Martina Topley\-Bird](https://open.spotify.com/artist/6sKLLGj7SqbP2qDBdEOoZ6), [Al Riley](https://open.spotify.com/artist/5FTqRHLv1p7TcX9qQzHpIY) | [Maxinquaye \(Deluxe Edition\)](https://open.spotify.com/album/4pWLQ312KAN43yhm3omkZo) | 3:24 | 2024-11-13 | 2025-01-12 |
+| [P.A.S](https://open.spotify.com/track/65wQBgs1nWRi97RssuWaJ9) | [Scritti Politti](https://open.spotify.com/artist/59luKpdal8UwxcuLJNoKwS) | [Early](https://open.spotify.com/album/32z2z8cxZ2bqU5eZbJdwI1) | 6:01 | 2025-01-20 |  |
 | [pale horse](https://open.spotify.com/track/4ec6YIvFYITEzaEizacIVe) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Pale Moon Pale Horse](https://open.spotify.com/album/4cXqpTCEwHkOHU5mPdAomq) | 2:35 | 2024-11-26 | 2024-12-07 |
 | [Pallor Tricks](https://open.spotify.com/track/6b3sztg64sk7iiKzjLGT2G) | [Cola](https://open.spotify.com/artist/1KCSUZBJy1bAsIz7wUYkd8) | [Pallor Tricks](https://open.spotify.com/album/78gHirhgGXJ0rPFbCa89y0) | 3:57 | 2024-04-10 | 2024-05-16 |
 | [Partytime](https://open.spotify.com/track/0nVGhWnvTncLH6eInY90jO) | [The Jazz Butcher](https://open.spotify.com/artist/7zi9v3F5KzAuS3MkJtm5dc) | [Draining the Glass: 1982\-1986](https://open.spotify.com/album/49JVtWebi2mCRzMlzAHohJ) | 3:53 | 2025-01-11 |  |

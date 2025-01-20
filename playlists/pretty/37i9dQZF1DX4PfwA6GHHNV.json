@@ -1,6 +1,6 @@
 {
   "description": "pra curtir o puro afrobeats feito no Brasil.",
-  "num_followers": 19884,
+  "num_followers": 19891,
   "original_name": "pique afrobeats",
   "owner": {
     "name": "Spotify",
@@ -31,6 +31,26 @@
       "duration_ms": 202000,
       "name": "Ela Quer Fumar",
       "url": "https://open.spotify.com/track/2cYM45KrFyawEUL9uGfuXN"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Pura Perdi\u00e7\u00e3o",
+        "url": "https://open.spotify.com/album/5pKcSfd2FtJB9oLr4W9V2P"
+      },
+      "artists": [
+        {
+          "name": "Mc Gabzin",
+          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
+        },
+        {
+          "name": "Maori",
+          "url": "https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg"
+        }
+      ],
+      "duration_ms": 142336,
+      "name": "Pura Perdi\u00e7\u00e3o",
+      "url": "https://open.spotify.com/track/2QjEeUAzoh4WmCnLb1iDl9"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -71,26 +91,6 @@
       "duration_ms": 265344,
       "name": "Gingado",
       "url": "https://open.spotify.com/track/7opo4ooKxfnEXMDzvs8EtJ"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "Pura Perdi\u00e7\u00e3o",
-        "url": "https://open.spotify.com/album/5pKcSfd2FtJB9oLr4W9V2P"
-      },
-      "artists": [
-        {
-          "name": "Mc Gabzin",
-          "url": "https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K"
-        },
-        {
-          "name": "Maori",
-          "url": "https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg"
-        }
-      ],
-      "duration_ms": 142336,
-      "name": "Pura Perdi\u00e7\u00e3o",
-      "url": "https://open.spotify.com/track/2QjEeUAzoh4WmCnLb1iDl9"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -183,6 +183,26 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
+        "name": "Asop\u00f8",
+        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
+      },
+      "artists": [
+        {
+          "name": "El Coffee",
+          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 195421,
+      "name": "Manga",
+      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
         "name": "COLADINHO",
         "url": "https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj"
       },
@@ -227,26 +247,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Caninana",
-        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
-      },
-      "artists": [
-        {
-          "name": "Torya",
-          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 190105,
-      "name": "Caninana",
-      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "Hipnose",
         "url": "https://open.spotify.com/album/3g8RNiykDYeTd0KNUc5Ri6"
       },
@@ -263,26 +263,6 @@
       "duration_ms": 209471,
       "name": "Hipnose",
       "url": "https://open.spotify.com/track/1fs5yLzGEdAWJ5smXEZ1wU"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "Asop\u00f8",
-        "url": "https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl"
-      },
-      "artists": [
-        {
-          "name": "El Coffee",
-          "url": "https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5"
-        },
-        {
-          "name": "Paiva Prod",
-          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
-        }
-      ],
-      "duration_ms": 195421,
-      "name": "Manga",
-      "url": "https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -335,6 +315,26 @@
       "duration_ms": 210526,
       "name": "Intens\u00e3o",
       "url": "https://open.spotify.com/track/1VCkEjAPU28AFSTMKMG361"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Caninana",
+        "url": "https://open.spotify.com/album/6d9BZBis5P7afGnwxPMA4n"
+      },
+      "artists": [
+        {
+          "name": "Torya",
+          "url": "https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh"
+        },
+        {
+          "name": "Paiva Prod",
+          "url": "https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb"
+        }
+      ],
+      "duration_ms": 190105,
+      "name": "Caninana",
+      "url": "https://open.spotify.com/track/1XnpXcjzsRfrnJ8C3A8gwz"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -455,6 +455,22 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
+        "name": "VER\u00c3O",
+        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
+      },
+      "artists": [
+        {
+          "name": "Muse Maya",
+          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
+        }
+      ],
+      "duration_ms": 214193,
+      "name": "VER\u00c3O",
+      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
         "name": "ACREDITOU?",
         "url": "https://open.spotify.com/album/0RoCag6smD26iVfozUeYI7"
       },
@@ -475,22 +491,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "VER\u00c3O",
-        "url": "https://open.spotify.com/album/2Btur3SphqfJpOalZeeOFs"
-      },
-      "artists": [
-        {
-          "name": "Muse Maya",
-          "url": "https://open.spotify.com/artist/3aHNIgKMKMb0hmklcLXxkm"
-        }
-      ],
-      "duration_ms": 214193,
-      "name": "VER\u00c3O",
-      "url": "https://open.spotify.com/track/26VhXzQjyFQh8oGRJZ3yWJ"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "MAIS VERDE",
         "url": "https://open.spotify.com/album/03hQA7A54xkG4W8za0H4Yl"
       },
@@ -503,6 +503,30 @@
       "duration_ms": 208000,
       "name": "MAIS VERDE",
       "url": "https://open.spotify.com/track/2BxKBFEeOfpeQOpV8bNbFR"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Ch\u00e1",
+        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
+      },
+      "artists": [
+        {
+          "name": "Juy\u00e8",
+          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
+        },
+        {
+          "name": "SD9",
+          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
+        },
+        {
+          "name": "Taleko",
+          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
+        }
+      ],
+      "duration_ms": 155512,
+      "name": "Ch\u00e1",
+      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -551,30 +575,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Ch\u00e1",
-        "url": "https://open.spotify.com/album/40T8klDCDKX48Pe59gZD3Y"
-      },
-      "artists": [
-        {
-          "name": "Juy\u00e8",
-          "url": "https://open.spotify.com/artist/064WxKBb5PxUQpy6NGr3Jq"
-        },
-        {
-          "name": "SD9",
-          "url": "https://open.spotify.com/artist/5vISZlkpbDSJybQqgUeF52"
-        },
-        {
-          "name": "Taleko",
-          "url": "https://open.spotify.com/artist/1YMyvUKZLJeBYhN9nmJhyz"
-        }
-      ],
-      "duration_ms": 155512,
-      "name": "Ch\u00e1",
-      "url": "https://open.spotify.com/track/4KwJUsJQgsQiDMNqrVsO5K"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "Deixa Eu Te Contar",
         "url": "https://open.spotify.com/album/4PfsmNH1ZnmOXgqTrEMjgY"
       },
@@ -591,6 +591,26 @@
       "duration_ms": 193200,
       "name": "Deixa Eu Te Contar",
       "url": "https://open.spotify.com/track/0CGngLP2gLZZqWKjq4QW6K"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "PILULA DO DIA SEGUINTE",
+        "url": "https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "Biuw",
+          "url": "https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv"
+        }
+      ],
+      "duration_ms": 150602,
+      "name": "PEGA PEGA",
+      "url": "https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -619,46 +639,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "PILULA DO DIA SEGUINTE",
-        "url": "https://open.spotify.com/album/58anUI6lk9wIEV8X4fZqsy"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "Biuw",
-          "url": "https://open.spotify.com/artist/0OW1tBIqLUgLRXfNLOlGOv"
-        }
-      ],
-      "duration_ms": 150602,
-      "name": "PEGA PEGA",
-      "url": "https://open.spotify.com/track/5w7WscmEY2lkBCi5ACWd2V"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "Natureza",
-        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "JnrBeats",
-          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Natureza",
-      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "Fora do Normal",
         "url": "https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 174000,
       "name": "Fora do Normal",
       "url": "https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Natureza",
+        "url": "https://open.spotify.com/album/19DOtV64ZPswRZNDJqeGVd"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "JnrBeats",
+          "url": "https://open.spotify.com/artist/6XDB7IrLqvgRgI0ZrQ9hqt"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Natureza",
+      "url": "https://open.spotify.com/track/7HUgyJJ6xMLA3Y0kQaNPub"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -707,18 +707,22 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Saia Rodada",
-        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
+        "name": "T\u00f4 Aqui de Novo",
+        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
       },
       "artists": [
         {
-          "name": "Kail\u00ea",
-          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
+          "name": "Vinijoe",
+          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
+        },
+        {
+          "name": "Pedrin 31",
+          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
         }
       ],
-      "duration_ms": 249600,
-      "name": "Saia Rodada",
-      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
+      "duration_ms": 215572,
+      "name": "T\u00f4 Aqui de Novo",
+      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -743,38 +747,18 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "T\u00f4 Aqui de Novo",
-        "url": "https://open.spotify.com/album/3OeSVUi0XIzOeoZtq8ILhp"
+        "name": "Saia Rodada",
+        "url": "https://open.spotify.com/album/1cd7RPjvQptiwaMhhLlQi4"
       },
       "artists": [
         {
-          "name": "Vinijoe",
-          "url": "https://open.spotify.com/artist/3WpBCx2iY4izkCdALJW2Tg"
-        },
-        {
-          "name": "Pedrin 31",
-          "url": "https://open.spotify.com/artist/2pjR2u4veZ9FwwBGNhkzyx"
+          "name": "Kail\u00ea",
+          "url": "https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu"
         }
       ],
-      "duration_ms": 215572,
-      "name": "T\u00f4 Aqui de Novo",
-      "url": "https://open.spotify.com/track/275dNEWSB7w03WE4v9JZPo"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "TocToc",
-        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        }
-      ],
-      "duration_ms": 155294,
-      "name": "TocToc",
-      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
+      "duration_ms": 249600,
+      "name": "Saia Rodada",
+      "url": "https://open.spotify.com/track/2YsmKqaswhV5TdUI5dnfsK"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -799,46 +783,18 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "N\u00e3o Prometeu Nada",
-        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+        "name": "TocToc",
+        "url": "https://open.spotify.com/album/0ZtgkqY0ttkHLllyOGdtcT"
       },
       "artists": [
         {
-          "name": "Victor sant's",
-          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
-        },
-        {
-          "name": "Pivet Panda",
-          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
-        },
-        {
-          "name": "Zamba",
-          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
         }
       ],
-      "duration_ms": 175200,
-      "name": "N\u00e3o Prometeu Nada",
-      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "Ciumenta",
-        "url": "https://open.spotify.com/album/3gifZCkuuSjonKk7YVcR3b"
-      },
-      "artists": [
-        {
-          "name": "Aka Rasta",
-          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
-        },
-        {
-          "name": "Rincon Sapi\u00eancia",
-          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
-        }
-      ],
-      "duration_ms": 150465,
-      "name": "Ciumenta",
-      "url": "https://open.spotify.com/track/35fWcHV5Q9KQtaPN7n9Djl"
+      "duration_ms": 155294,
+      "name": "TocToc",
+      "url": "https://open.spotify.com/track/452FBQWeQfbivI4APRWld6"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -867,6 +823,30 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
+        "name": "N\u00e3o Prometeu Nada",
+        "url": "https://open.spotify.com/album/1pnQNAQCN0TfWcdiChWUlS"
+      },
+      "artists": [
+        {
+          "name": "Victor sant's",
+          "url": "https://open.spotify.com/artist/4voy1QTNcJmxLh0yQZ1dFp"
+        },
+        {
+          "name": "Pivet Panda",
+          "url": "https://open.spotify.com/artist/0CnriNsGq7Nk89GNfISBcu"
+        },
+        {
+          "name": "Zamba",
+          "url": "https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW"
+        }
+      ],
+      "duration_ms": 175200,
+      "name": "N\u00e3o Prometeu Nada",
+      "url": "https://open.spotify.com/track/4OBi6cp6oOHCpQ0QUNgvBf"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
         "name": "Afasta",
         "url": "https://open.spotify.com/album/5PZq9lvlzx0yx6eXsVPZ4k"
       },
@@ -883,6 +863,26 @@
       "duration_ms": 175578,
       "name": "Afasta",
       "url": "https://open.spotify.com/track/6ekpFyv5LxPy6FvHnzTw3C"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Ciumenta",
+        "url": "https://open.spotify.com/album/3gifZCkuuSjonKk7YVcR3b"
+      },
+      "artists": [
+        {
+          "name": "Aka Rasta",
+          "url": "https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB"
+        },
+        {
+          "name": "Rincon Sapi\u00eancia",
+          "url": "https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo"
+        }
+      ],
+      "duration_ms": 150465,
+      "name": "Ciumenta",
+      "url": "https://open.spotify.com/track/35fWcHV5Q9KQtaPN7n9Djl"
     },
     {
       "added_at": "2025-01-17 03:01:13",
@@ -935,6 +935,26 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
+        "name": "Me Conta",
+        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
+      },
+      "artists": [
+        {
+          "name": "Yumee",
+          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
+        },
+        {
+          "name": "Kain",
+          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
+        }
+      ],
+      "duration_ms": 196374,
+      "name": "Me Conta",
+      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
         "name": "Sossega (Nada Mal)",
         "url": "https://open.spotify.com/album/0eCs8F3tpB4sKdWJ9vHXQt"
       },
@@ -959,42 +979,6 @@
     {
       "added_at": "2025-01-17 03:01:13",
       "album": {
-        "name": "Lembra?",
-        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
-      },
-      "artists": [
-        {
-          "name": "CT",
-          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
-        }
-      ],
-      "duration_ms": 127090,
-      "name": "Lembra?",
-      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
-        "name": "Me Conta",
-        "url": "https://open.spotify.com/album/1mCcEwUmZZEBCLV3v7sHrs"
-      },
-      "artists": [
-        {
-          "name": "Yumee",
-          "url": "https://open.spotify.com/artist/61cZcbCfxNNkFsOqmmNtZX"
-        },
-        {
-          "name": "Kain",
-          "url": "https://open.spotify.com/artist/2FayqmwmL9Zxd4vErhPNgN"
-        }
-      ],
-      "duration_ms": 196374,
-      "name": "Me Conta",
-      "url": "https://open.spotify.com/track/5PmaRMb7dKPl3PXfn7ANQQ"
-    },
-    {
-      "added_at": "2025-01-17 03:01:13",
-      "album": {
         "name": "\u00c1guas Passadas",
         "url": "https://open.spotify.com/album/5Vwbvq1tNraNK5OAbrD1xc"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 158400,
       "name": "\u00c1guas Passadas",
       "url": "https://open.spotify.com/track/79GwP7SMbG7EESOvQ6Toaj"
+    },
+    {
+      "added_at": "2025-01-17 03:01:13",
+      "album": {
+        "name": "Lembra?",
+        "url": "https://open.spotify.com/album/4OztYosDtqCNgyZ3ERSieU"
+      },
+      "artists": [
+        {
+          "name": "CT",
+          "url": "https://open.spotify.com/artist/3WxUgB4Yr20VbdbKaFyHkV"
+        }
+      ],
+      "duration_ms": 127090,
+      "name": "Lembra?",
+      "url": "https://open.spotify.com/track/5aRV9cipoubruQArEFixFQ"
     },
     {
       "added_at": "2025-01-17 03:01:13",

@@ -956,7 +956,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 203991,
       "name": "B\u00f6yle B\u00f6yle Azald\u0131m",
       "url": "https://open.spotify.com/track/0IXPdXqSXZzYwnaNO057cY"
@@ -1995,6 +1995,28 @@
     },
     {
       "album": {
+        "name": "Kervan",
+        "url": "https://open.spotify.com/album/0xdqDsFfcbRRCYFVgeDr6P"
+      },
+      "artists": [
+        {
+          "name": "Beng\u00fc",
+          "url": "https://open.spotify.com/artist/6wxh9aTFgTS4OiyYlnQBq6"
+        },
+        {
+          "name": "Mustafa Ceceli",
+          "url": "https://open.spotify.com/artist/3cNwyF5SboOs9icz2XyotE"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154631,
+      "name": "Kervan",
+      "url": "https://open.spotify.com/track/4MsNwPBADIfVpQ9ZmXNc7B"
+    },
+    {
+      "album": {
         "name": "KOCA ADAM",
         "url": "https://open.spotify.com/album/7sYFdkwfB8jmyhgSKTXHUa"
       },
@@ -2168,7 +2190,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 160970,
       "name": "Ma\u011flup",
       "url": "https://open.spotify.com/track/2YZdLhFIIODNxeVtVy4qLC"
@@ -2534,6 +2556,28 @@
       "duration_ms": 190293,
       "name": "Renklensin",
       "url": "https://open.spotify.com/track/1d02igesB9DREknAVXRiBd"
+    },
+    {
+      "album": {
+        "name": "Sahipsiz",
+        "url": "https://open.spotify.com/album/1NVLQP0ioRk7TnvZeYtp5p"
+      },
+      "artists": [
+        {
+          "name": "Hande Yener",
+          "url": "https://open.spotify.com/artist/08mjMUUjyTchMHCW7evc3R"
+        },
+        {
+          "name": "Lil Zey",
+          "url": "https://open.spotify.com/artist/7Gx2wDVHyW5HJh7dc2t5h7"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179494,
+      "name": "Sahipsiz",
+      "url": "https://open.spotify.com/track/0kxbEY08FagNJ6XSh1XHGo"
     },
     {
       "album": {

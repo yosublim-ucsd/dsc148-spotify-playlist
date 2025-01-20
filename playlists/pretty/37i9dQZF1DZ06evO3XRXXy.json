@@ -1,12 +1,12 @@
 {
   "description": "This is Kenny G. The essential tracks, all in one playlist.",
-  "num_followers": 141035,
+  "num_followers": 141077,
   "original_name": "This Is Kenny G",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAABJ6XiIVmXnyZY5oQZFT0sT",
+  "snapshot_id": "Z4rvAAAAAADy2UM9U3F9TD2YypnKV2tW",
   "tracks": [
     {
       "added_at": null,
@@ -88,9 +88,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 179573,
-      "name": "Yesterday",
-      "url": "https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD"
+      "duration_ms": 194373,
+      "name": "You Raise Me Up",
+      "url": "https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC"
     },
     {
       "added_at": null,
@@ -152,9 +152,9 @@
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 194373,
-      "name": "You Raise Me Up",
-      "url": "https://open.spotify.com/track/3yYMnwomVxxFZCMsHqJ6sC"
+      "duration_ms": 179573,
+      "name": "Yesterday",
+      "url": "https://open.spotify.com/track/0DPUhwShX0kQQvrG4A0CCD"
     },
     {
       "added_at": null,
@@ -667,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "World Music Radio",
-        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
+        "name": "Brazilian Nights (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
       },
       "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 77374,
-      "name": "Clair de Lune (feat. Kenny G)",
-      "url": "https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa"
+      "duration_ms": 281906,
+      "name": "Heart And Soul - Live",
+      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
     },
     {
       "added_at": null,
@@ -703,18 +699,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brazilian Nights (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4vYG7FNb19Ug5eiqLFZKwS"
+        "name": "World Music Radio",
+        "url": "https://open.spotify.com/album/0cX1ODY38Nd2LuijmfuSjF"
       },
       "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        },
         {
           "name": "Kenny G",
           "url": "https://open.spotify.com/artist/6I3M904Y9IwgDjrQ9pANiB"
         }
       ],
-      "duration_ms": 281906,
-      "name": "Heart And Soul - Live",
-      "url": "https://open.spotify.com/track/5W41nRwHlIvLwRnYiHMGDp"
+      "duration_ms": 77374,
+      "name": "Clair de Lune (feat. Kenny G)",
+      "url": "https://open.spotify.com/track/6YoOSmaiA0ZBff3ozVvPFa"
     },
     {
       "added_at": null,

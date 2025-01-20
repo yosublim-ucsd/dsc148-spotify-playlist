@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 6106,
+  "num_followers": 6109,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAB49L5lWzdnPoXyZ0RvX8dK",
+  "snapshot_id": "Z4rvAAAAAADV4ndCT3OPZFTzU7wSKDFC",
   "tracks": [
     {
       "added_at": null,
@@ -495,22 +495,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Butterfly (New Anthem)",
-        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
+        "name": "Hurt You So Bad",
+        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
       },
       "artists": [
-        {
-          "name": "Black Oxygen",
-          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
-        },
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 227246,
-      "name": "Butterfly (New Anthem)",
-      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
+      "duration_ms": 228493,
+      "name": "Skulls and Stars - Original Demo",
+      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
     },
     {
       "added_at": null,
@@ -535,18 +531,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hurt You So Bad",
-        "url": "https://open.spotify.com/album/6qt2AXXaep1YcCDs7IwgNq"
+        "name": "Butterfly (New Anthem)",
+        "url": "https://open.spotify.com/album/0kQ1ZMco7VJAWkyo29NGdk"
       },
       "artists": [
+        {
+          "name": "Black Oxygen",
+          "url": "https://open.spotify.com/artist/3yjvzQpJQ4vI7r829AC2LC"
+        },
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         }
       ],
-      "duration_ms": 228493,
-      "name": "Skulls and Stars - Original Demo",
-      "url": "https://open.spotify.com/track/57v5dmDHj2nsEGc8z9TgGC"
+      "duration_ms": 227246,
+      "name": "Butterfly (New Anthem)",
+      "url": "https://open.spotify.com/track/4sgqK7zBhYX7wrTbMe5H8s"
     },
     {
       "added_at": null,

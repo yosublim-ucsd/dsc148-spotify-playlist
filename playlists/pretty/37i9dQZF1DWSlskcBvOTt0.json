@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 521011,
+  "num_followers": 521206,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Closer (feat. Bantu)",
-        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
-      },
-      "artists": [
-        {
-          "name": "Wakyin",
-          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
-        },
-        {
-          "name": "Bantu",
-          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
-        }
-      ],
-      "duration_ms": 181000,
-      "name": "Closer (feat. Bantu)",
-      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "Wait For You",
         "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 176528,
       "name": "Wait For You",
       "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Closer (feat. Bantu)",
+        "url": "https://open.spotify.com/album/3EICRU6TnGigdorbZwKqOl"
+      },
+      "artists": [
+        {
+          "name": "Wakyin",
+          "url": "https://open.spotify.com/artist/2CnJJITnV40TB5UtCRhwIZ"
+        },
+        {
+          "name": "Bantu",
+          "url": "https://open.spotify.com/artist/6tt0iYnpHERj05WATWRiom"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "Closer (feat. Bantu)",
+      "url": "https://open.spotify.com/track/46qondUDqflcac1ufdqAlZ"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1495,22 +1495,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Kidz",
-        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
-      },
-      "artists": [
-        {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
-        }
-      ],
-      "duration_ms": 168780,
-      "name": "Kidz",
-      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "SIGN",
         "url": "https://open.spotify.com/album/4w5yEqweK9vCLC6tBQ5Npk"
       },
@@ -1523,6 +1507,22 @@
       "duration_ms": 223774,
       "name": "SIGN",
       "url": "https://open.spotify.com/track/1zg0rYI4vsiJPXeRZ3esIo"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Kidz",
+        "url": "https://open.spotify.com/album/6ktZsr7T8Fk219WDv7dmfQ"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        }
+      ],
+      "duration_ms": 168780,
+      "name": "Kidz",
+      "url": "https://open.spotify.com/track/3FMrfozd7RBxApXp4unYL8"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1671,6 +1671,22 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
+        "name": "Mockingbird",
+        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
+      },
+      "artists": [
+        {
+          "name": "Moojo",
+          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
+        }
+      ],
+      "duration_ms": 251803,
+      "name": "Mockingbird",
+      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
         "name": "TERRITORY (SOMMA REMIX)",
         "url": "https://open.spotify.com/album/0iRdy6JJlVlZ52ZUXodKpA"
       },
@@ -1687,22 +1703,6 @@
       "duration_ms": 389395,
       "name": "TERRITORY - SOMMA REMIX",
       "url": "https://open.spotify.com/track/2wKT63Yyolf89Pxc8eKaZI"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "Mockingbird",
-        "url": "https://open.spotify.com/album/7vvjbJJYe5LcujRW0KgIig"
-      },
-      "artists": [
-        {
-          "name": "Moojo",
-          "url": "https://open.spotify.com/artist/4bU2sBWgXJtViut3q68o5m"
-        }
-      ],
-      "duration_ms": 251803,
-      "name": "Mockingbird",
-      "url": "https://open.spotify.com/track/0otwvCxWyHsbYdHKZ0POI8"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1819,26 +1819,26 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "If I Live Forever (Arodes Remix)",
-        "url": "https://open.spotify.com/album/4zdiSlhmtrvSSqSB8WUDsk"
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
       },
       "artists": [
         {
-          "name": "Vintage Culture",
-          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
         },
         {
-          "name": "Izzy Bizu",
-          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
+          "name": "Albert Breaker",
+          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
         },
         {
-          "name": "Arodes",
-          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+          "name": "mohalizer",
+          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
         }
       ],
-      "duration_ms": 401951,
-      "name": "If I Live Forever - Arodes Remix",
-      "url": "https://open.spotify.com/track/7bRYAHnP7t9zkB0ZE8k4zb"
+      "duration_ms": 192000,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1867,26 +1867,26 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/01D4KOudqfxOzPiQawG9PO"
+        "name": "If I Live Forever (Arodes Remix)",
+        "url": "https://open.spotify.com/album/4zdiSlhmtrvSSqSB8WUDsk"
       },
       "artists": [
         {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+          "name": "Vintage Culture",
+          "url": "https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts"
         },
         {
-          "name": "Albert Breaker",
-          "url": "https://open.spotify.com/artist/7ARLlH0R0zY7aeLrzeUYIf"
+          "name": "Izzy Bizu",
+          "url": "https://open.spotify.com/artist/6b5YOgXIliAozdo49vUCJQ"
         },
         {
-          "name": "mohalizer",
-          "url": "https://open.spotify.com/artist/4mxLi0WiovhOvdkqofGO2i"
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
         }
       ],
-      "duration_ms": 192000,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/1dFbbBKiOn1LnldZUSaWQ8"
+      "duration_ms": 401951,
+      "name": "If I Live Forever - Arodes Remix",
+      "url": "https://open.spotify.com/track/7bRYAHnP7t9zkB0ZE8k4zb"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1903,6 +1903,26 @@
       "duration_ms": 277567,
       "name": "Asa",
       "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/4UPQzYDK0VzZwVeNH63xxR"
+      },
+      "artists": [
+        {
+          "name": "Marten Lou",
+          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
+        },
+        {
+          "name": "Isidoros",
+          "url": "https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb"
+        }
+      ],
+      "duration_ms": 248135,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/0NUnub47unjOgFG3Q11ZTE"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1931,26 +1951,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/4UPQzYDK0VzZwVeNH63xxR"
-      },
-      "artists": [
-        {
-          "name": "Marten Lou",
-          "url": "https://open.spotify.com/artist/7MmHXD2ESooP0XdgrVuKTK"
-        },
-        {
-          "name": "Isidoros",
-          "url": "https://open.spotify.com/artist/7mruJTmwlBJyHBAdnMtCrb"
-        }
-      ],
-      "duration_ms": 248135,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/0NUnub47unjOgFG3Q11ZTE"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "Mirage",
         "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
       },
@@ -1963,6 +1963,42 @@
       "duration_ms": 279344,
       "name": "Mirage",
       "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Amado",
+        "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
+      },
+      "artists": [
+        {
+          "name": "MAXI MERAKI",
+          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
+        },
+        {
+          "name": "Orsay",
+          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Amado",
+      "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Sun Is Shining",
+        "url": "https://open.spotify.com/album/0WTrD8rtdbNV2mC94B9kdX"
+      },
+      "artists": [
+        {
+          "name": "Kaz James",
+          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
+        }
+      ],
+      "duration_ms": 183439,
+      "name": "Sun Is Shining",
+      "url": "https://open.spotify.com/track/3Vv7Zeqig8hfejz3oJ3l09"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2019,22 +2055,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Sun Is Shining",
-        "url": "https://open.spotify.com/album/0WTrD8rtdbNV2mC94B9kdX"
-      },
-      "artists": [
-        {
-          "name": "Kaz James",
-          "url": "https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA"
-        }
-      ],
-      "duration_ms": 183439,
-      "name": "Sun Is Shining",
-      "url": "https://open.spotify.com/track/3Vv7Zeqig8hfejz3oJ3l09"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "Dakar",
         "url": "https://open.spotify.com/album/2PRUftf1n9Bu1Om6xMBQH2"
       },
@@ -2051,42 +2071,6 @@
       "duration_ms": 224000,
       "name": "Dakar",
       "url": "https://open.spotify.com/track/7eaIM9KWmC70NUnOeYUHuz"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "Amado",
-        "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
-      },
-      "artists": [
-        {
-          "name": "MAXI MERAKI",
-          "url": "https://open.spotify.com/artist/7xGBxYsje4pkBngv1dcLmm"
-        },
-        {
-          "name": "Orsay",
-          "url": "https://open.spotify.com/artist/0jbyfa9yocQWIf7nXO8LH4"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Amado",
-      "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "Longlivedad",
-        "url": "https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs"
-      },
-      "artists": [
-        {
-          "name": "EDX",
-          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
-        }
-      ],
-      "duration_ms": 215322,
-      "name": "Longlivedad",
-      "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2123,6 +2107,22 @@
       "duration_ms": 196859,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Longlivedad",
+        "url": "https://open.spotify.com/album/2Ubsb9Ad7pMtEufauD1Kbs"
+      },
+      "artists": [
+        {
+          "name": "EDX",
+          "url": "https://open.spotify.com/artist/7GMot9WvBYqhhJz92vhBp6"
+        }
+      ],
+      "duration_ms": 215322,
+      "name": "Longlivedad",
+      "url": "https://open.spotify.com/track/6Lsem2KDi7v69fMRa2xsKC"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2475,6 +2475,50 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
+        "name": "Innocent",
+        "url": "https://open.spotify.com/album/4LywYeuBUjMzFS1vfXSeFC"
+      },
+      "artists": [
+        {
+          "name": "Re.You",
+          "url": "https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx"
+        },
+        {
+          "name": "Paige",
+          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
+        },
+        {
+          "name": "Biishop",
+          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
+        }
+      ],
+      "duration_ms": 198937,
+      "name": "Innocent",
+      "url": "https://open.spotify.com/track/6OQsyB9GiCflqxFRY2RBQs"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Riga",
+        "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
+      },
+      "artists": [
+        {
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        },
+        {
+          "name": "Marc Werner",
+          "url": "https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr"
+        }
+      ],
+      "duration_ms": 315371,
+      "name": "Riga",
+      "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
         "name": "Better",
         "url": "https://open.spotify.com/album/3vw4GXfOE9tyK3sr5Tm4ye"
       },
@@ -2527,46 +2571,22 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Riga",
-        "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
+        "name": "Waka",
+        "url": "https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB"
       },
       "artists": [
         {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+          "name": "Batuhan K\u0131n\u0131k",
+          "url": "https://open.spotify.com/artist/4Y3WP8PTL2r3PLxJxlUyBP"
         },
         {
-          "name": "Marc Werner",
-          "url": "https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr"
+          "name": "AFRONOM",
+          "url": "https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0"
         }
       ],
-      "duration_ms": 315371,
-      "name": "Riga",
-      "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "Innocent",
-        "url": "https://open.spotify.com/album/4LywYeuBUjMzFS1vfXSeFC"
-      },
-      "artists": [
-        {
-          "name": "Re.You",
-          "url": "https://open.spotify.com/artist/3AE5c8fBFJYdxXHCSXAyVx"
-        },
-        {
-          "name": "Paige",
-          "url": "https://open.spotify.com/artist/4Z99ysbztLlZqmYK3urV7w"
-        },
-        {
-          "name": "Biishop",
-          "url": "https://open.spotify.com/artist/1vaoL5LaD2f0jG2UlrY5yF"
-        }
-      ],
-      "duration_ms": 198937,
-      "name": "Innocent",
-      "url": "https://open.spotify.com/track/6OQsyB9GiCflqxFRY2RBQs"
+      "duration_ms": 157500,
+      "name": "Waka",
+      "url": "https://open.spotify.com/track/0gnM3s2dCx7wxa4vX3cqSH"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2595,26 +2615,6 @@
       "duration_ms": 295081,
       "name": "Wonderful Life - JOSEPH Remix",
       "url": "https://open.spotify.com/track/6OxIJz7VmPSDCtrQrmRNHe"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "Waka",
-        "url": "https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB"
-      },
-      "artists": [
-        {
-          "name": "Batuhan K\u0131n\u0131k",
-          "url": "https://open.spotify.com/artist/4Y3WP8PTL2r3PLxJxlUyBP"
-        },
-        {
-          "name": "AFRONOM",
-          "url": "https://open.spotify.com/artist/05bZsDsrfQMnG83yks0Sg0"
-        }
-      ],
-      "duration_ms": 157500,
-      "name": "Waka",
-      "url": "https://open.spotify.com/track/0gnM3s2dCx7wxa4vX3cqSH"
     },
     {
       "added_at": "2025-01-17 05:00:33",

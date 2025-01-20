@@ -1,12 +1,12 @@
 {
   "description": "This is Bon Iver. The essential tracks, all in one playlist.",
-  "num_followers": 272055,
+  "num_followers": 272125,
   "original_name": "This Is Bon Iver",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADNHEfdCml884WnB5Nwc3r2",
+  "snapshot_id": "Z4rvAAAAAAD+c+OsQLI78++ohu0goiFp",
   "tracks": [
     {
       "added_at": null,
@@ -527,22 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AUATC",
-        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
-      },
-      "artists": [
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 142125,
-      "name": "AUATC",
-      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Heart of Gold (with Bon Iver)",
         "url": "https://open.spotify.com/album/2dwZS75dB000xVnvUDBHYH"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 172190,
       "name": "Heart of Gold (with Bon Iver)",
       "url": "https://open.spotify.com/track/7zh9Phpu0GVQ6bCbPHiZAf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AUATC",
+        "url": "https://open.spotify.com/album/34vuelnZf81DSBwmZ4NAiP"
+      },
+      "artists": [
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
+        }
+      ],
+      "duration_ms": 142125,
+      "name": "AUATC",
+      "url": "https://open.spotify.com/track/5aGXoGa7ZmsYr3dvQJsR7R"
     },
     {
       "added_at": null,

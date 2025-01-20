@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,073 songs - 6 day 17 hr 51 min
+3,074 songs - 6 day 17 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -407,6 +407,7 @@
 | [Bloquinho P5](https://open.spotify.com/track/4zJNs4JLa4UIhkmBUlkfgx) | [Black Style](https://open.spotify.com/artist/0MwGDCIG2tkpyivpP06FQN) | [Bloquinho P5](https://open.spotify.com/album/5qbDFvGiABxXGLBPcDU6sL) | 4:50 | 2024-05-27 | 2024-06-26 |
 | [Bloquinho Resenha 1.0](https://open.spotify.com/track/5TkrD3UX1D6ZWJ71fWgcfS) | [Oh Predileto](https://open.spotify.com/artist/3lJCjPYXwogOFWkbDcE86O) | [Bloquinho Resenha](https://open.spotify.com/album/0ojtvlrvuuwgmRVSzDVo4G) | 5:02 | 2024-09-17 | 2024-09-29 |
 | [BLUE](https://open.spotify.com/track/2prqm9sPLj10B4Wg0wE5x9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:43 | 2024-06-04 | 2024-06-19 |
+| [blue](https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [blue](https://open.spotify.com/album/5aelly3dAJd7yZlgUHpLBw) | 3:34 | 2025-01-19 |  |
 | [Blue Hair](https://open.spotify.com/track/39sDitIeCMrVX2QyXHY46t) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [Death of a Party Girl](https://open.spotify.com/album/5kFjYk3umY8Pu1lymIJLVy) | 3:37 | 2023-02-18 | 2023-05-24 |
 | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/track/6JcfaecQ8RsDQXTFqs7zJl) | [Nick Die](https://open.spotify.com/artist/1neKlb3mSCsIqqlEF4hesS), [WMBR](https://open.spotify.com/artist/2an7bxC6SGMZ0OsS6w4C28) | [Boa Noite, DEUS \(Sped Up\)](https://open.spotify.com/album/6vDMX7sjhMLyG4Bp2NTVyj) | 2:48 | 2023-03-14 | 2023-04-23 |
 | [Body Paint](https://open.spotify.com/track/42GuKw49pPxNAkIhWGwgFs) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [The Car](https://open.spotify.com/album/2GROf0WKoP5Er2M9RXVNNs) | 4:50 | 2022-10-25 | 2022-10-30 |
@@ -1122,7 +1123,7 @@
 | [FUNK ESTRANHO \- SUPER SLOWED](https://open.spotify.com/track/4QdSkchEnVddhTy1PO9iv9) | [ALXIKE](https://open.spotify.com/artist/4SbtvEgtu7QsmFjjBzyV8F) | [FUNK ESTRANHO \- SUPER SLOWED](https://open.spotify.com/album/7jGx3EgvTllCvIhKIJuXce) | 2:30 | 2024-05-02 | 2024-05-04 |
 | [Funk Natalino \(Beat do Natal\)](https://open.spotify.com/track/4i0atH0C0sU59st1JoWs2T) | [DJ Michael](https://open.spotify.com/artist/7vKKUN1mivSg67Jg7uGUso) | [Funk Natalino \(Beat do Natal\)](https://open.spotify.com/album/1GpdM098Kal7084Qq5XTaK) | 2:34 | 2023-12-26 | 2025-01-02 |
 | [Furduncin](https://open.spotify.com/track/3r0LcI4xgkc9FI8pyqvvL0) | [DJ Biel do Furduncinho](https://open.spotify.com/artist/6Us5Zsn5MAHBk7SHBUsG5X), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [LUCK MUZIK](https://open.spotify.com/artist/6D7tQSIfrZtGfHVYesKXvR) | [Furduncin](https://open.spotify.com/album/4Oj3nZNljdKEt2M3jvuIRC) | 2:08 | 2023-03-28 | 2023-04-01 |
-| [Fuso](https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Fuso](https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP) | 1:54 | 2024-12-31 |  |
+| [Fuso](https://open.spotify.com/track/2nslVYxt22gZWqj5sdUDPG) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [Fuso](https://open.spotify.com/album/0rcupX7bbHXldxZRlTBItP) | 1:54 | 2024-12-31 | 2025-01-20 |
 | [Fé](https://open.spotify.com/track/647I6AeX6QTUWrW3mQkPCm) | [IZA](https://open.spotify.com/artist/3zgnrYIltMkgeejmvMCnes) | [Fé](https://open.spotify.com/album/1zY9fsTzRpo14orML00h25) | 3:05 | 2022-06-28 | 2022-07-06 |
 | [Fé \- Ao Vivo](https://open.spotify.com/track/0JBC2rItQc5K8wMZrMDV2r) | [Caetano Veloso](https://open.spotify.com/artist/7HGNYPmbDrMkylWqeFCOIQ), [Maria Bethânia](https://open.spotify.com/artist/3f5VCwd57gZsqMad28jyLV) | [Fé \(Ao Vivo\)](https://open.spotify.com/album/0fwc0d0RgaCypAt32HGICQ) | 3:32 | 2024-12-31 | 2025-01-10 |
 | [FΛSHION](https://open.spotify.com/track/4YQgOgIElFtEvwJQ9ArWL7) | [Britney Manson](https://open.spotify.com/artist/7GtPtPbDC5CLNzSNxVpqaf) | [FΛSHION](https://open.spotify.com/album/7umRaDZ9FqTaL2EWZvGMEX) | 2:26 | 2023-10-15 | 2023-10-28 |

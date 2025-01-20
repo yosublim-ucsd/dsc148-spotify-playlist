@@ -37713,6 +37713,24 @@
     },
     {
       "album": {
+        "name": "Utopia",
+        "url": "https://open.spotify.com/album/14YvDsN7BmpKDqpAXhjGba"
+      },
+      "artists": [
+        {
+          "name": "Vexxed",
+          "url": "https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203898,
+      "name": "Utopia",
+      "url": "https://open.spotify.com/track/6OfBDwczRKT2wMj1s0YqBJ"
+    },
+    {
+      "album": {
         "name": "Defqon.1 2022",
         "url": "https://open.spotify.com/album/0IIZiAU8DR9Jk586zHolw2"
       },

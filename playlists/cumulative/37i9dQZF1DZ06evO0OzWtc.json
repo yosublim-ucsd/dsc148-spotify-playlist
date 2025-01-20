@@ -109,6 +109,40 @@
     },
     {
       "album": {
+        "name": "Bachata B\u00e9lica",
+        "url": "https://open.spotify.com/album/40KVbEIaxXE94S7N1kXGra"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Esquivel",
+          "url": "https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C"
+        },
+        {
+          "name": "Eugenio Esquivel",
+          "url": "https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz"
+        },
+        {
+          "name": "Prince Royce",
+          "url": "https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC"
+        },
+        {
+          "name": "Brray",
+          "url": "https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ"
+        },
+        {
+          "name": "Los Esquivel",
+          "url": "https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195100,
+      "name": "Bachata B\u00e9lica",
+      "url": "https://open.spotify.com/track/5AHWjW3OuZqmv1peHqJdpC"
+    },
+    {
+      "album": {
         "name": "Bagatelle",
         "url": "https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0"
       },

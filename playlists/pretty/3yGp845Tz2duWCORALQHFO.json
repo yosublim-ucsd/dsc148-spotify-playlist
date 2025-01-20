@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25839,
+  "num_followers": 25841,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhwepsUOZFzKnjL/yk/PLd2+7hhcEH",
+  "snapshot_id": "AABhx8nvkbfhb+VfuXBDLgYJ86wyUaQc",
   "tracks": [
     {
       "added_at": "2025-01-17 13:13:22",
@@ -293,6 +293,42 @@
       "url": "https://open.spotify.com/track/6zwbgqvtYYRCNgAcQ0O3TY"
     },
     {
+      "added_at": "2025-01-19 16:15:52",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/4PIbwpGHNuQY23274mr0B9"
+      },
+      "artists": [
+        {
+          "name": "Ran Ziv",
+          "url": "https://open.spotify.com/artist/3Z3mmXBFLcJpvjEEhoR5hA"
+        }
+      ],
+      "duration_ms": 165680,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/4ThtxYoJsAdCm2fY1xuxra"
+    },
+    {
+      "added_at": "2025-01-19 16:16:50",
+      "album": {
+        "name": "Never Love At All",
+        "url": "https://open.spotify.com/album/2jsMsF8ljlK7LQrp0nMK8v"
+      },
+      "artists": [
+        {
+          "name": "Dicosis",
+          "url": "https://open.spotify.com/artist/1OzaVbvTssplYwiAq5xq2V"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        }
+      ],
+      "duration_ms": 210736,
+      "name": "Never Love At All",
+      "url": "https://open.spotify.com/track/0oubk3JBPadROx45Rsityd"
+    },
+    {
       "added_at": "2025-01-17 13:13:22",
       "album": {
         "name": "Generation Connected",
@@ -503,6 +539,58 @@
       "duration_ms": 241714,
       "name": "3rd Earth - Mark Michael Remix",
       "url": "https://open.spotify.com/track/0NahItEH9Eqmf18IAGOiIL"
+    },
+    {
+      "added_at": "2025-01-19 16:15:53",
+      "album": {
+        "name": "Pieces (m00seT\u2019s Extra Broken Remix)",
+        "url": "https://open.spotify.com/album/0SAA05cwDAdHMGtj2DyFEQ"
+      },
+      "artists": [
+        {
+          "name": "Sodie",
+          "url": "https://open.spotify.com/artist/59V7jfLF068vouiSRmDcoe"
+        },
+        {
+          "name": "m00seT",
+          "url": "https://open.spotify.com/artist/5rog4USbIpk9T5O1WwyV7g"
+        }
+      ],
+      "duration_ms": 243409,
+      "name": "Pieces - m00seT\u2019s Extra Broken Remix",
+      "url": "https://open.spotify.com/track/5UUhIDVO54XAS6sa2SFhzo"
+    },
+    {
+      "added_at": "2025-01-19 16:17:50",
+      "album": {
+        "name": "Monsters",
+        "url": "https://open.spotify.com/album/1nZtcWyMi9Xebm7m1IL5FM"
+      },
+      "artists": [
+        {
+          "name": "RENESIS",
+          "url": "https://open.spotify.com/artist/7IOQL9qhk3QnvdeRYtq7kU"
+        }
+      ],
+      "duration_ms": 243320,
+      "name": "Monsters",
+      "url": "https://open.spotify.com/track/58gV0OSJRPhw6Y6c0oLzOM"
+    },
+    {
+      "added_at": "2025-01-19 16:14:52",
+      "album": {
+        "name": "Morgan Says",
+        "url": "https://open.spotify.com/album/36tLBREXbNWIWl99IlgBft"
+      },
+      "artists": [
+        {
+          "name": "R3ND",
+          "url": "https://open.spotify.com/artist/3kzkwE5OSH8L50iHuHc6KF"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Morgan Says",
+      "url": "https://open.spotify.com/track/3jysBi8BtKC5NCEQE7hEhX"
     },
     {
       "added_at": "2025-01-17 13:13:22",
@@ -867,6 +955,22 @@
       "duration_ms": 186315,
       "name": "Sound of the Underground",
       "url": "https://open.spotify.com/track/6izkirLr49VxNFpHJvi37a"
+    },
+    {
+      "added_at": "2025-01-19 16:15:54",
+      "album": {
+        "name": "Bunker Man",
+        "url": "https://open.spotify.com/album/4dIfqooXpb96ry3qNDzC6Z"
+      },
+      "artists": [
+        {
+          "name": "Energy Whores",
+          "url": "https://open.spotify.com/artist/5xzCpja40rDDtReQ38R4pF"
+        }
+      ],
+      "duration_ms": 245185,
+      "name": "Bunker Man",
+      "url": "https://open.spotify.com/track/7c2IbziGaeTCiNvF2BoXyC"
     },
     {
       "added_at": "2025-01-17 13:13:22",

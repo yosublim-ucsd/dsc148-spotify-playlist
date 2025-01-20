@@ -1,12 +1,12 @@
 {
   "description": "This is Dropkick Murphys. The essential tracks, all in one playlist.",
-  "num_followers": 119322,
+  "num_followers": 119324,
   "original_name": "This Is Dropkick Murphys",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAABNpe+RaXGLskUNhnQuIAqu",
+  "snapshot_id": "Z4rvAAAAAADa84mCYrsu8itPJJUZTz8Q",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cold Like This",
+        "url": "https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah"
+      },
+      "artists": [
+        {
+          "name": "The Rumjacks",
+          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
+        },
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 156618,
+      "name": "Cold Like This",
+      "url": "https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sing Loud, Sing Proud",
         "url": "https://open.spotify.com/album/6nSdfegzGY00ZxQbWheM1K"
       },
@@ -311,22 +331,6 @@
       "duration_ms": 167866,
       "name": "The Gauntlet",
       "url": "https://open.spotify.com/track/2k04smaUFd7O1VzerdOxxS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 153600,
-      "name": "Boys on the Docks",
-      "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
     },
     {
       "added_at": null,
@@ -347,8 +351,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Warrior's Code",
-        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
       "artists": [
         {
@@ -356,9 +360,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 202000,
-      "name": "Sunshine Highway",
-      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
+      "duration_ms": 153600,
+      "name": "Boys on the Docks",
+      "url": "https://open.spotify.com/track/2i2R0D5zcsj0KUcVCfy9ZO"
     },
     {
       "added_at": null,
@@ -379,8 +383,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+        "name": "The Warrior's Code",
+        "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
       "artists": [
         {
@@ -388,9 +392,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 109134,
-      "name": "Cadence To Arms",
-      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
+      "duration_ms": 202000,
+      "name": "Sunshine Highway",
+      "url": "https://open.spotify.com/track/1EXDMLfIARnwMlpLq3xo4f"
     },
     {
       "added_at": null,
@@ -411,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sirens",
-        "url": "https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz"
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
       "artists": [
         {
@@ -420,9 +424,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 225175,
-      "name": "Sirens",
-      "url": "https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ"
+      "duration_ms": 109134,
+      "name": "Cadence To Arms",
+      "url": "https://open.spotify.com/track/5YHOnqIrjhRy5ThzFRWONC"
     },
     {
       "added_at": null,
@@ -475,6 +479,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sirens",
+        "url": "https://open.spotify.com/album/1ewlZfa3zi8BhYrMhUUgZz"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 225175,
+      "name": "Sirens",
+      "url": "https://open.spotify.com/track/1EiUGhTnjzJp6OTrPWoAtZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Warrior's Code",
         "url": "https://open.spotify.com/album/2sZGDqHfU884z3iFris122"
       },
@@ -487,22 +507,6 @@
       "duration_ms": 161026,
       "name": "The Auld Triangle",
       "url": "https://open.spotify.com/track/0waMJXxhuGuyTt8epERx7m"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Gang's All Here",
-        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 158600,
-      "name": "Amazing Grace",
-      "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
     },
     {
       "added_at": null,
@@ -539,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Gang's All Here",
+        "url": "https://open.spotify.com/album/7wxC9iVmZ4ecJCh9rChMyy"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        }
+      ],
+      "duration_ms": 158600,
+      "name": "Amazing Grace",
+      "url": "https://open.spotify.com/track/7IABmPLWB1FEQckIPgl0oA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okemah Rising",
         "url": "https://open.spotify.com/album/40SrskkBlg2KUdW4zhG2hK"
       },
@@ -551,30 +571,6 @@
       "duration_ms": 132393,
       "name": "My Eyes Are Gonna Shine",
       "url": "https://open.spotify.com/track/0rCu0jiqoJHsqaarwraeRA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Machine Still Kills Fascists (Expanded Edition)",
-        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
-      },
-      "artists": [
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        },
-        {
-          "name": "Evan Felker",
-          "url": "https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb"
-        },
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 213357,
-      "name": "The Last One (feat. Evan Felker of Turnpike Troubadours)",
-      "url": "https://open.spotify.com/track/1rWZj9AJHpzT93KDVfl2mK"
     },
     {
       "added_at": null,
@@ -607,6 +603,30 @@
       "duration_ms": 140693,
       "name": "Peg O' My Heart",
       "url": "https://open.spotify.com/track/435VOrlsquEIBjvVCV4z77"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This Machine Still Kills Fascists (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3WK3HkX9lTZIhnHdehjEGB"
+      },
+      "artists": [
+        {
+          "name": "Dropkick Murphys",
+          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
+        },
+        {
+          "name": "Evan Felker",
+          "url": "https://open.spotify.com/artist/43iiZAwWAR25d3hI9kjrDb"
+        },
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 213357,
+      "name": "The Last One (feat. Evan Felker of Turnpike Troubadours)",
+      "url": "https://open.spotify.com/track/1rWZj9AJHpzT93KDVfl2mK"
     },
     {
       "added_at": null,
@@ -659,8 +679,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Turn Up That Dial (Expanded Version)",
-        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
+        "name": "Do Or Die",
+        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
       },
       "artists": [
         {
@@ -668,9 +688,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 222749,
-      "name": "Turn Up That Dial",
-      "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
+      "duration_ms": 139152,
+      "name": "Finnegan's Wake",
+      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
     },
     {
       "added_at": null,
@@ -691,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do Or Die",
-        "url": "https://open.spotify.com/album/5EKDBIKZ37Idq0QiXG2qzk"
+        "name": "Turn Up That Dial (Expanded Version)",
+        "url": "https://open.spotify.com/album/78w6uEHeU1OrOTCh1XwnYd"
       },
       "artists": [
         {
@@ -700,9 +720,9 @@
           "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
         }
       ],
-      "duration_ms": 139152,
-      "name": "Finnegan's Wake",
-      "url": "https://open.spotify.com/track/5L7nmlaU9TO3PZ8b7cVNqE"
+      "duration_ms": 222749,
+      "name": "Turn Up That Dial",
+      "url": "https://open.spotify.com/track/7MrhtohRvCMwPC7VPcNzru"
     },
     {
       "added_at": null,
@@ -803,26 +823,6 @@
       "duration_ms": 173133,
       "name": "Time To Go",
       "url": "https://open.spotify.com/track/543QuFu0LhPpbIVdrACJd9"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cold Like This",
-        "url": "https://open.spotify.com/album/4YRRq7Wef0x4HnDcCd15ah"
-      },
-      "artists": [
-        {
-          "name": "The Rumjacks",
-          "url": "https://open.spotify.com/artist/0w2KUuMj7dvP8dV4tzoltd"
-        },
-        {
-          "name": "Dropkick Murphys",
-          "url": "https://open.spotify.com/artist/7w9jdhcgHNdiPeNPUoFSlx"
-        }
-      ],
-      "duration_ms": 156618,
-      "name": "Cold Like This",
-      "url": "https://open.spotify.com/track/2MKYwlWp7MkBnpcHHa00p3"
     }
   ],
   "unique_name": "This Is Dropkick Murphys",

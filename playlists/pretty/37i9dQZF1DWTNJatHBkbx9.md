@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTNJatHBkbx9.md) - [plain]
 
 > From the alternative scene in Ghana\. Cover: Malaika
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,931 likes - 80 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,939 likes - 80 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

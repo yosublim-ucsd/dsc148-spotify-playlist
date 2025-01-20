@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/65txKM8JvWVEJORHstAcVL.md) - cumulative - [plain](/playlists/plain/65txKM8JvWVEJORHstAcVL) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/65txKM8JvWVEJORHstAcVL)
 
-### [LA LLISTA DE FLAIXBAC \(12/01/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
+### [LA LLISTA DE FLAIXBAC \(19/01/2025\)](https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL)
 
 > La Llista amb els 45 èxits de Flaixbac\. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras\. Vota el pròxim número 1 de La Llista a la nostra web: https:&\#x2F;&\#x2F;flaixbac.cat&\#x2F;la\-llista
 
-131 songs - 6 hr 30 min
+133 songs - 6 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [Bad Dreams](https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Bad Dreams](https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR) | 3:04 | 2024-11-10 |  |
 | [Barcelona](https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Ina Wroldsen](https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3) | [Barcelona](https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN) | 3:25 | 2024-08-18 |  |
 | [Beautiful Things](https://open.spotify.com/track/6tNQ70jh4OwmPGpYy6R2o9) | [Benson Boone](https://open.spotify.com/artist/22wbnEMDvgVIAGdFeek6ET) | [Beautiful Things](https://open.spotify.com/album/29aSKB1qPEbN0Qf9OPSQpw) | 3:00 | 2024-02-11 | 2025-01-13 |
+| [Believe \(Shooting Stars\)](https://open.spotify.com/track/7fJdto9euM593wybpCdEPV) | [R3HAB](https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ), [Mufasa & Hypeman](https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0), [Mufasa](https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [Believe \(Shooting Stars\)](https://open.spotify.com/album/79WFgZm35smuyjipo6fouj) | 2:34 | 2025-01-19 |  |
 | [Belong Together](https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Belong Together](https://open.spotify.com/album/3PlCMwyq6nuQYtoYproV1o) | 2:28 | 2024-06-09 |  |
 | [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-09-08 |  |
 | [Boig X Tu](https://open.spotify.com/track/1ECjtBKeOS6rV7exnE5fYG) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR) | [Sempre Joves x10](https://open.spotify.com/album/2CieTUcjWa7KsdEd8zyRWw) | 3:08 | 2024-07-14 | 2024-09-02 |
@@ -44,7 +45,7 @@
 | [Dreaming](https://open.spotify.com/track/4NUmZ5svM1Bbmaz5udqUeJ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [P!nk](https://open.spotify.com/artist/1KCSPY1glIKqW2TotWuXOR), [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk) | [Dreaming](https://open.spotify.com/album/7msKLkViyWdF6X3QdlC6wK) | 2:50 | 2023-11-12 | 2024-03-18 |
 | [El club de la sisena hora](https://open.spotify.com/track/7a5RpWYAhhn2tzEa58aA4b) | [Sexenni](https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR) | [El club de la sisena hora](https://open.spotify.com/album/0DQYzvlS4d7DmuLBtkqo3V) | 2:26 | 2024-11-03 |  |
 | [Els teus ulls](https://open.spotify.com/track/6cPe7rorhofISE335CqPmH) | [Alfred García](https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx) | [Els teus ulls](https://open.spotify.com/album/3D68fVBSVoz7QvrkysKjPq) | 2:31 | 2023-11-05 | 2024-08-19 |
-| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-02 |  |
+| [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-02 | 2025-01-20 |
 | [Eyes Closed](https://open.spotify.com/track/4o120XeV8els1S5bu7mzBX) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Eyes Closed](https://open.spotify.com/album/4p78uCfiL8gmt2AKrlWATG) | 3:20 | 2024-04-14 | 2024-09-02 |
 | [Fa Dies](https://open.spotify.com/track/2NnV4FSgDsRSzaTIaoKt8b) | [The Tyets](https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT), [Chiara Oliver](https://open.spotify.com/artist/5zeSRJxJzaOyxt9p4kxMLg) | [Fa Dies](https://open.spotify.com/album/7A0S0A22wCBCkl8KHO1Ed0) | 2:43 | 2024-09-22 | 2024-12-02 |
 | [feelslikeimfallinginlove \- Single Version](https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU) | [feelslikeimfallinginlove](https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve) | 3:57 | 2024-07-14 |  |
@@ -82,6 +83,7 @@
 | [Madrid City](https://open.spotify.com/track/6KHxe3Yj8W8oq3zviUvJRe) | [Ana Mena](https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl) | [Madrid City](https://open.spotify.com/album/10FIZ9MLyrK0ddmsMmDE98) | 2:52 | 2023-10-08 | 2024-06-03 |
 | [Malèfica](https://open.spotify.com/track/5AgyV3dRa5xJetCw5ciOsJ) | [Lal'Ba](https://open.spotify.com/artist/1wlYowWXP2lahrXGn5opzG) | [Malèfica](https://open.spotify.com/album/1OTlOo1pni9yNH9ySQsATT) | 2:31 | 2024-10-20 |  |
 | [Menys mal que ja és Nadal](https://open.spotify.com/track/6r4wi7GincZxxQq12ZnRWv) | [Siderland](https://open.spotify.com/artist/0J4ED5b2q2T3B6OhOvNFru) | [Menys mal que ja és Nadal](https://open.spotify.com/album/4RAv69esnKNHWnX6esgUAf) | 2:39 | 2024-12-15 | 2025-01-13 |
+| [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-19 |  |
 | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [Moonlit Floor \(Kiss Me\)](https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb) | 2:35 | 2024-11-03 |  |
 | [No\_se\_ve.mp3](https://open.spotify.com/track/2iIBpwP4FyQ95xgVail3yr) | [Emilia](https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9), [LUDMILLA](https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi), [ZECCA](https://open.spotify.com/artist/2Yia9CwtgcrsN5kVOQ0qRA) | [No\_se\_ve.mp3](https://open.spotify.com/album/7sAPapzxqBhYuDe7OxldCN) | 3:23 | 2023-09-24 | 2024-05-27 |
 | [Només viure](https://open.spotify.com/track/1JElpM8NFE6PzsTRkca0ru) | [Ginestà](https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6) | [Només viure](https://open.spotify.com/album/3mM29JednHFHMa4JCMDxvg) | 2:16 | 2024-11-17 |  |
@@ -90,7 +92,7 @@
 | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1), [Ralphie Choo](https://open.spotify.com/artist/5qjnPRE33rMgYAxIjGUrI7) | [Omega \(feat\. Ralphie Choo\)](https://open.spotify.com/album/5wtVvVmUynbA3Yj1Pqys8w) | 2:49 | 2024-10-20 |  |
 | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/track/3bK1zVFBKIzYjmptmI4NsJ) | [Ofenbach](https://open.spotify.com/artist/4AKwRarlmsUlLjIwt38NLw), [Norma Jean Martine](https://open.spotify.com/artist/2fsk4VlJdNF6G8cCMDrrzB) | [Overdrive \(feat\. Norma Jean Martine\)](https://open.spotify.com/album/2axYqSKAhWaN60ijTZ0XXg) | 2:35 | 2023-12-24 | 2024-06-10 |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-10-15 | 2024-04-08 |
-| [Papallones](https://open.spotify.com/track/0fnoCJwwsYzBeYB4tsjTGM) | [JULS](https://open.spotify.com/artist/63h9kiR97eiLOwDCBOyvzZ) | [Papallones](https://open.spotify.com/album/578xETaBKvOEn6bX6GzdFB) | 2:48 | 2024-11-17 |  |
+| [Papallones](https://open.spotify.com/track/0fnoCJwwsYzBeYB4tsjTGM) | [JULS](https://open.spotify.com/artist/63h9kiR97eiLOwDCBOyvzZ) | [Papallones](https://open.spotify.com/album/578xETaBKvOEn6bX6GzdFB) | 2:48 | 2024-11-17 | 2025-01-20 |
 | [Passen coses](https://open.spotify.com/track/2zCFH8oIRZnk0NLbMGYPqH) | [Suu](https://open.spotify.com/artist/7He3EH9c66ZwBtIMHGdyIA) | [Passen coses](https://open.spotify.com/album/6v7R079cecpwRJjUwVwJou) | 2:47 | 2024-06-23 | 2024-11-18 |
 | [Please Please Please](https://open.spotify.com/track/5N3hjp1WNayUPZrA8kJmJP) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Please Please Please](https://open.spotify.com/album/5bBaoign62r1i7OV8w7mi9) | 3:06 | 2024-06-30 | 2024-10-21 |
 | [Puntería](https://open.spotify.com/track/6pW82dtuBNNpI1ytFasNgr) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Puntería](https://open.spotify.com/album/5TFRrSuyYMoRsVb4MA8dUp) | 3:01 | 2024-03-31 | 2024-09-09 |

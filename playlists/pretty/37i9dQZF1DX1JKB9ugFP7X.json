@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor del electropop latino. Foto: Javiera Mena",
-  "num_followers": 24400,
+  "num_followers": 24406,
   "original_name": "Electropop",
   "owner": {
     "name": "Spotify",
@@ -155,38 +155,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Anestesia",
-        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
-      },
-      "artists": [
-        {
-          "name": "Peces Raros",
-          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
-        }
-      ],
-      "duration_ms": 286424,
-      "name": "No Van a Parar",
-      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Paralelos",
-        "url": "https://open.spotify.com/album/546I7TC2jo8xjpQ8wOdYWl"
-      },
-      "artists": [
-        {
-          "name": "Letizia Vocos",
-          "url": "https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8"
-        }
-      ],
-      "duration_ms": 232500,
-      "name": "Paralelos",
-      "url": "https://open.spotify.com/track/5w3HWGK9jV9Q4CJRnpDtCe"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Dime Precioso",
         "url": "https://open.spotify.com/album/0XQlp7eRuD0IqRaxtdVqmW"
       },
@@ -203,18 +171,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+        "name": "Paralelos",
+        "url": "https://open.spotify.com/album/546I7TC2jo8xjpQ8wOdYWl"
       },
       "artists": [
         {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+          "name": "Letizia Vocos",
+          "url": "https://open.spotify.com/artist/77rQe9vdtoafAbGNaiowu8"
         }
       ],
-      "duration_ms": 163994,
-      "name": "Yegua",
-      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
+      "duration_ms": 232500,
+      "name": "Paralelos",
+      "url": "https://open.spotify.com/track/5w3HWGK9jV9Q4CJRnpDtCe"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -239,6 +207,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Anestesia",
+        "url": "https://open.spotify.com/album/28uJVNr4dYysur0Fcay4B2"
+      },
+      "artists": [
+        {
+          "name": "Peces Raros",
+          "url": "https://open.spotify.com/artist/5UI7HXsBEfRSsf0T4t48Q9"
+        }
+      ],
+      "duration_ms": 286424,
+      "name": "No Van a Parar",
+      "url": "https://open.spotify.com/track/1GLYsZMbHm72Uy2QvzdgDQ"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Im a Star",
         "url": "https://open.spotify.com/album/1zebOb5UkfBDAj19xWBgBx"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 147510,
       "name": "Im a Star",
       "url": "https://open.spotify.com/track/1As9E1SkTEgCyggNXDwjbB"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/3sjYvK0dmsaQSqQZR5Tn51"
+      },
+      "artists": [
+        {
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
+        }
+      ],
+      "duration_ms": 163994,
+      "name": "Yegua",
+      "url": "https://open.spotify.com/track/1g5e3TeiR729trUSWY5BBa"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -439,26 +439,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "PARA AFUERA",
-        "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
-      },
-      "artists": [
-        {
-          "name": "CA7RIEL",
-          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
-        },
-        {
-          "name": "Paco Amoroso",
-          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
-        }
-      ],
-      "duration_ms": 154737,
-      "name": "PARA AFUERA",
-      "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "Espantap\u00e1jaros",
         "url": "https://open.spotify.com/album/3acst57Nr9DMxKRjvKhvUg"
       },
@@ -475,6 +455,26 @@
       "duration_ms": 172500,
       "name": "Espantap\u00e1jaros",
       "url": "https://open.spotify.com/track/3FTM8opz8X75WNvaXIRtQJ"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "PARA AFUERA",
+        "url": "https://open.spotify.com/album/7aQXo5nVGDCxkW2oOwDXv9"
+      },
+      "artists": [
+        {
+          "name": "CA7RIEL",
+          "url": "https://open.spotify.com/artist/348pk4o3EhKmsSahzuClSf"
+        },
+        {
+          "name": "Paco Amoroso",
+          "url": "https://open.spotify.com/artist/3E7NGbzUGlOjgYY8nvtijR"
+        }
+      ],
+      "duration_ms": 154737,
+      "name": "PARA AFUERA",
+      "url": "https://open.spotify.com/track/6d0vMjFXHK2GkM7DOnwL5h"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -799,26 +799,6 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Todas las Luces (Remix)",
-        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
-      },
-      "artists": [
-        {
-          "name": "Nadar de Noche",
-          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
-        },
-        {
-          "name": "Disonar",
-          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Todas las Luces - Remix",
-      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
         "name": "La Mar (Remixes)",
         "url": "https://open.spotify.com/album/7BUfVp5TlqMljuNoO8tX1O"
       },
@@ -835,6 +815,26 @@
       "duration_ms": 347000,
       "name": "Dejarte de Querer - Nico Castro Remix",
       "url": "https://open.spotify.com/track/6PXKYJVbtpfZuOTmiIgJC2"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
+        "name": "Todas las Luces (Remix)",
+        "url": "https://open.spotify.com/album/5Fr5IOMBv1NOgi1WNyr5J0"
+      },
+      "artists": [
+        {
+          "name": "Nadar de Noche",
+          "url": "https://open.spotify.com/artist/4XnY6XFP4XOowCR7184get"
+        },
+        {
+          "name": "Disonar",
+          "url": "https://open.spotify.com/artist/5l1T9yWFAtznVgMMwhdnXM"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Todas las Luces - Remix",
+      "url": "https://open.spotify.com/track/0qAKOBaiohXNTHgQU6NfvR"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
+        "name": "Gritan Fuerte",
+        "url": "https://open.spotify.com/album/69CyCtEbufErhbo60ck42J"
+      },
+      "artists": [
+        {
+          "name": "Lucia Tacchetti",
+          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
+        }
+      ],
+      "duration_ms": 212893,
+      "name": "Gritan Fuerte",
+      "url": "https://open.spotify.com/track/37bh1EbB0oJQRqxhvJ92nG"
+    },
+    {
+      "added_at": "2024-11-15 03:00:00",
+      "album": {
         "name": "Dir\u00e9 tu nombre",
         "url": "https://open.spotify.com/album/04ABlbA8bASVGdjfq1aNwr"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 273337,
       "name": "Compa\u00f1erx",
       "url": "https://open.spotify.com/track/1fzGUsPb2RAXOZDHzKXN5Q"
-    },
-    {
-      "added_at": "2024-11-15 03:00:00",
-      "album": {
-        "name": "Gritan Fuerte",
-        "url": "https://open.spotify.com/album/69CyCtEbufErhbo60ck42J"
-      },
-      "artists": [
-        {
-          "name": "Lucia Tacchetti",
-          "url": "https://open.spotify.com/artist/374jlNpaJvanFJrslZYHBJ"
-        }
-      ],
-      "duration_ms": 212893,
-      "name": "Gritan Fuerte",
-      "url": "https://open.spotify.com/track/37bh1EbB0oJQRqxhvJ92nG"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1395,18 +1395,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Atempera la Distancia (Club Set)",
-        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
+        "name": "Inevitable",
+        "url": "https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD"
       },
       "artists": [
         {
-          "name": "Pyura",
-          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
+          "name": "Linxes",
+          "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
         }
       ],
-      "duration_ms": 2137877,
-      "name": "Atempera la Distancia (Club Set)",
-      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
+      "duration_ms": 170822,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C"
     },
     {
       "added_at": "2024-11-15 03:00:00",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2024-11-15 03:00:00",
       "album": {
-        "name": "Inevitable",
-        "url": "https://open.spotify.com/album/5eT8H8Y5zfsanEnb6Di0DD"
+        "name": "Atempera la Distancia (Club Set)",
+        "url": "https://open.spotify.com/album/1lwmhcrUMgCgGqs5e0NDoh"
       },
       "artists": [
         {
-          "name": "Linxes",
-          "url": "https://open.spotify.com/artist/6dk5stiRd8YEY9knhBEUhx"
+          "name": "Pyura",
+          "url": "https://open.spotify.com/artist/77cMdN9JK8HlrCtHdPKSHi"
         }
       ],
-      "duration_ms": 170822,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/3WUukHkmTJ2hxgtROoka0C"
+      "duration_ms": 2137877,
+      "name": "Atempera la Distancia (Club Set)",
+      "url": "https://open.spotify.com/track/69LUlnai0QHkLDueF0tFsD"
     },
     {
       "added_at": "2024-11-15 03:00:00",

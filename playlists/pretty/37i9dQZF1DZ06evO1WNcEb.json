@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66924,
+  "num_followers": 66928,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAD4UT18MTXZ9rHHL0heJOPX",
+  "snapshot_id": "Z4rvAAAAAADKEpkSNZJsytKJV4NSIHHS",
   "tracks": [
     {
       "added_at": null,
@@ -427,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Deus no Controle",
+        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 291646,
+      "name": "Deus no Controle",
+      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "A Alma Abatida (Ao Vivo)",
         "url": "https://open.spotify.com/album/5x56ATN1IgwZwyDpwsG8VJ"
       },
@@ -459,22 +475,6 @@
       "duration_ms": 319166,
       "name": "Grande \u00e9 o Nosso Deus",
       "url": "https://open.spotify.com/track/0Vl4I5bz6qiAs6VdaxdpA8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Deus no Controle",
-        "url": "https://open.spotify.com/album/5Lhj5KJpJq1itPLJd1EWPq"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 291646,
-      "name": "Deus no Controle",
-      "url": "https://open.spotify.com/track/3BhJP1pvSi2VQdin38456g"
     },
     {
       "added_at": null,

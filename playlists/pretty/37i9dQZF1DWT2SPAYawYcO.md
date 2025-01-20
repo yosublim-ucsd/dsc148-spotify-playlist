@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > The best new songs of the week! Cover: Spacey Jane
 
-[Spotify](https://open.spotify.com/user/spotify) - 390,033 likes - 84 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 390,046 likes - 84 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 83 | [Hurts Different](https://open.spotify.com/track/4JQAx07ymzsRegTgjlCNg6) | [Isabella Kearney](https://open.spotify.com/artist/3IiEUjaWFpelGMcTTRGBDL) | [Hurts Different](https://open.spotify.com/album/0tuEjKKxbF3gOLjN5wlRPc) | 2:21 |
 | 84 | [GASOLINE](https://open.spotify.com/track/6Gf8eDCBIRdi6FWNUZYJs4) | [Dead Mall](https://open.spotify.com/artist/4gQc96YtGmZ6IQkdzmRzqV) | [GASOLINE](https://open.spotify.com/album/3q6Ah1NaAEyqqPUMGzQ0Rh) | 2:32 |
 
-Snapshot ID: `Z4kC7QAAAABS3EqEmCbtCmg/6KP4cXMQ`
+Snapshot ID: `Z42DlAAAAACtPjWly6KhHfR1OlIQ0aX/`

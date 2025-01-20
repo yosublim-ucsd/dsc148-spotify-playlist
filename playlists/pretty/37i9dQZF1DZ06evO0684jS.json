@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 875969,
+  "num_followers": 876026,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAACmtuIgnw4ueKU0c5YNYXQd",
+  "snapshot_id": "Z4rvAAAAAAAhU+XOwlAUtHjSK5TWYLJU",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pink Friday 2",
-        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 172137,
-      "name": "FTCU",
-      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday ... Roman Reloaded (Deluxe)",
         "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 183560,
       "name": "Va Va Voom",
       "url": "https://open.spotify.com/track/2jATUzETZL49e6SywauZKE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Pink Friday 2",
+        "url": "https://open.spotify.com/album/2bYCNZfxZrTUv1CHXkz2d2"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 172137,
+      "name": "FTCU",
+      "url": "https://open.spotify.com/track/1a73gcEg6h6Re6hHXoVltJ"
     },
     {
       "added_at": null,
@@ -367,6 +367,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Rich Gang (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB"
+      },
+      "artists": [
+        {
+          "name": "Rich Gang",
+          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+        },
+        {
+          "name": "Birdman",
+          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
+        },
+        {
+          "name": "Mack Maine",
+          "url": "https://open.spotify.com/artist/18AOdS1Qw4XXnQSiPJQr1B"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 284586,
+      "name": "Tapout",
+      "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Princess Diana (with Nicki Minaj)",
         "url": "https://open.spotify.com/album/2Q7WBQ794rA9ISPLfqdKjK"
       },
@@ -407,42 +443,6 @@
       "duration_ms": 223973,
       "name": "All Eyes on You (feat. Chris Brown & Nicki Minaj)",
       "url": "https://open.spotify.com/track/0hy1SOTEn9ifXTzOwnCwEr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rich Gang (Deluxe Version)",
-        "url": "https://open.spotify.com/album/2uhiqri87eC7Xe0tg9p7fB"
-      },
-      "artists": [
-        {
-          "name": "Rich Gang",
-          "url": "https://open.spotify.com/artist/5pU9lKGn9IUnVvOCONrcIS"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
-        },
-        {
-          "name": "Birdman",
-          "url": "https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs"
-        },
-        {
-          "name": "Mack Maine",
-          "url": "https://open.spotify.com/artist/18AOdS1Qw4XXnQSiPJQr1B"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 284586,
-      "name": "Tapout",
-      "url": "https://open.spotify.com/track/39z2CyYexbcwgD0pEeUUeu"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Pinkprint (Tenth Anniversary Edition)",
-        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 269430,
-      "name": "Arctic Tundra (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plain Jane REMIX (feat. Nicki Minaj)",
         "url": "https://open.spotify.com/album/0bVY8ZE63UQOyJQsjjidVn"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 202636,
       "name": "Plain Jane REMIX (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/2YzmfPLqUx5CJOaw5ThsBV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Pinkprint (Tenth Anniversary Edition)",
+        "url": "https://open.spotify.com/album/78H3My21k0xQ72zYFpdrEa"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 269430,
+      "name": "Arctic Tundra (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/2K0PigoeFxviYiQXd4XtLI"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 191600,
+      "name": "Chun-Li",
+      "url": "https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 206266,
       "name": "Ball For Me (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/6IaieqiCVvsNvEt6Y7yOFa"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 191600,
-      "name": "Chun-Li",
-      "url": "https://open.spotify.com/track/1e4rwBPVI32vZtTJu7mJ4J"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Pinkprint (International Deluxe Explicit)",
+        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 260239,
+      "name": "Anaconda",
+      "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) [Remix]",
         "url": "https://open.spotify.com/album/6x8tzop53PDl2tvjIXB9a0"
       },
@@ -815,22 +831,6 @@
       "duration_ms": 268863,
       "name": "The Way Life Goes (feat. Nicki Minaj & Oh Wonder) - Remix",
       "url": "https://open.spotify.com/track/6GNifiuBPrKFpwNBYnooFm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Pinkprint (International Deluxe Explicit)",
-        "url": "https://open.spotify.com/album/40XGTQ7FN6Y3dZXJhKBe96"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 260239,
-      "name": "Anaconda",
-      "url": "https://open.spotify.com/track/5eqiMMbaeUZ32Q7sS00H35"
     },
     {
       "added_at": null,

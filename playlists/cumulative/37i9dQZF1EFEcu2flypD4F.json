@@ -4223,24 +4223,6 @@
     },
     {
       "album": {
-        "name": "Never Give Up (From \"Lion\" Soundtrack)",
-        "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
-      },
-      "artists": [
-        {
-          "name": "Sia",
-          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
-        }
-      ],
-      "date_added": "2023-12-31",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 221986,
-      "name": "Never Give Up",
-      "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
-    },
-    {
-      "album": {
         "name": "Never Give Up (From \"Lion\" Soundtrack - 2020 Animated Video)",
         "url": "https://open.spotify.com/album/7uhiMq8J1BizMGmwZEsrte"
       },
@@ -4256,6 +4238,24 @@
       "duration_ms": 224256,
       "name": "Never Give Up",
       "url": "https://open.spotify.com/track/6KsFyWRBGEvsj7VNK6htAw"
+    },
+    {
+      "album": {
+        "name": "Never Give Up (From \"Lion\" Soundtrack)",
+        "url": "https://open.spotify.com/album/3pOA3oohNOrloauSH9rd8n"
+      },
+      "artists": [
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2023-12-31",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221986,
+      "name": "Never Give Up (From \"Lion\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1ssmjAYSU5PbmsjLq5yrNH"
     },
     {
       "album": {

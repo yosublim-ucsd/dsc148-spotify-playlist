@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca8AyWK6Y7g.md) - [plain]
 
 > living life! cover: Matilda Mann
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,548,429 likes - 135 songs - 7 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,548,359 likes - 135 songs - 7 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

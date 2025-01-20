@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari dalam negeri dan mancanegara yang diperbarui setiap Jumat\. Cover: Nidji
 
-[Spotify](https://open.spotify.com/user/spotify) - 184,174 likes - 84 songs - 5 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 184,223 likes - 84 songs - 5 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

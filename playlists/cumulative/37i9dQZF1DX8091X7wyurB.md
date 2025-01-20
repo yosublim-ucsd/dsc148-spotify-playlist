@@ -4,7 +4,7 @@
 
 > If your mood is to Praise and Worship the Almighty God for what He has done, then this is the right playlist\. A mix of both African and International songs.
 
-442 songs - 1 day 18 hr 4 min
+443 songs - 1 day 18 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -92,6 +92,7 @@
 | [Emmanuel](https://open.spotify.com/track/5huGWDGfNMC7rC05Z6tqXl) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb) | [Songs of the Spirit](https://open.spotify.com/album/5MgNmvdoouYvbg05neKNkv) | 7:43 | 2024-09-13 | 2024-09-20 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 | 2024-02-09 |
 | [Ese \(Thank You\)](https://open.spotify.com/track/1vS7QapA3eXAVkhjbnYKpX) | [Becky Larry\-Izamoje](https://open.spotify.com/artist/0AGAoKVTIRwtQll1aMeoiv) | [Ese \(Thank You\)](https://open.spotify.com/album/3js7Nt0bKja4ZG0PkS1Vpw) | 4:59 | 2022-06-30 | 2023-02-16 |
+| [Ese Gan Ni](https://open.spotify.com/track/1OpsavrgdYBlLvqtYOyx2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Ese Gan Ni](https://open.spotify.com/album/3iqYGmjPKEOCmPsIlX0izP) | 4:56 | 2025-01-19 |  |
 | [Everything \(Amen\)](https://open.spotify.com/track/4Dx6l2TXQUmKDFaveeyJuX) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/6tLxca7vxqHrc0nOYWGi2b) | 3:57 | 2023-12-05 | 2023-12-10 |
 | [EVERYTHING \- Unscripted](https://open.spotify.com/track/55nSnL3pTde0hIsdLjah1z) | [Gift Yahaya](https://open.spotify.com/artist/4apbdLPoZTUnHSEAIYUPxt) | [EVERYTHING \(Unscripted\)](https://open.spotify.com/album/07SJNNGiDIWEdrT4KpiOOf) | 2:41 | 2023-07-28 | 2023-08-04 |
 | [Evidence](https://open.spotify.com/track/5l0XWHk6bUn5uAYuanbPfB) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Evidence](https://open.spotify.com/album/4boZNo27Ibsq6Y0ve3MZny) | 5:55 | 2022-09-01 | 2023-07-07 |
@@ -446,7 +447,7 @@
 | [You Hold Us Up](https://open.spotify.com/track/0VRolPBDisEvgDSMe1VWtL) | [Elvis E](https://open.spotify.com/artist/4LSiLtX7e1IRV9AQ2Zj9w4), [Muyiwa Olarewaju](https://open.spotify.com/artist/2PdnJlwnLIZbC1keeQU6hW) | [Undeniable Love](https://open.spotify.com/album/4HHoMWPivUumtBDKR3xHY8) | 4:07 | 2023-12-05 | 2023-12-10 |
 | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/track/5Hfmsb1SeH4GP2qi6eGCO0) | [Travis Greene](https://open.spotify.com/artist/22JNV0JWTJkY1qzKJhxdRe) | [You Waited \(Radio Edit\) \[Live\]](https://open.spotify.com/album/2S7fAEAZbvkXV2b6g3uJOF) | 3:40 | 2023-12-05 | 2023-12-10 |
 | [You're the Only One](https://open.spotify.com/track/01ZpFt0Zd1liPJUDqEJPib) | [Chris Renzema](https://open.spotify.com/artist/2hIvOHaLTl9XCyCbNPwYzT), [Moriah Hazeltine](https://open.spotify.com/artist/3pwbLGS9TlajL4oRfZzOKR) | [Age to Age](https://open.spotify.com/album/6d5DkpOtxu5FyXsqJ8aRVj) | 5:37 | 2024-07-19 |  |
-| [Your Glory / Nothing But The Blood \- Live](https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Live](https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG) | 8:57 | 2024-07-19 |  |
+| [Your Glory / Nothing But The Blood \- Live](https://open.spotify.com/track/5UgGtoBzu4mmslDkcbLduT) | [All Sons & Daughters](https://open.spotify.com/artist/44LPOpECjnIlnwH91wo2ir), [Leslie Jordan](https://open.spotify.com/artist/5AxCkKr6aZBRfm9KD7ermh), [David Leonard](https://open.spotify.com/artist/2r9qoFx4EhGP8RYFQ4eMIE) | [Live](https://open.spotify.com/album/1xFAQGLd2GUNK0Ji9ss9TG) | 8:57 | 2024-07-19 | 2025-01-20 |
 | [Your Mercies](https://open.spotify.com/track/5JUVnZgo4FtVE4C2UlhIAH) | [Nsikan Louis](https://open.spotify.com/artist/5oS7TVro4fEqwxwRCaUW8B) | [Your Mercies](https://open.spotify.com/album/2Ml0WKFkZ7TqCW52vDGGzr) | 5:18 | 2024-01-19 | 2024-01-31 |
 | [Your Name Is Higher](https://open.spotify.com/track/72uQC5auMkudAOsB1Hhwqz) | [Florocka](https://open.spotify.com/artist/67UNdzU22i8wQPuOCMqOJY) | [Your Name Is Higher](https://open.spotify.com/album/6uY6lnE7u3ZIcBlwVpbp3i) | 3:29 | 2023-11-24 | 2023-11-27 |
 | [Your Power](https://open.spotify.com/track/0ToGha42fy4KqBdzJ1yOTN) | [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [Tasha Cobbs Leonard](https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx) | [Your Power](https://open.spotify.com/album/5FsMkqJBLQcHPzSHa82KWh) | 3:42 | 2023-05-05 | 2023-06-23 |

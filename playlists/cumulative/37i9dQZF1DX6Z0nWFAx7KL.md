@@ -4,7 +4,7 @@
 
 > easy breezy dance music
 
-285 songs - 14 hr 13 min
+286 songs - 14 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [Ask \- Edit](https://open.spotify.com/track/5cB5dpTJ2vZTXlJlxKBgFB) | [Emilee Moore](https://open.spotify.com/artist/21k39bIiVAame9O5MWRS4m), [Jim Aves](https://open.spotify.com/artist/1qLdKSJ9LVozxJVnF919s4) | [Ask \(Edit\)](https://open.spotify.com/album/3qFyrdHmIw3AabNAqImxSi) | 2:36 | 2024-04-11 | 2024-08-31 |
 | [At The Beach](https://open.spotify.com/track/0cLH0OHubBbIB5XeiSN1qh) | [Jane Good](https://open.spotify.com/artist/1rFqZWRuRsmDNAuSMRGwSE) | [At The Beach](https://open.spotify.com/album/1qmQ9AtdNdBATwXkxE8B2t) | 2:41 | 2024-07-26 | 2024-12-13 |
 | [Back To You](https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Elley Duhé](https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K), [X Ambassadors](https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB) | [Back To You](https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr) | 2:37 | 2023-01-13 | 2023-10-03 |
-| [Be With You](https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Be With You](https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7) | 2:27 | 2024-12-05 |  |
+| [Be With You](https://open.spotify.com/track/7MDbQebDqfKMG3INjyKE5o) | [Sébastien Lintz](https://open.spotify.com/artist/4DJAdrP7ni17K4091qE52z) | [Be With You](https://open.spotify.com/album/2mj6qAdEZhnE295tKXdhW7) | 2:27 | 2024-12-05 | 2025-01-20 |
 | [Beautiful](https://open.spotify.com/track/3yj6Hc5nO7t88CUAss0tHH) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [Griff Clawson](https://open.spotify.com/artist/3dIbvdQQd3HXfQcRjR6lb7) | [Beautiful](https://open.spotify.com/album/1CWzpNbClW9MWEhKcprnHC) | 2:55 | 2022-09-15 | 2022-09-30 |
 | [Belong \- Deepend Edit](https://open.spotify.com/track/1nIyUZEfTv39KHVBy9v4y8) | [Graham Candy](https://open.spotify.com/artist/71KlQX0q5wz5f9iytwPfou), [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B) | [Belong](https://open.spotify.com/album/0cV3pUMkz52WN6wJAiC2gs) | 2:40 | 2022-09-15 | 2022-09-30 |
 | [Better for Me \- Dillistone Remix](https://open.spotify.com/track/0JbubPAaG3qtATwV0oDEoQ) | [Scott Quinn](https://open.spotify.com/artist/0FlBLkbHEvmCMu2X46Ail1), [Dillistone](https://open.spotify.com/artist/7ypPN35cJ9wfF2Zs7aYS33) | [Better for Me \(Dillistone Remix\)](https://open.spotify.com/album/1zbpoTtrxmdWbV4rGcCCZT) | 2:59 | 2024-07-26 | 2024-08-31 |
@@ -40,6 +40,7 @@
 | [Better Than This](https://open.spotify.com/track/2ZoKeEKH1Y2yp0GJAvNngn) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Better Than This](https://open.spotify.com/album/3PYlJuHzvfM5OQYfJQlUJS) | 2:36 | 2022-11-16 | 2024-04-19 |
 | [Black & Blue](https://open.spotify.com/track/2NjqrHNV2jedO8CKw3ABgZ) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [Black & Blue](https://open.spotify.com/album/5I0bMSjljTeXa0v1FzgivU) | 2:28 | 2022-09-15 | 2024-10-04 |
 | [Blindly \[Thom Merlin Remix\]](https://open.spotify.com/track/6l6viiPh9iUZbXuprWe0Dt) | [Dukewood](https://open.spotify.com/artist/0saU1gJBLlM25GZ4h0cC7b), [De Hofnar](https://open.spotify.com/artist/1LFGVkNRmXz8jIkyPjaGNL), [Kav Verhouzer](https://open.spotify.com/artist/1yYBD4cVxCxXQXi4QGZfSo), [Thom Merlin](https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC) | [Blindly \[Thom Merlin Remix\]](https://open.spotify.com/album/1xJv5nuu2wpxNZReOAuzuJ) | 3:02 | 2023-01-19 | 2023-03-18 |
+| [Blood & Bones](https://open.spotify.com/track/5Hxtysk3LR8P1psVZtikua) | [Twan Ray](https://open.spotify.com/artist/2IrrH2ytG96HCP9dnM6mGr) | [Blood & Bones](https://open.spotify.com/album/0dHrUxujzudylcwsq6OZYW) | 3:12 | 2025-01-10 |  |
 | [Bloom](https://open.spotify.com/track/1KO6Kk23aYLrkmaDIjA4jf) | [Deepend](https://open.spotify.com/artist/0uGApGjjFXKwUOAqYBeX7B), [LAST CALL](https://open.spotify.com/artist/2LoibTtixf5tjTYORAxbtN), [Horxata](https://open.spotify.com/artist/3QkSqgd7THUtqWlJjL4iRn) | [Bloom](https://open.spotify.com/album/59T2jCjBGnIFlizQggbrSd) | 2:32 | 2024-09-19 |  |
 | [Bloom \(nowifi Remix\)](https://open.spotify.com/track/4Hqznl1iOMNK4Yr2e4H0D4) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [TWOPILOTS](https://open.spotify.com/artist/6tV2P2SciHytsSDufKr57B), [nowifi](https://open.spotify.com/artist/5wxw2CQKTIOSkPFJbTYVzl) | [Bloom \(nowifi Remix\)](https://open.spotify.com/album/2TevphOQe7SmNqX7dVLYkk) | 2:01 | 2022-09-15 | 2024-08-31 |
 | [Body Language](https://open.spotify.com/track/5RS5whcXwDoZpwXk12zGPj) | [Safe Wave](https://open.spotify.com/artist/05odA2enUG7IgOm5SI9Oh6) | [Body Language](https://open.spotify.com/album/3vb3BBR8GER9qqqfEtPlIi) | 2:02 | 2024-11-14 |  |

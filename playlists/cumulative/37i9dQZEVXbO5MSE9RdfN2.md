@@ -4,11 +4,12 @@
 
 > Your daily update of the most viral tracks right now \- Australia.
 
-1,131 songs - 2 day 12 hr 2 min
+1,132 songs - 2 day 12 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/3bZQDQyabVOAwKNO8YyxRd) | [artist](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Trouble](https://open.spotify.com/album/25E7mK5NcKtLTWj8Qs5q1N) | 0:00 | 2025-01-02 | 2025-01-05 |
+| ['Bout It](https://open.spotify.com/track/3414vfp4uaJNFqFFj9sUvz) | [JMSN](https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l) | [JMSN](https://open.spotify.com/album/3vxlICTyRDnBXPgEAyUSWT) | 6:34 | 2025-01-19 |  |
 | [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/track/7eFJIjNXaC7LzDwloz9WIP) | [Tenacious D](https://open.spotify.com/artist/1XpDYCrUJnvCo9Ez6yeMWh) | [...Baby One More Time \(from Kung Fu Panda 4\)](https://open.spotify.com/album/0GsfxGnifHBtyVIgDJaYJo) | 3:12 | 2024-03-26 | 2024-04-11 |
 | [1\-800\-hot\-n\-fun](https://open.spotify.com/track/7vjfnsnDXZGK4PSq54ISjc) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [CRAZY](https://open.spotify.com/album/538vEfAgLJ6g2I8ubuOlap) | 2:53 | 2024-09-17 | 2024-09-21 |
 | [10 Minutes](https://open.spotify.com/track/2Tfv41qZ0U3ahZiKiDBa4a) | [Lee Hyori](https://open.spotify.com/artist/4FjoOJAndC0s9ZJUo6VGc5) | [Stylish…](https://open.spotify.com/album/2uTwUONoLUhlpM6r324B2b) | 3:56 | 2024-04-16 | 2024-05-07 |
@@ -192,7 +193,7 @@
 | [CHEGOU 3](https://open.spotify.com/track/0llzgiUXaGeoI4uN0rl8sn) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [CHEGOU 3](https://open.spotify.com/album/2TXJsjOcHDvMfOCn1FAJ3P) | 2:39 | 2024-06-29 | 2024-07-10 |
 | [CHEGOU 3](https://open.spotify.com/track/3Pd1MwrGRhEzjiO7njmlbi) | [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl), [Mc Magrinho](https://open.spotify.com/artist/4JA9UvIYD3D5kL7utiGJMI) | [CHEGOU 3](https://open.spotify.com/album/0FBrponFK306z8KcWiWpxj) | 2:39 | 2024-06-12 | 2024-06-30 |
 | [Cherish \(My Love\)](https://open.spotify.com/track/21LtZQQMQYwVIxc9O9Ygq8) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [Cherish \(My Love\) \(Remixes\)](https://open.spotify.com/album/1rQZODajANwqhegpEuCYk4) | 2:56 | 2024-11-05 | 2024-11-12 |
-| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-24 |  |
+| [Chest Pain \(I Love\)](https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Chest Pain \(I Love\)](https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ) | 3:22 | 2024-12-24 | 2025-01-20 |
 | [CHIHIRO](https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 5:03 | 2024-06-04 | 2024-06-19 |
 | [Chihiro](https://open.spotify.com/track/1antlMwNpOAXeUcIAx8FPB) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Chihiro](https://open.spotify.com/album/5zxkH4g9xsFZXrhbhm5N77) | 2:08 | 2024-07-18 | 2024-08-15 |
 | [Chihiro](https://open.spotify.com/track/1kDqGWSeR27gWaMouyXD0C) | [Gravagerz](https://open.spotify.com/artist/2zoy9aYWHueNXCIqh2MStc) | [Chihiro](https://open.spotify.com/album/3g94R3KoZVDaYwiM0KQFyN) | 2:08 | 2024-08-14 | 2024-08-28 |

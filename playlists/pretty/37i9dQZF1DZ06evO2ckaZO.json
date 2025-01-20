@@ -1,12 +1,12 @@
 {
   "description": "This is Ice Spice. The essential tracks, all in one playlist.",
-  "num_followers": 71654,
+  "num_followers": 71673,
   "original_name": "This Is Ice Spice",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAANHUGTEwnpVB8Ir0bXAHuC",
+  "snapshot_id": "Z4rvAAAAAAA7tgTNSiBqITgZZUHphyLx",
   "tracks": [
     {
       "added_at": null,
@@ -75,22 +75,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 126857,
-      "name": "Deli",
-      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -111,6 +95,22 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 126857,
+      "name": "Deli",
+      "url": "https://open.spotify.com/track/5JYPXqMwYc0zTODQdjMEZN"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
+        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dlow Curry",
         "url": "https://open.spotify.com/album/2KtiNduXFIrpZG2nQuboD4"
       },
@@ -255,6 +271,22 @@
       "duration_ms": 174545,
       "name": "Pillsbury Dlow (feat. Ice Spice)",
       "url": "https://open.spotify.com/track/1Kcq6QqW8Ajx70fqbdOPa7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Y2K!",
+        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 116571,
+      "name": "BB Belt",
+      "url": "https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1"
     },
     {
       "added_at": null,
@@ -279,38 +311,6 @@
       "duration_ms": 235354,
       "name": "Fisherrr - Remix",
       "url": "https://open.spotify.com/track/1rrV4ymf3Tp3xuLgB4zCRN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y2K!",
-        "url": "https://open.spotify.com/album/56fzdpwMftta3Dd2MZyGhH"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 116571,
-      "name": "BB Belt",
-      "url": "https://open.spotify.com/track/3oLlS8NTMdePBohjgPZKk1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Y2K! : I\u2019m Just A Girl (Deluxe)",
-        "url": "https://open.spotify.com/album/347POHYE4kfl2Q9OCF7Sbw"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "So What?",
-      "url": "https://open.spotify.com/track/7vU7SxAdwjgbqvyCKmXy3X"
     },
     {
       "added_at": null,
@@ -407,22 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Like..? (Deluxe)",
-        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
-      },
-      "artists": [
-        {
-          "name": "Ice Spice",
-          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
-        }
-      ],
-      "duration_ms": 129636,
-      "name": "How High?",
-      "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Name of Love",
         "url": "https://open.spotify.com/album/0z9joggqG3K7ffVOvftTwI"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 106666,
       "name": "Name of Love",
       "url": "https://open.spotify.com/track/7xH1se2ywtEQM3g1XuKkIq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Like..? (Deluxe)",
+        "url": "https://open.spotify.com/album/2pD2Hn4NPvf58NDSdWmUAk"
+      },
+      "artists": [
+        {
+          "name": "Ice Spice",
+          "url": "https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf"
+        }
+      ],
+      "duration_ms": 129636,
+      "name": "How High?",
+      "url": "https://open.spotify.com/track/0pTSYl7m6l4VYvf3mMi1Yd"
     },
     {
       "added_at": null,

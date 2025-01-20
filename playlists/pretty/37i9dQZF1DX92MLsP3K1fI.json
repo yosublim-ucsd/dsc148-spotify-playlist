@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Sube el volumen y disfruta del pop m\u00e1s chicloso! Danny Ocean & Kapo en portada.",
-  "num_followers": 89219,
+  "num_followers": 89225,
   "original_name": "Oye Pop",
   "owner": {
     "name": "Spotify",
@@ -475,6 +475,22 @@
     {
       "added_at": "2025-01-17 06:00:22",
       "album": {
+        "name": "Los \u00c1ngeles",
+        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
+      },
+      "artists": [
+        {
+          "name": "Aitana",
+          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
+        }
+      ],
+      "duration_ms": 158483,
+      "name": "Los \u00c1ngeles",
+      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
+    },
+    {
+      "added_at": "2025-01-17 06:00:22",
+      "album": {
         "name": "no me siento mejor",
         "url": "https://open.spotify.com/album/30uVuRFF7OVs5oLz1awRmr"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 180857,
       "name": "AMOR",
       "url": "https://open.spotify.com/track/6UUzG7YB1pmDBNbSRVzYSX"
-    },
-    {
-      "added_at": "2025-01-17 06:00:22",
-      "album": {
-        "name": "Los \u00c1ngeles",
-        "url": "https://open.spotify.com/album/4bPQ9fS8MUFcAfSq0NzBbI"
-      },
-      "artists": [
-        {
-          "name": "Aitana",
-          "url": "https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25"
-        }
-      ],
-      "duration_ms": 158483,
-      "name": "Los \u00c1ngeles",
-      "url": "https://open.spotify.com/track/7lrMkztvl0MnRSB2i3KRRe"
     },
     {
       "added_at": "2025-01-17 06:00:22",
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-01-17 06:00:22",
       "album": {
-        "name": "Te Juro No Te Miento",
-        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
-      },
-      "artists": [
-        {
-          "name": "Sofia Castro",
-          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
-        }
-      ],
-      "duration_ms": 155293,
-      "name": "Te Juro No Te Miento",
-      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
-    },
-    {
-      "added_at": "2025-01-17 06:00:22",
-      "album": {
         "name": "REFLEXA",
         "url": "https://open.spotify.com/album/79t9QXn7NKUDBPo4rywYcy"
       },
@@ -723,22 +707,6 @@
       "duration_ms": 149255,
       "name": "Si no no",
       "url": "https://open.spotify.com/track/5v1gwuCHx5CcNN6NLrNWO9"
-    },
-    {
-      "added_at": "2025-01-17 06:00:22",
-      "album": {
-        "name": "Otro Huev\u00f3n",
-        "url": "https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU"
-      },
-      "artists": [
-        {
-          "name": "ELENA ROSE",
-          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
-        }
-      ],
-      "duration_ms": 206480,
-      "name": "Otro Huev\u00f3n",
-      "url": "https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu"
     },
     {
       "added_at": "2025-01-17 06:00:22",
@@ -763,6 +731,38 @@
     {
       "added_at": "2025-01-17 06:00:22",
       "album": {
+        "name": "Te Juro No Te Miento",
+        "url": "https://open.spotify.com/album/5VHeM1MvIgu1vYBHFKK4pT"
+      },
+      "artists": [
+        {
+          "name": "Sofia Castro",
+          "url": "https://open.spotify.com/artist/54Dm36Il3hbJON4caC9ofw"
+        }
+      ],
+      "duration_ms": 155293,
+      "name": "Te Juro No Te Miento",
+      "url": "https://open.spotify.com/track/0QVjAc46sFSl5iVJ33CotU"
+    },
+    {
+      "added_at": "2025-01-17 06:00:22",
+      "album": {
+        "name": "Otro Huev\u00f3n",
+        "url": "https://open.spotify.com/album/62sTsHxNgN9u1jgXMrdetU"
+      },
+      "artists": [
+        {
+          "name": "ELENA ROSE",
+          "url": "https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY"
+        }
+      ],
+      "duration_ms": 206480,
+      "name": "Otro Huev\u00f3n",
+      "url": "https://open.spotify.com/track/6uU0YGEprAses7XLreiuVu"
+    },
+    {
+      "added_at": "2025-01-17 06:00:22",
+      "album": {
         "name": "Feliz A\u00f1o Nuevo Triste",
         "url": "https://open.spotify.com/album/2mfdR3z4kPOz7NAvJWnDMt"
       },
@@ -775,26 +775,6 @@
       "duration_ms": 174825,
       "name": "Feliz A\u00f1o Nuevo Triste",
       "url": "https://open.spotify.com/track/1AzA8D8QVwnXos9q19TA6D"
-    },
-    {
-      "added_at": "2025-01-17 06:00:22",
-      "album": {
-        "name": "Bella Nostalgia",
-        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
-      },
-      "artists": [
-        {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 210181,
-      "name": "Mantra",
-      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
     },
     {
       "added_at": "2025-01-17 06:00:22",
@@ -871,6 +851,26 @@
     {
       "added_at": "2025-01-17 06:00:22",
       "album": {
+        "name": "Bella Nostalgia",
+        "url": "https://open.spotify.com/album/4FsRaHd01kqakhGWZ0zygK"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 210181,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/4NoDlGcDYyRuAWdZPR9COL"
+    },
+    {
+      "added_at": "2025-01-17 06:00:22",
+      "album": {
         "name": "Por Si las Dudas",
         "url": "https://open.spotify.com/album/2G72gtZRp1TXdIhpgbCJ1u"
       },
@@ -907,18 +907,22 @@
     {
       "added_at": "2025-01-17 06:00:22",
       "album": {
-        "name": "No Disponible",
-        "url": "https://open.spotify.com/album/5u5UYikRR1tFtxIgTuL8E0"
+        "name": "dEsANiMaO :(",
+        "url": "https://open.spotify.com/album/6uNrdApJivQeMBQHprupcZ"
       },
       "artists": [
         {
-          "name": "Matisse",
-          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+          "name": "Ramon Vega",
+          "url": "https://open.spotify.com/artist/4Yjh4PZFED9Z5OJmqRPOOP"
+        },
+        {
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 203799,
-      "name": "No Disponible",
-      "url": "https://open.spotify.com/track/7MuMzPh58s0acf0pCMowSr"
+      "duration_ms": 187317,
+      "name": "dEsANiMaO :(",
+      "url": "https://open.spotify.com/track/7HGGQotbU0m3I9CEqjXfCY"
     }
   ],
   "unique_name": "Oye Pop",

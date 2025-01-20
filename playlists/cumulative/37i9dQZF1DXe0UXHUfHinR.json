@@ -1856,7 +1856,7 @@
       ],
       "date_added": "2024-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 529600,
       "name": "Blue bossa",
       "url": "https://open.spotify.com/track/4LbJFM4QRgvKoYU7nzj3Dx"
@@ -4888,7 +4888,7 @@
       ],
       "date_added": "2023-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 163906,
       "name": "Groovin' High",
       "url": "https://open.spotify.com/track/4ttUzFCVnlOmopuzM4oEUJ"
@@ -5032,7 +5032,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 453800,
       "name": "Hello Bright Sunflower - Rudy Van Gelder Edition/2006 Digital Remaster",
       "url": "https://open.spotify.com/track/2Q6fLryY9lv34jazpe4bnE"
@@ -6074,6 +6074,24 @@
       "duration_ms": 333493,
       "name": "I'm A Fool To Want",
       "url": "https://open.spotify.com/track/3410BOLt7ZrWxZaQHeqTmZ"
+    },
+    {
+      "album": {
+        "name": "Clubhouse",
+        "url": "https://open.spotify.com/album/1RGm5IbgX801WBJjU7HLSo"
+      },
+      "artists": [
+        {
+          "name": "Dexter Gordon",
+          "url": "https://open.spotify.com/artist/3NUsiT2JSyaWAnWaXxDzhQ"
+        }
+      ],
+      "date_added": "2024-07-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 402573,
+      "name": "I'm A Fool To Want You",
+      "url": "https://open.spotify.com/track/4EaNQXQIuiBlQe5fe5fae6"
     },
     {
       "album": {

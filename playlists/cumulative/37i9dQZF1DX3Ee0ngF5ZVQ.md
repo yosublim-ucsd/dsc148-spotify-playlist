@@ -4,7 +4,7 @@
 
 > New and trending tracks from Texas Country icons and rising stars\. Cover: Miranda Lambert
 
-679 songs - 1 day 16 hr 27 min
+680 songs - 1 day 16 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,7 +433,7 @@
 | [Oughta See You \(The Way I Do\)](https://open.spotify.com/track/7tkXLhjS4lZjuykWzGkBF7) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Oughta See You \(The Way I Do\)](https://open.spotify.com/album/71vntnzbDCNp3CpFc0RiET) | 3:55 | 2023-08-25 | 2023-11-08 |
 | [Outlaw Angel](https://open.spotify.com/track/3hvugLbmjKHMf1qQijX99W) | [Joey Greer](https://open.spotify.com/artist/0ZvGvF2SeEeUUTV8NlIXn4) | [Outlaw Angel](https://open.spotify.com/album/04HvbuaquvTZlfBDWi0Eqf) | 2:58 | 2021-12-17 | 2022-03-19 |
 | [Outlaws and Mustangs](https://open.spotify.com/track/3NfiPeYsjdrsyO4kVIEdtr) | [Cody Jinks](https://open.spotify.com/artist/2v7wIbCkIzxOfT3GnqCexD) | [Outlaws and Mustangs](https://open.spotify.com/album/0Arug5WNIfQYYlkrN2q6Rs) | 4:00 | 2023-10-20 |  |
-| [Outta Dirt](https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Outta Dirt](https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n) | 2:44 | 2023-09-01 |  |
+| [Outta Dirt](https://open.spotify.com/track/0iUAgtPIBPFzAXqdy9sDb5) | [Rodell Duff](https://open.spotify.com/artist/4JMY9dX6C0SYxm1YEGAEky), [George Birge](https://open.spotify.com/artist/27R1aBy7FfkYevfYen4sMp) | [Outta Dirt](https://open.spotify.com/album/16CEupIepvrJlX6ay6NM9n) | 2:44 | 2023-09-01 | 2025-01-20 |
 | [Outta the Country](https://open.spotify.com/track/7K4yuNVRCq5sAzXvAwwFdN) | [Cian Pedersen](https://open.spotify.com/artist/55iTDt1OrQMIHMNKHUPAaQ) | [Outta the Country](https://open.spotify.com/album/7l1wjpNRumuHLvNrIMdzQ6) | 3:12 | 2022-05-27 | 2022-07-09 |
 | [Over](https://open.spotify.com/track/1VbOWB3O8M0shS5fcMhlU8) | [The Droptines](https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc) | [The Droptines](https://open.spotify.com/album/6MA3iRkOZWHzGKsnoozibl) | 3:02 | 2024-02-02 |  |
 | [Pancho and Lefty](https://open.spotify.com/track/6j3GYmozEYsyunxO0RH2Wg) | [Shane Smith & the Saints](https://open.spotify.com/artist/4pLxUMyDrijXynrUP59whJ), [Hayes Carll](https://open.spotify.com/artist/6UWifcscEdbjPgmbevBxZV) | [Pancho and Lefty](https://open.spotify.com/album/6Pv3AMeGAbaucnS8aeatwX) | 5:09 | 2023-08-18 | 2024-08-31 |
@@ -583,6 +583,7 @@
 | [The Way She Moved](https://open.spotify.com/track/4lHVEKYLFStOIqxlAHbUDU) | [Braydon Zink](https://open.spotify.com/artist/71HnAsSWgf87Mi2pT0EvOO) | [The Way She Moved](https://open.spotify.com/album/6Bo8CdyNYImWquDAFjZXCG) | 3:44 | 2021-12-17 | 2022-03-19 |
 | [The Whiskey Will](https://open.spotify.com/track/5vqu1ypiHCb4NakEl2q0zT) | [Joe Peters](https://open.spotify.com/artist/6J1kpiqZmCZQtYB7NJLqVn) | [The Whiskey Will](https://open.spotify.com/album/6cijmrntIehNVs7Qo75M5R) | 3:14 | 2021-12-17 | 2022-07-26 |
 | [Therapy's Good](https://open.spotify.com/track/3SCs4MWsf3Vmj034QeSvcc) | [Grady Spencer & the Work](https://open.spotify.com/artist/5QEQTOTzN3kxmK41BaLFK5) | [Therapy's Good](https://open.spotify.com/album/69lUni43sgGdRPzu7HxpDN) | 4:19 | 2021-12-17 | 2022-07-20 |
+| [There's A Drink For That](https://open.spotify.com/track/7IZ1fSsXwBv8JSrCVN9FpW) | [Josh Ward](https://open.spotify.com/artist/0K3gUcawlzf0s7WE9umkgd) | [Same Ol’ Cowboy, Different Rodeo](https://open.spotify.com/album/19bpZ99ZJi62HxPyzzin11) | 2:41 | 2025-01-17 |  |
 | [There's Always Next Year](https://open.spotify.com/track/2LEparJLsmYGlf51zAquu8) | [Corey Kent](https://open.spotify.com/artist/3sUpZrkehiGBaMzs2h9Mmc) | ['21](https://open.spotify.com/album/6jjJF0stimclEoHKtNFZpj) | 2:49 | 2021-12-31 | 2022-05-28 |
 | [This Time Around](https://open.spotify.com/track/52fmgQqhNWTXXKPPoJG58M) | [Matt Daniel](https://open.spotify.com/artist/6QiblG2jfJUChehe6UpFvT) | [This Time Around](https://open.spotify.com/album/09REi8SfRMiwYGEBz7JfID) | 3:27 | 2022-01-14 | 2022-03-19 |
 | [Thorns](https://open.spotify.com/track/1t5JzFzRDHdiPf5K8vT5rr) | [Shawn David](https://open.spotify.com/artist/5istsTAHh8VsXOTvzmWSf2) | [Thorns](https://open.spotify.com/album/6ztMuvkxG1L53wV9y0O408) | 3:17 | 2022-04-15 | 2022-05-20 |

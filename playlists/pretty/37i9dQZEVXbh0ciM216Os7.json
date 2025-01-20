@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAAAUORypE2Ypm5hUuQO8aUxE",
+  "snapshot_id": "AAAAAAAAAABQeTjF0ENzTtM34jFpqpE6",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:00",
@@ -23,6 +23,38 @@
       "duration_ms": 263941,
       "name": "Funny Papers",
       "url": "https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9"
+    },
+    {
+      "added_at": "2025-01-17 05:00:00",
+      "album": {
+        "name": "F.I.N.E.",
+        "url": "https://open.spotify.com/album/5BHVGM96Il9LjEyl2GYziU"
+      },
+      "artists": [
+        {
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
+        }
+      ],
+      "duration_ms": 179493,
+      "name": "F.I.N.E.",
+      "url": "https://open.spotify.com/track/44UTS6GVv5qKj76CFHnQxM"
+    },
+    {
+      "added_at": "2025-01-17 05:00:00",
+      "album": {
+        "name": "Glass Shatters (New Mix)",
+        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 244397,
+      "name": "Glass Shatters - New Mix",
+      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -51,22 +83,6 @@
       "duration_ms": 216000,
       "name": "BLACKOUT! 3",
       "url": "https://open.spotify.com/track/5CKv7zo6vt7FbPoI7rbguS"
-    },
-    {
-      "added_at": "2025-01-17 05:00:00",
-      "album": {
-        "name": "F.I.N.E.",
-        "url": "https://open.spotify.com/album/5BHVGM96Il9LjEyl2GYziU"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "F.I.N.E.",
-      "url": "https://open.spotify.com/track/44UTS6GVv5qKj76CFHnQxM"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -131,22 +147,6 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "Glass Shatters (New Mix)",
-        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 244397,
-      "name": "Glass Shatters - New Mix",
-      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
-    },
-    {
-      "added_at": "2025-01-17 05:00:00",
-      "album": {
         "name": "The Gift (Extended Mix)",
         "url": "https://open.spotify.com/album/29snRJ4onFOKhKbi4VkNsf"
       },
@@ -179,26 +179,6 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "The Call That Never Ended, Pt. 1",
-        "url": "https://open.spotify.com/album/01CTkUKTpiRO6XCAoJH9F4"
-      },
-      "artists": [
-        {
-          "name": "Drude",
-          "url": "https://open.spotify.com/artist/3vQjl2sfogIo5VGFrh4at6"
-        },
-        {
-          "name": "Syd",
-          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
-        }
-      ],
-      "duration_ms": 116880,
-      "name": "Go Apart",
-      "url": "https://open.spotify.com/track/0lHsZa5J4PqrvolVVoqHgt"
-    },
-    {
-      "added_at": "2025-01-17 05:00:00",
-      "album": {
         "name": "Barbarian",
         "url": "https://open.spotify.com/album/4P3NZzkhDKSxXTZnR2xEkx"
       },
@@ -215,6 +195,26 @@
       "duration_ms": 229768,
       "name": "Barbarian",
       "url": "https://open.spotify.com/track/0uKQs0gwQzWe7HazpkhioU"
+    },
+    {
+      "added_at": "2025-01-17 05:00:00",
+      "album": {
+        "name": "The Call That Never Ended, Pt. 1",
+        "url": "https://open.spotify.com/album/01CTkUKTpiRO6XCAoJH9F4"
+      },
+      "artists": [
+        {
+          "name": "Drude",
+          "url": "https://open.spotify.com/artist/3vQjl2sfogIo5VGFrh4at6"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "duration_ms": 116880,
+      "name": "Go Apart",
+      "url": "https://open.spotify.com/track/0lHsZa5J4PqrvolVVoqHgt"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -307,22 +307,18 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "Pink Dreads",
-        "url": "https://open.spotify.com/album/1BmgY2s1z4yYuKU3ZwMrzZ"
+        "name": "Same Old Song",
+        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
       },
       "artists": [
         {
-          "name": "DDG",
-          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
-        },
-        {
-          "name": "PlaqueBoyMax",
-          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
         }
       ],
-      "duration_ms": 120417,
-      "name": "Pink Dreads",
-      "url": "https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR"
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -347,38 +343,22 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "THAT GUY",
-        "url": "https://open.spotify.com/album/2P4CKBEy5IYDg53FOYNR66"
+        "name": "Pink Dreads",
+        "url": "https://open.spotify.com/album/1BmgY2s1z4yYuKU3ZwMrzZ"
       },
       "artists": [
         {
-          "name": "etmnx",
-          "url": "https://open.spotify.com/artist/0odePzRcBWwUPedd41o0Ch"
+          "name": "DDG",
+          "url": "https://open.spotify.com/artist/0WK3H9OErSn5zKOkOV5egm"
         },
         {
-          "name": "20keazyy",
-          "url": "https://open.spotify.com/artist/769m9xC9Ry6QW23F8Vx5tR"
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
         }
       ],
-      "duration_ms": 174072,
-      "name": "THAT GUY",
-      "url": "https://open.spotify.com/track/0tNmqPu4DwGKXCIOpV2USh"
-    },
-    {
-      "added_at": "2025-01-17 05:00:00",
-      "album": {
-        "name": "Same Old Song",
-        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 174322,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
+      "duration_ms": 120417,
+      "name": "Pink Dreads",
+      "url": "https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -399,34 +379,66 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "Hello, Hi",
-        "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
+        "name": "THAT GUY",
+        "url": "https://open.spotify.com/album/2P4CKBEy5IYDg53FOYNR66"
       },
       "artists": [
         {
-          "name": "Little Simz",
-          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+          "name": "etmnx",
+          "url": "https://open.spotify.com/artist/0odePzRcBWwUPedd41o0Ch"
+        },
+        {
+          "name": "20keazyy",
+          "url": "https://open.spotify.com/artist/769m9xC9Ry6QW23F8Vx5tR"
         }
       ],
-      "duration_ms": 135996,
-      "name": "Hello, Hi",
-      "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
+      "duration_ms": 174072,
+      "name": "THAT GUY",
+      "url": "https://open.spotify.com/track/0tNmqPu4DwGKXCIOpV2USh"
     },
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "back to friends",
-        "url": "https://open.spotify.com/album/0QLILSOq1IqAqx62drmv4E"
+        "name": "Location",
+        "url": "https://open.spotify.com/album/12EcQ6xHwYTygFo24xncu1"
       },
       "artists": [
         {
-          "name": "sombr",
-          "url": "https://open.spotify.com/artist/4G9NDjRyZFDlJKMRL8hx3S"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
+        },
+        {
+          "name": "Ty Dolla $ign",
+          "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
+        },
+        {
+          "name": "Wiz Khalifa",
+          "url": "https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop"
         }
       ],
-      "duration_ms": 199032,
-      "name": "back to friends",
-      "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+      "duration_ms": 148135,
+      "name": "Location",
+      "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+    },
+    {
+      "added_at": "2025-01-17 05:00:00",
+      "album": {
+        "name": "EPIC: The Ithaca Saga (Official Concept Album)",
+        "url": "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU"
+      },
+      "artists": [
+        {
+          "name": "Jorge Rivera-Herrans",
+          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+        },
+        {
+          "name": "Anna Lea",
+          "url": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w"
+        }
+      ],
+      "duration_ms": 345812,
+      "name": "Would You Fall in Love with Me Again",
+      "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"
     },
     {
       "added_at": "2025-01-17 05:00:00",

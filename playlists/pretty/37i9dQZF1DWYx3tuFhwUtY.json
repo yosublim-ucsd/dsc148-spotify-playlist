@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 138316,
+  "num_followers": 138324,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Wet Dream",
-        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
-      },
-      "artists": [
-        {
-          "name": "Wet Leg",
-          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
-        }
-      ],
-      "duration_ms": 140083,
-      "name": "Wet Dream",
-      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Evil Friends",
         "url": "https://open.spotify.com/album/6VoOCCv0bXPrTHDncJyIgF"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 206733,
       "name": "Psychics in LA",
       "url": "https://open.spotify.com/track/5tsB5ROYUKKisUaJQIEEfv"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Wet Dream",
+        "url": "https://open.spotify.com/album/2EVCxBosAlVsC0d7DAJXCA"
+      },
+      "artists": [
+        {
+          "name": "Wet Leg",
+          "url": "https://open.spotify.com/artist/2TwOrUcYnAlIiKmVQkkoSZ"
+        }
+      ],
+      "duration_ms": 140083,
+      "name": "Wet Dream",
+      "url": "https://open.spotify.com/track/6pjJUY0O4XgrYFGf9SwD7u"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -435,18 +435,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Never Going Under",
-        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
+        "name": "My Finest Work Yet",
+        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
       },
       "artists": [
         {
-          "name": "Circa Waves",
-          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
+          "name": "Andrew Bird",
+          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
         }
       ],
-      "duration_ms": 134252,
-      "name": "Never Going Under",
-      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+      "duration_ms": 238653,
+      "name": "Olympians",
+      "url": "https://open.spotify.com/track/1ADnKGJN6sQxkYpcgpyKbm"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -467,18 +467,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "My Finest Work Yet",
-        "url": "https://open.spotify.com/album/2xQ1WHVV0MdVSRkpND5P51"
+        "name": "Paraphernalia",
+        "url": "https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx"
       },
       "artists": [
         {
-          "name": "Andrew Bird",
-          "url": "https://open.spotify.com/artist/4uSftVc3FPWe6RJuMZNEe9"
+          "name": "Temples",
+          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
         }
       ],
-      "duration_ms": 238653,
-      "name": "Olympians",
-      "url": "https://open.spotify.com/track/1ADnKGJN6sQxkYpcgpyKbm"
+      "duration_ms": 263453,
+      "name": "Paraphernalia",
+      "url": "https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -499,18 +499,34 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Paraphernalia",
-        "url": "https://open.spotify.com/album/5jF63Nw1BA7AEfug0V32qx"
+        "name": "Never Going Under",
+        "url": "https://open.spotify.com/album/4qx3TNl48aPu76YRCNZ4pj"
       },
       "artists": [
         {
-          "name": "Temples",
-          "url": "https://open.spotify.com/artist/4ogwGU9VPWrnVBs1GEwZVV"
+          "name": "Circa Waves",
+          "url": "https://open.spotify.com/artist/6hl5k4gLl1p3sjhHcb57t2"
         }
       ],
-      "duration_ms": 263453,
-      "name": "Paraphernalia",
-      "url": "https://open.spotify.com/track/3oZKOJiMENWToZ6lid73Ki"
+      "duration_ms": 134252,
+      "name": "Never Going Under",
+      "url": "https://open.spotify.com/track/36GQWaICkYgxYD8I9gJOYJ"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Yol",
+        "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
+      },
+      "artists": [
+        {
+          "name": "Altin G\u00fcn",
+          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
+        }
+      ],
+      "duration_ms": 220909,
+      "name": "Ma\u00e7ka Yollar\u0131",
+      "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -531,22 +547,6 @@
       "duration_ms": 163207,
       "name": "Broken Boy (feat. Iggy Pop)",
       "url": "https://open.spotify.com/track/1j717HdHFPFwbBEAk2kwJQ"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
-        "name": "Yol",
-        "url": "https://open.spotify.com/album/2KWjneqCyMbvEvp7QayR2l"
-      },
-      "artists": [
-        {
-          "name": "Altin G\u00fcn",
-          "url": "https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT"
-        }
-      ],
-      "duration_ms": 220909,
-      "name": "Ma\u00e7ka Yollar\u0131",
-      "url": "https://open.spotify.com/track/2dXcAfDx2GMtislQfdlfye"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "It's Still Cool If You Don't",
-        "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
-      },
-      "artists": [
-        {
-          "name": "Briston Maroney",
-          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
-        }
-      ],
-      "duration_ms": 237413,
-      "name": "It's Still Cool If You Don't",
-      "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Under The Milky Way",
         "url": "https://open.spotify.com/album/2nLFwnQ1oaO9GxmA7dOiAS"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 260101,
       "name": "Under The Milky Way",
       "url": "https://open.spotify.com/track/23PKv99vrds2hQ5NeI5rrL"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "It's Still Cool If You Don't",
+        "url": "https://open.spotify.com/album/2IunAIq4FrNDFwqe4DmvoU"
+      },
+      "artists": [
+        {
+          "name": "Briston Maroney",
+          "url": "https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd"
+        }
+      ],
+      "duration_ms": 237413,
+      "name": "It's Still Cool If You Don't",
+      "url": "https://open.spotify.com/track/1WfnPoIGJ4ea2O8JlbGQkp"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -939,22 +939,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Dare Me",
-        "url": "https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk"
-      },
-      "artists": [
-        {
-          "name": "Beach Fossils",
-          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
-        }
-      ],
-      "duration_ms": 145059,
-      "name": "Dare Me",
-      "url": "https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Move to San Francisco",
         "url": "https://open.spotify.com/album/1Xzw37fOGEzmGgntz96Egw"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 181492,
       "name": "Move to San Francisco",
       "url": "https://open.spotify.com/track/3Kq7kKBwHPOvdmyZanK4AP"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Dare Me",
+        "url": "https://open.spotify.com/album/1NJpU9Klntbl8KEp4i8erk"
+      },
+      "artists": [
+        {
+          "name": "Beach Fossils",
+          "url": "https://open.spotify.com/artist/1bwUhKRmEkOZ1wuTnV9XjC"
+        }
+      ],
+      "duration_ms": 145059,
+      "name": "Dare Me",
+      "url": "https://open.spotify.com/track/6uThQ2RC0Vn9XoaWNfmBWl"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Play It Strange",
-        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
-      },
-      "artists": [
-        {
-          "name": "The Fresh & Onlys",
-          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
-        }
-      ],
-      "duration_ms": 192186,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "One + One",
         "url": "https://open.spotify.com/album/26hlgZxgnH55W56xx5W4Vt"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 226296,
       "name": "One + One",
       "url": "https://open.spotify.com/track/2nY09ZRwI5cXRBB2JkJid7"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Play It Strange",
+        "url": "https://open.spotify.com/album/6Z0GV47fGK4hcnzklj80OX"
+      },
+      "artists": [
+        {
+          "name": "The Fresh & Onlys",
+          "url": "https://open.spotify.com/artist/6Ri83BLqlgaqIc9jwSgAn1"
+        }
+      ],
+      "duration_ms": 192186,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/4Uxz2P0dDnFJFi4rb4Awvr"
     },
     {
       "added_at": "2024-07-12 23:20:36",

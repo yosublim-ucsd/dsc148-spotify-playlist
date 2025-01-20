@@ -1,6 +1,6 @@
 {
   "description": "Das war der Sommer 2024 \u2600\ufe0f",
-  "num_followers": 1525588,
+  "num_followers": 1525448,
   "original_name": "Sommerhits 2024",
   "owner": {
     "name": "Spotify",
@@ -595,6 +595,26 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
+        "name": "Meet The Orphans",
+        "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
+      },
+      "artists": [
+        {
+          "name": "Don Omar",
+          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+        },
+        {
+          "name": "Lucenzo",
+          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+        }
+      ],
+      "duration_ms": 198786,
+      "name": "Danza Kuduro",
+      "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
         "name": "Call It Love",
         "url": "https://open.spotify.com/album/5c3YGhnf058Op4YviM73wn"
       },
@@ -615,22 +635,22 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Meet The Orphans",
-        "url": "https://open.spotify.com/album/3F41BssbVvfFnh6DdDODeO"
+        "name": "SURRENDER",
+        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
       },
       "artists": [
         {
-          "name": "Don Omar",
-          "url": "https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z"
+          "name": "Zerb",
+          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
         },
         {
-          "name": "Lucenzo",
-          "url": "https://open.spotify.com/artist/5bv5RplEOwdCvhq0EILh9E"
+          "name": "Sofiya Nzau",
+          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
         }
       ],
-      "duration_ms": 198786,
-      "name": "Danza Kuduro",
-      "url": "https://open.spotify.com/track/6DXLO8LndZMVOHM0wNbpzg"
+      "duration_ms": 208135,
+      "name": "Mwaki",
+      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -655,26 +675,6 @@
       "duration_ms": 138246,
       "name": "Kisses (feat. bbyclose)",
       "url": "https://open.spotify.com/track/1bJRd2ey6ER7neSxZwYdAG"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
-        "name": "SURRENDER",
-        "url": "https://open.spotify.com/album/5asqLE8StjaHpMWSyjzo2D"
-      },
-      "artists": [
-        {
-          "name": "Zerb",
-          "url": "https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy"
-        },
-        {
-          "name": "Sofiya Nzau",
-          "url": "https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3"
-        }
-      ],
-      "duration_ms": 208135,
-      "name": "Mwaki",
-      "url": "https://open.spotify.com/track/5KTZgG84bKFGm53lhLtTqc"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1067,6 +1067,30 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
+        "name": "Back To You",
+        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Elley Duh\u00e9",
+          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
+        },
+        {
+          "name": "X Ambassadors",
+          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
+        }
+      ],
+      "duration_ms": 157252,
+      "name": "Back To You",
+      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
         "name": "La Verdolaga (feat. Tot\u00f3 La Momposina)",
         "url": "https://open.spotify.com/album/5BPIosOap2GfTNmQPg7i89"
       },
@@ -1107,46 +1131,6 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Back To You",
-        "url": "https://open.spotify.com/album/1wntuGFGZSdkDL3pOTcdpr"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Elley Duh\u00e9",
-          "url": "https://open.spotify.com/artist/67MNhiAICFY6Pwc2YxCO0K"
-        },
-        {
-          "name": "X Ambassadors",
-          "url": "https://open.spotify.com/artist/3NPpFNZtSTHheNBaWC82rB"
-        }
-      ],
-      "duration_ms": 157252,
-      "name": "Back To You",
-      "url": "https://open.spotify.com/track/3K00Ib1shkOEiAXU5pec6e"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
-        "name": "Karibu",
-        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
-      },
-      "artists": [
-        {
-          "name": "WITH U",
-          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Karibu",
-      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
         "name": "Oberteil",
         "url": "https://open.spotify.com/album/2cCSjm0W6Dktayj73oMX6M"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 149976,
       "name": "Oberteil",
       "url": "https://open.spotify.com/track/6wujgYJX36mC0rtOdzEcAK"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "Karibu",
+        "url": "https://open.spotify.com/album/1nBlADPkrQJQyYDQRFZKjj"
+      },
+      "artists": [
+        {
+          "name": "WITH U",
+          "url": "https://open.spotify.com/artist/2VhoJf6VdIoPnifnThy9UV"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Karibu",
+      "url": "https://open.spotify.com/track/6jTbKd7VnhCt5qxyWTdak7"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1199,6 +1199,26 @@
       "duration_ms": 147619,
       "name": "Summer's Back",
       "url": "https://open.spotify.com/track/4lbBiqC2alVR4ooruZSe0o"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "Head Down",
+        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
+      },
+      "artists": [
+        {
+          "name": "Lost Frequencies",
+          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
+        },
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 173888,
+      "name": "Head Down",
+      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1263,26 +1283,6 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Head Down",
-        "url": "https://open.spotify.com/album/4FUeHNijvgnMa27510RDC2"
-      },
-      "artists": [
-        {
-          "name": "Lost Frequencies",
-          "url": "https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7"
-        },
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 173888,
-      "name": "Head Down",
-      "url": "https://open.spotify.com/track/7v4lL0VxQV8yTv29Tpf2sH"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
         "name": "Living In A Haze",
         "url": "https://open.spotify.com/album/2Ffexjpw1Q1qdwLWEVThEJ"
       },
@@ -1319,26 +1319,22 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Mi Amor (with JVKE & Anitta)",
-        "url": "https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz"
+        "name": "Waterfall",
+        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
       },
       "artists": [
         {
-          "name": "Sam Feldt",
-          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
         },
         {
-          "name": "JVKE",
-          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
-        },
-        {
-          "name": "Anitta",
-          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
         }
       ],
-      "duration_ms": 139428,
-      "name": "Mi Amor (with JVKE & Anitta)",
-      "url": "https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy"
+      "duration_ms": 137999,
+      "name": "Waterfall",
+      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1363,22 +1359,26 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Waterfall",
-        "url": "https://open.spotify.com/album/11tmmS5xSi2aa7VNokfYCD"
+        "name": "Mi Amor (with JVKE & Anitta)",
+        "url": "https://open.spotify.com/album/5cSRo7t8wqzwSiEc5hBDUz"
       },
       "artists": [
         {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+          "name": "Sam Feldt",
+          "url": "https://open.spotify.com/artist/20gsENnposVs2I4rQ5kvrf"
         },
         {
-          "name": "R3HAB",
-          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+          "name": "JVKE",
+          "url": "https://open.spotify.com/artist/164Uj4eKjl6zTBKfJLFKKK"
+        },
+        {
+          "name": "Anitta",
+          "url": "https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb"
         }
       ],
-      "duration_ms": 137999,
-      "name": "Waterfall",
-      "url": "https://open.spotify.com/track/7aJgh6LCvhXJfD7PHjhG70"
+      "duration_ms": 139428,
+      "name": "Mi Amor (with JVKE & Anitta)",
+      "url": "https://open.spotify.com/track/5u2EjRHBYRLFvfMXpBAewy"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1415,6 +1415,22 @@
       "duration_ms": 159357,
       "name": "Suavemente",
       "url": "https://open.spotify.com/track/4KHXk0rTD80mEf7bbdK29j"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "Beautiful Reason",
+        "url": "https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl"
+      },
+      "artists": [
+        {
+          "name": "Michael Schulte",
+          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
+        }
+      ],
+      "duration_ms": 183586,
+      "name": "Beautiful Reason",
+      "url": "https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1471,22 +1487,6 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Beautiful Reason",
-        "url": "https://open.spotify.com/album/2ix2CxYwwHSgTAJRgHnXNl"
-      },
-      "artists": [
-        {
-          "name": "Michael Schulte",
-          "url": "https://open.spotify.com/artist/21aa4pj9BvbFB2iT8kRpnq"
-        }
-      ],
-      "duration_ms": 183586,
-      "name": "Beautiful Reason",
-      "url": "https://open.spotify.com/track/13lJN9FLQ6Unk70LhhdnxX"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
         "name": "Mangos mit Chili",
         "url": "https://open.spotify.com/album/3qsz2ytKVv0pn17TISastM"
       },
@@ -1499,6 +1499,26 @@
       "duration_ms": 134887,
       "name": "Mangos mit Chili",
       "url": "https://open.spotify.com/track/11eYmv0tA3wEoyD1Sad2Nv"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "Better Days (feat. Declan J Donovan)",
+        "url": "https://open.spotify.com/album/04S3Gc7Co4Vsq6xLc9jzIR"
+      },
+      "artists": [
+        {
+          "name": "Glockenbach",
+          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
+        },
+        {
+          "name": "Declan J Donovan",
+          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
+        }
+      ],
+      "duration_ms": 179954,
+      "name": "Better Days (feat. Declan J Donovan)",
+      "url": "https://open.spotify.com/track/4ZuBUWUnehdOkRaukmVErf"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1527,26 +1547,6 @@
     {
       "added_at": "2024-08-29 14:50:12",
       "album": {
-        "name": "Better Days (feat. Declan J Donovan)",
-        "url": "https://open.spotify.com/album/04S3Gc7Co4Vsq6xLc9jzIR"
-      },
-      "artists": [
-        {
-          "name": "Glockenbach",
-          "url": "https://open.spotify.com/artist/7GZJ2POiwPZoW7UVYjNj8i"
-        },
-        {
-          "name": "Declan J Donovan",
-          "url": "https://open.spotify.com/artist/6bh228LGC3eAzbplPWV02r"
-        }
-      ],
-      "duration_ms": 179954,
-      "name": "Better Days (feat. Declan J Donovan)",
-      "url": "https://open.spotify.com/track/4ZuBUWUnehdOkRaukmVErf"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
         "name": "Do It Again",
         "url": "https://open.spotify.com/album/2CVUrzo4yImrsDLT3v1jTZ"
       },
@@ -1559,22 +1559,6 @@
       "duration_ms": 175671,
       "name": "Do It Again",
       "url": "https://open.spotify.com/track/1IeQnQxCs2YJN6u3wQbUyX"
-    },
-    {
-      "added_at": "2024-08-29 14:50:12",
-      "album": {
-        "name": "So Good",
-        "url": "https://open.spotify.com/album/6GfhI8EKNPVEfplLMaINV5"
-      },
-      "artists": [
-        {
-          "name": "KAMRAD",
-          "url": "https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP"
-        }
-      ],
-      "duration_ms": 144920,
-      "name": "So Good",
-      "url": "https://open.spotify.com/track/2XTSjtPIN0PzfJEfdceNaN"
     },
     {
       "added_at": "2024-08-29 14:50:12",
@@ -1599,6 +1583,22 @@
       "duration_ms": 123870,
       "name": "Summer Of Love",
       "url": "https://open.spotify.com/track/3HL3TJezSH1S7e1daqWb7g"
+    },
+    {
+      "added_at": "2024-08-29 14:50:12",
+      "album": {
+        "name": "Te Imaginaba",
+        "url": "https://open.spotify.com/album/3Dzq1TpDfjRLZtE2iNGfVU"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 158815,
+      "name": "Te Imaginaba",
+      "url": "https://open.spotify.com/track/6pMzqowNaO2zO3EamkPUCo"
     }
   ],
   "unique_name": "Sommerhits 2024",

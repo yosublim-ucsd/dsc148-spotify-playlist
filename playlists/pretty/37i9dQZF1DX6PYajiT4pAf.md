@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Bad Gyal con Trueno y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,693 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,733 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,7 +45,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 35 | [Espurna](https://open.spotify.com/track/0YLvq215pAthBeTs5qp5yg) | [Stay Homas](https://open.spotify.com/artist/7fUEi9sgiLw8gwQ307T6IU), [Figa Flawas](https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3) | [Espurna](https://open.spotify.com/album/30MA4geElUAQ6gNQ3ajaiK) | 2:37 |
 | 36 | [Com si fos ahir](https://open.spotify.com/track/5ZMpbkl0dvZkqx6w8gHcOg) | [Flashy Ice Cream](https://open.spotify.com/artist/24yN33FZM27S4x4EJCFsjR), [Serko](https://open.spotify.com/artist/2mHURFmt3SwlrBWImZwYoq) | [Com si fos ahir](https://open.spotify.com/album/3TOhHDMeLsVKaMoMcAMgwu) | 3:01 |
 | 37 | [Grueso](https://open.spotify.com/track/0Y8QKfOCh3GLOTpbRtBPtp) | [CREME](https://open.spotify.com/artist/4iq1L2xjC7dW8KrMKVQoWr), [Fabbio](https://open.spotify.com/artist/0qKIWMnkTnpE06eoKG7Pf4), [Bores D](https://open.spotify.com/artist/4W8h2ExvQpRm0A7fPst5Kw) | [Grueso](https://open.spotify.com/album/7cpLdLrLUaz6DyEx0WxpNn) | 3:20 |
-| 38 | [Vacas y Lobos](https://open.spotify.com/track/5wJBwxnoAs1BmxZivpFqup) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Juan Arance](https://open.spotify.com/artist/4jhJtfLj5b5ivzyQ8o80wH) | [Vacas y Lobos](https://open.spotify.com/album/4Nxn6GYBsoZ4cCe3UvWUj8) | 3:18 |
+| 38 | [Vacas y Lobos](https://open.spotify.com/track/5wJBwxnoAs1BmxZivpFqup) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Juan Arance](https://open.spotify.com/artist/7zVa1nAsArJxi8DCQa3NAB) | [Vacas y Lobos](https://open.spotify.com/album/4Nxn6GYBsoZ4cCe3UvWUj8) | 3:18 |
 | 39 | [Bachata Bélica](https://open.spotify.com/track/1Bhc0dOPU2yc4w1G9WpzWR) | [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz) | [Bachata Bélica](https://open.spotify.com/album/4xeQqVxLpVcYWGgLfa9X02) | 3:15 |
 | 40 | [La Cuadrada](https://open.spotify.com/track/211pfPs6IMmehy8K4sVkPk) | [Belinda](https://open.spotify.com/artist/5LeiVcEnsZcwc133TUhJNW), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [La Cuadrada](https://open.spotify.com/album/7qyFandNSeGFvHAwY9wA9J) | 2:40 |
 | 41 | [Curiosidad](https://open.spotify.com/track/4klqzB8TazgCXAEFUkAwrn) | [Manu Cort](https://open.spotify.com/artist/1s5yaJ9Dr74CfXADawVeqs), [Facundo Majdalani](https://open.spotify.com/artist/3NyQOEvPVM0jpm4Kh7sY5A) | [Curiosidad](https://open.spotify.com/album/6fobWc0jXDjifWcO0E0J5p) | 2:23 |

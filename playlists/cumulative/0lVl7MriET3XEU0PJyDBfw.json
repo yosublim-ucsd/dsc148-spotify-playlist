@@ -5,6 +5,28 @@
   "tracks": [
     {
       "album": {
+        "name": "CHICAGO ON TOP",
+        "url": "https://open.spotify.com/album/0LQdMCHd0k90pNhrwtDW0C"
+      },
+      "artists": [
+        {
+          "name": "Jake Shore",
+          "url": "https://open.spotify.com/artist/4i0eQ8mdCbjAS5XnQIC7BA"
+        },
+        {
+          "name": "Bishop Snow",
+          "url": "https://open.spotify.com/artist/2JKfOLsYxleweelfbQgZzF"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139047,
+      "name": "1995",
+      "url": "https://open.spotify.com/track/3HpiT9riJsYC9JvyZSzLlE"
+    },
+    {
+      "album": {
         "name": "2 Sexi",
         "url": "https://open.spotify.com/album/0OMfEuu9FY2h9HIDBwUBnJ"
       },
@@ -98,6 +120,36 @@
       "duration_ms": 180703,
       "name": "4U",
       "url": "https://open.spotify.com/track/00GvqqIkMdHaxChyhZf9Nx"
+    },
+    {
+      "album": {
+        "name": "4U (Remixes)",
+        "url": "https://open.spotify.com/album/1wrsTJ8gPE3IGdYCrdavKR"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        },
+        {
+          "name": "Martin Ikin",
+          "url": "https://open.spotify.com/artist/7DhdJhd6DrxeJlUajwttd1"
+        },
+        {
+          "name": "Sian-Lee",
+          "url": "https://open.spotify.com/artist/0JiqigemaoIuLScw1UNRr0"
+        },
+        {
+          "name": "Edu Campos",
+          "url": "https://open.spotify.com/artist/2RvoRUjBaJOEHIlfjs9V2J"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180005,
+      "name": "4U - Edu Campos Remix",
+      "url": "https://open.spotify.com/track/4U9f50xOGsxa4aFPkU2pxQ"
     },
     {
       "album": {
@@ -216,7 +268,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 183307,
       "name": "Alerta (feat. Myles O\u2019Neal)",
       "url": "https://open.spotify.com/track/09i3VLXbk1rtbKqgGeuVEp"
@@ -511,6 +563,24 @@
     },
     {
       "album": {
+        "name": "Got The Fire / Bacardi",
+        "url": "https://open.spotify.com/album/3ttRSthSpRHqRj1LR7W8Pi"
+      },
+      "artists": [
+        {
+          "name": "Tennan",
+          "url": "https://open.spotify.com/artist/1xY7Vvgywewx0f9rSAjlgC"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 325282,
+      "name": "Bacardi - Extended Mix",
+      "url": "https://open.spotify.com/track/63rFPRsGpXGwrQPKfG0tJa"
+    },
+    {
+      "album": {
         "name": "Backstage Baddies",
         "url": "https://open.spotify.com/album/5f9J5hd8aPY8OaeRB5BIsy"
       },
@@ -682,7 +752,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 193500,
       "name": "Bassline",
       "url": "https://open.spotify.com/track/3gAdc9jBXkLtxL0OhJ6W5p"
@@ -1188,6 +1258,32 @@
       "duration_ms": 180477,
       "name": "Bring It Back - TR744",
       "url": "https://open.spotify.com/track/6gMdt2WJntHMU8jo7ZcAW0"
+    },
+    {
+      "album": {
+        "name": "Toolroom Radio EP769 - Presented by Crusy",
+        "url": "https://open.spotify.com/album/5Qs6FkYNyJ28nXifKxwwcc"
+      },
+      "artists": [
+        {
+          "name": "ALL U NEED",
+          "url": "https://open.spotify.com/artist/2gFfYjFlwUk1nERTM5Vqgn"
+        },
+        {
+          "name": "Shiba San",
+          "url": "https://open.spotify.com/artist/7Hr9bE0u9Rl5n6QahVNRnc"
+        },
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179998,
+      "name": "Bring It Back - TR769",
+      "url": "https://open.spotify.com/track/2ltIcOENiQ3xg5OqcNzXB7"
     },
     {
       "album": {
@@ -2009,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "Disco Bus",
+        "url": "https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Disco Bus",
+      "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
+    },
+    {
+      "album": {
         "name": "Disco Demon",
         "url": "https://open.spotify.com/album/4gI8M9Uu9UbXCt7CT6bknP"
       },
@@ -2614,7 +2728,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 211875,
       "name": "FACTS",
       "url": "https://open.spotify.com/track/3uezCj7xBPyNlBc6cBbtMU"
@@ -4008,7 +4122,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 235348,
       "name": "Hunnid",
       "url": "https://open.spotify.com/track/0foByd4zgjnNQr2vH3aw5P"
@@ -5526,7 +5640,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 157500,
       "name": "More Space",
       "url": "https://open.spotify.com/track/7srH6afc3AXhsmU4XcZrPx"
@@ -6178,6 +6292,28 @@
       "duration_ms": 160714,
       "name": "OMW",
       "url": "https://open.spotify.com/track/4l3Q10nhiqIAj4dkCJU7DX"
+    },
+    {
+      "album": {
+        "name": "On Repeat",
+        "url": "https://open.spotify.com/album/6uAOimzv7qtVtW3Rlh9AdX"
+      },
+      "artists": [
+        {
+          "name": "Max Styler",
+          "url": "https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk"
+        },
+        {
+          "name": "Cl\u00fcb De Combat",
+          "url": "https://open.spotify.com/artist/0mY4R6feaMEIn9AEO2lMZw"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210957,
+      "name": "On Repeat",
+      "url": "https://open.spotify.com/track/1XGKqeShkPsvuUrhNnMyPM"
     },
     {
       "album": {
@@ -7134,7 +7270,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 195937,
       "name": "Right Action",
       "url": "https://open.spotify.com/track/7CDsdKiYwJfqmjfdPfg78t"
@@ -7596,7 +7732,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 226612,
       "name": "Set Me Free",
       "url": "https://open.spotify.com/track/6nslHVy8MuKPfqPlgNtReB"
@@ -8461,6 +8597,24 @@
     },
     {
       "album": {
+        "name": "Tax",
+        "url": "https://open.spotify.com/album/3d7mcIYhD0nt9hBq1lkdmi"
+      },
+      "artists": [
+        {
+          "name": "JADED",
+          "url": "https://open.spotify.com/artist/6tCJN1fQNdFCEaOa8Da9Wf"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204375,
+      "name": "Tax",
+      "url": "https://open.spotify.com/track/6VeiSkTvUS928pBY0uEAC9"
+    },
+    {
+      "album": {
         "name": "Tears (with Paige Cavell) [Max Styler Remix]",
         "url": "https://open.spotify.com/album/7fwIDXAJ73MEQyhpeALqcr"
       },
@@ -9084,7 +9238,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 195561,
       "name": "Too Hot",
       "url": "https://open.spotify.com/track/3KNH2PagNu27psa894EBGP"
@@ -9306,6 +9460,28 @@
       "duration_ms": 157144,
       "name": "UHHNE",
       "url": "https://open.spotify.com/track/4aoI3bXf5tFIr9blOIzCVv"
+    },
+    {
+      "album": {
+        "name": "Under Artists",
+        "url": "https://open.spotify.com/album/43eVOB26rUxvyR0xuOD8dw"
+      },
+      "artists": [
+        {
+          "name": "GREG (BR)",
+          "url": "https://open.spotify.com/artist/7K7I6veLj1PPzsrzVP6B79"
+        },
+        {
+          "name": "Luke Drash",
+          "url": "https://open.spotify.com/artist/6W3PQhFL4PtyjVBc35ac9o"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200625,
+      "name": "Under Artists",
+      "url": "https://open.spotify.com/track/6GhwdyCFTDfMxCfkoIGCbq"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Sof\u00eda Reyes. The essential tracks, all in one playlist.",
-  "num_followers": 42709,
+  "num_followers": 42713,
   "original_name": "This Is Sof\u00eda Reyes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAAaT6jEZWdpvJQEnDE4y3zJ",
+  "snapshot_id": "Z4rvAAAAAAAJXCPK8HkpFi503mcsDrWI",
   "tracks": [
     {
       "added_at": null,
@@ -971,26 +971,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Never Let You Go (feat. Sofia Reyes)",
-        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
-      },
-      "artists": [
-        {
-          "name": "Slushii",
-          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 162537,
-      "name": "Never Let You Go (feat. Sofia Reyes)",
-      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A Tu Manera [CORBATA]",
         "url": "https://open.spotify.com/album/0iGPhmdLQ1P3bZeTQmK3qB"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 174545,
       "name": "A Tu Manera [CORBATA]",
       "url": "https://open.spotify.com/track/7ylkmI5exdKG5Myo7DuH2p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Let You Go (feat. Sofia Reyes)",
+        "url": "https://open.spotify.com/album/2p7Lm9KtGXUlDPA9lYl46V"
+      },
+      "artists": [
+        {
+          "name": "Slushii",
+          "url": "https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 162537,
+      "name": "Never Let You Go (feat. Sofia Reyes)",
+      "url": "https://open.spotify.com/track/7KY4hAPXXg9aeYczem8JBo"
     },
     {
       "added_at": null,

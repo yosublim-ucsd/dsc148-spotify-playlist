@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 18517,
+  "num_followers": 18522,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -219,6 +219,22 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
+        "name": "The Most Beautiful Moment in Life: Young Forever",
+        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 203351,
+      "name": "Burning Up (Fire)",
+      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
         "name": "Hello Bitches",
         "url": "https://open.spotify.com/album/1pu6aEuAKBdTdQLSbfBNTG"
       },
@@ -231,38 +247,6 @@
       "duration_ms": 178177,
       "name": "Hello Bitches",
       "url": "https://open.spotify.com/track/72ysGFB4mZTgQsPqN9PzPS"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
-        "name": "XOXO",
-        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 207650,
-      "name": "XOXO",
-      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
-        "name": "ANTIFRAGILE",
-        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 156354,
-      "name": "Good Parts (when the quality is bad but I am)",
-      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
     },
     {
       "added_at": "2025-01-18 02:30:10",
@@ -283,18 +267,34 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
-        "name": "The Most Beautiful Moment in Life: Young Forever",
-        "url": "https://open.spotify.com/album/1k5bJ8l5oL5xxVBVHjil09"
+        "name": "ANTIFRAGILE",
+        "url": "https://open.spotify.com/album/3u0ggfmK0vjuHMNdUbtaa9"
       },
       "artists": [
         {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
         }
       ],
-      "duration_ms": 203351,
-      "name": "Burning Up (Fire)",
-      "url": "https://open.spotify.com/track/0aE3V0zgSD2YwkEHW42gxG"
+      "duration_ms": 156354,
+      "name": "Good Parts (when the quality is bad but I am)",
+      "url": "https://open.spotify.com/track/1sZBzYhrQG40zcSuKkI93c"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
+        "name": "XOXO",
+        "url": "https://open.spotify.com/album/63pvOn2B5pUUcUKUwIEg9m"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 207650,
+      "name": "XOXO",
+      "url": "https://open.spotify.com/track/4r34Yi0eltsu1tp6z4lq3x"
     },
     {
       "added_at": "2025-01-18 02:30:10",
@@ -363,22 +363,6 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
-        "name": "BIRTHDAY",
-        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
-      },
-      "artists": [
-        {
-          "name": "JEON SOMI",
-          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
-        }
-      ],
-      "duration_ms": 185796,
-      "name": "BIRTHDAY",
-      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
         "name": "IITE COOL",
         "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
       },
@@ -399,26 +383,6 @@
       "duration_ms": 203066,
       "name": "Hula Hoops",
       "url": "https://open.spotify.com/track/5FsdBmqWWfS6S5X4NfmxSh"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
-        "name": "4444",
-        "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
-      },
-      "artists": [
-        {
-          "name": "WOOSUNG",
-          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
-        },
-        {
-          "name": "B.I",
-          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
-        }
-      ],
-      "duration_ms": 214773,
-      "name": "Happy Alone (feat. B.I)",
-      "url": "https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f"
     },
     {
       "added_at": "2025-01-18 02:30:10",
@@ -455,6 +419,26 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
+        "name": "4444",
+        "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
+      },
+      "artists": [
+        {
+          "name": "WOOSUNG",
+          "url": "https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo"
+        },
+        {
+          "name": "B.I",
+          "url": "https://open.spotify.com/artist/0UntV1Bw2hk3fbRrm9eMP6"
+        }
+      ],
+      "duration_ms": 214773,
+      "name": "Happy Alone (feat. B.I)",
+      "url": "https://open.spotify.com/track/5m69aowedG1gR6ZsVVEA1f"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
         "name": "Could It Be",
         "url": "https://open.spotify.com/album/5vxRsSVH24F86nh4vuQVOI"
       },
@@ -471,6 +455,22 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
+        "name": "BIRTHDAY",
+        "url": "https://open.spotify.com/album/3lms4btHVQwQdmlk2a4oQx"
+      },
+      "artists": [
+        {
+          "name": "JEON SOMI",
+          "url": "https://open.spotify.com/artist/7zYj9S9SdIunYCfSm7vzAR"
+        }
+      ],
+      "duration_ms": 185796,
+      "name": "BIRTHDAY",
+      "url": "https://open.spotify.com/track/5XcM0eD1lsWZibqJ9AUTFq"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
         "name": "What Type of X",
         "url": "https://open.spotify.com/album/5uKW3bLhtPgOev6tKRFJpX"
       },
@@ -483,22 +483,6 @@
       "duration_ms": 198173,
       "name": "What Type of X",
       "url": "https://open.spotify.com/track/0LweQRsfJ3pRAJJFy6DrR1"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
-        "name": "IITE COOL",
-        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
-      },
-      "artists": [
-        {
-          "name": "DPR LIVE",
-          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
-        }
-      ],
-      "duration_ms": 214813,
-      "name": "Summer Tights",
-      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
     },
     {
       "added_at": "2025-01-18 02:30:10",
@@ -531,6 +515,22 @@
       "duration_ms": 216750,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/5UteR9bUlDg8I70brft1Vh"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
+        "name": "IITE COOL",
+        "url": "https://open.spotify.com/album/2OjMA1arGnBXDE20XbesVL"
+      },
+      "artists": [
+        {
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
+        }
+      ],
+      "duration_ms": 214813,
+      "name": "Summer Tights",
+      "url": "https://open.spotify.com/track/6KeIkgoC8SUeJ4VPw5Lkx8"
     },
     {
       "added_at": "2025-01-18 02:30:10",
@@ -711,22 +711,6 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
-        "name": "W.A.Y",
-        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
-      },
-      "artists": [
-        {
-          "name": "TRI.BE",
-          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
-        }
-      ],
-      "duration_ms": 177973,
-      "name": "WE ARE YOUNG",
-      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
         "name": "Ask Bout Me",
         "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
       },
@@ -743,18 +727,18 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
-        "name": "Wish & Wind",
-        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+        "name": "W.A.Y",
+        "url": "https://open.spotify.com/album/7iidKsHRHGmJ1tAMz8tvZo"
       },
       "artists": [
         {
-          "name": "Heize",
-          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+          "name": "TRI.BE",
+          "url": "https://open.spotify.com/artist/6BgYuNomEs12UIrnxhWE9a"
         }
       ],
-      "duration_ms": 217595,
-      "name": "Sorry",
-      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
+      "duration_ms": 177973,
+      "name": "WE ARE YOUNG",
+      "url": "https://open.spotify.com/track/3iP1Ii8sXnYNUNpEGQMXx6"
     },
     {
       "added_at": "2025-01-18 02:30:10",
@@ -771,6 +755,22 @@
       "duration_ms": 176759,
       "name": "20MIN",
       "url": "https://open.spotify.com/track/1Wl9MPBkb50b4uevY6sxkA"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
+        "name": "Wish & Wind",
+        "url": "https://open.spotify.com/album/5Fs2dlwUz1zkNcUPu6KaKF"
+      },
+      "artists": [
+        {
+          "name": "Heize",
+          "url": "https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo"
+        }
+      ],
+      "duration_ms": 217595,
+      "name": "Sorry",
+      "url": "https://open.spotify.com/track/3OYuHSIBy3KrBDXG9Au5r8"
     },
     {
       "added_at": "2025-01-18 02:30:10",
@@ -983,22 +983,6 @@
     {
       "added_at": "2025-01-18 02:30:10",
       "album": {
-        "name": "Armageddon - The 1st Album",
-        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 159133,
-      "name": "Live My Life",
-      "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
-    },
-    {
-      "added_at": "2025-01-18 02:30:10",
-      "album": {
         "name": "Seoul Check-in OST Part 6",
         "url": "https://open.spotify.com/album/6fma7QBBD2qxShJv2jKPcy"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 191208,
       "name": "Check-In",
       "url": "https://open.spotify.com/track/6W6UgkbWs1O5MCdt4M9aP5"
+    },
+    {
+      "added_at": "2025-01-18 02:30:10",
+      "album": {
+        "name": "Armageddon - The 1st Album",
+        "url": "https://open.spotify.com/album/058hCti9Bupb5CJc6bd3VB"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 159133,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/3ybJERCKs3Jf3aT7xU1Vs4"
     },
     {
       "added_at": "2025-01-18 02:30:10",

@@ -1,6 +1,6 @@
 {
   "description": "Bailadores y afamados, los cuacos que con su galope hicieron historia.",
-  "num_followers": 158701,
+  "num_followers": 158878,
   "original_name": "Corridos de Caballos",
   "owner": {
     "name": "Spotify",
@@ -131,22 +131,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Para Vivir Contigo",
-        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 140956,
-      "name": "El Chueco Galindo",
-      "url": "https://open.spotify.com/track/3nEugNej2Gs6GbEnK0wSnu"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
         "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
       },
@@ -159,6 +143,22 @@
       "duration_ms": 195744,
       "name": "El Moro De Cumpas",
       "url": "https://open.spotify.com/track/7saMayhJnkuIf0dosuuWH4"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Para Vivir Contigo",
+        "url": "https://open.spotify.com/album/2a9iYk1aBjr7hExMNr2ZDe"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 140956,
+      "name": "El Chueco Galindo",
+      "url": "https://open.spotify.com/track/3nEugNej2Gs6GbEnK0wSnu"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Barquillero",
-        "url": "https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 200760,
-      "name": "Barquillero",
-      "url": "https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Hay Nubes Llorando",
         "url": "https://open.spotify.com/album/5YufvENBLRTnojNfVRXfGW"
       },
@@ -243,6 +227,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
+        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 184854,
+      "name": "El Siete Leguas",
+      "url": "https://open.spotify.com/track/7IpRUvslUAxkfXyEpuE09R"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "Se\u00f1orita de a Caballo",
         "url": "https://open.spotify.com/album/3sFEqREI20uKdNCNl8JY5A"
       },
@@ -255,6 +255,38 @@
       "duration_ms": 222226,
       "name": "Se\u00f1orita de a Caballo",
       "url": "https://open.spotify.com/track/71TYBH5L2qbNlQvbmi0u2X"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Qu\u00e9 Barbaridad: Corridos y Rancheras",
+        "url": "https://open.spotify.com/album/4WZlLb4JZKMBTl7EmUX9Yr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Laberinto",
+          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
+        }
+      ],
+      "duration_ms": 162666,
+      "name": "El Chulo",
+      "url": "https://open.spotify.com/track/5hJtSEZbRc7oBBfysp10Cq"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Barquillero",
+        "url": "https://open.spotify.com/album/6FrtpkD2DmlpoFh5FAtniX"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 200760,
+      "name": "Barquillero",
+      "url": "https://open.spotify.com/track/7EYCioIJy7PVVryIHjlGRr"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -284,41 +316,9 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 184854,
-      "name": "El Siete Leguas",
-      "url": "https://open.spotify.com/track/7IpRUvslUAxkfXyEpuE09R"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Qu\u00e9 Barbaridad: Corridos y Rancheras",
-        "url": "https://open.spotify.com/album/4WZlLb4JZKMBTl7EmUX9Yr"
-      },
-      "artists": [
-        {
-          "name": "Grupo Laberinto",
-          "url": "https://open.spotify.com/artist/24z2EWgF5nVUKnbJHd9ku2"
-        }
-      ],
-      "duration_ms": 162666,
-      "name": "El Chulo",
-      "url": "https://open.spotify.com/track/5hJtSEZbRc7oBBfysp10Cq"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Agarr\u00f3 Camino",
-        "url": "https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 186133,
-      "name": "Regalo Del Cielo",
-      "url": "https://open.spotify.com/track/7DBvS6V71BdQSDE89fun8r"
+      "duration_ms": 190426,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/4xePDYKZKvxWNudB8ghgyA"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "Agarr\u00f3 Camino",
+        "url": "https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 186133,
+      "name": "Regalo Del Cielo",
+      "url": "https://open.spotify.com/track/7DBvS6V71BdQSDE89fun8r"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "M\u00e1s All\u00e1 Del Sol",
         "url": "https://open.spotify.com/album/2xCw6KdAxnF1OBvsrLbKDM"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 183297,
       "name": "Cuando Muri\u00f3 Mi Caballo",
       "url": "https://open.spotify.com/track/151XSjgdoUP9y0Hh7axniG"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Mitad Y Mitad",
-        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
-      },
-      "artists": [
-        {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
-        }
-      ],
-      "duration_ms": 201266,
-      "name": "El Quijote De Don Chuy",
-      "url": "https://open.spotify.com/track/24vPUjrNiKaHkJKD6TGLDR"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -391,38 +391,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
-        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 190426,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/4xePDYKZKvxWNudB8ghgyA"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Agarr\u00f3 Camino",
-        "url": "https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 149546,
-      "name": "El Retiro Del Cadete",
-      "url": "https://open.spotify.com/track/0El9FNxpOsiLPGL3ki5MR9"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Corridos De Caballos",
         "url": "https://open.spotify.com/album/6G5TPg4hZIAodWMQmcP6sl"
       },
@@ -435,6 +403,38 @@
       "duration_ms": 179346,
       "name": "El Cadete",
       "url": "https://open.spotify.com/track/0ojuwkgfXGXzqVVRVhHRnN"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
+        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
+      },
+      "artists": [
+        {
+          "name": "Antonio Aguilar",
+          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
+        }
+      ],
+      "duration_ms": 193886,
+      "name": "El Patas Blancas",
+      "url": "https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Mitad Y Mitad",
+        "url": "https://open.spotify.com/album/76KrINxApHUqS0GywH3g0R"
+      },
+      "artists": [
+        {
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+        }
+      ],
+      "duration_ms": 201266,
+      "name": "El Quijote De Don Chuy",
+      "url": "https://open.spotify.com/track/24vPUjrNiKaHkJKD6TGLDR"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -503,22 +503,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 162690,
-      "name": "La Leona Y El Carcomido",
-      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Agarr\u00f3 Camino",
         "url": "https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh"
       },
@@ -528,9 +512,9 @@
           "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
         }
       ],
-      "duration_ms": 184186,
-      "name": "La Huesos",
-      "url": "https://open.spotify.com/track/2pgTy7Jh1b8k46fjKmhrol"
+      "duration_ms": 149546,
+      "name": "El Retiro Del Cadete",
+      "url": "https://open.spotify.com/track/0El9FNxpOsiLPGL3ki5MR9"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -544,9 +528,25 @@
           "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
         }
       ],
-      "duration_ms": 193886,
-      "name": "El Patas Blancas",
-      "url": "https://open.spotify.com/track/1yCuA1xahUUZHiitztKCIf"
+      "duration_ms": 206889,
+      "name": "El Caballo Bayo",
+      "url": "https://open.spotify.com/track/6sFWewanbKBf56b0VQIwJI"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 162690,
+      "name": "La Leona Y El Carcomido",
+      "url": "https://open.spotify.com/track/450VR4UGmK3IfRu6RuvcmY"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -603,70 +603,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corridos de Caballos",
-        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
-      },
-      "artists": [
-        {
-          "name": "Impostores De Nuevo Leon",
-          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "Oak Tree Special",
-      "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Corridos De Caballos Famosos",
-        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
-      },
-      "artists": [
-        {
-          "name": "Los Huracanes del Norte",
-          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
-        }
-      ],
-      "duration_ms": 246360,
-      "name": "El Moro De Cumpas",
-      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Con Estrella De Borracho",
-        "url": "https://open.spotify.com/album/7mCIJYO4dR2J5LTZy7NMsC"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 131573,
-      "name": "El Durango Contra El Peligro",
-      "url": "https://open.spotify.com/track/02YhmAsJJ0xaG13aqD0dw1"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "15 \u00c9xitos: Corridos de Caballos Famosos",
-        "url": "https://open.spotify.com/album/3WUnXpC1xyvjORAFOym30X"
-      },
-      "artists": [
-        {
-          "name": "Antonio Aguilar",
-          "url": "https://open.spotify.com/artist/0PN0fbe41KbuzlRYnoajNm"
-        }
-      ],
-      "duration_ms": 206889,
-      "name": "El Caballo Bayo",
-      "url": "https://open.spotify.com/track/6sFWewanbKBf56b0VQIwJI"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Corridos Finos III",
         "url": "https://open.spotify.com/album/7LDQI0TCxPQaEhBfQ1BGEc"
       },
@@ -683,18 +619,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Puros Corridos",
-        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+        "name": "Corridos de Caballos",
+        "url": "https://open.spotify.com/album/5kXoqUH7dnPoWFEuHQCNgI"
       },
       "artists": [
         {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+          "name": "Impostores De Nuevo Leon",
+          "url": "https://open.spotify.com/artist/74bsa1JfHvX7B7TrX7aAzI"
         }
       ],
-      "duration_ms": 102840,
-      "name": "Caballo De Patas Blancas",
-      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+      "duration_ms": 274000,
+      "name": "Oak Tree Special",
+      "url": "https://open.spotify.com/track/1rsSDPPOODrFc9K1PkB24f"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -727,6 +663,54 @@
       "duration_ms": 164821,
       "name": "Caballo R-15 - En Vivo",
       "url": "https://open.spotify.com/track/3jhRsmwoJnL8wVB66FPOtU"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Agarr\u00f3 Camino",
+        "url": "https://open.spotify.com/album/2LFzmjuaHpQIzJJ7jUxyyh"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 184186,
+      "name": "La Huesos",
+      "url": "https://open.spotify.com/track/2pgTy7Jh1b8k46fjKmhrol"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Puros Corridos",
+        "url": "https://open.spotify.com/album/7ydDpPVpV2VviGIIc5uYG1"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 102840,
+      "name": "Caballo De Patas Blancas",
+      "url": "https://open.spotify.com/track/2snAmWK7MqZMLHlAb0fu7f"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Corridos De Caballos Famosos",
+        "url": "https://open.spotify.com/album/3vgps3Egv98mrUtRtkz90V"
+      },
+      "artists": [
+        {
+          "name": "Los Huracanes del Norte",
+          "url": "https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ"
+        }
+      ],
+      "duration_ms": 246360,
+      "name": "El Moro De Cumpas",
+      "url": "https://open.spotify.com/track/0aHdkEGGQNXrPyRfldFSUy"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -791,38 +775,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "En Vivo Desde El Rancho",
-        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
-      },
-      "artists": [
-        {
-          "name": "Banda Carnaval",
-          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
-        }
-      ],
-      "duration_ms": 148680,
-      "name": "Caballito De Otate - En Vivo Desde El Rancho",
-      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "El Puente Roto",
-        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
-      },
-      "artists": [
-        {
-          "name": "Los Invasores De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
-        }
-      ],
-      "duration_ms": 160466,
-      "name": "Caballos de la Cordada",
-      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Corridos de Caballos Pura Sangre",
         "url": "https://open.spotify.com/album/3XR6y0bpNfJxuXuEzg5pZW"
       },
@@ -839,6 +791,38 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
+        "name": "En Vivo Desde El Rancho",
+        "url": "https://open.spotify.com/album/0MhHMBaSyymJS9CslAtVxI"
+      },
+      "artists": [
+        {
+          "name": "Banda Carnaval",
+          "url": "https://open.spotify.com/artist/6LOvxDn71T0wWhCDNcXcUj"
+        }
+      ],
+      "duration_ms": 148680,
+      "name": "Caballito De Otate - En Vivo Desde El Rancho",
+      "url": "https://open.spotify.com/track/71OGhd0HAEQvQzrOPTIJ1j"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Con Estrella De Borracho",
+        "url": "https://open.spotify.com/album/7mCIJYO4dR2J5LTZy7NMsC"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 131573,
+      "name": "El Durango Contra El Peligro",
+      "url": "https://open.spotify.com/track/02YhmAsJJ0xaG13aqD0dw1"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
         "name": "El cantador (En vivo)",
         "url": "https://open.spotify.com/album/214cTuturC6CHUNgH5P9E3"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 200093,
       "name": "El cantador - En vivo",
       "url": "https://open.spotify.com/track/2cidQAJb7tlZqWSmUbkLgr"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "El Puente Roto",
+        "url": "https://open.spotify.com/album/4C7e9hq4CH3hm0qhjLryjF"
+      },
+      "artists": [
+        {
+          "name": "Los Invasores De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/5CGtBYmVPeLhI1kM2Fn9Gv"
+        }
+      ],
+      "duration_ms": 160466,
+      "name": "Caballos de la Cordada",
+      "url": "https://open.spotify.com/track/4qqkZvg2z6saQ2yhaWADUl"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Las Tres Tumbas",
-        "url": "https://open.spotify.com/album/1UF7X9zpBOF6JNv0l5wsx0"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Eran Cuatro de a Caballo",
-      "url": "https://open.spotify.com/track/21IeqSi1HY4Nm7vzhLjdqo"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
         "name": "Y Seguimos La Borrachera",
         "url": "https://open.spotify.com/album/5LUAUynTSlr686U0OQMM1E"
       },
@@ -995,18 +979,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "La Panchita",
-        "url": "https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX"
+        "name": "Las Tres Tumbas",
+        "url": "https://open.spotify.com/album/1UF7X9zpBOF6JNv0l5wsx0"
       },
       "artists": [
         {
-          "name": "Serapio Ramirez",
-          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 213437,
-      "name": "La Panchita",
-      "url": "https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr"
+      "duration_ms": 185306,
+      "name": "Eran Cuatro de a Caballo",
+      "url": "https://open.spotify.com/track/21IeqSi1HY4Nm7vzhLjdqo"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1039,6 +1023,38 @@
       "duration_ms": 165341,
       "name": "Mi Caballo Pobre",
       "url": "https://open.spotify.com/track/4wW1Xvbfwmq8CMJdjoR4fg"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "La Panchita",
+        "url": "https://open.spotify.com/album/2fZDHIZm16tWGay2uuBmTX"
+      },
+      "artists": [
+        {
+          "name": "Serapio Ramirez",
+          "url": "https://open.spotify.com/artist/5zEu1AEBrzoPsIGwH0weYW"
+        }
+      ],
+      "duration_ms": 213437,
+      "name": "La Panchita",
+      "url": "https://open.spotify.com/track/1NSNeV7Woy6cBc69wxfzLr"
+    },
+    {
+      "added_at": "2024-09-20 06:00:00",
+      "album": {
+        "name": "Corridos de Caballos y Gallos",
+        "url": "https://open.spotify.com/album/5eAgdJxHc5RK1yoTKcubOz"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 187324,
+      "name": "El Cantador",
+      "url": "https://open.spotify.com/track/6t3R58KjOhsXXuuuIG9vw8"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1079,18 +1095,18 @@
     {
       "added_at": "2024-09-20 06:00:00",
       "album": {
-        "name": "Corridos de Caballos y Gallos",
-        "url": "https://open.spotify.com/album/5eAgdJxHc5RK1yoTKcubOz"
+        "name": "Dos Coronas a Mi Madre",
+        "url": "https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1"
       },
       "artists": [
         {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+          "name": "Los Cadetes De Linares",
+          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
         }
       ],
-      "duration_ms": 187324,
-      "name": "El Cantador",
-      "url": "https://open.spotify.com/track/6t3R58KjOhsXXuuuIG9vw8"
+      "duration_ms": 193773,
+      "name": "El Muchacho y el Potro",
+      "url": "https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG"
     },
     {
       "added_at": "2024-09-20 06:00:00",
@@ -1107,22 +1123,6 @@
       "duration_ms": 204920,
       "name": "El Moro de Cumpas",
       "url": "https://open.spotify.com/track/48xE4Ro1GQxQEQKqYbT99I"
-    },
-    {
-      "added_at": "2024-09-20 06:00:00",
-      "album": {
-        "name": "Dos Coronas a Mi Madre",
-        "url": "https://open.spotify.com/album/7vnnPHcY893aPwnBnyl7u1"
-      },
-      "artists": [
-        {
-          "name": "Los Cadetes De Linares",
-          "url": "https://open.spotify.com/artist/1iIxNEvPPmdFIIP0tdpw6G"
-        }
-      ],
-      "duration_ms": 193773,
-      "name": "El Muchacho y el Potro",
-      "url": "https://open.spotify.com/track/1oLNiCEDdocJ59lgI43OVG"
     },
     {
       "added_at": "2024-09-20 06:00:00",

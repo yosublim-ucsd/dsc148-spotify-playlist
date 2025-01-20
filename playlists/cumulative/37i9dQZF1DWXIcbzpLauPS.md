@@ -4,7 +4,7 @@
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: Silent Planet
 
-1,105 songs - 2 day 20 hr 5 min
+1,107 songs - 2 day 20 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [Coffin of Pain](https://open.spotify.com/track/447Njnc42ii3OpAcVVzw60) | [Distinguisher](https://open.spotify.com/artist/2SAUkgFRLdVSLxMzT85HSc) | [Under the Weight of Things I Couldn't Change](https://open.spotify.com/album/6WG2fAFFnRFlsEbJYVgkRU) | 3:36 | 2022-07-13 | 2022-07-15 |
 | [Cold](https://open.spotify.com/track/2XsztotxStcCiqwKEuOWyE) | [Ocean Sleeper](https://open.spotify.com/artist/04LbaB3D3XOMbfPnWmObAi) | [Maybe Death Is All I Need](https://open.spotify.com/album/3ZgCBOcMZUn3oZV0pgt4sg) | 1:53 | 2024-10-18 | 2025-01-19 |
 | [Cold Blooded](https://open.spotify.com/track/55qsUnoBhvLZ6ktj5v3lKp) | [Young Medicine](https://open.spotify.com/artist/0Cojc5p5tlHl9I61q3ddjQ) | [Cold Blooded](https://open.spotify.com/album/5pSv7gNjAnaM169UjdNXY0) | 3:38 | 2021-12-17 | 2022-04-02 |
+| [Cold Hard Truth](https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit) | [Fox Lake](https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL) | [Cold Hard Truth](https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7) | 3:02 | 2025-01-17 |  |
 | [Cold World](https://open.spotify.com/track/0OgCom0J2EH70YJJxcFlgr) | [Additional Time](https://open.spotify.com/artist/41OZ2IjrF9kjGWDYIGBYOz) | [Cold World](https://open.spotify.com/album/4yHK77sLinmbGY7Ebp1l3i) | 4:06 | 2021-12-17 | 2022-01-15 |
 | [Collapse](https://open.spotify.com/track/3LR5jyD6SzxndATDr83izY) | [Vigils](https://open.spotify.com/artist/3EzYyT79hzNl6mxm7v44h0) | [Collapse](https://open.spotify.com/album/2DVcJX849QCM4XMcZ92qaO) | 3:12 | 2022-01-07 | 2022-04-09 |
 | [Composure](https://open.spotify.com/track/2DfhhMCu4HbYY1QmoWNtWM) | [Fight The Fade](https://open.spotify.com/artist/5byg90wTxATnhB6kK253DF) | [Composure](https://open.spotify.com/album/2UUPHayhYk5eGpL8QIOpLm) | 3:38 | 2021-12-17 | 2022-04-02 |
@@ -324,6 +325,7 @@
 | [Drag Me Out](https://open.spotify.com/track/10ATQv1vPZbCK1PnIBUwer) | [Archers](https://open.spotify.com/artist/5aJJUTEzIbxdogCW6Qpire) | [Drag Me Out](https://open.spotify.com/album/50uzHOpVXSvmiXGX4Fe7vs) | 3:21 | 2024-04-18 | 2024-09-21 |
 | [DRAG ME UNDER](https://open.spotify.com/track/1UO0CiVigVTt3PFAKzlKfw) | [blessthefall](https://open.spotify.com/artist/7t2C8WwLyKUKRe0LVh8zl9), [Alpha Wolf](https://open.spotify.com/artist/2tjnvrUmP46XNjFh9V0NGc) | [DRAG ME UNDER](https://open.spotify.com/album/2bWO0rTh0rdTJRuO3E5xpe) | 3:31 | 2024-08-25 |  |
 | [Drag Me Under](https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8) | [Rising Insane](https://open.spotify.com/artist/7InRNmmQuAi5KGBFtfOkrf) | [Drag Me Under](https://open.spotify.com/album/05KgX2I0e6LKvBWlUmRW0H) | 3:45 | 2023-02-10 | 2024-01-13 |
+| [Drawn, Conned & Deceived](https://open.spotify.com/track/6vIOOhYiLRUBorAMnAsBso) | [The Narrator](https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk) | [Drawn, Conned & Deceived](https://open.spotify.com/album/20rWl9qSSJy31dvRXwAtWH) | 3:10 | 2025-01-17 |  |
 | [Dreaming Desecration](https://open.spotify.com/track/5CdHJaOsp8gCZyMhuWmS6o) | [Signs of the Swarm](https://open.spotify.com/artist/0yxJx8OEyDfd7dzLsFuNrS) | [Absolvere](https://open.spotify.com/album/2nDh1tZjYv2W63a27pSqRx) | 3:41 | 2022-07-13 | 2022-07-22 |
 | [Dreamlike](https://open.spotify.com/track/2Q5SujJTPSQRKH5Yu2b4Ov) | [Dead by April](https://open.spotify.com/artist/2otRZcOVNcmdkZ5nEoogy6) | [Dreamlike](https://open.spotify.com/album/5vrOVj0dYdmEuhXT6cY6jW) | 3:28 | 2023-05-05 | 2024-10-19 |
 | [Dreamstate](https://open.spotify.com/track/53SIguo0ftQQXu9pXJENSo) | [Future Palace](https://open.spotify.com/artist/4QnuZOyl4C9d1keyOZXJ21) | [Dreamstate](https://open.spotify.com/album/72FaMZE6GlaPHXKm5DvTof) | 4:00 | 2024-07-12 | 2024-09-21 |
@@ -540,7 +542,7 @@
 | [Invictus Unto Fire](https://open.spotify.com/track/671wVJrGptwhsVbxyGiMLg) | [The Last Ten Seconds of Life](https://open.spotify.com/artist/3AESf0xMv9HSc3svVqypnY) | [Invictus Unto Fire](https://open.spotify.com/album/3lAOXpQ0cqHwVfMbeSD26I) | 3:21 | 2022-07-13 | 2022-07-20 |
 | [Invisible Rain](https://open.spotify.com/track/6UxqRS5vDYkFDScGdBX5IO) | [Stick To Your Guns](https://open.spotify.com/artist/2sqrupqcoipb7UzVKApEnJ) | [Invisible Rain](https://open.spotify.com/album/06fR6U5Ps2jja9Lp4kcmlx) | 2:39 | 2024-06-10 |  |
 | [Isolated](https://open.spotify.com/track/5ol2lC3LsGr2ynRo0ptaFE) | [Alex Yarmak](https://open.spotify.com/artist/7BxvbZy8vMWGskAEh3uueA) | [Isolated](https://open.spotify.com/album/6iXKfbzhJ3n48tc0aucqxz) | 3:41 | 2022-05-20 | 2022-07-23 |
-| [It Consumes Me](https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l) | [Grayscale Season](https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4) | [feel something new](https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho) | 3:24 | 2024-03-08 |  |
+| [It Consumes Me](https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l) | [Grayscale Season](https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4) | [feel something new](https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho) | 3:24 | 2024-03-08 | 2025-01-20 |
 | [It's Hell Down Here](https://open.spotify.com/track/0chASbpWKoTnrXDoPyNSyH) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [It's Hell Down Here](https://open.spotify.com/album/2nyvCfPmmT3u7fbF4Hno4a) | 4:00 | 2023-03-31 | 2024-05-11 |
 | [It's Hell Down Here](https://open.spotify.com/track/3vxMfMNjD8k0ozmuVDu0Ai) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [Not Without My Ghosts](https://open.spotify.com/album/5IBhAOIYSATI3WY7DgeSl7) | 4:00 | 2023-05-05 | 2024-04-19 |
 | [It's Over](https://open.spotify.com/track/1pShlPEW4nhGQeomZLCXtL) | [Silverstein](https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug) | [It's Over](https://open.spotify.com/album/1yA0gGywa2o2KnHnvLUMq9) | 3:23 | 2021-12-17 | 2022-07-23 |
@@ -651,7 +653,7 @@
 | [mutant.](https://open.spotify.com/track/5tekqsI1eoUxmiX5OCPQ8O) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA), [Thousand Below](https://open.spotify.com/artist/0iU3WDujScAofxcK2EMypN) | [DIGITAL PARANOIA 2052](https://open.spotify.com/album/1YiAAasbaRghpFfqSkq5OO) | 4:12 | 2024-02-09 | 2024-07-13 |
 | [My Demon](https://open.spotify.com/track/7tWHAHMCxxyoxEWafamf3F) | [Points of Conception](https://open.spotify.com/artist/6wQON4XetnZiflTlfsrknf) | [My Demon](https://open.spotify.com/album/0HY8gcdCCNbZnM5cQKnnJH) | 3:01 | 2022-04-01 | 2022-06-11 |
 | [My Everything](https://open.spotify.com/track/1Zsy3xy9TvYELEGg1js4yw) | [Acres](https://open.spotify.com/artist/3y43zXffnLmhyQD1K4QCmD) | [Burning Throne](https://open.spotify.com/album/4SvwujGdVPbHhAR3DIQCc4) | 3:53 | 2023-03-10 | 2024-01-13 |
-| [My Father's Son \- Redux](https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [My Father's Son \(Redux\)](https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq) | 3:42 | 2024-08-25 |  |
+| [My Father's Son \- Redux](https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O) | [The Amity Affliction](https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK) | [My Father's Son \(Redux\)](https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq) | 3:42 | 2024-08-25 | 2025-01-20 |
 | [MY WAY](https://open.spotify.com/track/7m2pH8YJAhAXN0ini7NV4K) | [STEELSHOOTER](https://open.spotify.com/artist/5e4eCpkqD4AK5mFyRjDPSk) | [MY WAY](https://open.spotify.com/album/7EQ3ZSc4aBHBSCx6IjPLEH) | 2:32 | 2022-07-13 | 2022-07-16 |
 | [My World](https://open.spotify.com/track/7qHrBih3sKUkgimXd5J4z2) | [AVOID](https://open.spotify.com/artist/7rZJ1D1ERxrHNKTWwpZFVU) | [My World](https://open.spotify.com/album/7ofP8y54U5eTxJvncaykqv) | 3:11 | 2022-06-24 | 2022-11-05 |
 | [Mystic Cord](https://open.spotify.com/track/2gO2rwntCs0InXql4AOQTV) | [Many Eyes](https://open.spotify.com/artist/001Hfjmktqije9a7IvGuFb) | [Mystic Cord](https://open.spotify.com/album/3jVi4YL9O4ZIoe7eFFJQKE) | 3:01 | 2023-11-27 | 2024-02-10 |

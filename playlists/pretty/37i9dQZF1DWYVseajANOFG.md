@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 
 > Así suena la música urbana de Panamá hoy\. Foto: Sech
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,725 likes - 55 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,754 likes - 55 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVseajANOFG.md) - [plain]
 | 18 | [Energias](https://open.spotify.com/track/2mfuy75A61Qnx3qApmZWMt) | [Boza](https://open.spotify.com/artist/2NfSBtmWe7oPw1EmetJVso) | [Par De Quina](https://open.spotify.com/album/36dIYKnpAFMPUr6pBm8rob) | 3:18 |
 | 19 | [Lv los Botines](https://open.spotify.com/track/1qE6wkqpuD1UClL9HvOEDd) | [Yemil](https://open.spotify.com/artist/7g4cPtKxNx146qdaY90TG4), [VLA Music Entertainment](https://open.spotify.com/artist/2EghqGAqc6ZSjkgqzUOeKC) | [Lv los Botines](https://open.spotify.com/album/60BDPAz8rAQuqH4HKfDTMD) | 2:46 |
 | 20 | [Por Que Me Dejaste](https://open.spotify.com/track/6Axtt8cR01vgBskI1iHXGs) | [Baby Karen](https://open.spotify.com/artist/3IStYJkZzqb5HbYpoKzirl), [Regue Records](https://open.spotify.com/artist/3UmN4yVf7yktR0tFTvxPeG) | [Por Que Me Dejaste](https://open.spotify.com/album/1zszgFD87E0MUdOAsCTSzD) | 3:29 |
-| 21 | [Lo Tengo Todo](https://open.spotify.com/track/3FYNVSbhDZEHjtVMsybgAW) | [Dariel Noel](https://open.spotify.com/artist/5RF3Mpcs2RXyheE0hzngPk), [Hennessy](https://open.spotify.com/artist/1LoeAMwjd44lrd6zU5Lh6U) | [Lo Tengo Todo](https://open.spotify.com/album/60fdOigbDF3HFwgozM5ksw) | 3:29 |
+| 21 | [Lo Tengo Todo](https://open.spotify.com/track/3FYNVSbhDZEHjtVMsybgAW) | [Dariel Noel](https://open.spotify.com/artist/5RF3Mpcs2RXyheE0hzngPk), [Hennessy](https://open.spotify.com/artist/1LoeAMwjd44lrd6zU5Lh6U), [AREVIR](https://open.spotify.com/artist/35fCQ3fpDZ0ITZ4Uv2s1bb) | [Lo Tengo Todo](https://open.spotify.com/album/60fdOigbDF3HFwgozM5ksw) | 3:29 |
 | 22 | [Abracadabra](https://open.spotify.com/track/0aP4dyDE4k1LUg7TAgYYRx) | [BARBEL](https://open.spotify.com/artist/6oYwraA8pyfDH4Otny6ooZ), [Bombermusik](https://open.spotify.com/artist/2G0BZ5R609vNHGsHIaKNMJ) | [Tu Puto Rock Star](https://open.spotify.com/album/2AsfhvrXVEVrJllqaIZHCd) | 3:30 |
 | 23 | [Tu Buay](https://open.spotify.com/track/3Nqc7BFu9MmNmFRpDTC6vJ) | [Valentino GRM](https://open.spotify.com/artist/71DQO8pgnTwS3lNCq0cDcr), [SMILE BEATS](https://open.spotify.com/artist/5A0VwTrVvV03LMeBZYT99d) | [Tu Buay](https://open.spotify.com/album/5CNq7AqFZBnlj9lXI5275g) | 2:18 |
 | 24 | [OTRA VEZ](https://open.spotify.com/track/2RPqEf96kt2YdW2HNsP9Pc) | [Dacid](https://open.spotify.com/artist/7djO1fr9V73noGwXaFjA7r), [TYE](https://open.spotify.com/artist/3BWnKZnfPaAbn9oFQtYVd3), [Gummy Records](https://open.spotify.com/artist/7ayLFimVU1UaoKOYmrzMoV) | [OTRA VEZ](https://open.spotify.com/album/2kxZtqYr6nNNdcbSSU3hvs) | 2:49 |

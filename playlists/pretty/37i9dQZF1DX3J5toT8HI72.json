@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 pros apaixonados",
-  "num_followers": 784143,
+  "num_followers": 784251,
   "original_name": "Amor I Love You",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
+        "name": "A Rush of Blood to the Head",
+        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 309600,
+      "name": "The Scientist",
+      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 194240,
       "name": "Outra Vida",
       "url": "https://open.spotify.com/track/1tqNjCuAIoG1kyBfs8DfZE"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
-        "name": "A Rush of Blood to the Head",
-        "url": "https://open.spotify.com/album/0RHX9XECH8IVI3LNgWDpmQ"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 309600,
-      "name": "The Scientist",
-      "url": "https://open.spotify.com/track/75JFxkI2RXiU7L9VXzMkle"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -323,22 +323,6 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Piloto",
-        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
-      },
-      "artists": [
-        {
-          "name": "Flora Matos",
-          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
-        }
-      ],
-      "duration_ms": 197538,
-      "name": "Piloto",
-      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
         "name": "Nossa Miss\u00e3o",
         "url": "https://open.spotify.com/album/4LmMyp43Je9hrs7WTFQkjE"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 254026,
       "name": "Quero Ser Feliz Tamb\u00e9m",
       "url": "https://open.spotify.com/track/09h91oP3t1c5fSEI5P6maS"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
+        "name": "Piloto",
+        "url": "https://open.spotify.com/album/0Yzslwaxztdnw9nQX0oDdU"
+      },
+      "artists": [
+        {
+          "name": "Flora Matos",
+          "url": "https://open.spotify.com/artist/5Znx4PG5UsUitigaJnmZX3"
+        }
+      ],
+      "duration_ms": 197538,
+      "name": "Piloto",
+      "url": "https://open.spotify.com/track/07DskqQ1NbTiotX1WIV7ob"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -391,22 +391,6 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Musica para Churrasco, Vol. 2",
-        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
-      },
-      "artists": [
-        {
-          "name": "Seu Jorge",
-          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
-        }
-      ],
-      "duration_ms": 267413,
-      "name": "Felicidade",
-      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
         "name": "V\u00e1rias Queixas",
         "url": "https://open.spotify.com/album/6l1z1eqs0jA0iYAhVboYgp"
       },
@@ -419,6 +403,22 @@
       "duration_ms": 156970,
       "name": "Vento Alecrim",
       "url": "https://open.spotify.com/track/0MuDhSPR7wZxIBHDk6NDoD"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
+        "name": "Musica para Churrasco, Vol. 2",
+        "url": "https://open.spotify.com/album/0uyJYHNFzapFWD6nZvFBZ3"
+      },
+      "artists": [
+        {
+          "name": "Seu Jorge",
+          "url": "https://open.spotify.com/artist/0i1s9WcIu0PrUvHzALgofo"
+        }
+      ],
+      "duration_ms": 267413,
+      "name": "Felicidade",
+      "url": "https://open.spotify.com/track/2bDc2CMq7MMAURwnMJverx"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Ivete Sangalo",
-        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
-      },
-      "artists": [
-        {
-          "name": "Ivete Sangalo",
-          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
-        }
-      ],
-      "duration_ms": 249440,
-      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
-      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
         "name": "Lucas",
         "url": "https://open.spotify.com/album/29hEHtysOL2jY7oHi0R4He"
       },
@@ -931,18 +915,18 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Sentido",
-        "url": "https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL"
+        "name": "Ivete Sangalo",
+        "url": "https://open.spotify.com/album/2c8gDfmmo6KnFSxWwL1COf"
       },
       "artists": [
         {
-          "name": "LUTHULY",
-          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+          "name": "Ivete Sangalo",
+          "url": "https://open.spotify.com/artist/7dzq55YG3wjViqexDwiycQ"
         }
       ],
-      "duration_ms": 182325,
-      "name": "Quero Acordar Com Voc\u00ea",
-      "url": "https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx"
+      "duration_ms": 249440,
+      "name": "Se Eu N\u00e3o Te Amasse Tanto Assim",
+      "url": "https://open.spotify.com/track/7LxiQ3v6iEaejUgnBBphNS"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -959,6 +943,22 @@
       "duration_ms": 195400,
       "name": "Beija Eu",
       "url": "https://open.spotify.com/track/4LBupHhBSFZCXhPteUWWY3"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
+        "name": "Sentido",
+        "url": "https://open.spotify.com/album/1OilXMI5H5bPEhLmjdqBbL"
+      },
+      "artists": [
+        {
+          "name": "LUTHULY",
+          "url": "https://open.spotify.com/artist/60FCr24uBUSiwk75v0vfVS"
+        }
+      ],
+      "duration_ms": 182325,
+      "name": "Quero Acordar Com Voc\u00ea",
+      "url": "https://open.spotify.com/track/1NXFJVudiX19mWQe84nvhx"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1051,6 +1051,22 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
+        "name": "J\u00fapiter",
+        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 156746,
+      "name": "Feliz e Ponto",
+      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
         "name": "Dia Branco",
         "url": "https://open.spotify.com/album/20IoTN6bXOSLg8rclKnkeb"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 221961,
       "name": "MINHA J\u00d3IA",
       "url": "https://open.spotify.com/track/0c9Pe9Ebm2ppIZmkhiiiAT"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
-        "name": "J\u00fapiter",
-        "url": "https://open.spotify.com/album/7BqdQdesXoceTMhwEfTOrj"
-      },
-      "artists": [
-        {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
-        }
-      ],
-      "duration_ms": 156746,
-      "name": "Feliz e Ponto",
-      "url": "https://open.spotify.com/track/5I7NiZhyh9mvtdv33eBg94"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1183,6 +1183,22 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
+        "name": "Ao Vivo Em Lisboa",
+        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+      },
+      "artists": [
+        {
+          "name": "Silva",
+          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+        }
+      ],
+      "duration_ms": 256155,
+      "name": "Bem Que Se Quis - Ao Vivo",
+      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
         "name": "Nenhuma Dor",
         "url": "https://open.spotify.com/album/3uv833F3xc92vzytEkbmN6"
       },
@@ -1203,18 +1219,22 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Ao Vivo Em Lisboa",
-        "url": "https://open.spotify.com/album/6FQczUJwjqNAjBVTnwsn0k"
+        "name": "Cortejo",
+        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
       },
       "artists": [
         {
-          "name": "Silva",
-          "url": "https://open.spotify.com/artist/50sftj2oW2iBviA6RkTzsz"
+          "name": "Filipe Toca",
+          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
+        },
+        {
+          "name": "Clara Valverde",
+          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
         }
       ],
-      "duration_ms": 256155,
-      "name": "Bem Que Se Quis - Ao Vivo",
-      "url": "https://open.spotify.com/track/1nGI6ent4Eb8jmE4cnq3Gy"
+      "duration_ms": 169250,
+      "name": "Cortejo",
+      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1235,26 +1255,6 @@
       "duration_ms": 159280,
       "name": "Massagem nas Costas",
       "url": "https://open.spotify.com/track/230Z8Ryx3tj4LfmtVGvMrJ"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
-        "name": "Cortejo",
-        "url": "https://open.spotify.com/album/61yXu0dB7zgnJE613AJQCF"
-      },
-      "artists": [
-        {
-          "name": "Filipe Toca",
-          "url": "https://open.spotify.com/artist/0jODqzGbGbc5yl0nfnGhVZ"
-        },
-        {
-          "name": "Clara Valverde",
-          "url": "https://open.spotify.com/artist/0Oyxj6T9BLAkfJmxEMbuFn"
-        }
-      ],
-      "duration_ms": 169250,
-      "name": "Cortejo",
-      "url": "https://open.spotify.com/track/4DDcCzpOGXzS3MKV4piwdu"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1455,22 +1455,6 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Elias",
-          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
-        }
-      ],
-      "duration_ms": 182768,
-      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
-      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
         "name": "Fica",
         "url": "https://open.spotify.com/album/4P09BJFkwTM9QW89RvyQy5"
       },
@@ -1507,6 +1491,22 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
+        "name": "Anel de Coco Ac\u00fastico (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1F3sVbUnq8vA3IR4154jI8"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Elias",
+          "url": "https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK"
+        }
+      ],
+      "duration_ms": 182768,
+      "name": "Anel de Coco - Ac\u00fastico | Ao Vivo",
+      "url": "https://open.spotify.com/track/7LuLv35fgBvI0FkzxT9r3l"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
         "name": "Melim",
         "url": "https://open.spotify.com/album/28N2a65qVEXfo3vl2McvY1"
       },
@@ -1519,22 +1519,6 @@
       "duration_ms": 231616,
       "name": "Meu Abrigo",
       "url": "https://open.spotify.com/track/5oFywvlhKbgRT9WSE4VZkY"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
-        "name": "Medo Bobo",
-        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
-      },
-      "artists": [
-        {
-          "name": "Rubel",
-          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
-        }
-      ],
-      "duration_ms": 198058,
-      "name": "Medo Bobo",
-      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1587,6 +1571,38 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
+        "name": "Moreno Veloso Solo in Tokyo",
+        "url": "https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB"
+      },
+      "artists": [
+        {
+          "name": "Moreno Veloso",
+          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+        }
+      ],
+      "duration_ms": 309520,
+      "name": "Deusa do Amor",
+      "url": "https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
+        "name": "Medo Bobo",
+        "url": "https://open.spotify.com/album/0vkxfAIsBXsbWO9DNVlUaV"
+      },
+      "artists": [
+        {
+          "name": "Rubel",
+          "url": "https://open.spotify.com/artist/0slVGXBggrLglTLNKbeEyW"
+        }
+      ],
+      "duration_ms": 198058,
+      "name": "Medo Bobo",
+      "url": "https://open.spotify.com/track/17dS7mrtNwH05RFjgMjLFi"
+    },
+    {
+      "added_at": "2025-01-14 22:05:41",
+      "album": {
         "name": "ANAVIT\u00d3RIA",
         "url": "https://open.spotify.com/album/1ENOliEGEgAf5DIupazP9t"
       },
@@ -1603,18 +1619,18 @@
     {
       "added_at": "2025-01-14 22:05:41",
       "album": {
-        "name": "Moreno Veloso Solo in Tokyo",
-        "url": "https://open.spotify.com/album/2Zpva2hppOpDesovKng8kB"
+        "name": "Portas",
+        "url": "https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y"
       },
       "artists": [
         {
-          "name": "Moreno Veloso",
-          "url": "https://open.spotify.com/artist/57IX1XTNL4DPilyY5pQsaK"
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
         }
       ],
-      "duration_ms": 309520,
-      "name": "Deusa do Amor",
-      "url": "https://open.spotify.com/track/4GpXowC0cHpjoxP5ZYZywn"
+      "duration_ms": 132306,
+      "name": "Totalmente Seu",
+      "url": "https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ"
     },
     {
       "added_at": "2025-01-14 22:05:41",
@@ -1647,22 +1663,6 @@
       "duration_ms": 299333,
       "name": "Voce E Linda",
       "url": "https://open.spotify.com/track/23ztZ0wgb5cNLZsziJWoRB"
-    },
-    {
-      "added_at": "2025-01-14 22:05:41",
-      "album": {
-        "name": "Portas",
-        "url": "https://open.spotify.com/album/3SnD7NKo8aqZAvjGdJFS5Y"
-      },
-      "artists": [
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 132306,
-      "name": "Totalmente Seu",
-      "url": "https://open.spotify.com/track/66qJ1M2YHxh6mr7jn8RoFJ"
     },
     {
       "added_at": "2025-01-14 22:05:41",

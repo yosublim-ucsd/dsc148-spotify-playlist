@@ -4,7 +4,7 @@
 
 > New indie from black artists driving the current\. Cover: SPELLLING
 
-487 songs - 1 day 1 hr 42 min
+488 songs - 1 day 1 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [Infrunami](https://open.spotify.com/track/0f8eRy9A0n6zXpKSHSCAEp) | [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [The Lo\-Fis](https://open.spotify.com/album/6m5qlaMzLtNsQDj3DQY5ji) | 2:58 | 2022-02-18 | 2022-06-19 |
 | [Ingo Swann](https://open.spotify.com/track/0MorRE2kwzea56XwkFMUYE) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [Ingo Swann](https://open.spotify.com/album/1u1jySXUZv9b9vvHMwjf4r) | 3:37 | 2024-10-25 | 2024-10-31 |
 | [Insecurities \(feat\. Moses Sumney\)](https://open.spotify.com/track/3IiaROiVHOVkwfX1DCHM31) | [Shabaka](https://open.spotify.com/artist/6ywMpa6AmGJpV5Sbyy58Js), [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Perceive Its Beauty, Acknowledge Its Grace](https://open.spotify.com/album/6vIwPo3D1kZ3ZmlR1fyjm7) | 4:39 | 2024-05-04 | 2024-06-10 |
-| [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 | 2024-09-14 |  |
+| [INSTANT DEATH](https://open.spotify.com/track/4CabzuTCgzHt57Fc6HqqPy) | [evilgiane](https://open.spotify.com/artist/4bbAeMRdMbfCLVSlpryAVV), [Nourished by Time](https://open.spotify.com/artist/7zNkqI6qRr0OJ4XO1Pw29g), [Goner](https://open.spotify.com/artist/7dNAnTCNymUovGgVoNhX3c) | [INSTANT DEATH](https://open.spotify.com/album/2RC4sBo7R0awCOBYT3aP6u) | 2:35 | 2024-09-14 | 2025-01-20 |
 | [Invisible Fence](https://open.spotify.com/track/5ziFqEEcLfe7G6MdrnCLy8) | [binki](https://open.spotify.com/artist/2jbd7OqeJJd1hz81vOXwwW) | [MOTOR FUNCTION](https://open.spotify.com/album/0ZjQWZDaXkxLgncA7RSbsS) | 2:35 | 2022-02-18 | 2023-03-04 |
 | [Is It Magic?](https://open.spotify.com/track/4mRX0FjuzicwZWbkRAE0Ht) | [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq) | [Is It Magic?](https://open.spotify.com/album/52tH77HLGn8Dq3zjXQn20e) | 3:08 | 2023-04-21 | 2024-12-08 |
 | [Is There Someone Else?](https://open.spotify.com/track/0mL82sxCRjrs3br407IdJh) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ) | [Dawn FM](https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC) | 3:19 | 2022-02-18 | 2022-06-19 |
@@ -469,6 +469,7 @@
 | [Violence](https://open.spotify.com/track/5NPXREEwnaFzuGzEPdvaca) | [Forest Claudette](https://open.spotify.com/artist/4d26k6BPR9MhZyTj3g5yEM) | [Everything Was Green](https://open.spotify.com/album/2e44vmxqO2T41YHmKVbsv3) | 4:15 | 2023-06-16 | 2023-08-22 |
 | [Waiting In Vain \- Bob Marley: One Love \- Music Inspired By The Film](https://open.spotify.com/track/66TTutUCqCpAzGCBcsBuYy) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [Waiting In Vain \(Bob Marley: One Love \- Music Inspired By The Film\)](https://open.spotify.com/album/6ZKGdyXuM5z1nYuCx6YjWP) | 5:01 | 2024-02-05 | 2025-01-17 |
 | [wanted](https://open.spotify.com/track/6lQyCgVnSxnOssgLIOZItN) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF), [Kamasi Washington](https://open.spotify.com/artist/6HQYnRM4OzToCYPpVBInuU) | [ceremonial contrafact \(empathogen deluxe\)](https://open.spotify.com/album/7Hz9uSylbLpx6okTdiyIwE) | 2:39 | 2024-10-25 |  |
+| [Wants Needs](https://open.spotify.com/track/6OqZgmzppG0NVx3nPwpH6W) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wants Needs](https://open.spotify.com/album/6r3i5ywHkqFmc2iiBFXdhc) | 4:58 | 2025-01-17 |  |
 | [war](https://open.spotify.com/track/48oFsXk4HYLQWd8ELs82pj) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [war](https://open.spotify.com/album/6uZa4NhqqeV3gzH7XpP1q6) | 2:09 | 2024-09-14 |  |
 | [Warning Sign](https://open.spotify.com/track/3HpfHYxvRacvmEPFR9ovF7) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Aperture](https://open.spotify.com/album/3TqG6PvryjXqG4OplypY9A) | 3:26 | 2023-03-29 | 2023-06-08 |
 | [Warning Sign](https://open.spotify.com/track/4E76b5eScYyjahibva76Bk) | [Hannah Jadagu](https://open.spotify.com/artist/523ty8zP7K5cPIdenUm4bj) | [Warning Sign](https://open.spotify.com/album/3vJUWpd8WbFx2nCu7EfKmV) | 3:26 | 2023-03-29 | 2023-05-24 |

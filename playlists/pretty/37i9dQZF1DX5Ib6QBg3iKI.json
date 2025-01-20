@@ -1,6 +1,6 @@
 {
   "description": "Get cozy and relax to these laid-back festive sounds.",
-  "num_followers": 144909,
+  "num_followers": 144885,
   "original_name": "Easy Christmas",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,22 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
+        "name": "Kylie Christmas",
+        "url": "https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        }
+      ],
+      "duration_ms": 201653,
+      "name": "Santa Baby",
+      "url": "https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
         "name": "Christmas (Deluxe Special Edition)",
         "url": "https://open.spotify.com/album/53fJVD9LpBKEMqdAF7PW5K"
       },
@@ -271,22 +287,6 @@
       "duration_ms": 218465,
       "name": "White Christmas (with Shania Twain)",
       "url": "https://open.spotify.com/track/114461rbzcgTriw8n4FOPW"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
-        "name": "Kylie Christmas",
-        "url": "https://open.spotify.com/album/0XRlr1kD7uPfLb0RxQKt6W"
-      },
-      "artists": [
-        {
-          "name": "Kylie Minogue",
-          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
-        }
-      ],
-      "duration_ms": 201653,
-      "name": "Santa Baby",
-      "url": "https://open.spotify.com/track/2SBr3MK1sdMs8IxdRcN6qz"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -571,22 +571,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "The Pianoman at Christmas",
-        "url": "https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g"
-      },
-      "artists": [
-        {
-          "name": "Jamie Cullum",
-          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Christmas Never Gets Old",
-      "url": "https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 117000,
       "name": "Once In A Lifetime",
       "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "The Pianoman at Christmas",
+        "url": "https://open.spotify.com/album/0yZjbdYWNna4I7CIkHVW7g"
+      },
+      "artists": [
+        {
+          "name": "Jamie Cullum",
+          "url": "https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Christmas Never Gets Old",
+      "url": "https://open.spotify.com/track/7vMmyPkT19fcVqcP5CWlg6"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Christmas Bells",
-        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
-      },
-      "artists": [
-        {
-          "name": "James Arthur",
-          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
-        }
-      ],
-      "duration_ms": 246745,
-      "name": "Christmas Bells",
-      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "All You're Dreaming Of",
         "url": "https://open.spotify.com/album/7J50mCUWpCQdoMQ6RAUKaG"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 241821,
       "name": "All You're Dreaming Of",
       "url": "https://open.spotify.com/track/17Xof0GRZZfS7ZgjUJ27pH"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Christmas Bells",
+        "url": "https://open.spotify.com/album/1dXRKuoD1gJpa4ZQp0zN46"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "duration_ms": 246745,
+      "name": "Christmas Bells",
+      "url": "https://open.spotify.com/track/5XpNyWYhthe92tlmkOXqwI"
     },
     {
       "added_at": "2024-12-13 09:34:44",
@@ -1243,22 +1243,6 @@
     {
       "added_at": "2024-12-13 09:34:44",
       "album": {
-        "name": "Together at Christmas",
-        "url": "https://open.spotify.com/album/0ZfBk0onUOJHhplkIxoM98"
-      },
-      "artists": [
-        {
-          "name": "Irish Women In Harmony",
-          "url": "https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D"
-        }
-      ],
-      "duration_ms": 217466,
-      "name": "Together at Christmas",
-      "url": "https://open.spotify.com/track/6D4jcmHdZImJpF7dSQsOKq"
-    },
-    {
-      "added_at": "2024-12-13 09:34:44",
-      "album": {
         "name": "My Favorite Things",
         "url": "https://open.spotify.com/album/4HM8jivtEeHxo9AfP0h2Vt"
       },
@@ -1271,6 +1255,22 @@
       "duration_ms": 191378,
       "name": "My Favorite Things",
       "url": "https://open.spotify.com/track/0qRSeJNPVhhMDZ5N6gPoW6"
+    },
+    {
+      "added_at": "2024-12-13 09:34:44",
+      "album": {
+        "name": "Together at Christmas",
+        "url": "https://open.spotify.com/album/0ZfBk0onUOJHhplkIxoM98"
+      },
+      "artists": [
+        {
+          "name": "Irish Women In Harmony",
+          "url": "https://open.spotify.com/artist/3OVmFlXlOUDDxOxnV59M9D"
+        }
+      ],
+      "duration_ms": 217466,
+      "name": "Together at Christmas",
+      "url": "https://open.spotify.com/track/6D4jcmHdZImJpF7dSQsOKq"
     },
     {
       "added_at": "2024-12-13 09:34:44",

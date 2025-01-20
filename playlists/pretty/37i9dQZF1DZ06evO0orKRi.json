@@ -1,12 +1,12 @@
 {
   "description": "This is Slim Dusty. The essential tracks, all in one playlist.",
-  "num_followers": 23875,
+  "num_followers": 23881,
   "original_name": "This Is Slim Dusty",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAACyxP/MVKJtI3pxQ+Vn+hCa",
+  "snapshot_id": "Z4rvAAAAAAB6nO41p5J7yhKYpBTrFLnK",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 174773,
-      "name": "Old Time Country Halls",
-      "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Natural High",
         "url": "https://open.spotify.com/album/1F4XU3rfCw5mozAU7JZAlf"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 219493,
       "name": "Under The Spell Of Highway One",
       "url": "https://open.spotify.com/track/1mYEgQl8LaIaQQRVp339sL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 174773,
+      "name": "Old Time Country Halls",
+      "url": "https://open.spotify.com/track/6ZxMX4kyWDX7TqrlbyNi1L"
     },
     {
       "added_at": null,
@@ -335,22 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Slim Dusty Heritage Album",
-        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 271133,
-      "name": "We've Done Us Proud",
-      "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sittin' On 80 (Remastered)",
         "url": "https://open.spotify.com/album/444une4Wfn6IvXEOrpqi6T"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 174333,
       "name": "Give Me Room",
       "url": "https://open.spotify.com/track/2yiMsEVRfPfs9olrhFmi0E"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Slim Dusty Heritage Album",
+        "url": "https://open.spotify.com/album/00I7NIZRiiCpzH5BWn3PSC"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 271133,
+      "name": "We've Done Us Proud",
+      "url": "https://open.spotify.com/track/3Ul3CKnqUSGcoGSQU8v3lz"
     },
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Old Time Drover's Lament",
-        "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
-      },
-      "artists": [
-        {
-          "name": "Slim Dusty",
-          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
-        }
-      ],
-      "duration_ms": 209560,
-      "name": "Trumby - 1994 Remaster",
-      "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singer From Down Under",
         "url": "https://open.spotify.com/album/4UdTfWAwOn6cKwY8xtLJuB"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 195400,
       "name": "Traveller's Prayer - 1996 Remaster",
       "url": "https://open.spotify.com/track/44g3o4cQv7wMSpogAUArWg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Old Time Drover's Lament",
+        "url": "https://open.spotify.com/album/45DB0DhkzwyoMs2ff9P480"
+      },
+      "artists": [
+        {
+          "name": "Slim Dusty",
+          "url": "https://open.spotify.com/artist/0M4w6wFmaVFmP4lIndnEU5"
+        }
+      ],
+      "duration_ms": 209560,
+      "name": "Trumby - 1994 Remaster",
+      "url": "https://open.spotify.com/track/1KOaUT8dWrBaD9XxXGbLNl"
     },
     {
       "added_at": null,

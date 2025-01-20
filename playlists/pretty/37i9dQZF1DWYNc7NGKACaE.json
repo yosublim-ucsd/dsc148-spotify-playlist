@@ -1,6 +1,6 @@
 {
   "description": "essa \u00e9 s\u00f3 pra quem vive no 2.0x\n",
-  "num_followers": 84000,
+  "num_followers": 84008,
   "original_name": "speed BR",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 176538,
+      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
+      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Kill Bill - Speed",
         "url": "https://open.spotify.com/album/65EoSVA4XRpos1EZEgu2KB"
       },
@@ -579,42 +595,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Joga na Cara (Vers\u00e3o Speed)",
-        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
-      },
-      "artists": [
-        {
-          "name": "MC Braz",
-          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
-        },
-        {
-          "name": "MC Gabluca",
-          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
-        }
-      ],
-      "duration_ms": 97714,
-      "name": "Joga na Cara (Vers\u00e3o Speed)",
-      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-        "url": "https://open.spotify.com/album/3NMKPK8rfEoipLRik4fqwi"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 176538,
-      "name": "F* F* M* - No Beat S\u00c9RIE GOLD",
-      "url": "https://open.spotify.com/track/0s8402HaaJsq8IyzDFS7Cm"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "Virgulado",
         "url": "https://open.spotify.com/album/6N1NIsdnVMvU9SGAFcOgSk"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 127011,
       "name": "Virgulado - Speed",
       "url": "https://open.spotify.com/track/2W9O45APFy8vqX5g2Rtfns"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Joga na Cara (Vers\u00e3o Speed)",
+        "url": "https://open.spotify.com/album/2Lh5XIcVNQdd8Dq2lglDGo"
+      },
+      "artists": [
+        {
+          "name": "MC Braz",
+          "url": "https://open.spotify.com/artist/7htxZTR76qcXYJylEmkLiJ"
+        },
+        {
+          "name": "MC Gabluca",
+          "url": "https://open.spotify.com/artist/3t79G9FgRevO8CGsP9B6I8"
+        }
+      ],
+      "duration_ms": 97714,
+      "name": "Joga na Cara (Vers\u00e3o Speed)",
+      "url": "https://open.spotify.com/track/1pVFSyBX7zVzZtcI5a9y5z"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
+        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
+      },
+      "artists": [
+        {
+          "name": "Dj LD da Favelinha",
+          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
+        }
+      ],
+      "duration_ms": 160421,
+      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
+      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
         "name": "Luxo & Crime Speed",
         "url": "https://open.spotify.com/album/5gE4qRAOr2KTTqKI3OBOGc"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 140628,
       "name": "Luxo & Crime Speed",
       "url": "https://open.spotify.com/track/5ePLQDDDMDk2iJgJuciFq6"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
-        "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-        "url": "https://open.spotify.com/album/1IFTS6yS1n9VIZDcv3GmQh"
-      },
-      "artists": [
-        {
-          "name": "Dj LD da Favelinha",
-          "url": "https://open.spotify.com/artist/2fwT8MEPRpyAnwFw7DSyb7"
-        }
-      ],
-      "duration_ms": 160421,
-      "name": "MT - TETO, Deus Vai Guiar, ENT\u00c3O APONTA O FUZIL",
-      "url": "https://open.spotify.com/track/6Jw5n5JmPrUzpe33beJOM8"
     },
     {
       "added_at": "2024-07-08 19:10:57",
@@ -895,22 +895,6 @@
     {
       "added_at": "2024-07-08 19:10:57",
       "album": {
-        "name": "Florxs Speed Up",
-        "url": "https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW"
-      },
-      "artists": [
-        {
-          "name": "Thxuzz",
-          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
-        }
-      ],
-      "duration_ms": 176040,
-      "name": "Florxs Speed Up",
-      "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
-    },
-    {
-      "added_at": "2024-07-08 19:10:57",
-      "album": {
         "name": "SPEED Versions",
         "url": "https://open.spotify.com/album/5hqTK4W81BhI8srFdaCIyw"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 106392,
       "name": "Plug do S\u00e3o Jo\u00e3o SPEED",
       "url": "https://open.spotify.com/track/5aIwsGfLgCrafntNMP8S2l"
+    },
+    {
+      "added_at": "2024-07-08 19:10:57",
+      "album": {
+        "name": "Florxs Speed Up",
+        "url": "https://open.spotify.com/album/5ZqrLDiksNLzdO5EVQ3lNW"
+      },
+      "artists": [
+        {
+          "name": "Thxuzz",
+          "url": "https://open.spotify.com/artist/6TsiOiUUPJYw90hx3aAb0q"
+        }
+      ],
+      "duration_ms": 176040,
+      "name": "Florxs Speed Up",
+      "url": "https://open.spotify.com/track/2rIcX0NTuATrrIFUcC5pdz"
     },
     {
       "added_at": "2024-07-08 19:10:57",

@@ -572,7 +572,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -590,7 +590,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-16",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -2349,6 +2349,24 @@
     },
     {
       "album": {
+        "name": "FACE",
+        "url": "https://open.spotify.com/album/4xc3Lc9yASZgEJGH7acWMB"
+      },
+      "artists": [
+        {
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212253,
+      "name": "Like Crazy (English Version)",
+      "url": "https://open.spotify.com/track/0u8rZGtXJrLtiSe34FPjGG"
+    },
+    {
+      "album": {
         "name": "Heavy Metal 2",
         "url": "https://open.spotify.com/album/2apmGMKFppnLu7eccTQwM2"
       },
@@ -4034,7 +4052,7 @@
       ],
       "date_added": "2024-07-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-12",
+      "date_removed": null,
       "duration_ms": 84149,
       "name": "Suka",
       "url": "https://open.spotify.com/track/6ndFi9TM9YWGLktQgS7Q9M"
@@ -4606,7 +4624,7 @@
       ],
       "date_added": "2024-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 184075,
       "name": "Who (Acoustic Remix)",
       "url": "https://open.spotify.com/track/10I5rhhFoWZDIN3kEc6Dbo"
@@ -4904,7 +4922,7 @@
       ],
       "date_added": "2024-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 170880,
       "name": "\u0410\u0441\u0444\u0430\u043b\u044c\u0442",
       "url": "https://open.spotify.com/track/4iHBUChicNYaHrO7vHkYtF"
@@ -7205,6 +7223,24 @@
     },
     {
       "album": {
+        "name": "Who Realer?",
+        "url": "https://open.spotify.com/album/0VLsVpTypDYuDYwclZOlGU"
+      },
+      "artists": [
+        {
+          "name": "Baby Melo",
+          "url": "https://open.spotify.com/artist/72c2wcAnsUn4VlXiN1uDOs"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142699,
+      "name": "\u041e\u0420\u0412\u0418",
+      "url": "https://open.spotify.com/track/0EW0LEbWmVilsOhKBx8ZDo"
+    },
+    {
+      "album": {
         "name": "\u041c\u043e\u043b\u0438\u0442\u0432\u044b. \u0410\u043d\u0435\u043a\u0434\u043e\u0442\u044b. \u0422\u043e\u0441\u0442\u044b.",
         "url": "https://open.spotify.com/album/1eE8tgJvckpa4qYLp2L9ox"
       },
@@ -7358,7 +7394,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 145909,
       "name": "\u041f\u043b\u0430\u043d\u044b \u043d\u0430 \u0437\u0430\u0432\u0442\u0440\u0430",
       "url": "https://open.spotify.com/track/0O4kb1JsWID2qx6r2iiBfP"

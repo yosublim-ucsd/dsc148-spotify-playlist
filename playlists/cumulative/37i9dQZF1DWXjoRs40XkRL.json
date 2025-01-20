@@ -1376,7 +1376,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 617851,
       "name": "Darbari Kanara Teen Taal",
       "url": "https://open.spotify.com/track/6SdKS6uQA7Cvecsibddb2f"
@@ -4504,6 +4504,36 @@
       "duration_ms": 256946,
       "name": "Naked",
       "url": "https://open.spotify.com/track/7KoXzM3IboDJxRl7DXIT7y"
+    },
+    {
+      "album": {
+        "name": "Naseeba",
+        "url": "https://open.spotify.com/album/1WythwesX07YVuysbvHF9l"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Kavya Singh",
+          "url": "https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm"
+        },
+        {
+          "name": "Saptak Chatterjee",
+          "url": "https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc"
+        },
+        {
+          "name": "Amar Syali",
+          "url": "https://open.spotify.com/artist/1eSsfRSewoUsIVKGRQf6NA"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 433053,
+      "name": "Naseeba",
+      "url": "https://open.spotify.com/track/6jXyBwoXbm7SAbr4xRR7av"
     },
     {
       "album": {

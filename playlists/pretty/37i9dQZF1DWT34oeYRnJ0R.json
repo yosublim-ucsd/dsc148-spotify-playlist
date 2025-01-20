@@ -1,6 +1,6 @@
 {
   "description": "Just vibes. Cover: Paloma Mami",
-  "num_followers": 669112,
+  "num_followers": 669229,
   "original_name": "Vibras",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
         "name": "Yo s\u00e9",
         "url": "https://open.spotify.com/album/4NHI7kUT9UsxlgKgDnaJdv"
       },
@@ -291,6 +275,38 @@
       "duration_ms": 145342,
       "name": "REAL GANGSTA LOVE",
       "url": "https://open.spotify.com/track/1pymWRCuZfCd0zdiBJo0Hj"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "EL CL\u00faB",
+        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 222568,
+      "name": "EL CL\u00faB",
+      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -375,38 +391,18 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "ORQU\u00cdDEAS",
-        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
+        "name": "Vacile",
+        "url": "https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G"
       },
       "artists": [
         {
-          "name": "Kali Uchis",
-          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
-        },
-        {
-          "name": "Peso Pluma",
-          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
+          "name": "Yan Block",
+          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
         }
       ],
-      "duration_ms": 260370,
-      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
-      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
-        "name": "EL CL\u00faB",
-        "url": "https://open.spotify.com/album/7AZHhkARutSGqJjRwuLijF"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 222568,
-      "name": "EL CL\u00faB",
-      "url": "https://open.spotify.com/track/3zOgFY5kpQ6p2cwPIquZks"
+      "duration_ms": 140239,
+      "name": "Vacile",
+      "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -427,18 +423,22 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "Vacile",
-        "url": "https://open.spotify.com/album/1h5pFnX1pTSIhDnouQsn4G"
+        "name": "ORQU\u00cdDEAS",
+        "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
       "artists": [
         {
-          "name": "Yan Block",
-          "url": "https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec"
+          "name": "Kali Uchis",
+          "url": "https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM"
+        },
+        {
+          "name": "Peso Pluma",
+          "url": "https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ"
         }
       ],
-      "duration_ms": 140239,
-      "name": "Vacile",
-      "url": "https://open.spotify.com/track/0w0e3Te2Rd4t8gGKi3sU6a"
+      "duration_ms": 260370,
+      "name": "Igual Que Un \u00c1ngel (with Peso Pluma)",
+      "url": "https://open.spotify.com/track/6XaJfhwof7qIgbbXO5tIQI"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -507,26 +507,6 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "No Me Cansare",
-        "url": "https://open.spotify.com/album/0nhT5tj6EMv1TxyqaNynJx"
-      },
-      "artists": [
-        {
-          "name": "Sevdaliza",
-          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
-        },
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 162857,
-      "name": "No Me Cansare",
-      "url": "https://open.spotify.com/track/7syffZQA1dpkQelMckldEw"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
         "name": "POLOS OPUESTOS REMIX (BLESSD VERSION)",
         "url": "https://open.spotify.com/album/2o89OBJVbw4BdBeyVOGanN"
       },
@@ -543,6 +523,26 @@
       "duration_ms": 216000,
       "name": "POLOS OPUESTOS REMIX - BLESSD VERSION",
       "url": "https://open.spotify.com/track/2ALQyXMC26Vew7JX7ert9M"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "No Me Cansare",
+        "url": "https://open.spotify.com/album/0nhT5tj6EMv1TxyqaNynJx"
+      },
+      "artists": [
+        {
+          "name": "Sevdaliza",
+          "url": "https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie"
+        },
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 162857,
+      "name": "No Me Cansare",
+      "url": "https://open.spotify.com/track/7syffZQA1dpkQelMckldEw"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -639,22 +639,6 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "BUENAS NOCHES",
-        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
-      },
-      "artists": [
-        {
-          "name": "Quevedo",
-          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
-        }
-      ],
-      "duration_ms": 183316,
-      "name": "IGUALES",
-      "url": "https://open.spotify.com/track/1gKnoWS17Nf8ZxEev7d3vd"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
         "name": "AGORA",
         "url": "https://open.spotify.com/album/07QCnsWWoXTgLuU43VfB2u"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 153564,
       "name": "AGORA",
       "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "BUENAS NOCHES",
+        "url": "https://open.spotify.com/album/3V2ApPxUSquOkjLQU3wmjh"
+      },
+      "artists": [
+        {
+          "name": "Quevedo",
+          "url": "https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K"
+        }
+      ],
+      "duration_ms": 183316,
+      "name": "IGUALES",
+      "url": "https://open.spotify.com/track/1gKnoWS17Nf8ZxEev7d3vd"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -847,42 +847,6 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "PRIMERA MUSA",
-        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
-      },
-      "artists": [
-        {
-          "name": "Omar Courtz",
-          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
-        },
-        {
-          "name": "Bryant Myers",
-          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
-        }
-      ],
-      "duration_ms": 245933,
-      "name": "2 K 1 6",
-      "url": "https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
-        "name": "D\u00e9jame Entrar",
-        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        }
-      ],
-      "duration_ms": 254705,
-      "name": "D\u00e9jame Entrar",
-      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
         "name": "Comerte a Besos (Remix)",
         "url": "https://open.spotify.com/album/46F1esWc3cNxz3aYveumej"
       },
@@ -907,6 +871,42 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
+        "name": "D\u00e9jame Entrar",
+        "url": "https://open.spotify.com/album/4pCMKyLuqd20WbpISwfmVe"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        }
+      ],
+      "duration_ms": 254705,
+      "name": "D\u00e9jame Entrar",
+      "url": "https://open.spotify.com/track/3TlghSCu53YEUigL9RuqnU"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "PRIMERA MUSA",
+        "url": "https://open.spotify.com/album/3C5uwdRE5QRoXSGPPxpDd4"
+      },
+      "artists": [
+        {
+          "name": "Omar Courtz",
+          "url": "https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        }
+      ],
+      "duration_ms": 245933,
+      "name": "2 K 1 6",
+      "url": "https://open.spotify.com/track/6hXcH4KnoRgkFQDhvxo872"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
         "name": "BUBALU",
         "url": "https://open.spotify.com/album/0RjxDLuy3YP0zLuo8VB0JX"
       },
@@ -923,6 +923,22 @@
       "duration_ms": 228253,
       "name": "BUBALU",
       "url": "https://open.spotify.com/track/36FTXlmbiV2diZdZukzLDm"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "Cobro",
+        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
+      },
+      "artists": [
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "duration_ms": 164880,
+      "name": "Cobro",
+      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -959,22 +975,6 @@
       "duration_ms": 309280,
       "name": "Passoa",
       "url": "https://open.spotify.com/track/1NKUaH2zobKBC8LIcUH0p0"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
-        "name": "Cobro",
-        "url": "https://open.spotify.com/album/6FrM17vI05dcLWD06iWwOq"
-      },
-      "artists": [
-        {
-          "name": "De La Rose",
-          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
-        }
-      ],
-      "duration_ms": 164880,
-      "name": "Cobro",
-      "url": "https://open.spotify.com/track/0VHx3o5nKWwXPy2hHjvzbA"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1039,26 +1039,6 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "DE MARAVISHA",
-        "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
-      },
-      "artists": [
-        {
-          "name": "Tokischa",
-          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 203801,
-      "name": "DE MARAVISHA",
-      "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
         "name": "FERXXO 151",
         "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
       },
@@ -1075,6 +1055,26 @@
       "duration_ms": 195653,
       "name": "FERXXO 151",
       "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "DE MARAVISHA",
+        "url": "https://open.spotify.com/album/54ZdnLGAx6ifXg4xI3qvwI"
+      },
+      "artists": [
+        {
+          "name": "Tokischa",
+          "url": "https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 203801,
+      "name": "DE MARAVISHA",
+      "url": "https://open.spotify.com/track/20Its0iJ6nvKoKw3cY4ydD"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "LOVELANGUAGE",
-        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
-      },
-      "artists": [
-        {
-          "name": "Nsqk",
-          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
-        }
-      ],
-      "duration_ms": 224761,
-      "name": "LOVELANGUAGE",
-      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
         "name": "a new star (1 9 9 3)",
         "url": "https://open.spotify.com/album/6MxVqDR6nACRxGSePfK9y4"
       },
@@ -1579,6 +1563,22 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
+        "name": "LOVELANGUAGE",
+        "url": "https://open.spotify.com/album/24EzuFTRRdDYt4ZX7djyio"
+      },
+      "artists": [
+        {
+          "name": "Nsqk",
+          "url": "https://open.spotify.com/artist/1jtvmXiemNFkPO11NMdjfu"
+        }
+      ],
+      "duration_ms": 224761,
+      "name": "LOVELANGUAGE",
+      "url": "https://open.spotify.com/track/5SuMst3sQt8wf94iGoXXLw"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
         "name": "SAYONARA: FINALES ALTERNOS",
         "url": "https://open.spotify.com/album/33vdYyXRkC7kkenWARFMHu"
       },
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
+        "name": "Lo Intent\u00e9",
+        "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
+      },
+      "artists": [
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "Alka Produce",
+          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
+        }
+      ],
+      "duration_ms": 199139,
+      "name": "Lo Intent\u00e9",
+      "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
         "name": "Slow (feat. Lyanno) [Remix]",
         "url": "https://open.spotify.com/album/1j2cJIhGQfZ7pjNlGNi2iX"
       },
@@ -1639,26 +1659,6 @@
       "duration_ms": 339547,
       "name": "Slow (feat. Lyanno) - Remix",
       "url": "https://open.spotify.com/track/4mN6iJIEEpPu2AcyHPfXbj"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
-        "name": "Lo Intent\u00e9",
-        "url": "https://open.spotify.com/album/2tGIwxt06WELGAEFAI8sKW"
-      },
-      "artists": [
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Alka Produce",
-          "url": "https://open.spotify.com/artist/7g38keVpPTJYsgkh7I4V3q"
-        }
-      ],
-      "duration_ms": 199139,
-      "name": "Lo Intent\u00e9",
-      "url": "https://open.spotify.com/track/5sQRpQSm2yo2pyE6rGsoIB"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1727,26 +1727,6 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "XQ ERES AS\u00cd",
-        "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        },
-        {
-          "name": "NATHY PELUSO",
-          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
-        }
-      ],
-      "duration_ms": 212720,
-      "name": "XQ ERES AS\u00cd",
-      "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
         "name": "SAKURA",
         "url": "https://open.spotify.com/album/5z4aZJ5U7LqwRc2tXk98cc"
       },
@@ -1803,6 +1783,26 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
+        "name": "XQ ERES AS\u00cd",
+        "url": "https://open.spotify.com/album/7tOsaoW2VE3h3FuQTFvQRM"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        },
+        {
+          "name": "NATHY PELUSO",
+          "url": "https://open.spotify.com/artist/3VHAySZQPlfGlNLslzXYpN"
+        }
+      ],
+      "duration_ms": 212720,
+      "name": "XQ ERES AS\u00cd",
+      "url": "https://open.spotify.com/track/5dCvjejRf5cP3VCN5sX1Ye"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
         "name": "HAYABUSA",
         "url": "https://open.spotify.com/album/6HBOihZeCYtLVM3MiCt7QL"
       },
@@ -1827,22 +1827,6 @@
     {
       "added_at": "2025-01-09 23:26:22",
       "album": {
-        "name": "SAYONARA",
-        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Diaz",
-          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
-        }
-      ],
-      "duration_ms": 183333,
-      "name": "QUI\u00c9N TE QUIERE COMO EL NENE",
-      "url": "https://open.spotify.com/track/0TaouwmpWakN1nTULu0aAK"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
         "name": "Mi Nena Remix",
         "url": "https://open.spotify.com/album/6N2xUWDyxIusQX9s71HWFW"
       },
@@ -1859,26 +1843,6 @@
       "duration_ms": 220000,
       "name": "Mi Nena Remix",
       "url": "https://open.spotify.com/track/7q1KFoWUNYudhKW8RYJFsZ"
-    },
-    {
-      "added_at": "2025-01-09 23:26:22",
-      "album": {
-        "name": "THE WORLD IS YOURS",
-        "url": "https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        }
-      ],
-      "duration_ms": 169666,
-      "name": "EROTICAAAAAAA",
-      "url": "https://open.spotify.com/track/6x38KcIs0tsw3ZzvBfLxOa"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1915,6 +1879,26 @@
       "duration_ms": 305265,
       "name": "Whisky",
       "url": "https://open.spotify.com/track/3FuDnj8GeuIDPyFsLOmyck"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "THE WORLD IS YOURS",
+        "url": "https://open.spotify.com/album/4K4avZBw8VwDiTaukQ0snS"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        }
+      ],
+      "duration_ms": 169666,
+      "name": "EROTICAAAAAAA",
+      "url": "https://open.spotify.com/track/6x38KcIs0tsw3ZzvBfLxOa"
     },
     {
       "added_at": "2025-01-09 23:26:22",
@@ -1971,6 +1955,22 @@
       "duration_ms": 276904,
       "name": "ME TENGO QUE IR",
       "url": "https://open.spotify.com/track/5AwdJhVYK64TDpfdRa1DyN"
+    },
+    {
+      "added_at": "2025-01-09 23:26:22",
+      "album": {
+        "name": "SAYONARA",
+        "url": "https://open.spotify.com/album/7kfPf285KnlWUTbqaB1jnI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Diaz",
+          "url": "https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr"
+        }
+      ],
+      "duration_ms": 183333,
+      "name": "QUI\u00c9N TE QUIERE COMO EL NENE",
+      "url": "https://open.spotify.com/track/0TaouwmpWakN1nTULu0aAK"
     }
   ],
   "unique_name": "Vibras",

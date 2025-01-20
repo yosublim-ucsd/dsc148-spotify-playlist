@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: ONEWE(\uc6d0\uc704))",
-  "num_followers": 151082,
+  "num_followers": 151004,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -247,6 +247,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "Christmas Promises",
+        "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
+      },
+      "artists": [
+        {
+          "name": "CHUNG HA",
+          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
+        }
+      ],
+      "duration_ms": 188053,
+      "name": "Sleigh",
+      "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "For You",
         "url": "https://open.spotify.com/album/6hiwkmlOoNm8F3UkAZJcEz"
       },
@@ -267,22 +283,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Christmas Promises",
-        "url": "https://open.spotify.com/album/17v4k2kHnaVSMDHD4Mnym1"
-      },
-      "artists": [
-        {
-          "name": "CHUNG HA",
-          "url": "https://open.spotify.com/artist/2PSJ6YriU7JsFucxACpU7Y"
-        }
-      ],
-      "duration_ms": 188053,
-      "name": "Sleigh",
-      "url": "https://open.spotify.com/track/2aQOWXdQRnmfcQaFcWyidG"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Home Alone",
         "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 190973,
       "name": "Winter Theater",
       "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "Butter (Holiday Remix)",
-        "url": "https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV"
-      },
-      "artists": [
-        {
-          "name": "BTS",
-          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
-        }
-      ],
-      "duration_ms": 161894,
-      "name": "Butter (Holiday Remix)",
-      "url": "https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -331,6 +315,22 @@
       "duration_ms": 236500,
       "name": "NOT SORRY (Feat. pH-1) (Prod. by Slom)",
       "url": "https://open.spotify.com/track/5UOY3OZib7H4KFwTfsT66g"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Butter (Holiday Remix)",
+        "url": "https://open.spotify.com/album/4cmHvSMDrSRe2sLodew8sV"
+      },
+      "artists": [
+        {
+          "name": "BTS",
+          "url": "https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX"
+        }
+      ],
+      "duration_ms": 161894,
+      "name": "Butter (Holiday Remix)",
+      "url": "https://open.spotify.com/track/3IA9LkBEVhJDOxOnh1nf8a"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -451,6 +451,30 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "SHOW ME THE MONEY 11 Final",
+        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Zion.T",
+          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
+        },
+        {
+          "name": "Wonstein",
+          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+        }
+      ],
+      "duration_ms": 236524,
+      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
+      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "Merry Go Round",
         "url": "https://open.spotify.com/album/02QQbP6IQkaGymlMKEulGz"
       },
@@ -483,26 +507,18 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "SHOW ME THE MONEY 11 Final",
-        "url": "https://open.spotify.com/album/19q6Bi6uVIVWUwWcsj1Ld0"
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
       },
       "artists": [
         {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Zion.T",
-          "url": "https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby"
-        },
-        {
-          "name": "Wonstein",
-          "url": "https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk"
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
         }
       ],
-      "duration_ms": 236524,
-      "name": "HUG (Feat. Zion.T, Wonstein) (Prod. by Slom)",
-      "url": "https://open.spotify.com/track/26rFtNk7TNkJuLGq021Pvc"
+      "duration_ms": 197160,
+      "name": "Wonderland (Carol ver.)",
+      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -543,54 +559,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 204554,
-      "name": "Candy Cane",
-      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 197160,
-      "name": "Wonderland (Carol ver.)",
-      "url": "https://open.spotify.com/track/6UukezNY3YRxAoNlOKwKkI"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "the collective soul and unconscious: snowy night",
-        "url": "https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1"
-      },
-      "artists": [
-        {
-          "name": "Billlie",
-          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
-        }
-      ],
-      "duration_ms": 213042,
-      "name": "snowy night",
-      "url": "https://open.spotify.com/track/7ajApbhtm75giJ9Sj6qRnO"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 3",
         "url": "https://open.spotify.com/album/5LsGOvNXMG46qugdghRGRF"
       },
@@ -615,6 +583,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "the collective soul and unconscious: snowy night",
+        "url": "https://open.spotify.com/album/1wFkvpm5VhzNDNo8xqdBV1"
+      },
+      "artists": [
+        {
+          "name": "Billlie",
+          "url": "https://open.spotify.com/artist/2GQxKDojobwBjZMPf7aoh0"
+        }
+      ],
+      "duration_ms": 213042,
+      "name": "snowy night",
+      "url": "https://open.spotify.com/track/7ajApbhtm75giJ9Sj6qRnO"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "Peppermint Tea",
         "url": "https://open.spotify.com/album/4KIcPdqYeP6PIvzGvJGcVZ"
       },
@@ -635,6 +619,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 204554,
+      "name": "Candy Cane",
+      "url": "https://open.spotify.com/track/1SO3jE0lOysjtylF6y3FWt"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "The Road : Celebration - The 11th Album Vol.2",
         "url": "https://open.spotify.com/album/1B3ZMbdmeSFWI2WmXTD0Ny"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 213280,
       "name": "Celebrate",
       "url": "https://open.spotify.com/track/1z3TKT67SglIzFmHM7xxyK"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 259339,
-      "name": "Christmas without You",
-      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -699,6 +683,38 @@
       "duration_ms": 208293,
       "name": "Grey Christmas",
       "url": "https://open.spotify.com/track/3m71HSKTOQCXNWKxuO5LPG"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "[My Christmas Sweet Love]",
+        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
+      },
+      "artists": [
+        {
+          "name": "Dreamcatcher",
+          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
+        }
+      ],
+      "duration_ms": 232746,
+      "name": "Jazz Bar (Carol ver.)",
+      "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 259339,
+      "name": "Christmas without You",
+      "url": "https://open.spotify.com/track/617cDTzVRFEwYPzi3FKaXT"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -771,22 +787,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "[My Christmas Sweet Love]",
-        "url": "https://open.spotify.com/album/2iNdbj46hw67s9CI503nPM"
-      },
-      "artists": [
-        {
-          "name": "Dreamcatcher",
-          "url": "https://open.spotify.com/artist/5V1qsQHdXNm4ZEZHWvFnqQ"
-        }
-      ],
-      "duration_ms": 232746,
-      "name": "Jazz Bar (Carol ver.)",
-      "url": "https://open.spotify.com/track/4I7hBCBjcnH5YCN6AtyFHP"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Lonely Christmas",
         "url": "https://open.spotify.com/album/6EdZ5jg5tJ0vV97VzXFG7a"
       },
@@ -823,22 +823,6 @@
       "duration_ms": 165493,
       "name": "Christmas Gift (feat. Ashley Alisha & Sonny Zero)",
       "url": "https://open.spotify.com/track/3c1Dp25RwHWmTuqx5jHMW4"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 167456,
-      "name": "The Magic of Christmas Time",
-      "url": "https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -927,6 +911,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 167456,
+      "name": "The Magic of Christmas Time",
+      "url": "https://open.spotify.com/track/35OjjtMHKnPdOAsEZ6M9OA"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "merry merry",
         "url": "https://open.spotify.com/album/0u4kQYJsfOrpnew817qr5q"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 165693,
       "name": "merry merry",
       "url": "https://open.spotify.com/track/2kGIo9vbpdBnRnOJlPAtNb"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
-        "name": "This Christmas \u2013 Winter is Coming",
-        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
-      },
-      "artists": [
-        {
-          "name": "TAEYEON",
-          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
-        }
-      ],
-      "duration_ms": 215101,
-      "name": "\uaca8\uc6b8\ub098\ubb34 I\u2019m all ears",
-      "url": "https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -995,22 +979,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Gift For You",
-        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
-      },
-      "artists": [
-        {
-          "name": "WEi",
-          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "Gift For You",
-      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "FIRST SNOW",
         "url": "https://open.spotify.com/album/7bCjHljEwZCOnIxd9ivIJK"
       },
@@ -1027,18 +995,18 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Letters to Santa",
-        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+        "name": "Gift For You",
+        "url": "https://open.spotify.com/album/3ufRFSgwF6xWlczCYmpTS6"
       },
       "artists": [
         {
-          "name": "DeVita",
-          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+          "name": "WEi",
+          "url": "https://open.spotify.com/artist/7IkfFdVcI6HrRKuOO9NvX5"
         }
       ],
-      "duration_ms": 159616,
-      "name": "I Still Believe in Santa",
-      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+      "duration_ms": 213986,
+      "name": "Gift For You",
+      "url": "https://open.spotify.com/track/7IEgrgGqJ7TxJN9v57acIC"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1059,6 +1027,22 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
+        "name": "Letters to Santa",
+        "url": "https://open.spotify.com/album/509eN4HXKIS6EfxUwBQ8S0"
+      },
+      "artists": [
+        {
+          "name": "DeVita",
+          "url": "https://open.spotify.com/artist/5PS3ZZE5bBiZ3Ct9HiRG2B"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "I Still Believe in Santa",
+      "url": "https://open.spotify.com/track/3QzRFgACehCoVpE4jRkQCE"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
         "name": "Winter Bloom",
         "url": "https://open.spotify.com/album/4fE3UDxP596kDYgqlUukiy"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 179684,
       "name": "Winter Bloom",
       "url": "https://open.spotify.com/track/7jfa0NpiHLaaKpec5cxO30"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "This Christmas \u2013 Winter is Coming",
+        "url": "https://open.spotify.com/album/1U3KyC9Key12NSi9ETVExx"
+      },
+      "artists": [
+        {
+          "name": "TAEYEON",
+          "url": "https://open.spotify.com/artist/3qNVuliS40BLgXGxhdBdqu"
+        }
+      ],
+      "duration_ms": 215101,
+      "name": "\uaca8\uc6b8\ub098\ubb34 I\u2019m all ears",
+      "url": "https://open.spotify.com/track/7KJUpJgGaQTdSq3L5StCfi"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "YAOKI Project part.1",
-        "url": "https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9"
-      },
-      "artists": [
-        {
-          "name": "Weeekly",
-          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
-        }
-      ],
-      "duration_ms": 243000,
-      "name": "Happy Christmas",
-      "url": "https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "gr8",
         "url": "https://open.spotify.com/album/4XrJYiy91zJZnYNMYPCUnU"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 240200,
       "name": "A miracle 3days ago",
       "url": "https://open.spotify.com/track/5qKVSthaAAitawItqZjJpI"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "YAOKI Project part.1",
+        "url": "https://open.spotify.com/album/5RKzrEffa0PoaM4VHUFSH9"
+      },
+      "artists": [
+        {
+          "name": "Weeekly",
+          "url": "https://open.spotify.com/artist/73B9bjqS2Z5KLXNGqXf64m"
+        }
+      ],
+      "duration_ms": 243000,
+      "name": "Happy Christmas",
+      "url": "https://open.spotify.com/track/576nYROzQH5gkjBSn0S15u"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "This Christmas - Single",
-        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
-      },
-      "artists": [
-        {
-          "name": "Jyp Nation",
-          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
-        }
-      ],
-      "duration_ms": 227825,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Love Again",
         "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 269012,
       "name": "Save Our Christmas",
       "url": "https://open.spotify.com/track/7aHBGcIkKffL8JGz5czTeA"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "This Christmas - Single",
+        "url": "https://open.spotify.com/album/6NbYu2rBvmgYXjYe0rLCPQ"
+      },
+      "artists": [
+        {
+          "name": "Jyp Nation",
+          "url": "https://open.spotify.com/artist/422bFDqxTIZF6HrsneK0xO"
+        }
+      ],
+      "duration_ms": 227825,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/4OFYgzWbOmaZH2D6qblLRv"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1271,22 +1271,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Will You Be My Home",
-        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        }
-      ],
-      "duration_ms": 210653,
-      "name": "Will You Be My Home",
-      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "Maybe Christmas (Orchestra Version)",
         "url": "https://open.spotify.com/album/45v0kfxliXgedtXPVCtqr2"
       },
@@ -1299,6 +1283,22 @@
       "duration_ms": 303297,
       "name": "Maybe Christmas - Orchestra Version",
       "url": "https://open.spotify.com/track/3rFpFKkRZ62lHyRByZbNUj"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Will You Be My Home",
+        "url": "https://open.spotify.com/album/13yLpvNzqweJpCr8qESF9R"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        }
+      ],
+      "duration_ms": 210653,
+      "name": "Will You Be My Home",
+      "url": "https://open.spotify.com/track/3DyrC9aI6gvoi8FxTi9J1z"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Christmas Time",
-        "url": "https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA"
-      },
-      "artists": [
-        {
-          "name": "KyoungSeo",
-          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
-        }
-      ],
-      "duration_ms": 230253,
-      "name": "Christmas Time",
-      "url": "https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "FOCUS",
         "url": "https://open.spotify.com/album/2HYomfaNdOTYlOftTbE7Af"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 146962,
       "name": "FOCUS",
       "url": "https://open.spotify.com/track/0Nh6t7DEzAARTHHufhPc1Q"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Christmas Time",
+        "url": "https://open.spotify.com/album/2iiAglDTCM1gUDjdPwpXFA"
+      },
+      "artists": [
+        {
+          "name": "KyoungSeo",
+          "url": "https://open.spotify.com/artist/4rxWm4OrS8IRQ3YxDUwnJA"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Christmas Time",
+      "url": "https://open.spotify.com/track/3ctivX3Mw4AbJe7CVMXCAh"
     },
     {
       "added_at": "2025-01-18 02:25:33",
@@ -1703,22 +1703,6 @@
     {
       "added_at": "2025-01-18 02:25:33",
       "album": {
-        "name": "Jingle Bell Love",
-        "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
-      },
-      "artists": [
-        {
-          "name": "Yunsae",
-          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
-        }
-      ],
-      "duration_ms": 154989,
-      "name": "Jingle Bell Love",
-      "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
-    },
-    {
-      "added_at": "2025-01-18 02:25:33",
-      "album": {
         "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
         "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
       },
@@ -1735,6 +1719,22 @@
       "duration_ms": 170232,
       "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve (prod. Minit)",
       "url": "https://open.spotify.com/track/0PxRwVf71nxGKSTSWHjp9H"
+    },
+    {
+      "added_at": "2025-01-18 02:25:33",
+      "album": {
+        "name": "Jingle Bell Love",
+        "url": "https://open.spotify.com/album/0aJZVJC8xlGcGhvfHjKX6H"
+      },
+      "artists": [
+        {
+          "name": "Yunsae",
+          "url": "https://open.spotify.com/artist/7DLucR65sSvihkpKZcdymt"
+        }
+      ],
+      "duration_ms": 154989,
+      "name": "Jingle Bell Love",
+      "url": "https://open.spotify.com/track/3vvQB1Jv0HLVyl0esdrKMH"
     },
     {
       "added_at": "2025-01-18 02:25:33",

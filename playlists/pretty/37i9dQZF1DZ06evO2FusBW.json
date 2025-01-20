@@ -1,12 +1,12 @@
 {
   "description": "This is RIOPY. The essential tracks, all in one playlist.",
-  "num_followers": 10535,
+  "num_followers": 10543,
   "original_name": "This Is RIOPY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAAyp2MnHKvkzwNkGcXqZi0B",
+  "snapshot_id": "Z4rvAAAAAABYRCNqyOcxOA2HRQTYXN6H",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 196906,
       "name": "My Way of Light",
       "url": "https://open.spotify.com/track/4WkLksTwTw88ZgFMTg48Vz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sleep Meditations",
+        "url": "https://open.spotify.com/album/7jUPTcLc38L1PLCfpBceai"
+      },
+      "artists": [
+        {
+          "name": "TUNE YOUR MIND",
+          "url": "https://open.spotify.com/artist/1RiPQVwSrI0TAJDYNAJtp1"
+        },
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 284000,
+      "name": "Sleep Meditation: Deep Sleep 111 Delta Hz",
+      "url": "https://open.spotify.com/track/5wZc0BcFgzU2hBeIJqbOxr"
     },
     {
       "added_at": null,
@@ -216,9 +236,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 235106,
-      "name": "Ukiyo",
-      "url": "https://open.spotify.com/track/1w1vmGM5nzNsQviR9dC4Sc"
+      "duration_ms": 262506,
+      "name": "Peace of Mind",
+      "url": "https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46"
     },
     {
       "added_at": null,
@@ -280,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 262506,
-      "name": "Peace of Mind",
-      "url": "https://open.spotify.com/track/4Y0sakC0g6TBWV4oPN3Z46"
+      "duration_ms": 235106,
+      "name": "Ukiyo",
+      "url": "https://open.spotify.com/track/1w1vmGM5nzNsQviR9dC4Sc"
     },
     {
       "added_at": null,
@@ -451,38 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 166338,
-      "name": "A Tale in Paris",
-      "url": "https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tree of Light",
-        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 310240,
-      "name": "Summer Night",
-      "url": "https://open.spotify.com/track/4udQdukrhegqWhqdprQtbx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 66",
         "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
       },
@@ -503,6 +491,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tree of Light",
+        "url": "https://open.spotify.com/album/3tWw71jsBPbM5uQp0QvtXf"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 310240,
+      "name": "Summer Night",
+      "url": "https://open.spotify.com/track/4udQdukrhegqWhqdprQtbx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -515,6 +519,22 @@
       "duration_ms": 137213,
       "name": "Memory of Water",
       "url": "https://open.spotify.com/track/6VUXskL75b1kqK3hIHegWW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 166338,
+      "name": "A Tale in Paris",
+      "url": "https://open.spotify.com/track/1Cmo5HNKi7vkojpgCRTW2g"
     },
     {
       "added_at": null,
@@ -551,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 101000,
-      "name": "Emotions",
-      "url": "https://open.spotify.com/track/5ZBAPouicX889poK2HBKuE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 111",
         "url": "https://open.spotify.com/album/418PRzkbwMn1lsbNtBWHeC"
       },
@@ -579,6 +583,22 @@
       "duration_ms": 142083,
       "name": "Meditation 111",
       "url": "https://open.spotify.com/track/4OpzaBPXTZkBKyiQVYxMag"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 101000,
+      "name": "Emotions",
+      "url": "https://open.spotify.com/track/5ZBAPouicX889poK2HBKuE"
     },
     {
       "added_at": null,
@@ -615,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Tale in Paris",
-        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 297288,
-      "name": "The Age of Pisces",
-      "url": "https://open.spotify.com/track/2g7sqs6Pl5DxKyZnL6fcXx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 432",
         "url": "https://open.spotify.com/album/0GZQMTITPhLAQeZGZcUAYC"
       },
@@ -643,6 +647,22 @@
       "duration_ms": 278958,
       "name": "A BIRD'S TALE",
       "url": "https://open.spotify.com/track/0BQSiWiaW8UvRUVSELnAVh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Portraits in Film",
+        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 199648,
+      "name": "Brave Heart",
+      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
     },
     {
       "added_at": null,
@@ -695,8 +715,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Portraits in Film",
-        "url": "https://open.spotify.com/album/5UgUWVUhDfevhi7qYOClzB"
+        "name": "A Tale in Paris",
+        "url": "https://open.spotify.com/album/3FgwpuKklAqrl5AT36vfSZ"
       },
       "artists": [
         {
@@ -704,9 +724,9 @@
           "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
         }
       ],
-      "duration_ms": 199648,
-      "name": "Brave Heart",
-      "url": "https://open.spotify.com/track/040Md6cPvzjqwPXZIcPnm4"
+      "duration_ms": 297288,
+      "name": "The Age of Pisces",
+      "url": "https://open.spotify.com/track/2g7sqs6Pl5DxKyZnL6fcXx"
     },
     {
       "added_at": null,
@@ -743,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Le R\u00eave d'une note",
-        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 1354080,
-      "name": "Meditation 22",
-      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Thrive",
         "url": "https://open.spotify.com/album/67VF7jEe2ivz5kMPyXgI4T"
       },
@@ -771,6 +775,22 @@
       "duration_ms": 229146,
       "name": "Sakura",
       "url": "https://open.spotify.com/track/2zftgeM1pifub6Zpt2dM5b"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Le R\u00eave d'une note",
+        "url": "https://open.spotify.com/album/3kaHw48zUVcXBK5wCsWITY"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 1354080,
+      "name": "Meditation 22",
+      "url": "https://open.spotify.com/track/2zyt5VHuSeLPBfUjl9uDNx"
     },
     {
       "added_at": null,
@@ -791,22 +811,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Emotive Piano",
-        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
-      },
-      "artists": [
-        {
-          "name": "RIOPY",
-          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
-        }
-      ],
-      "duration_ms": 153137,
-      "name": "Evolving Memories",
-      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Meditation 66",
         "url": "https://open.spotify.com/album/62VLkrAkCtoMehAQSelT13"
       },
@@ -823,6 +827,22 @@
       "duration_ms": 1369525,
       "name": "Flow State 22",
       "url": "https://open.spotify.com/track/0E9NGd4NMBF93UBzrEv7u5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Emotive Piano",
+        "url": "https://open.spotify.com/album/5lnRrm27QJNpbFCUBb7WSJ"
+      },
+      "artists": [
+        {
+          "name": "RIOPY",
+          "url": "https://open.spotify.com/artist/4ytDz3A9nHcVMjEbdNSKzA"
+        }
+      ],
+      "duration_ms": 153137,
+      "name": "Evolving Memories",
+      "url": "https://open.spotify.com/track/7fatRhuZtEj2KB2VGefprE"
     },
     {
       "added_at": null,

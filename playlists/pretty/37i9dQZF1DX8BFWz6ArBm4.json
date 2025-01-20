@@ -1,6 +1,6 @@
 {
   "description": "\u039a\u03b1\u03c4\u03b5\u03c5\u03b8\u03b5\u03af\u03b1\u03bd \u03b1\u03c0\u03cc \u03c4\u03b7\u03bd \u03c0\u03af\u03c3\u03c4\u03b1, \u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03b1 \u03bb\u03b1\u03ca\u03ba\u03ac \u03c4\u03c1\u03b1\u03b3\u03bf\u03cd\u03b4\u03b9\u03b1 \u03b1\u03c5\u03c4\u03ae \u03c4\u03b7 \u03c3\u03c4\u03b9\u03b3\u03bc\u03ae. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bfr: Petros Iakovidis",
-  "num_followers": 32519,
+  "num_followers": 32523,
   "original_name": "Laika tou Simera",
   "owner": {
     "name": "Spotify",
@@ -387,74 +387,6 @@
     {
       "added_at": "2025-01-16 22:00:24",
       "album": {
-        "name": "Parallili Agapi",
-        "url": "https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt"
-      },
-      "artists": [
-        {
-          "name": "Christina Salti",
-          "url": "https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr"
-        }
-      ],
-      "duration_ms": 242500,
-      "name": "Parallili Agapi",
-      "url": "https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
-        "name": "Psixi Me Psixi",
-        "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Sabanis",
-          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
-        }
-      ],
-      "duration_ms": 261117,
-      "name": "Psixi Me Psixi",
-      "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
-        "name": "1994",
-        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
-      },
-      "artists": [
-        {
-          "name": "Katerina Lioliou",
-          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
-        }
-      ],
-      "duration_ms": 211998,
-      "name": "I Gineka Tis Zois Sou",
-      "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
-        "name": "Tipota Tiheo",
-        "url": "https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw"
-      },
-      "artists": [
-        {
-          "name": "Ioulia Kallimani",
-          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
-        },
-        {
-          "name": "Michael Touratzidis",
-          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
-        }
-      ],
-      "duration_ms": 167310,
-      "name": "Tipota Tiheo",
-      "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
         "name": "Siga To Prama",
         "url": "https://open.spotify.com/album/6bJ8EvS1hhuqmR9ISbK2CO"
       },
@@ -487,6 +419,58 @@
     {
       "added_at": "2025-01-16 22:00:24",
       "album": {
+        "name": "Tipota Tiheo",
+        "url": "https://open.spotify.com/album/2vRFI2kSuYWDyLW9RKm5Aw"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "duration_ms": 167310,
+      "name": "Tipota Tiheo",
+      "url": "https://open.spotify.com/track/6ArqqI0uQLJ8Mgp3PiMexH"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
+        "name": "Parallili Agapi",
+        "url": "https://open.spotify.com/album/2S1gFwCroLJTVsPJoRbqxt"
+      },
+      "artists": [
+        {
+          "name": "Christina Salti",
+          "url": "https://open.spotify.com/artist/6l0GQT49HC5pM3Y2TZSLRr"
+        }
+      ],
+      "duration_ms": 242500,
+      "name": "Parallili Agapi",
+      "url": "https://open.spotify.com/track/2SsaxxtqBdweyrZew2O6Ej"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
+        "name": "Psixi Me Psixi",
+        "url": "https://open.spotify.com/album/0C8jXZAjScZhZdNRxphyFC"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Sabanis",
+          "url": "https://open.spotify.com/artist/6ZGwdAmu91r8mpA6SXodzd"
+        }
+      ],
+      "duration_ms": 261117,
+      "name": "Psixi Me Psixi",
+      "url": "https://open.spotify.com/track/7h6EQyOSzYyN1eDG1rpIK5"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
         "name": "Psahno Na Vro",
         "url": "https://open.spotify.com/album/6YA76D7DzUuiBpktYltKwo"
       },
@@ -499,78 +483,6 @@
       "duration_ms": 199166,
       "name": "Psahno Na Vro",
       "url": "https://open.spotify.com/track/5DPZMOE3VA3fHXASNhtPRT"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
-        "name": "De Mas Xorizei Tipota",
-        "url": "https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE"
-      },
-      "artists": [
-        {
-          "name": "Andromache",
-          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
-        },
-        {
-          "name": "Giorgos Livanis",
-          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
-        }
-      ],
-      "duration_ms": 203720,
-      "name": "De Mas Xorizei Tipota",
-      "url": "https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
-        "name": "Efyge?",
-        "url": "https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94"
-      },
-      "artists": [
-        {
-          "name": "Ioulia Kallimani",
-          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
-        },
-        {
-          "name": "Michael Touratzidis",
-          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
-        }
-      ],
-      "duration_ms": 201434,
-      "name": "Efyge?",
-      "url": "https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
-        "name": "Giati S' Emena",
-        "url": "https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw"
-      },
-      "artists": [
-        {
-          "name": "Lena Zevgara",
-          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
-        }
-      ],
-      "duration_ms": 198875,
-      "name": "Giati S' Emena",
-      "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
-        "name": "maZW Akoma (Ola Mou Ta Thelo)",
-        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 208355,
-      "name": "maZW Akoma (Ola Mou Ta Thelo)",
-      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
       "added_at": "2025-01-16 22:00:24",
@@ -607,26 +519,106 @@
     {
       "added_at": "2025-01-16 22:00:24",
       "album": {
-        "name": "Shik Shak Shock",
-        "url": "https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL"
+        "name": "1994",
+        "url": "https://open.spotify.com/album/6GpAkvjB1iVZ9ulHtkq1yp"
       },
       "artists": [
         {
-          "name": "Andreas Habibi",
-          "url": "https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG"
-        },
-        {
-          "name": "Takinio Soul",
-          "url": "https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk"
-        },
-        {
-          "name": "Panos Kiamos",
-          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+          "name": "Katerina Lioliou",
+          "url": "https://open.spotify.com/artist/6vgi3CIDWWdGEGJ6NMgQdD"
         }
       ],
-      "duration_ms": 159664,
-      "name": "Shik Shak Shock",
-      "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
+      "duration_ms": 211998,
+      "name": "I Gineka Tis Zois Sou",
+      "url": "https://open.spotify.com/track/4VJ7nzs9uF3i9rIVmaDyxt"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
+        "name": "Efyge?",
+        "url": "https://open.spotify.com/album/0AlIY3vTLJTYRGNTFevp94"
+      },
+      "artists": [
+        {
+          "name": "Ioulia Kallimani",
+          "url": "https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p"
+        },
+        {
+          "name": "Michael Touratzidis",
+          "url": "https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz"
+        }
+      ],
+      "duration_ms": 201434,
+      "name": "Efyge?",
+      "url": "https://open.spotify.com/track/30OqNOqaoqKrzg2ZcmHz83"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
+        "name": "De Mas Xorizei Tipota",
+        "url": "https://open.spotify.com/album/6iOXetU4xwcNswf29HkTOE"
+      },
+      "artists": [
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        },
+        {
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+        }
+      ],
+      "duration_ms": 203720,
+      "name": "De Mas Xorizei Tipota",
+      "url": "https://open.spotify.com/track/66AEZAyDrD2bnVQxC3eOsW"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
+        "name": "Giati S' Emena",
+        "url": "https://open.spotify.com/album/2dAmuI9hvOBW0R3YaddWkw"
+      },
+      "artists": [
+        {
+          "name": "Lena Zevgara",
+          "url": "https://open.spotify.com/artist/3LE41qCjcf1FeakeVX7OxB"
+        }
+      ],
+      "duration_ms": 198875,
+      "name": "Giati S' Emena",
+      "url": "https://open.spotify.com/track/07VYoZedBJpgqRzGGPHg5P"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
+        "name": "maZW Akoma (Ola Mou Ta Thelo)",
+        "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 208355,
+      "name": "maZW Akoma (Ola Mou Ta Thelo)",
+      "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
+        "name": "Monaxia",
+        "url": "https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Kakosaios",
+          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
+        }
+      ],
+      "duration_ms": 204090,
+      "name": "Monaxia",
+      "url": "https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2"
     },
     {
       "added_at": "2025-01-16 22:00:24",
@@ -647,6 +639,30 @@
       "duration_ms": 172363,
       "name": "Alitheia",
       "url": "https://open.spotify.com/track/6kRNvc7eOG6Lnb873QWYTL"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
+        "name": "Shik Shak Shock",
+        "url": "https://open.spotify.com/album/3i27NwGotHd7ZOvFBVU8NL"
+      },
+      "artists": [
+        {
+          "name": "Andreas Habibi",
+          "url": "https://open.spotify.com/artist/3ly58pp32vcAlUdLTubUbG"
+        },
+        {
+          "name": "Takinio Soul",
+          "url": "https://open.spotify.com/artist/4JZNcQk5mq0z4kYO7wLctk"
+        },
+        {
+          "name": "Panos Kiamos",
+          "url": "https://open.spotify.com/artist/2EsTolBYIEICM1kx7MGluy"
+        }
+      ],
+      "duration_ms": 159664,
+      "name": "Shik Shak Shock",
+      "url": "https://open.spotify.com/track/6rddBYzxNSIzwMeksQKV8q"
     },
     {
       "added_at": "2025-01-16 22:00:24",
@@ -751,38 +767,6 @@
     {
       "added_at": "2025-01-16 22:00:24",
       "album": {
-        "name": "Monaxia",
-        "url": "https://open.spotify.com/album/6UneAU2jm2vCCM7l3cpoGP"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Kakosaios",
-          "url": "https://open.spotify.com/artist/4uyuai6Pqgz3kSx1Jme2PJ"
-        }
-      ],
-      "duration_ms": 204090,
-      "name": "Monaxia",
-      "url": "https://open.spotify.com/track/2AnmJmjWb52KlIojfW7mU2"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
-        "name": "Kalispera",
-        "url": "https://open.spotify.com/album/6cKmGc7UdhVnGq17uautpx"
-      },
-      "artists": [
-        {
-          "name": "Petros Iakovidis",
-          "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
-        }
-      ],
-      "duration_ms": 149381,
-      "name": "Sikose To Tilefono",
-      "url": "https://open.spotify.com/track/4Llq9CnIodPmWO2wqfTmzy"
-    },
-    {
-      "added_at": "2025-01-16 22:00:24",
-      "album": {
         "name": "Sou Eho Agapi Megali",
         "url": "https://open.spotify.com/album/2vT4TdCYWKxcbBpg44f2g8"
       },
@@ -855,8 +839,8 @@
     {
       "added_at": "2025-01-16 22:00:24",
       "album": {
-        "name": "Odos Tsimiski",
-        "url": "https://open.spotify.com/album/248qClzJD9BvwbV9F24bJ9"
+        "name": "Kalispera",
+        "url": "https://open.spotify.com/album/6cKmGc7UdhVnGq17uautpx"
       },
       "artists": [
         {
@@ -864,9 +848,29 @@
           "url": "https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5"
         }
       ],
-      "duration_ms": 189996,
-      "name": "Odos Tsimiski",
-      "url": "https://open.spotify.com/track/2TEHn9OHX4aq5uJOWkgbqu"
+      "duration_ms": 149381,
+      "name": "Sikose To Tilefono",
+      "url": "https://open.spotify.com/track/4Llq9CnIodPmWO2wqfTmzy"
+    },
+    {
+      "added_at": "2025-01-16 22:00:24",
+      "album": {
+        "name": "I Agapi Ayti",
+        "url": "https://open.spotify.com/album/2ZELFXiSrDXLDNdN86m8RZ"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Livanis",
+          "url": "https://open.spotify.com/artist/64jWqEqXZKSlyqwgMz28Ok"
+        },
+        {
+          "name": "Andromache",
+          "url": "https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv"
+        }
+      ],
+      "duration_ms": 216875,
+      "name": "I Agapi Ayti",
+      "url": "https://open.spotify.com/track/3nwTkNIo35hnpArk0tokY8"
     }
   ],
   "unique_name": "Laika tou Simera",

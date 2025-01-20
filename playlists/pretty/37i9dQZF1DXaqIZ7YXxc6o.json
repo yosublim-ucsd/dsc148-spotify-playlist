@@ -1,12 +1,12 @@
 {
   "description": "Your weekly dose of new dance. Cover: John Summit",
-  "num_followers": 145112,
+  "num_followers": 145138,
   "original_name": "New Dance Beats",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mwCwAAAAAQ3aCU0mEBwOCjAmkDcspx",
+  "snapshot_id": "Z42JIgAAAAB+p7T/Qx8JzJ29X9Th3ODX",
   "tracks": [
     {
       "added_at": "2025-01-17 01:19:07",
@@ -31,6 +31,22 @@
     {
       "added_at": "2025-01-17 01:19:07",
       "album": {
+        "name": "Angel of Mine",
+        "url": "https://open.spotify.com/album/367CKbJE662Q86eiVUTnwB"
+      },
+      "artists": [
+        {
+          "name": "Tobiahs",
+          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
+        }
+      ],
+      "duration_ms": 162741,
+      "name": "Angel of Mine",
+      "url": "https://open.spotify.com/track/1w3wZWzYYDxunHZBmitPpu"
+    },
+    {
+      "added_at": "2025-01-17 01:19:07",
+      "album": {
         "name": "We Are The People (ARTBAT Remix)",
         "url": "https://open.spotify.com/album/60byCifK9JXAUwNzbpfSS2"
       },
@@ -47,22 +63,6 @@
       "duration_ms": 238080,
       "name": "We Are The People - ARTBAT Remix",
       "url": "https://open.spotify.com/track/0L6223jyrD2qFSxSmjpEMP"
-    },
-    {
-      "added_at": "2025-01-17 01:19:07",
-      "album": {
-        "name": "Angel of Mine",
-        "url": "https://open.spotify.com/album/367CKbJE662Q86eiVUTnwB"
-      },
-      "artists": [
-        {
-          "name": "Tobiahs",
-          "url": "https://open.spotify.com/artist/4eHzBO6qaL2wt35kENSbTs"
-        }
-      ],
-      "duration_ms": 162741,
-      "name": "Angel of Mine",
-      "url": "https://open.spotify.com/track/1w3wZWzYYDxunHZBmitPpu"
     },
     {
       "added_at": "2025-01-17 01:19:07",
@@ -91,38 +91,18 @@
     {
       "added_at": "2025-01-17 01:19:07",
       "album": {
-        "name": "I NEED U",
-        "url": "https://open.spotify.com/album/4rGozgbbBvNkHLpjtmPnqi"
+        "name": "Where Have You Been",
+        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
       },
       "artists": [
         {
-          "name": "Mild Minds",
-          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
+          "name": "REESE",
+          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
         }
       ],
-      "duration_ms": 161184,
-      "name": "I NEED U",
-      "url": "https://open.spotify.com/track/0KuEyc7OvadLoAjQ3VwjEU"
-    },
-    {
-      "added_at": "2025-01-17 01:19:07",
-      "album": {
-        "name": "nolimit",
-        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
-      },
-      "artists": [
-        {
-          "name": "Knock2",
-          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
-        },
-        {
-          "name": "Naliya",
-          "url": "https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU"
-        }
-      ],
-      "duration_ms": 196129,
-      "name": "shake!the!city!",
-      "url": "https://open.spotify.com/track/0AdQigPVEFZrgzdBGHEnuC"
+      "duration_ms": 170571,
+      "name": "Where Have You Been",
+      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
     },
     {
       "added_at": "2025-01-17 01:19:07",
@@ -147,38 +127,54 @@
     {
       "added_at": "2025-01-17 01:19:07",
       "album": {
-        "name": "Want My Love",
-        "url": "https://open.spotify.com/album/65K88KCZBgjznXdSfCUxeE"
+        "name": "I NEED U",
+        "url": "https://open.spotify.com/album/4rGozgbbBvNkHLpjtmPnqi"
       },
       "artists": [
         {
-          "name": "Malugi",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        },
-        {
-          "name": "WOLTERS",
-          "url": "https://open.spotify.com/artist/3gWrhUgsZptXzw4SHZUgOl"
+          "name": "Mild Minds",
+          "url": "https://open.spotify.com/artist/3Ka3k9K2WStR52UJVtbJZW"
         }
       ],
-      "duration_ms": 198750,
-      "name": "Want My Love",
-      "url": "https://open.spotify.com/track/2MNZoKTpk2jYMIjTKihdaH"
+      "duration_ms": 161184,
+      "name": "I NEED U",
+      "url": "https://open.spotify.com/track/0KuEyc7OvadLoAjQ3VwjEU"
     },
     {
       "added_at": "2025-01-17 01:19:07",
       "album": {
-        "name": "Where Have You Been",
-        "url": "https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx"
+        "name": "all i ever wanted",
+        "url": "https://open.spotify.com/album/1iX4zn7M6Qb7jxTCXwDnz7"
       },
       "artists": [
         {
-          "name": "REESE",
-          "url": "https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX"
+          "name": "Rommii",
+          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
         }
       ],
-      "duration_ms": 170571,
-      "name": "Where Have You Been",
-      "url": "https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG"
+      "duration_ms": 153043,
+      "name": "all i ever wanted",
+      "url": "https://open.spotify.com/track/7vPV3Eo1hjIxkPthWwVpHT"
+    },
+    {
+      "added_at": "2025-01-17 01:19:07",
+      "album": {
+        "name": "nolimit",
+        "url": "https://open.spotify.com/album/0m7RPdwNo1gte0nUSwh2yv"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        },
+        {
+          "name": "Naliya",
+          "url": "https://open.spotify.com/artist/6n4qDgsuoohAN5Q7HebLvU"
+        }
+      ],
+      "duration_ms": 196129,
+      "name": "shake!the!city!",
+      "url": "https://open.spotify.com/track/0AdQigPVEFZrgzdBGHEnuC"
     },
     {
       "added_at": "2025-01-17 01:19:07",
@@ -203,18 +199,18 @@
     {
       "added_at": "2025-01-17 01:19:07",
       "album": {
-        "name": "all i ever wanted",
-        "url": "https://open.spotify.com/album/1iX4zn7M6Qb7jxTCXwDnz7"
+        "name": "Reach For You",
+        "url": "https://open.spotify.com/album/4reioH9lNaPq6lFuKH9nBF"
       },
       "artists": [
         {
-          "name": "Rommii",
-          "url": "https://open.spotify.com/artist/2ptklB4QBKqyRZNAkAEq8U"
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
         }
       ],
-      "duration_ms": 153043,
-      "name": "all i ever wanted",
-      "url": "https://open.spotify.com/track/7vPV3Eo1hjIxkPthWwVpHT"
+      "duration_ms": 169168,
+      "name": "Reach For You",
+      "url": "https://open.spotify.com/track/4hLDHwc3t9fx3zyn3NYBXN"
     },
     {
       "added_at": "2025-01-17 01:19:07",
@@ -243,18 +239,22 @@
     {
       "added_at": "2025-01-17 01:19:07",
       "album": {
-        "name": "Reach For You",
-        "url": "https://open.spotify.com/album/4reioH9lNaPq6lFuKH9nBF"
+        "name": "Want My Love",
+        "url": "https://open.spotify.com/album/65K88KCZBgjznXdSfCUxeE"
       },
       "artists": [
         {
-          "name": "D.O.D",
-          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+          "name": "Malugi",
+          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
+        },
+        {
+          "name": "WOLTERS",
+          "url": "https://open.spotify.com/artist/3gWrhUgsZptXzw4SHZUgOl"
         }
       ],
-      "duration_ms": 169168,
-      "name": "Reach For You",
-      "url": "https://open.spotify.com/track/4hLDHwc3t9fx3zyn3NYBXN"
+      "duration_ms": 198750,
+      "name": "Want My Love",
+      "url": "https://open.spotify.com/track/2MNZoKTpk2jYMIjTKihdaH"
     },
     {
       "added_at": "2025-01-17 01:19:07",

@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of West coast Jazz. Cover: Gerry Mulligan",
-  "num_followers": 33355,
+  "num_followers": 33438,
   "original_name": "West Coast Jazz",
   "owner": {
     "name": "Spotify",
@@ -171,22 +171,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 262733,
-      "name": "Everybody's Jumpin'",
-      "url": "https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "The Latin Side Of Vince Guaraldi",
         "url": "https://open.spotify.com/album/6pyKEXTSWmqvSGGg7Hc1t4"
       },
@@ -203,6 +187,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/0nTTEAhCZsbbeplyDMIFuA"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 262733,
+      "name": "Everybody's Jumpin'",
+      "url": "https://open.spotify.com/track/0r3ZObqOhirTkBCr8f4L9q"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "This Is How I Feel About Jazz",
         "url": "https://open.spotify.com/album/2JN9W6snU2SvqW7ER0Vknk"
       },
@@ -215,6 +215,38 @@
       "duration_ms": 340773,
       "name": "Stockholm Sweetnin'",
       "url": "https://open.spotify.com/track/5G0fv40KyLkpSiPtc0Q8gf"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Jeru",
+        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
+      },
+      "artists": [
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 332333,
+      "name": "Inside Impromptu",
+      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 355546,
+      "name": "Imagination",
+      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -239,54 +271,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 355546,
-      "name": "Imagination",
-      "url": "https://open.spotify.com/track/2of5gKZdb2dw3IeJCTd1qi"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "Time Further Out",
-        "url": "https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 277706,
-      "name": "Far More Blue",
-      "url": "https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "Jeru",
-        "url": "https://open.spotify.com/album/2ujmzTWpBs0rKq6lelbuWP"
-      },
-      "artists": [
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 332333,
-      "name": "Inside Impromptu",
-      "url": "https://open.spotify.com/track/4r4DOQ4OaGA3TsSqGqA2HE"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "My Fair Lady",
         "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
       },
@@ -299,22 +283,6 @@
       "duration_ms": 338773,
       "name": "On The Street Where You Live - Instrumental",
       "url": "https://open.spotify.com/track/5kvgi3kVbX8AQ8kjpgEyuv"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "Sweet Rain",
-        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 503013,
-      "name": "Litha",
-      "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -351,22 +319,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
-        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
-      },
-      "artists": [
-        {
-          "name": "Art Pepper",
-          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
-        }
-      ],
-      "duration_ms": 220520,
-      "name": "Red Pepper Blues",
-      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Blowin' Country",
         "url": "https://open.spotify.com/album/6Gif5fN122j92QDgzgPSZM"
       },
@@ -387,6 +339,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "Time Further Out",
+        "url": "https://open.spotify.com/album/0eMXd1VtCXCkuGWn9JjRDT"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 277706,
+      "name": "Far More Blue",
+      "url": "https://open.spotify.com/track/2djpFaL4yqTH3fvDKijsMv"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "Harold In The Land Of Jazz",
         "url": "https://open.spotify.com/album/4VvgRg2qKq70YWZjKGepiG"
       },
@@ -399,6 +367,38 @@
       "duration_ms": 426533,
       "name": "Grooveyard",
       "url": "https://open.spotify.com/track/2DS10kEktKybLiPI30WvFG"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Sweet Rain",
+        "url": "https://open.spotify.com/album/52eAdaMAspFcQT8u78E3ip"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 503013,
+      "name": "Litha",
+      "url": "https://open.spotify.com/track/0x9z9zmypzjXdRHiMyQ1gd"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
+        "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
+      },
+      "artists": [
+        {
+          "name": "Art Pepper",
+          "url": "https://open.spotify.com/artist/3GpMtIOC5ZLvMBMI7IxPvA"
+        }
+      ],
+      "duration_ms": 220520,
+      "name": "Red Pepper Blues",
+      "url": "https://open.spotify.com/track/2w3DhdtQDnAzeNNH39kfpJ"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -423,22 +423,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
-      },
-      "artists": [
-        {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
-        }
-      ],
-      "duration_ms": 362040,
-      "name": "With A Little Bit Of Luck - Instrumental",
-      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Gerry Mulligan Quartet Vol.1 (Expanded Edition)",
         "url": "https://open.spotify.com/album/58yI7hd0vFL77B8iMBpYkB"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 175080,
       "name": "Nights At The Turntable",
       "url": "https://open.spotify.com/track/47j9f7Ix1CXwIE28ofdkBA"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+        }
+      ],
+      "duration_ms": 362040,
+      "name": "With A Little Bit Of Luck - Instrumental",
+      "url": "https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -543,6 +543,22 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
+        "name": "In New York [Original Jazz Classics Remasters]",
+        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 453506,
+      "name": "Blue Thoughts",
+      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
         "name": "Chico Hamilton Quintet In Hi-Fi",
         "url": "https://open.spotify.com/album/2dFpm1YkRBmyINNSAOYMGg"
       },
@@ -571,22 +587,6 @@
       "duration_ms": 294600,
       "name": "Thou Swell",
       "url": "https://open.spotify.com/track/5isHYKdOZoRLEltgxqjSMn"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
-        "name": "In New York [Original Jazz Classics Remasters]",
-        "url": "https://open.spotify.com/album/65zkV2jjroxi3mwOEddvDJ"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 453506,
-      "name": "Blue Thoughts",
-      "url": "https://open.spotify.com/track/6A2tYCT1Wcd5RT6DhyCqhm"
     },
     {
       "added_at": "2024-09-03 09:42:20",
@@ -787,22 +787,6 @@
     {
       "added_at": "2024-09-03 09:42:20",
       "album": {
-        "name": "Verve Jazz Masters 52: Maynard Ferguson",
-        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
-      },
-      "artists": [
-        {
-          "name": "Maynard Ferguson",
-          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
-        }
-      ],
-      "duration_ms": 185493,
-      "name": "Willie Nillie",
-      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
-    },
-    {
-      "added_at": "2024-09-03 09:42:20",
-      "album": {
         "name": "Jazz Loves Paris",
         "url": "https://open.spotify.com/album/5aXQDmS6CoqSi8MJ3kRdYq"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 146306,
       "name": "Pigalle",
       "url": "https://open.spotify.com/track/4vwJminEIogBjD68EE6nLM"
+    },
+    {
+      "added_at": "2024-09-03 09:42:20",
+      "album": {
+        "name": "Verve Jazz Masters 52: Maynard Ferguson",
+        "url": "https://open.spotify.com/album/4quQi9QInfe4JWEpyu31vI"
+      },
+      "artists": [
+        {
+          "name": "Maynard Ferguson",
+          "url": "https://open.spotify.com/artist/6T4kUHIlszpj944ZXR3yNw"
+        }
+      ],
+      "duration_ms": 185493,
+      "name": "Willie Nillie",
+      "url": "https://open.spotify.com/track/2UixOYLt51ybhwhkT0QHnS"
     },
     {
       "added_at": "2024-09-03 09:42:20",

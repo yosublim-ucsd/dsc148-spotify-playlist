@@ -1,6 +1,6 @@
 {
   "description": "Ease out your mind with the rhythmic Tabla sounds, from Indian maestros & modern geniuses. Cover : Zakir Hussain",
-  "num_followers": 8080,
+  "num_followers": 8088,
   "original_name": "ECHO : Tabla Rhythms",
   "owner": {
     "name": "Spotify",
@@ -387,26 +387,6 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "The Very Best of Ravi Shankar",
-        "url": "https://open.spotify.com/album/0gzAYyDJW2HiIkcOoQCWjm"
-      },
-      "artists": [
-        {
-          "name": "Traditional",
-          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
-        },
-        {
-          "name": "Ravi Shankar",
-          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
-        }
-      ],
-      "duration_ms": 292666,
-      "name": "Tabla - Dhwani - Digitally Remastered",
-      "url": "https://open.spotify.com/track/0c5Vqd09VAMMdrq3bnYOTc"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
         "name": "Pakhawaj",
         "url": "https://open.spotify.com/album/3O6hXsYnDLB8BqbYHiypj4"
       },
@@ -471,6 +451,26 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
+        "name": "The Very Best of Ravi Shankar",
+        "url": "https://open.spotify.com/album/0gzAYyDJW2HiIkcOoQCWjm"
+      },
+      "artists": [
+        {
+          "name": "Traditional",
+          "url": "https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf"
+        },
+        {
+          "name": "Ravi Shankar",
+          "url": "https://open.spotify.com/artist/4uE9TgBW0AaPDHL1qYbtd0"
+        }
+      ],
+      "duration_ms": 292666,
+      "name": "Tabla - Dhwani - Digitally Remastered",
+      "url": "https://open.spotify.com/track/0c5Vqd09VAMMdrq3bnYOTc"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
         "name": "Dum Tak Revolution, Vol. 3",
         "url": "https://open.spotify.com/album/2Xo9AxbcXYeu1bOcYo9SPs"
       },
@@ -483,6 +483,22 @@
       "duration_ms": 253045,
       "name": "Tab Tabla",
       "url": "https://open.spotify.com/track/5gI2h5xKSnoLHNCqu9tBsI"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
+        "name": "Ustad Alla Rakha - The Multifaceted Genius",
+        "url": "https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk"
+      },
+      "artists": [
+        {
+          "name": "Alla Rakha",
+          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
+        }
+      ],
+      "duration_ms": 640906,
+      "name": "Tabla",
+      "url": "https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -507,22 +523,6 @@
       "duration_ms": 62932,
       "name": "Tabla Duo",
       "url": "https://open.spotify.com/track/39YD8JklUkAWbUo1DywryB"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
-        "name": "Ustad Alla Rakha - The Multifaceted Genius",
-        "url": "https://open.spotify.com/album/0RNf0UPZvB8MZKFfDmBkXk"
-      },
-      "artists": [
-        {
-          "name": "Alla Rakha",
-          "url": "https://open.spotify.com/artist/5Y99HxXDOgGQ6diwjV7HDj"
-        }
-      ],
-      "duration_ms": 640906,
-      "name": "Tabla",
-      "url": "https://open.spotify.com/track/3HDTDX3j2qpzGYvy3ELtPh"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -615,22 +615,6 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "The Sound of Indian Tabla",
-        "url": "https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU"
-      },
-      "artists": [
-        {
-          "name": "Bickram Ghosh",
-          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
-        }
-      ],
-      "duration_ms": 222626,
-      "name": "Khandam",
-      "url": "https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
         "name": "Authentic India: Indian Percussion",
         "url": "https://open.spotify.com/album/69wCZZ0ECtKoTJkHxdsGRO"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 153109,
       "name": "Tabla Solo, Pt. 1",
       "url": "https://open.spotify.com/track/26ZkZdnCJCtUGYftsx1HPl"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
+        "name": "The Sound of Indian Tabla",
+        "url": "https://open.spotify.com/album/35NMssJRLtZZ89CA2PQwrU"
+      },
+      "artists": [
+        {
+          "name": "Bickram Ghosh",
+          "url": "https://open.spotify.com/artist/5OKmLebAGFQrReDP0cS5GA"
+        }
+      ],
+      "duration_ms": 222626,
+      "name": "Khandam",
+      "url": "https://open.spotify.com/track/4jdaOd9GLwuKlC7ssI9jqG"
     },
     {
       "added_at": "2024-01-29 10:55:46",
@@ -759,6 +759,22 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
+        "name": "Lagrima",
+        "url": "https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J"
+      },
+      "artists": [
+        {
+          "name": "Fausto Palma",
+          "url": "https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q"
+        }
+      ],
+      "duration_ms": 159582,
+      "name": "Delirio de Ale",
+      "url": "https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
         "name": "Wander",
         "url": "https://open.spotify.com/album/0NtsRlMtC5jJiPwi8QxlJG"
       },
@@ -791,22 +807,6 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
-        "name": "Lagrima",
-        "url": "https://open.spotify.com/album/0EphHGiWwMpfirdRG3gp3J"
-      },
-      "artists": [
-        {
-          "name": "Fausto Palma",
-          "url": "https://open.spotify.com/artist/6NWmBPZdw4rP461AyF197Q"
-        }
-      ],
-      "duration_ms": 159582,
-      "name": "Delirio de Ale",
-      "url": "https://open.spotify.com/track/7LeCJLskRnBq1Bz0l98tC3"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
         "name": "CHAKRA",
         "url": "https://open.spotify.com/album/7c32y7QchS7ZGN23CIXL8p"
       },
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-01-29 10:55:46",
       "album": {
+        "name": "Get Recharged!!!",
+        "url": "https://open.spotify.com/album/7uAdx4T1tcIpMMSDFSiwdL"
+      },
+      "artists": [
+        {
+          "name": "Anuradha Pal",
+          "url": "https://open.spotify.com/artist/3dwrhshMCjEwJxJDEbWXWT"
+        }
+      ],
+      "duration_ms": 408888,
+      "name": "Ecstasy",
+      "url": "https://open.spotify.com/track/3cpUVxVvbZ42OhVC7MF07h"
+    },
+    {
+      "added_at": "2024-01-29 10:55:46",
+      "album": {
         "name": "Drums Of India - Pt. Jnan Prakash Ghosh",
         "url": "https://open.spotify.com/album/7zm1sLnuaWn5mEuuplPtrT"
       },
@@ -839,26 +855,6 @@
       "duration_ms": 771373,
       "name": "Tabla",
       "url": "https://open.spotify.com/track/23YNrB4uagVVZICUBU3Jur"
-    },
-    {
-      "added_at": "2024-01-29 10:55:46",
-      "album": {
-        "name": "One River",
-        "url": "https://open.spotify.com/album/1HbGyonYWkmb31ShzOSW6g"
-      },
-      "artists": [
-        {
-          "name": "Benjy Wertheimer",
-          "url": "https://open.spotify.com/artist/2Y4VeDUhZAE8UfGXqZJ7dX"
-        },
-        {
-          "name": "John De Kadt",
-          "url": "https://open.spotify.com/artist/3rd5aojNBopxBjaZdoLOrb"
-        }
-      ],
-      "duration_ms": 326666,
-      "name": "Tabla Breath",
-      "url": "https://open.spotify.com/track/1xCGBNquEBWEYeliECZqki"
     }
   ],
   "unique_name": "ECHO : Tabla Rhythms",

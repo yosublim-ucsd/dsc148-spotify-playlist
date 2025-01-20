@@ -4,11 +4,11 @@
 
 > Waves and calming music to float away on\. Breathe with the ebb and flow of the sea\. Escape to your inner mindscape of mystical beaches, gentle waves and tranquil shores.
 
-150 songs - 7 hr 5 min
+151 songs - 7 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [174 Hz Luminous Reefs](https://open.spotify.com/track/2PETf9K3bPRYLU7YbDtnlz) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [174 Hz Luminous Reefs](https://open.spotify.com/album/6ssUd0PYC0wpT6CGQ94UCd) | 2:05 | 2024-03-01 |  |
+| [174 Hz Luminous Reefs](https://open.spotify.com/track/2PETf9K3bPRYLU7YbDtnlz) | [Earthbound](https://open.spotify.com/artist/0F1aPOoP68MvFLfZ4fyP03) | [174 Hz Luminous Reefs](https://open.spotify.com/album/6ssUd0PYC0wpT6CGQ94UCd) | 2:05 | 2024-03-01 | 2025-01-20 |
 | [432 Hz All One](https://open.spotify.com/track/3PUqz1G8iM070GCCC64MUs) | [Stella Oceans](https://open.spotify.com/artist/2U0xolFqCwKMyTO2kGNC3x) | [432 Hz All One](https://open.spotify.com/album/2KLtD4cSDuuPtxH764R0HV) | 2:43 | 2023-10-23 |  |
 | [432 Hz Rahu \(Ocean Waves\)](https://open.spotify.com/track/21Kay5ZRTabqcBn8bopV4r) | [Sofia Marcello](https://open.spotify.com/artist/6MVT94tdG9IDB3J07I3qiP) | [432 Hz Rahu \(Ocean Waves\)](https://open.spotify.com/album/2nPV7DFNF7zmTvKhG9dRvj) | 2:30 | 2024-02-06 | 2024-04-11 |
 | [432 Hz Tsiatso](https://open.spotify.com/track/2InPTG1gjUW2dsBUIgLyHU) | [Asha Ward](https://open.spotify.com/artist/2CvaBwhJi75nuaWjpB1IeV) | [432 Hz Tsiatso](https://open.spotify.com/album/76MZZfmw1fdZHZeQWAjD7Q) | 3:00 | 2024-02-06 | 2024-11-29 |
@@ -38,6 +38,7 @@
 | [Coastal Route](https://open.spotify.com/track/3OKLDuEbWfQhCvS7tCoagu) | [Voices Of The Ocean](https://open.spotify.com/artist/5LhvPkWop03tE24XrQGcZt) | [Coastal Route](https://open.spotify.com/album/2tqu8ABLEaQHkkyDGpu8HG) | 3:15 | 2023-10-23 |  |
 | [Coastal Tranquility](https://open.spotify.com/track/4PLK0wbHcaSK9jlw0ZLeHo) | [Ahti Aeo](https://open.spotify.com/artist/4cSNC9MaebEEZhCv2xjgaO) | [Coastal Tranquility](https://open.spotify.com/album/1xjCmvhbhG8Ab3KSCjMx9t) | 2:38 | 2024-05-01 |  |
 | [Collect Yourself](https://open.spotify.com/track/3qBoNbi7zFlDWskvLABEk1) | [Asa Kora](https://open.spotify.com/artist/174Lkyx2f5M77yWd1Mofqj) | [Collect Yourself](https://open.spotify.com/album/5tegNKMknMihpIawkRlVeS) | 2:33 | 2024-05-01 | 2024-06-21 |
+| [Coral Charm](https://open.spotify.com/track/6ar5W5FvBDOHZ3kHNykFjT) | [Bright Lens](https://open.spotify.com/artist/5NtsEHpETpeE5K7t7rMMb7) | [Coral Charm](https://open.spotify.com/album/08AJExHa1viMJrtBVWvZOs) | 2:58 | 2025-01-15 |  |
 | [Cove Girl](https://open.spotify.com/track/0B0ztqfk2ZN9DQI7LzRCS0) | [Escix V](https://open.spotify.com/artist/7jIhddww0zd81GTRzMWK0v) | [Cove Girl](https://open.spotify.com/album/7nHuEfaI9MaiOLK2Ysrvkh) | 2:52 | 2025-01-15 |  |
 | [Crescent Moon](https://open.spotify.com/track/6wW1oywpzYEETGr5s4ySXK) | [Livrunna](https://open.spotify.com/artist/3cU2VnsMPqdGDchmD1XYCz) | [Crescent Moon](https://open.spotify.com/album/7MvdhQIM6GlmeKlJ7oX8aD) | 3:46 | 2024-02-06 |  |
 | [Dawning \- Sound Bath](https://open.spotify.com/track/4MojyUlnEpB2Ay3xIgpPC4) | [Yaalani](https://open.spotify.com/artist/64qscQGDXCB9o3nSgoRlBJ) | [Dawning \(Sound Bath\)](https://open.spotify.com/album/5CquQvz9uO5r2uh132aNQ8) | 2:26 | 2023-10-23 |  |

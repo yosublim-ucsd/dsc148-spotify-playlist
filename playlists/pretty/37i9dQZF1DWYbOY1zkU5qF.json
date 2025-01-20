@@ -1,6 +1,6 @@
 {
   "description": "Versiones ac\u00fasticas de tus canciones favoritas. ",
-  "num_followers": 186446,
+  "num_followers": 186548,
   "original_name": "Covers Ac\u00fasticos",
   "owner": {
     "name": "Spotify",
@@ -159,6 +159,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "(un poco + de) FE",
+        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
+      },
+      "artists": [
+        {
+          "name": "Gepe",
+          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
+        }
+      ],
+      "duration_ms": 204500,
+      "name": "Lento",
+      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Mis Covers, Vol. 2",
         "url": "https://open.spotify.com/album/5jjsvm8MJ01dNvgZjzBNmR"
       },
@@ -187,22 +203,6 @@
       "duration_ms": 171448,
       "name": "Estos Celos",
       "url": "https://open.spotify.com/track/2G5b00dq8S0pAo3I4kC7cI"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "(un poco + de) FE",
-        "url": "https://open.spotify.com/album/7JwkZdvu1ffUBOrrhuWIuZ"
-      },
-      "artists": [
-        {
-          "name": "Gepe",
-          "url": "https://open.spotify.com/artist/1fHGzTSloWCtrlKfbLNVhM"
-        }
-      ],
-      "duration_ms": 204500,
-      "name": "Lento",
-      "url": "https://open.spotify.com/track/1qjNi3E0y1RH7kTCK43W26"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -259,54 +259,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis Covers, Vol. 6",
-        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
-      },
-      "artists": [
-        {
-          "name": "Carolina Ross",
-          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
-        }
-      ],
-      "duration_ms": 213902,
-      "name": "A Lo Mejor",
-      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Si Veo a Tu Mam\u00e1",
-        "url": "https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Si Veo a Tu Mam\u00e1",
-      "url": "https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Que No Quede Huella",
-        "url": "https://open.spotify.com/album/0PFjnChN1bPeIiOABMezNb"
-      },
-      "artists": [
-        {
-          "name": "Eloise Freud",
-          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
-        }
-      ],
-      "duration_ms": 171250,
-      "name": "Que No Quede Huella",
-      "url": "https://open.spotify.com/track/4ixhvZuDzaohfHppwOAYiL"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Covers, Demos y Otras Travesuras de Blanco",
         "url": "https://open.spotify.com/album/4VQapZIWdrrXDMCJw0zZCT"
       },
@@ -339,6 +291,74 @@
       "duration_ms": 162510,
       "name": "Como Fue",
       "url": "https://open.spotify.com/track/1FEeJpSdoPfsTZk9AGqOcN"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Que No Quede Huella",
+        "url": "https://open.spotify.com/album/0PFjnChN1bPeIiOABMezNb"
+      },
+      "artists": [
+        {
+          "name": "Eloise Freud",
+          "url": "https://open.spotify.com/artist/4fCVdhbvs0qYEAQozKSyOh"
+        }
+      ],
+      "duration_ms": 171250,
+      "name": "Que No Quede Huella",
+      "url": "https://open.spotify.com/track/4ixhvZuDzaohfHppwOAYiL"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Si Veo a Tu Mam\u00e1",
+        "url": "https://open.spotify.com/album/2s2db0CNIpRhDdHHOGwyJh"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Si Veo a Tu Mam\u00e1",
+      "url": "https://open.spotify.com/track/1TzT4fQENDBK4a1GkDvB0P"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Mis Covers, Vol. 6",
+        "url": "https://open.spotify.com/album/4EjJTTbMsYqHHrZrl1vAy8"
+      },
+      "artists": [
+        {
+          "name": "Carolina Ross",
+          "url": "https://open.spotify.com/artist/5wx70QuZtxRUIIYek3RSaV"
+        }
+      ],
+      "duration_ms": 213902,
+      "name": "A Lo Mejor",
+      "url": "https://open.spotify.com/track/6nnureVSngRaAP4E0UMYd3"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
+        "url": "https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs"
+      },
+      "artists": [
+        {
+          "name": "Leonel Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
+        },
+        {
+          "name": "Natalia Lafourcade",
+          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
+        }
+      ],
+      "duration_ms": 291929,
+      "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
+      "url": "https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -391,26 +411,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
-        "url": "https://open.spotify.com/album/6CTLL46M0k07OzWmH9gfzs"
-      },
-      "artists": [
-        {
-          "name": "Leonel Garc\u00eda",
-          "url": "https://open.spotify.com/artist/3t7UqWteBBmHXkcVhMSyay"
-        },
-        {
-          "name": "Natalia Lafourcade",
-          "url": "https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp"
-        }
-      ],
-      "duration_ms": 291929,
-      "name": "Cuando Sale la Luna (Deja Que Salga la Luna) (feat. Natalia Lafourcade)",
-      "url": "https://open.spotify.com/track/1t4n4GkDFjUDr9tv586lVv"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Lobo Hombre En Par\u00eds",
         "url": "https://open.spotify.com/album/2EVTpcVPnTzqM4tglyPiA5"
       },
@@ -427,22 +427,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Burbujas De Amor",
-        "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
-      },
-      "artists": [
-        {
-          "name": "Luisita Peixoto",
-          "url": "https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN"
-        }
-      ],
-      "duration_ms": 243684,
-      "name": "Burbujas De Amor",
-      "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Rojo",
         "url": "https://open.spotify.com/album/3U0nGrF9ZnDkXg8xLnPLPF"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 142000,
       "name": "Rojo",
       "url": "https://open.spotify.com/track/773HRKZFlA0X7fVyeIBHdY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Burbujas De Amor",
+        "url": "https://open.spotify.com/album/5KxfxXMZ1iQnrBTRZsiMwq"
+      },
+      "artists": [
+        {
+          "name": "Luisita Peixoto",
+          "url": "https://open.spotify.com/artist/2TrYrkiXtIfLGRb0kmgDRN"
+        }
+      ],
+      "duration_ms": 243684,
+      "name": "Burbujas De Amor",
+      "url": "https://open.spotify.com/track/7mFya2xWCV656q9MtUelFw"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -511,22 +511,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Despacito (Acoustic)",
-        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 218108,
-      "name": "Despacito - Acoustic",
-      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "LA CANCI\u00d3N",
         "url": "https://open.spotify.com/album/0VNCAwo2Rs6gSyyutkSQMw"
       },
@@ -559,6 +543,22 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
+        "name": "Despacito (Acoustic)",
+        "url": "https://open.spotify.com/album/1Pt8HB8WKl2eVAgE0MTMeB"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 218108,
+      "name": "Despacito - Acoustic",
+      "url": "https://open.spotify.com/track/3tqRrUMHQ0y80CN58Xh0CT"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
         "name": "Robarte Un Beso",
         "url": "https://open.spotify.com/album/0UvK1yW7NvyThMKcTxDc6L"
       },
@@ -571,6 +571,22 @@
       "duration_ms": 173029,
       "name": "Robarte Un Beso",
       "url": "https://open.spotify.com/track/7zVxnTvFPi73poTc6oCC4l"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Eres",
+        "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
+      },
+      "artists": [
+        {
+          "name": "Aurelia Goldspark",
+          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -591,22 +607,6 @@
       "duration_ms": 180094,
       "name": "\u00c9chame La Culpa",
       "url": "https://open.spotify.com/track/0qo4ywp67nbYaxI2hRBVts"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Eres",
-        "url": "https://open.spotify.com/album/6TLzzUALIChbWMAvR95Ktg"
-      },
-      "artists": [
-        {
-          "name": "Aurelia Goldspark",
-          "url": "https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3bvmQ44nZ2716I9Snc2rh1"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -691,22 +691,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Mis ojos lloran por ti",
-        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
-      },
-      "artists": [
-        {
-          "name": "Laura Naranjo",
-          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
-        }
-      ],
-      "duration_ms": 230571,
-      "name": "Mis ojos lloran por ti",
-      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Cristina",
         "url": "https://open.spotify.com/album/3nmlWxHwI4xYMeM1AaXR9C"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 221159,
       "name": "Cristina",
       "url": "https://open.spotify.com/track/2IflnDF3IgSICcREE2gD8s"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Mis ojos lloran por ti",
+        "url": "https://open.spotify.com/album/57d7YCLPJ9quoQ0mmDIWHp"
+      },
+      "artists": [
+        {
+          "name": "Laura Naranjo",
+          "url": "https://open.spotify.com/artist/3xf1o37bU0ANm6kT3YAlLr"
+        }
+      ],
+      "duration_ms": 230571,
+      "name": "Mis ojos lloran por ti",
+      "url": "https://open.spotify.com/track/4IQPpwVShAHMXx9Qehpp4B"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -839,22 +839,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Caramelo",
-        "url": "https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK"
-      },
-      "artists": [
-        {
-          "name": "Xandra Garsem",
-          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
-        }
-      ],
-      "duration_ms": 189090,
-      "name": "Caramelo",
-      "url": "https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Calma (Remix)",
         "url": "https://open.spotify.com/album/6kSXYCwKZbkzwDhcls7tlQ"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 172336,
       "name": "Calma - Remix",
       "url": "https://open.spotify.com/track/01afy14WMg3JohCIAb3oTe"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Caramelo",
+        "url": "https://open.spotify.com/album/0FKjMfSsbhKuvZUlqiobpK"
+      },
+      "artists": [
+        {
+          "name": "Xandra Garsem",
+          "url": "https://open.spotify.com/artist/14HpVzsOYc0nufSwtkMp1s"
+        }
+      ],
+      "duration_ms": 189090,
+      "name": "Caramelo",
+      "url": "https://open.spotify.com/track/19MixFiWncCkjVnqmqROdC"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1087,38 +1087,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Enam\u00f3rate de Alguien M\u00e1s",
-        "url": "https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "Enam\u00f3rate de Alguien M\u00e1s",
-      "url": "https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
-        "name": "Muerte En Hawaii",
-        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
-      },
-      "artists": [
-        {
-          "name": "Pau Sotomayor",
-          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
-        }
-      ],
-      "duration_ms": 186689,
-      "name": "Muerte En Hawaii",
-      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Otro trago",
         "url": "https://open.spotify.com/album/6YjTRY19KnNn9hU04Uq9Gx"
       },
@@ -1139,18 +1107,34 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Sola",
-        "url": "https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX"
+        "name": "Muerte En Hawaii",
+        "url": "https://open.spotify.com/album/2oSkI5ztZQV313ZNifkbDM"
       },
       "artists": [
         {
-          "name": "Carolina Garc\u00eda",
-          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+          "name": "Pau Sotomayor",
+          "url": "https://open.spotify.com/artist/056E7SvpkfW3APQoHf35zN"
         }
       ],
-      "duration_ms": 174223,
-      "name": "Sola",
-      "url": "https://open.spotify.com/track/3gTuB8IsX9vVTj6P4ISWUP"
+      "duration_ms": 186689,
+      "name": "Muerte En Hawaii",
+      "url": "https://open.spotify.com/track/4y2wnQgN93puWVDavsMTUi"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Enam\u00f3rate de Alguien M\u00e1s",
+        "url": "https://open.spotify.com/album/2ikNJTLWpYfUerZClTyIS0"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Enam\u00f3rate de Alguien M\u00e1s",
+      "url": "https://open.spotify.com/track/3i2C6htxWCFRNhGK7d8ZvS"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1167,6 +1151,22 @@
       "duration_ms": 284332,
       "name": "Asi Es La Vida",
       "url": "https://open.spotify.com/track/4A6G2xNppWG9MI0kmBMraX"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Sola",
+        "url": "https://open.spotify.com/album/4Q3tdLka7XUgTJV4nwkSJX"
+      },
+      "artists": [
+        {
+          "name": "Carolina Garc\u00eda",
+          "url": "https://open.spotify.com/artist/4WsjFGzfwGHbcbkRfxQbnC"
+        }
+      ],
+      "duration_ms": 174223,
+      "name": "Sola",
+      "url": "https://open.spotify.com/track/3gTuB8IsX9vVTj6P4ISWUP"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1203,22 +1203,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Me Reh\u00faso",
-        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
-      },
-      "artists": [
-        {
-          "name": "Ledes Diaz",
-          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
-        }
-      ],
-      "duration_ms": 172839,
-      "name": "Me Reh\u00faso",
-      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Dime Que No",
         "url": "https://open.spotify.com/album/7JfcZLkDCS64ip1f7bMsAn"
       },
@@ -1231,6 +1215,22 @@
       "duration_ms": 291500,
       "name": "Dime Que No",
       "url": "https://open.spotify.com/track/44v0ugSESJkLjn9ZbSMc5m"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/1vR7aiG4xXlNGoVXxXoC41"
+      },
+      "artists": [
+        {
+          "name": "Ledes Diaz",
+          "url": "https://open.spotify.com/artist/47IqbEaIiXjlosr45bjtPV"
+        }
+      ],
+      "duration_ms": 172839,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/2KUni5F9f3ERUIJk59Zg2S"
     },
     {
       "added_at": "2022-02-18 06:00:00",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2022-02-18 06:00:00",
       "album": {
-        "name": "Fantasias",
-        "url": "https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW"
-      },
-      "artists": [
-        {
-          "name": "Las Alas",
-          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
-        }
-      ],
-      "duration_ms": 187655,
-      "name": "Fantasias",
-      "url": "https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO"
-    },
-    {
-      "added_at": "2022-02-18 06:00:00",
-      "album": {
         "name": "Ya no tiene novio",
         "url": "https://open.spotify.com/album/5WB2xJxhg8ruc09drfG7y0"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 108027,
       "name": "Ya no tiene novio",
       "url": "https://open.spotify.com/track/0h00BCiowVxRusovJAOTgY"
+    },
+    {
+      "added_at": "2022-02-18 06:00:00",
+      "album": {
+        "name": "Fantasias",
+        "url": "https://open.spotify.com/album/04rcBlUOjNeKoMqh8fHAdW"
+      },
+      "artists": [
+        {
+          "name": "Las Alas",
+          "url": "https://open.spotify.com/artist/7EDkJGsKXojvsTgh8Yt1ar"
+        }
+      ],
+      "duration_ms": 187655,
+      "name": "Fantasias",
+      "url": "https://open.spotify.com/track/35iRS5s1Xro2LmPwHMGAAO"
     },
     {
       "added_at": "2022-02-18 06:00:00",

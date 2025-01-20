@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,834 likes - 52 songs - 2 hr 54 min
+[SUBSHIFT](https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv) - 11,839 likes - 52 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/2vpAyuy9HOTPjygPl63QuH.md) - [plain]
 | 8 | [Wide Open](https://open.spotify.com/track/6a7aKzKRgY54loG7reqXfI) | [Disco Lines](https://open.spotify.com/artist/5Kmr0b3ip8g9P2i0dLTC3Z), [No/Me](https://open.spotify.com/artist/4L0It80jhQQKMTU2r02nkL) | [Wide Open](https://open.spotify.com/album/1jhMDPST130snbmr1Oe0Np) | 3:36 |
 | 9 | [Pony feat\. Spektrum](https://open.spotify.com/track/0wHTFWA4lXEVy4O5URaLVA) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip), [Detlef](https://open.spotify.com/artist/5lZ8HC92jRDlyeq0vSxGeI), [TheConnect](https://open.spotify.com/artist/4iHQEWytJI7gcqaNLsyLn0), [Spektrum](https://open.spotify.com/artist/4Z0QHIb2JGll7LllNLeKyD) | [Pony](https://open.spotify.com/album/4XJj6w9B1gj4pWmtFtwS1P) | 3:50 |
 | 10 | [Demon Time](https://open.spotify.com/track/1DzRtXXDddTl5JQTHSLSn4) | [AYYBO](https://open.spotify.com/artist/0YVquC9RaJLYFNmlJFzkTV) | [Demon Time](https://open.spotify.com/album/1LRKqEptWx2UP4pEV2rjxg) | 3:21 |
-| 11 | [Paula Abdul \- Radio Edit](https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Paula Abdul](https://open.spotify.com/album/2VwwIv7odmc6l7SIFwB0vx) | 3:38 |
+| 11 | [Paula Abdul](https://open.spotify.com/track/1KPYXJHOpst0Dg7sMksL5J) | [Braydon Terzo](https://open.spotify.com/artist/7aPGojZ1i1CpRKa83QyUTq) | [Paula Abdul](https://open.spotify.com/album/2VwwIv7odmc6l7SIFwB0vx) | 3:38 |
 | 12 | [Damager](https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Damager](https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB) | 3:44 |
 | 13 | [More Love](https://open.spotify.com/track/241G2oKRWIvcmvf75awESt) | [nocapz.](https://open.spotify.com/artist/5lX1pToBfEkhwZ5Y5ZiRqT) | [More Love EP](https://open.spotify.com/album/2SS6Myp7aoF2hEkzIHj31L) | 3:42 |
 | 14 | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/track/0qRMIJvnJRicT1XI0zkFYH) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [Cave Studio](https://open.spotify.com/artist/0kSX3QNjUAn4USb074y9GE), [LexBlaze](https://open.spotify.com/artist/6qfJBqhy4o6zpyuONoegri) | [Get Loose \(feat\. LexBlaze\)](https://open.spotify.com/album/3vZ71dARheqUhoxXLp9gvf) | 2:29 |

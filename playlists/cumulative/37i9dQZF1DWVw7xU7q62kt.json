@@ -5703,6 +5703,28 @@
     },
     {
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/3zb2PgzfCcSQ4qYgRApIlu"
+      },
+      "artists": [
+        {
+          "name": "Gas Lab",
+          "url": "https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN"
+        },
+        {
+          "name": "Ted Taforo",
+          "url": "https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX"
+        }
+      ],
+      "date_added": "2025-01-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152026,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/32cwqzRNRzCLP8stZ5HNaK"
+    },
+    {
+      "album": {
         "name": "Sensia",
         "url": "https://open.spotify.com/album/7K8s4ba6y6Pq5RPAMBklU4"
       },
@@ -7370,7 +7392,7 @@
       ],
       "date_added": "2024-09-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 139625,
       "name": "Viaggio",
       "url": "https://open.spotify.com/track/2CbRmg4lse3yTJOLm6AK9q"

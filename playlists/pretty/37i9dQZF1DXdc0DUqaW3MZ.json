@@ -1,6 +1,6 @@
 {
   "description": "",
-  "num_followers": 358978,
+  "num_followers": 359037,
   "original_name": "Soultronic",
   "owner": {
     "name": "Spotify",
@@ -571,6 +571,26 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "TIMELESS",
+        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
+      },
+      "artists": [
+        {
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+        },
+        {
+          "name": "Charlotte Day Wilson",
+          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
+        }
+      ],
+      "duration_ms": 134714,
+      "name": "Still (feat. Charlotte Day Wilson)",
+      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "The Road To Hell Is Paved With Good Intentions",
         "url": "https://open.spotify.com/album/6geXPbIGVA3lSoA9CrQGhR"
       },
@@ -615,26 +635,6 @@
       "duration_ms": 233196,
       "name": "All This Love",
       "url": "https://open.spotify.com/track/6Pq4GUlLHeEvtxDE7QJLPE"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "TIMELESS",
-        "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
-      },
-      "artists": [
-        {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
-        },
-        {
-          "name": "Charlotte Day Wilson",
-          "url": "https://open.spotify.com/artist/3GQboECxDT1xqPPWC30p7v"
-        }
-      ],
-      "duration_ms": 134714,
-      "name": "Still (feat. Charlotte Day Wilson)",
-      "url": "https://open.spotify.com/track/099suT0NkLdJyKTa38oY0Q"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -819,6 +819,22 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
+        "name": "Swimming",
+        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "duration_ms": 242637,
+      "name": "Swimming",
+      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
         "name": "High Notes",
         "url": "https://open.spotify.com/album/3xYb527s3atH8TjDOjBYVv"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 152750,
       "name": "High Notes",
       "url": "https://open.spotify.com/track/103lIjaS9OeuVqHCmDVgpO"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
-        "name": "Swimming",
-        "url": "https://open.spotify.com/album/7pvPWVBCOPOo08SQAc4hDD"
-      },
-      "artists": [
-        {
-          "name": "Douvelle19",
-          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
-        }
-      ],
-      "duration_ms": 242637,
-      "name": "Swimming",
-      "url": "https://open.spotify.com/track/1ouaQKErGuX7vv8mtQrjv8"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "Cactus Water",
-        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 204240,
-      "name": "Cactus Water",
-      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "OUR LOVE (80'S)",
         "url": "https://open.spotify.com/album/7HNr7sE0iiucFcESRnOUjX"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 196975,
       "name": "High",
       "url": "https://open.spotify.com/track/1qXjbEZUlwXr8LCqVGyueY"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "Cactus Water",
+        "url": "https://open.spotify.com/album/0Hig8AAHnlRhJx6yIKdbQR"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 204240,
+      "name": "Cactus Water",
+      "url": "https://open.spotify.com/track/4mSnIJwKtvmhZHRzBItBQ6"
     },
     {
       "added_at": "2024-10-25 15:55:35",
@@ -1287,26 +1287,6 @@
     {
       "added_at": "2024-10-25 15:55:35",
       "album": {
-        "name": "SOLID (Adam Swim Remix)",
-        "url": "https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Das Cabrio",
-          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
-        },
-        {
-          "name": "Adam Swim",
-          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
-        }
-      ],
-      "duration_ms": 311578,
-      "name": "SOLID - Adam Swim Remix",
-      "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
-    },
-    {
-      "added_at": "2024-10-25 15:55:35",
-      "album": {
         "name": "Can't Afford Me",
         "url": "https://open.spotify.com/album/5fvbVCtflFWtKsOpidiAqw"
       },
@@ -1323,6 +1303,26 @@
       "duration_ms": 218424,
       "name": "Can't Afford Me",
       "url": "https://open.spotify.com/track/4yivH4KJCrvjOEL4ydbOMi"
+    },
+    {
+      "added_at": "2024-10-25 15:55:35",
+      "album": {
+        "name": "SOLID (Adam Swim Remix)",
+        "url": "https://open.spotify.com/album/0w7NLSySt7vtrmjtUHZDJu"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Das Cabrio",
+          "url": "https://open.spotify.com/artist/3nMN6fAKa2mtruEGyLB8AI"
+        },
+        {
+          "name": "Adam Swim",
+          "url": "https://open.spotify.com/artist/0ZHyEyFhetS8KsJ8taBr35"
+        }
+      ],
+      "duration_ms": 311578,
+      "name": "SOLID - Adam Swim Remix",
+      "url": "https://open.spotify.com/track/0eexYnEdmMy8AIICcQjkYi"
     },
     {
       "added_at": "2024-10-25 15:55:35",

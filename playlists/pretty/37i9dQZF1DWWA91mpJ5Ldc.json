@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica brasileira para temperar as receitas do dia-a-dia.",
-  "num_followers": 130488,
+  "num_followers": 130522,
   "original_name": "Cozinhando em Casa",
   "owner": {
     "name": "Spotify",
@@ -411,22 +411,18 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Areia Fina",
-        "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
+        "name": "Para Dias Ruins",
+        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
       },
       "artists": [
         {
-          "name": "Tiago Nacarato",
-          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
-        },
-        {
-          "name": "Fran",
-          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
+          "name": "Mahmundi",
+          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
         }
       ],
-      "duration_ms": 211200,
-      "name": "Areia Fina",
-      "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
+      "duration_ms": 190387,
+      "name": "Qual \u00c9 A Sua?",
+      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -447,18 +443,22 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Para Dias Ruins",
-        "url": "https://open.spotify.com/album/4EsFZtXhyj9RHiRb2V0eMT"
+        "name": "Areia Fina",
+        "url": "https://open.spotify.com/album/5u12FbXvV6Fs2fqGPngRbg"
       },
       "artists": [
         {
-          "name": "Mahmundi",
-          "url": "https://open.spotify.com/artist/6hfNZcbKvjpOnhhkFVKyt7"
+          "name": "Tiago Nacarato",
+          "url": "https://open.spotify.com/artist/3mwYj8Nb9VZbAnLpli7l8X"
+        },
+        {
+          "name": "Fran",
+          "url": "https://open.spotify.com/artist/1vrYVHeXLynVOgRmAxzHq1"
         }
       ],
-      "duration_ms": 190387,
-      "name": "Qual \u00c9 A Sua?",
-      "url": "https://open.spotify.com/track/62WFjVVAPJfBETQ574qJMP"
+      "duration_ms": 211200,
+      "name": "Areia Fina",
+      "url": "https://open.spotify.com/track/5UmNv7EMn8Re0LTNMDSUNE"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -623,6 +623,22 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
+        "name": "ZAM ZAM",
+        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
+      },
+      "artists": [
+        {
+          "name": "Lamparina",
+          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
+        }
+      ],
+      "duration_ms": 212433,
+      "name": "No Stress",
+      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
         "name": "Bota Pra Tocar Tim Maia",
         "url": "https://open.spotify.com/album/2EAtqaRZeyW3V4U5FNOWzs"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 186400,
       "name": "Calma",
       "url": "https://open.spotify.com/track/1IcI7zO7RvGKGWx5jRNouz"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
-        "name": "ZAM ZAM",
-        "url": "https://open.spotify.com/album/1e7w1jb3tAk4BRXZORhWa6"
-      },
-      "artists": [
-        {
-          "name": "Lamparina",
-          "url": "https://open.spotify.com/artist/7xGwSsxEISjWZGbaXiLN8z"
-        }
-      ],
-      "duration_ms": 212433,
-      "name": "No Stress",
-      "url": "https://open.spotify.com/track/2fIdSo9QPKWtlc29d9L0u3"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -819,6 +819,22 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
+        "name": "Tim Maia",
+        "url": "https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER"
+      },
+      "artists": [
+        {
+          "name": "Tim Maia",
+          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
+        }
+      ],
+      "duration_ms": 199944,
+      "name": "Brother, Father, Sister And Mother",
+      "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
         "name": "S\u00f3 Porque Eu Sou Mulher",
         "url": "https://open.spotify.com/album/5XOEPbMzQhqgXXKtxm8Isa"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 163535,
       "name": "S\u00f3 Porque Eu Sou Mulher",
       "url": "https://open.spotify.com/track/6gpnmxMmHCWpfkb1vkqasb"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
-        "name": "Tim Maia",
-        "url": "https://open.spotify.com/album/7mKOsYpS2N4KOYPWjSg1ER"
-      },
-      "artists": [
-        {
-          "name": "Tim Maia",
-          "url": "https://open.spotify.com/artist/0jOs0wnXCu1bGGP7kh5uIu"
-        }
-      ],
-      "duration_ms": 199944,
-      "name": "Brother, Father, Sister And Mother",
-      "url": "https://open.spotify.com/track/5s1VcHG8oLx5O1ZcrjA0m3"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -967,18 +967,22 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
-        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+        "name": "Rose",
+        "url": "https://open.spotify.com/album/47eeq0qvJTEwpxa4VjZEqT"
       },
       "artists": [
         {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+        },
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
         }
       ],
-      "duration_ms": 209906,
-      "name": "Choror\u00f4",
-      "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
+      "duration_ms": 186240,
+      "name": "Rose",
+      "url": "https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0"
     },
     {
       "added_at": "2025-01-02 14:44:47",
@@ -1011,26 +1015,6 @@
     {
       "added_at": "2025-01-02 14:44:47",
       "album": {
-        "name": "Rose",
-        "url": "https://open.spotify.com/album/47eeq0qvJTEwpxa4VjZEqT"
-      },
-      "artists": [
-        {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
-        },
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        }
-      ],
-      "duration_ms": 186240,
-      "name": "Rose",
-      "url": "https://open.spotify.com/track/627NaoKHBApkkNQ5YcWsO0"
-    },
-    {
-      "added_at": "2025-01-02 14:44:47",
-      "album": {
         "name": "A Pele do Futuro",
         "url": "https://open.spotify.com/album/1K9kdxE8GhOHuOnFYxoBco"
       },
@@ -1043,6 +1027,22 @@
       "duration_ms": 283137,
       "name": "Sublime",
       "url": "https://open.spotify.com/track/4eSjkLKo82UM5sQEwA72jw"
+    },
+    {
+      "added_at": "2025-01-02 14:44:47",
+      "album": {
+        "name": "Bom Mesmo \u00c9 Estar Debaixo D'\u00c1gua",
+        "url": "https://open.spotify.com/album/72RsVQVhqVjyBfsTCThFpq"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        }
+      ],
+      "duration_ms": 209906,
+      "name": "Choror\u00f4",
+      "url": "https://open.spotify.com/track/2Q8gzfsNUErbquwqiWGu9w"
     },
     {
       "added_at": "2025-01-02 14:44:47",

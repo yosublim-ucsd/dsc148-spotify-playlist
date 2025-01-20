@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0p23krMA4gKdZhFAApB41F">Diane Warren</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,766 likes - 571 songs - 1 day 15 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,769 likes - 571 songs - 1 day 15 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -357,10 +357,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 347 | [Love Will Lead You Back](https://open.spotify.com/track/7g0HwJR6bTDafnWGYcTnmY) | [Dominique](https://open.spotify.com/artist/0sNNIBEGza7dI940L14LDj) | [Love Will Lead You Back](https://open.spotify.com/album/2dfgc5hkjQzRI5dpB2QLoM) | 4:36 |
 | 348 | [Let's Start with Forever](https://open.spotify.com/track/1L7jyNfFhAaBMyyugmL7Kw) | [Color Me Badd](https://open.spotify.com/artist/1QtIfAa6y7w2JhxYJhYeUG) | [Time and Chance](https://open.spotify.com/album/5jxSoZ69jIYIPovvbXBgb9) | 4:28 |
 | 349 | [Dream Away \- Remastered](https://open.spotify.com/track/465LG7wvrcqgSK3RmBqR7q) | [Lisa Stansfield](https://open.spotify.com/artist/2jS7I1u7BpgWT9ssG62Zr1), [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3), [Ian Devaney](https://open.spotify.com/artist/6Ufm4BHf4ZdolpvcvYgH2S), [Bobby Boughton](https://open.spotify.com/artist/1xA45Y8FmnDUx45z3LAAOX), [Aidan McGovern](https://open.spotify.com/artist/5OIR6yx6e1qDEIca1MIJHz) | [So Natural](https://open.spotify.com/album/2LD5bvxCjhrtNEFRjfMUjR) | 4:36 |
-| 350 | [Do You Know the Way It Feels](https://open.spotify.com/track/3xpCXjw2j8eD8AgbJTMCFt) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [The Alesha Show \- Encore](https://open.spotify.com/album/6XgOQ5hjniqXJvKoacFTvQ) | 4:04 |
-| 351 | [Couldn't Say Goodbye](https://open.spotify.com/track/0YSXgWm3oTCWIo7RSUg17X) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Carrying a Torch](https://open.spotify.com/album/0mtNKWJ7tZkESd0k36ei5c) | 3:50 |
-| 352 | [The Day I Stop Loving You](https://open.spotify.com/track/38uNbRy3dodbNYx78I0Tuu) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:02 |
-| 353 | [All Your Attention](https://open.spotify.com/track/1oczBMCfGBDQeutRuSsgVO) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/4M8n7ibST6xGVllpqormRp) | 3:46 |
+| 350 | [Couldn't Say Goodbye](https://open.spotify.com/track/0YSXgWm3oTCWIo7RSUg17X) | [Tom Jones](https://open.spotify.com/artist/1T0wRBO0CK0vK8ouUMqEl5) | [Carrying a Torch](https://open.spotify.com/album/0mtNKWJ7tZkESd0k36ei5c) | 3:50 |
+| 351 | [Do You Know the Way It Feels](https://open.spotify.com/track/3xpCXjw2j8eD8AgbJTMCFt) | [Alesha Dixon](https://open.spotify.com/artist/5jLwURKdEPDvuYnac74s9c) | [The Alesha Show \- Encore](https://open.spotify.com/album/6XgOQ5hjniqXJvKoacFTvQ) | 4:04 |
+| 352 | [All Your Attention](https://open.spotify.com/track/1oczBMCfGBDQeutRuSsgVO) | [Daniel Bedingfield](https://open.spotify.com/artist/11hIqBsGRPztdjBHCSLClX) | [Second First Impression](https://open.spotify.com/album/4M8n7ibST6xGVllpqormRp) | 3:46 |
+| 353 | [The Day I Stop Loving You](https://open.spotify.com/track/38uNbRy3dodbNYx78I0Tuu) | [Oleta Adams](https://open.spotify.com/artist/1BMb6sQJVkmUyCuodmRs2g) | [Evolution](https://open.spotify.com/album/6lFqMVJY7wWl1WLRmSYoug) | 5:02 |
 | 354 | [Never Gonna Break My Heart Again](https://open.spotify.com/track/7BEg23J2vdnoAbQ46styWQ) | [Deborah Cox](https://open.spotify.com/artist/601893mmW5hl1FBOykWZHG) | [Deborah Cox \(Expanded\)](https://open.spotify.com/album/2SM60rNc5lbJXIxe7Ru4Xd) | 4:10 |
 | 355 | [\(I Wanna\) Feel Too Much](https://open.spotify.com/track/2FBP6usEyBWvc8P0029cjY) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [The Calm After ...](https://open.spotify.com/album/05Hh10LRqvS2SYOq5tzRTt) | 4:03 |
 | 356 | [Ordinary Day](https://open.spotify.com/track/0SAOnCMebI87Oy3xUBHaGS) | [Nick Lachey](https://open.spotify.com/artist/6ewMqjrF31lC8ywRsvm073) | [Ordinary Day](https://open.spotify.com/album/4Th3TOP5u65gHpVl8GLnJU) | 3:27 |
@@ -373,8 +373,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 363 | [Someone That You Loved Before](https://open.spotify.com/track/2hUOxRQa0WBLnbJEI1GJmv) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [Every Day Is a New Day](https://open.spotify.com/album/06Oz3WGqsrMwHz4VmtUORF) | 3:48 |
 | 364 | [Twisted](https://open.spotify.com/track/6kHZH0mvuI6mgCI8l5ZnEf) | [Kane Roberts](https://open.spotify.com/artist/12FdDK5z7grZIamaG6xTUK) | [Saints and Sinners](https://open.spotify.com/album/5bP6uh6TmVYOI6kVmDc7cz) | 4:05 |
 | 365 | [I Know You Too Well](https://open.spotify.com/track/3psObHKM9bzvpBZ3fnOoPt) | [Gloria Estefan](https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889) | [Destiny](https://open.spotify.com/album/04j2Z6lAlG5hHmZh3lLqaP) | 4:55 |
-| 366 | [If U Go](https://open.spotify.com/track/4kxckcfvTM73YQTkDckVFl) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:26 |
-| 367 | [I'll Come Runnin'](https://open.spotify.com/track/431rUCxqrubQs5Xay3va5N) | [Juice](https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF) | [Something To Feel](https://open.spotify.com/album/3pWZkAbvLJE40u4Mtrfagc) | 4:25 |
+| 366 | [I'll Come Runnin'](https://open.spotify.com/track/431rUCxqrubQs5Xay3va5N) | [Juice](https://open.spotify.com/artist/6MvVFJb6iebegaT6FLxEAF) | [Something To Feel](https://open.spotify.com/album/3pWZkAbvLJE40u4Mtrfagc) | 4:25 |
+| 367 | [If U Go](https://open.spotify.com/track/4kxckcfvTM73YQTkDckVFl) | [Belinda Carlisle](https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U) | [Kismet](https://open.spotify.com/album/6b5qQmB2IQBQULdHl73wtx) | 3:26 |
 | 368 | [Get Me Over You](https://open.spotify.com/track/7bewAo45qGMKe8sfvTJEoR) | [Jon Secada](https://open.spotify.com/artist/10n1KB2sjTrGdyuC83y8jW) | [Secada](https://open.spotify.com/album/3PkJHoLbpDhcnMiy2DDq9F) | 3:57 |
 | 369 | [Feels Like Home](https://open.spotify.com/track/6bYV3JaJuDQX3meBGx5jMe) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Sittin' On Top Of The World](https://open.spotify.com/album/6whu15IpXsztdwhOC43SXX) | 4:32 |
 | 370 | [Rain Song](https://open.spotify.com/track/3vvANCgxwW8W4AcBltmIWL) | [Air Traffic Controller](https://open.spotify.com/artist/2Oboq4Pq88TcC9eUn2HSW9) | [The One](https://open.spotify.com/album/6otLnUU2t5iyRLD08kbpCJ) | 5:41 |
@@ -549,8 +549,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 539 | [We Don't Know How to Say Goodbye](https://open.spotify.com/track/0EDFBgs5Ak6WLpGd9JkPRU) | [Clive Griffin](https://open.spotify.com/artist/7piYJtFSV6vtj2pK5TyHJI) | [Clive Griffin](https://open.spotify.com/album/0RvuKuxGlbBgXWECCHdw5F) | 3:46 |
 | 540 | [Look No Further](https://open.spotify.com/track/0uyGokPE0dbLIfKalDHkoS) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Boogie Wonderland](https://open.spotify.com/album/0RGoyYpy34eAWAspk6B1mh) | 4:32 |
 | 541 | [Dein Lied in mir \- Spanish Guitar](https://open.spotify.com/track/3PIZ7Y9GXAcGtWUtNF3Xd4) | [Isabel Varell](https://open.spotify.com/artist/7x7KzRIrx3os6s2zHGFuEL) | [Heut ist mein Tag](https://open.spotify.com/album/4OaGSN8f9ITyPQ7Ui7TYP8) | 4:16 |
-| 542 | [Je vous dis merci](https://open.spotify.com/track/7IkPmUXEccnXCalWiM4Nsg) | [Dominique Michalon](https://open.spotify.com/artist/6jPyZa4C2G5uSDZNOncrEx) | [Si je n'étais pas moi](https://open.spotify.com/album/3FThUQRthdThnpM7OsGKTr) | 3:53 |
-| 543 | [Till Somebody Loves You](https://open.spotify.com/track/3j1AJQSbFp6oDYWo79w9cK) | [Henry Lee Summer](https://open.spotify.com/artist/7wtiiuXdnWtATBrAxU9fnQ) | [Way Past Midnight](https://open.spotify.com/album/3THWD4bmH97uCn9TyzBShB) | 3:35 |
+| 542 | [Till Somebody Loves You](https://open.spotify.com/track/3j1AJQSbFp6oDYWo79w9cK) | [Henry Lee Summer](https://open.spotify.com/artist/7wtiiuXdnWtATBrAxU9fnQ) | [Way Past Midnight](https://open.spotify.com/album/3THWD4bmH97uCn9TyzBShB) | 3:35 |
+| 543 | [Je vous dis merci](https://open.spotify.com/track/7IkPmUXEccnXCalWiM4Nsg) | [Dominique Michalon](https://open.spotify.com/artist/6jPyZa4C2G5uSDZNOncrEx) | [Si je n'étais pas moi](https://open.spotify.com/album/3FThUQRthdThnpM7OsGKTr) | 3:53 |
 | 544 | [Naked With You](https://open.spotify.com/track/5lRL9916uS9asPPWdOGLi9) | [Maria Lawson](https://open.spotify.com/artist/5rFfHZBKTyo6zzHDLP6ORa) | [Maria Lawson](https://open.spotify.com/album/3VQk0n6NcEQa4aH9dwcJmx) | 3:31 |
 | 545 | [Avant de me donner à vous \(Version masterisée 2021\)](https://open.spotify.com/track/7nBAHYsO1nWhyBz4WBCn2G) | [Native](https://open.spotify.com/artist/7gT2KvWoPu7TVaN1go8Prj) | [Laura Mayne\-Kerbrat](https://open.spotify.com/album/2S7cfOfDTreaJ7TFbD7U3a) | 5:13 |
 | 546 | [Why Can't I?](https://open.spotify.com/track/3LRypkrjihgVnSwZRgtPrA) | [Blake](https://open.spotify.com/artist/14gwq97kYFSF26mMyHAus2) | [Start Over](https://open.spotify.com/album/2D21gBgqWGyQaklwrrmyk4) | 4:00 |
@@ -580,4 +580,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFC5Q0Qd39sZn.md) - [plain]
 | 570 | [Christmas Through Your Eyes](https://open.spotify.com/track/0InukWZwlDhnSq4QokvV8u) | [Dj Christmas](https://open.spotify.com/artist/42JvsMIE5eb8lBvIZ4zfIl) | [CHRISTMAS PARTY \(PERFECT BEST MIX!\)](https://open.spotify.com/album/2S48s85SJZHOnmsBRVqikw) | 0:53 |
 | 571 | [I'm Getting Used to You](https://open.spotify.com/track/4EM9yHufAESQ8eYSJy1rv1) | [Heaven is Shining](https://open.spotify.com/artist/6n2WzXV5xPZH3Iet8mKtd9) | [Dreaming of You](https://open.spotify.com/album/0OLKaGwn8zKJhrxHkUP6mR) | 4:05 |
 
-Snapshot ID: `AbnOigAAAADZnXa1miTnsdKEqoD8AglW`
+Snapshot ID: `AbnUSAAAAACpPDd5Wlmq0mfw7AXC/FoK`

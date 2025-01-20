@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- USA.
 
-3,460 songs - 7 day 16 hr 44 min
+3,461 songs - 7 day 16 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1399,6 +1399,7 @@
 | [I Love You, I'm Sorry \- Live From Vevo](https://open.spotify.com/track/6Ova4U0AcZrDqTaP0BWDjg) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 3:24 | 2024-10-29 | 2024-11-02 |
 | [I LUV HER \(feat\. T\-Pain\)](https://open.spotify.com/track/6jQeSeqn9AdsCe0NMrylxH) | [GloRilla](https://open.spotify.com/artist/2qoQgPAilErOKCwE2Y8wOG), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [GLORIOUS](https://open.spotify.com/album/4dUAojdnh5Bcho1n8bPSO0) | 2:56 | 2024-10-29 | 2024-11-02 |
 | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/track/2H2ytI7ompfNmRkI2sq8Uk) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [I LUV IT \(feat\. Playboi Carti\)](https://open.spotify.com/album/32kJxu3atkwQVZ6iOjw7UB) | 2:54 | 2024-04-16 | 2024-04-24 |
+| [I Might Brake, But I Won't](https://open.spotify.com/track/6tYLXzcuk69VO4FTQX7wE3) | [Thrilliam Angels](https://open.spotify.com/artist/5a2fp3W9g3nJdkLE6AoIfw) | [I Might Brake, But I Won't](https://open.spotify.com/album/4R2GTLJDp69ejnO3XMLJN5) | 1:30 | 2025-01-19 |  |
 | [I NEED YOU](https://open.spotify.com/track/0RDUnNaGubiseI1W9T3YTf) | [Jon Batiste](https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU) | [WE ARE](https://open.spotify.com/album/6kHFkPvL2X3rZPuS3CEMUE) | 2:37 | 2022-04-10 | 2022-04-13 |
 | [i need you more](https://open.spotify.com/track/0PI8WpeKqf32pC0X1jmNYc) | [Josiah Queen](https://open.spotify.com/artist/7yAymwuYh9RcpX84GSNIq2), [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [i need you more](https://open.spotify.com/album/6DQbYfEsxLuUMcdNZ9uULz) | 3:11 | 2024-08-20 | 2024-08-22 |
 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 | 2024-06-13 | 2024-12-04 |
@@ -3286,7 +3287,7 @@
 | [weren't for the wind](https://open.spotify.com/track/2A22iI0x4EYAVXNpKPhNEM) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [still hungover](https://open.spotify.com/album/4HXwURpJfDooeuEt2bZspn) | 3:13 | 2024-11-08 | 2024-11-10 |
 | [weren't for the wind](https://open.spotify.com/track/4v9alNvEjLjvqo4LNWwswl) | [Ella Langley](https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8) | [weren't for the wind](https://open.spotify.com/album/2EaHnwT7NSSG207GN94pfN) | 3:13 | 2024-10-22 | 2024-11-02 |
 | [Western Feel](https://open.spotify.com/track/3rlvbjfpqqWuQl2ETguChL) | [Bartel Union](https://open.spotify.com/artist/35kmc06K5kO5kruT5qrWzR) | [Western Feel](https://open.spotify.com/album/0WFdtGP2EZVOiemiJyr585) | 3:15 | 2022-02-17 | 2022-03-18 |
-| [Westside Connection](https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Westside Connection](https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG) | 2:44 | 2025-01-11 |  |
+| [Westside Connection](https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Westside Connection](https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG) | 2:44 | 2025-01-11 | 2025-01-20 |
 | [What a Girl Wants \- ft\. Sabrina Carpenter \- Live \- Spotify Anniversaries Version](https://open.spotify.com/track/3U7M2pRGnFk41lVf6bF2fH) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [The 25th Anniversary of Christina Aguilera \| Spotify Anniversaries LIVE](https://open.spotify.com/album/72220mUyaNDhUhz5oIk5yo) | 3:55 | 2024-10-08 | 2024-10-14 |
 | [WHAT DO U LIKE](https://open.spotify.com/track/6FWN1CXHBsePcbztrZI30o) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [SOULCRUSHER](https://open.spotify.com/album/0OkDwD8xxrcR7EF4qno5hC) | 2:16 | 2024-05-05 | 2024-05-15 |
 | [What Else Can I Do?](https://open.spotify.com/track/3XoYqtiWHhsk59frZupImG) | [Diane Guerrero](https://open.spotify.com/artist/18MFcGBHtyW0mU3ufcm0X1), [Stephanie Beatriz](https://open.spotify.com/artist/5PYToRCsrnvikZg3yl2JMr) | [Encanto \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/25L8ck3KGcmCo3901ztPzR) | 2:59 | 2021-12-27 | 2022-02-08 |

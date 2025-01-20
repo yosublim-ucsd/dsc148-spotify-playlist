@@ -1,12 +1,12 @@
 {
   "description": "This is Mike Bah\u00eda. The essential tracks, all in one playlist.",
-  "num_followers": 67654,
+  "num_followers": 67666,
   "original_name": "This Is Mike Bah\u00eda",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAArZShLgthDNmBJcuBkohxT",
+  "snapshot_id": "Z4rvAAAAAACoDV3UvEqbE3zM0Qt1Za4d",
   "tracks": [
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Magdalena",
+        "url": "https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn"
+      },
+      "artists": [
+        {
+          "name": "Alkilados",
+          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
+        },
+        {
+          "name": "Mike Bah\u00eda",
+          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
+        }
+      ],
+      "duration_ms": 198933,
+      "name": "Magdalena",
+      "url": "https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Contento",
         "url": "https://open.spotify.com/album/1bopo1g0hnpGoYAhgKLMO9"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 189250,
       "name": "Darte Amor",
       "url": "https://open.spotify.com/track/5sYE0C4VPBmEB1SYGAswh7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Magdalena",
-        "url": "https://open.spotify.com/album/3Q2Dk68u24rfrqUCFgbhrn"
-      },
-      "artists": [
-        {
-          "name": "Alkilados",
-          "url": "https://open.spotify.com/artist/2DP9xStkVVv753RBiEHXQB"
-        },
-        {
-          "name": "Mike Bah\u00eda",
-          "url": "https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6"
-        }
-      ],
-      "duration_ms": 198933,
-      "name": "Magdalena",
-      "url": "https://open.spotify.com/track/62ypvelYMjcZNQCHFBZL6z"
     },
     {
       "added_at": null,

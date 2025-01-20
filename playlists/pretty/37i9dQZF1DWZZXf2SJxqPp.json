@@ -1,6 +1,6 @@
 {
   "description": "Canciones deliciosas para relajarse y pasarla chill junto a la piscina. \ud83c\udfd6\ufe0f\ud83c\udfca\ud83c\udf79",
-  "num_followers": 142081,
+  "num_followers": 142095,
   "original_name": "\u00a1A la Alberca!",
   "owner": {
     "name": "Spotify",
@@ -159,18 +159,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Odyss\u00e9e - EP",
-        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+        "name": "Dancy Party",
+        "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
       },
       "artists": [
         {
-          "name": "L'Imp\u00e9ratrice",
-          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+          "name": "Lewis OfMan",
+          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
+        },
+        {
+          "name": "Alicia te quiero",
+          "url": "https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS"
         }
       ],
-      "duration_ms": 248892,
-      "name": "Agitations tropicales",
-      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+      "duration_ms": 194160,
+      "name": "Siesta Freestyle",
+      "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
     },
     {
       "added_at": "2025-01-07 00:33:20",
@@ -191,6 +195,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Odyss\u00e9e - EP",
+        "url": "https://open.spotify.com/album/346ZDnGgJudDau17EEyWWA"
+      },
+      "artists": [
+        {
+          "name": "L'Imp\u00e9ratrice",
+          "url": "https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU"
+        }
+      ],
+      "duration_ms": 248892,
+      "name": "Agitations tropicales",
+      "url": "https://open.spotify.com/track/2La21GqU4fKTQLcfLxTeoz"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "It Makes You Forget (Itgehane)",
         "url": "https://open.spotify.com/album/6KQHrwJdcPIUx1mb97b1Nj"
       },
@@ -207,22 +227,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Dancy Party",
-        "url": "https://open.spotify.com/album/3hifRrzUOFSl3BJo2JUqBE"
+        "name": "Caravelle",
+        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
       },
       "artists": [
         {
-          "name": "Lewis OfMan",
-          "url": "https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg"
-        },
-        {
-          "name": "Alicia te quiero",
-          "url": "https://open.spotify.com/artist/36sT4wc9jtpjKsa4kXZhkS"
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Siesta Freestyle",
-      "url": "https://open.spotify.com/track/6ZHKeoIOkvmYUIfxHLtE2Z"
+      "duration_ms": 209800,
+      "name": "Zoom Zoom",
+      "url": "https://open.spotify.com/track/1gWnuGAiTk3Q4yrIbwymUK"
     },
     {
       "added_at": "2024-05-03 06:00:00",
@@ -243,18 +259,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Caravelle",
-        "url": "https://open.spotify.com/album/0SuFqlCe5i30Fr75ZlPQVT"
+        "name": "times",
+        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
       },
       "artists": [
         {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+          "name": "SG Lewis",
+          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
         }
       ],
-      "duration_ms": 209800,
-      "name": "Zoom Zoom",
-      "url": "https://open.spotify.com/track/1gWnuGAiTk3Q4yrIbwymUK"
+      "duration_ms": 255826,
+      "name": "Chemicals",
+      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
       "added_at": "2024-07-01 18:06:28",
@@ -271,22 +287,6 @@
       "duration_ms": 250085,
       "name": "Technicolor Dream",
       "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "times",
-        "url": "https://open.spotify.com/album/6WlRyrfOBZGYA5u5TmloKY"
-      },
-      "artists": [
-        {
-          "name": "SG Lewis",
-          "url": "https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG"
-        }
-      ],
-      "duration_ms": 255826,
-      "name": "Chemicals",
-      "url": "https://open.spotify.com/track/2ORvnjpTAXtyTKnaGAgFIv"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -311,6 +311,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Rita Lee & Roberto \u2013 Classix Remix Vol. l",
         "url": "https://open.spotify.com/album/1dmsWqBXFAODlZHUyDCFZm"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 195840,
       "name": "Mania De Voc\u00ea - Dubdogz & Watzgood Remix / Radio Edit",
       "url": "https://open.spotify.com/track/6oxlS3jlN3aVslynpnCEe5"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2024-07-19 20:42:14",
@@ -543,22 +543,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "By Your Side",
-        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
-      },
-      "artists": [
-        {
-          "name": "Sofia Kourtesis",
-          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
-        }
-      ],
-      "duration_ms": 367362,
-      "name": "By Your Side",
-      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Profite (Remixes)",
         "url": "https://open.spotify.com/album/0r4TXEu7Lhl09VNfxThdC6"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 198688,
       "name": "Profite - Kazy Lambist Remix",
       "url": "https://open.spotify.com/track/7fbdTbr12vcmJhWgp58dvO"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "By Your Side",
+        "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
+      },
+      "artists": [
+        {
+          "name": "Sofia Kourtesis",
+          "url": "https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf"
+        }
+      ],
+      "duration_ms": 367362,
+      "name": "By Your Side",
+      "url": "https://open.spotify.com/track/69uPNh3b6VKdMZMbIKYQ1l"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
-      },
-      "artists": [
-        {
-          "name": "Tekkla",
-          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
-        }
-      ],
-      "duration_ms": 451362,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Jogar",
         "url": "https://open.spotify.com/album/3I7vdWnYNdlyvnNnYVQRUJ"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 259750,
       "name": "Segrados Do Samba",
       "url": "https://open.spotify.com/track/1QXImka15rUVwpakYivJ70"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/7y7jHMrvSDYruXa2oDerSG"
+      },
+      "artists": [
+        {
+          "name": "Tekkla",
+          "url": "https://open.spotify.com/artist/76o3uKSJd1sNG1SobShuvz"
+        }
+      ],
+      "duration_ms": 451362,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/5jcJHljcjmZckFRIG6PUHq"
     },
     {
       "added_at": "2023-12-12 19:01:54",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Rooftop",
-        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
-      },
-      "artists": [
-        {
-          "name": "Tab\u00fa",
-          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
-        }
-      ],
-      "duration_ms": 220038,
-      "name": "Rooftop",
-      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
         "name": "Mopedbart",
         "url": "https://open.spotify.com/album/1fFDgy6E12ZwqgIa8tgtQh"
       },
@@ -1355,6 +1339,22 @@
       "duration_ms": 312200,
       "name": "Mopedbart",
       "url": "https://open.spotify.com/track/4jnguj9VPJuGRfFJyAKUZS"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Rooftop",
+        "url": "https://open.spotify.com/album/3vjgqeZ3T1cDCY0RJnjAMD"
+      },
+      "artists": [
+        {
+          "name": "Tab\u00fa",
+          "url": "https://open.spotify.com/artist/3ixqu2cJbIKBGVVmAd9KY3"
+        }
+      ],
+      "duration_ms": 220038,
+      "name": "Rooftop",
+      "url": "https://open.spotify.com/track/2kFkb913w3d49GBzdXqarM"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1375,26 +1375,6 @@
       "duration_ms": 229386,
       "name": "Boney M Down",
       "url": "https://open.spotify.com/track/4o4lNCu3RYVl7B9BB3YEzF"
-    },
-    {
-      "added_at": "2024-07-09 06:43:32",
-      "album": {
-        "name": "Money Face",
-        "url": "https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v"
-      },
-      "artists": [
-        {
-          "name": "Sweatson Klank",
-          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
-        },
-        {
-          "name": "Kondi Band",
-          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
-        }
-      ],
-      "duration_ms": 258874,
-      "name": "Money Face",
-      "url": "https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1421,20 +1401,24 @@
       "url": "https://open.spotify.com/track/5YpB83TMSxvNw3F7SMikHq"
     },
     {
-      "added_at": "2023-08-14 14:58:41",
+      "added_at": "2024-07-09 06:43:32",
       "album": {
-        "name": "Stranded",
-        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+        "name": "Money Face",
+        "url": "https://open.spotify.com/album/26iLCPPHW9vxAzRKRDLa2v"
       },
       "artists": [
         {
-          "name": "Art of November",
-          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+          "name": "Sweatson Klank",
+          "url": "https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT"
+        },
+        {
+          "name": "Kondi Band",
+          "url": "https://open.spotify.com/artist/2IPZPCen311aH09425TKpF"
         }
       ],
-      "duration_ms": 229581,
-      "name": "Stranded",
-      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
+      "duration_ms": 258874,
+      "name": "Money Face",
+      "url": "https://open.spotify.com/track/7306M2GID0fmaOXmm4md7y"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1455,6 +1439,22 @@
       "duration_ms": 386443,
       "name": "Voodoo? - Lazywax Remix",
       "url": "https://open.spotify.com/track/2wHeYDrniYngp3did3McYD"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
+        "name": "Stranded",
+        "url": "https://open.spotify.com/album/1h2qxdjCHwe1KmiDPOi3CT"
+      },
+      "artists": [
+        {
+          "name": "Art of November",
+          "url": "https://open.spotify.com/artist/1jLcY4U2jXPcyzUg6FANBq"
+        }
+      ],
+      "duration_ms": 229581,
+      "name": "Stranded",
+      "url": "https://open.spotify.com/track/5Guana9cMolXSB28I8NG7w"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1513,22 +1513,6 @@
       "url": "https://open.spotify.com/track/4HHGxBEC3WOwmXLo6sQx1e"
     },
     {
-      "added_at": "2024-04-18 18:25:20",
-      "album": {
-        "name": "rimel",
-        "url": "https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA"
-      },
-      "artists": [
-        {
-          "name": "Girl Ultra",
-          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
-        }
-      ],
-      "duration_ms": 126066,
-      "name": "rimel",
-      "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
-    },
-    {
       "added_at": "2024-06-26 19:12:18",
       "album": {
         "name": "I Hear You",
@@ -1543,6 +1527,22 @@
       "duration_ms": 221666,
       "name": "Purple Horizon",
       "url": "https://open.spotify.com/track/2W3QmPhnMnjUqgYBdG7HsT"
+    },
+    {
+      "added_at": "2024-04-18 18:25:20",
+      "album": {
+        "name": "rimel",
+        "url": "https://open.spotify.com/album/31ZRBdyg1FQr7164MDDoTA"
+      },
+      "artists": [
+        {
+          "name": "Girl Ultra",
+          "url": "https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls"
+        }
+      ],
+      "duration_ms": 126066,
+      "name": "rimel",
+      "url": "https://open.spotify.com/track/0SURLSvwJxHyNRCXyZjNS3"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1603,6 +1603,22 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
+        "name": "Une Beat Encore",
+        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
+      },
+      "artists": [
+        {
+          "name": "Maulis\u00e9",
+          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
+        }
+      ],
+      "duration_ms": 196900,
+      "name": "Une Beat Encore",
+      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
+    },
+    {
+      "added_at": "2023-08-14 14:58:41",
+      "album": {
         "name": "Beginning (Totally Enormous Extinct Dinosaurs Remix)",
         "url": "https://open.spotify.com/album/7DcdXnMiadzyxSlQnLIsCo"
       },
@@ -1619,22 +1635,6 @@
       "duration_ms": 350851,
       "name": "Beginning - Totally Enormous Extinct Dinosaurs Remix",
       "url": "https://open.spotify.com/track/6DKILAX03B9oLWDaLkw1Vp"
-    },
-    {
-      "added_at": "2023-08-14 14:58:41",
-      "album": {
-        "name": "Une Beat Encore",
-        "url": "https://open.spotify.com/album/2LZbXiTsLFaX6tiERnEYfu"
-      },
-      "artists": [
-        {
-          "name": "Maulis\u00e9",
-          "url": "https://open.spotify.com/artist/00Z5AOJft0KxS7v35Btgm1"
-        }
-      ],
-      "duration_ms": 196900,
-      "name": "Une Beat Encore",
-      "url": "https://open.spotify.com/track/1IcvRPjADDdJVqraXMk5W0"
     },
     {
       "added_at": "2023-08-14 14:58:41",
@@ -1777,22 +1777,6 @@
       "url": "https://open.spotify.com/track/2jwKTqnvzrhj4b6Dhm07lW"
     },
     {
-      "added_at": "2024-07-01 18:08:26",
-      "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        }
-      ],
-      "duration_ms": 245786,
-      "name": "Crystallize",
-      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
-    },
-    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Better When We're Close",
@@ -1813,6 +1797,22 @@
       "url": "https://open.spotify.com/track/3ZGIZOg6juy0TkF1Gy8Gzg"
     },
     {
+      "added_at": "2024-07-01 18:08:26",
+      "album": {
+        "name": "Technicolor Dream",
+        "url": "https://open.spotify.com/album/5JStMEC0L8JLLLOqa1QA7W"
+      },
+      "artists": [
+        {
+          "name": "My Friend Catie",
+          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
+        }
+      ],
+      "duration_ms": 245786,
+      "name": "Crystallize",
+      "url": "https://open.spotify.com/track/2fEPdHusxsoRD22Yzm1JJV"
+    },
+    {
       "added_at": "2023-08-14 14:58:41",
       "album": {
         "name": "Souda Bay",
@@ -1831,18 +1831,18 @@
     {
       "added_at": "2023-08-14 14:58:41",
       "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/26TRY87O1WOXeGyq4oKacJ"
+        "name": "Zaim",
+        "url": "https://open.spotify.com/album/0Mv3pPeTjhUFZhipQBFbSU"
       },
       "artists": [
         {
-          "name": "Little Dragon",
-          "url": "https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps"
+          "name": "Butia",
+          "url": "https://open.spotify.com/artist/6xSMvc8GFkP4ElMTOeNH0h"
         }
       ],
-      "duration_ms": 210922,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/33mBfdwbMkOflInZGaLGJ2"
+      "duration_ms": 236136,
+      "name": "Zaim",
+      "url": "https://open.spotify.com/track/3O5qrnMGBUgyqHKwvj2UL4"
     }
   ],
   "unique_name": "\u00a1A la Alberca!",

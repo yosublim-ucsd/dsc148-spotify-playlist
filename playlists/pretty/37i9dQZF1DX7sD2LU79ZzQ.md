@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Daun Jatuh
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,969 likes - 83 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 130,001 likes - 83 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "Los abanderados del rock argentino y sus himnos.",
-  "num_followers": 1143367,
+  "num_followers": 1143423,
   "original_name": "Iconos del Rock Argentino",
   "owner": {
     "name": "Spotify",
@@ -107,6 +107,22 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
+        "name": "Doble Vida (Remastered)",
+        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+      },
+      "artists": [
+        {
+          "name": "Soda Stereo",
+          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+        }
+      ],
+      "duration_ms": 346053,
+      "name": "En La Ciudad De La Furia - Remasterizado 2007",
+      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
         "name": "Originales - 20 Exitos",
         "url": "https://open.spotify.com/album/3AWurTYrtIfp7HwHg48DxV"
       },
@@ -139,22 +155,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Palabras m\u00e1s, palabras menos",
-        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
-      },
-      "artists": [
-        {
-          "name": "Los Rodriguez",
-          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
-        }
-      ],
-      "duration_ms": 234813,
-      "name": "Para no olvidar",
-      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Ah\u00ed Vamos",
         "url": "https://open.spotify.com/album/7KHNK7l8peO0t95I1v7BmP"
       },
@@ -171,34 +171,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Doble Vida (Remastered)",
-        "url": "https://open.spotify.com/album/0mEY1U7SZdIwDWylFm2UC4"
+        "name": "Palabras m\u00e1s, palabras menos",
+        "url": "https://open.spotify.com/album/0vcyVi1DEoFqSkGEJ8H46t"
       },
       "artists": [
         {
-          "name": "Soda Stereo",
-          "url": "https://open.spotify.com/artist/7An4yvF7hDYDolN4m5zKBp"
+          "name": "Los Rodriguez",
+          "url": "https://open.spotify.com/artist/3XkJyJgJDxnjdQgH0zfT8K"
         }
       ],
-      "duration_ms": 346053,
-      "name": "En La Ciudad De La Furia - Remasterizado 2007",
-      "url": "https://open.spotify.com/track/7J2885UBOaG6x3LLkp2YGf"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "La Era De La Boludez",
-        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
-      },
-      "artists": [
-        {
-          "name": "Divididos",
-          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
-        }
-      ],
-      "duration_ms": 313733,
-      "name": "\u00bfQu\u00e9 Ves?",
-      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
+      "duration_ms": 234813,
+      "name": "Para no olvidar",
+      "url": "https://open.spotify.com/track/1ZGs4W7LBJy68hRPTsvMFc"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -215,6 +199,22 @@
       "duration_ms": 311893,
       "name": "El amor despu\u00e9s del amor",
       "url": "https://open.spotify.com/track/1PQzZbitOJ6XPFg7FFzsKQ"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Era De La Boludez",
+        "url": "https://open.spotify.com/album/4D1aIzUYKG6jytRjgT0QIx"
+      },
+      "artists": [
+        {
+          "name": "Divididos",
+          "url": "https://open.spotify.com/artist/6ZIgPKHzpcswB8zh7sRIhx"
+        }
+      ],
+      "duration_ms": 313733,
+      "name": "\u00bfQu\u00e9 Ves?",
+      "url": "https://open.spotify.com/track/0aad6vDkOmu9d1aFNvOwYC"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -247,22 +247,6 @@
       "duration_ms": 202513,
       "name": "Seminare - 2021 Remasterizado",
       "url": "https://open.spotify.com/track/61zbxB39zUY5oxBvEvvMYv"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Locura",
-        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
-      },
-      "artists": [
-        {
-          "name": "Virus",
-          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
-        }
-      ],
-      "duration_ms": 273306,
-      "name": "Pronta Entrega",
-      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -311,6 +295,22 @@
       "duration_ms": 264840,
       "name": "Cr\u00edmenes perfectos",
       "url": "https://open.spotify.com/track/6guoJhM9n5Fm7npXJ1rfsM"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Locura",
+        "url": "https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r"
+      },
+      "artists": [
+        {
+          "name": "Virus",
+          "url": "https://open.spotify.com/artist/0G7A5LzQAs2egiQl7hO5tV"
+        }
+      ],
+      "duration_ms": 273306,
+      "name": "Pronta Entrega",
+      "url": "https://open.spotify.com/track/4UXE0ZLGIoLUOFqTECzoQe"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -655,22 +655,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Ya No Mires Atr\u00e1s",
-        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
-      },
-      "artists": [
-        {
-          "name": "Luis Alberto Spinetta",
-          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
-        }
-      ],
-      "duration_ms": 223532,
-      "name": "Ya No Mires Atr\u00e1s",
-      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Lo Mejor de Pescado Rabioso",
         "url": "https://open.spotify.com/album/3XxDmLiEBKqFu1MiZ3fayw"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 285093,
       "name": "Sin documentos",
       "url": "https://open.spotify.com/track/4BzQlAd7QUdqRydbEnO5R5"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Ya No Mires Atr\u00e1s",
+        "url": "https://open.spotify.com/album/6o3S8QBSO9oVNAbcVxdJsa"
+      },
+      "artists": [
+        {
+          "name": "Luis Alberto Spinetta",
+          "url": "https://open.spotify.com/artist/1MuQ2m2tg7naeRGAOxYZer"
+        }
+      ],
+      "duration_ms": 223532,
+      "name": "Ya No Mires Atr\u00e1s",
+      "url": "https://open.spotify.com/track/535rcofAUexzCqS9xHkVkv"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -831,22 +831,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "La Biblia",
-        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
-      },
-      "artists": [
-        {
-          "name": "Vox Dei",
-          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
-        }
-      ],
-      "duration_ms": 454530,
-      "name": "Libros Sapienciales",
-      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Tiempo de Resurrecci\u00f3n",
         "url": "https://open.spotify.com/album/57QC2S4mWSAP2MwVIB40QM"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 169525,
       "name": "Ma\u00f1ana Campestre",
       "url": "https://open.spotify.com/track/1f3uOzmizXQfkezHCdu53L"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "La Biblia",
+        "url": "https://open.spotify.com/album/5rTDeb1l0Mj4vNDKfvCRd6"
+      },
+      "artists": [
+        {
+          "name": "Vox Dei",
+          "url": "https://open.spotify.com/artist/1sTOtMflHQ1ULtuozST5RR"
+        }
+      ],
+      "duration_ms": 454530,
+      "name": "Libros Sapienciales",
+      "url": "https://open.spotify.com/track/5SS4Eu297wAFbXjpuagLe3"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Los Gatos",
-        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
-      },
-      "artists": [
-        {
-          "name": "Los Gatos",
-          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
-        }
-      ],
-      "duration_ms": 130213,
-      "name": "Ayer Nom\u00e1s",
-      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
         "name": "Manal",
         "url": "https://open.spotify.com/album/1VoglV38RPcTn7P9yZxO4C"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 230146,
       "name": "No Pibe",
       "url": "https://open.spotify.com/track/1XjCxUmgXzqLEGzqUse3qK"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Los Gatos",
+        "url": "https://open.spotify.com/album/0vTTjKizDeDsQJKzdT7s8G"
+      },
+      "artists": [
+        {
+          "name": "Los Gatos",
+          "url": "https://open.spotify.com/artist/7wL1RaL0IEr7bK2WKV9sEU"
+        }
+      ],
+      "duration_ms": 130213,
+      "name": "Ayer Nom\u00e1s",
+      "url": "https://open.spotify.com/track/20ILhYY5QbmsNc8KKBf8w5"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1011,18 +1011,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Lobo Suelto",
-        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
+        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
+        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
       },
       "artists": [
         {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
+          "name": "Celeste Carballo",
+          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
         }
       ],
-      "duration_ms": 231533,
-      "name": "Un \u00c1ngel para Tu Soledad",
-      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
+      "duration_ms": 380933,
+      "name": "Desconf\u00edo - En Vivo",
+      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1059,18 +1059,18 @@
     {
       "added_at": "2024-11-11 16:58:11",
       "album": {
-        "name": "Se Vuelve Cada D\u00eda Mas Loca por Amor al Blues (En Vivo)",
-        "url": "https://open.spotify.com/album/0xkI9pPIRA4NkPQeU1BKrp"
+        "name": "Lobo Suelto",
+        "url": "https://open.spotify.com/album/6JrFFJuOdqxp1lOMTuOrlF"
       },
       "artists": [
         {
-          "name": "Celeste Carballo",
-          "url": "https://open.spotify.com/artist/1FIaDvGsK56jO0K0BUs1iW"
+          "name": "Patricio Rey y sus Redonditos de Ricota",
+          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
         }
       ],
-      "duration_ms": 380933,
-      "name": "Desconf\u00edo - En Vivo",
-      "url": "https://open.spotify.com/track/131lN5ENwmfSE5SWl3i46Q"
+      "duration_ms": 231533,
+      "name": "Un \u00c1ngel para Tu Soledad",
+      "url": "https://open.spotify.com/track/7fbuABzGfagLWkI54bxL6c"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1087,22 +1087,6 @@
       "duration_ms": 349260,
       "name": "Regtest (Happy Valley Rock)",
       "url": "https://open.spotify.com/track/7o1z5DyXMpgug1NCCDCmky"
-    },
-    {
-      "added_at": "2024-11-11 16:58:11",
-      "album": {
-        "name": "Cordero Atado",
-        "url": "https://open.spotify.com/album/2qP2OCdnHQz3cwrxyqjzEk"
-      },
-      "artists": [
-        {
-          "name": "Patricio Rey y sus Redonditos de Ricota",
-          "url": "https://open.spotify.com/artist/6byQKddO1b34lXC2ZEjehQ"
-        }
-      ],
-      "duration_ms": 176840,
-      "name": "Yo Can\u00edbal",
-      "url": "https://open.spotify.com/track/2bWzlW7v7jQlZF8MQ5bWGb"
     },
     {
       "added_at": "2024-11-11 16:58:11",
@@ -1135,6 +1119,22 @@
       "duration_ms": 170546,
       "name": "Mil Horas",
       "url": "https://open.spotify.com/track/7uKe068f3goRFEhH6MCbun"
+    },
+    {
+      "added_at": "2024-11-11 16:58:11",
+      "album": {
+        "name": "Piano Bar",
+        "url": "https://open.spotify.com/album/2ATdTlBlalJD2fbQvCpLvL"
+      },
+      "artists": [
+        {
+          "name": "Charly Garc\u00eda",
+          "url": "https://open.spotify.com/artist/3jO7X5KupvwmWTHGtHgcgo"
+        }
+      ],
+      "duration_ms": 135853,
+      "name": "Demoliendo Hoteles",
+      "url": "https://open.spotify.com/track/0CZ1zfFjhjixiBKB8kbCdt"
     }
   ],
   "unique_name": "Iconos del Rock Argentino",

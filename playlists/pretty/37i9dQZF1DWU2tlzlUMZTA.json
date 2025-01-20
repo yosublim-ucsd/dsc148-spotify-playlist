@@ -1,6 +1,6 @@
 {
   "description": "Only hits! Cover- Heeriye by Jasleen Royal feat. Arijit Singh",
-  "num_followers": 120191,
+  "num_followers": 120270,
   "original_name": "I-Pop Superhits",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,22 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
+        "name": "The Carnival",
+        "url": "https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE"
+      },
+      "artists": [
+        {
+          "name": "King",
+          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
+        }
+      ],
+      "duration_ms": 270000,
+      "name": "Tu Aake Dekhle",
+      "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
         "name": "Chaand Baaliyan",
         "url": "https://open.spotify.com/album/6AJaDEafyyyWWXHZQtcFGe"
       },
@@ -355,6 +371,22 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
+        "name": "Blue Eyes",
+        "url": "https://open.spotify.com/album/2iPimv2hsVBJZU1fvBfwkB"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 220943,
+      "name": "Blue Eyes",
+      "url": "https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
         "name": "HIDDEN GEMS",
         "url": "https://open.spotify.com/album/69VUBIbtxtouNd7eKKD6BI"
       },
@@ -371,38 +403,6 @@
       "duration_ms": 114418,
       "name": "TERE TE",
       "url": "https://open.spotify.com/track/0ptqV9ySE8HVbWblGdv3Eb"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
-        "name": "The Carnival",
-        "url": "https://open.spotify.com/album/5eF8So0MxcSwx5mWSG93QE"
-      },
-      "artists": [
-        {
-          "name": "King",
-          "url": "https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU"
-        }
-      ],
-      "duration_ms": 270000,
-      "name": "Tu Aake Dekhle",
-      "url": "https://open.spotify.com/track/5BKKKNwrebowaMoUdBaNby"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
-        "name": "Blue Eyes",
-        "url": "https://open.spotify.com/album/2iPimv2hsVBJZU1fvBfwkB"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 220943,
-      "name": "Blue Eyes",
-      "url": "https://open.spotify.com/track/7wW9scVNLYFLsmBb1yAUmS"
     },
     {
       "added_at": "2024-11-20 05:22:08",
@@ -471,34 +471,6 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Brown Munde",
-        "url": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        },
-        {
-          "name": "Gminxr",
-          "url": "https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS"
-        },
-        {
-          "name": "Gurinder Gill",
-          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
-        },
-        {
-          "name": "Shinda Kahlon",
-          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
-        }
-      ],
-      "duration_ms": 254400,
-      "name": "Brown Munde",
-      "url": "https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
         "name": "Akhiyaan",
         "url": "https://open.spotify.com/album/4MBCBnMZyFFv8Ch9elmLsL"
       },
@@ -535,38 +507,6 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Bijlee Bijlee",
-        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
-      },
-      "artists": [
-        {
-          "name": "Harrdy Sandhu",
-          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
-        }
-      ],
-      "duration_ms": 168450,
-      "name": "Bijlee Bijlee",
-      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
-        "name": "Desi Kalakaar",
-        "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        }
-      ],
-      "duration_ms": 224444,
-      "name": "Love Dose",
-      "url": "https://open.spotify.com/track/1QZRCi2Z1DQQaR6bGAzhtN"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
         "name": "High Heels",
         "url": "https://open.spotify.com/album/0w0QR9R3DL9fPiGFej2hA1"
       },
@@ -583,6 +523,22 @@
       "duration_ms": 297770,
       "name": "High Heels",
       "url": "https://open.spotify.com/track/7q7eYVerltlW2sYBuga6Mj"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
+        "name": "Desi Kalakaar",
+        "url": "https://open.spotify.com/album/3IbKcMtNRze5t0ANwdp45H"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        }
+      ],
+      "duration_ms": 224444,
+      "name": "Love Dose",
+      "url": "https://open.spotify.com/track/1QZRCi2Z1DQQaR6bGAzhtN"
     },
     {
       "added_at": "2024-11-20 05:22:08",
@@ -607,6 +563,50 @@
       "duration_ms": 255000,
       "name": "Filhall",
       "url": "https://open.spotify.com/track/7DE0I3buHcns00C0YEsYsY"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
+        "name": "Bijlee Bijlee",
+        "url": "https://open.spotify.com/album/3tG0IGB24sRhGFLs5F1Km8"
+      },
+      "artists": [
+        {
+          "name": "Harrdy Sandhu",
+          "url": "https://open.spotify.com/artist/4ITkqBlf5eoVCOFwsJCnqo"
+        }
+      ],
+      "duration_ms": 168450,
+      "name": "Bijlee Bijlee",
+      "url": "https://open.spotify.com/track/1iZLpuGMr4tn1F5bZu32Kb"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
+        "name": "Brown Munde",
+        "url": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        },
+        {
+          "name": "Gminxr",
+          "url": "https://open.spotify.com/artist/4vvW590Gq8dNWsP5BM9FkS"
+        },
+        {
+          "name": "Gurinder Gill",
+          "url": "https://open.spotify.com/artist/5DHi2MeoRgAwPE0A0qwRMl"
+        },
+        {
+          "name": "Shinda Kahlon",
+          "url": "https://open.spotify.com/artist/6aQfrWHwAcuY8IYItbChZh"
+        }
+      ],
+      "duration_ms": 254400,
+      "name": "Brown Munde",
+      "url": "https://open.spotify.com/track/58f4twRnbZOOVUhMUpplJ4"
     },
     {
       "added_at": "2024-11-20 05:22:08",
@@ -759,26 +759,6 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Khalasi | Coke Studio Bharat",
-        "url": "https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq"
-      },
-      "artists": [
-        {
-          "name": "Aditya Gadhvi",
-          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
-        },
-        {
-          "name": "Achint",
-          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
-        }
-      ],
-      "duration_ms": 258260,
-      "name": "Khalasi | Coke Studio Bharat",
-      "url": "https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
         "name": "Bewafa Tera Masoom Chehra",
         "url": "https://open.spotify.com/album/5u8vmQ2Y0KRf5cYMa1VwV4"
       },
@@ -799,6 +779,26 @@
       "duration_ms": 242149,
       "name": "Bewafa Tera Masoom Chehra",
       "url": "https://open.spotify.com/track/2plj6f8TqOF0YNuHd2VzJD"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
+        "name": "Khalasi | Coke Studio Bharat",
+        "url": "https://open.spotify.com/album/0cUSfUJILJ9I38bntZKSLq"
+      },
+      "artists": [
+        {
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        },
+        {
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
+        }
+      ],
+      "duration_ms": 258260,
+      "name": "Khalasi | Coke Studio Bharat",
+      "url": "https://open.spotify.com/track/5LSAafg2oH9YPgf3EG17iw"
     },
     {
       "added_at": "2024-11-20 05:22:08",
@@ -855,6 +855,30 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
+        "name": "Honey 3.0",
+        "url": "https://open.spotify.com/album/1M0Pn9Sjn6dxI5rxOJQW5V"
+      },
+      "artists": [
+        {
+          "name": "Yo Yo Honey Singh",
+          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
+        },
+        {
+          "name": "Rony Ajnali",
+          "url": "https://open.spotify.com/artist/0N2lT1m7rG0klYHZrkyMPw"
+        },
+        {
+          "name": "Gill Machhrai",
+          "url": "https://open.spotify.com/artist/4r4r2gGaA74pul0n6FiRsE"
+        }
+      ],
+      "duration_ms": 207789,
+      "name": "Kalaastar (From \"Honey 3.0\")",
+      "url": "https://open.spotify.com/track/0uR4wgF6ksqIEYpztFWGog"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
         "name": "Genda Phool (feat. Payal Dev)",
         "url": "https://open.spotify.com/album/4wGiiYsZ5QR9vj3fa0L7UV"
       },
@@ -887,26 +911,6 @@
       "duration_ms": 171473,
       "name": "Saajan Ve",
       "url": "https://open.spotify.com/track/3iFYJMrRS0fLrwDNVbqNF0"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
-        "name": "International Villager",
-        "url": "https://open.spotify.com/album/1CQeKPICg50fn9bkhesH5S"
-      },
-      "artists": [
-        {
-          "name": "Yo Yo Honey Singh",
-          "url": "https://open.spotify.com/artist/7uIbLdzzSEqnX0Pkrb56cR"
-        },
-        {
-          "name": "Gippy Grewal",
-          "url": "https://open.spotify.com/artist/5kvGYraWFlXs2Jbt1Kphn8"
-        }
-      ],
-      "duration_ms": 256000,
-      "name": "Angreji Beat",
-      "url": "https://open.spotify.com/track/4psVrPZy07uZTLwc3Mqz4V"
     },
     {
       "added_at": "2024-11-20 05:22:08",
@@ -947,46 +951,6 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
-        "name": "Feelings",
-        "url": "https://open.spotify.com/album/06nUJVt5CG7tZPQ7G1JNNU"
-      },
-      "artists": [
-        {
-          "name": "Sumit Goswami",
-          "url": "https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM"
-        }
-      ],
-      "duration_ms": 224805,
-      "name": "Feelings",
-      "url": "https://open.spotify.com/track/0LRNOwAcNjPMxTYQahFo3S"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
-        "name": "Teri Aankhon Mein",
-        "url": "https://open.spotify.com/album/77dwEKk1JI2JN9L5tg8d7t"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        },
-        {
-          "name": "Neha Kakkar",
-          "url": "https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI"
-        },
-        {
-          "name": "Manan Bhardwaj",
-          "url": "https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh"
-        }
-      ],
-      "duration_ms": 261757,
-      "name": "Teri Aankhon Mein",
-      "url": "https://open.spotify.com/track/3wmI2n0Whs6kg4MT8jFRU1"
-    },
-    {
-      "added_at": "2024-11-20 05:22:08",
-      "album": {
         "name": "Dil Tod Ke",
         "url": "https://open.spotify.com/album/5mWY0yGOJSTeTN8zQmbm9L"
       },
@@ -1007,6 +971,22 @@
     {
       "added_at": "2024-11-20 05:22:08",
       "album": {
+        "name": "Feelings",
+        "url": "https://open.spotify.com/album/06nUJVt5CG7tZPQ7G1JNNU"
+      },
+      "artists": [
+        {
+          "name": "Sumit Goswami",
+          "url": "https://open.spotify.com/artist/7h79JnwJEjrnCCyGrxTdZM"
+        }
+      ],
+      "duration_ms": 224805,
+      "name": "Feelings",
+      "url": "https://open.spotify.com/track/0LRNOwAcNjPMxTYQahFo3S"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
         "name": "ONE (Original Never Ends)",
         "url": "https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw"
       },
@@ -1019,6 +999,30 @@
       "duration_ms": 181764,
       "name": "She Move It Like",
       "url": "https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd"
+    },
+    {
+      "added_at": "2024-11-20 05:22:08",
+      "album": {
+        "name": "Leja Re",
+        "url": "https://open.spotify.com/album/3Qx3ApbCoc45FxqRVkty7E"
+      },
+      "artists": [
+        {
+          "name": "Tanishk Bagchi",
+          "url": "https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt"
+        },
+        {
+          "name": "Dhvani Bhanushali",
+          "url": "https://open.spotify.com/artist/1OPqAyxsQc8mcRmoNBAnVk"
+        },
+        {
+          "name": "Rashmi Virag",
+          "url": "https://open.spotify.com/artist/5r2baeTwcCJnuIsDIlxUJo"
+        }
+      ],
+      "duration_ms": 205974,
+      "name": "Leja Re",
+      "url": "https://open.spotify.com/track/68iBMrMRc1rg4eAxJbvxch"
     }
   ],
   "unique_name": "I-Pop Superhits",

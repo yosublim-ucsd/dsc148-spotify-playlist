@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 84579,
+  "num_followers": 84595,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAADWO8rV80s8SubBa9DR5dGg",
+  "snapshot_id": "Z4rvAAAAAADRPuRbNWRCPcbi1RjyK1r4",
   "tracks": [
     {
       "added_at": null,
@@ -755,26 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Star",
-        "url": "https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD"
-      },
-      "artists": [
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "Lil Tjay",
-          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
-        }
-      ],
-      "duration_ms": 180234,
-      "name": "All Star (with Lil Tjay)",
-      "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prada (feat. Lil Tecca)",
         "url": "https://open.spotify.com/album/2ut84dwAs20nDuTqnvKsDQ"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 151585,
       "name": "Prada (feat. Lil Tecca)",
       "url": "https://open.spotify.com/track/4wuMS7NGVbU7hdu94K5icd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Star",
+        "url": "https://open.spotify.com/album/45LIS5vxDcdMniZcD6biUD"
+      },
+      "artists": [
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "Lil Tjay",
+          "url": "https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR"
+        }
+      ],
+      "duration_ms": 180234,
+      "name": "All Star (with Lil Tjay)",
+      "url": "https://open.spotify.com/track/62uolmVjOio9xIfwDM1ZvC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-1,722 songs - 3 day 17 hr 21 min
+1,724 songs - 3 day 17 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,7 +31,7 @@
 | [911](https://open.spotify.com/track/6gvuOwQYMw0oz0oe6x7x9O) | [waterbaby](https://open.spotify.com/artist/7ig7r3UikvL9qJe7pQvCBn) | [911](https://open.spotify.com/album/7pvGWk5SR5IIMB1GaUL8Mc) | 2:52 | 2023-05-04 | 2023-10-20 |
 | [91:an](https://open.spotify.com/track/6EvSxIfJCvDwglAIpHBlNR) | [Markus Krunegård](https://open.spotify.com/artist/3P6ePaE5unCm7vjccfcBAe) | [TUTTI FRUTTI \- från lokalen under sushin](https://open.spotify.com/album/3YAftoNJ88ciNZp7jWPiOQ) | 3:12 | 2021-12-16 | 2022-03-10 |
 | [94an](https://open.spotify.com/track/4E0SqGrKjIqlgzTEZU0Zbw) | [Emma\-Lee Andersson](https://open.spotify.com/artist/3ldvnZAhBB2vAaqMWIvqbY) | [94an](https://open.spotify.com/album/4A44yJWTj9f7ADwJolvoUX) | 2:57 | 2022-04-01 | 2022-09-26 |
-| [99 fel](https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [KALLAX CARGO](https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD) | 3:43 | 2024-11-07 |  |
+| [99 fel](https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6) | [Movits!](https://open.spotify.com/artist/3Rjud126EhtcSDte9lORR7), [Molly Hammar](https://open.spotify.com/artist/4mh3iy6yf2oZYSiy2fdccM) | [KALLAX CARGO](https://open.spotify.com/album/2jrJbLNEFJDwxBgQrHSrDD) | 3:43 | 2024-11-07 | 2025-01-20 |
 | [A Bowl of Unripe Fruit](https://open.spotify.com/track/7KITXnfw8N8OKFJX1zZ7PD) | [Matilda Lyn](https://open.spotify.com/artist/5NwRuQu0Ed5wSjLeit3On0) | [A Bowl of Unripe Fruit](https://open.spotify.com/album/4fNncV3kbiDqfmJ6KBUR5d) | 3:22 | 2023-06-29 | 2023-11-12 |
 | [A Lover Like Me](https://open.spotify.com/track/3WfvvgQ2RJLJiCbFP67EbI) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [A Lover Like Me](https://open.spotify.com/album/6mQKBQMp9uISJB9HleU9QA) | 2:52 | 2023-02-02 | 2023-04-05 |
 | [A Power In Letting Go](https://open.spotify.com/track/4ApPQVXgiVTV17lmnC4Ld2) | [Vargas & Lagola](https://open.spotify.com/artist/2fVW2ix4ANKiofDZIsy1XR) | [A Power In Letting Go](https://open.spotify.com/album/5EHd9sZcjNMC0w2h2InKFT) | 2:52 | 2022-03-17 | 2022-07-29 |
@@ -205,6 +205,7 @@
 | [By Design](https://open.spotify.com/track/14p8BHyH8Ice5LpfhRLlqx) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [DEAR 27 pt.2](https://open.spotify.com/album/46DJbHhe1AtdlvXqoe1BYz) | 3:39 | 2022-09-29 | 2022-10-03 |
 | [By The Sea](https://open.spotify.com/track/0mDNYBgTfmmzYsGKIO9sIx) | [SI EVOL](https://open.spotify.com/artist/524Xl2s6Uw1LnRmdJwQ9S2) | [By The Sea](https://open.spotify.com/album/3gVowwfu0t4PgeI23c6pBg) | 3:15 | 2024-04-11 | 2024-05-17 |
 | [Bygga Nytt](https://open.spotify.com/track/2530kYkCKjqD2neMyPwPtp) | [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe), [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS) | [Bygga Nytt](https://open.spotify.com/album/4ipVGk4eu3saiPXuN1firl) | 3:40 | 2022-09-15 | 2022-10-07 |
+| [Bäst](https://open.spotify.com/track/5EB1gR2BcPPAyhPNqz0SdM) | [Korsvägen](https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT) | [Bäst](https://open.spotify.com/album/4hko5sUAbQqs5jbhtp5oaz) | 2:36 | 2025-01-16 |  |
 | [Bästa kebaben i hela stan](https://open.spotify.com/track/01yyVpq4GDYpkrZcTP66qG) | [Magnus Uggla](https://open.spotify.com/artist/30j6YCWLSp59jLF7yIYZWq) | [Bästa kebaben i hela stan](https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2) | 3:35 | 2024-06-06 | 2024-08-09 |
 | [Bästa som hänt](https://open.spotify.com/track/2FqMN5yQNBTN1argtzblRl) | [Jobe](https://open.spotify.com/artist/3LpFNC9X6KX4aUmGaWaeGP) | [Bästa som hänt](https://open.spotify.com/album/7plgkCP375uQfQtP9O8wh2) | 2:56 | 2023-10-13 | 2024-01-26 |
 | [Bästa Vi Gjort](https://open.spotify.com/track/3xzTKNUOxzEBovAKpd5AQO) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry), [Timbuktu](https://open.spotify.com/artist/4bOG1sx3QHFbOUVLNmMpPe) | [Bästa Vi Gjort](https://open.spotify.com/album/4GoKbr5Cdm3Y36fb3P7775) | 2:52 | 2022-04-28 | 2022-08-14 |
@@ -242,6 +243,7 @@
 | [CLIMAX](https://open.spotify.com/track/50PQ2pO395WJbC5r1qEY1v) | [Angelicca](https://open.spotify.com/artist/5Jxv8p3dEf5cFKiDaNdvLP) | [CLIMAX](https://open.spotify.com/album/5rpwNzj2xjd0ipxb4BR5ne) | 2:57 | 2024-08-22 | 2024-09-22 |
 | [Closer](https://open.spotify.com/track/6qC839XTjnK0oKUoCDcnkL) | [Freja The Dragon](https://open.spotify.com/artist/78zIVRdVKJ8tl8TTtsC3Ke), [Peter Bjorn and John](https://open.spotify.com/artist/6u11Qbko2N2hP4lTBYjX86) | [Closer](https://open.spotify.com/album/0Dt2mixDqlbO4xO5QNwTZv) | 3:28 | 2022-09-22 | 2022-10-13 |
 | [Coast \(feat\. Cherrie\)](https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S) | [Sabina Ddumba](https://open.spotify.com/artist/2Mp409M6EpFr3kGdQ1mwjS), [Cherrie](https://open.spotify.com/artist/59E9dYtwLTUAGuAppwFKAW) | [The Forgotten Ones](https://open.spotify.com/album/78WnZ89oNI95ISnWHEiy61) | 3:50 | 2021-12-16 | 2022-03-10 |
+| [Cold As Ice](https://open.spotify.com/track/3tW9811KrWQxa0SIxaFWUF) | [Adam Woods](https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc) | [Cold As Ice](https://open.spotify.com/album/3GUacx6dbm7SNjNGel4srO) | 3:30 | 2025-01-16 |  |
 | [Cold Shoulder](https://open.spotify.com/track/34snSDVVV1KB4bbTZjIB05) | [Juliander](https://open.spotify.com/artist/4gvkdged3Xw3ImXFm3jiay) | [Cold Shoulder](https://open.spotify.com/album/5gO8l10JAF0ONPQILQNJ0Z) | 3:04 | 2022-05-05 | 2022-07-17 |
 | [Cold Turkey](https://open.spotify.com/track/3f17XRSpPLhtdt3ofn56qG) | [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [Cold Turkey](https://open.spotify.com/album/6cMalQrIbI5ycQijYAjHMc) | 2:33 | 2023-08-25 | 2023-11-30 |
 | [Coldtrain](https://open.spotify.com/track/4vSno0DWQgIWvpaSHa4SXX) | [Caspar Camitz](https://open.spotify.com/artist/7Mymyw9vEuRvJKD9Fy919Q), [Katmanlo](https://open.spotify.com/artist/1jXMfZgRIg0JlqF5MMst97) | [By The End Of Coldtrain](https://open.spotify.com/album/4wFhlNN5WJ9hs33mFgTZaT) | 3:31 | 2021-12-16 | 2022-04-02 |
@@ -377,7 +379,7 @@
 | [Duolingo](https://open.spotify.com/track/1I9f4i2InzK8rvpct86djH) | [Henric Edström](https://open.spotify.com/artist/0yn7SRwZcgP2uYeRTAbfhA) | [Duolingo](https://open.spotify.com/album/1gguRd8uFWsYC6r8hoVIVf) | 2:06 | 2024-09-26 | 2024-10-20 |
 | [DUST](https://open.spotify.com/track/6fz5hmuApTOplf5Oam5Ith) | [Elliphant](https://open.spotify.com/artist/134GdR5tUtxJrf8cpsfpyY) | [TROLL](https://open.spotify.com/album/0sFwVx2YJ465Q31RlYkjzx) | 2:40 | 2024-01-25 | 2024-03-15 |
 | [Dust](https://open.spotify.com/track/6t0iX8lmj5PjV9mJbYAE1i) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Dust, Pt\. 1](https://open.spotify.com/album/2mCYJpGg7PU8zDCib4DrpS) | 3:40 | 2024-04-11 | 2024-05-17 |
-| [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 |  |
+| [Dying Light](https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE) | [Vilhelm Buchaus](https://open.spotify.com/artist/1WqdwYhwSMzVexRFkOtcwl) | [Dying Light](https://open.spotify.com/album/1ViOnaTum7r0odw5UPtkzH) | 2:53 | 2024-06-27 | 2025-01-20 |
 | [Dynamite](https://open.spotify.com/track/7wMQv4MPz5WYqEbO4HWovW) | [Victor Crone](https://open.spotify.com/artist/6TlWqqdj65mppNUHZVkjaq) | [Dynamite](https://open.spotify.com/album/7uJvNL8aDRFMy4RX5tzkF4) | 2:38 | 2022-05-30 | 2022-06-01 |
 | [Dyrt](https://open.spotify.com/track/2rwd9RRJ7YHsJ4HT3MwH5H) | [Ellen Bergelin](https://open.spotify.com/artist/3WR4aQtPax6XwTi9L0L3DJ) | [Dyrt](https://open.spotify.com/album/6qpmFXPgdrTnpqHPu6zj21) | 2:46 | 2022-01-13 | 2022-05-13 |
 | [Där Jag Fann Dig Sist](https://open.spotify.com/track/3K0gRKBAK1Iux4hEZwamyD) | [INOMI](https://open.spotify.com/artist/4y6IXL3FLmSLs4CCgpq5i2) | [¿Kan Du Höra Det?](https://open.spotify.com/album/6EZN2n5FRDb3vaFVSCx6ay) | 3:51 | 2024-05-30 | 2024-06-28 |

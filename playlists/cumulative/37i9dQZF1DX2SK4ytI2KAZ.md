@@ -4,7 +4,7 @@
 
 > have fun with it.
 
-640 songs - 1 day 11 hr 4 min
+641 songs - 1 day 11 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Cry Out for Me](https://open.spotify.com/track/6ktLXrudYZ8PjQvu2Ncoth) | [DREAMERS](https://open.spotify.com/artist/1FgsVeOhRYuSw2ghkIXV0A) | [This Album Does Not Exist](https://open.spotify.com/album/2dtruUPZ49oSh468hKErtf) | 3:14 | 2022-03-11 | 2022-04-17 |
 | [Curious](https://open.spotify.com/track/2cIwyQwWNhyDNY3pn6xjKF) | [Franz Ferdinand](https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A) | [Curious](https://open.spotify.com/album/6ostRuT5nyWNNuuaAE2FMX) | 2:49 | 2022-06-27 | 2023-03-23 |
 | [Dancer](https://open.spotify.com/track/2F7dO7OCqrxff66epaNPEU) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [Dancer](https://open.spotify.com/album/6AGtvMucIA2IRrLpVIP6ZR) | 3:09 | 2024-02-16 | 2024-02-19 |
+| [Dancer](https://open.spotify.com/track/4DFNObEEasMJXtgC36kA15) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [TANGK](https://open.spotify.com/album/6JBHYSMp3KYqiTTjmn26BU) | 3:09 | 2024-10-18 |  |
 | [Dancer](https://open.spotify.com/track/5MP8QCjsJQPJ5ApdHMg3dl) | [IDLES](https://open.spotify.com/artist/75mafsNqNE1WSEVxIKuY5C), [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [TANGK](https://open.spotify.com/album/6U11VNHZAfYY3E9V4oFB2p) | 3:09 | 2024-02-16 | 2024-04-19 |
 | [Dancing On Glass](https://open.spotify.com/track/0aersVHlGGXcHeRvHtuaSt) | [St\. Lucia](https://open.spotify.com/artist/5WId4o5jdGVhptNU0uqKxu) | [Matter](https://open.spotify.com/album/4qH5TQZxM5v7tKT0E09WAK) | 4:06 | 2022-02-04 | 2024-07-19 |
 | [Dangerous Game](https://open.spotify.com/track/0xmzoZJCBY5yu4xPmDLhEG) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC) | [Dangerous Game](https://open.spotify.com/album/5uCGWzShlvHcWlPgALSHny) | 2:38 | 2024-02-16 | 2024-03-02 |
@@ -186,7 +187,7 @@
 | [Find Someone](https://open.spotify.com/track/3nZBR8LOcyeKa9GO7ZdDoG) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [ASYLUM](https://open.spotify.com/album/1qnAzDoa24ZYCZDzmP74sL) | 3:08 | 2022-06-27 | 2023-03-29 |
 | [Find Someone](https://open.spotify.com/track/654BH5npNnfbFZyHD4c2RC) | [A R I Z O N A](https://open.spotify.com/artist/7hOGhpa8RMSuDOWntGIAJt) | [Find Someone](https://open.spotify.com/album/7izguBApUn5lBJO7bDwzvV) | 3:08 | 2021-03-10 | 2022-07-29 |
 | [Fire Alarm](https://open.spotify.com/track/7owfaYY6CFwqQAv2Xih9CY) | [Castlecomer](https://open.spotify.com/artist/7tnWJfXaJmFO6vv5WFN2K0) | [Fire Alarm](https://open.spotify.com/album/6Km8vSwtJxgwqANRxnpvo3) | 3:57 | 2022-03-11 | 2022-04-18 |
-| [Flagstaff](https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Flagstaff](https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM) | 2:47 | 2024-05-05 |  |
+| [Flagstaff](https://open.spotify.com/track/0PXl1N2xmZxbayBQOljH4u) | [Ax and the Hatchetmen](https://open.spotify.com/artist/5WJCUSIw2Td5IEfa3LXCo9) | [Flagstaff](https://open.spotify.com/album/7bpAsA4g2GY2xZDXCOMRNM) | 2:47 | 2024-05-05 | 2025-01-20 |
 | [Flame](https://open.spotify.com/track/1xa5lmjPwKj1LVXpxM7HHW) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/4uDAyNO819g7fiZBdkHQGw) | 3:46 | 2022-03-11 | 2022-04-21 |
 | [Flame](https://open.spotify.com/track/2yf63OXOJ7F7dYz9UbwlBB) | [Sundara Karma](https://open.spotify.com/artist/4fgXfJCQnK6c44u4KzAtQP) | [Flame](https://open.spotify.com/album/2iZkVBCd88F8qnnJV9Vxje) | 3:47 | 2022-06-27 | 2022-07-30 |
 | [Flashback](https://open.spotify.com/track/1TB6VEurAmNzFmgKCml86F) | [Rare Americans](https://open.spotify.com/artist/0e5Rda7VQAY786739xp0Jt) | [Flashback](https://open.spotify.com/album/6gKpoRKgrLIb1hjSXwuEZn) | 3:14 | 2022-04-01 | 2022-05-05 |

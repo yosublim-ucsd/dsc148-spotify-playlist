@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 
 > This is P.O.D.\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,898 likes - 49 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,922 likes - 49 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,14 +28,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 18 | [LAY ME DOWN \(Roo's Song\)](https://open.spotify.com/track/5WThyiS0QTbALXYkPEbbbN) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 3:27 |
 | 19 | [Beautiful](https://open.spotify.com/track/0lcWp2uXDDQul6oHa4Al00) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:52 |
 | 20 | [Booyaka 619 \(Rey Mysterio\)](https://open.spotify.com/track/1LGv7oHSOGKzpkY3Z8pzc3) | [WWE](https://open.spotify.com/artist/0spHbv2fw49lDMkbOAdaqX), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [WWE: Wreckless Intent](https://open.spotify.com/album/2m4KqjduGuZ3Vd4xdCnwMc) | 3:12 |
-| 21 | [Listening For The Silence](https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:51 |
+| 21 | [The Messenjah](https://open.spotify.com/track/6xdif5FfdXn6SM0XmzHvVe) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:17 |
 | 22 | [DEAD RIGHT](https://open.spotify.com/track/1aNa1VHE2phCAb5CfFKFUw) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [VERITAS](https://open.spotify.com/album/3A12nZnNwruBUgmEMbaZO7) | 2:09 |
-| 23 | [The Messenjah](https://open.spotify.com/track/6xdif5FfdXn6SM0XmzHvVe) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(U.S\. Version\)](https://open.spotify.com/album/4eUmncMYQRg0Ot29KKqbuk) | 4:17 |
-| 24 | [Addicted \- 2022 Remixed & Remastered](https://open.spotify.com/track/6lkzA4O1ZrnNR9drGy15Qv) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:32 |
-| 25 | [Always Southern California](https://open.spotify.com/track/6FCRR2Gq3JmWTGG7gEfTKw) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:10 |
-| 26 | [They Don't Like It](https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:06 |
-| 27 | [Rock the Party \(Off the Hook\) \- Off the Hook; 2006 Remaster](https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 3:26 |
-| 28 | [Shine with Me \- 2022 Remixed & Remastered](https://open.spotify.com/track/19THfJzvW3lxRUc1TKP07q) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:32 |
+| 23 | [Listening For The Silence](https://open.spotify.com/track/5zgsYJLD4jVCG2elvJm3bT) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:51 |
+| 24 | [Shine with Me \- 2022 Remixed & Remastered](https://open.spotify.com/track/19THfJzvW3lxRUc1TKP07q) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:32 |
+| 25 | [They Don't Like It](https://open.spotify.com/track/034PqbW9ySTVrW8q3fKVDL) | [Fire From The Gods](https://open.spotify.com/artist/6yeRY2d7gubXoymv3DAYhS), [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [American Sun](https://open.spotify.com/album/5LsgpFufHGQOL4bmzJaoC7) | 3:06 |
+| 26 | [Rock the Party \(Off the Hook\) \- Off the Hook; 2006 Remaster](https://open.spotify.com/track/6dWiJjJrONUP6XDswB3JYc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 3:26 |
+| 27 | [Always Southern California](https://open.spotify.com/track/6FCRR2Gq3JmWTGG7gEfTKw) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:10 |
+| 28 | [Addicted \- 2022 Remixed & Remastered](https://open.spotify.com/track/6lkzA4O1ZrnNR9drGy15Qv) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 3:32 |
 | 29 | [Find My Way](https://open.spotify.com/track/40B98PoSxtXqU94PlCxKLe) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:09 |
 | 30 | [Higher](https://open.spotify.com/track/6jlQBh3PNUWRUHsATIfQWU) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:22 |
 | 31 | [Soundboy Killa](https://open.spotify.com/track/5LwqDzyg1wpNzJIwTvfIFz) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 4:06 |
@@ -45,9 +45,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 35 | [Murdered Love](https://open.spotify.com/track/7ieBW9vf5toe7zzfhwf63z) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 3:44 |
 | 36 | [Condescending \- 2022 Remixed & Remastered](https://open.spotify.com/track/38ux7AHORrIoHs392qKXny) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:02 |
 | 37 | [Revolution](https://open.spotify.com/track/2f5tbUaM4IrFDyBuf61afK) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 3:25 |
-| 38 | [Circles](https://open.spotify.com/track/67eAkl0sRvEjcIDwMqxyyn) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:27 |
-| 39 | [Roots in Stereo](https://open.spotify.com/track/41WwJd8ZzllMdQQqp11e6D) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Testify](https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo) | 4:42 |
-| 40 | [School Of Hard Knocks \- 2021 Remaster](https://open.spotify.com/track/3E0vgHkr4wJcsqI65vFJAx) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(Expanded Edition; 2021 Remaster\)](https://open.spotify.com/album/7fZcJiON0dNa4iE2miGmhw) | 4:06 |
+| 38 | [Roots in Stereo](https://open.spotify.com/track/41WwJd8ZzllMdQQqp11e6D) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Testify](https://open.spotify.com/album/5RIaPLtgEKqhRjLO5KHZfo) | 4:42 |
+| 39 | [School Of Hard Knocks \- 2021 Remaster](https://open.spotify.com/track/3E0vgHkr4wJcsqI65vFJAx) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Satellite \(Expanded Edition; 2021 Remaster\)](https://open.spotify.com/album/7fZcJiON0dNa4iE2miGmhw) | 4:06 |
+| 40 | [Circles](https://open.spotify.com/track/67eAkl0sRvEjcIDwMqxyyn) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Circles](https://open.spotify.com/album/0PkJwEKWlcwl9qsmHB9xTK) | 3:27 |
 | 41 | [Asthma](https://open.spotify.com/track/5biPMicYYn423RHaKQ6J7w) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Payable on Death \(U.S\. Version\)](https://open.spotify.com/album/05gn8OafjiVteVcSQrPp9J) | 4:01 |
 | 42 | [I'll Be Ready \- 2022 Remixed & Remastered](https://open.spotify.com/track/0AzPcW4jzim6Q6Jwh7xPDc) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU), [Marley Girls](https://open.spotify.com/artist/5OiRLtZaj8uyIHKmECFCg8) | [When Angels & Serpents Dance \(2022 Remixed & Remastered\)](https://open.spotify.com/album/0CjJ3F1RJfx7IH003BpCZ9) | 4:41 |
 | 43 | [No Ordinary Love Song \- Acoustic Version](https://open.spotify.com/track/0fMHHSvKYVNJ8mswH55jIv) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [SoCal Sessions](https://open.spotify.com/album/6ZLA8OYBtkOXuY7IBXYWDo) | 3:49 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3ZwxcA.md) - [plain]
 | 48 | [Bullet the Blue Sky](https://open.spotify.com/track/5BF8EgFap9pLtSnINN3Ah4) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [The Fundamental Elements of Southtown](https://open.spotify.com/album/3m4tEvOqwOSk3Yy5apKaFq) | 5:18 |
 | 49 | [Babylon The Murderer](https://open.spotify.com/track/7MozRmzIvmvsoxLjjOoG9O) | [P.O.D.](https://open.spotify.com/artist/6KO6G41BBLTDNYOLefWTMU) | [Murdered Love](https://open.spotify.com/album/7AAaNM2EiM1Yr7YMiNUyIO) | 4:18 |
 
-Snapshot ID: `Z4mdgAAAAAAS/lMJPWy5LAjPuVVa8Au5`
+Snapshot ID: `Z4rvAAAAAABDd5Aoof4DY+pKYe3IfES5`

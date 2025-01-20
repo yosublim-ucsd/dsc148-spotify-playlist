@@ -1,6 +1,6 @@
 {
   "description": "Jazz for breakfast to start your day right.",
-  "num_followers": 415627,
+  "num_followers": 415726,
   "original_name": "Good Morning Jazz",
   "owner": {
     "name": "Spotify",
@@ -47,22 +47,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "So They Say",
-        "url": "https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg"
-      },
-      "artists": [
-        {
-          "name": "Vendla",
-          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
-        }
-      ],
-      "duration_ms": 237659,
-      "name": "So They Say",
-      "url": "https://open.spotify.com/track/4689TAqR9n79nptG04RV9c"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "42nd Street Shuffle",
         "url": "https://open.spotify.com/album/2xKpP3EGfnNRt8biMKpxSC"
       },
@@ -75,6 +59,22 @@
       "duration_ms": 259786,
       "name": "42nd Street Shuffle",
       "url": "https://open.spotify.com/track/7sjZIf7J5FQlNQrOQWODai"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "So They Say",
+        "url": "https://open.spotify.com/album/2Q3YVXtFCxn0LvdvVak5yg"
+      },
+      "artists": [
+        {
+          "name": "Vendla",
+          "url": "https://open.spotify.com/artist/4uWu7kqFidRgiqrLM5x1Vu"
+        }
+      ],
+      "duration_ms": 237659,
+      "name": "So They Say",
+      "url": "https://open.spotify.com/track/4689TAqR9n79nptG04RV9c"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -151,22 +151,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "I'll Know",
-        "url": "https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT"
-      },
-      "artists": [
-        {
-          "name": "Bill Charlap Trio",
-          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
-        }
-      ],
-      "duration_ms": 312453,
-      "name": "I'll Know",
-      "url": "https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/4VB7PmeVHqaiA87rs77pRm"
       },
@@ -179,6 +163,22 @@
       "duration_ms": 180463,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/3wM2sEe8qcWoAZWlXB6pj1"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "I'll Know",
+        "url": "https://open.spotify.com/album/3daQUpLhrwncXGrSozlkeT"
+      },
+      "artists": [
+        {
+          "name": "Bill Charlap Trio",
+          "url": "https://open.spotify.com/artist/5isSr1JUeHt5cgh8oWz1Ja"
+        }
+      ],
+      "duration_ms": 312453,
+      "name": "I'll Know",
+      "url": "https://open.spotify.com/track/7qLzoarYodaUHezJvndAdK"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -359,38 +359,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "Where Will the River Flow",
-        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
-      },
-      "artists": [
-        {
-          "name": "Matt Carmichael",
-          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
-        }
-      ],
-      "duration_ms": 334925,
-      "name": "Hopeful Morning",
-      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
-        "name": "Trouble Maker",
-        "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 407333,
-      "name": "Trouble Maker",
-      "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "Massimo Fara\u00f2 Plays the Great Jazz American Composers - George Gershwin, Vol. 3",
         "url": "https://open.spotify.com/album/0w9US9EzNtLwIMDHM4QDQC"
       },
@@ -415,6 +383,38 @@
       "duration_ms": 268081,
       "name": "Bess Is My Woman Now",
       "url": "https://open.spotify.com/track/0H7udegVzTRxIYzPXoBvkI"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "Trouble Maker",
+        "url": "https://open.spotify.com/album/1uWMkNdhSSdVnTQoxNH4RS"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 407333,
+      "name": "Trouble Maker",
+      "url": "https://open.spotify.com/track/6saSpp7UZUXltPD6OYGn9u"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "Where Will the River Flow",
+        "url": "https://open.spotify.com/album/56PNaRZ8pHy1jsxQt7nQQf"
+      },
+      "artists": [
+        {
+          "name": "Matt Carmichael",
+          "url": "https://open.spotify.com/artist/1U7veIfQdOj6xbmc6mWLd0"
+        }
+      ],
+      "duration_ms": 334925,
+      "name": "Hopeful Morning",
+      "url": "https://open.spotify.com/track/2PwVmRP7Hq2ZYjbaJugFWD"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -491,6 +491,22 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
+        "name": "Reflections",
+        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
+      },
+      "artists": [
+        {
+          "name": "Lucas Figueiredo Santana",
+          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
+        }
+      ],
+      "duration_ms": 414760,
+      "name": "As if We Were Just Friends",
+      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
         "name": "End of Summer",
         "url": "https://open.spotify.com/album/2LleX2N1IzAe93C0qpBxuZ"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 397173,
       "name": "Alfie",
       "url": "https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
-        "name": "Reflections",
-        "url": "https://open.spotify.com/album/7boA4KYSLA5ZQ7QX3l2GxF"
-      },
-      "artists": [
-        {
-          "name": "Lucas Figueiredo Santana",
-          "url": "https://open.spotify.com/artist/4wXu0yhZX9vB4dZxzu3G7N"
-        }
-      ],
-      "duration_ms": 414760,
-      "name": "As if We Were Just Friends",
-      "url": "https://open.spotify.com/track/64WTR1Hs1TgzrkewozCTc1"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -619,6 +619,22 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
+        "name": "Stan Getz In Stockholm",
+        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 317146,
+      "name": "I Can't Believe That You're In Love With Me",
+      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
         "name": "Jazz Lullaby",
         "url": "https://open.spotify.com/album/0wDnMx1ZIjpH2TJSm6PCR7"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "Stan Getz In Stockholm",
-        "url": "https://open.spotify.com/album/40L2TDzoeqXSTaNEIRJs0z"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 317146,
-      "name": "I Can't Believe That You're In Love With Me",
-      "url": "https://open.spotify.com/track/16E8ixGkRe8jgOFRnV3sAb"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "Compromises",
         "url": "https://open.spotify.com/album/7MkYND1u4Y9ytafBECXxPM"
       },
@@ -695,22 +695,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "Homeward Bound",
-        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
-      },
-      "artists": [
-        {
-          "name": "Johnathan Blake",
-          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
-        }
-      ],
-      "duration_ms": 204733,
-      "name": "Abiyoyo",
-      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "The Lion Turtle",
         "url": "https://open.spotify.com/album/5ntyasxJzPodwnnZJ252Td"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 515253,
       "name": "The Lion Turtle",
       "url": "https://open.spotify.com/track/4RJVRVB6PkFnlJcaVsoMbE"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "Homeward Bound",
+        "url": "https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj"
+      },
+      "artists": [
+        {
+          "name": "Johnathan Blake",
+          "url": "https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms"
+        }
+      ],
+      "duration_ms": 204733,
+      "name": "Abiyoyo",
+      "url": "https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "P\u00e5 nye eventyr",
-        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
-      },
-      "artists": [
-        {
-          "name": "Maridalen",
-          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
-        }
-      ],
-      "duration_ms": 322253,
-      "name": "P\u00e5 nye eventyr",
-      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "Jennie / Gravol",
         "url": "https://open.spotify.com/album/3cU5aG5kVY2PERgkd0EXNJ"
       },
@@ -819,18 +803,34 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "Kelly Blue (Keepnews Collection)",
-        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
+        "name": "P\u00e5 nye eventyr",
+        "url": "https://open.spotify.com/album/532pfB7ZluWCvQzrO4o4t6"
       },
       "artists": [
         {
-          "name": "Wynton Kelly",
-          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
+          "name": "Maridalen",
+          "url": "https://open.spotify.com/artist/4OQGQzQBxycDy5HlOGLAMJ"
         }
       ],
-      "duration_ms": 393000,
-      "name": "Softly As In A Morning Sunrise",
-      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
+      "duration_ms": 322253,
+      "name": "P\u00e5 nye eventyr",
+      "url": "https://open.spotify.com/track/3PVMg33zbePrQvoUgXpnBq"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "In the Wee Small Hours of the Morning",
+        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+      },
+      "artists": [
+        {
+          "name": "David Finck",
+          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+        }
+      ],
+      "duration_ms": 270027,
+      "name": "In the Wee Small Hours of the Morning",
+      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "In the Wee Small Hours of the Morning",
-        "url": "https://open.spotify.com/album/5Bige15opD3V4HHy1jsymc"
+        "name": "Kelly Blue (Keepnews Collection)",
+        "url": "https://open.spotify.com/album/0mgUrEyxaymxq5hCKqNQ9B"
       },
       "artists": [
         {
-          "name": "David Finck",
-          "url": "https://open.spotify.com/artist/0izr5ONrQxIf2EbHPCCavn"
+          "name": "Wynton Kelly",
+          "url": "https://open.spotify.com/artist/5ncBRFyyylFng7kQJaRXN0"
         }
       ],
-      "duration_ms": 270027,
-      "name": "In the Wee Small Hours of the Morning",
-      "url": "https://open.spotify.com/track/0lMIb2WobAlzmr8t1yZeUd"
+      "duration_ms": 393000,
+      "name": "Softly As In A Morning Sunrise",
+      "url": "https://open.spotify.com/track/6BnDMyRz4KY8g9SoWlUfjq"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -1071,54 +1071,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "The Great Belonging",
-        "url": "https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB"
-      },
-      "artists": [
-        {
-          "name": "Thomas Agergaard",
-          "url": "https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8"
-        },
-        {
-          "name": "Lars Jansson",
-          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
-        },
-        {
-          "name": "Lennart Ginman",
-          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
-        },
-        {
-          "name": "Anders Kjellberg",
-          "url": "https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98"
-        }
-      ],
-      "duration_ms": 371120,
-      "name": "The Great Belonging",
-      "url": "https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
-        "name": "Going Up",
-        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
-      },
-      "artists": [
-        {
-          "name": "Snorre Kirk",
-          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
-        },
-        {
-          "name": "Stephen Riley",
-          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
-        }
-      ],
-      "duration_ms": 280011,
-      "name": "Blues Arabesque",
-      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "Den Gr\u00f8nbenede R\u00f8rh\u00f8ne",
         "url": "https://open.spotify.com/album/3OF9yDor7rXUH75wKeulyV"
       },
@@ -1155,6 +1107,34 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
+        "name": "The Great Belonging",
+        "url": "https://open.spotify.com/album/0IhSJ4CocuulbqMyhGIbIB"
+      },
+      "artists": [
+        {
+          "name": "Thomas Agergaard",
+          "url": "https://open.spotify.com/artist/7nO0nJPGNCS2JIL91ifpJ8"
+        },
+        {
+          "name": "Lars Jansson",
+          "url": "https://open.spotify.com/artist/1kW3Vmt2UDZfYhc9So72dS"
+        },
+        {
+          "name": "Lennart Ginman",
+          "url": "https://open.spotify.com/artist/2s2DJXB8q7ahN97T2gAeKX"
+        },
+        {
+          "name": "Anders Kjellberg",
+          "url": "https://open.spotify.com/artist/0D3y6CpkVuUv11mosURP98"
+        }
+      ],
+      "duration_ms": 371120,
+      "name": "The Great Belonging",
+      "url": "https://open.spotify.com/track/2b908yzXY8uzaD4gMDcc8G"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
         "name": "Kaleidoscope",
         "url": "https://open.spotify.com/album/2rSm26o6ns4fvS9achkJ2b"
       },
@@ -1167,6 +1147,26 @@
       "duration_ms": 244191,
       "name": "Son binocle",
       "url": "https://open.spotify.com/track/5B3DbHWAony8uv56c8EdQZ"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "Going Up",
+        "url": "https://open.spotify.com/album/2Jsv8fQJq9yvJoUjjvKqqV"
+      },
+      "artists": [
+        {
+          "name": "Snorre Kirk",
+          "url": "https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM"
+        },
+        {
+          "name": "Stephen Riley",
+          "url": "https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD"
+        }
+      ],
+      "duration_ms": 280011,
+      "name": "Blues Arabesque",
+      "url": "https://open.spotify.com/track/57SLXKt2uZ9eA9VDkf2mqC"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -1295,22 +1295,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "City of Sounds",
-        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
-      },
-      "artists": [
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
-        }
-      ],
-      "duration_ms": 482693,
-      "name": "Softly, as in a Morning Sunrise",
-      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "Emotions",
         "url": "https://open.spotify.com/album/2dKEg2AOgzHVpL3GMbShxb"
       },
@@ -1331,6 +1315,22 @@
       "duration_ms": 301783,
       "name": "June 2nd",
       "url": "https://open.spotify.com/track/6ljElurA01VdrVynPgZn4k"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "City of Sounds",
+        "url": "https://open.spotify.com/album/7eCsq51INi4VOW6VxEQATr"
+      },
+      "artists": [
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        }
+      ],
+      "duration_ms": 482693,
+      "name": "Softly, as in a Morning Sunrise",
+      "url": "https://open.spotify.com/track/02QDRB6wtMMi28hODUpbbk"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -1439,6 +1439,34 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
+        "name": "Diane / Estemporaneo",
+        "url": "https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA"
+      },
+      "artists": [
+        {
+          "name": "Paolo Fresu",
+          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
+        },
+        {
+          "name": "Marco Bardoscia",
+          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
+        },
+        {
+          "name": "Stefano Bagnoli",
+          "url": "https://open.spotify.com/artist/18ctV072Ro4jq3Uof7fYzN"
+        },
+        {
+          "name": "Dino Rubino",
+          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
+        }
+      ],
+      "duration_ms": 329693,
+      "name": "Diane",
+      "url": "https://open.spotify.com/track/56jpavn98L7tkcOZ3dnI6D"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
         "name": "Voor Jou Yvonne",
         "url": "https://open.spotify.com/album/4DWTySPzYwSDVMsdPEaIYt"
       },
@@ -1475,34 +1503,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "Diane / Estemporaneo",
-        "url": "https://open.spotify.com/album/4Te7WLB3dtQpumL87KA5UA"
-      },
-      "artists": [
-        {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "Marco Bardoscia",
-          "url": "https://open.spotify.com/artist/6nPFcBOpXLW2vzvor5xo6E"
-        },
-        {
-          "name": "Stefano Bagnoli",
-          "url": "https://open.spotify.com/artist/18ctV072Ro4jq3Uof7fYzN"
-        },
-        {
-          "name": "Dino Rubino",
-          "url": "https://open.spotify.com/artist/3BatL5ELL5CEN1xjCeDi7S"
-        }
-      ],
-      "duration_ms": 329693,
-      "name": "Diane",
-      "url": "https://open.spotify.com/track/56jpavn98L7tkcOZ3dnI6D"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "Pannonica",
         "url": "https://open.spotify.com/album/2yuuyMO0wzr2pbku1Wurd1"
       },
@@ -1515,6 +1515,34 @@
       "duration_ms": 403285,
       "name": "Pannonica",
       "url": "https://open.spotify.com/track/1gyHEnqX09wctbRdqO6HUc"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "What the World Needs Now Is Love",
+        "url": "https://open.spotify.com/album/7FhZDH5ZpvvyHZ4XmXzJeq"
+      },
+      "artists": [
+        {
+          "name": "Jack Jezzro",
+          "url": "https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ"
+        },
+        {
+          "name": "Pat Coil",
+          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
+        },
+        {
+          "name": "Jacob Jezioro",
+          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
+        },
+        {
+          "name": "Danny Gottlieb",
+          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
+        }
+      ],
+      "duration_ms": 277141,
+      "name": "What the World Needs Now Is Love",
+      "url": "https://open.spotify.com/track/4ZevPpI9yP4qaCmdx2UtBA"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -1679,34 +1707,6 @@
       "duration_ms": 251863,
       "name": "Professor Nelson Strikes Again - Single Version",
       "url": "https://open.spotify.com/track/6SwWNBBqNylPPRUFNy1W5k"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
-        "name": "What the World Needs Now Is Love",
-        "url": "https://open.spotify.com/album/7FhZDH5ZpvvyHZ4XmXzJeq"
-      },
-      "artists": [
-        {
-          "name": "Jack Jezzro",
-          "url": "https://open.spotify.com/artist/7vo2Hl0NDiBr6GcyGDSLFZ"
-        },
-        {
-          "name": "Pat Coil",
-          "url": "https://open.spotify.com/artist/2B8UFlcrZdKZD5qV83m503"
-        },
-        {
-          "name": "Jacob Jezioro",
-          "url": "https://open.spotify.com/artist/2LItgcmlHsUt6BikoXc1Df"
-        },
-        {
-          "name": "Danny Gottlieb",
-          "url": "https://open.spotify.com/artist/29aflj7NM4ocg7fMqbhifM"
-        }
-      ],
-      "duration_ms": 277141,
-      "name": "What the World Needs Now Is Love",
-      "url": "https://open.spotify.com/track/4ZevPpI9yP4qaCmdx2UtBA"
     },
     {
       "added_at": "2025-01-17 09:13:40",
@@ -1895,30 +1895,6 @@
     {
       "added_at": "2025-01-17 09:13:40",
       "album": {
-        "name": "Closeness",
-        "url": "https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andrea Wang",
-          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
-        },
-        {
-          "name": "Rob Luft",
-          "url": "https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL"
-        },
-        {
-          "name": "Jon F\u00e4lt",
-          "url": "https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y"
-        }
-      ],
-      "duration_ms": 329333,
-      "name": "Strange Flower",
-      "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"
-    },
-    {
-      "added_at": "2025-01-17 09:13:40",
-      "album": {
         "name": "Peaceful Paranoia",
         "url": "https://open.spotify.com/album/3kNuLBmAPGG41sQtAj29Ph"
       },
@@ -1943,6 +1919,30 @@
       "duration_ms": 265826,
       "name": "Peaceful Paranoia",
       "url": "https://open.spotify.com/track/2oTKvPW7xQCJArXNDDfJd6"
+    },
+    {
+      "added_at": "2025-01-17 09:13:40",
+      "album": {
+        "name": "Closeness",
+        "url": "https://open.spotify.com/album/3Umlj4jrLUGpAwD8A0yxyT"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andrea Wang",
+          "url": "https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf"
+        },
+        {
+          "name": "Rob Luft",
+          "url": "https://open.spotify.com/artist/4LgaDOxBtDK4KvEarwuiQL"
+        },
+        {
+          "name": "Jon F\u00e4lt",
+          "url": "https://open.spotify.com/artist/1m7HJ4qggFVCnOZIRfIZ5Y"
+        }
+      ],
+      "duration_ms": 329333,
+      "name": "Strange Flower",
+      "url": "https://open.spotify.com/track/0UtrANV4z9NMiYSbZRu9Z2"
     },
     {
       "added_at": "2025-01-17 09:13:40",

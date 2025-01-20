@@ -3369,6 +3369,24 @@
     },
     {
       "album": {
+        "name": "I wonder",
+        "url": "https://open.spotify.com/album/69mFAqw4Z19dDhrWQM31bU"
+      },
+      "artists": [
+        {
+          "name": "Bb trickz",
+          "url": "https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA"
+        }
+      ],
+      "date_added": "2025-01-13",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177157,
+      "name": "I wonder",
+      "url": "https://open.spotify.com/track/02XZ5kvbHHJ51xWsEVt13x"
+    },
+    {
+      "album": {
         "name": "Gateway",
         "url": "https://open.spotify.com/album/7xWbzfGRjJpzrkQ6kONF2w"
       },
@@ -3508,7 +3526,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 195106,
       "name": "Insecure",
       "url": "https://open.spotify.com/track/3tLVfEh8kJhMkDaxvOzK1M"

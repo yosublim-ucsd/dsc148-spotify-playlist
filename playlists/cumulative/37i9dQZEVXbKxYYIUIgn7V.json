@@ -3135,6 +3135,28 @@
     },
     {
       "album": {
+        "name": "BLAH!",
+        "url": "https://open.spotify.com/album/5B75p8BlV3QNlZJa5gQKff"
+      },
+      "artists": [
+        {
+          "name": "Nomi XD",
+          "url": "https://open.spotify.com/artist/4y7tRP8SpsjT0DUDPMk7gM"
+        },
+        {
+          "name": "VYRUS",
+          "url": "https://open.spotify.com/artist/3uG4rH6Nn0tEvNorkxEs1f"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141000,
+      "name": "BLAH!",
+      "url": "https://open.spotify.com/track/6nRCWTNboe0qbrXTO0QbzX"
+    },
+    {
+      "album": {
         "name": "Blame It On The Rain (Sped Up)",
         "url": "https://open.spotify.com/album/3UbNhgAdGn4wAXSbhvzacp"
       },
@@ -4461,6 +4483,24 @@
     },
     {
       "album": {
+        "name": "Chess Type Beat",
+        "url": "https://open.spotify.com/album/50Y5Qs42xHpfFHu0wDLhel"
+      },
+      "artists": [
+        {
+          "name": "Jes\u00fas Mus1c",
+          "url": "https://open.spotify.com/artist/3dJeNjOEz8d8bgWYiK8SPv"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120047,
+      "name": "Chess Type Beat",
+      "url": "https://open.spotify.com/track/4w2Bh4G4JBO9NQx3xvaCUK"
+    },
+    {
+      "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
       },
@@ -5608,7 +5648,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 144696,
       "name": "Die Walze Wilma",
       "url": "https://open.spotify.com/track/6HyNNfF1gPrEdBAPqQUFSq"
@@ -5830,6 +5870,24 @@
       "duration_ms": 144476,
       "name": "DISTANZ",
       "url": "https://open.spotify.com/track/3CWeKBO9IATLoUJpOU0AdN"
+    },
+    {
+      "album": {
+        "name": "Divine",
+        "url": "https://open.spotify.com/album/7fWa9fmjRjDskIAgwYzyCI"
+      },
+      "artists": [
+        {
+          "name": "Blair Muir",
+          "url": "https://open.spotify.com/artist/4ui3aaOc80IntYGOHqpVQT"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163641,
+      "name": "Divine",
+      "url": "https://open.spotify.com/track/0u5aRUEwlWhtO32VASKoLi"
     },
     {
       "album": {
@@ -8390,7 +8448,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 128190,
       "name": "Geld oder Liebe",
       "url": "https://open.spotify.com/track/4UmrXcUT7gdFmA3BGbWSNO"
@@ -20896,7 +20954,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 129487,
       "name": "Sigma Boy - Remix",
       "url": "https://open.spotify.com/track/4Beh3N36Rm4G42GZjdC5Jy"

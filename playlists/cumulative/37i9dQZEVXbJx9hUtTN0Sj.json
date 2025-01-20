@@ -2770,7 +2770,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 209090,
       "name": "Blikkendag",
       "url": "https://open.spotify.com/track/3HcIbVeDYLg8u2DiqM4zuT"
@@ -4002,7 +4002,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 202000,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"
@@ -11066,7 +11066,7 @@
       ],
       "date_added": "2024-12-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 172263,
       "name": "Je pense \u00e0 vous",
       "url": "https://open.spotify.com/track/5cAzaNbU7AEgfsJgL9sbtX"
@@ -11564,7 +11564,7 @@
       ],
       "date_added": "2024-11-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 164234,
       "name": "KONGOLESE SOUS BBL",
       "url": "https://open.spotify.com/track/7eqwODSSwRSniktCjCXZyW"
@@ -11778,7 +11778,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 222200,
       "name": "La La La",
       "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
@@ -12751,6 +12751,24 @@
     },
     {
       "album": {
+        "name": "Loco",
+        "url": "https://open.spotify.com/album/1vNUD9sUBRHFFQiwYZm232"
+      },
+      "artists": [
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186521,
+      "name": "Loco",
+      "url": "https://open.spotify.com/track/63EQbNhgaih4yg5412usWG"
+    },
+    {
+      "album": {
         "name": "PUTAIN (Music from the Original Series)",
         "url": "https://open.spotify.com/album/5XyVFniSbkid5XXyBr7Hxu"
       },
@@ -13270,7 +13288,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -14009,6 +14027,24 @@
     },
     {
       "album": {
+        "name": "wOW",
+        "url": "https://open.spotify.com/album/0Ck19xR7rmITE3kd4iPNj1"
+      },
+      "artists": [
+        {
+          "name": "remorse",
+          "url": "https://open.spotify.com/artist/4EqlNTpW7DZiVnqfch4acV"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131081,
+      "name": "Merry Go Round - Mingle Game Song Squid Game 2",
+      "url": "https://open.spotify.com/track/5mEFtEssRjcoqQzQd4nzeQ"
+    },
+    {
+      "album": {
         "name": "Mes Lov\u00e9s",
         "url": "https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT"
       },
@@ -14420,7 +14456,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 214506,
       "name": "Moi qui r\u00eavais d'avoir un fr\u00e8re",
       "url": "https://open.spotify.com/track/3g99OgqoMVQ5ycWuMQR7bj"
@@ -16315,6 +16351,24 @@
     },
     {
       "album": {
+        "name": "AFTERCARE",
+        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
+      },
+      "artists": [
+        {
+          "name": "Nessa Barrett",
+          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
+        }
+      ],
+      "date_added": "2025-01-03",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149440,
+      "name": "P*RNSTAR",
+      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
+    },
+    {
+      "album": {
         "name": "Arcane League of Legends: Season 2 (Soundtrack from the Animated Series)",
         "url": "https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7"
       },
@@ -17098,24 +17152,6 @@
       "duration_ms": 191666,
       "name": "POPO",
       "url": "https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub"
-    },
-    {
-      "album": {
-        "name": "AFTERCARE",
-        "url": "https://open.spotify.com/album/6h9oVEkQTYEL3aoVAnfpub"
-      },
-      "artists": [
-        {
-          "name": "Nessa Barrett",
-          "url": "https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ"
-        }
-      ],
-      "date_added": "2025-01-03",
-      "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
-      "duration_ms": 149440,
-      "name": "PORNSTAR",
-      "url": "https://open.spotify.com/track/0IVAYMUDvpzFxIEuGc71SM"
     },
     {
       "album": {

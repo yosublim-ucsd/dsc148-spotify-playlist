@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-267 songs - 11 hr 38 min
+268 songs - 11 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [BAD GIRL](https://open.spotify.com/track/4VfxJjUTMst0kYsQkN3S54) | [Nineb Youk](https://open.spotify.com/artist/1tR8hI9nP55dVOK0DBvWbU), [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK) | [BAD GIRL](https://open.spotify.com/album/0YdiMAeMZJf5edz35afIQ1) | 2:28 | 2023-09-21 | 2024-06-01 |
 | [badshit \(feat\. Tyr\)](https://open.spotify.com/track/36R2cJp6HWmVBsGiGdsqzL) | [anakin justin](https://open.spotify.com/artist/5eg8Q9stSfP38jgkxAKacv), [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE) | [badshit \(feat\. Tyr\)](https://open.spotify.com/album/37x9fOfhyHjf2xGE8l8r5I) | 2:30 | 2024-07-11 | 2024-09-09 |
 | [Banana](https://open.spotify.com/track/2EXIXFyWSnJAVzxy4kZQfA) | [Ricky Rich](https://open.spotify.com/artist/1gm1katIowFM22Ldqcw6DK), [Dani M](https://open.spotify.com/artist/5ILMkt5lW4KAyTXMNYWaGF) | [Banana](https://open.spotify.com/album/3qIFOSosWTxUJu0fSpdemE) | 2:10 | 2023-09-21 | 2023-09-24 |
+| [BECHO](https://open.spotify.com/track/2NfxurrqwMoXW2bWYYWF63) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [BECHO](https://open.spotify.com/album/7mzFSuPUp3POWTyHpOzMkK) | 2:09 | 2025-01-16 |  |
 | [Beige](https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Norge Elsker Rap](https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ) | 2:59 | 2024-04-27 |  |
 | [BELLA](https://open.spotify.com/track/1AuKZFNQfIKdwR2LngeNjD) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/47PRYUsBxUhFsInEQVnwzH) | 2:24 | 2024-03-21 | 2024-04-23 |
 | [BELLA](https://open.spotify.com/track/7kDWqdkbVoSWkb93NELVae) | [C.Gambino](https://open.spotify.com/artist/6eWjyO1r0QlvsIuIIcgGxI) | [In Memory Of Some Stand Up Guys \(Private Collection\)](https://open.spotify.com/album/6JYg8ZoDwgKL20qLy10SW8) | 2:24 | 2024-03-21 | 2024-04-19 |
@@ -171,7 +172,7 @@
 | [MATRIX](https://open.spotify.com/track/4butcwjYBTovLwdjYsGdz9) | [Hiwá](https://open.spotify.com/artist/6dxaJO4moD1NB2YpmTRg4a) | [ALT DET HER FOR HVA?](https://open.spotify.com/album/6QxpsJgAPM242CqMshoHW3) | 2:26 | 2023-10-19 | 2023-12-09 |
 | [MED MIG](https://open.spotify.com/track/4SKpweHR5pHDRnwmnehA70) | [Sticky](https://open.spotify.com/artist/12BQZLcMCpuSfR7xyKFgJO), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY) | [ANTISOCIAL](https://open.spotify.com/album/5ij45jgLJaREQE57Edkwqn) | 2:09 | 2024-08-15 |  |
 | [Medellín](https://open.spotify.com/track/3Nk5Q7giZdRoq1gi71dQYe) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF) | [Medellín](https://open.spotify.com/album/7iuuXm3zoZsHhJJHPZgeF8) | 2:56 | 2024-07-18 | 2024-08-16 |
-| [Ment for hverandre](https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Det var aldri meg](https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ) | 3:14 | 2023-10-26 |  |
+| [Ment for hverandre](https://open.spotify.com/track/2ruaU00oF7QNnZl3pU6IDo) | [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Det var aldri meg](https://open.spotify.com/album/5IqtgESYSJ5kiGVd8xGyOJ) | 3:14 | 2023-10-26 | 2025-01-20 |
 | [Michelin Stjerner](https://open.spotify.com/track/4KjHgPOIsA8LlMwyAJRlfv) | [UNDERGRUNN](https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb) | [Egoland](https://open.spotify.com/album/7pNnH6DtwnTYEQOrrGAzlO) | 3:04 | 2023-09-21 | 2024-06-01 |
 | [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/track/14HAQu50AX51cSSmk6zsS5) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [MIDDELS DEPPA MILLIONÆR](https://open.spotify.com/album/1C7J7JOEbNr8mtQxypHB6y) | 2:26 | 2024-10-03 | 2025-01-13 |
 | [Midtnytt](https://open.spotify.com/track/4yw7Tna6ATc5KsqJTWX3Vp) | [Linni](https://open.spotify.com/artist/5EnyJ6QaGHnetHxAUD9Xoc), [Lil.Lørda](https://open.spotify.com/artist/5VoDPO3wivvUbXNt2IF4Rp) | [Midtnytt](https://open.spotify.com/album/2bljtVDQSJkxxS9g5FNHLC) | 3:21 | 2024-10-24 | 2024-11-08 |

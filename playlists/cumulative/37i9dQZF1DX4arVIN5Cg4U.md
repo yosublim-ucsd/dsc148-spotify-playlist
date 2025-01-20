@@ -4,11 +4,11 @@
 
 > Get your bassface on with these classic Dubstep tracks.
 
-121 songs - 9 hr 22 min
+122 songs - 9 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [26 Basslines](https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:01 | 2020-10-03 | 2025-01-13 |
+| [26 Basslines](https://open.spotify.com/track/1oyc8GS43HQ0SDunBMn9Bd) | [Benga](https://open.spotify.com/artist/6lyYDuLxgcxPLH5RjUPH5p) | [Diary Of An Afro Warrior \(Expanded Edition\)](https://open.spotify.com/album/1Kl9PK9QiRu95xERylVZ7K) | 5:01 | 2020-10-03 |  |
 | [9 Samurai](https://open.spotify.com/track/1vCxcujPNqejejW5xz0NrE) | [Kode9](https://open.spotify.com/artist/5Z3GyWBvJZgJ35TS0cmXll), [The Spaceape](https://open.spotify.com/artist/4XKXnYIBqC96yXPs3zwMYn) | [Memories of the Future](https://open.spotify.com/album/6k7nsZMVNi4Z9dWu5OsBOX) | 3:40 | 2024-09-30 | 2024-12-13 |
 | [Abattoir](https://open.spotify.com/track/2j9Cp0VqtlDOTFZDLryZys) | [Kahn](https://open.spotify.com/artist/6X0Kd3L9wHWDzWU7cOgjW3) | [Abattoir](https://open.spotify.com/album/3QcJCELBDl7MBdF7ACO7CX) | 5:05 | 2024-09-30 | 2024-12-13 |
 | [Act Like You Know \- Dubstep Mix](https://open.spotify.com/track/7wNtcpvxS7xU1apfK46bSD) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [This Is Dubstep Anthems](https://open.spotify.com/album/5BfMfSQCXkjMZ8G95NblDK) | 5:39 | 2020-10-03 | 2022-07-29 |
@@ -27,6 +27,7 @@
 | [Changes](https://open.spotify.com/track/0PfR5qCmwobwbpXL3vaqPm) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Forgive / Changes](https://open.spotify.com/album/0Sg1wEBeKHsV2v9FOQlBm9) | 6:50 | 2020-10-03 | 2024-04-19 |
 | [Changes](https://open.spotify.com/track/4QeJJXqKtMDFYMWhcvwdMU) | [Mala](https://open.spotify.com/artist/0QTEYauMG3DrAVPXCYMseu) | [Forgive / Changes](https://open.spotify.com/album/7rtkA3xcICf9NWuRxcJVy4) | 6:50 | 2024-09-30 | 2024-12-13 |
 | [Cockney Thug](https://open.spotify.com/track/5hHSZZuCCuBlY5eZoNubHq) | [Rusko](https://open.spotify.com/artist/4BTcOR2hEQZQQL5AMo5u10) | [Babylon, Vol\. 1](https://open.spotify.com/album/2CNQ67P0mbL0ZECsESspO3) | 4:06 | 2024-03-15 |  |
+| [Cockney Violin](https://open.spotify.com/track/25f6IzJOQ5uymIlzPBm4L8) | [Caspa](https://open.spotify.com/artist/4nMuaJ4kBLDJCRBizNESI6) | [Cockney Violin](https://open.spotify.com/album/1gBFdnkrZSu5iCx5dHyjbv) | 4:05 | 2024-12-12 |  |
 | [Could This Be Real \- Joker Remix](https://open.spotify.com/track/56meEYKy3H2qBnNwZAdXJ4) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP) | [Could This Be Real](https://open.spotify.com/album/0u0mpobXFxNukL5dD4O4Vm) | 4:13 | 2020-10-03 | 2022-06-05 |
 | [Crack Bong](https://open.spotify.com/track/09t9oPdlbztfqHPTgnFbBq) | [D1](https://open.spotify.com/artist/01JNOo6z0UWQWqwftahrYz) | [Tempa Allstars Vol\. 2](https://open.spotify.com/album/6SKfbbVPYj6R9ann9cA3ns) | 6:36 | 2024-09-30 | 2024-12-13 |
 | [Crush On You](https://open.spotify.com/track/6NJNZKFys2ypAG7L0XKaeT) | [NERO](https://open.spotify.com/artist/4uRYpUQZrNrY5t8tAv3XrD) | [Welcome Reality +](https://open.spotify.com/album/1hMXqmEdtxYenRDVm4hEgu) | 4:10 | 2020-10-03 | 2024-04-19 |
@@ -99,7 +100,7 @@
 | [Punisher](https://open.spotify.com/track/7qVGSVC8gXA8boXAvHePQS) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [Punisher](https://open.spotify.com/album/2hiFjT0WLuuXKoNhvr7yze) | 4:24 | 2020-10-03 | 2024-12-13 |
 | [Purple City](https://open.spotify.com/track/07OgaXz5dFCeLIVvPpZs7M) | [Joker](https://open.spotify.com/artist/6S5jf5noKu0JJjLLVUCZqP), [Ginz](https://open.spotify.com/artist/64QoeJG6EusbNsBxzkqoOv) | [Purple City / Re\-Up](https://open.spotify.com/album/4sgN1XtBJLaE06fcqo5SoV) | 4:24 | 2020-10-03 | 2024-09-02 |
 | [Qawwali](https://open.spotify.com/track/36tSNnMctCGaxQp0JVGBLC) | [Pinch](https://open.spotify.com/artist/09S8AYFuaa9PQKSNsXxweW) | [Qawwali](https://open.spotify.com/album/5ebXFw9kL2g9sWbdDk0dKc) | 5:19 | 2024-07-12 |  |
-| [Roll with the Punches](https://open.spotify.com/track/1DxvkBAExfcsgq8H916RUL) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Roll with the Punches / Die Brücke](https://open.spotify.com/album/7KG7KAgw46V8TGZIbI91TZ) | 6:44 | 2024-09-30 |  |
+| [Roll with the Punches](https://open.spotify.com/track/1DxvkBAExfcsgq8H916RUL) | [Peverelist](https://open.spotify.com/artist/0UrA452V5vJpCW5ezx0YMP) | [Roll with the Punches / Die Brücke](https://open.spotify.com/album/7KG7KAgw46V8TGZIbI91TZ) | 6:44 | 2024-09-30 | 2025-01-20 |
 | [Ruffhouse \(feat\. Rod Azlan\)](https://open.spotify.com/track/7CrJEJxN8IX52KgHYxVsP4) | [J:Kenzo](https://open.spotify.com/artist/2vnlhEYTh2K1O3NZE2ONiz), [Rod Azlan](https://open.spotify.com/artist/5ifCekzNY9aSB2RExCeDTW) | [J:Kenzo](https://open.spotify.com/album/4RWMR22mHQEbhOfjNO7GFv) | 5:33 | 2020-10-03 | 2022-07-28 |
 | [Running](https://open.spotify.com/track/1qZO1LW9wVoxBSXF3M1N0S) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than A Lot \(New Edition\)](https://open.spotify.com/album/2q0wnAh21oFg9I2sznnPSA) | 4:47 | 2020-10-03 | 2022-07-27 |
 | [Running](https://open.spotify.com/track/5BW2ieMFF1MhCgdUvbCmP3) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [More Than Alot](https://open.spotify.com/album/3ilT1S2FeNalS9JXwzlmx9) | 4:47 | 2020-10-03 | 2024-04-19 |
@@ -116,7 +117,7 @@
 | [Stone Cold](https://open.spotify.com/track/0pmWk0ydV1DiN1XGNMFlw8) | [Groove Chronicles \(Noodles\)](https://open.spotify.com/artist/52ra5pt8grwDXQaE2AO5on) | [Stonecold / Hold On](https://open.spotify.com/album/1Jx6rUWeiMeIodcvTI76RN) | 5:37 | 2024-03-15 |  |
 | [Sweet Shop](https://open.spotify.com/track/0vUscbitfkKXkeIaxqvHHM) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/6Eb8vvrHeNeIN5upuYS3Io) | 4:35 | 2023-10-17 | 2024-04-19 |
 | [Sweet Shop](https://open.spotify.com/track/295nnPutAyvfXpVsfwJbga) | [Doctor P](https://open.spotify.com/artist/0tgjwsn1Lpjj8kKEvWm0KQ) | [Sweet Shop / Gargoyle](https://open.spotify.com/album/0h4Tv7D0UWZzVtDPytqPvq) | 4:35 | 2020-10-03 | 2024-02-17 |
-| [The Knowledge](https://open.spotify.com/track/1BjCQM4rGB8muspU65nK72) | [Toasty](https://open.spotify.com/artist/5xD3piymhCUyYezMeJX2h5) | [The Knowledge](https://open.spotify.com/album/7osClkZir38QpfXpEB570p) | 5:06 | 2024-07-12 |  |
+| [The Knowledge](https://open.spotify.com/track/1BjCQM4rGB8muspU65nK72) | [Toasty](https://open.spotify.com/artist/5xD3piymhCUyYezMeJX2h5) | [The Knowledge](https://open.spotify.com/album/7osClkZir38QpfXpEB570p) | 5:06 | 2024-07-12 | 2025-01-20 |
 | [Time Lapse](https://open.spotify.com/track/79Ir3HCbMRSNhvnowWwJFk) | [Boofy](https://open.spotify.com/artist/1w2QxapVigswBn0iFFmhAm) | [Time Lapse](https://open.spotify.com/album/3Ttv6LO7YJrpYJA1PVPKFb) | 5:36 | 2020-10-03 | 2022-07-29 |
 | [Topper Top \(feat Teddy Bruckshot Lady Chann & Killa P\)](https://open.spotify.com/track/28LaoRYd7v0EpChEzj7z3O) | [Sir Spyro](https://open.spotify.com/artist/620OB54yrIruI9dcHX41zT) | [Topper Top](https://open.spotify.com/album/0CXlKrSc2Ih9ddExRTR6Bu) | 3:20 | 2024-09-30 | 2024-12-13 |
 | [Tortured](https://open.spotify.com/track/2J9k8u0qfqUJtLeqTfkxfF) | [Coki](https://open.spotify.com/artist/4WvwRJA3YhUn5J2caHXoAG) | [Tortured / Shattered](https://open.spotify.com/album/191Vujdxp5qZwTStz0gqZl) | 4:38 | 2024-09-30 | 2024-12-30 |

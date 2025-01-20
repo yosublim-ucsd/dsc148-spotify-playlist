@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 
 > This is Filipe Ret\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 286,498 likes - 42 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 286,623 likes - 42 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 23 | [F\* F\* M\*](https://open.spotify.com/track/0cHflpV8SSGbE0NKaasEfT) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Imaterial \(Deluxe\)](https://open.spotify.com/album/74v9BLECHPqKGRLfa24LRn) | 2:56 |
 | 24 | [Neurótico de Guerra](https://open.spotify.com/track/6VqaSxaXBFn7sAh2DIZQpp) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 3:40 |
 | 25 | [Poesia Acústica \#9 Melhor Forma](https://open.spotify.com/track/0Qm3FcWgkif9MeY6lgcX11) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Chris MC](https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY), [Xamã](https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica](https://open.spotify.com/album/6vbpX6UMYzBifE5fCJjB3Z) | 10:11 |
-| 26 | [A Meu Favor](https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:15 |
-| 27 | [Invicto](https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:16 |
+| 26 | [Invicto](https://open.spotify.com/track/26iIVLdPn5nhmMwiuGKK3F) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [Revel](https://open.spotify.com/album/5XemDAjsXAgz0abzf5Adwq) | 4:16 |
+| 27 | [A Meu Favor](https://open.spotify.com/track/3aOnJBwzo1DVQmIJwgj8Au) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Kayuá](https://open.spotify.com/artist/6GRG2j3z9S1Lsa47YgPjkH), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Honaiser](https://open.spotify.com/artist/0PNcEYeVDBqbywI00Y3ANT) | [LUME](https://open.spotify.com/album/4sB8eASUZfGxo2ZZ2lLwkG) | 2:15 |
 | 28 | [Libertários Não Morrem](https://open.spotify.com/track/23zqFHNiDYWoayPU5k0IIR) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Funkero](https://open.spotify.com/artist/64xQ854jZk1zMWXNud2Crt) | [Vivaz](https://open.spotify.com/album/0fFmKxC1JA1Bt56zkpwVMF) | 4:10 |
 | 29 | [Lenda](https://open.spotify.com/track/6XSTDJMW7yUr4Zuzyr4Ht6) | [Borges](https://open.spotify.com/artist/6jBww4kwlSrjaNYP7AQPtX), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [TkN](https://open.spotify.com/artist/3SB4jbHhsv6NQTh7ZT5GzS), [Mindu](https://open.spotify.com/artist/3shZdnoMWegcOdZUPuMXhB) | [Amor e Ódio](https://open.spotify.com/album/4XjGW9ICzbGHxtWeI7dUAt) | 3:12 |
 | 30 | [Louco Pra Voltar](https://open.spotify.com/track/3pDIXEO9O793DvllcSS0lc) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:30 |
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4iJL4k.md) - [plain]
 | 41 | [Faça Você Mesmo](https://open.spotify.com/track/7Mo2JNeuw6EJVSxN0sCvG9) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Audaz](https://open.spotify.com/album/5qRuTVCxtZJ1HK0mdIUSAa) | 3:47 |
 | 42 | [Distante](https://open.spotify.com/track/6B7iZCaClvCV6DH4MnRMP5) | [MD Chefe](https://open.spotify.com/artist/6yZKPB8eRoJesHjtxPxSLs), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54) | [Estrela do Rap](https://open.spotify.com/album/1ScxV7lhI36dBYgq4mqdm9) | 2:52 |
 
-Snapshot ID: `Z4hMAAAAAADfRQpsl3ZP4w4mCphozO/H`
+Snapshot ID: `Z4rvAAAAAAA7DQuBVxUU0RUc6AKL9Uqw`

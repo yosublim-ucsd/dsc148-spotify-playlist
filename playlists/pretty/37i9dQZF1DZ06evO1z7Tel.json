@@ -1,12 +1,12 @@
 {
   "description": "This is Carlos Y Jose. The essential tracks, all in one playlist.",
-  "num_followers": 34402,
+  "num_followers": 34415,
   "original_name": "This Is Carlos Y Jose",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADdnLj4cHKoMLAyBYch+KJ4",
+  "snapshot_id": "Z4rvAAAAAADxZ2p5lFmCR/v6snnxS/0B",
   "tracks": [
     {
       "added_at": null,
@@ -443,22 +443,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Busca Otro Amor",
-        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 164826,
-      "name": "Dos Seres Que Se Aman",
-      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "15 \u00c9xitos De (Vol. 2)",
         "url": "https://open.spotify.com/album/7LDBCeInFVYwylBAC3mqpW"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 160040,
       "name": "Dados Cargados",
       "url": "https://open.spotify.com/track/0BmbH5Lhlj2r1JtiNo8ADn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Busca Otro Amor",
+        "url": "https://open.spotify.com/album/6Nyc5TvWBWPSxNYK3iiUTO"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 164826,
+      "name": "Dos Seres Que Se Aman",
+      "url": "https://open.spotify.com/track/7t4fngBOXCf14at3yexl0O"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00a1Ay Que Triste!",
-        "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
+        "name": "20 Exitos de Coleccion",
+        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
         }
       ],
-      "duration_ms": 186226,
-      "name": "Asesino A Sueldo",
-      "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
+      "duration_ms": 206184,
+      "name": "Paloma Piquito de Oro",
+      "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
     },
     {
       "added_at": null,
@@ -555,6 +555,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u00a1Ay Que Triste!",
+        "url": "https://open.spotify.com/album/6M886Mg1U15kSK4lACU9H5"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 186226,
+      "name": "Asesino A Sueldo",
+      "url": "https://open.spotify.com/track/0T9MBxiBJznCdjdw2QMMlV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -567,22 +583,6 @@
       "duration_ms": 158760,
       "name": "Los Federales De Caminos",
       "url": "https://open.spotify.com/track/2Lwr5cxzmklQ7oY1RkFKu7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "20 Exitos de Coleccion",
-        "url": "https://open.spotify.com/album/1VsqXzb0yyGFdPgl9VeOEi"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 206184,
-      "name": "Paloma Piquito de Oro",
-      "url": "https://open.spotify.com/track/27Y6fG0wY2H2sxggDp1Mgq"
     },
     {
       "added_at": null,
@@ -619,6 +619,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Chubasco",
+        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 171626,
+      "name": "La Yerbabuena",
+      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Norte\u00f1os Con Carlos Y Jos\u00e9",
         "url": "https://open.spotify.com/album/0tkrAv4a7Cad5wqrBc1V0Z"
       },
@@ -651,22 +667,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Gallo De San Juan",
-        "url": "https://open.spotify.com/album/0cBPDXzhU6hz9go0STNn9p"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 198626,
-      "name": "El Gallo De San Juan",
-      "url": "https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Patrulla 05 Corridos Con",
         "url": "https://open.spotify.com/album/3pW1AUtuRiCQugyaTz6Kjq"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 227306,
       "name": "Dos Cruces En La Curva",
       "url": "https://open.spotify.com/track/4z2P2by6AAg8vewrxkr3ts"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Gallo De San Juan",
+        "url": "https://open.spotify.com/album/0cBPDXzhU6hz9go0STNn9p"
+      },
+      "artists": [
+        {
+          "name": "Carlos Y Jose",
+          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
+        }
+      ],
+      "duration_ms": 198626,
+      "name": "El Gallo De San Juan",
+      "url": "https://open.spotify.com/track/4oK6HoJpq8pFdSg3AvO2CC"
     },
     {
       "added_at": null,
@@ -711,22 +727,6 @@
       "duration_ms": 226786,
       "name": "Luis Mart\u00ednez De La Campana",
       "url": "https://open.spotify.com/track/32tVey2lJ2rOXiX7myvmE8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Chubasco",
-        "url": "https://open.spotify.com/album/3fsQl4XE4ipfkqKico1xnh"
-      },
-      "artists": [
-        {
-          "name": "Carlos Y Jose",
-          "url": "https://open.spotify.com/artist/2IRfUbSEqoOzedNHXVD1Xb"
-        }
-      ],
-      "duration_ms": 171626,
-      "name": "La Yerbabuena",
-      "url": "https://open.spotify.com/track/35h1lWDAuynGZ1EoZRBpqW"
     },
     {
       "added_at": null,

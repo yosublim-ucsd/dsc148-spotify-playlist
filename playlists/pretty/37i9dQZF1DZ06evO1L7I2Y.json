@@ -1,12 +1,12 @@
 {
   "description": "This is N.I.N.A. The essential tracks, all in one playlist.",
-  "num_followers": 3171,
+  "num_followers": 3174,
   "original_name": "This Is N.I.N.A",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAABVDKBcC63Ff4P/8tkd3fvn",
+  "snapshot_id": "Z4rvAAAAAACJEo5Mv0W/wCg+yLx2DGaQ",
   "tracks": [
     {
       "added_at": null,
@@ -603,26 +603,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fed Tracks #14: Recado",
-        "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
+        "name": "FUTURO III",
+        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
       },
       "artists": [
+        {
+          "name": "Attlanta",
+          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
+        },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
         },
         {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        },
-        {
-          "name": "Baratapai",
-          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+          "name": "Ogrand",
+          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
         }
       ],
-      "duration_ms": 161095,
-      "name": "Fed Tracks #14: Recado",
-      "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
+      "duration_ms": 139591,
+      "name": "VIM DE L\u00c1",
+      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
     },
     {
       "added_at": null,
@@ -647,6 +647,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fed Tracks #14: Recado",
+        "url": "https://open.spotify.com/album/2bdqJbDmCUaTVyN1AaUCDJ"
+      },
+      "artists": [
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        },
+        {
+          "name": "Baratapai",
+          "url": "https://open.spotify.com/artist/7nahK9VX0AFY1KZmT04lGY"
+        }
+      ],
+      "duration_ms": 161095,
+      "name": "Fed Tracks #14: Recado",
+      "url": "https://open.spotify.com/track/1AzsKMkoDCBhbOw5OU1Ii1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "40\u02da.40",
         "url": "https://open.spotify.com/album/0IDVpLdT6AbMirnZPpRcz2"
       },
@@ -667,34 +691,6 @@
       "duration_ms": 159455,
       "name": "Stop Time",
       "url": "https://open.spotify.com/track/6kQ5atus6GiOG3c1ggFWbw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Trono de Vidro",
-        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
-      },
-      "artists": [
-        {
-          "name": "Iza Sabino",
-          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Thamiris",
-          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
-        },
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 161896,
-      "name": "Paz Terr\u00edvel",
-      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,
@@ -743,6 +739,34 @@
       "duration_ms": 224841,
       "name": "N.I.N.A",
       "url": "https://open.spotify.com/track/5ITMvmuOHl4OweZI81wF6X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Trono de Vidro",
+        "url": "https://open.spotify.com/album/5478asny0EoVp8jWQ0DAX7"
+      },
+      "artists": [
+        {
+          "name": "Iza Sabino",
+          "url": "https://open.spotify.com/artist/3bgFgu57tkJSn1ONpK9Gs3"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "Thamiris",
+          "url": "https://open.spotify.com/artist/4mIvneZNoJwl8pLlfPBMOn"
+        },
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 161896,
+      "name": "Paz Terr\u00edvel",
+      "url": "https://open.spotify.com/track/7vpLD8SnpMWi3D6WJc0hme"
     },
     {
       "added_at": null,
@@ -803,30 +827,6 @@
       "duration_ms": 352500,
       "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
       "url": "https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FUTURO III",
-        "url": "https://open.spotify.com/album/6fWpatyirDjjjRhU6T38CR"
-      },
-      "artists": [
-        {
-          "name": "Attlanta",
-          "url": "https://open.spotify.com/artist/62sBXKsvsgkuSZ93cQHDzr"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "Ogrand",
-          "url": "https://open.spotify.com/artist/72NITGQvWXHKgIDILDufBe"
-        }
-      ],
-      "duration_ms": 139591,
-      "name": "VIM DE L\u00c1",
-      "url": "https://open.spotify.com/track/48e962A7BqrinOw2mWYpxD"
     },
     {
       "added_at": null,

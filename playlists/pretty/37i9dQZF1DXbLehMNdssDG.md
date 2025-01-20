@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 
 > Affirmations and meditation music for a mindful start of the day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,932 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,995 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbLehMNdssDG.md) - [plain]
 | 29 | [Calmative](https://open.spotify.com/track/4q0m55JUumpMjGiLtYsSan) | [Rae Mansell](https://open.spotify.com/artist/4aVZNmLEXiIMrNM5GIzRw8) | [Calmative](https://open.spotify.com/album/0hzrMQP5DDS5iyDiAyNj3y) | 2:35 |
 | 30 | [Relaxation](https://open.spotify.com/track/7wyBtq2zSt2Ki00yBW0Ob8) | [Dudley Evenson](https://open.spotify.com/artist/6kDyIwI2psirzHCWyHKDTV), [Dean Evenson](https://open.spotify.com/artist/6Sp2FifnF2ZMmUrLvUuapi) | [Meditation Moment](https://open.spotify.com/album/0U0kxDWCU0yHXHuvIt6Bhp) | 2:16 |
 | 31 | [Mild](https://open.spotify.com/track/7tBtuMtMj2YzeaTdSwdMUr) | [Brief Moments](https://open.spotify.com/artist/20hwQJcC00dL9lcpmaoiXF) | [Mild](https://open.spotify.com/album/0RamTyquxGhUDO3nDk0BFS) | 2:13 |
-| 32 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 |
-| 33 | [Equilibrio 432Hz](https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF) | [Invocaciones](https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ) | [Equilibrio 432Hz](https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF) | 2:30 |
+| 32 | [Equilibrio 432Hz](https://open.spotify.com/track/3ZhxpgqkIRpL0WkkL74olF) | [Invocaciones](https://open.spotify.com/artist/4MCeDRNQzklVuOcniBsXlJ) | [Equilibrio 432Hz](https://open.spotify.com/album/4VFrZ2KOUog0GkLM5ff6RF) | 2:30 |
+| 33 | [Spiritual Echoes](https://open.spotify.com/track/5TGrXaVmrNlJoeaCcuyGhc) | [Bernie Longo](https://open.spotify.com/artist/7N3bLImLosoZTt8HJTmLw1) | [Spiritual Echoes](https://open.spotify.com/album/20ztVU1HJ6YJSVCVruojPu) | 2:44 |
 | 34 | [Distant 528 Hz](https://open.spotify.com/track/6ECIrwN9QtDtIoU30fq0GN) | [Mellow Dreamer](https://open.spotify.com/artist/7cSenDphuZem2nLqSAOxBj) | [Distant 528 Hz](https://open.spotify.com/album/1tvvuIdNDoUwZvAUedbzmw) | 3:03 |
 | 35 | [528 Hz Ethereal Wavelengths](https://open.spotify.com/track/0IYdJWqE3sZ0joQRolqwJb) | [Sacred Vibrational Sense](https://open.spotify.com/artist/5d7zpEJw3hhXugS5UFTQvg) | [528 Hz Ethereal Wavelengths](https://open.spotify.com/album/41RMfX1OGZLfG820A7Wvz6) | 3:00 |
 | 36 | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/track/5oACdFokhUeyN4N7ogNqPy) | [Macroix](https://open.spotify.com/artist/3ooxJFdCXxyk6heox7EOPV) | [Frequency of Transformation \- 528 Hz](https://open.spotify.com/album/1H0w7aY1HddegPYkkcb09E) | 2:35 |

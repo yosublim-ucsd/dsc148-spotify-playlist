@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-343 songs - 23 hr 53 min
+344 songs - 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -164,6 +164,7 @@
 | [Planet Zone](https://open.spotify.com/track/1AzDqUGSBTzexgNzzZjg0t) | [Risa Yuki](https://open.spotify.com/artist/4dE7mnDgdYAsXY4X9jfoPA) | [Planet Zone](https://open.spotify.com/album/3Km6CvcGjkq6BybVypKQGB) | 4:04 | 2022-07-27 |  |
 | [Planet Zone](https://open.spotify.com/track/1vCrSGsxSeIvj252PmUzFo) | [Risa Yuuki](https://open.spotify.com/artist/5mEeL62aHJl7ETL1uAVsQk) | [MOBILE SUIT SD GUNDAM Take Me Out to the Colony](https://open.spotify.com/album/4Rx1w76XW7L9I0MfYyiVZ8) | 4:03 | 2023-06-19 | 2023-06-24 |
 | [Planet Zone](https://open.spotify.com/track/1XgeXpAjtaIzgGj7yp9Xsr) | [Risa Yuuki](https://open.spotify.com/artist/5mEeL62aHJl7ETL1uAVsQk) | [Planet Zone](https://open.spotify.com/album/2Fq1FPNCcXcjkrL2H8EtZD) | 4:04 | 2023-06-19 | 2024-04-19 |
+| [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 | 2025-01-20 |  |
 | [PRIDE](https://open.spotify.com/track/3S78JYV8atqC3wiRDoFUwW) | [HIGH and MIGHTY COLOR](https://open.spotify.com/artist/68vPeaQOlnY1aA3iBKCEpG) | [G∞VER](https://open.spotify.com/album/7wK4X1r1m6QEpLBw1jdDTs) | 4:18 | 2024-01-11 |  |
 | [Prototype](https://open.spotify.com/track/3QAsiWZa6JQ1Vh4sCBlvcx) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [Prototype](https://open.spotify.com/album/5F1nPVlPoUxlANLGQRcDid) | 5:44 | 2023-04-21 | 2024-04-19 |
 | [Prototype](https://open.spotify.com/track/6cyvDIi8JNadYK9RDeHK6O) | [Chiaki Ishikawa](https://open.spotify.com/artist/4S7mAJFFsYYZE3gTYuf254) | [Prototype](https://open.spotify.com/album/4ddgTus7mYgqCchdjmgNPo) | 5:44 | 2022-07-27 |  |
@@ -267,7 +268,7 @@
 | [オルフェンズの涙](https://open.spotify.com/track/6PZhFwvTxeMQySOXmjdI87) | [MISIA](https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk) | [オルフェンズの涙](https://open.spotify.com/album/08EXbQtq5QBOfO7vD7MSJZ) | 5:06 | 2022-07-27 |  |
 | [カラーリング バイ G\-レコ \- 劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ](https://open.spotify.com/track/5qIQj1hQA37xMINca0gDel) | [ハセガワダイスケ](https://open.spotify.com/artist/3Zd87MBrn6zbLnZQA8rF13) | [カラーリング バイ G\-レコ \(劇場版『Gのレコンギスタ IV』「激闘に叫ぶ愛」エンディングテーマ\)](https://open.spotify.com/album/5JqvjrwI64lGv2nnN6JJ7s) | 3:54 | 2022-07-27 | 2022-07-29 |
 | [キラ、その心のままに](https://open.spotify.com/track/7ooLn21DfEl2LZvivc11JH) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダム SEED DESTINY Original Soundtrack 3](https://open.spotify.com/album/7zA6RJRov58p4W6nmNVImz) | 2:55 | 2024-01-27 |  |
-| [キラ・ヤマト（CV: 保志総一朗）GUNDAM SERIES ボイスコメント](https://open.spotify.com/track/15oTuand59qXpbXz2cu9Ft) | [キラ・ヤマト（CV: 保志総一朗）](https://open.spotify.com/artist/4QcDVaw0dyFCIam0dWZ06H) | [キラ・ヤマト（CV: 保志総一朗）GUNDAM SERIES ボイスコメント](https://open.spotify.com/album/3y6I0lzT9VCxErPdXh3uN8) | 0:35 | 2024-01-27 |  |
+| [キラ・ヤマト（CV: 保志総一朗）GUNDAM SERIES ボイスコメント](https://open.spotify.com/track/15oTuand59qXpbXz2cu9Ft) | [キラ・ヤマト（CV: 保志総一朗）](https://open.spotify.com/artist/4QcDVaw0dyFCIam0dWZ06H) | [キラ・ヤマト（CV: 保志総一朗）GUNDAM SERIES ボイスコメント](https://open.spotify.com/album/3y6I0lzT9VCxErPdXh3uN8) | 0:35 | 2024-01-27 | 2025-01-20 |
 | [クオリア](https://open.spotify.com/track/12zLvEe3rs05AROHQmGN1Y) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [LIFE 6 SENSE](https://open.spotify.com/album/3a0Fm0IirSryLjMpfPXldU) | 4:30 | 2022-07-27 | 2024-04-19 |
 | [クオリア](https://open.spotify.com/track/4TcjO7rdbOHjkoiucQ3rCc) | [UVERworld](https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky) | [クオリア](https://open.spotify.com/album/6qLF3MgVFNqPEO5f3FgVaG) | 4:32 | 2022-07-27 |  |
 | [ククルス・ドアンの島 メインタイトル](https://open.spotify.com/track/5GAGl2Qzz7zH37Ptak269c) | [Takayuki Hattori](https://open.spotify.com/artist/76bJYea3ZCMhhO8aF0iU5W) | [機動戦士ガンダム ククルス・ドアンの島 \(オリジナルサウンドトラック\)](https://open.spotify.com/album/3qhoqjiqYZxeOGBAz2ftNX) | 1:59 | 2022-07-27 | 2022-07-29 |

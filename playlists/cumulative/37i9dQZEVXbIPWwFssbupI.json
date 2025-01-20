@@ -2708,7 +2708,7 @@
       ],
       "date_added": "2024-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 174266,
       "name": "Angela",
       "url": "https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9"
@@ -7939,6 +7939,28 @@
     },
     {
       "album": {
+        "name": "Chaque seconde (Edition deluxe)",
+        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
+      },
+      "artists": [
+        {
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+        },
+        {
+          "name": "M. Pokora",
+          "url": "https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166320,
+      "name": "Chaque seconde (feat. M. Pokora)",
+      "url": "https://open.spotify.com/track/6DlhTnan7aiDgAkIJXsFnQ"
+    },
+    {
+      "album": {
         "name": "Carr\u00e9",
         "url": "https://open.spotify.com/album/4IoXKS2ihE2YnCpyBxcdCn"
       },
@@ -9412,7 +9434,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 163373,
       "name": "Couteau dans le dos",
       "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
@@ -25092,7 +25114,7 @@
       ],
       "date_added": "2024-09-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 169846,
       "name": "MANON B",
       "url": "https://open.spotify.com/track/6C0SXfD7rR46MpWK5VJSEw"
@@ -41256,7 +41278,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 156364,
       "name": "VOY A LLeVARTE PA PR",
       "url": "https://open.spotify.com/track/59D4DOkspUbWyMmbAPQkxZ"
@@ -41634,6 +41656,40 @@
       "duration_ms": 341307,
       "name": "We Cry Together",
       "url": "https://open.spotify.com/track/0RAvy97QRPzO2AfK5Dw6j3"
+    },
+    {
+      "album": {
+        "name": "Moon Music (Full Moon Edition)",
+        "url": "https://open.spotify.com/album/1PdMoahMiMnqWfzWZs3xSI"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        },
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        },
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        },
+        {
+          "name": "Elyanna",
+          "url": "https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g"
+        },
+        {
+          "name": "TINI",
+          "url": "https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233406,
+      "name": "WE PRAY",
+      "url": "https://open.spotify.com/track/6xX6zmaXeKzB4u9TiM1XgU"
     },
     {
       "album": {

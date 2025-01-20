@@ -1,12 +1,12 @@
 {
   "description": "This is Willie Col\u00f3n. The essential tracks, all in one playlist.",
-  "num_followers": 77885,
+  "num_followers": 77917,
   "original_name": "This Is Willie Col\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAABid9VjGZsmFT2wW4Jow68y",
+  "snapshot_id": "Z4rvAAAAAADZTUNsndcFdVx+zBehJA30",
   "tracks": [
     {
       "added_at": null,
@@ -939,10 +939,14 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crime Pays",
-        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+        "name": "Aguanile",
+        "url": "https://open.spotify.com/album/39gHO23z4L81f3xHVd8mML"
       },
       "artists": [
+        {
+          "name": "SWAYL\u00d3",
+          "url": "https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv"
+        },
         {
           "name": "Willie Col\u00f3n",
           "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
@@ -952,9 +956,9 @@
           "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
         }
       ],
-      "duration_ms": 242386,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
+      "duration_ms": 173333,
+      "name": "Aguanile",
+      "url": "https://open.spotify.com/track/5T8uNSE1RCwGmIRJn95Vzf"
     },
     {
       "added_at": null,
@@ -971,6 +975,26 @@
       "duration_ms": 354600,
       "name": "Paname\u00f1a",
       "url": "https://open.spotify.com/track/1c7GpIXR8F85rFxFj90Z63"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Crime Pays",
+        "url": "https://open.spotify.com/album/31FDxX16G7sPB3p5bNhf8K"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 242386,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/5kRCz2YwhQ2gCcltRcRsz2"
     },
     {
       "added_at": null,
@@ -995,30 +1019,6 @@
       "duration_ms": 293057,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/1CkuZ3qvhxfMv7y0Nt0sV5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Aguanile",
-        "url": "https://open.spotify.com/album/39gHO23z4L81f3xHVd8mML"
-      },
-      "artists": [
-        {
-          "name": "SWAYL\u00d3",
-          "url": "https://open.spotify.com/artist/6UrFs6kJkQTO9k2rKzfqEv"
-        },
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 173333,
-      "name": "Aguanile",
-      "url": "https://open.spotify.com/track/5T8uNSE1RCwGmIRJn95Vzf"
     }
   ],
   "unique_name": "This Is Willie Col\u00f3n",

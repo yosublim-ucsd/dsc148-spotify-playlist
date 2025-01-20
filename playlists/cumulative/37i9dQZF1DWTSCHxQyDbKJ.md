@@ -4,7 +4,7 @@
 
 > Necessities from LGBTQIA+ artists\. Cover: jasmine.4.t
 
-208 songs - 11 hr 24 min
+209 songs - 11 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,11 +205,12 @@
 | [Trouble](https://open.spotify.com/track/4Pt4Vdrd62VdIB5Ax1uHrZ) | [ARXX](https://open.spotify.com/artist/1pQ8qfxpuRJKEUFPGrf6Uc) | [Trouble](https://open.spotify.com/album/0uEAKarNQvGAihjnah3asA) | 3:39 | 2024-08-14 | 2024-09-10 |
 | [Ultrasound](https://open.spotify.com/track/6DohhL3ptxwD3GBvhHujCA) | [The Oozes](https://open.spotify.com/artist/48VgYEfRllDfyLl4BEMVSF) | [Ultrasound](https://open.spotify.com/album/315J5u9lEScVQyqLiDO4ui) | 2:36 | 2024-06-10 | 2024-09-10 |
 | [we2assume2many2roles](https://open.spotify.com/track/3dr4RVjksmZV0wS28aRGot) | [Lauren Auder](https://open.spotify.com/artist/5rxf4rjZ5lyhKt7DWM5dLL) | [the infinite spine](https://open.spotify.com/album/0U6mF03dmB2ba3XZXnxgOO) | 3:18 | 2024-12-04 | 2025-01-14 |
+| [When I'm With You](https://open.spotify.com/track/30wDywCIhgLgseIJEYoDCI) | [NIMMO](https://open.spotify.com/artist/76MojWoWNPzzKdrEspy5sl), [St\. Panther](https://open.spotify.com/artist/5rvubrGTRPAX7N3RZZ9wS0) | [When I'm With You](https://open.spotify.com/album/74ValgCpozFtv4j4cDmWGa) | 3:41 | 2025-01-14 |  |
 | [When We Kiss](https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI) | [Olly Alexander \(Years & Years\)](https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc) | [When We Kiss](https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L) | 3:32 | 2025-01-14 |  |
 | [Why Am I Like This?](https://open.spotify.com/track/2SSnrpEz16w4bvdLqcG2Ze) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:26 | 2024-12-04 | 2025-01-14 |
 | [Why Am I Like This?](https://open.spotify.com/track/6gnNNTPxIPjgvGlWw98Bwc) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [Why Am I Like This? / Ipecac](https://open.spotify.com/album/5CRI8TgzFDrBGmgMoC0hVq) | 2:26 | 2024-06-10 | 2024-11-19 |
 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2024-06-10 |  |
-| [WOT?](https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [WOT?](https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E) | 2:56 | 2024-06-10 |  |
+| [WOT?](https://open.spotify.com/track/3reDMknQne3fFioU5DGjxn) | [Cody Frost](https://open.spotify.com/artist/3FobDbMc9jNxkZ8GCc685W) | [WOT?](https://open.spotify.com/album/1ZR2wheKOl3LfjIMeldl7E) | 2:56 | 2024-06-10 | 2025-01-20 |
 | [You Are The Morning](https://open.spotify.com/track/42eoOh5gqlN1iazumPf4ei) | [jasmine.4.t](https://open.spotify.com/artist/2mSYfudGtQzxNYHApMjZBm) | [You Are The Morning](https://open.spotify.com/album/2YEw0l5F8HCK3t6iZWzCx3) | 4:13 | 2025-01-14 |  |
 | [You Know What You’ve Done](https://open.spotify.com/track/1QfSvXdSRc57B7eYGeYL3O) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [You Know What You’ve Done](https://open.spotify.com/album/0uNeiIPK89sNKkleeuljRp) | 3:11 | 2024-06-10 |  |
 | [You Know What You’ve Done](https://open.spotify.com/track/4xlXrO4n68KEfAJK1JDux5) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Traumatic Livelihood](https://open.spotify.com/album/2bJSnPuFrikBDE4F6SxNC4) | 3:11 | 2024-12-04 | 2025-01-14 |

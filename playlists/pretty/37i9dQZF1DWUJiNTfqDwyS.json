@@ -1,6 +1,6 @@
 {
   "description": "A collection of the best Metal covers out there. Cover: Gojira",
-  "num_followers": 378732,
+  "num_followers": 378765,
   "original_name": "Metal Covers",
   "owner": {
     "name": "Spotify",
@@ -131,6 +131,22 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
+        "name": "Three Dollar Bill, Y'all $",
+        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 146480,
+      "name": "Faith",
+      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+    },
+    {
+      "added_at": "2024-09-13 04:00:00",
+      "album": {
         "name": "Heart Vs. Mind",
         "url": "https://open.spotify.com/album/6bywSFiasl6HpfQLDvh0az"
       },
@@ -147,18 +163,18 @@
     {
       "added_at": "2024-09-13 04:00:00",
       "album": {
-        "name": "Three Dollar Bill, Y'all $",
-        "url": "https://open.spotify.com/album/3I34EprFC0rlAO4pKNeX1t"
+        "name": "Garage Inc.",
+        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 146480,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/5MYsvAONqcsIVOwu2HTQ3p"
+      "duration_ms": 366466,
+      "name": "Turn The Page",
+      "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
     },
     {
       "added_at": "2024-09-13 04:00:00",
@@ -207,22 +223,6 @@
       "duration_ms": 233733,
       "name": "Wicked Game",
       "url": "https://open.spotify.com/track/5XenUjG7cRnTkUe8AVuuMX"
-    },
-    {
-      "added_at": "2024-09-13 04:00:00",
-      "album": {
-        "name": "Garage Inc.",
-        "url": "https://open.spotify.com/album/0vshXZYhBkbIoqxyC2fXcF"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 366466,
-      "name": "Turn The Page",
-      "url": "https://open.spotify.com/track/1aXFBWnnPFRKUN7vuIA5h0"
     },
     {
       "added_at": "2024-09-13 04:00:00",

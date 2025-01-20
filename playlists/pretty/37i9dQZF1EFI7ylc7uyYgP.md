@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 131 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 30 likes - 132 songs - 6 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -135,9 +135,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFI7ylc7uyYgP.md) - [plain]
 | 125 | [Swagger Right](https://open.spotify.com/track/2tSPLQSQ4XkFwffpxvrGxm) | [Manufactured Superstars](https://open.spotify.com/artist/0sqAJzf2NCihzzyiH0e0d1), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF) | [Party All the Time](https://open.spotify.com/album/5sAlN16zuw2ruoAbUSkbYw) | 2:59 |
 | 126 | [Miss Automatic](https://open.spotify.com/track/4ytMI0xkRMGIDe9PTwpQ3Y) | [Mark Angelo](https://open.spotify.com/artist/288eZo7UTFQoL9aFLR3S0r), [VASSY](https://open.spotify.com/artist/7HqEmV7FeCi16bQyHMpIrF), [Epsilon](https://open.spotify.com/artist/2WVeWSVaLm9x2Uww6t1p9A) | [Miss Automatic](https://open.spotify.com/album/1AOIElfKvDzmigoqUXHKVB) | 3:28 |
 | 127 | [He Never Fades](https://open.spotify.com/track/0quEoRpMulvAVgg0WHCzDg) | [Hermione Hennessy](https://open.spotify.com/artist/0mDMF2zU0XpFEMFSrz2TDJ), [Tim Ross](https://open.spotify.com/artist/0xOscyYZUP0qmWYaDOkdbu) | [Songs My Father Inspired](https://open.spotify.com/album/2lYBUmqpzm4WCZrz9AZt0q) | 3:01 |
-| 128 | [Mustangs](https://open.spotify.com/track/6h2yBxbA1PoSXA6vliLw9l) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:05 |
-| 129 | [Commander](https://open.spotify.com/track/7ppW4pdWW3M0yUwNbO2cGd) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:19 |
-| 130 | [Lion's Den](https://open.spotify.com/track/1E94YM2HPqbRdVP8gW7s42) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:52 |
-| 131 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
+| 128 | [Alive](https://open.spotify.com/track/6o5yJOHRffyjiSe8odvVZA) | [Jesse Blaze](https://open.spotify.com/artist/1c8pHcgA2ZjOSfC3gAOfnf) | [Lost & Found](https://open.spotify.com/album/6xVhVxpq8XvEH5JdV4DDQt) | 3:27 |
+| 129 | [Mustangs](https://open.spotify.com/track/6h2yBxbA1PoSXA6vliLw9l) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:05 |
+| 130 | [Commander](https://open.spotify.com/track/7ppW4pdWW3M0yUwNbO2cGd) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:19 |
+| 131 | [Lion's Den](https://open.spotify.com/track/1E94YM2HPqbRdVP8gW7s42) | [Punch !nc](https://open.spotify.com/artist/0iRdgcSMVRBHPqEXWdqMkl) | [The High L!fe](https://open.spotify.com/album/6AkxONHcB8l41HvWInyF7q) | 3:52 |
+| 132 | [Earthquake](https://open.spotify.com/track/19h8d5HremCgEauVczVnRk) | [Tisno van Diemen](https://open.spotify.com/artist/10Uzu9lJidelQ1duiV8kvb) | [Dance Bangerz, Vol\. 4](https://open.spotify.com/album/50LlNy1XkPd4cymjIcuKH2) | 3:09 |
 
-Snapshot ID: `AbnOqAAAAABIfP6y7CQrLm6RhgSgMN1Y`
+Snapshot ID: `AbnUPgAAAAAWch/gyX6tDh7xTQHccNC9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2p24KuIbwho6IKwVb2VYiC.md) - [plain]
 
 > The best Dance and EDM tracks right now! Cover: Marshmello &amp; Jonas Brothers
 
-[Digster Canada](https://open.spotify.com/user/digsterca) - 21,013 likes - 157 songs - 8 hr 12 min
+[Digster Canada](https://open.spotify.com/user/digsterca) - 21,018 likes - 157 songs - 8 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

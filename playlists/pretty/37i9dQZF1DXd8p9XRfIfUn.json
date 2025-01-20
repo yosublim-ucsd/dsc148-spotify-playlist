@@ -1,6 +1,6 @@
 {
   "description": "Lo mejor de la nueva. Foto: Lexxx Torres ",
-  "num_followers": 78089,
+  "num_followers": 78109,
   "original_name": "Academia Reggaet\u00f3n",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
+        "name": "Enredao",
+        "url": "https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7"
+      },
+      "artists": [
+        {
+          "name": "Picus",
+          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
+        }
+      ],
+      "duration_ms": 172946,
+      "name": "Enredao",
+      "url": "https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
         "name": "Cartagena",
         "url": "https://open.spotify.com/album/7GWo7V5ynQbXrLOKB2aX4u"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 195163,
       "name": "Cartagena",
       "url": "https://open.spotify.com/track/04xYsXTqDPw63leBivg2pf"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
-        "name": "Enredao",
-        "url": "https://open.spotify.com/album/7DWPW3IbVwDk9MnNHp6QF7"
-      },
-      "artists": [
-        {
-          "name": "Picus",
-          "url": "https://open.spotify.com/artist/2BUqEy3gCJYDKmKqV06Ojt"
-        }
-      ],
-      "duration_ms": 172946,
-      "name": "Enredao",
-      "url": "https://open.spotify.com/track/4znnogFSUca0pC89QzNp1m"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -887,26 +887,6 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
-        "name": "Tus Besos (Remix)",
-        "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
-      },
-      "artists": [
-        {
-          "name": "Juanka",
-          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
-        },
-        {
-          "name": "Jay Wheeler",
-          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Tus Besos - Remix",
-      "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
         "name": "Cu\u00e1ndo Ser\u00e1",
         "url": "https://open.spotify.com/album/5qK4dDtESjgrbN98KbHsl2"
       },
@@ -923,6 +903,26 @@
       "duration_ms": 176000,
       "name": "Cu\u00e1ndo Ser\u00e1",
       "url": "https://open.spotify.com/track/68Oy57uVLa2uZdWcYNi6M4"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
+        "name": "Tus Besos (Remix)",
+        "url": "https://open.spotify.com/album/4M0AZNWr6KbYVxtcsXjCNH"
+      },
+      "artists": [
+        {
+          "name": "Juanka",
+          "url": "https://open.spotify.com/artist/3Wb38LDP3N4tkobValgE9D"
+        },
+        {
+          "name": "Jay Wheeler",
+          "url": "https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Tus Besos - Remix",
+      "url": "https://open.spotify.com/track/4SieMb6AQmQgbjv9TfC5Qm"
     },
     {
       "added_at": "2024-12-17 19:27:27",
@@ -1139,6 +1139,26 @@
     {
       "added_at": "2024-12-17 19:27:27",
       "album": {
+        "name": "Que Loco Mami",
+        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
+      },
+      "artists": [
+        {
+          "name": "Harry Nach",
+          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
+        },
+        {
+          "name": "Hozwal",
+          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
+        }
+      ],
+      "duration_ms": 176629,
+      "name": "Que Loco Mami",
+      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
+    },
+    {
+      "added_at": "2024-12-17 19:27:27",
+      "album": {
         "name": "Imposible",
         "url": "https://open.spotify.com/album/4QerNrI0xPSnpiny4bROq6"
       },
@@ -1219,26 +1239,6 @@
       "duration_ms": 167814,
       "name": "MAMi QU\u00c9 FUE?",
       "url": "https://open.spotify.com/track/4OIqoYd1eZkgzLKaWOsVZt"
-    },
-    {
-      "added_at": "2024-12-17 19:27:27",
-      "album": {
-        "name": "Que Loco Mami",
-        "url": "https://open.spotify.com/album/1jrxhZMUDRG5ssTUxFR10s"
-      },
-      "artists": [
-        {
-          "name": "Harry Nach",
-          "url": "https://open.spotify.com/artist/0NnUMWDCDi1snuMja6IdxH"
-        },
-        {
-          "name": "Hozwal",
-          "url": "https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2"
-        }
-      ],
-      "duration_ms": 176629,
-      "name": "Que Loco Mami",
-      "url": "https://open.spotify.com/track/5dIVRu9PgpCqntnva0F0Fl"
     }
   ],
   "unique_name": "Academia Reggaet\u00f3n",

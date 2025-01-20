@@ -1,12 +1,12 @@
 {
   "description": "La Llista amb els 45 \u00e8xits de Flaixbac. Actualitzada cada diumenge de 17 h a 21 h amb en Jordi Cuadras. Vota el pr\u00f2xim n\u00famero 1 de La Llista a la nostra web: https:&#x2F;&#x2F;flaixbac.cat&#x2F;la-llista",
-  "num_followers": 29412,
-  "original_name": "LA LLISTA DE FLAIXBAC (12/01/2025)",
+  "num_followers": 29419,
+  "original_name": "LA LLISTA DE FLAIXBAC (19/01/2025)",
   "owner": {
     "name": "flaixbacoficial",
     "url": "https://open.spotify.com/user/flaixbacoficial"
   },
-  "snapshot_id": "AAA5fV8+NrzI3hYc/UvUy03qcIw7Sige",
+  "snapshot_id": "AAA5picZr3wulAZuQ/rEYv2hqKaxRKFf",
   "tracks": [
     {
       "added_at": "2024-11-10 16:19:00",
@@ -29,6 +29,22 @@
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
     },
     {
+      "added_at": "2024-11-10 16:18:49",
+      "album": {
+        "name": "Bad Dreams",
+        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 184577,
+      "name": "Bad Dreams",
+      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+    },
+    {
       "added_at": "2024-10-13 16:25:50",
       "album": {
         "name": "Soltera",
@@ -43,22 +59,6 @@
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
-    },
-    {
-      "added_at": "2024-10-13 16:26:00",
-      "album": {
-        "name": "Fruit del Deliri",
-        "url": "https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v"
-      },
-      "artists": [
-        {
-          "name": "Oques Grasses",
-          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
-        }
-      ],
-      "duration_ms": 167764,
-      "name": "SORT DE TU",
-      "url": "https://open.spotify.com/track/054BhpaxELmhu24ECqU8un"
     },
     {
       "added_at": "2024-10-27 16:20:07",
@@ -85,6 +85,22 @@
       "url": "https://open.spotify.com/track/3bg2qahpZmsg5wV2EMPXIk"
     },
     {
+      "added_at": "2024-10-20 15:37:02",
+      "album": {
+        "name": "Short n' Sweet",
+        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 157279,
+      "name": "Taste",
+      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+    },
+    {
       "added_at": "2024-10-20 15:39:35",
       "album": {
         "name": "Die With A Smile",
@@ -105,36 +121,56 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2024-11-10 16:18:49",
+      "added_at": "2024-10-13 16:26:00",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+        "name": "Fruit del Deliri",
+        "url": "https://open.spotify.com/album/5wrNopViDjNZqgmR6cpD9v"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Oques Grasses",
+          "url": "https://open.spotify.com/artist/5qPeAT4ikl6gJNUexAOEy0"
         }
       ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+      "duration_ms": 167764,
+      "name": "SORT DE TU",
+      "url": "https://open.spotify.com/track/054BhpaxELmhu24ECqU8un"
     },
     {
-      "added_at": "2024-10-20 15:37:02",
+      "added_at": "2024-10-27 16:19:51",
       "album": {
-        "name": "Short n' Sweet",
-        "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
+        "name": "Rumba catalana",
+        "url": "https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e"
       },
       "artists": [
         {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+          "name": "Alfred Garc\u00eda",
+          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
         }
       ],
-      "duration_ms": 157279,
-      "name": "Taste",
-      "url": "https://open.spotify.com/track/5G2f63n7IPVPPjfNIGih7Q"
+      "duration_ms": 199500,
+      "name": "Rumba catalana",
+      "url": "https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo"
+    },
+    {
+      "added_at": "2024-12-08 16:22:15",
+      "album": {
+        "name": "2AM",
+        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Yatra",
+          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
+        },
+        {
+          "name": "Bad Gyal",
+          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+        }
+      ],
+      "duration_ms": 196426,
+      "name": "2AM",
+      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
     },
     {
       "added_at": "2024-09-15 17:07:22",
@@ -169,38 +205,6 @@
       "url": "https://open.spotify.com/track/4ePie7AbHKyKdQtCte6SYC"
     },
     {
-      "added_at": "2024-10-27 16:19:51",
-      "album": {
-        "name": "Rumba catalana",
-        "url": "https://open.spotify.com/album/7zbpWINUVBuj2qbaP0Zg5e"
-      },
-      "artists": [
-        {
-          "name": "Alfred Garc\u00eda",
-          "url": "https://open.spotify.com/artist/0CQgFG7XHyXRpSi24kl0cx"
-        }
-      ],
-      "duration_ms": 199500,
-      "name": "Rumba catalana",
-      "url": "https://open.spotify.com/track/3bGAxzfcWxeHhnAWrDBSDo"
-    },
-    {
-      "added_at": "2024-09-15 17:03:23",
-      "album": {
-        "name": "Good Luck, Babe!",
-        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
-      },
-      "artists": [
-        {
-          "name": "Chappell Roan",
-          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
-        }
-      ],
-      "duration_ms": 218423,
-      "name": "Good Luck, Babe!",
-      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
-    },
-    {
       "added_at": "2024-12-08 16:22:25",
       "album": {
         "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
@@ -225,6 +229,22 @@
       "url": "https://open.spotify.com/track/4lriIG2vNqwDWzOj2I9rtj"
     },
     {
+      "added_at": "2024-09-15 17:03:23",
+      "album": {
+        "name": "Good Luck, Babe!",
+        "url": "https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q"
+      },
+      "artists": [
+        {
+          "name": "Chappell Roan",
+          "url": "https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN"
+        }
+      ],
+      "duration_ms": 218423,
+      "name": "Good Luck, Babe!",
+      "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
+    },
+    {
       "added_at": "2024-08-25 16:39:31",
       "album": {
         "name": "Where I've Been, Isn't Where I'm Going",
@@ -241,24 +261,20 @@
       "url": "https://open.spotify.com/track/7wd9kz7UXhJr8pgdqpzKu5"
     },
     {
-      "added_at": "2024-12-08 16:22:15",
+      "added_at": "2024-12-01 17:08:01",
       "album": {
-        "name": "2AM",
-        "url": "https://open.spotify.com/album/7HSCFsDUsj8xPAy8DHoxsB"
+        "name": "The Secret of Us (Deluxe)",
+        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
       },
       "artists": [
         {
-          "name": "Sebastian Yatra",
-          "url": "https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW"
-        },
-        {
-          "name": "Bad Gyal",
-          "url": "https://open.spotify.com/artist/4F4pp8NUW08JuXwnoxglpN"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 196426,
-      "name": "2AM",
-      "url": "https://open.spotify.com/track/3BvR83k9fPwDZUBwFxBPpu"
+      "duration_ms": 166300,
+      "name": "That\u2019s So True",
+      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
       "added_at": "2024-10-20 15:35:59",
@@ -291,6 +307,22 @@
       "duration_ms": 220036,
       "name": "Dancing In The Flames",
       "url": "https://open.spotify.com/track/7z7kvUQGwlC6iOl7vMuAr9"
+    },
+    {
+      "added_at": "2024-11-17 16:46:48",
+      "album": {
+        "name": "Nom\u00e9s viure",
+        "url": "https://open.spotify.com/album/3mM29JednHFHMa4JCMDxvg"
+      },
+      "artists": [
+        {
+          "name": "Ginest\u00e0",
+          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
+        }
+      ],
+      "duration_ms": 136048,
+      "name": "Nom\u00e9s viure",
+      "url": "https://open.spotify.com/track/1JElpM8NFE6PzsTRkca0ru"
     },
     {
       "added_at": "2024-09-22 16:17:31",
@@ -361,36 +393,24 @@
       "url": "https://open.spotify.com/track/5uQ7de4EWjb3rkcFxyEOpu"
     },
     {
-      "added_at": "2024-11-17 16:46:48",
+      "added_at": "2024-11-24 16:20:59",
       "album": {
-        "name": "Nom\u00e9s viure",
-        "url": "https://open.spotify.com/album/3mM29JednHFHMa4JCMDxvg"
+        "name": "4-3-3",
+        "url": "https://open.spotify.com/album/6Bk9nvL7XFojCy544fLrkf"
       },
       "artists": [
         {
-          "name": "Ginest\u00e0",
-          "url": "https://open.spotify.com/artist/3hi1Ewhqpzl1jO2GemGmv6"
-        }
-      ],
-      "duration_ms": 136048,
-      "name": "Nom\u00e9s viure",
-      "url": "https://open.spotify.com/track/1JElpM8NFE6PzsTRkca0ru"
-    },
-    {
-      "added_at": "2024-12-01 17:08:01",
-      "album": {
-        "name": "The Secret of Us (Deluxe)",
-        "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
-      },
-      "artists": [
+          "name": "Els Amics De Les Arts",
+          "url": "https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2"
+        },
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "The Tyets",
+          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
         }
       ],
-      "duration_ms": 166300,
-      "name": "That\u2019s So True",
-      "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
+      "duration_ms": 193996,
+      "name": "4-3-3",
+      "url": "https://open.spotify.com/track/6z2LDLTbaG7vRZsCd6y212"
     },
     {
       "added_at": "2024-09-08 15:21:30",
@@ -429,24 +449,20 @@
       "url": "https://open.spotify.com/track/1gMFAi2auKTgHsYH7nIBhv"
     },
     {
-      "added_at": "2024-11-24 16:20:59",
+      "added_at": "2024-12-15 17:14:42",
       "album": {
-        "name": "4-3-3",
-        "url": "https://open.spotify.com/album/6Bk9nvL7XFojCy544fLrkf"
+        "name": "REBOBINAR",
+        "url": "https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ"
       },
       "artists": [
         {
-          "name": "Els Amics De Les Arts",
-          "url": "https://open.spotify.com/artist/0op3EnoEZ0jQY13sbyoSo2"
-        },
-        {
-          "name": "The Tyets",
-          "url": "https://open.spotify.com/artist/6I63R76ouyFvUIwPggQxxT"
+          "name": "La F\u00famiga",
+          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
         }
       ],
-      "duration_ms": 193996,
-      "name": "4-3-3",
-      "url": "https://open.spotify.com/track/6z2LDLTbaG7vRZsCd6y212"
+      "duration_ms": 174412,
+      "name": "REBOBINAR",
+      "url": "https://open.spotify.com/track/45r6wchHonMxHst9NwAnze"
     },
     {
       "added_at": "2024-07-07 16:49:59",
@@ -463,6 +479,22 @@
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k"
+    },
+    {
+      "added_at": "2024-12-01 17:07:51",
+      "album": {
+        "name": "LOOM",
+        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
+      },
+      "artists": [
+        {
+          "name": "Imagine Dragons",
+          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
+        }
+      ],
+      "duration_ms": 167080,
+      "name": "Take Me to the Beach",
+      "url": "https://open.spotify.com/track/2Wop6FEmIstWTMeQb0TXcw"
     },
     {
       "added_at": "2024-10-20 15:36:53",
@@ -485,154 +517,6 @@
       "url": "https://open.spotify.com/track/2ibFPYHzUnqVpS2rv655oF"
     },
     {
-      "added_at": "2024-09-08 15:21:52",
-      "album": {
-        "name": "Ohnana",
-        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
-      },
-      "artists": [
-        {
-          "name": "Kapo",
-          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
-        }
-      ],
-      "duration_ms": 156577,
-      "name": "Ohnana",
-      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-07-14 16:17:27",
-      "album": {
-        "name": "LA MARINA STA MORENA",
-        "url": "https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw"
-      },
-      "artists": [
-        {
-          "name": "Figa Flawas",
-          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
-        }
-      ],
-      "duration_ms": 131332,
-      "name": "LA MARINA STA MORENA",
-      "url": "https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44"
-    },
-    {
-      "added_at": "2024-12-15 17:14:42",
-      "album": {
-        "name": "REBOBINAR",
-        "url": "https://open.spotify.com/album/2ATBzg2TsEwMwETy0tXsFZ"
-      },
-      "artists": [
-        {
-          "name": "La F\u00famiga",
-          "url": "https://open.spotify.com/artist/2Y4AiImxLUoWEgxedb3Gtz"
-        }
-      ],
-      "duration_ms": 174412,
-      "name": "REBOBINAR",
-      "url": "https://open.spotify.com/track/45r6wchHonMxHst9NwAnze"
-    },
-    {
-      "added_at": "2024-12-01 17:07:51",
-      "album": {
-        "name": "LOOM",
-        "url": "https://open.spotify.com/album/7EPrkhjTBrwAV8yAKCmY0Y"
-      },
-      "artists": [
-        {
-          "name": "Imagine Dragons",
-          "url": "https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q"
-        }
-      ],
-      "duration_ms": 167080,
-      "name": "Take Me to the Beach",
-      "url": "https://open.spotify.com/track/2Wop6FEmIstWTMeQb0TXcw"
-    },
-    {
-      "added_at": "2024-08-04 15:39:33",
-      "album": {
-        "name": "Stargazing (Moonlight Version)",
-        "url": "https://open.spotify.com/album/5995013HazvYze8wmylSzw"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 172533,
-      "name": "Stargazing",
-      "url": "https://open.spotify.com/track/2dylnPaUPcOvzBLokj8DZa"
-    },
-    {
-      "added_at": "2024-08-18 16:02:55",
-      "album": {
-        "name": "Barcelona",
-        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
-      },
-      "artists": [
-        {
-          "name": "Alan Walker",
-          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
-        },
-        {
-          "name": "Ina Wroldsen",
-          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
-        }
-      ],
-      "duration_ms": 205086,
-      "name": "Barcelona",
-      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
-    },
-    {
-      "added_at": "2024-07-14 16:17:05",
-      "album": {
-        "name": "feelslikeimfallinginlove",
-        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
-      },
-      "artists": [
-        {
-          "name": "Coldplay",
-          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
-        }
-      ],
-      "duration_ms": 237803,
-      "name": "feelslikeimfallinginlove - Single Version",
-      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
-    },
-    {
-      "added_at": "2024-11-03 17:48:49",
-      "album": {
-        "name": "El club de la sisena hora",
-        "url": "https://open.spotify.com/album/0DQYzvlS4d7DmuLBtkqo3V"
-      },
-      "artists": [
-        {
-          "name": "Sexenni",
-          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
-        }
-      ],
-      "duration_ms": 146190,
-      "name": "El club de la sisena hora",
-      "url": "https://open.spotify.com/track/7a5RpWYAhhn2tzEa58aA4b"
-    },
-    {
-      "added_at": "2024-07-21 17:49:28",
-      "album": {
-        "name": "LA REINA",
-        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
-      },
-      "artists": [
-        {
-          "name": "Lola Indigo",
-          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "LA REINA",
-      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
-    },
-    {
       "added_at": "2025-01-12 16:54:43",
       "album": {
         "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
@@ -651,6 +535,22 @@
       "duration_ms": 130880,
       "name": "DEGENERE \ud83d\udc51 (feat. benny blanco)",
       "url": "https://open.spotify.com/track/4xISUrw0t2elabEhKrtAJ0"
+    },
+    {
+      "added_at": "2024-09-08 15:21:52",
+      "album": {
+        "name": "Ohnana",
+        "url": "https://open.spotify.com/album/3IdVqIfyLPqxPZusYgifLo"
+      },
+      "artists": [
+        {
+          "name": "Kapo",
+          "url": "https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i"
+        }
+      ],
+      "duration_ms": 156577,
+      "name": "Ohnana",
+      "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
     },
     {
       "added_at": "2025-01-06 11:36:55",
@@ -677,36 +577,36 @@
       "url": "https://open.spotify.com/track/4oGvBNpgLClPi0hsvIFyFK"
     },
     {
-      "added_at": "2024-11-03 17:49:00",
+      "added_at": "2024-07-14 16:17:27",
       "album": {
-        "name": "Moonlit Floor (Kiss Me)",
-        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+        "name": "LA MARINA STA MORENA",
+        "url": "https://open.spotify.com/album/5znQOqzQhL9GNJoXaxG2aw"
       },
       "artists": [
         {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+          "name": "Figa Flawas",
+          "url": "https://open.spotify.com/artist/2enhM5DK9oTxWiCVpFIDv3"
         }
       ],
-      "duration_ms": 155757,
-      "name": "Moonlit Floor (Kiss Me)",
-      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+      "duration_ms": 131332,
+      "name": "LA MARINA STA MORENA",
+      "url": "https://open.spotify.com/track/0HIbm4W6C8Ar2Cnen0tE44"
     },
     {
-      "added_at": "2024-11-10 16:25:02",
+      "added_at": "2024-08-04 15:39:33",
       "album": {
-        "name": "Stumblin' In",
-        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+        "name": "Stargazing (Moonlight Version)",
+        "url": "https://open.spotify.com/album/5995013HazvYze8wmylSzw"
       },
       "artists": [
         {
-          "name": "CYRIL",
-          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
         }
       ],
-      "duration_ms": 213363,
-      "name": "Stumblin' In",
-      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+      "duration_ms": 172533,
+      "name": "Stargazing",
+      "url": "https://open.spotify.com/track/2dylnPaUPcOvzBLokj8DZa"
     },
     {
       "added_at": "2025-01-12 16:54:29",
@@ -725,6 +625,150 @@
       "url": "https://open.spotify.com/track/381uhXd2a52f6WiLtjiCZs"
     },
     {
+      "added_at": "2024-07-14 16:17:05",
+      "album": {
+        "name": "feelslikeimfallinginlove",
+        "url": "https://open.spotify.com/album/6RjTapeTvms8jSeIRGc5Ve"
+      },
+      "artists": [
+        {
+          "name": "Coldplay",
+          "url": "https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU"
+        }
+      ],
+      "duration_ms": 237803,
+      "name": "feelslikeimfallinginlove - Single Version",
+      "url": "https://open.spotify.com/track/1YsU8rW2u8z4F0pwOBQ4Ea"
+    },
+    {
+      "added_at": "2024-08-18 16:02:55",
+      "album": {
+        "name": "Barcelona",
+        "url": "https://open.spotify.com/album/34yBJhr8zlBAHMEMSwrISN"
+      },
+      "artists": [
+        {
+          "name": "Alan Walker",
+          "url": "https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN"
+        },
+        {
+          "name": "Ina Wroldsen",
+          "url": "https://open.spotify.com/artist/7hssUdpvtY5oiARaUDgFZ3"
+        }
+      ],
+      "duration_ms": 205086,
+      "name": "Barcelona",
+      "url": "https://open.spotify.com/track/2GE3k8I0Sbh0puCjI15KGy"
+    },
+    {
+      "added_at": "2025-01-19 16:58:40",
+      "album": {
+        "name": "Messy",
+        "url": "https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh"
+      },
+      "artists": [
+        {
+          "name": "Lola Young",
+          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+        }
+      ],
+      "duration_ms": 284068,
+      "name": "Messy",
+      "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
+    },
+    {
+      "added_at": "2024-07-21 17:49:28",
+      "album": {
+        "name": "LA REINA",
+        "url": "https://open.spotify.com/album/2Fy0cyNtT6mpTVWtAAyfh4"
+      },
+      "artists": [
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "LA REINA",
+      "url": "https://open.spotify.com/track/06JM1fuKPQOrSL6s9mzDvV"
+    },
+    {
+      "added_at": "2024-11-03 17:48:49",
+      "album": {
+        "name": "El club de la sisena hora",
+        "url": "https://open.spotify.com/album/0DQYzvlS4d7DmuLBtkqo3V"
+      },
+      "artists": [
+        {
+          "name": "Sexenni",
+          "url": "https://open.spotify.com/artist/4u6NigaxBfdKYhDdifXSCR"
+        }
+      ],
+      "duration_ms": 146190,
+      "name": "El club de la sisena hora",
+      "url": "https://open.spotify.com/track/7a5RpWYAhhn2tzEa58aA4b"
+    },
+    {
+      "added_at": "2024-11-10 16:25:02",
+      "album": {
+        "name": "Stumblin' In",
+        "url": "https://open.spotify.com/album/2HxzXLKO0AvkScWYHSspQc"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "duration_ms": 213363,
+      "name": "Stumblin' In",
+      "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "added_at": "2024-11-03 17:49:00",
+      "album": {
+        "name": "Moonlit Floor (Kiss Me)",
+        "url": "https://open.spotify.com/album/2F84s5tvr9RSS6VI772mVb"
+      },
+      "artists": [
+        {
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
+        }
+      ],
+      "duration_ms": 155757,
+      "name": "Moonlit Floor (Kiss Me)",
+      "url": "https://open.spotify.com/track/3yDRcs0Y4pPzkvMbUfeF9H"
+    },
+    {
+      "added_at": "2025-01-19 16:58:31",
+      "album": {
+        "name": "Believe (Shooting Stars)",
+        "url": "https://open.spotify.com/album/79WFgZm35smuyjipo6fouj"
+      },
+      "artists": [
+        {
+          "name": "R3HAB",
+          "url": "https://open.spotify.com/artist/6cEuCEZu7PAE9ZSzLLc2oQ"
+        },
+        {
+          "name": "Mufasa & Hypeman",
+          "url": "https://open.spotify.com/artist/4L2dV3zY7RmkeiNO035Fi0"
+        },
+        {
+          "name": "Mufasa",
+          "url": "https://open.spotify.com/artist/23rdR5gsZI5BqncTEKLtDU"
+        },
+        {
+          "name": "RANI",
+          "url": "https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5"
+        }
+      ],
+      "duration_ms": 154285,
+      "name": "Believe (Shooting Stars)",
+      "url": "https://open.spotify.com/track/7fJdto9euM593wybpCdEPV"
+    },
+    {
       "added_at": "2024-08-04 15:39:17",
       "album": {
         "name": "Austin (Boots Stop Workin')",
@@ -739,6 +783,22 @@
       "duration_ms": 171782,
       "name": "Austin (Boots Stop Workin')",
       "url": "https://open.spotify.com/track/69wVo2cAAD7O9XSpSpTBAu"
+    },
+    {
+      "added_at": "2024-06-30 16:22:34",
+      "album": {
+        "name": "I've Tried Everything But Therapy (Part 1)",
+        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "duration_ms": 212648,
+      "name": "The Door",
+      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     },
     {
       "added_at": "2024-07-07 16:49:42",
@@ -759,56 +819,8 @@
       "duration_ms": 159310,
       "name": "JA DORMIR\u00c9",
       "url": "https://open.spotify.com/track/1TewcrGBlkDAMhehfn0eHh"
-    },
-    {
-      "added_at": "2024-11-17 16:46:40",
-      "album": {
-        "name": "Papallones",
-        "url": "https://open.spotify.com/album/578xETaBKvOEn6bX6GzdFB"
-      },
-      "artists": [
-        {
-          "name": "JULS",
-          "url": "https://open.spotify.com/artist/63h9kiR97eiLOwDCBOyvzZ"
-        }
-      ],
-      "duration_ms": 168163,
-      "name": "Papallones",
-      "url": "https://open.spotify.com/track/0fnoCJwwsYzBeYB4tsjTGM"
-    },
-    {
-      "added_at": "2024-06-02 16:13:31",
-      "album": {
-        "name": "Espresso",
-        "url": "https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 175459,
-      "name": "Espresso",
-      "url": "https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75"
-    },
-    {
-      "added_at": "2024-06-30 16:22:34",
-      "album": {
-        "name": "I've Tried Everything But Therapy (Part 1)",
-        "url": "https://open.spotify.com/album/7nacKlk586eLRBSIsrk9DB"
-      },
-      "artists": [
-        {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
-        }
-      ],
-      "duration_ms": 212648,
-      "name": "The Door",
-      "url": "https://open.spotify.com/track/3dj4wgM3cPeuLwMNHDuBon"
     }
   ],
-  "unique_name": "LA LLISTA DE FLAIXBAC (12/01/2025)",
+  "unique_name": "LA LLISTA DE FLAIXBAC (19/01/2025)",
   "url": "https://open.spotify.com/playlist/65txKM8JvWVEJORHstAcVL"
 }

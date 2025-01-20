@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1486391,
+  "num_followers": 1486401,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -111,6 +111,30 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
+        "name": "Warm Flicker (Uevo & Noflik Remix)",
+        "url": "https://open.spotify.com/album/4NYNeMzsVFz7uyga8IjNJY"
+      },
+      "artists": [
+        {
+          "name": "rocomoco",
+          "url": "https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu"
+        },
+        {
+          "name": "Uevo",
+          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
+        },
+        {
+          "name": "Noflik",
+          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
+        }
+      ],
+      "duration_ms": 136774,
+      "name": "Warm Flicker - Uevo & Noflik Remix",
+      "url": "https://open.spotify.com/track/2aoLjocG6ib3CaIImYSGLa"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
         "name": "BIG BLUE",
         "url": "https://open.spotify.com/album/5N20fAevDwj4glrtlKdCzl"
       },
@@ -191,30 +215,6 @@
       "duration_ms": 110561,
       "name": "UH OH",
       "url": "https://open.spotify.com/track/48JxEAGsZtyzRPvX2PCbyC"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
-        "name": "Warm Flicker (Uevo & Noflik Remix)",
-        "url": "https://open.spotify.com/album/4NYNeMzsVFz7uyga8IjNJY"
-      },
-      "artists": [
-        {
-          "name": "rocomoco",
-          "url": "https://open.spotify.com/artist/33zSBkXKBqFb21ydNLh2xu"
-        },
-        {
-          "name": "Uevo",
-          "url": "https://open.spotify.com/artist/4dQG1cEezr8XaQg8rFKuBi"
-        },
-        {
-          "name": "Noflik",
-          "url": "https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt"
-        }
-      ],
-      "duration_ms": 136774,
-      "name": "Warm Flicker - Uevo & Noflik Remix",
-      "url": "https://open.spotify.com/track/2aoLjocG6ib3CaIImYSGLa"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -335,22 +335,6 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
-        "name": "Zoning Out Vol. 2",
-        "url": "https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn"
-      },
-      "artists": [
-        {
-          "name": "Emapea",
-          "url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6"
-        }
-      ],
-      "duration_ms": 125474,
-      "name": "Please Chill",
-      "url": "https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
         "name": "zero",
         "url": "https://open.spotify.com/album/0nVdaf3JEWpctIcv0nyFQz"
       },
@@ -363,6 +347,22 @@
       "duration_ms": 147695,
       "name": "zero",
       "url": "https://open.spotify.com/track/3g8uAk8FFwlOlFp90Lwxw4"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
+        "name": "Zoning Out Vol. 2",
+        "url": "https://open.spotify.com/album/5otufrAYStK1GqtwpRyTTn"
+      },
+      "artists": [
+        {
+          "name": "Emapea",
+          "url": "https://open.spotify.com/artist/3BiFZY6zbND5L3MEM6niE6"
+        }
+      ],
+      "duration_ms": 125474,
+      "name": "Please Chill",
+      "url": "https://open.spotify.com/track/1ndEnRNcXCZWJIz8x6YEQH"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -491,22 +491,6 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
-        "name": "A Kid From Yerevan (Instrumental)",
-        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
-      },
-      "artists": [
-        {
-          "name": "Full Crate",
-          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
-        }
-      ],
-      "duration_ms": 164769,
-      "name": "Sinking Ship - Instrumental",
-      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
         "name": "SMiLE",
         "url": "https://open.spotify.com/album/05C5mWohpPDcW8VmRBJHpk"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 263000,
       "name": "Spring",
       "url": "https://open.spotify.com/track/0cWZC0aL84vP1hwnt8ajuF"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
+        "name": "A Kid From Yerevan (Instrumental)",
+        "url": "https://open.spotify.com/album/3Z6YYkIQiRqk8dzIB9ygFZ"
+      },
+      "artists": [
+        {
+          "name": "Full Crate",
+          "url": "https://open.spotify.com/artist/0JeTRYMH7FoBiMcLXg1n8g"
+        }
+      ],
+      "duration_ms": 164769,
+      "name": "Sinking Ship - Instrumental",
+      "url": "https://open.spotify.com/track/2hRk5nquft9v07V8VBBRaY"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -579,6 +579,22 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
+        "name": "Riverside",
+        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
+      },
+      "artists": [
+        {
+          "name": "Karmawin",
+          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
+        }
+      ],
+      "duration_ms": 198466,
+      "name": "Riverside",
+      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
         "name": "Just a Lullaby",
         "url": "https://open.spotify.com/album/7xmauQdCVxrTlyYu4i6qMd"
       },
@@ -591,6 +607,22 @@
       "duration_ms": 140000,
       "name": "Quiet in the Garden",
       "url": "https://open.spotify.com/track/0VDIK5NEwSkD6A4Dj7FRo8"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
+        "name": "easy",
+        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
+      },
+      "artists": [
+        {
+          "name": "MIZUKAMI",
+          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
+        }
+      ],
+      "duration_ms": 203500,
+      "name": "easy",
+      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -615,22 +647,6 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
-        "name": "Riverside",
-        "url": "https://open.spotify.com/album/7eaALW3TZmoAcVqnS9KsMn"
-      },
-      "artists": [
-        {
-          "name": "Karmawin",
-          "url": "https://open.spotify.com/artist/2rOhOgnBlD4qpnQEsl7sRK"
-        }
-      ],
-      "duration_ms": 198466,
-      "name": "Riverside",
-      "url": "https://open.spotify.com/track/2SkheMmym933XZaCNukLkm"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
         "name": "Jay Deelicious 95-98 - The Delicious Vinyl Years (Originals, Remixes & Rarities)",
         "url": "https://open.spotify.com/album/6oCNEIjBtMujq1papEFLjc"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 243693,
       "name": "Sometimes - Remix Instrumental",
       "url": "https://open.spotify.com/track/16SesduvzOpOsTnDBzucJl"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
-        "name": "easy",
-        "url": "https://open.spotify.com/album/1BYunOxgaOWaT0Fan1QbIu"
-      },
-      "artists": [
-        {
-          "name": "MIZUKAMI",
-          "url": "https://open.spotify.com/artist/3coUJaSHEnYwQT6NAM9BN4"
-        }
-      ],
-      "duration_ms": 203500,
-      "name": "easy",
-      "url": "https://open.spotify.com/track/58wJgIMYzWJ7iTO7lww6pH"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -787,22 +787,6 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
         "name": "Tender Rose",
         "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 202938,
       "name": "Tender Rose",
       "url": "https://open.spotify.com/track/0nlNNUw3TVdL9yssRhARsd"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
+        "name": "CELEBRATION OF JAY 3",
+        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
+      },
+      "artists": [
+        {
+          "name": "DJ Mitsu The Beats",
+          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
+        }
+      ],
+      "duration_ms": 135529,
+      "name": "Rostrum",
+      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
         "name": "Busy Bird",
         "url": "https://open.spotify.com/album/6n7TVRjWygp9XeObn39GfN"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 130964,
       "name": "Busy Bird",
       "url": "https://open.spotify.com/track/3twA3eiEhu9SLS8ygr1Oh8"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
-        "name": "CELEBRATION OF JAY 3",
-        "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
-      },
-      "artists": [
-        {
-          "name": "DJ Mitsu The Beats",
-          "url": "https://open.spotify.com/artist/4F8O7axjzw3z0xVPRG8JFS"
-        }
-      ],
-      "duration_ms": 135529,
-      "name": "Rostrum",
-      "url": "https://open.spotify.com/track/0j9atepn6jhrLlu0ETAxMx"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -967,26 +967,6 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
-        "name": "keep going",
-        "url": "https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL"
-      },
-      "artists": [
-        {
-          "name": "L.Dre",
-          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
-        },
-        {
-          "name": "CMJ",
-          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
-        }
-      ],
-      "duration_ms": 102000,
-      "name": "settle down",
-      "url": "https://open.spotify.com/track/6uyitNldOLr44QmicuClak"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
         "name": "City Strollin'",
         "url": "https://open.spotify.com/album/2AV89a2bJw3pjTpfCa3hg4"
       },
@@ -1007,6 +987,26 @@
       "duration_ms": 198777,
       "name": "City Strollin'",
       "url": "https://open.spotify.com/track/0DZyMqCAMr4LALQKA1QizL"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
+        "name": "keep going",
+        "url": "https://open.spotify.com/album/0NPFtAikq0IIs62KsnC5cL"
+      },
+      "artists": [
+        {
+          "name": "L.Dre",
+          "url": "https://open.spotify.com/artist/6gWGD0yeQYobb2sq0LUr7k"
+        },
+        {
+          "name": "CMJ",
+          "url": "https://open.spotify.com/artist/0PbBgZYFayICVW0646NtXG"
+        }
+      ],
+      "duration_ms": 102000,
+      "name": "settle down",
+      "url": "https://open.spotify.com/track/6uyitNldOLr44QmicuClak"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -1067,6 +1067,22 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
+        "name": "The Scenic Route",
+        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
+      },
+      "artists": [
+        {
+          "name": "Elaquent",
+          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
+        }
+      ],
+      "duration_ms": 173296,
+      "name": "Recuring Dream",
+      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
         "name": "Coquettish Definition",
         "url": "https://open.spotify.com/album/2jC1QCvls2e3LYba2WOxNj"
       },
@@ -1083,22 +1099,6 @@
       "duration_ms": 193125,
       "name": "Coquettish Definition",
       "url": "https://open.spotify.com/track/7ia1IkIdwO1vKm6MSNBn1m"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
-        "name": "The Scenic Route",
-        "url": "https://open.spotify.com/album/7wbY6nhgh48vz5QGOGJDEo"
-      },
-      "artists": [
-        {
-          "name": "Elaquent",
-          "url": "https://open.spotify.com/artist/14rl122F3uMCloqdEVV9WL"
-        }
-      ],
-      "duration_ms": 173296,
-      "name": "Recuring Dream",
-      "url": "https://open.spotify.com/track/6dB6YYgBOPtzt37Fa0M8Eh"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -1151,26 +1151,6 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
-        "name": "Pack It",
-        "url": "https://open.spotify.com/album/0GiC9zDBsYwype56k8CSC3"
-      },
-      "artists": [
-        {
-          "name": "L One",
-          "url": "https://open.spotify.com/artist/7tEjTeqNJNgTEprTguQGTK"
-        },
-        {
-          "name": "Golden Ticket Tapes",
-          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
-        }
-      ],
-      "duration_ms": 166366,
-      "name": "Pack It",
-      "url": "https://open.spotify.com/track/7CXFNdBUWiAFWYNSS1JWQR"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
         "name": "SICK",
         "url": "https://open.spotify.com/album/7eApP7Reg8vLu3uAU8taWQ"
       },
@@ -1183,6 +1163,22 @@
       "duration_ms": 201000,
       "name": "SICK",
       "url": "https://open.spotify.com/track/6W9YXVte9iLHgZxxGojjDY"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
+      },
+      "artists": [
+        {
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+        }
+      ],
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -1203,18 +1199,22 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
+        "name": "Pack It",
+        "url": "https://open.spotify.com/album/0GiC9zDBsYwype56k8CSC3"
       },
       "artists": [
         {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
+          "name": "L One",
+          "url": "https://open.spotify.com/artist/7tEjTeqNJNgTEprTguQGTK"
+        },
+        {
+          "name": "Golden Ticket Tapes",
+          "url": "https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ"
         }
       ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
+      "duration_ms": 166366,
+      "name": "Pack It",
+      "url": "https://open.spotify.com/track/7CXFNdBUWiAFWYNSS1JWQR"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -1295,6 +1295,22 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
+        "name": "O Sanpo",
+        "url": "https://open.spotify.com/album/4MU6vNQqcr9c8lLM5gokw9"
+      },
+      "artists": [
+        {
+          "name": "Mayaewk",
+          "url": "https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ"
+        }
+      ],
+      "duration_ms": 101673,
+      "name": "Ghosts",
+      "url": "https://open.spotify.com/track/4V2KZnlTHXwNdLxzf1GUUB"
+    },
+    {
+      "added_at": "2025-01-10 09:11:50",
+      "album": {
         "name": "Yugure",
         "url": "https://open.spotify.com/album/51qx824lAeHOJKYMcYrwdQ"
       },
@@ -1311,22 +1327,6 @@
       "duration_ms": 126750,
       "name": "Yugure",
       "url": "https://open.spotify.com/track/2onG2HeI7SgoFBWlrwP8MR"
-    },
-    {
-      "added_at": "2025-01-10 09:11:50",
-      "album": {
-        "name": "O Sanpo",
-        "url": "https://open.spotify.com/album/4MU6vNQqcr9c8lLM5gokw9"
-      },
-      "artists": [
-        {
-          "name": "Mayaewk",
-          "url": "https://open.spotify.com/artist/20oT5LKCdO5vqCSgZ83OsQ"
-        }
-      ],
-      "duration_ms": 101673,
-      "name": "Ghosts",
-      "url": "https://open.spotify.com/track/4V2KZnlTHXwNdLxzf1GUUB"
     },
     {
       "added_at": "2025-01-10 09:11:50",
@@ -1435,18 +1435,18 @@
     {
       "added_at": "2025-01-10 09:11:50",
       "album": {
-        "name": "oak",
-        "url": "https://open.spotify.com/album/2INwNrU7hvsLxjtrKo2UXg"
+        "name": "Hot Water",
+        "url": "https://open.spotify.com/album/50VJMCS9rTZOHuyXLbLuL9"
       },
       "artists": [
         {
-          "name": "hario island",
-          "url": "https://open.spotify.com/artist/4SSYmqlXA8awmX7PHheCJN"
+          "name": "Dylan Sitts",
+          "url": "https://open.spotify.com/artist/6quCxsPM8fOxowmqOx5j93"
         }
       ],
-      "duration_ms": 130920,
-      "name": "oak",
-      "url": "https://open.spotify.com/track/2GhvTizbLq8G138Mw9Fhdm"
+      "duration_ms": 142417,
+      "name": "Carpet",
+      "url": "https://open.spotify.com/track/1ibe9CpX8y9Q19ajumNm1Z"
     }
   ],
   "unique_name": "Mellow Beats",

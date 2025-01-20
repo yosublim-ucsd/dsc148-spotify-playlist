@@ -1161,6 +1161,24 @@
     },
     {
       "album": {
+        "name": "Wax02 : \ud654\uc7a5\uc744 \uace0\uce58\uace0",
+        "url": "https://open.spotify.com/album/0lxaVhnSUrnsCreJm5sBj6"
+      },
+      "artists": [
+        {
+          "name": "WAX",
+          "url": "https://open.spotify.com/artist/5eBvKkLCbBNcsSxzrgahHZ"
+        }
+      ],
+      "date_added": "2024-08-05",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202613,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/09ZsaP4ytdLXSc9rHuScMR"
+    },
+    {
+      "album": {
         "name": "Cyber Yoo Sueng Jun",
         "url": "https://open.spotify.com/album/3jrD9RUkQcrFZpy2dZL5sD"
       },
@@ -2790,7 +2808,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 234640,
       "name": "\uc139\uc2dc\ud55c \ub0a8\uc790",
       "url": "https://open.spotify.com/track/0Ss2xN0mwOnIpzWjG7gwf7"

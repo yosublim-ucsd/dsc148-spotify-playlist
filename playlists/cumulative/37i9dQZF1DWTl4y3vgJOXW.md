@@ -2,7 +2,7 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Pat Mahomes and C\. J\. Stroud
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Josh Allen and Lamar Jackson
 
 771 songs - 1 day 15 hr 49 min
 

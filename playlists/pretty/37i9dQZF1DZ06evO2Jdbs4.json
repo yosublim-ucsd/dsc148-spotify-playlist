@@ -1,12 +1,12 @@
 {
   "description": "This is Bobby Pulido. The essential tracks, all in one playlist.",
-  "num_followers": 28421,
+  "num_followers": 28425,
   "original_name": "This Is Bobby Pulido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAABrF68cLU8ofdTda5BB2Qw0",
+  "snapshot_id": "Z4rvAAAAAAC9U2rNiNtzaNz312zL013G",
   "tracks": [
     {
       "added_at": null,
@@ -371,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ens\u00e9\u00f1ame",
-        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 203400,
-      "name": "Un Golpe De Suerte",
-      "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Montame",
         "url": "https://open.spotify.com/album/6j4I0OrqKDPYkTKAThkRRE"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 225346,
       "name": "Perd\u00f3name - Cumbia",
       "url": "https://open.spotify.com/track/6ygtYN6UpAePDbiuEacFzA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ens\u00e9\u00f1ame",
+        "url": "https://open.spotify.com/album/6wrBXd8mUK0dp3yMM29kWK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 203400,
+      "name": "Un Golpe De Suerte",
+      "url": "https://open.spotify.com/track/6AEpDGDeJrn8xskPJQeGMv"
     },
     {
       "added_at": null,
@@ -591,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "En Vivo Desde las Vegas",
+        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 400385,
+      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
+      "url": "https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Se Ve Linda",
         "url": "https://open.spotify.com/album/6Eq0W9vRRbfwXN8CplJ1dQ"
       },
@@ -607,22 +623,6 @@
       "duration_ms": 173963,
       "name": "Se Ve Linda",
       "url": "https://open.spotify.com/track/0L77znyikAzLKIbxz3Lshd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Desde las Vegas",
-        "url": "https://open.spotify.com/album/3N5UtKDt4taayE7fajYV0J"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 400385,
-      "name": "The Hits Medley: Desvelado/Ens\u00e9name/A Tu Lado - En Vivo",
-      "url": "https://open.spotify.com/track/7pob0oZ2KwUG7nRlVuwrxs"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vive",
-        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
-      },
-      "artists": [
-        {
-          "name": "Bobby Pulido",
-          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
-        }
-      ],
-      "duration_ms": 217333,
-      "name": "Obsesi\u00f3n",
-      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desvelado",
         "url": "https://open.spotify.com/album/2BCS2taG5BuYeL3QPCbcz2"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 218733,
       "name": "Cindy Don't Know",
       "url": "https://open.spotify.com/track/4yeRSlUJb9QxXAbOKk0WPg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vive",
+        "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
+      },
+      "artists": [
+        {
+          "name": "Bobby Pulido",
+          "url": "https://open.spotify.com/artist/4EEZg8R3dxbTCCQ1DVWtHg"
+        }
+      ],
+      "duration_ms": 217333,
+      "name": "Obsesi\u00f3n",
+      "url": "https://open.spotify.com/track/4UlwEI3H7er7gq29WAh3XB"
     },
     {
       "added_at": null,

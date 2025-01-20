@@ -89,6 +89,24 @@
     },
     {
       "album": {
+        "name": "A Question of You",
+        "url": "https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l"
+      },
+      "artists": [
+        {
+          "name": "Inhaler",
+          "url": "https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222667,
+      "name": "A Question of You",
+      "url": "https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE"
+    },
+    {
+      "album": {
         "name": "A Tear in Space (Airlock)",
         "url": "https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J"
       },
@@ -287,6 +305,24 @@
     },
     {
       "album": {
+        "name": "and it feels",
+        "url": "https://open.spotify.com/album/5QCOPX65BbHALCrA08l91d"
+      },
+      "artists": [
+        {
+          "name": "Customer Service",
+          "url": "https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128735,
+      "name": "and it feels",
+      "url": "https://open.spotify.com/track/2tlfU7XGAMIRkmfeoHZXPj"
+    },
+    {
+      "album": {
         "name": "Angry",
         "url": "https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE"
       },
@@ -298,7 +334,7 @@
       ],
       "date_added": "2023-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 226735,
       "name": "Angry",
       "url": "https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG"
@@ -478,7 +514,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1"
@@ -752,7 +788,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 238988,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/2JqP0JgJ4tNzdoKSWln7oe"
@@ -2202,7 +2238,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 155788,
       "name": "Mind Control",
       "url": "https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM"
@@ -3373,6 +3409,24 @@
     },
     {
       "album": {
+        "name": "Still A Gorilla",
+        "url": "https://open.spotify.com/album/0SneoRZNbmaxm5vkwJbr2O"
+      },
+      "artists": [
+        {
+          "name": "Spin Doctors",
+          "url": "https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225529,
+      "name": "Still A Gorilla",
+      "url": "https://open.spotify.com/track/2SU1buLMSvYKGzQg6j0WQX"
+    },
+    {
+      "album": {
         "name": "SHAME",
         "url": "https://open.spotify.com/album/7GtUuBWgxDr9WXoUD0aD2o"
       },
@@ -3388,6 +3442,24 @@
       "duration_ms": 203433,
       "name": "Street Names and Land Claims",
       "url": "https://open.spotify.com/track/1AWvuWQezhOVM5FXRlQ9LR"
+    },
+    {
+      "album": {
+        "name": "Stretch the Struggle",
+        "url": "https://open.spotify.com/album/1wt9TD7owCiIVrrMRXM3Tt"
+      },
+      "artists": [
+        {
+          "name": "Bria Salmena",
+          "url": "https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214093,
+      "name": "Stretch the Struggle",
+      "url": "https://open.spotify.com/track/1bfbtsK7aRNTrueUxRaJ7a"
     },
     {
       "album": {

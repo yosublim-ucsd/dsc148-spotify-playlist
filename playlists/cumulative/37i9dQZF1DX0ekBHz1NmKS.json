@@ -450,7 +450,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 223853,
       "name": "99 fel",
       "url": "https://open.spotify.com/track/6upxokybtKLCsN7RKeYuf6"
@@ -3659,6 +3659,24 @@
     },
     {
       "album": {
+        "name": "B\u00e4st",
+        "url": "https://open.spotify.com/album/4hko5sUAbQqs5jbhtp5oaz"
+      },
+      "artists": [
+        {
+          "name": "Korsv\u00e4gen",
+          "url": "https://open.spotify.com/artist/7L3NPrvG2cKQrvQpeZI2XT"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156379,
+      "name": "B\u00e4st",
+      "url": "https://open.spotify.com/track/5EB1gR2BcPPAyhPNqz0SdM"
+    },
+    {
+      "album": {
         "name": "B\u00e4sta kebaben i hela stan",
         "url": "https://open.spotify.com/album/6lEITJg0VAAicMzH4SIdm2"
       },
@@ -4374,6 +4392,24 @@
       "duration_ms": 230653,
       "name": "Coast (feat. Cherrie)",
       "url": "https://open.spotify.com/track/43bSOU2d9fFauUMbPual0S"
+    },
+    {
+      "album": {
+        "name": "Cold As Ice",
+        "url": "https://open.spotify.com/album/3GUacx6dbm7SNjNGel4srO"
+      },
+      "artists": [
+        {
+          "name": "Adam Woods",
+          "url": "https://open.spotify.com/artist/5hmV66qKLsAbAoJcnogGyc"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210066,
+      "name": "Cold As Ice",
+      "url": "https://open.spotify.com/track/3tW9811KrWQxa0SIxaFWUF"
     },
     {
       "album": {
@@ -6914,7 +6950,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 173694,
       "name": "Dying Light",
       "url": "https://open.spotify.com/track/1aP1ra3sd4m6xhGrgZTnrE"

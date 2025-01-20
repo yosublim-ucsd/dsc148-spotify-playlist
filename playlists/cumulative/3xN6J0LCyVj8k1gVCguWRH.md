@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,423 songs - 10 day 7 hr 44 min
+4,425 songs - 10 day 7 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2665,8 +2665,10 @@
 | [Neverland](https://open.spotify.com/track/089DwZTzdQ1hp6olvyyJgK) | [chae](https://open.spotify.com/artist/04bDQYNj7Aos39p2b1Vm31) | [Neverland](https://open.spotify.com/album/0OgzEEb0rmkd43y284nozB) | 4:17 | 2022-07-01 | 2022-07-22 |
 | [New Chapter](https://open.spotify.com/track/0AtRwVoxNBWvb5ssjP14Nz) | [Gus Major](https://open.spotify.com/artist/1MmEYxLcSXSCCwjyTrTjoh) | [New Chapter](https://open.spotify.com/album/1PB3O2jzGJ0McjjHu03AAN) | 2:55 | 2024-05-17 | 2024-05-29 |
 | [New Illusions](https://open.spotify.com/track/1PWtajbGuHCtkiOsMecKLP) | [Naami!](https://open.spotify.com/artist/47ksgtrxlwLV4k2ZkF1kbx) | [New Illusions](https://open.spotify.com/album/0ZmPeK3BsylQr77Rt9eWVA) | 2:28 | 2024-12-27 | 2025-01-08 |
+| [New Kind of Weird \- Acoustic Version](https://open.spotify.com/track/7sVqPugjfFagA0h74Anbj8) | [Noiseheads](https://open.spotify.com/artist/596tCSFtWm3PP3YHKtid6Q) | [Lost and Found, Vol\. 3 \(2018\-2024\)](https://open.spotify.com/album/6cGOe0TqFTAw8G56PYrBpz) | 3:01 | 2025-01-19 |  |
 | [New Lows](https://open.spotify.com/track/2wv0ve1CnWc6yiYKDwzT0B) | [jCube](https://open.spotify.com/artist/0Yg2xlIJI6pG1g0duHZFo7) | [New Lows](https://open.spotify.com/album/07FEcN103GVMzid7dE3poq) | 2:32 | 2021-03-06 | 2021-03-20 |
 | [New Mercedes](https://open.spotify.com/track/3ggSsXB4msifdYF6CG8I15) | [Ace Blvd](https://open.spotify.com/artist/2yVYUeDnxebjicZJAKp4iu), [Almighty Rod](https://open.spotify.com/artist/3UNVdUsDsKc2kZrPuOoxKI), [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [Ace Almighty](https://open.spotify.com/album/1sGgGCvrWymD0VUIYhtRP6) | 3:00 | 2021-04-10 | 2021-04-26 |
+| [New Revolution](https://open.spotify.com/track/4Twuj1J13KG7PwtTijwYYQ) | [Jake of All Tradez](https://open.spotify.com/artist/4Npxiprt2Ys8vd9Doafhpr) | [New Revolution](https://open.spotify.com/album/0rj8WjaQzZs78BJkKmrIZ0) | 6:22 | 2025-01-19 |  |
 | [New Tattoo](https://open.spotify.com/track/1qDWBgsTBjVrWswAc4akQj) | [Vanilla Skies](https://open.spotify.com/artist/3AR7k7xMjTyW0j2AU7roda), [Chase](https://open.spotify.com/artist/248hudNIWf44jHJPZ1aAjl) | [New Tattoo](https://open.spotify.com/album/0CdRpRYhV4h4LXskDe57UV) | 3:18 | 2022-02-04 | 2022-02-20 |
 | [New Tricks](https://open.spotify.com/track/4EDBOU7PcHAVCRgshBv0LR) | [Carly Pearl](https://open.spotify.com/artist/3tp2PruET9DsrEfnovsJXn), [Steve Ray Ladson](https://open.spotify.com/artist/2CokAz18TsHK3OTTJFFmNQ) | [New Tricks](https://open.spotify.com/album/42TJt1UugrqYIXoySg2qhr) | 2:53 | 2024-12-06 | 2024-12-20 |
 | [New Way of Seeing](https://open.spotify.com/track/7IXVEqhFojGxYozr3yqOvs) | [B.A.D.A.](https://open.spotify.com/artist/5DRgp80WYkhaRnALRKlWRz) | [Exile](https://open.spotify.com/album/3H0B6xpapKMcFeLSMu3p9W) | 5:01 | 2021-01-29 | 2021-02-13 |

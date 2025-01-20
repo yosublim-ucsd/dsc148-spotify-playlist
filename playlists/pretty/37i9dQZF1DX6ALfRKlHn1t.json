@@ -1,6 +1,6 @@
 {
   "description": "the soundtrack for your vitamin d fix. ",
-  "num_followers": 1135752,
+  "num_followers": 1135751,
   "original_name": "Soak Up The Sun",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-07-15 18:40:59",
       "album": {
+        "name": "Expert In A Dying Field",
+        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
+      },
+      "artists": [
+        {
+          "name": "The Beths",
+          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
+        }
+      ],
+      "duration_ms": 251213,
+      "name": "Expert In A Dying Field",
+      "url": "https://open.spotify.com/track/1bPcxJHusTrlr2Kj4kjK7e"
+    },
+    {
+      "added_at": "2024-07-15 18:40:59",
+      "album": {
         "name": "Palm Reader",
         "url": "https://open.spotify.com/album/0QdTN7cbQCSTyzZqLQubCI"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 180667,
       "name": "Palm Reader",
       "url": "https://open.spotify.com/track/5LtrJHnBO57EoVHsLR6xR8"
-    },
-    {
-      "added_at": "2024-07-15 18:40:59",
-      "album": {
-        "name": "Expert In A Dying Field",
-        "url": "https://open.spotify.com/album/1nAQg0AjzpuT7lINu1J87y"
-      },
-      "artists": [
-        {
-          "name": "The Beths",
-          "url": "https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin"
-        }
-      ],
-      "duration_ms": 251213,
-      "name": "Expert In A Dying Field",
-      "url": "https://open.spotify.com/track/1bPcxJHusTrlr2Kj4kjK7e"
     },
     {
       "added_at": "2024-07-26 15:37:22",

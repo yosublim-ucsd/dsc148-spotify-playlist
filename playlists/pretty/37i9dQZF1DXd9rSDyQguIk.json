@@ -1,6 +1,6 @@
 {
   "description": "Nothing but classic blues. Cover: B.B. King",
-  "num_followers": 1976579,
+  "num_followers": 1977033,
   "original_name": "Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -137,22 +137,6 @@
       "url": "https://open.spotify.com/track/4KMXlzvtC8xjLseDqDjpeU"
     },
     {
-      "added_at": "2024-03-21 16:46:52",
-      "album": {
-        "name": "King Of The Electric Blues",
-        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 238533,
-      "name": "I'm Your Hoochie Coochie Man",
-      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Getting Ready... (World)",
@@ -167,6 +151,22 @@
       "duration_ms": 204333,
       "name": "Going Down",
       "url": "https://open.spotify.com/track/2wnjZXcAT3rCjjqxLeHjv7"
+    },
+    {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "King Of The Electric Blues",
+        "url": "https://open.spotify.com/album/4fOVcN7X7vQ8L41is621uJ"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 238533,
+      "name": "I'm Your Hoochie Coochie Man",
+      "url": "https://open.spotify.com/track/3KSchPNSklO5McIqRH3qYX"
     },
     {
       "added_at": "2020-01-15 21:29:46",
@@ -205,22 +205,6 @@
       "url": "https://open.spotify.com/track/5MTsZG10E0hTvAkdioyPnw"
     },
     {
-      "added_at": "2018-03-29 19:44:07",
-      "album": {
-        "name": "Give It Up (2008 Remaster)",
-        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
-      },
-      "artists": [
-        {
-          "name": "Bonnie Raitt",
-          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
-        }
-      ],
-      "duration_ms": 192200,
-      "name": "Love Me Like a Man - 2008 Remaster",
-      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
-    },
-    {
       "added_at": "2024-03-21 16:46:52",
       "album": {
         "name": "The Real Folk Blues",
@@ -235,6 +219,22 @@
       "duration_ms": 167360,
       "name": "I'm In The Mood",
       "url": "https://open.spotify.com/track/6iQ0OIxisPxhzEICEXtaWS"
+    },
+    {
+      "added_at": "2018-03-29 19:44:07",
+      "album": {
+        "name": "Give It Up (2008 Remaster)",
+        "url": "https://open.spotify.com/album/6ry5iI1ik4H2DvoiWhluYh"
+      },
+      "artists": [
+        {
+          "name": "Bonnie Raitt",
+          "url": "https://open.spotify.com/artist/4KDyYWR7IpxZ7xrdYbKrqY"
+        }
+      ],
+      "duration_ms": 192200,
+      "name": "Love Me Like a Man - 2008 Remaster",
+      "url": "https://open.spotify.com/track/0h06YSqzwbAU9ZDuIvw8pk"
     },
     {
       "added_at": "2024-03-21 16:46:52",
@@ -325,22 +325,6 @@
       "url": "https://open.spotify.com/track/5MVMARaMoclifNmBtPu0dD"
     },
     {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 271653,
-      "name": "Damn Right, I've Got the Blues",
-      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
-    },
-    {
       "added_at": "2018-03-29 19:44:07",
       "album": {
         "name": "Taj Mahal",
@@ -371,6 +355,22 @@
       "duration_ms": 232706,
       "name": "Scratch My Back",
       "url": "https://open.spotify.com/track/6f3OYG5R630tjwFIHIE7j2"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 271653,
+      "name": "Damn Right, I've Got the Blues",
+      "url": "https://open.spotify.com/track/2FtX5tOFUVOyjcGQiuGR8f"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -533,22 +533,6 @@
       "url": "https://open.spotify.com/track/31GIhpOQpKCzlnuPn03pBQ"
     },
     {
-      "added_at": "2024-03-21 16:46:52",
-      "album": {
-        "name": "Nina Simone Sings The Blues (Expanded Edition)",
-        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
-      },
-      "artists": [
-        {
-          "name": "Nina Simone",
-          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
-        }
-      ],
-      "duration_ms": 235880,
-      "name": "Blues for Mama",
-      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
-    },
-    {
       "added_at": "2020-01-15 21:29:46",
       "album": {
         "name": "Live And Well",
@@ -563,6 +547,22 @@
       "duration_ms": 517400,
       "name": "Why I Sing The Blues",
       "url": "https://open.spotify.com/track/2bIfM0ZOF4gxK1BeqH3Djm"
+    },
+    {
+      "added_at": "2024-03-21 16:46:52",
+      "album": {
+        "name": "Nina Simone Sings The Blues (Expanded Edition)",
+        "url": "https://open.spotify.com/album/12aKG91Tj6hJFOe90TzcX2"
+      },
+      "artists": [
+        {
+          "name": "Nina Simone",
+          "url": "https://open.spotify.com/artist/7G1GBhoKtEPnP86X2PvEYO"
+        }
+      ],
+      "duration_ms": 235880,
+      "name": "Blues for Mama",
+      "url": "https://open.spotify.com/track/2vY3XKWiQ3gb4o0aXRtHjY"
     },
     {
       "added_at": "2018-03-29 19:44:07",
@@ -727,22 +727,6 @@
     {
       "added_at": "2020-01-15 21:29:46",
       "album": {
-        "name": "Crawfish Fiesta (Bonus Track Version)",
-        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
-      },
-      "artists": [
-        {
-          "name": "Professor Longhair",
-          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
-        }
-      ],
-      "duration_ms": 194666,
-      "name": "Big Chief - Remastered",
-      "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
-    },
-    {
-      "added_at": "2020-01-15 21:29:46",
-      "album": {
         "name": "T-Bone Blues",
         "url": "https://open.spotify.com/album/1YPBXkcPa4KYio6Ziyp7d3"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 187600,
       "name": "Call It Stormy Monday",
       "url": "https://open.spotify.com/track/1i7nQGgwloILcp6ZftH2Qa"
+    },
+    {
+      "added_at": "2020-01-15 21:29:46",
+      "album": {
+        "name": "Crawfish Fiesta (Bonus Track Version)",
+        "url": "https://open.spotify.com/album/06pOxWHDhPhmyVGkWRqw4T"
+      },
+      "artists": [
+        {
+          "name": "Professor Longhair",
+          "url": "https://open.spotify.com/artist/2RyY5yFlJh6jIPfMDhHgyD"
+        }
+      ],
+      "duration_ms": 194666,
+      "name": "Big Chief - Remastered",
+      "url": "https://open.spotify.com/track/2r6Ve8kNEzqg3u45UL0muX"
     },
     {
       "added_at": "2018-03-29 19:44:07",

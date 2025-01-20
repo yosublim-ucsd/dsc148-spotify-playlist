@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5JjUlPENcVZsqsYpaLmlDl">Hananiel Eduardo</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 785 likes - 88 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 784 likes - 88 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFhg9UVfjzNc.md) - [plain]
 | 87 | [Salmo 24 \- Ao Vivo](https://open.spotify.com/track/5xvC4B0WamTdMNnI22U2xF) | [BRAVE](https://open.spotify.com/artist/0HEKgwjfWOG03c4KMBMa3h), [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Igor Zolla](https://open.spotify.com/artist/6ZdLo0RUhtq8nTOZwj7QPX), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [BRAVE Camp • Vol\. 1 \(Ao Vivo\)](https://open.spotify.com/album/3Cmh5MbxMFwA6CIY3OXewc) | 6:34 |
 | 88 | [Saudade](https://open.spotify.com/track/4Gu2dzEAkpM9Yz8OqVT0eQ) | [João Rodrigues\_](https://open.spotify.com/artist/3ByLHX1wWv6IzsXCNuq5ng) | [Saudade](https://open.spotify.com/album/02g50GmJy1bCMrMTE9V9Rb) | 3:52 |
 
-Snapshot ID: `AbnOgAAAAADF6hRdkdsLvIfsUgWYLugY`
+Snapshot ID: `AbnUIAAAAABUCjgkv5YsjihglirJuwFz`

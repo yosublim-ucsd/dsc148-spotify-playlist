@@ -1,6 +1,6 @@
 {
   "description": "Die Klassiker des Schweizer Hip-Hop.",
-  "num_followers": 12327,
+  "num_followers": 12335,
   "original_name": "Alte Schule",
   "owner": {
     "name": "Spotify",
@@ -59,6 +59,22 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
+        "name": "Noochbrand",
+        "url": "https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25"
+      },
+      "artists": [
+        {
+          "name": "Brandh\u00e4rd",
+          "url": "https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4"
+        }
+      ],
+      "duration_ms": 249760,
+      "name": "Noochbrand",
+      "url": "https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
         "name": "Analfabad",
         "url": "https://open.spotify.com/album/1lOFtEufGCFM9Mwy3DgqLb"
       },
@@ -91,22 +107,6 @@
       "duration_ms": 221426,
       "name": "Siemis",
       "url": "https://open.spotify.com/track/2kqXy5VfY8683DXZo7WZ77"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Noochbrand",
-        "url": "https://open.spotify.com/album/3594OhXuEQ7jFNCvRjKr25"
-      },
-      "artists": [
-        {
-          "name": "Brandh\u00e4rd",
-          "url": "https://open.spotify.com/artist/3H4Lewhv1ThuWvqzOcnJQ4"
-        }
-      ],
-      "duration_ms": 249760,
-      "name": "Noochbrand",
-      "url": "https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd"
     },
     {
       "added_at": "2024-12-09 12:11:25",
@@ -227,22 +227,6 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
-        "name": "Als ch\u00e4nteds B\u00e4rg\u00e4 versetz\u00e4",
-        "url": "https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys"
-      },
-      "artists": [
-        {
-          "name": "Luut & T\u00fc\u00fctli",
-          "url": "https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW"
-        }
-      ],
-      "duration_ms": 314533,
-      "name": "Ich weiss scho",
-      "url": "https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
         "name": "Wurzle & Chrone",
         "url": "https://open.spotify.com/album/3aGKP36WDLsuImUpGG6qSM"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 248733,
       "name": "Stars und Sternli",
       "url": "https://open.spotify.com/track/4MlczrGSAqPqRupKLRsZUj"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Als ch\u00e4nteds B\u00e4rg\u00e4 versetz\u00e4",
+        "url": "https://open.spotify.com/album/3hCDtIE1aAIK90Wf3oIgys"
+      },
+      "artists": [
+        {
+          "name": "Luut & T\u00fc\u00fctli",
+          "url": "https://open.spotify.com/artist/18WdjFIYZYIeOQPzNxVsmW"
+        }
+      ],
+      "duration_ms": 314533,
+      "name": "Ich weiss scho",
+      "url": "https://open.spotify.com/track/7G8OZ2uvpFeMbUfx9TP3Bj"
     },
     {
       "added_at": "2024-12-09 12:11:25",
@@ -383,22 +383,6 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
-        "name": "Golden Greats",
-        "url": "https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw"
-      },
-      "artists": [
-        {
-          "name": "Stress",
-          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
-        }
-      ],
-      "duration_ms": 254226,
-      "name": "Mais o\u00fa? - Single Version",
-      "url": "https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
         "name": "Discochugle",
         "url": "https://open.spotify.com/album/2kOnkk5f7NHrXDZT0CQHjK"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 252440,
       "name": "Mini Homeboys",
       "url": "https://open.spotify.com/track/2YoBQUtCsAtvPiG7XrY3S5"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
+        "name": "Golden Greats",
+        "url": "https://open.spotify.com/album/0WCTR1QeaNv6i3wqG5zLKw"
+      },
+      "artists": [
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        }
+      ],
+      "duration_ms": 254226,
+      "name": "Mais o\u00fa? - Single Version",
+      "url": "https://open.spotify.com/track/5LZuIfdjO7zJmauOltiKtl"
     },
     {
       "added_at": "2024-12-09 12:11:25",
@@ -827,6 +827,22 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
+        "name": "Odyssey",
+        "url": "https://open.spotify.com/album/3yhyu630s4VRNBZ8fxSQbE"
+      },
+      "artists": [
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        }
+      ],
+      "duration_ms": 189160,
+      "name": "Single",
+      "url": "https://open.spotify.com/track/1m0sV8wKf5h2quSzZyWeyT"
+    },
+    {
+      "added_at": "2024-12-09 12:11:25",
+      "album": {
         "name": "Und Nachteil",
         "url": "https://open.spotify.com/album/0n3UzP0bmjDNUHeCT7tl32"
       },
@@ -923,38 +939,26 @@
     {
       "added_at": "2024-12-09 12:11:25",
       "album": {
-        "name": "Odyssey",
-        "url": "https://open.spotify.com/album/3yhyu630s4VRNBZ8fxSQbE"
+        "name": "Normal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4roW7Xpb9oeKUyqnwpQDMj"
       },
       "artists": [
         {
           "name": "Bligg",
           "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
-        }
-      ],
-      "duration_ms": 189160,
-      "name": "Single",
-      "url": "https://open.spotify.com/track/1m0sV8wKf5h2quSzZyWeyT"
-    },
-    {
-      "added_at": "2024-12-09 12:11:25",
-      "album": {
-        "name": "Link Up (Remix) / Extra",
-        "url": "https://open.spotify.com/album/4azTTTDQOh91aouGjgbRnm"
-      },
-      "artists": [
-        {
-          "name": "Manillio",
-          "url": "https://open.spotify.com/artist/7uxtLjuqkJ3cnjQQuW6Cul"
         },
         {
-          "name": "Nativ",
-          "url": "https://open.spotify.com/artist/3D9JUF3jSyhMh88bYb4wJX"
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Lexx",
+          "url": "https://open.spotify.com/artist/1VlcasdoALzQ028J8vAEax"
         }
       ],
-      "duration_ms": 193768,
-      "name": "Extra",
-      "url": "https://open.spotify.com/track/3JEV20qAKdhQ9opRo2eP1m"
+      "duration_ms": 222173,
+      "name": "Relaxtra",
+      "url": "https://open.spotify.com/track/18in07peN7I1KRfrOKpyPn"
     }
   ],
   "unique_name": "Alte Schule",

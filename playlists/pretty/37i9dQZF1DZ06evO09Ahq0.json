@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 498996,
+  "num_followers": 499083,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAACqo5Dpk6axU43XAYyRD6PT",
+  "snapshot_id": "Z4rvAAAAAABYwetapjrwi98oATZD/onQ",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 342533,
-      "name": "Chapter Four",
-      "url": "https://open.spotify.com/track/4ORgqa0GOafXbApy6S8FpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 295213,
       "name": "Heretic",
       "url": "https://open.spotify.com/track/31sv85yD7zbD6X9B2FHpxy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 342533,
+      "name": "Chapter Four",
+      "url": "https://open.spotify.com/track/4ORgqa0GOafXbApy6S8FpJ"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Not Ready to Die (From \"Call of the Dead\")",
-        "url": "https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 425264,
-      "name": "Not Ready to Die - From \"Call of the Dead\"",
-      "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 385400,
       "name": "Coming Home",
       "url": "https://open.spotify.com/track/3vYP5IgBfHv9nWbNhTq3IS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Not Ready to Die (From \"Call of the Dead\")",
+        "url": "https://open.spotify.com/album/7mCTipdyAfByJBqBgyBbI0"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 425264,
+      "name": "Not Ready to Die - From \"Call of the Dead\"",
+      "url": "https://open.spotify.com/track/6haHIyPMUnVCZn6pHpyzM8"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 538333,
-      "name": "I Won't See You Tonight Part 1",
-      "url": "https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hail to the King",
         "url": "https://open.spotify.com/album/0ks45m1bsP2JsZpM5D2FFA"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 205933,
       "name": "Doing Time",
       "url": "https://open.spotify.com/track/4OyfdJiHM6sbfkFmRLrygg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 538333,
+      "name": "I Won't See You Tonight Part 1",
+      "url": "https://open.spotify.com/track/67w1cb9ESAnCGJkC9hW2nO"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 420333,
-      "name": "Second Heartbeat",
-      "url": "https://open.spotify.com/track/3hmX5dfwY9oRIpJKvt755u"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 512024,
       "name": "The Stage",
       "url": "https://open.spotify.com/track/69gBAQdpxvCsw34Bbf8MnD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 420333,
+      "name": "Second Heartbeat",
+      "url": "https://open.spotify.com/track/3hmX5dfwY9oRIpJKvt755u"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Waking The Fallen",
-        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
-      },
-      "artists": [
-        {
-          "name": "Avenged Sevenfold",
-          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
-        }
-      ],
-      "duration_ms": 366666,
-      "name": "Remenissions",
-      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Stage (Deluxe Edition)",
         "url": "https://open.spotify.com/album/0OJ2cB135AqvHEtfXifM5D"
       },
@@ -679,6 +663,22 @@
       "duration_ms": 313918,
       "name": "Wish You Were Here",
       "url": "https://open.spotify.com/track/4JwxJm8zCPbc1DMcfVdbBl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Waking The Fallen",
+        "url": "https://open.spotify.com/album/3qyVLEW74vRMvVxNHjwKhk"
+      },
+      "artists": [
+        {
+          "name": "Avenged Sevenfold",
+          "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
+        }
+      ],
+      "duration_ms": 366666,
+      "name": "Remenissions",
+      "url": "https://open.spotify.com/track/0foUqfFNnzCnlSroyvsONr"
     },
     {
       "added_at": null,

@@ -136,7 +136,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-04",
+      "date_removed": null,
       "duration_ms": 168554,
       "name": "10'",
       "url": "https://open.spotify.com/track/1XtVtRtoHFOnn8plAirGWb"
@@ -6912,7 +6912,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 193411,
       "name": "Carvajal",
       "url": "https://open.spotify.com/track/04g3PRNUhYa6wAoHx3IE17"
@@ -14260,7 +14260,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 154800,
       "name": "GBP (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/5emD8K39MmotlCLOx9qzCH"
@@ -14832,7 +14832,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 220327,
       "name": "GILEKO",
       "url": "https://open.spotify.com/track/3bd0uhm7ENvy8q6Z2savKd"
@@ -19872,7 +19872,7 @@
       ],
       "date_added": "2024-05-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 247346,
       "name": "KSEHORISTO",
       "url": "https://open.spotify.com/track/1mOLBCX3IRwGNDLqYzXpM5"
@@ -36850,6 +36850,32 @@
       "duration_ms": 193341,
       "name": "Thisies",
       "url": "https://open.spotify.com/track/1GuaVYahbWQq9jzmiQLSO3"
+    },
+    {
+      "album": {
+        "name": "THUMISOU",
+        "url": "https://open.spotify.com/album/3KTkYzUv7p51TYxJfsw5gh"
+      },
+      "artists": [
+        {
+          "name": "Lydia",
+          "url": "https://open.spotify.com/artist/2YTGRExtfqji1DoyvkPBeT"
+        },
+        {
+          "name": "Lava",
+          "url": "https://open.spotify.com/artist/5umiHIOleshDzh4h1ry41O"
+        },
+        {
+          "name": "Lev",
+          "url": "https://open.spotify.com/artist/4B9bpLEd8yK02fXBZdka2I"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157200,
+      "name": "THUMISOU",
+      "url": "https://open.spotify.com/track/0NKMw5wj6CKfm0MmjGBwuJ"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 93375,
+  "num_followers": 93386,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAADzkBRiWVev95hoEHmgdqJl",
+  "snapshot_id": "Z4rvAAAAAAD58GZXXS+VtNLcGuacqgrQ",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+        "name": "Dios es Bueno",
+        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 439484,
-      "name": "Enciende Una Luz",
-      "url": "https://open.spotify.com/track/7E47DjR4JzYcdpI5PxR7zn"
+      "duration_ms": 325029,
+      "name": "En los Montes en los Valles",
+      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dios es Bueno",
-        "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 325029,
-      "name": "En los Montes en los Valles",
-      "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
+      "duration_ms": 439484,
+      "name": "Enciende Una Luz",
+      "url": "https://open.spotify.com/track/7E47DjR4JzYcdpI5PxR7zn"
     },
     {
       "added_at": null,
@@ -295,22 +295,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 366158,
-      "name": "Escucharte Hablar",
-      "url": "https://open.spotify.com/track/1Jsr3olWK54xIVnoSJvhy6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sana Nuestra Tierra",
         "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
@@ -323,6 +307,22 @@
       "duration_ms": 372035,
       "name": "Sana Nuestra Tierra",
       "url": "https://open.spotify.com/track/6viyvAwhF791gksn4WBvcJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 366158,
+      "name": "Escucharte Hablar",
+      "url": "https://open.spotify.com/track/1Jsr3olWK54xIVnoSJvhy6"
     },
     {
       "added_at": null,
@@ -343,22 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 380342,
-      "name": "Ex\u00e1ltate",
-      "url": "https://open.spotify.com/track/53G9t1WKQ0NojEOamAt4lo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Santo R\u00edo de Dios",
         "url": "https://open.spotify.com/album/197HCxd1moPA2aHnlfPTPM"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 301958,
       "name": "Santo R\u00edo de Dios",
       "url": "https://open.spotify.com/track/0SzKBtMu75trcKWGXBsGb6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 380342,
+      "name": "Ex\u00e1ltate",
+      "url": "https://open.spotify.com/track/53G9t1WKQ0NojEOamAt4lo"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 410827,
-      "name": "Jes\u00fas Eres Mi Buen Pastor",
-      "url": "https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sobrenatural",
         "url": "https://open.spotify.com/album/1EDofreiBInsrMtMbpt7hL"
       },
@@ -487,38 +471,6 @@
       "duration_ms": 311706,
       "name": "Sobrenatural",
       "url": "https://open.spotify.com/track/0bYJJNIhLTPqz7SSU0Fw3V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En adoraci\u00f3n",
-        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 371788,
-      "name": "Si puedes creer",
-      "url": "https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sana Nuestra Tierra",
-        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 250462,
-      "name": "Acu\u00e9rdate Oh Se\u00f1or",
-      "url": "https://open.spotify.com/track/72MDIg327QKuytMEGh1nCa"
     },
     {
       "added_at": null,
@@ -547,6 +499,54 @@
       "duration_ms": 687091,
       "name": "Coritos (En Vivo)",
       "url": "https://open.spotify.com/track/0t95oHRKMBi5wxaD8RSXC7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En adoraci\u00f3n",
+        "url": "https://open.spotify.com/album/0kfCuoDxi46cnlurjvW5zD"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 371788,
+      "name": "Si puedes creer",
+      "url": "https://open.spotify.com/track/46Z4MHyYfzHONL5Xc9I7da"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/71Tj4cXTZCGpq3O43iFkEO"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 410827,
+      "name": "Jes\u00fas Eres Mi Buen Pastor",
+      "url": "https://open.spotify.com/track/11bb5n9uOzwP1VX6u1iPel"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sana Nuestra Tierra",
+        "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 250462,
+      "name": "Acu\u00e9rdate Oh Se\u00f1or",
+      "url": "https://open.spotify.com/track/72MDIg327QKuytMEGh1nCa"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lo Mejor de Instrumentales",
-        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 222876,
-      "name": "Renu\u00e9vame",
-      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Iglesia",
         "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 355417,
       "name": "\u00c9l Siempre Reina",
       "url": "https://open.spotify.com/track/1iTKfYiWEj9MWVPeQMcW5l"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lo Mejor de Instrumentales",
+        "url": "https://open.spotify.com/album/2W84MBeBF9SHaNhUmfiS1Q"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 222876,
+      "name": "Renu\u00e9vame",
+      "url": "https://open.spotify.com/track/0KLlY8Hfa4NtxfP7X1IHVL"
     },
     {
       "added_at": null,
@@ -651,22 +651,6 @@
       "duration_ms": 227291,
       "name": "Ll\u00e9name Se\u00f1or",
       "url": "https://open.spotify.com/track/7qKZKJfitLRRA4O6ZBCTs7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dios de Pactos",
-        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 651080,
-      "name": "Dios De Pactos",
-      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
     },
     {
       "added_at": null,
@@ -711,6 +695,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dios de Pactos",
+        "url": "https://open.spotify.com/album/4YCOrXZRsLWvj9BZBTS2AR"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 651080,
+      "name": "Dios De Pactos",
+      "url": "https://open.spotify.com/track/4wFBzIA7HuaaGz89DQnWyo"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sana Nuestra Tierra",
         "url": "https://open.spotify.com/album/63dZbhvWrC4QotDOWNMwQh"
       },
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Poderoso",
-        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 260022,
-      "name": "A Ti",
-      "url": "https://open.spotify.com/track/0c6NEpsdc4nvAI93IFWTxI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu Iglesia",
         "url": "https://open.spotify.com/album/3lb9AFreeW6mc0jx5NKcxP"
       },
@@ -755,26 +739,6 @@
       "duration_ms": 298259,
       "name": "Hay Un Nombre",
       "url": "https://open.spotify.com/track/6FshvZr5yr9W4kybpGSV27"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homenaje a Jes\u00fas",
-        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        },
-        {
-          "name": "Danilo Montero",
-          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
-        }
-      ],
-      "duration_ms": 481175,
-      "name": "Damos honor a Ti feat.Danilo Montero",
-      "url": "https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26"
     },
     {
       "added_at": null,
@@ -811,8 +775,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vivir\u00e9",
-        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+        "name": "Homenaje a Jes\u00fas",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        },
+        {
+          "name": "Danilo Montero",
+          "url": "https://open.spotify.com/artist/2a48vLoCcVkOMcCSqXreOF"
+        }
+      ],
+      "duration_ms": 481175,
+      "name": "Damos honor a Ti feat.Danilo Montero",
+      "url": "https://open.spotify.com/track/1vX9aWhoRlfvykVyKj9F26"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Poderoso",
+        "url": "https://open.spotify.com/album/4buWEkWMs4uNIJpIZdQNJ9"
       },
       "artists": [
         {
@@ -820,9 +804,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 325128,
-      "name": "Simplemente Gracias",
-      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
+      "duration_ms": 260022,
+      "name": "A Ti",
+      "url": "https://open.spotify.com/track/0c6NEpsdc4nvAI93IFWTxI"
     },
     {
       "added_at": null,
@@ -839,6 +823,22 @@
       "duration_ms": 231601,
       "name": "Tu Fidelidad",
       "url": "https://open.spotify.com/track/5zh9x8OxWAySBxWhvTDBW2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vivir\u00e9",
+        "url": "https://open.spotify.com/album/67uRZ3X95JEwhbxi7GP5gW"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 325128,
+      "name": "Simplemente Gracias",
+      "url": "https://open.spotify.com/track/1dFO3EzDl1bdNm258j2WNK"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "You are sipping on your coffee in a caf\u00e9 in Paris while a Jazz band plays somewhere in the background. ",
-  "num_followers": 520800,
+  "num_followers": 521300,
   "original_name": "French Jazz Caf\u00e9",
   "owner": {
     "name": "Spotify",
@@ -83,22 +83,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Attraction",
-        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
-      },
-      "artists": [
-        {
-          "name": "Paris Combo",
-          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
-        }
-      ],
-      "duration_ms": 220933,
-      "name": "Fibre De Verre",
-      "url": "https://open.spotify.com/track/1DaKM1Mzf9cOhHF9eKZZ4w"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Salle des pas perdus",
         "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
       },
@@ -115,6 +99,22 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
+        "name": "Attraction",
+        "url": "https://open.spotify.com/album/4Th7DyvnAE6nMqjTrNnsqS"
+      },
+      "artists": [
+        {
+          "name": "Paris Combo",
+          "url": "https://open.spotify.com/artist/5xDjKV6UvzyrI3RnwHq02G"
+        }
+      ],
+      "duration_ms": 220933,
+      "name": "Fibre De Verre",
+      "url": "https://open.spotify.com/track/1DaKM1Mzf9cOhHF9eKZZ4w"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
         "name": "Dreamland",
         "url": "https://open.spotify.com/album/4DE9KRgAibQ5ZnmDtuGJNB"
       },
@@ -127,22 +127,6 @@
       "duration_ms": 201200,
       "name": "La Vie En Rose",
       "url": "https://open.spotify.com/track/1njxWb5fM5L5eEq9MyWddU"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 197880,
-      "name": "La Rua Madureira",
-      "url": "https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -175,18 +159,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
       },
       "artists": [
         {
-          "name": "Emilie-Claire Barlow",
-          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
         }
       ],
-      "duration_ms": 286423,
-      "name": "Les yeux ouverts (dream a little dream of me)",
-      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
+      "duration_ms": 197880,
+      "name": "La Rua Madureira",
+      "url": "https://open.spotify.com/track/3jFtKmNqDyHp27m8lmEANY"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -223,18 +207,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Salle des pas perdus",
-        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/58CRSHezL90l3bMuC23ZoP"
       },
       "artists": [
         {
-          "name": "Coralie Clement",
-          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+          "name": "Emilie-Claire Barlow",
+          "url": "https://open.spotify.com/artist/4doI7TR51c6DTaveTwpIkg"
         }
       ],
-      "duration_ms": 248373,
-      "name": "L'ombre et la lumi\u00e8re",
-      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
+      "duration_ms": 286423,
+      "name": "Les yeux ouverts (dream a little dream of me)",
+      "url": "https://open.spotify.com/track/2RcwqefTH11THzlwJHoS6D"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -251,6 +235,38 @@
       "duration_ms": 168000,
       "name": "Jardin d'hiver",
       "url": "https://open.spotify.com/track/7gHRVNiuL66Z6fE6DwZaFT"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Bubble Gum",
+        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
+      },
+      "artists": [
+        {
+          "name": "Brigitte Bardot",
+          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
+        }
+      ],
+      "duration_ms": 140826,
+      "name": "Un jour comme un autre",
+      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Salle des pas perdus",
+        "url": "https://open.spotify.com/album/4pDc7fgf4OewAt03wRsHJY"
+      },
+      "artists": [
+        {
+          "name": "Coralie Clement",
+          "url": "https://open.spotify.com/artist/3mG2QgBwWdWbHNjnFC6pu4"
+        }
+      ],
+      "duration_ms": 248373,
+      "name": "L'ombre et la lumi\u00e8re",
+      "url": "https://open.spotify.com/track/7yzUHiCgF7JOzJOFE0Bnpd"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -287,22 +303,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Bubble Gum",
-        "url": "https://open.spotify.com/album/1Rvk3tavC4U97f1UObfsnb"
-      },
-      "artists": [
-        {
-          "name": "Brigitte Bardot",
-          "url": "https://open.spotify.com/artist/1q24xIsAD7JZuVkTLR9TJy"
-        }
-      ],
-      "duration_ms": 140826,
-      "name": "Un jour comme un autre",
-      "url": "https://open.spotify.com/track/5cMZLL8DVg2TRgdb407LrF"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Amourettes",
         "url": "https://open.spotify.com/album/44SSBfsX3hTYpc8lpAp8Co"
       },
@@ -319,22 +319,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Miss Kitt To You",
-        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
-      },
-      "artists": [
-        {
-          "name": "Eartha Kitt",
-          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
-        }
-      ],
-      "duration_ms": 172333,
-      "name": "Je Cherche Un Homme",
-      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Les ronds de carotte",
         "url": "https://open.spotify.com/album/31bS3FqWVQ9st6vTse9ZEw"
       },
@@ -347,6 +331,22 @@
       "duration_ms": 245226,
       "name": "Au caf\u00e9 de la paix",
       "url": "https://open.spotify.com/track/7lTYyo3pDiHnKpw3qSDBa8"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Miss Kitt To You",
+        "url": "https://open.spotify.com/album/2iWbUYKAbWPRV0XWL3W5IO"
+      },
+      "artists": [
+        {
+          "name": "Eartha Kitt",
+          "url": "https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC"
+        }
+      ],
+      "duration_ms": 172333,
+      "name": "Je Cherche Un Homme",
+      "url": "https://open.spotify.com/track/3dlZQnkxnxZjTV860ixUHx"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Whisper For You",
-        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
-      },
-      "artists": [
-        {
-          "name": "Blossom Dearie",
-          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
-        }
-      ],
-      "duration_ms": 149533,
-      "name": "Plus Je T'embrasse",
-      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Soir\u00e9e",
         "url": "https://open.spotify.com/album/4lddlOYftwWpttdq2MRpVy"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 189026,
       "name": "Vous Qui Passez Sans Me Voir",
       "url": "https://open.spotify.com/track/4GMWA6sqYzdDCma6oCBI1D"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Whisper For You",
+        "url": "https://open.spotify.com/album/6bF3D6lN2SkAH0ZGaWccd7"
+      },
+      "artists": [
+        {
+          "name": "Blossom Dearie",
+          "url": "https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6"
+        }
+      ],
+      "duration_ms": 149533,
+      "name": "Plus Je T'embrasse",
+      "url": "https://open.spotify.com/track/5UiaszjisznaX77YaCgUhX"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Navega",
-        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 222800,
-      "name": "Comme s'il en pleuvait",
-      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Paris Combo",
         "url": "https://open.spotify.com/album/7tIxpxvTzHJUYUKToeAkXb"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 247666,
       "name": "On N'a Pas Besoin",
       "url": "https://open.spotify.com/track/3Bv1eR7Q2AM6CZyBR1Ci7B"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Navega",
+        "url": "https://open.spotify.com/album/5L0eCMei56cSPTQnNL0Ipu"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 222800,
+      "name": "Comme s'il en pleuvait",
+      "url": "https://open.spotify.com/track/1bSsHUOFmxzNARPujtglaH"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -671,22 +671,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Lovely Difficult",
-        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
-      },
-      "artists": [
-        {
-          "name": "Mayra Andrade",
-          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
-        }
-      ],
-      "duration_ms": 227026,
-      "name": "Les mots d'amour",
-      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Song, Song, Song",
         "url": "https://open.spotify.com/album/0CNPTCumkfO3xJYWUD7ocd"
       },
@@ -707,22 +691,6 @@
       "duration_ms": 261093,
       "name": "Mon fant\u00f4me",
       "url": "https://open.spotify.com/track/5Kffc1Z3lWKCKARrEUlzRW"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
-        "name": "Bossa Nova",
-        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
-      },
-      "artists": [
-        {
-          "name": "Pauline Croze",
-          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
-        }
-      ],
-      "duration_ms": 170186,
-      "name": "Samba Saravah",
-      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -755,6 +723,38 @@
       "duration_ms": 289413,
       "name": "Menilmontant",
       "url": "https://open.spotify.com/track/7k125cYjRfIYB23FOQTeTy"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Bossa Nova",
+        "url": "https://open.spotify.com/album/0fVSKhuKSqeOSE3KXg1JYf"
+      },
+      "artists": [
+        {
+          "name": "Pauline Croze",
+          "url": "https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1"
+        }
+      ],
+      "duration_ms": 170186,
+      "name": "Samba Saravah",
+      "url": "https://open.spotify.com/track/4hft7Q7fXqMx31RuIIgTFn"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Lovely Difficult",
+        "url": "https://open.spotify.com/album/19vR7lLDnkhfmcdEYmXOtB"
+      },
+      "artists": [
+        {
+          "name": "Mayra Andrade",
+          "url": "https://open.spotify.com/artist/7uriYlc9ETgOg8VPFbdnbE"
+        }
+      ],
+      "duration_ms": 227026,
+      "name": "Les mots d'amour",
+      "url": "https://open.spotify.com/track/5wWsPTSLg9gLuD39EjCxB4"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "A Fraction Of You",
-        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
-      },
-      "artists": [
-        {
-          "name": "Fredrika Stahl",
-          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
-        }
-      ],
-      "duration_ms": 217960,
-      "name": "Les jeux sont faits",
-      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
-    },
-    {
-      "added_at": "2024-06-03 11:39:48",
-      "album": {
         "name": "Dans la peau",
         "url": "https://open.spotify.com/album/4tPSoyEzxWxVbXcM3sUYdG"
       },
@@ -1179,18 +1163,18 @@
     {
       "added_at": "2024-06-03 11:39:48",
       "album": {
-        "name": "Paris Blues",
-        "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
+        "name": "A Fraction Of You",
+        "url": "https://open.spotify.com/album/64gdIpI1MJzTjRo2yZFBwS"
       },
       "artists": [
         {
-          "name": "Raquel Bitton",
-          "url": "https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X"
+          "name": "Fredrika Stahl",
+          "url": "https://open.spotify.com/artist/3hWWpC6XAABcySpC1id9Q5"
         }
       ],
-      "duration_ms": 222840,
-      "name": "Nuages - Studio recording",
-      "url": "https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM"
+      "duration_ms": 217960,
+      "name": "Les jeux sont faits",
+      "url": "https://open.spotify.com/track/7JTyXQErhpjBJMVKEmL2MZ"
     },
     {
       "added_at": "2024-06-03 11:39:48",
@@ -1207,6 +1191,22 @@
       "duration_ms": 169143,
       "name": "Quand on s'balade",
       "url": "https://open.spotify.com/track/0Qo7NdtGc2pEVCmvJWhW9H"
+    },
+    {
+      "added_at": "2024-06-03 11:39:48",
+      "album": {
+        "name": "Paris Blues",
+        "url": "https://open.spotify.com/album/5ZvFyKwLbAxuwYzbCmswAY"
+      },
+      "artists": [
+        {
+          "name": "Raquel Bitton",
+          "url": "https://open.spotify.com/artist/55wEoppLSr86yUwGGTVv0X"
+        }
+      ],
+      "duration_ms": 222840,
+      "name": "Nuages - Studio recording",
+      "url": "https://open.spotify.com/track/0ZozgJKoZhGJbkAtKzmzzM"
     },
     {
       "added_at": "2024-06-03 11:39:48",

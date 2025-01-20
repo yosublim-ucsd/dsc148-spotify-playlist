@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Joy (Soundtrack from the Netflix Film)",
+        "url": "https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW"
+      },
+      "artists": [
+        {
+          "name": "Steven Price",
+          "url": "https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214346,
+      "name": "67481 Lesley Brown",
+      "url": "https://open.spotify.com/track/5xPX2yStJDhI5f8eV8x6kk"
+    },
+    {
+      "album": {
         "name": "Over the Moon (Music from the Netflix Film)",
         "url": "https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD"
       },
@@ -2030,7 +2048,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 58386,
       "name": "You're A Strange Man",
       "url": "https://open.spotify.com/track/1lzMLHSOXAEuioVK4RKvYo"

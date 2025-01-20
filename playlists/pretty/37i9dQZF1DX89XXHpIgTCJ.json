@@ -1,6 +1,6 @@
 {
   "description": "When Rock meets Rap: covers, collabs, mashups and everything that rhymes.",
-  "num_followers": 315618,
+  "num_followers": 315659,
   "original_name": "Rap 'n' Roll",
   "owner": {
     "name": "Spotify",
@@ -227,6 +227,22 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
+        "name": "Licensed To Ill",
+        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
+      },
+      "artists": [
+        {
+          "name": "Beastie Boys",
+          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+        }
+      ],
+      "duration_ms": 208653,
+      "name": "Fight For Your Right",
+      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
+    },
+    {
+      "added_at": "2024-10-03 21:55:40",
+      "album": {
         "name": "Raising Hell",
         "url": "https://open.spotify.com/album/7AFsTiojVaB2I58oZ1tMRg"
       },
@@ -243,22 +259,6 @@
       "duration_ms": 310386,
       "name": "Walk This Way (feat. Aerosmith)",
       "url": "https://open.spotify.com/track/6qUEOWqOzu1rLPUPQ1ECpx"
-    },
-    {
-      "added_at": "2024-10-03 21:55:40",
-      "album": {
-        "name": "Licensed To Ill",
-        "url": "https://open.spotify.com/album/11oR0ZuqB3ucZwb5TGbZxb"
-      },
-      "artists": [
-        {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
-        }
-      ],
-      "duration_ms": 208653,
-      "name": "Fight For Your Right",
-      "url": "https://open.spotify.com/track/5NLuC70kZQv8q34QyQa1DP"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "The Moment (Digital Deluxe)",
-        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
-      },
-      "artists": [
-        {
-          "name": "Framing Hanley",
-          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
-        }
-      ],
-      "duration_ms": 187906,
-      "name": "Lollipop",
-      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
-    },
-    {
-      "added_at": "2024-10-03 21:55:40",
-      "album": {
         "name": "The Hunting Party",
         "url": "https://open.spotify.com/album/3XB2yloP7l00tEUmaODtVi"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 355120,
       "name": "Guilty All the Same (feat. Rakim)",
       "url": "https://open.spotify.com/track/6L5QMBrydoaapTDMQ0Anui"
+    },
+    {
+      "added_at": "2024-10-03 21:55:40",
+      "album": {
+        "name": "The Moment (Digital Deluxe)",
+        "url": "https://open.spotify.com/album/3qEFmt0o13JEKWOEkqDs4u"
+      },
+      "artists": [
+        {
+          "name": "Framing Hanley",
+          "url": "https://open.spotify.com/artist/3niqfoc7C6lIeCNVz8iZYE"
+        }
+      ],
+      "duration_ms": 187906,
+      "name": "Lollipop",
+      "url": "https://open.spotify.com/track/49dFv4gH1SeY90FySDOwCE"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -631,22 +631,30 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "Life Is Peachy",
-        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
+        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
+        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
       },
       "artists": [
         {
-          "name": "Korn",
-          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
         },
         {
-          "name": "Chino Moreno",
-          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
+          "name": "Redman",
+          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        },
+        {
+          "name": "DMX",
+          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
         }
       ],
-      "duration_ms": 240546,
-      "name": "Wicked (feat. Chino Moreno)",
-      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+      "duration_ms": 382826,
+      "name": "Rollin' (Urban Assault Vehicle)",
+      "url": "https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -687,30 +695,38 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "Chocolate Starfish And The Hot Dog Flavored Water",
-        "url": "https://open.spotify.com/album/5mi7FKaWE5CtcOjdyxScA7"
+        "name": "Life Is Peachy",
+        "url": "https://open.spotify.com/album/2b813fSxxzp9lcOfnLrrTH"
       },
       "artists": [
         {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+          "name": "Korn",
+          "url": "https://open.spotify.com/artist/3RNrq3jvMZxD9ZyoOZbQOD"
         },
         {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "DMX",
-          "url": "https://open.spotify.com/artist/1HwM5zlC5qNWhJtM00yXzG"
+          "name": "Chino Moreno",
+          "url": "https://open.spotify.com/artist/0Wfo0pd0KC47vx7uUEVOQ9"
         }
       ],
-      "duration_ms": 382826,
-      "name": "Rollin' (Urban Assault Vehicle)",
-      "url": "https://open.spotify.com/track/3nsxMrnYlfBNotHRevTRgM"
+      "duration_ms": 240546,
+      "name": "Wicked (feat. Chino Moreno)",
+      "url": "https://open.spotify.com/track/2PeLrcfqn5agneKc3S2HMu"
+    },
+    {
+      "added_at": "2024-10-03 21:55:40",
+      "album": {
+        "name": "Meteora (Bonus Edition)",
+        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "duration_ms": 178866,
+      "name": "Nobody's Listening",
+      "url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -731,22 +747,6 @@
       "duration_ms": 227080,
       "name": "Game On (feat. Good Charlotte) - From \"Pixels - The Movie\"",
       "url": "https://open.spotify.com/track/2qUTxCqJW2Irez1eYZcGNx"
-    },
-    {
-      "added_at": "2024-10-03 21:55:40",
-      "album": {
-        "name": "Meteora (Bonus Edition)",
-        "url": "https://open.spotify.com/album/0f7R0jf0pcTb6K6IVVPcMD"
-      },
-      "artists": [
-        {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Nobody's Listening",
-      "url": "https://open.spotify.com/track/1EU3VuKGZOvd1HTkxLPUXK"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -791,6 +791,22 @@
       "duration_ms": 248266,
       "name": "It's Goin' Down (feat. Mike Shinoda & Mr. Hahn)",
       "url": "https://open.spotify.com/track/7qFEFcjmSAtODGtLYqraCq"
+    },
+    {
+      "added_at": "2024-10-03 21:55:40",
+      "album": {
+        "name": "Ready To Go",
+        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
+      },
+      "artists": [
+        {
+          "name": "Limp Bizkit",
+          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
+        }
+      ],
+      "duration_ms": 361360,
+      "name": "Ready To Go",
+      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -867,38 +883,18 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "Lemonade (with Denzel Curry)",
-        "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
+        "name": "Body Count",
+        "url": "https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J"
       },
       "artists": [
         {
-          "name": "YUNGBLUD",
-          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
-        },
-        {
-          "name": "Denzel Curry",
-          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
+          "name": "Body Count",
+          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
         }
       ],
-      "duration_ms": 165685,
-      "name": "Lemonade (with Denzel Curry)",
-      "url": "https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL"
-    },
-    {
-      "added_at": "2024-10-03 21:55:40",
-      "album": {
-        "name": "Ready To Go",
-        "url": "https://open.spotify.com/album/5qwnsXwdLqlobT21jkU8ur"
-      },
-      "artists": [
-        {
-          "name": "Limp Bizkit",
-          "url": "https://open.spotify.com/artist/165ZgPlLkK7bf5bDoFc6Sb"
-        }
-      ],
-      "duration_ms": 361360,
-      "name": "Ready To Go",
-      "url": "https://open.spotify.com/track/5kS6gc6Df3eV676GGUF832"
+      "duration_ms": 204200,
+      "name": "Body Count's in the House",
+      "url": "https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -919,18 +915,22 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "Body Count",
-        "url": "https://open.spotify.com/album/2J5Lf1s0Q42e31xjSwVd8J"
+        "name": "Lemonade (with Denzel Curry)",
+        "url": "https://open.spotify.com/album/33BruH4PRrvmtQ7dsBDN0d"
       },
       "artists": [
         {
-          "name": "Body Count",
-          "url": "https://open.spotify.com/artist/5KCph1z3jaSwhtwPzoYp6i"
+          "name": "YUNGBLUD",
+          "url": "https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW"
+        },
+        {
+          "name": "Denzel Curry",
+          "url": "https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV"
         }
       ],
-      "duration_ms": 204200,
-      "name": "Body Count's in the House",
-      "url": "https://open.spotify.com/track/0ei5rAVjRCUQATivnVwkLN"
+      "duration_ms": 165685,
+      "name": "Lemonade (with Denzel Curry)",
+      "url": "https://open.spotify.com/track/4k9it7Buh3IXU7o3oLRjJL"
     },
     {
       "added_at": "2024-10-03 21:55:40",
@@ -971,22 +971,6 @@
     {
       "added_at": "2024-10-03 21:55:40",
       "album": {
-        "name": "Prophets Of Rage",
-        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
-      },
-      "artists": [
-        {
-          "name": "Prophets Of Rage",
-          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
-        }
-      ],
-      "duration_ms": 190180,
-      "name": "Prophets Of Rage",
-      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
-    },
-    {
-      "added_at": "2024-10-03 21:55:40",
-      "album": {
         "name": "King Of Rock (Expanded Edition)",
         "url": "https://open.spotify.com/album/57FQTvThrTFPrGPAvZCjw6"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 314146,
       "name": "King of Rock",
       "url": "https://open.spotify.com/track/7112WRQXlBGe4Os43yw8gV"
+    },
+    {
+      "added_at": "2024-10-03 21:55:40",
+      "album": {
+        "name": "Prophets Of Rage",
+        "url": "https://open.spotify.com/album/3SQmvD9SGyuJEqLKGVLX8j"
+      },
+      "artists": [
+        {
+          "name": "Prophets Of Rage",
+          "url": "https://open.spotify.com/artist/1fSzW5cXBmquli5laFnoGY"
+        }
+      ],
+      "duration_ms": 190180,
+      "name": "Prophets Of Rage",
+      "url": "https://open.spotify.com/track/1bTVbi6uwmGwlsXy2soxpg"
     },
     {
       "added_at": "2024-10-03 21:55:40",

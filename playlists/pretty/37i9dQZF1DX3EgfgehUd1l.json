@@ -1,6 +1,6 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 171663,
+  "num_followers": 171692,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
@@ -139,22 +139,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 162960,
-      "name": "Sway (Quien Sera)",
-      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Romance: Songs From The Heart",
         "url": "https://open.spotify.com/album/6gLsNre727RSLK2j0LGmCp"
       },
@@ -167,6 +151,22 @@
       "duration_ms": 172546,
       "name": "All The Way - 2006 Digital Remaster/24 Bit Mastering",
       "url": "https://open.spotify.com/track/7fanCwOck16J9MPJ3SR39P"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 162960,
+      "name": "Sway (Quien Sera)",
+      "url": "https://open.spotify.com/track/4nbILrYODP667b3d66ZMzI"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -219,38 +219,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Definitive Pop: The Everly Brothers",
-        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 140373,
-      "name": "All I Have to Do Is Dream - Single Version; 2006 Remaster",
-      "url": "https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Banana Boat Song",
-        "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 184653,
-      "name": "Banana Boat Song",
-      "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "If I Can Dream: Elvis Presley with the Royal Philharmonic Orchestra",
         "url": "https://open.spotify.com/album/3BYCjGZjrTkilIY7U25fNt"
       },
@@ -271,6 +239,38 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Capitol Years",
+        "url": "https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "That's Amore",
+      "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Definitive Pop: The Everly Brothers",
+        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 140373,
+      "name": "All I Have to Do Is Dream - Single Version; 2006 Remaster",
+      "url": "https://open.spotify.com/track/76HnRI6IQX4YHzYTgcM0RV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Frank Sinatra: The Complete Capitol Singles Collection",
         "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
       },
@@ -287,18 +287,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Capitol Years",
-        "url": "https://open.spotify.com/album/31Mwr76okDPhxDxK6OaL1N"
+        "name": "Banana Boat Song",
+        "url": "https://open.spotify.com/album/10fE4grc2jJr9G292IxCZA"
       },
       "artists": [
         {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
         }
       ],
-      "duration_ms": 188266,
-      "name": "That's Amore",
-      "url": "https://open.spotify.com/track/3x6wVKXfCm85Pw7gYo0rqq"
+      "duration_ms": 184653,
+      "name": "Banana Boat Song",
+      "url": "https://open.spotify.com/track/3oY0qu8PC5gf7DkXP6ANx3"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -339,70 +339,6 @@
       "duration_ms": 148493,
       "name": "Catch a Falling Star (with Mitchell Ayres and His Orchestra & The Ray Charles Singers)",
       "url": "https://open.spotify.com/track/38YMdelhj62vJ6d5a0wxMQ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Essential Harry Belafonte",
-        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
-      },
-      "artists": [
-        {
-          "name": "Harry Belafonte",
-          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
-        }
-      ],
-      "duration_ms": 201453,
-      "name": "Island In The Sun",
-      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Very Best of The Everly Brothers",
-        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 146066,
-      "name": "('Til) I Kissed You",
-      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Hey, Brother Pour The Wine",
-        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 138080,
-      "name": "Memories Are Made Of This",
-      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
-        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
-      },
-      "artists": [
-        {
-          "name": "Frank Sinatra",
-          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
-        }
-      ],
-      "duration_ms": 177906,
-      "name": "(Love Is) The Tender Trap",
-      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -455,6 +391,70 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Very Best of The Everly Brothers",
+        "url": "https://open.spotify.com/album/4lmdDGcU5u1xk3GCcVJSYT"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 146066,
+      "name": "('Til) I Kissed You",
+      "url": "https://open.spotify.com/track/2erTdgDOZmjJNaNhjhWXhJ"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Hey, Brother Pour The Wine",
+        "url": "https://open.spotify.com/album/4FGYCziMpKskiKoujCTMj8"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 138080,
+      "name": "Memories Are Made Of This",
+      "url": "https://open.spotify.com/track/4h0igWYayzteBtSNpWYQ9h"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Essential Harry Belafonte",
+        "url": "https://open.spotify.com/album/4OdO7cL7opGFZarQCjwQGi"
+      },
+      "artists": [
+        {
+          "name": "Harry Belafonte",
+          "url": "https://open.spotify.com/artist/6Tw1ktF4xMmzaLLbe98I2z"
+        }
+      ],
+      "duration_ms": 201453,
+      "name": "Island In The Sun",
+      "url": "https://open.spotify.com/track/0dRcFOOCdwbEMFLeibJhxV"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Frank Sinatra: The Complete Capitol Singles Collection",
+        "url": "https://open.spotify.com/album/7LbB7SuX3op2Xa9FvteJeB"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "duration_ms": 177906,
+      "name": "(Love Is) The Tender Trap",
+      "url": "https://open.spotify.com/track/0UPLR6uenfxF1sonHICT8X"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "30th Anniversary Collection",
         "url": "https://open.spotify.com/album/0OxmrGiNK366aVvJmpe5s2"
       },
@@ -467,6 +467,22 @@
       "duration_ms": 135826,
       "name": "The Story of My Life",
       "url": "https://open.spotify.com/track/0k7D3su480Mxcv0rDggr9x"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Definitive Pop: The Everly Brothers",
+        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
+      },
+      "artists": [
+        {
+          "name": "The Everly Brothers",
+          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
+        }
+      ],
+      "duration_ms": 142906,
+      "name": "Bye Bye Love",
+      "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -519,22 +535,6 @@
       "duration_ms": 137320,
       "name": "Don't Forbid Me",
       "url": "https://open.spotify.com/track/5XjPPdhCGeAEecJlxAJt3M"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Definitive Pop: The Everly Brothers",
-        "url": "https://open.spotify.com/album/7suOvu4ppoFddBOxpYkf2d"
-      },
-      "artists": [
-        {
-          "name": "The Everly Brothers",
-          "url": "https://open.spotify.com/artist/4ACplpEqD6JIVgKrafauzs"
-        }
-      ],
-      "duration_ms": 142906,
-      "name": "Bye Bye Love",
-      "url": "https://open.spotify.com/track/0xK34uEDBKa9ZzJ6kelLJE"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -619,26 +619,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Calamity Jane / The Pajama Game",
-        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
-      },
-      "artists": [
-        {
-          "name": "Doris Day",
-          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
-        },
-        {
-          "name": "Paul Weston And His Orchestra",
-          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
-        }
-      ],
-      "duration_ms": 178933,
-      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
-      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Frankie Laine's Greatest Hits",
         "url": "https://open.spotify.com/album/0Z1J1n3fJPA53HLGtzi8HD"
       },
@@ -687,6 +667,26 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "Calamity Jane / The Pajama Game",
+        "url": "https://open.spotify.com/album/6DCvm5dL5s9C8ZqvK9yAEG"
+      },
+      "artists": [
+        {
+          "name": "Doris Day",
+          "url": "https://open.spotify.com/artist/3ESG6pj6a0LvUKklENalT6"
+        },
+        {
+          "name": "Paul Weston And His Orchestra",
+          "url": "https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey"
+        }
+      ],
+      "duration_ms": 178933,
+      "name": "The Black Hills of Dakota (with Paul Weston & His Orchestra) - Version 1",
+      "url": "https://open.spotify.com/track/5LIHuXGT4XqIX6TR0MjXZR"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "The Singles",
         "url": "https://open.spotify.com/album/5LoOStQoPOCIyOReBVcbtR"
       },
@@ -703,22 +703,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Love Is A Simple Thing",
-        "url": "https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47"
-      },
-      "artists": [
-        {
-          "name": "Debbie Reynolds",
-          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
-        }
-      ],
-      "duration_ms": 184346,
-      "name": "Tammy",
-      "url": "https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Best of British Rock 'n' Roll / 1956 - 1959, Vol. 2",
         "url": "https://open.spotify.com/album/0g8JsELC0nFdjETYsDO1lK"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 141426,
       "name": "A Teenager In Love",
       "url": "https://open.spotify.com/track/48zgajINkd60MYu8WE0dcG"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Love Is A Simple Thing",
+        "url": "https://open.spotify.com/album/4xFfbmS2BiQieVo1nRZi47"
+      },
+      "artists": [
+        {
+          "name": "Debbie Reynolds",
+          "url": "https://open.spotify.com/artist/4Zf0pLGYwNB86Y97kisvkn"
+        }
+      ],
+      "duration_ms": 184346,
+      "name": "Tammy",
+      "url": "https://open.spotify.com/track/5aumFAJ6QzEy8Sm9fluanc"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -787,22 +787,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "The Hits and More",
-        "url": "https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ"
-      },
-      "artists": [
-        {
-          "name": "Tommy Edwards",
-          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
-        }
-      ],
-      "duration_ms": 159546,
-      "name": "It's All In The Game",
-      "url": "https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "The Essential Doris Day",
         "url": "https://open.spotify.com/album/747z8vJ5eFQPqeQ2Xtvn31"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 169560,
       "name": "If I Give My Heart to You (with The Mellomen)",
       "url": "https://open.spotify.com/track/3EuT9Db7LX4no2y4XTUc53"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "The Hits and More",
+        "url": "https://open.spotify.com/album/4RcFF7h8374fViYHTaLwRZ"
+      },
+      "artists": [
+        {
+          "name": "Tommy Edwards",
+          "url": "https://open.spotify.com/artist/1ObAu0tz0NlOI6FNHTXchD"
+        }
+      ],
+      "duration_ms": 159546,
+      "name": "It's All In The Game",
+      "url": "https://open.spotify.com/track/394NjJrTCSRmOzrUugwJz0"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Call The Midwife",
-        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
-      },
-      "artists": [
-        {
-          "name": "The Four Aces",
-          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
-        }
-      ],
-      "duration_ms": 180320,
-      "name": "Love Is A Many Splendoured Thing",
-      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Street Of Memories",
         "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 143506,
       "name": "Walking My Baby Back Home",
       "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Call The Midwife",
+        "url": "https://open.spotify.com/album/7H5q6GZrfypwDMBuzQS4F3"
+      },
+      "artists": [
+        {
+          "name": "The Four Aces",
+          "url": "https://open.spotify.com/artist/542GsScaNnc2Ed8yokKLsy"
+        }
+      ],
+      "duration_ms": 180320,
+      "name": "Love Is A Many Splendoured Thing",
+      "url": "https://open.spotify.com/track/1p3Ae3lSSaJWCHHLrsFNKq"
     },
     {
       "added_at": "2023-10-17 16:18:55",

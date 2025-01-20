@@ -1,12 +1,12 @@
 {
   "description": "This is Cardi B. The essential tracks, all in one playlist.",
-  "num_followers": 677745,
+  "num_followers": 677774,
   "original_name": "This Is Cardi B",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAAeoAIcpk+JRuxJUsIc8C0Z",
+  "snapshot_id": "Z4rvAAAAAADnYVe1Np4//Ers0zc2sDrD",
   "tracks": [
     {
       "added_at": null,
@@ -895,6 +895,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "On Dat Money (with Cardi B) (Alternate Versions)",
+        "url": "https://open.spotify.com/album/1wX65Zm7U60cwcPX4ouMuK"
+      },
+      "artists": [
+        {
+          "name": "Rob49",
+          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
+        },
+        {
+          "name": "Cardi B",
+          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
+        }
+      ],
+      "duration_ms": 151250,
+      "name": "On Dat Money (with Cardi B)",
+      "url": "https://open.spotify.com/track/0mqpGFcwWR8Jv3PGN87uT5"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
         "url": "https://open.spotify.com/album/2ZoLcA4NMOjJGFKeANgNpF"
       },
@@ -919,26 +939,6 @@
       "duration_ms": 201270,
       "name": "Writing on the Wall (feat. Post Malone & Cardi B)",
       "url": "https://open.spotify.com/track/7x9nXsowok1JszkVztI5NI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On Dat Money (with Cardi B) (Alternate Versions)",
-        "url": "https://open.spotify.com/album/1wX65Zm7U60cwcPX4ouMuK"
-      },
-      "artists": [
-        {
-          "name": "Rob49",
-          "url": "https://open.spotify.com/artist/1jBoSSrbz9n4ehQWA4cZgB"
-        },
-        {
-          "name": "Cardi B",
-          "url": "https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB"
-        }
-      ],
-      "duration_ms": 151250,
-      "name": "On Dat Money (with Cardi B)",
-      "url": "https://open.spotify.com/track/0mqpGFcwWR8Jv3PGN87uT5"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "This is All Time Low. The essential tracks, all in one playlist.",
-  "num_followers": 174031,
+  "num_followers": 174033,
   "original_name": "This Is All Time Low",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAAQ+Vbl1SggNUPUpU8d+VZR",
+  "snapshot_id": "Z4rvAAAAAADGodBB1btfZzYfia1cE0CM",
   "tracks": [
     {
       "added_at": null,
@@ -503,18 +503,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nothing Personal (Deluxe Version)",
-        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
       },
       "artists": [
         {
           "name": "All Time Low",
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        },
+        {
+          "name": "The Band CAMINO",
+          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
         }
       ],
-      "duration_ms": 204306,
-      "name": "Stella",
-      "url": "https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb"
+      "duration_ms": 193948,
+      "name": "Favorite Place (feat. The Band CAMINO)",
+      "url": "https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary"
     },
     {
       "added_at": null,
@@ -551,28 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        },
-        {
-          "name": "The Band CAMINO",
-          "url": "https://open.spotify.com/artist/6d4jrmreCmsenscuieJERc"
-        }
-      ],
-      "duration_ms": 193948,
-      "name": "Favorite Place (feat. The Band CAMINO)",
-      "url": "https://open.spotify.com/track/2uVNn2pFpDlx1XrFcEfary"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Once In A Lifetime",
-        "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
+        "name": "Nothing Personal (Deluxe Version)",
+        "url": "https://open.spotify.com/album/7tY7NcC2gKTxXsTJM6zK5I"
       },
       "artists": [
         {
@@ -580,41 +564,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 189542,
-      "name": "Once In A Lifetime",
-      "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Future Hearts",
-        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 206839,
-      "name": "Old Scars / Future Hearts",
-      "url": "https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Last Young Renegade",
-        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 214093,
-      "name": "Last Young Renegade",
-      "url": "https://open.spotify.com/track/66hOCG7IpEJI5wfLDhajxD"
+      "duration_ms": 204306,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/6hmEzWnA6ny2rqVOpB5Hcb"
     },
     {
       "added_at": null,
@@ -635,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dirty Work",
-        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
+        "name": "Once In A Lifetime",
+        "url": "https://open.spotify.com/album/4IV3UUGKbd9bZeRZlZDNJd"
       },
       "artists": [
         {
@@ -644,25 +596,9 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 209933,
-      "name": "Time-Bomb",
-      "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "So Wrong, It's Right",
-        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199986,
-      "name": "Poppin' Champagne",
-      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
+      "duration_ms": 189542,
+      "name": "Once In A Lifetime",
+      "url": "https://open.spotify.com/track/2Qjkvp4GLlL60lFXtEte0X"
     },
     {
       "added_at": null,
@@ -676,9 +612,25 @@
           "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
         }
       ],
-      "duration_ms": 197640,
-      "name": "Dirty Laundry",
-      "url": "https://open.spotify.com/track/7GZKme55JpmLq3alBDQm11"
+      "duration_ms": 214093,
+      "name": "Last Young Renegade",
+      "url": "https://open.spotify.com/track/66hOCG7IpEJI5wfLDhajxD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Future Hearts",
+        "url": "https://open.spotify.com/album/712X8QUI6uWg1JxHmz0l4I"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 206839,
+      "name": "Old Scars / Future Hearts",
+      "url": "https://open.spotify.com/track/5LU2hFmV7fQPmESUrMdf7n"
     },
     {
       "added_at": null,
@@ -699,6 +651,86 @@
     {
       "added_at": null,
       "album": {
+        "name": "Dirty Work",
+        "url": "https://open.spotify.com/album/2LJKiBomrpmLQhCZmNLrP8"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 209933,
+      "name": "Time-Bomb",
+      "url": "https://open.spotify.com/track/2qqn52sp9dDk2F9PdTrpwZ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Last Young Renegade",
+        "url": "https://open.spotify.com/album/0gpNGTVNivS2wB32tzV3OH"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 197640,
+      "name": "Dirty Laundry",
+      "url": "https://open.spotify.com/track/7GZKme55JpmLq3alBDQm11"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Wrong, It's Right",
+        "url": "https://open.spotify.com/album/0H4ELcHequ3OligrjWfrZP"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199986,
+      "name": "Poppin' Champagne",
+      "url": "https://open.spotify.com/track/3aCRrvADMjFjZq1x8dWD0t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Wake Up, Sunshine",
+        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 174895,
+      "name": "Melancholy Kaleidoscope",
+      "url": "https://open.spotify.com/track/1wQsTZ4AxGoXB9FmD9Nf4o"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don't Panic",
+        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 199405,
+      "name": "If These Sheets Were States",
+      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blinding Lights",
         "url": "https://open.spotify.com/album/3ORJYsMxoNvahUL8YWwKMm"
       },
@@ -711,6 +743,22 @@
       "duration_ms": 193151,
       "name": "Blinding Lights",
       "url": "https://open.spotify.com/track/2fx0rkeRamaGtmtA5QVkuy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Painting Flowers",
+        "url": "https://open.spotify.com/album/4CBEmsDLziXAfYtngeM8kz"
+      },
+      "artists": [
+        {
+          "name": "All Time Low",
+          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
+        }
+      ],
+      "duration_ms": 205773,
+      "name": "Painting Flowers",
+      "url": "https://open.spotify.com/track/5wlgcfDW3RLyGmiUr2S4Ld"
     },
     {
       "added_at": null,
@@ -735,38 +783,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Panic",
-        "url": "https://open.spotify.com/album/78ZshSpqcIXyrYBJGgiPK0"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 199405,
-      "name": "If These Sheets Were States",
-      "url": "https://open.spotify.com/track/3H2wle4LRMKgCWSYE6QgWF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Wake Up, Sunshine",
-        "url": "https://open.spotify.com/album/1kwAv74rVTTGMpawGsXtiE"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 174895,
-      "name": "Melancholy Kaleidoscope",
-      "url": "https://open.spotify.com/track/1wQsTZ4AxGoXB9FmD9Nf4o"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HELLRAISERS, Part 2",
         "url": "https://open.spotify.com/album/0diNd1xPp5eiaugv9HRpYb"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 167965,
       "name": "Ghost Story (with All Time Low)",
       "url": "https://open.spotify.com/track/2zgYAaDIic9iTLujB3FARq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Painting Flowers",
-        "url": "https://open.spotify.com/album/4CBEmsDLziXAfYtngeM8kz"
-      },
-      "artists": [
-        {
-          "name": "All Time Low",
-          "url": "https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo"
-        }
-      ],
-      "duration_ms": 205773,
-      "name": "Painting Flowers",
-      "url": "https://open.spotify.com/track/5wlgcfDW3RLyGmiUr2S4Ld"
     },
     {
       "added_at": null,

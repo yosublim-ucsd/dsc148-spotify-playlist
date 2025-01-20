@@ -1,6 +1,6 @@
 {
   "description": "Back to the golden age of the scene. Cover: Underoath",
-  "num_followers": 500752,
+  "num_followers": 500834,
   "original_name": "Chaos Anthems",
   "owner": {
     "name": "Spotify",
@@ -127,22 +127,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Dying Is Your Latest Fashion",
-        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 187880,
-      "name": "Situations",
-      "url": "https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Selfish Machines",
         "url": "https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q"
       },
@@ -171,6 +155,22 @@
       "duration_ms": 202640,
       "name": "All I Want",
       "url": "https://open.spotify.com/track/4JsDHMv5PVO8N07DbDq33r"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Dying Is Your Latest Fashion",
+        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 187880,
+      "name": "Situations",
+      "url": "https://open.spotify.com/track/1Fu9o08qEKVEwzU8siVcig"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -223,22 +223,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Dying Is Your Latest Fashion",
-        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 231506,
-      "name": "Not Good Enough For Truth In Clich\u00e9",
-      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Tell All Your Friends (Remastered)",
         "url": "https://open.spotify.com/album/0gBSoXYKsE3HHZNbgMPnEg"
       },
@@ -251,38 +235,6 @@
       "duration_ms": 181336,
       "name": "You're So Last Summer - Remastered 2019",
       "url": "https://open.spotify.com/track/0cY6CAgB5wShSOTT3lQl2t"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Saosin",
-        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
-      },
-      "artists": [
-        {
-          "name": "Saosin",
-          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
-        }
-      ],
-      "duration_ms": 238053,
-      "name": "You're Not Alone",
-      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Discovering The Waterfront",
-        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
-      },
-      "artists": [
-        {
-          "name": "Silverstein",
-          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
-        }
-      ],
-      "duration_ms": 207586,
-      "name": "My Heroine",
-      "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -303,6 +255,54 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "Saosin",
+        "url": "https://open.spotify.com/album/2osTPStH5H7i4fMHS7eauR"
+      },
+      "artists": [
+        {
+          "name": "Saosin",
+          "url": "https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX"
+        }
+      ],
+      "duration_ms": 238053,
+      "name": "You're Not Alone",
+      "url": "https://open.spotify.com/track/7cITfGsdjGaTP0b5oiLL0z"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Dying Is Your Latest Fashion",
+        "url": "https://open.spotify.com/album/01ufkmZ5R6UvEqKWfuNotw"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 231506,
+      "name": "Not Good Enough For Truth In Clich\u00e9",
+      "url": "https://open.spotify.com/track/50NQdrO55nqwZrDwKny5NH"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Discovering The Waterfront",
+        "url": "https://open.spotify.com/album/6j7O6N9Tp2Tac9hkEpt0zZ"
+      },
+      "artists": [
+        {
+          "name": "Silverstein",
+          "url": "https://open.spotify.com/artist/1Tsag5J854qxeOo2apszug"
+        }
+      ],
+      "duration_ms": 207586,
+      "name": "My Heroine",
+      "url": "https://open.spotify.com/track/6NDoBIaqTHdcudaR8RDJNw"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "Define The Great Line",
         "url": "https://open.spotify.com/album/6YQu7tXYfN1r2NLx8tfEI6"
       },
@@ -319,18 +319,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "I Brought You My Bullets, You Brought Me Your Love",
-        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 231096,
-      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
-      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
+      "duration_ms": 242133,
+      "name": "Buried Myself Alive",
+      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -351,34 +351,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "This War Is Ours (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+        "name": "I Brought You My Bullets, You Brought Me Your Love",
+        "url": "https://open.spotify.com/album/3VSl97ITIbXoFQvx2DQ605"
       },
       "artists": [
         {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
         }
       ],
-      "duration_ms": 266733,
-      "name": "This War Is Ours (The Guillotine II)",
-      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 242133,
-      "name": "Buried Myself Alive",
-      "url": "https://open.spotify.com/track/746bHsY27aWTMYpoxqECOm"
+      "duration_ms": 231096,
+      "name": "Honey, This Mirror Isn't Big Enough for the Two of Us",
+      "url": "https://open.spotify.com/track/5gNVTfD1L6QrPgOf0wFo0q"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -411,6 +395,22 @@
       "duration_ms": 280866,
       "name": "Baby, You Wouldn't Last A Minute On The Creek",
       "url": "https://open.spotify.com/track/6p4jnIWFWyLz0zUo2RD9iu"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "This War Is Ours (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/56a9Tuww0ddc52DHYG61Ai"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 266733,
+      "name": "This War Is Ours (The Guillotine II)",
+      "url": "https://open.spotify.com/track/1z33QOn2Hcq9SfI5pES25L"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -463,6 +463,22 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 205160,
+      "name": "I Caught Fire",
+      "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
         "name": "Page Avenue",
         "url": "https://open.spotify.com/album/4juejyEeCKFskkDA6zhIBW"
       },
@@ -511,8 +527,24 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+        "name": "All's Well That Ends Well",
+        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
+      },
+      "artists": [
+        {
+          "name": "Chiodos",
+          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "The Words \"Best Friend\" Become Redefined",
+      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
       },
       "artists": [
         {
@@ -520,9 +552,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 205160,
-      "name": "I Caught Fire",
-      "url": "https://open.spotify.com/track/6z2Fx4b0hjqLdsJQOrNxbM"
+      "duration_ms": 176373,
+      "name": "A Box Full of Sharp Objects",
+      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -539,22 +571,6 @@
       "duration_ms": 233762,
       "name": "Note to Self",
       "url": "https://open.spotify.com/track/7hZ1JuwJm4hZsS8IHnKDt3"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "All's Well That Ends Well",
-        "url": "https://open.spotify.com/album/0OEsBt4DiKAGACbzmhwbaS"
-      },
-      "artists": [
-        {
-          "name": "Chiodos",
-          "url": "https://open.spotify.com/artist/4ZIBrskTJWmkJUvM7uAu1o"
-        }
-      ],
-      "duration_ms": 216293,
-      "name": "The Words \"Best Friend\" Become Redefined",
-      "url": "https://open.spotify.com/track/6GKhlcZeyEW9Y5ZLZ37HZ3"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -651,22 +667,6 @@
       "duration_ms": 269026,
       "name": "What It Is To Burn - New Version",
       "url": "https://open.spotify.com/track/2DGFNAg4pTPLFKPeQRbGDZ"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 176373,
-      "name": "A Box Full of Sharp Objects",
-      "url": "https://open.spotify.com/track/6IK1mlU9pJPPjkYD6jrRR5"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Redeemer",
-        "url": "https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky"
-      },
-      "artists": [
-        {
-          "name": "Norma Jean",
-          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
-        }
-      ],
-      "duration_ms": 169066,
-      "name": "Blueprints For Future Homes",
-      "url": "https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
         "name": "Wires...And The Concept Of Breathing",
         "url": "https://open.spotify.com/album/6W5ldjWLvCJKpCmR9l3MQd"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 194906,
       "name": "All It Takes For Your Dreams To Come True",
       "url": "https://open.spotify.com/track/7DtwEwGYdcZDlXDoDmW0zo"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Redeemer",
+        "url": "https://open.spotify.com/album/7ju4BQgiknmVAQSb2V3vky"
+      },
+      "artists": [
+        {
+          "name": "Norma Jean",
+          "url": "https://open.spotify.com/artist/55b0Gfm53udtGBs8mmNXrH"
+        }
+      ],
+      "duration_ms": 169066,
+      "name": "Blueprints For Future Homes",
+      "url": "https://open.spotify.com/track/0pQkFNB3Me4txM5jaKGwXh"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1407,18 +1407,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "Worship And Tribute (U.S. Version)",
-        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
+        "name": "I'm Only A Man",
+        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
       },
       "artists": [
         {
-          "name": "Glassjaw",
-          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
+          "name": "Emery",
+          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
         }
       ],
-      "duration_ms": 224973,
-      "name": "Mu Empire",
-      "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
+      "duration_ms": 211453,
+      "name": "The Party Song",
+      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1455,34 +1455,18 @@
     {
       "added_at": "2024-10-03 21:26:43",
       "album": {
-        "name": "I'm Only A Man",
-        "url": "https://open.spotify.com/album/15Ws2c78QkSmzZ9HNr5PCq"
+        "name": "Worship And Tribute (U.S. Version)",
+        "url": "https://open.spotify.com/album/0KeXHDwyfBUshx0c9AqjpT"
       },
       "artists": [
         {
-          "name": "Emery",
-          "url": "https://open.spotify.com/artist/4feAxLUxIU7G4KXhH0h2ni"
+          "name": "Glassjaw",
+          "url": "https://open.spotify.com/artist/7nt6S4klYHg4I7Q4lTSmc0"
         }
       ],
-      "duration_ms": 211453,
-      "name": "The Party Song",
-      "url": "https://open.spotify.com/track/4IYJ0fEY4zoetmq1jVyiud"
-    },
-    {
-      "added_at": "2024-10-03 21:26:43",
-      "album": {
-        "name": "Go West Young Man, Let The Evil Go East",
-        "url": "https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ"
-      },
-      "artists": [
-        {
-          "name": "Greeley Estates",
-          "url": "https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag"
-        }
-      ],
-      "duration_ms": 200680,
-      "name": "Let The Evil Go East",
-      "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
+      "duration_ms": 224973,
+      "name": "Mu Empire",
+      "url": "https://open.spotify.com/track/3yUebDgogzV36flxuyMoV0"
     },
     {
       "added_at": "2024-10-03 21:26:43",
@@ -1499,6 +1483,22 @@
       "duration_ms": 280546,
       "name": "Surrender Your Sons",
       "url": "https://open.spotify.com/track/2fwjdgBSOCVt3QDpxU3G31"
+    },
+    {
+      "added_at": "2024-10-03 21:26:43",
+      "album": {
+        "name": "Go West Young Man, Let The Evil Go East",
+        "url": "https://open.spotify.com/album/3ApC6jMB269oXLXZK0hkPZ"
+      },
+      "artists": [
+        {
+          "name": "Greeley Estates",
+          "url": "https://open.spotify.com/artist/2l7ALCv1HxcE32kc3b7vag"
+        }
+      ],
+      "duration_ms": 200680,
+      "name": "Let The Evil Go East",
+      "url": "https://open.spotify.com/track/7kw1y5LQfNXELwGrKDalxg"
     },
     {
       "added_at": "2024-10-03 21:26:43",

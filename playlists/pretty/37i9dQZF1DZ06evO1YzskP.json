@@ -1,12 +1,12 @@
 {
   "description": "This is La Receta. The essential tracks, all in one playlist.",
-  "num_followers": 51499,
+  "num_followers": 51563,
   "original_name": "This Is La Receta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAAejtm1RFKCFufDrfSI+sTX",
+  "snapshot_id": "Z4rvAAAAAAApyqhPyV5mtnOgvTnCIoZM",
   "tracks": [
     {
       "added_at": null,
@@ -151,38 +151,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Receta",
-        "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 136416,
-      "name": "La Receta",
-      "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Corridos Aesthetic",
-        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 208413,
-      "name": "Malas Decisiones",
-      "url": "https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Belikada",
         "url": "https://open.spotify.com/album/23fDudy0YVBpYwSFFcB0Jn"
       },
@@ -203,6 +171,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Aesthetic",
+        "url": "https://open.spotify.com/album/5tkoilf1HLk0ooGtaS8Okp"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 208413,
+      "name": "Malas Decisiones",
+      "url": "https://open.spotify.com/track/2iO3N5docEHN5irGJRVoqA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Receta",
+        "url": "https://open.spotify.com/album/7s65xoy6ILB4Tm640q3EhX"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 136416,
+      "name": "La Receta",
+      "url": "https://open.spotify.com/track/63r2czs5BFDV4lIzDA2YOc"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Corridos Pa Mis Compas Y Rolitas Pa Mi Ex",
         "url": "https://open.spotify.com/album/24VJ6GN4qzkMVqwNif5HeU"
       },
@@ -219,22 +219,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "S\u00e1lvame",
-        "url": "https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB"
+        "name": "El Sombrero De Lado",
+        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        },
-        {
-          "name": "El Frizian",
-          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         }
       ],
-      "duration_ms": 193153,
-      "name": "S\u00e1lvame",
-      "url": "https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1"
+      "duration_ms": 209706,
+      "name": "Prometiste",
+      "url": "https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa"
     },
     {
       "added_at": null,
@@ -255,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Sombrero De Lado",
-        "url": "https://open.spotify.com/album/4zBAqfVHFCiyRxF6JfDiiw"
+        "name": "S\u00e1lvame",
+        "url": "https://open.spotify.com/album/6BlzQb5tqTUSLQwmFVYMNB"
       },
       "artists": [
         {
           "name": "La Receta",
           "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        },
+        {
+          "name": "El Frizian",
+          "url": "https://open.spotify.com/artist/2Oc5k5AzcBOoH470jTgZzp"
         }
       ],
-      "duration_ms": 209706,
-      "name": "Prometiste",
-      "url": "https://open.spotify.com/track/6vLQ2TCjXMzWT7jr3OZbZa"
+      "duration_ms": 193153,
+      "name": "S\u00e1lvame",
+      "url": "https://open.spotify.com/track/3zO9fdTPrJ1eCxEFdCboN1"
     },
     {
       "added_at": null,
@@ -863,6 +863,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "El Fuerte",
+        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
+      },
+      "artists": [
+        {
+          "name": "La Receta",
+          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
+        }
+      ],
+      "duration_ms": 150600,
+      "name": "El Fuerte",
+      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Isidro El Chapo",
         "url": "https://open.spotify.com/album/30HVgN4IGJj9kprrLhb9jz"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 168720,
       "name": "Isidro El Chapo",
       "url": "https://open.spotify.com/track/3oCnK6eVusBd5E0hwy1azd"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Fuerte",
-        "url": "https://open.spotify.com/album/4jPiVOI9DV6dOEjtrcRmp5"
-      },
-      "artists": [
-        {
-          "name": "La Receta",
-          "url": "https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD"
-        }
-      ],
-      "duration_ms": 150600,
-      "name": "El Fuerte",
-      "url": "https://open.spotify.com/track/7rVDl8eFD0dCi73uJ8jjh9"
     },
     {
       "added_at": null,

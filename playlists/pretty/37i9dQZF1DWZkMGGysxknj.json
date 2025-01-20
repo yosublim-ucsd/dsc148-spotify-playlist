@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 810760,
+  "num_followers": 810769,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -95,6 +95,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "When I'm Alone: The Piano Retrospective",
+        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
+      },
+      "artists": [
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 274992,
+      "name": "Dreams - Piano Version",
+      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Dancing With A Stranger (With Normani) [Acoustic]",
         "url": "https://open.spotify.com/album/0JtZ4dyxvzFUCjeVrgPkHZ"
       },
@@ -111,22 +127,6 @@
       "duration_ms": 187621,
       "name": "Dancing With A Stranger (With Normani) - Acoustic",
       "url": "https://open.spotify.com/track/29f11nLUcMYQ2Ndbnb7N0o"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "When I'm Alone: The Piano Retrospective",
-        "url": "https://open.spotify.com/album/1PUJhxsAbBe5UhYjxNbrYA"
-      },
-      "artists": [
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 274992,
-      "name": "Dreams - Piano Version",
-      "url": "https://open.spotify.com/track/7lcUx8bgiwGEn0BHNo3O31"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -987,22 +987,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Sunday Best (Acoustic Version)",
-        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
-      },
-      "artists": [
-        {
-          "name": "Brandon Chase",
-          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
-        }
-      ],
-      "duration_ms": 150538,
-      "name": "Sunday Best - Acoustic Version",
-      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Sunflower",
         "url": "https://open.spotify.com/album/2TI8ta6DUPmaupm4NZQpEw"
       },
@@ -1015,6 +999,22 @@
       "duration_ms": 181897,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/0v1yN5C75um5Wx2WPtFl6k"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Sunday Best (Acoustic Version)",
+        "url": "https://open.spotify.com/album/0RlzFvBDjmOP8LGXvOoJhu"
+      },
+      "artists": [
+        {
+          "name": "Brandon Chase",
+          "url": "https://open.spotify.com/artist/3qXWWITvZcTD1M2QmXszJK"
+        }
+      ],
+      "duration_ms": 150538,
+      "name": "Sunday Best - Acoustic Version",
+      "url": "https://open.spotify.com/track/5OfJhmXJMOrmRqNqYWkXBk"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Be Here Now",
-        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
-      },
-      "artists": [
-        {
-          "name": "Gustavo Bertoni",
-          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
-        }
-      ],
-      "duration_ms": 219133,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Downtown (Acoustic Version)",
         "url": "https://open.spotify.com/album/3hj8ZTcYFuTmJqnrmeecKJ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 204452,
       "name": "Downtown - Acoustic Version",
       "url": "https://open.spotify.com/track/5gxcFdhD5ST4Tyhfepxcke"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Be Here Now",
+        "url": "https://open.spotify.com/album/5NiF9DMkOpOmhUDyI0XYSu"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Bertoni",
+          "url": "https://open.spotify.com/artist/3SBeVI3ELQKQTEDoQ9ztq9"
+        }
+      ],
+      "duration_ms": 219133,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/04NQ1q92DRbxWq6lhpVVDQ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1387,22 +1387,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Brindo",
-        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
-      },
-      "artists": [
-        {
-          "name": "Silvana Estrada",
-          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Brindo",
-      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Here Comes Your Man",
         "url": "https://open.spotify.com/album/1AVDL3MOPHJFY5I1kmKdoi"
       },
@@ -1419,6 +1403,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Brindo",
+        "url": "https://open.spotify.com/album/5cUw4tjXsOcrS5Jd2zEzDn"
+      },
+      "artists": [
+        {
+          "name": "Silvana Estrada",
+          "url": "https://open.spotify.com/artist/72VywtXEoONiBLNu3ibGI7"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Brindo",
+      "url": "https://open.spotify.com/track/7xP92UQbHzTiAju7H2dynD"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Pick Me Up Off The Floor",
         "url": "https://open.spotify.com/album/3pi6NXntLETosIkAuaZEhW"
       },
@@ -1431,22 +1431,6 @@
       "duration_ms": 268600,
       "name": "To Live",
       "url": "https://open.spotify.com/track/6OTx5lgBBpUAshc23JQ89X"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
-      },
-      "artists": [
-        {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
-        }
-      ],
-      "duration_ms": 183000,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1535,6 +1519,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/4vyTdD9HNj9BlOTXgTC4TT"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 183000,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/1sJaXDUlF4lz35ee4jUs6J"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Physical (Acoustic)",
         "url": "https://open.spotify.com/album/4AEHXePpm4bit5V0tm1kax"
       },
@@ -1547,22 +1547,6 @@
       "duration_ms": 198608,
       "name": "Physical - Acoustic",
       "url": "https://open.spotify.com/track/62rpDZFDR3rzC7kNH4cjA1"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
-      },
-      "artists": [
-        {
-          "name": "Reason",
-          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1599,18 +1583,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "One Kiss",
-        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
       },
       "artists": [
         {
-          "name": "Sara Farell",
-          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
         }
       ],
-      "duration_ms": 160678,
-      "name": "One Kiss",
-      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
+      "duration_ms": 244946,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1627,6 +1611,22 @@
       "duration_ms": 154628,
       "name": "Correcto",
       "url": "https://open.spotify.com/track/4OUQ226JV81vI2Tcix0Z5a"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "One Kiss",
+        "url": "https://open.spotify.com/album/4aGUFwXZaiK0iXxC5lSCll"
+      },
+      "artists": [
+        {
+          "name": "Sara Farell",
+          "url": "https://open.spotify.com/artist/39S7Y72G0tdDPy2INGFicV"
+        }
+      ],
+      "duration_ms": 160678,
+      "name": "One Kiss",
+      "url": "https://open.spotify.com/track/4Ocm5X4MdGoF9cvIGgOe39"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
+        "name": "Hearts",
+        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
+      },
+      "artists": [
+        {
+          "name": "Nari",
+          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
+        }
+      ],
+      "duration_ms": 170571,
+      "name": "Hearts",
+      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
         "name": "Covers EP",
         "url": "https://open.spotify.com/album/02Rt1McqlJZerdru6Xlovs"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 145075,
       "name": "Girls Like You",
       "url": "https://open.spotify.com/track/67Mij0TZUmIB9ZmjkZXtN8"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Hearts",
-        "url": "https://open.spotify.com/album/1TjnaFhP1lDhYrqlSQvsDt"
-      },
-      "artists": [
-        {
-          "name": "Nari",
-          "url": "https://open.spotify.com/artist/3aetvKAJdTvsNmeoCHpUKl"
-        }
-      ],
-      "duration_ms": 170571,
-      "name": "Hearts",
-      "url": "https://open.spotify.com/track/45WQw8pRflVEiO0iW1MBno"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -1807,22 +1807,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Two Lives EP",
-        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
-      },
-      "artists": [
-        {
-          "name": "Bombay Bicycle Club",
-          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
-        }
-      ],
-      "duration_ms": 167892,
-      "name": "Is It Real - Acoustic",
-      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "If I Can't Have You",
         "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
       },
@@ -1835,6 +1819,22 @@
       "duration_ms": 242776,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Two Lives EP",
+        "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
+      },
+      "artists": [
+        {
+          "name": "Bombay Bicycle Club",
+          "url": "https://open.spotify.com/artist/3pTE9iaJTkWns3mxpNQlJV"
+        }
+      ],
+      "duration_ms": 167892,
+      "name": "Is It Real - Acoustic",
+      "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2073,22 +2073,6 @@
       "url": "https://open.spotify.com/track/4TUWFvnu9BOyibCQmaf4or"
     },
     {
-      "added_at": "2024-08-26 18:16:09",
-      "album": {
-        "name": "Te Amo",
-        "url": "https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT"
-      },
-      "artists": [
-        {
-          "name": "Nat\u00e1le",
-          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
-        }
-      ],
-      "duration_ms": 242000,
-      "name": "Te Amo",
-      "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"
-    },
-    {
       "added_at": "2023-06-09 14:25:05",
       "album": {
         "name": "Acoustic Visions",
@@ -2103,22 +2087,6 @@
       "duration_ms": 228922,
       "name": "Enjoy the Silence",
       "url": "https://open.spotify.com/track/3mIWmZK0iAxCsuReXgn7Ac"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
-        "name": "Stardust",
-        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
-      },
-      "artists": [
-        {
-          "name": "Moncaya",
-          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
-        }
-      ],
-      "duration_ms": 214500,
-      "name": "Stardust",
-      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2139,18 +2107,34 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Tattoo",
-        "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
+        "name": "Stardust",
+        "url": "https://open.spotify.com/album/5psabUraSDI0ZRRScKfW1T"
       },
       "artists": [
         {
-          "name": "Natalie 2V",
-          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+          "name": "Moncaya",
+          "url": "https://open.spotify.com/artist/1g56xa8gAZlYlsw9O7I8Nu"
         }
       ],
-      "duration_ms": 176065,
-      "name": "Tattoo",
-      "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
+      "duration_ms": 214500,
+      "name": "Stardust",
+      "url": "https://open.spotify.com/track/2hq1gTwHxHpdgJQYDi2UYp"
+    },
+    {
+      "added_at": "2024-08-26 18:16:09",
+      "album": {
+        "name": "Te Amo",
+        "url": "https://open.spotify.com/album/6oT7TQdQ9UIMSlIq1628lT"
+      },
+      "artists": [
+        {
+          "name": "Nat\u00e1le",
+          "url": "https://open.spotify.com/artist/0wefo1aNYRvfoBlA7jOwkJ"
+        }
+      ],
+      "duration_ms": 242000,
+      "name": "Te Amo",
+      "url": "https://open.spotify.com/track/1f6HNRgWZQL1wz99z1GWCy"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2183,6 +2167,22 @@
       "duration_ms": 210580,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Tattoo",
+        "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
+      },
+      "artists": [
+        {
+          "name": "Natalie 2V",
+          "url": "https://open.spotify.com/artist/0ghm0rRKkdJiWF90XisZ2x"
+        }
+      ],
+      "duration_ms": 176065,
+      "name": "Tattoo",
+      "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2331,22 +2331,6 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Levels",
-        "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
-      },
-      "artists": [
-        {
-          "name": "Gus Cleese",
-          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
-        }
-      ],
-      "duration_ms": 110277,
-      "name": "Levels",
-      "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
-    },
-    {
-      "added_at": "2023-06-09 14:25:05",
-      "album": {
         "name": "Feel It Still",
         "url": "https://open.spotify.com/album/4mKLfq3Pt14FKoVyBiKvYu"
       },
@@ -2363,18 +2347,18 @@
     {
       "added_at": "2023-06-09 14:25:05",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
+        "name": "Levels",
+        "url": "https://open.spotify.com/album/4TVIuPOjE8jcK8HC1ZOns1"
       },
       "artists": [
         {
-          "name": "Jessie Blue and Zach Solomon",
-          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
+          "name": "Gus Cleese",
+          "url": "https://open.spotify.com/artist/5vCyUIqN5rujUkzGq5iJq2"
         }
       ],
-      "duration_ms": 253872,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
+      "duration_ms": 110277,
+      "name": "Levels",
+      "url": "https://open.spotify.com/track/6gYPsMW8H6ReOqo2BWxWoZ"
     },
     {
       "added_at": "2023-06-09 14:25:05",
@@ -2391,6 +2375,22 @@
       "duration_ms": 210912,
       "name": "Se\u00f1orita",
       "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
+    },
+    {
+      "added_at": "2023-06-09 14:25:05",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Blue and Zach Solomon",
+          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
+        }
+      ],
+      "duration_ms": 253872,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
     },
     {
       "added_at": "2023-06-09 14:25:05",

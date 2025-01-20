@@ -78,8 +78,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 68 | [No One But Yourself](https://open.spotify.com/track/5ep9D7x1FwCBy6INbF0Fad) | [Fredrik Ferrier](https://open.spotify.com/artist/2HkqD9bmnrPK7mXNMpZQIQ) | [No One But Yourself](https://open.spotify.com/album/4VDksPljHSEP0701PHsjj9) | 2:59 |
 | 69 | [Lost \(Never Enough\)](https://open.spotify.com/track/68l89zTMSlOXFdDKTqSFaL) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:05 |
 | 70 | [Red Mist](https://open.spotify.com/track/2JcLNFlx0NB69p86D04Xc8) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:17 |
-| 71 | [November](https://open.spotify.com/track/3GMqhioWAjpte7cyEYrOPP) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Fantasies](https://open.spotify.com/album/5RnS2uqk10a4qrGxW84Xb4) | 3:13 |
-| 72 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 71 | [When Your Heart Breaks](https://open.spotify.com/track/2biGgg6gebga1at1nAUAFP) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:33 |
+| 72 | [November](https://open.spotify.com/track/3GMqhioWAjpte7cyEYrOPP) | [NOVACUB](https://open.spotify.com/artist/5AgzqwERKzaLXw6wSL5LcO) | [Fantasies](https://open.spotify.com/album/5RnS2uqk10a4qrGxW84Xb4) | 3:13 |
 | 73 | [Evolution](https://open.spotify.com/track/5T86BDcrE76auUDE6SGyvG) | [Katie Sky](https://open.spotify.com/artist/31bkgXHo67awewnmvrdsah) | [Evo](https://open.spotify.com/album/4iWd9ESivlAe73jkExfOSW) | 3:53 |
 | 74 | [Simplify](https://open.spotify.com/track/17mX7lKMzdhCsim9Avahgo) | [THE HARA](https://open.spotify.com/artist/2MizZlEPFQHeR3MndOyYoQ) | [Unconscious Minds Innocently Blind](https://open.spotify.com/album/7mXofxuFDsD5ptKg45Mi7m) | 3:29 |
 | 75 | [Jump In](https://open.spotify.com/track/2p4td5ssFstuoFdSxGJwjm) | [Emma Stevens](https://open.spotify.com/artist/4ULAjXdgOJfwASBSBJFTUW) | [Light Year](https://open.spotify.com/album/2S9aF2HWF16IjwQ1RwcEgf) | 2:42 |
@@ -117,4 +117,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFCFzZm4jFXF.md) - [plain]
 | 107 | [Pon Me](https://open.spotify.com/track/6gNgcVrZceb97UQFZbKPCk) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 4:15 |
 | 108 | [Find You](https://open.spotify.com/track/0wtNmuETEesYuB73ni1tZU) | [Craig Cavanagh](https://open.spotify.com/artist/2GTElyWjXSbnFBsqhsG8U9) | [Green Eyed Soul](https://open.spotify.com/album/1kENbrG9QMSE4Hgt5jLyd1) | 3:48 |
 
-Snapshot ID: `AbnOgAAAAAD26OQL0v+nvUW4hvrpxlaS`
+Snapshot ID: `AbnUIAAAAADndEriYq9a1ESzDneRQc9J`

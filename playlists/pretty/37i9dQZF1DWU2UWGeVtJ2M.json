@@ -1,6 +1,6 @@
 {
   "description": "\u8a66\u8457\u62cb\u958b\u6240\u6709\u7169\u60f1\uff0c\u914d\u4e0a\u4e00\u9ede\u7279\u610f\u7684\u5c0f\u78ba\u5e78\uff0c\u9019\u4e00\u523b\u53ea\u5c6c\u65bc\u4f60...",
-  "num_followers": 162512,
+  "num_followers": 162543,
   "original_name": "\u6211\u7684\u5fae\u91ba\u591c",
   "owner": {
     "name": "Spotify",
@@ -343,22 +343,6 @@
     {
       "added_at": "2025-01-13 07:47:16",
       "album": {
-        "name": "bandaids",
-        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 168280,
-      "name": "alright",
-      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
-    },
-    {
-      "added_at": "2025-01-13 07:47:16",
-      "album": {
         "name": "Protection",
         "url": "https://open.spotify.com/album/5CnZjFfPDmxOX7KnWLLqpC"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 471560,
       "name": "Protection",
       "url": "https://open.spotify.com/track/3kKVqFF4pv4EXeQe428zl2"
+    },
+    {
+      "added_at": "2025-01-13 07:47:16",
+      "album": {
+        "name": "bandaids",
+        "url": "https://open.spotify.com/album/4LfFHT00C9ImLMUjHkqWjQ"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 168280,
+      "name": "alright",
+      "url": "https://open.spotify.com/track/0zwqkO1MdFPigFIESwdJ5s"
     },
     {
       "added_at": "2025-01-13 07:47:16",
@@ -775,22 +775,6 @@
     {
       "added_at": "2025-01-13 07:47:16",
       "album": {
-        "name": "Wasting Away",
-        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
-      },
-      "artists": [
-        {
-          "name": "Yuna",
-          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
-        }
-      ],
-      "duration_ms": 168956,
-      "name": "Out of My Mind",
-      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
-    },
-    {
-      "added_at": "2025-01-13 07:47:16",
-      "album": {
         "name": "Tides",
         "url": "https://open.spotify.com/album/2ygrwR30mOdEfqh2eJcGNY"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 226146,
       "name": "Tides",
       "url": "https://open.spotify.com/track/7rRYiBxeudiHMNmgptnne9"
+    },
+    {
+      "added_at": "2025-01-13 07:47:16",
+      "album": {
+        "name": "Wasting Away",
+        "url": "https://open.spotify.com/album/5HcEKDA1oqtglt9Llh69KD"
+      },
+      "artists": [
+        {
+          "name": "Yuna",
+          "url": "https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1"
+        }
+      ],
+      "duration_ms": 168956,
+      "name": "Out of My Mind",
+      "url": "https://open.spotify.com/track/5NfVKqJQhRIluNHXvgtWNK"
     },
     {
       "added_at": "2025-01-13 07:47:16",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2025-01-13 07:47:16",
       "album": {
-        "name": "Cheap Queen",
-        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
-      },
-      "artists": [
-        {
-          "name": "King Princess",
-          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
-        }
-      ],
-      "duration_ms": 203946,
-      "name": "If You Think It's Love",
-      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
-    },
-    {
-      "added_at": "2025-01-13 07:47:16",
-      "album": {
         "name": "About You",
         "url": "https://open.spotify.com/album/5KBGp5VvPhLUopd1NkRoML"
       },
@@ -1283,6 +1267,22 @@
       "duration_ms": 184000,
       "name": "About You",
       "url": "https://open.spotify.com/track/1PuXZ6hSLFbwWhMxQXrkLr"
+    },
+    {
+      "added_at": "2025-01-13 07:47:16",
+      "album": {
+        "name": "Cheap Queen",
+        "url": "https://open.spotify.com/album/00uqjqwLruO346z3cNlNqG"
+      },
+      "artists": [
+        {
+          "name": "King Princess",
+          "url": "https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C"
+        }
+      ],
+      "duration_ms": 203946,
+      "name": "If You Think It's Love",
+      "url": "https://open.spotify.com/track/3iiL6merNpFNX1bny9sfvM"
     },
     {
       "added_at": "2025-01-13 07:47:16",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2025-01-13 07:47:16",
       "album": {
+        "name": "All That Matters",
+        "url": "https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo"
+      },
+      "artists": [
+        {
+          "name": "GRACE.",
+          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
+        }
+      ],
+      "duration_ms": 208421,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
+    },
+    {
+      "added_at": "2025-01-13 07:47:16",
+      "album": {
         "name": "From You",
         "url": "https://open.spotify.com/album/7CynwysFOxoGWp1QLAB6uZ"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 210280,
       "name": "From You",
       "url": "https://open.spotify.com/track/3Qfqbu22C7aK2MuWBSnM5A"
-    },
-    {
-      "added_at": "2025-01-13 07:47:16",
-      "album": {
-        "name": "All That Matters",
-        "url": "https://open.spotify.com/album/1XnXnyKWqThDzrNWn3TmWo"
-      },
-      "artists": [
-        {
-          "name": "GRACE.",
-          "url": "https://open.spotify.com/artist/4RwYJRHnB3zCks3x2u3qHv"
-        }
-      ],
-      "duration_ms": 208421,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/2KyIlex21vkmh0yQaKSmuY"
     },
     {
       "added_at": "2025-01-13 07:47:16",
@@ -1627,18 +1627,22 @@
     {
       "added_at": "2025-01-13 07:47:16",
       "album": {
-        "name": "Oasis Sky",
-        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+        "name": "untitled (what's it gonna be)",
+        "url": "https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS"
       },
       "artists": [
         {
-          "name": "Tor",
-          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+          "name": "thecolorfractal",
+          "url": "https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu"
+        },
+        {
+          "name": "Gail Belmonte",
+          "url": "https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ"
         }
       ],
-      "duration_ms": 202991,
-      "name": "Inkeri",
-      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
+      "duration_ms": 250666,
+      "name": "untitled (what's it gonna be)",
+      "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"
     },
     {
       "added_at": "2025-01-13 07:47:16",
@@ -1679,42 +1683,6 @@
     {
       "added_at": "2025-01-13 07:47:16",
       "album": {
-        "name": "untitled (what's it gonna be)",
-        "url": "https://open.spotify.com/album/74bDYW7BEX7rs8Rl4LNqLS"
-      },
-      "artists": [
-        {
-          "name": "thecolorfractal",
-          "url": "https://open.spotify.com/artist/0v5RDo6n69zPsWKEDuZueu"
-        },
-        {
-          "name": "Gail Belmonte",
-          "url": "https://open.spotify.com/artist/7cu716rV1JmtKcJ9h7FRLQ"
-        }
-      ],
-      "duration_ms": 250666,
-      "name": "untitled (what's it gonna be)",
-      "url": "https://open.spotify.com/track/76YpiW77bh2bCbvysBnwF4"
-    },
-    {
-      "added_at": "2025-01-13 07:47:16",
-      "album": {
-        "name": "Leave You Alone",
-        "url": "https://open.spotify.com/album/2kiSvbyjIZCsoSYw40josY"
-      },
-      "artists": [
-        {
-          "name": "Ella Mai",
-          "url": "https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap"
-        }
-      ],
-      "duration_ms": 209136,
-      "name": "Leave You Alone",
-      "url": "https://open.spotify.com/track/63QC7HvgJXgH8udcfPqW7q"
-    },
-    {
-      "added_at": "2025-01-13 07:47:16",
-      "album": {
         "name": "Headspace",
         "url": "https://open.spotify.com/album/1jydzncxz7Doio6O1OccUv"
       },
@@ -1743,6 +1711,38 @@
       "duration_ms": 155624,
       "name": "Stranger",
       "url": "https://open.spotify.com/track/4TRcHzOWfy7EmYYdci24jv"
+    },
+    {
+      "added_at": "2025-01-13 07:47:16",
+      "album": {
+        "name": "Hello, I said",
+        "url": "https://open.spotify.com/album/4bNKNSX4l2cIRlxp0l12fH"
+      },
+      "artists": [
+        {
+          "name": "Diana Wang",
+          "url": "https://open.spotify.com/artist/6qMCbcnBinopCiiCrKQlF3"
+        }
+      ],
+      "duration_ms": 156729,
+      "name": "Hello, I said",
+      "url": "https://open.spotify.com/track/59lb6OBjbZx9Tam2scSnbx"
+    },
+    {
+      "added_at": "2025-01-13 07:47:16",
+      "album": {
+        "name": "Oasis Sky",
+        "url": "https://open.spotify.com/album/1fMJt0hbDIaB4RAQNODv10"
+      },
+      "artists": [
+        {
+          "name": "Tor",
+          "url": "https://open.spotify.com/artist/4dktzc5hWsQPqmovObGZIG"
+        }
+      ],
+      "duration_ms": 202991,
+      "name": "Inkeri",
+      "url": "https://open.spotify.com/track/18Xjl0R0TfUwJYIKOu9pCg"
     }
   ],
   "unique_name": "\u6211\u7684\u5fae\u91ba\u591c",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b vibes for your most relaxed moods\. Cover: SZA
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,372,049 likes - 165 songs - 8 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,372,365 likes - 165 songs - 8 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

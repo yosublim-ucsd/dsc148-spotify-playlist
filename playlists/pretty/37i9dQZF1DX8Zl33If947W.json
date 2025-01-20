@@ -1,6 +1,6 @@
 {
   "description": "Die sch\u00f6nsten deutschsprachigen Liebeslieder in einer Playlist.",
-  "num_followers": 179729,
+  "num_followers": 179781,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -243,22 +243,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Dein ist mein ganzes Herz",
-        "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
-      },
-      "artists": [
-        {
-          "name": "Heinz Rudolf Kunze",
-          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
-        }
-      ],
-      "duration_ms": 213666,
-      "name": "Dein ist mein ganzes Herz",
-      "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Nador",
         "url": "https://open.spotify.com/album/2u6q5sBh8VigLzYghKk5r0"
       },
@@ -275,6 +259,22 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "Dein ist mein ganzes Herz",
+        "url": "https://open.spotify.com/album/5ehndLBjIEdFTeHBfRXVoy"
+      },
+      "artists": [
+        {
+          "name": "Heinz Rudolf Kunze",
+          "url": "https://open.spotify.com/artist/77DQHftPzPyCoqSDjdHDxJ"
+        }
+      ],
+      "duration_ms": 213666,
+      "name": "Dein ist mein ganzes Herz",
+      "url": "https://open.spotify.com/track/030dULvYNT5n8vYpIak51w"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Immer in Bewegung",
         "url": "https://open.spotify.com/album/2GJf3Mf41uZ05U6ygryyD0"
       },
@@ -287,6 +287,22 @@
       "duration_ms": 212520,
       "name": "Ich lass f\u00fcr dich das Licht an",
       "url": "https://open.spotify.com/track/55VQvOY6dT63vHmYlWJDpG"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Mit Dir",
+        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 169500,
+      "name": "Mit Dir",
+      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -335,22 +351,6 @@
       "duration_ms": 272440,
       "name": "Alles aus Liebe",
       "url": "https://open.spotify.com/track/2WFZXkRsALv5kC6HFIAsuG"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Mit Dir",
-        "url": "https://open.spotify.com/album/6aLQvzeiqj1rjrCjEFv5Xo"
-      },
-      "artists": [
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 169500,
-      "name": "Mit Dir",
-      "url": "https://open.spotify.com/track/2xFMvrqk99biaLQavjufta"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -691,22 +691,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "Wei\u00dfes Kleid",
-        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
-      },
-      "artists": [
-        {
-          "name": "KATI K",
-          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Wei\u00dfes Kleid",
-      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Zwischen meinen Zeilen (Deluxe)",
         "url": "https://open.spotify.com/album/3BRzzOrxdksgbL4Iw7dNHd"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 183826,
       "name": "Zu dir",
       "url": "https://open.spotify.com/track/4ij2vmffYpMjCTDd38vvEV"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Wei\u00dfes Kleid",
+        "url": "https://open.spotify.com/album/5VNsTnVG0vqvQRWLg7fbaQ"
+      },
+      "artists": [
+        {
+          "name": "KATI K",
+          "url": "https://open.spotify.com/artist/277dytbjtOXNnvRXf7Dyyv"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Wei\u00dfes Kleid",
+      "url": "https://open.spotify.com/track/0T7RSwG8Jr4E5CFpgkDkCu"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -871,6 +871,26 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
+        "name": "2012",
+        "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "duration_ms": 170200,
+      "name": "2012",
+      "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
         "name": "Herz",
         "url": "https://open.spotify.com/album/4gwELuwP3oak0NW6Pvt00O"
       },
@@ -907,26 +927,6 @@
     {
       "added_at": "2024-11-09 06:24:53",
       "album": {
-        "name": "2012",
-        "url": "https://open.spotify.com/album/4JgV7DMC1wFGGdgttRtETz"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 170200,
-      "name": "2012",
-      "url": "https://open.spotify.com/track/6bM4daGlfZHtKMQp8tEqVz"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
         "name": "Hey",
         "url": "https://open.spotify.com/album/6DXLgOP56mhoi6jvy60D8l"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 265026,
       "name": "Ultraleicht",
       "url": "https://open.spotify.com/track/5dAhClprLlWd10J4FEWEEY"
-    },
-    {
-      "added_at": "2024-11-09 06:24:53",
-      "album": {
-        "name": "Was Muss Muss - Best Of",
-        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
-      },
-      "artists": [
-        {
-          "name": "Herbert Gr\u00f6nemeyer",
-          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
-        }
-      ],
-      "duration_ms": 209720,
-      "name": "Demo (Letzter Tag)",
-      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
     },
     {
       "added_at": "2024-11-09 06:24:53",
@@ -995,6 +979,22 @@
       "duration_ms": 180146,
       "name": "Sommer",
       "url": "https://open.spotify.com/track/3sqZwhR5UFmHAh1KLXGOgq"
+    },
+    {
+      "added_at": "2024-11-09 06:24:53",
+      "album": {
+        "name": "Was Muss Muss - Best Of",
+        "url": "https://open.spotify.com/album/3BFKX0idyoUQAEGiK8FHhM"
+      },
+      "artists": [
+        {
+          "name": "Herbert Gr\u00f6nemeyer",
+          "url": "https://open.spotify.com/artist/5tG5dl5mS2wB5w72YBpsyg"
+        }
+      ],
+      "duration_ms": 209720,
+      "name": "Demo (Letzter Tag)",
+      "url": "https://open.spotify.com/track/7wrk9vlDyvxx4nbKf3ywXH"
     },
     {
       "added_at": "2024-11-09 06:24:53",

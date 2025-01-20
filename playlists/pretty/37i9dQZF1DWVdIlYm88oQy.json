@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 70s! Cover: Julio Iglesias",
-  "num_followers": 70408,
+  "num_followers": 70478,
   "original_name": "Los 70s",
   "owner": {
     "name": "Spotify",
@@ -143,6 +143,22 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
+        "name": "Reencuentro",
+        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 250200,
+      "name": "Gavil\u00e1n o Paloma",
+      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
         "name": "Cl\u00e1sicos Latinos",
         "url": "https://open.spotify.com/album/427RaNcXhoy1CpNySfJ4cd"
       },
@@ -191,22 +207,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Reencuentro",
-        "url": "https://open.spotify.com/album/6raiLPK4vKJD34Q33Gkpgt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 250200,
-      "name": "Gavil\u00e1n o Paloma",
-      "url": "https://open.spotify.com/track/4Wg6Ggb6DY8OmlFQvvHO9b"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Celia & Johnny",
         "url": "https://open.spotify.com/album/416lPCtckkTOPYQslZ6QH1"
       },
@@ -223,6 +223,22 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/6ydEhrdfzhI29D2NBAqUY1"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "La Nave del Olvido",
+        "url": "https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 215400,
+      "name": "La Nave del Olvido",
+      "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -275,22 +291,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "La Nave del Olvido",
-        "url": "https://open.spotify.com/album/1BDHXHGmDMUVEWeqZlBLfQ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 215400,
-      "name": "La Nave del Olvido",
-      "url": "https://open.spotify.com/track/2pOyQcM91HM3tZEiwZCraG"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Un Gato En La Oscuridad",
         "url": "https://open.spotify.com/album/6QehPjFB3Q8uH2btA35cQm"
       },
@@ -303,22 +303,6 @@
       "duration_ms": 308133,
       "name": "Detalles (Detalhes)",
       "url": "https://open.spotify.com/track/4tAwP9QKeLEQJ2fgd1RWcY"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "De Ti Depende",
-        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
-      },
-      "artists": [
-        {
-          "name": "H\u00e9ctor Lavoe",
-          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
-        }
-      ],
-      "duration_ms": 409080,
-      "name": "Peri\u00f3dico De Ayer",
-      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -351,6 +335,38 @@
       "duration_ms": 157493,
       "name": "El Rey",
       "url": "https://open.spotify.com/track/6P3dT8EkJd0LOyZklOl0Na"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "De Ti Depende",
+        "url": "https://open.spotify.com/album/01TXLHVDAd53Nr0YBSas2N"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9ctor Lavoe",
+          "url": "https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP"
+        }
+      ],
+      "duration_ms": 409080,
+      "name": "Peri\u00f3dico De Ayer",
+      "url": "https://open.spotify.com/track/0A6uCqTC2RS0x7lyDTIend"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Volcan",
+        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Jos\u00e9",
+          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
+        }
+      ],
+      "duration_ms": 285360,
+      "name": "Volc\u00e1n",
+      "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -423,8 +439,8 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Volcan",
-        "url": "https://open.spotify.com/album/7Fcmv9DfwmhJPUhU2oQqry"
+        "name": "15 Exitos De Oro",
+        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
       },
       "artists": [
         {
@@ -432,9 +448,9 @@
           "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
         }
       ],
-      "duration_ms": 285360,
-      "name": "Volc\u00e1n",
-      "url": "https://open.spotify.com/track/1eDK4TD4cNzCgLOzAxKvus"
+      "duration_ms": 256200,
+      "name": "El Triste",
+      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -467,6 +483,26 @@
       "duration_ms": 319773,
       "name": "Black Magic Woman / Gypsy Queen",
       "url": "https://open.spotify.com/track/7cDxjUnMitNKQC5c8RQUko"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Siembra",
+        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
+      },
+      "artists": [
+        {
+          "name": "Willie Col\u00f3n",
+          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
+        },
+        {
+          "name": "Rub\u00e9n Blades",
+          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
+        }
+      ],
+      "duration_ms": 401880,
+      "name": "Pl\u00e1stico",
+      "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -507,22 +543,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "15 Exitos De Oro",
-        "url": "https://open.spotify.com/album/4OP48ZU8qUYanvwyTLAvrt"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Jos\u00e9",
-          "url": "https://open.spotify.com/artist/4mN0qcMxWX8oToqfDPM5yV"
-        }
-      ],
-      "duration_ms": 256200,
-      "name": "El Triste",
-      "url": "https://open.spotify.com/track/6HgUhIiqCepGzgb4nuses6"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Te Tuve Y Te Perd\u00ed",
         "url": "https://open.spotify.com/album/7v5b8xqXgv2JUJrTjaJrh5"
       },
@@ -535,26 +555,6 @@
       "duration_ms": 158533,
       "name": "Te Tuve Y Te Perd\u00ed",
       "url": "https://open.spotify.com/track/1kLVCrHGL5xX8QgGkXa2N0"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "Siembra",
-        "url": "https://open.spotify.com/album/7wOJ9RTQr05ytqROWtTPzy"
-      },
-      "artists": [
-        {
-          "name": "Willie Col\u00f3n",
-          "url": "https://open.spotify.com/artist/7x5Slu7yTE5icZjNsc3OzW"
-        },
-        {
-          "name": "Rub\u00e9n Blades",
-          "url": "https://open.spotify.com/artist/5BwMgvRwlq61SmknvsVIQj"
-        }
-      ],
-      "duration_ms": 401880,
-      "name": "Pl\u00e1stico",
-      "url": "https://open.spotify.com/track/3ZIE8flTJ6WWn8wF0YzaaQ"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -631,22 +631,6 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
-        "name": "Falso Amor",
-        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
-      },
-      "artists": [
-        {
-          "name": "Los Bukis",
-          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
-        }
-      ],
-      "duration_ms": 176560,
-      "name": "Falso Amor",
-      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
         "name": "Confesiones De Invierno",
         "url": "https://open.spotify.com/album/01SHGcb4X59QOezJ2MhqJx"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
+        "name": "Falso Amor",
+        "url": "https://open.spotify.com/album/2Df8guHfWqzoQQAhzMhUOr"
+      },
+      "artists": [
+        {
+          "name": "Los Bukis",
+          "url": "https://open.spotify.com/artist/16kOCiqZ1auY4sokSeZuKf"
+        }
+      ],
+      "duration_ms": 176560,
+      "name": "Falso Amor",
+      "url": "https://open.spotify.com/track/4UcizizNU6ek3gYr59DX2j"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
         "name": "Joyas Rancheras Al Estilo",
         "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
       },
@@ -739,22 +739,6 @@
       "duration_ms": 243466,
       "name": "Un Gato en la Oscuridad - Un Gato en Blu",
       "url": "https://open.spotify.com/track/08vaffIVYDBosHQlMMYbCQ"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "Serie Platino",
-        "url": "https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "Qu\u00e9 Ser\u00e1",
-      "url": "https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -791,6 +775,22 @@
     {
       "added_at": "2024-04-24 22:48:02",
       "album": {
+        "name": "Serie Platino",
+        "url": "https://open.spotify.com/album/5ghThlJjN94mCltLuCk0dQ"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Feliciano",
+          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "Qu\u00e9 Ser\u00e1",
+      "url": "https://open.spotify.com/track/6idfK1mtEHiow7mHGnqhAd"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
         "name": "15 A\u00f1os Baladas \u00c9xitos",
         "url": "https://open.spotify.com/album/6tDHKMrmuTwtAbdFxP4Ki6"
       },
@@ -803,6 +803,22 @@
       "duration_ms": 186373,
       "name": "No Tengo Dinero",
       "url": "https://open.spotify.com/track/6hQgqDq2VeyLYqgHoPG3O0"
+    },
+    {
+      "added_at": "2024-04-24 22:48:02",
+      "album": {
+        "name": "Joyas Rancheras Al Estilo",
+        "url": "https://open.spotify.com/album/6ug5tZ8sA1MxL9SpNJpUOj"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        }
+      ],
+      "duration_ms": 207453,
+      "name": "Por un Amor",
+      "url": "https://open.spotify.com/track/6TNOBScJXFw3nNemRdeEd0"
     },
     {
       "added_at": "2024-04-24 22:48:02",
@@ -823,22 +839,6 @@
       "duration_ms": 290456,
       "name": "Vagabundo",
       "url": "https://open.spotify.com/track/3drdfMEzD3EoLCdvAB4bhr"
-    },
-    {
-      "added_at": "2024-04-24 22:48:02",
-      "album": {
-        "name": "Mediterr\u00e1neo",
-        "url": "https://open.spotify.com/album/7h6vVYPUiuDF6KKcqMdE72"
-      },
-      "artists": [
-        {
-          "name": "Joan Manuel Serrat",
-          "url": "https://open.spotify.com/artist/1t7t8q4zoYHp22JLIx3FM7"
-        }
-      ],
-      "duration_ms": 183866,
-      "name": "Lucia",
-      "url": "https://open.spotify.com/track/12WvazyWWnlgEkZggu2KsW"
     }
   ],
   "unique_name": "Los 70s",

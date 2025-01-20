@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 145124,
       "name": "Bimbo Doll",
       "url": "https://open.spotify.com/track/0vk7EMLismfa1is5NSrgaG"
@@ -1710,7 +1710,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 171520,
       "name": "BOLO (feat. YDG)",
       "url": "https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk"
@@ -2747,6 +2747,24 @@
     },
     {
       "album": {
+        "name": "Hozier (Special Edition)",
+        "url": "https://open.spotify.com/album/44zQnmrFcPCmPp6NLMfTuz"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257560,
+      "name": "Do I Wanna Know? - Live At the BBC",
+      "url": "https://open.spotify.com/track/3Tgv4rvWBVwnbmUTlJwzk0"
+    },
+    {
+      "album": {
         "name": "DODGE THIS",
         "url": "https://open.spotify.com/album/3FMai0CAnJMqm28fixkWkb"
       },
@@ -3418,7 +3436,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-11",
+      "date_removed": null,
       "duration_ms": 237093,
       "name": "Est-ce que tu m'aimes ? - Pilule bleue",
       "url": "https://open.spotify.com/track/3a9TMd2Yrza6HXqqlfMtfy"
@@ -3934,7 +3952,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 174495,
       "name": "Fly Me",
       "url": "https://open.spotify.com/track/3oh9r1B45kV2DTqM0AHU9y"
@@ -8128,7 +8146,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 185177,
       "name": "Montagem Lunar Diamante - Slowed",
       "url": "https://open.spotify.com/track/0K2fUhtLKjPn3ZlljVszWr"
@@ -10070,7 +10088,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 160600,
       "name": "Real Man",
       "url": "https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX"
@@ -13272,7 +13290,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 110110,
       "name": "Watermelon",
       "url": "https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60"
@@ -17072,7 +17090,7 @@
       ],
       "date_added": "2024-10-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 107586,
       "name": "\u0417\u043d\u0430\u044e",
       "url": "https://open.spotify.com/track/4vFjz0tXIr8ncLpBCiBJpc"
@@ -19212,7 +19230,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 171000,
       "name": "\u041e \u0434\u043e\u0431\u0440\u0435",
       "url": "https://open.spotify.com/track/0sg112jcxFOYlaVDXmSrxY"

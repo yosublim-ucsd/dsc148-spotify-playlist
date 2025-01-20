@@ -10562,7 +10562,7 @@
       ],
       "date_added": "2023-10-25",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-14",
+      "date_removed": null,
       "duration_ms": 202758,
       "name": "Drive",
       "url": "https://open.spotify.com/track/4kcMDgaU8xb4otoDv5c4kD"
@@ -12120,7 +12120,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 160786,
       "name": "FAKE LOVER KILLA",
       "url": "https://open.spotify.com/track/6niNseYshrNdiJSFSepucY"
@@ -20443,6 +20443,28 @@
     },
     {
       "album": {
+        "name": "Hotel Cabana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222200,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
+    },
+    {
+      "album": {
         "name": "La la la (oh oh)",
         "url": "https://open.spotify.com/album/6LcxdJ0OJ5Hr8V4bG4r1fT"
       },
@@ -22120,7 +22142,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-10",
+      "date_removed": null,
       "duration_ms": 159463,
       "name": "MADONNA",
       "url": "https://open.spotify.com/track/38GSwzJGcEnENqcrZ8dADJ"
@@ -22554,7 +22576,7 @@
       ],
       "date_added": "2024-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 202054,
       "name": "MAMA POWTARZA\u0141A",
       "url": "https://open.spotify.com/track/5y0CCj9ENhM4G3gebGlnzb"
@@ -29918,7 +29940,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 189428,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/6wyJltdOuSjUt1bdwO4QCZ"
@@ -37744,7 +37766,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 301623,
       "name": "S\u00e3o Paulo (feat. Anitta)",
       "url": "https://open.spotify.com/track/0xGQTpN4ESETtl1Sp6rzd2"
@@ -40612,7 +40634,7 @@
       ],
       "date_added": "2024-12-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 160588,
       "name": "UMOWA",
       "url": "https://open.spotify.com/track/1aSSU4UUWipkmXIpOdCKj0"

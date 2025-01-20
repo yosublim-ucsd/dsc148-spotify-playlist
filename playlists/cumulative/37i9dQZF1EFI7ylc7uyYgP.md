@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2LTWvs1eqq4r0Qln13AssN">Phil Bentley</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-134 songs - 6 hr 29 min
+135 songs - 6 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A.N.G.E.L](https://open.spotify.com/track/3CMP2UkqnH4Uss8xYsJiQe) | [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Wake Up World](https://open.spotify.com/album/50ae3iNe0P4HV5c2PLn9XX) | 3:14 | 2024-01-29 |  |
 | [Acquaintances](https://open.spotify.com/track/7oYIMx853070FPBt9eS2mz) | [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [III](https://open.spotify.com/album/6kRcnLqICpLeA2NVmmlkIc) | 3:53 | 2024-01-29 |  |
 | [Afterhours](https://open.spotify.com/track/0bOLcsauquzlMWdaONJPyx) | [teamwork.](https://open.spotify.com/artist/6YbvyuBTs8JbVj7iyurrJe), [Nina Nesbitt](https://open.spotify.com/artist/7AzjETXRUKNRSJHMW9GIqd), [AJ Mitchell](https://open.spotify.com/artist/6dn6x1XOng3LOAnfTjUn77) | [Afterhours](https://open.spotify.com/album/2ggT13qZVDONY3QTGENAAb) | 3:25 | 2024-01-29 |  |
+| [Alive](https://open.spotify.com/track/6o5yJOHRffyjiSe8odvVZA) | [Jesse Blaze](https://open.spotify.com/artist/1c8pHcgA2ZjOSfC3gAOfnf) | [Lost & Found](https://open.spotify.com/album/6xVhVxpq8XvEH5JdV4DDQt) | 3:27 | 2025-01-19 |  |
 | [All You Good Friends](https://open.spotify.com/track/5mziNXamtkgdvcmKt7198d) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [All You Good Friends](https://open.spotify.com/album/7uRg23QH5OnhG2a7hFMk3d) | 3:07 | 2024-01-29 |  |
 | [American Hope](https://open.spotify.com/track/47nJ9qTcy66vgrMD2BLcJv) | [Jamie Hartman](https://open.spotify.com/artist/1B4yu7LuLM9Y5YislMFPwo) | [III](https://open.spotify.com/album/6kRcnLqICpLeA2NVmmlkIc) | 3:19 | 2024-01-29 |  |
 | [Another You](https://open.spotify.com/track/2QGNtd7hRPz6QUVY5yk14x) | [DOLF](https://open.spotify.com/artist/3Xq2UDTRsQqQnfR3FIGoFG) | [Another You](https://open.spotify.com/album/710FQCYkZeBWAONwocKRe9) | 2:46 | 2024-01-29 |  |

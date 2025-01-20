@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: <a href=https://open.spotify.com/artist/1xzshfPnhdGrVKze5zCcl0?si=oY4Z3lDxRSOPcOAzPqMYPg>Onos</a> and <a href=https://open.spotify.com/artist/3rdJD72bitczKtW5yNgAA4?si=qE5TAGjeSHSZ\_vDci9s4TA>Seph Schulueter</a>
 
-4,246 songs - 12 day 20 hr 41 min
+4,247 songs - 12 day 20 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -896,6 +896,7 @@
 | [Ese \(Thank You\)](https://open.spotify.com/track/2aIZuvkj1ICssBTZbt7iTg) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Ese \(Thank You\)](https://open.spotify.com/album/1uTEuofyJbfr3FMDsIonNW) | 3:06 | 2024-03-01 | 2024-03-16 |
 | [Ese \- Remix](https://open.spotify.com/track/4d8HInsGGwM0rDAuicQeAB) | [Tklex](https://open.spotify.com/artist/3nqqTSStDMepotlsMSnbvL), [Ko'rale](https://open.spotify.com/artist/4Fvr1wBzDl0Qy3QwcbAVnS), [Jawas Media](https://open.spotify.com/artist/1nRkCDNbteoK9RoQVVvx6X) | [Ese \(Remix\)](https://open.spotify.com/album/0sRciYLRkTCPtGuBmyNbAv) | 2:04 | 2024-01-19 | 2024-02-02 |
 | [Ese Baba](https://open.spotify.com/track/3wDrQbkIAp1sL0mn1l9EjC) | [Younggod](https://open.spotify.com/artist/7fmf0V5T7xiIRjHS46hHiW), [Steve Williz](https://open.spotify.com/artist/6btXkqPkFD0w39C299Gz2K) | [Ese Baba](https://open.spotify.com/album/10vkoqbcRLX1X9mOosDHxM) | 3:57 | 2024-10-25 | 2024-11-08 |
+| [Ese Gan Ni](https://open.spotify.com/track/1OpsavrgdYBlLvqtYOyx2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Ese Gan Ni](https://open.spotify.com/album/3iqYGmjPKEOCmPsIlX0izP) | 4:56 | 2025-01-19 |  |
 | [Ese O](https://open.spotify.com/track/5g9NSZbkQv6djfGzQezlSY) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d), [Rhema onuoha](https://open.spotify.com/artist/30iOcXAui8jskG4LCb81mB) | [Ese O](https://open.spotify.com/album/4yOVpHH1CRDmSOQPhXuUxt) | 2:55 | 2023-09-08 | 2023-09-22 |
 | [Ese O \(Thank You\)](https://open.spotify.com/track/1nfnAihG0GFBSQ21ALH1xh) | [Yemi Adeyemo](https://open.spotify.com/artist/1cheaHVNKKTeCey5cteeXw), [Tee Worship](https://open.spotify.com/artist/1HNyNN9fa1wTVD69hU9FdZ) | [Ese O \(Thank You\)](https://open.spotify.com/album/5XoYBQ4raWzjy5alDoNWUm) | 12:43 | 2024-06-07 | 2024-06-21 |
 | [Esi](https://open.spotify.com/track/4LA1XEz0lVr9J0uB3s4x3w) | [Adeyinka Alaseyori](https://open.spotify.com/artist/47kN9Eik5yW2KPQciui9ob) | [Esi Rere \(Good Report\)](https://open.spotify.com/album/0VtAjPpPKQMXfpx2ovHtyA) | 9:58 | 2024-08-02 | 2024-08-16 |

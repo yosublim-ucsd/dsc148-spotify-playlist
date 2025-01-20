@@ -11557,6 +11557,24 @@
     },
     {
       "album": {
+        "name": "Im Like Ice, Buddy",
+        "url": "https://open.spotify.com/album/7limCyVYGVJjik6yeFef92"
+      },
+      "artists": [
+        {
+          "name": "Cosmoo",
+          "url": "https://open.spotify.com/artist/5fntdguRKMh3yJhfTqmFrG"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124895,
+      "name": "Im Like Ice, Buddy",
+      "url": "https://open.spotify.com/track/0QEfHUCh4fM9BOziJAZRG4"
+    },
+    {
+      "album": {
         "name": "immanent",
         "url": "https://open.spotify.com/album/60Rh4kHbkGV8YojGWysb5v"
       },
@@ -12852,6 +12870,24 @@
       "duration_ms": 117108,
       "name": "Jupiter",
       "url": "https://open.spotify.com/track/5jT5sIQECE9clU4sFN6tDo"
+    },
+    {
+      "album": {
+        "name": "Just Be Spontaneous",
+        "url": "https://open.spotify.com/album/1DEVsVTSe7RFRGcto7axDx"
+      },
+      "artists": [
+        {
+          "name": "Zebra Motion",
+          "url": "https://open.spotify.com/artist/72rBpbxZQoKW0NdXdVsdcN"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Just Be Spontaneous",
+      "url": "https://open.spotify.com/track/2Gs6lIWThm4b1OLWH0pBkG"
     },
     {
       "album": {
@@ -19019,6 +19055,24 @@
     },
     {
       "album": {
+        "name": "peaceful retreat",
+        "url": "https://open.spotify.com/album/6YQVMzmgMWePPETt41Vzrv"
+      },
+      "artists": [
+        {
+          "name": "mellow fox",
+          "url": "https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101694,
+      "name": "peaceful retreat",
+      "url": "https://open.spotify.com/track/6rXdmMil3DpNl1YPB7BaK3"
+    },
+    {
+      "album": {
         "name": "Peach Ice Tea",
         "url": "https://open.spotify.com/album/5VKyNmyuwm2y8JReshgb1g"
       },
@@ -22916,7 +22970,7 @@
       ],
       "date_added": "2023-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 139058,
       "name": "Soft Touch",
       "url": "https://open.spotify.com/track/6EEjOtoTfQRcwiUwqlBSnu"
@@ -24864,7 +24918,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 155675,
       "name": "swing the morning away",
       "url": "https://open.spotify.com/track/0NJdY9aWRqnPiSA0Yy3AN9"
@@ -25476,7 +25530,7 @@
       ],
       "date_added": "2023-11-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 125486,
       "name": "Terminal",
       "url": "https://open.spotify.com/track/0z26A8cwAaGR5mAjquZVKj"

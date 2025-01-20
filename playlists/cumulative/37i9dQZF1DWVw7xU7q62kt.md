@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-370 songs - 17 hr 55 min
+371 songs - 17 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [Sapphire](https://open.spotify.com/track/4EZmaOxulwwYXoDTIjRUTl) | [Guy Rickard](https://open.spotify.com/artist/0YxB3L46MotRo4ngOeOB5M), [Kristoffer Eikrem](https://open.spotify.com/artist/2TxDDfPwhWPoKJKhEcnv3h) | [Sapphire](https://open.spotify.com/album/3l1BpaDK1dFnKJZ2m5ypDC) | 2:24 | 2023-08-22 |  |
 | [Saturnine](https://open.spotify.com/track/4QkOc5MFpxpQxcRBrAkxTz) | [GoGo Penguin](https://open.spotify.com/artist/19f2JXwlRU26376TCKmp6L) | [Saturnine](https://open.spotify.com/album/4DsFPZkhSucdsBJ3uhc5aK) | 4:53 | 2023-08-22 | 2025-01-12 |
 | [Saucisses](https://open.spotify.com/track/4JHGTOdOKWXuGoilIl1AOk) | [Colombo](https://open.spotify.com/artist/6qTT8S45Tb3MkbEuvuqjwF) | [Saucisses](https://open.spotify.com/album/044XUQSGNdY6MjmGR9goR0) | 2:27 | 2023-08-22 | 2025-01-17 |
+| [Saudade](https://open.spotify.com/track/32cwqzRNRzCLP8stZ5HNaK) | [Gas Lab](https://open.spotify.com/artist/2oJeeqyPBtkQJgsZgjFboN), [Ted Taforo](https://open.spotify.com/artist/7tbxW8j3pe34xRrPtS5igX) | [Saudade](https://open.spotify.com/album/3zb2PgzfCcSQ4qYgRApIlu) | 2:32 | 2025-01-10 |  |
 | [Sensia](https://open.spotify.com/track/5putLwZVDKvE7q0DRm0diB) | [Flitz&Suppe](https://open.spotify.com/artist/49WbztFLx9iDTh8LHEIF84), [Oh, My.](https://open.spotify.com/artist/1f5I28sZb2efjRLXO1jX0h) | [Sensia](https://open.spotify.com/album/7K8s4ba6y6Pq5RPAMBklU4) | 2:50 | 2024-11-15 |  |
 | [Show Me Your Style](https://open.spotify.com/track/0glLQ2TjhPQ1QEts10butk) | [flowless](https://open.spotify.com/artist/71dR4Sjwy1ikQyYIcCWvxS), [skrn](https://open.spotify.com/artist/1k29Ytv2zKdGrYGadr9etJ) | [Show Me Your Style](https://open.spotify.com/album/6oAAs5EAm1X6CTrL3LDyKE) | 2:01 | 2024-12-06 | 2024-12-24 |
 | [Silver Lining](https://open.spotify.com/track/10hx4sKe98T1f4szHV5zru) | [J3PO](https://open.spotify.com/artist/0lSFr65zkY254m1qbHAb5k) | [MAINS](https://open.spotify.com/album/5kR7t1B8wTKFKi6kfyKyiv) | 3:42 | 2024-03-20 | 2024-06-05 |
@@ -357,7 +358,7 @@
 | [Verdant](https://open.spotify.com/track/6eopX3Kongrg9P751naBpe) | [khoa](https://open.spotify.com/artist/2Sytd0z30yOj3b5IOfOUWj) | [Verdant](https://open.spotify.com/album/4P5lOaPUYQ5bhpiBVq9w1t) | 2:26 | 2023-08-31 |  |
 | [Verdant](https://open.spotify.com/track/2HWjYlDWKuAF9KWxwLPXBB) | [Will Eason](https://open.spotify.com/artist/0mXr7zTlXU4FgOoiOHbQHs), [Horace Maurice](https://open.spotify.com/artist/5fCp4yfEkKNN24SUYR7ZnP) | [Verdant](https://open.spotify.com/album/1m86OJ9K6rQD4rpJM9aoXx) | 2:30 | 2024-11-29 |  |
 | [very very](https://open.spotify.com/track/3M1j7InVSmDZhAGmD1zn25) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [very very](https://open.spotify.com/album/566w8sluqYgeSH6jwEDxDC) | 2:40 | 2024-11-22 |  |
-| [Viaggio](https://open.spotify.com/track/2CbRmg4lse3yTJOLm6AK9q) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Viaggio](https://open.spotify.com/album/0WzejcXI9XV7uLNxLJa6x2) | 2:19 | 2024-09-06 |  |
+| [Viaggio](https://open.spotify.com/track/2CbRmg4lse3yTJOLm6AK9q) | [Billa Qause](https://open.spotify.com/artist/7aHDFeKOQ2mgSGb8DTQf8Y) | [Viaggio](https://open.spotify.com/album/0WzejcXI9XV7uLNxLJa6x2) | 2:19 | 2024-09-06 | 2025-01-20 |
 | [Vibra](https://open.spotify.com/track/7n2sf4iKVww9HOEc7UJjCQ) | [flâneur](https://open.spotify.com/artist/1u1zs47JhYDIbDkFjamdzx), [Dani Catalá](https://open.spotify.com/artist/47KS10JqzPOZND1Uxr7U1i) | [Vibra](https://open.spotify.com/album/5P0bAHsX56p24XjjqWf3Yi) | 2:14 | 2024-09-20 |  |
 | [Violet](https://open.spotify.com/track/1oP3XTius4A9ud6YQ9IzXw) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [ChonRa](https://open.spotify.com/artist/40HCEgHD85SwIN4YXSzDUv), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Shades of Purple](https://open.spotify.com/album/7miWMBvHaL5L5xTJxqSfxU) | 2:50 | 2024-11-08 | 2024-11-20 |
 | [Volpaia](https://open.spotify.com/track/1lrgfwOihRFHBUy3xGIeBB) | [DAO](https://open.spotify.com/artist/0vO0wjb2c1Bkyj9zffz2m9), [Relyae](https://open.spotify.com/artist/1XWIY6lvgEpKAIPNOK2CjO), [Webmoms](https://open.spotify.com/artist/2ol5Xy14VMiqF9KjzW41c4) | [Volpaia](https://open.spotify.com/album/1ELKh52boFPAkRyVYAUpm8) | 2:13 | 2024-03-20 | 2024-06-08 |

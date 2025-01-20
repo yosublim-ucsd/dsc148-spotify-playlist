@@ -1,12 +1,12 @@
 {
   "description": "This is G Herbo. The essential tracks, all in one playlist.",
-  "num_followers": 33436,
+  "num_followers": 33439,
   "original_name": "This Is G Herbo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAAwSJ+7o2wXayLx0b2WxH4j",
+  "snapshot_id": "Z4rvAAAAAABimuH+feC2oqtUCI7LVrj6",
   "tracks": [
     {
       "added_at": null,
@@ -435,30 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Swervo",
-        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Southside",
-          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
-        },
-        {
-          "name": "Juice WRLD",
-          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
-        }
-      ],
-      "duration_ms": 214344,
-      "name": "Honestly (feat. Juice WRLD)",
-      "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
         "url": "https://open.spotify.com/album/3PqUw83PcGYn3g8pTJod9y"
       },
@@ -479,6 +455,30 @@
       "duration_ms": 229035,
       "name": "Gun Class II (feat. Nardo Wick & G Herbo)",
       "url": "https://open.spotify.com/track/5maOp2FZomEiboxhl9yh2z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Swervo",
+        "url": "https://open.spotify.com/album/2mHjXCn5dRDvuXlJq95mzE"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Southside",
+          "url": "https://open.spotify.com/artist/23DYJsw4uSCguIqiTIDtcN"
+        },
+        {
+          "name": "Juice WRLD",
+          "url": "https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz"
+        }
+      ],
+      "duration_ms": 214344,
+      "name": "Honestly (feat. Juice WRLD)",
+      "url": "https://open.spotify.com/track/1UF7rVR5zDEKLBcFtbumOY"
     },
     {
       "added_at": null,
@@ -999,26 +999,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Big Swerv 2.0",
-        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
-      },
-      "artists": [
-        {
-          "name": "G Herbo",
-          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
-        },
-        {
-          "name": "Lil Durk",
-          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
-        }
-      ],
-      "duration_ms": 219788,
-      "name": "In The Air (feat. Lil Durk)",
-      "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F*CK LOVE 3+: OVER YOU",
         "url": "https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI"
       },
@@ -1039,6 +1019,26 @@
       "duration_ms": 167965,
       "name": "DON'T LEAVE ME (feat. G Herbo & Lil Durk)",
       "url": "https://open.spotify.com/track/2n1XN46reBpu5I9wDwzZMP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Big Swerv 2.0",
+        "url": "https://open.spotify.com/album/3SmVWKCh3knpn7ZGBQWH4a"
+      },
+      "artists": [
+        {
+          "name": "G Herbo",
+          "url": "https://open.spotify.com/artist/5QdEbQJ3ylBnc3gsIASAT5"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "duration_ms": 219788,
+      "name": "In The Air (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/231WYOehAI5i10vZ2XTGzk"
     },
     {
       "added_at": null,

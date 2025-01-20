@@ -1,6 +1,6 @@
 {
   "description": "He is coming. Cover: Nosferatu",
-  "num_followers": 865214,
+  "num_followers": 866389,
   "original_name": "Dark & Gothic",
   "owner": {
     "name": "Spotify",
@@ -331,22 +331,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Floodland",
-        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 295250,
-      "name": "Lucretia My Reflection - Vinyl Version",
-      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Famous Monsters",
         "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 346280,
       "name": "The Killing Moon",
       "url": "https://open.spotify.com/track/15049rGLXHwrWtE4euUb5C"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Floodland",
+        "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 295250,
+      "name": "Lucretia My Reflection - Vinyl Version",
+      "url": "https://open.spotify.com/track/20goDx14UZviYtCPtLbqvs"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -411,6 +411,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Selected Scenes from the End of the World",
+        "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
+      },
+      "artists": [
+        {
+          "name": "London After Midnight",
+          "url": "https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer"
+        }
+      ],
+      "duration_ms": 455853,
+      "name": "Sacrifice",
+      "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Bloody Kisses (Top Shelf Edition)",
         "url": "https://open.spotify.com/album/22PP61GmfGKAhIQo2ZSRxG"
       },
@@ -427,18 +443,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Selected Scenes from the End of the World",
-        "url": "https://open.spotify.com/album/7MKdR8w1oTeEaekfZ4LbsN"
+        "name": "Japanese Whispers",
+        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
       },
       "artists": [
         {
-          "name": "London After Midnight",
-          "url": "https://open.spotify.com/artist/51mEqzVhG2n9nD2kBAnWer"
+          "name": "The Cure",
+          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
         }
       ],
-      "duration_ms": 455853,
-      "name": "Sacrifice",
-      "url": "https://open.spotify.com/track/4EJjwH5VKFYfhjji1lDmiH"
+      "duration_ms": 220093,
+      "name": "The Lovecats",
+      "url": "https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84"
     },
     {
       "added_at": "2023-01-06 06:22:16",
@@ -455,22 +471,6 @@
       "duration_ms": 190525,
       "name": "Fantasmas",
       "url": "https://open.spotify.com/track/07LRjvNrvSE311BWlwRptq"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Some Girls Wander by Mistake",
-        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
-      },
-      "artists": [
-        {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
-        }
-      ],
-      "duration_ms": 488011,
-      "name": "Temple of Love - 1992",
-      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
     },
     {
       "added_at": "2025-01-09 23:56:12",
@@ -491,18 +491,18 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Japanese Whispers",
-        "url": "https://open.spotify.com/album/5tAMx7VbNpPCvn35reMtFN"
+        "name": "Some Girls Wander by Mistake",
+        "url": "https://open.spotify.com/album/5fdbQYbqTnCLNTibBdoerT"
       },
       "artists": [
         {
-          "name": "The Cure",
-          "url": "https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s"
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
         }
       ],
-      "duration_ms": 220093,
-      "name": "The Lovecats",
-      "url": "https://open.spotify.com/track/6q2T5xXao6mTS6LLE88L84"
+      "duration_ms": 488011,
+      "name": "Temple of Love - 1992",
+      "url": "https://open.spotify.com/track/53O11dqezFoFYaaMjr1SPP"
     },
     {
       "added_at": "2025-01-09 23:56:12",
@@ -585,22 +585,6 @@
       "url": "https://open.spotify.com/track/1ycz5DvATLtmn2pOU8u38C"
     },
     {
-      "added_at": "2023-01-24 21:00:19",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV"
-      },
-      "artists": [
-        {
-          "name": "Twin Tribes",
-          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
-        }
-      ],
-      "duration_ms": 187517,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb"
-    },
-    {
       "added_at": "2021-10-15 04:04:50",
       "album": {
         "name": "The Crow Original Motion Picture Soundtrack",
@@ -633,20 +617,20 @@
       "url": "https://open.spotify.com/track/31CYUJj5f9lbQ0Qqm9PzK5"
     },
     {
-      "added_at": "2021-10-15 04:04:50",
+      "added_at": "2023-01-24 21:00:19",
       "album": {
-        "name": "Vision Thing",
-        "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
+        "name": "Shadows",
+        "url": "https://open.spotify.com/album/3Y1BV0s32ZRfaMF4tikTgV"
       },
       "artists": [
         {
-          "name": "Sisters of Mercy",
-          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+          "name": "Twin Tribes",
+          "url": "https://open.spotify.com/artist/7wxXs62y8Gjf6c6pxrnWIl"
         }
       ],
-      "duration_ms": 503109,
-      "name": "More",
-      "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
+      "duration_ms": 187517,
+      "name": "Shadows",
+      "url": "https://open.spotify.com/track/2Le4R47s0PyT0oWcD7qifb"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -663,6 +647,22 @@
       "duration_ms": 295973,
       "name": "Reptile",
       "url": "https://open.spotify.com/track/29Znt9AbEH9FSsw86zPAYT"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Vision Thing",
+        "url": "https://open.spotify.com/album/0FGRMEpiqcJeHNuf4IsfOK"
+      },
+      "artists": [
+        {
+          "name": "Sisters of Mercy",
+          "url": "https://open.spotify.com/artist/4HxBVyHaUa60eCSsJWxwWR"
+        }
+      ],
+      "duration_ms": 503109,
+      "name": "More",
+      "url": "https://open.spotify.com/track/2UV9ahm7JUWHN1zQAoocEq"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -763,22 +763,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "Gods Own Medicine",
-        "url": "https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV"
-      },
-      "artists": [
-        {
-          "name": "The Mission",
-          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
-        }
-      ],
-      "duration_ms": 340666,
-      "name": "Wasteland",
-      "url": "https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Floodland",
         "url": "https://open.spotify.com/album/2I5WCmOZo17YkcEwjXbLvc"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 420300,
       "name": "Dominion / Mother Russia",
       "url": "https://open.spotify.com/track/286oOUWsKLgh9DMcOqKkkQ"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Gods Own Medicine",
+        "url": "https://open.spotify.com/album/4kBti1HGfkIg1Q9XWeTtHV"
+      },
+      "artists": [
+        {
+          "name": "The Mission",
+          "url": "https://open.spotify.com/artist/4SAdMucvHyws4QTeAUsPtE"
+        }
+      ],
+      "duration_ms": 340666,
+      "name": "Wasteland",
+      "url": "https://open.spotify.com/track/4kiVRcINxpbNTbmEbePXQL"
     },
     {
       "added_at": "2024-10-24 20:53:30",
@@ -859,6 +859,22 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
+        "name": "Only Theatre of Pain",
+        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
+      },
+      "artists": [
+        {
+          "name": "Christian Death",
+          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
+        }
+      ],
+      "duration_ms": 134000,
+      "name": "Deathwish",
+      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
         "name": "Forever (Expanded Edition)",
         "url": "https://open.spotify.com/album/3nFSPWRHULzYNWGQoDzjKV"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 237240,
       "name": "Serpentskirt - Remastered 2006",
       "url": "https://open.spotify.com/track/6p2gjNra5zaRtp2BNpYMYI"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Only Theatre of Pain",
-        "url": "https://open.spotify.com/album/59uGWiIsDCv9OKEplQEjO2"
-      },
-      "artists": [
-        {
-          "name": "Christian Death",
-          "url": "https://open.spotify.com/artist/6mEohczxsctzkEIU0WAeWD"
-        }
-      ],
-      "duration_ms": 134000,
-      "name": "Deathwish",
-      "url": "https://open.spotify.com/track/1ZGGE74Aw6YFBwJbmuiEZH"
     },
     {
       "added_at": "2021-10-15 04:04:50",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2021-10-15 04:04:50",
       "album": {
-        "name": "It Will Come to You",
-        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
-      },
-      "artists": [
-        {
-          "name": "ACTORS",
-          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Face Meets Glass",
-      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
         "name": "Children",
         "url": "https://open.spotify.com/album/101pZCdJGdRsrEULeMaPwL"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 486240,
       "name": "Tower Of Strength",
       "url": "https://open.spotify.com/track/448t63bYlXVmM04NzeWoxG"
+    },
+    {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "It Will Come to You",
+        "url": "https://open.spotify.com/album/0yIIcvuqXZWqhMizP6w5jJ"
+      },
+      "artists": [
+        {
+          "name": "ACTORS",
+          "url": "https://open.spotify.com/artist/2Gs4t6zBT69DSluLvaEBWK"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Face Meets Glass",
+      "url": "https://open.spotify.com/track/7a7G6UxSuYRF7kIaCPAYRT"
     },
     {
       "added_at": "2022-07-01 00:50:45",
@@ -1193,6 +1193,22 @@
       "url": "https://open.spotify.com/track/62qDZVPCa0w6cIbzPN0Izl"
     },
     {
+      "added_at": "2021-10-15 04:04:50",
+      "album": {
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
+      },
+      "artists": [
+        {
+          "name": "Rosetta Stone",
+          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
+        }
+      ],
+      "duration_ms": 220960,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw"
+    },
+    {
       "added_at": "2022-03-30 01:50:22",
       "album": {
         "name": "Deep",
@@ -1223,22 +1239,6 @@
       "duration_ms": 169720,
       "name": "Valentine's Day",
       "url": "https://open.spotify.com/track/0dM8QwXUJwGzlTouSG9eAF"
-    },
-    {
-      "added_at": "2021-10-15 04:04:50",
-      "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/4gtEJI7W3W0RCtAuR2EDw4"
-      },
-      "artists": [
-        {
-          "name": "Rosetta Stone",
-          "url": "https://open.spotify.com/artist/0UnBsBrom4chs5rnjRBtIK"
-        }
-      ],
-      "duration_ms": 220960,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/3ESdYvHHCnQMnPfTjYWmMw"
     },
     {
       "added_at": "2021-10-15 04:04:50",

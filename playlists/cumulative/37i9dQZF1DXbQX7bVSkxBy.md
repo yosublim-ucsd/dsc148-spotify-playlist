@@ -4,7 +4,7 @@
 
 > Raise a voice and testify the goodness of God\.  Cover:  <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=Yh8exV6QReuTXE7UgQk5Mw>Mercy Chinwo</a>
 
-319 songs - 1 day 2 hr 7 min
+320 songs - 1 day 2 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,6 +93,7 @@
 | [Emmanuel](https://open.spotify.com/track/3l5EhgXbihlSPU3ffHikIf) | [Gabriel Eziashi](https://open.spotify.com/artist/6sx0dcFppnpZl1HSX6cCqx), [Henrisoul](https://open.spotify.com/artist/29nYQAtysT9en4qYsRuNTL) | [Emmanuel](https://open.spotify.com/album/24mcEzYexHZ7frccXqijWK) | 9:12 | 2023-06-16 | 2023-06-23 |
 | [Emperor of the Universe](https://open.spotify.com/track/4ewwe3fstt2FezTYwZehvo) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM), [Theophilus Sunday](https://open.spotify.com/artist/5CRJcreFWIr5d3UsIc9aD6) | [Emperor of the Universe](https://open.spotify.com/album/3jglQn9MUN5mI9mLwKpidK) | 16:05 | 2024-02-02 | 2024-03-05 |
 | [Energy](https://open.spotify.com/track/0PXT9PA9lp3dpBu8YKBKvZ) | [Tjsarx](https://open.spotify.com/artist/4Ndq7v7oiQdrRJvlrRY2KJ) | [Jesus & Lamba](https://open.spotify.com/album/1hWJ2l28sPV38rqL7SsCha) | 2:41 | 2024-10-25 | 2024-11-08 |
+| [Ese Gan Ni](https://open.spotify.com/track/1OpsavrgdYBlLvqtYOyx2f) | [Hi\-Bred](https://open.spotify.com/artist/1mcbEJEGPcMCqnprqIW4U8) | [Ese Gan Ni](https://open.spotify.com/album/3iqYGmjPKEOCmPsIlX0izP) | 4:56 | 2025-01-19 |  |
 | [Everything \(Amen\)](https://open.spotify.com/track/2H6RIf2y9HyT5WWJXzWzGu) | [Timi Dakolo](https://open.spotify.com/artist/06UqlnocxIJgyyTZwQMAQK) | [Everything \(Amen\)](https://open.spotify.com/album/1Dx9yZ1ej8pG0sCMXdt9f7) | 3:57 | 2023-04-07 | 2023-10-04 |
 | [Evidence](https://open.spotify.com/track/6RfDMsCx6fqjQONO9TzWIO) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2), [Moses Bliss](https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM) | [Evidence](https://open.spotify.com/album/1RNuAj6VRCUuqa5QEREdZA) | 3:28 | 2024-08-16 | 2024-08-31 |
 | [Exalted](https://open.spotify.com/track/6qfKGnh9sQfNU7NyfMskKz) | [Freke Umoh](https://open.spotify.com/artist/2xImxpkojQWvXi1RR7hhZh) | [Verses, Vol\. 1](https://open.spotify.com/album/0lVg5lgO6lof4QoqzZ8jRk) | 7:23 | 2023-07-28 | 2023-08-04 |
@@ -291,7 +292,7 @@
 | [Undignified \(Excuse Me\)](https://open.spotify.com/track/3aSBRG5HYyEgWyuUgrRJLE) | [Dunsin Oyekan](https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM) | [Undignified \(Excuse Me\)](https://open.spotify.com/album/4lXkDJfCaDkRRcfDD6d16R) | 8:53 | 2024-03-29 | 2024-04-05 |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/12SS9xcUrNBWWiMIGCGRNQ) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0yq9apfBkBDmT9I74n0ABX) | 6:15 | 2023-11-24 | 2023-12-09 |
 | [UnguThixo Onomusa \(Live\)](https://open.spotify.com/track/1CKjWM9UvF5aemROunyZLi) | [Sneziey](https://open.spotify.com/artist/4KNTHZMBcTrQxk5WWzZqM5) | [Sibonga Umusa \(Live\)](https://open.spotify.com/album/0tT13vFUWnAGZNp0BZu0n3) | 6:15 | 2023-11-24 | 2023-12-15 |
-| [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 | 2023-04-07 |  |
+| [Victory](https://open.spotify.com/track/6GL0fX7lcTWiWqdCocOLk7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm) | [Victory](https://open.spotify.com/album/5Ey8poQmq9WAuTlHBwHPZ6) | 3:50 | 2023-04-07 | 2025-01-20 |
 | [Victory Belongs To Jesus \(Live\)](https://open.spotify.com/track/0Bgd1ABS94lhwYDCEQHpsP) | [Todd Dulaney](https://open.spotify.com/artist/41OAtBkqAXVdMlteKlhrZz) | [A Worshipper's Heart \(Live\)](https://open.spotify.com/album/1jjOEtC7Kr6GjyWiyipYCB) | 5:44 | 2023-12-29 | 2024-12-08 |
 | [Victory Song](https://open.spotify.com/track/40sjTKH9XM4BEToiQdbyIq) | [Sammie Ekpoh](https://open.spotify.com/artist/58Z6C1up0cgaEMwspOtqO0), [TBabz](https://open.spotify.com/artist/2EmUjaYdA6kGxwZXzAGq7V) | [Victory Song](https://open.spotify.com/album/74aVBnCplKOcQiXHPJ0jx4) | 2:56 | 2023-06-16 | 2023-06-23 |
 | [Waiting](https://open.spotify.com/track/1RhhWmeGXnBzhgQMvABtVO) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Rae Rae](https://open.spotify.com/artist/2Zhpjwk7OjYXrQG3YOhIzo) | [Waiting](https://open.spotify.com/album/0BD9WVtDVVywYDuKvD5FWy) | 3:21 | 2023-10-13 | 2023-10-23 |

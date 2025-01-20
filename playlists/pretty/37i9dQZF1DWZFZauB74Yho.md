@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZFZauB74Yho.md) - [plain]
 
 > Hear the latest releases from bluegrass and string bands alike\. Cover: Sierra Hull
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,100 likes - 105 songs - 6 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,121 likes - 105 songs - 6 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

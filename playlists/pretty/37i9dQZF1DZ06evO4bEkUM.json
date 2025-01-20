@@ -1,12 +1,12 @@
 {
   "description": "This is Paramore. The essential tracks, all in one playlist.",
-  "num_followers": 909256,
+  "num_followers": 909394,
   "original_name": "This Is Paramore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAABFv9r6GI57oL9j+iPpK0Ko",
+  "snapshot_id": "Z4rvAAAAAAD7r4fCEH9WOlHSDMqvGYEx",
   "tracks": [
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "When It Rains",
-      "url": "https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 212560,
       "name": "(One of Those) Crazy Girls",
       "url": "https://open.spotify.com/track/6JmV5cyTQ934NxLY4Z0tg1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/3UoOO8m0oxxvUHXUKf3qcZ"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "When It Rains",
+      "url": "https://open.spotify.com/track/5MNsy8G3K0Y09QFpktzyrj"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 198973,
-      "name": "Fences",
-      "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Paramore",
         "url": "https://open.spotify.com/album/4sgYpkIASM1jVlNC8Wp9oF"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 309293,
       "name": "Hate to See Your Heart Break",
       "url": "https://open.spotify.com/track/3AX4HIRJY6GT6tgMkO5987"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 198973,
+      "name": "Fences",
+      "url": "https://open.spotify.com/track/4aICBAAFGF3pLSZDlmsMj9"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 228293,
-      "name": "For a Pessimist, I'm Pretty Optimistic",
-      "url": "https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Singles Club",
         "url": "https://open.spotify.com/album/3qMoGzDfT88nl6TY7YqQs1"
       },
@@ -683,6 +667,22 @@
       "duration_ms": 208094,
       "name": "Renegade",
       "url": "https://open.spotify.com/track/6M9Da8TDERZzTdBYkxMRji"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 228293,
+      "name": "For a Pessimist, I'm Pretty Optimistic",
+      "url": "https://open.spotify.com/track/2PDLmgDWiwjUTxl1pPyDQA"
     },
     {
       "added_at": null,

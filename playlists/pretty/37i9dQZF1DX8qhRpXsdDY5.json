@@ -1,6 +1,6 @@
 {
   "description": "Beloved Latin classics to get you in the Christmas spirit. Cover: Luis Miguel",
-  "num_followers": 223122,
+  "num_followers": 223090,
   "original_name": "Latin Christmas Classics",
   "owner": {
     "name": "Spotify",
@@ -183,18 +183,18 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
-        "name": "Ven A Mi Casa Esta Navidad",
-        "url": "https://open.spotify.com/album/6Ff42qXok850iV7nee00V1"
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
       },
       "artists": [
         {
-          "name": "Raphael",
-          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
         }
       ],
-      "duration_ms": 176523,
-      "name": "El Tamborilero",
-      "url": "https://open.spotify.com/track/3Vrn9BAwRqcMh1jgNzgSNf"
+      "duration_ms": 212466,
+      "name": "Blanca Navidad",
+      "url": "https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -211,6 +211,22 @@
       "duration_ms": 123626,
       "name": "Noche Buena Y Navidad (Rockin' Around The Christmas Tree)",
       "url": "https://open.spotify.com/track/2oGrSrg08RVLHeqFH1eaHZ"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
+        "name": "Ven A Mi Casa Esta Navidad",
+        "url": "https://open.spotify.com/album/6Ff42qXok850iV7nee00V1"
+      },
+      "artists": [
+        {
+          "name": "Raphael",
+          "url": "https://open.spotify.com/artist/796OSRuB0E9Hq55uTFL9U8"
+        }
+      ],
+      "duration_ms": 176523,
+      "name": "El Tamborilero",
+      "url": "https://open.spotify.com/track/3Vrn9BAwRqcMh1jgNzgSNf"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -243,22 +259,6 @@
       "duration_ms": 180346,
       "name": "Jingle Bells",
       "url": "https://open.spotify.com/track/2LD9KV4a5SH6e6OBM4fdyU"
-    },
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 212466,
-      "name": "Blanca Navidad",
-      "url": "https://open.spotify.com/track/77J6wE54qpAb2iGegfCVFu"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -343,6 +343,22 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
+        "name": "Navidades Luis Miguel",
+        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 125186,
+      "name": "Lleg\u00f3 La Navidad",
+      "url": "https://open.spotify.com/track/2P3RQbqU5xw1heCZSSVyL5"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
         "name": "Navidad con Pandora",
         "url": "https://open.spotify.com/album/6A6jIdmnSirfsVE8D8ONJV"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 165306,
       "name": "Los Peces en el R\u00edo",
       "url": "https://open.spotify.com/track/2z90VCXCVOH5SbaoVSnkjf"
-    },
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
-        "name": "Navidad",
-        "url": "https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        }
-      ],
-      "duration_ms": 176429,
-      "name": "Rodolfo el Reno",
-      "url": "https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -391,6 +391,22 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
+        "name": "Navidad",
+        "url": "https://open.spotify.com/album/0tlvyGSyHvVL1lynTDROgO"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        }
+      ],
+      "duration_ms": 176429,
+      "name": "Rodolfo el Reno",
+      "url": "https://open.spotify.com/track/2CapttHWShlkLfzrjMNqW3"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
         "name": "Parranda All-Stars: Navidad",
         "url": "https://open.spotify.com/album/20qL5xJyoIfwnzyZGVY5BI"
       },
@@ -403,22 +419,6 @@
       "duration_ms": 234880,
       "name": "No Te Pongas Triste",
       "url": "https://open.spotify.com/track/1imzVwkMqRDohhFbxuxv9j"
-    },
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
-        "name": "Navidades Luis Miguel",
-        "url": "https://open.spotify.com/album/0tu9kY2tDMuuuI6GtSDH9i"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 125186,
-      "name": "Lleg\u00f3 La Navidad",
-      "url": "https://open.spotify.com/track/2P3RQbqU5xw1heCZSSVyL5"
     },
     {
       "added_at": "2024-12-12 20:56:21",
@@ -471,26 +471,6 @@
     {
       "added_at": "2024-12-12 20:56:21",
       "album": {
-        "name": "All I Want For Christmas Is You",
-        "url": "https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE"
-      },
-      "artists": [
-        {
-          "name": "Emmanuel",
-          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
-        },
-        {
-          "name": "Belinda Carlisle",
-          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
-        }
-      ],
-      "duration_ms": 217877,
-      "name": "All I Want For Christmas Is You",
-      "url": "https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy"
-    },
-    {
-      "added_at": "2024-12-12 20:56:21",
-      "album": {
         "name": "Regalo de Reyes",
         "url": "https://open.spotify.com/album/1KWTF4UxkeaEgeUpVSglQo"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 274786,
       "name": "Ya Se Ven las Bombillitas",
       "url": "https://open.spotify.com/track/47mV5gXQdmvOZYQzVTNqcJ"
+    },
+    {
+      "added_at": "2024-12-12 20:56:21",
+      "album": {
+        "name": "All I Want For Christmas Is You",
+        "url": "https://open.spotify.com/album/5y9dShHJfKeQthsVcCSvuE"
+      },
+      "artists": [
+        {
+          "name": "Emmanuel",
+          "url": "https://open.spotify.com/artist/2DmYtFBKcxb3ajwWWgA576"
+        },
+        {
+          "name": "Belinda Carlisle",
+          "url": "https://open.spotify.com/artist/7xkAwz0bQTGDSbkofyQt3U"
+        }
+      ],
+      "duration_ms": 217877,
+      "name": "All I Want For Christmas Is You",
+      "url": "https://open.spotify.com/track/1NyPrCfqvms4t5yNGtu9Fy"
     },
     {
       "added_at": "2024-12-12 20:56:21",

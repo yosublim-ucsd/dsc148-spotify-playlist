@@ -1,6 +1,6 @@
 {
   "description": "Un mix de reggae y buena vibra para ver caer el sol.",
-  "num_followers": 47568,
+  "num_followers": 47613,
   "original_name": "Atardecer en la playa",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "El Paso Gigante",
+        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 265691,
+      "name": "Casi q' me pierdo",
+      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Caminar\u00e1s Caminos",
         "url": "https://open.spotify.com/album/337mNEG0GhmCVFOflwtMlS"
       },
@@ -235,22 +251,6 @@
       "duration_ms": 157418,
       "name": "Verte",
       "url": "https://open.spotify.com/track/2mMZAd3ol9wGI2WJl4XJCF"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "El Paso Gigante",
-        "url": "https://open.spotify.com/album/1kJD3mYufavAaI1IZwrP3i"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 265691,
-      "name": "Casi q' me pierdo",
-      "url": "https://open.spotify.com/track/0Nj3EM5QMCIdTbWM3wzJGR"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -531,22 +531,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "25 A\u00f1os de M\u00fasica",
-        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
-      },
-      "artists": [
-        {
-          "name": "Los Cafres",
-          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
-      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Todo Lo Que Se Fue",
         "url": "https://open.spotify.com/album/5b6PeL5h1CFlENO13RKt4r"
       },
@@ -579,6 +563,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "25 A\u00f1os de M\u00fasica",
+        "url": "https://open.spotify.com/album/6zhjig78tafXcTTZmjO752"
+      },
+      "artists": [
+        {
+          "name": "Los Cafres",
+          "url": "https://open.spotify.com/artist/2ST5XwWB4uXGKk2NXP8DUI"
+        }
+      ],
+      "duration_ms": 238666,
+      "name": "Si el Amor Se Cae - Versi\u00f3n 25 A\u00f1os [Live]",
+      "url": "https://open.spotify.com/track/2wdfWNH3xbpNvX8FpMyyZ0"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Civilizado Como Los Animales",
         "url": "https://open.spotify.com/album/3XEUOUhNrKAGvx5X5jv1lW"
       },
@@ -595,22 +595,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Gozar Hasta Que Me Ausente",
-        "url": "https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP"
-      },
-      "artists": [
-        {
-          "name": "Paloma del Cerro",
-          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
-        }
-      ],
-      "duration_ms": 242409,
-      "name": "Gozar Hasta Que Me Ausente",
-      "url": "https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Hagan Correr la Voz",
         "url": "https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 238986,
       "name": "Love Song",
       "url": "https://open.spotify.com/track/7dGY3JOczM9JLA4zUpSPMN"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Gozar Hasta Que Me Ausente",
+        "url": "https://open.spotify.com/album/7lv24E1PaqBcJdGopRCziP"
+      },
+      "artists": [
+        {
+          "name": "Paloma del Cerro",
+          "url": "https://open.spotify.com/artist/6jCZSq4NyG2Ry0LyKHqClp"
+        }
+      ],
+      "duration_ms": 242409,
+      "name": "Gozar Hasta Que Me Ausente",
+      "url": "https://open.spotify.com/track/5w3cYdQqHeMoVKjLcjKqfY"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -815,22 +815,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Un Lustro Inyectando Ruido Positivo",
-        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
-      },
-      "artists": [
-        {
-          "name": "Antidoping",
-          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
-        }
-      ],
-      "duration_ms": 390173,
-      "name": "Juego a Muerte",
-      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Al o\u00edrla cantar",
         "url": "https://open.spotify.com/album/5fk1Gz6X5cPaFm9Yipm75h"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 192849,
       "name": "Uchi Wala",
       "url": "https://open.spotify.com/track/1RKqrHsNqB9pECYucfOB61"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Un Lustro Inyectando Ruido Positivo",
+        "url": "https://open.spotify.com/album/0s4taGK6d9cAPwxPLpnj4N"
+      },
+      "artists": [
+        {
+          "name": "Antidoping",
+          "url": "https://open.spotify.com/artist/3gNRdx3DyEnckHDCmVwwnY"
+        }
+      ],
+      "duration_ms": 390173,
+      "name": "Juego a Muerte",
+      "url": "https://open.spotify.com/track/1WHzxJ7MJQbceBJs5J4M0u"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -987,6 +987,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Mamita Peyote",
+        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
+      },
+      "artists": [
+        {
+          "name": "Mamita Peyote",
+          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
+        }
+      ],
+      "duration_ms": 271000,
+      "name": "Consentimiento",
+      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Hasta Que Me Olvides",
         "url": "https://open.spotify.com/album/6TuUpvTRIZH0ZrysVOls2j"
       },
@@ -1031,22 +1047,6 @@
       "duration_ms": 337857,
       "name": "Y Es de D\u00eda",
       "url": "https://open.spotify.com/track/0HmHM4okbHIvtPTns9FhcW"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Mamita Peyote",
-        "url": "https://open.spotify.com/album/1ckVWzWXSDlHaNCh510V4H"
-      },
-      "artists": [
-        {
-          "name": "Mamita Peyote",
-          "url": "https://open.spotify.com/artist/241K0nllagXEonPEu1Yyo8"
-        }
-      ],
-      "duration_ms": 271000,
-      "name": "Consentimiento",
-      "url": "https://open.spotify.com/track/3diR9NggRLb1VJFIMUsC21"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1123,26 +1123,6 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
-        "name": "Caribe\u00f1a",
-        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
-      },
-      "artists": [
-        {
-          "name": "Lorena Blume",
-          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
-        },
-        {
-          "name": "Paz Court",
-          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
-        }
-      ],
-      "duration_ms": 191141,
-      "name": "Caribe\u00f1a",
-      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
         "name": "Eu Quero Tudo",
         "url": "https://open.spotify.com/album/6pg9t9IdAOKNr7kgPjDTtZ"
       },
@@ -1159,6 +1139,26 @@
       "duration_ms": 219470,
       "name": "Eu Quero Tudo",
       "url": "https://open.spotify.com/track/0DXOyC3z15P3eIE8HrhNas"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
+        "name": "Caribe\u00f1a",
+        "url": "https://open.spotify.com/album/6pqif5AJYmhoYERQhbHVyM"
+      },
+      "artists": [
+        {
+          "name": "Lorena Blume",
+          "url": "https://open.spotify.com/artist/3rv2Lj8grP2g6UhyD98L6W"
+        },
+        {
+          "name": "Paz Court",
+          "url": "https://open.spotify.com/artist/4iYtGmJwcET4ym55GMp4Zm"
+        }
+      ],
+      "duration_ms": 191141,
+      "name": "Caribe\u00f1a",
+      "url": "https://open.spotify.com/track/4N4STDrAmiZoVLVFGwDXp3"
     },
     {
       "added_at": "2024-06-12 21:02:48",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-06-12 21:02:48",
       "album": {
+        "name": "Aroma de Caf\u00e9",
+        "url": "https://open.spotify.com/album/2U7JActlUUtkokqLmhGrvg"
+      },
+      "artists": [
+        {
+          "name": "Laguna Pai",
+          "url": "https://open.spotify.com/artist/4NmvNRWDxYHYMKt4yiMljS"
+        }
+      ],
+      "duration_ms": 254085,
+      "name": "Aroma de Caf\u00e9",
+      "url": "https://open.spotify.com/track/3RQz6NX8vYIqu179IUU1Q8"
+    },
+    {
+      "added_at": "2024-06-12 21:02:48",
+      "album": {
         "name": "Qui\u00e9n Sos?",
         "url": "https://open.spotify.com/album/3ciuW3aqUEX2Yx76S6ZrEA"
       },
@@ -1211,26 +1227,6 @@
       "duration_ms": 231464,
       "name": "Qui\u00e9n Sos?",
       "url": "https://open.spotify.com/track/2iq53i4P2VSj3Qc3DYbQTH"
-    },
-    {
-      "added_at": "2024-06-12 21:02:48",
-      "album": {
-        "name": "Nonpalidece",
-        "url": "https://open.spotify.com/album/1kYgzpnvsVgE3QOf1Gq1zm"
-      },
-      "artists": [
-        {
-          "name": "Nonpalidece",
-          "url": "https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe"
-        },
-        {
-          "name": "Stuartinfk",
-          "url": "https://open.spotify.com/artist/73vQG2QcCRTld4tt9cQMpk"
-        }
-      ],
-      "duration_ms": 219936,
-      "name": "La Alegr\u00eda Manda",
-      "url": "https://open.spotify.com/track/0xlJjSgFvffjl78AE5003Q"
     }
   ],
   "unique_name": "Atardecer en la playa",

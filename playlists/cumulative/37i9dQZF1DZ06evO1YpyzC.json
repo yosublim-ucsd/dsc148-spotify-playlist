@@ -631,6 +631,24 @@
     },
     {
       "album": {
+        "name": "Gorgeous",
+        "url": "https://open.spotify.com/album/7iwSy6qIzLQ3aTpkjcTJrF"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185773,
+      "name": "Gorgeous",
+      "url": "https://open.spotify.com/track/1gZoMw9jMH7MfbeRhFcOli"
+    },
+    {
+      "album": {
         "name": "Different Man",
         "url": "https://open.spotify.com/album/7dfTBn7wtgKEchVmyipBl1"
       },

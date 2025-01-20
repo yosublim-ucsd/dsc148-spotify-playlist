@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "JMSN",
+        "url": "https://open.spotify.com/album/3vxlICTyRDnBXPgEAyUSWT"
+      },
+      "artists": [
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/6HCkJzbswOIc7Qc5TJ1n5l"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 394400,
+      "name": "'Bout It",
+      "url": "https://open.spotify.com/track/3414vfp4uaJNFqFFj9sUvz"
+    },
+    {
+      "album": {
         "name": "...Baby One More Time (from Kung Fu Panda 4)",
         "url": "https://open.spotify.com/album/0GsfxGnifHBtyVIgDJaYJo"
       },
@@ -3744,7 +3762,7 @@
       ],
       "date_added": "2024-12-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 202000,
       "name": "Chest Pain (I Love)",
       "url": "https://open.spotify.com/track/3gPYoFtn70aTgl546XVSET"

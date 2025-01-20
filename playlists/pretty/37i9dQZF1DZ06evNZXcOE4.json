@@ -1,12 +1,12 @@
 {
   "description": "This is Jane's Addiction. The essential tracks, all in one playlist.",
-  "num_followers": 43143,
+  "num_followers": 43152,
   "original_name": "This Is Jane's Addiction",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAA35s1SV1CQ/jtl5NAycae6",
+  "snapshot_id": "Z4rvAAAAAADHcY8mw+X0NQPN91Us4ttO",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 269613,
-      "name": "Twisted Tales",
-      "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
+      "duration_ms": 187746,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/5SleusK2Wc2SH46DVidSES"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
-        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
+        "name": "Jane's Addiction (Live)",
+        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 326520,
-      "name": "Sympathy for the Devil - from Sons of Anarchy",
-      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
+      "duration_ms": 243664,
+      "name": "Rock & Roll",
+      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 187746,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/5SleusK2Wc2SH46DVidSES"
+      "duration_ms": 269613,
+      "name": "Twisted Tales",
+      "url": "https://open.spotify.com/track/1jcINBNyQwQW4fC83C3l51"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jane's Addiction (Live)",
-        "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
+        "name": "Songs of Anarchy: Volume 2 (Music from Sons of Anarchy)",
+        "url": "https://open.spotify.com/album/26zNMJYGEKI4lNVZoMGO6c"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 243664,
-      "name": "Rock & Roll",
-      "url": "https://open.spotify.com/track/5D3jslN9eR4jcbsVpt7x6g"
+      "duration_ms": 326520,
+      "name": "Sympathy for the Devil - from Sons of Anarchy",
+      "url": "https://open.spotify.com/track/3kJUF78V1W8FQ0PdngeDtV"
     },
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imminent Redemption",
-        "url": "https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 184761,
-      "name": "Imminent Redemption",
-      "url": "https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 325291,
       "name": "Sympathy",
       "url": "https://open.spotify.com/track/235s3YXmK3PiT4ALbl8cSF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imminent Redemption",
+        "url": "https://open.spotify.com/album/1jezAfCTEWx7jbda6iUxAi"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 184761,
+      "name": "Imminent Redemption",
+      "url": "https://open.spotify.com/track/4ysBDkdjmgz56zPVswaA7B"
     },
     {
       "added_at": null,
@@ -459,22 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kettle Whistle",
-        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 263266,
-      "name": "My Cat's Name Is Maceo - Demo",
-      "url": "https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -491,8 +475,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Great Escape Artist",
-        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
       },
       "artists": [
         {
@@ -500,9 +484,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 228040,
-      "name": "I'll Hit You Back",
-      "url": "https://open.spotify.com/track/2qtXHxCj2sTZHwXQbAvIT0"
+      "duration_ms": 263266,
+      "name": "My Cat's Name Is Maceo - Demo",
+      "url": "https://open.spotify.com/track/64evVMjyow5mvSOtqNGUZY"
     },
     {
       "added_at": null,
@@ -523,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kettle Whistle",
-        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+        "name": "The Great Escape Artist",
+        "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
       "artists": [
         {
@@ -532,9 +516,9 @@
           "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
         }
       ],
-      "duration_ms": 467493,
-      "name": "Kettle Whistle",
-      "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
+      "duration_ms": 228040,
+      "name": "I'll Hit You Back",
+      "url": "https://open.spotify.com/track/2qtXHxCj2sTZHwXQbAvIT0"
     },
     {
       "added_at": null,
@@ -555,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 467493,
+      "name": "Kettle Whistle",
+      "url": "https://open.spotify.com/track/1dtmoGPBXf345SW4HT5QUM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Great Escape Artist",
         "url": "https://open.spotify.com/album/0mqzGqI1ZDOWkr7we7Uard"
       },
@@ -571,22 +571,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kettle Whistle",
-        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
-      },
-      "artists": [
-        {
-          "name": "Jane's Addiction",
-          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
-        }
-      ],
-      "duration_ms": 275333,
-      "name": "Slow Divers - Live",
-      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Jane's Addiction (Live)",
         "url": "https://open.spotify.com/album/28ap5k3SX3zdEztr89gPJa"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 211037,
       "name": "1%",
       "url": "https://open.spotify.com/track/6rlo6XpkwwlFRksxLsCqYK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kettle Whistle",
+        "url": "https://open.spotify.com/album/2N0n31aYPEwQGUQxNvhfMw"
+      },
+      "artists": [
+        {
+          "name": "Jane's Addiction",
+          "url": "https://open.spotify.com/artist/02NfyD6AlLA12crYzw5YcR"
+        }
+      ],
+      "duration_ms": 275333,
+      "name": "Slow Divers - Live",
+      "url": "https://open.spotify.com/track/4KTJNobIzYHGWn0BkQA03r"
     },
     {
       "added_at": null,

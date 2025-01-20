@@ -1,6 +1,6 @@
 {
   "description": "Os brabos do hip hop nacional. Foto: Racionais MCs",
-  "num_followers": 17908,
+  "num_followers": 17906,
   "original_name": "Cole\u00e7\u00e3o Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -151,6 +151,38 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
+        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 303560,
+      "name": "Vida Loka, Pt. 1",
+      "url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "A Procura da Batida Perfeita",
+        "url": "https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw"
+      },
+      "artists": [
+        {
+          "name": "Marcelo D2",
+          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
+        }
+      ],
+      "duration_ms": 184200,
+      "name": "A Procura da Batida Perfeita",
+      "url": "https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "Contra N\u00f3s Ningu\u00e9m Ser\u00e1",
         "url": "https://open.spotify.com/album/23ieEuWkymGJWTP3PlXLRa"
       },
@@ -175,38 +207,6 @@
       "duration_ms": 339773,
       "name": "That's My Way",
       "url": "https://open.spotify.com/track/4M7bbRsVNB8iWQaX8Sbfln"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "A Procura da Batida Perfeita",
-        "url": "https://open.spotify.com/album/00J2Y1PJGdkxBhVMjjZ4uw"
-      },
-      "artists": [
-        {
-          "name": "Marcelo D2",
-          "url": "https://open.spotify.com/artist/1vEN3d3dJbmdHQpXD6AIkL"
-        }
-      ],
-      "duration_ms": 184200,
-      "name": "A Procura da Batida Perfeita",
-      "url": "https://open.spotify.com/track/5RrGmkgqYdtpavrbDQhLMi"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Nada Como um Dia Ap\u00f3s o Outro Dia, Vol. 1 & 2",
-        "url": "https://open.spotify.com/album/4HcPzKyKVtcZCwJgesoZWn"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 303560,
-      "name": "Vida Loka, Pt. 1",
-      "url": "https://open.spotify.com/track/6m8AgjfI28ER6odzMxmHtR"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -355,30 +355,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Heresia",
-        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
-      },
-      "artists": [
-        {
-          "name": "Djonga",
-          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
-        },
-        {
-          "name": "Coyote Beatz",
-          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 223892,
-      "name": "O Mundo \u00e9 Nosso",
-      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "O Glorioso Retorno de Quem Nunca Esteve Aqui",
         "url": "https://open.spotify.com/album/57PWjWHzqzODblomXxnQca"
       },
@@ -451,6 +427,46 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
+        "name": "Oriente (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        }
+      ],
+      "duration_ms": 529597,
+      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Heresia",
+        "url": "https://open.spotify.com/album/2Mlk1lNZ2pzDxvLhLDVUw2"
+      },
+      "artists": [
+        {
+          "name": "Djonga",
+          "url": "https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY"
+        },
+        {
+          "name": "Coyote Beatz",
+          "url": "https://open.spotify.com/artist/2PhFsxtwCQLS3e9SJwDN3j"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 223892,
+      "name": "O Mundo \u00e9 Nosso",
+      "url": "https://open.spotify.com/track/2DCmiAMyZGPLiDh47Upi9Z"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
         "name": "\u00caxito",
         "url": "https://open.spotify.com/album/3d19qMiZoSQHsgKshBpyuf"
       },
@@ -479,18 +495,18 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Oriente (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/4pRmsv8T3XHrdf7EgT9mRJ"
+        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
+        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
       },
       "artists": [
         {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+          "name": "Black Alien",
+          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 529597,
-      "name": "Vagabundo Tamb\u00e9m Ama / Vida Longa Mundo Pequeno - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/2DgQLg0xllUwBwAtMsYiNH"
+      "duration_ms": 256760,
+      "name": "Babylon By Gus",
+      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -515,22 +531,6 @@
       "duration_ms": 256161,
       "name": "Universo",
       "url": "https://open.spotify.com/track/5viYjPE1J4BxCwBeY5Jma1"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Babylon By Gus Vol. 1 - o Ano do Macaco",
-        "url": "https://open.spotify.com/album/0RnWcHck1zMA2xIPxDMNkH"
-      },
-      "artists": [
-        {
-          "name": "Black Alien",
-          "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
-        }
-      ],
-      "duration_ms": 256760,
-      "name": "Babylon By Gus",
-      "url": "https://open.spotify.com/track/4kDzgYkIVT1JHFpKZOPxGW"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -571,6 +571,26 @@
       "duration_ms": 263078,
       "name": "Raplord",
       "url": "https://open.spotify.com/track/3YSagrvQP9x32rAjEI48PL"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Mandona (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4"
+      },
+      "artists": [
+        {
+          "name": "Oriente",
+          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
+        },
+        {
+          "name": "MC Hariel",
+          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Mandona - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -671,26 +691,6 @@
       "duration_ms": 366413,
       "name": "Cantando pro Santo",
       "url": "https://open.spotify.com/track/4ObGL3b6H7kbe3r7QgaIr9"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
-        "name": "Mandona (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/3Uzv21BbYSmMkKUm70zCw4"
-      },
-      "artists": [
-        {
-          "name": "Oriente",
-          "url": "https://open.spotify.com/artist/0IVBT8qQNwvHLzOJL6kGpE"
-        },
-        {
-          "name": "MC Hariel",
-          "url": "https://open.spotify.com/artist/0pcoadNMmvrUyab1RxWBoV"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Mandona - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/0R4dwzW253KTxchGryT1H6"
     },
     {
       "added_at": "2024-08-16 20:28:24",
@@ -915,22 +915,6 @@
     {
       "added_at": "2024-08-16 20:28:24",
       "album": {
-        "name": "Racionais 3 D\u00e9cadas",
-        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
-      },
-      "artists": [
-        {
-          "name": "Racionais MC's",
-          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
-        }
-      ],
-      "duration_ms": 354310,
-      "name": "Negro Drama - Ao Vivo",
-      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
-    },
-    {
-      "added_at": "2024-08-16 20:28:24",
-      "album": {
         "name": "Mixtape: O Homem N\u00e3o para Nunca, Vol. 1",
         "url": "https://open.spotify.com/album/1lXyXfLQHjxtxWJKquzMjF"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 294913,
       "name": "Vem Tranquilo",
       "url": "https://open.spotify.com/track/7lllBXlYPpeocz95bTVyPO"
+    },
+    {
+      "added_at": "2024-08-16 20:28:24",
+      "album": {
+        "name": "Racionais 3 D\u00e9cadas",
+        "url": "https://open.spotify.com/album/5gmsqaExyN56rGxJxY6yLX"
+      },
+      "artists": [
+        {
+          "name": "Racionais MC's",
+          "url": "https://open.spotify.com/artist/29CQLw9uLWsl8Qkz9holfr"
+        }
+      ],
+      "duration_ms": 354310,
+      "name": "Negro Drama - Ao Vivo",
+      "url": "https://open.spotify.com/track/4hPY8Hyit0AqHTZZp4a861"
     },
     {
       "added_at": "2024-08-16 20:28:24",

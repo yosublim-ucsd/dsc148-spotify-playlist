@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Yoa.
 
-1,815 songs - 4 day 2 hr 21 min
+1,818 songs - 4 day 2 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [@renee\_0928](https://open.spotify.com/track/7AslDTik5dobaIM4jCAUHo) | [Fds/4eva](https://open.spotify.com/artist/6BAS4CMtL9MbsriwI4SL0Z) | [Greatest Hits](https://open.spotify.com/album/5X2G9WeSFy9EADzx7bT0b1) | 5:05 | 2022-03-24 | 2022-06-27 |
 | [\\ sympathisch](https://open.spotify.com/track/79EvchqSO0FCfCXuO0UjSX) | [Mayberg](https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23) | [vier aufnahmen](https://open.spotify.com/album/4IKSEMrBMNOF9UC6mvg3EM) | 2:25 | 2023-09-15 | 2024-03-30 |
 | [A Good Life](https://open.spotify.com/track/7cqSU30Mt3B6PsRaMVHsIh) | [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM) | [A Good Life](https://open.spotify.com/album/3zdQOtgmCjcOqDUUCAKGkQ) | 4:00 | 2024-03-15 | 2024-04-06 |
-| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 |  |
+| [A LITTLE LIFE](https://open.spotify.com/track/3tsCfzU2MN0TzCaM2FnLzV) | [DRIIA](https://open.spotify.com/artist/4bBcD1Iabv9tLFcZ6FGdys) | [A LITTLE LIFE](https://open.spotify.com/album/1rwrlXjo8XPfZcy6vVObB1) | 3:02 | 2024-08-09 | 2025-01-20 |
 | [A Lua \- Spotify Singles](https://open.spotify.com/track/2sSbQIX5cDgtzJAXnLqHpV) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [A Lua \(Spotify Singles\)](https://open.spotify.com/album/3ZUMZ2yyqkvEPI6S6eho3a) | 2:39 | 2022-03-24 | 2022-04-14 |
 | [a quien culpar](https://open.spotify.com/track/4nSXOnB7mY9gw8Rtd8v1SN) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2), [husa.](https://open.spotify.com/artist/4rCSPhgFKs3vWVOnpcuWBa) | [a quien culpar](https://open.spotify.com/album/3V14MXZOAbr2QGXFyEgtp8) | 4:10 | 2022-06-29 | 2023-05-09 |
 | [a Testa in giù](https://open.spotify.com/track/7CSPoq67OZ1HSyM6UGzvhI) | [NASKA](https://open.spotify.com/artist/4r1DHaB2yIhddOkTF92d1d) | [a Testa in giù](https://open.spotify.com/album/33YeUJsVqvrqjp0h4YfO2J) | 2:46 | 2023-04-12 | 2023-10-21 |
@@ -284,6 +284,7 @@
 | [chameleons](https://open.spotify.com/track/344QBfyJrOAKfDgZ8JkRvs) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [chameleons](https://open.spotify.com/album/0qVtwRqe3IYlKAVKf9TO6T) | 2:45 | 2022-06-29 | 2022-08-02 |
 | [Chamomile](https://open.spotify.com/track/2ww3X0G1ucfWfn5FpitNDC) | [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G) | [Chamomile](https://open.spotify.com/album/4meIT5JIHaFhWs4dSJzR6P) | 3:07 | 2024-03-08 | 2024-05-20 |
 | [Change the world](https://open.spotify.com/track/20K58dbJR2jwoNLUY9BDRk) | [Penthouse](https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L) | [Change the world](https://open.spotify.com/album/3WhxaWD61nmnFr0HZcCel7) | 2:57 | 2022-02-03 | 2022-06-27 |
+| [Characters I Drew](https://open.spotify.com/track/7LQpKrAdQocjWnrFyXetpX) | [ISHAN](https://open.spotify.com/artist/4bOSK7fslWnqp8M4YQRBzm) | [Characters I Drew](https://open.spotify.com/album/5uUm9Iczo5UwkIw5XBHub3) | 4:36 | 2025-01-17 |  |
 | [CHEAP WINE](https://open.spotify.com/track/3Vr93h1O6gt3eacdDvNld5) | [Chicocurlyhead](https://open.spotify.com/artist/4EzUsFLITcQxDuuDeADaV1) | [CHEAP WINE](https://open.spotify.com/album/2XmXLZErwVUVTJPGJtMluI) | 2:16 | 2022-11-11 | 2023-05-31 |
 | [Chemistry](https://open.spotify.com/track/7yw4MSh68mhXs1bIlWkE2G) | [Ania Leon](https://open.spotify.com/artist/43QBxtuscxneLyKYYEFfEu) | [Chemistry](https://open.spotify.com/album/6LcvpXRe8CBUuQW1oBPJsX) | 3:36 | 2022-09-08 | 2023-05-23 |
 | [Cherry](https://open.spotify.com/track/36RGU7buus2UUtrPZ78hkR) | [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Cherry](https://open.spotify.com/album/07wf8AuTUtfUR9MlopkRBM) | 3:25 | 2022-02-10 | 2022-02-27 |
@@ -617,6 +618,7 @@
 | [Heat Up](https://open.spotify.com/track/4Zy41OO1JR7ubYW1LnJ3tA) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [ROOKERY](https://open.spotify.com/album/28WPMClVfDtMHaNrrjbPcX) | 3:02 | 2022-06-29 | 2022-08-02 |
 | [Heathrow](https://open.spotify.com/track/0iNlcioLpaFNEpL0OkN2oa) | [Rhys](https://open.spotify.com/artist/5yMkHmsdRZA4OVeCylF4xU) | [Heathrow](https://open.spotify.com/album/4RGF1g5xJjfcd809OFyN4F) | 3:55 | 2024-09-13 |  |
 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 | 2024-04-12 | 2024-08-17 |
+| [HEAVEN IS A HARLEY](https://open.spotify.com/track/1OTbM3iXNdnHey6QkLPk71) | [Tiger La Flor](https://open.spotify.com/artist/5rWU8Vm32I8BJtPtrY5JC7) | [HEAVEN IS A HARLEY](https://open.spotify.com/album/0nNrZ5mRQ0PznpTFKEyjcR) | 3:01 | 2025-01-17 |  |
 | [hedonist.](https://open.spotify.com/track/1ilxwybAc0Sd3Gwc4oRKgi) | [CVLTE](https://open.spotify.com/artist/3IVZ4DbJgnhOtXQruNdomA) | [HEDONIST](https://open.spotify.com/album/2hJqttVXOCMHCGrfqkkuRl) | 2:55 | 2022-02-10 | 2022-11-19 |
 | [Hell You Call A Dream](https://open.spotify.com/track/3LwBBAvEa9qhajKoHlJi4z) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [Hell You Call A Dream / Qué Más Quieres](https://open.spotify.com/album/0tkvYVQovNWfCE5tf1Viir) | 2:56 | 2024-05-03 | 2024-06-29 |
 | [Hennesy \- Acoustic Version](https://open.spotify.com/track/5eEBWObr9qNmFoPs2t8ifh) | [Haisam](https://open.spotify.com/artist/5h0cBKxBX54CqPaQU6tJhk) | [Sâmflowers](https://open.spotify.com/album/4r2sh8ZMxq8yc3qT19bM3m) | 3:27 | 2022-05-27 | 2023-05-09 |
@@ -951,7 +953,7 @@
 | [Mi Bom Bom](https://open.spotify.com/track/1iUfBsWrQejyW8cgS2zUDb) | [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [Nesi](https://open.spotify.com/artist/0f6U482Lbo91QNqNFH4Tat) | [Mi Bom Bom](https://open.spotify.com/album/3YiZkLFhpyZRQNju4VjNyW) | 2:55 | 2022-03-24 | 2022-04-19 |
 | [Mi Coche](https://open.spotify.com/track/3qwHCA1onB4XEJlIyhlD8q) | [IVAN$ITO](https://open.spotify.com/artist/0cPmSFfjpop7imPVWSk2yc) | [Mi Coche](https://open.spotify.com/album/0eRdsQJwCYZi9D7SlYYygD) | 2:00 | 2022-03-24 | 2022-04-13 |
 | [Mia Mia](https://open.spotify.com/track/3ayLYD0w5LXcNXnV0S0Cek) | [Freek](https://open.spotify.com/artist/3mDNOQ147emFZ8WK7Fa2nI) | [Mia Mia](https://open.spotify.com/album/5r12pt8Lw8cf65c3aYOOT7) | 2:17 | 2022-03-24 | 2022-04-21 |
-| [Midnight](https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW) | [Abigail Liddle](https://open.spotify.com/artist/1B0TsblLRxK3u6DDYXehq1) | [Midnight](https://open.spotify.com/album/4rHE24L6n4yHtkxpRvUOd1) | 3:08 | 2024-09-13 |  |
+| [Midnight](https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW) | [Abigail Liddle](https://open.spotify.com/artist/1B0TsblLRxK3u6DDYXehq1) | [Midnight](https://open.spotify.com/album/4rHE24L6n4yHtkxpRvUOd1) | 3:08 | 2024-09-13 | 2025-01-20 |
 | [Miel](https://open.spotify.com/track/3wGbZ2074p60hhavjQMF6l) | [Valentina Rico](https://open.spotify.com/artist/1VqjlTkCPuK6amNOlkM18d) | [Si Te Soy Sincera](https://open.spotify.com/album/70uZwbL7dkxlCxuYhNmrSS) | 2:39 | 2023-07-13 | 2023-11-18 |
 | [Milkshakes](https://open.spotify.com/track/6JbCqm0U3g0K87HAviPRkk) | [Soft Launch](https://open.spotify.com/artist/4hq1lrK8XlrErNZ3xs3586) | [Milkshakes](https://open.spotify.com/album/5ef6naEoTalZAj1Tjy4rMK) | 3:17 | 2024-09-27 |  |
 | [Mindset](https://open.spotify.com/track/5XJm3lWxrPPYI6NrjYik5G) | [Haven](https://open.spotify.com/artist/237vmjKXOc0nwXk4vpl89F), [WILD](https://open.spotify.com/artist/0xqieTdmtCWtN7fCAsQnnO) | [Mindset](https://open.spotify.com/album/1jyQeLQXGX3RI1WRMKUhMR) | 3:10 | 2024-11-08 |  |
@@ -1354,7 +1356,7 @@
 | [Somebody's Pleasure](https://open.spotify.com/track/3e1rs346dsDDwpqTRGlRZR) | [Aziz Hedra](https://open.spotify.com/artist/6ygKuZFz2sRggPZRaLHVHD) | [Somebody's Pleasure](https://open.spotify.com/album/5S5vnFRSXVua5SbdoY9S8y) | 3:43 | 2023-05-30 | 2023-11-18 |
 | [Someone New](https://open.spotify.com/track/03E4jj46Qr0EEXbeQcTDNR) | [Hashy](https://open.spotify.com/artist/4Jmv1DRK6zstwBwF2W91D1) | [Someone New](https://open.spotify.com/album/6M8lfP89jIuqMLgZc6kVgK) | 3:46 | 2022-03-24 | 2023-04-18 |
 | [Something About You and Me](https://open.spotify.com/track/6ZqGNMqd1fjv6NDOETJui8) | [LilithQueenB](https://open.spotify.com/artist/63omHXed38Mlx1DyIlSP3m), [JNYBeatz](https://open.spotify.com/artist/7AIrMj0FrW9ouOsSfTjhd9) | [Something About You and Me](https://open.spotify.com/album/1l8zKcGI0fpTpLT1UmdgGG) | 3:42 | 2023-05-30 | 2024-02-03 |
-| [Something I Can't Have](https://open.spotify.com/track/6PDiZpqgb1vr2cwShq4wKb) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Something I Can't Have](https://open.spotify.com/album/2ADJ24FY84dYOphLYnrZ7i) | 2:32 | 2024-08-02 |  |
+| [Something I Can't Have](https://open.spotify.com/track/6PDiZpqgb1vr2cwShq4wKb) | [Tiffany Aris](https://open.spotify.com/artist/4D4y0HNxJLmJBNXQkrVbHo) | [Something I Can't Have](https://open.spotify.com/album/2ADJ24FY84dYOphLYnrZ7i) | 2:32 | 2024-08-02 | 2025-01-20 |
 | [Sometimes](https://open.spotify.com/track/0cTDPvlLlj1T3WwUMzX6Uq) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [Sometimes](https://open.spotify.com/album/1H1vOkQfBS8XXPCN62GG2p) | 2:55 | 2023-10-05 | 2024-03-16 |
 | [Sorry](https://open.spotify.com/track/5qaCnFvjHw3P4qL02pFSlR) | [Bad Nerves](https://open.spotify.com/artist/7IPyXY4ZHkuvQY1ny8TnMQ) | [Still Nervous](https://open.spotify.com/album/6PWrD6nfaFP8DEJNCvz9Eh) | 3:02 | 2024-05-31 | 2024-11-01 |
 | [sotto casa tua](https://open.spotify.com/track/1IRpiETZQGRNecgAfJOmHe) | [Frada](https://open.spotify.com/artist/1khPlpMPliiZeK53WWSWXY), [Tenth Sky](https://open.spotify.com/artist/2VFljEy461d5COnyYGISD1) | [sotto casa tua](https://open.spotify.com/album/4kLQ38DsCUQ4RPDwmWweWu) | 2:42 | 2022-06-29 | 2022-08-02 |
@@ -1643,6 +1645,7 @@
 | [À nos jours](https://open.spotify.com/track/5vu4ohLMtoQ8F1ozWnim3Q) | [TERRIER](https://open.spotify.com/artist/3GdYpfWMn7epxH2sHheonJ) | [Naissance](https://open.spotify.com/album/777TYc92TnLNyqITPySyBG) | 3:39 | 2022-03-24 | 2022-08-02 |
 | [Ánh Đèn Phố](https://open.spotify.com/track/6waGMOhiJ68iq8gpO3dqib) | [The Cassette](https://open.spotify.com/artist/1fQjpmcx8iNIy1gKRelTD2) | [Rừng Đom Đóm](https://open.spotify.com/album/68bMwerbq9axDV5m1wZYAn) | 4:42 | 2023-05-30 | 2024-03-09 |
 | [Öl İçimde](https://open.spotify.com/track/0WLyMvzaAjKQd7FTAYvARW) | [Paptircem](https://open.spotify.com/artist/6c5OFegHscPZXitA884R1b) | [Öl İçimde](https://open.spotify.com/album/41SssnSpIajL67pupQYIwk) | 3:13 | 2023-11-17 | 2024-01-20 |
+| [Ölme](https://open.spotify.com/track/2Ka3Q9nzUdhBQDLNhjkRAX) | [Lotusx](https://open.spotify.com/artist/0nllPfFG95RzZnqdWLLDCD) | [Hermès](https://open.spotify.com/album/3vEyocjiqnhtclO3cwYo4m) | 2:38 | 2025-01-17 |  |
 | [đã từng](https://open.spotify.com/track/4HFtL01dqao5pZ3ka6Ys3f) | [Pay](https://open.spotify.com/artist/0LzKYyu8mwHXfMih4lnMXY), [Lazii](https://open.spotify.com/artist/2mrZ4gGfWba9oB1mfm9j90) | [Paylist](https://open.spotify.com/album/5Dk9wcrQb7PWiyQFuMYMA3) | 4:21 | 2023-05-30 | 2023-12-16 |
 | [Беги](https://open.spotify.com/track/3L9km34AEZc5UmXOPg4hFC) | [ETERNAL INSOMNIA](https://open.spotify.com/artist/4sntfxUBTb75ZrUg9bUNKA) | [C'est La Vie](https://open.spotify.com/album/3tlHm19wdfHJVLLUxCPEgC) | 3:29 | 2022-03-24 | 2022-04-21 |
 | [БОКАЛ \- prod\. by the potato man](https://open.spotify.com/track/1m1TO9TdlqpDMeScBGyJaP) | [ETERNAL INSOMNIA](https://open.spotify.com/artist/4sntfxUBTb75ZrUg9bUNKA) | [ОРАНЖ](https://open.spotify.com/album/7xCMicp6qvgcDjoNUD4TQP) | 2:29 | 2022-03-24 | 2022-04-21 |

@@ -7601,6 +7601,28 @@
     },
     {
       "album": {
+        "name": "Solteira",
+        "url": "https://open.spotify.com/album/3CubPmwisBZzjAKtuhdn6n"
+      },
+      "artists": [
+        {
+          "name": "Thauane",
+          "url": "https://open.spotify.com/artist/6aepfxKPS12RE4l4BzOQ3V"
+        },
+        {
+          "name": "MVP Hits",
+          "url": "https://open.spotify.com/artist/34pdHPgzLjufpowIO8XqEi"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161378,
+      "name": "Solteira",
+      "url": "https://open.spotify.com/track/5vU7vQoN0bzlC6pp4WAp5W"
+    },
+    {
+      "album": {
         "name": "Felipe Ferraz, Nova Face (EP 3) [Ao Vivo]",
         "url": "https://open.spotify.com/album/7KmQuOPFH95OJ184tniNvm"
       },

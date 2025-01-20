@@ -1,15 +1,35 @@
 {
   "description": "Vibrez au rythme des morceaux urbains et Afro en feu \ud83c\udfb6",
-  "num_followers": 27336,
+  "num_followers": 27343,
   "original_name": "SEHD",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4P3LgAAAAD0MVOUM8Gy2ivQ9co0ogiU",
+  "snapshot_id": "Z4yuZwAAAABAAd4UEg2KHSumTcHD/0Gf",
   "tracks": [
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
+      "album": {
+        "name": "Couteau dans le dos",
+        "url": "https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Couteau dans le dos",
+      "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
+    },
+    {
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "APOCALYPSE",
         "url": "https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9"
@@ -25,7 +45,59 @@
       "url": "https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
+      "album": {
+        "name": "J'tavais dis",
+        "url": "https://open.spotify.com/album/4ELf00wIGNNYFT08AhUS6y"
+      },
+      "artists": [
+        {
+          "name": "Nono La Grinta",
+          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
+        }
+      ],
+      "duration_ms": 112615,
+      "name": "J'tavais dis",
+      "url": "https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge"
+    },
+    {
+      "added_at": "2025-01-19 07:48:55",
+      "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "ALBATROS",
+      "url": "https://open.spotify.com/track/3nrzylrxjpRueVGBBpXhZT"
+    },
+    {
+      "added_at": "2025-01-19 07:48:55",
+      "album": {
+        "name": "2, 3 shots",
+        "url": "https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 153170,
+      "name": "2, 3 shots",
+      "url": "https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5"
+    },
+    {
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "CARR\u00c9 OK",
         "url": "https://open.spotify.com/album/1RKX8Ub8154NCWzAuxjTHw"
@@ -45,39 +117,7 @@
       "url": "https://open.spotify.com/track/338wPdNyvOPGZddfk81EKA"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
-      "album": {
-        "name": "J'tavais dis",
-        "url": "https://open.spotify.com/album/4ELf00wIGNNYFT08AhUS6y"
-      },
-      "artists": [
-        {
-          "name": "Nono La Grinta",
-          "url": "https://open.spotify.com/artist/4P2HohWBtvSxxwabNDdYXN"
-        }
-      ],
-      "duration_ms": 112615,
-      "name": "J'tavais dis",
-      "url": "https://open.spotify.com/track/5Cn8WdSHzl0ieLsbeXdwge"
-    },
-    {
-      "added_at": "2025-01-12 17:09:02",
-      "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "MARADONA",
-      "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
-    },
-    {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Monaco",
         "url": "https://open.spotify.com/album/66RMOoAVg0WDEs9hmv48ZT"
@@ -93,7 +133,7 @@
       "url": "https://open.spotify.com/track/2tT8SYE7NnNDKbBsHWPIDY"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -109,7 +149,23 @@
       "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
+    },
+    {
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "A LA VIE A LA MORT",
         "url": "https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9"
@@ -125,7 +181,7 @@
       "url": "https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "CHIRON",
         "url": "https://open.spotify.com/album/1S2sseTcLXsHeyimeIz2gW"
@@ -141,7 +197,7 @@
       "url": "https://open.spotify.com/track/46r8XGC6pHS7EEgn6xjrXD"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "KINTSUGI",
         "url": "https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt"
@@ -161,7 +217,7 @@
       "url": "https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "DIPLOMATICO",
         "url": "https://open.spotify.com/album/5Z03dnJAXg3xJStxUWWUuH"
@@ -177,7 +233,7 @@
       "url": "https://open.spotify.com/track/2CgT7751h4Rply3vAkTYEk"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Et si j'\u00e9choue ?",
         "url": "https://open.spotify.com/album/13DOol2YIm4SV5opoucJpu"
@@ -193,7 +249,7 @@
       "url": "https://open.spotify.com/track/5tl5NRfjvOEZaVuWBQHOf9"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "VENIN",
         "url": "https://open.spotify.com/album/6oWVZRNxLYd8K32YuRAbzz"
@@ -209,7 +265,7 @@
       "url": "https://open.spotify.com/track/1FEh2VLXCzHr4DhMLufrs5"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "WAHALA (FEAT. OLAMIDE)",
         "url": "https://open.spotify.com/album/59BxJKNg7wRYlJxAahb3YW"
@@ -229,23 +285,7 @@
       "url": "https://open.spotify.com/track/6ZBXya9ewPZa6zXDRfPhog"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
-      "album": {
-        "name": "Skhoon",
-        "url": "https://open.spotify.com/album/6jrdwfwfKKQbs7kbhnN3Z2"
-      },
-      "artists": [
-        {
-          "name": "Abduh",
-          "url": "https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk"
-        }
-      ],
-      "duration_ms": 179178,
-      "name": "Skhoon",
-      "url": "https://open.spotify.com/track/0lWhFSQ7eWejR3mOYPJ4zy"
-    },
-    {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Rien 100 Rien",
         "url": "https://open.spotify.com/album/2GLuHlc49dJKY8yzxUZb8p"
@@ -261,7 +301,7 @@
       "url": "https://open.spotify.com/track/6hKkzk8UlVUj9ioPCyeH1O"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Gelato",
         "url": "https://open.spotify.com/album/4GLsm6Gs0DcqMYDrleYbOo"
@@ -277,7 +317,7 @@
       "url": "https://open.spotify.com/track/2mb3iYJxuKBkRNSit6taT5"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Docteur (Spotify Singles)",
         "url": "https://open.spotify.com/album/5ku0mOl2AFb7eouaQeE2ig"
@@ -297,7 +337,7 @@
       "url": "https://open.spotify.com/track/5L2K7VRICXbFhAm7ebrQJ9"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Minimum \u00e7a",
         "url": "https://open.spotify.com/album/2q5EahZjBppWAcWXG6nuha"
@@ -313,7 +353,7 @@
       "url": "https://open.spotify.com/track/1lRtRYr979UcWFC0By63Er"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Focus",
         "url": "https://open.spotify.com/album/6ny3VhgjCxyIkGAJk7TjsK"
@@ -333,7 +373,7 @@
       "url": "https://open.spotify.com/track/1jHHHH1GlrwdO5az2Q6A6K"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "JVLIVS III : Ad Finem",
         "url": "https://open.spotify.com/album/6pWHaxvJmknxpUnWh6TcaJ"
@@ -353,7 +393,7 @@
       "url": "https://open.spotify.com/track/62L3acprR92NoRib0zWigG"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Un jour, je l'aurai",
         "url": "https://open.spotify.com/album/19UjRPhzBwQe0fVkPR05Lq"
@@ -369,7 +409,7 @@
       "url": "https://open.spotify.com/track/0Qx1ecCyHjCwGdKy85DZ8y"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Dracula",
         "url": "https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR"
@@ -385,7 +425,7 @@
       "url": "https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Rom\u00e9o",
         "url": "https://open.spotify.com/album/2G1S5u90hxevr1krTQHtaq"
@@ -405,7 +445,7 @@
       "url": "https://open.spotify.com/track/4bKCPRuTMaPTrj3TPisFu4"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "CAPITALE DU CRIME RADIO",
         "url": "https://open.spotify.com/album/2CrrhrtJku9X6bMuP4Ss7k"
@@ -425,7 +465,7 @@
       "url": "https://open.spotify.com/track/1aiXeh3DcFxD0tu8TdjH8j"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Coco",
         "url": "https://open.spotify.com/album/230L56lWpmJBSmZA7Fvsua"
@@ -445,7 +485,7 @@
       "url": "https://open.spotify.com/track/1HXC5IiGUqTEFl18IJ42Lm"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "PAQUETA",
         "url": "https://open.spotify.com/album/0qw2LFdyOFWvWUc2GGBBNS"
@@ -461,7 +501,7 @@
       "url": "https://open.spotify.com/track/5kvA2FZtSuUSZFMhezTJa3"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "LA MELO EST GANGX",
         "url": "https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1"
@@ -481,7 +521,7 @@
       "url": "https://open.spotify.com/track/6yqwxY8qifBBhyryjZutxk"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "VENI VIDI VICI",
         "url": "https://open.spotify.com/album/2vS6zdIbU16YO3zeZ50CcN"
@@ -497,7 +537,7 @@
       "url": "https://open.spotify.com/track/0KT1DHLTofoTRy1WTlco3r"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Guardia",
         "url": "https://open.spotify.com/album/3q8v30SjuOOQJQ93zXrvpa"
@@ -517,27 +557,7 @@
       "url": "https://open.spotify.com/track/0dBvXYsTinPdEncSmFgzql"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
-      "album": {
-        "name": "PHENOMENAL",
-        "url": "https://open.spotify.com/album/3r3AokuvjoimEMWYrHRnnO"
-      },
-      "artists": [
-        {
-          "name": "7ari",
-          "url": "https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6"
-        },
-        {
-          "name": "Ramoon",
-          "url": "https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja"
-        }
-      ],
-      "duration_ms": 196915,
-      "name": "PHENOMENAL",
-      "url": "https://open.spotify.com/track/5IZCHvhMEmurDfbQ6NqaKA"
-    },
-    {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "3DABI",
         "url": "https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r"
@@ -553,7 +573,7 @@
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "ZIGZAG",
         "url": "https://open.spotify.com/album/3xONo4cCWp0JG0PZ85rV1C"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/77lYswhyc95GFXBmYDWf7Z"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "POPO",
         "url": "https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo"
@@ -585,7 +605,7 @@
       "url": "https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "Zarzour",
         "url": "https://open.spotify.com/album/49KXJUuZOIXZSi79qEP1Pe"
@@ -601,27 +621,7 @@
       "url": "https://open.spotify.com/track/7t4XOS9MpF1pC0OBLnMiDy"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
-      "album": {
-        "name": "SABRE",
-        "url": "https://open.spotify.com/album/6g1Ydfai9gjc79aBIjCa3R"
-      },
-      "artists": [
-        {
-          "name": "Versa999",
-          "url": "https://open.spotify.com/artist/3RRMhfBORIKZm7UHVPxlaF"
-        },
-        {
-          "name": "NA",
-          "url": "https://open.spotify.com/artist/5WDfOtUWevOrIsfyYyktQl"
-        }
-      ],
-      "duration_ms": 195674,
-      "name": "KEDABA",
-      "url": "https://open.spotify.com/track/6EJIkDorvfRvFYPuEzJYm2"
-    },
-    {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "D\u00e9cennie",
         "url": "https://open.spotify.com/album/49gSslDoncGfaxtZfsHyTA"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/7wwQoJtPLBVeMIZlW11cp6"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "H'TARI",
         "url": "https://open.spotify.com/album/6wLgx3quBbSXht5TIpUez7"
@@ -657,7 +657,7 @@
       "url": "https://open.spotify.com/track/32BCg5KsxQsGZLjXPnJu5h"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "C'est pas joli",
         "url": "https://open.spotify.com/album/5YOpqhojYXnSkrPgea4WRD"
@@ -673,7 +673,7 @@
       "url": "https://open.spotify.com/track/4SpnH3YDyQeBa2nfMdRlSB"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -689,7 +689,7 @@
       "url": "https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e"
     },
     {
-      "added_at": "2025-01-12 17:09:02",
+      "added_at": "2025-01-19 07:48:55",
       "album": {
         "name": "M\u00e9lanine",
         "url": "https://open.spotify.com/album/0ovXNQjta5DdP31OAMlKXO"

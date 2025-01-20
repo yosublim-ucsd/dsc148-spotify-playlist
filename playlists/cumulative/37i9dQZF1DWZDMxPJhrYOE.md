@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-334 songs - 17 hr 8 min
+335 songs - 17 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -93,7 +93,7 @@
 | [Du Min](https://open.spotify.com/track/4kTFwVrxwwqj9yZoSEqoAV) | [TopGunn](https://open.spotify.com/artist/4nXezpatStChCEWVvYLjd5) | [Du Min](https://open.spotify.com/album/7DemS03wH7rndSG5MAeAdS) | 1:59 | 2024-08-29 | 2024-09-06 |
 | [Du og jeg](https://open.spotify.com/track/12RzHH3ZiYmBP6ehh33L20) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Du og jeg](https://open.spotify.com/album/0iyzRhtKLaGhdm4oZylw6O) | 3:55 | 2024-09-05 | 2024-09-13 |
 | [Edge of Saturday Night](https://open.spotify.com/track/0C1tRNlfakowVNFn1IMeCV) | [The Blessed Madonna](https://open.spotify.com/artist/4TvhRzxIL1le2PWCeUqxQw), [Kylie Minogue](https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA) | [Edge of Saturday Night](https://open.spotify.com/album/09VDiKeG4eFlqac8GAPAJQ) | 3:26 | 2024-08-16 | 2024-11-24 |
-| [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 |  |
+| [Ego](https://open.spotify.com/track/1mGM4dJe4v9DhBY3pRSpRj) | [Halsey](https://open.spotify.com/artist/26VFTg2z8YR0cCuwLzESi2) | [Ego](https://open.spotify.com/album/6uHcRBlMpgXSXv0I0rpxBx) | 3:18 | 2024-09-05 | 2025-01-20 |
 | [En Sammen](https://open.spotify.com/track/0rmjpEVY7Ay6oC2pXykuPW) | [D1MA](https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut) | [En Sammen](https://open.spotify.com/album/18i88ZCgHuTLE98m68gFSV) | 2:45 | 2024-08-29 | 2024-09-13 |
 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 | 2024-07-01 | 2024-08-01 |
 | [Eneste \(feat\. KESI\)](https://open.spotify.com/track/5ehIhNQBMskl6sPE9Jf4TH) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE) | [Eneste \(feat\. KESI\)](https://open.spotify.com/album/3x52rk2qRrPRlgJsbysqNB) | 2:14 | 2024-07-31 | 2024-08-06 |
@@ -121,6 +121,7 @@
 | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Forbidden Road \(From Better Man: Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ) | 3:17 | 2025-01-10 |  |
 | [Forever](https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj) | [Loreen](https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl) | [Forever](https://open.spotify.com/album/6ExhrcMMCBhL4wSIpLffA7) | 3:23 | 2024-07-31 | 2024-08-17 |
 | [Forever](https://open.spotify.com/track/0FlwhvrncUKrEAhzunmCKm) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season \(Forever\)](https://open.spotify.com/album/3qBWNcWifNhUKJAWzswdJY) | 4:28 | 2024-07-01 | 2024-08-01 |
+| [Forever Young](https://open.spotify.com/track/0wOdcEgqadzlYgBGunlHMV) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Forever Young](https://open.spotify.com/album/7xBAA2rjqdxZtJbi8FfdAn) | 2:58 | 2025-01-17 |  |
 | [Forget About Us](https://open.spotify.com/track/3wmnP7CY38ajyGfZUZ6vce) | [Perrie](https://open.spotify.com/artist/0o18Cfq9RAxRqi5W4JOEPe) | [Forget About Us](https://open.spotify.com/album/6POYLvI2aROBdhnJCKw2DD) | 3:06 | 2024-07-01 | 2024-08-01 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-07-01 | 2024-08-01 |
 | [Fortæl Mig Hvis Du Vil Noget Andet](https://open.spotify.com/track/3sCY4NA8PP7wV9d0BOHL34) | [Malte Ebert](https://open.spotify.com/artist/3UaEtP4pJGDhyEzy47AMzl) | [Fortæl Mig Hvis Du Vil Noget Andet](https://open.spotify.com/album/7gQPPghYwxOGccaEDyUhUG) | 3:16 | 2024-11-14 | 2024-11-22 |

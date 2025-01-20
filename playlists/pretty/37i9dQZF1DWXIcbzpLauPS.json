@@ -1,6 +1,6 @@
 {
   "description": "the best new metalcore - where brutality and technicality collide. Cover: Silent Planet",
-  "num_followers": 939107,
+  "num_followers": 939138,
   "original_name": "The Core",
   "owner": {
     "name": "Spotify",
@@ -531,22 +531,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Conflict",
-        "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
-      },
-      "artists": [
-        {
-          "name": "Slaughter to Prevail",
-          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Conflict",
-      "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "People Watching",
         "url": "https://open.spotify.com/album/1PRvYCv9h0rlR4AP54yOnN"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 190200,
       "name": "Barely Breathing (feat. Against The Current)",
       "url": "https://open.spotify.com/track/7Ds5R4lrpWAtVGAspvd5lE"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Conflict",
+        "url": "https://open.spotify.com/album/4duvgcgX88O1QzeoGl0DuE"
+      },
+      "artists": [
+        {
+          "name": "Slaughter to Prevail",
+          "url": "https://open.spotify.com/artist/24Oiw7BlvO1BETecDLJt6m"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Conflict",
+      "url": "https://open.spotify.com/track/7cMIJjvNrSxkLBoo7SnAvw"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -815,6 +815,38 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "Antimatter",
+        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
+      },
+      "artists": [
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 221340,
+      "name": "Antimatter",
+      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Perfect Soul",
+        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 239640,
+      "name": "Perfect Soul",
+      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "Continuum (Feat. Niklas Karlsson)",
         "url": "https://open.spotify.com/album/0fxlCEzDuoJrNGG5eFPniw"
       },
@@ -839,34 +871,22 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Perfect Soul",
-        "url": "https://open.spotify.com/album/6trbYqn0Og2FEmucGshPg5"
+        "name": "Bad Dreams (feat. Of Virtue)",
+        "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 239640,
-      "name": "Perfect Soul",
-      "url": "https://open.spotify.com/track/7FjRNlmPtWb1ra46t14rUN"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Antimatter",
-        "url": "https://open.spotify.com/album/21WE0VYFRtAKg4hEA1ppmZ"
-      },
-      "artists": [
+          "name": "Conquer Divide",
+          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
+        },
         {
-          "name": "Silent Planet",
-          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+          "name": "Of Virtue",
+          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
         }
       ],
-      "duration_ms": 221340,
-      "name": "Antimatter",
-      "url": "https://open.spotify.com/track/4b3FN7tBCRrkLcbN5ae4v9"
+      "duration_ms": 220866,
+      "name": "Bad Dreams (feat. Of Virtue)",
+      "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -919,22 +939,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Trenches",
-        "url": "https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt"
-      },
-      "artists": [
-        {
-          "name": "Malevolence",
-          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
-        }
-      ],
-      "duration_ms": 196715,
-      "name": "Trenches",
-      "url": "https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Made For Love",
         "url": "https://open.spotify.com/album/4e4eup3w1C6oG01P6hjAAg"
       },
@@ -947,6 +951,22 @@
       "duration_ms": 214553,
       "name": "Made For Love",
       "url": "https://open.spotify.com/track/7sdGjtqEsJ7qYJAbztYdWi"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Trenches",
+        "url": "https://open.spotify.com/album/0K2gvxHs9aFSRgcdFKlamt"
+      },
+      "artists": [
+        {
+          "name": "Malevolence",
+          "url": "https://open.spotify.com/artist/7KFv5Cni7kseXWHJnnejXk"
+        }
+      ],
+      "duration_ms": 196715,
+      "name": "Trenches",
+      "url": "https://open.spotify.com/track/6R2iQXWS7CfK2TPjtlfI0c"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1055,26 +1075,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Bad Dreams (feat. Of Virtue)",
-        "url": "https://open.spotify.com/album/2CIZQKBEuZJrs6LEY7bW31"
-      },
-      "artists": [
-        {
-          "name": "Conquer Divide",
-          "url": "https://open.spotify.com/artist/4ZznAOb4aE3va5Jz1iDpjc"
-        },
-        {
-          "name": "Of Virtue",
-          "url": "https://open.spotify.com/artist/4GnK2zRFtw1gBoiFORWHsA"
-        }
-      ],
-      "duration_ms": 220866,
-      "name": "Bad Dreams (feat. Of Virtue)",
-      "url": "https://open.spotify.com/track/1MYG4PzDAovlzKFZ6dqatY"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Reincarnate: 10 Year Anniversary",
         "url": "https://open.spotify.com/album/4JeIjV5hjOfr1WcKLMySzz"
       },
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Darker Colors (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
-      },
-      "artists": [
-        {
-          "name": "What Lies Below",
-          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
-        }
-      ],
-      "duration_ms": 198593,
-      "name": "suffer.",
-      "url": "https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "From The New World",
         "url": "https://open.spotify.com/album/2sdKwkwaVrSlhKdTuAf2SC"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 197400,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3ziTknZahiwT3RTAlwN5a1"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Darker Colors (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7HRxq68MnkH9ecuxVf9SPB"
+      },
+      "artists": [
+        {
+          "name": "What Lies Below",
+          "url": "https://open.spotify.com/artist/65KiNVGu9JSwerZgaDZcdj"
+        }
+      ],
+      "duration_ms": 198593,
+      "name": "suffer.",
+      "url": "https://open.spotify.com/track/7qAYv0vSlnaa5vknIChwcz"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "Sacrifice Me",
+        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
+      },
+      "artists": [
+        {
+          "name": "Unprocessed",
+          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
+        }
+      ],
+      "duration_ms": 238736,
+      "name": "Sacrifice Me",
+      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "Mana God",
         "url": "https://open.spotify.com/album/53yljPs8SPVBWJoqPTvje4"
       },
@@ -1295,22 +1311,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Sacrifice Me",
-        "url": "https://open.spotify.com/album/2WmsvVSrYIXgFXMfLoNcPN"
-      },
-      "artists": [
-        {
-          "name": "Unprocessed",
-          "url": "https://open.spotify.com/artist/13GH7wviJQ9gfZmr1pXHS4"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Sacrifice Me",
-      "url": "https://open.spotify.com/track/4iiH3Alazik7bOhJYDcYsK"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Villain Arc",
         "url": "https://open.spotify.com/album/4jIawPzpjpvNP1si80d0C8"
       },
@@ -1323,6 +1323,22 @@
       "duration_ms": 219330,
       "name": "Villain Arc",
       "url": "https://open.spotify.com/track/1uX9dEAb6lIuAgndCYZcQl"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Endless Hollow",
+        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
+      },
+      "artists": [
+        {
+          "name": "Oceans Ate Alaska",
+          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
+        }
+      ],
+      "duration_ms": 230733,
+      "name": "Endless Hollow",
+      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1347,22 +1363,6 @@
       "duration_ms": 283097,
       "name": "The Medicine",
       "url": "https://open.spotify.com/track/3hGaEXlWUmiHEHFut99e5Z"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Endless Hollow",
-        "url": "https://open.spotify.com/album/5hsM9jR0U4BUfRNnP0LxTp"
-      },
-      "artists": [
-        {
-          "name": "Oceans Ate Alaska",
-          "url": "https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ"
-        }
-      ],
-      "duration_ms": 230733,
-      "name": "Endless Hollow",
-      "url": "https://open.spotify.com/track/4kd9emKGtrL5QvhKMBmYrD"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
+      },
+      "artists": [
+        {
+          "name": "Siamese",
+          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
+        }
+      ],
+      "duration_ms": 204112,
+      "name": "Chemistry",
+      "url": "https://open.spotify.com/track/25KiribVBkk4wGgl4BLs6K"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "One Hitter",
         "url": "https://open.spotify.com/album/5W14RabL39050S6KS1WRSk"
       },
@@ -1415,22 +1431,6 @@
       "duration_ms": 210947,
       "name": "One Hitter",
       "url": "https://open.spotify.com/track/3QLaqDs4iUMVcsshtf2aZC"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/3huRuct9l5HQFqBBe1A1OU"
-      },
-      "artists": [
-        {
-          "name": "Siamese",
-          "url": "https://open.spotify.com/artist/0Hx4gv3eoiodtu6XYHF1X0"
-        }
-      ],
-      "duration_ms": 204112,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/25KiribVBkk4wGgl4BLs6K"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1515,6 +1515,38 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "Arcane",
+        "url": "https://open.spotify.com/album/7flZpeGykp1XXbK82FfGs2"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Arcane",
+      "url": "https://open.spotify.com/track/0bDXKUQvhUYVhR1sRpLlIV"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Solace In Silence",
+        "url": "https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9"
+      },
+      "artists": [
+        {
+          "name": "Not Enough Space",
+          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
+        }
+      ],
+      "duration_ms": 176095,
+      "name": "Solace In Silence",
+      "url": "https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "Doom + Gloom",
         "url": "https://open.spotify.com/album/7JosnS7Ttco0A7hMV5Ctp0"
       },
@@ -1547,22 +1579,6 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Salt and Ash",
-        "url": "https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m"
-      },
-      "artists": [
-        {
-          "name": "God Complex",
-          "url": "https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k"
-        }
-      ],
-      "duration_ms": 128906,
-      "name": "Salt and Ash",
-      "url": "https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
         "name": "Continuum",
         "url": "https://open.spotify.com/album/6SPHgzM88aGapELlm0vj4A"
       },
@@ -1575,6 +1591,22 @@
       "duration_ms": 260820,
       "name": "Continuum",
       "url": "https://open.spotify.com/track/4jC2qRTDoysT58AggsOij4"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
+        "name": "Salt and Ash",
+        "url": "https://open.spotify.com/album/3OM8LvMT9BYY72B5FgGy1m"
+      },
+      "artists": [
+        {
+          "name": "God Complex",
+          "url": "https://open.spotify.com/artist/4Ase9pfG4FCMoiuyRduc8k"
+        }
+      ],
+      "duration_ms": 128906,
+      "name": "Salt and Ash",
+      "url": "https://open.spotify.com/track/3TgHyyTjR0Wr7EkHkqrirm"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1599,6 +1631,22 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
+        "name": "Drawn, Conned & Deceived",
+        "url": "https://open.spotify.com/album/20rWl9qSSJy31dvRXwAtWH"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "duration_ms": 190815,
+      "name": "Drawn, Conned & Deceived",
+      "url": "https://open.spotify.com/track/6vIOOhYiLRUBorAMnAsBso"
+    },
+    {
+      "added_at": "2025-01-17 05:00:55",
+      "album": {
         "name": "Better Off Alone",
         "url": "https://open.spotify.com/album/7FQIV0DoXL986gmwU1gXYI"
       },
@@ -1611,22 +1659,6 @@
       "duration_ms": 190642,
       "name": "Better Off Alone",
       "url": "https://open.spotify.com/track/5VoE2F0vCeXVmEo4soLavh"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Survivor\u2019s Guilt",
-        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 198417,
-      "name": "Survivors Guilt",
-      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1647,18 +1679,18 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "Arcane",
-        "url": "https://open.spotify.com/album/7flZpeGykp1XXbK82FfGs2"
+        "name": "Survivor\u2019s Guilt",
+        "url": "https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY"
       },
       "artists": [
         {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Arcane",
-      "url": "https://open.spotify.com/track/0bDXKUQvhUYVhR1sRpLlIV"
+      "duration_ms": 198417,
+      "name": "Survivors Guilt",
+      "url": "https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U"
     },
     {
       "added_at": "2025-01-17 05:00:55",
@@ -1683,50 +1715,18 @@
     {
       "added_at": "2025-01-17 05:00:55",
       "album": {
-        "name": "My Father's Son (Redux)",
-        "url": "https://open.spotify.com/album/6BdXtHuQXNh3TmfoT9ViIq"
+        "name": "Cold Hard Truth",
+        "url": "https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7"
       },
       "artists": [
         {
-          "name": "The Amity Affliction",
-          "url": "https://open.spotify.com/artist/6kNKUYGn6VNGsRoXmyoDPK"
+          "name": "Fox Lake",
+          "url": "https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL"
         }
       ],
-      "duration_ms": 222616,
-      "name": "My Father's Son - Redux",
-      "url": "https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "feel something new",
-        "url": "https://open.spotify.com/album/1pTzGnTJw2ygewCm6m48ho"
-      },
-      "artists": [
-        {
-          "name": "Grayscale Season",
-          "url": "https://open.spotify.com/artist/7vkn8n6j3FIOVuRmVVYzA4"
-        }
-      ],
-      "duration_ms": 204076,
-      "name": "It Consumes Me",
-      "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
-    },
-    {
-      "added_at": "2025-01-17 05:00:55",
-      "album": {
-        "name": "Solace In Silence",
-        "url": "https://open.spotify.com/album/5EzOzRQPmRqxVHxxKEOHU9"
-      },
-      "artists": [
-        {
-          "name": "Not Enough Space",
-          "url": "https://open.spotify.com/artist/4juvzVAyR0hOSQ7YfVMijK"
-        }
-      ],
-      "duration_ms": 176095,
-      "name": "Solace In Silence",
-      "url": "https://open.spotify.com/track/7iPMmMz3b54nslPvGmE4ou"
+      "duration_ms": 182061,
+      "name": "Cold Hard Truth",
+      "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
     }
   ],
   "unique_name": "The Core",

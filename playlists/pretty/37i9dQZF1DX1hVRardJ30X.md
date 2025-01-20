@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 
 > New music by Yami Safdie & Camilo, Luis R Conriquez & Peso Pluma, and more! Updates every Friday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 605,584 likes - 50 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 605,628 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1hVRardJ30X.md) - [plain]
 | 17 | [arcoíris \- extraído de LA NUBE EN EL JARDÍN](https://open.spotify.com/track/1C2xV2BtpnFQoxfTTb4r4u) | [Ed Maverick](https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT) | [arcoíris \(extraído de LA NUBE EN EL JARDÍN\)](https://open.spotify.com/album/3cJ9mookr6KuCby7KwoE7W) | 4:59 |
 | 18 | [Dime \(feat\. Three Seven Music & The Chosen Few\)](https://open.spotify.com/track/30sPuBPrI0O8hNKWk50qQN) | [Nino Freestyle](https://open.spotify.com/artist/1AACxWCwNIa3ecOBQJnXRV), [Nacho](https://open.spotify.com/artist/2ayNSoKPCRAfjp6hQ76hRu), [Boy Wonder CF](https://open.spotify.com/artist/01nUdqwuIHCHLZNP2TvYVF), [Three Seven Music](https://open.spotify.com/artist/6WpyChzOE17EotLrDxy3Cb), [The Chosen Few](https://open.spotify.com/artist/2HOZmbv4saI1WELN907XSN) | [Dime \(feat\. Three Seven Music & The Chosen Few\)](https://open.spotify.com/album/4ykFMMxCYHV37MMK99WehN) | 3:32 |
 | 19 | [DE NOTA EN NOTA](https://open.spotify.com/track/6zrY9YRsHZLtL4C1VSTnFt) | [Marc Seguí](https://open.spotify.com/artist/5FQ8tBUtIamA2hRtatrYUF), [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [DE NOTA EN NOTA](https://open.spotify.com/album/72aeyywHPQEBxaoWhrTnw5) | 3:32 |
-| 20 | [8PM](https://open.spotify.com/track/4te90NkfKf2wCIPdE2CwMW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [8PM](https://open.spotify.com/album/1faroDspdllDB6ihUwtQgE) | 2:24 |
+| 20 | [8pm](https://open.spotify.com/track/4te90NkfKf2wCIPdE2CwMW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [8pm](https://open.spotify.com/album/1faroDspdllDB6ihUwtQgE) | 2:24 |
 | 21 | [Almohada](https://open.spotify.com/track/1SafimM2YckVTFkHYWrsty) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL), [El Metaliko](https://open.spotify.com/artist/7omz6u7o8LnQ1r5uwL4DNA) | [Almohada](https://open.spotify.com/album/5GQyDNIUGwUOg0p5YwIWyD) | 3:12 |
 | 22 | [Cancelo](https://open.spotify.com/track/5rsON1f3OWIPUvI2czLNzF) | [Sasha](https://open.spotify.com/artist/3Thdzj2jrPSysZhhINbWfG), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [Cancelo](https://open.spotify.com/album/62Baz4fh9SMJOue0RVUuWg) | 3:24 |
 | 23 | [Mi Credo](https://open.spotify.com/track/5GitO3AT8NbzUQKcXRApLy) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD) | [Mi Credo](https://open.spotify.com/album/47h0H9ZyHTvncTvxU11zuY) | 2:07 |

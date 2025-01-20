@@ -1,6 +1,6 @@
 {
   "description": "Rock on repeat during the summers of the 1990s.",
-  "num_followers": 84851,
+  "num_followers": 84862,
   "original_name": "90s Summer Rock",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 215906,
+      "name": "Scar Tissue",
+      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
         "name": "Use Your Illusion I",
         "url": "https://open.spotify.com/album/0CxPbTRARqKUYighiEY9Sz"
       },
@@ -199,22 +215,6 @@
       "duration_ms": 266200,
       "name": "1979 - Remastered 2012",
       "url": "https://open.spotify.com/track/5QLHGv0DfpeXLNFo7SFEy1"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 215906,
-      "name": "Scar Tissue",
-      "url": "https://open.spotify.com/track/1G391cbiT3v3Cywg8T7DM1"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -299,22 +299,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Third Eye Blind",
-        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
-      },
-      "artists": [
-        {
-          "name": "Third Eye Blind",
-          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
-        }
-      ],
-      "duration_ms": 268360,
-      "name": "Semi-Charmed Life",
-      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "5",
         "url": "https://open.spotify.com/album/6MCNMOCRsh6nxs7PNzc0zN"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 276186,
       "name": "One",
       "url": "https://open.spotify.com/track/3G69vJMWsX6ZohTykad2AU"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Third Eye Blind",
+        "url": "https://open.spotify.com/album/2gToC0XAblE9h3UZD6aAaQ"
+      },
+      "artists": [
+        {
+          "name": "Third Eye Blind",
+          "url": "https://open.spotify.com/artist/6TcnmlCSxihzWOQJ8k0rNS"
+        }
+      ],
+      "duration_ms": 268360,
+      "name": "Semi-Charmed Life",
+      "url": "https://open.spotify.com/track/42et6fnHCw1HIPSrdPprMl"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -427,22 +427,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "14:59",
-        "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 219866,
-      "name": "Every Morning",
-      "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Nevermind (Remastered)",
         "url": "https://open.spotify.com/album/2guirTSEqLizK7j9i1MTTZ"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 257053,
       "name": "Lithium",
       "url": "https://open.spotify.com/track/2YodwKJnbPyNKe8XXSE9V7"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "14:59",
+        "url": "https://open.spotify.com/album/43NNW7iDuAE8pIouzvwWWi"
+      },
+      "artists": [
+        {
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
+        }
+      ],
+      "duration_ms": 219866,
+      "name": "Every Morning",
+      "url": "https://open.spotify.com/track/2ouURa1AIXp3AvkS52Jry5"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Last Kiss",
-        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
-      },
-      "artists": [
-        {
-          "name": "Pearl Jam",
-          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
-        }
-      ],
-      "duration_ms": 195466,
-      "name": "Last Kiss",
-      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Blur: The Best Of",
         "url": "https://open.spotify.com/album/1bgkxe4t0HNeLn9rhrx79x"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 259385,
       "name": "Girls & Boys",
       "url": "https://open.spotify.com/track/5CeL9C3bsoe4yzYS1Qz8cw"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Last Kiss",
+        "url": "https://open.spotify.com/album/11BDZR6NRHwPiPy1WQr4Jf"
+      },
+      "artists": [
+        {
+          "name": "Pearl Jam",
+          "url": "https://open.spotify.com/artist/1w5Kfo2jwwIPruYS2UWh56"
+        }
+      ],
+      "duration_ms": 195466,
+      "name": "Last Kiss",
+      "url": "https://open.spotify.com/track/0QnONzv3TvHAWk294h6DaQ"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Load",
-        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 267933,
-      "name": "Until It Sleeps",
-      "url": "https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Cracked Rear View",
         "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
       },
@@ -783,22 +767,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "13",
-        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
-      },
-      "artists": [
-        {
-          "name": "Blur",
-          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
-        }
-      ],
-      "duration_ms": 358773,
-      "name": "Coffee & TV",
-      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Ultra (Deluxe)",
         "url": "https://open.spotify.com/album/0OWIVcNE4aItrlRvMUVueO"
       },
@@ -811,6 +779,38 @@
       "duration_ms": 358520,
       "name": "It's No Good",
       "url": "https://open.spotify.com/track/7HDWE2Ib7cjkhzULV4K8y3"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Load",
+        "url": "https://open.spotify.com/album/6ndH0UlQbyCOVqByMXXhdV"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 267933,
+      "name": "Until It Sleeps",
+      "url": "https://open.spotify.com/track/2Iv4HSoMX2fDeXFcOJWyWX"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "13",
+        "url": "https://open.spotify.com/album/5YuZ4DjvtZBywtIbHIqtGJ"
+      },
+      "artists": [
+        {
+          "name": "Blur",
+          "url": "https://open.spotify.com/artist/7MhMgCo0Bl0Kukl93PZbYS"
+        }
+      ],
+      "duration_ms": 358773,
+      "name": "Coffee & TV",
+      "url": "https://open.spotify.com/track/5eSllZgRWCIJsDTAqFRwQw"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Doubt",
-        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
-      },
-      "artists": [
-        {
-          "name": "Jesus Jones",
-          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
-        }
-      ],
-      "duration_ms": 189293,
-      "name": "Right Here Right Now",
-      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Adrenalize (Deluxe)",
         "url": "https://open.spotify.com/album/0X1muonPHLSGzU6g3dZx7M"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 295957,
       "name": "Let's Get Rocked",
       "url": "https://open.spotify.com/track/0LoH6lFQLNscy3RyljAewK"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Doubt",
+        "url": "https://open.spotify.com/album/7hKst6QIxeAcpOx3o2y6mi"
+      },
+      "artists": [
+        {
+          "name": "Jesus Jones",
+          "url": "https://open.spotify.com/artist/0roeI3yPusDWwWRzAqTopw"
+        }
+      ],
+      "duration_ms": 189293,
+      "name": "Right Here Right Now",
+      "url": "https://open.spotify.com/track/3fcGGP62sllcNEhuFJVYeC"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1151,6 +1151,22 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
+        "name": "The Best Of 1990-2000",
+        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
+      },
+      "artists": [
+        {
+          "name": "U2",
+          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
+        }
+      ],
+      "duration_ms": 284600,
+      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
+      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
         "name": "Greatest Hits Volume One - The Singles",
         "url": "https://open.spotify.com/album/0UccZZgelTAbbk3OSPZymO"
       },
@@ -1179,22 +1195,6 @@
       "duration_ms": 196000,
       "name": "Awful",
       "url": "https://open.spotify.com/track/6O0hdCHa2K3zXM4OK9tsmA"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
-        "name": "The Best Of 1990-2000",
-        "url": "https://open.spotify.com/album/5I099NUhbRrXaxnxQagElv"
-      },
-      "artists": [
-        {
-          "name": "U2",
-          "url": "https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ"
-        }
-      ],
-      "duration_ms": 284600,
-      "name": "Hold Me, Thrill Me, Kiss Me, Kill Me - From 'Batman Forever'",
-      "url": "https://open.spotify.com/track/5TsHqbDKaSs4ECZX0045YS"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1311,8 +1311,8 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Get A Grip",
-        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+        "name": "Nine Lives",
+        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
       },
       "artists": [
         {
@@ -1320,9 +1320,9 @@
           "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
         }
       ],
-      "duration_ms": 380893,
-      "name": "Livin' On The Edge",
-      "url": "https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3"
+      "duration_ms": 235360,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
     },
     {
       "added_at": "2024-07-12 14:58:14",
@@ -1391,22 +1391,6 @@
     {
       "added_at": "2024-07-12 14:58:14",
       "album": {
-        "name": "Nine Lives",
-        "url": "https://open.spotify.com/album/0xUqFH2GDi0oZ7fwIBAkLQ"
-      },
-      "artists": [
-        {
-          "name": "Aerosmith",
-          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
-        }
-      ],
-      "duration_ms": 235360,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/74uGhWp4BYpjFj1V2DzgoO"
-    },
-    {
-      "added_at": "2024-07-12 14:58:14",
-      "album": {
         "name": "Significant Other",
         "url": "https://open.spotify.com/album/0IDsKB7FTBX5QvxNekrVgI"
       },
@@ -1435,6 +1419,22 @@
       "duration_ms": 258906,
       "name": "Wonderwall",
       "url": "https://open.spotify.com/track/3UNAMgNHKl0fWzbZaU0fDM"
+    },
+    {
+      "added_at": "2024-07-12 14:58:14",
+      "album": {
+        "name": "Get A Grip",
+        "url": "https://open.spotify.com/album/1tuM8yBePaekEruGsH2J79"
+      },
+      "artists": [
+        {
+          "name": "Aerosmith",
+          "url": "https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH"
+        }
+      ],
+      "duration_ms": 380893,
+      "name": "Livin' On The Edge",
+      "url": "https://open.spotify.com/track/4avSaixVwu8uqfSs7zgoj3"
     },
     {
       "added_at": "2024-07-12 14:58:14",

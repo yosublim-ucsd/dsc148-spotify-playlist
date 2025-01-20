@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 7280,
+  "num_followers": 7298,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAC1m7FY/2wpzYP0dh98BY5B",
+  "snapshot_id": "Z4rvAAAAAADViA3PSXWh4fytgFo+UGge",
   "tracks": [
     {
       "added_at": null,
@@ -355,22 +355,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Freedom - EP",
-        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
+        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
       },
       "artists": [
-        {
-          "name": "Anthony Ramos",
-          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
-        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 229053,
-      "name": "Alright",
-      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
+      "duration_ms": 183506,
+      "name": "Fly Before You Fall",
+      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
     },
     {
       "added_at": null,
@@ -443,18 +439,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beyond The Lights (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/76IoyEyJjmgL6vLAK6a6EI"
+        "name": "The Freedom - EP",
+        "url": "https://open.spotify.com/album/32z9IUjENPdO1FZlgN0t8J"
       },
       "artists": [
+        {
+          "name": "Anthony Ramos",
+          "url": "https://open.spotify.com/artist/660YptcR0hNHJ8iEr1qcse"
+        },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 183506,
-      "name": "Fly Before You Fall",
-      "url": "https://open.spotify.com/track/6Ch1e7h3b19r8HnR6HD1MW"
+      "duration_ms": 229053,
+      "name": "Alright",
+      "url": "https://open.spotify.com/track/6oFsUGtEpV7qZGyYpQGtJe"
     },
     {
       "added_at": null,
@@ -808,17 +808,13 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
-          "name": "Oliver Tompsett",
-          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
-        },
-        {
           "name": "Scott Alan",
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 463020,
-      "name": "Always / Goodnight",
-      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
+      "duration_ms": 238937,
+      "name": "Take Me Away",
+      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
     },
     {
       "added_at": null,
@@ -860,9 +856,9 @@
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 238937,
-      "name": "Take Me Away",
-      "url": "https://open.spotify.com/track/7pYnM6Ot9LQjrkYfSy2V8a"
+      "duration_ms": 296655,
+      "name": "At All",
+      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
     },
     {
       "added_at": null,
@@ -944,13 +940,17 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         },
         {
+          "name": "Oliver Tompsett",
+          "url": "https://open.spotify.com/artist/10uOf0MNfjh90mGfD1bS6Q"
+        },
+        {
           "name": "Scott Alan",
           "url": "https://open.spotify.com/artist/36mPTvwUFmSOm3JcQyLuEy"
         }
       ],
-      "duration_ms": 296655,
-      "name": "At All",
-      "url": "https://open.spotify.com/track/4mm1OFHCY0XzldGu19L0w3"
+      "duration_ms": 463020,
+      "name": "Always / Goodnight",
+      "url": "https://open.spotify.com/track/2lthIAIwXMyIYnEAPQfbP1"
     },
     {
       "added_at": null,

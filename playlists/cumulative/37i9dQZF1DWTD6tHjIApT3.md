@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。cover: 幾田りら
 
-2,821 songs - 7 day 13 hr 0 min
+2,822 songs - 7 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1801,7 +1801,7 @@
 | [ぼく](https://open.spotify.com/track/5E126Hhzr684Nr7iBt05o4) | [麗奈](https://open.spotify.com/artist/5DwNbc9qoOadKsP5btdj6O) | [ぼく](https://open.spotify.com/album/7ENSPxwDvZp4uUlxMwm1X4) | 4:17 | 2022-06-07 | 2022-06-09 |
 | [ぼちぼち銀河 \- Takuro Okada Remix](https://open.spotify.com/track/1xxJ0QaQjymIQhmcJ2nJGv) | [Satoko Shibata](https://open.spotify.com/artist/4RaaBbyl7DzAmfkjGiyUGU), [Okada Takuro](https://open.spotify.com/artist/4d4VL0LIBWkVXAq4YZ07wm) | [ぼちぼち銀河 \- Takuro Okada Remix](https://open.spotify.com/album/6bU2H4oyVVYyJXcL6D6JR3) | 3:34 | 2022-07-19 | 2022-07-27 |
 | [まさか夢](https://open.spotify.com/track/0jQ4WA8GZSonyuPiTESM3q) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/4gvyW8861hllsH1hKlw4q6) | 4:49 | 2024-05-07 | 2024-05-22 |
-| [まずは今日から](https://open.spotify.com/track/4cl8Y9jslA4jVYezBGZVAj) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [まずは今日から](https://open.spotify.com/album/0nncGUnUSR7PKsGubVMhxw) | 3:50 | 2024-11-13 |  |
+| [まずは今日から](https://open.spotify.com/track/4cl8Y9jslA4jVYezBGZVAj) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [まずは今日から](https://open.spotify.com/album/0nncGUnUSR7PKsGubVMhxw) | 3:50 | 2024-11-13 | 2025-01-20 |
 | [またたび](https://open.spotify.com/track/0vYAQvD13yIkxb7121Z2tj) | [CHIAKI SATO](https://open.spotify.com/artist/7fD1pCIsnPsUt6mHizHGnt) | [またたび](https://open.spotify.com/album/23fFju9jbNjgRSvrB2Ql6S) | 4:10 | 2024-07-25 | 2024-07-31 |
 | [また会いに行くから](https://open.spotify.com/track/4OJ4SC7lLzfU7fNlNoNbjM) | [XinU](https://open.spotify.com/artist/6oSrOOypJcKXWe5OnGO2yw) | [A.O.R \- Adult Oriented Romance](https://open.spotify.com/album/4IQrudl1W0S3dPN1ROFhKX) | 4:31 | 2024-12-03 | 2024-12-18 |
 | [また君に恋をする](https://open.spotify.com/track/6CwNlxgkEu4F9cyXW34PFf) | [Kana Nishino](https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI) | [また君に恋をする](https://open.spotify.com/album/4U0oaI17bgvkJZx0PbZqQb) | 3:26 | 2024-09-03 |  |
@@ -1885,6 +1885,7 @@
 | [オパールと歳月](https://open.spotify.com/track/2YqfLvT8Ebcgh8mF8xeU0e) | [DawnLuLu](https://open.spotify.com/artist/6pu1Xc7nbInln7ZNig7Plw) | [しののめにて](https://open.spotify.com/album/40QP3PszjO5Pr6s607m8F5) | 2:36 | 2024-03-19 | 2024-03-27 |
 | [オムライス](https://open.spotify.com/track/7xMxpOUnBEBMKaNxfsdjea) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [オムライス](https://open.spotify.com/album/0hMqJVDkFQovjCmuE7P9t4) | 6:04 | 2024-05-21 | 2024-05-29 |
 | [オリビアを聴きながら](https://open.spotify.com/track/6kya3wW9tpnXhe8D6oUhsp) | [miu](https://open.spotify.com/artist/2QMEcA2HhzcfJX2eZLEEyp) | [オリビアを聴きながら](https://open.spotify.com/album/1nileDksBHaWXG0vn5HRjC) | 4:34 | 2022-11-03 | 2022-11-09 |
+| [オーバーラップ](https://open.spotify.com/track/73ajM2Yj0ce3MiAz0sBpRG) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [オーバーラップ](https://open.spotify.com/album/7D3vhF0b956sGCSzh98sRV) | 3:14 | 2025-01-14 |  |
 | [オーマイガール](https://open.spotify.com/track/1XPFgODkUkGZSSL7LJh8Ql) | [Kana Adachi](https://open.spotify.com/artist/6SY4uTql6IMmzbAJH9oAsJ) | [オーマイガール](https://open.spotify.com/album/5OKmOrFqjASXboXwZQKEkP) | 2:29 | 2022-06-07 | 2022-07-28 |
 | [オールグリーン](https://open.spotify.com/track/2o38jQDB10QLiIvKCrS26F) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [オールグリーン](https://open.spotify.com/album/3i8Z1Ovo47wujwJYzxOcHe) | 3:13 | 2022-07-19 | 2022-07-27 |
 | [オールナイトレディオ](https://open.spotify.com/track/7cojiKLtAxeBttS2zDPsYd) | [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [Ado "Ready For My Show Playlist"](https://open.spotify.com/album/31LvSRXGPVhYs2EZFK0BEU) | 3:33 | 2024-02-20 | 2024-04-19 |

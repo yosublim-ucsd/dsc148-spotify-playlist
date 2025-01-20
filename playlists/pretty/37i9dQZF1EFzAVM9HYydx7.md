@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5OF1YU2YzcMyFem3Fi4M3E">Boi\-1da</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,833 likes - 295 songs - 18 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,835 likes - 295 songs - 18 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,8 +132,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 122 | [HOT UPTOWN \(feat\. Drake\)](https://open.spotify.com/track/7roN0Nu1FdBk9abw7qIbSG) | [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [C,XOXO](https://open.spotify.com/album/4yvsyIKcqYFmUbD5gzb20W) | 2:30 |
 | 123 | [Bill Gates](https://open.spotify.com/track/610FzmkhFSsORpECZbjT4X) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [I Am Not A Human Being](https://open.spotify.com/album/5vfnsOgLqsgmEb3vGyc2FO) | 4:18 |
 | 124 | [Shimmy](https://open.spotify.com/track/1PlitoLAYkgjm8YIg79ouK) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [Limbo](https://open.spotify.com/album/6a8GwYiEMrXgMvZBvuBXrt) | 2:14 |
-| 125 | [Remember Me](https://open.spotify.com/track/66PijCtKX3GMQ6huKb1M0q) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:13 |
-| 126 | [Magic Don Juan \(Princess Diana\)](https://open.spotify.com/track/7pBcryEKcUEaWHwAu1wUyP) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:40 |
+| 125 | [Magic Don Juan \(Princess Diana\)](https://open.spotify.com/track/7pBcryEKcUEaWHwAu1wUyP) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Metro Boomin](https://open.spotify.com/artist/0iEtIxbK0KxaSlF7G42ZOp) | [WE DON'T TRUST YOU](https://open.spotify.com/album/4iqbFIdGOTzXeDtt9owjQn) | 3:40 |
+| 126 | [Remember Me](https://open.spotify.com/track/66PijCtKX3GMQ6huKb1M0q) | [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Fan of A Fan The Album \(Expanded Edition\)](https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G) | 4:13 |
 | 127 | [Born 2 Be Great](https://open.spotify.com/track/3AmqJsyZDFA8EHC461R7bY) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [Destined 2 Win](https://open.spotify.com/album/3MEKpJ7wSSp6Z661ThjrUJ) | 2:50 |
 | 128 | [Ok Ok pt 2](https://open.spotify.com/track/5ad5uryyzVWs95bK3myGkw) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Donda](https://open.spotify.com/album/5CnpZV3q5BcESefcB3WJmz) | 3:24 |
 | 129 | [PARANOID](https://open.spotify.com/track/1To4zdRrEQsWw7KVzwuyY4) | [Russ](https://open.spotify.com/artist/1z7b1Pr1rSlvWRzsW3HOrS) | [SHAKE THE SNOW GLOBE \(DELUXE\)](https://open.spotify.com/album/5Vmz3pIxG7Dsx7fzHgtyJB) | 3:01 |
@@ -253,8 +253,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 243 | [Red Wine](https://open.spotify.com/track/7z6S8E0LFGeG6mZIIujNFe) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Edition\)](https://open.spotify.com/album/059i5tLNW2ASf1qoVn6LSX) | 4:19 |
 | 244 | [Vince Carter](https://open.spotify.com/track/2QiOWQ06XZHH1DADLoxL46) | [KILLY](https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD), [Smiley](https://open.spotify.com/artist/6jeg7JBX9J9097esK752iR) | [Crazy Life of Sin](https://open.spotify.com/album/6yVI793K5iV8YvM1251KhV) | 3:29 |
 | 245 | [My House](https://open.spotify.com/track/2hUV9lOrC6ul4p4WbgLneh) | [Big Sean](https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh) | [Finally Famous \(Deluxe\)](https://open.spotify.com/album/19DGkH750PrQMMnKqBAxfY) | 3:33 |
-| 246 | [Married To The Game](https://open.spotify.com/track/723ghNyqqw0BVDq3kN47Dw) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sam Hook](https://open.spotify.com/artist/224ycOSKcyYsp3bBZzExun), [DUBB](https://open.spotify.com/artist/6KAoJl1Kq41RruyHVkDKB4) | [Blood Moon: Year Of The Wolf \(Bonus Edition\)](https://open.spotify.com/album/2Mk8feYIuAIPbCQbxSAt0D) | 4:40 |
-| 247 | [It's Been a Pleasure](https://open.spotify.com/track/7upxcSIbWaeiS3mom33Bee) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 5:45 |
+| 246 | [It's Been a Pleasure](https://open.spotify.com/track/7upxcSIbWaeiS3mom33Bee) | [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Trill O.G\. \(Amended\)](https://open.spotify.com/album/2NT0ecLaL4wtjmK5SdvjEs) | 5:45 |
+| 247 | [Married To The Game](https://open.spotify.com/track/723ghNyqqw0BVDq3kN47Dw) | [The Game](https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Sam Hook](https://open.spotify.com/artist/224ycOSKcyYsp3bBZzExun), [DUBB](https://open.spotify.com/artist/6KAoJl1Kq41RruyHVkDKB4) | [Blood Moon: Year Of The Wolf \(Bonus Edition\)](https://open.spotify.com/album/2Mk8feYIuAIPbCQbxSAt0D) | 4:40 |
 | 248 | [Patience](https://open.spotify.com/track/2v0HEvoISO2ZIWxgzzHk3U) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Spectrum](https://open.spotify.com/album/71DEJkhoME6hrXisBGWoQd) | 3:20 |
 | 249 | [Mo Milly](https://open.spotify.com/track/6NaY8IfAPu9qcIL8blwAZv) | [Birdman](https://open.spotify.com/artist/35sCXuy5gN6Or69rZ9vqBs), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Bun B](https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO) | [Pricele$$](https://open.spotify.com/album/0ryXDRrtDUzddIDVcBwtXW) | 4:11 |
 | 250 | [Blasphemy](https://open.spotify.com/track/2Z3XXP7ibSjci6X3Ka44E0) | [Ray Vaughn](https://open.spotify.com/artist/4yYYCSCDUTypErQMZv5iSg) | [Blasphemy](https://open.spotify.com/album/5c04iQtkacRr05igSQg46z) | 2:50 |
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzAVM9HYydx7.md) - [plain]
 | 294 | [My Life](https://open.spotify.com/track/659VW7lp1PC9EogVmyy2NW) | [KO](https://open.spotify.com/artist/0QsGiZaEitDoqU4AQJhPqF) | [My Life](https://open.spotify.com/album/62ZHBhUPSiyGbG9TFE5BPk) | 3:20 |
 | 295 | [Whatever Became Of You](https://open.spotify.com/track/1Ycr1YY3M9ITVVNhXIAp2J) | [Colin Munroe](https://open.spotify.com/artist/7IF7emaerV9vIoAjey6IHe) | [Unsung Hero](https://open.spotify.com/album/1UPa8cbZK9mpKAkG0tjJTi) | 4:46 |
 
-Snapshot ID: `AbnOigAAAAAomMnUWZf0OiXGy+QipGb4`
+Snapshot ID: `AbnUIAAAAAB4qYvyRsHs+v473bA9+szt`

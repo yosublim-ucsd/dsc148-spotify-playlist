@@ -5101,6 +5101,24 @@
     },
     {
       "album": {
+        "name": "Plazma",
+        "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180832,
+      "name": "Plazma",
+      "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
+    },
+    {
+      "album": {
         "name": "META",
         "url": "https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a"
       },
@@ -9198,7 +9216,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 166153,
       "name": "\u30d4\u30c3\u30ab\u30fc\u30f3\uff01",
       "url": "https://open.spotify.com/track/1QidgC1vyuG6053IY5S4UG"

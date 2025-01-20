@@ -4,10 +4,11 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-113 songs - 5 hr 5 min
+114 songs - 5 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [67481 Lesley Brown](https://open.spotify.com/track/5xPX2yStJDhI5f8eV8x6kk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 3:34 | 2025-01-20 |  |
 | [A Bonding Experience](https://open.spotify.com/track/4OPsrol2u5iLgDyuzX9ae3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:55 | 2023-11-10 | 2024-12-14 |
 | [A Different Set of Rules](https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:21 | 2023-08-04 |  |
 | [A Game of Strategy](https://open.spotify.com/track/06i6kDgeziHoeN6WAlgs9W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:17 | 2023-08-04 |  |
@@ -119,7 +120,7 @@
 | [You Cannot Imagine His Anguish](https://open.spotify.com/track/4ks8TXjj8gOqX4PC6WoFZT) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:25 | 2023-09-15 | 2024-06-24 |
 | [You Have The True Spirit of A Lady](https://open.spotify.com/track/4q61vq8quw5AMFIe0jF0sm) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 3:01 | 2023-12-13 | 2024-11-06 |
 | [You Stop My Heart](https://open.spotify.com/track/4PPXEa0j144GyF23vT3GZj) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 1:17 | 2023-08-04 |  |
-| [You're A Strange Man](https://open.spotify.com/track/1lzMLHSOXAEuioVK4RKvYo) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 0:58 | 2025-01-06 |  |
+| [You're A Strange Man](https://open.spotify.com/track/1lzMLHSOXAEuioVK4RKvYo) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 0:58 | 2025-01-06 | 2025-01-20 |
 | [You're My World \- Soho Version](https://open.spotify.com/track/1YEhtRxWc1BiHh3Xt0fXJW) | [Anya Taylor\-Joy](https://open.spotify.com/artist/5RAMfpOCoBthlipim1IaUa), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Last Night In Soho \(Original Motion Picture Score\)](https://open.spotify.com/album/4Mnn0ufXhd94rvmMLRyTlL) | 2:18 | 2023-08-04 | 2024-11-14 |
 
 \*This playlist was first scraped on 2023-08-05. Prior content cannot be recovered.

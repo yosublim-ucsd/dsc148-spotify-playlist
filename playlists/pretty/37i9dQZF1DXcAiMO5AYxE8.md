@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 
 > All the best soul disco sounds for getting down.
 
-[Spotify](https://open.spotify.com/user/spotify) - 524,512 likes - 62 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 524,613 likes - 62 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 35 | [I Love You More](https://open.spotify.com/track/5cXFnZmxsPswg3h9CnHpyo) | [George Duke](https://open.spotify.com/artist/3EB0uKE2lGw6BB1UFJrONl) | [Master Of The Game](https://open.spotify.com/album/3n5lfplQw8UdL3d5XaRDJT) | 3:06 |
 | 36 | [T.S.O.P\. \(The Sound of Philadelphia\) \(feat\. The Three Degrees\) \- "A Tom Moulton Mix"](https://open.spotify.com/track/5WYFSYfwfUH7pv2fs6BbDD) | [MFSB](https://open.spotify.com/artist/2mknvtcck8i82nKxDPDibv), [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of MFSB: Love Is The Message](https://open.spotify.com/album/5zeco1PwkqbFAWd9yNpz6S) | 5:48 |
 | 37 | [Stop and Think](https://open.spotify.com/track/4QyFXKzo9k8tivQiFgQ36J) | [The Trammps](https://open.spotify.com/artist/1zgNpeHQe8GulzfVkYP2VK) | [Disco Champs](https://open.spotify.com/album/6IBI01gmj7d5BpfiaD9cGh) | 5:03 |
-| 38 | [Relight My Fire \- Single Version](https://open.spotify.com/track/1PheCxmNb4A4d0LhW3ZtQp) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:43 |
-| 39 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1SqON2D7N5VeiOdT5fZE4F) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [The Greatest Hits](https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz) | 5:34 |
+| 38 | [Native New Yorker \- 12" Disco Mix](https://open.spotify.com/track/1SqON2D7N5VeiOdT5fZE4F) | [Odyssey](https://open.spotify.com/artist/5b4SvpTqll0LSqJWPpXya5) | [The Greatest Hits](https://open.spotify.com/album/1yvcYE6kYQR2OOdEgdkIKz) | 5:34 |
+| 39 | [Relight My Fire \- Single Version](https://open.spotify.com/track/1PheCxmNb4A4d0LhW3ZtQp) | [Dan Hartman](https://open.spotify.com/artist/1HvcqyRLS9nF8hAbTWOqpr) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:43 |
 | 40 | [Take Good Care of Yourself](https://open.spotify.com/track/5fVF22MwGwAiRBbuMDJf1u) | [The Three Degrees](https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa) | [The Best Of](https://open.spotify.com/album/4URmx7IbGKCfW5eXWC5zfG) | 3:25 |
 | 41 | [Funkin' for Jamaica](https://open.spotify.com/track/1es1B258zAVeXx6uzksrJd) | [Tom Browne](https://open.spotify.com/artist/4Ytvi4r3WPIZmEw1Ndmkp9) | [The Best Year Of My Life: 1981G010004775674D](https://open.spotify.com/album/34psLr9vLAgw49ehAgo6SJ) | 3:53 |
 | 42 | [Best Love](https://open.spotify.com/track/3MyRX9OXpnzqH2UYdA6KDg) | [Rose Royce](https://open.spotify.com/artist/1OxJzMLmR9l5zPLap9OxuO) | [Disco 100](https://open.spotify.com/album/3WRLDCKSLD9eDajX6m3xUU) | 3:46 |
@@ -67,8 +67,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcAiMO5AYxE8.md) - [plain]
 | 57 | [Ain't No Stoppin' Us Now \- Single Version](https://open.spotify.com/track/18piene9mIdOJA2dura9LH) | [McFadden & Whitehead](https://open.spotify.com/artist/3iQM78Xg0wJnGZhgVNLPmY) | [Bridget Jones’s Baby \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4JEghNfeXfS21MXpZWiRlc) | 3:37 |
 | 58 | [Now That We Found Love](https://open.spotify.com/track/4HfY87hxvIVCCLhNlQ59M9) | [The O'Jays](https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT) | [Collections](https://open.spotify.com/album/0mImd05G3t8DkjQdDdPEoI) | 4:39 |
 | 59 | [September](https://open.spotify.com/track/5hHm4e3dYYduLfxPnOY1TA) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [Boogie Wonderland: The Best Of Earth, Wind & Fire](https://open.spotify.com/album/0jk3NWc3eDE2X2i0B3p8lb) | 3:35 |
-| 60 | [Shake Your Body \(Down To The Ground\) \- Single Version](https://open.spotify.com/track/6yhVPXKXRblL2T4jFfz7mw) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Can You Feel It: The Jacksons Collection](https://open.spotify.com/album/2CvbITS0dlUwUtXoWD4OwS) | 3:45 |
-| 61 | [It's a Disco Night \(Rock Don't Stop\), Pts\. 1 & 2](https://open.spotify.com/track/23chygECXqQIz7l80H87lS) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Summer Breeze \- The Best Of](https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe) | 5:14 |
-| 62 | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/4U5M6NrgEFATHAFUDFwUGN) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Feel The Fire: The 20th Century Collection](https://open.spotify.com/album/3cIFhcTolvO7QxZOc0CnIX) | 4:05 |
+| 60 | [It's a Disco Night \(Rock Don't Stop\), Pts\. 1 & 2](https://open.spotify.com/track/23chygECXqQIz7l80H87lS) | [The Isley Brothers](https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp) | [Summer Breeze \- The Best Of](https://open.spotify.com/album/6Un0lZsdNGDhV9Q4vbqvDe) | 5:14 |
+| 61 | [What Cha Gonna Do With My Lovin'](https://open.spotify.com/track/4U5M6NrgEFATHAFUDFwUGN) | [Stephanie Mills](https://open.spotify.com/artist/0PcIlEZa7rreM7729ot05g) | [Feel The Fire: The 20th Century Collection](https://open.spotify.com/album/3cIFhcTolvO7QxZOc0CnIX) | 4:05 |
+| 62 | [Shake Your Body \(Down To The Ground\) \- Single Version](https://open.spotify.com/track/6yhVPXKXRblL2T4jFfz7mw) | [The Jacksons](https://open.spotify.com/artist/2yrbLiuBmc9j81lTX3XUuI) | [Can You Feel It: The Jacksons Collection](https://open.spotify.com/album/2CvbITS0dlUwUtXoWD4OwS) | 3:45 |
 
 Snapshot ID: `ZIxVNQAAAABAfkPQRzuf/kERyUbv716v`

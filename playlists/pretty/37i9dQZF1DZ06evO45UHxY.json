@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Zeta. The essential tracks, all in one playlist.",
-  "num_followers": 2527,
+  "num_followers": 2528,
   "original_name": "This Is Banda Zeta",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAAD7Ulw2FHY1NoMb7Q3wQ5Q",
+  "snapshot_id": "Z4rvAAAAAADN/9416WYwH/NFOnHRfjdu",
   "tracks": [
     {
       "added_at": null,
@@ -443,8 +443,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Calentura",
-        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
       "artists": [
         {
@@ -452,9 +452,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 184693,
-      "name": "La Calentura",
-      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
+      "duration_ms": 211466,
+      "name": "El Zorro y el Sabueso",
+      "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
     },
     {
       "added_at": null,
@@ -491,8 +491,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+        "name": "La Calentura",
+        "url": "https://open.spotify.com/album/2NUDVbL3mZcLCsyx2QCrpi"
       },
       "artists": [
         {
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
         }
       ],
-      "duration_ms": 211466,
-      "name": "El Zorro y el Sabueso",
-      "url": "https://open.spotify.com/track/79SlePX5ZXM6Ooldf7rcLy"
+      "duration_ms": 184693,
+      "name": "La Calentura",
+      "url": "https://open.spotify.com/track/2m0pHZCgBtCad5Pv0RBCfw"
     },
     {
       "added_at": null,
@@ -571,6 +571,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Como un Tatuaje",
+        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 182320,
+      "name": "Como un Tatuaje",
+      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Luna",
         "url": "https://open.spotify.com/album/5X7cego1SYUkPvv7WKP1Vl"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 206067,
       "name": "Luna",
       "url": "https://open.spotify.com/track/2heL7osf5TOVYLLczovWN6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como un Tatuaje",
-        "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 182320,
-      "name": "Como un Tatuaje",
-      "url": "https://open.spotify.com/track/5FiSHv18l1jms2YcV2Avpk"
     },
     {
       "added_at": null,
@@ -639,6 +639,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mi Regreso Es Por Ti",
+        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "El Fon",
+      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dame Chamoy",
         "url": "https://open.spotify.com/album/3OfE5kO16jV59JVJORdG4T"
       },
@@ -655,22 +671,6 @@
       "duration_ms": 146538,
       "name": "Dame Chamoy",
       "url": "https://open.spotify.com/track/6KbhwPBfXgZiF82XA03Fhf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mi Regreso Es Por Ti",
-        "url": "https://open.spotify.com/album/4CWhgEgedf7syEMRYoDhCi"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "El Fon",
-      "url": "https://open.spotify.com/track/5JffgIpQLuPXnE0kx8aEy4"
     },
     {
       "added_at": null,
@@ -755,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Borracho Y Loco",
-        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
-      },
-      "artists": [
-        {
-          "name": "Banda Zeta",
-          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
-        }
-      ],
-      "duration_ms": 197738,
-      "name": "Hasta El Fondo Del Abismo",
-      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Como un Tatuaje",
         "url": "https://open.spotify.com/album/7Ml8Qj7hGFgfKBzEqPb8tX"
       },
@@ -783,6 +767,22 @@
       "duration_ms": 174013,
       "name": "La Morena",
       "url": "https://open.spotify.com/track/0aobwK2k3r8if0ttw2L4Ie"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Borracho Y Loco",
+        "url": "https://open.spotify.com/album/6JKJG6aBYELmKHNDqskJ9k"
+      },
+      "artists": [
+        {
+          "name": "Banda Zeta",
+          "url": "https://open.spotify.com/artist/6Vqqu9f1Xjq8qmYUYZr4uL"
+        }
+      ],
+      "duration_ms": 197738,
+      "name": "Hasta El Fondo Del Abismo",
+      "url": "https://open.spotify.com/track/1cP65BrZnrflETwKMWSZZs"
     },
     {
       "added_at": null,

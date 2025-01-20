@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 171711,
+  "num_followers": 171702,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAABJqkeHRdu3k/LsUG195j81",
+  "snapshot_id": "Z4rvAAAAAAAu4N557Magfbckd1mHdf3m",
   "tracks": [
     {
       "added_at": null,
@@ -647,6 +647,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 189440,
+      "name": "Only Prettier",
+      "url": "https://open.spotify.com/track/05Rdg52eBYVUy5A55rnz39"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Still That Cowboy (feat. Miranda Lambert)",
         "url": "https://open.spotify.com/album/1hzGcSEv6qkgmOxFImQWwq"
       },
@@ -663,22 +679,6 @@
       "duration_ms": 214020,
       "name": "Still That Cowboy (feat. Miranda Lambert)",
       "url": "https://open.spotify.com/track/1JPdtYnnWIIuHUsTfmtvKU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 189440,
-      "name": "Only Prettier",
-      "url": "https://open.spotify.com/track/05Rdg52eBYVUy5A55rnz39"
     },
     {
       "added_at": null,
@@ -919,22 +919,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dammit Randy",
-        "url": "https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 179559,
-      "name": "Dammit Randy",
-      "url": "https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
@@ -947,6 +931,22 @@
       "duration_ms": 208866,
       "name": "More Like Her",
       "url": "https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dammit Randy",
+        "url": "https://open.spotify.com/album/5GU8B79H8LAguIyCyVh5A7"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 179559,
+      "name": "Dammit Randy",
+      "url": "https://open.spotify.com/track/1GUvNctSDGXpo7S3H3uxpT"
     },
     {
       "added_at": null,

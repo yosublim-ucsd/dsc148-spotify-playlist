@@ -4,7 +4,7 @@
 
 > The best in current indie rock\. Cover: Spacey Jane
 
-652 songs - 1 day 12 hr 43 min
+653 songs - 1 day 12 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -227,7 +227,7 @@
 | [GIRLFRIEND SONG](https://open.spotify.com/track/3Ozd3VhAsIMrPFP13nmtAl) | [Devon](https://open.spotify.com/artist/2CXVeT982HeechgvKI3f2v) | [SOMEWHERE IN NOWHERELAND](https://open.spotify.com/album/25KP5rdvSlUzdZixsNBVva) | 3:44 | 2022-10-13 | 2023-01-20 |
 | [Give It Up To Love](https://open.spotify.com/track/7yzD2cGoxqldX9XvZAEQYT) | [Somebody's Child](https://open.spotify.com/artist/5b84ozqhKiJG9LN1IjVac1) | [Somebody's Child](https://open.spotify.com/album/1OhCkiW1loTo9TmTwX4by8) | 3:13 | 2023-02-03 | 2023-07-22 |
 | [Given Up](https://open.spotify.com/track/6U6SE6TIi5dkBtbeTpttuE) | [whenyoung](https://open.spotify.com/artist/6IcfYALmhjyW2kJwRNXHJp) | [Given Up](https://open.spotify.com/album/4rgx764wUVuOBIydzikMEe) | 3:15 | 2021-03-09 | 2022-01-17 |
-| [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 | 2023-05-25 |  |
+| [Gloria](https://open.spotify.com/track/035nLKzJfA7tGQwIwI6TjZ) | [The Snuts](https://open.spotify.com/artist/4AzAfQNuAyKOFG4DZMsdAo) | [Gloria](https://open.spotify.com/album/16dYCNfeucSYqiqd29t2yC) | 2:32 | 2023-05-25 | 2025-01-20 |
 | [Glow In The Dark](https://open.spotify.com/track/6PCJsEOd9rq2mTs6cOuhj2) | [Alberta Cross](https://open.spotify.com/artist/1hPgyZ5YatVFXQBhsXKTpq) | [Glow In The Dark](https://open.spotify.com/album/7ARlhnl5Swf292DJ4IwEV5) | 3:56 | 2023-01-13 | 2023-02-17 |
 | [GO GO GO](https://open.spotify.com/track/7uiXg5Ec2teUAxhIEiD00N) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [GO GO GO](https://open.spotify.com/album/0AD4xVslP0qraEZQKQ5O3S) | 2:25 | 2023-08-11 | 2024-12-06 |
 | [GO!!!](https://open.spotify.com/track/3y5v0rYHHY9DrkZUM6H2kA) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [GO!!!](https://open.spotify.com/album/2jaLAhsvcf5RWgg5uY3ds0) | 3:24 | 2023-11-10 | 2024-02-08 |
@@ -619,6 +619,7 @@
 | [Wake Up](https://open.spotify.com/track/50EaTSirqX6hZS1W2Ja75H) | [The Sherlocks](https://open.spotify.com/artist/4SrofCfzlhtiKRAsMfBxV4) | [World I Understand](https://open.spotify.com/album/3M7gwBCWbgPuHdLPazTJd9) | 3:22 | 2022-01-21 | 2022-08-19 |
 | [Walking Backwards](https://open.spotify.com/track/4Q1FWaLV4jIJJvdtihAwvI) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Walking Backwards](https://open.spotify.com/album/1HeTs1M70blCYgELW08khg) | 5:19 | 2023-05-18 | 2023-09-13 |
 | [Want What You Got](https://open.spotify.com/track/7wBWg3hTj2MUFe02GhMBkA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [The Professional](https://open.spotify.com/album/4pQU5z5Y0CT1aR0AW6QDDL) | 4:28 | 2021-03-09 | 2022-01-17 |
+| [Wants Needs](https://open.spotify.com/track/6OqZgmzppG0NVx3nPwpH6W) | [Bartees Strange](https://open.spotify.com/artist/6Gl4Q3ePw6HKMfIOix5QpG) | [Wants Needs](https://open.spotify.com/album/6r3i5ywHkqFmc2iiBFXdhc) | 4:58 | 2025-01-17 |  |
 | [Waste My Life](https://open.spotify.com/track/0UgHdbUdkHduoh7AYWmE6Z) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/5mvlXivNaikCN2SW6YhHSH) | 2:40 | 2023-08-17 | 2024-04-19 |
 | [Waste My Life](https://open.spotify.com/track/3jLMVF5HDdh10eAi8DgiHD) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Waste My Life](https://open.spotify.com/album/4Xt5HkbBZXyBGDomKr3gvG) | 2:40 | 2023-01-20 | 2023-08-13 |
 | [Watching Strangers Smile](https://open.spotify.com/track/2fZ2u0nLos8nBjS4n3IDKl) | [Parquet Courts](https://open.spotify.com/artist/23NIwARd4vPbxt3wwNnJ6k) | [Watching Strangers Smile](https://open.spotify.com/album/2FbdRiyp61bzj01wQmtiDA) | 3:34 | 2022-01-24 | 2022-08-19 |

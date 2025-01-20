@@ -1,6 +1,6 @@
 {
   "description": "Progressive <a href=\"spotify:genre:edm_dance\">house</a> music for the late night highway.",
-  "num_followers": 1585000,
+  "num_followers": 1585230,
   "original_name": "Night Rider",
   "owner": {
     "name": "Spotify",
@@ -699,34 +699,6 @@
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
-        "name": "Getting Lost",
-        "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
-      },
-      "artists": [
-        {
-          "name": "MOGUAI",
-          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
-        },
-        {
-          "name": "Keanu Silva",
-          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
-        },
-        {
-          "name": "GRATIFY",
-          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
-        },
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Getting Lost",
-      "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
         "name": "Jupiter",
         "url": "https://open.spotify.com/album/5MGV9Y4u2xXvoAR1RtVK6c"
       },
@@ -755,6 +727,34 @@
       "duration_ms": 203211,
       "name": "Forever",
       "url": "https://open.spotify.com/track/2MZjkieXlnbynYBBM6y0Uj"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "Getting Lost",
+        "url": "https://open.spotify.com/album/0qdinh0sxfnzRxRa9mzgeB"
+      },
+      "artists": [
+        {
+          "name": "MOGUAI",
+          "url": "https://open.spotify.com/artist/4xgFgBZ7CRtgtHcziClOwQ"
+        },
+        {
+          "name": "Keanu Silva",
+          "url": "https://open.spotify.com/artist/1zLMhO4zzzxt5PMV4wMS3y"
+        },
+        {
+          "name": "GRATIFY",
+          "url": "https://open.spotify.com/artist/5vLZlXIqghQxwSIiq3lgnh"
+        },
+        {
+          "name": "K-391",
+          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Getting Lost",
+      "url": "https://open.spotify.com/track/71IxdxUXlRpBrRASkihDZ4"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -859,22 +859,6 @@
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
-        "name": "Light",
-        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
-      },
-      "artists": [
-        {
-          "name": "MashBit",
-          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
-        }
-      ],
-      "duration_ms": 169528,
-      "name": "Light",
-      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
         "name": "Wherever You Are",
         "url": "https://open.spotify.com/album/7hjd1WmWPqTyrPGDaywQjK"
       },
@@ -895,6 +879,22 @@
       "duration_ms": 207992,
       "name": "Wherever You Are",
       "url": "https://open.spotify.com/track/4s5kizLw0McJRd4rBG06B4"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "Light",
+        "url": "https://open.spotify.com/album/7yO4wdgapBR9bhMDF6j9WW"
+      },
+      "artists": [
+        {
+          "name": "MashBit",
+          "url": "https://open.spotify.com/artist/2ZUktxXMg0flZ5HGHSd5HZ"
+        }
+      ],
+      "duration_ms": 169528,
+      "name": "Light",
+      "url": "https://open.spotify.com/track/3U88n6ha0Tq3Y5el5vV6is"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -967,6 +967,22 @@
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
+        "name": "Bloom At Night",
+        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
+      },
+      "artists": [
+        {
+          "name": "Miss Monique",
+          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
+        }
+      ],
+      "duration_ms": 199047,
+      "name": "Bloom At Night",
+      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
         "name": "Humans",
         "url": "https://open.spotify.com/album/3IMeZdfa9akLXvM2mqJQad"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 240000,
       "name": "Humans",
       "url": "https://open.spotify.com/track/09uGZlo756Ndzq0WIJQ9eS"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
-        "name": "Bloom At Night",
-        "url": "https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj"
-      },
-      "artists": [
-        {
-          "name": "Miss Monique",
-          "url": "https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR"
-        }
-      ],
-      "duration_ms": 199047,
-      "name": "Bloom At Night",
-      "url": "https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -1027,26 +1027,6 @@
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
-        "name": "Blur",
-        "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
-      },
-      "artists": [
-        {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
-        },
-        {
-          "name": "Marlo Rex",
-          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
-        }
-      ],
-      "duration_ms": 178849,
-      "name": "Blur",
-      "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
         "name": "Ray Of Solar (Mau P Remix)",
         "url": "https://open.spotify.com/album/70g6yAvShyriEefcuLiXxh"
       },
@@ -1063,26 +1043,6 @@
       "duration_ms": 251428,
       "name": "Ray Of Solar - Mau P Remix",
       "url": "https://open.spotify.com/track/7dq34q4YyMOOoCeGNieHv9"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
-        "name": "Biochemical",
-        "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
-      },
-      "artists": [
-        {
-          "name": "Martin Garrix",
-          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
-        },
-        {
-          "name": "Seth Hills",
-          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
-        }
-      ],
-      "duration_ms": 163809,
-      "name": "Biochemical",
-      "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -1119,6 +1079,46 @@
       "duration_ms": 195483,
       "name": "U&ME",
       "url": "https://open.spotify.com/track/7Lqb5crtS7JaNynQ0mszWh"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "Blur",
+        "url": "https://open.spotify.com/album/4t4GnmNhwlpHCDWshyg1Xr"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Marlo Rex",
+          "url": "https://open.spotify.com/artist/3honvvPh3jtS2fTJEYKexS"
+        }
+      ],
+      "duration_ms": 178849,
+      "name": "Blur",
+      "url": "https://open.spotify.com/track/73iwLiAtgpNMu5DeRD7Jph"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "Biochemical",
+        "url": "https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS"
+      },
+      "artists": [
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Seth Hills",
+          "url": "https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7"
+        }
+      ],
+      "duration_ms": 163809,
+      "name": "Biochemical",
+      "url": "https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -1387,42 +1387,6 @@
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
-        "name": "Friend Of Mine",
-        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
-      },
-      "artists": [
-        {
-          "name": "Agents Of Time",
-          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
-        },
-        {
-          "name": "Ross Quinn",
-          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
-        }
-      ],
-      "duration_ms": 213333,
-      "name": "Friend Of Mine",
-      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
-        "name": "Out Of Context",
-        "url": "https://open.spotify.com/album/7cCdA85cVffXQyxpoS6VlN"
-      },
-      "artists": [
-        {
-          "name": "AVIRA",
-          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
-        }
-      ],
-      "duration_ms": 171006,
-      "name": "Out Of Context",
-      "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
         "name": "All That Matters (Artbat Remix)",
         "url": "https://open.spotify.com/album/5BRqAXbsa6oxnnLQIiDHai"
       },
@@ -1443,6 +1407,42 @@
       "duration_ms": 314880,
       "name": "All That Matters - ARTBAT Remix Radio Edit",
       "url": "https://open.spotify.com/track/4vLdWFBi8WgA00nWPUHaLS"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "Out Of Context",
+        "url": "https://open.spotify.com/album/7cCdA85cVffXQyxpoS6VlN"
+      },
+      "artists": [
+        {
+          "name": "AVIRA",
+          "url": "https://open.spotify.com/artist/7rznn3BVOuA5jyPB275jmS"
+        }
+      ],
+      "duration_ms": 171006,
+      "name": "Out Of Context",
+      "url": "https://open.spotify.com/track/3D7gWaRnr2l7zBpimOXLam"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "Friend Of Mine",
+        "url": "https://open.spotify.com/album/1ipZ4uu4EwyTu912NKFbyS"
+      },
+      "artists": [
+        {
+          "name": "Agents Of Time",
+          "url": "https://open.spotify.com/artist/6Jbyd4qzEtbFtswZP1o6Ht"
+        },
+        {
+          "name": "Ross Quinn",
+          "url": "https://open.spotify.com/artist/7zaRAbRhvbrGObP8CjdTsr"
+        }
+      ],
+      "duration_ms": 213333,
+      "name": "Friend Of Mine",
+      "url": "https://open.spotify.com/track/5Bw4Yuk88dpRkFdiVSoJ7M"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -1479,6 +1479,26 @@
       "duration_ms": 169275,
       "name": "Embers",
       "url": "https://open.spotify.com/track/7lU1KPpPh3uwx86KBvT8yK"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "Blue Symphony",
+        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
+      },
+      "artists": [
+        {
+          "name": "KREAM",
+          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+        },
+        {
+          "name": "Jem Cooke",
+          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "Blue Symphony",
+      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -1575,26 +1595,6 @@
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
-        "name": "Not Over Yet (feat. Grace Grundy)",
-        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
-      },
-      "artists": [
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Grace Grundy",
-          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
-        }
-      ],
-      "duration_ms": 161904,
-      "name": "Not Over Yet (feat. Grace Grundy)",
-      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
         "name": "Losing Control (feat. Nathan Nicholson)",
         "url": "https://open.spotify.com/album/5w42DeUYoCaocV1PqDx7QF"
       },
@@ -1611,6 +1611,26 @@
       "duration_ms": 209056,
       "name": "Losing Control (feat. Nathan Nicholson)",
       "url": "https://open.spotify.com/track/6yW6KjdBVwpexa0xI26si0"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "Not Over Yet (feat. Grace Grundy)",
+        "url": "https://open.spotify.com/album/0djeuaziYXiPeHRNN9Vqh6"
+      },
+      "artists": [
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Grace Grundy",
+          "url": "https://open.spotify.com/artist/3pFPBG84k5bQVbL9apf2PD"
+        }
+      ],
+      "duration_ms": 161904,
+      "name": "Not Over Yet (feat. Grace Grundy)",
+      "url": "https://open.spotify.com/track/6IefsGUYN0q8BBrDq1EhiC"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -1651,26 +1671,6 @@
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
-      },
-      "artists": [
-        {
-          "name": "Nicky Romero",
-          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
-        },
-        {
-          "name": "\u00c9milie Rachel",
-          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
-        }
-      ],
-      "duration_ms": 255257,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
         "name": "Slipstream (feat. Julia Church)",
         "url": "https://open.spotify.com/album/0HpYLxmywUQw8Yg8bCfq5o"
       },
@@ -1691,22 +1691,22 @@
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
-        "name": "Blue Symphony",
-        "url": "https://open.spotify.com/album/6n7gP0fXV4kDGAEGwJ0xpv"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/1AyH6vjrsb1iKDL9plmfDz"
       },
       "artists": [
         {
-          "name": "KREAM",
-          "url": "https://open.spotify.com/artist/0DdDnziut7wOo6cAYWVZC5"
+          "name": "Nicky Romero",
+          "url": "https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg"
         },
         {
-          "name": "Jem Cooke",
-          "url": "https://open.spotify.com/artist/0AkL5tzM3UsDlWak9E0OwH"
+          "name": "\u00c9milie Rachel",
+          "url": "https://open.spotify.com/artist/5vgh47byX55s6GPztw1V3Q"
         }
       ],
-      "duration_ms": 203225,
-      "name": "Blue Symphony",
-      "url": "https://open.spotify.com/track/6YztQYF4h3cqtF8rNcVWM5"
+      "duration_ms": 255257,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/4MCYsjVNRpcTGdnz5fWwiZ"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -1867,6 +1867,22 @@
     {
       "added_at": "2025-01-17 05:00:31",
       "album": {
+        "name": "Sudden Moves",
+        "url": "https://open.spotify.com/album/4z4NwHG8xu5JVNdDi8hV1Y"
+      },
+      "artists": [
+        {
+          "name": "Estiva",
+          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
+        }
+      ],
+      "duration_ms": 233754,
+      "name": "Sudden Moves",
+      "url": "https://open.spotify.com/track/1qtwqqbSKlpalFKSm77qdA"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
         "name": "Morning Comes",
         "url": "https://open.spotify.com/album/3SdVXBWFxCHxxwsbm8Bs7h"
       },
@@ -1883,6 +1899,42 @@
       "duration_ms": 201923,
       "name": "Morning Comes",
       "url": "https://open.spotify.com/track/2jFgHxHTzbI3ma02ppPoXz"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "All That I Lost",
+        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
+      },
+      "artists": [
+        {
+          "name": "Tinlicker",
+          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
+        }
+      ],
+      "duration_ms": 259838,
+      "name": "All That I Lost",
+      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
+    },
+    {
+      "added_at": "2025-01-17 05:00:31",
+      "album": {
+        "name": "Radiant",
+        "url": "https://open.spotify.com/album/3XkKoyeXwOBTvFmfBL2cVI"
+      },
+      "artists": [
+        {
+          "name": "Dyzen",
+          "url": "https://open.spotify.com/artist/4iBwpHcklqLJMHgrTEHEYl"
+        },
+        {
+          "name": "Sideral",
+          "url": "https://open.spotify.com/artist/0og0eYW8h4bxYQXBYPvd0b"
+        }
+      ],
+      "duration_ms": 452682,
+      "name": "Dialogue",
+      "url": "https://open.spotify.com/track/52jhw6Sfp5ED2ilnikRyhP"
     },
     {
       "added_at": "2025-01-17 05:00:31",
@@ -1907,54 +1959,6 @@
       "duration_ms": 201904,
       "name": "Sign",
       "url": "https://open.spotify.com/track/63iw65Eq9KwaqAYpC9yFzL"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
-        "name": "All That I Lost",
-        "url": "https://open.spotify.com/album/7KWLGxKqivBsVpvB1PZyQo"
-      },
-      "artists": [
-        {
-          "name": "Tinlicker",
-          "url": "https://open.spotify.com/artist/5EmEZjq8eHEC6qFnT63Lza"
-        }
-      ],
-      "duration_ms": 259838,
-      "name": "All That I Lost",
-      "url": "https://open.spotify.com/track/4iiQHKy1dIbYyRscZuaWTo"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
-        "name": "Sudden Moves",
-        "url": "https://open.spotify.com/album/4z4NwHG8xu5JVNdDi8hV1Y"
-      },
-      "artists": [
-        {
-          "name": "Estiva",
-          "url": "https://open.spotify.com/artist/1ltDgA6tV4utKM6y1BOYIE"
-        }
-      ],
-      "duration_ms": 233754,
-      "name": "Sudden Moves",
-      "url": "https://open.spotify.com/track/1qtwqqbSKlpalFKSm77qdA"
-    },
-    {
-      "added_at": "2025-01-17 05:00:31",
-      "album": {
-        "name": "Dreamscapes",
-        "url": "https://open.spotify.com/album/7zuGKTlHkY7cZZdDpNFALo"
-      },
-      "artists": [
-        {
-          "name": "Eli & Fur",
-          "url": "https://open.spotify.com/artist/5CkVLGKUJkIc1pmSk10QP4"
-        }
-      ],
-      "duration_ms": 230243,
-      "name": "Heart Made Of Glass",
-      "url": "https://open.spotify.com/track/49oh846SsD8V9Zj7eQF4gb"
     }
   ],
   "unique_name": "Night Rider",

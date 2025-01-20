@@ -1,6 +1,6 @@
 {
   "description": "warm and cozy beats to watch the leaves fall, focus, study or chill to.",
-  "num_followers": 10306,
+  "num_followers": 10307,
   "original_name": "lofi autumn beats \ud83c\udf41\ud83c\udf42",
   "owner": {
     "name": "Spotify",
@@ -43,22 +43,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Couch Potato",
-        "url": "https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI"
-      },
-      "artists": [
-        {
-          "name": "ron quixote",
-          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
-        }
-      ],
-      "duration_ms": 146781,
-      "name": "Walk Away",
-      "url": "https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "Eclipse",
         "url": "https://open.spotify.com/album/6QSE30idLxJehzQjUyVIGf"
       },
@@ -71,6 +55,22 @@
       "duration_ms": 144230,
       "name": "Eclipse",
       "url": "https://open.spotify.com/track/2HChh5IiMVMDD7BAJ2FCbZ"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "Couch Potato",
+        "url": "https://open.spotify.com/album/3ep8vjvJIrCoAKfOI76vZI"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "duration_ms": 146781,
+      "name": "Walk Away",
+      "url": "https://open.spotify.com/track/09xMSfQxVF0sPhBuduXAPl"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -267,38 +267,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "still images",
-        "url": "https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg"
-      },
-      "artists": [
-        {
-          "name": "slowburn",
-          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
-        }
-      ],
-      "duration_ms": 127146,
-      "name": "still images",
-      "url": "https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
-        "name": "Lack Of Emotions",
-        "url": "https://open.spotify.com/album/74zbpMColLiKgUjufUIFJr"
-      },
-      "artists": [
-        {
-          "name": "thea harbor",
-          "url": "https://open.spotify.com/artist/2fsFJWtDekOjJEBGAZlFTg"
-        }
-      ],
-      "duration_ms": 147073,
-      "name": "Lack Of Emotions",
-      "url": "https://open.spotify.com/track/1WR0dswbkp0ZH6ml4i9Uzl"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "Big Fish",
         "url": "https://open.spotify.com/album/2Ldz0ZfQh8GKRl43TlLjiT"
       },
@@ -315,6 +283,22 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
+        "name": "still images",
+        "url": "https://open.spotify.com/album/7FXadYBnmeiuQgDDAsBIcg"
+      },
+      "artists": [
+        {
+          "name": "slowburn",
+          "url": "https://open.spotify.com/artist/4wSDv48fN9mItDjtMpSEDo"
+        }
+      ],
+      "duration_ms": 127146,
+      "name": "still images",
+      "url": "https://open.spotify.com/track/0nNO8IoU3OlxARxcYRTVPt"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
         "name": "Make It",
         "url": "https://open.spotify.com/album/4X9vWjNWlZ3qAtyDZ2ZhDj"
       },
@@ -327,6 +311,22 @@
       "duration_ms": 118153,
       "name": "Make It",
       "url": "https://open.spotify.com/track/2teI76KKFE6qkpLZJs7tZ7"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "Lack Of Emotions",
+        "url": "https://open.spotify.com/album/74zbpMColLiKgUjufUIFJr"
+      },
+      "artists": [
+        {
+          "name": "thea harbor",
+          "url": "https://open.spotify.com/artist/2fsFJWtDekOjJEBGAZlFTg"
+        }
+      ],
+      "duration_ms": 147073,
+      "name": "Lack Of Emotions",
+      "url": "https://open.spotify.com/track/1WR0dswbkp0ZH6ml4i9Uzl"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -363,22 +363,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Ocean Ride",
-        "url": "https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq"
-      },
-      "artists": [
-        {
-          "name": "aunt",
-          "url": "https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB"
-        }
-      ],
-      "duration_ms": 129037,
-      "name": "Ocean Ride",
-      "url": "https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "midnight escape",
         "url": "https://open.spotify.com/album/4soXZQhBjBXl0480o8cj5G"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 180791,
       "name": "midnight escape",
       "url": "https://open.spotify.com/track/1H1wSRhMTiGB6cgrNQO4gw"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "Ocean Ride",
+        "url": "https://open.spotify.com/album/0wHm0QUEgZUUNYUF9ut2pq"
+      },
+      "artists": [
+        {
+          "name": "aunt",
+          "url": "https://open.spotify.com/artist/1Qq3CjUcS69tT2vvp1ttpB"
+        }
+      ],
+      "duration_ms": 129037,
+      "name": "Ocean Ride",
+      "url": "https://open.spotify.com/track/2uGyOZUwNdpZChOWspCVYP"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -467,22 +467,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "First Things First",
-        "url": "https://open.spotify.com/album/26GxtM80uLUiS82C069HQm"
-      },
-      "artists": [
-        {
-          "name": "Red Cedar",
-          "url": "https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp"
-        }
-      ],
-      "duration_ms": 126428,
-      "name": "First Things First",
-      "url": "https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "Vanisher",
         "url": "https://open.spotify.com/album/4iQPUoFL9Z5jpIb4qtXGh8"
       },
@@ -499,18 +483,18 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Northern Lights",
-        "url": "https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY"
+        "name": "First Things First",
+        "url": "https://open.spotify.com/album/26GxtM80uLUiS82C069HQm"
       },
       "artists": [
         {
-          "name": "Fuzzy Donut",
-          "url": "https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY"
+          "name": "Red Cedar",
+          "url": "https://open.spotify.com/artist/38yP6LHyPx5tNW9Il5ADFp"
         }
       ],
-      "duration_ms": 149333,
-      "name": "Cherry Orchards",
-      "url": "https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv"
+      "duration_ms": 126428,
+      "name": "First Things First",
+      "url": "https://open.spotify.com/track/5jEGPAOALEaioHHHHeHesB"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -527,6 +511,22 @@
       "duration_ms": 134508,
       "name": "Hopefull Afterall",
       "url": "https://open.spotify.com/track/5SphZD6nqBV1BRkqH0hl10"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "Northern Lights",
+        "url": "https://open.spotify.com/album/4BxtzD2DCHFUaGoPqfCCfY"
+      },
+      "artists": [
+        {
+          "name": "Fuzzy Donut",
+          "url": "https://open.spotify.com/artist/0ubixProKmcD9MP7XJfkfY"
+        }
+      ],
+      "duration_ms": 149333,
+      "name": "Cherry Orchards",
+      "url": "https://open.spotify.com/track/5U3OfS34ggwIzho56omJzv"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -579,22 +579,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "In The Clouds",
-        "url": "https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e"
-      },
-      "artists": [
-        {
-          "name": "ron quixote",
-          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
-        }
-      ],
-      "duration_ms": 144644,
-      "name": "In The Clouds",
-      "url": "https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "Gravity of Love",
         "url": "https://open.spotify.com/album/7cL88M0zNEXKDWr7PQWFh8"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 171560,
       "name": "Gravity of Love",
       "url": "https://open.spotify.com/track/4waRcANfO8zeGwZLGGmK8a"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "In The Clouds",
+        "url": "https://open.spotify.com/album/0FfkARif2WcCd6MKJ5eJ5e"
+      },
+      "artists": [
+        {
+          "name": "ron quixote",
+          "url": "https://open.spotify.com/artist/7IsLRXgrGBhZPleg96NhwA"
+        }
+      ],
+      "duration_ms": 144644,
+      "name": "In The Clouds",
+      "url": "https://open.spotify.com/track/5ZoS36H2m5njSUa49TENdp"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -675,22 +675,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "fragile",
-        "url": "https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd"
-      },
-      "artists": [
-        {
-          "name": "frid",
-          "url": "https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "fragile",
-      "url": "https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "Give Me a Slice",
         "url": "https://open.spotify.com/album/4bkurxTcNY1mtAxy5lYMaD"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 145242,
       "name": "Autumn Briefs",
       "url": "https://open.spotify.com/track/1kcXids1llWtkF7wTQ8HfL"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "fragile",
+        "url": "https://open.spotify.com/album/3FNXIE3Da1PUUykQmrRHFd"
+      },
+      "artists": [
+        {
+          "name": "frid",
+          "url": "https://open.spotify.com/artist/6eFiwjm1ULo3DmDDTTsjLe"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "fragile",
+      "url": "https://open.spotify.com/track/6huL1YkEi40PginuZjfLpV"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -775,6 +775,22 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
+        "name": "flying on the clouds",
+        "url": "https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr"
+      },
+      "artists": [
+        {
+          "name": "Chapter IX",
+          "url": "https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV"
+        }
+      ],
+      "duration_ms": 145687,
+      "name": "flying on the clouds",
+      "url": "https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
         "name": "chuli",
         "url": "https://open.spotify.com/album/4SxVO3YXiuWNgliaiMnwU0"
       },
@@ -803,22 +819,6 @@
       "duration_ms": 113000,
       "name": "triple sun",
       "url": "https://open.spotify.com/track/5DcoqE24JhH57niz7kgR0I"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
-        "name": "flying on the clouds",
-        "url": "https://open.spotify.com/album/6ERlD8xNArGmJwqvzmWRQr"
-      },
-      "artists": [
-        {
-          "name": "Chapter IX",
-          "url": "https://open.spotify.com/artist/6mKDo2EqkJiOtF3cs1CIZV"
-        }
-      ],
-      "duration_ms": 145687,
-      "name": "flying on the clouds",
-      "url": "https://open.spotify.com/track/4cwRE9jaIOcAsuuTpelpC4"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -955,22 +955,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "thyme moves slow",
-        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
-      },
-      "artists": [
-        {
-          "name": "new vibe",
-          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
-        }
-      ],
-      "duration_ms": 147107,
-      "name": "thyme moves slow",
-      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "Eatme",
         "url": "https://open.spotify.com/album/48xcHcAqiNcaCdGlExb0jA"
       },
@@ -983,6 +967,22 @@
       "duration_ms": 135149,
       "name": "Eatme",
       "url": "https://open.spotify.com/track/6DnPJtIzURTDpvHts3tZaQ"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "thyme moves slow",
+        "url": "https://open.spotify.com/album/49sa9gAhQ1jQkRqkx2qhQ5"
+      },
+      "artists": [
+        {
+          "name": "new vibe",
+          "url": "https://open.spotify.com/artist/4opkbCiRUcXTOudZGFZAeo"
+        }
+      ],
+      "duration_ms": 147107,
+      "name": "thyme moves slow",
+      "url": "https://open.spotify.com/track/70GXZOIk33cXFqhpNUiT7X"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
+        "name": "decorate",
+        "url": "https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt"
+      },
+      "artists": [
+        {
+          "name": "okayokay",
+          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
+        }
+      ],
+      "duration_ms": 145626,
+      "name": "decorate",
+      "url": "https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
         "name": "Autumn In New York",
         "url": "https://open.spotify.com/album/7cz2pYe6rJnJxpc6xR8q9u"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 105397,
       "name": "Autumn In New York",
       "url": "https://open.spotify.com/track/0zDJijiN6g2nIKp5IqTKmC"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
-        "name": "decorate",
-        "url": "https://open.spotify.com/album/3T1DwyLHdDde5oOxNGmwyt"
-      },
-      "artists": [
-        {
-          "name": "okayokay",
-          "url": "https://open.spotify.com/artist/633sZM1wdqt78ctvpVluum"
-        }
-      ],
-      "duration_ms": 145626,
-      "name": "decorate",
-      "url": "https://open.spotify.com/track/5VlhG140Gp9NhWhS9Dky1y"
     },
     {
       "added_at": "2024-12-11 13:44:52",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-12-11 13:44:52",
       "album": {
-        "name": "Maze",
-        "url": "https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW"
-      },
-      "artists": [
-        {
-          "name": "Trippy Park",
-          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
-        }
-      ],
-      "duration_ms": 132281,
-      "name": "Maze",
-      "url": "https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc"
-    },
-    {
-      "added_at": "2024-12-11 13:44:52",
-      "album": {
         "name": "Natsumi",
         "url": "https://open.spotify.com/album/72FhFkkn8epsa96noAjLMJ"
       },
@@ -1131,6 +1115,22 @@
       "duration_ms": 158709,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/12FNaRxFplk9Bs3fjpQzHM"
+    },
+    {
+      "added_at": "2024-12-11 13:44:52",
+      "album": {
+        "name": "Maze",
+        "url": "https://open.spotify.com/album/3WxO5DzS0MwIIOoVocv5ZW"
+      },
+      "artists": [
+        {
+          "name": "Trippy Park",
+          "url": "https://open.spotify.com/artist/3x7TFpfYYpYVE0QP7OinsC"
+        }
+      ],
+      "duration_ms": 132281,
+      "name": "Maze",
+      "url": "https://open.spotify.com/track/1sqmpPaAAI2rsepYYUMxkc"
     },
     {
       "added_at": "2024-12-11 13:44:52",

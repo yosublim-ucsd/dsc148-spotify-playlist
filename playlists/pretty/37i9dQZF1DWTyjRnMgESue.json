@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Nolan Taylor",
-  "num_followers": 81873,
+  "num_followers": 81903,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -455,6 +455,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "This World's A Giant",
+        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
+      },
+      "artists": [
+        {
+          "name": "Zach Bryan",
+          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "This World's A Giant",
+      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Call Your Mom (with Lizzy McAlpine)",
         "url": "https://open.spotify.com/album/2b2RIvl7kxH6XQ0A8Yejku"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 234753,
       "name": "End Of The World",
       "url": "https://open.spotify.com/track/5RXjt2s4HBJw3TcaAzwSrD"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "This World's A Giant",
-        "url": "https://open.spotify.com/album/1g6H1fp7COGdwnYGfLEG2D"
-      },
-      "artists": [
-        {
-          "name": "Zach Bryan",
-          "url": "https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "This World's A Giant",
-      "url": "https://open.spotify.com/track/4CD5aJNhq5fGYu3QaHJrm8"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -575,6 +575,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Bones Shake",
+        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
+      },
+      "artists": [
+        {
+          "name": "Hazlett",
+          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
+        }
+      ],
+      "duration_ms": 226011,
+      "name": "Bones Shake",
+      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Homesick (with Sam Fender)",
         "url": "https://open.spotify.com/album/5Oi7V39SxgitXTKezxyw4I"
       },
@@ -591,22 +607,6 @@
       "duration_ms": 194416,
       "name": "Homesick (with Sam Fender)",
       "url": "https://open.spotify.com/track/2l7UudWZ44l1WbHx6ANod9"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Bones Shake",
-        "url": "https://open.spotify.com/album/4b4XkDZLCOUqD3gXZ3y2Yk"
-      },
-      "artists": [
-        {
-          "name": "Hazlett",
-          "url": "https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH"
-        }
-      ],
-      "duration_ms": 226011,
-      "name": "Bones Shake",
-      "url": "https://open.spotify.com/track/2TX0eN7jdjQiGx7NHSax7l"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -825,20 +825,20 @@
       "url": "https://open.spotify.com/track/01ATDIJlGtEbk2KbzJdk1e"
     },
     {
-      "added_at": "2024-12-06 05:00:00",
+      "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Here in the Pitch",
-        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+        "name": "Bovine Excision",
+        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
       },
       "artists": [
         {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+          "name": "Samia",
+          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
         }
       ],
-      "duration_ms": 188293,
-      "name": "Life Is",
-      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
+      "duration_ms": 173177,
+      "name": "Bovine Excision",
+      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -875,6 +875,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 188293,
+      "name": "Life Is",
+      "url": "https://open.spotify.com/track/7I20yqgoGEEfXBK8YNICJ8"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "Massachusetts",
         "url": "https://open.spotify.com/album/3A779MgsgOOYSBTYOxyQEb"
       },
@@ -887,22 +903,6 @@
       "duration_ms": 218954,
       "name": "Massachusetts",
       "url": "https://open.spotify.com/track/4oqVe3JGyD25AeTupMmxqL"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Bovine Excision",
-        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 173177,
-      "name": "Bovine Excision",
-      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1081,6 +1081,26 @@
       "url": "https://open.spotify.com/track/48eUf8bFZmq37EaPUj8S4D"
     },
     {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
+        "name": "Good Thing Going On (ft. Abbey Cone)",
+        "url": "https://open.spotify.com/album/4Vv0XphWxHApFjEI3tSFav"
+      },
+      "artists": [
+        {
+          "name": "Mat Kearney",
+          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
+        },
+        {
+          "name": "Abbey Cone",
+          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
+        }
+      ],
+      "duration_ms": 171373,
+      "name": "Good Thing Going On (ft. Abbey Cone)",
+      "url": "https://open.spotify.com/track/7GHs0BFoFRwswFfwrt080E"
+    },
+    {
       "added_at": "2024-12-06 05:00:00",
       "album": {
         "name": "Timeline",
@@ -1095,38 +1115,6 @@
       "duration_ms": 332585,
       "name": "Timeline",
       "url": "https://open.spotify.com/track/3T9QstFb2oeBo4QoMVMKKx"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Heart of Gold",
-        "url": "https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 152239,
-      "name": "Nobody Knows",
-      "url": "https://open.spotify.com/track/4RifFSu9IowuLVQMC501af"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Southern Star",
-        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
-      },
-      "artists": [
-        {
-          "name": "Leif Vollebekk",
-          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
-        }
-      ],
-      "duration_ms": 305306,
-      "name": "Southern Star",
-      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1147,6 +1135,22 @@
       "duration_ms": 222177,
       "name": "Wildflower and Barley",
       "url": "https://open.spotify.com/track/5AchurLxOrkSX5YVoH4FeJ"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Heart of Gold",
+        "url": "https://open.spotify.com/album/5OFrWDpHvOkYyllO3AKPtS"
+      },
+      "artists": [
+        {
+          "name": "Shawn Mendes",
+          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
+        }
+      ],
+      "duration_ms": 152239,
+      "name": "Nobody Knows",
+      "url": "https://open.spotify.com/track/4RifFSu9IowuLVQMC501af"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1183,6 +1187,22 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
+        "name": "Southern Star",
+        "url": "https://open.spotify.com/album/3FZsjVIsJqoZ3gc7Bp3P24"
+      },
+      "artists": [
+        {
+          "name": "Leif Vollebekk",
+          "url": "https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs"
+        }
+      ],
+      "duration_ms": 305306,
+      "name": "Southern Star",
+      "url": "https://open.spotify.com/track/6KoHiQmj10mI4V9Xu7CMRN"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
         "name": "A Week in Nashville",
         "url": "https://open.spotify.com/album/2fAW7oQpHAHNg31yVgMWg1"
       },
@@ -1195,26 +1215,6 @@
       "duration_ms": 178823,
       "name": "I Came Here to Leave You",
       "url": "https://open.spotify.com/track/3IfZFiVOaQ72Pd3UfZjtSC"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Good Thing Going On (ft. Abbey Cone)",
-        "url": "https://open.spotify.com/album/4Vv0XphWxHApFjEI3tSFav"
-      },
-      "artists": [
-        {
-          "name": "Mat Kearney",
-          "url": "https://open.spotify.com/artist/2NQEwAVHBNcI0tGMLlWwF1"
-        },
-        {
-          "name": "Abbey Cone",
-          "url": "https://open.spotify.com/artist/1N53jg6KZxBoFI9oWNchct"
-        }
-      ],
-      "duration_ms": 171373,
-      "name": "Good Thing Going On (ft. Abbey Cone)",
-      "url": "https://open.spotify.com/track/7GHs0BFoFRwswFfwrt080E"
     },
     {
       "added_at": "2024-12-06 05:00:00",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2024-12-06 05:00:00",
       "album": {
-        "name": "Water's Here In You",
-        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
-      },
-      "artists": [
-        {
-          "name": "Babehoven",
-          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
-        }
-      ],
-      "duration_ms": 151573,
-      "name": "Birdseye",
-      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
         "name": "Fighting For (Hailey Whitters Version)",
         "url": "https://open.spotify.com/album/3XxQ7lcSFWrMVY6uAr63F6"
       },
@@ -1267,6 +1251,22 @@
       "duration_ms": 249523,
       "name": "Fighting For - Hailey Whitters Version",
       "url": "https://open.spotify.com/track/1uvS8i3QrasR8WKgXqpNiP"
+    },
+    {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Water's Here In You",
+        "url": "https://open.spotify.com/album/3aM1dE1P2ikP9ERa1hmtri"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "duration_ms": 151573,
+      "name": "Birdseye",
+      "url": "https://open.spotify.com/track/5g7Ppc6qpnkRpF5CMSpxn8"
     }
   ],
   "unique_name": "Today's Singer-Songwriters",

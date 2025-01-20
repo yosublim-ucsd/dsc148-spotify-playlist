@@ -3927,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "Cold Hard Truth",
+        "url": "https://open.spotify.com/album/3Xj0z4iaakPOJXB2c6CZE7"
+      },
+      "artists": [
+        {
+          "name": "Fox Lake",
+          "url": "https://open.spotify.com/artist/7lmvHeAJ7CIhXCdLKjm7VL"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182061,
+      "name": "Cold Hard Truth",
+      "url": "https://open.spotify.com/track/0MwRJeQZmAn954BxUqcnit"
+    },
+    {
+      "album": {
         "name": "Cold World",
         "url": "https://open.spotify.com/album/4yHK77sLinmbGY7Ebp1l3i"
       },
@@ -5942,6 +5960,24 @@
       "duration_ms": 225666,
       "name": "Drag Me Under",
       "url": "https://open.spotify.com/track/2CwBf7BQoztOsPNUszOOv8"
+    },
+    {
+      "album": {
+        "name": "Drawn, Conned & Deceived",
+        "url": "https://open.spotify.com/album/20rWl9qSSJy31dvRXwAtWH"
+      },
+      "artists": [
+        {
+          "name": "The Narrator",
+          "url": "https://open.spotify.com/artist/7d1ZGbsel9lq6hwvWhPFgk"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190815,
+      "name": "Drawn, Conned & Deceived",
+      "url": "https://open.spotify.com/track/6vIOOhYiLRUBorAMnAsBso"
     },
     {
       "album": {
@@ -9996,7 +10032,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 204076,
       "name": "It Consumes Me",
       "url": "https://open.spotify.com/track/07QTf5QNSssDofN7uoWt7l"
@@ -12102,7 +12138,7 @@
       ],
       "date_added": "2024-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 222616,
       "name": "My Father's Son - Redux",
       "url": "https://open.spotify.com/track/5ZvS9lr8NRA2Uj9AQEXQ4O"

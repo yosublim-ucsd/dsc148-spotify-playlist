@@ -1,6 +1,6 @@
 {
   "description": "Tu banda sonora de este verano. Foto: Karol G",
-  "num_followers": 751700,
+  "num_followers": 751644,
   "original_name": "Verano 2024",
   "owner": {
     "name": "Spotify",
@@ -235,6 +235,22 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "LA VIDA ES UNA",
+        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
+      },
+      "artists": [
+        {
+          "name": "Myke Towers",
+          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
+        }
+      ],
+      "duration_ms": 197920,
+      "name": "LALA",
+      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "Columbia",
         "url": "https://open.spotify.com/album/07kam1Dks7GIucbSelfvyX"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 156577,
       "name": "Ohnana",
       "url": "https://open.spotify.com/track/1fTjqf10accJCDYstPwwZ6"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "LA VIDA ES UNA",
-        "url": "https://open.spotify.com/album/3puAvurwvtvi1rodndIPW8"
-      },
-      "artists": [
-        {
-          "name": "Myke Towers",
-          "url": "https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W"
-        }
-      ],
-      "duration_ms": 197920,
-      "name": "LALA",
-      "url": "https://open.spotify.com/track/7ABLbnD53cQK00mhcaOUVG"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
-        "name": "Prestige",
-        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
-      },
-      "artists": [
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 224693,
-      "name": "Limbo",
-      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
         "name": "Visual\u00edzate",
         "url": "https://open.spotify.com/album/2HXRjHb2nbLJa5r70FBtdT"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 301714,
       "name": "China",
       "url": "https://open.spotify.com/track/2ksOAxtIxY8yElEWw8RhgK"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
+        "name": "Prestige",
+        "url": "https://open.spotify.com/album/6Hu1DObY1WeKWxHfeaOcFg"
+      },
+      "artists": [
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 224693,
+      "name": "Limbo",
+      "url": "https://open.spotify.com/track/3pDhN3qB33AOPhQEkUCaWt"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -847,6 +847,30 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "X'CLUSIVO (REMIX)",
+        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
+      },
+      "artists": [
+        {
+          "name": "Gonzy",
+          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
+        },
+        {
+          "name": "SAIKO",
+          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
+        },
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "X'CLUSIVO - REMIX",
+      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "YOTULOKO",
         "url": "https://open.spotify.com/album/3V37s4pn223tqV4S1roCNW"
       },
@@ -863,26 +887,6 @@
       "duration_ms": 213699,
       "name": "YOTULOKO",
       "url": "https://open.spotify.com/track/49kkoKoXAnjNRlxot1ZnlW"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "El Conjuntito",
-        "url": "https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ"
-      },
-      "artists": [
-        {
-          "name": "El Bobe",
-          "url": "https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a"
-        },
-        {
-          "name": "Omar Montes",
-          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
-        }
-      ],
-      "duration_ms": 158711,
-      "name": "El Conjuntito",
-      "url": "https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf"
     },
     {
       "added_at": "2024-09-02 07:47:14",
@@ -911,6 +915,26 @@
     {
       "added_at": "2024-09-02 07:47:14",
       "album": {
+        "name": "El Conjuntito",
+        "url": "https://open.spotify.com/album/2gDoGr6IjyCIKuKNM6rmZZ"
+      },
+      "artists": [
+        {
+          "name": "El Bobe",
+          "url": "https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a"
+        },
+        {
+          "name": "Omar Montes",
+          "url": "https://open.spotify.com/artist/3lY9Fxceu60W1rbon7PkuF"
+        }
+      ],
+      "duration_ms": 158711,
+      "name": "El Conjuntito",
+      "url": "https://open.spotify.com/track/2bipvepI8ridFvIAImR5Xf"
+    },
+    {
+      "added_at": "2024-09-02 07:47:14",
+      "album": {
         "name": "La Rizos [Dime Si Le Comento a la Pura]",
         "url": "https://open.spotify.com/album/1Kz5RhfbaMniwhbfJAiXzl"
       },
@@ -931,30 +955,6 @@
       "duration_ms": 218119,
       "name": "La Rizos [Dime Si Le Comento a la Pura]",
       "url": "https://open.spotify.com/track/7pvqkMcGzRTWU0YpZoJj6U"
-    },
-    {
-      "added_at": "2024-09-02 07:47:14",
-      "album": {
-        "name": "X'CLUSIVO (REMIX)",
-        "url": "https://open.spotify.com/album/3FUYttT6kvaVvhiUBr6Oyh"
-      },
-      "artists": [
-        {
-          "name": "Gonzy",
-          "url": "https://open.spotify.com/artist/4ixNZvQuuzCDxBsxO9zE6L"
-        },
-        {
-          "name": "SAIKO",
-          "url": "https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u"
-        },
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "X'CLUSIVO - REMIX",
-      "url": "https://open.spotify.com/track/62k8iliO7KTiYp7LWGPa5p"
     },
     {
       "added_at": "2024-09-02 07:47:14",

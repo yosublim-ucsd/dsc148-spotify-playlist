@@ -1,6 +1,6 @@
 {
   "description": "Unwind to the best Indian classical sounds out there.",
-  "num_followers": 115421,
+  "num_followers": 115465,
   "original_name": "Raga Lounge",
   "owner": {
     "name": "Spotify",
@@ -175,6 +175,30 @@
     {
       "added_at": "2025-01-17 05:20:55",
       "album": {
+        "name": "Bandish Bandits (Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+      },
+      "artists": [
+        {
+          "name": "Shankar-Ehsaan-Loy",
+          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+        },
+        {
+          "name": "Farid Hasan",
+          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
+        },
+        {
+          "name": "Mohammed Aman",
+          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
+        }
+      ],
+      "duration_ms": 330921,
+      "name": "Garaj Garaj Jugalbandi",
+      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
+    },
+    {
+      "added_at": "2025-01-17 05:20:55",
+      "album": {
         "name": "Kisi Roz (From \"Auron Mein Kahan Dum Tha\")",
         "url": "https://open.spotify.com/album/4871XszA8zb4D0KrtYrmq3"
       },
@@ -223,26 +247,22 @@
     {
       "added_at": "2025-01-17 05:20:55",
       "album": {
-        "name": "Bandish Bandits (Original Series Soundtrack)",
-        "url": "https://open.spotify.com/album/778BLlKdQHXXzKm6XEiqTz"
+        "name": "Sakal Ban (From \"Heeramandi\") - Single",
+        "url": "https://open.spotify.com/album/5naU4t5jHVZ0Y3bJlWeluh"
       },
       "artists": [
         {
-          "name": "Shankar-Ehsaan-Loy",
-          "url": "https://open.spotify.com/artist/0L5GV6LN8SWWUWIdBbTLTZ"
+          "name": "Sanjay Leela Bhansali",
+          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
         },
         {
-          "name": "Farid Hasan",
-          "url": "https://open.spotify.com/artist/5VS1XKT1Og8hCqS5n7MyLZ"
-        },
-        {
-          "name": "Mohammed Aman",
-          "url": "https://open.spotify.com/artist/1mfkISQy4OfXQjdV46x6Yf"
+          "name": "Raja Hasan",
+          "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
         }
       ],
-      "duration_ms": 330921,
-      "name": "Garaj Garaj Jugalbandi",
-      "url": "https://open.spotify.com/track/1TOQb1AwnZLzrAu4VXZUIO"
+      "duration_ms": 150131,
+      "name": "Sakal Ban (From \"Heeramandi\") - Original",
+      "url": "https://open.spotify.com/track/7svwWqUNrqjhlmaHB6Dl3b"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -271,26 +291,6 @@
       "duration_ms": 291234,
       "name": "Mausam",
       "url": "https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F"
-    },
-    {
-      "added_at": "2025-01-17 05:20:55",
-      "album": {
-        "name": "Sakal Ban (From \"Heeramandi\") - Single",
-        "url": "https://open.spotify.com/album/5naU4t5jHVZ0Y3bJlWeluh"
-      },
-      "artists": [
-        {
-          "name": "Sanjay Leela Bhansali",
-          "url": "https://open.spotify.com/artist/5eWpthiGD66CLD4bQjvIBp"
-        },
-        {
-          "name": "Raja Hasan",
-          "url": "https://open.spotify.com/artist/6ID2zdEFxXLChwiqQzf3ZA"
-        }
-      ],
-      "duration_ms": 150131,
-      "name": "Sakal Ban (From \"Heeramandi\") - Original",
-      "url": "https://open.spotify.com/track/7svwWqUNrqjhlmaHB6Dl3b"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -451,26 +451,6 @@
     {
       "added_at": "2025-01-17 05:20:55",
       "album": {
-        "name": "Sajan Bin",
-        "url": "https://open.spotify.com/album/1N6x1lNOVfGEe6QJNuHCa6"
-      },
-      "artists": [
-        {
-          "name": "Aakanksha Sharma",
-          "url": "https://open.spotify.com/artist/4OFVqZNj0INA51VvzK3Lgw"
-        },
-        {
-          "name": "Geetesh Yadav",
-          "url": "https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm"
-        }
-      ],
-      "duration_ms": 165791,
-      "name": "Sajan Bin",
-      "url": "https://open.spotify.com/track/7KDam7M3C4U7mxBRaO3mJE"
-    },
-    {
-      "added_at": "2025-01-17 05:20:55",
-      "album": {
         "name": "Rut Saawan Ki",
         "url": "https://open.spotify.com/album/2h0eM3wn3M3oiAB2akIxp6"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 289626,
       "name": "Rut Saawan Ki",
       "url": "https://open.spotify.com/track/4wJi7G1KUVdtmnv5O1OX7f"
+    },
+    {
+      "added_at": "2025-01-17 05:20:55",
+      "album": {
+        "name": "Sajan Bin",
+        "url": "https://open.spotify.com/album/1N6x1lNOVfGEe6QJNuHCa6"
+      },
+      "artists": [
+        {
+          "name": "Aakanksha Sharma",
+          "url": "https://open.spotify.com/artist/4OFVqZNj0INA51VvzK3Lgw"
+        },
+        {
+          "name": "Geetesh Yadav",
+          "url": "https://open.spotify.com/artist/2LPKu6MxNC5SRxeiHqRMrm"
+        }
+      ],
+      "duration_ms": 165791,
+      "name": "Sajan Bin",
+      "url": "https://open.spotify.com/track/7KDam7M3C4U7mxBRaO3mJE"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -663,6 +663,26 @@
     {
       "added_at": "2025-01-17 05:20:55",
       "album": {
+        "name": "Nirbhay Nirgun (Live)",
+        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Aastha Mandle",
+          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
+        }
+      ],
+      "duration_ms": 380000,
+      "name": "Nirbhay Nirgun (Live)",
+      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
+    },
+    {
+      "added_at": "2025-01-17 05:20:55",
+      "album": {
         "name": "Dhai Aakhar (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3PbmH1UGtEj2rUhSh7D7kQ"
       },
@@ -707,54 +727,6 @@
       "duration_ms": 909000,
       "name": "Dhun in Raga Mishra Pilu",
       "url": "https://open.spotify.com/track/0Ft7ehrvzxaSx4Z7TYz9CU"
-    },
-    {
-      "added_at": "2025-01-17 05:20:55",
-      "album": {
-        "name": "Nirbhay Nirgun (Live)",
-        "url": "https://open.spotify.com/album/4b8GmKRuGCgnLshdreugl4"
-      },
-      "artists": [
-        {
-          "name": "The Anirudh Varma Collective",
-          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
-        },
-        {
-          "name": "Aastha Mandle",
-          "url": "https://open.spotify.com/artist/3WbMLBBp0iOzfjvU6AcwCA"
-        }
-      ],
-      "duration_ms": 380000,
-      "name": "Nirbhay Nirgun (Live)",
-      "url": "https://open.spotify.com/track/357T838i7RIdC7QVLLWWqC"
-    },
-    {
-      "added_at": "2025-01-17 05:20:55",
-      "album": {
-        "name": "Colors of Varanasi",
-        "url": "https://open.spotify.com/album/6Qz9i0Ky8Hqzcsg4LoA6Xo"
-      },
-      "artists": [
-        {
-          "name": "Piu Mukherjee",
-          "url": "https://open.spotify.com/artist/1ccT0TPFhQ22JCgIH7hDar"
-        },
-        {
-          "name": "Emon Sarkar",
-          "url": "https://open.spotify.com/artist/1kp7agAUErQy0sSd9uAq51"
-        },
-        {
-          "name": "Sudhendu Adhikary",
-          "url": "https://open.spotify.com/artist/3pwwUYBpeVuWM5smc4rqI1"
-        },
-        {
-          "name": "Jyotirmoy Banerjee",
-          "url": "https://open.spotify.com/artist/6Qm4nD6Y4CSNuAJRb4rEyn"
-        }
-      ],
-      "duration_ms": 461282,
-      "name": "Hamari atariya pe",
-      "url": "https://open.spotify.com/track/2HuVgtdHJGM761idTmfdDo"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -831,6 +803,34 @@
       "duration_ms": 258000,
       "name": "Baju Band",
       "url": "https://open.spotify.com/track/6pygtqf5cO7uiy9kgbY8KD"
+    },
+    {
+      "added_at": "2025-01-17 05:20:55",
+      "album": {
+        "name": "Colors of Varanasi",
+        "url": "https://open.spotify.com/album/6Qz9i0Ky8Hqzcsg4LoA6Xo"
+      },
+      "artists": [
+        {
+          "name": "Piu Mukherjee",
+          "url": "https://open.spotify.com/artist/1ccT0TPFhQ22JCgIH7hDar"
+        },
+        {
+          "name": "Emon Sarkar",
+          "url": "https://open.spotify.com/artist/1kp7agAUErQy0sSd9uAq51"
+        },
+        {
+          "name": "Sudhendu Adhikary",
+          "url": "https://open.spotify.com/artist/3pwwUYBpeVuWM5smc4rqI1"
+        },
+        {
+          "name": "Jyotirmoy Banerjee",
+          "url": "https://open.spotify.com/artist/6Qm4nD6Y4CSNuAJRb4rEyn"
+        }
+      ],
+      "duration_ms": 461282,
+      "name": "Hamari atariya pe",
+      "url": "https://open.spotify.com/track/2HuVgtdHJGM761idTmfdDo"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -963,6 +963,30 @@
     {
       "added_at": "2025-01-17 05:20:55",
       "album": {
+        "name": "Celebrating the Legend - Pt. Hari Prasad Chaurasia",
+        "url": "https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt"
+      },
+      "artists": [
+        {
+          "name": "Hariprasad Chaurasia",
+          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
+        },
+        {
+          "name": "Anindo Chatterjee",
+          "url": "https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL"
+        },
+        {
+          "name": "Roopak Kulkarni",
+          "url": "https://open.spotify.com/artist/3SfF1bsY2KPVpfnYisOzo0"
+        }
+      ],
+      "duration_ms": 885826,
+      "name": "Raga Jhinjhoti - Raga Jhinjhoti - Matta Taal",
+      "url": "https://open.spotify.com/track/14qWVbLrLQFXML0qwc2tMY"
+    },
+    {
+      "added_at": "2025-01-17 05:20:55",
+      "album": {
         "name": "Jogii (From \"aura\")",
         "url": "https://open.spotify.com/album/3VqpeSU2f00baLx5nZMF4c"
       },
@@ -999,30 +1023,6 @@
       "duration_ms": 156900,
       "name": "Najariya LoFi Cake Mix",
       "url": "https://open.spotify.com/track/3PRXDT8kUntYccU3L3y0ji"
-    },
-    {
-      "added_at": "2025-01-17 05:20:55",
-      "album": {
-        "name": "Celebrating the Legend - Pt. Hari Prasad Chaurasia",
-        "url": "https://open.spotify.com/album/0xqt6Ag87RHcUuVQH6DbDt"
-      },
-      "artists": [
-        {
-          "name": "Hariprasad Chaurasia",
-          "url": "https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon"
-        },
-        {
-          "name": "Anindo Chatterjee",
-          "url": "https://open.spotify.com/artist/3DOkGwQFyRso8rJoz8d6ZL"
-        },
-        {
-          "name": "Roopak Kulkarni",
-          "url": "https://open.spotify.com/artist/3SfF1bsY2KPVpfnYisOzo0"
-        }
-      ],
-      "duration_ms": 885826,
-      "name": "Raga Jhinjhoti - Raga Jhinjhoti - Matta Taal",
-      "url": "https://open.spotify.com/track/14qWVbLrLQFXML0qwc2tMY"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -1247,6 +1247,26 @@
     {
       "added_at": "2025-01-17 05:20:55",
       "album": {
+        "name": "Kaa Karoon Sajni (Thumri Jazz)",
+        "url": "https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Tarey",
+          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
+        },
+        {
+          "name": "Ruslan Sirota",
+          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
+        }
+      ],
+      "duration_ms": 223409,
+      "name": "Kaa Karoon Sajni - Thumri Jazz",
+      "url": "https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY"
+    },
+    {
+      "added_at": "2025-01-17 05:20:55",
+      "album": {
         "name": "More Piya",
         "url": "https://open.spotify.com/album/6Ii2FMwdKqzhrFEONfC8w1"
       },
@@ -1283,26 +1303,6 @@
       "duration_ms": 275000,
       "name": "Mangal Din",
       "url": "https://open.spotify.com/track/79XHrJNsROhUxi0UPXor4v"
-    },
-    {
-      "added_at": "2025-01-17 05:20:55",
-      "album": {
-        "name": "Kaa Karoon Sajni (Thumri Jazz)",
-        "url": "https://open.spotify.com/album/7cvDSGp8SCQHDwBkiuBcjH"
-      },
-      "artists": [
-        {
-          "name": "Kshitij Tarey",
-          "url": "https://open.spotify.com/artist/1W8O3VMkoLKHlnPtojVU8l"
-        },
-        {
-          "name": "Ruslan Sirota",
-          "url": "https://open.spotify.com/artist/0KSDq54pisOcm1pnpoQfGm"
-        }
-      ],
-      "duration_ms": 223409,
-      "name": "Kaa Karoon Sajni - Thumri Jazz",
-      "url": "https://open.spotify.com/track/19UHMX3nByKeul6TOHePUY"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -1367,26 +1367,6 @@
     {
       "added_at": "2025-01-17 05:20:55",
       "album": {
-        "name": "Barse Badariya",
-        "url": "https://open.spotify.com/album/1N5lJDZXeReW3mDVpTr009"
-      },
-      "artists": [
-        {
-          "name": "prithviraj singh sisodiya",
-          "url": "https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd"
-        },
-        {
-          "name": "Gautam Kale",
-          "url": "https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL"
-        }
-      ],
-      "duration_ms": 204578,
-      "name": "Barse Badariya",
-      "url": "https://open.spotify.com/track/60l7qOaFTNccb7AX51U27k"
-    },
-    {
-      "added_at": "2025-01-17 05:20:55",
-      "album": {
         "name": "AMMP Signature Series Volume 4 - Rag Manj Khammaj / Rag Misra Mand",
         "url": "https://open.spotify.com/album/1Td23rJHTglRiuGmiGO6W2"
       },
@@ -1403,6 +1383,50 @@
       "duration_ms": 1290800,
       "name": "Rag Misra Mand",
       "url": "https://open.spotify.com/track/0ppq8cAPs91MBoUb4vMiCw"
+    },
+    {
+      "added_at": "2025-01-17 05:20:55",
+      "album": {
+        "name": "Aarambh",
+        "url": "https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc"
+      },
+      "artists": [
+        {
+          "name": "Abby V",
+          "url": "https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX"
+        },
+        {
+          "name": "Ricky Kej",
+          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
+        },
+        {
+          "name": "Pratibha Singh Baghel",
+          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Kahe Sataye",
+      "url": "https://open.spotify.com/track/5lZWQY94QWVaxjtam5dRqc"
+    },
+    {
+      "added_at": "2025-01-17 05:20:55",
+      "album": {
+        "name": "Barse Badariya",
+        "url": "https://open.spotify.com/album/1N5lJDZXeReW3mDVpTr009"
+      },
+      "artists": [
+        {
+          "name": "prithviraj singh sisodiya",
+          "url": "https://open.spotify.com/artist/1hFBrEVmvnO6xMKgP9z5zd"
+        },
+        {
+          "name": "Gautam Kale",
+          "url": "https://open.spotify.com/artist/3u6Ygzg3VWXrHHIbgdp1CL"
+        }
+      ],
+      "duration_ms": 204578,
+      "name": "Barse Badariya",
+      "url": "https://open.spotify.com/track/60l7qOaFTNccb7AX51U27k"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -1463,26 +1487,18 @@
     {
       "added_at": "2025-01-17 05:20:55",
       "album": {
-        "name": "Aarambh",
-        "url": "https://open.spotify.com/album/23tB4HqO2xE8DqUkXyhzyc"
+        "name": "Jhuki Aayi Badariya",
+        "url": "https://open.spotify.com/album/0WBU61Fd1qBsaFWzo8n5w7"
       },
       "artists": [
         {
-          "name": "Abby V",
-          "url": "https://open.spotify.com/artist/73VDhvYEhL7FbnDPaNTUmX"
-        },
-        {
-          "name": "Ricky Kej",
-          "url": "https://open.spotify.com/artist/2pG6h1xYYv5j7fuxackcfl"
-        },
-        {
-          "name": "Pratibha Singh Baghel",
-          "url": "https://open.spotify.com/artist/3oGu3v9t2QMZhTLXm3Wb7P"
+          "name": "Pamela Jain",
+          "url": "https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE"
         }
       ],
-      "duration_ms": 230400,
-      "name": "Kahe Sataye",
-      "url": "https://open.spotify.com/track/5lZWQY94QWVaxjtam5dRqc"
+      "duration_ms": 351514,
+      "name": "Jhuki Aayi Badariya",
+      "url": "https://open.spotify.com/track/6J14UQWmV5WPTwMv2SPOag"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -1503,22 +1519,6 @@
       "duration_ms": 332283,
       "name": "Saavan Aayo Re",
       "url": "https://open.spotify.com/track/5JAeLLOKYJDRv8cmXMgrOb"
-    },
-    {
-      "added_at": "2025-01-17 05:20:55",
-      "album": {
-        "name": "Jhuki Aayi Badariya",
-        "url": "https://open.spotify.com/album/0WBU61Fd1qBsaFWzo8n5w7"
-      },
-      "artists": [
-        {
-          "name": "Pamela Jain",
-          "url": "https://open.spotify.com/artist/4BBdp811wrWrr1zk9dENUE"
-        }
-      ],
-      "duration_ms": 351514,
-      "name": "Jhuki Aayi Badariya",
-      "url": "https://open.spotify.com/track/6J14UQWmV5WPTwMv2SPOag"
     },
     {
       "added_at": "2025-01-17 05:20:55",
@@ -1603,6 +1603,34 @@
     {
       "added_at": "2025-01-17 05:20:55",
       "album": {
+        "name": "Naseeba",
+        "url": "https://open.spotify.com/album/1WythwesX07YVuysbvHF9l"
+      },
+      "artists": [
+        {
+          "name": "The Anirudh Varma Collective",
+          "url": "https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB"
+        },
+        {
+          "name": "Kavya Singh",
+          "url": "https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm"
+        },
+        {
+          "name": "Saptak Chatterjee",
+          "url": "https://open.spotify.com/artist/7rcHjaw38oHqxTjwQUnlRc"
+        },
+        {
+          "name": "Amar Syali",
+          "url": "https://open.spotify.com/artist/1eSsfRSewoUsIVKGRQf6NA"
+        }
+      ],
+      "duration_ms": 433053,
+      "name": "Naseeba",
+      "url": "https://open.spotify.com/track/6jXyBwoXbm7SAbr4xRR7av"
+    },
+    {
+      "added_at": "2025-01-17 05:20:55",
+      "album": {
         "name": "Baiyaan",
         "url": "https://open.spotify.com/album/20AVkxpmGkjXeFupoukd3V"
       },
@@ -1675,26 +1703,6 @@
       "duration_ms": 150888,
       "name": "Naina Morey",
       "url": "https://open.spotify.com/track/1AAvTZhVFcQhs6mb941mfq"
-    },
-    {
-      "added_at": "2025-01-17 05:20:55",
-      "album": {
-        "name": "Raag Darbari Kannada",
-        "url": "https://open.spotify.com/album/2SeQPXLYc3Sh7IfhhLLeax"
-      },
-      "artists": [
-        {
-          "name": "Sayan Ghosh",
-          "url": "https://open.spotify.com/artist/0v2VcLKH6etQ0HycMXTiJ6"
-        },
-        {
-          "name": "Tamaghna Chakraborty",
-          "url": "https://open.spotify.com/artist/55xb23Tep4vdgQeVqFKCVw"
-        }
-      ],
-      "duration_ms": 617851,
-      "name": "Darbari Kanara Teen Taal",
-      "url": "https://open.spotify.com/track/6SdKS6uQA7Cvecsibddb2f"
     }
   ],
   "unique_name": "Raga Lounge",

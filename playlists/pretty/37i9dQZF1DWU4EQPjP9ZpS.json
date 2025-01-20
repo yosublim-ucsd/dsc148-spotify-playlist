@@ -1,6 +1,6 @@
 {
   "description": "get lost in the  a e s t h e t i c ",
-  "num_followers": 320957,
+  "num_followers": 321017,
   "original_name": "vaporwave",
   "owner": {
     "name": "Spotify",
@@ -499,6 +499,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Virtua.Zip",
+        "url": "https://open.spotify.com/album/3opxnLFfMiMJzkiJxwZ6za"
+      },
+      "artists": [
+        {
+          "name": "ESPRIT \u7a7a\u60f3",
+          "url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
+        },
+        {
+          "name": "George Clanton",
+          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "Esprit.Wav",
+      "url": "https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Miami Virtual",
         "url": "https://open.spotify.com/album/5DhCQT0YI1NHXxqfNRFyL7"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 201769,
       "name": "This Will Pass",
       "url": "https://open.spotify.com/track/2lIznpONVW6XaK7z0wX7qs"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Virtua.Zip",
-        "url": "https://open.spotify.com/album/3opxnLFfMiMJzkiJxwZ6za"
-      },
-      "artists": [
-        {
-          "name": "ESPRIT \u7a7a\u60f3",
-          "url": "https://open.spotify.com/artist/6eDKMXn3OBIkI8jcY7JtlI"
-        },
-        {
-          "name": "George Clanton",
-          "url": "https://open.spotify.com/artist/1G5v3lpMz7TeoW0yGpRQHr"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "Esprit.Wav",
-      "url": "https://open.spotify.com/track/42e68PnF0DyvfdqubTJ6fx"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -767,6 +767,26 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "mirror gallery (Windows 96 Remix)",
+        "url": "https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2"
+      },
+      "artists": [
+        {
+          "name": "FM Skyline",
+          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
+        },
+        {
+          "name": "Windows 96",
+          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
+        }
+      ],
+      "duration_ms": 163019,
+      "name": "mirror gallery (Windows 96 Remix)",
+      "url": "https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Swing Tournament",
         "url": "https://open.spotify.com/album/0V64Z07UBDgp8RkDgfMIiC"
       },
@@ -855,26 +875,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "mirror gallery (Windows 96 Remix)",
-        "url": "https://open.spotify.com/album/0MJk13mTHzhooFD8zhuJX2"
-      },
-      "artists": [
-        {
-          "name": "FM Skyline",
-          "url": "https://open.spotify.com/artist/78eLUMRVVuDlDgcvYCYDCf"
-        },
-        {
-          "name": "Windows 96",
-          "url": "https://open.spotify.com/artist/65XcfOOaVxbZnNlz40DK7i"
-        }
-      ],
-      "duration_ms": 163019,
-      "name": "mirror gallery (Windows 96 Remix)",
-      "url": "https://open.spotify.com/track/1qnb5BWjEyWNOw06UWpMNH"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "so be it",
         "url": "https://open.spotify.com/album/3HbIV6cxpjbPZIwSZlVEJj"
       },
@@ -887,22 +887,6 @@
       "duration_ms": 388732,
       "name": "so be it",
       "url": "https://open.spotify.com/track/6COVCjiotolKEhQ5KgCzPw"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Televised Tragedies",
-        "url": "https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9"
-      },
-      "artists": [
-        {
-          "name": "18 Carat Affair",
-          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
-        }
-      ],
-      "duration_ms": 97906,
-      "name": "Mirror Mirror",
-      "url": "https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -923,6 +907,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Televised Tragedies",
+        "url": "https://open.spotify.com/album/5pRQPWEMzokiWoq6Q6RyO9"
+      },
+      "artists": [
+        {
+          "name": "18 Carat Affair",
+          "url": "https://open.spotify.com/artist/0va8U409dr4gA1zQ2gSnD5"
+        }
+      ],
+      "duration_ms": 97906,
+      "name": "Mirror Mirror",
+      "url": "https://open.spotify.com/track/3mBjgERfm3Tob8Td8yG1gq"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "Tropics 1",
         "url": "https://open.spotify.com/album/1B0OTswqyimuHF5OEI4uyO"
       },
@@ -935,6 +935,22 @@
       "duration_ms": 208831,
       "name": "Oso",
       "url": "https://open.spotify.com/track/7KTCqS2ABjYUfEXRm4w8SV"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Into the light",
+        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
+      },
+      "artists": [
+        {
+          "name": "Infinity Frequencies",
+          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
+        }
+      ],
+      "duration_ms": 83465,
+      "name": "Curves",
+      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -955,22 +971,6 @@
       "duration_ms": 241836,
       "name": "Edenic Green Plus",
       "url": "https://open.spotify.com/track/3VdhA2Yzb5p1cSBri10ctZ"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Into the light",
-        "url": "https://open.spotify.com/album/3wmJ1Cnepzf42MBkdnEUqp"
-      },
-      "artists": [
-        {
-          "name": "Infinity Frequencies",
-          "url": "https://open.spotify.com/artist/6XcJCz7dqlBOyZ0b57SyQp"
-        }
-      ],
-      "duration_ms": 83465,
-      "name": "Curves",
-      "url": "https://open.spotify.com/track/1mvjF9OhKGF57Lm1gDjlfM"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1071,22 +1071,6 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Tupperwave",
-        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
-      },
-      "artists": [
-        {
-          "name": "Tupperwave",
-          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
-        }
-      ],
-      "duration_ms": 166961,
-      "name": "Alliance Of Elegance",
-      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
         "name": "Videopolis",
         "url": "https://open.spotify.com/album/0luDWNQOJpNEpvIFOjQWuV"
       },
@@ -1099,6 +1083,22 @@
       "duration_ms": 136093,
       "name": "Soul-Vibration",
       "url": "https://open.spotify.com/track/2vI9HFvmIiD7s21wjUeLFg"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
+        "name": "Tupperwave",
+        "url": "https://open.spotify.com/album/0BU1e6MylDRU4UGGlXT3uX"
+      },
+      "artists": [
+        {
+          "name": "Tupperwave",
+          "url": "https://open.spotify.com/artist/5jVWik9dHly6LQnh2pJJiO"
+        }
+      ],
+      "duration_ms": 166961,
+      "name": "Alliance Of Elegance",
+      "url": "https://open.spotify.com/track/1BEyLRogl5KlaTWxogZPH1"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1175,6 +1175,30 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/7E3gWMH1S8VE6uxJxARh8v"
+      },
+      "artists": [
+        {
+          "name": "Trushinitas",
+          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
+        },
+        {
+          "name": "Stux.Io",
+          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
+        },
+        {
+          "name": "Vaporwavez",
+          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
+        }
+      ],
+      "duration_ms": 189836,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/2YpY3UKrjEh9ZfhxDk9gPN"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "made in taiwan",
         "url": "https://open.spotify.com/album/0DpBtmyNfuOSckShgqRLNo"
       },
@@ -1203,30 +1227,6 @@
       "duration_ms": 197500,
       "name": "Fire Magic",
       "url": "https://open.spotify.com/track/080PmEUcM6GjVE13suRCfq"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/7E3gWMH1S8VE6uxJxARh8v"
-      },
-      "artists": [
-        {
-          "name": "Trushinitas",
-          "url": "https://open.spotify.com/artist/7bvJ0n5X6XPbbSCEdKEEvI"
-        },
-        {
-          "name": "Stux.Io",
-          "url": "https://open.spotify.com/artist/5OmqY8dwR6GFMocNY3ph68"
-        },
-        {
-          "name": "Vaporwavez",
-          "url": "https://open.spotify.com/artist/67AOfL6Oi8UZqpuGlw0mT3"
-        }
-      ],
-      "duration_ms": 189836,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/2YpY3UKrjEh9ZfhxDk9gPN"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1427,6 +1427,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
+        "name": "Doom Mix, Vol. V",
+        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+      },
+      "artists": [
+        {
+          "name": "Eyeliner",
+          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Pictures",
+      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
+    },
+    {
+      "added_at": "2023-07-18 02:19:19",
+      "album": {
         "name": "\u30aa\u30aa\u30cf\u30b7",
         "url": "https://open.spotify.com/album/2FEiQRzyzeIPlQqixVNKHb"
       },
@@ -1439,26 +1455,6 @@
       "duration_ms": 85090,
       "name": "Golden Glass",
       "url": "https://open.spotify.com/track/3jrb9jsE0ANHwa7mHGWzsP"
-    },
-    {
-      "added_at": "2023-07-18 02:19:19",
-      "album": {
-        "name": "Tonight in Miami",
-        "url": "https://open.spotify.com/album/4JEID6sWKK00dCnmRDEgyt"
-      },
-      "artists": [
-        {
-          "name": "Groovy Kaiju",
-          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
-        },
-        {
-          "name": "ED.",
-          "url": "https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Tonight in Miami",
-      "url": "https://open.spotify.com/track/57ByE3nknmFyNS4pZD7le8"
     },
     {
       "added_at": "2023-07-18 02:19:19",
@@ -1479,18 +1475,22 @@
     {
       "added_at": "2023-07-18 02:19:19",
       "album": {
-        "name": "Doom Mix, Vol. V",
-        "url": "https://open.spotify.com/album/6GB7fg0YpPH9HWA8New5TL"
+        "name": "Tonight in Miami",
+        "url": "https://open.spotify.com/album/4JEID6sWKK00dCnmRDEgyt"
       },
       "artists": [
         {
-          "name": "Eyeliner",
-          "url": "https://open.spotify.com/artist/6EZTI4G3MyO1cSSkrBJpgI"
+          "name": "Groovy Kaiju",
+          "url": "https://open.spotify.com/artist/7n3JQjlRlrGp9JOcLzSPlR"
+        },
+        {
+          "name": "ED.",
+          "url": "https://open.spotify.com/artist/2WvX9OTkNK2OI2gkj3y7YM"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Pictures",
-      "url": "https://open.spotify.com/track/2VIvfWMO5F6OkzBHadgVci"
+      "duration_ms": 160000,
+      "name": "Tonight in Miami",
+      "url": "https://open.spotify.com/track/57ByE3nknmFyNS4pZD7le8"
     },
     {
       "added_at": "2023-07-18 02:19:19",

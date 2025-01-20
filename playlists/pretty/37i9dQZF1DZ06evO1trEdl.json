@@ -1,12 +1,12 @@
 {
   "description": "This is The Three Degrees. The essential tracks, all in one playlist.",
-  "num_followers": 6263,
+  "num_followers": 6265,
   "original_name": "This Is The Three Degrees",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAACrSPEaa464miG3ZCjSDXAx",
+  "snapshot_id": "Z4rvAAAAAACLIwhcj2TO5Tu5hOySNdMT",
   "tracks": [
     {
       "added_at": null,
@@ -167,8 +167,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Roulette Years",
-        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
+        "name": "The Three Degrees - The Very Best Of",
+        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
       },
       "artists": [
         {
@@ -176,9 +176,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 175680,
-      "name": "Ebb Tide",
-      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
+      "duration_ms": 213786,
+      "name": "We're All Alone",
+      "url": "https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n"
     },
     {
       "added_at": null,
@@ -199,8 +199,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Three Degrees - The Very Best Of",
-        "url": "https://open.spotify.com/album/6q15LPZbFU3wOVF35S6c2l"
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
       },
       "artists": [
         {
@@ -208,9 +208,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 213786,
-      "name": "We're All Alone",
-      "url": "https://open.spotify.com/track/4hua7kkNIxSudKIxRmDk5n"
+      "duration_ms": 337946,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
     },
     {
       "added_at": null,
@@ -231,8 +231,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+        "name": "The Roulette Years",
+        "url": "https://open.spotify.com/album/667tnH3Cg2vRbXoBbzE0t1"
       },
       "artists": [
         {
@@ -240,9 +240,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 337946,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/2VJUb4hrOmugyRDMOJbkEK"
+      "duration_ms": 175680,
+      "name": "Ebb Tide",
+      "url": "https://open.spotify.com/track/75AkMaqnHPuRjjung1wpxw"
     },
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maybe (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
+        "name": "Sunday Music",
+        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 164306,
-      "name": "Rosegarden",
-      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
+      "duration_ms": 202026,
+      "name": "Sugar On Sunday",
+      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sunday Music",
-        "url": "https://open.spotify.com/album/1t7apwC2kmY4jlv9crSBBl"
+        "name": "Maybe (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0MTZS4VSddcWovq3OKLGit"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 202026,
-      "name": "Sugar On Sunday",
-      "url": "https://open.spotify.com/track/3SFlyxdYAEl9lSNIqdJEOY"
+      "duration_ms": 164306,
+      "name": "Rosegarden",
+      "url": "https://open.spotify.com/track/49ur3xQPESQgKruXyF8Xec"
     },
     {
       "added_at": null,
@@ -587,22 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
-        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 124200,
-      "name": "Gee Baby (I'm Sorry)",
-      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamonds",
         "url": "https://open.spotify.com/album/1K9wTEOi8UIexEIng4i4Ez"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 151786,
       "name": "Diamonds",
       "url": "https://open.spotify.com/track/1qzZUUlJsvDJ10QvzcO304"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Gee Baby (I'm Sorry) / Do What You're Supposed to Do",
+        "url": "https://open.spotify.com/album/1RF9jf8VW7R8nbQkzKxKbT"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 124200,
+      "name": "Gee Baby (I'm Sorry)",
+      "url": "https://open.spotify.com/track/5jCUuFAc348edhtmHBBbtr"
     },
     {
       "added_at": null,
@@ -655,22 +655,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Look in My Eyes",
-        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 157773,
-      "name": "Look in My Eyes",
-      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "60's Girl Groups",
         "url": "https://open.spotify.com/album/1zEQQZpalmUYtDhd2WcxbP"
       },
@@ -687,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Uplifting Soul Classics",
-        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
+        "name": "Look in My Eyes",
+        "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
       },
       "artists": [
         {
@@ -696,9 +680,25 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 159626,
-      "name": "There's So Much Love All Around Me",
-      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
+      "duration_ms": 157773,
+      "name": "Look in My Eyes",
+      "url": "https://open.spotify.com/track/701vVe5HF9Sg5qe4hfiqOv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 193533,
+      "name": "If You Must Leave My Life",
+      "url": "https://open.spotify.com/track/5icPV15prKmFvjRnwQ1lsS"
     },
     {
       "added_at": null,
@@ -735,8 +735,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "So Much Love (Expanded Edition)",
-        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
+        "name": "Uplifting Soul Classics",
+        "url": "https://open.spotify.com/album/0Th6Y9UZNY12UVHKlb8pwd"
       },
       "artists": [
         {
@@ -744,9 +744,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 193533,
-      "name": "If You Must Leave My Life",
-      "url": "https://open.spotify.com/track/5icPV15prKmFvjRnwQ1lsS"
+      "duration_ms": 159626,
+      "name": "There's So Much Love All Around Me",
+      "url": "https://open.spotify.com/track/3vOGzEPObrcf8EGtU7QBrY"
     },
     {
       "added_at": null,
@@ -803,6 +803,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Playlist: The Best Of The Roulette Years",
+        "url": "https://open.spotify.com/album/6XpWAy4yKqmaopZL0xeb15"
+      },
+      "artists": [
+        {
+          "name": "The Three Degrees",
+          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
+        }
+      ],
+      "duration_ms": 274480,
+      "name": "Requiem",
+      "url": "https://open.spotify.com/track/5da5BnxJydeLtlmhjwCBaA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Look in My Eyes",
         "url": "https://open.spotify.com/album/6Sydd3h4gSqbEZPwrGzmSv"
       },
@@ -819,8 +835,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3D",
-        "url": "https://open.spotify.com/album/3wNVCNZ8WtBnVcn07TOICP"
+        "name": "So Much Love (Expanded Edition)",
+        "url": "https://open.spotify.com/album/7v5XgVfc4BOl7nK1AZMS9U"
       },
       "artists": [
         {
@@ -828,25 +844,9 @@
           "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
         }
       ],
-      "duration_ms": 342080,
-      "name": "Red Light",
-      "url": "https://open.spotify.com/track/5pxDzfU6DyOHOtCICFUQOI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "New Dimensions",
-        "url": "https://open.spotify.com/album/0UxCcD713JwIalWQPy5nkg"
-      },
-      "artists": [
-        {
-          "name": "The Three Degrees",
-          "url": "https://open.spotify.com/artist/2zpFG5cvw00QmrYTUsjApa"
-        }
-      ],
-      "duration_ms": 329440,
-      "name": "Looking For Love",
-      "url": "https://open.spotify.com/track/6AwJuteaH9Yc1F2Rus33oF"
+      "duration_ms": 197040,
+      "name": "Who Is She and What Is She to You",
+      "url": "https://open.spotify.com/track/5pzpxn3XvxtVeCNSBm8zys"
     }
   ],
   "unique_name": "This Is The Three Degrees",

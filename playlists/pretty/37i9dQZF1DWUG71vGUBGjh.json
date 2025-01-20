@@ -1,6 +1,6 @@
 {
   "description": "Plug your brain into a modular synthesizer analog loop.",
-  "num_followers": 112092,
+  "num_followers": 112164,
   "original_name": "MoogTube",
   "owner": {
     "name": "Spotify",
@@ -115,38 +115,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Haunted Mansion",
-        "url": "https://open.spotify.com/album/0D0ewaLXve7NBibkwrrdIA"
+        "name": "Manhattan Research, Inc.",
+        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
       },
       "artists": [
         {
-          "name": "Xavier Atencio",
-          "url": "https://open.spotify.com/artist/6eajFXBUnFh0Z5udAWYnw4"
-        },
-        {
-          "name": "Buddy Baker",
-          "url": "https://open.spotify.com/artist/4yUAT1Do55lGQQh8VQOHKf"
+          "name": "Raymond Scott",
+          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
         }
       ],
-      "duration_ms": 61960,
-      "name": "Swinging Wake",
-      "url": "https://open.spotify.com/track/23A1NASqXQ8shwyuzsA1iN"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Moog Indigo",
-        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
-      },
-      "artists": [
-        {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
-        }
-      ],
-      "duration_ms": 149000,
-      "name": "The Elephant Never Forgets",
-      "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
+      "duration_ms": 133533,
+      "name": "Portofino 1",
+      "url": "https://open.spotify.com/track/42ubQOTKEONle9BNTlHTu3"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -167,6 +147,26 @@
       "duration_ms": 340720,
       "name": "Kelly Watch the Stars - Moog Cookbook Remix",
       "url": "https://open.spotify.com/track/4BlgD9buyKeFM1mTOEPYCU"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The Haunted Mansion",
+        "url": "https://open.spotify.com/album/0D0ewaLXve7NBibkwrrdIA"
+      },
+      "artists": [
+        {
+          "name": "Xavier Atencio",
+          "url": "https://open.spotify.com/artist/6eajFXBUnFh0Z5udAWYnw4"
+        },
+        {
+          "name": "Buddy Baker",
+          "url": "https://open.spotify.com/artist/4yUAT1Do55lGQQh8VQOHKf"
+        }
+      ],
+      "duration_ms": 61960,
+      "name": "Swinging Wake",
+      "url": "https://open.spotify.com/track/23A1NASqXQ8shwyuzsA1iN"
     },
     {
       "added_at": "2024-08-02 17:01:54",
@@ -195,34 +195,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Manhattan Research, Inc.",
-        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
+        "name": "Moog Indigo",
+        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
       },
       "artists": [
         {
-          "name": "Raymond Scott",
-          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
         }
       ],
-      "duration_ms": 133533,
-      "name": "Portofino 1",
-      "url": "https://open.spotify.com/track/42ubQOTKEONle9BNTlHTu3"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Snowflakes Are Dancing",
-        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
-      },
-      "artists": [
-        {
-          "name": "Isao Tomita",
-          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Arabesque No. 1",
-      "url": "https://open.spotify.com/track/44E9fWdAOFcxXLctkQZMt7"
+      "duration_ms": 149000,
+      "name": "The Elephant Never Forgets",
+      "url": "https://open.spotify.com/track/5jEUZSxLX8EbuhcXncEnDE"
     },
     {
       "added_at": "2022-01-11 03:06:12",
@@ -239,22 +223,6 @@
       "duration_ms": 213000,
       "name": "Cumbia de sal",
       "url": "https://open.spotify.com/track/1pUao3U3TtnQ5Ob1CMy5vl"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
-      },
-      "artists": [
-        {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
-        }
-      ],
-      "duration_ms": 171546,
-      "name": "Wichita Lineman",
-      "url": "https://open.spotify.com/track/3YO2qFdxBctCfkzb5dkqCH"
     },
     {
       "added_at": "2022-11-19 05:34:39",
@@ -275,18 +243,34 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog Indigo",
-        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
+        "name": "Snowflakes Are Dancing",
+        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
       },
       "artists": [
         {
-          "name": "Jean-Jacques Perrey",
-          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+          "name": "Isao Tomita",
+          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
         }
       ],
-      "duration_ms": 129000,
-      "name": "Gossipo Perpetuo",
-      "url": "https://open.spotify.com/track/0RabJGGnKLiiW6EeMAyh3p"
+      "duration_ms": 239600,
+      "name": "Arabesque No. 1",
+      "url": "https://open.spotify.com/track/44E9fWdAOFcxXLctkQZMt7"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+      },
+      "artists": [
+        {
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+        }
+      ],
+      "duration_ms": 171546,
+      "name": "Wichita Lineman",
+      "url": "https://open.spotify.com/track/3YO2qFdxBctCfkzb5dkqCH"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -327,22 +311,34 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Tron (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7wIvILO6pAlr0jl46GLXLf"
+        "name": "Moog: The Electric Eclectics Of Dick Hyman",
+        "url": "https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY"
       },
       "artists": [
         {
-          "name": "London Philharmonic Orchestra",
-          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
-        },
-        {
-          "name": "Wendy Carlos",
-          "url": "https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB"
+          "name": "Dick Hyman",
+          "url": "https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT"
         }
       ],
-      "duration_ms": 97440,
-      "name": "Theme from Tron - From \"TRON\"/Score",
-      "url": "https://open.spotify.com/track/6h7kp0vSYQobYlsv30RpqH"
+      "duration_ms": 183400,
+      "name": "The Moog And Me",
+      "url": "https://open.spotify.com/track/1JGFQsMhUaZZJiJTvfUqFc"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog Indigo",
+        "url": "https://open.spotify.com/album/6ByFx8BCQBpLVk3GiMkPx9"
+      },
+      "artists": [
+        {
+          "name": "Jean-Jacques Perrey",
+          "url": "https://open.spotify.com/artist/09x9KmiHgFJgWySzkMRNGx"
+        }
+      ],
+      "duration_ms": 129000,
+      "name": "Gossipo Perpetuo",
+      "url": "https://open.spotify.com/track/0RabJGGnKLiiW6EeMAyh3p"
     },
     {
       "added_at": "2024-06-18 16:38:44",
@@ -359,6 +355,26 @@
       "duration_ms": 159500,
       "name": "Pesce Rosso",
       "url": "https://open.spotify.com/track/3SBP2ogQ1cv4tr3mDcnpDB"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Tron (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7wIvILO6pAlr0jl46GLXLf"
+      },
+      "artists": [
+        {
+          "name": "London Philharmonic Orchestra",
+          "url": "https://open.spotify.com/artist/3PfJE6ebCbCHeuqO4BfNeA"
+        },
+        {
+          "name": "Wendy Carlos",
+          "url": "https://open.spotify.com/artist/5MmXZQUGs0eXP5PV79iKrB"
+        }
+      ],
+      "duration_ms": 97440,
+      "name": "Theme from Tron - From \"TRON\"/Score",
+      "url": "https://open.spotify.com/track/6h7kp0vSYQobYlsv30RpqH"
     },
     {
       "added_at": "2022-11-19 05:34:39",
@@ -379,38 +395,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Moog: The Electric Eclectics Of Dick Hyman",
-        "url": "https://open.spotify.com/album/2euTcNzWkbega5PDShQxaY"
-      },
-      "artists": [
-        {
-          "name": "Dick Hyman",
-          "url": "https://open.spotify.com/artist/5RRGjsMRTbm0kqvZcFplZT"
-        }
-      ],
-      "duration_ms": 183400,
-      "name": "The Moog And Me",
-      "url": "https://open.spotify.com/track/1JGFQsMhUaZZJiJTvfUqFc"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
-      },
-      "artists": [
-        {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
-        }
-      ],
-      "duration_ms": 128440,
-      "name": "Foggy Mountain Breakdown",
-      "url": "https://open.spotify.com/track/6ae0YFStZkViq59eM9Ii9J"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Cosmic Sounds",
         "url": "https://open.spotify.com/album/5ANJMlWISgb5qb0U0zcxCw"
       },
@@ -423,6 +407,30 @@
       "duration_ms": 221893,
       "name": "Taurus - The Voluptuary",
       "url": "https://open.spotify.com/track/2hAzjYDhtzeMpFg0zUNQrW"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Space Oddities: Studio Ganaro (1972-1982)",
+        "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
+      },
+      "artists": [
+        {
+          "name": "Nino Nardini",
+          "url": "https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS"
+        },
+        {
+          "name": "Eddie Warner",
+          "url": "https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2"
+        },
+        {
+          "name": "Roger Roger",
+          "url": "https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt"
+        }
+      ],
+      "duration_ms": 123973,
+      "name": "Beyond the Clouds",
+      "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
     },
     {
       "added_at": "2024-08-02 17:01:54",
@@ -451,6 +459,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+      },
+      "artists": [
+        {
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+        }
+      ],
+      "duration_ms": 128440,
+      "name": "Foggy Mountain Breakdown",
+      "url": "https://open.spotify.com/track/6ae0YFStZkViq59eM9Ii9J"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Virtual World",
         "url": "https://open.spotify.com/album/1OprXHIv02g0zq9smNKnOl"
       },
@@ -463,30 +487,6 @@
       "duration_ms": 149266,
       "name": "Tropical Green (B) - Instrumental Version",
       "url": "https://open.spotify.com/track/3D94IdEFFnOL6wt2S2Dm1a"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Space Oddities: Studio Ganaro (1972-1982)",
-        "url": "https://open.spotify.com/album/6lGpTboVQzyQbEqWbclLyU"
-      },
-      "artists": [
-        {
-          "name": "Nino Nardini",
-          "url": "https://open.spotify.com/artist/48pg9FROggMJw7RkrJykRS"
-        },
-        {
-          "name": "Eddie Warner",
-          "url": "https://open.spotify.com/artist/1RJ3kDZEsPG8jqxYpWUxS2"
-        },
-        {
-          "name": "Roger Roger",
-          "url": "https://open.spotify.com/artist/3kM4HaykfdSRvQFxL4Xzgt"
-        }
-      ],
-      "duration_ms": 123973,
-      "name": "Beyond the Clouds",
-      "url": "https://open.spotify.com/track/1LUCSMbcv43ZhcCz9LwVHz"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -555,22 +555,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
-      },
-      "artists": [
-        {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
-        }
-      ],
-      "duration_ms": 195533,
-      "name": "Folsom Prison Blues",
-      "url": "https://open.spotify.com/track/4Lr58MKv45cz3du2fcN8jA"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Electropop Music Machine",
         "url": "https://open.spotify.com/album/5UbK119FGtKi2n2KNyatfl"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 145133,
       "name": "Chicken on the Rocks",
       "url": "https://open.spotify.com/track/6ZY14oBfrMJZKpYqLDilwu"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+      },
+      "artists": [
+        {
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+        }
+      ],
+      "duration_ms": 195533,
+      "name": "Folsom Prison Blues",
+      "url": "https://open.spotify.com/track/4Lr58MKv45cz3du2fcN8jA"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -637,22 +637,6 @@
       "url": "https://open.spotify.com/track/614QR7JNfM0DxmHqxsufK4"
     },
     {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "The In Sound From Way Out",
-        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
-      },
-      "artists": [
-        {
-          "name": "Perrey and Kingsley",
-          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
-        }
-      ],
-      "duration_ms": 119000,
-      "name": "The Unidentified Flying Object",
-      "url": "https://open.spotify.com/track/3JccctYY66FfSyFkd3JcbF"
-    },
-    {
       "added_at": "2023-12-20 05:07:47",
       "album": {
         "name": "Available Forms",
@@ -701,6 +685,22 @@
       "url": "https://open.spotify.com/track/59m5IVfKeV9f0oLiCULviI"
     },
     {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The In Sound From Way Out",
+        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
+      },
+      "artists": [
+        {
+          "name": "Perrey and Kingsley",
+          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
+        }
+      ],
+      "duration_ms": 119000,
+      "name": "The Unidentified Flying Object",
+      "url": "https://open.spotify.com/track/3JccctYY66FfSyFkd3JcbF"
+    },
+    {
       "added_at": "2022-02-25 02:39:31",
       "album": {
         "name": "The Miracles Of The Seven Dances",
@@ -715,22 +715,6 @@
       "duration_ms": 267171,
       "name": "Badaouiah",
       "url": "https://open.spotify.com/track/1Eu3mluKxqsUyLNmQeUi1r"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "The In Sound From Way Out",
-        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
-      },
-      "artists": [
-        {
-          "name": "Perrey and Kingsley",
-          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "The Little Man From Mars",
-      "url": "https://open.spotify.com/track/3Y4lx1dpUJ11jHOBKfnK8q"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -775,22 +759,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Snowflakes Are Dancing",
-        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
-      },
-      "artists": [
-        {
-          "name": "Isao Tomita",
-          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
-        }
-      ],
-      "duration_ms": 199426,
-      "name": "Suite bergamasque: No. 4: Passepied",
-      "url": "https://open.spotify.com/track/6V7sNMVFArM2DLteFLiPPg"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Moog (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
       },
@@ -803,6 +771,22 @@
       "duration_ms": 311653,
       "name": "Bob's Funk",
       "url": "https://open.spotify.com/track/187OL8IkLAceM1zalrCZ5Q"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Snowflakes Are Dancing",
+        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
+      },
+      "artists": [
+        {
+          "name": "Isao Tomita",
+          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        }
+      ],
+      "duration_ms": 199426,
+      "name": "Suite bergamasque: No. 4: Passepied",
+      "url": "https://open.spotify.com/track/6V7sNMVFArM2DLteFLiPPg"
     },
     {
       "added_at": "2023-12-20 05:07:47",
@@ -821,6 +805,22 @@
       "url": "https://open.spotify.com/track/3YA3uJEowHQbyrMzam91jJ"
     },
     {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The In Sound From Way Out",
+        "url": "https://open.spotify.com/album/6PSsRBZTDdD4BJkAFhobdK"
+      },
+      "artists": [
+        {
+          "name": "Perrey and Kingsley",
+          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
+        }
+      ],
+      "duration_ms": 148000,
+      "name": "The Little Man From Mars",
+      "url": "https://open.spotify.com/track/3Y4lx1dpUJ11jHOBKfnK8q"
+    },
+    {
       "added_at": "2024-05-10 19:25:14",
       "album": {
         "name": "Magic Fly",
@@ -835,22 +835,6 @@
       "duration_ms": 260266,
       "name": "Magic Fly",
       "url": "https://open.spotify.com/track/5PklZKzuqiUrSxgQOs40t6"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "The Out Sound From Way In!",
-        "url": "https://open.spotify.com/album/6JGqckpNnvBhco52GETW15"
-      },
-      "artists": [
-        {
-          "name": "Perrey and Kingsley",
-          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
-        }
-      ],
-      "duration_ms": 146493,
-      "name": "Barnyard In Orbit",
-      "url": "https://open.spotify.com/track/40gZr472mFyg9YCk8nrzwm"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -905,36 +889,20 @@
       "url": "https://open.spotify.com/track/4RZqAPcXS3eTasFttfgi1J"
     },
     {
-      "added_at": "2024-05-30 23:12:42",
-      "album": {
-        "name": "Alive and Well - Recorded in Paris",
-        "url": "https://open.spotify.com/album/5sShluwFAJshVIjwhMvmmW"
-      },
-      "artists": [
-        {
-          "name": "Soft Machine",
-          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
-        }
-      ],
-      "duration_ms": 497626,
-      "name": "Soft Space",
-      "url": "https://open.spotify.com/track/7N0GNjGDywjaR0Ns91PiAv"
-    },
-    {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Snowflakes Are Dancing",
-        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
+        "name": "The Out Sound From Way In!",
+        "url": "https://open.spotify.com/album/6JGqckpNnvBhco52GETW15"
       },
       "artists": [
         {
-          "name": "Isao Tomita",
-          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+          "name": "Perrey and Kingsley",
+          "url": "https://open.spotify.com/artist/3daZ54uJ2NvlclfdEkfa4R"
         }
       ],
-      "duration_ms": 613800,
-      "name": "Prelude to the Afternoon of a Faun",
-      "url": "https://open.spotify.com/track/49PTfrUJSYFFBIdaEXcwyJ"
+      "duration_ms": 146493,
+      "name": "Barnyard In Orbit",
+      "url": "https://open.spotify.com/track/40gZr472mFyg9YCk8nrzwm"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -953,6 +921,22 @@
       "url": "https://open.spotify.com/track/4v33u82NZavg0ji35Cu4Vq"
     },
     {
+      "added_at": "2024-05-30 23:12:42",
+      "album": {
+        "name": "Alive and Well - Recorded in Paris",
+        "url": "https://open.spotify.com/album/5sShluwFAJshVIjwhMvmmW"
+      },
+      "artists": [
+        {
+          "name": "Soft Machine",
+          "url": "https://open.spotify.com/artist/5A0MH7JfEBEMySevsmauds"
+        }
+      ],
+      "duration_ms": 497626,
+      "name": "Soft Space",
+      "url": "https://open.spotify.com/track/7N0GNjGDywjaR0Ns91PiAv"
+    },
+    {
       "added_at": "2023-12-20 05:07:47",
       "album": {
         "name": "Disco Experience",
@@ -967,6 +951,22 @@
       "duration_ms": 234000,
       "name": "Disco Moog",
       "url": "https://open.spotify.com/track/1yu3Ju4HbS4yvZMvR5WchU"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Snowflakes Are Dancing",
+        "url": "https://open.spotify.com/album/7ctJhhwImubvW88k7tXo9E"
+      },
+      "artists": [
+        {
+          "name": "Isao Tomita",
+          "url": "https://open.spotify.com/artist/6wvkwvDNBOQ9FXRQGfBxIv"
+        }
+      ],
+      "duration_ms": 613800,
+      "name": "Prelude to the Afternoon of a Faun",
+      "url": "https://open.spotify.com/track/49PTfrUJSYFFBIdaEXcwyJ"
     },
     {
       "added_at": "2022-02-21 19:59:18",
@@ -1033,22 +1033,6 @@
       "url": "https://open.spotify.com/track/4Arau0rDs3eVb8hwAhWliz"
     },
     {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Meat Beat Manifesto",
-          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
-        }
-      ],
-      "duration_ms": 294426,
-      "name": "Unavailable Memory",
-      "url": "https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ"
-    },
-    {
       "added_at": "2023-06-08 00:48:53",
       "album": {
         "name": "Moon Journey",
@@ -1063,6 +1047,22 @@
       "duration_ms": 378661,
       "name": "Moon Journey",
       "url": "https://open.spotify.com/track/2KT1zr64KJosXMcpueH5A5"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "Meat Beat Manifesto",
+          "url": "https://open.spotify.com/artist/3AO9jmM1JTooPNcu9tTyZx"
+        }
+      ],
+      "duration_ms": 294426,
+      "name": "Unavailable Memory",
+      "url": "https://open.spotify.com/track/2TYPY7sEP9cBAcqScBiNEQ"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Elemente",
-        "url": "https://open.spotify.com/album/0Q6XVeGOkHpEiMIwWsecVc"
-      },
-      "artists": [
-        {
-          "name": "CV Vision",
-          "url": "https://open.spotify.com/artist/2RG7G2dyZMJ0iFOFlU6Dkk"
-        }
-      ],
-      "duration_ms": 892148,
-      "name": "Treiben",
-      "url": "https://open.spotify.com/track/33zNcoFyeYniyckztTa5xT"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Moog Power",
         "url": "https://open.spotify.com/album/66PzcvhyMJwlp9062pIGiX"
       },
@@ -1179,38 +1163,6 @@
       "duration_ms": 174786,
       "name": "Moog Power",
       "url": "https://open.spotify.com/track/3r6cHXQQt0BUVC6vEUUzh2"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "The Happy Moog",
-        "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
-      },
-      "artists": [
-        {
-          "name": "The Happy Moog",
-          "url": "https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87"
-        }
-      ],
-      "duration_ms": 124197,
-      "name": "March Of The Martians",
-      "url": "https://open.spotify.com/track/4rF8nv1j7zum3p0R5ExkkT"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "P\u00e4iv\u00e4tanssien parhaat",
-        "url": "https://open.spotify.com/album/1ggSHsx9pvL1r92UX25oG4"
-      },
-      "artists": [
-        {
-          "name": "Seidat",
-          "url": "https://open.spotify.com/artist/2WgmqTDVPlhCtTNeRYMU8W"
-        }
-      ],
-      "duration_ms": 161200,
-      "name": "Sumu - Popcorn",
-      "url": "https://open.spotify.com/track/3qWV1gmD07HF4GFbfR2Pbf"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1231,6 +1183,54 @@
       "duration_ms": 205906,
       "name": "Hernando's Hideaway / Tico Tico",
       "url": "https://open.spotify.com/track/3u3xjrU0VQvDe4uSTfmR4W"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The Happy Moog",
+        "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
+      },
+      "artists": [
+        {
+          "name": "The Happy Moog",
+          "url": "https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87"
+        }
+      ],
+      "duration_ms": 124197,
+      "name": "March Of The Martians",
+      "url": "https://open.spotify.com/track/4rF8nv1j7zum3p0R5ExkkT"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Elemente",
+        "url": "https://open.spotify.com/album/0Q6XVeGOkHpEiMIwWsecVc"
+      },
+      "artists": [
+        {
+          "name": "CV Vision",
+          "url": "https://open.spotify.com/artist/2RG7G2dyZMJ0iFOFlU6Dkk"
+        }
+      ],
+      "duration_ms": 892148,
+      "name": "Treiben",
+      "url": "https://open.spotify.com/track/33zNcoFyeYniyckztTa5xT"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "P\u00e4iv\u00e4tanssien parhaat",
+        "url": "https://open.spotify.com/album/1ggSHsx9pvL1r92UX25oG4"
+      },
+      "artists": [
+        {
+          "name": "Seidat",
+          "url": "https://open.spotify.com/artist/2WgmqTDVPlhCtTNeRYMU8W"
+        }
+      ],
+      "duration_ms": 161200,
+      "name": "Sumu - Popcorn",
+      "url": "https://open.spotify.com/track/3qWV1gmD07HF4GFbfR2Pbf"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Kpm 1000 Series: Out of the Dark",
-        "url": "https://open.spotify.com/album/4JQLnqdzkgSkhEIpphMVtI"
-      },
-      "artists": [
-        {
-          "name": "Dave Vorhaus",
-          "url": "https://open.spotify.com/artist/3XTB6cGYrQ1ebr4HO7UvAQ"
-        }
-      ],
-      "duration_ms": 62114,
-      "name": "The DIY Machine (A)",
-      "url": "https://open.spotify.com/track/4Zb3DvXQSEm9IxPMiuGWwH"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "The Happy Moog",
         "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 115480,
       "name": "Paris 2079",
       "url": "https://open.spotify.com/track/1ECyj4HTmkIivTif7IHFaq"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Kpm 1000 Series: Out of the Dark",
+        "url": "https://open.spotify.com/album/4JQLnqdzkgSkhEIpphMVtI"
+      },
+      "artists": [
+        {
+          "name": "Dave Vorhaus",
+          "url": "https://open.spotify.com/artist/3XTB6cGYrQ1ebr4HO7UvAQ"
+        }
+      ],
+      "duration_ms": 62114,
+      "name": "The DIY Machine (A)",
+      "url": "https://open.spotify.com/track/4Zb3DvXQSEm9IxPMiuGWwH"
     },
     {
       "added_at": "2023-12-20 05:07:47",
@@ -1319,6 +1319,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Mind Games",
+        "url": "https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD"
+      },
+      "artists": [
+        {
+          "name": "David Vorhaus",
+          "url": "https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae"
+        }
+      ],
+      "duration_ms": 171266,
+      "name": "Mainframe Blues",
+      "url": "https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Moog (Original Film Soundtrack)",
         "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
       },
@@ -1339,18 +1355,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Mind Games",
-        "url": "https://open.spotify.com/album/5UenT0euxILpCZW5Y92fbD"
+        "name": "The Happy Moog",
+        "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
       },
       "artists": [
         {
-          "name": "David Vorhaus",
-          "url": "https://open.spotify.com/artist/6k0DgDKA5WW1H4iJhXV2Ae"
+          "name": "The Happy Moog",
+          "url": "https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87"
         }
       ],
-      "duration_ms": 171266,
-      "name": "Mainframe Blues",
-      "url": "https://open.spotify.com/track/2jsx3tmpr4G0OsJnvhAhup"
+      "duration_ms": 139520,
+      "name": "Space Express",
+      "url": "https://open.spotify.com/track/70RM1aHm0RlhsloKf8vbmn"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1375,22 +1391,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "The Happy Moog",
-        "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
-      },
-      "artists": [
-        {
-          "name": "The Happy Moog",
-          "url": "https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87"
-        }
-      ],
-      "duration_ms": 139520,
-      "name": "Space Express",
-      "url": "https://open.spotify.com/track/70RM1aHm0RlhsloKf8vbmn"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Unbekannte Welt = Unknown World",
         "url": "https://open.spotify.com/album/6tLAb4i19HlGyoluVcjkb6"
       },
@@ -1403,22 +1403,6 @@
       "duration_ms": 219036,
       "name": "Gefahrenzone I",
       "url": "https://open.spotify.com/track/7ec3pOpU47mSCfGqwPmE8H"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Moog (Original Film Soundtrack)",
-        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
-      },
-      "artists": [
-        {
-          "name": "Stereolab",
-          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
-        }
-      ],
-      "duration_ms": 241280,
-      "name": "Variation One",
-      "url": "https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1444,29 +1428,13 @@
       },
       "artists": [
         {
-          "name": "33",
-          "url": "https://open.spotify.com/artist/31wSPoOA8XFN34WWaRTann"
+          "name": "Stereolab",
+          "url": "https://open.spotify.com/artist/3Rj0tDHoX7C5NFq5DKIpHt"
         }
       ],
-      "duration_ms": 173280,
-      "name": "Abominatron",
-      "url": "https://open.spotify.com/track/22iSVlOmXxj6AIxGh8JnyO"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "The Happy Moog",
-        "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
-      },
-      "artists": [
-        {
-          "name": "The Happy Moog",
-          "url": "https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87"
-        }
-      ],
-      "duration_ms": 133535,
-      "name": "Short Circuit",
-      "url": "https://open.spotify.com/track/1unfiTb6jOGxHBuiiWsMuD"
+      "duration_ms": 241280,
+      "name": "Variation One",
+      "url": "https://open.spotify.com/track/4BX7rJQCXmlbQ0Qn1XOHKR"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1487,6 +1455,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Moog (Original Film Soundtrack)",
+        "url": "https://open.spotify.com/album/384OEA0oW6JSujc4VmwJe3"
+      },
+      "artists": [
+        {
+          "name": "33",
+          "url": "https://open.spotify.com/artist/31wSPoOA8XFN34WWaRTann"
+        }
+      ],
+      "duration_ms": 173280,
+      "name": "Abominatron",
+      "url": "https://open.spotify.com/track/22iSVlOmXxj6AIxGh8JnyO"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Kpm 1000 Series: Industry Volume 1",
         "url": "https://open.spotify.com/album/3mdyB0sCvKMoBPEgGVjHoC"
       },
@@ -1499,22 +1483,6 @@
       "duration_ms": 70680,
       "name": "The Sausage Machine",
       "url": "https://open.spotify.com/track/11kli4YSqMTdr54UcsuoWJ"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Country Moog / Nashville Gold",
-        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
-      },
-      "artists": [
-        {
-          "name": "Gil Trythall",
-          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
-        }
-      ],
-      "duration_ms": 110426,
-      "name": "Martha White Theme",
-      "url": "https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX"
     },
     {
       "added_at": "2024-08-21 02:31:59",
@@ -1531,6 +1499,38 @@
       "duration_ms": 511000,
       "name": "The First Exploration @ SF Radical Laboratories, 1968",
       "url": "https://open.spotify.com/track/0oHtVQyBQY08BqadsturBJ"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "The Happy Moog",
+        "url": "https://open.spotify.com/album/5MOmkon8ma4se9NtmXLoE7"
+      },
+      "artists": [
+        {
+          "name": "The Happy Moog",
+          "url": "https://open.spotify.com/artist/5gExTiO26dn8bOZ7IwjM87"
+        }
+      ],
+      "duration_ms": 133535,
+      "name": "Short Circuit",
+      "url": "https://open.spotify.com/track/1unfiTb6jOGxHBuiiWsMuD"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Country Moog / Nashville Gold",
+        "url": "https://open.spotify.com/album/1G7hYDoW20M9xAm1H6ztU6"
+      },
+      "artists": [
+        {
+          "name": "Gil Trythall",
+          "url": "https://open.spotify.com/artist/3S5BMTuEvCSvztcZakELE3"
+        }
+      ],
+      "duration_ms": 110426,
+      "name": "Martha White Theme",
+      "url": "https://open.spotify.com/track/58ou3jqcKMaz7pNcSRNZrX"
     },
     {
       "added_at": "2022-04-28 22:15:39",
@@ -1597,6 +1597,22 @@
       "url": "https://open.spotify.com/track/2EGhZHcUJu59pQ8MhcuKAP"
     },
     {
+      "added_at": "2024-08-21 02:31:59",
+      "album": {
+        "name": "San Francisco Moog: 1968-72 Vol. 1",
+        "url": "https://open.spotify.com/album/05aIOypfYBWSgWblTNr3Nl"
+      },
+      "artists": [
+        {
+          "name": "Doug McKechnie",
+          "url": "https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D"
+        }
+      ],
+      "duration_ms": 263986,
+      "name": "Meditation Moog 1968",
+      "url": "https://open.spotify.com/track/1UPHzns78VMAJtUtpvkw5B"
+    },
+    {
       "added_at": "2021-08-17 02:11:46",
       "album": {
         "name": "Electronic Music",
@@ -1615,22 +1631,6 @@
       "duration_ms": 153600,
       "name": "Sonik Re-Entry",
       "url": "https://open.spotify.com/track/2ozohxykp23xAoXBTs1IV7"
-    },
-    {
-      "added_at": "2024-08-21 02:31:59",
-      "album": {
-        "name": "San Francisco Moog: 1968-72 Vol. 1",
-        "url": "https://open.spotify.com/album/05aIOypfYBWSgWblTNr3Nl"
-      },
-      "artists": [
-        {
-          "name": "Doug McKechnie",
-          "url": "https://open.spotify.com/artist/53evbBBnL1sc3uHXLhjW1D"
-        }
-      ],
-      "duration_ms": 263986,
-      "name": "Meditation Moog 1968",
-      "url": "https://open.spotify.com/track/1UPHzns78VMAJtUtpvkw5B"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1792,9 +1792,9 @@
           "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
         }
       ],
-      "duration_ms": 161049,
-      "name": "Symphony for a Spider Plant",
-      "url": "https://open.spotify.com/track/7Cw3ppKuBHzjKdqz5ES2Zd"
+      "duration_ms": 201178,
+      "name": "Plantasia",
+      "url": "https://open.spotify.com/track/4CyTrR4c13d57jCVstfS8T"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -1911,6 +1911,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Mother Earth's Plantasia",
+        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "duration_ms": 161049,
+      "name": "Symphony for a Spider Plant",
+      "url": "https://open.spotify.com/track/7Cw3ppKuBHzjKdqz5ES2Zd"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "Retro Synth POP",
         "url": "https://open.spotify.com/album/7MCGywkanJ3ajx2Debevh2"
       },
@@ -1927,22 +1943,6 @@
       "duration_ms": 190806,
       "name": "Motorama",
       "url": "https://open.spotify.com/track/70RSgTp3AuCOenN3RXlef2"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Mother Earth's Plantasia",
-        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
-      },
-      "artists": [
-        {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
-        }
-      ],
-      "duration_ms": 207697,
-      "name": "Rhapsody in Green",
-      "url": "https://open.spotify.com/track/0e6CAQsSJ7wneNwVtG4rOX"
     },
     {
       "added_at": "2021-11-12 02:59:19",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
+        "name": "Mother Earth's Plantasia",
+        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "duration_ms": 207697,
+      "name": "Rhapsody in Green",
+      "url": "https://open.spotify.com/track/0e6CAQsSJ7wneNwVtG4rOX"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
         "name": "The Electric Lucifer",
         "url": "https://open.spotify.com/album/1uRvTjf8Cy9srhYYR9EGsR"
       },
@@ -2007,22 +2023,6 @@
       "duration_ms": 197240,
       "name": "Incantation",
       "url": "https://open.spotify.com/track/6Lm75tQUmvL4PEftcxRaSr"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
-        "name": "Mother Earth's Plantasia",
-        "url": "https://open.spotify.com/album/4Pj4zPHuEUPtfacdeTlqUG"
-      },
-      "artists": [
-        {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
-        }
-      ],
-      "duration_ms": 201178,
-      "name": "Plantasia",
-      "url": "https://open.spotify.com/track/4CyTrR4c13d57jCVstfS8T"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -2203,18 +2203,18 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Music from Patch Cord Productions",
-        "url": "https://open.spotify.com/album/1gQEZGsbezSFGXK7M4AH75"
+        "name": "Empetus (Deluxe)",
+        "url": "https://open.spotify.com/album/1n2qELJYVr02vnE1hSeDgJ"
       },
       "artists": [
         {
-          "name": "Mort Garson",
-          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+          "name": "Steve Roach",
+          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
         }
       ],
-      "duration_ms": 61703,
-      "name": "Music for Advertising #1",
-      "url": "https://open.spotify.com/track/5XHR7hotYg8SLIi0hdFTuU"
+      "duration_ms": 383066,
+      "name": "Merge",
+      "url": "https://open.spotify.com/track/5I0fItBZcmmT0qupMoW5ow"
     },
     {
       "added_at": "2021-08-17 02:11:46",
@@ -2235,22 +2235,6 @@
     {
       "added_at": "2021-08-17 02:11:46",
       "album": {
-        "name": "Empetus (Deluxe)",
-        "url": "https://open.spotify.com/album/1n2qELJYVr02vnE1hSeDgJ"
-      },
-      "artists": [
-        {
-          "name": "Steve Roach",
-          "url": "https://open.spotify.com/artist/00gh6kmKYOu8xyorRxQm6a"
-        }
-      ],
-      "duration_ms": 383066,
-      "name": "Merge",
-      "url": "https://open.spotify.com/track/5I0fItBZcmmT0qupMoW5ow"
-    },
-    {
-      "added_at": "2021-08-17 02:11:46",
-      "album": {
         "name": "Equinoxe",
         "url": "https://open.spotify.com/album/41Dl68Kik63nV6zvn07NgY"
       },
@@ -2263,6 +2247,22 @@
       "duration_ms": 232093,
       "name": "Equinoxe, Pt. 5",
       "url": "https://open.spotify.com/track/3ZchdqDVsdeOq6PbHGt3MV"
+    },
+    {
+      "added_at": "2021-08-17 02:11:46",
+      "album": {
+        "name": "Music from Patch Cord Productions",
+        "url": "https://open.spotify.com/album/1gQEZGsbezSFGXK7M4AH75"
+      },
+      "artists": [
+        {
+          "name": "Mort Garson",
+          "url": "https://open.spotify.com/artist/0WmzT6tMLhdST5BfYagbha"
+        }
+      ],
+      "duration_ms": 61703,
+      "name": "Music for Advertising #1",
+      "url": "https://open.spotify.com/track/5XHR7hotYg8SLIi0hdFTuU"
     },
     {
       "added_at": "2021-08-17 02:11:46",

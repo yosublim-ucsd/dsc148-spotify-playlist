@@ -4,7 +4,7 @@
 
 > Una selección musical para los sentimientos tenues y taciturnos.
 
-595 songs - 1 day 16 hr 12 min
+596 songs - 1 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -182,7 +182,7 @@
 | [For You, Please](https://open.spotify.com/track/6czaFrNMIa2fUYrk5qLnFb) | [Arhkota](https://open.spotify.com/artist/0m0rpowRayqXeysAeJvvzZ), [Lubna Maher](https://open.spotify.com/artist/3zCuqsdLxjuhTjxYsrIuvb) | [For You, Please](https://open.spotify.com/album/5IMvo5JT3t0t5u91Ybw7JL) | 3:25 | 2024-03-22 |  |
 | [Forever](https://open.spotify.com/track/579zXcYm2N9vvsltW2RDJP) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/2q5JOJpEa00GfddyBJAPrz) | 4:09 | 2023-01-17 |  |
 | [Forever](https://open.spotify.com/track/7j28vzFDGWSCuKQKMxULfW) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [Forever](https://open.spotify.com/album/5jDmPY9xD8BrPIm2RbBajB) | 4:09 | 2023-01-17 | 2024-04-19 |
-| [Forgetting Delaney](https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Forgetting Delaney](https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI) | 2:32 | 2023-01-17 |  |
+| [Forgetting Delaney](https://open.spotify.com/track/0BoEasH9Wqi5N0Ryd5VPzt) | [Delaney Bailey](https://open.spotify.com/artist/3Os4q49SgEN0Tv3fxKw3Sp) | [Forgetting Delaney](https://open.spotify.com/album/74cN9ID7E3WIQoc6MFS6PI) | 2:32 | 2023-01-17 | 2025-01-20 |
 | [Fortaleza](https://open.spotify.com/track/0P6b8SxzKeB0XFkueJIA5m) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/2eOJm4JAIkQQ5k6Y7f0Zdq) | 4:53 | 2023-01-17 | 2024-03-07 |
 | [Fortaleza](https://open.spotify.com/track/44ucBwlnU6rNOYRVZhXeaF) | [Hanging Valleys](https://open.spotify.com/artist/6KGv0PaZVxmtUozMBfsOaO) | [Fortaleza](https://open.spotify.com/album/268NAFsO8tYmQQOSC7AlFo) | 4:53 | 2023-01-17 |  |
 | [Free Treasure](https://open.spotify.com/track/6CtdnPhSHyoRfOexN7oRyc) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [Free Treasure](https://open.spotify.com/album/6tDK8iQZuTZ5bjbxhpALPP) | 3:35 | 2024-03-22 |  |
@@ -266,7 +266,7 @@
 | [Indulge Me](https://open.spotify.com/track/5OchrCzGcNGuTxuWNxEhR6) | [Moses Sumney](https://open.spotify.com/artist/5W10uJRsbt9bROJDKoI1Wn) | [Aromanticism](https://open.spotify.com/album/3GEa8PdRoag1vtVUQCAla1) | 3:16 | 2023-01-17 | 2024-04-19 |
 | [Inspiral](https://open.spotify.com/track/2g5wSGjYZB8gMGMgyKuVd8) | [EN.KI.DU](https://open.spotify.com/artist/1dZP0pipirizLq80zTSSBE) | [BITTER.ROOT](https://open.spotify.com/album/2LIZdIGqsOqJ9w31QHLAe4) | 4:36 | 2023-01-17 |  |
 | [Into Black](https://open.spotify.com/track/0gZziRdBUBIeucaKpRiAYO) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/5413IR4TtBPOyw9vPDY7Lk) | 3:28 | 2023-01-17 | 2024-04-19 |
-| [Into Black](https://open.spotify.com/track/5d8pKJxoDlYX2SoFR6RCsm) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/7lzbyS6nNLF27Cw9zgrijG) | 3:28 | 2023-01-17 |  |
+| [Into Black](https://open.spotify.com/track/5d8pKJxoDlYX2SoFR6RCsm) | [Blouse](https://open.spotify.com/artist/58QP6z41dSgPjoiJkIjCcL) | [Blouse](https://open.spotify.com/album/7lzbyS6nNLF27Cw9zgrijG) | 3:28 | 2023-01-17 | 2025-01-20 |
 | [Into the Night](https://open.spotify.com/track/5qkuspnJTd5R5k1pyGBFGd) | [Tom Speight](https://open.spotify.com/artist/02U4dXZhGSo07f66l8JZ91) | [Collide](https://open.spotify.com/album/02CvIAyYDEQGCi4DMfCSS7) | 3:15 | 2023-01-17 | 2024-04-19 |
 | [Island](https://open.spotify.com/track/3fxMi0laJrBPDJZY3obc0u) | [Emilie Kahn](https://open.spotify.com/artist/5m2lu7cT7DE9J21Guso5EO) | [Island](https://open.spotify.com/album/4YZCf3X7sL1yjWxQCsOrRS) | 4:10 | 2023-01-17 | 2024-08-19 |
 | [It Hurts](https://open.spotify.com/track/4EYkBReSCqoFZAvHRShmMA) | [Mamalarky](https://open.spotify.com/artist/2AWfnWrfFVhRPVX4JN9a6g) | [It Hurts](https://open.spotify.com/album/3gshl9FwDG8P91p8iG5ccH) | 3:23 | 2023-01-17 |  |
@@ -455,7 +455,7 @@
 | [Smother](https://open.spotify.com/track/2Fa5PjvjXH1qKWI0umk4oY) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/2jI09gnkDzKp6EQg9VvnGM) | 4:00 | 2023-01-17 | 2024-04-19 |
 | [Smother](https://open.spotify.com/track/3MH3oRNyFb5mNm663xcK7T) | [Daughter](https://open.spotify.com/artist/46CitWgnWrvF9t70C2p1Me) | [If You Leave](https://open.spotify.com/album/6E76aabodIl5DW5BTEZPHG) | 4:01 | 2023-01-17 | 2025-01-10 |
 | [Snowman](https://open.spotify.com/track/3xKvXle8QcTpWz2al4WzaB) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/1DCI57XjibUHoaVGcg7wGS) | 5:15 | 2023-06-07 | 2023-10-27 |
-| [Snowman](https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Snowman](https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh) | 5:15 | 2023-06-07 | 2025-01-18 |
+| [Snowman](https://open.spotify.com/track/4oGfVF3hKD6gJ39D6LIBG8) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Snowman](https://open.spotify.com/album/7hniKkS2fAy2poyT6WYwbh) | 5:15 | 2023-06-07 |  |
 | [Snowman](https://open.spotify.com/track/6gGKU1PSWNdLyjiURjfPil) | [Blonde Redhead](https://open.spotify.com/artist/5isqImG0rLfAgBJSPMEVXF) | [Sit Down for Dinner](https://open.spotify.com/album/7GfokyxLDkBsgR9gUmEbRq) | 5:15 | 2023-06-07 | 2024-04-19 |
 | [So Humble the Afternoon](https://open.spotify.com/track/1dl1I6nRr3lFuFxP7gHtcx) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [So Humble The Afternoon](https://open.spotify.com/album/13PrcaJFJLNw6jGg25zekp) | 5:22 | 2023-01-17 |  |
 | [So Much Better](https://open.spotify.com/track/48AGAFVfsWw5zRaUD2vOwt) | [Carla dal Forno](https://open.spotify.com/artist/6FVxEgfQsGrJ0BogIOYCd6) | [So Much Better](https://open.spotify.com/album/45xd6rIC2WSTbfPuuWZnww) | 4:05 | 2023-01-17 |  |
@@ -477,7 +477,7 @@
 | [Stained Glass Window](https://open.spotify.com/track/1Iy1dBd5qO65eTnsZ2oqLV) | [Sunday \(1994\)](https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U) | [Stained Glass Window](https://open.spotify.com/album/5zbENpmH6iINqbaiADr8Gx) | 4:27 | 2024-04-17 |  |
 | [Start Again](https://open.spotify.com/track/304O5kU729YYScICtyO6q5) | [Keeley Forsyth](https://open.spotify.com/artist/3b0YRaadaoMwK4STNVeHGF) | [Debris](https://open.spotify.com/album/3MS4BBoQZEHOHpuXVw1yiv) | 3:26 | 2023-01-17 | 2024-04-19 |
 | [Static](https://open.spotify.com/track/0Al15mz670v9J7ik2FXDAr) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/50EAokAxob4hHwJCTQ1A2M) | 3:55 | 2023-01-17 | 2024-04-19 |
-| [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 | 2023-01-17 |  |
+| [Static](https://open.spotify.com/track/4dzJp4NxWFSWUFUhI0s72k) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [The Last Exit](https://open.spotify.com/album/4qQas6wHjmGZsUBS9ziAhe) | 3:55 | 2023-01-17 | 2025-01-20 |
 | [Station to Station](https://open.spotify.com/track/4rFfeIVPKs1Rgr3ppaerQX) | [Mega Bog](https://open.spotify.com/artist/0zodxoaogKBIOzB0c0zFUO) | [Life, and Another](https://open.spotify.com/album/4xeTLqZJ2RHgawaBVDth5d) | 4:25 | 2023-01-17 | 2024-04-15 |
 | [Stay](https://open.spotify.com/track/2ilo3w0stilJKeQZS61FeN) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Wanderer](https://open.spotify.com/album/28SMXZ4p2uQGJZJpFXw8em) | 3:58 | 2023-01-17 | 2024-04-19 |
 | [Stay](https://open.spotify.com/track/7n5z8f4HkOqo8OioYBsYEA) | [Cat Power](https://open.spotify.com/artist/6G7OerKc3eBO9sVkRNopFC) | [Stay](https://open.spotify.com/album/3yeNHm7OxzDXZldWFcd9ka) | 3:58 | 2023-01-17 | 2024-11-08 |
@@ -516,7 +516,7 @@
 | [The Last One](https://open.spotify.com/track/4t2ZAMb6OkX5BGACCoNNyz) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 3:50 | 2023-01-17 | 2024-03-23 |
 | [The Last One](https://open.spotify.com/track/5ihoKh6U2qCQ3lRXaGi3lh) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/2R74tj2OOtjri1Fi8C05B5) | 3:50 | 2023-01-17 | 2024-05-09 |
 | [The Message](https://open.spotify.com/track/0i5r3EWZsCMYRrpUy8YofZ) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/5wQzD4g80qIXRVUOD9we2G) | 4:52 | 2023-01-17 | 2024-04-19 |
-| [The Message](https://open.spotify.com/track/3oLJlBI7OveRtPOuMe4oaM) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/0dpT4eWbisGVXyLkA3NBwc) | 4:52 | 2023-01-17 | 2025-01-19 |
+| [The Message](https://open.spotify.com/track/3oLJlBI7OveRtPOuMe4oaM) | [Still Corners](https://open.spotify.com/artist/4zKYrXs8iN4AeHmO8ZxNqp) | [Slow Air](https://open.spotify.com/album/0dpT4eWbisGVXyLkA3NBwc) | 4:52 | 2023-01-17 |  |
 | [The Mind's Eye](https://open.spotify.com/track/1igVdCr2mrzwu2lHxUbJWn) | [Song Sung](https://open.spotify.com/artist/5wl0vAlpR2OblEaX9zhiom) | [This Ascension is Ours](https://open.spotify.com/album/57B07YMvOwOCrze4qRzhNA) | 5:31 | 2023-01-17 |  |
 | [The Moon Song \- Film Version](https://open.spotify.com/track/2tr9JHGOa5ZRar7IedAiQc) | [Scarlett Johansson](https://open.spotify.com/artist/2KAaJOwfu8n93byx6YPRPa), [Joaquin Phoenix](https://open.spotify.com/artist/3j507n6aQUbtVxQv2Q6Usv) | [The Moon Song \(Music From And Inspired By The Motion Picture Her\)](https://open.spotify.com/album/6LFZaTo38vtBqq75Goxcky) | 1:50 | 2023-01-17 | 2024-04-19 |
 | [The Oranges](https://open.spotify.com/track/3MFYMNksTfegCcZ1c9SlaX) | [junodream](https://open.spotify.com/artist/4jPWi4cSe5zK2dUCLWiBaN) | [Pools of Colour](https://open.spotify.com/album/2q5a2Z5nnjRDwdvHIRfJcL) | 4:14 | 2024-02-02 |  |
@@ -557,6 +557,7 @@
 | [Unpeopled Space](https://open.spotify.com/track/1DrBZs238KS2V3SYfE0ShK) | [Daniel Rossen](https://open.spotify.com/artist/2N7DBqf05DIw5tqKLRAUq4) | [You Belong There](https://open.spotify.com/album/1eb8tDRzXuhb3omC50SkHt) | 6:09 | 2023-01-17 | 2024-04-19 |
 | [Until I Fall](https://open.spotify.com/track/21rJ7124q6HabUFNXJTN7x) | [Lucinda Chua](https://open.spotify.com/artist/3PaJIkKZtfopcZxWluQhzJ) | [Until I Fall](https://open.spotify.com/album/2qfPJjPZW2VxI4DoyULf7V) | 3:53 | 2023-01-17 |  |
 | [Used To Be Lonely](https://open.spotify.com/track/2ya75bvL17SgjKvytJrBAm) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Forever Turned Around](https://open.spotify.com/album/7dfINEAt70CVc3kaPvgoyQ) | 3:48 | 2023-01-17 | 2024-04-19 |
+| [Used To Be Lonely](https://open.spotify.com/track/3vhjvHdXDMiK0yEk6AyIVa) | [Whitney](https://open.spotify.com/artist/32aUoW94mJ7xTJI7fG0V1G) | [Used To Be Lonely](https://open.spotify.com/album/4MryjyEP1nBZnTehFeQAxg) | 3:48 | 2023-01-17 |  |
 | [Vagabond](https://open.spotify.com/track/4MxHAB3fHQ8oI2jRXSLQ9p) | [Steve Gunn](https://open.spotify.com/artist/7uLXW75DlTRahz2WKJZGeO) | [The Unseen In Between](https://open.spotify.com/album/349hcptM7Y0HRpgrsSY570) | 5:01 | 2023-01-17 | 2023-12-21 |
 | [Valentine Shmalentine](https://open.spotify.com/track/1wpZZJYzdXGRdYZnffm4NQ) | [SOAK](https://open.spotify.com/artist/4PLsMEk2DCRVlVL2a9aZAv) | [Grim Town](https://open.spotify.com/album/2bvDcwRZacKz02UUAmF6Ns) | 3:58 | 2023-01-17 | 2023-09-04 |
 | [Vanishing Twin](https://open.spotify.com/track/7loXmEHvxWvdvwKzLFAMmc) | [Blake Mills](https://open.spotify.com/artist/4LhV33vJvXmFGSM3m5RzUR) | [Mutable Set](https://open.spotify.com/album/3WBhKuBk77KL4nUHkP2xaW) | 6:16 | 2023-01-17 |  |

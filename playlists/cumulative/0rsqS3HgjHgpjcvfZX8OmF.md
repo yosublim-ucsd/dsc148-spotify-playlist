@@ -4,7 +4,7 @@
 
 > The best and latest rock and alternative\. Cover: Offspring
 
-238 songs - 14 hr 9 min
+242 songs - 14 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [100 Degrees](https://open.spotify.com/track/5xcDzy5JCRUlATPxZQJdvL) | [Texas King](https://open.spotify.com/artist/55GkrWxCOER93qGLMiX2cj) | [100 Degrees](https://open.spotify.com/album/4zxVx8GFAhFstTMEKa4jaq) | 3:23 | 2024-11-08 | 2025-01-11 |
 | [17250](https://open.spotify.com/track/4RRHEpkrrYa0TkTEyTPUv7) | [glaive](https://open.spotify.com/artist/4cJKDGSv4Dz9QycXYmo565) | [i care so much that i dont care at all](https://open.spotify.com/album/05vrswB4MQ52sF3ZyX1jDC) | 2:31 | 2023-11-03 | 2024-06-02 |
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-18 |  |
+| [A Question of You](https://open.spotify.com/track/007IZ9te1tqJND9XdC8wGE) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [A Question of You](https://open.spotify.com/album/7xWVXuNOomkvJLNM1lI15l) | 3:42 | 2025-01-19 |  |
 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 | 2024-06-07 |  |
 | [About Me](https://open.spotify.com/track/51XoldrreNOGQzUshH9rxh) | [Ash Molloy](https://open.spotify.com/artist/7r9idpCLiq7S2KS1n5Fp7J) | [About Me](https://open.spotify.com/album/5nkdy20Ch1Y9tiUG7epzLd) | 3:22 | 2024-07-19 | 2024-08-03 |
 | [Abyss \- from Kaiju No\. 8](https://open.spotify.com/track/2kLWSmKHhfUBepkIA9oNe5) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Abyss \(from Kaiju No\. 8\)](https://open.spotify.com/album/1KuM2MPT5uEYg1aY4KrnZ0) | 2:03 | 2024-03-29 |  |
@@ -23,7 +24,8 @@
 | [Alone](https://open.spotify.com/track/7zHhP0CHO4cONkImJ0Oau6) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Alone](https://open.spotify.com/album/5Fe0AaIdua2BPx5cTXMM4M) | 6:48 | 2024-09-27 | 2024-11-02 |
 | [Always, Everytime](https://open.spotify.com/track/1DbeTcnfS7kLnHhVsRlvqg) | [The Wrecks](https://open.spotify.com/artist/458aS6ALc3QkzwfR5USt34) | [Always, Everytime](https://open.spotify.com/album/3eJOnQipfXT3Z2ubwqb7sn) | 2:51 | 2024-10-04 |  |
 | [Amphetamine Smiles](https://open.spotify.com/track/5My3w0udRZoFmhSi7lBqXQ) | [Taking Back Sunday](https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1) | [Amphetamine Smiles](https://open.spotify.com/album/7ptOXK2GJcLr4sxx36DbgY) | 3:05 | 2023-11-03 | 2024-01-27 |
-| [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-11-03 |  |
+| [and it feels](https://open.spotify.com/track/2tlfU7XGAMIRkmfeoHZXPj) | [Customer Service](https://open.spotify.com/artist/0qnFuGvRmnVs96UbsYmg4x) | [and it feels](https://open.spotify.com/album/5QCOPX65BbHALCrA08l91d) | 2:08 | 2025-01-19 |  |
+| [Angry](https://open.spotify.com/track/0daHbdrLvUmkh81rnolMcG) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Angry](https://open.spotify.com/album/6rEzHeH14PJSv8anXA6tyE) | 3:46 | 2023-11-03 | 2025-01-20 |
 | [Atomic City](https://open.spotify.com/track/0Zp4PR3jLHfxcXdBdRLh7M) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Atomic City](https://open.spotify.com/album/5ghPJVqhDvidfznC4O7tW3) | 3:30 | 2023-11-03 | 2024-10-19 |
 | [Bail Out](https://open.spotify.com/track/1KGD63pRjyoWu244zx6P8g) | [Big Wreck](https://open.spotify.com/artist/557SGrCJ59ysjCE1xjVZbS) | [Bail Out](https://open.spotify.com/album/4j7R5i6AsEhDPGzgem6e1x) | 4:09 | 2023-11-03 | 2024-01-27 |
 | [Bass Player's Brother](https://open.spotify.com/track/173EdxsH4UHQqPxE5y4kLd) | [Valley](https://open.spotify.com/artist/7blXVKBSxdFZsIqlhdViKc) | [Bass Player's Brother](https://open.spotify.com/album/1CANmUTLemKiVtLrHamDSg) | 3:06 | 2024-07-12 |  |
@@ -33,7 +35,7 @@
 | [belong \(another place\)](https://open.spotify.com/track/64dszp6SWEveU66npOgOyr) | [distraction4ever](https://open.spotify.com/artist/7thbB90E6B9E50WqGJlcSh) | [Business Core](https://open.spotify.com/album/5OdAH4Et1G5crDieu9xroD) | 2:05 | 2024-10-04 | 2024-11-02 |
 | [Big Dreams](https://open.spotify.com/track/0lInhiFmT2Dk9RlJItxzIG) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Big Dreams](https://open.spotify.com/album/7oHWgJ63008TX5ezUmGQKL) | 3:11 | 2024-09-27 | 2024-10-26 |
 | [Big Feelings](https://open.spotify.com/track/6oNudfD8DF46sb5WyydBIi) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk) | [Big Feelings](https://open.spotify.com/album/6KP7Oe350WhXOvByoFCsg9) | 3:34 | 2024-06-07 |  |
-| [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-26 |  |
+| [Big Time Nothing](https://open.spotify.com/track/6xlagfcOInH0YuFDTtRvt1) | [St\. Vincent](https://open.spotify.com/artist/7bcbShaqKdcyjnmv4Ix8j6) | [Big Time Nothing](https://open.spotify.com/album/5Cn1ahgwgul033qDq87n1X) | 2:58 | 2024-04-26 | 2025-01-20 |
 | [Blame Brett](https://open.spotify.com/track/7Az7rVogNu6XpLnykVI5fA) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Blame Brett](https://open.spotify.com/album/4FJuBUAQv20qh8LAxDdzjN) | 2:56 | 2023-11-03 | 2024-06-02 |
 | [Bloom](https://open.spotify.com/track/5z3dKZy0lnzBezlPa7JsRJ) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Good Neighbours](https://open.spotify.com/album/5MxAe77blNlw5EBBjKNFuk) | 3:06 | 2024-09-03 |  |
 | [Bones](https://open.spotify.com/track/0HqZX76SFLDz2aW8aiqi7G) | [Imagine Dragons](https://open.spotify.com/artist/53XhwfbYqKCa1cC15pYq2q) | [Bones](https://open.spotify.com/album/1Q9SnHWPNEjVM0LrBFvJ1q) | 2:45 | 2023-11-03 | 2023-11-13 |
@@ -48,7 +50,7 @@
 | [can't slow down](https://open.spotify.com/track/1KdjbgMfPmQQANYVS2IfTJ) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [can't slow down](https://open.spotify.com/album/7vjMShLg2ts8wG38z49RKK) | 2:55 | 2024-06-01 |  |
 | [Chemical](https://open.spotify.com/track/5w40ZYhbBMAlHYNDaVJIUu) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [Chemical](https://open.spotify.com/album/7qcSUc5Af63mhfTF60KTEA) | 3:04 | 2023-11-03 | 2024-07-20 |
 | [Chewing Gum](https://open.spotify.com/track/1rJ19XvEgTpqwfOUdtJiSg) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [Chewing Gum](https://open.spotify.com/album/3iTZBjVml1b3KzqzGa1Chg) | 3:20 | 2024-09-03 | 2024-09-28 |
-| [Chicago](https://open.spotify.com/track/2JqP0JgJ4tNzdoKSWln7oe) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/4jsJCJT16oUMgM9nHlmJQ1) | 3:58 | 2024-07-19 |  |
+| [Chicago](https://open.spotify.com/track/2JqP0JgJ4tNzdoKSWln7oe) | [Japandroids](https://open.spotify.com/artist/2WcCoPxAWFNSCvsFPrpf30) | [Chicago](https://open.spotify.com/album/4jsJCJT16oUMgM9nHlmJQ1) | 3:58 | 2024-07-19 | 2025-01-20 |
 | [Close](https://open.spotify.com/track/1FnbRzgI5mGdh8XjXTXD9w) | [Gustaf](https://open.spotify.com/artist/6QqLYrbjh5CnfMG7z5r96E) | [Close](https://open.spotify.com/album/0VG3BsmyLoIEEUIUswHV9i) | 3:57 | 2024-03-15 | 2024-04-20 |
 | [Cold Dreaming](https://open.spotify.com/track/32gOXeiuZo01yiLeY8tHON) | [Doves](https://open.spotify.com/artist/0LVrQUinPUBFvVD5pLqmWY) | [Cold Dreaming](https://open.spotify.com/album/5D22FZEUtC73xui9g1iQqz) | 5:02 | 2025-01-10 |  |
 | [Come Out](https://open.spotify.com/track/4FZYzPLOHh90osvljS7ueD) | [Aysanabee](https://open.spotify.com/artist/1jbEBKJhX4rRmHD6xW6ve5), [Raye Zaragoza](https://open.spotify.com/artist/14w8BJMukAOb1KQuY3d5Jc) | [Come Out](https://open.spotify.com/album/3FnK7zoEHC8QWtedhmTnJw) | 3:03 | 2024-01-26 | 2024-07-13 |
@@ -127,7 +129,7 @@
 | [Mess It Up](https://open.spotify.com/track/0Ag6LNrSfJVKRhGzD7ArDq) | [The Rolling Stones](https://open.spotify.com/artist/22bE4uQ6baNwSHPVcDxLCe) | [Hackney Diamonds](https://open.spotify.com/album/1AxMcdQRLguJqSZMxvRNdO) | 4:03 | 2023-11-03 | 2024-09-04 |
 | [Messed Up](https://open.spotify.com/track/641SYsnQ8nTVuYj8PNqh96) | [Bleeker](https://open.spotify.com/artist/64tT0KKbU4AFWkO6v1VvXv) | [Messed Up](https://open.spotify.com/album/3OhOpOxA7FpIUP61qW7L9I) | 3:30 | 2024-06-28 | 2024-09-04 |
 | [Messy](https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Messy](https://open.spotify.com/album/2QWd1BsO7J0zLwxhsKl3zh) | 4:44 | 2025-01-10 |  |
-| [Mind Control](https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Mind Control](https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX) | 2:35 | 2024-11-01 |  |
+| [Mind Control](https://open.spotify.com/track/3mJHTvufu4NrZQGZxMmWeM) | [Giant Rooks](https://open.spotify.com/artist/5wD0owYApRtYmjPWavWKvb) | [Mind Control](https://open.spotify.com/album/5pcrj1R40plmpD3EXv61XX) | 2:35 | 2024-11-01 | 2025-01-20 |
 | [Modern Girl](https://open.spotify.com/track/4TPgBDOEVwywalXHFUUUQY) | [Bleachers](https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI) | [Modern Girl](https://open.spotify.com/album/4a6PlF2W6n5oZsKFyLqmP2) | 3:43 | 2023-11-03 |  |
 | [MORE](https://open.spotify.com/track/2uqCJn5VFTf3sZEDJZvvX0) | [The Warning](https://open.spotify.com/artist/2SmW1lFlBJn4IfBzBZDlSh) | [MORE](https://open.spotify.com/album/6qT2MHTarKxFvBPYH1txnS) | 3:07 | 2023-11-03 | 2024-03-09 |
 | [More Than A Love Song](https://open.spotify.com/track/6zqD0ufqOAValqN2UmKXHN) | [Black Pumas](https://open.spotify.com/artist/6eU0jV2eEZ8XTM7EmlguK6) | [More Than A Love Song](https://open.spotify.com/album/5m0X5sPR7DM1NkOgOz2vXc) | 4:47 | 2023-12-08 | 2024-07-20 |
@@ -192,7 +194,9 @@
 | [Split Screen](https://open.spotify.com/track/35mrmYpwNGBmNJmtuG9XJD) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [Split Screen](https://open.spotify.com/album/0rShpMJT1yw6TiqNHBjluR) | 5:03 | 2024-03-29 | 2024-04-20 |
 | [Starburster](https://open.spotify.com/track/1cg4xD453Wuol9fNsRDbsV) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Starburster](https://open.spotify.com/album/1KkyOpscmbPAQzLNZDyI6o) | 3:41 | 2024-04-19 |  |
 | [Stick Season](https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju) | 3:02 | 2023-11-03 | 2024-09-07 |
+| [Still A Gorilla](https://open.spotify.com/track/2SU1buLMSvYKGzQg6j0WQX) | [Spin Doctors](https://open.spotify.com/artist/2PSiyldxmJze7xiqbz658m) | [Still A Gorilla](https://open.spotify.com/album/0SneoRZNbmaxm5vkwJbr2O) | 3:45 | 2025-01-19 |  |
 | [Street Names and Land Claims](https://open.spotify.com/track/1AWvuWQezhOVM5FXRlQ9LR) | [OMBIIGIZI](https://open.spotify.com/artist/6M9etLgzbkyne0y9cvxGAG) | [SHAME](https://open.spotify.com/album/7GtUuBWgxDr9WXoUD0aD2o) | 3:23 | 2024-11-01 | 2024-12-07 |
+| [Stretch the Struggle](https://open.spotify.com/track/1bfbtsK7aRNTrueUxRaJ7a) | [Bria Salmena](https://open.spotify.com/artist/5OlCrYhc9fZxibnKwahGr8) | [Stretch the Struggle](https://open.spotify.com/album/1wt9TD7owCiIVrrMRXM3Tt) | 3:34 | 2025-01-19 |  |
 | [Stuck](https://open.spotify.com/track/1PYG9Akj0LAZZUDXzV9m1S) | [Thirty Seconds To Mars](https://open.spotify.com/artist/0RqtSIYZmd4fiBKVFqyIqD) | [Stuck](https://open.spotify.com/album/2kcNcoLI7IeK9GJepoA2lq) | 3:02 | 2023-11-03 |  |
 | [Suckerpunch](https://open.spotify.com/track/0qAQSimwmmOw6WYdP4Vov8) | [Dreamer Boy](https://open.spotify.com/artist/1UJKiAI4Evnhh1ExDse25D) | [Suckerpunch](https://open.spotify.com/album/23Kwa0jNDhxqpPNk2fOp03) | 3:01 | 2024-03-08 | 2024-04-20 |
 | [Suffer](https://open.spotify.com/track/3RHMaRzMWlxDTdQXuZJ3rT) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Suffer](https://open.spotify.com/album/6Cc95ql1nixjAuvOGfRPYi) | 3:31 | 2023-11-10 | 2024-03-23 |

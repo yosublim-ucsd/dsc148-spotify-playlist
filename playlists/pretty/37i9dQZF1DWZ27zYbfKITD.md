@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 
 > Focus and relax with the help of these chilled cinematic soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 111,154 likes - 104 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 111,293 likes - 104 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZ27zYbfKITD.md) - [plain]
 | 40 | [Demon Slayer: Nezuko Theme](https://open.spotify.com/track/1Vvn19lRIPqwZHUgIAHYRF) | [Go Shiina](https://open.spotify.com/artist/5Yk09n2L8j0DIevsAfinE0), [梶浦 由記](https://open.spotify.com/artist/0BLHMPWOZ2aTI0ZCCbtZem), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Demon Slayer: Nezuko Theme](https://open.spotify.com/album/70VqDyo7pa74XlAnCYhQ3K) | 3:51 |
 | 41 | [End Roller](https://open.spotify.com/track/2Cd1F6yd5GSYFU4lPVEwqT) | [Peter Gregson](https://open.spotify.com/artist/71tFaKKy6x1inyCFHjpzUE) | [A Little Chaos \(Original Soundtrack Album\)](https://open.spotify.com/album/2Ae5IWNhCQvsH4fNF8FFHe) | 3:21 |
 | 42 | [Coming Home](https://open.spotify.com/track/45jrXtFx8ERLW66AF4r53F) | [Inon Zur](https://open.spotify.com/artist/5tzixIjD4uBPCqZTljYvQi) | [The Elder Scrolls Blades: Original Game Soundtrack](https://open.spotify.com/album/6zBhT9ZcGURdtZjA0q1JlG) | 3:14 |
-| 43 | [A New Home](https://open.spotify.com/track/3lgvtS5J3tIJqSzLokgKlv) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 1:54 |
+| 43 | [A New Home \(From "Lion" Soundtrack\)](https://open.spotify.com/track/3lgvtS5J3tIJqSzLokgKlv) | [Dustin O'Halloran](https://open.spotify.com/artist/6UEYawMcp2M4JFoXVOtZEq), [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA), [Dustin O'Halloran & Volker Bertelmann](https://open.spotify.com/artist/6BHwRzCgENU0kmJt6yGy4x) | [Lion \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6UtJtWa2IqLnRYHRPIhaNC) | 1:54 |
 | 44 | [Zimmer: Day One \(From "Interstellar"\)](https://open.spotify.com/track/7d9rT201eeDnefvKXbEtf8) | [Hans Zimmer](https://open.spotify.com/artist/0YC192cP3KPCRWx8zr8MfZ), [Hayato Sumino](https://open.spotify.com/artist/1jVpYW7JYxh4mWzrFVjipz) | [Zimmer: Day One \(From "Interstellar"\)](https://open.spotify.com/album/2m2BNKbcH1b11o0v6mZN9K) | 3:14 |
 | 45 | [A Brief History of Time](https://open.spotify.com/track/3dMdXcq28UwvRzaCnWf5OO) | [Jóhann Jóhannsson](https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF) | [The Theory of Everything \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2R2FZbfCSFBb1piR159xN0) | 2:02 |
 | 46 | [Laurie and Jo on the Hill](https://open.spotify.com/track/4xui9WfNYFy7DKZfFBzSQA) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [Little Women \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2y8d4zbifvkrpASJeTMDnE) | 1:01 |

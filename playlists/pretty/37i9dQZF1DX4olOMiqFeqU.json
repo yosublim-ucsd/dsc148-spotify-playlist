@@ -1,6 +1,6 @@
 {
   "description": "100% Pinoy hits from your favorite artists!",
-  "num_followers": 2418783,
+  "num_followers": 2418999,
   "original_name": "OPM Favorites",
   "owner": {
     "name": "Spotify",
@@ -95,22 +95,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "TAKE ALL THE LOVE",
-        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
-      },
-      "artists": [
-        {
-          "name": "Arthur Nery",
-          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
-        }
-      ],
-      "duration_ms": 206181,
-      "name": "TAKE ALL THE LOVE",
-      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Pasilyo",
         "url": "https://open.spotify.com/album/4shoxv60vMxSDq40tp5cSK"
       },
@@ -161,6 +145,22 @@
       "url": "https://open.spotify.com/track/2nqlM3gNBMi5Zf9MDzp2Xi"
     },
     {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Uhaw (Tayong Lahat)",
+        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+      },
+      "artists": [
+        {
+          "name": "Dilaw",
+          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+        }
+      ],
+      "duration_ms": 241185,
+      "name": "Uhaw (Tayong Lahat)",
+      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+    },
+    {
       "added_at": "2024-10-17 16:02:56",
       "album": {
         "name": "Talaarawan",
@@ -179,18 +179,18 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Uhaw (Tayong Lahat)",
-        "url": "https://open.spotify.com/album/35qpGQN1On4Un7ZUdTVQgD"
+        "name": "TAKE ALL THE LOVE",
+        "url": "https://open.spotify.com/album/4EJLfrjbTDyhhMU1AcYDPb"
       },
       "artists": [
         {
-          "name": "Dilaw",
-          "url": "https://open.spotify.com/artist/6Dp4LInLyMVA2qhRqQ6AGL"
+          "name": "Arthur Nery",
+          "url": "https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22"
         }
       ],
-      "duration_ms": 241185,
-      "name": "Uhaw (Tayong Lahat)",
-      "url": "https://open.spotify.com/track/47OFMuRu5lzJHRbtEXPBbs"
+      "duration_ms": 206181,
+      "name": "TAKE ALL THE LOVE",
+      "url": "https://open.spotify.com/track/2v6jmF6VQWS96x6tSg05IC"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -427,6 +427,22 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Leaves",
+        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
+      },
+      "artists": [
+        {
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
+        }
+      ],
+      "duration_ms": 310708,
+      "name": "Leaves",
+      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "Imahe",
         "url": "https://open.spotify.com/album/04KG42EaTfjaPbYHQ6wI3h"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 246346,
       "name": "Lihim",
       "url": "https://open.spotify.com/track/2K0CH6BtfBtY7wMnsKIuzo"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Leaves",
-        "url": "https://open.spotify.com/album/5Yl1Bi501CuE72jaVK4e3y"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 310708,
-      "name": "Leaves",
-      "url": "https://open.spotify.com/track/6wdCelHrPh7UfliNjwRTUv"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -527,22 +527,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Kitchie Nadal",
-        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
-      },
-      "artists": [
-        {
-          "name": "Kitchie Nadal",
-          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
-        }
-      ],
-      "duration_ms": 267680,
-      "name": "Same Ground",
-      "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Ikaw Pa Rin",
         "url": "https://open.spotify.com/album/6yoXzcdZwga0Gqmmqkvz1k"
       },
@@ -587,6 +571,38 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
+      },
+      "artists": [
+        {
+          "name": "Rivermaya",
+          "url": "https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI"
+        }
+      ],
+      "duration_ms": 273200,
+      "name": "214",
+      "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "Kitchie Nadal",
+        "url": "https://open.spotify.com/album/7beVKW0o7iRoM0eRT3kGfk"
+      },
+      "artists": [
+        {
+          "name": "Kitchie Nadal",
+          "url": "https://open.spotify.com/artist/4OjU5UP0GFWeniBC82sGBY"
+        }
+      ],
+      "duration_ms": 267680,
+      "name": "Same Ground",
+      "url": "https://open.spotify.com/track/5iNGxZ1waiyMFylg4QAHk6"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "3rd Time\u2019s A Charm",
         "url": "https://open.spotify.com/album/5bWsdwr9OileEY1gHx1Do3"
       },
@@ -607,22 +623,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/65GkUxR6lYlCiYP4mqyZl1"
-      },
-      "artists": [
-        {
-          "name": "Rivermaya",
-          "url": "https://open.spotify.com/artist/1ZTdxfZTeztyAgKUJVLxAI"
-        }
-      ],
-      "duration_ms": 273200,
-      "name": "214",
-      "url": "https://open.spotify.com/track/7gZ3kWNtIxFgxjsm5OTVMB"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Unang Sayaw",
         "url": "https://open.spotify.com/album/05VgPoz2XrqlgnnOYBaPsk"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
-        "name": "ERE",
-        "url": "https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD"
-      },
-      "artists": [
-        {
-          "name": "juan karlos",
-          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
-        }
-      ],
-      "duration_ms": 284812,
-      "name": "ERE",
-      "url": "https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
         "name": "Kung Wala Ka",
         "url": "https://open.spotify.com/album/4iaCi771IT9I2xwtnXnjlx"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 242800,
       "name": "Kung Wala Ka",
       "url": "https://open.spotify.com/track/4JSDhJVmo2UqdF7nxbyenn"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
+        "name": "ERE",
+        "url": "https://open.spotify.com/album/5Rg4hF4geeE5e01y7Z1JfD"
+      },
+      "artists": [
+        {
+          "name": "juan karlos",
+          "url": "https://open.spotify.com/artist/0a4r2EnsevvHCukoJ1xFwJ"
+        }
+      ],
+      "duration_ms": 284812,
+      "name": "ERE",
+      "url": "https://open.spotify.com/track/0SuQMjb2TleiKg1ebQSDnX"
     },
     {
       "added_at": "2024-07-01 05:33:47",
@@ -751,6 +751,26 @@
     {
       "added_at": "2024-07-01 05:33:47",
       "album": {
+        "name": "Hayaan Mo Sila",
+        "url": "https://open.spotify.com/album/12DwmRcztX6NAZR0vQsYUF"
+      },
+      "artists": [
+        {
+          "name": "Ex Battalion",
+          "url": "https://open.spotify.com/artist/2iB7AJhJmkWkkehY9ccB0j"
+        },
+        {
+          "name": "O.C. Dawgs",
+          "url": "https://open.spotify.com/artist/00xU4wfephkJrjwJPDvfkf"
+        }
+      ],
+      "duration_ms": 367229,
+      "name": "Hayaan Mo Sila",
+      "url": "https://open.spotify.com/track/7MrDfa1uQGVXx0JMZ2u5tN"
+    },
+    {
+      "added_at": "2024-07-01 05:33:47",
+      "album": {
         "name": "Ang Wakas (feat. Trisha Macapagal)",
         "url": "https://open.spotify.com/album/0xrEjBZwug4gj5k5qHE22n"
       },
@@ -799,26 +819,6 @@
       "duration_ms": 343446,
       "name": "Buwan",
       "url": "https://open.spotify.com/track/5f9808hpiCpuNyqqdXmpF2"
-    },
-    {
-      "added_at": "2024-07-01 05:33:47",
-      "album": {
-        "name": "Hayaan Mo Sila",
-        "url": "https://open.spotify.com/album/12DwmRcztX6NAZR0vQsYUF"
-      },
-      "artists": [
-        {
-          "name": "Ex Battalion",
-          "url": "https://open.spotify.com/artist/2iB7AJhJmkWkkehY9ccB0j"
-        },
-        {
-          "name": "O.C. Dawgs",
-          "url": "https://open.spotify.com/artist/00xU4wfephkJrjwJPDvfkf"
-        }
-      ],
-      "duration_ms": 367229,
-      "name": "Hayaan Mo Sila",
-      "url": "https://open.spotify.com/track/7MrDfa1uQGVXx0JMZ2u5tN"
     },
     {
       "added_at": "2024-07-01 05:33:47",

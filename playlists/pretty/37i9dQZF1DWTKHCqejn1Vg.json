@@ -1,6 +1,6 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 33174,
+  "num_followers": 33181,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
@@ -195,18 +195,18 @@
     {
       "added_at": "2024-11-29 09:48:23",
       "album": {
-        "name": "130 Mood : TRBL",
-        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+        "name": "Hello, World - The 4th Mini Album",
+        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
       },
       "artists": [
         {
-          "name": "DEAN",
-          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
         }
       ],
-      "duration_ms": 207129,
-      "name": "21",
-      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
+      "duration_ms": 173346,
+      "name": "Truth Be Told",
+      "url": "https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg"
     },
     {
       "added_at": "2024-11-29 09:48:23",
@@ -223,22 +223,6 @@
       "duration_ms": 263592,
       "name": "Thinkin Bout You",
       "url": "https://open.spotify.com/track/6xwQS49tTYgLQNPGnfWV2H"
-    },
-    {
-      "added_at": "2024-11-29 09:48:23",
-      "album": {
-        "name": "Hello, World - The 4th Mini Album",
-        "url": "https://open.spotify.com/album/6t6uh1uD01cnqef1Y7NVxA"
-      },
-      "artists": [
-        {
-          "name": "BAEKHYUN",
-          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
-        }
-      ],
-      "duration_ms": 173346,
-      "name": "Truth Be Told",
-      "url": "https://open.spotify.com/track/0NhfkWo4IBjNk8PnOM8Obg"
     },
     {
       "added_at": "2024-11-29 09:48:23",
@@ -282,31 +266,11 @@
         {
           "name": "DEAN",
           "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
-        },
-        {
-          "name": "Dok2",
-          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
         }
       ],
-      "duration_ms": 216559,
-      "name": "I Love It",
-      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
-    },
-    {
-      "added_at": "2024-11-29 09:48:23",
-      "album": {
-        "name": "Jay Park Season 1",
-        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
-      },
-      "artists": [
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 219742,
-      "name": "Your/My",
-      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+      "duration_ms": 207129,
+      "name": "21",
+      "url": "https://open.spotify.com/track/2jiI8bNSDu7UxTtDCOqh3L"
     },
     {
       "added_at": "2024-11-29 09:48:23",
@@ -379,6 +343,42 @@
       "duration_ms": 205999,
       "name": "Infrared Camera",
       "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "added_at": "2024-11-29 09:48:23",
+      "album": {
+        "name": "Jay Park Season 1",
+        "url": "https://open.spotify.com/album/36K9BD9KNPIT8JA2qcO9u7"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 219742,
+      "name": "Your/My",
+      "url": "https://open.spotify.com/track/08sKf43ghwPD9SvdUAetTY"
+    },
+    {
+      "added_at": "2024-11-29 09:48:23",
+      "album": {
+        "name": "130 Mood : TRBL",
+        "url": "https://open.spotify.com/album/1MW3txTS49ZGvyLi0fziLU"
+      },
+      "artists": [
+        {
+          "name": "DEAN",
+          "url": "https://open.spotify.com/artist/3eCd0TZrBPm2n9cDG6yWfF"
+        },
+        {
+          "name": "Dok2",
+          "url": "https://open.spotify.com/artist/0rW6fVd3yuW2CF2sLYWQtE"
+        }
+      ],
+      "duration_ms": 216559,
+      "name": "I Love It",
+      "url": "https://open.spotify.com/track/6CBA5xTE7Z4cyA9rzlhFdA"
     },
     {
       "added_at": "2024-11-29 09:48:23",
@@ -587,6 +587,22 @@
     {
       "added_at": "2024-11-29 09:48:23",
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 161640,
+      "name": "Blame",
+      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
+    },
+    {
+      "added_at": "2024-11-29 09:48:23",
+      "album": {
         "name": "FALL IN LUST",
         "url": "https://open.spotify.com/album/10SF5L6kcBXAqT7mKHbOs8"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 214319,
       "name": "I wonder (Feat. Jay Park)",
       "url": "https://open.spotify.com/track/5MHGisZlUlK6btdLRBCpYr"
-    },
-    {
-      "added_at": "2024-11-29 09:48:23",
-      "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
-        {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
-        }
-      ],
-      "duration_ms": 161640,
-      "name": "Blame",
-      "url": "https://open.spotify.com/track/2PviI6dkTJ2MM3omn3P9Id"
     },
     {
       "added_at": "2024-11-29 09:48:23",
@@ -735,6 +735,22 @@
     {
       "added_at": "2024-11-29 09:48:23",
       "album": {
+        "name": "kiss my lips",
+        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
+      },
+      "artists": [
+        {
+          "name": "Jimmy Brown",
+          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
+        }
+      ],
+      "duration_ms": 195692,
+      "name": "kiss my lips",
+      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
+    },
+    {
+      "added_at": "2024-11-29 09:48:23",
+      "album": {
         "name": "OVERDRIVE",
         "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 197013,
       "name": "Honestly",
       "url": "https://open.spotify.com/track/4xl6ouBRgiUSWCuuSaC3kb"
-    },
-    {
-      "added_at": "2024-11-29 09:48:23",
-      "album": {
-        "name": "kiss my lips",
-        "url": "https://open.spotify.com/album/27tRNKb20UIkshCBrdIPr3"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Brown",
-          "url": "https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc"
-        }
-      ],
-      "duration_ms": 195692,
-      "name": "kiss my lips",
-      "url": "https://open.spotify.com/track/38hndqHRm6jQEwUMHlUWjl"
     },
     {
       "added_at": "2024-11-29 09:48:23",
@@ -943,26 +943,6 @@
     {
       "added_at": "2024-11-29 09:48:23",
       "album": {
-        "name": "mojo",
-        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
-      },
-      "artists": [
-        {
-          "name": "vangdale",
-          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
-        },
-        {
-          "name": "JUNNY",
-          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
-        }
-      ],
-      "duration_ms": 151880,
-      "name": "LSD (Feat. JUNNY)",
-      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
-    },
-    {
-      "added_at": "2024-11-29 09:48:23",
-      "album": {
         "name": "Hated you",
         "url": "https://open.spotify.com/album/58WbJyS4P3hjtwRcovgRRm"
       },
@@ -979,6 +959,26 @@
       "duration_ms": 209433,
       "name": "Hated you",
       "url": "https://open.spotify.com/track/4JHa3jIYMsdVuMpr6SpACx"
+    },
+    {
+      "added_at": "2024-11-29 09:48:23",
+      "album": {
+        "name": "mojo",
+        "url": "https://open.spotify.com/album/2B26gj1V8eKsJ6yPXaZxkE"
+      },
+      "artists": [
+        {
+          "name": "vangdale",
+          "url": "https://open.spotify.com/artist/2lLe2zAxFPSHnAQdarRYFb"
+        },
+        {
+          "name": "JUNNY",
+          "url": "https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr"
+        }
+      ],
+      "duration_ms": 151880,
+      "name": "LSD (Feat. JUNNY)",
+      "url": "https://open.spotify.com/track/3NOeGLQJRQQGchoChRQg9s"
     },
     {
       "added_at": "2024-11-29 09:48:23",

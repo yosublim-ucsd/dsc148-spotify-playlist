@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 
 > Lo más pegado, lo más suaaave, o Luck Ra & Elvis Crespo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,127,811 likes - 100 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,128,365 likes - 100 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX2Ln16qIxDF.md) - [plain]
 | 17 | [Chica Brasileña Remix](https://open.spotify.com/track/4lIGf1AhxbdiEpDUwosSLU) | [El Turko](https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z), [El Super Hobby](https://open.spotify.com/artist/4nTNHKAVWQyqnvRuBW4N4V), [Mandale Flow](https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd) | [Chica Brasileña Remix](https://open.spotify.com/album/1uzNGMkeF2yzFb8BEP4NSC) | 2:47 |
 | 18 | [Si Las Gatas Se Amotinan](https://open.spotify.com/track/76lXtXJP6VqX6r9Ks3AUy0) | [Peipper](https://open.spotify.com/artist/4i2al9gevm5K5OlbjqzcJs), [DobleP](https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036), [Locura Mix](https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv) | [Si Las Gatas Se Amotinan](https://open.spotify.com/album/6PZ15lW4EViFarqvxsLrew) | 2:44 |
 | 19 | [Imagínate](https://open.spotify.com/track/4zbEItKoaRId1vRZkoO0Uh) | [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Imagínate](https://open.spotify.com/album/3kzUHIIJdOeP7mwyfT3qJ8) | 2:50 |
-| 20 | [8PM](https://open.spotify.com/track/4te90NkfKf2wCIPdE2CwMW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [8PM](https://open.spotify.com/album/1faroDspdllDB6ihUwtQgE) | 2:24 |
+| 20 | [8pm](https://open.spotify.com/track/4te90NkfKf2wCIPdE2CwMW) | [FMK](https://open.spotify.com/artist/0dUyjgCyjfj5eMx6bX2TWf), [Estani](https://open.spotify.com/artist/4QmDIEVrROsBAad02Mlc1p) | [8pm](https://open.spotify.com/album/1faroDspdllDB6ihUwtQgE) | 2:24 |
 | 21 | [Aloh Aloh](https://open.spotify.com/track/6Gs0ljTHKNdr0uJrSLIkGd) | [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Aloh Aloh](https://open.spotify.com/album/6XyfVd5MfpUW0aWiXfQrky) | 2:16 |
 | 22 | [ASI ES LA VIDA \(feat\. Descemer Bueno & Omi Hernandez\) \- Remix](https://open.spotify.com/track/0jj0Hf63LdLDgoy73YS352) | [Enrique Iglesias](https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG), [J Alvarez](https://open.spotify.com/artist/6XFITTl7cFTdopDY3lUdlY), [Descemer Bueno](https://open.spotify.com/artist/5luyt0SUvGkDMY4ILP6Qhl), [Omi Hernandez](https://open.spotify.com/artist/5TrKkrhYUxkSScH0LzgeqA) | [ASI ES LA VIDA \(feat\. Descemer Bueno & Omi Hernandez\) \[Remix\]](https://open.spotify.com/album/6xgbZ7SdlBQKBSzVl8GZZu) | 3:35 |
 | 23 | [BORRACHO Y LOCO](https://open.spotify.com/track/2UIFEzinNxkSv9fY93SYhx) | [Emanero](https://open.spotify.com/artist/2BTS8Np1YzPQuXjgdlqsBB), [Abel Pintos](https://open.spotify.com/artist/6HTUcOExehqydqa7C3usAa), [The La Planta](https://open.spotify.com/artist/4oZolC0sCwCAKqsNXfRlVS) | [BORRACHO Y LOCO](https://open.spotify.com/album/1wHiSIZldLNeICiNOABSLT) | 3:52 |

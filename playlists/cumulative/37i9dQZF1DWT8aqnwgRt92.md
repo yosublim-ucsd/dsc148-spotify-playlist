@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,769 songs - 4 day 14 hr 16 min
+1,770 songs - 4 day 14 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -667,6 +667,7 @@
 | [Plastic Showcase](https://open.spotify.com/track/3ojYkHSPk2lrVAtQzpoOcY) | [太陽と踊れ月夜に唄え](https://open.spotify.com/artist/6FD9cAv3nEw3sK6mSmIAjV) | [Plastic Showcase](https://open.spotify.com/album/18oVPVpmcr0baFQe8iZbFX) | 3:53 | 2024-10-11 | 2024-10-26 |
 | [Platina\- from CrosSing](https://open.spotify.com/track/6dNi50ClKP3kPKWKB7hbHK) | [Ayana Taketatsu](https://open.spotify.com/artist/34UBKoTrfN5mZ0qzJtsZSS) | [Platina\- from CrosSing](https://open.spotify.com/album/0lUgiDZkZl9gIbDpysJvr2) | 4:09 | 2022-08-23 | 2022-09-16 |
 | [PLAY BOY](https://open.spotify.com/track/6S4Rnq6SiezLyFQuxcVlws) | [降幡 愛](https://open.spotify.com/artist/1VWk7Kn85D60gL6BPzaMWD) | [PLAY BOY](https://open.spotify.com/album/4dtfnK52VwroWF6hLKivaf) | 4:56 | 2023-06-29 | 2023-08-02 |
+| [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 | 2025-01-19 |  |
 | [Please, please!](https://open.spotify.com/track/2Y8X7mYmu8dDK4o5mFaI0G) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [Please, please!](https://open.spotify.com/album/4jHpWzvHRJZovJhVo6x7WL) | 3:42 | 2023-07-04 | 2023-10-08 |
 | [poi](https://open.spotify.com/track/76z0Vtt2c0fKvbXpJWS5qd) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [poi](https://open.spotify.com/album/0lD4bSVS2RIxBYan6avJ3n) | 3:21 | 2024-04-04 | 2024-05-29 |
 | [Pokerface](https://open.spotify.com/track/5n071ppxcknnGJLXOgf02P) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [Pokerface](https://open.spotify.com/album/0dviOJFT2UZNQdAqRaIn9h) | 3:55 | 2022-07-28 | 2022-09-30 |

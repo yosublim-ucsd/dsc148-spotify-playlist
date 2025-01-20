@@ -1,6 +1,6 @@
 {
   "description": "Gamadinho e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundo.",
-  "num_followers": 373228,
+  "num_followers": 373215,
   "original_name": "AMPLIFIKA",
   "owner": {
     "name": "Spotify",
@@ -123,6 +123,22 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
+        "name": "Mixturadin 3 - Vol. 2",
+        "url": "https://open.spotify.com/album/32fYls29AbB59cgAopGyIW"
+      },
+      "artists": [
+        {
+          "name": "Turma do Pagode",
+          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
+        }
+      ],
+      "duration_ms": 182924,
+      "name": "Hoje \u00e9 Dia - Ao Vivo",
+      "url": "https://open.spotify.com/track/0d6x5YscwaTvZ11cwMt7e5"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
         "name": "Sorriso no Rosto",
         "url": "https://open.spotify.com/album/7uA5fxR9xIiO5rXx4pkchd"
       },
@@ -143,42 +159,6 @@
       "duration_ms": 148000,
       "name": "Sorriso no Rosto",
       "url": "https://open.spotify.com/track/3kBYuWrGtx1tSHjzr0vlZh"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
-        "name": "Mixturadin 3 - Vol. 2",
-        "url": "https://open.spotify.com/album/32fYls29AbB59cgAopGyIW"
-      },
-      "artists": [
-        {
-          "name": "Turma do Pagode",
-          "url": "https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5"
-        }
-      ],
-      "duration_ms": 182924,
-      "name": "Hoje \u00e9 Dia - Ao Vivo",
-      "url": "https://open.spotify.com/track/0d6x5YscwaTvZ11cwMt7e5"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
-        "name": "Mist\u00e9rios",
-        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
-      },
-      "artists": [
-        {
-          "name": "KayBlack",
-          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
-        },
-        {
-          "name": "Murillo e LT no Beat",
-          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
-        }
-      ],
-      "duration_ms": 136695,
-      "name": "Mist\u00e9rios",
-      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2025-01-17 03:01:15",
@@ -219,6 +199,26 @@
       "duration_ms": 300842,
       "name": "Samba de Malandro",
       "url": "https://open.spotify.com/track/5u7Xi0QhfkYy3qETJJ5lae"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
+        "name": "Mist\u00e9rios",
+        "url": "https://open.spotify.com/album/7EXbbKbkFrFFGqWIV7vEhH"
+      },
+      "artists": [
+        {
+          "name": "KayBlack",
+          "url": "https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy"
+        },
+        {
+          "name": "Murillo e LT no Beat",
+          "url": "https://open.spotify.com/artist/0KcbRunfjZHfwEnEgd1Dy6"
+        }
+      ],
+      "duration_ms": 136695,
+      "name": "Mist\u00e9rios",
+      "url": "https://open.spotify.com/track/1K14aw84e0i5IHFHkq7aNn"
     },
     {
       "added_at": "2025-01-17 03:01:15",
@@ -331,6 +331,22 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
+        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
+        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
+      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
         "name": "Filha do Deputado",
         "url": "https://open.spotify.com/album/5qFj8svsT6jtBq7X4dMY7Z"
       },
@@ -387,22 +403,6 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
-        "name": "J\u00e1 \u00c9 (Ao Vivo Em Bras\u00edlia)",
-        "url": "https://open.spotify.com/album/5RUuwdryUlZOnWslAGbnE3"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 207272,
-      "name": "J\u00e1 \u00c9 - Ao Vivo Em Bras\u00edlia",
-      "url": "https://open.spotify.com/track/7iSA7bUe5psG3uS9ch4J0d"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
         "name": "Avisa L\u00e1, Pt. 4",
         "url": "https://open.spotify.com/album/2Iwr0LA6hxZO7iEaH6J67j"
       },
@@ -435,6 +435,22 @@
       "duration_ms": 445000,
       "name": "Avisa L\u00e1, Pt. 4",
       "url": "https://open.spotify.com/track/0h7m2GwOZFptFrg7e7tiTn"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
+        "name": "Rob\u00f4 - Spotify Singles",
+        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
+      },
+      "artists": [
+        {
+          "name": "Milthinho",
+          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
+        }
+      ],
+      "duration_ms": 229095,
+      "name": "Rob\u00f4 - Spotify Singles",
+      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
     },
     {
       "added_at": "2025-01-17 03:01:15",
@@ -479,54 +495,6 @@
       "duration_ms": 153429,
       "name": "Qual \u00e9 seu desejo?",
       "url": "https://open.spotify.com/track/2HzLEPWKXcfpwfmEIUURHo"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
-        "name": "Rob\u00f4 - Spotify Singles",
-        "url": "https://open.spotify.com/album/28cxAOhGl1LzkClj5NluVi"
-      },
-      "artists": [
-        {
-          "name": "Milthinho",
-          "url": "https://open.spotify.com/artist/44MnHK78EcZw23nzqY1vFp"
-        }
-      ],
-      "duration_ms": 229095,
-      "name": "Rob\u00f4 - Spotify Singles",
-      "url": "https://open.spotify.com/track/7hhyEKCjqPioAuQBmBZDnr"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
-        "name": "Bad Boys",
-        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
-      },
-      "artists": [
-        {
-          "name": "Mc IG",
-          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
-        },
-        {
-          "name": "MC Ryan SP",
-          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        },
-        {
-          "name": "DJ Glenner",
-          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
-        },
-        {
-          "name": "Mano Brown",
-          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
-        }
-      ],
-      "duration_ms": 351496,
-      "name": "Bad Boys",
-      "url": "https://open.spotify.com/track/6IbR0fjohcdQa3Ml3RfSFg"
     },
     {
       "added_at": "2025-01-17 03:01:15",
@@ -623,6 +591,38 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
+        "name": "Bad Boys",
+        "url": "https://open.spotify.com/album/5seVWzVgUasO5YUeaQ7oaL"
+      },
+      "artists": [
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        },
+        {
+          "name": "DJ Glenner",
+          "url": "https://open.spotify.com/artist/6XX6KGpomRDPmGGm7bofCK"
+        },
+        {
+          "name": "Mano Brown",
+          "url": "https://open.spotify.com/artist/0fMjaafeNhHPA6mJ5ZglAJ"
+        }
+      ],
+      "duration_ms": 351496,
+      "name": "Bad Boys",
+      "url": "https://open.spotify.com/track/6IbR0fjohcdQa3Ml3RfSFg"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
         "name": "FETICHE",
         "url": "https://open.spotify.com/album/6SoFWYQO8V4wNyinoIHcol"
       },
@@ -663,6 +663,26 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
+        "name": "Numanice #3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 194211,
+      "name": "1% - Ao Vivo",
+      "url": "https://open.spotify.com/track/6gu8xo31Bsg22KhwTLJsmJ"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
         "name": "Vamo Marolar",
         "url": "https://open.spotify.com/album/3oGU2np2FVq18SxoaCVQ9Z"
       },
@@ -687,26 +707,6 @@
       "duration_ms": 181512,
       "name": "Vamo Marolar",
       "url": "https://open.spotify.com/track/6VzrPxShPXVXRLig62vl2p"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
-        "name": "Numanice #3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2uNEA9woVB0GKJuv4vA9Af"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 194211,
-      "name": "1% - Ao Vivo",
-      "url": "https://open.spotify.com/track/6gu8xo31Bsg22KhwTLJsmJ"
     },
     {
       "added_at": "2025-01-17 03:01:15",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
+        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
+      },
+      "artists": [
+        {
+          "name": "Thais Macedo",
+          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
+        }
+      ],
+      "duration_ms": 165703,
+      "name": "Resenha das Minas - Ao Vivo",
+      "url": "https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
         "name": "M.A.D 2",
         "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 139355,
       "name": "Dueto",
       "url": "https://open.spotify.com/track/2LyeFkeZJ1DJoXB0RlKRC7"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
-        "name": "Resenha das Minas 2, EP 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/04k20MDgqgj9pd3OimfVF7"
-      },
-      "artists": [
-        {
-          "name": "Thais Macedo",
-          "url": "https://open.spotify.com/artist/6UwezAoo5IVh7Ned3j5eVP"
-        }
-      ],
-      "duration_ms": 165703,
-      "name": "Resenha das Minas - Ao Vivo",
-      "url": "https://open.spotify.com/track/2HgHyUK0vQOSxK71EShKsS"
     },
     {
       "added_at": "2025-01-17 03:01:15",
@@ -967,6 +967,34 @@
       "duration_ms": 182694,
       "name": "Febre - Ao Vivo",
       "url": "https://open.spotify.com/track/1UP0EZEC7xepgQHdsishXG"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
+        "name": "M.A.D 2",
+        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
+      },
+      "artists": [
+        {
+          "name": "Yunk Vino",
+          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
+        },
+        {
+          "name": "Stuani",
+          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
+        },
+        {
+          "name": "Kenji",
+          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
+        },
+        {
+          "name": "Ryu, The Runner",
+          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
+        }
+      ],
+      "duration_ms": 181985,
+      "name": "DVD",
+      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
     },
     {
       "added_at": "2025-01-17 03:01:15",
@@ -1083,34 +1111,6 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
-        "name": "M.A.D 2",
-        "url": "https://open.spotify.com/album/03Rrj1UdadnEftE3QAZmUH"
-      },
-      "artists": [
-        {
-          "name": "Yunk Vino",
-          "url": "https://open.spotify.com/artist/460m2YG30duLCuHwFdiLgX"
-        },
-        {
-          "name": "Stuani",
-          "url": "https://open.spotify.com/artist/7Bcxsb61NAnVziEUPVvbIw"
-        },
-        {
-          "name": "Kenji",
-          "url": "https://open.spotify.com/artist/4CraoGHLUgiiUxEaataOGO"
-        },
-        {
-          "name": "Ryu, The Runner",
-          "url": "https://open.spotify.com/artist/1ZzJx2AgPmbnOE6OXhnn5K"
-        }
-      ],
-      "duration_ms": 181985,
-      "name": "DVD",
-      "url": "https://open.spotify.com/track/0bdSnGHhbELTZ4kf7FGWPT"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
         "name": "Voc\u00ea Parece Com Vergonha",
         "url": "https://open.spotify.com/album/3dNBEUQg3uKKvpoCNEwicy"
       },
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2025-01-17 03:01:15",
       "album": {
-        "name": "Banho de Folhas",
-        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
-      },
-      "artists": [
-        {
-          "name": "Xande De Pilares",
-          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
-        }
-      ],
-      "duration_ms": 231017,
-      "name": "Banho de Folhas",
-      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
-    },
-    {
-      "added_at": "2025-01-17 03:01:15",
-      "album": {
         "name": "Saudade Tatuada (Ao Vivo)",
         "url": "https://open.spotify.com/album/7H8CjnywEdYNBZHreuQ2Mr"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 193192,
       "name": "Saudade Tatuada - Ao Vivo",
       "url": "https://open.spotify.com/track/5ibWIyNrLGnweranaclVis"
+    },
+    {
+      "added_at": "2025-01-17 03:01:15",
+      "album": {
+        "name": "Banho de Folhas",
+        "url": "https://open.spotify.com/album/0wLE1tEXT32qRgPidt3r5R"
+      },
+      "artists": [
+        {
+          "name": "Xande De Pilares",
+          "url": "https://open.spotify.com/artist/4IQKOXNGjuRRe0WgOm5YfB"
+        }
+      ],
+      "duration_ms": 231017,
+      "name": "Banho de Folhas",
+      "url": "https://open.spotify.com/track/4rnsEw278G3pFjiMSzS4fG"
     },
     {
       "added_at": "2025-01-17 03:01:15",

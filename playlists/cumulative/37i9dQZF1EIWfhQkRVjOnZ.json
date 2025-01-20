@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-23",
-  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIVcLurUJRrPU>This Or The Apocalypse</a>",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIY9lpvgbLYDO>Inhale Exhale</a>, <a href=spotify:playlist:37i9dQZF1EIXgervdrMvYK>Oh, Sleeper</a> and <a href=spotify:playlist:37i9dQZF1EIUIEDIU11pe6>Forevermore</a>",
   "name": "Destroy The Runner Mix",
   "tracks": [
     {
@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "The Lost, The Sick, The Sacred",
+        "url": "https://open.spotify.com/album/2jgHxWbM646hmBqaJCXb0s"
+      },
+      "artists": [
+        {
+          "name": "Inhale Exhale",
+          "url": "https://open.spotify.com/artist/5DfSyvaESBfcTdAOQOJWfD"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201800,
+      "name": "By Grace",
+      "url": "https://open.spotify.com/track/0QYDzSKXoiPsLwiLWlfhy9"
+    },
+    {
+      "album": {
         "name": "Children Of Fire",
         "url": "https://open.spotify.com/album/0WQNPLhdUZWdBotJTdW73k"
       },
@@ -1042,7 +1060,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-15",
+      "date_removed": null,
       "duration_ms": 233666,
       "name": "Existence",
       "url": "https://open.spotify.com/track/7B63Ztq9MV7IDwShmE09rL"
@@ -2122,7 +2140,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 140973,
       "name": "Rose Among The Ashes",
       "url": "https://open.spotify.com/track/4jZNdbXOohNNPMRbaybFQS"
@@ -2680,7 +2698,7 @@
       ],
       "date_added": "2024-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 205006,
       "name": "Thirty One & Sevens",
       "url": "https://open.spotify.com/track/36AheSgFmpF0Chue69lh7J"
@@ -2806,7 +2824,7 @@
       ],
       "date_added": "2024-07-30",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 252080,
       "name": "Truth of a Liar",
       "url": "https://open.spotify.com/track/6dFnYSNPNIq5l0zXf229dT"
@@ -2968,7 +2986,7 @@
       ],
       "date_added": "2024-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 251320,
       "name": "When Everything Falls",
       "url": "https://open.spotify.com/track/5z9amXA7pdaWIuHLmcOoaV"

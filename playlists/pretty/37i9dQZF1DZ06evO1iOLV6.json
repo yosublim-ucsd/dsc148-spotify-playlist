@@ -1,12 +1,12 @@
 {
   "description": "This is Patoranking. The essential tracks, all in one playlist.",
-  "num_followers": 10638,
+  "num_followers": 10645,
   "original_name": "This Is Patoranking",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAADBGy8U414J6HdluoygbtLw",
+  "snapshot_id": "Z4rvAAAAAACiCwR+gZBG4Dbnt5rIJOTF",
   "tracks": [
     {
       "added_at": null,
@@ -419,6 +419,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Abobi",
+        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        }
+      ],
+      "duration_ms": 201048,
+      "name": "Abobi",
+      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Confirm (feat. Davido)",
         "url": "https://open.spotify.com/album/3e9N0u3qAe6273h949AsFy"
       },
@@ -439,18 +455,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Abobi",
-        "url": "https://open.spotify.com/album/2Do2qXqtcD5PvVhIVCLMw1"
+        "name": "Credit Alert",
+        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
       },
       "artists": [
+        {
+          "name": "Kocee",
+          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
+        },
         {
           "name": "Patoranking",
           "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
         }
       ],
-      "duration_ms": 201048,
-      "name": "Abobi",
-      "url": "https://open.spotify.com/track/7echDVorySYxnup1HrR15b"
+      "duration_ms": 193718,
+      "name": "Credit Alert",
+      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
     },
     {
       "added_at": null,
@@ -471,26 +491,6 @@
       "duration_ms": 252200,
       "name": "Together",
       "url": "https://open.spotify.com/track/0X425kX0UGmBnmrzsZlztm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Credit Alert",
-        "url": "https://open.spotify.com/album/27VycxPDyBm6DcXxAJ7Xet"
-      },
-      "artists": [
-        {
-          "name": "Kocee",
-          "url": "https://open.spotify.com/artist/2kzxvChUUVpkgySPhCcUT6"
-        },
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        }
-      ],
-      "duration_ms": 193718,
-      "name": "Credit Alert",
-      "url": "https://open.spotify.com/track/61g4qqwAMuHnzW2URHX0EJ"
     },
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "God Over Everything",
-        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
-      },
-      "artists": [
-        {
-          "name": "Patoranking",
-          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 224028,
-      "name": "Money",
-      "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ma girl",
         "url": "https://open.spotify.com/album/6QckTJtuiIKNFFlymaxaos"
       },
@@ -679,6 +659,26 @@
       "duration_ms": 207272,
       "name": "Ma girl",
       "url": "https://open.spotify.com/track/2CUfR68XB0qSpCA5YXFbkO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "God Over Everything",
+        "url": "https://open.spotify.com/album/3QD26z4Ces1OCiVqPhn87R"
+      },
+      "artists": [
+        {
+          "name": "Patoranking",
+          "url": "https://open.spotify.com/artist/2hKQc001G7ggs3ZyxMdkGq"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 224028,
+      "name": "Money",
+      "url": "https://open.spotify.com/track/08ukHlIbOzAthGktxveTSi"
     },
     {
       "added_at": null,

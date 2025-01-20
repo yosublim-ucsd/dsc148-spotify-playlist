@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1253lWxXfmfZeT2vRLhBUq">Elton John</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-639 songs - 1 day 20 hr 30 min
+640 songs - 1 day 20 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -253,7 +253,8 @@
 | [I Can't Steer My Heart Clear Of You](https://open.spotify.com/track/6m82xAYcFLVjQ4kSpcZI2K) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [The Big Picture](https://open.spotify.com/album/7ndxdHA40ZLx0jH0V6fjz9) | 4:07 | 2022-09-08 |  |
 | [I Cry At Night](https://open.spotify.com/track/7MAVmdpMgE9CtQ4jIIQNfw) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 3:16 | 2022-09-08 |  |
 | [I Don't Care](https://open.spotify.com/track/08uVknixiIZGP9Lt9sobQF) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [A Single Man](https://open.spotify.com/album/3nCMMolz1wMdEIwlf0SbZp) | 4:23 | 2022-09-08 |  |
-| [I Don't Feel Like Dancin' \- Radio Edit](https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [I Don't Feel Like Dancin'](https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz) | 4:08 | 2022-09-08 |  |
+| [I Don't Feel Like Dancin' \- Radio Edit](https://open.spotify.com/track/1qEHgdFqUxFebMPk8s2HLY) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [I Don't Feel Like Dancin'](https://open.spotify.com/album/6LPpLYrjQYKtMfDUT1qjOz) | 4:08 | 2022-09-08 | 2025-01-20 |
+| [I Don't Feel Like Dancin' \- Radio Edit](https://open.spotify.com/track/7e6Vp3lkuFwDvC4M687SJv) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [I Don’t Feel Like Dancin’](https://open.spotify.com/album/1maxEz9VeJpcDNedCNX4dx) | 4:08 | 2025-01-19 |  |
 | [I Don't Wanna Go On With You Like That](https://open.spotify.com/track/2Gd10PZnMktt3Cgo9s6yi0) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Reg Strikes Back](https://open.spotify.com/album/6X5nYddBsYWFHQvhN6SGDK) | 4:35 | 2022-09-08 |  |
 | [I Fall Apart](https://open.spotify.com/track/52fhpYycO8jg8ZEysm936D) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Leather Jackets](https://open.spotify.com/album/6LJWMUVW2N2vvshxq3XCS6) | 4:02 | 2022-09-08 |  |
 | [I Feel Like A Bullet \(In The Gun Of Robert Ford\)](https://open.spotify.com/track/62Qvzu8oG0RIJYDxr90nWR) | [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Rock Of The Westies](https://open.spotify.com/album/4ObsEU7mIXbo2n9A31yfds) | 5:27 | 2024-11-23 |  |

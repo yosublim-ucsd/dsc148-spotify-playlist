@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQM3rmTXpBR.md) - [plain]
 
 > Alternative Arabic songs\. Cover: Fulana
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,351 likes - 93 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,372 likes - 93 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4JAvHpjipBk.md) - [plain]
 
 > New music from Central Cee & 21 Savage, Mac Miller, Marshmello & Jonas Brothers, Lucy Dacus, and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,268,402 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,268,562 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 
 > This is Alcolirykoz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,863 likes - 38 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,899 likes - 38 songs - 2 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,11 +25,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 15 | [Fruko y Sus Presos \(2.018\)](https://open.spotify.com/track/0TrH7tQ2qIhsGFs4fDUVBj) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [En Letras Mayúsculas \(Reedición 2018\)](https://open.spotify.com/album/6gp7h46R7nNNYBlN04dEQY) | 3:38 |
 | 16 | [Pambelé](https://open.spotify.com/track/6dEHpnOkqzhnclru69FXkl) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:47 |
 | 17 | [N.A.D.A.](https://open.spotify.com/track/4YP3mC222xnszWgVHwqUwI) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:30 |
-| 18 | [Dicotomía](https://open.spotify.com/track/4kEmzLky7Pnx1TeAmzR3fY) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:24 |
+| 18 | [Suero Casero](https://open.spotify.com/track/69PGSvAuNIxQFIqTmaAdYZ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:05 |
 | 19 | [Otra Canción Larga](https://open.spotify.com/track/1nOm3ZP10ZrpgW2EAmtRIV) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 6:05 |
 | 20 | [No Está en Venta](https://open.spotify.com/track/1pjwpLpSqSEYSqtgrCJJsf) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 4:00 |
 | 21 | [Changó](https://open.spotify.com/track/24r3DhkmDUKHpEtgMnjdiX) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 4:04 |
-| 22 | [Suero Casero](https://open.spotify.com/track/69PGSvAuNIxQFIqTmaAdYZ) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:05 |
+| 22 | [Dicotomía](https://open.spotify.com/track/4kEmzLky7Pnx1TeAmzR3fY) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Anarcolirykoz](https://open.spotify.com/album/0zE2Btx6MqIdY8pPP1oukD) | 3:24 |
 | 23 | [Mi Religión](https://open.spotify.com/track/3idFvZM9VyiIkjSOjfuGkJ) | [La Etnnia](https://open.spotify.com/artist/5g03v1dieHbVUP47XeXk7H), [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [10](https://open.spotify.com/album/6pNVucax5EH9Nf90F6qqBq) | 3:51 |
 | 24 | [La Caza de Nariño](https://open.spotify.com/track/3fOVLYEqp2loND8GaTkR15) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Junior Zamora](https://open.spotify.com/artist/1xbYDYZZRWQ0mG218SGVDQ) | [Aranjuez](https://open.spotify.com/album/23krijKfse53ocaki0SfA0) | 3:41 |
 | 25 | [Género Rural](https://open.spotify.com/track/2GKZ6Uu259JpUUPIymkXll) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D), [Rulaz Plazco](https://open.spotify.com/artist/7AIm5A2YlfUs5qLKcQD6O1) | [Servicios Ambulatorioz](https://open.spotify.com/album/5aBubKb1PUsfAygzat5ZmJ) | 3:51 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2449GK.md) - [plain]
 | 37 | [Let My People](https://open.spotify.com/track/1EEBQGpufjlLt6IsVRezYc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [El Despilfarro](https://open.spotify.com/album/5uHOagTTb7uMubkK23phZ9) | 3:32 |
 | 38 | [El Ritual](https://open.spotify.com/track/1sWyFCxCG38zZDlEZFQ0Cc) | [Alcolirykoz](https://open.spotify.com/artist/3ygJTpJJIK7eEeC2EFRl9D) | [Efectos Secundarios](https://open.spotify.com/album/2rZ4AlA2uXKfeDQ9UDdoqp) | 3:26 |
 
-Snapshot ID: `Z4mdgAAAAACUIWrSpCVtaSYHFLv5eT/C`
+Snapshot ID: `Z4rvAAAAAAD3f4rj/c5sXxAHxHQ0ibKk`

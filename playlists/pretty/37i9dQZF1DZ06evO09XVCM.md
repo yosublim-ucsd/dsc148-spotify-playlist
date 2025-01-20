@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 
 > This is Ziggy Marley\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,804 likes - 50 songs - 3 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,810 likes - 50 songs - 3 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO09XVCM.md) - [plain]
 | 49 | [See Dem Fake Leaders](https://open.spotify.com/track/5zaKUBh9bpjmvqumcqECv8) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc) | [Rebellion Rises](https://open.spotify.com/album/4GEhidr20hYZgYhk6eH2ZO) | 3:58 |
 | 50 | [Garden Song of Miracles \(feat\. Stephen Marley\)](https://open.spotify.com/track/3Potk2QPnD4Oc9jvgPUYZ5) | [Ziggy Marley](https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1) | [More Family Time](https://open.spotify.com/album/2kHooAwZ8twZMTDzzpRvyf) | 3:11 |
 
-Snapshot ID: `Z4mdgAAAAABA69kSUQeLhNdpJmAoj4sI`
+Snapshot ID: `Z4rvAAAAAADNJhGZ6TVQVuTnByi5RvHv`

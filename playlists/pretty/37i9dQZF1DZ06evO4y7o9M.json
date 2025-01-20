@@ -1,12 +1,12 @@
 {
   "description": "This is Junior H. The essential tracks, all in one playlist.",
-  "num_followers": 828518,
+  "num_followers": 828748,
   "original_name": "This Is Junior H",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAACV2+IGIiSuz+BvymyvosoI",
+  "snapshot_id": "Z4rvAAAAAACiIAA5/mT3BnCBtLEzgh5g",
   "tracks": [
     {
       "added_at": null,
@@ -791,26 +791,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 172360,
-      "name": "Eres",
-      "url": "https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Intenciones Malas",
         "url": "https://open.spotify.com/album/6znVJeVrLQHBt4YY3vJ0Ru"
       },
@@ -831,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atrapado en un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
       },
       "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
         {
           "name": "Junior H",
           "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
         }
       ],
-      "duration_ms": 210161,
-      "name": "Atrapado en un Sue\u00f1o",
-      "url": "https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN"
+      "duration_ms": 172360,
+      "name": "Eres",
+      "url": "https://open.spotify.com/track/3FUVgc4ULS0t7X7sUBZ1UO"
     },
     {
       "added_at": null,
@@ -859,6 +843,22 @@
       "duration_ms": 240000,
       "name": "TUS BESOX",
       "url": "https://open.spotify.com/track/6hxsXcuaPbHmIR8DsZJCyr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atrapado en un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 210161,
+      "name": "Atrapado en un Sue\u00f1o",
+      "url": "https://open.spotify.com/track/4FJHSPdhQqxovmYP9YpcHN"
     },
     {
       "added_at": null,
@@ -899,22 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Atrapado en un Sue\u00f1o",
-        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 287929,
-      "name": "Jueves 10",
-      "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rich Mafia Vol. 1",
         "url": "https://open.spotify.com/album/64esOhbm4ceNKRyjm4iQhj"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 183104,
       "name": "Close Friends (feat. Cozy Cuz)",
       "url": "https://open.spotify.com/track/60hXYwPxHvSF4U5Yzalxtt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Atrapado en un Sue\u00f1o",
+        "url": "https://open.spotify.com/album/4UmrKzDJX0agxs2VF9lkaF"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 287929,
+      "name": "Jueves 10",
+      "url": "https://open.spotify.com/track/7KoyXL9zghiNpXkb5iVDyj"
     },
     {
       "added_at": null,

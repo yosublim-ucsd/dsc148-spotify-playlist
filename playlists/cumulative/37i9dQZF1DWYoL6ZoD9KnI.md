@@ -4,7 +4,7 @@
 
 > The essential tracks from Kenshi Yonezu/ hachi\. 米津玄師/ ハチの代表曲を1つのプレイリストで。
 
-127 songs - 8 hr 20 min
+128 songs - 8 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -44,6 +44,7 @@
 | [Paper Flower](https://open.spotify.com/track/3GlPrecJaY4DfBuiRuo6JM) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Lemon](https://open.spotify.com/album/4BcpkUtaQj8TJnbSJCau3G) | 4:35 | 2024-04-08 |  |
 | [PLACEBO ＋ 野田洋次郎](https://open.spotify.com/track/2JddJrkwam4cTskjGQoysI) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [STRAY SHEEP](https://open.spotify.com/album/052EiTRYh35MuDVJN9Emdh) | 4:00 | 2022-11-22 | 2024-04-19 |
 | [PLACEBO ＋ 野田洋次郎](https://open.spotify.com/track/49nwbMrOB3fhDPp0MiPeb3) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB), [Yojiro Noda](https://open.spotify.com/artist/1HAuPdrX1EKL7rtAdb1ZQY) | [STRAY SHEEP](https://open.spotify.com/album/4DBYRaB42DDZjxyjOfTkzC) | 4:00 | 2024-04-08 |  |
+| [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 | 2025-01-20 |  |
 | [POP SONG](https://open.spotify.com/track/7KtVbdX7JJbzzhpm6t2APb) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 3:19 | 2024-08-20 |  |
 | [POP SONG](https://open.spotify.com/track/2wPSiRWMFFeL1FC4MJ3Qxf) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [M八七](https://open.spotify.com/album/6KgGPCceeIHDFldBzttiBu) | 3:19 | 2022-11-22 | 2024-08-21 |
 | [POST HUMAN](https://open.spotify.com/track/0gNE5BIL3kFGHoBpjUXCDq) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [LOST CORNER](https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T) | 4:04 | 2024-08-20 |  |
@@ -127,7 +128,7 @@
 | [眼福](https://open.spotify.com/track/7e2oFZqJWr1fbG6CLH4srC) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [YANKEE](https://open.spotify.com/album/64SAjax288grKsmuLDfA6G) | 4:24 | 2022-11-22 |  |
 | [砂の惑星 feat.初音ミク](https://open.spotify.com/track/2RBQ84niVRC6bBdhe7lc9F) | [hachi](https://open.spotify.com/artist/6ptdMFoqgQZRoccAYK9Opd) | [砂の惑星 feat.初音ミク](https://open.spotify.com/album/5fYiHj6u8MZWm2IPgvI0vh) | 3:58 | 2022-11-22 |  |
 | [米津玄師からのボイスコメント](https://open.spotify.com/track/2S9mRRurANCA8ukmbsMG1O) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [米津玄師からのボイスコメント](https://open.spotify.com/album/7GDhAfbRXjn4lpKhKsrMZn) | 0:38 | 2024-08-07 | 2024-08-21 |
-| [米津玄師からのボイスコメント「LOST CORNER」について](https://open.spotify.com/track/00dWUUzw4EsYaP6LqA2Nm8) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [米津玄師からのボイスコメント「LOST CORNER」について](https://open.spotify.com/album/2So2D4VpWR9kKmiKZrThDM) | 0:29 | 2024-08-20 |  |
+| [米津玄師からのボイスコメント「LOST CORNER」について](https://open.spotify.com/track/00dWUUzw4EsYaP6LqA2Nm8) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [米津玄師からのボイスコメント「LOST CORNER」について](https://open.spotify.com/album/2So2D4VpWR9kKmiKZrThDM) | 0:29 | 2024-08-20 | 2025-01-20 |
 | [翡翠の狼](https://open.spotify.com/track/0yHo9VWxek2cGWlEKEXZeu) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/6ep5IzUmjonQYr42rbaMsF) | 3:50 | 2024-04-08 |  |
 | [翡翠の狼](https://open.spotify.com/track/4kUGWziV03u0xvRk6Fmogx) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [orion](https://open.spotify.com/album/1Vbibus80oIZ7GWnsYLNtp) | 3:50 | 2022-11-22 | 2024-04-19 |
 | [街](https://open.spotify.com/track/0rPxJWtfr7aBswJIpsf2lz) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [diorama](https://open.spotify.com/album/75VDsskmdLJZWqbHYpKcKK) | 5:40 | 2022-11-22 |  |

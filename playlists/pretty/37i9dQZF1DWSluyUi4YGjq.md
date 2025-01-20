@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSluyUi4YGjq.md) - [plain]
 
 > Gazing at pedals, soaring celestially high\. cover: Trauma Ray
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,670 likes - 169 songs - 10 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,782 likes - 169 songs - 10 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

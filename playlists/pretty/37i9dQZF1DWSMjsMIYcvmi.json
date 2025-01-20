@@ -335,6 +335,22 @@
     {
       "added_at": "2024-05-23 23:05:52",
       "album": {
+        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
+        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
+      },
+      "artists": [
+        {
+          "name": "Tones And I",
+          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
+        }
+      ],
+      "duration_ms": 209438,
+      "name": "Dance Monkey",
+      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
+    },
+    {
+      "added_at": "2024-05-23 23:05:52",
+      "album": {
         "name": "I Don't Care (with Justin Bieber)",
         "url": "https://open.spotify.com/album/5Nux7ozBJ5KJ02QYWwrneR"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 219946,
       "name": "I Don't Care (with Justin Bieber)",
       "url": "https://open.spotify.com/track/3HVWdVOQ0ZA45FuZGSfvns"
-    },
-    {
-      "added_at": "2024-05-23 23:05:52",
-      "album": {
-        "name": "Dance Monkey (Stripped Back) / Dance Monkey",
-        "url": "https://open.spotify.com/album/0UywfDKYlyiu1b38DRrzYD"
-      },
-      "artists": [
-        {
-          "name": "Tones And I",
-          "url": "https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY"
-        }
-      ],
-      "duration_ms": 209438,
-      "name": "Dance Monkey",
-      "url": "https://open.spotify.com/track/2XU0oxnq2qxCpomAAuJY8K"
     },
     {
       "added_at": "2024-05-23 23:05:52",
@@ -459,26 +459,6 @@
     {
       "added_at": "2024-05-23 23:05:52",
       "album": {
-        "name": "No.6 Collaborations Project",
-        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
-      },
-      "artists": [
-        {
-          "name": "Ed Sheeran",
-          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
-        },
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        }
-      ],
-      "duration_ms": 197866,
-      "name": "Beautiful People (feat. Khalid)",
-      "url": "https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv"
-    },
-    {
-      "added_at": "2024-05-23 23:05:52",
-      "album": {
         "name": "Nothing Breaks Like a Heart (feat. Miley Cyrus)",
         "url": "https://open.spotify.com/album/2hBfao8GWZwHlUGDB8HVQO"
       },
@@ -535,6 +515,26 @@
       "duration_ms": 190306,
       "name": "Take You Dancing",
       "url": "https://open.spotify.com/track/59qrUpoplZxbIZxk6X0Bm3"
+    },
+    {
+      "added_at": "2024-05-23 23:05:52",
+      "album": {
+        "name": "No.6 Collaborations Project",
+        "url": "https://open.spotify.com/album/3oIFxDIo2fwuk4lwCmFZCx"
+      },
+      "artists": [
+        {
+          "name": "Ed Sheeran",
+          "url": "https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V"
+        },
+        {
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
+        }
+      ],
+      "duration_ms": 197866,
+      "name": "Beautiful People (feat. Khalid)",
+      "url": "https://open.spotify.com/track/70eFcWOvlMObDhURTqT4Fv"
     },
     {
       "added_at": "2024-05-23 23:05:52",
@@ -731,6 +731,26 @@
     {
       "added_at": "2024-05-23 23:05:52",
       "album": {
+        "name": "Rise",
+        "url": "https://open.spotify.com/album/3KjCdhPbjbLptyJzviKu4P"
+      },
+      "artists": [
+        {
+          "name": "Jonas Blue",
+          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+        },
+        {
+          "name": "Jack & Jack",
+          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+        }
+      ],
+      "duration_ms": 194407,
+      "name": "Rise",
+      "url": "https://open.spotify.com/track/3u1S1OmAUhx5DRlLrXqyp3"
+    },
+    {
+      "added_at": "2024-05-23 23:05:52",
+      "album": {
         "name": "Intentions",
         "url": "https://open.spotify.com/album/55zg331p7m1EFA4uRggkwt"
       },
@@ -767,22 +787,22 @@
     {
       "added_at": "2024-05-23 23:05:52",
       "album": {
-        "name": "Rise",
-        "url": "https://open.spotify.com/album/3KjCdhPbjbLptyJzviKu4P"
+        "name": "Know Your Worth",
+        "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
       },
       "artists": [
         {
-          "name": "Jonas Blue",
-          "url": "https://open.spotify.com/artist/1HBjj22wzbscIZ9sEb5dyf"
+          "name": "Khalid",
+          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
         },
         {
-          "name": "Jack & Jack",
-          "url": "https://open.spotify.com/artist/1INuLZXjjVbcJRyWvD1iSq"
+          "name": "Disclosure",
+          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
         }
       ],
-      "duration_ms": 194407,
-      "name": "Rise",
-      "url": "https://open.spotify.com/track/3u1S1OmAUhx5DRlLrXqyp3"
+      "duration_ms": 181436,
+      "name": "Know Your Worth",
+      "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
     },
     {
       "added_at": "2024-05-23 23:05:52",
@@ -823,26 +843,6 @@
       "duration_ms": 179916,
       "name": "My Oasis (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/2KoHxhRyWxJzA0VafWd5Nk"
-    },
-    {
-      "added_at": "2024-05-23 23:05:52",
-      "album": {
-        "name": "Know Your Worth",
-        "url": "https://open.spotify.com/album/0uLz2ygHQAtLknyGasJOr5"
-      },
-      "artists": [
-        {
-          "name": "Khalid",
-          "url": "https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny"
-        },
-        {
-          "name": "Disclosure",
-          "url": "https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et"
-        }
-      ],
-      "duration_ms": 181436,
-      "name": "Know Your Worth",
-      "url": "https://open.spotify.com/track/0TrPqhAMoaKUFLR7iYDokf"
     },
     {
       "added_at": "2024-05-23 23:05:52",
@@ -927,6 +927,26 @@
     {
       "added_at": "2024-05-23 23:05:52",
       "album": {
+        "name": "I\u2019m Ready (with Demi Lovato)",
+        "url": "https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU"
+      },
+      "artists": [
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        },
+        {
+          "name": "Demi Lovato",
+          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
+        }
+      ],
+      "duration_ms": 200838,
+      "name": "I\u2019m Ready (with Demi Lovato)",
+      "url": "https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY"
+    },
+    {
+      "added_at": "2024-05-23 23:05:52",
+      "album": {
         "name": "Whiskey To My Soul",
         "url": "https://open.spotify.com/album/7pMY78paFqxpkhTAUanWWb"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 214200,
       "name": "We Were Young",
       "url": "https://open.spotify.com/track/1USj0dJqfBxnOiwiOuB7pU"
-    },
-    {
-      "added_at": "2024-05-23 23:05:52",
-      "album": {
-        "name": "I\u2019m Ready (with Demi Lovato)",
-        "url": "https://open.spotify.com/album/44msshHeN6irJ1md7GVSlU"
-      },
-      "artists": [
-        {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
-        },
-        {
-          "name": "Demi Lovato",
-          "url": "https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp"
-        }
-      ],
-      "duration_ms": 200838,
-      "name": "I\u2019m Ready (with Demi Lovato)",
-      "url": "https://open.spotify.com/track/1fipvP2zmef6vN2IwXfJhY"
     },
     {
       "added_at": "2024-05-23 23:05:52",
@@ -1159,6 +1159,26 @@
     {
       "added_at": "2024-05-23 23:05:52",
       "album": {
+        "name": "By The Way",
+        "url": "https://open.spotify.com/album/3wJrUiBLCxGHDJTo9zFo4A"
+      },
+      "artists": [
+        {
+          "name": "Jeremy Loops",
+          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
+        },
+        {
+          "name": "Motheo Moleko",
+          "url": "https://open.spotify.com/artist/5Wh08VDk9Jz2FMLFUhThjT"
+        }
+      ],
+      "duration_ms": 222760,
+      "name": "By The Way",
+      "url": "https://open.spotify.com/track/7rhryng8NGv5rVCi6Qf2g5"
+    },
+    {
+      "added_at": "2024-05-23 23:05:52",
+      "album": {
         "name": "If The World Was Ending (feat. Julia Michaels) [Original Demo]",
         "url": "https://open.spotify.com/album/1YjKDpybD8SS9rSHCjhvFq"
       },
@@ -1203,26 +1223,6 @@
       "duration_ms": 195428,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/02kDW379Yfd5PzW5A6vuGt"
-    },
-    {
-      "added_at": "2024-05-23 23:05:52",
-      "album": {
-        "name": "By The Way",
-        "url": "https://open.spotify.com/album/3wJrUiBLCxGHDJTo9zFo4A"
-      },
-      "artists": [
-        {
-          "name": "Jeremy Loops",
-          "url": "https://open.spotify.com/artist/0Dct2Gu0qEbgGRjfaxew8g"
-        },
-        {
-          "name": "Motheo Moleko",
-          "url": "https://open.spotify.com/artist/5Wh08VDk9Jz2FMLFUhThjT"
-        }
-      ],
-      "duration_ms": 222760,
-      "name": "By The Way",
-      "url": "https://open.spotify.com/track/7rhryng8NGv5rVCi6Qf2g5"
     },
     {
       "added_at": "2024-05-23 23:05:52",

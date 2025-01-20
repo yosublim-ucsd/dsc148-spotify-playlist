@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,874 songs - 1 day 14 hr 20 min
+1,878 songs - 1 day 14 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -176,6 +176,7 @@
 | [Beautiful View](https://open.spotify.com/track/0e8PYUdv6FZsS2eV88On5x) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Beautiful View](https://open.spotify.com/album/2t4KLsMsGtEa73yaWlhUsy) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Beautiful View Arr\. For Strings](https://open.spotify.com/track/4cfBkwJsE1xr5AOlmmrnei) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Beautiful View Revisited](https://open.spotify.com/album/4Hn67vS26LnFHqifKUvZTu) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Beautiful Vista](https://open.spotify.com/track/7dGPD97GHbCKttw9VgsTjM) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Waves Of Love](https://open.spotify.com/album/5ChteC7FRIuqgnbgb1NbxM) | 1:01 | 2022-05-14 |  |
+| [Beautiful World](https://open.spotify.com/track/5EoRWptnl78AQIbhnbeYLU) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Beautiful World](https://open.spotify.com/album/4vAsglUcnphuTDS6PkujoW) | 1:00 | 2025-01-19 |  |
 | [Beautiful You](https://open.spotify.com/track/5F6l7Qh9CtCNu45ZjZfw6p) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:18 | 2022-01-12 |  |
 | [Beautifully Faded](https://open.spotify.com/track/7DO50xaeVoGsSRzmj9IRzQ) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [By the Shore](https://open.spotify.com/album/1UKtBO6uCXhhM4pXRwwmSw) | 1:42 | 2022-01-20 | 2024-01-30 |
 | [Beauty](https://open.spotify.com/track/3xlfRdPwk32VqRcldrAnyR) | [Poella](https://open.spotify.com/artist/0to4jGriVUNpgXmdw9C9js) | [Beauty](https://open.spotify.com/album/5RebZ0xkEcsxgK9fSrdL3a) | 1:01 | 2024-02-09 | 2024-02-13 |
@@ -288,6 +289,7 @@
 | [Calling](https://open.spotify.com/track/30lPH79Dq5k5DGCNkakAnO) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Calling](https://open.spotify.com/album/4bWWMAVUPkSWBG95A7gbdz) | 1:00 | 2024-07-05 |  |
 | [Calling](https://open.spotify.com/track/64sFWTTC8olFhxI4nXaPYZ) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sunrise](https://open.spotify.com/album/4KWQdvYkfCatSafb1o5vCR) | 1:31 | 2022-01-12 |  |
 | [Calm Again](https://open.spotify.com/track/1m7IGe5lBiVTk8ipPJBvNg) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Calm Again](https://open.spotify.com/album/3QCjXnrnfxVIxCaFYdz6L8) | 1:01 | 2024-02-09 | 2024-02-13 |
+| [Calm And Present](https://open.spotify.com/track/4VW2ZMreGx6ZkrEyGH16cS) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Calm And Present](https://open.spotify.com/album/4VV8tDpnFyBMHXg0c1C3bx) | 1:00 | 2025-01-19 |  |
 | [Calm Answers](https://open.spotify.com/track/2DUR3GrTmuRWjst4TdMdZm) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Calm Breeze](https://open.spotify.com/track/133xZ19H5RUZwpBz7DYuIG) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Warmth](https://open.spotify.com/album/7kifavgLRswEIoUyTH8anB) | 1:49 | 2024-01-29 |  |
 | [Calm Day](https://open.spotify.com/track/1WQmPDq5Hdn8uAEp1QT2cT) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Calm Day](https://open.spotify.com/album/569aBV3mPwaxb0E37SKNfg) | 1:00 | 2024-12-28 |  |
@@ -1360,6 +1362,7 @@
 | [Rise](https://open.spotify.com/track/6uu59jUqnnPRTh3XRKOx52) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Rise](https://open.spotify.com/album/2SNwuvlaNKQrDqdZzJI3kL) | 1:00 | 2024-04-08 |  |
 | [Rising of the Moon](https://open.spotify.com/track/7G1ytuw9UNt317srYJqRYc) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Beautiful Dreams](https://open.spotify.com/album/6Q8Qv4dPI9s1Fe5uKIbz3T) | 1:39 | 2022-01-20 |  |
 | [Rising Slowly](https://open.spotify.com/track/0n10oibTqB9lEnv9n5AbsU) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Fading Slowly](https://open.spotify.com/album/5vlyicl1WMOpCXzfKO4wN0) | 1:01 | 2025-01-15 |  |
+| [Ritual](https://open.spotify.com/track/5SiPkC4PR7y5cln5uMWxLu) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Ritual](https://open.spotify.com/album/5rJbhuifkpMkDXXcwb6JPB) | 1:00 | 2025-01-19 |  |
 | [River Dreaming Again](https://open.spotify.com/track/1jumcuQob1Gj4zziQpYvDM) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Constant Glow](https://open.spotify.com/album/1GJvpTYe3wv4ZpjXwH1oUP) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Riverbank](https://open.spotify.com/track/3FmcR0kCYJWxTpgaUOnTsQ) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Riverbank](https://open.spotify.com/album/0QZ3N49jEk7A09ybz5iW6n) | 1:00 | 2025-01-03 |  |
 | [Rivers](https://open.spotify.com/track/46S417G0xvadkFYteZQvpj) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Serene Moments](https://open.spotify.com/album/6u831RiIAfoxHs2kG8Bzwm) | 1:01 | 2022-06-01 |  |
@@ -1606,6 +1609,7 @@
 | [Surrender](https://open.spotify.com/track/31OhD0GfRA1LYHmKXOtjPX) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Surrender](https://open.spotify.com/album/0stB3kqBTVYPmcy22vQktC) | 1:56 | 2024-01-29 |  |
 | [Surrendering](https://open.spotify.com/track/3QtejYDrh1PEJY04L05Ayp) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Surrendering](https://open.spotify.com/album/5X6qwCKfNiJiUx3vL4C4Ta) | 1:01 | 2022-06-18 |  |
 | [Suspend](https://open.spotify.com/track/09fxKNlrgSsNiPhkhIuIg6) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Bloom](https://open.spotify.com/album/6nVYM30CCCe5AAbIrXkXC5) | 1:24 | 2022-01-15 |  |
+| [Sustain](https://open.spotify.com/track/5Jp5G2YifBfrXlf4V6NDaI) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Sustain](https://open.spotify.com/album/2L3skuyshpzSDdo0k6p0Xs) | 1:00 | 2025-01-19 |  |
 | [Sweet \- Piano Lullaby Version](https://open.spotify.com/track/7IXuAN9EsIZnRO5BE2Kvr0) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Sweet](https://open.spotify.com/album/1SzCQTkzVRMWlTQhdtlkrq) | 1:00 | 2024-04-18 |  |
 | [Sweet Embrace \- Strings Version](https://open.spotify.com/track/662FSex8zNPM8zf3rBA4C0) | [Cello Soul](https://open.spotify.com/artist/1g2vVGycdY9Xowsh2mYCqe) | [Deep Blue \(Strings Version\)](https://open.spotify.com/album/26DM3Dnhq4a48YJfukmz0l) | 1:13 | 2024-02-09 | 2024-02-13 |
 | [Sweet Parting](https://open.spotify.com/track/5MlV6tg0gNyvACK0mnydKC) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Love and Life](https://open.spotify.com/album/2W716q2dWXoetwXYngxvl6) | 1:26 | 2022-01-12 | 2024-01-30 |
@@ -1870,7 +1874,7 @@
 | [Your Calming Love](https://open.spotify.com/track/5Djt6qFnTze9bZsLNqxQtK) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Your Calming Love](https://open.spotify.com/album/35Lx2wUFekQvxYEPUuQszF) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Your Calming Love \- Strings Version](https://open.spotify.com/track/0BEuBeKh7qL2MfnJDVksu2) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Your Calming Love \(Strings Version\)](https://open.spotify.com/album/3yV7MORO8qxueoUlXddiFk) | 1:00 | 2024-02-09 | 2024-02-13 |
 | [Your Footsteps](https://open.spotify.com/track/6OT4gGyDLpzonX8fJDuC5v) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Footsteps](https://open.spotify.com/album/2ZLd8zUysnG7nePQOm23I1) | 1:00 | 2022-06-16 |  |
-| [Your Heart](https://open.spotify.com/track/0p9BqUK4erJ4N0ujcESkb9) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
+| [Your Heart](https://open.spotify.com/track/0p9BqUK4erJ4N0ujcESkb9) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 |  |
 | [Your Heart Once Again](https://open.spotify.com/track/2oyqmudakBtzwCMZ4WQrmL) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Your Kindness \- Cello Version](https://open.spotify.com/track/7AJTYoDgAMs4lPukdiTH5Z) | [Limelight Glow](https://open.spotify.com/artist/24tFl1Ahli94KF2N76dCEy) | [Your Kindness](https://open.spotify.com/album/7kLxTeMirMNm7bhBaNGM1C) | 1:02 | 2022-02-24 | 2024-02-13 |
 | [Your Light](https://open.spotify.com/track/3ClCqwF6ulO190HG7bcUUu) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Your Light](https://open.spotify.com/album/1SRIxp4FBNtsG1oKehMtmP) | 1:02 | 2024-02-09 | 2024-02-13 |

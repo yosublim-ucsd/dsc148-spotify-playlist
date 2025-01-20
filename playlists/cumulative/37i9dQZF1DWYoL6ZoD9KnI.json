@@ -669,6 +669,24 @@
     },
     {
       "album": {
+        "name": "Plazma",
+        "url": "https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp"
+      },
+      "artists": [
+        {
+          "name": "Kenshi Yonezu",
+          "url": "https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180832,
+      "name": "Plazma",
+      "url": "https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd"
+    },
+    {
+      "album": {
         "name": "LOST CORNER",
         "url": "https://open.spotify.com/album/2HfY1kPSmmYfR13OSKYH5T"
       },
@@ -2182,7 +2200,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 29172,
       "name": "\u7c73\u6d25\u7384\u5e2b\u304b\u3089\u306e\u30dc\u30a4\u30b9\u30b3\u30e1\u30f3\u30c8\u300cLOST CORNER\u300d\u306b\u3064\u3044\u3066",
       "url": "https://open.spotify.com/track/00dWUUzw4EsYaP6LqA2Nm8"

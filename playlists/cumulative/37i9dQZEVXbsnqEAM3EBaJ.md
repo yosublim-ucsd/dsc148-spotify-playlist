@@ -4,7 +4,7 @@
 
 > Catch all the latest music from artists you follow, plus new singles picked for you\. Updates every Friday.
 
-2,195 songs - 6 day 6 hr 20 min
+2,196 songs - 6 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1578,7 +1578,7 @@
 | [Se Esfuma](https://open.spotify.com/track/1CgR3X8aWUgsUI2cRQIef6) | [Ojal De Ajaw](https://open.spotify.com/artist/6liwHKuT39wios8CxQHQFJ) | [La Hoja del Sol](https://open.spotify.com/album/2hvBltbrGufOoQ4GNPQGk7) | 3:08 | 2024-11-22 | 2024-12-07 |
 | [Sea Of Sorrow](https://open.spotify.com/track/6gEeOJFC6vUpSr7G7WLim9) | [Alice In Chains](https://open.spotify.com/artist/64tNsm6TnZe2zpcMVMOoHL) | [Los Angeles, 1990 \(HQ Remastered\)](https://open.spotify.com/album/2kuvopKYGlt4H1KfADr6OH) | 5:23 | 2024-11-29 | 2024-12-01 |
 | [Search And Destroy \- Early Demo](https://open.spotify.com/track/3YTKTIN1OeKA5DYvXuNfCm) | [The Stooges](https://open.spotify.com/artist/4BFMTELQyWJU1SwqcXMBm3) | [London Session 1972](https://open.spotify.com/album/4Ea2mTODEbaxH49mywljHY) | 3:19 | 2024-06-07 | 2024-07-02 |
-| [Seasons In The Sun](https://open.spotify.com/track/6tuc1fY6tRnRK3HRFuvezY) | [Trouvaille](https://open.spotify.com/artist/5567eVGkOeZVlohSSUmSHt) | [Seasons In The Sun](https://open.spotify.com/album/2LB0jtLblW8gT1f0NyFo1F) | 3:16 | 2025-01-17 |  |
+| [Seasons In The Sun](https://open.spotify.com/track/6tuc1fY6tRnRK3HRFuvezY) | [Trouvaille](https://open.spotify.com/artist/5567eVGkOeZVlohSSUmSHt) | [Seasons In The Sun](https://open.spotify.com/album/2LB0jtLblW8gT1f0NyFo1F) | 3:16 | 2025-01-17 | 2025-01-20 |
 | [Seasons Of Wither](https://open.spotify.com/track/3Fw0ZcHVaNN8k3cppKjRiB) | [Aerosmith](https://open.spotify.com/artist/7Ey4PD4MYsKc5I2dolUwbH) | [Greatest Hits \(Deluxe\)](https://open.spotify.com/album/5Z3bU10WcD9JOt98mui7DC) | 5:03 | 2023-09-08 | 2023-09-11 |
 | [Seasons øf Life](https://open.spotify.com/track/3J2f43S2gOqEOgz0Hi5tkQ) | [Love Like Enemies](https://open.spotify.com/artist/2VCRd5F9I0nurK4HrSpVM2), [Aaron Gillespie](https://open.spotify.com/artist/5B2GfbXgossZt9SE08Iqn6), [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK), [The Almost](https://open.spotify.com/artist/5X09SRt3qx77eh0XRreLjr) | [OMEGA](https://open.spotify.com/album/2zPlqEQvLTqacCTohwO7l8) | 3:36 | 2024-12-20 | 2025-01-12 |
 | [SEE YOU](https://open.spotify.com/track/3UiGU4b8sbTobJEi6OEi9h) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/00txDYFrU4LjWqwKE8iQJA) | 3:20 | 2023-11-17 | 2023-11-26 |
@@ -1734,6 +1734,7 @@
 | [Strategy \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/5zQUndaoBtXJ10SsApqtvw) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [STRATEGY](https://open.spotify.com/album/5YamV8eSywqu7g1Ms4GoqA) | 3:21 | 2024-12-06 | 2024-12-12 |
 | [String Sextet in D Minor "Souvenir de Florence", Op\. 70: 3\. Allegro moderato](https://open.spotify.com/track/3b9XyVYIBUIMZrkPfP75ps) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Graubünden Classical Archive](https://open.spotify.com/artist/0djqxl12PvNPETXilusYSp) | [String Sextet in D Minor "Souvenir de Florence", Op\. 70: 3\. Allegro moderato](https://open.spotify.com/album/4axnuwdAKlZI5qpNvkSevw) | 6:24 | 2024-08-09 | 2024-09-01 |
 | [Substitute \- Live At Wembley, UK / 2019 / Without Orchestra](https://open.spotify.com/track/3inb5daMxjxhvWYLjpAY9f) | [The Who](https://open.spotify.com/artist/67ea9eGLXYMsO2eYQRui3w) | [The Who With Orchestra: Live At Wembley](https://open.spotify.com/album/0ZM1dVIT9Yb2BtWDGM1ZXx) | 3:47 | 2023-04-14 | 2023-04-22 |
+| [Subways of Your Mind \- Original version of TMMS](https://open.spotify.com/track/76WgRMMswzaSMfo6wIuhwO) | [FEX](https://open.spotify.com/artist/5Z37AYkG72P5omNeElYuqu) | [Subways of Your Mind \(Original version of TMMS\)](https://open.spotify.com/album/2JZ0T4tQjuPbI6byRudHWt) | 2:57 | 2025-01-17 |  |
 | [Suffocating Under Words Of Sorrow \(What Can I Do\) \- Live at Brixton](https://open.spotify.com/track/0d0KyfUvWgI8outqDZ3zyj) | [Bullet For My Valentine](https://open.spotify.com/artist/7iWiAD5LLKyiox2grgfmUT) | [The Poison \(20th Anniversary Edition\)](https://open.spotify.com/album/7ktT6Pab27CBgbpFBZ4lCy) | 3:44 | 2024-11-29 | 2024-12-01 |
 | [Sugar Mami](https://open.spotify.com/track/2cBDzxzjkytWGRggDJbn3g) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62), [Danna Paola](https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB) | [Sugar Mami](https://open.spotify.com/album/4CokgfnlUd2OdTB00DKtOV) | 2:11 | 2023-06-16 | 2023-07-09 |
 | [Sultans Of Swing \- Live At The Rainbow / Dec 1979](https://open.spotify.com/track/6rJUHPNJ6dHnqU6mrk3C1O) | [Dire Straits](https://open.spotify.com/artist/0WwSkZ7LtFUFjGjMZBMt6T) | [Live 1978 \- 1992](https://open.spotify.com/album/4EhLtPuNeDItiaoZy4gFBk) | 6:46 | 2023-09-15 | 2023-10-07 |

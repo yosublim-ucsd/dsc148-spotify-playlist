@@ -4,7 +4,7 @@
 
 > 🪩🪩🪩🪩
 
-113 songs - 5 hr 29 min
+114 songs - 5 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/track/5CB3aajC1otFwEzw4waZNc) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [In The Night \(feat\. Jorja Smith & Amaarae\)](https://open.spotify.com/album/5oG9sgHBJXG4QFHaUHTZwe) | 3:49 | 2024-07-18 | 2024-08-30 |
 | [Ingen andre \(feat\. Chris Holsten\)](https://open.spotify.com/track/6a2kA9madk3baDAq7QmPdb) | [Isah](https://open.spotify.com/artist/5kZZsRShoba2QQpDAv9P0B), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF) | [Ingen andre \(feat\. Chris Holsten\)](https://open.spotify.com/album/41qBtz2LfCm0J1GaDy1sa5) | 2:44 | 2024-10-31 | 2024-12-06 |
 | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/track/64wEOlCnjWxwRevRrXl3ot) | [Fjellrev](https://open.spotify.com/artist/5sO8Yr7zER5JhiWVpjjgd8), [Roc Meiniac](https://open.spotify.com/artist/66aKUYvwgllTvHd5JL2uwb) | [Jeg vil ha \(Parlamentet\)](https://open.spotify.com/album/20AKWVrwdNeGIQauo5m3zG) | 3:03 | 2024-06-27 | 2024-08-16 |
-| [KEISEREN I NEW CLOTHES](https://open.spotify.com/track/731aUiP8SQbyOiYy9Omo6r) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [FRITT FALL](https://open.spotify.com/album/3Wv8DIn4agQqAhPrB4o48f) | 2:24 | 2024-12-05 |  |
+| [KEISEREN I NEW CLOTHES](https://open.spotify.com/track/731aUiP8SQbyOiYy9Omo6r) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [FRITT FALL](https://open.spotify.com/album/3Wv8DIn4agQqAhPrB4o48f) | 2:24 | 2024-12-05 | 2025-01-20 |
 | [Kite \- Acoustic](https://open.spotify.com/track/3N7Xj01q72fQczJlpJyD78) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5), [Astrid S](https://open.spotify.com/artist/3AVfmawzu83sp94QW7CEGm) | [Kite \(Acoustic\)](https://open.spotify.com/album/5WdVCItE0te2sT4DwwvByd) | 2:29 | 2024-09-19 | 2024-09-22 |
 | [KLOVN](https://open.spotify.com/track/5LMUzJc43DaksLiWeueJ18) | [Rakkere](https://open.spotify.com/artist/48XnKH8HWyuEGOQM199N25), [Bargee](https://open.spotify.com/artist/0lLcVfzo8FYGaqDY47brmP) | [KLOVN](https://open.spotify.com/album/4Z9UA2PgWm8mnUPcWGbazC) | 3:06 | 2024-10-10 | 2024-11-08 |
 | [konfetti](https://open.spotify.com/track/1qL6kHMI4KPCzG08xXQY1d) | [Ramón](https://open.spotify.com/artist/5r6ViSL3nacDRVBtnXlixL) | [konfetti](https://open.spotify.com/album/3l1hJrenFvmlaFVfKCGeuo) | 2:41 | 2024-08-22 | 2024-09-06 |
@@ -113,6 +113,7 @@
 | [VEM FAN E DU?](https://open.spotify.com/track/4BliCq54T5TbxmaLdXJGEK) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL), [Miriam Bryant](https://open.spotify.com/artist/2zd9YxlsQvA5mkZ1NarYVQ) | [VEM FAN E DU?](https://open.spotify.com/album/0BWAxu1c9xgq4z4BvhsXUT) | 2:32 | 2024-06-27 | 2024-08-16 |
 | [VENNELØS](https://open.spotify.com/track/7xB3Tq8HPCM6rpJtPKCA95) | [Blackie](https://open.spotify.com/artist/1joI1TtwOZm1XZxyiPnn7S) | [BRENTE BROER](https://open.spotify.com/album/62lXZLbHfnCg9qTZoA6aM0) | 1:54 | 2024-06-27 | 2025-01-02 |
 | [Vertigo](https://open.spotify.com/track/7KQejvX8GC4qMjB8vWSp2p) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/6zhMdnveqL0wIAZPPaPKPc) | 2:59 | 2024-06-27 |  |
+| [Vil Ikke Dele](https://open.spotify.com/track/7McuDKPPrOXe5I0Y7b8wlg) | [Roc Boyz](https://open.spotify.com/artist/09qHO1fFJ6iIeTuCjO7Bfa) | [Vil Ikke Dele](https://open.spotify.com/album/2F8IyxW4ddsPxLjYPFwGg3) | 2:15 | 2025-01-16 |  |
 | [Vin](https://open.spotify.com/track/4UGiylwOx9pBF0D6VlnhpR) | [Beathoven](https://open.spotify.com/artist/6w6TB0XMM0VZ3oDsy7tUYJ) | [Sorgenfri](https://open.spotify.com/album/4n8prSVQyN3Cp4KcfCRyEi) | 2:29 | 2024-06-27 |  |
 | [VIS MEG DIN VERDEN](https://open.spotify.com/track/4xqPNwRkLyiiV2oqju92ie) | [Marstein](https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi), [Aiba](https://open.spotify.com/artist/6Lu4e8FvAWcp1S5BVoDLjJ) | [FRIHET I LENKER](https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ) | 2:58 | 2024-10-24 |  |
 | [Volare](https://open.spotify.com/track/2g11HhWmh6h2EgnMK3WWSu) | [Delara](https://open.spotify.com/artist/2PVHjhJWIKgb2yfBTmQerg) | [Volare](https://open.spotify.com/album/0pjIyeItcmwcyGjyYElzEg) | 2:38 | 2024-06-27 |  |

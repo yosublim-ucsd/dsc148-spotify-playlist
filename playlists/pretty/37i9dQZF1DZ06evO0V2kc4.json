@@ -1,12 +1,12 @@
 {
   "description": "This is Joan Baez. The essential tracks, all in one playlist.",
-  "num_followers": 67300,
+  "num_followers": 67346,
   "original_name": "This Is Joan Baez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAC4lA33Hzknq/PJeI2hItd1",
+  "snapshot_id": "Z4rvAAAAAADhfoXP3t7rjSsg5rR3wPmk",
   "tracks": [
     {
       "added_at": null,
@@ -59,6 +59,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Baez Sings Dylan",
+        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 201160,
+      "name": "It Ain't Me Babe",
+      "url": "https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sacco e Vanzetti (Original Motion Picture Soundtrack) [Remastered]",
         "url": "https://open.spotify.com/album/5Kh97XNvwMEk6hl4ZrOtKK"
       },
@@ -75,22 +91,6 @@
       "duration_ms": 188826,
       "name": "Here's to you (feat. Joan Baez)",
       "url": "https://open.spotify.com/track/0o7aA8TNb6zHreGzcDsSU1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Baez Sings Dylan",
-        "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 201160,
-      "name": "It Ain't Me Babe",
-      "url": "https://open.spotify.com/track/2beBdwV1Y5PtWxDk1GgAZ6"
     },
     {
       "added_at": null,
@@ -275,6 +275,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "There But For Fortune",
+      "url": "https://open.spotify.com/track/7qY7QChY4O2D3QhwgvNx8R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Diamonds & Rust",
         "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
@@ -287,22 +303,6 @@
       "duration_ms": 268173,
       "name": "Jesse",
       "url": "https://open.spotify.com/track/4jZ6cogfz7DCQNGzJhojp4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "The Water Is Wide - Live",
-      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
     },
     {
       "added_at": null,
@@ -323,8 +323,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Come From The Shadows",
-        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+        "name": "Farewell, Angelina",
+        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
       },
       "artists": [
         {
@@ -332,9 +332,25 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 233266,
-      "name": "Love Song To A Stranger",
-      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
+      "duration_ms": 139240,
+      "name": "Daddy, You Been On My Mind",
+      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "The Water Is Wide - Live",
+      "url": "https://open.spotify.com/track/4IolXJ5kKsiDcF58BzHULu"
     },
     {
       "added_at": null,
@@ -355,22 +371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "There But For Fortune",
-      "url": "https://open.spotify.com/track/7qY7QChY4O2D3QhwgvNx8R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Greatest Hits And Others",
         "url": "https://open.spotify.com/album/1ycddMO4m3ij8zGNIYVITj"
       },
@@ -387,8 +387,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Farewell, Angelina",
-        "url": "https://open.spotify.com/album/0KWZmGhxNlNMOQgi4LPWun"
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
       },
       "artists": [
         {
@@ -396,25 +396,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 139240,
-      "name": "Daddy, You Been On My Mind",
-      "url": "https://open.spotify.com/track/1M20O2xfTLnrLtURrbZsAM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 165026,
-      "name": "Never Dreamed You'd Leave In Summer",
-      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
+      "duration_ms": 233266,
+      "name": "Love Song To A Stranger",
+      "url": "https://open.spotify.com/track/29tEUK8T1WPH0jR5CHC3rf"
     },
     {
       "added_at": null,
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 216133,
-      "name": "Gracias A La Vida",
-      "url": "https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx"
+      "duration_ms": 165026,
+      "name": "Never Dreamed You'd Leave In Summer",
+      "url": "https://open.spotify.com/track/5vxEs5O73vhgijogIFxRSN"
     },
     {
       "added_at": null,
@@ -467,8 +451,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamonds & Rust",
-        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
       },
       "artists": [
         {
@@ -476,9 +460,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 235560,
-      "name": "Winds Of The Old Days",
-      "url": "https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v"
+      "duration_ms": 216133,
+      "name": "Gracias A La Vida",
+      "url": "https://open.spotify.com/track/438DhujK6gJ3nlWj5QoNsx"
     },
     {
       "added_at": null,
@@ -499,6 +483,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamonds & Rust",
+        "url": "https://open.spotify.com/album/3O9LYeSXXEypjdptHMghUg"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 235560,
+      "name": "Winds Of The Old Days",
+      "url": "https://open.spotify.com/track/68bDt56iZFYpszQC8o4Z4v"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The First 10 Years",
         "url": "https://open.spotify.com/album/4r2BckN3R24ifqfXKUUbMn"
       },
@@ -511,6 +511,42 @@
       "duration_ms": 129039,
       "name": "If I Were A Carpenter",
       "url": "https://open.spotify.com/track/1GdVGSqGRybjqeHhHhQcPa"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Joan Baez",
+        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 105973,
+      "name": "Girl Of Constant Sorrow",
+      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Mimi Fari\u00f1a",
+          "url": "https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop"
+        }
+      ],
+      "duration_ms": 281000,
+      "name": "I Am A Poor Wayfaring Stranger",
+      "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
     },
     {
       "added_at": null,
@@ -547,94 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Mimi Fari\u00f1a",
-          "url": "https://open.spotify.com/artist/3CCf0ToNoY3qXMCnVJrSop"
-        }
-      ],
-      "duration_ms": 281000,
-      "name": "I Am A Poor Wayfaring Stranger",
-      "url": "https://open.spotify.com/track/5u59J9c465kkPk4aePlnDz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Baez",
-        "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 105973,
-      "name": "Girl Of Constant Sorrow",
-      "url": "https://open.spotify.com/track/3WZl07ITusPN7bQY3vzGdx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joan Baez 75th Birthday Celebration",
-        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        },
-        {
-          "name": "Paul Simon",
-          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
-        }
-      ],
-      "duration_ms": 445880,
-      "name": "The Boxer",
-      "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gracias A La Vida (Here's To Life)",
-        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 149933,
-      "name": "De Colores",
-      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Best Of Joan Baez",
-        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "Pack Up Your Sorrows",
-      "url": "https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Joan Baez",
         "url": "https://open.spotify.com/album/734AFYo34Q1zRpg9N8E2Ho"
       },
@@ -651,22 +599,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Paradise",
-        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
+        "name": "The Best Of Joan Baez",
+        "url": "https://open.spotify.com/album/5WIWeBvI15frohPWZog6RY"
       },
       "artists": [
-        {
-          "name": "Judy Collins",
-          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
-        },
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 215240,
-      "name": "Diamonds & Rust",
-      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
+      "duration_ms": 173000,
+      "name": "Pack Up Your Sorrows",
+      "url": "https://open.spotify.com/track/6CHlG9tTROi37XjxVRtaYt"
     },
     {
       "added_at": null,
@@ -691,18 +635,42 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blessed Are...",
-        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
+        "name": "Joan Baez 75th Birthday Celebration",
+        "url": "https://open.spotify.com/album/5kvie06FINHgDDv7wfZ3hl"
       },
       "artists": [
         {
           "name": "Joan Baez",
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        },
+        {
+          "name": "Paul Simon",
+          "url": "https://open.spotify.com/artist/2CvCyf1gEVhI0mX6aFXmVI"
         }
       ],
-      "duration_ms": 182026,
-      "name": "Help Me Make It Through The Night",
-      "url": "https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1"
+      "duration_ms": 445880,
+      "name": "The Boxer",
+      "url": "https://open.spotify.com/track/2wdvaWg7mqmLUDVYLOrKVJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Paradise",
+        "url": "https://open.spotify.com/album/2fm8pHor9hd3t6szmNZv1x"
+      },
+      "artists": [
+        {
+          "name": "Judy Collins",
+          "url": "https://open.spotify.com/artist/5yzE49FicYiSxN61oaxkNn"
+        },
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 215240,
+      "name": "Diamonds & Rust",
+      "url": "https://open.spotify.com/track/3mq4d0XatVGY7vOMIhUBEz"
     },
     {
       "added_at": null,
@@ -723,6 +691,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gracias A La Vida (Here's To Life)",
+        "url": "https://open.spotify.com/album/6h8pQTs3EOI20ITEA1xZy7"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 149933,
+      "name": "De Colores",
+      "url": "https://open.spotify.com/track/78I82909V5pLKRmRfKiGAG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Baez Sings Dylan",
         "url": "https://open.spotify.com/album/5WfJY3Ke6v1ybgSoAnEdIG"
       },
@@ -735,6 +719,38 @@
       "duration_ms": 273506,
       "name": "Boots Of Spanish Leather",
       "url": "https://open.spotify.com/track/25XW58aLYsUZeANkXhvO7P"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed Are...",
+        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "Help Me Make It Through The Night",
+      "url": "https://open.spotify.com/track/7I2pfu7qdqdS0SuLefaFe1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Come From The Shadows",
+        "url": "https://open.spotify.com/album/4WFbML0LdLr3b0u6rxn8Hw"
+      },
+      "artists": [
+        {
+          "name": "Joan Baez",
+          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
+        }
+      ],
+      "duration_ms": 241226,
+      "name": "To Bobby",
+      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
     },
     {
       "added_at": null,
@@ -800,9 +816,9 @@
           "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
         }
       ],
-      "duration_ms": 241226,
-      "name": "To Bobby",
-      "url": "https://open.spotify.com/track/7BCPRW68OQu98UXC5qDOGe"
+      "duration_ms": 263893,
+      "name": "Prison Trilogy (Billy Rose)",
+      "url": "https://open.spotify.com/track/09dGiyUBUGQBV0I6uH0sDY"
     },
     {
       "added_at": null,
@@ -819,22 +835,6 @@
       "duration_ms": 225640,
       "name": "No Woman No Cry - Live",
       "url": "https://open.spotify.com/track/7FNv4PwUHxtGkadOGAwdDy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed Are...",
-        "url": "https://open.spotify.com/album/7q86S3pRwfE5sWVWa8x1ye"
-      },
-      "artists": [
-        {
-          "name": "Joan Baez",
-          "url": "https://open.spotify.com/artist/1EevBGfUh3RSQSGpluxgBm"
-        }
-      ],
-      "duration_ms": 186160,
-      "name": "Blessed Are",
-      "url": "https://open.spotify.com/track/4fK3awsA0h8RcyULqw3XMS"
     }
   ],
   "unique_name": "This Is Joan Baez",

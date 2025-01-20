@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,258 likes - 132 songs - 9 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,294 likes - 132 songs - 9 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [キラ・ヤマト（CV: 保志総一朗）GUNDAM SERIES ボイスコメント](https://open.spotify.com/track/15oTuand59qXpbXz2cu9Ft) | [キラ・ヤマト（CV: 保志総一朗）](https://open.spotify.com/artist/4QcDVaw0dyFCIam0dWZ06H) | [キラ・ヤマト（CV: 保志総一朗）GUNDAM SERIES ボイスコメント](https://open.spotify.com/album/3y6I0lzT9VCxErPdXh3uN8) | 0:35 |
+| 1 | [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 |
 | 2 | [FREEDOM](https://open.spotify.com/track/3MBNF3aevdp5vmfepYahNu) | [Takanori Nishikawa](https://open.spotify.com/artist/2ayMogRmamCnzMAk4YiFAz), [Tetsuya Komuro](https://open.spotify.com/artist/0YXSqOpIseLknz8JjcX0UH) | [FREEDOM](https://open.spotify.com/album/2rIbUpPhcphEF4ykNX5j41) | 5:18 |
 | 3 | [去り際のロマンティクス](https://open.spotify.com/track/4DxET2JXNYoul7xQnRZpih) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [劇場版『機動戦士ガンダムSEED FREEDOM』エンディングテーマ　去り際のロマンティクス](https://open.spotify.com/album/0tqbUs4gvTju9SmPZZung9) | 4:36 |
 | 4 | [望郷](https://open.spotify.com/track/2Egbg23uBaRsVNwzyfFbtV) | [Mika Nakashima](https://open.spotify.com/artist/3D73KNJRMbV45N59E8IN0F) | [望郷](https://open.spotify.com/album/1AcMLMCooh76KpPXojRnrP) | 3:51 |
@@ -141,4 +141,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6aZ9vrXqd1U.md) - [plain]
 | 131 | [Next 2 U \-eUC\-](https://open.spotify.com/track/1auy1PkfwF6yCplcdhd8NK) | [SawanoHiroyuki\[nZk\]:naNami](https://open.spotify.com/artist/2EAfowJhmEii7OUOa44fAk) | [Into the Sky EP](https://open.spotify.com/album/6OThyKSLIsY2fVSBjQfSZU) | 4:04 |
 | 132 | [星空のBelieve](https://open.spotify.com/track/3KX9Ky0uBKGYvMNe1l4iWr) | [Mami Ayukawa](https://open.spotify.com/artist/13chEUM1L3zoaoZ2UI1WpM) | [Reply～Mami Ayukawa 25th Anniversary Best Album～](https://open.spotify.com/album/1zkooNcXkwSRYkM2e7blvM) | 3:30 |
 
-Snapshot ID: `Z4DbWwAAAAAJegzdlKWM1kQFFucSUmD4`
+Snapshot ID: `Z42lsAAAAABjdu8Vu7udSWNMYLZhrH7S`

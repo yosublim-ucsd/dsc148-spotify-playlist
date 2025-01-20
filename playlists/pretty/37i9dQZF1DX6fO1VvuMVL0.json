@@ -1,6 +1,6 @@
 {
   "description": "The cool sound of Cool Jazz. Cover: Paul Desmond",
-  "num_followers": 95034,
+  "num_followers": 95110,
   "original_name": "Cool Jazz",
   "owner": {
     "name": "Spotify",
@@ -107,22 +107,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "In Person",
-        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
-      },
-      "artists": [
-        {
-          "name": "Vince Guaraldi",
-          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
-        }
-      ],
-      "duration_ms": 353600,
-      "name": "On Green Dolphin Street",
-      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Hamp & Getz",
         "url": "https://open.spotify.com/album/7oa9WZyBnEHR8o0vjRWI7o"
       },
@@ -139,6 +123,22 @@
       "duration_ms": 407800,
       "name": "Louise",
       "url": "https://open.spotify.com/track/4z1E9GltZHciLum0ybby9h"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "In Person",
+        "url": "https://open.spotify.com/album/3aq7Ksf1WJgawkDn362L07"
+      },
+      "artists": [
+        {
+          "name": "Vince Guaraldi",
+          "url": "https://open.spotify.com/artist/7gXUrN8vgmVhKVCkw9pavV"
+        }
+      ],
+      "duration_ms": 353600,
+      "name": "On Green Dolphin Street",
+      "url": "https://open.spotify.com/track/7LjmOCCTbi0sIofmYzo9vK"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -299,26 +299,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Lester Young With The Oscar Peterson Trio",
-        "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1"
-      },
-      "artists": [
-        {
-          "name": "Lester Young",
-          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
-        },
-        {
-          "name": "Oscar Peterson Trio",
-          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
-        }
-      ],
-      "duration_ms": 208468,
-      "name": "There Will Never Be Another You",
-      "url": "https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Kind Of Blue (Legacy Edition)",
         "url": "https://open.spotify.com/album/4sb0eMpDn3upAFfyi4q2rw"
       },
@@ -343,6 +323,26 @@
       "duration_ms": 692746,
       "name": "All Blues (feat. John Coltrane, Cannonball Adderley & Bill Evans)",
       "url": "https://open.spotify.com/track/5o3DSHw1ORhM3lWxqGRvEf"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Lester Young With The Oscar Peterson Trio",
+        "url": "https://open.spotify.com/album/4LT6FAMWGSf3qpPn3Wdyh1"
+      },
+      "artists": [
+        {
+          "name": "Lester Young",
+          "url": "https://open.spotify.com/artist/05E3NBxNMdnrPtxF9oraJm"
+        },
+        {
+          "name": "Oscar Peterson Trio",
+          "url": "https://open.spotify.com/artist/0ldU0QJm31y0d6f57R1G2A"
+        }
+      ],
+      "duration_ms": 208468,
+      "name": "There Will Never Be Another You",
+      "url": "https://open.spotify.com/track/5uQkJU8FDt9srkxKfKRiBN"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -443,22 +443,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "September In The Rain",
-        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
-      },
-      "artists": [
-        {
-          "name": "George Shearing",
-          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
-        }
-      ],
-      "duration_ms": 166640,
-      "name": "I'll Remember April",
-      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "West Coast Live",
         "url": "https://open.spotify.com/album/772O1hcN1cbZ003x3kzw1k"
       },
@@ -475,22 +459,6 @@
       "duration_ms": 727266,
       "name": "Darn That Dream - Live At The Tiffany Club, Los Angeles, CA., 1954",
       "url": "https://open.spotify.com/track/6VQDwRTDemiSXkRiNawCYL"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Time Out",
-        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
-      },
-      "artists": [
-        {
-          "name": "The Dave Brubeck Quartet",
-          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
-        }
-      ],
-      "duration_ms": 324133,
-      "name": "Take Five",
-      "url": "https://open.spotify.com/track/09hcbtRcZV5CeeygqQiM5f"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -523,6 +491,38 @@
       "duration_ms": 474626,
       "name": "Bye Bye Blackbird (feat. John Coltrane, Red Garland, Paul Chambers & Philly Joe Jones)",
       "url": "https://open.spotify.com/track/3ujbZ2FGIoTQG3v07tmV2D"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "September In The Rain",
+        "url": "https://open.spotify.com/album/5b86ek4lKCKjQgEfCq3142"
+      },
+      "artists": [
+        {
+          "name": "George Shearing",
+          "url": "https://open.spotify.com/artist/7uUBTiZ2u5b40vymlFmXrn"
+        }
+      ],
+      "duration_ms": 166640,
+      "name": "I'll Remember April",
+      "url": "https://open.spotify.com/track/2BMorWMRsJPc1hEstsFKRU"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Time Out",
+        "url": "https://open.spotify.com/album/6P3jzdPK5VMbzuJ2HcRt9y"
+      },
+      "artists": [
+        {
+          "name": "The Dave Brubeck Quartet",
+          "url": "https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7"
+        }
+      ],
+      "duration_ms": 324133,
+      "name": "Take Five",
+      "url": "https://open.spotify.com/track/09hcbtRcZV5CeeygqQiM5f"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Chet Baker Sextet",
-        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
-      },
-      "artists": [
-        {
-          "name": "Chet Baker",
-          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "I'm Glad There Is You - Remaster/2004",
-      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Art Pepper Meets The Rhythm Section (OJC Remaster)",
         "url": "https://open.spotify.com/album/0KVlRrpun0BBnfJFeVTLfX"
       },
@@ -611,22 +595,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Moonlight In Vermont",
-        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
-      },
-      "artists": [
-        {
-          "name": "Johnny Smith",
-          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
-        }
-      ],
-      "duration_ms": 146880,
-      "name": "Where or When",
-      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Birth Of The Cool",
         "url": "https://open.spotify.com/album/0QWea2w5Y6pSoSWHuc7JMf"
       },
@@ -643,6 +611,38 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Chet Baker Sextet",
+        "url": "https://open.spotify.com/album/0B091u4NksUhGkql0oRF6u"
+      },
+      "artists": [
+        {
+          "name": "Chet Baker",
+          "url": "https://open.spotify.com/artist/3rxeQlsv0Sc2nyYaZ5W71T"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "I'm Glad There Is You - Remaster/2004",
+      "url": "https://open.spotify.com/track/3P3S3sKYRZpm3Dc87VVKSy"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Moonlight In Vermont",
+        "url": "https://open.spotify.com/album/46m2vVGJn0cSaVBsHMzYgW"
+      },
+      "artists": [
+        {
+          "name": "Johnny Smith",
+          "url": "https://open.spotify.com/artist/3u7Tz2oLTRPG9Cn7PcuZ2q"
+        }
+      ],
+      "duration_ms": 146880,
+      "name": "Where or When",
+      "url": "https://open.spotify.com/track/48dI69jaXNhBlysBv9o7mb"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Django (Rudy Van Gelder Remaster)",
         "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
       },
@@ -655,26 +655,6 @@
       "duration_ms": 179240,
       "name": "One Bass Hit",
       "url": "https://open.spotify.com/track/2LkCr3r5s8uyGaZunVB00y"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Lee Konitz with Warne Marsh",
-        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
-      },
-      "artists": [
-        {
-          "name": "Lee Konitz",
-          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
-        },
-        {
-          "name": "Warne Marsh",
-          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
-        }
-      ],
-      "duration_ms": 324773,
-      "name": "Topsy",
-      "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -699,18 +679,22 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "My Fair Lady",
-        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+        "name": "Lee Konitz with Warne Marsh",
+        "url": "https://open.spotify.com/album/1O14t3H4XZuiJb8LKImB1c"
       },
       "artists": [
         {
-          "name": "Shelly Manne And His Friends",
-          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+          "name": "Lee Konitz",
+          "url": "https://open.spotify.com/artist/4YNvbaOaqp5pzC5US5t48k"
+        },
+        {
+          "name": "Warne Marsh",
+          "url": "https://open.spotify.com/artist/1yVmVSKnpfLDIAbghFMN3D"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Show Me - Instrumental",
-      "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
+      "duration_ms": 324773,
+      "name": "Topsy",
+      "url": "https://open.spotify.com/track/6NjhIcleyiyUmkuLcNhVek"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -727,6 +711,22 @@
       "duration_ms": 279893,
       "name": "Rising Sun",
       "url": "https://open.spotify.com/track/4nYxNjXiOCl1QzjSu9H9ip"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "My Fair Lady",
+        "url": "https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza"
+      },
+      "artists": [
+        {
+          "name": "Shelly Manne And His Friends",
+          "url": "https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Show Me - Instrumental",
+      "url": "https://open.spotify.com/track/3ExXFwzM0E3PZr9Lmiu88E"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -851,22 +851,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "West Coast Jazz (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 203826,
-      "name": "A Handful Of Stars",
-      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Jazz Alive! A Night At The Half Note (Live)",
         "url": "https://open.spotify.com/album/7JG3HQ0se1jy6zJLQvHfrn"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 614533,
       "name": "It Had To Be You - Live At The Half Note, NYC, 1959",
       "url": "https://open.spotify.com/track/2qSaqU4oifGvpq4bP5VOyc"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "West Coast Jazz (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4T898Wv8Pp33zkO8IYOL2y"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 203826,
+      "name": "A Handful Of Stars",
+      "url": "https://open.spotify.com/track/5luq92DNbbgm2PoUKQDbSc"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "Django (Rudy Van Gelder Remaster)",
-        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
-      },
-      "artists": [
-        {
-          "name": "The Modern Jazz Quartet",
-          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
-        }
-      ],
-      "duration_ms": 192800,
-      "name": "The Queen's Fancy",
-      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Take Ten",
         "url": "https://open.spotify.com/album/5QGF8v9Qxf021ctF5MqZ7i"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 339053,
       "name": "Angle Eyes",
       "url": "https://open.spotify.com/track/2vhB5PyP62vNar5AuxgD0b"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "Django (Rudy Van Gelder Remaster)",
+        "url": "https://open.spotify.com/album/6f7NUwHcqKOtROS8JippAp"
+      },
+      "artists": [
+        {
+          "name": "The Modern Jazz Quartet",
+          "url": "https://open.spotify.com/artist/7wBFjZMHsC6nfV0HOSd6uI"
+        }
+      ],
+      "duration_ms": 192800,
+      "name": "The Queen's Fancy",
+      "url": "https://open.spotify.com/track/0jKWfUHO1Zy4wPPiRZLT9F"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1047,6 +1047,26 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
+        "name": "Two Of A Mind",
+        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
+      },
+      "artists": [
+        {
+          "name": "Paul Desmond",
+          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
+        },
+        {
+          "name": "Gerry Mulligan",
+          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
+        }
+      ],
+      "duration_ms": 422266,
+      "name": "Easy Living",
+      "url": "https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
         "name": "Bird Feathers (Remastered)",
         "url": "https://open.spotify.com/album/2BvoHpEjeJf6lM0p9720AM"
       },
@@ -1079,42 +1099,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Mellow Sound Of Stan Getz",
-        "url": "https://open.spotify.com/album/4CbjL4uyaqDyaBRTyfrdzy"
-      },
-      "artists": [
-        {
-          "name": "Stan Getz",
-          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
-        }
-      ],
-      "duration_ms": 178200,
-      "name": "Too Marvelous For Words",
-      "url": "https://open.spotify.com/track/0g514iCgtNHDS0whDxSRAc"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
-        "name": "Two Of A Mind",
-        "url": "https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn"
-      },
-      "artists": [
-        {
-          "name": "Paul Desmond",
-          "url": "https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu"
-        },
-        {
-          "name": "Gerry Mulligan",
-          "url": "https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K"
-        }
-      ],
-      "duration_ms": 422266,
-      "name": "Easy Living",
-      "url": "https://open.spotify.com/track/7MGGY6BzqplNCRrKfIBTKL"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Subconscious-Lee",
         "url": "https://open.spotify.com/album/59CmIk9Nm4m6qjber66Twe"
       },
@@ -1131,22 +1115,6 @@
     {
       "added_at": "2024-07-08 07:01:17",
       "album": {
-        "name": "The Teddy Charles Tentet",
-        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
-      },
-      "artists": [
-        {
-          "name": "Teddy Charles",
-          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
-        }
-      ],
-      "duration_ms": 265360,
-      "name": "You Go to My Head",
-      "url": "https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM"
-    },
-    {
-      "added_at": "2024-07-08 07:01:17",
-      "album": {
         "name": "Tangents In Jazz",
         "url": "https://open.spotify.com/album/4rWfghH0lL654S1yXh4gzh"
       },
@@ -1159,6 +1127,22 @@
       "duration_ms": 253413,
       "name": "Lazy Tones",
       "url": "https://open.spotify.com/track/0J3JhmsnaMzkgPCDzz5VqR"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Mellow Sound Of Stan Getz",
+        "url": "https://open.spotify.com/album/4CbjL4uyaqDyaBRTyfrdzy"
+      },
+      "artists": [
+        {
+          "name": "Stan Getz",
+          "url": "https://open.spotify.com/artist/0FMucZsEnCxs5pqBjHjIc8"
+        }
+      ],
+      "duration_ms": 178200,
+      "name": "Too Marvelous For Words",
+      "url": "https://open.spotify.com/track/0g514iCgtNHDS0whDxSRAc"
     },
     {
       "added_at": "2024-07-08 07:01:17",
@@ -1191,6 +1175,22 @@
       "duration_ms": 306200,
       "name": "Dolphin Dance",
       "url": "https://open.spotify.com/track/4KGcpnAbGlvVgd2HFQvexI"
+    },
+    {
+      "added_at": "2024-07-08 07:01:17",
+      "album": {
+        "name": "The Teddy Charles Tentet",
+        "url": "https://open.spotify.com/album/4SIPInfo9sWkrdOQJaLEhh"
+      },
+      "artists": [
+        {
+          "name": "Teddy Charles",
+          "url": "https://open.spotify.com/artist/2LQeYKxQ99Y844Y2fxCGQn"
+        }
+      ],
+      "duration_ms": 265360,
+      "name": "You Go to My Head",
+      "url": "https://open.spotify.com/track/7DcQmtVhcB55QoxXN4Q8VM"
     },
     {
       "added_at": "2024-07-08 07:01:17",

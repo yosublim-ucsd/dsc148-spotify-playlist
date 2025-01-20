@@ -1,12 +1,12 @@
 {
   "description": "This is TOKiMONSTA. The essential tracks, all in one playlist.",
-  "num_followers": 8270,
+  "num_followers": 8269,
   "original_name": "This Is TOKiMONSTA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAAAuRP5ezms+57PpqPlbKInR",
+  "snapshot_id": "Z4rvAAAAAAC46RnoOvGNVYrvSqoMoYna",
   "tracks": [
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Floating (feat. Candy Crush Saga)",
+        "url": "https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 173096,
+      "name": "Floating - feat. Candy Crush Saga",
+      "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Oasis Nocturno",
         "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 212811,
       "name": "Get Me Some",
       "url": "https://open.spotify.com/track/02uIosVt2J6YyX5OWVLPKG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Floating (feat. Candy Crush Saga)",
-        "url": "https://open.spotify.com/album/00FbxiKiTvjcauRoUnRo5t"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 173096,
-      "name": "Floating - feat. Candy Crush Saga",
-      "url": "https://open.spotify.com/track/3gMCxYKNYbb1S9U1EoerCV"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 220032,
+      "name": "Lovely Soul",
+      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "FOVERE",
         "url": "https://open.spotify.com/album/1RP9ycGSR3PgUffaLibvh7"
       },
@@ -499,22 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 220032,
-      "name": "Lovely Soul",
-      "url": "https://open.spotify.com/track/01wmlBhq22bHYCCvmySnzC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lune Rouge",
         "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
@@ -531,26 +531,6 @@
       "duration_ms": 217537,
       "name": "Don't Call Me (feat. Yuna)",
       "url": "https://open.spotify.com/track/56BOZ6JkLSFQxgIDXNLjul"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Half Shadows",
-        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "MNDR",
-          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
-        }
-      ],
-      "duration_ms": 263586,
-      "name": "Go With It (feat. MNDR)",
-      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
     },
     {
       "added_at": null,
@@ -591,6 +571,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Half Shadows",
+        "url": "https://open.spotify.com/album/3tzKDyxMnl0wznFY0WTdcA"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "MNDR",
+          "url": "https://open.spotify.com/artist/7gQNLR8mykA1KjGClbPYHe"
+        }
+      ],
+      "duration_ms": 263586,
+      "name": "Go With It (feat. MNDR)",
+      "url": "https://open.spotify.com/track/1C13BdLulesH2g7TLWK5Yg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Squid Game (Let's Play)",
+        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 220391,
+      "name": "The Flower Blooms",
+      "url": "https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Creature Dreams",
         "url": "https://open.spotify.com/album/2n2lsJowrhccWUuDU66cmm"
       },
@@ -603,6 +619,22 @@
       "duration_ms": 195607,
       "name": "Fallen Arches",
       "url": "https://open.spotify.com/track/1E2qjmmP6gkptMPFmGfHav"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Midnight Menu",
+        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 237357,
+      "name": "Death by Disco",
+      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
     },
     {
       "added_at": null,
@@ -643,8 +675,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Midnight Menu",
-        "url": "https://open.spotify.com/album/14JD9F2KTXf5MhzuCgXoAi"
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
       },
       "artists": [
         {
@@ -652,25 +684,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 237357,
-      "name": "Death by Disco",
-      "url": "https://open.spotify.com/track/2pHP1dKdtCEErOLtxwTYcy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Squid Game (Let's Play)",
-        "url": "https://open.spotify.com/album/6GfaV1ScYZDulSDfOET0tk"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 220391,
-      "name": "The Flower Blooms",
-      "url": "https://open.spotify.com/track/4gh3sdFa9cJTDPmKDBLSgq"
+      "duration_ms": 280022,
+      "name": "Up and Out",
+      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
     },
     {
       "added_at": null,
@@ -695,22 +711,6 @@
       "duration_ms": 182001,
       "name": "Time To",
       "url": "https://open.spotify.com/track/2mW3CIZa1khCJehpWhp79C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 280022,
-      "name": "Up and Out",
-      "url": "https://open.spotify.com/track/5GNucBLhzuqYB53KXz7HpI"
     },
     {
       "added_at": null,
@@ -747,6 +747,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "You're Invited",
+        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        },
+        {
+          "name": "Gavin Turek",
+          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Breath Strokes",
+      "url": "https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO WAY",
         "url": "https://open.spotify.com/album/6Hx0UA6UPOKVOXFtVLcz9x"
       },
@@ -775,22 +795,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dream Chorus",
-        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 139426,
-      "name": "Dream Chorus",
-      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lune Rouge",
         "url": "https://open.spotify.com/album/54R420j4PLSzgsdIWDkp2Z"
       },
@@ -807,6 +811,22 @@
       "duration_ms": 218589,
       "name": "Early to Dawn (feat. Selah Sue)",
       "url": "https://open.spotify.com/track/5RtsfSD7GPULA5Omi6eHvz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dream Chorus",
+        "url": "https://open.spotify.com/album/3uPpKcsjnkBwb44qudcJDZ"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 139426,
+      "name": "Dream Chorus",
+      "url": "https://open.spotify.com/track/0kIpJOynQACVOaafTMOM3M"
     },
     {
       "added_at": null,
@@ -831,26 +851,6 @@
       "duration_ms": 93929,
       "name": "2nd Boom",
       "url": "https://open.spotify.com/track/1ezQ8Q9pYUXaJ5lAFtoWw7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "You're Invited",
-        "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        },
-        {
-          "name": "Gavin Turek",
-          "url": "https://open.spotify.com/artist/17czHqI0Lwj2V3htvm8afG"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Breath Strokes",
-      "url": "https://open.spotify.com/track/6xA7H1WsXh7OihhnmEqjvI"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Say Tell Me",
-        "url": "https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ"
-      },
-      "artists": [
-        {
-          "name": "TOKiMONSTA",
-          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
-        }
-      ],
-      "duration_ms": 241750,
-      "name": "Say Tell Me",
-      "url": "https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "You're Invited",
         "url": "https://open.spotify.com/album/5LcAvv0x4sgtjOIxhdpLRo"
       },
@@ -931,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Oasis Nocturno",
-        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+        "name": "Say Tell Me",
+        "url": "https://open.spotify.com/album/1OvNqF9M9XKSpVEL8THanQ"
       },
       "artists": [
         {
@@ -940,9 +924,9 @@
           "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
         }
       ],
-      "duration_ms": 238277,
-      "name": "Renter's Anthem",
-      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
+      "duration_ms": 241750,
+      "name": "Say Tell Me",
+      "url": "https://open.spotify.com/track/31ojb5Lqb88oqAr4bR7dQd"
     },
     {
       "added_at": null,
@@ -967,6 +951,22 @@
       "duration_ms": 248907,
       "name": "Come and Go - Halogenix Remix",
       "url": "https://open.spotify.com/track/20vmuTwxzhupT4hQhAtdtL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Oasis Nocturno",
+        "url": "https://open.spotify.com/album/5ZfWYaLvWVVJqua0Qzku0T"
+      },
+      "artists": [
+        {
+          "name": "TOKiMONSTA",
+          "url": "https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI"
+        }
+      ],
+      "duration_ms": 238277,
+      "name": "Renter's Anthem",
+      "url": "https://open.spotify.com/track/3CAidIUvlJImwndbzlYYhG"
     },
     {
       "added_at": null,

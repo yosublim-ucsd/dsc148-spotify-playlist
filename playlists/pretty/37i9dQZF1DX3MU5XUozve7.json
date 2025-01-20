@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1013816,
+  "num_followers": 1014224,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -219,22 +219,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Camp Kill Yourself, Vol.1",
         "url": "https://open.spotify.com/album/2FnppgYWQ1bzMfdNP8lvDw"
       },
@@ -247,22 +231,6 @@
       "duration_ms": 201920,
       "name": "96 Quite Bitter Beings",
       "url": "https://open.spotify.com/track/7AimHQrOUoUTYbVX87D3Zl"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
-        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
-      },
-      "artists": [
-        {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
-        }
-      ],
-      "duration_ms": 199453,
-      "name": "God Save The Queen",
-      "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -283,6 +251,38 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
+        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 199453,
+      "name": "God Save The Queen",
+      "url": "https://open.spotify.com/track/2mHchPRtQWet3iIS3jANr1"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "The Great Burrito Extortion Case",
         "url": "https://open.spotify.com/album/6vZyMIVJgA9c8MIkDtlHd2"
       },
@@ -295,22 +295,6 @@
       "duration_ms": 209040,
       "name": "High School Never Ends - Main Version - Explicit",
       "url": "https://open.spotify.com/track/1bhjMY5O0ZjB41OHcdRH0a"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Famous Monsters",
-        "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
-      },
-      "artists": [
-        {
-          "name": "Misfits",
-          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
-        }
-      ],
-      "duration_ms": 199944,
-      "name": "Helena",
-      "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -331,18 +315,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
-        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
+        "name": "Famous Monsters",
+        "url": "https://open.spotify.com/album/4CKrRK52g4mNzbpGIMVbtE"
       },
       "artists": [
         {
-          "name": "Sex Pistols",
-          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+          "name": "Misfits",
+          "url": "https://open.spotify.com/artist/1cXi8ALPQCBHZbf0EgP4Ey"
         }
       ],
-      "duration_ms": 212480,
-      "name": "Anarchy In The UK",
-      "url": "https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm"
+      "duration_ms": 199944,
+      "name": "Helena",
+      "url": "https://open.spotify.com/track/3cpZPDaWYxxy0Ho2uIyYRW"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -375,6 +359,22 @@
       "duration_ms": 158733,
       "name": "Still Waiting",
       "url": "https://open.spotify.com/track/4rLKjYqJjLU0Odg52kGL2O"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Never Mind The Bollocks, Here\u2019s The Sex Pistols",
+        "url": "https://open.spotify.com/album/6ggO3YVhyonYuFWUPBRyIv"
+      },
+      "artists": [
+        {
+          "name": "Sex Pistols",
+          "url": "https://open.spotify.com/artist/1u7kkVrr14iBvrpYnZILJR"
+        }
+      ],
+      "duration_ms": 212480,
+      "name": "Anarchy In The UK",
+      "url": "https://open.spotify.com/track/5moTxUGPZXgGmosl4rIELm"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -587,22 +587,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Duality",
-        "url": "https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK"
-      },
-      "artists": [
-        {
-          "name": "Set It Off",
-          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
-        }
-      ],
-      "duration_ms": 199253,
-      "name": "Why Worry",
-      "url": "https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "MY FAVORITE NIGHTMARES",
         "url": "https://open.spotify.com/album/5YwWOzaV6HGAUylT1MvoJZ"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 124191,
       "name": "SIDEWAYS (with Travis Barker)",
       "url": "https://open.spotify.com/track/0SbcVQyMO5M68AzhX8gYaS"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Duality",
+        "url": "https://open.spotify.com/album/4mPWTksMsByAvomErPtJwK"
+      },
+      "artists": [
+        {
+          "name": "Set It Off",
+          "url": "https://open.spotify.com/artist/06bDwgCHeMAwhgI8il4Y5k"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Why Worry",
+      "url": "https://open.spotify.com/track/3apcJZpzCcIy6FNJVM1bYF"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -651,22 +651,6 @@
       "duration_ms": 220133,
       "name": "Check Yes Juliet",
       "url": "https://open.spotify.com/track/1b7vg5T9YKR3NNqXfBYRF7"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Proper Dose",
-        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
-      },
-      "artists": [
-        {
-          "name": "The Story So Far",
-          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
-        }
-      ],
-      "duration_ms": 146622,
-      "name": "Keep This Up",
-      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -751,6 +735,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Proper Dose",
+        "url": "https://open.spotify.com/album/2go3nVQ6oxBB5UERsGUUz0"
+      },
+      "artists": [
+        {
+          "name": "The Story So Far",
+          "url": "https://open.spotify.com/artist/6meTcQ79DrfkIuSLPZkpBg"
+        }
+      ],
+      "duration_ms": 146622,
+      "name": "Keep This Up",
+      "url": "https://open.spotify.com/track/0hsCfXTwB1QhJDpLmf1Q8U"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "GI",
         "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
       },
@@ -763,6 +763,22 @@
       "duration_ms": 104360,
       "name": "Lexicon Devil",
       "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Young, Loud And Snotty",
+        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
+      },
+      "artists": [
+        {
+          "name": "Dead Boys",
+          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
+        }
+      ],
+      "duration_ms": 189333,
+      "name": "Sonic Reducer",
+      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -815,22 +831,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Young, Loud And Snotty",
-        "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
-      },
-      "artists": [
-        {
-          "name": "Dead Boys",
-          "url": "https://open.spotify.com/artist/4RjtLUZNqLtMpRKIOaVokc"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Sonic Reducer",
-      "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Hello Rockview",
         "url": "https://open.spotify.com/album/2F9QXXQKnqqyzI1u4UK1Ss"
       },
@@ -879,22 +879,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "So Long, Astoria",
-        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
-      },
-      "artists": [
-        {
-          "name": "The Ataris",
-          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
-        }
-      ],
-      "duration_ms": 230666,
-      "name": "In This Diary",
-      "url": "https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Say It Out Loud",
         "url": "https://open.spotify.com/album/5vFP4PaGtuIccr1hW1PQKs"
       },
@@ -911,18 +895,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Skeletons",
-        "url": "https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe"
+        "name": "So Long, Astoria",
+        "url": "https://open.spotify.com/album/6prPsuR3shSCqcxPB84dkg"
       },
       "artists": [
         {
-          "name": "Driveways",
-          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
+          "name": "The Ataris",
+          "url": "https://open.spotify.com/artist/3LC8PXXgk7YtAIobtjSdNi"
         }
       ],
-      "duration_ms": 168000,
-      "name": "Skeletons",
-      "url": "https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY"
+      "duration_ms": 230666,
+      "name": "In This Diary",
+      "url": "https://open.spotify.com/track/3B9W8NK6FiaNZCZFIzLdwo"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -939,6 +923,22 @@
       "duration_ms": 184840,
       "name": "I Don't Wanna Be An Asshole Anymore",
       "url": "https://open.spotify.com/track/1BqJIsOlo8rpm6FJ5N8VtJ"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Skeletons",
+        "url": "https://open.spotify.com/album/6uc6QxoKV2rtCssHIH4BQe"
+      },
+      "artists": [
+        {
+          "name": "Driveways",
+          "url": "https://open.spotify.com/artist/4OuSiJSnuRsK0dTM0dtm1R"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Skeletons",
+      "url": "https://open.spotify.com/track/6L7yRELeAvbRXxIrvyznmY"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1039,22 +1039,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Face to Face (Remastered)",
-        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
-      },
-      "artists": [
-        {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
-        }
-      ],
-      "duration_ms": 197786,
-      "name": "I Won't Lie Down",
-      "url": "https://open.spotify.com/track/5sEmIMKfc3Y75rDHc6dnOb"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Los Angeles",
         "url": "https://open.spotify.com/album/4lgW2v8MOtBxyuQ7erHLgj"
       },
@@ -1071,18 +1055,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "A Place Called Home",
-        "url": "https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi"
+        "name": "Face to Face (Remastered)",
+        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
       },
       "artists": [
         {
-          "name": "Ignite",
-          "url": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr"
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
         }
       ],
-      "duration_ms": 165800,
-      "name": "Veteran",
-      "url": "https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B"
+      "duration_ms": 197786,
+      "name": "I Won't Lie Down",
+      "url": "https://open.spotify.com/track/5sEmIMKfc3Y75rDHc6dnOb"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1103,22 +1087,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Never Gonna Die",
-        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
-      },
-      "artists": [
-        {
-          "name": "Pennywise",
-          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
-        }
-      ],
-      "duration_ms": 157653,
-      "name": "Live While You Can",
-      "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Good For Me",
         "url": "https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA"
       },
@@ -1135,18 +1103,34 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Age Of Unreason",
-        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+        "name": "Never Gonna Die",
+        "url": "https://open.spotify.com/album/2FFUV5Qe5UzMQhKwoKk8nF"
       },
       "artists": [
         {
-          "name": "Bad Religion",
-          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+          "name": "Pennywise",
+          "url": "https://open.spotify.com/artist/6i0KVTOvm96T55mbp742ks"
         }
       ],
-      "duration_ms": 178449,
-      "name": "My Sanity",
-      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
+      "duration_ms": 157653,
+      "name": "Live While You Can",
+      "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "A Place Called Home",
+        "url": "https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi"
+      },
+      "artists": [
+        {
+          "name": "Ignite",
+          "url": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr"
+        }
+      ],
+      "duration_ms": 165800,
+      "name": "Veteran",
+      "url": "https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1167,6 +1151,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Age Of Unreason",
+        "url": "https://open.spotify.com/album/1GNAN3xxTAYedMvS9CEOdz"
+      },
+      "artists": [
+        {
+          "name": "Bad Religion",
+          "url": "https://open.spotify.com/artist/2yJwXpWAQOOl5XFzbCxLs9"
+        }
+      ],
+      "duration_ms": 178449,
+      "name": "My Sanity",
+      "url": "https://open.spotify.com/track/0KNKU0I1iNOydBWTjbfJVx"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "The Living End",
         "url": "https://open.spotify.com/album/4NrwcdtcWnfQvMxqQwF8x7"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Face to Face (Remastered)",
-        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
+        "name": "Have a Ball",
+        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
       },
       "artists": [
         {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+          "name": "Me First and the Gimme Gimmes",
+          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
         }
       ],
-      "duration_ms": 215413,
-      "name": "Walk the Walk",
-      "url": "https://open.spotify.com/track/4A2ACnyRUwxcfKiQypDwFy"
+      "duration_ms": 195226,
+      "name": "Rocket Man",
+      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1231,6 +1231,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Face to Face (Remastered)",
+        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
+      },
+      "artists": [
+        {
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "Walk the Walk",
+      "url": "https://open.spotify.com/track/4A2ACnyRUwxcfKiQypDwFy"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Exile in Oblivion",
         "url": "https://open.spotify.com/album/1o4qdotzTDa8OD9uyDe61j"
       },
@@ -1243,22 +1259,6 @@
       "duration_ms": 175826,
       "name": "Analog",
       "url": "https://open.spotify.com/track/6kXCBheyqOjVbNkJoj2yE9"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Have a Ball",
-        "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
-      },
-      "artists": [
-        {
-          "name": "Me First and the Gimme Gimmes",
-          "url": "https://open.spotify.com/artist/0cOVRC8EOwDwXrs3JTrRN5"
-        }
-      ],
-      "duration_ms": 195226,
-      "name": "Rocket Man",
-      "url": "https://open.spotify.com/track/6hWO05CFzbcnOTMnTnfl5W"
     },
     {
       "added_at": "2022-07-26 16:46:12",

@@ -4,7 +4,7 @@
 
 > This is Sebastian Esquivel\. The essential tracks, all in one playlist.
 
-29 songs - 1 hr 26 min
+30 songs - 1 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [A Cargo del Terreno](https://open.spotify.com/track/0zC0P5eGWHbUB3T0uJpv0L) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [A Cargo del Terreno](https://open.spotify.com/album/6ZaB0FWEXlgSEAgirQs8cG) | 2:22 | 2024-08-08 |  |
 | [Adiamantado](https://open.spotify.com/track/1nO2UwK0QUZwTxHZL6fa8f) | [Rich Vagos](https://open.spotify.com/artist/1FCItwxfRieMGhR0eRxotU), [Jayrick](https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Adiamantado](https://open.spotify.com/album/02r5GQTeyId72iagm3Gxm1) | 2:59 | 2024-08-08 |  |
 | [Alucin](https://open.spotify.com/track/6ED7qim1NAX1HjNU8039WS) | [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Alucin](https://open.spotify.com/album/6tPNZ9sIL1aQUooAlItmCB) | 3:17 | 2024-08-08 |  |
+| [Bachata Bélica](https://open.spotify.com/track/5AHWjW3OuZqmv1peHqJdpC) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Prince Royce](https://open.spotify.com/artist/3MHaV05u0io8fQbZ2XPtlC), [Brray](https://open.spotify.com/artist/1GKIlPFdcewHtpDVCQ8zmJ), [Los Esquivel](https://open.spotify.com/artist/4ZdPHdArIbz2GSBXkozQYC) | [Bachata Bélica](https://open.spotify.com/album/40KVbEIaxXE94S7N1kXGra) | 3:15 | 2025-01-20 |  |
 | [Bagatelle](https://open.spotify.com/track/1vtoYqHjuwXaGoeRtCkBJc) | [Alex Favela](https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD), [Yeri Mua](https://open.spotify.com/artist/2Atk4SWx7daQtItQBa735M), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C) | [Bagatelle](https://open.spotify.com/album/6c5u2U5TXjrwVUUViUZdM0) | 4:19 | 2024-08-08 |  |
 | [Bélico el Asunto \(Tolin Infante\) \- En Vivo](https://open.spotify.com/track/6y12FgosWycm24wbCkVYrv) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Eugenio Esquivel](https://open.spotify.com/artist/5HeN1Iza4nZe03sFlonddz), [Los De La Norte LDLN](https://open.spotify.com/artist/6zUohwxj78LtEvlXR4T8fU), [Grupo Opuesto Sentido](https://open.spotify.com/artist/6X9jlymvUdil1KMlUnGBu2) | [Los Esquivel En Vivo Desde Cadereyta](https://open.spotify.com/album/6cVX7B3bzYW5Je5vVUjyXr) | 4:31 | 2024-08-08 | 2024-12-31 |
 | [Bélico y Cholo](https://open.spotify.com/track/4tyb1RvGtFlSDpWVqoGcdz) | [Sebastian Esquivel](https://open.spotify.com/artist/1tuNNda2SSH3o4lUms5K6C), [Yerai R](https://open.spotify.com/artist/1d9KyLzLJGWNVuWjNH4WmY) | [Bélico y Cholo](https://open.spotify.com/album/3TLunjZoDqcC2dicF8XWY2) | 3:22 | 2024-08-08 |  |

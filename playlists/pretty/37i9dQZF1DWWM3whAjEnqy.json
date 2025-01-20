@@ -1,6 +1,6 @@
 {
   "description": "Sun, sand, salt water and the perfect songs to match.",
-  "num_followers": 274,
+  "num_followers": 282,
   "original_name": "Coast to Coast",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Millionaire",
-        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
-      },
-      "artists": [
-        {
-          "name": "Sons Of The East",
-          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
-        }
-      ],
-      "duration_ms": 138190,
-      "name": "Millionaire",
-      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Nation of Two",
         "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
       },
@@ -247,6 +231,22 @@
       "duration_ms": 156280,
       "name": "Songbird",
       "url": "https://open.spotify.com/track/1Up0tMGTc3FKasn7WMrioE"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Millionaire",
+        "url": "https://open.spotify.com/album/5q4tJmhwyfISzVJM3mCRhi"
+      },
+      "artists": [
+        {
+          "name": "Sons Of The East",
+          "url": "https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej"
+        }
+      ],
+      "duration_ms": 138190,
+      "name": "Millionaire",
+      "url": "https://open.spotify.com/track/46WhhMGZ47aVtpJVASA2Dg"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -315,6 +315,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 214746,
+      "name": "Saturday Sun",
+      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Casino Twilight Dogs",
         "url": "https://open.spotify.com/album/0t4OvGh2M7gJ8asnTwughI"
       },
@@ -347,22 +363,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 214746,
-      "name": "Saturday Sun",
-      "url": "https://open.spotify.com/track/1WZRe3PnxllLd9PPzbPLeo"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Harlequin Dream",
         "url": "https://open.spotify.com/album/7cDFsmUgTousyXecwsWnjr"
       },
@@ -375,22 +375,6 @@
       "duration_ms": 280952,
       "name": "Southern Sun",
       "url": "https://open.spotify.com/track/0sfMc7DhDVGRuTvVb53s5v"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Grand National",
-        "url": "https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw"
-      },
-      "artists": [
-        {
-          "name": "John Butler Trio",
-          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
-        }
-      ],
-      "duration_ms": 209333,
-      "name": "Better Than",
-      "url": "https://open.spotify.com/track/5XYb6UnDIUvulbuiAKImNa"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -415,22 +399,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Rainbow Valley",
-        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
-      },
-      "artists": [
-        {
-          "name": "Matt Corby",
-          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
-        }
-      ],
-      "duration_ms": 262257,
-      "name": "Miracle Love",
-      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Everything Is Easy",
         "url": "https://open.spotify.com/album/5Ic1mp3JN5Fv2gLrXK5y0r"
       },
@@ -443,6 +411,54 @@
       "duration_ms": 197663,
       "name": "Everything Is Easy",
       "url": "https://open.spotify.com/track/2ME1Q6GWXOt0oEqBHtDFvY"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Grand National",
+        "url": "https://open.spotify.com/album/4J3pXm5ARFn6qiUePyJsqw"
+      },
+      "artists": [
+        {
+          "name": "John Butler Trio",
+          "url": "https://open.spotify.com/artist/6fBF4MULW5yMzyGaon1kUt"
+        }
+      ],
+      "duration_ms": 209333,
+      "name": "Better Than",
+      "url": "https://open.spotify.com/track/5XYb6UnDIUvulbuiAKImNa"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Dream Your Life Away (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 249382,
+      "name": "Fire and the Flood",
+      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Rainbow Valley",
+        "url": "https://open.spotify.com/album/0FPU4TuKoO4CLUUXBBo6tW"
+      },
+      "artists": [
+        {
+          "name": "Matt Corby",
+          "url": "https://open.spotify.com/artist/7CIW23FQUXPc1zebnO1TDG"
+        }
+      ],
+      "duration_ms": 262257,
+      "name": "Miracle Love",
+      "url": "https://open.spotify.com/track/5zxJlZh20vaB1TcZAUZ8Pz"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -511,8 +527,8 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Dream Your Life Away (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/0I4QTtZbJgSZ9XCqLxXlxJ"
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
       },
       "artists": [
         {
@@ -520,25 +536,9 @@
           "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
         }
       ],
-      "duration_ms": 249382,
-      "name": "Fire and the Flood",
-      "url": "https://open.spotify.com/track/6WIDobgD5VTnanKuPaVJNW"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Wavy",
-        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
-      },
-      "artists": [
-        {
-          "name": "Muroki",
-          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "Wavy",
-      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
+      "duration_ms": 215493,
+      "name": "Lay It On Me",
+      "url": "https://open.spotify.com/track/1wb9iylRnBbBBHGYAatao0"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -555,6 +555,22 @@
       "duration_ms": 187973,
       "name": "Hold Me",
       "url": "https://open.spotify.com/track/1gSHyTYbpazDVGnzGtn4jn"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Wavy",
+        "url": "https://open.spotify.com/album/7tGgJnG1fE4Mm9EByGCeqk"
+      },
+      "artists": [
+        {
+          "name": "Muroki",
+          "url": "https://open.spotify.com/artist/3Nvjwz6gDry7Uume9kjCBT"
+        }
+      ],
+      "duration_ms": 225000,
+      "name": "Wavy",
+      "url": "https://open.spotify.com/track/6fZmJKpBSqMRx49KaY4waD"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -623,22 +639,6 @@
       "duration_ms": 259964,
       "name": "True Lovers",
       "url": "https://open.spotify.com/track/5RHY7WkAjAhpxuPN0CTd4F"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/7zC9xKP6F8z3FlcVZ6cRXR"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 215493,
-      "name": "Lay It On Me",
-      "url": "https://open.spotify.com/track/1wb9iylRnBbBBHGYAatao0"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Lost Friends",
-        "url": "https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG"
-      },
-      "artists": [
-        {
-          "name": "Middle Kids",
-          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
-        }
-      ],
-      "duration_ms": 225400,
-      "name": "Edge Of Town",
-      "url": "https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Half Mile Harvest (Deluxe)",
         "url": "https://open.spotify.com/album/0GzSn50tkYFrV1RqxHclwe"
       },
@@ -1051,6 +1035,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "Lost Friends",
+        "url": "https://open.spotify.com/album/7zBq73wLuZVSsC7JOKLXDG"
+      },
+      "artists": [
+        {
+          "name": "Middle Kids",
+          "url": "https://open.spotify.com/artist/6AawJaQO4i99Be2A3w7BTW"
+        }
+      ],
+      "duration_ms": 225400,
+      "name": "Edge Of Town",
+      "url": "https://open.spotify.com/track/5RPuWhuO5K9LxcXKtlphf8"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "See The Sun",
         "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
       },
@@ -1063,6 +1063,22 @@
       "duration_ms": 217000,
       "name": "Opportunity",
       "url": "https://open.spotify.com/track/64c45et47VnSv04LvzLt4C"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Deeper Water",
+        "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
+      },
+      "artists": [
+        {
+          "name": "Paul Kelly",
+          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Deeper Water",
+      "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Deeper Water",
-        "url": "https://open.spotify.com/album/2mrVJ60WIjwRgzLwVMyJDM"
-      },
-      "artists": [
-        {
-          "name": "Paul Kelly",
-          "url": "https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Deeper Water",
-      "url": "https://open.spotify.com/track/5CVjniZP6bYZEoC92A4sEf"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "My Own Pool of Light",
         "url": "https://open.spotify.com/album/4u59azivupUe4l6CDbwfxf"
       },
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "Blue Sky Blue",
-        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 215786,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
         "name": "Youngblood",
         "url": "https://open.spotify.com/album/4LKwkGDfN1OXZy1qXRAQZm"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 232746,
       "name": "Youngblood",
       "url": "https://open.spotify.com/track/2z1ZySfX3m36YL1XfwM84d"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
+        "name": "Blue Sky Blue",
+        "url": "https://open.spotify.com/album/2oJBk6QGkGjxb3d1y4LX07"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 215786,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/1OPlx5qqkPUp4VMxFLVhIL"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
+        "name": "See The Sun",
+        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
+      },
+      "artists": [
+        {
+          "name": "Pete Murray",
+          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
+        }
+      ],
+      "duration_ms": 223040,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
+    },
+    {
+      "added_at": "2023-11-15 02:04:48",
+      "album": {
         "name": "Memories & Dust",
         "url": "https://open.spotify.com/album/0ovM6UlAXcNWgLygQfX6xE"
       },
@@ -1287,22 +1303,6 @@
       "duration_ms": 212173,
       "name": "God Forgot",
       "url": "https://open.spotify.com/track/5Pmvf3koZefZxHgOvTIGlQ"
-    },
-    {
-      "added_at": "2023-11-15 02:04:48",
-      "album": {
-        "name": "See The Sun",
-        "url": "https://open.spotify.com/album/1Pwy95FoKWLhJeWYAEQKAy"
-      },
-      "artists": [
-        {
-          "name": "Pete Murray",
-          "url": "https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV"
-        }
-      ],
-      "duration_ms": 223040,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/2vDW5s3RpQNJp9gkhMB1da"
     },
     {
       "added_at": "2023-11-15 02:04:48",
@@ -1375,18 +1375,18 @@
     {
       "added_at": "2023-11-15 02:04:48",
       "album": {
-        "name": "As You Go",
-        "url": "https://open.spotify.com/album/3F9HI9gUtpku7E05sz6O4K"
+        "name": "California",
+        "url": "https://open.spotify.com/album/6BUjt6TadgjtSssORlZypB"
       },
       "artists": [
         {
-          "name": "Jordy Maxwell",
-          "url": "https://open.spotify.com/artist/32adQJGzuFZNh9fBQXhisb"
+          "name": "Nick Cunningham",
+          "url": "https://open.spotify.com/artist/61lzv3WIqOcGbgAdI0QqXt"
         }
       ],
-      "duration_ms": 180533,
-      "name": "As You Go",
-      "url": "https://open.spotify.com/track/0epc6FCUxWAOYI5q7nyIQu"
+      "duration_ms": 228587,
+      "name": "California",
+      "url": "https://open.spotify.com/track/6OBFODmA2J6gRXtuiel6U2"
     }
   ],
   "unique_name": "Coast to Coast",

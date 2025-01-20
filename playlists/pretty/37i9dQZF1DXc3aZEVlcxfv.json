@@ -1,6 +1,6 @@
 {
   "description": "I am blessed!",
-  "num_followers": 2234,
+  "num_followers": 2245,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -225,30 +225,6 @@
       "url": "https://open.spotify.com/track/40ozK0lCJ0EQzVGWsCNUhk"
     },
     {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Firm Foundation (He Won't)",
-        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)",
-      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
-    },
-    {
       "added_at": "2024-09-27 00:01:00",
       "album": {
         "name": "THIS YEAR (Blessings)",
@@ -301,24 +277,28 @@
       "url": "https://open.spotify.com/track/2C0CRs9cwkD8VABHxrBkEd"
     },
     {
-      "added_at": "2024-09-27 00:01:00",
+      "added_at": "2024-11-22 00:01:00",
       "album": {
-        "name": "The Great Commission",
-        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
       },
       "artists": [
         {
-          "name": "Dunsin Oyekan",
-          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Lawrence Oyor",
-          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
         }
       ],
-      "duration_ms": 808677,
-      "name": "Worthy of My Praise",
-      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -347,6 +327,26 @@
       "duration_ms": 598994,
       "name": "Jireh (feat. Chandler Moore & Naomi Raine)",
       "url": "https://open.spotify.com/track/1goiRWxiG3GTlODrdDZ7NR"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "The Great Commission",
+        "url": "https://open.spotify.com/album/1ceKYPCijmkMxAaD3eIpJc"
+      },
+      "artists": [
+        {
+          "name": "Dunsin Oyekan",
+          "url": "https://open.spotify.com/artist/49BZ6sJNhvubVBsomYuLFM"
+        },
+        {
+          "name": "Lawrence Oyor",
+          "url": "https://open.spotify.com/artist/5VjrwmzHaE5YI54qdzIoiI"
+        }
+      ],
+      "duration_ms": 808677,
+      "name": "Worthy of My Praise",
+      "url": "https://open.spotify.com/track/2TfDq6YUBAiX09xTlH2bhX"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -475,22 +475,6 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "There Is a Cloud",
-        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 398333,
-      "name": "Do It Again",
-      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
         "name": "Names of God",
         "url": "https://open.spotify.com/album/3WCZbOcvzRlzyEnRVPtKQF"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 511207,
       "name": "Adonai",
       "url": "https://open.spotify.com/track/7axctArGc7dtaEJSl3IZge"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "There Is a Cloud",
+        "url": "https://open.spotify.com/album/5sbjJuC7SFAkTUCiQ8YbRB"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 398333,
+      "name": "Do It Again",
+      "url": "https://open.spotify.com/track/3iOpiHDobxZO7S4p9Y2Fgu"
     },
     {
       "added_at": "2024-09-27 00:01:00",
@@ -555,30 +555,6 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Kari Jobe",
-          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 507306,
-      "name": "The Blessing (Live)",
-      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
         "name": "Chapter Two",
         "url": "https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm"
       },
@@ -615,6 +591,30 @@
       "duration_ms": 126315,
       "name": "Find Me Here (Blessings Find Me)",
       "url": "https://open.spotify.com/track/6lrhr9KAExOwMopLB7WBgV"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Kari Jobe",
+          "url": "https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 507306,
+      "name": "The Blessing (Live)",
+      "url": "https://open.spotify.com/track/5O306r2a9Nl7rm5ZlaTqka"
     },
     {
       "added_at": "2024-11-15 00:01:00",
@@ -867,22 +867,6 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
-        "name": "Our God Reigns",
-        "url": "https://open.spotify.com/album/2goNu8zaAUIhrKnhMmLpya"
-      },
-      "artists": [
-        {
-          "name": "Vinesong",
-          "url": "https://open.spotify.com/artist/2GBZhtZkXs2SjxoGJSWLo6"
-        }
-      ],
-      "duration_ms": 178386,
-      "name": "On Christ the Solid Rock",
-      "url": "https://open.spotify.com/track/7f76fuhNITKqRtUJaTXnzE"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
         "name": "TOBECHUKWU",
         "url": "https://open.spotify.com/album/47LudPhVqHz7bEEuM4LUcr"
       },
@@ -903,6 +887,22 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
+        "name": "Our God Reigns",
+        "url": "https://open.spotify.com/album/2goNu8zaAUIhrKnhMmLpya"
+      },
+      "artists": [
+        {
+          "name": "Vinesong",
+          "url": "https://open.spotify.com/artist/2GBZhtZkXs2SjxoGJSWLo6"
+        }
+      ],
+      "duration_ms": 178386,
+      "name": "On Christ the Solid Rock",
+      "url": "https://open.spotify.com/track/7f76fuhNITKqRtUJaTXnzE"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
         "name": "Audience of One",
         "url": "https://open.spotify.com/album/7lloLTbXisV6ZJjheZLQDZ"
       },
@@ -915,6 +915,30 @@
       "duration_ms": 116786,
       "name": "Lord Reign in Me",
       "url": "https://open.spotify.com/track/6veNqszPsxhmzKdjyeOyw8"
+    },
+    {
+      "added_at": "2024-11-22 00:01:00",
+      "album": {
+        "name": "Praise The Lord",
+        "url": "https://open.spotify.com/album/0q2F3gGEsvczdPqHpC1SHt"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+        },
+        {
+          "name": "Anderson Qozan",
+          "url": "https://open.spotify.com/artist/4msmthFt2XFTVxINZhiaxN"
+        }
+      ],
+      "duration_ms": 176037,
+      "name": "Praise The Lord",
+      "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
     },
     {
       "added_at": "2024-11-29 00:01:00",
@@ -959,42 +983,6 @@
       "duration_ms": 209403,
       "name": "ZOE",
       "url": "https://open.spotify.com/track/5hIs8axd88ghEVcfagZRqv"
-    },
-    {
-      "added_at": "2024-11-22 00:01:00",
-      "album": {
-        "name": "Majority",
-        "url": "https://open.spotify.com/album/7AfoR2ubwnYDyWKID7rkHD"
-      },
-      "artists": [
-        {
-          "name": "Moses Bliss",
-          "url": "https://open.spotify.com/artist/79MTG7HPurBgQ0ilwJ4AgM"
-        },
-        {
-          "name": "S.O.N Music",
-          "url": "https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T"
-        },
-        {
-          "name": "Festizie",
-          "url": "https://open.spotify.com/artist/2uimm8D8LQw4mlFRGWPLQu"
-        },
-        {
-          "name": "Chizie",
-          "url": "https://open.spotify.com/artist/0lRLfkXoAdbBLSfokQH9xE"
-        },
-        {
-          "name": "Ajay Asika",
-          "url": "https://open.spotify.com/artist/6JTtYSXFQweCccnZnRkVs1"
-        },
-        {
-          "name": "Neeja",
-          "url": "https://open.spotify.com/artist/2Q6hH4KzIrMYrpP601GUJi"
-        }
-      ],
-      "duration_ms": 201137,
-      "name": "Majority",
-      "url": "https://open.spotify.com/track/29YFxm0ePejDJSUhSz7NyX"
     }
   ],
   "unique_name": "Blessed",

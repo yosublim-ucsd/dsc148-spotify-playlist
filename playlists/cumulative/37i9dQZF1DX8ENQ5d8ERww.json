@@ -210,7 +210,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 193768,
       "name": "Extra",
       "url": "https://open.spotify.com/track/3JEV20qAKdhQ9opRo2eP1m"
@@ -646,6 +646,32 @@
       "duration_ms": 249760,
       "name": "Noochbrand",
       "url": "https://open.spotify.com/track/2WKldSa835nWGsXe0QMAKd"
+    },
+    {
+      "album": {
+        "name": "Normal (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4roW7Xpb9oeKUyqnwpQDMj"
+      },
+      "artists": [
+        {
+          "name": "Bligg",
+          "url": "https://open.spotify.com/artist/1q4LHoD7IzquqGQR4YZRQr"
+        },
+        {
+          "name": "Stress",
+          "url": "https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg"
+        },
+        {
+          "name": "Lexx",
+          "url": "https://open.spotify.com/artist/1VlcasdoALzQ028J8vAEax"
+        }
+      ],
+      "date_added": "2024-12-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222173,
+      "name": "Relaxtra",
+      "url": "https://open.spotify.com/track/18in07peN7I1KRfrOKpyPn"
     },
     {
       "album": {

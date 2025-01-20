@@ -4,13 +4,14 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-192 songs - 8 hr 50 min
+194 songs - 8 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...comes sunshine](https://open.spotify.com/track/4HfWzLFR1tHW1rQuzKW3Be) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [...comes sunshine](https://open.spotify.com/album/27PmpZSLnHo4qjl3f7R7bm) | 3:07 | 2023-03-03 |  |
 | [40](https://open.spotify.com/track/640cERY2tzEK0UURzWgFJp) | [Vastos Trofeos](https://open.spotify.com/artist/6RXn3dP1ZlAmIrEv2zspvq) | [40](https://open.spotify.com/album/3wk7uPZns7HJ0lNtn0driV) | 2:29 | 2023-03-03 | 2024-11-23 |
 | [A Free Spirit \(Nature\)](https://open.spotify.com/track/2qO76Y8tZnBOCRRhOWMjhr) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit \(Nature\)](https://open.spotify.com/album/12cFEQ1sasH0DJnZjeUJ9Q) | 2:48 | 2023-09-05 |  |
+| [A Good Morning](https://open.spotify.com/track/3ReCihHPaBhVrGzsZjRCyT) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [A Good Morning](https://open.spotify.com/album/2jtb1HXtYQW6uOzJ1WKSzj) | 2:38 | 2025-01-15 |  |
 | [Aardvark](https://open.spotify.com/track/4f0g8C72ve7dWIzYTvf8it) | [Gleework](https://open.spotify.com/artist/7mpVI32uln65a45ny7L1Pc) | [Aardvark](https://open.spotify.com/album/4hGjRmvDwyuAKOFo1sjoHV) | 2:48 | 2023-10-20 |  |
 | [Above all](https://open.spotify.com/track/32lWGnfRRUk44f4zWHV37L) | [Henrietta Patrick](https://open.spotify.com/artist/4dCZm6THef8wb8x4VwrSO0) | [Above all](https://open.spotify.com/album/2SndImMqTgOaikElBmLHQP) | 2:24 | 2023-03-03 |  |
 | [Above The Sea](https://open.spotify.com/track/6GjFNvPjQCSC7rPABT72lY) | [Hans Westerström](https://open.spotify.com/artist/1WOVNBPjCOR40fEBWjNUNe) | [Above The Sea](https://open.spotify.com/album/0uTCVqSAdqeGodq6ATzxHh) | 2:14 | 2023-04-13 | 2024-08-24 |
@@ -57,6 +58,7 @@
 | [Des Roches Ritual](https://open.spotify.com/track/31nCgRTa6hPm2sFzUQD2NW) | [Electric Rivers](https://open.spotify.com/artist/4ATjV5COMvZp7XfnELm7nV) | [Des Roches Ritual](https://open.spotify.com/album/0et9Tv7PCytessod4b4Kl7) | 3:33 | 2024-03-20 |  |
 | [Don't Know Mind \- Forest Sound Bath](https://open.spotify.com/track/0l7RsztlECGX9Of6opJMSK) | [Tsuchida Kasumi](https://open.spotify.com/artist/5tzjFM5pLsDc4Z6udd1zUT) | [Don't Know Mind \- Forest Sound Bath](https://open.spotify.com/album/22KgajjdlBD7Ntg4d5cBGl) | 2:59 | 2024-03-05 |  |
 | [Dream Catcher](https://open.spotify.com/track/4cgqpbNog3N37Gd6uCvOB1) | [Eight Dimentional](https://open.spotify.com/artist/1yyFV6PGI3TOJ2XLS60ZKV) | [Dream Catcher](https://open.spotify.com/album/6yHKsek0ogZXVhcBL3FaFT) | 3:07 | 2024-06-03 | 2024-08-24 |
+| [Dream Resolve](https://open.spotify.com/track/0LvFkTyn6KUbCIoj6lQCwM) | [places we go](https://open.spotify.com/artist/3N8G853hWNIHmfw6MunA3X) | [Dream Resolve](https://open.spotify.com/album/0Wm1b8IbShzmgqBgMSGdCe) | 2:58 | 2025-01-15 |  |
 | [drifting \(with morning birds\)](https://open.spotify.com/track/60JGPKGdpNpPzqAzE87DA8) | [cloudcrush](https://open.spotify.com/artist/3S1Kdh8aXPKVbs1dZnrRST) | [nature](https://open.spotify.com/album/1BqVsh29DlbzOS29maXQIe) | 3:20 | 2023-09-01 |  |
 | [Early Morning](https://open.spotify.com/track/1eUXmvus2WRXA8sBzJwCGZ) | [Thomas Webster](https://open.spotify.com/artist/4EilbRqryQTCpJoQUstXmV) | [Early Morning](https://open.spotify.com/album/6CwO2ti0r2RhtdaVZvyVyL) | 2:30 | 2023-03-03 |  |
 | [Earth Awakening](https://open.spotify.com/track/7rUqZmAjXBf0qeGbL1tEL2) | [Yin Gaya](https://open.spotify.com/artist/10xvJcC8M3vs3V2QtTzBML) | [Earth Awakening](https://open.spotify.com/album/2qGZ8rZTyz6QxbrpjPcwKu) | 2:47 | 2024-05-01 |  |
@@ -159,7 +161,7 @@
 | [Sailing Home](https://open.spotify.com/track/073e3nzPrmDprZ6ELo4dbb) | [Undis](https://open.spotify.com/artist/6YjkEQuODblFDXN3AsCYKo) | [Sailing Home](https://open.spotify.com/album/6pUlUufs3L6Zj3FQRm5Q4F) | 2:40 | 2024-10-01 |  |
 | [Second Wishes](https://open.spotify.com/track/2nB18heJxd22fyEIp6u5HE) | [Interspaces](https://open.spotify.com/artist/2EWOWYo7on9DF7RLOLcia3) | [Second Wishes](https://open.spotify.com/album/3NlwZy60OQ5UMMYuXMqCgi) | 2:13 | 2024-03-05 |  |
 | [Secunda Carmina](https://open.spotify.com/track/2FwkigsYjlfvVJN4NCqyp3) | [Valeria Pintile](https://open.spotify.com/artist/1x5xa7NxUzteNg0EUvw5Uj) | [Secunda Carmina](https://open.spotify.com/album/6Mimz0Gk1BdDz5NPhtBiyG) | 3:23 | 2023-07-21 | 2024-06-04 |
-| [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 | 2023-03-03 |  |
+| [Seranade Of The Silver Falls](https://open.spotify.com/track/2kVUr2KapDstGpx4QzsZx2) | [No Pude Detenerme](https://open.spotify.com/artist/5PPQ1GQmwabzQpN9W7ihoN) | [Seranade Of The Silver Falls](https://open.spotify.com/album/1M82XkTNPXbviNbSH5ftte) | 2:17 | 2023-03-03 | 2025-01-20 |
 | [Serene Dream](https://open.spotify.com/track/3phLyMjkzsEK6nXfIsFp7I) | [Chris Haugen](https://open.spotify.com/artist/2lD7A7VWRgToPFUUKm58kZ) | [Serene Dream](https://open.spotify.com/album/4wzOVVcBdaUXPhw5Od3cf4) | 4:31 | 2024-02-06 | 2024-08-24 |
 | [Sidus Imbrem Pluvia](https://open.spotify.com/track/6PtE2MAmHS93rB9UhXkg0x) | [Francois Mirere](https://open.spotify.com/artist/1nzmy6MwB4QVWDvZVW5AtD) | [Sidus Imbrem Pluvia](https://open.spotify.com/album/7IKc8KDoqR4D4cgKz0sBE2) | 3:38 | 2024-03-20 |  |
 | [Silence](https://open.spotify.com/track/5KzDnM8dfL6rWOzxIpU8tr) | [Antoine Lefèvre](https://open.spotify.com/artist/1Sxv9K4k979TM31rrz9dVC) | [Silence](https://open.spotify.com/album/6kffjbiRYPhXXR8ahCazdi) | 2:36 | 2025-01-15 |  |
@@ -180,7 +182,7 @@
 | [The Garden](https://open.spotify.com/track/3nJvNFOPUn4lIO7BO0XNKp) | [Juno Yang](https://open.spotify.com/artist/56eIS6isBmK4l3hoJlzCxP) | [The Garden](https://open.spotify.com/album/5LWRyizaBPnEsDo3etMFQF) | 2:30 | 2024-02-06 | 2025-01-16 |
 | [The Long Way Home](https://open.spotify.com/track/7waW8AXCVZvytfmgxdKuNf) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 3:49 | 2023-03-03 | 2024-03-21 |
 | [The River Song](https://open.spotify.com/track/0jzdpv1d3C0k76jenFwPKI) | [Silence Concertos](https://open.spotify.com/artist/4LryoteCJZPv9bdisFtRFX) | [The River Song](https://open.spotify.com/album/2obhenLWAFKvEz8J4Lza9q) | 2:44 | 2025-01-15 |  |
-| [The Sparrow](https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [The Old Grandfather Clock](https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu) | 3:12 | 2023-03-03 |  |
+| [The Sparrow](https://open.spotify.com/track/0Ciglo4whwagbwcBRGU8O1) | [Birdwalk House](https://open.spotify.com/artist/3RJY7q5VlfcdnlUTjeGCGM) | [The Old Grandfather Clock](https://open.spotify.com/album/4mOXlp10cieaSNNvyAQRIu) | 3:12 | 2023-03-03 | 2025-01-20 |
 | [The Way I Am & Sunday Mornings](https://open.spotify.com/track/5oUzKkdvWBoX6B0slLHZX7) | [Josef Homola](https://open.spotify.com/artist/01Mll8wovVOj5XaWVanxkB) | [Sunday Mornings XXVIII](https://open.spotify.com/album/6xyFTbKHD0jolOCX5KstzK) | 1:07 | 2023-03-03 |  |
 | [Thoughts Outside My Window](https://open.spotify.com/track/0nM5PzquYJRtbWEwnc0q2t) | [Joan Abe](https://open.spotify.com/artist/3c526c367gWjgUMPxUF5pi) | [Thoughts Outside My Window](https://open.spotify.com/album/4pOfZ2daBo1XvcUucRYtyc) | 2:27 | 2025-01-15 |  |
 | [Through the Clouds](https://open.spotify.com/track/0Fvy8Nrds4DbW4OCqbktfu) | [Homesong](https://open.spotify.com/artist/40cJNjBErUUY5GEz2fnz5s) | [The Long Way Home](https://open.spotify.com/album/3krtEQACBn6DXD2Ef8BTH7) | 2:32 | 2023-03-03 |  |

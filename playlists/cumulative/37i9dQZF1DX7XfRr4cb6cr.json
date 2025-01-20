@@ -2743,6 +2743,24 @@
     },
     {
       "album": {
+        "name": "The Third Helix",
+        "url": "https://open.spotify.com/album/5hAGEacIN3rAXdnOAZByi5"
+      },
+      "artists": [
+        {
+          "name": "Drew McDowall",
+          "url": "https://open.spotify.com/artist/3jAdN6k0KlW1X48AUizxn4"
+        }
+      ],
+      "date_added": "2024-12-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268761,
+      "name": "Membrane",
+      "url": "https://open.spotify.com/track/1gGGC5a2la2tYDgf9HVEPz"
+    },
+    {
+      "album": {
         "name": "Care",
         "url": "https://open.spotify.com/album/7pfidngS6ZbAUZ9UM2EicP"
       },
@@ -5068,7 +5086,7 @@
       ],
       "date_added": "2022-02-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 457639,
       "name": "Transcend",
       "url": "https://open.spotify.com/track/2M0EmEypUn9U1YHgNocVGi"

@@ -1,6 +1,6 @@
 {
   "description": "soft, chewy & good for the soul. uwu",
-  "num_followers": 245473,
+  "num_followers": 245517,
   "original_name": "tapioca",
   "owner": {
     "name": "Spotify",
@@ -503,6 +503,22 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
+        "name": "From The Start",
+        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+      },
+      "artists": [
+        {
+          "name": "Laufey",
+          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+        }
+      ],
+      "duration_ms": 169573,
+      "name": "From The Start",
+      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
         "name": "In My Mind",
         "url": "https://open.spotify.com/album/4uLn2Ci7bNaHSZ0tBHYlxt"
       },
@@ -535,18 +551,18 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "From The Start",
-        "url": "https://open.spotify.com/album/1BOZNMzXTIkz8nUfGCxfpe"
+        "name": "girls like me don't cry",
+        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
       },
       "artists": [
         {
-          "name": "Laufey",
-          "url": "https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO"
+          "name": "th\u1ee7y",
+          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
         }
       ],
-      "duration_ms": 169573,
-      "name": "From The Start",
-      "url": "https://open.spotify.com/track/1Ukxccao1BlWrPhYkcXbwZ"
+      "duration_ms": 213640,
+      "name": "girls like me don't cry",
+      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -567,38 +583,6 @@
       "duration_ms": 233388,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/180AbZduI6bYQIzwCHRwu9"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "THE REAPER",
-        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
-      },
-      "artists": [
-        {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
-        }
-      ],
-      "duration_ms": 182678,
-      "name": "like i need u",
-      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "girls like me don't cry",
-        "url": "https://open.spotify.com/album/2H3DD9jBaIor2z1hda43gE"
-      },
-      "artists": [
-        {
-          "name": "th\u1ee7y",
-          "url": "https://open.spotify.com/artist/3R80OE4RViOWbnuvqh0j8a"
-        }
-      ],
-      "duration_ms": 213640,
-      "name": "girls like me don't cry",
-      "url": "https://open.spotify.com/track/2DtUUBwYwEzKMTMDrc5EiO"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -635,38 +619,6 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "Walking Back Home",
-        "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
-      },
-      "artists": [
-        {
-          "name": "Vira Talisa",
-          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
-        }
-      ],
-      "duration_ms": 132762,
-      "name": "Walking Back Home",
-      "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "It's You",
-        "url": "https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI"
-      },
-      "artists": [
-        {
-          "name": "Sezairi",
-          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
-        }
-      ],
-      "duration_ms": 251440,
-      "name": "It's You",
-      "url": "https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
         "name": "Bewitched: The Goddess Edition",
         "url": "https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb"
       },
@@ -683,6 +635,22 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
+        "name": "THE REAPER",
+        "url": "https://open.spotify.com/album/1hM5xkleU8wr2yOaY2gCMB"
+      },
+      "artists": [
+        {
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+        }
+      ],
+      "duration_ms": 182678,
+      "name": "like i need u",
+      "url": "https://open.spotify.com/track/7ivYWXqrPLs66YwakDuSim"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
         "name": "Patched Up",
         "url": "https://open.spotify.com/album/7zPBy6Rjmijd4p8drmQPu7"
       },
@@ -695,6 +663,58 @@
       "duration_ms": 199514,
       "name": "Tired",
       "url": "https://open.spotify.com/track/6F5mZpEEjhsAW8UEqbIpz1"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "Walking Back Home",
+        "url": "https://open.spotify.com/album/103U1ni9LPA8TkD4Q7U1q3"
+      },
+      "artists": [
+        {
+          "name": "Vira Talisa",
+          "url": "https://open.spotify.com/artist/51Ssgb0bFNfHyAXc3Fpmuv"
+        }
+      ],
+      "duration_ms": 132762,
+      "name": "Walking Back Home",
+      "url": "https://open.spotify.com/track/43A8VtuqZuJHn8CCtnSL2l"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "B.A.D.",
+        "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
+      },
+      "artists": [
+        {
+          "name": "Denise Julia",
+          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
+        },
+        {
+          "name": "P-Lo",
+          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+        }
+      ],
+      "duration_ms": 170078,
+      "name": "B.A.D.",
+      "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "It's You",
+        "url": "https://open.spotify.com/album/5GulvBNneCO2QRjoWVzhWI"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        }
+      ],
+      "duration_ms": 251440,
+      "name": "It's You",
+      "url": "https://open.spotify.com/track/7rdnB5DAyPbaj51TCQRcqW"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -735,18 +755,18 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "Say",
-        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
+        "name": "Beatopia",
+        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
       },
       "artists": [
         {
-          "name": "keshi",
-          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 181602,
-      "name": "Say",
-      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
+      "duration_ms": 160493,
+      "name": "Sunny day",
+      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -767,22 +787,18 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "B.A.D.",
-        "url": "https://open.spotify.com/album/6FsUUmtn9CrZhfRqaz9EcM"
+        "name": "Say",
+        "url": "https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY"
       },
       "artists": [
         {
-          "name": "Denise Julia",
-          "url": "https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD"
-        },
-        {
-          "name": "P-Lo",
-          "url": "https://open.spotify.com/artist/2QLM9IFaHBtB16b8ZDaA3A"
+          "name": "keshi",
+          "url": "https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO"
         }
       ],
-      "duration_ms": 170078,
-      "name": "B.A.D.",
-      "url": "https://open.spotify.com/track/14YZcGhRR05BTYajt8f9u9"
+      "duration_ms": 181602,
+      "name": "Say",
+      "url": "https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -831,22 +847,6 @@
       "duration_ms": 242746,
       "name": "Wedding Dress",
       "url": "https://open.spotify.com/track/2NO4CA2TFvhGeg7XMz8PmT"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Beatopia",
-        "url": "https://open.spotify.com/album/2rhNQbqRNxiNQkDXTffe1V"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 160493,
-      "name": "Sunny day",
-      "url": "https://open.spotify.com/track/12UQIJePnGeLmpVReYpG2w"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -951,22 +951,6 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "SMITHEREENS",
-        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
-      },
-      "artists": [
-        {
-          "name": "Joji",
-          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
-        }
-      ],
-      "duration_ms": 211666,
-      "name": "Die For You",
-      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
         "name": "Temporary Love",
         "url": "https://open.spotify.com/album/08bgugAl607EFEit8Fot7c"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 163333,
       "name": "Temporary Love",
       "url": "https://open.spotify.com/track/6IbHr3NKr1EXe2Im2cnVZx"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "SMITHEREENS",
+        "url": "https://open.spotify.com/album/2hEnymoejldpuxSdTnkard"
+      },
+      "artists": [
+        {
+          "name": "Joji",
+          "url": "https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq"
+        }
+      ],
+      "duration_ms": 211666,
+      "name": "Die For You",
+      "url": "https://open.spotify.com/track/26hOm7dTtBi0TdpDGl141t"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "apart of me",
-        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
-      },
-      "artists": [
-        {
-          "name": "Takayoshi",
-          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
-        }
-      ],
-      "duration_ms": 76285,
-      "name": "apart of me",
-      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
         "name": "twin flames",
         "url": "https://open.spotify.com/album/4xW0IPIKToGIy3HMAnYOj1"
       },
@@ -1087,18 +1071,18 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "life update",
-        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
+        "name": "apart of me",
+        "url": "https://open.spotify.com/album/1VHtN37RStIVB1iqoTwsZ2"
       },
       "artists": [
         {
-          "name": "Arash Buana",
-          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+          "name": "Takayoshi",
+          "url": "https://open.spotify.com/artist/6LszZyd03prLB8lIPbZ9Uo"
         }
       ],
-      "duration_ms": 245647,
-      "name": "hey, i'm tired",
-      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
+      "duration_ms": 76285,
+      "name": "apart of me",
+      "url": "https://open.spotify.com/track/6Qvwt9H76n1FfWyw5aT6JJ"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1115,6 +1099,22 @@
       "duration_ms": 129600,
       "name": "But Not For Me",
       "url": "https://open.spotify.com/track/6YJ7mhlmnU4kcxOsdrW0ri"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "life update",
+        "url": "https://open.spotify.com/album/2N4ErYoIxBSIXOTMp7sYtf"
+      },
+      "artists": [
+        {
+          "name": "Arash Buana",
+          "url": "https://open.spotify.com/artist/3OFUmiZcD0AWtjOYFJVpwM"
+        }
+      ],
+      "duration_ms": 245647,
+      "name": "hey, i'm tired",
+      "url": "https://open.spotify.com/track/1vkTwwAwzVVin3wqye5w1k"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
+        "name": "Fuzzy Feeling",
+        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
+      },
+      "artists": [
+        {
+          "name": "grentperez",
+          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
+        },
+        {
+          "name": "Benny Sings",
+          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
+        }
+      ],
+      "duration_ms": 176208,
+      "name": "Fuzzy Feeling",
+      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
         "name": "Call Me",
         "url": "https://open.spotify.com/album/7kVBQXeu6cfieD0rCWZZCB"
       },
@@ -1215,6 +1235,22 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
+        "name": "CANDYRELLA",
+        "url": "https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh"
+      },
+      "artists": [
+        {
+          "name": "Paul Partohap",
+          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+        }
+      ],
+      "duration_ms": 184038,
+      "name": "CANDYRELLA",
+      "url": "https://open.spotify.com/track/2cSoKxktx83MxhkAoaTOyc"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
         "name": "Good Care",
         "url": "https://open.spotify.com/album/6GE5HCTdt1M0ByOFLoXV4d"
       },
@@ -1239,38 +1275,18 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "CANDYRELLA",
-        "url": "https://open.spotify.com/album/1n9VJFm671VITcO2VnttNh"
+        "name": "Why Don't You Stay (WorldTour Ver.)",
+        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
       },
       "artists": [
         {
-          "name": "Paul Partohap",
-          "url": "https://open.spotify.com/artist/7JUNqSO2J7JcC76ShZ9DI9"
+          "name": "Jeff Satur",
+          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
         }
       ],
-      "duration_ms": 184038,
-      "name": "CANDYRELLA",
-      "url": "https://open.spotify.com/track/2cSoKxktx83MxhkAoaTOyc"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Fuzzy Feeling",
-        "url": "https://open.spotify.com/album/171wlUzsjGs3s2ux9JSdst"
-      },
-      "artists": [
-        {
-          "name": "grentperez",
-          "url": "https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe"
-        },
-        {
-          "name": "Benny Sings",
-          "url": "https://open.spotify.com/artist/4gHcu2JoaXJ0mV4aNPCd7N"
-        }
-      ],
-      "duration_ms": 176208,
-      "name": "Fuzzy Feeling",
-      "url": "https://open.spotify.com/track/6UX55FQuFq4q8jtIijZDRv"
+      "duration_ms": 256336,
+      "name": "Why Don't You Stay (WorldTour Ver.)",
+      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "Why Don't You Stay (WorldTour Ver.)",
-        "url": "https://open.spotify.com/album/66zUgJ1HeZL7C6ric4SYp0"
+        "name": "The Way You Look At Me",
+        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
       },
       "artists": [
         {
-          "name": "Jeff Satur",
-          "url": "https://open.spotify.com/artist/5xq3BK55BJmutN0X7eTyQB"
+          "name": "Ben&Ben",
+          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
         }
       ],
-      "duration_ms": 256336,
-      "name": "Why Don't You Stay (WorldTour Ver.)",
-      "url": "https://open.spotify.com/track/5zav9TbX94CL4JScexrMmf"
+      "duration_ms": 251571,
+      "name": "The Way You Look At Me",
+      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1323,22 +1339,6 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "The Way You Look At Me",
-        "url": "https://open.spotify.com/album/0AhITlFtQQGB3X5KAqf7Ng"
-      },
-      "artists": [
-        {
-          "name": "Ben&Ben",
-          "url": "https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb"
-        }
-      ],
-      "duration_ms": 251571,
-      "name": "The Way You Look At Me",
-      "url": "https://open.spotify.com/track/2EcDqJGlgodoLW0l9EnWa5"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
         "name": "Too Much Of A Good Thing",
         "url": "https://open.spotify.com/album/3R4S3T887VNC39Ddu3JD84"
       },
@@ -1351,6 +1351,22 @@
       "duration_ms": 171618,
       "name": "Too Much Of A Good Thing",
       "url": "https://open.spotify.com/track/6Qba5LA11rNI9PyXDBeva7"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "Ride",
+        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        }
+      ],
+      "duration_ms": 181622,
+      "name": "Ride",
+      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1383,22 +1399,6 @@
       "duration_ms": 117480,
       "name": "kiss me thru the phone",
       "url": "https://open.spotify.com/track/4KvxaOvVMSNlTO3ZowMm9E"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Ride",
-        "url": "https://open.spotify.com/album/4w4qRzvzlZZE2QgMOm5ifs"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        }
-      ],
-      "duration_ms": 181622,
-      "name": "Ride",
-      "url": "https://open.spotify.com/track/7fyVBKYJYMP42nNr9RFTAT"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1495,6 +1495,26 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
+        "name": "I'm Blessed",
+        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
+      },
+      "artists": [
+        {
+          "name": "HYBS",
+          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
+        },
+        {
+          "name": "SIRUP",
+          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
+        }
+      ],
+      "duration_ms": 218500,
+      "name": "I'm Blessed",
+      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
         "name": "Sexy Goodbye",
         "url": "https://open.spotify.com/album/2d6EKgrtfckOuFgGi4SdFK"
       },
@@ -1531,26 +1551,6 @@
     {
       "added_at": "2025-01-17 05:00:29",
       "album": {
-        "name": "I'm Blessed",
-        "url": "https://open.spotify.com/album/5EWpB07ahlO57i3zRRaIsK"
-      },
-      "artists": [
-        {
-          "name": "HYBS",
-          "url": "https://open.spotify.com/artist/4mr4X9nJC8DPlNukWbgAaI"
-        },
-        {
-          "name": "SIRUP",
-          "url": "https://open.spotify.com/artist/1HzcHe0WFm4koBalCEOkVh"
-        }
-      ],
-      "duration_ms": 218500,
-      "name": "I'm Blessed",
-      "url": "https://open.spotify.com/track/0U8JJXyvA1ufQd1CJLTl1E"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
         "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
         "url": "https://open.spotify.com/album/0S4c1T8qWm1ZnCUj9edQq2"
       },
@@ -1567,38 +1567,6 @@
       "duration_ms": 165525,
       "name": "A Room Up In The Sky (feat. The Mar\u00edas)",
       "url": "https://open.spotify.com/track/2b6tGpbflP62TnzKx9TSDu"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "Everlasting Dance",
-        "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
-      },
-      "artists": [
-        {
-          "name": "Llunr",
-          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
-        }
-      ],
-      "duration_ms": 203231,
-      "name": "Everlasting Dance",
-      "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
-    },
-    {
-      "added_at": "2025-01-17 05:00:29",
-      "album": {
-        "name": "i confess",
-        "url": "https://open.spotify.com/album/7GKaoGhCA4LBmwRxnsMTdz"
-      },
-      "artists": [
-        {
-          "name": "Rangga Jones",
-          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
-        }
-      ],
-      "duration_ms": 193246,
-      "name": "i confess",
-      "url": "https://open.spotify.com/track/1HIZCdpxgYsYyCAqYi5Vtf"
     },
     {
       "added_at": "2025-01-17 05:00:29",
@@ -1635,6 +1603,38 @@
       "duration_ms": 150421,
       "name": "Op Shop Lover",
       "url": "https://open.spotify.com/track/1zXLuKyLq6GW4aueTHs3Bq"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "Everlasting Dance",
+        "url": "https://open.spotify.com/album/4lR6iy0jlBIctr2Pwg2Fe1"
+      },
+      "artists": [
+        {
+          "name": "Llunr",
+          "url": "https://open.spotify.com/artist/1r2EC1UsQXwtqVN9valnT2"
+        }
+      ],
+      "duration_ms": 203231,
+      "name": "Everlasting Dance",
+      "url": "https://open.spotify.com/track/7w4iy6gupo2mDSPlnvidGv"
+    },
+    {
+      "added_at": "2025-01-17 05:00:29",
+      "album": {
+        "name": "i confess",
+        "url": "https://open.spotify.com/album/7GKaoGhCA4LBmwRxnsMTdz"
+      },
+      "artists": [
+        {
+          "name": "Rangga Jones",
+          "url": "https://open.spotify.com/artist/330A2O2MYF4bWFjwM5PJ4z"
+        }
+      ],
+      "duration_ms": 193246,
+      "name": "i confess",
+      "url": "https://open.spotify.com/track/1HIZCdpxgYsYyCAqYi5Vtf"
     },
     {
       "added_at": "2025-01-17 05:00:29",

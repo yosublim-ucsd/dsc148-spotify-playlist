@@ -99,8 +99,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 89 | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/track/3aHLWrR5KpluBeRn9vKCHY) | [Netsky](https://open.spotify.com/artist/5TgQ66WuWkoQ2xYxaSTnVP), [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [Can't Speak \(feat\. Stealth\)](https://open.spotify.com/album/4bFKoubGC6thZpjFgqMeCA) | 4:13 |
 | 90 | [Famous](https://open.spotify.com/track/74KwNjGfuyXm6GDOB3EwML) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Social Club](https://open.spotify.com/artist/3Mwexru3SCRXLESvoj2zGM) | [Famous](https://open.spotify.com/album/3qyvXBZ0Y5lhbbQXm7rrpw) | 2:27 |
 | 91 | [Hollow](https://open.spotify.com/track/1wzkXmEypIDfp1tMJfrsII) | [Tom King](https://open.spotify.com/artist/3wmFlsEi0UJSvM8vwbO9oT) | [Confessions of a Lonely Heart](https://open.spotify.com/album/3AcdIC0iguxQRnrOx677k7) | 3:17 |
-| 92 | [Daydream](https://open.spotify.com/track/5gTmdhzrBZD7Of2418Loxv) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Daydream](https://open.spotify.com/album/5P1po53bsy5NJxQdHB59le) | 3:38 |
-| 93 | [Loved Somebody Else](https://open.spotify.com/track/03S5dBXGXyS8S9fyLNRS2P) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:12 |
+| 92 | [Loved Somebody Else](https://open.spotify.com/track/03S5dBXGXyS8S9fyLNRS2P) | [St\. Lundi](https://open.spotify.com/artist/3i94wxAKQqlJyiPLDmjNdH) | [The Island](https://open.spotify.com/album/1sDwclBLUytS3yXeelFMK9) | 3:12 |
+| 93 | [Daydream](https://open.spotify.com/track/5gTmdhzrBZD7Of2418Loxv) | [Leo Kalyan](https://open.spotify.com/artist/62lbPZcnp95moF4T4afcPn) | [Daydream](https://open.spotify.com/album/5P1po53bsy5NJxQdHB59le) | 3:38 |
 | 94 | [How Love Works](https://open.spotify.com/track/2meA2ysWGWZtpkD7uLYnHu) | [Allie Sherlock](https://open.spotify.com/artist/2yTmZ1PwFKkO0FjQp2flPl) | [How Love Works](https://open.spotify.com/album/5LZtErW9Uxo4cUSA11ZFHk) | 3:13 |
 | 95 | [strangers](https://open.spotify.com/track/6ErwR2KyOsB0xc4oYFMPkW) | [Alexander Stewart](https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT) | [bleeding heart](https://open.spotify.com/album/53eFX3b6OFPpKi2SEkS0au) | 2:21 |
 | 96 | [Air](https://open.spotify.com/track/24xjtgb8iTOIicQPckLhV7) | [JONES](https://open.spotify.com/artist/6Mn5HNY6bJSqK31cRa0uiv) | [37 Adventures Presents Odd Numbers Vol\. 1](https://open.spotify.com/album/26hQ13HaEXraD2GTYZ337y) | 4:02 |
@@ -151,4 +151,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFPHCzPqDlCiW.md) - [plain]
 | 141 | [Cry Baby](https://open.spotify.com/track/6CUhst2FN306kgbPZRDMlX) | [Vize Verza](https://open.spotify.com/artist/7866WqAIb0XvXRlRPTUCir) | [Cry Baby](https://open.spotify.com/album/3qw9vLNZSZVp0nspvfnYMQ) | 2:54 |
 | 142 | [Mother](https://open.spotify.com/track/6w0UT19dw0IRWtLMQyn1Sq) | [Chelcee Grimes](https://open.spotify.com/artist/1YQf1satVqyqSOp5FUvDKx) | [Mother](https://open.spotify.com/album/3PzaUA5NnjrDsDECx5tcSe) | 3:19 |
 
-Snapshot ID: `AbnOgAAAAACnAPQVy/g1NMGsnGBioPDH`
+Snapshot ID: `AbnUFgAAAAAriGzo/l/yqabs6CqW+F1H`

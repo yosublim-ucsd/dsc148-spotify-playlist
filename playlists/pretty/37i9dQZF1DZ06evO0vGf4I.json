@@ -1,12 +1,12 @@
 {
   "description": "This is Travis Scott. The essential tracks, all in one playlist.",
-  "num_followers": 1587776,
+  "num_followers": 1588026,
   "original_name": "This Is Travis Scott",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAACqjK8qtwGeYcRbXAfwzGdV",
+  "snapshot_id": "Z4rvAAAAAACBHJmjPtNE8H2Fk7foNlUY",
   "tracks": [
     {
       "added_at": null,
@@ -1051,8 +1051,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "pick up the phone",
-        "url": "https://open.spotify.com/album/4MDMfOdhV1IyoRnklwOHG9"
+        "name": "So Much Fun",
+        "url": "https://open.spotify.com/album/1bnHPO4dKK7IjvgrtVBcQh"
       },
       "artists": [
         {
@@ -1060,13 +1060,17 @@
           "url": "https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn"
         },
         {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        },
+        {
           "name": "Travis Scott",
           "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
         }
       ],
-      "duration_ms": 252262,
-      "name": "pick up the phone",
-      "url": "https://open.spotify.com/track/4GXl8l1MfZPf2GvpyRPJBf"
+      "duration_ms": 200186,
+      "name": "The London (feat. J. Cole & Travis Scott)",
+      "url": "https://open.spotify.com/track/3s4mrPrEFFPF0LmAfutW0n"
     }
   ],
   "unique_name": "This Is Travis Scott",

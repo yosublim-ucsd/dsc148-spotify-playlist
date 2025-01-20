@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8DvacitluwF.md) - [plain]
 
 > The best in South African and international R&B\. Cover: <a href="https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c?si=aTRPMMOnR666JmU6OOBv4g">Craig David</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,339 likes - 59 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,355 likes - 59 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

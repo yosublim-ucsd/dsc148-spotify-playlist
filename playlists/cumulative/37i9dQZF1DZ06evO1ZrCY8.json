@@ -221,6 +221,24 @@
     },
     {
       "album": {
+        "name": "Avalancha- Edici\u00f3n Especial",
+        "url": "https://open.spotify.com/album/5e1v1vALoEYeOLFaFwmxi4"
+      },
+      "artists": [
+        {
+          "name": "Heroes Del Silencio",
+          "url": "https://open.spotify.com/artist/3qAPxVwIQRBuz5ImPUxpZT"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60026,
+      "name": "Derivas",
+      "url": "https://open.spotify.com/track/0hPi8XhV0LpONFo1u4YK8D"
+    },
+    {
+      "album": {
         "name": "Avalancha",
         "url": "https://open.spotify.com/album/3AikSptzlt3YvobRSMqL68"
       },
@@ -740,7 +758,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-20",
       "duration_ms": 199960,
       "name": "La isla de las iguanas",
       "url": "https://open.spotify.com/track/6fiIgGcmSEQunpDJH4xvRj"

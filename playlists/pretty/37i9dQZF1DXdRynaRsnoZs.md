@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 
 > Gentle instrumental versions of holiday classics to help your little one relax when Christmas excitement is in full swing.
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,257 likes - 68 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,247 likes - 68 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRynaRsnoZs.md) - [plain]
 | 39 | [Upon a Star](https://open.spotify.com/track/6GOpUvPIGWW3CFBfVnd8uA) | [Yi Nantiro](https://open.spotify.com/artist/05aWuDQP5PwWhJEEsGNqYp) | [Upon a Star](https://open.spotify.com/album/0AGVGTxd6cjDO1bZXx1AJQ) | 1:56 |
 | 40 | [Petit Papa Noël](https://open.spotify.com/track/6OwstAX8yxSqc3itLP03hF) | [Brandon Mills](https://open.spotify.com/artist/0lfAQQLGm6TkTJ4JL9La2z) | [Petit Papa Noël](https://open.spotify.com/album/7HiT8CeoS3mij30fdTMxX1) | 2:33 |
 | 41 | [God Rest Ye Merry Gentlemen](https://open.spotify.com/track/6vuSZNsofMOAIce6zjrCrj) | [Holiday Harmonies](https://open.spotify.com/artist/51oGb0MvcLS0tt0RzoCqwe) | [Merry Slumbers](https://open.spotify.com/album/261SbdSqvX5wcImEufwi3Z) | 1:59 |
-| 42 | [Amazing Grace](https://open.spotify.com/track/1vvJlfnj5pfqpI5S8Yrq3e) | [Edwin Othello Excell](https://open.spotify.com/artist/5mOhoiRh7zP0udscnBUyGz), [Bae Bee](https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV) | [Little Star](https://open.spotify.com/album/46hkWWf7jd6FyDZwCwRPXm) | 2:47 |
+| 42 | [Amazing Grace](https://open.spotify.com/track/1vvJlfnj5pfqpI5S8Yrq3e) | [John Newton](https://open.spotify.com/artist/0s64WzYrpQpkuTa0V3hOPe), [Edwin Othello Excell](https://open.spotify.com/artist/5mOhoiRh7zP0udscnBUyGz), [Bae Bee](https://open.spotify.com/artist/1OYYgvoQMVHpU1HgW0ZduV) | [Little Star](https://open.spotify.com/album/46hkWWf7jd6FyDZwCwRPXm) | 2:47 |
 | 43 | [Mary’s Boy child](https://open.spotify.com/track/61VQF7MNKpHtCBZRr3TePx) | [Karen Joyce](https://open.spotify.com/artist/7yb60ZMXVj2XWFhMH8Yuxd) | [Christmas Harp For Babies](https://open.spotify.com/album/3kL1zKzvQYnnZbClSPZCoy) | 1:26 |
 | 44 | [Frosty the Snowman](https://open.spotify.com/track/5QLExSTWr6iDncCkWh7pfe) | [Shannon Stuart](https://open.spotify.com/artist/5vGxYS3YeeSFrXGEjFEDTj) | [A Joyous Christmas](https://open.spotify.com/album/0lzvUeQSMEAhZnASLb4RKB) | 3:05 |
 | 45 | [Away in a Manger](https://open.spotify.com/track/6EPQBJzVPciZVmXpQntlXa) | [The Masked Guitarist](https://open.spotify.com/artist/60JboBXHFYFoJk6e1TrtZT) | [Away in a Manger](https://open.spotify.com/album/6vrDuE2NlFHXYpLf3kV4zy) | 1:47 |

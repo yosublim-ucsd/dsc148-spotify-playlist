@@ -1,12 +1,12 @@
 {
   "description": "This is Tom Petty and the Heartbreakers. The essential tracks, all in one playlist.",
-  "num_followers": 886,
+  "num_followers": 887,
   "original_name": "This Is Tom Petty and the Heartbreakers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4hMAAAAAADJUMGPP3LAd2ypFoCSYy1J",
+  "snapshot_id": "Z4rvAAAAAAAkQq6lke+khFF2woOpMe3D",
   "tracks": [
     {
       "added_at": null,
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 144173,
-      "name": "I Need To Know",
-      "url": "https://open.spotify.com/track/2NNpI1bOvnhXcACZ4IdiM3"
+      "duration_ms": 184960,
+      "name": "Listen To Her Heart",
+      "url": "https://open.spotify.com/track/1cfnrxKDTz0kcKVL5EclFG"
     },
     {
       "added_at": null,
@@ -280,9 +280,9 @@
           "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         }
       ],
-      "duration_ms": 184960,
-      "name": "Listen To Her Heart",
-      "url": "https://open.spotify.com/track/1cfnrxKDTz0kcKVL5EclFG"
+      "duration_ms": 144173,
+      "name": "I Need To Know",
+      "url": "https://open.spotify.com/track/2NNpI1bOvnhXcACZ4IdiM3"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tom Petty And The Heatbreakers",
-        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 144026,
-      "name": "Anything That's Rock 'N' Roll",
-      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Southern Accents",
         "url": "https://open.spotify.com/album/2uslG8GJwri1ewdlK2Uuv4"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 321693,
       "name": "Rebels",
       "url": "https://open.spotify.com/track/1QN5cKoYlEkJ4aMBfqDqXe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tom Petty And The Heatbreakers",
+        "url": "https://open.spotify.com/album/0JBy4lxBlQIxMZ8qPMIJER"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 144026,
+      "name": "Anything That's Rock 'N' Roll",
+      "url": "https://open.spotify.com/track/1Un5JIygMYuV5OLVHERTQY"
     },
     {
       "added_at": null,
@@ -799,22 +799,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Long After Dark",
-        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
-      },
-      "artists": [
-        {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
-        }
-      ],
-      "duration_ms": 229000,
-      "name": "Straight Into Darkness",
-      "url": "https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/5fQEUm0GyrU0TDezWAR2sL"
       },
@@ -827,6 +811,22 @@
       "duration_ms": 210083,
       "name": "Help Me",
       "url": "https://open.spotify.com/track/2tKvPt023QVMNkkNqmTDap"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Long After Dark",
+        "url": "https://open.spotify.com/album/2ztfSQWXGq5RKDItE9E3oQ"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 229000,
+      "name": "Straight Into Darkness",
+      "url": "https://open.spotify.com/track/7qqxZi3lnnNNdoeUOwzN6g"
     }
   ],
   "unique_name": "This Is Tom Petty and the Heartbreakers",

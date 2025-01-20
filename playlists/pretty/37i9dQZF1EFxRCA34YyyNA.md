@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4oNeMtDTdrkrRRcFxrpg3w">Emmavie</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 62 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 373 likes - 62 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 | 18 | [Just My Luck](https://open.spotify.com/track/2rSXxpDN76Kgsym8HbJTHF) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o) | [Just My Luck](https://open.spotify.com/album/6rBMAoyqpMkUNw4GOLrZQe) | 2:33 |
 | 19 | [Deluxe \(Interlude\)](https://open.spotify.com/track/48XdG6vwDDD7hdNtHRaWNx) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 1:23 |
 | 20 | [Burn This House](https://open.spotify.com/track/2M9uOttjgDjRbz7DFIG9Gy) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 3:02 |
-| 21 | [Ilvu](https://open.spotify.com/track/0jmvjiicpgmx4MhoRjERJb) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Bespoke](https://open.spotify.com/album/3rAok3hudLEp4ztCJxIIUq) | 6:07 |
-| 22 | [I Hope We Never Break Up](https://open.spotify.com/track/6WZpSBUjZqneE74lzJ5SMn) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 4:10 |
+| 21 | [I Hope We Never Break Up](https://open.spotify.com/track/6WZpSBUjZqneE74lzJ5SMn) | [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [Ego Ella May](https://open.spotify.com/artist/7ANeFdhioipksT9lqg0Ay6) | [Honeymoon](https://open.spotify.com/album/6R0n0ocKsjOlz4LwKz2gCr) | 4:10 |
+| 22 | [Ilvu](https://open.spotify.com/track/0jmvjiicpgmx4MhoRjERJb) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Bespoke](https://open.spotify.com/album/3rAok3hudLEp4ztCJxIIUq) | 6:07 |
 | 23 | [Still Hungry](https://open.spotify.com/track/2LzBthJW5fIHGHH7gtr7in) | [Melo\-Zed](https://open.spotify.com/artist/6c5n3tYI05A05V4u4dxMuv), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Eleven](https://open.spotify.com/album/17WoKlxY15L7vUuwplGgSn) | 2:34 |
 | 24 | [4AM Disco](https://open.spotify.com/track/6Z8yOh7nsgPX2lcPBRcVwv) | [Her Songs](https://open.spotify.com/artist/7cehRwLzdNrpS7mS8a4JZO), [Marie Dahlstrom](https://open.spotify.com/artist/49NfOTfSPhrb0sJBVYS1iM), [Emily C\. Browning](https://open.spotify.com/artist/3mUNIibyzxNjokXOxLC9yg), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f), [The Naked Eye](https://open.spotify.com/artist/44haLO0b3bH4Gpj1upF36o), [Dani Murcia](https://open.spotify.com/artist/0sZBq7kUYfWPbyGrXwOdvO) | [4AM Disco](https://open.spotify.com/album/5Kb9LY0D6xNgDj3Sr5pOmy) | 4:06 |
 | 25 | [Nothing Around](https://open.spotify.com/track/5hRM9gFlIa6fiZj5ykaRk3) | [Barney Artist](https://open.spotify.com/artist/5iRM7qYip6UNfQaPe2reCz), [Emmavie](https://open.spotify.com/artist/30SZetOBMEael27tboxz7f) | [Painting Sounds](https://open.spotify.com/album/50Ov4yZEvCvWFYF9ZMWRJA) | 3:34 |
@@ -71,4 +71,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxRCA34YyyNA.md) - [plain]
 | 61 | [Porridge](https://open.spotify.com/track/1VUmV4rdl3xvgWWNAxj4BL) | [BR!DGE](https://open.spotify.com/artist/66Bbc1SY66jhHPGL6Bxi3M) | [Porridge](https://open.spotify.com/album/2eT03IF6xJ0468g7CM3yc7) | 2:06 |
 | 62 | [In Charge](https://open.spotify.com/track/2Le8ZZfiAX6qBCKC8LJc6u) | [Kelly Nova](https://open.spotify.com/artist/5b6PgL3qbqScpDZ2qM8aQr) | [Kelly Nova](https://open.spotify.com/album/6TLzKBLO1nHKUqq9dOeyXt) | 2:38 |
 
-Snapshot ID: `AbnOigAAAACqq9SruhLrTsE8jS45LzbT`
+Snapshot ID: `AbnUIAAAAAB3G64IPhV8l8Woe2IUfsdS`

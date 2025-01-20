@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 
 > This is Taio Cruz\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,703 likes - 43 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,710 likes - 43 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 14 | [Take Me Back](https://open.spotify.com/track/4TdrHKdMJYlKDuPBenJomu) | [Tinchy Stryder](https://open.spotify.com/artist/7h2Y48bG543JDzEed383cx), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Catch 22](https://open.spotify.com/album/768phjrQ22pDyr1oQoW0bY) | 3:34 |
 | 15 | [Fast Car](https://open.spotify.com/track/6aj2PLLML1AF6Ja9tfULCk) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [The Fast Hits EP](https://open.spotify.com/album/5whYqJlJ87Zuyv665iZRZc) | 3:45 |
 | 16 | [I Can Be](https://open.spotify.com/track/49YfIDm5WBGKyUxL8Vt5FV) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:45 |
-| 17 | [Booty Bounce \- Extended Mix](https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf) | 4:00 |
-| 18 | [Dirty Picture](https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:38 |
+| 17 | [Dirty Picture](https://open.spotify.com/track/00qyVgLK2j92HYoFaNCnVD) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Kesha](https://open.spotify.com/artist/6LqNN22kT3074XbTVUrhzX) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:38 |
+| 18 | [Booty Bounce \- Extended Mix](https://open.spotify.com/track/2RQucqpk2BScAuKCnKOIrG) | [Tujamo](https://open.spotify.com/artist/2vVNxGBvKRQMWwI5c8KmYh), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Booty Bounce](https://open.spotify.com/album/7lEJMqkcdjlwBhfoTvpSjf) | 4:00 |
 | 19 | [Signs](https://open.spotify.com/track/3bOoVnf3pItMfU5PMossd9) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Signs](https://open.spotify.com/album/0iimd0kXrAa4g8wJ7piCXq) | 2:53 |
 | 20 | [Moving On](https://open.spotify.com/track/1Go2VujfXEVvJ0eZ1cMrIU) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:51 |
 | 21 | [Do What You Like](https://open.spotify.com/track/7rvGF77zKLQ6Z8AxBiWhnt) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Do What You Like](https://open.spotify.com/album/1JJDtUAw0hbuaq6mo4N4zy) | 3:20 |
-| 22 | [Shotcaller](https://open.spotify.com/track/0lDKFNICklCakXQibsADpK) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:24 |
-| 23 | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR) | 3:57 |
+| 22 | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/track/5qmR4IEKBUpgPa14pGuWuS) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv) | [Row The Body \(feat\. French Montana\)](https://open.spotify.com/album/0SK5cDgoWVerVQbHne2epR) | 3:57 |
+| 23 | [Shotcaller](https://open.spotify.com/track/0lDKFNICklCakXQibsADpK) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [TY.O \(International Version\)](https://open.spotify.com/album/0TjgUvNEDN2PegfZVkoggi) | 3:24 |
 | 24 | [I'll Never Love Again](https://open.spotify.com/track/5PmRkzt9g5o3GXqWgl12ES) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Departure](https://open.spotify.com/album/2j6ELt08ZpDnHJWJsr4Cpp) | 3:48 |
 | 25 | [Come On Girl](https://open.spotify.com/track/5Ej3OcVHAwIMVwiLo0broE) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC), [Luciana](https://open.spotify.com/artist/4ugGMtXC28CVR5hlYJy9wV) | [The Rokstarr Hits Collection](https://open.spotify.com/album/0eGvq1J5Ke7VlLLOYIlY4k) | 3:32 |
 | 26 | [Me On You](https://open.spotify.com/track/3nD6hpOexPDS1LHtoL7bPM) | [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Me On You](https://open.spotify.com/album/59rLZXhHthZStCJJbn1Rme) | 3:16 |
@@ -52,4 +52,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO40DPwJ.md) - [plain]
 | 42 | [Imagine \- Big Brothers Big Sisters Charity Single](https://open.spotify.com/track/1YPrvXgBooolvvFZG8Mk7p) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [Imagine](https://open.spotify.com/album/0eGpcYy98DaVtXiJh44tdj) | 3:00 |
 | 43 | [She's Always Gone! \- NapsterLive](https://open.spotify.com/track/2kfko5FM1exgSB3JoaNZNs) | [Taio Cruz](https://open.spotify.com/artist/6MF9fzBmfXghAz953czmBC) | [NapsterLive Sessions](https://open.spotify.com/album/2Ba60UFtuZrNWu4KLgQQpW) | 3:33 |
 
-Snapshot ID: `Z4mdgAAAAACGd3dFtwClieO5Pomu5wi6`
+Snapshot ID: `Z4rvAAAAAACmT3S3ngna730VZaLSI5E3`

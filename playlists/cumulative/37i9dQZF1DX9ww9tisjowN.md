@@ -4,7 +4,7 @@
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\.  cover: Cover: tuki.
 
-663 songs - 1 day 14 hr 1 min
+664 songs - 1 day 14 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -272,6 +272,7 @@
 | [plan](https://open.spotify.com/track/1vTx59PSh5jHw2WmEpTgWN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/1c7dUJR1HsiVLLLR901iMr) | 3:18 | 2023-07-11 | 2023-07-13 |
 | [plan](https://open.spotify.com/track/3LD7wvhxqh0Z8CWberSsBN) | [Saori Hayami](https://open.spotify.com/artist/32UDgij5Tm7EtyRRCC1JTN) | [plan](https://open.spotify.com/album/6ZzOLipxchTFGwYeb0w6SS) | 3:18 | 2023-07-11 | 2023-07-21 |
 | [Planet](https://open.spotify.com/track/2JBvAB9MRddsTnvKPxO1bk) | [a子](https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4) | [Planet](https://open.spotify.com/album/1Rz5hGKTRAn5NaBEoasR5U) | 3:36 | 2024-02-20 | 2024-03-22 |
+| [Plazma](https://open.spotify.com/track/1KLg01cjnRsENoFhJWUTSd) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [Plazma](https://open.spotify.com/album/3fEm98bR4ojbm2GBqzhTGp) | 3:00 | 2025-01-19 |  |
 | [Please Play\-Bite](https://open.spotify.com/track/0aCqK1p6zd3HsI4dLxOpny) | [PinocchioP](https://open.spotify.com/artist/3b7jPCedJ2VH4l4rcOTvNC) | [META](https://open.spotify.com/album/4iBwkssXTjrecC7MBKVJ6a) | 3:22 | 2023-05-16 | 2023-07-23 |
 | [POP IN 2](https://open.spotify.com/track/6WGrtUmFwTaP5G8AeegajH) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [ルビー\(CV:伊駒ゆりえ\)](https://open.spotify.com/artist/0NDjPCmjM76Dilt0dKT9gs), [有馬かな\(CV:潘めぐみ\)](https://open.spotify.com/artist/7HPTPwYB3g0RAmuUr2Xz7q), [MEMちょ\(CV:大久保瑠美\)](https://open.spotify.com/artist/1l8zX829EhW28MBxPLLugx) | [TVアニメ「【推しの子】」キャラクターソングCD \(Vol.4\)](https://open.spotify.com/album/5Uuyj9BXLVhjiz0z033fpp) | 4:27 | 2024-11-07 | 2024-12-05 |
 | [Prince Shoutoku](https://open.spotify.com/track/4z85bLqYNMp0ixpiARiCgC) | [WEDNESDAY CAMPANELLA](https://open.spotify.com/artist/0bp9CvkjQYhUJvWRHjFRWI) | [Prince Shoutoku](https://open.spotify.com/album/0pF7LdM6RM99pJZXq9dOIN) | 3:29 | 2023-10-19 | 2023-12-13 |
@@ -487,7 +488,7 @@
 | [ヒロイン](https://open.spotify.com/track/6ED3HJaMveomLnJDwDSQ37) | [imase](https://open.spotify.com/artist/4TaSvnT5o4REFwhqfrmK27) | [ヒロイン](https://open.spotify.com/album/4ZUaCxpjZyZjesAOJYPyv5) | 3:22 | 2023-12-14 | 2024-01-17 |
 | [ビビデバ](https://open.spotify.com/track/0ShUHmWaz48KgyjaOG7Tpv) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3hbygZqoW6AKLAclvlR0zA) | 2:45 | 2024-03-28 | 2024-10-25 |
 | [ビビデバ](https://open.spotify.com/track/0Gp8MWnUzS5V2lvTr25c2A) | [Hoshimachi Suisei](https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX) | [ビビデバ](https://open.spotify.com/album/3E0lLznAOWAiEWizIzWzJn) | 2:45 | 2024-12-04 |  |
-| [ピッカーン！](https://open.spotify.com/track/1QidgC1vyuG6053IY5S4UG) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto), [松田里奈](https://open.spotify.com/artist/6G9h9p39TzvYDbzhxlrrog), [森田ひかる](https://open.spotify.com/artist/3y1DM5BpZqr9CW49VYAeMb) | [ピッカーン！](https://open.spotify.com/album/2e722N2XGcKUu87PYQdbIX) | 2:46 | 2024-10-17 |  |
+| [ピッカーン！](https://open.spotify.com/track/1QidgC1vyuG6053IY5S4UG) | [Giga](https://open.spotify.com/artist/73agKiU7x2AtIEH2IAK2iS), [TeddyLoid](https://open.spotify.com/artist/3GfNJrDTZY7voXPDx8gH9I), [櫻坂46](https://open.spotify.com/artist/0Ti7MfCiVVQAK8zLSiqlto), [松田里奈](https://open.spotify.com/artist/6G9h9p39TzvYDbzhxlrrog), [森田ひかる](https://open.spotify.com/artist/3y1DM5BpZqr9CW49VYAeMb) | [ピッカーン！](https://open.spotify.com/album/2e722N2XGcKUu87PYQdbIX) | 2:46 | 2024-10-17 | 2025-01-20 |
 | [ファジーサマー](https://open.spotify.com/track/3vzDJPjoY3rjBK27rHzi91) | [Lucky Kilimanjaro](https://open.spotify.com/artist/2V8UZPMR1EbkXhzvEGBTrV) | [Kimochy Season](https://open.spotify.com/album/2jg0b7paauECp2dSraJqul) | 2:55 | 2023-07-06 | 2023-09-06 |
 | [ファジーネーブル](https://open.spotify.com/track/7gUuCeZLFynSj28GCjoiGG) | [Conton Candy](https://open.spotify.com/artist/6FuFgQvi3GNYr4yDuh4Fxq) | [ファジーネーブル](https://open.spotify.com/album/4XCDzm6lz0QvcTVozUmNHe) | 3:57 | 2023-07-20 | 2023-12-08 |
 | [ファタール \- Fatal](https://open.spotify.com/track/7gJD9BarjoFwL2BNQ0rpWT) | [GEMN](https://open.spotify.com/artist/7AUc6z9aVJftqLkiWdQ1ew), [中島健人](https://open.spotify.com/artist/3KJigfhLjMfuE2HXsgXbln), [Tatsuya Kitani](https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv) | [ファタール \- Fatal](https://open.spotify.com/album/6OBk036VgLGkxpggcFPqJL) | 3:39 | 2024-07-04 | 2025-01-17 |

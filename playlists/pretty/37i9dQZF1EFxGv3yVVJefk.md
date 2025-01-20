@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/02Zegjy92TEyYM8PSxvf8Y">Luther Vandross</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 46 likes - 119 songs - 9 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 47 likes - 119 songs - 9 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 48 | [You Stopped Loving Me](https://open.spotify.com/track/6o2TSnqYX01Q73V8uj38CU) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Too Much](https://open.spotify.com/album/1B4oPgG5ljWTRxsKcTHAYn) | 5:15 |
 | 49 | [A Kiss for Christmas](https://open.spotify.com/track/5UwPaxYB7q3FNBHWKYEfH5) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [This Is Christmas](https://open.spotify.com/album/6QkoN5LPk7PbD5c9RVrey6) | 4:12 |
 | 50 | [Once Were Lovers](https://open.spotify.com/track/2ptSybODTG23E2YBXAjhnZ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:34 |
-| 51 | [Apologize](https://open.spotify.com/track/0QA40eWNCs6gBrJMaMDkgR) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:59 |
-| 52 | [I Know](https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:22 |
+| 51 | [I Know](https://open.spotify.com/track/6PzHZ2el11aX8u3vMqH73J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Stevie Wonder](https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi) | [I Know](https://open.spotify.com/album/7tcFetI7thjbKImCIXIDmT) | 5:22 |
+| 52 | [Apologize](https://open.spotify.com/track/0QA40eWNCs6gBrJMaMDkgR) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Dance With My Father](https://open.spotify.com/album/43Ci8cugIRwfmkXEyEgfVM) | 4:59 |
 | 53 | [It's over Now](https://open.spotify.com/track/3eoRFS0WMwa06mGOnyAhfk) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [The Night I Fell In Love](https://open.spotify.com/album/20okHMjdnVL1rDtgPo81vY) | 6:10 |
 | 54 | [Nobody to Love](https://open.spotify.com/track/5GTyBBFKk8iLG2Ua7N4J4B) | [Ed Star](https://open.spotify.com/artist/53LXViJ9TkguivAZnjdB34) | [I Need You Darling](https://open.spotify.com/album/75NAc682L532oVxgVbesGT) | 4:03 |
 | 55 | [See Me](https://open.spotify.com/track/3EhM8CVxZwctj3eqiIBhax) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Give Me The Reason](https://open.spotify.com/album/3uWgCaZ1ixRuMvBZniwxJj) | 5:30 |
@@ -110,8 +110,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 100 | [I Don't Want to Work](https://open.spotify.com/track/6jzBXnXtBePt0SkbIIRtGp) | [Dumb As Rocks](https://open.spotify.com/artist/1Ix6OrTLq3TNWrlwRnVRnx) | [Low IQ](https://open.spotify.com/album/6kJGxMqpbNQpn6dL0geSfx) | 2:50 |
 | 101 | [Lady, Lady](https://open.spotify.com/track/3TTfpRIKwp6MjyvLqy3W3J) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 5:33 |
 | 102 | [Get Back to Love](https://open.spotify.com/track/65yhaCP919ZyVzb1hRmsZe) | [Lisa Fischer](https://open.spotify.com/artist/75NLTo547GvC8W5gmRDLLn) | [So Intense](https://open.spotify.com/album/4z1GsR89d4zTesFNiOhS6o) | 4:32 |
-| 103 | [All That's Got to Go \(feat\. Da Brat & LaTocha Scott\)](https://open.spotify.com/track/25bkCSNI32pJd7oLVO5s7d) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [LaTocha Scott](https://open.spotify.com/artist/0reX7t2M37jLqLy1Nj1FpT) | [Life In 1472 \(The Original Soundtrack\)](https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt) | 4:07 |
-| 104 | [Everybody Rejoice \- From the Tony Award Winning Musical, "The Wiz"](https://open.spotify.com/track/5uopS4wpKT3UYYWeNFF6vG) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 3:24 |
+| 103 | [Everybody Rejoice \- From the Tony Award Winning Musical, "The Wiz"](https://open.spotify.com/track/5uopS4wpKT3UYYWeNFF6vG) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP), [Luther](https://open.spotify.com/artist/0LK2gak2mwCnKaINYPl8iM) | [Luther](https://open.spotify.com/album/06bM5GxUptd8xlB6ORNjdG) | 3:24 |
+| 104 | [All That's Got to Go \(feat\. Da Brat & LaTocha Scott\)](https://open.spotify.com/track/25bkCSNI32pJd7oLVO5s7d) | [Jermaine Dupri](https://open.spotify.com/artist/6nfYGe7IIuuP5bMY1jkJP6), [Da Brat](https://open.spotify.com/artist/2I1bnmb9VQEQGKHxvr0gSf), [LaTocha Scott](https://open.spotify.com/artist/0reX7t2M37jLqLy1Nj1FpT) | [Life In 1472 \(The Original Soundtrack\)](https://open.spotify.com/album/4gBlh3imgWjnD275XauGwt) | 4:07 |
 | 105 | [My Everything](https://open.spotify.com/track/3wEIqA7HA3v28vy6FEHeIc) | [Dave Hollister](https://open.spotify.com/artist/5Z1reBuaReg2pg72I2mnMm) | [Things In The Game Done Changed](https://open.spotify.com/album/4RAdejYefemd3MheNb0bNF) | 4:24 |
 | 106 | [Hustle](https://open.spotify.com/track/7ELbso0g9Ss0i11veHR2UJ) | [Luther Vandross](https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP) | [Never Let Me Go](https://open.spotify.com/album/6LKej6X33QEOH1IIL9FWX5) | 5:45 |
 | 107 | [I Do It Cause I Like](https://open.spotify.com/track/1zSe5xiIsbyy9c3ZKHDe7h) | [Dionne Warwick](https://open.spotify.com/artist/2JSjCHK79gdaiPWdKiNUNp) | [How Many Times Can We Say Goodbye \(Expanded Edition\)](https://open.spotify.com/album/66JPMpKGr5m2FIAqJdLwjN) | 4:59 |
@@ -128,4 +128,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxGv3yVVJefk.md) - [plain]
 | 118 | [A Brand New Day \- Radio Mix](https://open.spotify.com/track/4NrRL6djROkYxWrfYidbee) | [Emerald](https://open.spotify.com/artist/4PdFh3s3gKyoCB1Pcpci9l) | [A Brand New Day](https://open.spotify.com/album/3qkEyGnitBPZpFL9aqimXl) | 3:14 |
 | 119 | [In This Lonely Hour](https://open.spotify.com/track/1lYOzU0fzs3yQuhXB9bHlj) | [Delores Hall](https://open.spotify.com/artist/0EpH9VlSM5qidHHnDORvS6) | [Hall\-Mark!!](https://open.spotify.com/album/7vWxgfco70D8I6ZslLZHcd) | 2:34 |
 
-Snapshot ID: `AbnOgAAAAAD1mZr25tYGTz5F1evZ3EVV`
+Snapshot ID: `AbnUIAAAAADPf+Zev9oIMa4kZGmyv6Tx`

@@ -1,6 +1,6 @@
 {
   "description": "As belas novidades da MPB. Foto: 5 a seco",
-  "num_followers": 348812,
+  "num_followers": 348847,
   "original_name": "Divina MPB",
   "owner": {
     "name": "Spotify",
@@ -303,26 +303,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Pagode da Mart'n\u00e1lia",
-        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
-      },
-      "artists": [
-        {
-          "name": "Mart'n\u00e1lia",
-          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180982,
-      "name": "Cheia de Manias",
-      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Baila Comigo",
         "url": "https://open.spotify.com/album/2gpvZxbAztzFJMpLUtNK3H"
       },
@@ -339,6 +319,26 @@
       "duration_ms": 186341,
       "name": "Baila Comigo",
       "url": "https://open.spotify.com/track/4mfKqbqZKEt4kPaRiUKKbL"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Pagode da Mart'n\u00e1lia",
+        "url": "https://open.spotify.com/album/6TuPkpocUpWzhr8Q91vv1Z"
+      },
+      "artists": [
+        {
+          "name": "Mart'n\u00e1lia",
+          "url": "https://open.spotify.com/artist/4EUuQxMNowMUEs5gu4BzBX"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 180982,
+      "name": "Cheia de Manias",
+      "url": "https://open.spotify.com/track/6m7oHKGEW3cMHrYES1xIbC"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -403,22 +403,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "DO MEU QUARTO",
-        "url": "https://open.spotify.com/album/7vaqb7TJAW7D2GOJaeR5h9"
-      },
-      "artists": [
-        {
-          "name": "Julia Mestre",
-          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
-        }
-      ],
-      "duration_ms": 123750,
-      "name": "dona da minha cabe\u00e7a",
-      "url": "https://open.spotify.com/track/1y1pvjXU0iolEXqQuJ8gsY"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Vento",
         "url": "https://open.spotify.com/album/5bbVhxfRTR1e1Ps0XYOWkK"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 172329,
       "name": "Vento",
       "url": "https://open.spotify.com/track/6VQ5R3OQeQjwEwxPPlkNMi"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "DO MEU QUARTO",
+        "url": "https://open.spotify.com/album/7vaqb7TJAW7D2GOJaeR5h9"
+      },
+      "artists": [
+        {
+          "name": "Julia Mestre",
+          "url": "https://open.spotify.com/artist/1FnGKreDca8xq3juSi5hAE"
+        }
+      ],
+      "duration_ms": 123750,
+      "name": "dona da minha cabe\u00e7a",
+      "url": "https://open.spotify.com/track/1y1pvjXU0iolEXqQuJ8gsY"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -511,6 +511,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
+      },
+      "artists": [
+        {
+          "name": "Ana Carolina",
+          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
+        }
+      ],
+      "duration_ms": 192108,
+      "name": "All Star - Ao Vivo",
+      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "ARRASTO",
         "url": "https://open.spotify.com/album/0RiUWDzIc1A00rAH5cOQS7"
       },
@@ -527,22 +543,6 @@
       "duration_ms": 186700,
       "name": "ARRASTO",
       "url": "https://open.spotify.com/track/2BZWJTYN9UmGMcX2DGRIbK"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Ana Canta C\u00e1ssia - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0tko43L76jX04WzhfWeeyU"
-      },
-      "artists": [
-        {
-          "name": "Ana Carolina",
-          "url": "https://open.spotify.com/artist/4HP9KltldfmkH2M2pQozzN"
-        }
-      ],
-      "duration_ms": 192108,
-      "name": "All Star - Ao Vivo",
-      "url": "https://open.spotify.com/track/1wpgey8upO8HoGdFbEzGJd"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -703,18 +703,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Multicolorida",
-        "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
+        "name": "Perto de Mim",
+        "url": "https://open.spotify.com/album/6cC2ji5TGHyOcAglcwBDc6"
       },
       "artists": [
         {
-          "name": "Matheus de Bezerra",
-          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
+          "name": "Zeca Baleiro",
+          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
+        },
+        {
+          "name": "Necka Ayala",
+          "url": "https://open.spotify.com/artist/08g55FerICNj0oJ5Jkhmn3"
         }
       ],
-      "duration_ms": 256344,
-      "name": "Multicolorida",
-      "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
+      "duration_ms": 200428,
+      "name": "Perto de Mim",
+      "url": "https://open.spotify.com/track/2Kw52vEmPePbbJALpaJawB"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -739,42 +743,18 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Perto de Mim",
-        "url": "https://open.spotify.com/album/6cC2ji5TGHyOcAglcwBDc6"
+        "name": "Multicolorida",
+        "url": "https://open.spotify.com/album/6zPdoi602lDbfG4I6YBMfy"
       },
       "artists": [
         {
-          "name": "Zeca Baleiro",
-          "url": "https://open.spotify.com/artist/7LunbFWIm3RPQpywjOSSd8"
-        },
-        {
-          "name": "Necka Ayala",
-          "url": "https://open.spotify.com/artist/08g55FerICNj0oJ5Jkhmn3"
+          "name": "Matheus de Bezerra",
+          "url": "https://open.spotify.com/artist/0D9P5Hj1eUHLaBRMykKzIm"
         }
       ],
-      "duration_ms": 200428,
-      "name": "Perto de Mim",
-      "url": "https://open.spotify.com/track/2Kw52vEmPePbbJALpaJawB"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Eu Vivendo Nossa Vida",
-        "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
-      },
-      "artists": [
-        {
-          "name": "Tom Karabachian",
-          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
-        },
-        {
-          "name": "Chico C\u00e9sar",
-          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
-        }
-      ],
-      "duration_ms": 194494,
-      "name": "Eu Vivendo Nossa Vida",
-      "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
+      "duration_ms": 256344,
+      "name": "Multicolorida",
+      "url": "https://open.spotify.com/track/084miBBKpKgs5AoQr0nfTh"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -795,6 +775,26 @@
       "duration_ms": 237133,
       "name": "Viens Danser",
       "url": "https://open.spotify.com/track/27jQ2ok7oxDKT0AQV7c32l"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Eu Vivendo Nossa Vida",
+        "url": "https://open.spotify.com/album/0VDAhfXxnVJg5O5geqBzg0"
+      },
+      "artists": [
+        {
+          "name": "Tom Karabachian",
+          "url": "https://open.spotify.com/artist/3SRd2GBL1Hpandxreo3kdW"
+        },
+        {
+          "name": "Chico C\u00e9sar",
+          "url": "https://open.spotify.com/artist/3vlUveVfzPXzhiPGjHHxOH"
+        }
+      ],
+      "duration_ms": 194494,
+      "name": "Eu Vivendo Nossa Vida",
+      "url": "https://open.spotify.com/track/21sQjtZhCiK2wO6UwnaqKH"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -899,6 +899,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Salom\u00e9",
+        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
+      },
+      "artists": [
+        {
+          "name": "Matheus Fonseca",
+          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
+        }
+      ],
+      "duration_ms": 236522,
+      "name": "Salom\u00e9",
+      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Arco",
         "url": "https://open.spotify.com/album/01M3hK5oyx0PnomcoeZXKh"
       },
@@ -915,22 +931,6 @@
       "duration_ms": 200164,
       "name": "Todo o Amor Que Houver Nessa Vida",
       "url": "https://open.spotify.com/track/57HsNsO2Up5WlLcoyugpcD"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "Salom\u00e9",
-        "url": "https://open.spotify.com/album/3l1VTAtEOZuSu4HZaksa7K"
-      },
-      "artists": [
-        {
-          "name": "Matheus Fonseca",
-          "url": "https://open.spotify.com/artist/5nR2xFgBpWLB6h59dl5fss"
-        }
-      ],
-      "duration_ms": 236522,
-      "name": "Salom\u00e9",
-      "url": "https://open.spotify.com/track/0JOmgVgk2o6FxR8dyxoSaD"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -971,22 +971,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
-        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
-      },
-      "artists": [
-        {
-          "name": "Nando Reis",
-          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
-        }
-      ],
-      "duration_ms": 273139,
-      "name": "Depois de Amanh\u00e3",
-      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Olho D'\u00c1gua",
         "url": "https://open.spotify.com/album/7fCIDiLSw43YDw7suMRqkb"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 188064,
       "name": "Deleita",
       "url": "https://open.spotify.com/track/6BZGnPjuZTH8znxY7Zp0my"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
+        "name": "Uma Estrela Misteriosa Revelar\u00e1 o Segredo",
+        "url": "https://open.spotify.com/album/0GHZqCGxBtEO3Z4cCIpPJD"
+      },
+      "artists": [
+        {
+          "name": "Nando Reis",
+          "url": "https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy"
+        }
+      ],
+      "duration_ms": 273139,
+      "name": "Depois de Amanh\u00e3",
+      "url": "https://open.spotify.com/track/5rqq2EhxqkJP77zD1o4FKl"
     },
     {
       "added_at": "2025-01-10 03:00:26",
@@ -1287,6 +1287,26 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "Cada Canto",
+        "url": "https://open.spotify.com/album/75d4o6pyNBbBTsV55gT646"
+      },
+      "artists": [
+        {
+          "name": "SERUMSOL",
+          "url": "https://open.spotify.com/artist/1DXQIgW0kuRVVD9ioFnePd"
+        },
+        {
+          "name": "Maraia Takai",
+          "url": "https://open.spotify.com/artist/1bKvSW0ik3iCkophyJbo5B"
+        }
+      ],
+      "duration_ms": 195152,
+      "name": "Cada Canto",
+      "url": "https://open.spotify.com/track/22KAEl2Y4umP55nLPA2p2y"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Pouca Bobagem",
         "url": "https://open.spotify.com/album/0ZCtDkmyUzI6rEqowlSwEq"
       },
@@ -1327,26 +1347,6 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
-        "name": "Cada Canto",
-        "url": "https://open.spotify.com/album/75d4o6pyNBbBTsV55gT646"
-      },
-      "artists": [
-        {
-          "name": "SERUMSOL",
-          "url": "https://open.spotify.com/artist/1DXQIgW0kuRVVD9ioFnePd"
-        },
-        {
-          "name": "Maraia Takai",
-          "url": "https://open.spotify.com/artist/1bKvSW0ik3iCkophyJbo5B"
-        }
-      ],
-      "duration_ms": 195152,
-      "name": "Cada Canto",
-      "url": "https://open.spotify.com/track/22KAEl2Y4umP55nLPA2p2y"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
         "name": "Coragem",
         "url": "https://open.spotify.com/album/1nlkvskl6untUR98IWBiZP"
       },
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2025-01-10 03:00:26",
       "album": {
+        "name": "E se tudo terminasse em amor?",
+        "url": "https://open.spotify.com/album/12lHao90jDYn5Ui7sWlglq"
+      },
+      "artists": [
+        {
+          "name": "Pedro Lu\u00eds",
+          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
+        }
+      ],
+      "duration_ms": 222313,
+      "name": "Abra\u00e7o dos Amantes",
+      "url": "https://open.spotify.com/track/0ZM4iAakviZSmFSC15frt6"
+    },
+    {
+      "added_at": "2025-01-10 03:00:26",
+      "album": {
         "name": "Sempre Bela",
         "url": "https://open.spotify.com/album/2DWMdRCqRbUuBph8kdFDxX"
       },
@@ -1399,22 +1415,6 @@
       "duration_ms": 209540,
       "name": "Sempre Bela",
       "url": "https://open.spotify.com/track/1mVQA9HBCjjehGJ08zBhwt"
-    },
-    {
-      "added_at": "2025-01-10 03:00:26",
-      "album": {
-        "name": "E se tudo terminasse em amor?",
-        "url": "https://open.spotify.com/album/12lHao90jDYn5Ui7sWlglq"
-      },
-      "artists": [
-        {
-          "name": "Pedro Lu\u00eds",
-          "url": "https://open.spotify.com/artist/53I3ei5phGm4Z89ge81X4O"
-        }
-      ],
-      "duration_ms": 222313,
-      "name": "Abra\u00e7o dos Amantes",
-      "url": "https://open.spotify.com/track/0ZM4iAakviZSmFSC15frt6"
     },
     {
       "added_at": "2025-01-10 03:00:26",

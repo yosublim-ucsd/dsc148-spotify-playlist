@@ -1,6 +1,6 @@
 {
   "description": "Sabah al khair, start your day with extra cardamom and mellow tunes.",
-  "num_followers": 200759,
+  "num_followers": 200829,
   "original_name": "Arabic Coffee",
   "owner": {
     "name": "Spotify",
@@ -111,62 +111,6 @@
     {
       "added_at": "2024-12-31 08:06:12",
       "album": {
-        "name": "Bi Saraha",
-        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
-      },
-      "artists": [
-        {
-          "name": "Abeer Nehme",
-          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
-        }
-      ],
-      "duration_ms": 186461,
-      "name": "Bala Ma Nhess",
-      "url": "https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx"
-    },
-    {
-      "added_at": "2024-12-31 08:06:12",
-      "album": {
-        "name": "Roma",
-        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
-      },
-      "artists": [
-        {
-          "name": "Cairokee",
-          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
-        },
-        {
-          "name": "Sara Moullablad",
-          "url": "https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM"
-        }
-      ],
-      "duration_ms": 257656,
-      "name": "Nefsy Ahbek",
-      "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
-    },
-    {
-      "added_at": "2024-12-31 08:06:12",
-      "album": {
-        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
-      },
-      "artists": [
-        {
-          "name": "Abdulrahman Mohammed",
-          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
-        },
-        {
-          "name": "Mohab Omer",
-          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
-        }
-      ],
-      "duration_ms": 291440,
-      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
-      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
-    },
-    {
-      "added_at": "2024-12-31 08:06:12",
-      "album": {
         "name": "Khedni Habibi",
         "url": "https://open.spotify.com/album/4eaHnQq1UQy7lPXBQMhv4p"
       },
@@ -179,6 +123,22 @@
       "duration_ms": 303906,
       "name": "Matrahak Bi Albi",
       "url": "https://open.spotify.com/track/0f6iJjj6MqYZcFoftpjuwp"
+    },
+    {
+      "added_at": "2024-12-31 08:06:12",
+      "album": {
+        "name": "Bi Saraha",
+        "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
+      },
+      "artists": [
+        {
+          "name": "Abeer Nehme",
+          "url": "https://open.spotify.com/artist/22VZmipYTMSoNzvBaWkVwF"
+        }
+      ],
+      "duration_ms": 186461,
+      "name": "Bala Ma Nhess",
+      "url": "https://open.spotify.com/track/5bQBkD9DriF3J4zSP45Wwx"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -227,6 +187,46 @@
       "duration_ms": 195906,
       "name": "Fi 7eta Tanya",
       "url": "https://open.spotify.com/track/2PY7SkaaxjjRtxiLMGgc2f"
+    },
+    {
+      "added_at": "2024-12-31 08:06:12",
+      "album": {
+        "name": "Roma",
+        "url": "https://open.spotify.com/album/6ucy4v9cUETA0yRQx8D34F"
+      },
+      "artists": [
+        {
+          "name": "Cairokee",
+          "url": "https://open.spotify.com/artist/2GVksDv9UpY60i4CvytrZK"
+        },
+        {
+          "name": "Sara Moullablad",
+          "url": "https://open.spotify.com/artist/09BtMGqleUcGUrhl5zxToM"
+        }
+      ],
+      "duration_ms": 257656,
+      "name": "Nefsy Ahbek",
+      "url": "https://open.spotify.com/track/7yZc2gKENILqeJWofabYNF"
+    },
+    {
+      "added_at": "2024-12-31 08:06:12",
+      "album": {
+        "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+        "url": "https://open.spotify.com/album/3n3DCKoWvQdEgrF0GLDHuF"
+      },
+      "artists": [
+        {
+          "name": "Abdulrahman Mohammed",
+          "url": "https://open.spotify.com/artist/1sWV2X7SzXd06hEO2EttHl"
+        },
+        {
+          "name": "Mohab Omer",
+          "url": "https://open.spotify.com/artist/7kluF012Emzsqg6qh2ShAY"
+        }
+      ],
+      "duration_ms": 291440,
+      "name": "Craziness - \u0623\u0635\u0627\u0628\u0643 \u0639\u0634\u0642",
+      "url": "https://open.spotify.com/track/4HbQMB4aMPTATNBC1qweUN"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -643,22 +643,6 @@
     {
       "added_at": "2024-12-31 08:06:12",
       "album": {
-        "name": "Lazim Ahkeelak",
-        "url": "https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG"
-      },
-      "artists": [
-        {
-          "name": "Nai Barghouti",
-          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
-        }
-      ],
-      "duration_ms": 198827,
-      "name": "Lazim Ahkeelak",
-      "url": "https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI"
-    },
-    {
-      "added_at": "2024-12-31 08:06:12",
-      "album": {
         "name": "Mashrou' Leila",
         "url": "https://open.spotify.com/album/4bOxUbTKHcHrkEJqNjeJir"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 309963,
       "name": "Shim el Yasmine",
       "url": "https://open.spotify.com/track/1CUZeCu2qMHSteKpFkQD4m"
+    },
+    {
+      "added_at": "2024-12-31 08:06:12",
+      "album": {
+        "name": "Lazim Ahkeelak",
+        "url": "https://open.spotify.com/album/5lP0mAnk1RMLrEhpaIu5TG"
+      },
+      "artists": [
+        {
+          "name": "Nai Barghouti",
+          "url": "https://open.spotify.com/artist/78XHgIjAv0tqb9hVRUsifg"
+        }
+      ],
+      "duration_ms": 198827,
+      "name": "Lazim Ahkeelak",
+      "url": "https://open.spotify.com/track/5bovnlTevkS4gSSYhCnlUI"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -739,6 +739,22 @@
     {
       "added_at": "2024-12-31 08:06:12",
       "album": {
+        "name": "Bahebek Lelsama",
+        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
+      },
+      "artists": [
+        {
+          "name": "Aziz Maraka",
+          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
+        }
+      ],
+      "duration_ms": 200826,
+      "name": "Bahebek Lelsama",
+      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
+    },
+    {
+      "added_at": "2024-12-31 08:06:12",
+      "album": {
         "name": "HANNET LEKLOUB",
         "url": "https://open.spotify.com/album/2puCXbeZ2wvKFPa2MGCsql"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 198123,
       "name": "Bahwak",
       "url": "https://open.spotify.com/track/7D8m6yXM2yIITCjMrlEPOu"
-    },
-    {
-      "added_at": "2024-12-31 08:06:12",
-      "album": {
-        "name": "Bahebek Lelsama",
-        "url": "https://open.spotify.com/album/2426NrM8n5hNONlavrlbkn"
-      },
-      "artists": [
-        {
-          "name": "Aziz Maraka",
-          "url": "https://open.spotify.com/artist/2qi698G7BphxwdPUbQgZMU"
-        }
-      ],
-      "duration_ms": 200826,
-      "name": "Bahebek Lelsama",
-      "url": "https://open.spotify.com/track/6J4xPcKd2BdyCYdCIspKTg"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2024-12-31 08:06:12",
       "album": {
-        "name": "Hasaruha",
-        "url": "https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa"
-      },
-      "artists": [
-        {
-          "name": "Taim Saleh",
-          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
-        }
-      ],
-      "duration_ms": 204705,
-      "name": "Hasaruha",
-      "url": "https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp"
-    },
-    {
-      "added_at": "2024-12-31 08:06:12",
-      "album": {
         "name": "ground:from",
         "url": "https://open.spotify.com/album/1LymeeHyg8sG6IUR2Olt4k"
       },
@@ -1123,18 +1107,18 @@
     {
       "added_at": "2024-12-31 08:06:12",
       "album": {
-        "name": "Second Verse",
-        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
+        "name": "Hasaruha",
+        "url": "https://open.spotify.com/album/6ez20CSvppDM756ZpI7RMa"
       },
       "artists": [
         {
-          "name": "Faraj Suleiman",
-          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
+          "name": "Taim Saleh",
+          "url": "https://open.spotify.com/artist/2jjEtWySkQNPU7K9Luu3q2"
         }
       ],
-      "duration_ms": 171973,
-      "name": "Despite the Flop",
-      "url": "https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3"
+      "duration_ms": 204705,
+      "name": "Hasaruha",
+      "url": "https://open.spotify.com/track/2NsNFfvEllmWsaUfKUOtTp"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -1155,18 +1139,18 @@
     {
       "added_at": "2024-12-31 08:06:12",
       "album": {
-        "name": "Raoui",
-        "url": "https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx"
+        "name": "Second Verse",
+        "url": "https://open.spotify.com/album/764NsuHgQFNbNEBogZxgY4"
       },
       "artists": [
         {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+          "name": "Faraj Suleiman",
+          "url": "https://open.spotify.com/artist/081FrpTgjmgvEy78DZOcpu"
         }
       ],
-      "duration_ms": 227000,
-      "name": "Raoui",
-      "url": "https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA"
+      "duration_ms": 171973,
+      "name": "Despite the Flop",
+      "url": "https://open.spotify.com/track/4qAloJqPLVtUoWYiZnEWS3"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -1183,6 +1167,22 @@
       "duration_ms": 112744,
       "name": "Ya Ashikata Al Wardi",
       "url": "https://open.spotify.com/track/6gkq5hlwu8ZVK6JUUcLgkI"
+    },
+    {
+      "added_at": "2024-12-31 08:06:12",
+      "album": {
+        "name": "Raoui",
+        "url": "https://open.spotify.com/album/1v3KoZERdNZ6ddhseotXzx"
+      },
+      "artists": [
+        {
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+        }
+      ],
+      "duration_ms": 227000,
+      "name": "Raoui",
+      "url": "https://open.spotify.com/track/4PmJRTntkZRVG6kiVljmlA"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -1267,18 +1267,18 @@
     {
       "added_at": "2024-12-31 08:06:12",
       "album": {
-        "name": "Dessine-moi Un Pays",
-        "url": "https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9"
+        "name": "Caf\u00e9 Sessions",
+        "url": "https://open.spotify.com/album/6ZykoElp78txVMO3Oz7dB8"
       },
       "artists": [
         {
-          "name": "Souad Massi",
-          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
+          "name": "Moseqar",
+          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
         }
       ],
-      "duration_ms": 208845,
-      "name": "Dessine-moi Un Pays",
-      "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
+      "duration_ms": 232456,
+      "name": "Magic",
+      "url": "https://open.spotify.com/track/7r4CFRZvhDJKrGX43arGgA"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -1295,6 +1295,22 @@
       "duration_ms": 232489,
       "name": "Another Day",
       "url": "https://open.spotify.com/track/2OKIfa8QDPUb5fZOfXdU9p"
+    },
+    {
+      "added_at": "2024-12-31 08:06:12",
+      "album": {
+        "name": "La7za",
+        "url": "https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU"
+      },
+      "artists": [
+        {
+          "name": "Ghaliaa",
+          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
+        }
+      ],
+      "duration_ms": 206850,
+      "name": "La7za",
+      "url": "https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -1319,18 +1335,18 @@
     {
       "added_at": "2024-12-31 08:06:12",
       "album": {
-        "name": "Bahlam Maak",
-        "url": "https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS"
+        "name": "Dessine-moi Un Pays",
+        "url": "https://open.spotify.com/album/2Kj4Cn5WHRQVNFhFhsv8y9"
       },
       "artists": [
         {
-          "name": "Dania",
-          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+          "name": "Souad Massi",
+          "url": "https://open.spotify.com/artist/0oXFsuB6XBuDTsXJgplR7k"
         }
       ],
-      "duration_ms": 208573,
-      "name": "Bahlam Maak",
-      "url": "https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC"
+      "duration_ms": 208845,
+      "name": "Dessine-moi Un Pays",
+      "url": "https://open.spotify.com/track/1oHLJ7mrk2nDoEn7UXyBSw"
     },
     {
       "added_at": "2024-12-31 08:06:12",
@@ -1351,6 +1367,22 @@
     {
       "added_at": "2024-12-31 08:06:12",
       "album": {
+        "name": "Bahlam Maak",
+        "url": "https://open.spotify.com/album/6bBpBOjZMiI8aWreQXLIQS"
+      },
+      "artists": [
+        {
+          "name": "Dania",
+          "url": "https://open.spotify.com/artist/0LXNaYz7jAXD5V4C0FWGEx"
+        }
+      ],
+      "duration_ms": 208573,
+      "name": "Bahlam Maak",
+      "url": "https://open.spotify.com/track/2Tswp3UzBbZ9IhLURfDoWC"
+    },
+    {
+      "added_at": "2024-12-31 08:06:12",
+      "album": {
         "name": "Tea Time",
         "url": "https://open.spotify.com/album/0XqCCOQsueU7orG8EDgEXn"
       },
@@ -1363,38 +1395,6 @@
       "duration_ms": 264226,
       "name": "Osad Einy",
       "url": "https://open.spotify.com/track/7si84DsIQQfMKajYl0AwY4"
-    },
-    {
-      "added_at": "2024-12-31 08:06:12",
-      "album": {
-        "name": "Caf\u00e9 Sessions",
-        "url": "https://open.spotify.com/album/6ZykoElp78txVMO3Oz7dB8"
-      },
-      "artists": [
-        {
-          "name": "Moseqar",
-          "url": "https://open.spotify.com/artist/5fHVckjK8GV0abZUYPt3kH"
-        }
-      ],
-      "duration_ms": 232456,
-      "name": "Magic",
-      "url": "https://open.spotify.com/track/7r4CFRZvhDJKrGX43arGgA"
-    },
-    {
-      "added_at": "2024-12-31 08:06:12",
-      "album": {
-        "name": "La7za",
-        "url": "https://open.spotify.com/album/0bTeTZPnvaUfdhAXj8RTyU"
-      },
-      "artists": [
-        {
-          "name": "Ghaliaa",
-          "url": "https://open.spotify.com/artist/3FVonQ6pTMMbqYb0Rf7WE8"
-        }
-      ],
-      "duration_ms": 206850,
-      "name": "La7za",
-      "url": "https://open.spotify.com/track/4VVpPqUEwJLJgAblQVBFWG"
     },
     {
       "added_at": "2024-12-31 08:06:12",

@@ -1,6 +1,6 @@
 {
   "description": "Plugged in and cranked up; the hottest Blues records from an amplified era. Cover: B.B. King.",
-  "num_followers": 165225,
+  "num_followers": 165319,
   "original_name": "Electric Blues Classics",
   "owner": {
     "name": "Spotify",
@@ -155,6 +155,22 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Texas Flood (Legacy Edition)",
+        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 320906,
+      "name": "Texas Flood",
+      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "Blues Breakers",
         "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 289560,
       "name": "Leaving Trunk",
       "url": "https://open.spotify.com/track/3E0VKSvZp76kvBU2WwwBul"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
-        "name": "Texas Flood (Legacy Edition)",
-        "url": "https://open.spotify.com/album/1AL5oXZRtTc8PyhcTwg4xQ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 320906,
-      "name": "Texas Flood",
-      "url": "https://open.spotify.com/track/5MtN38MGEWJt60LwtBmFNP"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Taj Mahal",
-        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
-      },
-      "artists": [
-        {
-          "name": "Taj Mahal",
-          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
-        }
-      ],
-      "duration_ms": 178973,
-      "name": "Statesboro Blues",
-      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "The Very Best of Jimmy Reed",
         "url": "https://open.spotify.com/album/2PMRy0eJABQCG5glccW4pk"
       },
@@ -391,6 +375,22 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Taj Mahal",
+        "url": "https://open.spotify.com/album/0kEaFupzvrGdcczROS519i"
+      },
+      "artists": [
+        {
+          "name": "Taj Mahal",
+          "url": "https://open.spotify.com/artist/1aTDTChWWyiJH3SEnYrdVp"
+        }
+      ],
+      "duration_ms": 178973,
+      "name": "Statesboro Blues",
+      "url": "https://open.spotify.com/track/4uIHPormmUH31qyjP7CU4d"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "Blues",
         "url": "https://open.spotify.com/album/6kvCH4eS92QkpBNdTmjLEz"
       },
@@ -403,38 +403,6 @@
       "duration_ms": 223906,
       "name": "Red House",
       "url": "https://open.spotify.com/track/1ska3YnfMLiOJ6YH7EpZa9"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
-        "name": "Completely Well",
-        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
-      },
-      "artists": [
-        {
-          "name": "B.B. King",
-          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
-        }
-      ],
-      "duration_ms": 275160,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/1YAqMv5kabudsXnTrCj9KL"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
-        "name": "The Best Of Muddy Waters",
-        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
-      },
-      "artists": [
-        {
-          "name": "Muddy Waters",
-          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
-        }
-      ],
-      "duration_ms": 187240,
-      "name": "Rollin' Stone",
-      "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -455,6 +423,22 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
+        "name": "Completely Well",
+        "url": "https://open.spotify.com/album/7gzkgAWjOjEf5o6sIvBvT1"
+      },
+      "artists": [
+        {
+          "name": "B.B. King",
+          "url": "https://open.spotify.com/artist/5xLSa7l4IV1gsQfhAMvl0U"
+        }
+      ],
+      "duration_ms": 275160,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/1YAqMv5kabudsXnTrCj9KL"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
         "name": "East West",
         "url": "https://open.spotify.com/album/7dhvHytrXT38CEy21dNam3"
       },
@@ -467,6 +451,38 @@
       "duration_ms": 199960,
       "name": "Walkin' Blues",
       "url": "https://open.spotify.com/track/0aBF6Zob3o2GthzPTuVplz"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
+        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
+      },
+      "artists": [
+        {
+          "name": "Willie Dixon",
+          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
+        }
+      ],
+      "duration_ms": 295466,
+      "name": "Spoonful",
+      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "The Best Of Muddy Waters",
+        "url": "https://open.spotify.com/album/6xU8hHhpGaDmFdOVEGRzpY"
+      },
+      "artists": [
+        {
+          "name": "Muddy Waters",
+          "url": "https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R"
+        }
+      ],
+      "duration_ms": 187240,
+      "name": "Rollin' Stone",
+      "url": "https://open.spotify.com/track/6uSBSTEnZJY0XI3IS69gBU"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -523,22 +539,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Poet Of the Blues (Mojo Workin'- Blues For The Next Generation)",
-        "url": "https://open.spotify.com/album/5kOOtdwY3JI17osYqWEbnD"
-      },
-      "artists": [
-        {
-          "name": "Willie Dixon",
-          "url": "https://open.spotify.com/artist/5v8WPpMk60cqZbuZLdXjKY"
-        }
-      ],
-      "duration_ms": 295466,
-      "name": "Spoonful",
-      "url": "https://open.spotify.com/track/6c2qCpSjexlM9HYg9TnFFt"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Al's Big Deal",
         "url": "https://open.spotify.com/album/4tjoWIPvhO3GW5vty6tHUn"
       },
@@ -567,46 +567,6 @@
       "duration_ms": 150173,
       "name": "Strollin' With Bones",
       "url": "https://open.spotify.com/track/5C4lqxcOb2aZPxMV73G00U"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
-        "name": "Blues Brothers 2000",
-        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
-      },
-      "artists": [
-        {
-          "name": "The Paul Butterfield Blues Band",
-          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
-        }
-      ],
-      "duration_ms": 185226,
-      "name": "Born In Chicago",
-      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
-        "name": "Blues Breakers",
-        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
-      },
-      "artists": [
-        {
-          "name": "Eric Clapton",
-          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
-        },
-        {
-          "name": "John Mayall",
-          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
-        },
-        {
-          "name": "John Mayall & The Bluesbreakers",
-          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
-        }
-      ],
-      "duration_ms": 180693,
-      "name": "Double Crossing Time - Mono",
-      "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -655,6 +615,46 @@
       "duration_ms": 192093,
       "name": "Shake Your Moneymaker",
       "url": "https://open.spotify.com/track/7w3isJMqvkCL3JrGYL6FSk"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Blues Breakers",
+        "url": "https://open.spotify.com/album/4bSvzPMgzwvfqHAbcWG88o"
+      },
+      "artists": [
+        {
+          "name": "Eric Clapton",
+          "url": "https://open.spotify.com/artist/6PAt558ZEZl0DmdXlnjMgD"
+        },
+        {
+          "name": "John Mayall",
+          "url": "https://open.spotify.com/artist/5s4z3mRAE7nxE3jjft8J3h"
+        },
+        {
+          "name": "John Mayall & The Bluesbreakers",
+          "url": "https://open.spotify.com/artist/2ScuQMRWThcifBRIvNDFDC"
+        }
+      ],
+      "duration_ms": 180693,
+      "name": "Double Crossing Time - Mono",
+      "url": "https://open.spotify.com/track/07fmUH4VMyKkCRaugAyke7"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Blues Brothers 2000",
+        "url": "https://open.spotify.com/album/6xj8KDSoPvZCquyIHWo0PJ"
+      },
+      "artists": [
+        {
+          "name": "The Paul Butterfield Blues Band",
+          "url": "https://open.spotify.com/artist/6kz7WuPaUa4QVreP27I33i"
+        }
+      ],
+      "duration_ms": 185226,
+      "name": "Born In Chicago",
+      "url": "https://open.spotify.com/track/6tUCV9S6JZT7qzW65ptXqc"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -771,22 +771,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Double Trouble",
-        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
-      },
-      "artists": [
-        {
-          "name": "Otis Rush",
-          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
-        }
-      ],
-      "duration_ms": 157813,
-      "name": "All Your Love (I Miss Loving)",
-      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Wound Up Tight",
         "url": "https://open.spotify.com/album/3dvXGTbdS5eesvKcBTOkXM"
       },
@@ -803,22 +787,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Shake Down",
-        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
-      },
-      "artists": [
-        {
-          "name": "Savoy Brown",
-          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
-        }
-      ],
-      "duration_ms": 210106,
-      "name": "Ain't Superstitious",
-      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "Stormy Monday Blues (Sun Records 70th / Remastered 2022)",
         "url": "https://open.spotify.com/album/40hFA10cSZ43lHZhii57dC"
       },
@@ -831,6 +799,38 @@
       "duration_ms": 164746,
       "name": "Glamour Girl - Remastered 2022",
       "url": "https://open.spotify.com/track/26NeJqqTN4obwlAHAep7jJ"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Double Trouble",
+        "url": "https://open.spotify.com/album/3jM3xqyJos5CEXCrdO1hQf"
+      },
+      "artists": [
+        {
+          "name": "Otis Rush",
+          "url": "https://open.spotify.com/artist/1h0hOL3bVcYlg4xcSjU7fP"
+        }
+      ],
+      "duration_ms": 157813,
+      "name": "All Your Love (I Miss Loving)",
+      "url": "https://open.spotify.com/track/6NEnXMaCfk0dg2BnuObxX7"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Shake Down",
+        "url": "https://open.spotify.com/album/5F5h5lLNgbQXYvulMUZ2Vb"
+      },
+      "artists": [
+        {
+          "name": "Savoy Brown",
+          "url": "https://open.spotify.com/artist/17obwOahRWI121iMUZznh2"
+        }
+      ],
+      "duration_ms": 210106,
+      "name": "Ain't Superstitious",
+      "url": "https://open.spotify.com/track/2z47CyvhUXKg2aE5DVBSeK"
     },
     {
       "added_at": "2024-06-02 16:41:51",
@@ -951,22 +951,6 @@
     {
       "added_at": "2024-06-02 16:41:51",
       "album": {
-        "name": "Addressing The Nation With The Blues",
-        "url": "https://open.spotify.com/album/6RVA29Re2JFnjizRSb2OMt"
-      },
-      "artists": [
-        {
-          "name": "Byther Smith",
-          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
-        }
-      ],
-      "duration_ms": 360067,
-      "name": "I Was Coming Home",
-      "url": "https://open.spotify.com/track/5FQAySazGzq0jIsPG0XJ7H"
-    },
-    {
-      "added_at": "2024-06-02 16:41:51",
-      "album": {
         "name": "I Put A Spell On You: Best Of",
         "url": "https://open.spotify.com/album/2YK4ndDzRp2zLgf41kXjRW"
       },
@@ -979,6 +963,22 @@
       "duration_ms": 162626,
       "name": "$ 10,000 Lincoln Continental",
       "url": "https://open.spotify.com/track/1z686zatCt0J4bWwdRRQpN"
+    },
+    {
+      "added_at": "2024-06-02 16:41:51",
+      "album": {
+        "name": "Addressing The Nation With The Blues",
+        "url": "https://open.spotify.com/album/6RVA29Re2JFnjizRSb2OMt"
+      },
+      "artists": [
+        {
+          "name": "Byther Smith",
+          "url": "https://open.spotify.com/artist/6xvCAutMGoKknAWPv0tnxR"
+        }
+      ],
+      "duration_ms": 360067,
+      "name": "I Was Coming Home",
+      "url": "https://open.spotify.com/track/5FQAySazGzq0jIsPG0XJ7H"
     },
     {
       "added_at": "2024-06-02 16:41:51",

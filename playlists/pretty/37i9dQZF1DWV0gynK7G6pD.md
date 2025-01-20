@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV0gynK7G6pD.md) - [plain]
 
 > Updated every Friday with the very best classical new releases\. Cover: Beatrice Rana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 723,604 likes - 64 songs - 4 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 723,663 likes - 64 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

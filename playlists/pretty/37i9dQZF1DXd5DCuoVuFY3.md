@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd5DCuoVuFY3.md) - [plain]
 
 > Curated by <a href="spotify:artist:6mK0vAO13gT8jWYANyoXAl">Young Franco</a> for your lounge room DF!
 
-[Spotify](https://open.spotify.com/user/spotify) - 526,259 likes - 69 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 526,254 likes - 69 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

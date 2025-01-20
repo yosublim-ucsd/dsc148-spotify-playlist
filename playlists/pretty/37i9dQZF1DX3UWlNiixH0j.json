@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u3048\u3093\u3077\u3066\u3044",
-  "num_followers": 60258,
+  "num_followers": 60281,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -399,18 +399,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "FLAG",
-        "url": "https://open.spotify.com/album/25JNVUxYxxBle0cJJNb3Td"
+        "name": "ZERO",
+        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
       },
       "artists": [
         {
-          "name": "Ichiko Aoba",
-          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
+          "name": "Lavt",
+          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
         }
       ],
-      "duration_ms": 276681,
-      "name": "FLAG",
-      "url": "https://open.spotify.com/track/6If6vrgZ9Ap4tR3C5RzDmj"
+      "duration_ms": 191666,
+      "name": "\u30ab\u30b2\u30ed\u30a6",
+      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -479,18 +479,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "ZERO",
-        "url": "https://open.spotify.com/album/5w1PWy132zoiHxHakRL4n0"
+        "name": "FLAG",
+        "url": "https://open.spotify.com/album/25JNVUxYxxBle0cJJNb3Td"
       },
       "artists": [
         {
-          "name": "Lavt",
-          "url": "https://open.spotify.com/artist/3kurKHNGI2UWzHksW45bnn"
+          "name": "Ichiko Aoba",
+          "url": "https://open.spotify.com/artist/6ignRjbPmLvKdtMLj9a5Xs"
         }
       ],
-      "duration_ms": 191666,
-      "name": "\u30ab\u30b2\u30ed\u30a6",
-      "url": "https://open.spotify.com/track/0FpllK8mAWf3u8A7HmLrfH"
+      "duration_ms": 276681,
+      "name": "FLAG",
+      "url": "https://open.spotify.com/track/6If6vrgZ9Ap4tR3C5RzDmj"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -731,22 +731,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u3068\u304d\u3081\u304d",
-        "url": "https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ"
-      },
-      "artists": [
-        {
-          "name": "a\u5b50",
-          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
-        }
-      ],
-      "duration_ms": 181940,
-      "name": "\u3068\u304d\u3081\u304d",
-      "url": "https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "Hotel New Yuma",
         "url": "https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1"
       },
@@ -759,6 +743,22 @@
       "duration_ms": 192555,
       "name": "\u5922\u3092\u898b\u3088\u3046\u3088",
       "url": "https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "\u3068\u304d\u3081\u304d",
+        "url": "https://open.spotify.com/album/19BGSsqTVaNk6RKYYdd7kQ"
+      },
+      "artists": [
+        {
+          "name": "a\u5b50",
+          "url": "https://open.spotify.com/artist/4ckGkK52pqm5j41Voz7lg4"
+        }
+      ],
+      "duration_ms": 181940,
+      "name": "\u3068\u304d\u3081\u304d",
+      "url": "https://open.spotify.com/track/3pkMLslSoJcHgn1nawZngb"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Oppressed",
-        "url": "https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ"
-      },
-      "artists": [
-        {
-          "name": "yuragi",
-          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
-        }
-      ],
-      "duration_ms": 315153,
-      "name": "Oppressed",
-      "url": "https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "\u30ab\u30fc\u30cb\u30d0\u30eb\u306e\u5922",
         "url": "https://open.spotify.com/album/0W4mCxf93Nzyb0Zl2G7x48"
       },
@@ -979,18 +963,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Bothering / Daiji Rushing",
-        "url": "https://open.spotify.com/album/5fuXOmsZekRlxFa4U0H9ww"
+        "name": "Oppressed",
+        "url": "https://open.spotify.com/album/7rjqe12p4k9kEWTolqqxJZ"
       },
       "artists": [
         {
-          "name": "ermhoi",
-          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
         }
       ],
-      "duration_ms": 158731,
-      "name": "Bothering",
-      "url": "https://open.spotify.com/track/5bFUskuPyH20ug2fSYZC8v"
+      "duration_ms": 315153,
+      "name": "Oppressed",
+      "url": "https://open.spotify.com/track/5O4xPG3qWtyp2weFgaRN4h"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1007,6 +991,38 @@
       "duration_ms": 251522,
       "name": "\u305f\u307e\u306b\u541b\u306e\u3053\u3068\u3092\u601d\u3044\u51fa\u3057\u3066\u3057\u307e\u3046\u3088\u306a",
       "url": "https://open.spotify.com/track/6y7x5BY5C7kEGEeI6YEHAH"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "Bothering / Daiji Rushing",
+        "url": "https://open.spotify.com/album/5fuXOmsZekRlxFa4U0H9ww"
+      },
+      "artists": [
+        {
+          "name": "ermhoi",
+          "url": "https://open.spotify.com/artist/3kabIShRaQYKg8afAZ1kIc"
+        }
+      ],
+      "duration_ms": 158731,
+      "name": "Bothering",
+      "url": "https://open.spotify.com/track/5bFUskuPyH20ug2fSYZC8v"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "\u53cc\u5b50\u5ea7(gemini)",
+        "url": "https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1"
+      },
+      "artists": [
+        {
+          "name": "\u732b\u6226",
+          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
+        }
+      ],
+      "duration_ms": 262000,
+      "name": "\u53cc\u5b50\u5ea7(gemini)",
+      "url": "https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1031,22 +1047,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u53cc\u5b50\u5ea7(gemini)",
-        "url": "https://open.spotify.com/album/1VmFgVI4QDJUV8iP0YFeU1"
-      },
-      "artists": [
-        {
-          "name": "\u732b\u6226",
-          "url": "https://open.spotify.com/artist/7FpGOw2bG8j5OUBBAfVkR1"
-        }
-      ],
-      "duration_ms": 262000,
-      "name": "\u53cc\u5b50\u5ea7(gemini)",
-      "url": "https://open.spotify.com/track/5hIYpLS9VQbNawAFqx8a9g"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
         "url": "https://open.spotify.com/album/77Xn8RcjfXPJwA6XtFyAOW"
       },
@@ -1059,26 +1059,6 @@
       "duration_ms": 230500,
       "name": "\u5922\u306b\u98db\u3073\u306e\u3063\u3066",
       "url": "https://open.spotify.com/track/0z1GRuhCRudgYr23N1aYtS"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "Forest (feat. ACE COOL)",
-        "url": "https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5"
-      },
-      "artists": [
-        {
-          "name": "\u3093oon",
-          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
-        },
-        {
-          "name": "ACE COOL",
-          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
-        }
-      ],
-      "duration_ms": 183397,
-      "name": "Forest - feat. ACE COOL",
-      "url": "https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1107,6 +1087,26 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
+        "name": "Forest (feat. ACE COOL)",
+        "url": "https://open.spotify.com/album/23qxN8jxIdoYRQrFnclqn5"
+      },
+      "artists": [
+        {
+          "name": "\u3093oon",
+          "url": "https://open.spotify.com/artist/607e1j0oVX9hpFGRQrL3TC"
+        },
+        {
+          "name": "ACE COOL",
+          "url": "https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G"
+        }
+      ],
+      "duration_ms": 183397,
+      "name": "Forest - feat. ACE COOL",
+      "url": "https://open.spotify.com/track/3rCTQ2WHlmIFLcUTimksTH"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
         "name": "A Winter Song",
         "url": "https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo"
       },
@@ -1119,22 +1119,6 @@
       "duration_ms": 164666,
       "name": "A Winter Song",
       "url": "https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "\u9006\u3089\u3046\u7fbd",
-        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
-      },
-      "artists": [
-        {
-          "name": "\u677e\u6728\u7f8e\u5b9a",
-          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
-        }
-      ],
-      "duration_ms": 195133,
-      "name": "\u9006\u3089\u3046\u7fbd",
-      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1175,6 +1159,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
+        "name": "\u9006\u3089\u3046\u7fbd",
+        "url": "https://open.spotify.com/album/7lGyp88PLnR60gw7HHOkSU"
+      },
+      "artists": [
+        {
+          "name": "\u677e\u6728\u7f8e\u5b9a",
+          "url": "https://open.spotify.com/artist/4VytANV5Kt1OqJpzkkc6wA"
+        }
+      ],
+      "duration_ms": 195133,
+      "name": "\u9006\u3089\u3046\u7fbd",
+      "url": "https://open.spotify.com/track/6Tft44KxfwDbrNUSqT3Rlh"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
         "name": "HAPPY BIRTHDAY",
         "url": "https://open.spotify.com/album/6dJN74FUcvQ6cfsbyTFhEj"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 186766,
       "name": "\u9b54\u6cd5\u4f7f\u3044\u306b\u306a\u308a\u305f\u304f\u3066",
       "url": "https://open.spotify.com/track/2BTqQIpVRKFECXLxaLLAab"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
-        "url": "https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX"
-      },
-      "artists": [
-        {
-          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
-          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
-        }
-      ],
-      "duration_ms": 274750,
-      "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
-      "url": "https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1239,18 +1223,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Wonderful Christmastime",
-        "url": "https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI"
+        "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
+        "url": "https://open.spotify.com/album/5GoUhAumKty7FSbwLSSDgX"
       },
       "artists": [
         {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+          "name": "\u30b0\u30bd\u30af\u30e0\u30ba",
+          "url": "https://open.spotify.com/artist/2pApTGoH8Np1rgRBPu4WJk"
         }
       ],
-      "duration_ms": 177909,
-      "name": "Wonderful Christmastime",
-      "url": "https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7"
+      "duration_ms": 274750,
+      "name": "\u96e2\u308c\u3066\u3044\u305f\u3063\u3066",
+      "url": "https://open.spotify.com/track/1iamesuZlagCJbH50APpEJ"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1267,6 +1251,22 @@
       "duration_ms": 235763,
       "name": "\u82b1\u5439\u96ea",
       "url": "https://open.spotify.com/track/2e6IilpmHjfwwwHvpOyy9n"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "Wonderful Christmastime",
+        "url": "https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI"
+      },
+      "artists": [
+        {
+          "name": "Hakushi Hasegawa",
+          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
+        }
+      ],
+      "duration_ms": 177909,
+      "name": "Wonderful Christmastime",
+      "url": "https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7"
     },
     {
       "added_at": "2025-01-14 15:00:02",

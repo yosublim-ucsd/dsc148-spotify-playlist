@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://twitter.com/kofi\">Kofi Siriboe</a>",
-  "num_followers": 41112,
+  "num_followers": 41124,
   "original_name": "Kofi Siriboe's Taste",
   "owner": {
     "name": "Spotify",
@@ -147,26 +147,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Found (feat. Brent Faiyaz)",
-        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
-      },
-      "artists": [
-        {
-          "name": "Tems",
-          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
-        },
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 209454,
-      "name": "Found (feat. Brent Faiyaz)",
-      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "MERCEDES",
         "url": "https://open.spotify.com/album/2M3IBMpOszCjnxwG1sWOqT"
       },
@@ -179,26 +159,6 @@
       "duration_ms": 233069,
       "name": "MERCEDES",
       "url": "https://open.spotify.com/track/0tkgmjBMU6qSxolAKB3f2H"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Trouble",
-        "url": "https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK"
-      },
-      "artists": [
-        {
-          "name": "melvitto",
-          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
-        },
-        {
-          "name": "Gabzy",
-          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
-        }
-      ],
-      "duration_ms": 223517,
-      "name": "Trouble",
-      "url": "https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -223,6 +183,26 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Trouble",
+        "url": "https://open.spotify.com/album/0kjpOQzwiIr55TIBBJ5coK"
+      },
+      "artists": [
+        {
+          "name": "melvitto",
+          "url": "https://open.spotify.com/artist/4Xj0nxVO4r7PLEaw7LRiBa"
+        },
+        {
+          "name": "Gabzy",
+          "url": "https://open.spotify.com/artist/2sEUjEtnqBphiYquoNfV62"
+        }
+      ],
+      "duration_ms": 223517,
+      "name": "Trouble",
+      "url": "https://open.spotify.com/track/5yplb3035SZqG3E6TArvGK"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "It Was Written",
         "url": "https://open.spotify.com/album/78Fgb88MY0ECc4GVMejqTg"
       },
@@ -235,6 +215,26 @@
       "duration_ms": 234093,
       "name": "The Message",
       "url": "https://open.spotify.com/track/1AHfovSnGPVYKaahRtA0U6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Found (feat. Brent Faiyaz)",
+        "url": "https://open.spotify.com/album/6nuNgD841boUffjDiI8et4"
+      },
+      "artists": [
+        {
+          "name": "Tems",
+          "url": "https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq"
+        },
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 209454,
+      "name": "Found (feat. Brent Faiyaz)",
+      "url": "https://open.spotify.com/track/0GGfGINoVYiSFXPOjg3RHj"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -255,22 +255,6 @@
       "duration_ms": 350533,
       "name": "Nothing Even Matters (feat. D'Angelo)",
       "url": "https://open.spotify.com/track/1Q0lOGB52skgfzdcq233vs"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Dead Man Walking",
-        "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
-      },
-      "artists": [
-        {
-          "name": "Brent Faiyaz",
-          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
-        }
-      ],
-      "duration_ms": 247079,
-      "name": "Dead Man Walking",
-      "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -307,6 +291,22 @@
       "duration_ms": 295773,
       "name": "Into You (feat. Tamia)",
       "url": "https://open.spotify.com/track/0yHConG49418wPs8UfAt44"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Dead Man Walking",
+        "url": "https://open.spotify.com/album/7JN4bDXgC4mDcuhghlFBHc"
+      },
+      "artists": [
+        {
+          "name": "Brent Faiyaz",
+          "url": "https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG"
+        }
+      ],
+      "duration_ms": 247079,
+      "name": "Dead Man Walking",
+      "url": "https://open.spotify.com/track/5VlTQnZO89Ioku8ssdbqJk"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -451,6 +451,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "Voodoo",
+        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
+      },
+      "artists": [
+        {
+          "name": "D'Angelo",
+          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
+        }
+      ],
+      "duration_ms": 356493,
+      "name": "Send It On",
+      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Mine",
         "url": "https://open.spotify.com/album/0RJkdbyHeLAxKXCzIrpyOj"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 212571,
       "name": "Mine",
       "url": "https://open.spotify.com/track/1IxfE1rd0ngSFP8MSqYiv0"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Voodoo",
-        "url": "https://open.spotify.com/album/2lO9yuuIDgBpSJzxTh3ai8"
-      },
-      "artists": [
-        {
-          "name": "D'Angelo",
-          "url": "https://open.spotify.com/artist/336vr2M3Va0FjyvB55lJEd"
-        }
-      ],
-      "duration_ms": 356493,
-      "name": "Send It On",
-      "url": "https://open.spotify.com/track/5LIwaG8Wl9LfExcmiRQm7J"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Reggae Gold 2007",
-        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
-      },
-      "artists": [
-        {
-          "name": "Pressure Busspipe",
-          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
-        }
-      ],
-      "duration_ms": 258653,
-      "name": "Love And Affection",
-      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Black Messiah",
         "url": "https://open.spotify.com/album/5Hfbag0SsHxafx1SySFSX6"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 344346,
       "name": "Really Love",
       "url": "https://open.spotify.com/track/2RcanAJpudPNDkyIe9DzKS"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Reggae Gold 2007",
+        "url": "https://open.spotify.com/album/4SPmILNzFDI8pwcj6VSr9X"
+      },
+      "artists": [
+        {
+          "name": "Pressure Busspipe",
+          "url": "https://open.spotify.com/artist/61meTZVdfRrHMotU1AJipD"
+        }
+      ],
+      "duration_ms": 258653,
+      "name": "Love And Affection",
+      "url": "https://open.spotify.com/track/4o6ZuLYr04LqFQNiSGVK4u"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -647,22 +647,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        }
-      ],
-      "duration_ms": 133324,
-      "name": "Picture Me Rollin'",
-      "url": "https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Heaux Tales",
         "url": "https://open.spotify.com/album/5g9YhHW8tE7Tcslgxsk5u9"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 178973,
       "name": "Lost One",
       "url": "https://open.spotify.com/track/75pQBGZxBe4bDm8spb2OG6"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Slauson Boy 2",
+        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        }
+      ],
+      "duration_ms": 133324,
+      "name": "Picture Me Rollin'",
+      "url": "https://open.spotify.com/track/06ztbFJIRt9jfabj16TmTx"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -735,42 +735,6 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "But You Caint Use My Phone (Mixtape)",
-        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
-      },
-      "artists": [
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 319958,
-      "name": "Hello",
-      "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "Victory Lap",
-        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
-      },
-      "artists": [
-        {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
-        },
-        {
-          "name": "Diddy",
-          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
-        }
-      ],
-      "duration_ms": 236546,
-      "name": "Young Nigga (feat. Puff Daddy)",
-      "url": "https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
         "name": "Stony Hill",
         "url": "https://open.spotify.com/album/2P6QCxokMaNDkQcpVRi2f4"
       },
@@ -799,6 +763,42 @@
       "duration_ms": 177255,
       "name": "Claudia, Wilhelm R And Me",
       "url": "https://open.spotify.com/track/4jR8SmpJ76qsD1TlaD6TIY"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "Victory Lap",
+        "url": "https://open.spotify.com/album/6rcbbhcm8Os7EiVRHP9Aef"
+      },
+      "artists": [
+        {
+          "name": "Nipsey Hussle",
+          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+        },
+        {
+          "name": "Diddy",
+          "url": "https://open.spotify.com/artist/59wfkuBoNyhDMQGCljbUbA"
+        }
+      ],
+      "duration_ms": 236546,
+      "name": "Young Nigga (feat. Puff Daddy)",
+      "url": "https://open.spotify.com/track/0pBcI8Gf1Oe3ziIbE9tBsX"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
+        "name": "But You Caint Use My Phone (Mixtape)",
+        "url": "https://open.spotify.com/album/2gc9WOWqVRrGUENUjozcpY"
+      },
+      "artists": [
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 319958,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/1rqduvolf1CVHSzY519bPp"
     },
     {
       "added_at": "2022-10-01 16:00:00",
@@ -871,18 +871,18 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
-        "name": "Slauson Boy 2",
-        "url": "https://open.spotify.com/album/6pAP6aJ2SUmhE9VXB8bm02"
+        "name": "For You",
+        "url": "https://open.spotify.com/album/0IofYnPCppEIKAJmc517JS"
       },
       "artists": [
         {
-          "name": "Nipsey Hussle",
-          "url": "https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0"
+          "name": "Prince",
+          "url": "https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j"
         }
       ],
-      "duration_ms": 160679,
-      "name": "One Hunnit",
-      "url": "https://open.spotify.com/track/5xAGavHxt4u1zstIsG4DAb"
+      "duration_ms": 137333,
+      "name": "Crazy You",
+      "url": "https://open.spotify.com/track/7H4IsC0YmKnAjbGVGZGMQo"
     }
   ],
   "unique_name": "Kofi Siriboe's Taste",

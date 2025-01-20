@@ -1,12 +1,12 @@
 {
   "description": "This is Barry White. The essential tracks, all in one playlist.",
-  "num_followers": 222998,
+  "num_followers": 223016,
   "original_name": "This Is Barry White",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAADuIV56lsGbpHgk7JCm0Ei1",
+  "snapshot_id": "Z4rvAAAAAAAIPL9Ql6bru/jNgmUtEjn6",
   "tracks": [
     {
       "added_at": null,
@@ -287,22 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sheet Music",
-        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 340826,
-      "name": "Lady, Sweet Lady",
-      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love's Theme: The Best Of The 20th Century Records Singles",
         "url": "https://open.spotify.com/album/1xemy8uSRy4dEMyN13fUu3"
       },
@@ -319,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
+        "name": "Sheet Music",
+        "url": "https://open.spotify.com/album/2ZoY9TwvDoSVXpGQCKyfH2"
       },
       "artists": [
         {
@@ -328,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
         }
       ],
-      "duration_ms": 239306,
-      "name": "Practice What You Preach",
-      "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
+      "duration_ms": 340826,
+      "name": "Lady, Sweet Lady",
+      "url": "https://open.spotify.com/track/10z1bj9T7hpJ9bfIlsHF1s"
     },
     {
       "added_at": null,
@@ -347,6 +331,22 @@
       "duration_ms": 199866,
       "name": "Don't Make Me Wait Too Long",
       "url": "https://open.spotify.com/track/1d9QTZFpruDdK81YlwPlmE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/2YjxVI9GEc7StNjU4PVhOE"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 239306,
+      "name": "Practice What You Preach",
+      "url": "https://open.spotify.com/track/5PaTu8aN7ozpFbEb0DwEbt"
     },
     {
       "added_at": null,
@@ -831,22 +831,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete 20th Century Records Singles (1973-1979)",
-        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
-      },
-      "artists": [
-        {
-          "name": "Barry White",
-          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
-        }
-      ],
-      "duration_ms": 267546,
-      "name": "No I'm Never Gonna Give Ya Up - Instrumental",
-      "url": "https://open.spotify.com/track/14AC4CVxgXOMvf558rQI3U"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Man",
         "url": "https://open.spotify.com/album/4QxIEYrQKckIbgKutD2FSR"
       },
@@ -859,6 +843,22 @@
       "duration_ms": 452306,
       "name": "Sha La La Means I Love You",
       "url": "https://open.spotify.com/track/1lztvguhaWcOVV4l5Ovuyb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete 20th Century Records Singles (1973-1979)",
+        "url": "https://open.spotify.com/album/4jpsKvXyMWyAnr778cJ4Um"
+      },
+      "artists": [
+        {
+          "name": "Barry White",
+          "url": "https://open.spotify.com/artist/3rfgbfpPSfXY40lzRK7Syt"
+        }
+      ],
+      "duration_ms": 267546,
+      "name": "No I'm Never Gonna Give Ya Up - Instrumental",
+      "url": "https://open.spotify.com/track/14AC4CVxgXOMvf558rQI3U"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "\ub2f9\uc2e0\uc758 \ud558\ub8e8. \uc624\ub298\ub3c4 \uc798\ud558\uace0 \uc788\uc5b4\uc694. (Listen to K-Pop comforting songs)",
-  "num_followers": 14873,
+  "num_followers": 14871,
   "original_name": "\uc798\ud588\uc5b4 \uc624\ub298\ub3c4 (You Did Well.)",
   "owner": {
     "name": "Spotify",
@@ -143,26 +143,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        },
-        {
-          "name": "G-DRAGON",
-          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
-        }
-      ],
-      "duration_ms": 217412,
-      "name": "Palette (feat. G-DRAGON)",
-      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Kim Cheolsu Story",
         "url": "https://open.spotify.com/album/7hvLtgOO2CbZkEhrsjjlC2"
       },
@@ -219,38 +199,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "BLOSSOM - THE 3RD MINI ALBUM",
-        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
-      },
-      "artists": [
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 182253,
-      "name": "Good Night",
-      "url": "https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
-        "name": "BBIBBI",
-        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 194426,
-      "name": "BBIBBI",
-      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Take You Home - SM STATION",
         "url": "https://open.spotify.com/album/35xEwaC2WlMzkllTa3XwhK"
       },
@@ -279,6 +227,42 @@
       "duration_ms": 198558,
       "name": "Panorama",
       "url": "https://open.spotify.com/track/6faF0N0fecqw3dopttNP9i"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        },
+        {
+          "name": "G-DRAGON",
+          "url": "https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c"
+        }
+      ],
+      "duration_ms": 217412,
+      "name": "Palette (feat. G-DRAGON)",
+      "url": "https://open.spotify.com/track/3y7ByLZ05tluscOTRgEJ9Y"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "BLOSSOM - THE 3RD MINI ALBUM",
+        "url": "https://open.spotify.com/album/6ZlXpA35FslDym9FIKaygk"
+      },
+      "artists": [
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 182253,
+      "name": "Good Night",
+      "url": "https://open.spotify.com/track/4UeyAaK7d1nxuW5kFjZAlw"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -399,8 +383,8 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "Palette",
-        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+        "name": "BBIBBI",
+        "url": "https://open.spotify.com/album/4ghBzVOTFoeKPPmyNKjVtI"
       },
       "artists": [
         {
@@ -408,9 +392,9 @@
           "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
         }
       ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
+      "duration_ms": 194426,
+      "name": "BBIBBI",
+      "url": "https://open.spotify.com/track/4as4XEOR03oGm1STUKl6pa"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -483,6 +467,22 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
+        "name": "Palette",
+        "url": "https://open.spotify.com/album/5V8n6fqyAPxvFTibPhQVcp"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/3P3UA61WRQqwCXaoFOTENd"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
         "name": "A-TEEN2 Part.1",
         "url": "https://open.spotify.com/album/2quxDpdeABmtoUbYIHgnNa"
       },
@@ -547,22 +547,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
-        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
-      },
-      "artists": [
-        {
-          "name": "Coffeeboy",
-          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
-        }
-      ],
-      "duration_ms": 357120,
-      "name": "\ub0b4\uac00 \ub2c8\ud3b8\uc774 \ub418\uc5b4 \uc904\uac8c I Will Be on Your Side",
-      "url": "https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "Love poem",
         "url": "https://open.spotify.com/album/2xEH7SRzJq7LgA0fCtTlxH"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 258238,
       "name": "Love poem",
       "url": "https://open.spotify.com/track/7HrE6HtYNBbGqp5GmHbFV0"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "\uc138 \ubc88\uc9f8 \uc74c\uc545 \ub85c\uc2a4\ud305 3rd Music Roasting",
+        "url": "https://open.spotify.com/album/4mTjpPc2hkMI2cJ1dnMzle"
+      },
+      "artists": [
+        {
+          "name": "Coffeeboy",
+          "url": "https://open.spotify.com/artist/5F0ZKImhec2HLnFQzsl1CM"
+        }
+      ],
+      "duration_ms": 357120,
+      "name": "\ub0b4\uac00 \ub2c8\ud3b8\uc774 \ub418\uc5b4 \uc904\uac8c I Will Be on Your Side",
+      "url": "https://open.spotify.com/track/15EEempFA9NjYGXhjxs9H7"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -679,22 +679,6 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "20",
-        "url": "https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP"
-      },
-      "artists": [
-        {
-          "name": "Cho Yong Pil",
-          "url": "https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA"
-        }
-      ],
-      "duration_ms": 267093,
-      "name": "It\u2019ll Be Okay",
-      "url": "https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY"
-    },
-    {
-      "added_at": "2024-10-23 08:31:15",
-      "album": {
         "name": "YUMI's Cells 2, Pt. 4 (Original Television Soundtrack)",
         "url": "https://open.spotify.com/album/7iCgUlIHBbHCPWM08m3yYJ"
       },
@@ -711,18 +695,18 @@
     {
       "added_at": "2024-10-23 08:31:15",
       "album": {
-        "name": "wish you all to be happy",
-        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
+        "name": "20",
+        "url": "https://open.spotify.com/album/4XjciqB3gdIikbiA45OqvP"
       },
       "artists": [
         {
-          "name": "Han All",
-          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+          "name": "Cho Yong Pil",
+          "url": "https://open.spotify.com/artist/5j200KdlKsIVqjoSDIWycA"
         }
       ],
-      "duration_ms": 232588,
-      "name": "wish you all to be happy",
-      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
+      "duration_ms": 267093,
+      "name": "It\u2019ll Be Okay",
+      "url": "https://open.spotify.com/track/3aSizsRBTLW7NjuypC13fY"
     },
     {
       "added_at": "2024-10-23 08:31:15",
@@ -743,6 +727,22 @@
       "duration_ms": 251374,
       "name": "Happier (feat. Crush)",
       "url": "https://open.spotify.com/track/5HOzA1X13wwOJKF0cFKkQx"
+    },
+    {
+      "added_at": "2024-10-23 08:31:15",
+      "album": {
+        "name": "wish you all to be happy",
+        "url": "https://open.spotify.com/album/4Z2heFJ5SRDyIyMJlK6TDm"
+      },
+      "artists": [
+        {
+          "name": "Han All",
+          "url": "https://open.spotify.com/artist/4y2MA188txnWeMIw9XwaJS"
+        }
+      ],
+      "duration_ms": 232588,
+      "name": "wish you all to be happy",
+      "url": "https://open.spotify.com/track/3vHAC5HrdyefPr5biodJGQ"
     },
     {
       "added_at": "2024-10-23 08:31:15",

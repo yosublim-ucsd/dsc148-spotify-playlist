@@ -4,7 +4,7 @@
 
 > La nueva ola de trovadores del siglo XXI\. En portada: Yoly Saa.
 
-735 songs - 1 day 19 hr 52 min
+736 songs - 1 day 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,7 @@
 | [Acepto](https://open.spotify.com/track/0zqNBJ162qCK8oupuvzPt2) | [Paula Grande](https://open.spotify.com/artist/6NRB0LxYAAYKtbSOTB7m8M) | [Acepto](https://open.spotify.com/album/7uX4XUwFWuvbOY3Tb73ZvK) | 3:19 | 2022-04-01 | 2022-04-20 |
 | [Activíctima](https://open.spotify.com/track/22mdJjwKLG0LkavrkLEj0H) | [Antílopez](https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK) | [Activíctima](https://open.spotify.com/album/1PX5yQZZZMtKU27Xc7Mc21) | 3:29 | 2021-12-24 | 2022-07-27 |
 | [Agradecer](https://open.spotify.com/track/67za0SMGWgdmDmjJc23Lr6) | [El David Aguilar](https://open.spotify.com/artist/4exC9EVGcJb6F33htBWbkk) | [Reciente](https://open.spotify.com/album/7LopfkbXZGR9wt2ciYgFiz) | 3:31 | 2021-12-24 | 2022-03-07 |
-| [Agua](https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA) | [Clara Presta](https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX), [Matias Cella](https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC) | [Las Mareas](https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9) | 3:14 | 2024-08-30 |  |
+| [Agua](https://open.spotify.com/track/1hcO5FZQQYkTOnh03labQA) | [Clara Presta](https://open.spotify.com/artist/73R8Ixpy37HaFol7XfcFZX), [Matias Cella](https://open.spotify.com/artist/1qG5NrzaDKjGSywr0YI4yC) | [Las Mareas](https://open.spotify.com/album/1wD0EF0XDgCVlZIoAuynt9) | 3:14 | 2024-08-30 | 2025-01-20 |
 | [Aguatera](https://open.spotify.com/track/7FR26rQuikSbhhNHf3HhX3) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [El Valle Encantado](https://open.spotify.com/album/7zpoL3fDPFbGYB7XdbSl1S) | 3:23 | 2022-04-01 | 2022-05-28 |
 | [Agüita del equilibrio](https://open.spotify.com/track/4FHCDi6WjHPYUpoDqsD1VJ) | [Alejandro y Maria Laura](https://open.spotify.com/artist/3jAurSJUGt2LY7V417BF0u), [Renata Flores](https://open.spotify.com/artist/3TZtFZu2rmUnoE0kr8QxdT) | [Agüita del equilibrio](https://open.spotify.com/album/7ofJqkZR4YXfEB4guQ0YD5) | 4:23 | 2024-08-30 |  |
 | [Ahizpa / Germana](https://open.spotify.com/track/0EkOCrrkvCV6Fu47APCj2J) | [Judit Neddermann](https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE), [IDOIA](https://open.spotify.com/artist/2iq1FxEfislRCbTq8A1GzC) | [Artean](https://open.spotify.com/album/3Kw5RPRLo5h9S1Jd0tKEF8) | 3:17 | 2024-11-11 |  |
@@ -736,6 +736,7 @@
 | [Yo no Necesito de Mucho](https://open.spotify.com/track/6lEr0uF4mJJAODSXfQ6WvR) | [Laura Itandehui](https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK) | [Laura Itandehui](https://open.spotify.com/album/4LS3jrPzt2givh5P1n98Ot) | 2:51 | 2022-03-04 | 2024-07-27 |
 | [Yo podría ser John Wayne](https://open.spotify.com/track/0ip49KbUd1NO3p3cTHjvTA) | [Pauline En La Playa](https://open.spotify.com/artist/6lWRTt7KIsFeuwixhbgnTe) | [Yo podría ser John Wayne](https://open.spotify.com/album/3KFC3C9KjGflulgXtEZY6E) | 4:18 | 2024-09-24 | 2024-10-26 |
 | [Yo Soy](https://open.spotify.com/track/530CUFzf8pqO9cbSM0C5SB) | [Connie Isla](https://open.spotify.com/artist/3rRWzsERkCNBl27Nih029a), [Muerdo](https://open.spotify.com/artist/3Tn4gmQQde9am94ntk2NBq) | [Yo Soy](https://open.spotify.com/album/6CO6GE3u3JTuxdcE10nE0e) | 3:36 | 2021-12-24 | 2024-10-05 |
+| [¡Desaparece!](https://open.spotify.com/track/1NwIqopnNT8SGtNUMPs5f1) | [Pez Mago](https://open.spotify.com/artist/0q7reCakAPlG4G3a0qCYyY) | [¡Desaparece!](https://open.spotify.com/album/1AXXtUOauS7V45A2xFksu7) | 3:45 | 2025-01-16 |  |
 | [¡Qué bonito es vivir!](https://open.spotify.com/track/1bZZOc7OZOI0lH1zI72MtY) | [La Helen](https://open.spotify.com/artist/0i32iL4Kb92Zp16W8322t7) | [¡Qué bonito es vivir!](https://open.spotify.com/album/4CPaFD65cexVMdHVbCoddz) | 3:37 | 2024-10-25 | 2024-12-29 |
 | [Ámbar y el Mar](https://open.spotify.com/track/2htIgCfBPCV3dktlvtSSa9) | [Íñigo Merino](https://open.spotify.com/artist/4RcxB8P0t3Pz6gaOHTFgWm), [Luis Fercán](https://open.spotify.com/artist/5zEzsy3xqiIuOBBzHyNeCS) | [Lo de Dentro](https://open.spotify.com/album/02brbroQgEfCvcefeXoFBe) | 3:52 | 2022-02-04 | 2022-05-26 |
 | [Ángeles](https://open.spotify.com/track/1rLKzfFAUwUXlWK5ocaD7m) | [Solomon Zu](https://open.spotify.com/artist/5fhdwAxeYvUbQqNww6kRqw) | [Ángeles](https://open.spotify.com/album/7FeTKiOKGu7URr1mxjLMzs) | 3:44 | 2024-04-19 | 2024-05-04 |

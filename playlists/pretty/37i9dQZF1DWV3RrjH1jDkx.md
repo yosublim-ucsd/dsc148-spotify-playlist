@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Ny musikk 🎵
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,720 likes - 97 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,721 likes - 97 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 13 | [Følelser](https://open.spotify.com/track/2k99mwxVgN8hpcVx6OWhRf) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [Følelser](https://open.spotify.com/album/4tOf1m1lthgxbc4dw3e5Hm) | 3:15 |
 | 14 | [Colder](https://open.spotify.com/track/3VrTveHXhlLGHtnSK1riuT) | [anamē](https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi), [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Colder](https://open.spotify.com/album/18gH3dJGcBPiPnwmtRHNLV) | 2:56 |
 | 15 | [It´s Ok If You Forget Me \(feat\. Emma Jensen\)](https://open.spotify.com/track/61g5DDHobx9aPCBsKgKiqP) | [Thomas Dybdahl](https://open.spotify.com/artist/6kUglM25Mvn6Uy7EDXsT1n), [Emma Jensen](https://open.spotify.com/artist/0VvhSiR3ZVt1cA4xCfleUS), [Hver gang vi møtes](https://open.spotify.com/artist/24Lqq3mnesl7IljSVFEBEO) | [It's Ok If You Forget Me](https://open.spotify.com/album/5gojU2qbIqKDBO7L1Q8OOG) | 2:56 |
-| 16 | [Coming home \(from NRK\-scenen at P3 Gull\) \[feat\. Ruben, Chris Holsten, Hillari, Anna Lille\]](https://open.spotify.com/track/2uqMA5ZyEWiau08lBqmO8Q) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Coming home \(from NRK\-scenen at P3 Gull\) \[feat\. Ruben, Chris Holsten, Hillari, Anna Lille\]](https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf) | 3:46 |
+| 16 | [Coming Home \(from NRK\-scenen at P3 Gull\) \[feat\. Ruben, Chris Holsten, Hillari, Anna Lille\]](https://open.spotify.com/track/2uqMA5ZyEWiau08lBqmO8Q) | [Fay Wildhagen](https://open.spotify.com/artist/7lu3ibFfJWrm1X1eLLRz2P), [Anna Lille](https://open.spotify.com/artist/4nwpfzpdL72UcfB0O3y6Gk), [Chris Holsten](https://open.spotify.com/artist/63Dir7MyAhpGcHU3rOh3uF), [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM), [Ruben](https://open.spotify.com/artist/0x3PXj1WnuW7YsBxQK57xM) | [Coming Home \(from NRK\-scenen at P3 Gull\) \[feat\. Ruben, Chris Holsten, Hillari, Anna Lille\]](https://open.spotify.com/album/7ylc8QuYzhUA3aM66QOfFf) | 3:46 |
 | 17 | [Funny Papers](https://open.spotify.com/track/4pu58kqegTnOxPNJpY3kr9) | [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [Balloonerism](https://open.spotify.com/album/2ANFIaCb53iam0MBkFFoxY) | 4:23 |
 | 18 | [Solodance](https://open.spotify.com/track/17YBzqFJYoX3jhzPgP55WD) | [Tungevaag](https://open.spotify.com/artist/49CE2ffZ6Z3zeYSDauSKck), [Liis Lemsalu](https://open.spotify.com/artist/2rdUWyphqOltYR6zPaMPrU) | [Solodance](https://open.spotify.com/album/3dkCyIgjPSL5knHWzRvWAw) | 2:56 |
 | 19 | [De vil se](https://open.spotify.com/track/4N48lc8wbF6abPhrVyvGiG) | [Tigergutt101](https://open.spotify.com/artist/1tjaYa0dBPYGvEHOVUMX5K) | [De vil se](https://open.spotify.com/album/5S7DOGdQyzK2L8vaygEiC8) | 2:20 |

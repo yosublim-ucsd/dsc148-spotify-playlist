@@ -4,7 +4,7 @@
 
 > 
 
-1,970 songs - 4 day 8 hr 40 min
+1,971 songs - 4 day 8 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1830,6 +1830,7 @@
 | [Upside Down](https://open.spotify.com/track/5JbPxjJZr5RFD0UGUqZccE) | [Lil Texas](https://open.spotify.com/artist/76raIy8boaM9sf9gMGXGJ5) | [NEED FOR SPEED](https://open.spotify.com/album/3bNU00DAypHgWuehEIl935) | 2:52 | 2024-07-26 |  |
 | [Ur End](https://open.spotify.com/track/2qiESu0R2AWgGs6SmaUyjM) | [Bright Visions](https://open.spotify.com/artist/0emNN1sdeedFWTl0dY9FHw), [Strixter](https://open.spotify.com/artist/5KENAwkg6GClWnY28tokF8) | [collab\_ep\_2.wav](https://open.spotify.com/album/2e6mdjeU18oC0GEJxKJt3m) | 2:54 | 2024-08-25 |  |
 | [Use Somebody](https://open.spotify.com/track/0zXKokbGrtZe67VxYJYwN0) | [Tony Junior](https://open.spotify.com/artist/17esEoE9uEHFKuzkar2UL0), [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS) | [Use Somebody](https://open.spotify.com/album/092vyskf9htiWRdTiGtTel) | 2:54 | 2023-03-06 |  |
+| [Utopia](https://open.spotify.com/track/6OfBDwczRKT2wMj1s0YqBJ) | [Vexxed](https://open.spotify.com/artist/49QBXRxNfA7BBLMqRIB8jY) | [Utopia](https://open.spotify.com/album/14YvDsN7BmpKDqpAXhjGba) | 3:23 | 2025-01-20 |  |
 | [Veilinghallen](https://open.spotify.com/track/2n33B7iUh4oRF37trcSq3M) | [Dither](https://open.spotify.com/artist/2CTPZndAY5BwdgHk8AX0B7), [Da Mouth of Madness](https://open.spotify.com/artist/3QUpjXKcTee8KscFqpkSfv) | [Defqon.1 2022](https://open.spotify.com/album/0IIZiAU8DR9Jk586zHolw2) | 3:29 | 2022-09-06 |  |
 | [Veo Veo](https://open.spotify.com/track/13FraYFP1CPx0c726P5cF3) | [Beats by Luca](https://open.spotify.com/artist/4zWCSVXVIgIscx9kT3vfOs), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [Veo Veo](https://open.spotify.com/album/0dheXvm7uUV6KW3CgmeDFW) | 2:46 | 2024-04-09 |  |
 | [Victory](https://open.spotify.com/track/2r70WCWAe6rSse7KL9ItdY) | [Rayvolt](https://open.spotify.com/artist/1R2w3Q79ySxr9LyhQL4ty2), [D'ort](https://open.spotify.com/artist/7H96PqbTkVRtQTdBNtiljh), [RXBY](https://open.spotify.com/artist/1XpF2jsRjXNS7PXMfbOn0z) | [Victory](https://open.spotify.com/album/0ZStfzITWNkS9n2g4Jq4q4) | 3:43 | 2024-02-22 |  |

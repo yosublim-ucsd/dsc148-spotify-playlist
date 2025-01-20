@@ -1,6 +1,6 @@
 {
   "description": "New makes old. Cover: Orville Peck",
-  "num_followers": 309138,
+  "num_followers": 309168,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "You're Dreaming",
-        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
-      },
-      "artists": [
-        {
-          "name": "The Cactus Blossoms",
-          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
-        }
-      ],
-      "duration_ms": 241646,
-      "name": "Mississippi",
-      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "Logan Ledger",
         "url": "https://open.spotify.com/album/6unbrJ83ygRGVgd6VeBfQD"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 244773,
       "name": "Burial Ground",
       "url": "https://open.spotify.com/track/1Xzyo31tkXB53PaRnPziLR"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "You're Dreaming",
+        "url": "https://open.spotify.com/album/4qGvK6eH2aTvYIu1WmSSxG"
+      },
+      "artists": [
+        {
+          "name": "The Cactus Blossoms",
+          "url": "https://open.spotify.com/artist/7kWwQAe9JnYNMk4kuEe73S"
+        }
+      ],
+      "duration_ms": 241646,
+      "name": "Mississippi",
+      "url": "https://open.spotify.com/track/2MzuBHUg1YLezoTZqfBfVl"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -719,6 +719,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "With Me in the Summer",
+        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
+      },
+      "artists": [
+        {
+          "name": "Molly Parden",
+          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
+        }
+      ],
+      "duration_ms": 189871,
+      "name": "Still Miss the Way",
+      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -779,22 +795,6 @@
       "duration_ms": 143160,
       "name": "My Heart Skips A Beat",
       "url": "https://open.spotify.com/track/2M2W0AOYzKABAo1CyfZoCE"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "With Me in the Summer",
-        "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
-      },
-      "artists": [
-        {
-          "name": "Molly Parden",
-          "url": "https://open.spotify.com/artist/5dUUxJQg27XaHdKyLYwNg5"
-        }
-      ],
-      "duration_ms": 189871,
-      "name": "Still Miss the Way",
-      "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -959,6 +959,22 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
+        "name": "Tides",
+        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
+      },
+      "artists": [
+        {
+          "name": "Gold Child",
+          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
+        }
+      ],
+      "duration_ms": 220571,
+      "name": "Tides",
+      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
         "name": "Runnin'",
         "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
       },
@@ -991,22 +1007,6 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "Tides",
-        "url": "https://open.spotify.com/album/2zeMD5gCF3cEO2kbwqZhQ4"
-      },
-      "artists": [
-        {
-          "name": "Gold Child",
-          "url": "https://open.spotify.com/artist/4eLkmXx57uAURrxBDC7pOc"
-        }
-      ],
-      "duration_ms": 220571,
-      "name": "Tides",
-      "url": "https://open.spotify.com/track/50D2vaJ8GTjwslNQvhLmn6"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
         "name": "This Masquerade",
         "url": "https://open.spotify.com/album/1otvDymvVShCQLgSWp869e"
       },
@@ -1019,6 +1019,22 @@
       "duration_ms": 192750,
       "name": "This Masquerade",
       "url": "https://open.spotify.com/track/6NqwctQ0JPaXCwXKZk5wDL"
+    },
+    {
+      "added_at": "2024-07-12 04:00:00",
+      "album": {
+        "name": "Violets as Camouflage",
+        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
+      },
+      "artists": [
+        {
+          "name": "Mary Bragg",
+          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
+        }
+      ],
+      "duration_ms": 196339,
+      "name": "I Thought You Were Somebody Else",
+      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1103,22 +1119,6 @@
       "duration_ms": 239600,
       "name": "Table for One",
       "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
-    },
-    {
-      "added_at": "2024-07-12 04:00:00",
-      "album": {
-        "name": "Violets as Camouflage",
-        "url": "https://open.spotify.com/album/0KCa9BfM1VLKSzfxfM4EPk"
-      },
-      "artists": [
-        {
-          "name": "Mary Bragg",
-          "url": "https://open.spotify.com/artist/72FO0BvoMxHvbQwbNrKqtj"
-        }
-      ],
-      "duration_ms": 196339,
-      "name": "I Thought You Were Somebody Else",
-      "url": "https://open.spotify.com/track/7ntJiMBoxCgOROYz59q0Yk"
     },
     {
       "added_at": "2024-07-12 04:00:00",
@@ -1675,18 +1675,26 @@
     {
       "added_at": "2024-07-12 04:00:00",
       "album": {
-        "name": "May Your Kindness Remain",
-        "url": "https://open.spotify.com/album/2243YLxNEgz5YJLgfDU9vb"
+        "name": "Unchained Melody / You've Lost That Lovin' Feelin'",
+        "url": "https://open.spotify.com/album/2wuSSfY2acuozXaOth22B1"
       },
       "artists": [
         {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+          "name": "The Unrighteous Brothers",
+          "url": "https://open.spotify.com/artist/4Q1IDfpCe7ZRhPDfqeb5dd"
+        },
+        {
+          "name": "Paul Cauthen",
+          "url": "https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp"
+        },
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
         }
       ],
-      "duration_ms": 234306,
-      "name": "May Your Kindness Remain",
-      "url": "https://open.spotify.com/track/71pFxGowi0CXkBJ9wgSwgf"
+      "duration_ms": 229497,
+      "name": "You've Lost That Lovin' Feelin'",
+      "url": "https://open.spotify.com/track/7enr4eQzPkih9M7TkeDuw0"
     }
   ],
   "unique_name": "Vintage Vibes",

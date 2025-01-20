@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Hoke
 
-[Spotify](https://open.spotify.com/user/spotify) - 536,832 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 536,898 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 12 | [Shars 2019](https://open.spotify.com/track/4vI7HAK6oC52MfOYlICa0l) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2019](https://open.spotify.com/album/0ouvrlpcjyOklFJK70pwNe) | 2:55 |
 | 13 | [Shorty](https://open.spotify.com/track/5emjBfWheJT83MyOzmlTNU) | [FERNANDOCOSTA](https://open.spotify.com/artist/5dC7EcwWdf9Qj4VvJab4rZ) | [Tirititando](https://open.spotify.com/album/23CDTnMpY9k9tKblvWsxGw) | 3:03 |
 | 14 | [ES COMO FAK](https://open.spotify.com/track/5sUbra1c8ZDnD9chdM4cUf) | [GRECAS](https://open.spotify.com/artist/3DhrvmXFJs6QKCSafoPhl4), [JCC](https://open.spotify.com/artist/7rbogZhjRh7OvlNYjeyy8U) | [ES COMO FAK](https://open.spotify.com/album/73KT9WlDKkzNMOqtnOxnCa) | 2:19 |
-| 15 | [Vacas y Lobos](https://open.spotify.com/track/5wJBwxnoAs1BmxZivpFqup) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Juan Arance](https://open.spotify.com/artist/4jhJtfLj5b5ivzyQ8o80wH) | [Vacas y Lobos](https://open.spotify.com/album/4Nxn6GYBsoZ4cCe3UvWUj8) | 3:18 |
+| 15 | [Vacas y Lobos](https://open.spotify.com/track/5wJBwxnoAs1BmxZivpFqup) | [Juancho Marqués](https://open.spotify.com/artist/5JcO3FHEBbWTQMUHmWtU2g), [Juan Arance](https://open.spotify.com/artist/7zVa1nAsArJxi8DCQa3NAB) | [Vacas y Lobos](https://open.spotify.com/album/4Nxn6GYBsoZ4cCe3UvWUj8) | 3:18 |
 | 16 | [Shars 2020](https://open.spotify.com/track/036QM4rIhz7A7n66IWA7Ej) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl) | [Shars 2020](https://open.spotify.com/album/3whSTfSW2CfXbaGDTwDbOQ) | 3:05 |
 | 17 | [Prefiero no pensarlo](https://open.spotify.com/track/2B1NHncfObu77oLouGac1P) | [Kaze](https://open.spotify.com/artist/2X11x8C63wCzAf1WwsIuLg), [Toni Anzis](https://open.spotify.com/artist/4Y1YeIY4yWN4U5Qwi68Soq) | [Prefiero no pensarlo](https://open.spotify.com/album/6NB1SrHfFnValcfXnFjhVU) | 3:01 |
 | 18 | [Princesa](https://open.spotify.com/track/2dabNpFyjIQTVSZ18CPoLa) | [SWIT EME](https://open.spotify.com/artist/51UDJfCuXko0jNa0wdN9Cz) | [Princesa](https://open.spotify.com/album/4nkT1uabLIgbCaKPxoUl2D) | 2:34 |

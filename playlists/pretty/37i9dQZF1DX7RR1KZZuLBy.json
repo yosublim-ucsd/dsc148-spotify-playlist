@@ -1,6 +1,6 @@
 {
   "description": "Listen to your favourite tunes for inspiration and upliftment.",
-  "num_followers": 57133,
+  "num_followers": 57191,
   "original_name": "Gospel Greatness",
   "owner": {
     "name": "Spotify",
@@ -255,6 +255,62 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
+        "name": "Believe For It",
+        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
+      },
+      "artists": [
+        {
+          "name": "CeCe Winans",
+          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
+        }
+      ],
+      "duration_ms": 297693,
+      "name": "Goodness Of God - Live",
+      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Chandler Moore: Live in Los Angeles",
+        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
+      },
+      "artists": [
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        }
+      ],
+      "duration_ms": 685340,
+      "name": "Omemma - Live",
+      "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Firm Foundation (He Won't)",
+        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
+      },
+      "artists": [
+        {
+          "name": "Maverick City Music",
+          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
+        },
+        {
+          "name": "Chandler Moore",
+          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
+        },
+        {
+          "name": "Cody Carnes",
+          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
+        }
+      ],
+      "duration_ms": 524757,
+      "name": "Firm Foundation (He Won't)",
+      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
         "name": "No Other Name",
         "url": "https://open.spotify.com/album/4qKQSjyrG1mS84P5tgX7ks"
       },
@@ -291,82 +347,6 @@
       "duration_ms": 170353,
       "name": "PRAISES (remix)",
       "url": "https://open.spotify.com/track/1JlDJFcBJ3BSiyuokxOA1l"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Believe For It",
-        "url": "https://open.spotify.com/album/5UXG9YjxHZu7l4tTNjwIYX"
-      },
-      "artists": [
-        {
-          "name": "CeCe Winans",
-          "url": "https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb"
-        }
-      ],
-      "duration_ms": 297693,
-      "name": "Goodness Of God - Live",
-      "url": "https://open.spotify.com/track/59uuKDpLFhHtCWwMudospF"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Firm Foundation (He Won't)",
-        "url": "https://open.spotify.com/album/0CbOOeE8abk2so7RnDF6ao"
-      },
-      "artists": [
-        {
-          "name": "Maverick City Music",
-          "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
-        },
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        },
-        {
-          "name": "Cody Carnes",
-          "url": "https://open.spotify.com/artist/7apN8bBgl19E0Ona9pvPq0"
-        }
-      ],
-      "duration_ms": 524757,
-      "name": "Firm Foundation (He Won't)",
-      "url": "https://open.spotify.com/track/16UFXi7IGVGG1mUSBMHfh2"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Chandler Moore: Live in Los Angeles",
-        "url": "https://open.spotify.com/album/0Zjn1YJmwcsvmHqc4LPI6V"
-      },
-      "artists": [
-        {
-          "name": "Chandler Moore",
-          "url": "https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk"
-        }
-      ],
-      "duration_ms": 685340,
-      "name": "Omemma - Live",
-      "url": "https://open.spotify.com/track/7IsfOkZyazuFl8CCTbOZ59"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Trust In God / More Than Able",
-        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 442264,
-      "name": "Trust In God (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -417,6 +397,26 @@
       "url": "https://open.spotify.com/track/2iqyErkSp4WMehvFy7FDID"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Trust In God / More Than Able",
+        "url": "https://open.spotify.com/album/0S5WweUHqJ4VLgXOfpmFZj"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 442264,
+      "name": "Trust In God (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/5EHMPGhsQY5o1pcjOejbMj"
+    },
+    {
       "added_at": "2024-05-31 23:59:00",
       "album": {
         "name": "The Prodigal",
@@ -447,6 +447,22 @@
       "duration_ms": 217426,
       "name": "He Sees You",
       "url": "https://open.spotify.com/track/5AMWaLVjAF8UDJLvWyMCT1"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Hello Fear",
+        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
+      },
+      "artists": [
+        {
+          "name": "Kirk Franklin",
+          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
+        }
+      ],
+      "duration_ms": 307973,
+      "name": "I Smile",
+      "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -497,6 +513,22 @@
       "url": "https://open.spotify.com/track/4irEfIEfEXuaPVOYDCw5Rm"
     },
     {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "Calling My Name (I'm A Soldier) [Live]",
+        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
+      },
+      "artists": [
+        {
+          "name": "Ebuka Songs",
+          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
+        }
+      ],
+      "duration_ms": 638798,
+      "name": "Calling My Name (I'm A Soldier) - Live",
+      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
+    },
+    {
       "added_at": "2024-07-05 00:01:00",
       "album": {
         "name": "CAN YOU IMAGINE?",
@@ -515,38 +547,6 @@
       "duration_ms": 464333,
       "name": "Been So Good (feat. Tiffany Hudson)",
       "url": "https://open.spotify.com/track/4dEUfBPs6bydmssKnnqDMV"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Hello Fear",
-        "url": "https://open.spotify.com/album/6CkiHbEFRtD75ghxLBOn3N"
-      },
-      "artists": [
-        {
-          "name": "Kirk Franklin",
-          "url": "https://open.spotify.com/artist/4akybxRTGHJZ1DXjLhJ1qu"
-        }
-      ],
-      "duration_ms": 307973,
-      "name": "I Smile",
-      "url": "https://open.spotify.com/track/0UQDSP8cz6WmLJckO5jqUQ"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Calling My Name (I'm A Soldier) [Live]",
-        "url": "https://open.spotify.com/album/43Ezc94qcwnX6mnmuUQnUO"
-      },
-      "artists": [
-        {
-          "name": "Ebuka Songs",
-          "url": "https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM"
-        }
-      ],
-      "duration_ms": 638798,
-      "name": "Calling My Name (I'm A Soldier) - Live",
-      "url": "https://open.spotify.com/track/6pKrwKfT1IUq6GvO7xtlIW"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -583,18 +583,18 @@
     {
       "added_at": "2023-12-01 00:01:00",
       "album": {
-        "name": "See A Victory",
-        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+        "name": "Jesus Is Enough",
+        "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
       },
       "artists": [
         {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+          "name": "Xolly Mncwango",
+          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
         }
       ],
-      "duration_ms": 363230,
-      "name": "See A Victory",
-      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
+      "duration_ms": 356306,
+      "name": "Ungukuphila",
+      "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -619,22 +619,6 @@
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
-    },
-    {
-      "added_at": "2023-12-01 00:01:00",
-      "album": {
-        "name": "Jesus Is Enough",
-        "url": "https://open.spotify.com/album/5zE9oNFI9xWwuhW11OOvii"
-      },
-      "artists": [
-        {
-          "name": "Xolly Mncwango",
-          "url": "https://open.spotify.com/artist/3kSRqsGHRSxw2jBJ6DffE4"
-        }
-      ],
-      "duration_ms": 356306,
-      "name": "Ungukuphila",
-      "url": "https://open.spotify.com/track/53wwaMp15eGyE12Cm7sxLa"
     },
     {
       "added_at": "2023-12-01 00:01:00",
@@ -683,6 +667,22 @@
       "duration_ms": 243666,
       "name": "MIRACLE CHILD",
       "url": "https://open.spotify.com/track/5v5njFL7J6kb2ncCsgXszl"
+    },
+    {
+      "added_at": "2023-12-01 00:01:00",
+      "album": {
+        "name": "See A Victory",
+        "url": "https://open.spotify.com/album/3YKyqEwSPz9mjNb4NucFpq"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 363230,
+      "name": "See A Victory",
+      "url": "https://open.spotify.com/track/3gtqd9P8kZblHf4I7Ybub2"
     },
     {
       "added_at": "2024-05-31 23:59:00",
@@ -769,6 +769,50 @@
       "url": "https://open.spotify.com/track/6Kfd3XrgqJ0M50O3Z5KN9c"
     },
     {
+      "added_at": "2024-05-31 23:59:00",
+      "album": {
+        "name": "Jesus Changed My Life (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo"
+      },
+      "artists": [
+        {
+          "name": "Katy Nichole",
+          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
+        },
+        {
+          "name": "Naomi Raine",
+          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
+        }
+      ],
+      "duration_ms": 193253,
+      "name": "My God Can",
+      "url": "https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL"
+    },
+    {
+      "added_at": "2024-08-16 00:01:00",
+      "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm"
+      },
+      "artists": [
+        {
+          "name": "Tim Godfrey",
+          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
+        },
+        {
+          "name": "Fearless Community",
+          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
+        },
+        {
+          "name": "Anderson",
+          "url": "https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi"
+        }
+      ],
+      "duration_ms": 657912,
+      "name": "Big God",
+      "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
+    },
+    {
       "added_at": "2024-07-05 00:01:00",
       "album": {
         "name": "No Longer Bound (I'm Free)",
@@ -795,26 +839,6 @@
     {
       "added_at": "2024-05-31 23:59:00",
       "album": {
-        "name": "Jesus Changed My Life (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1DaO9r3sgudFiiBYVPGrSo"
-      },
-      "artists": [
-        {
-          "name": "Katy Nichole",
-          "url": "https://open.spotify.com/artist/4sdhhi6q1Ez9l5PagQsykC"
-        },
-        {
-          "name": "Naomi Raine",
-          "url": "https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD"
-        }
-      ],
-      "duration_ms": 193253,
-      "name": "My God Can",
-      "url": "https://open.spotify.com/track/1ySdxDrt5kh9MiEM8doZLL"
-    },
-    {
-      "added_at": "2024-05-31 23:59:00",
-      "album": {
         "name": "Somebody to You",
         "url": "https://open.spotify.com/album/5CSCmth1QdipVm1AauVRut"
       },
@@ -831,30 +855,6 @@
       "duration_ms": 228690,
       "name": "Somebody to You",
       "url": "https://open.spotify.com/track/4TnXEn8UJaGqCa1cqWkX2z"
-    },
-    {
-      "added_at": "2024-08-16 00:01:00",
-      "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/4gkygS0bybfrSmP7TElwIm"
-      },
-      "artists": [
-        {
-          "name": "Tim Godfrey",
-          "url": "https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2"
-        },
-        {
-          "name": "Fearless Community",
-          "url": "https://open.spotify.com/artist/5J1yubAmjkICPtT1FSGY9A"
-        },
-        {
-          "name": "Anderson",
-          "url": "https://open.spotify.com/artist/7dbUWZryjCvpQ4g1VdUsXi"
-        }
-      ],
-      "duration_ms": 657912,
-      "name": "Big God",
-      "url": "https://open.spotify.com/track/4Zpw0Yb8T8hfyQht5pQ4HG"
     },
     {
       "added_at": "2024-05-31 23:59:00",

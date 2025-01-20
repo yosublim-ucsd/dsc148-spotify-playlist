@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-536 songs - 1 day 5 hr 21 min
+538 songs - 1 day 5 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -21,7 +21,8 @@
 | [All In \- From the Paramount+ Series ‘Grease: Rise of the Pink Ladies'](https://open.spotify.com/track/4ixeKdeupQ4pafOD1e56jP) | [Ari Notartomaso](https://open.spotify.com/artist/3kpcOPO2xmHh1ClcFXnd5o), [The Cast of Grease: Rise of the Pink Ladies](https://open.spotify.com/artist/3bF30kGvclxPV6pFKdRdXQ) | [Grease: Rise of the Pink Ladies \(Music from the Paramount+ Original Series\)](https://open.spotify.com/album/3Dymqe2SV05fcXkxSZDVXz) | 2:41 | 2024-03-26 |  |
 | [All The Way \(VIP Mix\)](https://open.spotify.com/track/15RRhpvTHUYH710VAJY7e8) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5) | [All The Way \(VIP Mix\)](https://open.spotify.com/album/2d6TneB4l29f3yQXznbcQv) | 3:18 | 2024-02-27 | 2024-09-26 |
 | [All The Way \(VIP Mix\)](https://open.spotify.com/track/16fcMEPfqvcf9WkMavFsgw) | [Hellberg](https://open.spotify.com/artist/1kgxTtyF91VaqLD3J6Krd5) | [All The Way \(VIP Mix\)](https://open.spotify.com/album/1l2Ey15P8OQ0D7WEaYEcOk) | 3:18 | 2024-09-25 |  |
-| [Angel Of Satisfaction](https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Angel Of Satisfaction](https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n) | 3:31 | 2024-08-23 |  |
+| [Angel Of Satisfaction](https://open.spotify.com/track/36jC9d0yHY8JUyxl5PrCLM) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Angel Of Satisfaction](https://open.spotify.com/album/7EhvxUYBMcsxAjt2Ub0E9n) | 3:31 | 2024-08-23 | 2025-01-20 |
+| [Angel Of Satisfaction](https://open.spotify.com/track/6f5naz4RZs9v5TezinPsHi) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:31 | 2025-01-19 |  |
 | [Are You](https://open.spotify.com/track/7wHOe00vTfOqi8WX3Hr82v) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Fifty Shades Freed \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4w0N1CaZwQ5RPIuawqlYyy) | 3:31 | 2024-02-27 |  |
 | [Asking](https://open.spotify.com/track/1fEo3ZZxtHh20Ow3z3wqvZ) | [Trinity Lake](https://open.spotify.com/artist/1IAcSFwvUres37HhuN2Rcs) | [Asking](https://open.spotify.com/album/345oRmDqLTHWoeY7O3yBcM) | 3:53 | 2024-05-31 |  |
 | [Asking 4 It](https://open.spotify.com/track/42MC4Kh9LtGCUnjfUyY6S2) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP), [Fetty Wap](https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:30 | 2024-02-27 |  |
@@ -454,7 +455,8 @@
 | [Swan Song](https://open.spotify.com/track/2GquhrcHbl2zOnF5javAFp) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [EASY](https://open.spotify.com/album/1YCj4PZi08G20y2ekGKY0C) | 2:37 | 2024-02-27 |  |
 | [Swan Song \- From the Motion Picture "Alita: Battle Angel"](https://open.spotify.com/track/5600nq7TiBraBX2jobyJ3l) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Swan Song \(From the Motion Picture "Alita: Battle Angel"\)](https://open.spotify.com/album/11u8ZjrMHunQFg7l3nfDaX) | 3:02 | 2024-02-27 |  |
 | [Sway](https://open.spotify.com/track/6yV9zIvGXvFzB964tdq65x) | [White Knight Instrumental](https://open.spotify.com/artist/46mFShagVGedAtk3aIxg4l) | [Instrumental Covers of the Pussycat Dolls](https://open.spotify.com/album/5uACZWBERupfGnOHQmuoxi) | 3:13 | 2024-02-27 |  |
-| [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-10-21 |  |
+| [Switch](https://open.spotify.com/track/1bEO8LdFDrYpJleXnVons3) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Switch](https://open.spotify.com/album/6OumeSAX4Z4eVfyU816KLM) | 3:00 | 2024-10-21 | 2025-01-20 |
+| [Switch](https://open.spotify.com/track/5iDi7ZKFgNgYnguF2zJOdC) | [Rose Gray](https://open.spotify.com/artist/5YYrWH3w4JYijU4JZrOXWA) | [Louder, Please](https://open.spotify.com/album/79SqMfih2FN1NaLtZUcccG) | 3:00 | 2025-01-19 |  |
 | [Take Care of You](https://open.spotify.com/track/3vVmS5zA3PDcdTmCb9iJEU) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Everything I Didn’t Say And More](https://open.spotify.com/album/3Le2W5qttl13XfXLvKIfw5) | 3:14 | 2024-02-27 |  |
 | [Take It Out On Me](https://open.spotify.com/track/7lISY14A9I1w3m7to2kWv1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:27 | 2024-02-27 |  |
 | [Take My Phone Away](https://open.spotify.com/track/5iIRm1NPeb4EhR6I2bKtvC) | [Caroline Kingsbury](https://open.spotify.com/artist/0uE0bzpIfuZ9XVduu0byzg) | [Take My Phone Away](https://open.spotify.com/album/7I6HvzNOc1MTYHZmint1K1) | 2:26 | 2024-09-20 |  |

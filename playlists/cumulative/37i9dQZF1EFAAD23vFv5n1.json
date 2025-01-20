@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "pupille",
+        "url": "https://open.spotify.com/album/7JTUUekkfQj1HkQhbGVugt"
+      },
+      "artists": [
+        {
+          "name": "centomilacarie",
+          "url": "https://open.spotify.com/artist/0SqAMjiB62nTuKn7DHctSa"
+        }
+      ],
+      "date_added": "2025-01-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169328,
+      "name": "pupille",
+      "url": "https://open.spotify.com/track/3SeZxt9gqqbHb4YRfCpqr3"
+    },
+    {
+      "album": {
         "name": "Radical",
         "url": "https://open.spotify.com/album/7lg6FSoBd77TI3KViyOPoT"
       },

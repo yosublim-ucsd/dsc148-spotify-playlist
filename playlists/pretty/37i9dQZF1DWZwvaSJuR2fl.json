@@ -1,6 +1,6 @@
 {
   "description": "Dvorak was deeply passionate about his homeland, traditional folk music, pigeons and train spotting; immerse yourself in his extraordinary world with this essential playlist.",
-  "num_followers": 73643,
+  "num_followers": 73667,
   "original_name": "This Is Dvo\u0159\u00e1k",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,30 @@
     {
       "added_at": "2022-09-30 04:01:00",
       "album": {
+        "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
+        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
+      },
+      "artists": [
+        {
+          "name": "Anton\u00edn Dvo\u0159\u00e1k",
+          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
+        },
+        {
+          "name": "Luzerner Sinfonieorchester",
+          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
+        },
+        {
+          "name": "James Gaffigan",
+          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
+        }
+      ],
+      "duration_ms": 290480,
+      "name": "Suite in A Major \"American Suite\", Op. 98b, B. 190: III. Moderato (alla Pollacca)",
+      "url": "https://open.spotify.com/track/7osXGhdSoZbQtQWyo4yJqt"
+    },
+    {
+      "added_at": "2022-09-30 04:01:00",
+      "album": {
         "name": "Bruch & Dvorak Violin Concertos",
         "url": "https://open.spotify.com/album/0cJCzWpgtEBg4Oovegy1H5"
       },
@@ -767,30 +791,6 @@
       "duration_ms": 611453,
       "name": "Violin Concerto in A minor, Op. 53: 3. Finale (Allegro giocoso, ma non troppo)",
       "url": "https://open.spotify.com/track/0M4wL8jEIb94PUIZhooeKL"
-    },
-    {
-      "added_at": "2022-09-30 04:01:00",
-      "album": {
-        "name": "Dvo\u0159\u00e1k: Symphony No. 6; American Suite",
-        "url": "https://open.spotify.com/album/0hAD6wHS4zHdKbazgRtp89"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Luzerner Sinfonieorchester",
-          "url": "https://open.spotify.com/artist/3bp9jWcdIJ7mBk8Z8RrKCD"
-        },
-        {
-          "name": "James Gaffigan",
-          "url": "https://open.spotify.com/artist/20mUtIJok6GaE7VOJWo15M"
-        }
-      ],
-      "duration_ms": 290480,
-      "name": "Suite in A Major \"American Suite\", Op. 98b, B. 190: III. Moderato (alla Pollacca)",
-      "url": "https://open.spotify.com/track/7osXGhdSoZbQtQWyo4yJqt"
     },
     {
       "added_at": "2022-09-30 04:01:00",

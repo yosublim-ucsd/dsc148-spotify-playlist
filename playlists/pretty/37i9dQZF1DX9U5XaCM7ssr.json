@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu mengsedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1165005,
+  "num_followers": 1165127,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2025-01-16 10:55:45",
       "album": {
+        "name": "Lyodra",
+        "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
+      },
+      "artists": [
+        {
+          "name": "Lyodra",
+          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
+        }
+      ],
+      "duration_ms": 261299,
+      "name": "Pesan Terakhir",
+      "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
+    },
+    {
+      "added_at": "2025-01-16 10:55:45",
+      "album": {
         "name": "Duka",
         "url": "https://open.spotify.com/album/6RUEyCnpcBsm3uSv08NY8q"
       },
@@ -407,6 +423,22 @@
       "duration_ms": 325147,
       "name": "Duka",
       "url": "https://open.spotify.com/track/5MIpcd16T59wFeqAChSYwC"
+    },
+    {
+      "added_at": "2025-01-16 10:55:45",
+      "album": {
+        "name": "Sentimental",
+        "url": "https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 234204,
+      "name": "Lantas",
+      "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
     },
     {
       "added_at": "2025-01-16 10:55:45",
@@ -439,22 +471,6 @@
       "duration_ms": 315960,
       "name": "Bertaut",
       "url": "https://open.spotify.com/track/630DpnzdfjdVqv2yLfPbAX"
-    },
-    {
-      "added_at": "2025-01-16 10:55:45",
-      "album": {
-        "name": "Lyodra",
-        "url": "https://open.spotify.com/album/20nf5isZzrFuEOr0tIZkWG"
-      },
-      "artists": [
-        {
-          "name": "Lyodra",
-          "url": "https://open.spotify.com/artist/6Sv2jkzH9sWQjwghW5ArMG"
-        }
-      ],
-      "duration_ms": 261299,
-      "name": "Pesan Terakhir",
-      "url": "https://open.spotify.com/track/3FwQ3RYYEekzjEeL3jdpUZ"
     },
     {
       "added_at": "2025-01-16 10:55:45",
@@ -495,8 +511,8 @@
     {
       "added_at": "2025-01-16 10:55:45",
       "album": {
-        "name": "Sentimental",
-        "url": "https://open.spotify.com/album/17vUW6koeUkV58uYfkK6G3"
+        "name": "Nonfiksi",
+        "url": "https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh"
       },
       "artists": [
         {
@@ -504,9 +520,9 @@
           "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
         }
       ],
-      "duration_ms": 234204,
-      "name": "Lantas",
-      "url": "https://open.spotify.com/track/1ZPVEo8RfmrEz8YAD5n6rW"
+      "duration_ms": 239416,
+      "name": "Lampu Kuning",
+      "url": "https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9"
     },
     {
       "added_at": "2025-01-16 10:55:45",
@@ -575,22 +591,6 @@
     {
       "added_at": "2025-01-16 10:55:45",
       "album": {
-        "name": "Nonfiksi",
-        "url": "https://open.spotify.com/album/5Y5dkZeSlePrTopuETspAh"
-      },
-      "artists": [
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        }
-      ],
-      "duration_ms": 239416,
-      "name": "Lampu Kuning",
-      "url": "https://open.spotify.com/track/6Npkwd5gv61SR6QZbTyNf9"
-    },
-    {
-      "added_at": "2025-01-16 10:55:45",
-      "album": {
         "name": "The Special One",
         "url": "https://open.spotify.com/album/7aSV0bzRGqWW3bETcc6oSp"
       },
@@ -639,6 +639,26 @@
     {
       "added_at": "2025-01-16 10:55:45",
       "album": {
+        "name": "Tak Di Tanganku",
+        "url": "https://open.spotify.com/album/35UI6U9KndqP2jBoMz9tOn"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        },
+        {
+          "name": "Mawar de Jongh",
+          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+        }
+      ],
+      "duration_ms": 232383,
+      "name": "Tak Di Tanganku",
+      "url": "https://open.spotify.com/track/4xmSDYn5n9Gu6mH6FSJDhf"
+    },
+    {
+      "added_at": "2025-01-16 10:55:45",
+      "album": {
         "name": "Dunia Yang Indah",
         "url": "https://open.spotify.com/album/0PAFGgXB2GM6llY8ZfzoW5"
       },
@@ -651,22 +671,6 @@
       "duration_ms": 289280,
       "name": "Tanpa Pesan Terakhir",
       "url": "https://open.spotify.com/track/4v9JJX3ZzuFFOKrMOYHTVZ"
-    },
-    {
-      "added_at": "2025-01-16 10:55:45",
-      "album": {
-        "name": "Monokrom",
-        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
-      },
-      "artists": [
-        {
-          "name": "Tulus",
-          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
-        }
-      ],
-      "duration_ms": 202950,
-      "name": "Langit Abu-Abu",
-      "url": "https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O"
     },
     {
       "added_at": "2025-01-16 10:55:45",
@@ -687,22 +691,34 @@
     {
       "added_at": "2025-01-16 10:55:45",
       "album": {
-        "name": "Tak Di Tanganku",
-        "url": "https://open.spotify.com/album/35UI6U9KndqP2jBoMz9tOn"
+        "name": "Monokrom",
+        "url": "https://open.spotify.com/album/4szhn3xPmOJklFAcqNvTnQ"
       },
       "artists": [
         {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        },
-        {
-          "name": "Mawar de Jongh",
-          "url": "https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK"
+          "name": "Tulus",
+          "url": "https://open.spotify.com/artist/2iDVt6mFbtbDEZG5ax0dTi"
         }
       ],
-      "duration_ms": 232383,
-      "name": "Tak Di Tanganku",
-      "url": "https://open.spotify.com/track/4xmSDYn5n9Gu6mH6FSJDhf"
+      "duration_ms": 202950,
+      "name": "Langit Abu-Abu",
+      "url": "https://open.spotify.com/track/2FaquTc3FYvNm7RuO1gD6O"
+    },
+    {
+      "added_at": "2025-01-16 10:55:45",
+      "album": {
+        "name": "Apa Mungkin",
+        "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
+      },
+      "artists": [
+        {
+          "name": "Bernadya",
+          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
+        }
+      ],
+      "duration_ms": 238879,
+      "name": "Apa Mungkin",
+      "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
     },
     {
       "added_at": "2025-01-16 10:55:45",
@@ -739,6 +755,22 @@
       "duration_ms": 261707,
       "name": "Asumsi",
       "url": "https://open.spotify.com/track/72DL0kjCGfA4qIDQnR88hT"
+    },
+    {
+      "added_at": "2025-01-16 10:55:45",
+      "album": {
+        "name": "Tampar",
+        "url": "https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz"
+      },
+      "artists": [
+        {
+          "name": "Juicy Luicy",
+          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
+        }
+      ],
+      "duration_ms": 202824,
+      "name": "Tampar",
+      "url": "https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV"
     },
     {
       "added_at": "2025-01-16 10:55:45",
@@ -787,38 +819,6 @@
       "duration_ms": 220250,
       "name": "Merasa Indah",
       "url": "https://open.spotify.com/track/3Ysf0Y3iu23mrDsVh1mdu0"
-    },
-    {
-      "added_at": "2025-01-16 10:55:45",
-      "album": {
-        "name": "Apa Mungkin",
-        "url": "https://open.spotify.com/album/26VYaukDjQn7rwT4ummk31"
-      },
-      "artists": [
-        {
-          "name": "Bernadya",
-          "url": "https://open.spotify.com/artist/47z98pKd71yIbgXwe9LPVC"
-        }
-      ],
-      "duration_ms": 238879,
-      "name": "Apa Mungkin",
-      "url": "https://open.spotify.com/track/5KYUrBgdbIcqwaGSIgfXPl"
-    },
-    {
-      "added_at": "2025-01-16 10:55:45",
-      "album": {
-        "name": "Tampar",
-        "url": "https://open.spotify.com/album/2lZzryqflrZLO9YDjnlkMz"
-      },
-      "artists": [
-        {
-          "name": "Juicy Luicy",
-          "url": "https://open.spotify.com/artist/3tMTXQyRrPmMyHv5SoC0TV"
-        }
-      ],
-      "duration_ms": 202824,
-      "name": "Tampar",
-      "url": "https://open.spotify.com/track/2RHm5IDIZ8fYRGzBIo7exV"
     },
     {
       "added_at": "2025-01-16 10:55:45",

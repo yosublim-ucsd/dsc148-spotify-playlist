@@ -1,6 +1,6 @@
 {
   "description": "Descubre lo m\u00e1s fresco de la electr\u00f3nica mexicana. R\u00d8Z en portada.",
-  "num_followers": 61585,
+  "num_followers": 61618,
   "original_name": "EDM\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -295,6 +295,30 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "Major Lazer",
+          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        }
+      ],
+      "duration_ms": 173365,
+      "name": "SOFIA",
+      "url": "https://open.spotify.com/track/1U40NYEnXxvbwdmDugvgjS"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
         "name": "NIENTIENDO",
         "url": "https://open.spotify.com/album/0cq6E8PgDiEOnV0CCpXEVy"
       },
@@ -339,30 +363,6 @@
       "duration_ms": 164769,
       "name": "CORA DE HIELO",
       "url": "https://open.spotify.com/track/36WZaDCXGYe3usRdHS5CLG"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "Major Lazer",
-          "url": "https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        }
-      ],
-      "duration_ms": 173365,
-      "name": "SOFIA",
-      "url": "https://open.spotify.com/track/1U40NYEnXxvbwdmDugvgjS"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -479,26 +479,6 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
-        "name": "PERO NO TE ENAMORES",
-        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
-      },
-      "artists": [
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        },
-        {
-          "name": "AFROJACK",
-          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
-        }
-      ],
-      "duration_ms": 186116,
-      "name": "FVCK",
-      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
         "name": "Sin Dormir (Ya Se Arm\u00f3)",
         "url": "https://open.spotify.com/album/1hwx8Kmagl1ZUYic1dK46A"
       },
@@ -531,6 +511,26 @@
       "duration_ms": 184051,
       "name": "Cantus",
       "url": "https://open.spotify.com/track/0Vkf87nNUU5wJPKtpTYt4n"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
+        "name": "PERO NO TE ENAMORES",
+        "url": "https://open.spotify.com/album/3iRQdNKyI5Pf78jWYI1tFv"
+      },
+      "artists": [
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        },
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        }
+      ],
+      "duration_ms": 186116,
+      "name": "FVCK",
+      "url": "https://open.spotify.com/track/4ZxFCbs4LAHlHvtOZ5UbIi"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -623,22 +623,22 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
-        "name": "Prende y Pasa",
-        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
+        "name": "Voices",
+        "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
       },
       "artists": [
         {
-          "name": "Jayrick",
-          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+          "name": "T78",
+          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
         },
         {
-          "name": "El Malilla",
-          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+          "name": "Mariana BO",
+          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
         }
       ],
-      "duration_ms": 163250,
-      "name": "Prende y Pasa",
-      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
+      "duration_ms": 188706,
+      "name": "Voices",
+      "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -671,26 +671,6 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
-        "name": "Voices",
-        "url": "https://open.spotify.com/album/6HveR0xxtS6V26H2TmQG41"
-      },
-      "artists": [
-        {
-          "name": "T78",
-          "url": "https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z"
-        },
-        {
-          "name": "Mariana BO",
-          "url": "https://open.spotify.com/artist/2cFzYhiHqYS7o8ZIM9WD22"
-        }
-      ],
-      "duration_ms": 188706,
-      "name": "Voices",
-      "url": "https://open.spotify.com/track/6OS6FafuDd9CytXs2pTVWG"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
         "name": "Alucina2",
         "url": "https://open.spotify.com/album/2hrlJjc9jmA4fy9olFThQm"
       },
@@ -703,6 +683,26 @@
       "duration_ms": 133793,
       "name": "Alucina2",
       "url": "https://open.spotify.com/track/44Wu7JwP8ZjdSOFwxTRZZB"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
+        "name": "Prende y Pasa",
+        "url": "https://open.spotify.com/album/4HIC4AhCKWcYs56uib9IQC"
+      },
+      "artists": [
+        {
+          "name": "Jayrick",
+          "url": "https://open.spotify.com/artist/0U8dIwzBn17JkhYxmznp6T"
+        },
+        {
+          "name": "El Malilla",
+          "url": "https://open.spotify.com/artist/6BV37tKh6pY97mnNdTCzly"
+        }
+      ],
+      "duration_ms": 163250,
+      "name": "Prende y Pasa",
+      "url": "https://open.spotify.com/track/7LJA4EwL3mi2vZIAun6LB9"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
-        "name": "HOUSE Y DESAMOR",
-        "url": "https://open.spotify.com/album/1ApTPwHsWrPoEIlMrCQW77"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        },
-        {
-          "name": "Leon Leiden",
-          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
-        }
-      ],
-      "duration_ms": 149758,
-      "name": "PUNTO FINAL",
-      "url": "https://open.spotify.com/track/7pfr0WwMdn3oIU6QGu2YNh"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
         "name": "Believe",
         "url": "https://open.spotify.com/album/1HZoeyqjTyrWvg31I6oOz6"
       },
@@ -1063,6 +1043,26 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
+        "name": "HOUSE Y DESAMOR",
+        "url": "https://open.spotify.com/album/1ApTPwHsWrPoEIlMrCQW77"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        },
+        {
+          "name": "Leon Leiden",
+          "url": "https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW"
+        }
+      ],
+      "duration_ms": 149758,
+      "name": "PUNTO FINAL",
+      "url": "https://open.spotify.com/track/7pfr0WwMdn3oIU6QGu2YNh"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
         "name": "CAJETA",
         "url": "https://open.spotify.com/album/0uYZaczNoETjWCLYFQVhbH"
       },
@@ -1075,26 +1075,6 @@
       "duration_ms": 146976,
       "name": "CAJETA",
       "url": "https://open.spotify.com/track/3gtlrOxwdsrreHMqH1heyw"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
-        "name": "Sin Sentir",
-        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
-      },
-      "artists": [
-        {
-          "name": "Pato Shoucair",
-          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
-        },
-        {
-          "name": "Dr Babe",
-          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
-        }
-      ],
-      "duration_ms": 219098,
-      "name": "Sin Sentir",
-      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -1123,18 +1103,22 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
-        "name": "MENTA",
-        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+        "name": "Cartagena (Sylvan Esso Edit)",
+        "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
       },
       "artists": [
         {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        },
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
         }
       ],
-      "duration_ms": 148292,
-      "name": "MENTA",
-      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
+      "duration_ms": 207637,
+      "name": "Cartagena - Sylvan Esso Edit",
+      "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -1159,26 +1143,6 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
-        "name": "Cartagena (Sylvan Esso Edit)",
-        "url": "https://open.spotify.com/album/3FVCEyoTcrA9eraksVRgC8"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        },
-        {
-          "name": "Sylvan Esso",
-          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
-        }
-      ],
-      "duration_ms": 207637,
-      "name": "Cartagena - Sylvan Esso Edit",
-      "url": "https://open.spotify.com/track/3iBO3QO60GTlYDyQcfh9w4"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
         "name": "BLING BLING",
         "url": "https://open.spotify.com/album/0KjScAnphBueUEa3md9szW"
       },
@@ -1191,6 +1155,42 @@
       "duration_ms": 160258,
       "name": "BLING BLING",
       "url": "https://open.spotify.com/track/4xLz1NxtVr8TTr68g6eKTR"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
+        "name": "lowkey",
+        "url": "https://open.spotify.com/album/7mnD8HQb58X3WGy4adKpJm"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "lowkey",
+      "url": "https://open.spotify.com/track/5UjcsPvGJUyqt0gyXtHxLh"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
+        "name": "Sin Sentir",
+        "url": "https://open.spotify.com/album/1D17SWtsQcjSOWs9JvHXf7"
+      },
+      "artists": [
+        {
+          "name": "Pato Shoucair",
+          "url": "https://open.spotify.com/artist/5PBJkBd4ipAxK7D36jkJNC"
+        },
+        {
+          "name": "Dr Babe",
+          "url": "https://open.spotify.com/artist/71jdgeFR4FEYo6oB2Qb4FW"
+        }
+      ],
+      "duration_ms": 219098,
+      "name": "Sin Sentir",
+      "url": "https://open.spotify.com/track/7bRYZCh7prvQlF0ZKPZKmx"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
-        "name": "lowkey",
-        "url": "https://open.spotify.com/album/7mnD8HQb58X3WGy4adKpJm"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "lowkey",
-      "url": "https://open.spotify.com/track/5UjcsPvGJUyqt0gyXtHxLh"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
         "name": "Porque La Demora",
         "url": "https://open.spotify.com/album/6zUt368NvVDSN4UCMvGlv7"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 169761,
       "name": "Porque La Demora",
       "url": "https://open.spotify.com/track/35NLjcLkYA5UZUaPKkhTnC"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
+        "name": "MENTA",
+        "url": "https://open.spotify.com/album/5bXr2XhcLObuX0LFVjSEYT"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 148292,
+      "name": "MENTA",
+      "url": "https://open.spotify.com/track/4zP8ttW05BnEguMVb9mqJr"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
-        "name": "M\u00cdRAME",
-        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
-      },
-      "artists": [
-        {
-          "name": "Mario Santander",
-          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "M\u00cdRAME",
-      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
         "name": "duelerespirar (funnynoiseclub004)",
         "url": "https://open.spotify.com/album/3eZTeLsewZnjm6rLDlhGDo"
       },
@@ -1351,6 +1335,22 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
+        "name": "M\u00cdRAME",
+        "url": "https://open.spotify.com/album/0dteBc8Nj7CsVW0KUVvHu6"
+      },
+      "artists": [
+        {
+          "name": "Mario Santander",
+          "url": "https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "M\u00cdRAME",
+      "url": "https://open.spotify.com/track/07uTqdg648didHNLUqpVbc"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
         "name": "Vino Rosa",
         "url": "https://open.spotify.com/album/1nCaK6GQAZmvzGZuWeyeqz"
       },
@@ -1367,46 +1367,6 @@
       "duration_ms": 199384,
       "name": "Vino Rosa",
       "url": "https://open.spotify.com/track/3ena8KYMBtkIqBkDSXYaJd"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
-        "name": "ALINE",
-        "url": "https://open.spotify.com/album/5itNfRHfwcRGoOHs31drdx"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Kobe Mane",
-          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
-        }
-      ],
-      "duration_ms": 127016,
-      "name": "ALINE",
-      "url": "https://open.spotify.com/track/5Tdo3BkdQzXFUvwlEOrRKt"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
-        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
-        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
-      },
-      "artists": [
-        {
-          "name": "Alesso",
-          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
-        },
-        {
-          "name": "Danna Paola",
-          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
-        }
-      ],
-      "duration_ms": 172320,
-      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
-      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -1435,6 +1395,46 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
+        "name": "Rescue Me (From The Original Television Soundtrack Blade Runner Black Lotus)",
+        "url": "https://open.spotify.com/album/5by805i64TKLSsy47zjlP0"
+      },
+      "artists": [
+        {
+          "name": "Alesso",
+          "url": "https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "duration_ms": 172320,
+      "name": "Rescue Me - From The Original Television Soundtrack Blade Runner Black Lotus",
+      "url": "https://open.spotify.com/track/6FdTVq8ly0NVSli7Xl9z2p"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
+        "name": "ALINE",
+        "url": "https://open.spotify.com/album/5itNfRHfwcRGoOHs31drdx"
+      },
+      "artists": [
+        {
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Kobe Mane",
+          "url": "https://open.spotify.com/artist/4BTssiFELKNdNf96QDT3hQ"
+        }
+      ],
+      "duration_ms": 127016,
+      "name": "ALINE",
+      "url": "https://open.spotify.com/track/5Tdo3BkdQzXFUvwlEOrRKt"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
         "name": "Sombras",
         "url": "https://open.spotify.com/album/5eqIgU8H7RVxr5HHnmoodF"
       },
@@ -1451,30 +1451,6 @@
       "duration_ms": 351219,
       "name": "Sombras",
       "url": "https://open.spotify.com/track/1ujnqItR6qmrowmlBucSLQ"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
-        "name": "R-15",
-        "url": "https://open.spotify.com/album/4CATim7PRuGUtjURDpRyP5"
-      },
-      "artists": [
-        {
-          "name": "Daniel Cuevas",
-          "url": "https://open.spotify.com/artist/3pCZzxGXHvgoK3OdluWOLc"
-        },
-        {
-          "name": "Jessy Castillo",
-          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
-        },
-        {
-          "name": "Manci",
-          "url": "https://open.spotify.com/artist/4AVxNRSuuvQ19srEOaUemE"
-        }
-      ],
-      "duration_ms": 174500,
-      "name": "R-15",
-      "url": "https://open.spotify.com/track/7zYNefq2q2xCOFXscMmW3B"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -1515,6 +1491,30 @@
       "duration_ms": 153882,
       "name": "barbiechaka (funnynoiseclub003)",
       "url": "https://open.spotify.com/track/7jbHpXvI2zgWSAMt0Kzwbw"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
+        "name": "R-15",
+        "url": "https://open.spotify.com/album/4CATim7PRuGUtjURDpRyP5"
+      },
+      "artists": [
+        {
+          "name": "Daniel Cuevas",
+          "url": "https://open.spotify.com/artist/3pCZzxGXHvgoK3OdluWOLc"
+        },
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
+        },
+        {
+          "name": "Manci",
+          "url": "https://open.spotify.com/artist/4AVxNRSuuvQ19srEOaUemE"
+        }
+      ],
+      "duration_ms": 174500,
+      "name": "R-15",
+      "url": "https://open.spotify.com/track/7zYNefq2q2xCOFXscMmW3B"
     },
     {
       "added_at": "2025-01-17 06:00:18",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2025-01-17 06:00:18",
       "album": {
-        "name": "SECUELAS",
-        "url": "https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7"
-      },
-      "artists": [
-        {
-          "name": "Callejo",
-          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
-        }
-      ],
-      "duration_ms": 185200,
-      "name": "SECUELAS",
-      "url": "https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY"
-    },
-    {
-      "added_at": "2025-01-17 06:00:18",
-      "album": {
         "name": "T siento RARA",
         "url": "https://open.spotify.com/album/5ZieWnajGvBE0OmLqXlPnn"
       },
@@ -1751,6 +1735,22 @@
       "duration_ms": 222366,
       "name": "Melancol\u00eda",
       "url": "https://open.spotify.com/track/13toPIz9TQco3lZSdnj3oH"
+    },
+    {
+      "added_at": "2025-01-17 06:00:18",
+      "album": {
+        "name": "SECUELAS",
+        "url": "https://open.spotify.com/album/3q8KeaC1ahPlerRFMcPmd7"
+      },
+      "artists": [
+        {
+          "name": "Callejo",
+          "url": "https://open.spotify.com/artist/3uYSSIZzcfieOd4qFmB551"
+        }
+      ],
+      "duration_ms": 185200,
+      "name": "SECUELAS",
+      "url": "https://open.spotify.com/track/3QAd4QxyiYzbzYyR3iqzHY"
     },
     {
       "added_at": "2025-01-17 06:00:18",

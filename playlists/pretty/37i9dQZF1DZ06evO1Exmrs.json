@@ -1,12 +1,12 @@
 {
   "description": "This is Noah Kahan. The essential tracks, all in one playlist.",
-  "num_followers": 318641,
+  "num_followers": 318885,
   "original_name": "This Is Noah Kahan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdgAAAAADK0V+vRXW0qBOheR2T4c8V",
+  "snapshot_id": "Z4rvAAAAAADAy2btsYPGicZdAuFsjSTA",
   "tracks": [
     {
       "added_at": null,
@@ -675,6 +675,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurt Somebody",
+        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 252093,
+      "name": "Please",
+      "url": "https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Crazier Things",
         "url": "https://open.spotify.com/album/5wlUSJwTW4mVgDoDMPXjU7"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 264584,
       "name": "Crazier Things (with Noah Kahan)",
       "url": "https://open.spotify.com/track/3K7vPyMCcecKRotnu08MMP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt Somebody",
-        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 252093,
-      "name": "Please",
-      "url": "https://open.spotify.com/track/1Su4HXSrbzj02CPBOoVLli"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hurt Somebody",
+        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "duration_ms": 198293,
+      "name": "Catastrophize",
+      "url": "https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pride",
         "url": "https://open.spotify.com/album/3P3zn45t3NEjaFILRIsybN"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 169453,
       "name": "Pride (with mxmtoon)",
       "url": "https://open.spotify.com/track/708HrtYYClY6j6EOiToEBy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hurt Somebody",
-        "url": "https://open.spotify.com/album/4tpVFjYKSR6ivXVK5YXEc4"
-      },
-      "artists": [
-        {
-          "name": "Noah Kahan",
-          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
-        }
-      ],
-      "duration_ms": 198293,
-      "name": "Catastrophize",
-      "url": "https://open.spotify.com/track/3JXuMsnzwmqEEqQexK0q8b"
     },
     {
       "added_at": null,

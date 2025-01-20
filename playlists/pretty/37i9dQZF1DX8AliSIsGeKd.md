@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Erly Tepshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,203 likes - 90 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,378 likes - 90 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 9 | [Dopamine Nation](https://open.spotify.com/track/4R1exZqdXsGJrJrhvtzq8T) | [Metodi Hristov](https://open.spotify.com/artist/7MFugZiuQp41w92SA0zsG1), [The YellowHeads](https://open.spotify.com/artist/3SEw2qamdOWyVZtzKxWTTg) | [Dopamine Nation](https://open.spotify.com/album/7yxLcZvEOqY0BS4HRSZ5EM) | 3:53 |
 | 10 | [Dreams](https://open.spotify.com/track/4dP7We6ZGe4Yu4HwZrDgoh) | [Eva Koval](https://open.spotify.com/artist/5wBT4e6xjcmEMSy8TtyrE0) | [Dreams](https://open.spotify.com/album/3qj06TPxZp4fhWOvUPnYDT) | 2:50 |
 | 11 | [So High](https://open.spotify.com/track/0cgZDjtXYL1sHONDnIRCUU) | [EPICX](https://open.spotify.com/artist/6FqgKL39QPkukNJBo1pezT), [Patrick Scuro](https://open.spotify.com/artist/6wfL4r7ReScDTARbtSRTvB) | [So High](https://open.spotify.com/album/1AUeEhuHh8C85wXyi17cN4) | 4:20 |
-| 12 | [Stardust](https://open.spotify.com/track/1tzz1mKFe2zOeBAjptJ7j6) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [FEY](https://open.spotify.com/artist/6fpttqE3gCONaCLIG2bkq4) | [Stardust](https://open.spotify.com/album/2BLYPcZ0wvW5Bjg2O4ZJI4) | 5:33 |
+| 12 | [Stardust](https://open.spotify.com/track/1tzz1mKFe2zOeBAjptJ7j6) | [Hannes Bieger](https://open.spotify.com/artist/3t6NA1aXgEgmkhKGf2bsP9), [FEY](https://open.spotify.com/artist/01c5kvLBSjcKpxRyD3YsSa) | [Stardust](https://open.spotify.com/album/2BLYPcZ0wvW5Bjg2O4ZJI4) | 5:33 |
 | 13 | [Echoes](https://open.spotify.com/track/3dRmZEFjFm7PlQEPj949fO) | [coiro](https://open.spotify.com/artist/1f68J2PZcUgqpOmQbkqcJY) | [Echoes](https://open.spotify.com/album/71g8QiV1uXETKfFJUZyiol) | 5:09 |
 | 14 | [Unbelievable](https://open.spotify.com/track/0S85m8J9rdjI0jwOLiFGOP) | [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg), [Ada](https://open.spotify.com/artist/1SUz2JjWDXSVyAtWokVinQ) | [Unbelievable](https://open.spotify.com/album/1zINq33LASwPgNKVnbIxrq) | 4:31 |
 | 15 | [Conversations \- Johannes Albert Disco Mix](https://open.spotify.com/track/0RtaAhYkOQLcBImqqduRuq) | [Kasper Bjørke](https://open.spotify.com/artist/4xcn3zUUGf03kOIJueXHVp), [Sísý Ey](https://open.spotify.com/artist/2BSzMvV61Z1V6ZmGBcnCZT), [Systur](https://open.spotify.com/artist/2ZcBLLXgX6mpYvUciCT89i), [Johannes Albert](https://open.spotify.com/artist/5FMcKm7A4LRwIJnkzuKZFt) | [Conversations \(Johannes Albert Remix\)](https://open.spotify.com/album/1ECbbgSMl0fCpNREGdjwFH) | 5:38 |

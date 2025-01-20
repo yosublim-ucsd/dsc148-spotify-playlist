@@ -4,7 +4,7 @@
 
 > Top Sharqi hits right now\. Cover: AL SHAMI
 
-183 songs - 10 hr 43 min
+184 songs - 10 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,6 +19,7 @@
 | [Ahla Sabiyeh](https://open.spotify.com/track/6hBysAK8U8DzswoRLZNah4) | [Amjad Jomaa](https://open.spotify.com/artist/0R7TVEhwF9mlX4rHlVaTzU) | [Ahla Sabiyeh](https://open.spotify.com/album/5t15RSlFHOwmPaJ7a7QXkO) | 4:35 | 2022-05-04 | 2023-03-14 |
 | [Ahla Snin \- أحلى سنين](https://open.spotify.com/track/5ir8hEkSEKRDSjkCqxus04) | [Adam](https://open.spotify.com/artist/2VXNaPH6tQXdoLbU3PrRVz), [Balti](https://open.spotify.com/artist/4cgw3nEf6uOQ2NqHwSXErR), [Jimmy H.](https://open.spotify.com/artist/6MHcMsdioNgN4XXoXk9J4e) | [Ahla Snin \(أحلى سنين\)](https://open.spotify.com/album/7eWYBxxxai1vRBcY5qW8ne) | 3:50 | 2022-05-04 | 2022-07-17 |
 | [Akher Kass](https://open.spotify.com/track/2DRbkf9ODDJ6PboDLxQ5Ur) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Akher Kass](https://open.spotify.com/album/4rM1SNUnHNeGBDEukModhn) | 3:19 | 2022-05-04 | 2023-03-14 |
+| [Al Harbein](https://open.spotify.com/track/6Ot3W2qlxch3yje4gl10Of) | [Bessan Ismail](https://open.spotify.com/artist/3D19Q7vcrQ8iCeSNcrQpAB) | [Al Harbein](https://open.spotify.com/album/3V5nwOj4A4NuuMFJ9p8spI) | 3:07 | 2025-01-19 |  |
 | [Al Kawn Janni Maak](https://open.spotify.com/track/0s6Vv5wPxRCsrBMjTSyrcg) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Al Kawn Janni Maak](https://open.spotify.com/album/5WfAjtVWyItvqpfEYfoZIG) | 2:15 | 2022-05-04 | 2023-05-20 |
 | [Ala Bali](https://open.spotify.com/track/0MxeOx5YwpkXIlCmr6xOjP) | [Elyanna](https://open.spotify.com/artist/0jIWKlfmD4Ew7HeVVrq03g) | [Elyanna 2](https://open.spotify.com/album/6fV0By80SOnUuqKt5wpk2A) | 2:19 | 2022-08-10 | 2023-05-20 |
 | [Albi Elou](https://open.spotify.com/track/7uIdrMD04D7jsL7lI6ytTw) | [Farah Chreim](https://open.spotify.com/artist/76hwkSg4dVAp3IYhM5VqWc) | [قلبي الو](https://open.spotify.com/album/2jEyAidrKSxLYj8lsz0H4Y) | 3:13 | 2022-07-04 | 2024-10-31 |
@@ -92,7 +93,7 @@
 | [Koun](https://open.spotify.com/track/3mlQfTMo8VmL3l8tXjAX8j) | [Joseph Attieh](https://open.spotify.com/artist/5DPb3SKW8QZFwkRlmt7Gvo) | [Koun](https://open.spotify.com/album/3VHCM2iQcOgqHgHcHJmwqv) | 3:23 | 2023-03-13 |  |
 | [La Akher Dakka](https://open.spotify.com/track/000tjH40F2n9sejp5LwAhV) | [Wael Kfoury](https://open.spotify.com/artist/09A6IffSw0t8L8sfuOCVws) | [La Akher Dakka](https://open.spotify.com/album/2GJ8iNMaVPTzW59RPACjaQ) | 3:07 | 2024-05-21 |  |
 | [La Ouyounak El Helwin](https://open.spotify.com/track/38qtGskHRVnyGyqWzFMfnG) | [Ziad Bourji](https://open.spotify.com/artist/04N4sGkSTSxjVfbiItLvTj) | [La Ouyounak El Helwin](https://open.spotify.com/album/2ImEgj0cbjbbi5JR3mAsKA) | 3:42 | 2022-05-04 | 2022-06-05 |
-| [La Tsin El Sef](https://open.spotify.com/track/6dXc6JE3ytJYdp1Xpt0GZQ) | [Akhras](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [La Tsin El Sef](https://open.spotify.com/album/1spUffO8GXhqfYE3uRupNn) | 3:10 | 2022-08-28 |  |
+| [La Tsin El Sef](https://open.spotify.com/track/6dXc6JE3ytJYdp1Xpt0GZQ) | [Akhras](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [La Tsin El Sef](https://open.spotify.com/album/1spUffO8GXhqfYE3uRupNn) | 3:10 | 2022-08-28 | 2025-01-20 |
 | [Lama Tkooni](https://open.spotify.com/track/3eFh5hiL65ylUoGAAI3Rl1) | [siilawy](https://open.spotify.com/artist/5VZr6vX1UPRRf9tneUEi2B) | [Lama Tkooni](https://open.spotify.com/album/5UtCKCQtEMEgenYWqYmxIB) | 3:31 | 2022-08-28 | 2023-07-28 |
 | [Lesatni Janbi](https://open.spotify.com/track/2bzUNpvOeOKMZqPI6B3sns) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Lesatni Janbi](https://open.spotify.com/album/01MxqvhWMbLvIi3OLtSNYj) | 4:18 | 2022-05-04 | 2023-04-02 |
 | [Lesatni Janbi](https://open.spotify.com/track/5YXQtuKZuWJbdEqwT7IVbI) | [A5rass \- الاخرس](https://open.spotify.com/artist/5xnWZW2Jslqu07aO3gTZA4) | [Lesatni Janbi](https://open.spotify.com/album/2E0LB1TU3vUSuveGhyrjgH) | 4:18 | 2023-03-22 | 2023-05-20 |
