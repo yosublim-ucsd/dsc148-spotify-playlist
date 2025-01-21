@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 
 > 100 Suomi 💯 Kannessa Bizi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 88,801 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 88,807 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Willy Wonka Freestyle](https://open.spotify.com/track/2q94C1i58OxdqyApjWByeC) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Willy Wonka Freestyle](https://open.spotify.com/album/316Aav3ExDWznx8uLtnOtT) | 2:01 |
-| 2 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
+| 1 | [Menestys on paras tapa kostaa](https://open.spotify.com/track/28kVaTdLsVqG1VRTbt8tG8) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9) | [Menestys on paras tapa kostaa](https://open.spotify.com/album/0eGYVzuAGP3VjZ8215VmJm) | 2:45 |
+| 2 | [Willy Wonka Freestyle](https://open.spotify.com/track/2q94C1i58OxdqyApjWByeC) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ) | [Willy Wonka Freestyle](https://open.spotify.com/album/316Aav3ExDWznx8uLtnOtT) | 2:01 |
 | 3 | [Päivä joka meidät pilaa](https://open.spotify.com/track/7pas0lEEhW9FpmWkDJ260C) | [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Päivä joka meidät pilaa](https://open.spotify.com/album/3axhVDy2rJGw40hBlY7fh7) | 3:27 |
 | 4 | [Anteeks](https://open.spotify.com/track/4d4jaU4L2WiA4m181RaaWG) | [william](https://open.spotify.com/artist/1UdLtKAD4FbM7r2XCfAWAs), [Isac Elliot](https://open.spotify.com/artist/3aD9K1zaLQ3G7yp9XV5E4D) | [Anteeks](https://open.spotify.com/album/1HdAzxQgppTy6lCflGq5RN) | 3:13 |
 | 5 | [Ne oli vääräs \(feat\. Turisti\)](https://open.spotify.com/track/4n6PzDyWGkjAVRl74aR8Pb) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Turisti](https://open.spotify.com/artist/6IKJyoGeFRCRDb90U6AEzp) | [EXIT](https://open.spotify.com/album/2grZKNgllDuPAbMGTmx5Ap) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTw1ORfckhDu.md) - [plain]
 | 49 | [Miljoona](https://open.spotify.com/track/4c6GQUHarKXDAzcUxTg7bH) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Miljoona](https://open.spotify.com/album/1sXCFKPdwPZAAQh79Vthrz) | 2:40 |
 | 50 | [Forever Young \(feat\. Joe L\)](https://open.spotify.com/track/6pG5I35avZEynviks1Cxjz) | [WIL](https://open.spotify.com/artist/0u24i6ZS1dxwPzDPuM0qqT), [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Forever Young \(feat\. Joe L\)](https://open.spotify.com/album/43tslB3llPYF8ULFuwlgmJ) | 2:59 |
 
-Snapshot ID: `Z4v/zwAAAAClseCEwShKLicPtO2yTEw7`
+Snapshot ID: `Z44MrQAAAABKbAuSHqjbT6gh+MbFUx/u`

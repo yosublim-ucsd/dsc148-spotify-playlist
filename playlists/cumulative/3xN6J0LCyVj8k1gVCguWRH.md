@@ -4,7 +4,7 @@
 
 > “With summer winding down, I wanted to share some songs that I’ve been listening to lately – and it wouldn’t be my playlist if it didn’t include an eclectic mix,”\.  Includes Obama&\#x27;s Favorite Music of 2024.
 
-4,425 songs - 10 day 7 hr 53 min
+4,426 songs - 10 day 7 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2080,6 +2080,7 @@
 | [KM](https://open.spotify.com/track/50SrudKjaEI8AO7b9S8KfP) | [Miles Laforge](https://open.spotify.com/artist/6e1shSmBGcxyjxK5rgacLA) | [The UV](https://open.spotify.com/album/0WfltpJxvC0Cdc9Gy5jISA) | 2:40 | 2022-05-27 | 2022-06-12 |
 | [Knees](https://open.spotify.com/track/2AmkpCt3y9NBsB5UgP4S6I) | [Low Girl](https://open.spotify.com/artist/2NieKujN76b0pYPpxo79qE) | [Knees](https://open.spotify.com/album/63rRqA2pExlJRBmugM5WVm) | 3:08 | 2022-10-14 | 2022-11-10 |
 | [Knew Better](https://open.spotify.com/track/3Zi4HysszlC31G4xWcY4cb) | [MALZ](https://open.spotify.com/artist/3i7Z2zo7dghS1XN0gx2QVE) | [Knew Better](https://open.spotify.com/album/0kxVuV8dtuge0jlevFqhiV) | 2:56 | 2024-02-19 | 2024-03-02 |
+| [Know Myself](https://open.spotify.com/track/18gVkdWpteFqE3l1bVb5QF) | [Danielle Schroeder](https://open.spotify.com/artist/0Zp8WvkAP8Faqe30N0QeuM) | [Know Myself](https://open.spotify.com/album/5L7VejxbRqK5Mlk4B2Vefj) | 3:06 | 2025-01-20 |  |
 | [Know You Bare](https://open.spotify.com/track/0O8eJs6ACqUfvVC7Ly6Gap) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/3p85u0tI67x88CLMW1Trov) | 2:11 | 2020-08-20 | 2023-02-12 |
 | [Know You Bare](https://open.spotify.com/track/19kCmuqL53m9Hr6hAUnbQn) | [Andrea Valle](https://open.spotify.com/artist/0aRyQtFQR8Rcp7eceJyoSe) | [Lovergirl](https://open.spotify.com/album/4R2OflzohK2X93Jgv1ln5P) | 2:11 | 2023-07-21 | 2023-08-28 |
 | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/track/04QTmCTsaVjcGaoxj8rSjE) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny), [Disclosure](https://open.spotify.com/artist/6nS5roXSAGhTGr34W6n7Et), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Know Your Worth \(feat\. Davido & Tems\)](https://open.spotify.com/album/6BugGRwIyG1xFbeZom0Mxz) | 3:11 | 2020-08-20 | 2023-08-28 |
@@ -3294,7 +3295,7 @@
 | [Say That](https://open.spotify.com/track/25arvmrYvFkTti9WHhSnlS) | [Paula Jivén](https://open.spotify.com/artist/42VDvOzr6eyxscOD2ax83D) | [Say That](https://open.spotify.com/album/1oxTCUHmB8L8eLp2c5RRNL) | 3:28 | 2022-02-11 | 2022-02-27 |
 | [Scalpel](https://open.spotify.com/track/7mFWc6rj6yK6usjPxX2ZAU) | [Duncan Birkbeck](https://open.spotify.com/artist/4qdc2ypunIWGNpozi5nlOy), [RJ Fisher](https://open.spotify.com/artist/7h1lpTllUSWPihYmcOpGQe) | [Scalpel](https://open.spotify.com/album/6U8aQ0Vo4hxCRshv8rkDle) | 3:32 | 2024-12-03 | 2024-12-15 |
 | [Scars](https://open.spotify.com/track/4cMiOmEwpPt7sjJCKhqxr4) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B), [Phillip LaRue](https://open.spotify.com/artist/7gIDHAJ0iFOGSMTiqsNUZT) | [Nobody's Perfect](https://open.spotify.com/album/7vT6SPfaNYXMPS26KZETHJ) | 3:25 | 2023-09-22 | 2023-12-14 |
-| [Scars](https://open.spotify.com/track/506z9idswzK8r9UuybLdzR) | [Kyla\-Belle](https://open.spotify.com/artist/0DJQfhWgJx7DmocFciTyrR) | [Scars](https://open.spotify.com/album/0OWnadGqaH2gxNu5d3crYe) | 3:24 | 2025-01-10 |  |
+| [Scars](https://open.spotify.com/track/506z9idswzK8r9UuybLdzR) | [Kyla\-Belle](https://open.spotify.com/artist/0DJQfhWgJx7DmocFciTyrR) | [Scars](https://open.spotify.com/album/0OWnadGqaH2gxNu5d3crYe) | 3:24 | 2025-01-10 | 2025-01-21 |
 | [SCHOOL KIDS](https://open.spotify.com/track/5XAYQcIPQP9wIGNCx70ySR) | [topie](https://open.spotify.com/artist/0N62nmKZEK1mvCbWlhjSIm) | [SCHOOL KIDS](https://open.spotify.com/album/7dNveDAfiCHB7hWlFaHX6A) | 2:00 | 2023-08-18 | 2023-09-26 |
 | [Scooter Blues](https://open.spotify.com/track/5abYKU28F2cWxGMSDAvTk8) | [Johnny Blue Skies](https://open.spotify.com/artist/5R55ruC73ANyzDSOzIZjNc), [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Passage Du Desir](https://open.spotify.com/album/71On7h3S7yH5D0Td6YNw1t) | 3:37 | 2024-12-21 |  |
 | [Scream](https://open.spotify.com/track/2OAJnmXNbxFoQe7kmwgTKB) | [Caek and Minko](https://open.spotify.com/artist/1bCA86HTIXG9182AuWBs3x) | [Scream](https://open.spotify.com/album/41DHsvvyHpcwSfVEvohNi3) | 3:18 | 2024-10-04 | 2024-10-16 |
@@ -3449,7 +3450,7 @@
 | [So Long...](https://open.spotify.com/track/5HrqbRBEoGNiYCEEp5MERD) | [Micah Willis](https://open.spotify.com/artist/3n6N43pjBB2dGOjDvsAjMC), [austin payne](https://open.spotify.com/artist/7fkh3T7gYEiJ5M47wIvJMI) | [So Long...](https://open.spotify.com/album/1naGs7l6jvJ0DjuMJQPG4r) | 3:03 | 2020-05-22 | 2020-06-01 |
 | [So Lucky](https://open.spotify.com/track/7g2Zc9YVwVX6mME8gmBv1t) | [Laptop Singers](https://open.spotify.com/artist/2PBpgSfV69qW5sKrLHcF5W) | [Eternal Life](https://open.spotify.com/album/48TcvZvtOlwXYfpPhLkaoT) | 3:03 | 2024-01-16 | 2024-01-24 |
 | [So Plain to See](https://open.spotify.com/track/1k3XUMiF7zFi0O4xcClula) | [KennethB](https://open.spotify.com/artist/74vNAtH9KtlvA4N6AJAk5G) | [So Plain to See](https://open.spotify.com/album/0XhdprRX3gyvcsPJKYo1LV) | 4:00 | 2024-07-05 | 2024-07-16 |
-| [So What If My Best Ain't Good Enough](https://open.spotify.com/track/6aBmLwEaiI2xuMC3ZKDpAu) | [Grady Champion](https://open.spotify.com/artist/1xvmnq8zHu9LhcqBmyqCnc) | [So What If My Best Ain't Good Enough](https://open.spotify.com/album/66HfXkTB2jOD50ixTYK7EX) | 3:24 | 2024-12-29 |  |
+| [So What If My Best Ain't Good Enough](https://open.spotify.com/track/6aBmLwEaiI2xuMC3ZKDpAu) | [Grady Champion](https://open.spotify.com/artist/1xvmnq8zHu9LhcqBmyqCnc) | [So What If My Best Ain't Good Enough](https://open.spotify.com/album/66HfXkTB2jOD50ixTYK7EX) | 3:24 | 2024-12-29 | 2025-01-21 |
 | [so you know](https://open.spotify.com/track/3IPdsAaaI7NLgn8lW3KXIo) | [HERDD](https://open.spotify.com/artist/1CpIG6uYY58rmtTacTvtiL) | [the runaway](https://open.spotify.com/album/5b3EO3YUcPEgst7phZ2Xmf) | 2:08 | 2022-03-11 | 2022-03-31 |
 | [Sober](https://open.spotify.com/track/2I1DKbI38lcWXxAxwQ6IQf) | [Mike Watts](https://open.spotify.com/artist/3Wx36s9vPKc18yZopjMWPU), [Mikaila](https://open.spotify.com/artist/1mA7Bh4IhIuuUsrATfhEpT) | [Sober](https://open.spotify.com/album/3rN8rtA4haHiPN7v66jhek) | 3:35 | 2020-06-24 | 2020-07-13 |
 | [Sober Brain](https://open.spotify.com/track/1pFLOatIscuyzEtHLueLIz) | [Troy Ogletree](https://open.spotify.com/artist/4bfmahiXCtliOatKTQe0Vt) | [Pretty Picture \(Side A\)](https://open.spotify.com/album/1LsXiKY65aIDClJXI6wno3) | 3:16 | 2021-04-30 | 2021-12-27 |

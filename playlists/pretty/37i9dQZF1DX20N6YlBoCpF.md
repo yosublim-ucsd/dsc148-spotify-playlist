@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX20N6YlBoCpF.md) - [plain]
 
 > Die nuutste Afrikaanse musiek\. Omslag: <a href="https://open.spotify.com/artist/5Kd1RDCB4eWgLd9t8EGDv8?si=D4oj7s0qQySyqKODyvTlzQ">Jan\-Mattys</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,936 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,974 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,6 +1,6 @@
 {
   "description": "shop, wrap, bake, study or just chill to these cozy christmas beats.",
-  "num_followers": 5055,
+  "num_followers": 5047,
   "original_name": "lofi christmas chill\ud83c\udf84\u2744\ufe0f",
   "owner": {
     "name": "Spotify",
@@ -671,6 +671,22 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
+        "name": "Mary On A Cross",
+        "url": "https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM"
+      },
+      "artists": [
+        {
+          "name": "Gloomey",
+          "url": "https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Mary On A Cross",
+      "url": "https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
         "name": "Santa's Lowrider",
         "url": "https://open.spotify.com/album/1O425Y5KoYPsLKClZ6ptdC"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 140571,
       "name": "xmas feels",
       "url": "https://open.spotify.com/track/07IHhrnbEmES2SWwSSmfRL"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
-        "name": "Mary On A Cross",
-        "url": "https://open.spotify.com/album/5GLkNyHQsMlQLYxR1iXMNM"
-      },
-      "artists": [
-        {
-          "name": "Gloomey",
-          "url": "https://open.spotify.com/artist/3kafjFk7KJTmHzXwOJLOUr"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Mary On A Cross",
-      "url": "https://open.spotify.com/track/4Mom8PPiSw7Pjp8vlcx5LM"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -751,22 +751,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Cold December Night",
-        "url": "https://open.spotify.com/album/6PVUVUlzdwfWysT5TQffva"
-      },
-      "artists": [
-        {
-          "name": "Frosty Pete",
-          "url": "https://open.spotify.com/artist/5ujER9YpzDrJrRfH7BSV2R"
-        }
-      ],
-      "duration_ms": 161261,
-      "name": "Cold December Night",
-      "url": "https://open.spotify.com/track/3WAQqvfLBjzFtNb5qz5G6q"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Nighttide",
         "url": "https://open.spotify.com/album/3rVDMhVZkYZ2iFclFc0EaF"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 132705,
       "name": "Nighttide",
       "url": "https://open.spotify.com/track/1yokaYy8WVounrXG82iiM7"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Cold December Night",
+        "url": "https://open.spotify.com/album/6PVUVUlzdwfWysT5TQffva"
+      },
+      "artists": [
+        {
+          "name": "Frosty Pete",
+          "url": "https://open.spotify.com/artist/5ujER9YpzDrJrRfH7BSV2R"
+        }
+      ],
+      "duration_ms": 161261,
+      "name": "Cold December Night",
+      "url": "https://open.spotify.com/track/3WAQqvfLBjzFtNb5qz5G6q"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1151,22 +1151,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "carol of the bells",
-        "url": "https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG"
-      },
-      "artists": [
-        {
-          "name": "Cereal Party",
-          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
-        }
-      ],
-      "duration_ms": 146696,
-      "name": "carol of the bells",
-      "url": "https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "A Lofi Xmas",
         "url": "https://open.spotify.com/album/2EGWnZJEuGx9pC7nUGRPjy"
       },
@@ -1179,6 +1163,22 @@
       "duration_ms": 109714,
       "name": "Jinbells",
       "url": "https://open.spotify.com/track/3V4TzkY3u1KVi6OgvUShrP"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "carol of the bells",
+        "url": "https://open.spotify.com/album/2GLefZu4UYWYJLVdz0euaG"
+      },
+      "artists": [
+        {
+          "name": "Cereal Party",
+          "url": "https://open.spotify.com/artist/07gVPoL1llq9t2lKj9QAeX"
+        }
+      ],
+      "duration_ms": 146696,
+      "name": "carol of the bells",
+      "url": "https://open.spotify.com/track/2Qk6XCRxgAiUPi5iLMEOHt"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Like It's Christmas",
-        "url": "https://open.spotify.com/album/1ingkpJcDRAS6EcHiyFJyO"
-      },
-      "artists": [
-        {
-          "name": "R\u00f6d\u00e4lv",
-          "url": "https://open.spotify.com/artist/02sAm2NhEZw7lM3hHzPG1l"
-        }
-      ],
-      "duration_ms": 157290,
-      "name": "Like It's Christmas",
-      "url": "https://open.spotify.com/track/2l8DGgpGq4PegU5Psy66dp"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "A Lofi Christmas",
         "url": "https://open.spotify.com/album/1M60uCrecXQMYGH6iJPiwb"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 132154,
       "name": "Santas Coming",
       "url": "https://open.spotify.com/track/0CtSFxqyI6JtPhKJxgAUSp"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Like It's Christmas",
+        "url": "https://open.spotify.com/album/1ingkpJcDRAS6EcHiyFJyO"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6d\u00e4lv",
+          "url": "https://open.spotify.com/artist/02sAm2NhEZw7lM3hHzPG1l"
+        }
+      ],
+      "duration_ms": 157290,
+      "name": "Like It's Christmas",
+      "url": "https://open.spotify.com/track/2l8DGgpGq4PegU5Psy66dp"
     },
     {
       "added_at": "2024-12-20 07:58:31",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2024-12-20 07:58:31",
       "album": {
-        "name": "Lofi Christmas",
-        "url": "https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT"
-      },
-      "artists": [
-        {
-          "name": "Utah Noir",
-          "url": "https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR"
-        }
-      ],
-      "duration_ms": 149972,
-      "name": "Sleepy Christmas",
-      "url": "https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB"
-    },
-    {
-      "added_at": "2024-12-20 07:58:31",
-      "album": {
         "name": "Xmas In My Heart",
         "url": "https://open.spotify.com/album/3JjTtv9g7oNQkiz3eXv6n6"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 132194,
       "name": "It's Still Christmas",
       "url": "https://open.spotify.com/track/6S2IIsjOIe45GgnsClwzgB"
+    },
+    {
+      "added_at": "2024-12-20 07:58:31",
+      "album": {
+        "name": "Lofi Christmas",
+        "url": "https://open.spotify.com/album/1ZIsCZVaLZE1DLwLzYxmRT"
+      },
+      "artists": [
+        {
+          "name": "Utah Noir",
+          "url": "https://open.spotify.com/artist/40hzPya4MG9AR6uXGNsAJR"
+        }
+      ],
+      "duration_ms": 149972,
+      "name": "Sleepy Christmas",
+      "url": "https://open.spotify.com/track/1BRd45NUAGimZ8pJchvslB"
     },
     {
       "added_at": "2024-12-20 07:58:31",

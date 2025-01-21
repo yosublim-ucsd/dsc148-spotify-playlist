@@ -1044,6 +1044,24 @@
     {
       "album": {
         "name": "Bhavanegalu",
+        "url": "https://open.spotify.com/album/1qk0d5mYA3z9QIRzDvxlug"
+      },
+      "artists": [
+        {
+          "name": "Keerthi",
+          "url": "https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152044,
+      "name": "Bhavanegalu",
+      "url": "https://open.spotify.com/track/4I2VkfH3rFx6amyICzBmP2"
+    },
+    {
+      "album": {
+        "name": "Bhavanegalu",
         "url": "https://open.spotify.com/album/0iQUBcMP8WMLXI4Qw2FGu9"
       },
       "artists": [

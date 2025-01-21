@@ -1207,6 +1207,24 @@
     },
     {
       "album": {
+        "name": "Superficial",
+        "url": "https://open.spotify.com/album/0MHyAAVcnhmU76kko43Cax"
+      },
+      "artists": [
+        {
+          "name": "Heidi Montag",
+          "url": "https://open.spotify.com/artist/5XLBtYR2VrpkqXdlvNnFHG"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180800,
+      "name": "Love It Or Leave It",
+      "url": "https://open.spotify.com/track/25pVbxHtM3TdDA6hHwvLfW"
+    },
+    {
+      "album": {
         "name": "Forever for Now (Deluxe Edition)",
         "url": "https://open.spotify.com/album/4Xj78YEY3wweavnPEJXuWw"
       },

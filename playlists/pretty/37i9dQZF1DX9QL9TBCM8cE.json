@@ -1,6 +1,6 @@
 {
   "description": "Music from \"THE IDOLM@STER SHINY COLORS\". THE IDOLM@STER\u2122& \u00a9Bandai Namco Entertainment Inc.\n\n",
-  "num_followers": 28027,
+  "num_followers": 28038,
   "original_name": "THE IDOLM@STER SHINY COLORS",
   "owner": {
     "name": "Spotify",
@@ -719,6 +719,22 @@
     {
       "added_at": "2025-01-14 15:55:52",
       "album": {
+        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 03",
+        "url": "https://open.spotify.com/album/1amhjTEry84P4TaaXupGGl"
+      },
+      "artists": [
+        {
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
+        }
+      ],
+      "duration_ms": 277266,
+      "name": "\u611a\u8005\u306e\u72ec\u767d",
+      "url": "https://open.spotify.com/track/4ThcKDoasWe7p4aPLrXlVJ"
+    },
+    {
+      "added_at": "2025-01-14 15:55:52",
+      "album": {
         "name": "THE IDOLM@STER SHINY COLORS L@YERED WING 07",
         "url": "https://open.spotify.com/album/4bRs74VKNeAnUu0lUcT4nJ"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 289986,
       "name": "\u6709\u5f69\u8272\u30e6\u30ea\u30a4\u30ab",
       "url": "https://open.spotify.com/track/18VfDvyJM0x0neY4ldeaiK"
-    },
-    {
-      "added_at": "2025-01-14 15:55:52",
-      "album": {
-        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 03 (2023 Ver.)",
-        "url": "https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E"
-      },
-      "artists": [
-        {
-          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
-          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
-        }
-      ],
-      "duration_ms": 244533,
-      "name": "\u7d14\u767d\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4 - 2023 Version",
-      "url": "https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r"
     },
     {
       "added_at": "2025-01-14 15:55:52",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-01-14 15:55:52",
       "album": {
-        "name": "THE IDOLM@STER SHINY COLORS PANOR@MA WING 07",
-        "url": "https://open.spotify.com/album/4WwTB9xJxqOqAS6kmMyqtz"
+        "name": "THE IDOLM@STER SHINY COLORS GR@DATE WING 03 (2023 Ver.)",
+        "url": "https://open.spotify.com/album/40mu9JZOicVhL9fW5xM08E"
       },
       "artists": [
         {
-          "name": "\u30ce\u30af\u30c1\u30eb",
-          "url": "https://open.spotify.com/artist/2mEuo2oqjiInFkBJUOfsSc"
+          "name": "\u30a2\u30f3\u30c6\u30a3\u30fc\u30ab",
+          "url": "https://open.spotify.com/artist/6NpkNdWFWIvQpS1GLvdQrY"
         }
       ],
-      "duration_ms": 242573,
-      "name": "Catch the Breeze",
-      "url": "https://open.spotify.com/track/2QDUrXSkpk7AZID6uc8Ekp"
+      "duration_ms": 244533,
+      "name": "\u7d14\u767d\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4 - 2023 Version",
+      "url": "https://open.spotify.com/track/6xhFbtRCFq4euJUr9Hkx8r"
     },
     {
       "added_at": "2025-01-14 15:55:52",

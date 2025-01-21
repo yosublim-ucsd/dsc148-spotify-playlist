@@ -2273,6 +2273,24 @@
     },
     {
       "album": {
+        "name": "First Impressions",
+        "url": "https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb"
+      },
+      "artists": [
+        {
+          "name": "Riley Howe",
+          "url": "https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135291,
+      "name": "First Impressions",
+      "url": "https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n"
+    },
+    {
+      "album": {
         "name": "First Love",
         "url": "https://open.spotify.com/album/63lrHdmNgIAqjo14jy82qh"
       },
@@ -4424,6 +4442,24 @@
       "duration_ms": 130138,
       "name": "Now is the time",
       "url": "https://open.spotify.com/track/7tBW9WWLpV4QPXr33xxYSk"
+    },
+    {
+      "album": {
+        "name": "Ocean Pictures",
+        "url": "https://open.spotify.com/album/4PVvpYuh6xQWV2rIHIeDu3"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158894,
+      "name": "Ocean Pictures",
+      "url": "https://open.spotify.com/track/7ts8hnrKzGffpFt418kehA"
     },
     {
       "album": {

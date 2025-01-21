@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
 
-720 songs - 1 day 23 hr 52 min
+721 songs - 1 day 23 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [Cipher.](https://open.spotify.com/track/7CYLDpCUxFgawtlri4oT09) | [fhána](https://open.spotify.com/artist/5COrwcYLHQePdWt9V12iqv) | [Cipher](https://open.spotify.com/album/6iRdVAMzvCIlTOU3VghPpo) | 4:42 | 2022-06-12 | 2022-07-20 |
 | [Clear Morning](https://open.spotify.com/track/1d0fFxJjc1r08QqQQjpi69) | [Yui Ogura](https://open.spotify.com/artist/4BVBO54UlQrzDW66hSEefy) | [Clear Morning](https://open.spotify.com/album/3au1QNUgpjM48lKzx5iG0O) | 4:37 | 2022-06-12 | 2022-07-24 |
 | [COLORFUL BOX](https://open.spotify.com/track/6oWnUUjCbBOwlfHQ6GcS6g) | [草野華余子](https://open.spotify.com/artist/6X9mX9u8tgpvwgCbY5eQps) | [産地直送vol.1](https://open.spotify.com/album/02F0nJpWXd4LxGn1RkjChS) | 3:54 | 2023-12-19 | 2024-01-08 |
+| [Contrast](https://open.spotify.com/track/7xsztWMVvAzfNVyaCqW2Tj) | [TOMOO](https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35) | [Contrast](https://open.spotify.com/album/6vptFPctTJu6HtY1yAwZPI) | 4:18 | 2025-01-08 |  |
 | [courage](https://open.spotify.com/track/6VcB4JudF8TFcbobm9TDCR) | [Haruka Tomatsu](https://open.spotify.com/artist/17Xrh1jox4g1VQcUcIcgra) | [戸松遥 BEST SELECTION \-sunshine\-](https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM) | 4:13 | 2022-07-28 | 2024-02-14 |
 | [CRAZY FOR YOU](https://open.spotify.com/track/0xIW9Iex1ziifoFcRL1JVS) | [焼塩檸檬（CV: 若山詩音）](https://open.spotify.com/artist/23VTN3lbmr5yWQVRKq9Hba) | [CRAZY FOR YOU](https://open.spotify.com/album/4fW0rdQYnNmnQphClVe6yw) | 4:03 | 2024-08-29 |  |
 | [Crossing Road](https://open.spotify.com/track/5rZjpjxbgyYJavOU9rf6yh) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [星空](https://open.spotify.com/album/6lNbfCwhR1uygDRts9r2dY) | 5:09 | 2022-06-24 | 2022-07-25 |
@@ -497,7 +498,7 @@
 | [ソライロ\(Acoustic ver.\)](https://open.spotify.com/track/6s0BQkZQ2ls1jxwsfGwpSH) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [SUMIRE CATALOG](https://open.spotify.com/album/5akD8SyQWPNIgpm4l5suaC) | 3:51 | 2024-07-23 | 2024-08-23 |
 | [タルヒ](https://open.spotify.com/track/6UX5gT61Lw3bz8mRM7K6jn) | [楠木 ともり](https://open.spotify.com/artist/0eic2NIS2q4R4jZpKSH7cr) | [narrow](https://open.spotify.com/album/7jwJgkGWSepDEsapqf1E3h) | 3:44 | 2022-06-09 | 2022-07-24 |
 | [ダイスキ。](https://open.spotify.com/track/4i05yRq3HPOqm0rAE8QrE3) | [大橋彩香](https://open.spotify.com/artist/74VIJfMSLnKe5eU3yvv2RT) | [WINGS](https://open.spotify.com/album/6mzr5fb350NIRtnT4lKhVC) | 4:07 | 2022-06-12 | 2022-06-26 |
-| [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-06-09 |  |
+| [チカっとチカ千花っ](https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb) | [藤原千花\(CV:小原好美\)](https://open.spotify.com/artist/7t7FUKBOnPW89gJPyQgBXD) | [KAGUYA ULTRA BEST](https://open.spotify.com/album/6SxiwwCeXJAS6XqRxb8DDX) | 2:58 | 2022-06-09 | 2025-01-21 |
 | [チキチキバンバン](https://open.spotify.com/track/7xm0KJMfeaJQmQdDxAipiY) | [QUEENDOM](https://open.spotify.com/artist/6IW91qUpcrhbGuZxubrG70) | [チキチキバンバン](https://open.spotify.com/album/1BWf1vYaM0zNWE6uuFFcvF) | 3:22 | 2022-06-09 |  |
 | [テディ](https://open.spotify.com/track/2OjJCrpKXpMH7UWYNAVsZX) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [テディ](https://open.spotify.com/album/4HXAOO5FXlE0T3Y2PvNJgv) | 4:45 | 2022-06-14 | 2022-07-29 |
 | [ディア・パンタレイ](https://open.spotify.com/track/4nMTH2T9Cj4jxLCF8fLigp) | [Sumire Uesaka](https://open.spotify.com/artist/4hRg5l2hXQl3lAzffFF8P8) | [ディア・パンタレイ](https://open.spotify.com/album/3OnnSAL9s1IWt1vR622lyI) | 4:12 | 2024-02-20 | 2024-03-27 |

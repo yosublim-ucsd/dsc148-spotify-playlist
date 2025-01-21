@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > Il futuro dell'indie italiano è in questa playlist 👀 Cover: faccianuvola
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,071 likes - 105 songs - 5 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,072 likes - 105 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [fulmine a ciel sereno](https://open.spotify.com/track/36gtJ3amXxagqcW61gB3HO) | [faccianuvola](https://open.spotify.com/artist/5KVUHVqS6B5MZKXf5PXDg1) | [fulmine a ciel sereno](https://open.spotify.com/album/23oVdnPw7NLTh9bl0WEJgA) | 2:54 |
 | 2 | [Abbaiare](https://open.spotify.com/track/1UCQjfona71jM4c1kZZ6lj) | [Lucrezia](https://open.spotify.com/artist/2aJKv3evpIuadnARe0UPbl) | [Abbaiare](https://open.spotify.com/album/27C2TLrr3NFNYZwCTlLVPr) | 3:12 |
-| 3 | [Il contrario](https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Il contrario](https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq) | 2:54 |
-| 4 | [Che Vita Di](https://open.spotify.com/track/3GtNaSjxdvYFj3Pkxtaa2v) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Che Vita Di](https://open.spotify.com/album/1LBQc5YaiBDFZZbLYmh1J3) | 2:21 |
-| 5 | [Fumo](https://open.spotify.com/track/5QzDTcQX2bCTzxNZKa63KT) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Vernissage](https://open.spotify.com/album/71jr6oAKmighSOx5723X6i) | 3:23 |
-| 6 | [FESTA](https://open.spotify.com/track/40mtBbIeH9h5rBjZ7q2loe) | [Iperiixo](https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv) | [FESTA](https://open.spotify.com/album/64jsstCeblWt2W0yzvCrlP) | 2:13 |
-| 7 | [Neanche lo sai](https://open.spotify.com/track/0q0TFa39wffIFEt6ildCh8) | [Amalia](https://open.spotify.com/artist/3YD04SvJFYTZnMRL9SzlkO) | [Neanche lo sai](https://open.spotify.com/album/4jcI5q0xdtZnQ5PJJfZRgj) | 3:06 |
-| 8 | [TUTTO DA RI\-FA\-RE](https://open.spotify.com/track/5O1l4RiyihOVRGFtbHl7yA) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y), [Gamete](https://open.spotify.com/artist/739CbVQFJ5RyGCE46uIAWI) | [TUTTO DA RI\-FA\-RE](https://open.spotify.com/album/7rhBFU7QPJBqb3frCCnSyc) | 3:01 |
-| 9 | [Sole sulla pelle](https://open.spotify.com/track/5xjCqy6vv3Gl1hl5XnBrFo) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Sole sulla pelle](https://open.spotify.com/album/63mjUjh1BXqhNrysvuuPMI) | 2:56 |
-| 10 | [Acquaverde](https://open.spotify.com/track/2IuIMjK1XDpI5h9LzyVf8X) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Acquaverde](https://open.spotify.com/album/5dwhzj6JmadKUoVAYQmmog) | 3:02 |
-| 11 | [male male male](https://open.spotify.com/track/7iHXVknSLpTVrN9CE1vdAf) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [male male male](https://open.spotify.com/album/6IMbwfYhTxxVP5tvAuKapw) | 3:10 |
-| 12 | [CREPUSCOLO](https://open.spotify.com/track/2r3S2rxwHAKSsAFubgPIbN) | [francesca moretti](https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX) | [CREPUSCOLO](https://open.spotify.com/album/2ueLha9CLQK6HQPOrEHyMa) | 2:46 |
-| 13 | [Lagna](https://open.spotify.com/track/1XorQLYOAy0i0nE4cq1ghE) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Lagna](https://open.spotify.com/album/0BrL6VdqzeRbBkiZCeHZeQ) | 2:25 |
-| 14 | [la strada di casa](https://open.spotify.com/track/43BhzPfWupBmbGPg2R4ymU) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [non diresti mai!](https://open.spotify.com/album/19mWruC4eKTvFLi6hgKHYl) | 4:19 |
-| 15 | [Hiroshima](https://open.spotify.com/track/57MhBn4rKKZGooyVbW3owR) | [LUCA COI BAFFI](https://open.spotify.com/artist/4jgd5YpdZ2RmSZsHqlX2J0) | [Basta sia fuori città](https://open.spotify.com/album/5kj2O4rtAe7nzG8GGhegxL) | 2:59 |
-| 16 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 |
-| 17 | [Memories](https://open.spotify.com/track/36dqoz8IL8BeXYgdfQQKgG) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [Hazy Days](https://open.spotify.com/album/3gkWjLe7SSF4DYvz1Wcdfy) | 2:11 |
-| 18 | [Questa città](https://open.spotify.com/track/6CSABT7uNa6PT8Uj39lFmW) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Questa città](https://open.spotify.com/album/06ZQ0d7W2Szk8yQEMLaprw) | 2:54 |
+| 3 | [FESTA](https://open.spotify.com/track/40mtBbIeH9h5rBjZ7q2loe) | [Iperiixo](https://open.spotify.com/artist/0WKv1YjYjSTv95Yoz4B7Qv) | [FESTA](https://open.spotify.com/album/64jsstCeblWt2W0yzvCrlP) | 2:13 |
+| 4 | [Fumo](https://open.spotify.com/track/5QzDTcQX2bCTzxNZKa63KT) | [Paul Giorgi](https://open.spotify.com/artist/0xR9GzTwiXo7mZpoqOL0pG) | [Vernissage](https://open.spotify.com/album/71jr6oAKmighSOx5723X6i) | 3:23 |
+| 5 | [Questa città](https://open.spotify.com/track/6CSABT7uNa6PT8Uj39lFmW) | [Möly](https://open.spotify.com/artist/4GBjWACIYE3kPxTLNkBiPo) | [Questa città](https://open.spotify.com/album/06ZQ0d7W2Szk8yQEMLaprw) | 2:54 |
+| 6 | [Che Vita Di](https://open.spotify.com/track/3GtNaSjxdvYFj3Pkxtaa2v) | [VV](https://open.spotify.com/artist/3Lx3LW1eYrkig48NsWAPdh) | [Che Vita Di](https://open.spotify.com/album/1LBQc5YaiBDFZZbLYmh1J3) | 2:21 |
+| 7 | [Il contrario](https://open.spotify.com/track/2E8ai3RmWiD32U1PsraeUh) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Il contrario](https://open.spotify.com/album/2MD2qbFC4zYdr1ZuGtuswq) | 2:54 |
+| 8 | [Neanche lo sai](https://open.spotify.com/track/0q0TFa39wffIFEt6ildCh8) | [Amalia](https://open.spotify.com/artist/3YD04SvJFYTZnMRL9SzlkO) | [Neanche lo sai](https://open.spotify.com/album/4jcI5q0xdtZnQ5PJJfZRgj) | 3:06 |
+| 9 | [CREPUSCOLO](https://open.spotify.com/track/2r3S2rxwHAKSsAFubgPIbN) | [francesca moretti](https://open.spotify.com/artist/1JFwMGRpvznPGEcbWhQPpX) | [CREPUSCOLO](https://open.spotify.com/album/2ueLha9CLQK6HQPOrEHyMa) | 2:46 |
+| 10 | [TUTTO DA RI\-FA\-RE](https://open.spotify.com/track/5O1l4RiyihOVRGFtbHl7yA) | [Bidi Blanca](https://open.spotify.com/artist/22sXLj1jMFiKtpValJKQ4Y), [Gamete](https://open.spotify.com/artist/739CbVQFJ5RyGCE46uIAWI) | [TUTTO DA RI\-FA\-RE](https://open.spotify.com/album/7rhBFU7QPJBqb3frCCnSyc) | 3:01 |
+| 11 | [Sole sulla pelle](https://open.spotify.com/track/5xjCqy6vv3Gl1hl5XnBrFo) | [Arssalendo](https://open.spotify.com/artist/54LmkGE6kI6eoaPdd6XiEd) | [Sole sulla pelle](https://open.spotify.com/album/63mjUjh1BXqhNrysvuuPMI) | 2:56 |
+| 12 | [Acquaverde](https://open.spotify.com/track/2IuIMjK1XDpI5h9LzyVf8X) | [frambo](https://open.spotify.com/artist/2uJQNjoh5SPxQUGwA2WA27) | [Acquaverde](https://open.spotify.com/album/5dwhzj6JmadKUoVAYQmmog) | 3:02 |
+| 13 | [male male male](https://open.spotify.com/track/7iHXVknSLpTVrN9CE1vdAf) | [FRERO](https://open.spotify.com/artist/0bAPSQOMp1MhjF47XhXrox) | [male male male](https://open.spotify.com/album/6IMbwfYhTxxVP5tvAuKapw) | 3:10 |
+| 14 | [Lagna](https://open.spotify.com/track/1XorQLYOAy0i0nE4cq1ghE) | [43.Nove](https://open.spotify.com/artist/356cdFod8ZWqU9dhTNbnFW) | [Lagna](https://open.spotify.com/album/0BrL6VdqzeRbBkiZCeHZeQ) | 2:25 |
+| 15 | [la strada di casa](https://open.spotify.com/track/43BhzPfWupBmbGPg2R4ymU) | [maniviola](https://open.spotify.com/artist/1CCy3YNgISLMizVv56lW7i) | [non diresti mai!](https://open.spotify.com/album/19mWruC4eKTvFLi6hgKHYl) | 4:19 |
+| 16 | [Hiroshima](https://open.spotify.com/track/57MhBn4rKKZGooyVbW3owR) | [LUCA COI BAFFI](https://open.spotify.com/artist/4jgd5YpdZ2RmSZsHqlX2J0) | [Basta sia fuori città](https://open.spotify.com/album/5kj2O4rtAe7nzG8GGhegxL) | 2:59 |
+| 17 | [Farla Facile](https://open.spotify.com/track/3vFkSDqxkQ86gEzZHvNznx) | [Anna and Vulkan](https://open.spotify.com/artist/338OK54trmorxC1704hKpD) | [Farla Facile](https://open.spotify.com/album/4c13CaC4uNfNiGL3EnLUo8) | 3:54 |
+| 18 | [Memories](https://open.spotify.com/track/36dqoz8IL8BeXYgdfQQKgG) | [Vanarin](https://open.spotify.com/artist/5h8413E0PoCuNBc6tLIANb) | [Hazy Days](https://open.spotify.com/album/3gkWjLe7SSF4DYvz1Wcdfy) | 2:11 |
 | 19 | [Occhi aperti](https://open.spotify.com/track/6QLfvSQcPVp9U45Xp0sZBm) | [Alice Favaro](https://open.spotify.com/artist/3clqgq9sQclKej3wub2bNn) | [Occhi aperti](https://open.spotify.com/album/61k2xZ7KW3mbcXVycvIW4E) | 3:56 |
 | 20 | [6.51 \(con Her Skin\)](https://open.spotify.com/track/30sxl3vrgTmYr1T8CPOY78) | [Broncø](https://open.spotify.com/artist/4axmvqJr2ytUnvbJxpKcst) | [6.51 \(con Her Skin\)](https://open.spotify.com/album/0AeESxCUs1FKDkQneIt5KF) | 3:50 |
 | 21 | [Coming back from Marte](https://open.spotify.com/track/4HU6nNHVABOEey5MQjO2V9) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Luna in acquario ascendente sagittario](https://open.spotify.com/album/0Npr04aGRYwjtvx4Udm8rS) | 2:14 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 104 | [temporale](https://open.spotify.com/track/2GuzXPKvxMIWvghTeUSeZI) | [Neverbh](https://open.spotify.com/artist/7DsVmuKz4Cgg42Sfp5S7oN) | [temporale](https://open.spotify.com/album/24oXNujZs5H0WxHplyXeVb) | 2:44 |
 | 105 | [Ragni](https://open.spotify.com/track/0yLSfJqNZj3ivJRu3NAHFl) | [Cecile](https://open.spotify.com/artist/2V71DNcQsRW0Vp8vCOy9Vw) | [Ragni](https://open.spotify.com/album/3IoHIyvz0TqZrBNZEYZtOq) | 2:19 |
 
-Snapshot ID: `Z4mPxgAAAADixeyZJ/asuBTspEK3njds`
+Snapshot ID: `Z44mRQAAAAApuDnVX0aVjhjgkZMAwTa1`

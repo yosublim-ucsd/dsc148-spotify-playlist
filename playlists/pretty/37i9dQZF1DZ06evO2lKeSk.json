@@ -1,12 +1,12 @@
 {
   "description": "This is Ana Gabriel. The essential tracks, all in one playlist.",
-  "num_followers": 346634,
+  "num_followers": 346682,
   "original_name": "This Is Ana Gabriel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4rvAAAAAADGEJ/k2qvgcfqo0HlWBG7p",
+  "snapshot_id": "Z4xAgAAAAABSLmN894wdzXqMd7BoFGa7",
   "tracks": [
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dulce y Salado",
-        "url": "https://open.spotify.com/album/1nliaUsH6tH6XRbmH9wsKF"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 213586,
-      "name": "La Reina",
-      "url": "https://open.spotify.com/track/3BsrquAE2Ht4J10yTzniEs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amores",
         "url": "https://open.spotify.com/album/6Ly5W4bSP2Ouud8yYP2VtU"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 226000,
       "name": "Simplemente Amigos",
       "url": "https://open.spotify.com/track/3hNhYIAFtqVrVRhaj6Ppmy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dulce y Salado",
+        "url": "https://open.spotify.com/album/1nliaUsH6tH6XRbmH9wsKF"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 213586,
+      "name": "La Reina",
+      "url": "https://open.spotify.com/track/3BsrquAE2Ht4J10yTzniEs"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Qui\u00e9n Como t\u00fa",
-        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
-      },
-      "artists": [
-        {
-          "name": "Ana Gabriel",
-          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
-        }
-      ],
-      "duration_ms": 242306,
-      "name": "Hice Bien Quererte (Lambada) - Versi\u00f3n Corta",
-      "url": "https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mis Favoritas",
         "url": "https://open.spotify.com/album/4mwUQaf9Q8TX3KMvN1VJRF"
       },
@@ -659,6 +643,22 @@
       "duration_ms": 262426,
       "name": "La C\u00e1rcel del Amor",
       "url": "https://open.spotify.com/track/6tF9tY9Ywd4WeCUK3Xja2W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Qui\u00e9n Como t\u00fa",
+        "url": "https://open.spotify.com/album/6TkpmmUOcvoB76oZdX9f5D"
+      },
+      "artists": [
+        {
+          "name": "Ana Gabriel",
+          "url": "https://open.spotify.com/artist/41ESHLayJ5sDKjAOv6cMhe"
+        }
+      ],
+      "duration_ms": 242306,
+      "name": "Hice Bien Quererte (Lambada) - Versi\u00f3n Corta",
+      "url": "https://open.spotify.com/track/3M7phO34hRzD2bEPZCXeVk"
     },
     {
       "added_at": null,

@@ -5,6 +5,24 @@
   "tracks": [
     {
       "album": {
+        "name": "Essential Classics, Vol. 435: Howlin' Wolf",
+        "url": "https://open.spotify.com/album/6vuFaQeftqSS8TWli6HGOX"
+      },
+      "artists": [
+        {
+          "name": "Howlin' Wolf",
+          "url": "https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179147,
+      "name": "All in the Mood (Everybody's in the Mood)",
+      "url": "https://open.spotify.com/track/5T0RKELHLZS8DaHT7qwax9"
+    },
+    {
+      "album": {
         "name": "Howlin' Wolf Greatest Songs",
         "url": "https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7"
       },

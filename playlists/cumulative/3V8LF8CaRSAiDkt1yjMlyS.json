@@ -221,6 +221,28 @@
     },
     {
       "album": {
+        "name": "DUSKWEAVER",
+        "url": "https://open.spotify.com/album/2SK2qhrt9TyRB1lEdxibcZ"
+      },
+      "artists": [
+        {
+          "name": "Ben Thal",
+          "url": "https://open.spotify.com/artist/4umJ9TGWSZJ8boO9HqbTSB"
+        },
+        {
+          "name": "Finn Lavo",
+          "url": "https://open.spotify.com/artist/7JgWqXwxseehoRu33qxWCR"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163799,
+      "name": "Ashborne Letters",
+      "url": "https://open.spotify.com/track/5cTG0D5lVSsWmXnKBcvRzf"
+    },
+    {
+      "album": {
         "name": "Vibes",
         "url": "https://open.spotify.com/album/54lNPJ6xq2QXwG6jLEIf6C"
       },

@@ -4,7 +4,7 @@
 
 > New soul\-infused music! Cover: Sevens
 
-1,030 songs - 2 day 14 hr 48 min
+1,031 songs - 2 day 14 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [25](https://open.spotify.com/track/53GIVIfxPEgfBlOncqG1by) | [Savine](https://open.spotify.com/artist/7n0hWtsxPEDc5ZjuKvbybc) | [25](https://open.spotify.com/album/57CeXretqkDlILesiRMvv6) | 3:35 | 2021-09-24 | 2022-10-15 |
 | [3 on E](https://open.spotify.com/track/48Iq6k1seDMe2LprI8zKu0) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [The Joy of Music, the Job of Real Estate](https://open.spotify.com/album/4EyXFhtdGeaIGh5i5IkBtv) | 2:57 | 2020-04-12 | 2020-07-18 |
 | [3 on E](https://open.spotify.com/track/51wj3WPLWSi23OIqGRFyAh) | [Vulfpeck](https://open.spotify.com/artist/7pXu47GoqSYRajmBCjxdD6), [Antwaun Stanley](https://open.spotify.com/artist/7vWFpgyWJ9CXisL0x6vYJN) | [The Joy of Music, The Job of Real Estate](https://open.spotify.com/album/3RzWtOUOtEDIHcHnwHTXqi) | 2:57 | 2020-07-18 | 2021-02-28 |
+| [3rd Shift](https://open.spotify.com/track/0y8TbOhG37JKy0L1p3j43m) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [October Nights](https://open.spotify.com/album/2OFPBJkSa8UgrMfdtP862a) | 2:46 | 2025-01-20 |  |
 | [3rd Shift \- A COLORS SHOW](https://open.spotify.com/track/6BpOyJQKGXPS8tDrNYm7jP) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [3rd Shift \- A COLORS SHOW](https://open.spotify.com/album/4hsiuTzlvfQjUsUMmf7Ccm) | 2:45 | 2024-11-21 |  |
 | [5 Minutes](https://open.spotify.com/track/5XUv1bnwbWqG59pzNVtocn) | [Allen Stone](https://open.spotify.com/artist/536osqBGKzeozje8BfcGsa) | [5 Minutes](https://open.spotify.com/album/50m0nBNNmLRfgF9DXtUSeL) | 3:15 | 2022-10-14 | 2023-03-31 |
 | [9](https://open.spotify.com/track/0pvWt9KQykseV3y14H6m9N) | [Adeline](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [9](https://open.spotify.com/album/52Of3CIb4EXdoyldUFg7An) | 4:31 | 2021-05-14 | 2021-12-01 |
@@ -357,7 +358,7 @@
 | [Hard Up](https://open.spotify.com/track/2r5zwMQ5dKB04MqVfc0IeH) | [The Bamboos](https://open.spotify.com/artist/1QVWN3ebl1dVgVbMgQPG8K) | [Hard Up](https://open.spotify.com/album/7BwuJqR6TBtothKdN6TY72) | 4:15 | 2020-06-05 | 2020-11-13 |
 | [Hardest Part \- Single Edit](https://open.spotify.com/track/3dX71ItEWpeEZxy7IgJ2RB) | [Benjamin Fro](https://open.spotify.com/artist/0O9dDLVIaf3EA0HlMjant6) | [Hardest Part](https://open.spotify.com/album/0WqJtWa0g9UOfNTrf6ZCnO) | 3:03 | 2024-03-21 | 2024-07-30 |
 | [Have Mercy](https://open.spotify.com/track/6x5BI1UbcFoxdnl8XlmzvF) | [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [Aviary: Act 1](https://open.spotify.com/album/7sVyk1fdhhiBcguh15NN3N) | 4:40 | 2023-08-15 | 2023-12-13 |
-| [Heal Me Good](https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U) | [Yufu](https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj) | [Heal Me Good](https://open.spotify.com/album/6DjI2Od6U3WvvRmpD7gsiH) | 4:07 | 2025-01-17 |  |
+| [Heal Me Good](https://open.spotify.com/track/38exnGlvAOkYZEKpSJe11U) | [Yufu](https://open.spotify.com/artist/4lq7hzzPRSVIU1bvThHpPj) | [Heal Me Good](https://open.spotify.com/album/6DjI2Od6U3WvvRmpD7gsiH) | 4:07 | 2025-01-17 | 2025-01-21 |
 | [Hear Me Singing \(Na Na Na Na Na Na Na Na\)](https://open.spotify.com/track/19vDhiyfEiDossnoDkDgKA) | [Dawn Brothers](https://open.spotify.com/artist/05vyC7M8P5Wr120O1yTv6a), [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Double Cream](https://open.spotify.com/album/6QOMBBhNPQUGSbLDLKIoVN) | 3:17 | 2022-09-29 | 2023-06-08 |
 | [Heart Don't Stand a Chance](https://open.spotify.com/track/25GlFJq5QNAXyVgJvCZ4Mf) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Malibu](https://open.spotify.com/album/4VFG1DOuTeDMBjBLZT7hCK) | 5:12 | 2023-10-06 | 2023-12-13 |
 | [Heartache](https://open.spotify.com/track/1XwNCjJ6E5SxRf2bI9kWjy) | [Stirmouth](https://open.spotify.com/artist/46VqMlFxczG8TFPHAFnC4W), [Mariji](https://open.spotify.com/artist/4yWy9OzNlfl1Mv8jw7HCXR) | [Heartache \(feat\. Mariji\)](https://open.spotify.com/album/3VnScAMCUlxUaoSy1n17Br) | 3:29 | 2024-06-28 |  |

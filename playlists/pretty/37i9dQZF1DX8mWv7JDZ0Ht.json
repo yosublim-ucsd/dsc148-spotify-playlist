@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve / Foto: Mariana Nolasco, Lourena",
-  "num_followers": 437786,
+  "num_followers": 437796,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -899,18 +899,18 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Entre o Nada e o Infinito",
-        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+        "name": "G\u00e9rbera + Na Proa da Saudade",
+        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
       },
       "artists": [
         {
-          "name": "Brolo Gonzalez",
-          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+          "name": "Roberta Campos",
+          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
         }
       ],
-      "duration_ms": 175080,
-      "name": "acende essa ponta",
-      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+      "duration_ms": 216747,
+      "name": "Na Proa da Saudade",
+      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "Entre o Nada e o Infinito",
+        "url": "https://open.spotify.com/album/6Bcfg7Jp8jXh0sWfANpW4H"
+      },
+      "artists": [
+        {
+          "name": "Brolo Gonzalez",
+          "url": "https://open.spotify.com/artist/2cvrwb2vQUWPlPy53354Bg"
+        }
+      ],
+      "duration_ms": 175080,
+      "name": "acende essa ponta",
+      "url": "https://open.spotify.com/track/4s5kTZGsaOJuFAWPvkERe5"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "Sol de S\u00e3o Paulo",
         "url": "https://open.spotify.com/album/6vbXEiseHR8ZMkZvbelP4y"
       },
@@ -947,34 +963,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Prece",
-        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+        "name": "Nostalgia",
+        "url": "https://open.spotify.com/album/1O7tg9AIuLXGKjBkZCUcpK"
       },
       "artists": [
         {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 227906,
-      "name": "Prece",
-      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "G\u00e9rbera + Na Proa da Saudade",
-        "url": "https://open.spotify.com/album/6qut4urm5eP9T9DxQO5cXH"
-      },
-      "artists": [
+          "name": "Gabriel Gonti",
+          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+        },
         {
-          "name": "Roberta Campos",
-          "url": "https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax"
+          "name": "Amanda Coronha",
+          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
         }
       ],
-      "duration_ms": 216747,
-      "name": "Na Proa da Saudade",
-      "url": "https://open.spotify.com/track/0eEmUsHYbyPySM5jgTG7Ny"
+      "duration_ms": 180620,
+      "name": "Nostalgia",
+      "url": "https://open.spotify.com/track/1J6cf7IaioJe6RA4uHsOH7"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -999,6 +1003,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "Prece",
+        "url": "https://open.spotify.com/album/5mXWvU6pyI85nzXB7jmPP2"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 227906,
+      "name": "Prece",
+      "url": "https://open.spotify.com/track/7lkPQvooh2A67blirWDP1j"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "P.A",
         "url": "https://open.spotify.com/album/6awgqrCDHx1lLGEeZ5vwEV"
       },
@@ -1019,6 +1039,22 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "Embeleza o Meu Dia",
+        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
+      },
+      "artists": [
+        {
+          "name": "Flavio Ferrari",
+          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
+        }
+      ],
+      "duration_ms": 172760,
+      "name": "Embeleza o Meu Dia",
+      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "Vem C\u00e1, Me Beija",
         "url": "https://open.spotify.com/album/5iTMqZsLOCGnxjVuxcfs5P"
       },
@@ -1035,22 +1071,6 @@
       "duration_ms": 158170,
       "name": "Vem C\u00e1, Me Beija",
       "url": "https://open.spotify.com/track/5zrnow8n59LyOhSa4IhcVI"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "Embeleza o Meu Dia",
-        "url": "https://open.spotify.com/album/5VWGI6NFkWzOOuHnQvEiln"
-      },
-      "artists": [
-        {
-          "name": "Flavio Ferrari",
-          "url": "https://open.spotify.com/artist/7B05yEI5NHNcIimKT23M1x"
-        }
-      ],
-      "duration_ms": 172760,
-      "name": "Embeleza o Meu Dia",
-      "url": "https://open.spotify.com/track/7GnBocYkE07GydCTZ7mhNi"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1091,38 +1111,26 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Bhangzwn",
-        "url": "https://open.spotify.com/album/3183dne70LPY7JS3DngZNO"
+        "name": "LEBLON",
+        "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
       },
       "artists": [
         {
-          "name": "Nina Fernandes",
-          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
-        }
-      ],
-      "duration_ms": 205132,
-      "name": "T\u00e3o Bom",
-      "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "Nostalgia",
-        "url": "https://open.spotify.com/album/1O7tg9AIuLXGKjBkZCUcpK"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Gonti",
-          "url": "https://open.spotify.com/artist/7BPHTWFEfvH7HPfHLU1EOg"
+          "name": "Jo\u00e3o Mar",
+          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
         },
         {
-          "name": "Amanda Coronha",
-          "url": "https://open.spotify.com/artist/49mOrWygxJo6j4ALdrVX6z"
+          "name": "Mara Marques",
+          "url": "https://open.spotify.com/artist/2vkezoHU3wpZQbF7n2cfaK"
+        },
+        {
+          "name": "CASITA",
+          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
         }
       ],
-      "duration_ms": 180620,
-      "name": "Nostalgia",
-      "url": "https://open.spotify.com/track/1J6cf7IaioJe6RA4uHsOH7"
+      "duration_ms": 151032,
+      "name": "LEBLON",
+      "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1143,6 +1151,22 @@
       "duration_ms": 136630,
       "name": "Jaqueta",
       "url": "https://open.spotify.com/track/3o4Jk3ZgfYzB6iyA3HGZ9u"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
+        "name": "Bhangzwn",
+        "url": "https://open.spotify.com/album/3183dne70LPY7JS3DngZNO"
+      },
+      "artists": [
+        {
+          "name": "Nina Fernandes",
+          "url": "https://open.spotify.com/artist/3KrkRHLMHe2nzcpcvIJmDP"
+        }
+      ],
+      "duration_ms": 205132,
+      "name": "T\u00e3o Bom",
+      "url": "https://open.spotify.com/track/06RzBI2H7B4Uu8HtXFOiT0"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1195,30 +1219,6 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "LEBLON",
-        "url": "https://open.spotify.com/album/2GNvPLOtPtComDsp7F9NbU"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Mar",
-          "url": "https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy"
-        },
-        {
-          "name": "Mara Marques",
-          "url": "https://open.spotify.com/artist/2vkezoHU3wpZQbF7n2cfaK"
-        },
-        {
-          "name": "CASITA",
-          "url": "https://open.spotify.com/artist/2AFHUuEtvqHN4JlNzyq8cv"
-        }
-      ],
-      "duration_ms": 151032,
-      "name": "LEBLON",
-      "url": "https://open.spotify.com/track/7iQ3f3Yqva0NwqZyjKqz4q"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
         "name": "nada do que voc\u00ea falou",
         "url": "https://open.spotify.com/album/1LCOVSUD0lH9xzpg5XqByU"
       },
@@ -1251,38 +1251,6 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Voltei",
-        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
-      },
-      "artists": [
-        {
-          "name": "Alulu Paranhos",
-          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
-        }
-      ],
-      "duration_ms": 129270,
-      "name": "Voltei",
-      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "Coisa Rara",
-        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
-      },
-      "artists": [
-        {
-          "name": "Santaella",
-          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
-        }
-      ],
-      "duration_ms": 165441,
-      "name": "Coisa Rara",
-      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
         "name": "domingo",
         "url": "https://open.spotify.com/album/4yIgZTZEr4KkC6HBT2yp2T"
       },
@@ -1299,6 +1267,22 @@
       "duration_ms": 250800,
       "name": "domingo",
       "url": "https://open.spotify.com/track/7CpG7vwtNTnQKnHg9Sw5nh"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
+        "name": "Voltei",
+        "url": "https://open.spotify.com/album/7nY8OyPSK5NWKynd9QQHEM"
+      },
+      "artists": [
+        {
+          "name": "Alulu Paranhos",
+          "url": "https://open.spotify.com/artist/2MgLL5LN6URJwfdr0NGDrW"
+        }
+      ],
+      "duration_ms": 129270,
+      "name": "Voltei",
+      "url": "https://open.spotify.com/track/2xe22A78fZeOoSf3LGUWkG"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1387,6 +1371,22 @@
       "duration_ms": 160268,
       "name": "Tempo Voa",
       "url": "https://open.spotify.com/track/3TekRNSHjjijQ2SIcY9k1C"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
+        "name": "Coisa Rara",
+        "url": "https://open.spotify.com/album/2nZF5ivwh57dEE5zHD9dNn"
+      },
+      "artists": [
+        {
+          "name": "Santaella",
+          "url": "https://open.spotify.com/artist/6gTTzFaOz9AA7DpBnvMn4p"
+        }
+      ],
+      "duration_ms": 165441,
+      "name": "Coisa Rara",
+      "url": "https://open.spotify.com/track/76VUIrhVfi2hp4ZhxACz3x"
     },
     {
       "added_at": "2025-01-17 03:00:02",

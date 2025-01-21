@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall & Afrobeats playlist\. Cover: Central Cee, 21 Savage
 
-1,414 songs - 2 day 23 hr 38 min
+1,415 songs - 2 day 23 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -803,6 +803,7 @@
 | [Mini Me's](https://open.spotify.com/track/0Nfh3RkaFSCaL0MtpDSAG8) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [Mini Me's](https://open.spotify.com/album/2juJFdzjxF5S4Nca1D0sKm) | 4:09 | 2024-04-19 | 2024-05-11 |
 | [Mini Me's](https://open.spotify.com/track/3YuxkgOG2GXO8p15q2kPGh) | [Meekz](https://open.spotify.com/artist/1Pm6hTRjgSkT3B4FCQpW4g) | [TRU](https://open.spotify.com/album/0qqdO3p3vA4R7K2yhBmpXx) | 4:09 | 2024-05-31 | 2024-07-05 |
 | [Mistaken](https://open.spotify.com/track/46oTVNwE53JTMCfydvCEo3) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ), [Oxlade](https://open.spotify.com/artist/3WTrdbZU99dgTtt3ZkyamT), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR) | [Walk Away](https://open.spotify.com/album/43KVGBDB2ZcuLZy8ousRcc) | 3:41 | 2023-12-11 | 2024-03-09 |
+| [MMS](https://open.spotify.com/track/13VXuHw3O8Yt7VwRIDqSo4) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lungu Boy](https://open.spotify.com/album/3kS42vslfpYnxWkGN4JvlW) | 3:39 | 2025-01-20 |  |
 | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/track/5tpft20jhQvRlG3O7XfwWy) | [Tyler ICU](https://open.spotify.com/artist/2oIQCM7hRZI9tS5b9S8rj4), [Tumelo\_za](https://open.spotify.com/artist/56vXCqK2n9zs0IjuNoBrJD), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Nandipha808](https://open.spotify.com/artist/3hw14sG4z2GSidk66In1eW), [Ceeka RSA](https://open.spotify.com/artist/5DuhT9Ix9p7qvE42w9liWY), [Tyrondee](https://open.spotify.com/artist/4aNokzWeBL32vR7leBpUat) | [Mnike \(feat\. DJ Maphorisa, Nandipha808, Ceeka RSA & Tyron Dee\)](https://open.spotify.com/album/1nhw91pN6LpY6MriDZqVDC) | 6:31 | 2023-08-18 | 2023-10-24 |
 | [Mobb Mentality](https://open.spotify.com/track/5GSU7lZscTRnRBx1KvvESu) | [D Double E](https://open.spotify.com/artist/6bwkMlweHsBCpI2a0C5nnN), [Jme](https://open.spotify.com/artist/4IZLJdhHCqAvT4pjn8TLH5), [Novelist](https://open.spotify.com/artist/4OPTZC24954HYBeHKeoLSc), [Jus Jammin](https://open.spotify.com/artist/44QcOr1krKgXeXbJGx5h3c), [Off Endz](https://open.spotify.com/artist/3RT7TqiP2ItbSrnVomTgAL), [Smila](https://open.spotify.com/artist/7ceegIQiAYyIsHczx0BBkO), [Lay\-Z](https://open.spotify.com/artist/0wjb0t7aYMuIwyuXnPOilh), [Blittz](https://open.spotify.com/artist/5wh8Pzrj67NfBOA5t8GBE5), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw), [Shorty](https://open.spotify.com/artist/4vAQghcnpz5V7zsPKy9Jpy) | [Mobb Mentality](https://open.spotify.com/album/7oPwu31zSQKEkJx25dMLNN) | 4:30 | 2023-03-03 | 2023-04-09 |
 | [Mobsters](https://open.spotify.com/track/0lisP3XLMVyFL0pYfhROPK) | [K\-Trap](https://open.spotify.com/artist/39XT9gMoNmMCOlvTTR273m), [Blade Brown](https://open.spotify.com/artist/4E0mDf341TLViBbNefSrsK) | [Mobsters](https://open.spotify.com/album/2zCcthEvgxDF33v0AC0mbQ) | 2:19 | 2024-05-03 | 2024-07-12 |

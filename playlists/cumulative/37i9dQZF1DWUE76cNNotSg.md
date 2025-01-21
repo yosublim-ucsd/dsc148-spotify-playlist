@@ -4,7 +4,7 @@
 
 > Warm indie dance vibes, the music you need at golden hour 🌞
 
-542 songs - 1 day 9 hr 59 min
+543 songs - 1 day 10 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -224,7 +224,7 @@
 | [I'm In Love With You](https://open.spotify.com/track/668AkXg9qeMsY8fivgpPxL) | [Poolside](https://open.spotify.com/artist/5szdY7KaSi7epwyffrbV8c), [NEIL FRANCES](https://open.spotify.com/artist/587PA35pRGL1JwQr6idJbb) | [I'm In Love With You](https://open.spotify.com/album/3rALWkXOoed2qwwayoKb3B) | 4:12 | 2021-03-19 | 2024-06-08 |
 | [I've Been In Love](https://open.spotify.com/track/7j3zZ2jAjzFD60UjhldhHo) | [Jungle](https://open.spotify.com/artist/59oA5WbbQvomJz2BuRG071), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Volcano](https://open.spotify.com/album/5xnXOCf5aZgZ43DgGN4EDv) | 2:49 | 2023-11-10 |  |
 | [IDK](https://open.spotify.com/track/4y9wGKxahGfBmvBJM7nGGB) | [Vaarwell](https://open.spotify.com/artist/7jz4ptH9vUGJdMpKFryEEG) | [IDK](https://open.spotify.com/album/4Y83PvVhaZqBbAqusw4M85) | 2:43 | 2023-04-07 | 2024-12-24 |
-| [If We Go Down](https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG) | [If We Go Down](https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY) | 3:25 | 2024-12-06 |  |
+| [If We Go Down](https://open.spotify.com/track/4mBlTWPWrz0VwqGR3ViQM3) | [Stolen Gin](https://open.spotify.com/artist/6sItBAb1Jl3KiNo6o3G0mG) | [If We Go Down](https://open.spotify.com/album/4tucaEw0hnhN9P9xH2C8XY) | 3:25 | 2024-12-06 | 2025-01-21 |
 | [In the Garden](https://open.spotify.com/track/0mYb0BPh3rC1YuAVBtr6Di) | [LANNDS](https://open.spotify.com/artist/5Bff2ovjNhOhKU6kHEXKHy) | [In the Garden](https://open.spotify.com/album/2vOAHsQ1zmVnJgE9y0SgCx) | 3:40 | 2021-10-01 | 2022-07-20 |
 | [In The Genes](https://open.spotify.com/track/7qmfoJOvyf8FgUxFpKTyKq) | [Hot Toddy](https://open.spotify.com/artist/163htIH0QGu4ZDcR7B0aUW) | [Love Music](https://open.spotify.com/album/6Vic53TolsMk2phqGftC3p) | 8:00 | 2020-12-22 | 2022-04-18 |
 | [Infield \(Young & Sick Remix\)](https://open.spotify.com/track/3xkMBk1wMJ3aEnWO0sSOW7) | [Arthur Moon](https://open.spotify.com/artist/5iDcZ7vN17Cq55AbEqy0aC), [Young & Sick](https://open.spotify.com/artist/3pQXFWbvLit77NpvNmOo3k) | [Infield \(Young & Sick Remix\)](https://open.spotify.com/album/1kTRU2NEv60y4JYGUwuvNt) | 4:58 | 2020-12-22 | 2022-07-29 |
@@ -383,6 +383,7 @@
 | [Pizza Guy](https://open.spotify.com/track/1bq6eYt2tdB5rSkwXgiwgD) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/41wUvXg0GwaIv8qsUii790) | 5:49 | 2020-12-22 | 2023-12-11 |
 | [Pizza Guy](https://open.spotify.com/track/434qlyPFJd5FWpJ72eB3VL) | [Touch Sensitive](https://open.spotify.com/artist/2OC53Inn0G9QwWM7CM0G5Z) | [Pizza Guy / Show Me](https://open.spotify.com/album/7JnjKZH4ztUn2MtYhrCFWz) | 5:49 | 2024-01-05 | 2024-03-02 |
 | [PLACES](https://open.spotify.com/track/3eSmjY0PxxTlX6UxRDKaul) | [The Blaze](https://open.spotify.com/artist/1Dt1UKLtrJIW1xxRBejjos) | [DANCEHALL](https://open.spotify.com/album/4Ekdf8v7lFV5c3zIdtpyjY) | 3:34 | 2020-12-22 | 2024-11-23 |
+| [Pollen](https://open.spotify.com/track/0uqlh0c9vOJMyUNC9LHPSC) | [dublon](https://open.spotify.com/artist/5Nzul0jB2OCPX7vmCFoJXD) | [Pollen](https://open.spotify.com/album/1YMTFJDxykCBo0dTMELAHv) | 2:00 | 2025-01-17 |  |
 | [Pon Pón](https://open.spotify.com/track/41c8iFH2Q8n87lkrlaRZ1X) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk) | [A LA SALA](https://open.spotify.com/album/1PeC1ckDJSzYHkwo6JHbP2) | 2:58 | 2024-04-26 |  |
 | [Pool Party](https://open.spotify.com/track/43ArUDXPIOqF4R3w2TjfxZ) | [nite swim](https://open.spotify.com/artist/4JoqKyiPAsXMuc8mkF25Ju) | [Pool Party](https://open.spotify.com/album/3FoihGlEHr7U6IKp1NyGlF) | 3:26 | 2020-12-22 | 2022-07-23 |
 | [Pressure](https://open.spotify.com/track/1T80qAVK3nXJAsEdnuppbp) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Waking Hours](https://open.spotify.com/album/0ZJ8jsAUo8z3d8nVjNl3aN) | 5:18 | 2020-12-22 | 2022-07-29 |

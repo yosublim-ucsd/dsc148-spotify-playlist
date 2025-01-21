@@ -1,6 +1,6 @@
 {
   "description": "Ou\u00e7a as novidades e grandes louvores Pentecostais. Foto: Sarah Farias, Kailane Frauches",
-  "num_followers": 158900,
+  "num_followers": 159079,
   "original_name": "Louvores Pentecostais",
   "owner": {
     "name": "Spotify",
@@ -459,22 +459,6 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "A Vit\u00f3ria Chegou",
-        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00f4nia Gomes",
-          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
-        }
-      ],
-      "duration_ms": 238167,
-      "name": "A Vit\u00f3ria Chegou",
-      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
         "name": "Santidade",
         "url": "https://open.spotify.com/album/74RrcNTZmNuFfrfJMx3CYt"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 380400,
       "name": "Santidade",
       "url": "https://open.spotify.com/track/6jqsjOw60t88V5YyYhaosZ"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
+        "name": "A Vit\u00f3ria Chegou",
+        "url": "https://open.spotify.com/album/1P28T4BaWp9gTd2CgIRRKP"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00f4nia Gomes",
+          "url": "https://open.spotify.com/artist/6xeuvoHDP4RdrmqzPP8Coe"
+        }
+      ],
+      "duration_ms": 238167,
+      "name": "A Vit\u00f3ria Chegou",
+      "url": "https://open.spotify.com/track/1Q5uwkMkLNhBMzKsK4veVc"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -871,26 +871,6 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
-        "url": "https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw"
-      },
-      "artists": [
-        {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 310102,
-      "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
-      "url": "https://open.spotify.com/track/6363WKxH1xivXxRrTn9rZZ"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
         "name": "Fase do Deserto",
         "url": "https://open.spotify.com/album/1JTaQmuExftTBQT5gqCW1t"
       },
@@ -907,6 +887,26 @@
       "duration_ms": 266020,
       "name": "Fase do Deserto",
       "url": "https://open.spotify.com/track/4rXIzSITtup1EaWbPQdLY0"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
+        "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
+        "url": "https://open.spotify.com/album/0X2slSWIAND0JqfogDzzSw"
+      },
+      "artists": [
+        {
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 310102,
+      "name": "Se N\u00e3o Fosse a Tua M\u00e3o",
+      "url": "https://open.spotify.com/track/6363WKxH1xivXxRrTn9rZZ"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -1015,18 +1015,22 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "Eu Prefiro Adorar (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA"
+        "name": "Voc\u00ea N\u00e3o Vai Parar",
+        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
       },
       "artists": [
         {
-          "name": "Alisson Santos",
-          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
+          "name": "Nath\u00e1lia Braga",
+          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
         }
       ],
-      "duration_ms": 860996,
-      "name": "Eu Prefiro Adorar - Ao Vivo",
-      "url": "https://open.spotify.com/track/40t4AJChxxRTHMSoNIE8yY"
+      "duration_ms": 340411,
+      "name": "Voc\u00ea N\u00e3o Vai Parar",
+      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -1047,22 +1051,18 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "Voc\u00ea N\u00e3o Vai Parar",
-        "url": "https://open.spotify.com/album/6cPHowCXcBxq1Fl50vkg6f"
+        "name": "Eu Prefiro Adorar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1UF9qZN8a8U6PhAnEQPVVA"
       },
       "artists": [
         {
-          "name": "Nath\u00e1lia Braga",
-          "url": "https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+          "name": "Alisson Santos",
+          "url": "https://open.spotify.com/artist/4VPAtpxf7iOgmovzCrx6mJ"
         }
       ],
-      "duration_ms": 340411,
-      "name": "Voc\u00ea N\u00e3o Vai Parar",
-      "url": "https://open.spotify.com/track/6xkJbkLpcamCTkFcXnwO6d"
+      "duration_ms": 860996,
+      "name": "Eu Prefiro Adorar - Ao Vivo",
+      "url": "https://open.spotify.com/track/40t4AJChxxRTHMSoNIE8yY"
     },
     {
       "added_at": "2025-01-10 03:01:03",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-01-10 03:01:03",
       "album": {
-        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
-      },
-      "artists": [
-        {
-          "name": "Fernanda Souza",
-          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
-        }
-      ],
-      "duration_ms": 461540,
-      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
-      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
-    },
-    {
-      "added_at": "2025-01-10 03:01:03",
-      "album": {
         "name": "Meu Deus \u00c9 Grande",
         "url": "https://open.spotify.com/album/5cEE4XjAdOvf8rIiRDSHJa"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 334000,
       "name": "Meu Deus \u00c9 Grande",
       "url": "https://open.spotify.com/track/1T1hRHr86C3AkhwZoghk4f"
+    },
+    {
+      "added_at": "2025-01-10 03:01:03",
+      "album": {
+        "name": "Pra Gl\u00f3ria do Senhor (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ"
+      },
+      "artists": [
+        {
+          "name": "Fernanda Souza",
+          "url": "https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq"
+        }
+      ],
+      "duration_ms": 461540,
+      "name": "Pra Gl\u00f3ria do Senhor - Ao Vivo",
+      "url": "https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr"
     },
     {
       "added_at": "2025-01-10 03:01:03",

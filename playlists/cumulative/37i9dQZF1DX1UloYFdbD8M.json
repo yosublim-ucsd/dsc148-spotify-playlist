@@ -816,7 +816,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 214000,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/0cCMLMjOTegmcGdoJrfnDc"
@@ -1144,7 +1144,7 @@
       ],
       "date_added": "2023-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 210206,
       "name": "Dhoore",
       "url": "https://open.spotify.com/track/6den5JW5dn0hLrhnD9UkQS"
@@ -4656,6 +4656,28 @@
       "duration_ms": 207466,
       "name": "Thaaram",
       "url": "https://open.spotify.com/track/3QqOii384lMY23m4Ydh4Rb"
+    },
+    {
+      "album": {
+        "name": "THANIYE",
+        "url": "https://open.spotify.com/album/39DrrcfjjYYNeBgujn3cbX"
+      },
+      "artists": [
+        {
+          "name": "Jerin C",
+          "url": "https://open.spotify.com/artist/2LlWO3c41pLwsWgLid8GNd"
+        },
+        {
+          "name": "Keysmith",
+          "url": "https://open.spotify.com/artist/63cWhrCL1DpDUGZsiavzz0"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232005,
+      "name": "THANIYE",
+      "url": "https://open.spotify.com/track/2LiXmrK7gDUSJo5GOzwxMe"
     },
     {
       "album": {

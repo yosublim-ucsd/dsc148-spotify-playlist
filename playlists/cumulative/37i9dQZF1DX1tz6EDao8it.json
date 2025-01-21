@@ -1491,24 +1491,6 @@
     },
     {
       "album": {
-        "name": "Chocolat (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD"
-      },
-      "artists": [
-        {
-          "name": "Rachel Portman",
-          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
-        }
-      ],
-      "date_added": "2021-07-16",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 187466,
-      "name": "Main Title",
-      "url": "https://open.spotify.com/track/1DdyioI2yXhLwR1pn5Hczk"
-    },
-    {
-      "album": {
         "name": "Home Alone (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3rDo7fQDUwJ6qmxwP5yQsY"
       },
@@ -1524,6 +1506,24 @@
       "duration_ms": 293533,
       "name": "Main Title \"Somewhere in My Memory\" (From \"Home Alone\")",
       "url": "https://open.spotify.com/track/1FlxqJmoZWS2q1uRlyZVur"
+    },
+    {
+      "album": {
+        "name": "Chocolat (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD"
+      },
+      "artists": [
+        {
+          "name": "Rachel Portman",
+          "url": "https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR"
+        }
+      ],
+      "date_added": "2021-07-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187466,
+      "name": "Main Title (From \"Chocolat\" Soundtrack)",
+      "url": "https://open.spotify.com/track/1DdyioI2yXhLwR1pn5Hczk"
     },
     {
       "album": {

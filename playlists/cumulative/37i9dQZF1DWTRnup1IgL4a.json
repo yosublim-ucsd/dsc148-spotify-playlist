@@ -3811,6 +3811,24 @@
     },
     {
       "album": {
+        "name": "Silhouette Skies",
+        "url": "https://open.spotify.com/album/5fUeEN4zSwvSAUDGCpdekb"
+      },
+      "artists": [
+        {
+          "name": "Enzo Costa",
+          "url": "https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159693,
+      "name": "Silhouette Skies",
+      "url": "https://open.spotify.com/track/78C9AYb8YTvptbLb5BxK8U"
+    },
+    {
+      "album": {
         "name": "Sire\u0300ne",
         "url": "https://open.spotify.com/album/1OAOGMX9WGCcf61JhhPHn3"
       },

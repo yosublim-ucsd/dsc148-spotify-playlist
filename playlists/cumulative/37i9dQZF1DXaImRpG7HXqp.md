@@ -4,7 +4,7 @@
 
 > Keep calm with instrumental acoustic tracks.
 
-794 songs - 1 day 10 hr 31 min
+797 songs - 1 day 10 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,6 +251,7 @@
 | [Follow Me](https://open.spotify.com/track/60q1MEc0pXjOhCV1pHoPpf) | [Las Perlas Negras](https://open.spotify.com/artist/26U6qpVYdrQQNMUPyblVPp) | [Follow Me](https://open.spotify.com/album/2SCPE6W9kz3Om5tlbCpY9i) | 2:39 | 2024-06-14 |  |
 | [For Louise](https://open.spotify.com/track/22htnvHEZJQfd56eTmRVbM) | [Jacob Ledger](https://open.spotify.com/artist/7Ky67NUialaMahn63a39wg) | [For Louise](https://open.spotify.com/album/13EEH5mQbYcwlCS4jM74UV) | 2:25 | 2021-12-08 | 2022-04-06 |
 | [For Me & You](https://open.spotify.com/track/4dnC5VgcrkUn4INXveBDPo) | [K.C Brown](https://open.spotify.com/artist/5p3he9DObPlyFw4iwatApa) | [For Me & You](https://open.spotify.com/album/2I0en39qwIl6RW1l37H9gJ) | 2:19 | 2023-03-24 | 2024-07-19 |
+| [For the joys](https://open.spotify.com/track/1t1TI1DinDcwVZv5Ea188l) | [lili may](https://open.spotify.com/artist/5tDKBi7fUOUpAWGv2U4r2a) | [For the joys](https://open.spotify.com/album/4Jb0gJidq3hehJwEJm69ym) | 1:44 | 2025-01-20 |  |
 | [Fortnight ago](https://open.spotify.com/track/2WjxJuMb7Fl3wi0hQtnkFA) | [Aveline Bisset](https://open.spotify.com/artist/3rAcgQY59qmzetC75wYKbJ) | [Fortnight ago](https://open.spotify.com/album/2pDbN5sRfuZUA7W7gCAciD) | 2:03 | 2023-05-12 |  |
 | [Fortuna](https://open.spotify.com/track/1fS0WaFOKGsQLebNWmQa4S) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Fortuna](https://open.spotify.com/album/2yidMLuUYkRSagU7epmtc1) | 3:25 | 2022-12-23 | 2023-03-25 |
 | [Frelsien](https://open.spotify.com/track/3FyCPb0sXgPpBnsvIosqAZ) | [Aiday Ainur](https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj) | [Frelsien](https://open.spotify.com/album/2xX3upugD201f0C2N2AsPr) | 2:10 | 2023-06-02 |  |
@@ -378,6 +379,7 @@
 | [Last call](https://open.spotify.com/track/207wR8oMI5Q6jX6DjNNXSc) | [Steve D](https://open.spotify.com/artist/7JaeTu8xN4ZYcKyGrK6DBW) | [Last call](https://open.spotify.com/album/1rRvNmqAv2MOTPLyL6oW1y) | 2:16 | 2024-06-28 |  |
 | [Last Dance](https://open.spotify.com/track/4CLVSuWpDxHuUXyIuGTVQ0) | [Taylor Ellis](https://open.spotify.com/artist/6vTMgZChwsGN8BloW1zVcY) | [Last Dance](https://open.spotify.com/album/1LLh6WHQyFxRJSvMAw1kav) | 2:31 | 2023-05-12 | 2024-07-19 |
 | [Last Days of April](https://open.spotify.com/track/1S7CCMZhklFA5qQQ7MpRoi) | [Lido Danielle](https://open.spotify.com/artist/4xfdrrJlyc8m3dJS5W59OP) | [Last Days of April](https://open.spotify.com/album/356KV0cpPpgKnxca5zQNPx) | 2:51 | 2023-08-10 |  |
+| [Last Fall](https://open.spotify.com/track/7cJxIvDCtQ42oQDmnqw7bP) | [Diego de Frigiliana](https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7) | [Last Fall](https://open.spotify.com/album/12UyG4b6DjNB3KT7bEsl6i) | 2:31 | 2025-01-20 |  |
 | [Last Light](https://open.spotify.com/track/0uaPSyka3LHsbwWyENj4pZ) | [Anisha Gale](https://open.spotify.com/artist/0R9PTFYaGHm7AgJAZjerfr) | [Last Light](https://open.spotify.com/album/0SRaNgW2jcWKEVBpFvUqhp) | 2:24 | 2023-01-06 | 2024-11-21 |
 | [Le Marais](https://open.spotify.com/track/6iPpvVIvrSbH8zaEtQSDCn) | [Toni Barella](https://open.spotify.com/artist/4SG1RjKd3TiXxwZ36G6tut) | [Le Marais](https://open.spotify.com/album/3GzC9R053ap38En4eZI3v6) | 2:20 | 2023-08-31 |  |
 | [Le minuit glacé](https://open.spotify.com/track/54ZMjrPx3tZ3qI3sGmbfB8) | [Séraphine Crépin](https://open.spotify.com/artist/4XR40KDmxNGUPXdxXv7FkS) | [Le minuit glacé](https://open.spotify.com/album/4TGrOoZktt23ZDE8FoYzNy) | 2:08 | 2022-01-19 | 2023-10-27 |
@@ -458,6 +460,7 @@
 | [Morning Dew](https://open.spotify.com/track/0dhPf7uQVTl63JOFCaYsJD) | [Dorothy Laddland](https://open.spotify.com/artist/4faFJj7Vro57tVaN6Q8p3I) | [Morning Dew](https://open.spotify.com/album/1ycPHmmIrXmVYkpdOtKQU9) | 1:52 | 2023-06-02 | 2023-08-19 |
 | [Morning sun](https://open.spotify.com/track/2G9SMURRZs6xKqDMqy9fI0) | [Dion Mallow](https://open.spotify.com/artist/5tXQhgmU6CraHI0dbj6BdQ) | [Morning sun](https://open.spotify.com/album/1tYYGZm6XXe9cJS4BX0Zda) | 3:20 | 2022-10-28 | 2023-02-25 |
 | [Motion](https://open.spotify.com/track/0SGiGg1Tu6nQRBESwodZIH) | [Andrew Gialanella](https://open.spotify.com/artist/3CBHXhdUqx63xJe4C4vzNg) | [Motion](https://open.spotify.com/album/73o9bmnlN9QOgH6SOvjnmU) | 2:17 | 2022-11-18 | 2023-03-10 |
+| [Mount Fitz Roy](https://open.spotify.com/track/2OZB6Qnil25CLXLNW5XSHS) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [Mount Fitz Roy](https://open.spotify.com/album/7H1c6RBe4e0ISRO56jwB6a) | 2:38 | 2025-01-20 |  |
 | [Mozzafiato](https://open.spotify.com/track/6d3696qgdzrKOr6vz3YrGA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Mozzafiato](https://open.spotify.com/album/3Jp2IlVVqic8H5Gm6U5Q6Q) | 2:08 | 2022-06-24 | 2024-04-19 |
 | [My Favorite Things](https://open.spotify.com/track/0TtBiPsu7GgyZzxXfu0RmL) | [Calvin Costa](https://open.spotify.com/artist/2DuNm4y5XDTQuFqIgv8rZP) | [My Favorite Things](https://open.spotify.com/album/082H1AX20pgvG3SKe6psm7) | 1:52 | 2022-02-01 | 2022-07-08 |
 | [My Garden](https://open.spotify.com/track/7uOpfxCTtdbhWcbq6kzjMH) | [Mauricio Galbardi](https://open.spotify.com/artist/0aTk31OGuuQKrwZJc1SryA) | [My Garden](https://open.spotify.com/album/2ljfPFQH7EvfBR8jLnzav8) | 2:57 | 2023-03-24 | 2024-05-04 |

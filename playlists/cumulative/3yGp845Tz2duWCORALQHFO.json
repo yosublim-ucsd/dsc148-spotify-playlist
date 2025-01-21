@@ -20513,6 +20513,24 @@
     },
     {
       "album": {
+        "name": "Loops & Tings",
+        "url": "https://open.spotify.com/album/1BpJlqgF1id6vAJ2hN630B"
+      },
+      "artists": [
+        {
+          "name": "Jeckyll & Hyde",
+          "url": "https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148101,
+      "name": "Loops & Tings",
+      "url": "https://open.spotify.com/track/50mXU62jCPxphRlt4zqHEt"
+    },
+    {
+      "album": {
         "name": "LOSE CONTROL",
         "url": "https://open.spotify.com/album/4Nvzg2QMciRBT2JhPnTGGO"
       },
@@ -22546,6 +22564,24 @@
       "duration_ms": 173084,
       "name": "Moet",
       "url": "https://open.spotify.com/track/0cvm0gUEgGJjb8G9FOBb4c"
+    },
+    {
+      "album": {
+        "name": "Moirai",
+        "url": "https://open.spotify.com/album/3lskTDO9ZOYydDdYMjfIIc"
+      },
+      "artists": [
+        {
+          "name": "Oxime",
+          "url": "https://open.spotify.com/artist/5QKvr3RLdyetvVGmNa31Ja"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218571,
+      "name": "Moirai",
+      "url": "https://open.spotify.com/track/3Btlz8mhgwARWVtBK7pHfd"
     },
     {
       "album": {

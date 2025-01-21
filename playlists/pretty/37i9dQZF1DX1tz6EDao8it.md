@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 
 > Timeless, unforgettable melodies from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,256,884 likes - 130 songs - 7 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,257,174 likes - 130 songs - 7 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -95,7 +95,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tz6EDao8it.md) - [plain]
 | 85 | [Summer Of '42](https://open.spotify.com/track/4OtEkWkTgfUBy5mRGVQQPc) | [Michel Legrand](https://open.spotify.com/artist/1EtE0iSY6iFlN9L9c53ETy), [The Flemish Radio Orchestra](https://open.spotify.com/artist/2g9NtXzg3QeoJ9oUKHU3mZ) | [Michel Legrand: Great Movie Themes](https://open.spotify.com/album/1UfmBr7FfyQFSOjLzmCtUP) | 3:54 |
 | 86 | [Titles](https://open.spotify.com/track/36qn2bFfZzUwM6eIv2XOc9) | [Vangelis](https://open.spotify.com/artist/4P70aqttdpJ9vuYFDmf7f6) | [Chariots Of Fire \(Original Motion Picture Soundtrack / Remastered\)](https://open.spotify.com/album/2G0x71VHZ7XLJlm56LzVX2) | 3:33 |
 | 87 | [Dumbledore's Farewell](https://open.spotify.com/track/0bmb8jg6ljmt8qBmIsMNvL) | [Nicholas Hooper](https://open.spotify.com/artist/6S9bLkEZSVIcY18RNcNG50) | [Harry Potter and the Half\-Blood Prince \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2xXblCIb5G6ji70efT7THx) | 2:22 |
-| 88 | [Main Title](https://open.spotify.com/track/1DdyioI2yXhLwR1pn5Hczk) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Chocolat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD) | 3:07 |
+| 88 | [Main Title \(From "Chocolat" Soundtrack\)](https://open.spotify.com/track/1DdyioI2yXhLwR1pn5Hczk) | [Rachel Portman](https://open.spotify.com/artist/1joFZGTRER78nUsWtgHCHR) | [Chocolat \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1fs5PH1L35fEbG2csJT3AD) | 3:07 |
 | 89 | [Promentory \(The Last of the Mohicans Theme\)](https://open.spotify.com/track/3NcTcvxK8eBSrxDPVaqfKG) | [Pandemic Records](https://open.spotify.com/artist/3Km5mXvAKn9WQcAgeJRr6N) | [Promentory \(The Last of the Mohicans Theme\)](https://open.spotify.com/album/79t3lYGoZo7BEdrnuWCjnb) | 3:46 |
 | 90 | [Road To Perdition](https://open.spotify.com/track/1ybtJbR4ARqmjl6dD2VtYU) | [Thomas Newman](https://open.spotify.com/artist/1csBgT42N4pPPs1HJhxXIK) | [Road To Perdition \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7v9u5bUHm2tpSC7ZL4hZBG) | 3:55 |
 | 91 | [The Trap: Main Theme](https://open.spotify.com/track/65lWg1kyGKtSo4mHMzUOXE) | [Ron Goodwin](https://open.spotify.com/artist/6LAuSqJCRCwwtITrlfHg41), [Rumon Gamba](https://open.spotify.com/artist/0WXSfWdvqdhG76X1icKUVy), [BBC Philharmonic](https://open.spotify.com/artist/1z9u3vLr7gw6IBS8CP8c2X) | [The Film Music of Ron Goodwin](https://open.spotify.com/album/26z1BokeoS681ykfFSxM7P) | 3:20 |

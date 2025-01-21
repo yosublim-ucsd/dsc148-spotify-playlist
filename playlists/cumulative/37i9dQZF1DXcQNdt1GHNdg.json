@@ -92,7 +92,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 146968,
       "name": "3 THINGS",
       "url": "https://open.spotify.com/track/2uQZlieZO9UBpveWZJxHsC"
@@ -3140,6 +3140,28 @@
       "duration_ms": 146756,
       "name": "Top Gear",
       "url": "https://open.spotify.com/track/2eGdocY9Ja9dqPpC2Ct7db"
+    },
+    {
+      "album": {
+        "name": "Trade Marka",
+        "url": "https://open.spotify.com/album/1h74R55rRCrToyXTjJQE8P"
+      },
+      "artists": [
+        {
+          "name": "Deepak Dhillon",
+          "url": "https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY"
+        },
+        {
+          "name": "Navi Warring",
+          "url": "https://open.spotify.com/artist/30sKPEz7rychX6f8FkA56J"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182022,
+      "name": "Trade Marka",
+      "url": "https://open.spotify.com/track/1we2yN08AAo5pNiT9ngdhC"
     },
     {
       "album": {

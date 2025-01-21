@@ -1,6 +1,6 @@
 {
   "description": "Hip hop and rap music from Nigeria. Cover: Bhadboi OML",
-  "num_followers": 58570,
+  "num_followers": 58600,
   "original_name": "Naija Bars ",
   "owner": {
     "name": "Spotify",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2025-01-17 00:01:32",
       "album": {
+        "name": "Afro Jersey",
+        "url": "https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ"
+      },
+      "artists": [
+        {
+          "name": "Nizzy",
+          "url": "https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R"
+        }
+      ],
+      "duration_ms": 140487,
+      "name": "LOCO",
+      "url": "https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV"
+    },
+    {
+      "added_at": "2025-01-17 00:01:32",
+      "album": {
         "name": "BETELGEUSE",
         "url": "https://open.spotify.com/album/5xKzDAHN9ilchHtfBqmcXj"
       },
@@ -1387,34 +1403,22 @@
     {
       "added_at": "2025-01-17 00:01:32",
       "album": {
-        "name": "Afro Jersey",
-        "url": "https://open.spotify.com/album/3U0q2HLSlTG2COvWvgbDyQ"
+        "name": "Make It Out",
+        "url": "https://open.spotify.com/album/1YztVnyIOgxXthPmqzuORL"
       },
       "artists": [
         {
-          "name": "Nizzy",
-          "url": "https://open.spotify.com/artist/49MZ2LfoETArTTAJPnQd4R"
-        }
-      ],
-      "duration_ms": 140487,
-      "name": "LOCO",
-      "url": "https://open.spotify.com/track/3cOLvWZqRRrBT99yqlbFoV"
-    },
-    {
-      "added_at": "2025-01-17 00:01:32",
-      "album": {
-        "name": "Burn",
-        "url": "https://open.spotify.com/album/28CwDxrjgiiRREUROkq2RV"
-      },
-      "artists": [
+          "name": "Shegzy Marley",
+          "url": "https://open.spotify.com/artist/19nsjBMc8LX0LA4Z8DuPrs"
+        },
         {
-          "name": "Dremo",
-          "url": "https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu"
+          "name": "Areezy",
+          "url": "https://open.spotify.com/artist/3kRqE8yQ4IbYJFXczu57SD"
         }
       ],
-      "duration_ms": 86557,
-      "name": "Burn",
-      "url": "https://open.spotify.com/track/43MLiJ282su6RaUz6HIUJZ"
+      "duration_ms": 163996,
+      "name": "Make It Out",
+      "url": "https://open.spotify.com/track/2ToJcDtJ4DDUhIN0rvsZ6O"
     }
   ],
   "unique_name": "Naija Bars ",

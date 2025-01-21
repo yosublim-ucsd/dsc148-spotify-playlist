@@ -3321,6 +3321,32 @@
     },
     {
       "album": {
+        "name": "Jet black",
+        "url": "https://open.spotify.com/album/1wZFS7CI07eg1TfFCaYT5h"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Devilman",
+          "url": "https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK"
+        },
+        {
+          "name": "Frenzee",
+          "url": "https://open.spotify.com/artist/3TM1dK0UnEKVId1zfhycFO"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201053,
+      "name": "Jet black",
+      "url": "https://open.spotify.com/track/6LQKFnu5NApfRZJoJqfPVG"
+    },
+    {
+      "album": {
         "name": "Jordan 1s (Effy Rework)",
         "url": "https://open.spotify.com/album/6mv6SyHksCO4Pnq4IxXFps"
       },
@@ -4032,7 +4058,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 263314,
       "name": "Maw",
       "url": "https://open.spotify.com/track/3mLCnXMikt5NFbHUBRza4O"

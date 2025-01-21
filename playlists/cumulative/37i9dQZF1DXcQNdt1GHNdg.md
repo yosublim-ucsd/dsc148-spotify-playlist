@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Punjabi hits!
 
-151 songs - 7 hr 25 min
+152 songs - 7 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [10 Bande](https://open.spotify.com/track/7wX4ffiROMwngmsc3aeL7O) | [George Sidhu](https://open.spotify.com/artist/3D2754tZxCEJ4bhiEN0QEC), [Rinku Chautala](https://open.spotify.com/artist/1wld069pW7ElApAwWfmyOa) | [10 Bande](https://open.spotify.com/album/2RJSx7VJU7VjcNCgmeKGhx) | 3:22 | 2023-07-18 | 2024-04-19 |
 | [12 Bande](https://open.spotify.com/track/6dgYHmc5yBnQFI4FSCbp6y) | [Varinder Brar](https://open.spotify.com/artist/4C19flKmMm12gRxmBJWMCV) | [12 Bande](https://open.spotify.com/album/77Yf6yctxLgelDYlLk9k1u) | 3:24 | 2023-07-18 |  |
 | [295](https://open.spotify.com/track/5W7DOVGQLTigu09afW7QMT) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ) | [Moosetape](https://open.spotify.com/album/45ZIondgVoMB84MQQaUo9T) | 4:30 | 2023-07-18 | 2024-11-29 |
-| [3 THINGS](https://open.spotify.com/track/2uQZlieZO9UBpveWZJxHsC) | [Naveed Akhtar](https://open.spotify.com/artist/6WHSjjU2PxEizqDfyAsq6R) | [3 THINGS](https://open.spotify.com/album/0IsezcOoN1KzzIroVajxil) | 2:26 | 2025-01-09 |  |
+| [3 THINGS](https://open.spotify.com/track/2uQZlieZO9UBpveWZJxHsC) | [Naveed Akhtar](https://open.spotify.com/artist/6WHSjjU2PxEizqDfyAsq6R) | [3 THINGS](https://open.spotify.com/album/0IsezcOoN1KzzIroVajxil) | 2:26 | 2025-01-09 | 2025-01-21 |
 | [315](https://open.spotify.com/track/3RRA9krpuvRVMQVPObOkhH) | [Jasmeen Akhtar](https://open.spotify.com/artist/26Nqjj62IAXWZJptGopt9C), [Deep Harry](https://open.spotify.com/artist/3CBgusVsS3fDEdPdUFYzpK) | [315](https://open.spotify.com/album/4k9UsTgIbbnFbGzSOHhykG) | 3:15 | 2024-09-16 | 2024-11-05 |
 | [410](https://open.spotify.com/track/0R1AZYXc34nfMaiengrkRc) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [Offgrid](https://open.spotify.com/artist/7F8zSmymsU25wRm0x7R05Y) | [410](https://open.spotify.com/album/0kUrdWYhWYGz71c0jaGnJe) | 3:54 | 2024-07-01 | 2025-01-18 |
 | [8 ASLE](https://open.spotify.com/track/6wkHR8cU4INbp145hngbQO) | [Sukha](https://open.spotify.com/artist/6FDDxz6lYakINkmWPOlIZG), [Chani Nattan](https://open.spotify.com/artist/1sSYaQBOI71QZDZ9OWW3hp), [Prodgk](https://open.spotify.com/artist/2E6ODN4Dna1vkh6s8sxHC0), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [UNDISPUTED](https://open.spotify.com/album/5jwxgwhfEuWqBfKYPHaC34) | 2:41 | 2024-01-30 |  |
@@ -149,6 +149,7 @@
 | [The Last Ride](https://open.spotify.com/track/7B4uYqxTpTOS1sgxFB9Ann) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [The Last Ride](https://open.spotify.com/album/2ga8NDQRxoXRAsqajZoCjv) | 4:22 | 2023-07-18 |  |
 | [Thumke 100](https://open.spotify.com/track/6DC287c6vu72O9PeHSxqek) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [Thumke 100](https://open.spotify.com/album/3MrfPOu6hAgFp0m0yvG1Y2) | 2:07 | 2024-11-04 | 2024-11-19 |
 | [Top Gear](https://open.spotify.com/track/2eGdocY9Ja9dqPpC2Ct7db) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Raah Rok De](https://open.spotify.com/album/4nRWjUkDrI4Du5nI7iFSDV) | 2:26 | 2024-11-21 | 2024-12-10 |
+| [Trade Marka](https://open.spotify.com/track/1we2yN08AAo5pNiT9ngdhC) | [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY), [Navi Warring](https://open.spotify.com/artist/30sKPEz7rychX6f8FkA56J) | [Trade Marka](https://open.spotify.com/album/1h74R55rRCrToyXTjJQE8P) | 3:02 | 2025-01-20 |  |
 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 | 2023-09-04 |  |
 | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/track/6ryOGfMaBty1cmkiJt9Qzz) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Wait & Watch \(From "Babbar"\)](https://open.spotify.com/album/0NMM1rVmULQqE38GOz6e1t) | 2:32 | 2023-07-18 | 2023-09-05 |
 | [Watch Out](https://open.spotify.com/track/3ZzUOWnQuNxenx2MbZqtYq) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Watch Out](https://open.spotify.com/album/11tfAS197RiPG4po110Tre) | 3:56 | 2023-11-15 |  |

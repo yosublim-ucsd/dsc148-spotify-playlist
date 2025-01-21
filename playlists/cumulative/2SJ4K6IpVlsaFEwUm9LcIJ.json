@@ -4385,6 +4385,24 @@
     },
     {
       "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193666,
+      "name": "Morning Morgantown",
+      "url": "https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2"
+    },
+    {
+      "album": {
         "name": "BERETTA",
         "url": "https://open.spotify.com/album/2sVOyyz06t2dGyWMzCYgS2"
       },
@@ -6736,6 +6754,24 @@
       "duration_ms": 160698,
       "name": "The Beauty of the Duty",
       "url": "https://open.spotify.com/track/0G7ee8kSG4zjvxLF0BF6eU"
+    },
+    {
+      "album": {
+        "name": "Ladies of the Canyon",
+        "url": "https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9"
+      },
+      "artists": [
+        {
+          "name": "Joni Mitchell",
+          "url": "https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 292600,
+      "name": "The Circle Game",
+      "url": "https://open.spotify.com/track/6MYDgkfu34kRRIdMfleVCV"
     },
     {
       "album": {

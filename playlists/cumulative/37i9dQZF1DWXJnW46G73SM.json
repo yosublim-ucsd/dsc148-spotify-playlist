@@ -41,6 +41,24 @@
     },
     {
       "album": {
+        "name": "[LOWL!FE] PART2",
+        "url": "https://open.spotify.com/album/3Tu92dlmWfLukiObzPa8ZV"
+      },
+      "artists": [
+        {
+          "name": "Begad",
+          "url": "https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169178,
+      "name": "12:00 AM",
+      "url": "https://open.spotify.com/track/5DXOzSA6Zp2czmmp0eUGFM"
+    },
+    {
+      "album": {
         "name": "3 Elzero",
         "url": "https://open.spotify.com/album/1GGzpP9lmVCeSsajXNlUut"
       },
@@ -21290,7 +21308,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 214870,
       "name": "\u0641\u062c\u0623\u0647 \u0627\u062e\u062a\u0641\u064a\u062a",
       "url": "https://open.spotify.com/track/34DOdp4LJQMmDXBO44x6Tw"

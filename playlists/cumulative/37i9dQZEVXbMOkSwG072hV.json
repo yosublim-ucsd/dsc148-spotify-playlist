@@ -13643,6 +13643,28 @@
     },
     {
       "album": {
+        "name": "Cornetada",
+        "url": "https://open.spotify.com/album/1XIMyQ8HruUJwdHBYg6fvG"
+      },
+      "artists": [
+        {
+          "name": "DJ BRUNINHO 17",
+          "url": "https://open.spotify.com/artist/5FnCbiF8jgiBZ0TPzNfbNy"
+        },
+        {
+          "name": "Mc Neguinho do Morro",
+          "url": "https://open.spotify.com/artist/466CdZBDPcGn9fuvBhzRRk"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136615,
+      "name": "Cornetada",
+      "url": "https://open.spotify.com/track/0S3LcGCPYcJxxoNamDbIFR"
+    },
+    {
+      "album": {
         "name": "Corpo e Can\u00e7\u00e3o (Club Mix)",
         "url": "https://open.spotify.com/album/6PHYNn7KqOlQxAgETl4ujD"
       },
@@ -19704,7 +19726,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 565252,
       "name": "Escape / Nunca Pare de Lutar",
       "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
@@ -29682,6 +29704,28 @@
       "duration_ms": 236293,
       "name": "King For A Day",
       "url": "https://open.spotify.com/track/1IT0WQk5J8NsaeII8ktdlZ"
+    },
+    {
+      "album": {
+        "name": "Kit Salve Da Quebrada",
+        "url": "https://open.spotify.com/album/2uNjG9tWT2vnPnXTyOquIZ"
+      },
+      "artists": [
+        {
+          "name": "DJ Helinho",
+          "url": "https://open.spotify.com/artist/65JO5VBS6mLrqybYlIy5s4"
+        },
+        {
+          "name": "Mano Piloto",
+          "url": "https://open.spotify.com/artist/2cWlsGzs2m6sUkZuIw2vZ1"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114461,
+      "name": "Kit Salve Da Quebrada",
+      "url": "https://open.spotify.com/track/20fOYuUBaKyGuqQLojm1HL"
     },
     {
       "album": {
@@ -64308,7 +64352,7 @@
       ],
       "date_added": "2025-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 387201,
       "name": "Voltei Com 5 do Job ( S\u00f3 Menina Linda 2 )",
       "url": "https://open.spotify.com/track/7kNdrUPHUmMieFQ38OEgk0"

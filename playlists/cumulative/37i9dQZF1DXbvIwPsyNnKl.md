@@ -2,7 +2,7 @@
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: O SIDE MAFIA, BRGR
+> our Spotify KALYE Song of the Year is Babaero! Cover: gins&melodies
 
 221 songs - 12 hr 29 min
 

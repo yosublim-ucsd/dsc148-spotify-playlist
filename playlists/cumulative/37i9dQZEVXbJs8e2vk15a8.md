@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Chile.
 
-2,650 songs - 5 day 21 hr 58 min
+2,651 songs - 5 day 22 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1495,6 +1495,7 @@
 | [Miel](https://open.spotify.com/track/6ohTBTmcNHe9UzvxAgA9wJ) | [Lauri Garcia](https://open.spotify.com/artist/4RH5rQ6kwIASIwZxWUBNTS) | [Miel](https://open.spotify.com/album/5ARQqCgouMHuaCwIGLeh5B) | 2:04 | 2022-04-15 | 2022-04-27 |
 | [MIENTES TAN BIEN](https://open.spotify.com/track/0IVaOnXV1QqPwhbW2PpMoM) | [Piromano El Del Flow Gitano](https://open.spotify.com/artist/2tXI6NDbDCXr0mlN1kJIl0), [Napo99](https://open.spotify.com/artist/0TQwhbavW288eFTFenPeRa), [teekyy](https://open.spotify.com/artist/6RqfZDh96RLufabBRbE2Js) | [MIENTES TAN BIEN](https://open.spotify.com/album/3t17jnHFwz8hLaEXaM0Bfw) | 3:35 | 2024-10-04 | 2024-11-13 |
 | [MIENTRAS ME CURO DEL CORA](https://open.spotify.com/track/6otePxalBK8AVa20xhZYVQ) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 2:44 | 2023-03-21 | 2023-04-26 |
+| [Miku](https://open.spotify.com/track/7aux5UvnlBDYlrlwoczifW) | [Anamanaguchi](https://open.spotify.com/artist/2UwJRAgSOi1zcLkvUNc8XL), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [Miku](https://open.spotify.com/album/4Wcp7Z67RyIbAYl6jmOkLL) | 3:43 | 2025-01-20 |  |
 | [Mil Febreros](https://open.spotify.com/track/0JVLbLjkbbuaUV5j9Q1vAr) | [OMGisNEFF](https://open.spotify.com/artist/58A4Qwc7kr97PARjHizb8g), [Neverknwn](https://open.spotify.com/artist/3h83Vh5q1KWo8KkvvV1kPa) | [Mil Febreros](https://open.spotify.com/album/2RGPpzKamm4Yzra3HRDI99) | 3:40 | 2022-10-29 | 2022-11-12 |
 | [Milagrosa](https://open.spotify.com/track/4CVhywni3QwalKLZgwFi58) | [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [Milagrosa](https://open.spotify.com/album/2Ri7SdWvj5PNtbVxrMDq3t) | 2:20 | 2022-12-04 | 2023-04-24 |
 | [MILLION DOLLAR BABY](https://open.spotify.com/track/5AJ9hqTS2wcFQCELCFRO7A) | [Tommy Richman](https://open.spotify.com/artist/1WaFQSHVGZQJTbf0BdxdNo) | [MILLION DOLLAR BABY](https://open.spotify.com/album/2Z1gnUf3nbn6DtwZSUIH54) | 2:35 | 2024-06-06 | 2024-06-18 |
@@ -1624,7 +1625,7 @@
 | [No Me Quiere Ver \(ft\. Javiielo\)](https://open.spotify.com/track/5rzTA49jPhyJOpqnIGVuxX) | [Rvfv](https://open.spotify.com/artist/2CCgb0KApjfQDuTppovpf8), [Javiielo](https://open.spotify.com/artist/3HH6yOn1yJNZo3RY5zEfy5) | [NASTU](https://open.spotify.com/album/6wl31M47YdcV6eNyfXCjCk) | 3:38 | 2022-05-06 | 2022-05-19 |
 | [No Me Salgas Con Esa \(MJ Cris\)](https://open.spotify.com/track/7sACkXjjfzWdagFnEehPYS) | [Lil Virgnidad](https://open.spotify.com/artist/7D8ZSFLu97dcMUUuywqnvF) | [No Me Salgas Con Esa \(MJ Cris\)](https://open.spotify.com/album/77qRA8oEohZXdsEZs3bErF) | 3:16 | 2023-11-08 | 2023-11-13 |
 | [No Me Sueltes](https://open.spotify.com/track/0nxTx0b1KOKwycQESSeZym) | [Baby J & Young Weapon](https://open.spotify.com/artist/4IRrYqHes6JTQwU5lePXNx) | [No Compe](https://open.spotify.com/album/430gNVv6387cVEvbnFSw3K) | 2:28 | 2023-09-09 | 2024-03-25 |
-| [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-21 |  |
+| [No One Noticed](https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Submarine](https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG) | 3:56 | 2024-11-21 | 2025-01-21 |
 | [No One Noticed \(Extended Spanish\)](https://open.spotify.com/track/2kn0fLwt9QRorHuGdmk6ze) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [No One Noticed \(Extended\)](https://open.spotify.com/album/6FkCugnh8o4VjxMMw4xlRC) | 4:44 | 2024-12-16 |  |
 | [No Paro De Pensar](https://open.spotify.com/track/1TktG2NVvJRAE1ng8kcYHg) | [FiltraMusic](https://open.spotify.com/artist/7qddYkcdROJ86rWpsmls7I) | [No Paro De Pensar](https://open.spotify.com/album/4qhJYga4cbKhVfg5tnTR6X) | 3:44 | 2024-01-09 | 2024-04-17 |
 | [No Pienso en Ti Jere](https://open.spotify.com/track/3SxFRfTmkXV6bXPhw40UfV) | [filtraChileDios](https://open.spotify.com/artist/4E7rGD7hfvCxNsfBKXnj3R) | [No Pienso en Ti Jere](https://open.spotify.com/album/1clNdjRrA7bl07Ijijq7OR) | 2:35 | 2023-02-03 | 2023-02-09 |

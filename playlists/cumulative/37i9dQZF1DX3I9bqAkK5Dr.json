@@ -606,7 +606,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 199200,
       "name": "Cheliya",
       "url": "https://open.spotify.com/track/7xclHxsTj8f3dy3Lco3Az6"
@@ -4547,6 +4547,24 @@
     },
     {
       "album": {
+        "name": "Payanam",
+        "url": "https://open.spotify.com/album/5W8nF6sA2qjjarLWQREgoe"
+      },
+      "artists": [
+        {
+          "name": "Rytry",
+          "url": "https://open.spotify.com/artist/1niASI4cf9rPJz2yhySf71"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139471,
+      "name": "Payanam",
+      "url": "https://open.spotify.com/track/1sMlVMhCMFCsdBRDZ3UEmv"
+    },
+    {
+      "album": {
         "name": "Pedavi Pilichina",
         "url": "https://open.spotify.com/album/3F9xcIaNEgIVQUcBWJvu2e"
       },
@@ -5340,7 +5358,7 @@
       ],
       "date_added": "2024-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 308550,
       "name": "Radhe Krishna Radhe",
       "url": "https://open.spotify.com/track/3gPcdtrU3nubU5QKdR54k8"
@@ -6415,6 +6433,24 @@
     },
     {
       "album": {
+        "name": "TSUNAMI",
+        "url": "https://open.spotify.com/album/4ySQiIqxkmw0VOIbKL0rhS"
+      },
+      "artists": [
+        {
+          "name": "Pranav Chaganty",
+          "url": "https://open.spotify.com/artist/3qMXirOtsqGAITRcMp8Dpo"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174339,
+      "name": "TSUNAMI",
+      "url": "https://open.spotify.com/track/6BoAJg1rH7KqCg2Cz4dcGp"
+    },
+    {
+      "album": {
         "name": "Uhhh!",
         "url": "https://open.spotify.com/album/4r4nAQW3qAVveUv1KwmJAN"
       },
@@ -6504,6 +6540,32 @@
       "duration_ms": 92182,
       "name": "Uppenalaa",
       "url": "https://open.spotify.com/track/7GsAQSPJeEi7FZJPaoigQL"
+    },
+    {
+      "album": {
+        "name": "Varama",
+        "url": "https://open.spotify.com/album/2VcRqSdwkaFKNB1gCbQd3J"
+      },
+      "artists": [
+        {
+          "name": "Tarun Donipati",
+          "url": "https://open.spotify.com/artist/5qH5z0A355cf42Z0dhw6NI"
+        },
+        {
+          "name": "Agni",
+          "url": "https://open.spotify.com/artist/5DlIzO1VXAbP1Ruzi8ui5F"
+        },
+        {
+          "name": "Sripragna Vellanki",
+          "url": "https://open.spotify.com/artist/5m65xIlHvGuJJWa5iXYExp"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230929,
+      "name": "Varama",
+      "url": "https://open.spotify.com/track/30IpmKZtv3k6hIwPjqVqy2"
     },
     {
       "album": {
@@ -6752,7 +6814,7 @@
       ],
       "date_added": "2024-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 256303,
       "name": "Vinabadena",
       "url": "https://open.spotify.com/track/6cG3qqpGXiQ115hoMY0pOi"

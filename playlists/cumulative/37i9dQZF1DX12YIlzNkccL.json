@@ -723,6 +723,32 @@
     },
     {
       "album": {
+        "name": "Beethoven: Egmont-Overture",
+        "url": "https://open.spotify.com/album/3ob9ICcfTBU59yJP6Lh3GL"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Bavarian Radio Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/74gWOpgM97HU3Mn8A8d0Vm"
+        },
+        {
+          "name": "Mariss Jansons",
+          "url": "https://open.spotify.com/artist/0IuqAyi5CMgpuyhckrcqNs"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 496501,
+      "name": "Egmont, Op. 84: Beethoven: Egmont-Overture",
+      "url": "https://open.spotify.com/track/3RwR7mLvz4Emj4nvm8psgh"
+    },
+    {
+      "album": {
         "name": "Beethoven: Egmont - Ah, perfido",
         "url": "https://open.spotify.com/album/73Ty7rA3JfDSg64y4PR3fG"
       },
@@ -750,7 +776,7 @@
       ],
       "date_added": "2021-06-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 540813,
       "name": "Egmont, Op. 84: Overture",
       "url": "https://open.spotify.com/track/2cN3DKBEAq7MAc6aUElXVJ"

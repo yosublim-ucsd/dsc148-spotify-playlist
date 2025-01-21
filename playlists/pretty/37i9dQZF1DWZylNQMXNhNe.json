@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 222711,
+  "num_followers": 222702,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "Calcinha",
-        "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
-      },
-      "artists": [
-        {
-          "name": "Kika Boom",
-          "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
-        },
-        {
-          "name": "Kaya Conky",
-          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
-        }
-      ],
-      "duration_ms": 178041,
-      "name": "Calcinha",
-      "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
         "name": "Colo da Tropa",
         "url": "https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 161888,
       "name": "Colo da Tropa",
       "url": "https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "Calcinha",
+        "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
+      },
+      "artists": [
+        {
+          "name": "Kika Boom",
+          "url": "https://open.spotify.com/artist/4sdbO8acIeyWG9BqFNVU1P"
+        },
+        {
+          "name": "Kaya Conky",
+          "url": "https://open.spotify.com/artist/2TGtBMeVz0MkIATkn2gHhe"
+        }
+      ],
+      "duration_ms": 178041,
+      "name": "Calcinha",
+      "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
     },
     {
       "added_at": "2024-10-08 13:46:40",
@@ -1091,26 +1091,6 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "Me Bate",
-        "url": "https://open.spotify.com/album/0HdsFRrZcOP2YsviiLZkSx"
-      },
-      "artists": [
-        {
-          "name": "A Travestis",
-          "url": "https://open.spotify.com/artist/00Jb0oU8RUPJgKTWKsNCxw"
-        },
-        {
-          "name": "lia mersi",
-          "url": "https://open.spotify.com/artist/4SphBMSSyBqb1HR4o0TOze"
-        }
-      ],
-      "duration_ms": 111768,
-      "name": "Me Bate",
-      "url": "https://open.spotify.com/track/4nIbgRXB46ucTtEYnSSMKN"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
         "name": "Pra N\u00f3s",
         "url": "https://open.spotify.com/album/2WPgSyY87D7P9jQDeWnb5L"
       },
@@ -1131,6 +1111,26 @@
       "duration_ms": 161190,
       "name": "Pra N\u00f3s",
       "url": "https://open.spotify.com/track/6NKgPEz0Zcol4Zy6JDcJv5"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "Me Bate",
+        "url": "https://open.spotify.com/album/0HdsFRrZcOP2YsviiLZkSx"
+      },
+      "artists": [
+        {
+          "name": "A Travestis",
+          "url": "https://open.spotify.com/artist/00Jb0oU8RUPJgKTWKsNCxw"
+        },
+        {
+          "name": "lia mersi",
+          "url": "https://open.spotify.com/artist/4SphBMSSyBqb1HR4o0TOze"
+        }
+      ],
+      "duration_ms": 111768,
+      "name": "Me Bate",
+      "url": "https://open.spotify.com/track/4nIbgRXB46ucTtEYnSSMKN"
     }
   ],
   "unique_name": "GLOW Brasil",

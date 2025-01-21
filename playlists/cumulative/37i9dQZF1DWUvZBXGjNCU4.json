@@ -3235,6 +3235,24 @@
     },
     {
       "album": {
+        "name": "Last Fall",
+        "url": "https://open.spotify.com/album/12UyG4b6DjNB3KT7bEsl6i"
+      },
+      "artists": [
+        {
+          "name": "Diego de Frigiliana",
+          "url": "https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151874,
+      "name": "Last Fall",
+      "url": "https://open.spotify.com/track/7cJxIvDCtQ42oQDmnqw7bP"
+    },
+    {
+      "album": {
         "name": "Green Fields",
         "url": "https://open.spotify.com/album/2Tlm0lRIBuVsLhxPJiJc39"
       },

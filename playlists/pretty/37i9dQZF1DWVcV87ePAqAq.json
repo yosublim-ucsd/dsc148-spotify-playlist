@@ -1,6 +1,6 @@
 {
   "description": "Flaket kommer studsa!",
-  "num_followers": 359284,
+  "num_followers": 359264,
   "original_name": "Studentfest!",
   "owner": {
     "name": "Spotify",
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2024-06-13 22:00:00",
       "album": {
+        "name": "Vad b\u00e4nkar du?",
+        "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
+      },
+      "artists": [
+        {
+          "name": "Gunilla Persson",
+          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
+        }
+      ],
+      "duration_ms": 167998,
+      "name": "Vad b\u00e4nkar du?",
+      "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
+    },
+    {
+      "added_at": "2024-06-13 22:00:00",
+      "album": {
         "name": "STUDENTEN (Hardstyle)",
         "url": "https://open.spotify.com/album/6tTkUSg03Lw33ex4QiFWL3"
       },
@@ -1211,22 +1227,6 @@
       "duration_ms": 132800,
       "name": "STUDENTEN (Hardstyle)",
       "url": "https://open.spotify.com/track/6cF987x2ZnFvAyArOeOrOD"
-    },
-    {
-      "added_at": "2024-06-13 22:00:00",
-      "album": {
-        "name": "Vad b\u00e4nkar du?",
-        "url": "https://open.spotify.com/album/5WO3CjAea8nJIB0CLJNOuv"
-      },
-      "artists": [
-        {
-          "name": "Gunilla Persson",
-          "url": "https://open.spotify.com/artist/5w05coq5piPottWOoVVaWE"
-        }
-      ],
-      "duration_ms": 167998,
-      "name": "Vad b\u00e4nkar du?",
-      "url": "https://open.spotify.com/track/1WqkGK7x1AgrdZbitbfhrW"
     },
     {
       "added_at": "2024-06-13 22:00:00",

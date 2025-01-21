@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by Experimental independent artists and labels\. Hiro Ama on cover\. Artwork by Thami Nabil
 
-[Spotify](https://open.spotify.com/user/spotify) - 183,907 likes - 100 songs - 7 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 183,934 likes - 100 songs - 7 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,15 +30,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 20 | [Free Soul](https://open.spotify.com/track/7pljs8w88hJuYh0dSAgwXb) | [Hiro Ama](https://open.spotify.com/artist/6qgKR3ZxWD8S5Fk7MJyiRJ) | [Free Soul](https://open.spotify.com/album/5XUC3IZZsH3qDNXhDoZ0xL) | 7:18 |
 | 21 | [Where'd You Put Me](https://open.spotify.com/track/3jf2rCDNPvdBrAfjEl3THV) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 1:12 |
 | 22 | [2033](https://open.spotify.com/track/4R3sySmWw5vQst9IweYAGA) | [Pelp](https://open.spotify.com/artist/5O6mSkESMMTM6WmQmtlDcK) | [2007](https://open.spotify.com/album/1XrAK2WxsAlogv7MmVypiY) | 11:48 |
-| 23 | [Multifolds](https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Everything Squared](https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr) | 5:31 |
+| 23 | [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
 | 24 | [Pordeno Me](https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [Pordeno Me](https://open.spotify.com/album/3x7TzsMMCYoUAuxRjGrFju) | 2:29 |
-| 25 | [Flatworm Meets Sea Slug](https://open.spotify.com/track/2SVKNL8UJ0s5r2VwTc81E2) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 3:18 |
+| 25 | [Multifolds](https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Everything Squared](https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr) | 5:31 |
 | 26 | [WHYET？](https://open.spotify.com/track/3qZuhnMglx8sN2ePzhsKSz) | [ondo](https://open.spotify.com/artist/31D2x4Ch0Lz1Z9jhXTTLBF) | [WHYET？](https://open.spotify.com/album/41Nf6etzcF599AG6udxp1P) | 3:31 |
 | 27 | [Snapdragon](https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G) | [Marta Del Grandi](https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh) | [Selva](https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M) | 3:12 |
 | 28 | [AMB005](https://open.spotify.com/track/4ylbp6v81OzyWEcla9nqMM) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [AMB005](https://open.spotify.com/album/0jKG73qcfRcWA8pHx4ibeT) | 5:58 |
-| 29 | [The Turning Ground](https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [The Turning Ground](https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn) | 4:25 |
+| 29 | [Balancing Stones](https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Things We Have In Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 3:36 |
 | 30 | [PLEASE COME TO ME](https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK) | [Masma Dream World](https://open.spotify.com/artist/3nH4G7zBXICcyAVnOoc2gu) | [PLEASE COME TO ME](https://open.spotify.com/album/5kSi87td0Lmyyhe45JAKfk) | 6:53 |
-| 31 | [Balancing Stones](https://open.spotify.com/track/2Tfsh6Ryh0Zc4Le6WMiFaI) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Things We Have In Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 3:36 |
+| 31 | [The Turning Ground](https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w) | [Tara Clerkin Trio](https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F) | [The Turning Ground](https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn) | 4:25 |
 | 32 | [Taivshral](https://open.spotify.com/track/0Q6JH1gDVsDRiDpES28Dqc) | [Enji](https://open.spotify.com/artist/5SAQAlJKszQa6PZyp4lT7s) | [Ulaan](https://open.spotify.com/album/0lZMi1nyBgePKUPbGO6Gat) | 3:07 |
 | 33 | [Analemma](https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch) | [Maya Shenfeld](https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ) | [Under the Sun](https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R) | 7:57 |
 | 34 | [Ignore](https://open.spotify.com/track/2Pp3hN6Mg3Ob5ZJgCw3D6Q) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 3:08 |
@@ -63,10 +63,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 53 | [LOVE IS NOT THE POISON](https://open.spotify.com/track/1Zz6iX0GpwRlwTMiRnLn6M) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [BORNE WORLD](https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV) | 5:18 |
 | 54 | [O Bicho Anda Por Aí](https://open.spotify.com/track/7jtphW7OYhjzpSvSqnKJdB) | [Ana Lua Caiano](https://open.spotify.com/artist/6TeD6DGSCfviinhl40SvYF) | [O Bicho Anda Por Aí](https://open.spotify.com/album/6V6E7ViNjwk3C1ct35SKya) | 2:32 |
 | 55 | [Hounds](https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi) | [Jupi/ter](https://open.spotify.com/artist/1lgvQ2wmUIPUPyijtFXF8x) | [Hounds](https://open.spotify.com/album/7lJJkUlTnBK26FYYOn0E4m) | 5:01 |
-| 56 | [Lose](https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:51 |
+| 56 | [AMB001](https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [AMB001\-008](https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv) | 6:03 |
 | 57 | [Hornworm Metamorphosis](https://open.spotify.com/track/2OWIW0RtHMknFI2OTeZqHb) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Worm](https://open.spotify.com/album/25tTdt9H8aE6B3xw9tKkr0) | 1:44 |
-| 58 | [Pillow, Mantra and Trance](https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 3:35 |
-| 59 | [AMB001](https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr) | [Demuja](https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1) | [AMB001\-008](https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv) | 6:03 |
+| 58 | [Lose](https://open.spotify.com/track/5fSUc2h13lsyCcGLhzfTED) | [Boeckner](https://open.spotify.com/artist/1SdWYxZBt4RjvyXcMbtxyE) | [Boeckner!](https://open.spotify.com/album/1we8POeAomGmp8hTzGFdaW) | 4:51 |
+| 59 | [Pillow, Mantra and Trance](https://open.spotify.com/track/4AX795lUNQjM1TcjdRDXh8) | [LI YILEI](https://open.spotify.com/artist/791gUmsH46HMASQZvPwXsp) | [NONAGE](https://open.spotify.com/album/7me7mcscTcEqnOpB6DM8TZ) | 3:35 |
 | 60 | [lavender's love](https://open.spotify.com/track/2kGBG1VF6277Hd0w5X96WU) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [lavender's love](https://open.spotify.com/album/13yS7mBNx7vaVK92kNokbo) | 2:40 |
 | 61 | [Hizo](https://open.spotify.com/track/4W3Gdxl6tqbxVKAsc7FGrC) | [Amina Cyu](https://open.spotify.com/artist/5pa6S3obvyRI66y4II5WD4) | [The 39 Steps](https://open.spotify.com/album/7x8Ns03P8iMwlnwkKJmk06) | 3:55 |
 | 62 | [Forest Drone](https://open.spotify.com/track/34XFYiJ3nq2qgq63k4ylM2) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs) | [Forest Drone](https://open.spotify.com/album/3hW3zaNS0WtTBE53J0Eg45) | 4:47 |
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 78 | [Baraka](https://open.spotify.com/track/0HjOi8AnakBvS1oY5NEMlL) | [COLA REN](https://open.spotify.com/artist/4C1PrnDnrzoe4U8OyrONzs) | [Hailu](https://open.spotify.com/album/1VOzlKc0RL1MFMcPv94yO6) | 2:35 |
 | 79 | [Night Plotters](https://open.spotify.com/track/6dmczsqgtAQ7O8PXX9vD0l) | [SabaSaba](https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV) | [Unknown City](https://open.spotify.com/album/5k23jNmflDH7hiCQ3KQco2) | 3:14 |
 | 80 | [En Paralelo](https://open.spotify.com/track/6TvMOIcWQWIBEVtyWR1svc) | [Titanic](https://open.spotify.com/artist/0R4GqPzobzIMpRgEKJ4c5i), [I la Católica](https://open.spotify.com/artist/2rCybFFmfZAOrBwGA8L7Nu), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Vidrio](https://open.spotify.com/album/0fkpb1L4tISjGSYzjRkWOv) | 2:51 |
-| 81 | [wearywatergod](https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 1:08 |
-| 82 | [hope's return](https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [hope's return](https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q) | 1:43 |
+| 81 | [hope's return](https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd) | [Maral](https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG) | [hope's return](https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q) | 1:43 |
+| 82 | [wearywatergod](https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx) | [Stemlines](https://open.spotify.com/artist/2o0jf68Qiap2A3RIhvTcCX) | [L4TA](https://open.spotify.com/album/2YdqLlOOTpvfEG9zkfNZJc) | 1:08 |
 | 83 | [Ros Elavy](https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no) | [CLARAGUILAR](https://open.spotify.com/artist/1NZsUhjp15d6Vcm2vsLs6R) | [Figura](https://open.spotify.com/album/0MnDnjwq6oHY5eFnzz3OBa) | 5:39 |
 | 84 | [Heat!](https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:47 |
 | 85 | [EVER](https://open.spotify.com/track/0DDzLY6OicdAntH1IRAlMm) | [KÁRYYN](https://open.spotify.com/artist/4DLYIUgjZAea6vgzGwJUTI) | [THE QUANTA SERIES](https://open.spotify.com/album/1d4ayy5klByiNOJpTShQ29) | 6:29 |

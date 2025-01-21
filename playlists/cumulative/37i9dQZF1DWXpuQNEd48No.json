@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 169043,
       "name": "Andhadhundh",
       "url": "https://open.spotify.com/track/2r41UPprKTdzCHunyb9ITs"
@@ -1464,7 +1464,7 @@
       ],
       "date_added": "2023-09-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 178636,
       "name": "Chore Haryana Aale",
       "url": "https://open.spotify.com/track/1bbbcdT3UhWkSIXH0FzipI"
@@ -2897,6 +2897,28 @@
     },
     {
       "album": {
+        "name": "Haryana Anthem",
+        "url": "https://open.spotify.com/album/4CDopPTE8I36ArLIFGAoti"
+      },
+      "artists": [
+        {
+          "name": "BigMoney",
+          "url": "https://open.spotify.com/artist/1cRdqU4s5nAUZecL49dXPE"
+        },
+        {
+          "name": "Laath Saab",
+          "url": "https://open.spotify.com/artist/70Pg9iXpsz2qu0Zich16q7"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194823,
+      "name": "Haryana Anthem",
+      "url": "https://open.spotify.com/track/4n31uaEnTwhSK7IXEX5lwZ"
+    },
+    {
+      "album": {
         "name": "Haryana Born",
         "url": "https://open.spotify.com/album/7hMuaxPY9NYf8oOoVBqEXf"
       },
@@ -4060,6 +4082,32 @@
       "duration_ms": 218571,
       "name": "Kalyug",
       "url": "https://open.spotify.com/track/1PpD1pRsC67ir1qT7fvz5R"
+    },
+    {
+      "album": {
+        "name": "The Notorious Guys",
+        "url": "https://open.spotify.com/album/6kxdud0oQy8tEnq5g0mpsY"
+      },
+      "artists": [
+        {
+          "name": "Aman Mangali Aala",
+          "url": "https://open.spotify.com/artist/07jPFpLcuorUFXQ8UIHrDR"
+        },
+        {
+          "name": "RC Magnum",
+          "url": "https://open.spotify.com/artist/6tOvJBGkAKjTULntyXRidT"
+        },
+        {
+          "name": "Manish Gaat",
+          "url": "https://open.spotify.com/artist/3A7hpxFL3qpX50C1z15m6L"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201774,
+      "name": "Karwai",
+      "url": "https://open.spotify.com/track/3lTeDEjpSlPxtpEnzNAEB2"
     },
     {
       "album": {

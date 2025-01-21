@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7bangZ8fzV0.md) - [plain]
 
 > Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=iJLGUjtYS9WRTNFNuoLwmA">Dodo Nyoka</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,528 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,563 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

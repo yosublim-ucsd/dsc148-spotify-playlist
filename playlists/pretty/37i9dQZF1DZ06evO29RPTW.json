@@ -1,12 +1,12 @@
 {
   "description": "This is Rob Zombie. The essential tracks, all in one playlist.",
-  "num_followers": 126655,
+  "num_followers": 126672,
   "original_name": "This Is Rob Zombie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4rvAAAAAAC4ErQv4xdlkDSdiMIQbsTk",
+  "snapshot_id": "Z4xAgAAAAAA5QKfe2uTduNLps0dYInqq",
   "tracks": [
     {
       "added_at": null,
@@ -779,18 +779,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "House Of 1000 Corpses",
-        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
+        "name": "Mondo Sex Head",
+        "url": "https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
+        },
+        {
+          "name": "White Zombie",
+          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
+        },
+        {
+          "name": "Jonathan Davis",
+          "url": "https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW"
         }
       ],
-      "duration_ms": 156800,
-      "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
-      "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
+      "duration_ms": 229080,
+      "name": "Thunder Kiss '65 - JDevil Number Of The Beast Remix",
+      "url": "https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j"
     },
     {
       "added_at": null,
@@ -827,26 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mondo Sex Head",
-        "url": "https://open.spotify.com/album/2Miyi6VLfg7A9ztHxHzyQV"
+        "name": "House Of 1000 Corpses",
+        "url": "https://open.spotify.com/album/6QhbmjcoVkxAFGvFSPpTVF"
       },
       "artists": [
         {
           "name": "Rob Zombie",
           "url": "https://open.spotify.com/artist/3HVdAiMNjYrQIKlOGxoGh5"
-        },
-        {
-          "name": "White Zombie",
-          "url": "https://open.spotify.com/artist/0CF71zaDOJWCynIkW9bSK8"
-        },
-        {
-          "name": "Jonathan Davis",
-          "url": "https://open.spotify.com/artist/1VW5tZ9pmSb2rG0GmSELwW"
         }
       ],
-      "duration_ms": 229080,
-      "name": "Thunder Kiss '65 - JDevil Number Of The Beast Remix",
-      "url": "https://open.spotify.com/track/182RMRDl88iyYlFd3cC20j"
+      "duration_ms": 156800,
+      "name": "Everybody Scream - From \"House Of 1000 Corpses\" Soundtrack",
+      "url": "https://open.spotify.com/track/60J3svXDePAmdfbXOOUaSJ"
     }
   ],
   "unique_name": "This Is Rob Zombie",

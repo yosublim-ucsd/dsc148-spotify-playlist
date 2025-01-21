@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u30a4\u30f3\u30c7\u30a3\u30fc\u30fb\u30b5\u30a6\u30f3\u30c9\u3092\u7279\u96c6\u3002The freshest indie sounds from Japan. cover: \u3048\u3093\u3077\u3066\u3044",
-  "num_followers": 60281,
+  "num_followers": 60288,
   "original_name": "Edge!",
   "owner": {
     "name": "Spotify",
@@ -551,22 +551,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "LIKE A FIRST KISS",
-        "url": "https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM"
+        "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
+        "url": "https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy"
       },
       "artists": [
         {
-          "name": "HITOMITOI",
-          "url": "https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l"
-        },
-        {
-          "name": "Wild Nothing",
-          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
+          "name": "First Love is Never Returned",
+          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
         }
       ],
-      "duration_ms": 198078,
-      "name": "LIKE A FIRST KISS",
-      "url": "https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy"
+      "duration_ms": 193383,
+      "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
+      "url": "https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -587,18 +583,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
-        "url": "https://open.spotify.com/album/3SibfMHSlt6EwTCn2SdlAy"
+        "name": "LIKE A FIRST KISS",
+        "url": "https://open.spotify.com/album/2XyHgsHkDcev8o3COfauxM"
       },
       "artists": [
         {
-          "name": "First Love is Never Returned",
-          "url": "https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG"
+          "name": "HITOMITOI",
+          "url": "https://open.spotify.com/artist/3Uj4f5PGdIJEhCJkqysb3l"
+        },
+        {
+          "name": "Wild Nothing",
+          "url": "https://open.spotify.com/artist/6NrkINd80slV25wkBu9mEB"
         }
       ],
-      "duration_ms": 193383,
-      "name": "\u305d\u308c\u304c\u604b\u3060\u3068\u8a00\u3063\u3066\u304f\u308c\uff01",
-      "url": "https://open.spotify.com/track/4cZIJJaZqB7GtqW43dJ1pT"
+      "duration_ms": 198078,
+      "name": "LIKE A FIRST KISS",
+      "url": "https://open.spotify.com/track/3Rr1fBVpgvLDpI3sWJ7gZy"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "Make a Move",
-        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
-      },
-      "artists": [
-        {
-          "name": "goethe",
-          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
-        }
-      ],
-      "duration_ms": 157133,
-      "name": "Make a Move",
-      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
         "name": "Hotel New Yuma",
         "url": "https://open.spotify.com/album/1y8ykZ1TvC3fjO5CniyoH1"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 192555,
       "name": "\u5922\u3092\u898b\u3088\u3046\u3088",
       "url": "https://open.spotify.com/track/4REmArjERMGydCfp1o3jOS"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
+        "name": "Make a Move",
+        "url": "https://open.spotify.com/album/3N1fwVfpKuz6y2DWuCAZo7"
+      },
+      "artists": [
+        {
+          "name": "goethe",
+          "url": "https://open.spotify.com/artist/2G0Sa0kSEjDai6djMx1EcY"
+        }
+      ],
+      "duration_ms": 157133,
+      "name": "Make a Move",
+      "url": "https://open.spotify.com/track/0Bqqnzb5F6dJZdOe4j2UzU"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1063,6 +1063,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
+        "name": "A Winter Song",
+        "url": "https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo"
+      },
+      "artists": [
+        {
+          "name": "yk (Hello1103)",
+          "url": "https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk"
+        }
+      ],
+      "duration_ms": 164666,
+      "name": "A Winter Song",
+      "url": "https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
         "name": "Liquid Yellow Portraits",
         "url": "https://open.spotify.com/album/6d5N9kdTkJNaVLOqXEpvSk"
       },
@@ -1107,18 +1123,18 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
-        "name": "A Winter Song",
-        "url": "https://open.spotify.com/album/0Sww7RKpUhZKD4wYBgI0Yo"
+        "name": "\u51fa\u81ea",
+        "url": "https://open.spotify.com/album/7sfdg5SSdJy29Apk96bW2M"
       },
       "artists": [
         {
-          "name": "yk (Hello1103)",
-          "url": "https://open.spotify.com/artist/7hV78AriAQKAK6P5Dz9vRk"
+          "name": "\u771e\u540d\u5b50\u65b0",
+          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
         }
       ],
-      "duration_ms": 164666,
-      "name": "A Winter Song",
-      "url": "https://open.spotify.com/track/5G2Ar6Y1DcReutFcw1P8sv"
+      "duration_ms": 347551,
+      "name": "\u51fa\u81ea",
+      "url": "https://open.spotify.com/track/6PXF0QH95WswIgisUOzMUL"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1139,22 +1155,6 @@
       "duration_ms": 191747,
       "name": "World's Famous",
       "url": "https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "\u51fa\u81ea",
-        "url": "https://open.spotify.com/album/7sfdg5SSdJy29Apk96bW2M"
-      },
-      "artists": [
-        {
-          "name": "\u771e\u540d\u5b50\u65b0",
-          "url": "https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G"
-        }
-      ],
-      "duration_ms": 347551,
-      "name": "\u51fa\u81ea",
-      "url": "https://open.spotify.com/track/6PXF0QH95WswIgisUOzMUL"
     },
     {
       "added_at": "2025-01-14 15:00:02",
@@ -1255,6 +1255,22 @@
     {
       "added_at": "2025-01-14 15:00:02",
       "album": {
+        "name": "\u3072\u304b\u308a\u3092\u7de8\u3080\u99d0\u8eca\u5834",
+        "url": "https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30eb\u30b9\u30a6\u30a7\u30a2\u7d00\u884c",
+          "url": "https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb"
+        }
+      ],
+      "duration_ms": 175578,
+      "name": "\u5929\u624d\u306f\u4eca\u5ea6",
+      "url": "https://open.spotify.com/track/2go4dyUEz2xXv5PELHThcF"
+    },
+    {
+      "added_at": "2025-01-14 15:00:02",
+      "album": {
         "name": "Wonderful Christmastime",
         "url": "https://open.spotify.com/album/4txnTlq9HyJ9lfeBuJbXYI"
       },
@@ -1267,26 +1283,6 @@
       "duration_ms": 177909,
       "name": "Wonderful Christmastime",
       "url": "https://open.spotify.com/track/1ibzH4vGk0lOD9DcLi87j7"
-    },
-    {
-      "added_at": "2025-01-14 15:00:02",
-      "album": {
-        "name": "Don't make love vow",
-        "url": "https://open.spotify.com/album/7f8pXcJau1rJur5app8nTW"
-      },
-      "artists": [
-        {
-          "name": "HARU NEMURI",
-          "url": "https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT"
-        },
-        {
-          "name": "Pyra",
-          "url": "https://open.spotify.com/artist/6W78HC7M6stHwJalKYMTt9"
-        }
-      ],
-      "duration_ms": 189566,
-      "name": "Don't make love vow",
-      "url": "https://open.spotify.com/track/58IJSMPsjN4CWrXUOMd969"
     }
   ],
   "unique_name": "Edge!",

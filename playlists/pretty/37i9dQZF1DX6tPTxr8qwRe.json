@@ -1,12 +1,12 @@
 {
   "description": "Dark, hard hitting pop. Cover: Joya Marleen",
-  "num_followers": 421514,
+  "num_followers": 421556,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nkCQAAAAC9ZxwEa2rS8FfNd4avKmi3",
+  "snapshot_id": "Z47T4QAAAACAGDlOMR4WUxCa1mExnb4n",
   "tracks": [
     {
       "added_at": "2025-01-10 05:00:16",
@@ -43,6 +43,22 @@
       "duration_ms": 190138,
       "name": "Bite Marks",
       "url": "https://open.spotify.com/track/6zJoGHVeRHbfijJF95Q3pE"
+    },
+    {
+      "added_at": "2025-01-20 22:53:21",
+      "album": {
+        "name": "BIBI Vengeance (feat. Baby Tate & with Princesa Alba) [Remix]",
+        "url": "https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r"
+      },
+      "artists": [
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 165135,
+      "name": "BIBI Vengeance",
+      "url": "https://open.spotify.com/track/6cwfdl65DXd0VjQk5grYcv"
     },
     {
       "added_at": "2025-01-10 05:00:16",
@@ -975,26 +991,6 @@
       "duration_ms": 182750,
       "name": "Crazy Bitch",
       "url": "https://open.spotify.com/track/1ALb2cQBsy82S5kmBVkpxD"
-    },
-    {
-      "added_at": "2024-09-20 04:00:00",
-      "album": {
-        "name": "THE VANDALIST",
-        "url": "https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ"
-      },
-      "artists": [
-        {
-          "name": "Noga Erez",
-          "url": "https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ"
-        },
-        {
-          "name": "Flyana Boss",
-          "url": "https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S"
-        }
-      ],
-      "duration_ms": 207804,
-      "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
-      "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
     },
     {
       "added_at": "2024-09-27 04:00:00",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 
 > This is George Michael\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 580,045 likes - 51 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 580,087 likes - 51 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Cvrlm.md) - [plain]
 | 50 | [Secret Love](https://open.spotify.com/track/5DvAuonLamxQJUiY44tBiq) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [Songs From The Last Century](https://open.spotify.com/album/3iMgLMyrIlw1AIRlLfUF7u) | 2:39 |
 | 51 | [This Is How \(We Want You To Get High\)](https://open.spotify.com/track/2SqmHjIlj50KyNZ6Xvny55) | [George Michael](https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo) | [This Is How \(We Want You To Get High\)](https://open.spotify.com/album/0FRo7kLUZKAUCKwom4XwaH) | 4:00 |
 
-Snapshot ID: `Z4rvAAAAAABbJWatOdixDPo9yYcYjVIV`
+Snapshot ID: `Z4xAgAAAAABDCeFiSnACZqwYNyc/aIq/`

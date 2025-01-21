@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Dynamic Duo, GUMMY\(다이나믹 듀오, 거미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,094 likes - 115 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,098 likes - 115 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

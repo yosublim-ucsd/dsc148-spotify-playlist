@@ -4,7 +4,7 @@
 
 > Focus, game or just chill to these smooth synthwave beats.
 
-139 songs - 7 hr 14 min
+141 songs - 7 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [Afterimage](https://open.spotify.com/track/3m0yVxfMU7W7Mv7XGMThmy) | [Voyage](https://open.spotify.com/artist/6aAXBSjwLUEukyVDhOuKNO) | [Afterimage](https://open.spotify.com/album/5qpJu0DYHr0jl9oWmBVJ8W) | 4:50 | 2024-06-06 |  |
 | [Apiary](https://open.spotify.com/track/0GhNaJ0fKgdZ0rtorNbrpt) | [wavetearz](https://open.spotify.com/artist/6KXxSJSRFwAXN29VPO1hZk) | [Apiary](https://open.spotify.com/album/5bkrDIaKH4xdcqjT6HiPV3) | 2:41 | 2024-06-06 |  |
 | [Atlantis](https://open.spotify.com/track/1Ck57y28RGO0G0liJXg5rh) | [Downtown Binary](https://open.spotify.com/artist/0H4t3GcGse8cqfL222mfbv) | [Astral](https://open.spotify.com/album/1uGa6ryU3GodJXBlFCAqNj) | 4:49 | 2024-06-06 | 2024-08-11 |
-| [Birthday Party](https://open.spotify.com/track/3mgv9OYYeTzVc0VPWSmb7O) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Birthday Party](https://open.spotify.com/album/0OLYt7jOwKDrqPmavg3VEA) | 3:20 | 2024-06-06 |  |
+| [Birthday Party](https://open.spotify.com/track/3mgv9OYYeTzVc0VPWSmb7O) | [A.M\. Attack](https://open.spotify.com/artist/6GYPQrUO5yGLCMo6YqJzyC) | [Birthday Party](https://open.spotify.com/album/0OLYt7jOwKDrqPmavg3VEA) | 3:20 | 2024-06-06 | 2025-01-21 |
 | [Bright and Stormy](https://open.spotify.com/track/27xJCJ1TBpcvMufWo5s9xK) | [Arc De Soleil](https://open.spotify.com/artist/2iLMJdaqsQ44X7MPRD7rR5) | [Casino Funk](https://open.spotify.com/album/7zdTI8SbNAs0HWMIKmeolN) | 2:57 | 2024-06-06 | 2024-10-08 |
 | [Butterfly](https://open.spotify.com/track/7H92iGJ6ra6mLkY7uo9Nnq) | [Karaff](https://open.spotify.com/artist/3tuKRJBVdoY7LSA3kDKYc0) | [Butterfly](https://open.spotify.com/album/6Hbg400CdJKeXc8vYleUfw) | 2:34 | 2024-06-06 | 2024-11-15 |
 | [Chromatic Sky](https://open.spotify.com/track/5YhUq6wODRqhDilhRpRIyw) | [Retrophoria](https://open.spotify.com/artist/0NkBsV2lsvsJJXOMx1zRgf) | [Chromatic Sky](https://open.spotify.com/album/5jbTBh9JClFOg0sLu2p5H1) | 2:40 | 2024-09-27 |  |
@@ -116,6 +116,7 @@
 | [Runaway Hits](https://open.spotify.com/track/1txPfOfGv4KDLbT8fxMJpx) | [Silva Silvester](https://open.spotify.com/artist/0qX6jHWN2dF8OAGysAJl9Y) | [Runaway Hits](https://open.spotify.com/album/3HbfhUt88VoXeYx7CUMnwv) | 3:10 | 2024-06-06 | 2024-06-13 |
 | [Runway](https://open.spotify.com/track/2pgjNImh0JcvNHsI1NiqhK) | [KING PALM](https://open.spotify.com/artist/54GbY8x05TU5lF1wjGAGwq) | [Air Travel](https://open.spotify.com/album/1k5ceOJjWpz4y3AeJ5WZ7d) | 3:26 | 2024-06-06 | 2024-07-17 |
 | [Saga](https://open.spotify.com/track/3GonFKucRqYyY1QRBVqalr) | [High Fedelity Highway](https://open.spotify.com/artist/2iqYU8YJegaHYzs18bs3nG) | [Saga](https://open.spotify.com/album/6CZVMYSLfI1r5sXXCt0b8F) | 3:30 | 2024-06-06 |  |
+| [See You Next Year \(Slowed\)](https://open.spotify.com/track/4N5CPL89XOc7vmBJaxEI79) | [Arimasen](https://open.spotify.com/artist/7lp5HmV500UD5aKnTzrYcz), [KoruSe](https://open.spotify.com/artist/3EdNJeTXrsR5jbmICchj3R) | [See You Next Year](https://open.spotify.com/album/4g3JGSmunWpfVKtyuJsa3p) | 3:52 | 2025-01-20 |  |
 | [Selective Memories](https://open.spotify.com/track/06aX8QgWv4uNnogqUVqM4c) | [Afterift](https://open.spotify.com/artist/7vjAlACB6dM1DtOQGHq3ob) | [In The Beginning There Was Driftscape](https://open.spotify.com/album/4COj84ImYNkny0xWNuto24) | 3:44 | 2024-09-05 |  |
 | [Shake You Off](https://open.spotify.com/track/5N04YJGla33NiuSKaHfrvX) | [Paisley Pink](https://open.spotify.com/artist/3If1CcrLGqjVA4szNh1q6G) | [Phantom Pulse](https://open.spotify.com/album/3H3wQUhwcbmLlEIh6c98Zp) | 2:49 | 2024-06-06 | 2024-07-19 |
 | [Shelter](https://open.spotify.com/track/0h1b2NjVMy0ss2Ukzgjbc1) | [Hotel Pools](https://open.spotify.com/artist/5bQ1u5yLlL2WZv49doSgRz), [elati0n](https://open.spotify.com/artist/2relz1Dexqfbh8tfExyF0i) | [FiLo](https://open.spotify.com/album/0FQ2TdMfvZdoXxJmOf5fz1) | 3:05 | 2024-07-16 |  |
@@ -135,10 +136,11 @@
 | [Textures](https://open.spotify.com/track/1seTo1rP8Y5A9pn9ap92nS) | [DeSantiis](https://open.spotify.com/artist/3nxb4AVWKD3ccJcW858gZt) | [Textures](https://open.spotify.com/album/4d0id8b3ltwYcT4vTtM0gv) | 2:51 | 2024-06-06 |  |
 | [The Arcades](https://open.spotify.com/track/6AB5a0jwNhLSOgByejWM7m) | [Mad Dog Madison](https://open.spotify.com/artist/1rUERPSlva0MeB9K7P8CZQ) | [The Arcades](https://open.spotify.com/album/48hdi0M6jPYJxKPqhXx63w) | 3:27 | 2024-06-06 |  |
 | [The Mirage Syndicate](https://open.spotify.com/track/3Fl3Twi9Anar9g7faE9bgo) | [Cherry the Penguin](https://open.spotify.com/artist/4I4VMwtLmRMlS6qoQuX6dR) | [Battle for Black Hole Base Pt\. 2](https://open.spotify.com/album/3WZ134pjBqabVf6QduWxvi) | 2:40 | 2024-12-03 |  |
-| [The Unknown](https://open.spotify.com/track/5BilQDvjG6wn2emz32svm5) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [The Unknown](https://open.spotify.com/album/69I7fYgok4SWKr0d55Sy7b) | 3:02 | 2024-06-06 |  |
+| [The Unknown](https://open.spotify.com/track/5BilQDvjG6wn2emz32svm5) | [Pink Pyramid](https://open.spotify.com/artist/3QIH9GCIlRvK8ovjZ62UJh) | [The Unknown](https://open.spotify.com/album/69I7fYgok4SWKr0d55Sy7b) | 3:02 | 2024-06-06 | 2025-01-21 |
 | [Time](https://open.spotify.com/track/7kx7vTZFMcR822J0EdreNP) | [Babbage](https://open.spotify.com/artist/0T8qVnPB5nOuzTVncV4RWg) | [Time](https://open.spotify.com/album/0eNfe89MtLWRndxk0nW0o8) | 3:24 | 2024-12-13 |  |
 | [True Love](https://open.spotify.com/track/0ajMmAtW5492rLVehEkoM7) | [Cyter](https://open.spotify.com/artist/6xSvbD19SYZJ2T1bhoYuJR) | [Catwave](https://open.spotify.com/album/2bnkr8ZQci5Ejaf8YmNSqn) | 3:29 | 2024-12-13 |  |
 | [UNIX 82](https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL) | [Ben Elson](https://open.spotify.com/artist/1OuL8Cuw5Ed403k0dUnloa) | [Space Waves](https://open.spotify.com/album/7zuSBEmYo1iPEdQkyZEroD) | 2:48 | 2024-06-06 | 2024-12-04 |
+| [Valentina](https://open.spotify.com/track/23CMTsEHgMsug4DyafCpqH) | [Skolnick](https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt) | [Valentina](https://open.spotify.com/album/4spKQQXCmCyHKTgObWWfGE) | 2:54 | 2025-01-20 |  |
 | [VHS](https://open.spotify.com/track/6iQkPTQy6bcW2J5A8JNxt1) | [Charlotte Knight](https://open.spotify.com/artist/4bo2qexwnFrRZXXs024mrP) | [VHS](https://open.spotify.com/album/5aLcJnQhU7KzSlbJIrEX4v) | 3:16 | 2024-09-13 |  |
 | [Video Knights](https://open.spotify.com/track/7EKCNfwAqGTCyh0u5IrJ7u) | [spring gang](https://open.spotify.com/artist/5MwxRYT0ZWOpQQBPktD0Rf) | [Video Knights](https://open.spotify.com/album/4vpYAUcFWqteJtyu0imsqb) | 4:12 | 2024-06-06 |  |
 | [Virtual Realm](https://open.spotify.com/track/02g6jSLXQTRxzObVfJCD5R) | [Saffari](https://open.spotify.com/artist/4geZSVxo3NmU8J6Vpm4j6B) | [Virtual Realm](https://open.spotify.com/album/7iD7qgWarP2cE6milUdLxk) | 3:39 | 2024-08-23 |  |

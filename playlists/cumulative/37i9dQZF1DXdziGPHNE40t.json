@@ -222,7 +222,7 @@
       ],
       "date_added": "2024-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 188933,
       "name": "A magical time",
       "url": "https://open.spotify.com/track/0Es2ZEoyPmCPy0MM1jzCRF"
@@ -2810,7 +2810,7 @@
       ],
       "date_added": "2024-12-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 253059,
       "name": "Faelleshaven",
       "url": "https://open.spotify.com/track/53USGewhM8Uehqyxqg4CM2"
@@ -6444,7 +6444,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 158698,
       "name": "Moved by Performance",
       "url": "https://open.spotify.com/track/1X5VaV9u5071WW9D9vDE8n"
@@ -6804,7 +6804,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 248500,
       "name": "Need You Here",
       "url": "https://open.spotify.com/track/6U31miey75JtdzenSiTToi"
@@ -6916,6 +6916,24 @@
       "duration_ms": 163239,
       "name": "Next Door Guy",
       "url": "https://open.spotify.com/track/5kIrnMtnAFk3dG0nRq2EXw"
+    },
+    {
+      "album": {
+        "name": "Next Year",
+        "url": "https://open.spotify.com/album/6ceJMUM2obFblnHTZNqnzS"
+      },
+      "artists": [
+        {
+          "name": "The Three Queens",
+          "url": "https://open.spotify.com/artist/0Rk4ZISv9eXs3Thg7rco7h"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220751,
+      "name": "Next Year",
+      "url": "https://open.spotify.com/track/6MQMCZBZ0vXGn540rj8gRl"
     },
     {
       "album": {
@@ -7720,7 +7738,7 @@
       ],
       "date_added": "2023-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 207473,
       "name": "Pot of gold",
       "url": "https://open.spotify.com/track/3UFfw35PZHkM0ZM8IvIGDB"
@@ -8188,7 +8206,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 221874,
       "name": "Serenity",
       "url": "https://open.spotify.com/track/3VoVHmxIT8vFcE8PNj0j12"
@@ -9090,7 +9108,7 @@
       ],
       "date_added": "2024-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 204128,
       "name": "Stardust",
       "url": "https://open.spotify.com/track/2E7fP0L9x0NXELu1deubuU"
@@ -11902,6 +11920,24 @@
       "duration_ms": 170526,
       "name": "Younger",
       "url": "https://open.spotify.com/track/2n1SYJBFAWhiDekZF0De0k"
+    },
+    {
+      "album": {
+        "name": "Your Hand in Mine, Briefly",
+        "url": "https://open.spotify.com/album/4HSnrJpr8zEfYCIrsMInVw"
+      },
+      "artists": [
+        {
+          "name": "Kingsbury Station",
+          "url": "https://open.spotify.com/artist/0yaQHG0mUFfPP4QerRD3zD"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212315,
+      "name": "Your Hand in Mine, Briefly",
+      "url": "https://open.spotify.com/track/72rMPOnoJrBJKQnVDOs17m"
     },
     {
       "album": {

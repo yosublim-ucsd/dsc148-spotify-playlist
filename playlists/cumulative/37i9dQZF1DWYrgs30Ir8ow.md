@@ -2,7 +2,7 @@
 
 ### [Fresh Hits](https://open.spotify.com/playlist/37i9dQZF1DWYrgs30Ir8ow)
 
-> Altijd fris in Fresh Hits\. Cover: Bad Bunny
+> Altijd frisse hits! Cover: Popprijs winnaar Roxy Dekker
 
 814 songs - 1 day 15 hr 40 min
 

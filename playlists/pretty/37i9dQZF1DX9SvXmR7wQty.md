@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ariane Roy
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,306 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,305 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,17 +31,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 21 | [La pluie](https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [La pluie](https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG) | 3:02 |
 | 22 | [POP \(feat\. La Mano 1.9\)](https://open.spotify.com/track/23fxyoCF4qEXS5RSZ8xWPq) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [La Mano 1.9](https://open.spotify.com/artist/78iJ2FMbYAFY3djO4PbWZi) | [POP \(feat\. La Mano 1.9\)](https://open.spotify.com/album/7Itb8iBp11bbasa17mHILM) | 3:36 |
 | 23 | [Rouge](https://open.spotify.com/track/7yYx3sq84YgiDTlyuCY8Il) | [Soraï](https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL) | [Synesthésies \(Deluxe\)](https://open.spotify.com/album/6uGZAOKcVq2L31NFvroIBZ) | 2:17 |
-| 24 | [L.F.O.L.F \(feat\. Leto\)](https://open.spotify.com/track/34gQB3gmeWHRqhsRhAquwi) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:50 |
-| 25 | [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 |
+| 24 | [OBVIOUS](https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu) | [Rilès](https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [SURVIVAL MODE](https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U) | 2:41 |
+| 25 | [L.F.O.L.F \(feat\. Leto\)](https://open.spotify.com/track/34gQB3gmeWHRqhsRhAquwi) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SALGOAT](https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89) | 2:50 |
 | 26 | [Je suis fait pour...](https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Inarrêtable](https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM) | 3:18 |
 | 27 | [Corail](https://open.spotify.com/track/1zhvNd9Owc6MYk4TjV7wdm) | [Simon Lachance](https://open.spotify.com/artist/63GdLJehnoZLOXOjw9ntim) | [Corail](https://open.spotify.com/album/55NhEOcVmjVT6gWcI18GFJ) | 3:20 |
 | 28 | [Que toi](https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [TESTIMONY.](https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK) | 4:02 |
 | 29 | [Brrr](https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [Brrr](https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s) | 2:10 |
 | 30 | [Pink Sh!t](https://open.spotify.com/track/0KCBDYjTojNCYIsMakWkQz) | [Lostboy Carlos](https://open.spotify.com/artist/7tYNQF6fww1VELqVD0TBeb) | [Pink Sh!t](https://open.spotify.com/album/0OZc0klySsvKeGWjlqDiDe) | 2:24 |
 | 31 | [Stigmates](https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA) | [SCH](https://open.spotify.com/artist/2kXKa3aAFngGz2P4GjG5w2) | [Stigmates](https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe) | 4:53 |
-| 32 | [Belle madame](https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Essonne History X](https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT) | 2:44 |
-| 33 | [penelope](https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [penelope](https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R) | 3:14 |
-| 34 | [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 |
+| 32 | [Couteau dans le dos](https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI) | [Alonzo](https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi), [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Couteau dans le dos](https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl) | 2:43 |
+| 33 | [Belle madame](https://open.spotify.com/track/1YO4yin1nwulJH8ncRJjSj) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [Essonne History X](https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT) | 2:44 |
+| 34 | [penelope](https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [penelope](https://open.spotify.com/album/1v7dN8dszUQLX0MNQ7OT6R) | 3:14 |
 | 35 | [Old Friend](https://open.spotify.com/track/4h5wTcOMYy6cw47yYoFqNq) | [Zaho de Sagazan](https://open.spotify.com/artist/38GSybQjdc6sxptciOkxMq), [Tom Odell](https://open.spotify.com/artist/2txHhyCwHjUEpJjWrEyqyX) | [Old Friend](https://open.spotify.com/album/0CpNzhfwbhpNppmpHO8aRg) | 2:37 |
 | 36 | [Vendredi soir](https://open.spotify.com/track/3B9KiCLxcWOqFbLmE0s9vE) | [JKSN](https://open.spotify.com/artist/7IHsnK4J6QJQTjFNAxwERE) | [Vendredi soir](https://open.spotify.com/album/1WUx6QcmRkOtqVQfwWAsbY) | 3:12 |
 | 37 | [C'est l'heure](https://open.spotify.com/track/4OiEMGO4SgvwDFqEbBSIHN) | [Ben Mazué](https://open.spotify.com/artist/73BDzWqbf1grbgQ8xYn2ou) | [C'est l'heure](https://open.spotify.com/album/22LQijr6IpbmDKOtihHBy5) | 2:29 |
@@ -54,9 +54,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9SvXmR7wQty.md) - [plain]
 | 44 | [AMORÉ](https://open.spotify.com/track/15mVPgb7A6uoenya5eRKSo) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [UZI](https://open.spotify.com/artist/5U05AU34EcZ8pfohg2dicI) | [AMORÉ](https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW) | 2:24 |
 | 45 | [PROSECCO](https://open.spotify.com/track/72sH4ge8L9u9BwLzBwfxgP) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu) | [PROSECCO](https://open.spotify.com/album/6EqYEiZynSrDXKfPzpjBwQ) | 3:23 |
 | 46 | [Pōseïdøn](https://open.spotify.com/track/3yiAsP9gXNZR58Vuy24bkk) | [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Pōseïdøn](https://open.spotify.com/album/7HXpz9PpKrFpNXQTM08w17) | 4:08 |
-| 47 | [MON ANNÉE](https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [MON ANNÉE](https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi) | 2:28 |
-| 48 | [Mal lunée](https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Mal lunée](https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI) | 3:14 |
+| 47 | [Mal lunée](https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1) | [Nej](https://open.spotify.com/artist/3BQ9mWlgFRfMr5EdNfc10a) | [Mal lunée](https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI) | 3:14 |
+| 48 | [MON ANNÉE](https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [MON ANNÉE](https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi) | 2:28 |
 | 49 | [Dans ma bulle](https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Dans ma bulle](https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A) | 2:32 |
-| 50 | [Évidemment](https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v) | [Jungeli](https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7), [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX) | [Évidemment](https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb) | 3:03 |
+| 50 | [BIG BODY](https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7) | [Tarik Azzouz](https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf), [La Fève](https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [BIG BODY](https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu) | 2:59 |
 
 Snapshot ID: `Z4nkCwAAAAAtayVri+3iOrZkB9DZynPM`

@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-344 songs - 23 hr 56 min
+345 songs - 1 day 0 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [フリージア](https://open.spotify.com/track/6lvAS3R2GWczHHOIyKEEzV) | [Uru](https://open.spotify.com/artist/6le80R1opKnTlP4o3KvA2k) | [モノクローム \(Special Edition\)](https://open.spotify.com/album/0EJJO0KH1iY80ryDdU8f7z) | 5:36 | 2022-07-27 |  |
 | [ブレイキングブレイジング](https://open.spotify.com/track/6vJkrNdMYGJSh5IduOfFpR) | [Mr.FanTastiC](https://open.spotify.com/artist/42Z74v9b8xkEsOe6zkhsdA) | [ブレイキングブレイジング](https://open.spotify.com/album/31fkJFiqOBrxwsFbSJcOwN) | 4:12 | 2022-07-27 | 2024-01-12 |
 | [ミッション開始](https://open.spotify.com/track/6LZ0S8FJJH8dfyKN7AkDjv) | [Toshihiko Sahashi](https://open.spotify.com/artist/6G6SuCwKMHuGQKILKi7TC8) | [機動戦士ガンダム SEED DESTINY Original Soundtrack 1](https://open.spotify.com/album/16DdBDLzmENeSblH6B5bVy) | 1:57 | 2024-01-27 |  |
+| [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 | 2025-01-20 |  |
 | [僕たちの行方](https://open.spotify.com/track/1Wv3Mnr1MTj0Z4abHQANuq) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [青空のナミダ / 僕たちの行方 BESTタッグ](https://open.spotify.com/album/5lg9H3etTkZQE1np1rwGz2) | 4:33 | 2022-07-27 | 2024-01-12 |
 | [僕たちの行方](https://open.spotify.com/track/4Cp6bLzWRk72OcnXsLiC5Z) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [僕たちの行方](https://open.spotify.com/album/52Jxsu8WaIiezLSzAkP4IL) | 4:33 | 2022-10-17 |  |
 | [僕たちの行方](https://open.spotify.com/track/7mj3emhgxEB87vLuD9LkEx) | [Hitomi Takahashi](https://open.spotify.com/artist/1Jim3BQn4Kj7pJXRZ3vlRd) | [僕たちの行方](https://open.spotify.com/album/4tWGTVSkmwayZBPnmFA6dw) | 4:33 | 2022-07-27 | 2022-07-29 |

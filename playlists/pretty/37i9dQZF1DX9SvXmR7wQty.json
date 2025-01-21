@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Roy",
-  "num_followers": 43306,
+  "num_followers": 43305,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -419,26 +419,6 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "SALGOAT",
-        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        },
-        {
-          "name": "Leto",
-          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
-        }
-      ],
-      "duration_ms": 170680,
-      "name": "L.F.O.L.F (feat. Leto)",
-      "url": "https://open.spotify.com/track/34gQB3gmeWHRqhsRhAquwi"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
         "name": "SURVIVAL MODE",
         "url": "https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 161632,
       "name": "OBVIOUS",
       "url": "https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "duration_ms": 170680,
+      "name": "L.F.O.L.F (feat. Leto)",
+      "url": "https://open.spotify.com/track/34gQB3gmeWHRqhsRhAquwi"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -563,6 +563,26 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
+        "name": "Couteau dans le dos",
+        "url": "https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl"
+      },
+      "artists": [
+        {
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
+        }
+      ],
+      "duration_ms": 163373,
+      "name": "Couteau dans le dos",
+      "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
         "name": "Essonne History X",
         "url": "https://open.spotify.com/album/7y6FXLsJimXhKTI1NNJwRT"
       },
@@ -591,26 +611,6 @@
       "duration_ms": 194902,
       "name": "penelope",
       "url": "https://open.spotify.com/track/5NA4Hc8DDXZJRSSkYt2pUO"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "Couteau dans le dos",
-        "url": "https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Couteau dans le dos",
-      "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "MON ANN\u00c9E",
-        "url": "https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi"
-      },
-      "artists": [
-        {
-          "name": "Guy2Bezbar",
-          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
-        }
-      ],
-      "duration_ms": 148024,
-      "name": "MON ANN\u00c9E",
-      "url": "https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
         "name": "Mal lun\u00e9e",
         "url": "https://open.spotify.com/album/1ZzeJvWqk3ZtZH6Fdv4uQI"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 194720,
       "name": "Mal lun\u00e9e",
       "url": "https://open.spotify.com/track/0I6cUlZChgof5LOhmJ5mM1"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
+        "name": "MON ANN\u00c9E",
+        "url": "https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi"
+      },
+      "artists": [
+        {
+          "name": "Guy2Bezbar",
+          "url": "https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh"
+        }
+      ],
+      "duration_ms": 148024,
+      "name": "MON ANN\u00c9E",
+      "url": "https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -891,22 +891,26 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "\u00c9videmment",
-        "url": "https://open.spotify.com/album/3qvdIPyaNhixZHKX1hVkLb"
+        "name": "BIG BODY",
+        "url": "https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu"
       },
       "artists": [
         {
-          "name": "Jungeli",
-          "url": "https://open.spotify.com/artist/6L8y2rKomt32RmT4wfwZS7"
+          "name": "Tarik Azzouz",
+          "url": "https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf"
         },
         {
-          "name": "Dadju",
-          "url": "https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX"
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
         }
       ],
-      "duration_ms": 183960,
-      "name": "\u00c9videmment",
-      "url": "https://open.spotify.com/track/50LJolyVTOpYqfuHiSAl7v"
+      "duration_ms": 179388,
+      "name": "BIG BODY",
+      "url": "https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

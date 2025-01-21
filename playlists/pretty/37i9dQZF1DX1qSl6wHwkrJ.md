@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 
 > Christmas classics from your favourite Blues artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,188 likes - 80 songs - 4 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,185 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 60 | [Please Come Home For Christmas](https://open.spotify.com/track/0OcoKrsmrFxA2P17Jw3xk2) | [Chuck Leavell](https://open.spotify.com/artist/3Dj8QpO2yUyElSCfiatKI9) | [Putumayo Presents Blues Christmas](https://open.spotify.com/album/0qqmJ5TvOiA6Db80d2Ojjh) | 4:22 |
 | 61 | [Christmas Blues](https://open.spotify.com/track/3E9ZTLhHcpn6KJVvSiBf2w) | [Larry Darnell](https://open.spotify.com/artist/1UedlcCVqk3Zjq2UQocScS) | [Christmas Blues](https://open.spotify.com/album/02daPiQEjrb6T9GkU0NVKN) | 2:52 |
 | 62 | [Christmas Morning Blues](https://open.spotify.com/track/5gIXMjdqGoRoILyzFH65Pi) | [Sonny Boy Williamson II](https://open.spotify.com/artist/69VgCcXFV59QuQWEXSTxfK) | [The Bluebird Recordings](https://open.spotify.com/album/6zDy9OWPCw9CAS89vWQM0X) | 3:23 |
-| 63 | [Christmas Blues](https://open.spotify.com/track/1zAJrTZdszRzt12vxc0GN3) | [Bryan Lee](https://open.spotify.com/artist/5jA7FphEvAJz7YYiuPQcUc) | [Blues for Christmas](https://open.spotify.com/album/4A7Siy7BMXiXQyzGBhR4Dc) | 5:48 |
-| 64 | [Winter Wonderland](https://open.spotify.com/track/1VN41eUF6GgeZdNIYSVj6b) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 3:08 |
+| 63 | [Winter Wonderland](https://open.spotify.com/track/1VN41eUF6GgeZdNIYSVj6b) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 3:08 |
+| 64 | [Christmas Blues](https://open.spotify.com/track/1zAJrTZdszRzt12vxc0GN3) | [Bryan Lee](https://open.spotify.com/artist/5jA7FphEvAJz7YYiuPQcUc) | [Blues for Christmas](https://open.spotify.com/album/4A7Siy7BMXiXQyzGBhR4Dc) | 5:48 |
 | 65 | [Bring That Cadillac Back](https://open.spotify.com/track/4u3N1uzv3OxmrUwzWom5WD) | [Harry Grafton](https://open.spotify.com/artist/4rpFqzxvE92ob1pjkj4ygq) | [Mark Lamarr's Rhythm & Blues Christmas](https://open.spotify.com/album/6C1mVXItX2Ogzk8hisGqy3) | 2:40 |
 | 66 | [Christmas Train](https://open.spotify.com/track/01iehy23FOL9dyo4bDir1g) | [Carey Bell](https://open.spotify.com/artist/7wcrtrCODZkNbpq1ZYABxs) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/7xUrOvlnlbrIbaSZRih5Z2) | 3:36 |
 | 67 | [Zydeco Christmas](https://open.spotify.com/track/6BZQxhVnaJdEL29bn1T9gA) | [C\. J\. Chenier & the Red Hot Louisiana Band](https://open.spotify.com/artist/2dNbwxgYSvdnMGWsYHJ38j) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/7xUrOvlnlbrIbaSZRih5Z2) | 3:25 |
@@ -80,13 +80,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1qSl6wHwkrJ.md) - [plain]
 | 70 | [It's Christmas Time Again \(Spend, Spend, Spend\)](https://open.spotify.com/track/2OzEePxJDmtEt9xl29XCUp) | [Little Charlie & The Nightcats](https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/7xUrOvlnlbrIbaSZRih5Z2) | 3:13 |
 | 71 | [Fattening Up The Turkey](https://open.spotify.com/track/1yHfGGKXmg1CrY2zcljhrJ) | [Dave Hole](https://open.spotify.com/artist/6qGv85JlIu536BngDpbI5X) | [Alligator Records' Genuine Houserockin' Christmas](https://open.spotify.com/album/7xUrOvlnlbrIbaSZRih5Z2) | 3:42 |
 | 72 | [I'm Your Santa](https://open.spotify.com/track/2j2xdfcAoQ48krzJlaTpof) | [Lil Ed & The Blues Imperials](https://open.spotify.com/artist/3Rb0PWL2XJTCKrhZ2FSd5E) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/29COGu7xsGkib4D6fB4qIK) | 2:54 |
-| 73 | [Santa Claus Is Messin' with the Kid](https://open.spotify.com/track/7utSLHZXv0KWOR7BBLcigl) | [Bryan Lee](https://open.spotify.com/artist/5jA7FphEvAJz7YYiuPQcUc) | [Blues for Christmas](https://open.spotify.com/album/4A7Siy7BMXiXQyzGBhR4Dc) | 3:43 |
-| 74 | [Christmas Morning Blues](https://open.spotify.com/track/4WamHw3fBlpAo4Y1AdOkM5) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 3:25 |
+| 73 | [Christmas Morning Blues](https://open.spotify.com/track/4WamHw3fBlpAo4Y1AdOkM5) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 3:25 |
+| 74 | [Santa Claus Is Messin' with the Kid](https://open.spotify.com/track/7utSLHZXv0KWOR7BBLcigl) | [Bryan Lee](https://open.spotify.com/artist/5jA7FphEvAJz7YYiuPQcUc) | [Blues for Christmas](https://open.spotify.com/album/4A7Siy7BMXiXQyzGBhR4Dc) | 3:43 |
 | 75 | [Santa Claus Wants Some Lovin'](https://open.spotify.com/track/35d8cz7V2ppNIwmPFV5w9g) | [Tinsley Ellis](https://open.spotify.com/artist/56LMX8mqaIhJCaxjZBM1on) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/29COGu7xsGkib4D6fB4qIK) | 3:23 |
 | 76 | [Boogie Woogie Santa Claus](https://open.spotify.com/track/1pvxx14nQfRglOJfQxJcDV) | [Charles Brown](https://open.spotify.com/artist/3trsSEaKM3UM2R9RBJwdtJ) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/29COGu7xsGkib4D6fB4qIK) | 3:12 |
 | 77 | [Run Rudolph Run \- Single Version](https://open.spotify.com/track/6kNsrLAZNOI4O5U5Ji1aiE) | [Chuck Berry](https://open.spotify.com/artist/293zczrfYafIItmnmM3coR) | [An Old Fashioned Christmas \(Spectrum\)](https://open.spotify.com/album/1m6i36XFHGj3ZNVkjxyand) | 2:43 |
 | 78 | [A Weary Silent Night](https://open.spotify.com/track/4dTtPAvbgYLd0iPYgofx27) | [Earl King](https://open.spotify.com/artist/76ox7koAGPytUmTZGU6zWn) | [Earl's Pearls \- The Very Best Of Earl King 1955 \- 1960](https://open.spotify.com/album/63mfRSZUpP5vQMidpOwUee) | 2:37 |
 | 79 | [Santa Claus](https://open.spotify.com/track/1gYi8O7dAFAlaqckT5kNzy) | [Little Charlie & The Nightcats](https://open.spotify.com/artist/7GlnrRLOQtsu3wtX3a2xEl) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/29COGu7xsGkib4D6fB4qIK) | 2:57 |
-| 80 | [All I Want for Christmas Is You](https://open.spotify.com/track/6vhYWdn4dx1y3Xc20gtUrh) | [Mick Kolassa](https://open.spotify.com/artist/4uFnksD1TfYQyL8eYRm0eG) | [Uncle Mick's Christmas Album](https://open.spotify.com/album/2yxDpootj6nWBCPK0YwJ3e) | 4:25 |
+| 80 | [Christmas](https://open.spotify.com/track/5xgkFbIJZflD1itjY5L6ih) | [Clarence "Gatemouth" Brown](https://open.spotify.com/artist/4aoS04mCVj1CMam1LiHngo) | [The Alligator Records Christmas Collection](https://open.spotify.com/album/29COGu7xsGkib4D6fB4qIK) | 3:12 |
 
 Snapshot ID: `ZV35bQAAAACm+c0ju2SGJEVJ8KZ8yDoC`

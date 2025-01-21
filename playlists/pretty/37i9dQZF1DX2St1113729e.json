@@ -1,6 +1,6 @@
 {
   "description": "sonidos en constante mutaci\u00f3n \ud83e\udd8b\ud83c\udf44\u2728 feat. tarchi",
-  "num_followers": 215637,
+  "num_followers": 215624,
   "original_name": "helium",
   "owner": {
     "name": "Spotify",
@@ -1043,18 +1043,26 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "Plastic Boy",
-        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
+        "name": "dulce o truco",
+        "url": "https://open.spotify.com/album/6kILKM5lildeYFJb58Bgb1"
       },
       "artists": [
         {
-          "name": "RUVENRUVEN",
-          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        },
+        {
+          "name": "Lara91k",
+          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
+        },
+        {
+          "name": "Bruno Donato",
+          "url": "https://open.spotify.com/artist/2J9KOh8KIZZjuGxo0e2zgq"
         }
       ],
-      "duration_ms": 170000,
-      "name": "T\u00fa y Yo",
-      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
+      "duration_ms": 235294,
+      "name": "(re) play",
+      "url": "https://open.spotify.com/track/0EixxREQRVD04F9YkBsbdI"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1079,26 +1087,18 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "no es amor",
-        "url": "https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm"
+        "name": "ALTER EGO",
+        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
       },
       "artists": [
         {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
-        },
-        {
-          "name": "BB ASUL",
-          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
-        },
-        {
-          "name": "La Finesse",
-          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
+          "name": "La Maurette",
+          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
         }
       ],
-      "duration_ms": 194517,
-      "name": "no es amor",
-      "url": "https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX"
+      "duration_ms": 124478,
+      "name": "L\u00edmites",
+      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1123,18 +1123,18 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "ALTER EGO",
-        "url": "https://open.spotify.com/album/1FmjtGHYjVq37gyFdAtweG"
+        "name": "Plastic Boy",
+        "url": "https://open.spotify.com/album/5F8aJ3lhsPr5amUergNIyH"
       },
       "artists": [
         {
-          "name": "La Maurette",
-          "url": "https://open.spotify.com/artist/3OZVcMBgm3erwNRzKiIesI"
+          "name": "RUVENRUVEN",
+          "url": "https://open.spotify.com/artist/1E3V2kpvd2LneDVg8FYR17"
         }
       ],
-      "duration_ms": 124478,
-      "name": "L\u00edmites",
-      "url": "https://open.spotify.com/track/2egTsRXVrEZ9te3TPtqSfh"
+      "duration_ms": 170000,
+      "name": "T\u00fa y Yo",
+      "url": "https://open.spotify.com/track/3FxpV85lJ3HeVSqrwRhcsm"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1183,6 +1183,30 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
+        "name": "no es amor",
+        "url": "https://open.spotify.com/album/2aCyDAFmmIdy5ipsRIU8Vm"
+      },
+      "artists": [
+        {
+          "name": "O.L.I.V.I.A",
+          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
+        },
+        {
+          "name": "BB ASUL",
+          "url": "https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T"
+        },
+        {
+          "name": "La Finesse",
+          "url": "https://open.spotify.com/artist/3xV8oWG5BKYU2LXVxS779A"
+        }
+      ],
+      "duration_ms": 194517,
+      "name": "no es amor",
+      "url": "https://open.spotify.com/track/0Jf29aDlnBdpCqSPyLgSmX"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
         "name": "Manos En La Mesa (Opening)",
         "url": "https://open.spotify.com/album/4RoHRwHDKCqJK0jJcnHXXt"
       },
@@ -1195,30 +1219,6 @@
       "duration_ms": 156458,
       "name": "Manos En La Mesa (Opening)",
       "url": "https://open.spotify.com/track/0oNLml5Tz2KGy6G9aC0xVJ"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
-        "name": "dulce o truco",
-        "url": "https://open.spotify.com/album/6kILKM5lildeYFJb58Bgb1"
-      },
-      "artists": [
-        {
-          "name": "O.L.I.V.I.A",
-          "url": "https://open.spotify.com/artist/4t97XgRwDBrTr46y53wjAK"
-        },
-        {
-          "name": "Lara91k",
-          "url": "https://open.spotify.com/artist/2zPvDg6LI6NHPQVQIESjfW"
-        },
-        {
-          "name": "Bruno Donato",
-          "url": "https://open.spotify.com/artist/2J9KOh8KIZZjuGxo0e2zgq"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "(re) play",
-      "url": "https://open.spotify.com/track/0EixxREQRVD04F9YkBsbdI"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1283,6 +1283,22 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
+        "name": "DESNUDO X DAIGUAL",
+        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
+      },
+      "artists": [
+        {
+          "name": "VALENTINO",
+          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
+        }
+      ],
+      "duration_ms": 155571,
+      "name": "DESNUDO",
+      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
         "name": "Indoor",
         "url": "https://open.spotify.com/album/3CBsnfrvPjcAx1q5sKUDHo"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 136634,
       "name": "Indoor",
       "url": "https://open.spotify.com/track/5FPFJQQVNeSm5IQroCSdgj"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
-        "name": "DESNUDO X DAIGUAL",
-        "url": "https://open.spotify.com/album/5VqJmKc8IyvvSWHTJs5h9M"
-      },
-      "artists": [
-        {
-          "name": "VALENTINO",
-          "url": "https://open.spotify.com/artist/6tJxiu3ZvKtAUS4Q4SQLI0"
-        }
-      ],
-      "duration_ms": 155571,
-      "name": "DESNUDO",
-      "url": "https://open.spotify.com/track/0i7TORs3qf9QMMc5fLYFID"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1339,6 +1339,22 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
+        "name": "Cocky!",
+        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
+      },
+      "artists": [
+        {
+          "name": "marinadorciud",
+          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
+        }
+      ],
+      "duration_ms": 163636,
+      "name": "Cocky!",
+      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
         "name": "Bloqueo emocional",
         "url": "https://open.spotify.com/album/1BgOzJlanoN8zqlxZDKr51"
       },
@@ -1355,22 +1371,6 @@
       "duration_ms": 201000,
       "name": "Bloqueo emocional",
       "url": "https://open.spotify.com/track/1lGfAsyhF08UpnIzq7Z8qt"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
-        "name": "Cocky!",
-        "url": "https://open.spotify.com/album/5lPf8HroyP3XL7hrMSOUkr"
-      },
-      "artists": [
-        {
-          "name": "marinadorciud",
-          "url": "https://open.spotify.com/artist/5sUI64SOcIIAzxEDFJXVWW"
-        }
-      ],
-      "duration_ms": 163636,
-      "name": "Cocky!",
-      "url": "https://open.spotify.com/track/4CJTZU0Tr34LlIm8ZEkoxl"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1627,6 +1627,26 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
+        "name": "I`m Done",
+        "url": "https://open.spotify.com/album/5Q7MUJMJ7rtO0SH6p4rZYm"
+      },
+      "artists": [
+        {
+          "name": "Vidal 210",
+          "url": "https://open.spotify.com/artist/6U9snp3iSw9StKBheQ6KbK"
+        },
+        {
+          "name": "Pauet",
+          "url": "https://open.spotify.com/artist/7jEHnnafJ7S2fmZ3MESeQI"
+        }
+      ],
+      "duration_ms": 125649,
+      "name": "I`m Done",
+      "url": "https://open.spotify.com/track/4H5CXrmx3ekt32ZrIXc2vG"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
         "name": "Perra Alfa (Neukrapsio Remix)",
         "url": "https://open.spotify.com/album/3BhYJxBc3dW7OJz4IcRqvt"
       },
@@ -1651,42 +1671,6 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "I`m Done",
-        "url": "https://open.spotify.com/album/5Q7MUJMJ7rtO0SH6p4rZYm"
-      },
-      "artists": [
-        {
-          "name": "Vidal 210",
-          "url": "https://open.spotify.com/artist/6U9snp3iSw9StKBheQ6KbK"
-        },
-        {
-          "name": "Pauet",
-          "url": "https://open.spotify.com/artist/7jEHnnafJ7S2fmZ3MESeQI"
-        }
-      ],
-      "duration_ms": 125649,
-      "name": "I`m Done",
-      "url": "https://open.spotify.com/track/4H5CXrmx3ekt32ZrIXc2vG"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
-        "name": "Internet",
-        "url": "https://open.spotify.com/album/6LmciVjXzElTi9IAhW3kPK"
-      },
-      "artists": [
-        {
-          "name": "MYKKA",
-          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
-        }
-      ],
-      "duration_ms": 216714,
-      "name": "Internet",
-      "url": "https://open.spotify.com/track/3mIffUSaxSQy7EpITwl1N5"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
         "name": "NIGHTMARE",
         "url": "https://open.spotify.com/album/0OVY5ETbo57WeEGAR2mV0b"
       },
@@ -1707,6 +1691,22 @@
       "duration_ms": 153750,
       "name": "NIGHTMARE",
       "url": "https://open.spotify.com/track/7noqHBzCAmHwlj0OqMvz6E"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
+        "name": "Internet",
+        "url": "https://open.spotify.com/album/6LmciVjXzElTi9IAhW3kPK"
+      },
+      "artists": [
+        {
+          "name": "MYKKA",
+          "url": "https://open.spotify.com/artist/7qUmZzfGAo66NPgOEx0MWa"
+        }
+      ],
+      "duration_ms": 216714,
+      "name": "Internet",
+      "url": "https://open.spotify.com/track/3mIffUSaxSQy7EpITwl1N5"
     },
     {
       "added_at": "2025-01-03 09:05:27",
@@ -1883,26 +1883,6 @@
     {
       "added_at": "2025-01-03 09:05:27",
       "album": {
-        "name": "RomanceRomantiKO",
-        "url": "https://open.spotify.com/album/2vPtUZFF9o9wahq3mvbJk1"
-      },
-      "artists": [
-        {
-          "name": "xDiegoJr",
-          "url": "https://open.spotify.com/artist/50pUUYi4NyBmdy3joHR4kD"
-        },
-        {
-          "name": "Dewuhu",
-          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
-        }
-      ],
-      "duration_ms": 145442,
-      "name": "RomanceRomantiKO",
-      "url": "https://open.spotify.com/track/3N4WZ5U4RcC4MeJnuyKVgO"
-    },
-    {
-      "added_at": "2025-01-03 09:05:27",
-      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/6cEMr3FM14TSi6zxpI3LpU"
       },
@@ -1919,6 +1899,26 @@
       "duration_ms": 148000,
       "name": "<3",
       "url": "https://open.spotify.com/track/2SSAzbb4MAUr1UAy9qZpKl"
+    },
+    {
+      "added_at": "2025-01-03 09:05:27",
+      "album": {
+        "name": "RomanceRomantiKO",
+        "url": "https://open.spotify.com/album/2vPtUZFF9o9wahq3mvbJk1"
+      },
+      "artists": [
+        {
+          "name": "xDiegoJr",
+          "url": "https://open.spotify.com/artist/50pUUYi4NyBmdy3joHR4kD"
+        },
+        {
+          "name": "Dewuhu",
+          "url": "https://open.spotify.com/artist/4MPRAryWGdmb9H6bt3xYBe"
+        }
+      ],
+      "duration_ms": 145442,
+      "name": "RomanceRomantiKO",
+      "url": "https://open.spotify.com/track/3N4WZ5U4RcC4MeJnuyKVgO"
     }
   ],
   "unique_name": "helium",

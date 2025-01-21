@@ -4,7 +4,7 @@
 
 > The sound of a new generation\. Cover: Marlon Hoffstadt aka DJ Daddy Trance
 
-436 songs - 1 day 3 hr 50 min
+437 songs - 1 day 3 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Da Beat Goes](https://open.spotify.com/track/0c69i7dEofhykHqM9mU4Qi) | [KYANU](https://open.spotify.com/artist/3VuZZ1n0XGacnz96Ys8mrZ) | [Da Beat Goes](https://open.spotify.com/album/5zxIcrySHLJFClX3lfjBS2) | 2:24 | 2024-09-16 | 2024-10-11 |
 | [Dachlatte \- Paul Seul Remix](https://open.spotify.com/track/77dFA7mUovYRHSIE0wLW2O) | [nand](https://open.spotify.com/artist/5wqj5DHpNUW5TySzEtzdFg), [Paul Seul](https://open.spotify.com/artist/1sSdOYlIBpjKaysZ7BVVdi) | [Dachlatte \(Paul Seul Remix\)](https://open.spotify.com/album/7qPiD7ilnwVnBDyTLQs6ZM) | 2:52 | 2023-08-25 | 2024-08-16 |
 | [Daddy's Issue](https://open.spotify.com/track/6vzN8Hr9rJ8Bk5OnHAxei0) | [L.zwo](https://open.spotify.com/artist/2DDqcRRVt2xLxMYHD7FQk1) | [Daddy's Issue](https://open.spotify.com/album/33OZ6sGO6ahdHOjr0KDls3) | 4:37 | 2024-02-22 | 2024-03-23 |
+| [Damager](https://open.spotify.com/track/7lNxQksP0anFNGEq8zsjMS) | [Sammy Virji](https://open.spotify.com/artist/1GuqTQbuixFHD6eBkFwVcb), [Interplanetary Criminal](https://open.spotify.com/artist/6uJ51uV5rYzu1MJkC4CceI) | [Damager](https://open.spotify.com/album/2BtrCfwSWpUByzO4leFHJB) | 3:44 | 2025-01-20 |  |
 | [Dance](https://open.spotify.com/track/4CIxgvDwjSnZJQSpZSPmte) | [Heggemann](https://open.spotify.com/artist/4887FTCAl0wdw3jwpkGq6d) | [Dance](https://open.spotify.com/album/3Yak9mqgWt0VXjCcaeqIFb) | 2:38 | 2024-03-29 | 2024-04-06 |
 | [Dance All Night](https://open.spotify.com/track/3L8eDRWkchHU0AGv91cTQE) | [Elon Bass](https://open.spotify.com/artist/1aBNQ54UH1JJ2A0JgkaJHr) | [Dance All Night](https://open.spotify.com/album/2wgeOQ6OX7pmrX1quVlO3h) | 3:28 | 2024-02-15 | 2024-02-23 |
 | [Dance MothaF\*cka](https://open.spotify.com/track/6u2OtSFScp6cPJZBQk5Vi2) | [Deep91](https://open.spotify.com/artist/7k4JimOV8Sn7yXbPbjbvBW) | [Dance MothaF\*cka](https://open.spotify.com/album/5jhVzi7YcXjPNuIrCCcPBo) | 4:26 | 2024-11-11 | 2024-12-10 |
@@ -414,7 +415,7 @@
 | [Viento](https://open.spotify.com/track/1aLfpxEUwwrB2zItNq7wrd) | [Funk Tribu](https://open.spotify.com/artist/1vK8NnrPlBlF34LaiFX1SK) | [Viento EP](https://open.spotify.com/album/3hDDHGN0YNff3d31AkRGaV) | 3:37 | 2024-12-28 |  |
 | [Vigour \- Julian Muller Remix](https://open.spotify.com/track/0Wh4YlbUtNSrgHq6HnfD0c) | [CAIVA](https://open.spotify.com/artist/0VevbPTec9d8audiahBL3f), [Julian Muller](https://open.spotify.com/artist/5UWmNXxqHIUcpHEJCxDojK) | [Fatigue](https://open.spotify.com/album/7H8AhpWNX7FciB94nhxRJJ) | 5:49 | 2023-03-10 | 2023-05-19 |
 | [Vois sur ton chemin \- Techno Mix](https://open.spotify.com/track/31nfdEooLEq7dn3UMcIeB5) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48) | [Vois sur ton chemin \(Techno Mix\)](https://open.spotify.com/album/79Cyc8GRWnLyjdJSMyJ0dB) | 2:58 | 2023-08-04 |  |
-| [Wait For Me](https://open.spotify.com/track/4hACcQfF5dtAzN0CW7vCAF) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [Miracles](https://open.spotify.com/album/44kGRBGZ5R1d9uok9p3HYI) | 3:37 | 2024-12-28 |  |
+| [Wait For Me](https://open.spotify.com/track/4hACcQfF5dtAzN0CW7vCAF) | [DATSKO](https://open.spotify.com/artist/2b1Yc522In2BV3Q1fj2JzY) | [Miracles](https://open.spotify.com/album/44kGRBGZ5R1d9uok9p3HYI) | 3:37 | 2024-12-28 | 2025-01-21 |
 | [Waited All Night \- Nia Archives Remix](https://open.spotify.com/track/5sTF9aVNyUwum4xHMHnmSX) | [Jamie xx](https://open.spotify.com/artist/7A0awCXkE1FtSU8B0qwOJQ), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Romy](https://open.spotify.com/artist/3X2DdnmoANw8Rg8luHyZQb), [Oliver Sim](https://open.spotify.com/artist/4KDu9uqzqseVCpQXMa8Pvm), [The xx](https://open.spotify.com/artist/3iOvXCl6edW5Um0fXEBRXy) | [Waited All Night \(Nia Archives Remix\)](https://open.spotify.com/album/6DhaPcMB6Xl6cEDdzRLhF5) | 3:09 | 2024-12-09 | 2025-01-15 |
 | [Wake The F Up](https://open.spotify.com/track/36eWeCqpNGHTiZfTSbScIY) | [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Wake The F Up](https://open.spotify.com/album/3qCJzQQ7aRlZrpwwrdZVIj) | 2:20 | 2024-11-11 |  |
 | [Walking Alone](https://open.spotify.com/track/1YHcwgrbsYdyyAFYiW8MNN) | [Julien Bracht](https://open.spotify.com/artist/10dTAeheJUqaoY9C0UxdHx) | [Walking Alone](https://open.spotify.com/album/4vVG1aL4wDWz1dpJTMTNfD) | 3:09 | 2023-05-05 | 2023-05-11 |

@@ -4,7 +4,7 @@
 
 > The Soca hits we all love from back then til right now\. Cover: Machel Montano
 
-352 songs - 19 hr 16 min
+353 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -228,6 +228,7 @@
 | [P.A.L.A.N.C.E](https://open.spotify.com/track/3gQxrXakugcKhPfLaRUQuQ) | [Mvntana](https://open.spotify.com/artist/2R1eaUL6px3ayM1FT776ki) | [For the Culture](https://open.spotify.com/album/71YAE4VCS9kDVKbRr4jIE6) | 2:03 | 2021-08-26 | 2022-02-25 |
 | [PALANCE \- JW AND BLAZE](https://open.spotify.com/track/4lNgiikm12YD6D3Eo2XbiS) | [Soca Twins](https://open.spotify.com/artist/0aaq51OJPYxNbkmuL3rG5F) | [Soca Me Crazy](https://open.spotify.com/album/1so0RFbGDCCzHWR1t17z4R) | 3:37 | 2023-02-21 | 2023-05-16 |
 | [Partier](https://open.spotify.com/track/5ceuMqbXsmJC2lBHbpLnm7) | [5 Star Akil](https://open.spotify.com/artist/6eECKqQYMlTtRHFGP1VFBu) | [Partier](https://open.spotify.com/album/1qxA4zwZElF0KIBrkl8bHP) | 3:27 | 2023-02-21 | 2023-05-16 |
+| [Party](https://open.spotify.com/track/1jIs52DNw8jD0BZ07v5JB0) | [Fiyah Marshall](https://open.spotify.com/artist/75oTVwwcdndH5KNXjj0xaj), [Orlando Octave](https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L) | [Party](https://open.spotify.com/album/5dH41iXlDYAXvBZU9rLnC7) | 3:18 | 2024-08-05 |  |
 | [Party Bad](https://open.spotify.com/track/6EJzdnbIdREmNDJa1IPa9a) | [Mr\. Killa](https://open.spotify.com/artist/0PontvL1D8kH0DRu37ylwq), [Mr\. Legz HT](https://open.spotify.com/artist/31nJ1fPZlCCYt6P1NMrzAx) | [Jumbie Jab Riddim](https://open.spotify.com/album/4gnNvZbqcAoiZekpMd4vju) | 2:53 | 2023-05-15 | 2024-07-25 |
 | [Party Nice](https://open.spotify.com/track/66LE1IGBe1VK0hd4tlkbHh) | [Teddyson John](https://open.spotify.com/artist/228J5DyE0af9Z5I5ojm0Fp) | [Retro Fete Riddim](https://open.spotify.com/album/4eLzjhjbB2HjZDthxt0MbT) | 2:32 | 2023-05-15 |  |
 | [Passion](https://open.spotify.com/track/0SKW8nkTRCcKEPqT6e5zdN) | [Militant](https://open.spotify.com/artist/690ABcoCdRI94KVCiFwhoj) | [Passion](https://open.spotify.com/album/1TAsad0eSc2o4tvaYVGFGG) | 4:16 | 2021-08-26 | 2023-05-16 |
@@ -351,7 +352,7 @@
 | [Whine & Jumping \(feat\. Patrice Roberts\)](https://open.spotify.com/track/2KLixHA4oymoMdz41ZkSSd) | [Shaggy](https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij), [Patrice Roberts](https://open.spotify.com/artist/0crMctn4iXaE3XCHpeBkOt) | [In The Mood](https://open.spotify.com/album/0m5VM8rmzwLSZEnLH5qbB0) | 2:29 | 2023-05-15 | 2023-07-12 |
 | [Whining Parish](https://open.spotify.com/track/6dV6nfALHtFTBDYnmfbwbq) | [Triniboi Joocie](https://open.spotify.com/artist/7DjHO7cJNhHO5xTaXwgi7w) | [Whining Parish](https://open.spotify.com/album/63hP3ExO7vgGzLDwbpxfAN) | 3:26 | 2023-08-11 | 2024-07-25 |
 | [Who Drinking Rum?](https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe) | [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [King Bubba Mashup, Vol\. 1](https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2) | 3:08 | 2023-02-21 | 2025-01-13 |
-| [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 | 2023-02-21 |  |
+| [Wining Queen](https://open.spotify.com/track/03IRnxnT392N97EUGZ9eIw) | [Denise Belfon](https://open.spotify.com/artist/20rSjugHQ6CwKR44JnteQf) | [Project 5 Riddim](https://open.spotify.com/album/3Kqmyo4COzX5mV9Gph2f5b) | 4:34 | 2023-02-21 | 2025-01-21 |
 | [Woman By My Side](https://open.spotify.com/track/4yF8SCRZcXYrwrd6DDjoOu) | [Peter Ram](https://open.spotify.com/artist/7xUZfFcaiX4osJ4wGmpqjQ) | [Soca Gold 2007](https://open.spotify.com/album/1Dhb5q5N4bb3Ev753FThcm) | 4:39 | 2023-02-21 |  |
 | [Work](https://open.spotify.com/track/7nZLPs5WXYiIrJEp7nV1CJ) | [Lil Rick](https://open.spotify.com/artist/1qKzKUnuQsjB83hBZffoq0), [King Bubba Fm](https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78) | [Rich Boy Riddim](https://open.spotify.com/album/1SmHncG7JMI4siXksfCbII) | 3:07 | 2023-02-21 | 2023-05-16 |
 | [Workey Workey](https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj) | [Burning Flames](https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv) | [Dig](https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC) | 5:35 | 2023-02-21 |  |

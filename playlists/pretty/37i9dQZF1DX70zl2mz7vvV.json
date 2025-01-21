@@ -1,6 +1,6 @@
 {
   "description": "The essential tracks from the label VP Records. Cover: Beenie Man",
-  "num_followers": 58934,
+  "num_followers": 58963,
   "original_name": "Legendary Labels: VP Records",
   "owner": {
     "name": "Spotify",
@@ -255,22 +255,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Parts Of The Puzzle",
-        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
-      },
-      "artists": [
-        {
-          "name": "Busy Signal",
-          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
-        }
-      ],
-      "duration_ms": 220464,
-      "name": "Stay So",
-      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/58fLSvm42vx4tNK9o3hhpU"
       },
@@ -283,6 +267,22 @@
       "duration_ms": 279533,
       "name": "All Of Me",
       "url": "https://open.spotify.com/track/6cZRY3VaE6FeiMPHpaTvq0"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Parts Of The Puzzle",
+        "url": "https://open.spotify.com/album/1pWeFGAWLYOiteoFpOM2xx"
+      },
+      "artists": [
+        {
+          "name": "Busy Signal",
+          "url": "https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57"
+        }
+      ],
+      "duration_ms": 220464,
+      "name": "Stay So",
+      "url": "https://open.spotify.com/track/4VsGKABwzD4SlPsVXhIgSE"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -647,6 +647,22 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
+        "name": "Half Pint",
+        "url": "https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s"
+      },
+      "artists": [
+        {
+          "name": "Half Pint",
+          "url": "https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS"
+        }
+      ],
+      "duration_ms": 219960,
+      "name": "Greetings",
+      "url": "https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
         "name": "Note To Self",
         "url": "https://open.spotify.com/album/4YmKbUsBwjYtCyzag1OpVV"
       },
@@ -667,22 +683,6 @@
     {
       "added_at": "2020-10-19 09:02:25",
       "album": {
-        "name": "Half Pint",
-        "url": "https://open.spotify.com/album/0YhtIoVdbKvKCyNCU33D5s"
-      },
-      "artists": [
-        {
-          "name": "Half Pint",
-          "url": "https://open.spotify.com/artist/0tGZBRO4tZjpUOZcD7tMeS"
-        }
-      ],
-      "duration_ms": 219960,
-      "name": "Greetings",
-      "url": "https://open.spotify.com/track/6nr2aNTBIM1zQfhyfPMggE"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
         "name": "Lovers Rock",
         "url": "https://open.spotify.com/album/1dWQbbFSkCNnMbdSJMmsge"
       },
@@ -695,6 +695,26 @@
       "duration_ms": 203392,
       "name": "Lights Out",
       "url": "https://open.spotify.com/track/4Hue6rHN892sFzzOJBHYra"
+    },
+    {
+      "added_at": "2020-10-19 09:02:25",
+      "album": {
+        "name": "Climb",
+        "url": "https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z"
+      },
+      "artists": [
+        {
+          "name": "Queen Ifrica",
+          "url": "https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9"
+        },
+        {
+          "name": "Damian Marley",
+          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
+        }
+      ],
+      "duration_ms": 219013,
+      "name": "Trueversation (feat. Damian Marley)",
+      "url": "https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq"
     },
     {
       "added_at": "2020-10-19 09:02:25",
@@ -731,26 +751,6 @@
       "duration_ms": 217840,
       "name": "Dust A Sound Boy",
       "url": "https://open.spotify.com/track/3iGtu69TVhOuGVZY6PXcza"
-    },
-    {
-      "added_at": "2020-10-19 09:02:25",
-      "album": {
-        "name": "Climb",
-        "url": "https://open.spotify.com/album/4nc9KnE9TK5ObJXkxYWk0z"
-      },
-      "artists": [
-        {
-          "name": "Queen Ifrica",
-          "url": "https://open.spotify.com/artist/5SK75gxwqKq5Zc1mdLfwv9"
-        },
-        {
-          "name": "Damian Marley",
-          "url": "https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi"
-        }
-      ],
-      "duration_ms": 219013,
-      "name": "Trueversation (feat. Damian Marley)",
-      "url": "https://open.spotify.com/track/1NrhydZEnKzzrf4Q1UFdIq"
     },
     {
       "added_at": "2020-10-19 09:02:25",

@@ -4,7 +4,7 @@
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: Silent Planet
 
-1,107 songs - 2 day 20 hr 11 min
+1,108 songs - 2 day 20 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -669,7 +669,7 @@
 | [Never Enough](https://open.spotify.com/track/5YyBg6WxcZoLaImKH7g57m) | [Annisokay](https://open.spotify.com/artist/7lAi1Cv19DsukgGjbZQxFg) | [Never Enough](https://open.spotify.com/album/20NRW9K6V5RekH3Z0aqFi1) | 3:19 | 2024-12-20 |  |
 | [NEVERBLOOM](https://open.spotify.com/track/5AmwSEeKmk2ivpOJDsGz5x) | [DEADSKIN](https://open.spotify.com/artist/4a4jP87ETErMj9iUJHI507) | [NEVERBLOOM](https://open.spotify.com/album/7GxPF1osJdbgpN9TYn6HEi) | 4:10 | 2023-07-14 | 2023-09-30 |
 | [New Dawn](https://open.spotify.com/track/458jbRBNS7zdEdH7XJlWZP) | [Oceans Ate Alaska](https://open.spotify.com/artist/48zUWAXpgEXfpttz23pCNQ) | [New Dawn](https://open.spotify.com/album/2jzZI6qgIqULUKdFMrv7pr) | 1:49 | 2022-07-13 | 2022-07-23 |
-| [New Devil](https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP), [Dickie Allen](https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E) | [New Devil](https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk) | 2:19 | 2024-06-04 |  |
+| [New Devil](https://open.spotify.com/track/0ohSJgHGItbcNmirqBGdHM) | [Attila](https://open.spotify.com/artist/4Uv5bceTJ2h3tLlssUNDNP), [Dickie Allen](https://open.spotify.com/artist/6S9zHyUlhi9qE08rIydg6E) | [New Devil](https://open.spotify.com/album/208ZYeARcVCbjryVLd6Ynk) | 2:19 | 2024-06-04 | 2025-01-21 |
 | [New Gods](https://open.spotify.com/track/70TLs0LJ6hG2m7lq21kqdV) | [Thy Art Is Murder](https://open.spotify.com/artist/3et9upNERQI5IYt5jEDTxM) | [Human Target](https://open.spotify.com/album/4RKvBFRoBD45oZ9z1VyKyU) | 3:01 | 2022-07-13 | 2022-07-21 |
 | [Nigh to Silence](https://open.spotify.com/track/3si5YKMfvQtTBgLFDChRsi) | [ERRA](https://open.spotify.com/artist/2UoOdQyBGyzrEfxcY77ce0) | [Nigh to Silence](https://open.spotify.com/album/76tQE4Ts2FfKBxW8v8CISH) | 5:04 | 2022-01-21 | 2022-07-23 |
 | [Nighthawk](https://open.spotify.com/track/1t1Hn5Zo6PwuIHCYxa4Agl) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [Love Language](https://open.spotify.com/album/4tgzmgqcGcWyIwJra8EXNE) | 3:54 | 2022-05-06 | 2022-08-20 |
@@ -1064,6 +1064,7 @@
 | [Walk Away](https://open.spotify.com/track/1TK3lggm7HZ00nQp01uUTu) | [ONI](https://open.spotify.com/artist/6Rnp9z01jyCXbdynsTOQLB), [lil aaron](https://open.spotify.com/artist/3FCYSWNVmpjTCiwzJwbMAC) | [Walk Away](https://open.spotify.com/album/0kQCM0BNxFbSxPs0EFtwvN) | 3:29 | 2024-08-25 |  |
 | [Walk With Me In Hell](https://open.spotify.com/track/4bwp2R1oJxwNwoc28T7iy7) | [Fit For An Autopsy](https://open.spotify.com/artist/0qJpY7K8p7g6sacvaGNt6i) | [Walk With Me In Hell](https://open.spotify.com/album/7bAqjOAUci57f6be2isPZh) | 5:16 | 2022-09-02 | 2022-09-10 |
 | [Walking Blind](https://open.spotify.com/track/7HFpMpwPVsaifUGZIRfD8f) | [No Bragging Rights](https://open.spotify.com/artist/6b0TUydvuFHiCMET4SZ0L2) | [Walking Blind](https://open.spotify.com/album/46cPXcE6C6aquvvABKjLfU) | 3:17 | 2021-12-17 | 2022-02-11 |
+| [wanderlust](https://open.spotify.com/track/7nRLtie4yz2SImR6gs7TQg) | [AVRALIZE](https://open.spotify.com/artist/6h9Yjv46RWsgt2NQ1F6Jb5) | [wanderlust](https://open.spotify.com/album/6WxzOIdhhSUTMdnFt5nzjE) | 2:52 | 2025-01-17 |  |
 | [Wants I Need](https://open.spotify.com/track/1NLm08vnkwjxz1WfxsrXUs) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9), [Craig Owens](https://open.spotify.com/artist/5aYf0AInMznHfXGaemKEBv) | [Wants I Need](https://open.spotify.com/album/2pvZFLMtLJZL5HzSRWndPA) | 4:19 | 2024-08-12 | 2024-08-27 |
 | [Warpaint](https://open.spotify.com/track/0GzWj8bo5qMuBplDjOdLxH) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA) | [Warpaint](https://open.spotify.com/album/2MTwOiCBBadJ9gqhw5dyie) | 3:28 | 2023-07-28 | 2023-09-16 |
 | [Warrior Souls](https://open.spotify.com/track/2UMVB1D4V5KlKoHzw8i3Gg) | [Unearth](https://open.spotify.com/artist/44wJRGNtWywCUJZug8FJg3) | [Bask in the Blood of Our Demons \- EP](https://open.spotify.com/album/3N6MeAW41DhJIgjyF4tHIO) | 3:05 | 2024-07-12 | 2024-08-26 |

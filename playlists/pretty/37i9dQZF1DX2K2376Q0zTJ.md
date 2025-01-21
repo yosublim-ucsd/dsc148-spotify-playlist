@@ -1,6 +1,6 @@
 pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain](/playlists/plain/37i9dQZF1DX2K2376Q0zTJ) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive/blob/main/playlists/plain/37i9dQZF1DX2K2376Q0zTJ)
 
-### [EQUAL Japan 2024](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
+### [EQUAL Japan](https://open.spotify.com/playlist/37i9dQZF1DX2K2376Q0zTJ)
 
 > 音楽におけるジェンダーの公平性促進を目指し、女性の持つパワーや可能性を最大限に引き出していくプログラム。cover: XG
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2K2376Q0zTJ.md) - [plain]
 | 49 | [TWO HANDS](https://open.spotify.com/track/6Gt42KmyGkRa7M3M0MhY82) | [Yuinishio](https://open.spotify.com/artist/7zbYqEsExgXmsCHaOhXlnG) | [TWO HANDS](https://open.spotify.com/album/2sMKe588F4Ajje4T6cJd8z) | 3:58 |
 | 50 | [成長痛](https://open.spotify.com/track/6jTVrUczOZQKqprs4OT7gI) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [成長痛](https://open.spotify.com/album/6jMX7olPJ81OEMrfErL4Dk) | 2:52 |
 
-Snapshot ID: `Z4pwcQAAAAAXopfmaWMu2S/iPAEyLJly`
+Snapshot ID: `Z448pAAAAACaRTX+RT5rU6xfwOBnhFQ/`

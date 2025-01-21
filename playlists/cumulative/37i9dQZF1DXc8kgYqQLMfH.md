@@ -4,7 +4,7 @@
 
 > The chillest instrumental lofi beats, certified lush.
 
-1,200 songs - 1 day 21 hr 44 min
+1,201 songs - 1 day 21 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [Cinematic](https://open.spotify.com/track/1VY8ZZN6iSdKqcP6faWMsS) | [Zauvage](https://open.spotify.com/artist/68PKk1kwlU32sq0WuTTf0s) | [Cinematic](https://open.spotify.com/album/5yBSc0JxyghVBGMvoZmkhM) | 1:35 | 2023-04-20 |  |
 | [Circles](https://open.spotify.com/track/1UmaKp0op9x7VsP4yIe5Ur) | [Iassu](https://open.spotify.com/artist/2ojxL6kb0AB5KaHAYoXUDe) | [Circles](https://open.spotify.com/album/5BsLieguZSHhwbb20fynci) | 2:00 | 2023-02-07 | 2023-04-12 |
 | [City](https://open.spotify.com/track/0C5XacP9YqV9jcINk0Acan) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [City](https://open.spotify.com/album/1SPaiQQtYS04ViMtJKOjze) | 2:05 | 2023-07-13 | 2023-09-29 |
-| [City Bay](https://open.spotify.com/track/5G2aoK7fQ8XEIEgsRiRq01) | [Samenoise](https://open.spotify.com/artist/56RZezyHNErwmoGug3V3Xc) | [City Bay](https://open.spotify.com/album/1dhDrI75BqHuigJzDsbaaX) | 1:50 | 2022-06-03 | 2025-01-20 |
+| [City Bay](https://open.spotify.com/track/5G2aoK7fQ8XEIEgsRiRq01) | [Samenoise](https://open.spotify.com/artist/56RZezyHNErwmoGug3V3Xc) | [City Bay](https://open.spotify.com/album/1dhDrI75BqHuigJzDsbaaX) | 1:50 | 2022-06-03 |  |
 | [City Cowboy](https://open.spotify.com/track/4db1sFeaFrSCtPYzKtwabD) | [Dusty Rode](https://open.spotify.com/artist/2T4xvpgqAO926dQwBFDihv) | [City Cowboy](https://open.spotify.com/album/3Jl3NQufZ6wM0p4itxEqPA) | 2:19 | 2021-11-10 | 2024-10-17 |
 | [city lights](https://open.spotify.com/track/0XNNs1Ocw5sn5kMlToW8Cu) | [Papillon](https://open.spotify.com/artist/5iwgB05OKM42R6wQSMeChU) | [city lights](https://open.spotify.com/album/3P4CmMvH7UUdFxDCArP9ht) | 2:08 | 2023-05-19 |  |
 | [City Sleeps](https://open.spotify.com/track/1gyAkLOqlbbFEI4sQFQEhq) | [Nogymx](https://open.spotify.com/artist/0F1wth3t5bL0Vdjuk34yMP), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [City Sleeps](https://open.spotify.com/album/7JC1fzfvFjWyyNbIo20IEY) | 2:48 | 2022-12-16 |  |
@@ -353,6 +353,7 @@
 | [Fibonacci Sequence](https://open.spotify.com/track/1dQuDoTE50pWa0bvTx7xce) | [Wibke Komi](https://open.spotify.com/artist/5lEV6MZ6qSWTLAeGpTg5rI) | [Fibonacci Sequence](https://open.spotify.com/album/6W8ycDHnXNiLJ0Se569fKH) | 2:24 | 2024-09-13 |  |
 | [Fields](https://open.spotify.com/track/27jH99Hj03THQbpOU5XnWF) | [Drxnk](https://open.spotify.com/artist/0wN7ALPeSqOb16sG7vl4RC), [blndspot](https://open.spotify.com/artist/4YYlHGxwQoGgtikHADECAn), [Golden Ticket Tapes](https://open.spotify.com/artist/1XHE2jFO11NVGUBv25uDVZ) | [Fields](https://open.spotify.com/album/28kyJFTa7twzNPVk68j1VT) | 2:05 | 2022-09-16 | 2023-10-06 |
 | [Filon](https://open.spotify.com/track/5HBsRUmY05whAWU5JiZkNd) | [Broky Flacko](https://open.spotify.com/artist/6FoTVSfKcKfug9cWxyttk6), [Jam'addict](https://open.spotify.com/artist/0VzXnkUTwKDYznbgEvn3Ca) | [Filon](https://open.spotify.com/album/4932oPGZ71IUz8VQ6UptGN) | 1:42 | 2022-10-28 | 2023-10-06 |
+| [Filter](https://open.spotify.com/track/2dT8LqLquzRWGsRgq63sgh) | [Floating Basket](https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc) | [Filter](https://open.spotify.com/album/7C8vIXkNNl7BtxWK37x2SZ) | 2:21 | 2025-01-10 |  |
 | [Final Goodbye](https://open.spotify.com/track/2MB7zDWGS5WprHKjyxLJnt) | [Smith Beats](https://open.spotify.com/artist/5HHXSrUf66808GVDTVmH1u), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Final Goodbye](https://open.spotify.com/album/1rMHSdUWRvrMew3r9Aj0d8) | 2:58 | 2023-01-06 |  |
 | [Finding Comfort](https://open.spotify.com/track/5mysc5FXOTidy1a4vAnH2S) | [rwethree](https://open.spotify.com/artist/4xONuzG8xDW9pPSYS3ttcT) | [Finding Comfort](https://open.spotify.com/album/7aD9oyG6sHAi99kU9RyhAv) | 2:00 | 2022-09-09 |  |
 | [fireflies](https://open.spotify.com/track/227z0kBpLGVr4YqaTeNCIU) | [Harry G's Beats](https://open.spotify.com/artist/59fTGxMpUBkID2RojOnA8V) | [fireflies](https://open.spotify.com/album/6iMYwdC0KQAuqn1YsFWCAR) | 2:08 | 2024-03-08 | 2024-05-14 |
@@ -618,7 +619,7 @@
 | [Love Over The Phone](https://open.spotify.com/track/5Ho3HXJO68t5RHCQJ27vWz) | [juniorodeo](https://open.spotify.com/artist/0UVbCcNJ7xNvJ55Zq2YwrN), [Blurred Figures](https://open.spotify.com/artist/3vVw6m3rihy77VuqxApdLA), [tender spring](https://open.spotify.com/artist/0WCCipy2qiobvuygnTMdkC) | [Love Over The Phone](https://open.spotify.com/album/6DfreX8bo3gTFx49Xmn6Xj) | 3:10 | 2022-04-08 | 2022-12-10 |
 | [Love Shack](https://open.spotify.com/track/5J9c1In9AafzEqc4SGJF6d) | [Dreams For Two](https://open.spotify.com/artist/5KXdwqIvJf4lofmV84wIQe), [just johnny](https://open.spotify.com/artist/6YPHr3HaETn60rZZ3snnd5), [her.story](https://open.spotify.com/artist/6C8MeXJkwcF5AiHVMFNPoO) | [Love Shack](https://open.spotify.com/album/62XmmRMSjwcKmXYgNamW7R) | 1:23 | 2022-10-28 | 2023-10-06 |
 | [Lovely Night](https://open.spotify.com/track/4nCrAxvmNdPntO37lCdFkh) | [nevo.](https://open.spotify.com/artist/2vV98fjglGnlsT0ygRPcnL) | [Lovely Night](https://open.spotify.com/album/7lThMWYyqQCYCDLPNkzZwQ) | 2:37 | 2022-07-08 | 2023-09-22 |
-| [Low Games](https://open.spotify.com/track/4PM6vMw5PXjGqQwgggO6Ay) | [Lala Vega & the Rookies](https://open.spotify.com/artist/3NOwCiCBRXtxSG9xcBi3IR) | [Low Games](https://open.spotify.com/album/4O9KYWpLLmC9qXrNo6sjcA) | 2:08 | 2023-03-01 |  |
+| [Low Games](https://open.spotify.com/track/4PM6vMw5PXjGqQwgggO6Ay) | [Lala Vega & the Rookies](https://open.spotify.com/artist/3NOwCiCBRXtxSG9xcBi3IR) | [Low Games](https://open.spotify.com/album/4O9KYWpLLmC9qXrNo6sjcA) | 2:08 | 2023-03-01 | 2025-01-21 |
 | [Low\-Key Into You](https://open.spotify.com/track/2z4t24jysAzffGRI99idTW) | [Benjamin August](https://open.spotify.com/artist/5mYtzsopZvARbaLrR0puNS) | [Low\-Key Into You](https://open.spotify.com/album/0h51gXK0Oe3OyfHBt2sgxV) | 2:20 | 2021-11-10 | 2023-03-02 |
 | [Lowtide or Lazy \(LoL\)](https://open.spotify.com/track/6LY3WPaO30WJZpsPMgMlUg) | [Blackburri](https://open.spotify.com/artist/5FcsuAQwO56qMIZTFei6x1) | [Lowtide or Lazy \(LoL\)](https://open.spotify.com/album/67OUz7ozv8dG3Gbpqvnzsb) | 3:30 | 2021-11-10 | 2022-09-17 |
 | [Lucid Dreams](https://open.spotify.com/track/0TwLsrWtzGYbOYB6Z936vR) | [Nivla](https://open.spotify.com/artist/3VkGnJN59AU5YmXltksYR5) | [Lucid Dreams](https://open.spotify.com/album/4XaOFl3tYNQ4kyoCXkvAQ5) | 1:22 | 2022-06-17 | 2023-04-28 |
@@ -1052,7 +1053,7 @@
 | [The Bus Driver](https://open.spotify.com/track/202IHrJ3WGlLnhcBn7MnJn) | [Dubtrack](https://open.spotify.com/artist/7649N0LXjp4mVaHfuLqcGo) | [The Bus Driver](https://open.spotify.com/album/2mxNnMGuSW9flakR4AyVcC) | 2:25 | 2023-04-20 | 2023-11-18 |
 | [The City Weeps](https://open.spotify.com/track/7BYY8V037OArkl6zsD4s7K) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [The City Weeps](https://open.spotify.com/album/3BIzM0aOJeLeVFfSPRqs23) | 2:19 | 2023-09-08 |  |
 | [the eagle](https://open.spotify.com/track/1v1NpH98bzmOGzy7Uonzch) | [karlaplan.](https://open.spotify.com/artist/4RFTWRcFCHqWgDDakmHCBr) | [the eagle](https://open.spotify.com/album/5pePjbSsmLVMet4SRYwOXd) | 2:12 | 2023-09-08 |  |
-| [The Field](https://open.spotify.com/track/0XzV859RoblQ1Qdu5ugCCv) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [The Field](https://open.spotify.com/album/0gpCwSea1AT1JaDgKwniFx) | 2:18 | 2022-10-01 |  |
+| [The Field](https://open.spotify.com/track/0XzV859RoblQ1Qdu5ugCCv) | [Lomme](https://open.spotify.com/artist/2UxHowdAHxVWPhQQswzpT6), [Elk Beats](https://open.spotify.com/artist/1Nl5io0qeF6ISnWrdTnFQB) | [The Field](https://open.spotify.com/album/0gpCwSea1AT1JaDgKwniFx) | 2:18 | 2022-10-01 | 2025-01-21 |
 | [The Inner Sun](https://open.spotify.com/track/2u822ndjFVTtYr2Gu5Efln) | [Carl Borg](https://open.spotify.com/artist/1A6tzufDDqCP4qRnReIfhX) | [The Inner Sun](https://open.spotify.com/album/1ImwILTcx2BblGeGnqDnbx) | 2:20 | 2024-01-05 |  |
 | [The Kaleidoscope](https://open.spotify.com/track/22X60sGBAqAMVqxIwZnMko) | [Dr\. Dundiff](https://open.spotify.com/artist/6T2NShr7SAArhtegdIpHHN) | [The Kaleidoscope](https://open.spotify.com/album/6osPfOt5X9epMYvEgtyby6) | 1:59 | 2023-05-19 | 2023-11-18 |
 | [The Last Caress](https://open.spotify.com/track/2gyLOxjHak9GNl91uRckOK) | [Nahucast](https://open.spotify.com/artist/5PKH3iR7YxQUrVDeNsAu3S), [Phil Gori](https://open.spotify.com/artist/0dAq0AU9wC4mgrz09aPo0e) | [The Last Caress](https://open.spotify.com/album/04TQTvvd6i65iPy9oJck56) | 2:35 | 2022-07-08 | 2023-10-06 |

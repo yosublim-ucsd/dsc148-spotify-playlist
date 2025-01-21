@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYVW0BVc4a3.md) - [plain]
 
 > money talks!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,081 likes - 344 songs - 1 day 0 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,139 likes - 344 songs - 1 day 0 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

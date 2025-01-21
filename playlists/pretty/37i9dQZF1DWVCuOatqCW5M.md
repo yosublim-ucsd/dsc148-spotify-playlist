@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from your fav I\-Pop artists\. Cover \- Rashmeet Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,364 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,391 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Behja](https://open.spotify.com/track/6SbFFW9Z4MYBFOoCJCHxoz) | [Rashmeet Kaur](https://open.spotify.com/artist/15UQcr22jcc6DJjy3sLv3J), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [Behja](https://open.spotify.com/album/52uvhpbf20DhYlKYPJB9vB) | 2:01 |
 | 2 | [Channa](https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O) | [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Channa](https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx) | 3:26 |
 | 3 | [Saare Tumhare Hogaye](https://open.spotify.com/track/0nry9suP9jWEu2OxZsQfrn) | [Akhil Sachdeva](https://open.spotify.com/artist/3TOhzLRYnkkul71yRBxIoM), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg), [Ishaan Arora](https://open.spotify.com/artist/58VXRRTZbBkLuUWjSX6FNb) | [Saare Tumhare Hogaye](https://open.spotify.com/album/2r1UdNJMVO8CWCZaQtzaWr) | 3:57 |
-| 4 | [Bijliaan \(From "Badnaam"\)](https://open.spotify.com/track/2jF2LdO4oB5nsj4Ylxwsoo) | [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Harmanjeet](https://open.spotify.com/artist/6IPcyny3JhT2NpzeotdMJ4) | [Bijliaan \(From "Badnaam"\)](https://open.spotify.com/album/3AJg0ZFU4hwhhEMtYd9pKU) | 2:58 |
+| 4 | [Bijliaan \(From "Badnaam"\)](https://open.spotify.com/track/2jF2LdO4oB5nsj4Ylxwsoo) | [Jayy Randhawa](https://open.spotify.com/artist/6VlwEqlRo5sra59dvTcB9w), [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN) | [Bijliaan \(From "Badnaam"\)](https://open.spotify.com/album/3AJg0ZFU4hwhhEMtYd9pKU) | 2:58 |
 | 5 | [Mascara \(Unplugged\)](https://open.spotify.com/track/6IdJ9zRvPbSW5cERtMsoL5) | [Paresh Pahuja](https://open.spotify.com/artist/0DHOOKfXu4aU7LsWjTdrIN), [Vayu](https://open.spotify.com/artist/5vwmYR4hN6lASQJUMWPrEL) | [Mascara \(Unplugged\)](https://open.spotify.com/album/0xYDRKSJxhdkQiJCtVM61T) | 2:37 |
 | 6 | [Pray](https://open.spotify.com/track/1U4SFexUzNOXWbt759oYp1) | [Ikka](https://open.spotify.com/artist/07iEy1AecUPVzfC2J2gCHR), [King](https://open.spotify.com/artist/5NHm4TU5Twz7owibYxJfFU), [Hiten](https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh) | [Pray](https://open.spotify.com/album/03DpxrvRiqjROobHxl4iHv) | 3:13 |
 | 7 | [Bukhaar](https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Bukhaar](https://open.spotify.com/album/4DekJgQN6z4P2EuSnhUIx9) | 3:46 |

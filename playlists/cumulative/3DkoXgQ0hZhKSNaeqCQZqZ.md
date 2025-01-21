@@ -2,7 +2,7 @@
 
 ### [Furry Radio](https://open.spotify.com/playlist/3DkoXgQ0hZhKSNaeqCQZqZ)
 
-> The playlist made for furries, by furries\. \| Request songs @ Furrest.Online
+> The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
 272 songs - 14 hr 29 min
 

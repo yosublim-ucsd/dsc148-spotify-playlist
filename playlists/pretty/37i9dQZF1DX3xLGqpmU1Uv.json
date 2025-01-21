@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Las canciones que pon\u00edan a bailar a todo M\u00e9xico! Alberto V\u00e1zquez en portada.",
-  "num_followers": 163636,
+  "num_followers": 163670,
   "original_name": "Los 60 M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -235,22 +235,6 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
-        "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
-      },
-      "artists": [
-        {
-          "name": "Vianey Valdez",
-          "url": "https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs"
-        }
-      ],
-      "duration_ms": 145253,
-      "name": "Mu\u00e9vanse todos - Twist and Shout",
-      "url": "https://open.spotify.com/track/1BaZlroFKDgIlNc7JQ5LOq"
-    },
-    {
-      "added_at": "2020-03-18 04:18:26",
-      "album": {
         "name": "Rock - Lo Mejor De Los Locos Del Ritmo - Pioneros Del Rock En M\u00e9xico",
         "url": "https://open.spotify.com/album/6hjdFdFkgLdMucS7yAghxK"
       },
@@ -263,6 +247,22 @@
       "duration_ms": 205546,
       "name": "Tus Ojos",
       "url": "https://open.spotify.com/track/2ikdhRtBUIS1sBpN0j0ozp"
+    },
+    {
+      "added_at": "2020-03-18 04:18:26",
+      "album": {
+        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
+        "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
+      },
+      "artists": [
+        {
+          "name": "Vianey Valdez",
+          "url": "https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs"
+        }
+      ],
+      "duration_ms": 145253,
+      "name": "Mu\u00e9vanse todos - Twist and Shout",
+      "url": "https://open.spotify.com/track/1BaZlroFKDgIlNc7JQ5LOq"
     },
     {
       "added_at": "2020-03-18 04:18:26",
@@ -379,18 +379,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
-        "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
+        "name": "Rock Con los Locos del Ritmo",
+        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
       },
       "artists": [
         {
-          "name": "Vianey Valdez",
-          "url": "https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs"
+          "name": "Los Locos Del Ritmo",
+          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
         }
       ],
-      "duration_ms": 155480,
-      "name": "Hey Paula - Dueto con Arturo",
-      "url": "https://open.spotify.com/track/3pay7GhZw0W6rJKej4Lz0C"
+      "duration_ms": 80764,
+      "name": "Yo No Soy Rebelde",
+      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
     },
     {
       "added_at": "2024-07-12 13:46:41",
@@ -411,18 +411,18 @@
     {
       "added_at": "2020-03-18 04:18:26",
       "album": {
-        "name": "Rock Con los Locos del Ritmo",
-        "url": "https://open.spotify.com/album/3NJEqRTgTBmum7F7tqgWKH"
+        "name": "Peerless 80 Aniversario - 24 \u00c9xitos",
+        "url": "https://open.spotify.com/album/40i47N3kz7CqKfBdZG5K2Q"
       },
       "artists": [
         {
-          "name": "Los Locos Del Ritmo",
-          "url": "https://open.spotify.com/artist/2jPG2QeccDfdNbOdGrjBwO"
+          "name": "Vianey Valdez",
+          "url": "https://open.spotify.com/artist/1y6MyiByAJqCEhl0VNg8qs"
         }
       ],
-      "duration_ms": 80764,
-      "name": "Yo No Soy Rebelde",
-      "url": "https://open.spotify.com/track/08U1KWevchrVHDNkQV2iO7"
+      "duration_ms": 155480,
+      "name": "Hey Paula - Dueto con Arturo",
+      "url": "https://open.spotify.com/track/3pay7GhZw0W6rJKej4Lz0C"
     },
     {
       "added_at": "2020-03-18 04:18:26",

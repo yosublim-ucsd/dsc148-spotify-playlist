@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 
 ### [KALYE](https://open.spotify.com/playlist/37i9dQZF1DXbvIwPsyNnKl)
 
-> The place for the very best of Pinoy hip\-hop\. Kalye Natin 'To\. Cover: O SIDE MAFIA, BRGR
+> our Spotify KALYE Song of the Year is Babaero! Cover: gins&melodies
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,289,901 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,290,349 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 2 | [Dating Gawi](https://open.spotify.com/track/441AyLNG0X3E2uXGnkF690) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Abaddon](https://open.spotify.com/artist/74yfTxb5doXjUcv0g1DaMi) | [Dating Gawi](https://open.spotify.com/album/4wVz2cYJmwcOM3N99IsK7h) | 3:35 |
 | 3 | [Wag Ipagsabi](https://open.spotify.com/track/6XBz5vxIzEWFRLpxWYGEpV) | [Dreycruz](https://open.spotify.com/artist/6Eyw578LyVy9z7fDNhxWCf), [Bert Symoun](https://open.spotify.com/artist/1WeeTm0Wd9QYP65MGIsUgz) | [Wag Ipagsabi](https://open.spotify.com/album/4LavLiKs6MNLNkYZK07zH3) | 3:28 |
 | 4 | [Wait \(Teka Lang\)](https://open.spotify.com/track/79u2BIQd1v81BbpXcqqFuQ) | [PLAYERTWO](https://open.spotify.com/artist/4wjgqUtfS9TNfMHhjEqAb7) | [Wait \(Teka Lang\)](https://open.spotify.com/album/3IXv5Y8ExzRIz2rS1WqVMI) | 3:00 |
-| 5 | [My Day](https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [My Day](https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl) | 3:49 |
-| 6 | [PAKAMA](https://open.spotify.com/track/2mVgTLV8P6sXXoIu1cOudT) | [LVCID](https://open.spotify.com/artist/6EOlkKmPuyubn0pUTy7qc9), [Wavy Gang](https://open.spotify.com/artist/2J6wSFqfswO07wZaY4iaeX), [Young MLV](https://open.spotify.com/artist/0Mn6idUPno7XCcZzHPvQuv), [B Rvss](https://open.spotify.com/artist/6YzciWQnhaDNLj9A3lUpOX) | [PAKAMA](https://open.spotify.com/album/519RvJVcDRccP78nS8DbwE) | 4:08 |
-| 7 | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB) | 3:13 |
-| 8 | [SUBOMOTO \- Hev Abi Remix](https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [SUBOMOTO \(Hev Abi Remix\)](https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl) | 2:58 |
-| 9 | [Wag Na](https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Wag Na](https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57) | 4:26 |
-| 10 | [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 |
-| 11 | [Swanton Bomb](https://open.spotify.com/track/2RrTeVhmNxAZmAEVhkUtL1) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Swanton Bomb](https://open.spotify.com/album/41GDUh1cgsYr2kv3lAm6lT) | 2:24 |
-| 12 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 |
+| 5 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 |
+| 6 | [My Day](https://open.spotify.com/track/26gpJidk118QGbNcDqCHbW) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [My Day](https://open.spotify.com/album/0nIgomkDdr75IJu4aanFJl) | 3:49 |
+| 7 | [PAKAMA](https://open.spotify.com/track/2mVgTLV8P6sXXoIu1cOudT) | [LVCID](https://open.spotify.com/artist/6EOlkKmPuyubn0pUTy7qc9), [Wavy Gang](https://open.spotify.com/artist/2J6wSFqfswO07wZaY4iaeX), [Young MLV](https://open.spotify.com/artist/0Mn6idUPno7XCcZzHPvQuv), [B Rvss](https://open.spotify.com/artist/6YzciWQnhaDNLj9A3lUpOX) | [PAKAMA](https://open.spotify.com/album/519RvJVcDRccP78nS8DbwE) | 4:08 |
+| 8 | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/track/52F5Y4EgcZ2RggVqpqSJBe) | [Robledo Timido](https://open.spotify.com/artist/6rTxLeff3t3rivZ3rabRpw) | [Gusto Ko Sakin Ka Lang](https://open.spotify.com/album/2CKTmUw2QrxtchdI1yVfQB) | 3:13 |
+| 9 | [SUBOMOTO \- Hev Abi Remix](https://open.spotify.com/track/21Dq4ZfwEg1nfkwyxrx0ve) | [Zae](https://open.spotify.com/artist/7LzHjduJmIQZGQsh8luHkD), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [SUBOMOTO \(Hev Abi Remix\)](https://open.spotify.com/album/7wjI6FCsMJwMCumTlNu0xl) | 2:58 |
+| 10 | [Wag Na](https://open.spotify.com/track/6Rz2gTPL95Y9EJkwgqpFkE) | [Realest Cram](https://open.spotify.com/artist/3d0hhzHPK0jA5mKTeFIZc5), [CK YG](https://open.spotify.com/artist/57yOAX6apIrclpBG736Uy2) | [Wag Na](https://open.spotify.com/album/3dPZYbHJzqN3CDYp4ygh57) | 4:26 |
+| 11 | [Boyfriend](https://open.spotify.com/track/4067uAzJZUHJInwOo7X701) | [ALLMO$T](https://open.spotify.com/artist/0WleeEe3UurwlNbDGhb5Yz) | [Boyfriend](https://open.spotify.com/album/0hMT0sAqjZvYBimWnMDswf) | 4:53 |
+| 12 | [Swanton Bomb](https://open.spotify.com/track/2RrTeVhmNxAZmAEVhkUtL1) | [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY), [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh) | [Swanton Bomb](https://open.spotify.com/album/41GDUh1cgsYr2kv3lAm6lT) | 2:24 |
 | 13 | [ILY](https://open.spotify.com/track/3w2uH1D7s2lyBNionSZOM0) | [Young Blood Neet](https://open.spotify.com/artist/0Vl8gbpWPr8B6N7g5UtPSU), [Bugoy Na Koykoy](https://open.spotify.com/artist/1Hcbuz175YJT1vMX4DnS6E) | [ILY](https://open.spotify.com/album/2Z3aaJjwmO8hBQodeaqfKh) | 2:59 |
 | 14 | [Burgis](https://open.spotify.com/track/3O5P2ZDUwExzcIdZkJwFq1) | [Flow G](https://open.spotify.com/artist/3PDFGpPl4ienSn5Vwisfrh), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Burgis](https://open.spotify.com/album/3rucLazJL4NKIiF6DBp5Fa) | 3:29 |
 | 15 | [Faded \(Raw\)](https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6) | [Illest Morena](https://open.spotify.com/artist/2zRoFfKfqM5jaUysSG9EUI) | [Faded \(Raw\)](https://open.spotify.com/album/1YoTE6M7v7oQcdv5gHM0kb) | 2:55 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbvIwPsyNnKl.md) - [plain]
 | 49 | [213](https://open.spotify.com/track/1CHjcdykq6x7xWbR1OUg9R) | [Tommie King](https://open.spotify.com/artist/6rtj7FDJ5zLdvV0SYbfnNm), [SUPAFLY](https://open.spotify.com/artist/7k4KUVFc27j05vXrcJ58ih) | [213](https://open.spotify.com/album/0OHhTK1QGwMRfANFNFMzGY) | 3:03 |
 | 50 | [Ashtray](https://open.spotify.com/track/7acx61pQgmxeYw7FBh4DYX) | [MBNel](https://open.spotify.com/artist/2aqdy2BLMhGFHhRb1ZbDCF), [O SIDE MAFIA](https://open.spotify.com/artist/4O19i2jHEjPyz17BeiwbDp) | [Ashtray](https://open.spotify.com/album/1Sg2cru2SJiSOOFdQmgy2h) | 2:34 |
 
-Snapshot ID: `Z4csfQAAAABZZMnODzciiBZBAW6WmO8I`
+Snapshot ID: `Z44c5QAAAAAhW9tBGOkui6GbbD/K1Ndg`

@@ -1,6 +1,6 @@
 {
   "description": "We like it like that! Cover: Pete Rodriguez",
-  "num_followers": 89615,
+  "num_followers": 89639,
   "original_name": "Boogaloo Essentials",
   "owner": {
     "name": "Spotify",
@@ -271,22 +271,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "El Bestial Sonido de",
-        "url": "https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f"
+        "name": "Ag\u00fazate",
+        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
       },
       "artists": [
         {
-          "name": "Bobby Cruz",
-          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
-        },
-        {
           "name": "Ricardo \"Richie\" Ray",
           "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        },
+        {
+          "name": "Bobby Cruz",
+          "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
         }
       ],
-      "duration_ms": 323400,
-      "name": "Guaguanc\u00f3 Triste",
-      "url": "https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj"
+      "duration_ms": 381240,
+      "name": "Guaguanc\u00f3 Raro",
+      "url": "https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -307,22 +307,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Ag\u00fazate",
-        "url": "https://open.spotify.com/album/2R2Y7hVi5E6mDjepQZYRN4"
+        "name": "El Bestial Sonido de",
+        "url": "https://open.spotify.com/album/75SxVlMzxU5FADaYf12d6f"
       },
       "artists": [
         {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        },
-        {
           "name": "Bobby Cruz",
           "url": "https://open.spotify.com/artist/0JIMhbNg4VwToE3unSL3C4"
+        },
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 381240,
-      "name": "Guaguanc\u00f3 Raro",
-      "url": "https://open.spotify.com/track/2p4JCDisy82i1dhZW4v0Pr"
+      "duration_ms": 323400,
+      "name": "Guaguanc\u00f3 Triste",
+      "url": "https://open.spotify.com/track/6S22eYfhiqVvlTYeSfZwDj"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -427,18 +427,18 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+        "name": "The Queen Does Her Own Thing",
+        "url": "https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD"
       },
       "artists": [
         {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+          "name": "La Lupe",
+          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
         }
       ],
-      "duration_ms": 246453,
-      "name": "Columbia's Boogaloo",
-      "url": "https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a"
+      "duration_ms": 145933,
+      "name": "Touch Me",
+      "url": "https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -475,18 +475,18 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
-        "name": "The Queen Does Her Own Thing",
-        "url": "https://open.spotify.com/album/4v1QDFRpJK3wPNzL7PG8pD"
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
       },
       "artists": [
         {
-          "name": "La Lupe",
-          "url": "https://open.spotify.com/artist/5YR49Hzg7h990JxfXuxm3a"
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
         }
       ],
-      "duration_ms": 145933,
-      "name": "Touch Me",
-      "url": "https://open.spotify.com/track/4c0LhycLJw7zE7UhkEzZkw"
+      "duration_ms": 246453,
+      "name": "Columbia's Boogaloo",
+      "url": "https://open.spotify.com/track/7zy6qclDeaInxzaRdxbE9a"
     },
     {
       "added_at": "2024-07-18 20:57:58",
@@ -559,6 +559,22 @@
     {
       "added_at": "2024-07-18 20:57:58",
       "album": {
+        "name": "Jala Jala y Boogaloo",
+        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
+      },
+      "artists": [
+        {
+          "name": "Ricardo \"Richie\" Ray",
+          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
+        }
+      ],
+      "duration_ms": 229733,
+      "name": "Gentle Rain",
+      "url": "https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq"
+    },
+    {
+      "added_at": "2024-07-18 20:57:58",
+      "album": {
         "name": "Pachanguerisimo, Vol. 1",
         "url": "https://open.spotify.com/album/5w4x5TGsS6ZdHYVgGOZgBq"
       },
@@ -587,22 +603,6 @@
       "duration_ms": 265080,
       "name": "I Like It Like That",
       "url": "https://open.spotify.com/track/2s3TL6sMAZwaJsUfVAXbFU"
-    },
-    {
-      "added_at": "2024-07-18 20:57:58",
-      "album": {
-        "name": "Jala Jala y Boogaloo",
-        "url": "https://open.spotify.com/album/6MIXsMeMn6pWayEeXOoRkA"
-      },
-      "artists": [
-        {
-          "name": "Ricardo \"Richie\" Ray",
-          "url": "https://open.spotify.com/artist/2spUXl3eKq2URO97haSzAc"
-        }
-      ],
-      "duration_ms": 229733,
-      "name": "Gentle Rain",
-      "url": "https://open.spotify.com/track/4IrAYOFnLbU1AKkkcNiTjq"
     },
     {
       "added_at": "2024-07-18 20:57:58",

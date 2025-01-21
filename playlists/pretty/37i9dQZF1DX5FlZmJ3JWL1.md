@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 
 > Let's go! 💪
 
-[Spotify](https://open.spotify.com/user/spotify) - 773,425 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 773,492 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5FlZmJ3JWL1.md) - [plain]
 | 49 | [Do It To It \- Tiësto Remix](https://open.spotify.com/track/2XKsHHNCtKqk9cF35TRFyC) | [ACRAZE](https://open.spotify.com/artist/4pnp4w9g30yLfVIAFnZMRd), [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Cherish](https://open.spotify.com/artist/1c70yCa8sRgIiQxl3HOEFo) | [Do It To It \(Tiësto Remix\)](https://open.spotify.com/album/19WRWWmZJvhypam9o6heVJ) | 2:05 |
 | 50 | [All This Time](https://open.spotify.com/track/4xq59PbzJOMSqrdGQMxpB8) | [Toby DEE](https://open.spotify.com/artist/2LRFeq9eUJ9eaKYRLQOQGj), [Anna Hafner](https://open.spotify.com/artist/2HXmqfQYsehY98S9JqX1n3), [Deso Latee](https://open.spotify.com/artist/0klyxA0TLyUMXyeIsbe5eN) | [All This Time](https://open.spotify.com/album/5rMLNdoZI2J9Fa6xtBiDRL) | 1:48 |
 
-Snapshot ID: `Z3ulgwAAAACvQc7yIrmbtAzhTpwrgNHq`
+Snapshot ID: `Z45KdwAAAAAWPOUvScjV7MF14w1p7NjF`

@@ -1223,6 +1223,24 @@
     },
     {
       "album": {
+        "name": "L\u1eb7ng",
+        "url": "https://open.spotify.com/album/1P7wZAMsCTQtRBdlEsStWN"
+      },
+      "artists": [
+        {
+          "name": "Shiki",
+          "url": "https://open.spotify.com/artist/3hRnvEdu1iPyB6EzMBbuZq"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "C\u00f3 \u0110\u00f4i \u0110i\u1ec1u",
+      "url": "https://open.spotify.com/track/2Pwou3Q2Cf59RxdX2V6MgV"
+    },
+    {
+      "album": {
         "name": "C\u00f4 G\u00e1i N\u00e0y L\u00e0 C\u1ee7a Ai? (feat. Rush & Nhi Nhi)",
         "url": "https://open.spotify.com/album/2NGMT2aQkL96whD93DdNxo"
       },
@@ -1410,6 +1428,28 @@
       "duration_ms": 270000,
       "name": "C\u1ee9 Chill Th\u00f4i",
       "url": "https://open.spotify.com/track/014DA3BdnmD3kI5pBogH7c"
+    },
+    {
+      "album": {
+        "name": "C\u1ee9u L\u1ea5y \u00c2m Nh\u1ea1c",
+        "url": "https://open.spotify.com/album/3starTMIbNsFpGCLQtGESr"
+      },
+      "artists": [
+        {
+          "name": "Wren Evans",
+          "url": "https://open.spotify.com/artist/5M3ffmRiOX9Q8Y4jNeR5wu"
+        },
+        {
+          "name": "itsnk",
+          "url": "https://open.spotify.com/artist/0hy8mfXxfD8kQ6MRQkDVrn"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183479,
+      "name": "C\u1ee9u L\u1ea5y \u00c2m Nh\u1ea1c",
+      "url": "https://open.spotify.com/track/229P16G6GFOCDUNiUNusc4"
     },
     {
       "album": {
@@ -3185,6 +3225,24 @@
     },
     {
       "album": {
+        "name": "m\u1ed9t b\u00e0i h\u00e1t kh\u00f4ng vui m\u1ea5y",
+        "url": "https://open.spotify.com/album/1aH5WZlNbIpSPGrOKHiOsN"
+      },
+      "artists": [
+        {
+          "name": "T.R.I",
+          "url": "https://open.spotify.com/artist/2rVYwIYNEsMxtt8j5yemHb"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234315,
+      "name": "m\u1ed9t b\u00e0i h\u00e1t kh\u00f4ng vui m\u1ea5y",
+      "url": "https://open.spotify.com/track/64uzIqhEOq1veSVO03Ux7D"
+    },
+    {
+      "album": {
         "name": "M\u1ed9t Ng\u00e0n N\u1ed7i \u0110au",
         "url": "https://open.spotify.com/album/3STAYL3gX9aQx2oi3yslIz"
       },
@@ -3280,7 +3338,7 @@
       ],
       "date_added": "2024-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 276016,
       "name": "Ng\u00e0y \u0110\u1ea7u Sau Chia Tay",
       "url": "https://open.spotify.com/track/6xKs4CnVadRzdNZ48vhT27"
@@ -3688,7 +3746,7 @@
       ],
       "date_added": "2023-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 236262,
       "name": "Nh\u1eefng L\u1eddi H\u1ee9a B\u1ecf Qu\u00ean",
       "url": "https://open.spotify.com/track/1bG6Q8sR8jda7ryI365y8o"
@@ -3764,6 +3822,24 @@
       "duration_ms": 236253,
       "name": "N\u00e9m C\u00e2u Y\u00eau V\u00e0o Kh\u00f4ng Trung",
       "url": "https://open.spotify.com/track/4RwQ5UUOgphhjBM8zF62RQ"
+    },
+    {
+      "album": {
+        "name": "N\u00f3i G\u00ec N\u1eefa",
+        "url": "https://open.spotify.com/album/143jZ8yE8fJc58CF8qDXK7"
+      },
+      "artists": [
+        {
+          "name": "Th\u1ecbnh Suy",
+          "url": "https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234059,
+      "name": "N\u00f3i G\u00ec N\u1eefa",
+      "url": "https://open.spotify.com/track/4hGBUx05pRvce5QeGo3g0j"
     },
     {
       "album": {
@@ -4144,6 +4220,28 @@
       "duration_ms": 278732,
       "name": "R\u1ed3i Ta S\u1ebd Ng\u1eafm Ph\u00e1o Hoa C\u00f9ng Nhau",
       "url": "https://open.spotify.com/track/3a2Oftcs10wtzw6AmxuTMU"
+    },
+    {
+      "album": {
+        "name": "Sau C\u01a1n M\u01b0a",
+        "url": "https://open.spotify.com/album/06QN41i8CfDkgUy2HP1kZ2"
+      },
+      "artists": [
+        {
+          "name": "CoolKid",
+          "url": "https://open.spotify.com/artist/1Qia4CTwh6x0CZbD0079zi"
+        },
+        {
+          "name": "RHYDER",
+          "url": "https://open.spotify.com/artist/1W2pigH6UYwuTuFbwoSfVZ"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154756,
+      "name": "Sau C\u01a1n M\u01b0a",
+      "url": "https://open.spotify.com/track/4fj4Jn4nw8fGX8xdbCntJf"
     },
     {
       "album": {
@@ -5070,7 +5168,7 @@
       ],
       "date_added": "2023-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 258471,
       "name": "T\u00ecnh c\u1edd y\u00eau em",
       "url": "https://open.spotify.com/track/0gzpqwLf1jhNjnSJEyweAX"

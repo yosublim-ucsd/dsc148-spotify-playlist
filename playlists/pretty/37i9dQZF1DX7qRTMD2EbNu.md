@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: Joey b
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,256 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,281 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,7 +29,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 19 | [YESU](https://open.spotify.com/track/3yt7iYLEWEAF2DR98QYeOU) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn) | [YESU](https://open.spotify.com/album/4rvlg1bc9BpOw7Coj5mLyy) | 3:21 |
 | 20 | [Boom Boom](https://open.spotify.com/track/0c6cJ10SmaO6Ev4XVWIi5Z) | [Omar Sterling](https://open.spotify.com/artist/3hvJvURxBzOmRYDDEEIr7T), [Reggie](https://open.spotify.com/artist/2h3HiGNHcAvAY1PbORnvKr), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM) | [Boom Boom](https://open.spotify.com/album/4qQVzUUzfPh10muObt1Wzp) | 2:44 |
 | 21 | [Obra](https://open.spotify.com/track/37iYFIiqbsnqH3jRobzhMM) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9) | [Obra](https://open.spotify.com/album/4trVuGEvkvZoawC7pC3xif) | 2:35 |
-| 22 | [Yente](https://open.spotify.com/track/3i6rRfVlhbnbDzzsy3HAYI) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Yente](https://open.spotify.com/album/5m8DZH8f4b8kw2rwCHn6pG) | 2:13 |
+| 22 | [YENTE](https://open.spotify.com/track/3i6rRfVlhbnbDzzsy3HAYI) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [YENTE](https://open.spotify.com/album/5m8DZH8f4b8kw2rwCHn6pG) | 2:13 |
 | 23 | [IT'S TIME](https://open.spotify.com/track/6MCGLH0jyEv6Nleaqjo5H2) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [IT'S TIME](https://open.spotify.com/album/3XfAa6S4mCg8AELOG3kooq) | 2:28 |
 | 24 | [Ohene](https://open.spotify.com/track/6IpiQrPyZbFL2T1IO6SLB1) | [Serious Klein](https://open.spotify.com/artist/118HlFjDgUCku033j3YD81) | [Ohene](https://open.spotify.com/album/2N60XjOoQFUpBFM6EuyyPB) | 2:50 |
 | 25 | [BRAG](https://open.spotify.com/track/1KnaInhRTu3HWIgzf7Iu6F) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8) | [BRAG](https://open.spotify.com/album/26kaIvdEp1oW7t6z6J2djR) | 2:29 |

@@ -4,7 +4,7 @@
 
 > Bhangra is our pride, Bhangra is our culture\. Cover: Sharry Maan
 
-205 songs - 10 hr 48 min
+206 songs - 10 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Kangni](https://open.spotify.com/track/1dcKwzZXeFL9PdUmKR2uwH) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Kangni](https://open.spotify.com/album/6feI1lwq7mGsllRhmkJqWT) | 2:58 | 2025-01-08 |  |
 | [KAREEB](https://open.spotify.com/track/684pfVLmrVEaDhdvLGvXK5) | [Shivjot](https://open.spotify.com/artist/1CluO4PWr2z45POcQ92ZPs), [Sudesh Kumari](https://open.spotify.com/artist/6ISgfsT7lr3JXu6RfOj46X) | [KAREEB](https://open.spotify.com/album/0QAgFyTDc54qWQcnRsSyap) | 3:00 | 2025-01-08 |  |
 | [Kehra Pind?](https://open.spotify.com/track/4LZjToIdatf8tAZOJmYESl) | [Raf Saperra](https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6) | [Kehra Pind?](https://open.spotify.com/album/6fWvpmIF3EcHIW7bohOBdJ) | 3:32 | 2022-03-02 | 2024-10-11 |
-| [Khabbi Khaan](https://open.spotify.com/track/0TaW40lV72mpo3TJCsTiCJ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Khabbi Khaan](https://open.spotify.com/album/5Cash5ILWkSnb0vybmcktT) | 2:33 | 2022-02-08 |  |
+| [Khabbi Khaan](https://open.spotify.com/track/0TaW40lV72mpo3TJCsTiCJ) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Khabbi Khaan](https://open.spotify.com/album/5Cash5ILWkSnb0vybmcktT) | 2:33 | 2022-02-08 | 2025-01-21 |
 | [Khad Tainu Main Dassa](https://open.spotify.com/track/38SHGnYLRMQJ7MzaU6fkCl) | [Neha Kakkar](https://open.spotify.com/artist/5f4QpKfy7ptCHwTqspnSJI), [Rohanpreet Singh](https://open.spotify.com/artist/0oZUBBe32WUJY1WjGzYEG8) | [Khad Tainu Main Dassa](https://open.spotify.com/album/2bN1Z69PB8VSh7K9Omt6By) | 3:24 | 2021-12-18 | 2022-01-11 |
 | [Khauf](https://open.spotify.com/track/1siJv8irHMPacI36HR4TIG) | [Mankirt Aulakh](https://open.spotify.com/artist/3uHUKCspaCzAab9A3LlGAr), [Avvy Sra](https://open.spotify.com/artist/4qjiRRFcM4WZ0aJ3IHdWPN), [Preeta](https://open.spotify.com/artist/3JqUyXDbUwi5iLE1Z1HpsN), [Jassi Lokha](https://open.spotify.com/artist/7b3rjmmJDDL9bzJhLkdmdr) | [Mankirt Aulakh Vol\. 1](https://open.spotify.com/album/1LzjSBsrxFGlhHTjvTNtP8) | 2:32 | 2025-01-08 |  |
 | [Kill Goriye](https://open.spotify.com/track/4fVdWGQOP2Gv0t5Ax5gYnP) | [Gurj Sidhu](https://open.spotify.com/artist/5UJrlyFPFTGTlfepPJvzjv) | [Kill Goriye](https://open.spotify.com/album/2GBBNb9mu0Ans9QlgcHMKy) | 3:13 | 2025-01-08 |  |
@@ -137,6 +137,7 @@
 | [Musafir](https://open.spotify.com/track/1WD6kMsxOaS6ouqJHCeN3o) | [Korala Maan](https://open.spotify.com/artist/6WZ8WCYWROs8IyMJOPeJ4G), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Musafir](https://open.spotify.com/album/391D9LhTm3gG1Jx4AQh50a) | 3:45 | 2025-01-08 |  |
 | [Na Na](https://open.spotify.com/track/2Ce8Kyv2yNJ061LQhRpB27) | [Mickey Singh](https://open.spotify.com/artist/3KDhyMTFZlrfAO0zK18z4t), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU) | [Na Na](https://open.spotify.com/album/5bc8FMXhrMZD4VFQNPOtWH) | 3:53 | 2021-12-18 | 2022-01-11 |
 | [Na Puch Ke](https://open.spotify.com/track/6XlBhzskvfRIQiFv18mgBV) | [Ninja](https://open.spotify.com/artist/2praKdsjYPKh2yNXBdTWGT) | [Na Puch Ke](https://open.spotify.com/album/6HnEXj7JFr5CzfImyp0Mmn) | 3:26 | 2021-12-18 | 2022-01-11 |
+| [Naag Di Wife](https://open.spotify.com/track/3NmGpPUylfHx5xBXMmnJ7k) | [Deep Bajwa](https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo), [Maahi Sharma](https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Naag Di Wife](https://open.spotify.com/album/1NVjslukC8ekvOzPqnraa6) | 2:59 | 2025-01-20 |  |
 | [NachLai Goriye](https://open.spotify.com/track/4QrBpxWTjXHj7oYTO2EBBY) | [Himmat Sandhu](https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC), [Desi Frenzy](https://open.spotify.com/artist/50FBY7deOzEIM580Ui6SzA) | [NachLai Goriye](https://open.spotify.com/album/06oJfyr9qICC85o6zkYEff) | 3:50 | 2021-12-18 | 2024-04-06 |
 | [Necklace](https://open.spotify.com/track/4QxtPnup1D3WbwTW2SvNr4) | [Amrinder Gill](https://open.spotify.com/artist/1x02ug1CLkx7mrQP9FRswh), [Dr Zeus](https://open.spotify.com/artist/1zrFFDzoE9XXyjEqqgDpMm) | [Judaa 3 Chapter 1](https://open.spotify.com/album/1bad04WweZQ3f1BWaIHmqf) | 3:35 | 2021-12-18 | 2022-01-11 |
 | [NO MORE SHADA](https://open.spotify.com/track/42JDl7zaIHMWqiyXvQqHDQ) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [NO MORE SHADA](https://open.spotify.com/album/0Fnoxv0wKGgAIt9x5MuOjU) | 3:36 | 2025-01-08 |  |

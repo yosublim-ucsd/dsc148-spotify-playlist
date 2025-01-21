@@ -4,7 +4,7 @@
 
 > Dark, hard hitting pop\. Cover: Joya Marleen
 
-838 songs - 1 day 14 hr 40 min
+839 songs - 1 day 14 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -82,6 +82,7 @@
 | [Better On Mute](https://open.spotify.com/track/4PUoS8YRJCKdG76cYjbdpL) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI) | [Better On Mute](https://open.spotify.com/album/11cXlTcVE4u0BTEm6YID09) | 2:37 | 2023-11-10 | 2024-01-05 |
 | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/track/11BIdkGoqRisAm21nXcTFx) | [Sophie Powers](https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI), [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [Better On Mute \(feat\. Chandler Leighton\)](https://open.spotify.com/album/0BqTnZD4dmxKVg7ZYgmmXY) | 2:39 | 2024-01-05 | 2024-04-24 |
 | [BF](https://open.spotify.com/track/5RAYG4rkqeW3WE5zkVHgdv) | [liza](https://open.spotify.com/artist/6K5Mei2psrczwqzTMIM48I) | [BF](https://open.spotify.com/album/4rQNdqxfjwv16sF8OxNp9C) | 2:07 | 2023-07-14 | 2023-09-23 |
+| [BIBI Vengeance](https://open.spotify.com/track/6cwfdl65DXd0VjQk5grYcv) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [BIBI Vengeance \(feat\. Baby Tate & with Princesa Alba\) \[Remix\]](https://open.spotify.com/album/3exzx1IVqyCAnrTsxq5X0r) | 2:45 | 2025-01-20 |  |
 | [Big Girls Don't Cry](https://open.spotify.com/track/1kfAz9hp0Tlc9G1777jutL) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [Big Girls Don't Cry](https://open.spotify.com/album/3DgJwUnwxTutt0MIi7H9rd) | 2:49 | 2024-08-09 |  |
 | [BIG GUNS](https://open.spotify.com/track/3NVrdvbonOD0DUETFnDFJL) | [Neoni](https://open.spotify.com/artist/38wxcfNEqMwuPniHvplin5) | [BIG GUNS](https://open.spotify.com/album/3eAg2MEEJxhI7pvRxjha3F) | 3:09 | 2022-12-09 | 2023-01-14 |
 | [BIG MOUTH](https://open.spotify.com/track/2u8s7wUFMg9YMUlaYa3m5q) | [Creams](https://open.spotify.com/artist/6n7sKOK6qxbEU98EomhFZc) | [BIG MOUTH](https://open.spotify.com/album/3ZhjGhWn23OI0BTLp5MqgO) | 2:06 | 2024-06-07 | 2024-06-29 |
@@ -626,7 +627,7 @@
 | [RÉSUMÉ](https://open.spotify.com/track/4ueRLPY3K49X8hKrd2CDFN) | [jenny nuo](https://open.spotify.com/artist/6gvfMsa2f3hXTmsewfTyhz) | [RÉSUMÉ](https://open.spotify.com/album/29ibhzG3YXJMgqWqFfM3iQ) | 2:46 | 2022-05-06 | 2022-05-20 |
 | [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/track/47mzGm0Jp2OzKOuK1T7mYI) | [PLVTINUM](https://open.spotify.com/artist/4V2pR2iSd1g0RZCglrP3jn), [TOKYO’S REVENGE](https://open.spotify.com/artist/5TbLOwv8BNnik3f03NZJlt) | [SACRILEGIOUS \(with TOKYO'S REVENGE\)](https://open.spotify.com/album/6NcKtumpdHtY6Mbcmb4nci) | 2:42 | 2022-02-11 | 2022-02-19 |
 | [SAD B!TCH](https://open.spotify.com/track/4nfyxpiejEPrUHLnejED7i) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [SAD B!TCH](https://open.spotify.com/album/1YKrir8bqPzZKr6RyL2GTZ) | 2:12 | 2023-02-03 | 2023-09-23 |
-| [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 | 2024-09-20 |  |
+| [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 | 2024-09-20 | 2025-01-21 |
 | [Sad Ghost](https://open.spotify.com/track/45fNZIKK6NYTLq5nNvTTyx) | [ari hicks](https://open.spotify.com/artist/7kBSIXnl2HuGLcA0RZ8T9Z) | [Sad Ghost](https://open.spotify.com/album/0BKbLRyigNvoZIBcCw1fcH) | 3:07 | 2022-10-21 | 2023-04-01 |
 | [SAINT](https://open.spotify.com/track/3L3EW1iUnEZN7Ejs4FuXYz) | [DeathbyRomy](https://open.spotify.com/artist/7aWpPjjgItUnXljFxYYKZI) | [SAINT](https://open.spotify.com/album/1r41TREkXcOeKfFbDhwUsU) | 3:15 | 2023-09-29 | 2024-01-13 |
 | [Salt and Vinegar](https://open.spotify.com/track/1GsKftiCfhs00hbulNPHV1) | [Lights](https://open.spotify.com/artist/5pdyjBIaY5o1yOyexGIUc6) | [Salt and Vinegar](https://open.spotify.com/album/3WvRrly2MB7uk6oEFzcA9E) | 3:15 | 2022-02-04 | 2022-03-18 |

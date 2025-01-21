@@ -4,7 +4,7 @@
 
 > EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!
 
-1,811 songs - 4 day 2 hr 11 min
+1,813 songs - 4 day 2 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -962,6 +962,7 @@
 | [Looking Away](https://open.spotify.com/track/18h9JpSrV3GHo8xVLnZFRx) | [Monotronic](https://open.spotify.com/artist/6yRrkpttMRDY8KiZG193SU) | [Looking Away](https://open.spotify.com/album/1BaLVDm5kQlJEgir3bvFlk) | 2:47 | 2024-10-13 | 2024-10-22 |
 | [Looking For](https://open.spotify.com/track/6TYHPwQgbh5eIpyiLPVJTY) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau) | [Hypercycle](https://open.spotify.com/album/4IRPWekl0EQsvqIZjWugfw) | 4:10 | 2024-10-31 | 2024-11-09 |
 | [Looking For Love](https://open.spotify.com/track/2gol2X0eHr9XHvQLOi7fGS) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Looking For Love](https://open.spotify.com/album/48FCnfSreWk0y3jyyZjdx1) | 2:53 | 2024-11-15 | 2024-11-23 |
+| [Loops & Tings](https://open.spotify.com/track/50mXU62jCPxphRlt4zqHEt) | [Jeckyll & Hyde](https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1) | [Loops & Tings](https://open.spotify.com/album/1BpJlqgF1id6vAJ2hN630B) | 2:28 | 2025-01-20 |  |
 | [LOSE CONTROL](https://open.spotify.com/track/15gBrrouXXYK1nczQ54wVZ) | [TARISH](https://open.spotify.com/artist/14xzHAH8M0tHnfKDD2clV0) | [LOSE CONTROL](https://open.spotify.com/album/4Nvzg2QMciRBT2JhPnTGGO) | 3:06 | 2024-06-21 | 2024-06-29 |
 | [Lose It All](https://open.spotify.com/track/72MxuPaKKJodN2LyjornGc) | [Tavatli](https://open.spotify.com/artist/1B8akzCypOte40Fscvj968) | [Lose It All](https://open.spotify.com/album/4OKUqMTwMxwh18IDjls9fx) | 4:11 | 2025-01-10 | 2025-01-18 |
 | [Losing My Mind](https://open.spotify.com/track/3oyLZbnivIRGDdIp3L6lkJ) | [Talla 2XLC](https://open.spotify.com/artist/4cc7cII4mEQqKtczWKQVjJ), [Rraw!](https://open.spotify.com/artist/4zaG29y87NmLegM9vz0yNw) | [Losing My Mind](https://open.spotify.com/album/40L8NQTO8tU1nb0TNIFeaR) | 3:30 | 2024-12-19 | 2025-01-04 |
@@ -1056,6 +1057,7 @@
 | [Mirror](https://open.spotify.com/track/5lVzvBhDAsjT9etmj50w4n) | [Olly James](https://open.spotify.com/artist/04Ze9i5w3NXno5DdMNpJZC) | [Mirror](https://open.spotify.com/album/1AkaQE0D92As2b4X02z3nn) | 2:47 | 2024-08-02 | 2024-08-16 |
 | [Modern Tragedy](https://open.spotify.com/track/2Jzlk2D053PRFg8pMYAhyV) | [Cheat Codes](https://open.spotify.com/artist/7DMveApC7UnC2NPfPvlHSU), [Julia Church](https://open.spotify.com/artist/4dHGNdVhBxCJUyMk9dR727) | [Modern Tragedy](https://open.spotify.com/album/7B4aT17IgD8dMcyEQWxQqk) | 2:59 | 2024-09-13 | 2024-09-21 |
 | [Moet](https://open.spotify.com/track/0cvm0gUEgGJjb8G9FOBb4c) | [Ambrxse](https://open.spotify.com/artist/47oNSHfwymN7Gg2IftahRA) | [Moet](https://open.spotify.com/album/2KY1vgjFku5XlzMNAuQHPA) | 2:53 | 2024-05-25 | 2024-06-01 |
+| [Moirai](https://open.spotify.com/track/3Btlz8mhgwARWVtBK7pHfd) | [Oxime](https://open.spotify.com/artist/5QKvr3RLdyetvVGmNa31Ja) | [Moirai](https://open.spotify.com/album/3lskTDO9ZOYydDdYMjfIIc) | 3:38 | 2025-01-20 |  |
 | [Moksha](https://open.spotify.com/track/3gIiHZw97BRB75XbV3dhpi) | [Kniven](https://open.spotify.com/artist/7pi7IVEKFo71OOuzSMRWvB) | [Moksha](https://open.spotify.com/album/5c6AvaDGrGqrdgVkBwNe0M) | 3:00 | 2024-06-24 | 2024-06-29 |
 | [Moments](https://open.spotify.com/track/0BU2hNH4lvkignYKP6kJW8) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Z3LLA](https://open.spotify.com/artist/5GsXRkwr74MAPYBjrgUT02) | [Moments](https://open.spotify.com/album/3wLwVLZ25BdqRKjcnWSTx5) | 3:08 | 2024-06-07 | 2024-06-17 |
 | [Money](https://open.spotify.com/track/7MorE45c2IBxEgksN84Fl2) | [Slushii](https://open.spotify.com/artist/41rVuRHYAiH7ltBTHVR9We), [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [Money](https://open.spotify.com/album/2II1KH1QTYVhSLdfubOaVV) | 3:07 | 2025-01-17 |  |

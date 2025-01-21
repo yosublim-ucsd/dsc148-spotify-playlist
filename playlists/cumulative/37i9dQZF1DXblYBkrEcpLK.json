@@ -1297,6 +1297,24 @@
     },
     {
       "album": {
+        "name": "Contrast",
+        "url": "https://open.spotify.com/album/6vptFPctTJu6HtY1yAwZPI"
+      },
+      "artists": [
+        {
+          "name": "TOMOO",
+          "url": "https://open.spotify.com/artist/6rm1uaZjykvKCobTzRPs35"
+        }
+      ],
+      "date_added": "2025-01-08",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258500,
+      "name": "Contrast",
+      "url": "https://open.spotify.com/track/7xsztWMVvAzfNVyaCqW2Tj"
+    },
+    {
+      "album": {
         "name": "\u6238\u677e\u9065 BEST SELECTION -sunshine-",
         "url": "https://open.spotify.com/album/3VxTL7TBs3IwXMqQNLX2lM"
       },
@@ -9358,7 +9376,7 @@
       ],
       "date_added": "2022-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 178586,
       "name": "\u30c1\u30ab\u3063\u3068\u30c1\u30ab\u5343\u82b1\u3063",
       "url": "https://open.spotify.com/track/31E8YKD0j4cI1R0gfocCtb"

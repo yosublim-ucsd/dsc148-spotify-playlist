@@ -4,7 +4,7 @@
 
 > Türkiye'nin en sıkı çalma listesi\. Kapak: UZI
 
-526 songs - 23 hr 47 min
+527 songs - 23 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -211,6 +211,7 @@
 | [hep bir şeyler eksik](https://open.spotify.com/track/5LADOmbui5XFOpCk9n67RE) | [Patron](https://open.spotify.com/artist/2r8iLFeSTuOiZualHmSXxS) | [hep bir şeyler eksik](https://open.spotify.com/album/237jXHICSyd66ncjz3LIZ8) | 3:15 | 2023-07-20 | 2023-08-11 |
 | [Hep Sonradan](https://open.spotify.com/track/1RzUIIDzTvcX4Xc4UQs8Gf) | [Grogi](https://open.spotify.com/artist/40PllTYqoDKRna2jm9Gf8D), [Kalben](https://open.spotify.com/artist/4sldxVDeyb0J8OMoYApqfV) | [Hep Sonradan](https://open.spotify.com/album/3CyRyRF9zaWko9R7F6u8W4) | 2:32 | 2024-01-11 | 2024-01-26 |
 | [Her Anımız Yalan](https://open.spotify.com/track/04NyI7FUO6arfT5KnoX9el) | [Ahmet Balci](https://open.spotify.com/artist/0V8MPLRHPb0ei3CcLxoxQU), [KANSU](https://open.spotify.com/artist/7AIRm3U8ME5GufkEis66r7), [cakal](https://open.spotify.com/artist/6CPZWzcKiOKkHn4L2XI4i2) | [Her Anımız Yalan](https://open.spotify.com/album/4SikauJ4hJzK3Q8QttBmGb) | 2:42 | 2024-03-07 | 2024-04-05 |
+| [HER GÜN AĞLADIM](https://open.spotify.com/track/4K64OOHItyspEsQFLobJqn) | [BEGE](https://open.spotify.com/artist/6q1sTU51oryTTcWTPTd0VC), [Reynmen](https://open.spotify.com/artist/1Fg19vpUJpAAPFjnKaVYVW) | [HER GÜN AĞLADIM](https://open.spotify.com/album/5GaZBROdkVIR1dDGJTLAqS) | 3:52 | 2025-01-20 |  |
 | [HER YER FAVELA](https://open.spotify.com/track/5fuPdS5jBncmRu9uu1MLOr) | [Critical](https://open.spotify.com/artist/6dOAGo4z0syiCjbnlh4VSO), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Heijan](https://open.spotify.com/artist/0KOSzgkMlkeowt1tgIg6ca), [Muti](https://open.spotify.com/artist/3NPQ2qMGXAR0g1COJxuZ8r) | [HER YER FAVELA](https://open.spotify.com/album/3PWIyRztWQE0AICzbD3Dpb) | 3:33 | 2024-09-19 |  |
 | [Hikaye Bitti Çoktan](https://open.spotify.com/track/2mgN0kh91PY3hlY88s3Zz5) | [Kayra](https://open.spotify.com/artist/5UqZ7BXoccyvTHyXLk1Pk3) | [Ömrümün Son Güzel Günleri](https://open.spotify.com/album/36wDwn7fld4l2Qw77qXnvX) | 2:17 | 2024-11-07 | 2024-12-05 |
 | [Hot Baklava](https://open.spotify.com/track/022rI0RuFfCXbccNYdQF1l) | [Geenaro & Ghana Beats](https://open.spotify.com/artist/6QJo3m62pMHNWqSwgwt2qz), [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Ezhel](https://open.spotify.com/artist/6LnJKrtFnTEGdbWQ2riWCL), [Summer Cem](https://open.spotify.com/artist/3drqpTL4sQOckmAfF9i1wg) | [Hot Baklava](https://open.spotify.com/album/0rrBvjk4AUIo737hTUSM7k) | 2:20 | 2023-07-27 | 2023-08-19 |
@@ -433,7 +434,7 @@
 | [SENIN UGRUNA](https://open.spotify.com/track/5flH7FY4ledAQboO5a0XQ5) | [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1), [Mavi](https://open.spotify.com/artist/3BVPc9s4JXzM6O1InlLxED) | [EL CHAVO](https://open.spotify.com/album/6nmFMrH9R3JpIgxtiJq3hY) | 2:02 | 2023-01-10 | 2023-12-14 |
 | [Senin Yüzünden](https://open.spotify.com/track/2IEVhvv5LOFnsz6FQl7Wr3) | [Etki](https://open.spotify.com/artist/2eHCB9X3BalOW2a3zjYJeg), [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [Senin Yüzünden](https://open.spotify.com/album/6DDJbeIc0r9H1z1NpQRmMi) | 2:42 | 2024-05-30 | 2024-07-05 |
 | [Senle Ben](https://open.spotify.com/track/0APrifqDZH9Ip6Nnmitin6) | [Ero](https://open.spotify.com/artist/1MeqFJRoXLAjOdqXlJaPwQ) | [Senle Ben](https://open.spotify.com/album/1EHtaUDiYBycqYDhHyPZog) | 2:25 | 2024-10-24 | 2024-11-22 |
-| [SEVGİ](https://open.spotify.com/track/4UHqIAacNKHUq1yYv5Xfob) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [SEVGİ](https://open.spotify.com/album/0uuodlzRuwI7wmlyQ3m9C9) | 3:18 | 2025-01-02 |  |
+| [SEVGİ](https://open.spotify.com/track/4UHqIAacNKHUq1yYv5Xfob) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj) | [SEVGİ](https://open.spotify.com/album/0uuodlzRuwI7wmlyQ3m9C9) | 3:18 | 2025-01-02 | 2025-01-21 |
 | [SEVGİ](https://open.spotify.com/track/71WZZITUdeaSrO64IEvTpB) | [Murda](https://open.spotify.com/artist/09WqkYnqWKUQAYSlEvaf6s), [UZI](https://open.spotify.com/artist/51DevdOxIJin6DB1FXJpD1) | [SEVGİ](https://open.spotify.com/album/6V4Lw81mboujvK3S7hJvou) | 2:10 | 2024-07-25 | 2024-08-23 |
 | [SEVMEYİ DENEMEDİN](https://open.spotify.com/track/3ff93VTp2DBbNnDEsAW8Cm) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [OBSESIF](https://open.spotify.com/album/6YCjQU0ElZ6YbC2HaBuLic) | 2:52 | 2024-09-25 |  |
 | [Sevmiş Gibi](https://open.spotify.com/track/4NeOAItkkLHPOw35eDdGQo) | [Eftalya Yağcı](https://open.spotify.com/artist/27JkefjyyNpoRTWGDIt6Tc), [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r) | [Sevmiş Gibi](https://open.spotify.com/album/4NCr871WaDS8dLFk6wBMA8) | 2:30 | 2023-01-10 | 2023-06-30 |

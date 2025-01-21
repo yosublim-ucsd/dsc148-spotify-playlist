@@ -1,6 +1,6 @@
 {
   "description": "Nagrody rozdane! Pos\u0142uchaj wygranych i nominowanych do nagr\u00f3d Fryderyk w kategorii muzyka rozrywkowa i jazz.",
-  "num_followers": 14838,
+  "num_followers": 14844,
   "original_name": "Fryderyk 2024",
   "owner": {
     "name": "Spotify",
@@ -575,22 +575,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "M\u00f3j kot zagin\u0105\u0142 i ju\u017c raczej nie wr\u00f3ci",
-        "url": "https://open.spotify.com/album/3zJrFaN9gkHc32uBAwh6CT"
-      },
-      "artists": [
-        {
-          "name": "Dawid Tyszkowski",
-          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
-        }
-      ],
-      "duration_ms": 211366,
-      "name": "Wiem, \u017ce ci ci\u0119\u017cko",
-      "url": "https://open.spotify.com/track/5pCfadURq3FyeLjIfbJQdA"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "Sadza Delux",
         "url": "https://open.spotify.com/album/7cukwLQ4grlGJcB3rFAfBA"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 215717,
       "name": "Jezioro szcz\u0119\u015bcia - Bonus Track",
       "url": "https://open.spotify.com/track/16r1IlfSqrBVYKVeZvdmzl"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "M\u00f3j kot zagin\u0105\u0142 i ju\u017c raczej nie wr\u00f3ci",
+        "url": "https://open.spotify.com/album/3zJrFaN9gkHc32uBAwh6CT"
+      },
+      "artists": [
+        {
+          "name": "Dawid Tyszkowski",
+          "url": "https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K"
+        }
+      ],
+      "duration_ms": 211366,
+      "name": "Wiem, \u017ce ci ci\u0119\u017cko",
+      "url": "https://open.spotify.com/track/5pCfadURq3FyeLjIfbJQdA"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
+        "name": "Pocz\u0105tek",
+        "url": "https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY"
+      },
+      "artists": [
+        {
+          "name": "Miuosh",
+          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
+        }
+      ],
+      "duration_ms": 271461,
+      "name": "Pocz\u0105tek",
+      "url": "https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
         "name": "Horyzont Zdarze\u0144",
         "url": "https://open.spotify.com/album/5JqsTZOSxsihfzsaACeNyE"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 288922,
       "name": "Czas Nie Leczy Ran",
       "url": "https://open.spotify.com/track/7ASf5D6jl1WR0nZZCqXLJj"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
-        "name": "Pocz\u0105tek",
-        "url": "https://open.spotify.com/album/049sW8ENjB8HtNXRHmQ0tY"
-      },
-      "artists": [
-        {
-          "name": "Miuosh",
-          "url": "https://open.spotify.com/artist/3BroLrMp9Q01yOnhLn9qxX"
-        }
-      ],
-      "duration_ms": 271461,
-      "name": "Pocz\u0105tek",
-      "url": "https://open.spotify.com/track/54BfcKAKZwBwZ2I4PgCcup"
     },
     {
       "added_at": "2024-03-25 08:52:09",
@@ -1267,22 +1267,6 @@
     {
       "added_at": "2024-03-25 08:52:09",
       "album": {
-        "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
-        "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
-      },
-      "artists": [
-        {
-          "name": "Same Suki",
-          "url": "https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd"
-        }
-      ],
-      "duration_ms": 99000,
-      "name": "Pie\u015b\u0144 baby",
-      "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
-    },
-    {
-      "added_at": "2024-03-25 08:52:09",
-      "album": {
         "name": "COINCIDENCE",
         "url": "https://open.spotify.com/album/0dEvwkzElOY7uyOS4nAusy"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 127535,
       "name": "Coincidence - Part 1 - Prologue",
       "url": "https://open.spotify.com/track/7mWqeujJUaztW33EGT8Pc3"
+    },
+    {
+      "added_at": "2024-03-25 08:52:09",
+      "album": {
+        "name": "Dziadoskie piosenki o mi\u0142o\u015bci",
+        "url": "https://open.spotify.com/album/224o8MDqjyjMcZ8NPGvwrU"
+      },
+      "artists": [
+        {
+          "name": "Same Suki",
+          "url": "https://open.spotify.com/artist/6axNRfRIwykkAvM1m9DHHd"
+        }
+      ],
+      "duration_ms": 99000,
+      "name": "Pie\u015b\u0144 baby",
+      "url": "https://open.spotify.com/track/49sM2mKl9RSGD9ebKwp32V"
     },
     {
       "added_at": "2024-03-25 08:52:09",

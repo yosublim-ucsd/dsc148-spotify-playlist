@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-15",
-  "description": "Sedihe koyo ngene, jangan ya dek ya! \ud83d\ude22",
+  "description": "Sedihe kok tekan koyo ngene? Ya dijogeti wae! \ud83d\ude22",
   "name": "Ambyar",
   "tracks": [
     {
@@ -1408,6 +1408,24 @@
       "duration_ms": 297230,
       "name": "Pelanggaran",
       "url": "https://open.spotify.com/track/7tkOXJNeDNCeX9Jz3K1M3l"
+    },
+    {
+      "album": {
+        "name": "Pepisahan",
+        "url": "https://open.spotify.com/album/6fEQf1bNuwNDxq9xUyESiU"
+      },
+      "artists": [
+        {
+          "name": "Vadesta",
+          "url": "https://open.spotify.com/artist/7vAiI188SHEmVcvPgqnzYO"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258000,
+      "name": "Pepisahan",
+      "url": "https://open.spotify.com/track/4W8mIGnU6RFfOg6EVjMiTo"
     },
     {
       "album": {

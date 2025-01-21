@@ -1,6 +1,6 @@
 {
   "description": "Hardcore, Frenchcore and uptempo to get you pumped",
-  "num_followers": 79201,
+  "num_followers": 79249,
   "original_name": "Hardcore Rage 2025",
   "owner": {
     "name": "Spotify",
@@ -923,22 +923,6 @@
     {
       "added_at": "2025-01-10 10:22:26",
       "album": {
-        "name": "Higher",
-        "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
-      },
-      "artists": [
-        {
-          "name": "Korsakoff",
-          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
-        }
-      ],
-      "duration_ms": 234846,
-      "name": "Higher",
-      "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
-    },
-    {
-      "added_at": "2025-01-10 10:22:26",
-      "album": {
         "name": "Make It Blow",
         "url": "https://open.spotify.com/album/5yLdm7G94B4SDGL0kNH0xu"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 175500,
       "name": "Make It Blow",
       "url": "https://open.spotify.com/track/5mOPlGjV7TmXM4dkIgsMpU"
+    },
+    {
+      "added_at": "2025-01-10 10:22:26",
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/4BWyDlJgFG1aPEF7NvHFEM"
+      },
+      "artists": [
+        {
+          "name": "Korsakoff",
+          "url": "https://open.spotify.com/artist/1rWaCpcmmjycvD00Kf6YyE"
+        }
+      ],
+      "duration_ms": 234846,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/1QdqN2pX7iLIhN9XmxReGX"
     },
     {
       "added_at": "2025-01-10 10:22:26",

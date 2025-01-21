@@ -4,10 +4,11 @@
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-131 songs - 7 hr 1 min
+132 songs - 7 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [All in the Mood \(Everybody's in the Mood\)](https://open.spotify.com/track/5T0RKELHLZS8DaHT7qwax9) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Essential Classics, Vol\. 435: Howlin' Wolf](https://open.spotify.com/album/6vuFaQeftqSS8TWli6HGOX) | 2:59 | 2025-01-21 |  |
 | [All In The Mood \(Everybody's In The Mood\)](https://open.spotify.com/track/7bwTE6zcxNSNPTcNgrv0tR) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:59 | 2024-01-24 | 2024-07-24 |
 | [All My Life \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/639q2BhIjvi2kt2SiVqb7d) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 4:08 | 2024-07-01 | 2024-11-03 |
 | [All Night Boogie \(All Night Long\)](https://open.spotify.com/track/6UXUwb2mZK0LFsColT6uup) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:15 | 2022-11-02 | 2024-02-24 |

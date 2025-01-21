@@ -1,12 +1,12 @@
 {
   "description": "New Music from Kollywood.\nCover : Vidaamuyarchi",
-  "num_followers": 691746,
+  "num_followers": 691887,
   "original_name": "Latest Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4ywJQAAAABK8e+tikOJAKU9Sh5UmJm4",
+  "snapshot_id": "Z47qRQAAAACoHB6yQanFpVbiGzuIE0gf",
   "tracks": [
     {
       "added_at": "2024-12-27 07:40:07",
@@ -197,6 +197,34 @@
       "url": "https://open.spotify.com/track/2SD9x7M7leWlQr2JCm0iH4"
     },
     {
+      "added_at": "2025-01-20 04:27:02",
+      "album": {
+        "name": "Zebra [TAMIL]",
+        "url": "https://open.spotify.com/album/5YBsokWbvZzTmfT760YMeX"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Airaa Udupi",
+          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "duration_ms": 193010,
+      "name": "Tere Bina [TAMIL]",
+      "url": "https://open.spotify.com/track/38lUZqXDoamAlbfbHJKAe5"
+    },
+    {
       "added_at": "2025-01-13 05:38:48",
       "album": {
         "name": "Vaa Kannamma (From \"Once More\")",
@@ -239,6 +267,54 @@
       "duration_ms": 255535,
       "name": "Solliduma (From \"Gagana Maargan\")",
       "url": "https://open.spotify.com/track/3u1nMPir8BwzUrNjAgvDqq"
+    },
+    {
+      "added_at": "2025-01-20 09:31:27",
+      "album": {
+        "name": "Kanna Kattikittu (From \"Kudumbasthan\")",
+        "url": "https://open.spotify.com/album/5kgKSSuDn7nmfHI5btEVBr"
+      },
+      "artists": [
+        {
+          "name": "vaisagh",
+          "url": "https://open.spotify.com/artist/61ARIGyeQjBmULCy2ckSTp"
+        },
+        {
+          "name": "G. V. Prakash",
+          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
+        }
+      ],
+      "duration_ms": 187714,
+      "name": "Kanna Kattikittu - From \"Kudumbasthan\"",
+      "url": "https://open.spotify.com/track/7q2lmi9S6sHvgvZ84D9tjf"
+    },
+    {
+      "added_at": "2025-01-20 09:33:20",
+      "album": {
+        "name": "Edho Pesathaane (From \"Bun Butter Jam\")",
+        "url": "https://open.spotify.com/album/0KLF3QPbZJowPQTI80SItm"
+      },
+      "artists": [
+        {
+          "name": "Nivas K Prasanna",
+          "url": "https://open.spotify.com/artist/3RN1T82XXhayseL1rCdJnp"
+        },
+        {
+          "name": "Siddharth",
+          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Vijay Sethupathi",
+          "url": "https://open.spotify.com/artist/31lzE0FfEcg2oIMD8FlICU"
+        }
+      ],
+      "duration_ms": 191831,
+      "name": "Edho Pesathaane (From \"Bun Butter Jam\")",
+      "url": "https://open.spotify.com/track/32SaT2wjoj4RolPQVYHbZc"
     },
     {
       "added_at": "2024-12-20 13:58:59",
@@ -337,6 +413,30 @@
       "url": "https://open.spotify.com/track/79E8OWqnXS94tghoQH4xtz"
     },
     {
+      "added_at": "2025-01-20 09:36:07",
+      "album": {
+        "name": "Semmannu Thaane (From \"Aghathiyaa\")",
+        "url": "https://open.spotify.com/album/1rMSFJSQ0u52yqWNFZRMka"
+      },
+      "artists": [
+        {
+          "name": "Yuvan Shankar Raja",
+          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
+        },
+        {
+          "name": "Pa. Vijay",
+          "url": "https://open.spotify.com/artist/1dg4azP3LshEhi3moXgJQv"
+        },
+        {
+          "name": "M.M.Manasi",
+          "url": "https://open.spotify.com/artist/3JGrxsZ6kfzJrfwsxwERhS"
+        }
+      ],
+      "duration_ms": 226000,
+      "name": "Semmannu Thaane (From \"Aghathiyaa\")",
+      "url": "https://open.spotify.com/track/5puuRIzzQlsgmnNrUjsXxp"
+    },
+    {
       "added_at": "2025-01-16 09:46:54",
       "album": {
         "name": "Tharunam (Original Motion Picture Soundtrack)",
@@ -359,6 +459,58 @@
       "duration_ms": 325000,
       "name": "Kaatrai Ketten",
       "url": "https://open.spotify.com/track/3mtKnIxODoBtiTT35JMPmB"
+    },
+    {
+      "added_at": "2025-01-21 00:28:53",
+      "album": {
+        "name": "Bujji Kutty (From \"Thandel\")(Tamil)",
+        "url": "https://open.spotify.com/album/0RyIourBzjNOlOXoIjeJwH"
+      },
+      "artists": [
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Javed Ali",
+          "url": "https://open.spotify.com/artist/4W91bbPB2CTSsHwt7eqNl7"
+        },
+        {
+          "name": "Viveka",
+          "url": "https://open.spotify.com/artist/5r80gH9ibGjUVSQrXD8W7Z"
+        }
+      ],
+      "duration_ms": 251682,
+      "name": "Bujji Kutty (From \"Thandel\")(Tamil)",
+      "url": "https://open.spotify.com/track/6fqDwVIIbilQc2gIzPzNKy"
+    },
+    {
+      "added_at": "2025-01-20 04:27:02",
+      "album": {
+        "name": "Zebra [TAMIL]",
+        "url": "https://open.spotify.com/album/5YBsokWbvZzTmfT760YMeX"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Airaa Udupi",
+          "url": "https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "duration_ms": 247130,
+      "name": "Teri Meri [TAMIL]",
+      "url": "https://open.spotify.com/track/3DUpAHgALMDxL1Q8Afprxc"
     },
     {
       "added_at": "2024-11-25 11:35:27",
@@ -399,6 +551,30 @@
       "duration_ms": 354000,
       "name": "Mounam Pole",
       "url": "https://open.spotify.com/track/2AUMBf2OyuGZH0f88JPYGQ"
+    },
+    {
+      "added_at": "2025-01-20 04:27:02",
+      "album": {
+        "name": "Zebra [TAMIL]",
+        "url": "https://open.spotify.com/album/5YBsokWbvZzTmfT760YMeX"
+      },
+      "artists": [
+        {
+          "name": "Santhosh Venky",
+          "url": "https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q"
+        },
+        {
+          "name": "Ravi Basrur",
+          "url": "https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn"
+        },
+        {
+          "name": "Ku Karthik",
+          "url": "https://open.spotify.com/artist/7L5BLP9ezpFtEOas3AR0Ny"
+        }
+      ],
+      "duration_ms": 221375,
+      "name": "Vaaya Naina [TAMIL]",
+      "url": "https://open.spotify.com/track/3kaM8d6bePBqXIW2m83XHT"
     },
     {
       "added_at": "2025-01-07 08:46:47",
@@ -575,54 +751,6 @@
       "duration_ms": 188160,
       "name": "Trauma Varalaama (From \"Trauma\")",
       "url": "https://open.spotify.com/track/5wbTCN24XJsopI60gkysb2"
-    },
-    {
-      "added_at": "2025-01-08 12:27:13",
-      "album": {
-        "name": "Kadhalikka Neramillai",
-        "url": "https://open.spotify.com/album/7mbvUIVOl6vON1sCqdPJjT"
-      },
-      "artists": [
-        {
-          "name": "A. R. Ameen",
-          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
-        },
-        {
-          "name": "Suba",
-          "url": "https://open.spotify.com/artist/3QZfQ7Y4Ryh67pzgApuE0g"
-        },
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Vivek",
-          "url": "https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx"
-        },
-        {
-          "name": "Thoughtsfornow",
-          "url": "https://open.spotify.com/artist/6UZh26X3rn1LVK5lLn4FoG"
-        }
-      ],
-      "duration_ms": 212134,
-      "name": "Muevelo",
-      "url": "https://open.spotify.com/track/1Ky0zG5kIvkMRI8TUCAlMJ"
-    },
-    {
-      "added_at": "2024-12-18 09:35:10",
-      "album": {
-        "name": "Vanangaan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/0PFQFkLYmV0aTo9nE2c6ES"
-      },
-      "artists": [
-        {
-          "name": "Saindhavi",
-          "url": "https://open.spotify.com/artist/6rEXjeIJ0wL6BFdo8CRcit"
-        }
-      ],
-      "duration_ms": 292727,
-      "name": "Mugilin Meley",
-      "url": "https://open.spotify.com/track/26LPkmgujMTneNIeSPLKw1"
     },
     {
       "added_at": "2024-11-29 13:03:56",
@@ -837,22 +965,6 @@
       "url": "https://open.spotify.com/track/75eps4bp6S4gDUMDlE9K1o"
     },
     {
-      "added_at": "2024-12-16 06:07:55",
-      "album": {
-        "name": "Veera Dheera Theme (From \"Veera Dheera Sooran\")",
-        "url": "https://open.spotify.com/album/74Kl743x5GWhcGMQ9Jf0iR"
-      },
-      "artists": [
-        {
-          "name": "G. V. Prakash",
-          "url": "https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ"
-        }
-      ],
-      "duration_ms": 92250,
-      "name": "Veera Dheera Theme - From \"Veera Dheera Sooran\"",
-      "url": "https://open.spotify.com/track/6vf6elFw4xCnGrNpS30ztJ"
-    },
-    {
       "added_at": "2025-01-07 08:43:32",
       "album": {
         "name": "Nesippaya",
@@ -969,30 +1081,6 @@
       "url": "https://open.spotify.com/track/0mkmulwOx8opifY1xOApwk"
     },
     {
-      "added_at": "2024-12-11 13:33:02",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4wMNVt7LrNgixdogpG2BkF"
-      },
-      "artists": [
-        {
-          "name": "Deepthi Suresh",
-          "url": "https://open.spotify.com/artist/4PY2xnTu90K0hvkgcljRJl"
-        },
-        {
-          "name": "Ghibran",
-          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
-        },
-        {
-          "name": "Bharathiyar",
-          "url": "https://open.spotify.com/artist/0VP3C7L04jVqp5rBfD0cQX"
-        }
-      ],
-      "duration_ms": 187076,
-      "name": "Aasai Mugam",
-      "url": "https://open.spotify.com/track/6cQ47FMSIJLC5RRI0Wzz0z"
-    },
-    {
       "added_at": "2025-01-06 13:17:52",
       "album": {
         "name": "Kadhale Kadhale",
@@ -1015,34 +1103,6 @@
       "duration_ms": 185324,
       "name": "Kadhale Kadhale Title Track",
       "url": "https://open.spotify.com/track/5juWX1QtIscougyDs7aA0x"
-    },
-    {
-      "added_at": "2024-12-24 10:34:53",
-      "album": {
-        "name": "Hot'tu Mamma (From \"Max\") (Tamil)",
-        "url": "https://open.spotify.com/album/4OduR1NeG0fRsRbt5g4aI1"
-      },
-      "artists": [
-        {
-          "name": "B. Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
-        },
-        {
-          "name": "Aniruddha Sastry",
-          "url": "https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa"
-        },
-        {
-          "name": "Aishwarya Rangarajan",
-          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
-        },
-        {
-          "name": "Vijay Kartikeyaa",
-          "url": "https://open.spotify.com/artist/1f9mvJjMvHo8wur1MpSio1"
-        }
-      ],
-      "duration_ms": 183408,
-      "name": "Hot'tu Mamma (From \"Max\") (Tamil)",
-      "url": "https://open.spotify.com/track/6ePYYH0wZLtRbcUleR9O24"
     },
     {
       "added_at": "2024-12-10 11:36:06",
@@ -1091,30 +1151,6 @@
       "duration_ms": 254228,
       "name": "Makkamishi",
       "url": "https://open.spotify.com/track/0EvlR7AONHr9BcsFp1QOGE"
-    },
-    {
-      "added_at": "2024-12-11 13:33:02",
-      "album": {
-        "name": "Miss You",
-        "url": "https://open.spotify.com/album/4wMNVt7LrNgixdogpG2BkF"
-      },
-      "artists": [
-        {
-          "name": "Siddharth",
-          "url": "https://open.spotify.com/artist/4K42hgH9ltvSq74hcOC85P"
-        },
-        {
-          "name": "Ghibran",
-          "url": "https://open.spotify.com/artist/3jw2v5ZbSWBinNaECXq8cJ"
-        },
-        {
-          "name": "Mohan Rajan",
-          "url": "https://open.spotify.com/artist/5ZBar35f3oB1F9TcWAa3ma"
-        }
-      ],
-      "duration_ms": 206208,
-      "name": "Nee Enna Paathiye",
-      "url": "https://open.spotify.com/track/3ObyqiaFPBkhk0XlGhwdiz"
     },
     {
       "added_at": "2024-11-18 08:06:19",

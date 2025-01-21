@@ -4,7 +4,7 @@
 
 > Elegant classical guitar to accompany your favourite Italian coffee.
 
-535 songs - 22 hr 39 min
+536 songs - 22 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -309,6 +309,7 @@
 | [Monte de Fuego](https://open.spotify.com/track/7guIP6Tpq7QYQNapYYpC0K) | [Gerson Lizama](https://open.spotify.com/artist/7JJMRNaFGLhYUIC59g4xGL) | [Monte de Fuego](https://open.spotify.com/album/4xPAVzwGR2Z3b6pMkvQVPI) | 3:15 | 2022-06-17 | 2023-06-03 |
 | [Montes Claros](https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi) | [Adeben](https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg) | [Montes Claros](https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8) | 2:45 | 2023-10-13 | 2025-01-14 |
 | [Montparnasse](https://open.spotify.com/track/2i6pz9Ep7NtDsvWwB2qaLv) | [Armand Beck](https://open.spotify.com/artist/2XPkhhGa0J9qSSTtJU0GEa) | [Montparnasse](https://open.spotify.com/album/4qqnELFcHC3MciJUGtqOZ0) | 2:33 | 2024-08-20 |  |
+| [More Calm Than I Used to Be](https://open.spotify.com/track/6kqadqqS3qlmyA9tlz24em) | [Maximilian Aird](https://open.spotify.com/artist/2YEYZMKfhaoln2CS8q7Kg0) | [More Calm Than I Used to Be](https://open.spotify.com/album/0XA3FrcyyjtZyebo8ucNHd) | 2:41 | 2025-01-20 |  |
 | [More than this](https://open.spotify.com/track/4mnfj436ikMOudVg4QEPsj) | [Ciara Lowry](https://open.spotify.com/artist/2tVmWsY4FJRSV3ciYlsW2S) | [More than this](https://open.spotify.com/album/5u06wlVmeF3Zl6NJReboo8) | 2:39 | 2024-01-12 |  |
 | [Morgensonne](https://open.spotify.com/track/3ozSKHP42w2mYbkmqEnfOq) | [Aurelius Schmidt](https://open.spotify.com/artist/4DRJD1JI9CaeeHH9LrkzbY) | [Sandrina](https://open.spotify.com/album/6Is2bPoXegoPbnYTzVD7nB) | 2:26 | 2022-06-17 | 2024-04-20 |
 | [Morning Ritual](https://open.spotify.com/track/24aREp2kgpTPjcgBD5ccSh) | [Kari Peterson](https://open.spotify.com/artist/0g8tWO2SWoLIRaCiXWky5w) | [A Single Rose](https://open.spotify.com/album/7aGJT4P2S8Eh1XaE2YQ8mP) | 2:42 | 2022-06-17 | 2024-07-18 |

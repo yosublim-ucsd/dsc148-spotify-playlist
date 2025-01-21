@@ -106,7 +106,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 200727,
       "name": "Birthday Party",
       "url": "https://open.spotify.com/track/3mgv9OYYeTzVc0VPWSmb7O"
@@ -1985,6 +1985,28 @@
     },
     {
       "album": {
+        "name": "See You Next Year",
+        "url": "https://open.spotify.com/album/4g3JGSmunWpfVKtyuJsa3p"
+      },
+      "artists": [
+        {
+          "name": "Arimasen",
+          "url": "https://open.spotify.com/artist/7lp5HmV500UD5aKnTzrYcz"
+        },
+        {
+          "name": "KoruSe",
+          "url": "https://open.spotify.com/artist/3EdNJeTXrsR5jbmICchj3R"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232682,
+      "name": "See You Next Year (Slowed)",
+      "url": "https://open.spotify.com/track/4N5CPL89XOc7vmBJaxEI79"
+    },
+    {
+      "album": {
         "name": "In The Beginning There Was Driftscape",
         "url": "https://open.spotify.com/album/4COj84ImYNkny0xWNuto24"
       },
@@ -2346,7 +2368,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 182124,
       "name": "The Unknown",
       "url": "https://open.spotify.com/track/5BilQDvjG6wn2emz32svm5"
@@ -2404,6 +2426,24 @@
       "duration_ms": 168336,
       "name": "UNIX 82",
       "url": "https://open.spotify.com/track/2sMHHYFv6nOLVhQO5RKRpL"
+    },
+    {
+      "album": {
+        "name": "Valentina",
+        "url": "https://open.spotify.com/album/4spKQQXCmCyHKTgObWWfGE"
+      },
+      "artists": [
+        {
+          "name": "Skolnick",
+          "url": "https://open.spotify.com/artist/4PoidmOtSTFplZWtUC2qLt"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174947,
+      "name": "Valentina",
+      "url": "https://open.spotify.com/track/23CMTsEHgMsug4DyafCpqH"
     },
     {
       "album": {

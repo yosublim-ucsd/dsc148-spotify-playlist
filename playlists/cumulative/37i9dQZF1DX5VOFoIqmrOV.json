@@ -1370,7 +1370,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 232762,
       "name": "Ee Raathale",
       "url": "https://open.spotify.com/track/77feKtBcyhRv4SE2u6dd9R"
@@ -1538,7 +1538,7 @@
       ],
       "date_added": "2023-05-04",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 242412,
       "name": "Emo Emo",
       "url": "https://open.spotify.com/track/1kYg9IZJ9QwrnHaJztmK5n"
@@ -2562,7 +2562,7 @@
       ],
       "date_added": "2021-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 247660,
       "name": "Laahe Laahe",
       "url": "https://open.spotify.com/track/6rcTPn1CwOyuskilY12IqL"
@@ -2580,7 +2580,7 @@
       ],
       "date_added": "2022-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 245093,
       "name": "Leharaayi",
       "url": "https://open.spotify.com/track/0pCXbJ3lbtinCZnwg1CYDC"
@@ -3193,6 +3193,36 @@
     },
     {
       "album": {
+        "name": "Game Changer (Telugu)",
+        "url": "https://open.spotify.com/album/3wuQ79aExSzvo3n5tmM9Yx"
+      },
+      "artists": [
+        {
+          "name": "Thaman S",
+          "url": "https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN"
+        },
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Saraswati Putra Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4qVlHvud9UIJTJZsRL27kk"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272908,
+      "name": "NaaNaa Hyraanaa",
+      "url": "https://open.spotify.com/track/1rI7CPuz8ydyn0fdB0i2hZ"
+    },
+    {
+      "album": {
         "name": "RRR",
         "url": "https://open.spotify.com/album/61YvttQnza7qN7skU2CfyE"
       },
@@ -3208,7 +3238,7 @@
       ],
       "date_added": "2024-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 214399,
       "name": "Naatu Naatu",
       "url": "https://open.spotify.com/track/3XrGwVHapc5DYK75ZBKmuE"
@@ -4599,6 +4629,32 @@
     },
     {
       "album": {
+        "name": "Pushpa 2 The Rule [TELUGU]",
+        "url": "https://open.spotify.com/album/19wxNqNBGMba438PzfG4xm"
+      },
+      "artists": [
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260177,
+      "name": "Sooseki",
+      "url": "https://open.spotify.com/track/6EKYYYxJiDD40v6rg3pt07"
+    },
+    {
+      "album": {
         "name": "Srivalli (From \"Pushpa - The Rise\")(Telugu)",
         "url": "https://open.spotify.com/album/1iyTadvfpktJDCLF9GmHbL"
       },
@@ -4786,6 +4842,32 @@
       "duration_ms": 257925,
       "name": "Top Lesi Poddi",
       "url": "https://open.spotify.com/track/0FSrCEox8bEpO3RD6ZfEr5"
+    },
+    {
+      "album": {
+        "name": "Saripodhaa Sanivaaram (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7JKtsiV6oNgr4wGMHpAW0Q"
+      },
+      "artists": [
+        {
+          "name": "Jakes Bejoy",
+          "url": "https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt"
+        },
+        {
+          "name": "Sanjith Hegde",
+          "url": "https://open.spotify.com/artist/1plObTufEAfeL1hk8Qz24v"
+        },
+        {
+          "name": "Krishna Lasya Muthyala",
+          "url": "https://open.spotify.com/artist/6Xe2lU4AiHXTk3ehxlm7Ms"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Ullaasam",
+      "url": "https://open.spotify.com/track/00AfDW29vK3ZR3rVeSENpO"
     },
     {
       "album": {

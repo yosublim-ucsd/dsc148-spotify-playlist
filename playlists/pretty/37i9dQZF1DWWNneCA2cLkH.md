@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWNneCA2cLkH.md) - [plain]
 
 > These are the eclectic sounds of now\. Cover: Ethel Cain
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,461 likes - 98 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,462 likes - 98 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

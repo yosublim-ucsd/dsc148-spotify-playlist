@@ -1,12 +1,12 @@
 {
   "description": "EDM Sauce presents New EDM This Week! Updated this playlist every Friday with NEW EDM!",
-  "num_followers": 25841,
+  "num_followers": 25843,
   "original_name": "NEW EDM 2025 \u26a1 EDM HITS 2025 \u26a1 MUSICA ELECTRONICA 2025",
   "owner": {
     "name": "EDM Sauce",
     "url": "https://open.spotify.com/user/edmsauce"
   },
-  "snapshot_id": "AABhx8nvkbfhb+VfuXBDLgYJ86wyUaQc",
+  "snapshot_id": "AABhydGsoXZFAZj2DcviouZ+tzH4whNg",
   "tracks": [
     {
       "added_at": "2025-01-17 13:13:22",
@@ -291,6 +291,38 @@
       "duration_ms": 211705,
       "name": "burn it to the ground",
       "url": "https://open.spotify.com/track/6zwbgqvtYYRCNgAcQ0O3TY"
+    },
+    {
+      "added_at": "2025-01-20 20:56:51",
+      "album": {
+        "name": "Moirai",
+        "url": "https://open.spotify.com/album/3lskTDO9ZOYydDdYMjfIIc"
+      },
+      "artists": [
+        {
+          "name": "Oxime",
+          "url": "https://open.spotify.com/artist/5QKvr3RLdyetvVGmNa31Ja"
+        }
+      ],
+      "duration_ms": 218571,
+      "name": "Moirai",
+      "url": "https://open.spotify.com/track/3Btlz8mhgwARWVtBK7pHfd"
+    },
+    {
+      "added_at": "2025-01-20 20:56:49",
+      "album": {
+        "name": "Loops & Tings",
+        "url": "https://open.spotify.com/album/1BpJlqgF1id6vAJ2hN630B"
+      },
+      "artists": [
+        {
+          "name": "Jeckyll & Hyde",
+          "url": "https://open.spotify.com/artist/4rBAiM4X8nQq5r8XkW4CM1"
+        }
+      ],
+      "duration_ms": 148101,
+      "name": "Loops & Tings",
+      "url": "https://open.spotify.com/track/50mXU62jCPxphRlt4zqHEt"
     },
     {
       "added_at": "2025-01-19 16:15:52",

@@ -39453,6 +39453,24 @@
     },
     {
       "album": {
+        "name": "Know Myself",
+        "url": "https://open.spotify.com/album/5L7VejxbRqK5Mlk4B2Vefj"
+      },
+      "artists": [
+        {
+          "name": "Danielle Schroeder",
+          "url": "https://open.spotify.com/artist/0Zp8WvkAP8Faqe30N0QeuM"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186796,
+      "name": "Know Myself",
+      "url": "https://open.spotify.com/track/18gVkdWpteFqE3l1bVb5QF"
+    },
+    {
+      "album": {
         "name": "Lovergirl",
         "url": "https://open.spotify.com/album/3p85u0tI67x88CLMW1Trov"
       },
@@ -62640,7 +62658,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 204791,
       "name": "Scars",
       "url": "https://open.spotify.com/track/506z9idswzK8r9UuybLdzR"
@@ -65562,7 +65580,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 204695,
       "name": "So What If My Best Ain't Good Enough",
       "url": "https://open.spotify.com/track/6aBmLwEaiI2xuMC3ZKDpAu"

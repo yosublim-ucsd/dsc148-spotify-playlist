@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62463,
+  "num_followers": 62477,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4oXRAAAAABZZmr8yZVpLtpTafUgkJm2",
+  "snapshot_id": "Z43+bAAAAABFcDzsfx9IwyhYngLUCh/a",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -33,6 +33,34 @@
       "url": "https://open.spotify.com/track/3fYtnQP9CgiaT3JRfw4PCJ"
     },
     {
+      "added_at": "2025-01-20 07:38:56",
+      "album": {
+        "name": "Nanna Iniyana Neleya (From \"Sanju Weds Geetha 2\")",
+        "url": "https://open.spotify.com/album/7x3SgFFXlcH2E3Dro7oVWb"
+      },
+      "artists": [
+        {
+          "name": "Nanditha",
+          "url": "https://open.spotify.com/artist/0qBLXkziuBou13bmjY5z8i"
+        },
+        {
+          "name": "C. Ashwath",
+          "url": "https://open.spotify.com/artist/6XFS5akkEopdq78TxOCCVI"
+        },
+        {
+          "name": "V Shridhar Sambhram",
+          "url": "https://open.spotify.com/artist/1HYWQYYbgDimyIQLnSAsLb"
+        },
+        {
+          "name": "N.S. Lakshminarayana Bhat",
+          "url": "https://open.spotify.com/artist/7FecXdIQXbLct5cQuh4Hnl"
+        }
+      ],
+      "duration_ms": 201040,
+      "name": "Nanna Iniyana Neleya (From \"Sanju Weds Geetha 2\")",
+      "url": "https://open.spotify.com/track/54XTt4EXbxQz8D5VJHi7wI"
+    },
+    {
       "added_at": "2024-11-07 07:34:58",
       "album": {
         "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
@@ -51,6 +79,54 @@
       "duration_ms": 243271,
       "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ"
+    },
+    {
+      "added_at": "2025-01-20 07:42:36",
+      "album": {
+        "name": "Maaye (From \"Monk The Young\")",
+        "url": "https://open.spotify.com/album/3Sb61DZYyq15EfZX8b9uwK"
+      },
+      "artists": [
+        {
+          "name": "Siri Katte",
+          "url": "https://open.spotify.com/artist/0ZG5jmbAX5ENi7mlSq1J3F"
+        },
+        {
+          "name": "Prathap Bhatt",
+          "url": "https://open.spotify.com/artist/37ZkiQviKF0XwTDioXhntU"
+        }
+      ],
+      "duration_ms": 212584,
+      "name": "Maaye (From \"Monk The Young\")",
+      "url": "https://open.spotify.com/track/44lGUIJRNNM8svFDzc8URK"
+    },
+    {
+      "added_at": "2025-01-20 07:40:40",
+      "album": {
+        "name": "Budakke Benki (From \"Mr Rani\")",
+        "url": "https://open.spotify.com/album/0R8xRwtA1mSJoZdnXKYPq0"
+      },
+      "artists": [
+        {
+          "name": "Shivani Naveen",
+          "url": "https://open.spotify.com/artist/7CfAjNeEwzBDVuMTVHrJdf"
+        },
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Madhuchandra R",
+          "url": "https://open.spotify.com/artist/5n6HTFCffZJjaT2UkMPZRG"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        }
+      ],
+      "duration_ms": 254568,
+      "name": "Budakke Benki - From \"Mr Rani\"",
+      "url": "https://open.spotify.com/track/1SAqiPYTpnwntTdqvg02Ml"
     },
     {
       "added_at": "2025-01-13 10:25:36",
@@ -75,6 +151,30 @@
       "duration_ms": 238394,
       "name": "Kanmani - From \"Raju Jamesbond\"",
       "url": "https://open.spotify.com/track/2EzCzBtpQSB9v9ulgKtb5w"
+    },
+    {
+      "added_at": "2025-01-20 07:39:36",
+      "album": {
+        "name": "Elu Girigala (From \"Vishnu Priya\")",
+        "url": "https://open.spotify.com/album/6tFhRp8HywCuAjq0qfBSdf"
+      },
+      "artists": [
+        {
+          "name": "Harish Shivaramakrishnan",
+          "url": "https://open.spotify.com/artist/2ClUOa4ruQ8XXGmJwQ0NtB"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "Gopi Sundar",
+          "url": "https://open.spotify.com/artist/4xlqU0G9EloUPHL1qlmWY6"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Elu Girigala - From \"Vishnu Priya\"",
+      "url": "https://open.spotify.com/track/6GxepOD98VrV78xzVoY2Li"
     },
     {
       "added_at": "2025-01-16 04:34:58",
@@ -143,6 +243,30 @@
       "duration_ms": 159301,
       "name": "The Arrival (From \"45\")",
       "url": "https://open.spotify.com/track/4mNsYI4BkuvYLwyGulaM5p"
+    },
+    {
+      "added_at": "2025-01-20 07:40:08",
+      "album": {
+        "name": "Tampaada Tangaali (From \"Gana\")",
+        "url": "https://open.spotify.com/album/1rF9T3E1Wydnyzl0SXi0Hg"
+      },
+      "artists": [
+        {
+          "name": "J. Anoop Seelin",
+          "url": "https://open.spotify.com/artist/6ALy9cwte5hjLcjAjCxu4R"
+        },
+        {
+          "name": "Meghana Kulkarni",
+          "url": "https://open.spotify.com/artist/7yvdb56qFhuF26Wnkqe6Vs"
+        },
+        {
+          "name": "Karibasava Tadakal",
+          "url": "https://open.spotify.com/artist/2tXhjGmqVhR2vYQXfqi8Ro"
+        }
+      ],
+      "duration_ms": 105833,
+      "name": "Tampaada Tangaali (From \"Gana\")",
+      "url": "https://open.spotify.com/track/12ZrgJHWBTmTrgZbX78kN2"
     },
     {
       "added_at": "2025-01-16 08:59:29",
@@ -1645,30 +1769,6 @@
       "url": "https://open.spotify.com/track/7lbbhtLSeFkJBqOHPbkG5e"
     },
     {
-      "added_at": "2024-11-20 04:00:15",
-      "album": {
-        "name": "Visil Podu (From \"The Greatest Of All Time\")",
-        "url": "https://open.spotify.com/album/0v6xLwC7io2Hp35DkWLWLJ"
-      },
-      "artists": [
-        {
-          "name": "Shibi Srinivasan",
-          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
-        },
-        {
-          "name": "Devu Tresa",
-          "url": "https://open.spotify.com/artist/6WBgBNPqKKKXj8Bcsdzqf2"
-        },
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        }
-      ],
-      "duration_ms": 280191,
-      "name": "Visil Podu (From \"The Greatest Of All Time\")",
-      "url": "https://open.spotify.com/track/0BBQRVIEZUZe4EW4nloFdv"
-    },
-    {
       "added_at": "2024-11-20 16:15:50",
       "album": {
         "name": "Yaaro Naa Kaane (From \"Katle\")",
@@ -1683,30 +1783,6 @@
       "duration_ms": 209699,
       "name": "Yaaro Naa Kaane (From \"Katle\")",
       "url": "https://open.spotify.com/track/6eiEVd3tS0Kfhogij1I0o6"
-    },
-    {
-      "added_at": "2024-11-21 13:11:06",
-      "album": {
-        "name": "Spark (From \"The Greatest Of All Time\")",
-        "url": "https://open.spotify.com/album/5cMKDfsjSjjQ4B170UjPeD"
-      },
-      "artists": [
-        {
-          "name": "Shibi Srinivasan",
-          "url": "https://open.spotify.com/artist/5MDIxdYBWgk1ZTcvb3GKf5"
-        },
-        {
-          "name": "Reshma Shyam",
-          "url": "https://open.spotify.com/artist/6gLyEME6OfBcqYtrDt1JlB"
-        },
-        {
-          "name": "Yuvan Shankar Raja",
-          "url": "https://open.spotify.com/artist/6AiX12wXdXFoGJ2vk8zBjy"
-        }
-      ],
-      "duration_ms": 250172,
-      "name": "Spark (From \"The Greatest Of All Time\")",
-      "url": "https://open.spotify.com/track/7kJoZkaSJRBeXZ6PKnTyRP"
     },
     {
       "added_at": "2024-11-20 04:04:52",

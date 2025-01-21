@@ -1,6 +1,6 @@
 {
   "description": "Skandinavisk hiphop som holder det 100! \ud83d\udea8 ",
-  "num_followers": 28391,
+  "num_followers": 28392,
   "original_name": "100",
   "owner": {
     "name": "Spotify",
@@ -195,6 +195,22 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
+        "name": "Lucky Luciano",
+        "url": "https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj"
+      },
+      "artists": [
+        {
+          "name": "23",
+          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
+        }
+      ],
+      "duration_ms": 135319,
+      "name": "Lucky Luciano",
+      "url": "https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
         "name": "SAHBI",
         "url": "https://open.spotify.com/album/4rJgeIJrPR81atptFEp9fD"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 154793,
       "name": "SAHBI",
       "url": "https://open.spotify.com/track/7daGugofgBVQN2TGIrlFjO"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
-        "name": "Lucky Luciano",
-        "url": "https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj"
-      },
-      "artists": [
-        {
-          "name": "23",
-          "url": "https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA"
-        }
-      ],
-      "duration_ms": 135319,
-      "name": "Lucky Luciano",
-      "url": "https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -271,6 +271,22 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
+        "name": "See Me Shine",
+        "url": "https://open.spotify.com/album/7hhFdijqPRhVlNINGiFHs0"
+      },
+      "artists": [
+        {
+          "name": "Yasin",
+          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
+        }
+      ],
+      "duration_ms": 182072,
+      "name": "See Me Shine",
+      "url": "https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
         "name": "Dans fr\u00e5n dig",
         "url": "https://open.spotify.com/album/0cVVi5pOnxXno0Krda4f8g"
       },
@@ -291,22 +307,6 @@
       "duration_ms": 136666,
       "name": "Dans fr\u00e5n dig",
       "url": "https://open.spotify.com/track/2u85ptzhLjdL4iHV5pNUtb"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
-        "name": "See Me Shine",
-        "url": "https://open.spotify.com/album/7hhFdijqPRhVlNINGiFHs0"
-      },
-      "artists": [
-        {
-          "name": "Yasin",
-          "url": "https://open.spotify.com/artist/6rYEqmajzlhGVaayOJ2bpJ"
-        }
-      ],
-      "duration_ms": 182072,
-      "name": "See Me Shine",
-      "url": "https://open.spotify.com/track/4smUNlnZPcX3Iga4pxPTUr"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -395,26 +395,6 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
-      },
-      "artists": [
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        },
-        {
-          "name": "Stig Brenner",
-          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
-        }
-      ],
-      "duration_ms": 148373,
-      "name": "Let's Go",
-      "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
         "name": "Land Till Land",
         "url": "https://open.spotify.com/album/5RNOw8MKgHH5lUwteCZQx8"
       },
@@ -431,6 +411,26 @@
       "duration_ms": 130709,
       "name": "Land Till Land",
       "url": "https://open.spotify.com/track/7F7V4T66tNwtgIhtN8eue0"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY"
+      },
+      "artists": [
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
+        },
+        {
+          "name": "Stig Brenner",
+          "url": "https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf"
+        }
+      ],
+      "duration_ms": 148373,
+      "name": "Let's Go",
+      "url": "https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -503,18 +503,18 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "Sjunka",
-        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
+        "name": "V\u00e4gen in",
+        "url": "https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh"
       },
       "artists": [
         {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+          "name": "LaStreet",
+          "url": "https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj"
         }
       ],
-      "duration_ms": 133375,
-      "name": "Sjunka",
-      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
+      "duration_ms": 166611,
+      "name": "Foden",
+      "url": "https://open.spotify.com/track/66peWWXAtQd881xF5lXNWv"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -559,18 +559,18 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "V\u00e4gen in",
-        "url": "https://open.spotify.com/album/0smEsXiVAXkvD59HHKpMxh"
+        "name": "Sjunka",
+        "url": "https://open.spotify.com/album/7koL32Rlgl24Tha65f2mr7"
       },
       "artists": [
         {
-          "name": "LaStreet",
-          "url": "https://open.spotify.com/artist/3mtBkhDY1zfMwTeUJxLRZj"
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
         }
       ],
-      "duration_ms": 166611,
-      "name": "Foden",
-      "url": "https://open.spotify.com/track/66peWWXAtQd881xF5lXNWv"
+      "duration_ms": 133375,
+      "name": "Sjunka",
+      "url": "https://open.spotify.com/track/4OpXUf4Jz2iLU5V1iryLsH"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -603,26 +603,6 @@
       "duration_ms": 160106,
       "name": "Tenke Sj\u00e6l",
       "url": "https://open.spotify.com/track/6RNews4WFfXv1fJdwL0ZQb"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
-        "name": "Sp\u00e5r av BLod",
-        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
-      },
-      "artists": [
-        {
-          "name": "Asme",
-          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
-        },
-        {
-          "name": "Owen",
-          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
-        }
-      ],
-      "duration_ms": 160634,
-      "name": "Aktiv",
-      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -723,22 +703,6 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "FRIHET I LENKER",
-        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
-      },
-      "artists": [
-        {
-          "name": "Marstein",
-          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
-        }
-      ],
-      "duration_ms": 128880,
-      "name": "NEPOBABY",
-      "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
         "name": "ANTISOCIAL",
         "url": "https://open.spotify.com/album/5ij45jgLJaREQE57Edkwqn"
       },
@@ -759,6 +723,42 @@
       "duration_ms": 129756,
       "name": "MED MIG",
       "url": "https://open.spotify.com/track/4SKpweHR5pHDRnwmnehA70"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
+        "name": "FRIHET I LENKER",
+        "url": "https://open.spotify.com/album/5xRhibyk6AJwKrz4Ty9wcZ"
+      },
+      "artists": [
+        {
+          "name": "Marstein",
+          "url": "https://open.spotify.com/artist/7KjsjftPKKarTvZlawniPi"
+        }
+      ],
+      "duration_ms": 128880,
+      "name": "NEPOBABY",
+      "url": "https://open.spotify.com/track/2T137G2j4il2iSc2md900S"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
+        "name": "Sp\u00e5r av BLod",
+        "url": "https://open.spotify.com/album/7aZiFpe3Ji0BQ3E2Uo7LzK"
+      },
+      "artists": [
+        {
+          "name": "Asme",
+          "url": "https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG"
+        },
+        {
+          "name": "Owen",
+          "url": "https://open.spotify.com/artist/0Q5gLNKbp5mpfEvquAaHCl"
+        }
+      ],
+      "duration_ms": 160634,
+      "name": "Aktiv",
+      "url": "https://open.spotify.com/track/7FILcXgBfO8f48zLaIqb9g"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -1131,6 +1131,30 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
+        "name": "MOVE",
+        "url": "https://open.spotify.com/album/0YLCKDvhncR4BeXNM1YAXz"
+      },
+      "artists": [
+        {
+          "name": "Adel",
+          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
+        },
+        {
+          "name": "nOnting",
+          "url": "https://open.spotify.com/artist/2ZE4QDUxlhBy82CQidNTxJ"
+        },
+        {
+          "name": "Le Winter",
+          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
+        }
+      ],
+      "duration_ms": 123870,
+      "name": "MOVE",
+      "url": "https://open.spotify.com/track/6l5cINkWl0q2OeELlBkHGl"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
         "name": "2 Trekk",
         "url": "https://open.spotify.com/album/2wYFWBGcjjulb9KrIQDmso"
       },
@@ -1243,30 +1267,6 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "MOVE",
-        "url": "https://open.spotify.com/album/0YLCKDvhncR4BeXNM1YAXz"
-      },
-      "artists": [
-        {
-          "name": "Adel",
-          "url": "https://open.spotify.com/artist/3vHwJg9XHrACvX9ZlwV8pT"
-        },
-        {
-          "name": "nOnting",
-          "url": "https://open.spotify.com/artist/2ZE4QDUxlhBy82CQidNTxJ"
-        },
-        {
-          "name": "Le Winter",
-          "url": "https://open.spotify.com/artist/3dtPDEZGp9vvPpe8reKHUR"
-        }
-      ],
-      "duration_ms": 123870,
-      "name": "MOVE",
-      "url": "https://open.spotify.com/track/6l5cINkWl0q2OeELlBkHGl"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
         "name": "Dyra notor",
         "url": "https://open.spotify.com/album/39Gg9S1NoWi4hppTceMlGL"
       },
@@ -1347,6 +1347,22 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
+        "name": "Norge Elsker Rap",
+        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+      },
+      "artists": [
+        {
+          "name": "UNDERGRUNN",
+          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+        }
+      ],
+      "duration_ms": 179480,
+      "name": "Beige",
+      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
+    },
+    {
+      "added_at": "2025-01-16 23:00:37",
+      "album": {
         "name": "Palmerna",
         "url": "https://open.spotify.com/album/0dnYCZvFKAzoN9v69oEJaa"
       },
@@ -1387,18 +1403,18 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "Norge Elsker Rap",
-        "url": "https://open.spotify.com/album/2JLWcW7Qgi5QPYzNcPggoJ"
+        "name": "BECHO",
+        "url": "https://open.spotify.com/album/7mzFSuPUp3POWTyHpOzMkK"
       },
       "artists": [
         {
-          "name": "UNDERGRUNN",
-          "url": "https://open.spotify.com/artist/1LyYIhqdjG9R9VdIRSftBb"
+          "name": "Ninety",
+          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
         }
       ],
-      "duration_ms": 179480,
-      "name": "Beige",
-      "url": "https://open.spotify.com/track/37oQFO7hlyXvgZ0qQwrGsj"
+      "duration_ms": 129882,
+      "name": "BECHO",
+      "url": "https://open.spotify.com/track/2NfxurrqwMoXW2bWYYWF63"
     },
     {
       "added_at": "2025-01-16 23:00:37",
@@ -1447,26 +1463,6 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "TIL DEG",
-        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
-      },
-      "artists": [
-        {
-          "name": "Malik",
-          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
-        },
-        {
-          "name": "Arif Murakami",
-          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
-        }
-      ],
-      "duration_ms": 157217,
-      "name": "TIL DEG",
-      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
-    },
-    {
-      "added_at": "2025-01-16 23:00:37",
-      "album": {
         "name": "FLEX",
         "url": "https://open.spotify.com/album/5phOcxFTbyfLAHaIVflpLf"
       },
@@ -1487,18 +1483,22 @@
     {
       "added_at": "2025-01-16 23:00:37",
       "album": {
-        "name": "BECHO",
-        "url": "https://open.spotify.com/album/7mzFSuPUp3POWTyHpOzMkK"
+        "name": "TIL DEG",
+        "url": "https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI"
       },
       "artists": [
         {
-          "name": "Ninety",
-          "url": "https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD"
+          "name": "Malik",
+          "url": "https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL"
+        },
+        {
+          "name": "Arif Murakami",
+          "url": "https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q"
         }
       ],
-      "duration_ms": 129882,
-      "name": "BECHO",
-      "url": "https://open.spotify.com/track/2NfxurrqwMoXW2bWYYWF63"
+      "duration_ms": 157217,
+      "name": "TIL DEG",
+      "url": "https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz"
     },
     {
       "added_at": "2025-01-16 23:00:37",

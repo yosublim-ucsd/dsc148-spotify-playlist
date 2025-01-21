@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-431 songs - 23 hr 45 min
+432 songs - 23 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Bere Bedave](https://open.spotify.com/track/6GsrwALDUgLZZFXtZml9AZ) | [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Vishwaji](https://open.spotify.com/artist/2rkYVUbHuNz9wmqWX8JgJ1) | [Bere Bedave](https://open.spotify.com/album/7wM3pxxyjN2iVaLlVvkcGt) | 2:24 | 2024-07-08 | 2024-12-13 |
 | [Bere Tara](https://open.spotify.com/track/0vJEVSiskeXisMVWkOU0c5) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [Hithu Dwen](https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn) | [Bere Tara](https://open.spotify.com/album/27j66PCM7ImKFHUcU1I5f1) | 4:50 | 2023-11-20 | 2024-04-19 |
 | [Bere Tara](https://open.spotify.com/track/1CLxYQF70NuP76EYphQztG) | [The Aura](https://open.spotify.com/artist/6M5ttnbVdNgAdybwmewX0N), [Hithu Dwen](https://open.spotify.com/artist/6J6cHK9I4q6C54trkBmLqn) | [Bere Tara](https://open.spotify.com/album/5A3MVaOMPmTcfkidhK9Vu2) | 4:50 | 2023-11-20 | 2024-06-11 |
+| [Bhavanegalu](https://open.spotify.com/track/4I2VkfH3rFx6amyICzBmP2) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Bhavanegalu](https://open.spotify.com/album/1qk0d5mYA3z9QIRzDvxlug) | 2:32 | 2025-01-20 |  |
 | [Bhavanegalu](https://open.spotify.com/track/51ygWHeQ3xGDwKRgt7NeJF) | [Keerthi](https://open.spotify.com/artist/512xjcN5DPYZ16JpJ1GcWt) | [Bhavanegalu](https://open.spotify.com/album/0iQUBcMP8WMLXI4Qw2FGu9) | 2:32 | 2023-01-13 | 2023-06-08 |
 | [Bhayavagide](https://open.spotify.com/track/385UNBjrv1NoCxsqop82Uh) | [Arfaz Ullal](https://open.spotify.com/artist/0wuJzQOCtUNgXqrkkgsFoH), [Manu Rao](https://open.spotify.com/artist/69PFGJi8dalmkc2ITP6FQZ), [Paluz45](https://open.spotify.com/artist/0W1hviGDJk8gLz7ELtHL04), [Sinchana Gowda](https://open.spotify.com/artist/56eDGtcTKZwRvgptm5qGVp) | [Bhayavagide](https://open.spotify.com/album/6gBBoyq4Az8P1AR3MFRaeR) | 4:07 | 2024-03-14 | 2024-07-16 |
 | [BOMBAT FRIENDS](https://open.spotify.com/track/2waKs53t602c9OcZzgffy6) | [Nishan S](https://open.spotify.com/artist/4eYEOW7QsIxcfRoaNqwT5G), [Chethan Kumar](https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy), [Janardhan N Rao](https://open.spotify.com/artist/7c6TJvaRjg6G6Cy2ECLd7k) | [BOMBAT FRIENDS](https://open.spotify.com/album/2T99jUXIdy5VDl1KmUzEFA) | 2:53 | 2024-08-22 |  |

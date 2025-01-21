@@ -594,7 +594,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 152262,
       "name": "Akele Hum",
       "url": "https://open.spotify.com/track/192CtcgIfCN3iDiqlbAji3"
@@ -1944,6 +1944,24 @@
       "duration_ms": 222456,
       "name": "Dil Mein Thoda Sa",
       "url": "https://open.spotify.com/track/2eBWFPefQnjrEMZDECXg5U"
+    },
+    {
+      "album": {
+        "name": "Dil Nadaan",
+        "url": "https://open.spotify.com/album/1MwqwAwXwuy1AeukH0D8Fd"
+      },
+      "artists": [
+        {
+          "name": "Mehak V",
+          "url": "https://open.spotify.com/artist/2olc4uw7xRNCV5AmqVfTmj"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212592,
+      "name": "Dil Nadaan",
+      "url": "https://open.spotify.com/track/5eeFwvCRYJ1fOFt2rpYBuZ"
     },
     {
       "album": {

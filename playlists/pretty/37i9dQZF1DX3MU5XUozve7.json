@@ -1,6 +1,6 @@
 {
   "description": "A mix of new and classic melodic punk songs.",
-  "num_followers": 1014224,
+  "num_followers": 1014587,
   "original_name": "Skatepark Punks",
   "owner": {
     "name": "Spotify",
@@ -751,22 +751,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "GI",
-        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
-      },
-      "artists": [
-        {
-          "name": "Germs",
-          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
-        }
-      ],
-      "duration_ms": 104360,
-      "name": "Lexicon Devil",
-      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Young, Loud And Snotty",
         "url": "https://open.spotify.com/album/6SiRxD9eeJELm4TR8C6MDJ"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 189333,
       "name": "Sonic Reducer",
       "url": "https://open.spotify.com/track/678Fh7cIfN1sLqxsj5sc2G"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "GI",
+        "url": "https://open.spotify.com/album/1dwzhoYlTd5ZgPygszllwo"
+      },
+      "artists": [
+        {
+          "name": "Germs",
+          "url": "https://open.spotify.com/artist/39zgKjGWsiZzJ9h6gbrPFY"
+        }
+      ],
+      "duration_ms": 104360,
+      "name": "Lexicon Devil",
+      "url": "https://open.spotify.com/track/0Hl2Vuhhhh8buesoxUk1DW"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Face to Face (Remastered)",
-        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
+        "name": "Good For Me",
+        "url": "https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA"
       },
       "artists": [
         {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+          "name": "The Swellers",
+          "url": "https://open.spotify.com/artist/1xpkFcz84H5OVOgbDGcYxw"
         }
       ],
-      "duration_ms": 197786,
-      "name": "I Won't Lie Down",
-      "url": "https://open.spotify.com/track/5sEmIMKfc3Y75rDHc6dnOb"
+      "duration_ms": 239560,
+      "name": "The Best I Ever Had",
+      "url": "https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1087,18 +1087,18 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "Good For Me",
-        "url": "https://open.spotify.com/album/0PWYiujWx6nKNDXAcBQwaA"
+        "name": "A Place Called Home",
+        "url": "https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi"
       },
       "artists": [
         {
-          "name": "The Swellers",
-          "url": "https://open.spotify.com/artist/1xpkFcz84H5OVOgbDGcYxw"
+          "name": "Ignite",
+          "url": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr"
         }
       ],
-      "duration_ms": 239560,
-      "name": "The Best I Ever Had",
-      "url": "https://open.spotify.com/track/1FTBGFF2CJIEsMdkRMHo6z"
+      "duration_ms": 165800,
+      "name": "Veteran",
+      "url": "https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1115,22 +1115,6 @@
       "duration_ms": 157653,
       "name": "Live While You Can",
       "url": "https://open.spotify.com/track/4YdSK6GVALPUDNij64lZ9F"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "A Place Called Home",
-        "url": "https://open.spotify.com/album/5OgANHFRphRUPUHzMn49Wi"
-      },
-      "artists": [
-        {
-          "name": "Ignite",
-          "url": "https://open.spotify.com/artist/48ErVeccMDF5UiHA4TdGWr"
-        }
-      ],
-      "duration_ms": 165800,
-      "name": "Veteran",
-      "url": "https://open.spotify.com/track/5H563lLtO41rxzmPxEgj1B"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1183,6 +1167,22 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
+        "name": "Face to Face (Remastered)",
+        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
+      },
+      "artists": [
+        {
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+        }
+      ],
+      "duration_ms": 197786,
+      "name": "I Won't Lie Down",
+      "url": "https://open.spotify.com/track/5sEmIMKfc3Y75rDHc6dnOb"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
         "name": "Have a Ball",
         "url": "https://open.spotify.com/album/6Reha7Crh0nd2Ap9XtYAwF"
       },
@@ -1227,22 +1227,6 @@
       "duration_ms": 176893,
       "name": "Victory Lap",
       "url": "https://open.spotify.com/track/1p40MAvOzGAO07icf3MuAl"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
-        "name": "Face to Face (Remastered)",
-        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
-      },
-      "artists": [
-        {
-          "name": "Face To Face",
-          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
-        }
-      ],
-      "duration_ms": 215413,
-      "name": "Walk the Walk",
-      "url": "https://open.spotify.com/track/4A2ACnyRUwxcfKiQypDwFy"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1307,6 +1291,22 @@
       "duration_ms": 154960,
       "name": "Punk Rock And Roll",
       "url": "https://open.spotify.com/track/2bwvIrD9qzR39vHHvYDasm"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "Face to Face (Remastered)",
+        "url": "https://open.spotify.com/album/7KoYGyH8oK5m3hp5UhcBFY"
+      },
+      "artists": [
+        {
+          "name": "Face To Face",
+          "url": "https://open.spotify.com/artist/4l9ufn9GC6LLYXvIanDlLd"
+        }
+      ],
+      "duration_ms": 215413,
+      "name": "Walk the Walk",
+      "url": "https://open.spotify.com/track/4A2ACnyRUwxcfKiQypDwFy"
     },
     {
       "added_at": "2022-07-26 16:46:12",
@@ -1507,22 +1507,6 @@
     {
       "added_at": "2022-07-26 16:46:12",
       "album": {
-        "name": "State Of Discontent",
-        "url": "https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS"
-      },
-      "artists": [
-        {
-          "name": "The Unseen",
-          "url": "https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z"
-        }
-      ],
-      "duration_ms": 171375,
-      "name": "Scream Out",
-      "url": "https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ"
-    },
-    {
-      "added_at": "2022-07-26 16:46:12",
-      "album": {
         "name": "Scandinavian Leather",
         "url": "https://open.spotify.com/album/1qK9Xlui8xqhWkMiVPIQbP"
       },
@@ -1535,6 +1519,22 @@
       "duration_ms": 254226,
       "name": "Fuck The World",
       "url": "https://open.spotify.com/track/1VyXtvIHF8eytwxxDLsE3Z"
+    },
+    {
+      "added_at": "2022-07-26 16:46:12",
+      "album": {
+        "name": "State Of Discontent",
+        "url": "https://open.spotify.com/album/38d0nvXUkE55M9vozj9XSS"
+      },
+      "artists": [
+        {
+          "name": "The Unseen",
+          "url": "https://open.spotify.com/artist/6xEMoIJbN8zgmMpv6Nzt5Z"
+        }
+      ],
+      "duration_ms": 171375,
+      "name": "Scream Out",
+      "url": "https://open.spotify.com/track/78MLd7i4qcG2nknFGRdjjZ"
     },
     {
       "added_at": "2022-07-26 16:46:12",

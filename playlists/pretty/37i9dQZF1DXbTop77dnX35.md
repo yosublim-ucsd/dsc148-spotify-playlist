@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,189 likes - 53 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,249 likes - 53 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,7 +43,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 33 | [Para Boy](https://open.spotify.com/track/3NMB68zpXZOrGWXf3N4Iec) | [DJ CORA](https://open.spotify.com/artist/5vPNT5JKbOOJuwdQ8dKOAc) | [Para Boy](https://open.spotify.com/album/3bEVcwstrzC8GtRFgbyiUX) | 2:19 |
 | 34 | [RED EYE](https://open.spotify.com/track/7tUKHfSeO5IQ6Nedra6CmE) | [Xlimkid](https://open.spotify.com/artist/2R4dOeNFDtzHkuTXiydZ5c) | [RED EYE](https://open.spotify.com/album/5Er3xWcthAHZ3cm5gysmHq) | 2:30 |
 | 35 | [My Head](https://open.spotify.com/track/5v9ZWzBcBZozh2Xy5D02Jp) | [MzVee](https://open.spotify.com/artist/5KaayuYfGzUkFP7PfrwVu9) | [My Head](https://open.spotify.com/album/2Zbvg74iS66Au0WLHrDbfn) | 3:05 |
-| 36 | [Yente](https://open.spotify.com/track/3i6rRfVlhbnbDzzsy3HAYI) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Yente](https://open.spotify.com/album/5m8DZH8f4b8kw2rwCHn6pG) | 2:13 |
+| 36 | [YENTE](https://open.spotify.com/track/3i6rRfVlhbnbDzzsy3HAYI) | [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [YENTE](https://open.spotify.com/album/5m8DZH8f4b8kw2rwCHn6pG) | 2:13 |
 | 37 | [SHUT UP](https://open.spotify.com/track/1NnmVJreTMzqyMDxtZ2ZPT) | [Baba Tundey](https://open.spotify.com/artist/16hyxoxcvlNxKIkpQaaCnC) | [SHUT UP](https://open.spotify.com/album/5knhz0RH8yfGouz6ynoLka) | 2:10 |
 | 38 | [Banku Riddim](https://open.spotify.com/track/4eaiD3xjKhcTnpEdHS1mmq) | [Dj Nayiram](https://open.spotify.com/artist/31l50WEIscYptO4W2DH6wp), [Bapi Joss](https://open.spotify.com/artist/650EjRE3msuYaSw2hWLVPH), [DJ Bass](https://open.spotify.com/artist/3Xx7lp7h2ELGLV6Wrbt8qJ) | [Banku Riddim](https://open.spotify.com/album/7gu4GrWxsdjhbE04VYUvsZ) | 2:54 |
 | 39 | [Sokoo](https://open.spotify.com/track/1MMmEtbmFgJdwMdnPtitG3) | [Sean Lifer](https://open.spotify.com/artist/6rREDWo14PH0s8L1GEeZZ9), [Nsoroma](https://open.spotify.com/artist/36dLW3V3CtJ2I3dYYdiO4w), [Kofi Jamar](https://open.spotify.com/artist/79KG6wqJDA2rLXbAwmtNgK) | [Sokoo](https://open.spotify.com/album/2ZMrpZC20JhU9ExXlSihpv) | 2:13 |

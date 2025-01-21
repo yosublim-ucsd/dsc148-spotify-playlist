@@ -4,7 +4,7 @@
 
 > Warm instrumental guitar for a gentle start.
 
-392 songs - 16 hr 50 min
+394 songs - 16 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -134,6 +134,7 @@
 | [Figments Of My Story](https://open.spotify.com/track/0uUlq3jirKmXqaYeKqKj0k) | [Mell Levy](https://open.spotify.com/artist/4BxYbKsADfRXhE7uMxAWY0) | [Figments Of My Story](https://open.spotify.com/album/7LBNJQid8htZUP8PjNNATH) | 2:30 | 2022-03-04 | 2024-04-06 |
 | [Fino a Novembre](https://open.spotify.com/track/0xWMdu1BDF0EuwI4cfgZiJ) | [Giovanni Benatti](https://open.spotify.com/artist/6C9bWJOawsAAYTfz5xbrkq) | [Fino a Novembre](https://open.spotify.com/album/2Xuon7cc0MYNmWM9awtMJl) | 2:05 | 2022-03-04 | 2022-04-06 |
 | [First Day of Spring](https://open.spotify.com/track/1vEiPkYPGvGC6b9H62R55H) | [Bernard Dubicki](https://open.spotify.com/artist/60QFQacfasWbiKf5lZgRqZ) | [First Day of Spring](https://open.spotify.com/album/6ARTpCGoPf9lxTw4LXo8uO) | 2:30 | 2024-10-01 |  |
+| [First Impressions](https://open.spotify.com/track/7tNi9AcmTfAKGrGQ3xxD5n) | [Riley Howe](https://open.spotify.com/artist/2vloKEy3B9bqBKOkCewats) | [First Impressions](https://open.spotify.com/album/6tv0Ndn7eeKfCEhA1UGZXb) | 2:15 | 2025-01-20 |  |
 | [First Love](https://open.spotify.com/track/4REsGOqIOvzi9PygRFVEru) | [Sly Hickman](https://open.spotify.com/artist/3uoTGpQb6iBXRqVa6O04FQ) | [First Love](https://open.spotify.com/album/63lrHdmNgIAqjo14jy82qh) | 2:12 | 2024-09-25 |  |
 | [First Summer](https://open.spotify.com/track/4vtxTtXKzCX07aYik2gBjA) | [Rafaela Moreno](https://open.spotify.com/artist/5wJ8AHtbq8pem9cFX6QIeF) | [First Summer](https://open.spotify.com/album/3k9CdFJXdfgQhsbbzw6SK7) | 2:58 | 2024-06-28 |  |
 | [Floating Away](https://open.spotify.com/track/5VuYhcVrtRuD32izXcqG0B) | [Byron Wolfe](https://open.spotify.com/artist/5FnRSMJOiTQUGkNRfOaJYm) | [Floating Away & Gentle Landing](https://open.spotify.com/album/4WEYbH3YCawWUeDFdqnkSp) | 3:53 | 2022-07-29 | 2022-10-07 |
@@ -253,6 +254,7 @@
 | [Notes From You](https://open.spotify.com/track/1jy9gxys6Lf7eE07bt6Wdb) | [Leandra Costa](https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr) | [Notes From You](https://open.spotify.com/album/766uQUBNRxBQ6vV3Ci7nd5) | 2:54 | 2023-01-13 | 2023-10-13 |
 | [Now I Am Older](https://open.spotify.com/track/7r5C8q2c1bEr13EQFlLfhR) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Now I Am Older](https://open.spotify.com/album/3aO4aeFXjiX8YmJTmjIvod) | 2:00 | 2024-02-23 |  |
 | [Now is the time](https://open.spotify.com/track/7tBW9WWLpV4QPXr33xxYSk) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [Now is the time](https://open.spotify.com/album/3an7DgTn4LSJpROALGB5Jq) | 2:10 | 2024-12-17 |  |
+| [Ocean Pictures](https://open.spotify.com/track/7ts8hnrKzGffpFt418kehA) | [Laura Di Vaio](https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6) | [Ocean Pictures](https://open.spotify.com/album/4PVvpYuh6xQWV2rIHIeDu3) | 2:38 | 2025-01-20 |  |
 | [Ocean View](https://open.spotify.com/track/5pBeteeE2OuxTCkPbykuhb) | [Fredrik Johansson](https://open.spotify.com/artist/7wKJfbyQ8YETfxRRjZv80m) | [Ocean View](https://open.spotify.com/album/1IWqrzNu8FNPasLEbQgojS) | 2:43 | 2023-01-13 | 2024-04-20 |
 | [on this journey together](https://open.spotify.com/track/2pamcBZCeXARtQIpEpKIHj) | [Roberto Cabello Jr.](https://open.spotify.com/artist/3wCRv2qzTQDamiPfSc2zPp) | [on this journey together](https://open.spotify.com/album/5A0LT6wdjPKktyFxGKIp46) | 2:49 | 2022-03-04 | 2023-02-25 |
 | [One Step Forward](https://open.spotify.com/track/40UcSAp9GZFzUnczV5tlJc) | [Jonas Kahnberg](https://open.spotify.com/artist/1rCFmFMow5dvQNlgCEwTH0) | [One Step Forward](https://open.spotify.com/album/67dpIE3fJV0poBoxzHAF8e) | 2:19 | 2024-11-11 |  |

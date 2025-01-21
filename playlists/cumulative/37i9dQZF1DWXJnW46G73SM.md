@@ -4,12 +4,13 @@
 
 > أحدث الأغاني المصرية هنا 🤩 الغلاف:تامر عاشور
 
-1,316 songs - 3 day 1 hr 25 min
+1,317 songs - 3 day 1 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [100 Haga Wa 50](https://open.spotify.com/track/3bcJ9l7u6ycQbZvrKR5jFH) | [Mahmoud El Esseily](https://open.spotify.com/artist/7MGFOSQK8O3im8YslR3DLB) | [100 Haga Wa 50](https://open.spotify.com/album/3qxAJkKJbKNroj67JGU78d) | 2:52 | 2024-08-28 | 2024-10-23 |
 | [123](https://open.spotify.com/track/4BldduAq7YmZn3mimYdFZp) | [Ahmed Saad](https://open.spotify.com/artist/5D2ui1KD49TfyCDb35zf5V) | [123](https://open.spotify.com/album/03yI5mAo2O493JwT1kfTbw) | 2:44 | 2024-08-08 | 2024-09-13 |
+| [12:00 AM](https://open.spotify.com/track/5DXOzSA6Zp2czmmp0eUGFM) | [Begad](https://open.spotify.com/artist/5jcaxl6UTzjWAUWEdldcQl) | [\[LOWL!FE\] PART2](https://open.spotify.com/album/3Tu92dlmWfLukiObzPa8ZV) | 2:49 | 2025-01-20 |  |
 | [3 Elzero](https://open.spotify.com/track/3sO0sDKe7k4SFl5bUqX0iV) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH) | [3 Elzero](https://open.spotify.com/album/1GGzpP9lmVCeSsajXNlUut) | 2:27 | 2023-08-02 | 2023-08-25 |
 | [3 ساعات متواصله](https://open.spotify.com/track/3QIV4kh9CzPOnjdqTU3boL) | [Ruby](https://open.spotify.com/artist/2lMy93l58wzjh8DepKL814) | [3 ساعات متواصله](https://open.spotify.com/album/6D0QUBe255j5ThQQPEbXYv) | 3:11 | 2023-12-24 | 2024-02-08 |
 | [369](https://open.spotify.com/track/2OdI0PsoOfmYDpL82pa70r) | [Bushra](https://open.spotify.com/artist/2X14AwILJGdfg4YoiWOKra) | [369](https://open.spotify.com/album/3e2NSVt6UDn8J4stYPA5eT) | 4:08 | 2022-11-10 | 2023-01-27 |
@@ -1131,7 +1132,7 @@
 | [ف المولد](https://open.spotify.com/track/2bk5VFJ9jYO2I9JDqJeozw) | [Wezza Montaser](https://open.spotify.com/artist/7nMcSzdtvLtrKIXIuLnxmj), [E Evil](https://open.spotify.com/artist/4aNFPM0PGO7jyixDEmYfky), [Resha Costa](https://open.spotify.com/artist/5VXbENspI2Q0cRiVZ828U8) | [ف المولد](https://open.spotify.com/album/79rzyP7T0SCn33yeJeIWo8) | 3:10 | 2023-12-29 | 2024-02-02 |
 | [فاكرك بتحبيني](https://open.spotify.com/track/5IVLULcA213QVoxNTK7jrP) | [Rahal](https://open.spotify.com/artist/1omKn2cMrRaKnCcOOeQ4yg) | [فاكرك بتحبيني](https://open.spotify.com/album/10622qsIFSLCCKPs8fSdwd) | 2:53 | 2024-09-19 | 2024-11-22 |
 | [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/track/4dYAFJEQjVh50FjSHBfHWl) | [Ameen Khattab](https://open.spotify.com/artist/15EdXJSvJSrjOGXsIimK0d) | [فتحت قلبى ليهم فتحولى التابوت](https://open.spotify.com/album/6NsLjJGK0DOO8V1jMFK8q1) | 3:48 | 2023-04-14 | 2023-05-19 |
-| [فجأه اختفيت](https://open.spotify.com/track/34DOdp4LJQMmDXBO44x6Tw) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [فجأه اختفيت](https://open.spotify.com/album/6r3g6yGchU060Yc533M5P0) | 3:34 | 2024-12-13 |  |
+| [فجأه اختفيت](https://open.spotify.com/track/34DOdp4LJQMmDXBO44x6Tw) | [Ahmed Khaled](https://open.spotify.com/artist/5j6v310BfwEmAPM5bezCrG) | [فجأه اختفيت](https://open.spotify.com/album/6r3g6yGchU060Yc533M5P0) | 3:34 | 2024-12-13 | 2025-01-21 |
 | [فراق بفراق](https://open.spotify.com/track/3KMJCqDkpKQoY5EkWdz8cN) | [Farid](https://open.spotify.com/artist/5OaC42gxOxSYgfmmSxe672) | [فراق بفراق](https://open.spotify.com/album/3DsCLaAn4FLgYQP6DTnaMy) | 3:56 | 2024-05-02 | 2024-06-01 |
 | [فرح كل يوم](https://open.spotify.com/track/3RD1sMoeXCd10tfl65RZkG) | [Mohammed Alsahli](https://open.spotify.com/artist/7c7hybwd6CtpDhi0Imsppx) | [فرح كل يوم](https://open.spotify.com/album/3Gz3djEvTF7O8MmLRjdCRl) | 3:56 | 2023-02-09 | 2023-03-25 |
 | [فرق في الأحساس](https://open.spotify.com/track/3eH1uXt3nQ59RSCBtCEzif) | [Hany Shaker](https://open.spotify.com/artist/1UwfdbFgehcybbaCoeYJ9o) | [Fark Fel Ehsas](https://open.spotify.com/album/3NcOjzZ81rEm4JNT6N1MMH) | 3:25 | 2022-12-23 | 2023-02-15 |

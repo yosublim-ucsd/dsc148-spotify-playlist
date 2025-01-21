@@ -1,12 +1,12 @@
 {
   "description": "This is Rina Sawayama. The essential tracks, all in one playlist.",
-  "num_followers": 37804,
+  "num_followers": 37809,
   "original_name": "This Is Rina Sawayama",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4rvAAAAAAAXLdWQWiKKp48NE/H8CHyG",
+  "snapshot_id": "Z4xAgAAAAACCJdRzfYDuGKlxYmRUccM5",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
       "duration_ms": 227037,
       "name": "Ordinary Superstar",
       "url": "https://open.spotify.com/track/5SenloD1HJ0w5HV70TTLAK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dance In The Dark (Spotify Singles)",
-        "url": "https://open.spotify.com/album/1ibvZu6jF8lo8BhLslS0SX"
-      },
-      "artists": [
-        {
-          "name": "Rina Sawayama",
-          "url": "https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5"
-        }
-      ],
-      "duration_ms": 225366,
-      "name": "Dance In The Dark - Spotify Singles",
-      "url": "https://open.spotify.com/track/19aAGYe7PlYf6yfUrDGykW"
     },
     {
       "added_at": null,

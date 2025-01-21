@@ -1,12 +1,12 @@
 {
   "description": "This is Jasiel Nu\u00f1ez. The essential tracks, all in one playlist.",
-  "num_followers": 11699,
+  "num_followers": 11722,
   "original_name": "This Is Jasiel Nu\u00f1ez",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4rvAAAAAAD/c4BzgVdjRyxnyg5Er2F/",
+  "snapshot_id": "Z4xAgAAAAAA6Wh9Zkdw2+14u/jJa8ZIf",
   "tracks": [
     {
       "added_at": null,
@@ -35,26 +35,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
-        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
-      },
-      "artists": [
-        {
-          "name": "Luis R Conriquez",
-          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
-        },
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 153269,
-      "name": "GTA",
-      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "G\u00c9NESIS",
         "url": "https://open.spotify.com/album/4jox3ip1I39DFC2B7R5qLH"
       },
@@ -71,6 +51,26 @@
       "duration_ms": 231246,
       "name": "LAGUNAS",
       "url": "https://open.spotify.com/track/3HOKxuTDmNVmIlCIpBiD8m"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Corridos B\u00e9licos, Vol. IV (Versi\u00f3n Deluxe)",
+        "url": "https://open.spotify.com/album/67BJDrtPa43KdZ8fAFrCP8"
+      },
+      "artists": [
+        {
+          "name": "Luis R Conriquez",
+          "url": "https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8"
+        },
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 153269,
+      "name": "GTA",
+      "url": "https://open.spotify.com/track/4U20gQcVcjzY12xhLsXwXy"
     },
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EPA",
-        "url": "https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq"
-      },
-      "artists": [
-        {
-          "name": "Jasiel Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
-        }
-      ],
-      "duration_ms": 177656,
-      "name": "EPA",
-      "url": "https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vibras",
         "url": "https://open.spotify.com/album/76dKiYbd23p07GGKOxTRBF"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 164347,
       "name": "Vibras",
       "url": "https://open.spotify.com/track/1JeZEBITR6xA1fTM7Jbttp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EPA",
+        "url": "https://open.spotify.com/album/4jG0S9k29ovli79Un9ojOq"
+      },
+      "artists": [
+        {
+          "name": "Jasiel Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
+        }
+      ],
+      "duration_ms": 177656,
+      "name": "EPA",
+      "url": "https://open.spotify.com/track/30hjAIB08HXjBbEHgR1sAq"
     },
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ya No Siento Nada",
-        "url": "https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8"
+        "name": "Te Amo (Para Siempre)",
+        "url": "https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 146812,
-      "name": "Ya No Siento Nada",
-      "url": "https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH"
+      "duration_ms": 227454,
+      "name": "Te Amo (Para Siempre)",
+      "url": "https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA"
     },
     {
       "added_at": null,
@@ -655,8 +655,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Amo (Para Siempre)",
-        "url": "https://open.spotify.com/album/4X7pki5YFOLI2CsIWpMlhE"
+        "name": "Ya No Siento Nada",
+        "url": "https://open.spotify.com/album/0W1HlIPEsbTCVUZQSlKRT8"
       },
       "artists": [
         {
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy"
         }
       ],
-      "duration_ms": 227454,
-      "name": "Te Amo (Para Siempre)",
-      "url": "https://open.spotify.com/track/3NJuP6rist3msDCOSSo9jA"
+      "duration_ms": 146812,
+      "name": "Ya No Siento Nada",
+      "url": "https://open.spotify.com/track/7jCbMDq3hBIZo58uvsHLcH"
     },
     {
       "added_at": null,

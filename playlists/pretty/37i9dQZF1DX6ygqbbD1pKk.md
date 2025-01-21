@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 
 ### [Disney Hits Latino](https://open.spotify.com/playlist/37i9dQZF1DX6ygqbbD1pKk)
 
-> Todos tus éxitos favoritos de Disney\. Moana 2, Encanto, Frozen y mucho más!
+> Todos tus éxitos favoritos de Disney\. Mufasa, Moana 2, Encanto y mucho más!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,933 likes - 103 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,987 likes - 103 songs - 5 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ygqbbD1pKk.md) - [plain]
 | 102 | [Yo Quisiera Ya Ser El Rey](https://open.spotify.com/track/3DXND7voTuDQgPAGqbEyE8) | [Kalimba Marichal](https://open.spotify.com/artist/5MdhKCrEqcQmVVCkVrA0gc), [Maggie Vera](https://open.spotify.com/artist/7lLCWfiITkkIrqGjDtN1Wz), [Eduardo Tejedo](https://open.spotify.com/artist/6ibB3taX7MxloM6rg3gMne) | [El Rey Leon \(Edición Especial\)](https://open.spotify.com/album/1DdGBTfcxge1ganY62TfpD) | 2:50 |
 | 103 | [Bésala](https://open.spotify.com/track/1BKNatU4cpHxUAfET1Q9Ln) | [Alan Menken](https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ), [Howard Ashman](https://open.spotify.com/artist/4v3VuWXuxcennT1zhjlorN), [Michael Cruz](https://open.spotify.com/artist/2AGl0dUCflM3mAfFcJVq5d) | [La Sirenita \(Banda Sonora Original en Español\)](https://open.spotify.com/album/64at2CIfC4MgtN5u0HNkVw) | 2:41 |
 
-Snapshot ID: `Z1uxXwAAAACEEV72S97oJwVr5aL2fQ3R`
+Snapshot ID: `Z43KVwAAAAB+3WPYrUgGfVfRrnfFV0lJ`

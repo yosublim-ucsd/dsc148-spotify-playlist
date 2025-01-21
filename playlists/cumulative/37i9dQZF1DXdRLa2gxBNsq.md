@@ -4,7 +4,7 @@
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: RADIOCRIMEN.
 
-230 songs - 11 hr 53 min
+231 songs - 11 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Generación Enferma](https://open.spotify.com/track/1kkDnsuAqg3t9aS8fhMATd) | [Engaño Manifiesto](https://open.spotify.com/artist/0cnl8NwbODpVqEc5sUGT9c) | [Generación Enferma](https://open.spotify.com/album/2QGVrZCY9kiwebp5hYP2xb) | 2:46 | 2024-07-12 | 2024-10-04 |
 | [Gernika](https://open.spotify.com/track/5lYKFpHNu0myBwgbmilIfY) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1Z9cvtUbSrXQUuJDO4AglG) | 3:47 | 2024-02-08 | 2024-04-19 |
 | [Gernika](https://open.spotify.com/track/2U24O0XkSyQ36T8yMnaeDp) | [M.C.D.](https://open.spotify.com/artist/2sKHlDMJUO4uCZLsEmcun3) | [Jódete](https://open.spotify.com/album/1AQXxv2pGU4QSh6v34FufL) | 3:47 | 2023-12-08 |  |
+| [Grano pus](https://open.spotify.com/track/6UVWLQVawmVr9Eq2vyp6tZ) | [Tomate mature](https://open.spotify.com/artist/06He1OH8vET1FciGCjJlBo) | [Grano pus](https://open.spotify.com/album/1mEJFI0oi7RNNIl5b2jUZY) | 2:33 | 2025-01-20 |  |
 | [Habitamos el vertedero](https://open.spotify.com/track/3KGHL7QRZxHuc478F9mBCO) | [El Destello](https://open.spotify.com/artist/5wD750GwDjY6P7zAYKKSof) | [Habitamos el vertedero](https://open.spotify.com/album/1SQkzdMFNhbRdCCIw6PMv3) | 2:05 | 2024-11-07 | 2024-12-06 |
 | [He Visto](https://open.spotify.com/track/7caiZ8Vj8ouLzgDNfx2xZ0) | [Guillotina Punk Rock](https://open.spotify.com/artist/2HdDfuMe3plDgFD5yoSw2d) | [He Visto](https://open.spotify.com/album/6BU8iwhJ0JlRPXQUEwhHCZ) | 3:28 | 2024-05-09 | 2024-06-21 |
 | [Herida de Guerra](https://open.spotify.com/track/5KoHwSm2KNjjm1O26hIjby) | [Konsumo Respeto](https://open.spotify.com/artist/1RmcjyvKHwr9TCZqfHMflP) | [Ahora Que Se Ha Ido el Sol](https://open.spotify.com/album/1oh9N9kZ3JeJXdyJ8iCVFb) | 4:00 | 2023-12-08 | 2024-04-19 |
@@ -135,7 +136,7 @@
 | [Libre y Salvaje](https://open.spotify.com/track/2t7r2yemAOH1Bua8VAjcst) | [Bicho Papão](https://open.spotify.com/artist/5RKgBCziINv0ItycupgH3U), [Presión](https://open.spotify.com/artist/5gkvUdA8hymxi0Vnlw5LoI) | [Libre y Salvaje](https://open.spotify.com/album/1kl7bpPTQQaFBr8wG6iKdS) | 3:16 | 2025-01-09 |  |
 | [Loko Kuerdo](https://open.spotify.com/track/5NWWzmogzsKzCqtCSKO0cL) | [Txapelpunk](https://open.spotify.com/artist/1zOX25BGYZ4nt7XcACV3jG) | [¡Vaya Full!](https://open.spotify.com/album/0Jy2KdVM6PIaMtl9tLYCVw) | 2:14 | 2023-12-08 |  |
 | [Lola](https://open.spotify.com/track/150HpH0TzhcVwKASywBPs5) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/5MbsgT9tlRbyZEMZzFS2y1) | 3:40 | 2023-12-08 | 2024-04-19 |
-| [Lola](https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/3yPZHsg4nV3oH8ZZsxiwPD) | 3:40 | 2024-09-26 |  |
+| [Lola](https://open.spotify.com/track/1KWMzs6oRaLkQRVv1KbRbZ) | [Cicatriz](https://open.spotify.com/artist/7f3sBMcnvGfOkHiKmeXtIz) | [4 Años, 2 Meses y 1 Día](https://open.spotify.com/album/3yPZHsg4nV3oH8ZZsxiwPD) | 3:40 | 2024-09-26 | 2025-01-21 |
 | [Los Chicos No Están Bien](https://open.spotify.com/track/5zjQ7F3ctn5m1qOvcfroZx) | [RADIOCRIMEN](https://open.spotify.com/artist/6mA005uHpxR9wUsPYb79dK) | [Los Chicos No Están Bien](https://open.spotify.com/album/2f6MF0iDAqfkaEItHBubC8) | 3:22 | 2024-10-03 |  |
 | [Love the Antros](https://open.spotify.com/track/7pGwgwcRf8I64RRMXNa8pi) | [Karne Cruda](https://open.spotify.com/artist/7yTYRn9Y3VnAwrAAlLicGf) | [Love the Antros](https://open.spotify.com/album/3lYbJYq7TSJ3szAmtaqoyv) | 2:35 | 2024-07-12 |  |
 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 | 2023-12-08 |  |

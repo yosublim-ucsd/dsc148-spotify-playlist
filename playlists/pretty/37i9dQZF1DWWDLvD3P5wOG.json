@@ -1,6 +1,6 @@
 {
   "description": "Throwbacks you can catch a wine to.",
-  "num_followers": 690831,
+  "num_followers": 690988,
   "original_name": "Dancehall Throwback",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,22 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
+        "name": "Strictly The Best Vol 33",
+        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
+      },
+      "artists": [
+        {
+          "name": "Elephant Man",
+          "url": "https://open.spotify.com/artist/6vUdRl5ddo4Dn7hqLR85zV"
+        }
+      ],
+      "duration_ms": 250520,
+      "name": "Willie Bounce",
+      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
+    },
+    {
+      "added_at": "2024-08-05 20:38:42",
+      "album": {
         "name": "Summer Party",
         "url": "https://open.spotify.com/album/7oQbskcTqXDqVGQ5KwneAp"
       },
@@ -555,22 +571,6 @@
       "duration_ms": 227720,
       "name": "It Wasn't Me",
       "url": "https://open.spotify.com/track/4i387P9kogblRBfjFi3NaX"
-    },
-    {
-      "added_at": "2024-08-05 20:38:42",
-      "album": {
-        "name": "Strictly The Best Vol 33",
-        "url": "https://open.spotify.com/album/6ucY1k9M0WTQCDZRTbXqzV"
-      },
-      "artists": [
-        {
-          "name": "Elephant Man",
-          "url": "https://open.spotify.com/artist/6vUdRl5ddo4Dn7hqLR85zV"
-        }
-      ],
-      "duration_ms": 250520,
-      "name": "Willie Bounce",
-      "url": "https://open.spotify.com/track/0pjbztKqMcjVZpDYokMBhI"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1219,8 +1219,8 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Heat Rave Riddim",
-        "url": "https://open.spotify.com/album/6Iln4NFCVVGNrvqkUfqwrE"
+        "name": "Vybz Kartel - Colouring Book EP",
+        "url": "https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh"
       },
       "artists": [
         {
@@ -1228,9 +1228,9 @@
           "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         }
       ],
-      "duration_ms": 166470,
-      "name": "Gal a Get More",
-      "url": "https://open.spotify.com/track/0vpTqPxxCl9fcPzWwIzXkw"
+      "duration_ms": 164350,
+      "name": "Summer Time",
+      "url": "https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR"
     },
     {
       "added_at": "2024-08-05 20:38:42",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2024-08-05 20:38:42",
       "album": {
-        "name": "Vybz Kartel - Colouring Book EP",
-        "url": "https://open.spotify.com/album/6inQiTYFGDcPcprh0syxXh"
+        "name": "Heat Rave Riddim",
+        "url": "https://open.spotify.com/album/6Iln4NFCVVGNrvqkUfqwrE"
       },
       "artists": [
         {
@@ -1324,9 +1324,9 @@
           "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
         }
       ],
-      "duration_ms": 164350,
-      "name": "Summer Time",
-      "url": "https://open.spotify.com/track/3bpOaamnFP5260EVqP9GhR"
+      "duration_ms": 166470,
+      "name": "Gal a Get More",
+      "url": "https://open.spotify.com/track/0vpTqPxxCl9fcPzWwIzXkw"
     },
     {
       "added_at": "2024-08-05 20:38:42",

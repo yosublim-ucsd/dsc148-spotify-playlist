@@ -1,13 +1,61 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 20 Jan 23:03 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Jan 23:02 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOsk9qNxt6/BWGbsT7u5GCXGfTiB1c",
+  "snapshot_id": "AAAOuc9/r7sD+qKQP/EXziefbQeG+iks",
   "tracks": [
+    {
+      "added_at": "2025-01-20 14:03:12",
+      "album": {
+        "name": "PlaqueBoyMax",
+        "url": "https://open.spotify.com/album/5xUIDwmQwT7HChkNTr9peO"
+      },
+      "artists": [
+        {
+          "name": "Fivio Foreign",
+          "url": "https://open.spotify.com/artist/14CHVeJGrR5xgUGQFV5BVM"
+        }
+      ],
+      "duration_ms": 113777,
+      "name": "PlaqueBoyMax",
+      "url": "https://open.spotify.com/track/3LYXwZsL3SUwZGEvOqYCKI"
+    },
+    {
+      "added_at": "2025-01-20 14:03:12",
+      "album": {
+        "name": "PROTECT THE CROSS",
+        "url": "https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "duration_ms": 169570,
+      "name": "PROTECT THE CROSS",
+      "url": "https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B"
+    },
+    {
+      "added_at": "2025-01-20 23:02:56",
+      "album": {
+        "name": "Doctor! Doctor!",
+        "url": "https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL"
+      },
+      "artists": [
+        {
+          "name": "ZEROBASEONE",
+          "url": "https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n"
+        }
+      ],
+      "duration_ms": 152137,
+      "name": "Doctor! Doctor!",
+      "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
+    },
     {
       "added_at": "2025-01-19 04:02:35",
       "album": {
@@ -377,6 +425,30 @@
       "url": "https://open.spotify.com/track/1dwiKtLCq2pl8o316cOkV1"
     },
     {
+      "added_at": "2025-01-20 14:03:12",
+      "album": {
+        "name": "Believe In Ya",
+        "url": "https://open.spotify.com/album/27A1YNBpFITvQ0sCDUA5MJ"
+      },
+      "artists": [
+        {
+          "name": "T-Pain",
+          "url": "https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy"
+        },
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        },
+        {
+          "name": "Girl Talk",
+          "url": "https://open.spotify.com/artist/6awzBEyEEwWHOjLox1DkLr"
+        }
+      ],
+      "duration_ms": 179089,
+      "name": "Believe In Ya",
+      "url": "https://open.spotify.com/track/2VeJYNq0R3kWIb5IRyRgYh"
+    },
+    {
       "added_at": "2025-01-17 19:03:32",
       "album": {
         "name": "Keep Me Satisfied",
@@ -441,6 +513,30 @@
       "url": "https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ"
     },
     {
+      "added_at": "2025-01-20 23:02:56",
+      "album": {
+        "name": "Set Me Free",
+        "url": "https://open.spotify.com/album/2klUVqoqhJMLirioyC8DxX"
+      },
+      "artists": [
+        {
+          "name": "Adventure Club",
+          "url": "https://open.spotify.com/artist/5CdJjUi9f0cVgo9nFuJrFa"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Sara Benyo",
+          "url": "https://open.spotify.com/artist/6jJS6oEAQ78VJ7RhG3KS4M"
+        }
+      ],
+      "duration_ms": 181069,
+      "name": "Set Me Free",
+      "url": "https://open.spotify.com/track/10bwFRsx88hgMf7Xe24wK2"
+    },
+    {
       "added_at": "2025-01-15 09:02:44",
       "album": {
         "name": "Pose For The Pic",
@@ -455,6 +551,22 @@
       "duration_ms": 164581,
       "name": "Pose For The Pic",
       "url": "https://open.spotify.com/track/7mpY8KmX0mUCJV49dstMA3"
+    },
+    {
+      "added_at": "2025-01-20 19:02:52",
+      "album": {
+        "name": "Eden",
+        "url": "https://open.spotify.com/album/5HpQprUoMHa1O0mHOtvlTe"
+      },
+      "artists": [
+        {
+          "name": "Baths",
+          "url": "https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO"
+        }
+      ],
+      "duration_ms": 296863,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/3KUFOb7T3a1Qxv1cVwlsSt"
     },
     {
       "added_at": "2025-01-16 04:03:04",
@@ -475,6 +587,38 @@
       "duration_ms": 171570,
       "name": "take me by the hand",
       "url": "https://open.spotify.com/track/4AHeemjLSF5e1UbGRGCUO4"
+    },
+    {
+      "added_at": "2025-01-20 19:02:52",
+      "album": {
+        "name": "Puppy",
+        "url": "https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV"
+      },
+      "artists": [
+        {
+          "name": "One Morning Left",
+          "url": "https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF"
+        }
+      ],
+      "duration_ms": 160737,
+      "name": "Puppy",
+      "url": "https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC"
+    },
+    {
+      "added_at": "2025-01-20 23:02:56",
+      "album": {
+        "name": "LOVE 2",
+        "url": "https://open.spotify.com/album/6CXe6T3fygwEdPdIAquWuS"
+      },
+      "artists": [
+        {
+          "name": "BBGIRLS",
+          "url": "https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti"
+        }
+      ],
+      "duration_ms": 169160,
+      "name": "LOVE 2",
+      "url": "https://open.spotify.com/track/59IQKPXEbdOdRxx889fBBO"
     },
     {
       "added_at": "2025-01-17 04:02:35",
@@ -739,138 +883,6 @@
       "duration_ms": 203601,
       "name": "QQQQ",
       "url": "https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda"
-    },
-    {
-      "added_at": "2025-01-17 14:03:36",
-      "album": {
-        "name": "Switch Over",
-        "url": "https://open.spotify.com/album/5wRB3TauoGZdAUg7PCV4mR"
-      },
-      "artists": [
-        {
-          "name": "Horsegirl",
-          "url": "https://open.spotify.com/artist/2FDvUb4YgyUPpmnm1ILPra"
-        }
-      ],
-      "duration_ms": 185915,
-      "name": "Switch Over",
-      "url": "https://open.spotify.com/track/3T9TQAYyDUgIlnnOHRlWWm"
-    },
-    {
-      "added_at": "2025-01-18 09:02:38",
-      "album": {
-        "name": "Undefined",
-        "url": "https://open.spotify.com/album/6OLWuDPS5HLefkEusT8UL6"
-      },
-      "artists": [
-        {
-          "name": "Bad Computer",
-          "url": "https://open.spotify.com/artist/7uGeDBa1LJ7T1X4fpl8mwk"
-        }
-      ],
-      "duration_ms": 214687,
-      "name": "Undefined",
-      "url": "https://open.spotify.com/track/7KISwkT8OQRUDRsZLjFCra"
-    },
-    {
-      "added_at": "2025-01-11 23:02:39",
-      "album": {
-        "name": "Armour",
-        "url": "https://open.spotify.com/album/5yhpVegMsw2OTRsErE7NBM"
-      },
-      "artists": [
-        {
-          "name": "M.I.A.",
-          "url": "https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU"
-        }
-      ],
-      "duration_ms": 206306,
-      "name": "Armour",
-      "url": "https://open.spotify.com/track/2GVTjTqTTLmA6N1FqBhTzL"
-    },
-    {
-      "added_at": "2025-01-11 23:02:39",
-      "album": {
-        "name": "\u30e9\u30a4\u30d5 \u30a4\u30ba \u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30eb",
-        "url": "https://open.spotify.com/album/746QUwPqyePL3oPmE9IMDi"
-      },
-      "artists": [
-        {
-          "name": "ASIAN KUNG-FU GENERATION",
-          "url": "https://open.spotify.com/artist/0MK8l3nURwwQIjafvXoJJt"
-        }
-      ],
-      "duration_ms": 257026,
-      "name": "\u30e9\u30a4\u30d5 \u30a4\u30ba \u30d3\u30e5\u30fc\u30c6\u30a3\u30d5\u30eb",
-      "url": "https://open.spotify.com/track/1SRJVcxArjAIkFtCNIMfVw"
-    },
-    {
-      "added_at": "2025-01-11 09:02:53",
-      "album": {
-        "name": "Scissors",
-        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
-      },
-      "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 145622,
-      "name": "Scissors",
-      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
-    },
-    {
-      "added_at": "2025-01-10 09:02:54",
-      "album": {
-        "name": "Your New Favorite Song",
-        "url": "https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue"
-      },
-      "artists": [
-        {
-          "name": "Wallows",
-          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
-        }
-      ],
-      "duration_ms": 187666,
-      "name": "Your New Favorite Song",
-      "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"
-    },
-    {
-      "added_at": "2025-01-11 19:02:54",
-      "album": {
-        "name": "Jupiter",
-        "url": "https://open.spotify.com/album/5MGV9Y4u2xXvoAR1RtVK6c"
-      },
-      "artists": [
-        {
-          "name": "deadmau5",
-          "url": "https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx"
-        }
-      ],
-      "duration_ms": 330000,
-      "name": "Jupiter",
-      "url": "https://open.spotify.com/track/4nFSITI81LYuC5TCeaEjDT"
-    },
-    {
-      "added_at": "2025-01-10 23:02:47",
-      "album": {
-        "name": "When We Kiss",
-        "url": "https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L"
-      },
-      "artists": [
-        {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
-        }
-      ],
-      "duration_ms": 212682,
-      "name": "When We Kiss",
-      "url": "https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI"
     }
   ],
   "unique_name": "New Singles Now",

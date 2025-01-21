@@ -2,9 +2,9 @@
 
 ### [This Is GOT7](https://open.spotify.com/playlist/37i9dQZF1DX4AYptQIdI2R)
 
-> Ahgases! 7 or nothing.
+> Come and get it! GOT7!
 
-294 songs - 16 hr 26 min
+303 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [Crash & Burn](https://open.spotify.com/track/67VKMX5np3CcKOsqAMokQ1) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:24 | 2022-05-23 | 2024-04-19 |
 | [CRAZY](https://open.spotify.com/track/3abduCH8DYXjfwlkjLYH65) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/5lX6uJNNwzEZU7TF1RyAdT) | 3:51 | 2022-05-23 |  |
 | [CRAZY](https://open.spotify.com/track/5KaoFUcjEP0jhsgG4eseuP) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [DYE](https://open.spotify.com/album/14H4MUgtA9Vxv1hvfhWT5G) | 3:51 | 2022-05-23 | 2024-04-19 |
+| [Darling](https://open.spotify.com/track/60VFmzQ5WMj0P44pheiQ5z) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:41 | 2025-01-20 |  |
 | [Day by Day](https://open.spotify.com/track/7zo6QXVQfHlycm8dsxkRGv) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Love and Wish \(Original Soundtrack\)](https://open.spotify.com/album/64ZR0AoOV4VJ89QVvmwgEx) | 3:49 | 2022-05-23 |  |
 | [DIVE](https://open.spotify.com/track/7CBnUjo3qL7c8p129PFqzb) | [Jinyoung](https://open.spotify.com/artist/0cA67OQaC4zDkxvGmWqKu7) | [DIVE](https://open.spotify.com/album/4uyM4cCQB9dS18W7YQ1MaH) | 3:19 | 2022-05-23 |  |
 | [Don't Care About Me](https://open.spotify.com/track/1Sy1ZJBwL22SG1QGwkmwqC) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [GOT7](https://open.spotify.com/album/3vIVsuFU7ZKCwKB2Yri8lM) | 3:11 | 2022-05-23 |  |
@@ -74,6 +75,7 @@
 | [Girls Girls Girls](https://open.spotify.com/track/5ThLhHMjeLLPFzhlXRm6xt) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Got It?](https://open.spotify.com/album/2WAQjbbYLWMkoGFr2g2LYw) | 3:33 | 2022-05-23 |  |
 | [go UP](https://open.spotify.com/track/1CA9GZfSM6kzIt4Ykt2D1C) | [JAY B](https://open.spotify.com/artist/3IjHX8KZKoeq3X4QgXxqbT) | [Be Yourself](https://open.spotify.com/album/2CegqorU8dIFlJD0UsxxkF) | 2:39 | 2023-01-03 |  |
 | [Hard Carry](https://open.spotify.com/track/0QJk64Xo6tdXNjXg4RnqpI) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H) | 3:13 | 2022-05-23 | 2024-04-19 |
+| [her](https://open.spotify.com/track/486Id2AzPq8hDIKvNw4OIx) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 3:56 | 2025-01-20 |  |
 | [HEY](https://open.spotify.com/track/10As4dmozw8Fmezqn1tEaU) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0) | 3:29 | 2022-05-23 | 2023-08-06 |
 | [HEY](https://open.spotify.com/track/3cb12axfu56RGiqS4qsLP0) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2) | 3:29 | 2022-05-23 |  |
 | [HEY](https://open.spotify.com/track/4hiLmAkrsuIeoJUGNBO6Fu) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H) | 3:29 | 2022-05-23 | 2024-04-19 |
@@ -167,6 +169,8 @@
 | [One And Only You](https://open.spotify.com/track/261LXApprrMeuczNAGqjav) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Eyes On You](https://open.spotify.com/album/5aCJKuo69SGbveapvkSYMW) | 3:20 | 2022-05-23 | 2023-08-06 |
 | [One And Only You](https://open.spotify.com/track/6zeN8JegGShP3VFXqN0TAM) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df), [HYOLYN](https://open.spotify.com/artist/78sJswwVn4P8aEhkF4K6fQ) | [Eyes On You](https://open.spotify.com/album/4ndf5HnQwdqnlFpL5BriPL) | 3:20 | 2022-05-23 | 2024-04-19 |
 | [One in a Million](https://open.spotify.com/track/1dkhx3oH7UVYnWaVCPSQY7) | [Mark Tuan](https://open.spotify.com/artist/4l1q0z9xeJcJw73Gxc6gCB), [Sanjoy](https://open.spotify.com/artist/6qjhYs5KNSoSU6fNJqDGIo) | [One in a Million](https://open.spotify.com/album/5S6CBbZZlniYlULmOmMDP3) | 3:16 | 2022-05-23 |  |
+| [Our Youth](https://open.spotify.com/track/73E7gxT3HppBUeB3ckGeOw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:52 | 2025-01-20 |  |
+| [OUT THE DOOR](https://open.spotify.com/track/1r2y02BGqPNLu3tx3ASB05) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 3:34 | 2025-01-20 |  |
 | [Oxygen](https://open.spotify.com/track/0ChCXUNWPN45flrl4udCDR) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Oxygen](https://open.spotify.com/album/3u9lEiaSdDf0W9XuamgMBB) | 2:38 | 2022-05-23 | 2024-04-19 |
 | [Oxygen](https://open.spotify.com/track/1L3l7GXxByDSriYTwbwuZm) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Oxygen](https://open.spotify.com/album/4u7xwZruQeBV8hNcJVf3Xw) | 2:38 | 2022-05-23 | 2024-01-24 |
 | [Oxygen](https://open.spotify.com/track/5AfIBd0sANtSZaubjtnnJr) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [Oxygen](https://open.spotify.com/album/4dFfCZIvIWu23WLE2u3R3U) | 2:38 | 2022-05-23 |  |
@@ -189,6 +193,8 @@
 | [Prove It](https://open.spotify.com/track/158rpsE6Sdru1Y11EUSIjs) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4VjN9G78z4A0gKFsBn3n3H) | 2:54 | 2022-05-23 | 2024-04-19 |
 | [Prove It](https://open.spotify.com/track/1JawNrC8uFnFomifyONahL) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0) | 2:54 | 2022-05-23 | 2023-08-07 |
 | [Prove It](https://open.spotify.com/track/4M540pqSgERNRFXRWDNW94) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2) | 2:54 | 2022-05-23 |  |
+| [PYTHON](https://open.spotify.com/track/2kol6tv2jcinBERq425Ahv) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:31 | 2025-01-20 |  |
+| [REMEMBER](https://open.spotify.com/track/3ISMurZjVDGgdt0A4c01sg) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:13 | 2025-01-20 |  |
 | [riBBon](https://open.spotify.com/track/1Y8KxQUmP1xuaF5mNTYE0x) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [riBBon](https://open.spotify.com/album/4257hXQ3Msts5H4RZGrVHw) | 3:07 | 2022-05-23 |  |
 | [RUN AWAY](https://open.spotify.com/track/1XXyHhgmhMYqn55Gej4NXs) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 4:04 | 2022-05-23 |  |
 | [RUN AWAY](https://open.spotify.com/track/3JRpqnCVFSbyOrkr4TKeUN) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 4:04 | 2022-05-23 | 2024-04-19 |
@@ -204,6 +210,7 @@
 | [skyway](https://open.spotify.com/track/4b6WACfiB2h4SEXFWJdSXu) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/5ek64tPWwHgN6zWuAWTkS2) | 3:37 | 2022-05-23 |  |
 | [skyway](https://open.spotify.com/track/5i1RcRRodwy5lelFacx6AM) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [FLIGHT LOG : TURBULENCE](https://open.spotify.com/album/4m7ocqdUZh1ohn3nxurMf0) | 3:37 | 2022-05-23 | 2023-08-06 |
 | [Slow Mo](https://open.spotify.com/track/2stElshTCkdXTnCkD9moQF) | [BamBam](https://open.spotify.com/artist/2p48L95TwEaYkSdn6R7LOr) | [B](https://open.spotify.com/album/1J1S8EQgILHHmy64ouQXh7) | 2:32 | 2022-05-23 |  |
+| [SMOOTH](https://open.spotify.com/track/5D6zddguAb4HOLfBRa3MKp) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 2:41 | 2025-01-20 |  |
 | [SPECIAL](https://open.spotify.com/track/1rMn0ksQVhSBrEq8gIMR67) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/0M6kdJcIA81S9pnIa5pofW) | 3:26 | 2022-05-23 | 2024-04-19 |
 | [SPECIAL](https://open.spotify.com/track/3VTaSTJwPundWfQHw1jy4x) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love : Last Piece](https://open.spotify.com/album/65q29w9jyM9QL2u55MJyij) | 3:26 | 2022-05-23 |  |
 | [SPECIAL](https://open.spotify.com/track/64vGGXR2JO75ngSyAsvb8d) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Breath of Love: Last Piece](https://open.spotify.com/album/5vL6vinpOUVWOV2T8VjL4H) | 3:26 | 2022-05-23 | 2023-08-06 |
@@ -238,6 +245,7 @@
 | [Think About It](https://open.spotify.com/track/4EPSCgvJCYlw563M1UqZxQ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [&ME Edition](https://open.spotify.com/album/0LvabrCTm7KthUKX7Ny8d0) | 3:08 | 2022-05-23 | 2023-08-06 |
 | [THURSDAY](https://open.spotify.com/track/2oR3LyhJcuy0GOHhCPcoHo) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:26 | 2022-05-23 | 2024-04-19 |
 | [THURSDAY](https://open.spotify.com/track/3v5BOhyPrVQN7PYE6JnY7j) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:26 | 2022-05-23 |  |
+| [TIDAL WAVE](https://open.spotify.com/track/1yEjMYJy2mFkhQuoNurjfu) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 3:09 | 2025-01-20 |  |
 | [Time Out](https://open.spotify.com/track/4YQKoTs6QESahc7N4OI82A) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/6OIEYHaYTSPpDQRz2coN1o) | 3:01 | 2022-05-23 |  |
 | [TIME OUT](https://open.spotify.com/track/5ZynmbezT5MBrXfkjbr3La) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [SPINNING TOP : BETWEEN SECURITY & INSECURITY](https://open.spotify.com/album/59fYApmznf1LAghMnUvDTr) | 3:01 | 2022-05-23 | 2024-04-19 |
 | [TITANIC \(feat\. Rich Brian\)](https://open.spotify.com/track/6k6pPAqLxleqb3fbMtVjxe) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY), [Rich Brian](https://open.spotify.com/artist/2IDLDx25HU1nQMKde4n61a) | [MIRRORS](https://open.spotify.com/album/38Haveja8WznqiccCDJKHz) | 2:21 | 2022-05-23 |  |
@@ -272,6 +280,7 @@
 | [You Are](https://open.spotify.com/track/6NyPIDsbl4hEm9tFKcKzsU) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [7 for 7](https://open.spotify.com/album/3VofrXVCFsACXqdwzTVsNy) | 3:20 | 2022-05-23 |  |
 | [You Calling My Name](https://open.spotify.com/track/0IxEQbRKjdc0fKPmovjEYw) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/5SBLYLF6v5FafexVCvVh8R) | 3:14 | 2022-05-23 | 2024-04-19 |
 | [You Calling My Name](https://open.spotify.com/track/6f4wghlwYWGLqGEIKc6HDQ) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [Call My Name](https://open.spotify.com/album/76B3bEVEuCnZTkwhOXdjmg) | 3:14 | 2022-05-23 |  |
+| [Yours Truly,](https://open.spotify.com/track/0RB5NJzvebwnQUzVxuOx57) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [WINTER HEPTAGON](https://open.spotify.com/album/2TtVKZ7e40MVhqNbtYuT5z) | 3:50 | 2025-01-20 |  |
 | [ZERO](https://open.spotify.com/track/4IAXVS8vOGoY89nWAAe1OH) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I Won't Let You Go \(Complete Edition\)](https://open.spotify.com/album/2DxBZzlb1iNeOLAar8keYn) | 3:48 | 2022-05-23 |  |
 | [ZERO](https://open.spotify.com/track/4jXgqvdN5MZPu1ge87vqu4) | [GOT7](https://open.spotify.com/artist/6nfDaffa50mKtEOwR8g4df) | [I WON'T LET YOU GO \(Complete Edition\)](https://open.spotify.com/album/42GCdf2m9ogDdIsJCUgW8J) | 3:48 | 2022-05-23 | 2024-04-19 |
 | [王嘉爾](https://open.spotify.com/track/380m8wx1X9cSSSF5If2D9X) | [Jackson Wang](https://open.spotify.com/artist/1kfWoWgCugPkyxQP8lkRlY) | [王嘉爾](https://open.spotify.com/album/1F4k2mAISGJFSKRvDUt1f1) | 4:33 | 2022-05-23 |  |

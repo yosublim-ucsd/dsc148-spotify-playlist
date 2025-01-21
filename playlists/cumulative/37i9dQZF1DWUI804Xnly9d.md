@@ -4,7 +4,7 @@
 
 > Magic of acoustic poured into your Chai\. Cover \- Shreya Ghoshal
 
-474 songs - 1 day 2 hr 34 min
+475 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [Akela](https://open.spotify.com/track/6XJes28674sRmlHAlndb5o) | [Ankur Tewari](https://open.spotify.com/artist/1ciT67XXpG2HOVsLQjKdv6) | [Akela](https://open.spotify.com/album/2UtPYtrj2QPpvFV4PPwSCw) | 5:01 | 2023-08-04 | 2023-12-16 |
 | [Akela Rasta](https://open.spotify.com/track/6s7nj6WHYqpn8Ywm1rqFIx) | [Suraj Nag](https://open.spotify.com/artist/2vX0pNOuin4A2xIM1Uy28d), [Sneha Bhattacharya](https://open.spotify.com/artist/4R3pfd3q5R5aMZcobk8InD), [Varun Chaturvedi](https://open.spotify.com/artist/3ZN07Zfrfk4RxZDmwFlOvL) | [Akela Rasta](https://open.spotify.com/album/0risckpoN86HOTMXh11HdH) | 1:48 | 2023-05-17 | 2023-07-13 |
 | [Akelapan](https://open.spotify.com/track/1ITfydBMQbHQzlFLYtkWjy) | [Hashtag Joy](https://open.spotify.com/artist/1hHcZHmSQO9mfhW09ctK0h) | [Akelapan](https://open.spotify.com/album/7v5D9fieXyfV9RFEefdbXV) | 3:05 | 2024-08-30 | 2024-09-18 |
-| [Akele Hum](https://open.spotify.com/track/192CtcgIfCN3iDiqlbAji3) | [SiiD Sehwag](https://open.spotify.com/artist/4t5vmmffsJQtcMDGx84Ryb), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Akele Hum](https://open.spotify.com/album/2t4xuDh2rTPnePIlMeXfo2) | 2:32 | 2024-12-13 |  |
+| [Akele Hum](https://open.spotify.com/track/192CtcgIfCN3iDiqlbAji3) | [SiiD Sehwag](https://open.spotify.com/artist/4t5vmmffsJQtcMDGx84Ryb), [Sshiv](https://open.spotify.com/artist/6NyXhJPrcOKVowHPoP5AQA) | [Akele Hum](https://open.spotify.com/album/2t4xuDh2rTPnePIlMeXfo2) | 2:32 | 2024-12-13 | 2025-01-21 |
 | [Alag Aasmaan](https://open.spotify.com/track/74kCarkFBzXYXNkkYJIsG0) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan](https://open.spotify.com/album/2WSMj9vMUGTwAMq0fo1vXi) | 3:32 | 2023-05-17 | 2023-06-10 |
 | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/track/1gxmaTGnxEgZuV8485tevN) | [Anuv Jain](https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx) | [Alag Aasmaan \(Acoustic\)](https://open.spotify.com/album/6o0udgyHVEdegUKzU2sh89) | 3:31 | 2023-05-17 | 2023-08-11 |
 | [Alag Aasman](https://open.spotify.com/track/4VgkQazKMpeWrCX2LT8CtW) | [Soumya Mukherjee](https://open.spotify.com/artist/5afRWzAI1mcKDCLyz056ZA) | [Alag Aasman](https://open.spotify.com/album/4nhqssTZYpv8dTO29InlEG) | 2:23 | 2023-10-26 | 2023-11-08 |
@@ -103,6 +103,7 @@
 | [Dil Ghabraye \(From "I Want To Talk"\)](https://open.spotify.com/track/6Or8GnbeZSnqN4CnKVSuqn) | [Taba Chake](https://open.spotify.com/artist/6AnOY77z51J14nEUVsFKTy) | [Dil Ghabraye \(From "I Want To Talk"\)](https://open.spotify.com/album/6hAFLXjEQvPhj1zmZoDA4r) | 4:13 | 2024-11-11 |  |
 | [Dil Ki Kahani](https://open.spotify.com/track/63PAklGYefhEPUWMXiONSC) | [Anandi Aheeri](https://open.spotify.com/artist/24FIQnYu0IgWUXE6qvXYPe) | [Dil Ki Kahani](https://open.spotify.com/album/7mhklP1bZglS3XGjIxefhE) | 3:46 | 2024-03-15 | 2024-05-10 |
 | [Dil Mein Thoda Sa](https://open.spotify.com/track/2eBWFPefQnjrEMZDECXg5U) | [Gaurav Agrawal](https://open.spotify.com/artist/4HhD2GH1866v1KvZfYCF0V) | [Dil Mein Thoda Sa](https://open.spotify.com/album/0ppxaU8C9xdliTrUCxM7NT) | 3:42 | 2024-07-30 | 2024-08-24 |
+| [Dil Nadaan](https://open.spotify.com/track/5eeFwvCRYJ1fOFt2rpYBuZ) | [Mehak V](https://open.spotify.com/artist/2olc4uw7xRNCV5AmqVfTmj) | [Dil Nadaan](https://open.spotify.com/album/1MwqwAwXwuy1AeukH0D8Fd) | 3:32 | 2025-01-20 |  |
 | [Dil Se Jo Poocha](https://open.spotify.com/track/6L0bMBsrawngv4HxOYpouu) | [AKG](https://open.spotify.com/artist/1p82NAmbk637NmFTzx8Drw), [Atul Gupta](https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k) | [Dil Se Jo Poocha](https://open.spotify.com/album/1X8BE2TNnlSQd5BWmgf7Ku) | 2:28 | 2024-11-11 | 2025-01-04 |
 | [Dil Teri Raah](https://open.spotify.com/track/5vVKNkvj6fXRAoE0St3KYm) | [Akanksha Sethi](https://open.spotify.com/artist/70gqhziA790XfoUL5FWD16) | [Dil Teri Raah](https://open.spotify.com/album/1LNNBZeapnbYniiRj1BWuZ) | 3:03 | 2023-05-17 | 2024-01-20 |
 | [Dil yeh mera](https://open.spotify.com/track/75FFYq4zjscYgpWSLrcj1X) | [Prasad Aalim](https://open.spotify.com/artist/472d15meTJCz0GzJel8SF6) | [Dil yeh mera](https://open.spotify.com/album/13oAQqhmMpDVPGTgDbZsV2) | 4:00 | 2023-06-15 | 2023-12-19 |

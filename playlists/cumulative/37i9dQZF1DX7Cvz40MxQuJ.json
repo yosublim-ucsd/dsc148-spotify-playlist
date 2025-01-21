@@ -289,6 +289,36 @@
     },
     {
       "album": {
+        "name": "Desmarest & Campra: Iphig\u00e9nie en Tauride",
+        "url": "https://open.spotify.com/album/6MpFsVHDNuThSnRUW7tSaS"
+      },
+      "artists": [
+        {
+          "name": "Henri Desmarets",
+          "url": "https://open.spotify.com/artist/5txCr4vSzzVyY2PgaAglCW"
+        },
+        {
+          "name": "Andr\u00e9 Campra",
+          "url": "https://open.spotify.com/artist/0PqPknmYIYTP8QwfAJ76e3"
+        },
+        {
+          "name": "Le Concert Spirituel",
+          "url": "https://open.spotify.com/artist/3JqPlYm35Q5oWei0xbeFiV"
+        },
+        {
+          "name": "Herve Niquet",
+          "url": "https://open.spotify.com/artist/63uY29bvU5hyWZXYRTEhkq"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 74133,
+      "name": "Iphig\u00e9nie en Tauride, Act II, Scene 3: 1er et 2\u00e8me menuets",
+      "url": "https://open.spotify.com/track/5WMKKOJCY1fXoZPBOsog9n"
+    },
+    {
+      "album": {
         "name": "O Solitude",
         "url": "https://open.spotify.com/album/4L29ejjZ86MsfnZAoldkPL"
       },
@@ -534,7 +564,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 224375,
       "name": "Playing Detective",
       "url": "https://open.spotify.com/track/0CNJnWO2wf3XO2FbOhTjiA"
@@ -712,6 +742,24 @@
       "duration_ms": 233994,
       "name": "Soliloquies on 3 Welsh Folk Songs: No. 2, Suo g\u00e2n",
       "url": "https://open.spotify.com/track/7sMvYO5Ewgmsd4f9pX01ig"
+    },
+    {
+      "album": {
+        "name": "Bugshell (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/3hsgLDXirOMCVR1ZRlGNEn"
+      },
+      "artists": [
+        {
+          "name": "Milo Paulus",
+          "url": "https://open.spotify.com/artist/5yFeB38F8WrASkfLYG58jS"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188903,
+      "name": "Stepping on Bugshells",
+      "url": "https://open.spotify.com/track/0WFmmf67LXPF8aLhCceSzj"
     },
     {
       "album": {

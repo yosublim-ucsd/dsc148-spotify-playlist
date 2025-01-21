@@ -2,7 +2,7 @@
 
 ### [Kollywood Cream](https://open.spotify.com/playlist/37i9dQZF1DX0TyiNWW7uUQ)
 
-> Finest collection of Tamil Music from the past 10 years<br/>Cover : Vettaiyan
+> Finest collection of Tamil Music from the past 10 years<br/>Cover : Amaran
 
 184 songs - 12 hr 4 min
 

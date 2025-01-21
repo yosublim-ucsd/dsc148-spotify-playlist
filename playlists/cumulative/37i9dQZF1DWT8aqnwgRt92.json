@@ -240,7 +240,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 202520,
       "name": "29(\u306b\u304f)",
       "url": "https://open.spotify.com/track/6vI6cAqZfD3XcB8T5E1WyK"
@@ -15182,7 +15182,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 215123,
       "name": "Star Parade",
       "url": "https://open.spotify.com/track/3HJ4LKYkpkwChkLicMLu4M"
@@ -18802,7 +18802,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-21",
       "duration_ms": 220189,
       "name": "Yummy Yummy",
       "url": "https://open.spotify.com/track/61jPH1PPmX3d9RoH76aW1O"
@@ -20522,6 +20522,24 @@
       "duration_ms": 222866,
       "name": "\u3075\u305f\u308a\u30d4\u30ce\u30ad\u30aa",
       "url": "https://open.spotify.com/track/0dJxpvpyvzKFhCJQTBFPXl"
+    },
+    {
+      "album": {
+        "name": "\u3078\u3073",
+        "url": "https://open.spotify.com/album/2G3fFSzVxuYaLpK35fXkPB"
+      },
+      "artists": [
+        {
+          "name": "\u30e8\u30eb\u30b7\u30ab",
+          "url": "https://open.spotify.com/artist/4UK2Lzi6fBfUi9rpDt6cik"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255615,
+      "name": "\u3078\u3073",
+      "url": "https://open.spotify.com/track/7pk2Mx1LnlaEpxfzNhgRuz"
     },
     {
       "album": {
@@ -32864,6 +32882,24 @@
       "duration_ms": 218614,
       "name": "\u96e2\u308c\u306a\u3044\u3067",
       "url": "https://open.spotify.com/track/4FXFXaXfUlIyiNJ04Ocwec"
+    },
+    {
+      "album": {
+        "name": "\u96e8\u30c8\u30ad\u30e1\u30ad\u604b\u6a21\u69d8",
+        "url": "https://open.spotify.com/album/0E68uhFEy7uDY5gIzUdC2d"
+      },
+      "artists": [
+        {
+          "name": "\u3044\u308d\u306f\u306b\u307b\u3078\u3063\u3068 \u3042\u3084\u3075\u3076\u307f",
+          "url": "https://open.spotify.com/artist/4yNmDmIRZptH90MevoYvQs"
+        }
+      ],
+      "date_added": "2025-01-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219106,
+      "name": "\u96e8\u30c8\u30ad\u30e1\u30ad\u604b\u6a21\u69d8",
+      "url": "https://open.spotify.com/track/36iEOE4xh43cjwEI7ptKfK"
     },
     {
       "album": {

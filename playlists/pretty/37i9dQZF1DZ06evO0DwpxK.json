@@ -1,12 +1,12 @@
 {
   "description": "This is HUMBE. The essential tracks, all in one playlist.",
-  "num_followers": 239750,
+  "num_followers": 239925,
   "original_name": "This Is HUMBE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4rvAAAAAAAZmvrrDbadH17ZY+xXje4i",
+  "snapshot_id": "Z4xAgAAAAAAn17v7ct+hJmao4kIQ9ete",
   "tracks": [
     {
       "added_at": null,
@@ -539,22 +539,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "bestia",
-        "url": "https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6"
+        "name": "Te Quiero Aqu\u00ed Ya",
+        "url": "https://open.spotify.com/album/6SLHSOEXgE52YBulVLJZp0"
       },
       "artists": [
-        {
-          "name": "Bruses",
-          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
-        },
         {
           "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 220638,
-      "name": "bestia",
-      "url": "https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra"
+      "duration_ms": 185514,
+      "name": "Te Quiero Aqu\u00ed Ya",
+      "url": "https://open.spotify.com/track/05C6RqtazHO47QZpZY04zX"
     },
     {
       "added_at": null,
@@ -575,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Te Quiero Aqu\u00ed Ya",
-        "url": "https://open.spotify.com/album/6SLHSOEXgE52YBulVLJZp0"
+        "name": "bestia",
+        "url": "https://open.spotify.com/album/3g7qNB5LqZlkp72mvCXYj6"
       },
       "artists": [
+        {
+          "name": "Bruses",
+          "url": "https://open.spotify.com/artist/5bRLeMl4Tnozmg9wR1pY7y"
+        },
         {
           "name": "HUMBE",
           "url": "https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL"
         }
       ],
-      "duration_ms": 185514,
-      "name": "Te Quiero Aqu\u00ed Ya",
-      "url": "https://open.spotify.com/track/05C6RqtazHO47QZpZY04zX"
+      "duration_ms": 220638,
+      "name": "bestia",
+      "url": "https://open.spotify.com/track/2HZ5HcjkncmwlEh6dNG5Ra"
     },
     {
       "added_at": null,

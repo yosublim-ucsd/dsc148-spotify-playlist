@@ -1,6 +1,6 @@
 {
   "description": "All <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">wobble</a> \ud83d\udca5 with LEVEL UP",
-  "num_followers": 974670,
+  "num_followers": 974735,
   "original_name": "Dubstep Don",
   "owner": {
     "name": "Spotify",
@@ -1043,6 +1043,22 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
+        "name": "DIRTY SOUTH",
+        "url": "https://open.spotify.com/album/5a7tbIK8SwlsJVmf4fygaf"
+      },
+      "artists": [
+        {
+          "name": "Rated R",
+          "url": "https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj"
+        }
+      ],
+      "duration_ms": 174879,
+      "name": "DIRTY SOUTH",
+      "url": "https://open.spotify.com/track/0Fj8IYC9a7dVMXq3j0wOn9"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
         "name": "Energy",
         "url": "https://open.spotify.com/album/3LnyoZtjl0R0Xiwqgn61za"
       },
@@ -1059,22 +1075,6 @@
       "duration_ms": 244965,
       "name": "Energy",
       "url": "https://open.spotify.com/track/0WestNiV3HHGYx241RZb0J"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
-        "name": "DIRTY SOUTH",
-        "url": "https://open.spotify.com/album/5a7tbIK8SwlsJVmf4fygaf"
-      },
-      "artists": [
-        {
-          "name": "Rated R",
-          "url": "https://open.spotify.com/artist/7LjnXw8QLtGkt9GSwyo7aj"
-        }
-      ],
-      "duration_ms": 174879,
-      "name": "DIRTY SOUTH",
-      "url": "https://open.spotify.com/track/0Fj8IYC9a7dVMXq3j0wOn9"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "GAME OVER",
-        "url": "https://open.spotify.com/album/2mjQHe5WBByTNacccwBObR"
-      },
-      "artists": [
-        {
-          "name": "Ray Volpe",
-          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
-        }
-      ],
-      "duration_ms": 198400,
-      "name": "GAME OVER",
-      "url": "https://open.spotify.com/track/3AcT4pRaCvKj6sDW57sgIS"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
         "name": "Hush",
         "url": "https://open.spotify.com/album/44izydeupjKkWEGoytnwWH"
       },
@@ -1227,6 +1211,22 @@
       "duration_ms": 123830,
       "name": "Hush",
       "url": "https://open.spotify.com/track/6AlfGbQ59wwGyt2VmbjnZF"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
+        "name": "GAME OVER",
+        "url": "https://open.spotify.com/album/2mjQHe5WBByTNacccwBObR"
+      },
+      "artists": [
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "duration_ms": 198400,
+      "name": "GAME OVER",
+      "url": "https://open.spotify.com/track/3AcT4pRaCvKj6sDW57sgIS"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -1635,26 +1635,6 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "Fire",
-        "url": "https://open.spotify.com/album/6n0qdLWtEHiJCfA7gGXbcu"
-      },
-      "artists": [
-        {
-          "name": "Liquid Stranger",
-          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
-        },
-        {
-          "name": "EVVAN",
-          "url": "https://open.spotify.com/artist/27BFuMSAtQzEHmlCo9oXcH"
-        }
-      ],
-      "duration_ms": 218181,
-      "name": "Fire",
-      "url": "https://open.spotify.com/track/1ee0DeLwvC9qAeArqdkny1"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
         "name": "Lights Go Down",
         "url": "https://open.spotify.com/album/30Nzw0vhbCEw5XWaRYmdoM"
       },
@@ -1671,6 +1651,26 @@
       "duration_ms": 153600,
       "name": "Lights Go Down",
       "url": "https://open.spotify.com/track/6Ybl2ps2tWOsD7rbiMU0Id"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/6n0qdLWtEHiJCfA7gGXbcu"
+      },
+      "artists": [
+        {
+          "name": "Liquid Stranger",
+          "url": "https://open.spotify.com/artist/4YJsSCuag8W1TFTgSeEc2k"
+        },
+        {
+          "name": "EVVAN",
+          "url": "https://open.spotify.com/artist/27BFuMSAtQzEHmlCo9oXcH"
+        }
+      ],
+      "duration_ms": 218181,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/1ee0DeLwvC9qAeArqdkny1"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "Together As One",
-        "url": "https://open.spotify.com/album/5LQ26b0Vxn8D6OLbyoXhTX"
-      },
-      "artists": [
-        {
-          "name": "Excision",
-          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
-        }
-      ],
-      "duration_ms": 166249,
-      "name": "Together As One",
-      "url": "https://open.spotify.com/track/0jaNgwB0N373CTg8EpnllU"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
         "name": "BRULURE",
         "url": "https://open.spotify.com/album/1KMjCZrj4I7bi29Ujrs8rF"
       },
@@ -1863,6 +1847,22 @@
       "duration_ms": 247814,
       "name": "DESPAIR",
       "url": "https://open.spotify.com/track/5x5wkfcFZUQsPh8vLs0WTy"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
+        "name": "Together As One",
+        "url": "https://open.spotify.com/album/5LQ26b0Vxn8D6OLbyoXhTX"
+      },
+      "artists": [
+        {
+          "name": "Excision",
+          "url": "https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb"
+        }
+      ],
+      "duration_ms": 166249,
+      "name": "Together As One",
+      "url": "https://open.spotify.com/track/0jaNgwB0N373CTg8EpnllU"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -2083,26 +2083,6 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "HIGHER",
-        "url": "https://open.spotify.com/album/0S1h56CifbJgXDdLMYJWZg"
-      },
-      "artists": [
-        {
-          "name": "Dirt Monkey",
-          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
-        },
-        {
-          "name": "Smoakland",
-          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
-        }
-      ],
-      "duration_ms": 199480,
-      "name": "HIGHER",
-      "url": "https://open.spotify.com/track/0OOHr8GuVQlpYFJGseeXZi"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
         "name": "Delusional",
         "url": "https://open.spotify.com/album/0mTgHGtaN63xXRd9PTFjed"
       },
@@ -2135,6 +2115,26 @@
       "duration_ms": 133587,
       "name": "Teeth (feat. Bejalvin)",
       "url": "https://open.spotify.com/track/0HC2VZhRBHFvpYe0T7IHxI"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
+        "name": "HIGHER",
+        "url": "https://open.spotify.com/album/0S1h56CifbJgXDdLMYJWZg"
+      },
+      "artists": [
+        {
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        },
+        {
+          "name": "Smoakland",
+          "url": "https://open.spotify.com/artist/6409kgOB4tZEkNZci6BiUs"
+        }
+      ],
+      "duration_ms": 199480,
+      "name": "HIGHER",
+      "url": "https://open.spotify.com/track/0OOHr8GuVQlpYFJGseeXZi"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -2395,6 +2395,30 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
+        "name": "HEAT",
+        "url": "https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR"
+      },
+      "artists": [
+        {
+          "name": "DIESEL",
+          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
+        },
+        {
+          "name": "Crankdat",
+          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
+        },
+        {
+          "name": "Shaquille O'Neal",
+          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "HEAT",
+      "url": "https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
         "name": "You Shall See",
         "url": "https://open.spotify.com/album/2FnHDIAo8IC4CtQaCZOcHp"
       },
@@ -2431,30 +2455,6 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "HEAT",
-        "url": "https://open.spotify.com/album/0LNjCowJXfTpBCyNyG65vR"
-      },
-      "artists": [
-        {
-          "name": "DIESEL",
-          "url": "https://open.spotify.com/artist/75vCyksqhYjtt5VIpc8g7u"
-        },
-        {
-          "name": "Crankdat",
-          "url": "https://open.spotify.com/artist/5lCekoJW9jNq01B1wiqdAb"
-        },
-        {
-          "name": "Shaquille O'Neal",
-          "url": "https://open.spotify.com/artist/67RWyN1fDOu7WuSTIi5hE7"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "HEAT",
-      "url": "https://open.spotify.com/track/2GqpGnSsaS4WY4wgURygHO"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
         "name": "Torture",
         "url": "https://open.spotify.com/album/4ZVt3DEEjQaFCfloBApGl0"
       },
@@ -2475,22 +2475,6 @@
       "duration_ms": 232000,
       "name": "Torture",
       "url": "https://open.spotify.com/track/5eo1iLxmJK3D4SXdDxY0Xr"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
-        "name": "Become A God EP",
-        "url": "https://open.spotify.com/album/010HgN9zQOgL78IepoEliq"
-      },
-      "artists": [
-        {
-          "name": "Perry Wayne",
-          "url": "https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB"
-        }
-      ],
-      "duration_ms": 222857,
-      "name": "Become A God",
-      "url": "https://open.spotify.com/track/40kpDixmgcVgLp1mbnk9py"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -2519,6 +2503,22 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
+        "name": "Become A God EP",
+        "url": "https://open.spotify.com/album/010HgN9zQOgL78IepoEliq"
+      },
+      "artists": [
+        {
+          "name": "Perry Wayne",
+          "url": "https://open.spotify.com/artist/1sJO9NMvEseJKrVeXEwTqB"
+        }
+      ],
+      "duration_ms": 222857,
+      "name": "Become A God",
+      "url": "https://open.spotify.com/track/40kpDixmgcVgLp1mbnk9py"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
         "name": "if you wanna",
         "url": "https://open.spotify.com/album/5z7iWCWjQ118YggyhVsfSE"
       },
@@ -2539,26 +2539,6 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "STONED TO DEATH",
-        "url": "https://open.spotify.com/album/5PHJVpeoYbuDXQTmPiKtd5"
-      },
-      "artists": [
-        {
-          "name": "Stoned Level",
-          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
-        },
-        {
-          "name": "MUERTE",
-          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
-        }
-      ],
-      "duration_ms": 157241,
-      "name": "STONED TO DEATH",
-      "url": "https://open.spotify.com/track/63y1kLGmzb1mxHAZLc8AsJ"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
         "name": "KILLA",
         "url": "https://open.spotify.com/album/4nu7wpa375CHZVOAp1zdLt"
       },
@@ -2575,6 +2555,42 @@
       "duration_ms": 171428,
       "name": "KILLA",
       "url": "https://open.spotify.com/track/0tkweWSDmerhKMIaM2midQ"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
+        "name": "Mosh Alarm / FTPU",
+        "url": "https://open.spotify.com/album/2gCsbtjL9p5hdS2KFgIKWJ"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "duration_ms": 193655,
+      "name": "Mosh Alarm",
+      "url": "https://open.spotify.com/track/1r8YnpN4KAHnQbj8vO2EAW"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
+        "name": "STONED TO DEATH",
+        "url": "https://open.spotify.com/album/5PHJVpeoYbuDXQTmPiKtd5"
+      },
+      "artists": [
+        {
+          "name": "Stoned Level",
+          "url": "https://open.spotify.com/artist/4a88oLYeDp88PT1XCAxGXd"
+        },
+        {
+          "name": "MUERTE",
+          "url": "https://open.spotify.com/artist/6TWscSE05GH5UvJpVq8y7y"
+        }
+      ],
+      "duration_ms": 157241,
+      "name": "STONED TO DEATH",
+      "url": "https://open.spotify.com/track/63y1kLGmzb1mxHAZLc8AsJ"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -2611,22 +2627,6 @@
       "duration_ms": 264827,
       "name": "Delete Me",
       "url": "https://open.spotify.com/track/64qzMqWdnPXObrRhC2XP4d"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
-        "name": "Mosh Alarm / FTPU",
-        "url": "https://open.spotify.com/album/2gCsbtjL9p5hdS2KFgIKWJ"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        }
-      ],
-      "duration_ms": 193655,
-      "name": "Mosh Alarm",
-      "url": "https://open.spotify.com/track/1r8YnpN4KAHnQbj8vO2EAW"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -2723,6 +2723,22 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/6IfU3upju7lmbEjZY28Wrr"
+      },
+      "artists": [
+        {
+          "name": "Riot Ten",
+          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
+        }
+      ],
+      "duration_ms": 185379,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
         "name": "Open Up The Pit",
         "url": "https://open.spotify.com/album/1spoWWUkfqNTdZwiVwvV0a"
       },
@@ -2779,22 +2795,6 @@
       "duration_ms": 147310,
       "name": "Pocket Change",
       "url": "https://open.spotify.com/track/2Y5SakTfLyezs5dBElmc78"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
-        "name": "Tear It Down",
-        "url": "https://open.spotify.com/album/6IfU3upju7lmbEjZY28Wrr"
-      },
-      "artists": [
-        {
-          "name": "Riot Ten",
-          "url": "https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ"
-        }
-      ],
-      "duration_ms": 185379,
-      "name": "Tear It Down",
-      "url": "https://open.spotify.com/track/437V6pBF0GzAArc7DCfQzd"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -2959,26 +2959,6 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "Defeatist",
-        "url": "https://open.spotify.com/album/0hEECMrMTGb1nI8G8i6qeS"
-      },
-      "artists": [
-        {
-          "name": "Dion Timmer",
-          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
-        },
-        {
-          "name": "Chime",
-          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
-        }
-      ],
-      "duration_ms": 214374,
-      "name": "Defeatist",
-      "url": "https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
         "name": "Cyberspace EP",
         "url": "https://open.spotify.com/album/1zgeL6E1p4SWHtRxKrkaWB"
       },
@@ -3011,6 +2991,26 @@
       "duration_ms": 216000,
       "name": "FUNKSTEP!",
       "url": "https://open.spotify.com/track/78Jvedja5DpdRsQ2THf356"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
+        "name": "Defeatist",
+        "url": "https://open.spotify.com/album/0hEECMrMTGb1nI8G8i6qeS"
+      },
+      "artists": [
+        {
+          "name": "Dion Timmer",
+          "url": "https://open.spotify.com/artist/06VibSJEr3GLxLBBZhRums"
+        },
+        {
+          "name": "Chime",
+          "url": "https://open.spotify.com/artist/3hMTYaexWgGkXqvbkt6EIS"
+        }
+      ],
+      "duration_ms": 214374,
+      "name": "Defeatist",
+      "url": "https://open.spotify.com/track/2faP8OzfXMSE8Fz8DZV0dO"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -3343,8 +3343,8 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "DEVIL",
-        "url": "https://open.spotify.com/album/0bavsd0o722pLRNEwd47v0"
+        "name": "HUSTLE",
+        "url": "https://open.spotify.com/album/1hInf7nLuHuVCEqCK5ymCr"
       },
       "artists": [
         {
@@ -3352,25 +3352,9 @@
           "url": "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
         }
       ],
-      "duration_ms": 175448,
-      "name": "DEVIL",
-      "url": "https://open.spotify.com/track/3ZotZNd6EIjff0TvXR1J2P"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
-        "name": "BEAMS",
-        "url": "https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS"
-      },
-      "artists": [
-        {
-          "name": "INFEKT",
-          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
-        }
-      ],
-      "duration_ms": 178758,
-      "name": "BEAMS",
-      "url": "https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS"
+      "duration_ms": 168428,
+      "name": "HUSTLE",
+      "url": "https://open.spotify.com/track/4auf8M6t7Y9kiHcqutCGgP"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -3395,6 +3379,22 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
+        "name": "BEAMS",
+        "url": "https://open.spotify.com/album/5AYrW1k2Y0f3gpN3BlWmQS"
+      },
+      "artists": [
+        {
+          "name": "INFEKT",
+          "url": "https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl"
+        }
+      ],
+      "duration_ms": 178758,
+      "name": "BEAMS",
+      "url": "https://open.spotify.com/track/081pPUtsdE1iBqvyjw4kCS"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
         "name": "Brace For Impact",
         "url": "https://open.spotify.com/album/3hiolKfmBVOqGpiujLG6pu"
       },
@@ -3407,6 +3407,22 @@
       "duration_ms": 210857,
       "name": "Brace For Impact",
       "url": "https://open.spotify.com/track/0JbcUVu5mlSJBkRLuVPYW2"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
+        "name": "The Light",
+        "url": "https://open.spotify.com/album/3uvNNntgesD9IdobKz0O8T"
+      },
+      "artists": [
+        {
+          "name": "MUST DIE!",
+          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
+        }
+      ],
+      "duration_ms": 234620,
+      "name": "The Light",
+      "url": "https://open.spotify.com/track/3KrINa3r5vWcp3pM2d9HDz"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -3427,22 +3443,6 @@
       "duration_ms": 182608,
       "name": "Deleted",
       "url": "https://open.spotify.com/track/6XHTvts7otpFvh4hENku42"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
-        "name": "The Light",
-        "url": "https://open.spotify.com/album/3uvNNntgesD9IdobKz0O8T"
-      },
-      "artists": [
-        {
-          "name": "MUST DIE!",
-          "url": "https://open.spotify.com/artist/4aBx7mA6lUOVhEsjokZrXb"
-        }
-      ],
-      "duration_ms": 234620,
-      "name": "The Light",
-      "url": "https://open.spotify.com/track/3KrINa3r5vWcp3pM2d9HDz"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -3523,8 +3523,8 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "HUSTLE",
-        "url": "https://open.spotify.com/album/1hInf7nLuHuVCEqCK5ymCr"
+        "name": "DEVIL",
+        "url": "https://open.spotify.com/album/0bavsd0o722pLRNEwd47v0"
       },
       "artists": [
         {
@@ -3532,9 +3532,9 @@
           "url": "https://open.spotify.com/artist/1XXHaDxpaVojtY2QKYaQzl"
         }
       ],
-      "duration_ms": 168428,
-      "name": "HUSTLE",
-      "url": "https://open.spotify.com/track/4auf8M6t7Y9kiHcqutCGgP"
+      "duration_ms": 175448,
+      "name": "DEVIL",
+      "url": "https://open.spotify.com/track/3ZotZNd6EIjff0TvXR1J2P"
     },
     {
       "added_at": "2025-01-17 21:50:01",
@@ -3691,22 +3691,6 @@
     {
       "added_at": "2025-01-17 21:50:01",
       "album": {
-        "name": "Warrior EP",
-        "url": "https://open.spotify.com/album/5I7NpgaLW9WcgvUUvZeQSf"
-      },
-      "artists": [
-        {
-          "name": "Eater",
-          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
-        }
-      ],
-      "duration_ms": 195428,
-      "name": "Warriors",
-      "url": "https://open.spotify.com/track/5uHPyFEWZOFGFY7EMvhFxc"
-    },
-    {
-      "added_at": "2025-01-17 21:50:01",
-      "album": {
         "name": "WRATH OF THE WICKED - Remixes",
         "url": "https://open.spotify.com/album/0JGzk0KXvrLNoznenUrvbH"
       },
@@ -3739,6 +3723,22 @@
       "duration_ms": 193866,
       "name": "Sonic Beef",
       "url": "https://open.spotify.com/track/5ge5D4RdUvclju1DBaTFcM"
+    },
+    {
+      "added_at": "2025-01-17 21:50:01",
+      "album": {
+        "name": "Warrior EP",
+        "url": "https://open.spotify.com/album/5I7NpgaLW9WcgvUUvZeQSf"
+      },
+      "artists": [
+        {
+          "name": "Eater",
+          "url": "https://open.spotify.com/artist/5o9dfJmonwleJh7VcO5m3Z"
+        }
+      ],
+      "duration_ms": 195428,
+      "name": "Warriors",
+      "url": "https://open.spotify.com/track/5uHPyFEWZOFGFY7EMvhFxc"
     },
     {
       "added_at": "2025-01-17 21:50:01",

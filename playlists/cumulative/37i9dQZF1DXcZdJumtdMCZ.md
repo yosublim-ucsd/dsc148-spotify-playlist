@@ -2,7 +2,7 @@
 
 ### [RAP 91 Tamil](https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ)
 
-> Featuring the dopest MC's from Tamil Rap scene<br/>Cover : Yuvan Shankar Raja
+> Best of Tamil Hip\-Hop!<br/>Cover : Yuvan Shankar Raja
 
 147 songs - 9 hr 0 min
 

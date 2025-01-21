@@ -4,7 +4,7 @@
 
 > Club tracks and dancefloor essentials\. The best floor fillers\. Change your living room to a nightclub with these tracks!
 
-927 songs - 1 day 23 hr 18 min
+928 songs - 1 day 23 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -647,6 +647,7 @@
 | [Play The Beat](https://open.spotify.com/track/02lNJz6huBFo6QrW9xXOmn) | [Mr\. Sid](https://open.spotify.com/artist/6RNKef9r8fl05a3yy0gjcu), [Monroe](https://open.spotify.com/artist/070pjBhWWo9AT3KtkebV8c) | [Play The Beat](https://open.spotify.com/album/1ZwrvRwgSdICrpGbcogvKc) | 2:04 | 2023-06-22 | 2023-07-14 |
 | [Play This Rhythm](https://open.spotify.com/track/7Blp79ZL8i7VJYHWLgqaMM) | [Matt Stone](https://open.spotify.com/artist/6XORLwVlOJqt0Xui5wAAoR) | [Play This Rhythm](https://open.spotify.com/album/50Ss2QG6IQnpsaYlUSNhjA) | 2:54 | 2024-09-27 | 2025-01-09 |
 | [Playa](https://open.spotify.com/track/3D0VEmqcbT95B22ojdjkU1) | [RAFI](https://open.spotify.com/artist/1lHKz7UclrOxsquASlnNRs) | [Playa](https://open.spotify.com/album/5Ys8n1I5tFS0uvFAlaRna0) | 3:06 | 2023-02-17 | 2023-04-13 |
+| [Playing Games](https://open.spotify.com/track/1UunDhtIQx3Fjn08zSz6lJ) | [Michael Caird](https://open.spotify.com/artist/5LP7xYqXpUWvqkYiAte2Dn) | [Playing Games](https://open.spotify.com/album/3JHjaD7Iy3w9mMyrHlO3Yl) | 3:20 | 2025-01-20 |  |
 | [Pop](https://open.spotify.com/track/4J5KCUFanJFj0RSniGSzGh) | [NightFunk](https://open.spotify.com/artist/1UgUBnYpGyrYfGIfkMp08O) | [Pop](https://open.spotify.com/album/2nGhGNH8tCKJofFxwhSGTE) | 2:56 | 2024-05-02 | 2024-09-26 |
 | [Pop Pills](https://open.spotify.com/track/1BjgDV9IFM5W320YlhNXlK) | [KLYMVX](https://open.spotify.com/artist/68PsxdwOmePEmaNZJgKBU3), [Luke Miller](https://open.spotify.com/artist/3wr4TiFX6aXHWDrsXbwMQD), [Jey Aux Platines](https://open.spotify.com/artist/5AMw3TbaNH7fLqCF9WG23c) | [Pop Pills](https://open.spotify.com/album/3ypN0Pai7OCQpFAsYdcAF3) | 2:58 | 2023-06-06 | 2023-06-09 |
 | [Porta](https://open.spotify.com/track/1pb5puaIFpRKZljrRvUYBh) | [Bonsaye](https://open.spotify.com/artist/1GL8uwuoUqjDP9Qs37FoFG) | [Porta](https://open.spotify.com/album/1ypob0SleVfy9RVAzfnmIH) | 3:26 | 2024-12-05 |  |
