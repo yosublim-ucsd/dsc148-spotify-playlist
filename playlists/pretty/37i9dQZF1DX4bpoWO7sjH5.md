@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 
 > Música navideña para celebrar el nacimiento de nuestro Salvador\. Portada: Miel San Marcos
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,576 likes - 125 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,573 likes - 125 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,8 +51,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4bpoWO7sjH5.md) - [plain]
 | 41 | [Dios Anduvo en Pañales](https://open.spotify.com/track/0c5eFeiDpsu7s40DSRbU78) | [Pablo Martinez](https://open.spotify.com/artist/5IirgPwhfjHp6MDFXbLRdz), [Paola Pablo](https://open.spotify.com/artist/4OgKEU8REaur4PyaUb7Guu) | [Dios Anduvo en Pañales](https://open.spotify.com/album/1XLOzbZqYkWelLKKTQUTCh) | 3:06 |
 | 42 | [Rey de Gloria](https://open.spotify.com/track/6lb6QojMr4vItM2sUPbpaM) | [Dauny](https://open.spotify.com/artist/1b4yCihx1rjqBTeSaY3fw7), [Cindy Barrera](https://open.spotify.com/artist/6kdT3CTmuUous4XfdFMP4a), [Conexzion Directa](https://open.spotify.com/artist/5V5cqERMmCDUZipZYFZtXN) | [Rey de Gloria](https://open.spotify.com/album/5SUjOmUzooZIDIEm0O5WKB) | 3:22 |
 | 43 | [AL MUNDO PAZ](https://open.spotify.com/track/0rPxempwI3Htj5f07xwiPt) | [Emir Sensini](https://open.spotify.com/artist/0PymX5SwKjel2b1lXRvU20) | [AL MUNDO PAZ](https://open.spotify.com/album/1VPMpj11LVpbxusl9fZNG3) | 2:59 |
-| 44 | [Desde Que Nació](https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Emanuel](https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45) | 3:34 |
-| 45 | [V I D A \- \(Acústico\)](https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Es Navidad](https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK) | 2:47 |
+| 44 | [V I D A \- \(Acústico\)](https://open.spotify.com/track/2woLdfukowEU7QsR9LuVGJ) | [Vaes](https://open.spotify.com/artist/7iOw6TIHh8GcNnaAFvXyTu) | [Es Navidad](https://open.spotify.com/album/0xxxuIwB62GNz14rzaHbGK) | 2:47 |
+| 45 | [Desde Que Nació](https://open.spotify.com/track/0toi8eAeMiWlQNScNbYHDn) | [Lourdes Toledo](https://open.spotify.com/artist/1l0tusoe8gcXNkoA5r5jA3) | [Emanuel](https://open.spotify.com/album/1xuNhRxoVHFRXRG8ZKNW45) | 3:34 |
 | 46 | [Venid Fieles Todos](https://open.spotify.com/track/7B93yC2pb1Tv6PX7I8PzbQ) | [mixtr](https://open.spotify.com/artist/65Vs3f2mQK6jublzD06io7), [TWICE](https://open.spotify.com/artist/2yp6zqk49KOKKrOSSsUb75), [Adarga](https://open.spotify.com/artist/3ce7pTvRVGA2WRMS2KXT3r), [Vanesa Keeley](https://open.spotify.com/artist/7i5UxlHBlg97SSFYVAHNjY), [David Borraez Archila](https://open.spotify.com/artist/7zMJFYQNSPh2pIgD6teTUN), [Molly Sirvatka](https://open.spotify.com/artist/0LLCLGEu7Zlsp3EPHOPsET), [Lauren Welter](https://open.spotify.com/artist/3NFbaB9hwhnXk5STfaroAc) | [Welcome Home \(Este Es Tu Hogar\)](https://open.spotify.com/album/7slekWPMTlFsaYzdCpHjaB) | 3:06 |
 | 47 | [A María](https://open.spotify.com/track/49djwGukxBHYL0PByj4vUs) | [Ricardo Montaner](https://open.spotify.com/artist/4uoz4FUMvpeyGClFTTDBsD) | [A María](https://open.spotify.com/album/4QtNkWoDoZAXmgg6wiRZzB) | 3:38 |
 | 48 | [Emmanuel \- Radio Edit](https://open.spotify.com/track/7G1XliJqhJOOu3gjVvQ1uG) | [Nueva Raza](https://open.spotify.com/artist/2y5W2i22MO6sBNwUlUCcl0), [Semillas De Vida](https://open.spotify.com/artist/5wzQXPEWdkh3PCkxoceoP2), [ENROCA](https://open.spotify.com/artist/5SyPyaMiQGvIlsrg4s2dPy) | [Emmanuel \(Radio Edit\)](https://open.spotify.com/album/3QOBk0cVV6JcDipDOxIKSh) | 4:55 |

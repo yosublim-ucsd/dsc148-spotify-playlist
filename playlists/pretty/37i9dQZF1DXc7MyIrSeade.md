@@ -4,18 +4,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc7MyIrSeade.md) - [plain]
 
 > Cele mai bune piese pop ale anului 2024\. Cover: Irina Rimes
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,867 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,875 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Dudadu](https://open.spotify.com/track/7A0foIRFpCRMXutDU9vDsQ) | [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj) | [Dudadu](https://open.spotify.com/album/1R6lbA0eS3rw4wSetdUIhk) | 2:36 |
 | 2 | [De la dela](https://open.spotify.com/track/4qQDJp46yZj6xz8mwq91v7) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [De la dela](https://open.spotify.com/album/6pba5ksDHtVywuKyhlpzmy) | 3:23 |
 | 3 | [Ratat](https://open.spotify.com/track/3FLkFHEz6dQZwW9L5Vasew) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Ratat](https://open.spotify.com/album/6cHl7jHIJnUSJ5BG82ZQRR) | 2:53 |
-| 4 | [În alte vieți](https://open.spotify.com/track/1RNIelUgU03YoJsn6m8Rdr) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE), [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [În alte vieți](https://open.spotify.com/album/3oqhm3Ve8LFjk6yChHRMKe) | 2:53 |
+| 4 | [În alte vieți](https://open.spotify.com/track/1RNIelUgU03YoJsn6m8Rdr) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE), [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [În alte vieți](https://open.spotify.com/album/3oqhm3Ve8LFjk6yChHRMKe) | 2:53 |
 | 5 | [Tu, Mărie!](https://open.spotify.com/track/19kcHnQM6FN6Ck0gYEOwXO) | [Grasu XXL](https://open.spotify.com/artist/4BMSu3GY2lP8sH0nmrdgGG) | [Tu, Mărie!](https://open.spotify.com/album/5jspaqgzrndtazKeAcFDZr) | 3:21 |
 | 6 | [O șansă](https://open.spotify.com/track/3K6rMELWeXeij9ElXQPQKf) | [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [O șansă](https://open.spotify.com/album/5iEhZpaC3aM4hf4AFBrFqd) | 3:19 |
 | 7 | [Pământul](https://open.spotify.com/track/0ncnKarpjnFDaeUg15Nq46) | [The Urs](https://open.spotify.com/artist/6EVlSwtMryO0bo1q1eWzfY) | [Pământul](https://open.spotify.com/album/6AHTpDe8SFo1iuQS7Dk47x) | 2:51 |
-| 8 | [Si Ce Daca](https://open.spotify.com/track/79UyYeS0ESQG4MOoOhYjra) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Si Ce Daca](https://open.spotify.com/album/13zBv87bnGgVwGAt51FAXY) | 3:15 |
+| 8 | [Si Ce Daca](https://open.spotify.com/track/79UyYeS0ESQG4MOoOhYjra) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Si Ce Daca](https://open.spotify.com/album/13zBv87bnGgVwGAt51FAXY) | 3:15 |
 | 9 | [Queen Of My Castle](https://open.spotify.com/track/5AkKovjix5SPXurPaV1p69) | [Kris Kross Amsterdam](https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R), [INNA](https://open.spotify.com/artist/2w9zwq3AktTeYYMuhMjju8) | [Queen Of My Castle](https://open.spotify.com/album/5g6FHRdXl51AAOmlJaHfk9) | 2:36 |
 | 10 | [Cum te vad eu](https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc) | [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Cum te vad eu](https://open.spotify.com/album/2I6xBq2JOHn4KyAqyLgCp5) | 2:53 |
 | 11 | [Interstelar](https://open.spotify.com/track/47FliwS0uRIa1og7hGQ4qr) | [Alexia](https://open.spotify.com/artist/4aH4e1URpzxjf5BI01BxQz) | [Interstelar](https://open.spotify.com/album/1JxU3Pwk7xChPqatRjbGX0) | 3:22 |

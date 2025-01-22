@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Hindi hip hop hits, fiery bars, and killer beats. Cover: Emiway Bantai",
+  "description": "Best of Hindi Hip-Hop! Cover: Emiway Bantai",
   "name": "RAP 91 Hindi",
   "tracks": [
     {
@@ -268,7 +268,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 221142,
       "name": "Asal G",
       "url": "https://open.spotify.com/track/1uBScPDkr0M98KHxsX4QKp"
@@ -434,6 +434,24 @@
       "duration_ms": 196797,
       "name": "Balawala Bad Bois",
       "url": "https://open.spotify.com/track/2v692a5boFb35NymerzqRH"
+    },
+    {
+      "album": {
+        "name": "Bambaiyya",
+        "url": "https://open.spotify.com/album/5RgbalAqEptsXQKgvwZ2X8"
+      },
+      "artists": [
+        {
+          "name": "Nazz",
+          "url": "https://open.spotify.com/artist/7iEUKVcv42PUcIS696yadB"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135724,
+      "name": "Bambaiyya",
+      "url": "https://open.spotify.com/track/2P9K6C6D38v6RnVihnHnVK"
     },
     {
       "album": {
@@ -614,7 +632,7 @@
       ],
       "date_added": "2023-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 184000,
       "name": "Bhussi",
       "url": "https://open.spotify.com/track/4jwC6DDNc7zhe6f6g4yqAd"
@@ -680,7 +698,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 214153,
       "name": "Brahamachari",
       "url": "https://open.spotify.com/track/71Rp11WbiT4jNFsvsVTULU"
@@ -716,7 +734,7 @@
       ],
       "date_added": "2024-04-09",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 160851,
       "name": "Bt Ho Gayi",
       "url": "https://open.spotify.com/track/0TzpHT6hJ5pb3P6CqIduh3"
@@ -848,7 +866,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 175813,
       "name": "Chooke Dekh",
       "url": "https://open.spotify.com/track/3n3Urxb6O9OzXkYng9W60V"
@@ -1072,7 +1090,7 @@
       ],
       "date_added": "2023-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 265327,
       "name": "Dev Nagri",
       "url": "https://open.spotify.com/track/5uSXh5pWaaCjr4mKvsa0Uv"
@@ -1106,6 +1124,32 @@
       "duration_ms": 202105,
       "name": "Dhak Dhak",
       "url": "https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N"
+    },
+    {
+      "album": {
+        "name": "Dhyaan Se",
+        "url": "https://open.spotify.com/album/2YpqvLTfOCzVBfa4lE3SNh"
+      },
+      "artists": [
+        {
+          "name": "vijay dada",
+          "url": "https://open.spotify.com/artist/5inpoNmMNM5jGVdvyzm4wL"
+        },
+        {
+          "name": "Arabinda Neog",
+          "url": "https://open.spotify.com/artist/4O0UY7QlS80oeDZB1g7iWf"
+        },
+        {
+          "name": "Gauranga Shekhar",
+          "url": "https://open.spotify.com/artist/7KCPaxk6t5K6DLdZfdakYy"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191029,
+      "name": "Dhyaan Se",
+      "url": "https://open.spotify.com/track/5vBl4keuohlsqXdmz5hw76"
     },
     {
       "album": {
@@ -1688,7 +1732,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 160434,
       "name": "Halaat",
       "url": "https://open.spotify.com/track/5QNSqCKL7raNt8JPYSYxP9"
@@ -2140,7 +2184,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 213809,
       "name": "Kaha Tak",
       "url": "https://open.spotify.com/track/1EvFCT12WiFT649pC9wsPV"
@@ -2244,7 +2288,7 @@
       ],
       "date_added": "2024-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 185783,
       "name": "Kaleshi Launde",
       "url": "https://open.spotify.com/track/1I1pIaWzWBHuERmhKpHVey"
@@ -2930,7 +2974,7 @@
       ],
       "date_added": "2024-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 155172,
       "name": "MISFIT",
       "url": "https://open.spotify.com/track/3M4cdCsEdxjnVyGWMBMLOl"
@@ -3044,7 +3088,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 206400,
       "name": "Naksha",
       "url": "https://open.spotify.com/track/3syqe1nnZ4eHjhsc0qM5UW"
@@ -3194,7 +3238,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 198305,
       "name": "NO CHINA",
       "url": "https://open.spotify.com/track/1LZbyxhEXOjdHwWoaWN7Ve"
@@ -3216,7 +3260,7 @@
       ],
       "date_added": "2023-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 159600,
       "name": "No ID",
       "url": "https://open.spotify.com/track/7EHRSYq5H4yJrhnOND4V4O"
@@ -3260,7 +3304,7 @@
       ],
       "date_added": "2023-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 200842,
       "name": "Paisa On My Mind",
       "url": "https://open.spotify.com/track/65kga6DUIuueiZHR52tWcb"
@@ -3362,7 +3406,7 @@
       ],
       "date_added": "2023-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 214540,
       "name": "Punja Daab",
       "url": "https://open.spotify.com/track/0sal9BreaUYc5ylJBfYufo"
@@ -3524,7 +3568,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 175093,
       "name": "Rounds N Ring",
       "url": "https://open.spotify.com/track/3qp2R5QFdCNypAuHiG0KqK"
@@ -3616,7 +3660,7 @@
       ],
       "date_added": "2023-08-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 173142,
       "name": "Samajh Rahi Hai",
       "url": "https://open.spotify.com/track/680FKrGby9wBLFIzY2MFf9"
@@ -3664,7 +3708,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 150681,
       "name": "Santa Claws",
       "url": "https://open.spotify.com/track/0TY80GStM6cxDDyLSYswni"
@@ -3802,7 +3846,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 166285,
       "name": "Shut Up",
       "url": "https://open.spotify.com/track/3XMZT9cUc54MnyKdDYNiqA"
@@ -3824,7 +3868,7 @@
       ],
       "date_added": "2024-06-05",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 152000,
       "name": "SIZE 7",
       "url": "https://open.spotify.com/track/5auKuXhe69d48mUm6nzG84"
@@ -3846,7 +3890,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 167225,
       "name": "Snake Bites",
       "url": "https://open.spotify.com/track/4hTFsh364ny3WnrLzumfdh"
@@ -3868,7 +3912,7 @@
       ],
       "date_added": "2024-09-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 181986,
       "name": "Sort It Out",
       "url": "https://open.spotify.com/track/6kpfiF1LyrOaq7ADMYTMOl"
@@ -4012,7 +4056,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-07",
+      "date_removed": null,
       "duration_ms": 145531,
       "name": "Surma",
       "url": "https://open.spotify.com/track/7mwm44cHIEM0FcDHGgQl4J"
@@ -4160,7 +4204,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-18",
+      "date_removed": null,
       "duration_ms": 169384,
       "name": "Tere Jaisi",
       "url": "https://open.spotify.com/track/7ebzprvKL2Z1tMOfBC40YG"
@@ -4724,7 +4768,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 150400,
       "name": "YAHI PE",
       "url": "https://open.spotify.com/track/4172mPCPwqzA2qZggHeyG6"
@@ -4812,7 +4856,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 140145,
       "name": "Zindagi Mast Hai",
       "url": "https://open.spotify.com/track/6JZOllYZRNENfISJ4sU7rg"

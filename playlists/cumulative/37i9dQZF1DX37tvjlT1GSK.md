@@ -4,7 +4,7 @@
 
 > Románticas, rancheras y bravías, las mejores canciones sierreñas\. Reynaldos de la Sierra en portada.
 
-504 songs - 1 day 2 hr 37 min
+505 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -241,7 +241,7 @@
 | [La Joya](https://open.spotify.com/track/5KyAyaQLzwXXJs0vSTtdI1) | [Hijos De Barron](https://open.spotify.com/artist/32YGQsNtuwyobFFnn8ikpe) | [La Joya](https://open.spotify.com/album/2dORJIqrbsOWUpVVf09aRM) | 2:52 | 2023-08-04 | 2023-09-06 |
 | [La Lista](https://open.spotify.com/track/0sQGMzZCE7urmEya7Ky7AL) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [La Lista](https://open.spotify.com/album/2W91Gs7qvH1yODKt8Hm7QH) | 3:31 | 2022-05-13 | 2022-12-03 |
 | [La Niña Del Instagram](https://open.spotify.com/track/1aYCq7zHZ4tHvDUxEN6nHG) | [Grupo TMB](https://open.spotify.com/artist/3QknSu5Hr8QrEGl3rzQOPT) | [La Niña Del Instagram](https://open.spotify.com/album/393GPWJ8CE4UjBLMXEhSZr) | 3:48 | 2023-12-01 | 2024-02-24 |
-| [La Noche es Larga](https://open.spotify.com/track/2IM2wMzxAcPEonK0LrPFWZ) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [La Noche es Larga](https://open.spotify.com/album/7ghCjb2MxHe9tGCUfMUAsr) | 1:55 | 2024-10-25 |  |
+| [La Noche es Larga](https://open.spotify.com/track/2IM2wMzxAcPEonK0LrPFWZ) | [Dan Sanchez](https://open.spotify.com/artist/1yPvnL2XGGehNiOGWzcAAG), [La Cuatiza](https://open.spotify.com/artist/7hNfq19HIL0PRumBReFlsp) | [La Noche es Larga](https://open.spotify.com/album/7ghCjb2MxHe9tGCUfMUAsr) | 1:55 | 2024-10-25 | 2025-01-22 |
 | [La Nueva Generacion](https://open.spotify.com/track/3XKbU2FWC2PDkaIAk4Gf8f) | [Clave 520](https://open.spotify.com/artist/3DnH9jotIhBLs9xikHAp54) | [La Nueva Generacion](https://open.spotify.com/album/0Ywgf0mdv0JIzPVuLJuOUW) | 3:28 | 2022-07-12 | 2022-08-06 |
 | [La Original](https://open.spotify.com/track/3py6gppNmac3Lt6dq81hbp) | [Los Lara](https://open.spotify.com/artist/0GUkPki3DpCkvKDxIKpaI4) | [La Original](https://open.spotify.com/album/2ANuDURJDHtHMgiaJOaBGO) | 2:17 | 2023-11-17 | 2024-05-26 |
 | [La Oveja Negra](https://open.spotify.com/track/6bA5RoXzQE1M4BhiJreCBQ) | [T3R Elemento](https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv) | [Capitulo 2: El Año Del Dragon](https://open.spotify.com/album/038xP0ZpQuao8QBXZ14qAQ) | 3:02 | 2024-12-20 |  |
@@ -375,6 +375,7 @@
 | [Porque Te Vas](https://open.spotify.com/track/0lpxDRCONr2FJRqcM3Q74z) | [Victor Cibrian](https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Porque Te Vas](https://open.spotify.com/album/0rz4GbE2VH0LihBMnquYJX) | 3:50 | 2024-04-09 |  |
 | [PRC](https://open.spotify.com/track/2mpoNBkngUEwnaKoBhZ0vl) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [PRC](https://open.spotify.com/album/2OXBosbXT7Qs3J6vBd6IkI) | 3:04 | 2023-01-27 |  |
 | [Prendo Un Cigarro](https://open.spotify.com/track/2LtTq58DW0GqaHzjPW2SMi) | [Porte Diferente](https://open.spotify.com/artist/1OZhgL2E9qx49PhVzWRcuf) | [Prendo Un Cigarro](https://open.spotify.com/album/2kSv47K3fLPdilzgsLJZmS) | 3:12 | 2024-02-09 | 2024-02-24 |
+| [Presidente](https://open.spotify.com/track/6YGPff2aLRXY3HYviQIMbU) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [Somos Double P](https://open.spotify.com/album/11dQWJ1ugsZlWSa81ErRmx) | 2:50 | 2025-01-20 |  |
 | [Préstame Tu Corazón](https://open.spotify.com/track/1bnSKjuPEd8FPACxqA5Mos) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Préstame Tu Corazón](https://open.spotify.com/album/193sAyinQJCfAe9rWjUH36) | 3:02 | 2022-03-18 |  |
 | [Puro Pa' Delante](https://open.spotify.com/track/0ARXyftIAFj6BPJCDDEac8) | [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Puro Pa' Delante](https://open.spotify.com/album/7LD7kDSXZVmUCEfLwoRh4B) | 2:33 | 2023-01-13 | 2024-05-25 |
 | [Puño de Diamantes](https://open.spotify.com/track/3HQfiw1j3zL1jcLYWlozA9) | [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [Somos Double P](https://open.spotify.com/album/11dQWJ1ugsZlWSa81ErRmx) | 4:36 | 2025-01-17 |  |

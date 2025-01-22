@@ -1,12 +1,12 @@
 {
   "description": "This is Rod Wave. The essential tracks, all in one playlist.",
-  "num_followers": 223636,
+  "num_followers": 223736,
   "original_name": "This Is Rod Wave",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4xAgAAAAADM6Ipk1zCY3I7zxuswhzQu",
+  "snapshot_id": "Z42SAAAAAAD2oRmMU43ZaoSHnHhD1n6R",
   "tracks": [
     {
       "added_at": null,
@@ -471,30 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "WHAM",
-        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
-      },
-      "artists": [
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
-        },
-        {
-          "name": "Rylo Rodriguez",
-          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
-        },
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "By Myself (feat. Rod Wave & Rylo Rodriguez)",
-      "url": "https://open.spotify.com/track/6zrCf0MGof32vwLPZIZY2S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "SoulFly",
         "url": "https://open.spotify.com/album/7q5xGp0tEnJ8s1ZumqiRSk"
       },
@@ -523,6 +499,30 @@
       "duration_ms": 163080,
       "name": "Ribbon In The Sky",
       "url": "https://open.spotify.com/track/6jrIg0liFANIULoHFOOeX0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "WHAM",
+        "url": "https://open.spotify.com/album/2c8SoKQdYX3D7tN1ywt9xb"
+      },
+      "artists": [
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+        },
+        {
+          "name": "Rylo Rodriguez",
+          "url": "https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq"
+        },
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "By Myself (feat. Rod Wave & Rylo Rodriguez)",
+      "url": "https://open.spotify.com/track/6zrCf0MGof32vwLPZIZY2S"
     },
     {
       "added_at": null,
@@ -595,22 +595,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SoulFly (Deluxe Version)",
-        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
-      },
-      "artists": [
-        {
-          "name": "Rod Wave",
-          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
-        }
-      ],
-      "duration_ms": 155259,
-      "name": "What's Wrong",
-      "url": "https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Westside Connection",
         "url": "https://open.spotify.com/album/5e94NMKRQi00VBepoyo3hG"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 164129,
       "name": "Westside Connection",
       "url": "https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SoulFly (Deluxe Version)",
+        "url": "https://open.spotify.com/album/15BnishwaiZhh0ZY3fnxMN"
+      },
+      "artists": [
+        {
+          "name": "Rod Wave",
+          "url": "https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z"
+        }
+      ],
+      "duration_ms": 155259,
+      "name": "What's Wrong",
+      "url": "https://open.spotify.com/track/1jNapyyVxPB4X6gewQjEM8"
     },
     {
       "added_at": null,

@@ -2301,6 +2301,24 @@
     },
     {
       "album": {
+        "name": "Nonsense",
+        "url": "https://open.spotify.com/album/5WBDS4AihMRhhKVsqhHBef"
+      },
+      "artists": [
+        {
+          "name": "Penthouse",
+          "url": "https://open.spotify.com/artist/50QaWH5OLY3Pkt1XNCGk6L"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152964,
+      "name": "Nonsense",
+      "url": "https://open.spotify.com/track/0PfUhlKBLCvQwT2zkN8oK3"
+    },
+    {
+      "album": {
         "name": "Obsessed",
         "url": "https://open.spotify.com/album/6ScO0wdlpZQsE2Mszdg2xF"
       },
@@ -3300,7 +3318,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 138653,
       "name": "Thru the night",
       "url": "https://open.spotify.com/track/6PXwCHwKYa6XBmuejjLQgD"
@@ -3588,6 +3606,24 @@
       "duration_ms": 232578,
       "name": "Vision feat. JESSE",
       "url": "https://open.spotify.com/track/4IwDPshCD2wCiK9uXHwys2"
+    },
+    {
+      "album": {
+        "name": "We don't need heroes",
+        "url": "https://open.spotify.com/album/0D426CAnfeUmd662YaP8Y1"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190785,
+      "name": "We don't need heroes",
+      "url": "https://open.spotify.com/track/66PLaLborZo2mvNIs546T5"
     },
     {
       "album": {
@@ -4379,6 +4415,24 @@
     },
     {
       "album": {
+        "name": "\u30a2\u30ca\u30b6\u30fc\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "\u30ab\u30c6\u30b4\u30e9\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk"
+    },
+    {
+      "album": {
         "name": "\u30ab\u30eb\u30c8",
         "url": "https://open.spotify.com/album/3PoU4pErF8qsWAV5CarQNb"
       },
@@ -4834,6 +4888,24 @@
       "duration_ms": 189542,
       "name": "\u30d3\u30fc\u30c8\u30a2\u30c7\u30a3\u30af\u30b7\u30e7\u30f3",
       "url": "https://open.spotify.com/track/60LtCcKHQ5SF5XwGCJ4KqX"
+    },
+    {
+      "album": {
+        "name": "\u65b0\u661f\u76ee\u9332",
+        "url": "https://open.spotify.com/album/1mBitF64U7CZPQW7uEit3z"
+      },
+      "artists": [
+        {
+          "name": "Hoshimachi Suisei",
+          "url": "https://open.spotify.com/artist/726WiFmWkohzodUxK3XjHX"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169886,
+      "name": "\u30d3\u30fc\u30ca\u30b9\u30d0\u30b0",
+      "url": "https://open.spotify.com/track/3f8zEj3BQlGAVtJtErWLqF"
     },
     {
       "album": {
@@ -5464,7 +5536,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 214222,
       "name": "\u30ef\u30f3\u30bf\u30a4\u30e0\u30a8\u30d4\u30ed\u30fc\u30b0",
       "url": "https://open.spotify.com/track/5ihqyte3hZEibOp2xFDAkm"
@@ -5931,6 +6003,28 @@
     },
     {
       "album": {
+        "name": "\u591c\u51ea (feat. \u306b\u3057\u306a)",
+        "url": "https://open.spotify.com/album/4AAjWHXAFXvJ3bScDWyHaU"
+      },
+      "artists": [
+        {
+          "name": "indigo la End",
+          "url": "https://open.spotify.com/artist/26ZBeXl5Gqr3TAv2itmyCU"
+        },
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207492,
+      "name": "\u591c\u51ea (feat. \u306b\u3057\u306a)",
+      "url": "https://open.spotify.com/track/4peHpL8DSQpDxblRCZEHbd"
+    },
+    {
+      "album": {
         "name": "\u591c\u7684\u5e73\u6210\u6d6a\u6f2b",
         "url": "https://open.spotify.com/album/6no86KhbbZAHu5EXUZ9n5Y"
       },
@@ -6086,7 +6180,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 208630,
       "name": "\u604b\u306e8\u79d2\u30eb\u30fc\u30eb",
       "url": "https://open.spotify.com/track/26TnbXOgpNt5tIsAl5Qezv"
@@ -6392,7 +6486,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 216134,
       "name": "\u697d\u3057\u3044\u7f8e\u5473\u3057\u3044\u3068\u308a\u3059\u304e\u3066\u3082\u3044\u3044",
       "url": "https://open.spotify.com/track/0q4lgrOqmw6mJzvozCz0rN"
@@ -6446,7 +6540,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 237904,
       "name": "\u7136\u3089\u3070",
       "url": "https://open.spotify.com/track/7MLRXVVgkCGHJFa81dRnW7"
@@ -6476,7 +6570,7 @@
       },
       "artists": [
         {
-          "name": "Lilas Ikuta",
+          "name": "Lilas",
           "url": "https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z"
         }
       ],

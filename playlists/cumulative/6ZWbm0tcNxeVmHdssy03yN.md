@@ -4,7 +4,7 @@
 
 > The best independent music in a post\-genre world
 
-4,782 songs - 10 day 13 hr 26 min
+4,784 songs - 10 day 13 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1304,6 +1304,7 @@
 | [Embrace](https://open.spotify.com/track/1Q2QPHMHM2aBHTCeye8BzE) | [Lobby Garcon](https://open.spotify.com/artist/4soMG4jcFY5hVcSA1zOxFp) | [Embrace](https://open.spotify.com/album/1OCQD6YeAnQCBjGjf0a951) | 2:48 | 2024-05-03 | 2024-05-18 |
 | [Emergency](https://open.spotify.com/track/3HNmu03kIxpNjeAic7L97y) | [Bazanji](https://open.spotify.com/artist/3L8FZaw2Rg1oUw3vB4gUME) | [Emergency](https://open.spotify.com/album/5MfvlOKdUqUpnPf3i4b587) | 2:18 | 2022-03-04 | 2022-05-07 |
 | [emotions](https://open.spotify.com/track/2R0oiQbyJc51GghQ8F4uFx) | [Jay Faded](https://open.spotify.com/artist/1Uh0ICHXIezbKnGUoEVzyZ) | [emotions](https://open.spotify.com/album/5QsNYSA9sMkr66mCtAm1fD) | 3:12 | 2024-02-16 | 2024-03-02 |
+| [Employee](https://open.spotify.com/track/6BlJYH5UurT8xhmBZZtIfC) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Employee](https://open.spotify.com/album/5SjTm8B3QLl6PuIegTFg7I) | 2:33 | 2025-01-21 |  |
 | [Empty](https://open.spotify.com/track/0mUK60GEwSmFQuzRcdGf9J) | [Rose Holland](https://open.spotify.com/artist/0s1kTVN40AkTa0ABb0lvJh) | [Empty](https://open.spotify.com/album/3OwtlEtY1WTTPlSvJlLiCu) | 3:50 | 2024-07-12 | 2024-08-03 |
 | [empty room](https://open.spotify.com/track/3EcIo9BeQ0WUTk8BFKi9qV) | [Jordan Jack](https://open.spotify.com/artist/5ff4bzcr8wYcVqmuhCBl7d) | [empty room](https://open.spotify.com/album/5rtRWQ16Wha680P0jFWIdz) | 2:54 | 2020-11-03\* | 2020-11-14 |
 | [empty streets](https://open.spotify.com/track/7ukJSt5KH5fWeHveoEioki) | [Jack Paraiso](https://open.spotify.com/artist/6GZ1KS0ArrXaEqs04nVjOS), [Solo .Cal](https://open.spotify.com/artist/6jF81Oc4PYwBeoRnTJGnBp) | [empty streets](https://open.spotify.com/album/4M9TCi3dYEr7qnn7uZAY6E) | 4:43 | 2024-07-12 | 2024-07-27 |
@@ -3960,6 +3961,7 @@
 | [Sublime](https://open.spotify.com/track/6YTXJiMui9DwQs7GBtDAFt) | [Twelve XII](https://open.spotify.com/artist/5Xy5YahwMWeQneQEjYnzHi), [bAd entity](https://open.spotify.com/artist/4DiGYjgcXUFwmAU0isUuaB) | [Naked & Sublime](https://open.spotify.com/album/3REwLE7KisloC9lPFYhu5V) | 3:04 | 2023-06-02 | 2023-06-24 |
 | [Submerse](https://open.spotify.com/track/4EYB1bnwtypD6pn8y5Lj4Z) | [Cotto](https://open.spotify.com/artist/2Ui5BC3xnA4YiR77xb7XOr) | [Submerse](https://open.spotify.com/album/19lHu3vXS081IsP0OKfWcw) | 5:30 | 2024-09-20 | 2024-10-12 |
 | [Sucker](https://open.spotify.com/track/75VE5cRCkrdRqTHvOL4u4h) | [Cece Vee](https://open.spotify.com/artist/0f26bNon1mjIqBn1MxgxZp) | [Sucker](https://open.spotify.com/album/6T9TG2MumbaQaufBiKetwO) | 2:39 | 2024-02-23 | 2024-03-16 |
+| [Sucks](https://open.spotify.com/track/6AJ9ZMfQnuYtjOFrRCLtZe) | [Ama](https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl) | [Sucks](https://open.spotify.com/album/1e1jCQGjucNZTfZEQqQDhq) | 2:16 | 2025-01-21 |  |
 | [Sueño e Inteligencia](https://open.spotify.com/track/49rugM5SCkP2HNgebx8Xi7) | [Pol Nada](https://open.spotify.com/artist/1Dts5QEWhfTgrZvDBEdNUH) | [Aparecido](https://open.spotify.com/album/7y61kRABwXeZzDuzw7Li5T) | 3:21 | 2023-07-14 | 2023-07-29 |
 | [Suffer and Swim](https://open.spotify.com/track/5FAfSZWgGvX8feO5M0mBUe) | [Sampology](https://open.spotify.com/artist/4si18qS80CBDvSo59qthZJ), [Allysha Joy](https://open.spotify.com/artist/3CzYPWEnpaODw56A53qxh3) | [Suffer and Swim](https://open.spotify.com/album/0jLL6liR4zMgct4YNhM391) | 3:28 | 2021-06-12 | 2021-07-24 |
 | [Suficiente](https://open.spotify.com/track/3NBgKEbVTwb5WmUpvMwuxV) | [Camila Sapin](https://open.spotify.com/artist/4VWYsx7VsRf0Ir5UUT6pMk), [Vicky Ripa](https://open.spotify.com/artist/6p4NHYSocHSiSm3FFz6uJr) | [Suficiente](https://open.spotify.com/album/6ISbBx9MS5DZIxDra1QPIX) | 3:04 | 2024-11-08 | 2024-11-30 |

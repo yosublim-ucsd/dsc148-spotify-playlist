@@ -2,9 +2,9 @@
 
 ### [K\-Pop Fresh](https://open.spotify.com/playlist/37i9dQZF1DX1LU4UHKqdtg)
 
-> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: Yves
+> The freshest K\-Pop of today!  //最先端のK\-Popをピックアップ！ Cover: KickFlip
 
-1,330 songs - 2 day 23 hr 9 min
+1,331 songs - 2 day 23 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,6 +486,7 @@
 | [HELLO](https://open.spotify.com/track/1ex8euBuzVyqjThnYfwY2k) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO](https://open.spotify.com/album/4l5YvRcmno5RMKZCZp1j0g) | 3:01 | 2022-10-04 | 2023-01-18 |
 | [HELLO \- JP Ver.](https://open.spotify.com/track/4QiD4Qkiq1Gw2v2FkKIgqe) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [THE SECOND STEP : CHAPTER TWO \(JP EDITION\)](https://open.spotify.com/album/1ITJ3AY63eEUnMxZTV735E) | 3:01 | 2022-11-24 | 2023-03-15 |
 | [Hello Goodbye](https://open.spotify.com/track/443V3JlVW2MJOO5yY92qAN) | [DRIPPIN](https://open.spotify.com/artist/5IVacR5tKgTu9HotcG8kkl) | [Hello Goodbye](https://open.spotify.com/album/3rvLFZpuE1xZWJNLxoCh6C) | 3:15 | 2023-03-14 | 2023-05-10 |
+| [HER](https://open.spotify.com/track/0b4xSLnMV2w0RXugY4w9Dg) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/5o5Qyfl84QAAnWNUHuuiCV) | 2:39 | 2025-01-21 |  |
 | [Here](https://open.spotify.com/track/7yZv08uDBYKCw7poSL3Btb) | [JINJIN \(ASTRO\)](https://open.spotify.com/artist/3U8ZnKIeY7sgQkIHjQDlHA) | [JIN LAB Project 7\. \[Here\]](https://open.spotify.com/album/5YwAPoIC2QjO4pApIsZ6OH) | 2:53 | 2024-10-24 | 2024-12-25 |
 | [Here I am](https://open.spotify.com/track/7qzpdzJRiIHXJpa28FYrD9) | [TWICE](https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0) | [DIVE](https://open.spotify.com/album/7tgTOUXm74GKA12wsQIUPu) | 2:50 | 2024-07-17 | 2024-09-04 |
 | [Here I Stand](https://open.spotify.com/track/2muMPwLTvz3tnGg5Jz4rjA) | [TREASURE](https://open.spotify.com/artist/3KonOYiLsU53m4yT7gNotP) | [Here I Stand](https://open.spotify.com/album/6XHLf6XkdhyHJzWSUhh1f0) | 3:49 | 2023-03-26 | 2023-07-08 |

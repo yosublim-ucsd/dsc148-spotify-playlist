@@ -1,6 +1,6 @@
 {
   "description": "Heat that will make you sweat \ud83e\udd75 Cover: Kapo",
-  "num_followers": 124246,
+  "num_followers": 124282,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
@@ -471,6 +471,22 @@
     {
       "added_at": "2025-01-10 05:00:10",
       "album": {
+        "name": "Baila Baila",
+        "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
+      },
+      "artists": [
+        {
+          "name": "Reykon",
+          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
+        }
+      ],
+      "duration_ms": 137821,
+      "name": "Baila Baila",
+      "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
+    },
+    {
+      "added_at": "2025-01-10 05:00:10",
+      "album": {
         "name": "A Veces A Besos (Remix)",
         "url": "https://open.spotify.com/album/6GQ6dTqETHVhICdGUoFbjf"
       },
@@ -487,22 +503,6 @@
       "duration_ms": 216146,
       "name": "A Veces A Besos - Remix",
       "url": "https://open.spotify.com/track/5s6wqK03tr6rzkT9qMFB1D"
-    },
-    {
-      "added_at": "2025-01-10 05:00:10",
-      "album": {
-        "name": "Baila Baila",
-        "url": "https://open.spotify.com/album/0fTPjUeGIAlgidFm3cJXnI"
-      },
-      "artists": [
-        {
-          "name": "Reykon",
-          "url": "https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf"
-        }
-      ],
-      "duration_ms": 137821,
-      "name": "Baila Baila",
-      "url": "https://open.spotify.com/track/1uRZnMiwpeK7ShuG6mxM8r"
     },
     {
       "added_at": "2025-01-10 05:00:10",

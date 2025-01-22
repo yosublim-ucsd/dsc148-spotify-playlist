@@ -513,6 +513,24 @@
     },
     {
       "album": {
+        "name": "cinema",
+        "url": "https://open.spotify.com/album/3lgoPcyXDDXOSTk1adyrTb"
+      },
+      "artists": [
+        {
+          "name": "aiko",
+          "url": "https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264667,
+      "name": "cinema",
+      "url": "https://open.spotify.com/track/1FmopaVTLI7dD6ZujdKc17"
+    },
+    {
+      "album": {
         "name": "SiX",
         "url": "https://open.spotify.com/album/0YH4dHHpaUUtXfWykOOiku"
       },
@@ -1120,7 +1138,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 196189,
       "name": "Heart",
       "url": "https://open.spotify.com/track/7DDg31QPMt7UBjKkCUG6S9"
@@ -3148,7 +3166,7 @@
       ],
       "date_added": "2024-12-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 232666,
       "name": "\u3055\u3088\u306a\u3089\u30d0\u30a4\u30d0\u30a4",
       "url": "https://open.spotify.com/track/3rknJHktDmH5TD9tXmpz7u"
@@ -3712,6 +3730,24 @@
       "duration_ms": 164750,
       "name": "\u30a2\u30d5\u30ed\u30c7\u30a3\u30b8\u30a2\u30c3\u30af",
       "url": "https://open.spotify.com/track/2TVvsrZVirk6zXluLvSAE9"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30ed\u30a8",
+        "url": "https://open.spotify.com/album/3c9oQXto9vXIvYDSJQnGDR"
+      },
+      "artists": [
+        {
+          "name": "\u821f\u6d25\u771f\u7fd4",
+          "url": "https://open.spotify.com/artist/01O1K2of8wkNZJhWRlRFcT"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237333,
+      "name": "\u30a2\u30ed\u30a8",
+      "url": "https://open.spotify.com/track/6yigUYGbHwYbzDys7Js9vo"
     },
     {
       "album": {
@@ -4894,7 +4930,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 216368,
       "name": "\u5316\u3051\u305d\u3046\u306a\u30b3\u30b3\u30ed",
       "url": "https://open.spotify.com/track/0srh0XTwMGeKEBV2CYkIJB"
@@ -6032,6 +6068,24 @@
       "duration_ms": 200050,
       "name": "\u6700\u4f4e",
       "url": "https://open.spotify.com/track/0qmF7YXfxp15wDexlK1tTt"
+    },
+    {
+      "album": {
+        "name": "\u672a\u604b",
+        "url": "https://open.spotify.com/album/5BPiP0dIDTPERkRf25y57i"
+      },
+      "artists": [
+        {
+          "name": "ChoQMay",
+          "url": "https://open.spotify.com/artist/5ZFxExn8YICZm9JFo9dqTq"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188015,
+      "name": "\u672a\u604b",
+      "url": "https://open.spotify.com/track/52Wr1agI0y15cVG3h5H4a6"
     },
     {
       "album": {

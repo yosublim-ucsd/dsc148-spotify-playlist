@@ -4,7 +4,7 @@
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-350 songs - 16 hr 23 min
+351 songs - 16 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,7 +26,7 @@
 | [Addiction](https://open.spotify.com/track/6TYZu7oyO4cVHaYP9QJyAt) | [Shooter Kahlon](https://open.spotify.com/artist/5oL0GAI8fKD0Wgbr4Em9AS), [Shevv](https://open.spotify.com/artist/2EQoFz6owAP4ATr5hGFRok) | [Addiction](https://open.spotify.com/album/6IAcOAoiDp8x5qUdr0YyqU) | 2:07 | 2024-12-02 |  |
 | [After Death](https://open.spotify.com/track/08K8yeCpIivZJyN6DcuKfr) | [King Dhillon](https://open.spotify.com/artist/5tJyWsClOFLf52T8BPgYNb), [Masand Music](https://open.spotify.com/artist/1uMUSHIymhjS3TLvI5fMo1) | [After Death](https://open.spotify.com/album/0RirvxfQFNY5HIgI3aNTp3) | 2:48 | 2023-03-18 | 2023-04-27 |
 | [Ahhi Kuj Khatteya](https://open.spotify.com/track/6prYVb7vpt7o7zx7q2BaYM) | [Gurtaj](https://open.spotify.com/artist/3z8g7U9Esi3qXRo34zcmfO), [The Landers](https://open.spotify.com/artist/7KEQQy9VJpx2xaojUu2VTp), [Davi Singh](https://open.spotify.com/artist/04C4hliPNKc6VZsTzmyyq0) | [Ahhi Kuj Khatteya](https://open.spotify.com/album/1Stt5cMP16F8sn3bALd4ml) | 2:23 | 2023-03-18 | 2024-09-17 |
-| [Ain't Loyal](https://open.spotify.com/track/1q5K6uD24v0z9P54tnWNkz) | [Manwal](https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df), [Mahiwaal](https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO), [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi) | [Ain't Loyal](https://open.spotify.com/album/38S3I6MbtMwwgNlul9GQo1) | 3:09 | 2024-11-26 |  |
+| [Ain't Loyal](https://open.spotify.com/track/1q5K6uD24v0z9P54tnWNkz) | [Manwal](https://open.spotify.com/artist/591aJOvKL4jvZljzwGU9Df), [Mahiwaal](https://open.spotify.com/artist/0oYAdne8qNXVtzbuU88ssO), [Rob C](https://open.spotify.com/artist/4hEz4Vg09BEJcypoN4WnAi) | [Ain't Loyal](https://open.spotify.com/album/38S3I6MbtMwwgNlul9GQo1) | 3:09 | 2024-11-26 | 2025-01-22 |
 | [AK Lover](https://open.spotify.com/track/6mHs7AjwYCdkb9xT7NcD4S) | [B Sarba](https://open.spotify.com/artist/1LYmYzDi3WJcRCmuBRXFfw) | [Banger](https://open.spotify.com/album/1h24R2SCtFu8Q1Du0J7bmH) | 3:09 | 2025-01-15 |  |
 | [Akaal](https://open.spotify.com/track/0llzWsqUifJ2B2UtP9ST0o) | [NseeB](https://open.spotify.com/artist/58o8gC55d5XSsI2MlTZ3M5) | [Akaal](https://open.spotify.com/album/6Xe0PVNMmjZVl4ofQNy9xd) | 2:28 | 2023-03-18 | 2023-10-12 |
 | [Albatta](https://open.spotify.com/track/3XAcx54wxdHMZVfb5EGHaD) | [Pari Pandher](https://open.spotify.com/artist/5FacpiPeQOaDKcKXm1UcyA), [Josh Brar](https://open.spotify.com/artist/6SWmwFBXIsxhIx5XPkYo0a), [Sikander Kahlon](https://open.spotify.com/artist/08mu3VEvLCIWDq4t0NNoTN), [Nabjot](https://open.spotify.com/artist/3yhsicJ7kTjvsV6fuA72l1) | [Welcome To Punjab](https://open.spotify.com/album/4eOCSM24EwRcX9US7gQjRA) | 2:35 | 2024-05-16 | 2024-09-17 |
@@ -297,6 +297,7 @@
 | [Smith Wesson](https://open.spotify.com/track/6LpePHdmg5IJSnLFBEOg22) | [Saiz Bajwa](https://open.spotify.com/artist/0t58TpmQBjBwBmtraKK8Ed) | [Bio \(Level 1\)](https://open.spotify.com/album/3OzId8BhJCWqcOfaC8uKEM) | 3:04 | 2024-11-18 | 2024-12-24 |
 | [Smoke](https://open.spotify.com/track/7mLPusRfKw8d6RysHIgBsP) | [Gravv T Singh](https://open.spotify.com/artist/3ualTt2kcJf7UIgazxVs7z) | [Careless Way](https://open.spotify.com/album/3mVvd2p4FsLvLRzbIeKhCR) | 2:28 | 2024-09-28 | 2024-11-08 |
 | [Speedin](https://open.spotify.com/track/5VimYNGccxbDBktl7aNRCS) | [Bir](https://open.spotify.com/artist/3R1penrqtuKNTeWABjKT5N), [Dhanju](https://open.spotify.com/artist/3SQVNBF31sOSgXeXzkGW9M) | [Speedin](https://open.spotify.com/album/5rytu6XDOtK6JMBK1NmHWi) | 2:21 | 2023-10-11 | 2024-09-04 |
+| [STARFACE](https://open.spotify.com/track/1sfsjPiKMRvPLQmKifR27i) | [The Kidd](https://open.spotify.com/artist/69NQgCPPwq05n5zewAYd8c), [Ilam](https://open.spotify.com/artist/5pB85Z8kuXW8shdMReACvc) | [STARFACE](https://open.spotify.com/album/1J7hFM273iBvqjfPx0PPmq) | 2:24 | 2025-01-21 |  |
 | [Statement](https://open.spotify.com/track/0nhMNbpjXFDJCAyAoorfMN) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W) | [I "M" Possible](https://open.spotify.com/album/1muIL8Oey6fZdc3VDHFh43) | 2:53 | 2024-12-11 |  |
 | [Stay Away](https://open.spotify.com/track/35QpjbpHbU9Y4smYdZDPSJ) | [Gur Aulakh](https://open.spotify.com/artist/4VmyHpdcbMcIM7DwuiTA5R), [Guneezy](https://open.spotify.com/artist/3X4R8OsNVk0dAkLcX9VIeB) | [Stay Away](https://open.spotify.com/album/6wVQcw9qizS6jR7NJQHEO2) | 4:42 | 2024-11-29 | 2025-01-16 |
 | [Stay With Me](https://open.spotify.com/track/4J51iI3X0qhc4wnfJE5B15) | [Sikkander](https://open.spotify.com/artist/5VrBVrPCCkw93feEHBkR8f) | [Stay With Me](https://open.spotify.com/album/3hlD7lg7YauBdLuLMSlFHc) | 2:54 | 2024-10-25 | 2024-11-30 |

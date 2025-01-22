@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 
 > This is MC Cabelinho\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,698 likes - 50 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,727 likes - 50 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 36 | [Carro Forte](https://open.spotify.com/track/1TL33F4bcT9fZPSqvUbFV5) | [BIN](https://open.spotify.com/artist/1WXbiUMl1AT9Inb619xPUg), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Mainstreet](https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Dono das Esquinas](https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK) | 4:00 |
 | 37 | [depois da meia noite](https://open.spotify.com/track/3bnwUi3XFEDSSePQXUTPJI) | [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Inocente "Demotape"](https://open.spotify.com/album/0buVrEIwifWoGnpQ7fhZgk) | 2:50 |
 | 38 | [BEM MELHOR](https://open.spotify.com/track/7aOBf2xYbux3bo1fwISo6b) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Oruam](https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT), [Palma](https://open.spotify.com/artist/5arfYeRczWtKre7ptGoEXp) | [LITTLE LOVE \(DELUXE\)](https://open.spotify.com/album/63yWnhCdUQQBhtQFGM108I) | 5:17 |
-| 39 | [Sem Compaixão](https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vetin](https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs) | 3:22 |
-| 40 | [Até o céu](https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Até o céu](https://open.spotify.com/album/713q68xdmP3jOgkAdY0gd4) | 2:46 |
+| 39 | [Até o céu](https://open.spotify.com/track/0NRP5OIrTcgGvttJlSLO0n) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Até o céu](https://open.spotify.com/album/713q68xdmP3jOgkAdY0gd4) | 2:46 |
+| 40 | [Sem Compaixão](https://open.spotify.com/track/1JY0M9yLPgv9VChWoCunYX) | [Leviano](https://open.spotify.com/artist/0xEdwBYYjxw6wk179Tq2sJ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vetin](https://open.spotify.com/album/2GUMdFLAWolI1qxf7dcTbs) | 3:22 |
 | 41 | [Gotham](https://open.spotify.com/track/415dld79DDW9drRA3luAqf) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Little Hair](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 2:50 |
 | 42 | [Vizão de Cria 3](https://open.spotify.com/track/7BE8gYIIFPJsx3EjXk77yT) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [PJ HOUDINI](https://open.spotify.com/artist/3nfVTPYDnppERKGCRS4vim), [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Anezzi](https://open.spotify.com/artist/1RaUlYy9nsEiDlucisa5Bk), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7), [MC Maneirinho](https://open.spotify.com/artist/3M8aD9XWxfel3jZakRbibZ), [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Vizão de Cria 3](https://open.spotify.com/album/1g1yMCBXSznyHPyf2YAK0l) | 5:24 |
 | 43 | [Química](https://open.spotify.com/track/5RTtCd89bpX4lSRaYgKd8r) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW) | [Química](https://open.spotify.com/album/6RWsT169HF4eb8C3FqFOMB) | 2:33 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO16f5bq.md) - [plain]
 | 49 | [Eu Te Avisei](https://open.spotify.com/track/1DPa9uuVDMUeGKNZQCgoQx) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv) | [Little Hair](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:06 |
 | 50 | [Outra Dimensão](https://open.spotify.com/track/6dLkUsssDfk54mmJ3FZdA1) | [MC Cabelinho](https://open.spotify.com/artist/1WQBwwssN6r8DSjUlkyUGW), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Ariel Donato](https://open.spotify.com/artist/7H3XEvrS2PsNzM76MczgHJ) | [Little Hair](https://open.spotify.com/album/1KAZ4CtfGW7JgVvh6lq30V) | 3:31 |
 
-Snapshot ID: `Z4xAgAAAAAD1+YWMkH84YtEWKJXLg5BH`
+Snapshot ID: `Z42SAAAAAADETqfuNHLyLRzfiXc7O7sf`

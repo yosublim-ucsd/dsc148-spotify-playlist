@@ -4,10 +4,11 @@
 
 > Chill, beachy tunes to soundtrack your summer.
 
-156 songs - 9 hr 5 min
+159 songs - 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
+| [4×4×U](https://open.spotify.com/track/2z865bsdfckaBVck8MSAm8) | [Lainey Wilson](https://open.spotify.com/artist/6tPHARSq45lQ8BSALCfkFC) | [Whirlwind](https://open.spotify.com/album/3YJeGDPwWmpqxm5xlIqjO8) | 3:59 | 2025-01-21 |  |
 | [All Again](https://open.spotify.com/track/7gbGedaqoNVDJ8JU79AGgX) | [Charles Wesley Godwin](https://open.spotify.com/artist/2ErsJAz6qJ5cqjoVAvfvaC) | [Family Ties](https://open.spotify.com/album/02EsOo5OwUGCPuBWuMkdY6) | 3:48 | 2024-05-13 |  |
 | [All I Ever Wanted \- with Colbie Caillat](https://open.spotify.com/track/7BGWHQFvIR53Il5OG1bmu4) | [Donavon Frankenreiter](https://open.spotify.com/artist/2IAZ2xX1Ovh5jxhBWE7wda), [Colbie Caillat](https://open.spotify.com/artist/6aZyMrc4doVtZyKNilOmwu) | [All I Ever Wanted \(with Colbie Caillat\)](https://open.spotify.com/album/5k76FHz8PHvF0UgXcfVVZ7) | 2:50 | 2024-08-09 |  |
 | [All My Favorite People \(feat\. Brothers Osborne\)](https://open.spotify.com/track/0tEPv5fuzMhtm6NM5GvQiF) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI), [Brothers Osborne](https://open.spotify.com/artist/39NR3AUhpbbqKM33vWn2fp) | [GIRL](https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf) | 3:19 | 2022-04-24 | 2023-05-20 |
@@ -57,6 +58,7 @@
 | [Glad To Be Here](https://open.spotify.com/track/6bXgRLGmrRCnue9R6MI1gF) | [Hailey Whitters](https://open.spotify.com/artist/4e9TBaTlI3LVQz3tkTYC0I), [Brent Cobb](https://open.spotify.com/artist/26C2AjqgMr5aDzj6Yp2ORz) | [The Dream: Living The Dream \(Deluxe\)](https://open.spotify.com/album/0r6KIOwZvmsEd457nUJWbt) | 4:33 | 2022-04-24 |  |
 | [Golden Hour](https://open.spotify.com/track/0pMfPzdRiPAoSM9yWF4OcT) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424) | [Golden Hour](https://open.spotify.com/album/7f6xPqyaolTiziKf5R5Z0c) | 3:18 | 2020-09-08 |  |
 | [Good Day](https://open.spotify.com/track/76XWHO6yy7a097yBT7DXVm) | [Brett Eldredge](https://open.spotify.com/artist/0qSX3s5pJnAlSsgsCne8Cz) | [Sunday Drive](https://open.spotify.com/album/5am18BIdjp6lOvt9KjKbSd) | 3:25 | 2022-04-24 |  |
+| [Good News](https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Good News](https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w) | 3:19 | 2025-01-21 |  |
 | [GOOD TIME](https://open.spotify.com/track/2S8UMuLJ0z8agFgFGJ6Ztt) | [Niko Moon](https://open.spotify.com/artist/6Rw7DRa1dzChBvxGPCpOxU) | [GOOD TIME](https://open.spotify.com/album/5WvmRAsjmB3uPLoFeCioC5) | 3:34 | 2022-04-24 | 2023-05-20 |
 | [Gulf Coast Girl](https://open.spotify.com/track/2YFKozNtk7Ml6GRoSxgk1k) | [Caroline Jones](https://open.spotify.com/artist/3xl6isKUFqJNui79kpdT0Y), [The Pelicanaires](https://open.spotify.com/artist/4lJWC8RyDAtoGfu52FMXrS), [Jimmy Buffett](https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0), [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Lukas Nelson](https://open.spotify.com/artist/1oK57qVDixqM7no13U1mK9), [Mac McAnally](https://open.spotify.com/artist/2dSu4iBQikoVlBc43gwaHY) | [Gulf Coast Girl](https://open.spotify.com/album/2t7XCwrLBrhMghLGCWb8Xm) | 3:45 | 2021-11-19 |  |
 | [Gulf Coast Time](https://open.spotify.com/track/6Xoj0QuDzH6tpvVrtpxWy1) | [Roger Creager](https://open.spotify.com/artist/1DyywGnuzXGEzlZMXBcc0j) | [Gulf Coast Time](https://open.spotify.com/album/3UuH7RshuQMI3kFAQmhYr6) | 3:56 | 2022-06-10 |  |
@@ -130,6 +132,7 @@
 | [Ten Rounds with Jose Cuervo \- Recall Mix](https://open.spotify.com/track/26J61MmE6YCWqIyROZdEgL) | [Tracy Byrd](https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT) | [Ten Rounds](https://open.spotify.com/album/5wQ2fnyW0fe27ctaysMJS2) | 3:02 | 2020-09-08 | 2022-06-21 |
 | [Tennessee Whiskey](https://open.spotify.com/track/3fqwjXwUGN6vbzIwvyFMhx) | [Chris Stapleton](https://open.spotify.com/artist/4YLtscXsxbVgi031ovDDdh) | [Traveller](https://open.spotify.com/album/7lxHnls3yQNl8B9bILmHj7) | 4:53 | 2022-04-24 |  |
 | [Tequila Does](https://open.spotify.com/track/2fmHMSaIadDzLPT4Im3Mze) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Wildcard](https://open.spotify.com/album/5Or2XM0Gjy6Y8qlaERqsSn) | 4:01 | 2022-04-24 |  |
+| [Texas](https://open.spotify.com/track/3yU9fLsuDYjzVyZW2FLUqY) | [Blake Shelton](https://open.spotify.com/artist/1UTPBmNbXNTittyMJrNkvw) | [Texas](https://open.spotify.com/album/32EJshiL5lZHoDJEoZVowz) | 2:50 | 2025-01-21 |  |
 | [That's The Life I Want](https://open.spotify.com/track/55nCWJHWkSIbylo5tGfqUr) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Highway 99](https://open.spotify.com/album/7FfPtbgof1PhK9acWDlvnd) | 3:18 | 2023-11-03 | 2024-04-19 |
 | [That's The Life I Want](https://open.spotify.com/track/5yQFc09wIKV4GXL0B3qDFJ) | [Alexander Ludwig](https://open.spotify.com/artist/0MlU9UKVEOkeyMdazSXif1) | [Highway 99](https://open.spotify.com/album/0d8JD5M3c5oH3TrxV6w0kL) | 3:18 | 2022-08-26 |  |
 | [The Day In The Life Of A Pearl Diver](https://open.spotify.com/track/6fiMo4GBjn6sosNSw3JRiz) | [Don Middlebrook & Living Soul](https://open.spotify.com/artist/5lQLIbbxuVhMWZj9IfTDXf) | [Boatdrink Island](https://open.spotify.com/album/1iqc2jcZcpglUjqI3ZBmKW) | 4:55 | 2020-09-08 | 2022-04-25 |

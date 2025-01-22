@@ -4,7 +4,7 @@
 
 > A soft and slow soundtrack to play in the background to all your activities.
 
-1,107 songs - 2 day 23 hr 20 min
+1,108 songs - 2 day 23 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-08 |  |
 | [Enigmatic Echoes](https://open.spotify.com/track/4VQpucRkBAU0sU5XMD28uq) | [Turning Trio](https://open.spotify.com/artist/2BLWgfWw6pN9dHB5XoJPKC) | [Enigmatic Echoes](https://open.spotify.com/album/32GcUaTDK6U07ohK8p0iSF) | 4:05 | 2023-09-22 |  |
 | [Epilogue](https://open.spotify.com/track/3VyR5Ge6OR28B8sSNlZGxN) | [Baxter Williams](https://open.spotify.com/artist/10yIBprceJrz7GP0BkENlg) | [Epilogue](https://open.spotify.com/album/5X29DiYEFR8JLcghhL1fIK) | 3:33 | 2023-06-15 |  |
+| [Epilogue](https://open.spotify.com/track/3bH3TxA7NHH1ceyNemCyWq) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Epilogue](https://open.spotify.com/album/6PWf11QC0FRi7YcwTbnWcW) | 3:29 | 2025-01-20 |  |
 | [Epiphany](https://open.spotify.com/track/7ib0OYB581rQOdkhmyqD6T) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Epiphany](https://open.spotify.com/album/0EiGN4mIttPFWFCr5VWoWV) | 3:27 | 2024-08-30 | 2024-10-09 |
 | [Even If It Breaks My Heart](https://open.spotify.com/track/2smYdzIk06dlNfIK509OHl) | [Ben & Katsy](https://open.spotify.com/artist/7zk65sKwJHv61CsjCr8PVw) | [Even If It Breaks My Heart](https://open.spotify.com/album/3YuJiO9uN5AC6qIlIcZnIX) | 3:31 | 2024-03-22 |  |
 | [Evening Song](https://open.spotify.com/track/6H1xcoIZKkWikg7sFlQfh9) | [Søren Bebe Trio](https://open.spotify.com/artist/32sqNe2WFtog9WufAVd8EI), [Søren Bebe](https://open.spotify.com/artist/7waR4b5Jd0R39qLTFhOJWh) | [Evening Song](https://open.spotify.com/album/3tQYOY5uJmMYx0oUKvSAxW) | 2:47 | 2024-03-08 | 2024-06-21 |
@@ -752,7 +753,7 @@
 | [Put Out The Lights](https://open.spotify.com/track/5PQXmu4gJHZDY5ORO4xoc8) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Put Out The Lights](https://open.spotify.com/album/3WpJUKYRgLNpnG4nPtuFbN) | 2:54 | 2023-01-12 |  |
 | [Quiet Now](https://open.spotify.com/track/1huvv8Z1AAnhA9yQhPs4Ac) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Quiet Now](https://open.spotify.com/album/2KxhaFZRnS27o7vFcMbJXG) | 2:47 | 2023-05-25 |  |
 | [Quiet Sunset](https://open.spotify.com/track/2bjt3Gki4hIwX9EIrSuYQA) | [Arta Porting](https://open.spotify.com/artist/6e2ZpZDumV9AabK9rxpIUg) | [Beautiful Sunrise](https://open.spotify.com/album/5uyJnjft5UrYelzlatQxJH) | 5:27 | 2023-02-09 |  |
-| [Rachid](https://open.spotify.com/track/0AX2vkWuVfSmSsniTQnJri) | [Enzo Orefice Trio](https://open.spotify.com/artist/10fF7C0hOnj8V3lDxH6PQH) | [Rachid](https://open.spotify.com/album/3zQvCLr6tMhLVyBMYtFxym) | 4:08 | 2023-06-15 |  |
+| [Rachid](https://open.spotify.com/track/0AX2vkWuVfSmSsniTQnJri) | [Enzo Orefice Trio](https://open.spotify.com/artist/10fF7C0hOnj8V3lDxH6PQH) | [Rachid](https://open.spotify.com/album/3zQvCLr6tMhLVyBMYtFxym) | 4:08 | 2023-06-15 | 2025-01-22 |
 | [Ragged Tux](https://open.spotify.com/track/3Xuy3E7OQ12IISyO4cm1lA) | [Corin Stannard Trio](https://open.spotify.com/artist/30BYi8bW3I7MwFXrqHdiun) | [Ragged Tux](https://open.spotify.com/album/6XeDlzhAOmYtAwuuTDqNI8) | 3:00 | 2023-02-09 |  |
 | [Railroad Tracks](https://open.spotify.com/track/6sxvsyHI6XCCnnEt2IYDdB) | [Tiril Brandt](https://open.spotify.com/artist/1Vor0rs0uaRKRuimiXWd92) | [Railroad Tracks](https://open.spotify.com/album/3BcaPbeGTCHVSMhgj3ZFSg) | 3:12 | 2024-04-10 |  |
 | [Railroads](https://open.spotify.com/track/5psq4yZ6YgYMIWoBRbHyAJ) | [Annie Berenson](https://open.spotify.com/artist/1R3a9JWK2lSTjSr2Dw9Qay) | [Railroads](https://open.spotify.com/album/1jjA7Gk47CSNweHOZDK65v) | 3:30 | 2023-02-02 | 2024-05-11 |

@@ -13664,7 +13664,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-20",
+      "date_removed": null,
       "duration_ms": 225217,
       "name": "FREAK",
       "url": "https://open.spotify.com/track/18HdlnK7g40MCSUIPvQWL2"
@@ -15650,7 +15650,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 218423,
       "name": "Good Luck, Babe!",
       "url": "https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu"
@@ -18562,7 +18562,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 157611,
       "name": "Hvert ertu a\u00f0 fara?",
       "url": "https://open.spotify.com/track/4xd8zI5KcGNtjt7WMNlmJJ"
@@ -22196,7 +22196,7 @@
       ],
       "date_added": "2024-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 151593,
       "name": "KOSS \u00c1 \u00deIG (\u00c1ram\u00f3taskaup 2023)",
       "url": "https://open.spotify.com/track/1zgmrx3BSjowXq7zCoHhjd"
@@ -38726,13 +38726,17 @@
         {
           "name": "Floni",
           "url": "https://open.spotify.com/artist/3hvKmeo12OU7ai8Mpgraf7"
+        },
+        {
+          "name": "G\u00edsli P\u00e1lmi",
+          "url": "https://open.spotify.com/artist/4Sdxz1flOuRiXXi77nGzhG"
         }
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-25",
+      "date_removed": null,
       "duration_ms": 189506,
-      "name": "Svartkl\u00e6ddir",
+      "name": "Svartkl\u00e6ddir (feat. G\u00edsli P\u00e1lmi)",
       "url": "https://open.spotify.com/track/7uimUbWqPGvuwzelOsBSAD"
     },
     {
@@ -41056,7 +41060,7 @@
       ],
       "date_added": "2024-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 234166,
       "name": "Til \u00ed allt, Pt. III",
       "url": "https://open.spotify.com/track/1FXWxt1GXe5cQK5zBAsXQG"
@@ -42050,7 +42054,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 212544,
       "name": "True Love",
       "url": "https://open.spotify.com/track/3QyGiprAQCrye6u1IPcuTE"
@@ -42184,7 +42188,7 @@
       ],
       "date_added": "2024-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2024-12-02",
+      "date_removed": null,
       "duration_ms": 220690,
       "name": "tv off (feat. lefty gunplay)",
       "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"

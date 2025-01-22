@@ -3503,6 +3503,36 @@
     },
     {
       "album": {
+        "name": "Every Breath You Take",
+        "url": "https://open.spotify.com/album/0jjx2pnlETHOiAitNNwkEl"
+      },
+      "artists": [
+        {
+          "name": "Kayote",
+          "url": "https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn"
+        },
+        {
+          "name": "Slenderino",
+          "url": "https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb"
+        },
+        {
+          "name": "Gabriel Wittner",
+          "url": "https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj"
+        },
+        {
+          "name": "Luciana Silva",
+          "url": "https://open.spotify.com/artist/5ntgWfc9qPsKU0yUQwDqUF"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135000,
+      "name": "Every Breath You Take",
+      "url": "https://open.spotify.com/track/2NlwmRuaUqWuvOzEVmQo4M"
+    },
+    {
+      "album": {
         "name": "Every Minute",
         "url": "https://open.spotify.com/album/5IaGC0RoTWiWsFy23YH0i1"
       },

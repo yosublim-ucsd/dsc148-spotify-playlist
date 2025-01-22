@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Nao
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,062,380 likes - 150 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,062,451 likes - 150 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 17 | [TEMPTED](https://open.spotify.com/track/36Kf76qkaPiTblyijQxKbL) | [Avara](https://open.spotify.com/artist/63PeJBCkvzMDtyfc0krQyd), [AYUSH](https://open.spotify.com/artist/3fpnEWsbU7hKS0Jfpt5mZE) | [TEMPTED](https://open.spotify.com/album/1Ti79L7sU5rUQ3UdjX8qEA) | 3:29 |
 | 18 | [Ready](https://open.spotify.com/track/0igbWhWPRW2dL35gXaHHcu) | [ASTN](https://open.spotify.com/artist/7zkwepHPyac6tCYl0fL0co) | [Ready](https://open.spotify.com/album/2pxhCHAdA9lGlAK9i7Bhau) | 2:45 |
 | 19 | [me + u](https://open.spotify.com/track/4DiU3ia1gpGu6qR15ceT6f) | [Rich](https://open.spotify.com/artist/4us6IzRDlOknDIdzAFe1uQ) | [me + u](https://open.spotify.com/album/1gKZ6kvUqbOC14srZS00f0) | 2:37 |
-| 20 | [Downtown](https://open.spotify.com/track/308jljtqrUhq4Rf51zUrNj) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [Alan Voung](https://open.spotify.com/artist/1LCkAp8OSUo48W6B4bjNb3) | [Made Me This Way](https://open.spotify.com/album/368u9D9vZjmbmXwsE8WmZB) | 3:31 |
+| 20 | [Downtown](https://open.spotify.com/track/308jljtqrUhq4Rf51zUrNj) | [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG), [alan vuong](https://open.spotify.com/artist/6y1PHaUMkFXcJNhIAmjAk8) | [Made Me This Way](https://open.spotify.com/album/368u9D9vZjmbmXwsE8WmZB) | 3:31 |
 | 21 | [SPEED UP](https://open.spotify.com/track/4TXt1b8kdzJSHO5yooKOoQ) | [OVI WOOD](https://open.spotify.com/artist/5aZ2PcHvEHWuFLw65MknwJ), [Othello Beats](https://open.spotify.com/artist/7nLd7fJANdOTlg7A2XpfmS) | [LATE NIGHT THOUGHTS](https://open.spotify.com/album/6oSTNqJHGLx741hXQtQj9f) | 2:44 |
 | 22 | [ON MY MIND](https://open.spotify.com/track/3uXN50jcJ3K4U4MKcH3FQd) | [yuji](https://open.spotify.com/artist/5kjFzBMHeoAx9xksFSwfUW), [Kenny](https://open.spotify.com/artist/4S4rq4o8gDqTqVKPA7zJmY) | [ON MY MIND](https://open.spotify.com/album/3ojQKwUU3kVprQc4q0h0X2) | 2:21 |
 | 23 | [Immune](https://open.spotify.com/track/2GIrbMR66ztcl9R6L8woes) | [NYA](https://open.spotify.com/artist/0JkKPtdoOFdrZDPswFPQku) | [Immune](https://open.spotify.com/album/0g6wNEMCb41CgDbGLSqrgF) | 3:19 |

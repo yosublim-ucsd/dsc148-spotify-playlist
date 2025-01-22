@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Back in the Shadow",
+        "url": "https://open.spotify.com/album/5AOvFdkfwW2Egmd6hQIGzk"
+      },
+      "artists": [
+        {
+          "name": "cl\u00f8se2u",
+          "url": "https://open.spotify.com/artist/4SAUbKw5T4xORiIq16XKUE"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Back in the Shadow",
+      "url": "https://open.spotify.com/track/5w3dJzAvbnOrijMmLnTFtJ"
+    },
+    {
+      "album": {
         "name": "back in time",
         "url": "https://open.spotify.com/album/1b8iTFjOgloY00tBpxHXOS"
       },
@@ -7107,6 +7125,24 @@
     },
     {
       "album": {
+        "name": "coffee club",
+        "url": "https://open.spotify.com/album/2CoFtACN6TBdx40rkmVsAs"
+      },
+      "artists": [
+        {
+          "name": "Vynlsm",
+          "url": "https://open.spotify.com/artist/7b4DhB3yTiN4HMgFGFQQ2y"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151310,
+      "name": "coffee club",
+      "url": "https://open.spotify.com/track/6rYskggFhg7dnBn4XmcOzV"
+    },
+    {
+      "album": {
         "name": "Coffee Jazz",
         "url": "https://open.spotify.com/album/7cQ81TcqB4raY5AfZx0e3u"
       },
@@ -9756,7 +9792,7 @@
       ],
       "date_added": "2022-07-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 152232,
       "name": "Down the street",
       "url": "https://open.spotify.com/track/1xpX1C5rAiRiZboENqrxdb"
@@ -18254,7 +18290,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 127717,
       "name": "Kame House",
       "url": "https://open.spotify.com/track/3uLcMHUGmLerRqw7QTdQ31"
@@ -24932,7 +24968,7 @@
       ],
       "date_added": "2022-10-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 112941,
       "name": "No Saintz",
       "url": "https://open.spotify.com/track/201Uk2CZF6aJTSYDE307i3"
@@ -26720,7 +26756,7 @@
       ],
       "date_added": "2022-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 138593,
       "name": "Pacific Coast",
       "url": "https://open.spotify.com/track/623KYMExfxDEn0zF1XtmF5"
@@ -31031,6 +31067,24 @@
     },
     {
       "album": {
+        "name": "seasons on seasons",
+        "url": "https://open.spotify.com/album/6Xxor0mdaYk7CblESkRozK"
+      },
+      "artists": [
+        {
+          "name": "Kaptain Kola",
+          "url": "https://open.spotify.com/artist/2WVOlt6L2d41Pu8xhEbFgn"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116985,
+      "name": "seasons on seasons",
+      "url": "https://open.spotify.com/track/7MxEFWW8BNfiA6R6A7qxvA"
+    },
+    {
+      "album": {
         "name": "Seattle",
         "url": "https://open.spotify.com/album/7z312yRo96Kz4FmncwfLjB"
       },
@@ -31622,7 +31676,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 141000,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/22wNJY4P4mwQJh0TupVykW"

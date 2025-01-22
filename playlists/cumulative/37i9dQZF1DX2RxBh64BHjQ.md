@@ -4,7 +4,7 @@
 
 > The official voice of the next generation\. Cover: <a href="spotify:artist:6Pfep8fkqFHQ87DjvWu54J">G3 Gelo</a>
 
-2,118 songs - 3 day 22 hr 27 min
+2,119 songs - 3 day 22 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1926,6 +1926,7 @@
 | [Tweakin](https://open.spotify.com/track/66F2YDTvXpEORKPb0CNxKV) | [Sugarhill Ddot](https://open.spotify.com/artist/63X7mnpy2kfkDtltarrWD1) | [Tweakin](https://open.spotify.com/album/3qFgq8N7K0wdOCakbgEjit) | 2:06 | 2024-04-12 | 2024-06-15 |
 | [Tweakin' Out](https://open.spotify.com/track/4xJSXI5xOLFlKnGXlVMIRX) | [Jdot Breezy](https://open.spotify.com/artist/0VSM8D7ibtXjJgukfVR0eZ) | [Sorry I Took Long \(Deluxe\)](https://open.spotify.com/album/0abpP3Qun05JFZBboElgBh) | 3:18 | 2024-10-11 | 2024-10-26 |
 | [Tweet Bird \(Never Broke Again feat\. YoungBoy Never Broke Again, Rojay MLP, Meechy Baby, P Yungin, Rjae\)](https://open.spotify.com/track/6UZWeRythuGsvnqrwgcj2v) | [Never Broke Again](https://open.spotify.com/artist/5YyTs9tUWqcdI9kIQb85P2), [YoungBoy Never Broke Again](https://open.spotify.com/artist/7wlFDEWiM5OoIAt8RSli8b), [Rojay MLP](https://open.spotify.com/artist/555MqZGSQCqBmLLLFUjsPl), [Meechy Baby](https://open.spotify.com/artist/6QtIrsfiHbIToOfsCllNxv), [P Yungin](https://open.spotify.com/artist/2kxNIMdmDtVtHDAWluq0eN), [Rjae](https://open.spotify.com/artist/0PnrpdWmz1aJYJfNPUejmk) | [Tweet Bird \(Never Broke Again feat.YoungBoy Never Broke Again, Rojay MLP, Meechy Baby, P Yungin, Rjae\)](https://open.spotify.com/album/4YdoHez1RJ5NPlSgRraKfz) | 3:20 | 2021-11-19 | 2022-02-05 |
+| [Twerkin Wit Ya Friends](https://open.spotify.com/track/1SMzMtlnawoUV6ssFd7rZ7) | [ZEDDY WILL](https://open.spotify.com/artist/1alf4P7GDe5aNpALBzWIGf), [StaySolidRocky](https://open.spotify.com/artist/1XLWox9w1Yvbodui0SRhUQ) | [Twerkin Wit Ya Friends](https://open.spotify.com/album/1pXzPq1OwY2mIw1pvDvIt0) | 2:40 | 2025-01-21 |  |
 | [Twisting Fingers \(with Moneybagg Yo\)](https://open.spotify.com/track/59ixjAY05WENR6TitS0EKh) | [That Mexican OT](https://open.spotify.com/artist/3BAgmPNIK5IJl7zMK1wvMA), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Texas Technician](https://open.spotify.com/album/2L5fQG5lbyMkG6iyNNj3uR) | 2:06 | 2024-03-01 |  |
 | [Type A N\*\*\*a](https://open.spotify.com/track/2E5JwQRxlWVKs7OjRbMyFQ) | [Nino Breeze](https://open.spotify.com/artist/5hdJowXyDT6CIEAXXToqUt), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [Type A N\*\*\*a](https://open.spotify.com/album/7ixz0AWnSc5jyadYwmebkU) | 4:06 | 2024-09-20 |  |
 | [TYPE BEAT](https://open.spotify.com/track/3VVi7ffS2iJYvfGhvzbyqD) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [PRINCESS POP THAT](https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a) | 1:50 | 2024-04-26 | 2024-05-03 |

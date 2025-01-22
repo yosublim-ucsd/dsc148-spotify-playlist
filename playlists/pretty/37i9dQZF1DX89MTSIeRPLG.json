@@ -1,6 +1,6 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/funnymarco/\">Funny Marco</a>",
-  "num_followers": 20422,
+  "num_followers": 20437,
   "original_name": "Funny Marco's Taste",
   "owner": {
     "name": "Spotify",
@@ -911,26 +911,6 @@
     {
       "added_at": "2022-10-01 20:31:11",
       "album": {
-        "name": "Wordplay",
-        "url": "https://open.spotify.com/album/1V9Pfv9TM2df6bXCfuLUMX"
-      },
-      "artists": [
-        {
-          "name": "Canjelae",
-          "url": "https://open.spotify.com/artist/4emKaFvC3K7pyskD0SiLrp"
-        },
-        {
-          "name": "TK Kravitz",
-          "url": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
-        }
-      ],
-      "duration_ms": 196923,
-      "name": "Wordplay",
-      "url": "https://open.spotify.com/track/3wAf5EJ8NnnMlZjGCIVkMm"
-    },
-    {
-      "added_at": "2022-10-01 20:31:11",
-      "album": {
         "name": "SoulFly",
         "url": "https://open.spotify.com/album/3NNLR5rt9WpUqbRJqpV5zH"
       },
@@ -947,6 +927,26 @@
       "duration_ms": 190458,
       "name": "Richer (feat. Polo G)",
       "url": "https://open.spotify.com/track/7HsjuVBM93Z2RoxjpWLgTT"
+    },
+    {
+      "added_at": "2022-10-01 20:31:11",
+      "album": {
+        "name": "Wordplay",
+        "url": "https://open.spotify.com/album/1V9Pfv9TM2df6bXCfuLUMX"
+      },
+      "artists": [
+        {
+          "name": "Canjelae",
+          "url": "https://open.spotify.com/artist/4emKaFvC3K7pyskD0SiLrp"
+        },
+        {
+          "name": "TK Kravitz",
+          "url": "https://open.spotify.com/artist/65rDIPdQD7ijLSOq32cMXo"
+        }
+      ],
+      "duration_ms": 196923,
+      "name": "Wordplay",
+      "url": "https://open.spotify.com/track/3wAf5EJ8NnnMlZjGCIVkMm"
     }
   ],
   "unique_name": "Funny Marco's Taste",

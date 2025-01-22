@@ -1,6 +1,6 @@
 {
   "description": "Hottest indie sound from Asia. Cover: Noh Salleh  (Malaysia)",
-  "num_followers": 113857,
+  "num_followers": 113853,
   "original_name": ".ORG",
   "owner": {
     "name": "Spotify",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-01-17 02:26:16",
       "album": {
-        "name": "LEGEND",
-        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
-      },
-      "artists": [
-        {
-          "name": "JANNABI",
-          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "TOGETHER!",
-      "url": "https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1"
-    },
-    {
-      "added_at": "2025-01-17 02:26:16",
-      "album": {
         "name": "Bleach",
         "url": "https://open.spotify.com/album/1v3wXiQf8PCq23LhJVw29l"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 227019,
       "name": "Dazed & Confused",
       "url": "https://open.spotify.com/track/0An32aDKsF10F4rGUysb5Z"
+    },
+    {
+      "added_at": "2025-01-17 02:26:16",
+      "album": {
+        "name": "LEGEND",
+        "url": "https://open.spotify.com/album/28GiIRNu9nEugqnUci3aIC"
+      },
+      "artists": [
+        {
+          "name": "JANNABI",
+          "url": "https://open.spotify.com/artist/2SY6OktZyMLdOnscX3DCyS"
+        }
+      ],
+      "duration_ms": 186000,
+      "name": "TOGETHER!",
+      "url": "https://open.spotify.com/track/5mrIZ0lvgFr5wnrYbzV0C1"
     },
     {
       "added_at": "2025-01-17 02:26:16",

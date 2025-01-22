@@ -1,6 +1,6 @@
 {
   "description": "Con licuachela en mano y perreando hasta el piso. Charly Gynn en portada ",
-  "num_followers": 18931,
+  "num_followers": 18930,
   "original_name": "CHAKAL\u00d3N ",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,22 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Un Cigarrillo",
+        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
+      },
+      "artists": [
+        {
+          "name": "Chencho Corleone",
+          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Un Cigarrillo",
+      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "TERAPIA DE CHOQUE",
         "url": "https://open.spotify.com/album/1iyOjIeFTikF2Tr5nqhGNc"
       },
@@ -391,22 +407,6 @@
       "duration_ms": 164424,
       "name": "TERAPIA DE CHOQUE",
       "url": "https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Un Cigarrillo",
-        "url": "https://open.spotify.com/album/4thYGFvkQPc1qwSR4vdRN9"
-      },
-      "artists": [
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 184266,
-      "name": "Un Cigarrillo",
-      "url": "https://open.spotify.com/track/4k7CNPArKLf4QuvGfMeHDk"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -863,26 +863,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "SUELTA",
-        "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
-      },
-      "artists": [
-        {
-          "name": "Callejero Fino",
-          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
-        },
-        {
-          "name": "Axel Caram",
-          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
-        }
-      ],
-      "duration_ms": 163800,
-      "name": "SUELTA",
-      "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "Podemos Repetirlo",
         "url": "https://open.spotify.com/album/6FRoZB7Ppyz9EVph8nQoJX"
       },
@@ -899,6 +879,26 @@
       "duration_ms": 211707,
       "name": "Podemos Repetirlo",
       "url": "https://open.spotify.com/track/0If7xxzqs7Dv1SSO2MFKXF"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "SUELTA",
+        "url": "https://open.spotify.com/album/3VIOBR1Mddc8t58effsNgq"
+      },
+      "artists": [
+        {
+          "name": "Callejero Fino",
+          "url": "https://open.spotify.com/artist/6GRwwWAtmusrgAL5JF9Dfr"
+        },
+        {
+          "name": "Axel Caram",
+          "url": "https://open.spotify.com/artist/2PkjYgKhHI4qofYoxWB9ZP"
+        }
+      ],
+      "duration_ms": 163800,
+      "name": "SUELTA",
+      "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1095,30 +1095,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "\u00d1ero Session 5",
-        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
-      },
-      "artists": [
-        {
-          "name": "Alu Mix",
-          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
-        },
-        {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        }
-      ],
-      "duration_ms": 147633,
-      "name": "\u00d1ero Session 5",
-      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "El Plan",
         "url": "https://open.spotify.com/album/13MFiU8nBDQXn2CbTK2tbv"
       },
@@ -1139,6 +1115,30 @@
       "duration_ms": 226725,
       "name": "El Plan",
       "url": "https://open.spotify.com/track/1QViKg2J40k0w7phvi5k2Q"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "\u00d1ero Session 5",
+        "url": "https://open.spotify.com/album/1b25E6COH3BjrqsLk7ee7n"
+      },
+      "artists": [
+        {
+          "name": "Alu Mix",
+          "url": "https://open.spotify.com/artist/7yiq52SDJKenHVST8xGCuF"
+        },
+        {
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        }
+      ],
+      "duration_ms": 147633,
+      "name": "\u00d1ero Session 5",
+      "url": "https://open.spotify.com/track/5co8AgOcUyEy0dxmIVWo45"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1615,30 +1615,6 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
-        "name": "Jordan Flight",
-        "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
-      },
-      "artists": [
-        {
-          "name": "El Bogueto",
-          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
-        },
-        {
-          "name": "Tensec",
-          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
-        },
-        {
-          "name": "Uzielito Mix",
-          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
-        }
-      ],
-      "duration_ms": 159923,
-      "name": "Jordan Flight",
-      "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
         "name": "No Puedo Controlarme",
         "url": "https://open.spotify.com/album/3TOZQkc7Ga3haeVzyzYRV4"
       },
@@ -1667,6 +1643,30 @@
       "duration_ms": 189437,
       "name": "NO PUEDO CONTROLARME",
       "url": "https://open.spotify.com/track/3iE3Ljkww9IrzbhEpyyj4S"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
+        "name": "Jordan Flight",
+        "url": "https://open.spotify.com/album/2BbXK3mLx7BP3fVHmhNM1M"
+      },
+      "artists": [
+        {
+          "name": "El Bogueto",
+          "url": "https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP"
+        },
+        {
+          "name": "Tensec",
+          "url": "https://open.spotify.com/artist/02EGOrDhdvWL7nbN6psJaB"
+        },
+        {
+          "name": "Uzielito Mix",
+          "url": "https://open.spotify.com/artist/7wgrXbrp9RJQMri26GZgyH"
+        }
+      ],
+      "duration_ms": 159923,
+      "name": "Jordan Flight",
+      "url": "https://open.spotify.com/track/4FTYlPDoOqZwDe7uSUvwET"
     },
     {
       "added_at": "2024-08-30 06:00:00",
@@ -1947,6 +1947,30 @@
     {
       "added_at": "2024-08-30 06:00:00",
       "album": {
+        "name": "Aplaude",
+        "url": "https://open.spotify.com/album/50YaeruYkphtAlXEDYUgmG"
+      },
+      "artists": [
+        {
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "HM BTZ",
+          "url": "https://open.spotify.com/artist/3pzrLxWxBwOg3e8UjYFQHu"
+        },
+        {
+          "name": "Tavo Rayo",
+          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
+        }
+      ],
+      "duration_ms": 171789,
+      "name": "Aplaude",
+      "url": "https://open.spotify.com/track/0XOzKFrzY8ZLh7m4ldN9q8"
+    },
+    {
+      "added_at": "2024-08-30 06:00:00",
+      "album": {
         "name": "L-GANTE | Mission 19",
         "url": "https://open.spotify.com/album/5moYjalNC0bbzVArARZog3"
       },
@@ -1983,30 +2007,6 @@
       "duration_ms": 174971,
       "name": "Bellatonika",
       "url": "https://open.spotify.com/track/5LZmNN1i28G1paszTfCGZh"
-    },
-    {
-      "added_at": "2024-08-30 06:00:00",
-      "album": {
-        "name": "Aplaude",
-        "url": "https://open.spotify.com/album/50YaeruYkphtAlXEDYUgmG"
-      },
-      "artists": [
-        {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "HM BTZ",
-          "url": "https://open.spotify.com/artist/3pzrLxWxBwOg3e8UjYFQHu"
-        },
-        {
-          "name": "Tavo Rayo",
-          "url": "https://open.spotify.com/artist/4V6Om8WdDxyoHGhpfgD9Mp"
-        }
-      ],
-      "duration_ms": 171789,
-      "name": "Aplaude",
-      "url": "https://open.spotify.com/track/0XOzKFrzY8ZLh7m4ldN9q8"
     },
     {
       "added_at": "2024-08-30 06:00:00",

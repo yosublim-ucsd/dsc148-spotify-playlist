@@ -730,7 +730,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 215748,
       "name": "A8\u756a\u51fa\u53e3",
       "url": "https://open.spotify.com/track/0i9q3Cw9GwnvuSQltZRTYx"
@@ -2550,6 +2550,24 @@
       "duration_ms": 217492,
       "name": "Bunny Girl",
       "url": "https://open.spotify.com/track/5skCbGGAnc7Ns18Figz54h"
+    },
+    {
+      "album": {
+        "name": "Burn",
+        "url": "https://open.spotify.com/album/5TWPkPyoLrZJlDFC8ppVld"
+      },
+      "artists": [
+        {
+          "name": "reina",
+          "url": "https://open.spotify.com/artist/6FVP7BKUUx1uCNPbX35fdf"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169208,
+      "name": "Burn",
+      "url": "https://open.spotify.com/track/6ag2M9QBSdT0HwTlfUYf50"
     },
     {
       "album": {
@@ -6696,7 +6714,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 170880,
       "name": "Good to me",
       "url": "https://open.spotify.com/track/2Y7fg9l57DCD1W5iYqAsFB"
@@ -12262,7 +12280,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 223395,
       "name": "Once Upon a Night",
       "url": "https://open.spotify.com/track/5tu4MtskI177URpGVNJQ7P"
@@ -12280,8 +12298,8 @@
       ],
       "date_added": "2024-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-25",
-      "duration_ms": 225110,
+      "date_removed": null,
+      "duration_ms": 223395,
       "name": "Once Upon a Night",
       "url": "https://open.spotify.com/track/6WKv7u984pHLpvQsQ3DsQD"
     },
@@ -17262,7 +17280,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 248098,
       "name": "TOMODACHI",
       "url": "https://open.spotify.com/track/2mzr4sHf6Yj2RGnXeh2hHV"
@@ -18194,6 +18212,24 @@
       "duration_ms": 195121,
       "name": "We Believe",
       "url": "https://open.spotify.com/track/76C15TFRqossFXSRyQrxXJ"
+    },
+    {
+      "album": {
+        "name": "We don't need heroes",
+        "url": "https://open.spotify.com/album/0D426CAnfeUmd662YaP8Y1"
+      },
+      "artists": [
+        {
+          "name": "\u4e43\u7d2b",
+          "url": "https://open.spotify.com/artist/2rUfBClgdqQ4Svcg0A6gIl"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190785,
+      "name": "We don't need heroes",
+      "url": "https://open.spotify.com/track/66PLaLborZo2mvNIs546T5"
     },
     {
       "album": {
@@ -21782,6 +21818,24 @@
       "duration_ms": 222352,
       "name": "\u30ab\u30b9\u30df\u30bd\u30a6",
       "url": "https://open.spotify.com/track/5ZcXYs8O3q6melv9GF5VEd"
+    },
+    {
+      "album": {
+        "name": "\u30a2\u30ca\u30b6\u30fc\u30c0\u30a4\u30d0\u30fc\u30b7\u30c6\u30a3",
+        "url": "https://open.spotify.com/album/7DsLGDK8qjjgQTMO8iLHkz"
+      },
+      "artists": [
+        {
+          "name": "\u30ec\u30c8\u30ed\u30ea\u30ed\u30f3",
+          "url": "https://open.spotify.com/artist/47MRpWYlFaneZAlaXrt9bu"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227360,
+      "name": "\u30ab\u30c6\u30b4\u30e9\u30a4\u30ba",
+      "url": "https://open.spotify.com/track/2XNMG5FlJvFSnn6PiHnvjk"
     },
     {
       "album": {

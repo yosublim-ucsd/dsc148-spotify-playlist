@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Najlepsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: <a href=\u201cspotify:artist:4kmEGD7LxC1E58zwE1Rolg\u201d>Hai</a>",
+  "description": "Najlepsze muzyczne odkrycia od niezale\u017cnych polskich artyst\u00f3w. Cover: <a href=\u201cspotify:artist:5HArWtrcYhpxplTtZ848wR\u201d>bartek turski</a>",
   "name": "Fresh Finds Polska",
   "tracks": [
     {
@@ -901,6 +901,24 @@
     },
     {
       "album": {
+        "name": "3:30",
+        "url": "https://open.spotify.com/album/3oHBr3eIH0mbmakCh6zi1Z"
+      },
+      "artists": [
+        {
+          "name": "BNDK",
+          "url": "https://open.spotify.com/artist/6xriByLY08NsKocZalObov"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180600,
+      "name": "3:30",
+      "url": "https://open.spotify.com/track/4AdetMe15yJ2gj9G21wM0D"
+    },
+    {
+      "album": {
         "name": "4 w nocy",
         "url": "https://open.spotify.com/album/5O8FHRa1OvBIgzRmxkS4w7"
       },
@@ -1768,6 +1786,24 @@
       "duration_ms": 175126,
       "name": "ALIEN",
       "url": "https://open.spotify.com/track/0zSvcDaZbXuwBLhFiaPXky"
+    },
+    {
+      "album": {
+        "name": "Alina wraca na front",
+        "url": "https://open.spotify.com/album/2b5Ed6kXFi659AZGBApP2K"
+      },
+      "artists": [
+        {
+          "name": "Wonsy",
+          "url": "https://open.spotify.com/artist/1JoZ1u0mENrCYaJKfC7kZf"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257614,
+      "name": "Alina wraca na front",
+      "url": "https://open.spotify.com/track/4tAvvRCLNKex7KE4i4w43M"
     },
     {
       "album": {
@@ -2740,6 +2776,24 @@
       "duration_ms": 150545,
       "name": "Bajki",
       "url": "https://open.spotify.com/track/56rVZTJCTb9XikeQBvD3qb"
+    },
+    {
+      "album": {
+        "name": "\u015apiewnik na koniec czas\u00f3w - edycja pierwsza",
+        "url": "https://open.spotify.com/album/6PA2OwASSjKEukh2a7FVdh"
+      },
+      "artists": [
+        {
+          "name": "Anchey Nocon",
+          "url": "https://open.spotify.com/artist/1zV4xbIXsPwb86opVmYZAt"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192333,
+      "name": "Bajoro",
+      "url": "https://open.spotify.com/track/5kvmIxssbHGCpGGIMCclJS"
     },
     {
       "album": {
@@ -6525,6 +6579,24 @@
     },
     {
       "album": {
+        "name": "CH\u0141\u00d3D",
+        "url": "https://open.spotify.com/album/3HuxiYnLNuZXFSgB8zvkfG"
+      },
+      "artists": [
+        {
+          "name": "Nelah",
+          "url": "https://open.spotify.com/artist/0DQncOHnQDbuOhOZ5yB4lK"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131980,
+      "name": "CH\u0141\u00d3D",
+      "url": "https://open.spotify.com/track/4zVTytWV6Z0ksFuLlguNFj"
+    },
+    {
+      "album": {
         "name": "Ciao",
         "url": "https://open.spotify.com/album/4idsBhmekIK0DC7FJIU3pE"
       },
@@ -7184,6 +7256,24 @@
       "duration_ms": 159750,
       "name": "Cold",
       "url": "https://open.spotify.com/track/37kc7jRCGvwNcWpusCPZW9"
+    },
+    {
+      "album": {
+        "name": "come over?",
+        "url": "https://open.spotify.com/album/41DUwYHE0GETfovi2havgJ"
+      },
+      "artists": [
+        {
+          "name": "bartek turski",
+          "url": "https://open.spotify.com/artist/5HArWtrcYhpxplTtZ848wR"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160689,
+      "name": "come over?",
+      "url": "https://open.spotify.com/track/5Y1REJUiVtJGGUAqTEphWz"
     },
     {
       "album": {
@@ -8120,6 +8210,24 @@
       "duration_ms": 263111,
       "name": "Czerwie\u0144",
       "url": "https://open.spotify.com/track/30DmK2XMOpGiNuFdNPswYf"
+    },
+    {
+      "album": {
+        "name": "Czerwie\u0144",
+        "url": "https://open.spotify.com/album/3FIcEsg4gQCI8gUMqHiEn1"
+      },
+      "artists": [
+        {
+          "name": "Powaby",
+          "url": "https://open.spotify.com/artist/251hX9AIf9vHOcswUOvA1j"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155659,
+      "name": "Czerwie\u0144",
+      "url": "https://open.spotify.com/track/5c6SHgcIkrnmGrZKh1I28E"
     },
     {
       "album": {
@@ -9972,6 +10080,24 @@
     {
       "album": {
         "name": "Dom",
+        "url": "https://open.spotify.com/album/0fKo7YGiyx7HC4MvEzLl2W"
+      },
+      "artists": [
+        {
+          "name": "Runia",
+          "url": "https://open.spotify.com/artist/4BzRGbuhIWFhoFuCcHUqmz"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172105,
+      "name": "Dom",
+      "url": "https://open.spotify.com/track/0i6vUXIeJzLnToH43HZ9hC"
+    },
+    {
+      "album": {
+        "name": "Dom",
         "url": "https://open.spotify.com/album/2FuTkY6Q42jMosYw1gZxFX"
       },
       "artists": [
@@ -11748,6 +11874,24 @@
       "duration_ms": 193072,
       "name": "E i \u0105",
       "url": "https://open.spotify.com/track/3nAOWVHAZPZyUOeTUAMqKX"
+    },
+    {
+      "album": {
+        "name": "echo",
+        "url": "https://open.spotify.com/album/26sbOmCYJocNrCncKnhNRN"
+      },
+      "artists": [
+        {
+          "name": "ali.",
+          "url": "https://open.spotify.com/artist/5bYuVgZxKyvjbZncxSV9c0"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184500,
+      "name": "echo",
+      "url": "https://open.spotify.com/track/6yyseGkylfjmEcSgJZViR1"
     },
     {
       "album": {
@@ -14667,6 +14811,24 @@
     },
     {
       "album": {
+        "name": "Happy End",
+        "url": "https://open.spotify.com/album/125nGtnN3Je2tyzuiuDLXr"
+      },
+      "artists": [
+        {
+          "name": "PHERO",
+          "url": "https://open.spotify.com/artist/0rCwkT0lVZHeA8qek9DAhM"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "Happy End",
+      "url": "https://open.spotify.com/track/3QXntjMCbriyV6eUNtQB5e"
+    },
+    {
+      "album": {
         "name": "Hardo",
         "url": "https://open.spotify.com/album/5WQR02ZCUv5awLKgOwPtMn"
       },
@@ -16434,6 +16596,28 @@
       "duration_ms": 141000,
       "name": "ja, ty i morze",
       "url": "https://open.spotify.com/track/5ZbqpkwJPB7rVPlk7M36Xx"
+    },
+    {
+      "album": {
+        "name": "Jackpot",
+        "url": "https://open.spotify.com/album/0bzSlH9wZDfs1fRfmtSM61"
+      },
+      "artists": [
+        {
+          "name": "DJ UL$ON",
+          "url": "https://open.spotify.com/artist/1b8zp9JGYdW04m8p6fZeG1"
+        },
+        {
+          "name": "SOWA",
+          "url": "https://open.spotify.com/artist/6HpA9iaFaRd6LiD5cwxBTu"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202306,
+      "name": "Jackpot",
+      "url": "https://open.spotify.com/track/0cxS3BahuGDQgxN5p7vL7N"
     },
     {
       "album": {
@@ -23499,6 +23683,24 @@
     },
     {
       "album": {
+        "name": "Martini",
+        "url": "https://open.spotify.com/album/2v4sLib39xxYfx7rb6V8Yj"
+      },
+      "artists": [
+        {
+          "name": "Strefa Intymna",
+          "url": "https://open.spotify.com/artist/03THHu2A1rG7NrNagfyB1W"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170679,
+      "name": "Martini",
+      "url": "https://open.spotify.com/track/7pf4tXFPwoSH65Oazm4iOh"
+    },
+    {
+      "album": {
         "name": "Maska",
         "url": "https://open.spotify.com/album/4H0VyRGFot7fzogrJtXokj"
       },
@@ -25662,6 +25864,24 @@
       "duration_ms": 169000,
       "name": "Musz\u0119 i\u015b\u0107",
       "url": "https://open.spotify.com/track/5d9l2BErBeErAAWUJaA5th"
+    },
+    {
+      "album": {
+        "name": "MVP",
+        "url": "https://open.spotify.com/album/2YJBNAx0nvFCiDFteCFqeY"
+      },
+      "artists": [
+        {
+          "name": "Stysio",
+          "url": "https://open.spotify.com/artist/4nZ1fSGL8lu414cuxphyhT"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153226,
+      "name": "MVP",
+      "url": "https://open.spotify.com/track/11uQXkeQ1ITjuIlHWazZJm"
     },
     {
       "album": {
@@ -29030,6 +29250,24 @@
       "duration_ms": 260682,
       "name": "Niech instrumenty graj\u0105",
       "url": "https://open.spotify.com/track/4N7rOcoB63yK42xMgcfVwx"
+    },
+    {
+      "album": {
+        "name": "Niech Zjedz\u0105 Nas Robale",
+        "url": "https://open.spotify.com/album/5eIl2ZuhxSePmbMGxLpSIk"
+      },
+      "artists": [
+        {
+          "name": "WRONA",
+          "url": "https://open.spotify.com/artist/4BGx0SJF0EyZw3Es7vCBs7"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137413,
+      "name": "Niech Zjedz\u0105 Nas Robale",
+      "url": "https://open.spotify.com/track/4NeqHpRBHB4pLDTuFE0lV1"
     },
     {
       "album": {
@@ -32664,6 +32902,24 @@
       "duration_ms": 189272,
       "name": "Otuleni Toksynami",
       "url": "https://open.spotify.com/track/3Hy85mn7qiyURuqSbaZVUC"
+    },
+    {
+      "album": {
+        "name": "Outbreak of the Youth",
+        "url": "https://open.spotify.com/album/3n9rnYm8i8Sr8CBtyE0HQV"
+      },
+      "artists": [
+        {
+          "name": "Meg Mell",
+          "url": "https://open.spotify.com/artist/4HXy7mRjbdJwHHia5eG48k"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225001,
+      "name": "Outbreak of the Youth",
+      "url": "https://open.spotify.com/track/03eh0Jcrbr3BEtW1wpHGEB"
     },
     {
       "album": {
@@ -36715,6 +36971,24 @@
     },
     {
       "album": {
+        "name": "Prosz\u0119 zamyka\u0107",
+        "url": "https://open.spotify.com/album/35jd0HkohjV25pOMSmJdoj"
+      },
+      "artists": [
+        {
+          "name": "Ostatnia Klatka",
+          "url": "https://open.spotify.com/artist/60plq9PYsb5EyRZCzu2hQn"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Prosz\u0119 zamyka\u0107",
+      "url": "https://open.spotify.com/track/0Q7ASDExZt8j8AMI6rRfCq"
+    },
+    {
+      "album": {
         "name": "Przebi\u015bniegi 2.0",
         "url": "https://open.spotify.com/album/5F0V8sjGGmARTL1gnlTLg8"
       },
@@ -39660,6 +39934,24 @@
       "duration_ms": 187102,
       "name": "Sejsmografy",
       "url": "https://open.spotify.com/track/0QmFlAssO2rGhUfCXZ46YW"
+    },
+    {
+      "album": {
+        "name": "seks i p\u0142acz",
+        "url": "https://open.spotify.com/album/2x8JZXpoQcQgChglyLmzjs"
+      },
+      "artists": [
+        {
+          "name": ".Wavs",
+          "url": "https://open.spotify.com/artist/56wxmQU63nXF2fBAy35Lwq"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259565,
+      "name": "seks i p\u0142acz",
+      "url": "https://open.spotify.com/track/0EEdhhTz8299zXW822XU4k"
     },
     {
       "album": {
@@ -44935,6 +45227,28 @@
     },
     {
       "album": {
+        "name": "The Brightest Night",
+        "url": "https://open.spotify.com/album/56AuDqpum2x9iEbrAl3rz0"
+      },
+      "artists": [
+        {
+          "name": "Aluzja",
+          "url": "https://open.spotify.com/artist/01mXTQcIuSBwXoh6zoEgEe"
+        },
+        {
+          "name": "Clayknot",
+          "url": "https://open.spotify.com/artist/3ZxpsVkaNjQbagCHapxVE7"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215798,
+      "name": "The Brightest Night",
+      "url": "https://open.spotify.com/track/4yn2jjmwVKDIHrin6DwytJ"
+    },
+    {
+      "album": {
         "name": "The Hearing (Writing's On The Wall)",
         "url": "https://open.spotify.com/album/4o3UxndxEIR86VrKbDvY4s"
       },
@@ -45439,6 +45753,24 @@
     },
     {
       "album": {
+        "name": "To m\u00f3j raj a obok moje buty",
+        "url": "https://open.spotify.com/album/4CxffVlSzYVXEiCfkKIDIC"
+      },
+      "artists": [
+        {
+          "name": "JUCY",
+          "url": "https://open.spotify.com/artist/0xbZw1mwEgCFjG1epSB7vM"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158720,
+      "name": "To m\u00f3j raj a obok moje buty",
+      "url": "https://open.spotify.com/track/1rmjzPQMzXvFZxqhovM1V6"
+    },
+    {
+      "album": {
         "name": "To m\u00f3j \u015bwiat",
         "url": "https://open.spotify.com/album/1w0lhWJ0OgCG5hx8rKLmMi"
       },
@@ -45714,6 +46046,24 @@
       "duration_ms": 246271,
       "name": "To \u015bwiat\u0142o nigdy nie b\u0119dzie zielone",
       "url": "https://open.spotify.com/track/7ET5DJ6fP1PGhCJirS2Fb2"
+    },
+    {
+      "album": {
+        "name": "TOBIE UFAM",
+        "url": "https://open.spotify.com/album/6FxP7ngycOsoaaV7HQbG4z"
+      },
+      "artists": [
+        {
+          "name": "Franio Mucha",
+          "url": "https://open.spotify.com/artist/2l1ha2vETw02TOEdpepvEx"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222062,
+      "name": "TOBIE UFAM",
+      "url": "https://open.spotify.com/track/0iXQgGgheOJlI4X3yrI0ox"
     },
     {
       "album": {
@@ -48022,6 +48372,24 @@
       "duration_ms": 119200,
       "name": "UTAH",
       "url": "https://open.spotify.com/track/0Ijvz6ebztdR78N1SXDSlG"
+    },
+    {
+      "album": {
+        "name": "Utopieni w ka\u0142u\u017cy",
+        "url": "https://open.spotify.com/album/4ObVjWPqOg4jzujK0JlObj"
+      },
+      "artists": [
+        {
+          "name": "Jasia Tabak",
+          "url": "https://open.spotify.com/artist/5u0N5lPd6zhkDXUXgavDVC"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202833,
+      "name": "Utopieni w ka\u0142u\u017cy",
+      "url": "https://open.spotify.com/track/5Tn1qD0EEtq8dSesTaY9OK"
     },
     {
       "album": {
@@ -54690,7 +55058,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 198400,
       "name": "\u0142zy",
       "url": "https://open.spotify.com/track/3CR4WXbD08XSe7lmeQVw8f"
@@ -55348,6 +55716,24 @@
       "duration_ms": 239905,
       "name": "\u017byczenia",
       "url": "https://open.spotify.com/track/6SaMnVvuI9qxgGrym4mMYq"
+    },
+    {
+      "album": {
+        "name": "\u017bycz\u0119 Ci Dobrze",
+        "url": "https://open.spotify.com/album/60E2WzTgb5MZD5wO7gEbjB"
+      },
+      "artists": [
+        {
+          "name": "Aga Laura",
+          "url": "https://open.spotify.com/artist/2z1vojxGYzfc1K07uoogbU"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181456,
+      "name": "\u017bycz\u0119 Ci Dobrze",
+      "url": "https://open.spotify.com/track/4WkUXDJe36Q19NrAetjvqm"
     },
     {
       "album": {

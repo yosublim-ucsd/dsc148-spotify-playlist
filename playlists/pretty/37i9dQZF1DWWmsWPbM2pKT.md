@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 
 > Obscure, dreamy and nostalgic synth sounds from all over the world.
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,383 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,686 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWmsWPbM2pKT.md) - [plain]
 | 4 | [dirty little secret](https://open.spotify.com/track/0RNKTiM7M4dzoCLgg3NgGu) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [dirty little secret](https://open.spotify.com/album/4U3f0EIV3XDBT4jcRytwMZ) | 3:01 |
 | 5 | [Untitled \#13](https://open.spotify.com/track/1YXV3fSpNgxXSfhsEgRmtb) | [glwzbll](https://open.spotify.com/artist/4xNuIo74R6m1eXaz7RlpZ6) | [Untitled \#13](https://open.spotify.com/album/3449NOB1pcTEYaGwg7E4Dh) | 1:55 |
 | 6 | [Dry](https://open.spotify.com/track/06LftQ6D32NPLEZJLtYuZD) | [Geneva Jacuzzi](https://open.spotify.com/artist/0Z7IzQYoiuCJIDI2c9EHxG) | [Dry](https://open.spotify.com/album/29r7z4p5XQ5ZoXE0X6Ifbe) | 3:37 |
-| 7 | [6' Pole](https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v) | [Safe Mind](https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts), [Boy Harsher](https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG), [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk) | [6' Pole](https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0) | 3:55 |
+| 7 | [6' Pole](https://open.spotify.com/track/4olRAKphRJyntqrtlNW65v) | [Safe Mind](https://open.spotify.com/artist/4adzRTzhsBKFneEkLp2sts), [Augustus Muller](https://open.spotify.com/artist/6dCwK4owIEfNc1IIK3tlOk), [LUCY \(Cooper B\. Handy\)](https://open.spotify.com/artist/16j0wVUk9UOoYEDknfb9rK) | [6' Pole](https://open.spotify.com/album/6hmFxhEYhUvgZXLY2itcj0) | 3:55 |
 | 8 | [Little Dark Age](https://open.spotify.com/track/2Y0iGXY6m6immVb2ktbseM) | [MGMT](https://open.spotify.com/artist/0SwO7SWeDHJijQ3XNS7xEE) | [Little Dark Age](https://open.spotify.com/album/7GjVWG39IOj4viyWplJV4H) | 4:59 |
 | 9 | [i like the way you kiss me](https://open.spotify.com/track/2GxrNKugF82CnoRFbQfzPf) | [Artemas](https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2) | [i like the way you kiss me](https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z) | 2:22 |
 | 10 | [Holy Ghost](https://open.spotify.com/track/7CYzSfN0VUzM2BuDsOivtz) | [Pleasure Nature](https://open.spotify.com/artist/3ZGM51bHuk90ka2P14mrzQ) | [Nightmare State / Television Choir](https://open.spotify.com/album/0wF2jadXWC7KPV02HWrbSx) | 3:55 |

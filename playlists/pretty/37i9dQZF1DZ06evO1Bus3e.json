@@ -1,12 +1,12 @@
 {
   "description": "This is Arsenal Efectivo. The essential tracks, all in one playlist.",
-  "num_followers": 12252,
+  "num_followers": 12253,
   "original_name": "This Is Arsenal Efectivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4xAgAAAAABC48NBVIMg18E0SylriYqB",
+  "snapshot_id": "Z42SAAAAAABWGSjVQxPOIkfn4AKIK8wo",
   "tracks": [
     {
       "added_at": null,
@@ -403,30 +403,6 @@
       "duration_ms": 209962,
       "name": "Calorsitos Del Desierto",
       "url": "https://open.spotify.com/track/74NAHTRdV5EuABIWxCYK6A"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PLATICAME DE TI (En Vivo)",
-        "url": "https://open.spotify.com/album/0HFW2U2GnGAosNeBZAT7is"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Sol De Mi Tierra",
-          "url": "https://open.spotify.com/artist/6iHkaXDkUBYdOstTu1OoCE"
-        },
-        {
-          "name": "Arsenal Efectivo",
-          "url": "https://open.spotify.com/artist/2MMXs21RASEwAmU7gRheQ0"
-        },
-        {
-          "name": "GUILLERMO RAFAEL HERNANDEZ RAMOS",
-          "url": "https://open.spotify.com/artist/6TV8tWJXeXlIeQg8YrW0hE"
-        }
-      ],
-      "duration_ms": 174155,
-      "name": "PLATICAME DE TI - En Vivo",
-      "url": "https://open.spotify.com/track/0aGVO0Nv3xoqkhVJIK6Izr"
     },
     {
       "added_at": null,

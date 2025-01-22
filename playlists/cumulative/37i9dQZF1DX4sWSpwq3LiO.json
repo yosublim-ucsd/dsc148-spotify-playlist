@@ -6823,6 +6823,24 @@
     },
     {
       "album": {
+        "name": "Distant Horizon",
+        "url": "https://open.spotify.com/album/673bP4xnK1ElzFbUIwJEyx"
+      },
+      "artists": [
+        {
+          "name": "Felix Brightwood",
+          "url": "https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165958,
+      "name": "Distant Horizon",
+      "url": "https://open.spotify.com/track/2iCOm2pd5bLroo3rgBNtJv"
+    },
+    {
+      "album": {
         "name": "Distant Lapse",
         "url": "https://open.spotify.com/album/1WdR1q6Tq8PXKRoQAwXl3y"
       },
@@ -12762,7 +12780,7 @@
       ],
       "date_added": "2023-01-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 151894,
       "name": "Je m'amoure de cette sensation",
       "url": "https://open.spotify.com/track/63PdrrV4D4DtKpB4JEKMTJ"
@@ -29454,6 +29472,24 @@
       "duration_ms": 258871,
       "name": "Unus mundus",
       "url": "https://open.spotify.com/track/4xWk6An2KCcwwzsRDjau0x"
+    },
+    {
+      "album": {
+        "name": "Unvergesslich",
+        "url": "https://open.spotify.com/album/60FJJHnlc7TlKFytAudGm5"
+      },
+      "artists": [
+        {
+          "name": "Lester Dann",
+          "url": "https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145542,
+      "name": "Unvergesslich",
+      "url": "https://open.spotify.com/track/2l7ROj2BBqVGrIQdVe68vS"
     },
     {
       "album": {

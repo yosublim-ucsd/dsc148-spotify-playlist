@@ -1,6 +1,6 @@
 {
   "description": "Un playlist (foarte) divers, cu tot ce e viral \u0219i trending \u00een Rom\u00e2nia ",
-  "num_followers": 32088,
+  "num_followers": 32094,
   "original_name": "Viral \u00een Rom\u00e2nia",
   "owner": {
     "name": "Spotify",
@@ -539,6 +539,34 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
+        "name": "I Adore You (feat. Daecolm)",
+        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+        },
+        {
+          "name": "Arash",
+          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
+        },
+        {
+          "name": "Daecolm",
+          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
+        }
+      ],
+      "duration_ms": 214000,
+      "name": "I Adore You (feat. Daecolm)",
+      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
+    },
+    {
+      "added_at": "2025-01-20 15:42:54",
+      "album": {
         "name": "i like the way you kiss me",
         "url": "https://open.spotify.com/album/5HIWDdg3g9CTOtnevKDl1z"
       },
@@ -567,34 +595,6 @@
       "duration_ms": 122360,
       "name": "KEHLANI",
       "url": "https://open.spotify.com/track/2hrycoFU1mZw6YPvMcn8yC"
-    },
-    {
-      "added_at": "2025-01-20 15:42:54",
-      "album": {
-        "name": "I Adore You (feat. Daecolm)",
-        "url": "https://open.spotify.com/album/5MrdEMJrBnauBJsd1nYY00"
-      },
-      "artists": [
-        {
-          "name": "HUGEL",
-          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
-        },
-        {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
-        },
-        {
-          "name": "Arash",
-          "url": "https://open.spotify.com/artist/7hQmAXAzWI6D350VTgkKTG"
-        },
-        {
-          "name": "Daecolm",
-          "url": "https://open.spotify.com/artist/1IFAU4mznUcfPVP9z2c24N"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "I Adore You (feat. Daecolm)",
-      "url": "https://open.spotify.com/track/5nPbKG04fhLkIAjcPFaZq7"
     },
     {
       "added_at": "2025-01-20 15:42:54",
@@ -1011,8 +1011,8 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
-        "name": "P\u0103i naa",
-        "url": "https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q"
+        "name": "Yali, Yali",
+        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
       },
       "artists": [
         {
@@ -1024,9 +1024,9 @@
           "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 160450,
-      "name": "P\u0103i naa",
-      "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
+      "duration_ms": 155714,
+      "name": "Yali, Yali",
+      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
     },
     {
       "added_at": "2025-01-20 15:42:54",
@@ -1155,8 +1155,8 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
-        "name": "Yali, Yali",
-        "url": "https://open.spotify.com/album/0qgh0U9W9KHTcOWwEZVb2g"
+        "name": "P\u0103i naa",
+        "url": "https://open.spotify.com/album/3DEotmKWHGF5DUHwXfgu5Q"
       },
       "artists": [
         {
@@ -1168,9 +1168,9 @@
           "url": "https://open.spotify.com/artist/1QFgyLmmyAZTPn707dbQT7"
         }
       ],
-      "duration_ms": 155714,
-      "name": "Yali, Yali",
-      "url": "https://open.spotify.com/track/4TLyVQPY9Kuwh9ptK9NZBn"
+      "duration_ms": 160450,
+      "name": "P\u0103i naa",
+      "url": "https://open.spotify.com/track/3BAZCKKEbilNdQgTSLBca9"
     },
     {
       "added_at": "2025-01-20 15:42:54",
@@ -1339,18 +1339,22 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
-        "name": "Habibi",
-        "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
+        "name": "Au!",
+        "url": "https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8"
       },
       "artists": [
         {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "B.U.G. Mafia",
+          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
+        },
+        {
+          "name": "Moza Kaliza",
+          "url": "https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk"
         }
       ],
-      "duration_ms": 130754,
-      "name": "Habibi",
-      "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
+      "duration_ms": 206769,
+      "name": "Au!",
+      "url": "https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF"
     },
     {
       "added_at": "2025-01-20 15:42:54",
@@ -1375,22 +1379,18 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
-        "name": "Au!",
-        "url": "https://open.spotify.com/album/39U4b5Y4sQKxLlCvMGzJR8"
+        "name": "Habibi",
+        "url": "https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy"
       },
       "artists": [
         {
-          "name": "B.U.G. Mafia",
-          "url": "https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0"
-        },
-        {
-          "name": "Moza Kaliza",
-          "url": "https://open.spotify.com/artist/6il6kv5KNcFOECKqTe4Mfk"
+          "name": "Bogdan DLP",
+          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
         }
       ],
-      "duration_ms": 206769,
-      "name": "Au!",
-      "url": "https://open.spotify.com/track/3JnQ9tk30e7xI9uAvSnXtF"
+      "duration_ms": 130754,
+      "name": "Habibi",
+      "url": "https://open.spotify.com/track/4EBATplQoU295eNOeONlAP"
     },
     {
       "added_at": "2025-01-20 15:42:54",
@@ -1483,26 +1483,6 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
-        "name": "Voila",
-        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
-      },
-      "artists": [
-        {
-          "name": "M.G.L.",
-          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
-        },
-        {
-          "name": "Erika Isac",
-          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
-        }
-      ],
-      "duration_ms": 139200,
-      "name": "Voila",
-      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
-    },
-    {
-      "added_at": "2025-01-20 15:42:54",
-      "album": {
         "name": "ZODIAC",
         "url": "https://open.spotify.com/album/13rtFvvqeMf1YytUsuZhlN"
       },
@@ -1543,6 +1523,26 @@
       "duration_ms": 169361,
       "name": "Paharul sus",
       "url": "https://open.spotify.com/track/5QWOtb0L5IYT8w4rMtmVZh"
+    },
+    {
+      "added_at": "2025-01-20 15:42:54",
+      "album": {
+        "name": "Voila",
+        "url": "https://open.spotify.com/album/2Ca2IsS4Yle1zUL6w5ryVP"
+      },
+      "artists": [
+        {
+          "name": "M.G.L.",
+          "url": "https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM"
+        },
+        {
+          "name": "Erika Isac",
+          "url": "https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC"
+        }
+      ],
+      "duration_ms": 139200,
+      "name": "Voila",
+      "url": "https://open.spotify.com/track/4Kxn0Ix6IDWLnkGxmb4i2D"
     },
     {
       "added_at": "2025-01-20 15:42:54",
@@ -1623,22 +1623,6 @@
       "duration_ms": 173793,
       "name": "Cum te vad eu",
       "url": "https://open.spotify.com/track/2jgL2rbGexeWnNvesowApc"
-    },
-    {
-      "added_at": "2025-01-20 15:42:54",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
     },
     {
       "added_at": "2025-01-20 15:42:54",
@@ -1735,6 +1719,22 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/4DWrYvfGXRE8ko5ZxlIpit"
+      },
+      "artists": [
+        {
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
+        }
+      ],
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/0UYnhUfnUj5adChuAXvLUB"
+    },
+    {
+      "added_at": "2025-01-20 15:42:54",
+      "album": {
         "name": "Imuni la bine",
         "url": "https://open.spotify.com/album/4OlJvzv0mpqqV3JbaSIlxk"
       },
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
+        "name": "Maria, Maria",
+        "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
+      },
+      "artists": [
+        {
+          "name": "Lidia Buble",
+          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
+        }
+      ],
+      "duration_ms": 160800,
+      "name": "Maria, Maria",
+      "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
+    },
+    {
+      "added_at": "2025-01-20 15:42:54",
+      "album": {
         "name": "Pentru ca",
         "url": "https://open.spotify.com/album/6xA5uMZ5SLFnv2K9IVKOUx"
       },
@@ -1811,22 +1827,6 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
-        "name": "Maria, Maria",
-        "url": "https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE"
-      },
-      "artists": [
-        {
-          "name": "Lidia Buble",
-          "url": "https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH"
-        }
-      ],
-      "duration_ms": 160800,
-      "name": "Maria, Maria",
-      "url": "https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX"
-    },
-    {
-      "added_at": "2025-01-20 15:42:54",
-      "album": {
         "name": "Blonda",
         "url": "https://open.spotify.com/album/2HqA5drhy5KIX187mwQVRw"
       },
@@ -1843,22 +1843,26 @@
     {
       "added_at": "2025-01-20 15:42:54",
       "album": {
-        "name": "Guli Guli (From \"Buzz House\" The Movie)",
-        "url": "https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V"
+        "name": "COLDMODE",
+        "url": "https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm"
       },
       "artists": [
         {
-          "name": "rares",
-          "url": "https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9"
+          "name": "Robi",
+          "url": "https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim"
         },
         {
-          "name": "Bogdan DLP",
-          "url": "https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq"
+          "name": "Aerozen",
+          "url": "https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9"
+        },
+        {
+          "name": "Tussin",
+          "url": "https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb"
         }
       ],
-      "duration_ms": 148095,
-      "name": "Guli Guli - From \"Buzz House\" The Movie",
-      "url": "https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z"
+      "duration_ms": 178607,
+      "name": "FREEZING COLD",
+      "url": "https://open.spotify.com/track/1IGbqCODgKsJfz6K3DlGeP"
     }
   ],
   "unique_name": "Viral \u00een Rom\u00e2nia",

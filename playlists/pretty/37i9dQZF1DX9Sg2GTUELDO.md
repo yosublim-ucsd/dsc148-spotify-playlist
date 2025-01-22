@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Sg2GTUELDO.md) - [plain]
 
 > 感受超級女聲力量。Cover: 泳兒
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,574 likes - 438 songs - 1 day 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,575 likes - 438 songs - 1 day 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

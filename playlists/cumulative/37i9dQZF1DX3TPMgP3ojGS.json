@@ -30492,7 +30492,7 @@
       ],
       "date_added": "2023-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 139624,
       "name": "Valse Naturelle",
       "url": "https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy"
@@ -32628,6 +32628,24 @@
       "duration_ms": 59287,
       "name": "\u00c9chelle",
       "url": "https://open.spotify.com/track/2QKdAMS5nL4aAH8pg7NHlm"
+    },
+    {
+      "album": {
+        "name": "\u795e\u69d8\u306e\u30e1\u30ed\u30c7\u30a3",
+        "url": "https://open.spotify.com/album/1xtbw2HzyWubGlsgO2gEGe"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 339893,
+      "name": "\u68ee\u306e\u4f4f\u4eba",
+      "url": "https://open.spotify.com/track/4hxnwRWpuL8J4S5oOtl9jT"
     },
     {
       "album": {

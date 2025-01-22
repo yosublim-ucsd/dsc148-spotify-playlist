@@ -1,12 +1,12 @@
 {
   "description": "A new shade of Country. Cover: Willow Avalon",
-  "num_followers": 534327,
+  "num_followers": 534424,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nkCgAAAABgU2A6sbuUFOPxfy/KMxVw",
+  "snapshot_id": "Z4/ZhQAAAABFAaY4+B+dQxAYjR38iSTH",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:58",
@@ -119,6 +119,22 @@
       "duration_ms": 200666,
       "name": "Some Things Never Change",
       "url": "https://open.spotify.com/track/0pP8lCq9MTZh3QDw7nSjpP"
+    },
+    {
+      "added_at": "2025-01-21 17:29:41",
+      "album": {
+        "name": "Me More Cowboy Than You (Demo)",
+        "url": "https://open.spotify.com/album/7yvLzquD1rZQr322tjIGOS"
+      },
+      "artists": [
+        {
+          "name": "The Brudi Brothers",
+          "url": "https://open.spotify.com/artist/7pOVIu213yYI9X7Ylfyh2K"
+        }
+      ],
+      "duration_ms": 163750,
+      "name": "Me More Cowboy Than You - Demo",
+      "url": "https://open.spotify.com/track/2kKUOwItJDGmsTUMJ6eJOc"
     },
     {
       "added_at": "2025-01-17 05:00:58",

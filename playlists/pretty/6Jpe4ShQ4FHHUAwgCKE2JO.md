@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 
 > This country is a corpse
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 36 songs - 2 hr 11 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 0 like - 37 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,5 +44,6 @@ pretty - [cumulative](/playlists/cumulative/6Jpe4ShQ4FHHUAwgCKE2JO.md) - [plain]
 | 34 | [Birthday Party](https://open.spotify.com/track/7hBRNyuEkGR4qj5nTDGTry) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Neotheater](https://open.spotify.com/album/02tIakRsIFGW8sO4pBtJgj) | 3:43 |
 | 35 | [United Health](https://open.spotify.com/track/0YoYJw5URPqnGdOSnpeNnT) | [Jesse Welles](https://open.spotify.com/artist/366xgdzfRGQoiDRGidGlDJ) | [United Health](https://open.spotify.com/album/2bkCyzxi7IglkqjaeZrarS) | 1:41 |
 | 36 | [Lake Pontchartrain](https://open.spotify.com/track/079xRk9N70NzB2vF0oMRRj) | [Ludo](https://open.spotify.com/artist/6ok7bEDf9CZ0448D59AaNL) | [You're Awful, I Love You](https://open.spotify.com/album/7kG99quHohiDviZ4FsKCQA) | 3:36 |
+| 37 | [Redesign Your Logo](https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [The Fump, Vol\. 20: March \- April 2010](https://open.spotify.com/album/795ErcyPhr0Trsq0a4SauM) | 4:19 |
 
-Snapshot ID: `AAAANAd/AufQgAhQRBZXKsi31t9Q15eA`
+Snapshot ID: `AAAANYlY0tKhWomdfnkwnPce9uv2//Nt`

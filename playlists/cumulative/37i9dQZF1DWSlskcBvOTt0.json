@@ -3347,6 +3347,28 @@
     },
     {
       "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/6tV5ImdhGjwuNnj4GhHrSd"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "hazel",
+          "url": "https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211949,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/2uDk6I7t68BZQwMG9PQoMI"
+    },
+    {
+      "album": {
         "name": "Made of Wood Remixed",
         "url": "https://open.spotify.com/album/17vbriNfPim1tG9mGO6GGA"
       },
@@ -7860,7 +7882,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 320975,
       "name": "Kiss Me Hard - Adam Ten Remix",
       "url": "https://open.spotify.com/track/4eAz4xHo6HbSwvwmG99zvF"

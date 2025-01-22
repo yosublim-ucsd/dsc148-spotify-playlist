@@ -2,9 +2,9 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Songs from LGBTQIA+ artists\.  Cover: HAKUSHI HASEGAWA
+> Songs from LGBTQIA+ artists\.  Cover: Trey Campbell \(Songwriter\)
 
-1,399 songs - 3 day 4 hr 1 min
+1,400 songs - 3 day 4 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -486,7 +486,7 @@
 | [Grace](https://open.spotify.com/track/3r9CYtlSkvzxxmUSoUV3Os) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Grace](https://open.spotify.com/album/6k4Wcg7mJbjlzEE5UAG1Gi) | 3:56 | 2022-03-25 | 2022-04-21 |
 | [Gracie III](https://open.spotify.com/track/3RFF1MJVRE7kKxulxVRdKB) | [Jerry Paper](https://open.spotify.com/artist/2gzxBoK71ohENPlxlshHV7) | [Free Time](https://open.spotify.com/album/4iEmSaQR9Kz4SVs4O1wr1z) | 3:44 | 2022-04-15 | 2022-04-21 |
 | [Grapefruit](https://open.spotify.com/track/35seOt4wMvu7gWzYFwqNGh) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [Grapefruit](https://open.spotify.com/album/2LndkOOunBNk2DKJ7ajq6X) | 3:51 | 2022-10-28 | 2022-12-01 |
-| [GREEN GRASS](https://open.spotify.com/track/1NUvIIhVZU0lKyZ3aP40SC) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [GREEN GRASS](https://open.spotify.com/album/51wIsfEe3WpdylzHhcowHj) | 3:11 | 2024-08-13 |  |
+| [GREEN GRASS](https://open.spotify.com/track/1NUvIIhVZU0lKyZ3aP40SC) | [BATHSHEBA](https://open.spotify.com/artist/76bDEeabrfohMhoWwm4av7) | [GREEN GRASS](https://open.spotify.com/album/51wIsfEe3WpdylzHhcowHj) | 3:11 | 2024-08-13 | 2025-01-22 |
 | [Grog d'Pilha](https://open.spotify.com/track/38y0HYQgnw8Y6VuTOAFmkx) | [Sara Tavares](https://open.spotify.com/artist/57zZoaRDFEjqRwq6FlT0va) | [Grog d'Pilha](https://open.spotify.com/album/1FUTIJ9OdcQ86eiSW4FUxo) | 3:08 | 2023-01-24 | 2023-03-08 |
 | [Guard My Heart](https://open.spotify.com/track/3FMgKNOeL9mCQkZQb55siA) | [The Buoys](https://open.spotify.com/artist/338GHPl8NnzUwqpm6wpqjc) | [Guard My Heart](https://open.spotify.com/album/3IQpUNq1c1zSE9q4WjkMkR) | 4:07 | 2024-02-13 | 2024-04-10 |
 | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/track/1nhtP8put1KkwqdrZcA1Gi) | [Carlie Hanson](https://open.spotify.com/artist/3mPc8WGusz2XF3Tvs3AKCR), [MASN](https://open.spotify.com/artist/4HAfqyKr4Sqtab6ttHWXgE) | [Gucci Knife \(feat\. MASN\)](https://open.spotify.com/album/0MJRKW8pwyQH16WQlMXiH7) | 2:31 | 2021-12-17 | 2022-01-15 |
@@ -1060,6 +1060,7 @@
 | [Salt](https://open.spotify.com/track/7bMm4GSR0O90ZrrqsKf74G) | [Teen Jesus and the Jean Teasers](https://open.spotify.com/artist/3KrgUUwoRQ6OQp4IOmqnSF), [The Grogans](https://open.spotify.com/artist/3LiQA7CeDBEpoWI0TNBJgv) | [Salt](https://open.spotify.com/album/1i029CHfpOok9L5nC1JWO2) | 3:07 | 2023-09-12 | 2023-10-11 |
 | [Saturday Night's Alright \(For Fighting\)](https://open.spotify.com/track/3v8l8N78qWDgXfHrxppF5D) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo), [Elton John](https://open.spotify.com/artist/3PhoLpVuITZKcymswpck5b) | [Stampede: Vol\. 1](https://open.spotify.com/album/5xmQFJ2yArFC5glJ3xclfE) | 4:11 | 2024-05-28 | 2024-06-06 |
 | [Saviour](https://open.spotify.com/track/4yCsKzFyKCh9UBzsBMMT8F) | [James Baley](https://open.spotify.com/artist/2C5lN4qvUtD2BgRzl5iEHG) | [Saviour](https://open.spotify.com/album/5w4EHVmC2kq9dhG8xBgxZE) | 3:17 | 2021-12-17 | 2022-03-26 |
+| [Say](https://open.spotify.com/track/0kQANryNS3gaQ1OAA1yPNg) | [keshi](https://open.spotify.com/artist/3pc0bOVB5whxmD50W79wwO) | [Say](https://open.spotify.com/album/02aahoRY9XSmRxX2KqZbBY) | 3:01 | 2025-01-21 |  |
 | [Sconosciuti](https://open.spotify.com/track/5DgwdDsoYLtHIp0wAbkrHf) | [Emma Nolde](https://open.spotify.com/artist/5Ti3nqsUZsSrsk3qcOADjK) | [NUOVOSPAZIOTEMPO](https://open.spotify.com/album/1q9YENyHP8AZHj46FxuSgZ) | 3:46 | 2024-11-12 | 2024-12-05 |
 | [SCUMBAG](https://open.spotify.com/track/0kYWQcuHGs0tqZHRTCfhR1) | [NOAHFINNCE](https://open.spotify.com/artist/6y7T3BaNMGAYgRbATEq4cM) | [SCUMBAG](https://open.spotify.com/album/3T9sAXQL2HqNvpA2lE6t1C) | 3:06 | 2023-11-14 | 2023-11-30 |
 | [second](https://open.spotify.com/track/29Br7mFmSGM3W9ptFNg4Qc) | [Miki Ratsula](https://open.spotify.com/artist/3Yq0Ww7oAbgxcoOxthlS30) | [second](https://open.spotify.com/album/4aU3izZF1sUiVQ2bN5UCec) | 3:29 | 2021-12-17 | 2022-01-29 |

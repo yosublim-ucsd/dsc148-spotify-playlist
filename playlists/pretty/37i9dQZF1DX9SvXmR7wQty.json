@@ -1,6 +1,6 @@
 {
   "description": "D\u00e9couvrez les meilleures nouveaut\u00e9s francophones. Photo: Ariane Roy",
-  "num_followers": 43305,
+  "num_followers": 43312,
   "original_name": "Nouveaut\u00e9s francophones",
   "owner": {
     "name": "Spotify",
@@ -239,18 +239,22 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "Chaque seconde (Edition deluxe)",
-        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
+        "name": "Run",
+        "url": "https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4"
       },
       "artists": [
         {
-          "name": "Pierre Garnier",
-          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
+          "name": "Rim'K",
+          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
         }
       ],
-      "duration_ms": 188333,
-      "name": "Adieu, nous deux",
-      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
+      "duration_ms": 179253,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -271,22 +275,18 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "Run",
-        "url": "https://open.spotify.com/album/45Z2w3ADwNkPE6kTRpm2P4"
+        "name": "Chaque seconde (Edition deluxe)",
+        "url": "https://open.spotify.com/album/2za8PKjP87DWKaqsgb44Ly"
       },
       "artists": [
         {
-          "name": "Rim'K",
-          "url": "https://open.spotify.com/artist/2eh8cEKZk4VeruUrGq748D"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+          "name": "Pierre Garnier",
+          "url": "https://open.spotify.com/artist/07UyhXWf7aDbvCZKhTKCpr"
         }
       ],
-      "duration_ms": 179253,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/2UntklImLREdP8pMAzr4c4"
+      "duration_ms": 188333,
+      "name": "Adieu, nous deux",
+      "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -367,6 +367,26 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
+        "name": "SURVIVAL MODE",
+        "url": "https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U"
+      },
+      "artists": [
+        {
+          "name": "Ril\u00e8s",
+          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "duration_ms": 161632,
+      "name": "OBVIOUS",
+      "url": "https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
         "name": "La pluie",
         "url": "https://open.spotify.com/album/45Rjf429SfK4HXJ5uhRmoG"
       },
@@ -379,6 +399,22 @@
       "duration_ms": 182200,
       "name": "La pluie",
       "url": "https://open.spotify.com/track/2jCTfX2rx7e5uSC17mf8g4"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
+        "name": "Synesth\u00e9sies (Deluxe)",
+        "url": "https://open.spotify.com/album/6uGZAOKcVq2L31NFvroIBZ"
+      },
+      "artists": [
+        {
+          "name": "Sora\u00ef",
+          "url": "https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL"
+        }
+      ],
+      "duration_ms": 137896,
+      "name": "Rouge",
+      "url": "https://open.spotify.com/track/7yYx3sq84YgiDTlyuCY8Il"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -403,42 +439,6 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "Synesth\u00e9sies (Deluxe)",
-        "url": "https://open.spotify.com/album/6uGZAOKcVq2L31NFvroIBZ"
-      },
-      "artists": [
-        {
-          "name": "Sora\u00ef",
-          "url": "https://open.spotify.com/artist/38SOUOhlDoh1y9dHlGDbTL"
-        }
-      ],
-      "duration_ms": 137896,
-      "name": "Rouge",
-      "url": "https://open.spotify.com/track/7yYx3sq84YgiDTlyuCY8Il"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "SURVIVAL MODE",
-        "url": "https://open.spotify.com/album/3ivkFLaaycVJVLSILhaW5U"
-      },
-      "artists": [
-        {
-          "name": "Ril\u00e8s",
-          "url": "https://open.spotify.com/artist/6pdcQa7by8IKuoVXvgknlI"
-        },
-        {
-          "name": "TIF",
-          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
-        }
-      ],
-      "duration_ms": 161632,
-      "name": "OBVIOUS",
-      "url": "https://open.spotify.com/track/03B8nD8mCOfWp3Cl1Q4mNu"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
       },
@@ -459,18 +459,22 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
-        "name": "Inarr\u00eatable",
-        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
+        "name": "Couteau dans le dos",
+        "url": "https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl"
       },
       "artists": [
         {
-          "name": "Jul",
-          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+          "name": "Alonzo",
+          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
+        },
+        {
+          "name": "GIMS",
+          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
         }
       ],
-      "duration_ms": 198653,
-      "name": "Je suis fait pour...",
-      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
+      "duration_ms": 163373,
+      "name": "Couteau dans le dos",
+      "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -487,22 +491,6 @@
       "duration_ms": 200040,
       "name": "Corail",
       "url": "https://open.spotify.com/track/1zhvNd9Owc6MYk4TjV7wdm"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "TESTIMONY.",
-        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
-      },
-      "artists": [
-        {
-          "name": "Tayc",
-          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
-        }
-      ],
-      "duration_ms": 242225,
-      "name": "Que toi",
-      "url": "https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -531,6 +519,22 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
+        "name": "Inarr\u00eatable",
+        "url": "https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM"
+      },
+      "artists": [
+        {
+          "name": "Jul",
+          "url": "https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy"
+        }
+      ],
+      "duration_ms": 198653,
+      "name": "Je suis fait pour...",
+      "url": "https://open.spotify.com/track/1kjLlReX2NFewL9gwgdFot"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
         "name": "Pink Sh!t",
         "url": "https://open.spotify.com/album/0OZc0klySsvKeGWjlqDiDe"
       },
@@ -547,6 +551,22 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
+        "name": "TESTIMONY.",
+        "url": "https://open.spotify.com/album/2CsVUBVLZU6216kq7HQWXK"
+      },
+      "artists": [
+        {
+          "name": "Tayc",
+          "url": "https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60"
+        }
+      ],
+      "duration_ms": 242225,
+      "name": "Que toi",
+      "url": "https://open.spotify.com/track/5fh8vD7HHqsHWCtiuejMZ6"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
         "name": "Stigmates",
         "url": "https://open.spotify.com/album/1GyxLYnD3w9QOnmdGj1yOe"
       },
@@ -559,26 +579,6 @@
       "duration_ms": 293746,
       "name": "Stigmates",
       "url": "https://open.spotify.com/track/54s2e5RFZQ7cSWBCssnlfA"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "Couteau dans le dos",
-        "url": "https://open.spotify.com/album/4iDUiEu1Ez2LNFwjj33Afl"
-      },
-      "artists": [
-        {
-          "name": "Alonzo",
-          "url": "https://open.spotify.com/artist/2z2TRvloJt4EfUNQp9rHAi"
-        },
-        {
-          "name": "GIMS",
-          "url": "https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK"
-        }
-      ],
-      "duration_ms": 163373,
-      "name": "Couteau dans le dos",
-      "url": "https://open.spotify.com/track/3cukaDrgKRXiayzXCwtJqI"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -787,6 +787,30 @@
     {
       "added_at": "2025-01-17 05:00:59",
       "album": {
+        "name": "BIG BODY",
+        "url": "https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu"
+      },
+      "artists": [
+        {
+          "name": "Tarik Azzouz",
+          "url": "https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf"
+        },
+        {
+          "name": "La F\u00e8ve",
+          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
+        },
+        {
+          "name": "Hamza",
+          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
+        }
+      ],
+      "duration_ms": 179388,
+      "name": "BIG BODY",
+      "url": "https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
         "name": "AMOR\u00c9",
         "url": "https://open.spotify.com/album/42Pgf1jr36NyHSSEnDfiQW"
       },
@@ -823,6 +847,26 @@
       "duration_ms": 203902,
       "name": "PROSECCO",
       "url": "https://open.spotify.com/track/72sH4ge8L9u9BwLzBwfxgP"
+    },
+    {
+      "added_at": "2025-01-17 05:00:59",
+      "album": {
+        "name": "2, 3 shots",
+        "url": "https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh"
+      },
+      "artists": [
+        {
+          "name": "Heuss L'enfoir\u00e9",
+          "url": "https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE"
+        },
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "duration_ms": 153170,
+      "name": "2, 3 shots",
+      "url": "https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5"
     },
     {
       "added_at": "2025-01-17 05:00:59",
@@ -871,46 +915,6 @@
       "duration_ms": 148024,
       "name": "MON ANN\u00c9E",
       "url": "https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "Dans ma bulle",
-        "url": "https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A"
-      },
-      "artists": [
-        {
-          "name": "Bouss",
-          "url": "https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq"
-        }
-      ],
-      "duration_ms": 152679,
-      "name": "Dans ma bulle",
-      "url": "https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH"
-    },
-    {
-      "added_at": "2025-01-17 05:00:59",
-      "album": {
-        "name": "BIG BODY",
-        "url": "https://open.spotify.com/album/2wCL1N3sgRVfRrwBRa8Osu"
-      },
-      "artists": [
-        {
-          "name": "Tarik Azzouz",
-          "url": "https://open.spotify.com/artist/6KphPDgP2tw0PRK8bJfRAf"
-        },
-        {
-          "name": "La F\u00e8ve",
-          "url": "https://open.spotify.com/artist/2sBKOwN0fSjx39VtL2WpjJ"
-        },
-        {
-          "name": "Hamza",
-          "url": "https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh"
-        }
-      ],
-      "duration_ms": 179388,
-      "name": "BIG BODY",
-      "url": "https://open.spotify.com/track/78HVYs7XnoRlReErp84Id7"
     }
   ],
   "unique_name": "Nouveaut\u00e9s francophones",

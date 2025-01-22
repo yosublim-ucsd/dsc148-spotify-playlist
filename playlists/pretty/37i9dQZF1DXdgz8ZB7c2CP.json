@@ -1,6 +1,6 @@
 {
   "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Killen.",
-  "num_followers": 804816,
+  "num_followers": 804843,
   "original_name": "creamy",
   "owner": {
     "name": "Spotify",
@@ -971,6 +971,26 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
+        "name": "Mr. Brightside",
+        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
+      },
+      "artists": [
+        {
+          "name": "Arcando",
+          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
+        },
+        {
+          "name": "Livingston Crain",
+          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Mr. Brightside",
+      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
+    },
+    {
+      "added_at": "2025-01-16 23:00:43",
+      "album": {
         "name": "GarraGarra",
         "url": "https://open.spotify.com/album/435uNKRUQ136anVQ5YZSHi"
       },
@@ -995,22 +1015,18 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
-        "name": "Mr. Brightside",
-        "url": "https://open.spotify.com/album/2Omja92GFGLYahWnSK5K9F"
+        "name": "Think I'm Gonna Love U",
+        "url": "https://open.spotify.com/album/362YrIeDYd5qEZNsH4Yulf"
       },
       "artists": [
         {
-          "name": "Arcando",
-          "url": "https://open.spotify.com/artist/0ycvq8upLhNmddPdQXhLOy"
-        },
-        {
-          "name": "Livingston Crain",
-          "url": "https://open.spotify.com/artist/4RtqDXilSr5s7rDH0t7oRn"
+          "name": "Longo",
+          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Mr. Brightside",
-      "url": "https://open.spotify.com/track/4GKDKSHYMvlDJl3XxaeQlS"
+      "duration_ms": 236470,
+      "name": "Think I'm Gonna Love U",
+      "url": "https://open.spotify.com/track/53d8NXevHZWGFg3l3iXgKm"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1035,18 +1051,18 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
-        "name": "Think I'm Gonna Love U",
-        "url": "https://open.spotify.com/album/362YrIeDYd5qEZNsH4Yulf"
+        "name": "take it slow",
+        "url": "https://open.spotify.com/album/3AMNBMeY5JZYEO5k8mcaeR"
       },
       "artists": [
         {
-          "name": "Longo",
-          "url": "https://open.spotify.com/artist/6myydsPHqq4xmZD7DWzRjI"
+          "name": "nate sib",
+          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
         }
       ],
-      "duration_ms": 236470,
-      "name": "Think I'm Gonna Love U",
-      "url": "https://open.spotify.com/track/53d8NXevHZWGFg3l3iXgKm"
+      "duration_ms": 137842,
+      "name": "take it slow",
+      "url": "https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1079,22 +1095,6 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
-        "name": "CHROMA 001",
-        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
-      },
-      "artists": [
-        {
-          "name": "BICEP",
-          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
-        }
-      ],
-      "duration_ms": 287447,
-      "name": "CHROMA 001 HELIUM",
-      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
-    },
-    {
-      "added_at": "2025-01-16 23:00:43",
-      "album": {
         "name": "Motions",
         "url": "https://open.spotify.com/album/74llMjtisXlfWXgtW6pfGQ"
       },
@@ -1119,22 +1119,18 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
-        "name": "is this real?",
-        "url": "https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF"
+        "name": "CHROMA 001",
+        "url": "https://open.spotify.com/album/1RC0P594vzP00VYIEH8yNZ"
       },
       "artists": [
         {
-          "name": "WHIPPED CREAM",
-          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
-        },
-        {
-          "name": "BKAYE",
-          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+          "name": "BICEP",
+          "url": "https://open.spotify.com/artist/73A3bLnfnz5BoQjb4gNCga"
         }
       ],
-      "duration_ms": 145588,
-      "name": "real 4 me",
-      "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
+      "duration_ms": 287447,
+      "name": "CHROMA 001 HELIUM",
+      "url": "https://open.spotify.com/track/7zVP6H7YeyHEL9f6w6Bmqm"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1151,6 +1147,26 @@
       "duration_ms": 166153,
       "name": "library",
       "url": "https://open.spotify.com/track/6mz3QCVaJ2RAKqLJiokShY"
+    },
+    {
+      "added_at": "2025-01-16 23:00:43",
+      "album": {
+        "name": "is this real?",
+        "url": "https://open.spotify.com/album/1szTW0ieAeyHYGaFX2B7JF"
+      },
+      "artists": [
+        {
+          "name": "WHIPPED CREAM",
+          "url": "https://open.spotify.com/artist/5CMaNobmJYgXcfiT0zYOwi"
+        },
+        {
+          "name": "BKAYE",
+          "url": "https://open.spotify.com/artist/1GrQQZ7U31WfQPQbd3MHx9"
+        }
+      ],
+      "duration_ms": 145588,
+      "name": "real 4 me",
+      "url": "https://open.spotify.com/track/5QdLZAyqp0OEMI06xGQKF4"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1195,22 +1211,6 @@
       "duration_ms": 182070,
       "name": "A Little Closer - Oppidan Remix",
       "url": "https://open.spotify.com/track/2B700PMxvSrrzlSTURPzag"
-    },
-    {
-      "added_at": "2025-01-16 23:00:43",
-      "album": {
-        "name": "take it slow",
-        "url": "https://open.spotify.com/album/3AMNBMeY5JZYEO5k8mcaeR"
-      },
-      "artists": [
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 137842,
-      "name": "take it slow",
-      "url": "https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1439,6 +1439,22 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
+        "name": "Zorb",
+        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+      },
+      "artists": [
+        {
+          "name": "Sycco",
+          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+        }
+      ],
+      "duration_ms": 148689,
+      "name": "Meant To Be",
+      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
+    },
+    {
+      "added_at": "2025-01-16 23:00:43",
+      "album": {
         "name": "Slow Motion",
         "url": "https://open.spotify.com/album/366r6mv4J4Qsv5EunUmu9Z"
       },
@@ -1495,18 +1511,18 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
-        "name": "Zorb",
-        "url": "https://open.spotify.com/album/6kWMa5wuK9Jw1gtlHJaXRz"
+        "name": "iwaly",
+        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
       },
       "artists": [
         {
-          "name": "Sycco",
-          "url": "https://open.spotify.com/artist/4meTRfbaVba24HXyBwbKJ0"
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
         }
       ],
-      "duration_ms": 148689,
-      "name": "Meant To Be",
-      "url": "https://open.spotify.com/track/3pngSkv9Q6PhzKZttKmCqc"
+      "duration_ms": 201866,
+      "name": "iwaly",
+      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1523,22 +1539,6 @@
       "duration_ms": 251979,
       "name": "Highlight",
       "url": "https://open.spotify.com/track/0XdLGeMddzvB6CtkuFHy7i"
-    },
-    {
-      "added_at": "2025-01-16 23:00:43",
-      "album": {
-        "name": "iwaly",
-        "url": "https://open.spotify.com/album/5t9ZFc1WA70vNHvAGGoHVC"
-      },
-      "artists": [
-        {
-          "name": "Shallou",
-          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
-        }
-      ],
-      "duration_ms": 201866,
-      "name": "iwaly",
-      "url": "https://open.spotify.com/track/1wuddURoG5BWfgOIFEzVRQ"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1571,6 +1571,26 @@
       "duration_ms": 226135,
       "name": "Shuf (Adore U)",
       "url": "https://open.spotify.com/track/3ylYRDRiGu5dI0ScsBijka"
+    },
+    {
+      "added_at": "2025-01-16 23:00:43",
+      "album": {
+        "name": "Leave Me Slowly (Babsy. Remix)",
+        "url": "https://open.spotify.com/album/5Idz2ZzmmvBk1lrlyvSUcy"
+      },
+      "artists": [
+        {
+          "name": "Starsmith",
+          "url": "https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw"
+        },
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        }
+      ],
+      "duration_ms": 144705,
+      "name": "Leave Me Slowly - Babsy. Remix",
+      "url": "https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1659,26 +1679,6 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
-        "name": "Leave Me Slowly (Babsy. Remix)",
-        "url": "https://open.spotify.com/album/5Idz2ZzmmvBk1lrlyvSUcy"
-      },
-      "artists": [
-        {
-          "name": "Starsmith",
-          "url": "https://open.spotify.com/artist/4RQPXMuSW750IdvxeibKmw"
-        },
-        {
-          "name": "Babsy.",
-          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
-        }
-      ],
-      "duration_ms": 144705,
-      "name": "Leave Me Slowly - Babsy. Remix",
-      "url": "https://open.spotify.com/track/4ciq391kHt3wDmZ0d4O250"
-    },
-    {
-      "added_at": "2025-01-16 23:00:43",
-      "album": {
         "name": "Love You Better",
         "url": "https://open.spotify.com/album/4Atnbyh27j1EORSgaGSQl6"
       },
@@ -1739,26 +1739,6 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
-        "name": "Life of a Wallflower , Vol. 2",
-        "url": "https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T"
-      },
-      "artists": [
-        {
-          "name": "Whethan",
-          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
-        },
-        {
-          "name": "shy martin",
-          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
-        }
-      ],
-      "duration_ms": 166158,
-      "name": "PLACE IN MY MIND (feat. shy martin)",
-      "url": "https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N"
-    },
-    {
-      "added_at": "2025-01-16 23:00:43",
-      "album": {
         "name": "disappear",
         "url": "https://open.spotify.com/album/5ux1z2tIfu3AHA6VogGuv3"
       },
@@ -1779,6 +1759,26 @@
       "duration_ms": 172847,
       "name": "disappear (feat. artemis orion & dobi)",
       "url": "https://open.spotify.com/track/5BzLCBy61N1a6la0MVtueV"
+    },
+    {
+      "added_at": "2025-01-16 23:00:43",
+      "album": {
+        "name": "Life of a Wallflower , Vol. 2",
+        "url": "https://open.spotify.com/album/3GSWRznG9Mtu1AXjPNb18T"
+      },
+      "artists": [
+        {
+          "name": "Whethan",
+          "url": "https://open.spotify.com/artist/0vqJkZ0RpLZixt3lTmD8vP"
+        },
+        {
+          "name": "shy martin",
+          "url": "https://open.spotify.com/artist/7eCmccnRwPmRnWPw61x6jM"
+        }
+      ],
+      "duration_ms": 166158,
+      "name": "PLACE IN MY MIND (feat. shy martin)",
+      "url": "https://open.spotify.com/track/0JALW2dwPffv5nNeKCIS0N"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1847,6 +1847,26 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
+        "name": "GLOW (feat. Au/Ra)",
+        "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
+      },
+      "artists": [
+        {
+          "name": "San Holo",
+          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
+        },
+        {
+          "name": "Au/Ra",
+          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
+        }
+      ],
+      "duration_ms": 150225,
+      "name": "GLOW (feat. Au/Ra)",
+      "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
+    },
+    {
+      "added_at": "2025-01-16 23:00:43",
+      "album": {
         "name": "holy ghost",
         "url": "https://open.spotify.com/album/0H9k8NduBG5dcan4V1FJ6m"
       },
@@ -1859,6 +1879,38 @@
       "duration_ms": 152678,
       "name": "holy ghost",
       "url": "https://open.spotify.com/track/5IcmUnL95u4YFo6hhIbPZV"
+    },
+    {
+      "added_at": "2025-01-16 23:00:43",
+      "album": {
+        "name": "Chromatically",
+        "url": "https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY"
+      },
+      "artists": [
+        {
+          "name": "Haywyre",
+          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
+        }
+      ],
+      "duration_ms": 198000,
+      "name": "Chromatically",
+      "url": "https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl"
+    },
+    {
+      "added_at": "2025-01-16 23:00:43",
+      "album": {
+        "name": "Before Me",
+        "url": "https://open.spotify.com/album/7oFKLQrShF4RIBYvrwMFlR"
+      },
+      "artists": [
+        {
+          "name": "Jasper Tygner",
+          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
+        }
+      ],
+      "duration_ms": 173946,
+      "name": "Before Me",
+      "url": "https://open.spotify.com/track/6DdAVeZFL7bsuL37B40nQR"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1887,22 +1939,6 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
-        "name": "Chromatically",
-        "url": "https://open.spotify.com/album/238tOstpXzMOcfrLzWQtfY"
-      },
-      "artists": [
-        {
-          "name": "Haywyre",
-          "url": "https://open.spotify.com/artist/7aUSp5cOZlwEtd5zPC795k"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "Chromatically",
-      "url": "https://open.spotify.com/track/6tr6rSUNVlBtTZUf0fFzKl"
-    },
-    {
-      "added_at": "2025-01-16 23:00:43",
-      "album": {
         "name": "Spaceman (ft. RIZ LA VIE)",
         "url": "https://open.spotify.com/album/2WYjahILyeTDaKKkSUh7I8"
       },
@@ -1923,42 +1959,6 @@
       "duration_ms": 179104,
       "name": "Spaceman (ft. RIZ LA VIE)",
       "url": "https://open.spotify.com/track/7JAroptXIwH4bIiB6ZcgVD"
-    },
-    {
-      "added_at": "2025-01-16 23:00:43",
-      "album": {
-        "name": "Before Me",
-        "url": "https://open.spotify.com/album/7oFKLQrShF4RIBYvrwMFlR"
-      },
-      "artists": [
-        {
-          "name": "Jasper Tygner",
-          "url": "https://open.spotify.com/artist/2D7akgJBXcsp8Y2FKdPJCh"
-        }
-      ],
-      "duration_ms": 173946,
-      "name": "Before Me",
-      "url": "https://open.spotify.com/track/6DdAVeZFL7bsuL37B40nQR"
-    },
-    {
-      "added_at": "2025-01-16 23:00:43",
-      "album": {
-        "name": "GLOW (feat. Au/Ra)",
-        "url": "https://open.spotify.com/album/00EZK39AhK4dek1em8nCZJ"
-      },
-      "artists": [
-        {
-          "name": "San Holo",
-          "url": "https://open.spotify.com/artist/0jNDKefhfSbLR9sFvcPLHo"
-        },
-        {
-          "name": "Au/Ra",
-          "url": "https://open.spotify.com/artist/1eMmoIprPDWeFdB1FxU6ZV"
-        }
-      ],
-      "duration_ms": 150225,
-      "name": "GLOW (feat. Au/Ra)",
-      "url": "https://open.spotify.com/track/3lqfTqap6aFMlYGEOyDZvt"
     },
     {
       "added_at": "2025-01-16 23:00:43",
@@ -1987,26 +1987,6 @@
     {
       "added_at": "2025-01-16 23:00:43",
       "album": {
-        "name": "Water Sign (feat. Aluna)",
-        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
-      },
-      "artists": [
-        {
-          "name": "Jai Wolf",
-          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
-        },
-        {
-          "name": "Aluna",
-          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
-        }
-      ],
-      "duration_ms": 209142,
-      "name": "Water Sign (feat. Aluna)",
-      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
-    },
-    {
-      "added_at": "2025-01-16 23:00:43",
-      "album": {
         "name": "Intuition",
         "url": "https://open.spotify.com/album/2BN1tE3wwVvF2XQkiIUiLH"
       },
@@ -2023,6 +2003,26 @@
       "duration_ms": 208888,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/5xwxSxQDZVOU6fGN14RFEe"
+    },
+    {
+      "added_at": "2025-01-16 23:00:43",
+      "album": {
+        "name": "Water Sign (feat. Aluna)",
+        "url": "https://open.spotify.com/album/7jQdHXK0JnydEDPF0yUn2P"
+      },
+      "artists": [
+        {
+          "name": "Jai Wolf",
+          "url": "https://open.spotify.com/artist/24V5UY0nChKpnb1TBPJhCw"
+        },
+        {
+          "name": "Aluna",
+          "url": "https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE"
+        }
+      ],
+      "duration_ms": 209142,
+      "name": "Water Sign (feat. Aluna)",
+      "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"
     }
   ],
   "unique_name": "creamy",

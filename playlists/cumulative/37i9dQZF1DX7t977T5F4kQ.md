@@ -4,7 +4,7 @@
 
 > The hottest hip\-life and highlife bangers from Ghana right now\.  Cover: Fameye
 
-458 songs - 23 hr 54 min
+459 songs - 23 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -156,6 +156,7 @@
 | [Feeli Free](https://open.spotify.com/track/5vxXhQPRO0oMXujM4A0o7V) | [Dwp Academy](https://open.spotify.com/artist/4Lcg9JcF2mGeXncIyIrr41), [D Jay](https://open.spotify.com/artist/1DETxFJht1YtCqi6EpmDxs) | [Feeli Free](https://open.spotify.com/album/7f2l7d1YXCB4m9X8V7KKcy) | 3:34 | 2023-12-22 | 2024-01-13 |
 | [Feelings](https://open.spotify.com/track/2IbZaJSrigYM4mUJaggJr9) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [For Times We Lost](https://open.spotify.com/album/78aCHVIephfuOTzaFI4oGI) | 3:14 | 2023-12-22 | 2024-02-09 |
 | [Feelings](https://open.spotify.com/track/3UYRNOw7cwUzIJmKCwjXEX) | [Cina Soul](https://open.spotify.com/artist/16REP6XG1GtI5DBCrUF8fO), [KiDi](https://open.spotify.com/artist/14PimM6ohO2gYftuwTam9V) | [Feelings](https://open.spotify.com/album/6uuL5ozmu2AopsmbKb7Qyq) | 3:14 | 2022-11-04 | 2024-01-09 |
+| [Fefe Ne Fe](https://open.spotify.com/track/2NQwFpvbOhJVVxm4Y4grEV) | [Kwesi Arthur](https://open.spotify.com/artist/52iM1kP5BpnLypZ0VtrpyY) | [This Is Not the Tape III](https://open.spotify.com/album/6LyLd9gp7xoOKaFtPxI7PI) | 2:48 | 2025-01-21 |  |
 | [Fever](https://open.spotify.com/track/1wCjMz6bqdzVjpJWl45p9L) | [Sefa](https://open.spotify.com/artist/5yT8WK3cattPDWL3pzu8AI), [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [DJ Tira](https://open.spotify.com/artist/4FC2wXrDWr5lLCZeAUgfVn) | [Fever](https://open.spotify.com/album/70gNO57xq8Anipepibg32m) | 4:13 | 2022-11-04 | 2023-09-09 |
 | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/track/3E3WIVDBt4rX4N2kRrwSah) | [R2Bees](https://open.spotify.com/artist/0LFsP7WPfu5inz9a1amcE4), [King Promise](https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF) | [Fine Wine \(feat\. King Promise & Joeboy\)](https://open.spotify.com/album/3f6FbIilED8NakLgcWAhqi) | 3:50 | 2022-11-04 | 2024-02-09 |
 | [Fiona \(feat\. Lasmid\) \- Remix](https://open.spotify.com/track/6lcbqARFc6XYGYkHfRUrwo) | [Fazil](https://open.spotify.com/artist/1nKZZibM5fYq7UtMKOZIWq), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Fiona \(feat\. Lasmid\) \[Remix\]](https://open.spotify.com/album/3RkNNWfviQ9hnFO2Sn7jXo) | 3:20 | 2023-11-24 | 2024-11-09 |
@@ -255,7 +256,7 @@
 | [Man Down](https://open.spotify.com/track/5ueJRYPP0DVeTsBmUAlZlk) | [Ahkan](https://open.spotify.com/artist/5KMfDX3ykXbSVQoCRdcIuT) | [Man Down](https://open.spotify.com/album/0M7Q84WZQSbgYhjDgBpa32) | 3:16 | 2023-04-27 | 2023-05-05 |
 | [Man Down](https://open.spotify.com/track/7dj3apq5IE5P4jCkMKRdZS) | [Kelvyn Boy](https://open.spotify.com/artist/5Oq2X3BjCbFKPex2GVSDpy), [Lasmid](https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI) | [Man Down](https://open.spotify.com/album/4e9P24WR2Efz4WS4yozl9S) | 3:21 | 2024-09-20 | 2024-10-26 |
 | [Manka](https://open.spotify.com/track/3vCZAfWLfPll4tyYZNvsWj) | [Sister Deborah](https://open.spotify.com/artist/3RM7YoeiC3yijn8k8uCGA7), [Pappy Kojo](https://open.spotify.com/artist/05wqlCGQReohsxStVBR052) | [Manka](https://open.spotify.com/album/6oHSJtjOeISB87tm9Ft3xZ) | 2:38 | 2024-10-18 | 2024-10-26 |
-| [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 | 2023-09-14 |  |
+| [Mapuka](https://open.spotify.com/track/2OwWSctJ0S8Nd44gBzmQQC) | [Beeztrap KOTM](https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn), [Dikoo](https://open.spotify.com/artist/7tp80zkGuZP0Bqfb41iPkw), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA) | [Mapuka](https://open.spotify.com/album/0FF6Wtr4hqAWcUKyWto24h) | 3:18 | 2023-09-14 | 2025-01-22 |
 | [Maradona](https://open.spotify.com/track/6J2Xc1SgiPbF3UgS4Qfguv) | [Sista Afia](https://open.spotify.com/artist/62sda22OXnPueH8d35gZKf), [DopeNation](https://open.spotify.com/artist/25vbw2Uw68Ny6ae7tekmky) | [Maradona](https://open.spotify.com/album/0DklTPJBpPqQaAUP6ZXmhR) | 3:14 | 2023-10-20 | 2023-11-10 |
 | [Masesa](https://open.spotify.com/track/0h6KxX4VJVRUL2lQhCmMFE) | [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw), [Skyface SDW](https://open.spotify.com/artist/4R4KEZSjfEuuLyyqTiTVtG), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Masesa](https://open.spotify.com/album/3F2RjwQ9FAkP8gs6eGos0S) | 2:52 | 2023-10-06 |  |
 | [Medaase](https://open.spotify.com/track/5Kbi5Nl0wc77o3mGOOZs4w) | [Bisa Kdei](https://open.spotify.com/artist/4AN8jBgYwV1ieMsX1Ntxwc) | [Medaase](https://open.spotify.com/album/2tzNAlun1LHRqpW7r8ERRj) | 3:19 | 2024-03-22 | 2024-04-12 |

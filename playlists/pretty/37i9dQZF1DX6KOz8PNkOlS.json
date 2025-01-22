@@ -1,6 +1,6 @@
 {
   "description": "Transform your workspace into a cozy retreat with gentle tunes and warm vibes",
-  "num_followers": 490926,
+  "num_followers": 491108,
   "original_name": "Soft Office",
   "owner": {
     "name": "Spotify",
@@ -893,22 +893,6 @@
       "url": "https://open.spotify.com/track/3pil7DXQmpnQcImkoF4wz1"
     },
     {
-      "added_at": "2024-05-30 23:42:48",
-      "album": {
-        "name": "Here in the Pitch",
-        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
-      },
-      "artists": [
-        {
-          "name": "Jessica Pratt",
-          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
-        }
-      ],
-      "duration_ms": 205413,
-      "name": "Get Your Head Out",
-      "url": "https://open.spotify.com/track/6W6J3cFFQmrAMErlHJPzDJ"
-    },
-    {
       "added_at": "2024-07-11 23:32:17",
       "album": {
         "name": "Macro",
@@ -923,6 +907,22 @@
       "duration_ms": 239786,
       "name": "Counting Sheep",
       "url": "https://open.spotify.com/track/4NpAzMDcTuIDMo04AOgDvS"
+    },
+    {
+      "added_at": "2024-05-30 23:42:48",
+      "album": {
+        "name": "Here in the Pitch",
+        "url": "https://open.spotify.com/album/7hUAyfpXkSE2JT5gOORZO0"
+      },
+      "artists": [
+        {
+          "name": "Jessica Pratt",
+          "url": "https://open.spotify.com/artist/5KTykbPcDB4GYS49jcHbWh"
+        }
+      ],
+      "duration_ms": 205413,
+      "name": "Get Your Head Out",
+      "url": "https://open.spotify.com/track/6W6J3cFFQmrAMErlHJPzDJ"
     },
     {
       "added_at": "2024-04-18 18:10:45",
@@ -1145,22 +1145,6 @@
       "url": "https://open.spotify.com/track/2xQLcEFXb3hu8nqJDW3Z8t"
     },
     {
-      "added_at": "2024-10-16 01:56:16",
-      "album": {
-        "name": "Jumpstart",
-        "url": "https://open.spotify.com/album/6BsbmqzyRTNERRT88RSisD"
-      },
-      "artists": [
-        {
-          "name": "TYSON",
-          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
-        }
-      ],
-      "duration_ms": 171986,
-      "name": "Jumpstart",
-      "url": "https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV"
-    },
-    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "Sounds Of Blue",
@@ -1175,6 +1159,22 @@
       "duration_ms": 214897,
       "name": "Sounds Of Blue",
       "url": "https://open.spotify.com/track/45VVYckfngIzT5gg8IFu3F"
+    },
+    {
+      "added_at": "2024-10-16 01:56:16",
+      "album": {
+        "name": "Jumpstart",
+        "url": "https://open.spotify.com/album/6BsbmqzyRTNERRT88RSisD"
+      },
+      "artists": [
+        {
+          "name": "TYSON",
+          "url": "https://open.spotify.com/artist/10SYd6NatYImOQTxA88jdn"
+        }
+      ],
+      "duration_ms": 171986,
+      "name": "Jumpstart",
+      "url": "https://open.spotify.com/track/3S69GNVT2d5lXh7ClybMCV"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1245,22 +1245,6 @@
       "url": "https://open.spotify.com/track/5Kkl5bbluwn12Q0QK3TrVn"
     },
     {
-      "added_at": "2022-08-13 01:09:13",
-      "album": {
-        "name": "Marci",
-        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
-      },
-      "artists": [
-        {
-          "name": "Marci",
-          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
-        }
-      ],
-      "duration_ms": 209873,
-      "name": "Immaterial Girl",
-      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
-    },
-    {
       "added_at": "2023-11-23 03:41:20",
       "album": {
         "name": "say your way",
@@ -1293,20 +1277,36 @@
       "url": "https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U"
     },
     {
-      "added_at": "2023-04-11 00:45:41",
+      "added_at": "2022-08-13 01:09:13",
       "album": {
-        "name": "Sundown",
-        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
+        "name": "Marci",
+        "url": "https://open.spotify.com/album/4A8z3O9t9mhH0rIBZ1Et7e"
       },
       "artists": [
         {
-          "name": "Eddie Chacon",
-          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
+          "name": "Marci",
+          "url": "https://open.spotify.com/artist/2YvVKe1MfcslinaPCv402E"
         }
       ],
-      "duration_ms": 190647,
-      "name": "Step By Step",
-      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
+      "duration_ms": 209873,
+      "name": "Immaterial Girl",
+      "url": "https://open.spotify.com/track/6A7fTO37KsQ2aXwkoV2m9L"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "A-Game",
+        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
+      },
+      "artists": [
+        {
+          "name": "Brooke Combe",
+          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+        }
+      ],
+      "duration_ms": 191927,
+      "name": "A-Game",
+      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1325,20 +1325,20 @@
       "url": "https://open.spotify.com/track/0SANyOWaoaLPN7eFcEAXyy"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
+      "added_at": "2023-04-11 00:45:41",
       "album": {
-        "name": "A-Game",
-        "url": "https://open.spotify.com/album/26rvF3JD6ZBdUJv3322c6A"
+        "name": "Sundown",
+        "url": "https://open.spotify.com/album/37OThjyGLpz8zQFtW0l4KM"
       },
       "artists": [
         {
-          "name": "Brooke Combe",
-          "url": "https://open.spotify.com/artist/0JXwYf8x27ZfMO2gGuh6HO"
+          "name": "Eddie Chacon",
+          "url": "https://open.spotify.com/artist/7MSoMSIgrEtwDJ0iUCJwSD"
         }
       ],
-      "duration_ms": 191927,
-      "name": "A-Game",
-      "url": "https://open.spotify.com/track/0T39fS2m86sARmHc8skkGX"
+      "duration_ms": 190647,
+      "name": "Step By Step",
+      "url": "https://open.spotify.com/track/51D2Mv36d2Asm2CnyL1CfK"
     },
     {
       "added_at": "2024-01-03 18:42:32",
@@ -1425,6 +1425,26 @@
       "url": "https://open.spotify.com/track/2Axd6kSkXe5HMveOXx0JLS"
     },
     {
+      "added_at": "2023-08-31 18:57:48",
+      "album": {
+        "name": "After Hours (Yu Su Remix)",
+        "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
+      },
+      "artists": [
+        {
+          "name": "Alyson McNamara",
+          "url": "https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby"
+        },
+        {
+          "name": "Yu Su",
+          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+        }
+      ],
+      "duration_ms": 348094,
+      "name": "After Hours - Yu Su Remix",
+      "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
+    },
+    {
       "added_at": "2021-10-15 03:01:31",
       "album": {
         "name": "pop songs 2020",
@@ -1449,24 +1469,20 @@
       "url": "https://open.spotify.com/track/0HIoqptSi0bei1EkpZ9FNT"
     },
     {
-      "added_at": "2023-08-31 18:57:48",
+      "added_at": "2021-10-15 03:01:31",
       "album": {
-        "name": "After Hours (Yu Su Remix)",
-        "url": "https://open.spotify.com/album/3b8iNuxmEa6HG2CZfjGHY3"
+        "name": "Virtual U",
+        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
       },
       "artists": [
         {
-          "name": "Alyson McNamara",
-          "url": "https://open.spotify.com/artist/75TH32fjEBz1ZmWmZICSby"
-        },
-        {
-          "name": "Yu Su",
-          "url": "https://open.spotify.com/artist/69zPIMRgsZieOHFtHtvnj0"
+          "name": "oso leone",
+          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
         }
       ],
-      "duration_ms": 348094,
-      "name": "After Hours - Yu Su Remix",
-      "url": "https://open.spotify.com/track/3BU9WhW63eaw70DDoKfxux"
+      "duration_ms": 302190,
+      "name": "Virtual U",
+      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
     },
     {
       "added_at": "2022-01-13 02:15:51",
@@ -1505,22 +1521,6 @@
       "url": "https://open.spotify.com/track/01j2SBoRQWzrcHmsycw415"
     },
     {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Virtual U",
-        "url": "https://open.spotify.com/album/3YQsmveXRRpC7mK8rV20Tj"
-      },
-      "artists": [
-        {
-          "name": "oso leone",
-          "url": "https://open.spotify.com/artist/0iViECTHd21gYy1zIEvusi"
-        }
-      ],
-      "duration_ms": 302190,
-      "name": "Virtual U",
-      "url": "https://open.spotify.com/track/5uxGQGlitZ3iCj93Ht6wfl"
-    },
-    {
       "added_at": "2024-06-26 18:41:25",
       "album": {
         "name": "Love Potion",
@@ -1535,22 +1535,6 @@
       "duration_ms": 166000,
       "name": "Love Potion",
       "url": "https://open.spotify.com/track/0V0wKd905Y3zUHbvYAt5nU"
-    },
-    {
-      "added_at": "2023-09-13 16:09:15",
-      "album": {
-        "name": "Grass is Grass",
-        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
-      },
-      "artists": [
-        {
-          "name": "Bowes Road Band",
-          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Grass is Grass",
-      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1589,6 +1573,22 @@
       "url": "https://open.spotify.com/track/5LJnDBkPBppoyS2fu6OUYW"
     },
     {
+      "added_at": "2023-09-13 16:09:15",
+      "album": {
+        "name": "Grass is Grass",
+        "url": "https://open.spotify.com/album/1qvw1U3t1LAIPT5Xkvwjtw"
+      },
+      "artists": [
+        {
+          "name": "Bowes Road Band",
+          "url": "https://open.spotify.com/artist/5Ubi8yKSQmfTTNq0bEeVTu"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Grass is Grass",
+      "url": "https://open.spotify.com/track/2Fsv6m5KIkPld2uWx7i6Kh"
+    },
+    {
       "added_at": "2022-01-26 18:13:44",
       "album": {
         "name": "Saturday Yawning",
@@ -1603,22 +1603,6 @@
       "duration_ms": 148461,
       "name": "Saturday Yawning",
       "url": "https://open.spotify.com/track/68ZJ3d1S6neNpzDMEDg1OT"
-    },
-    {
-      "added_at": "2021-10-15 03:01:31",
-      "album": {
-        "name": "Feel The Pain / Fast Car",
-        "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
-      },
-      "artists": [
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 198373,
-      "name": "Fast Car",
-      "url": "https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI"
     },
     {
       "added_at": "2021-10-15 03:01:31",
@@ -1639,6 +1623,22 @@
       "duration_ms": 228786,
       "name": "Nowhere",
       "url": "https://open.spotify.com/track/3p3ETWclqLR2MHPS2JaLTK"
+    },
+    {
+      "added_at": "2021-10-15 03:01:31",
+      "album": {
+        "name": "Feel The Pain / Fast Car",
+        "url": "https://open.spotify.com/album/59k0HhGr9KJeyxddg8pW1I"
+      },
+      "artists": [
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 198373,
+      "name": "Fast Car",
+      "url": "https://open.spotify.com/track/5j0CsCmOawMGWDHwZ148nI"
     },
     {
       "added_at": "2021-10-15 03:01:31",

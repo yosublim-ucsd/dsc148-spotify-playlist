@@ -1,6 +1,6 @@
 {
   "description": "Los temas que prenden las fiestas navide\u00f1as y de fin de a\u00f1o en Colombia. Foto: Pastor L\u00f3pez",
-  "num_followers": 129135,
+  "num_followers": 129118,
   "original_name": "M\u00fasica Decembrina",
   "owner": {
     "name": "Spotify",
@@ -79,26 +79,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "\u00c9xitos Armando Hern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
-      },
-      "artists": [
-        {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
-        },
-        {
-          "name": "El Combo Caribe",
-          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
-        }
-      ],
-      "duration_ms": 287459,
-      "name": "Loquito por Ti",
-      "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Sobredosis de Amor y Salsa",
         "url": "https://open.spotify.com/album/33sxL4OPRcWMbaVy0VDDdb"
       },
@@ -115,6 +95,26 @@
       "duration_ms": 249878,
       "name": "Sobredosis",
       "url": "https://open.spotify.com/track/1DseLejlPOK5qrzArl7b8A"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "\u00c9xitos Armando Hern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+      },
+      "artists": [
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        },
+        {
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+        }
+      ],
+      "duration_ms": 287459,
+      "name": "Loquito por Ti",
+      "url": "https://open.spotify.com/track/5pLDHytVHRM7eXnOy6zHM7"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "\u00c9xitos los Tupamaros",
-        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
-      },
-      "artists": [
-        {
-          "name": "Los Tupamaros",
-          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
-        }
-      ],
-      "duration_ms": 191772,
-      "name": "Todo el Mundo Necesita un Beso",
-      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Milenario, Vol. 3",
         "url": "https://open.spotify.com/album/3OKmxN48BfZ9AaQwQXVlW2"
       },
@@ -739,22 +723,38 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Amapola",
-        "url": "https://open.spotify.com/album/5AgWLXB1XyZwu4nTh4PmxW"
+        "name": "\u00c9xitos los Tupamaros",
+        "url": "https://open.spotify.com/album/6LmdmdH4QOVPXNqkdr9RWM"
       },
       "artists": [
         {
-          "name": "Papaya Dada",
-          "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
-        },
-        {
-          "name": "Los Cumbia Stars",
-          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
+          "name": "Los Tupamaros",
+          "url": "https://open.spotify.com/artist/54gCRV0IGOEsK5iZFjdKXo"
         }
       ],
-      "duration_ms": 192812,
-      "name": "Amapola",
-      "url": "https://open.spotify.com/track/2xJjyzN1XIanhxxeSGOBn4"
+      "duration_ms": 191772,
+      "name": "Todo el Mundo Necesita un Beso",
+      "url": "https://open.spotify.com/track/0YVKaTzwcFyrmQAzS6Jk41"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Inimitable",
+        "url": "https://open.spotify.com/album/4zuvg55OoPV5Azz9Wmy3JA"
+      },
+      "artists": [
+        {
+          "name": "Luis Mateus",
+          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+        },
+        {
+          "name": "La Nueva Generaci\u00f3n",
+          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
+        }
+      ],
+      "duration_ms": 292213,
+      "name": "Confundido",
+      "url": "https://open.spotify.com/track/01wGxhYOijxtDG5WH2NfN0"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -807,42 +807,42 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Inimitable",
-        "url": "https://open.spotify.com/album/4zuvg55OoPV5Azz9Wmy3JA"
+        "name": "Amapola",
+        "url": "https://open.spotify.com/album/5AgWLXB1XyZwu4nTh4PmxW"
       },
       "artists": [
         {
-          "name": "Luis Mateus",
-          "url": "https://open.spotify.com/artist/4jsqU2b9LBP6vjIGl3KWyW"
+          "name": "Papaya Dada",
+          "url": "https://open.spotify.com/artist/2bE4ndiQ6NJa7GkkQMMF89"
         },
         {
-          "name": "La Nueva Generaci\u00f3n",
-          "url": "https://open.spotify.com/artist/3yxxiR793umYevxROWGMqv"
+          "name": "Los Cumbia Stars",
+          "url": "https://open.spotify.com/artist/3vK9K7420aB6FXJ32IDD9t"
         }
       ],
-      "duration_ms": 292213,
-      "name": "Confundido",
-      "url": "https://open.spotify.com/track/01wGxhYOijxtDG5WH2NfN0"
+      "duration_ms": 192812,
+      "name": "Amapola",
+      "url": "https://open.spotify.com/track/2xJjyzN1XIanhxxeSGOBn4"
     },
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "\u00c9xitos Armando Hern\u00e1ndez",
-        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+        "name": "En Acci\u00f3n",
+        "url": "https://open.spotify.com/album/0QQG7YEkrJ7FVTHXmWTmHW"
       },
       "artists": [
         {
-          "name": "Armando Hernandez",
-          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
         },
         {
-          "name": "El Combo Caribe",
-          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
         }
       ],
-      "duration_ms": 216293,
-      "name": "Qu\u00e9 Voy a Hacer Sin Ti",
-      "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
+      "duration_ms": 270300,
+      "name": "Pa'l Bailador",
+      "url": "https://open.spotify.com/track/4JzviwEqthvivOdrYJYRdZ"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -879,6 +879,26 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "\u00c9xitos Armando Hern\u00e1ndez",
+        "url": "https://open.spotify.com/album/6kYrAOmvOl0sr7AALZRr6f"
+      },
+      "artists": [
+        {
+          "name": "Armando Hernandez",
+          "url": "https://open.spotify.com/artist/5f5z4wggh1hbr6Dg0BnoCe"
+        },
+        {
+          "name": "El Combo Caribe",
+          "url": "https://open.spotify.com/artist/1uiEaU2CF0ypsPwXXYrm7V"
+        }
+      ],
+      "duration_ms": 216293,
+      "name": "Qu\u00e9 Voy a Hacer Sin Ti",
+      "url": "https://open.spotify.com/track/4ZYLYXiGPem5KpWhKwucjr"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "Navidades Con la Sonora Dinamita: 16 Grandes \u00c9xitos Navide\u00f1os",
         "url": "https://open.spotify.com/album/7Munv9pO6tUGK0XiCpkhSE"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 244963,
       "name": "Que Nadie Sepa Mi Sufrir",
       "url": "https://open.spotify.com/track/5UgfYKsfRexKoIMVbVvlBo"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
-        "name": "En Acci\u00f3n",
-        "url": "https://open.spotify.com/album/0QQG7YEkrJ7FVTHXmWTmHW"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 270300,
-      "name": "Pa'l Bailador",
-      "url": "https://open.spotify.com/track/4JzviwEqthvivOdrYJYRdZ"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -987,6 +987,26 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
+        "name": "Inmortal (Vol. 2)",
+        "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
+      },
+      "artists": [
+        {
+          "name": "Joe Arroyo",
+          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
+        },
+        {
+          "name": "La Verdad",
+          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
+        }
+      ],
+      "duration_ms": 311676,
+      "name": "En Barranquilla Me Quedo",
+      "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
         "name": "Top Latino Navidad (Remix - Audio)",
         "url": "https://open.spotify.com/album/3bc8ZLlpXr0neQalIgRMnE"
       },
@@ -1035,26 +1055,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Inmortal (Vol. 2)",
-        "url": "https://open.spotify.com/album/4tCohV09PLbYN02PiMrwYX"
-      },
-      "artists": [
-        {
-          "name": "Joe Arroyo",
-          "url": "https://open.spotify.com/artist/7BFnoFhJjLWcsqmN3Hizqg"
-        },
-        {
-          "name": "La Verdad",
-          "url": "https://open.spotify.com/artist/54h3j85gGrqCsfK8D0RuUM"
-        }
-      ],
-      "duration_ms": 311676,
-      "name": "En Barranquilla Me Quedo",
-      "url": "https://open.spotify.com/track/6WNAd46dtiBqakGzvlcCla"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Late Que Late",
         "url": "https://open.spotify.com/album/3CchqS3Ja713mLzjCsl3eH"
       },
@@ -1091,22 +1091,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Las Que Faltaban",
-        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
+        "name": "Volando Alto",
+        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+          "name": "Los Chiches Vallenatos",
+          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
         },
         {
-          "name": "Juancho Rois",
-          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
+          "name": "Amin Martinez",
+          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
         }
       ],
-      "duration_ms": 274546,
-      "name": "Las Cuatro Fiestas",
-      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
+      "duration_ms": 280783,
+      "name": "Un Solo Cuerpo",
+      "url": "https://open.spotify.com/track/4O2h7M3LF9jYoVSuDh8E23"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1131,22 +1131,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Volando Alto",
-        "url": "https://open.spotify.com/album/0ayIAUZtT7tjy6tBk9i303"
+        "name": "Las Que Faltaban",
+        "url": "https://open.spotify.com/album/6pbYCrwIfYWmp0Tz4V7CRw"
       },
       "artists": [
         {
-          "name": "Los Chiches Vallenatos",
-          "url": "https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "Amin Martinez",
-          "url": "https://open.spotify.com/artist/607isqlxhVW67C1guzVjCi"
+          "name": "Juancho Rois",
+          "url": "https://open.spotify.com/artist/0ZDAU5BLvLXTYqlrjW6KF1"
         }
       ],
-      "duration_ms": 280783,
-      "name": "Un Solo Cuerpo",
-      "url": "https://open.spotify.com/track/4O2h7M3LF9jYoVSuDh8E23"
+      "duration_ms": 274546,
+      "name": "Las Cuatro Fiestas",
+      "url": "https://open.spotify.com/track/6saaz6xf1KVaSWT4Geb5L6"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1307,22 +1307,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Para Mi Fanaticada",
-        "url": "https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa"
+        "name": "La Mejor M\u00fasica de Diciembre (Vol. 3)",
+        "url": "https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg"
       },
       "artists": [
         {
-          "name": "Diomedes Diaz",
-          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
+          "name": "Edmundo Arias",
+          "url": "https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP"
         },
         {
-          "name": "Colacho Mendoza",
-          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
+          "name": "Benetia",
+          "url": "https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb"
         }
       ],
-      "duration_ms": 255893,
-      "name": "Mensaje De Navidad",
-      "url": "https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR"
+      "duration_ms": 194149,
+      "name": "Cumbia del Caribe",
+      "url": "https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1347,22 +1347,22 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "La Mejor M\u00fasica de Diciembre (Vol. 3)",
-        "url": "https://open.spotify.com/album/6iMrwkiFtm2tQ7gzNcseeg"
+        "name": "Para Mi Fanaticada",
+        "url": "https://open.spotify.com/album/43vnYNazgx4KoAaw5m4DFa"
       },
       "artists": [
         {
-          "name": "Edmundo Arias",
-          "url": "https://open.spotify.com/artist/7mCfIjpQPcIw3EA1K8wMyP"
+          "name": "Diomedes Diaz",
+          "url": "https://open.spotify.com/artist/66NweiA3nU84k1S3SZdTSG"
         },
         {
-          "name": "Benetia",
-          "url": "https://open.spotify.com/artist/67mvd0i0PAOjOLPfWZW8eb"
+          "name": "Colacho Mendoza",
+          "url": "https://open.spotify.com/artist/54LZrrClgVEeAQcFrk3BJj"
         }
       ],
-      "duration_ms": 194149,
-      "name": "Cumbia del Caribe",
-      "url": "https://open.spotify.com/track/5mL1ei12nU0dmqvat2lkmZ"
+      "duration_ms": 255893,
+      "name": "Mensaje De Navidad",
+      "url": "https://open.spotify.com/track/5cNCj7aVKzMFiVQ85fZ7NR"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "A Pulir la Hebilla",
-        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
-      },
-      "artists": [
-        {
-          "name": "Nelson Henriquez",
-          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
-        }
-      ],
-      "duration_ms": 176746,
-      "name": "Baion de Madrid",
-      "url": "https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Premio Platino para los Vallenatos Nueva Generaci\u00f3n",
         "url": "https://open.spotify.com/album/0NWu62PPxYyA3l7aOWLrzI"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 305950,
       "name": "La Due\u00f1a de Mi Suerte",
       "url": "https://open.spotify.com/track/67GaNUSyiFt3kqkZ08mFco"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "A Pulir la Hebilla",
+        "url": "https://open.spotify.com/album/2wuO5HVLoQzltbgc5sWF3q"
+      },
+      "artists": [
+        {
+          "name": "Nelson Henriquez",
+          "url": "https://open.spotify.com/artist/4de5H6yG1hXqYXsL4YHRon"
+        }
+      ],
+      "duration_ms": 176746,
+      "name": "Baion de Madrid",
+      "url": "https://open.spotify.com/track/6thmMbZjcykx9V5rhTM4DY"
     },
     {
       "added_at": "2024-11-01 02:49:12",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2024-11-01 02:49:12",
       "album": {
-        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
-        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
-      },
-      "artists": [
-        {
-          "name": "Grupo Caneo",
-          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
-        }
-      ],
-      "duration_ms": 278826,
-      "name": "Quien Piensa En Ti",
-      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
-    },
-    {
-      "added_at": "2024-11-01 02:49:12",
-      "album": {
         "name": "Bachata Rosa (Versi\u00f3n Regional)",
         "url": "https://open.spotify.com/album/2vYWZIfKwVuxFUPIfol9h7"
       },
@@ -1763,6 +1747,22 @@
       "duration_ms": 170589,
       "name": "Bachata Rosa - Versi\u00f3n Regional",
       "url": "https://open.spotify.com/track/6DTpICcBytnJCN047V7w85"
+    },
+    {
+      "added_at": "2024-11-01 02:49:12",
+      "album": {
+        "name": "Grandes \u00c9xitos Grupo Caneo, Vol. 7",
+        "url": "https://open.spotify.com/album/4uPNPjKnVT12mbDxMHUdzN"
+      },
+      "artists": [
+        {
+          "name": "Grupo Caneo",
+          "url": "https://open.spotify.com/artist/3dI63iYqCLcCokRcedC58Z"
+        }
+      ],
+      "duration_ms": 278826,
+      "name": "Quien Piensa En Ti",
+      "url": "https://open.spotify.com/track/2P5dxRJ7BZLwffgIs0DQOX"
     }
   ],
   "unique_name": "M\u00fasica Decembrina",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1tLAYyiCcgfG7YEVM1Kc3R">Priscilla Renea</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,657 likes - 187 songs - 10 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,656 likes - 187 songs - 10 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 133 | [Lemons](https://open.spotify.com/track/7fP47F2aXBjZbDEmgXy8GM) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Public Displays Of Affection: The Album](https://open.spotify.com/album/7fe4Mem3wWgY6zkTFuKUI9) | 4:03 |
 | 134 | [Rainbow](https://open.spotify.com/track/3EPfBCFsE5DzOG5xZGAXcZ) | [Run The World](https://open.spotify.com/artist/0cInwP8nWQOIaTXvjbnh7M), [Jam Jr.](https://open.spotify.com/artist/1XCnotN3MszWUMW7BdXc1u) | [Run The World](https://open.spotify.com/album/0jlbQ2PsLtIzya4g9xuKul) | 2:58 |
 | 135 | [Waffle House](https://open.spotify.com/track/7rTbf1HtSdaS92YgPWWyND) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Black Like This](https://open.spotify.com/album/1FRq94WhiBSXL1wBr6Nlfk) | 3:24 |
-| 136 | [Risk It All](https://open.spotify.com/track/7jDwn8Uc7ijT0SdVHPGs2q) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Woman](https://open.spotify.com/album/6RoTHNbxFtxUejrmNiKMMa) | 4:46 |
-| 137 | [Type Questions](https://open.spotify.com/track/7uDBTbCy7mgDZkeL3cTVqa) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:38 |
+| 136 | [Type Questions](https://open.spotify.com/track/7uDBTbCy7mgDZkeL3cTVqa) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Revenge](https://open.spotify.com/album/1q37MEHkdOivTuJJbwRkGS) | 2:38 |
+| 137 | [Risk It All](https://open.spotify.com/track/7jDwn8Uc7ijT0SdVHPGs2q) | [Angel](https://open.spotify.com/artist/6RIJu05yhEIYskbVgxmk3R) | [Woman](https://open.spotify.com/album/6RoTHNbxFtxUejrmNiKMMa) | 4:46 |
 | 138 | [Snow](https://open.spotify.com/track/4ey9YmqIBB6SAAMiwKjpdU) | [Chrisette Michele](https://open.spotify.com/artist/3YJMzGjAm245zwJooY7PEj) | [Better](https://open.spotify.com/album/4CYPYrVKLRv1QFvTiCQwIg) | 3:30 |
 | 139 | [Offended](https://open.spotify.com/track/5dpGpYsL7BMLrxkMuX8cxV) | [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Nobody Knows](https://open.spotify.com/album/1YqXKazjciESQkJRuQffAm) | 2:56 |
 | 140 | [Chainzzz \(feat\. Muni Long\) \- Instrumental](https://open.spotify.com/track/4RllcpxnzD9Qe979bGgn3A) | [Kaliii](https://open.spotify.com/artist/1YRqgFNXqRyMDRr8ClS1NL), [Muni Long](https://open.spotify.com/artist/7tjVFCxJdwT4NdrTmjyjQ6) | [Toxic Chocolate \(Instrumental\)](https://open.spotify.com/album/4rV8dGCg1AThAVdZDd3VcZ) | 2:33 |
@@ -196,4 +196,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFLNxC09N8IaG.md) - [plain]
 | 186 | [Baby](https://open.spotify.com/track/12EWwkENdDeYKBKoSnrdHy) | [La Raza](https://open.spotify.com/artist/4R1yzQAL5bHx3W9lolczDX) | [Oye Mami](https://open.spotify.com/album/3Moh4BcMYZjhbX2Gp9FV4B) | 3:47 |
 | 187 | [My Story](https://open.spotify.com/track/2tTo9XjcHzHwdLJeDP6iu4) | [Larry Love Hamilton](https://open.spotify.com/artist/2fSyvGlnBJjq1I5MzuDAn5) | [American Music Down South](https://open.spotify.com/album/6ReRYWg5Suore6KvgmLyfc) | 4:50 |
 
-Snapshot ID: `AbnZ3gAAAACdFPS2WHPwZ38LQNOSP1lX`
+Snapshot ID: `AbnfagAAAAD31wX3oFHT2W/9n8RYrh14`

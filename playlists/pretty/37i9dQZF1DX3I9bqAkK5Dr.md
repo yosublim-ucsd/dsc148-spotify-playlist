@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 
 > Check out the emerging independent tracks from these Telugu Artists!! Cover : Hemachandra
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,961 likes - 75 songs - 4 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,969 likes - 75 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3I9bqAkK5Dr.md) - [plain]
 | 10 | [Telugodi Beat](https://open.spotify.com/track/5mQKKShZT8OuPLtZeEN5eq) | [Noel Sean](https://open.spotify.com/artist/0zdnUAZHhPa4ZgxEhovTSN) | [Telugodi Beat](https://open.spotify.com/album/3sxdDrmnrBgCQv8fZT30xV) | 3:51 |
 | 11 | [Ready Go](https://open.spotify.com/track/5QmSQ0e0BdUquiGNYqDzg7) | [Roll Rida](https://open.spotify.com/artist/6xikG2kDoIZnB78TBPXlkj), [Agastya Raag](https://open.spotify.com/artist/0OUdZWbooKMMlCqAzLAu8I) | [Ready Go](https://open.spotify.com/album/28CSQfrblfjehPQWLVPwwq) | 2:49 |
 | 12 | [Nuvvu Nennu](https://open.spotify.com/track/2RGOySbVuWGrTf6XXK0QGK) | [yogesh raj kumar](https://open.spotify.com/artist/70jvb7YHVWVSGFBuNXhpkW), [Hemasree Sekhar](https://open.spotify.com/artist/05AqdcuYCPiOTDGRly9E6l) | [Nuvvu Nennu](https://open.spotify.com/album/602HJNByyIG0p7xBh1W1ml) | 2:35 |
-| 13 | [Teliyadhe](https://open.spotify.com/track/4Q1MEYpfcuC2NulVRnDP97) | [Durga Prasad Mittireddi](https://open.spotify.com/artist/5lAeMjuerzOFy6h8LXZ74o) | [Teliyadhe](https://open.spotify.com/album/7MvesWRvqc18WmkmCM7Irj) | 4:39 |
+| 13 | [Teliyadhe](https://open.spotify.com/track/4Q1MEYpfcuC2NulVRnDP97) | [Durga Prasad Mittireddi](https://open.spotify.com/artist/5lAeMjuerzOFy6h8LXZ74o), [Vinuthna Jagarlapudi](https://open.spotify.com/artist/0FSMrjC73OtuTUiQQIgjcb) | [Teliyadhe](https://open.spotify.com/album/7MvesWRvqc18WmkmCM7Irj) | 4:39 |
 | 14 | [Jeena Marna](https://open.spotify.com/track/1XqnI6gFr03nmNatopVCW6) | [Arun Kaundinya](https://open.spotify.com/artist/1ZKWEgONUTL99f0niqmUA4) | [Rhythm of Love](https://open.spotify.com/album/5swoNPRR3TAD32WC5STPof) | 4:33 |
 | 15 | [Yedhalo](https://open.spotify.com/track/2DMqmP5HqmkmNcuVTK0KQx) | [Tejaswini Nandibatla](https://open.spotify.com/artist/01nQc0frn4i7asQdOE7Dzd) | [Rhythm of Love](https://open.spotify.com/album/2tjMzfCNPEnHl4bt8dNgCS) | 2:53 |
 | 16 | [Time Pass](https://open.spotify.com/track/63YIpXTYeO1lRjWq0qgrZY) | [CNU beats](https://open.spotify.com/artist/5yV7QlgvvrXkNL1HBYcqZb) | [Time Pass](https://open.spotify.com/album/30esheOCFO7ouhiPHGT6lf) | 2:56 |

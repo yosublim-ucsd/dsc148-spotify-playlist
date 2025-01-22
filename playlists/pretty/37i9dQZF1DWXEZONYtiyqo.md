@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Radu Stefan Banica, Misha Miller
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,038 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,056 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 2 | [Maria, Maria](https://open.spotify.com/track/4ut3pv8Po5KNXRrfKQ39IX) | [Lidia Buble](https://open.spotify.com/artist/69JOH9w7UtJrKnbUpcW2gH) | [Maria, Maria](https://open.spotify.com/album/2WXwrDnPKMh6DbB1ICbCGE) | 2:40 |
 | 3 | [Bam Bam](https://open.spotify.com/track/5VfPYI5rj8GtQ2qChKYwMA) | [Misha Miller](https://open.spotify.com/artist/3RyCLaPoUBr14rFufZ7Gnp), [Alex Velea](https://open.spotify.com/artist/1V4elwsLx3Lz43ma61eySA) | [Bam Bam](https://open.spotify.com/album/4Q0mlJB7T3kAq9ZNExyBoH) | 2:30 |
 | 4 | [Încă Ne Iubim](https://open.spotify.com/track/2Bl23cSczNlRSRJUkCLBqy) | [MIRA](https://open.spotify.com/artist/2nMFC7hWK0haX8ilvRpb59), [Florian Rus](https://open.spotify.com/artist/0UPJKLFhLR0GuiBZBLNAsd) | [Încă Ne Iubim](https://open.spotify.com/album/4DEzKPDY8wGsp1topuKhUi) | 2:55 |
-| 5 | [Nu mă întorc \- 12.09.2024](https://open.spotify.com/track/5WeWg0JVLdnkhL5RFKYz9L) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Nu mă întorc \(12.09.2024\)](https://open.spotify.com/album/2aO2y90P1cnZGZE6DNcfIG) | 3:18 |
+| 5 | [Nu mă întorc \- 12.09.2024](https://open.spotify.com/track/5WeWg0JVLdnkhL5RFKYz9L) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Nu mă întorc \(12.09.2024\)](https://open.spotify.com/album/2aO2y90P1cnZGZE6DNcfIG) | 3:18 |
 | 6 | [Mama](https://open.spotify.com/track/3LkaUnPSf49MvnmSKj25AM) | [David Ciente](https://open.spotify.com/artist/2x33Tw2x7KbILr1FIh92O2), [Irina Rimes](https://open.spotify.com/artist/1OQa8VMULlbmbFmDcdfBZj), [Surorile Osoianu](https://open.spotify.com/artist/188AtEwri19eMLJekHmCVE) | [Mama](https://open.spotify.com/album/6SGobsq37sSVRfnoNRXarz) | 3:14 |
 | 7 | [Inimi](https://open.spotify.com/track/1yqHs2M4rSgRzJ57ZWazpB) | [Andia](https://open.spotify.com/artist/6Jwwt3X2qSFanYwEHcvBkn) | [Inimi](https://open.spotify.com/album/4UVwC4Wj5xcrblIEe4UqVH) | 2:56 |
 | 8 | [Ultimul Dans](https://open.spotify.com/track/0a4vqGItAbh4XTd7lz97jR) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu), [Smiley](https://open.spotify.com/artist/3gvNMbcnvmnjGaG6hvJfSH) | [Ultimul Dans](https://open.spotify.com/album/285nFxuTHJpnHtTppI5vTS) | 3:23 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 28 | [Viitorul sună bine](https://open.spotify.com/track/3EMLxl3UmEUi27hkXcKLkZ) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye) | [Viitorul sună bine](https://open.spotify.com/album/3OqXA73LBp14vlaHRYuMTF) | 3:28 |
 | 29 | [A venit poliția \- From "Candidatul perfect" The Movie](https://open.spotify.com/track/4ltU2MHw7l9Mbr7NhbNjLV) | [Theo Rose](https://open.spotify.com/artist/264Be2Waq137vybMlFYCnu) | [A venit poliția \(From "Candidatul perfect" The Movie\)](https://open.spotify.com/album/60yReiUgnULTHtH4aZduQY) | 2:24 |
 | 30 | [Pentru Inimi Frante](https://open.spotify.com/track/2Vte9P5aMap0rBZrB47stv) | [Lora](https://open.spotify.com/artist/1ht25I3tgkphYm1HI7wMDq) | [Pentru Inimi Frante](https://open.spotify.com/album/2N97K2JsZf9HKCh4Mnup5V) | 3:07 |
-| 31 | [Nu Plânge](https://open.spotify.com/track/4EGWCCAlL0k85BHMhNqnxv) | [Mario Fresh](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Nu Plânge](https://open.spotify.com/album/5EVVqHzYKTCA1uwi4vNJB6) | 3:17 |
+| 31 | [Nu Plânge](https://open.spotify.com/track/4EGWCCAlL0k85BHMhNqnxv) | [Mario ](https://open.spotify.com/artist/2vMjgLGSb1lKiHySf3l9lF) | [Nu Plânge](https://open.spotify.com/album/5EVVqHzYKTCA1uwi4vNJB6) | 3:17 |
 | 32 | [Ploi de Tequila](https://open.spotify.com/track/58RcJ7zq7TbTKMmPH0vFzT) | [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [Ploi de Tequila](https://open.spotify.com/album/2T5vkNSWya1yLgmzD57QQk) | 2:26 |
 | 33 | [Bea, Daca Vrei](https://open.spotify.com/track/0Jrjh6uUm8piWAWGP8erR2) | [Anda Adam](https://open.spotify.com/artist/5Xf9tWz0AarRXKqKKxJkNE), [Marius Moga](https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk) | [Bea, Daca Vrei](https://open.spotify.com/album/2ktHpw0rjUnhPmVJS5erVH) | 2:54 |
 | 34 | [Ratat](https://open.spotify.com/track/3FLkFHEz6dQZwW9L5Vasew) | [Delia](https://open.spotify.com/artist/6YomcUxZXNftP5OyuHoVmB), [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Ratat](https://open.spotify.com/album/6cHl7jHIJnUSJ5BG82ZQRR) | 2:53 |

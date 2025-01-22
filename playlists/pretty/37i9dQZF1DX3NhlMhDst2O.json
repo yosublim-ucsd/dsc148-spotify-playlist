@@ -1,6 +1,6 @@
 {
   "description": "otro a\u00f1o ya se ha ido, cuantas cosas han pasado. algo hemos aprendido y algo hemos olvidado \ud83e\udd7a\ud83e\udd40\ud83d\ude2d",
-  "num_followers": 117405,
+  "num_followers": 117432,
   "original_name": "Navidad Sin Ti",
   "owner": {
     "name": "Spotify",
@@ -245,7 +245,7 @@
       "artists": [
         {
           "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "url": "https://open.spotify.com/artist/5jEVtENc7lVzsqNLySdelS"
         }
       ],
       "duration_ms": 140133,
@@ -389,28 +389,12 @@
       "artists": [
         {
           "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "url": "https://open.spotify.com/artist/5jEVtENc7lVzsqNLySdelS"
         }
       ],
       "duration_ms": 190640,
       "name": "Oro",
       "url": "https://open.spotify.com/track/1sLQ6BFucWwgT8yaAFSpAx"
-    },
-    {
-      "added_at": "2024-12-16 16:55:21",
-      "album": {
-        "name": "Me Bebi Tu Recuerdo",
-        "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
-      },
-      "artists": [
-        {
-          "name": "Galy Galiano",
-          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Me Beb\u00ed Tu Recuerdo",
-      "url": "https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA"
     },
     {
       "added_at": "2024-12-16 16:55:21",
@@ -427,6 +411,22 @@
       "duration_ms": 168306,
       "name": "D\u00e9jenme Si Estoy Llorando",
       "url": "https://open.spotify.com/track/0YvKdz58OcwgYdS67NJkkU"
+    },
+    {
+      "added_at": "2024-12-16 16:55:21",
+      "album": {
+        "name": "Me Bebi Tu Recuerdo",
+        "url": "https://open.spotify.com/album/3th8wWPqpBjw4pzGuf0OqS"
+      },
+      "artists": [
+        {
+          "name": "Galy Galiano",
+          "url": "https://open.spotify.com/artist/2OSKh2JIKMr66DxByxhwzT"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Me Beb\u00ed Tu Recuerdo",
+      "url": "https://open.spotify.com/track/4qDw65LRA3tT1ZDmghkgFA"
     },
     {
       "added_at": "2024-12-16 16:55:21",
@@ -499,18 +499,18 @@
     {
       "added_at": "2024-12-16 16:55:21",
       "album": {
-        "name": "Serie 32: Yndio",
-        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
+        "name": "El Quinto Trago",
+        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
       },
       "artists": [
         {
-          "name": "Yndio",
-          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
+          "name": "Grupo Bryndis",
+          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
         }
       ],
-      "duration_ms": 207586,
-      "name": "Dame Un Beso Y Dime Adi\u00f3s",
-      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
+      "duration_ms": 258733,
+      "name": "La \u00daltima Canci\u00f3n",
+      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
     },
     {
       "added_at": "2024-12-16 16:55:21",
@@ -547,18 +547,18 @@
     {
       "added_at": "2024-12-16 16:55:21",
       "album": {
-        "name": "El Quinto Trago",
-        "url": "https://open.spotify.com/album/7rhSfLWEv7D9flp4uLF4Du"
+        "name": "Serie 32: Yndio",
+        "url": "https://open.spotify.com/album/0O3HWF8wuFCxwci1hC5UhE"
       },
       "artists": [
         {
-          "name": "Grupo Bryndis",
-          "url": "https://open.spotify.com/artist/44WCHvwXBOMz6nm7Mu2ReO"
+          "name": "Yndio",
+          "url": "https://open.spotify.com/artist/1yP1EbAX7oCvKI7j7PxzGg"
         }
       ],
-      "duration_ms": 258733,
-      "name": "La \u00daltima Canci\u00f3n",
-      "url": "https://open.spotify.com/track/566q4HacJyTGxZefvWVy9t"
+      "duration_ms": 207586,
+      "name": "Dame Un Beso Y Dime Adi\u00f3s",
+      "url": "https://open.spotify.com/track/6XktzSnvdfStmmHIvhjVei"
     },
     {
       "added_at": "2024-12-16 16:55:21",
@@ -633,7 +633,7 @@
       "artists": [
         {
           "name": "Bronco",
-          "url": "https://open.spotify.com/artist/0VKh7CQDi9MkUvaBMoK1V0"
+          "url": "https://open.spotify.com/artist/5jEVtENc7lVzsqNLySdelS"
         }
       ],
       "duration_ms": 198040,
@@ -1240,13 +1240,13 @@
       },
       "artists": [
         {
-          "name": "Los Barbaros",
-          "url": "https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX"
+          "name": "Generacion 2000",
+          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
         }
       ],
-      "duration_ms": 206066,
-      "name": "Pecado Mortal",
-      "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
+      "duration_ms": 140653,
+      "name": "T\u00fa Eres",
+      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
     },
     {
       "added_at": "2024-12-16 16:55:21",
@@ -1272,13 +1272,13 @@
       },
       "artists": [
         {
-          "name": "Generacion 2000",
-          "url": "https://open.spotify.com/artist/0EFNcc6Ju1d2Ik5i1jHrCd"
+          "name": "Los Barbaros",
+          "url": "https://open.spotify.com/artist/1YOOqViXEnQ7gHpezp34TX"
         }
       ],
-      "duration_ms": 140653,
-      "name": "T\u00fa Eres",
-      "url": "https://open.spotify.com/track/3XR3LkDvFIs32jEz1KdzTx"
+      "duration_ms": 206066,
+      "name": "Pecado Mortal",
+      "url": "https://open.spotify.com/track/3uJW3j46luxDB4CrJY90l5"
     },
     {
       "added_at": "2024-12-16 16:55:21",
@@ -1351,22 +1351,6 @@
     {
       "added_at": "2024-12-16 16:55:21",
       "album": {
-        "name": "S\u00f3lo para enamorados",
-        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 183693,
-      "name": "Por qu\u00e9?",
-      "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
-    },
-    {
-      "added_at": "2024-12-16 16:55:21",
-      "album": {
         "name": "Mano A Mano Volumen 2",
         "url": "https://open.spotify.com/album/711RytcGqUZWMK90seBzdV"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 169440,
       "name": "Como Te Extra\u00f1o",
       "url": "https://open.spotify.com/track/4cr9cfUYbIwuhqzhF9dpIZ"
+    },
+    {
+      "added_at": "2024-12-16 16:55:21",
+      "album": {
+        "name": "S\u00f3lo para enamorados",
+        "url": "https://open.spotify.com/album/0aKX7SIu3MGX01ST8NANy8"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 183693,
+      "name": "Por qu\u00e9?",
+      "url": "https://open.spotify.com/track/5RXdPnVu0Re9XvKo9v6Wx4"
     },
     {
       "added_at": "2024-12-16 16:55:21",
@@ -1463,22 +1463,6 @@
     {
       "added_at": "2024-12-16 16:55:21",
       "album": {
-        "name": "Antolog\u00eda...Los Baby's",
-        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
-      },
-      "artists": [
-        {
-          "name": "Los Baby's",
-          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
-        }
-      ],
-      "duration_ms": 163906,
-      "name": "Mi loca pasi\u00f3n",
-      "url": "https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu"
-    },
-    {
-      "added_at": "2024-12-16 16:55:21",
-      "album": {
         "name": "Tesoros De Coleccion - Los Tukas",
         "url": "https://open.spotify.com/album/3MzFCw73hDZ4DGuViknMQK"
       },
@@ -1539,6 +1523,22 @@
       "duration_ms": 258573,
       "name": "Acar\u00edciame",
       "url": "https://open.spotify.com/track/36AZfm9TMpqDe0a97eQHZ5"
+    },
+    {
+      "added_at": "2024-12-16 16:55:21",
+      "album": {
+        "name": "Antolog\u00eda...Los Baby's",
+        "url": "https://open.spotify.com/album/6Ovwa9a0WJOU3HZESWDfFV"
+      },
+      "artists": [
+        {
+          "name": "Los Baby's",
+          "url": "https://open.spotify.com/artist/5CChYiuVrfAXbhcGtgDjU9"
+        }
+      ],
+      "duration_ms": 163906,
+      "name": "Mi loca pasi\u00f3n",
+      "url": "https://open.spotify.com/track/421JPp4bSpY5wJh6dB6Iuu"
     },
     {
       "added_at": "2024-12-16 16:55:21",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2024-12-16 16:55:21",
       "album": {
+        "name": "Una Sola Caida Y Las Abandonadas",
+        "url": "https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv"
+      },
+      "artists": [
+        {
+          "name": "Los Muecas",
+          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
+        }
+      ],
+      "duration_ms": 176226,
+      "name": "Una Sola Ca\u00edda",
+      "url": "https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5"
+    },
+    {
+      "added_at": "2024-12-16 16:55:21",
+      "album": {
         "name": "Idolos de Argentina",
         "url": "https://open.spotify.com/album/6RlXYXZd7cCw6astTKZJIB"
       },
@@ -1635,22 +1651,6 @@
       "duration_ms": 229668,
       "name": "Doce Rosas",
       "url": "https://open.spotify.com/track/4EPJIgQaRIuDZRm1qe9RrA"
-    },
-    {
-      "added_at": "2024-12-16 16:55:21",
-      "album": {
-        "name": "Una Sola Caida Y Las Abandonadas",
-        "url": "https://open.spotify.com/album/0xrskhlBwinqWkw3ePezNv"
-      },
-      "artists": [
-        {
-          "name": "Los Muecas",
-          "url": "https://open.spotify.com/artist/6gwYud4hJkX6ApdxYoCi7b"
-        }
-      ],
-      "duration_ms": 176226,
-      "name": "Una Sola Ca\u00edda",
-      "url": "https://open.spotify.com/track/0EGNdaIWoY4JrVawzWCWb5"
     },
     {
       "added_at": "2024-12-16 16:55:21",
@@ -1719,22 +1719,6 @@
     {
       "added_at": "2024-12-16 16:55:21",
       "album": {
-        "name": "15 Originales",
-        "url": "https://open.spotify.com/album/3hdbMZzO1TuICsCBlqssdr"
-      },
-      "artists": [
-        {
-          "name": "King Clave",
-          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
-        }
-      ],
-      "duration_ms": 223506,
-      "name": "Mi Corazon Lloro",
-      "url": "https://open.spotify.com/track/7bkXRILwKZhhgRyvJJqteP"
-    },
-    {
-      "added_at": "2024-12-16 16:55:21",
-      "album": {
         "name": "20 Super Exitos",
         "url": "https://open.spotify.com/album/3G8ZrnPcNB8SB0Uy3l68Yj"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 194413,
       "name": "Qu\u00e9 Iron\u00eda",
       "url": "https://open.spotify.com/track/1iYMRwuL9vFX1R8hPAOtpi"
+    },
+    {
+      "added_at": "2024-12-16 16:55:21",
+      "album": {
+        "name": "15 Originales",
+        "url": "https://open.spotify.com/album/3hdbMZzO1TuICsCBlqssdr"
+      },
+      "artists": [
+        {
+          "name": "King Clave",
+          "url": "https://open.spotify.com/artist/71FVpPyLHxYTn3CfUOJq7f"
+        }
+      ],
+      "duration_ms": 223506,
+      "name": "Mi Corazon Lloro",
+      "url": "https://open.spotify.com/track/7bkXRILwKZhhgRyvJJqteP"
     },
     {
       "added_at": "2024-12-16 16:55:21",

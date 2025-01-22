@@ -6,8 +6,112 @@
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAEboGfGYyVIul3t0Lp2v8sk1c5ghoL",
+  "snapshot_id": "AAAEfVAZaAylltLX9LiuIDFh74aH05jX",
   "tracks": [
+    {
+      "added_at": "2025-01-21 08:46:03",
+      "album": {
+        "name": "Ten Thousand Stars",
+        "url": "https://open.spotify.com/album/1QdN32vrSu3AARvPWhVVz4"
+      },
+      "artists": [
+        {
+          "name": "CircusP",
+          "url": "https://open.spotify.com/artist/6Wn6kyMvfESmIaVy3Sjjvf"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 233791,
+      "name": "Ten Thousand Stars (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2Lebjf5y1xqGdcvnuVzY3P"
+    },
+    {
+      "added_at": "2025-01-21 08:46:15",
+      "album": {
+        "name": "\u30d2\u30ed\u30a4\u30f3\u3002",
+        "url": "https://open.spotify.com/album/3PJH6fvc4FIW3QobIQzT2a"
+      },
+      "artists": [
+        {
+          "name": "\u304b\u3052\u3074\u30fc\u307c\u30fc\u308b",
+          "url": "https://open.spotify.com/artist/2c3O1pPolwSURN7uZQa4lL"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 189650,
+      "name": "\u30d2\u30ed\u30a4\u30f3\u3002 (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1K3CPzNrAws4fG8Sv4x4bG"
+    },
+    {
+      "added_at": "2025-01-21 08:46:25",
+      "album": {
+        "name": "fioritura",
+        "url": "https://open.spotify.com/album/3FUF8d3mg9T4VTgBrOsExw"
+      },
+      "artists": [
+        {
+          "name": "Aether_Eru",
+          "url": "https://open.spotify.com/artist/2zAd1RMV39OHXn4dTFw05M"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "progress (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/1ZqT7QwEtbtl4xAKx0JIrJ"
+    },
+    {
+      "added_at": "2025-01-21 08:46:39",
+      "album": {
+        "name": "SAN\u5024\u76f4\u846c",
+        "url": "https://open.spotify.com/album/7roSyHFU5E8XeF1oEZSuB6"
+      },
+      "artists": [
+        {
+          "name": "STEAKA",
+          "url": "https://open.spotify.com/artist/5FJiFnQENgHOWUOYyqDol5"
+        },
+        {
+          "name": "Hatsune Miku",
+          "url": "https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl"
+        }
+      ],
+      "duration_ms": 145714,
+      "name": "SAN\u5024\u76f4\u846c (feat. \u521d\u97f3\u30df\u30af)",
+      "url": "https://open.spotify.com/track/2mJHAg8vR8zoNvxCrl9mcl"
+    },
+    {
+      "added_at": "2025-01-21 08:46:50",
+      "album": {
+        "name": "\u9b3c\u306e\u9996 Ver. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
+        "url": "https://open.spotify.com/album/3XN7pNDUcjkCRIXHIFjxtP"
+      },
+      "artists": [
+        {
+          "name": "\u6cab\u5c3e",
+          "url": "https://open.spotify.com/artist/3xiRtHEkgQZINconT2YCPA"
+        },
+        {
+          "name": "Kagamine Rin",
+          "url": "https://open.spotify.com/artist/7wZ6E8iVwjGYRGwSfkIAjP"
+        },
+        {
+          "name": "Kagamine Len",
+          "url": "https://open.spotify.com/artist/2GXfF7OsKmE87OBfZ69cFY"
+        }
+      ],
+      "duration_ms": 202816,
+      "name": "\u9b3c\u306e\u9996 (feat. \u93e1\u97f3\u30ea\u30f3&\u93e1\u97f3\u30ec\u30f3)",
+      "url": "https://open.spotify.com/track/6COOJkkocEKu4WbLJDOUwC"
+    },
     {
       "added_at": "2025-01-14 08:08:31",
       "album": {
@@ -723,106 +827,6 @@
       "duration_ms": 279782,
       "name": "\u9752\u6625\u30d1\u30f3\u30af\u30ed\u30c3\u30af\u30c6\u30af\u30ce",
       "url": "https://open.spotify.com/track/4wz8FDl4AFXjHfsJ8xmZ03"
-    },
-    {
-      "added_at": "2024-10-22 06:26:15",
-      "album": {
-        "name": "\u8a18\u61b6\u306e\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8",
-        "url": "https://open.spotify.com/album/1QnV4YfBrsHuNZd36xyCC2"
-      },
-      "artists": [
-        {
-          "name": "As'257G",
-          "url": "https://open.spotify.com/artist/4K1RDdFMeSKKF13bOgAIGm"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 302608,
-      "name": "\u8a18\u61b6\u306e\u30d5\u30e9\u30b0\u30e1\u30f3\u30c8 (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/3PYrk6nd4arTlI2TYbRAaI"
-    },
-    {
-      "added_at": "2024-10-22 08:13:30",
-      "album": {
-        "name": "HUMANISM",
-        "url": "https://open.spotify.com/album/3ic5aS3lPIuYYxqhcZt5aT"
-      },
-      "artists": [
-        {
-          "name": "MIJIPIN",
-          "url": "https://open.spotify.com/artist/5OmfLbUOtonT9rilhxHBWT"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 318947,
-      "name": "HUMANISM (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/3NFysy0wrXllmwSQGnOkCB"
-    },
-    {
-      "added_at": "2024-10-22 06:33:03",
-      "album": {
-        "name": "Treasure every meeting",
-        "url": "https://open.spotify.com/album/09cJG2Ai35LLyaOvAM8GJh"
-      },
-      "artists": [
-        {
-          "name": "shu-t",
-          "url": "https://open.spotify.com/artist/43Ry8UW7ASr2gHdD6hhTI4"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 245142,
-      "name": "Treasure every meeting (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/7fJjyVDvNVqGdNMAsIXVi6"
-    },
-    {
-      "added_at": "2024-10-22 08:13:54",
-      "album": {
-        "name": "\u4e07\u4e16\u6a4b\u9053\u4e2d\u82b1\u76db_2024",
-        "url": "https://open.spotify.com/album/3Ah4ZBszbhL0r2I47ejnTg"
-      },
-      "artists": [
-        {
-          "name": "IMO",
-          "url": "https://open.spotify.com/artist/0bWsyEtBnc8Nb75emigipg"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 225000,
-      "name": "\u4e07\u4e16\u6a4b\u9053\u4e2d\u82b1\u76db_2024 (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/6vFeTrX0yxvfB7w3eLPYJT"
-    },
-    {
-      "added_at": "2024-10-22 08:14:07",
-      "album": {
-        "name": "\u4e0d\u7d14\u540c\u76df",
-        "url": "https://open.spotify.com/album/0xcSKmQSrpy2ndniN5eKjs"
-      },
-      "artists": [
-        {
-          "name": "\u3042\u5b50",
-          "url": "https://open.spotify.com/artist/0dRTohab8XeVhAB7Xb0mPK"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 132444,
-      "name": "\u4e0d\u7d14\u540c\u76df (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/5gJYG1CbtZMytovICP2mIq"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Midnight Club",

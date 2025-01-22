@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 
 > Fine jazz for a fine day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,446 likes - 64 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,441 likes - 64 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4Ce7C9uKaHy.md) - [plain]
 | 22 | [Light Years](https://open.spotify.com/track/0cLYQtBl5nWFVoTuqapSiB) | [Laura Misch](https://open.spotify.com/artist/0NrVrf231eji48nhNUJTXe) | [Sample The Sky](https://open.spotify.com/album/0p0lwsjdhGotcvunazwuRB) | 4:07 |
 | 23 | [Homesick](https://open.spotify.com/track/1Rd9TkiuqfUXMYNgguXpKY) | [Myele Manzanza](https://open.spotify.com/artist/1UC8QBhdrzQGgnGPcdEMDd), [Matthew Sheens](https://open.spotify.com/artist/0JPXDx4VWAKMfFCVg2mw5E), [Matt Penman](https://open.spotify.com/artist/7HSQeZZSI9YNyVe2emSM9k) | [Homesick](https://open.spotify.com/album/7yw4bZ9kbrQapS8V0Z32Ww) | 7:04 |
 | 24 | [Patience](https://open.spotify.com/track/5z9JBWHqRO5Wvz3cWwkCih) | [B\-ahwe](https://open.spotify.com/artist/6kog2FnBdjoz5oc9EQvuXl), [NEONE the Wonderer](https://open.spotify.com/artist/72RMKo8u5oIuTtyE8HAv5E) | [26% MIXTAPE](https://open.spotify.com/album/0MMw4QzAkhbNbtOX3hsApi) | 3:41 |
-| 25 | [your intuition is your friend \(radio edit\)](https://open.spotify.com/track/1dcwRKcZEmYVEhC6LQhwka) | [muva of Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Edward Wakili\-Hick](https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7) | [your intuition is your friend \(radio edit\)](https://open.spotify.com/album/2fcTch13GHkeNdarAzmuH7) | 3:36 |
+| 25 | [your intuition is your friend \(radio edit\)](https://open.spotify.com/track/1dcwRKcZEmYVEhC6LQhwka) | [Divine Earth](https://open.spotify.com/artist/3Sjvp3uM9DWVg54ZhdfmO3), [Edward Wakili\-Hick](https://open.spotify.com/artist/1MNaRPIUnpKM8gcmw1gaP7) | [your intuition is your friend \(radio edit\)](https://open.spotify.com/album/2fcTch13GHkeNdarAzmuH7) | 3:36 |
 | 26 | [Trouble](https://open.spotify.com/track/3S4BU9Bo99mbDC41MQxy6F) | [Nina West](https://open.spotify.com/artist/3D9p18HL0jyyqvPnPSmAdB) | [Trouble](https://open.spotify.com/album/5N1HkC9V0c8PDgDvBqkA2c) | 3:10 |
 | 27 | [Dopamine](https://open.spotify.com/track/4fcGgxx1moBvJZDgRU0hTk) | [Sophie Faith](https://open.spotify.com/artist/4LR3BRvTeWCiS1l16TqXVh) | [Dopamine](https://open.spotify.com/album/6kUnzF4bqYq6Whq5c91NbI) | 2:55 |
 | 28 | [Lost In Translation](https://open.spotify.com/track/6DkkF9ULC1R6Fp77xz3T10) | [CROOKS INC.](https://open.spotify.com/artist/50HRK8mAnUhlSOOp7MgZxp) | [Lost In Translation](https://open.spotify.com/album/0BkQtTgsFQJyTjN94HP8gl) | 4:33 |

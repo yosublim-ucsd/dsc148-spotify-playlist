@@ -4,7 +4,7 @@
 
 > New Music from Kollywood.<br/>Cover : Vidaamuyarchi
 
-1,634 songs - 4 day 3 hr 13 min
+1,635 songs - 4 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -233,6 +233,7 @@
 | [Calendar Song](https://open.spotify.com/track/0fzNzoC0QPOrRrsHbpmg4C) | [Anirudh Ravichander](https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O), [SUVI](https://open.spotify.com/artist/5gP4aEL0OvBlxgvod5C8jL), [aishwarya suresh](https://open.spotify.com/artist/7Idb7LCe8TxzIpfTqgZPwl) | [Indian 2 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2odSkyvlROPRtPYsr2lE0l) | 3:40 | 2024-06-01 | 2024-10-10 |
 | [Cargaalamey](https://open.spotify.com/track/67uNsHiNloytecntiAbKf2) | [Govind Vasantha](https://open.spotify.com/artist/5AWtJTaoFmLLrPwDR5dLPB), [Sathyaprakash](https://open.spotify.com/artist/4sdcjfLzvLC1IUYFwCAWHn), [Keerthana Vaidyanathan](https://open.spotify.com/artist/4L2JVt0fmwYdNB6TsKSyd8) | [Sweet Kaaram Coffee \(Original Series Soundtrack\)](https://open.spotify.com/album/3N29wpPW6HTgYr8t6N7QV6) | 1:57 | 2023-07-03 | 2023-08-18 |
 | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/track/3Feda69zjFHpUaJtJskq7N) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Celebration Of Varisu \(From "Varisu"\)](https://open.spotify.com/album/3ef08KVjQfE97k9qFvybCh) | 2:48 | 2023-01-16 | 2023-07-04 |
+| [Certified Self Made](https://open.spotify.com/track/7ggjfTXTEwRWBMsoSyDFFy) | [Hiphop Tamizha](https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q) | [Certified Self Made](https://open.spotify.com/album/4Nh6QrBjcTCzkHyzhzq2Ro) | 2:41 | 2025-01-21 |  |
 | [Chakara Muthey \(From "Rebel"\)](https://open.spotify.com/track/5oJOkHOZ52zmOzkb13vEf1) | [Navakkarai Naveen Prabanjam](https://open.spotify.com/artist/4FF7sfmTtz548Ic5RGo91J), [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn), [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Vignesh Ramakrishna](https://open.spotify.com/artist/5hMqWI3uRKI3hVaSVjgBvu) | [Chakara Muthey \(From "Rebel"\)](https://open.spotify.com/album/3UGWj9QJkxy8qGiiATzdkE) | 2:32 | 2024-03-04 | 2024-04-19 |
 | [Chakara Muthey \(From "Rebel"\)](https://open.spotify.com/track/0Z0fFNACgne65IVGtjxv7Y) | [Siddhu Kumar](https://open.spotify.com/artist/652AxOhhHWM3oxqY82UhQ9), [Navakkarai Naveen Prabanjam](https://open.spotify.com/artist/4FF7sfmTtz548Ic5RGo91J), [Gold Devaraj](https://open.spotify.com/artist/2Daf4nkCTn4wwE3ckhBVRn) | [Chakara Muthey \(From "Rebel"\)](https://open.spotify.com/album/1owc3FPNSmtAl6BpmuSfLf) | 2:32 | 2024-03-04 | 2024-06-18 |
 | [Chal Chakka \(From "Gatta Kusthi"\)](https://open.spotify.com/track/0iO26QdZLvasU26HEQw0wB) | [Benny Dayal](https://open.spotify.com/artist/61if35zz1W11GejEkxTLEQ), [Justin Prabhakaran](https://open.spotify.com/artist/3ocTwOjekTkFdD695eKuQr), [Vivek](https://open.spotify.com/artist/25Pa1Vz1ZuTHmXPiYeMcgx) | [Chal Chakka \(From "Gatta Kusthi"\) \- Single](https://open.spotify.com/album/1M0Lee7CJL1l93zGmludKN) | 3:49 | 2022-11-25 | 2022-12-26 |

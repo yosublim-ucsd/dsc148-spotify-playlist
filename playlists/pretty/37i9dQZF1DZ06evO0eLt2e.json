@@ -1,12 +1,12 @@
 {
   "description": "This is Kris Kristofferson. The essential tracks, all in one playlist.",
-  "num_followers": 29791,
+  "num_followers": 29797,
   "original_name": "This Is Kris Kristofferson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4xAgAAAAAC/Lfx/AryoeQL2+mlnX+TF",
+  "snapshot_id": "Z42SAAAAAACtWUIhEpV7neAnG1yX47sJ",
   "tracks": [
     {
       "added_at": null,
@@ -1088,9 +1088,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 170920,
-      "name": "Good Morning John",
-      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
+      "duration_ms": 152586,
+      "name": "Closer to the Bone",
+      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
     },
     {
       "added_at": null,
@@ -1159,8 +1159,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "16 Biggest Hits",
-        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
+        "name": "Breakaway",
+        "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
       },
       "artists": [
         {
@@ -1172,9 +1172,9 @@
           "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 190240,
-      "name": "I'd Rather Be Sorry - duet with Rita Coolidge",
-      "url": "https://open.spotify.com/track/05v0aaMIOZvbo43TBqlUgC"
+      "duration_ms": 152693,
+      "name": "Sweet Susannah",
+      "url": "https://open.spotify.com/track/2m8tfuW4uAlZDMGB6O0hQG"
     },
     {
       "added_at": null,
@@ -1188,9 +1188,9 @@
           "url": "https://open.spotify.com/artist/0vYQRW5LIDeYQOccTviQNX"
         }
       ],
-      "duration_ms": 152586,
-      "name": "Closer to the Bone",
-      "url": "https://open.spotify.com/track/4sS68UKofTv1lPsUuwh6Sf"
+      "duration_ms": 170920,
+      "name": "Good Morning John",
+      "url": "https://open.spotify.com/track/6FCZfUsAc9khfsEiFQ9MSG"
     },
     {
       "added_at": null,
@@ -1227,8 +1227,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breakaway",
-        "url": "https://open.spotify.com/album/5E2qk8NPadk7IY7yXiOXtB"
+        "name": "16 Biggest Hits",
+        "url": "https://open.spotify.com/album/4V0B2o4rSXh7CwzqbDX6xo"
       },
       "artists": [
         {
@@ -1240,9 +1240,9 @@
           "url": "https://open.spotify.com/artist/1vnIL4DMlivP55ioM6KitW"
         }
       ],
-      "duration_ms": 152693,
-      "name": "Sweet Susannah",
-      "url": "https://open.spotify.com/track/2m8tfuW4uAlZDMGB6O0hQG"
+      "duration_ms": 190240,
+      "name": "I'd Rather Be Sorry - duet with Rita Coolidge",
+      "url": "https://open.spotify.com/track/05v0aaMIOZvbo43TBqlUgC"
     },
     {
       "added_at": null,

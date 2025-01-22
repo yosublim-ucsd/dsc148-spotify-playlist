@@ -10421,6 +10421,24 @@
     },
     {
       "album": {
+        "name": "eat, sleep, slay, \ud83d\udd01",
+        "url": "https://open.spotify.com/album/3jtObNyZd0OIHbImdtQo7h"
+      },
+      "artists": [
+        {
+          "name": "horsegiirL",
+          "url": "https://open.spotify.com/artist/0auP293abZeTWwMUi3fZw2"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149666,
+      "name": "eat, sleep, slay, \ud83d\udd01",
+      "url": "https://open.spotify.com/track/0Rv7Ql0ImNHE4LqZFrMldi"
+    },
+    {
+      "album": {
         "name": "Obsolete",
         "url": "https://open.spotify.com/album/2T2G5q8KHo5wAAitrRzJN0"
       },

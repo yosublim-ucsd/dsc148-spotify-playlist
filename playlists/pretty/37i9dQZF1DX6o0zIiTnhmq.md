@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,515 likes - 50 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,596 likes - 50 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 13 | [Hari Om \- Edit](https://open.spotify.com/track/2f15VD8uiJDDEHbM17OmIv) | [Nisha Narsai](https://open.spotify.com/artist/1Ux83LKN1wlXdbKJhcpGEC) | [Om Sound Healing Music: Tibetan & Crystal Bowls with Deep Mantras for Yoga](https://open.spotify.com/album/5HDRlVQWc8iTXqRDlmQ37M) | 8:04 |
 | 14 | [Om Mani Padme Hum 1](https://open.spotify.com/track/0Wt0mAqujcgSIP6xEV0rdp) | [Jane Winther](https://open.spotify.com/artist/0PO9NIghm5IGR1uIqCRJ1s) | [Yoga Music Collection "Blissfull Mantras & Prayers"](https://open.spotify.com/album/1bCI6dcUsLfJvIJGWwhv7T) | 8:24 |
 | 15 | [Nam Myoho Renge Kyo](https://open.spotify.com/track/4fnEEnBiPcGCthLPKx88d4) | [Sandeep Khurana](https://open.spotify.com/artist/4KO6U4WNDEW0RjzQL7VuRj) | [Nam Myoho Renge Kyo](https://open.spotify.com/album/4GMcOTrXp9q7HlE0BRJ6oP) | 15:24 |
-| 16 | [Kirtan Kriya \(Short Version\)](https://open.spotify.com/track/3buZNBqLqmrcCZuJZbtRUD) | [Nirinjan Kaur](https://open.spotify.com/artist/13XMB4VG3ioT5OfHLOy22R) | [Meditations for Transformation: Kirtan Kriya](https://open.spotify.com/album/0TQ8rdpksSSe9j0jNNjc7s) | 11:31 |
-| 17 | [Rudrashtakam](https://open.spotify.com/track/6mCgtFIQzX4CM44c4Aiot0) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [In The Lap Of The Master](https://open.spotify.com/album/1DILWzzJrIFZJ2yxovYtfa) | 6:15 |
+| 16 | [Rudrashtakam](https://open.spotify.com/track/6mCgtFIQzX4CM44c4Aiot0) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [In The Lap Of The Master](https://open.spotify.com/album/1DILWzzJrIFZJ2yxovYtfa) | 6:15 |
+| 17 | [Kirtan Kriya \(Short Version\)](https://open.spotify.com/track/3buZNBqLqmrcCZuJZbtRUD) | [Nirinjan Kaur](https://open.spotify.com/artist/13XMB4VG3ioT5OfHLOy22R) | [Meditations for Transformation: Kirtan Kriya](https://open.spotify.com/album/0TQ8rdpksSSe9j0jNNjc7s) | 11:31 |
 | 18 | [Laxmi Mantra 108 Times](https://open.spotify.com/track/659rdNcG2Ldqhg6azH0XRa) | [Nipun Aggarwal](https://open.spotify.com/artist/5yp0kBtdnmEAqQE02L7Wox) | [Laxmi Mantra 108 Times](https://open.spotify.com/album/4OkDBv1NEa6MgxffSMF3mz) | 14:56 |
 | 19 | [Shivoham](https://open.spotify.com/track/2ifsTVDxbc3BGBPEwrOez5) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 6:29 |
 | 20 | [The End Of Suffering](https://open.spotify.com/track/29cXtyDKRZXqS5tGgVgK2F) | [Gary Malkin](https://open.spotify.com/artist/7cZvGGhX1EVTClGSqhrvtY), [Thich Nhat Hanh](https://open.spotify.com/artist/270IOtdDWXOUR4YZXMUFJZ), [Dan Alvarez](https://open.spotify.com/artist/3AlqldQ9PkBDPfXjPIggFW) | [Graceful Passages](https://open.spotify.com/album/0rU9Oa0xCjUbAmcIcZBIgX) | 7:13 |

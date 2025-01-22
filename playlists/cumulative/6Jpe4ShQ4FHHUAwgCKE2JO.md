@@ -4,7 +4,7 @@
 
 > This country is a corpse
 
-36 songs - 2 hr 11 min
+37 songs - 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -34,6 +34,7 @@
 | [Out With the Crow](https://open.spotify.com/track/3rkRWnb8aaiXMevBmf2Ul8) | [The Haunted Windchimes](https://open.spotify.com/artist/2f61F4arCAsrcU08xPxjV2) | [Out With the Crow](https://open.spotify.com/album/1nbXKbgWArwy2KuLItW6qh) | 2:44 | 2024-09-16 |  |
 | [Providence](https://open.spotify.com/track/4VGR3mr2WbiD0splKGasFc) | [Poor Man's Poison](https://open.spotify.com/artist/0YHgnSkV3S5mvSSCTRWDi5) | [Providence](https://open.spotify.com/album/0mV9xVaTWHbakQC10LKtgL) | 3:03 | 2023-10-30 |  |
 | [Quiet as a Rat](https://open.spotify.com/track/16k3poCtMzSsrlYEGwFX1O) | [Amigo the Devil](https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv) | [Born Against](https://open.spotify.com/album/4XEgfcc6oEc9KT1T9T4dn8) | 3:14 | 2024-12-09 |  |
+| [Redesign Your Logo](https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [The Fump, Vol\. 20: March \- April 2010](https://open.spotify.com/album/795ErcyPhr0Trsq0a4SauM) | 4:19 | 2025-01-21 |  |
 | [Sideshow](https://open.spotify.com/track/4hFMy4uUSJ4hFfYpAVd1OI) | [Nick Lutsko](https://open.spotify.com/artist/0gEenHtJ9puwA63nbY2TAE) | [Swords](https://open.spotify.com/album/2oTWDmzqeri1WOvpSH5J4g) | 5:29 | 2024-04-08 |  |
 | [Sixteen Tons](https://open.spotify.com/track/50eBP4arxI9WZqSXAy8j9d) | [Geoff Castellucci](https://open.spotify.com/artist/1TIQZBUSqWPrBZuh80x6Rz) | [Sixteen Tons](https://open.spotify.com/album/1TYeSHzqyRK8gfn8I0drTr) | 2:50 | 2023-11-15 |  |
 | [Solidarity Forever](https://open.spotify.com/track/5NShvMH3lRmQPW4qc0hYKY) | [Pete Seeger](https://open.spotify.com/artist/1P9syEkl41IFowWIJN7ZBY) | [If I Had a Hammer: Songs of Hope and Struggle](https://open.spotify.com/album/21k0wecYa9yprQ937HR62H) | 2:54 | 2024-09-16 |  |

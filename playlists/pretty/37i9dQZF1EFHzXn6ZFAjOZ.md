@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1EOn1bt5GXJPBxrZZ7SUlg">RAYE</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,084 likes - 138 songs - 7 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,089 likes - 137 songs - 7 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -140,11 +140,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFHzXn6ZFAjOZ.md) - [plain]
 | 130 | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/track/3aXsMhbTt3SQTD4iz3ptcc) | [Preditah](https://open.spotify.com/artist/5qYCZ5FQuzZSjOnesvuYiD), [Aida Lae](https://open.spotify.com/artist/6O3zNHRRBNy1fVMuFsuJwc) | [Don’t Cry \(feat\. Aida Lae\)](https://open.spotify.com/album/20fw7LGasmONYZDICD2cUD) | 2:49 |
 | 131 | [Hands on the Sink](https://open.spotify.com/track/39YAyo3KHKnUWIfpB84r3S) | [Louise](https://open.spotify.com/artist/27ul3mOdPyXZEtI17EjCWa) | [Heavy Love](https://open.spotify.com/album/4g30lAhSUDEOUhs4Izez2s) | 3:31 |
 | 132 | [You Don't Know Me](https://open.spotify.com/track/3VUEmUuV3kEHHKKUFXP1iQ) | [Jax Jones](https://open.spotify.com/artist/4Q6nIcaBED8qUel8bBx6Cr), [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Lieblings..\. Dance Hits](https://open.spotify.com/album/5dxpqpOC2my9Ne91U5rqTM) | 4:27 |
-| 133 | [How I Feel](https://open.spotify.com/track/1ATFDbdhuZATOGd3kxmh9v) | [YT](https://open.spotify.com/artist/175Igpf3YqFTLD9FOP3YfY), [Keen](https://open.spotify.com/artist/50lH1JCWzaCDAF2uKjQInf) | [YT Global NOW Hosted By: Califiedent](https://open.spotify.com/album/5FPHtJrlVsALrkXfCwYxrD) | 4:00 |
-| 134 | [Magic](https://open.spotify.com/track/6wNYEYWCYDJpuEQ6vVMfDk) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [Mixed Emotions](https://open.spotify.com/album/4Zk3SySNIzXhHZe2bfISY7) | 3:30 |
-| 135 | [Work For It](https://open.spotify.com/track/3763Urb2BgrtpfykZtZXfp) | [Detroit Rap News](https://open.spotify.com/artist/2aUOe99AuZUdKvhoxbb5Vv), [Hellboy Rodd](https://open.spotify.com/artist/2wvFUoWE8LoE6t2alM28JU), [Roadrunner GlockBoyz Tez](https://open.spotify.com/artist/0j151H25wS0OYB8uv0NGEf) | [Ear 2 The Streetz, Vol\. 1](https://open.spotify.com/album/27kK0944m28TKyYVh1YnhX) | 2:12 |
-| 136 | [Hide and Seek](https://open.spotify.com/track/2kWXPmIs0MJ9aB6N5BiPes) | [WHITE LIE](https://open.spotify.com/artist/6wG5RFbPEROzmSNCyJeUvN) | [Hide and Seek](https://open.spotify.com/album/5uLzsEstNSz6AjKa665lVs) | 3:58 |
-| 137 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
-| 138 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
+| 133 | [Magic](https://open.spotify.com/track/6wNYEYWCYDJpuEQ6vVMfDk) | [Rachel Alejandro](https://open.spotify.com/artist/4oMk1QJuMWUWrNmchRJGWL), [Jun Reyes](https://open.spotify.com/artist/74ZrVPO9hBg3o6j7g0OZ6u) | [Mixed Emotions](https://open.spotify.com/album/4Zk3SySNIzXhHZe2bfISY7) | 3:30 |
+| 134 | [Work For It](https://open.spotify.com/track/3763Urb2BgrtpfykZtZXfp) | [Detroit Rap News](https://open.spotify.com/artist/2aUOe99AuZUdKvhoxbb5Vv), [Hellboy Rodd](https://open.spotify.com/artist/2wvFUoWE8LoE6t2alM28JU), [Roadrunner GlockBoyz Tez](https://open.spotify.com/artist/0j151H25wS0OYB8uv0NGEf) | [Ear 2 The Streetz, Vol\. 1](https://open.spotify.com/album/27kK0944m28TKyYVh1YnhX) | 2:12 |
+| 135 | [Hide and Seek](https://open.spotify.com/track/2kWXPmIs0MJ9aB6N5BiPes) | [WHITE LIE](https://open.spotify.com/artist/6wG5RFbPEROzmSNCyJeUvN) | [Hide and Seek](https://open.spotify.com/album/5uLzsEstNSz6AjKa665lVs) | 3:58 |
+| 136 | [Sink](https://open.spotify.com/track/77JuQtsC9l7u6vZYAl5ZOX) | [White Ape](https://open.spotify.com/artist/7pFTVAwKdNGN4qvqDVBH2A) | [Kick It Down](https://open.spotify.com/album/64QgAUzZedeat6jQsjFtAU) | 3:45 |
+| 137 | [Rough \- Axel Karakasis Remix](https://open.spotify.com/track/4Zq2jl1ZxsYOqBevqghdYa) | [Sintek](https://open.spotify.com/artist/5VVTbLgVKS2B0O7BoxRGBM) | [Rough](https://open.spotify.com/album/0EbJGp1zt5mtBztbMM7eMv) | 6:36 |
 
-Snapshot ID: `AbnZ3gAAAAAVDTUnuzNyUNPXE9YUqtMT`
+Snapshot ID: `AbnfagAAAABy3wrAkyfcozXCgJtpkPfh`

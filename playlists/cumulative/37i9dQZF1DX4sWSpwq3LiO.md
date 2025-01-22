@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,767 songs - 3 day 6 hr 27 min
+1,769 songs - 3 day 6 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Dijon](https://open.spotify.com/track/5kR4Gu963Yj5PSLbkhdlhB) | [Antoine Stavelot](https://open.spotify.com/artist/0vGTKzLWBPH48JntTqa3YJ) | [Dijon](https://open.spotify.com/album/1ASLxNnlNc8YqS4hzxtTYs) | 2:39 | 2021-02-09 | 2021-08-05 |
 | [Dione](https://open.spotify.com/track/0OyfmSpjOUz6k0swecwQEw) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Dione](https://open.spotify.com/album/1xSWJQd6aRwP8ETyHJXyQP) | 2:28 | 2022-07-06 | 2024-06-06 |
 | [Distance](https://open.spotify.com/track/4RfSDsnP15kSfeu4FxItmX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Distance](https://open.spotify.com/album/7fYhfROPAkAunZroRbRJzN) | 2:35 | 2023-02-03 | 2025-01-07 |
+| [Distant Horizon](https://open.spotify.com/track/2iCOm2pd5bLroo3rgBNtJv) | [Felix Brightwood](https://open.spotify.com/artist/2HITDeV1KHvOpkWy95Rv9t) | [Distant Horizon](https://open.spotify.com/album/673bP4xnK1ElzFbUIwJEyx) | 2:45 | 2025-01-21 |  |
 | [Distant Lapse](https://open.spotify.com/track/7pDD127Pc7US1ZG0sJy3e0) | [Jase Moran](https://open.spotify.com/artist/54eoq0q1McIMaeoK4J3DdQ) | [Distant Lapse](https://open.spotify.com/album/1WdR1q6Tq8PXKRoQAwXl3y) | 2:45 | 2020-01-08 | 2020-09-30 |
 | [Distant Shores](https://open.spotify.com/track/5akwB4g9TXC5B586LAew37) | [PIAMINO](https://open.spotify.com/artist/3MCDB7qdTDruqWX2LwuUb6) | [Distant Shores](https://open.spotify.com/album/0bKOpKhuIFRcUz5U4reXeR) | 2:14 | 2022-10-03 | 2023-09-23 |
 | [Divine Structure](https://open.spotify.com/track/5S7nfUHhiA3kfmyMPvhV6V) | [Charlotte Funke](https://open.spotify.com/artist/3yO7osdYZcoKHt0kTZT486) | [Episode](https://open.spotify.com/album/09cW79JXOPShafrskPjFxK) | 3:47 | 2019-07-11 | 2019-09-12 |
@@ -713,7 +714,7 @@
 | [Isonzo](https://open.spotify.com/track/0ELqe9dtV7NIrXAnI59snn) | [Davorka Poljak](https://open.spotify.com/artist/4BBOdslZwXmnXLC4JUm3xg) | [Isonzo](https://open.spotify.com/album/40JFpO3b72BemcMBf53Ikq) | 1:47 | 2019-09-19 | 2021-02-09 |
 | [It is a Beauteous Evening](https://open.spotify.com/track/3nZ31x1cLcCRnIRpiOIkPU) | [Thomasine Robinson](https://open.spotify.com/artist/0cJB6JE2hZxv7fH4XBs4dF) | [It is a Beauteous Evening](https://open.spotify.com/album/08rw1H3dmuani2VQMlDNLB) | 2:20 | 2020-02-04 | 2021-05-22 |
 | [It's Not Ice](https://open.spotify.com/track/1UVNO2jUwZZuSUmHE2jf03) | [Tristan Eckerson](https://open.spotify.com/artist/24LGVKHzsrVV7oo94nlNE1) | [Trozo Revisited](https://open.spotify.com/album/427N8QK4GyrAvh1YztylPU) | 3:34 | 2019-10-22 | 2020-08-20 |
-| [Je m'amoure de cette sensation](https://open.spotify.com/track/63PdrrV4D4DtKpB4JEKMTJ) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Je m'amoure de cette sensation](https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8) | 2:31 | 2023-01-27 |  |
+| [Je m'amoure de cette sensation](https://open.spotify.com/track/63PdrrV4D4DtKpB4JEKMTJ) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [Je m'amoure de cette sensation](https://open.spotify.com/album/43fbFte7qzVb4OGBl0wTK8) | 2:31 | 2023-01-27 | 2025-01-22 |
 | [Je Suis Paix](https://open.spotify.com/track/1kjxU1Z1omaqsaS7qh3ZhQ) | [Selma India](https://open.spotify.com/artist/0eo4GHoKLJml5YcxYdQswv) | [Je Suis Paix](https://open.spotify.com/album/3yx0UkhiwsLHWAzJKhl8GO) | 3:02 | 2021-10-13 | 2022-12-06 |
 | [Je t'ai vu](https://open.spotify.com/track/7wvLqTxF6Nm4k579lboPC8) | [Projet Calmant](https://open.spotify.com/artist/7co0izocnlz4PPcuxN9dwJ) | [Je t'ai vu](https://open.spotify.com/album/5tMnyUyPtzkcZSOiwZ9a4X) | 3:00 | 2022-10-03 | 2023-12-06 |
 | [Je vous ai trouvé](https://open.spotify.com/track/4PLaetqDYcJK1e6VFb361C) | [Verney Pépin](https://open.spotify.com/artist/1m0iaSvYDVKEUe4gkPXriQ) | [Je vous ai trouvé](https://open.spotify.com/album/2u9QYGFP25RUHD19s0rd4e) | 2:20 | 2022-10-03 | 2023-12-06 |
@@ -1636,6 +1637,7 @@
 | [Unstoppable Changes](https://open.spotify.com/track/3i0emtsR3mwlVGXSDDiUdx) | [Sebastian Zawadzki](https://open.spotify.com/artist/5UYaW3kkkyj483LiCOleBH) | [Piano Works, Vol\. 3](https://open.spotify.com/album/4vm6ZombDpph5R19QXxgwX) | 3:44 | 2019-08-23 | 2019-11-19 |
 | [Untold Stories](https://open.spotify.com/track/5opvuJQY6nSCwA0Wj42yC9) | [Josh Kramer](https://open.spotify.com/artist/2stOL2fH4SxcTNg7RXo9AG) | [Untold Stories](https://open.spotify.com/album/59nquXEWI0QEkmcdxz3wD3) | 3:02 | 2023-01-17 | 2023-04-18 |
 | [Unus mundus](https://open.spotify.com/track/4xWk6An2KCcwwzsRDjau0x) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Henosis](https://open.spotify.com/album/6Al9dg8G1lwIq4KwBnTdiG) | 4:18 | 2019-06-27 | 2019-08-13 |
+| [Unvergesslich](https://open.spotify.com/track/2l7ROj2BBqVGrIQdVe68vS) | [Lester Dann](https://open.spotify.com/artist/4LWygJYj8Gu9KJYUGsXBbB) | [Unvergesslich](https://open.spotify.com/album/60FJJHnlc7TlKFytAudGm5) | 2:25 | 2025-01-21 |  |
 | [Unwritten](https://open.spotify.com/track/0HRu3CQZBkUsmEPE4W3aBy) | [Guido Heeneman](https://open.spotify.com/artist/2e4x0REh1E5gnXL9fNkidv), [GUIDO](https://open.spotify.com/artist/04epIWC7DF8bFAwQW6nLfp) | [Unwritten](https://open.spotify.com/album/1zEqTjgRtNPXL8qfcLRDFu) | 3:07 | 2022-08-26 | 2022-12-21 |
 | [Vals De Rodrigues](https://open.spotify.com/track/3I3WY0C7AQMe6Z6hMUQqd5) | [Eric Badanti](https://open.spotify.com/artist/2KnoW7Kuw3lj3OKFK8EXQ7) | [Vals De Rodrigues](https://open.spotify.com/album/3q10Tg3kwZZmQYCLaCZos7) | 2:41 | 2019-09-12 | 2021-03-31 |
 | [Valse](https://open.spotify.com/track/0HUbTiZUqqQWmA4GKwJWOv) | [Les Rêveries](https://open.spotify.com/artist/0CEd23JZvyemacknJwWM9O) | [Valse](https://open.spotify.com/album/5UDwQgqXvDZCVdDz1NqwUK) | 2:11 | 2022-10-13 | 2024-05-23 |

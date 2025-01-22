@@ -4,7 +4,7 @@
 
 > A relaxing atmosphere of Jazz piano sounds.
 
-592 songs - 1 day 13 hr 26 min
+595 songs - 1 day 13 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,7 +129,7 @@
 | [Did you dream too](https://open.spotify.com/track/2uFnSCNpfxySA144y7iIxq) | [Noel Hayes](https://open.spotify.com/artist/0CEZunfWhz5PyHlTNJwC2S) | [Did you dream too](https://open.spotify.com/album/4vQT9zQ6BUEuQLWACzWzhg) | 3:40 | 2023-02-09 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/5n3Fi4f7VJyQQrFlfA9F9f) | [Old Town Trio](https://open.spotify.com/artist/4dSiNMDfIlI3qwNuAlk4dZ) | [Don't Go To Strangers](https://open.spotify.com/album/3WxjvFCGzABRCtw8vPWm7m) | 4:02 | 2022-04-11 |  |
 | [Don't Go To Strangers](https://open.spotify.com/track/1Wkb0jY5EVVGACaJQlfeyA) | [Ron Fields](https://open.spotify.com/artist/1x5zKG8Bhm8RW3LuKUMcRF) | [When I Fall In Love](https://open.spotify.com/album/7x9nV3lH3nuUo9r1h3pt8N) | 3:01 | 2020-10-20\* | 2021-01-07 |
-| [Don't wither away](https://open.spotify.com/track/5ERDTS0ztor25ieBpJi0qx) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Don't wither away](https://open.spotify.com/album/2GMFWl1Evs8CGy9uJ9anFM) | 3:24 | 2023-09-22 |  |
+| [Don't wither away](https://open.spotify.com/track/5ERDTS0ztor25ieBpJi0qx) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Don't wither away](https://open.spotify.com/album/2GMFWl1Evs8CGy9uJ9anFM) | 3:24 | 2023-09-22 | 2025-01-22 |
 | [Dream you're chasing](https://open.spotify.com/track/5sd1XD2YCFDhJDpbPwF9Ua) | [Pimm's Trio](https://open.spotify.com/artist/0vlyMzroosYUjkAfHLx6kF) | [Dream you're chasing](https://open.spotify.com/album/4AZUlUpHp3ALkxRKaPYBHL) | 2:30 | 2023-06-21 |  |
 | [Dreaming](https://open.spotify.com/track/6Ig0tGfqeR97XcFvtcOuJu) | [Cara Myers Trio](https://open.spotify.com/artist/3YKaVuPgMSkBr5r3zqxEdV) | [Dreaming](https://open.spotify.com/album/1IRYKF2RkTZ2moQCjAm8KZ) | 3:34 | 2024-03-08 | 2024-05-28 |
 | [Dreamsville](https://open.spotify.com/track/4AnJZTcx01nxo47QyYbskV) | [Pearl Street Trio](https://open.spotify.com/artist/6vOQ06tNCXPAdGfaNV3L0k) | [Dreamsville](https://open.spotify.com/album/60rdAuFzDeyUJIJRneqY3A) | 4:21 | 2021-03-27 |  |
@@ -143,6 +143,7 @@
 | [Embraceable You](https://open.spotify.com/track/5oEyPyit0Qov2p1E6GLtnJ) | [Barry Harris Trio](https://open.spotify.com/artist/7Bpj43yWq3DUaMlNmTWYXH) | [Breakin' It Up](https://open.spotify.com/album/5xIu1QvYdJg4xZLw7J8n1S) | 3:56 | 2021-01-21 | 2023-10-27 |
 | [Embraced by Night](https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Embraced by Night](https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG) | 3:03 | 2024-03-08 |  |
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-08 |  |
+| [Epilogue](https://open.spotify.com/track/3bH3TxA7NHH1ceyNemCyWq) | [Cole Peers trio](https://open.spotify.com/artist/3HwmLSofJhnA1bdPIREqAj) | [Epilogue](https://open.spotify.com/album/6PWf11QC0FRi7YcwTbnWcW) | 3:29 | 2025-01-20 |  |
 | [Epiphany](https://open.spotify.com/track/7ib0OYB581rQOdkhmyqD6T) | [Derek Hines Trio](https://open.spotify.com/artist/1TDvHxM0O09OWCdW8PLBlY) | [Epiphany](https://open.spotify.com/album/0EiGN4mIttPFWFCr5VWoWV) | 3:27 | 2024-08-27 |  |
 | [estate](https://open.spotify.com/track/18NxSIKcBgidhFiY37s9tC) | [Brandy Charles](https://open.spotify.com/artist/1m1DxePO84p5t8ocvRjlOw) | [time remembered](https://open.spotify.com/album/1DHwBA3VoKhAWoV66MQ0fY) | 4:20 | 2020-10-20\* | 2021-01-21 |
 | [Eternal Love](https://open.spotify.com/track/56vEbP6qnGqn21YwH2WCcd) | [Arthur Taylor Trio](https://open.spotify.com/artist/5jwt0e3bddxJFS0qGhvv9n) | [Eternal Love](https://open.spotify.com/album/7glJx2sUdT6hK6qU9kVVEw) | 3:29 | 2024-01-12 | 2024-03-24 |
@@ -258,7 +259,7 @@
 | [In the Mood for Romance](https://open.spotify.com/track/3hGuzdYTPih41oH3L2m1fu) | [Sidney Hatfield Trio](https://open.spotify.com/artist/6H3KpzoFcsyiizhxJDboDB) | [In the Mood for Romance](https://open.spotify.com/album/51WtIwzbjyyTsiGXwdiwUR) | 3:39 | 2023-12-22 |  |
 | [In the Rain](https://open.spotify.com/track/3cT3PwSMVB7wKkeiLvfYez) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [In the Rain](https://open.spotify.com/album/5Oa3uJhlz8F0wjNe41IvPX) | 3:58 | 2023-08-10 |  |
 | [In the Wee Small Hours of the Morning](https://open.spotify.com/track/6GqdOl9kasXJdzfcUboF1a) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [In the Wee Small Hours of the Morning](https://open.spotify.com/album/7cxKG7mTCE6hmI3t1SsJvk) | 4:30 | 2020-10-20\* | 2024-01-19 |
-| [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2020-10-20\* |  |
+| [In Thoughtful](https://open.spotify.com/track/4xaWsmSgkCOXOaxEF0ofjy) | [MEGTARO](https://open.spotify.com/artist/3o3JLHE1KQzNc2wh46UiNI) | [Newselves](https://open.spotify.com/album/3HJTUfUEzmkCHyGqSPEf24) | 4:02 | 2020-10-20\* | 2025-01-22 |
 | [In Your Arms](https://open.spotify.com/track/3mTsbs8DiR6OoLCz2KlzZI) | [Emily Green Trio](https://open.spotify.com/artist/1x15bUK0BRnIevwSpYxMjg) | [In Your Arms](https://open.spotify.com/album/7vkvgxXf1y12Y3eejsMU49) | 3:33 | 2023-12-08 |  |
 | [Infant Eyes](https://open.spotify.com/track/4PEO2xAMctCKn1D7ocUR8S) | [Alexis Cohen](https://open.spotify.com/artist/6oEEfYQspfp3tgt5X20ok1) | [It Might as Well Be Spring](https://open.spotify.com/album/5QhyU13nEI1rWgjXfuQEmW) | 4:33 | 2020-10-20\* |  |
 | [Isfahan](https://open.spotify.com/track/3qHkojTMHvL6CduADwqsLk) | [Francis Frost Duo](https://open.spotify.com/artist/5fDbSIxXEyyfVMYMq3fIur) | [Isfahan](https://open.spotify.com/album/6c2oXnuik7GmOD1TIRwyS2) | 4:08 | 2021-01-07 | 2022-09-03 |
@@ -341,6 +342,7 @@
 | [Misty](https://open.spotify.com/track/2vCFOb6JLg3nUDATx1yuXR) | [Sofia Rojic](https://open.spotify.com/artist/20FCkaCn7rBbuKyy1dDC9l) | [Africa EP](https://open.spotify.com/album/2MC5j40y4ttv7N6LttWKkH) | 4:26 | 2020-10-20\* | 2021-01-21 |
 | [Misty Morning](https://open.spotify.com/track/1QwunZ0xkzaVuGG9hFT8pC) | [Mino Conte & Co](https://open.spotify.com/artist/1kzntvfEnEvuhMeA3IcaZi) | [Misty Morning](https://open.spotify.com/album/54sGdyKt7MxfWnOaaK95Jj) | 3:13 | 2020-10-20\* | 2021-01-21 |
 | [Molly's theme](https://open.spotify.com/track/7r5XG6Ko5PsiSext5v0vyO) | [Bernhard Cohen](https://open.spotify.com/artist/4KU3igTxJsnJrxcOF2oC6f) | [Molly's theme](https://open.spotify.com/album/28OqRj89nMCysbF2EANXej) | 3:52 | 2022-12-22 |  |
+| [Moon Over Miami](https://open.spotify.com/track/6gMP1kB6ImBDUsCgwWXAKf) | [Irvin Smith Group](https://open.spotify.com/artist/4SL7KeObcdWbpCRzEKlhCJ) | [Moon Over Miami](https://open.spotify.com/album/4QKqFYGKyuTpod96Sk9PAG) | 3:41 | 2025-01-20 |  |
 | [Moon River](https://open.spotify.com/track/4vHQWVCZuQuOmv14z7bLbQ) | [The Sweetgreens](https://open.spotify.com/artist/106pccUBSkmw5RR27vUT2N) | [Moon River](https://open.spotify.com/album/6Ad66s7PrIyltwAWkaSC2N) | 3:13 | 2020-11-05 | 2021-09-16 |
 | [Moonflower](https://open.spotify.com/track/3greL6Mj3t6woOW2M4Uz0i) | [Douglas Ruby Trio](https://open.spotify.com/artist/1viVBXkZrTMnLT6hsFhiMM) | [Moonflower](https://open.spotify.com/album/78b64x7dRmnKP7GpnHE8Su) | 3:04 | 2023-06-21 |  |
 | [Moonlight In Vermont](https://open.spotify.com/track/0xQtmSn12S3L8agMrnEoYh) | [Will Rivers Trio](https://open.spotify.com/artist/3Hre5sD1zqwVLFVZIhRuDD) | [Moonlight In Vermont](https://open.spotify.com/album/3XYrxBccjXCVDiFwgfc4Dd) | 2:48 | 2023-08-24 |  |
@@ -412,7 +414,7 @@
 | [Search For Peace](https://open.spotify.com/track/41pWty3Q37WlXCcXW4KfOA) | [CMC 3](https://open.spotify.com/artist/6GtEW3IyxraJqKi2h86JqC) | [Search For Peace](https://open.spotify.com/album/0mUxdj9cQf9wZMOr5Ordnc) | 5:06 | 2023-01-05 |  |
 | [Search For Peace](https://open.spotify.com/track/7J5rDtw1PoPvSdOMk4Pegu) | [Smokey's Jazz Trio](https://open.spotify.com/artist/3GeyvENO5rRkyhTImJ1H3C) | [Sonnymoon For Two](https://open.spotify.com/album/0CUYaMvduM11muV7KmZEj8) | 5:42 | 2020-10-20\* | 2021-02-04 |
 | [Secret Love](https://open.spotify.com/track/3Po01JZTAgyiiFN6YW6Ehe) | [Ola W Jansson](https://open.spotify.com/artist/4hoFdBmz4b5NykkV0SCEVz), [Kristoffer Wallin](https://open.spotify.com/artist/0mn754DaAJCH4nYkvB3IzT) | [Secret Love](https://open.spotify.com/album/58Eoe9FBSmruSNd9NfFk89) | 3:24 | 2020-10-20\* | 2020-11-25 |
-| [Secret Love](https://open.spotify.com/track/5IzJev1UfE4EKR0hnAhJJB) | [Sunshine Williams](https://open.spotify.com/artist/3HnqHjANigMf83FnZzXYbV) | [Secret Love](https://open.spotify.com/album/5lTOhWxMKBWP6jtSICnnAi) | 4:11 | 2020-10-20\* |  |
+| [Secret Love](https://open.spotify.com/track/5IzJev1UfE4EKR0hnAhJJB) | [Sunshine Williams](https://open.spotify.com/artist/3HnqHjANigMf83FnZzXYbV) | [Secret Love](https://open.spotify.com/album/5lTOhWxMKBWP6jtSICnnAi) | 4:11 | 2020-10-20\* | 2025-01-22 |
 | [See my point?](https://open.spotify.com/track/54Uz34WkQEC6peSFGj6inG) | [Tore Lundblad](https://open.spotify.com/artist/4zNremLzDLV4qylYjP0nR2) | [See my point?](https://open.spotify.com/album/6P5DXnehRkPNxSDgQetOvo) | 2:33 | 2023-09-22 |  |
 | [Send In the Clowns](https://open.spotify.com/track/6GiLNoFv4qkFEuqKpRWPgI) | [Michael Soriano Trio](https://open.spotify.com/artist/5vKwY2dJOzJUHjAZnL1D9F) | [Ain't Misbehavin'](https://open.spotify.com/album/5HcHDFMug9VdhA1bYXQiXe) | 3:26 | 2020-11-18 | 2020-12-09 |
 | [September in the Rain](https://open.spotify.com/track/7u21y9GiZwaBvqtOeNqh3t) | [Francesca Marr](https://open.spotify.com/artist/1eq350rdehuYyP5bQCAoEd) | [Peace](https://open.spotify.com/album/6KUjUDDb3AEXXFPeXyzy6b) | 3:22 | 2020-10-20\* | 2021-01-21 |
@@ -599,6 +601,7 @@
 | [You've Changed](https://open.spotify.com/track/7Imv2O9gkwpZJcjKEcSqZ1) | [Keith Jarrett Trio](https://open.spotify.com/artist/3OJGG2blZ0c3YTOMSKZaHj) | [The Out\-Of\-Towners](https://open.spotify.com/album/6iL4nDNg4CUEZGA1vj1IBV) | 8:13 | 2021-01-21 | 2022-10-16 |
 | [You've Changed](https://open.spotify.com/track/6aNOZF4gBajxxwyUDipZHR) | [Miles Henley](https://open.spotify.com/artist/1eBBS6WRUF3I0JGkLMHtNt) | [You’ve Changed](https://open.spotify.com/album/2PRzgBftdc0MsjSTdRo1la) | 4:31 | 2020-11-11 | 2021-01-21 |
 | [Young At Heart](https://open.spotify.com/track/141T43SRB9gNLTqG8WPvaz) | [Most Iverson](https://open.spotify.com/artist/7b4IdPtHjtIptOsszfiSy2) | [Young At Heart](https://open.spotify.com/album/1GuiQd3LtyPFOib1k9rJ0B) | 4:39 | 2023-10-06 |  |
+| [Zicrone Stone](https://open.spotify.com/track/6Yy7iCYbTrT4ZAtdOUosmF) | [Saphena Trio](https://open.spotify.com/artist/5G4s0oLrYmbqzsUoqJWyJd) | [Zicrone Stone](https://open.spotify.com/album/4AyfCQj3h1kE0ZRiFJEGMO) | 3:21 | 2025-01-20 |  |
 | [Älvan](https://open.spotify.com/track/2hgywy8NJicnetQ0IQBeaE) | [Robert Elovsson](https://open.spotify.com/artist/1qbdguQmvfReqeUnLezmAx) | [Älvan](https://open.spotify.com/album/1BBOsIErJVFsq1rZO8OBjt) | 3:22 | 2020-10-20\* | 2021-01-21 |
 
 \*This playlist was first scraped on 2020-10-20. Prior content cannot be recovered.

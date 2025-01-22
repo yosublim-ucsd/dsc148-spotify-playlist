@@ -1,12 +1,12 @@
 {
   "description": "The hottest new pop with all the drops. Cover: Faouzia & Alan Walker",
-  "num_followers": 233993,
+  "num_followers": 234190,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nkAwAAAAC1RQ9XiREuwnjajja6GJO/",
+  "snapshot_id": "Z4/IcgAAAACxAl/8Uv16XEteSnDcC0fk",
   "tracks": [
     {
       "added_at": "2025-01-10 05:00:42",
@@ -65,20 +65,24 @@
       "url": "https://open.spotify.com/track/2WGOTUuDEW2NxuJVFWvmcB"
     },
     {
-      "added_at": "2025-01-10 05:00:42",
+      "added_at": "2025-01-21 16:16:49",
       "album": {
-        "name": "When We Kiss",
-        "url": "https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L"
+        "name": "Say My Name (Remix)",
+        "url": "https://open.spotify.com/album/5zs9KJ2YsEjRzafvTdYTsk"
       },
       "artists": [
         {
-          "name": "Olly Alexander (Years & Years)",
-          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+          "name": "Morgan Seatree",
+          "url": "https://open.spotify.com/artist/0GInfEJXl2kGPhSsVqEqXh"
+        },
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
         }
       ],
-      "duration_ms": 212682,
-      "name": "When We Kiss",
-      "url": "https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI"
+      "duration_ms": 168000,
+      "name": "Say My Name - Remix",
+      "url": "https://open.spotify.com/track/6GOOcBV0wLoHrH5D9AWA32"
     },
     {
       "added_at": "2025-01-03 05:00:25",
@@ -103,6 +107,22 @@
       "duration_ms": 148135,
       "name": "Location",
       "url": "https://open.spotify.com/track/6Ilomcr9iLplsgAvZjHkJP"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "When We Kiss",
+        "url": "https://open.spotify.com/album/1GPY2MwnSFIT0zVyKaeO0L"
+      },
+      "artists": [
+        {
+          "name": "Olly Alexander (Years & Years)",
+          "url": "https://open.spotify.com/artist/5vBSrE1xujD2FXYRarbAXc"
+        }
+      ],
+      "duration_ms": 212682,
+      "name": "When We Kiss",
+      "url": "https://open.spotify.com/track/2OlFA7WMfBtr1JvONddJaI"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -161,6 +181,62 @@
       "url": "https://open.spotify.com/track/5INHyiY8jkVdXtOj9iQBuW"
     },
     {
+      "added_at": "2025-01-21 16:16:49",
+      "album": {
+        "name": "Into The Lights",
+        "url": "https://open.spotify.com/album/0wa0Mh26qyojk1pWnJglOd"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 147954,
+      "name": "Into The Lights",
+      "url": "https://open.spotify.com/track/3DflANsb2wjmuVyGWfQdxs"
+    },
+    {
+      "added_at": "2025-01-10 05:00:42",
+      "album": {
+        "name": "Nightmares",
+        "url": "https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF"
+      },
+      "artists": [
+        {
+          "name": "NEEA RIVER",
+          "url": "https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw"
+        }
+      ],
+      "duration_ms": 178040,
+      "name": "Nightmares",
+      "url": "https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln"
+    },
+    {
+      "added_at": "2025-01-17 05:00:51",
+      "album": {
+        "name": "Deeper Love",
+        "url": "https://open.spotify.com/album/6qHwqkS01qDWlrrwW5bTfy"
+      },
+      "artists": [
+        {
+          "name": "Martin Jensen",
+          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
+        },
+        {
+          "name": "The Stickmen Project",
+          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
+        },
+        {
+          "name": "Matt Steffanina",
+          "url": "https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8"
+        }
+      ],
+      "duration_ms": 140444,
+      "name": "Deeper Love",
+      "url": "https://open.spotify.com/track/22i2Jrth3s7Qq5dgrMLy8T"
+    },
+    {
       "added_at": "2025-01-17 05:00:51",
       "album": {
         "name": "If Eyes Could Kill (BBYBITES x ELOQ)",
@@ -215,46 +291,6 @@
       "duration_ms": 153718,
       "name": "IT girl",
       "url": "https://open.spotify.com/track/1VCpoArA175VRoz6lO2ueh"
-    },
-    {
-      "added_at": "2025-01-17 05:00:51",
-      "album": {
-        "name": "Deeper Love",
-        "url": "https://open.spotify.com/album/6qHwqkS01qDWlrrwW5bTfy"
-      },
-      "artists": [
-        {
-          "name": "Martin Jensen",
-          "url": "https://open.spotify.com/artist/4ehtJnVumNf6xzSCDk8aLB"
-        },
-        {
-          "name": "The Stickmen Project",
-          "url": "https://open.spotify.com/artist/13wroZC00C9ix8fUR0JvaY"
-        },
-        {
-          "name": "Matt Steffanina",
-          "url": "https://open.spotify.com/artist/4KOoOdorXekT3hIgRQCqi8"
-        }
-      ],
-      "duration_ms": 140444,
-      "name": "Deeper Love",
-      "url": "https://open.spotify.com/track/22i2Jrth3s7Qq5dgrMLy8T"
-    },
-    {
-      "added_at": "2025-01-10 05:00:42",
-      "album": {
-        "name": "Nightmares",
-        "url": "https://open.spotify.com/album/7Co13bwCaorFNPzRvqxISF"
-      },
-      "artists": [
-        {
-          "name": "NEEA RIVER",
-          "url": "https://open.spotify.com/artist/5jemNidRiClsst6gsciQzw"
-        }
-      ],
-      "duration_ms": 178040,
-      "name": "Nightmares",
-      "url": "https://open.spotify.com/track/2vLNQbj3xiNR342WoZXpln"
     },
     {
       "added_at": "2025-01-17 05:00:51",
@@ -825,22 +861,6 @@
       "url": "https://open.spotify.com/track/2wi2zCS4dz5a3yOcZ1u3Hd"
     },
     {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Now That I'm Gone",
-        "url": "https://open.spotify.com/album/5719mUavSnpK65Vr317xbK"
-      },
-      "artists": [
-        {
-          "name": "ALT\u00c9GO",
-          "url": "https://open.spotify.com/artist/2f1gRV8q7Wua3x7dkoWrbS"
-        }
-      ],
-      "duration_ms": 150399,
-      "name": "Now That I'm Gone",
-      "url": "https://open.spotify.com/track/17dmcmAu7h2coDto5sNHeT"
-    },
-    {
       "added_at": "2024-11-15 05:00:00",
       "album": {
         "name": "Hold On Me",
@@ -931,26 +951,6 @@
       "duration_ms": 172945,
       "name": "Help Me Lose My Mind",
       "url": "https://open.spotify.com/track/0yKlFaSKtA5wdF8pWgyoo1"
-    },
-    {
-      "added_at": "2024-11-29 05:00:00",
-      "album": {
-        "name": "Fantasia",
-        "url": "https://open.spotify.com/album/66tZ1KSFNMz2ljeYtDVaKp"
-      },
-      "artists": [
-        {
-          "name": "K-391",
-          "url": "https://open.spotify.com/artist/6pWcSL9wSJZQ9ne0TnhdWr"
-        },
-        {
-          "name": "Syn Cole",
-          "url": "https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH"
-        }
-      ],
-      "duration_ms": 218359,
-      "name": "Fantasia",
-      "url": "https://open.spotify.com/track/1RdNdZqWUBpJichorZiGfl"
     },
     {
       "added_at": "2024-11-08 05:00:00",

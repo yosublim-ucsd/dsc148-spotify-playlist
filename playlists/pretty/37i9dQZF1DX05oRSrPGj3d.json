@@ -1,6 +1,6 @@
 {
   "description": "Today's Texas country featuring trending tracks and classic hits from Lonestar State icons and rising stars. Cover: Willie Nelson",
-  "num_followers": 273235,
+  "num_followers": 273253,
   "original_name": "Heart Of Texas",
   "owner": {
     "name": "Spotify",
@@ -479,42 +479,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Goodbye Normal Street",
-        "url": "https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 301000,
-      "name": "Good Lord Lorrie",
-      "url": "https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
-        "name": "If You Were Mine",
-        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 219882,
-      "name": "If You Were Mine",
-      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "The Panhandlers",
         "url": "https://open.spotify.com/album/4ZTVXx7vjRCbLhIUteip4R"
       },
@@ -547,6 +511,42 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
+        "name": "If You Were Mine",
+        "url": "https://open.spotify.com/album/0FrbfHvjj5olr9w7dUeDrZ"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 219882,
+      "name": "If You Were Mine",
+      "url": "https://open.spotify.com/track/1GL0nollq8IdnV4tfYtEZT"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Goodbye Normal Street",
+        "url": "https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 301000,
+      "name": "Good Lord Lorrie",
+      "url": "https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
         "name": "I Believe In You",
         "url": "https://open.spotify.com/album/5FG0ZnaPrdDqlHpu9dAspG"
       },
@@ -575,22 +575,6 @@
       "duration_ms": 287266,
       "name": "Cowboy Take Me Away",
       "url": "https://open.spotify.com/track/3rXCZRMiMZp0feGcYXpwYX"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
-        "name": "Diamonds & Gasoline",
-        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 252480,
-      "name": "Long Hot Summer Day",
-      "url": "https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -675,22 +659,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Diamonds & Gasoline",
-        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 234400,
-      "name": "Diamonds & Gasoline",
-      "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "She's Like Texas",
         "url": "https://open.spotify.com/album/3GQWEiCkBX2tyr0D1Y60au"
       },
@@ -703,6 +671,22 @@
       "duration_ms": 235253,
       "name": "She's Like Texas",
       "url": "https://open.spotify.com/track/7k0ahlHosIWblaaIsEqJ8M"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 252480,
+      "name": "Long Hot Summer Day",
+      "url": "https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -739,22 +723,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Pretty Heart",
-        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
-      },
-      "artists": [
-        {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
-        }
-      ],
-      "duration_ms": 244797,
-      "name": "Pretty Heart",
-      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Green",
         "url": "https://open.spotify.com/album/0CMxHLevRj2JnccItXTYcA"
       },
@@ -767,6 +735,22 @@
       "duration_ms": 216146,
       "name": "Green",
       "url": "https://open.spotify.com/track/5Uf1Lw638mmsPEQFRmCUYq"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Pretty Heart",
+        "url": "https://open.spotify.com/album/0S1UncFoVie2V0HKsf0G1u"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 244797,
+      "name": "Pretty Heart",
+      "url": "https://open.spotify.com/track/6vC90OOjZR165Hw8CpsqEm"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -819,22 +803,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Diamonds & Gasoline",
-        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
-      },
-      "artists": [
-        {
-          "name": "Turnpike Troubadours",
-          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
-        }
-      ],
-      "duration_ms": 289653,
-      "name": "7 & 7",
-      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Rose Queen",
         "url": "https://open.spotify.com/album/0owdopMgxzzssx6JVV86s5"
       },
@@ -847,6 +815,22 @@
       "duration_ms": 256760,
       "name": "She Likes the Beatles",
       "url": "https://open.spotify.com/track/38iGqJQPZcTYNx6bdR5YWC"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 234400,
+      "name": "Diamonds & Gasoline",
+      "url": "https://open.spotify.com/track/2nAHmQV9WKA6c1emQilxih"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -883,22 +867,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "George Jones - 16 Biggest Hits",
-        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
-      },
-      "artists": [
-        {
-          "name": "George Jones",
-          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
-        }
-      ],
-      "duration_ms": 197400,
-      "name": "He Stopped Loving Her Today",
-      "url": "https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Pontiac",
         "url": "https://open.spotify.com/album/5vUis8FOVDqezxkJke9BOw"
       },
@@ -915,6 +883,22 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
+        "name": "George Jones - 16 Biggest Hits",
+        "url": "https://open.spotify.com/album/7poo7LkjfXMcKLK8lAkD1p"
+      },
+      "artists": [
+        {
+          "name": "George Jones",
+          "url": "https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5"
+        }
+      ],
+      "duration_ms": 197400,
+      "name": "He Stopped Loving Her Today",
+      "url": "https://open.spotify.com/track/4BcrWCZPXuoGU0SnAsJW1s"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
         "name": "Wicked Twisted Road",
         "url": "https://open.spotify.com/album/7GOAyWeR97lIJ5kgHwRWFC"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 205760,
       "name": "Wicked Twisted Road",
       "url": "https://open.spotify.com/track/22HHKW1Z3NhxUFV0tOV6Iv"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Diamonds & Gasoline",
+        "url": "https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p"
+      },
+      "artists": [
+        {
+          "name": "Turnpike Troubadours",
+          "url": "https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03"
+        }
+      ],
+      "duration_ms": 289653,
+      "name": "7 & 7",
+      "url": "https://open.spotify.com/track/62EcdBCqjB62CxnhgBkkJT"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -983,18 +983,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Life Of The Party",
-        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
+        "name": "Shotgun Willie",
+        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
       },
       "artists": [
         {
-          "name": "Charlie Robison",
-          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
+          "name": "Willie Nelson",
+          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
         }
       ],
-      "duration_ms": 262866,
-      "name": "My Hometown",
-      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
+      "duration_ms": 157053,
+      "name": "Shotgun Willie",
+      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Shotgun Willie",
-        "url": "https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y"
+        "name": "Life Of The Party",
+        "url": "https://open.spotify.com/album/5pVPgCe1z46QAgA0vasY7N"
       },
       "artists": [
         {
-          "name": "Willie Nelson",
-          "url": "https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3"
+          "name": "Charlie Robison",
+          "url": "https://open.spotify.com/artist/1VGRi6hlsYcOhKut02Tqkt"
         }
       ],
-      "duration_ms": 157053,
-      "name": "Shotgun Willie",
-      "url": "https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD"
+      "duration_ms": 262866,
+      "name": "My Hometown",
+      "url": "https://open.spotify.com/track/13WxL3gtXqI3CI7TlYDLqP"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1283,22 +1283,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Any Night in Texas",
-        "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
-      },
-      "artists": [
-        {
-          "name": "Jon Wolfe",
-          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
-        }
-      ],
-      "duration_ms": 238666,
-      "name": "Boots on a Dance Floor",
-      "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Tramp On Your Street",
         "url": "https://open.spotify.com/album/4VZK4PLoIdugyfsg3ZHon0"
       },
@@ -1315,18 +1299,34 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "All Night Party",
-        "url": "https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR"
+        "name": "Any Night in Texas",
+        "url": "https://open.spotify.com/album/7zfyys4Or3HXPmGggCrDUY"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Jon Wolfe",
+          "url": "https://open.spotify.com/artist/7fmSLVnnxwwMYj8Wc0rKyp"
         }
       ],
-      "duration_ms": 208000,
-      "name": "Kiss Me",
-      "url": "https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0"
+      "duration_ms": 238666,
+      "name": "Boots on a Dance Floor",
+      "url": "https://open.spotify.com/track/2xD86KrQf1DrMuxu5h4vUT"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Rest Of My Life",
+        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
+      },
+      "artists": [
+        {
+          "name": "Parker McCollum",
+          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+        }
+      ],
+      "duration_ms": 174453,
+      "name": "Rest Of My Life",
+      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1347,18 +1347,18 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Rest Of My Life",
-        "url": "https://open.spotify.com/album/3fOdo5NTgvDRnGtw70Eekp"
+        "name": "All Night Party",
+        "url": "https://open.spotify.com/album/6gMltpGfgzDbsbfYUOeXJR"
       },
       "artists": [
         {
-          "name": "Parker McCollum",
-          "url": "https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ"
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
         }
       ],
-      "duration_ms": 174453,
-      "name": "Rest Of My Life",
-      "url": "https://open.spotify.com/track/2fhgFd9pEvTUhyBacCrPOn"
+      "duration_ms": 208000,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/4l0L2GAwa3Z2MFGQyolVf0"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1411,6 +1411,22 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
+        "name": "Billy Joe Shaver",
+        "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
+      },
+      "artists": [
+        {
+          "name": "Billy Joe Shaver",
+          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "I Been to Georgia on a Fast Train",
+      "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
         "name": "No Vacancy",
         "url": "https://open.spotify.com/album/4FLvEcu5X5ZUzsWP3Lbh8O"
       },
@@ -1443,38 +1459,6 @@
     {
       "added_at": "2024-07-05 20:39:25",
       "album": {
-        "name": "Conviction",
-        "url": "https://open.spotify.com/album/5eZc2QcvtO6kHyhKqKdinL"
-      },
-      "artists": [
-        {
-          "name": "Brandon Rhyder",
-          "url": "https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD"
-        }
-      ],
-      "duration_ms": 244786,
-      "name": "Back Roads",
-      "url": "https://open.spotify.com/track/2ZnA5zyjPzku5AVV3UCBI9"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
-        "name": "Billy Joe Shaver",
-        "url": "https://open.spotify.com/album/2fkWfYbsj2safWkNU2PCT9"
-      },
-      "artists": [
-        {
-          "name": "Billy Joe Shaver",
-          "url": "https://open.spotify.com/artist/05FEKb23HHED5ZsWmKo8kz"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "I Been to Georgia on a Fast Train",
-      "url": "https://open.spotify.com/track/2UicNzPoIwYvu08vVFzRTP"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
         "name": "Brand New Me",
         "url": "https://open.spotify.com/album/7A1EmHofXwlpTXu8w7xVsk"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 189413,
       "name": "Lonesome",
       "url": "https://open.spotify.com/track/6Ca9qN2UcEgenWa5px1HyR"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Conviction",
+        "url": "https://open.spotify.com/album/5eZc2QcvtO6kHyhKqKdinL"
+      },
+      "artists": [
+        {
+          "name": "Brandon Rhyder",
+          "url": "https://open.spotify.com/artist/7E6MNnNmJCt5ag3vtTvHiD"
+        }
+      ],
+      "duration_ms": 244786,
+      "name": "Back Roads",
+      "url": "https://open.spotify.com/track/2ZnA5zyjPzku5AVV3UCBI9"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1519,22 +1519,6 @@
       "duration_ms": 248440,
       "name": "The Love That We Need",
       "url": "https://open.spotify.com/track/31dEh1OeZGv61RZzDIixue"
-    },
-    {
-      "added_at": "2024-07-05 20:39:25",
-      "album": {
-        "name": "Three Days",
-        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
-      },
-      "artists": [
-        {
-          "name": "Pat Green",
-          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Texas On My Mind",
-      "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
     },
     {
       "added_at": "2024-07-05 20:39:25",
@@ -1583,6 +1567,22 @@
       "duration_ms": 202996,
       "name": "Grow Old with Me",
       "url": "https://open.spotify.com/track/5Z871eY8ziD9AXw3EM9ymx"
+    },
+    {
+      "added_at": "2024-07-05 20:39:25",
+      "album": {
+        "name": "Three Days",
+        "url": "https://open.spotify.com/album/2lGigUytoUfyQOWqA5DIC4"
+      },
+      "artists": [
+        {
+          "name": "Pat Green",
+          "url": "https://open.spotify.com/artist/0EhgpjUqiIIQhM6ZRF4kXX"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Texas On My Mind",
+      "url": "https://open.spotify.com/track/1q2lZdxH80D9UwM57J4pzX"
     },
     {
       "added_at": "2024-07-05 20:39:25",

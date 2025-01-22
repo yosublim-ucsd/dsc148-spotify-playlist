@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Ray Vaughan. The essential tracks, all in one playlist.",
-  "num_followers": 159001,
+  "num_followers": 159029,
   "original_name": "This Is Stevie Ray Vaughan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4xAgAAAAADozFTUhcyUqQoa0vwxTVoc",
+  "snapshot_id": "Z42SAAAAAAB4C+Gp0XLawbYXiqDa43/I",
   "tracks": [
     {
       "added_at": null,
@@ -455,22 +455,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Sky Is Crying",
-        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 236173,
-      "name": "Chitlins Con Carne",
-      "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 490006,
       "name": "Born Under A Bad Sign - Remastered 2024",
       "url": "https://open.spotify.com/track/2ngzPgN0cg71BHiRrhglgq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Sky Is Crying",
+        "url": "https://open.spotify.com/album/7pBJuCKTNKFLf6JztTYv6B"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 236173,
+      "name": "Chitlins Con Carne",
+      "url": "https://open.spotify.com/track/6sbZlxSYVVLce7eGP3rxkl"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 167773,
-      "name": "Lookin' out the Window",
-      "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -555,6 +539,22 @@
       "duration_ms": 294614,
       "name": "Ask Me No Questions - Remastered 2024",
       "url": "https://open.spotify.com/track/4UKaGgbGyCMJSg6HhfVCvL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 167773,
+      "name": "Lookin' out the Window",
+      "url": "https://open.spotify.com/track/221wgBBRPtKIBgpjGvMWUD"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live Alive",
-        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 277306,
-      "name": "Willie The Wimp - Live",
-      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -620,9 +604,25 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 1402620,
-      "name": "I'm Gonna Move To The Outskirts Of Town - Remastered 2024",
-      "url": "https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf"
+      "duration_ms": 75711,
+      "name": "Old Times - Remastered 2024",
+      "url": "https://open.spotify.com/track/10jdo4Vs80PeuDHzWQUirD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live Alive",
+        "url": "https://open.spotify.com/album/7pAjlt1BWH880YZhpT1OyW"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 277306,
+      "name": "Willie The Wimp - Live",
+      "url": "https://open.spotify.com/track/0wXyJ9NFo0NQmcE43xtMy5"
     },
     {
       "added_at": null,
@@ -659,22 +659,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soul to Soul",
-        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
-      },
-      "artists": [
-        {
-          "name": "Stevie Ray Vaughan",
-          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
-        }
-      ],
-      "duration_ms": 323560,
-      "name": "Say What!",
-      "url": "https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In Session (Deluxe Edition / Remastered 2024)",
         "url": "https://open.spotify.com/album/6uSHXKhCj58I8IgbjrxtV2"
       },
@@ -688,15 +672,15 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 75711,
-      "name": "Old Times - Remastered 2024",
-      "url": "https://open.spotify.com/track/10jdo4Vs80PeuDHzWQUirD"
+      "duration_ms": 1402620,
+      "name": "I'm Gonna Move To The Outskirts Of Town - Remastered 2024",
+      "url": "https://open.spotify.com/track/0jDyUtoWaNlUJoX0sdwsBf"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Soul to Soul",
+        "url": "https://open.spotify.com/album/2WYvNaZ68vRmun6Jy0Qp1e"
       },
       "artists": [
         {
@@ -704,9 +688,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
-      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
+      "duration_ms": 323560,
+      "name": "Say What!",
+      "url": "https://open.spotify.com/track/3Xow4d1ABlyB9GevG9xfeS"
     },
     {
       "added_at": null,
@@ -727,8 +711,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live at Carnegie Hall",
-        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
       },
       "artists": [
         {
@@ -736,9 +720,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 188533,
-      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
-      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
+      "duration_ms": 228800,
+      "name": "Shake for Me - Live at Steamboat 1874, Austin, TX - April 1980",
+      "url": "https://open.spotify.com/track/0LFsHodEUTDEvoRlreOaRe"
     },
     {
       "added_at": null,
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
-        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+        "name": "Live at Carnegie Hall",
+        "url": "https://open.spotify.com/album/5Q0OpLSi7q2fKcHQHVeBGd"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
         }
       ],
-      "duration_ms": 247200,
-      "name": "Give Me Back My Wig",
-      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
+      "duration_ms": 188533,
+      "name": "Letter to My Girlfriend - Live at Carnegie Hall, New York, NY - October 1984",
+      "url": "https://open.spotify.com/track/0Vxtc6GsFXlhRiJZ2IRG06"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 229000,
       "name": "Live Another Day - Live at Steamboat 1874, Austin, TX - April 1980",
       "url": "https://open.spotify.com/track/4dtr7tpZYeYgst9ZP1Z5r0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Stevie Ray Vaughan And Double Trouble",
+        "url": "https://open.spotify.com/album/4dShhtGUjPunYS95jHOm3r"
+      },
+      "artists": [
+        {
+          "name": "Stevie Ray Vaughan",
+          "url": "https://open.spotify.com/artist/5fsDcuclIe8ZiBD5P787K1"
+        }
+      ],
+      "duration_ms": 247200,
+      "name": "Give Me Back My Wig",
+      "url": "https://open.spotify.com/track/61DnwvyCzQXWLK29HVfgJO"
     }
   ],
   "unique_name": "This Is Stevie Ray Vaughan",

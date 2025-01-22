@@ -564,7 +564,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 154250,
       "name": "Ashtray",
       "url": "https://open.spotify.com/track/7acx61pQgmxeYw7FBh4DYX"
@@ -740,6 +740,28 @@
       "duration_ms": 148587,
       "name": "BLING",
       "url": "https://open.spotify.com/track/1K3WDnJwzEQUwH0YbuVlNo"
+    },
+    {
+      "album": {
+        "name": "BLKN",
+        "url": "https://open.spotify.com/album/09hU9mWpc5dbEGvegmRKzL"
+      },
+      "artists": [
+        {
+          "name": "Colt",
+          "url": "https://open.spotify.com/artist/1f14QOvizCQAUSK9XziNPH"
+        },
+        {
+          "name": "Yuridope",
+          "url": "https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201176,
+      "name": "BLKN",
+      "url": "https://open.spotify.com/track/2Hz7cjuVTYAaydpHg60g9H"
     },
     {
       "album": {
@@ -1850,7 +1872,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 190000,
       "name": "Highschool",
       "url": "https://open.spotify.com/track/29TD6wm2gYpqNlKim9ni88"
@@ -2306,6 +2328,28 @@
       "duration_ms": 161112,
       "name": "Kung Tayo'y Magkasama",
       "url": "https://open.spotify.com/track/6R1yOtE8wWZCezNDMGkd71"
+    },
+    {
+      "album": {
+        "name": "Kwentuhan",
+        "url": "https://open.spotify.com/album/5NZI0BD3B7Gs3Ouy14qp9u"
+      },
+      "artists": [
+        {
+          "name": "Guddhist Gunatita",
+          "url": "https://open.spotify.com/artist/4OLOVZJrO7dUqLrDyxoPOL"
+        },
+        {
+          "name": "Nateman",
+          "url": "https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205714,
+      "name": "Kwentuhan",
+      "url": "https://open.spotify.com/track/3Um2ftIhNgD2YpqhlMgd69"
     },
     {
       "album": {
@@ -3428,7 +3472,7 @@
       ],
       "date_added": "2024-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 174025,
       "name": "Real Love",
       "url": "https://open.spotify.com/track/2rHlkGQAXF0Z0mKWsC38d0"
@@ -3494,7 +3538,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 242000,
       "name": "SA'YO LANG",
       "url": "https://open.spotify.com/track/1DQdAQW9QxjPqLm1cFC6EL"
@@ -4189,6 +4233,24 @@
     },
     {
       "album": {
+        "name": "TASTEMAKER",
+        "url": "https://open.spotify.com/album/6kFn7QZa5iXBCQILkn5WIS"
+      },
+      "artists": [
+        {
+          "name": "Alisson Shore",
+          "url": "https://open.spotify.com/artist/4HPuFCMUiNcV4f3ew0flbZ"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187317,
+      "name": "TASTEMAKER",
+      "url": "https://open.spotify.com/track/5I6z5aTiHvsUH5Ra7USWq1"
+    },
+    {
+      "album": {
         "name": "TATAWAG ULIT",
         "url": "https://open.spotify.com/album/0kYMgBAgt4Qba0tEAdxA9w"
       },
@@ -4694,6 +4756,28 @@
       "duration_ms": 185476,
       "name": "Yes Hello",
       "url": "https://open.spotify.com/track/77M3LJt3ldz27LwszuuDfH"
+    },
+    {
+      "album": {
+        "name": "YG Gang",
+        "url": "https://open.spotify.com/album/4W2BjJnvqOtvyUmioI06e3"
+      },
+      "artists": [
+        {
+          "name": "Shanti Dope",
+          "url": "https://open.spotify.com/artist/6ogIjp0fsbUxlqy9q2rvrT"
+        },
+        {
+          "name": "Trapp",
+          "url": "https://open.spotify.com/artist/3avVr0OAf0chmCUFAPZBsM"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197419,
+      "name": "YG Gang",
+      "url": "https://open.spotify.com/track/4WMoQFFvkK16nBH3PWFSXu"
     },
     {
       "album": {

@@ -2155,6 +2155,28 @@
     },
     {
       "album": {
+        "name": "Arsonist",
+        "url": "https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln"
+      },
+      "artists": [
+        {
+          "name": "NOME.",
+          "url": "https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93"
+        },
+        {
+          "name": "Kris Kiss",
+          "url": "https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135692,
+      "name": "Arsonist",
+      "url": "https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36"
+    },
+    {
+      "album": {
         "name": "Aruda",
         "url": "https://open.spotify.com/album/3WWiy18arnZpiJz727FSMI"
       },

@@ -7073,6 +7073,24 @@
     },
     {
       "album": {
+        "name": "Open Mind",
+        "url": "https://open.spotify.com/album/0dcEMhlVSE5SgFgL7wJ5OB"
+      },
+      "artists": [
+        {
+          "name": "Iris Fairchild",
+          "url": "https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122105,
+      "name": "Open Mind",
+      "url": "https://open.spotify.com/track/7lz4IM1oPgxaCvs1R0xTHn"
+    },
+    {
+      "album": {
         "name": "Open Wings To Fly",
         "url": "https://open.spotify.com/album/5Jv2ENPuHQZ2d5Eq8w6FIF"
       },
@@ -7808,6 +7826,24 @@
       "duration_ms": 131000,
       "name": "Quiet Nights",
       "url": "https://open.spotify.com/track/4mHCaIQknzBBYYijiJsIOx"
+    },
+    {
+      "album": {
+        "name": "Quiet Suns",
+        "url": "https://open.spotify.com/album/1Bmt8Tgb1ofB11VNUGLZzc"
+      },
+      "artists": [
+        {
+          "name": "Skaresn\u00f8",
+          "url": "https://open.spotify.com/artist/6hLr4Lg3n1F95Xmzn8ZcnA"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131374,
+      "name": "Quiet Suns",
+      "url": "https://open.spotify.com/track/14bchJRy9GEEC8Ctb9YBPr"
     },
     {
       "album": {

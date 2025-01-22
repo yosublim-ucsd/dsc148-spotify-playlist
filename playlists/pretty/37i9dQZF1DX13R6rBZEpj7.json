@@ -1,6 +1,6 @@
 {
   "description": "Turn up the volume for some filthy bassline! ",
-  "num_followers": 239655,
+  "num_followers": 239800,
   "original_name": "Bassline Bangers",
   "owner": {
     "name": "Spotify",
@@ -467,22 +467,6 @@
     {
       "added_at": "2025-01-16 16:40:47",
       "album": {
-        "name": "Y'all Ready For Dis",
-        "url": "https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv"
-      },
-      "artists": [
-        {
-          "name": "Y U QT",
-          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
-        }
-      ],
-      "duration_ms": 197142,
-      "name": "Y'all Ready For Dis",
-      "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"
-    },
-    {
-      "added_at": "2025-01-16 16:40:47",
-      "album": {
         "name": "P.S Remix (2023)",
         "url": "https://open.spotify.com/album/5UhGiK7k9bYxxFofNMdVft"
       },
@@ -499,6 +483,22 @@
       "duration_ms": 204000,
       "name": "P.S 2023 (Bassline Remix)",
       "url": "https://open.spotify.com/track/1rdmcGRNmD7qfNb2Q9Gcxt"
+    },
+    {
+      "added_at": "2025-01-16 16:40:47",
+      "album": {
+        "name": "Y'all Ready For Dis",
+        "url": "https://open.spotify.com/album/5Xh9XIcuBBkatdY6KMzCfv"
+      },
+      "artists": [
+        {
+          "name": "Y U QT",
+          "url": "https://open.spotify.com/artist/0tpkcjoMduNpT0FnpNYZiV"
+        }
+      ],
+      "duration_ms": 197142,
+      "name": "Y'all Ready For Dis",
+      "url": "https://open.spotify.com/track/02dS31GgrNuZzwVOtf5uom"
     },
     {
       "added_at": "2025-01-16 16:40:47",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2025-01-16 16:40:47",
       "album": {
-        "name": "Ruins",
-        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
-      },
-      "artists": [
-        {
-          "name": "Sisko",
-          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
-        },
-        {
-          "name": "3000 Bass",
-          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
-        }
-      ],
-      "duration_ms": 237293,
-      "name": "Ruins",
-      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
-    },
-    {
-      "added_at": "2025-01-16 16:40:47",
-      "album": {
         "name": "Dapper",
         "url": "https://open.spotify.com/album/2DMFSPlw8u2uqDC3YuHFXj"
       },
@@ -1119,6 +1099,26 @@
     {
       "added_at": "2025-01-16 16:40:47",
       "album": {
+        "name": "Ruins",
+        "url": "https://open.spotify.com/album/01BZZCEXgzCdHDx8fWcVpv"
+      },
+      "artists": [
+        {
+          "name": "Sisko",
+          "url": "https://open.spotify.com/artist/0helc55eMzPEXyUqV0qZt3"
+        },
+        {
+          "name": "3000 Bass",
+          "url": "https://open.spotify.com/artist/6J3C2BgdZTvYCIoCTzybDM"
+        }
+      ],
+      "duration_ms": 237293,
+      "name": "Ruins",
+      "url": "https://open.spotify.com/track/7ADvgniUzfEEh2eTqgpkz8"
+    },
+    {
+      "added_at": "2025-01-16 16:40:47",
+      "album": {
         "name": "Wavelord Bizniz",
         "url": "https://open.spotify.com/album/4fSERdJxrStbV6mpIhUonK"
       },
@@ -1135,26 +1135,6 @@
       "duration_ms": 280656,
       "name": "Wavelord Bizniz",
       "url": "https://open.spotify.com/track/2rDXW6HxRe1r6MTvzbvB4w"
-    },
-    {
-      "added_at": "2025-01-16 16:40:47",
-      "album": {
-        "name": "Gloom EP",
-        "url": "https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y"
-      },
-      "artists": [
-        {
-          "name": "Alix Perez",
-          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
-        },
-        {
-          "name": "Visages",
-          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
-        }
-      ],
-      "duration_ms": 285203,
-      "name": "Circadian",
-      "url": "https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE"
     },
     {
       "added_at": "2025-01-16 16:40:47",
@@ -1199,18 +1179,22 @@
     {
       "added_at": "2025-01-16 16:40:47",
       "album": {
-        "name": "IMMACULATE SKANK",
-        "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
+        "name": "Gloom EP",
+        "url": "https://open.spotify.com/album/7CpHJJpjV19zwYBcCKsO3y"
       },
       "artists": [
         {
-          "name": "bullet tooth",
-          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+          "name": "Alix Perez",
+          "url": "https://open.spotify.com/artist/4e6pQ61gYReORJoXcrQH1Z"
+        },
+        {
+          "name": "Visages",
+          "url": "https://open.spotify.com/artist/1QEJm4mWKmrboH7if0CYoL"
         }
       ],
-      "duration_ms": 222500,
-      "name": "IMMACULATE SKANK",
-      "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
+      "duration_ms": 285203,
+      "name": "Circadian",
+      "url": "https://open.spotify.com/track/0jp8tGB1EO9QinogmiwrJE"
     },
     {
       "added_at": "2025-01-16 16:40:47",
@@ -1231,6 +1215,42 @@
       "duration_ms": 174857,
       "name": "Alla Dem Bad",
       "url": "https://open.spotify.com/track/4zYsCeHjJYwXJxWzR8AlNN"
+    },
+    {
+      "added_at": "2025-01-16 16:40:47",
+      "album": {
+        "name": "IMMACULATE SKANK",
+        "url": "https://open.spotify.com/album/6559VpMe0iH33RoMMwHrdm"
+      },
+      "artists": [
+        {
+          "name": "bullet tooth",
+          "url": "https://open.spotify.com/artist/4KWIkeAdOJfvUgXSq0bEWC"
+        }
+      ],
+      "duration_ms": 222500,
+      "name": "IMMACULATE SKANK",
+      "url": "https://open.spotify.com/track/678ey4hhnfoCIRYbQ9dTwc"
+    },
+    {
+      "added_at": "2025-01-16 16:40:47",
+      "album": {
+        "name": "Songs Of Praise",
+        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
+      },
+      "artists": [
+        {
+          "name": "Silva Bumpa",
+          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
+        },
+        {
+          "name": "Capo Lee",
+          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
+        }
+      ],
+      "duration_ms": 176000,
+      "name": "Songs Of Praise - Radio Edit",
+      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
     },
     {
       "added_at": "2025-01-16 16:40:47",
@@ -1271,26 +1291,6 @@
       "duration_ms": 235714,
       "name": "Energy Gang",
       "url": "https://open.spotify.com/track/2qVfSZfHllkXPnmDP8CoK4"
-    },
-    {
-      "added_at": "2025-01-16 16:40:47",
-      "album": {
-        "name": "Songs Of Praise",
-        "url": "https://open.spotify.com/album/5inXKTunqtZdcvaWbvXATv"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Capo Lee",
-          "url": "https://open.spotify.com/artist/4KKnsk3tGkfwChmUmmJ0kh"
-        }
-      ],
-      "duration_ms": 176000,
-      "name": "Songs Of Praise - Radio Edit",
-      "url": "https://open.spotify.com/track/5yScrYiU6UpA2UgeS8PFCP"
     },
     {
       "added_at": "2025-01-16 16:40:47",
@@ -1363,22 +1363,6 @@
     {
       "added_at": "2025-01-16 16:40:47",
       "album": {
-        "name": "Affiliation",
-        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
-      },
-      "artists": [
-        {
-          "name": "Bermal",
-          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
-        }
-      ],
-      "duration_ms": 190437,
-      "name": "Affiliation",
-      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
-    },
-    {
-      "added_at": "2025-01-16 16:40:47",
-      "album": {
         "name": "All Night",
         "url": "https://open.spotify.com/album/6BGQEGytHSd4axFauI67A8"
       },
@@ -1391,6 +1375,22 @@
       "duration_ms": 228923,
       "name": "All Night",
       "url": "https://open.spotify.com/track/0J4ecx7h9B73ihSLT88YXm"
+    },
+    {
+      "added_at": "2025-01-16 16:40:47",
+      "album": {
+        "name": "Affiliation",
+        "url": "https://open.spotify.com/album/6viQ5GlaaPHbGLPfIYcEfU"
+      },
+      "artists": [
+        {
+          "name": "Bermal",
+          "url": "https://open.spotify.com/artist/2I50LWeOqOFm3bagM840Nt"
+        }
+      ],
+      "duration_ms": 190437,
+      "name": "Affiliation",
+      "url": "https://open.spotify.com/track/74OHEZCii7GYJqqEIHPYb0"
     }
   ],
   "unique_name": "Bassline Bangers",

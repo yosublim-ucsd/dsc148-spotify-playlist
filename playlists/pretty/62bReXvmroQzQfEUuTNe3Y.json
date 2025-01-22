@@ -1,12 +1,12 @@
 {
   "description": "Chill tracks to vibe or dance to for 2025. Updated weekly. | \ud83c\udf08 <a href=\"https://www.instagram.com/selectedofficial\">Instagram</a>",
-  "num_followers": 1508895,
+  "num_followers": 1510374,
   "original_name": "Chill House 2025",
   "owner": {
     "name": "selected.",
     "url": "https://open.spotify.com/user/selectedbase"
   },
-  "snapshot_id": "AAAQJUqB8LyfC9sdqLIHjct1Z7QsBkoj",
+  "snapshot_id": "AAAQKw0m8A/mQ7za56n1liVkU6HIxdJn",
   "tracks": [
     {
       "added_at": "2025-01-17 10:48:06",
@@ -227,6 +227,26 @@
     {
       "added_at": "2025-01-17 10:48:06",
       "album": {
+        "name": "Inside Out",
+        "url": "https://open.spotify.com/album/0zY0NnHouQOIqdf6uJjNiD"
+      },
+      "artists": [
+        {
+          "name": "Astrality",
+          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
+        },
+        {
+          "name": "Tailor",
+          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
+        }
+      ],
+      "duration_ms": 240030,
+      "name": "Inside Out",
+      "url": "https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE"
+    },
+    {
+      "added_at": "2025-01-17 10:48:06",
+      "album": {
         "name": "Weightless (jamesjamesjames Remix)",
         "url": "https://open.spotify.com/album/6Sv0gyjKWyrdij1ToQG6f0"
       },
@@ -351,26 +371,6 @@
       "duration_ms": 204873,
       "name": "Cherish",
       "url": "https://open.spotify.com/track/4ZYL4h2sQEWVBXoSuLcMEA"
-    },
-    {
-      "added_at": "2025-01-17 10:48:06",
-      "album": {
-        "name": "Inside Out",
-        "url": "https://open.spotify.com/album/0zY0NnHouQOIqdf6uJjNiD"
-      },
-      "artists": [
-        {
-          "name": "Astrality",
-          "url": "https://open.spotify.com/artist/6KGv020mJkIjQH5YPDSBcZ"
-        },
-        {
-          "name": "Tailor",
-          "url": "https://open.spotify.com/artist/2Qf8oz2NeIs8FVCJSsXkWH"
-        }
-      ],
-      "duration_ms": 240030,
-      "name": "Inside Out",
-      "url": "https://open.spotify.com/track/2yiNArujhNe6pDG2GSZ3HE"
     },
     {
       "added_at": "2025-01-17 10:48:06",

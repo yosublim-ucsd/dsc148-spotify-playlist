@@ -4,7 +4,7 @@
 
 > Un playlist \(foarte\) divers, cu tot ce e viral și trending în România
 
-237 songs - 11 hr 46 min
+238 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,12 +84,13 @@
 | [Fana](https://open.spotify.com/track/1eln2C07r6xDo06kErYrFn) | [Jador](https://open.spotify.com/artist/6o6jMpcBBv4jMOEE1Z4tlJ), [Manele Mentolate](https://open.spotify.com/artist/4FxpvNihN7UbesJZrAE9tR) | [Fana](https://open.spotify.com/album/0HKQiYtP7btvohl2Bby3Xg) | 2:38 | 2024-07-29 |  |
 | [Fire \- Official UEFA EURO 2024 Song](https://open.spotify.com/track/7MYLHLCf0YWR4TVs3owDny) | [MEDUZA](https://open.spotify.com/artist/0xRXCcSX89eobfrshSVdyu), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Fire \(Official UEFA EURO 2024 Song\)](https://open.spotify.com/album/7qNPp8Jh4LzA0pEMNiTcNQ) | 2:48 | 2024-07-01 | 2025-01-21 |
 | [Forget You](https://open.spotify.com/track/1YWr18dWRmuvPgAsPBsOow) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb), [Topic](https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ) | [Forget You](https://open.spotify.com/album/2R2x6ovmNARV2vz6WLcCF6) | 2:27 | 2024-07-01 | 2024-07-30 |
+| [FREEZING COLD](https://open.spotify.com/track/1IGbqCODgKsJfz6K3DlGeP) | [Robi](https://open.spotify.com/artist/4FC5Mp0ZuiVF8b68cqJdim), [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [Tussin](https://open.spotify.com/artist/5DcOHhTZVih46OXGXHeSGb) | [COLDMODE](https://open.spotify.com/album/0bsn8qsLMyD69914uS1CLm) | 2:58 | 2025-01-20 |  |
 | [Galileo Galilei](https://open.spotify.com/track/6T6QrgdmjRuzA9imHTyxa7) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq), [Adrian Minune](https://open.spotify.com/artist/6nU9Rg6157nS2p7zUfZJ6p) | [Galileo Galilei](https://open.spotify.com/album/0DNi38C1JZNTdVUu5U3grX) | 2:19 | 2024-07-22 | 2024-08-27 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-07-01 | 2025-01-21 |
 | [Gipsy Style](https://open.spotify.com/track/6jrg6XKjDtvFGp11a0JQZQ) | [Costel Biju](https://open.spotify.com/artist/1XDujSZXKFYhL3lb9HLHHY) | [Gipsy Style](https://open.spotify.com/album/6RmIV4vD5XVXxjgZnnCpZc) | 3:08 | 2024-07-29 | 2024-10-01 |
 | [Good Luck, Babe!](https://open.spotify.com/track/0WbMK4wrZ1wFSty9F7FCgu) | [Chappell Roan](https://open.spotify.com/artist/7GlBOeep6PqTfFi59PTUUN) | [Good Luck, Babe!](https://open.spotify.com/album/1WAjjRMfZjEXtB0lQrAw6Q) | 3:38 | 2024-07-01 | 2024-07-30 |
 | [Grinch](https://open.spotify.com/track/0RCOFsv0uaHhIwjZXJJ5yk) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ), [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6) | [Grinch](https://open.spotify.com/album/2QN6om23DL5Gwek4PCTGx6) | 3:14 | 2025-01-13 |  |
-| [Guli Guli \- From "Buzz House" The Movie](https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Guli Guli \(From "Buzz House" The Movie\)](https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V) | 2:28 | 2024-07-08 |  |
+| [Guli Guli \- From "Buzz House" The Movie](https://open.spotify.com/track/3NlplVGSFT0fwcEhk6FJ3Z) | [rares](https://open.spotify.com/artist/6Lovpq3UamSOdAbcQAqbz9), [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Guli Guli \(From "Buzz House" The Movie\)](https://open.spotify.com/album/4D5KRniPBEcRj4aao6XR5V) | 2:28 | 2024-07-08 | 2025-01-22 |
 | [Habibi](https://open.spotify.com/track/4EBATplQoU295eNOeONlAP) | [Bogdan DLP](https://open.spotify.com/artist/2MiJmNQKPgwLZMr35cVqtq) | [Habibi](https://open.spotify.com/album/3pzaeGJg6nQExvJazlHbyy) | 2:10 | 2024-07-29 |  |
 | [Hai sa ne iubim ca nemtii](https://open.spotify.com/track/2yUZv6utvoeV0B79YSn7pq) | [Dani Mocanu](https://open.spotify.com/artist/60KR2lVVoYd6GIcfLoUjPI) | [Hai sa ne iubim ca nemtii](https://open.spotify.com/album/2VfTTanjjQHbgRgF4Gften) | 2:30 | 2024-07-15 |  |
 | [Hai, România!](https://open.spotify.com/track/3JW630Ce4LbN0w6kkPyEJG) | [Loredana](https://open.spotify.com/artist/5aU8qm9nbrIaXO8ieyKlTa), [Marius Moga](https://open.spotify.com/artist/572uUqNnEoaTeR0PuZHtyk), [Ionut Cercel](https://open.spotify.com/artist/3nEGbFFQiHXnjhbJVwzega) | [Hai, România!](https://open.spotify.com/album/5SVNqgEdDC4arIyMTmBeiF) | 2:33 | 2024-07-01 | 2024-07-09 |

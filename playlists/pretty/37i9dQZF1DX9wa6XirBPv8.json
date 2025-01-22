@@ -1,6 +1,6 @@
 {
   "description": "feel it all. Cover: Taking Back Sunday",
-  "num_followers": 1781982,
+  "num_followers": 1782388,
   "original_name": "Emo Forever",
   "owner": {
     "name": "Spotify",
@@ -847,6 +847,22 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
+        "name": "Say It Like You Mean It",
+        "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
+      },
+      "artists": [
+        {
+          "name": "The Starting Line",
+          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+        }
+      ],
+      "duration_ms": 258266,
+      "name": "The Best Of Me",
+      "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
         "name": "Commit This To Memory",
         "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
@@ -859,22 +875,6 @@
       "duration_ms": 207633,
       "name": "Everything Is Alright",
       "url": "https://open.spotify.com/track/6xyiHZgrmXw7sMyYXbXjPV"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
-        "name": "The Same Old Blood Rush With A New Touch",
-        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
-      },
-      "artists": [
-        {
-          "name": "Cute Is What We Aim For",
-          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
-        }
-      ],
-      "duration_ms": 203626,
-      "name": "The Curse of Curves",
-      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -895,18 +895,18 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "Say It Like You Mean It",
-        "url": "https://open.spotify.com/album/72ogyoH8DeqTMLYhFwgVx6"
+        "name": "The Same Old Blood Rush With A New Touch",
+        "url": "https://open.spotify.com/album/66cyBjBDqSWQgh5Ix3geNl"
       },
       "artists": [
         {
-          "name": "The Starting Line",
-          "url": "https://open.spotify.com/artist/3E3xrZtBU5ORqcmX78v5YZ"
+          "name": "Cute Is What We Aim For",
+          "url": "https://open.spotify.com/artist/7AsPubxWM5tfW4hTZEL3aP"
         }
       ],
-      "duration_ms": 258266,
-      "name": "The Best Of Me",
-      "url": "https://open.spotify.com/track/1Up4RdOBpChNDytatxKDXP"
+      "duration_ms": 203626,
+      "name": "The Curse of Curves",
+      "url": "https://open.spotify.com/track/6uzuW7L1t1UhnzbfXwtMtQ"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "Commit This To Memory",
-        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 186893,
-      "name": "L.G. FUAD",
-      "url": "https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
         "name": "Decadence",
         "url": "https://open.spotify.com/album/4PQJiFSYykABCgha6bU4O6"
       },
@@ -1311,18 +1295,18 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "The Lonesome Crowded West",
-        "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
+        "name": "Commit This To Memory",
+        "url": "https://open.spotify.com/album/14cwHpqeVuYbwQxmY5tgQT"
       },
       "artists": [
         {
-          "name": "Modest Mouse",
-          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
         }
       ],
-      "duration_ms": 209960,
-      "name": "Polar Opposites",
-      "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
+      "duration_ms": 186893,
+      "name": "L.G. FUAD",
+      "url": "https://open.spotify.com/track/2gxfUzq0kLUwdHIo87aHIC"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1339,6 +1323,22 @@
       "duration_ms": 191294,
       "name": "Medicine",
       "url": "https://open.spotify.com/track/0uqTwEKTbkuhrn8yGSO6b5"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
+        "name": "The Lonesome Crowded West",
+        "url": "https://open.spotify.com/album/5mvHTVy1iUIkAflIufoOpj"
+      },
+      "artists": [
+        {
+          "name": "Modest Mouse",
+          "url": "https://open.spotify.com/artist/1yAwtBaoHLEDWAnWR87hBT"
+        }
+      ],
+      "duration_ms": 209960,
+      "name": "Polar Opposites",
+      "url": "https://open.spotify.com/track/5EsM3rVaMDRsOXJq7oe3tY"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1375,22 +1375,6 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "I Am The Movie",
-        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
-      },
-      "artists": [
-        {
-          "name": "Motion City Soundtrack",
-          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
-        }
-      ],
-      "duration_ms": 200200,
-      "name": "My Favorite Accident",
-      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
         "name": "Hold On Tight",
         "url": "https://open.spotify.com/album/5BNmZXVJX3h8WbtXyRTRln"
       },
@@ -1407,22 +1391,6 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "Riot!",
-        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 220480,
-      "name": "That's What You Get",
-      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
         "name": "What It Is To Burn",
         "url": "https://open.spotify.com/album/28DROCResQvsdO6Hjmb32x"
       },
@@ -1435,6 +1403,22 @@
       "duration_ms": 199600,
       "name": "Letters To You",
       "url": "https://open.spotify.com/track/1lldOhIq1tf0XyQUBWDeOc"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
+        "name": "Riot!",
+        "url": "https://open.spotify.com/album/71rziY9eLo1tA2dBMxrwhc"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 220480,
+      "name": "That's What You Get",
+      "url": "https://open.spotify.com/track/1JdKrFyoU05abww0Zv0ayQ"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1467,6 +1451,22 @@
       "duration_ms": 200800,
       "name": "Act Appalled",
       "url": "https://open.spotify.com/track/1bujdcYDzWPyJHUiL6PXul"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
+        "name": "I Am The Movie",
+        "url": "https://open.spotify.com/album/3h73au9xc77Hnk4Hdkq85i"
+      },
+      "artists": [
+        {
+          "name": "Motion City Soundtrack",
+          "url": "https://open.spotify.com/artist/19zqV9DV3txjMUjHvltl2D"
+        }
+      ],
+      "duration_ms": 200200,
+      "name": "My Favorite Accident",
+      "url": "https://open.spotify.com/track/5OU9pkK0wkHJMCOBVYafye"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1839,22 +1839,6 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "Casually Dressed & Deep In Conversation",
-        "url": "https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA"
-      },
-      "artists": [
-        {
-          "name": "Funeral For A Friend",
-          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
-        }
-      ],
-      "duration_ms": 180386,
-      "name": "Rookie Of The Year",
-      "url": "https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
         "name": "White Lies",
         "url": "https://open.spotify.com/album/2MPznUFDORXqL2lpA2IbPs"
       },
@@ -1867,6 +1851,22 @@
       "duration_ms": 213413,
       "name": "Goodbye My Love",
       "url": "https://open.spotify.com/track/51VhgCrpMdrGysx0CMgyIM"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
+        "name": "Casually Dressed & Deep In Conversation",
+        "url": "https://open.spotify.com/album/3wt9zG5lJJsPIs64JOSrEA"
+      },
+      "artists": [
+        {
+          "name": "Funeral For A Friend",
+          "url": "https://open.spotify.com/artist/4AbDWrmJPSOeIbT2Ou60ik"
+        }
+      ],
+      "duration_ms": 180386,
+      "name": "Rookie Of The Year",
+      "url": "https://open.spotify.com/track/49W8opgkv41FNWmTYdgjCp"
     },
     {
       "added_at": "2025-01-17 01:36:25",
@@ -1887,22 +1887,6 @@
     {
       "added_at": "2025-01-17 01:36:25",
       "album": {
-        "name": "Highly Refined Pirates",
-        "url": "https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w"
-      },
-      "artists": [
-        {
-          "name": "Minus the Bear",
-          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
-        }
-      ],
-      "duration_ms": 324266,
-      "name": "Absinthe Party At The Fly Honey Warehouse",
-      "url": "https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj"
-    },
-    {
-      "added_at": "2025-01-17 01:36:25",
-      "album": {
         "name": "Do You Feel",
         "url": "https://open.spotify.com/album/6jI9ZXamn5gsMKHA12K78J"
       },
@@ -1915,6 +1899,22 @@
       "duration_ms": 160973,
       "name": "Do You Feel",
       "url": "https://open.spotify.com/track/5nFBUL1ioMk9sSyvUKeMhl"
+    },
+    {
+      "added_at": "2025-01-17 01:36:25",
+      "album": {
+        "name": "Highly Refined Pirates",
+        "url": "https://open.spotify.com/album/1UMubVNQuVVBG7T6Cuzc5w"
+      },
+      "artists": [
+        {
+          "name": "Minus the Bear",
+          "url": "https://open.spotify.com/artist/0YQBN02bmZvwGNrrWsg2sT"
+        }
+      ],
+      "duration_ms": 324266,
+      "name": "Absinthe Party At The Fly Honey Warehouse",
+      "url": "https://open.spotify.com/track/6LkwIps8gLQKC4qX99NMrj"
     },
     {
       "added_at": "2025-01-17 01:36:25",

@@ -4,7 +4,7 @@
 
 > Catch up with the Indie Songs from 'namma ooru'<br/>Cover : Chandan Shetty
 
-432 songs - 23 hr 47 min
+433 songs - 23 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,6 +16,7 @@
 | [Abbabbaa](https://open.spotify.com/track/1o9S562QxYvL66rVHxxGOE) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Abbabbaa](https://open.spotify.com/album/2TNCNVlnDzBhSvqPcE0LTT) | 2:19 | 2023-11-28 | 2024-01-26 |
 | [Abbabbaa](https://open.spotify.com/track/2ZKsmvbi4GElE0uvhAo2gC) | [Ashwamedha Karthik](https://open.spotify.com/artist/1oFZ5cz8fiSp6fFDlRZwE2) | [Abbabbaa](https://open.spotify.com/album/2IFpnZl9vZmfQgH7EvNbKr) | 2:19 | 2023-11-28 | 2024-02-17 |
 | [Abhisaarike](https://open.spotify.com/track/4LhDXaCGZPFdQGENptg4Va) | [Sathya Radhakrishna](https://open.spotify.com/artist/1hXCszU9f1es4LZiW3Bk0N) | [Abhisaarike](https://open.spotify.com/album/5ox9fZAcsR2xD14DWJukON) | 3:28 | 2023-02-03 | 2023-06-08 |
+| [Adhvik Hogabeda](https://open.spotify.com/track/3EiHfLG5MndDAWgXtr4tl9) | [Adhvik](https://open.spotify.com/artist/7Brq4omogaIOJiHqQwIgnV) | [Adhvik Hogabeda](https://open.spotify.com/album/1SHbmeeFoEzZagz8MZNluA) | 2:11 | 2025-01-21 |  |
 | [Ah Sanjeyu](https://open.spotify.com/track/0FmAL5404C59bgZ0NReIjR) | [Prasanna Bhojashettar](https://open.spotify.com/artist/6d913SnOMtIZnOxh9IiURJ) | [Ah Sanjeyu](https://open.spotify.com/album/6uDXz3TYEYQ2oXTiyEJXQN) | 3:03 | 2024-06-06 | 2024-11-14 |
 | [Aigiri Nandini](https://open.spotify.com/track/4bJCeVoQH0g0IVtZT1Mw1D) | [Prasanna Kumar M S](https://open.spotify.com/artist/6Q4hpP5rBdhz1rK2DkKuZJ) | [Aigiri Nandini](https://open.spotify.com/album/7LMtFuBWtKUZ9qJW6erzrs) | 1:30 | 2024-01-29 | 2024-02-17 |
 | [ALAG HAI](https://open.spotify.com/track/3ptmb4toZVGAs73tbERceP) | [D shabdha](https://open.spotify.com/artist/3q7u9e1jJCYdvxkdjnfQgh) | [ALAG HAI](https://open.spotify.com/album/7A7jELEKRiRVMIQMZGlGyN) | 1:23 | 2023-09-20 | 2024-02-17 |
@@ -423,7 +424,7 @@
 | [UKKAARU](https://open.spotify.com/track/4KYwXJhLFwFLn4f2aanTjO) | [Darshikan](https://open.spotify.com/artist/2QznH02fqwtDUfaLpCMd2R) | [UKKAARU](https://open.spotify.com/album/6C7gJsHME5yAcXVKpz66jq) | 2:22 | 2024-08-07 |  |
 | [Usira Olage](https://open.spotify.com/track/7wYCvC8zWp3rcCoj0seOQY) | [S K Parth](https://open.spotify.com/artist/20dOeJHWEcApptyMznAnT3) | [Usira Olage](https://open.spotify.com/album/2XOVDh8ZulNCfm0WgAyD0K) | 1:27 | 2023-09-16 | 2024-01-07 |
 | [Usira Olage](https://open.spotify.com/track/5sgu4p23JIf0GGubV1SF5h) | [SK Parth](https://open.spotify.com/artist/1vgT333wFWG7yn99UqFMJl) | [Usira Olage](https://open.spotify.com/album/7MzS8W7gL0OROf7Gqw4j6N) | 1:27 | 2023-09-16 | 2024-04-02 |
-| [Usire My Breath](https://open.spotify.com/track/2N1k2J1VX5ZqhuDw4kgVZg) | [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [Usire My Breath](https://open.spotify.com/album/03nWIcH5cuej4GGnzIk1xT) | 2:17 | 2024-08-02 |  |
+| [Usire My Breath](https://open.spotify.com/track/2N1k2J1VX5ZqhuDw4kgVZg) | [Bhoomika Yellow B](https://open.spotify.com/artist/1O3EaC8XQBJPOZlIqUAge1) | [Usire My Breath](https://open.spotify.com/album/03nWIcH5cuej4GGnzIk1xT) | 2:17 | 2024-08-02 | 2025-01-22 |
 | [Vadiraj](https://open.spotify.com/track/2A8xmguW2nqhZqOxmSk4Nu) | [Dj Megharaj SN](https://open.spotify.com/artist/5NC5Fp8Cbb8LIiLp6Opyks) | [Vadiraj](https://open.spotify.com/album/0ZBl9ueUQnYRh8JnR8eqbD) | 2:21 | 2023-04-03 | 2023-11-30 |
 | [Veera](https://open.spotify.com/track/1at6I3cX5wBSRJgkwGoenk) | [Nandan Srinivas](https://open.spotify.com/artist/2pTa1LU0eRBmROXhsvxttY), [Darshan Shinde](https://open.spotify.com/artist/4TxpjVvYrrI5Py1kCOIzig), [Gubbi](https://open.spotify.com/artist/3ZtRLTIQL8fGSq693vooH3), [D Cube](https://open.spotify.com/artist/0mCdRXMN2ozZonPnI6EtFj), [Aniruddha Sastry](https://open.spotify.com/artist/4eBhDqKsVw41KLAgusBZPa), [Sharath Prakash](https://open.spotify.com/artist/26tMtsrM32yHe469h2LLof) | [Veera](https://open.spotify.com/album/4Oi5t7j1mpqKTxpn2DZXq6) | 3:40 | 2023-08-11 | 2023-09-07 |
 | [Vivekalaya](https://open.spotify.com/track/6zRJheIz77q5J6EaaZkRez) | [Achal Ubaradka](https://open.spotify.com/artist/1XWwYrtVLePDjckQP7lzgS) | [Vivekalaya](https://open.spotify.com/album/2ldFEqS0GEIQd89LTbiCcj) | 3:00 | 2024-02-01 | 2024-06-26 |

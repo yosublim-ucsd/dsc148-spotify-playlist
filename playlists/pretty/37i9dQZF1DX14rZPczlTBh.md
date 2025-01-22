@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 
 > Themes to groove to from Telugu Movies!<br/><br/>Cover: Saripodhaa Sanivaaram
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,770 likes - 50 songs - 1 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,824 likes - 50 songs - 1 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14rZPczlTBh.md) - [plain]
 | 26 | [Bheemla Back On Duty](https://open.spotify.com/track/5WCPHz4v4tbjTZn0PiEUmR) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Vaishnavi kovvuri](https://open.spotify.com/artist/2e8geRUaKO1nGgd58eQd7i), [Pratyusha pallapothu](https://open.spotify.com/artist/5wIE1GgXP6vQaecIfOKbYC), [Rachitha Rayaprolu](https://open.spotify.com/artist/6J13IaOtYRPBaPzPLUzbqx), [Parnika Manya](https://open.spotify.com/artist/2xuVTI9imgpzqOabZP4gPO), [Rita Thyagarajan](https://open.spotify.com/artist/27bGntdBHtYYP0QPkKzqzF), [Lakshmi Meghana](https://open.spotify.com/artist/50bnXBdKRT1GbiWGKS0YhN) | [Bheemla Nayak](https://open.spotify.com/album/4VGIZBQoLclIUMcCH3ib0V) | 4:02 |
 | 27 | [REVEAL](https://open.spotify.com/track/26j1aLwumMRp6aofc7Yros) | [B\. Ajaneesh Loknath](https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5) | [Mangalavaaram \- OST](https://open.spotify.com/album/7HjFGBR2amY3WSJZXZt3o1) | 1:06 |
 | 28 | [Theme](https://open.spotify.com/track/4lTfaHVSJms1xZhnXMn6xB) | [Sricharan Pakala](https://open.spotify.com/artist/3lnECmHir8dXsqVV0QuruT) | [Goodachari](https://open.spotify.com/album/7kYmtBahBseaOVBiZQa7p5) | 5:15 |
-| 29 | [CMGR Theme](https://open.spotify.com/track/32pkOK9wETE4BwlGTRmeeL) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2), [Narendra Doddapaneni](https://open.spotify.com/artist/1DEVUybUdaNx5xCgfRxs59) | [Cameraman Gangatho Rambabu](https://open.spotify.com/album/1DzfUGIuSfToncxjmhNiZY) | 1:53 |
-| 30 | [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 |
+| 29 | [Badrenath Theme](https://open.spotify.com/track/2Fh0F8p45Ef4FNvZTWEGNj) | [Chorus](https://open.spotify.com/artist/2Bu3DMTHHdXW4jnhoWHhPa) | [Badrenath](https://open.spotify.com/album/08sznMeYBuj3GInM6VUIvw) | 2:17 |
+| 30 | [CMGR Theme](https://open.spotify.com/track/32pkOK9wETE4BwlGTRmeeL) | [Hemachandra Vedala](https://open.spotify.com/artist/26R3WRFIf6FbbNAQuMIjkN), [Karunya](https://open.spotify.com/artist/6qrS6jqZfr8HJe3IWkQqv2), [Narendra Doddapaneni](https://open.spotify.com/artist/1DEVUybUdaNx5xCgfRxs59) | [Cameraman Gangatho Rambabu](https://open.spotify.com/album/1DzfUGIuSfToncxjmhNiZY) | 1:53 |
 | 31 | [Skanda Teaser Theme](https://open.spotify.com/track/0cbIbniZF1FGevzRyn7HW7) | [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN) | [Skanda Teaser Theme](https://open.spotify.com/album/4rgM7MJscewBzrqv6tAZD1) | 0:54 |
 | 32 | [Celebration of Vennela](https://open.spotify.com/track/0QQTNr2eNT7Ju3x174in3B) | [Santhosh Narayanan](https://open.spotify.com/artist/5FVBduYaeVBb6JIghza7v6) | [Dasara \(Telugu\)](https://open.spotify.com/album/2AMgY8htFx9X91zgB09Pta) | 0:46 |
 | 33 | [Dizzy Dance](https://open.spotify.com/track/58NdvwKBAX4Ml4DNnfUlEW) | [Jakes Bejoy](https://open.spotify.com/artist/3Q80PCEUBCiRhLSWdQApNt) | [Saripodhaa Sanivaaram \(Original Background Score\)](https://open.spotify.com/album/2ydTchXuQ19AcntlZzxhp0) | 3:35 |

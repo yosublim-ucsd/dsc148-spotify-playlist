@@ -12059,6 +12059,24 @@
     },
     {
       "album": {
+        "name": "Lonely For You Baby",
+        "url": "https://open.spotify.com/album/1jQixFQ1StznIA1xNeMyGx"
+      },
+      "artists": [
+        {
+          "name": "The Devils",
+          "url": "https://open.spotify.com/artist/4dr588YumnHS2BIa7QOZI8"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155487,
+      "name": "Lonely For You Baby",
+      "url": "https://open.spotify.com/track/6l9fuatUw6oTgrF4Rg7fBy"
+    },
+    {
+      "album": {
         "name": "Lontano",
         "url": "https://open.spotify.com/album/6fflIsKXpFuIePdGUpbI9C"
       },

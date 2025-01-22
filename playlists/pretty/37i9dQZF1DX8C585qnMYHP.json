@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Hiro Ama on cover. Artwork by Thami Nabil",
-  "num_followers": 183934,
+  "num_followers": 183963,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -233,24 +233,20 @@
       "url": "https://open.spotify.com/track/4iURuJPltHSQ8DNaKNc2lS"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2024-10-23 05:28:43",
       "album": {
-        "name": "065 (Scorpio)",
-        "url": "https://open.spotify.com/album/5zCE3oBM8Bq9r3Odqd4PP9"
+        "name": "Doff",
+        "url": "https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL"
       },
       "artists": [
         {
-          "name": "James K",
-          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
-        },
-        {
-          "name": "hoodie",
-          "url": "https://open.spotify.com/artist/68kvu7W7TlDeFjYz7KILIu"
+          "name": "Will August Park",
+          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
         }
       ],
-      "duration_ms": 481160,
-      "name": "Scorpio",
-      "url": "https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8"
+      "duration_ms": 184120,
+      "name": "Doff",
+      "url": "https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -269,20 +265,24 @@
       "url": "https://open.spotify.com/track/5dqSqdrceOCtjHjx2OFOqg"
     },
     {
-      "added_at": "2024-10-23 05:28:43",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Doff",
-        "url": "https://open.spotify.com/album/2PBu3e1YFNWRZHLdozFIyL"
+        "name": "065 (Scorpio)",
+        "url": "https://open.spotify.com/album/5zCE3oBM8Bq9r3Odqd4PP9"
       },
       "artists": [
         {
-          "name": "Will August Park",
-          "url": "https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf"
+          "name": "James K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        },
+        {
+          "name": "hoodie",
+          "url": "https://open.spotify.com/artist/68kvu7W7TlDeFjYz7KILIu"
         }
       ],
-      "duration_ms": 184120,
-      "name": "Doff",
-      "url": "https://open.spotify.com/track/0gitxF5eauet5HwgtSiLjB"
+      "duration_ms": 481160,
+      "name": "Scorpio",
+      "url": "https://open.spotify.com/track/0CgtgR2Rz4z9zmbclEhpg8"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -417,20 +417,20 @@
       "url": "https://open.spotify.com/track/6v2bGGbrqfPM5hxBQLPZl8"
     },
     {
-      "added_at": "2024-09-11 15:31:53",
+      "added_at": "2024-05-22 11:00:00",
       "album": {
-        "name": "Everything Squared",
-        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
+        "name": "The Turning Ground",
+        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
       },
       "artists": [
         {
-          "name": "Seefeel",
-          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
+          "name": "Tara Clerkin Trio",
+          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
         }
       ],
-      "duration_ms": 331916,
-      "name": "Multifolds",
-      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
+      "duration_ms": 265920,
+      "name": "The Turning Ground",
+      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -449,20 +449,20 @@
       "url": "https://open.spotify.com/track/3qZuhnMglx8sN2ePzhsKSz"
     },
     {
-      "added_at": "2024-10-02 15:46:42",
+      "added_at": "2024-09-11 15:31:53",
       "album": {
-        "name": "Selva",
-        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
+        "name": "Everything Squared",
+        "url": "https://open.spotify.com/album/7MnJHL3tK9Jbvf6Sgnvqmr"
       },
       "artists": [
         {
-          "name": "Marta Del Grandi",
-          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
+          "name": "Seefeel",
+          "url": "https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f"
         }
       ],
-      "duration_ms": 192283,
-      "name": "Snapdragon",
-      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
+      "duration_ms": 331916,
+      "name": "Multifolds",
+      "url": "https://open.spotify.com/track/2UU2m0SxcGir6CwkbC08JB"
     },
     {
       "added_at": "2025-01-15 18:16:36",
@@ -517,20 +517,20 @@
       "url": "https://open.spotify.com/track/5FoSVEHTX210PBvNSODJrK"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-10-02 15:46:42",
       "album": {
-        "name": "The Turning Ground",
-        "url": "https://open.spotify.com/album/5zvocgdxHltqxJmc5v4Ppn"
+        "name": "Selva",
+        "url": "https://open.spotify.com/album/6yeIH3hBtQCKRHPR4Hju7M"
       },
       "artists": [
         {
-          "name": "Tara Clerkin Trio",
-          "url": "https://open.spotify.com/artist/0fSThWbCstAGqxZFUftX1F"
+          "name": "Marta Del Grandi",
+          "url": "https://open.spotify.com/artist/05E477LFSZYN1svLmKnrYh"
         }
       ],
-      "duration_ms": 265920,
-      "name": "The Turning Ground",
-      "url": "https://open.spotify.com/track/78O1YBhuqh6HOQC6u9ad8w"
+      "duration_ms": 192283,
+      "name": "Snapdragon",
+      "url": "https://open.spotify.com/track/4nYr5YeDEXAKXh0JOvmF8G"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -599,6 +599,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "setar rock",
+        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 240250,
+      "name": "setar rock",
+      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Soy Sauce",
         "url": "https://open.spotify.com/album/35URROxXIrHUFscytU8FKa"
       },
@@ -617,22 +633,6 @@
       "url": "https://open.spotify.com/track/60WeDI4n7vpT9Xe3oBQuYK"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "setar rock",
-        "url": "https://open.spotify.com/album/0sLE1MoYzMM6JgwuJR6Nzb"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 240250,
-      "name": "setar rock",
-      "url": "https://open.spotify.com/track/6MvywXbpxt5tYk1a5cA0rb"
-    },
-    {
       "added_at": "2024-08-07 03:33:24",
       "album": {
         "name": "All good?",
@@ -647,6 +647,26 @@
       "duration_ms": 483180,
       "name": "be a",
       "url": "https://open.spotify.com/track/7gcEP1HTUtSNLhTOvgUPsj"
+    },
+    {
+      "added_at": "2024-10-02 18:17:59",
+      "album": {
+        "name": "Aprender a Ser: Extended",
+        "url": "https://open.spotify.com/album/0mYAqeT6oxqrGv1mnt56zN"
+      },
+      "artists": [
+        {
+          "name": "Mint Field",
+          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
+        },
+        {
+          "name": "Mabe Fratti",
+          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
+        }
+      ],
+      "duration_ms": 231560,
+      "name": "El mar me ve\u00eda",
+      "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
     },
     {
       "added_at": "2024-09-11 15:31:53",
@@ -679,26 +699,6 @@
       "duration_ms": 208484,
       "name": "Ready to Leave",
       "url": "https://open.spotify.com/track/7HGiD9L1yklRJmc2JmOsjH"
-    },
-    {
-      "added_at": "2024-10-02 18:17:59",
-      "album": {
-        "name": "Aprender a Ser: Extended",
-        "url": "https://open.spotify.com/album/0mYAqeT6oxqrGv1mnt56zN"
-      },
-      "artists": [
-        {
-          "name": "Mint Field",
-          "url": "https://open.spotify.com/artist/3okJi6oq87Mwx0VzywmMgz"
-        },
-        {
-          "name": "Mabe Fratti",
-          "url": "https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo"
-        }
-      ],
-      "duration_ms": 231560,
-      "name": "El mar me ve\u00eda",
-      "url": "https://open.spotify.com/track/5gGW1PbyeWHt8bqwnXN7bk"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Ki moun ou ye",
-        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
-      },
-      "artists": [
-        {
-          "name": "Nathalie Joachim",
-          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
-        }
-      ],
-      "duration_ms": 320409,
-      "name": "Ki moun ou ye",
-      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "nothing or something to die for",
         "url": "https://open.spotify.com/album/6XQydtJrolv08kmTKxFvZ7"
       },
@@ -787,18 +771,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Meridians",
-        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
+        "name": "Ki moun ou ye",
+        "url": "https://open.spotify.com/album/4rHlOBMPXZdaoUVYyzb3W7"
       },
       "artists": [
         {
-          "name": "Fuubutsushi",
-          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+          "name": "Nathalie Joachim",
+          "url": "https://open.spotify.com/artist/4B1IFQsjyjR1MnHaknNC7i"
         }
       ],
-      "duration_ms": 257226,
-      "name": "Distance Learner",
-      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
+      "duration_ms": 320409,
+      "name": "Ki moun ou ye",
+      "url": "https://open.spotify.com/track/3Jc6bQSnKDUY1NaBdDsU9u"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -815,6 +799,22 @@
       "duration_ms": 275253,
       "name": "Nomad",
       "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Meridians",
+        "url": "https://open.spotify.com/album/6V1Z6tVTS1kMFeluuLtODy"
+      },
+      "artists": [
+        {
+          "name": "Fuubutsushi",
+          "url": "https://open.spotify.com/artist/1zWilUDcnvjEAmIZpciTvj"
+        }
+      ],
+      "duration_ms": 257226,
+      "name": "Distance Learner",
+      "url": "https://open.spotify.com/track/1itxInHZlUWYDrKk0HzFRC"
     },
     {
       "added_at": "2024-04-17 04:00:00",
@@ -867,6 +867,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "BORNE WORLD",
+        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
+      },
+      "artists": [
+        {
+          "name": "Astoria",
+          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+        }
+      ],
+      "duration_ms": 318447,
+      "name": "LOVE IS NOT THE POISON",
+      "url": "https://open.spotify.com/track/1Zz6iX0GpwRlwTMiRnLn6M"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Zionic Mud",
         "url": "https://open.spotify.com/album/0KKFfLUKikbVd8lCL4iz1l"
       },
@@ -881,20 +897,20 @@
       "url": "https://open.spotify.com/track/0ZSHpB8Pu03xqE0yKGJArS"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
+      "added_at": "2025-01-15 18:16:36",
       "album": {
-        "name": "BORNE WORLD",
-        "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
+        "name": "AMB001-008",
+        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
       },
       "artists": [
         {
-          "name": "Astoria",
-          "url": "https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6"
+          "name": "Demuja",
+          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
         }
       ],
-      "duration_ms": 318447,
-      "name": "LOVE IS NOT THE POISON",
-      "url": "https://open.spotify.com/track/1Zz6iX0GpwRlwTMiRnLn6M"
+      "duration_ms": 363353,
+      "name": "AMB001",
+      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -927,22 +943,6 @@
       "duration_ms": 301445,
       "name": "Hounds",
       "url": "https://open.spotify.com/track/3XPupK9gKBCtyACYH6Ynxi"
-    },
-    {
-      "added_at": "2025-01-15 18:16:36",
-      "album": {
-        "name": "AMB001-008",
-        "url": "https://open.spotify.com/album/15f6yjm6JJOfG4YeVh1qOv"
-      },
-      "artists": [
-        {
-          "name": "Demuja",
-          "url": "https://open.spotify.com/artist/1LfqhJiCiHfVzrBOVaBXc1"
-        }
-      ],
-      "duration_ms": 363353,
-      "name": "AMB001",
-      "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1159,18 +1159,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+        "name": "humanus",
+        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
       },
       "artists": [
         {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+          "name": "uh",
+          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
         }
       ],
-      "duration_ms": 194200,
-      "name": "Processional",
-      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
+      "duration_ms": 425036,
+      "name": "attention",
+      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "humanus",
-        "url": "https://open.spotify.com/album/25EsLeJ28Rc2IyLxsYHsuN"
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
       },
       "artists": [
         {
-          "name": "uh",
-          "url": "https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu"
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
         }
       ],
-      "duration_ms": 425036,
-      "name": "attention",
-      "url": "https://open.spotify.com/track/48jMC9ZKe8SCCZqgg0MZnB"
+      "duration_ms": 194200,
+      "name": "Processional",
+      "url": "https://open.spotify.com/track/4M8Wki6etujAJFSRau8OWC"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1251,22 +1251,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Noche",
-        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
-      },
-      "artists": [
-        {
-          "name": "Fuensanta",
-          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
-        }
-      ],
-      "duration_ms": 237917,
-      "name": "Noche",
-      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "BORNE WORLD",
         "url": "https://open.spotify.com/album/09Yl6hmwlsxIPHWdVpwZPV"
       },
@@ -1283,18 +1267,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Epic Wonder",
-        "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
+        "name": "Noche",
+        "url": "https://open.spotify.com/album/5eeIYt9yUyqyQuHhZw91ph"
       },
       "artists": [
         {
-          "name": "toechter",
-          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
+          "name": "Fuensanta",
+          "url": "https://open.spotify.com/artist/5Tda1L0VLxqMBAThEKFIjD"
         }
       ],
-      "duration_ms": 176170,
-      "name": "Me she said",
-      "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
+      "duration_ms": 237917,
+      "name": "Noche",
+      "url": "https://open.spotify.com/track/0Tnq2OrBNLgwHVeGq6yob6"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1311,6 +1295,22 @@
       "duration_ms": 517362,
       "name": "Inori",
       "url": "https://open.spotify.com/track/3MXcm06AFDryFxJR7w21OP"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Epic Wonder",
+        "url": "https://open.spotify.com/album/55ycBliZH25Cs43XU1gUbl"
+      },
+      "artists": [
+        {
+          "name": "toechter",
+          "url": "https://open.spotify.com/artist/4SJigYDgAoM0ZKnTAUtcmL"
+        }
+      ],
+      "duration_ms": 176170,
+      "name": "Me she said",
+      "url": "https://open.spotify.com/track/3IdcQ4ASeSh8cgEgkC4sIC"
     },
     {
       "added_at": "2024-06-19 16:42:50",
@@ -1369,22 +1369,6 @@
       "url": "https://open.spotify.com/track/6TvMOIcWQWIBEVtyWR1svc"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
-      "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
-      },
-      "artists": [
-        {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
-        }
-      ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "L4TA",
@@ -1399,6 +1383,22 @@
       "duration_ms": 68110,
       "name": "wearywatergod",
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Trances",
-        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
-      },
-      "artists": [
-        {
-          "name": "Jules Reidy",
-          "url": "https://open.spotify.com/artist/5KPawjVpDlK8qpInDjLPac"
-        }
-      ],
-      "duration_ms": 517998,
-      "name": "I",
-      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Lava Gulls",
         "url": "https://open.spotify.com/album/3M3Xffn5JvtpksooprFxGH"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 224552,
       "name": "Pray For Me",
       "url": "https://open.spotify.com/track/4Io27HxQeIRyLGDzAn228b"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Trances",
+        "url": "https://open.spotify.com/album/5RQrTRFazouqOiHMwCe8Rn"
+      },
+      "artists": [
+        {
+          "name": "Jules Reidy",
+          "url": "https://open.spotify.com/artist/5KPawjVpDlK8qpInDjLPac"
+        }
+      ],
+      "duration_ms": 517998,
+      "name": "I",
+      "url": "https://open.spotify.com/track/35gTDACxDcRebxunF5igw8"
     },
     {
       "added_at": "2024-12-04 12:15:00",

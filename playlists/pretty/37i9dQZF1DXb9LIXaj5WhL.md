@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 
 > 90s acoustics, mellow hits, and classic unplugged versions.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,393,252 likes - 75 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,393,710 likes - 75 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,13 +62,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb9LIXaj5WhL.md) - [plain]
 | 52 | [Cover Me](https://open.spotify.com/track/5Bb88WRO4906ngHGMvkv4P) | [Candlebox](https://open.spotify.com/artist/3R6c2tWDBeYB1GncjLMn9n) | [Candlebox](https://open.spotify.com/album/401V2sVeZfq8bjBqojsPRb) | 4:45 |
 | 53 | [Adia](https://open.spotify.com/track/0rl84FuazRHYmK72krdmA1) | [Sarah McLachlan](https://open.spotify.com/artist/4NgNsOXSwIzXlUIJcpnNUp) | [Surfacing](https://open.spotify.com/album/5qC5YqtLMlsm5Pyl6GtfpP) | 4:04 |
 | 54 | [Smells Like Teen Spirit \- 2015 Remaster](https://open.spotify.com/track/1kWqRB6PHLM9QTfaXuHpIV) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 3:15 |
-| 55 | [Where Have All the Cowboys Gone ? \- Remastered Version](https://open.spotify.com/track/4EiZBnBOWr1RVsDew9zYOX) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Greatest Hits \- Postcards From East Oceanside](https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj) | 4:26 |
+| 55 | [I Don't Want to Wait](https://open.spotify.com/track/7zu3Xuz7D8OTilEr2oHKdL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Greatest Hits \- Postcards From East Oceanside](https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj) | 5:18 |
 | 56 | [Ophelia](https://open.spotify.com/track/54JfZxCEjNCwqicxTYsps1) | [Natalie Merchant](https://open.spotify.com/artist/73JEBdDEFeVaOLg3y0HhBD) | [Ophelia](https://open.spotify.com/album/79yCNDXk5sNKwskcAOxUtz) | 5:10 |
 | 57 | [Head over Feet \- Live / Unplugged](https://open.spotify.com/track/0HxDXAUayBZXU8ZaWdBKyc) | [Alanis Morissette](https://open.spotify.com/artist/6ogn9necmbUdCppmNnGOdi) | [Live / Unplugged](https://open.spotify.com/album/0LkVxRq8mZbPUaRgEEvxKv) | 4:22 |
 | 58 | [Stellar \- Acoustic](https://open.spotify.com/track/65QweyWLYg5kapDDE8teNn) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [When Incubus Attacks, Vol\. 1](https://open.spotify.com/album/1d1ClEJ1KUcWkyDtLnv4Pw) | 3:15 |
 | 59 | [I'm On Fire \- Live](https://open.spotify.com/track/6DTzKm0E0T7U8o4MntTpg8) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Wonderlust](https://open.spotify.com/album/2UsWebaN9VKWusifbgp5ZW) | 3:43 |
 | 60 | [If You Knew \- Live at Sin\-é, New York, NY \- July/August 1993](https://open.spotify.com/track/1nd2JEHXbUuQFDiQzCBpsv) | [Jeff Buckley](https://open.spotify.com/artist/3nnQpaTvKb5jCQabZefACI) | [Live At Sin\-é \(Legacy Edition\)](https://open.spotify.com/album/58NsNICf7hyif5WruzsLWc) | 4:28 |
-| 61 | [I Don't Want to Wait](https://open.spotify.com/track/7zu3Xuz7D8OTilEr2oHKdL) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Greatest Hits \- Postcards From East Oceanside](https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj) | 5:18 |
+| 61 | [Where Have All the Cowboys Gone ? \- Remastered Version](https://open.spotify.com/track/4EiZBnBOWr1RVsDew9zYOX) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Greatest Hits \- Postcards From East Oceanside](https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj) | 4:26 |
 | 62 | [Annabelle](https://open.spotify.com/track/3ZtC9ZDhPJj0E043tmlOgx) | [Gillian Welch](https://open.spotify.com/artist/2H5elA2mJKrHmqkN9GSfkz) | [Revival](https://open.spotify.com/album/733rVkP3oBulDHJbiuRANa) | 4:03 |
 | 63 | [The Times They Are A\-Changin' \- Live at Sony Music Studios, New York, NY \- November 1994](https://open.spotify.com/track/32gGuJXlLJbKCk3MDfW53y) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [MTV Unplugged \(Live\)](https://open.spotify.com/album/0zTd4xTpA9ytGuH3Gnfnn4) | 5:48 |
 | 64 | [Winter \- 2015 Remaster](https://open.spotify.com/track/11dfOCV0oBxzZ9fi2PZhvS) | [Tori Amos](https://open.spotify.com/artist/1KsASRNugxU85T0u6zSg32) | [Little Earthquakes \(Deluxe Edition\)](https://open.spotify.com/album/5bxqwBKvCyB67zOEVCrFZE) | 5:41 |

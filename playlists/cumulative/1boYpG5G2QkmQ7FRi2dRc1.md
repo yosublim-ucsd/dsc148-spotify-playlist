@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-1,978 songs - 5 day 3 hr 20 min
+1,979 songs - 5 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [Armagnac](https://open.spotify.com/track/7gRgodZ8M0hx8EoKafvNQn) | [Klunsh](https://open.spotify.com/artist/2Dv4naNykFJ6kcb2NAbQ0z) | [Armagnac / Morrison Thale](https://open.spotify.com/album/6R65qy7Za1aBigyNk9OHij) | 5:50 | 2023-06-24 | 2023-07-01 |
 | [Around the Corner](https://open.spotify.com/track/1NbWRUDTQzSOJFiy7aUd7V) | [LöKii](https://open.spotify.com/artist/2RDXcxQgmEyomb2g9SERuf), [Lovlee](https://open.spotify.com/artist/0cPmf8oWIjuDXYrzsNFjj8) | [Around the Corner](https://open.spotify.com/album/1zpn7hk9MGfLQsPoyAuu9Q) | 3:13 | 2023-06-24 | 2023-07-01 |
 | [Arpeggio](https://open.spotify.com/track/281pggV85w9rbRPj0rAzcq) | [Citadelle](https://open.spotify.com/artist/6Mek67pKmBw5N3FZnAc2J8) | [Pilot](https://open.spotify.com/album/7DNetqGofxOUTVlnd05OfA) | 4:03 | 2023-10-28 | 2023-11-11 |
+| [Arsonist](https://open.spotify.com/track/4bdQhbucGehpzEZQgxTv36) | [NOME.](https://open.spotify.com/artist/0k52cXAjNIDjZOE1WDEV93), [Kris Kiss](https://open.spotify.com/artist/3Hzok9apHnCGDDkGltQcMg) | [Arsonist](https://open.spotify.com/album/0itXC9BJZhqiNjNXFwwdln) | 2:15 | 2025-01-21 |  |
 | [Aruda](https://open.spotify.com/track/4PJThfd1HgQH2voP3wudW2) | [DJ Counselling](https://open.spotify.com/artist/4wtM4f9PYov4bMpCoG4Wac) | [Aruda](https://open.spotify.com/album/3WWiy18arnZpiJz727FSMI) | 4:12 | 2022-11-12 | 2022-11-19 |
 | [As I Am \- Tensnake Remix](https://open.spotify.com/track/2YXBTJ5b5RiJghwRu3c4L5) | [DRAMA](https://open.spotify.com/artist/7LvvNoUPwTZpgXDWBRrfHg), [Tensnake](https://open.spotify.com/artist/75nC6MXUalYZSOd7OfNkwq) | [As I Am](https://open.spotify.com/album/1WofT6MYHZk4MDsA5pH1vy) | 3:20 | 2024-02-10 | 2024-02-17 |
 | [As We Step](https://open.spotify.com/track/08no2olcJnD0cyFQiJEOAz) | [Audio Bullys](https://open.spotify.com/artist/5kwHgbzNHq1iHkUSrAmjjQ) | [As We Step](https://open.spotify.com/album/41qUZw948nSEWIF3XScgfc) | 6:01 | 2023-09-29 | 2023-10-16 |

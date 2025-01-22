@@ -1301,6 +1301,24 @@
     },
     {
       "album": {
+        "name": "Amazed",
+        "url": "https://open.spotify.com/album/0wSJbV547KRXqKJ0OKZWyy"
+      },
+      "artists": [
+        {
+          "name": "Beyond Stillness",
+          "url": "https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60270,
+      "name": "Amazed",
+      "url": "https://open.spotify.com/track/6siDWFWn9fraG7H9nISmyp"
+    },
+    {
+      "album": {
         "name": "Ambient Piano Preludes",
         "url": "https://open.spotify.com/album/0SsjsjgsbPhlAceWmMc01P"
       },
@@ -5144,6 +5162,24 @@
       "duration_ms": 60234,
       "name": "Calm Day",
       "url": "https://open.spotify.com/track/1WQmPDq5Hdn8uAEp1QT2cT"
+    },
+    {
+      "album": {
+        "name": "Calm December",
+        "url": "https://open.spotify.com/album/2DH6tLbnOrnv5RYlSF7uHg"
+      },
+      "artists": [
+        {
+          "name": "Eternal Spring",
+          "url": "https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 60283,
+      "name": "Calm December",
+      "url": "https://open.spotify.com/track/2Hw2zGQI3nP5hiEX2TV9aN"
     },
     {
       "album": {

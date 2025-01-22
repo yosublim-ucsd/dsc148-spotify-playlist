@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Saya Gray
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,360 likes - 135 songs - 7 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,352 likes - 135 songs - 7 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

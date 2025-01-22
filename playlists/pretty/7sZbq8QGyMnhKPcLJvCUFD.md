@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 730,487 likes - 104 songs - 5 hr 11 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 730,479 likes - 105 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,5 +112,6 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 102 | [Dreamer](https://open.spotify.com/track/3eClq9oJiACXJZuCsErmWr) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [Dreamer](https://open.spotify.com/album/2lqGGudTqfh9zLgx0CWiSU) | 2:35 |
 | 103 | [Hollow](https://open.spotify.com/track/53dI9LHErYo0hljsDIMMrG) | [Unlike Pluto](https://open.spotify.com/artist/4zjO8Jhi2pciJJzd8Q6rga) | [Hollow](https://open.spotify.com/album/4o692fJS1XXJC39uhAy1f0) | 3:25 |
 | 104 | [BUSSIN'](https://open.spotify.com/track/3bpV7A3jeuP7wyvvKGQ0kR) | [TWISTED](https://open.spotify.com/artist/1rPf3UFQ9PzH7MafzfHTnG) | [BUSSIN'](https://open.spotify.com/album/7jnEukdmhcSFyrxAgNTDlz) | 1:26 |
+| 105 | [Skyline Pt\. II](https://open.spotify.com/track/0lr3uoQGBxdiYrhmjSat9Q) | [Electro\-Light](https://open.spotify.com/artist/1rpHb27OjM9LHmYm2zjnk5), [Kovan](https://open.spotify.com/artist/3VH7DkvWrs6jHZFrORa9tW) | [Skyline Pt\. II](https://open.spotify.com/album/27xStxx2AghnORK2ESJhbg) | 3:15 |
 
-Snapshot ID: `AAAYVayoGX2DfRQcrTVPnlF8ORJv9a5l`
+Snapshot ID: `AAAYVtTx22tyJlLGrGLdhsBGDBJnr0an`

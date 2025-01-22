@@ -4,7 +4,7 @@
 
 > songs voor je playlist! \#fyp
 
-650 songs - 1 day 9 hr 0 min
+651 songs - 1 day 9 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -489,6 +489,7 @@
 | [Radio](https://open.spotify.com/track/3QhfFRPkhPCR1RMJWV1gde) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Born To Die – Paradise Edition \(Special Version\)](https://open.spotify.com/album/0Dt3FbpMQwjoT5KNAw0IXR) | 3:34 | 2023-06-19 | 2023-07-19 |
 | [Rainbow in the Sky](https://open.spotify.com/track/6L931X4LbkLbvOpJp04YbE) | [Paul Elstak](https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6) | [May the Forze Be with You](https://open.spotify.com/album/4WMailt3JxCYn1RnoiAQAP) | 3:27 | 2024-06-24 |  |
 | [Rare flex](https://open.spotify.com/track/6gIoKG5cvpoQBfdbNToMUQ) | [Cherr](https://open.spotify.com/artist/4zEBX90cszl8dwxFf0sU4R) | [Rare flex](https://open.spotify.com/album/2nZO4WRMXJwmj2vt1roMsj) | 1:48 | 2023-12-27 | 2024-04-09 |
+| [Real Man](https://open.spotify.com/track/0OpC8hRrbsh24taKOsQBEX) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [This Is How Tomorrow Moves](https://open.spotify.com/album/5oT7xqbRbQCevZ0XC5aBFu) | 2:40 | 2025-01-21 |  |
 | [Remember Me \(Reunion\)](https://open.spotify.com/track/1U5ZMSHTV8BnMNNaRRlbXr) | [Anthony Gonzalez](https://open.spotify.com/artist/2q10Wskc3lPYmEuV7rzMCv), [Ana Ofelia Murguía](https://open.spotify.com/artist/0ZS2F346KuGkN5tUivKQhN) | [Coco \(Original Motion Picture Soundtrack/Deluxe Edition\)](https://open.spotify.com/album/3j5JEm3SBNSwUmg6CsPZcJ) | 1:13 | 2024-10-31 | 2024-11-07 |
 | [Rhodé](https://open.spotify.com/track/29kAIqG2P5yxiBO3OQtEaV) | [Matz Voskamp](https://open.spotify.com/artist/6QEKLZaC1LTv9ee9yTR0Hd) | [Rhodé](https://open.spotify.com/album/4XhD8JC0Q5el6gh3KT6DiH) | 2:22 | 2024-09-26 | 2024-10-22 |
 | [Ride It](https://open.spotify.com/track/2tnVG71enUj33Ic2nFN6kZ) | [Regard](https://open.spotify.com/artist/4ofCBoyEiGSePFAG500xev) | [Ride It](https://open.spotify.com/album/4zOhjJfe0dwqsNdDYk622E) | 2:37 | 2023-06-12 | 2023-09-07 |

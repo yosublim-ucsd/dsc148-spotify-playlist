@@ -1,13 +1,105 @@
 {
   "description": "KARENT\u30ec\u30fc\u30d9\u30eb\u3067\u914d\u4fe1\u4e2d\u306e\u697d\u66f2\u306e\u4e2d\u304b\u3089\u3001\u304a\u5bb6\u3067\u306e\u3093\u3073\u308a\u8074\u304d\u305f\u3044\u7652\u3057\u7cfb\u30dc\u30ab\u30ed\u66f2\u3092\u9078\u66f2\u3002\u6bce\u9031\u66f4\u65b0\u3002",
-  "num_followers": 113,
+  "num_followers": 114,
   "original_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",
   "owner": {
     "name": "KARENT official",
     "url": "https://open.spotify.com/user/9inet8qxlhk6sqmpad4tg3gjd"
   },
-  "snapshot_id": "AAAETZkTHPEoVyTsafF88MAzPk6zFRTk",
+  "snapshot_id": "AAAEXFzGKrZG/1h2QS3TqorbewKMg+rV",
   "tracks": [
+    {
+      "added_at": "2025-01-21 08:52:43",
+      "album": {
+        "name": "\u5de1\u970a\u6b4c",
+        "url": "https://open.spotify.com/album/3ArghHnPxXlDL4mRpf2VMv"
+      },
+      "artists": [
+        {
+          "name": "\u5e7d\u970a\u4e00\u6587\u5b57",
+          "url": "https://open.spotify.com/artist/3ZluqN195dlxnzrpJ8c6Ag"
+        },
+        {
+          "name": "Megurine Luka",
+          "url": "https://open.spotify.com/artist/7HwMt9qpoww4yfE3D8886I"
+        }
+      ],
+      "duration_ms": 269307,
+      "name": "\u5de1\u970a\u6b4c (feat. \u5de1\u97f3\u30eb\u30ab)",
+      "url": "https://open.spotify.com/track/3wMuf1KLRVYexLlWas2v46"
+    },
+    {
+      "added_at": "2025-01-21 08:52:56",
+      "album": {
+        "name": "\u307e\u3063\u304f\u3089\u306b\u304a\u307c\u308c\u3066",
+        "url": "https://open.spotify.com/album/2Is12Ny6lghqB98mGFrTTn"
+      },
+      "artists": [
+        {
+          "name": "\u9577\u8c37\u5ddd\u8ff7\u5b50",
+          "url": "https://open.spotify.com/artist/3n9k8n1br27BZGGUayRqXM"
+        },
+        {
+          "name": "\u88cf\u547d",
+          "url": "https://open.spotify.com/artist/3dYIVgbOkyGZpkwCZzYAvs"
+        }
+      ],
+      "duration_ms": 205423,
+      "name": "\u307e\u3063\u304f\u3089\u306b\u304a\u307c\u308c\u3066 (feat. \u88cf\u547d)",
+      "url": "https://open.spotify.com/track/3jUWddjT4z6qnDdm8HkMXU"
+    },
+    {
+      "added_at": "2025-01-21 08:53:13",
+      "album": {
+        "name": "\u304a\u308a\u304c\u307f\u62ab\u9732",
+        "url": "https://open.spotify.com/album/6RhWVfXnpwMxJVLWqB2MTX"
+      },
+      "artists": [
+        {
+          "name": "\u6fc1\u8336",
+          "url": "https://open.spotify.com/artist/05RFYZpwkHOneqyPC74C3M"
+        },
+        {
+          "name": "SF-A2 \u958b\u767a\u30b3\u30fc\u30c9 miki",
+          "url": "https://open.spotify.com/artist/0lMF49ELQqdcprnoJXeYW3"
+        }
+      ],
+      "duration_ms": 131341,
+      "name": "\u304a\u308a\u304c\u307f\u62ab\u9732 (feat. SF-A2 \u958b\u767a\u30b3\u30fc\u30c9 miki)",
+      "url": "https://open.spotify.com/track/7b8SkY3pJPIboQDh0ml8Tr"
+    },
+    {
+      "added_at": "2025-01-21 08:53:23",
+      "album": {
+        "name": "El rebano de Gish",
+        "url": "https://open.spotify.com/album/1Eq21TDbOSz31FFPRnVM4i"
+      },
+      "artists": [
+        {
+          "name": "Maubox",
+          "url": "https://open.spotify.com/artist/6Pawecfq5bF3s2o01TlOIe"
+        }
+      ],
+      "duration_ms": 261543,
+      "name": "El rebano de Gish",
+      "url": "https://open.spotify.com/track/4PzLNgrDI2oGbMWDuJHdff"
+    },
+    {
+      "added_at": "2025-01-21 08:53:34",
+      "album": {
+        "name": "Zoo",
+        "url": "https://open.spotify.com/album/0G9RvuXOWtU21SsrbzPJrU"
+      },
+      "artists": [
+        {
+          "name": "Noz.",
+          "url": "https://open.spotify.com/artist/2vuvQZHCuyPsYBBHSmVoKD"
+        }
+      ],
+      "duration_ms": 194285,
+      "name": "Zoo",
+      "url": "https://open.spotify.com/track/72m0AT9qSoAlBUVFKmyoHI"
+    },
     {
       "added_at": "2025-01-14 08:22:50",
       "album": {
@@ -683,98 +775,6 @@
       "duration_ms": 260800,
       "name": "15\u6b73\u306e\u4e3b\u5f35",
       "url": "https://open.spotify.com/track/5thIOGmUNVycmdwk3n72hL"
-    },
-    {
-      "added_at": "2024-10-22 06:25:04",
-      "album": {
-        "name": "Panta Rhei",
-        "url": "https://open.spotify.com/album/7shf1Zj9tZJVhzOfJoCJIW"
-      },
-      "artists": [
-        {
-          "name": "hinayukki@sigotositeP",
-          "url": "https://open.spotify.com/artist/3YWtMMkde3XUDN049gTpTx"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 229937,
-      "name": "Panta Rhei (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/0a82Kgw9CEWhUcDTGDDkmn"
-    },
-    {
-      "added_at": "2024-10-22 08:16:41",
-      "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/28Ttv9C5ilQfh98P75rpuS"
-      },
-      "artists": [
-        {
-          "name": "HATANAKAYOUKOU",
-          "url": "https://open.spotify.com/artist/5aJ3GK9vJhZid2VoVz4GiM"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 295471,
-      "name": "\u967d\u708e (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/7sr5DvA1r25OX82bVNbtMR"
-    },
-    {
-      "added_at": "2024-10-22 08:16:55",
-      "album": {
-        "name": "\u30a2\u30f2\u30a4\u30ed\u30de\u30fc\u30c1",
-        "url": "https://open.spotify.com/album/2HRNGICQXpLEj3cpZ6Udyx"
-      },
-      "artists": [
-        {
-          "name": "Aoto Kei",
-          "url": "https://open.spotify.com/artist/2xiTu4bRHOuHaxWndb7MRN"
-        },
-        {
-          "name": "MEIKO",
-          "url": "https://open.spotify.com/artist/2IkmuwBBKvBWsJjzyUsvhp"
-        }
-      ],
-      "duration_ms": 243750,
-      "name": "\u30a2\u30f2\u30a4\u30ed\u30de\u30fc\u30c1 (feat. MEIKO)",
-      "url": "https://open.spotify.com/track/022Q3IwCK3GUeuu09sDavQ"
-    },
-    {
-      "added_at": "2024-10-22 08:36:28",
-      "album": {
-        "name": "\u6c99\u7530\u306e\u601d\u3044\u51fa",
-        "url": "https://open.spotify.com/album/7wOw6RzzH4G613UlcCzLtI"
-      },
-      "artists": [
-        {
-          "name": "InashikiJoshu",
-          "url": "https://open.spotify.com/artist/10rPjOV5oYYHpOvHagj341"
-        }
-      ],
-      "duration_ms": 301595,
-      "name": "\u6c99\u7530\u306e\u601d\u3044\u51fa",
-      "url": "https://open.spotify.com/track/7eY93TJuTi3DMKiUQKSMcB"
-    },
-    {
-      "added_at": "2024-10-22 08:36:42",
-      "album": {
-        "name": "\u6563\u83ef\u306e\u523b",
-        "url": "https://open.spotify.com/album/4zfpZ0BH686sPRIox1vwjH"
-      },
-      "artists": [
-        {
-          "name": "\u305f\u304b\u3074\u3043",
-          "url": "https://open.spotify.com/artist/10JYeaYHS7K34njKOD8Baa"
-        }
-      ],
-      "duration_ms": 310459,
-      "name": "\u6563\u83ef\u306e\u523b",
-      "url": "https://open.spotify.com/track/4zBuxq1gMUpt4epZ6IgoJA"
     }
   ],
   "unique_name": "KARENT\u30bb\u30ec\u30af\u30b7\u30e7\u30f3 Spending at Home",

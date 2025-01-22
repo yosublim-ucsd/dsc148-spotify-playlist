@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7Zqfq7rklwe.md) - [plain]
 
 > Suomen suurin ja paras rock\-soittolista\. 🐶 Kannessa One Morning Left.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,203 likes - 91 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,202 likes - 91 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

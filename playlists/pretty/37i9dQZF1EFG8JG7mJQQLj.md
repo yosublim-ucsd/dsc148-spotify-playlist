@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5bb9hy3CdA7TjjHrHawvwl">Ryan Tedder</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,095 likes - 470 songs - 1 day 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,099 likes - 470 songs - 1 day 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,8 +144,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 134 | [In My Bones](https://open.spotify.com/track/1dcK8O2qEq7E34o4ImQEco) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [In My Bones](https://open.spotify.com/album/1KIJzQIjSlJaSQZ9qLf1kB) | 2:36 |
 | 135 | [Wild Life](https://open.spotify.com/track/4zD9RBG51Lj8bnQwolLnyu) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 4:27 |
 | 136 | [Best Years](https://open.spotify.com/track/6LHDP5yKHUIQxeml0YKUQy) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [CALM](https://open.spotify.com/album/46K4raQPIGem3N031upNj9) | 3:10 |
-| 137 | [New Love](https://open.spotify.com/track/42QGdFKDbWMDvmgsYq35HP) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:16 |
-| 138 | [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:04 |
+| 137 | [Fantastic \(from the series Arcane League of Legends\)](https://open.spotify.com/track/071uK6V3dKj3BMNNzTEyRu) | [Arcane](https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR), [King Princess](https://open.spotify.com/artist/6beUvFUlKliUYJdLOXNj9C) | [Arcane League of Legends: Season 2 \(Soundtrack from the Animated Series\)](https://open.spotify.com/album/2x6LWti2bjYS6AllSomoV7) | 3:04 |
+| 138 | [New Love](https://open.spotify.com/track/42QGdFKDbWMDvmgsYq35HP) | [Maroon 5](https://open.spotify.com/artist/04gDigrS5kc9YWfZHwBETP) | [V](https://open.spotify.com/album/2Auw0pTT6EcQdvHNimhLQI) | 3:16 |
 | 139 | [Rumour Has It / Someone Like You](https://open.spotify.com/track/5iYUt3rsgrGFU0nugdhYwj) | [Glee Cast](https://open.spotify.com/artist/0SCbttzoZTnLFebDYmAWCm) | [Glee: The Music, Volume 7](https://open.spotify.com/album/5QbBCWilH4naI9TGm9lbG2) | 3:27 |
 | 140 | [Shadow \(feat\. IRO\) \- From Songland](https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [iRO](https://open.spotify.com/artist/3TNpNnN7Y8QhtJJnQ08YeF) | [Shadow \(feat\. IRO\) \[From Songland\]](https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3) | 2:57 |
 | 141 | [Marchin On](https://open.spotify.com/track/4BUtvtGTRvJB49Hx2F7lle) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up](https://open.spotify.com/album/2pLAOZiilrhOrTQNqrF8qr) | 4:11 |
@@ -169,8 +169,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 159 | [Happy](https://open.spotify.com/track/55whSVkLeOcEhLaU91DQ8Q) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Echo](https://open.spotify.com/album/3KMc2Ey1t8gv4r9VfYgqbH) | 4:02 |
 | 160 | [He Said She Said](https://open.spotify.com/track/0jTTjg6q4jsd2RhuHwTvLj) | [Ashley Tisdale](https://open.spotify.com/artist/2ddxtfC0oS8LoktXUHE7YL) | [Headstrong](https://open.spotify.com/album/18Cdeub4WBPKku92zlsfWp) | 3:08 |
 | 161 | [Bring U Down](https://open.spotify.com/track/3fsH9s00dbn9mSgUu7Yi9D) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [7](https://open.spotify.com/album/4IRiXE5NROxknUSAUSjMoO) | 2:11 |
-| 162 | [Higher](https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
-| 163 | [Back for More \(TXT Ver.\)](https://open.spotify.com/track/2AdzsePCqH6NUcMq7tYYmx) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:42 |
+| 162 | [Back for More \(TXT Ver.\)](https://open.spotify.com/track/2AdzsePCqH6NUcMq7tYYmx) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: FREEFALL](https://open.spotify.com/album/63fWdGyeBj8VDjvHSUROx3) | 2:42 |
+| 163 | [Higher](https://open.spotify.com/track/4bEpL49l4f0r8GtsjUFUqL) | [Michael Bublé](https://open.spotify.com/artist/1GxkXlMwML1oSg5eLPiAz3) | [Higher](https://open.spotify.com/album/6b6xEoiubMlgeGN6nrWM2V) | 3:05 |
 | 164 | [VULGAR \(with Madonna\)](https://open.spotify.com/track/74APVIUFqFFM1ML6SE7xxL) | [Sam Smith](https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI), [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW) | [VULGAR \(with Madonna\)](https://open.spotify.com/album/2yKZrKET8g66x3bKPFfmTT) | 2:35 |
 | 165 | [Lobby](https://open.spotify.com/track/17UMDTqVeX3SqvgKr8kSmF) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Missy Elliott](https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk) | [Versions of Me \(Deluxe\)](https://open.spotify.com/album/7mJHNN7NNnPBofreezMbef) | 2:37 |
 | 166 | [Love Looks Better](https://open.spotify.com/track/0HL5XOeVxgX1cEPY2KgRRa) | [Alicia Keys](https://open.spotify.com/artist/3DiDSECUqqY1AuBP8qtaIa) | [ALICIA](https://open.spotify.com/album/1168pCxg0HeTRqyutFf4o1) | 3:23 |
@@ -315,8 +315,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 305 | [Take It Out On Me](https://open.spotify.com/track/7lISY14A9I1w3m7to2kWv1) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Human \(Deluxe\)](https://open.spotify.com/album/0SrskI3mHcu5MzKeZNv2f6) | 2:27 |
 | 306 | [NEVERMIND \- Bonus Track](https://open.spotify.com/track/7EIFZh5EwM25MXgMnM1OZA) | [Presley Regier](https://open.spotify.com/artist/7AAHfakMQan4p04ozZhhwc) | [RUN](https://open.spotify.com/album/1U9jsdilfpc7REguXmX6T7) | 2:49 |
 | 307 | [Colors](https://open.spotify.com/track/2UyZTPrWFSMysY9cVVjmaB) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 3:51 |
-| 308 | [Need](https://open.spotify.com/track/3Fgr0oHWqNnzI3061G0hB3) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Make A Move](https://open.spotify.com/album/1EQNkmhggPKCVbFpJldHeb) | 3:47 |
-| 309 | [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 |
+| 308 | [Everyone Bleeds](https://open.spotify.com/track/4fTTSo54eiSHqL7sb93JMM) | [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Beautifully Broken](https://open.spotify.com/album/2GW4VpFk9mbc6qYZ0zNuu3) | 2:22 |
+| 309 | [Need](https://open.spotify.com/track/3Fgr0oHWqNnzI3061G0hB3) | [Gavin DeGraw](https://open.spotify.com/artist/5DYAABs8rkY9VhwtENoQCz) | [Make A Move](https://open.spotify.com/album/1EQNkmhggPKCVbFpJldHeb) | 3:47 |
 | 310 | [Love Me, Love Me](https://open.spotify.com/track/5AJfaxekTYEnZTijlvOuxk) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Versions of Me](https://open.spotify.com/album/2TPl41Riu1SDbHoxhCIo2D) | 3:11 |
 | 311 | [Passenger](https://open.spotify.com/track/3LzDGNWo1EuIN1bW2RTw2x) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Waking Up \(Deluxe\)](https://open.spotify.com/album/6EuKoCk8R63UfuPLa9qr7U) | 4:00 |
 | 312 | [Cowboys](https://open.spotify.com/track/4pQx11xYo2rNP5HdOoaLgt) | [Charlotte Lawrence](https://open.spotify.com/artist/7LImGq5KnzQobZciDJpeJb) | [Charlotte](https://open.spotify.com/album/0UkABhrJ1PM3iQ1NxAxDsq) | 3:58 |
@@ -359,8 +359,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 349 | [Heaven \- Acoustic](https://open.spotify.com/track/0IcL9jPFBst0l7vUcuYVH3) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 3:53 |
 | 350 | [Speak Up](https://open.spotify.com/track/6u88kKIAGstDtF400mk1fq) | [Kristinia DeBarge](https://open.spotify.com/artist/5Z22vlK4DCgDrQgBEqfc8w) | [Exposed \(Deluxe Edition\)](https://open.spotify.com/album/7f45cxgKjDpNLsvscwYvjS) | 3:42 |
 | 351 | [Glassheart](https://open.spotify.com/track/0KMFnL2nr4WBdN5WXFjTji) | [Leona Lewis](https://open.spotify.com/artist/5lKZWd6HiSCLfnDGrq9RAm) | [Glassheart \(Deluxe Edition\)](https://open.spotify.com/album/2UdrDacKZMsfV2aOIGbG0q) | 3:56 |
-| 352 | [The Last Goodbye](https://open.spotify.com/track/3GMl5vmoSXsWwQR21GM0Qo) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [This Loud Morning](https://open.spotify.com/album/2sAl0bHZ6QtLEcBmbJOCPd) | 3:00 |
-| 353 | [DARC ROOM](https://open.spotify.com/track/5lWEygGCrVxP3jmr8A468Q) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DARC ROOM](https://open.spotify.com/album/2Jh7uDbzE04g6zrhen37o5) | 2:45 |
+| 352 | [DARC ROOM](https://open.spotify.com/track/5lWEygGCrVxP3jmr8A468Q) | [DUSTY LOCANE](https://open.spotify.com/artist/22hWz22JAmIhIEp0u1X01L) | [DARC ROOM](https://open.spotify.com/album/2Jh7uDbzE04g6zrhen37o5) | 2:45 |
+| 353 | [The Last Goodbye](https://open.spotify.com/track/3GMl5vmoSXsWwQR21GM0Qo) | [David Cook](https://open.spotify.com/artist/4SQxI8xg6LcSWL3KuGVHLa) | [This Loud Morning](https://open.spotify.com/album/2sAl0bHZ6QtLEcBmbJOCPd) | 3:00 |
 | 354 | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/track/0gJHtHSwr5VgA1EXbVT177) | [Max Embers](https://open.spotify.com/artist/11O6zlvW2ifkhcXjOpNrhE) | [Lookin' Up \(From "Songland"\)](https://open.spotify.com/album/2gW9Uy819K8S9dxYTfvFRR) | 2:41 |
 | 355 | [Better \- String Version](https://open.spotify.com/track/1CSjnpL63KuOa0VnF6T3uS) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Oh My My \(Deluxe\)](https://open.spotify.com/album/6p01JdkB7ry8iAf4IuC1Lv) | 3:23 |
 | 356 | [RIIICH](https://open.spotify.com/track/2ckJF2jluuZ8q3BRZ19as7) | [Grace Mitchell](https://open.spotify.com/artist/3VjZEaHXvNbCmV5jc0VfZR) | [RIIICH](https://open.spotify.com/album/2Tv4mu5RRsj5YfG7TYoyC4) | 3:14 |
@@ -479,4 +479,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFG8JG7mJQQLj.md) - [plain]
 | 469 | [Imacallya](https://open.spotify.com/track/3Pp5ga2Y7dJMm3bWBXQmXj) | [Salvador Santana Band](https://open.spotify.com/artist/2iqCtfFnHrmaZ2xaJE2Ems) | [SSB](https://open.spotify.com/album/5b9NHrOp6VV9VxnmaFcsR3) | 3:35 |
 | 470 | [Born To Race](https://open.spotify.com/track/69rjvTJkEuLgHuxCXF0MEY) | [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [Born To Race](https://open.spotify.com/album/10kpIbHXZ3ljVNqszvRKod) | 3:11 |
 
-Snapshot ID: `AbnZ1AAAAADjLjY+DzeQ0dwnuSaoYXd0`
+Snapshot ID: `AbnfVgAAAAAM9z4jHMW3BhViQ/vAdr+K`

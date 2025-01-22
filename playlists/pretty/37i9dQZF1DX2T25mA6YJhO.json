@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Venturi, Alison Darwin.",
-  "num_followers": 23757,
+  "num_followers": 23772,
   "original_name": "Rock 2025",
   "owner": {
     "name": "Spotify",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-01-16 23:00:29",
       "album": {
-        "name": "DIRECTOS AL INFIERNO",
-        "url": "https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP"
-      },
-      "artists": [
-        {
-          "name": "LA \u00c9LITE",
-          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
-        }
-      ],
-      "duration_ms": 122115,
-      "name": "Historia Triste",
-      "url": "https://open.spotify.com/track/2mis3ZNjBoMXR7DCejSSZC"
-    },
-    {
-      "added_at": "2025-01-16 23:00:29",
-      "album": {
         "name": "Intemperie",
         "url": "https://open.spotify.com/album/3QOjC4R4QSRi9bEOmRflxM"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 171428,
       "name": "Intemperie",
       "url": "https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1"
+    },
+    {
+      "added_at": "2025-01-16 23:00:29",
+      "album": {
+        "name": "DIRECTOS AL INFIERNO",
+        "url": "https://open.spotify.com/album/5UX28qeYNKDt1xk2LzZspP"
+      },
+      "artists": [
+        {
+          "name": "LA \u00c9LITE",
+          "url": "https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov"
+        }
+      ],
+      "duration_ms": 122115,
+      "name": "Historia Triste",
+      "url": "https://open.spotify.com/track/2mis3ZNjBoMXR7DCejSSZC"
     },
     {
       "added_at": "2025-01-16 23:00:29",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-01-16 23:00:29",
       "album": {
+        "name": "1 de enero",
+        "url": "https://open.spotify.com/album/1TjCUAUUMRG1b4lpaAOhZ2"
+      },
+      "artists": [
+        {
+          "name": "Yawners",
+          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
+        }
+      ],
+      "duration_ms": 167394,
+      "name": "1 de enero",
+      "url": "https://open.spotify.com/track/1CmLxjRz3cY8cqJnfdH2as"
+    },
+    {
+      "added_at": "2025-01-16 23:00:29",
+      "album": {
         "name": "\u00a1Viva!",
         "url": "https://open.spotify.com/album/0dV4jCRJfsqoB8f2FcGqti"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 154773,
       "name": "\u00a1Viva!",
       "url": "https://open.spotify.com/track/0EdGdYvp8HaQOVoacOQnMS"
-    },
-    {
-      "added_at": "2025-01-16 23:00:29",
-      "album": {
-        "name": "1 de enero",
-        "url": "https://open.spotify.com/album/1TjCUAUUMRG1b4lpaAOhZ2"
-      },
-      "artists": [
-        {
-          "name": "Yawners",
-          "url": "https://open.spotify.com/artist/5tD6FNrK7Hlxlkt4pbAliC"
-        }
-      ],
-      "duration_ms": 167394,
-      "name": "1 de enero",
-      "url": "https://open.spotify.com/track/1CmLxjRz3cY8cqJnfdH2as"
     },
     {
       "added_at": "2025-01-16 23:00:29",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-01-16 23:00:29",
       "album": {
-        "name": "Perdiendo el tiempo",
-        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
-      },
-      "artists": [
-        {
-          "name": "Las Dianas",
-          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
-        }
-      ],
-      "duration_ms": 166528,
-      "name": "Perdiendo el tiempo",
-      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
-    },
-    {
-      "added_at": "2025-01-16 23:00:29",
-      "album": {
         "name": "Ojal\u00e1",
         "url": "https://open.spotify.com/album/5Htln8zIdXX92DDqp4fZQo"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 193621,
       "name": "ojal\u00e1",
       "url": "https://open.spotify.com/track/1TDXbQqiDvITY91djPOvop"
+    },
+    {
+      "added_at": "2025-01-16 23:00:29",
+      "album": {
+        "name": "Perdiendo el tiempo",
+        "url": "https://open.spotify.com/album/6wl55GMGjbBCxabteJo17c"
+      },
+      "artists": [
+        {
+          "name": "Las Dianas",
+          "url": "https://open.spotify.com/artist/5jTPdO06h2aTkDtHCYMAIm"
+        }
+      ],
+      "duration_ms": 166528,
+      "name": "Perdiendo el tiempo",
+      "url": "https://open.spotify.com/track/0Aotvy8CxQXOc8FlXEoPBt"
     },
     {
       "added_at": "2025-01-16 23:00:29",
@@ -1259,18 +1259,18 @@
     {
       "added_at": "2025-01-16 23:00:29",
       "album": {
-        "name": "el beso que nunca nos dimos",
-        "url": "https://open.spotify.com/album/5bh9cKDsu7pzKkjkQ7nNRf"
+        "name": "Donde caben 2",
+        "url": "https://open.spotify.com/album/1jVfBdJLNBeAFrAdxTQsMo"
       },
       "artists": [
         {
-          "name": "Bloodstein",
-          "url": "https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw"
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
         }
       ],
-      "duration_ms": 183264,
-      "name": "el beso que nunca nos dimos",
-      "url": "https://open.spotify.com/track/7gmOM0OWCWpV7UVwDsXhcK"
+      "duration_ms": 133493,
+      "name": "Donde caben 2",
+      "url": "https://open.spotify.com/track/3o4c7V9homHR3wFow99KS1"
     },
     {
       "added_at": "2025-01-16 23:00:29",
@@ -1291,18 +1291,18 @@
     {
       "added_at": "2025-01-16 23:00:29",
       "album": {
-        "name": "Donde caben 2",
-        "url": "https://open.spotify.com/album/1jVfBdJLNBeAFrAdxTQsMo"
+        "name": "el beso que nunca nos dimos",
+        "url": "https://open.spotify.com/album/5bh9cKDsu7pzKkjkQ7nNRf"
       },
       "artists": [
         {
-          "name": "PELIGRO!",
-          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
+          "name": "Bloodstein",
+          "url": "https://open.spotify.com/artist/4zSSxRkfPyASwmON2Nlctw"
         }
       ],
-      "duration_ms": 133493,
-      "name": "Donde caben 2",
-      "url": "https://open.spotify.com/track/3o4c7V9homHR3wFow99KS1"
+      "duration_ms": 183264,
+      "name": "el beso que nunca nos dimos",
+      "url": "https://open.spotify.com/track/7gmOM0OWCWpV7UVwDsXhcK"
     },
     {
       "added_at": "2025-01-16 23:00:29",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2025-01-16 23:00:29",
       "album": {
+        "name": "Nadie Se Muere De Amor",
+        "url": "https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO"
+      },
+      "artists": [
+        {
+          "name": "Talleres Molina",
+          "url": "https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "Nadie Se Muere De Amor",
+      "url": "https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8"
+    },
+    {
+      "added_at": "2025-01-16 23:00:29",
+      "album": {
         "name": "COMERTE",
         "url": "https://open.spotify.com/album/0ifKdGsvgwtMl1bPWSOvxz"
       },
@@ -1419,18 +1435,18 @@
     {
       "added_at": "2025-01-16 23:00:29",
       "album": {
-        "name": "Nadie Se Muere De Amor",
-        "url": "https://open.spotify.com/album/335ITgrhO2tHwMoxCmkvVO"
+        "name": "WTF",
+        "url": "https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx"
       },
       "artists": [
         {
-          "name": "Talleres Molina",
-          "url": "https://open.spotify.com/artist/3EJWrAjVZj9kfic7cVF3M2"
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
         }
       ],
-      "duration_ms": 166000,
-      "name": "Nadie Se Muere De Amor",
-      "url": "https://open.spotify.com/track/6sScHl2Ors7Uq88gHeTgV8"
+      "duration_ms": 187816,
+      "name": "WTF",
+      "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
     },
     {
       "added_at": "2025-01-16 23:00:29",
@@ -1451,22 +1467,6 @@
       "duration_ms": 164906,
       "name": "ahora es diferente",
       "url": "https://open.spotify.com/track/5kzRmChVusM1Vu3fRc0yW4"
-    },
-    {
-      "added_at": "2025-01-16 23:00:29",
-      "album": {
-        "name": "WTF",
-        "url": "https://open.spotify.com/album/5ApCX1wSvwDMCEK7d0Njlx"
-      },
-      "artists": [
-        {
-          "name": "PELIGRO!",
-          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
-        }
-      ],
-      "duration_ms": 187816,
-      "name": "WTF",
-      "url": "https://open.spotify.com/track/5RcL45YbinszYJU2Stixca"
     },
     {
       "added_at": "2025-01-16 23:00:29",
@@ -1519,6 +1519,22 @@
     {
       "added_at": "2025-01-16 23:00:29",
       "album": {
+        "name": "Rob Gordon",
+        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
+      },
+      "artists": [
+        {
+          "name": "Becarios",
+          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
+        }
+      ],
+      "duration_ms": 123309,
+      "name": "Rob Gordon",
+      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
+    },
+    {
+      "added_at": "2025-01-16 23:00:29",
+      "album": {
         "name": "Entre las nubes",
         "url": "https://open.spotify.com/album/2gNrMDx4aVs2XNolOvcRJJ"
       },
@@ -1551,22 +1567,6 @@
       "duration_ms": 174613,
       "name": "Ganas de verte",
       "url": "https://open.spotify.com/track/31ZhYH8vyZceJpm0PYpW6Y"
-    },
-    {
-      "added_at": "2025-01-16 23:00:29",
-      "album": {
-        "name": "Rob Gordon",
-        "url": "https://open.spotify.com/album/18I9Tqw9GfujPFUP3zZ2CR"
-      },
-      "artists": [
-        {
-          "name": "Becarios",
-          "url": "https://open.spotify.com/artist/5SqIWRE4qf5c0FmmePSGiU"
-        }
-      ],
-      "duration_ms": 123309,
-      "name": "Rob Gordon",
-      "url": "https://open.spotify.com/track/40O5fHVDXbesbgnNOyJdy7"
     },
     {
       "added_at": "2025-01-16 23:00:29",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2025-01-16 23:00:29",
       "album": {
-        "name": "L\u00e1grimas y Milagros",
-        "url": "https://open.spotify.com/album/40P4jN9htifGsIMHjxmPWp"
-      },
-      "artists": [
-        {
-          "name": "Battosai",
-          "url": "https://open.spotify.com/artist/0IuuB4NgA0AT19Mxrifl7N"
-        }
-      ],
-      "duration_ms": 147599,
-      "name": "Arde",
-      "url": "https://open.spotify.com/track/2gmRNw19tkeNn784Hlxvgp"
-    },
-    {
-      "added_at": "2025-01-16 23:00:29",
-      "album": {
         "name": "Ya Estoy Mayor",
         "url": "https://open.spotify.com/album/6DEnljjYwXMgCu37ejugHP"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 181975,
       "name": "Ya Estoy Mayor",
       "url": "https://open.spotify.com/track/6bwh3lirkVVXAeGDSmAY6q"
+    },
+    {
+      "added_at": "2025-01-16 23:00:29",
+      "album": {
+        "name": "L\u00e1grimas y Milagros",
+        "url": "https://open.spotify.com/album/40P4jN9htifGsIMHjxmPWp"
+      },
+      "artists": [
+        {
+          "name": "Battosai",
+          "url": "https://open.spotify.com/artist/0IuuB4NgA0AT19Mxrifl7N"
+        }
+      ],
+      "duration_ms": 147599,
+      "name": "Arde",
+      "url": "https://open.spotify.com/track/2gmRNw19tkeNn784Hlxvgp"
     }
   ],
   "unique_name": "Rock 2025",

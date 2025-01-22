@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 
 > Le meilleur de la scène alternative du moment\. Photo : Astral Bakers
 
-[Spotify](https://open.spotify.com/user/spotify) - 165,999 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 165,998 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUa8WMYIRY8Y.md) - [plain]
 | 49 | [Pray To Me](https://open.spotify.com/track/0cUwbbBAQBIAVOoeViCIeb) | [BAMBARA](https://open.spotify.com/artist/0JHvODQe3KnriRMPuZPNL6) | [Pray To Me](https://open.spotify.com/album/11zYqXZ5SJzgXUh0HADIcg) | 3:29 |
 | 50 | [Ohio All The Time](https://open.spotify.com/track/63Kd061yhHz1K6UEztFmJ5) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Ohio All The Time](https://open.spotify.com/album/5gS0mVQdlowwHfpf4k5hJO) | 3:04 |
 
-Snapshot ID: `Z2SlpAAAAADcmE+XEa7rSPbHJ0WSUmZ4`
+Snapshot ID: `Z499lQAAAACc7liA5V8gYw6D/A43Xotx`

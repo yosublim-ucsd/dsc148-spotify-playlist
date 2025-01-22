@@ -4,7 +4,7 @@
 
 > Hottest bars coming live from the 233\.  Cover: Joey b
 
-662 songs - 1 day 9 hr 13 min
+663 songs - 1 day 9 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Aso\)den](https://open.spotify.com/track/7oqQRSdepSrX1z0YmMA6Ky) | [Yaw Tog](https://open.spotify.com/artist/2Dqt6WjEca8WcZuGiUcYDd) | [Aso\)den](https://open.spotify.com/album/55WQAIPqeYwBSrutMaXiRK) | 3:15 | 2022-11-04 | 2023-05-27 |
 | [ASOR](https://open.spotify.com/track/50ZxuYLK3Ksexm6GoyqRom) | [Kawabanga](https://open.spotify.com/artist/5VcDYvRgsmMRpklUZarFEh), [Trig Triga](https://open.spotify.com/artist/1B9BzKM9kFTw5vjRsXUdff), [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN) | [ASOR](https://open.spotify.com/album/1UabuKaGS9tZqFSlAZTTsF) | 3:23 | 2024-08-30 | 2024-09-20 |
 | [Assignment](https://open.spotify.com/track/1Crv7EI1sdcy07OlvvoA2Y) | [KiddBlack](https://open.spotify.com/artist/3vQvbO6Fd24F5StyZp1UMH), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [DJ FortuneDJ](https://open.spotify.com/artist/3H1ujqsrtJXeYDoJ2Ar9I9) | [Assignment](https://open.spotify.com/album/2CnjO9KA45Cu5OTtshEr0D) | 2:17 | 2022-06-24 | 2023-09-29 |
-| [Atoro \(Lies\)](https://open.spotify.com/track/1mTj0jGPxr9Eh8FvX156nr) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Atoro \(Lies\)](https://open.spotify.com/album/2lLsSwoch7R5PscH95ZG1J) | 3:18 | 2024-06-28 |  |
+| [Atoro \(Lies\)](https://open.spotify.com/track/1mTj0jGPxr9Eh8FvX156nr) | [Oseikrom Sikanii](https://open.spotify.com/artist/5nGJTouhuCNLqWzhrw7wQN), [Jay Bahd](https://open.spotify.com/artist/0Q7yvULFrthrEzwtn5hRcw) | [Atoro \(Lies\)](https://open.spotify.com/album/2lLsSwoch7R5PscH95ZG1J) | 3:18 | 2024-06-28 | 2025-01-22 |
 | [atross](https://open.spotify.com/track/0IY5XAa2sinzz6cGPs3VBo) | [Slim Drumz](https://open.spotify.com/artist/26aYXu5NRqjKJUrDzGxRVT), [Kirani Ayat](https://open.spotify.com/artist/1fFrD70weJrj1mnHPWiVx9) | [atross](https://open.spotify.com/album/2FtQJwvXKtC7dCdWXDelzz) | 3:03 | 2023-11-24 | 2023-12-08 |
 | [Attack On The Block](https://open.spotify.com/track/64dVuim4fxFimRNqlMd60Y) | [Kreptismenace](https://open.spotify.com/artist/7hfJIAZM4bU4kqRHikQvOz) | [Attack On The Block](https://open.spotify.com/album/44yRSsKRPZm3MxAqoT0qop) | 1:58 | 2024-01-19 | 2024-01-26 |
 | [Awoyo Sofo](https://open.spotify.com/track/0AYl4k8cN3YXxVb88azE9K) | [Kwaw Kese](https://open.spotify.com/artist/5orboL2SUTJGDKfMVgCCBt), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Awoyo Sofo](https://open.spotify.com/album/0GvruFtY50oHOTlsixNnah) | 3:15 | 2024-02-23 |  |
@@ -371,6 +371,7 @@
 | [MEMORIES](https://open.spotify.com/track/4U7o1pramUrLh5jN2mXVgd) | [Lyrical Joe](https://open.spotify.com/artist/1bCnq7HaURPc4HcIsWKEsg) | [MEMORIES](https://open.spotify.com/album/462SxdQMC2vpzkGD6lBUyp) | 2:56 | 2023-09-29 | 2023-10-13 |
 | [Mene Woaa](https://open.spotify.com/track/24Ceh5kDkM1L4ySRer7Zwt) | [Strongman](https://open.spotify.com/artist/4ISHXrztVcONj4mQCnwCs9), [Kesse](https://open.spotify.com/artist/3pqyFnLAZA520AsRRXRXlx) | [Mene Woaa](https://open.spotify.com/album/6w0SJqpnBeqYFR5vUqTdGt) | 3:12 | 2024-06-14 | 2024-06-28 |
 | [Menko Me Hemaa](https://open.spotify.com/track/3PgrIynhIQ1veOjGDCWroU) | [CozyPols](https://open.spotify.com/artist/6lAhQepj0Huol204o3M9rL) | [Menko Me Hemaa](https://open.spotify.com/album/2DBshbcvgxUz5dk2pC2QMD) | 3:00 | 2024-01-26 | 2024-03-08 |
+| [Messiah](https://open.spotify.com/track/2Jd4Q221yEUErBKmzGlIGy) | [Sarkodie](https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8), [Kweku Flick](https://open.spotify.com/artist/2lSLuh2H1mtsxFBNm9ZbKF) | [Messiah](https://open.spotify.com/album/6GvlPCWz9hwNqlcHpKYwrx) | 2:44 | 2025-01-21 |  |
 | [Midnight](https://open.spotify.com/track/43H88ZoZoU4jt9jIIjxe4b) | [Larruso](https://open.spotify.com/artist/57oThb5OUWumUvGOib8OUS) | [Midnight](https://open.spotify.com/album/4Ol9KKCihUw5uV7PTtStO9) | 2:10 | 2022-08-25 | 2024-06-01 |
 | [Milli](https://open.spotify.com/track/7BacjHUkoZ7clhKSwaVSEv) | [Twitch 4EVA](https://open.spotify.com/artist/1U9hi0kw9OcJiw7xvwE6go), [Kofi Mole](https://open.spotify.com/artist/7zB3I7PBh39rcwg2haB5Ac) | [Milli](https://open.spotify.com/album/54Oo6bmvV6PSgIkwy9QC68) | 2:08 | 2023-06-22 | 2023-09-10 |
 | [Misbehavior](https://open.spotify.com/track/0n3tva9XBW73ijgXuUHOgB) | [Thywill](https://open.spotify.com/artist/3HlsFrguj4THOUWbqGLbnV), [O'Kenneth](https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM), [Kwaku DMC](https://open.spotify.com/artist/4gP93834jVbocef9R42gQz) | [Misbehavior](https://open.spotify.com/album/00hiuIxViGMdmYoAKigUbd) | 3:00 | 2024-01-19 | 2024-01-26 |

@@ -479,38 +479,6 @@
     {
       "added_at": "2025-01-14 07:10:00",
       "album": {
-        "name": "BREWING LOVE, Pt. 2 (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/59T2rZS0qx9lzvRzkcMSHy"
-      },
-      "artists": [
-        {
-          "name": "Kim Na Young",
-          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
-        }
-      ],
-      "duration_ms": 188360,
-      "name": "Today",
-      "url": "https://open.spotify.com/track/3f79GGIETMKipouU03d3Be"
-    },
-    {
-      "added_at": "2025-01-14 07:10:00",
-      "album": {
-        "name": "Through the Night",
-        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
-      },
-      "artists": [
-        {
-          "name": "IU",
-          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
-        }
-      ],
-      "duration_ms": 253293,
-      "name": "Through the Night",
-      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
-    },
-    {
-      "added_at": "2025-01-14 07:10:00",
-      "album": {
         "name": "HONEY",
         "url": "https://open.spotify.com/album/13G1o00M2cXesfbhj8p8H2"
       },
@@ -531,6 +499,22 @@
     {
       "added_at": "2025-01-14 07:10:00",
       "album": {
+        "name": "Through the Night",
+        "url": "https://open.spotify.com/album/1zQnkQc68sQj2Ns5GIuxld"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "duration_ms": 253293,
+      "name": "Through the Night",
+      "url": "https://open.spotify.com/track/1Bb6jVrsg8cXxMCBxIWJUn"
+    },
+    {
+      "added_at": "2025-01-14 07:10:00",
+      "album": {
         "name": "42",
         "url": "https://open.spotify.com/album/0b8ic9Uuk1hhhRTihimPYc"
       },
@@ -543,6 +527,22 @@
       "duration_ms": 152786,
       "name": "42",
       "url": "https://open.spotify.com/track/5nYaUKKyENQ7EmiXxRTq4b"
+    },
+    {
+      "added_at": "2025-01-14 07:10:00",
+      "album": {
+        "name": "BREWING LOVE, Pt. 2 (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/59T2rZS0qx9lzvRzkcMSHy"
+      },
+      "artists": [
+        {
+          "name": "Kim Na Young",
+          "url": "https://open.spotify.com/artist/4dvmLXorXADxVq8EcySEWk"
+        }
+      ],
+      "duration_ms": 188360,
+      "name": "Today",
+      "url": "https://open.spotify.com/track/3f79GGIETMKipouU03d3Be"
     },
     {
       "added_at": "2025-01-14 07:10:00",

@@ -1,6 +1,6 @@
 {
   "description": "These are the eclectic sounds of now. Cover: Ethel Cain",
-  "num_followers": 53462,
+  "num_followers": 53470,
   "original_name": "Alt Here",
   "owner": {
     "name": "Spotify",
@@ -183,6 +183,30 @@
       "duration_ms": 184511,
       "name": "Wompoo",
       "url": "https://open.spotify.com/track/366iAPnZfkkeGGrt0ihtmk"
+    },
+    {
+      "added_at": "2025-01-16 13:00:25",
+      "album": {
+        "name": "Typical Remixes",
+        "url": "https://open.spotify.com/album/1erRlyRYARL5frALjooxTw"
+      },
+      "artists": [
+        {
+          "name": "Nightmares On Wax",
+          "url": "https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0"
+        },
+        {
+          "name": "Jordan Rakei",
+          "url": "https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68"
+        },
+        {
+          "name": "Children of Zeus",
+          "url": "https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z"
+        }
+      ],
+      "duration_ms": 160880,
+      "name": "Typical - Children of Zeus Remix",
+      "url": "https://open.spotify.com/track/0U1XJE6wqO3C7S16HvdSWc"
     },
     {
       "added_at": "2024-12-19 13:00:23",

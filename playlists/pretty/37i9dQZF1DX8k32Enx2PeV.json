@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 12214,
+  "num_followers": 12226,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -325,6 +325,26 @@
       "url": "https://open.spotify.com/track/1cSkkHgh9Ff8zcQpkW71nf"
     },
     {
+      "added_at": "2024-11-26 17:54:19",
+      "album": {
+        "name": "Saltas Por Mi",
+        "url": "https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW"
+      },
+      "artists": [
+        {
+          "name": "Goyo",
+          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
+        },
+        {
+          "name": "Luister La Voz",
+          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Saltas Por Mi",
+      "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
+    },
+    {
       "added_at": "2024-08-09 04:23:31",
       "album": {
         "name": "Afro Vibes",
@@ -347,26 +367,6 @@
       "duration_ms": 196271,
       "name": "Caf\u00e9",
       "url": "https://open.spotify.com/track/10qhwiwVoeKVnF7mvr9Uqs"
-    },
-    {
-      "added_at": "2024-11-26 17:54:19",
-      "album": {
-        "name": "Saltas Por Mi",
-        "url": "https://open.spotify.com/album/2btt6J3HVUYtncmPqrueGW"
-      },
-      "artists": [
-        {
-          "name": "Goyo",
-          "url": "https://open.spotify.com/artist/2ECiXSK7umi1luAaQyrCUX"
-        },
-        {
-          "name": "Luister La Voz",
-          "url": "https://open.spotify.com/artist/4FoMtKClFtTNsfQN7ivDII"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Saltas Por Mi",
-      "url": "https://open.spotify.com/track/4sDMrCZp5s9U2RcQkc5KY2"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -719,22 +719,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Aqu\u00ed Me Tienes",
-        "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 157259,
-      "name": "Aqu\u00ed Me Tienes",
-      "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Cosas del Destino",
         "url": "https://open.spotify.com/album/3ZmmsX6h0h1RYZFqlAcWy3"
       },
@@ -751,6 +735,22 @@
       "duration_ms": 214129,
       "name": "Cosas del Destino",
       "url": "https://open.spotify.com/track/4scXnDwua2yWqwDzTb3MEE"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Aqu\u00ed Me Tienes",
+        "url": "https://open.spotify.com/album/4qxs8GmOoIiALQJrhIsOjN"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 157259,
+      "name": "Aqu\u00ed Me Tienes",
+      "url": "https://open.spotify.com/track/1mn07IQ6mb5PbpIdTw1wtR"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -971,6 +971,22 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
+        "name": "All Inclusive",
+        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
+      },
+      "artists": [
+        {
+          "name": "Marissa Mur",
+          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
+        }
+      ],
+      "duration_ms": 155613,
+      "name": "All Inclusive",
+      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
         "name": "M\u00e1quina Del Tiempo",
         "url": "https://open.spotify.com/album/5XoNFY7hjKE1aM7u7mVArg"
       },
@@ -987,22 +1003,6 @@
       "duration_ms": 213893,
       "name": "M\u00e1quina Del Tiempo",
       "url": "https://open.spotify.com/track/20YoweYFRfAUHKIIDleCQF"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "All Inclusive",
-        "url": "https://open.spotify.com/album/2Ujz4uZO4sCTOthqc2HGAI"
-      },
-      "artists": [
-        {
-          "name": "Marissa Mur",
-          "url": "https://open.spotify.com/artist/5kt4v3JNtP8svtTI8PDFOT"
-        }
-      ],
-      "duration_ms": 155613,
-      "name": "All Inclusive",
-      "url": "https://open.spotify.com/track/3RRVyOLUHTqPfCKr03Gdhm"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1071,38 +1071,6 @@
     {
       "added_at": "2024-08-09 04:23:31",
       "album": {
-        "name": "Ese Dinero",
-        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
-      },
-      "artists": [
-        {
-          "name": "Nia Vanie",
-          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
-        }
-      ],
-      "duration_ms": 238648,
-      "name": "Ese Dinero",
-      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
-        "name": "Capul\u00ed",
-        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
-      },
-      "artists": [
-        {
-          "name": "Luz Pinos",
-          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
-        }
-      ],
-      "duration_ms": 202770,
-      "name": "Capul\u00ed",
-      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
-    },
-    {
-      "added_at": "2024-08-09 04:23:31",
-      "album": {
         "name": "Feliz",
         "url": "https://open.spotify.com/album/26MWxdbAKjNgZ68EBd1R3C"
       },
@@ -1115,6 +1083,22 @@
       "duration_ms": 211034,
       "name": "Feliz",
       "url": "https://open.spotify.com/track/2r5B8HCPNO6mKrGKH86Mzd"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Ese Dinero",
+        "url": "https://open.spotify.com/album/4AqhwZMcqqb0qv2eh79AFT"
+      },
+      "artists": [
+        {
+          "name": "Nia Vanie",
+          "url": "https://open.spotify.com/artist/2AAkCTYG2KE8Ocl7JK97wD"
+        }
+      ],
+      "duration_ms": 238648,
+      "name": "Ese Dinero",
+      "url": "https://open.spotify.com/track/1OZnwe4IGv3hmNeZ9x6r5F"
     },
     {
       "added_at": "2024-08-09 04:23:31",
@@ -1151,6 +1135,22 @@
       "duration_ms": 140955,
       "name": "Losken Roland",
       "url": "https://open.spotify.com/track/5Inucz20QjnA1sPbpsXj49"
+    },
+    {
+      "added_at": "2024-08-09 04:23:31",
+      "album": {
+        "name": "Capul\u00ed",
+        "url": "https://open.spotify.com/album/2oAG4DUG1vIVMOgtWsoqxA"
+      },
+      "artists": [
+        {
+          "name": "Luz Pinos",
+          "url": "https://open.spotify.com/artist/23D2NCgVNbve7gXb2AjOFM"
+        }
+      ],
+      "duration_ms": 202770,
+      "name": "Capul\u00ed",
+      "url": "https://open.spotify.com/track/5yoQCiZjwoAKqBzqKlDdh5"
     },
     {
       "added_at": "2024-08-09 04:23:31",

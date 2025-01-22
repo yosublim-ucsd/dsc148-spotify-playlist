@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-Hip Hop](https://open.spotify.com/playlist/37i9dQZF1DWWvmOXYvR5a6)
 
-> Trendy x Chill K\-Hip Hop\.  \(Cover: JMIN\) \(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
+> Trendy x Chill K\-Hip Hop\.  \(Cover: Verbal Jint\(버벌진트\)\)\(트렌디 x 칠! 세련되고 듣기 편한 힙합음악들을 즐겨보세요.\)
 
-740 songs - 1 day 15 hr 51 min
+741 songs - 1 day 15 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -452,7 +452,7 @@
 | [Nerdy Love](https://open.spotify.com/track/2TfsNTyC4uuamXBZJnU0ga) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/2mN6cv4lJ5zATfEr84Myro) | 3:16 | 2022-07-24 | 2024-04-19 |
 | [Nerdy Love](https://open.spotify.com/track/2jBSyGuol2kWCdgSoclQ9C) | [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Yerin Baek](https://open.spotify.com/artist/6dhfy4ByARPJdPtMyrUYJK) | [Nerdy Love](https://open.spotify.com/album/59wrpQm51Eng077uRTDv15) | 3:16 | 2022-04-01 | 2022-07-29 |
 | [Never Grind \(feat\. 100KGOLD & HOWLER\)](https://open.spotify.com/track/5lLnlx0BMPJCSXMB9GZHIR) | [Chillin Boi G](https://open.spotify.com/artist/48RuBUKIur5QpC6tvzuVh4), [100KGOLD](https://open.spotify.com/artist/5J9IHTqjLSVbckoTCnAtes), [HOWLER](https://open.spotify.com/artist/5IYAX4BtvKfgcdncdzZecC) | [Never Grind \(feat\. 100KGOLD & HOWLER\)](https://open.spotify.com/album/5SRcrxBK3wt2NR7eEKzi6k) | 3:26 | 2022-10-08 | 2022-10-15 |
-| [NG \(Feat\. pH\-1, Jay Park\)](https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LOVE MAZE](https://open.spotify.com/album/7rOm15Kcboervh20RasQPp) | 3:47 | 2022-10-28 |  |
+| [NG \(Feat\. pH\-1, Jay Park\)](https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M) | [TRADE L](https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W), [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [LOVE MAZE](https://open.spotify.com/album/7rOm15Kcboervh20RasQPp) | 3:47 | 2022-10-28 | 2025-01-22 |
 | [Night Drive \(Feat\. JAEHA, Ourealgoat\)](https://open.spotify.com/track/72dvx8MKBBkQ5VugbINOHG) | [PATEKO](https://open.spotify.com/artist/0J372uvAXbRjLFSoAVE2lp), [JAEHA](https://open.spotify.com/artist/4CF0QZtzsHDYdTHqipMGdh), [아우릴고트 \(Ourealgoat\)](https://open.spotify.com/artist/16VvyJKSg4Wxl0tU7Td0FJ) | [Blended Noise](https://open.spotify.com/album/7EB0Fr3m45Il2lmxA4I87O) | 2:53 | 2022-04-01 | 2022-07-29 |
 | [No Bad Dogs \(feat\. YDG, Zion.T\) \(Prod\. Slom\)](https://open.spotify.com/track/1BVXVMH9da5wS4fe6vCVqS) | [Wonstein](https://open.spotify.com/artist/5o615XColiSVMPDWlslKSk), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi), [Zion.T](https://open.spotify.com/artist/5HenzRvMtSrgtvU16XAoby) | [Show Me The Money 9 Semi Final](https://open.spotify.com/album/0plEgZoHiIXfQQ8eJYir1V) | 3:45 | 2022-04-01 | 2022-07-23 |
 | [No Cap](https://open.spotify.com/track/7w1tw9obMmKhrNhvWHeoy9) | [Young B](https://open.spotify.com/artist/2tPP8xyEoA4eZsRsobc3KP), [Osshun Gum](https://open.spotify.com/artist/4F4rHRjTw15zhEFKvnLs7q) | [Show Me the Money 8 Final](https://open.spotify.com/album/1QS1GA2jf4dkhvS7YXFAlT) | 4:04 | 2022-07-14 | 2022-07-16 |
@@ -569,6 +569,7 @@
 | [Seat Belt \(Feat\. Dynamic Duo\)](https://open.spotify.com/track/2WcMriAJ84pN5ZW8cBiUnQ) | [Primary](https://open.spotify.com/artist/4QDcs3XrA8uHUZ7Xt9Ytep), [Pphk](https://open.spotify.com/artist/7Aj5YhBa3fybV1CotHRftv), [다이나믹 듀오](https://open.spotify.com/artist/16cRWWcs7lg0DxKweabRhf) | [Primary and Pphk Pt.1](https://open.spotify.com/album/5CCVroCLwjRk4GDTwCaX4t) | 4:08 | 2022-06-18 | 2022-07-29 |
 | [Self Isolation \(feat\. Paloalto\)](https://open.spotify.com/track/6neQsYjtYlp98ioxs2XhZn) | [Leellamarz](https://open.spotify.com/artist/79g2STpP2iV1xfgHuhrhX0), [TOIL](https://open.spotify.com/artist/698zn8fEOIr1OrfqG4283S), [Paloalto](https://open.spotify.com/artist/2Yv0nlRtzgPl6u0dsS2hFv) | [Self Isolation](https://open.spotify.com/album/190NSlHxe7iDHTe1V9Pb5c) | 3:37 | 2022-05-03 | 2022-07-18 |
 | [Selfish \(Feat\. Woo\)](https://open.spotify.com/track/6De1dLF23zuUzf5jbh2vI1) | [GRAY](https://open.spotify.com/artist/3kPEBSt7qgVoRZSbIXMr7W), [Woo](https://open.spotify.com/artist/5a8EJtOEbUJDF4RX3mKK02) | [grayground.](https://open.spotify.com/album/0mKZ3E9OFlnbMboE22h0VK) | 3:28 | 2022-04-21 | 2022-07-21 |
+| [Semen Analysis](https://open.spotify.com/track/43BfGwtuOOL5afN8lTKG9v) | [Verbal Jint](https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR) | [HAPPY END](https://open.spotify.com/album/0qIzl7bf88ON5s0HuZ9WUG) | 2:31 | 2025-01-21 |  |
 | [Sensitive \(Feat\. Yong Yong\) \(Prod\. Way Ched\)](https://open.spotify.com/track/38FtaX0lTQXLT7BmbUHcSm) | [Jayci yucca](https://open.spotify.com/artist/6yFuoRFCsxQLasjZqdwvAM), [용용\(yongyong\)](https://open.spotify.com/artist/3GSlkavpHzm4wGvUJo0Bx4) | [Sensitive \(Feat\. Yong Yong\) \(Prod\. Way Ched\)](https://open.spotify.com/album/2g91i7Dnox27C6Z79IAW8G) | 3:15 | 2022-06-09 | 2022-06-21 |
 | [Seokchon Lake \(Prod\. OPO\)](https://open.spotify.com/track/3Ys1RMLdevLDW2vy6ZfPiY) | [FR:EDEN](https://open.spotify.com/artist/6psIuXSnGPGKY93Wcj1qeW) | [Seokchon Lake](https://open.spotify.com/album/6H8aEMN206OF5MeErEbyMy) | 3:13 | 2022-05-11 | 2022-07-28 |
 | [SEOUL DRIFT](https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0) | [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0) | [SEOUL DRIFT](https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC) | 3:19 | 2022-07-19 |  |

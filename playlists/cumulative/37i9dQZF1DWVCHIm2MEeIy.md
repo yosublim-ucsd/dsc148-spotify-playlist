@@ -4,7 +4,7 @@
 
 > This is our playground! 🪩  Cover: Keinemusik
 
-504 songs - 1 day 19 hr 15 min
+505 songs - 1 day 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -273,6 +273,7 @@
 | [Luna](https://open.spotify.com/track/19nIwUJ2K8fSF2VUoOXEUM) | [Ann Clue](https://open.spotify.com/artist/5fasubnSIOTRYlIZA17ong) | [Luna](https://open.spotify.com/album/42RzcaAaTLCowXNlHAK1Du) | 3:50 | 2022-04-15 | 2024-03-08 |
 | [Luna](https://open.spotify.com/track/2BCaas3HKVlNZAe2Lzfq7x) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi), [AKIRA](https://open.spotify.com/artist/0dErkhdd4nhGJhX2Hwi2vM) | [Dunes](https://open.spotify.com/album/5OraR3Y7Ccd990r66pBWUB) | 2:50 | 2023-05-26 | 2024-02-23 |
 | [Luxo](https://open.spotify.com/track/6gn7rTpP0DkB0qoeqYjbg1) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Luxo](https://open.spotify.com/album/1ljuxJF2wOPnfQwFhQ8EJJ) | 5:32 | 2024-05-16 | 2024-06-10 |
+| [Machine Surge](https://open.spotify.com/track/4TJfJafmKhHmSogSD86HKn) | [Magdalena](https://open.spotify.com/artist/4wlgF2WCCPNhQ0FpNwO3vc) | [Machine Surge](https://open.spotify.com/album/3AzUe2zn9kvK8VlayIY0QB) | 3:49 | 2025-01-21 |  |
 | [Magic Nights \- Tube & Berger Remix](https://open.spotify.com/track/4ff0BdLgicfCTBRpIt3jd4) | [Rony Seikaly](https://open.spotify.com/artist/4AcGuUg7odrpcPUlrHGezB), [Eskuche](https://open.spotify.com/artist/26OGW7G9W6HKQ3yjQ2CEkX), [Tube & Berger](https://open.spotify.com/artist/32wcuqRxZuBY5HbH1bWa8h) | [Magic Nights \(Tube & Berger Remix\)](https://open.spotify.com/album/29Qof8mxwqq8heQ9neNMSu) | 6:24 | 2022-04-15 | 2022-07-28 |
 | [Makarska \- Vanita Remix](https://open.spotify.com/track/3JJxoW8289IEbnJvRm3HfO) | [Jack Colletta](https://open.spotify.com/artist/2EgIljXM8MIum0YIBB2YJ9), [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Makarska](https://open.spotify.com/album/3exr7WNkz2Ptdmq6xeXYCV) | 5:43 | 2022-04-15 | 2022-07-26 |
 | [Make You Scream](https://open.spotify.com/track/0EeMLsi9eUQokrejzb7WTH) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN) | [Make You Scream](https://open.spotify.com/album/6D7tuGipq3Q40SgM47rW46) | 2:43 | 2022-06-24 | 2023-01-14 |
@@ -432,7 +433,7 @@
 | [Strobe \- Victor Ruiz Remix](https://open.spotify.com/track/7imzYANu2fpLPkaM92PO2E) | [deadmau5](https://open.spotify.com/artist/2CIMQHirSU0MQqyYHq0eOx), [Victor Ruiz](https://open.spotify.com/artist/0xgdNNa5mIbnJKp8AG8S4z) | [Strobe \(2024 Remixes\)](https://open.spotify.com/album/7ynt5ILHydfzqMTBhEZqBf) | 6:26 | 2024-12-16 |  |
 | [Stronger](https://open.spotify.com/track/7gGf1lpYd8AiibjYIh2ups) | [Kaz James](https://open.spotify.com/artist/1XGHs7YFtpCbDGKaNdPPtA), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Stronger](https://open.spotify.com/album/3fvkqHSmVJQls8VuFp2s7L) | 2:56 | 2024-01-22 | 2024-09-03 |
 | [Sun](https://open.spotify.com/track/6FZEmS1Yvqo9xur5UZvsxx) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8) | [The Sun](https://open.spotify.com/album/30bXZmNZtQ262KwynjQE5W) | 6:01 | 2023-02-03 | 2023-03-22 |
-| [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-21 |  |
+| [Sunrise To The Morning](https://open.spotify.com/track/3emVhc0IE2PTmy2XUFqHmF) | [Franky Wah](https://open.spotify.com/artist/3IG3Ub4ra8AuSxCFDVkVco) | [Sunrise To The Morning](https://open.spotify.com/album/2V4T76ceB2EAjQf1optzOn) | 4:28 | 2024-08-21 | 2025-01-22 |
 | [Survival Mode](https://open.spotify.com/track/5NkuFcVjBnrZU6JKSAU546) | [Maya Jane Coles](https://open.spotify.com/artist/6TshTCYwh9ySzOO6Jy4Ux2) | [Night Creature](https://open.spotify.com/album/2jye5HOLZkOmO2p97B3fgU) | 3:31 | 2022-04-15 | 2022-07-06 |
 | [Sweet Disposition \- John Summit & Silver Panda Remix](https://open.spotify.com/track/6rGf5AsEaVskU0pO2ewcUL) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq), [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Silver Panda](https://open.spotify.com/artist/310IX3ZzFSl14ZvY2dM8Da) | [Sweet Disposition \(John Summit & Silver Panda Remix\)](https://open.spotify.com/album/1xGF8XISTlMx8LCZrxhLa5) | 4:11 | 2024-03-07 |  |
 | [Symbiosis](https://open.spotify.com/track/1wHryy89PY492h8PH0Bezo) | [Vanita](https://open.spotify.com/artist/03wBbT5tqttIBpmUrNa9ur) | [Symbiosis](https://open.spotify.com/album/3SUKFfe6l0sutYY1FI9mx6) | 6:12 | 2022-04-15 | 2022-07-29 |

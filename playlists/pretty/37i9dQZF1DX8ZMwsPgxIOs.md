@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 
 > Techno is a state of mind\. Cover: Mha Iri
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,777 likes - 119 songs - 7 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,791 likes - 119 songs - 7 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8ZMwsPgxIOs.md) - [plain]
 | 16 | [Last Night \- Anyma x Layton Giordani Remix](https://open.spotify.com/track/22hOKPKTAegLoLJKM33K4a) | [Loofy](https://open.spotify.com/artist/6zx3vuOK841XDu7XFozhFv), [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Layton Giordani](https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4) | [Last Night \(Anyma x Layton Giordani Remix\)](https://open.spotify.com/album/001JSP4fD2dw3KA95XFxOa) | 4:16 |
 | 17 | [Real Talk \- Original Mix](https://open.spotify.com/track/3ZlcwK8L6FYgCszPE2EfCl) | [GHSTGHSTGHST](https://open.spotify.com/artist/3SrkcdnKx2kzCHGFk9xE48) | [Real Talk](https://open.spotify.com/album/2fWm61rJu9In4lJ69FB2WB) | 5:51 |
 | 18 | [Deep Down Low](https://open.spotify.com/track/47Uhvxb4PsqhxBKptHs7fL) | [Dense & Pika](https://open.spotify.com/artist/3tlt5onLwIKTuaOAyI6ytC) | [Deep Down Low](https://open.spotify.com/album/67hiz3GZMmy2ivr7r5iKAd) | 6:47 |
-| 19 | [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 |
+| 19 | [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 |
 | 20 | [My Fantasy](https://open.spotify.com/track/3ynLsU2eeew6HJSKKQIsck) | [HI\-LO](https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd), [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA) | [My Fantasy](https://open.spotify.com/album/6RuDefM3tROFkpIbT7JTfF) | 3:00 |
 | 21 | [Neon Storm](https://open.spotify.com/track/7wHHdOV12YO5GKhiYXnAcU) | [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Neon Storm](https://open.spotify.com/album/4RJ5JoM4AKoxw3bm6rKqmH) | 3:52 |
 | 22 | [Roll The Windows Down](https://open.spotify.com/track/1OQ5MRSyHjkufpiRXOSIh8) | [Popof](https://open.spotify.com/artist/4f2K0RSYyxP4TUyZu1azYB) | [Roll The Windows Down](https://open.spotify.com/album/7h3CIQh9QUyYAX1bKNjRvA) | 4:39 |

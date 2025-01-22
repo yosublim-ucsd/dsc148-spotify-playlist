@@ -2,9 +2,9 @@
 
 ### [발라드, 려요 \(K\-Pop Ballad Hits\)](https://open.spotify.com/playlist/37i9dQZF1DX5LEXW9eXA0n)
 
-> New & hot K\-Pop ballads\. \(Cover: HYNN\(박혜원\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
+> New & hot K\-Pop ballads\. \(Cover: Paul Kim\(폴킴\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-1,384 songs - 3 day 17 hr 32 min
+1,385 songs - 3 day 17 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -460,7 +460,7 @@
 | [I Count Three](https://open.spotify.com/track/5U9MJFoTMxxkUNeC7DGI4f) | [KCM](https://open.spotify.com/artist/2cijK40RWU3ouFUnwW8v3K) | [I Count Three](https://open.spotify.com/album/73SciIcxj2Y5Rv6wUjBdfE) | 5:40 | 2022-03-31 | 2022-04-13 |
 | [I didn't know back then](https://open.spotify.com/track/4bmeg9Q5PtrEfSjUPtN1xo) | [Song Pu Reum](https://open.spotify.com/artist/1d0t8x4bbcIX2p8Ew11zve) | [I didn't know back then](https://open.spotify.com/album/0AzjowvsTD4IoQMoXRyVa1) | 3:24 | 2022-08-01 | 2022-12-27 |
 | [I Don't Deserve to Be Loved](https://open.spotify.com/track/2eI8WM0a0KLjQnWiyPMIic) | [Baek Grim](https://open.spotify.com/artist/6mVsxcJyevC8Aqe722CfFB) | [I Don't Deserve to Be Loved](https://open.spotify.com/album/7xUxFxbvpseFMhAQGSwmjE) | 3:45 | 2022-07-04 | 2022-09-30 |
-| [I don't want to try too hard](https://open.spotify.com/track/5i4AG1SJzoaZA9BRIcLIkd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [I don't want to try too hard](https://open.spotify.com/album/2DAMtOoAtOxIb7hCdrzS2V) | 3:25 | 2024-09-23 |  |
+| [I don't want to try too hard](https://open.spotify.com/track/5i4AG1SJzoaZA9BRIcLIkd) | [Broccoli, you too?](https://open.spotify.com/artist/1gq4XavqmZhqOzEkpFBz1j) | [I don't want to try too hard](https://open.spotify.com/album/2DAMtOoAtOxIb7hCdrzS2V) | 3:25 | 2024-09-23 | 2025-01-22 |
 | [I feel](https://open.spotify.com/track/0D87LPNSFzltA0IPc9C8MN) | [Yang Da Il](https://open.spotify.com/artist/5DnjOSzLCfn4hDbLECq8pt) | [I feel](https://open.spotify.com/album/2bBm0Jj6uyLCUMmqiwL2xY) | 3:46 | 2023-03-15 | 2023-07-18 |
 | [I Feel It Now](https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When The Phone Rings, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/09APlXxudP3YywxqQnH6dU) | 3:53 | 2025-01-02 |  |
 | [I feel so alone](https://open.spotify.com/track/4RDeeHsaxvS9jr2aUzyhXg) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [수상한 작업실 Episode 2](https://open.spotify.com/album/5EjqxCdy711Yzx4Rgo9aLp) | 2:49 | 2023-01-20 | 2023-02-15 |
@@ -492,6 +492,7 @@
 | [I Missed You](https://open.spotify.com/track/20SIjymeaQNEv0NkPLpa6N) | [WSG WANNABE\(4FIRE\)](https://open.spotify.com/artist/5pBMUwsALQyFKrbV2nAaKD) | [WSG WANNABE 1st Album](https://open.spotify.com/album/3r8M9Yudjzg4kNR4cThoB9) | 3:27 | 2022-07-11 | 2022-12-27 |
 | [I need to hold you](https://open.spotify.com/track/5XbXOUPOklCEw9dJtgNwd4) | [LEEWOO](https://open.spotify.com/artist/3yqfDFGcPyMlSaR2AMKaSz) | [I need to hold you](https://open.spotify.com/album/69OTLGnxUisR11BivkoUL3) | 3:47 | 2023-11-15 | 2024-05-01 |
 | [I Promise](https://open.spotify.com/track/3mwK3Xvg9dz0pEf286cHIn) | [Lee Juck](https://open.spotify.com/artist/0pfVDTchnVMBTzGylIuJNa) | [Romantic Doctor 3 OST Part.6](https://open.spotify.com/album/2JGCTG01GOZkdg12zzXPFt) | 4:52 | 2023-06-13 | 2023-10-03 |
+| [I Remember \(yours\)](https://open.spotify.com/track/3WurJc74gxwOrEL3JNqDHr) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Sincerely yours \(10th Anniversary Edition\)](https://open.spotify.com/album/02bhP9otK5sM8f3fPcxE17) | 4:41 | 2025-01-21 |  |
 | [I Remember You](https://open.spotify.com/track/2WOAu8tgfIZUyPMWAGZrFn) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [Mental Coach Jegal, Pt\. 3 \(Original Television Soundtrack\)](https://open.spotify.com/album/2TX54rHWegMmVQOiP4JYQ3) | 3:11 | 2022-09-28 | 2023-01-11 |
 | [I see you in my eyes](https://open.spotify.com/track/63j3jHNacYaN4pyusII2Zn) | [Han Dong Geun](https://open.spotify.com/artist/69K447yK7IW0NCZGEh79e1) | [I see you in my eyes](https://open.spotify.com/album/44rEz9qIaVOlFAvyqvru2a) | 3:42 | 2024-05-17 | 2024-09-14 |
 | [I See You, You See Him](https://open.spotify.com/track/5p3qWzZWVQeOULME1kok1U) | [Llwyd](https://open.spotify.com/artist/3KgcgM87HRDj5fXNFFFDM0) | [I See You, You See Him](https://open.spotify.com/album/2o1RYnEbhODNNdBXewcpKd) | 2:46 | 2023-02-14 | 2023-03-28 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Ebony. The essential tracks, all in one playlist.",
-  "num_followers": 11117,
+  "num_followers": 11134,
   "original_name": "This Is Ebony",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4xAgAAAAABfzjJxQWRahVOdSH7TMwm/",
+  "snapshot_id": "Z42SAAAAAACiATd/xDPE/3lQowtaPqbT",
   "tracks": [
     {
       "added_at": null,
@@ -947,30 +947,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
-        "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
+        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
+        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
       },
       "artists": [
-        {
-          "name": "Filipe Papi",
-          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
-        },
-        {
-          "name": "Xaga",
-          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
-        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "CRIVO",
-          "url": "https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe"
+          "name": "MangoLab",
+          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
         }
       ],
-      "duration_ms": 181714,
-      "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
-      "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
+      "duration_ms": 110348,
+      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
+      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
     },
     {
       "added_at": null,
@@ -995,22 +987,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bourbon (Ao Vivo no Est\u00fadio MangoLab)",
-        "url": "https://open.spotify.com/album/5Z9yIfKWr5Z3gxSu1Akmw8"
+        "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+        "url": "https://open.spotify.com/album/1Qiv1Ia80WJ8ryqXWX5hy5"
       },
       "artists": [
+        {
+          "name": "Filipe Papi",
+          "url": "https://open.spotify.com/artist/4PIbPYHfWC6FC2RL6livhm"
+        },
+        {
+          "name": "Xaga",
+          "url": "https://open.spotify.com/artist/6d7xhkmwkbhwqF5j57IaL6"
+        },
         {
           "name": "Ebony",
           "url": "https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb"
         },
         {
-          "name": "MangoLab",
-          "url": "https://open.spotify.com/artist/5Dy75ZScAdoNKi4vC8oCym"
+          "name": "CRIVO",
+          "url": "https://open.spotify.com/artist/0N2KGZptIZRKtEakTbNoxe"
         }
       ],
-      "duration_ms": 110348,
-      "name": "Bourbon - Ao Vivo no Est\u00fadio MangoLab",
-      "url": "https://open.spotify.com/track/4UMHhiFTQwywcStHOjKzVc"
+      "duration_ms": 181714,
+      "name": "Tons #3 - Velocidade (BR 101) [feat. CRIVO]",
+      "url": "https://open.spotify.com/track/55ndEIr4ApcHOtBp67iZ2l"
     },
     {
       "added_at": null,

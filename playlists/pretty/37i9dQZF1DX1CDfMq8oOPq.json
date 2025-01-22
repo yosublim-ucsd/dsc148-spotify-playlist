@@ -1,6 +1,6 @@
 {
   "description": "big d com a senha da cena, fenomenal!",
-  "num_followers": 63116,
+  "num_followers": 63176,
   "original_name": "Baby Hair",
   "owner": {
     "name": "Spotify",
@@ -839,30 +839,6 @@
     {
       "added_at": "2024-12-13 13:06:33",
       "album": {
-        "name": "EPIFANIA",
-        "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
-      },
-      "artists": [
-        {
-          "name": "Cristal",
-          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
-        },
-        {
-          "name": "MDN Beatz",
-          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
-        },
-        {
-          "name": "Drik Barbosa",
-          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
-        }
-      ],
-      "duration_ms": 213125,
-      "name": "LOVE COMMUNITY",
-      "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
-    },
-    {
-      "added_at": "2024-12-13 13:06:33",
-      "album": {
         "name": "Verdinha Criminosa",
         "url": "https://open.spotify.com/album/2EedIUumt8ALF4Hr26SunX"
       },
@@ -883,6 +859,30 @@
       "duration_ms": 159516,
       "name": "Verdinha Criminosa",
       "url": "https://open.spotify.com/track/6WHReC5GArql7M1MC92DY4"
+    },
+    {
+      "added_at": "2024-12-13 13:06:33",
+      "album": {
+        "name": "EPIFANIA",
+        "url": "https://open.spotify.com/album/63mfI9tJYa7abqbCGKH86m"
+      },
+      "artists": [
+        {
+          "name": "Cristal",
+          "url": "https://open.spotify.com/artist/6i4nbGTS2gSP0e6emkTqdX"
+        },
+        {
+          "name": "MDN Beatz",
+          "url": "https://open.spotify.com/artist/6EaIRN2UvHGu9EdeBvfPo1"
+        },
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        }
+      ],
+      "duration_ms": 213125,
+      "name": "LOVE COMMUNITY",
+      "url": "https://open.spotify.com/track/1VAeAV4KpvrLyFlEyohJMU"
     },
     {
       "added_at": "2024-12-13 13:06:33",

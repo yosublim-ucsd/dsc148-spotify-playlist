@@ -4,7 +4,7 @@
 
 > Sempre aggiornata\. Con nuovi brani di Papa e Nerissima, Paky e Simba, Icy Subzero e tanti altri 🔥
 
-4,766 songs - 8 day 21 hr 24 min
+4,768 songs - 8 day 21 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Battle Royale](https://open.spotify.com/track/71DslySNgv6dXKutbPlqsx) | [Faser](https://open.spotify.com/artist/2gB1sbhrKdnw2fI9nD6O3Z) | [Smetto quando voglio](https://open.spotify.com/album/5knZxih0JUHM43QEoOZcF0) | 2:16 | 2023-10-26 | 2023-11-17 |
 | [Batto il piede giù](https://open.spotify.com/track/7B6YpmeNk6cl10ACUd0jIb) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK) | [Batto il piede giù](https://open.spotify.com/album/39inoBrpaaTTXTMY94qsKa) | 1:51 | 2024-06-13 | 2024-07-05 |
 | [Bau Bau](https://open.spotify.com/track/0Q8H7I8ZVOVcHfGKXjmiXn) | [Piotta](https://open.spotify.com/artist/1BOlQSV8XJgH0adrCt1wUx), [A.I.](https://open.spotify.com/artist/5HbFcqLuQxSFv6Y9R5oF0C) | [Bau Bau](https://open.spotify.com/album/52UvmrBvNm8bssHWBBIP5u) | 2:58 | 2023-11-02 | 2023-11-17 |
+| [BB](https://open.spotify.com/track/3hmYAR2dKvTWB4Foq5fCIq) | [ayo ally](https://open.spotify.com/artist/6Xa2PfSltPs34Bi5OP6nQR), [Rossella Essence](https://open.spotify.com/artist/5uw59dgrWXoss2sg9TC3HD) | [BB](https://open.spotify.com/album/1shsEZNDtYpU2WJbfCSqVy) | 2:00 | 2025-01-21 |  |
 | [Bbaci sul collo](https://open.spotify.com/track/49oB8MhNJT9mAlwOh59Vje) | [Marquisslove](https://open.spotify.com/artist/2OtLUQ1TBgbtR2BCqnANWd) | [Bbaci sul collo](https://open.spotify.com/album/1iQCNVQKj6NiTxzfYnNsCF) | 2:21 | 2024-11-01 | 2024-11-15 |
 | [BBE \(feat\. Lazza\)](https://open.spotify.com/track/0PnIaRhEUne93rWxeHgV70) | [ANNA](https://open.spotify.com/artist/7K80yOTC0Id95gRaOxDG5u), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [BBE \(feat\. Lazza\)](https://open.spotify.com/album/4mdCxRMR3dBBcPEFlDsAK3) | 3:18 | 2024-05-09 | 2024-06-07 |
 | [BE NE REVIENS PAS](https://open.spotify.com/track/3L6iVIRS7htFAJ6uIh4FEo) | [Fata](https://open.spotify.com/artist/2e0HLVyPlF5jP9khNWfV3m) | [BE NE REVIENS PAS](https://open.spotify.com/album/2W3WtB9HDRC5L5ZuMV2GUF) | 2:34 | 2022-12-09 | 2023-01-13 |
@@ -3225,6 +3226,7 @@
 | [PAPÀ \(il mostro\)](https://open.spotify.com/track/2MeU2VkQRktWge8ORnZL7c) | [Spender](https://open.spotify.com/artist/1F5Nly0FV6dIoFNWPYTHMb) | [PAPÀ \(il mostro\)](https://open.spotify.com/album/1cg2jbTeecTBLNKf3ic1ka) | 2:59 | 2024-11-26 | 2024-11-29 |
 | [PARA](https://open.spotify.com/track/6sirNLUKtMOZWOJuQUputH) | [Keta](https://open.spotify.com/artist/0noBqdN1IGlVyoYkpd6Vrn) | [ERROR 442](https://open.spotify.com/album/3cvVjdslZvZ8Ti1BeDXxEU) | 2:48 | 2022-12-15 | 2023-01-04 |
 | [Paradise \(feat\. Tedua\)](https://open.spotify.com/track/3wQQPngZfwK3JP4hDf2KfU) | [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS), [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Milano Angels](https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL) | 2:51 | 2024-09-05 | 2024-09-27 |
+| [PARADISO](https://open.spotify.com/track/5Zy1FVr4RQSJkSi1EgNMyP) | [Promessa](https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN), [Don Joe](https://open.spotify.com/artist/3WrMBQYO99lzSOhYGPiVoQ) | [PARADISO](https://open.spotify.com/album/6n6yt61Qlm4eB3urOVzIgu) | 3:06 | 2025-01-21 |  |
 | [Paradiso & Inferno](https://open.spotify.com/track/4jmdFKP6vJlEOgTXTftaHW) | [Heartman](https://open.spotify.com/artist/7lfWprbkwMtTCuOoKGoYNt), [Lie O'Neill](https://open.spotify.com/artist/3Tg6pYYnrDvaPH2OwyMl3S) | [Paradiso & Inferno](https://open.spotify.com/album/5pS1WGsTET4iAXgeueFCM9) | 2:16 | 2022-06-02 | 2022-06-24 |
 | [Paradiso Zanza](https://open.spotify.com/track/0Pqx6YE3rWThrzbbZtT3pE) | [Pepito Rella](https://open.spotify.com/artist/2eX8GywDmO0LWmhzN1f0Kw) | [Paradiso ZANZA](https://open.spotify.com/album/2mb6bn5ySYIStnSUlW2T6G) | 2:52 | 2022-12-01 | 2022-12-09 |
 | [PARAFULMINI \(con Bresh & Fabri Fibra\)](https://open.spotify.com/track/3g6ejyAz7jwE6MitrKCMVY) | [Ernia](https://open.spotify.com/artist/3fhMfkPPzksWuw0hEm4ldm), [Bresh](https://open.spotify.com/artist/7FeObngbQ0GY3SojNwKdKn), [Fabri Fibra](https://open.spotify.com/artist/7u710e44HW3K7A5eTnRqHC) | [IO NON HO PAURA](https://open.spotify.com/album/0Zovm2YyZr0yUhiQAVuJAO) | 3:28 | 2023-05-25 | 2023-06-16 |
@@ -3446,7 +3448,7 @@
 | [Posti Nuovi](https://open.spotify.com/track/5QdT1O7bZsOey5xRpsXHaq) | [Halba x Foldino](https://open.spotify.com/artist/4RFIOsKA6DuzE9DGGOHjPT), [ydn](https://open.spotify.com/artist/4JcvyNRNODMozJnJTomJds) | [Posti Nuovi](https://open.spotify.com/album/1C4z3pP3B748QPchin8sTt) | 2:21 | 2023-06-29 | 2023-07-14 |
 | [POTO](https://open.spotify.com/track/52Z2uZEWw75QL8P4BDRinp) | [Kilimoney](https://open.spotify.com/artist/01lVP0L85U9jYVREPOB8RG) | [LYSSAVIRUS](https://open.spotify.com/album/3MV2PMen1RMpu6CIcFHJJc) | 2:22 | 2023-07-20 | 2023-08-11 |
 | [Poto](https://open.spotify.com/track/55wSyoqffHuph5oqDYsZPR) | [Sisco](https://open.spotify.com/artist/7iASU6YGjRZDizIxW6Q7YE), [DiglieloMosi](https://open.spotify.com/artist/1mRo02HeQHdWL4q6gVJCRK) | [Poto](https://open.spotify.com/album/05YvdzQimCEuruP7PkMyOt) | 1:56 | 2023-12-14 | 2024-01-05 |
-| [POTO \(feat\. Néza\)](https://open.spotify.com/track/4gB1d7kVZamGTOy7TeBvNM) | [Boyka](https://open.spotify.com/artist/5osiBkJhu6mLTbUdjXiGbK), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [POTO \(feat\. Néza\)](https://open.spotify.com/album/0bCL2qxvq00ObrawwM8C8q) | 2:34 | 2024-12-19 |  |
+| [POTO \(feat\. Néza\)](https://open.spotify.com/track/4gB1d7kVZamGTOy7TeBvNM) | [Boyka](https://open.spotify.com/artist/5osiBkJhu6mLTbUdjXiGbK), [Néza](https://open.spotify.com/artist/6cE2WyjXwngsJynb3uk1WO) | [POTO \(feat\. Néza\)](https://open.spotify.com/album/0bCL2qxvq00ObrawwM8C8q) | 2:34 | 2024-12-19 | 2025-01-22 |
 | [POV](https://open.spotify.com/track/3cnGrN6jD99jCuPF0aPR21) | [Ghemon](https://open.spotify.com/artist/4xgOj3GP5I1do9ip0MQkLa) | [POV](https://open.spotify.com/album/4mIEgOzAoKXyixlnV2jjwu) | 2:44 | 2024-10-24 | 2024-11-15 |
 | [Poveri Stronzi](https://open.spotify.com/track/682PD2pANLI15ALgSgiJk2) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D), [Big Fish](https://open.spotify.com/artist/7MAmAdNJ8JLL7JCHzIJkoo) | [Poveri Stronzi](https://open.spotify.com/album/0tqUYwSVhJlIu1BvopoxQt) | 3:15 | 2022-06-23 | 2022-07-15 |
 | [POWER SLAP](https://open.spotify.com/track/0wHW7nZlqZqbxnmTotTLGp) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [È FINITA LA PACE](https://open.spotify.com/album/6nyZbMYKNZyhaFx559HpQo) | 3:17 | 2024-12-13 | 2025-01-03 |

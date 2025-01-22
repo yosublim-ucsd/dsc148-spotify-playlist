@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: samayuzame
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,332 likes - 80 songs - 4 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,348 likes - 80 songs - 4 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,7 +65,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 55 | [SCREW IN MY HEAD](https://open.spotify.com/track/5x3zBzK8AqFShPI8htiegx) | [ん・フェニ](https://open.spotify.com/artist/0EQ1hpoirQ1oH1wFvQb8x0) | [SCREW IN MY HEAD](https://open.spotify.com/album/1M8rMVgYiXufSQpuRVLeeR) | 3:24 |
 | 56 | [閃光のように](https://open.spotify.com/track/17DLsfoCsLbKg6DcL2Nz2X) | [白上フブキ](https://open.spotify.com/artist/2GR0oaCTOgws9PfuheMw0k) | [FBKINGDOM “Blessing”](https://open.spotify.com/album/304FKyyhH8UUl3sgj890HB) | 3:45 |
 | 57 | [Second Life](https://open.spotify.com/track/5dCqgKIMvSM8Fl3TWTXJXC) | [Sticky&Tomaty](https://open.spotify.com/artist/528a3BTdiBfL2rAMXZxgUV) | [Second Life](https://open.spotify.com/album/0CNh43sJQP7LXj7jS3Mdkr) | 4:13 |
-| 58 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 |
+| 58 | [百花繚乱](https://open.spotify.com/track/79zgdvnTPyWSuTrd48Ik5O) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [百花繚乱](https://open.spotify.com/album/3LDV2xGL9HiqCsQujEPQLb) | 2:59 |
 | 59 | [ぜんぶわるいゆめだった！](https://open.spotify.com/track/19BbsKl3RpNG1ASGHD6rX7) | [フジタ カコ](https://open.spotify.com/artist/7zickYqNm26rlWgRWS7wtg) | [ねてもさめても](https://open.spotify.com/album/76jzpxlnw5ZgkvHGDprUNm) | 3:02 |
 | 60 | [純恋愛のインゴット](https://open.spotify.com/track/49OhFX4S8uX22KnzZDGGU2) | [tuki.](https://open.spotify.com/artist/1Y5vJqABeI6QI6R95EDV6o) | [15](https://open.spotify.com/album/2KWmZgT2rfPaTHfr0QQKfD) | 4:04 |
 | 61 | [冷凍ビジョン](https://open.spotify.com/track/0lYtoaf7ke8wqvoKmZnTbL) | [エルスウェア紀行](https://open.spotify.com/artist/6lWxoCU3pEVd1k3QuP2HVb) | [ひかりを編む駐車場](https://open.spotify.com/album/1cTco2C4lKgRGcU2lP6fkV) | 4:32 |

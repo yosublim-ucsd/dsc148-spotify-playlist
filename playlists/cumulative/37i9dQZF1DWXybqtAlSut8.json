@@ -405,6 +405,24 @@
     },
     {
       "album": {
+        "name": "Follow The Light",
+        "url": "https://open.spotify.com/album/2zzcb4sEkBTMD1UBYvZyzR"
+      },
+      "artists": [
+        {
+          "name": "Sigrid Vega",
+          "url": "https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150349,
+      "name": "Follow The Light",
+      "url": "https://open.spotify.com/track/1pwvkqAIJKB6dehTcuCdld"
+    },
+    {
+      "album": {
         "name": "Jesus Paid It All (Piano)",
         "url": "https://open.spotify.com/album/0B6AxwBwpZUm7Bo3KlYCl8"
       },
@@ -492,6 +510,24 @@
       "duration_ms": 138620,
       "name": "Grace",
       "url": "https://open.spotify.com/track/50w8pfoszKBDcYYEOmgTEI"
+    },
+    {
+      "album": {
+        "name": "Grace And Peace",
+        "url": "https://open.spotify.com/album/3uPJxmcUZHkr2N1fuPz0ym"
+      },
+      "artists": [
+        {
+          "name": "Zale Foster",
+          "url": "https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176604,
+      "name": "Grace And Peace",
+      "url": "https://open.spotify.com/track/3T1BlzdFJxRswrlnHDeVla"
     },
     {
       "album": {
@@ -1050,6 +1086,24 @@
       "duration_ms": 141053,
       "name": "Safe In The Arms of Jesus - Piano Version",
       "url": "https://open.spotify.com/track/6yXZXfLp3mEA7MLQRyRjYQ"
+    },
+    {
+      "album": {
+        "name": "Say Yes To The Lord",
+        "url": "https://open.spotify.com/album/7hKRccvptU7r7bUShRTLnc"
+      },
+      "artists": [
+        {
+          "name": "Emberiza Bruni",
+          "url": "https://open.spotify.com/artist/1FKmGiNUrIXlzbSSDOzG92"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166528,
+      "name": "Say Yes To The Lord",
+      "url": "https://open.spotify.com/track/7nyuf6l22METYVRhTBjujN"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Celebrate the great female artists from anime culture\. アニメシーンを彩る女性アーティスト達を特集！ Cover: Aimer
 
-721 songs - 1 day 23 hr 56 min
+722 songs - 2 day 0 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -519,7 +519,7 @@
 | [ハレ晴レユカイ](https://open.spotify.com/track/1663gb8VtFxxRsgBz5jaN7) | [アーリャ（CV：上坂すみれ）](https://open.spotify.com/artist/6T2BNiyW0J5qbP0t2MS2Bk) | [ハレ晴レユカイ（TVアニメ「時々ボソッとロシア語でデレる隣のアーリャさん」エンディングテーマ）](https://open.spotify.com/album/3DDGxVLZh1qq1EnKxG1ANP) | 3:32 | 2024-07-30 | 2024-08-23 |
 | [ハートはお手上げ](https://open.spotify.com/track/7JKJ7p6vz8ZMDdzzd3mww2) | [鈴木愛理](https://open.spotify.com/artist/5YnNfqofR6jjU2DDoGfh2h) | [ハートはお手上げ](https://open.spotify.com/album/3YzQqLy0QpodtniZBp4bT6) | 3:47 | 2022-06-24 | 2024-03-27 |
 | [バイマイダーリン](https://open.spotify.com/track/0EJv7wenuEybeZQLHDplr3) | [MAISONdes](https://open.spotify.com/artist/7LTiBdByoaUd329wCpmMcM), [みきまりあ](https://open.spotify.com/artist/5qoxNBmeNjnCBgmmxb0bBB), [ニト。](https://open.spotify.com/artist/7bNO9nNPBOXrcUzOA66UbE) | [バイマイダーリン](https://open.spotify.com/album/11349d0Gto4UrVUNBIdkwA) | 2:40 | 2024-04-23 | 2024-08-04 |
-| [バラライカ](https://open.spotify.com/track/3rigTlTCT3CTsNJMRowY1g) | [月島きらり starring 久住小春\(モーニング娘。\)](https://open.spotify.com/artist/0ZQh05wci5l2MImnYb0uMe) | [☆☆☆（みつぼし）](https://open.spotify.com/album/0hOMam5wf7RfqX1OHqg8d7) | 3:37 | 2025-01-02 |  |
+| [バラライカ](https://open.spotify.com/track/3rigTlTCT3CTsNJMRowY1g) | [月島きらり starring 久住小春\(モーニング娘。\)](https://open.spotify.com/artist/0ZQh05wci5l2MImnYb0uMe) | [☆☆☆（みつぼし）](https://open.spotify.com/album/0hOMam5wf7RfqX1OHqg8d7) | 3:37 | 2025-01-02 | 2025-01-22 |
 | [ヒカリイロの歌](https://open.spotify.com/track/1wGtjIVbAXPC7z4IFWQE4D) | [鈴木愛奈](https://open.spotify.com/artist/5h7WdhT6aUg1SMMklKJHHV) | [ring A ring](https://open.spotify.com/album/6iBnATap8lt6K905bqwuS7) | 4:19 | 2022-06-24 | 2022-07-26 |
 | [ヒトリとキミと](https://open.spotify.com/track/7Lr6zxhUdO5mwu5pGItYAu) | [Yoshino Nanjo](https://open.spotify.com/artist/4nhgAvJhMQMK4pVA1xVuew) | [ヒトリとキミと](https://open.spotify.com/album/2aa4H5EqIp2nYaI7d6x59X) | 4:21 | 2022-06-14 | 2022-07-27 |
 | [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/track/2vXmfIXEboKyBqNiNV1iGl) | [渕上 舞](https://open.spotify.com/artist/2FS1GkRyHcBhVGfo40uZQE) | [ヒトリノ夜 \- from CrosSing](https://open.spotify.com/album/2eBtB6yN4jRfMe9zER6af3) | 4:06 | 2024-02-13 | 2024-02-15 |
@@ -669,6 +669,7 @@
 | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/track/2eag5tepAFxHgvyM5DNed5) | [音羽\-otoha\-](https://open.spotify.com/artist/0FWjVS3rnr70HEuhNl0JjR) | [狂信者のパレード \- The Parade of Battlers](https://open.spotify.com/album/6Rql8tyfUXkJWq5tlzVMjP) | 4:11 | 2024-04-23 | 2024-07-27 |
 | [独創収差](https://open.spotify.com/track/1TDNF588GS7ijlkGB57o0f) | [Afterglow](https://open.spotify.com/artist/4Gahj9N72kVKOBZbKMu0OI) | [独創収差](https://open.spotify.com/album/6sqC5pyp0EFFxysVHJFcWo) | 4:35 | 2022-09-20 | 2022-10-04 |
 | [生命線](https://open.spotify.com/track/4Ut1yVtaTsq0Mp6F2V2yJC) | [ReoNa](https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C) | [月姫 \-A piece of blue glass moon\- THEME SONG E.P.](https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi) | 4:15 | 2022-06-09 | 2022-07-28 |
+| [白い雪のプリンセスは \- from CrosSing](https://open.spotify.com/track/6r6rI9OtzyCMTGa15gobsy) | [藤田咲](https://open.spotify.com/artist/0Su3XhLar720uSpX1mGSBD) | [白い雪のプリンセスは \- from CrosSing](https://open.spotify.com/album/4tvOivGCX5TQcZWZJyM1hl) | 4:21 | 2025-01-21 |  |
 | [相思相愛](https://open.spotify.com/track/01vIbnKIo9QDYeqSc7ecoi) | [aiko](https://open.spotify.com/artist/6TDMbiQCWeMClsMr9ORLRK) | [相思相愛](https://open.spotify.com/album/7tkIHnzxBW5oulTr2ak1jl) | 4:20 | 2024-04-16 |  |
 | [真っ白](https://open.spotify.com/track/4QGwWIrSqaITsefkbVSTHg) | [諸星すみれ](https://open.spotify.com/artist/5Z7neAQq0zjjW8UX383psP) | [デビューミニアルバム「smile」](https://open.spotify.com/album/1P950IwnBjVGbImslEefQf) | 4:19 | 2022-06-09 | 2022-06-13 |
 | [知らなきゃ](https://open.spotify.com/track/0OKPegc5MwJHYhoMkjDxdS) | [安月名莉子](https://open.spotify.com/artist/7ChJuYuw9pM8MqaZOAmvHX) | [TVアニメ「ハコヅメ\~交番女子の逆襲\~」オープニングテーマ「知らなきゃ」](https://open.spotify.com/album/2iiaezKudY12uKe5LT7Fmh) | 3:53 | 2022-06-09 | 2022-06-12 |

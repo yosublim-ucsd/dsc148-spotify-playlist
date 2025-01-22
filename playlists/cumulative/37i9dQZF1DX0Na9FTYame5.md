@@ -4,7 +4,7 @@
 
 > Deutschrap für die emotions\. Cover: Trettmann, MAJAN
 
-164 songs - 7 hr 28 min
+165 songs - 7 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -84,6 +84,7 @@
 | [KAPUTTE NIKES](https://open.spotify.com/track/0PRn0wppJozInSVkjEpK8Z) | [Capital Bra](https://open.spotify.com/artist/4WZGDpNwrC0vNQyl9QzF7d), [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [KAPUTTE NIKES](https://open.spotify.com/album/57tkUG6UbznOuHYz4GukL2) | 2:48 | 2024-06-28 | 2024-08-29 |
 | [Keine Homies](https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8), [Maxe](https://open.spotify.com/artist/6YTILOAf9umh7RMEJdigWm) | [Keine Homies](https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du) | 2:02 | 2024-06-28 |  |
 | [Keiner weiß](https://open.spotify.com/track/1D5V4wJKfGBaWDOZBbhBX7) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Keiner weiß](https://open.spotify.com/album/4WD7NqPkS0lVnQ3kjbwkRi) | 2:21 | 2025-01-16 |  |
+| [Kind](https://open.spotify.com/track/4kiW0MeoisXxwQ4przGEF1) | [Liaze](https://open.spotify.com/artist/744jIBAAvzMa5eVtUZDxR1) | [Kind](https://open.spotify.com/album/7HB6s9e5ZXDu0LXbgliSXl) | 2:25 | 2025-01-20 |  |
 | [King](https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT) | [Kool Savas](https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD), [Alies](https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4) | [King](https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1) | 2:49 | 2024-06-28 |  |
 | [Kopf aus](https://open.spotify.com/track/5Th2Rs48Gz3iqfcGMXG5PC) | [1986zig](https://open.spotify.com/artist/21H6paZGGR6dQpVmAqbdzV) | [Kopf aus](https://open.spotify.com/album/12K0tzbbpEgWtjmzN31nop) | 2:16 | 2024-06-28 |  |
 | [Lamborghini Pink](https://open.spotify.com/track/3BHtvqkiJwrI1AZwiKs90U) | [Eddin](https://open.spotify.com/artist/2Diqn1jFkehRd9MVDGKGdq) | [Lamborghini Pink](https://open.spotify.com/album/5I73xqCOth2YG4eixevKZr) | 2:48 | 2024-06-28 | 2024-08-21 |
@@ -147,7 +148,7 @@
 | [Tinnitus](https://open.spotify.com/track/4SamJ1uIL2OzAFgDGdnhx0) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Glas](https://open.spotify.com/album/1oMWwWSqcGxpn2YhsYkNt6) | 3:02 | 2024-06-28 | 2024-12-10 |
 | [trauen](https://open.spotify.com/track/15v71BkQIpxgW5vY2ernwh) | [Levin Liam](https://open.spotify.com/artist/7qMDCTsnaGWM9h8rqTnk0q) | [trauen](https://open.spotify.com/album/1chQKL06AdfzCwZBCX68Po) | 2:44 | 2024-08-12 | 2024-11-09 |
 | [ufos](https://open.spotify.com/track/2sR8MJNpZ2rucdoWlaAWK1) | [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [ufos](https://open.spotify.com/album/40wI7xjZ9bsRDtewoLXpTH) | 2:14 | 2024-08-22 | 2024-11-23 |
-| [Uludağ und Sorgen](https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Uludağ und Sorgen](https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT) | 3:06 | 2024-06-28 |  |
+| [Uludağ und Sorgen](https://open.spotify.com/track/1kQKmatH0qVvnT05kJ0o4d) | [Paula Hartmann](https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic), [Symba](https://open.spotify.com/artist/1VmIfQToGVtxmv2w3QtyVY) | [Uludağ und Sorgen](https://open.spotify.com/album/3uR9ZiNsj3VU2x1E0VRNgT) | 3:06 | 2024-06-28 | 2025-01-22 |
 | [Unsichtbar](https://open.spotify.com/track/4HgB1ymUqgHI5lPHywMkDw) | [Kauta](https://open.spotify.com/artist/706cem551IzKiczuAQIEDw) | [Unsichtbar](https://open.spotify.com/album/576kgzwgvfjAO1oeuEekLi) | 2:23 | 2024-10-10 |  |
 | [Unzertrennlich](https://open.spotify.com/track/3HqtURF3IehghsYbGhKxHQ) | [Morpheuz](https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf) | [Unzertrennlich](https://open.spotify.com/album/3OIEJzGzG8l1bq0MHcYpvJ) | 2:58 | 2024-11-18 |  |
 | [Vermissen \(feat\. Henning May\)](https://open.spotify.com/track/07f2b3CTdgKKlhv0mqUksz) | [Juju](https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF), [Henning May](https://open.spotify.com/artist/1cH0i2n6YLrWFDDemqztay) | [Bling Bling](https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA) | 2:41 | 2024-06-28 |  |

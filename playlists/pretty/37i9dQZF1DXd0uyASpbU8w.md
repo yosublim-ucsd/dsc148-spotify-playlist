@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r?si=sFWvqZNGSlOym0SV9gK93Q">Central Cee</a> , <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft?si=f6\-Hfc4iTKyY543MVVs4Rw">21 Savage</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,461 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,479 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 | 48 | [More Than Words](https://open.spotify.com/track/5ZQvtOBSML9DEM7GbLdcF3) | [Demarie](https://open.spotify.com/artist/4wMH6p9mxcndu43v9vc2zj) | [More Than Words](https://open.spotify.com/album/4FU4zRGOp6tncqSyeE4Wo6) | 3:53 |
 | 49 | [Ceasefire](https://open.spotify.com/track/3PNpyA23IAvbSl0PRGenDH) | [Thabo Krouwkam](https://open.spotify.com/artist/5HlMBH4nyRsup7lt6P5A54), [zee@eez](https://open.spotify.com/artist/6oDWtx8trbunM8zKdwbw2e) | [Ceasefire](https://open.spotify.com/album/328Nvh9cpTPPrpQCq8qc0C) | 3:54 |
 
-Snapshot ID: `Z4pbeAAAAAD3HTzD3q88HloraMbet9PF`
+Snapshot ID: `Z4+NUQAAAACTGIRPZeq9yTChAs+/VHtr`

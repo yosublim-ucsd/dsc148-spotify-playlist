@@ -4,7 +4,7 @@
 
 > Summer 2025 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-686 songs - 1 day 5 hr 51 min
+687 songs - 1 day 5 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -161,6 +161,7 @@
 | [Escape](https://open.spotify.com/track/77QCSdKC48kGUiZxjHtwp2) | [Kid On The Block](https://open.spotify.com/artist/6VlE82AXyZhHEo87D6C1RH), [Namté](https://open.spotify.com/artist/35SNnBQdgAu11JxXMJAKa6) | [Escape](https://open.spotify.com/album/6BpmO3O7KdrogHTAdz0tjv) | 2:18 | 2024-07-08 |  |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-05-14 |  |
 | [Evergreen](https://open.spotify.com/track/36O5AFobnQ3rpJfyCYX50u) | [Eijk](https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM), [CLOVER](https://open.spotify.com/artist/0RUPz70lvFw5gQ6Yye9nSC), [Sam Welch](https://open.spotify.com/artist/3JmD9HEyTy3vtITvwUFK9K) | [Evergreen](https://open.spotify.com/album/12gO7KZxdoB5afWj1Arbhf) | 3:11 | 2024-11-16 |  |
+| [Every Breath You Take](https://open.spotify.com/track/2NlwmRuaUqWuvOzEVmQo4M) | [Kayote](https://open.spotify.com/artist/5h9NCujJrwNVZz9bDIDbvn), [Slenderino](https://open.spotify.com/artist/1rX0UQ4xdtxlSP2MlP7wQb), [Gabriel Wittner](https://open.spotify.com/artist/6DitGfT7dcBLUsY5ETeuAj), [Luciana Silva](https://open.spotify.com/artist/5ntgWfc9qPsKU0yUQwDqUF) | [Every Breath You Take](https://open.spotify.com/album/0jjx2pnlETHOiAitNNwkEl) | 2:15 | 2025-01-21 |  |
 | [Every Minute](https://open.spotify.com/track/5jj1uG2x72AYUzERFamx6U) | [Yann Muller](https://open.spotify.com/artist/41HOzTOe9JNerhym1HWxti), [SEM](https://open.spotify.com/artist/0JpJNoSn9W5CtFDzjipKyD), [Dela Utca](https://open.spotify.com/artist/7zOMemJ8954AThsX1LfK4X) | [Every Minute](https://open.spotify.com/album/5IaGC0RoTWiWsFy23YH0i1) | 3:03 | 2024-03-24 | 2024-04-02 |
 | [Every Single Day With You](https://open.spotify.com/track/5p5iEjMj0PHZrXlq3U2rLe) | [Abraham Colona](https://open.spotify.com/artist/1SC74Ya2mEkFoUzpr8hIev), [Bayshore Court](https://open.spotify.com/artist/0lMvjrlg2CPHQiVHPIzdDg), [EyeMad](https://open.spotify.com/artist/2C15mEsXxAqiKWKG4skXHY) | [Every Single Day With You](https://open.spotify.com/album/3WMnkNOuGjuEXkIV11WemR) | 2:38 | 2024-12-30 |  |
 | [Every Time](https://open.spotify.com/track/7wIEfhAIUrBGTp4ZHkHl9k) | [lonely beach house](https://open.spotify.com/artist/1jvDr2Sxp7ahE2XnykCBX3) | [Every Time](https://open.spotify.com/album/35RLkkhVvN3efNqnV5CbBT) | 2:31 | 2023-10-13 | 2024-05-13 |

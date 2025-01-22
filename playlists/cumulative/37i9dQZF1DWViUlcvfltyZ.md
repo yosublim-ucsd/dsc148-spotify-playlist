@@ -4,7 +4,7 @@
 
 > Rock, indie, e punk dall'Italia 🎸 Glazyhaze in cover
 
-1,273 songs - 2 day 22 hr 49 min
+1,274 songs - 2 day 22 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -657,6 +657,7 @@
 | [Lividi/Occhiaie](https://open.spotify.com/track/69APQ1HfhwpjwP18aWjqrZ) | [Katana Koala Kiwi](https://open.spotify.com/artist/75lvQnFxY6S4TLI9ljEbm2) | [Per farmi coraggio mi sono buttato dal piano terra](https://open.spotify.com/album/0zjHtyU4q9pMwdiv4qA8Sh) | 4:24 | 2024-11-07 |  |
 | [Livido](https://open.spotify.com/track/1FUcl9PpuDjDR8wuWugG9v) | [LAMECCA](https://open.spotify.com/artist/7mURROuseWxgGqL7cIyhc8) | [Ragazzina](https://open.spotify.com/album/3dKuOfQT48iqlWxEDPzMh6) | 3:48 | 2022-05-09 | 2022-06-10 |
 | [Lo Sposo Sulla Torta](https://open.spotify.com/track/1K8eYXS6CJq9mzG9rzKDJV) | [Manuel Agnelli](https://open.spotify.com/artist/1fLNnD2YIhtUR8VrX68As4) | [Ama il prossimo tuo come te stesso](https://open.spotify.com/album/4K2fWzhQxYSHcchOglHvSj) | 3:41 | 2022-09-29 | 2022-11-25 |
+| [Lonely For You Baby](https://open.spotify.com/track/6l9fuatUw6oTgrF4Rg7fBy) | [The Devils](https://open.spotify.com/artist/4dr588YumnHS2BIa7QOZI8) | [Lonely For You Baby](https://open.spotify.com/album/1jQixFQ1StznIA1xNeMyGx) | 2:35 | 2025-01-21 |  |
 | [Lontano](https://open.spotify.com/track/2kMP05gNWc3y1dzS3zDHkk) | [Aire](https://open.spotify.com/artist/1pePhxCgA1MOdEGgYjvNSZ), [Stellina Malinconica](https://open.spotify.com/artist/08oc2ijiHHssDF1GxDpG3E) | [Lontano](https://open.spotify.com/album/6fflIsKXpFuIePdGUpbI9C) | 2:39 | 2023-02-09 | 2023-02-17 |
 | [Lontano](https://open.spotify.com/track/6Y9k0eqeWM6CFTRXmllK2H) | [HÅN](https://open.spotify.com/artist/7n3jYxJuLzLuOv8Fk1s9N1) | [Lontano](https://open.spotify.com/album/5xIkwmOvPatDLwwbDmj1GO) | 2:36 | 2024-05-09 | 2024-07-05 |
 | [Look at Us](https://open.spotify.com/track/4doSYqBNDg3bZWlOJhiVYT) | [Addict Ameba](https://open.spotify.com/artist/4Au0CBfj9kSp1qOUBFMCjb), [Joshua Idehen](https://open.spotify.com/artist/3PubLnxnO5N2Avr3UvG1Vc) | [Look at Us](https://open.spotify.com/album/5qjxIl52EeXU4HQO95KrvW) | 5:00 | 2024-04-04 | 2024-05-17 |

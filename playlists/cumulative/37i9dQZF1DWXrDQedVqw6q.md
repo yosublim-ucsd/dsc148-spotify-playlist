@@ -4,7 +4,7 @@
 
 > Calm music to help you focus on your reading.
 
-225 songs - 10 hr 37 min
+227 songs - 10 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -50,11 +50,12 @@
 | [Cosmonova](https://open.spotify.com/track/1zNmkTJEovkzgCfk46DTId) | [Albie Monroy](https://open.spotify.com/artist/1v2h0KiWsSggTVVfv9QjhT) | [The Ember](https://open.spotify.com/album/5xoUiNRUh69Y6BbJg1luSE) | 3:31 | 2022-03-21 | 2022-06-25 |
 | [Dark Waters](https://open.spotify.com/track/4hQcEuImsSUwXPCUvckx0n) | [Nikola Sati](https://open.spotify.com/artist/7JMxDlvcKZe5sGE5OGO5cq) | [Dark Waters](https://open.spotify.com/album/2rINKL70Kcm1Q0ud9rSfmF) | 2:32 | 2022-03-21 | 2025-01-10 |
 | [Days Off](https://open.spotify.com/track/0kIcfCkBxum1vAYk6b2RZs) | [Steven Windhaug](https://open.spotify.com/artist/49PC2thu4PsvOGs77fgXwA) | [Extraordinary Occations](https://open.spotify.com/album/5VPgbgP79InzC2NpESX0R9) | 2:30 | 2022-03-21 |  |
-| [Decades](https://open.spotify.com/track/07PmKbyqjMTokXBDAWOqoc) | [The Crystal Cathedral](https://open.spotify.com/artist/4KAQqDnNJv22Yf0ubEzLRm) | [Centripetal](https://open.spotify.com/album/6mTpmwLY3yG16iecHE724S) | 2:10 | 2022-05-25 |  |
+| [Decades](https://open.spotify.com/track/07PmKbyqjMTokXBDAWOqoc) | [The Crystal Cathedral](https://open.spotify.com/artist/4KAQqDnNJv22Yf0ubEzLRm) | [Centripetal](https://open.spotify.com/album/6mTpmwLY3yG16iecHE724S) | 2:10 | 2022-05-25 | 2025-01-22 |
 | [Deep Within](https://open.spotify.com/track/0FaSKlbK9bwEMOOJHNyMLA) | [Subno](https://open.spotify.com/artist/2egCtVwLwVGRY2kwmA0D8K) | [Rivers](https://open.spotify.com/album/4DzK9W49A6txvjZYS77MOc) | 2:05 | 2023-02-07 |  |
 | [Desert Silhouette](https://open.spotify.com/track/5WX3DfvbfSSCWxnpntlCuK) | [Trevor Kowalski](https://open.spotify.com/artist/4vPiZNfnHqzN52FOn38BEv) | [Remnants Of A Setting Sun](https://open.spotify.com/album/1dbvDjcQOn1TAK3j5YZPBA) | 2:43 | 2022-03-21 | 2025-01-10 |
 | [Dimensions](https://open.spotify.com/track/2zNhCL4KB10ws6LjeAwiUC) | [Veena](https://open.spotify.com/artist/6dyllSs5fo7DeCSrxTxkF9) | [Dimensions](https://open.spotify.com/album/5m4YbxQzkWKOkSIXu1Gbfb) | 2:46 | 2024-05-11 |  |
 | [Divinity](https://open.spotify.com/track/2IPARS6gREjiJ8DMO0zRte) | [Ishitani](https://open.spotify.com/artist/7l5MAuQW3tchqPDTn4vo0i) | [Divinity](https://open.spotify.com/album/0I8qM3zwamIBPBcqt08e5J) | 3:56 | 2022-03-21 | 2022-08-13 |
+| [Divinity](https://open.spotify.com/track/4CiLp22MqtNOx8aY2pxXHA) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Divinity](https://open.spotify.com/album/01r2Bj3gFjGAkHcmi4OueG) | 2:52 | 2025-01-21 |  |
 | [Dolce Far Niente](https://open.spotify.com/track/3FoNBTNv03Soj4XDk6FJqH) | [Heddwch](https://open.spotify.com/artist/5Oj3bW1BamBPQQveuX6o1i) | [Dolce Far Niente](https://open.spotify.com/album/09UDHpQS7ti6T14R8i742n) | 2:12 | 2022-03-21 |  |
 | [Dormioso](https://open.spotify.com/track/2NDCYW28xbGYOUr8nTyVWP) | [Yoga Sonique](https://open.spotify.com/artist/0j9m2Hyt0u5GlBxHna1SO0) | [Dormioso](https://open.spotify.com/album/7rwXsb4IA5ZYagcpjcOt88) | 2:33 | 2024-05-11 |  |
 | [Drifting](https://open.spotify.com/track/3d7ANjpM6qpxLdp2v1BFkI) | [Ruth Stanley](https://open.spotify.com/artist/4wn81EAXMiMNzrnb9OgyWq) | [Drifting](https://open.spotify.com/album/4y5HjVDtqHT41t9ST85f5c) | 2:59 | 2022-03-21 |  |
@@ -68,7 +69,7 @@
 | [Embracing](https://open.spotify.com/track/5LAv2x5tO1niEMuYrZ51YY) | [Ultrawideolence](https://open.spotify.com/artist/3Bwl5wO7HiQSR9NsiVz1fF) | [Embracing](https://open.spotify.com/album/1C1PQhMhTCuLsd59U4wh3w) | 3:09 | 2024-05-11 |  |
 | [Empathy](https://open.spotify.com/track/6VJP2WKOkybliacQhLzYQN) | [Ricardo Gardner](https://open.spotify.com/artist/5BTXzlOGp7C0zkY3y5rHkT) | [Empathy](https://open.spotify.com/album/1HMzKY4ZxTVOoz3ycrkF5w) | 2:29 | 2022-03-21 | 2024-11-28 |
 | [Equipoise](https://open.spotify.com/track/0Ij8KeRUVRRAOjJceqt6FF) | [September Meredyth](https://open.spotify.com/artist/1fFlzIR8vrvwW9wEvqoY7P) | [Equipoise](https://open.spotify.com/album/54epGztbs8gWarb8ChOzgj) | 2:56 | 2022-03-21 |  |
-| [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 | 2022-12-20 |  |
+| [Eternal](https://open.spotify.com/track/1nu6ryRQROrnR6SGuQvsDf) | [Midnight Diver](https://open.spotify.com/artist/6XlYLWQJwJ9W8kmrJWGAXy) | [Eternal](https://open.spotify.com/album/2WNuCKp18G5ZvkIiTH0Sj8) | 2:22 | 2022-12-20 | 2025-01-22 |
 | [Eternal Serenity](https://open.spotify.com/track/73SCabJavqFfGcOjZeCEbl) | [Obie Moody](https://open.spotify.com/artist/0hUb5NGZsfOekZxvBvySRS) | [Eternal Serenity](https://open.spotify.com/album/6vC4uqktEhZ98TFHikyVg1) | 3:03 | 2024-05-11 |  |
 | [Eternity](https://open.spotify.com/track/0ZTkd15cwmZiOmtb8Gg3q5) | [String Astronauts](https://open.spotify.com/artist/3uesHPllAYmqsy4sdQqFJr) | [Eternity](https://open.spotify.com/album/5F9HeSB4R2MUHZ9IUPC0ry) | 2:50 | 2022-03-21 |  |
 | [Everness](https://open.spotify.com/track/1IfYfVPTYbiDY9UXTBrdVj) | [Justine Ny](https://open.spotify.com/artist/4zj2FwGigg4Ibz59s9uEXc) | [Everness](https://open.spotify.com/album/0fBAEeT1QeW0NOlGuFm1NF) | 2:36 | 2022-03-21 | 2025-01-10 |
@@ -87,6 +88,7 @@
 | [From The Horizon](https://open.spotify.com/track/4Wk9NDOcjHMSDcnKnVfLvb) | [Degravitated](https://open.spotify.com/artist/5X78BhxOkF4gr6Q0WD1CoY) | [From The Horizon](https://open.spotify.com/album/61jBjdLl3sLfmMOuK2w4d9) | 3:08 | 2022-03-21 | 2022-09-07 |
 | [Gentle Serenity](https://open.spotify.com/track/4amhCY18OuVRix7E1vUZJb) | [Perfect Shapes](https://open.spotify.com/artist/7rocivfP8tOkfNxT2jp9Fr) | [Horizon](https://open.spotify.com/album/3887UhI3G4vNcTefsBA5Zi) | 3:27 | 2022-03-21 | 2024-12-13 |
 | [Grounded Winds](https://open.spotify.com/track/1ZYz1Dl8llnHM6mpVjBDSr) | [Phoenix Feels](https://open.spotify.com/artist/0CazI1GhvW5pqftM3uJA3l) | [Grounded Winds](https://open.spotify.com/album/0AZesErR8LwWqLjVz2fCAI) | 3:05 | 2023-12-04 |  |
+| [hidden in the heather](https://open.spotify.com/track/4pv0vCDDYMLMBs0RjwtjtJ) | [Nature then Nurture](https://open.spotify.com/artist/2uXzMvEa7FA2izNUxuDH2Y) | [hidden in the heather](https://open.spotify.com/album/1ahY5s2hh76NSalklDfwZJ) | 2:15 | 2025-01-21 |  |
 | [Hiding](https://open.spotify.com/track/1S0iPYR5mUbNcm7SwlNWTL) | [Søren Jeremiassen](https://open.spotify.com/artist/54h5UZPx5rj7dEDGaofoaj) | [Hiding](https://open.spotify.com/album/79po5XIWpAIwt7NKkp17ae) | 3:27 | 2024-05-11 |  |
 | [Horizon](https://open.spotify.com/track/2sagi6LnzbTNFRMuhrW683) | [Czarina Frost](https://open.spotify.com/artist/3iidbcDBg4BOBD5a927q0Q), [Treman](https://open.spotify.com/artist/7MnTSJ0nl9IdMRSq3vLdGP) | [Horizon](https://open.spotify.com/album/6K3Rrv6q0SWdYHeho5DqdM) | 1:32 | 2023-01-06 | 2023-07-29 |
 | [Hushed Premonition](https://open.spotify.com/track/5p3moUVU9JBeuj67GmZjSZ) | [amabilla stills](https://open.spotify.com/artist/6FLdU3AbGAyrRIX4ma1MxF) | [Hushed Premonition](https://open.spotify.com/album/0A7MgyzLmzMl52aDlGx3gJ) | 3:34 | 2022-03-21 | 2022-08-13 |
@@ -170,9 +172,9 @@
 | [Somewhere In Between](https://open.spotify.com/track/1F10yAIn8aqtAwZoMMffFq) | [Wandercole](https://open.spotify.com/artist/4Lq1sOwDD8WfE4kgm7yZn4) | [Somewhere In Between](https://open.spotify.com/album/25x9r2SewSxoucruN6we4Y) | 3:49 | 2022-06-24 |  |
 | [Song for Marianne](https://open.spotify.com/track/2xlSPP16a3SSOLBPOvTDru) | [Shane Dillard](https://open.spotify.com/artist/4I3uP0iJu6cGL8H3HRJ6vq) | [Song for Marianne](https://open.spotify.com/album/26tnVVQif13uMyUux1Nsvc) | 2:13 | 2022-03-21 | 2022-08-13 |
 | [Sonnambulismo](https://open.spotify.com/track/2Ud0BKOtLvXRFXXE6ikCKn) | [Ferdinando Zetticci](https://open.spotify.com/artist/4MLLLG0z38an4nXddu8R3O) | [Sonnambulismo](https://open.spotify.com/album/5B3eTHv5fTodn5cehEinJF) | 3:26 | 2022-03-21 | 2025-01-10 |
-| [Soothing Me](https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Soothing Me](https://open.spotify.com/album/6ds0odJgRkazJMLj74z5du) | 3:27 | 2022-03-21 |  |
+| [Soothing Me](https://open.spotify.com/track/0sM8esXY30pzv68Bwtoq3d) | [Franke Williums](https://open.spotify.com/artist/3qKNUXVK23uw6wuPXFvBIR) | [Soothing Me](https://open.spotify.com/album/6ds0odJgRkazJMLj74z5du) | 3:27 | 2022-03-21 | 2025-01-22 |
 | [Space And Time](https://open.spotify.com/track/4YLiYg16yCPIl5JgnoBmlR) | [VØNAR](https://open.spotify.com/artist/23dDGOjj5CjNNdui5zBdAJ) | [Space And Time](https://open.spotify.com/album/4LrWPYHxAbOFcZaRk95Q11) | 2:41 | 2025-01-09 |  |
-| [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 | 2022-03-21 |  |
+| [Spacing Out](https://open.spotify.com/track/6L5crMBk3Sm1oB7GcGtmo1) | [The Knowables](https://open.spotify.com/artist/3L3ZWJ86I4ip3wn4zuDvrI) | [Spacing Out](https://open.spotify.com/album/5hE8ZK0cuu8oLp6K8uEtdP) | 2:44 | 2022-03-21 | 2025-01-22 |
 | [Sparks](https://open.spotify.com/track/6mb3EtQyhCYnUlz8q8sb3v) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Sparks](https://open.spotify.com/album/3LlH5Vg6mPeNTHFHDqhB2p) | 3:14 | 2024-11-07 |  |
 | [St\. Bavo 3](https://open.spotify.com/track/3YoghQ0AW7TTsitOJ2VOEw) | [Neighborhood Libraries](https://open.spotify.com/artist/5eu335GvCPHQ1hTJiH0zJt) | [St\. Bavo 3](https://open.spotify.com/album/2Iv2GFqeCmZmYJjkUbpD3z) | 2:54 | 2024-12-12 |  |
 | [Stav](https://open.spotify.com/track/1ltPSEQo0VjEF979y3B2I3) | [Jasper van Dijk](https://open.spotify.com/artist/2tJxOuAdJASebFV6lgUBud) | [Stav](https://open.spotify.com/album/6PHiSyeG1zzSUfDZYm8gKQ) | 2:48 | 2025-01-09 |  |

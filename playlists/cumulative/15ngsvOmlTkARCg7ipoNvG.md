@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,878 songs - 1 day 14 hr 24 min
+1,880 songs - 1 day 14 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Always My Home](https://open.spotify.com/track/7pjOYX1cvbXbUN7bbX2fxa) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Warmth](https://open.spotify.com/album/7kifavgLRswEIoUyTH8anB) | 1:40 | 2022-01-20 |  |
 | [Always Present](https://open.spotify.com/track/4ydf2zP7AIvE4ja5iEadO0) | [Harp Flow](https://open.spotify.com/artist/1dTMXyW6jjoTvvf7ktsuGH) | [Always Present](https://open.spotify.com/album/2NzP1jdZB6JQ0EojF44Wnv) | 1:00 | 2024-09-07 |  |
 | [Always Yours](https://open.spotify.com/track/59hRluBCiq1LincJpIfhFq) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Piano Echoes](https://open.spotify.com/album/10VMBZPmdJ9Q6otUSugzTp) | 1:39 | 2022-01-12 | 2024-01-30 |
+| [Amazed](https://open.spotify.com/track/6siDWFWn9fraG7H9nISmyp) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Amazed](https://open.spotify.com/album/0wSJbV547KRXqKJ0OKZWyy) | 1:00 | 2025-01-21 |  |
 | [Amber Glow](https://open.spotify.com/track/38hLgo0rxdDwwD5WV9v5Pb) | [Willow Valley](https://open.spotify.com/artist/28WCFFMetDFIT9o2Xluc31) | [Ambient Piano Preludes](https://open.spotify.com/album/0SsjsjgsbPhlAceWmMc01P) | 1:14 | 2022-01-12 |  |
 | [Amber Glow \- Cello Version](https://open.spotify.com/track/6zHmriRgXCFqXgW3tjk3ro) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Ambient Preludes, Vol\. 2 \(Cello Version\)](https://open.spotify.com/album/17PzB2hpgvNhS4nIPMaGHr) | 1:06 | 2024-02-09 | 2024-02-13 |
 | [Ambient Wishes](https://open.spotify.com/track/6j3ybZMe4JpsBgzProzadj) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Sublime Peace](https://open.spotify.com/album/7tSYyxx3MVNrafguhlTTMB) | 1:03 | 2022-03-24 |  |
@@ -293,6 +294,7 @@
 | [Calm Answers](https://open.spotify.com/track/2DUR3GrTmuRWjst4TdMdZm) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Relaxing Piano, Vol\. 2](https://open.spotify.com/album/4Itys1Pew5j5dpubWyIUSM) | 1:00 | 2023-12-23 | 2024-01-30 |
 | [Calm Breeze](https://open.spotify.com/track/133xZ19H5RUZwpBz7DYuIG) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Warmth](https://open.spotify.com/album/7kifavgLRswEIoUyTH8anB) | 1:49 | 2024-01-29 |  |
 | [Calm Day](https://open.spotify.com/track/1WQmPDq5Hdn8uAEp1QT2cT) | [Sunset Harmony](https://open.spotify.com/artist/6RYTVoYZSRtXlupVCm0uQf) | [Calm Day](https://open.spotify.com/album/569aBV3mPwaxb0E37SKNfg) | 1:00 | 2024-12-28 |  |
+| [Calm December](https://open.spotify.com/track/2Hw2zGQI3nP5hiEX2TV9aN) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Calm December](https://open.spotify.com/album/2DH6tLbnOrnv5RYlSF7uHg) | 1:00 | 2025-01-21 |  |
 | [Calm Flow By The River](https://open.spotify.com/track/0eJ6oMn3Uu83hmYzbdRd9Y) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Orange Glow](https://open.spotify.com/album/1UZ3SSDvDCCQQKUxZjIzLk) | 1:01 | 2022-02-24 |  |
 | [Calm Flow Of The River \- Cello Version](https://open.spotify.com/track/5z69YyGPFEqNZUlGi57Fn6) | [Harmony Night](https://open.spotify.com/artist/6K8fbHqOwXN8ceY71ipjdY) | [Calm Flow Of The River](https://open.spotify.com/album/18BvwAHqy0s7ggYAte95dy) | 1:02 | 2024-02-09 | 2024-02-13 |
 | [Calm Flow Of The River \- Strings Version](https://open.spotify.com/track/2BV6JqhpuPkT8WuTApdiBV) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Calm Flow Of The River \(Strings Version\)](https://open.spotify.com/album/6hkGpiFvnQqSTJlQ96QfL9) | 1:00 | 2024-01-15 | 2024-02-13 |

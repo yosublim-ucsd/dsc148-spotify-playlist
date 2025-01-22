@@ -1,6 +1,6 @@
 {
   "description": "I am blessed!",
-  "num_followers": 2254,
+  "num_followers": 2259,
   "original_name": "Blessed",
   "owner": {
     "name": "Spotify",
@@ -365,7 +365,7 @@
         },
         {
           "name": "Oba",
-          "url": "https://open.spotify.com/artist/1WLvxeydcpCGxEpV9pQCP2"
+          "url": "https://open.spotify.com/artist/4hgB1AKdR6ewQkpeQN1bTA"
         }
       ],
       "duration_ms": 436321,
@@ -651,6 +651,22 @@
     {
       "added_at": "2024-09-27 00:01:00",
       "album": {
+        "name": "The Message",
+        "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
+      },
+      "artists": [
+        {
+          "name": "Minister GUC",
+          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
+        }
+      ],
+      "duration_ms": 370131,
+      "name": "All That Matters",
+      "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
+    },
+    {
+      "added_at": "2024-09-27 00:01:00",
+      "album": {
         "name": "Ekwueme to the World Project",
         "url": "https://open.spotify.com/album/1hLkcPy59fyfQktW86MaOQ"
       },
@@ -667,22 +683,6 @@
       "duration_ms": 417169,
       "name": "Ekwueme",
       "url": "https://open.spotify.com/track/5YOR2BKwdWNnDqIZzEgguu"
-    },
-    {
-      "added_at": "2024-09-27 00:01:00",
-      "album": {
-        "name": "The Message",
-        "url": "https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd"
-      },
-      "artists": [
-        {
-          "name": "Minister GUC",
-          "url": "https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL"
-        }
-      ],
-      "duration_ms": 370131,
-      "name": "All That Matters",
-      "url": "https://open.spotify.com/track/7aDw6ABFrazUlM4PRfUYLI"
     },
     {
       "added_at": "2024-10-04 00:01:00",
@@ -941,6 +941,22 @@
       "url": "https://open.spotify.com/track/5HVAC7q0ZhOt2PWoXKiYqj"
     },
     {
+      "added_at": "2024-11-01 00:01:00",
+      "album": {
+        "name": "ZOE",
+        "url": "https://open.spotify.com/album/3H9ke91YEz9p6m3Gj1QI6I"
+      },
+      "artists": [
+        {
+          "name": "Prinx Emmanuel",
+          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
+        }
+      ],
+      "duration_ms": 209403,
+      "name": "ZOE",
+      "url": "https://open.spotify.com/track/5hIs8axd88ghEVcfagZRqv"
+    },
+    {
       "added_at": "2024-11-29 00:01:00",
       "album": {
         "name": "In My Boat",
@@ -967,22 +983,6 @@
       "duration_ms": 257683,
       "name": "In My Boat",
       "url": "https://open.spotify.com/track/1KfbRIYua7t2d7340wL3Pq"
-    },
-    {
-      "added_at": "2024-11-01 00:01:00",
-      "album": {
-        "name": "ZOE",
-        "url": "https://open.spotify.com/album/3H9ke91YEz9p6m3Gj1QI6I"
-      },
-      "artists": [
-        {
-          "name": "Prinx Emmanuel",
-          "url": "https://open.spotify.com/artist/4HzpHfHz3EznjI4icnTvRz"
-        }
-      ],
-      "duration_ms": 209403,
-      "name": "ZOE",
-      "url": "https://open.spotify.com/track/5hIs8axd88ghEVcfagZRqv"
     }
   ],
   "unique_name": "Blessed",

@@ -4,7 +4,7 @@
 
 > These are the eclectic sounds of now\. Cover: Ethel Cain
 
-379 songs - 23 hr 33 min
+380 songs - 23 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,6 +357,7 @@
 | [Trouble](https://open.spotify.com/track/4bGeuZpvvvIldq0daPo9wZ) | [Sharon Van Etten](https://open.spotify.com/artist/2wJ4vsxWd7df7dRU4KcoDe) | [Trouble](https://open.spotify.com/album/2KmIKQIxmavgPgAfeQJMqD) | 5:00 | 2025-01-16 |  |
 | [Trust](https://open.spotify.com/track/4i6YTuChfl0hMZWRiK3OF1) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68) | [The Loop](https://open.spotify.com/album/6ChpVLf5APqbBBmgAyXMvO) | 3:26 | 2024-05-16 | 2024-07-12 |
 | [Tui Is a Bird \(The Work\)](https://open.spotify.com/track/7BtsnPjI397ggnyVIomOBH) | [Jess Cornelius](https://open.spotify.com/artist/4RjdSdeePEsz8SHyTLILCL) | [CARE/TAKING](https://open.spotify.com/album/62vzAtNRydPNzP9Zw9ewXS) | 4:39 | 2024-06-13 | 2024-07-27 |
+| [Typical \- Children of Zeus Remix](https://open.spotify.com/track/0U1XJE6wqO3C7S16HvdSWc) | [Nightmares On Wax](https://open.spotify.com/artist/4tNxq9NGKTKaX8OkZBLgf0), [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Children of Zeus](https://open.spotify.com/artist/2UZjIISzcezFJLo0ngik2Z) | [Typical Remixes](https://open.spotify.com/album/1erRlyRYARL5frALjooxTw) | 2:40 | 2025-01-16 |  |
 | [Unplanned](https://open.spotify.com/track/6TzsR37ZfLTEiJbK0rNaBd) | [Clara La San](https://open.spotify.com/artist/3u65Tx20y4WqxO7W7khEhj) | [Unplanned](https://open.spotify.com/album/7dp5n5J2pWVXxivK0LDFEc) | 2:50 | 2024-11-21 |  |
 | [Untitled](https://open.spotify.com/track/3ZS80IOKVp7d5sjNNZLa6G) | [Chakra Efendi](https://open.spotify.com/artist/3pFSlKAoVnaEycgIcPDctw) | [Untitled](https://open.spotify.com/album/4cZDjflHwCX5D5vWv0cpGL) | 2:29 | 2024-10-03 | 2025-01-17 |
 | [Unwounded](https://open.spotify.com/track/618iOTJUU6Axv2S2NbUX8n) | [Endorf](https://open.spotify.com/artist/30q1DkPZx4JNdBt918CaHk) | [Unwounded](https://open.spotify.com/album/0Z9kBmUN8GUGRtB8ZOZabC) | 2:59 | 2024-08-22 | 2024-10-11 |

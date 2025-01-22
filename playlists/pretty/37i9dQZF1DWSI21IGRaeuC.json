@@ -1,6 +1,6 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 48077,
+  "num_followers": 48129,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -1131,6 +1131,22 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
+        "name": "Fascinator EP",
+        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
+      },
+      "artists": [
+        {
+          "name": "Max Dean",
+          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
+        }
+      ],
+      "duration_ms": 372923,
+      "name": "Fascinator",
+      "url": "https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
         "name": "Escaping It (feat. Tania Foster)",
         "url": "https://open.spotify.com/album/3HADcImeJ9OY36dZgz4iDY"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 192656,
       "name": "Escaping It (feat. Tania Foster)",
       "url": "https://open.spotify.com/track/0mpZguOykEX2E3ROET1JOa"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Fascinator EP",
-        "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
-      },
-      "artists": [
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 372923,
-      "name": "Fascinator",
-      "url": "https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1631,26 +1631,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Origins EP",
-        "url": "https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Harvy Valencia",
-          "url": "https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4"
-        }
-      ],
-      "duration_ms": 236279,
-      "name": "Origins - 3AM Tusi Mix",
-      "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Running from the Noise (Edit)",
         "url": "https://open.spotify.com/album/13pFQZdGjfcFMnfPyJ7pv1"
       },
@@ -1667,6 +1647,26 @@
       "duration_ms": 190200,
       "name": "Running from the Noise - Edit",
       "url": "https://open.spotify.com/track/3yqVPlWrzXPvma6zKBHRAb"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Origins EP",
+        "url": "https://open.spotify.com/album/3tManJXRjY1UCJVXb7QTYN"
+      },
+      "artists": [
+        {
+          "name": "Beltran",
+          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
+        },
+        {
+          "name": "Harvy Valencia",
+          "url": "https://open.spotify.com/artist/0pgx8lzqNK3ywq4WWvaIO4"
+        }
+      ],
+      "duration_ms": 236279,
+      "name": "Origins - 3AM Tusi Mix",
+      "url": "https://open.spotify.com/track/6OCycJBRIG7ItttiTWlWQr"
     },
     {
       "added_at": "2024-12-23 20:42:56",

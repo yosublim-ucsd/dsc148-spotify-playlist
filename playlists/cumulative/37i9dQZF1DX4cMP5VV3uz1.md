@@ -4,7 +4,7 @@
 
 > Filthy bass bangers to soundtrack your sesh
 
-364 songs - 21 hr 17 min
+365 songs - 21 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Armed & Dangerous](https://open.spotify.com/track/4qJzVJ3QzvYq6PrahkUlAI) | [Oppidan](https://open.spotify.com/artist/338p7qzZTDJSHJzSjIZMFK), [Cutty Ranks](https://open.spotify.com/artist/4qDGDPGMIJuIvPfUGe0Ngg) | [Armed & Dangerous](https://open.spotify.com/album/5DmUFrxehvHSJbs2owHONM) | 3:54 | 2024-03-29 | 2024-10-04 |
 | [Autonomy](https://open.spotify.com/track/71yxI2J56U3sE4PnCbv2G7) | [Justin Hawkes](https://open.spotify.com/artist/5bNvSO3b75SGJrx0kOt996) | [Autonomy](https://open.spotify.com/album/29Bm513T3poI1cb4zgju9N) | 3:52 | 2024-11-08 | 2024-11-28 |
 | [Baby G](https://open.spotify.com/track/0Xk5A0SC7dvPPcR1XlDjK5) | [Alex Culross](https://open.spotify.com/artist/10mUhPf4y20AdcI5AwrNdD) | [Baby G](https://open.spotify.com/album/2lnd0ppKdrXSCdaiAVe2EY) | 2:56 | 2023-12-27 | 2024-01-12 |
+| [Back 2 Dance](https://open.spotify.com/track/6POvzcHeKt5SEDTrptAKO8) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ) | [Back 2 Dance](https://open.spotify.com/album/7FpGVcwKzPiGQnTIIQJyF1) | 2:52 | 2025-01-17 |  |
 | [BACKBONE](https://open.spotify.com/track/3HrHhTWonBqF4mDasi8xvC) | [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [BACKBONE](https://open.spotify.com/album/364RGa8yL2ZsIWlLoNSzIY) | 2:46 | 2024-08-08 |  |
 | [Bad Decisions](https://open.spotify.com/track/48TJKpliEWAurs5fMSbRAZ) | [Delta Heavy](https://open.spotify.com/artist/7GvVTb8yFV0ZrdI30Qce6T), [Cameron Warren](https://open.spotify.com/artist/6IQYJzN5PeAnBEONnt6Ta8) | [Babylon](https://open.spotify.com/album/6n6QkIZ8Wpo4vlP6q5UaZ7) | 3:15 | 2024-10-03 | 2024-10-19 |
 | [Bad Gyalz](https://open.spotify.com/track/1sdfHsJC1KytSyhhGpZ2kv) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Bad Gyalz](https://open.spotify.com/album/0KgiN6gpmIFwjxSIJE3qrb) | 2:39 | 2023-09-22 | 2024-07-27 |
@@ -132,7 +133,7 @@
 | [Gold](https://open.spotify.com/track/1c2aEprxW446Ht7ni3ESqL) | [Alcemist](https://open.spotify.com/artist/6WzWO3A5YAYxLVD224S9P0), [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Gold](https://open.spotify.com/album/7jchd6Tg5YkJqsAsR7hyyY) | 4:09 | 2023-05-19 | 2023-09-22 |
 | [Gone For The Night \(feat\. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes\)](https://open.spotify.com/track/0qgdSsuggcpvhvugFj1G31) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Liam Bailey](https://open.spotify.com/artist/022EiWsch2zvty0qBUksDO), [BackRoad Gee](https://open.spotify.com/artist/51op6E2hjkeutwFhgw32mL), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Shakes](https://open.spotify.com/artist/4f7G11kEJCEhCDVGaSkS9y) | [Gone For The Night \(feat\. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes\)](https://open.spotify.com/album/3J1UwJGIqxEloqKlqMAhJ2) | 2:18 | 2024-07-25 |  |
 | [Good Love](https://open.spotify.com/track/0ZVjgfaC2Ptrod9v6p9KFP) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o), [RoRo](https://open.spotify.com/artist/4AuHHsxMRVg7bXSgvlrAff) | [Good Love](https://open.spotify.com/album/4SCAkvXJmXuvoQTlQU7Q48) | 2:49 | 2023-12-27 | 2024-01-12 |
-| [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 | 2024-11-22 |  |
+| [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 | 2024-11-22 | 2025-01-22 |
 | [Got Me](https://open.spotify.com/track/3WlzgbIe3JbTxs1gWa7Ybv) | [Interupt](https://open.spotify.com/artist/0OFn6uw0q674vCcjDRNP4I), [Panameira](https://open.spotify.com/artist/2jvmZb9gAjXRI6L4vD2T3Q) | [Got Me](https://open.spotify.com/album/39IM9hN6rLVFw0WuKwKd1d) | 2:51 | 2024-09-19 | 2024-10-19 |
 | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\) \- Skepsis VIP Mix](https://open.spotify.com/track/72XbhXFWC35fbBPmMUA0NR) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Skepsis](https://open.spotify.com/artist/6DnQYUjtYusK9QJts9HqSC), [Charlotte Plank](https://open.spotify.com/artist/4U5QErgn94wZGw1rJz01BO), [Riko Dan](https://open.spotify.com/artist/3bICaFrkiRTZgXE5cMLv2y) | [Green & Gold \(feat\. Charlotte Plank & Riko Dan\) \[Skepsis VIP Mix\]](https://open.spotify.com/album/3d8vPJ1esOUjt8tm32v5iZ) | 3:01 | 2024-07-25 | 2024-09-20 |
 | [Gunfinger \(Salute\)](https://open.spotify.com/track/30aEleGsSvwoORcXA4mKgT) | [IRAH](https://open.spotify.com/artist/17fY0VRyqRgmqI3dHlE1UU), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Gunfinger \(Salute\)](https://open.spotify.com/album/1T0ZCkKD1tLyZ35AHnIL58) | 2:46 | 2024-07-25 |  |

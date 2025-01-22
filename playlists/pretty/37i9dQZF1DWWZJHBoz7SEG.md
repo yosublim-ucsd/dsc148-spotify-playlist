@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWZJHBoz7SEG.md) - [plain]
 
 > ¡Aquí no sufrimos la cuesta de Enero con puro rolón fresco! 😎🔥 Beli\-belik y Tito Double P en portada
 
-[Spotify](https://open.spotify.com/user/spotify) - 909,892 likes - 50 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 910,072 likes - 50 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

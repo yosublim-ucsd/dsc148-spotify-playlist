@@ -2255,6 +2255,24 @@
     },
     {
       "album": {
+        "name": "Another Loner to Be Alone With",
+        "url": "https://open.spotify.com/album/1P8UfK3pOvutlReyDq9YWa"
+      },
+      "artists": [
+        {
+          "name": "Cemented Minds",
+          "url": "https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193152,
+      "name": "Another Loner to Be Alone With",
+      "url": "https://open.spotify.com/track/3NvL2IMIZA4ytb5iRtiT6e"
+    },
+    {
+      "album": {
         "name": "Anthem",
         "url": "https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q"
       },

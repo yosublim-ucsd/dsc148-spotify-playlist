@@ -1,6 +1,6 @@
 {
   "description": "Tuyo es el reino, Tuyo el poder y la gloria por siempre, Se\u00f1or.",
-  "num_followers": 207397,
+  "num_followers": 207539,
   "original_name": "Jes\u00fas Vive",
   "owner": {
     "name": "Spotify",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "Lugar Secreto",
-        "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
-      },
-      "artists": [
-        {
-          "name": "Harborside Music",
-          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
-        }
-      ],
-      "duration_ms": 376362,
-      "name": "Tu Me Compraste",
-      "url": "https://open.spotify.com/track/47tS4Ocwk0OYLJTJ5L1e7c"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
         "name": "Alegre",
         "url": "https://open.spotify.com/album/0I2MOp31kLaLwpermDclkX"
       },
@@ -1243,22 +1227,18 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
-        "name": "M\u00e1s De Ti (En Vivo)",
-        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
+        "name": "Lugar Secreto",
+        "url": "https://open.spotify.com/album/5m8ho5SBRDbEV1jUpCKEWa"
       },
       "artists": [
         {
-          "name": "Su Presencia",
-          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
-        },
-        {
-          "name": "Alex Campos",
-          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+          "name": "Harborside Music",
+          "url": "https://open.spotify.com/artist/5Lw266onySIyRJlK8cYzyo"
         }
       ],
-      "duration_ms": 189075,
-      "name": "M\u00e1s De Ti - En Vivo",
-      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
+      "duration_ms": 376362,
+      "name": "Tu Me Compraste",
+      "url": "https://open.spotify.com/track/47tS4Ocwk0OYLJTJ5L1e7c"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1275,6 +1255,26 @@
       "duration_ms": 234519,
       "name": "Fue por M\u00ed",
       "url": "https://open.spotify.com/track/3xwknbtAM3zGiFgrzYwTjj"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
+        "name": "M\u00e1s De Ti (En Vivo)",
+        "url": "https://open.spotify.com/album/5m3q4lnbfxqOaMRMa6Rv0v"
+      },
+      "artists": [
+        {
+          "name": "Su Presencia",
+          "url": "https://open.spotify.com/artist/2gaFnEQydJdWNkT17NLZm3"
+        },
+        {
+          "name": "Alex Campos",
+          "url": "https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR"
+        }
+      ],
+      "duration_ms": 189075,
+      "name": "M\u00e1s De Ti - En Vivo",
+      "url": "https://open.spotify.com/track/4uwio9wbH4WLzB1UvFMnks"
     },
     {
       "added_at": "2024-07-01 23:21:40",
@@ -1611,6 +1611,22 @@
     {
       "added_at": "2024-07-01 23:21:40",
       "album": {
+        "name": "Cara a Cara",
+        "url": "https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9"
+      },
+      "artists": [
+        {
+          "name": "Marcos Vidal",
+          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
+        }
+      ],
+      "duration_ms": 340558,
+      "name": "Cara A Cara",
+      "url": "https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY"
+    },
+    {
+      "added_at": "2024-07-01 23:21:40",
+      "album": {
         "name": "El Aire De Tu Casa",
         "url": "https://open.spotify.com/album/62aemFfH25h4YSMcfnTrPE"
       },
@@ -1663,22 +1679,6 @@
       "duration_ms": 269645,
       "name": "El Gran Nombre del Se\u00f1or",
       "url": "https://open.spotify.com/track/0KkApnj1iYzDEzloLovVOX"
-    },
-    {
-      "added_at": "2024-07-01 23:21:40",
-      "album": {
-        "name": "Cara a Cara",
-        "url": "https://open.spotify.com/album/3p9msnarNxbQCTKPNcPtt9"
-      },
-      "artists": [
-        {
-          "name": "Marcos Vidal",
-          "url": "https://open.spotify.com/artist/03CueHDpVcwXQZHeBlZUkd"
-        }
-      ],
-      "duration_ms": 340558,
-      "name": "Cara A Cara",
-      "url": "https://open.spotify.com/track/0lSVMltHrxlYJs9H5xq2PY"
     },
     {
       "added_at": "2024-07-01 23:21:40",

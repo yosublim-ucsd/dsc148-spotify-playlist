@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica tranquila para evadirse.",
-  "num_followers": 418057,
+  "num_followers": 418123,
   "original_name": "Relax en casa",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Nat \"King\" Cole & Me (Deluxe)",
-        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
-      },
-      "artists": [
-        {
-          "name": "Gregory Porter",
-          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
-        }
-      ],
-      "duration_ms": 257533,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Marvin The Album - 21st Anniversary Edition",
         "url": "https://open.spotify.com/album/6xiH0ZemrUXOxgR7xfLlIQ"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 119813,
       "name": "Bizarre Love Triangle - 2014 Remaster",
       "url": "https://open.spotify.com/track/7sgi66biRYpAXuRZJBDuli"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Nat \"King\" Cole & Me (Deluxe)",
+        "url": "https://open.spotify.com/album/32neEPsXGNu2uoJuTxirbd"
+      },
+      "artists": [
+        {
+          "name": "Gregory Porter",
+          "url": "https://open.spotify.com/artist/06nevPmNVfWUXyZkccahL8"
+        }
+      ],
+      "duration_ms": 257533,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/1BjuoBaLDhofPLTJ4x6oy0"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
+        "name": "Sanadoras Voluntades",
+        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+      },
+      "artists": [
+        {
+          "name": "Macaco",
+          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+        }
+      ],
+      "duration_ms": 164956,
+      "name": "Sanadoras Voluntades",
+      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
         "name": "Casual",
         "url": "https://open.spotify.com/album/0znE3YZtxAkMXevh2LYkYC"
       },
@@ -1127,18 +1143,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Sanadoras Voluntades",
-        "url": "https://open.spotify.com/album/4en5TaKhMK6hxjQVW0hHoa"
+        "name": "tu pel\u00edcula",
+        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
       },
       "artists": [
         {
-          "name": "Macaco",
-          "url": "https://open.spotify.com/artist/7mUBMaZW1MXGswaneb0JTT"
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
         }
       ],
-      "duration_ms": 164956,
-      "name": "Sanadoras Voluntades",
-      "url": "https://open.spotify.com/track/7AqHsrlrP34XzmOgx5CmGe"
+      "duration_ms": 174467,
+      "name": "tu pel\u00edcula",
+      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1171,22 +1187,6 @@
       "duration_ms": 286400,
       "name": "Older Chests",
       "url": "https://open.spotify.com/track/7FCYixd46BlSiO2memrsPo"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
-        "name": "tu pel\u00edcula",
-        "url": "https://open.spotify.com/album/0oJgXwnQkGEAb3MqilPJD1"
-      },
-      "artists": [
-        {
-          "name": "vangoura",
-          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
-        }
-      ],
-      "duration_ms": 174467,
-      "name": "tu pel\u00edcula",
-      "url": "https://open.spotify.com/track/4OI9EHv2pSn7DXJEAIPF9j"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Hold Your Head Up High",
-        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
-      },
-      "artists": [
-        {
-          "name": "Darlingside",
-          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
-        }
-      ],
-      "duration_ms": 217360,
-      "name": "Hold Your Head Up High",
-      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "La Pena Vuela (VMG)",
         "url": "https://open.spotify.com/album/2HBnc7C7JSw1H3PJR5iNcb"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 154842,
       "name": "La Pena Vuela (VMG)",
       "url": "https://open.spotify.com/track/65yD11M9keuQoajWuLMb9M"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Hold Your Head Up High",
+        "url": "https://open.spotify.com/album/1utqu0XGDOsrDL4TWXhf8J"
+      },
+      "artists": [
+        {
+          "name": "Darlingside",
+          "url": "https://open.spotify.com/artist/3DkhgIw7lIyxekurpXNTrm"
+        }
+      ],
+      "duration_ms": 217360,
+      "name": "Hold Your Head Up High",
+      "url": "https://open.spotify.com/track/7oOsCpcgcLXKkkIPQzQ6cX"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
+        "name": "Luna",
+        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        }
+      ],
+      "duration_ms": 197213,
+      "name": "Luna",
+      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
         "name": "Nova",
         "url": "https://open.spotify.com/album/5hCxkCTUg1CSBjcwJYTtnN"
       },
@@ -1347,18 +1363,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Luna",
-        "url": "https://open.spotify.com/album/25Asvtoguv3oWHJ3yR91ea"
+        "name": "Amor del bueno",
+        "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
       },
       "artists": [
         {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+          "name": "Eva Sola",
+          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
         }
       ],
-      "duration_ms": 197213,
-      "name": "Luna",
-      "url": "https://open.spotify.com/track/2MYTc4Y84bwo0c9bZmAOaM"
+      "duration_ms": 195882,
+      "name": "Amor del bueno",
+      "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1379,22 +1395,6 @@
       "duration_ms": 255168,
       "name": "La ventanita",
       "url": "https://open.spotify.com/track/2UqZmktTdRxCOfZ9VDBuX0"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
-        "name": "Amor del bueno",
-        "url": "https://open.spotify.com/album/11SkpS3Eif2FlMs9JUa2Xx"
-      },
-      "artists": [
-        {
-          "name": "Eva Sola",
-          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
-        }
-      ],
-      "duration_ms": 195882,
-      "name": "Amor del bueno",
-      "url": "https://open.spotify.com/track/1Qc4t3ahDAy9Bpkx8ZZtid"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1451,26 +1451,6 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Chilleando por Madrid",
-        "url": "https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8"
-      },
-      "artists": [
-        {
-          "name": "Veve Milah",
-          "url": "https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET"
-        },
-        {
-          "name": "Raphael Karell",
-          "url": "https://open.spotify.com/artist/0rzj1DUlP3tDKSVQhSkpv8"
-        }
-      ],
-      "duration_ms": 234922,
-      "name": "Chilleando por Madrid",
-      "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
-    },
-    {
-      "added_at": "2025-01-03 09:30:40",
-      "album": {
         "name": "Ojos de Miel",
         "url": "https://open.spotify.com/album/5rR0DhfL3LupkNTVmSkRFO"
       },
@@ -1487,6 +1467,26 @@
       "duration_ms": 202886,
       "name": "Ojos de Miel",
       "url": "https://open.spotify.com/track/0v3IeYFFqUJIC4GOcCddaS"
+    },
+    {
+      "added_at": "2025-01-03 09:30:40",
+      "album": {
+        "name": "Chilleando por Madrid",
+        "url": "https://open.spotify.com/album/3vNNIS0eZY0cu45dYfq6q8"
+      },
+      "artists": [
+        {
+          "name": "Veve Milah",
+          "url": "https://open.spotify.com/artist/4U1aujuzk3gLF3v0HNWZET"
+        },
+        {
+          "name": "Raphael Karell",
+          "url": "https://open.spotify.com/artist/0rzj1DUlP3tDKSVQhSkpv8"
+        }
+      ],
+      "duration_ms": 234922,
+      "name": "Chilleando por Madrid",
+      "url": "https://open.spotify.com/track/5aMpFYfR9ixFBje9eeZMGE"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1575,22 +1575,18 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "El Noi de la Mare",
-        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
+        "name": "Hay algo en ti",
+        "url": "https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW"
       },
       "artists": [
         {
-          "name": "S\u00edlvia P\u00e9rez Cruz",
-          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
-        },
-        {
-          "name": "Juan Fal\u00fa",
-          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
+          "name": "Eva Sola",
+          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
         }
       ],
-      "duration_ms": 243020,
-      "name": "El Noi de la Mare",
-      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
+      "duration_ms": 146176,
+      "name": "Hay algo en ti",
+      "url": "https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf"
     },
     {
       "added_at": "2025-01-03 09:30:40",
@@ -1615,18 +1611,22 @@
     {
       "added_at": "2025-01-03 09:30:40",
       "album": {
-        "name": "Hay algo en ti",
-        "url": "https://open.spotify.com/album/0XM53g2PoYVHPINFzwSYRW"
+        "name": "El Noi de la Mare",
+        "url": "https://open.spotify.com/album/1GyYr7au04PcBI5x3FgLtG"
       },
       "artists": [
         {
-          "name": "Eva Sola",
-          "url": "https://open.spotify.com/artist/5xKxdqrAuZqQje9seCf8F4"
+          "name": "S\u00edlvia P\u00e9rez Cruz",
+          "url": "https://open.spotify.com/artist/7qJXYbBDibZ1Zixi89aUnw"
+        },
+        {
+          "name": "Juan Fal\u00fa",
+          "url": "https://open.spotify.com/artist/2NjcVfg5McVYV375Fm0rFH"
         }
       ],
-      "duration_ms": 146176,
-      "name": "Hay algo en ti",
-      "url": "https://open.spotify.com/track/4j8tH795UUTuCiBb7nUQXf"
+      "duration_ms": 243020,
+      "name": "El Noi de la Mare",
+      "url": "https://open.spotify.com/track/66g8zLOa9PaF5bXQ6ubktQ"
     },
     {
       "added_at": "2025-01-03 09:30:40",

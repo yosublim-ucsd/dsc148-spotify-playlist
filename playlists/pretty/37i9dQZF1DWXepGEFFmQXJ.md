@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 
 > The cream of today's Country crop\. Cover: Kane Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 424,244 likes - 81 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 424,236 likes - 81 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -76,7 +76,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXepGEFFmQXJ.md) - [plain]
 | 66 | [Everything I've Got](https://open.spotify.com/track/0kQ0uNi0EsT3o3D20hCk5S) | [Brad Cox](https://open.spotify.com/artist/3qmULKoT46nNsyXHZk6fbM) | [Everything I've Got](https://open.spotify.com/album/2vqXP7Z50UqEbN8F6JOePd) | 4:41 |
 | 67 | [Filthy Rich](https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM) | [Ella Henderson](https://open.spotify.com/artist/7nDsS0l5ZAzMedVRKPP8F1) | [Filthy Rich](https://open.spotify.com/album/4EZKTohECt4rz0GL4LShK2) | 2:52 |
 | 68 | [Tree Birds](https://open.spotify.com/track/0uNzLccqsb5crQ2dcBlakz) | [Dylan Gossett](https://open.spotify.com/artist/4H4M0Y4cN39zIVDHvdW53x) | [Tree Birds](https://open.spotify.com/album/6PAud3gLOCgM4Mit5yaPkh) | 3:32 |
-| 69 | [twice](https://open.spotify.com/track/6mkICPxihmgy5WpdNAczTq) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [twice](https://open.spotify.com/album/4B7Q5ldXHAi3V8ERehfJvE) | 2:53 |
+| 69 | [Twice](https://open.spotify.com/track/6mkICPxihmgy5WpdNAczTq) | [Sara Berki](https://open.spotify.com/artist/21L6MUgqitOTfF9t1PcNXd) | [Twice](https://open.spotify.com/album/4B7Q5ldXHAi3V8ERehfJvE) | 2:53 |
 | 70 | [Going Home](https://open.spotify.com/track/2lKIMOOkiV0kqFe0FH9J1d) | [Tyler Joe Miller](https://open.spotify.com/artist/1MmpCgmJymS8Etwm9RxuxM) | [Going Home](https://open.spotify.com/album/38T63sTefdL1FAYJ2K9YZR) | 3:06 |
 | 71 | [COUNTRY IS FOR ME](https://open.spotify.com/track/5ZQThi4zaMjCYWCnJQiCTa) | [James Johnston](https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1), [Appel](https://open.spotify.com/artist/69q4xfNrz04VhJdTQHGUjd) | [COUNTRY IS FOR ME](https://open.spotify.com/album/1zvLuzCsvWou3ERPsjkpiN) | 3:00 |
 | 72 | [Down In Boots](https://open.spotify.com/track/2L2U4LFR1cYUQbckzdlnO4) | [Y.O.G.A.](https://open.spotify.com/artist/0H2mWrAuc4RzRwr2SkpG2y), [Kaylee Bell](https://open.spotify.com/artist/4J3TXBvAMckFbTxqxNYpDj), [Blake O'Connor](https://open.spotify.com/artist/5vgHNldnm1RN43ET7vWow6) | [Down In Boots](https://open.spotify.com/album/6pa9tFzCCn7FQdobQ2Rdyk) | 3:22 |

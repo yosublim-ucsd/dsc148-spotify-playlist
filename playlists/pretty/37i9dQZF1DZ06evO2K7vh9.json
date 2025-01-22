@@ -1,12 +1,12 @@
 {
   "description": "This is Lil Tecca. The essential tracks, all in one playlist.",
-  "num_followers": 84636,
+  "num_followers": 84662,
   "original_name": "This Is Lil Tecca",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4xAgAAAAABv2ku4ao9EcVgGf1kPGhJc",
+  "snapshot_id": "Z42SAAAAAADgfSloyR7A6EQZozYAagtr",
   "tracks": [
     {
       "added_at": null,
@@ -407,30 +407,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "B4 The Storm (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
-      },
-      "artists": [
-        {
-          "name": "Internet Money",
-          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        },
-        {
-          "name": "A Boogie Wit da Hoodie",
-          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
-        }
-      ],
-      "duration_ms": 174333,
-      "name": "Somebody",
-      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Virgo World",
         "url": "https://open.spotify.com/album/389zGArsMlwuPorS4Cw7IX"
       },
@@ -451,6 +427,30 @@
       "duration_ms": 193013,
       "name": "When You Down (with Polo G feat. Lil Durk)",
       "url": "https://open.spotify.com/track/5kTn07V96U8LyoQgz6DZzX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "B4 The Storm (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4fszOxJ7RWHqPIXOrC2iKY"
+      },
+      "artists": [
+        {
+          "name": "Internet Money",
+          "url": "https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        },
+        {
+          "name": "A Boogie Wit da Hoodie",
+          "url": "https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I"
+        }
+      ],
+      "duration_ms": 174333,
+      "name": "Somebody",
+      "url": "https://open.spotify.com/track/44b5itlYXwofZZoPFsNzcT"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "prada (Remix)",
+        "url": "https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242"
+      },
+      "artists": [
+        {
+          "name": "tana",
+          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 112413,
+      "name": "prada (Remix) (feat. Lil Tecca)",
+      "url": "https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "She Want Some More (feat. Ken Carson)",
         "url": "https://open.spotify.com/album/2MNgdTVRIyedTK7n3Ej46C"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 184614,
       "name": "She Want Some More (feat. Ken Carson)",
       "url": "https://open.spotify.com/track/6MXlAZuSUsbKAN68ErtWj5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "prada (Remix)",
-        "url": "https://open.spotify.com/album/33mzi9tnIWkjOQYIi7b242"
-      },
-      "artists": [
-        {
-          "name": "tana",
-          "url": "https://open.spotify.com/artist/1xgl9yxqIVq8PEEMai38uV"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 112413,
-      "name": "prada (Remix) (feat. Lil Tecca)",
-      "url": "https://open.spotify.com/track/6W1aqjLCj3O4M1Pko8Bq6f"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Dope global beat makers. <a href=\"spotify:artist:4fOizZJsCaT3RYpqNdeGKk\">Thanks Joey</a>",
-  "num_followers": 126325,
+  "num_followers": 126374,
   "original_name": "Dope Beats",
   "owner": {
     "name": "Spotify",
@@ -487,6 +487,22 @@
     {
       "added_at": "2022-03-22 11:23:16",
       "album": {
+        "name": "Targa",
+        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
+      },
+      "artists": [
+        {
+          "name": "Jewlz",
+          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
+        }
+      ],
+      "duration_ms": 172068,
+      "name": "Targa",
+      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
+    },
+    {
+      "added_at": "2022-03-22 11:23:16",
+      "album": {
         "name": "Groovly",
         "url": "https://open.spotify.com/album/2tBeBG1bZBtHDZAN3H8F7E"
       },
@@ -515,22 +531,6 @@
       "duration_ms": 149333,
       "name": "Birdie_ - Instrumental",
       "url": "https://open.spotify.com/track/05n4JTIENSHhwsa7aBDvPm"
-    },
-    {
-      "added_at": "2022-03-22 11:23:16",
-      "album": {
-        "name": "Targa",
-        "url": "https://open.spotify.com/album/1tgeNyPWndmO5FN0xvZFC3"
-      },
-      "artists": [
-        {
-          "name": "Jewlz",
-          "url": "https://open.spotify.com/artist/1WRtwhuCTk1CuKBkr8fHkt"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Targa",
-      "url": "https://open.spotify.com/track/3plV0LOsX8KuJ3zWzB97Lc"
     },
     {
       "added_at": "2022-03-22 11:23:16",

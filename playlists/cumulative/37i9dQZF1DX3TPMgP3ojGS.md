@@ -4,7 +4,7 @@
 
 > Soft \(the quietest of them all\), subtle, no words needed\. Take a sip and enjoy the music of composers from around the world.
 
-1,805 songs - 3 day 8 hr 47 min
+1,806 songs - 3 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1692,7 +1692,7 @@
 | [Valse lente](https://open.spotify.com/track/5LRwngQ52nUePgI91FNhfz) | [Germaine Tailleferre](https://open.spotify.com/artist/6BPFsvVekatEQbA8l07afM), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Tailleferre: Valse lente](https://open.spotify.com/album/1ZYsAlMxGeLxcflbZOV7pZ) | 2:46 | 2024-01-11 |  |
 | [Valse Lente](https://open.spotify.com/track/7mu0xMw6sH2EZXl7rknVYN) | [Mauvais Roger](https://open.spotify.com/artist/3WywoFt9vF6tSIJGseVSTD) | [Valse Lente](https://open.spotify.com/album/0hT69ykQ29rpDL5ai2NxZ8) | 2:35 | 2021-05-19 | 2022-04-15 |
 | [Valse Mistral](https://open.spotify.com/track/6fnYjOnJIiCctDggEhTMti) | [Lotus Laverne](https://open.spotify.com/artist/59aZyEO8IQYZfEpsOV8vkj) | [Valse Mistral](https://open.spotify.com/album/1Uq5YepxqDsJck7PQDbZid) | 2:52 | 2022-04-14 | 2022-04-20 |
-| [Valse Naturelle](https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Naturelle](https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD) | 2:19 | 2023-05-30 |  |
+| [Valse Naturelle](https://open.spotify.com/track/5IevvlxHT4pygUgmZlxhNy) | [Etienne Balestre](https://open.spotify.com/artist/1kU0UlLxEnWOfLnmUQHBpd) | [Valse Naturelle](https://open.spotify.com/album/1HOd4BmPXDtJ1I6BXsFZnD) | 2:19 | 2023-05-30 | 2025-01-22 |
 | [Vancouver](https://open.spotify.com/track/6H08IWL5fcTkVyNjNCH2GM) | [Adam Fincher](https://open.spotify.com/artist/0PmeWY74IzTbfmYPC3Fsq6) | [Vancouver](https://open.spotify.com/album/4IdRqAawCzBNThspxGFTbo) | 3:31 | 2021-03-27 | 2022-06-05 |
 | [Vapor](https://open.spotify.com/track/6CLMik7zaM73RfKDqg6PBO) | [Aiden Stone](https://open.spotify.com/artist/4UoVmLpkenVAFqZeeDA4Hr) | [Vapor](https://open.spotify.com/album/0u8PhLaRSJ4wd2VkXLmnfn) | 2:11 | 2021-03-14 | 2021-05-10 |
 | [Včeraj](https://open.spotify.com/track/6o71Foef4Jf2LMFnHuvQo4) | [Zemfira Mironova](https://open.spotify.com/artist/7HdmWISDuEN6CX1zXXaK8H) | [Včeraj](https://open.spotify.com/album/5gR375qQkGA51v1fB4euT9) | 2:05 | 2021-03-20 | 2022-04-08 |
@@ -1811,6 +1811,7 @@
 | [Ærlighet](https://open.spotify.com/track/7h79rwHdJhHy4srfV43xVB) | [Eline Neteland](https://open.spotify.com/artist/4EXNBWhy685Yit4VemEbR6) | [Ærlighet](https://open.spotify.com/album/5d1MTzFWXVmeWpXY71Sfct) | 1:57 | 2021-03-18 | 2022-04-17 |
 | [È ora di dormire](https://open.spotify.com/track/2dtIoZ0tJ3EH3EcxAkGNE8) | [Scintillante](https://open.spotify.com/artist/0WRfsMbE1OBngUdyCgizs8) | [È ora di dormire](https://open.spotify.com/album/5NxTeHSVaG6jklmvpabxKY) | 2:59 | 2021-04-28 | 2022-04-06 |
 | [Échelle](https://open.spotify.com/track/2QKdAMS5nL4aAH8pg7NHlm) | [Satordi de Launay](https://open.spotify.com/artist/4NZ53ctU4KWRID8Y431vhq) | [Échelle](https://open.spotify.com/album/1kV6tLaBDsR4t2xaSmVVzJ) | 0:59 | 2021-05-16 | 2022-04-02 |
+| [森の住人](https://open.spotify.com/track/4hxnwRWpuL8J4S5oOtl9jT) | [Kan Sano](https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9) | [神様のメロディ](https://open.spotify.com/album/1xtbw2HzyWubGlsgO2gEGe) | 5:39 | 2025-01-21 |  |
 | [管弦楽組曲 第3番 ニ長調 BWV 1068: G線上のアリア](https://open.spotify.com/track/4uSFOXu5fSfbWMLsNPikp0) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Miyuji Kaneko](https://open.spotify.com/artist/1P9zpzupo4lDtMYqC96WLE) | [管弦楽組曲 第3番 ニ長調 BWV 1068: G線上のアリア](https://open.spotify.com/album/3JNTQwUs7ggr8fsFiVNhuC) | 3:34 | 2022-03-01 | 2022-07-29 |
 | [어스름](https://open.spotify.com/track/5z7sxlo3kf8eg8s3Zkb8dQ) | [Woong Sun Hee](https://open.spotify.com/artist/1HYFlkIP8WNiSu2E5R5Txx) | [어스름](https://open.spotify.com/album/6dTC18Wb6YRS6nDpFSOn8A) | 1:38 | 2021-05-03 | 2022-04-03 |
 

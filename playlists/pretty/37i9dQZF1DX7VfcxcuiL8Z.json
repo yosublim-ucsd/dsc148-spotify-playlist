@@ -267,6 +267,22 @@
     {
       "added_at": "2025-01-16 13:00:27",
       "album": {
+        "name": "Not Hell, Not Heaven",
+        "url": "https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "duration_ms": 181027,
+      "name": "Not Hell, Not Heaven",
+      "url": "https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2"
+    },
+    {
+      "added_at": "2025-01-16 13:00:27",
+      "album": {
         "name": "This High Up",
         "url": "https://open.spotify.com/album/1pwN3Vli2mtFaWYBmcXBzm"
       },

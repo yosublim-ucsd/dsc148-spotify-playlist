@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jon Reddick
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,898 likes - 99 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 345,947 likes - 99 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 10 | [Perfect](https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Perfect](https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH) | 3:07 |
 | 11 | [Overthinking](https://open.spotify.com/track/7BeFiQEFwd0KPuBNrYJK5M) | [Samantha Ebert](https://open.spotify.com/artist/0ETOPq7bpPG7rxYsV0MEzu) | [Overthinking](https://open.spotify.com/album/2Rctwsyq7hUCJ20mAFW6KH) | 3:24 |
 | 12 | [Wholeheartedly](https://open.spotify.com/track/3J9uGNRA6oMvM4wnOkSdxT) | [Austin Ludwig](https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL) | [Wholeheartedly](https://open.spotify.com/album/7fLxkmNRG2RX4g3XCI6FqD) | 4:00 |
-| 13 | [Beacon of Hope](https://open.spotify.com/track/2LXcDsWalfGUoAkcKSbmxA) | [Summer Martin](https://open.spotify.com/artist/3ofHJOpy368pHMZB5QeCS9), [Bassanova](https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh), [André SaxMan Brown](https://open.spotify.com/artist/1CTTuRNrQarpjqXctrwuXO), [Aisling Fuller](https://open.spotify.com/artist/0aYbG5hGPjYrwSpOHe7zgO) | [Beacon of Hope](https://open.spotify.com/album/4vkjpKb2VJsAmHwboaCP6K) | 3:14 |
+| 13 | [Beacon of Hope](https://open.spotify.com/track/2LXcDsWalfGUoAkcKSbmxA) | [Summer Martin](https://open.spotify.com/artist/3ofHJOpy368pHMZB5QeCS9), [Bassanova](https://open.spotify.com/artist/5kp1x9uVSXexU4UX2EI1vh), [André SaxMan Brown](https://open.spotify.com/artist/24YOcUTGZOeMoBLcYrtBMA), [Aisling Fuller](https://open.spotify.com/artist/0aYbG5hGPjYrwSpOHe7zgO) | [Beacon of Hope](https://open.spotify.com/album/4vkjpKb2VJsAmHwboaCP6K) | 3:14 |
 | 14 | [Started With You](https://open.spotify.com/track/5PEAU0AlblZBoHPu7h7cvl) | [Dan Bremnes](https://open.spotify.com/artist/235ZVf4thM2FFfyE4ACwB3) | [Started With You](https://open.spotify.com/album/3F1B6OAjoD2K3vm0vrXmLw) | 2:52 |
 | 15 | [Heartbreak Feels Like Home](https://open.spotify.com/track/3YjAnfmtN1B6yAJDc107wj) | [Hunter Plake](https://open.spotify.com/artist/7dToZgn1tZjiCKeT1y60zw) | [Heartbreak Feels Like Home](https://open.spotify.com/album/263qDwfuQjPJc9RIpwQwjE) | 3:38 |
 | 16 | [How Beautiful The Feet](https://open.spotify.com/track/64YNZTL4VT4yioMTZWO1vn) | [Tenielle Neda](https://open.spotify.com/artist/38rsHCzbXGGXcIGq1ceArD), [Citizens](https://open.spotify.com/artist/3e7KVnSiZjsBkReSv0L6db) | [How Beautiful The Feet](https://open.spotify.com/album/3CC86g9eXE34Rokqq6VyXH) | 3:51 |

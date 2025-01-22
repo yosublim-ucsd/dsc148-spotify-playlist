@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 
 > Your weekly update of the most played tracks right now \- Belarus.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,340 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,339 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 27 | [Самолеты](https://open.spotify.com/track/4gkQh8gUuxTpzQeJYRIpvb) | [Женя Трофимов](https://open.spotify.com/artist/3JYowG5k65ROJjN5PXx9Ce) | [что бы она пела](https://open.spotify.com/album/4fDs8NC5wMJlZqsW0jTwJq) | 2:53 |
 | 28 | [Supersonic](https://open.spotify.com/track/5gSzWAAZIZBhSDSufE7nHv) | [Big Baby Tape](https://open.spotify.com/artist/5NMwoStnfHT4LdETlJSwDT), [Aarne](https://open.spotify.com/artist/5B5qmrbTFvA7TAxWruuwbo) | [PEEKABOO](https://open.spotify.com/album/786SDwa0FZXk7Wzeq6pqhQ) | 2:44 |
 | 29 | [Обломки чувств](https://open.spotify.com/track/6zmh6mi9cLuioTTRprsh8j) | [TERESHINA](https://open.spotify.com/artist/50MEp7tOD86rZ3KPUsqHCR) | [Открой мне сердце](https://open.spotify.com/album/4oH7acbEcuIOAr0H85yTlw) | 2:48 |
-| 30 | [Breakin' Dishes](https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad: Reloaded](https://open.spotify.com/album/3JSWZWeTHF4HDGt5Eozdy7) | 3:20 |
+| 30 | [Breakin' Dishes](https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Good Girl Gone Bad](https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP) | 3:20 |
 | 31 | [мило материшься](https://open.spotify.com/track/0BryMsuHUY9EK5wC45PggL) | [volhey](https://open.spotify.com/artist/6BHwpXJsWpRi3aIzmAgGu8) | [мило материшься](https://open.spotify.com/album/4CE3mitKe51HAvMQjwgZ2G) | 2:00 |
 | 32 | [Планы на завтра](https://open.spotify.com/track/0O4kb1JsWID2qx6r2iiBfP) | [TIGO](https://open.spotify.com/artist/2cwPCcxidKbrm6ImMtStMq), [Migrant](https://open.spotify.com/artist/35YM79EM2BbfGC7ZYhz8Ly) | [Планы на завтра](https://open.spotify.com/album/3pxtE8YOtxtpqS8984YwWW) | 2:25 |
 | 33 | [Батареи](https://open.spotify.com/track/0Oj8rpo6eiGvJmnLs4ZrkH) | [Нервы](https://open.spotify.com/artist/10oSboDn5ncLNjjFIgJXm6) | [Всё Что Вокруг](https://open.spotify.com/album/28pieKTvyLISIQ4IZBuFXH) | 3:13 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZEVXbLRLeF2cVSaP.md) - [plain]
 | 49 | [DreamKeeperc](https://open.spotify.com/track/2hZcfgWVxNZ7Q8xVn6xo70) | [FRIENDLY THUG 52 NGG](https://open.spotify.com/artist/5xtbUYHaOycg6HIi10EZdV) | [DreamKeeperc](https://open.spotify.com/album/54rEdCrnpAFmo6XjM5Oj56) | 2:12 |
 | 50 | [Ханнамонтана](https://open.spotify.com/track/7dOzvgGmCmoqGAHeoiM542) | [Poshlaya Molly](https://open.spotify.com/artist/0xByDfltDVpk6LDsUMHyI2) | [8 способов как бросить...](https://open.spotify.com/album/49UnOVtMcezIGit8VKE3za) | 3:10 |
 
-Snapshot ID: `LyG5yAAAAAAAAAAAAAAAAAAAAAAAAGVu`
+Snapshot ID: `LyMLSAAAAAAAAAAAAAAAAAAAAAAAAGVu`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 
 > Jazz soundtracks and Jazz songs from the movies.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,244 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,290 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -96,10 +96,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8pEFXwG9EZ.md) - [plain]
 | 86 | [Walk To Work](https://open.spotify.com/track/4m7Ka1KBZgzdoSUMLui5aU) | [Randy Newman](https://open.spotify.com/artist/3HQyFCFFfJO3KKBlUfZsyW) | [Monsters Inc Original Soundtrack](https://open.spotify.com/album/6DJN6GdYFILJ5gtLbHW1Ff) | 3:30 |
 | 87 | [Good Morning Heartache \- From "Lady Sings The Blues" Soundtrack](https://open.spotify.com/track/1VnCyVMa4MsbvjEGXGOH6P) | [Diana Ross](https://open.spotify.com/artist/3MdG05syQeRYPPcClLaUGl) | [The Motown Anthology](https://open.spotify.com/album/1iWLbj2Az7I7ixffEQUrSc) | 2:22 |
 | 88 | [Tu Vuo' Fa L'Americano \- Vocal](https://open.spotify.com/track/7lqrA7RZdx9CtLfBtkGZoc) | [Fiorello](https://open.spotify.com/artist/4kb7YUXdndyC7yD81bJ08q), [Matt Damon](https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd), [Jude Law](https://open.spotify.com/artist/3hjt2ka5fpP8Gvw1BlPPSU) | [The Talented Mr\. Ripley \- Music from The Motion Picture](https://open.spotify.com/album/1lkKAxE1nzPGQmg379SdGu) | 3:01 |
-| 89 | [Laura](https://open.spotify.com/track/1zmVlbrvqZ6X7QeeKzKWrx) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Bird \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3b9cKpz961wfdpdfwAnTDc) | 3:31 |
-| 90 | [Unsquare Dance](https://open.spotify.com/track/3FYDiueg0uwQiN7JVtC9CE) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Baby Driver \(Music from the Motion Picture\)](https://open.spotify.com/album/1XaJOcLe3xMQ611SMHtOja) | 2:02 |
-| 91 | [James Bond Theme \(From "Dr\. No."\)](https://open.spotify.com/track/7ogsG1i9iqaJoflN3oC9pU) | [John Barry Orchestra](https://open.spotify.com/artist/0RY2EG9XPPwZOliIkTOiog) | [The Best of Bond...James Bond](https://open.spotify.com/album/2lHvf04m2IO93HC7PNdkfL) | 1:47 |
-| 92 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
+| 89 | [We Have all The Time in the World](https://open.spotify.com/track/4aVz0wlJLCsU92yN5vytyV) | [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Hello Louis \- The Hit Years \(1963\-1969\)](https://open.spotify.com/album/5bg0svB3kklUxFziXta8it) | 3:12 |
+| 90 | [Laura](https://open.spotify.com/track/1zmVlbrvqZ6X7QeeKzKWrx) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [Bird \- Original Motion Picture Soundtrack](https://open.spotify.com/album/3b9cKpz961wfdpdfwAnTDc) | 3:31 |
+| 91 | [Unsquare Dance](https://open.spotify.com/track/3FYDiueg0uwQiN7JVtC9CE) | [The Dave Brubeck Quartet](https://open.spotify.com/artist/4iRZAbYvBqnxrbs6K25aJ7) | [Baby Driver \(Music from the Motion Picture\)](https://open.spotify.com/album/1XaJOcLe3xMQ611SMHtOja) | 2:02 |
+| 92 | [James Bond Theme \(From "Dr\. No."\)](https://open.spotify.com/track/7ogsG1i9iqaJoflN3oC9pU) | [John Barry Orchestra](https://open.spotify.com/artist/0RY2EG9XPPwZOliIkTOiog) | [The Best of Bond...James Bond](https://open.spotify.com/album/2lHvf04m2IO93HC7PNdkfL) | 1:47 |
 | 93 | [Last Tango in Paris, Pt\. 1](https://open.spotify.com/track/5MxY2UsXLTcH0fgzqSrMm3) | [Gato Barbieri](https://open.spotify.com/artist/7dXBi98p0mN5JCpBnU0XEm) | [Last Tango in Paris \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0HOXwjCiXWOSxV8mUWJunO) | 3:24 |
 | 94 | [Si Tu Vois Ma Mère](https://open.spotify.com/track/7CCM17v5YFXAV7fR35UfkA) | [Claude Luter et son orchestre](https://open.spotify.com/artist/7vyl7IFdeAHggtnfN0qU7w) | [Midnight in Paris \(Music from the Motion Picture\)](https://open.spotify.com/album/4T6ytV8yCJ9UJ8CsWjetq0) | 3:14 |
 | 95 | [My Funny Valentine \- Vocal](https://open.spotify.com/track/6gSz86xAp5WDAYi33xQb1b) | [Matt Damon](https://open.spotify.com/artist/6V4svndaHpUa5Go8Z8AOUd) | [The Talented Mr\. Ripley \- Music from The Motion Picture](https://open.spotify.com/album/1lkKAxE1nzPGQmg379SdGu) | 2:33 |

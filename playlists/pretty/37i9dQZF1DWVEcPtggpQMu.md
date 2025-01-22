@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap from the streets\. <br/>Cover: <a href="https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU?si=i6yiLbNUQo6\_R0yM3Ryrzg">Solo Sae</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,565 likes - 82 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,609 likes - 82 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

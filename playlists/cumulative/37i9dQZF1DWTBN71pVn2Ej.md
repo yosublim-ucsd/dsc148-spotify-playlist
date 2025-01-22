@@ -4,7 +4,7 @@
 
 > The shape of noise to come with Split Chain \(pictured\), Superheaven,  and more.
 
-768 songs - 1 day 19 hr 49 min
+770 songs - 1 day 19 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -436,6 +436,7 @@
 | [Lucky](https://open.spotify.com/track/2khr0Gm7Aa6x5IyWx8VDF9) | [Momma](https://open.spotify.com/artist/5Wj0an60VgRckYV9zlDe1e) | [Lucky](https://open.spotify.com/album/3t4tuSnXX509RXzNABMHHm) | 4:03 | 2022-05-26 | 2022-07-01 |
 | [Luddite](https://open.spotify.com/track/0BTLSHxSjeA7UAQ9sTxXXz) | [Attendant](https://open.spotify.com/artist/2armY1pDin1spLqVtTGOVV) | [Luddite](https://open.spotify.com/album/0ux250DqqYVJwQ3jJTqG8N) | 4:01 | 2023-03-02 | 2023-05-27 |
 | [lullaby](https://open.spotify.com/track/3rJDQ12wSQFfCpL25r6tNo) | [Pinkshift](https://open.spotify.com/artist/3bfSaJqEYosPcdoCN06G3P) | [suraksha](https://open.spotify.com/album/2DU7eVOKSWzIH5Rqt47wtb) | 4:39 | 2023-10-13 | 2023-11-17 |
+| [m0numental](https://open.spotify.com/track/4BlQMDkzx09E9wr1Gg8af8) | [Asian Glow](https://open.spotify.com/artist/74om4qLxb9MIsubhtvxQQJ) | [11100011](https://open.spotify.com/album/2rWZtoDwT3QESDsZXnFleg) | 4:33 | 2025-01-21 |  |
 | [Machine](https://open.spotify.com/track/4Bnn0NhRWsSKPPiHPJtYjm) | [Palomino Blond](https://open.spotify.com/artist/0oNZ5XN1TT4aWlxHhx8oWe) | [Machine](https://open.spotify.com/album/0euGdd3l4XqpUWeQapjooA) | 5:30 | 2024-01-19 | 2024-02-10 |
 | [Magic Medicine](https://open.spotify.com/track/22HixQWkPtnaqY1onzSEkH) | [Deap Vally](https://open.spotify.com/artist/1NsvfeRzexfHjhUGqWrULl) | [Magic Medicine](https://open.spotify.com/album/1c5xKAOxCi9Q6XHsPzebiE) | 3:31 | 2021-12-16 | 2022-03-22 |
 | [Magnitude of Life](https://open.spotify.com/track/7ojcJMuYYXAXr2wx3DGywh) | [Navtec](https://open.spotify.com/artist/21aqWJhJhi4JAEJRqsXwMu) | [A World Inside Your Shadow](https://open.spotify.com/album/5Xo2lajd7qYy10kFNKFKDi) | 4:19 | 2024-10-21 |  |
@@ -489,6 +490,7 @@
 | [Nobody’s](https://open.spotify.com/track/609A6oa4P6iD0YY8cxNeMU) | [Touché Amoré](https://open.spotify.com/artist/16QCJENzcdhwka9bTKYMVB) | [Nobody’s](https://open.spotify.com/album/46e2HEQghpFuXNVHTNz6hT) | 2:15 | 2024-07-26 | 2024-10-15 |
 | [Normal People](https://open.spotify.com/track/5fHTf9ZTdBkN3HTT3qLr4c) | [Fatherson](https://open.spotify.com/artist/7DRjM0vtwvKxZYnd9mPaP9) | [Normal People](https://open.spotify.com/album/6HEPp8hIR1ax1cLTMDBLbL) | 2:58 | 2021-12-16 | 2022-01-21 |
 | [Not a Friend](https://open.spotify.com/track/13iuIktdvv32Xz9P8GO5Mq) | [MILLY](https://open.spotify.com/artist/6LihBQjVynXpEaT3Oe2oof) | [Not A Friend](https://open.spotify.com/album/4lu2cHvOHdrtlTH0RSOS8f) | 3:19 | 2023-06-02 | 2023-07-04 |
+| [Not Hell, Not Heaven](https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Not Hell, Not Heaven](https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU) | 3:01 | 2025-01-21 |  |
 | [Not It](https://open.spotify.com/track/6d8mGiqcBGivmQ0B5BH9Wi) | [Salt+](https://open.spotify.com/artist/4wP8CdpcWu2NoEzqp2fape) | [Not It](https://open.spotify.com/album/0ep6SynYuRntszr0mv2U2W) | 2:32 | 2024-02-02 | 2024-03-02 |
 | [Not Just Yet](https://open.spotify.com/track/2TmzblnommV2fLhFWipdfg) | [Enumclaw](https://open.spotify.com/artist/79yETfINxnDl54mTKLZUlb) | [Home in Another Life](https://open.spotify.com/album/0cOCKVlitrRLrgsOP2f3DY) | 2:01 | 2024-10-14 | 2024-12-30 |
 | [Nothing](https://open.spotify.com/track/1xtm5LyLJsOcCqyGY0qnTn) | [bloodmoon](https://open.spotify.com/artist/26hXUBuoVEiECCwpSCEYPB) | [Nothing](https://open.spotify.com/album/1SqK00QPYl2QcZe3HD1pel) | 3:59 | 2022-06-16 | 2022-09-23 |
@@ -615,7 +617,7 @@
 | [Sonny](https://open.spotify.com/track/1HMAGmRUH8BdyvwyEAeJAR) | [Luca Brasi](https://open.spotify.com/artist/7wNxbhLI5CufuLBy50JcZu) | [Sonny](https://open.spotify.com/album/1x0RHJ05WgdGrAH8yA6Pq8) | 3:40 | 2023-08-21 | 2023-10-14 |
 | [Sow](https://open.spotify.com/track/7yL6dFWL7mIdyIVE2lZZwX) | [Bukowski](https://open.spotify.com/artist/68HpOv7DefjopAabpaQZjR) | [Sow](https://open.spotify.com/album/4ZQ3fVCBqwPtoFDsA3EAlu) | 2:52 | 2024-07-26 | 2024-11-23 |
 | [Spaceboy](https://open.spotify.com/track/6ofeNhY1x3MEiXCI1gtFIq) | [bēd](https://open.spotify.com/artist/0MjcjbHaIS0PseTlNONipy) | [Spaceboy](https://open.spotify.com/album/4U0lowrw1imRhT1OoFIu7g) | 2:50 | 2024-08-30 | 2024-10-26 |
-| [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-14 |  |
+| [Special](https://open.spotify.com/track/62camXiL7evu87vDZ7EKSH) | [Scowl](https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp) | [Special](https://open.spotify.com/album/6vnJda9u77ADNQED3jjI6r) | 2:57 | 2024-10-14 | 2025-01-22 |
 | [Spectre](https://open.spotify.com/track/6GsXN6OCNWR3GaDoNQTmwW) | [trauma ray](https://open.spotify.com/artist/7mhFqGccO5U4pn90mix9S1) | [Spectre](https://open.spotify.com/album/1jpug0ubgqgKiBhT2X5E2E) | 3:53 | 2024-09-30 | 2024-10-29 |
 | [Spell](https://open.spotify.com/track/4Un8vcXds1r5WuRknRlycI) | [BRKN LOVE](https://open.spotify.com/artist/2Hkg1gn2Hpar1sVP8adtNp) | [Black Box](https://open.spotify.com/album/6FWVzZ70IkIbYjySKrThTI) | 3:37 | 2022-11-04 | 2022-11-26 |
 | [Spell](https://open.spotify.com/track/3M5a73GseVS617KuBHxj8t) | [Twin Mill](https://open.spotify.com/artist/4yObbeDn9QW3dGWIVdcalo) | [Different Skies](https://open.spotify.com/album/1R7btULxWxGIIfShLr4nua) | 3:28 | 2024-01-19 | 2024-08-17 |

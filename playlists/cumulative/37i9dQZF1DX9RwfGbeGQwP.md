@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,529 songs - 2 day 9 hr 35 min
+1,530 songs - 2 day 9 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [charles b.](https://open.spotify.com/track/0PspRVTgQPycu9EH88kF4k) | [Rico Manzano](https://open.spotify.com/artist/1hVs4AUzu7CjnBobfDoLoZ) | [charles b.](https://open.spotify.com/album/1MXnC6qRilmNuoYPwenhr4) | 2:30 | 2022-01-27 | 2022-10-15 |
 | [Chasing Clouds](https://open.spotify.com/track/1BzbkoI0867xFsfy1tBwFm) | [Odd Shapes](https://open.spotify.com/artist/7A0I9hUuQHuonQhfYw3HrU) | [Tour Bus](https://open.spotify.com/album/3c4bZOR7st6OBpOVvyT4n0) | 2:54 | 2022-01-27 | 2023-05-20 |
 | [Chasing Something](https://open.spotify.com/track/6irjfpaZ3kS7qlIzXFvD7l) | [Enluv](https://open.spotify.com/artist/5g8EUiiIZDqp2xd9eUUHin), [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Anton](https://open.spotify.com/artist/7crM3nBmCpsIrBUOCpo6jA) | [Chasing Something](https://open.spotify.com/album/0BlUpKBYePUZlqHu9IruxS) | 2:37 | 2022-07-29 | 2022-09-23 |
+| [Chasing Sunsets](https://open.spotify.com/track/0DpqETYiQU6l3pNKaail1I) | [Monkey Lala](https://open.spotify.com/artist/0mjsKUEGeUkwWNQR9MLDJr) | [Chasing Sunsets](https://open.spotify.com/album/4YHLT0dhAOdovZtdDvCQfw) | 2:11 | 2025-01-17 |  |
 | [Chasing Yesterday](https://open.spotify.com/track/0bs41oSIm3xdtR0CEZYXu3) | [Recaps](https://open.spotify.com/artist/10AsJvn27mBPRP1G05gQs1) | [Chasing Yesterday](https://open.spotify.com/album/54sbVv23TUq6zvE4QYODr0) | 2:20 | 2023-11-17 |  |
 | [Chesterfield](https://open.spotify.com/track/7x5QoXMfR9tQKp1TPT17Ft) | [paris91](https://open.spotify.com/artist/0IF1xUEFhGXZ7zz8BW1zqv) | [Chesterfield](https://open.spotify.com/album/72FaXIKk4HxWPxTEC9rXOP) | 2:15 | 2022-05-20 | 2022-11-26 |
 | [cheydinhal](https://open.spotify.com/track/1LZn2Iumd6EBPa16SxZmgg) | [Poetics](https://open.spotify.com/artist/6sdgbah9YMIS5jSYdyzpBP) | [cheydinhal](https://open.spotify.com/album/5qkawH5rfKsYEwTXWMRDeP) | 2:05 | 2022-09-16 | 2022-10-15 |
@@ -861,7 +862,7 @@
 | [Morning Coffee](https://open.spotify.com/track/1uo9OToT1FDYSVWfWpwhO8) | [Henry Lowe](https://open.spotify.com/artist/1Op6kjtkZu2Yqx5UprLQVt) | [Morning Coffee & Slow Start](https://open.spotify.com/album/1fv1gsqEW2wfxJENizIocA) | 2:36 | 2022-01-27 | 2024-05-14 |
 | [Morning Coffee](https://open.spotify.com/track/6fco1FnIJmQMjS2ANU0s86) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [Morning Coffee](https://open.spotify.com/album/4ckV7B73berfpdY8o4ZCh1) | 2:04 | 2022-12-09 | 2023-10-06 |
 | [Morning Coffee](https://open.spotify.com/track/5PPvrpo03nW7lFxvHD3Lkc) | [WOOLFSON](https://open.spotify.com/artist/3tsW6A76gKQtr7ktu5v50d) | [Morning Coffee](https://open.spotify.com/album/2P5FT29hFlmYWIOVaYvYPy) | 2:09 | 2022-05-27 | 2022-07-01 |
-| [morning haze](https://open.spotify.com/track/4jEpT0wPpnTzWlsyNJ2492) | [chasing clouds.](https://open.spotify.com/artist/5LDKOzebjXcTFpZALsiVZ6), [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [morning haze](https://open.spotify.com/album/21kcqvPyKvTenNZieCjAXQ) | 2:08 | 2024-11-29 |  |
+| [morning haze](https://open.spotify.com/track/4jEpT0wPpnTzWlsyNJ2492) | [chasing clouds.](https://open.spotify.com/artist/5LDKOzebjXcTFpZALsiVZ6), [mellow fox](https://open.spotify.com/artist/2VVDDOoBIhsMVPJMoUXjUE) | [morning haze](https://open.spotify.com/album/21kcqvPyKvTenNZieCjAXQ) | 2:08 | 2024-11-29 | 2025-01-22 |
 | [Morning Stretch](https://open.spotify.com/track/4BfOkMlyoev0VEN5ClXMby) | [Timothy Infinite](https://open.spotify.com/artist/4rhZUbGllLmyrhbB9g2ZbX) | [As The Sun Rises](https://open.spotify.com/album/4OGfkftDPq4gOqtKCf1G2y) | 2:24 | 2022-04-08 | 2023-11-17 |
 | [Morning Sun](https://open.spotify.com/track/2HiqbtpYcQcuWTDRbfLLD5) | [landlooper](https://open.spotify.com/artist/38qqfsLO3vaDBewodzX1V1) | [Morning Sun](https://open.spotify.com/album/0SL8oqPqcQ5kgzLF00UN0o) | 1:58 | 2022-06-24 | 2022-12-10 |
 | [Mosaic](https://open.spotify.com/track/3rDpqMkNK2YLWlGF8bKBmh) | [Lipstick Fest](https://open.spotify.com/artist/3b8kyF1PeVIOlo16gJUee1) | [Mosaic](https://open.spotify.com/album/3F1uxNrHxx5BMb7qUzFWpA) | 3:16 | 2022-01-27 | 2024-05-14 |

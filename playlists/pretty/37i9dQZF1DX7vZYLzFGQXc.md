@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 
 > 피어나고 있는 한국의 재능들을 만나보세요! \(Cover: 엘루이, 리치보이하디\) \(Meet the emerging talents of Korea!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,145 likes - 100 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,150 likes - 100 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,7 +69,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7vZYLzFGQXc.md) - [plain]
 | 59 | [off](https://open.spotify.com/track/18GT89zzVPE2OXGvokTOn7) | [Luckypink4ever](https://open.spotify.com/artist/1fyOzgarGTgvI0KWIeou7Z) | [off](https://open.spotify.com/album/5XfyJ7wcxXU4rX4VVRLKkh) | 4:00 |
 | 60 | [Goodbye, Dear Heart](https://open.spotify.com/track/4bNvTH9dNhrA5FrUgxVLBD) | [Lee Geurim](https://open.spotify.com/artist/6QjBl8GTTlKvHcvu4uQHRh) | [Goodbye, Dear Heart](https://open.spotify.com/album/2867XAlPq6vbrQXLI9oUpF) | 3:11 |
 | 61 | [shine](https://open.spotify.com/track/6ln4T9SNP4VPJLJHjeONMI) | [zzzaam](https://open.spotify.com/artist/7iRoIMoHaSyQBKMJT9RDrP) | [shine](https://open.spotify.com/album/0wbjqvLVTQizMwJTibEzXK) | 5:21 |
-| 62 | [how do you know \(Feat\. Itssiu\)](https://open.spotify.com/track/74pYt5GCICcYWb6q6hqMBo) | [Kelly](https://open.spotify.com/artist/5eZ3fm0O5EtxeFyQN5EEpg), [itssiu](https://open.spotify.com/artist/5OTdFjqPLybgNhwcErzl8s) | [how do you know](https://open.spotify.com/album/6J3EaFUHaW4h9lK5aNYiEt) | 2:26 |
+| 62 | [how do you know \(Feat\. itssiu\)](https://open.spotify.com/track/74pYt5GCICcYWb6q6hqMBo) | [Kelly](https://open.spotify.com/artist/5eZ3fm0O5EtxeFyQN5EEpg), [itssiu](https://open.spotify.com/artist/5OTdFjqPLybgNhwcErzl8s) | [how do you know](https://open.spotify.com/album/6J3EaFUHaW4h9lK5aNYiEt) | 2:26 |
 | 63 | [떠나](https://open.spotify.com/track/1CkXILCBZbIVDcj8TSVgFg) | [Millennio](https://open.spotify.com/artist/1ecmZctPAiUQVtMiZOqwZZ) | [떠나](https://open.spotify.com/album/3E7XIMlltUnzGhbQZkMJF4) | 2:37 |
 | 64 | [crazy](https://open.spotify.com/track/0MBxvzlUueNHCDwtpwCR4X) | [yooji](https://open.spotify.com/artist/5Spf1uhWdc2CW3fWhZDegU) | [crazy](https://open.spotify.com/album/43QP0dljUrFHbFF3ashcZ0) | 2:38 |
 | 65 | [Just Disco](https://open.spotify.com/track/3d84PnagbFNc8l4bXKt8Py) | [YDYD](https://open.spotify.com/artist/6pjndfYAoGi9jaah9BxhfI) | [Just Disco](https://open.spotify.com/album/2HUsewNMUZqwlfI4faBuyt) | 3:28 |

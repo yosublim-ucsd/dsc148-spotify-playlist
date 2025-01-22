@@ -3334,7 +3334,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 138600,
       "name": "B012",
       "url": "https://open.spotify.com/track/5G7d637BU8TQbUjcE1qjMt"
@@ -5548,7 +5548,7 @@
       ],
       "date_added": "2025-01-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/46aZJc0z1HHHSFxaIRxYSP"
@@ -5566,7 +5566,7 @@
       ],
       "date_added": "2025-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 200573,
       "name": "Breakin' Dishes",
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
@@ -13198,7 +13198,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 276240,
       "name": "Futurama 3 (fanserwis)",
       "url": "https://open.spotify.com/track/7ousJJ6DkKOeeXwfgWEMpN"
@@ -14226,7 +14226,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 178004,
       "name": "Ground Zero",
       "url": "https://open.spotify.com/track/7gPbVDk8Es7AVHTLUFq6CU"
@@ -14864,7 +14864,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 128571,
       "name": "hellstar",
       "url": "https://open.spotify.com/track/7HDeP774T5HQlHISFg4v5O"
@@ -16532,6 +16532,24 @@
       "duration_ms": 120000,
       "name": "INTERNATIONAL",
       "url": "https://open.spotify.com/track/55RyJS8aJQACDQvXMdq3QS"
+    },
+    {
+      "album": {
+        "name": "intro + up! up! up!",
+        "url": "https://open.spotify.com/album/0lonx6kXB21iLRpdkgv78L"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190666,
+      "name": "intro",
+      "url": "https://open.spotify.com/track/3d1YtKpp27rNxBShzzKbrw"
     },
     {
       "album": {
@@ -20686,7 +20704,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 123428,
       "name": "Last night",
       "url": "https://open.spotify.com/track/4Xch29YoOYG3qsJoXXGaRy"
@@ -22046,7 +22064,7 @@
       ],
       "date_added": "2024-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie (from the series Arcane League of Legends)",
       "url": "https://open.spotify.com/track/2LwsunYgfRoqyIsNtgOCQx"
@@ -22102,7 +22120,7 @@
       ],
       "date_added": "2024-11-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 147973,
       "name": "Ma Meilleure Ennemie - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/6BPcUXYERAahpunmb0AovH"
@@ -24112,7 +24130,7 @@
       ],
       "date_added": "2024-10-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 169756,
       "name": "MONOPOL",
       "url": "https://open.spotify.com/track/5hEr8DxL1QQYziUK2pnFfl"
@@ -25779,6 +25797,32 @@
     },
     {
       "album": {
+        "name": "Najwy\u017cej zostaniemy najwy\u017cej",
+        "url": "https://open.spotify.com/album/1DSOIz0LCzysf9cBaLwHzL"
+      },
+      "artists": [
+        {
+          "name": "Gibbs",
+          "url": "https://open.spotify.com/artist/1T4HxOYolAEb5PadIVKdWZ"
+        },
+        {
+          "name": "Opa\u0142",
+          "url": "https://open.spotify.com/artist/28WXX79U4jzq1kfjx5QXPy"
+        },
+        {
+          "name": "4Money",
+          "url": "https://open.spotify.com/artist/6EjCs0fSiq0HvAbCzIPeq1"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235368,
+      "name": "Najwy\u017cej zostaniemy najwy\u017cej",
+      "url": "https://open.spotify.com/track/7koK9dRYIyhjsno739jmgT"
+    },
+    {
+      "album": {
         "name": "1-800-O\u015aWIECENIE",
         "url": "https://open.spotify.com/album/2ItrzcwLrygr4I6wlZ3HGU"
       },
@@ -27442,7 +27486,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -29940,7 +29984,7 @@
       ],
       "date_added": "2024-10-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 189428,
       "name": "Pardon",
       "url": "https://open.spotify.com/track/6wyJltdOuSjUt1bdwO4QCZ"
@@ -32476,7 +32520,7 @@
       ],
       "date_added": "2024-03-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 183748,
       "name": "Przester",
       "url": "https://open.spotify.com/track/0MTTFee7cTSd46njlPKBZe"
@@ -34718,6 +34762,24 @@
       "duration_ms": 235773,
       "name": "Schodki",
       "url": "https://open.spotify.com/track/0vPVqOKo8LWVganQgBZS5y"
+    },
+    {
+      "album": {
+        "name": "100 dni do matury",
+        "url": "https://open.spotify.com/album/4cA2a9w1gSzJEIdbhwUrsH"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235773,
+      "name": "Schodki",
+      "url": "https://open.spotify.com/track/773ryYtshMNAyz6iDtZgLI"
     },
     {
       "album": {
@@ -37194,7 +37256,7 @@
       ],
       "date_added": "2024-09-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 240426,
       "name": "Sweater Weather",
       "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
@@ -40816,6 +40878,24 @@
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
+    },
+    {
+      "album": {
+        "name": "intro + up! up! up!",
+        "url": "https://open.spotify.com/album/0lonx6kXB21iLRpdkgv78L"
+      },
+      "artists": [
+        {
+          "name": "Mata",
+          "url": "https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190975,
+      "name": "up! up! up!",
+      "url": "https://open.spotify.com/track/1PlysCdOuMYvE8imkyvHLx"
     },
     {
       "album": {

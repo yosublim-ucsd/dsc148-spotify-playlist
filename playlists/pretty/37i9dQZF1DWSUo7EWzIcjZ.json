@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Merengue de los 80 y 90! Portada: Wilfrido Vargas",
-  "num_followers": 387519,
+  "num_followers": 387514,
   "original_name": "Merengue Cl\u00e1sico",
   "owner": {
     "name": "Spotify",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
-        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
-      },
-      "artists": [
-        {
-          "name": "Los Hermanos Rosario",
-          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
-        }
-      ],
-      "duration_ms": 266666,
-      "name": "Me Tiene Amarrao",
-      "url": "https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Con el Alma",
         "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 242613,
       "name": "Con las Manos en la Masa",
       "url": "https://open.spotify.com/track/6fowwGHZH717DW2PfrvI7O"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "El D\u00edsco de Oro de los Hermanos Rosario",
+        "url": "https://open.spotify.com/album/1cEkd3PryBDe7dOcEuoAWe"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Rosario",
+          "url": "https://open.spotify.com/artist/40FzPNKgu0k9VMvvidiKCl"
+        }
+      ],
+      "duration_ms": 266666,
+      "name": "Me Tiene Amarrao",
+      "url": "https://open.spotify.com/track/07QUDnW5QUY6v3S3B2JreR"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1191,6 +1191,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "La Fiesta Esta Buena",
+        "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
+      },
+      "artists": [
+        {
+          "name": "Bonny Cepeda",
+          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+        }
+      ],
+      "duration_ms": 247379,
+      "name": "La Fotografia",
+      "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Noches Latinas",
         "url": "https://open.spotify.com/album/78mFtQUxBPYxrb2p2LNc0d"
       },
@@ -1207,18 +1223,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "La Fiesta Esta Buena",
-        "url": "https://open.spotify.com/album/2KfSSG74HKQnfD7GedWGcc"
+        "name": "Con el Alma",
+        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
       },
       "artists": [
         {
-          "name": "Bonny Cepeda",
-          "url": "https://open.spotify.com/artist/1dI3emu3Tf6ZydmpCEZmqx"
+          "name": "El Zafiro Carlos Manuel & Orquesta",
+          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
         }
       ],
-      "duration_ms": 247379,
-      "name": "La Fotografia",
-      "url": "https://open.spotify.com/track/3WMA5XIBaQEWP0Ly1iq6GI"
+      "duration_ms": 229920,
+      "name": "Que Es Lo Que Tienes",
+      "url": "https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1271,22 +1287,6 @@
       "duration_ms": 217077,
       "name": "Yo Soy Asi",
       "url": "https://open.spotify.com/track/6XuCBsPc8CARc6SXc3cZ6d"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Con el Alma",
-        "url": "https://open.spotify.com/album/5Cs1YIZNkEv7rYKwyy1IMA"
-      },
-      "artists": [
-        {
-          "name": "El Zafiro Carlos Manuel & Orquesta",
-          "url": "https://open.spotify.com/artist/3SGgOQadDSfvUmlinqyxE6"
-        }
-      ],
-      "duration_ms": 229920,
-      "name": "Que Es Lo Que Tienes",
-      "url": "https://open.spotify.com/track/4Xo6Fx0K5fJHMSj6fxiOOt"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1355,38 +1355,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "11 Exitos",
-        "url": "https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j"
-      },
-      "artists": [
-        {
-          "name": "Dionis Fernandez",
-          "url": "https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3"
-        }
-      ],
-      "duration_ms": 291994,
-      "name": "Cal y Arena",
-      "url": "https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 228231,
-      "name": "Te He Prometido - Original",
-      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "!Ay Doctor!",
         "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
       },
@@ -1399,6 +1367,22 @@
       "duration_ms": 302509,
       "name": "Ay Doctor",
       "url": "https://open.spotify.com/track/3Xnz9X44B2cdJHpfMeKgIv"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "11 Exitos",
+        "url": "https://open.spotify.com/album/6sfL5qMPQi6k2JuvGlLB1j"
+      },
+      "artists": [
+        {
+          "name": "Dionis Fernandez",
+          "url": "https://open.spotify.com/artist/6gpiTm3vKuiZuFN3fOSlc3"
+        }
+      ],
+      "duration_ms": 291994,
+      "name": "Cal y Arena",
+      "url": "https://open.spotify.com/track/1IffMRFnj7ZBNRguSj2shI"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1451,6 +1435,22 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 228231,
+      "name": "Te He Prometido - Original",
+      "url": "https://open.spotify.com/track/0rjpsMXTngdK71MXIC9Bal"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Raices",
         "url": "https://open.spotify.com/album/09EJdB4fyZn6MgxmcpsbLz"
       },
@@ -1463,22 +1463,6 @@
       "duration_ms": 379053,
       "name": "Medley Rescate 2: Desidario Arias / La Chiva Blanca / Cana Brava / El Papelito Blanco / El Marangon",
       "url": "https://open.spotify.com/track/3RfY5rAS5Xbel2TtUEL9vV"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 262426,
-      "name": "Amor, Amor",
-      "url": "https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1547,38 +1531,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Exitos Inolvidables de Benny Sadel",
-        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 220316,
-      "name": "Alza Tu Copa",
-      "url": "https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Sabor Criollo (M\u00fasica T\u00edpica), Vol. 1",
-        "url": "https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 223653,
-      "name": "El Farolito",
-      "url": "https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Buscando Tus Besos",
         "url": "https://open.spotify.com/album/6HoHMYmzsLU76TOqNJdfcf"
       },
@@ -1607,6 +1559,54 @@
       "duration_ms": 246253,
       "name": "Curame",
       "url": "https://open.spotify.com/track/7z4G4aZbNmG9ZGBGyA35IC"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 262426,
+      "name": "Amor, Amor",
+      "url": "https://open.spotify.com/track/31Tuftk7aZpz0SqrO4TukY"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Sabor Criollo (M\u00fasica T\u00edpica), Vol. 1",
+        "url": "https://open.spotify.com/album/0mwpUFL1xBvnyBdhtoR4zL"
+      },
+      "artists": [
+        {
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
+        }
+      ],
+      "duration_ms": 223653,
+      "name": "El Farolito",
+      "url": "https://open.spotify.com/track/7reg3cRS3uPi326LD1F3e5"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 299546,
+      "name": "Juana la Cubana",
+      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 299546,
-      "name": "Juana la Cubana",
-      "url": "https://open.spotify.com/track/4Zw8m6Zuhv3eFKKQy5MWTs"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Merengues Cl\u00e1sicos de los 80\u00b4s, Vol. 2",
         "url": "https://open.spotify.com/album/4bqLEMteQgRgtms9cXiIIE"
       },
@@ -1687,22 +1671,6 @@
       "duration_ms": 289200,
       "name": "Tus 20 A\u00f1os",
       "url": "https://open.spotify.com/track/2nolgDXC9RXzZZkHxST58w"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Tanto Amor",
-        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
-      },
-      "artists": [
-        {
-          "name": "Benny Sadel",
-          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
-        }
-      ],
-      "duration_ms": 264515,
-      "name": "Tu Me Vas a Dejar",
-      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1739,6 +1707,38 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Exitos Inolvidables de Benny Sadel",
+        "url": "https://open.spotify.com/album/0Hefxkwhqkvx6Q61hzZkmM"
+      },
+      "artists": [
+        {
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
+        }
+      ],
+      "duration_ms": 220316,
+      "name": "Alza Tu Copa",
+      "url": "https://open.spotify.com/track/1ut8r7VkR4KxauGzNHOLd5"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Chic\u00e1n",
+        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 262321,
+      "name": "Como una Loba",
+      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "!Ay Doctor!",
         "url": "https://open.spotify.com/album/1hv08uq7rFsDSbI1jfDkk0"
       },
@@ -1767,22 +1767,6 @@
       "duration_ms": 238800,
       "name": "El Ombliguito (Merengue Version)",
       "url": "https://open.spotify.com/track/16cQyxcUdV9QZWIDkpQaEx"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
-        "name": "Chic\u00e1n",
-        "url": "https://open.spotify.com/album/0eqGZZXKbXbXmaLANEJABF"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 262321,
-      "name": "Como una Loba",
-      "url": "https://open.spotify.com/track/7imf1muwG5clrKid7c41Yr"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1835,6 +1819,38 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
+        "name": "Wilfrido Vargas Presenta the New York Band",
+        "url": "https://open.spotify.com/album/2IJlLUBfoUVWQF5zLaN8zb"
+      },
+      "artists": [
+        {
+          "name": "Wilfrido Vargas y the New York Band",
+          "url": "https://open.spotify.com/artist/2iAcT5FciR14w0HYRlZIQB"
+        }
+      ],
+      "duration_ms": 269906,
+      "name": "Si Tu Eres Mi Hombre y Yo Tu Mujer",
+      "url": "https://open.spotify.com/track/6Y7ebE47mQUZplpULuW7NW"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Somos Candela",
+        "url": "https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w"
+      },
+      "artists": [
+        {
+          "name": "Las Chicas Del Can",
+          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
+        }
+      ],
+      "duration_ms": 243435,
+      "name": "Las Peque\u00f1as Cosas",
+      "url": "https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
         "name": "Miriam Collection",
         "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
@@ -1851,18 +1867,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Wilfrido Vargas Presenta the New York Band",
-        "url": "https://open.spotify.com/album/2IJlLUBfoUVWQF5zLaN8zb"
+        "name": "Tanto Amor",
+        "url": "https://open.spotify.com/album/6xfWbpO2rJwXF4kVBoY5uV"
       },
       "artists": [
         {
-          "name": "Wilfrido Vargas y the New York Band",
-          "url": "https://open.spotify.com/artist/2iAcT5FciR14w0HYRlZIQB"
+          "name": "Benny Sadel",
+          "url": "https://open.spotify.com/artist/0qyfctw6Iwnyswhgwas6Kq"
         }
       ],
-      "duration_ms": 269906,
-      "name": "Si Tu Eres Mi Hombre y Yo Tu Mujer",
-      "url": "https://open.spotify.com/track/6Y7ebE47mQUZplpULuW7NW"
+      "duration_ms": 264515,
+      "name": "Tu Me Vas a Dejar",
+      "url": "https://open.spotify.com/track/70my3NPh8BlUxmpSeRBSzY"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -1899,22 +1915,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Somos Candela",
-        "url": "https://open.spotify.com/album/6kzOzFURqkbWcHC0mBp95w"
-      },
-      "artists": [
-        {
-          "name": "Las Chicas Del Can",
-          "url": "https://open.spotify.com/artist/1RxWCfxCbHSq2lpVMUK1xE"
-        }
-      ],
-      "duration_ms": 243435,
-      "name": "Las Peque\u00f1as Cosas",
-      "url": "https://open.spotify.com/track/4WmyxRCAt8ACSADnwfvpHe"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "La Organizacion Secreta",
         "url": "https://open.spotify.com/album/1oX3sKhJkR1nkV6hjLz1AJ"
       },
@@ -1947,22 +1947,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Miriam Collection",
-        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
-      },
-      "artists": [
-        {
-          "name": "Miriam Cruz",
-          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
-        }
-      ],
-      "duration_ms": 241506,
-      "name": "Esa Loca",
-      "url": "https://open.spotify.com/track/2xaQcwMDgoDvq6wF81cN9k"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Siempre Yo",
         "url": "https://open.spotify.com/album/7cN3BR4CQwLLtYnWRQKCHI"
       },
@@ -1979,18 +1963,18 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Lo Nuevo Y Lo Mejor",
-        "url": "https://open.spotify.com/album/1rLceOEfHHr0t1NMPim27r"
+        "name": "Miriam Collection",
+        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
       },
       "artists": [
         {
-          "name": "Anthony Santos",
-          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+          "name": "Miriam Cruz",
+          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
         }
       ],
-      "duration_ms": 392746,
-      "name": "Yo Me Muero Por Ti",
-      "url": "https://open.spotify.com/track/6XHfqd0Vlqi4Bq99mvRLj0"
+      "duration_ms": 241506,
+      "name": "Esa Loca",
+      "url": "https://open.spotify.com/track/2xaQcwMDgoDvq6wF81cN9k"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2007,6 +1991,22 @@
       "duration_ms": 206602,
       "name": "Te Odio y Te Quiero",
       "url": "https://open.spotify.com/track/3HFIedY9NGMoQ1AZHiQsft"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Lo Nuevo Y Lo Mejor",
+        "url": "https://open.spotify.com/album/1rLceOEfHHr0t1NMPim27r"
+      },
+      "artists": [
+        {
+          "name": "Anthony Santos",
+          "url": "https://open.spotify.com/artist/06TVTkMAOR935MhkjX0i2A"
+        }
+      ],
+      "duration_ms": 392746,
+      "name": "Yo Me Muero Por Ti",
+      "url": "https://open.spotify.com/track/6XHfqd0Vlqi4Bq99mvRLj0"
     },
     {
       "added_at": "2024-06-28 21:55:14",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2024-06-28 21:55:14",
       "album": {
-        "name": "Miriam Collection",
-        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
-      },
-      "artists": [
-        {
-          "name": "Miriam Cruz",
-          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
-        }
-      ],
-      "duration_ms": 226520,
-      "name": "Que Me Perdone Tu Se\u00f1ora",
-      "url": "https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI"
-    },
-    {
-      "added_at": "2024-06-28 21:55:14",
-      "album": {
         "name": "Siempre Yo",
         "url": "https://open.spotify.com/album/7cN3BR4CQwLLtYnWRQKCHI"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 192840,
       "name": "Siervo de Amor",
       "url": "https://open.spotify.com/track/3wkEaHWxtjjvJMVHCxjGuJ"
+    },
+    {
+      "added_at": "2024-06-28 21:55:14",
+      "album": {
+        "name": "Miriam Collection",
+        "url": "https://open.spotify.com/album/44sB3FF1kgY4dg4ny6uK65"
+      },
+      "artists": [
+        {
+          "name": "Miriam Cruz",
+          "url": "https://open.spotify.com/artist/4O2mePlghucfEGSsMSmjWL"
+        }
+      ],
+      "duration_ms": 226520,
+      "name": "Que Me Perdone Tu Se\u00f1ora",
+      "url": "https://open.spotify.com/track/66bQ3XrXyNL2fKPbKanSfI"
     },
     {
       "added_at": "2024-06-28 21:55:14",

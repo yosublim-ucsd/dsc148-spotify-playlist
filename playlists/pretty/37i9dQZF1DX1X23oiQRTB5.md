@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > SDM x Rim'K au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,547,820 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,547,998 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 5 | [PONA NINI](https://open.spotify.com/track/6JCjcuo4VKAP4bHhbHj6fe) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Prototype](https://open.spotify.com/artist/3igykO7sW43wfhSjvnETTo) | [BDLM VOL.1](https://open.spotify.com/album/7bwHY8zkw9nqxxw1WIQ7Qa) | 4:06 |
 | 6 | [NANANI NANANA](https://open.spotify.com/track/0qlYaRFGvgR6afy1f4BBwD) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I) | [APOCALYPSE](https://open.spotify.com/album/2S3b0g5oagefbTJBf2OVn9) | 3:37 |
 | 7 | [CARTIER SANTOS](https://open.spotify.com/track/1Mzg6bu3hkCwJKEf7v49MN) | [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [A LA VIE A LA MORT](https://open.spotify.com/album/22NwdsP47PnWsA58u3z7S9) | 3:03 |
-| 8 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:19 |
+| 8 | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/track/76cLUsBm9nexhPSSYo3vo4) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [SENTIMENTS BILLETS DE 100](https://open.spotify.com/album/4tasoVoVkD2w1jhJBHdIGW) | 2:08 |
 | 9 | [Menace fantôme](https://open.spotify.com/track/0mYMXqqxLjGTjh5ivcfbNL) | [VEN1](https://open.spotify.com/artist/3Cz37xnWAOtQEa5jfrTUbL) | [Menace fantôme](https://open.spotify.com/album/4JDCDU67E3f2sndYBPtBT0) | 2:59 |
 | 10 | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/track/6gwT3UA1hjbwT9Pfg0CMXK) | [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST DANS LA BOUNCE](https://open.spotify.com/album/662O3guwgkETCs4FcQ9dCi) | 1:49 |
 | 11 | [Capata](https://open.spotify.com/track/3cJYHDT0jfBt8PLNOsKHZE) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy), [FRANCÈ ZITO](https://open.spotify.com/artist/3wu9aWmjOwtmN5gh4hjhIO) | [Inarrêtable](https://open.spotify.com/album/3txmBSGHr4m3ybYbwV0BPM) | 3:20 |

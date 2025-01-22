@@ -4,7 +4,7 @@
 
 > The best new music from the wide world of punk\. Cover: Skunk Anansie
 
-2,228 songs - 4 day 15 hr 20 min
+2,229 songs - 4 day 15 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -129,6 +129,7 @@
 | [Ann](https://open.spotify.com/track/0g2kZvRKJ2AZfUmqR6eCGZ) | [Tropical Fuck Storm](https://open.spotify.com/artist/0mL6LBSQ4bHe6hWq90KzHL) | [Ann](https://open.spotify.com/album/1TKU3jbLcpXbTx9OqjGejM) | 4:04 | 2022-07-28 | 2022-09-09 |
 | [Another Kill For The Highlight Reel](https://open.spotify.com/track/42Zrm6dR3rios7W7I1NizE) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Another Kill For The Highlight Reel](https://open.spotify.com/album/39YX5r0mg91HGw2scZLm3x) | 3:07 | 2021-12-17 | 2022-01-21 |
 | [Another Kill For The Highlight Reel \- Barber Shop Studios Session](https://open.spotify.com/track/7MQ3noQQEXxe8BzkvAwpeS) | [Save Face](https://open.spotify.com/artist/5DpkPhxrNNiGAJPY5seREe) | [Another Kill For The Highlight Reel \(Deluxe Edition\)](https://open.spotify.com/album/5fKRf75u7BVXubw0bCSZvb) | 3:09 | 2022-10-27 | 2023-02-17 |
+| [Another Loner to Be Alone With](https://open.spotify.com/track/3NvL2IMIZA4ytb5iRtiT6e) | [Cemented Minds](https://open.spotify.com/artist/57tq7bHt2vpLrwGIMpBp5v) | [Another Loner to Be Alone With](https://open.spotify.com/album/1P8UfK3pOvutlReyDq9YWa) | 3:13 | 2025-01-17 |  |
 | [Anthem](https://open.spotify.com/track/7BRMqN8HBnF73RPDpFwHzI) | [Koyo](https://open.spotify.com/artist/4np3dM8CSvjKhToa0Epfs9) | [Anthem](https://open.spotify.com/album/3I9WiU9Hjgnkq8LUCxlt8q) | 1:42 | 2023-06-22 | 2023-08-11 |
 | [ANTHEM PART 3](https://open.spotify.com/track/2kjH4Q6WxvlpGnlgwmv4eG) | [blink\-182](https://open.spotify.com/artist/6FBDaR13swtiWwGhX1WQsP) | [ONE MORE TIME...](https://open.spotify.com/album/1OteY9OFTmoZ0vmZT89wPd) | 3:33 | 2023-10-19 | 2024-01-12 |
 | [ANTI ANGER CONTROL](https://open.spotify.com/track/7gCK924WHhp6UjPy1rx42a) | [ni\-hao!!!!](https://open.spotify.com/artist/2rq2Ey2tW4ZBG0K9OAg39k) | [ANTI ANGER CONTROL](https://open.spotify.com/album/5QW0ez7DWsFBWqVE6jFD7n) | 1:45 | 2023-03-10 | 2023-04-14 |

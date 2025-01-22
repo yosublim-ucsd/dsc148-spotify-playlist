@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXe3uGcHMBcq.md) - [plain]
 
 > Sing along to your favorite Disney Channel hits including songs from Descendants: The Rise Of Red, now streaming on Disney+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,507 likes - 178 songs - 8 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,508 likes - 178 songs - 8 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

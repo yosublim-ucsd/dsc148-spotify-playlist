@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ariane Roy
 
-3,046 songs - 6 day 17 hr 53 min
+3,047 songs - 6 day 17 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [1977 \- D R M S Remix](https://open.spotify.com/track/4MsMzefrFNk9iDyYecy9Zm) | [Patrice Michaud](https://open.spotify.com/artist/5qwQpqVBAApujajOflaRz1), [D R M S](https://open.spotify.com/artist/00yiM4q7xFzD8kJ6pUxjeH) | [1977 \(D R M S Remix\)](https://open.spotify.com/album/58XOkgVK8U7V3zntVdS7Cg) | 3:10 | 2022-05-27 | 2022-11-12 |
 | [1990](https://open.spotify.com/track/6exn1RCFYT1SwL6SYaWIGz) | [Guylaine Tanguay](https://open.spotify.com/artist/0Iuhto6zolchevPI47mKdD) | [1990](https://open.spotify.com/album/1V6yO70pkJIN4LHc1VOXD9) | 2:32 | 2023-03-31 | 2023-04-09 |
 | [1994](https://open.spotify.com/track/6rTgr7hrdyBVpGXehD8iWQ) | [Eli Rose](https://open.spotify.com/artist/6RBs2gBQlEgSAITbC9wB6h) | [1994](https://open.spotify.com/album/495cEXky5fPlnh2EJBm0KB) | 3:17 | 2023-03-31 | 2023-04-29 |
+| [2, 3 shots](https://open.spotify.com/track/0Yonqiir0J2K1nyCWR26C5) | [Heuss L'enfoiré](https://open.spotify.com/artist/3YwqjMyrRfuixi2pbgTGCE), [Genezio](https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz) | [2, 3 shots](https://open.spotify.com/album/0nEeXyhUkvYrju0k2LZCDh) | 2:33 | 2025-01-17 |  |
 | [20 ans plus tard](https://open.spotify.com/track/2GBqnoqXTzrf6yR6AfaCBA) | [Damien](https://open.spotify.com/artist/3PB3EoNBONIKaRTh2uyfOB), [Koopsala](https://open.spotify.com/artist/1Cbu28KNwWU8C4tninooFI), [Lappa](https://open.spotify.com/artist/0I7zTG6GZrTiHhNWarxF2F) | [20 ans plus tard](https://open.spotify.com/album/6778ctRjtIPWxBRimpsxOK) | 4:00 | 2022-09-23 | 2022-10-01 |
 | [20 Benz](https://open.spotify.com/track/36HjmuPWCb5OJ991fwA4c8) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Kekra](https://open.spotify.com/artist/20pbz4TbpkBUr5JwYfGgPS), [FREAKEY!](https://open.spotify.com/artist/4K30jReY7UXKmG1Q93joPY) | [20 Benz](https://open.spotify.com/album/1yUAbvGfkcHGID3l8QvCXE) | 3:22 | 2024-08-23 | 2024-09-08 |
 | [20%](https://open.spotify.com/track/3eNdWF2JQPP4usNDmU2k4D) | [Marie\-Gold](https://open.spotify.com/artist/5IIpjqhAKTXUVPh9ERQ24G) | [20%](https://open.spotify.com/album/09oPfLAESBKfPHQhAigjKr) | 2:26 | 2022-09-09 | 2022-09-17 |
@@ -648,7 +649,7 @@
 | [dans le silence](https://open.spotify.com/track/7s36Fxyrk7ZpIqjNyRv47G) | [benjamiin](https://open.spotify.com/artist/7lSd5x0viArJytZV25tY2Y) | [dans le silence](https://open.spotify.com/album/0S4qKIW589fzA4JDEfe3bo) | 2:34 | 2024-04-19 | 2024-04-27 |
 | [Dans les marguerites](https://open.spotify.com/track/4u3t4HNinQtSWsjUfs26Nm) | [Sophia Bel](https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6), [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Dans les marguerites](https://open.spotify.com/album/4poKkmkR3L3GuZ6eGGislu) | 3:40 | 2023-10-20 | 2023-10-30 |
 | [Dans les veines](https://open.spotify.com/track/0ewiAClIyaKosExdgSuqew) | [Kore](https://open.spotify.com/artist/78Die3Gb8yaElTmGCa7m7N), [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw), [Leslie](https://open.spotify.com/artist/4qtpVWf7iBzWhWOoabaixz) | [Dans les veines](https://open.spotify.com/album/5VSzl7ioWGOpoQTV4ZBqWG) | 2:53 | 2024-09-20 | 2024-11-09 |
-| [Dans ma bulle](https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Dans ma bulle](https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A) | 2:32 | 2024-11-08 |  |
+| [Dans ma bulle](https://open.spotify.com/track/5Duyl1dabYWFFMfObBFBPH) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Dans ma bulle](https://open.spotify.com/album/5579x9JAF1CCKtb4sswN9A) | 2:32 | 2024-11-08 | 2025-01-22 |
 | [Dans ma tête](https://open.spotify.com/track/12096g5gseZq3f1FzXNdgB) | [Etienne Dufresne](https://open.spotify.com/artist/1wVdxcnaMBJy3MII8nZalv) | [Dans ma tête](https://open.spotify.com/album/4YPjdoAbympk5yYPbd91vj) | 3:20 | 2023-10-20 | 2023-10-30 |
 | [Dans ma tête](https://open.spotify.com/track/4xRRSPrUQmxcvtPuRQmqzN) | [Merveille](https://open.spotify.com/artist/6a4YQ8ebVHffAYNkHn9nc8) | [IDENTITÉ](https://open.spotify.com/album/1lvkzsrpDy7LWSYGDKCk6X) | 2:51 | 2024-08-09 | 2024-09-14 |
 | [Dans mon délire](https://open.spotify.com/track/4XOdHX24KhXvttDZi0d8P0) | [Salimo](https://open.spotify.com/artist/3dbzTStecQkHOqwQaQR3Ur) | [Dans mon délire](https://open.spotify.com/album/0F38HKeIBp1ipE4W6DPp57) | 2:47 | 2024-05-17 | 2024-05-25 |

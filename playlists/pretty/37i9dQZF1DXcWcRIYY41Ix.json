@@ -1,6 +1,6 @@
 {
   "description": "La nueva ola de trovadores del siglo XXI. En portada: Yoly Saa.",
-  "num_followers": 128264,
+  "num_followers": 128275,
   "original_name": "Cancionistas",
   "owner": {
     "name": "Spotify",
@@ -207,22 +207,6 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
-        "name": "Cara de tonta",
-        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
-      },
-      "artists": [
-        {
-          "name": "GREX",
-          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
-        }
-      ],
-      "duration_ms": 126650,
-      "name": "Cara de tonta",
-      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
         "name": "Las Curanderas",
         "url": "https://open.spotify.com/album/52Rh5pLcpbAa8trZc1LJt3"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 206061,
       "name": "Las Curanderas",
       "url": "https://open.spotify.com/track/6AQu38qbXkZJBv5vZO5blZ"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
+        "name": "Cara de tonta",
+        "url": "https://open.spotify.com/album/2SjMbXS5MmWrwIDJ5LzbC7"
+      },
+      "artists": [
+        {
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+        }
+      ],
+      "duration_ms": 126650,
+      "name": "Cara de tonta",
+      "url": "https://open.spotify.com/track/3c6llTjaecWdHx3EDl1Fop"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -707,6 +707,26 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
+        "name": "Ruido",
+        "url": "https://open.spotify.com/album/0fXJCqZ40DOe2XYHthR1sI"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Ruiz",
+          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
+        },
+        {
+          "name": "Juan Pablo Vega",
+          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
+        }
+      ],
+      "duration_ms": 211330,
+      "name": "Ruido",
+      "url": "https://open.spotify.com/track/6m1OQPPhB0qpgQJ2oWfkqC"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
         "name": "Tres Oto\u00f1os (feat. alberto.vela)",
         "url": "https://open.spotify.com/album/1SqBggflYIVC1nFyj9dXYB"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 269932,
       "name": "Un Golpe de Suerte",
       "url": "https://open.spotify.com/track/2p0oHRooKITKxv3UbjgDzg"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
-        "name": "Ruido",
-        "url": "https://open.spotify.com/album/0fXJCqZ40DOe2XYHthR1sI"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Juan Pablo Vega",
-          "url": "https://open.spotify.com/artist/2PfyKA4qhjkxUVkerTCxz0"
-        }
-      ],
-      "duration_ms": 211330,
-      "name": "Ruido",
-      "url": "https://open.spotify.com/track/6m1OQPPhB0qpgQJ2oWfkqC"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1055,18 +1055,18 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
-        "name": "Fins a maig no revisc",
-        "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
+        "name": "Me voy",
+        "url": "https://open.spotify.com/album/1SQKTvy2M37KXdfBefhfk7"
       },
       "artists": [
         {
-          "name": "Maria Jaume",
-          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
+          "name": "GREX",
+          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
         }
       ],
-      "duration_ms": 167513,
-      "name": "Terra banyada",
-      "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
+      "duration_ms": 147349,
+      "name": "Me voy",
+      "url": "https://open.spotify.com/track/4udLPtfyNaz95Wo5sPRl6z"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1091,18 +1091,18 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
-        "name": "Me voy",
-        "url": "https://open.spotify.com/album/1SQKTvy2M37KXdfBefhfk7"
+        "name": "Fins a maig no revisc",
+        "url": "https://open.spotify.com/album/0nfAMwME4AZNOSaYuBVdWu"
       },
       "artists": [
         {
-          "name": "GREX",
-          "url": "https://open.spotify.com/artist/0DP0R1lYEzsfg3xkTEyunt"
+          "name": "Maria Jaume",
+          "url": "https://open.spotify.com/artist/2QYudLHQwV6MDxWpZZtMNO"
         }
       ],
-      "duration_ms": 147349,
-      "name": "Me voy",
-      "url": "https://open.spotify.com/track/4udLPtfyNaz95Wo5sPRl6z"
+      "duration_ms": 167513,
+      "name": "Terra banyada",
+      "url": "https://open.spotify.com/track/5z1r7JONnKjiZiJEHpaRVg"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
-        "name": "FANZINE",
-        "url": "https://open.spotify.com/album/7ke6TyqA8BI2gauyWGqZUf"
-      },
-      "artists": [
-        {
-          "name": "Ant\u00edlopez",
-          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
-        }
-      ],
-      "duration_ms": 186976,
-      "name": "FANZINE",
-      "url": "https://open.spotify.com/track/2nsh52iLz95IhDoq1BUupl"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
         "name": "Se\u00f1or Tiempo",
         "url": "https://open.spotify.com/album/0Nr4NO2fgctpLPuqGoQy7U"
       },
@@ -1391,22 +1375,18 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
-        "name": "Neurean / La Meva Llengua",
-        "url": "https://open.spotify.com/album/2YBY9WZYL2ruwII9G5xXVj"
+        "name": "FANZINE",
+        "url": "https://open.spotify.com/album/7ke6TyqA8BI2gauyWGqZUf"
       },
       "artists": [
         {
-          "name": "Judit Neddermann",
-          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
-        },
-        {
-          "name": "IZARO",
-          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
+          "name": "Ant\u00edlopez",
+          "url": "https://open.spotify.com/artist/5h12OrXotCPo7Ze3hFKYQK"
         }
       ],
-      "duration_ms": 200935,
-      "name": "Neurean / La Meva Llengua",
-      "url": "https://open.spotify.com/track/5QtCgRuKALgORekWnqAv7U"
+      "duration_ms": 186976,
+      "name": "FANZINE",
+      "url": "https://open.spotify.com/track/2nsh52iLz95IhDoq1BUupl"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1423,6 +1403,26 @@
       "duration_ms": 201441,
       "name": "No quiero olvidar",
       "url": "https://open.spotify.com/track/3TQsgWjUstxYOHnX45kG6j"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
+        "name": "Neurean / La Meva Llengua",
+        "url": "https://open.spotify.com/album/2YBY9WZYL2ruwII9G5xXVj"
+      },
+      "artists": [
+        {
+          "name": "Judit Neddermann",
+          "url": "https://open.spotify.com/artist/1ImywUogV5mfqWMyXEvkgE"
+        },
+        {
+          "name": "IZARO",
+          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
+        }
+      ],
+      "duration_ms": 200935,
+      "name": "Neurean / La Meva Llengua",
+      "url": "https://open.spotify.com/track/5QtCgRuKALgORekWnqAv7U"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1479,18 +1479,18 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
-        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
-        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+        "name": "Perd\u00f3n",
+        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
       },
       "artists": [
         {
-          "name": "Luisa y el Mar",
-          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+          "name": "el nido",
+          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
         }
       ],
-      "duration_ms": 175905,
-      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
-      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
+      "duration_ms": 203851,
+      "name": "Perd\u00f3n",
+      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1507,6 +1507,38 @@
       "duration_ms": 181125,
       "name": "Ay Madrid",
       "url": "https://open.spotify.com/track/0xbrUmlaNHYD7LHjMyVZgJ"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
+        "name": "serpiente",
+        "url": "https://open.spotify.com/album/7K31AhPpy10TPWAf3rwoGw"
+      },
+      "artists": [
+        {
+          "name": "Lina de Sol",
+          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
+        }
+      ],
+      "duration_ms": 205741,
+      "name": "serpiente",
+      "url": "https://open.spotify.com/track/7ff85szVPJ9EVPS78zb3xB"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
+        "name": "Siempre sale el sol en Barcelona (Live Session Chez Xefo Art Gallery)",
+        "url": "https://open.spotify.com/album/2qsM651C2i9MUZ819mNvSm"
+      },
+      "artists": [
+        {
+          "name": "Luisa y el Mar",
+          "url": "https://open.spotify.com/artist/1DtFgHhE0JUClAC5rOiZiC"
+        }
+      ],
+      "duration_ms": 175905,
+      "name": "Siempre sale el sol en Barcelona - Live Session Chez Xefo Art Gallery",
+      "url": "https://open.spotify.com/track/6WPgSIwrJG8gSbkGEYQWo8"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1539,22 +1571,6 @@
       "duration_ms": 172000,
       "name": "No es por m\u00ed que canto",
       "url": "https://open.spotify.com/track/7nCM6mVpcLoz8B3XM1zQ1I"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
-        "name": "Perd\u00f3n",
-        "url": "https://open.spotify.com/album/0kSZ1LCKzhdrNikBbwaSrw"
-      },
-      "artists": [
-        {
-          "name": "el nido",
-          "url": "https://open.spotify.com/artist/6o6UaIWvzYLItWbkQtUbka"
-        }
-      ],
-      "duration_ms": 203851,
-      "name": "Perd\u00f3n",
-      "url": "https://open.spotify.com/track/6Bi0bjJjrr6LZCnDY8YhWM"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1647,6 +1663,58 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
+        "name": "La Casa",
+        "url": "https://open.spotify.com/album/5xF60VSmSr6HBj8jlEa0CX"
+      },
+      "artists": [
+        {
+          "name": "Marazu",
+          "url": "https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42"
+        }
+      ],
+      "duration_ms": 371035,
+      "name": "La Casa",
+      "url": "https://open.spotify.com/track/2eLbWiJKOMTehziCTB2sJF"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
+        "name": "ENCORE",
+        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
+      },
+      "artists": [
+        {
+          "name": "Carmen Boza",
+          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
+        }
+      ],
+      "duration_ms": 252668,
+      "name": "REMOLINO",
+      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
+        "name": "Tananan\u00e1",
+        "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
+      },
+      "artists": [
+        {
+          "name": "Travis Birds",
+          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
+        },
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 245172,
+      "name": "Tananan\u00e1",
+      "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
         "name": "Una mica m\u00e9s",
         "url": "https://open.spotify.com/album/0fHKuUkKOvyToHlqg5Dj4l"
       },
@@ -1699,58 +1767,6 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
-        "name": "ENCORE",
-        "url": "https://open.spotify.com/album/3HxfCL6AYKCfPxQWN8Vzv6"
-      },
-      "artists": [
-        {
-          "name": "Carmen Boza",
-          "url": "https://open.spotify.com/artist/4hXMxkoIm7sX1PiFXrvU0u"
-        }
-      ],
-      "duration_ms": 252668,
-      "name": "REMOLINO",
-      "url": "https://open.spotify.com/track/2qhpxJL8hImgo5dQrxnWNw"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
-        "name": "Tananan\u00e1",
-        "url": "https://open.spotify.com/album/1WktnsGN1LVZrei84VJXm2"
-      },
-      "artists": [
-        {
-          "name": "Travis Birds",
-          "url": "https://open.spotify.com/artist/7fYRHchdv1p5hyJaeoKWlB"
-        },
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 245172,
-      "name": "Tananan\u00e1",
-      "url": "https://open.spotify.com/track/35O39AR91OBFPMWIZfBzoo"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
-        "name": "La Casa",
-        "url": "https://open.spotify.com/album/5xF60VSmSr6HBj8jlEa0CX"
-      },
-      "artists": [
-        {
-          "name": "Marazu",
-          "url": "https://open.spotify.com/artist/1RJzgiBktNaycMMFRMvD42"
-        }
-      ],
-      "duration_ms": 371035,
-      "name": "La Casa",
-      "url": "https://open.spotify.com/track/2eLbWiJKOMTehziCTB2sJF"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
         "name": "Donde nac\u00ed",
         "url": "https://open.spotify.com/album/5FdW7ShHsFpZmDPgyjlRSA"
       },
@@ -1763,42 +1779,6 @@
       "duration_ms": 231270,
       "name": "Donde nac\u00ed",
       "url": "https://open.spotify.com/track/5buRYR8swBlBdGTch2qYvA"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
-        "name": "serpiente",
-        "url": "https://open.spotify.com/album/7K31AhPpy10TPWAf3rwoGw"
-      },
-      "artists": [
-        {
-          "name": "Lina de Sol",
-          "url": "https://open.spotify.com/artist/77dt3BFeJYkWqdRgJcFIJK"
-        }
-      ],
-      "duration_ms": 205741,
-      "name": "serpiente",
-      "url": "https://open.spotify.com/track/7ff85szVPJ9EVPS78zb3xB"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
-        "name": "Naranjas Al Mar",
-        "url": "https://open.spotify.com/album/1bd58EjzJ7keLlwtsR61Vi"
-      },
-      "artists": [
-        {
-          "name": "Faneka",
-          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
-        },
-        {
-          "name": "Marala",
-          "url": "https://open.spotify.com/artist/2EbQ6mjR12geORA4D9DTVq"
-        }
-      ],
-      "duration_ms": 186789,
-      "name": "Naranjas Al Mar",
-      "url": "https://open.spotify.com/track/4re9kjh3ljSQEY2MKBTr1Y"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1831,6 +1811,26 @@
     {
       "added_at": "2025-01-16 23:00:32",
       "album": {
+        "name": "Naranjas Al Mar",
+        "url": "https://open.spotify.com/album/1bd58EjzJ7keLlwtsR61Vi"
+      },
+      "artists": [
+        {
+          "name": "Faneka",
+          "url": "https://open.spotify.com/artist/2PXol6g6FoxNRF6KWshWKo"
+        },
+        {
+          "name": "Marala",
+          "url": "https://open.spotify.com/artist/2EbQ6mjR12geORA4D9DTVq"
+        }
+      ],
+      "duration_ms": 186789,
+      "name": "Naranjas Al Mar",
+      "url": "https://open.spotify.com/track/4re9kjh3ljSQEY2MKBTr1Y"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
         "name": "Por Qu\u00e9?",
         "url": "https://open.spotify.com/album/62j8PLK7DJG9oaxGXjca5f"
       },
@@ -1843,6 +1843,22 @@
       "duration_ms": 220569,
       "name": "Por Qu\u00e9?",
       "url": "https://open.spotify.com/track/7bHmqyyWyEhzw9KxtrkAe5"
+    },
+    {
+      "added_at": "2025-01-16 23:00:32",
+      "album": {
+        "name": "Herba de Namorar",
+        "url": "https://open.spotify.com/album/5vCauZ61VkuD9H517aqMyB"
+      },
+      "artists": [
+        {
+          "name": "Ant\u00eda Mu\u00ed\u00f1o",
+          "url": "https://open.spotify.com/artist/0ecHgq56xOnMWAfLwvyFV1"
+        }
+      ],
+      "duration_ms": 179324,
+      "name": "Herba de Namorar",
+      "url": "https://open.spotify.com/track/2i8F9Bk37bEBSb7WS6TkW6"
     },
     {
       "added_at": "2025-01-16 23:00:32",
@@ -1867,26 +1883,6 @@
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
-    },
-    {
-      "added_at": "2025-01-16 23:00:32",
-      "album": {
-        "name": "Siembro",
-        "url": "https://open.spotify.com/album/5N1HdD5SThy4eh5Fpp7IAA"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Ruiz",
-          "url": "https://open.spotify.com/artist/2GIa4g7H34OOiHxGSZPFMg"
-        },
-        {
-          "name": "Raquel Riba Rossy",
-          "url": "https://open.spotify.com/artist/629uR7Xkvj3EDudnJ4Rybe"
-        }
-      ],
-      "duration_ms": 231373,
-      "name": "Siembro",
-      "url": "https://open.spotify.com/track/6ul1XHxB6IKQ4wCKSebTXk"
     }
   ],
   "unique_name": "Cancionistas",

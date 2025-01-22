@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Ritter Lean, Chapo 102
 
-2,418 songs - 4 day 17 hr 41 min
+2,420 songs - 4 day 17 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -490,7 +490,7 @@
 | [Das erste Mal](https://open.spotify.com/track/4WeHpXTdNPBa3WI1qLI84W) | [Souly](https://open.spotify.com/artist/1fImPZoBVjmYrBFzCHh0N3) | [Ich wünschte, es würd' mich kümmern](https://open.spotify.com/album/0N5tvHsq4LEOH7snMpeRbW) | 3:07 | 2024-11-28 |  |
 | [Das Geheimnis der Dragonballs](https://open.spotify.com/track/7xdvVs79ijMdUIJ7Nk5j5O) | [UHD](https://open.spotify.com/artist/6ZG6KpFv5D9Qoahey7k91x), [Europlus](https://open.spotify.com/artist/4BdjzegmdH1AbDgrQ1CT6S), [Anime Allstars](https://open.spotify.com/artist/6pHNd7opVLI17k79GvvIAb), [Hero of the Seven](https://open.spotify.com/artist/4mE5tW6RAJ1PNFhmmxGkpi) | [ANIME HITS\. Dragonball](https://open.spotify.com/album/1kKbFjdt0AAVMMbaz9xzkb) | 4:37 | 2024-02-15 | 2024-03-08 |
 | [Day 1](https://open.spotify.com/track/6YbXBb1lpVLo4cMskyODP4) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Day 1](https://open.spotify.com/album/6wEP76NKBnAwt8Yi4YLVAS) | 1:56 | 2022-07-14 | 2022-08-19 |
-| [day by day](https://open.spotify.com/track/6AHVa7t3XI73eK3S9cTi98) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [day by day](https://open.spotify.com/album/3k4CF66i21U9yYOZB3S5UT) | 2:13 | 2024-12-12 |  |
+| [day by day](https://open.spotify.com/track/6AHVa7t3XI73eK3S9cTi98) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [day by day](https://open.spotify.com/album/3k4CF66i21U9yYOZB3S5UT) | 2:13 | 2024-12-12 | 2025-01-22 |
 | [Daylight](https://open.spotify.com/track/1odExI7RdWc4BT515LTAwj) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Daylight](https://open.spotify.com/album/6NcI39WPu4kY6Tul11nhSv) | 3:32 | 2023-04-17 | 2023-07-07 |
 | [dead inside](https://open.spotify.com/track/2Oo397nWzelAKMQBBIL8YI) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [in loving memory](https://open.spotify.com/album/0ZvU2iSXtYxBeR9QzvHQau) | 3:02 | 2022-08-25 | 2022-09-10 |
 | [deadline.](https://open.spotify.com/track/0W2nFlmRInfrXoDAKLvJBq) | [vito](https://open.spotify.com/artist/6ZhCnvNfvewkfx9ERyhelw) | [deadline.](https://open.spotify.com/album/3oXqffnm5xaqI8aaBKy2bh) | 2:04 | 2022-06-09 | 2022-06-24 |
@@ -1292,6 +1292,7 @@
 | [Love Me Not](https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 3:33 | 2025-01-20 |  |
 | [Love Shots](https://open.spotify.com/track/6aYB6syCRnnTXJ8jechWZc) | [zara](https://open.spotify.com/artist/3iFa38c2Ig6kXLVx5Yl1YD) | [Love Shots](https://open.spotify.com/album/7KMp5uAH2B3dupZySwFdlD) | 1:50 | 2022-09-01 | 2022-12-02 |
 | [LOVELY BASTARDS](https://open.spotify.com/track/0EqczV3o6fwksegAavIHpX) | [ZWE1HVNDXR](https://open.spotify.com/artist/33rnQWadiG2aauIwIxPxfB), [yatashigang](https://open.spotify.com/artist/2GBDI5PSiEnVoH0YnFFRLx) | [LOVELY BASTARDS](https://open.spotify.com/album/2b3Kiolsu42XiVvhRmTEsM) | 1:56 | 2023-12-04 | 2023-12-15 |
+| [Lovers](https://open.spotify.com/track/6bZuZKR8hoyzZXNh1IW2Bu) | [Anna of the North](https://open.spotify.com/artist/1mSJCvDX0W7Dn7S9C6vmvI) | [Lovers](https://open.spotify.com/album/5NEfU3Z8PfjeJXABaHf1FF) | 3:35 | 2025-01-21 |  |
 | [Lovers Rock](https://open.spotify.com/track/6dBUzqjtbnIa1TwYbyw5CM) | [TV Girl](https://open.spotify.com/artist/0Y6dVaC9DZtPNH4591M42W) | [French Exit](https://open.spotify.com/album/4Hai0uVzRbyTSaTPzxTY4e) | 3:33 | 2023-09-14 | 2023-10-06 |
 | [Lovin On Me](https://open.spotify.com/track/4xhsWYTOGcal8zt0J161CU) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Lovin On Me](https://open.spotify.com/album/6VCO0fDBGbRW8mCEvV95af) | 2:18 | 2023-11-13 | 2024-01-31 |
 | [Low](https://open.spotify.com/track/2k0ZMNVR4Wk6M6ZFcD0NwR) | [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [Cepaque](https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc) | [Low](https://open.spotify.com/album/4FNrH4cbXqJr1FNdqgQyJR) | 1:59 | 2023-07-26 | 2023-10-13 |
@@ -2245,6 +2246,7 @@
 | [WASTED](https://open.spotify.com/track/0NcI48vJL8XM2HtNKtCSlA) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [WASTED](https://open.spotify.com/album/2hurfaABUOhpbpjMBYxBZo) | 2:18 | 2024-10-10 | 2024-10-18 |
 | [Wasted Summers](https://open.spotify.com/track/43MifzVnh8W3jJN0xqU9jR) | [juju<3](https://open.spotify.com/artist/496w0Fyed8J7IRzn5Ffb6x) | [Wasted Summers](https://open.spotify.com/album/5SrN0SPOdmdCBe0dyDcpsY) | 2:10 | 2023-08-15 | 2023-08-25 |
 | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/track/72fp5rYlQIZ3Dqtwq2uVy0) | [Powfu](https://open.spotify.com/artist/6bmlMHgSheBauioMgKv2tn), [Jomie](https://open.spotify.com/artist/5F4cFdG9NvJMnHXJkmqw9g) | [watch me miss \(feat\. Jomie\)](https://open.spotify.com/album/70nZHV8zM4LY8Jm1WtJOaZ) | 2:36 | 2022-09-22 | 2022-10-08 |
+| [Watermelon](https://open.spotify.com/track/03W2WiY9OSnUI4F9dy9L60) | [John + Jane Q\. Public](https://open.spotify.com/artist/0W8oOa4Oc65CDjiVjdZihf) | [Dinner in America Soundtrack](https://open.spotify.com/album/27V04EIO90mLb00XnNlKHd) | 1:50 | 2025-01-21 |  |
 | [wayne](https://open.spotify.com/track/4edNK2NW3zNBAC961fP5pG) | [Freddisson](https://open.spotify.com/artist/0WHvPMSZo90vSllV6LMO1U) | [wayne](https://open.spotify.com/album/6v4m9ZPXHUeKQRkYnCGffr) | 2:21 | 2024-10-24 | 2024-11-01 |
 | [We Are The People \- southstar Remix](https://open.spotify.com/track/3vLMN02wGnPBdjRVvewedS) | [Empire of the Sun](https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c), [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [We Are The People \(southstar Remix\)](https://open.spotify.com/album/28E0EqraSPvGhUQ0jNkUvb) | 3:56 | 2023-02-24 | 2023-06-23 |
 | [We Are The People \- Southstar Remix](https://open.spotify.com/track/2e9GFQn2nNXTbnTl02U7YJ) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Matrix](https://open.spotify.com/album/68KqgAtY2T2J0jJS5hyCv9) | 3:58 | 2022-08-11 | 2022-11-02 |
@@ -2355,7 +2357,7 @@
 | [Without You](https://open.spotify.com/track/70iMhwrs7qZg64GiW8sMew) | [Kidd Azzurra](https://open.spotify.com/artist/78l0gyXe9ppP4zLZDsgfcj) | [Without You](https://open.spotify.com/album/6RXrLreUG2FzqOSy1CHzy8) | 1:53 | 2022-06-09 | 2022-07-01 |
 | [WO WO](https://open.spotify.com/track/2D1D9hmwCBApc1JHEA7WaB) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [WO WO](https://open.spotify.com/album/5dZm2HzDYT22UmJzG9qfXT) | 2:35 | 2023-08-29 | 2023-09-08 |
 | [Wondering Why](https://open.spotify.com/track/1OG7o5af3ILKrFkp7pvvb0) | [The Red Clay Strays](https://open.spotify.com/artist/6IKlXZEFOvk9itrP1s0knJ) | [Moment of Truth](https://open.spotify.com/album/66A4l8IEyuXxvDtaWp4NAI) | 3:52 | 2023-12-14 | 2024-01-31 |
-| [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 | 2024-10-24 |  |
+| [Work Out](https://open.spotify.com/track/2wAJTrFhCnQyNSD3oUgTZO) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [Cole World: The Sideline Story](https://open.spotify.com/album/0fhmJYVhW0e4i33pCLPA5i) | 3:55 | 2024-10-24 | 2025-01-22 |
 | [Work Song](https://open.spotify.com/track/5TgEJ62DOzBpGxZ7WRsrqb) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Expanded Edition\)](https://open.spotify.com/album/4Pv7m8D82A1Xun7xNCKZjJ) | 3:49 | 2023-07-20 | 2023-08-11 |
 | [World War 3](https://open.spotify.com/track/6UEsGMsL6vD77jqvjsmCOh) | [Ruth B.](https://open.spotify.com/artist/2WzaAvm2bBCf4pEhyuDgCY) | [Safe Haven](https://open.spotify.com/album/6FgtuX3PtiB5civjHYhc52) | 3:55 | 2022-08-11 | 2022-12-24 |
 | [Worms](https://open.spotify.com/track/5PlGxNgE62io6OBc1BsIaq) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Worms](https://open.spotify.com/album/1iMYhGsjfZIDKuiF73D6cI) | 2:28 | 2023-03-02 | 2023-05-13 |

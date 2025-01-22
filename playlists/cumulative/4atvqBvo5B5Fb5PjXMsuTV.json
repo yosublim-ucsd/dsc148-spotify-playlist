@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-04-26",
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 21 Jan 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Jan 23:02 UTC.",
   "name": "New Singles Now",
   "tracks": [
     {
@@ -5022,7 +5022,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 113968,
       "name": "Aye Rage",
       "url": "https://open.spotify.com/track/6DJFJDAkJ08Xs0NSqSOeUw"
@@ -7962,7 +7962,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 200222,
       "name": "Blas\u00e9",
       "url": "https://open.spotify.com/track/2hRjw7jLXXzTUx0IwTudik"
@@ -19471,6 +19471,24 @@
     },
     {
       "album": {
+        "name": "Easter Pink",
+        "url": "https://open.spotify.com/album/2gN2buJiTuKIl8LjWNP9Z5"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 84846,
+      "name": "Easter Pink",
+      "url": "https://open.spotify.com/track/4mwswlM0HATHu9SabiiXiY"
+    },
+    {
+      "album": {
         "name": "Easy dance",
         "url": "https://open.spotify.com/album/2ZOJNv9MTdHg2C2fEM8czY"
       },
@@ -28316,7 +28334,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 188221,
       "name": "Have Heaven",
       "url": "https://open.spotify.com/track/3IeraaelNVdgrB2gVQ8dzq"
@@ -32809,6 +32827,24 @@
     },
     {
       "album": {
+        "name": "ICH KOMME",
+        "url": "https://open.spotify.com/album/37Jo8WGCWZTAv53vweYlYx"
+      },
+      "artists": [
+        {
+          "name": "Erika Vikman",
+          "url": "https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180314,
+      "name": "ICH KOMME",
+      "url": "https://open.spotify.com/track/52NFoPnzxOKPIcJIQ9mb5Q"
+    },
+    {
+      "album": {
         "name": "ICKLISTE",
         "url": "https://open.spotify.com/album/0G2O0U9dth8MLDITAhwNWC"
       },
@@ -34650,6 +34686,24 @@
       "duration_ms": 104743,
       "name": "JAMS!",
       "url": "https://open.spotify.com/track/3k7D5oH5H3W6he2Eah9Xc5"
+    },
+    {
+      "album": {
+        "name": "Jan 14th",
+        "url": "https://open.spotify.com/album/19cwtBmyKmLFcmrJJEraNT"
+      },
+      "artists": [
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103076,
+      "name": "Jan 14th",
+      "url": "https://open.spotify.com/track/7oYc3OXMLhxzJLmCCbdL5V"
     },
     {
       "album": {
@@ -40173,6 +40227,28 @@
     },
     {
       "album": {
+        "name": "Lucky",
+        "url": "https://open.spotify.com/album/0n7QHDeVGKA3yelZgTE54U"
+      },
+      "artists": [
+        {
+          "name": "Kim Wan-sun",
+          "url": "https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186533,
+      "name": "Lucky",
+      "url": "https://open.spotify.com/track/0rRyLHOtUa9NyHun1jansJ"
+    },
+    {
+      "album": {
         "name": "Lucy Takes a Picture",
         "url": "https://open.spotify.com/album/1dQQ661oLGGtZ1fC1dj6dx"
       },
@@ -45198,6 +45274,24 @@
       "duration_ms": 123555,
       "name": "Next Bitch",
       "url": "https://open.spotify.com/track/3L5PP4wAUVn1HhUf1RmpHU"
+    },
+    {
+      "album": {
+        "name": "Next To Bleed",
+        "url": "https://open.spotify.com/album/3Q5ig5r9B1HnQEKJJnW5tU"
+      },
+      "artists": [
+        {
+          "name": "Gates to Hell",
+          "url": "https://open.spotify.com/artist/5LcybrMKewCzWmVWvWAauw"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114425,
+      "name": "Next To Bleed",
+      "url": "https://open.spotify.com/track/0QsSzy8TtvrHskTJ4CRjUe"
     },
     {
       "album": {
@@ -52246,7 +52340,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 203601,
       "name": "QQQQ",
       "url": "https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda"
@@ -53130,7 +53224,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 188266,
       "name": "REBEL HEART",
       "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
@@ -56152,7 +56246,7 @@
       ],
       "date_added": "2025-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 186558,
       "name": "Season of Memories",
       "url": "https://open.spotify.com/track/6QHWOhx5fYFKtI3LhgLrqM"
@@ -59350,6 +59444,28 @@
       "duration_ms": 191655,
       "name": "Somebody's Daughter",
       "url": "https://open.spotify.com/track/2D8EYgWWkZNjhIcLzcWDF3"
+    },
+    {
+      "album": {
+        "name": "Someone For Me",
+        "url": "https://open.spotify.com/album/3aOWohrwo1jFQx5ZOtpqKj"
+      },
+      "artists": [
+        {
+          "name": "Kylie Minogue",
+          "url": "https://open.spotify.com/artist/4RVnAU35WRWra6OZ3CbbMA"
+        },
+        {
+          "name": "YouNotUs",
+          "url": "https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139333,
+      "name": "Someone For Me",
+      "url": "https://open.spotify.com/track/2ZV382UHWd9GNEntNmir8b"
     },
     {
       "album": {

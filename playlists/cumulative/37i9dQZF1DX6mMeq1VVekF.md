@@ -4,7 +4,7 @@
 
 > No tags, no labels \- just free form\. Cover: Jeshi
 
-449 songs - 23 hr 4 min
+450 songs - 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,7 +102,7 @@
 | [Come To Me](https://open.spotify.com/track/0YKdx0eEYVJ18peEsgtc2p) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/4HxdC77nF9ywR1s1mS4Jk7) | 3:08 | 2022-10-28 | 2023-03-29 |
 | [Come To Me](https://open.spotify.com/track/3dWjUncK6qSiFlf5qru1Aq) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Songs That Made Me Feel](https://open.spotify.com/album/3X8HsMV6AyN2RZp22JE7HR) | 3:08 | 2023-06-16 | 2024-04-19 |
 | [Come To Me \(with Musiq Soulchild\)](https://open.spotify.com/track/7lSSPIr1vEScob7omOqJEj) | [James Vickery](https://open.spotify.com/artist/68tR0TsEKX89ID4fyBMgch), [Musiq Soulchild](https://open.spotify.com/artist/3UVRliakQfa1pMWIsNuiZ8) | [Come To Me \(with Musiq Soulchild\)](https://open.spotify.com/album/1pNE83exHSvXSMYgdp0dOC) | 3:08 | 2022-07-17 | 2022-07-23 |
-| [Cook & Effy](https://open.spotify.com/track/2Ine8NFQ7cUXIIlvzBlOPE) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [Cook & Effy](https://open.spotify.com/album/2UNDZH4KDV03ElCDxEhJTX) | 3:07 | 2025-01-17 |  |
+| [cook & effy](https://open.spotify.com/track/2Ine8NFQ7cUXIIlvzBlOPE) | [KiLLOWEN](https://open.spotify.com/artist/1DjYfGxpROAacO07tajyAO), [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [cook & effy](https://open.spotify.com/album/2UNDZH4KDV03ElCDxEhJTX) | 3:07 | 2025-01-17 |  |
 | [Cool Kids](https://open.spotify.com/track/1KuKl8qIrUfkvtQtGn1Awo) | [Hak Baker](https://open.spotify.com/artist/5QsqiLFA5Z2gmpKBbxQB2j) | [Cool Kids](https://open.spotify.com/album/05IcnMq0Wn025bMmbV8J9L) | 3:26 | 2022-06-24 | 2022-07-29 |
 | [Coulda Been](https://open.spotify.com/track/1odD58TbhEsdHHhLh1Apko) | [Ajet 2F](https://open.spotify.com/artist/4Ruq98a6s75FiLSMsRYwqL) | [Coulda Been](https://open.spotify.com/album/7qm0yqA8bDIZT17wHH2gzO) | 2:53 | 2024-10-03 | 2024-10-26 |
 | [Counterfeit](https://open.spotify.com/track/6h1dtfc7PrKnpjIUAtZFR9) | [Mereba](https://open.spotify.com/artist/294lNTPZfdqyzt8qnxmFiL) | [Counterfeit](https://open.spotify.com/album/30JIhqDMtrOsbWDrDwdfyo) | 3:12 | 2024-10-25 |  |
@@ -314,7 +314,7 @@
 | [pay ur bills](https://open.spotify.com/track/1G3onwb5hFsUifaJQIXb8e) | [Ragz Originale](https://open.spotify.com/artist/0yw2O9rh7YQd5MqEHOFGzW) | [pay ur bills](https://open.spotify.com/album/4IvIJ10ma2QkfCpqxNPrXp) | 2:02 | 2023-06-16 | 2023-08-19 |
 | [Peng Black Girls](https://open.spotify.com/track/4pRaCcnpz979CNaMiOS1tS) | [ENNY](https://open.spotify.com/artist/3qEnCAnX23lvoxZYtBiPgL), [Amia Brave](https://open.spotify.com/artist/3Sjv0t3F7FMsQrkWVZcOuW) | [Peng Black Girls](https://open.spotify.com/album/2bflMoQjvDfL59NRUMHylP) | 3:30 | 2022-06-24 | 2022-07-25 |
 | [Personal](https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6) | [Nia Smith](https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260) | [Personal](https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf) | 2:42 | 2024-06-27 | 2025-01-18 |
-| [Platonic](https://open.spotify.com/track/7MpWkFfg0wLMCvo53ChsPF) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Platonic](https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu) | 2:18 | 2025-01-17 |  |
+| [Platonic](https://open.spotify.com/track/7MpWkFfg0wLMCvo53ChsPF) | [kadiata](https://open.spotify.com/artist/3fRPt5kKn2lETY48z6kigv) | [Platonic](https://open.spotify.com/album/6fBFIDG05ozVbtZYoMx1Bu) | 2:18 | 2025-01-17 | 2025-01-22 |
 | [PNE](https://open.spotify.com/track/583BT5xWjMlnyJm6MuzK8h) | [Master Peace](https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9) | [PNE](https://open.spotify.com/album/5Pukj80wQycC1be8WTuLl4) | 3:11 | 2022-06-24 | 2022-07-27 |
 | [pocket](https://open.spotify.com/track/1fbLUwk34YPUrcxITkuF6V) | [Moko](https://open.spotify.com/artist/1SNK64zmUMbnh5bVIVYARH) | [Good Friday 2](https://open.spotify.com/album/1tEix482Jwi92KYAmq9d1D) | 2:05 | 2024-04-26 | 2024-06-28 |
 | [Point and Kill](https://open.spotify.com/track/3kczhPFdkUR44SHLUvbKFE) | [Little Simz](https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI), [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Sometimes I Might Be Introvert](https://open.spotify.com/album/0DBoWQ52XUHtrZQdfAqOVj) | 3:05 | 2022-06-24 | 2022-11-02 |
@@ -343,6 +343,7 @@
 | [Rock](https://open.spotify.com/track/6dXjUMjFxfAX4F2dHKqQzf) | [Stepz](https://open.spotify.com/artist/0bFPzYoInpRUHOgTCt1o3P) | [Rock](https://open.spotify.com/album/4teIzIcBlCmrMrJ0asA1iq) | 2:24 | 2024-11-22 |  |
 | [Rom\-Com](https://open.spotify.com/track/4uRe7zABh9s3iQF8AhvBGg) | [Odd Numbers](https://open.spotify.com/artist/32JiqL3jyFqx0K8osNYKU6), [DeCarteret](https://open.spotify.com/artist/2xpN3bfOsPsnOCzDrxXXhr) | [Rom\-Com](https://open.spotify.com/album/7yrnSU32uhLvoi6benHTYF) | 2:49 | 2024-10-10 | 2024-10-22 |
 | [Roots](https://open.spotify.com/track/5HorjQJbDWGabguEDSwQvl) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil) | [Roots](https://open.spotify.com/album/6w5GyZcHfKNS6I18vVYvNJ) | 2:50 | 2022-07-17 | 2022-07-27 |
+| [ROSTER](https://open.spotify.com/track/6FnezcbAmX7tOMF4hSi71K) | [5EB](https://open.spotify.com/artist/70P7as3HD8esc9Dx2TAR7o), [YT](https://open.spotify.com/artist/0YsYhESxyHC1kuMm9Mbm3C) | [\#\#MOTIONMUZIK](https://open.spotify.com/album/31poFvXB8ciLoUulSDsbgM) | 2:14 | 2025-01-17 |  |
 | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/track/2c15izvJZsztJa3QWer3sW) | [Shaé Universe](https://open.spotify.com/artist/5gaElx30yTGGiOCVnml29N), [Kojey Radical](https://open.spotify.com/artist/1HMhQzj2QXxR40zGDdaK6y) | [Royalty \(feat\. Kojey Radical\)](https://open.spotify.com/album/19uZMpx3fqVJW5z7sdfQrF) | 3:07 | 2022-06-24 | 2022-07-18 |
 | [Rule of Two](https://open.spotify.com/track/43YkCoG2SRYaN1fDNUwNMN) | [Youngs Teflon](https://open.spotify.com/artist/5tdTldHOWl0iRO4jtII6tv), [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK) | [Call of Duty 3](https://open.spotify.com/album/5hfTFX72sXxfMYu1EPmxyV) | 6:45 | 2023-11-24 | 2024-04-26 |
 | [run!](https://open.spotify.com/track/7oqUxlU0mEv4fGt1CZ727y) | [WILLOW](https://open.spotify.com/artist/3rWZHrfrsPBxVy692yAIxF) | [empathogen](https://open.spotify.com/album/5jsfwcWxZIPtF5aaWx0mlL) | 3:08 | 2024-05-03 | 2025-01-18 |

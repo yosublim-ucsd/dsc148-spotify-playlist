@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
-  "num_followers": 466783,
+  "num_followers": 466780,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -491,6 +491,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "Those of the Unlight",
+        "url": "https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA"
+      },
+      "artists": [
+        {
+          "name": "Marduk",
+          "url": "https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH"
+        }
+      ],
+      "duration_ms": 350053,
+      "name": "Wolves",
+      "url": "https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "Heal Me",
         "url": "https://open.spotify.com/album/5l6f4Qiaw764ntoKOUfpoP"
       },
@@ -507,22 +523,6 @@
       "duration_ms": 456495,
       "name": "Heal Me",
       "url": "https://open.spotify.com/track/7qqTca6N6NAwl6Is7Jnq6V"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "Those of the Unlight",
-        "url": "https://open.spotify.com/album/2b8tendm7Uy0bTuzXRRxdA"
-      },
-      "artists": [
-        {
-          "name": "Marduk",
-          "url": "https://open.spotify.com/artist/2lxB5NTcQXj7GGRR4xAVaH"
-        }
-      ],
-      "duration_ms": 350053,
-      "name": "Wolves",
-      "url": "https://open.spotify.com/track/3HfDSiJA2Vf0cdvT4dDwzQ"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -975,18 +975,18 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Pendulum",
-        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
+        "name": "Satanica",
+        "url": "https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV"
       },
       "artists": [
         {
-          "name": "Fleshgod Apocalypse",
-          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
+          "name": "Behemoth",
+          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
         }
       ],
-      "duration_ms": 238800,
-      "name": "Pendulum",
-      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
+      "duration_ms": 199203,
+      "name": "Decade of Therion",
+      "url": "https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1023,18 +1023,18 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Satanica",
-        "url": "https://open.spotify.com/album/5GVt3QeIw7ueuou2AZlzcV"
+        "name": "Pendulum",
+        "url": "https://open.spotify.com/album/3F7k4WguL6XUBe1CUW0dWm"
       },
       "artists": [
         {
-          "name": "Behemoth",
-          "url": "https://open.spotify.com/artist/1MK0sGeyTNkbefYGj673e9"
+          "name": "Fleshgod Apocalypse",
+          "url": "https://open.spotify.com/artist/5ctFffJBdJe8PZL7W7NeML"
         }
       ],
-      "duration_ms": 199203,
-      "name": "Decade of Therion",
-      "url": "https://open.spotify.com/track/1CrBmNLLRTuq19YHFxZV6h"
+      "duration_ms": 238800,
+      "name": "Pendulum",
+      "url": "https://open.spotify.com/track/0KlYaNfi8G70HSLYWW7aci"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Future To Come",
-        "url": "https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE"
-      },
-      "artists": [
-        {
-          "name": "Furor Gallico",
-          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
-        }
-      ],
-      "duration_ms": 253413,
-      "name": "Future to Come",
-      "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Bloodclock",
         "url": "https://open.spotify.com/album/3kixMRYRnhTP9ppQDPwHNc"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 314373,
       "name": "Bloodclock",
       "url": "https://open.spotify.com/track/0v2TBqAtyK8p6yDusBNVAZ"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Future To Come",
+        "url": "https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE"
+      },
+      "artists": [
+        {
+          "name": "Furor Gallico",
+          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
+        }
+      ],
+      "duration_ms": 253413,
+      "name": "Future to Come",
+      "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1215,22 +1215,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Slasher",
-        "url": "https://open.spotify.com/album/0qlglHVwWrCCkvFYCuSifB"
-      },
-      "artists": [
-        {
-          "name": "Omnium Gatherum",
-          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
-        }
-      ],
-      "duration_ms": 261186,
-      "name": "Slasher",
-      "url": "https://open.spotify.com/track/5QsYwX1DDvuhpsOCaCn4YP"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "I Can Never Die",
         "url": "https://open.spotify.com/album/57KoIX7WW3FtuJiXJwde5I"
       },
@@ -1243,6 +1227,22 @@
       "duration_ms": 270253,
       "name": "I Can Never Die",
       "url": "https://open.spotify.com/track/6lCVHF80Q4b3RWMkZWvENw"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Slasher",
+        "url": "https://open.spotify.com/album/0qlglHVwWrCCkvFYCuSifB"
+      },
+      "artists": [
+        {
+          "name": "Omnium Gatherum",
+          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
+        }
+      ],
+      "duration_ms": 261186,
+      "name": "Slasher",
+      "url": "https://open.spotify.com/track/5QsYwX1DDvuhpsOCaCn4YP"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Caught in the Treads",
-        "url": "https://open.spotify.com/album/5ghkYlQALtSaQDvek8IfPO"
+        "name": "Sentenced",
+        "url": "https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand"
       },
       "artists": [
         {
-          "name": "Gatecreeper",
-          "url": "https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N"
+          "name": "Bound in Fear",
+          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
         }
       ],
-      "duration_ms": 215169,
-      "name": "Caught in the Treads",
-      "url": "https://open.spotify.com/track/5XDoERRDfIlN16fhWH1vqd"
+      "duration_ms": 256699,
+      "name": "Sentenced",
+      "url": "https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "Caught in the Treads",
+        "url": "https://open.spotify.com/album/5ghkYlQALtSaQDvek8IfPO"
+      },
+      "artists": [
+        {
+          "name": "Gatecreeper",
+          "url": "https://open.spotify.com/artist/0eCB2pwtPnLywA4rxe4i4N"
+        }
+      ],
+      "duration_ms": 215169,
+      "name": "Caught in the Treads",
+      "url": "https://open.spotify.com/track/5XDoERRDfIlN16fhWH1vqd"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "Therizo",
         "url": "https://open.spotify.com/album/0n1euTWxvPt5Vzp9L81EVW"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 383740,
       "name": "Congregation of the Unholy",
       "url": "https://open.spotify.com/track/5bGpyUwrvei8Uyp9Yae8zf"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "Sentenced",
-        "url": "https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand"
-      },
-      "artists": [
-        {
-          "name": "Bound in Fear",
-          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
-        }
-      ],
-      "duration_ms": 256699,
-      "name": "Sentenced",
-      "url": "https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Stained In Rot",
-        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 254500,
-      "name": "Stained In Rot",
-      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Faking It",
         "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
@@ -1447,18 +1431,18 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes",
-        "url": "https://open.spotify.com/album/1xkFCu7kOfF55Qp5uZ3qZy"
+        "name": "Stained In Rot",
+        "url": "https://open.spotify.com/album/7KFFVBoluljAYYKEYdLqSu"
       },
       "artists": [
         {
-          "name": "Nile",
-          "url": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE"
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
         }
       ],
-      "duration_ms": 230253,
-      "name": "Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes",
-      "url": "https://open.spotify.com/track/3DeAaXxQH2jmtWLKezKqa1"
+      "duration_ms": 254500,
+      "name": "Stained In Rot",
+      "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1475,6 +1459,22 @@
       "duration_ms": 293351,
       "name": "Dark Wings of Deception",
       "url": "https://open.spotify.com/track/5LrX5wEhuuEKrsw2EKWznq"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes",
+        "url": "https://open.spotify.com/album/1xkFCu7kOfF55Qp5uZ3qZy"
+      },
+      "artists": [
+        {
+          "name": "Nile",
+          "url": "https://open.spotify.com/artist/3v3VSKylQE69ztn5TUVlFE"
+        }
+      ],
+      "duration_ms": 230253,
+      "name": "Chapter for Not Being Hung Upside Down on a Stake in the Underworld and Made to Eat Feces by the Four Apes",
+      "url": "https://open.spotify.com/track/3DeAaXxQH2jmtWLKezKqa1"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1547,18 +1547,18 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "In the Twilight Grey",
-        "url": "https://open.spotify.com/album/2EtaPsV5q2n21XiyF8UclQ"
+        "name": "Hanged by My Hand",
+        "url": "https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy"
       },
       "artists": [
         {
-          "name": "Necrophobic",
-          "url": "https://open.spotify.com/artist/3RUZtC4rkONY3kprM10ZTa"
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
         }
       ],
-      "duration_ms": 301106,
-      "name": "Grace of the Past",
-      "url": "https://open.spotify.com/track/6hxiOrhmVe8Z8NMC5zBN61"
+      "duration_ms": 193453,
+      "name": "Hanged by My Hand",
+      "url": "https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Hanged by My Hand",
-        "url": "https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy"
+        "name": "In the Twilight Grey",
+        "url": "https://open.spotify.com/album/2EtaPsV5q2n21XiyF8UclQ"
       },
       "artists": [
         {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+          "name": "Necrophobic",
+          "url": "https://open.spotify.com/artist/3RUZtC4rkONY3kprM10ZTa"
         }
       ],
-      "duration_ms": 193453,
-      "name": "Hanged by My Hand",
-      "url": "https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq"
+      "duration_ms": 301106,
+      "name": "Grace of the Past",
+      "url": "https://open.spotify.com/track/6hxiOrhmVe8Z8NMC5zBN61"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1651,6 +1651,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "The Fall Of Jotunheim",
+        "url": "https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL"
+      },
+      "artists": [
+        {
+          "name": "Unfound Reliance",
+          "url": "https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq"
+        }
+      ],
+      "duration_ms": 242452,
+      "name": "The Fall Of Jotunheim",
+      "url": "https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "Annihilation Phenomena",
         "url": "https://open.spotify.com/album/1t9RT00yngfvrWGzigp2IO"
       },
@@ -1679,22 +1695,6 @@
       "duration_ms": 275419,
       "name": "Human Scum",
       "url": "https://open.spotify.com/track/2CXoE7kgrfepUxvfuApzNw"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "The Fall Of Jotunheim",
-        "url": "https://open.spotify.com/album/3FcSGIdAmWtIiIQkjHnvGL"
-      },
-      "artists": [
-        {
-          "name": "Unfound Reliance",
-          "url": "https://open.spotify.com/artist/1I7qaL2lIjPmA84PPyenBq"
-        }
-      ],
-      "duration_ms": 242452,
-      "name": "The Fall Of Jotunheim",
-      "url": "https://open.spotify.com/track/5Gi5afRoFO7qFTSKYmbWmg"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1827,6 +1827,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "Call Of The Wind",
+        "url": "https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7"
+      },
+      "artists": [
+        {
+          "name": "Furor Gallico",
+          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
+        }
+      ],
+      "duration_ms": 330226,
+      "name": "Call of the Wind",
+      "url": "https://open.spotify.com/track/2veVzMJRTNjB59NgQM1Jrn"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "Virtus Asinaria - Prayer",
         "url": "https://open.spotify.com/album/1JmXAptKVqcQm4BrqsQcQZ"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 326888,
       "name": "In The House Of Angel Flesh",
       "url": "https://open.spotify.com/track/5jlAbtmWF05Ygp7Oo7EUxR"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "Call Of The Wind",
-        "url": "https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7"
-      },
-      "artists": [
-        {
-          "name": "Furor Gallico",
-          "url": "https://open.spotify.com/artist/3EdTAF8rCNoJhEYmNKBehq"
-        }
-      ],
-      "duration_ms": 330226,
-      "name": "Call of the Wind",
-      "url": "https://open.spotify.com/track/2veVzMJRTNjB59NgQM1Jrn"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "Slasher - EP",
+        "url": "https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu"
+      },
+      "artists": [
+        {
+          "name": "Omnium Gatherum",
+          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "Origin of Fire",
         "url": "https://open.spotify.com/album/3d13ij5bG0Cqt5ZucZuEeh"
       },
@@ -2027,18 +2043,18 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Slasher - EP",
-        "url": "https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu"
+        "name": "The Age Of The Offended",
+        "url": "https://open.spotify.com/album/41XSSyvJe1IyHeFB1QHrPq"
       },
       "artists": [
         {
-          "name": "Omnium Gatherum",
-          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
+          "name": "Cadaver",
+          "url": "https://open.spotify.com/artist/3jXKuyWNGa8hUPsnrblyl7"
         }
       ],
-      "duration_ms": 269346,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk"
+      "duration_ms": 165509,
+      "name": "Deadly Metal",
+      "url": "https://open.spotify.com/track/4y24MxyVxfwLafyTscYKte"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -2059,22 +2075,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "The Age Of The Offended",
-        "url": "https://open.spotify.com/album/41XSSyvJe1IyHeFB1QHrPq"
-      },
-      "artists": [
-        {
-          "name": "Cadaver",
-          "url": "https://open.spotify.com/artist/3jXKuyWNGa8hUPsnrblyl7"
-        }
-      ],
-      "duration_ms": 165509,
-      "name": "Deadly Metal",
-      "url": "https://open.spotify.com/track/4y24MxyVxfwLafyTscYKte"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Haunted by Guilt",
         "url": "https://open.spotify.com/album/7KTsCcLQtB09OhpulYMTmB"
       },
@@ -2091,22 +2091,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Brandish The Blade",
-        "url": "https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg"
-      },
-      "artists": [
-        {
-          "name": "Undeath",
-          "url": "https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN"
-        }
-      ],
-      "duration_ms": 235426,
-      "name": "Brandish The Blade",
-      "url": "https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Latrodectus",
         "url": "https://open.spotify.com/album/6Ii6CnoWpYAlwfoKACn6iH"
       },
@@ -2119,6 +2103,22 @@
       "duration_ms": 262439,
       "name": "Latrodectus",
       "url": "https://open.spotify.com/track/7u1Ng0a75DPuSQDnRL2whv"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Brandish The Blade",
+        "url": "https://open.spotify.com/album/3VlSqkqy3xyqvtjZ16J1mg"
+      },
+      "artists": [
+        {
+          "name": "Undeath",
+          "url": "https://open.spotify.com/artist/1vbr39xw4sKFUOiogA0DWN"
+        }
+      ],
+      "duration_ms": 235426,
+      "name": "Brandish The Blade",
+      "url": "https://open.spotify.com/track/2UluaDmO7ROmTO4dXgStZ8"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -2235,6 +2235,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "Scorched Quadrant",
+        "url": "https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf"
+      },
+      "artists": [
+        {
+          "name": "Scar Symmetry",
+          "url": "https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6"
+        }
+      ],
+      "duration_ms": 305080,
+      "name": "Scorched Quadrant",
+      "url": "https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "The Other Side of Anger",
         "url": "https://open.spotify.com/album/51q4WtjPxILy2mxq8IDbCX"
       },
@@ -2263,22 +2279,6 @@
       "duration_ms": 113870,
       "name": "Casket",
       "url": "https://open.spotify.com/track/70sPsaQWdRZGbSyaOkkDIo"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "Scorched Quadrant",
-        "url": "https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf"
-      },
-      "artists": [
-        {
-          "name": "Scar Symmetry",
-          "url": "https://open.spotify.com/artist/2PQVMx0BpRQhzMWLa7X0T6"
-        }
-      ],
-      "duration_ms": 305080,
-      "name": "Scorched Quadrant",
-      "url": "https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -2395,22 +2395,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Nonagon",
-        "url": "https://open.spotify.com/album/6NsEcggpi5Y8ds4gBZSxei"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Throne",
-          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
-        }
-      ],
-      "duration_ms": 322206,
-      "name": "Nonagon",
-      "url": "https://open.spotify.com/track/5Gtg4wpDTwsdv4caBlzCTT"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Necrophony",
         "url": "https://open.spotify.com/album/4UMTYpjf2pST9ojzIbMBqN"
       },
@@ -2423,6 +2407,22 @@
       "duration_ms": 282032,
       "name": "Mask Of Red Death",
       "url": "https://open.spotify.com/track/5OAqpB56GZAqbbU9dHGmWj"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Nonagon",
+        "url": "https://open.spotify.com/album/6NsEcggpi5Y8ds4gBZSxei"
+      },
+      "artists": [
+        {
+          "name": "Blood Red Throne",
+          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
+        }
+      ],
+      "duration_ms": 322206,
+      "name": "Nonagon",
+      "url": "https://open.spotify.com/track/5Gtg4wpDTwsdv4caBlzCTT"
     },
     {
       "added_at": "2024-11-25 08:58:23",

@@ -1,12 +1,12 @@
 {
   "description": "This is The O'Jays. The essential tracks, all in one playlist.",
-  "num_followers": 32794,
+  "num_followers": 32802,
   "original_name": "This Is The O'Jays",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4xAgAAAAAC+ByU8Wqk3cGI6e1ykFWi0",
+  "snapshot_id": "Z42SAAAAAACG6frj4qMAgO1PHkdf5QtS",
   "tracks": [
     {
       "added_at": null,
@@ -491,22 +491,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Last Word",
-        "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
-      },
-      "artists": [
-        {
-          "name": "The O'Jays",
-          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
-        }
-      ],
-      "duration_ms": 249229,
-      "name": "Start Stoppin'",
-      "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "So Full Of Love",
         "url": "https://open.spotify.com/album/6MKxTNGK8IDA6bExrdOyX4"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 299386,
       "name": "Help (Somebody Please)",
       "url": "https://open.spotify.com/track/4tx4PHgBlLZbG98HpXMUBm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Last Word",
+        "url": "https://open.spotify.com/album/1J7BPFUS7fzCkG4rc4AQQt"
+      },
+      "artists": [
+        {
+          "name": "The O'Jays",
+          "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
+        }
+      ],
+      "duration_ms": 249229,
+      "name": "Start Stoppin'",
+      "url": "https://open.spotify.com/track/43X4A9MxKCrPUSie2SZuuT"
     },
     {
       "added_at": null,
@@ -651,8 +651,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Family Reunion (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
+        "name": "The O'Jays In Philly",
+        "url": "https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 342826,
-      "name": "She's Only a Woman",
-      "url": "https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k"
+      "duration_ms": 159706,
+      "name": "Deeper (In Love with You)",
+      "url": "https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The O'Jays In Philly",
-        "url": "https://open.spotify.com/album/5Zs8zwez1HT4WbUZrc4AfP"
+        "name": "Family Reunion (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2Q3cf5aSlA9Da2269Ai8fD"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/38h03gA85YYPeDPd9ER9rT"
         }
       ],
-      "duration_ms": 159706,
-      "name": "Deeper (In Love with You)",
-      "url": "https://open.spotify.com/track/2dnfU8amGZGqhjPxEll7vF"
+      "duration_ms": 342826,
+      "name": "She's Only a Woman",
+      "url": "https://open.spotify.com/track/1iU8nEMGJxqCpvr6SCwJ2k"
     },
     {
       "added_at": null,

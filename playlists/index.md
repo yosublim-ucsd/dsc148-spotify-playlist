@@ -1,4 +1,4 @@
-## Playlists \(8347\)
+## Playlists \(8348\)
 
 - [!!!](/playlists/pretty/37i9dQZF1DWW1yuCSjnKtM.md)
 - ["Suzume" & Songs from Makoto Shinkai's Movies \(\~2022\)](/playlists/pretty/37i9dQZF1DX0KA2LHWBFpC.md)
@@ -2224,6 +2224,7 @@
 - [Forever Country](/playlists/pretty/37i9dQZF1DX9hWdQ46pHPo.md)
 - [Found Them First](/playlists/pretty/3sJ6SlgRo56Oa7YhHcLK5l.md)
 - [Foxall's track IDs](/playlists/pretty/37i9dQZF1DX2Jggz04vUOo.md)
+- [Francis Mercier's Track IDs](/playlists/pretty/37i9dQZF1DWYMHHO92ZJ8z.md)
 - [Francos de Montréal 2024](/playlists/pretty/37i9dQZF1DWSuqJGcMjUOz.md)
 - [Frank](/playlists/pretty/1XAVcz5htDfY0fc5cGU4cy.md)
 - [Frat Party](/playlists/pretty/37i9dQZF1DX7jLQsJHPr0Z.md)

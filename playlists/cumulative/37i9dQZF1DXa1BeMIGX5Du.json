@@ -168,7 +168,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 200000,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/6jIjQHf2S6jVh25TbNV6TM"
@@ -438,7 +438,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 196740,
       "name": "Bilwaali (Home)",
       "url": "https://open.spotify.com/track/427EpU1EM9cmSrXLZd33ry"
@@ -1012,6 +1012,24 @@
       "duration_ms": 246325,
       "name": "Changeophelia",
       "url": "https://open.spotify.com/track/1gZgvCvAGkM5dHwDZq39Dn"
+    },
+    {
+      "album": {
+        "name": "Childhood",
+        "url": "https://open.spotify.com/album/4NCx3ON0rvFuramqtPsbkk"
+      },
+      "artists": [
+        {
+          "name": "Sarah Klang",
+          "url": "https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182824,
+      "name": "Childhood",
+      "url": "https://open.spotify.com/track/5ZfXfUXQ5BgGw7U8Y4nEfT"
     },
     {
       "album": {
@@ -1650,7 +1668,7 @@
       ],
       "date_added": "2024-04-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 261647,
       "name": "Down By The River - Acoustic",
       "url": "https://open.spotify.com/track/3VOi2BitiKinqGGIWp8pgR"
@@ -2160,7 +2178,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-22",
       "duration_ms": 228965,
       "name": "Fortnight (feat. Post Malone) - Acoustic Version",
       "url": "https://open.spotify.com/track/2BUTSRKPGRsyc9FnsC5Udd"
@@ -3044,6 +3062,24 @@
       "duration_ms": 184898,
       "name": "I'm Sorry",
       "url": "https://open.spotify.com/track/6lAc4LYGnQhJfH3QBDTHgm"
+    },
+    {
+      "album": {
+        "name": "I'm With You",
+        "url": "https://open.spotify.com/album/1oDoEUwFlsYWiUu4avCwTS"
+      },
+      "artists": [
+        {
+          "name": "Ziggy Alberts",
+          "url": "https://open.spotify.com/artist/6tuPdaFPIytg3l2f51L7Hw"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153065,
+      "name": "I'm With You",
+      "url": "https://open.spotify.com/track/4whHz5ampVITJWkZPnH3ox"
     },
     {
       "album": {
@@ -4185,6 +4221,24 @@
     },
     {
       "album": {
+        "name": "Never Look Down",
+        "url": "https://open.spotify.com/album/2x7SaulIo7LlGEx7EYAz1m"
+      },
+      "artists": [
+        {
+          "name": "Isak Benjamin",
+          "url": "https://open.spotify.com/artist/7D4TM2uAKuP21SZw2G9V4C"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217960,
+      "name": "Never Look Down",
+      "url": "https://open.spotify.com/track/5QTfLHc6qfsWCrosur6LBb"
+    },
+    {
+      "album": {
         "name": "New Slang",
         "url": "https://open.spotify.com/album/3u297d9KdZn7UC6OD0ERkQ"
       },
@@ -4842,6 +4896,32 @@
       "duration_ms": 214808,
       "name": "Shiver",
       "url": "https://open.spotify.com/track/6U63s4dcufvu0QnnXvO31Y"
+    },
+    {
+      "album": {
+        "name": "Silencio",
+        "url": "https://open.spotify.com/album/2AXA6mUulMOGHjS6AQUkYC"
+      },
+      "artists": [
+        {
+          "name": "Husky Gawenda",
+          "url": "https://open.spotify.com/artist/1sNJ4MiIoUC38wEPkXdW1W"
+        },
+        {
+          "name": "Husky",
+          "url": "https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis"
+        },
+        {
+          "name": "Charm of Finches",
+          "url": "https://open.spotify.com/artist/2vfDwM6xqZbOjg5h6VLoke"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218325,
+      "name": "Silencio",
+      "url": "https://open.spotify.com/track/3rXv53WhlO06eYoe0rND4r"
     },
     {
       "album": {

@@ -4,11 +4,11 @@
 
 > This is Steven Price\. The essential tracks, all in one playlist.
 
-114 songs - 5 hr 8 min
+115 songs - 5 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [67481 Lesley Brown](https://open.spotify.com/track/5xPX2yStJDhI5f8eV8x6kk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 3:34 | 2025-01-20 |  |
+| [67481 Lesley Brown](https://open.spotify.com/track/5xPX2yStJDhI5f8eV8x6kk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 3:34 | 2025-01-20 | 2025-01-22 |
 | [A Bonding Experience](https://open.spotify.com/track/4OPsrol2u5iLgDyuzX9ae3) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Over the Moon \(Music from the Netflix Film\)](https://open.spotify.com/album/3Bx1Oe2Umw0n4tNbIpO1aD) | 2:55 | 2023-11-10 | 2024-12-14 |
 | [A Different Set of Rules](https://open.spotify.com/track/6ZC7UEMGHQdZFNrOoP6Kef) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Dolphin Reef \(Original Soundtrack\)](https://open.spotify.com/album/15xV7Ooj6ZlS9j50gxp4QN) | 2:21 | 2023-08-04 |  |
 | [A Game of Strategy](https://open.spotify.com/track/06i6kDgeziHoeN6WAlgs9W) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [The Hunt](https://open.spotify.com/album/1A2QmGHAIYZZhnjyIBHUTk) | 3:17 | 2023-08-04 |  |
@@ -42,6 +42,7 @@
 | [Help Us Please](https://open.spotify.com/track/1tT7y3J5ugafWIHmpNKKFw) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 2:53 | 2024-11-27 | 2024-12-02 |
 | [Hideaway Medley](https://open.spotify.com/track/3onN9XfJtkJDt2WiYbbAT3) | [Various Artists](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of), [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK), [Grace VanderWaal](https://open.spotify.com/artist/3YdT8QvV4QvY4DfVJhxdcZ) | [Wonder Park \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6ogk6lqIjf1hjg28loZX9A) | 4:58 | 2024-04-20 |  |
 | [How Much Longer](https://open.spotify.com/track/6CqliIhdxAlkygI3MAPEWJ) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Frozen Worlds \(Episode 2 / Soundtrack From The Netflix Original Series "Our Planet"\)](https://open.spotify.com/album/2gBuDLdhHYAnEW7zPhinAq) | 1:21 | 2023-08-04 |  |
+| [I Can Live In Hope](https://open.spotify.com/track/0DplUTi3q9CTo73WSsQbFX) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Joy \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/69VfPJGBQzBbwE53Fov1dW) | 1:13 | 2025-01-22 |  |
 | [I Should Tell You My Story Myself](https://open.spotify.com/track/5ei9JGRHRb4Yu9WNUnWslc) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Ophelia \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3GaSOBK5YSTetHhRUkKuZS) | 2:44 | 2024-04-28 | 2024-11-14 |
 | [I Would Feel Guilty](https://open.spotify.com/track/2WAI12Sw4YxSicr8nZweyN) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [David Attenborough: A Life On Our Planet \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5IbnuKQzkuw6sxS8CeMzl8) | 1:18 | 2023-09-02 | 2024-04-30 |
 | [I'm Scared Too](https://open.spotify.com/track/6P4sad06HG2L9gMDUlPAfk) | [Steven Price](https://open.spotify.com/artist/3sw7CBftCnflJN8HQiUNmK) | [Fury \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5CuCzQvtWe5Pbhmy5o12Lv) | 3:45 | 2023-08-04 | 2023-09-13 |

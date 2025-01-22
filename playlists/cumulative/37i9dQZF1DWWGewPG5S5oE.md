@@ -2,9 +2,9 @@
 
 ### [Modern Jazz Japan](https://open.spotify.com/playlist/37i9dQZF1DWWGewPG5S5oE)
 
-> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: soraya
+> 日本の現代ジャズシーンで活躍するアーティストをピックアップ。 cover: 森山良子 & 大江千里
 
-376 songs - 1 day 6 hr 13 min
+378 songs - 1 day 6 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,7 +67,7 @@
 | [Clarice](https://open.spotify.com/track/7hIIwJTGz7s7vpMaFtdvlU) | [ADAM at](https://open.spotify.com/artist/7D67zF9RCypjeEGvnZLKGo) | [P.T.](https://open.spotify.com/album/55j95OpOUQbuf4X4Ryljuw) | 3:46 | 2023-09-05 | 2023-09-07 |
 | [Close your eyes](https://open.spotify.com/track/2pyx2yLAgfv6S6JEZhz5Bi) | [久保田浩之](https://open.spotify.com/artist/1arJsPrLXAObBWwJQ9RJ6p) | [launch vehicle](https://open.spotify.com/album/1r7XrSzQJd50l51HVlF6nn) | 5:55 | 2024-05-14 | 2024-06-05 |
 | [Confirmation](https://open.spotify.com/track/4hT1CgkQIlhmA1DIVYrLx8) | [MONKY](https://open.spotify.com/artist/2NFTxb149zkG83xRLkRv4O), [re os \- REO MATSUMOTO](https://open.spotify.com/artist/4501R3d8kL9mW1JgkPvlUW) | [Confirmation](https://open.spotify.com/album/5k4X1OKVhx8GWWaxgdfPej) | 4:55 | 2022-09-06 | 2023-03-13 |
-| [Conversation and Confession](https://open.spotify.com/track/79XSStkWMY6Acjo0tjki14) | [melodies](https://open.spotify.com/artist/43wNMkQDh4h3lSKc0YP7S4), [市野元彦](https://open.spotify.com/artist/48TBc7P43abz7TzVyPULhr), [津上研太](https://open.spotify.com/artist/6WhvBq2pCwvpCQqbtGfaxu), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp), [外山明](https://open.spotify.com/artist/5VylIfkuBTg7EYq98afofV) | [melodies](https://open.spotify.com/album/1GGSHolFlhdM0jzCrbBAYi) | 6:37 | 2025-01-14 |  |
+| [Conversation and Confession](https://open.spotify.com/track/79XSStkWMY6Acjo0tjki14) | [melodies](https://open.spotify.com/artist/43wNMkQDh4h3lSKc0YP7S4), [市野元彦](https://open.spotify.com/artist/48TBc7P43abz7TzVyPULhr), [津上研太](https://open.spotify.com/artist/6WhvBq2pCwvpCQqbtGfaxu), [Minyen Hsieh](https://open.spotify.com/artist/6AcI6agoeBhaaVo0GbjSFp), [外山明](https://open.spotify.com/artist/5VylIfkuBTg7EYq98afofV) | [melodies](https://open.spotify.com/album/1GGSHolFlhdM0jzCrbBAYi) | 6:37 | 2025-01-14 | 2025-01-22 |
 | [cosmic circle](https://open.spotify.com/track/0h6iV0PqhHLcvA0vLiDoSE) | [SHIN KOKAWA](https://open.spotify.com/artist/3Vg6ZWLfFLXKgHoE4xbE3k), [Yuji Katsui](https://open.spotify.com/artist/26jOJviNl5KYBMa9EnGPHZ), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [Genki Hashimoto](https://open.spotify.com/artist/3puVmC6sgvPztiQulaZCFN) | [touch the subconscious](https://open.spotify.com/album/6giIlydAr0RyMutAdQV5Si) | 6:38 | 2024-03-05 | 2024-05-29 |
 | [Crepuscular Rays](https://open.spotify.com/track/3qhFRdHhtMpCvePmMVOep8) | [加納奈実](https://open.spotify.com/artist/6NdSH798vj8QST5pyjbFhW) | [Crepuscular Rays](https://open.spotify.com/album/1QfuBRflgM5fT5MEZ4aw6P) | 6:59 | 2024-02-27 | 2024-05-29 |
 | [Crossing](https://open.spotify.com/track/0PtN5rbPefMIQXVDgmVTwC) | [bohemianvoodoo](https://open.spotify.com/artist/2pKjlyTAEzqUAFsQNCgmkS) | [CROSSING](https://open.spotify.com/album/2Sz5gmSwXmn6Edh2U8hM4Q) | 4:30 | 2023-09-05 |  |
@@ -233,6 +233,7 @@
 | [Run&Gun](https://open.spotify.com/track/0BouwM0LLXksQIeoNxHUbr) | [Gecko&Tokage Parade](https://open.spotify.com/artist/1fTpExgFwmHdgnUPZXohFF) | [Run&Gun](https://open.spotify.com/album/3iHVZqJeO5pzwTK00S8tTT) | 3:00 | 2022-12-20 | 2023-01-18 |
 | [S.K.O.](https://open.spotify.com/track/0aT0RypXmcyq56WDJ50nTh) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [4Aces](https://open.spotify.com/album/5Oo8yuKWgsWDufeEiolwSN) | 5:26 | 2023-04-25 | 2024-02-07 |
 | [S.Y.P.T\. \(Show Your PentaTonic\)](https://open.spotify.com/track/0gFKed5Y8BJrJ8EB34SNT4) | [4Aces](https://open.spotify.com/artist/0cGZA2kMIfhG2EJ4O6cIoL) | [TAPES of ACES \- Side A](https://open.spotify.com/album/1yjAcsYQJsIV0clinEa7XC) | 6:49 | 2024-02-06 | 2025-01-15 |
+| [Samba De Flora](https://open.spotify.com/track/5DzTAh6gkAqw4VioPHuLXw) | [madoron](https://open.spotify.com/artist/04N6Ib4atV1bTnRlZuHpUM) | [A Door](https://open.spotify.com/album/67Puyk7Cen5vrQh2ji2Hlw) | 3:59 | 2025-01-21 |  |
 | [Samsara](https://open.spotify.com/track/5UpFQOMokngL1zroOYEHBj) | [EYRIE](https://open.spotify.com/artist/0xYvJo85O0dzbsL356R453) | [火の鳥](https://open.spotify.com/album/41Acz4rMDVdV66JzauDeCm) | 4:39 | 2024-06-11 | 2024-10-02 |
 | [SAMURAI \- 2022 version](https://open.spotify.com/track/3lr6p7ELCMXMfxGJgh3FBu) | [Jazztronik](https://open.spotify.com/artist/3TMLgJUsDIxI4CShGh8vYM) | [SAMURAI](https://open.spotify.com/album/5QbYqorcvgyLIGjKcsm02e) | 11:56 | 2022-09-06 | 2023-05-04 |
 | [Saudade Vem Correndo](https://open.spotify.com/track/1oJ7QLrQyShj1DDPl4UFlt) | [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [Saudade Vem Correndo](https://open.spotify.com/album/06ZqjJPD4uaffJMvGPO0yf) | 4:09 | 2023-04-04 | 2023-04-19 |
@@ -294,6 +295,7 @@
 | [Tokyo Portage](https://open.spotify.com/track/3CNv1GuxQLN1f4vdvUsBJ3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/0PrT9gC39VNVdxo1odhjmm) | 3:13 | 2023-05-16 | 2023-05-18 |
 | [Tokyo Portage](https://open.spotify.com/track/45UTp7ium3cTgGO5zb2xR3) | [YUSUKE NAKAMURA](https://open.spotify.com/artist/3stNhAAg61ozi8VHUgtcjG) | [Tokyo Portage](https://open.spotify.com/album/2mD5jItxhFupy9zAv4XdbH) | 3:13 | 2023-05-16 | 2023-09-13 |
 | [tomali](https://open.spotify.com/track/4yBzh8MWJ565XnqZ3qsRJI) | [PIANO SHIFT](https://open.spotify.com/artist/2NgVrbppUOWDrRtFqxiLgi) | [tomali](https://open.spotify.com/album/2zA14R3kYzejS6pcb9W0Si) | 3:36 | 2023-08-01 | 2023-09-13 |
+| [TONIGHT'S SPECIAL](https://open.spotify.com/track/7CZZ843p1Grx6YsRNq1djs) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [Life Is Beautiful](https://open.spotify.com/album/1HOQScg7UGTpP4RoQIKcM4) | 6:18 | 2025-01-21 |  |
 | [Trapezist](https://open.spotify.com/track/5klqRUmSGNKj8NL1Hurwop) | [Solitary Circus](https://open.spotify.com/artist/3tC21Y0BhX2kIIhcUIvaL3) | [Trapezist](https://open.spotify.com/album/40YhNdz3r9Yuom5B3HM2XW) | 3:36 | 2025-01-07 | 2025-01-15 |
 | [Tully, Corfu, Greece](https://open.spotify.com/track/5djFwb0ctwmcs7g8di1pUF) | [igloo](https://open.spotify.com/artist/0ABgpHqYQ6NoI1EdRa6XXM) | [Tully, Corfu, Greece](https://open.spotify.com/album/6Ldob1EDDVmP5DKWcWhryC) | 4:56 | 2023-10-24 | 2023-11-01 |
 | [Tutumikomuyouni](https://open.spotify.com/track/3HoWRTwLaGRCnHS9hvRoOz) | [Udagawa Bekkan Band](https://open.spotify.com/artist/16zommf1ayPqidEsjaJfsh) | [Tutumikomuyouni](https://open.spotify.com/album/1vnxF4VENfoLws4brG1GD1) | 5:10 | 2023-05-16 | 2023-07-26 |
@@ -360,7 +362,7 @@
 | [宵宵雪花](https://open.spotify.com/track/6iIxRqJjExIvewfqpOX8Bf) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [宵宵雪花](https://open.spotify.com/album/6JxehKWtAhIAiMWzkSpVrR) | 3:52 | 2023-01-03 | 2023-02-18 |
 | [恋の予感 \- The Handoors version](https://open.spotify.com/track/2APXmeWh7KQ1ssXVCMSKeD) | [The Handoors](https://open.spotify.com/artist/7Iwfkhbt82Nym1FXhF2AHN) | [Give Me Your Love / 恋の予感 \(The Handoors version\)](https://open.spotify.com/album/05p4lqNQFjYvjkCnUNNtnV) | 4:38 | 2023-06-06 | 2023-08-23 |
 | [愛しのバタフライ](https://open.spotify.com/track/3DtljUi2CC9NSgZ6uab6QY) | [JiLL\-Decoy association](https://open.spotify.com/artist/4j0lMBCAWtaFqEboLZp8Xe) | [愛しのバタフライ](https://open.spotify.com/album/3bXouFomasJnoi0Rwyt3FT) | 5:24 | 2023-07-25 | 2023-07-27 |
-| [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 | 2024-03-12 |  |
+| [愛のしるし](https://open.spotify.com/track/1g8RMbSQYCImlcaSSvuCeY) | [soraya](https://open.spotify.com/artist/7DoRNL58n5KeGL50dxSvlB) | [soraya](https://open.spotify.com/album/27R7iqyeLAtdTlUWWSLG0e) | 3:08 | 2024-03-12 | 2025-01-22 |
 | [愛は花、君はその種子（おもひでぽろぽろ）](https://open.spotify.com/track/18RThNYLEtcq3Kma7yeVYR) | [Kazumi Tateishi Trio](https://open.spotify.com/artist/0lrEYsRTl6UNtTagWmJAqZ) | [GHIBLI meets JAZZ　～Beautiful Songs～](https://open.spotify.com/album/5MW0qpY2JOWdaDOr4vUdoP) | 4:03 | 2024-09-17 | 2024-12-16 |
 | [懐かしき日々 \(Dear Memories\)](https://open.spotify.com/track/3svIR9AT7XEHjOuwi7fPfI) | [佐藤允彦](https://open.spotify.com/artist/3bwiUTynrQmanFXBFFqNbF), [類家心平](https://open.spotify.com/artist/2jflfJoKsw26yXhJDp2p4L), [Shun Ishiwaka](https://open.spotify.com/artist/440Vu15E7JrOSOTlYA819R), [坂井紅介](https://open.spotify.com/artist/6pBzDUB3nApIQ3aMVCm0QP) | [懐かしき日々 \(Dear Memories\) ～ SONG FOR KEN\-SAN](https://open.spotify.com/album/0PPBVzijMpFm2T78PqrtK7) | 8:52 | 2024-01-16 | 2024-02-07 |
 | [星の海に眠る宝石箱](https://open.spotify.com/track/6cEYcSgw0cNwF5uCOgNBLU) | [H ZETTRIO](https://open.spotify.com/artist/5Ga4ie7tlXW9Fc6ObLbSCY) | [星の海に眠る宝石箱](https://open.spotify.com/album/6X09lzYJoQ9C2NFiNQ2JNQ) | 3:03 | 2024-06-04 | 2024-08-14 |

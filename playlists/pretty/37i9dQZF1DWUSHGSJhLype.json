@@ -1,6 +1,6 @@
 {
   "description": "aqui tem feijoada hot dog com pur\u00ea sushi moqueca a\u00e7a\u00ed cm peixe frito mta coisa / Foto: J.Eskine\n",
-  "num_followers": 619125,
+  "num_followers": 619537,
   "original_name": "PURO SUCO DO VER\u00c3O",
   "owner": {
     "name": "Spotify",
@@ -211,26 +211,6 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Malvadinho",
-        "url": "https://open.spotify.com/album/0OSgbe5GNzV5ShonkfL6Ev"
-      },
-      "artists": [
-        {
-          "name": "MC LUUKY",
-          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
-        },
-        {
-          "name": "DJ JB Mix",
-          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
-        }
-      ],
-      "duration_ms": 120115,
-      "name": "Malvadinho",
-      "url": "https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
         "name": "Mentirosa (Ao Vivo)",
         "url": "https://open.spotify.com/album/0DoTXscOExkz2eBFSyF1eQ"
       },
@@ -247,6 +227,26 @@
       "duration_ms": 165566,
       "name": "Mentirosa - Ao Vivo",
       "url": "https://open.spotify.com/track/7pBPXkaVQaP3Y3Wwfkpvbn"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
+        "name": "Malvadinho",
+        "url": "https://open.spotify.com/album/0OSgbe5GNzV5ShonkfL6Ev"
+      },
+      "artists": [
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "DJ JB Mix",
+          "url": "https://open.spotify.com/artist/7wLAecYIgstxcjqe6JwT3w"
+        }
+      ],
+      "duration_ms": 120115,
+      "name": "Malvadinho",
+      "url": "https://open.spotify.com/track/3D06dCZbYilOFAB8kR5tYF"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -819,6 +819,30 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "Tu Xera",
+        "url": "https://open.spotify.com/album/1fszMT29XdTywyKjRNiAff"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Anderson & Vei da Pisadinha",
+          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
+        },
+        {
+          "name": "Marcynho Sensa\u00e7\u00e3o",
+          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
+        }
+      ],
+      "duration_ms": 158790,
+      "name": "Tu Xera",
+      "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "Energia de Gostosa",
         "url": "https://open.spotify.com/album/2JPwZ43Od1WStAVe0JoZi0"
       },
@@ -855,30 +879,6 @@
       "duration_ms": 151636,
       "name": "Sua Preferida",
       "url": "https://open.spotify.com/track/0bREVcSAxXl3WgWsxzjJT1"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "Tu Xera",
-        "url": "https://open.spotify.com/album/1fszMT29XdTywyKjRNiAff"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Anderson & Vei da Pisadinha",
-          "url": "https://open.spotify.com/artist/1OnaDJeU2PxDBZZFkzkvZl"
-        },
-        {
-          "name": "Marcynho Sensa\u00e7\u00e3o",
-          "url": "https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs"
-        }
-      ],
-      "duration_ms": 158790,
-      "name": "Tu Xera",
-      "url": "https://open.spotify.com/track/2xSRiUXk2nQ65Qngjfxdk7"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -939,6 +939,26 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
+        "name": "Arrocha Safad\u00e3o",
+        "url": "https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ"
+      },
+      "artists": [
+        {
+          "name": "Wesley Safad\u00e3o",
+          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
+        },
+        {
+          "name": "Natanzinho Lima",
+          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
+        }
+      ],
+      "duration_ms": 175978,
+      "name": "Laranjinha",
+      "url": "https://open.spotify.com/track/4HrIZyZIqd7kqShDXEyN1n"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
         "name": "Tenho que Me Decidir",
         "url": "https://open.spotify.com/album/4fZFrnlxfL8N5DMWqyFY9K"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 183960,
       "name": "Tenho que Me Decidir",
       "url": "https://open.spotify.com/track/6BWWgcNJWXQ4qRuzY5LzBP"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
-        "name": "Arrocha Safad\u00e3o",
-        "url": "https://open.spotify.com/album/4dmdQ4uriuehLMFwY6SAKQ"
-      },
-      "artists": [
-        {
-          "name": "Wesley Safad\u00e3o",
-          "url": "https://open.spotify.com/artist/1AL2GKpmRrKXkYIcASuRFa"
-        },
-        {
-          "name": "Natanzinho Lima",
-          "url": "https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU"
-        }
-      ],
-      "duration_ms": 175978,
-      "name": "Laranjinha",
-      "url": "https://open.spotify.com/track/4HrIZyZIqd7kqShDXEyN1n"
     },
     {
       "added_at": "2025-01-17 03:00:02",
@@ -1103,30 +1103,6 @@
     {
       "added_at": "2025-01-17 03:00:02",
       "album": {
-        "name": "Ao After e Al\u00e9m, Pt.2",
-        "url": "https://open.spotify.com/album/34eaUTnAMJMnniGG1mOlJu"
-      },
-      "artists": [
-        {
-          "name": "Felipe Amorim",
-          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
-        },
-        {
-          "name": "Mc Sapinha",
-          "url": "https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM"
-        },
-        {
-          "name": "MC PH",
-          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
-        }
-      ],
-      "duration_ms": 245538,
-      "name": "Medleys Dos Medleys - O Barraco Dela L\u00e1 / Eu Vou Pro Baile Eu Vou Pro Bega / Ela N\u00e3o Presta",
-      "url": "https://open.spotify.com/track/1S1WZmrwbmmOwDRaw95eno"
-    },
-    {
-      "added_at": "2025-01-17 03:00:02",
-      "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/1h9SJU080omTqqqDf68qc9"
       },
@@ -1187,6 +1163,30 @@
       "duration_ms": 193432,
       "name": "Malvadinho (Sei Que Ela \u00e9 do Job)",
       "url": "https://open.spotify.com/track/4Xq1NHhHFFjLg4LbAa40oz"
+    },
+    {
+      "added_at": "2025-01-17 03:00:02",
+      "album": {
+        "name": "Ao After e Al\u00e9m, Pt.2",
+        "url": "https://open.spotify.com/album/34eaUTnAMJMnniGG1mOlJu"
+      },
+      "artists": [
+        {
+          "name": "Felipe Amorim",
+          "url": "https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U"
+        },
+        {
+          "name": "Mc Sapinha",
+          "url": "https://open.spotify.com/artist/4jEl4IQK6F0OECbeeatBBM"
+        },
+        {
+          "name": "MC PH",
+          "url": "https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5"
+        }
+      ],
+      "duration_ms": 245538,
+      "name": "Medleys Dos Medleys - O Barraco Dela L\u00e1 / Eu Vou Pro Baile Eu Vou Pro Bega / Ela N\u00e3o Presta",
+      "url": "https://open.spotify.com/track/1S1WZmrwbmmOwDRaw95eno"
     },
     {
       "added_at": "2025-01-17 03:00:02",

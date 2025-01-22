@@ -4,7 +4,7 @@
 
 > Early Noise 2019選出アーティスト「ずとまよ」こと、ずっと真夜中でいいのに。のオールタイム・ベスト！
 
-57 songs - 3 hr 51 min
+58 songs - 3 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,6 +25,7 @@
 | [ろんりねす](https://open.spotify.com/track/76zBWDh2YUmGantphDwqUs) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ぐされ](https://open.spotify.com/album/47anQ0XC69gwTModnqWQsr) | 4:53 | 2023-06-06 |  |
 | [グラスとラムレーズン](https://open.spotify.com/track/6Msgrd3Exm9jVkwqIX37Fq) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [潜潜話](https://open.spotify.com/album/4myzXA54fPm89hpW41YkOS) | 3:54 | 2023-06-06 |  |
 | [サターン](https://open.spotify.com/track/3Vd6MNEn1aLRvddvuNWYw1) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [正しい偽りからの起床](https://open.spotify.com/album/61fHzNeb76p8ATYvlhO4rI) | 4:10 | 2023-06-06 |  |
+| [シェードの埃は延長](https://open.spotify.com/track/3fPilEQed9XCVEMHqvXsmg) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [シェードの埃は延長](https://open.spotify.com/album/1O7CgTorM9nD4Uf9uqeffJ) | 3:52 | 2025-01-21 |  |
 | [ハゼ馳せる果てるまで](https://open.spotify.com/track/1U5lxCTM6ZR1mUu7GU91Zh) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ハゼ馳せる果てるまで](https://open.spotify.com/album/39XxyMp1TcN8DRnVd4h16B) | 4:04 | 2023-06-06 |  |
 | [ヒューマノイド](https://open.spotify.com/track/306etThf387MiZ39B6xvKB) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [ヒューマノイド](https://open.spotify.com/album/0uQUlZxDdYyO1rQ75ZxCXi) | 4:18 | 2023-06-06 |  |
 | [マイノリティ脈絡](https://open.spotify.com/track/4ReCD8wyqRUxjqg6qOhC8u) | [ZUTOMAYO](https://open.spotify.com/artist/38WbKH6oKAZskBhqDFA8Uj) | [今は今で誓いは笑みで](https://open.spotify.com/album/1nG7B25FtCxciwLUWN5kvS) | 5:00 | 2023-06-06 |  |

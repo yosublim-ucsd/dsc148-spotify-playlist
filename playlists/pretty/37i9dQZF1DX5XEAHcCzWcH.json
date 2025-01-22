@@ -1,6 +1,6 @@
 {
   "description": "The unmistakable sound of Blues piano: the best pianists to have pioneered the sound and shape the genre. Cover: Ray Charles",
-  "num_followers": 45192,
+  "num_followers": 45218,
   "original_name": "Blues Piano Legends",
   "owner": {
     "name": "Spotify",
@@ -371,22 +371,6 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "La cave saravah, vol.1",
-        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
-      },
-      "artists": [
-        {
-          "name": "Champion Jack Dupree",
-          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
-        }
-      ],
-      "duration_ms": 369893,
-      "name": "Ooh La La",
-      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
-    },
-    {
-      "added_at": "2024-05-30 16:22:42",
-      "album": {
         "name": "The Essential Leroy Carr",
         "url": "https://open.spotify.com/album/02k5tV3zpF2khwjxro1oUT"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 175400,
       "name": "Papa's on the House Top",
       "url": "https://open.spotify.com/track/2O36OWzPpO7qg7CxdmPtN3"
+    },
+    {
+      "added_at": "2024-05-30 16:22:42",
+      "album": {
+        "name": "La cave saravah, vol.1",
+        "url": "https://open.spotify.com/album/1UQEub9EkeutcHqiBLPXSa"
+      },
+      "artists": [
+        {
+          "name": "Champion Jack Dupree",
+          "url": "https://open.spotify.com/artist/1NnRjWELSLqFONDhwc8VU7"
+        }
+      ],
+      "duration_ms": 369893,
+      "name": "Ooh La La",
+      "url": "https://open.spotify.com/track/48z80QkPMtPvnwlISGnsQO"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -679,18 +679,22 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "The Seventh Son",
-        "url": "https://open.spotify.com/album/1foLQZbtfVc6dbNA7uwFBN"
+        "name": "Flip Flop And Fly",
+        "url": "https://open.spotify.com/album/4t4fEfhICbe6UyBQmCkj77"
       },
       "artists": [
         {
-          "name": "Willie Mabon",
-          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
+          "name": "Big Joe Turner with Orchester",
+          "url": "https://open.spotify.com/artist/1FWWq0aSrfcWZaHrHLyShK"
+        },
+        {
+          "name": "Van 'Piano Man' Walls Orchestra",
+          "url": "https://open.spotify.com/artist/3LhM28i6lmR4TTc9yZJD6O"
         }
       ],
-      "duration_ms": 190665,
-      "name": "I Don't Know",
-      "url": "https://open.spotify.com/track/1MNnR6qxBeh4AJVTwa8Q6y"
+      "duration_ms": 175466,
+      "name": "Boogie Woogie Country Girl",
+      "url": "https://open.spotify.com/track/5OesDeYiBNJ68MX5gGspNI"
     },
     {
       "added_at": "2024-05-30 16:22:42",
@@ -711,22 +715,18 @@
     {
       "added_at": "2024-05-30 16:22:42",
       "album": {
-        "name": "Flip Flop And Fly",
-        "url": "https://open.spotify.com/album/4t4fEfhICbe6UyBQmCkj77"
+        "name": "The Seventh Son",
+        "url": "https://open.spotify.com/album/1foLQZbtfVc6dbNA7uwFBN"
       },
       "artists": [
         {
-          "name": "Big Joe Turner with Orchester",
-          "url": "https://open.spotify.com/artist/1FWWq0aSrfcWZaHrHLyShK"
-        },
-        {
-          "name": "Van 'Piano Man' Walls Orchestra",
-          "url": "https://open.spotify.com/artist/3LhM28i6lmR4TTc9yZJD6O"
+          "name": "Willie Mabon",
+          "url": "https://open.spotify.com/artist/7rmHrwuyVuFNIvikHchsQn"
         }
       ],
-      "duration_ms": 175466,
-      "name": "Boogie Woogie Country Girl",
-      "url": "https://open.spotify.com/track/5OesDeYiBNJ68MX5gGspNI"
+      "duration_ms": 190665,
+      "name": "I Don't Know",
+      "url": "https://open.spotify.com/track/1MNnR6qxBeh4AJVTwa8Q6y"
     },
     {
       "added_at": "2024-05-30 16:22:42",

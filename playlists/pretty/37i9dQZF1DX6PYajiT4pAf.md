@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Bad Gyal con Trueno y el resto de novedades más importantes de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,772 likes - 61 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,804 likes - 61 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 12 | [ACEITE DE COCO \(feat\. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.\)](https://open.spotify.com/track/0hzO3OqNIPCwRKxvwBdtjS) | [Blessd](https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX), [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [De La Ghetto](https://open.spotify.com/artist/3EiLUeyEcA6fbRPSHkG5kb), [Darell](https://open.spotify.com/artist/1TtXnWcUs0FCkaZDPGYHdf), [Sahir](https://open.spotify.com/artist/0dqT9B1Xej71qvAo8uE4Uh), [Hades66](https://open.spotify.com/artist/4CQdcx66F116k2db2Y0rjE), [Kris R.](https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK) | [ACEITE DE COCO \(feat\. Ryan Castro, De La Ghetto, Darell, Sahir, Hades66, Kris R.\)](https://open.spotify.com/album/7K7gpv5RyKPE8hJK8HEXRV) | 6:41 |
 | 13 | [Gucci](https://open.spotify.com/track/4rQJhSZFcLJNsdhI3PCEaF) | [Moha The B](https://open.spotify.com/artist/4E44IDMuWVpcKurInIgtco), [Big Papa313](https://open.spotify.com/artist/00CSK0wSAAGoaLWR9uFuAp), [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG) | [Yo Nunca Cambié](https://open.spotify.com/album/3kzx9xZQlUQ2FonaYX4u7i) | 2:03 |
 | 14 | [Yo Quiero To](https://open.spotify.com/track/4SvkoyNX5wKTbn7V1CaMWb) | [Oscar el Ruso](https://open.spotify.com/artist/1aOK2Zm4Wsm4I4DuoQIXsZ), [El Greco](https://open.spotify.com/artist/2fe5YD0v1HzDeACkHSPAXG), [D Jam Saw](https://open.spotify.com/artist/0aUQapby1rTJ1qTkcyx6XQ) | [Yo Quiero To](https://open.spotify.com/album/0mw227xpkbeL4aWCcGsCFo) | 3:53 |
-| 15 | [MEC! MEC!](https://open.spotify.com/track/0HMi3WrP1rluuO68F0NAgL) | [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a) | [MEC! MEC!](https://open.spotify.com/album/2uhOmmn2GlXPZeFdhnU8zQ) | 2:29 |
+| 15 | [MEC! MEC!](https://open.spotify.com/track/0HMi3WrP1rluuO68F0NAgL) | [El Bobe](https://open.spotify.com/artist/3FtVhV92rZyHa7ot2ioG5a), [OVERSEAZ](https://open.spotify.com/artist/6eGxvWiYkqsPDSkdCdCV6b) | [MEC! MEC!](https://open.spotify.com/album/2uhOmmn2GlXPZeFdhnU8zQ) | 2:29 |
 | 16 | [Corazón](https://open.spotify.com/track/6BlMONswYrMdTaKMyB3Ox6) | [Nach](https://open.spotify.com/artist/66ArjpKRgw8vYBf9yhktto), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [Corazón](https://open.spotify.com/album/29JIy55gOvxwgbTTz4FOrs) | 3:53 |
 | 17 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
 | 18 | [julia](https://open.spotify.com/track/6hjWNJFzuqXfBT0DDJORYS) | [Leo Rizzi](https://open.spotify.com/artist/2281RSmb2cN6knnt0Iarb2) | [julia](https://open.spotify.com/album/7MBsjo49lqjaHf1Sc9KoGu) | 3:12 |

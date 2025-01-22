@@ -1,12 +1,12 @@
 {
   "description": "",
-  "num_followers": 30779,
+  "num_followers": 30789,
   "original_name": "Ninja Tune // New Releases",
   "owner": {
     "name": "Ninja Tune",
     "url": "https://open.spotify.com/user/ninja-tune"
   },
-  "snapshot_id": "AAAPzzS8vivkHWrEDAjPcHcbkNqgaHcA",
+  "snapshot_id": "AAAP1FLkZj0Y2nLC5irfxac2Z8BhIxCa",
   "tracks": [
     {
       "added_at": "2025-01-14 12:23:39",
@@ -47,62 +47,6 @@
       "duration_ms": 227934,
       "name": "All I Need",
       "url": "https://open.spotify.com/track/3ZL9gPzeCnKG9l5SB1SlcZ"
-    },
-    {
-      "added_at": "2024-11-26 10:34:33",
-      "album": {
-        "name": "Dance on the World",
-        "url": "https://open.spotify.com/album/1wUkp1ilstsvGjEduv4l7d"
-      },
-      "artists": [
-        {
-          "name": "Maribou State",
-          "url": "https://open.spotify.com/artist/7zrkALJ9ayRjzysp4QYoEg"
-        },
-        {
-          "name": "North Downs",
-          "url": "https://open.spotify.com/artist/7ad12h2GvO4VT7ciRTzeo1"
-        }
-      ],
-      "duration_ms": 214187,
-      "name": "Dance on the World",
-      "url": "https://open.spotify.com/track/13tDpWgAdJZL45ol6PiDFO"
-    },
-    {
-      "added_at": "2024-10-30 12:27:08",
-      "album": {
-        "name": "Round n Round (KAVARI Remix)",
-        "url": "https://open.spotify.com/album/6afCeXY86iJqZU0wnqyzds"
-      },
-      "artists": [
-        {
-          "name": "I. JORDAN",
-          "url": "https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4"
-        },
-        {
-          "name": "KAVARI",
-          "url": "https://open.spotify.com/artist/2pvfGvbL4mouaDY9ZSwUmv"
-        }
-      ],
-      "duration_ms": 247741,
-      "name": "Round n Round - KAVARI Remix",
-      "url": "https://open.spotify.com/track/0MhjM43Fa0ytthA4JiXTUq"
-    },
-    {
-      "added_at": "2024-10-24 15:53:23",
-      "album": {
-        "name": "Hopecore",
-        "url": "https://open.spotify.com/album/5NIsP1ajp6WdtLrVEvgS12"
-      },
-      "artists": [
-        {
-          "name": "DJ Seinfeld",
-          "url": "https://open.spotify.com/artist/37YzpfBeFju8QRZ3g0Ha1Q"
-        }
-      ],
-      "duration_ms": 180219,
-      "name": "Hopecore",
-      "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
     },
     {
       "added_at": "2024-10-23 16:45:04",
@@ -717,26 +661,6 @@
       "url": "https://open.spotify.com/track/6E8Mb30yWPFcT2Y3be4CjY"
     },
     {
-      "added_at": "2024-08-28 16:41:38",
-      "album": {
-        "name": "Until There\u2019s Nothing Left",
-        "url": "https://open.spotify.com/album/1KPZFUZfy0l7uFKLzrVjHL"
-      },
-      "artists": [
-        {
-          "name": "LP Giobbi",
-          "url": "https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J"
-        },
-        {
-          "name": "Alabama Shakes",
-          "url": "https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh"
-        }
-      ],
-      "duration_ms": 230198,
-      "name": "Until There's Nothing Left",
-      "url": "https://open.spotify.com/track/1Mx0bF3jajHH3zvMHfaleV"
-    },
-    {
       "added_at": "2024-11-29 09:26:03",
       "album": {
         "name": "Anywhere, But Here With You",
@@ -835,6 +759,26 @@
       "duration_ms": 193488,
       "name": "Green - St. David Remix",
       "url": "https://open.spotify.com/track/0sPi3AetQCt7b9CAtumw20"
+    },
+    {
+      "added_at": "2025-01-21 11:18:41",
+      "album": {
+        "name": "Heather Park (salute Remix)",
+        "url": "https://open.spotify.com/album/3sXuFwBddm8PW2y9dzpkZa"
+      },
+      "artists": [
+        {
+          "name": "Ewan McVicar",
+          "url": "https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH"
+        },
+        {
+          "name": "salute",
+          "url": "https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5"
+        }
+      ],
+      "duration_ms": 375111,
+      "name": "Heather Park - salute Remix",
+      "url": "https://open.spotify.com/track/12IXYei6KVHIXSOJIL2f8M"
     }
   ],
   "unique_name": "Ninja Tune // New Releases",

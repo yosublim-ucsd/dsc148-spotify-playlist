@@ -1,6 +1,6 @@
 {
   "description": "Nh\u1eefng ca kh\u00fac \u0111\u1ec3 \u0111\u1eddi c\u1ee7a d\u00f2ng nh\u1ea1c v\u00e0ng. \u1ea2nh b\u00eca: Nh\u01b0 Qu\u1ef3nh",
-  "num_followers": 36361,
+  "num_followers": 36366,
   "original_name": "Bolero Tuy\u1ec7t Ph\u1ea9m",
   "owner": {
     "name": "Spotify",
@@ -59,22 +59,6 @@
     {
       "added_at": "2024-05-27 07:52:43",
       "album": {
-        "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
-        "url": "https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng Ph\u01b0\u01a1ng Th\u1ea3o",
-          "url": "https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v"
-        }
-      ],
-      "duration_ms": 356671,
-      "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
-      "url": "https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ"
-    },
-    {
-      "added_at": "2024-05-27 07:52:43",
-      "album": {
         "name": "Chuy\u1ec7n Gi\u00e0n Thi\u00ean L\u00fd (T\u00ecnh Kh\u00fac Anh B\u1eb1ng v\u00e0 Tr\u1ea7n Thi\u1ec7n Thanh)",
         "url": "https://open.spotify.com/album/6dJOzD8ypNEvTQOlaeSpTv"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 305349,
       "name": "Chuy\u1ec7n h\u1eb9n h\u00f2",
       "url": "https://open.spotify.com/track/4HpG7NZnDsWSKKyBLfEzYt"
+    },
+    {
+      "added_at": "2024-05-27 07:52:43",
+      "album": {
+        "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
+        "url": "https://open.spotify.com/album/2DTriHYKkXQNqf6tVyucvk"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Ph\u01b0\u01a1ng Th\u1ea3o",
+          "url": "https://open.spotify.com/artist/5KGgAxYWMoCJduQhLpIH4v"
+        }
+      ],
+      "duration_ms": 356671,
+      "name": "Cho Ng\u01b0\u1eddi T\u00ecnh L\u1ee1",
+      "url": "https://open.spotify.com/track/417NJZjAjPLX0p7xf4H8uJ"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -319,6 +319,22 @@
     {
       "added_at": "2024-05-27 07:52:43",
       "album": {
+        "name": "C\u00f3 Tin Vui Gi\u1eefa Gi\u1edd Tuy\u1ec7t V\u1ecdng",
+        "url": "https://open.spotify.com/album/32JYrF4w3zEFKUGMHlG3HI"
+      },
+      "artists": [
+        {
+          "name": "Ph\u01b0\u01a1ng Dung",
+          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
+        }
+      ],
+      "duration_ms": 372866,
+      "name": "Nh\u1eefng \u0111\u1ed3i hoa sim",
+      "url": "https://open.spotify.com/track/5RWImsPAjdpJucoMXRmpCU"
+    },
+    {
+      "added_at": "2024-05-27 07:52:43",
+      "album": {
         "name": "Hoa S\u1ee9 Nh\u00e0 N\u00e0ng",
         "url": "https://open.spotify.com/album/0dPjehd82d078PcsNzsUpr"
       },
@@ -347,22 +363,6 @@
       "duration_ms": 261673,
       "name": "M\u01b0a L\u1ec7",
       "url": "https://open.spotify.com/track/5iZnP16d5MkJVVrnbo6xTH"
-    },
-    {
-      "added_at": "2024-05-27 07:52:43",
-      "album": {
-        "name": "C\u00f3 Tin Vui Gi\u1eefa Gi\u1edd Tuy\u1ec7t V\u1ecdng",
-        "url": "https://open.spotify.com/album/32JYrF4w3zEFKUGMHlG3HI"
-      },
-      "artists": [
-        {
-          "name": "Ph\u01b0\u01a1ng Dung",
-          "url": "https://open.spotify.com/artist/2P7WrPkRtQLLJY5KPOmDt3"
-        }
-      ],
-      "duration_ms": 372866,
-      "name": "Nh\u1eefng \u0111\u1ed3i hoa sim",
-      "url": "https://open.spotify.com/track/5RWImsPAjdpJucoMXRmpCU"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -599,8 +599,8 @@
     {
       "added_at": "2024-05-27 07:52:43",
       "album": {
-        "name": "Hoa Su Nha Nang",
-        "url": "https://open.spotify.com/album/13L8sDBXx11AKJDMYV194J"
+        "name": "Xuan",
+        "url": "https://open.spotify.com/album/7ElPpeYDFpYEIcnyhZEpNH"
       },
       "artists": [
         {
@@ -608,9 +608,9 @@
           "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
         }
       ],
-      "duration_ms": 265356,
-      "name": "Hoa Su Nha Nang",
-      "url": "https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR"
+      "duration_ms": 247676,
+      "name": "Phien Gac Dem Xuan",
+      "url": "https://open.spotify.com/track/15XdDE3BVLl5iwNPcJeYqF"
     },
     {
       "added_at": "2024-05-27 07:52:43",
@@ -783,8 +783,8 @@
     {
       "added_at": "2024-05-27 07:52:43",
       "album": {
-        "name": "Xuan",
-        "url": "https://open.spotify.com/album/7ElPpeYDFpYEIcnyhZEpNH"
+        "name": "Hoa Su Nha Nang",
+        "url": "https://open.spotify.com/album/13L8sDBXx11AKJDMYV194J"
       },
       "artists": [
         {
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/5KPAddqEN2xZHp4jHxtpvP"
         }
       ],
-      "duration_ms": 247676,
-      "name": "Phien Gac Dem Xuan",
-      "url": "https://open.spotify.com/track/15XdDE3BVLl5iwNPcJeYqF"
+      "duration_ms": 265356,
+      "name": "Hoa Su Nha Nang",
+      "url": "https://open.spotify.com/track/3wkJe0YwbaAWwnKIqAWMUR"
     },
     {
       "added_at": "2024-05-27 07:52:43",

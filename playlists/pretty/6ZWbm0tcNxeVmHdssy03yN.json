@@ -1,12 +1,12 @@
 {
   "description": "The best independent music in a post-genre world",
-  "num_followers": 45720,
+  "num_followers": 45729,
   "original_name": "HEADPHONES",
   "owner": {
     "name": "Ditto Music",
     "url": "https://open.spotify.com/user/dittomusic"
   },
-  "snapshot_id": "AAAYdIc80pindKhx4kHUjHgAsAtIJ0yH",
+  "snapshot_id": "AAAYeIGYtX8UQ6qUHk4xFj+waVZ4VtJm",
   "tracks": [
     {
       "added_at": "2025-01-17 05:17:23",
@@ -119,6 +119,22 @@
       "duration_ms": 184285,
       "name": "NOT THAT DEEP",
       "url": "https://open.spotify.com/track/63rmE86UVWdopzJnPSfr15"
+    },
+    {
+      "added_at": "2025-01-21 15:24:12",
+      "album": {
+        "name": "Employee",
+        "url": "https://open.spotify.com/album/5SjTm8B3QLl6PuIegTFg7I"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl"
+        }
+      ],
+      "duration_ms": 153409,
+      "name": "Employee",
+      "url": "https://open.spotify.com/track/6BlJYH5UurT8xhmBZZtIfC"
     },
     {
       "added_at": "2025-01-17 05:17:23",
@@ -443,6 +459,22 @@
       "duration_ms": 156521,
       "name": "BEEEP",
       "url": "https://open.spotify.com/track/74SQFqd2MpOxiYiZLk3KYc"
+    },
+    {
+      "added_at": "2025-01-21 15:30:53",
+      "album": {
+        "name": "Sucks",
+        "url": "https://open.spotify.com/album/1e1jCQGjucNZTfZEQqQDhq"
+      },
+      "artists": [
+        {
+          "name": "Ama",
+          "url": "https://open.spotify.com/artist/0J6UkpMhQCMyOtQZSmbQNl"
+        }
+      ],
+      "duration_ms": 136000,
+      "name": "Sucks",
+      "url": "https://open.spotify.com/track/6AJ9ZMfQnuYtjOFrRCLtZe"
     },
     {
       "added_at": "2025-01-17 05:17:23",

@@ -4,7 +4,7 @@
 
 > The best new dance & electronic by independent artists and labels\. Featuring Longo\. Artwork by Rewina Beshue
 
-2,591 songs - 7 day 5 hr 52 min
+2,592 songs - 7 day 5 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2502,6 +2502,7 @@
 | [Whenever I Open My Eyes It's You That I Want To See](https://open.spotify.com/track/75AqtAZ0z2xdeEAqBbOpky) | [Luca Eck](https://open.spotify.com/artist/7FvEqUihbJfx5vpfGd1OLz) | [Whenever I Open My Eyes It's You That I Want To See](https://open.spotify.com/album/4uWC5B5w4viOuRWwbWM3V5) | 4:54 | 2023-05-31 | 2023-07-13 |
 | [whenyousayit](https://open.spotify.com/track/3kYI5fvpetkwM3sRGlNMyP) | [Atura](https://open.spotify.com/artist/5nn0cIrXfm1pZ7jKFFexei), [shy tea](https://open.spotify.com/artist/0hxiA4ubuoSCS0jLrwnlVP) | [whenyousayit](https://open.spotify.com/album/65b51M3Ci3EmTIxJUbShmz) | 3:32 | 2025-01-17 |  |
 | [Where Did the Day Go](https://open.spotify.com/track/6KXToRY3JOYDV5WHNnbO4S) | [Bertolt Meyer](https://open.spotify.com/artist/6Q1qf7OgYILqbNNSzJFctv) | [Where Did the Day Go](https://open.spotify.com/album/2ZKPQlqeCXnfft05lF8IG9) | 6:51 | 2023-04-19 | 2023-05-04 |
+| [Where Have You Been](https://open.spotify.com/track/2OyestNLBmdbsQJaL9qaVG) | [REESE](https://open.spotify.com/artist/2MRXCqZSMkdI9K46WDWCUX) | [Where Have You Been](https://open.spotify.com/album/1JRNByaZGAA9yrLNXfUKJx) | 2:50 | 2025-01-21 |  |
 | [Where I Go](https://open.spotify.com/track/0vuErHWsHarpKnC21sQEu2) | [Self Tape](https://open.spotify.com/artist/2OqNVgWhbgGiCO4an8N5eI) | [Where I Go](https://open.spotify.com/album/1WgpfbEh8TfGeY9a8OaCng) | 4:08 | 2022-07-06 | 2022-09-09 |
 | [Where R U \- Ibiza Mix](https://open.spotify.com/track/4DAHb3zosrRPneKuE8sHHm) | [Spriitzz](https://open.spotify.com/artist/3miuS25cOBju4yfVUmOj6D), [Spray](https://open.spotify.com/artist/7AyNPhiTjEsBF4HBBW4gDf) | [Where R U \(Ibiza Mix\)](https://open.spotify.com/album/1VchgEibwwRK5PUw4W1lmu) | 3:22 | 2025-01-15 |  |
 | [WHERE R U?](https://open.spotify.com/track/5e2HsWURQAWKCehRGc9cJy) | [Kelland](https://open.spotify.com/artist/7nZJ6x2Wj2suztg4H53GSf) | [WHERE R U?](https://open.spotify.com/album/42N1tN1DGqclzFJpAZNjaz) | 3:00 | 2024-11-22 | 2024-12-05 |

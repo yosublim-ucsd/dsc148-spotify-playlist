@@ -4,7 +4,7 @@
 
 > the best new metalcore \- where brutality and technicality collide\. Cover: Silent Planet
 
-1,108 songs - 2 day 20 hr 14 min
+1,109 songs - 2 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [Numb](https://open.spotify.com/track/4xOZuV9hKj0uaRgegNaE5F) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Numb](https://open.spotify.com/album/0vf69q9LJRJ6MK8OTJPIbZ) | 3:41 | 2021-12-17 | 2022-01-15 |
 | [NWWM](https://open.spotify.com/track/7gK1TOuXG2PrB78hDCgC5d) | [Borders](https://open.spotify.com/artist/4LlvZpSkapl3vj704A7XKO), [Dropout Kings](https://open.spotify.com/artist/0COl8x4QKImQ0IBO8KjomQ) | [NWWM](https://open.spotify.com/album/62P9pQQM3XNuM7RNSd1PEm) | 3:02 | 2022-07-01 | 2022-12-10 |
 | [Oblivion](https://open.spotify.com/track/7deQhRSrzcKOoID5EPvHCl) | [Ov Sulfur](https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC), [Tim Lambesis](https://open.spotify.com/artist/5ZRwRGRwqJbmGUDlmxKsP9) | [Oblivion](https://open.spotify.com/album/2AAnQSF4VAUQzIg8BSETpz) | 4:29 | 2022-07-13 | 2022-07-23 |
+| [Obsessed](https://open.spotify.com/track/32lG2dcfHHFJZLRPOogB7E) | [Lost in Hollywood](https://open.spotify.com/artist/7r7mwbmR3LZeRdOOklCfWP), [IMPVLSE](https://open.spotify.com/artist/4Xb8zLSdetzreInyw9csZN) | [Obsessed](https://open.spotify.com/album/1aKJqetnisCdbUA6YFVROh) | 3:38 | 2025-01-17 |  |
 | [Obsession](https://open.spotify.com/track/1yR2RjmQ2SuFp33KnEOXEk) | [Aviana](https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy) | [Obsession](https://open.spotify.com/album/5f9suvoGnZN8k4h55sVJLt) | 3:30 | 2022-01-21 | 2022-07-23 |
 | [Obsidian](https://open.spotify.com/track/6seM27tkVi4mpADMxar5iL) | [Viscera](https://open.spotify.com/artist/4jBjMnUHg8VCv9HM7KKbFd) | [Obsidian](https://open.spotify.com/album/34TF0HHXFlVCwjpjMgWSRP) | 4:51 | 2022-07-13 | 2022-07-17 |
 | [Obsolete \- Sullivan King Remix](https://open.spotify.com/track/7MUPbvNwlgqY1Sboxe9jJD) | [Of Mice & Men](https://open.spotify.com/artist/4tususHNaR68xdgLstlGBA), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Echo \(Deluxe Version\)](https://open.spotify.com/album/2Gy8PtzODbaenwA7aCI6UG) | 3:05 | 2022-12-10 | 2023-05-06 |
@@ -913,7 +914,7 @@
 | [Survival](https://open.spotify.com/track/5cV5z3OWpzyvLmpZQiJhuA) | [Within Destruction](https://open.spotify.com/artist/1kAX4yFdmR0hJe2tPu1785) | [Survival](https://open.spotify.com/album/1yQX87mmZgUC1CH8R7EbLr) | 3:19 | 2022-07-13 | 2022-07-23 |
 | [Survive](https://open.spotify.com/track/10sNQBSpWrUV1jcyafuw0x) | [ENMY](https://open.spotify.com/artist/0DJJrg8eUagEWZXFgwKJfM) | [Survive](https://open.spotify.com/album/09CZXfat40xo0FMgh9bGc9) | 2:51 | 2022-12-16 | 2023-04-01 |
 | [Survivor](https://open.spotify.com/track/7ynwEn9WVqGHDXYrlQ5Hft) | [Cabin Boy Jumped Ship](https://open.spotify.com/artist/4DgFNYd8vdx6ew57alHC0S) | [Survivor](https://open.spotify.com/album/66v8yWWlcz2h7Q11T39EXe) | 3:39 | 2021-12-17 | 2022-04-02 |
-| [Survivors Guilt](https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Survivor’s Guilt](https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY) | 3:18 | 2024-10-18 |  |
+| [Survivors Guilt](https://open.spotify.com/track/652PlanA5w5iJxTr04Za8U) | [Underoath](https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK) | [Survivor’s Guilt](https://open.spotify.com/album/2DYEEgwe8OUoovnnKrLjuY) | 3:18 | 2024-10-18 | 2025-01-22 |
 | [Susi](https://open.spotify.com/track/73PaCVePUMiqVRGq1Bttjs) | [Atlas](https://open.spotify.com/artist/33BnCqtsMZSw7LlPBwzmmH) | [UKKO](https://open.spotify.com/album/1dhIUr4d0OPP58yIjnB1m1) | 4:03 | 2021-12-17 | 2022-03-18 |
 | [Swallowed By The Earth](https://open.spotify.com/track/4L6XoVXkIznbbnptvFyMk0) | [Being As An Ocean](https://open.spotify.com/artist/7ML9AQvVVE3c5m0sx1PlmP) | [Swallowed By The Earth](https://open.spotify.com/album/0IfHSdSp7ALCTtnp4R1BCB) | 3:26 | 2023-11-27 | 2024-01-23 |
 | [Swan Song](https://open.spotify.com/track/64q2xOrEX0Vmlmu2ywX4YG) | [Betraying The Martyrs](https://open.spotify.com/artist/4tEWLl4loWFLgs25trNnro) | [Swan Song](https://open.spotify.com/album/6iyYpayZwijzhvTAQfYvue) | 3:56 | 2022-04-29 | 2022-07-08 |

@@ -2,9 +2,9 @@
 
 ### [indiepuntnl](https://open.spotify.com/playlist/37i9dQZF1DX2wnn4eczZBS)
 
-> indie & indiepop in het Nederlands\. Cover: S10
+> indie & indiepop in het Nederlands\. Cover: ISAÏ
 
-140 songs - 7 hr 21 min
+141 songs - 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [Blowen & Smoken](https://open.spotify.com/track/2R2DpPft8SiKSWXA7X0uXu) | [Terry Joint](https://open.spotify.com/artist/1csNIQ2X2wlFiCJvBfJHAy) | [Blowen & Smoken](https://open.spotify.com/album/1tPBRJVFhyPbV67BbfXrkk) | 3:08 | 2024-08-29 | 2024-10-23 |
 | [BOM](https://open.spotify.com/track/0CGEEbLcQQgGaf4W6vKfi6) | [Hang Youth](https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR) | [BOM](https://open.spotify.com/album/5PxyxmfnaxniQaGXSvVaym) | 2:06 | 2024-10-09 |  |
 | [Boter, Kaas en Eieren](https://open.spotify.com/track/1ksF2Z3ql9E1HkoQ4wD1KE) | [So\-Fi](https://open.spotify.com/artist/6TIw842G1nVz2xEhU9YlBs) | [Calls From The Hull vol\. III](https://open.spotify.com/album/2dQw0QVHFeOcArTpxaW76Y) | 1:45 | 2024-10-09 | 2025-01-11 |
+| [Cherry Jenna](https://open.spotify.com/track/0Z7EHxmP8WznjmOPNsDSzl) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/24DodGp1X7O17mu0kiKInY) | 2:41 | 2025-01-21 |  |
 | [Chocoladefontein](https://open.spotify.com/track/30cgYyTs2gobLFcwmbyfZj) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Chocoladefontein](https://open.spotify.com/album/3v03jn6nWDCkR11aGVeA5T) | 3:01 | 2024-06-26 | 2024-08-02 |
 | [Dag en Nacht](https://open.spotify.com/track/3A7F8yDLENuQrPUkxjcMxV) | [YRSA](https://open.spotify.com/artist/5BLCBw3ZwkvqyUuUtozq2h) | [Dag en Nacht](https://open.spotify.com/album/1O3xO2IARNTK7mU2EN5yyZ) | 3:39 | 2025-01-10 |  |
 | [David Bowie/Beckham](https://open.spotify.com/track/78xe8bHyJfSz06dy1kQjvp) | [Astronaut](https://open.spotify.com/artist/2RVA6vsTLzFGZvBzXtXXjn) | [David Bowie/Beckham](https://open.spotify.com/album/3ZZsLyOcHWquAcRLmYYQPx) | 2:36 | 2025-01-10 |  |
@@ -63,7 +64,7 @@
 | [IK LACH MAAR IK HUIL](https://open.spotify.com/track/6PsPnB18dswCvVagWJ5trp) | [Hang Youth](https://open.spotify.com/artist/33s4eablBmnrPlE3y6CZFR) | [ER IS HOOP\*](https://open.spotify.com/album/3P4VJVsYKu6gzuZbEc9iJe) | 2:58 | 2024-10-22 |  |
 | [Ik Ren](https://open.spotify.com/track/7ATLz1jdCZmwi6n6f3hqlA) | [Sophie](https://open.spotify.com/artist/4s5ENnBFGHPG0N6W6QKwGV) | [Ik Ren](https://open.spotify.com/album/5MkenFzk9r19qPvShJPOVv) | 4:13 | 2024-06-26 | 2024-07-27 |
 | [Ik trek al mijn kleding uit](https://open.spotify.com/track/4HFmsQ1wNEjBKFoWBMr2Vy) | [BARBARA.](https://open.spotify.com/artist/1KowfscHGY7DvEHusHKN17) | [Ik trek al mijn kleding uit](https://open.spotify.com/album/4sg0FbbXiTB23ZVbApS5yW) | 2:56 | 2024-10-09 | 2025-01-11 |
-| [Ik Voel Voor Jou](https://open.spotify.com/track/7jmUEA0S8lNGsZU8gNDPgP) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Voel Voor Jou](https://open.spotify.com/album/0H2Ik4fier1UkwvJzlyzG2) | 3:10 | 2024-11-14 |  |
+| [Ik Voel Voor Jou](https://open.spotify.com/track/7jmUEA0S8lNGsZU8gNDPgP) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Voel Voor Jou](https://open.spotify.com/album/0H2Ik4fier1UkwvJzlyzG2) | 3:10 | 2024-11-14 | 2025-01-22 |
 | [Ik Weet Dat Hij Het Wil \- A COLORS SHOW](https://open.spotify.com/track/40jbyydhwwhJobOx2ySQrL) | [Eefje de Visser](https://open.spotify.com/artist/33KABng8GO42ojFJVcABxQ) | [Ik Weet Dat Hij Het Wil \- A COLORS SHOW](https://open.spotify.com/album/7460uSYYqdwNVMaDVRGU8a) | 4:17 | 2024-08-29 | 2024-11-15 |
 | [Ik Weet Het](https://open.spotify.com/track/1urU2l9m5Flg1YpphUPY26) | [Droom Dit](https://open.spotify.com/artist/535Rx3nGAAoN5eQ56bVcVs) | [Ik Weet Het](https://open.spotify.com/album/6i2wKXyedwwZqobblxVfZt) | 4:01 | 2024-10-09 |  |
 | [Ik Zet De Toon](https://open.spotify.com/track/474F96iGzUsZnx5KcWfR1U) | [\(...\) Centraal](https://open.spotify.com/artist/4qMeDxDec29mBmicnpyiq2) | [Ik Zet De Toon](https://open.spotify.com/album/77wFpa6zVyGbMFDcJesvmF) | 3:27 | 2024-06-26 | 2024-09-13 |
@@ -77,7 +78,7 @@
 | [KIJK NAAR M'N NAAM](https://open.spotify.com/track/6MyIwypcSrNwZYGPPRCUPO) | [Boter bij de Vis](https://open.spotify.com/artist/7tuinFXD42LyO2UDBb5LEy) | [KIJK NAAR M'N NAAM](https://open.spotify.com/album/3lUb5MgtePsBVwgMnkWLaT) | 2:28 | 2024-06-26 | 2024-08-30 |
 | [Kinderboerderij \(Keiblij\)](https://open.spotify.com/track/3ZznsGB1HNDojZ00AlEQ1M) | [Prins S\. en De Geit](https://open.spotify.com/artist/0jXZD0lM7Icyig6RrBGlUi) | [Kinderboerderij \(Keiblij\)](https://open.spotify.com/album/31HYeaRSdC9sVSY2uVsNa9) | 3:17 | 2024-08-29 |  |
 | [Koortsdroom](https://open.spotify.com/track/1Cor9T7xkYxRBdVX3hbaPN) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [Koortsdroom](https://open.spotify.com/album/6CSACtHjdRc1cUXaqHnebL) | 2:36 | 2024-11-14 |  |
-| [Koortsdroom \(Nooit Spijt\)](https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Koortsdroom](https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG) | 2:42 | 2024-10-24 |  |
+| [Koortsdroom \(Nooit Spijt\)](https://open.spotify.com/track/6x0n4XHHsxD2XLNXE8F2j0) | [Vic Willems](https://open.spotify.com/artist/0StW0SKh1kJo8Myzc8ZjCX) | [Koortsdroom](https://open.spotify.com/album/4JYA7GDjDCSkHM401aXVXG) | 2:42 | 2024-10-24 | 2025-01-22 |
 | [Koude Kermis](https://open.spotify.com/track/00l6XjUBc3JGWGM0EpBkyD) | [MEROL](https://open.spotify.com/artist/7J41Q5hdwuBgyVo7zGhPhO) | [Koude Kermis](https://open.spotify.com/album/3Ve9qOBRn7LGDOWeXsZUkR) | 2:49 | 2024-07-25 | 2024-08-30 |
 | [Lach](https://open.spotify.com/track/05P1nGFVfX5YYXH51nPeeJ) | [Spijbelaar](https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP) | [Lach](https://open.spotify.com/album/1m1Ksb78UTjW9QsOAlDfJI) | 3:06 | 2024-11-14 |  |
 | [liefde is lang](https://open.spotify.com/track/6jIkLHW9uG6bVGFKsmqEmt) | [De Toegift](https://open.spotify.com/artist/61S4CPkzgyQaX4AvEDEWrs) | [liefde is lang](https://open.spotify.com/album/7IcwezgetR4kkeGAtOlzhx) | 3:24 | 2024-09-12 | 2024-11-22 |
@@ -95,7 +96,7 @@
 | [Misschien \(Kwijt\)](https://open.spotify.com/track/3YtCnJtiIGkoP5kXEGJWIg) | [Gotu Jim](https://open.spotify.com/artist/5rpTehBPpr3mo7L0ZDZhrQ) | [HIGH SOCIETY SWAGGERBOY](https://open.spotify.com/album/3CqCzAHqRdcUWje8yLip2v) | 3:02 | 2024-06-26 |  |
 | [MooiMooiMooi](https://open.spotify.com/track/0zSQBDv2MqScJt49tXfRKZ) | [SKINC](https://open.spotify.com/artist/0LhRix6ewLBCPcH7Kemve6) | [MooiMooiMooi](https://open.spotify.com/album/7Eq2mxj3nCQnUyQlYL1Z2T) | 2:25 | 2024-11-14 | 2025-01-12 |
 | [Naakt Op Het Plein](https://open.spotify.com/track/1L7FnIPHrVXjt49m7Dr36Z) | [Goldband](https://open.spotify.com/artist/6mS5GeFyhea6w9OKo8PO3p) | [Samen Tegen Elkaar](https://open.spotify.com/album/0SICrWXEeAB0feHy4iyTbH) | 3:24 | 2024-06-26 | 2024-11-15 |
-| [Nachtblind](https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/0kt0qZG6FOggm8MN9Zbc40) | 2:00 | 2024-10-22 | 2025-01-12 |
+| [Nachtblind](https://open.spotify.com/track/0LaaB5VXlXHKOQhwsm2PP3) | [ISAÏ](https://open.spotify.com/artist/3h1ZRtE1YF2RpDeOm5unL2) | [Nachtblind](https://open.spotify.com/album/0kt0qZG6FOggm8MN9Zbc40) | 2:00 | 2024-10-22 |  |
 | [NEEM ER EEN BIJ MEID](https://open.spotify.com/track/6vdctqis5ixBZewv7oC08f) | [Boter bij de Vis](https://open.spotify.com/artist/7tuinFXD42LyO2UDBb5LEy) | [MAR & AR VAN BOTER BIJ DE VIS](https://open.spotify.com/album/7bAO1sGEqCU6iIj0xRpJdM) | 2:50 | 2024-06-27 | 2024-07-27 |
 | [Niet Meer Los\(t\)](https://open.spotify.com/track/7FlKQRrHWiz6joBJyW7KHk) | [Q'n](https://open.spotify.com/artist/6yPGLxm15IemtRMvXbnHTM) | [Niet Meer Los\(t\)](https://open.spotify.com/album/6dlyRC7jWaZHKScKx6J2t0) | 3:17 | 2024-11-14 | 2025-01-11 |
 | [Niets Is Voor Altijd](https://open.spotify.com/track/2xPGzCwyQTDZA6qnRxpEfu) | [ANNABELLE](https://open.spotify.com/artist/3Fn18Mw7IUWlzFCmfPzP7H) | [Niets Is Voor Altijd](https://open.spotify.com/album/1Ez2l3IlooHGbTRu9DsTZW) | 3:07 | 2024-06-26 | 2024-07-06 |

@@ -1,12 +1,12 @@
 {
-  "description": "japanese breakfast \ud83d\udd6f\ufe0f\ud83c\udf80\u2728\ud83c\udf47",
-  "num_followers": 1175474,
+  "description": "The <a href=\"#https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245#\">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap ",
+  "num_followers": 1175587,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4w1qgAAAADa8xBUZI+GpS5J4rJIs8Q9",
+  "snapshot_id": "Z5AIGgAAAABmYOhqfMa6hlu+lxxkBFDX",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:48",
@@ -41,20 +41,36 @@
       "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
     },
     {
-      "added_at": "2025-01-15 16:08:53",
+      "added_at": "2025-01-21 20:48:26",
       "album": {
-        "name": "Vows",
-        "url": "https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa"
+        "name": "Speak for Yourself (Deluxe Version)",
+        "url": "https://open.spotify.com/album/5DuihGAcuJdwyktx3EmncM"
       },
       "artists": [
         {
-          "name": "Operelly",
-          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
+          "name": "Imogen Heap",
+          "url": "https://open.spotify.com/artist/6Xb4ezwoAQC4516kI89nWz"
         }
       ],
-      "duration_ms": 162143,
-      "name": "Vows",
-      "url": "https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK"
+      "duration_ms": 215338,
+      "name": "Headlock",
+      "url": "https://open.spotify.com/track/63Pi2NAx5yCgeLhCTOrEou"
+    },
+    {
+      "added_at": "2025-01-21 20:48:26",
+      "album": {
+        "name": "Eusexua",
+        "url": "https://open.spotify.com/album/79TS6ylaLCH8VRFSLhvLvj"
+      },
+      "artists": [
+        {
+          "name": "FKA twigs",
+          "url": "https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH"
+        }
+      ],
+      "duration_ms": 263693,
+      "name": "Eusexua",
+      "url": "https://open.spotify.com/track/7FdDBpqrdpWtdAromLpv4V"
     },
     {
       "added_at": "2025-01-16 18:42:36",
@@ -105,20 +121,20 @@
       "url": "https://open.spotify.com/track/0Rb0nCwXNKtq2TETOq3gjk"
     },
     {
-      "added_at": "2025-01-08 02:15:19",
+      "added_at": "2025-01-15 16:08:53",
       "album": {
-        "name": "Orlando in Love",
-        "url": "https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6"
+        "name": "Ever",
+        "url": "https://open.spotify.com/album/7zsRDPDkCAJBcQrbG8Agr9"
       },
       "artists": [
         {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
         }
       ],
-      "duration_ms": 145093,
-      "name": "Orlando in Love",
-      "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
+      "duration_ms": 180672,
+      "name": "Ever",
+      "url": "https://open.spotify.com/track/2Gu2H8HRVuV9GOneJuYV5D"
     },
     {
       "added_at": "2025-01-16 18:42:36",
@@ -139,6 +155,22 @@
     {
       "added_at": "2025-01-17 05:00:48",
       "album": {
+        "name": "flora maniia",
+        "url": "https://open.spotify.com/album/0U329sLZJi8AzBbVtRvcS8"
+      },
+      "artists": [
+        {
+          "name": "Temachii",
+          "url": "https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ"
+        }
+      ],
+      "duration_ms": 215086,
+      "name": "may you never forget me",
+      "url": "https://open.spotify.com/track/72IYR4cNkBipxd5yChDAKB"
+    },
+    {
+      "added_at": "2025-01-17 05:00:48",
+      "album": {
         "name": "Bovine Excision",
         "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
       },
@@ -155,18 +187,18 @@
     {
       "added_at": "2025-01-15 16:08:53",
       "album": {
-        "name": "Ever",
-        "url": "https://open.spotify.com/album/7zsRDPDkCAJBcQrbG8Agr9"
+        "name": "Vows",
+        "url": "https://open.spotify.com/album/0Ii3SThOZCjezgWBNd7yPa"
       },
       "artists": [
         {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+          "name": "Operelly",
+          "url": "https://open.spotify.com/artist/7b5ONZHG45xm3qlyJqlz63"
         }
       ],
-      "duration_ms": 180672,
-      "name": "Ever",
-      "url": "https://open.spotify.com/track/2Gu2H8HRVuV9GOneJuYV5D"
+      "duration_ms": 162143,
+      "name": "Vows",
+      "url": "https://open.spotify.com/track/1gljagKZ8aORj8hSXdLsAK"
     },
     {
       "added_at": "2024-12-11 18:28:53",
@@ -185,20 +217,20 @@
       "url": "https://open.spotify.com/track/3DLlsSUvnQG2WIJSy044AN"
     },
     {
-      "added_at": "2025-01-17 05:00:48",
+      "added_at": "2025-01-08 02:15:19",
       "album": {
-        "name": "flora maniia",
-        "url": "https://open.spotify.com/album/0U329sLZJi8AzBbVtRvcS8"
+        "name": "Orlando in Love",
+        "url": "https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6"
       },
       "artists": [
         {
-          "name": "Temachii",
-          "url": "https://open.spotify.com/artist/6C28zKEQyk8yNoiQcqWbcQ"
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
         }
       ],
-      "duration_ms": 215086,
-      "name": "may you never forget me",
-      "url": "https://open.spotify.com/track/72IYR4cNkBipxd5yChDAKB"
+      "duration_ms": 145093,
+      "name": "Orlando in Love",
+      "url": "https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc"
     },
     {
       "added_at": "2025-01-10 05:00:37",
@@ -365,6 +397,22 @@
       "url": "https://open.spotify.com/track/7cpQwNcUnqqzIRCluyD4ry"
     },
     {
+      "added_at": "2025-01-14 02:49:11",
+      "album": {
+        "name": "Crying, Laughing, Loving, Lying",
+        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
+      },
+      "artists": [
+        {
+          "name": "Labi Siffre",
+          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
+        }
+      ],
+      "duration_ms": 183200,
+      "name": "Crying, Laughing, Loving, Lying",
+      "url": "https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ"
+    },
+    {
       "added_at": "2025-01-16 18:42:36",
       "album": {
         "name": "Be the Cowboy",
@@ -431,22 +479,6 @@
       "duration_ms": 692000,
       "name": "Amber Waves",
       "url": "https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9"
-    },
-    {
-      "added_at": "2025-01-14 02:49:11",
-      "album": {
-        "name": "Crying, Laughing, Loving, Lying",
-        "url": "https://open.spotify.com/album/3KJxMjUnBZu3jLeQTIe6aQ"
-      },
-      "artists": [
-        {
-          "name": "Labi Siffre",
-          "url": "https://open.spotify.com/artist/5CzlICF8GCY0pRC82MKrhX"
-        }
-      ],
-      "duration_ms": 183200,
-      "name": "Crying, Laughing, Loving, Lying",
-      "url": "https://open.spotify.com/track/28UWzdVYFe36w0GwDJlIwJ"
     },
     {
       "added_at": "2024-12-17 21:11:52",

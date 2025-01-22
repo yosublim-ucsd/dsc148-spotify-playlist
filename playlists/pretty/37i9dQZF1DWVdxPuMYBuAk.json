@@ -1,13 +1,29 @@
 {
   "description": "New year, same Kitty. Listen to all the music from XO, Kitty and the most memorable tracks from To All The Boys, now streaming on Netflix.",
-  "num_followers": 241281,
+  "num_followers": 243289,
   "original_name": "XO, Kitty Official Playlist",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4i8nAAAAAC4ixDcAcpMpiDAloleE/in",
+  "snapshot_id": "Z5AvkgAAAAA5FzdEx8ceeuZf2OeDbMN6",
   "tracks": [
+    {
+      "added_at": "2025-01-16 08:00:28",
+      "album": {
+        "name": "I Like Me Better",
+        "url": "https://open.spotify.com/album/5SCJycEDIDFyeGmCj8h3uG"
+      },
+      "artists": [
+        {
+          "name": "Lauv",
+          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
+        }
+      ],
+      "duration_ms": 197436,
+      "name": "I Like Me Better",
+      "url": "https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f"
+    },
     {
       "added_at": "2025-01-16 08:00:28",
       "album": {
@@ -327,22 +343,6 @@
       "duration_ms": 170182,
       "name": "face to face",
       "url": "https://open.spotify.com/track/1nBwBd3W4tE9FEOUcrsv83"
-    },
-    {
-      "added_at": "2025-01-16 08:00:28",
-      "album": {
-        "name": "I Like Me Better",
-        "url": "https://open.spotify.com/album/5SCJycEDIDFyeGmCj8h3uG"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 197436,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/1jXfVzMk8cSbvAXMML4Y4f"
     },
     {
       "added_at": "2025-01-16 08:00:28",
@@ -1671,22 +1671,6 @@
       "duration_ms": 198842,
       "name": "Chinatown",
       "url": "https://open.spotify.com/track/3BRfgsKjcakny2wCYfZrvz"
-    },
-    {
-      "added_at": "2023-07-07 00:17:35",
-      "album": {
-        "name": "I met you when I was 18. (the playlist)",
-        "url": "https://open.spotify.com/album/71cQY3dUThCY6vVKaUIXqR"
-      },
-      "artists": [
-        {
-          "name": "Lauv",
-          "url": "https://open.spotify.com/artist/5JZ7CnR6gTvEMKX4g70Amv"
-        }
-      ],
-      "duration_ms": 197436,
-      "name": "I Like Me Better",
-      "url": "https://open.spotify.com/track/0EcQcdcbQeVJn9fknj44Be"
     },
     {
       "added_at": "2023-07-07 00:17:35",

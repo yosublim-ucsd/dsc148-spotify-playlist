@@ -4,7 +4,7 @@
 
 > Les incontournables du Raï.
 
-64 songs - 5 hr 34 min
+65 songs - 5 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,7 +30,8 @@
 | [Desert Rose](https://open.spotify.com/track/4WhyHQ2BXi2VU1iaFbF6jv) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Brand New Day](https://open.spotify.com/album/1r6NoADkFvVSpyFnJjcuLe) | 4:45 | 2024-01-03 | 2024-04-19 |
 | [Desert Rose](https://open.spotify.com/track/3zYufmyv6HOuiHn1eMR6Ja) | [Sting](https://open.spotify.com/artist/0Ty63ceoRnnJKVEYP0VQpk), [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [Brand New Day](https://open.spotify.com/album/2lKs5704qlvP9V9muKZwqY) | 4:45 | 2024-01-03 |  |
 | [Di Ayza Kalem](https://open.spotify.com/track/4KuO9X4amlOVQwsU2DRONy) | [Cheb Bilal](https://open.spotify.com/artist/59N7N5tX53jyPhAmsRi4or) | [Di Ayza Kalem](https://open.spotify.com/album/3hDaMpzmRmOcrKR5HaQHMb) | 5:51 | 2024-01-03 |  |
-| [Didi](https://open.spotify.com/track/6ZOSOeJi0C6FAOUVn1YD6Q) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Khaled](https://open.spotify.com/album/5vp5VVCujQe9SmpSaD4uEL) | 5:00 | 2024-01-03 |  |
+| [Didi](https://open.spotify.com/track/4xbAZSAfXfksdBXSvtAHLJ) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Best Of](https://open.spotify.com/album/0EPtnknFIXdVyOsck4rvz8) | 4:58 | 2025-01-21 |  |
+| [Didi](https://open.spotify.com/track/6ZOSOeJi0C6FAOUVn1YD6Q) | [Khaled](https://open.spotify.com/artist/28ztjHIXceRRntmTUfnmUX) | [Khaled](https://open.spotify.com/album/5vp5VVCujQe9SmpSaD4uEL) | 5:00 | 2024-01-03 | 2025-01-22 |
 | [Douha alia](https://open.spotify.com/track/2iz9jESHTKPur1zuTzJkru) | [Cheb Mami](https://open.spotify.com/artist/6vZXamchcIOKzC1c3Elp4J) | [let me rai](https://open.spotify.com/album/2ZjDMSjs84eCv6SVGvxExW) | 4:17 | 2024-01-03 |  |
 | [El ghalba date el aarbi lel ghorba](https://open.spotify.com/track/6i8MT01wUlUAXLoTZUPnca) | [Cheb Azzedine](https://open.spotify.com/artist/0kIV7Dsbx0yOB5p1ZxWJNd) | [D'hake alia](https://open.spotify.com/album/6gWU9HxXm8ldNkXIMuKT0u) | 5:33 | 2024-01-03 |  |
 | [Ghebentni Behadi La Décision](https://open.spotify.com/track/2xxsiXgAsZIoqpAYUJkI2y) | [Cheba Faiza](https://open.spotify.com/artist/3Fe9Br9kOKaTpTjFIHp2vc) | [Cheba Faiza](https://open.spotify.com/album/3pogm7xGyezeucLRvl5qYr) | 7:28 | 2024-01-03 |  |

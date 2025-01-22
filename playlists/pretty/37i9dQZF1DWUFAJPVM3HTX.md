@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/5Pqfj0BtkBBdvxrAhfOdIt?si=YX3RD7MbRfKlSj8eX7ExQQ"> THEHONESTGUY </a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,469 likes - 100 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 257,542 likes - 100 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

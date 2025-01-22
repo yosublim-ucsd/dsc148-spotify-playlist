@@ -1,12 +1,12 @@
 {
   "description": "This is Senses Fail. The essential tracks, all in one playlist.",
-  "num_followers": 9519,
+  "num_followers": 9521,
   "original_name": "This Is Senses Fail",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4xAgAAAAABj+Q2ZhpFaiYpH1L5MhEkZ",
+  "snapshot_id": "Z42SAAAAAADM3gEp+8O+HIlXR3IhroT5",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Weight of the World",
-        "url": "https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr"
+        "name": "Still Searching",
+        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
       },
       "artists": [
-        {
-          "name": "HARRY WAS HERE",
-          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
-        },
         {
           "name": "Senses Fail",
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 192422,
-      "name": "Weight of the World",
-      "url": "https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL"
+      "duration_ms": 245879,
+      "name": "All the Best Cowboys Have Daddy Issues",
+      "url": "https://open.spotify.com/track/11oio61wuQD1WZafQwgexO"
     },
     {
       "added_at": null,
@@ -323,18 +319,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Still Searching",
-        "url": "https://open.spotify.com/album/1Irua9m0zfrn12jJ803gZ5"
+        "name": "Weight of the World",
+        "url": "https://open.spotify.com/album/7B2HLlPLG4sF7VbGRBMUdr"
       },
       "artists": [
+        {
+          "name": "HARRY WAS HERE",
+          "url": "https://open.spotify.com/artist/5ztMBMGr4A0rCnBPUWErBP"
+        },
         {
           "name": "Senses Fail",
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 245879,
-      "name": "All the Best Cowboys Have Daddy Issues",
-      "url": "https://open.spotify.com/track/11oio61wuQD1WZafQwgexO"
+      "duration_ms": 192422,
+      "name": "Weight of the World",
+      "url": "https://open.spotify.com/track/1psooo00FPOftSv5NaY6fL"
     },
     {
       "added_at": null,
@@ -396,9 +396,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 260398,
-      "name": "Steven",
-      "url": "https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu"
+      "duration_ms": 252800,
+      "name": "Free Fall Without A Parachute",
+      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
     },
     {
       "added_at": null,
@@ -460,9 +460,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 252800,
-      "name": "Free Fall Without A Parachute",
-      "url": "https://open.spotify.com/track/11EE0kTgJokpFRVv8IjyWM"
+      "duration_ms": 260398,
+      "name": "Steven",
+      "url": "https://open.spotify.com/track/5B06JHXewLwFQhBBOZuDCu"
     },
     {
       "added_at": null,
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 179466,
-      "name": "New Jersey Makes, The World Takes",
-      "url": "https://open.spotify.com/track/25PtrOA0qzM9IUtkGuEAn3"
+      "duration_ms": 224000,
+      "name": "Elevator to the Gallows",
+      "url": "https://open.spotify.com/track/1bbRM6nUzzoO6vhfNx9h3n"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/591yCCsZCLXvaJ0Rg38vLZ"
         }
       ],
-      "duration_ms": 224000,
-      "name": "Elevator to the Gallows",
-      "url": "https://open.spotify.com/track/1bbRM6nUzzoO6vhfNx9h3n"
+      "duration_ms": 179466,
+      "name": "New Jersey Makes, The World Takes",
+      "url": "https://open.spotify.com/track/25PtrOA0qzM9IUtkGuEAn3"
     },
     {
       "added_at": null,

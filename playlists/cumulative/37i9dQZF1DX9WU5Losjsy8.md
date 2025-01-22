@@ -4,7 +4,7 @@
 
 > Von Ischgl bis Obertauern\. Après\-Ski ist nur einmal im Jahr!
 
-158 songs - 8 hr 2 min
+159 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,7 +108,7 @@
 | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/track/0XPmdEHBu90jEJn2LdTGk7) | [MXM](https://open.spotify.com/artist/7djYTUc0FkT666VSphQci4), [Chris van Dutch](https://open.spotify.com/artist/0BlIxK9OWzi4zordBw7tnY) | [Major Tom \(Völlig losgelöst\)](https://open.spotify.com/album/4HVGbKBUbuOFuDkhegltJC) | 4:00 | 2024-04-24 |  |
 | [MALLE BEREIT](https://open.spotify.com/track/4NVdVU19ynkIzA2lLOCE2O) | [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4), [MAKZ 38](https://open.spotify.com/artist/3G3KqIib0FNSVpjDl9NhAF), [MartinBepunkt](https://open.spotify.com/artist/67SeoU54DvDpkDDXtWEoOc) | [MALLE BEREIT](https://open.spotify.com/album/1aeHkgMoNAG5oS037C3GSH) | 2:49 | 2024-04-24 |  |
 | [Mallekind](https://open.spotify.com/track/3NlCLRvhG5gno1HutG23u6) | [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ), [Julian Benz](https://open.spotify.com/artist/3GiXBISwnKsyO5B37DYiMp) | [Mallekind](https://open.spotify.com/album/6REJSCEeDximgCmWC1XWvl) | 2:53 | 2024-08-16 | 2024-10-28 |
-| [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 | 2023-07-28 |  |
+| [Mallelelele](https://open.spotify.com/track/7bCRbs4hHDtMP9Ue8sfjqT) | [Rumbombe](https://open.spotify.com/artist/4sPOsh2DVuKAJWyWSQ3UyG), [Mia Julia](https://open.spotify.com/artist/3tN4jv8IaO9UAKTWqpXaV4) | [Mallelelele](https://open.spotify.com/album/1MhwhYCaBa2wIaTFoSMnEb) | 2:13 | 2023-07-28 | 2025-01-22 |
 | [Mallemoment](https://open.spotify.com/track/14QtgrVvs1os2TMvpTbQZH) | [Stefan Stürmer](https://open.spotify.com/artist/6jvJeMzlBK7kW5LQUePR6q) | [Mallemoment](https://open.spotify.com/album/2lJXNJMUVFKYCBSzcJDQyW) | 2:49 | 2024-03-27 | 2024-09-14 |
 | [Mallorca mein Löwe mein Bär](https://open.spotify.com/track/2qSXEdg96v16ADGQIEYanx) | [Kreisligalegende](https://open.spotify.com/artist/4gH1d6uZiIbhiUUJoHsd8f), [Honk!](https://open.spotify.com/artist/24UmQq4ccfSLpXXurb40ig), [Isi Glück](https://open.spotify.com/artist/6rCSN5ZYcBpBWIY2GEiKdQ) | [Mallorca mein Löwe mein Bär](https://open.spotify.com/album/6aFOTAq33CiEgH1irnDAB1) | 2:56 | 2023-08-28 | 2023-11-21 |
 | [Mama Laudaaa](https://open.spotify.com/track/1RcWWgnw5fVm3wcNq11zBu) | [Almklausi](https://open.spotify.com/artist/3f56dbtoRz7bucWJUeofzK), [Specktakel](https://open.spotify.com/artist/1ErIf1pAAaw5upKsCbqhzz) | [Mama Laudaaa](https://open.spotify.com/album/4yWhxiH0UB3A6jfr0ZLe4v) | 3:35 | 2023-07-14 |  |
@@ -159,6 +159,7 @@
 | [Vatta Morgana](https://open.spotify.com/track/1ysveV4DKZ7lc6SvPYlmTH) | [DJ Robin](https://open.spotify.com/artist/06VwNCd4PPAxBuxheaf5bz), [Schürze](https://open.spotify.com/artist/3S46qb1V62vKdGl1sR6LEQ) | [Vatta Morgana](https://open.spotify.com/album/2N2wprOKBpBBq1XrXx7u7l) | 3:12 | 2023-08-31 | 2023-10-21 |
 | [Verdammt Ich lieb' dich](https://open.spotify.com/track/2XEwnFyQhDBHq6rFEaAOQj) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Déjà Vu \- Das Beste Von Matthias Reim](https://open.spotify.com/album/7vK2CPL2kkQlpV58o1o96f) | 3:37 | 2024-03-27 |  |
 | [Verdammt, ich lieb Dich \- 2020 Remastered](https://open.spotify.com/track/2S3XOnYSBvRPAJukBB9dLt) | [Matthias Reim](https://open.spotify.com/artist/3fgh28NoU2ArVdUdymvnf3) | [Reim \(Expanded Edition\)](https://open.spotify.com/album/5VpPRQ5SHRyTLxBpDupDQg) | 3:40 | 2023-07-14 | 2023-11-04 |
+| [Wackelkontakt](https://open.spotify.com/track/2eAU0Oij4NkduxThjzhCI6) | [Oimara](https://open.spotify.com/artist/7eGuHhstHEA8ipdVjsimYR) | [Wackelkontakt](https://open.spotify.com/album/6y14O5EK4bjAv08QETxoqQ) | 2:48 | 2025-01-21 |  |
 | [Wahnsinn](https://open.spotify.com/track/2Nv773K16hckJrb3Ir7wOu) | [Wolfgang Petry](https://open.spotify.com/artist/0JLbfIT1Z20raMAVYWtCD7) | [Ich will mehr](https://open.spotify.com/album/77VmZTMiGJbIPBDchKu4hB) | 3:42 | 2023-08-28 | 2024-04-19 |
 | [Wenn der Krankenwagen kommt \(Ist die Party vorbei\)](https://open.spotify.com/track/1Hn7O3FjyTAEeInraHc5z0) | [Mickie Krause](https://open.spotify.com/artist/0cXE2SrE0M4Vn7F2NVzG6q) | [Wenn der Krankenwagen kommt \(Ist die Party vorbei\)](https://open.spotify.com/album/3UIAfTjVQJ2h5o0jtWghUr) | 2:48 | 2024-01-26 | 2024-03-08 |
 | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/track/46D0UOocYv3GhGMemELnLD) | [MaxUhu](https://open.spotify.com/artist/2H9x61CC4ane71CxHsBA5V), [Bangermin](https://open.spotify.com/artist/2vB5ZWcBm1uV4bQhUT27ZQ) | [Wenn Du Bock hast \(kannst Du Dir noch'n Korn abholen\)](https://open.spotify.com/album/3W5Lgeupld5gcJvP3MKiJd) | 3:21 | 2023-12-19 | 2024-10-23 |

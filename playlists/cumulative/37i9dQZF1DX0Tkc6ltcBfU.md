@@ -4,7 +4,7 @@
 
 > The hottest out the south: Lil Baby
 
-1,742 songs - 3 day 10 hr 2 min
+1,743 songs - 3 day 10 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -260,6 +260,7 @@
 | [Bust Fire](https://open.spotify.com/track/3YejGISRPHf9sV5pk8ldEN) | [Lil Poppa](https://open.spotify.com/artist/2hq1yEIcPd7KMLmU6h77Cg) | [Bust Fire](https://open.spotify.com/album/2QMepaELPnsRK2uPwpIgUJ) | 3:42 | 2024-08-02 | 2024-08-10 |
 | [Busy Body](https://open.spotify.com/track/6xQWKkfkobpwY8BniNIW7K) | [Pyrex Pryce](https://open.spotify.com/artist/7HkRWn9KQavVjW2lCTGi3K) | [Busy Body](https://open.spotify.com/album/1LWJQPMpfbboj2nBf033Lg) | 1:54 | 2022-02-18 | 2022-04-02 |
 | [Buzz](https://open.spotify.com/track/0V3mdaIPmadVbYujq3nfSd) | [Lil PJ](https://open.spotify.com/artist/4hQ6HwJgCPtkWpPEFZmaHv) | [Buzz](https://open.spotify.com/album/4PG7NHDf5vmrTtkUXkqJrh) | 3:16 | 2022-01-07 | 2022-01-29 |
+| [By Myself \(feat\. Rod Wave & Rylo Rodriguez\)](https://open.spotify.com/track/4pnwBTwGbXdZYgPhYJPRsr) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK), [Rylo Rodriguez](https://open.spotify.com/artist/0gg11prPP6OqtUvBcKnPpq), [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [WHAM \(Extended Version\)](https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy) | 3:17 | 2025-01-21 |  |
 | [By Your Side](https://open.spotify.com/track/2AaJeBEq3WLcfFW1y8svDf) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [By Your Side](https://open.spotify.com/album/2RrZgDND03MLu6pRJdTkz5) | 3:14 | 2021-11-29 | 2022-02-05 |
 | [California Breeze](https://open.spotify.com/track/6ug9fUi5oLLgQgOF1G8WkM) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [It's Only Me](https://open.spotify.com/album/0FYvMdfTfYJxnJnKs1wDb0) | 2:57 | 2022-10-14 | 2023-01-28 |
 | [CALL \(feat\. Luh Tyler\)](https://open.spotify.com/track/5nYQInI5l56jGprE0EDtKA) | [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I), [Luh Tyler](https://open.spotify.com/artist/1K15GRZZATsCJyGJ4bYiEz) | [PRINCESS POP THAT](https://open.spotify.com/album/0aMQ5jGWMxqIOB5JjhOU3a) | 2:17 | 2024-04-26 | 2024-05-11 |

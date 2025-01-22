@@ -4,7 +4,7 @@
 
 > Christian instrumental worship for moments of calm, relaxation and reflection.
 
-77 songs - 3 hr 18 min
+80 songs - 3 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -30,11 +30,13 @@
 | [Day by Day](https://open.spotify.com/track/416VjmRTwxW7rXTijTMN3y) | [Everlasting Harmony](https://open.spotify.com/artist/1cImd7ASALUaW3myp7bcAx) | ['Tis So Sweet To Trust In Jesus](https://open.spotify.com/album/2q0nCyvwCrqlKhj5PK2JG4) | 3:03 | 2024-03-20 |  |
 | [Fairest Lord Jesus](https://open.spotify.com/track/1rOWamPOJM0pJ1SZPXq7xm) | [Eternal Hands](https://open.spotify.com/artist/16eZQHN2Px0yh5pdPsEGvz) | [O Come, All Ye Faithful](https://open.spotify.com/album/6jAZnvcbyBJPHmpbxr4wGg) | 2:02 | 2024-03-20 |  |
 | [Fairest Lord Jesus \- Piano](https://open.spotify.com/track/5XzTcPoLEngIVNZ8mYUyey) | [Light His Way](https://open.spotify.com/artist/2fRpXEF0tpwUBty1zyXDP7) | [Hymns of the Holy Spirit \(Piano\)](https://open.spotify.com/album/6tvScm6wNrLImnxjcuWeSv) | 2:15 | 2024-03-20 |  |
+| [Follow The Light](https://open.spotify.com/track/1pwvkqAIJKB6dehTcuCdld) | [Sigrid Vega](https://open.spotify.com/artist/5mK058CiyrTC9IJtBMGixs) | [Follow The Light](https://open.spotify.com/album/2zzcb4sEkBTMD1UBYvZyzR) | 2:30 | 2025-01-21 |  |
 | [For The Beauty of the Earth \- Piano](https://open.spotify.com/track/4WMETuvkdHcHhE8w3nS7Cf) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Jesus Paid It All \(Piano\)](https://open.spotify.com/album/0B6AxwBwpZUm7Bo3KlYCl8) | 2:33 | 2024-03-20 |  |
 | [Gathered By the Holly](https://open.spotify.com/track/2KrIc4hWgqEFO8GnPgjiFj) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Gathered By the Holly](https://open.spotify.com/album/1I0NYv8m3sFCFhV5dXgt1t) | 2:00 | 2024-11-19 |  |
 | [Go Tell It on the Mountain](https://open.spotify.com/track/6j9sxrPzicPYaesxdlRVME) | [Andrew Rick](https://open.spotify.com/artist/5AT79GgEygZW9OVGweJeBu) | [Go Tell It on the Mountain](https://open.spotify.com/album/3o3acoQ0WWOiGG2j7rKeAN) | 2:35 | 2024-11-06 | 2024-11-20 |
 | [Go, Tell It on the Mountain](https://open.spotify.com/track/41gAeCFzMwTpI4tj8YKFew) | [Kristján Sigurðsson](https://open.spotify.com/artist/3BdsSsPWnueaOw8P8cdbBi) | [Go, Tell It on the Mountain](https://open.spotify.com/album/75iDlwqkGkNZEbMzTfUw0d) | 2:10 | 2024-11-19 |  |
 | [Grace](https://open.spotify.com/track/50w8pfoszKBDcYYEOmgTEI) | [Jngeis](https://open.spotify.com/artist/1X5nuNY0Ht6Yt2xaya4ZQE) | [Grace](https://open.spotify.com/album/2E5IEkEnaAH1oqCl4S0I5U) | 2:18 | 2024-07-29 |  |
+| [Grace And Peace](https://open.spotify.com/track/3T1BlzdFJxRswrlnHDeVla) | [Zale Foster](https://open.spotify.com/artist/27JTZNNeGNDXRnzNH8w4On) | [Grace And Peace](https://open.spotify.com/album/3uPJxmcUZHkr2N1fuPz0ym) | 2:56 | 2025-01-21 |  |
 | [Great Is Thy Faithfulness \- Piano](https://open.spotify.com/track/3hEKZyuIDnGt7ms7o7jjp9) | [Tranquil Devotion](https://open.spotify.com/artist/4xzY7ryoLAbEBbKRAGTfjR) | [How Great Is He \(Piano\)](https://open.spotify.com/album/03MTLAQqwFFdfj0LeTRUkT) | 2:03 | 2024-03-20 |  |
 | [He Is Near](https://open.spotify.com/track/5XVaTfPnzPaQAgQobVjPMX) | [Andrea Bergfeld](https://open.spotify.com/artist/4mWXiBDSDQA9XRPQqQsQNl) | [He Is Near](https://open.spotify.com/album/5L583RmMoftX92GbeeK88U) | 2:39 | 2024-12-10 |  |
 | [He Shall Feed His Flock](https://open.spotify.com/track/2jZ8tqe6R2EmZZei0f2UPa) | [Gabriel Hart](https://open.spotify.com/artist/1PF8nm4oU1vVqzWLehmjrr) | [He Shall Feed His Flock](https://open.spotify.com/album/6omqeIVajSFPf0o4TWA5WQ) | 2:38 | 2024-10-22 |  |
@@ -66,6 +68,7 @@
 | [Quiet and Hopeful](https://open.spotify.com/track/3Ke8IJjEGEanhmQfqUh5WT) | [Caius Casimir](https://open.spotify.com/artist/3NBjO83Zifm7QkWDF8pmvo) | [Quiet and Hopeful](https://open.spotify.com/album/3Xis6fPhkz1lgrdAYjxJcq) | 3:08 | 2024-11-29 |  |
 | [Sacred Unity](https://open.spotify.com/track/5ULYEIyEMypK1mi59G24z9) | [Florentin Davies](https://open.spotify.com/artist/5W982ShqwBuQZHoATVqi4q) | [In Your Arms](https://open.spotify.com/album/1AsBBN2QlpNWAk8FAWlFNf) | 2:48 | 2024-03-20 |  |
 | [Safe In The Arms of Jesus \- Piano Version](https://open.spotify.com/track/6yXZXfLp3mEA7MLQRyRjYQ) | [Wondrous Worship](https://open.spotify.com/artist/4ftWSzVbWsUMNak5sVUBMp) | [Safe In The Arms of Jesus \(Piano Version\)](https://open.spotify.com/album/7JjMspZHyX69IibaP6ew4H) | 2:21 | 2024-07-29 |  |
+| [Say Yes To The Lord](https://open.spotify.com/track/7nyuf6l22METYVRhTBjujN) | [Emberiza Bruni](https://open.spotify.com/artist/1FKmGiNUrIXlzbSSDOzG92) | [Say Yes To The Lord](https://open.spotify.com/album/7hKRccvptU7r7bUShRTLnc) | 2:46 | 2025-01-21 |  |
 | [Sincere Heart](https://open.spotify.com/track/6vs7bonURAjZbMdwLXlXba) | [StarGlow Piano](https://open.spotify.com/artist/1sz6Bax1SkchADSoQgsRRk) | [Transparency](https://open.spotify.com/album/2hk8tL9JUR1EOAL3QAyE6N) | 1:43 | 2024-03-20 |  |
 | [Singing Mercy](https://open.spotify.com/track/4klFDRzRb6mTeZWiGjqcER) | [Caius Casimir](https://open.spotify.com/artist/3NBjO83Zifm7QkWDF8pmvo) | [Singing Mercy](https://open.spotify.com/album/5y570KAggLD71eK5JYkPEU) | 2:14 | 2024-12-17 |  |
 | [Soul's Redemption](https://open.spotify.com/track/5Q4WUxCSiJekOvyxzWmwP8) | [White As Snow](https://open.spotify.com/artist/5otJxMCBM9yIiI6U7PlqpB) | [The Road Less Traveled](https://open.spotify.com/album/70QMdaLFK8Sj37QhPLeBxE) | 1:12 | 2024-03-20 |  |

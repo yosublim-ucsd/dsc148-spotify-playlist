@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-897 songs - 2 day 2 hr 56 min
+898 songs - 2 day 2 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -239,7 +239,7 @@
 | [Euphoria](https://open.spotify.com/track/4tOrfScwPApEDe0adbNzxh) | [Pegboard Nerds](https://open.spotify.com/artist/0lLY20XpZ9yDobkbHI7u1y), [Stonebank](https://open.spotify.com/artist/4lC8Q0azW5ij2e1skZo377) | [Euphoria](https://open.spotify.com/album/4SfmVWUmmRcNYUUYckepDQ) | 3:04 | 2023-04-24 | 2023-07-22 |
 | [Euphoria Rush](https://open.spotify.com/track/1OUBfd2vYvT6w8ghwbncOq) | [CHYL](https://open.spotify.com/artist/15HOfHbNWedCAcJ3Cm1mbc), [Skybreak](https://open.spotify.com/artist/2858y2JiMYIst8dY4WXGi3) | [Euphoria Rush](https://open.spotify.com/album/7a3WhUPay2Vg17GgIkmnYt) | 3:56 | 2024-08-14 | 2024-11-07 |
 | [Every Little Thing](https://open.spotify.com/track/6CShhNa33zOmCqJ0SkjsWc) | [Conro](https://open.spotify.com/artist/1BAdSa5cdtCNLbvT7gWmtJ) | [Every Little Thing](https://open.spotify.com/album/51pJrPjCgYxYzzcOk4jsWQ) | 3:14 | 2023-01-31 | 2023-04-19 |
-| [EXHALE](https://open.spotify.com/track/2HpWscyVyXAeiSbEa9SVkS) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EXHALE](https://open.spotify.com/album/3K1MCbfVa0NZFKXauWyZFA) | 2:59 | 2024-10-15 |  |
+| [EXHALE](https://open.spotify.com/track/2HpWscyVyXAeiSbEa9SVkS) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EXHALE](https://open.spotify.com/album/3K1MCbfVa0NZFKXauWyZFA) | 2:59 | 2024-10-15 | 2025-01-22 |
 | [EYES ON ME](https://open.spotify.com/track/2EXdDj1XPGguvSikDzDWqg) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME](https://open.spotify.com/album/3j8dwHYVQ0uplIuhTehmSS) | 3:37 | 2024-06-19 | 2024-09-12 |
 | [EYES ON ME \- Sped Up](https://open.spotify.com/track/78wZLjNJy4V0p7BNYxl1Y4) | [Control Freak](https://open.spotify.com/artist/0ouxenSvuyyfflbOirMy19) | [EYES ON ME \(Sped Up\)](https://open.spotify.com/album/42wLzzlEeQ1SHVwsPzbqWF) | 3:25 | 2024-10-07 | 2025-01-15 |
 | [Face Lift](https://open.spotify.com/track/7AGiUADvmOw5MjhGOQKtOr) | [Codd Dubz](https://open.spotify.com/artist/3SsxYsQwnhws0qW0fsO1s5), [Decimate](https://open.spotify.com/artist/6JvIjkaONqopTk15bnpLjz), [XAE](https://open.spotify.com/artist/1ra86Vpi0w0tANidRxSAQT) | [Face Lift](https://open.spotify.com/album/29EfXY9bvJuHDVWI3dD4Ok) | 3:24 | 2024-05-15 | 2024-08-14 |
@@ -583,6 +583,7 @@
 | [Overcast](https://open.spotify.com/track/1dyoS4DZxZ30XsWlJJk4kM) | [Feathervane](https://open.spotify.com/artist/7j32fTp3oaXsRUmnIQixaX), [OREONIC](https://open.spotify.com/artist/336UacimPDVf0A1Y7yXTcm) | [Overcast](https://open.spotify.com/album/3rcCjWUJuOX7rmdsLc7PTl) | 3:33 | 2022-09-09 | 2022-11-10 |
 | [Overdrive](https://open.spotify.com/track/2tImUAHJJ57AlEqcONzWFQ) | [SKYLER](https://open.spotify.com/artist/6niUPn9Tqcb6KdXkGvbMR9) | [Overdrive](https://open.spotify.com/album/2oxKfXeIbwKJLraAfZfRQS) | 2:55 | 2023-09-19 | 2024-01-11 |
 | [Overstimulated](https://open.spotify.com/track/62QX5HiPYOvguLGyPs0Vdx) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Overstimulated](https://open.spotify.com/album/22MEgqPCFqCMKng8B9nqOT) | 3:23 | 2024-10-25 |  |
+| [Overthinking](https://open.spotify.com/track/5UsmTQN4ohO09NCNoD04ux) | [rshand](https://open.spotify.com/artist/7gjIrPoGRWrG0ymsV5TZ16) | [Overthinking](https://open.spotify.com/album/2PltPTD4z6mQAbfJpsflyc) | 3:01 | 2025-01-21 |  |
 | [Oxygen](https://open.spotify.com/track/1MNnZhIQQEki0032cXbM59) | [Keanler](https://open.spotify.com/artist/1TMkg5qcE49Wc66pPls4NK), [Lewyn](https://open.spotify.com/artist/6h4aEgNEr9VqPnXkipmVAR) | [Oxygen](https://open.spotify.com/album/0WuBqUdsSFAvMJwcRIRy7i) | 3:01 | 2023-01-13 | 2023-03-29 |
 | [Pandora](https://open.spotify.com/track/2TMbqHUhyzsdr4WWj8Fqdi) | [More Plastic](https://open.spotify.com/artist/2pTv3pLM9Cw3tblbBHOAzN) | [Pandora](https://open.spotify.com/album/07KspRdZa9VddBMNFLbQkK) | 2:51 | 2024-09-03 | 2024-11-23 |
 | [Parhelion](https://open.spotify.com/track/15wsMaJCE6nZQgpivhk46A) | [Stendahl](https://open.spotify.com/artist/7hLrjiuNxZIf9JSPz2CbAo) | [Parhelion](https://open.spotify.com/album/59CxJMzonDgoGlmDPVneGj) | 3:34 | 2022-07-08 | 2022-09-20 |

@@ -2,7 +2,7 @@
 
 ### [Trending Now Telugu](https://open.spotify.com/playlist/37i9dQZF1DWTt3gMo0DLxA)
 
-> Trending songs from Tollywood! <br/>Cover: Game Changer
+> Trending songs from Tollywood! <br/>Cover: Sankranthiki Vasthunnam
 
 195 songs - 12 hr 40 min
 

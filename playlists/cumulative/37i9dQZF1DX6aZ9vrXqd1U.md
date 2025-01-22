@@ -4,7 +4,7 @@
 
 > Enjoy music from GUNDAM series! ©創通・サンライズ
 
-345 songs - 1 day 0 hr 0 min
+349 songs - 1 day 0 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -23,6 +23,7 @@
 | [AURORA](https://open.spotify.com/track/1j8GsYtk19jz7rtGdKuFYM) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/6zZ0a3V5fbQtoMFHmM7kwq) | 4:20 | 2022-07-27 | 2024-04-19 |
 | [AURORA](https://open.spotify.com/track/6tX8xhwmTFvzssBelVmQ4m) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BLAU](https://open.spotify.com/album/3WbWeQw4LkhriparFG9vwC) | 4:20 | 2022-07-27 |  |
 | [AURORA](https://open.spotify.com/track/3Y8WAXHV0pE67p8PQDyl3K) | [Eir Aoi](https://open.spotify.com/artist/18moNotPmBWa2YZtRnIoZ3) | [BEST \-A\-](https://open.spotify.com/album/2fVMvoKy9XWekpbdyyTFg5) | 4:21 | 2022-10-17 | 2022-11-13 |
+| [Awakening Hearts （I\_004）](https://open.spotify.com/track/0yaKZgryx336TuXh2BSaIp) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 3:15 | 2025-01-21 |  |
 | [BACK TO PARADISE](https://open.spotify.com/track/2moKsxvepCDTcwGE9hBq54) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [BACK TO PARADISE](https://open.spotify.com/album/0OOWhWcdJQ5Z2eKgYxBerv) | 4:24 | 2022-07-27 |  |
 | [BACK TO PARADISE](https://open.spotify.com/track/3pC3Jsx8zFCiRDMmOyuRuW) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [BACK TO PARADISE](https://open.spotify.com/album/5fekYQVLo4LirV5M8PdIzT) | 4:24 | 2023-04-21 | 2024-04-19 |
 | [Beginning](https://open.spotify.com/track/1KunfYrG5bj00xvH5llE0f) | [Daisuke Inoue](https://open.spotify.com/artist/3kyDvSFMl3B0U59KuJUB5g) | [Beginning](https://open.spotify.com/album/71zJ9HyHJ3BuSJH6kXfcTQ) | 3:24 | 2023-04-21 | 2024-01-24 |
@@ -44,6 +45,7 @@
 | [Cage](https://open.spotify.com/track/3olPYn1wLdOBw4rKYIqVXx) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Tielle](https://open.spotify.com/artist/0o6gAoBM3HpKhCOYQSolLe) | [R∃/MEMBER](https://open.spotify.com/album/77GtJJcdtbg254QMEvQfNr) | 4:46 | 2022-07-27 |  |
 | [CENTURY COLOR](https://open.spotify.com/track/1gzTPfpOuQFs4G9kUdsAX1) | [RAY\-GUNS](https://open.spotify.com/artist/3LGl3rlULamIUsZ5mhB5Qn) | [CENTURY COLOR](https://open.spotify.com/album/2NnLGNv8l4TVDw8lxNMMk8) | 3:10 | 2023-06-19 | 2024-04-19 |
 | [CENTURY COLOR](https://open.spotify.com/track/4fYnEHYFjyDmjXWwPho3E0) | [RAY\-GUNS](https://open.spotify.com/artist/3LGl3rlULamIUsZ5mhB5Qn) | [CENTURY COLOR](https://open.spotify.com/album/1WBqlsCwnWXLSTBYWicFM6) | 3:10 | 2022-07-27 |  |
+| [Clan Battle（I\_011）](https://open.spotify.com/track/4xSEXtQfKsQhbLBtBofy2i) | [Masayuki Hasuo](https://open.spotify.com/artist/2ccZMBisir5eUwa5sWiVFQ) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 3:10 | 2025-01-21 |  |
 | [Coloring By G\-Reco \- "Reconguista in G IV / Love That Cries out in Battle" Ending Theme](https://open.spotify.com/track/5letgaj9Abw061fuVyiDqb) | [Daisuke Hasegawa](https://open.spotify.com/artist/6Dj2vjRrARm88n4AEDgFM4) | [Coloring by G\-Reco \("Reconguista in G IV / Love That Cries out in Battle" Ending Theme\)](https://open.spotify.com/album/2xACiQZsWW9evKOYjCAQwG) | 3:54 | 2022-07-27 | 2024-01-12 |
 | [Confession](https://open.spotify.com/track/6BECTfA1Rl1PqEt0Axu2e4) | [Mayu Wakisaka](https://open.spotify.com/artist/25Mwwt6SDgnDBMaq6xQrrd) | [Confession](https://open.spotify.com/album/6kFEqYbqMR84ZAEcdNHZNl) | 4:12 | 2022-07-27 | 2023-06-16 |
 | [Confession](https://open.spotify.com/track/5zoXKUcFS4dV5J11gns2Bl) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [MOBILE SUIT GUNDAM Twilight AXIS Original Motion Picture Soundtrack](https://open.spotify.com/album/2yo17LlVhmiyEcB4dHj0RH) | 4:12 | 2023-04-21 | 2024-01-12 |
@@ -197,6 +199,7 @@
 | [Result](https://open.spotify.com/track/4FQ8NOw5D10LRlQjwESDUI) | [Nami Tamaki](https://open.spotify.com/artist/4awZsyevkX7tP6nu1rFvUq) | [Graduation 〜Singles〜](https://open.spotify.com/album/4bdX5QQ5zyxxEcYJOsefP2) | 4:16 | 2024-01-11 |  |
 | [RIVER](https://open.spotify.com/track/5mf0n04gtpdXbl9ZGgX1uY) | [Tatsuya Ishii](https://open.spotify.com/artist/07xwiTdCD7TbFYdwXcgr5V) | [super nipops](https://open.spotify.com/album/75agQWCXwsZZWL0ndw9AiU) | 4:51 | 2024-01-11 |  |
 | [SARIGIWA NO ROMANTICS](https://open.spotify.com/track/6debKLiHxraxOhA37Mm1IH) | [See\-Saw](https://open.spotify.com/artist/7FVrkZcfwIc1ZwlQPatdUw) | [SARIGIWA NO ROMANTICS](https://open.spotify.com/album/6FBmyjYZ56DVmV6P1gQNdc) | 4:36 | 2024-01-23 | 2024-04-19 |
+| [Secrets （I\_017）](https://open.spotify.com/track/6Wh0EQ1Uf7zvEPy7srhsqu) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 2:43 | 2025-01-21 |  |
 | [sharp ♯](https://open.spotify.com/track/5GvQzJ462BgEdnZvUdhclb) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/0ZRPPgS3QfIdJbOEqFleo0) | 3:39 | 2022-07-27 | 2024-04-19 |
 | [sharp ♯](https://open.spotify.com/track/70VRn9TesY8dkfxNnEOZhY) | [negoto](https://open.spotify.com/artist/19oTSjL9FYG6cemjnNwiuF) | [5](https://open.spotify.com/album/6mlqY4QJsj8XDIstWD7ZwS) | 3:39 | 2022-07-27 |  |
 | [Shinkai no Kodoku](https://open.spotify.com/track/1sBozAs0W90QHtUq7hz04I) | [Houko Kuwashima](https://open.spotify.com/artist/2yltnBii6LY7kpE8NbkRqP) | [Junshoku brilliant](https://open.spotify.com/album/5MG7aLSNwfHEmXWZ0wo0u6) | 4:00 | 2024-01-11 | 2024-04-19 |
@@ -223,6 +226,7 @@
 | [tears](https://open.spotify.com/track/1eRW9iPUNVl1C0gZFPQYgT) | [lisa](https://open.spotify.com/artist/1sReh6VMvZSAXWOE4zX5sf) | [tears](https://open.spotify.com/album/2GEffYRQulCu1f2NIIIRwO) | 4:23 | 2022-07-27 | 2023-06-18 |
 | [THE BEYOND](https://open.spotify.com/track/6dl8M66EcAPoZQATKRi2yp) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [CROSS](https://open.spotify.com/album/0yGVq0iZ0Ej7OWcYxQzydi) | 5:33 | 2022-07-27 | 2024-01-26 |
 | [THE BEYOND](https://open.spotify.com/track/40YK0ihNtoog79d9Y9LJf9) | [LUNA SEA](https://open.spotify.com/artist/5oiTT9V0uAPYS8TABvvjnS) | [機動戦士ガンダム 40th Anniversary Album \~BEYOND\~](https://open.spotify.com/album/05kgcnRGBB1etslod1gYCh) | 5:35 | 2022-07-27 | 2022-07-29 |
+| [The Girl on a Space colony （I\_006A）](https://open.spotify.com/track/3qcgq1KEFhvVKYvQzAUDFq) | [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX) | ["Mobile Suit Gundam GQuuuuuuX \- Beginning\-" Original Motion Picture Soundtrack](https://open.spotify.com/album/4p67TuedfnQSiYWGyIUZHz) | 2:23 | 2025-01-21 |  |
 | [THE WINNER](https://open.spotify.com/track/2dQh3viWNC3BQnGkuYRton) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [THE WINNER](https://open.spotify.com/album/4xQBkieKQeYJxSb0jSnqtc) | 4:09 | 2022-07-27 |  |
 | [THE WINNER](https://open.spotify.com/track/6vLWoFMzWecjj5U3DvcmBc) | [Miki Matsubara](https://open.spotify.com/artist/4hUmsYcvD8C5zuVSP93jb1) | [THE WINNER](https://open.spotify.com/album/0bMfJnt6F8tmHdIErmuV4l) | 4:09 | 2023-04-21 | 2024-04-19 |
 | [The Witch From Mercury](https://open.spotify.com/track/47g10NHlNL36PGYO0aBSNc) | [Takashi Ohmama](https://open.spotify.com/artist/6QnCjiIm1AvYTRQNRGYgOO) | [Mobile Suit Gundam THE WITCH FROM MERCURY Original Motion Picture Soundtrack \(Incomplete Edition\)](https://open.spotify.com/album/52nq1ArZDp9FEFKbmvoIz3) | 4:59 | 2023-07-02 | 2024-04-19 |

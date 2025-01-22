@@ -2,9 +2,9 @@
 
 ### [TrenChill K\-R&B](https://open.spotify.com/playlist/37i9dQZF1DXbirtHQBuwCo)
 
-> Trendy & Chill Korean R&B music\. \(Cover: HUH YUNJIN\(허윤진\)\)
+> Trendy & Chill Korean R&B music\. \(Cover: ZEROBASEONE\)
 
-791 songs - 1 day 18 hr 4 min
+792 songs - 1 day 18 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -207,6 +207,7 @@
 | [Do](https://open.spotify.com/track/5jtm4uDYLZXYK84iorHOKF) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Do](https://open.spotify.com/album/7K165jm1VJckEwlPU3rnkX) | 2:45 | 2023-10-31 | 2023-12-09 |
 | [DO \(Feat\. LeeHi\)](https://open.spotify.com/track/2MVEiDjCneHRZxmv10rb5l) | [Padi](https://open.spotify.com/artist/2SZEuuHNzveriZr2YtUFj5), [LeeHi](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Answer Answer](https://open.spotify.com/album/0r7yewj1OlyCzhDk2tmYjP) | 3:04 | 2023-05-24 | 2023-06-02 |
 | [Do It For Love](https://open.spotify.com/track/3tC3R06TJCS4FIN7WD2cE8) | [THAMA](https://open.spotify.com/artist/1Ktiv08TbBy195pQUH8Qld), [george](https://open.spotify.com/artist/2pRZp2WxvnWWiSPcSSYkNV) | [Do It For Love](https://open.spotify.com/album/5Lfj1q7yma8paab1MMk734) | 3:31 | 2022-06-03 | 2022-07-28 |
+| [Doctor! Doctor!](https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs) | [ZEROBASEONE](https://open.spotify.com/artist/7cjg7EkeZy3OI5o9Qthc6n) | [Doctor! Doctor!](https://open.spotify.com/album/3CNyLUNNW8lRWVHccyGokL) | 2:32 | 2025-01-21 |  |
 | [DOMINO](https://open.spotify.com/track/3HZwxfaiby2jaWKL7hrzD4) | [SAAY](https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18) | [DOMINO](https://open.spotify.com/album/7e4ypxtFCm1wIkerQLcS6B) | 3:14 | 2024-06-12 | 2024-06-29 |
 | [DON'T](https://open.spotify.com/track/49nzDNR4naSzzFWSxXwYYm) | [JONGHAN](https://open.spotify.com/artist/19nfSOK32q1wCk8TIaKBV8) | [DON'T](https://open.spotify.com/album/4y7KxLhbH8ca9OOrYoKWZm) | 3:49 | 2022-05-02 | 2022-07-22 |
 | [Don't ever say love me \(feat\. RM of BTS\)](https://open.spotify.com/track/34o6gteNy2T5rieA0xYAgo) | [Colde](https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Love Part 2](https://open.spotify.com/album/1llUyjGU6LXQzd2oJCzh4S) | 3:34 | 2023-05-04 | 2024-10-31 |
@@ -513,7 +514,7 @@
 | [Ocean](https://open.spotify.com/track/1EzWBwaHeeG2Ouvm8Ut6M3) | [Dine On](https://open.spotify.com/artist/2g01abs3qIjlIJ57gmYT5l) | [Ocean](https://open.spotify.com/album/6iLrhuIFo0MdcN1JOn25tw) | 3:45 | 2022-04-19 | 2022-04-21 |
 | [Off my mind](https://open.spotify.com/track/2Rv5Ax7psNC3BzrEhebdZl) | [Ellui](https://open.spotify.com/artist/4ZKxiNM9m75TMnTqcRnIP7) | [Off my mind](https://open.spotify.com/album/1oUuWwDuOTt26F102g6CIA) | 3:02 | 2022-07-07 | 2022-07-27 |
 | [Officially Cool](https://open.spotify.com/track/52rdnAZoYsEbguqMwCOeLi) | [BANG YEDAM](https://open.spotify.com/artist/1slszTGbkp1uNnI6G5uD0X), [WINTER](https://open.spotify.com/artist/3mPquBmMu97Iq9TpzQ6ayI) | [Officially Cool](https://open.spotify.com/album/7ak1PBCmrVLvOANEenebe9) | 2:57 | 2024-04-03 | 2024-07-07 |
-| [Oh, really](https://open.spotify.com/track/7k9n9uswHNxkDyCyurpfjE) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [BünyTune](https://open.spotify.com/artist/7fi5SKEN6A2w5uzxlUyZIY) | [BünyTune ep.1 \[Oh, really\]](https://open.spotify.com/album/5dYVwufw2APWlO2MawZUsO) | 2:35 | 2025-01-15 |  |
+| [Oh, really](https://open.spotify.com/track/7k9n9uswHNxkDyCyurpfjE) | [Gist](https://open.spotify.com/artist/7MWT3sTDz6GemZla4Y5oCk), [BünyTune](https://open.spotify.com/artist/7fi5SKEN6A2w5uzxlUyZIY) | [BünyTune ep.1 \[Oh, really\]](https://open.spotify.com/album/5dYVwufw2APWlO2MawZUsO) | 2:35 | 2025-01-15 | 2025-01-22 |
 | [omg, so what?](https://open.spotify.com/track/7w7yjYakkCuf3gtznG9Cjf) | [NIve](https://open.spotify.com/artist/1qOPo6b0U3t7BpyO8Ti1MF) | [proLOG?](https://open.spotify.com/album/1gIBXpQgHBtWBLmcQxEkZ9) | 2:40 | 2022-04-22 | 2022-07-26 |
 | [On It \(Feat\. Tory Lanez, SOLE, Sik\-K\)](https://open.spotify.com/track/4tc6jFemqDpwwuobpf9dMS) | [Devine Channel](https://open.spotify.com/artist/1iiRxmY7WhgsWtLgtZGfrw), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg), [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt), [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn) | [On It](https://open.spotify.com/album/2SPO2Os0TOOrpU6PprfJQ4) | 3:03 | 2022-06-16 | 2022-07-05 |
 | [On my mind](https://open.spotify.com/track/14nJ3FvG5dtIwQpMLY4c5B) | [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw), [HEIZE](https://open.spotify.com/artist/5dCvSnVduaFleCnyy98JMo) | [EXchange3, Pt\. 1 \(Original Soundtrack\)](https://open.spotify.com/album/0txF5TrDoRmAUR333JLinq) | 3:21 | 2024-03-08 | 2024-03-15 |

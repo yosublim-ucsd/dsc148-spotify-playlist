@@ -1,6 +1,6 @@
 {
   "description": "The iconic songs celebrating love across the African continent from the 2000's to date",
-  "num_followers": 81107,
+  "num_followers": 81189,
   "original_name": "100 Best African Love Songs ",
   "owner": {
     "name": "Spotify",
@@ -395,22 +395,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Elements",
-        "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
-      },
-      "artists": [
-        {
-          "name": "Elaine",
-          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
-        }
-      ],
-      "duration_ms": 200347,
-      "name": "You're the One",
-      "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Baby",
         "url": "https://open.spotify.com/album/41pcUIAFrsou8ikyNIN8Kn"
       },
@@ -423,6 +407,22 @@
       "duration_ms": 165448,
       "name": "Baby",
       "url": "https://open.spotify.com/track/0Yz6pPFinS7EKfaZRMY4uT"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Elements",
+        "url": "https://open.spotify.com/album/4qe0NJuKzO5iWPv1aFl3l3"
+      },
+      "artists": [
+        {
+          "name": "Elaine",
+          "url": "https://open.spotify.com/artist/5ZkuGe2wkDbeL8JmmhvMOx"
+        }
+      ],
+      "duration_ms": 200347,
+      "name": "You're the One",
+      "url": "https://open.spotify.com/track/4fxwbUSI6jF4XdnvCUVG97"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -823,22 +823,6 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
-        "name": "Malaika",
-        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
-      },
-      "artists": [
-        {
-          "name": "Malaika",
-          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
-        }
-      ],
-      "duration_ms": 442533,
-      "name": "Destiny",
-      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
         "name": "Mr Serious",
         "url": "https://open.spotify.com/album/1Mp78edBGfz7wyNuBGdwwN"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 293613,
       "name": "Mthande",
       "url": "https://open.spotify.com/track/3bW1gXFSmF4JCDYeu7Nzx4"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
+        "name": "Malaika",
+        "url": "https://open.spotify.com/album/1BNliBcI4tJ0g8t81w8n7z"
+      },
+      "artists": [
+        {
+          "name": "Malaika",
+          "url": "https://open.spotify.com/artist/1CfUYtjNZALWpmoPCiL1aM"
+        }
+      ],
+      "duration_ms": 442533,
+      "name": "Destiny",
+      "url": "https://open.spotify.com/track/5mLqm5pmZozHmJltZrlUVT"
     },
     {
       "added_at": "2025-01-09 10:09:30",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2025-01-09 10:09:30",
       "album": {
+        "name": "Goosebumps",
+        "url": "https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO"
+      },
+      "artists": [
+        {
+          "name": "Takura",
+          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
+        }
+      ],
+      "duration_ms": 180618,
+      "name": "Goosebumps",
+      "url": "https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg"
+    },
+    {
+      "added_at": "2025-01-09 10:09:30",
+      "album": {
         "name": "Number One",
         "url": "https://open.spotify.com/album/6BrOCsoGXHrKUYDcdWB7or"
       },
@@ -1359,22 +1375,6 @@
       "duration_ms": 191893,
       "name": "Number One",
       "url": "https://open.spotify.com/track/2dwGGWdVf8aeA1EPpE5qf7"
-    },
-    {
-      "added_at": "2025-01-09 10:09:30",
-      "album": {
-        "name": "Goosebumps",
-        "url": "https://open.spotify.com/album/5oYRVVr3VpSZUbSVs8qdrO"
-      },
-      "artists": [
-        {
-          "name": "Takura",
-          "url": "https://open.spotify.com/artist/5h7nWgcp5DTynhz4iaq0Ri"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Goosebumps",
-      "url": "https://open.spotify.com/track/3PVsR6aaeew70EalO4cVQg"
     },
     {
       "added_at": "2025-01-09 10:09:30",

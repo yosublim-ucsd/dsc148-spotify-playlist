@@ -4,7 +4,7 @@
 
 > Some of the most influential and innovative voices in afrobeats, afropop, amapiano, hiplife and everything in between, from earliest acts to newest stars\. <br/><br/>Cover: BLNDE
 
-91 songs - 4 hr 27 min
+92 songs - 4 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [Ah Well](https://open.spotify.com/track/2JtaWZbCiOA0i09pTWH2JQ) | [Baaba J](https://open.spotify.com/artist/151OS9nfrfYQ8UlnakRMek), [Oladapo](https://open.spotify.com/artist/6HAro8NBhDtn8csZDPEBuB), [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [Ah Well](https://open.spotify.com/album/1PZMEss8Vhv50mIZKu6jho) | 3:12 | 2024-11-29 |  |
 | [American Love](https://open.spotify.com/track/5c1rWQAa8GX8LgCC9h3d1N) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Qing Madi](https://open.spotify.com/album/03pDzWfMzVVQL3BRVIutJn) | 3:09 | 2024-11-29 |  |
 | [Away](https://open.spotify.com/track/02h9uEkJHNtbzYykRxUP6e) | [Melodi](https://open.spotify.com/artist/7b5kXmzqiMl9nISoJVe08J) | [Something In A Name, Vol.1](https://open.spotify.com/album/6IJLRCfP4e74opV6FZ6ORm) | 2:51 | 2024-11-29 |  |
-| [Bad Company](https://open.spotify.com/track/5sVlhCWCwy6hVL9xyCx743) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Bad Company](https://open.spotify.com/album/1jSyrNNZhhH0ETSZzJACWf) | 3:05 | 2025-01-17 |  |
+| [Bad Company](https://open.spotify.com/track/5sVlhCWCwy6hVL9xyCx743) | [Bella Alubo](https://open.spotify.com/artist/4QorJVeBcR8p3rOveZtpSk) | [Bad Company](https://open.spotify.com/album/1jSyrNNZhhH0ETSZzJACWf) | 3:05 | 2025-01-17 | 2025-01-22 |
 | [Bad Vibes \(feat\. Seyi Vibez\)](https://open.spotify.com/track/6HTjqv0AsiZ34fOMcGCbSX) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Bad Vibes](https://open.spotify.com/album/00Z9OpzSflzHQuKMrR315g) | 2:48 | 2024-11-29 |  |
 | [Bigger Picture](https://open.spotify.com/track/21ZDmEYeHbewO0pXOOrXKD) | [Victoria Kimani](https://open.spotify.com/artist/6HbeytIa6j2WCdPQzCrXpf) | [Mood 4 Life](https://open.spotify.com/album/6wVGimVZZwzEE5Oxo5G2ej) | 2:28 | 2024-11-29 |  |
 | [BISOUS](https://open.spotify.com/track/1V2NorIjuRXla69SxsYIcs) | [Chrystel](https://open.spotify.com/artist/256du56ykQ0aoQBdKFCDH0) | [BISOUS](https://open.spotify.com/album/4yI7pgYcbAcsV9v4VlbHSH) | 2:43 | 2025-01-17 |  |
@@ -32,6 +32,7 @@
 | [Favourite Girl](https://open.spotify.com/track/6UTXf9k0H3JDus2ZZDwGpC) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Favourite Girl](https://open.spotify.com/album/1sbGuc7mOIgMFQoNFJHaRh) | 2:36 | 2024-11-29 |  |
 | [Feel](https://open.spotify.com/track/6QAh6o8F6oo587BIgdrUY6) | [Yaans](https://open.spotify.com/artist/2aBmsHCMYVxE84mbhFhj4k), [Toby Grey](https://open.spotify.com/artist/7eJwlZzlct7anXWaMKT3ww) | [Feel](https://open.spotify.com/album/4w5jLWFYcKrf1sCQda1oUV) | 3:25 | 2024-11-29 |  |
 | [Feel Your Soul](https://open.spotify.com/track/6l70v6PAM2O99OBmcakjH1) | [Princess Ade](https://open.spotify.com/artist/0o3q4sHZujIMTR1Vjmt3YF) | [Feel Your Soul](https://open.spotify.com/album/2VKHky6WRk9DqIrJTVD3gm) | 2:32 | 2024-11-29 |  |
+| [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 | 2025-01-21 |  |
 | [Forgiveness](https://open.spotify.com/track/07OJogL5UIkQJSMsrheV8S) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc) | [Forgiveness](https://open.spotify.com/album/0M6PAfVvTAVT9uUtYDiOd9) | 3:20 | 2024-11-29 |  |
 | [Gara \(feat\. Ayra Starr\)](https://open.spotify.com/track/4FoPiQu25ouBFSZJIhCkc0) | [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Water & Garri \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/21y5KxfsNHRVikyNTWLaHy) | 2:31 | 2024-11-29 |  |
 | [Goodbye \(Warm Up\)\(feat\. Asake\)](https://open.spotify.com/track/7vAXxDFUHDPxWzSujxb8jB) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:43 | 2024-11-29 |  |
@@ -47,7 +48,7 @@
 | [Jump](https://open.spotify.com/track/0ve0CavjqrUqVmZ605RhTV) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ), [Skillibeng](https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst) | [Jump](https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX) | 2:27 | 2024-11-29 |  |
 | [Kalm](https://open.spotify.com/track/3D7pl4aAhin72XouISYMt5) | [April Maey](https://open.spotify.com/artist/0CyVkXQydhAi8gPILbXb99) | [Moonchild](https://open.spotify.com/album/69lCC4Yw8FZebq1OW5sOkg) | 3:02 | 2024-11-29 |  |
 | [Kash and Karry](https://open.spotify.com/track/3biNFviRXIJFhNULZxZHM0) | [Raebel](https://open.spotify.com/artist/0KI1FiHaIOzeP9UFB8l6LO) | [Kash and Karry](https://open.spotify.com/album/0tqImbmIBOdXGzPKBDbFo2) | 2:57 | 2024-11-29 |  |
-| [Lady](https://open.spotify.com/track/4KoqSg05fJYLpupUTcmNH7) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Nollypop](https://open.spotify.com/album/03P1bGF9cq12v8ZXxj0EJT) | 2:09 | 2024-12-16 |  |
+| [Lady](https://open.spotify.com/track/4KoqSg05fJYLpupUTcmNH7) | [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [Nollypop](https://open.spotify.com/album/03P1bGF9cq12v8ZXxj0EJT) | 2:09 | 2024-12-16 | 2025-01-22 |
 | [Lollipop \(feat\. Yemi Alade\)](https://open.spotify.com/track/5DhQIwNA48BPilqvSXW6zm) | [Zuchu](https://open.spotify.com/artist/6LzSS8yBk2YQpAvQxzOu0M), [Yemi Alade](https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW) | [Peace And Money](https://open.spotify.com/album/47pNTi044pGat6ihhj9Vo2) | 2:21 | 2024-12-20 |  |
 | [Love Life](https://open.spotify.com/track/5FD19z2xU2pnDFhP10JHHu) | [Juno](https://open.spotify.com/artist/1K8EfKCk74fvBfCFiyK8is) | [Love Life](https://open.spotify.com/album/1Dj0QoB1PtvVFtHH0pVFEJ) | 2:25 | 2024-11-29 | 2024-12-17 |
 | [Love Me JeJe](https://open.spotify.com/track/47hsUYxvbTlBAN3sP9dEOd) | [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [Love Me JeJe](https://open.spotify.com/album/0DSIfkfmDDNRbB87Xk0ipd) | 2:58 | 2024-11-29 |  |
@@ -74,7 +75,7 @@
 | [People](https://open.spotify.com/track/26b3oVLrRUaaybJulow9kz) | [Libianca](https://open.spotify.com/artist/7kjSuFGKhLm8b5qXoMhRkJ) | [People](https://open.spotify.com/album/5Hmh6N8oisrcuZKa8EY5dn) | 3:04 | 2024-11-29 |  |
 | [Pretty Girl Bop](https://open.spotify.com/track/0SAsey25lSxwPdAaGkKZqA) | [Aramide](https://open.spotify.com/artist/3MnR60ldjXYo42lHIZEPvo) | [Hear Me Out](https://open.spotify.com/album/32SYdv9QzscXqSV4tQc1qC) | 2:18 | 2024-11-29 |  |
 | [PUSH 2 START](https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [TYLA +](https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13) | 2:36 | 2024-11-29 |  |
-| [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 | 2024-11-29 |  |
+| [Rappel](https://open.spotify.com/track/7CjR90qslGmLW5dsnaKZay) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Rappel](https://open.spotify.com/album/5lo9NrxVfWLQLcQ9D8WAaX) | 2:27 | 2024-11-29 | 2025-01-22 |
 | [Rent Free](https://open.spotify.com/track/320cXn7htYGuAzNyxLDs3M) | [Gyakie](https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ) | [Rent Free](https://open.spotify.com/album/6cryLTyBj54kNA59giEvbA) | 2:16 | 2024-11-29 |  |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2024-11-29 |  |
 | [Shut It Down](https://open.spotify.com/track/40jF2YHJeU1UuUQlpEytOa) | [SuperSmashBroz](https://open.spotify.com/artist/4o05vkR7aQMnPRbAqVk13x), [FAVE](https://open.spotify.com/artist/4wAqlYtTaaHELEgyCh9KjG) | [Shut It Down](https://open.spotify.com/album/4NFsaJ1UmtPYUdoqrfHm7J) | 2:59 | 2024-11-29 | 2024-12-21 |
