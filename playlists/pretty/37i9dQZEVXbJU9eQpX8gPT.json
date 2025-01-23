@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Morocco.",
-  "num_followers": 66455,
+  "num_followers": 66466,
   "original_name": "Top 50 - Morocco",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LyMLSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LyRcyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "OMEGA",
         "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/7L6iM8mnj0t2WW0Fjre5pG"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -41,7 +41,7 @@
       "url": "https://open.spotify.com/track/17AuJgvjtgyQ7QogOS9zMY"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -57,7 +57,23 @@
       "url": "https://open.spotify.com/track/3tPQhYGRaNjCk1QI1vee8e"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 196706,
+      "name": "DIPLOMATICO",
+      "url": "https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -77,23 +93,7 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "SALGOAT",
-        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 196706,
-      "name": "DIPLOMATICO",
-      "url": "https://open.spotify.com/track/0jweHzprxjQSDTcxjoX4Og"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "CAPITALE DU CRIME RADIO",
         "url": "https://open.spotify.com/album/3GMtKNuvvpiZ6AWsvEGIxe"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/2cbgw1iPeK7dMbOnhD9e8y"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "OMEGA",
         "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
@@ -129,23 +129,7 @@
       "url": "https://open.spotify.com/track/1UKmPtidnG6bweLNSF60b5"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "Lalla w Mali",
         "url": "https://open.spotify.com/album/1PJZUE8mS0n32Rbf7buCXl"
@@ -161,7 +145,7 @@
       "url": "https://open.spotify.com/track/3Thycu4Wd5AwGFDYYWiioT"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
@@ -177,23 +161,7 @@
       "url": "https://open.spotify.com/track/0AUEVIEFpYGpCUWFvtItPQ"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "OMEGA",
-        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "FOREVER",
-      "url": "https://open.spotify.com/track/6C30qhTvYwramIzP9vQgtD"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "Dawini",
         "url": "https://open.spotify.com/album/3013V6wepDbBnb81uVU95j"
@@ -213,7 +181,7 @@
       "url": "https://open.spotify.com/track/5d54P8T7TXGwE2d0zyN3uu"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "3DABI",
         "url": "https://open.spotify.com/album/7vNeALOBMp5Ls66hsev84r"
@@ -229,23 +197,23 @@
       "url": "https://open.spotify.com/track/4knNlB73rkLODZU03Xjx7x"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
-        "name": "27",
-        "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
       },
       "artists": [
         {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
         }
       ],
-      "duration_ms": 187826,
-      "name": "BLUE LOVE",
-      "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
+      "duration_ms": 151500,
+      "name": "FOREVER",
+      "url": "https://open.spotify.com/track/6C30qhTvYwramIzP9vQgtD"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "Mahboul Ana",
         "url": "https://open.spotify.com/album/5MM2Wa6hlvuiwun1RgvRlm"
@@ -261,7 +229,7 @@
       "url": "https://open.spotify.com/track/0bBDTxFPjtuWAdqLLq55u1"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -277,23 +245,43 @@
       "url": "https://open.spotify.com/track/5m441qiFI5yqfzG19ZLqIJ"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
-        "name": "OMEGA",
-        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
+        "name": "27",
+        "url": "https://open.spotify.com/album/7reIwvnsIotYtgBcyud7SC"
       },
       "artists": [
         {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
         }
       ],
-      "duration_ms": 180000,
-      "name": "SAKA",
-      "url": "https://open.spotify.com/track/4YxQW5226q4oacUOSbfIFS"
+      "duration_ms": 187826,
+      "name": "BLUE LOVE",
+      "url": "https://open.spotify.com/track/0YZ2ANy2Hhf21koqFpph5F"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "Ghali",
+        "url": "https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg"
+      },
+      "artists": [
+        {
+          "name": "Duke",
+          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
+        },
+        {
+          "name": "Kawtar",
+          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
+        }
+      ],
+      "duration_ms": 179897,
+      "name": "Ghali",
+      "url": "https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "Obligaci\u00f3n",
         "url": "https://open.spotify.com/album/25WeAM9PSYPrpUjovpNYvz"
@@ -317,43 +305,23 @@
       "url": "https://open.spotify.com/track/2OkDSD6ZTzHGgYF4j10c0m"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
-        "name": "OMEGA",
-        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
+        "name": "Dracula",
+        "url": "https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR"
       },
       "artists": [
         {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+          "name": "Bo9al",
+          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
         }
       ],
-      "duration_ms": 179500,
-      "name": "TWINS",
-      "url": "https://open.spotify.com/track/3IeTr3DQ1SSTrBGUUAGqln"
+      "duration_ms": 180618,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "Ghali",
-        "url": "https://open.spotify.com/album/6lJYLIGoeGsEEk1gdsClwg"
-      },
-      "artists": [
-        {
-          "name": "Duke",
-          "url": "https://open.spotify.com/artist/6JLJjTC6pSfJousfGwdn6r"
-        },
-        {
-          "name": "Kawtar",
-          "url": "https://open.spotify.com/artist/4B9s73FXhLx5FXLabyWa2m"
-        }
-      ],
-      "duration_ms": 179897,
-      "name": "Ghali",
-      "url": "https://open.spotify.com/track/2rXnsktUWQq532AnK0Bmm3"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -373,7 +341,39 @@
       "url": "https://open.spotify.com/track/3Lny9bxBD9hDrKS61vmgdW"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 179500,
+      "name": "TWINS",
+      "url": "https://open.spotify.com/track/3IeTr3DQ1SSTrBGUUAGqln"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "SAKA",
+      "url": "https://open.spotify.com/track/4YxQW5226q4oacUOSbfIFS"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "112",
         "url": "https://open.spotify.com/album/6RjXahScY92fiEQRiZMhbF"
@@ -389,7 +389,23 @@
       "url": "https://open.spotify.com/track/7LXk7g4i8JxXXWNhDrSQq4"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "TABOUT",
+        "url": "https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN"
+      },
+      "artists": [
+        {
+          "name": "KALIL",
+          "url": "https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR"
+        }
+      ],
+      "duration_ms": 199968,
+      "name": "TABOUT",
+      "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "Brrr",
         "url": "https://open.spotify.com/album/1NjDEG7GvcTtiNH2EIBG3s"
@@ -413,107 +429,7 @@
       "url": "https://open.spotify.com/track/5AsFXMwPS6zMIGY8MSFn5L"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "TABOUT",
-        "url": "https://open.spotify.com/album/2vXRmVPypEWtG7azGOD0gN"
-      },
-      "artists": [
-        {
-          "name": "KALIL",
-          "url": "https://open.spotify.com/artist/2dvRuyAsoUIYUNKnP2miWR"
-        }
-      ],
-      "duration_ms": 199968,
-      "name": "TABOUT",
-      "url": "https://open.spotify.com/track/5J2Bor0WtYLy76D229gh8j"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "Mizane",
-        "url": "https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        },
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 177049,
-      "name": "Mizane",
-      "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "OMEGA",
-        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "ALBATROS",
-      "url": "https://open.spotify.com/track/3nrzylrxjpRueVGBBpXhZT"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "Dracula",
-        "url": "https://open.spotify.com/album/78xV80fjWA4rcJy68ciWjR"
-      },
-      "artists": [
-        {
-          "name": "Bo9al",
-          "url": "https://open.spotify.com/artist/0DF2Pcrc3dY80zqbmgKHCF"
-        }
-      ],
-      "duration_ms": 180618,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/1kwCxlRJwYQvCS9VT9Gs53"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "SUE\u00d1O MAGNIFICO",
-        "url": "https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7"
-      },
-      "artists": [
-        {
-          "name": "Najm",
-          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
-        }
-      ],
-      "duration_ms": 136968,
-      "name": "LOTSOFLOVE",
-      "url": "https://open.spotify.com/track/6x4eiL3u5iWWDVumT8JSqd"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "NDAM!",
-        "url": "https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m"
-      },
-      "artists": [
-        {
-          "name": "Najm",
-          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
-        }
-      ],
-      "duration_ms": 203225,
-      "name": "NDAM!",
-      "url": "https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -533,42 +449,10 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "Galbi",
-        "url": "https://open.spotify.com/album/7s8QuvXwW32SxoX8X6aGpT"
-      },
-      "artists": [
-        {
-          "name": "Ali S",
-          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
-        }
-      ],
-      "duration_ms": 163932,
-      "name": "Galbi",
-      "url": "https://open.spotify.com/track/5AA6ny0PZ4dBw72q1JZcHV"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+        "name": "OMEGA",
+        "url": "https://open.spotify.com/album/2WOuni1EwCyGVYIeN0LXXt"
       },
       "artists": [
         {
@@ -576,12 +460,44 @@
           "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
         }
       ],
-      "duration_ms": 160000,
-      "name": "MARADONA",
-      "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
+      "duration_ms": 198000,
+      "name": "ALBATROS",
+      "url": "https://open.spotify.com/track/3nrzylrxjpRueVGBBpXhZT"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "NDAM!",
+        "url": "https://open.spotify.com/album/5gIn00hPqJbYfENYCSJG3m"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "duration_ms": 203225,
+      "name": "NDAM!",
+      "url": "https://open.spotify.com/track/2ITBHhygkMRvqD5D3IPCz5"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "SUE\u00d1O MAGNIFICO",
+        "url": "https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7"
+      },
+      "artists": [
+        {
+          "name": "Najm",
+          "url": "https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI"
+        }
+      ],
+      "duration_ms": 136968,
+      "name": "LOTSOFLOVE",
+      "url": "https://open.spotify.com/track/6x4eiL3u5iWWDVumT8JSqd"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "ICEBERG",
         "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
@@ -597,7 +513,91 @@
       "url": "https://open.spotify.com/track/7B0k8YTfKzj9BGVaLYXtub"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "Mizane",
+        "url": "https://open.spotify.com/album/0B3pwjGpRKXqwnzHiRsVKc"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        },
+        {
+          "name": "Inkonnu",
+          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
+        }
+      ],
+      "duration_ms": 177049,
+      "name": "Mizane",
+      "url": "https://open.spotify.com/track/0SaMca4zsaUTTzNv5haull"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "ICEBERG",
+        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
+      },
+      "artists": [
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "MARADONA",
+      "url": "https://open.spotify.com/track/1GxUG5xWcY2R9hQ3NcE5ya"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "Galbi",
+        "url": "https://open.spotify.com/album/12ZmFO1wviDbuAj74J2fBQ"
+      },
+      "artists": [
+        {
+          "name": "Ali S",
+          "url": "https://open.spotify.com/artist/6L7RfKlbIHQPxKbLizN9ts"
+        }
+      ],
+      "duration_ms": 163137,
+      "name": "Galbi",
+      "url": "https://open.spotify.com/track/4FKw2QmsUZX8AeAdM7RDt9"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "3oud Ned",
+        "url": "https://open.spotify.com/album/7nzIgE8K3tivGiXYI18lvL"
+      },
+      "artists": [
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "duration_ms": 210744,
+      "name": "3oud Ned",
+      "url": "https://open.spotify.com/track/2QNi63loCz71LN8MnK38db"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "Badadi",
         "url": "https://open.spotify.com/album/250j3jUtT9Ow3oy67N9vuB"
@@ -613,7 +613,39 @@
       "url": "https://open.spotify.com/track/1dBv07ZgvsNBeQs2lJon6W"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 212973,
+      "name": "DINERO",
+      "url": "https://open.spotify.com/track/0gwG2qqU3xhROaJVnnWpTE"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "2x1",
+        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
+      },
+      "artists": [
+        {
+          "name": "LFERDA",
+          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
+        }
+      ],
+      "duration_ms": 204350,
+      "name": "San Siro",
+      "url": "https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -633,39 +665,7 @@
       "url": "https://open.spotify.com/track/7Gicb6BCfIgnAU8h4f5UUH"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "2x1",
-        "url": "https://open.spotify.com/album/5jVfTzpviF4GNj47qcrGbp"
-      },
-      "artists": [
-        {
-          "name": "LFERDA",
-          "url": "https://open.spotify.com/artist/0bmKQDkU4J3gUykZS8tb6v"
-        }
-      ],
-      "duration_ms": 204350,
-      "name": "San Siro",
-      "url": "https://open.spotify.com/track/20CeXYgWoJdheBiI89QgcK"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "SALGOAT",
-        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
-      },
-      "artists": [
-        {
-          "name": "ElGrandeToto",
-          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
-        }
-      ],
-      "duration_ms": 212973,
-      "name": "DINERO",
-      "url": "https://open.spotify.com/track/0gwG2qqU3xhROaJVnnWpTE"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -681,43 +681,7 @@
       "url": "https://open.spotify.com/track/1in9uCiDylbrfaF08qFb96"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "Si tu savais",
-        "url": "https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC"
-      },
-      "artists": [
-        {
-          "name": "Anys",
-          "url": "https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw"
-        },
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 192340,
-      "name": "Si tu savais",
-      "url": "https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "Dawk Lya",
-        "url": "https://open.spotify.com/album/3SsWWoOTknktoO93s8xbNi"
-      },
-      "artists": [
-        {
-          "name": "Snor",
-          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Dawk Lya",
-      "url": "https://open.spotify.com/track/6Z6Z0DliiVFzhp3vLrvT1N"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -737,7 +701,43 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "Dawk Lya",
+        "url": "https://open.spotify.com/album/3SsWWoOTknktoO93s8xbNi"
+      },
+      "artists": [
+        {
+          "name": "Snor",
+          "url": "https://open.spotify.com/artist/7LC7LQ1f1CzaRLobFcblZN"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Dawk Lya",
+      "url": "https://open.spotify.com/track/6Z6Z0DliiVFzhp3vLrvT1N"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "Si tu savais",
+        "url": "https://open.spotify.com/album/4eJ1pf1NnVRxCUu2sgasiC"
+      },
+      "artists": [
+        {
+          "name": "Anys",
+          "url": "https://open.spotify.com/artist/1YjFEw5PirL57vHDoCMkhw"
+        },
+        {
+          "name": "Stormy",
+          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
+        }
+      ],
+      "duration_ms": 192340,
+      "name": "Si tu savais",
+      "url": "https://open.spotify.com/track/2XoeD3lix5eVNEa40ZFtHW"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "Taulier",
         "url": "https://open.spotify.com/album/2mcTAfultyCrXKx1IE1XQZ"
@@ -757,7 +757,87 @@
       "url": "https://open.spotify.com/track/3ejjmzEsUfObGdmmQRVmM2"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "Lmanetta Khassra",
+        "url": "https://open.spotify.com/album/0q8bOqBqaQxf8Q6sAHY53N"
+      },
+      "artists": [
+        {
+          "name": "Figoshin",
+          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
+        }
+      ],
+      "duration_ms": 214588,
+      "name": "Lmanetta Khassra",
+      "url": "https://open.spotify.com/track/0yfGPJsmXJRojgzN4Nu0PZ"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "SALGOAT",
+        "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
+      },
+      "artists": [
+        {
+          "name": "ElGrandeToto",
+          "url": "https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx"
+        }
+      ],
+      "duration_ms": 172346,
+      "name": "5E ARRONDISSEMENT",
+      "url": "https://open.spotify.com/track/4SuqeO3dyNKT9plI4hdxvJ"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "HWASI",
+        "url": "https://open.spotify.com/album/4pkzeEKYWLG9ffDJKb7QOd"
+      },
+      "artists": [
+        {
+          "name": "Lbenj",
+          "url": "https://open.spotify.com/artist/1H0D7p5aN8tGG8DPLt0Nbv"
+        }
+      ],
+      "duration_ms": 223278,
+      "name": "HWASI",
+      "url": "https://open.spotify.com/track/2HfjQWIHWBmEp2LocJsp11"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
+        "url": "https://open.spotify.com/album/6DAw2PoGBVo2lggm87EgG6"
+      },
+      "artists": [
+        {
+          "name": "Bilel Tacchini",
+          "url": "https://open.spotify.com/artist/2QtIVRuCdO2a4RWyoF4ayb"
+        }
+      ],
+      "duration_ms": 186036,
+      "name": "\u0634\u0648\u0641\u0648 \u0644\u0627\u0645\u0648\u0631 \u0645\u0627\u062f\u0627\u0631 \u0641\u064a\u0627",
+      "url": "https://open.spotify.com/track/0yvcSDx1WMdxnUHhqG7PEh"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
+      "album": {
+        "name": "EL COMIENZO",
+        "url": "https://open.spotify.com/album/6MikZBKCtKfPM4439yzBRz"
+      },
+      "artists": [
+        {
+          "name": "FloyyMenor",
+          "url": "https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy"
+        }
+      ],
+      "duration_ms": 134930,
+      "name": "PELIGROSA",
+      "url": "https://open.spotify.com/track/42wdz3j7gstgUuhoFLCXqd"
+    },
+    {
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "SUE\u00d1O MAGNIFICO",
         "url": "https://open.spotify.com/album/1LCrYZK1gnCydeiRLOsqU7"
@@ -773,71 +853,7 @@
       "url": "https://open.spotify.com/track/2nBxbWSTEo2hxo5opMViwn"
     },
     {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "3oud Ned",
-        "url": "https://open.spotify.com/album/7nzIgE8K3tivGiXYI18lvL"
-      },
-      "artists": [
-        {
-          "name": "Figoshin",
-          "url": "https://open.spotify.com/artist/7vg7wkmGzMEM7p2ZkMPHJS"
-        }
-      ],
-      "duration_ms": 210744,
-      "name": "3oud Ned",
-      "url": "https://open.spotify.com/track/2QNi63loCz71LN8MnK38db"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "SO HIGH",
-      "url": "https://open.spotify.com/track/4nQfvKT9yLvccSIpQgJ8ME"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "YAKINE",
-        "url": "https://open.spotify.com/album/5LuZWDplnk8b6cL0BV3SJ9"
-      },
-      "artists": [
-        {
-          "name": "L'morphine",
-          "url": "https://open.spotify.com/artist/4vyibjuGePnrB7BzbHkA6u"
-        }
-      ],
-      "duration_ms": 200909,
-      "name": "We9tna",
-      "url": "https://open.spotify.com/track/2rh4EGUcaSSSir82rbfoua"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "ICEBERG",
-        "url": "https://open.spotify.com/album/3zKwuAbA8kBGjwgGhebvI5"
-      },
-      "artists": [
-        {
-          "name": "Stormy",
-          "url": "https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh"
-        }
-      ],
-      "duration_ms": 209000,
-      "name": "MOON",
-      "url": "https://open.spotify.com/track/4FK1eYp1arE2jiuAgluOtt"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
+      "added_at": "2025-01-22 14:00:02",
       "album": {
         "name": "SALGOAT",
         "url": "https://open.spotify.com/album/6iAVrBmZ9ZNcdwclpryp89"
@@ -859,22 +875,6 @@
       "duration_ms": 226866,
       "name": "BLING BLING (feat. HD La Rel\u00e8ve & JRK 19)",
       "url": "https://open.spotify.com/track/4IBSUbRqF73BVNXUlMyFGb"
-    },
-    {
-      "added_at": "2025-01-21 14:14:22",
-      "album": {
-        "name": "Arabi",
-        "url": "https://open.spotify.com/album/5BYolD1SiHzv16i7sqxhAX"
-      },
-      "artists": [
-        {
-          "name": "Inkonnu",
-          "url": "https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4"
-        }
-      ],
-      "duration_ms": 165714,
-      "name": "7ali Ya 7ali",
-      "url": "https://open.spotify.com/track/0e7rIlMjTs8DsDxrWb5cGo"
     }
   ],
   "unique_name": "Top 50 - Morocco",

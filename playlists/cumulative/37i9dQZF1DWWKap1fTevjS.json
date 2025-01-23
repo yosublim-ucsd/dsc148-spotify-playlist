@@ -268,7 +268,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 164400,
       "name": "abundance",
       "url": "https://open.spotify.com/track/2ql3MvEcsA946YC2Ob0sQc"
@@ -290,6 +290,24 @@
       "duration_ms": 179324,
       "name": "Acknowledge",
       "url": "https://open.spotify.com/track/3b9FmqamhswFKthJpVEGHk"
+    },
+    {
+      "album": {
+        "name": "Across",
+        "url": "https://open.spotify.com/album/1rnbCqbgNfK9GmzyZIvZhl"
+      },
+      "artists": [
+        {
+          "name": "Matt Deep",
+          "url": "https://open.spotify.com/artist/2MlHEEvx7sK4aeQyDnbgMm"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175357,
+      "name": "Across",
+      "url": "https://open.spotify.com/track/03Se4kO33S5ohOqW2V9mr3"
     },
     {
       "album": {
@@ -1175,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "Awha",
+        "url": "https://open.spotify.com/album/5hYApWwpP6I3xsNFBgKF7k"
+      },
+      "artists": [
+        {
+          "name": "Ember Nova",
+          "url": "https://open.spotify.com/artist/4RJoq6yWNYmSjrgp41bgMN"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Awha",
+      "url": "https://open.spotify.com/track/0qagB5q8Pb3ws2FV2UXlDZ"
+    },
+    {
+      "album": {
         "name": "Balance Of Life",
         "url": "https://open.spotify.com/album/79n1gHtnuCU27pmq5wNHNw"
       },
@@ -1334,6 +1370,24 @@
       "duration_ms": 150000,
       "name": "Beyond",
       "url": "https://open.spotify.com/track/0tfMURtsB63Q3F6CVwAXyn"
+    },
+    {
+      "album": {
+        "name": "Beyond the Valley",
+        "url": "https://open.spotify.com/album/2FnqXYSMOOu9KV5R5MGviq"
+      },
+      "artists": [
+        {
+          "name": "Broadleaf Radio",
+          "url": "https://open.spotify.com/artist/0aE7qo3dt6QImBjcDIPUON"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "Beyond the Valley",
+      "url": "https://open.spotify.com/track/5nAw7zxtQKsWNXcaliIewg"
     },
     {
       "album": {
@@ -1859,6 +1913,24 @@
     },
     {
       "album": {
+        "name": "Celestial Lights",
+        "url": "https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S"
+      },
+      "artists": [
+        {
+          "name": "Leon White",
+          "url": "https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160537,
+      "name": "Celestial Lights",
+      "url": "https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE"
+    },
+    {
+      "album": {
         "name": "Celestial Serenity",
         "url": "https://open.spotify.com/album/2uO2aY0fJuJwA1fglKA6Aw"
       },
@@ -2144,6 +2216,24 @@
       "duration_ms": 150500,
       "name": "Come Wander",
       "url": "https://open.spotify.com/track/1d0sc4npZeCAxX4YRuaCNG"
+    },
+    {
+      "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/6s4wgmA6O4jRFLyQMRxx0u"
+      },
+      "artists": [
+        {
+          "name": "Celestial Echoes",
+          "url": "https://open.spotify.com/artist/2kPdGnJr2JeSSlSsyjS41v"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173106,
+      "name": "Compassion",
+      "url": "https://open.spotify.com/track/5bIwxIoFjzUwgdfZhk4VjO"
     },
     {
       "album": {
@@ -2903,6 +2993,24 @@
     },
     {
       "album": {
+        "name": "Doze",
+        "url": "https://open.spotify.com/album/1WMLr1i1P5093q0mECbk1O"
+      },
+      "artists": [
+        {
+          "name": "Sleep Advisor",
+          "url": "https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165677,
+      "name": "Doze",
+      "url": "https://open.spotify.com/track/47SXoCdTY5ywuh7Fbf9Cjf"
+    },
+    {
+      "album": {
         "name": "Dream Creator",
         "url": "https://open.spotify.com/album/3BWpdkTtTFpAlu9zKNONS6"
       },
@@ -3166,10 +3274,28 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 186874,
       "name": "Driftwood",
       "url": "https://open.spotify.com/track/5IOSHTjNe5zUAGyfcsHcWy"
+    },
+    {
+      "album": {
+        "name": "Droplets",
+        "url": "https://open.spotify.com/album/4jztVXUzJmvVITmF509pPu"
+      },
+      "artists": [
+        {
+          "name": "Orion's Passage",
+          "url": "https://open.spotify.com/artist/6RqxA79mULypCOJzmDHqkf"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170454,
+      "name": "Droplets",
+      "url": "https://open.spotify.com/track/1LUljKZFZcHctU5OBMqFmG"
     },
     {
       "album": {
@@ -3634,7 +3760,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 203873,
       "name": "Enter the Dormancy",
       "url": "https://open.spotify.com/track/4G3L22OyCT4E9cfoyNi3eE"
@@ -3800,6 +3926,24 @@
       "duration_ms": 158166,
       "name": "Eternal Oasis",
       "url": "https://open.spotify.com/track/2WMk4o3SKnZiVCPkg8FKsc"
+    },
+    {
+      "album": {
+        "name": "Eternalesque",
+        "url": "https://open.spotify.com/album/4Hs618FkmSigv8pWBToicU"
+      },
+      "artists": [
+        {
+          "name": "Zephyrical",
+          "url": "https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154662,
+      "name": "Eternalesque",
+      "url": "https://open.spotify.com/track/78jKWVURKpY0OIPqWSyqAp"
     },
     {
       "album": {
@@ -3984,6 +4128,24 @@
       "duration_ms": 177600,
       "name": "Evangeline",
       "url": "https://open.spotify.com/track/2qO8aQQot1zPqyh02831Xs"
+    },
+    {
+      "album": {
+        "name": "Evergreen",
+        "url": "https://open.spotify.com/album/0rZfWmfqKjTSATBvIZ33TT"
+      },
+      "artists": [
+        {
+          "name": "Jack Allenson",
+          "url": "https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177615,
+      "name": "Evergreen",
+      "url": "https://open.spotify.com/track/4mw9pIQnrqSVv8bH0h3Jig"
     },
     {
       "album": {
@@ -4239,6 +4401,24 @@
     },
     {
       "album": {
+        "name": "Fleeting Moments",
+        "url": "https://open.spotify.com/album/3mSXs8THWgZ6dCFWHVusmb"
+      },
+      "artists": [
+        {
+          "name": "Les Coralines",
+          "url": "https://open.spotify.com/artist/595oUO0bgLQxuQ28hBcPSm"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Fleeting Moments",
+      "url": "https://open.spotify.com/track/4ISFjCBsY21GgFnjMd8V17"
+    },
+    {
+      "album": {
         "name": "Fliessend",
         "url": "https://open.spotify.com/album/1tZnE5teaXuwMXskg4VXV9"
       },
@@ -4416,6 +4596,24 @@
       "duration_ms": 211200,
       "name": "Fragile Voices",
       "url": "https://open.spotify.com/track/4zlGsaKaK94x4m1rJhDiiO"
+    },
+    {
+      "album": {
+        "name": "Fragmented Light",
+        "url": "https://open.spotify.com/album/3uoMQghOUG6e3YNmJnPJl6"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Mounfield",
+          "url": "https://open.spotify.com/artist/0kjtU2Kn1KmDT8wod8yrbD"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153611,
+      "name": "Fragmented Light",
+      "url": "https://open.spotify.com/track/0CPyLkwaa3hTT0Pz9syd0l"
     },
     {
       "album": {
@@ -5535,6 +5733,24 @@
     },
     {
       "album": {
+        "name": "Inner Realm",
+        "url": "https://open.spotify.com/album/6D0Gk54OLdjSPcJucPYJ0s"
+      },
+      "artists": [
+        {
+          "name": "Dominum Nominum",
+          "url": "https://open.spotify.com/artist/7okwKwX9ydmNTjwXXdgBO4"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203955,
+      "name": "Inner Realm",
+      "url": "https://open.spotify.com/track/28k1LumefEFmrUKTRaakIO"
+    },
+    {
+      "album": {
         "name": "Inner Space",
         "url": "https://open.spotify.com/album/7jcI5TedzwecaRrogB2eGw"
       },
@@ -6057,6 +6273,24 @@
     },
     {
       "album": {
+        "name": "Lonely House",
+        "url": "https://open.spotify.com/album/5xHsEN9npP7I8wrVlDOC2E"
+      },
+      "artists": [
+        {
+          "name": "Elijah Edwards",
+          "url": "https://open.spotify.com/artist/33e4XNrceV0ftUpzWWJWqS"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166061,
+      "name": "Lonely House",
+      "url": "https://open.spotify.com/track/37ae1nlyrk8DUXemDLt9GL"
+    },
+    {
+      "album": {
         "name": "Look Thru My Eyes",
         "url": "https://open.spotify.com/album/2rWz9AedF1M9x4S8D4Q0FC"
       },
@@ -6507,6 +6741,24 @@
     },
     {
       "album": {
+        "name": "Miracle Manifestations",
+        "url": "https://open.spotify.com/album/1nqyNBtjTe6UuWdq86sB6G"
+      },
+      "artists": [
+        {
+          "name": "Chakra Tides",
+          "url": "https://open.spotify.com/artist/7gfe0wDVyfNBiAWSVQyZRk"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128169,
+      "name": "Miracle Manifestations",
+      "url": "https://open.spotify.com/track/434O3sagPl9KLkBhGp7aP5"
+    },
+    {
+      "album": {
         "name": "Miraculous",
         "url": "https://open.spotify.com/album/5uiAQcotkaF94TIP8cIlR1"
       },
@@ -6540,6 +6792,24 @@
       "duration_ms": 168000,
       "name": "Mirageon",
       "url": "https://open.spotify.com/track/2nmRopj5DBq2Lmj8pA6OBE"
+    },
+    {
+      "album": {
+        "name": "Miravar",
+        "url": "https://open.spotify.com/album/0ExUh2Y2QlemMCiEtXTwDt"
+      },
+      "artists": [
+        {
+          "name": "Malluma Nokto",
+          "url": "https://open.spotify.com/artist/7ftD6LOqlL3lBzI4H4fbTg"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171940,
+      "name": "Miravar",
+      "url": "https://open.spotify.com/track/5iEcnvMT4iEPjDihzlq4Ns"
     },
     {
       "album": {
@@ -6594,6 +6864,24 @@
       "duration_ms": 178909,
       "name": "Montania",
       "url": "https://open.spotify.com/track/6t3e2UfHXGVdxXJhPYj6Lg"
+    },
+    {
+      "album": {
+        "name": "Moonblossom",
+        "url": "https://open.spotify.com/album/56ftpVn8fSpUcUe5VTeXf4"
+      },
+      "artists": [
+        {
+          "name": "Bliss Phenomena",
+          "url": "https://open.spotify.com/artist/5QggUZgvXPXT5X0jouJKBr"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142687,
+      "name": "Moonblossom",
+      "url": "https://open.spotify.com/track/4zW5JGMJGVwbzF9iml6Z0L"
     },
     {
       "album": {
@@ -6903,6 +7191,24 @@
     },
     {
       "album": {
+        "name": "Neverending",
+        "url": "https://open.spotify.com/album/1prRlJUt0UmOZC3UD52J6v"
+      },
+      "artists": [
+        {
+          "name": "turquoise waters",
+          "url": "https://open.spotify.com/artist/3N7b5YuDB0LngChyXbKZZK"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145983,
+      "name": "Neverending",
+      "url": "https://open.spotify.com/track/6eEgSIblmuXFXlb6A2tjvp"
+    },
+    {
+      "album": {
         "name": "New Dreams",
         "url": "https://open.spotify.com/album/2nRvp3oKkkOH6IvbcGZzLY"
       },
@@ -7112,7 +7418,7 @@
       ],
       "date_added": "2024-02-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 185606,
       "name": "Noctis",
       "url": "https://open.spotify.com/track/4Dd3YiefvL7kGQ0A0ETVpk"
@@ -7242,6 +7548,24 @@
       "duration_ms": 212000,
       "name": "Novi Sad",
       "url": "https://open.spotify.com/track/7Kd9aRamqqlKwB5PtT4lSf"
+    },
+    {
+      "album": {
+        "name": "Nox",
+        "url": "https://open.spotify.com/album/133wimkpma9DpRyIEgS5dV"
+      },
+      "artists": [
+        {
+          "name": "Esotherum",
+          "url": "https://open.spotify.com/artist/2UMsy6qAcmjU3yYbTSJuwb"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166794,
+      "name": "Nox",
+      "url": "https://open.spotify.com/track/2l5RGPbH2eq93zMytmGZ4n"
     },
     {
       "album": {
@@ -7440,6 +7764,24 @@
       "duration_ms": 157484,
       "name": "One And The Same",
       "url": "https://open.spotify.com/track/3xZwZ9yujCluOe5mlDzD7r"
+    },
+    {
+      "album": {
+        "name": "One Moon",
+        "url": "https://open.spotify.com/album/1khyLTxqiC4zk9W9cZDwBE"
+      },
+      "artists": [
+        {
+          "name": "Slumberland Dreams",
+          "url": "https://open.spotify.com/artist/3PY9lWIIIysDVnJ7i83N2k"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140487,
+      "name": "One Moon",
+      "url": "https://open.spotify.com/track/5HfGapbGX8brM6Rynv9Dcd"
     },
     {
       "album": {
@@ -7692,6 +8034,24 @@
       "duration_ms": 183090,
       "name": "Overcome",
       "url": "https://open.spotify.com/track/754SxJuLBc50w8O5lc1VqQ"
+    },
+    {
+      "album": {
+        "name": "Paradigm",
+        "url": "https://open.spotify.com/album/05RwFQSvi4XzEPlkoFsH0H"
+      },
+      "artists": [
+        {
+          "name": "iav\u00fa",
+          "url": "https://open.spotify.com/artist/4HLXt5FajZmG37fZb3E2my"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180703,
+      "name": "Paradigm",
+      "url": "https://open.spotify.com/track/5rD6luPJeHWNs3VNPqtNEu"
     },
     {
       "album": {
@@ -9355,6 +9715,24 @@
     },
     {
       "album": {
+        "name": "Silk Dreams",
+        "url": "https://open.spotify.com/album/4FlPvNG5wdOTzs0sxUPloK"
+      },
+      "artists": [
+        {
+          "name": "Sleepwear",
+          "url": "https://open.spotify.com/artist/2FZAnYg9alDc7hUebvR9Ph"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188714,
+      "name": "Silk Dreams",
+      "url": "https://open.spotify.com/track/3b7oasEPdgnvPiq3JxCvMA"
+    },
+    {
+      "album": {
         "name": "Silken Shades",
         "url": "https://open.spotify.com/album/2T6xVMu4W1Qwy3tDYIhiJX"
       },
@@ -9852,7 +10230,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 192750,
       "name": "Soft Corals",
       "url": "https://open.spotify.com/track/7DqRtx3iWhTVEfPL4feQNs"
@@ -9964,6 +10342,24 @@
       "duration_ms": 168000,
       "name": "Solstice Waves",
       "url": "https://open.spotify.com/track/6SFSWBUYfepFU3iNlXLPeu"
+    },
+    {
+      "album": {
+        "name": "Somehow",
+        "url": "https://open.spotify.com/album/1zAHjeiIhu46tI4gSnhslp"
+      },
+      "artists": [
+        {
+          "name": "Coseae",
+          "url": "https://open.spotify.com/artist/3u9wvP3DcyIVdT8fi1eq09"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170238,
+      "name": "Somehow",
+      "url": "https://open.spotify.com/track/1duFJu4fsHT5qrtGGRbxhg"
     },
     {
       "album": {
@@ -10633,6 +11029,42 @@
     },
     {
       "album": {
+        "name": "Suspended Glimmers",
+        "url": "https://open.spotify.com/album/3r2vRXRlbzjDEe2EtqLSGL"
+      },
+      "artists": [
+        {
+          "name": "Gjenklang",
+          "url": "https://open.spotify.com/artist/0tdUnUmJpBYAnf128MpI23"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167624,
+      "name": "Suspended Glimmers",
+      "url": "https://open.spotify.com/track/1Ih3L87Mc75K4dqQBKy62R"
+    },
+    {
+      "album": {
+        "name": "Systems Ecology",
+        "url": "https://open.spotify.com/album/7EE2OQNArrxzRELIloRjyZ"
+      },
+      "artists": [
+        {
+          "name": "Oliver \u00d3lafsson",
+          "url": "https://open.spotify.com/artist/0xgumNwunVskpeLSl8FyjU"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166064,
+      "name": "Systems Ecology",
+      "url": "https://open.spotify.com/track/1zkpJ5ZMfZNnen2vgw1T5T"
+    },
+    {
+      "album": {
         "name": "S\u00e1lvora",
         "url": "https://open.spotify.com/album/1SQMnr1LqS40k0CGTI7Zfb"
       },
@@ -10900,6 +11332,24 @@
       "duration_ms": 154074,
       "name": "The Morning Star",
       "url": "https://open.spotify.com/track/5K004QUVvXMTWD97bS8GuF"
+    },
+    {
+      "album": {
+        "name": "The Next Step",
+        "url": "https://open.spotify.com/album/4zzaUqPBhwf9MMIMkOZ2e5"
+      },
+      "artists": [
+        {
+          "name": "Pius Sylla",
+          "url": "https://open.spotify.com/artist/7cD2wGIWLgv5oxmmgS1EY5"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174893,
+      "name": "The Next Step",
+      "url": "https://open.spotify.com/track/5Cu36fWWD1nSaTnDgSuTf5"
     },
     {
       "album": {
@@ -11310,7 +11760,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 153250,
       "name": "Twinkle",
       "url": "https://open.spotify.com/track/2ycdMVR5v21EEkfm08U9Of"
@@ -11724,7 +12174,7 @@
       ],
       "date_added": "2024-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 178181,
       "name": "Vrang\u00f8",
       "url": "https://open.spotify.com/track/1GQZvfanSWqKStXmGVQb18"

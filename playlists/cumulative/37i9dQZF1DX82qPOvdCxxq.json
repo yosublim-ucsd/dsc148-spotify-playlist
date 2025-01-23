@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best new music from independent faith-based artists every Wednesday! Cover: TIDES | Artwork: Laina Deene",
+  "description": "The best new music from independent faith-based artists every Wednesday! Cover: Mackenzie Phillips | Artwork: Laina Deene",
   "name": "Fresh Finds Faith",
   "tracks": [
     {
@@ -1075,6 +1075,24 @@
     },
     {
       "album": {
+        "name": "Chasing After God",
+        "url": "https://open.spotify.com/album/0h6XYaV9idYSMV8lxQaE0R"
+      },
+      "artists": [
+        {
+          "name": "Hopeful.",
+          "url": "https://open.spotify.com/artist/2bfNAeO9A7tThjqmYWGiVR"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218588,
+      "name": "Chasing After God",
+      "url": "https://open.spotify.com/track/6bMgAwHZhKW1RfeUgDQPBk"
+    },
+    {
+      "album": {
         "name": "Chillin'",
         "url": "https://open.spotify.com/album/72YwNUGRhrnK7SBiAX2bTE"
       },
@@ -1488,6 +1506,24 @@
       "duration_ms": 160000,
       "name": "D\u00edas Buenos :)",
       "url": "https://open.spotify.com/track/51xp0if6i0fqsbcksIg4if"
+    },
+    {
+      "album": {
+        "name": "EDEN",
+        "url": "https://open.spotify.com/album/3SFl8aQrLGu5BCxdf49tJZ"
+      },
+      "artists": [
+        {
+          "name": "KDNS",
+          "url": "https://open.spotify.com/artist/1SzoqS86kItL3yvFG0eKN0"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170533,
+      "name": "Eden",
+      "url": "https://open.spotify.com/track/49NGnwBkgH6RId1yjn8KO1"
     },
     {
       "album": {
@@ -2492,6 +2528,24 @@
       "duration_ms": 157250,
       "name": "here comes the flood",
       "url": "https://open.spotify.com/track/3rsTuo8uyX71xT7MC4K3W4"
+    },
+    {
+      "album": {
+        "name": "Here I Am",
+        "url": "https://open.spotify.com/album/30yJdJF6LgTH5gYqVIgoS7"
+      },
+      "artists": [
+        {
+          "name": "Drakeford",
+          "url": "https://open.spotify.com/artist/5M7hCkA0s91a3BqfktxLfK"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198960,
+      "name": "Here I Am",
+      "url": "https://open.spotify.com/track/1mhVnXC0Mf8HUpvj2ZtqEY"
     },
     {
       "album": {
@@ -3530,7 +3584,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 179063,
       "name": "La Respuesta",
       "url": "https://open.spotify.com/track/6ArQFCsrww3gbQWFSu5Szq"
@@ -3716,6 +3770,24 @@
       "duration_ms": 277012,
       "name": "Love Above All Loves",
       "url": "https://open.spotify.com/track/1a9RJklCsU8xjJHBSCtUlg"
+    },
+    {
+      "album": {
+        "name": "Love Greater",
+        "url": "https://open.spotify.com/album/38dqITqcCjvvuKdKIpqD3x"
+      },
+      "artists": [
+        {
+          "name": "Kachi Annuncia",
+          "url": "https://open.spotify.com/artist/1BX5LtwtToqHi5kRICFlYf"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153800,
+      "name": "Love Greater",
+      "url": "https://open.spotify.com/track/1BQFPvZeTu5ac3CZ2mRvpe"
     },
     {
       "album": {
@@ -4290,7 +4362,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 180000,
       "name": "nothing but the blood.",
       "url": "https://open.spotify.com/track/0143LACTCbKmGms3Omf5Gg"
@@ -4468,10 +4540,32 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 204263,
       "name": "Perfect",
       "url": "https://open.spotify.com/track/3fxejBCZDRMhp1Er5B7gtm"
+    },
+    {
+      "album": {
+        "name": "Perfect",
+        "url": "https://open.spotify.com/album/1LBfbkF1i6ikTkAQNIaQEH"
+      },
+      "artists": [
+        {
+          "name": "Mackenzie Phillips",
+          "url": "https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY"
+        },
+        {
+          "name": "Leeland",
+          "url": "https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187894,
+      "name": "Perfect",
+      "url": "https://open.spotify.com/track/7uOKp6a6Vw6qrBA4ct3TJx"
     },
     {
       "album": {
@@ -4808,7 +4902,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 170637,
       "name": "Qu\u00edmica",
       "url": "https://open.spotify.com/track/1AknhtoV7lzwCY1Cbs4Y0q"
@@ -4960,7 +5054,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 180048,
       "name": "Rolling Stone",
       "url": "https://open.spotify.com/track/2DHzmQa57F3K6hYzBFtUdB"
@@ -5108,7 +5202,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 307381,
       "name": "saveme.mp3",
       "url": "https://open.spotify.com/track/41041HHkWX7ieiqgWe9W1z"
@@ -6095,6 +6189,32 @@
     },
     {
       "album": {
+        "name": "welcome",
+        "url": "https://open.spotify.com/album/71Q0KCJR405HKbv8TCn3Vg"
+      },
+      "artists": [
+        {
+          "name": "the King will come",
+          "url": "https://open.spotify.com/artist/50Md8FmMNvcWAHVjqVCeA8"
+        },
+        {
+          "name": "Tamy Stevens",
+          "url": "https://open.spotify.com/artist/3K091Aj4TSrESFWjRajbT0"
+        },
+        {
+          "name": "Oswin Benjamin",
+          "url": "https://open.spotify.com/artist/31pIxyVveAaYS1O5K2lNEF"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198750,
+      "name": "welcome",
+      "url": "https://open.spotify.com/track/3oFtmOaSvMKd95yn6CH5O8"
+    },
+    {
+      "album": {
         "name": "Sometimes",
         "url": "https://open.spotify.com/album/0OP6EXNM6ffaHVVPw8TEok"
       },
@@ -6258,6 +6378,24 @@
       "duration_ms": 299166,
       "name": "Where Your Heart Is",
       "url": "https://open.spotify.com/track/2nczMX5hhNQPuuAP9DHJrp"
+    },
+    {
+      "album": {
+        "name": "Wholeheartedly",
+        "url": "https://open.spotify.com/album/7fLxkmNRG2RX4g3XCI6FqD"
+      },
+      "artists": [
+        {
+          "name": "Austin Ludwig",
+          "url": "https://open.spotify.com/artist/6DKCKaDzsoRmeqiQq5QHgL"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240015,
+      "name": "Wholeheartedly",
+      "url": "https://open.spotify.com/track/3J9uGNRA6oMvM4wnOkSdxT"
     },
     {
       "album": {
@@ -6562,7 +6700,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 152898,
       "name": "You Have Done It All",
       "url": "https://open.spotify.com/track/0CVhylQTD18iNFfTxxaPr2"

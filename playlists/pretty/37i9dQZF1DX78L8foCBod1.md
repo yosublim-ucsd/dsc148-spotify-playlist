@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 
 > One\-of\-a\-kind Japanese composer/arranger/musician/lyricist/pianist, best known for his works on many anime series, television dramas, and films.
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,070 likes - 119 songs - 8 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,077 likes - 119 songs - 8 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78L8foCBod1.md) - [plain]
 | 48 | [Fanfare of Adolescence](https://open.spotify.com/track/1sKltygOQPxYakUJ0E5YwC) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [群青のファンファーレ オリジナル・サウンドトラック](https://open.spotify.com/album/3DczGU9W9xrKLpE9WFJ8iX) | 5:54 |
 | 49 | [Roads to Ride <LCv>](https://open.spotify.com/track/5oHSA48gcFs3z8C1lQkVyg) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [Laco](https://open.spotify.com/artist/7yEsBM3bZnkNfKyB9XGyyd) | [OUTSIDERS](https://open.spotify.com/album/74YSQrwO2zF3pvzPvpGonN) | 2:36 |
 | 50 | [Reminiscing](https://open.spotify.com/track/5HaYkKZ0bsisESMVZpljWw) | [NAQT VANE](https://open.spotify.com/artist/4HzUr7Nr82O1bLSB78jWVR) | [NAQT](https://open.spotify.com/album/05spQrl3ztKENm71NLLpyO) | 2:51 |
-| 51 | [BUBBLE](https://open.spotify.com/track/4Mvnk4EELuPLi7nuGyC4XB) | [澤野弘之](https://open.spotify.com/artist/6u7nkoVyGFp5CjQFJVg1lS) | [「バブル」オリジナル・サウンドトラック \(Extra Track ver.\)](https://open.spotify.com/album/3lJzrLnPz32TybtaoknkoF) | 1:58 |
+| 51 | [BUBBLE](https://open.spotify.com/track/4Mvnk4EELuPLi7nuGyC4XB) | [Sawano Hiroyuki](https://open.spotify.com/artist/0Riv2KnFcLZA3JSVryRg4y) | [「バブル」オリジナル・サウンドトラック \(Extra Track ver.\)](https://open.spotify.com/album/3lJzrLnPz32TybtaoknkoF) | 1:58 |
 | 52 | [OUTSIDERS](https://open.spotify.com/track/2p8RSh9uibR5I17T6z5XGY) | [SawanoHiroyuki\[nZk\]](https://open.spotify.com/artist/2EWXgN0xWOnbqJOxa9pWNO), [河野純喜 \(JO1\)](https://open.spotify.com/artist/0a8JF5VNmJZhkLmSbfCFnQ), [與那城奨 \(JO1\)](https://open.spotify.com/artist/2iqvC0dewDnljdNTF4sSSp) | [OUTSIDERS](https://open.spotify.com/album/3kdvGxfmWPU7OV8qPhbbmI) | 2:51 |
 | 53 | [pARTs](https://open.spotify.com/track/1cntqKtS7OZSERyDShGfQw) | [Natumi.](https://open.spotify.com/artist/3D3jHECUbYggG2AOzcL4Ub) | [pARTs](https://open.spotify.com/album/6PyyBnPSZnliOSvHoM8mEN) | 3:40 |
 | 54 | [dust](https://open.spotify.com/track/4dzl4oqOEsKWRdzaDRY2Uz) | [SennaRin](https://open.spotify.com/artist/05Thl0cxDfoKilfQ5Hwo7D) | [dust](https://open.spotify.com/album/0ZrXhShijWSRMnugxrnDgQ) | 4:11 |

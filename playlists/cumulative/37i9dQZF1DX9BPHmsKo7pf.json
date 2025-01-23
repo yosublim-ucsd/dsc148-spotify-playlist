@@ -485,28 +485,6 @@
     },
     {
       "album": {
-        "name": "Burj Khalifa",
-        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
-      },
-      "artists": [
-        {
-          "name": "Tzanca Uraganu",
-          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
-        },
-        {
-          "name": "Sheik",
-          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
-        }
-      ],
-      "date_added": "2024-07-01",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 151099,
-      "name": "Burj Khalifa",
-      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
-    },
-    {
-      "album": {
         "name": "Cine N-a Gresit Vreodata",
         "url": "https://open.spotify.com/album/5YUQ5Ez8erJt1jilUbDBUh"
       },
@@ -810,6 +788,28 @@
       "duration_ms": 167203,
       "name": "E Adev\u0103rat",
       "url": "https://open.spotify.com/track/6PxNbn9eM5SIDTBBZfG9PX"
+    },
+    {
+      "album": {
+        "name": "Eee Aaa | Burj Khalifa",
+        "url": "https://open.spotify.com/album/2VU7IC0UMSavJkd7mbpr7P"
+      },
+      "artists": [
+        {
+          "name": "Tzanca Uraganu",
+          "url": "https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66"
+        },
+        {
+          "name": "Sheik",
+          "url": "https://open.spotify.com/artist/16h499dib06k5oaxjbAVtW"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151099,
+      "name": "Eee Aaa | Burj Khalifa",
+      "url": "https://open.spotify.com/track/1XnSv4BUz58CBzioQap0V1"
     },
     {
       "album": {

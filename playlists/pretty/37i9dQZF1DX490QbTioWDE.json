@@ -1,6 +1,6 @@
 {
   "description": "Fuego y Pasi\u00f3n. Pasi\u00f3n Cordobesa, pasi\u00f3n Argentina. \nFoto: Luck Ra, Yami Safdie & Q\u00b4 Lokura.",
-  "num_followers": 744016,
+  "num_followers": 744313,
   "original_name": "100% Cuarteto",
   "owner": {
     "name": "Spotify",
@@ -1219,26 +1219,6 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
-        "name": "Que Te Vuelva Amor",
-        "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
-      },
-      "artists": [
-        {
-          "name": "Bauti Mascia",
-          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
-        },
-        {
-          "name": "DesaKTa2",
-          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
-        }
-      ],
-      "duration_ms": 150764,
-      "name": "Que Te Vuelva Amor",
-      "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
-    },
-    {
-      "added_at": "2025-01-17 03:00:07",
-      "album": {
         "name": "Tus Botellas",
         "url": "https://open.spotify.com/album/72tcmJLIc4I1AX2DC23G04"
       },
@@ -1255,6 +1235,26 @@
       "duration_ms": 202160,
       "name": "Tus Botellas",
       "url": "https://open.spotify.com/track/1k8BmoheA7yzC6MpyEqlKt"
+    },
+    {
+      "added_at": "2025-01-17 03:00:07",
+      "album": {
+        "name": "Que Te Vuelva Amor",
+        "url": "https://open.spotify.com/album/2TiQN4ZPday9QtHELjhqtB"
+      },
+      "artists": [
+        {
+          "name": "Bauti Mascia",
+          "url": "https://open.spotify.com/artist/4cV73y9UlkKTCIWbuP2hbG"
+        },
+        {
+          "name": "DesaKTa2",
+          "url": "https://open.spotify.com/artist/3UdkBrbQWdMoMPI4XATTC0"
+        }
+      ],
+      "duration_ms": 150764,
+      "name": "Que Te Vuelva Amor",
+      "url": "https://open.spotify.com/track/5Y2hlEF263cIINL3UItXCi"
     },
     {
       "added_at": "2025-01-17 03:00:07",
@@ -1431,18 +1431,22 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
-        "name": "El No Va a Venir",
-        "url": "https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r"
+        "name": "Muero (feat. Eugenia Quevedo)",
+        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
       },
       "artists": [
         {
-          "name": "Banda Mix",
-          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
+          "name": "Sabroso",
+          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
+        },
+        {
+          "name": "Eugenia Quevedo",
+          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
         }
       ],
-      "duration_ms": 135287,
-      "name": "El No Va a Venir",
-      "url": "https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u"
+      "duration_ms": 264563,
+      "name": "Muero (feat. Eugenia Quevedo)",
+      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
     },
     {
       "added_at": "2025-01-17 03:00:07",
@@ -1507,22 +1511,18 @@
     {
       "added_at": "2025-01-17 03:00:07",
       "album": {
-        "name": "Muero (feat. Eugenia Quevedo)",
-        "url": "https://open.spotify.com/album/1sw7RzeT2J98lbW73sjxcS"
+        "name": "El No Va a Venir",
+        "url": "https://open.spotify.com/album/48HiiidVYDzICtnx1qbV8r"
       },
       "artists": [
         {
-          "name": "Sabroso",
-          "url": "https://open.spotify.com/artist/4mKTJIb405EHH5GGfIhaeO"
-        },
-        {
-          "name": "Eugenia Quevedo",
-          "url": "https://open.spotify.com/artist/13t1RROs40VnX8PtMUnBqc"
+          "name": "Banda Mix",
+          "url": "https://open.spotify.com/artist/6D5yvbvtW8ogLKkNWFsDDv"
         }
       ],
-      "duration_ms": 264563,
-      "name": "Muero (feat. Eugenia Quevedo)",
-      "url": "https://open.spotify.com/track/29MFesnqGPh4zA66sViKt9"
+      "duration_ms": 135287,
+      "name": "El No Va a Venir",
+      "url": "https://open.spotify.com/track/4OtSrkolF9M9W31RZuIi8u"
     },
     {
       "added_at": "2025-01-17 03:00:07",

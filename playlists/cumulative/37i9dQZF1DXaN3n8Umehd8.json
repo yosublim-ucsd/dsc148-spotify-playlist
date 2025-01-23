@@ -1135,6 +1135,24 @@
     },
     {
       "album": {
+        "name": "boss",
+        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131200,
+      "name": "boss",
+      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
+    },
+    {
+      "album": {
         "name": "Solstis - De Le\u00f3n Larregui",
         "url": "https://open.spotify.com/album/0UwCZ5d7AFISyHxrpHjbqZ"
       },
@@ -6684,6 +6702,24 @@
       "duration_ms": 190892,
       "name": "No Me Llames",
       "url": "https://open.spotify.com/track/17OUytzPZONEaJ4QqYI0nn"
+    },
+    {
+      "album": {
+        "name": "No nos conocen",
+        "url": "https://open.spotify.com/album/2RFiCe0xUNmCC1s27qTOeX"
+      },
+      "artists": [
+        {
+          "name": "Juanpa Gordoa",
+          "url": "https://open.spotify.com/artist/6H6tvSXI6mUyAXjQ6TG9Jd"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174000,
+      "name": "No nos conocen",
+      "url": "https://open.spotify.com/track/0k2mQCLXwJTE75WhtoqOib"
     },
     {
       "album": {

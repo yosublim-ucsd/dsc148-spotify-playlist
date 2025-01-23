@@ -1,12 +1,12 @@
 {
   "description": "\u201cWith summer winding down, I wanted to share some songs that I\u2019ve been listening to lately \u2013 and it wouldn\u2019t be my playlist if it didn\u2019t include an eclectic mix,\u201d.  Includes Obama&#x27;s Favorite Music of 2024.",
-  "num_followers": 131789,
+  "num_followers": 131796,
   "original_name": "Obama\u2019s Summer Playlist 2025",
   "owner": {
     "name": "soundsdeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAAsrxCYZuPl5MWhomq59U9Ucm5u404i",
+  "snapshot_id": "AAAstA9NNYP7DYap/rn5SwNH0aqXAi8J",
   "tracks": [
     {
       "added_at": "2024-12-21 00:28:10",
@@ -1929,6 +1929,22 @@
       "url": "https://open.spotify.com/track/5W6fuhOICEbXmHzJK6sKuX"
     },
     {
+      "added_at": "2025-01-22 14:45:26",
+      "album": {
+        "name": "Tide",
+        "url": "https://open.spotify.com/album/7t1Uc4xSV1lg4RWlRnmqDq"
+      },
+      "artists": [
+        {
+          "name": "daste.",
+          "url": "https://open.spotify.com/artist/5uXWOfu1kA8mQ9bUp5GgxT"
+        }
+      ],
+      "duration_ms": 168750,
+      "name": "Tide",
+      "url": "https://open.spotify.com/track/2YcbriSYeDwnQcC7ltX7DT"
+    },
+    {
       "added_at": "2024-11-29 16:26:49",
       "album": {
         "name": "Open Hearts",
@@ -2787,70 +2803,6 @@
       "duration_ms": 213000,
       "name": "Wait for Me",
       "url": "https://open.spotify.com/track/1Udb3vIxus1iu5rvqRCAv5"
-    },
-    {
-      "added_at": "2025-01-11 20:43:50",
-      "album": {
-        "name": "One Drink Away",
-        "url": "https://open.spotify.com/album/4Ff3JKjhbEhg4UAFOo0Mt7"
-      },
-      "artists": [
-        {
-          "name": "Tom Morgan",
-          "url": "https://open.spotify.com/artist/3O1tV7GESyriJiAnhjeR0c"
-        }
-      ],
-      "duration_ms": 216560,
-      "name": "One Drink Away",
-      "url": "https://open.spotify.com/track/13rFklKCvwbkliecJywFNE"
-    },
-    {
-      "added_at": "2025-01-11 12:01:12",
-      "album": {
-        "name": "THE ONE",
-        "url": "https://open.spotify.com/album/5ALGiDex6d8nW0rOIp9G9t"
-      },
-      "artists": [
-        {
-          "name": "TEFO 11",
-          "url": "https://open.spotify.com/artist/12Ql55u20jALFokd7UNIr4"
-        }
-      ],
-      "duration_ms": 155172,
-      "name": "The One",
-      "url": "https://open.spotify.com/track/2CmtnCxhkCrCPAjwcri2Rv"
-    },
-    {
-      "added_at": "2025-01-11 06:01:31",
-      "album": {
-        "name": "Possible Light, Pt. 1",
-        "url": "https://open.spotify.com/album/3nbY5t3o7x8y6FK56tMt0t"
-      },
-      "artists": [
-        {
-          "name": "Vanishing Shores",
-          "url": "https://open.spotify.com/artist/4o1hUb6mX2C3QpeF8r8lzX"
-        }
-      ],
-      "duration_ms": 168586,
-      "name": "I Wouldn't Change a Thing",
-      "url": "https://open.spotify.com/track/4tPRuTab3qXR07jPbFFqco"
-    },
-    {
-      "added_at": "2025-01-11 06:01:23",
-      "album": {
-        "name": "La m\u00e9moire des vaincus",
-        "url": "https://open.spotify.com/album/1r4be4Ipu91VBIVpILlsTW"
-      },
-      "artists": [
-        {
-          "name": "Baba Wazo",
-          "url": "https://open.spotify.com/artist/0vZ3ih2AY9SZgIQZkXnDqb"
-        }
-      ],
-      "duration_ms": 227960,
-      "name": "La m\u00e9moire des vaincus",
-      "url": "https://open.spotify.com/track/3CFqtDU41E8wgBQ01D3v6V"
     }
   ],
   "unique_name": "Obama\u2019s Summer Playlist 2025",

@@ -1,6 +1,6 @@
 {
   "description": "50 canciones que llenan tu rutina de pura energ\u00eda.",
-  "num_followers": 19919,
+  "num_followers": 19984,
   "original_name": "Gym Motivation",
   "owner": {
     "name": "Spotify",
@@ -551,18 +551,22 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Feel This Way",
-        "url": "https://open.spotify.com/album/43rxxp3huVJbLUMBhNM23y"
+        "name": "Memories",
+        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
       },
       "artists": [
         {
-          "name": "Enkode",
-          "url": "https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee"
+          "name": "Luis JR",
+          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
+        },
+        {
+          "name": "D'ALEX",
+          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
         }
       ],
-      "duration_ms": 174720,
-      "name": "Feel This Way",
-      "url": "https://open.spotify.com/track/4agUkSkSCmHLMmOfcAnZuN"
+      "duration_ms": 216586,
+      "name": "Memories",
+      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -587,22 +591,18 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/0IZU361PqM4rU93o9LNoBR"
+        "name": "Feel This Way",
+        "url": "https://open.spotify.com/album/43rxxp3huVJbLUMBhNM23y"
       },
       "artists": [
         {
-          "name": "Luis JR",
-          "url": "https://open.spotify.com/artist/0z9vGUlGF7lS5px3Y77Mjj"
-        },
-        {
-          "name": "D'ALEX",
-          "url": "https://open.spotify.com/artist/0FE798xrpeoQtmsv8TjvM4"
+          "name": "Enkode",
+          "url": "https://open.spotify.com/artist/5OsTZlODtkuY6VgcRSBBee"
         }
       ],
-      "duration_ms": 216586,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/56cy1gTx6GpTjKBIFGdfe9"
+      "duration_ms": 174720,
+      "name": "Feel This Way",
+      "url": "https://open.spotify.com/track/4agUkSkSCmHLMmOfcAnZuN"
     },
     {
       "added_at": "2024-03-28 01:32:56",
@@ -699,26 +699,6 @@
     {
       "added_at": "2024-03-28 01:32:56",
       "album": {
-        "name": "Where Do We Go?",
-        "url": "https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE"
-      },
-      "artists": [
-        {
-          "name": "Oxide & Neutrino",
-          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
-        },
-        {
-          "name": "Leo The Lion",
-          "url": "https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL"
-        }
-      ],
-      "duration_ms": 194290,
-      "name": "Where Do We Go?",
-      "url": "https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm"
-    },
-    {
-      "added_at": "2024-03-28 01:32:56",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/6oMuOHFOSbSashSF1L4qgB"
       },
@@ -735,6 +715,26 @@
       "duration_ms": 142612,
       "name": "Anywhere",
       "url": "https://open.spotify.com/track/4LixDfUyJFL3OFyZqruBto"
+    },
+    {
+      "added_at": "2024-03-28 01:32:56",
+      "album": {
+        "name": "Where Do We Go?",
+        "url": "https://open.spotify.com/album/5ExfclQkJzsVxIBpzv3WfE"
+      },
+      "artists": [
+        {
+          "name": "Oxide & Neutrino",
+          "url": "https://open.spotify.com/artist/0uhNYfjHJyAmHh2xNZ4vqf"
+        },
+        {
+          "name": "Leo The Lion",
+          "url": "https://open.spotify.com/artist/0Wq4b4GUAJ0awoPYiCftWL"
+        }
+      ],
+      "duration_ms": 194290,
+      "name": "Where Do We Go?",
+      "url": "https://open.spotify.com/track/0VzbCGoQosaUAoy4RMgKAm"
     },
     {
       "added_at": "2024-03-28 01:32:56",

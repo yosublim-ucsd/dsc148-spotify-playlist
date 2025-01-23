@@ -1,6 +1,6 @@
 {
   "description": "Tech house technicians, featuring Riordan \ud83d\udc7d\ud83d\udc7d 50% techno, 50% house",
-  "num_followers": 643160,
+  "num_followers": 643226,
   "original_name": "Tech House Operator",
   "owner": {
     "name": "Spotify",
@@ -1020,7 +1020,7 @@
       },
       "artists": [
         {
-          "name": "SOSA UK",
+          "name": "SOSA",
           "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         },
         {
@@ -1652,7 +1652,7 @@
       },
       "artists": [
         {
-          "name": "SOSA UK",
+          "name": "SOSA",
           "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
         },
         {
@@ -1961,26 +1961,6 @@
       "url": "https://open.spotify.com/track/4ctjGkIZwdQ1RLSQYALPb0"
     },
     {
-      "added_at": "2024-11-15 05:00:00",
-      "album": {
-        "name": "Mezcal Bounce",
-        "url": "https://open.spotify.com/album/2aJEt3IXffsdzso2o80yQa"
-      },
-      "artists": [
-        {
-          "name": "SOSA UK",
-          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
-        },
-        {
-          "name": "Kidoo",
-          "url": "https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD"
-        }
-      ],
-      "duration_ms": 210909,
-      "name": "Mezcal Bounce",
-      "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
-    },
-    {
       "added_at": "2024-09-27 04:00:00",
       "album": {
         "name": "Jet Setter",
@@ -1999,6 +1979,26 @@
       "duration_ms": 174890,
       "name": "Jet Setter",
       "url": "https://open.spotify.com/track/7Em4GDCn2OgQSZ39s5OiRc"
+    },
+    {
+      "added_at": "2024-11-15 05:00:00",
+      "album": {
+        "name": "Mezcal Bounce",
+        "url": "https://open.spotify.com/album/2aJEt3IXffsdzso2o80yQa"
+      },
+      "artists": [
+        {
+          "name": "SOSA",
+          "url": "https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5"
+        },
+        {
+          "name": "Kidoo",
+          "url": "https://open.spotify.com/artist/0oM2tcepZGxojGEvnYrIOD"
+        }
+      ],
+      "duration_ms": 210909,
+      "name": "Mezcal Bounce",
+      "url": "https://open.spotify.com/track/5Wr6bUQZoQYxXonKQCoQAt"
     },
     {
       "added_at": "2024-10-04 04:00:00",
@@ -2021,6 +2021,22 @@
       "url": "https://open.spotify.com/track/4sew84IRdf0O45r0UXbxVQ"
     },
     {
+      "added_at": "2024-05-03 04:00:00",
+      "album": {
+        "name": "Push Me",
+        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
+      },
+      "artists": [
+        {
+          "name": "GENESI",
+          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Push Me",
+      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "Slow Down / Pink Dave",
@@ -2039,22 +2055,6 @@
       "duration_ms": 178926,
       "name": "Slow Down",
       "url": "https://open.spotify.com/track/3GCMDBgYkmdNJvIWmyiFeg"
-    },
-    {
-      "added_at": "2024-05-03 04:00:00",
-      "album": {
-        "name": "Push Me",
-        "url": "https://open.spotify.com/album/3m6uciqlh8hgjNHiX0NSXh"
-      },
-      "artists": [
-        {
-          "name": "GENESI",
-          "url": "https://open.spotify.com/artist/4OG9hOPsfAEziKvOJj2SG7"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Push Me",
-      "url": "https://open.spotify.com/track/2R4zEYaFpPbKxBbQceH6yw"
     },
     {
       "added_at": "2024-05-10 04:00:00",
@@ -2113,6 +2113,26 @@
       "url": "https://open.spotify.com/track/4oR6yz2BTLjJzMtAkOORJR"
     },
     {
+      "added_at": "2024-04-26 04:01:00",
+      "album": {
+        "name": "The Unknown",
+        "url": "https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        },
+        {
+          "name": "Crusy",
+          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
+        }
+      ],
+      "duration_ms": 176718,
+      "name": "The Unknown",
+      "url": "https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38"
+    },
+    {
       "added_at": "2025-01-10 05:00:18",
       "album": {
         "name": "(This Is A) Warning",
@@ -2135,26 +2155,6 @@
       "duration_ms": 176250,
       "name": "(This Is A) Warning",
       "url": "https://open.spotify.com/track/5lwxdOLjLqdnRie4QinJke"
-    },
-    {
-      "added_at": "2024-04-26 04:01:00",
-      "album": {
-        "name": "The Unknown",
-        "url": "https://open.spotify.com/album/5X5MiGq9BMfwqrRrLigR1M"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        },
-        {
-          "name": "Crusy",
-          "url": "https://open.spotify.com/artist/6oIoaURalGEtkYTswOLoft"
-        }
-      ],
-      "duration_ms": 176718,
-      "name": "The Unknown",
-      "url": "https://open.spotify.com/track/7MAyS6xzh4719eLTKqbL38"
     },
     {
       "added_at": "2024-07-26 04:00:00",
@@ -2365,6 +2365,22 @@
       "url": "https://open.spotify.com/track/3elIx1XEFShZBFa4B6mpAS"
     },
     {
+      "added_at": "2024-12-06 05:00:00",
+      "album": {
+        "name": "Disco Bus",
+        "url": "https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6"
+      },
+      "artists": [
+        {
+          "name": "Deeper Purpose",
+          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
+        }
+      ],
+      "duration_ms": 200000,
+      "name": "Disco Bus",
+      "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
+    },
+    {
       "added_at": "2024-11-22 05:00:00",
       "album": {
         "name": "That's the Spot",
@@ -2383,22 +2399,6 @@
       "duration_ms": 182769,
       "name": "That's the Spot",
       "url": "https://open.spotify.com/track/6evSxq4h3VyxaPPz8udIhX"
-    },
-    {
-      "added_at": "2024-12-06 05:00:00",
-      "album": {
-        "name": "Disco Bus",
-        "url": "https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6"
-      },
-      "artists": [
-        {
-          "name": "Deeper Purpose",
-          "url": "https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r"
-        }
-      ],
-      "duration_ms": 200000,
-      "name": "Disco Bus",
-      "url": "https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO"
     }
   ],
   "unique_name": "Tech House Operator",

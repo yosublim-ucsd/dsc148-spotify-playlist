@@ -1,6 +1,6 @@
 {
   "description": "late night vibes \u2013 notifications off.",
-  "num_followers": 146734,
+  "num_followers": 146866,
   "original_name": "DND.",
   "owner": {
     "name": "Spotify",
@@ -36,12 +36,12 @@
       },
       "artists": [
         {
-          "name": "Corbin",
-          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
-        },
-        {
           "name": "Spooky Black",
           "url": "https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2"
+        },
+        {
+          "name": "Corbin",
+          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
         }
       ],
       "duration_ms": 303157,

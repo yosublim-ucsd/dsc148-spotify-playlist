@@ -624,7 +624,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 117449,
       "name": "it's all love",
       "url": "https://open.spotify.com/track/6dXOhwojU2t3lLooHqt4Td"
@@ -682,6 +682,24 @@
       "duration_ms": 65901,
       "name": "LIES",
       "url": "https://open.spotify.com/track/42NO1CgBdqn9jm0bZ2zpQp"
+    },
+    {
+      "album": {
+        "name": "loopy tastes good",
+        "url": "https://open.spotify.com/album/6FBcwU72dKp80rcB5P9NMc"
+      },
+      "artists": [
+        {
+          "name": "Kittydog",
+          "url": "https://open.spotify.com/artist/7fTIFQR4VTaYGT0RIftq2v"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 75495,
+      "name": "loopy tastes good",
+      "url": "https://open.spotify.com/track/0HiIKmBS4NiX5rHzWIxGFv"
     },
     {
       "album": {

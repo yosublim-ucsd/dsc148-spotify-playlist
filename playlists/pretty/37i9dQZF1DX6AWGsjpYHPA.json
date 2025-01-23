@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 164201,
+  "num_followers": 164295,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -935,26 +935,6 @@
     {
       "added_at": "2024-12-24 05:00:14",
       "album": {
-        "name": "Flowers",
-        "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
-      },
-      "artists": [
-        {
-          "name": "Andrew Ashong",
-          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
-        },
-        {
-          "name": "Theo Parrish",
-          "url": "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
-        }
-      ],
-      "duration_ms": 532313,
-      "name": "Flowers",
-      "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
-    },
-    {
-      "added_at": "2024-12-24 05:00:14",
-      "album": {
         "name": "London. Paris. Berlin.",
         "url": "https://open.spotify.com/album/1dDsbruFq4OZMM1Xj3KF6v"
       },
@@ -987,6 +967,26 @@
       "duration_ms": 189422,
       "name": "To The Floor",
       "url": "https://open.spotify.com/track/7cZR9UwVtBQR3zwyDYMK9p"
+    },
+    {
+      "added_at": "2024-12-24 05:00:14",
+      "album": {
+        "name": "Flowers",
+        "url": "https://open.spotify.com/album/7kZLtbf2oWSZJIWchzWGks"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ashong",
+          "url": "https://open.spotify.com/artist/2SJ3xpG9fseCPIqePAGp6o"
+        },
+        {
+          "name": "Theo Parrish",
+          "url": "https://open.spotify.com/artist/3qMRvSHJpaRjGDkIeNMoGz"
+        }
+      ],
+      "duration_ms": 532313,
+      "name": "Flowers",
+      "url": "https://open.spotify.com/track/3jYzcHvW4k6Lrfm6fj87Rn"
     },
     {
       "added_at": "2024-12-24 05:00:14",

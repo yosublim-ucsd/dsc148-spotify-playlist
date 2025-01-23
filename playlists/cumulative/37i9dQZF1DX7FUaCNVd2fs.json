@@ -1457,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "It's Gonna Be Alright",
+        "url": "https://open.spotify.com/album/5LsPM7x2VLXIwymnMEnaxq"
+      },
+      "artists": [
+        {
+          "name": "Melani\u00e9 Poret",
+          "url": "https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129110,
+      "name": "It's Gonna Be Alright",
+      "url": "https://open.spotify.com/track/4oiKoBCIYz7sFlEOdrfsbY"
+    },
+    {
+      "album": {
         "name": "I\u2019m Still Learning",
         "url": "https://open.spotify.com/album/6325dWq46dEF9sAesxT9FU"
       },

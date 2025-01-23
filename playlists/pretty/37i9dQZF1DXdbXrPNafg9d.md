@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 
 > The best new music every Friday\. Cover: Perfume Genius
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,286,979 likes - 175 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,287,005 likes - 175 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdbXrPNafg9d.md) - [plain]
 | 24 | [A House With](https://open.spotify.com/track/6RiZA3XjhBvyPVctCvjJey) | [Denison Witmer](https://open.spotify.com/artist/2sJ5Iicthbc9d8Sl1dpeSB) | [A House With](https://open.spotify.com/album/7HNm2mQWARRhRGBJSgBjba) | 4:16 |
 | 25 | [Take It](https://open.spotify.com/track/5GY2Np1P4DM376GfiW6vjs) | [Kathryn Mohr](https://open.spotify.com/artist/2lbUZvIMQVI9unYN34lmOZ) | [Take It](https://open.spotify.com/album/1bBYMLBmZ1qSMpF3GsNaqS) | 4:34 |
 | 26 | [Preachers](https://open.spotify.com/track/4COBkCx7E5f28kUJx2dMx9) | [Echo Thrills](https://open.spotify.com/artist/3ffR557vYU2mGUwk5Fs5hF) | [Preachers](https://open.spotify.com/album/3H5gEqsgRADNRgmbRWUAxO) | 3:17 |
-| 27 | [Without You](https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq) | [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff), [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2) | [Without You](https://open.spotify.com/album/2HdjmnNEQ3T0MUj2kT59nP) | 5:03 |
+| 27 | [Without You](https://open.spotify.com/track/6G9w78ki4mR3AxvAwjsZFq) | [Spooky Black](https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2), [Corbin](https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff) | [Without You](https://open.spotify.com/album/2HdjmnNEQ3T0MUj2kT59nP) | 5:03 |
 | 28 | [Speed Freak](https://open.spotify.com/track/36qGcGSAI3rzgOQkoJHu6U) | [Youth Lagoon](https://open.spotify.com/artist/1Z2KInfSmPOzAIYyiaXeti) | [Speed Freak](https://open.spotify.com/album/5XQHf9voY21g3m8dV7XwPs) | 3:29 |
 | 29 | [Orlando in Love](https://open.spotify.com/track/3qDO9F32RqyPXK34ZujwBc) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Orlando in Love](https://open.spotify.com/album/204ZEkmbexzRPGHltUDCP6) | 2:25 |
 | 30 | [Amber Waves](https://open.spotify.com/track/2akeQPk9w9ubCgMh4MP0L9) | [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [Perverts](https://open.spotify.com/album/3kZk3M80kQTJus45lgRKyv) | 11:32 |

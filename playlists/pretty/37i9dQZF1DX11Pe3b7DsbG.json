@@ -1,6 +1,6 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 232015,
+  "num_followers": 232020,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-10-04 13:58:33",
       "album": {
-        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
-      },
-      "artists": [
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 292275,
-      "name": "Amiga da Minha Mulher / Cilada - Ao Vivo",
-      "url": "https://open.spotify.com/track/7wkn5YzIbYWtub1jgwp2D8"
-    },
-    {
-      "added_at": "2024-10-04 13:58:33",
-      "album": {
         "name": "A For\u00e7a do Nosso Som Continua (EP4) [Ao Vivo]",
         "url": "https://open.spotify.com/album/54qZebNGBVhpyvMtTxrnhr"
       },
@@ -1019,6 +1003,22 @@
       "duration_ms": 182860,
       "name": "Teu Segredo - Ao Vivo",
       "url": "https://open.spotify.com/track/3kySOLOrkLeOPvu3HXEgVz"
+    },
+    {
+      "added_at": "2024-10-04 13:58:33",
+      "album": {
+        "name": "Pagode do Peric\u00e3o (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
+      },
+      "artists": [
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 292275,
+      "name": "Amiga da Minha Mulher / Cilada - Ao Vivo",
+      "url": "https://open.spotify.com/track/7wkn5YzIbYWtub1jgwp2D8"
     },
     {
       "added_at": "2024-10-04 13:58:33",

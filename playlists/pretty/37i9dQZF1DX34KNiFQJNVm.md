@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX34KNiFQJNVm.md) - [plain]
 
 > Os lançamentos dessa semana incluem BaianaSystem, Teto, Rachel Reis e muito mais!
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,996,688 likes - 70 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,996,690 likes - 70 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Balacobaco](https://open.spotify.com/track/5xLxfWf9Z2AOVaYpC8vORU) | [BaianaSystem](https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5), [Alice Carvalho](https://open.spotify.com/artist/1RR1Og8nGMiFVIs1QhQZMg), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Balacobaco](https://open.spotify.com/album/2wDLXWo3Lje6gf06oiRYVP) | 4:00 |
 | 2 | [bolas de haxi](https://open.spotify.com/track/0sWIDSVPVN0fkuZs0C8wp4) | [Teto](https://open.spotify.com/artist/68YeXpLt3jB7JHQS5ZjMGo) | [tempo.zip](https://open.spotify.com/album/3AJvminfxx0wpM3dpF3vaY) | 2:18 |
-| 3 | [Disk Recaída \- Ao Vivo](https://open.spotify.com/track/5e580csqUGmCdhSRD85uvo) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Ao Vivo Em São Paulo](https://open.spotify.com/album/0lmhGisumVZ6QK4h6ElogH) | 2:37 |
+| 3 | [Disk Recaída \- Ao Vivo](https://open.spotify.com/track/5e580csqUGmCdhSRD85uvo) | [Diego & Arnaldo](https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft), [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Ao Vivo em São Paulo](https://open.spotify.com/album/0lmhGisumVZ6QK4h6ElogH) | 2:37 |
 | 4 | [Última Vez \- Ao Vivo](https://open.spotify.com/track/3WzgvHWoHNZTVigfgCyiDR) | [Naiara Azevedo](https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l), [Clayton & Romário](https://open.spotify.com/artist/1tKrZaph4cLsnEdqC5BNEQ) | [Última Vez \(Ao Vivo\)](https://open.spotify.com/album/418ct2fwwJyZDUF2mmJnMD) | 2:25 |
 | 5 | [Coração De Gelo \- Ao Vivo](https://open.spotify.com/track/5ScbllmObIytxOHJEjLGzR) | [Hugo Henrique](https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E), [Marília Tavares](https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL) | [Coração De Gelo \(Ao Vivo\)](https://open.spotify.com/album/2yhp3RBZVj8rYX72krSGl8) | 2:53 |
 | 6 | [Suposto Namorado \- Ao Vivo](https://open.spotify.com/track/7DLXGoXebtj0YTZPkBarRx) | [Turma do Pagode](https://open.spotify.com/artist/5JG9GISYjRLQUJMH2C6iJ5), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg), [Kamisa 10](https://open.spotify.com/artist/39VceBo0jXir85LCeAmAIs) | [Mixturadin 3 \- Vol\. 3](https://open.spotify.com/album/5iaTc8wLU0vV5sqbNxQXE0) | 3:55 |

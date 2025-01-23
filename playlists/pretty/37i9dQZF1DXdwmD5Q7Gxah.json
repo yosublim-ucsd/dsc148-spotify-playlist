@@ -1,12 +1,12 @@
 {
-  "description": "The <a href=\"#https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245#\">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap ",
-  "num_followers": 1175587,
+  "description": "The <a href=\"https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245\">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap ",
+  "num_followers": 1175595,
   "original_name": "Lorem",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5AIGgAAAABmYOhqfMa6hlu+lxxkBFDX",
+  "snapshot_id": "Z5Gl1wAAAAARhbsix8sFt/L2Nl0M83X2",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:48",
@@ -135,6 +135,22 @@
       "duration_ms": 180672,
       "name": "Ever",
       "url": "https://open.spotify.com/track/2Gu2H8HRVuV9GOneJuYV5D"
+    },
+    {
+      "added_at": "2025-01-23 02:13:43",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "added_at": "2025-01-16 18:42:36",
@@ -793,7 +809,7 @@
       "url": "https://open.spotify.com/track/3nPzk1O9QoPggqgdHwwOly"
     },
     {
-      "added_at": "2024-12-11 18:28:53",
+      "added_at": "2025-01-22 18:19:25",
       "album": {
         "name": "Chest Pain (I Love)",
         "url": "https://open.spotify.com/album/5LmuMAA2Qk4SDbdFK5kvnJ"
@@ -1233,7 +1249,7 @@
       "url": "https://open.spotify.com/track/1s3I6VvrD1BGGflMFS5NSO"
     },
     {
-      "added_at": "2024-11-01 04:00:00",
+      "added_at": "2025-01-22 18:19:25",
       "album": {
         "name": "Punish",
         "url": "https://open.spotify.com/album/1xeGbgjpB3uXZ7oZGpc1zm"
@@ -1377,7 +1393,7 @@
       "url": "https://open.spotify.com/track/6a2HBMpj2G2wXSrgBl9ZNT"
     },
     {
-      "added_at": "2024-10-15 17:06:49",
+      "added_at": "2025-01-22 18:19:25",
       "album": {
         "name": "Just A Western (Boy Harsher Remix)",
         "url": "https://open.spotify.com/album/77DNkESTu7pZbZjWq3RD9e"
@@ -1477,7 +1493,7 @@
       "url": "https://open.spotify.com/track/3SgaIF7QF3DgRG3yFLlzVe"
     },
     {
-      "added_at": "2024-10-11 04:00:00",
+      "added_at": "2025-01-22 18:19:25",
       "album": {
         "name": "C,XOXO (Magic City Edition)",
         "url": "https://open.spotify.com/album/6mym3v2HWcsH1oBN6A7SPm"

@@ -2345,6 +2345,24 @@
     },
     {
       "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177106,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5"
+    },
+    {
+      "album": {
         "name": "Universe - The 3rd Album",
         "url": "https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs"
       },

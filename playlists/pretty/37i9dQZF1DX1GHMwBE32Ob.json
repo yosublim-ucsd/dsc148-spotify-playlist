@@ -1,6 +1,6 @@
 {
   "description": "From the trenches. Through the streets.\nCover: Terry Apala",
-  "num_followers": 79050,
+  "num_followers": 79093,
   "original_name": "Street Energy ",
   "owner": {
     "name": "Spotify",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2025-01-21 11:25:15",
       "album": {
+        "name": "Bhad Boi",
+        "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
+      },
+      "artists": [
+        {
+          "name": "BhadBoi OML",
+          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
+        }
+      ],
+      "duration_ms": 161818,
+      "name": "Alimanjiri",
+      "url": "https://open.spotify.com/track/7nYvrKpbodXxGfYU2sMgIU"
+    },
+    {
+      "added_at": "2025-01-21 11:25:15",
+      "album": {
         "name": "Wale (Remix) [feat. Simi]",
         "url": "https://open.spotify.com/album/4Gnum64pHtsMvBIqRUKzrP"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 188135,
       "name": "Wale (Remix) [feat. Simi]",
       "url": "https://open.spotify.com/track/0CetiWNK7oVzF5H0M2dGTS"
-    },
-    {
-      "added_at": "2025-01-21 11:25:15",
-      "album": {
-        "name": "Bhad Boi",
-        "url": "https://open.spotify.com/album/2JrMvVPza1zRBAuz3eDufm"
-      },
-      "artists": [
-        {
-          "name": "BhadBoi OML",
-          "url": "https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN"
-        }
-      ],
-      "duration_ms": 161818,
-      "name": "Alimanjiri",
-      "url": "https://open.spotify.com/track/7nYvrKpbodXxGfYU2sMgIU"
     }
   ],
   "unique_name": "Street Energy ",

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 
 ### [NIGHT TRAVELER Radio](https://open.spotify.com/playlist/37i9dQZF1E4kTD46HZNyiq)
 
-> With LAVE, The Wild Wind, The Strike and more
+> With The Wild Wind, LAVE, Laureline and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,020 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,019 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4kTD46HZNyiq.md) - [plain]
 | 49 | [The Hotel](https://open.spotify.com/track/5Qd5FCnGCRbfxMdHkMtOF6) | [VICTORS](https://open.spotify.com/artist/163g9TCjTPJMjem8Iwv6iN) | [The Hotel](https://open.spotify.com/album/1X89li9iU1in3pFaWvCRoP) | 4:00 |
 | 50 | [Parachute](https://open.spotify.com/track/7AFTfujw3igAr8FZLxUXe6) | [Vacation Manor](https://open.spotify.com/artist/6lcBiGiT3dlyDMjBBtfyfS) | [Vacation Manor](https://open.spotify.com/album/25NfVGVNGWBm9PxtY7AxEF) | 3:31 |
 
-Snapshot ID: `Z5BLSQAAAACAox/AhNlvZJoOWIOYPY6F`
+Snapshot ID: `Z5GVNAAAAADV/n6yeEdSBEWLaq2zGh3A`

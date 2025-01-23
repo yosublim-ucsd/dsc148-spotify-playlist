@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > The hottest tracks picked from the latest new releases in South Africa and the world\. Cover: <a href="https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r?si=sFWvqZNGSlOym0SV9gK93Q">Central Cee</a> , <a href="https://open.spotify.com/artist/1URnnhqYAYcrqrcwql10ft?si=f6\-Hfc4iTKyY543MVVs4Rw">21 Savage</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,479 likes - 49 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,516 likes - 49 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

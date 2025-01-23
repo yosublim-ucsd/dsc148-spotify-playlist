@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,240 likes - 70 songs - 2 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,234 likes - 70 songs - 2 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,9 +57,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 47 | [Christmas Time](https://open.spotify.com/track/7zaBeDLJCht8KSvkvGIRje) | [Pj Panda](https://open.spotify.com/artist/5JoLyttlVOhNk4gGBTXsMS) | [Pj Panda Christmas Party 2](https://open.spotify.com/album/4xIEYSi2W8tIE3O8km7GJ3) | 2:01 |
 | 48 | [For Goodness' Sake](https://open.spotify.com/track/1ffWyeC32jceZHUIuTb209) | [The Elf on the Shelf](https://open.spotify.com/artist/4dddVkEyk0OPdjFsvGhgBq) | [For Goodness' Sake](https://open.spotify.com/album/2xEeJ62d2QOHtQzkcKi2Wx) | 2:17 |
 | 49 | [Christmas Time](https://open.spotify.com/track/6IDvTrlkrfNjbT5K8KDpIg) | [Fixiki](https://open.spotify.com/artist/3YDDfBycguqyJnWZdvOaWj) | [Christmas Time](https://open.spotify.com/album/51RNxuaLwgCQ4dY1zTh9TC) | 2:05 |
-| 50 | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/track/1quDa34OPuY1chb0vAKmtO) | [Marc Biala](https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg) | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/album/2RsXIpTTgPkd0F7YDUi7uH) | 2:16 |
+| 50 | [Snow Day](https://open.spotify.com/track/5F1dZqV8LSxhcqAUJ75jSG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Christmas with Pancake Manor](https://open.spotify.com/album/1PTKfDXc50iVuv217W9DAF) | 3:00 |
 | 51 | [I Saw Three Ships](https://open.spotify.com/track/5XRkCGAzvGsG1ygRm1JPd1) | [The Countdown Kids](https://open.spotify.com/artist/6PZYFmF3PH6cOREAzfXiAL) | [On Christmas Day! \(20 Holiday Family Favorites\)](https://open.spotify.com/album/6yPYut6ZVZqhJICvp84Ucc) | 1:56 |
-| 52 | [Snow Day](https://open.spotify.com/track/5F1dZqV8LSxhcqAUJ75jSG) | [Pancake Manor](https://open.spotify.com/artist/6bwjTCySXPwecMWvs9ce5C) | [Christmas with Pancake Manor](https://open.spotify.com/album/1PTKfDXc50iVuv217W9DAF) | 3:00 |
+| 52 | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/track/1quDa34OPuY1chb0vAKmtO) | [Marc Biala](https://open.spotify.com/artist/6LLoUeo7ZlkB1Sy5yIlVSg) | [Frenchie, Don't Eat The Christmas Tree](https://open.spotify.com/album/2RsXIpTTgPkd0F7YDUi7uH) | 2:16 |
 | 53 | [We Wish You a Merry Christmas](https://open.spotify.com/track/5XssuqGt2h4vJeaYvgAd64) | [The Nursery Rhymes](https://open.spotify.com/artist/62WeEJTAzSXNxt3nXhQMj9) | [Christmas Lullabies for Babies \- Ukulele Songs](https://open.spotify.com/album/3moWHsmRQcLONCfFxCPumu) | 1:09 |
 | 54 | [We Wish You a Merry Christmas](https://open.spotify.com/track/7Ctxl1dKrbv8GAuFxzJ8pR) | [Plim Plim](https://open.spotify.com/artist/0XGgmwDOrlZE5O7GHCHJy8) | [Merry Christmas! Vol\. 2](https://open.spotify.com/album/4dXjs365PDPBoQmxyPreef) | 2:14 |
 | 55 | [Joy to the World](https://open.spotify.com/track/4SiNPQdSlRqjT0bEy0cpFA) | [Mother Goose Club](https://open.spotify.com/artist/6h76MLMaPUoWVPC7VnEw86) | [Fall and Winter Holiday Songs for Kids](https://open.spotify.com/album/0pUwuW2CPzA7AmMcFwGOPU) | 2:32 |

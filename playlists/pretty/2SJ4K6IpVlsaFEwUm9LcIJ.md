@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 
 > what i&\#x27;m listening to: jan\-feb 2025 \(previous playlists archived on my profile\)
 
-[margeaux](https://open.spotify.com/user/1220511975) - 22,642 likes - 28 songs - 1 hr 48 min
+[margeaux](https://open.spotify.com/user/1220511975) - 22,651 likes - 27 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,11 +30,10 @@ pretty - [cumulative](/playlists/cumulative/2SJ4K6IpVlsaFEwUm9LcIJ.md) - [plain]
 | 20 | [Morning Morgantown](https://open.spotify.com/track/6jhvDPA1wPvyZgt4Sd0jV2) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 3:13 |
 | 21 | [The Circle Game](https://open.spotify.com/track/6MYDgkfu34kRRIdMfleVCV) | [Joni Mitchell](https://open.spotify.com/artist/5hW4L92KnC6dX9t7tYM4Ve) | [Ladies of the Canyon](https://open.spotify.com/album/7JOdtLDLyXJIppDRB7kxr9) | 4:52 |
 | 22 | [Mrs\. Bean](https://open.spotify.com/track/4j8ONr3RwQfMxBJDkcynks) | [The Essex Green](https://open.spotify.com/artist/2hLQppESVnOV9ntMD3uA4G) | [Everything Is Green](https://open.spotify.com/album/7d7j8g2LvfVm8wU4a4G5KI) | 3:21 |
-| 23 | [donatt gonatt](https://open.spotify.com/track/1KTUanjuON1WRpdAm7K0q6) | [Otis Sandsjö](https://open.spotify.com/artist/6diHo4GRFDIubnyPcfdt44), [Petter Eldh](https://open.spotify.com/artist/2q0DyP2pqqNHI4OiC50IKx), [Dan Nicholls](https://open.spotify.com/artist/3jPACp3hjJoZE4amLccrTW) | [Y\-OTIS TRE](https://open.spotify.com/album/5Ft7Z5wGzds53aw1ivIPAS) | 2:18 |
-| 24 | [Fall](https://open.spotify.com/track/5KaiNwgfnkly6R5E7Cc7sp) | [Single Gun Theory](https://open.spotify.com/artist/6VvRVDUFfXTNbEllPHDc2t) | [Flow, River Of My Soul](https://open.spotify.com/album/5XFFDUvJmVTYrOmQN622W4) | 4:26 |
-| 25 | [On Your Face](https://open.spotify.com/track/34M25B0BthDKQyCwNDEgqW) | [Charles Stepney](https://open.spotify.com/artist/1kGgLfwxUWUuggbxjF29Ds) | [Step on Step](https://open.spotify.com/album/2Zji6WdBJKpnFwfRnXMGEr) | 2:39 |
-| 26 | [Amanogawa](https://open.spotify.com/track/2BnVjXTKGlDgBw6QMWuXOw) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Image 1983 \- 1998](https://open.spotify.com/album/1VOLtARcWRJTQHf0NJJG4v) | 3:12 |
-| 27 | [How Can I Apply ...?](https://open.spotify.com/track/0mtT4rLj2sTy14btyZvbP3) | [Trashcan Sinatras](https://open.spotify.com/artist/0i2IEcWvtHUBYPkYWwCgjC) | [A Happy Pocket](https://open.spotify.com/album/40e48hdvuvFySGcMm33ps9) | 2:52 |
-| 28 | [Excellent](https://open.spotify.com/track/0zHt4XtjSIJ3io6Vex53PC) | [Cedric Freeman](https://open.spotify.com/artist/2YlaxSEjRPCbEnV3mF3I2m) | [Backdrop](https://open.spotify.com/album/20Er2ERoLRu061MKC0lRtT) | 2:48 |
+| 23 | [Fall](https://open.spotify.com/track/5KaiNwgfnkly6R5E7Cc7sp) | [Single Gun Theory](https://open.spotify.com/artist/6VvRVDUFfXTNbEllPHDc2t) | [Flow, River Of My Soul](https://open.spotify.com/album/5XFFDUvJmVTYrOmQN622W4) | 4:26 |
+| 24 | [On Your Face](https://open.spotify.com/track/34M25B0BthDKQyCwNDEgqW) | [Charles Stepney](https://open.spotify.com/artist/1kGgLfwxUWUuggbxjF29Ds) | [Step on Step](https://open.spotify.com/album/2Zji6WdBJKpnFwfRnXMGEr) | 2:39 |
+| 25 | [Amanogawa](https://open.spotify.com/track/2BnVjXTKGlDgBw6QMWuXOw) | [Susumu Yokota](https://open.spotify.com/artist/3ND5NWoKzlelYDDyWqSQpQ) | [Image 1983 \- 1998](https://open.spotify.com/album/1VOLtARcWRJTQHf0NJJG4v) | 3:12 |
+| 26 | [How Can I Apply ...?](https://open.spotify.com/track/0mtT4rLj2sTy14btyZvbP3) | [Trashcan Sinatras](https://open.spotify.com/artist/0i2IEcWvtHUBYPkYWwCgjC) | [A Happy Pocket](https://open.spotify.com/album/40e48hdvuvFySGcMm33ps9) | 2:52 |
+| 27 | [Excellent](https://open.spotify.com/track/0zHt4XtjSIJ3io6Vex53PC) | [Cedric Freeman](https://open.spotify.com/artist/2YlaxSEjRPCbEnV3mF3I2m) | [Backdrop](https://open.spotify.com/album/20Er2ERoLRu061MKC0lRtT) | 2:48 |
 
-Snapshot ID: `AAALwIpdKPbJL15wwcDo7iJXPk53wnsg`
+Snapshot ID: `AAALwTAugfs78GhlUZltmmyKpYEujTJj`

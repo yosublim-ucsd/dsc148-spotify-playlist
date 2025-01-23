@@ -1,13 +1,41 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 22 Jan 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Jan 23:02 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOxSjOpFonatDnJJC9aBUIv5YFxJPi",
+  "snapshot_id": "AAAOyUUVseQZEXaSyeL6Let0j3gC0Si6",
   "tracks": [
+    {
+      "added_at": "2025-01-22 23:02:39",
+      "album": {
+        "name": "True Religion",
+        "url": "https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "duration_ms": 170769,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M"
+    },
     {
       "added_at": "2025-01-20 14:03:12",
       "album": {
@@ -55,6 +83,22 @@
       "duration_ms": 152137,
       "name": "Doctor! Doctor!",
       "url": "https://open.spotify.com/track/7en6ZODJ7STm2ocxqKoYZs"
+    },
+    {
+      "added_at": "2025-01-22 19:02:37",
+      "album": {
+        "name": "After You",
+        "url": "https://open.spotify.com/album/6VISuMapTvAnaTvltpE7FC"
+      },
+      "artists": [
+        {
+          "name": "Courting",
+          "url": "https://open.spotify.com/artist/3oLTaC5QBOH96VbxMAafpZ"
+        }
+      ],
+      "duration_ms": 148724,
+      "name": "After You",
+      "url": "https://open.spotify.com/track/0fIvB3uEk6K6T9JACYD66O"
     },
     {
       "added_at": "2025-01-19 04:02:35",
@@ -185,6 +229,22 @@
       "url": "https://open.spotify.com/track/6CB1KxIhGspR2kXRK3wtI5"
     },
     {
+      "added_at": "2025-01-22 19:02:37",
+      "album": {
+        "name": "Cubicle",
+        "url": "https://open.spotify.com/album/3kKNE1FnPhgRLpj0c5tIz0"
+      },
+      "artists": [
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        }
+      ],
+      "duration_ms": 135816,
+      "name": "Cubicle",
+      "url": "https://open.spotify.com/track/16bo9rjhuBfM6mUFKpSdRJ"
+    },
+    {
       "added_at": "2025-01-17 09:03:22",
       "album": {
         "name": "Love Is Unkind",
@@ -199,6 +259,26 @@
       "duration_ms": 213142,
       "name": "Love Is Unkind",
       "url": "https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ"
+    },
+    {
+      "added_at": "2025-01-22 23:02:39",
+      "album": {
+        "name": "inthej",
+        "url": "https://open.spotify.com/album/2QUpX5PFxU2pCmW88hoPZL"
+      },
+      "artists": [
+        {
+          "name": "D. Savage",
+          "url": "https://open.spotify.com/artist/6FqXAd1hQl7vVdIQ3hhtgc"
+        },
+        {
+          "name": "PlaqueBoyMax",
+          "url": "https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS"
+        }
+      ],
+      "duration_ms": 109727,
+      "name": "inthej",
+      "url": "https://open.spotify.com/track/2kvANa2pnrrPxOUEjczuUx"
     },
     {
       "added_at": "2025-01-18 04:02:53",
@@ -815,70 +895,6 @@
       "duration_ms": 244473,
       "name": "shoreline",
       "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
-    },
-    {
-      "added_at": "2025-01-15 19:02:40",
-      "album": {
-        "name": "Ankles",
-        "url": "https://open.spotify.com/album/00Eyfj7pAuBtYzZrbxgC0P"
-      },
-      "artists": [
-        {
-          "name": "Lucy Dacus",
-          "url": "https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP"
-        }
-      ],
-      "duration_ms": 191476,
-      "name": "Ankles",
-      "url": "https://open.spotify.com/track/5qKo0YSaAkYe6kgYz8Ac0Y"
-    },
-    {
-      "added_at": "2025-01-15 23:03:11",
-      "album": {
-        "name": "Bury Me",
-        "url": "https://open.spotify.com/album/0RhHOTHgngW7Quc3cqY27x"
-      },
-      "artists": [
-        {
-          "name": "Jason Isbell",
-          "url": "https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY"
-        }
-      ],
-      "duration_ms": 182973,
-      "name": "Bury Me",
-      "url": "https://open.spotify.com/track/4pLlXT4tFbuDCARVXHWIsH"
-    },
-    {
-      "added_at": "2025-01-14 14:03:07",
-      "album": {
-        "name": "Bovine Excision",
-        "url": "https://open.spotify.com/album/6CMquIsmPgGoeLRAHTiVSt"
-      },
-      "artists": [
-        {
-          "name": "Samia",
-          "url": "https://open.spotify.com/artist/1Uk1GyijF6fSfX4mWq5bfR"
-        }
-      ],
-      "duration_ms": 173177,
-      "name": "Bovine Excision",
-      "url": "https://open.spotify.com/track/1ASUVRxADu66bSIKV9XN9r"
-    },
-    {
-      "added_at": "2025-01-18 04:02:53",
-      "album": {
-        "name": "Mirror",
-        "url": "https://open.spotify.com/album/4brI5XyZZXGy0g67k3TX3Y"
-      },
-      "artists": [
-        {
-          "name": "The Weather Station",
-          "url": "https://open.spotify.com/artist/39ZEMGRv3pIYTYKEhr4Abu"
-        }
-      ],
-      "duration_ms": 296226,
-      "name": "Mirror",
-      "url": "https://open.spotify.com/track/6sDtLg4f8iffw5YeIivEBl"
     }
   ],
   "unique_name": "New Singles Now",

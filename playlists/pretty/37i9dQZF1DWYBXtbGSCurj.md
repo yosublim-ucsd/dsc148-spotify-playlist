@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, entre lançamentos e hits\. Foto: Teto
 
-[Spotify](https://open.spotify.com/user/spotify) - 453,660 likes - 74 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 453,736 likes - 74 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,7 +75,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 65 | [Luz da Lua](https://open.spotify.com/track/3utNVoklJZlu7z5Nir1zEZ) | [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe) | [Traumas e Vícios](https://open.spotify.com/album/6lUCF0fQNUTnVCdTgF8k7K) | 2:54 |
 | 66 | [Replay \- Spotify Singles](https://open.spotify.com/track/7xSqol097FL2kKL4wzE10Z) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH) | [Replay \- Spotify Singles](https://open.spotify.com/album/4fDELkyBSaTlvCFYFzPB2h) | 2:30 |
 | 67 | [AlDeia Da Folha/808](https://open.spotify.com/track/5AMdZK3DhxE8Ad2M27DxrV) | [Jovem Dex](https://open.spotify.com/artist/0OLpdla9YvZOtlPnQkXScl) | [Olha Essa Arte](https://open.spotify.com/album/3VVJ9SJ8yoGI7RJ51Bx5uf) | 2:19 |
-| 68 | [Fodo Com As Modelo](https://open.spotify.com/track/5x7uB5325nUffxqi8sFbTe) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Rare Kidd](https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Bisqui Polemico](https://open.spotify.com/artist/3Tp7hiMCJq3ke1jpEijsKT) | [NOVA ORDEM MIXTAPE](https://open.spotify.com/album/2fKKRlr8lS6ttFgoTKcYpo) | 4:13 |
+| 68 | [Fodo Com As Modelo](https://open.spotify.com/track/5x7uB5325nUffxqi8sFbTe) | [Jé](https://open.spotify.com/artist/4xKfNBUXa00go8RU9TwwkI), [Rare Kidd](https://open.spotify.com/artist/3JXoHpIoacDkGxh8rlMlBd), [Tevito](https://open.spotify.com/artist/6CWmfPTRsOY4dVgOjaMimf), [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [Bisqui](https://open.spotify.com/artist/2TLX5U1HoPlgzky1SstRWJ) | [NOVA ORDEM MIXTAPE](https://open.spotify.com/album/2fKKRlr8lS6ttFgoTKcYpo) | 4:13 |
 | 69 | [CARA DI CRIA \#5](https://open.spotify.com/track/4eVmrM4nCfDfaQR8BZSLlO) | [Raffé](https://open.spotify.com/artist/0BMccF4OSgl180EzdVFY9m) | [CARA DI CRIA \#5](https://open.spotify.com/album/2xRKLqljHrtUVDb4jpIfQK) | 1:58 |
 | 70 | [FORMAÇÃO TÁTICA](https://open.spotify.com/track/0q5GOSSzht4EXTA9ycyP3Q) | [Mattyahu](https://open.spotify.com/artist/1ze3tHq3Xv4KbXhC5UdzNw), [Dfideliz](https://open.spotify.com/artist/0oNOkdVXXFaWC9tPb7Ol10), [Neckklace](https://open.spotify.com/artist/3914e1ewXuF036M63rgK0d) | [FORMAÇÃO TÁTICA](https://open.spotify.com/album/0YxoqADNah3d0PryO4EZiu) | 3:16 |
 | 71 | [DISPUTA](https://open.spotify.com/track/4T8Z2T8z1RBJw75HXfw7Lz) | [olie](https://open.spotify.com/artist/3lhjMeQAJL0YU6Hc4MGPTl), [Arthurzim](https://open.spotify.com/artist/60chcKrdgEA7TZbi4fWVri) | [DISPUTA](https://open.spotify.com/album/3tFW9R4fTbNRmmFvmretg2) | 2:19 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Eyshila
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,145 likes - 50 songs - 3 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,188 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 21 | [O Rio e o Fruto](https://open.spotify.com/track/5I6Bb91dtCd8Kr4U9MSLad) | [Rich Lima](https://open.spotify.com/artist/3Zlx3oFGZAMzJo0ZVVCggJ) | [O Rio e o Fruto](https://open.spotify.com/album/7x3Wmh9ypevuGmah3DD0G5) | 4:33 |
 | 22 | [Palácios](https://open.spotify.com/track/0w9Quz5QiPWcrFXz9HTqva) | [Stone Band](https://open.spotify.com/artist/2Y7islTqXAzOxa5lmwOXUc) | [Palácios](https://open.spotify.com/album/7GHDLSMp5iTpdymQpqhxCV) | 3:20 |
 | 23 | [Quem Foi Que Disse?](https://open.spotify.com/track/5K0ApmYOKIrjSek4rO2P5q) | [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Quem Foi Que Disse?](https://open.spotify.com/album/5w2FgJKkPExQn961qh6m6s) | 4:20 |
-| 24 | [Eu Gosto Mesmo](https://open.spotify.com/track/6LgCrukNpvvMlCD8ZDArUE) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [CT Missões](https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE) | [Live Session \(Original Soundtrack\)](https://open.spotify.com/album/2RgJPg8bjZIJRlNm5unKCL) | 3:09 |
+| 24 | [Eu Gosto Mesmo](https://open.spotify.com/track/6LgCrukNpvvMlCD8ZDArUE) | [Adônis Maia](https://open.spotify.com/artist/2r95lHSkXMPvdZISqrO9XN), [CT Missões](https://open.spotify.com/artist/4e3kAOlMHkUbadrcs9MLhE), [Audiolife](https://open.spotify.com/artist/0eqZOtRbGGZr49typLoBH2) | [Live Session \(Original Soundtrack\)](https://open.spotify.com/album/2RgJPg8bjZIJRlNm5unKCL) | 3:09 |
 | 25 | [Escape](https://open.spotify.com/track/6z5hadHglLMtp2sf8L8Or9) | [Jeyzer Maia](https://open.spotify.com/artist/1ibeddC8BqcjmYnfVzjQUh) | [Escape](https://open.spotify.com/album/1OZP7A6bb4HPNXLwhmVNfj) | 4:33 |
 | 26 | [Vivo de Misericórdia](https://open.spotify.com/track/6L4OabSuHGFXzrlysZnJuD) | [GBA Stage](https://open.spotify.com/artist/6s7YSVBs6f9Asf9UZydQ4s), [Gabriela de Sá](https://open.spotify.com/artist/1lIUn0y4rx85uawdgAHzjF) | [Vivo de Misericórdia](https://open.spotify.com/album/4Sz6ELn13nACUMXPWCMRZR) | 3:29 |
 | 27 | [Sexta de Manhã](https://open.spotify.com/track/0tOxi92L9SLlrVYe3no3Oo) | [Rafael Caff](https://open.spotify.com/artist/2ndrJSgCakELeEvOBoQeaw), [Gui Hazel](https://open.spotify.com/artist/5aoZ1HQ8sRZeMPnTr1IHJP), [Trindade Records](https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9) | [Sexta de Manhã](https://open.spotify.com/album/1MN7lnB5x7QIgPCmoEPw2W) | 3:00 |

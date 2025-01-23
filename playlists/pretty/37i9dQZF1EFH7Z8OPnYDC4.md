@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1pTbqkP3uq7DV5ytFGYR8N">Richard Rodgers \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 472 likes - 330 songs - 19 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 471 likes - 330 songs - 19 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,8 +59,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 49 | [Glad To Be Unhappy \- Remastered](https://open.spotify.com/track/0nyElOCpUSqLyzg1cD6dQe) | [Frank Sinatra](https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0) | [In The Wee Small Hours](https://open.spotify.com/album/3GmwKB1tgPZgXeRJZSm9WX) | 2:35 |
 | 50 | ["Do I Love You Because You're Beautiful?"](https://open.spotify.com/track/7bpekJEVJcOntT9ohNh2Kz) | [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob), [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 2:37 |
 | 51 | [Some Enchanted Evening](https://open.spotify.com/track/0xB8zbWKO61EKTb7A3CUpL) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Robert Norberg](https://open.spotify.com/artist/4iVTujtmxeDNd1XJX9cHLa) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 3:14 |
-| 52 | [Getting To Know You](https://open.spotify.com/track/1N5uQtJb5LvQ00FWAjtptC) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Royal Children](https://open.spotify.com/artist/4RwkzhdGdwuCXpc16KVQsU), [Royal Wives](https://open.spotify.com/artist/7IqdJx0tD4bvARXO8jiaFb), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:32 |
-| 53 | [Surrey With The Fringe On Top](https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:20 |
+| 52 | [Surrey With The Fringe On Top](https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:20 |
+| 53 | [Getting To Know You](https://open.spotify.com/track/1N5uQtJb5LvQ00FWAjtptC) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Royal Children](https://open.spotify.com/artist/4RwkzhdGdwuCXpc16KVQsU), [Royal Wives](https://open.spotify.com/artist/7IqdJx0tD4bvARXO8jiaFb), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:32 |
 | 54 | [You’ve Got To Be Carefully Taught](https://open.spotify.com/track/0voioalGy7GVkuzCrdZpsT) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [American Standard](https://open.spotify.com/album/0wwpYXYdn6MSrWHZv4nyFh) | 2:26 |
 | 55 | [Sing For Your Supper](https://open.spotify.com/track/5FwN877RnDZt5X7z0nqzGP) | [The Mamas & The Papas](https://open.spotify.com/artist/1bs7HoMkSyQwcobCpE9KpN) | [Deliver](https://open.spotify.com/album/0zR6CIh3f8DFFzIee5AWwp) | 2:48 |
 | 56 | [Younger Than Springtime](https://open.spotify.com/track/3ugiRcjam4qDXqOWkMpoUp) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [On The Street Where You Live](https://open.spotify.com/album/3bEDRBAUxgvyTShJHpxIkA) | 3:20 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFH7Z8OPnYDC4.md) - [plain]
 | 329 | [I Can Do Wonders with You](https://open.spotify.com/track/4K5mjacswcVXXu7EQcnWD3) | [Harold "Scrappy" Lambert](https://open.spotify.com/artist/4Ia4tLsFNJlCd9y2Gv1fhD) | [Top 100 Classics \- The Very Best of Harold 'Scrappy'Lambert](https://open.spotify.com/album/4PkdJTJNLUMn3HyIdUQ0GH) | 2:38 |
 | 330 | [Revelation](https://open.spotify.com/track/7eGf0QpxsG6Emm0QoS332z) | [Lionel Newman](https://open.spotify.com/artist/2MBYO70OYRtFMIsocitWxt), [His Orchestra](https://open.spotify.com/artist/6lXiGaWjISZnER53ZJe6QO) | [The View from Pompey's Head \(Music from the Original 1955 Motion Picture Soundtrack\)](https://open.spotify.com/album/1ANQab0F7gyz4Pu9SM0QBk) | 1:31 |
 
-Snapshot ID: `AbnfVgAAAABVVjmUR7R+FFptiLFmbdFg`
+Snapshot ID: `Abnk9gAAAAChU0hNutoYc1mPJoxCfVmD`

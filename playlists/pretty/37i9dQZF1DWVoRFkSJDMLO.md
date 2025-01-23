@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 
 > From the continent to the islands\. Cover: Skiifall
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,533 likes - 74 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,557 likes - 74 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVoRFkSJDMLO.md) - [plain]
 | 5 | [Cocoa Tea](https://open.spotify.com/track/1x89dD1bENfCHL6MiZurDI) | [Kes](https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6) | [Cocoa Tea](https://open.spotify.com/album/4bKlTsxPKoojrBks3j7JSL) | 3:31 |
 | 6 | [Tap](https://open.spotify.com/track/7zTcDU0SkLDbTTafpMfvKw) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Tap](https://open.spotify.com/album/3dEDoMrCyP0OCTXkT61aY7) | 2:47 |
 | 7 | [Green Light](https://open.spotify.com/track/6siekaIb5RdU8xQXjagBMF) | [DJ Kaywise](https://open.spotify.com/artist/74feid8HSOjUPnhiV3BNBG), [Black Sherif](https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ), [Buju Banton](https://open.spotify.com/artist/4wLAjfeqAsV66AocWNcowA) | [Green Light](https://open.spotify.com/album/3lBsMyI5SKXtvE2aB8mj9j) | 2:25 |
-| 8 | [Bukhaar](https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Bukhaar](https://open.spotify.com/album/4DekJgQN6z4P2EuSnhUIx9) | 3:46 |
+| 8 | [Bukhaar](https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Bukhaar](https://open.spotify.com/album/4DekJgQN6z4P2EuSnhUIx9) | 3:46 |
 | 9 | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi) | [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [Focus On Me \(All The Sexy Girls In The Club\)](https://open.spotify.com/album/5DsOXNHR7dHOSVQ5sFDp4N) | 3:09 |
 | 10 | [Ma Fren](https://open.spotify.com/track/6VPW4Y26vl92U2i4RLiF3U) | [Konshens](https://open.spotify.com/artist/3nwYsifpwrKmCIpw4i0HDW) | [Ma Fren](https://open.spotify.com/album/5ModGDtYXtRaiUyB6ovjOk) | 2:52 |
 | 11 | [Petit Bonbon](https://open.spotify.com/track/35rWz1MYgLrwJ2LK38yGis) | [Lu City](https://open.spotify.com/artist/5UoVuwjRIYT6WGDUJjT1Se), [Didi B](https://open.spotify.com/artist/2FwWGogJ04HZdALWeMxZA4) | [Petit Bonbon](https://open.spotify.com/album/47GBuTt5lFqHWfyHEUwAHs) | 3:10 |

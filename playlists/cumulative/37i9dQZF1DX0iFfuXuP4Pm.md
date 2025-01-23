@@ -2,9 +2,9 @@
 
 ### [Tatak Pinoy](https://open.spotify.com/playlist/37i9dQZF1DX0iFfuXuP4Pm)
 
-> Mga nangunguna sa mundo ng OPM\. <br/>Cover: Amiel Sol
+> Mga nangunguna sa mundo ng OPM\. Cover: Maki
 
-257 songs - 15 hr 50 min
+259 songs - 15 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Babaero](https://open.spotify.com/track/0NJAqnvbF6vzripOB7PclP) | [gins&melodies](https://open.spotify.com/artist/2WzWSpOB41g3gb78Raj6RK), [Hev Abi](https://open.spotify.com/artist/4zpGxqF6oI1h3f6Md2v42T) | [Babaero](https://open.spotify.com/album/1rWV1baWSlnYYrYxU719QO) | 2:55 | 2024-01-29 | 2024-07-12 |
 | [Baggages](https://open.spotify.com/track/5CdRKbPYKe0V2bgNrQfRcd) | [Zeke Abella](https://open.spotify.com/artist/5aEAM9GB7loq6xxai3YYrn) | [Baggages](https://open.spotify.com/album/0HARzAL7EzcvJ3d5AV5ks7) | 3:16 | 2024-07-24 | 2024-10-03 |
 | [Bagong Tradisyon](https://open.spotify.com/track/5H7dSVRGiOP7eRUz7qXu6o) | [TONEEJAY](https://open.spotify.com/artist/2KdFoq4IBXMzfia4ZCLDIs) | [Bagong Tradisyon](https://open.spotify.com/album/6BJHujHabp4qnJfwvAmfqp) | 3:32 | 2024-01-24 | 2024-03-07 |
+| [Bagyo](https://open.spotify.com/track/0I2ugiLWhuMPSxpmEeRpZA) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 3:47 | 2025-01-22 |  |
 | [Bawat Taon](https://open.spotify.com/track/6kYyxKJDpeGFwQTIdhIlpp) | [Arthur Miguel](https://open.spotify.com/artist/2Ev7vtPI38BE2kQvwmH4ce) | [Bawat Taon](https://open.spotify.com/album/27Uo3d3sLqClyT7tX9ooHQ) | 3:54 | 2024-01-24 | 2024-02-15 |
 | [bet](https://open.spotify.com/track/4R96Fg25lU1Sfsvqf1XNLa) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [bet](https://open.spotify.com/album/6bJmksvW1u7i1mh78WeQB9) | 3:08 | 2024-04-10 | 2024-08-08 |
 | [better than he does](https://open.spotify.com/track/68fzlFxU1uUeLTK68ICK3J) | [Denise Julia](https://open.spotify.com/artist/3L1qgTsUqavkiygkIKfWJD) | [better than he does](https://open.spotify.com/album/4FQyEFRe3Wmpm5bY9IxeJF) | 2:33 | 2024-10-30 | 2024-12-12 |
@@ -193,6 +194,7 @@
 | [Para Sa Akin](https://open.spotify.com/track/5v5dlsJYrw9xiB36GELIUV) | [Jason Dhakal](https://open.spotify.com/artist/7Hb2cm4pIeCUKwfzutKyjp) | [Para Sa Akin](https://open.spotify.com/album/1qtZrt2G6Yr3RP3ZfMGxwU) | 3:17 | 2024-01-24 | 2024-05-09 |
 | [Paraya](https://open.spotify.com/track/5DDS1hu1GcEZppuArUcfUA) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Paraya](https://open.spotify.com/album/6Rlp7gO2NJv8YEDuCkBRWX) | 4:12 | 2024-09-11 | 2024-10-30 |
 | [PAREHAS TAYO](https://open.spotify.com/track/6KDLUcxVRvXIXMexgf9x9b) | [Nateman](https://open.spotify.com/artist/14AlQdTUuzYESzQYKU6QIE) | [PAREHAS TAYO](https://open.spotify.com/album/3as5iLN6ugZO7Kz4xVaHdk) | 4:16 | 2024-01-24 | 2024-04-04 |
+| [Pasensyoso](https://open.spotify.com/track/6zdWDcq0oUFFMqDHVkCL8Y) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [Pasensyoso](https://open.spotify.com/album/55n5ypmobXM2XfuUZosSo4) | 3:11 | 2025-01-22 |  |
 | [Patintero](https://open.spotify.com/track/3nupCyAjgcopsWicJpGk6D) | [BGYO](https://open.spotify.com/artist/10bk3EHVC30yi6F10nmvL8) | [Patintero](https://open.spotify.com/album/0Ig0ZylVO9YCmgrYeYOLbk) | 2:53 | 2024-02-14 | 2024-02-29 |
 | [Patutunguhan](https://open.spotify.com/track/1EP2WyCX9Q7y24bKPSZ0tc) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Patutunguhan](https://open.spotify.com/album/6UPgk02gaRFzLqy15dFH3I) | 4:12 | 2024-01-24 | 2024-02-08 |
 | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/track/5PrQ7aBjgQMa2eKvCjneUq) | [dwta](https://open.spotify.com/artist/1UwnrHfh8Kd8Y8Ax8a3qWy) | [Pauwi Na 'Ko \(Dito Ka Na Lang\)](https://open.spotify.com/album/2449JgrjgDvIKzQjy1BEJm) | 3:50 | 2024-06-05 | 2024-10-18 |
@@ -203,7 +205,7 @@
 | [Puting Papel](https://open.spotify.com/track/21e4DRfB39O7VtoejY78Cg) | [Gloc\-9](https://open.spotify.com/artist/7HJDRQAfEcFiARVehhM6qD), [Kael Guerrero](https://open.spotify.com/artist/3Lcxk1qxmoKXVMxKSR4aWQ), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Puting Papel](https://open.spotify.com/album/41uEz1eIG39QQLTQlNYD7Q) | 4:53 | 2024-12-11 | 2025-01-16 |
 | [pwede ba kitang ligawan?](https://open.spotify.com/track/54jyPfgfNqsSrGy9pFkYQD) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [pwede ba kitang ligawan?](https://open.spotify.com/album/1965BuJYRYfO7y8hjW6Mki) | 2:15 | 2024-02-14 | 2024-07-12 |
 | [Ready](https://open.spotify.com/track/4JZocgyzKHdRF0iSOcodJn) | [apl.de.ap](https://open.spotify.com/artist/6LB6kuJjrGvRzAkH6ddeWt), [SB19](https://open.spotify.com/artist/3g7vYcdDXnqnDKYFwqXBJP) | [Ready](https://open.spotify.com/album/1YoZaseeQUSZ16qgD8qAet) | 3:58 | 2024-06-05 | 2024-06-20 |
-| [rebound](https://open.spotify.com/track/3V60l0xsKjcvTaCXj3hcPL) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [rebound](https://open.spotify.com/album/4mSpI3bNoO6smNpcHpvC2G) | 2:23 | 2024-10-02 |  |
+| [rebound](https://open.spotify.com/track/3V60l0xsKjcvTaCXj3hcPL) | [The Juans](https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv) | [rebound](https://open.spotify.com/album/4mSpI3bNoO6smNpcHpvC2G) | 2:23 | 2024-10-02 | 2025-01-23 |
 | [Regrets](https://open.spotify.com/track/07TlwpmIzJE0nMffVhJDDx) | [HELLMERRY](https://open.spotify.com/artist/4NsbfTEC3nOcc0vOpZ1rRc) | [BLUDEVL](https://open.spotify.com/album/2IjAbVlaGvgpWOUcVQjK8x) | 4:04 | 2024-08-21 | 2024-09-05 |
 | [Relapse](https://open.spotify.com/track/6u6pneAPdW9MmCtUovu059) | [I Belong to the Zoo](https://open.spotify.com/artist/7tKpXx21KVUOR6vvDs6xtg) | [Relapse](https://open.spotify.com/album/6CDTs4H4TW6X38PVtSMIR4) | 4:04 | 2024-01-24 | 2024-03-28 |
 | [Right Now \(Na Na Na\)](https://open.spotify.com/track/5qvOar7Utet0sK0drULh9B) | [Brxn](https://open.spotify.com/artist/11sFlcfZXlFoGYEnPYfFSF), [RJ Pasin](https://open.spotify.com/artist/3BTY807ipaaT6QHW1tHTt0) | [Right Now \(Na Na Na\)](https://open.spotify.com/album/2AKhjyyZ6iLqpgoq1cjAXL) | 3:26 | 2024-01-24 | 2024-02-22 |
@@ -219,7 +221,7 @@
 | [San Ka Na](https://open.spotify.com/track/06EgbrpVPxamQ0dl0aygNM) | [Moira Dela Torre](https://open.spotify.com/artist/0rZRTXEmmPmx6gt92tBqIc) | [San Ka Na](https://open.spotify.com/album/1LclfphmHU5JfhtFnUEUHP) | 3:54 | 2024-11-06 |  |
 | [Sandal](https://open.spotify.com/track/5AqmRNx25UmxdyA93Gwb7P) | [James Reid](https://open.spotify.com/artist/24fEOzlKhgSNLIcy9NdmwH) | [Sandal](https://open.spotify.com/album/29fpGpYFrsx9QbWZiu2oWX) | 3:46 | 2024-09-04 | 2024-12-05 |
 | [Sandali](https://open.spotify.com/track/6gbhAe0l2WPXEGFYOBdPOO) | [mrld](https://open.spotify.com/artist/31fsDbpNPKe346urriO4ma) | [Sandali](https://open.spotify.com/album/6HculBGdKrjNRW3w2ChG7P) | 3:28 | 2024-06-26 | 2024-10-24 |
-| [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 | 2024-12-04 |  |
+| [SANGTAWAG](https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL) | [Nik Makino](https://open.spotify.com/artist/3lFMRWaEWZlfXdBig97kks), [Shao Lin](https://open.spotify.com/artist/0O9P28N4NG9JmBc9CiOSVt), [TreyLow Baby](https://open.spotify.com/artist/5RFDpU5mKqNZFRBBwDozde) | [SANGTAWAG](https://open.spotify.com/album/0plU5VAj4yqvvLBNUMwfTO) | 2:40 | 2024-12-04 | 2025-01-23 |
 | [Sariling Mundo](https://open.spotify.com/track/3QWCnRuQW5P602ZzHXLv7Z) | [TJ Monterde](https://open.spotify.com/artist/7LvDTuFCBv08xm6u1pOMK0) | [Sariling Mundo](https://open.spotify.com/album/2rfBUsHWqodvzhMDNDAeJW) | 3:12 | 2024-05-01 | 2024-10-10 |
 | [Save Me](https://open.spotify.com/track/00IoywtcjMMMAHBl5t0thC) | [John Roa](https://open.spotify.com/artist/2U5mF0PZqGu6glnz55yY0y), [Sarah Geronimo](https://open.spotify.com/artist/6aiCKnIN68hohzU3ZzNq48) | [Free Love](https://open.spotify.com/album/55NZX6AkVkxVck5NWisa2q) | 3:36 | 2024-11-20 | 2024-12-19 |
 | [Segundo, Siguro](https://open.spotify.com/track/01r5Imd2Zq78PKzx4vgul7) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Segundo, Siguro](https://open.spotify.com/album/0AR0FWh4eW1J7A5iP54hf0) | 4:44 | 2024-04-03 | 2024-06-13 |

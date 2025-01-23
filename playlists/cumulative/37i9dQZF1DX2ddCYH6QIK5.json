@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: laela, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from GSA, updated every Wednesday. Cover: Ceren, Artwork: Isu Kim",
   "name": "Fresh Finds GSA",
   "tracks": [
     {
@@ -1420,7 +1420,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 119200,
       "name": "Atmen beim tauchen",
       "url": "https://open.spotify.com/track/6VnpP5UvCuOxpxdYEuTA8u"
@@ -3292,7 +3292,7 @@
       ],
       "date_added": "2024-10-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 189408,
       "name": "Burning",
       "url": "https://open.spotify.com/track/078INFolOMlxdkBWhItdY5"
@@ -5984,7 +5984,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 179146,
       "name": "Echo",
       "url": "https://open.spotify.com/track/0KUVoCxO7yWundhdGqoNoz"
@@ -7430,7 +7430,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 268800,
       "name": "flowers and beez",
       "url": "https://open.spotify.com/track/0UCLkTb2OA6poRkeATraGw"
@@ -8044,6 +8044,24 @@
       "duration_ms": 185052,
       "name": "Gazino Maksim",
       "url": "https://open.spotify.com/track/6tZmOnCR1c89lAucyGlJJf"
+    },
+    {
+      "album": {
+        "name": "Geister",
+        "url": "https://open.spotify.com/album/6o5nwnW3f6LmeRKOlkL2EE"
+      },
+      "artists": [
+        {
+          "name": "Spinnen",
+          "url": "https://open.spotify.com/artist/1xIByYssqtRgefFvO6Q71F"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249750,
+      "name": "Geister",
+      "url": "https://open.spotify.com/track/6qJLkiWbMJw7XMSBQuGv9C"
     },
     {
       "album": {
@@ -8785,6 +8803,24 @@
     },
     {
       "album": {
+        "name": "G\u00fcnlerdir",
+        "url": "https://open.spotify.com/album/7hsY9iNJdBikkPtNwjwAWt"
+      },
+      "artists": [
+        {
+          "name": "Ceren",
+          "url": "https://open.spotify.com/artist/6sgeY4vovk7KfxVwiu2V9E"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165517,
+      "name": "G\u00fcnlerdir",
+      "url": "https://open.spotify.com/track/29xV18rQWj6FleoWaKszqo"
+    },
+    {
+      "album": {
         "name": "Habits",
         "url": "https://open.spotify.com/album/417BSRQhMWdIbC3X3QfRon"
       },
@@ -9482,7 +9518,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 235977,
       "name": "Heute Nacht",
       "url": "https://open.spotify.com/track/7FL0w02ekcXIQO6xtMyc0Q"
@@ -11425,6 +11461,24 @@
     },
     {
       "album": {
+        "name": "Karussell",
+        "url": "https://open.spotify.com/album/3iqhAto2RkKVxRD45OJZds"
+      },
+      "artists": [
+        {
+          "name": "TOBER",
+          "url": "https://open.spotify.com/artist/5SsDVO37BywigMe5vTaaRn"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226953,
+      "name": "Karussell",
+      "url": "https://open.spotify.com/track/10xhgj6YfqL2Q4zir3546A"
+    },
+    {
+      "album": {
         "name": "Katharina",
         "url": "https://open.spotify.com/album/3GMy9UVD4UmoXERz1p28FL"
       },
@@ -11786,6 +11840,24 @@
       "duration_ms": 222592,
       "name": "Know For Sure",
       "url": "https://open.spotify.com/track/5MwCStvgi7bAaIAJejufaA"
+    },
+    {
+      "album": {
+        "name": "Koksen",
+        "url": "https://open.spotify.com/album/0paibEqEGgJwcc4a6nq1Qo"
+      },
+      "artists": [
+        {
+          "name": "Kitti Ciao",
+          "url": "https://open.spotify.com/artist/0UE7B3yCMnx5xUKjfe9oJk"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185806,
+      "name": "Koksen",
+      "url": "https://open.spotify.com/track/1AoduvZ64JqQdxU5YqBfNx"
     },
     {
       "album": {
@@ -16544,7 +16616,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 181687,
       "name": "RACECAR",
       "url": "https://open.spotify.com/track/1bB2eQR50yAHLzUGU33tSS"
@@ -17216,6 +17288,24 @@
       "duration_ms": 144405,
       "name": "Robbed",
       "url": "https://open.spotify.com/track/5cjowzySTlIjoGRghGtFVI"
+    },
+    {
+      "album": {
+        "name": "rock n roll healing",
+        "url": "https://open.spotify.com/album/2h8tS5vUSw5gH0AVPUmESF"
+      },
+      "artists": [
+        {
+          "name": "Eveline",
+          "url": "https://open.spotify.com/artist/2QrM4CoNNTfbNZ7e8yvzR0"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167978,
+      "name": "rock n roll healing",
+      "url": "https://open.spotify.com/track/2CXDiDUdBihWFy1ztEDrtD"
     },
     {
       "album": {
@@ -18185,6 +18275,24 @@
     },
     {
       "album": {
+        "name": "Show Me What Love Is",
+        "url": "https://open.spotify.com/album/3RRD2qFwDwRgtErVxK7uGZ"
+      },
+      "artists": [
+        {
+          "name": "The Deadnotes",
+          "url": "https://open.spotify.com/artist/6Ul5GFMF8FIfK9ARp9efBF"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194043,
+      "name": "Show Me What Love Is",
+      "url": "https://open.spotify.com/track/1yrc1AelOtznrskQb5yjaZ"
+    },
+    {
+      "album": {
         "name": "Shyboy",
         "url": "https://open.spotify.com/album/49xgpzBLPlwh6L4eBGnYKk"
       },
@@ -19080,7 +19188,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 150508,
       "name": "Spiegel",
       "url": "https://open.spotify.com/track/7GH8CFhaHlY4UGaVJScm29"
@@ -21596,6 +21704,32 @@
       "duration_ms": 160074,
       "name": "umgekippt",
       "url": "https://open.spotify.com/track/1LTUDOpkkw5QJ7ozohaAd3"
+    },
+    {
+      "album": {
+        "name": "Und ich lauf",
+        "url": "https://open.spotify.com/album/6gWGVl93aFJUX98g4vMPg5"
+      },
+      "artists": [
+        {
+          "name": "Diemarcha",
+          "url": "https://open.spotify.com/artist/4G46pAcigEr3mgoCxagjhl"
+        },
+        {
+          "name": "vini baby",
+          "url": "https://open.spotify.com/artist/5mHIDxqRLcIu0iL5EG4gzz"
+        },
+        {
+          "name": "Turnup Tun",
+          "url": "https://open.spotify.com/artist/6jaPkL4pNfa4aEDCIEYNP0"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184285,
+      "name": "Und ich lauf",
+      "url": "https://open.spotify.com/track/02580fheyYmwita65q7p4f"
     },
     {
       "album": {

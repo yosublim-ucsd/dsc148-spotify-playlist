@@ -2,9 +2,9 @@
 
 ### [Lorem](https://open.spotify.com/playlist/37i9dQZF1DXdwmD5Q7Gxah)
 
-> The <a href="\#https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245\#">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap
+> The <a href="https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap
 
-3,146 songs - 7 day 2 hr 48 min
+3,147 songs - 7 day 2 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3022,6 +3022,7 @@
 | [White Ribbons](https://open.spotify.com/track/0cPFPeNJVdhVFrzfxqnE3k) | [NewDad](https://open.spotify.com/artist/1yz8XixOiIJJ9IxjbnfYV6) | [White Ribbons](https://open.spotify.com/album/6u9V40xxpugRbfvfMAsc06) | 4:24 | 2024-01-12 | 2024-03-30 |
 | [White Teeth](https://open.spotify.com/track/3Gqagi4hGvcHyoWznBi4q3) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:58 | 2023-08-31 | 2023-10-02 |
 | [Who Am I But Someone](https://open.spotify.com/track/5lnl3Ssiu8aYTDTmgdcItA) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Who Am I But Someone](https://open.spotify.com/album/6oDjID3EJnQpLQayVnXu43) | 2:42 | 2022-03-18 | 2022-06-16 |
+| [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-23 |  |
 | [Who Cares \(Never Inside Throwaway\)](https://open.spotify.com/track/4QOdODlBcVna8HLnCoyMPx) | [Wavehouse](https://open.spotify.com/artist/6KmoJrBEZ3yQbcJxANqcRp) | [Old Huron John Songs That I Deleted](https://open.spotify.com/album/30cNKlZBKs5ong4FqATXXs) | 3:29 | 2020-08-21 | 2020-09-17 |
 | [Who Did You Touch?](https://open.spotify.com/track/3YngBnCS5hVTrF0fu2EYGG) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Who Did You Touch?](https://open.spotify.com/album/4XBvrhmXpxJBV87B1Oh0a7) | 3:28 | 2024-05-31 | 2024-08-20 |
 | [who hurt you](https://open.spotify.com/track/6sBAlJ2mhfHHxf8XLURHSO) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Rx](https://open.spotify.com/album/1PhcZ4Ov6ZxuaUZF8r9rbk) | 3:28 | 2022-04-15 | 2022-06-10 |

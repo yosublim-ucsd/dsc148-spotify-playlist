@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Doechii",
-  "num_followers": 1591840,
+  "num_followers": 1591897,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-01-17 04:00:17",
       "album": {
+        "name": "shadowbox",
+        "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
+      },
+      "artists": [
+        {
+          "name": "MAVI",
+          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
+        }
+      ],
+      "duration_ms": 128780,
+      "name": "grindstone",
+      "url": "https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu"
+    },
+    {
+      "added_at": "2025-01-17 04:00:17",
+      "album": {
         "name": "The Bricktionary",
         "url": "https://open.spotify.com/album/1JusxKxvNCRvLEy7I7Cl9P"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 198297,
       "name": "Rabies (feat. Benny The Butcher)",
       "url": "https://open.spotify.com/track/7lIk3q0MT5hxtetX9ueIFu"
-    },
-    {
-      "added_at": "2025-01-17 04:00:17",
-      "album": {
-        "name": "shadowbox",
-        "url": "https://open.spotify.com/album/3rGKeVhGWOwBzodSU6zBXQ"
-      },
-      "artists": [
-        {
-          "name": "MAVI",
-          "url": "https://open.spotify.com/artist/1peoXq0RPx7czVoFjloeDQ"
-        }
-      ],
-      "duration_ms": 128780,
-      "name": "grindstone",
-      "url": "https://open.spotify.com/track/7GS1fVRRvFXlCobWkLhgGu"
     },
     {
       "added_at": "2025-01-17 04:00:17",

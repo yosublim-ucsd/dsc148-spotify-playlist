@@ -2,7 +2,7 @@
 
 ### [RAP 91 Tamil](https://open.spotify.com/playlist/37i9dQZF1DXcZdJumtdMCZ)
 
-> Best of Tamil Hip\-Hop!<br/>Cover : Yuvan Shankar Raja
+> Best of Tamil Hip\-Hop!<br/>Cover : Hip Hop Tamizha
 
 147 songs - 9 hr 0 min
 

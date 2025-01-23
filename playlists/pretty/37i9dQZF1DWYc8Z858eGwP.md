@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 
 > Discover your new favourite artists from Africa\. Cover:  <a href="https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU?si=U3O9\-pfZQk6ftAECJfrtAw">Shallipopi</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 106,600 likes - 50 songs - 2 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 106,686 likes - 50 songs - 2 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,7 +28,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYc8Z858eGwP.md) - [plain]
 | 18 | [Doha](https://open.spotify.com/track/5hphSVebVxTpDfrk09W0hS) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Loseyi Professor](https://open.spotify.com/album/38tvoGnBsZNd8FJg2YsCT4) | 2:44 |
 | 19 | [My Dealer](https://open.spotify.com/track/7IFoyt4ZL7raIETupyDCYM) | [KAESTYLE](https://open.spotify.com/artist/0o4t6y0LBJWs76vvuuzg50), [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [My Dealer](https://open.spotify.com/album/59uwDlcguOL6Pkf5Ln3tGU) | 2:28 |
 | 20 | [Constantly](https://open.spotify.com/track/3MldGIMtPcupNBI4Dnxolr) | [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM) | [Constantly](https://open.spotify.com/album/6tqG51134jDxxuWMaEgn8O) | 3:13 |
-| 21 | [MKK \(feat\. CowBoii, djygubzin.live & Ranger\)](https://open.spotify.com/track/7JNPhwzFNg4pb7wZqfR5ms) | [KMAT](https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [djygubzin.live](https://open.spotify.com/artist/1EIXiWMt5qcqkvurMsNyI0), [Ranger](https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk) | [MKK \(feat\. CowBoii, djygubzin.live & Ranger\)](https://open.spotify.com/album/54oleTyVcaBHpknjiXFpVe) | 6:05 |
+| 21 | [MKK \(feat\. CowBoii, djygubzin.live & Ranger\)](https://open.spotify.com/track/7JNPhwzFNg4pb7wZqfR5ms) | [KMAT](https://open.spotify.com/artist/4GugIMfUFCc3IJM7jD2C5d), [CowBoii](https://open.spotify.com/artist/5n0o0t9wgg6uzHqfVd2Yr1), [Gubziin](https://open.spotify.com/artist/1EIXiWMt5qcqkvurMsNyI0), [Ranger](https://open.spotify.com/artist/6V0AnQuqPD8zkTZKbO1pbk) | [MKK \(feat\. CowBoii, djygubzin.live & Ranger\)](https://open.spotify.com/album/54oleTyVcaBHpknjiXFpVe) | 6:05 |
 | 22 | [mo de ma \[by any minz\]](https://open.spotify.com/track/1YvsFwQPkCOB3YhKBKOnyL) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [mo de ma \[by any minz\]](https://open.spotify.com/album/3FpvmQUT2cWlJC6FxaUYgk) | 2:57 |
 | 23 | [Goosebumps](https://open.spotify.com/track/7sVH3E4Ea7vmggCkffdU4q) | [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [Goosebumps](https://open.spotify.com/album/0puYR0eJhVtrJAOsH5mbY4) | 2:46 |
 | 24 | [Align \(Sorry\)](https://open.spotify.com/track/1LwMUDKzi6gBBJsEThluL2) | [Manana](https://open.spotify.com/artist/6omm7OGZMQZ2XODf4JVKnQ) | [Our Broken Hearts Mend](https://open.spotify.com/album/62ih4cae6eJsADZp6HTA1B) | 2:37 |

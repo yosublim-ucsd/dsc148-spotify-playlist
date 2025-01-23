@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/72OyC97gX3XH2NtUk9BgiV">Oscar Hammerstein II \(of Rodgers & Hammerstein\)</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 419 likes - 120 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 418 likes - 120 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 28 | [Happy Talk](https://open.spotify.com/track/7ahQIRq0EOeY9UYVvABDFp) | [Nancy Wilson](https://open.spotify.com/artist/2JfVCMa3FlvQRlLT5uH9zb), [Cannonball Adderley](https://open.spotify.com/artist/5v74mT11KGJqadf9sLw4dA), [Sweet](https://open.spotify.com/artist/67nLnlcWUfGyc0hKgZQILs) | [Nancy Wilson/Cannonball Adderley](https://open.spotify.com/album/6yyNgCQNsJ3VJ9PP7CmvLJ) | 2:25 |
 | 29 | ["Do I Love You Because You're Beautiful?"](https://open.spotify.com/track/7bpekJEVJcOntT9ohNh2Kz) | [Santino Fontana](https://open.spotify.com/artist/47NluEnhJda2gsnjuvcoob), [Laura Osnes](https://open.spotify.com/artist/2TkSDFFCkyiMrHyL1a5BbF) | [Rodgers + Hammerstein's Cinderella \(Original Broadway Cast Recording\)](https://open.spotify.com/album/20bfhNnjgh82rleWpLWqe5) | 2:37 |
 | 30 | [Some Enchanted Evening](https://open.spotify.com/track/0xB8zbWKO61EKTb7A3CUpL) | [Jo Stafford](https://open.spotify.com/artist/1Jqk46QvzUn7SnwmTGX6Cw), [Robert Norberg](https://open.spotify.com/artist/4iVTujtmxeDNd1XJX9cHLa) | [Autumn In New York](https://open.spotify.com/album/6hM8Vc45AcGKa6XR5yqv14) | 3:14 |
-| 31 | [Getting To Know You](https://open.spotify.com/track/1N5uQtJb5LvQ00FWAjtptC) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Royal Children](https://open.spotify.com/artist/4RwkzhdGdwuCXpc16KVQsU), [Royal Wives](https://open.spotify.com/artist/7IqdJx0tD4bvARXO8jiaFb), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:32 |
-| 32 | [Surrey With The Fringe On Top](https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:20 |
+| 31 | [Surrey With The Fringe On Top](https://open.spotify.com/track/43bBYODzZFd9nOfBaBRrr6) | [Blossom Dearie](https://open.spotify.com/artist/5bWApG9Vdshhd1J50UnNf6) | [Once Upon A Summertime](https://open.spotify.com/album/5pJeMvBDbvBnmDJsd0Up9n) | 4:20 |
+| 32 | [Getting To Know You](https://open.spotify.com/track/1N5uQtJb5LvQ00FWAjtptC) | [Kelli O'Hara](https://open.spotify.com/artist/7p8IggUKyVuZy23HxdiNY9), [Royal Children](https://open.spotify.com/artist/4RwkzhdGdwuCXpc16KVQsU), [Royal Wives](https://open.spotify.com/artist/7IqdJx0tD4bvARXO8jiaFb), [Ted Sperling](https://open.spotify.com/artist/52V4Y04hrgiMi9uTaaTnl2), [Orchestra](https://open.spotify.com/artist/21ND47q78JLAfDR1qpKQmj) | [The King And I \(The 2015 Broadway Cast Recording\)](https://open.spotify.com/album/3fAq8Hfg4VH1Ce2jVilkBB) | 3:32 |
 | 33 | [You’ve Got To Be Carefully Taught](https://open.spotify.com/track/0voioalGy7GVkuzCrdZpsT) | [James Taylor](https://open.spotify.com/artist/0vn7UBvSQECKJm2817Yf1P) | [American Standard](https://open.spotify.com/album/0wwpYXYdn6MSrWHZv4nyFh) | 2:26 |
 | 34 | [Younger Than Springtime](https://open.spotify.com/track/3ugiRcjam4qDXqOWkMpoUp) | [Vic Damone](https://open.spotify.com/artist/4seoDLqmOLUf59y72WJP7g) | [On The Street Where You Live](https://open.spotify.com/album/3bEDRBAUxgvyTShJHpxIkA) | 3:20 |
 | 35 | [Shall We Dance'](https://open.spotify.com/track/1Slx4INt9vGDrF1VD0SwXN) | [Yul Brynner, Marni Nixon & Deborah Kerr](https://open.spotify.com/artist/1R6DiplUJF4EUJ1hXvifVb) | [The King and I \(original Motion Picture Soundtrack\)](https://open.spotify.com/album/5Wi3PgLve618qnUr3v6n7a) | 4:23 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFHTia2DMzhV.md) - [plain]
 | 119 | [Something New Is in My Heart](https://open.spotify.com/track/2ATuHuK2GvzM2P7487OMgq) | [Paul Weston And His Orchestra](https://open.spotify.com/artist/3EVyH5tLgdq62aXTdKfzey) | [The Columbia Album of Sigmund Romberg, Vol\. 1](https://open.spotify.com/album/3oKPObj9ZGUSRoiIkjnMGt) | 3:07 |
 | 120 | [Are You Love?](https://open.spotify.com/track/1UQw9iHInxKrcUpImks6tg) | [Sigmund Romberg](https://open.spotify.com/artist/04aXJJTCmpNfMOTSUf3Whr), [Jean Danton](https://open.spotify.com/artist/18ZDRc8M2oFZJZosfgbNXi), [Thomas Stumpf](https://open.spotify.com/artist/36BGKQzn3UNiw7GVjylEV4) | [American Dreamer](https://open.spotify.com/album/3w5Y0uWAjiF12Zs6eZ3Wqb) | 3:19 |
 
-Snapshot ID: `AbnfVgAAAADBJYNEkktD0hxaZ2ykDsNS`
+Snapshot ID: `Abnk9gAAAABuvpOXpuwqmDfCGkvpFtF0`

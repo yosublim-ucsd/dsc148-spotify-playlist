@@ -4305,6 +4305,24 @@
     },
     {
       "album": {
+        "name": "Open Mind",
+        "url": "https://open.spotify.com/album/0dcEMhlVSE5SgFgL7wJ5OB"
+      },
+      "artists": [
+        {
+          "name": "Iris Fairchild",
+          "url": "https://open.spotify.com/artist/4y0LLz0nnu6BQoaFI1zcUa"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122105,
+      "name": "Open Mind",
+      "url": "https://open.spotify.com/track/7lz4IM1oPgxaCvs1R0xTHn"
+    },
+    {
+      "album": {
         "name": "Paloma",
         "url": "https://open.spotify.com/album/3xRBY4G7wM6zO4tTZapAJ6"
       },

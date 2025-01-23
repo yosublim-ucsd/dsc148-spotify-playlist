@@ -1638,7 +1638,7 @@
       ],
       "date_added": "2023-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 223991,
       "name": "Dance Basanti",
       "url": "https://open.spotify.com/track/1NxlktIRgiAPJ8U06v9veI"
@@ -2392,7 +2392,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 249835,
       "name": "Gandi Baat",
       "url": "https://open.spotify.com/track/5kR5RZceCCPX3ks0rQP6kh"
@@ -5018,7 +5018,7 @@
       ],
       "date_added": "2024-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 256040,
       "name": "Pushpa Pushpa (From \"Pushpa 2 The Rule\") [HINDI]",
       "url": "https://open.spotify.com/track/1o0bFBGkxgxCnu6mg2YrP1"
@@ -5710,6 +5710,32 @@
       "duration_ms": 219970,
       "name": "Sip Sip 2.0 (From \"Street Dancer 3D\")",
       "url": "https://open.spotify.com/track/7Jo4yv6Iiwxla5z10lE1L9"
+    },
+    {
+      "album": {
+        "name": "Bharat",
+        "url": "https://open.spotify.com/album/6Jl2MfI7pB2hWKvTUc5DbA"
+      },
+      "artists": [
+        {
+          "name": "Vishal-Shekhar",
+          "url": "https://open.spotify.com/artist/6Mv8GjQa7LKUGCAqa9qqdb"
+        },
+        {
+          "name": "Shreya Ghoshal",
+          "url": "https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy"
+        },
+        {
+          "name": "Nakash Aziz",
+          "url": "https://open.spotify.com/artist/4kq8z3vydHjPDggxb16ErB"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247247,
+      "name": "Slow Motion",
+      "url": "https://open.spotify.com/track/7vnXEUbyvC5VAYLgpstOAQ"
     },
     {
       "album": {
@@ -6547,6 +6573,32 @@
     },
     {
       "album": {
+        "name": "Uyi Amma (From \"Azaad\")",
+        "url": "https://open.spotify.com/album/1UgFWElh16PWYpFN5vdCTF"
+      },
+      "artists": [
+        {
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
+        },
+        {
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
+        },
+        {
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253833,
+      "name": "Uyi Amma - From \"Azaad\"",
+      "url": "https://open.spotify.com/track/2nP1wLRh85mo5Wdj4RQldp"
+    },
+    {
+      "album": {
         "name": "Rocky Aur Rani Kii Prem Kahaani (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0sS6YgpAosPPZSRgvRawmu"
       },
@@ -6742,6 +6794,24 @@
       "duration_ms": 226501,
       "name": "Zingaat",
       "url": "https://open.spotify.com/track/5raWEZXYAapq6Qw1GIEIkU"
+    },
+    {
+      "album": {
+        "name": "Dhadak (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5ft8PMmwkMtZon38iyN8bA"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226501,
+      "name": "Zingaat",
+      "url": "https://open.spotify.com/track/6rDCSTANJ05fi9nDoEYRFu"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DX8xfQRRX1PDm"

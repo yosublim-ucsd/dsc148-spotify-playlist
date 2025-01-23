@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 
 > Check out the latest hits from Sandalwood!<br/>Cover : Max
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,485 likes - 75 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,488 likes - 75 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,7 +52,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 42 | [Middle Class \(From "Nimma Vasthugalige Neeve Javaabdaararu"\)](https://open.spotify.com/track/40TWsOEiISzQPNrRImQT04) | [Prasad K Shetty](https://open.spotify.com/artist/20uxeH7uGGbhMA8RqEjUf4), [Keshav Moorthy](https://open.spotify.com/artist/79xBEVnseG23fDs12xWsAi), [Vidyaa Prakash](https://open.spotify.com/artist/32Tih7l2ENujoyFiIMnXoC) | [Middle Class \(From "Nimma Vasthugalige Neeve Javaabdaararu"\)](https://open.spotify.com/album/2x2igeWT6cIjwEzO9DdJw5) | 3:20 |
 | 43 | [Ethakke Ee Mounave \(From "Navami"\)](https://open.spotify.com/track/1atyCS9tVBzQKmzwx5Xf7r) | [Manish Dinakar](https://open.spotify.com/artist/70HfG4IYLoQ6X4jyxUSmXw), [Aishwarya Rangarajan](https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO), [Giridhar Divan](https://open.spotify.com/artist/1PPTYIw2jwK8UbiASdgeoV), [Nagarjun Sharma](https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk) | [Ethakke Ee Mounave \(From "Navami"\)](https://open.spotify.com/album/0a4l5xpJTIQ7yn42uNRrKv) | 4:00 |
 | 44 | [Manave](https://open.spotify.com/track/27zhc8XjnO8220qnlaAuzd) | [Lydian Nadhaswaram](https://open.spotify.com/artist/730O8ypsgRAy0fDcOf5HiI), [Spoorthi Rao](https://open.spotify.com/artist/1IsbnYwJ3Y6hoR2Ct1rqT6), [Ajay Murugan](https://open.spotify.com/artist/2rWVSQK8QLmtTc3FwgFfpB) | [Barroz \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/3S3y7Z4VA16txugPofzqVN) | 4:24 |
-| 45 | [Blood \- Kannada](https://open.spotify.com/track/3VrpUwrImzTTXrQXTz47Em) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q) | [Marco \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7mUmwB2dkuEq6xQk6jK4Hh) | 3:29 |
+| 45 | [Blood \- Kannada](https://open.spotify.com/track/3VrpUwrImzTTXrQXTz47Em) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Shivakumar Jayaram](https://open.spotify.com/artist/56aeKGvvs1bgzhR0AVZB3T) | [Marco \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7mUmwB2dkuEq6xQk6jK4Hh) | 3:29 |
 | 46 | [Nodoka](https://open.spotify.com/track/7HuAtT2MYFT8WgcHot44x2) | [Shreya Ghoshal](https://open.spotify.com/artist/0oOet2f43PA68X5RxKobEy), [Devi Sri Prasad](https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU), [Varadaraj Chikkaballapura](https://open.spotify.com/artist/26UIfqGxK7O4AV0cDkN5uo) | [Pushpa 2 The Rule \[KANNADA\]](https://open.spotify.com/album/34pDRpauqyQWc6Qzfsm5A8) | 4:20 |
 | 47 | [Family Man \- Kannada](https://open.spotify.com/track/346xbZLQZt40jhG41yqdLy) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Sachin Basrur](https://open.spotify.com/artist/6CdktQ3MYk5JwJHq1OajZG) | [Marco \(Kannada\) \[Original Motion Picture Soundtrack\]](https://open.spotify.com/album/7mUmwB2dkuEq6xQk6jK4Hh) | 3:37 |
 | 48 | [Ee Bhava Lokada \( From "Daskath"\)](https://open.spotify.com/track/2fEk33SpIqT3baLJHxDTQP) | [Samarthan S Rao](https://open.spotify.com/artist/6T4RnZmGSgBDAneg58CVcx), [Ashwini R Bhat](https://open.spotify.com/artist/3mxlEVIWTBkTVtm3ZU4200) | [Ee Bhava Lokada From Daskath](https://open.spotify.com/album/6wgtXObbu4ki2Dy2EJNpC1) | 3:57 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZqTcNLmb3sH.md) - [plain]
 | 74 | [Gal Gal Kalgejje](https://open.spotify.com/track/7BGZghxryzAtdh3Mqr1Opv) | [Abhishek M R](https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97) | [Asuraru](https://open.spotify.com/album/6RorIXyDySg9wXgeXnNnu3) | 4:40 |
 | 75 | [Tere Bina \(From "Zebra"\) \[Kannada\]](https://open.spotify.com/track/05lPTt3KayVmTF2GCC1hcJ) | [Santhosh Venky](https://open.spotify.com/artist/1gpRRYfNURm0XJCyxUuH8Q), [Airaa Udupi](https://open.spotify.com/artist/1zlUAFoQSKwMdElF0UiiPR), [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn) | [Tere Bina \(From "Zebra"\)](https://open.spotify.com/album/3QW0BvTKpxLrnjRUK7zIHn) | 3:13 |
 
-Snapshot ID: `Z4+GIAAAAADMPAOCTpiwFOdLkzRuPNP0`
+Snapshot ID: `Z5DQRQAAAADWKx+vCMZb0U8l6B26iC+R`

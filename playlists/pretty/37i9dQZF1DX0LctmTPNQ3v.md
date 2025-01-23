@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 
 > Your soundtrack for a not\-so\-silent night.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,473 likes - 70 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,427 likes - 70 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0LctmTPNQ3v.md) - [plain]
 | 31 | [Jingle Bells](https://open.spotify.com/track/3nigc80wmSKOm3VpBl8R2T) | [Megaraptor](https://open.spotify.com/artist/1I98HSdBKIcRpCmd839ZyA) | [Jingle Bells](https://open.spotify.com/album/5DBiGgXmH0sgiQE6juD6Yo) | 4:20 |
 | 32 | [Silent Night](https://open.spotify.com/track/27E9OCdEHTQgCXWgyGKPHs) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Chuck Billy](https://open.spotify.com/artist/62PhVjMmDVdX7u8pHx7N2C), [Scott Ian](https://open.spotify.com/artist/1BYa5XlAsWCj5ACqGDnLHT), [Jon Donais](https://open.spotify.com/artist/6K43VBFB6pqXCsCXVkTnYn), [Chris Wyse](https://open.spotify.com/artist/2hp1rDJZ9RnuNZepcy69Qm), [John Tempesta](https://open.spotify.com/artist/5PhkFCyI5hOaacrmnE7tfc) | [We Wish You a Metal Xmas.\. \(..And a Headbanging New Year\)](https://open.spotify.com/album/5O2Ze6Upnw5b7oiECdYqQo) | 4:11 |
 | 33 | [No Presents For Christmas](https://open.spotify.com/track/76b4dneTwtupygaFeEKYtH) | [King Diamond](https://open.spotify.com/artist/5i0ph60TnwTlIGrOZAmcZa) | [The Best of King Diamond](https://open.spotify.com/album/0w5SNTg7mbAAfqE53rGSrS) | 4:22 |
-| 34 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3YRXVd1lusaMPCJYav3pRz) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Paul Samson \(Samson\)](https://open.spotify.com/artist/4vbpbFeVJouo8UvJT6jKA3) | [Heavy Metal Christmas](https://open.spotify.com/album/3s5PHvys0oH8inYn8WUEgl) | 3:30 |
+| 34 | [Santa Claus Is Coming To Town](https://open.spotify.com/track/3YRXVd1lusaMPCJYav3pRz) | [Paul Di'Anno](https://open.spotify.com/artist/6SKy1FCU5PskoE5Ode2y3Y), [Samson](https://open.spotify.com/artist/0s4JwoiTHqruatpqAR0IZ7) | [Heavy Metal Christmas](https://open.spotify.com/album/3s5PHvys0oH8inYn8WUEgl) | 3:30 |
 | 35 | [Rudolph the Red Nosed Reindeer \(Heavy Metal Version\)](https://open.spotify.com/track/3IUxODcR9IOJpYIcPEhqfK) | [Orion's Reign](https://open.spotify.com/artist/3hRL14TJtJqr7i1IH3D1pU) | [Rudolph the Red Nosed Reindeer \(Heavy Metal Version\)](https://open.spotify.com/album/2n13PPzmfEAW3ggTfasNOJ) | 2:13 |
 | 36 | [The Joy of Christmas](https://open.spotify.com/track/4vCCjkUK3TngTc9uHbLY2h) | [Majestica](https://open.spotify.com/artist/52lkxAYfC9ypaPJ2EB22ki) | [A Christmas Carol](https://open.spotify.com/album/2ctzCcSgotPQKues1laJWj) | 5:35 |
 | 37 | [Christmas Eve \(Sarajevo 12/24\)](https://open.spotify.com/track/31xV0odyHt9ObQts3hcpY1) | [Savatage](https://open.spotify.com/artist/3N1B1g6JtIgd6ClRkzD4yT) | [Dead Winter Dead \(2011 Edition\)](https://open.spotify.com/album/3XUTdOoeZBUVclvV30NU57) | 3:24 |

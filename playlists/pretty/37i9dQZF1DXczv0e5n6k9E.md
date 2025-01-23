@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο:  RACK
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,655 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,654 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 12 | [Opa Opa](https://open.spotify.com/track/3BLnkCKKESJlfJlW3bX8wd) | [DIFF](https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK), [Strat](https://open.spotify.com/artist/48h12D3cJbqfn1ReVL9qbw), [Ivan Greko](https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV) | [Golden Corner](https://open.spotify.com/album/4Cq0Gag39dFko6y8V6xFS1) | 3:26 |
 | 13 | [Vampire](https://open.spotify.com/track/4iHI2ZHPIPy4rXbGwz0yZ4) | [Bossikan](https://open.spotify.com/artist/2Iy8kK89T3l62dJcAkflqM), [Tr4cer](https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w), [Zissis](https://open.spotify.com/artist/2eeQGvvNBNXiEz0T8r2Hzw) | [ATL \(Arxontas Tis Lyssas\)](https://open.spotify.com/album/4MPT3LiH9QubvAMRxUIQB9) | 3:19 |
 | 14 | [GILEKO](https://open.spotify.com/track/3bd0uhm7ENvy8q6Z2savKd) | [Yolte](https://open.spotify.com/artist/41Pv6UAIHbAoaWNKRTdENm) | [GILEKO](https://open.spotify.com/album/5GzE6On2ZzAUiFaOP4Nony) | 3:40 |
-| 15 | [FAST LIFE](https://open.spotify.com/track/7wW0e6qtNpzH5CWSH3xzJp) | [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Dj Paris](https://open.spotify.com/artist/2SPcc674zxWa2igyUZCASd) | [FAST LIFE](https://open.spotify.com/album/7yviWP3S1VUzDFHaokxFGd) | 2:08 |
+| 15 | [FAST LIFE](https://open.spotify.com/track/7wW0e6qtNpzH5CWSH3xzJp) | [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [PAR1S](https://open.spotify.com/artist/6rZK15LxP7rOo0npKh0biK) | [FAST LIFE](https://open.spotify.com/album/7yviWP3S1VUzDFHaokxFGd) | 2:08 |
 | 16 | [Sto Party](https://open.spotify.com/track/4JbEduRL9RzDadvvakaCq8) | [Katohos](https://open.spotify.com/artist/37vmuL2WrCqCOCk0VUVZsH) | [Baby Steph 3](https://open.spotify.com/album/4IXFzKW7v2LYAL9tXaBHvq) | 1:56 |
 | 17 | [SHOOTER ME TN](https://open.spotify.com/track/37netkV0ymoeRg5qmwtmwW) | [RACK](https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe) | [SHOOTER ME TN](https://open.spotify.com/album/12L9wurTgo8rckZsWH9EG5) | 2:12 |
 | 18 | [Gia Na Gemiso To Piatto](https://open.spotify.com/track/5Z0KerziePqaj1Z7BiuWCC) | [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG) | [Gia Na Gemiso To Piatto](https://open.spotify.com/album/1Vu8D3m1OMkJI9RMILxrjc) | 2:34 |

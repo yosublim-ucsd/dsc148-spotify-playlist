@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Mga nangunguna sa mundo ng OPM. \nCover: Amiel Sol",
+  "description": "Mga nangunguna sa mundo ng OPM. Cover: Maki",
   "name": "Tatak Pinoy",
   "tracks": [
     {
@@ -454,6 +454,24 @@
       "duration_ms": 212000,
       "name": "Bagong Tradisyon",
       "url": "https://open.spotify.com/track/5H7dSVRGiOP7eRUz7qXu6o"
+    },
+    {
+      "album": {
+        "name": "Silakbo",
+        "url": "https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN"
+      },
+      "artists": [
+        {
+          "name": "Cup of Joe",
+          "url": "https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227040,
+      "name": "Bagyo",
+      "url": "https://open.spotify.com/track/0I2ugiLWhuMPSxpmEeRpZA"
     },
     {
       "album": {
@@ -3575,6 +3593,24 @@
     },
     {
       "album": {
+        "name": "Pasensyoso",
+        "url": "https://open.spotify.com/album/55n5ypmobXM2XfuUZosSo4"
+      },
+      "artists": [
+        {
+          "name": "The Juans",
+          "url": "https://open.spotify.com/artist/1YlibpAvhJBbMZMBwN1KGv"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191000,
+      "name": "Pasensyoso",
+      "url": "https://open.spotify.com/track/6zdWDcq0oUFFMqDHVkCL8Y"
+    },
+    {
+      "album": {
         "name": "Patintero",
         "url": "https://open.spotify.com/album/0Ig0ZylVO9YCmgrYeYOLbk"
       },
@@ -3778,7 +3814,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 143376,
       "name": "rebound",
       "url": "https://open.spotify.com/track/3V60l0xsKjcvTaCXj3hcPL"
@@ -4086,7 +4122,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 160333,
       "name": "SANGTAWAG",
       "url": "https://open.spotify.com/track/3r2nq8JEXZX9t4riZSlHOL"

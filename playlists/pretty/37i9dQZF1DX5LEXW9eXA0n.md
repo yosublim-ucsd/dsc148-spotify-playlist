@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 
 > New & hot K\-Pop ballads\. \(Cover: Paul Kim\(폴킴\)\) \(가장 핫한 최신 국내 발라드를 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 375,603 likes - 100 songs - 6 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 375,756 likes - 100 songs - 6 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,7 +22,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5LEXW9eXA0n.md) - [plain]
 | 12 | [Starlight](https://open.spotify.com/track/4jF30l1l7QsJA9AEuQgayG) | [YOUNGJAE](https://open.spotify.com/artist/5qUAtC3NwSLYme4JqjlGfQ) | [Starlight](https://open.spotify.com/album/1V6tpkhkFaFo6C3xrbRVL8) | 5:26 |
 | 13 | [Hoper](https://open.spotify.com/track/5a22n2txGRFEcefZIts7lR) | [Kim Jae Joong](https://open.spotify.com/artist/2x4LoC3la2S3aUHxaP8w1T) | [Hoper](https://open.spotify.com/album/456MmnToDPE7H31dvCHgtw) | 3:29 |
 | 14 | [I'll take you in my arms](https://open.spotify.com/track/3esznv6FmzNTeGcv3E6KwE) | [Son Tae Jin](https://open.spotify.com/artist/3KPav3N3KMQD2ZUE8byUWS) | [Desperate Mrs\. Seonju OST Part.2 \(Soundtrack\)](https://open.spotify.com/album/7aJgHL2YMqpsLBscOyD40M) | 3:40 |
-| 15 | [After Love](https://open.spotify.com/track/3eEKcca6IwOKPXXrouAoyK) | [Son Hye Kyo](https://open.spotify.com/artist/6Wu6mMHlRXU6Y5mBeccwUY) | [After Love](https://open.spotify.com/album/7oESt39xBvM5Ok6VIna7HP) | 3:30 |
+| 15 | [After Love](https://open.spotify.com/track/3eEKcca6IwOKPXXrouAoyK) | [Song Hye Kyo](https://open.spotify.com/artist/6Wu6mMHlRXU6Y5mBeccwUY) | [After Love](https://open.spotify.com/album/7oESt39xBvM5Ok6VIna7HP) | 3:30 |
 | 16 | [그대가 내 안에 박혔다\(그녀 ver.\) \(Stuck with you\)](https://open.spotify.com/track/1YgG9HQXxdWCM3kVpmzwE5) | [Zia](https://open.spotify.com/artist/2vAxwTAH2OaInCfMxriCqk) | [Stuck with you](https://open.spotify.com/album/24GayrlVYp8HV5PCIFK8Ge) | 3:50 |
 | 17 | [I Feel It Now](https://open.spotify.com/track/0oqk3ugFbaGhEmuUFaUaHy) | [Whee In](https://open.spotify.com/artist/0BqRGrwqndrtNkojXiqIzL) | [When The Phone Rings, Pt\. 5 \(Original Soundtrack\)](https://open.spotify.com/album/09APlXxudP3YywxqQnH6dU) | 3:53 |
 | 18 | [Spring in the Winter](https://open.spotify.com/track/7AFWpkq7hR4EEfMdyyA9Eq) | [Hui](https://open.spotify.com/artist/4R0tSGcVRQ8ZXPzttU8mHy) | [WHU IS KEVIN](https://open.spotify.com/album/0IdOSBdbj09E9sKRX6xtBE) | 3:26 |

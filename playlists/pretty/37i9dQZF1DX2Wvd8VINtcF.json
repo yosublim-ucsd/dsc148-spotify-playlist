@@ -1,12 +1,12 @@
 {
   "description": "pearl of the week: Oklou & Bladee",
-  "num_followers": 152332,
+  "num_followers": 152349,
   "original_name": "Oyster",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mPjAAAAAAlbYOjh7f3pYQRtgjP1VlV",
+  "snapshot_id": "Z5CwtAAAAABmiWXzMFKsgpxaSW/lkGAO",
   "tracks": [
     {
       "added_at": "2025-01-16 23:00:28",
@@ -27,6 +27,22 @@
       "duration_ms": 171570,
       "name": "take me by the hand",
       "url": "https://open.spotify.com/track/2RsaHAL0eJAwdyrZloFXI7"
+    },
+    {
+      "added_at": "2025-01-22 08:42:44",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ"
     },
     {
       "added_at": "2025-01-16 23:00:28",

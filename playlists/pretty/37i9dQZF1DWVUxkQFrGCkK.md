@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > Tulum szn
 
-[Spotify](https://open.spotify.com/user/spotify) - 347,856 likes - 285 songs - 18 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 348,696 likes - 285 songs - 18 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

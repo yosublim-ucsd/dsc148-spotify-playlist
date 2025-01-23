@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 
 > <a href="spotify:artist:37fxVoFAMzet5CiiDg7SL7">CC:DISCO!'s </a> favourite tracks\. Updated regularly\. Curated by CC:DISCO!\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,725 likes - 70 songs - 5 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,741 likes - 70 songs - 5 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,7 +67,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9gokF77pBJ.md) - [plain]
 | 57 | [Where Have All the Cowboys Gone ? \- Remastered Version](https://open.spotify.com/track/4EiZBnBOWr1RVsDew9zYOX) | [Paula Cole](https://open.spotify.com/artist/08DLZqQd6XDAVteF9nSEJ1) | [Greatest Hits \- Postcards From East Oceanside](https://open.spotify.com/album/5ZcxpYdOHuNOBDNh7VMSbj) | 4:26 |
 | 58 | [Sugar & Spice](https://open.spotify.com/track/3pWrqhWh3wthvyCUxb9kzR) | [Hatchie](https://open.spotify.com/artist/3d7MqowTZa2bC5iy1JXLLt) | [Sugar & Spice](https://open.spotify.com/album/00Eep4KJCWsrirMOgntRcs) | 3:08 |
 | 59 | [State of Love](https://open.spotify.com/track/3cT5Rdyq1Lb7HFVYyKjbYq) | [Imagination](https://open.spotify.com/artist/2CkhxuagMCG9uvlbKm5G3m) | [Scandalous](https://open.spotify.com/album/6PUnDJGTkzHQylxAtNOJqy) | 4:57 |
-| 60 | [Lua Deserta](https://open.spotify.com/track/1yAyfltRy0itwAUMuJEl3z) | [Filipe Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CATTO](https://open.spotify.com/album/288PMsI1uQRzYQyxHAVRun) | 5:34 |
+| 60 | [Lua Deserta](https://open.spotify.com/track/1yAyfltRy0itwAUMuJEl3z) | [Catto](https://open.spotify.com/artist/2oyiy3RLv9ifDElGUBHqL3) | [CATTO](https://open.spotify.com/album/288PMsI1uQRzYQyxHAVRun) | 5:34 |
 | 61 | [Baby Come Back](https://open.spotify.com/track/41sGGCCoHI2GLV9qadX80A) | [Player](https://open.spotify.com/artist/0fgtHVpOPfXb07S8Jx443z) | [Player](https://open.spotify.com/album/1uZ7slfpVTucDk922Btj5B) | 4:15 |
 | 62 | [7am](https://open.spotify.com/track/57CPS6pLXAw0bdBwNQtEZX) | [Shivum Sharma](https://open.spotify.com/artist/4quFKN9tkMu9ExIfUBp4M4) | [River's End](https://open.spotify.com/album/0TWecQaM5GPS3JU59DS0AK) | 3:58 |
 | 63 | [What's Going On](https://open.spotify.com/track/3Um9toULmYFGCpvaIPFw7l) | [Marvin Gaye](https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA) | [What's Going On](https://open.spotify.com/album/2v6ANhWhZBUKkg6pJJBs3B) | 3:53 |

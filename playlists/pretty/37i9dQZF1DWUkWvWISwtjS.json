@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 445464,
+  "num_followers": 445491,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -607,6 +607,22 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
+        "name": "Medida Certa",
+        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
+      },
+      "artists": [
+        {
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+        }
+      ],
+      "duration_ms": 186816,
+      "name": "Medida Certa",
+      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
         "name": "Start In S\u00e3o Paulo (ao Vivo)",
         "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
       },
@@ -623,18 +639,38 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Medida Certa",
-        "url": "https://open.spotify.com/album/5odHcyWv2Zcw2O9Y273EYB"
+        "name": "Short Jeans (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
       },
       "artists": [
         {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
+          "name": "Hugo Henrique",
+          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
+        },
+        {
+          "name": "Jorge",
+          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
         }
       ],
-      "duration_ms": 186816,
-      "name": "Medida Certa",
-      "url": "https://open.spotify.com/track/44mr3ypWNHa0inr3heiOb2"
+      "duration_ms": 180500,
+      "name": "Short Jeans - Ao Vivo",
+      "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Na Praia 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        }
+      ],
+      "duration_ms": 182587,
+      "name": "Ant\u00eddoto - Ao Vivo",
+      "url": "https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -659,22 +695,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Na Praia 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6J8zN2iOjJzMwNJ6oI75dN"
-      },
-      "artists": [
-        {
-          "name": "Matheus & Kauan",
-          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
-        }
-      ],
-      "duration_ms": 182587,
-      "name": "Ant\u00eddoto - Ao Vivo",
-      "url": "https://open.spotify.com/track/1I0uC6uLpAd1qUljbn4vf2"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
       },
@@ -695,22 +715,18 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Short Jeans (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5LFwQQi2Ay3oYY3NZ6bZ7x"
+        "name": "Terra Sem Cep (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
       },
       "artists": [
         {
-          "name": "Hugo Henrique",
-          "url": "https://open.spotify.com/artist/5Z05MLMVXu2Vmj1WWwO97E"
-        },
-        {
-          "name": "Jorge",
-          "url": "https://open.spotify.com/artist/6gLW5LlLEXdtWaS0EWfzaJ"
+          "name": "Jorge & Mateus",
+          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
         }
       ],
-      "duration_ms": 180500,
-      "name": "Short Jeans - Ao Vivo",
-      "url": "https://open.spotify.com/track/78G6jgpMdzSEiBPkBLWi9S"
+      "duration_ms": 140442,
+      "name": "Trincadinho - Ao Vivo",
+      "url": "https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -799,22 +815,6 @@
       "duration_ms": 182368,
       "name": "Pegada Que Desgrama",
       "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
-        "name": "Terra Sem Cep (Ao Vivo)",
-        "url": "https://open.spotify.com/album/7uhBra7AiFJm6Nd6YGpqGp"
-      },
-      "artists": [
-        {
-          "name": "Jorge & Mateus",
-          "url": "https://open.spotify.com/artist/1elUiq4X7pxej6FRlrEzjM"
-        }
-      ],
-      "duration_ms": 140442,
-      "name": "Trincadinho - Ao Vivo",
-      "url": "https://open.spotify.com/track/5qjMyKkmosPBws5cImS9Zz"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
+        "name": "O Embaixador - The Legacy (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
+      },
+      "artists": [
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 140629,
+      "name": "Fala Comigo - Ao Vivo",
+      "url": "https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
         "name": "Em Sintonia (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/4etUK377JH3G9YZEgEEwt6"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 163450,
       "name": "Rapariga N\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0ihMkv4Usn03EEEF8Rlw22"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
-        "name": "O Embaixador - The Legacy (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78YLa6QF2hX4A0QIX80QGy"
-      },
-      "artists": [
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 140629,
-      "name": "Fala Comigo - Ao Vivo",
-      "url": "https://open.spotify.com/track/56F3ngwk3a42aLY0o5QgBF"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        }
-      ],
-      "duration_ms": 173020,
-      "name": "Desconhecido - Ao Vivo",
-      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Start In S\u00e3o Paulo (ao Vivo)",
         "url": "https://open.spotify.com/album/33pKsFhYvUCQkZTmUx4h9k"
       },
@@ -1239,6 +1223,22 @@
       "duration_ms": 225792,
       "name": "Cole\u00e7\u00e3o de Ex - Ao Vivo",
       "url": "https://open.spotify.com/track/3W1L27vGEjo0yvhgOIJ8hO"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        }
+      ],
+      "duration_ms": 173020,
+      "name": "Desconhecido - Ao Vivo",
+      "url": "https://open.spotify.com/track/1e73nMt46OzhtYT1GLzue1"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1287,26 +1287,6 @@
       "duration_ms": 168458,
       "name": "Z\u00e9 da Reca\u00edda",
       "url": "https://open.spotify.com/track/4iGwWeV7XVIWO9Yy5QExOr"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
-        "name": "Continua, Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
-      },
-      "artists": [
-        {
-          "name": "Luiza Martins",
-          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
-        },
-        {
-          "name": "Murilo Huff",
-          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
-        }
-      ],
-      "duration_ms": 147826,
-      "name": "Ponto Final - Ao Vivo",
-      "url": "https://open.spotify.com/track/78UZagNegqHZAKv3491xB2"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1383,6 +1363,26 @@
       "duration_ms": 146424,
       "name": "My Baby",
       "url": "https://open.spotify.com/track/6N46P4y6dlnrtAWWCaHu7O"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Continua, Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3GhwRv4secHoQSIpzchEwy"
+      },
+      "artists": [
+        {
+          "name": "Luiza Martins",
+          "url": "https://open.spotify.com/artist/5Ywgqsa6t5yNiD1wgQuw43"
+        },
+        {
+          "name": "Murilo Huff",
+          "url": "https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz"
+        }
+      ],
+      "duration_ms": 147826,
+      "name": "Ponto Final - Ao Vivo",
+      "url": "https://open.spotify.com/track/78UZagNegqHZAKv3491xB2"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Esquece de Me Esquecer",
-        "url": "https://open.spotify.com/album/4Cv439w6zA8dOOFcPVggMv"
-      },
-      "artists": [
-        {
-          "name": "Z\u00e9 Felipe",
-          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
-        },
-        {
-          "name": "Gusttavo Lima",
-          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
-        }
-      ],
-      "duration_ms": 180905,
-      "name": "Esquece de Me Esquecer",
-      "url": "https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Noites Frustradas (Ao Vivo)",
         "url": "https://open.spotify.com/album/2pr2utTIV4RJNcrI7fafEv"
       },
@@ -1511,6 +1491,26 @@
       "duration_ms": 196662,
       "name": "Noites Frustradas - Ao Vivo",
       "url": "https://open.spotify.com/track/5sby99lbxTE3F2RA3YWGyM"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Esquece de Me Esquecer",
+        "url": "https://open.spotify.com/album/4Cv439w6zA8dOOFcPVggMv"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Felipe",
+          "url": "https://open.spotify.com/artist/7cmuxPnXRJxwuYDHfbD8Eu"
+        },
+        {
+          "name": "Gusttavo Lima",
+          "url": "https://open.spotify.com/artist/7MiDcPa6UiV3In7lIM71IN"
+        }
+      ],
+      "duration_ms": 180905,
+      "name": "Esquece de Me Esquecer",
+      "url": "https://open.spotify.com/track/1NXeltgzjQeiC4hbf2XNVr"
     },
     {
       "added_at": "2024-07-15 13:13:58",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2024-07-15 13:13:58",
       "album": {
-        "name": "Te Assumo (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6yhEh4AnSgSw1PauUw41Rr"
-      },
-      "artists": [
-        {
-          "name": "Diego & Arnaldo",
-          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
-        }
-      ],
-      "duration_ms": 195354,
-      "name": "Te Assumo - Ao Vivo",
-      "url": "https://open.spotify.com/track/7zIghh6yq3ldfdwU0meLbu"
-    },
-    {
-      "added_at": "2024-07-15 13:13:58",
-      "album": {
         "name": "Acertou a M\u00e3o",
         "url": "https://open.spotify.com/album/6SbiYGzuP9sDvwXqu1SF0E"
       },
@@ -1683,6 +1667,22 @@
       "duration_ms": 182843,
       "name": "Acertou a M\u00e3o",
       "url": "https://open.spotify.com/track/3jdfc1nTrxJAARKz84wmAd"
+    },
+    {
+      "added_at": "2024-07-15 13:13:58",
+      "album": {
+        "name": "Te Assumo (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6yhEh4AnSgSw1PauUw41Rr"
+      },
+      "artists": [
+        {
+          "name": "Diego & Arnaldo",
+          "url": "https://open.spotify.com/artist/0CrGLmfVKzk9rAyiNb91ft"
+        }
+      ],
+      "duration_ms": 195354,
+      "name": "Te Assumo - Ao Vivo",
+      "url": "https://open.spotify.com/track/7zIghh6yq3ldfdwU0meLbu"
     },
     {
       "added_at": "2024-07-15 13:13:58",

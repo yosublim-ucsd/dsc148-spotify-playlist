@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Erly Tepshi
 
-[Spotify](https://open.spotify.com/user/spotify) - 684,711 likes - 90 songs - 7 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 684,867 likes - 90 songs - 7 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

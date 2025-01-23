@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 
 > أجمد المهرجانات في مصر🔥 <br/> كوفر:  <a href="https://open.spotify.com/artist/6Ss3HQTUk6PeyD1a0IV6RB?si=iy\_gXgKBRwuQWeAb\_7HLoQ"> كريم كرستيانو </a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 486,337 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 486,551 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4qF0846GNk8.md) - [plain]
 | 14 | [انا مش ديلار يا حكومه](https://open.spotify.com/track/6Ei2nL7KdzySKg6LbdY5Up) | [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [انا مش ديلار يا حكومه](https://open.spotify.com/album/7pXy90dGL8wv9KbtuSg5Df) | 4:37 |
 | 15 | [سوري مبردش انا بستوري](https://open.spotify.com/track/6XnBt8ME4K8d9oYf7SE5Wa) | [Magdy El Zahar](https://open.spotify.com/artist/5CSaIf8OAstAYE5oqQeS15), [Eslam Kabonga](https://open.spotify.com/artist/25P1GMgHepq6rkzRwg2DcB) | [سوري مبردش انا بستوري](https://open.spotify.com/album/7tePcFslMQ5mMWuC5gCDUm) | 4:13 |
 | 16 | [El Aarka](https://open.spotify.com/track/0oaqNbdyK1vyNmZGApiTCb) | [Muslim](https://open.spotify.com/artist/2jOaCmspCCEhX27gTNSxnD) | [El Aarka](https://open.spotify.com/album/5s3WtnmY7u4ON42gHCm8xy) | 3:52 |
-| 17 | [دكن دكن هنا مفيش مكان](https://open.spotify.com/track/50x3nwdfvXWc8h0hUfKZU2) | [حمو رانجو](https://open.spotify.com/artist/1PKk0Y4YdcaolgA1jX9jRQ), [الصافي رابزو](https://open.spotify.com/artist/2kg6enclyL9breHTeJ9NuO) | [دكن دكن هنا مفيش مكان](https://open.spotify.com/album/30FVCyiVawvTRIVRN4lUtF) | 5:35 |
+| 17 | [دكن دكن هنا مفيش مكان](https://open.spotify.com/track/50x3nwdfvXWc8h0hUfKZU2) | [حمو رانجو](https://open.spotify.com/artist/1PKk0Y4YdcaolgA1jX9jRQ), [الصافي رايزو](https://open.spotify.com/artist/2kg6enclyL9breHTeJ9NuO) | [دكن دكن هنا مفيش مكان](https://open.spotify.com/album/30FVCyiVawvTRIVRN4lUtF) | 5:35 |
 | 18 | [Elsabaana Kasbana](https://open.spotify.com/track/7F3b8E2gPiqEUBllwXpLP2) | [Mohamed El Fannan](https://open.spotify.com/artist/1zbtcySnplid7ZnVins0nJ), [Eslam El Abyad](https://open.spotify.com/artist/4iLbHUpk93fcrgDVg4kXlh) | [Welad Rizk 2 Movie](https://open.spotify.com/album/3xIatP7By9zVzZCyWZ59k3) | 3:04 |
 | 19 | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/track/2qU4cGVCZ6CJQ8RjMHvGvp) | [حمادة مجدي](https://open.spotify.com/artist/3K85LdQnIv6Vb2hR4mDeVe), [Hassan Shakosh](https://open.spotify.com/artist/62IUrFqq28x2SbRdzm9sQt) | [قمبلة الجيل \( اختي وصحبتي \)](https://open.spotify.com/album/1w6Mz1FmDpfmgH044e5Mac) | 2:59 |
 | 20 | [طريق الاندال](https://open.spotify.com/track/6pP4EikVjGVJCfdSrZ2En4) | [حمادة الليثي](https://open.spotify.com/artist/6yIBTdBaWdzRIJUsi0LW4H), [عمرو سلامة](https://open.spotify.com/artist/0BkckxZ8XJWwqPTxaVF5m9) | [طريق الاندال](https://open.spotify.com/album/7lvahNz4G2BQlwxjdZqyxr) | 4:04 |

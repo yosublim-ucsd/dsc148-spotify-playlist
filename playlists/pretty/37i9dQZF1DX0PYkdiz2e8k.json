@@ -1,6 +1,6 @@
 {
   "description": "\ud83e\udd18 Foto: MC Taya",
-  "num_followers": 111647,
+  "num_followers": 111629,
   "original_name": "do rockeeee",
   "owner": {
     "name": "Spotify",
@@ -291,6 +291,22 @@
     {
       "added_at": "2024-12-17 13:38:47",
       "album": {
+        "name": "blindfolded",
+        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
+      },
+      "artists": [
+        {
+          "name": "Against The Current",
+          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
+        }
+      ],
+      "duration_ms": 199240,
+      "name": "blindfolded",
+      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
+    },
+    {
+      "added_at": "2024-12-17 13:38:47",
+      "album": {
         "name": "III: Lost Chapter",
         "url": "https://open.spotify.com/album/6jHsnYqSmiMqBvzG8qrYuE"
       },
@@ -307,22 +323,6 @@
       "duration_ms": 229333,
       "name": "Lost Chapter",
       "url": "https://open.spotify.com/track/207K1MXwebxpXDS43OazOU"
-    },
-    {
-      "added_at": "2024-12-17 13:38:47",
-      "album": {
-        "name": "blindfolded",
-        "url": "https://open.spotify.com/album/3JXhXZLWuq6noobhcwK22i"
-      },
-      "artists": [
-        {
-          "name": "Against The Current",
-          "url": "https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B"
-        }
-      ],
-      "duration_ms": 199240,
-      "name": "blindfolded",
-      "url": "https://open.spotify.com/track/2yH6eL6f1Ada5MnmNpiPbr"
     },
     {
       "added_at": "2024-12-17 13:38:47",

@@ -2,7 +2,7 @@
 
 ### [VOLUME SUOMI](https://open.spotify.com/playlist/37i9dQZF1DX7Zqfq7rklwe)
 
-> Suomen suurin ja paras rock\-soittolista\. 🐶 Kannessa One Morning Left.
+> Suomen suurin ja paras rock\-soittolista\. Kannessa Metallica.
 
 162 songs - 10 hr 39 min
 
@@ -110,7 +110,7 @@
 | [Power Of The Beast](https://open.spotify.com/track/3HtHib9t0FmC9sl1gsFobY) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Power Of The Beast](https://open.spotify.com/album/3rSHTToST4ZTeHDHwCbbHp) | 4:29 | 2024-09-11 | 2024-11-08 |
 | [Prty Till The End Of The World](https://open.spotify.com/track/4Q5KSpuSVgZLWOfdrbTQFo) | [Stereo Terror](https://open.spotify.com/artist/5bVlFc0dTBJM87T4Z0djch) | [Prty Till The End Of The World](https://open.spotify.com/album/2Vlme3iynKizn8w61Hste5) | 3:00 | 2024-12-12 |  |
 | [Pulssi](https://open.spotify.com/track/38UDmjZUayxYdxmZTzFAvX) | [Turmion Kätilöt](https://open.spotify.com/artist/76t3VPzCEYAlrZhVAY7yjg) | [Pulssi](https://open.spotify.com/album/5uECxuk1klwIvhrVVTYbE7) | 3:39 | 2024-10-03 | 2024-10-25 |
-| [Puppy](https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Puppy](https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV) | 2:40 | 2025-01-14 |  |
+| [Puppy](https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC) | [One Morning Left](https://open.spotify.com/artist/4QGKWF55nqfGYToZkoZPRF) | [Puppy](https://open.spotify.com/album/420NMIp6t3lUUOMKU8QWOV) | 2:40 | 2025-01-14 | 2025-01-23 |
 | [Rebel of the North](https://open.spotify.com/track/1pIhkbe9kU999KS16h03kp) | [Marko Hietala](https://open.spotify.com/artist/1tbhwOH5UBAJoqTx9Oak00) | [Rebel of the North](https://open.spotify.com/album/2CBX2zP8fLEI6T15p5aH5E) | 4:00 | 2025-01-09 |  |
 | [Rest In Pieces](https://open.spotify.com/track/5r0b7F3MGee7IMeJxP1TKP) | [The Rasmus](https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl) | [Rest In Pieces](https://open.spotify.com/album/3RSwZfjCaUFDkA66KJptiq) | 2:56 | 2024-10-24 |  |
 | [Retropolis](https://open.spotify.com/track/0rmQzswNqG8RHV8Ek5kTkt) | [Lordi](https://open.spotify.com/artist/14SgKNlOCKAI0PfRD1HnWh) | [Retropolis](https://open.spotify.com/album/0Tg6Fkeoe43YCK4ZHbLErw) | 3:29 | 2025-01-16 |  |

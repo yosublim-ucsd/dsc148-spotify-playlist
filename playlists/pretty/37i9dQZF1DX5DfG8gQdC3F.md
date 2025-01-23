@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > New music from 🕊 Mac Miller, Central Cee & 21 Savage, Mumford & Sons, Saya Gray and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 538,804 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 538,786 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 28 | [It's a Mirror](https://open.spotify.com/track/3El9UdrncPt4ISzlv7v8ON) | [Perfume Genius](https://open.spotify.com/artist/2ueoLVCXQ948OfhVvAy3Nn) | [It's a Mirror](https://open.spotify.com/album/1fy2JdEjjXymGJWtVE1ckz) | 3:32 |
 | 29 | [Love Is Unkind](https://open.spotify.com/track/2yY0XtZqBEM4vDAJsa73EQ) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n) | [Love Is Unkind](https://open.spotify.com/album/2gwUck24fUDz3Rg8mV0JGU) | 3:33 |
 | 30 | [Armour](https://open.spotify.com/track/2GVTjTqTTLmA6N1FqBhTzL) | [M.I.A.](https://open.spotify.com/artist/0QJIPDAEDILuo8AIq3pMuU) | [Armour](https://open.spotify.com/album/5yhpVegMsw2OTRsErE7NBM) | 3:26 |
-| 31 | [Bukhaar](https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Bukhaar](https://open.spotify.com/album/4DekJgQN6z4P2EuSnhUIx9) | 3:46 |
+| 31 | [Bukhaar](https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Bukhaar](https://open.spotify.com/album/4DekJgQN6z4P2EuSnhUIx9) | 3:46 |
 | 32 | [Till The Morning](https://open.spotify.com/track/74ARTs57w7D0GDablsiLpk) | [Benjamin Dakota Rogers](https://open.spotify.com/artist/255w1O3tp19jnUZPI6cMVL) | [Till The Morning](https://open.spotify.com/album/6qECR055kFSGPndawr1byW) | 4:17 |
 | 33 | [Come Apart](https://open.spotify.com/track/2XOJYm2ts2hSu1c7ynMftr) | [The Blue Stones](https://open.spotify.com/artist/5VPCIIfZPK8KPsgz4jmOEC) | [Come Apart](https://open.spotify.com/album/1oV7sXT6HRW0EfHxwcjdj9) | 3:02 |
 | 34 | [Until the Morning](https://open.spotify.com/track/4TGHIaRJP1UVZZFsA1fsBn) | [MUNYA](https://open.spotify.com/artist/0JnhdXEQfVjoY1OgwTExwO), [Kainalu](https://open.spotify.com/artist/7s21yzsQI5NDymc5KNHkXc) | [Until The Morning](https://open.spotify.com/album/4esGwEqfV5UNsFWKARFwIa) | 3:34 |
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 63 | [Tap](https://open.spotify.com/track/7zTcDU0SkLDbTTafpMfvKw) | [Vybz Kartel](https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76) | [Tap](https://open.spotify.com/album/3dEDoMrCyP0OCTXkT61aY7) | 2:47 |
 | 64 | [Ocean Steppin'](https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7) | [John Glacier](https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d), [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Ocean Steppin'](https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE) | 2:50 |
 | 65 | [São Paulo](https://open.spotify.com/track/1LZ8F84Vj6EAnerY7RiMUO) | [Shermanology](https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI) | [São Paulo EP](https://open.spotify.com/album/690QdmHPXtjGxLuQ4MzJt4) | 3:00 |
-| 66 | [Afford It \(From the Motion picture “One Of Them Days”\)](https://open.spotify.com/track/7ELTHpC3ZpT6geNBz1zzN4) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Diva Gurl](https://open.spotify.com/artist/4ryikYxDE2ShiLDkzMqs11) | [A Story By: Keke Palmer](https://open.spotify.com/album/5BoADWzxK0dBlM0Pdfghth) | 2:34 |
+| 66 | [Afford It \(From the Motion picture “One Of Them Days”\)](https://open.spotify.com/track/7ELTHpC3ZpT6geNBz1zzN4) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq), [Diva Gurl](https://open.spotify.com/artist/4ryikYxDE2ShiLDkzMqs11) | [DivaGurl: A Story By Keke Palmer \- EP](https://open.spotify.com/album/5BoADWzxK0dBlM0Pdfghth) | 2:34 |
 | 67 | [EXILE](https://open.spotify.com/track/6FG3f1wZKl2IESCJQJb1tj) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT) | [EXILE](https://open.spotify.com/album/0xfkU5Pja7FSa8ZRHbG1fs) | 4:08 |
 | 68 | [Pretty Little Heart](https://open.spotify.com/track/6EhUVFCb0tdvNpPF5YudIX) | [Mathew V](https://open.spotify.com/artist/5XG2NyvMVgff8ZAeKWX8yS) | [Pretty Little Heart](https://open.spotify.com/album/752lXX84jaB4UN41M2W2Kw) | 2:03 |
 | 69 | [Hopeless Dreams](https://open.spotify.com/track/5FnRhAsZ49bWT959RnXtmJ) | [Fernie](https://open.spotify.com/artist/5PemoTSZMQp59WnXZZ4EhI) | [Hopeless Dreams](https://open.spotify.com/album/4NxlfS6ZSFv4BPRGPCdF5s) | 2:53 |

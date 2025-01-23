@@ -2263,6 +2263,24 @@
     },
     {
       "album": {
+        "name": "Certified",
+        "url": "https://open.spotify.com/album/4ehOtM0PYKNnHNbiOwOyn2"
+      },
+      "artists": [
+        {
+          "name": "Miso Extra",
+          "url": "https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184040,
+      "name": "Certified",
+      "url": "https://open.spotify.com/track/0exagy6KgTwlFakT27iWmC"
+    },
+    {
+      "album": {
         "name": "Carrossel Do Tempo",
         "url": "https://open.spotify.com/album/65mUUfH7lL3pVvAM8BCQ90"
       },

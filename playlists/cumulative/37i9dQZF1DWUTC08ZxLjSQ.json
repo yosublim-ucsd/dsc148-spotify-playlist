@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-21",
-  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Seera Band, Kali-B, Brownmusic, & Grzzlee. Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels from the MENA region. Updates every Wednesday. Cover: Ayoub Hattab. Artwork: Isu Kim",
   "name": "Fresh Finds Arabia",
   "tracks": [
     {
@@ -74,6 +74,28 @@
       "duration_ms": 106032,
       "name": "103",
       "url": "https://open.spotify.com/track/5zqSgg5YkPUdzE5BpZV4x1"
+    },
+    {
+      "album": {
+        "name": "200",
+        "url": "https://open.spotify.com/album/5fh9U7dE6CMhhuEfWtBEi5"
+      },
+      "artists": [
+        {
+          "name": "Sakt",
+          "url": "https://open.spotify.com/artist/1eMFiDZA4Kzrzru5Ni4zWy"
+        },
+        {
+          "name": "REVU",
+          "url": "https://open.spotify.com/artist/11Hsr9QUjZgI5ABHm4urjT"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122880,
+      "name": "200",
+      "url": "https://open.spotify.com/track/3rrS7mcwknkYKMyuc35cqR"
     },
     {
       "album": {
@@ -621,6 +643,24 @@
     },
     {
       "album": {
+        "name": "Ballerina",
+        "url": "https://open.spotify.com/album/4RsqLNot8uxTQGH0FBoQTZ"
+      },
+      "artists": [
+        {
+          "name": "SeLTa",
+          "url": "https://open.spotify.com/artist/3bguvSKT0vGUlQ07zEyxfP"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188446,
+      "name": "Ballerina",
+      "url": "https://open.spotify.com/track/78fs5ektDphjXmEjZy99Do"
+    },
+    {
+      "album": {
         "name": "Banadi",
         "url": "https://open.spotify.com/album/6xXjDipYBxLRoHYePD3v8m"
       },
@@ -1048,6 +1088,28 @@
       "duration_ms": 163277,
       "name": "Caravan Flow",
       "url": "https://open.spotify.com/track/30Rtf40QgpCP1NAQTpmOJX"
+    },
+    {
+      "album": {
+        "name": "Ameen",
+        "url": "https://open.spotify.com/album/2OUcKfMj7bfT835aMtnfRX"
+      },
+      "artists": [
+        {
+          "name": "Alvin",
+          "url": "https://open.spotify.com/artist/6xUqSYMbFny0Ykts599lMA"
+        },
+        {
+          "name": "Ahmed Santa",
+          "url": "https://open.spotify.com/artist/2jRxGTrLGVw35yRsElgsXj"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153333,
+      "name": "Carlos",
+      "url": "https://open.spotify.com/track/6FLCfjtaMnrPEekgs8gXvo"
     },
     {
       "album": {
@@ -1584,7 +1646,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 137650,
       "name": "EL YOUMEN DOL",
       "url": "https://open.spotify.com/track/0n3lDDAHXGMLpcP7ffjNdL"
@@ -3454,7 +3516,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 190250,
       "name": "Lost It All =\u25cb<",
       "url": "https://open.spotify.com/track/7lpzWhFCuerdiELZS7yvBO"
@@ -3512,6 +3574,28 @@
       "duration_ms": 192954,
       "name": "Ma Tkhayalt",
       "url": "https://open.spotify.com/track/3ru4PURRYxNQ8tzzHOK3Nr"
+    },
+    {
+      "album": {
+        "name": "Ma7atta",
+        "url": "https://open.spotify.com/album/0LOP57Nq57T9tHNfcQKvbA"
+      },
+      "artists": [
+        {
+          "name": "C\u00d8ZMIC",
+          "url": "https://open.spotify.com/artist/4ryHxFelvcMsJw8yox4M5H"
+        },
+        {
+          "name": "ASTRO",
+          "url": "https://open.spotify.com/artist/4jFrvW7EKQviP7bhUNfSTv"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229831,
+      "name": "Ma7atta",
+      "url": "https://open.spotify.com/track/0euDvd4QFkYT3l6odgwHM1"
     },
     {
       "album": {
@@ -4455,6 +4539,24 @@
     },
     {
       "album": {
+        "name": "NSAY",
+        "url": "https://open.spotify.com/album/0gPZzBI5DxJPzSxH75EuIR"
+      },
+      "artists": [
+        {
+          "name": "Ayoub Hattab",
+          "url": "https://open.spotify.com/artist/718mVE4zMicra6iqqKY5h3"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227104,
+      "name": "NSAY",
+      "url": "https://open.spotify.com/track/11VT3trAQIQEu7eoAohlgu"
+    },
+    {
+      "album": {
         "name": "Nuba",
         "url": "https://open.spotify.com/album/5GAeFMPBckZec9KiQDmy4P"
       },
@@ -5172,7 +5274,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 228000,
       "name": "Salam aleykoum",
       "url": "https://open.spotify.com/track/5YBYZlNvyikesrSmpDSOpX"
@@ -5443,6 +5545,24 @@
     },
     {
       "album": {
+        "name": "SHI YOUM",
+        "url": "https://open.spotify.com/album/2ywLVuySYv49ljRVcGRbdh"
+      },
+      "artists": [
+        {
+          "name": "Nawal",
+          "url": "https://open.spotify.com/artist/4I7cv8uAvHYwNrMgHer9bV"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197999,
+      "name": "SHI YOUM",
+      "url": "https://open.spotify.com/track/5tRkSiBQIratndFW0vEyYp"
+    },
+    {
+      "album": {
         "name": "Shta2tella",
         "url": "https://open.spotify.com/album/1EZENUppFnXlur5KKsP41B"
       },
@@ -5472,7 +5592,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 204000,
       "name": "Sidi",
       "url": "https://open.spotify.com/track/2HxLwYX0P7rcZp7SO7Cqd0"
@@ -6346,7 +6466,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 185639,
       "name": "VOCAL",
       "url": "https://open.spotify.com/track/3F0WHoVe8YuNlOcad0PqOv"
@@ -6971,6 +7091,24 @@
     },
     {
       "album": {
+        "name": "\u0628\u0637\u0644 \u0627\u0644\u0644\u0651\u064a\u0644",
+        "url": "https://open.spotify.com/album/6O9WlkU4z1lN6zH0BfvILZ"
+      },
+      "artists": [
+        {
+          "name": "Nour Yamm",
+          "url": "https://open.spotify.com/artist/0DiKAWOh13CGK5v0f8KyXR"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200726,
+      "name": "\u0628\u0637\u0644 \u0627\u0644\u0644\u0651\u064a\u0644",
+      "url": "https://open.spotify.com/track/5EkZW0pGpwaVkPomonWYsd"
+    },
+    {
+      "album": {
         "name": "\u062a\u0635\u0639\u064a\u062f",
         "url": "https://open.spotify.com/album/1FT5dI5XoVAS0gat6yq8gi"
       },
@@ -7022,7 +7160,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 177377,
       "name": "\u062e\u0635\u0644\u0629",
       "url": "https://open.spotify.com/track/58xuxqwXEEWFpiU6Mju8bQ"
@@ -7186,7 +7324,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 182535,
       "name": "\u0645\u062c\u0646\u0648\u0646",
       "url": "https://open.spotify.com/track/4je5q99T5Gg0paKTyzxZPR"

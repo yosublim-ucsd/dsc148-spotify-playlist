@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Qing Madi and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,328 likes - 53 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,401 likes - 53 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 21 | [Banyana](https://open.spotify.com/track/4Mneb12BtxANVewTrxLZ5v) | [Theology HD](https://open.spotify.com/artist/06xHyUrgB95PtkQLX5vmnH), [Rosey Gold](https://open.spotify.com/artist/5VzOCXUuAeHgbabXvn70DJ) | [Banyana](https://open.spotify.com/album/75HId3Xd5yIGPmUsVZ4NQv) | 4:40 |
 | 22 | [Celebrate](https://open.spotify.com/track/4cdY4OQqujnnou6eLUJXmX) | [James Arthur](https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM) | [Celebrate](https://open.spotify.com/album/2J1MgVzUHslTmih65U0jia) | 3:40 |
 | 23 | [Rushmere](https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8) | [Mumford & Sons](https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2) | [Rushmere](https://open.spotify.com/album/2LCfGvnykHiGip0ic48wmJ) | 3:12 |
-| 24 | [Bukhaar](https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF) | [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Bukhaar](https://open.spotify.com/album/4DekJgQN6z4P2EuSnhUIx9) | 3:46 |
+| 24 | [Bukhaar](https://open.spotify.com/track/470YWWqR8RanMV6JM0cxcF) | [Aroob Khan](https://open.spotify.com/artist/47GH9lsbudQDWNTgIHTr9a), [Bayanni](https://open.spotify.com/artist/6FbCERtE2CKqEWihHMYjcG), [Rajat Nagpal](https://open.spotify.com/artist/4yxICw7joYAxRI2sTRldLB) | [Bukhaar](https://open.spotify.com/album/4DekJgQN6z4P2EuSnhUIx9) | 3:46 |
 | 25 | [Woo](https://open.spotify.com/track/7snE5wCCKT9NoU1M9H4NLF) | [3kene](https://open.spotify.com/artist/17OB2zVYkeBD5fX4PG1eZv), [Brum3h](https://open.spotify.com/artist/5kseDibp36pgGjEoOFsRFk), [Jess ETA](https://open.spotify.com/artist/0pl5KisZPcKHhrruuvFg3y) | [Conflicts of Interest](https://open.spotify.com/album/2yz7ohrkrAYCNCQECINttT) | 4:50 |
 | 26 | [Hurt](https://open.spotify.com/track/6iF7xOU7oyzahJZEcAt2UX) | [TAYORISTAR](https://open.spotify.com/artist/7a3geJwKwstBq2ZEarVcA6), [Amadi Blue](https://open.spotify.com/artist/7vxkFc87aF2xfUZGjxX2If), [PISHON](https://open.spotify.com/artist/5UwnnlEa1IDJQ0IJK1ZAJe) | [Hurt](https://open.spotify.com/album/2FLZXXnM5fkm98vuSfNq7i) | 2:52 |
 | 27 | [Oun \- Radio Edit](https://open.spotify.com/track/6ob78H1tL6LxyjRnyEUh4Z) | [KÖNI](https://open.spotify.com/artist/3wGOQXqAdsWkgf3PtuRY6Q), [Candy Man](https://open.spotify.com/artist/6jeexjc4jgw4TN9Ql7Ccor), [Oluwadamvic](https://open.spotify.com/artist/1FnjvrYJK3vJLzwQ7IbWly) | [Oun](https://open.spotify.com/album/1w3rP4N64NqpfSVB2DRYBv) | 2:44 |

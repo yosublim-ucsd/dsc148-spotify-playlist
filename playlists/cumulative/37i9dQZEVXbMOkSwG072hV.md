@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Brazil.
 
-3,089 songs - 6 day 18 hr 47 min
+3,090 songs - 6 day 18 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2456,7 +2456,8 @@
 | [Sementinha do Mal](https://open.spotify.com/track/3hytYbdEQ7rDrhJEI529Pn) | [Febre90s](https://open.spotify.com/artist/3Igua105OJq78XPcPKPGku), [SonoTWS](https://open.spotify.com/artist/4V6S8Exb51yXRs6oiJYIgE), [pumapjl](https://open.spotify.com/artist/1iVZ4G8loVE1bb5EWuOvMM) | [Sementinha do Mal](https://open.spotify.com/album/6APEhDxAI5GmMfVXgywtYy) | 3:20 | 2022-07-19 | 2022-08-10 |
 | [Sempre na Simplicidade](https://open.spotify.com/track/4XaLEsmrRGSDkgd7qpn4Nl) | [MC LUUKY](https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Dj Victor](https://open.spotify.com/artist/5kKzlgNRX8FgC6Bni5DNNC), [Boladin 211](https://open.spotify.com/artist/2xOLGU5UNLV3KQSFteF8ZW), [MC Vine7](https://open.spotify.com/artist/3UfwtvPZZea2HHwI23VtKP) | [Sempre na Simplicidade](https://open.spotify.com/album/28vY5m1Agyk9IdbgWacYow) | 5:00 | 2024-08-06 | 2024-08-15 |
 | [Sensaçao](https://open.spotify.com/track/6iyCUSkOIxIcxYYu3ERAJk) | [DJ BRUNIN DA NT](https://open.spotify.com/artist/3ifiFpeJ4X5nYagCluflvg), [MC Fabinho da Osk](https://open.spotify.com/artist/14hsjenLEdvafsGkk2CEiF), [Mc Gw](https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2) | [Sensaçao](https://open.spotify.com/album/5PwC1rFOzQQDgrZp9I0XQy) | 2:45 | 2024-02-24 | 2024-03-08 |
-| [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/track/3xmIlL2CHBf9bwVU9g1oNI) | [Toca dos Hits](https://open.spotify.com/artist/4NWi1whEq7e8X2oAtcTTpZ) | [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/album/0tqaBiRR3qT3NQ2T8goA0B) | 4:22 | 2024-12-31 |  |
+| [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/track/6IyQ5Jr4yiNACYI3TdFWbl) | [Marcynho Sensação](https://open.spotify.com/artist/4dnPDc045bVjibyATxVUOs) | [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/album/3W2sv0U512n96sebcvw7KY) | 4:22 | 2025-01-22 |  |
+| [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/track/3xmIlL2CHBf9bwVU9g1oNI) | [Toca dos Hits](https://open.spotify.com/artist/4NWi1whEq7e8X2oAtcTTpZ) | [Sensação No Batidão \- Solinho Envolvente](https://open.spotify.com/album/0tqaBiRR3qT3NQ2T8goA0B) | 4:22 | 2024-12-31 | 2025-01-23 |
 | [Senta Com Amor](https://open.spotify.com/track/5axPfPSNybFFzhDOvCMhpP) | [Furacão Hit](https://open.spotify.com/artist/2p5DEEpHgoW3OlsmBkSBXF) | [Se Liga no Beat](https://open.spotify.com/album/2CgQC1DGvhMhHo3Y364sUQ) | 3:08 | 2022-02-01 | 2022-03-24 |
 | [Senta Danadinha](https://open.spotify.com/track/6Epk6YaI0oQOxy20TPk96m) | [Fillipe Dom](https://open.spotify.com/artist/0QMWLYwcO27Ypn8Qr1xJ5m), [Ruivinha de Marte](https://open.spotify.com/artist/5Xx8dipXXNS0AjPDULXA0z) | [Senta Danadinha](https://open.spotify.com/album/3i0hdb3jIlK1QNcrAnHi8k) | 3:00 | 2022-06-19 | 2022-07-01 |
 | [Senta na 45 \- Remix](https://open.spotify.com/track/3lxAve3waRpVjlLPJq7qCN) | [Boyugo](https://open.spotify.com/artist/43ryrdcWjeDb44wxp6tcxR), [Escama Reels](https://open.spotify.com/artist/0fmDWiAf7kyzpdGn1O3hx0), [Danilo chatinho](https://open.spotify.com/artist/5eRPfl0nidVHlGcMBvrdf2), [Arthurzinho batedeira](https://open.spotify.com/artist/3s06SHQhJVCO1UH9NrVwUT), [Gugu Ofc](https://open.spotify.com/artist/6FaWIumVuKTAbalnVgiduL), [mc boyugo](https://open.spotify.com/artist/0lUd5MacFa0XMXemaP0byQ) | [Senta na 45 \(Remix\)](https://open.spotify.com/album/7zW7rA750EH81QRxO9dGav) | 2:31 | 2024-07-12 | 2024-07-29 |

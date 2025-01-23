@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 
 > ‘Ssuply’ makes our own playlist by listening to various stories from around the world, getting recommendations for music that fits the situation\. \(세상의 다양한 이야기를 듣고, 상황에 딱 맞는 음악을 추천받아, 우리만의 플레이리스트를 만드는 ‘썰플리’입니다.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,257 likes - 239 songs - 14 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,274 likes - 239 songs - 14 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ugUAewqF7z.md) - [plain]
 | 117 | [SIGN IS B \- AI SOLO VER.](https://open.spotify.com/track/7382VXbagXQiuxHc7uFZr5) | [B小町](https://open.spotify.com/artist/2iE1VTEN54FE9j7rIxbBHR), [アイ\(CV:高橋李依\)](https://open.spotify.com/artist/5TB17Dz2LxzznEW190lYs0) | [TV SERIES ”【OSHI NO KO】 ” \(Vol.1\)](https://open.spotify.com/album/1p6iimUATzHm5X377CBKUZ) | 3:33 |
 | 118 | [SPECIALZ](https://open.spotify.com/track/0GWNtMohuYUEHVZ40tcnHF) | [King Gnu](https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2) | [SPECIALZ](https://open.spotify.com/album/16Wxo6FKPXPzU9IApZfdlc) | 3:58 |
 | 119 | [...사랑했잖아...](https://open.spotify.com/track/6dKKY7BZi4yXS3vwuR6Dmt) | [Lyn](https://open.spotify.com/artist/1A6WCseWiK22oxqodg7vcy) | [Can U See The Bright](https://open.spotify.com/album/1p7Z2lphOJegFArqh8eMw5) | 4:03 |
-| 120 | [기억해줘요 내 모든 날과 그때를](https://open.spotify.com/track/3OqE4AVDie6l1gjoXGAQQR) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Hotel del Luna \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/7iM4E3rchIQqTbSFFhcDAR) | 3:48 |
+| 120 | [기억해줘요 내 모든 날과 그때를](https://open.spotify.com/track/3OqE4AVDie6l1gjoXGAQQR) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Hotel del Luna \(Original Television Soundtrack\) Pt.7](https://open.spotify.com/album/7iM4E3rchIQqTbSFFhcDAR) | 3:48 |
 | 121 | [안녕! 디지몬 \(Ending I\)](https://open.spotify.com/track/1Laz1S4TgAwkQiDxGuDeRq) | [장숙희](https://open.spotify.com/artist/5oO3YTR1dxrXfiY5NKBojm) | [디지몬 어드벤처 \(Original Soundtrack\) Ver.1 \(TV 주제가 모음\)](https://open.spotify.com/album/5W8eudPLQ3OVWBmIfiokje) | 3:00 |
 | 122 | [A journey](https://open.spotify.com/track/2cNMVbFcasgCRmn2t6VFFO) | [WONPIL](https://open.spotify.com/artist/3XGQthj0oqc8xGx3wRe4hP) | [Pilmography](https://open.spotify.com/album/1QbOQIYZYbSIXytzCErlZZ) | 3:29 |
 | 123 | [The 6th Summer](https://open.spotify.com/track/1lODrFR40rSNAw5cX4j2J2) | [PLAVE](https://open.spotify.com/artist/0k2zyzGq6HX383VlMBOvRG) | [ASTERUM : The Shape of Things to Come](https://open.spotify.com/album/0BlLhv46UtmO6UodMnwaYF) | 3:43 |

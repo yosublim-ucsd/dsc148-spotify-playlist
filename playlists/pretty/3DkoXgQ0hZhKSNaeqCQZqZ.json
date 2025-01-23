@@ -6,8 +6,28 @@
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADHhkzNEMkrwnZ+l9os32aLMXa/vwo",
+  "snapshot_id": "AAADH/+S1hLU0ezNOGZ46q7B/dbhl2Pf",
   "tracks": [
+    {
+      "added_at": "2025-01-23 01:15:54",
+      "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3k2Q3paKzUN39DxZWWgqyD"
+      },
+      "artists": [
+        {
+          "name": "YxFF",
+          "url": "https://open.spotify.com/artist/1b0psFpEdHE7zeAIqvIefQ"
+        },
+        {
+          "name": "{ELSEIF}",
+          "url": "https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg"
+        }
+      ],
+      "duration_ms": 163200,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/5X54QkuP6fAl4Md1Y6w0KA"
+    },
     {
       "added_at": "2025-01-18 23:27:56",
       "album": {

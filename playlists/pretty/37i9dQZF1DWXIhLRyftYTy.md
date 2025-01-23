@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXIhLRyftYTy.md) - [plain]
 
 > Listen to the soundtracks of the drama Dr\. Romantic 3\. \(드라마 낭만닥터 김사부3의 사운드 트랙들을 즐겨보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,822 likes - 34 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,825 likes - 34 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hello](https://open.spotify.com/track/7BPwGmwUCkRn4jqe3SC85y) | [BAEKHYUN](https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl) | [Romantic Doctor 3 Original Sound Track](https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO) | 3:50 |
-| 2 | [I Will Stay With You](https://open.spotify.com/track/76S2wSXX2joYsqXvyEVn0h) | [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Romantic Doctor 3 Original Sound Track](https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO) | 3:27 |
+| 2 | [I Will Stay With You](https://open.spotify.com/track/76S2wSXX2joYsqXvyEVn0h) | [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Romantic Doctor 3 Original Sound Track](https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO) | 3:27 |
 | 3 | [Beautiful Day](https://open.spotify.com/track/63PJ9AbiQrQLrCYGcLHsET) | [DOYOUNG](https://open.spotify.com/artist/5IMXUzbeAyevQmvtOhXQGi) | [Romantic Doctor 3 Original Sound Track](https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO) | 3:25 |
 | 4 | [Still You](https://open.spotify.com/track/6FcjCBqI9vAh1BYicaamUS) | [SEUNGKWAN \(SEVENTEEN\)](https://open.spotify.com/artist/4vYl3WahY3URtjubpKoGSR) | [Romantic Doctor 3 Original Sound Track](https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO) | 3:49 |
 | 5 | [One Hundred Love](https://open.spotify.com/track/6ZR0brXWdvxCcBEIfZQJif) | [LIA \(ITZY\)](https://open.spotify.com/artist/19Io533x1pKQu6ZuisGek5) | [Romantic Doctor 3 Original Sound Track](https://open.spotify.com/album/22OF6ZVHb4Cqj0pRZfhcxO) | 3:56 |

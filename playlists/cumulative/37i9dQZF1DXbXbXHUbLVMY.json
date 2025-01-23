@@ -3081,6 +3081,24 @@
     },
     {
       "album": {
+        "name": "LONELY",
+        "url": "https://open.spotify.com/album/1Tsrdb9lp8vmFIZb98vtxT"
+      },
+      "artists": [
+        {
+          "name": "Lamix",
+          "url": "https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry"
+        }
+      ],
+      "date_added": "2025-01-16",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120600,
+      "name": "LONELY",
+      "url": "https://open.spotify.com/track/51vLB58HYeCqEwRL32q2n4"
+    },
+    {
+      "album": {
         "name": "Lover",
         "url": "https://open.spotify.com/album/4YKK8NeOdlxEvVe4LY5cKQ"
       },
@@ -5020,7 +5038,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 162017,
       "name": "TRILLE",
       "url": "https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY"

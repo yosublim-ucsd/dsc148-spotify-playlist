@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYrH4yMJbkL8.md) - [plain]
 
 > A free space for Indigenous creators\. Currently curated by Caley Watts.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,729 likes - 25 songs - 1 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,735 likes - 25 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

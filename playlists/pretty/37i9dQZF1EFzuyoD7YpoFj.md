@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/2qLfMSD0xkFKDyH4qn8de8">Cole Porter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 376 likes - 407 songs - 21 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 375 likes - 407 songs - 21 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -272,8 +272,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 262 | [No Lover \- Live](https://open.spotify.com/track/7ltaQZDqFe1oyghj8nqdmI) | [Sharad](https://open.spotify.com/artist/3jHpFYyoxkwd3nFSiyq0V9) | [Compass Box Music: Unboxed, Vol\. 2 \(Live\)](https://open.spotify.com/album/7iSN503ApELtn6u9dF77yB) | 4:06 |
 | 263 | [Where Would You Get your Coat?](https://open.spotify.com/track/70KYvjr7X2pqjmdoQXkPmo) | [Cole Porter](https://open.spotify.com/artist/6rrwIOOzyvn76SDbkxjIjS), [James Burton](https://open.spotify.com/artist/2RAajwxQybgx0iIibcGHLo) | [The Cole Porter Songbook](https://open.spotify.com/album/6PNkhsKP6u3qreme9ZFPGJ) | 3:04 |
 | 264 | [Du hast mich ganz in der Hand \(I've Got You Under My Skin\)](https://open.spotify.com/track/61IzE2msyKWuVmbrFhz9Sb) | [Harald Juhnke](https://open.spotify.com/artist/7bny6ijof5zpSXItB4GOJa) | [Juhnke singt Sinatra](https://open.spotify.com/album/2mQDPrwiQcwNhmVLeUSKk4) | 3:32 |
-| 265 | [Let's Not Talk About Love](https://open.spotify.com/track/1XBi1XTuFppw1N8B8pirIs) | [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:39 |
-| 266 | [You Can Do No Wrong \- Remastered 2022](https://open.spotify.com/track/2VdtqoWNtdxGbkLHbEzqo2) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The King of Rockabilly \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux) | 2:22 |
+| 265 | [You Can Do No Wrong \- Remastered 2022](https://open.spotify.com/track/2VdtqoWNtdxGbkLHbEzqo2) | [Carl Perkins](https://open.spotify.com/artist/5hIClg6noTaCzMu2s5wp4f) | [The King of Rockabilly \(Sun Records 70th / Remastered 2022\)](https://open.spotify.com/album/6ek7cgGhlT5vuILlgsXDux) | 2:22 |
+| 266 | [Let's Not Talk About Love](https://open.spotify.com/track/1XBi1XTuFppw1N8B8pirIs) | [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 2:39 |
 | 267 | [From Alpha to Omega](https://open.spotify.com/track/0gUWRzwRKeerxnDx3wL3KO) | [Kristin Chenoweth](https://open.spotify.com/artist/3DgcBA7P0ji5co7Z1Gfp2Q), [David Garrison](https://open.spotify.com/artist/4HtdJYR72ol9zSQJRLJWO4) | [Cole Porter's You Never Know \(World Premiere Cast Recording\)](https://open.spotify.com/album/42LGUhB0tCeeBENJYhTqLW) | 3:44 |
 | 268 | [Hot\-House Rose](https://open.spotify.com/track/5qnEOitJEK4iIOsY1NUlOF) | [Lee Wiley](https://open.spotify.com/artist/1IRFfdGI95F5UTMST4udG3) | [A Ghost of a Chance](https://open.spotify.com/album/0Z6PwRMIfCvdxGSESU3ejc) | 2:51 |
 | 269 | [If You Could Love Me \(Featuring Carol Sloane\)](https://open.spotify.com/track/28h6egoNyIIKaZFmhN6tOY) | [Carol Sloane](https://open.spotify.com/artist/2CJx2Ijs1UBPmFE2LhhbZM) | [We'll Meet Again](https://open.spotify.com/album/3vu9tCv3cuJZAeDth8BVZU) | 2:37 |
@@ -416,4 +416,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzuyoD7YpoFj.md) - [plain]
 | 406 | [To Think That This Could Happen to Me](https://open.spotify.com/track/4NHtcwJ74MtwXcciySVMy5) | [Wilfried Van Den Brande](https://open.spotify.com/artist/0SWts3H6XfovTeyTpePeYE) | [When Love Comes to Call](https://open.spotify.com/album/3UNm9uCpK0Q8bFn5NZ5hRJ) | 4:46 |
 | 407 | [You've Got Something](https://open.spotify.com/track/3mOu0wnhrLDqM2QPIGt3vh) | [Armando Trovajoli e La Sua Orchestra](https://open.spotify.com/artist/5WyhUmiKmVxjyCNgM4GbEw) | [Prigionieri del Cielo](https://open.spotify.com/album/6UIfJA1Rnz3OI5pwp4GUPr) | 3:56 |
 
-Snapshot ID: `AbnfagAAAADEuF8bzixxfjSSXedQYIQn`
+Snapshot ID: `AbnlFAAAAAB5+kKjme1YsGmZHgpqk9FY`

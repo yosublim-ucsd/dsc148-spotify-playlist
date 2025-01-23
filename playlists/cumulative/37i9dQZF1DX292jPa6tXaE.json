@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-05",
-  "description": "Discover the future of Punjabi Pop! Cover: Opinder Dhillon",
+  "description": "Discover the future of Punjabi Pop! Cover: Jassa Dhaliwal ",
   "name": "Fresh Finds Punjabi",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 158126,
       "name": ".45",
       "url": "https://open.spotify.com/track/0N4n4lBbSRT1HwjXhrrtvs"
+    },
+    {
+      "album": {
+        "name": "3 Bussan (The Real Story)",
+        "url": "https://open.spotify.com/album/5flzadGP07imjY8IP0hYR7"
+      },
+      "artists": [
+        {
+          "name": "Aman Hamidi",
+          "url": "https://open.spotify.com/artist/4XCiu9pROy1ShkdSTWPlQe"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179647,
+      "name": "3 Bussan (The Real Story)",
+      "url": "https://open.spotify.com/track/0VS129Ri2ciNasuJVL66fD"
     },
     {
       "album": {
@@ -842,6 +860,24 @@
       "duration_ms": 138666,
       "name": "Desire",
       "url": "https://open.spotify.com/track/5zQFa7QEb0jrqvoLyvY0vj"
+    },
+    {
+      "album": {
+        "name": "ASCEND",
+        "url": "https://open.spotify.com/album/3m5HakcsUedSABTfjU8KuE"
+      },
+      "artists": [
+        {
+          "name": "Jass Rathour",
+          "url": "https://open.spotify.com/artist/1PJeurLIeA8KCD0XIser63"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146086,
+      "name": "Different Lane",
+      "url": "https://open.spotify.com/track/6YmrV7OpZGm4opGHU2CSrS"
     },
     {
       "album": {
@@ -2412,7 +2448,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 275659,
       "name": "Mohobbat Chor Di",
       "url": "https://open.spotify.com/track/2NdHcpOFnjKZTcEuKYTrSf"
@@ -2870,7 +2906,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 131989,
       "name": "Sarpanchi",
       "url": "https://open.spotify.com/track/6pltwItmq8QBJ2Lru5RQVf"
@@ -2955,6 +2991,28 @@
     },
     {
       "album": {
+        "name": "Sheesha",
+        "url": "https://open.spotify.com/album/6CQ4nR4wQHXvrfEL4P9Mpa"
+      },
+      "artists": [
+        {
+          "name": "Jassa Dhaliwal",
+          "url": "https://open.spotify.com/artist/3w2MQ3MYmBfULtwVaP1lr4"
+        },
+        {
+          "name": "Pav Deep",
+          "url": "https://open.spotify.com/artist/4Le57joAry3BOUKa8yQnLB"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155121,
+      "name": "Sheesha",
+      "url": "https://open.spotify.com/track/73eVlh7vsltw5IUL5vXAjo"
+    },
+    {
+      "album": {
         "name": "Sohneya",
         "url": "https://open.spotify.com/album/0Lkz9ZEAVf3tYwU0kBWQR1"
       },
@@ -2966,7 +3024,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 215334,
       "name": "Sohneya",
       "url": "https://open.spotify.com/track/6kkH3711G3XPbeLV4xGdJ7"
@@ -3386,7 +3444,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 150874,
       "name": "Tu Hi Pyaar Mera",
       "url": "https://open.spotify.com/track/2pOUiCkOZSTnSn6tmRsf9H"
@@ -3582,6 +3640,24 @@
       "duration_ms": 359917,
       "name": "VOW",
       "url": "https://open.spotify.com/track/1eR5lUXBuUhNqZjBY1EzNu"
+    },
+    {
+      "album": {
+        "name": "walk out ?",
+        "url": "https://open.spotify.com/album/0m3sRcmfAgs91HfeW7jm57"
+      },
+      "artists": [
+        {
+          "name": "Kartar",
+          "url": "https://open.spotify.com/artist/6yt1JxOJQyp1yN8sf3RwVc"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136257,
+      "name": "walk out ?",
+      "url": "https://open.spotify.com/track/186FJ4VHzWKq37g2xAI8Sm"
     },
     {
       "album": {

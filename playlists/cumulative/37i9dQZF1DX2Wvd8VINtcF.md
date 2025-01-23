@@ -4,7 +4,7 @@
 
 > pearl of the week: Oklou & Bladee
 
-1,656 songs - 3 day 17 hr 58 min
+1,657 songs - 3 day 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1611,6 +1611,7 @@
 | [Who](https://open.spotify.com/track/36Qy5JWTlosQe8mliqKCjw) | [Scout](https://open.spotify.com/artist/4qGG2VErQJKKDpnfmrsbZR), [Phoebe Green](https://open.spotify.com/artist/5qt7yk11uFzsBUC3CgbyNP) | [Who](https://open.spotify.com/album/6dUqAzE6hZbHbhIhtvoXA0) | 3:07 | 2024-01-11 | 2024-01-26 |
 | [Who Are You](https://open.spotify.com/track/5NIdMH40xs2YIRYRfIV6QP) | [IOVA](https://open.spotify.com/artist/6ywdLBfxLvrNw4l25x4Q0O) | [Who Are You](https://open.spotify.com/album/4CW4C79y9O1GK6Iln645R6) | 2:36 | 2022-11-24 | 2022-12-02 |
 | [Who Are You](https://open.spotify.com/track/0rmjetpvIvK6vB2DAeHdfN) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [AcjnN](https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1) | [Who Are You](https://open.spotify.com/album/3jaJqSXrIKifgKKXz1HNyd) | 2:46 | 2023-12-14 | 2024-02-02 |
+| [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-22 |  |
 | [Who He Iz](https://open.spotify.com/track/02nhDSWvcXYALyVkth2oXd) | [KAYTRAMINÉ](https://open.spotify.com/artist/5oifjQw72WO7Jut07fVWMy), [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ), [KAYTRANADA](https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu) | [KAYTRAMINÉ](https://open.spotify.com/album/1plAqF2W8hwAhcpBAfGNsW) | 3:01 | 2023-05-18 | 2023-06-09 |
 | [Who Raised You?](https://open.spotify.com/track/3YPu9RiQWont2PkBIqhzOz) | [Raghd](https://open.spotify.com/artist/5CIGqUkWQ0OY3U7HGlDlvw) | [Who Raised You?](https://open.spotify.com/album/1sXV7U5PQZJQpI0HQrB9oy) | 3:47 | 2023-03-17 | 2023-05-12 |
 | [Who's That Girl](https://open.spotify.com/track/2NpuppKP7KTdlwvSrJ9RZf) | [KIDDO](https://open.spotify.com/artist/5pXe6yFchq1oyYK3rq2A8i) | [Who's That Girl](https://open.spotify.com/album/3vEoqTGmcaul1mPjPGrmSI) | 2:49 | 2022-11-03 | 2022-11-18 |

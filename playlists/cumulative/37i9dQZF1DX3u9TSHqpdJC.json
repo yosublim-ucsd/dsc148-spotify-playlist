@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "The best new pop music from new, independent artists.  Cover: ENILA. Artwork by Paola Saliby",
+  "description": "The best new pop music from new, independent artists.  Cover: Saga Faye. Artwork by Paola Saliby",
   "name": "Fresh Finds Pop",
   "tracks": [
     {
@@ -1354,6 +1354,24 @@
       "duration_ms": 150927,
       "name": "a little hope never hurt",
       "url": "https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB"
+    },
+    {
+      "album": {
+        "name": "A Little Kinder",
+        "url": "https://open.spotify.com/album/0PSfzTtE8Z7ax2V2aknKCy"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172746,
+      "name": "A Little Kinder",
+      "url": "https://open.spotify.com/track/2FW5ayCDLgY1UiB5KeeiyO"
     },
     {
       "album": {
@@ -4073,6 +4091,24 @@
     },
     {
       "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3TCUTffuGxQ8r3NBaFMQWH"
+      },
+      "artists": [
+        {
+          "name": "Amelia Power",
+          "url": "https://open.spotify.com/artist/7zYY3EAG60pNAu94cgOKo8"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169426,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3KNrDw01naP0LCh7XbVQmP"
+    },
+    {
+      "album": {
         "name": "Attendance Record",
         "url": "https://open.spotify.com/album/71tQKzPM6gViioZ5FMuMlc"
       },
@@ -5636,7 +5672,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 137469,
       "name": "Before The Kiss",
       "url": "https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh"
@@ -9583,6 +9619,24 @@
     },
     {
       "album": {
+        "name": "C.R.I.N.G.E.",
+        "url": "https://open.spotify.com/album/53VfafhPaGOkRigoncylVc"
+      },
+      "artists": [
+        {
+          "name": "Azuleja",
+          "url": "https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184053,
+      "name": "C.R.I.N.G.E.",
+      "url": "https://open.spotify.com/track/25MPQTNLhtMFbMPzNxghFj"
+    },
+    {
+      "album": {
         "name": "c.w.u.c",
         "url": "https://open.spotify.com/album/2NVCPX7H2w1hsbldQttW1C"
       },
@@ -12159,6 +12213,24 @@
     },
     {
       "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/1frNzkqZrkVTzil4tptBPv"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194100,
+      "name": "COMO T\u00da",
+      "url": "https://open.spotify.com/track/4hEUp0JHJ0b20ICmvSebgI"
+    },
+    {
+      "album": {
         "name": "compensate me for all of my loneliness",
         "url": "https://open.spotify.com/album/6vmN5CGJYOsiGKQwHtEqfT"
       },
@@ -13875,6 +13947,36 @@
     },
     {
       "album": {
+        "name": "Daddy's Girl",
+        "url": "https://open.spotify.com/album/75tvkRceAORLOieniDRrtJ"
+      },
+      "artists": [
+        {
+          "name": "Dayside",
+          "url": "https://open.spotify.com/artist/1yzJ27db2mGyeQeOGJ2cbl"
+        },
+        {
+          "name": "Guffchild",
+          "url": "https://open.spotify.com/artist/4MBIiX7dMqa1xDwDNZDhMR"
+        },
+        {
+          "name": "Mosez Jones",
+          "url": "https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp"
+        },
+        {
+          "name": "Pope Silk",
+          "url": "https://open.spotify.com/artist/37GtR4WbOKgdYkM1n733Df"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124285,
+      "name": "Daddy's Girl",
+      "url": "https://open.spotify.com/track/0YPjYknsamXB9bEUeeR9kP"
+    },
+    {
+      "album": {
         "name": "Daffodils",
         "url": "https://open.spotify.com/album/5M52Nb9flcsFikTMdfqM19"
       },
@@ -13908,6 +14010,24 @@
       "duration_ms": 147422,
       "name": "daffodils",
       "url": "https://open.spotify.com/track/2NeCjvgTqkRhnpisp0g8ph"
+    },
+    {
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208347,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO"
     },
     {
       "album": {
@@ -19166,7 +19286,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 219566,
       "name": "Faith",
       "url": "https://open.spotify.com/track/1SMbbkmy371096e60XcstR"
@@ -25622,7 +25742,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 228857,
       "name": "Healing Out of Spite",
       "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
@@ -28563,6 +28683,24 @@
     },
     {
       "album": {
+        "name": "Hurts Different",
+        "url": "https://open.spotify.com/album/0tuEjKKxbF3gOLjN5wlRPc"
+      },
+      "artists": [
+        {
+          "name": "Isabella Kearney",
+          "url": "https://open.spotify.com/artist/3IiEUjaWFpelGMcTTRGBDL"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141265,
+      "name": "Hurts Different",
+      "url": "https://open.spotify.com/track/4JQAx07ymzsRegTgjlCNg6"
+    },
+    {
+      "album": {
         "name": "Hurts Like Hell",
         "url": "https://open.spotify.com/album/2u7qCdSsazhl9PXlXPCQ5k"
       },
@@ -29558,7 +29696,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 162300,
       "name": "I Lied, I'm Sorry",
       "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
@@ -31918,7 +32056,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 177500,
       "name": "Infamous",
       "url": "https://open.spotify.com/track/3I37mrPBvQb9C6n8Ak9XIi"
@@ -33397,6 +33535,24 @@
     },
     {
       "album": {
+        "name": "Killed For Sport",
+        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254954,
+      "name": "Killed For Sport",
+      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
+    },
+    {
+      "album": {
         "name": "Killing Me Babe",
         "url": "https://open.spotify.com/album/2WE5IWEq96LJCWVAQxM4l5"
       },
@@ -33780,6 +33936,24 @@
       "duration_ms": 182408,
       "name": "Knievel",
       "url": "https://open.spotify.com/track/1ldzWhXrE6hh4CJBBn17DZ"
+    },
+    {
+      "album": {
+        "name": "Knock the Wind Out of Me",
+        "url": "https://open.spotify.com/album/5808eHXRlS6zEphCb76zHz"
+      },
+      "artists": [
+        {
+          "name": "Fia James",
+          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197943,
+      "name": "Knock the Wind Out of Me",
+      "url": "https://open.spotify.com/track/2FO6UOOzGjcNE0mys7BUmq"
     },
     {
       "album": {
@@ -34486,7 +34660,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 173418,
       "name": "Lavender Blues",
       "url": "https://open.spotify.com/track/2qxghOayHOtuuoQHwJ2n9h"
@@ -38069,6 +38243,24 @@
     },
     {
       "album": {
+        "name": "LUCKY BOY",
+        "url": "https://open.spotify.com/album/7sC2LnkJihVuPsBPPUPU7y"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168718,
+      "name": "LUCKY BOY",
+      "url": "https://open.spotify.com/track/5w3s73fS7K0Ld0FMjwWooE"
+    },
+    {
+      "album": {
         "name": "Lucy",
         "url": "https://open.spotify.com/album/7fH7BwgrpBNy0InRrExYBY"
       },
@@ -39820,7 +40012,7 @@
       ],
       "date_added": "2024-02-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 237391,
       "name": "Middle Name (with Mckenna Grace)",
       "url": "https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j"
@@ -43158,7 +43350,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 179178,
       "name": "No Strings Attached",
       "url": "https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT"
@@ -52772,7 +52964,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 183420,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
@@ -52924,7 +53116,7 @@
       ],
       "date_added": "2024-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 129056,
       "name": "She Likes a Boy",
       "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
@@ -53094,7 +53286,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 235725,
       "name": "Shotgun",
       "url": "https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i"
@@ -57408,7 +57600,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 245504,
       "name": "Summer Song",
       "url": "https://open.spotify.com/track/0pwIbDtddJhPSyLaWecP9j"
@@ -58875,6 +59067,24 @@
     },
     {
       "album": {
+        "name": "Tattooed To My Heart",
+        "url": "https://open.spotify.com/album/2jrfp5GSOzL3961NQNtC0A"
+      },
+      "artists": [
+        {
+          "name": "Anacy",
+          "url": "https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217168,
+      "name": "Tattooed To My Heart",
+      "url": "https://open.spotify.com/track/04MA9bSps2FJupffY6ig2D"
+    },
+    {
+      "album": {
         "name": "Complete In Box",
         "url": "https://open.spotify.com/album/6jVRKAWfgTf7M1toxTi1VU"
       },
@@ -59084,7 +59294,7 @@
       ],
       "date_added": "2024-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 250085,
       "name": "Technicolor Dream",
       "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
@@ -60260,7 +60470,7 @@
       ],
       "date_added": "2025-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 169296,
       "name": "The Gift You Gave Me",
       "url": "https://open.spotify.com/track/0RPA0br4CEgb7RNKp38PXv"
@@ -64321,6 +64531,24 @@
     },
     {
       "album": {
+        "name": "Vegas Venetian",
+        "url": "https://open.spotify.com/album/4MIQxHKxZjloVi1gkURgwU"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188976,
+      "name": "Vegas Venetian",
+      "url": "https://open.spotify.com/track/2q2iWpHFmelhdJa0jUGU1n"
+    },
+    {
+      "album": {
         "name": "Velvet Love",
         "url": "https://open.spotify.com/album/0RLo0rJxaDLByhWzdghHJG"
       },
@@ -65450,7 +65678,7 @@
       ],
       "date_added": "2024-01-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 191016,
       "name": "Water Worship Pray",
       "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
@@ -67167,6 +67395,24 @@
     },
     {
       "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
+    },
+    {
+      "album": {
         "name": "WHO DAT",
         "url": "https://open.spotify.com/album/4CiUmJYJxaf44o4Ts6eSvo"
       },
@@ -67362,6 +67608,24 @@
       "duration_ms": 219912,
       "name": "Why You Trying Not to Love Me",
       "url": "https://open.spotify.com/track/55Bo1cQxm2sAvzR2ZmQqYb"
+    },
+    {
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/1JsyLILacCifNmUP557DaE"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141483,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/7x6NHBM8bAze7CqCIIZzHb"
     },
     {
       "album": {
@@ -68064,6 +68328,24 @@
       "duration_ms": 175266,
       "name": "Worst Boyfriend Award",
       "url": "https://open.spotify.com/track/3rPoShpRY4qZyQM2nMGEVq"
+    },
+    {
+      "album": {
+        "name": "Worst Day",
+        "url": "https://open.spotify.com/album/6M6IYyNGPujN908evSqmLm"
+      },
+      "artists": [
+        {
+          "name": "Laura Nahr",
+          "url": "https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137240,
+      "name": "Worst Day",
+      "url": "https://open.spotify.com/track/34WEgaMkqYHT9316Pf9gxT"
     },
     {
       "album": {
@@ -68912,6 +69194,24 @@
       "duration_ms": 214000,
       "name": "You Wanted Me to Stay",
       "url": "https://open.spotify.com/track/0H0skF3IjqUeHNcHuQyLfy"
+    },
+    {
+      "album": {
+        "name": "you were just drunk",
+        "url": "https://open.spotify.com/album/5KBEO2fTXCj1iEjcROyPXA"
+      },
+      "artists": [
+        {
+          "name": "Julia Minichiello",
+          "url": "https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176652,
+      "name": "you were just drunk",
+      "url": "https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b"
     },
     {
       "album": {

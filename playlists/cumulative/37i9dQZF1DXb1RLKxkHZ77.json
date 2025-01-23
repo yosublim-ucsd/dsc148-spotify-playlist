@@ -616,7 +616,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 190365,
       "name": "Anak Raja",
       "url": "https://open.spotify.com/track/6gxdc7qX4ANNhpADTy5ENr"
@@ -834,7 +834,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 242000,
       "name": "Apa Artinya Aku",
       "url": "https://open.spotify.com/track/1drVngXHf4CtDpSnTbZ9cg"
@@ -1843,6 +1843,24 @@
     },
     {
       "album": {
+        "name": "Bila Nak Kahwin?",
+        "url": "https://open.spotify.com/album/7zomYLw6sCk3BITDQo3ZSp"
+      },
+      "artists": [
+        {
+          "name": "Amira Othman",
+          "url": "https://open.spotify.com/artist/31aRV0LJpJ88B7WX6PNspi"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206912,
+      "name": "Bila Nak Kahwin?",
+      "url": "https://open.spotify.com/track/6cPt9RbI8vu59CAgmF4vkU"
+    },
+    {
+      "album": {
         "name": "BILA NANTI",
         "url": "https://open.spotify.com/album/6cMJGxJB6TGFIo4BmDSA8C"
       },
@@ -1980,7 +1998,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 248600,
       "name": "Boleh Merindu",
       "url": "https://open.spotify.com/track/2IbXGJUnPbT7trKSAy6LNC"
@@ -2104,7 +2122,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-16",
+      "date_removed": null,
       "duration_ms": 212500,
       "name": "Bukan Lagi Kita",
       "url": "https://open.spotify.com/track/3v0kDUI2OMYefvcgJYssUv"
@@ -2390,7 +2408,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 158400,
       "name": "CACACA",
       "url": "https://open.spotify.com/track/7Hmp5cIfG5ZzJxRjelM2aB"
@@ -6436,7 +6454,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 181110,
       "name": "LUV",
       "url": "https://open.spotify.com/track/5sVKk7LjR1zDKCJOwI8ZZ1"
@@ -6643,6 +6661,28 @@
     },
     {
       "album": {
+        "name": "Teruntuk Jantung",
+        "url": "https://open.spotify.com/album/0WN1h2V3Gox0NGukc3jHvr"
+      },
+      "artists": [
+        {
+          "name": "NAKI",
+          "url": "https://open.spotify.com/artist/70aQ7JTOrmv7jj6rhlzTrb"
+        },
+        {
+          "name": "Fahimi",
+          "url": "https://open.spotify.com/artist/3v9Zh81VbCucm3FCyXwhZd"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169707,
+      "name": "Masa",
+      "url": "https://open.spotify.com/track/2kEJStmFXW3p4f8gaN7gPO"
+    },
+    {
+      "album": {
         "name": "Masa Mudaku Habis",
         "url": "https://open.spotify.com/album/3XntILaq6yQVrdUk0kVRwZ"
       },
@@ -6810,7 +6850,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 263778,
       "name": "Memori Baik",
       "url": "https://open.spotify.com/track/78tfcz1aUQlCzd3lkr614r"
@@ -7575,6 +7615,24 @@
     },
     {
       "album": {
+        "name": "Nirmala",
+        "url": "https://open.spotify.com/album/47kv2lYLvQoUTIMbj2EWGs"
+      },
+      "artists": [
+        {
+          "name": "Noh Salleh",
+          "url": "https://open.spotify.com/artist/4fVYwG8RsbJsREFFniszhf"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190293,
+      "name": "Nirmala",
+      "url": "https://open.spotify.com/track/5girXMAp0lBtfQpNZEe1cT"
+    },
+    {
+      "album": {
         "name": "No Skibidi",
         "url": "https://open.spotify.com/album/6jGGuwBQsqrMGi2GqOuIY6"
       },
@@ -7704,6 +7762,24 @@
       "duration_ms": 200343,
       "name": "Omong Kosong",
       "url": "https://open.spotify.com/track/1vQB8awWbfjqwpEyCLqzkE"
+    },
+    {
+      "album": {
+        "name": "One More Time",
+        "url": "https://open.spotify.com/album/3f55a3kyOyEaYLMpzy3nyu"
+      },
+      "artists": [
+        {
+          "name": "KRU",
+          "url": "https://open.spotify.com/artist/2rcRcfzOWMvNbRPKg5SBjr"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205026,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/3e6jOLO8kabk6eOZ4zH0Nl"
     },
     {
       "album": {
@@ -8262,7 +8338,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 159215,
       "name": "PIPI",
       "url": "https://open.spotify.com/track/3gSyEHJ8a9j933LJfsguqP"
@@ -8412,6 +8488,24 @@
       "duration_ms": 91195,
       "name": "R Sterling",
       "url": "https://open.spotify.com/track/5Nph4PmG0d9OFXW396bUFH"
+    },
+    {
+      "album": {
+        "name": "Glorious",
+        "url": "https://open.spotify.com/album/0gpLxjZBBdWsHJjQFS59Mt"
+      },
+      "artists": [
+        {
+          "name": "Jaclyn Victor",
+          "url": "https://open.spotify.com/artist/40ODyztPrDuIBY9ocqhwgB"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241539,
+      "name": "Racun",
+      "url": "https://open.spotify.com/track/3QPjFOaHenvJawbm5cik7p"
     },
     {
       "album": {
@@ -9138,7 +9232,7 @@
       ],
       "date_added": "2024-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 244759,
       "name": "Salahkah Aku?",
       "url": "https://open.spotify.com/track/4yiWEkos7y6kzqWTZGLF1l"
@@ -10502,7 +10596,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-09",
+      "date_removed": null,
       "duration_ms": 202721,
       "name": "Tak Ada Ujungnya",
       "url": "https://open.spotify.com/track/2JekYbWANgDe54Dndi2I2C"
@@ -10984,6 +11078,24 @@
       "duration_ms": 154065,
       "name": "Teman (Alhamdulillah)",
       "url": "https://open.spotify.com/track/5t2UKa7JXTeBqsdQbJJqOh"
+    },
+    {
+      "album": {
+        "name": "Terakhir Kali",
+        "url": "https://open.spotify.com/album/3l2z82HMmmq1diaA1D29BB"
+      },
+      "artists": [
+        {
+          "name": "Wijaya 80",
+          "url": "https://open.spotify.com/artist/1ZaYY3Ad5D5KYahXT594BX"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 294545,
+      "name": "Terakhir Kali",
+      "url": "https://open.spotify.com/track/4t1jD3tL5IWCHT8kd49cnT"
     },
     {
       "album": {
@@ -11603,6 +11715,24 @@
     },
     {
       "album": {
+        "name": "Kini & Sampai Kapanpun",
+        "url": "https://open.spotify.com/album/0ikkz9CCu9uM54Mcguh1rA"
+      },
+      "artists": [
+        {
+          "name": "Daun Jatuh",
+          "url": "https://open.spotify.com/artist/3EaScgA3zh2rORlbrAL8RI"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251004,
+      "name": "Untuk Selalu Senang",
+      "url": "https://open.spotify.com/track/7d5MSiGff1HYAvjVdQkhmh"
+    },
+    {
+      "album": {
         "name": "Untuk Semua Jiwa (From \"Soloz Game Of Life\")",
         "url": "https://open.spotify.com/album/2dHAGpXIRCZa5DaNeURBmW"
       },
@@ -11618,7 +11748,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 203000,
       "name": "Untuk Semua Jiwa - From \"Soloz Game Of Life\"",
       "url": "https://open.spotify.com/track/4LYQCHV8eg8AGhk5Ocpp44"

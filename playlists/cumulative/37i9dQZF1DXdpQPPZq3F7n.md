@@ -2,7 +2,7 @@
 
 ### [Bollywood Mush](https://open.spotify.com/playlist/37i9dQZF1DXdpQPPZq3F7n)
 
-> Let these songs be the background score to your love story\. Cover \- Bhediya
+> Let these songs be the background score to your love story\. Cover \- Stree 2
 
 251 songs - 17 hr 32 min
 

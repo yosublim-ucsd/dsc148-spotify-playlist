@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Edgardo Nu\u00f1ez en portada.",
-  "num_followers": 1247031,
+  "num_followers": 1247203,
   "original_name": "Banda 2025",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3ExUdt4PSkql5ojPhmZCLX"
+      },
+      "artists": [
+        {
+          "name": "Moy Bobadilla",
+          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
+        }
+      ],
+      "duration_ms": 191750,
+      "name": "Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/5jWrRvkVz0w5x3UOcJ1Xyx"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "Tu Reemplazo",
         "url": "https://open.spotify.com/album/1HFqzGl3rwhmPIhELtK8fE"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 280093,
       "name": "Somos Los Que Somos - En Vivo",
       "url": "https://open.spotify.com/track/1Z04XN4pH2b8JfdiaIEkl5"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3ExUdt4PSkql5ojPhmZCLX"
-      },
-      "artists": [
-        {
-          "name": "Moy Bobadilla",
-          "url": "https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR"
-        }
-      ],
-      "duration_ms": 191750,
-      "name": "Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/5jWrRvkVz0w5x3UOcJ1Xyx"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -843,22 +843,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Aqu\u00ed Casual",
-        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
-      },
-      "artists": [
-        {
-          "name": "Los 2 de la S",
-          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
-        }
-      ],
-      "duration_ms": 156521,
-      "name": "Bonito y Bello",
-      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "\u00c1ndale Pues Terco",
         "url": "https://open.spotify.com/album/4LSWIFAb2zHbUkoUHgDsUk"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 211560,
       "name": "Perfecta",
       "url": "https://open.spotify.com/track/4YO9aERidTIRtBG225jr0l"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "Aqu\u00ed Casual",
+        "url": "https://open.spotify.com/album/21jVVuqkda4oXVcS39oiOK"
+      },
+      "artists": [
+        {
+          "name": "Los 2 de la S",
+          "url": "https://open.spotify.com/artist/4UqfXEVibVEPfoopm7Pduc"
+        }
+      ],
+      "duration_ms": 156521,
+      "name": "Bonito y Bello",
+      "url": "https://open.spotify.com/track/3EsSkOSotuZIznFtjZhUOR"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1283,18 +1283,18 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "COQUETO TAZO DORADO",
-        "url": "https://open.spotify.com/album/0Tv8a7UNMKcvNXMCntg7fC"
+        "name": "Vamos Bien",
+        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Calibre 50",
+          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
         }
       ],
-      "duration_ms": 210720,
-      "name": "COQUETO TAZO DORADO",
-      "url": "https://open.spotify.com/track/3em90DscDPoispuwsdd2aT"
+      "duration_ms": 200440,
+      "name": "Vamos Bien",
+      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1315,8 +1315,8 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
-        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
+        "name": "No Llega El Olvido (En Vivo)",
+        "url": "https://open.spotify.com/album/72quJ2zGWeKnLmipKNZTUZ"
       },
       "artists": [
         {
@@ -1324,13 +1324,13 @@
           "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         },
         {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+          "name": "Beto Guzman",
+          "url": "https://open.spotify.com/artist/6tq31zQs5K8TRzjyyZY0W8"
         }
       ],
-      "duration_ms": 178412,
-      "name": "Alma Enamorada (En Vivo)",
-      "url": "https://open.spotify.com/track/0vLXA9eQpe56eGBz0lTDqW"
+      "duration_ms": 283350,
+      "name": "No Llega El Olvido (En Vivo)",
+      "url": "https://open.spotify.com/track/2w6pRC9ywVbHG1BFXOvd1t"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1355,18 +1355,18 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Vamos Bien",
-        "url": "https://open.spotify.com/album/4CK4qIkDBB1Knqwzkm12RZ"
+        "name": "COQUETO TAZO DORADO",
+        "url": "https://open.spotify.com/album/0Tv8a7UNMKcvNXMCntg7fC"
       },
       "artists": [
         {
-          "name": "Calibre 50",
-          "url": "https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P"
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
         }
       ],
-      "duration_ms": 200440,
-      "name": "Vamos Bien",
-      "url": "https://open.spotify.com/track/1Eq9p2KydW149g6blnkpS2"
+      "duration_ms": 210720,
+      "name": "COQUETO TAZO DORADO",
+      "url": "https://open.spotify.com/track/3em90DscDPoispuwsdd2aT"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1463,8 +1463,8 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "No Llega El Olvido (En Vivo)",
-        "url": "https://open.spotify.com/album/72quJ2zGWeKnLmipKNZTUZ"
+        "name": "Desde La Playa \"En Vivo desde Mazatlan, Sinaloa\"",
+        "url": "https://open.spotify.com/album/1VdrXuMVBAzsxPP4vaecDI"
       },
       "artists": [
         {
@@ -1472,13 +1472,13 @@
           "url": "https://open.spotify.com/artist/7AUgYiThuW80zSOwY7Ub2g"
         },
         {
-          "name": "Beto Guzman",
-          "url": "https://open.spotify.com/artist/6tq31zQs5K8TRzjyyZY0W8"
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
         }
       ],
-      "duration_ms": 283350,
-      "name": "No Llega El Olvido (En Vivo)",
-      "url": "https://open.spotify.com/track/2w6pRC9ywVbHG1BFXOvd1t"
+      "duration_ms": 178412,
+      "name": "Alma Enamorada (En Vivo)",
+      "url": "https://open.spotify.com/track/0vLXA9eQpe56eGBz0lTDqW"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Ya Lo S\u00e9 (Banda)",
-        "url": "https://open.spotify.com/album/1HkmNyWvsyWZEtlBCL9fhN"
-      },
-      "artists": [
-        {
-          "name": "Jenni Rivera",
-          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
-        }
-      ],
-      "duration_ms": 202777,
-      "name": "Ya Lo S\u00e9 - Banda",
-      "url": "https://open.spotify.com/track/6XcCOSfmtOH7DkRCfWQWxW"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "Me Gustas Mucho T\u00fa",
         "url": "https://open.spotify.com/album/1bkFIUDfNyfuIck0Ktc46C"
       },
@@ -1875,6 +1859,22 @@
       "duration_ms": 152170,
       "name": "Me Gustas Mucho T\u00fa",
       "url": "https://open.spotify.com/track/7uCOC6ejt66iR6UOX0dmlJ"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "Ya Lo S\u00e9 (Banda)",
+        "url": "https://open.spotify.com/album/1HkmNyWvsyWZEtlBCL9fhN"
+      },
+      "artists": [
+        {
+          "name": "Jenni Rivera",
+          "url": "https://open.spotify.com/artist/5c4wQaXkNDqSOTjqX4ExAu"
+        }
+      ],
+      "duration_ms": 202777,
+      "name": "Ya Lo S\u00e9 - Banda",
+      "url": "https://open.spotify.com/track/6XcCOSfmtOH7DkRCfWQWxW"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Malabares",
-        "url": "https://open.spotify.com/album/42TfsK86ReyzjnN9iEXREl"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 221883,
-      "name": "Malabares",
-      "url": "https://open.spotify.com/track/1neubhunsokl2tnLWgoY48"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "Puros Exitos Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/75rw7dmVjcLhBBYysPNon3"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 234416,
       "name": "El Vaso Derrama - En Vivo",
       "url": "https://open.spotify.com/track/59c7Eqq9dCPRSqeab8fxvU"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "Malabares",
+        "url": "https://open.spotify.com/album/42TfsK86ReyzjnN9iEXREl"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 221883,
+      "name": "Malabares",
+      "url": "https://open.spotify.com/track/1neubhunsokl2tnLWgoY48"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -2019,22 +2019,6 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "Soltero Para Rato",
-        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
-      },
-      "artists": [
-        {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        }
-      ],
-      "duration_ms": 189506,
-      "name": "Soltero Para Rato",
-      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
         "name": "No Hay Nada Mas Que Decir",
         "url": "https://open.spotify.com/album/4XtV81qI8tMRYNPt5WRPZF"
       },
@@ -2083,6 +2067,22 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
+        "name": "Soltero Para Rato",
+        "url": "https://open.spotify.com/album/12LwolaVdtNRJfUpXU84RZ"
+      },
+      "artists": [
+        {
+          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
+          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
+        }
+      ],
+      "duration_ms": 189506,
+      "name": "Soltero Para Rato",
+      "url": "https://open.spotify.com/track/12or4TvmDjzEg05ZYGt0to"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
         "name": "El Profeta",
         "url": "https://open.spotify.com/album/0DF4R8iyOcRQVD5zs7CUNx"
       },
@@ -2103,22 +2103,18 @@
     {
       "added_at": "2025-01-10 06:00:12",
       "album": {
-        "name": "El Humo De Mi Gallo",
-        "url": "https://open.spotify.com/album/6EzDCDQdRd7si00U61tjlN"
+        "name": "24/7 Dolido",
+        "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
       },
       "artists": [
         {
-          "name": "Banda Los Sebastianes De Sa\u00fal Plata",
-          "url": "https://open.spotify.com/artist/2XTrqe2RU5niqO0RNA6Zct"
-        },
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
         }
       ],
-      "duration_ms": 144080,
-      "name": "El Humo De Mi Gallo",
-      "url": "https://open.spotify.com/track/4peahmVQMLGlWwJLNodzcD"
+      "duration_ms": 175090,
+      "name": "24/7 Dolido",
+      "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -2135,22 +2131,6 @@
       "duration_ms": 149636,
       "name": "Angel Perdido",
       "url": "https://open.spotify.com/track/0mdpls0Ist6KgYDSJj63TC"
-    },
-    {
-      "added_at": "2025-01-10 06:00:12",
-      "album": {
-        "name": "24/7 Dolido",
-        "url": "https://open.spotify.com/album/6Fyxi6oD8SD1lK35bKPyqA"
-      },
-      "artists": [
-        {
-          "name": "Lenin Ram\u00edrez",
-          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
-        }
-      ],
-      "duration_ms": 175090,
-      "name": "24/7 Dolido",
-      "url": "https://open.spotify.com/track/1jt49y7J8bwMhXpvo3wbvO"
     },
     {
       "added_at": "2025-01-10 06:00:12",
@@ -2191,6 +2171,30 @@
       "duration_ms": 163978,
       "name": "Fruta Prohibida (En Vivo)",
       "url": "https://open.spotify.com/track/7LePdYin7ESpRVRURBx16C"
+    },
+    {
+      "added_at": "2025-01-10 06:00:12",
+      "album": {
+        "name": "Salud Por Eso",
+        "url": "https://open.spotify.com/album/5rhp0Kg67gEvo7qsq3saFR"
+      },
+      "artists": [
+        {
+          "name": "Nathan Galante",
+          "url": "https://open.spotify.com/artist/0mYDDBNR5KCRC68CkmeOJB"
+        },
+        {
+          "name": "Horacio Palencia",
+          "url": "https://open.spotify.com/artist/7arK8QUX7X61NIkChn9no2"
+        },
+        {
+          "name": "Esencia Noble",
+          "url": "https://open.spotify.com/artist/7JvS3PC6AQ9agVN0dm7iEr"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Salud Por Eso",
+      "url": "https://open.spotify.com/track/44aafvQtAsQ8FcVDne725k"
     }
   ],
   "unique_name": "Banda 2025",

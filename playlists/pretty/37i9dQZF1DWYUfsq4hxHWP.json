@@ -1,143 +1,63 @@
 {
-  "description": "Fresh country music by independent artists every Wednesday. Cover: Anna Vaus, Artwork: Fan\u00e9lie Muselier\n",
-  "num_followers": 103149,
+  "description": "Fresh country music by independent artists every Wednesday. Cover: The Droptines, Artwork: Fan\u00e9lie Muselier\n",
+  "num_followers": 103301,
   "original_name": "Fresh Finds Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4f9eQAAAAAsMndRMAeebilOri/wkMlp",
+  "snapshot_id": "Z5EfygAAAADDGStxMUFS4TXhP+o4RN9+",
   "tracks": [
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
-        "name": "Dust",
-        "url": "https://open.spotify.com/album/3kUuaCcH2A6FDjYAZ8H89H"
+        "name": "Old Tricks",
+        "url": "https://open.spotify.com/album/0pTuKCFPVIeCrittNGlWcV"
       },
       "artists": [
         {
-          "name": "Anna Vaus",
-          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+          "name": "The Droptines",
+          "url": "https://open.spotify.com/artist/5MKl9FP3O6MpQhVx7QRFyc"
         }
       ],
-      "duration_ms": 178327,
-      "name": "Dust",
-      "url": "https://open.spotify.com/track/29wV9roYIEAbZidbfOQbC7"
+      "duration_ms": 148778,
+      "name": "Old Tricks",
+      "url": "https://open.spotify.com/track/2sqIKw2z6TWykx48jlepVH"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
-        "name": "Here Lately",
-        "url": "https://open.spotify.com/album/19TOdBVuudMNI8CFDnvbdN"
+        "name": "Two Truths & A Lie",
+        "url": "https://open.spotify.com/album/2GK3WDK2kEoKEF1L1jtSGm"
       },
       "artists": [
         {
-          "name": "Noah Thompson",
-          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
+          "name": "Julie Eddy",
+          "url": "https://open.spotify.com/artist/3x7zsjJ0ooO3n1XVOVn1KQ"
         }
       ],
-      "duration_ms": 156257,
-      "name": "Here Lately",
-      "url": "https://open.spotify.com/track/64dA9ag5IgWEcw5nUMabgu"
+      "duration_ms": 198573,
+      "name": "Two Truths & A Lie",
+      "url": "https://open.spotify.com/track/44KwsTslHki9vpR779jr9V"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
-        "name": "Bottle and a B-Side / Die Young",
-        "url": "https://open.spotify.com/album/4huTq8iIFH73HY5kMUKCLP"
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/3EqsLVYWfPIPVYzPAcpLa1"
       },
       "artists": [
         {
-          "name": "Gable Bradley",
-          "url": "https://open.spotify.com/artist/2wHxKvmyVbfpfcynrta2z1"
+          "name": "Adam Wendler",
+          "url": "https://open.spotify.com/artist/3ea4XDPCrAm68rpImApb94"
         }
       ],
-      "duration_ms": 238954,
-      "name": "Bottle and a B-Side",
-      "url": "https://open.spotify.com/track/0yiglAJwZAQMk1q9cvJNXf"
+      "duration_ms": 144307,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7atCOAWrcPK8Q2GLPdZN4k"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "Loved Out Loud",
-        "url": "https://open.spotify.com/album/1mjaZIA73jI6u0l0zpHIhz"
-      },
-      "artists": [
-        {
-          "name": "MAYCE",
-          "url": "https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ"
-        }
-      ],
-      "duration_ms": 190175,
-      "name": "Loved Out Loud",
-      "url": "https://open.spotify.com/track/6fumISDx6ynrnKrl5x6Eid"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "You Won't Let Me",
-        "url": "https://open.spotify.com/album/4JXDGRaeshQHVgQrI9eC9D"
-      },
-      "artists": [
-        {
-          "name": "Mike Parker",
-          "url": "https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m"
-        }
-      ],
-      "duration_ms": 198437,
-      "name": "You Won't Let Me",
-      "url": "https://open.spotify.com/track/3ec8V9jDlLlN9e8jRxQOpB"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "West of Fort Worth",
-        "url": "https://open.spotify.com/album/7oxZJljs3ZCFUtqEntpaMC"
-      },
-      "artists": [
-        {
-          "name": "Grant Gilbert",
-          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
-        }
-      ],
-      "duration_ms": 219985,
-      "name": "West of Fort Worth",
-      "url": "https://open.spotify.com/track/7nar6k91jCeZ3CdzpFpZS9"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "SAVE SOME FOR ME",
-        "url": "https://open.spotify.com/album/5e2Rl2CXMA474ht4sWnpQv"
-      },
-      "artists": [
-        {
-          "name": "Angel White",
-          "url": "https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF"
-        }
-      ],
-      "duration_ms": 320426,
-      "name": "SAVE SOME FOR ME",
-      "url": "https://open.spotify.com/track/6n6wan0ltuxoELOOiNpM0j"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "Drinking & Driving",
-        "url": "https://open.spotify.com/album/1NwfBsiQBCRulFXqCqjpI0"
-      },
-      "artists": [
-        {
-          "name": "Rachel Lee Roberts",
-          "url": "https://open.spotify.com/artist/4IkIQH1H6uomyGgjpABSaz"
-        }
-      ],
-      "duration_ms": 205329,
-      "name": "Drinking & Driving",
-      "url": "https://open.spotify.com/track/1djF8oXIjb76Cm08MJrW5r"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Day Late & A Buck Short",
         "url": "https://open.spotify.com/album/1FfgPDghlTyXLyqV1Vdnpj"
@@ -153,7 +73,359 @@
       "url": "https://open.spotify.com/track/2fsCi7ljM1DCc9nmMw7WU6"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Fire & Water",
+        "url": "https://open.spotify.com/album/4hRtjKJroQR8wiV6AFhELa"
+      },
+      "artists": [
+        {
+          "name": "Matt Oakley",
+          "url": "https://open.spotify.com/artist/0RxdOM7kmrjz89wayX04Xd"
+        }
+      ],
+      "duration_ms": 188673,
+      "name": "Fire & Water",
+      "url": "https://open.spotify.com/track/08z5fKoYMGTVruEwJILjJ0"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Easy Does It",
+        "url": "https://open.spotify.com/album/2tWDzNI5qQAvzcfjUGdYF7"
+      },
+      "artists": [
+        {
+          "name": "Emily Ann Roberts",
+          "url": "https://open.spotify.com/artist/4ZuggB1YawAAZOBL4pI9J8"
+        }
+      ],
+      "duration_ms": 184260,
+      "name": "Easy Does It",
+      "url": "https://open.spotify.com/track/7yCFzcUVicN2HL9i4l1sA4"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "In Love with Loving You",
+        "url": "https://open.spotify.com/album/56cilsRCVTmjHSRfgBJw73"
+      },
+      "artists": [
+        {
+          "name": "Ryan Montgomery",
+          "url": "https://open.spotify.com/artist/4VtjOoMa6AYeLoA5SrynF1"
+        }
+      ],
+      "duration_ms": 239360,
+      "name": "In Love with Loving You",
+      "url": "https://open.spotify.com/track/4XtL1avoiZRuc9axXSWwZg"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "WHISKEY SONG",
+        "url": "https://open.spotify.com/album/5LeClMVZMsDLq4iYMfhHtP"
+      },
+      "artists": [
+        {
+          "name": "Colin Vincent",
+          "url": "https://open.spotify.com/artist/3vcgNrwPwn2B7F57BQzQUJ"
+        }
+      ],
+      "duration_ms": 171822,
+      "name": "WHISKEY SONG",
+      "url": "https://open.spotify.com/track/299w07eVANmADjTsKIV4wU"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "More Like It",
+        "url": "https://open.spotify.com/album/4nodV56I3VWLryQGKJoN4A"
+      },
+      "artists": [
+        {
+          "name": "Savannah Jade",
+          "url": "https://open.spotify.com/artist/26QKf6FL7JcSuAkoos1WW5"
+        }
+      ],
+      "duration_ms": 182540,
+      "name": "More Like It",
+      "url": "https://open.spotify.com/track/1Dq9cGDFTI8zmIe0DkvF4D"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Fast Track Back",
+        "url": "https://open.spotify.com/album/5MXHg9BJeEHM4ydWveh63V"
+      },
+      "artists": [
+        {
+          "name": "Cole Goodwin",
+          "url": "https://open.spotify.com/artist/1BJuLsavR5ekNDC4FhjTmF"
+        }
+      ],
+      "duration_ms": 208908,
+      "name": "Fast Track Back",
+      "url": "https://open.spotify.com/track/2nT8CPIyNPMMb3PZMAVL0h"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Ain't No Use",
+        "url": "https://open.spotify.com/album/5RoaqvaHA4MdUuO9roM3X7"
+      },
+      "artists": [
+        {
+          "name": "Danny Worsnop",
+          "url": "https://open.spotify.com/artist/3FffC7t4yWwOUr0S5fFbkW"
+        }
+      ],
+      "duration_ms": 193308,
+      "name": "Ain't No Use",
+      "url": "https://open.spotify.com/track/2IZe5aqNLvAaXKeiD2l1m2"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "crush",
+        "url": "https://open.spotify.com/album/6iIgd4WA1RHCenuvgmD8kA"
+      },
+      "artists": [
+        {
+          "name": "Faith Schueler",
+          "url": "https://open.spotify.com/artist/1XMDQqZDjohdydmKXRSL6I"
+        }
+      ],
+      "duration_ms": 183943,
+      "name": "crush",
+      "url": "https://open.spotify.com/track/5M3R5TRC49TM2Gyr6TJ6c4"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Devil on My Shoulder",
+        "url": "https://open.spotify.com/album/7md29MdvFtb2c7FAt1okM2"
+      },
+      "artists": [
+        {
+          "name": "Connor McCutcheon",
+          "url": "https://open.spotify.com/artist/3yluFQwZBhp5jJYLlRG034"
+        }
+      ],
+      "duration_ms": 184818,
+      "name": "Devil on My Shoulder",
+      "url": "https://open.spotify.com/track/3hzNGzKAZd5dZxBVgqifxD"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Am I The Only One?",
+        "url": "https://open.spotify.com/album/7Fqzssr5DKaXeq2YFuh4uM"
+      },
+      "artists": [
+        {
+          "name": "Faith Hopkins",
+          "url": "https://open.spotify.com/artist/326PYQYslGD5zlF1gJVx2W"
+        }
+      ],
+      "duration_ms": 214440,
+      "name": "Am I The Only One?",
+      "url": "https://open.spotify.com/track/0utUgfWxhTPD1cbJZaC6Qd"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Country Hymn",
+        "url": "https://open.spotify.com/album/6UvSALHA9sctZdHJA4OF1T"
+      },
+      "artists": [
+        {
+          "name": "The Kentucky Gentlemen",
+          "url": "https://open.spotify.com/artist/5Jyxuj6Ho7xmNPrDub1U86"
+        }
+      ],
+      "duration_ms": 185426,
+      "name": "Country Hymn",
+      "url": "https://open.spotify.com/track/4HlVJIcjfI4ccaTDiQTf8I"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "How To Remember You",
+        "url": "https://open.spotify.com/album/78NPYP4sM9j7nZkiZ2GVbg"
+      },
+      "artists": [
+        {
+          "name": "Brett Sheroky",
+          "url": "https://open.spotify.com/artist/4pj3a0izNOahe0XGIuqAQB"
+        }
+      ],
+      "duration_ms": 221800,
+      "name": "How To Remember You",
+      "url": "https://open.spotify.com/track/5vXOcOu5PG3AdjJe8Bhgjr"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Sad, Tomorrow",
+        "url": "https://open.spotify.com/album/78iHwPFcmjoPtfeXu4Ihrw"
+      },
+      "artists": [
+        {
+          "name": "Justin Wells",
+          "url": "https://open.spotify.com/artist/2pTYi9YdyoPeIHMu8VEcXj"
+        }
+      ],
+      "duration_ms": 272186,
+      "name": "Sad, Tomorrow",
+      "url": "https://open.spotify.com/track/3EKY7WFioTK9kkKqzO7D1c"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Dust",
+        "url": "https://open.spotify.com/album/3kUuaCcH2A6FDjYAZ8H89H"
+      },
+      "artists": [
+        {
+          "name": "Anna Vaus",
+          "url": "https://open.spotify.com/artist/3ftsk3ROAgHws85G83ppw1"
+        }
+      ],
+      "duration_ms": 178327,
+      "name": "Dust",
+      "url": "https://open.spotify.com/track/29wV9roYIEAbZidbfOQbC7"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Marry Mississippi",
+        "url": "https://open.spotify.com/album/4DuKBa6vscawn7YWZJT47q"
+      },
+      "artists": [
+        {
+          "name": "Olivia Barnes",
+          "url": "https://open.spotify.com/artist/6OlUNIT9FUO9BkFDPrixVa"
+        }
+      ],
+      "duration_ms": 273250,
+      "name": "Marry Mississippi",
+      "url": "https://open.spotify.com/track/4dpsPvvycAph5vUzqGLDcY"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Here Lately",
+        "url": "https://open.spotify.com/album/19TOdBVuudMNI8CFDnvbdN"
+      },
+      "artists": [
+        {
+          "name": "Noah Thompson",
+          "url": "https://open.spotify.com/artist/38dDBc8guRXP1fjvothwyi"
+        }
+      ],
+      "duration_ms": 156257,
+      "name": "Here Lately",
+      "url": "https://open.spotify.com/track/64dA9ag5IgWEcw5nUMabgu"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Bottle and a B-Side / Die Young",
+        "url": "https://open.spotify.com/album/4huTq8iIFH73HY5kMUKCLP"
+      },
+      "artists": [
+        {
+          "name": "Gable Bradley",
+          "url": "https://open.spotify.com/artist/2wHxKvmyVbfpfcynrta2z1"
+        }
+      ],
+      "duration_ms": 238954,
+      "name": "Bottle and a B-Side",
+      "url": "https://open.spotify.com/track/0yiglAJwZAQMk1q9cvJNXf"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Drinking & Driving",
+        "url": "https://open.spotify.com/album/1NwfBsiQBCRulFXqCqjpI0"
+      },
+      "artists": [
+        {
+          "name": "Rachel Lee Roberts",
+          "url": "https://open.spotify.com/artist/4IkIQH1H6uomyGgjpABSaz"
+        }
+      ],
+      "duration_ms": 205329,
+      "name": "Drinking & Driving",
+      "url": "https://open.spotify.com/track/1djF8oXIjb76Cm08MJrW5r"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Loved Out Loud",
+        "url": "https://open.spotify.com/album/1mjaZIA73jI6u0l0zpHIhz"
+      },
+      "artists": [
+        {
+          "name": "MAYCE",
+          "url": "https://open.spotify.com/artist/5MLjCi6tlmcBXNyklgRzaZ"
+        }
+      ],
+      "duration_ms": 190175,
+      "name": "Loved Out Loud",
+      "url": "https://open.spotify.com/track/6fumISDx6ynrnKrl5x6Eid"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "You Won't Let Me",
+        "url": "https://open.spotify.com/album/4JXDGRaeshQHVgQrI9eC9D"
+      },
+      "artists": [
+        {
+          "name": "Mike Parker",
+          "url": "https://open.spotify.com/artist/3hzCzAwJH36Ia5R5MIaW8m"
+        }
+      ],
+      "duration_ms": 198437,
+      "name": "You Won't Let Me",
+      "url": "https://open.spotify.com/track/3ec8V9jDlLlN9e8jRxQOpB"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "West of Fort Worth",
+        "url": "https://open.spotify.com/album/7oxZJljs3ZCFUtqEntpaMC"
+      },
+      "artists": [
+        {
+          "name": "Grant Gilbert",
+          "url": "https://open.spotify.com/artist/22JGfpxVueSHqP2SIi1919"
+        }
+      ],
+      "duration_ms": 219985,
+      "name": "West of Fort Worth",
+      "url": "https://open.spotify.com/track/7nar6k91jCeZ3CdzpFpZS9"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "SAVE SOME FOR ME",
+        "url": "https://open.spotify.com/album/5e2Rl2CXMA474ht4sWnpQv"
+      },
+      "artists": [
+        {
+          "name": "Angel White",
+          "url": "https://open.spotify.com/artist/3mZYlwYjFmhMOxUIcbncHF"
+        }
+      ],
+      "duration_ms": 320426,
+      "name": "SAVE SOME FOR ME",
+      "url": "https://open.spotify.com/track/6n6wan0ltuxoELOOiNpM0j"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Forever Left",
         "url": "https://open.spotify.com/album/13bFmgEEYggrNE3fECmDHV"
@@ -169,7 +441,7 @@
       "url": "https://open.spotify.com/track/0yeK4EPAQXHyIQb5BRgjCv"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Running My Mouth",
         "url": "https://open.spotify.com/album/2MOvO500foXcfqYlDL4cw0"
@@ -185,7 +457,7 @@
       "url": "https://open.spotify.com/track/5dCnJdpX8MDfE3yWBnWoN8"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Leave Me Lonely",
         "url": "https://open.spotify.com/album/22wjkOof7ylYAEzTEjHTvg"
@@ -201,7 +473,7 @@
       "url": "https://open.spotify.com/track/7DxiqLQStamIroGEgdyiED"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "It Ain\u2019t You, It\u2019s Me",
         "url": "https://open.spotify.com/album/4rpU9iyJykb9xNn9b3UuIM"
@@ -217,7 +489,7 @@
       "url": "https://open.spotify.com/track/06EBDwnrfRmuNszwT15gfG"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "You Know Me",
         "url": "https://open.spotify.com/album/5lOjvnvZUu4qay3P1nw8wQ"
@@ -233,7 +505,7 @@
       "url": "https://open.spotify.com/track/47K4PoWtdm8uss7Dfr7sjR"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Talking to Heaven",
         "url": "https://open.spotify.com/album/4qALeFAl9EV651VGaic5DY"
@@ -249,7 +521,7 @@
       "url": "https://open.spotify.com/track/00AtKbFXLykrqI6E4GEXRZ"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "You Wears Off",
         "url": "https://open.spotify.com/album/1LzanM4GV9jtQVVEx3zKk7"
@@ -265,7 +537,7 @@
       "url": "https://open.spotify.com/track/3E3Jw3R2UcltxqVYsMmGhu"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Somewhere in Texas",
         "url": "https://open.spotify.com/album/1ocrYCy5w5JMsJzQ9wGOiL"
@@ -281,7 +553,7 @@
       "url": "https://open.spotify.com/track/3v1nstscrV7Fekj18K9QvH"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Wasted Chances",
         "url": "https://open.spotify.com/album/5HkT6AnwJ40AZYAxFvgY8l"
@@ -297,7 +569,7 @@
       "url": "https://open.spotify.com/track/5HNjPChYGGIbwNVwqGR5a2"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Chickahominy",
         "url": "https://open.spotify.com/album/7AfTejS2PWygwF88AcsCGT"
@@ -313,7 +585,7 @@
       "url": "https://open.spotify.com/track/5HHSqTrGEWgE2XjLN0mowR"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Attention Sucker",
         "url": "https://open.spotify.com/album/66ACB8RndeNTDjSiHd9Ujm"
@@ -329,7 +601,7 @@
       "url": "https://open.spotify.com/track/21ddAAx8z7hFl3N6mNj8Vx"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Pick You Up",
         "url": "https://open.spotify.com/album/5pDv2HhC4Dk5SOXjRpBowY"
@@ -345,7 +617,7 @@
       "url": "https://open.spotify.com/track/3xZsQfdfIPQfTeHblnHnsz"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Lonely",
         "url": "https://open.spotify.com/album/26Vma06OhMQftg1pYz0iq2"
@@ -361,135 +633,7 @@
       "url": "https://open.spotify.com/track/5Co4xbqzQ4KxxdrDvpinUY"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "Outlaw",
-        "url": "https://open.spotify.com/album/6s7E3NnwIu5CoiepYFvO37"
-      },
-      "artists": [
-        {
-          "name": "Edward Smith",
-          "url": "https://open.spotify.com/artist/29vJag8DLsma1DaKKfg2r5"
-        }
-      ],
-      "duration_ms": 162333,
-      "name": "Outlaw",
-      "url": "https://open.spotify.com/track/6JX0MgOc94PlAZTA4BON7c"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "Peace with Pain",
-        "url": "https://open.spotify.com/album/2N4Nxmkr3jORP44i5lZEiQ"
-      },
-      "artists": [
-        {
-          "name": "Jonas Conner",
-          "url": "https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv"
-        }
-      ],
-      "duration_ms": 180535,
-      "name": "Peace with Pain",
-      "url": "https://open.spotify.com/track/3bPVSzCzxrMxheZEhq62Cp"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "Let Me Love On You",
-        "url": "https://open.spotify.com/album/1ZsRIWggfpftFu2AfsQrJD"
-      },
-      "artists": [
-        {
-          "name": "Eli Cain",
-          "url": "https://open.spotify.com/artist/4Xe6A9w57wCiWhEcEUOwli"
-        }
-      ],
-      "duration_ms": 241120,
-      "name": "Let Me Love On You",
-      "url": "https://open.spotify.com/track/3HgIqtmuGtzBI1pSYCitT5"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "Remembering It Wrong",
-        "url": "https://open.spotify.com/album/7zM0tEai0e66F7GQwmJvY4"
-      },
-      "artists": [
-        {
-          "name": "Jordana Bryant",
-          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
-        }
-      ],
-      "duration_ms": 222306,
-      "name": "Remembering It Wrong",
-      "url": "https://open.spotify.com/track/34inFX4MT0ApBrTwlv9ZXB"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "Devils & Angels",
-        "url": "https://open.spotify.com/album/53cV2vEr77UVOI2PwQNo0u"
-      },
-      "artists": [
-        {
-          "name": "Timmy McKeever",
-          "url": "https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N"
-        }
-      ],
-      "duration_ms": 192731,
-      "name": "I've Known Better",
-      "url": "https://open.spotify.com/track/1N0AvpGxRqN6MGJDJrEOtb"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "Too Much Too Late",
-        "url": "https://open.spotify.com/album/5aSnk7pwXi4hM3C8ItPnbT"
-      },
-      "artists": [
-        {
-          "name": "Austin Burke",
-          "url": "https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c"
-        }
-      ],
-      "duration_ms": 177432,
-      "name": "Too Much Too Late",
-      "url": "https://open.spotify.com/track/7qLwPReY4MnQkbdjktbpbm"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "Underdog",
-        "url": "https://open.spotify.com/album/54MJQpn70RiaaJBf0posoI"
-      },
-      "artists": [
-        {
-          "name": "SirLockeHolmes",
-          "url": "https://open.spotify.com/artist/3P40h7b9cyXPGhb2Cdk7ev"
-        }
-      ],
-      "duration_ms": 180799,
-      "name": "Underdog",
-      "url": "https://open.spotify.com/track/574rwBFT10DYf69CtejfWW"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
-      "album": {
-        "name": "No Rest",
-        "url": "https://open.spotify.com/album/1aS2zpUmoDcmZR8eURAIM6"
-      },
-      "artists": [
-        {
-          "name": "Evan Burrison",
-          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
-        }
-      ],
-      "duration_ms": 183652,
-      "name": "No Rest",
-      "url": "https://open.spotify.com/track/1SEgyRNnDjKiHEjvdOcUCc"
-    },
-    {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Send My Love to Caroline",
         "url": "https://open.spotify.com/album/2r6kgq3RxdrudobgQyCkIE"
@@ -505,7 +649,7 @@
       "url": "https://open.spotify.com/track/6wqMbr7iBQ353Mf4uPZcVY"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Old Times' Sake",
         "url": "https://open.spotify.com/album/1rxLcn7oqfgtO1azLq2g9T"
@@ -521,7 +665,7 @@
       "url": "https://open.spotify.com/track/3yT5dleHE6k5T1tLkEHJla"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Everything's Right, Sometimes",
         "url": "https://open.spotify.com/album/0ExIonpaVSyYBYAq1eIe1O"
@@ -537,7 +681,7 @@
       "url": "https://open.spotify.com/track/6zaJAsRzbgslOqvuqxAW7t"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Catchin' On",
         "url": "https://open.spotify.com/album/4snLwhCerfWc2IP2Z61L6T"
@@ -553,7 +697,7 @@
       "url": "https://open.spotify.com/track/3r6FH37I20Ot4l0HT0daFE"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "Halfway",
         "url": "https://open.spotify.com/album/3y6XWLi6AnYqkdOhopkLe3"
@@ -569,7 +713,7 @@
       "url": "https://open.spotify.com/track/5GiOwpuHSFeh0snoOIGnaH"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "One Last Time?",
         "url": "https://open.spotify.com/album/3rXg6yr6bH4nkXgMnXWw0C"
@@ -585,7 +729,7 @@
       "url": "https://open.spotify.com/track/3lnHpQN4JDZxCbZ2svYf4E"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "January (Warm With You)",
         "url": "https://open.spotify.com/album/3LpUN3iI7XAHpXjJLVNqrb"
@@ -601,7 +745,7 @@
       "url": "https://open.spotify.com/track/0gV29wI9TrSmKtO0nz5W62"
     },
     {
-      "added_at": "2025-01-15 18:24:57",
+      "added_at": "2025-01-22 16:41:46",
       "album": {
         "name": "When You Know You Know",
         "url": "https://open.spotify.com/album/0nP1erUocv5i4ZpILklnjJ"
@@ -615,6 +759,134 @@
       "duration_ms": 196757,
       "name": "When You Know You Know",
       "url": "https://open.spotify.com/track/1whH1WiKExIn5yv6N3GI0j"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Outlaw",
+        "url": "https://open.spotify.com/album/6s7E3NnwIu5CoiepYFvO37"
+      },
+      "artists": [
+        {
+          "name": "Edward Smith",
+          "url": "https://open.spotify.com/artist/29vJag8DLsma1DaKKfg2r5"
+        }
+      ],
+      "duration_ms": 162333,
+      "name": "Outlaw",
+      "url": "https://open.spotify.com/track/6JX0MgOc94PlAZTA4BON7c"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Peace with Pain",
+        "url": "https://open.spotify.com/album/2N4Nxmkr3jORP44i5lZEiQ"
+      },
+      "artists": [
+        {
+          "name": "Jonas Conner",
+          "url": "https://open.spotify.com/artist/6C0TXBe9hNjH6NG8RkZMLv"
+        }
+      ],
+      "duration_ms": 180535,
+      "name": "Peace with Pain",
+      "url": "https://open.spotify.com/track/3bPVSzCzxrMxheZEhq62Cp"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Let Me Love On You",
+        "url": "https://open.spotify.com/album/1ZsRIWggfpftFu2AfsQrJD"
+      },
+      "artists": [
+        {
+          "name": "Eli Cain",
+          "url": "https://open.spotify.com/artist/4Xe6A9w57wCiWhEcEUOwli"
+        }
+      ],
+      "duration_ms": 241120,
+      "name": "Let Me Love On You",
+      "url": "https://open.spotify.com/track/3HgIqtmuGtzBI1pSYCitT5"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Remembering It Wrong",
+        "url": "https://open.spotify.com/album/7zM0tEai0e66F7GQwmJvY4"
+      },
+      "artists": [
+        {
+          "name": "Jordana Bryant",
+          "url": "https://open.spotify.com/artist/69CLILkCLdR4JOoQieAFm2"
+        }
+      ],
+      "duration_ms": 222306,
+      "name": "Remembering It Wrong",
+      "url": "https://open.spotify.com/track/34inFX4MT0ApBrTwlv9ZXB"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Devils & Angels",
+        "url": "https://open.spotify.com/album/53cV2vEr77UVOI2PwQNo0u"
+      },
+      "artists": [
+        {
+          "name": "Timmy McKeever",
+          "url": "https://open.spotify.com/artist/1eSQKNKjXVIKIcNXZL7x5N"
+        }
+      ],
+      "duration_ms": 192731,
+      "name": "I've Known Better",
+      "url": "https://open.spotify.com/track/1N0AvpGxRqN6MGJDJrEOtb"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Too Much Too Late",
+        "url": "https://open.spotify.com/album/5aSnk7pwXi4hM3C8ItPnbT"
+      },
+      "artists": [
+        {
+          "name": "Austin Burke",
+          "url": "https://open.spotify.com/artist/5jfImMkUYyViFJrhdfYt1c"
+        }
+      ],
+      "duration_ms": 177432,
+      "name": "Too Much Too Late",
+      "url": "https://open.spotify.com/track/7qLwPReY4MnQkbdjktbpbm"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "Underdog",
+        "url": "https://open.spotify.com/album/54MJQpn70RiaaJBf0posoI"
+      },
+      "artists": [
+        {
+          "name": "SirLockeHolmes",
+          "url": "https://open.spotify.com/artist/3P40h7b9cyXPGhb2Cdk7ev"
+        }
+      ],
+      "duration_ms": 180799,
+      "name": "Underdog",
+      "url": "https://open.spotify.com/track/574rwBFT10DYf69CtejfWW"
+    },
+    {
+      "added_at": "2025-01-22 16:41:46",
+      "album": {
+        "name": "No Rest",
+        "url": "https://open.spotify.com/album/1aS2zpUmoDcmZR8eURAIM6"
+      },
+      "artists": [
+        {
+          "name": "Evan Burrison",
+          "url": "https://open.spotify.com/artist/429Zw6geVC0AUPv1sq0bf4"
+        }
+      ],
+      "duration_ms": 183652,
+      "name": "No Rest",
+      "url": "https://open.spotify.com/track/1SEgyRNnDjKiHEjvdOcUCc"
     }
   ],
   "unique_name": "Fresh Finds Country",

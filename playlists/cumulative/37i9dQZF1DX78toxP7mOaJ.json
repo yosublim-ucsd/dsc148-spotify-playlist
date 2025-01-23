@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "(infinity bugs)",
+        "url": "https://open.spotify.com/album/6kE0sfwDAH5oD3VfZ29PdW"
+      },
+      "artists": [
+        {
+          "name": "moony",
+          "url": "https://open.spotify.com/artist/3agqtDm9DE1tKj7sXrKqpZ"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212242,
+      "name": "(infinity bugs)",
+      "url": "https://open.spotify.com/track/1BT1ZFIeIukePahh2QRFsy"
+    },
+    {
+      "album": {
         "name": "(The) Coffee Song / October",
         "url": "https://open.spotify.com/album/43IfWtnJ6ICcrWOaT1JbQf"
       },
@@ -690,7 +708,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 213169,
       "name": "Across My Jaw",
       "url": "https://open.spotify.com/track/4Qhyimumx4f4ZUyjITXfGG"
@@ -1482,7 +1500,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 202700,
       "name": "Angoisse",
       "url": "https://open.spotify.com/track/6N3ZQPkfpU0V7epCMn7CPf"
@@ -1962,6 +1980,24 @@
       "duration_ms": 185915,
       "name": "aTOZ / BATH",
       "url": "https://open.spotify.com/track/0LSag4LqqUxI43TLZ7Oo4O"
+    },
+    {
+      "album": {
+        "name": "Aurora",
+        "url": "https://open.spotify.com/album/2ij6ZvJjvnNMD1fT5jsWaG"
+      },
+      "artists": [
+        {
+          "name": "hallpass",
+          "url": "https://open.spotify.com/artist/1ojodT2n3tLClMDaRgIk7Z"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "Aurora",
+      "url": "https://open.spotify.com/track/7fiHZcjH0EsehNqwyi2Dmd"
     },
     {
       "album": {
@@ -6817,6 +6853,24 @@
     },
     {
       "album": {
+        "name": "TOY",
+        "url": "https://open.spotify.com/album/52lo3aziYDWeoWjEoKMJ52"
+      },
+      "artists": [
+        {
+          "name": "Dear Seattle",
+          "url": "https://open.spotify.com/artist/5gWPNlps947GENk32pRV3S"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184417,
+      "name": "Cut My Hair",
+      "url": "https://open.spotify.com/track/4emjrHQU7Mhz6nFSbnSb08"
+    },
+    {
+      "album": {
         "name": "Cutting Ties",
         "url": "https://open.spotify.com/album/4lTbFn2sXX0s94c15wQGQ1"
       },
@@ -8200,7 +8254,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 240471,
       "name": "Don't Ever Meet Your Hero",
       "url": "https://open.spotify.com/track/4dmSnBgiEPZqymlDhPVcEw"
@@ -9284,6 +9338,24 @@
       "duration_ms": 253413,
       "name": "Eutherians (Ultramarine)",
       "url": "https://open.spotify.com/track/28e2ijIPbnUzeU8b9xntzn"
+    },
+    {
+      "album": {
+        "name": "Evenfall",
+        "url": "https://open.spotify.com/album/2YeM6NqqTAtcb3kQNFLOKY"
+      },
+      "artists": [
+        {
+          "name": "Sam Akpro",
+          "url": "https://open.spotify.com/artist/0gs6n0OYGwA7j4L4HHqKV2"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194946,
+      "name": "Evenfall",
+      "url": "https://open.spotify.com/track/6e5Cw6TEhIO5XVEAGlidCa"
     },
     {
       "album": {
@@ -12786,7 +12858,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 213253,
       "name": "Hey Kekul\u00e9",
       "url": "https://open.spotify.com/track/0bAGgOU0w2gKhEqmdeKWKe"
@@ -13896,6 +13968,24 @@
       "duration_ms": 148777,
       "name": "I Can't Dance",
       "url": "https://open.spotify.com/track/5oFjLcYgnGFA9SY5rz5HSK"
+    },
+    {
+      "album": {
+        "name": "I Can't Stop",
+        "url": "https://open.spotify.com/album/7wT5M5KUVFz3Tqg0aqC5gB"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250006,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/6WEUFMh3CQeFEcksl5uPwV"
     },
     {
       "album": {
@@ -15064,7 +15154,7 @@
       ],
       "date_added": "2024-11-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 198786,
       "name": "IN TIME",
       "url": "https://open.spotify.com/track/7J2XTvURCY7Yfv1or5qJz7"
@@ -15172,7 +15262,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 302760,
       "name": "Inhaler",
       "url": "https://open.spotify.com/track/6J8x8ZdWjbMYpi5YduVC2v"
@@ -17474,7 +17564,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 180792,
       "name": "Lovesick",
       "url": "https://open.spotify.com/track/0ktKSUk92UVhsz7IRYyuO6"
@@ -18148,6 +18238,24 @@
       "duration_ms": 184863,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6dc1x7ZqhF3Qy2O5lWEr6R"
+    },
+    {
+      "album": {
+        "name": "Mildew",
+        "url": "https://open.spotify.com/album/2LBCghVswPX3gLiUyY9w6o"
+      },
+      "artists": [
+        {
+          "name": "Farmer's Wife",
+          "url": "https://open.spotify.com/artist/01epJHd4z4JfvkUBWHD5Os"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220647,
+      "name": "Mildew",
+      "url": "https://open.spotify.com/track/5LLH1Ah9m65nB1hXbvOZX0"
     },
     {
       "album": {
@@ -20659,6 +20767,24 @@
     },
     {
       "album": {
+        "name": "outsider",
+        "url": "https://open.spotify.com/album/5mYrCk5fDhKwIQFW67MlFD"
+      },
+      "artists": [
+        {
+          "name": "naya m\u00f6",
+          "url": "https://open.spotify.com/artist/4YYr2nmnZ2rKlcUh7aroZi"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121578,
+      "name": "outsider",
+      "url": "https://open.spotify.com/track/15hKAxyO4NjLcyVH2UeiDv"
+    },
+    {
+      "album": {
         "name": "Outta My Head",
         "url": "https://open.spotify.com/album/67018bqrKM8KOcIsl83ZJf"
       },
@@ -20930,6 +21056,24 @@
       "duration_ms": 198273,
       "name": "Paranoia",
       "url": "https://open.spotify.com/track/73WJG3IuQUG6MbkN8xITHC"
+    },
+    {
+      "album": {
+        "name": "PARANOIA",
+        "url": "https://open.spotify.com/album/6o5GuCq2dvDfBSpd7UsoBN"
+      },
+      "artists": [
+        {
+          "name": "MERE AMORE",
+          "url": "https://open.spotify.com/artist/3qvG0tL3iBNwD2TPRAZskb"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183870,
+      "name": "PARANOIA",
+      "url": "https://open.spotify.com/track/0TQTk6ZPgvSTZ9VMMzQs4X"
     },
     {
       "album": {
@@ -22356,7 +22500,7 @@
       ],
       "date_added": "2024-11-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 223565,
       "name": "Rain",
       "url": "https://open.spotify.com/track/1Fu20YZ9zjaqyrGczvY8g6"
@@ -23249,6 +23393,24 @@
     },
     {
       "album": {
+        "name": "Running Outside With Heather",
+        "url": "https://open.spotify.com/album/5Md4WxC1tzTz0sZq6HRCef"
+      },
+      "artists": [
+        {
+          "name": "WOOZE",
+          "url": "https://open.spotify.com/artist/2whltAXPg8ozoiC9U1knhA"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Running Outside With Heather",
+      "url": "https://open.spotify.com/track/78138DPQKocexQHWWaVoWO"
+    },
+    {
+      "album": {
         "name": "Running The Madness",
         "url": "https://open.spotify.com/album/3IiKibozo2kM67YDcSk2Wy"
       },
@@ -23700,7 +23862,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 210243,
       "name": "Say What You Want",
       "url": "https://open.spotify.com/track/1fz0JgLEsOgUemAGSEJ674"
@@ -25390,7 +25552,7 @@
       ],
       "date_added": "2024-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 192986,
       "name": "Soonish...",
       "url": "https://open.spotify.com/track/6MmhdrCkQt8hL78DiY2Q6m"
@@ -25484,6 +25646,24 @@
       "duration_ms": 108346,
       "name": "Space/Smile",
       "url": "https://open.spotify.com/track/7K6SmF9YCz6cuW6vUyPQWs"
+    },
+    {
+      "album": {
+        "name": "Spawn!",
+        "url": "https://open.spotify.com/album/0ujtXCesRc8pzxQ7j88DY3"
+      },
+      "artists": [
+        {
+          "name": "Evan Fong",
+          "url": "https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Spawn!",
+      "url": "https://open.spotify.com/track/5NFO5SRoOO8XDixabs1aTp"
     },
     {
       "album": {
@@ -30430,7 +30610,7 @@
       ],
       "date_added": "2024-08-07",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-17",
+      "date_removed": null,
       "duration_ms": 144750,
       "name": "Went On T",
       "url": "https://open.spotify.com/track/0HcXTPVJE4SNjfluIoUcQY"
@@ -30920,7 +31100,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 189444,
       "name": "Will Can Believe It",
       "url": "https://open.spotify.com/track/5WYnO0zOCCMwDO7CKT7svF"

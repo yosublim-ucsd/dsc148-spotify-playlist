@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 
 > Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: I Mean Us
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,517 likes - 54 songs - 3 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,515 likes - 54 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbploA264Kx0.md) - [plain]
 | 8 | [Jurassic Ride](https://open.spotify.com/track/1VGYVyUsSHFDzaF8jgLwHR) | [恐龍的皮](https://open.spotify.com/artist/6zp0iXMIvLZ7oVeTk0Nt0J) | [Millions of Years Apart](https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ) | 3:14 |
 | 9 | [Innocent](https://open.spotify.com/track/7jIH2PZdZwPN09sPZ8Zxj6) | [Jocelyn 9.4.0](https://open.spotify.com/artist/4xu7XEr8It4loGPeZnJcqZ) | [Innocent](https://open.spotify.com/album/0jZAVTNzifPAeyEIrnhGcj) | 3:28 |
 | 10 | [Last Summer （月亮惹的禍）](https://open.spotify.com/track/6O1Cy9kee544hVq1xalQdL) | [我是機車少女](https://open.spotify.com/artist/00RNgtcAow7k32rk5KiUcl) | [I'mdifficult](https://open.spotify.com/album/6eMD8zY0EQiNsS2qExm4nE) | 4:20 |
-| 11 | [葉柏 PY](https://open.spotify.com/track/3GAuZzIN3c2ojn9CIOPeWl) | [CHOVBE](https://open.spotify.com/artist/2lUrSsHsfcCEL03ByHevnY) | [至繁 LE MONDE](https://open.spotify.com/album/7uUz5hxP7b8oLNLfHu8ODs) | 4:40 |
+| 11 | [葉柏](https://open.spotify.com/track/3GAuZzIN3c2ojn9CIOPeWl) | [CHOVBE](https://open.spotify.com/artist/2lUrSsHsfcCEL03ByHevnY) | [至繁](https://open.spotify.com/album/7uUz5hxP7b8oLNLfHu8ODs) | 4:40 |
 | 12 | [What Can I Do \(feat\. J.Sheon\)](https://open.spotify.com/track/7E3E4nQdBTv2rm3uMtGFgA) | [Gen Neo](https://open.spotify.com/artist/6GvQJnPSXsAGPLRfoqfTfK), [J.Sheon](https://open.spotify.com/artist/4DEItwf281SHmTnS8q3Mn9) | [AD ASTRA](https://open.spotify.com/album/0robvGvRNoSzos2Ae9KRyX) | 3:08 |
 | 13 | [Peace Of Mind](https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD) | [Layton Wu](https://open.spotify.com/artist/0sbcEwgYwffJrmDZK22f9a) | [Blue Jeans](https://open.spotify.com/album/3FHg1VCDDl9c5cylYCd0vR) | 3:09 |
 | 14 | [2am Calls](https://open.spotify.com/track/3h0IvDPAvhhKkO7OlvK4No) | [GJ](https://open.spotify.com/artist/5CqbTtX7bCx1A5wn5xMWvh), [Cantika Abigail](https://open.spotify.com/artist/4cqipNDGUMbuHZaS9WNFZ3) | [B](https://open.spotify.com/album/1oa0yAgQb7U76deNPnzN06) | 3:12 |

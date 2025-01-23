@@ -2703,6 +2703,24 @@
     },
     {
       "album": {
+        "name": "HELL BOY",
+        "url": "https://open.spotify.com/album/3c9EqYQI2MUpCF29Fliila"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175233,
+      "name": "HELL BOY",
+      "url": "https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf"
+    },
+    {
+      "album": {
         "name": "Help Me",
         "url": "https://open.spotify.com/album/4mLuzYF9sqsZ6AmZMu9tkx"
       },

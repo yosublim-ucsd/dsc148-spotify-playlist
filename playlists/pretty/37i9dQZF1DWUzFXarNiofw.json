@@ -1,6 +1,6 @@
 {
   "description": "The newest r&b drops, every week. Cover: Nao",
-  "num_followers": 1062451,
+  "num_followers": 1062534,
   "original_name": "R&B Weekly",
   "owner": {
     "name": "Spotify",
@@ -52,12 +52,12 @@
       },
       "artists": [
         {
-          "name": "Corbin",
-          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
-        },
-        {
           "name": "Spooky Black",
           "url": "https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2"
+        },
+        {
+          "name": "Corbin",
+          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
         }
       ],
       "duration_ms": 303157,
@@ -167,7 +167,7 @@
     {
       "added_at": "2025-01-17 05:01:00",
       "album": {
-        "name": "A Story By: Keke Palmer",
+        "name": "DivaGurl: A Story By Keke Palmer - EP",
         "url": "https://open.spotify.com/album/5BoADWzxK0dBlM0Pdfghth"
       },
       "artists": [

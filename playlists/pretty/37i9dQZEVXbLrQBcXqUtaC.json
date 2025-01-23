@@ -1,15 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Saudi Arabia.",
-  "num_followers": 9486,
+  "num_followers": 9490,
   "original_name": "Top 50 - Saudi Arabia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "LyMLSAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "LyRcyAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N"
@@ -29,7 +29,7 @@
       "url": "https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Happy - :') (Remixes)",
         "url": "https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Submarine",
         "url": "https://open.spotify.com/album/03guxdOi12XJbnvxvxbpwG"
@@ -93,7 +93,7 @@
       "url": "https://open.spotify.com/track/3siwsiaEoU4Kuuc9WKMUy5"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "rosie",
         "url": "https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE"
@@ -113,7 +113,7 @@
       "url": "https://open.spotify.com/track/4wJ5Qq0jBN4ajy7ouZIV1c"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Hassan El Rassam Collection",
         "url": "https://open.spotify.com/album/2qnmr040iyjZeNh6ldxghJ"
@@ -129,23 +129,7 @@
       "url": "https://open.spotify.com/track/5okjGjbI5S9GON1fM0delO"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "\u064a\u0627 \u0648\u0637\u0646 \u0637\u0627\u0647\u0631 \u062a\u0631\u0627\u0628\u0643",
-        "url": "https://open.spotify.com/album/5InYQzgp3pBKF3LshKqjp0"
-      },
-      "artists": [
-        {
-          "name": "Nasrat Al Bader",
-          "url": "https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF"
-        }
-      ],
-      "duration_ms": 256010,
-      "name": "\u064a\u0627 \u0648\u0637\u0646 \u0637\u0627\u0647\u0631 \u062a\u0631\u0627\u0628\u0643",
-      "url": "https://open.spotify.com/track/0F2yNZOLXPtIV4k2kQgkjA"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/2IRxVVqbSbqHJo8Zx50LYn"
@@ -165,7 +149,23 @@
       "url": "https://open.spotify.com/track/1Es7AUAhQvapIcoh3qMKDL"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "\u064a\u0627 \u0648\u0637\u0646 \u0637\u0627\u0647\u0631 \u062a\u0631\u0627\u0628\u0643",
+        "url": "https://open.spotify.com/album/5InYQzgp3pBKF3LshKqjp0"
+      },
+      "artists": [
+        {
+          "name": "Nasrat Al Bader",
+          "url": "https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF"
+        }
+      ],
+      "duration_ms": 256010,
+      "name": "\u064a\u0627 \u0648\u0637\u0646 \u0637\u0627\u0647\u0631 \u062a\u0631\u0627\u0628\u0643",
+      "url": "https://open.spotify.com/track/0F2yNZOLXPtIV4k2kQgkjA"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "The Secret of Us (Deluxe)",
         "url": "https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk"
@@ -181,23 +181,7 @@
       "url": "https://open.spotify.com/track/7ne4VBA60CxGM75vw0EYad"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "Sailor Song",
-        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
-      },
-      "artists": [
-        {
-          "name": "Gigi Perez",
-          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
-        }
-      ],
-      "duration_ms": 211978,
-      "name": "Sailor Song",
-      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Lammah",
         "url": "https://open.spotify.com/album/6Slm5v59bwaVCCVVIiCrQM"
@@ -213,23 +197,23 @@
       "url": "https://open.spotify.com/track/0Hk9OFVAxB6mxTtLmmFdkT"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "Beanie",
-        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+        "name": "Sailor Song",
+        "url": "https://open.spotify.com/album/68CN2LzY8MoxO2udy2C22e"
       },
       "artists": [
         {
-          "name": "Chezile",
-          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+          "name": "Gigi Perez",
+          "url": "https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo"
         }
       ],
-      "duration_ms": 132160,
-      "name": "Beanie",
-      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+      "duration_ms": 211978,
+      "name": "Sailor Song",
+      "url": "https://open.spotify.com/track/2262bWmqomIaJXwCRHr13j"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Winter Ahead (with PARK HYO SHIN)",
         "url": "https://open.spotify.com/album/4sfwHIxFU5kcDqSdMENQsy"
@@ -249,7 +233,23 @@
       "url": "https://open.spotify.com/track/7G7mSV4BebkoHWwKTDvXu9"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "Beanie",
+        "url": "https://open.spotify.com/album/3sgTZuoyovg4bR5iTgQoo3"
+      },
+      "artists": [
+        {
+          "name": "Chezile",
+          "url": "https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH"
+        }
+      ],
+      "duration_ms": 132160,
+      "name": "Beanie",
+      "url": "https://open.spotify.com/track/5e0b9LgOfi3aJSKXFcOWRe"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "\u0648\u064a\u0646\u0643 \u0648\u064a\u0646\u0643 \u063a\u0627\u064a\u0628 \u0639\u0644\u064a\u0627 \u0648\u064a\u0646 - \u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a",
         "url": "https://open.spotify.com/album/2Da3ETpbvWljTeKI6xwDeo"
@@ -265,7 +265,7 @@
       "url": "https://open.spotify.com/track/1EvT055LsQlAxPsB5cz1PO"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Short n' Sweet",
         "url": "https://open.spotify.com/album/3iPSVi54hsacKKl1xIR2eH"
@@ -281,7 +281,23 @@
       "url": "https://open.spotify.com/track/2HRqTpkrJO5ggZyyK6NPWz"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "Chase Atlantic",
+        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
+      },
+      "artists": [
+        {
+          "name": "Chase Atlantic",
+          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
+        }
+      ],
+      "duration_ms": 228786,
+      "name": "Swim",
+      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "\u0627\u064a\u0628\u0627\u0647 (\u0631\u064a\u0645\u0643\u0633)",
         "url": "https://open.spotify.com/album/6wjOfiDcjkO8pofRooD13G"
@@ -297,7 +313,39 @@
       "url": "https://open.spotify.com/track/0vGAjG4vLZmyZvnCWKW0WG"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "Cigarettes After Sex",
+        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
+      },
+      "artists": [
+        {
+          "name": "Cigarettes After Sex",
+          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
+        }
+      ],
+      "duration_ms": 290616,
+      "name": "Apocalypse",
+      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "I Love You.",
+        "url": "https://open.spotify.com/album/4xkM0BwLM9H2IUcbYzpcBI"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Sweater Weather",
+      "url": "https://open.spotify.com/track/2QjOHCTQ1Jl3zawyYOpxh6"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "The Idol Episode 4 (Music from the HBO Original Series)",
         "url": "https://open.spotify.com/album/7tzVd1fwkxsorytCBjEJkU"
@@ -321,39 +369,7 @@
       "url": "https://open.spotify.com/track/7CyPwkp0oE8Ro9Dd5CUDjW"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "Chase Atlantic",
-        "url": "https://open.spotify.com/album/7C8uqokvE67UOlu1TiEYMd"
-      },
-      "artists": [
-        {
-          "name": "Chase Atlantic",
-          "url": "https://open.spotify.com/artist/7cYEt1pqMgXJdq00hAwVpT"
-        }
-      ],
-      "duration_ms": 228786,
-      "name": "Swim",
-      "url": "https://open.spotify.com/track/3M0lSi5WW79CXQamgSBIjx"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "Cigarettes After Sex",
-        "url": "https://open.spotify.com/album/2mxFsS5yylSTHNivV53HoA"
-      },
-      "artists": [
-        {
-          "name": "Cigarettes After Sex",
-          "url": "https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj"
-        }
-      ],
-      "duration_ms": 290616,
-      "name": "Apocalypse",
-      "url": "https://open.spotify.com/track/0yc6Gst2xkRu0eMLeRMGCX"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -369,39 +385,7 @@
       "url": "https://open.spotify.com/track/7BRD7x5pt8Lqa1eGYC4dzj"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "I Love You.",
-        "url": "https://open.spotify.com/album/6iu2XwoDlKg0VYte9qAbnr"
-      },
-      "artists": [
-        {
-          "name": "The Neighbourhood",
-          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
-        }
-      ],
-      "duration_ms": 240426,
-      "name": "Sweater Weather",
-      "url": "https://open.spotify.com/track/0cQVqPuHQP4KEwc7ZUQmj6"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "\u0631\u0627\u0647 \u0642\u0644\u0628\u064a \u064a\u0628\u0643\u064a \u0648 \u064a\u0646\u0648\u062d \u0645\u063a\u0631\u0628\u064a - \u062e\u0648\u064a\u0644\u062f \u0645\u0627\u0631\u0643\u0648\u0633",
-        "url": "https://open.spotify.com/album/6kwNi2xe4Hwwr1tesi9C1B"
-      },
-      "artists": [
-        {
-          "name": "\u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a - SKOL KSA",
-          "url": "https://open.spotify.com/artist/4RJGgGF2nFEeBIm1kUIY6t"
-        }
-      ],
-      "duration_ms": 258622,
-      "name": "\u0631\u0627\u0647 \u0642\u0644\u0628\u064a \u064a\u0628\u0643\u064a \u0648 \u064a\u0646\u0648\u062d \u0645\u063a\u0631\u0628\u064a - \u062e\u0648\u064a\u0644\u062f \u0645\u0627\u0631\u0643\u0648\u0633",
-      "url": "https://open.spotify.com/track/6p2lwRjcT6e89fu401Ol2f"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "CHROMAKOPIA",
         "url": "https://open.spotify.com/album/0U28P0QVB1QRxpqp5IHOlH"
@@ -421,7 +405,7 @@
       "url": "https://open.spotify.com/track/6jbYpRPTEFl1HFKHk1IC0m"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "\u0639\u0631\u0627\u0642\u064a \u0645\u0637\u0644\u0648\u0628 , \u0628\u0639\u062f \u0639\u0646\u062f\u064a \u0627\u0645\u0644 \u0646\u0631\u062c\u0639):",
         "url": "https://open.spotify.com/album/44Zk6C3iOSI9hKTA7lx7eU"
@@ -437,43 +421,7 @@
       "url": "https://open.spotify.com/track/0De3DaoxbRTYxlbNKceDMk"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "Aybaah",
-        "url": "https://open.spotify.com/album/3AfgMZD6nQbIeb9SZHRKAK"
-      },
-      "artists": [
-        {
-          "name": "Saif Amer",
-          "url": "https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq"
-        }
-      ],
-      "duration_ms": 219266,
-      "name": "Aybaah",
-      "url": "https://open.spotify.com/track/5iyZWYdb4RmL94Ul9Nfta7"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "GNX",
-        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
-      },
-      "artists": [
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        },
-        {
-          "name": "Lefty Gunplay",
-          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
-        }
-      ],
-      "duration_ms": 220690,
-      "name": "tv off (feat. lefty gunplay)",
-      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "GNX",
         "url": "https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ"
@@ -493,23 +441,7 @@
       "url": "https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "\u0627\u063a\u0627\u0646\u064a \u062a\u064a\u0643 \u062a\u0648\u0643 \u0645\u0637\u0644\u0648\u0628\u0629 - \u0645\u062c\u0646\u0648\u0646 \u0641\u064a\u0643 \u064a\u0627 \u0639\u0645\u0631\u064a \u060c \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u062a\u0648\u0645 \u0627\u0634\u062a\u0648\u0645",
-        "url": "https://open.spotify.com/album/0R0CC2N5SYtqntvJa95VFk"
-      },
-      "artists": [
-        {
-          "name": "\u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a - SKOL KSA",
-          "url": "https://open.spotify.com/artist/4RJGgGF2nFEeBIm1kUIY6t"
-        }
-      ],
-      "duration_ms": 219962,
-      "name": "\u0627\u063a\u0627\u0646\u064a \u062a\u064a\u0643 \u062a\u0648\u0643 \u0645\u0637\u0644\u0648\u0628\u0629 - \u0645\u062c\u0646\u0648\u0646 \u0641\u064a\u0643 \u064a\u0627 \u0639\u0645\u0631\u064a \u060c \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u062a\u0648\u0645 \u0627\u0634\u062a\u0648\u0645",
-      "url": "https://open.spotify.com/track/6NmD1hzysD8rcLnkvD7MAQ"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "\u0648\u064a\u0644\u064a",
         "url": "https://open.spotify.com/album/61LYs7oRCvygjy8iPbV12M"
@@ -529,7 +461,23 @@
       "url": "https://open.spotify.com/track/3h4kEr2cagLR0HlqMyMS2H"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "Aybaah",
+        "url": "https://open.spotify.com/album/3AfgMZD6nQbIeb9SZHRKAK"
+      },
+      "artists": [
+        {
+          "name": "Saif Amer",
+          "url": "https://open.spotify.com/artist/748f0zL5X2KNapx8K93SUq"
+        }
+      ],
+      "duration_ms": 219266,
+      "name": "Aybaah",
+      "url": "https://open.spotify.com/track/5iyZWYdb4RmL94Ul9Nfta7"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Cry",
         "url": "https://open.spotify.com/album/4uQ5kFmXQdCxz3WvM4UUzy"
@@ -545,7 +493,43 @@
       "url": "https://open.spotify.com/track/3p4hRhMcb6ch8OLtATMaLw"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "\u0627\u0644\u0645\u0647\u0632\u0644\u0629",
+        "url": "https://open.spotify.com/album/1CMx0HAUHaV8fQjA7IyfLc"
+      },
+      "artists": [
+        {
+          "name": "Nasrat Al Bader",
+          "url": "https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF"
+        }
+      ],
+      "duration_ms": 262368,
+      "name": "\u0627\u0644\u0645\u0647\u0632\u0644\u0629",
+      "url": "https://open.spotify.com/track/3iPUqYAqDdpnTmCF2FRFdX"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "Hotel Cabana (Deluxe Version)",
+        "url": "https://open.spotify.com/album/2SVSPhDBqChBe10hJh5owv"
+      },
+      "artists": [
+        {
+          "name": "Naughty Boy",
+          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+        },
+        {
+          "name": "Sam Smith",
+          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "La La La",
+      "url": "https://open.spotify.com/track/36pLU2ywVeBKEF0rrKtmCB"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "GOLDEN",
         "url": "https://open.spotify.com/album/5pSk3c3wVwnb2arb6ohCPU"
@@ -565,43 +549,43 @@
       "url": "https://open.spotify.com/track/2HRgqmZQC0MC7GeNuDIXHN"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+        "name": "\u0627\u063a\u0627\u0646\u064a \u062a\u064a\u0643 \u062a\u0648\u0643 \u0645\u0637\u0644\u0648\u0628\u0629 - \u0645\u062c\u0646\u0648\u0646 \u0641\u064a\u0643 \u064a\u0627 \u0639\u0645\u0631\u064a \u060c \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u062a\u0648\u0645 \u0627\u0634\u062a\u0648\u0645",
+        "url": "https://open.spotify.com/album/0R0CC2N5SYtqntvJa95VFk"
       },
       "artists": [
         {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+          "name": "\u0633\u0643\u0648\u0644 \u0627\u0644\u062f\u0648\u0633\u0631\u064a - SKOL KSA",
+          "url": "https://open.spotify.com/artist/4RJGgGF2nFEeBIm1kUIY6t"
         }
       ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+      "duration_ms": 219962,
+      "name": "\u0627\u063a\u0627\u0646\u064a \u062a\u064a\u0643 \u062a\u0648\u0643 \u0645\u0637\u0644\u0648\u0628\u0629 - \u0645\u062c\u0646\u0648\u0646 \u0641\u064a\u0643 \u064a\u0627 \u0639\u0645\u0631\u064a \u060c \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u062a\u0648\u0645 \u0627\u0634\u062a\u0648\u0645",
+      "url": "https://open.spotify.com/track/6NmD1hzysD8rcLnkvD7MAQ"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "Hotel Cabana (Deluxe Version)",
-        "url": "https://open.spotify.com/album/6ubgnzYckmWTNuCpc5Di5i"
+        "name": "GNX",
+        "url": "https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW"
       },
       "artists": [
         {
-          "name": "Naughty Boy",
-          "url": "https://open.spotify.com/artist/1bT7m67vi78r2oqvxrP3X5"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         },
         {
-          "name": "Sam Smith",
-          "url": "https://open.spotify.com/artist/2wY79sveU1sp5g7SokKOiI"
+          "name": "Lefty Gunplay",
+          "url": "https://open.spotify.com/artist/1jiZvw42D4oquLl24x2VWV"
         }
       ],
-      "duration_ms": 222200,
-      "name": "La La La",
-      "url": "https://open.spotify.com/track/3wPPWcVuinAU7dXcJXtCID"
+      "duration_ms": 220690,
+      "name": "tv off (feat. lefty gunplay)",
+      "url": "https://open.spotify.com/track/0aB0v4027ukVziUGwVGYpG"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Love Sick (Deluxe)",
         "url": "https://open.spotify.com/album/2Q2TRdT994vTzGE3Grmmht"
@@ -617,23 +601,23 @@
       "url": "https://open.spotify.com/track/0eaVIYo2zeOaGJeqZ5TwYz"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
-        "url": "https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI"
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
       },
       "artists": [
         {
-          "name": "Tamer Ashour",
-          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 210714,
-      "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
-      "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "Good Girl Gone Bad",
         "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
@@ -649,23 +633,7 @@
       "url": "https://open.spotify.com/track/5EcG8eMMlwkHRVa4aTR1qd"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
-      "album": {
-        "name": "MUSE",
-        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
-      },
-      "artists": [
-        {
-          "name": "Jimin",
-          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
-        }
-      ],
-      "duration_ms": 170887,
-      "name": "Who",
-      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
-    },
-    {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "\u0634\u0644\u0648\u0646 \u0628\u064a\u0629",
         "url": "https://open.spotify.com/album/0J0RqERed7yk2EIcnJlX9P"
@@ -681,23 +649,23 @@
       "url": "https://open.spotify.com/track/4QlbWOnT3ZoR2mTsyg362u"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "\u0627\u0644\u0645\u0647\u0632\u0644\u0629",
-        "url": "https://open.spotify.com/album/1CMx0HAUHaV8fQjA7IyfLc"
+        "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
+        "url": "https://open.spotify.com/album/0pSmKTjNF9e51ZUGXRVDWI"
       },
       "artists": [
         {
-          "name": "Nasrat Al Bader",
-          "url": "https://open.spotify.com/artist/3LTg1uDlzgeNpapZviVVAF"
+          "name": "Tamer Ashour",
+          "url": "https://open.spotify.com/artist/5rCq30EbJ3DfZPKybGZj8F"
         }
       ],
-      "duration_ms": 262368,
-      "name": "\u0627\u0644\u0645\u0647\u0632\u0644\u0629",
-      "url": "https://open.spotify.com/track/3iPUqYAqDdpnTmCF2FRFdX"
+      "duration_ms": 210714,
+      "name": "\u0647\u064a\u062c\u064a\u0644\u064a \u0645\u0648\u062c\u0648\u0639",
+      "url": "https://open.spotify.com/track/2Heqj9jtxarmecKxycGSWn"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "\u0637\u0631\u0628\u064a\u0627\u062a \u062a\u0631\u0643\u064a\u0647 , \u0645\u062c\u0646\u0648\u0646 \u0628\u064a\u0643 \u064a\u0627\u0639\u0645\u0631\u064a , \u064a\u0627\u062d\u0628\u064a \u0627\u0634\u0643\u0645 \u0627\u0634\u0643\u0645 .",
         "url": "https://open.spotify.com/album/7qXZTdHZLIJuSGPfPOGZQ1"
@@ -713,23 +681,23 @@
       "url": "https://open.spotify.com/track/1L7yofHfIa5UczlW0pF52d"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
-        "url": "https://open.spotify.com/album/0l2Eu4K6rnobVzoRiXQZo9"
+        "name": "MUSE",
+        "url": "https://open.spotify.com/album/15XcLhiVMlSOipUddTNDnr"
       },
       "artists": [
         {
-          "name": "Tayseer Al Safeer",
-          "url": "https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa"
+          "name": "Jimin",
+          "url": "https://open.spotify.com/artist/1oSPZhvZMIrWW5I41kPkkY"
         }
       ],
-      "duration_ms": 291657,
-      "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
-      "url": "https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP"
+      "duration_ms": 170887,
+      "name": "Who",
+      "url": "https://open.spotify.com/track/7tI8dRuH2Yc6RuoTjxo4dU"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "\u0627\u0646\u0627 \u0634\u0627\u064a\u0641\u0627\u0643",
         "url": "https://open.spotify.com/album/7zLVT1l2fOG2YtVMmzrWN3"
@@ -745,23 +713,23 @@
       "url": "https://open.spotify.com/track/1GWi8rGKliy6DLpnI5WPLs"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "\u062d\u0628\u064a\u0628\u064a \u0631\u0627\u062d \u0645\u0633\u0631\u0639",
-        "url": "https://open.spotify.com/album/7dxjuPakkHqpo5qKnFSV6M"
+        "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
+        "url": "https://open.spotify.com/album/0l2Eu4K6rnobVzoRiXQZo9"
       },
       "artists": [
         {
-          "name": "Kstr",
-          "url": "https://open.spotify.com/artist/059BiSwXatlPKBSOWG6gIV"
+          "name": "Tayseer Al Safeer",
+          "url": "https://open.spotify.com/artist/4PQeohrT8GInzKC3wJFGLa"
         }
       ],
-      "duration_ms": 256743,
-      "name": "\u062d\u0628\u064a\u0628\u064a \u0631\u0627\u062d \u0645\u0633\u0631\u0639",
-      "url": "https://open.spotify.com/track/15mtirqNB6IF1owL0WkIUg"
+      "duration_ms": 291657,
+      "name": "\u0647\u0630\u0627 \u062f\u0645\u0639\u0643",
+      "url": "https://open.spotify.com/track/6RodD6CVu4mHQRrQJD8XhP"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "UTOPIA",
         "url": "https://open.spotify.com/album/18NOKLkZETa4sWwLMIm0UZ"
@@ -781,7 +749,39 @@
       "url": "https://open.spotify.com/track/42VsgItocQwOQC3XWZ8JNA"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "\u062d\u0628\u064a\u0628\u064a \u0631\u0627\u062d \u0645\u0633\u0631\u0639",
+        "url": "https://open.spotify.com/album/7dxjuPakkHqpo5qKnFSV6M"
+      },
+      "artists": [
+        {
+          "name": "Kstr",
+          "url": "https://open.spotify.com/artist/059BiSwXatlPKBSOWG6gIV"
+        }
+      ],
+      "duration_ms": 256743,
+      "name": "\u062d\u0628\u064a\u0628\u064a \u0631\u0627\u062d \u0645\u0633\u0631\u0639",
+      "url": "https://open.spotify.com/track/15mtirqNB6IF1owL0WkIUg"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
+      "album": {
+        "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
+        "url": "https://open.spotify.com/album/5tod76GzFMGREffztRiLyJ"
+      },
+      "artists": [
+        {
+          "name": "TOKYOPHILE",
+          "url": "https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n"
+        }
+      ],
+      "duration_ms": 96254,
+      "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
+      "url": "https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr"
+    },
+    {
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "\u0645\u064a\u062a \u0627\u0646\u064a",
         "url": "https://open.spotify.com/album/2RH0Lx9crTxiY0iEVaZ5sk"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/3MyX3ndru7RTKvLkMZJJeJ"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
         "name": "DECIDE",
         "url": "https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH"
@@ -813,52 +813,52 @@
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "TYLA +",
-        "url": "https://open.spotify.com/album/5QsVRNOKVMCeVAIUoOQJ13"
+        "name": "Favourite Worst Nightmare (Standard Version)",
+        "url": "https://open.spotify.com/album/6rsQnwaoJHxXJRCDBPkBRw"
       },
       "artists": [
         {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
         }
       ],
-      "duration_ms": 156825,
-      "name": "PUSH 2 START",
-      "url": "https://open.spotify.com/track/1Cbl3Yq8rHo7hhDQmLQagU"
+      "duration_ms": 253586,
+      "name": "505",
+      "url": "https://open.spotify.com/track/58ge6dfP91o9oXMzq3XkIS"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "This Wasn't Meant For You Anyway",
-        "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
+        "name": "Hard To Imagine The Neighbourhood Ever Changing",
+        "url": "https://open.spotify.com/album/0ODLCdHBFVvKwJGeSfd1jy"
       },
       "artists": [
         {
-          "name": "Lola Young",
-          "url": "https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH"
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
         }
       ],
-      "duration_ms": 284066,
-      "name": "Messy",
-      "url": "https://open.spotify.com/track/35ISBknsCeZQtq66xABI9g"
+      "duration_ms": 206280,
+      "name": "Softcore",
+      "url": "https://open.spotify.com/track/2K7xn816oNHJZ0aVqdQsha"
     },
     {
-      "added_at": "2025-01-21 14:14:24",
+      "added_at": "2025-01-22 14:00:15",
       "album": {
-        "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
-        "url": "https://open.spotify.com/album/5tod76GzFMGREffztRiLyJ"
+        "name": "Strange Trails",
+        "url": "https://open.spotify.com/album/3yoNZlqerJnsnMN5EDwwBS"
       },
       "artists": [
         {
-          "name": "TOKYOPHILE",
-          "url": "https://open.spotify.com/artist/5WqZHtRzOmKc1hWYfNoo8n"
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
         }
       ],
-      "duration_ms": 96254,
-      "name": "Montagem Lunar Celestia 1.0 (SLOWED)",
-      "url": "https://open.spotify.com/track/7IVstMaDl2HaByG8JmR2yr"
+      "duration_ms": 208211,
+      "name": "The Night We Met",
+      "url": "https://open.spotify.com/track/0QZ5yyl6B6utIWkxeBDxQN"
     }
   ],
   "unique_name": "Top 50 - Saudi Arabia",

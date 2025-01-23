@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the UK & Ireland\. Cover: Aanya Martin
 
-2,561 songs - 5 day 15 hr 35 min
+2,562 songs - 5 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -542,6 +542,7 @@
 | [daylily](https://open.spotify.com/track/7KEhaY7XiQl3bCi6a9DRGF) | [planet girl](https://open.spotify.com/artist/40DgzqFfLrkIx2mas3Bpfv) | [daylily](https://open.spotify.com/album/0Obq7BnH0KPhGNgs0IwZCV) | 2:33 | 2023-01-04 | 2023-05-11 |
 | [Days like this](https://open.spotify.com/track/7hPq2Ae66qJeis34qFqbRm) | [Ross Carlo](https://open.spotify.com/artist/1V8iNXoBHwRc9774nQxSR4) | [Days like this](https://open.spotify.com/album/4bEEhTbeES6LLwnc31i774) | 4:13 | 2023-01-04 | 2023-03-02 |
 | [dead 2 me](https://open.spotify.com/track/32qU7OJnB1HMdUXAeiqNnv) | [MaZz](https://open.spotify.com/artist/107O5LIqkinsrUzpFr9gu7), [Felicia Buena](https://open.spotify.com/artist/2edjm4uUeTM4iIa7NvKDPs) | [dead 2 me](https://open.spotify.com/album/6QXNOUHKwXK9qt8ZaXDbbM) | 4:18 | 2023-01-25 | 2024-01-03 |
+| [Dead 2 Me](https://open.spotify.com/track/24vYehcAP8AaYp5LSwQAlp) | [Sabah Kenway](https://open.spotify.com/artist/62GDAtCrjMrMpNugEPVAiU) | [Dead 2 Me](https://open.spotify.com/album/68XwFoaXBSFijvsQU8j1aD) | 2:30 | 2025-01-22 |  |
 | [Dead Body](https://open.spotify.com/track/5Y0P6YvkSsQVF0VrJPIBoa) | [KEHLI](https://open.spotify.com/artist/1l6JUvRJkj7kHhWhMUp3AA) | [Dead Body](https://open.spotify.com/album/4znKe6DBvhHKr8MeNQupVb) | 2:21 | 2023-04-26 | 2023-05-11 |
 | [Dead is Dead](https://open.spotify.com/track/6KPYGDQrVt9maBqlwKSH7N) | [Gently Tender](https://open.spotify.com/artist/483bBNsBBCvjAnx2Sc8BHc) | [Dead is Dead](https://open.spotify.com/album/0CvyVXlQD57SNM64sOqzyP) | 3:16 | 2022-04-13 | 2022-06-01 |
 | [Dead Ocean Swimmer](https://open.spotify.com/track/3UpaBM4jiBcs5ERfFMfJSq) | [Solis](https://open.spotify.com/artist/0K3Fj6AQuFF0wggXjejSZS) | [Dead Ocean Swimmer](https://open.spotify.com/album/2c7s79EZUrj34wz6d3tXF3) | 4:22 | 2024-10-01 | 2024-10-30 |
@@ -1757,7 +1758,7 @@
 | [peakdistrict](https://open.spotify.com/track/3ual6nHhNYc75u8p62BNAK) | [redhorse](https://open.spotify.com/artist/1maxPRllLq3HwNvtDb1jMV) | [peakdistrict](https://open.spotify.com/album/0X05G9g2gBAeH6JKn9rOU3) | 2:03 | 2022-03-02 | 2022-03-24 |
 | [Pencil Me In](https://open.spotify.com/track/0iDwhIkHIu2gQKMSzwsJf8) | [Amy Papiransky](https://open.spotify.com/artist/6mgl24U4C4lNhUJMS22WyH) | [Pencil Me In](https://open.spotify.com/album/5nKnLFkT4muGctmq4xAZXC) | 3:22 | 2024-07-09 | 2024-08-14 |
 | [Pending Status](https://open.spotify.com/track/1SUmAcH8JSD67ke9eitB41) | [Essence Martins](https://open.spotify.com/artist/4DahLnNm7J5zRiQmiQeWec) | [Pending Status](https://open.spotify.com/album/1bf2XsyLdL2Y8bxJYueZrj) | 3:45 | 2023-10-24 | 2024-01-03 |
-| [Penelope](https://open.spotify.com/track/766gVJ6idkDsR3szVwybIB) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Penelope](https://open.spotify.com/album/75XqySUi4jxaLIQtq3PgYo) | 3:42 | 2024-11-20 |  |
+| [Penelope](https://open.spotify.com/track/766gVJ6idkDsR3szVwybIB) | [Nii](https://open.spotify.com/artist/4EuozD5gx5k8S76xh8XwnV) | [Penelope](https://open.spotify.com/album/75XqySUi4jxaLIQtq3PgYo) | 3:42 | 2024-11-20 | 2025-01-23 |
 | [People Pleaser](https://open.spotify.com/track/6YJtTxwPCLbjwVotBcIMR9) | [Jaz Beeson](https://open.spotify.com/artist/4eo3kTmnSGvclJYBrKqVob) | [People Pleaser](https://open.spotify.com/album/0qCbPpiLRWufUGTmGAQgxd) | 3:03 | 2022-06-29 | 2022-07-21 |
 | [People Pleaser](https://open.spotify.com/track/37JkA8VfadzIqlp9WN7THv) | [Rachel Newnham](https://open.spotify.com/artist/3fzDJ5NVbesIIRCl7HuQyP) | [People Pleaser](https://open.spotify.com/album/7DXEjR7d5vOskJrApIujWg) | 2:55 | 2024-07-02 | 2024-08-07 |
 | [Peoples](https://open.spotify.com/track/7wvSZrs4lyHnHfjWiPNT90) | [Zapho](https://open.spotify.com/artist/2RemWfvXDLB6GpxtDAMBnM) | [Peoples](https://open.spotify.com/album/7AOIFPZ2gmoXXaS7kf4FU4) | 3:24 | 2022-02-09 | 2023-03-09 |

@@ -1,6 +1,6 @@
 {
   "description": "The best new music every Friday. Cover: Perfume Genius",
-  "num_followers": 1286979,
+  "num_followers": 1287005,
   "original_name": "All New Indie",
   "owner": {
     "name": "Spotify",
@@ -440,12 +440,12 @@
       },
       "artists": [
         {
-          "name": "Corbin",
-          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
-        },
-        {
           "name": "Spooky Black",
           "url": "https://open.spotify.com/artist/62TFj06qes00QmQuKmK7c2"
+        },
+        {
+          "name": "Corbin",
+          "url": "https://open.spotify.com/artist/3K40SMapVhc8PxyYFofHff"
         }
       ],
       "duration_ms": 303157,

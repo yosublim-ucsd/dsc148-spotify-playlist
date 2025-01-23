@@ -2,7 +2,7 @@
 
 ### [Hot Hits Morocco](https://open.spotify.com/playlist/37i9dQZF1DWYHO8PTSQ9fM)
 
-> Morocco’s biggest playlist featuring the hottest 50 tracks\. Cover: ElGrandeToto
+> Morocco’s biggest playlist featuring the hottest 50 tracks\. Cover: Stormy
 
 359 songs - 19 hr 16 min
 

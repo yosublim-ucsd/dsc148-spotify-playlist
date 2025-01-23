@@ -1,6 +1,6 @@
 {
   "description": "Detroit <a href=\"spotify:genre:techno\">Techno</a> Essentials. Cover: DJ Minx.",
-  "num_followers": 96034,
+  "num_followers": 96063,
   "original_name": "Detroit Techno",
   "owner": {
     "name": "Spotify",
@@ -759,22 +759,6 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Innovator",
-        "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
-      },
-      "artists": [
-        {
-          "name": "Derrick May",
-          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
-        }
-      ],
-      "duration_ms": 362946,
-      "name": "Strings Of Life",
-      "url": "https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
         "name": "Space Ibiza 2014 (25th Anniversary) [Unmixed DJ Version]",
         "url": "https://open.spotify.com/album/6Un9KGv9hSJYnxKSxl2Txf"
       },
@@ -795,22 +779,34 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
-        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
-        "url": "https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk"
+        "name": "Innovator",
+        "url": "https://open.spotify.com/album/1tCTyOZrTwwmIK4yV8KImY"
       },
       "artists": [
         {
-          "name": "Juan Atkins",
-          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
-        },
-        {
-          "name": "Moritz Von Oswald",
-          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+          "name": "Derrick May",
+          "url": "https://open.spotify.com/artist/0v6N0xV7AfHHKVcgUOjC51"
         }
       ],
-      "duration_ms": 367500,
-      "name": "Lightyears",
-      "url": "https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k"
+      "duration_ms": 362946,
+      "name": "Strings Of Life",
+      "url": "https://open.spotify.com/track/7DXfJX286N3ZBURaq8D9mc"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
+        "name": "The Album Formerly Known As ...",
+        "url": "https://open.spotify.com/album/6BP19StMYNWhcV0bv9zAZr"
+      },
+      "artists": [
+        {
+          "name": "Carl Craig",
+          "url": "https://open.spotify.com/artist/17dbJyUCrxh4I7iyUrjaHU"
+        }
+      ],
+      "duration_ms": 415759,
+      "name": "A Wonderful Life - Version",
+      "url": "https://open.spotify.com/track/5yXoaywtrfHi1dcoSn69CV"
     },
     {
       "added_at": "2023-10-26 20:41:14",
@@ -867,6 +863,26 @@
     {
       "added_at": "2023-10-26 20:41:14",
       "album": {
+        "name": "Juan Atkins & Moritz von Oswald Present Borderland: Transport",
+        "url": "https://open.spotify.com/album/0SvoaQ0WhkPJNGjXQT7zOk"
+      },
+      "artists": [
+        {
+          "name": "Juan Atkins",
+          "url": "https://open.spotify.com/artist/208EQzx7RmoE2Ng9gF2edh"
+        },
+        {
+          "name": "Moritz Von Oswald",
+          "url": "https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q"
+        }
+      ],
+      "duration_ms": 367500,
+      "name": "Lightyears",
+      "url": "https://open.spotify.com/track/3MbMCoPu0hE0nZZMspr26k"
+    },
+    {
+      "added_at": "2023-10-26 20:41:14",
+      "album": {
         "name": "Neptunes Lair",
         "url": "https://open.spotify.com/album/4M0QYlDP6vIlrPLEBTZOFz"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 341106,
       "name": "Tedra",
       "url": "https://open.spotify.com/track/6Au8dwqW17E3rykzOtXzqn"
-    },
-    {
-      "added_at": "2023-10-26 20:41:14",
-      "album": {
-        "name": "Maintain",
-        "url": "https://open.spotify.com/album/6DebFF03htFDbSBppriyyM"
-      },
-      "artists": [
-        {
-          "name": "Cybotron",
-          "url": "https://open.spotify.com/artist/5Mr6zawZ90BzjY14EROmSm"
-        }
-      ],
-      "duration_ms": 296013,
-      "name": "Maintain",
-      "url": "https://open.spotify.com/track/3YEtKgCDIWcMpX7tSndngc"
     }
   ],
   "unique_name": "Detroit Techno",

@@ -4,7 +4,7 @@
 
 > To the world, Here is NCT! Hi we are NCT!
 
-225 songs - 13 hr 2 min
+226 songs - 13 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Make Your Day](https://open.spotify.com/track/3AHenSAPA6AQZZnyuWHJnz) | [NCT 127](https://open.spotify.com/artist/7f4ignuCJhLXfZ9giKT7rH) | [NCT \#127 Neo Zone: The Final Round \- The 2nd Album Repackage](https://open.spotify.com/album/64F7bFLt8ULAfBl2L4Pyv4) | 3:35 | 2021-12-16 | 2024-04-19 |
 | [Maniac \(Sung by DOYOUNG, HAECHAN\) \(Prod\. RYAN JHUN\)](https://open.spotify.com/track/0zcORXxG1FGC3QzWYOBzr4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN PT\. 1](https://open.spotify.com/album/4WQ05YKNsq42DiHMYCmTXc) | 3:28 | 2023-05-02 |  |
 | [MAXIS BY RYAN JHUN Pt\. 1\-Maniac](https://open.spotify.com/track/4Q90kkPqyBv3G7ixxKWow4) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [MAXIS BY RYAN JHUN Pt\. 1\-Maniac](https://open.spotify.com/album/4NMbE48vf6THQoyiAxiOCZ) | 3:28 | 2023-06-05 | 2024-04-19 |
+| [Miracle](https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5) | [NCT WISH](https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc) | [Miracle](https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL) | 2:57 | 2025-01-22 |  |
 | [Miracle](https://open.spotify.com/track/4LR6C06jdnEKfJLwqJ0WoT) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Universe \- The 3rd Album](https://open.spotify.com/album/3oc1LdV5V128z8fCtAX3Xs) | 3:10 | 2021-12-16 | 2022-07-29 |
 | [Miracle](https://open.spotify.com/track/6zjJo0D4AsE9ZcogcfA687) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Universe \- The 3rd Album](https://open.spotify.com/album/7woFc7Z4JMbLFjvlIoCCQB) | 3:10 | 2021-12-16 | 2023-05-03 |
 | [Misfit](https://open.spotify.com/track/0eg5tx2WEHiCRGC028oOqD) | [NCT U](https://open.spotify.com/artist/3paGCCtX1Xr4Gx53mSeZuQ) | [NCT RESONANCE Pt\. 2 \- The 2nd Album](https://open.spotify.com/album/3Bd1xSHPmhIEH97idB634s) | 3:35 | 2024-02-26 |  |

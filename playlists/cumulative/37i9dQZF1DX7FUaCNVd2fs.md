@@ -4,7 +4,7 @@
 
 > Sleepy, cosy piano music for snoozing, power naps and relaxation.
 
-217 songs - 9 hr 29 min
+218 songs - 9 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,6 +88,7 @@
 | [In Memories](https://open.spotify.com/track/1OvUOAr7h6Vj5aQnKOzOzc) | [Tamara Eden](https://open.spotify.com/artist/4bRMSKrWQRQXELuI73lXLD) | [In Memories](https://open.spotify.com/album/3bXiUZImMXX7EHE5iKAZTF) | 3:06 | 2023-10-27 |  |
 | [In Those Years](https://open.spotify.com/track/1arB0eICekrhg2CAj2bGfR) | [Ray Hutchcraft](https://open.spotify.com/artist/1COhhQQfq4nVKDEBi3JU7R) | [In Those Years](https://open.spotify.com/album/2YLWbPKyE27RsWLdpTnht3) | 2:20 | 2023-10-27 |  |
 | [Island II](https://open.spotify.com/track/1qGI8KYIXtJK9WTMC6nIQM) | [Olivia Belli](https://open.spotify.com/artist/3JU9NLB27wyGhbwbApR9uy) | [Island II](https://open.spotify.com/album/1ZzQ5rkaZ8EVR7SiQUZC9l) | 2:23 | 2023-10-27 |  |
+| [It's Gonna Be Alright](https://open.spotify.com/track/4oiKoBCIYz7sFlEOdrfsbY) | [Melanié Poret](https://open.spotify.com/artist/1qP02f6jA0m3AZ8devpRNu) | [It's Gonna Be Alright](https://open.spotify.com/album/5LsPM7x2VLXIwymnMEnaxq) | 2:09 | 2025-01-22 |  |
 | [I’m Still Learning](https://open.spotify.com/track/2KM3Fna95GUcpQ6Xb3Dibh) | [Neal Robinett](https://open.spotify.com/artist/0oHaKHnMtcLtrBkqZhb2sX) | [I’m Still Learning](https://open.spotify.com/album/6325dWq46dEF9sAesxT9FU) | 2:59 | 2023-10-27 |  |
 | [Juniper](https://open.spotify.com/track/1glbxURPMi2PpcD4AmufxL) | [James DiResta](https://open.spotify.com/artist/3eV4rEEDa28eEDqtKAz99w) | [Winter Unflorished](https://open.spotify.com/album/1meKAKWKJYjC4TzeGvgxA8) | 3:40 | 2023-10-27 | 2024-03-08 |
 | [Kiku](https://open.spotify.com/track/7n9YKxWPtz1wWugbTSftMZ) | [Sheisa Buraku](https://open.spotify.com/artist/28T3L1RH2PM4iWeFyBFGHf) | [Kiku](https://open.spotify.com/album/15FhA0dbfNYO8Rnei0KF3N) | 2:06 | 2023-10-27 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 
 > Groove to music from your Netflix Kids favorites! Cover: Spellbound
 
-[Spotify](https://open.spotify.com/user/spotify) - 70,446 likes - 58 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 70,486 likes - 58 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcDZqCc9qf3b.md) - [plain]
 | 7 | [ULTRAMAN \- From The Netflix Film "Ultraman: Rising"](https://open.spotify.com/track/6qjUr0g56tRAWRdQ3IQYdL) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Oliver Tree](https://open.spotify.com/artist/6TLwD7HPWuiOzvXEa3oCNe) | [ULTRAMAN \(From The Netflix Film "Ultraman: Rising"\)](https://open.spotify.com/album/7rZoGRmY7hcAlozzSEdjJH) | 3:24 |
 | 8 | [Happiness All Around](https://open.spotify.com/track/2Fv91nXVKXshHI6AhGnm0R) | [Dee & Friends](https://open.spotify.com/artist/2lGGE35VFwio8LutCGUIln) | [Happiness All Around](https://open.spotify.com/album/66bOB1Bp95aWJSkRgaHkFt) | 1:30 |
 | 9 | [Silly Bad Guys](https://open.spotify.com/track/7bVqndIGfEdtExbGT2sgR5) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Silly Bad Guys](https://open.spotify.com/album/3UBytlscm3YF53uF6mKUE8) | 1:59 |
-| 10 | [Hot Wheels Let's Race Theme Song](https://open.spotify.com/track/5Jp4vRhQ4TLXrp9cnJfXu6) | [Hot Wheels Let's Race](https://open.spotify.com/artist/47KiFGj9XRfpLHfUHtzxUL), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Hot Wheels Let's Race Theme Song](https://open.spotify.com/album/2aJkmEPmwl7fki60ZO0sVJ) | 1:44 |
+| 10 | [Hot Wheels Let's Race Theme Song](https://open.spotify.com/track/5Jp4vRhQ4TLXrp9cnJfXu6) | [Hot Wheels](https://open.spotify.com/artist/47KiFGj9XRfpLHfUHtzxUL), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY) | [Hot Wheels Let's Race Theme Song](https://open.spotify.com/album/2aJkmEPmwl7fki60ZO0sVJ) | 1:44 |
 | 11 | [Just As You Are \- From the Netflix Film "Thelma the Unicorn"](https://open.spotify.com/track/5DuSa5TfSngmuL0Z8qFvts) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Thelma The Unicorn \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/0D9M2GIdN1CfCMyVU1jgeH) | 3:26 |
 | 12 | [Goin’ Bananas Banana Dance](https://open.spotify.com/track/3mYDzV5qUUZJwEycRJyj3N) | [Gabby's Dollhouse](https://open.spotify.com/artist/3G2Y8FK5rpUTlioNIhGB7j) | [Goin’ Bananas Banana Dance](https://open.spotify.com/album/0AQtN2ZMnpu51lOxkq9Qo5) | 0:49 |
 | 13 | [We Ride Together \- feat\. Madison Reyes](https://open.spotify.com/track/47hU6a9wd2cbc2lMFabgOe) | [Barbie](https://open.spotify.com/artist/2BUrzKAS9si1FCDjrTWNrl), [Mattel](https://open.spotify.com/artist/6HoB8dDlgkJJXl9tH1qBaY), [Madison Reyes](https://open.spotify.com/artist/7zGcGkMtgpbkCKljWto3NQ) | [Barbie Mysteries: The Great Horse Chase](https://open.spotify.com/album/7gyDpqd4ZXFC2iM7YELLct) | 2:51 |

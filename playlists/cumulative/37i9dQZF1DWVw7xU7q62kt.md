@@ -4,7 +4,7 @@
 
 > Beats with a flavour of Jazz.
 
-371 songs - 17 hr 57 min
+372 songs - 18 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,7 +163,7 @@
 | [It's Ok, B U](https://open.spotify.com/track/471EXpx1r3ht0t2yhkTewm) | [Kiefer](https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J) | [It's Ok, B U](https://open.spotify.com/album/6NSTroWyAp3htlhO61s3Ep) | 4:22 | 2023-09-22 |  |
 | [JazzRevelations](https://open.spotify.com/track/2bCtCoIk4C9vwblph83dru) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL) | [JazzRevelations](https://open.spotify.com/album/25yJ7QmFtmYSzbtkH6YXKR) | 2:15 | 2024-08-30 |  |
 | [Jazzterfield 3](https://open.spotify.com/track/4Z6a5JQLO3yGDpECi4ovF9) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Roberto Di Gioia](https://open.spotify.com/artist/5F8dVL7FhAh8jPAMz7d2DR) | [Jazzterfield 3](https://open.spotify.com/album/5T2J4pbIrL17C4oGbbN0WE) | 2:09 | 2024-12-06 |  |
-| [Je Pense A Toi](https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Reverie](https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy) | 2:38 | 2023-08-22 |  |
+| [Je Pense A Toi](https://open.spotify.com/track/3LQydINc4g2TQBwaKroe7Y) | [Sweatson Klank](https://open.spotify.com/artist/6rvxjnXZ3KPlIPZ8IP7wIT) | [Reverie](https://open.spotify.com/album/7kOO8ODI0xLtD5JUX5IcNy) | 2:38 | 2023-08-22 | 2025-01-23 |
 | [Jezerro](https://open.spotify.com/track/0wO5Kuq82JCh1w5XZBSqiZ) | [ØDYSSEE](https://open.spotify.com/artist/6f2Y46Pw2IYGoURJREJDiA), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Jezerro](https://open.spotify.com/album/0zRaAbN8C00tQH0nQJB5UE) | 2:33 | 2023-08-22 |  |
 | [Jour Soleil](https://open.spotify.com/track/2vFmsUYWbYrZShKIaVntQm) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [Jour Soleil](https://open.spotify.com/album/4U8gL5ZAxh9letyUEivtRY) | 4:32 | 2024-03-20 | 2024-06-08 |
 | [Jour Soleil](https://open.spotify.com/track/4Q3QyzdPOkkbTT43ca3bUY) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:32 | 2023-08-22 | 2024-04-19 |
@@ -327,6 +327,7 @@
 | [synergy](https://open.spotify.com/track/2mobc4qTowSU1xom2svdwr) | [T.Check](https://open.spotify.com/artist/0sqFZZXsMjL8RoxMjhimhc) | [synergy](https://open.spotify.com/album/2pVgWKlYMy76JdQ2thPsDg) | 2:35 | 2024-09-27 |  |
 | [Table Talk](https://open.spotify.com/track/6uOaF86KVwPuSGkklnYrko) | [Glimlip](https://open.spotify.com/artist/5wEF5my54dE5vMMmSUz2q3), [Søren Søstrom](https://open.spotify.com/artist/2F5B5YgPDinjL9x35lkkke), [Soul Food Horns](https://open.spotify.com/artist/42gnrsSSKKNNmfAJ0o3oyN) | [Table Talk](https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH) | 2:57 | 2023-08-22 |  |
 | [Tapir & Pomme De Pin](https://open.spotify.com/track/2WHhDwQ0eU1xrke858eQMO) | [Basile Petite](https://open.spotify.com/artist/64tGgvRz1IJm33LksJlsRE), [Drew Wynen](https://open.spotify.com/artist/2YqbIyTjNzLIM2CGMydmlE) | [On s'amuse](https://open.spotify.com/album/3wVraN9VZrlwY6z0uHqSwE) | 4:19 | 2023-08-22 |  |
+| [TDNM, Pt\. I](https://open.spotify.com/track/43tOzr3KFjnxMkhfR8q01u) | [ddddeeeellllaaa](https://open.spotify.com/artist/1b1ZHOGcoZfdw68Ru9dznA), [TAKESY](https://open.spotify.com/artist/1Vl9HSkJjIqoDjTPBZmDmI) | [TDNM](https://open.spotify.com/album/6FauWsdnBkwmM4nDSj1rKg) | 2:39 | 2025-01-10 |  |
 | [Tea Ceremony](https://open.spotify.com/track/23cLHNTqtU9BjKoLUgD1c0) | [ARISU](https://open.spotify.com/artist/2jqODWgHJI8JDjZOyf7Xy4) | [Tea Ceremony](https://open.spotify.com/album/3UtYd1smJnxZX5jGRuHRo3) | 2:36 | 2024-09-20 |  |
 | [Tears of Fate](https://open.spotify.com/track/4zrlJ5ukxX2dDxgPAcSZiw) | [Cautious Clay](https://open.spotify.com/artist/6iWuBN32BqCJAeXW6o3nil), [Joshua Karpeh](https://open.spotify.com/artist/7Ld6G79PcddkizPC36ujEF) | [KARPEH](https://open.spotify.com/album/71VLepfDo6qnAAHA0SUoyF) | 4:33 | 2023-10-13 | 2024-09-28 |
 | [tempeh's blues](https://open.spotify.com/track/3FWsbMI5aSJhYfNNTDZjb2) | [jetfueljayy](https://open.spotify.com/artist/70ovbvXoXJ33c8zTKFFHw2), [Esbe](https://open.spotify.com/artist/3Y7Y2CNmpI13IevU3PuzCa) | [tempeh's blues](https://open.spotify.com/album/2unzpgV37RboGqTjsp7HIG) | 1:51 | 2024-09-06 |  |

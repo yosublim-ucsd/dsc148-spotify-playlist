@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata\. Con nuovi brani di Papa e Nerissima, Paky e Simba, Icy Subzero e tanti altri 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 50,328 likes - 95 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 50,342 likes - 95 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -90,7 +90,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 80 | [Spezza cuori](https://open.spotify.com/track/1v5akXwXTBbHOwu9lpcW1e) | [Priestess](https://open.spotify.com/artist/4BrB1p7x1IT8ssky6wdOPT) | [Spezza cuori](https://open.spotify.com/album/0n8azIYuXFt8o5aJnxYsbo) | 2:44 |
 | 81 | [FLASH](https://open.spotify.com/track/5UKMkdiPsmEca4XjiXXGdD) | [SPOOKYPBL](https://open.spotify.com/artist/6083C1SYbF1b4iMciTbpbv) | [FLASH](https://open.spotify.com/album/3BgUOP6CPpdsrd5bHIcYnn) | 2:03 |
 | 82 | [VACCI PIANO](https://open.spotify.com/track/1BWM50vwcebpVIaGKTPFzT) | [INCE](https://open.spotify.com/artist/06hLqaGYqDyCF8ZjaAyEaw), [Ketama126](https://open.spotify.com/artist/0pSx3asj3usz5PRt8COo0E) | [VACCI PIANO](https://open.spotify.com/album/0AITj6NVK5adVZ2SMuH7H4) | 2:40 |
-| 83 | [Non Cambio Mai](https://open.spotify.com/track/2W7IuDsBqZDGR8aJVBMnEQ) | [Amin Ossy Yassp G x Dibbe](https://open.spotify.com/artist/1lA3Eb7H6bIeR3YItHXCMt) | [Non Cambio Mai](https://open.spotify.com/album/7r6iJ1Nvj7cjfnWw7uS3DG) | 3:02 |
+| 83 | [Non Cambio Mai](https://open.spotify.com/track/2W7IuDsBqZDGR8aJVBMnEQ) | [Amin Ossy](https://open.spotify.com/artist/3Ff35w0dtFfCP2TxmRlInF), [Yassp G](https://open.spotify.com/artist/6n92tY9XupupUbyUGQNHcE), [Dibbe](https://open.spotify.com/artist/6I5iMFfp4NJdNJpSPXqGUH) | [Non Cambio Mai](https://open.spotify.com/album/7r6iJ1Nvj7cjfnWw7uS3DG) | 3:02 |
 | 84 | [semplice](https://open.spotify.com/track/79S7QUA63Y9cRRfQMA7SZa) | [Michael Mills](https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV) | [semplice](https://open.spotify.com/album/3X4EgJ5rRtkuJ5wPV67iAV) | 2:37 |
 | 85 | [NON CAMBIARE MAI](https://open.spotify.com/track/4Mp0YusDfVpb4a3Rr22ZoC) | [Angelino 5G](https://open.spotify.com/artist/43MgP8yYm60Mn9lx6hoORO), [TR Loco](https://open.spotify.com/artist/51ZIQrmcT1gB6jnqByjvZa), [Piccolo White](https://open.spotify.com/artist/5gJyy1QIQiu3kSMHpRdvvW) | [NON CAMBIARE MAI](https://open.spotify.com/album/59Bh6QjXaOlwOv5INUgiQT) | 3:09 |
 | 86 | [Lontani](https://open.spotify.com/track/4xllbRPobp54hJuhcftlL9) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi) | [Lontani](https://open.spotify.com/album/7pAVtSQzm80sDgAGXXHZ8H) | 2:49 |

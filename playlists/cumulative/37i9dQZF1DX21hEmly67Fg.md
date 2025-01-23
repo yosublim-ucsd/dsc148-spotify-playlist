@@ -4,7 +4,7 @@
 
 > Chill to these laid\-back classical covers.
 
-268 songs - 14 hr 50 min
+269 songs - 14 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -139,6 +139,7 @@
 | [I'm on fire](https://open.spotify.com/track/6qdtWByHjENUvfkmCCKMkt) | [Samuel Boman](https://open.spotify.com/artist/4eRFi91APHyqm3Pqzyi0Fs) | [I'm on fire](https://open.spotify.com/album/0POCGgHFs2K1i6MepPaK6t) | 2:24 | 2024-10-08 |  |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/0MXyCz754IFkMZq1I4BVaO) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/01u4d96EWX1Xk1NLtQhZNC) | 3:02 | 2022-11-25 | 2024-04-19 |
 | [I'm Yours \- Piano Version](https://open.spotify.com/track/4NqDMiBF4yLwdfJ6BDDdx2) | [Henry Smith](https://open.spotify.com/artist/5M86PSFFaRNTKidvlgHDEE) | [00s Piano Covers](https://open.spotify.com/album/50x1Jf4aVOOvpHQ2fxe71B) | 3:02 | 2022-02-25 |  |
+| [If You Don't Know Me by Now](https://open.spotify.com/track/0hniO7QvgBjKcWujdFGz4q) | [Petal & Thorn](https://open.spotify.com/artist/3Ul2PMlam8P1icRAZJlAUM) | [If You Don't Know Me by Now](https://open.spotify.com/album/3GdJWgpR4iVwravtWoPlrU) | 2:51 | 2025-01-22 |  |
 | [If You Leave Me Now](https://open.spotify.com/track/2br0u2rXPYBPl2LxghWaI5) | [Tom Powers](https://open.spotify.com/artist/5tqJLLaSDpdhDAwqWgAdXM) | [If You Leave Me Now](https://open.spotify.com/album/2SOzSum0avhI6D4Gh4dtg1) | 2:44 | 2024-12-10 |  |
 | [Imagine / What a Wonderful World](https://open.spotify.com/track/5peB51NBGxDU6whmNsK6yV) | [Christine Brown](https://open.spotify.com/artist/3iS3pfptgdjssIOuuTJith) | [Imagine What a Wonderful World](https://open.spotify.com/album/2cIcC7qsQf3Nzo6mpZQoYC) | 4:54 | 2021-11-25 |  |
 | [In My Room](https://open.spotify.com/track/4cOUlfphQg9EvowvpwABvg) | [Brian Wilson](https://open.spotify.com/artist/4Q82S0VzF8qlCb4PnSDurj) | [At My Piano](https://open.spotify.com/album/2wA42FpaNT9PKJn1RLdWwO) | 3:07 | 2021-11-25 |  |

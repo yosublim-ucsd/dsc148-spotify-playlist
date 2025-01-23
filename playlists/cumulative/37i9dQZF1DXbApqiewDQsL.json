@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-23",
-  "description": "The best new music by independent artists and labels, featuring Mauro. Updates every Wednesday. ",
+  "description": "The best new music by independent artists and labels, featuring Axel Coronado. Updates every Wednesday. ",
   "name": "Fresh Finds M\u00fasica Mexicana ",
   "tracks": [
     {
@@ -504,7 +504,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 199000,
       "name": "Aromaterapia",
       "url": "https://open.spotify.com/track/7A1CxQf6JtyblxU0Jw5KEO"
@@ -1064,7 +1064,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 172500,
       "name": "Carnalito",
       "url": "https://open.spotify.com/track/0Yz6u4XqbrOfU5T7vPV3cZ"
@@ -1604,6 +1604,24 @@
       "duration_ms": 210166,
       "name": "Dimelo",
       "url": "https://open.spotify.com/track/2p96XT21IEsaSjto3zT7DS"
+    },
+    {
+      "album": {
+        "name": "Dior & Cherry",
+        "url": "https://open.spotify.com/album/5uiAl2i72zlwn8eC4E9DfY"
+      },
+      "artists": [
+        {
+          "name": "Oscar R",
+          "url": "https://open.spotify.com/artist/5jYod7bcSZ0Sg2u4bRvncp"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160983,
+      "name": "Dior & Cherry",
+      "url": "https://open.spotify.com/track/39Sl9fk0X0sIrG4kYIO1JX"
     },
     {
       "album": {
@@ -2513,6 +2531,24 @@
     },
     {
       "album": {
+        "name": "AXEL",
+        "url": "https://open.spotify.com/album/5e7ipY8CPfWFLJ56Y1483l"
+      },
+      "artists": [
+        {
+          "name": "Axel Coronado",
+          "url": "https://open.spotify.com/artist/0ENnLGIyn0wUQ2sZ1jlTpO"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205112,
+      "name": "Flashback",
+      "url": "https://open.spotify.com/track/6NQoCRXN0WvRiJerAuFtZc"
+    },
+    {
+      "album": {
         "name": "Desde El Infierno",
         "url": "https://open.spotify.com/album/2GzPIRTuUasRgnSyvcSs7n"
       },
@@ -2950,6 +2986,24 @@
       "duration_ms": 160320,
       "name": "Kim Kardashian",
       "url": "https://open.spotify.com/track/1gff7Ybgs4uLceHflZUPoC"
+    },
+    {
+      "album": {
+        "name": "La Barbiee Torres",
+        "url": "https://open.spotify.com/album/7kG9rEXFACjejpo7boHJuF"
+      },
+      "artists": [
+        {
+          "name": "Isaac Torres y Su Alianza",
+          "url": "https://open.spotify.com/artist/1qnlff2Qvu3aOW5NsRDVkb"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231236,
+      "name": "La Barbiee Torres",
+      "url": "https://open.spotify.com/track/29obtc6TpRT6bdXeKWHWQF"
     },
     {
       "album": {
@@ -3492,6 +3546,24 @@
       "duration_ms": 194073,
       "name": "Mataba y Mor\u00eda",
       "url": "https://open.spotify.com/track/2TFgkqSQtSGSQvuhaeLuDt"
+    },
+    {
+      "album": {
+        "name": "Maybe So",
+        "url": "https://open.spotify.com/album/3v1788lMUay0jMuKcMVEVk"
+      },
+      "artists": [
+        {
+          "name": "Los HG",
+          "url": "https://open.spotify.com/artist/0k1Liit43NJKMzIfMi5brG"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191871,
+      "name": "Maybe So",
+      "url": "https://open.spotify.com/track/6DnkH8ZKHWSUi8ed6iAviJ"
     },
     {
       "album": {
@@ -4646,7 +4718,7 @@
       ],
       "date_added": "2024-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 173674,
       "name": "Perdon",
       "url": "https://open.spotify.com/track/3d7UBmE0KV3RV0Ak6l7I9J"
@@ -5385,6 +5457,28 @@
     },
     {
       "album": {
+        "name": "R94",
+        "url": "https://open.spotify.com/album/0jaRUhzzBGQvjNJKT6vA2G"
+      },
+      "artists": [
+        {
+          "name": "DELACiiO",
+          "url": "https://open.spotify.com/artist/0Z66F0nT0YttWdNzjDuvXb"
+        },
+        {
+          "name": "Stylolive",
+          "url": "https://open.spotify.com/artist/3EaujiKlOBEK1KK6fUa3rJ"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "R94",
+      "url": "https://open.spotify.com/track/12LZgTHRI9ZjCmmYaN9CQM"
+    },
+    {
+      "album": {
         "name": "Bendec\u00eddo",
         "url": "https://open.spotify.com/album/639M2fMh0LtrcHgt1pBftu"
       },
@@ -5658,7 +5752,7 @@
       ],
       "date_added": "2025-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 154671,
       "name": "Serpiente",
       "url": "https://open.spotify.com/track/4gxoxDwj2iITRPJBAcJgyV"
@@ -6706,7 +6800,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 244480,
       "name": "X TI",
       "url": "https://open.spotify.com/track/59dpq4ZqilTbtIBmEnTm5m"

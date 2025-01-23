@@ -2,16 +2,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 
 ### [Trending Now Malayalam](https://open.spotify.com/playlist/37i9dQZF1DWTYKFynxp6Fs)
 
-> Every song that's Trending NOW from Malayalam! <br/>Cover: Bougainvillea
+> Every song that's Trending NOW from Malayalam! <br/>Cover: Rifle Club
 
-[Spotify](https://open.spotify.com/user/spotify) - 428,026 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 428,251 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Blood \(From "Marco"\)](https://open.spotify.com/track/2xufy4wGqo7ax8caPKyMw6) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Rohith Siddappa](https://open.spotify.com/artist/6gGKW0XAgIiSlr7ZOnLjbR), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Blood \(From "Marco"\)](https://open.spotify.com/album/1vuCvWPTaPVYd2Cki6s78w) | 3:29 |
-| 2 | [Aayiram Aura](https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aayiram Aura](https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ) | 4:16 |
-| 3 | [Sthuthi \(From "Bougainvillea"\)](https://open.spotify.com/track/3ISVxEn74F0nBrO7vEnou8) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Sthuthi \(From "Bougainvillea"\)](https://open.spotify.com/album/0JaTVWR0wj2Ri1LcpiwE4s) | 2:59 |
-| 4 | [Killer On The Loose](https://open.spotify.com/track/5h5z6chD6MFiM07t0n13uK) | [Rex Vijayan](https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ), [The Imbachi](https://open.spotify.com/artist/4ZUtfxl9eSCS2TVCirtxef) | [Rifle Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ljauieQ7eWxhZkn6PfxTV) | 3:02 |
+| 1 | [Killer On The Loose](https://open.spotify.com/track/5h5z6chD6MFiM07t0n13uK) | [Rex Vijayan](https://open.spotify.com/artist/0LbVwcfU9ifwvdgDPLgOxZ), [The Imbachi](https://open.spotify.com/artist/4ZUtfxl9eSCS2TVCirtxef) | [Rifle Club \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4ljauieQ7eWxhZkn6PfxTV) | 3:02 |
+| 2 | [Blood \(From "Marco"\)](https://open.spotify.com/track/2xufy4wGqo7ax8caPKyMw6) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [Rohith Siddappa](https://open.spotify.com/artist/6gGKW0XAgIiSlr7ZOnLjbR), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Blood \(From "Marco"\)](https://open.spotify.com/album/1vuCvWPTaPVYd2Cki6s78w) | 3:29 |
+| 3 | [Aayiram Aura](https://open.spotify.com/track/4R9IOcKCN8qfF62TUEvVj1) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Aayiram Aura](https://open.spotify.com/album/6Q0WA0xAIabC5b1q9qTZLJ) | 4:16 |
+| 4 | [Sthuthi \(From "Bougainvillea"\)](https://open.spotify.com/track/3ISVxEn74F0nBrO7vEnou8) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Mary Ann Alexander](https://open.spotify.com/artist/5Nd0pl530GmwyCK1lRGQqd), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Sthuthi \(From "Bougainvillea"\)](https://open.spotify.com/album/0JaTVWR0wj2Ri1LcpiwE4s) | 2:59 |
 | 5 | [Eyy Banane](https://open.spotify.com/track/3K8t6RzlYZSCkVjI3kczzD) | [electronic kili](https://open.spotify.com/artist/6S9pxoEBK0Mczr3qE8H0GX), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Vaazha \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5o8BwHw4pg8DZZzKGJocJx) | 4:30 |
 | 6 | [Dhurooha Manthahasame \- From "Sookshmadarshini"](https://open.spotify.com/track/05EpQNTKhOlX6NBI5h8RPJ) | [Christo Xavier](https://open.spotify.com/artist/3COuDGy2RmxZvq16WMZpSn), [Ahi Ajayan](https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH), [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm) | [Dhurooha Manthahasame \(From "Sookshmadarshini"\)](https://open.spotify.com/album/39Ffgbe1WFfcZLd0wXDEmg) | 3:32 |
 | 7 | [Armadham](https://open.spotify.com/track/18afrwnlrByAjhi3Ve0Ehn) | [Sushin Shyam](https://open.spotify.com/artist/1qFp8zDvsXyCsC5dqz8X4S), [Pranavam Sasi](https://open.spotify.com/artist/7vi3MHqgN9oJYXCC4gne6R), [Vinayak Sasikumar](https://open.spotify.com/artist/51jfCC7m2rTGPDz06E2nvS) | [Aavesham \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3E0V1VegCFH9SeRSNWFKki) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTYKFynxp6Fs.md) - [plain]
 | 49 | [Haalaake Marunne](https://open.spotify.com/track/4r25jJbIeF3pED2ilzAmOV) | [Vishnu Vijay](https://open.spotify.com/artist/2einniD11Dbvrwy5nWmn4p), [Pushpavathy](https://open.spotify.com/artist/1ZMVOLxIxsGjltIDUawg8Z), [Ahi Ajayan](https://open.spotify.com/artist/3CPdmmOFd8yq1zXHn28UsH), [Mu.Ri](https://open.spotify.com/artist/6XaKvCWc54LHjReFGiQBDm) | [Sulaikha Manzil \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3KEn6h4Pr8FJ3vHyS3DfvH) | 3:16 |
 | 50 | [Alif](https://open.spotify.com/track/0BdsMf23c1amsuZxqqFLI0) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [ABRAW](https://open.spotify.com/artist/2MAFVN4H9fnFcLlPYb1T6L) | [Alif](https://open.spotify.com/album/2OG7wgIZqAxzTiUBT4zVhU) | 3:01 |
 
-Snapshot ID: `Z4jUNQAAAABufD07oysmX7KFn47uCHCV`
+Snapshot ID: `Z5DQEgAAAABmFgnH0Jpb7CSkQ+di9zz3`

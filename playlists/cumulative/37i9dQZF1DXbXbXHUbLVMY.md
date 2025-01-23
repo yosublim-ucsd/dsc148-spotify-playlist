@@ -4,7 +4,7 @@
 
 > Skandinavisk hiphop som holder det 100! 🚨
 
-268 songs - 11 hr 41 min
+269 songs - 11 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,6 +160,7 @@
 | [Let's Go](https://open.spotify.com/track/21RCoKctRVVVG8nt8r5dsU) | [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Stig Brenner](https://open.spotify.com/artist/35j3Bv3gRKUHbiFSxVjjIf) | [Let's Go](https://open.spotify.com/album/30pPojWH2mqVN5aXmocwRY) | 2:28 | 2024-09-05 |  |
 | [Leve](https://open.spotify.com/track/4Md2DqRJUozRDBnEdDLdz9) | [Amara](https://open.spotify.com/artist/657xkMQUyPIa9vA7fycV5j) | [Leve](https://open.spotify.com/album/798HIQ0XS757OGJL0pGfER) | 2:44 | 2024-03-21 | 2025-01-17 |
 | [LEVENDE LEGENDE](https://open.spotify.com/track/3JTf2EmzC8Y2xEXTkHbman) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [Vory](https://open.spotify.com/artist/0GeeIVcvGA8GSlWsoY1dkG) | [LEVENDE LEGENDE](https://open.spotify.com/album/7pXSK4kHG8414oyMY9kkgb) | 4:10 | 2023-09-21 | 2024-02-09 |
+| [LONELY](https://open.spotify.com/track/51vLB58HYeCqEwRL32q2n4) | [Lamix](https://open.spotify.com/artist/3QQwosodozp54DdCKrlAry) | [LONELY](https://open.spotify.com/album/1Tsrdb9lp8vmFIZb98vtxT) | 2:00 | 2025-01-16 |  |
 | [Lover](https://open.spotify.com/track/6omD0gsauEeZobNuJJMWfz) | [Charlie Skien](https://open.spotify.com/artist/561E5AG2FI0jbTbOrxp8qF) | [Lover](https://open.spotify.com/album/4YKK8NeOdlxEvVe4LY5cKQ) | 3:40 | 2024-05-06 | 2024-05-24 |
 | [Lucky Luciano](https://open.spotify.com/track/1QdmWPC8ZshfEOKJHxFGW1) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA) | [Lucky Luciano](https://open.spotify.com/album/3OZbxEkAX6R7CV2lcVwgKj) | 2:15 | 2025-01-16 |  |
 | [Løsningsorienterte](https://open.spotify.com/track/60vClM4MsGoWmEKO1soSlV) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Løsningsorienterte](https://open.spotify.com/album/5m7GdnuEejte2vkXqoconf) | 2:53 | 2023-12-08 |  |
@@ -254,7 +255,7 @@
 | [TIL DEG](https://open.spotify.com/track/1ck8VxAV1xcXiMgfvErURz) | [Malik](https://open.spotify.com/artist/5X9l8QkbD6QXi53yil07rL), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q) | [TIL DEG](https://open.spotify.com/album/7bI1OfEsCmIv35F1HPz6KI) | 2:37 | 2024-06-20 |  |
 | [Til Toppen](https://open.spotify.com/track/3IdMka9dVfYIKZmpGf6Heo) | [Rambow](https://open.spotify.com/artist/5h1MClpZogAdkdxL9wMXt9), [Voksen Mann Uten Slips](https://open.spotify.com/artist/5FGyG1MDfNSzpijXguKZAF), [Blizzy](https://open.spotify.com/artist/4tSx9oXscGCVaVXEhH86qp) | [Til Toppen](https://open.spotify.com/album/0yDrCi3oVTSrrQCgkQH3eo) | 2:36 | 2024-02-22 | 2024-06-07 |
 | [Top Notch](https://open.spotify.com/track/5QrHaI2f2gTwDLMvV14ecf) | [Mohelá](https://open.spotify.com/artist/4EukF0aMNL8Cc5kUSNsXPZ) | [Top Notch](https://open.spotify.com/album/4bc8UZIOPt9TIw4D9mnhki) | 2:28 | 2024-01-11 | 2024-02-09 |
-| [TRILLE](https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [TRILLE](https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D) | 2:42 | 2024-01-04 |  |
+| [TRILLE](https://open.spotify.com/track/3DEpiDGy8aebrTZrZB5CYY) | [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU), [Karpe](https://open.spotify.com/artist/3X23gpg1vPacr0hBARyxtN) | [TRILLE](https://open.spotify.com/album/1n7BDlc1vwPfZlyZwxcL1D) | 2:42 | 2024-01-04 | 2025-01-23 |
 | [Tyrs Vals \(feat\. Arif Murakami & Siyabång\)](https://open.spotify.com/track/0V0qOWYd1Oz1jGaVFii95s) | [Tyr](https://open.spotify.com/artist/3PgCoKtxkxF046P2FM7SFE), [Arif Murakami](https://open.spotify.com/artist/46pSx5MtwhorubZuHbwM0Q), [Siyabång](https://open.spotify.com/artist/6Ry0CvCsPRp7Z9qewvxYBK) | [Bedøvelse Gjør Mester](https://open.spotify.com/album/1MEQ3H8iYw0q4npG8Bht2t) | 3:41 | 2024-02-22 |  |
 | [Uno Dos Tres](https://open.spotify.com/track/7A1aIxTsH5MmMqQvivSYKi) | [Awave](https://open.spotify.com/artist/2zrzhtWVPEcj1btFiRDQlF), [Asme](https://open.spotify.com/artist/3M1eBsR4rSTcDAzYopumeG) | [VÅGA](https://open.spotify.com/album/4OSpO11J4lewpTyaspw3QZ) | 2:33 | 2024-08-15 |  |
 | [Utested](https://open.spotify.com/track/19188WQf2DrNMfI1XLDnYF) | [Ari Bajgora](https://open.spotify.com/artist/5N9d9BMxodykFktDttHERD) | [Utested](https://open.spotify.com/album/1yMhNrho22lcCp3MKwnHEu) | 2:42 | 2024-06-07 |  |

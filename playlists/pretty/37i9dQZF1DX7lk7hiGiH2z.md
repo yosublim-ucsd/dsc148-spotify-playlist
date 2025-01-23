@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 
 > Zeit für Schlittschuhlaufen und Schneemann bauen 🍪⛸️☃️
 
-[Spotify](https://open.spotify.com/user/spotify) - 49,096 likes - 52 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 49,095 likes - 52 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7lk7hiGiH2z.md) - [plain]
 | 9 | [Die krassesten Schlitten](https://open.spotify.com/track/0hK6Ouhs3AKP1O7ma26ECE) | [Deine Freunde](https://open.spotify.com/artist/5e7w4jeuld5367jaczHkng) | [Das Weihnachtsalbum](https://open.spotify.com/album/5Lvy6ZClAUg6UcDKkLaUU4) | 2:59 |
 | 10 | [Allergrößter Wunsch \(feat\. Fidi Steinbeck\)](https://open.spotify.com/track/47vUmnYNNikz6UZTx9VZSo) | [Honigkuchenpferde](https://open.spotify.com/artist/6RZP8NdBwAbrDZnYpdJVcH), [Fidi Steinbeck](https://open.spotify.com/artist/5jiQJuf5PswA0Cbp0PPcA9) | [Allergrößter Wunsch \(feat\. Fidi Steinbeck\)](https://open.spotify.com/album/5JwhZ2T6j68gj9OZH0Sjnz) | 3:00 |
 | 11 | [Alle Jahre wieder](https://open.spotify.com/track/1rynQ6uOgOXUjiHzKBqzOG) | [DIKKA](https://open.spotify.com/artist/79BUGg8I39oq0mSeIetvob) | [Alle Jahre wieder](https://open.spotify.com/album/5zWifkkpJ1HuwGAQHCSy91) | 2:37 |
-| 12 | [Der Möhrennasen\-Dieb \(Das kleine Kaninchen\)](https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Der Möhrennasen\-Dieb \(Das kleine Kaninchen\)](https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE) | 2:38 |
-| 13 | [Schnee](https://open.spotify.com/track/0xyWp9BsedFZpdR9f74t74) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Schnee](https://open.spotify.com/album/3PCzF1h3adfcXM220egTQl) | 2:03 |
+| 12 | [Schnee](https://open.spotify.com/track/0xyWp9BsedFZpdR9f74t74) | [Hurra Kinderlieder](https://open.spotify.com/artist/0tvF8WneD5ortg902Tnm1a) | [Schnee](https://open.spotify.com/album/3PCzF1h3adfcXM220egTQl) | 2:03 |
+| 13 | [Der Möhrennasen\-Dieb \(Das kleine Kaninchen\)](https://open.spotify.com/track/1FE1QAZadTxlzYznstQthF) | [Libatiba](https://open.spotify.com/artist/3NEU7lGgdawG62CVqUp7kX) | [Der Möhrennasen\-Dieb \(Das kleine Kaninchen\)](https://open.spotify.com/album/5c0mWyYiR5b4QYd3JJHNoE) | 2:38 |
 | 14 | [Winter Wunderland](https://open.spotify.com/track/0QFXMMvONbv8W9XARH4Oxb) | [Yvonne Catterfeld](https://open.spotify.com/artist/5bKy7Tu2BNmfoFnDC5mncZ), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 2:48 |
 | 15 | [Wann wird es Winter?](https://open.spotify.com/track/4z29oJTUjxv60CDkPeG8wG) | [LiederTiger](https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt) | [Kinderlieder für den Winter \- EP](https://open.spotify.com/album/5UbWocZ1joDQQ2ojYP98Nl) | 2:26 |
 | 16 | [Rudolf, das kleine Rentier](https://open.spotify.com/track/6KOT5wByCmM7y9Y7r5PNwJ) | [Namika](https://open.spotify.com/artist/0HSc7yUdNSosxRb2UJnXlz), [Giraffenaffen](https://open.spotify.com/artist/2iofOsu4vMRmrbjuqGR6ex) | [Giraffenaffen 4 \- Winterzeit](https://open.spotify.com/album/4NA5h5vfjAStxzWPqORxsl) | 3:05 |

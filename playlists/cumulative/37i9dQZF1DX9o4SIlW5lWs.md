@@ -4,12 +4,12 @@
 
 > Al corazón! Foto: The La Planta, Emanero & Abel Pintos.
 
-505 songs - 1 day 4 hr 41 min
+506 songs - 1 day 4 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/7xABntVHfPeFk622h4VFqk) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/4BRG4eLiI46NzgEFPG8EXb) | 0:00 | 2022-07-22 | 2022-08-12 |
-| [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 | 2024-09-27 |  |
+| [20 Labios](https://open.spotify.com/track/1ktAn582fkzZU6n3kVNdBO) | [BM](https://open.spotify.com/artist/5TP8Ubo4jLKEi4Mw2O8fAk) | [20 LABIOS](https://open.spotify.com/album/5sz49Lxkcz1TELAm03tdJ0) | 3:25 | 2024-09-27 | 2025-01-23 |
 | [A Chillar a Otra Parte](https://open.spotify.com/track/70WFn8PLvtppSHM3DUEj02) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [Huguito Flores el Super](https://open.spotify.com/artist/4Jiwh0RF8Cilfpe6JGvWlR) | [A Chillar a Otra Parte](https://open.spotify.com/album/0hG1L7X4lqnBQXlwISMP8l) | 3:41 | 2023-12-22 | 2024-05-10 |
 | [A Chillar a Otra Parte \- Remix](https://open.spotify.com/track/2pcK0a6052l3VE2qs9gTIy) | [El Tecla](https://open.spotify.com/artist/6TY0JuXMcvhCLtHYBJ4iXH), [BANDIDO](https://open.spotify.com/artist/7CSpCpNGTK9589bTi44SzE), [Santiago Cañete](https://open.spotify.com/artist/3t9iUHXTw9NmuEvmtUWEl2), [JCKC](https://open.spotify.com/artist/6Sf9Y7eQWVeAioiBobktSu) | [A Chillar a Otra Parte \(Remix\)](https://open.spotify.com/album/06IlqAtT5PKCvrAAattY50) | 3:38 | 2023-04-18 | 2023-04-22 |
 | [A Decirme Que](https://open.spotify.com/track/4jPhSHPch4lho5b7q93JcS) | [El Arrebato](https://open.spotify.com/artist/56C261PgvMlf0QxmFlRLRg), [El Golpe](https://open.spotify.com/artist/19kojTrPoAUZztbRwVqWqh) | [A Decirme Que](https://open.spotify.com/album/2AVEgTcqjRFVV1Q3SzmN4s) | 2:43 | 2022-05-27 | 2022-06-04 |
@@ -432,6 +432,7 @@
 | [Te Vas](https://open.spotify.com/track/1cP3sQJ4cBGUy3mzMHXH96) | [Américo](https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c) | [A Morir](https://open.spotify.com/album/2GhTSWtln0DOTPoEp7qlNe) | 3:54 | 2022-07-22 | 2024-04-19 |
 | [Te Voy a Amar](https://open.spotify.com/track/01B1lOK7MmETtd3YKjgN2v) | [La Piedra Urbana](https://open.spotify.com/artist/71LpuZycPgIv82EdxoRIrt) | [Te Voy a Amar](https://open.spotify.com/album/080g552SPxUhCDlKoVW14n) | 4:00 | 2024-03-29 | 2024-04-13 |
 | [Te Voy a Amar](https://open.spotify.com/track/2srKgu7hvh8cmIWmfwOz70) | [Los Cadiz](https://open.spotify.com/artist/41t0VtTsJW8JzLYN7e7Uig) | [Imparables](https://open.spotify.com/album/0cv2nuAuIwLTPQUvfkE4ag) | 3:20 | 2022-01-14 |  |
+| [Terco Corazón](https://open.spotify.com/track/5ATLHoLB01iMuBBVIzMa53) | [Corazón Serrano](https://open.spotify.com/artist/4UuICMmKQKNyCJfBg6lFFD), [Rafaga](https://open.spotify.com/artist/0CBKUzrf6yGdTgxAQbUUHS) | [Terco Corazón](https://open.spotify.com/album/3RdbWyTpvb5RH22RXcEqo8) | 2:47 | 2025-01-17 |  |
 | [Tiene Espinas el Rosal](https://open.spotify.com/track/6p3lVBHIY9nHJgVaOoMLU6) | [La San Francisco](https://open.spotify.com/artist/5PjBUzYkEvqbzBw5HtEAEr) | [Clásicos de Siempre](https://open.spotify.com/album/5t03hqWU2j6Qox3vHbg270) | 1:19 | 2022-01-21 | 2022-07-01 |
 | [Tonta](https://open.spotify.com/track/1babcBOEm3FZMHzRL8z0rU) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [No Me Digas Adios](https://open.spotify.com/album/1N6ENqxb4RaYGAC0PiGk1J) | 3:11 | 2022-01-14 |  |
 | [Tramposa](https://open.spotify.com/track/1lLTyKsX4IDBYtAiRWnJEQ) | [LiL CaKe](https://open.spotify.com/artist/0niAkxgT6y57bRbT0Ge94z) | [Tramposa](https://open.spotify.com/album/4tPBqFk4ZeAzQ0mB8ZxUzX) | 3:07 | 2024-02-23 | 2024-04-30 |

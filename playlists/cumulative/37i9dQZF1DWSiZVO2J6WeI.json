@@ -257,6 +257,24 @@
     },
     {
       "album": {
+        "name": "Ability",
+        "url": "https://open.spotify.com/album/1rdtDpNPifzFMCGt3Z2sjM"
+      },
+      "artists": [
+        {
+          "name": "Endless Voyager",
+          "url": "https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163959,
+      "name": "Ability",
+      "url": "https://open.spotify.com/track/0tz2jp39ouKc8jnLXU0ffR"
+    },
+    {
+      "album": {
         "name": "Aeterna",
         "url": "https://open.spotify.com/album/1qlIcbSfHK3qmZUgT2vADm"
       },
@@ -2732,7 +2750,7 @@
       ],
       "date_added": "2024-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 148500,
       "name": "Eyes Closed",
       "url": "https://open.spotify.com/track/5vgiScEWEa7AVxu6Q7Rmmm"
@@ -3406,6 +3424,24 @@
       "duration_ms": 180666,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/6Zv0JYbFJhOG0thnaGBIGW"
+    },
+    {
+      "album": {
+        "name": "Holiness",
+        "url": "https://open.spotify.com/album/0Qqejlypvxo1ENnpyTtzkK"
+      },
+      "artists": [
+        {
+          "name": "Now & Anatma",
+          "url": "https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177750,
+      "name": "Holiness",
+      "url": "https://open.spotify.com/track/5HbCW6ZtyoCWv56ElYFesJ"
     },
     {
       "album": {
@@ -6438,7 +6474,7 @@
       ],
       "date_added": "2023-07-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 175073,
       "name": "Solfeggio Purity 741 Hz",
       "url": "https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj"

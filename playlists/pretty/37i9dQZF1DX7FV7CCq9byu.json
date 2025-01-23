@@ -1,12 +1,12 @@
 {
   "description": "Det b\u00e4sta fr\u00e5n svensk & internationell pop.",
-  "num_followers": 174296,
+  "num_followers": 174307,
   "original_name": "Ny Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4mdkwAAAADWwvKR57uKxYLjYd9kslWF",
+  "snapshot_id": "Z5EqSgAAAAC13/cVErCDd2JLZy5ndifk",
   "tracks": [
     {
       "added_at": "2025-01-17 00:00:19",
@@ -27,22 +27,6 @@
     {
       "added_at": "2025-01-17 00:00:19",
       "album": {
-        "name": "Kaprifol",
-        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
-      },
-      "artists": [
-        {
-          "name": "Thomas Stenstr\u00f6m",
-          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
-        }
-      ],
-      "duration_ms": 235230,
-      "name": "Kaprifol",
-      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
-    },
-    {
-      "added_at": "2025-01-17 00:00:19",
-      "album": {
         "name": "Skriker mitt namn",
         "url": "https://open.spotify.com/album/3vYIwRY2034ADqRskGJpFr"
       },
@@ -55,6 +39,22 @@
       "duration_ms": 181533,
       "name": "Skriker mitt namn",
       "url": "https://open.spotify.com/track/3jGTLWpILJexFMVibAjij9"
+    },
+    {
+      "added_at": "2025-01-17 00:00:19",
+      "album": {
+        "name": "All My Love",
+        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
+      },
+      "artists": [
+        {
+          "name": "Vella",
+          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
+        }
+      ],
+      "duration_ms": 187537,
+      "name": "All My Love",
+      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
     },
     {
       "added_at": "2025-01-17 00:00:19",
@@ -75,18 +75,34 @@
     {
       "added_at": "2025-01-17 00:00:19",
       "album": {
-        "name": "I Still Hide",
-        "url": "https://open.spotify.com/album/0alHmJAANap6kwhm1BMZvc"
+        "name": "Inget som g\u00f6r ont, g\u00f6r ont 4ever",
+        "url": "https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat"
       },
       "artists": [
         {
-          "name": "Alba August",
-          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+          "name": "Myra Granberg",
+          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
         }
       ],
-      "duration_ms": 213593,
-      "name": "Killing Time",
-      "url": "https://open.spotify.com/track/1CFghfU1Gomjb70HUoVlSp"
+      "duration_ms": 148697,
+      "name": "Inget som g\u00f6r ont, g\u00f6r ont 4ever",
+      "url": "https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR"
+    },
+    {
+      "added_at": "2025-01-17 00:00:19",
+      "album": {
+        "name": "Kaprifol",
+        "url": "https://open.spotify.com/album/41XXzH7d7sd6yKcxQz0aXP"
+      },
+      "artists": [
+        {
+          "name": "Thomas Stenstr\u00f6m",
+          "url": "https://open.spotify.com/artist/2DWNa2o3BbsIHeBq7Iu6E7"
+        }
+      ],
+      "duration_ms": 235230,
+      "name": "Kaprifol",
+      "url": "https://open.spotify.com/track/4sfYzFbJbiXm1lvsoDOtZS"
     },
     {
       "added_at": "2025-01-17 00:00:19",
@@ -103,38 +119,6 @@
       "duration_ms": 174376,
       "name": "Det sista jag beh\u00f6ver",
       "url": "https://open.spotify.com/track/2nZMFrdnV0AxKlRvXbsDYX"
-    },
-    {
-      "added_at": "2025-01-17 00:00:19",
-      "album": {
-        "name": "Du fl\u00f6g iv\u00e4g",
-        "url": "https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM"
-      },
-      "artists": [
-        {
-          "name": "Klaudy",
-          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
-        }
-      ],
-      "duration_ms": 155000,
-      "name": "Du fl\u00f6g iv\u00e4g",
-      "url": "https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI"
-    },
-    {
-      "added_at": "2025-01-17 00:00:19",
-      "album": {
-        "name": "All My Love",
-        "url": "https://open.spotify.com/album/5xnNLxIsj8uLXhC5BScEMI"
-      },
-      "artists": [
-        {
-          "name": "Vella",
-          "url": "https://open.spotify.com/artist/5YvpNhcfN0WZBg20nGItwH"
-        }
-      ],
-      "duration_ms": 187537,
-      "name": "All My Love",
-      "url": "https://open.spotify.com/track/31g1ilceVdtqj4OHUwafmR"
     },
     {
       "added_at": "2025-01-17 00:00:19",
@@ -175,6 +159,38 @@
     {
       "added_at": "2025-01-17 00:00:19",
       "album": {
+        "name": "I Still Hide",
+        "url": "https://open.spotify.com/album/0alHmJAANap6kwhm1BMZvc"
+      },
+      "artists": [
+        {
+          "name": "Alba August",
+          "url": "https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp"
+        }
+      ],
+      "duration_ms": 213593,
+      "name": "Killing Time",
+      "url": "https://open.spotify.com/track/1CFghfU1Gomjb70HUoVlSp"
+    },
+    {
+      "added_at": "2025-01-17 00:00:19",
+      "album": {
+        "name": "Du fl\u00f6g iv\u00e4g",
+        "url": "https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM"
+      },
+      "artists": [
+        {
+          "name": "Klaudy",
+          "url": "https://open.spotify.com/artist/7mV5Ag4VyHBPfUtpekZGyd"
+        }
+      ],
+      "duration_ms": 155000,
+      "name": "Du fl\u00f6g iv\u00e4g",
+      "url": "https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI"
+    },
+    {
+      "added_at": "2025-01-17 00:00:19",
+      "album": {
         "name": "Passenger Seat",
         "url": "https://open.spotify.com/album/3mBqgeRuQBZkt4Vi5ZJZ6Z"
       },
@@ -205,20 +221,20 @@
       "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
     },
     {
-      "added_at": "2025-01-17 00:00:19",
+      "added_at": "2025-01-22 17:26:34",
       "album": {
-        "name": "Inget som g\u00f6r ont, g\u00f6r ont 4ever",
-        "url": "https://open.spotify.com/album/7zbhWU2UiQ46184cVsWYat"
+        "name": "MAYBE.",
+        "url": "https://open.spotify.com/album/39wdDtFBu6cp8kyBhdCwVr"
       },
       "artists": [
         {
-          "name": "Myra Granberg",
-          "url": "https://open.spotify.com/artist/6HYjkczJfUdGcwIGPOq5P2"
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
         }
       ],
-      "duration_ms": 148697,
-      "name": "Inget som g\u00f6r ont, g\u00f6r ont 4ever",
-      "url": "https://open.spotify.com/track/4iiMwRdEFIbSpxYGYBd8tR"
+      "duration_ms": 235395,
+      "name": "MAYBE.",
+      "url": "https://open.spotify.com/track/54eCdfu10x7x7uHJ5TY5KZ"
     },
     {
       "added_at": "2025-01-17 00:00:19",
@@ -283,6 +299,22 @@
       "duration_ms": 147949,
       "name": "push pull",
       "url": "https://open.spotify.com/track/6AXpmgRXqBrLeUkGapr90Y"
+    },
+    {
+      "added_at": "2025-01-22 17:26:34",
+      "album": {
+        "name": "REBEL HEART",
+        "url": "https://open.spotify.com/album/0GHWzTUTrbTmYaGnHhjZe3"
+      },
+      "artists": [
+        {
+          "name": "IVE",
+          "url": "https://open.spotify.com/artist/6RHTUrRF63xao58xh9FXYJ"
+        }
+      ],
+      "duration_ms": 188266,
+      "name": "REBEL HEART",
+      "url": "https://open.spotify.com/track/0qdPpfbrgdBs6ie9bTtQ1d"
     },
     {
       "added_at": "2025-01-17 00:00:19",
@@ -443,18 +475,18 @@
     {
       "added_at": "2025-01-17 00:00:19",
       "album": {
-        "name": "Love Me Not / Love Is Blind",
-        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn"
       },
       "artists": [
         {
-          "name": "Ravyn Lenae",
-          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
         }
       ],
-      "duration_ms": 213466,
-      "name": "Love Me Not",
-      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
     },
     {
       "added_at": "2025-01-17 00:00:19",
@@ -471,6 +503,22 @@
       "duration_ms": 200333,
       "name": "When Good Ain\u2019t Good",
       "url": "https://open.spotify.com/track/6RRRPPrWxVFhYIjgNlLYee"
+    },
+    {
+      "added_at": "2025-01-17 00:00:19",
+      "album": {
+        "name": "Love Me Not / Love Is Blind",
+        "url": "https://open.spotify.com/album/6YHaDmwYvX8vREotCZTV6g"
+      },
+      "artists": [
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "duration_ms": 213466,
+      "name": "Love Me Not",
+      "url": "https://open.spotify.com/track/1UNEuG9DYOWiikf00ayr52"
     },
     {
       "added_at": "2025-01-17 00:00:19",
@@ -559,22 +607,6 @@
       "duration_ms": 139388,
       "name": "Another Life",
       "url": "https://open.spotify.com/track/5vSwn5J5QdE5g6FJm7gg9E"
-    },
-    {
-      "added_at": "2025-01-17 00:00:19",
-      "album": {
-        "name": "Who are you?",
-        "url": "https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn"
-      },
-      "artists": [
-        {
-          "name": "Saga Faye",
-          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
-        }
-      ],
-      "duration_ms": 151979,
-      "name": "Who are you?",
-      "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
     },
     {
       "added_at": "2025-01-17 00:00:19",

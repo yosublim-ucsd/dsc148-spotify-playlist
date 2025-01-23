@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > samia being ethereal and more 🫧🧜‍♀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,592 likes - 130 songs - 7 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,672 likes - 130 songs - 7 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

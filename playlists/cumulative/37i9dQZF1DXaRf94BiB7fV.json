@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "The best new music by independent artists and labels in India. Cover: SHATAKSHI SHARMA, Artwork: Isu Kim",
+  "description": "The best new music by independent artists and labels in India. Cover: Shreya Karmakar, Artwork: Isu Kim",
   "name": "Fresh Finds India",
   "tracks": [
     {
@@ -1518,7 +1518,7 @@
       ],
       "date_added": "2024-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 189890,
       "name": "Alvida",
       "url": "https://open.spotify.com/track/5B5VxK6DdJBN39F6HiLluH"
@@ -2090,7 +2090,7 @@
       ],
       "date_added": "2024-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 202400,
       "name": "Baarish",
       "url": "https://open.spotify.com/track/54UJ4gj6g09YhFtk6SLFJB"
@@ -3132,7 +3132,7 @@
       ],
       "date_added": "2024-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 214329,
       "name": "Bemausam Baarish",
       "url": "https://open.spotify.com/track/28m7rFpkY7bLmDjVWYRzh1"
@@ -3618,7 +3618,7 @@
       ],
       "date_added": "2024-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 175499,
       "name": "Bombay Rains",
       "url": "https://open.spotify.com/track/4jEWjqifdaItAnIfgXHHW5"
@@ -10988,7 +10988,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 153882,
       "name": "Jaadugari",
       "url": "https://open.spotify.com/track/01JcMZVoGUIWpCacWTiJzb"
@@ -12462,7 +12462,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 198000,
       "name": "Kabhi Kabhi",
       "url": "https://open.spotify.com/track/6mh140yXGpf0ABlVna1out"
@@ -12880,6 +12880,28 @@
       "duration_ms": 302448,
       "name": "Kahin Duur",
       "url": "https://open.spotify.com/track/23tYMxghqCY59uRIAjlG7l"
+    },
+    {
+      "album": {
+        "name": "Kahin Tu Na Miljaye",
+        "url": "https://open.spotify.com/album/7BBALn5JA31ve0aOZ3g46x"
+      },
+      "artists": [
+        {
+          "name": "Aalia",
+          "url": "https://open.spotify.com/artist/5JXRLytkmf5esR8R53rCsX"
+        },
+        {
+          "name": "Taushif",
+          "url": "https://open.spotify.com/artist/4gXJ5jDOyZzgffB0mYvsTe"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159124,
+      "name": "Kahin Tu Na Miljaye",
+      "url": "https://open.spotify.com/track/43jTl5p22uBHHcoanmSkKT"
     },
     {
       "album": {
@@ -13542,6 +13564,28 @@
       "duration_ms": 197694,
       "name": "Khilte Rang",
       "url": "https://open.spotify.com/track/6jsoaskE0wunyXLpHriyEz"
+    },
+    {
+      "album": {
+        "name": "Kho Diya",
+        "url": "https://open.spotify.com/album/08psDftns5sdAs4om31tQr"
+      },
+      "artists": [
+        {
+          "name": "Shreya Karmakar",
+          "url": "https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188624,
+      "name": "Kho Diya",
+      "url": "https://open.spotify.com/track/7b60nLq36aLOEa8L59EiFW"
     },
     {
       "album": {
@@ -16787,6 +16831,28 @@
     },
     {
       "album": {
+        "name": "Meherbaani",
+        "url": "https://open.spotify.com/album/0OjfueDr2PMEmVQKnOcp0t"
+      },
+      "artists": [
+        {
+          "name": "Ana Rehman",
+          "url": "https://open.spotify.com/artist/3GeB4PeRfwhRaI1Xtu7FIH"
+        },
+        {
+          "name": "Shubham Shirule",
+          "url": "https://open.spotify.com/artist/6beOaVvPVwBvJMHZZox3p1"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230769,
+      "name": "Meherbaani",
+      "url": "https://open.spotify.com/track/16IYJ654HjAMm2PrRwsBq8"
+    },
+    {
+      "album": {
         "name": "Mehfooz",
         "url": "https://open.spotify.com/album/4y89N3iftKKreHCzggeuN3"
       },
@@ -17775,6 +17841,28 @@
     },
     {
       "album": {
+        "name": "Muntazir",
+        "url": "https://open.spotify.com/album/2HdvtYUq8gRzYbVOGMJiAW"
+      },
+      "artists": [
+        {
+          "name": "Jigyans Ranjan",
+          "url": "https://open.spotify.com/artist/2t6fXzeE2Q8ujHLDswv6fc"
+        },
+        {
+          "name": "Trivara",
+          "url": "https://open.spotify.com/artist/3tk4VR5XP8dzhcUk82PyB7"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Muntazir",
+      "url": "https://open.spotify.com/track/1i5yHXuibJJA3hCWLeGx65"
+    },
+    {
+      "album": {
         "name": "Muraad",
         "url": "https://open.spotify.com/album/6J27YZ11yoPf6a0QRclhUf"
       },
@@ -18156,6 +18244,24 @@
       "duration_ms": 255000,
       "name": "Naarazgi",
       "url": "https://open.spotify.com/track/5C9md2m1njkFbtIB8dvVE6"
+    },
+    {
+      "album": {
+        "name": "Naazneena",
+        "url": "https://open.spotify.com/album/5cIDcaKViriXLkNHATwpDD"
+      },
+      "artists": [
+        {
+          "name": "Rohit Saini",
+          "url": "https://open.spotify.com/artist/4BAVbqy1qWTZqwYHk2wWPy"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170007,
+      "name": "Naazneena",
+      "url": "https://open.spotify.com/track/3W8CsjDs5roVwMxujwtgR2"
     },
     {
       "album": {
@@ -20138,7 +20244,7 @@
       ],
       "date_added": "2024-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 141715,
       "name": "Piya",
       "url": "https://open.spotify.com/track/5iacz50wp5ncLjr8w9ZZ5T"
@@ -20526,7 +20632,7 @@
       ],
       "date_added": "2024-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 215217,
       "name": "Raaton Ki",
       "url": "https://open.spotify.com/track/5nh4AHjPg9kqruzdR2vHrq"
@@ -22113,6 +22219,32 @@
     },
     {
       "album": {
+        "name": "Safar Mein Gum",
+        "url": "https://open.spotify.com/album/5VzHuszHn4ddVlQVgPMWK1"
+      },
+      "artists": [
+        {
+          "name": "Sarthak Kalyani",
+          "url": "https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh"
+        },
+        {
+          "name": "PALAK",
+          "url": "https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI"
+        },
+        {
+          "name": "Srijan",
+          "url": "https://open.spotify.com/artist/7vIDfRXA8FiC6FRXW8eNUh"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256144,
+      "name": "Safar Mein Gum",
+      "url": "https://open.spotify.com/track/2moDzBvxxv9Ysq2cX8ItXf"
+    },
+    {
+      "album": {
         "name": "Safed",
         "url": "https://open.spotify.com/album/5q2Nfy4E68vJg2f8dwxftk"
       },
@@ -23066,6 +23198,24 @@
       "duration_ms": 232200,
       "name": "Shaamil",
       "url": "https://open.spotify.com/track/6UA8XUspm00dmSWR79pVzy"
+    },
+    {
+      "album": {
+        "name": "Shadows And Smoke",
+        "url": "https://open.spotify.com/album/12KAEirM9Wo9lumkqaeaK4"
+      },
+      "artists": [
+        {
+          "name": "Rizwan Shakir",
+          "url": "https://open.spotify.com/artist/2NI1LUvwQOLJ7JtlWPBETo"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281142,
+      "name": "Shadows And Smoke",
+      "url": "https://open.spotify.com/track/2dQdlmMlteW6ZXM1d9nJ1E"
     },
     {
       "album": {
@@ -24044,6 +24194,24 @@
       "duration_ms": 237473,
       "name": "Sukoon",
       "url": "https://open.spotify.com/track/1Qdw8KCUZzWA1dmVznO3GQ"
+    },
+    {
+      "album": {
+        "name": "Sukoon Miley",
+        "url": "https://open.spotify.com/album/2P7uByZozP3hpinNf9yl1y"
+      },
+      "artists": [
+        {
+          "name": "Atul Gupta",
+          "url": "https://open.spotify.com/artist/6oBR9IHSypECG3HX96270k"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210566,
+      "name": "Sukoon Miley",
+      "url": "https://open.spotify.com/track/3ZlPYPV0s8kyqLWkP3bwMl"
     },
     {
       "album": {

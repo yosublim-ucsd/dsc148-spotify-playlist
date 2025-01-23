@@ -8239,6 +8239,24 @@
     },
     {
       "album": {
+        "name": "Unfinished",
+        "url": "https://open.spotify.com/album/5SwuDGKMqebn7tRnrNQPKg"
+      },
+      "artists": [
+        {
+          "name": "Coeur",
+          "url": "https://open.spotify.com/artist/6YhMR3gGjIbtHlskODqCUd"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141875,
+      "name": "Unfinished",
+      "url": "https://open.spotify.com/track/5WOo4d8DeMEBPLdIN3sMiX"
+    },
+    {
+      "album": {
         "name": "Unsaid",
         "url": "https://open.spotify.com/album/0jjcbJZ3TJUtcumgWefAhD"
       },

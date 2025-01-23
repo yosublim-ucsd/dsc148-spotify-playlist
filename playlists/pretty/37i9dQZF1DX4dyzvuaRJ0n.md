@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4dyzvuaRJ0n.md) - [plain]
 
 > The world's biggest dance & electronic hits\. Cover: John Summit
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,808,185 likes - 77 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,808,071 likes - 77 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

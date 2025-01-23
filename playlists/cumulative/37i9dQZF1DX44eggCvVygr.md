@@ -4,7 +4,7 @@
 
 > Some heists, like some love stories, are irresistible\. Listen to the music from La Casa de Papel and Berlin, now streaming on Netflix.
 
-132 songs - 7 hr 36 min
+133 songs - 7 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Forever Young](https://open.spotify.com/track/3tFECpGckFpp0HpQje78gi) | [Youth Group](https://open.spotify.com/artist/51K48NCxjB11t9eqUWWoIq) | [Casino Twilight Dogs](https://open.spotify.com/album/7JgWdCGMBwJkYb91oiFzxd) | 3:59 | 2023-12-29 |  |
 | [Fuego](https://open.spotify.com/track/5g4ysKgg6wXnolLqkL3J1S) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Blow Up](https://open.spotify.com/album/3aeeG2HTc5r2AH1O364798) | 4:38 | 2021-08-26 |  |
 | [Get Up I Feel Like Being Like A Sex Machine, Pts\. 1 & 2](https://open.spotify.com/track/6hpmTwgNCz81H2bFEREx29) | [James Brown](https://open.spotify.com/artist/7GaxyUddsPok8BuhxN6OUW), [The Original J.B.s](https://open.spotify.com/artist/4GwjLszGqU37HqCgpBNPoU) | [70's Funk Classics](https://open.spotify.com/album/2qHJQ1SqVTUfN93ovRHjZc) | 5:18 | 2021-12-03 |  |
+| [Grândola Vila Morena \(Original Soundtrack of The Netflix Series "La Casa de Papel"\) \- Requiem Version](https://open.spotify.com/track/6qvTz9xdWML3Nl39A40eE6) | [Cecilia Krull](https://open.spotify.com/artist/4SLEmV2rAQ71Ts0qyDGhE8), [Pablo Alborán](https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50) | [Grândola Vila Morena \(Original Soundtrack of The Netflix Series "La Casa de Papel"\)](https://open.spotify.com/album/0q6dt9l9N0oQxWHjwr1lja) | 3:38 | 2025-01-22 |  |
 | [Guajira guantanamera](https://open.spotify.com/track/2Vy9F0mp0gcj9NxzfVDcQm) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Coleccion](https://open.spotify.com/album/4JnzA5hRujlF3yG3OeOltp) | 5:12 | 2021-12-03 |  |
 | [Guajira guantanamera \- Remasterizado](https://open.spotify.com/track/5shBL8dU0l3bfZvHrx1rQu) | [Compay Segundo](https://open.spotify.com/artist/2wpr4ILskkRzPBGodmbMs1) | [Guantanamera \- The Essential Album](https://open.spotify.com/album/4W6m2GSdqjaJET161icuDU) | 5:11 | 2021-08-26 |  |
 | [Harlem Shuffle](https://open.spotify.com/track/43pmIYPHMSKBLyMNoPLyRm) | [The Foundations](https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD) | [Build Me Up Buttercup](https://open.spotify.com/album/0AFXSZYiYyggIkcYW5GK0x) | 3:10 | 2021-08-26 |  |

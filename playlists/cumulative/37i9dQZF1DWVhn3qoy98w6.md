@@ -4,7 +4,7 @@
 
 > Solo artistas independientes, actualizada todos los miércoles. Foto: airu.
 
-5,950 songs - 12 day 15 hr 48 min
+5,951 songs - 12 day 15 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -5477,6 +5477,7 @@
 | [Tutoriales de Amor](https://open.spotify.com/track/51Czqib2kDMgNyjUGv4aqF) | [Agus Contreras](https://open.spotify.com/artist/50ENLjdaCeZznlFIeGdemw) | [Tutoriales de Amor](https://open.spotify.com/album/0uL4GZA4RZ1Pt9wgMKBQOx) | 3:42 | 2023-02-14 | 2023-02-22 |
 | [TUYO](https://open.spotify.com/track/7hjS41EFpNKR4p6iK44IZD) | [Halley](https://open.spotify.com/artist/4v9zst7kVftfvbKuKAfBhq), [Scotty DK](https://open.spotify.com/artist/0gOjPKtrlU8B7w11OkbYdo) | [TUYO](https://open.spotify.com/album/5PvUQzVs5o0URmbAN8TWS8) | 2:56 | 2023-06-06 | 2024-01-03 |
 | [Twriste](https://open.spotify.com/track/5SKqN3RN9qyDpaTflnV0cg) | [Tristicis](https://open.spotify.com/artist/3ZEgN3zPoACzAarGKxjla9) | [Twriste](https://open.spotify.com/album/6cJ1sNhzK4YS2u8ukOpAsm) | 2:44 | 2023-11-01 | 2023-11-08 |
+| [Txan Txan](https://open.spotify.com/track/0H8NIubRO0KOWi6oeOD2uP) | [Ku!](https://open.spotify.com/artist/7kx4gR61QqGy1RCrbaxr9n) | [Ku!](https://open.spotify.com/album/6tLx7VLK0NEMpdbE0VctyB) | 4:08 | 2025-01-22 |  |
 | [Txin Txin](https://open.spotify.com/track/48KlcD8Jx0Yf6hoJPjgO26) | [Mirua](https://open.spotify.com/artist/5cGJXI0gJt3pNQvTshgu3d) | [Txin Txin](https://open.spotify.com/album/2W9dwzwOyT1T9z7JIpKxg3) | 2:21 | 2022-09-27 | 2023-01-04 |
 | [txori bat hiru ate](https://open.spotify.com/track/5bIRR57j1PaXa4dWCnAMuE) | [Silitia](https://open.spotify.com/artist/3oRKmMVoejh0XisceSDKbK) | [txori bat hiru ate](https://open.spotify.com/album/3qYrK8j8Xm64Bt2HJFqsrz) | 3:26 | 2023-06-13 | 2023-06-21 |
 | [TXORIA TXORI](https://open.spotify.com/track/4spH64QYcaHz1vRYiVfC0M) | [BRAVA](https://open.spotify.com/artist/3O2c7Rx1wcqMVkq9pZn4WZ) | [TXORIA TXORI](https://open.spotify.com/album/6xI0mPPppgDAECk83Sw84Y) | 3:54 | 2023-02-21 | 2023-03-01 |

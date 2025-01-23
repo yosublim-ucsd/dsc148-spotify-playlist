@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain]
 
 > アニメ「デッドデッドデーモンズデデデデデストラクション」の世界を彩る楽曲をプレイリストで。Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
 
-[Spotify](https://open.spotify.com/user/spotify) - 843 likes - 29 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 848 likes - 29 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [SHINSEKAIより](https://open.spotify.com/track/2H81CeDQKNHlZ1fMZ9rLD8) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [SHINSEKAIより](https://open.spotify.com/album/6IJlALPxn9Hr3yT8sELI93) | 3:34 |
-| 2 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
-| 3 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
+| 1 | [SHINSEKAIより](https://open.spotify.com/track/2H81CeDQKNHlZ1fMZ9rLD8) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [SHINSEKAIより](https://open.spotify.com/album/6IJlALPxn9Hr3yT8sELI93) | 3:34 |
+| 2 | [絶絶絶絶対聖域](https://open.spotify.com/track/3n4p9wJEgt4szBc92wPwmu) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [絶絶絶絶対聖域](https://open.spotify.com/album/0qsnfQzcoZgycLGjJ9zKom) | 3:33 |
+| 3 | [青春謳歌 \(feat.ano\)](https://open.spotify.com/track/5N6DFXriMN64kM62mpk9uc) | [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z), [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z) | [青春謳歌 \(feat.ano\)](https://open.spotify.com/album/4szJowsqkuvKbBwZG9rYQG) | 3:47 |
 | 4 | [あした地球がこなごなになっても](https://open.spotify.com/track/2uFb5tGXFTxNj0G6TmDAXz) | [Dempagumi.Inc](https://open.spotify.com/artist/2jAtwNClGACPlYgR1QFAIq) | [あした地球がこなごなになっても](https://open.spotify.com/album/0YOjUEuvJgFDUwQb5T6UmA) | 4:08 |
 | 5 | [Chime](https://open.spotify.com/track/7qbkYGYOlcfkRWizJxBm7n) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 1:42 |
 | 6 | [Clock](https://open.spotify.com/track/5FiLoxD0ykpEbkVoUqfpSX) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:11 |
@@ -36,6 +36,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain]
 | 26 | [Operation](https://open.spotify.com/track/6nMjetqYLJx71cS0PgKRLM) | [清竹真奈美](https://open.spotify.com/artist/6ORXZoI8RosHugfFAVutVr) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:23 |
 | 27 | [Backyard](https://open.spotify.com/track/16CJ2UNHf1TlkF04YK5DzK) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:53 |
 | 28 | [Decision](https://open.spotify.com/track/6Ht9jO1iw6pJuIfWYjqNDK) | [yuma yamaguchi](https://open.spotify.com/artist/4k0moLthcxudxdBCI3SUb8) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:37 |
-| 29 | [SHINSEKAIより](https://open.spotify.com/track/53ykDpqYivf63Xk6WL0J3r) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas Ikuta](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 3:34 |
+| 29 | [SHINSEKAIより](https://open.spotify.com/track/53ykDpqYivf63Xk6WL0J3r) | [ano](https://open.spotify.com/artist/7Il739Q5W4yJUYC3hfnX6z), [Lilas](https://open.spotify.com/artist/1qM11R4ylJyQiPJ0DffE9z) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 3:34 |
 
 Snapshot ID: `Z24oowAAAAB4k5WdukuaIJpzkjW8O1/d`

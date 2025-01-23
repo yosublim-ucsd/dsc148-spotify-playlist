@@ -4,7 +4,7 @@
 
 > Hypnotic bliss.
 
-428 songs - 21 hr 50 min
+430 songs - 21 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [A Lotus Life](https://open.spotify.com/track/6X2WDWzucPkXOaRm7LjSjn) | [Oceanic Voices](https://open.spotify.com/artist/7o32uxPankXm8auPdLuXE2) | [A Lotus Life](https://open.spotify.com/album/55XiQKhbIIjBT1zQYFQAjX) | 3:10 | 2024-12-17 |  |
 | [A Whole New Way](https://open.spotify.com/track/7Ib9ypPaial7Mm2atMDIH4) | [Orion Dreamwalker](https://open.spotify.com/artist/3tesBuyrrVqSoGUa5EoxzS) | [A Whole New Way](https://open.spotify.com/album/5sWxG6icfsN1mIxGaSiYA1) | 2:36 | 2025-01-21 |  |
 | [Aarshedh](https://open.spotify.com/track/5Y6o3Nq4bKwMovfImGrgpP) | [Alm Bark](https://open.spotify.com/artist/5nWf0HFYDtFvizyAsKJZNG) | [Peaceful Binaural](https://open.spotify.com/album/5M1CSEAJN5d8N9RxinRRPo) | 3:53 | 2022-04-13 | 2022-04-21 |
+| [Ability](https://open.spotify.com/track/0tz2jp39ouKc8jnLXU0ffR) | [Endless Voyager](https://open.spotify.com/artist/15TXDkpu2tSyiy77G5ckRa) | [Ability](https://open.spotify.com/album/1rdtDpNPifzFMCGt3Z2sjM) | 2:43 | 2025-01-21 |  |
 | [Aeterna](https://open.spotify.com/track/5PFe4q5VmBRaYUnXSeZ6EX) | [Luna Novina](https://open.spotify.com/artist/227rzkBWqh9SVDdgzPrw38) | [Aeterna](https://open.spotify.com/album/1qlIcbSfHK3qmZUgT2vADm) | 3:08 | 2024-01-17 | 2024-02-08 |
 | [Aeternus](https://open.spotify.com/track/7ozdMt4x3HywrwfUsEedpg) | [Sonic Waterfall](https://open.spotify.com/artist/3dYazD43M85TR46lQcHzyO) | [Aeternus](https://open.spotify.com/album/2SvMuspR1gsSRlcAe9ksad) | 3:06 | 2024-01-17 |  |
 | [Aether Talk](https://open.spotify.com/track/6Av8cijBWCaJtAGAuAr5s6) | [Mei Wyatt](https://open.spotify.com/artist/3dlas5ivLc1UoaGKlWz7ak) | [Aether Talk](https://open.spotify.com/album/3cARiEXphXSJtlU63ttYuC) | 2:52 | 2022-04-13 |  |
@@ -158,7 +159,7 @@
 | [Everything Shall Pass](https://open.spotify.com/track/1MZD1xymIhOOcS6GyPkfz4) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Everything Shall Pass](https://open.spotify.com/album/0wjXJtRyhXb7ZM5TNqgjJ3) | 3:28 | 2022-01-12 | 2023-03-15 |
 | [Evolving](https://open.spotify.com/track/3unVls9LCPxpXOOKcVzGBA) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Evolving](https://open.spotify.com/album/0owGtGnRMtKo3SbbQoungc) | 3:14 | 2022-12-09 | 2025-01-22 |
 | [Evolving Dreams](https://open.spotify.com/track/6S7jmC7dXIyguhgUWsQBzI) | [Life Flows](https://open.spotify.com/artist/5YqVHlI6MomKuf0q8XUnhE) | [Deep Sleep](https://open.spotify.com/album/7Df9gsUsfzFNqTxwEpTUhg) | 3:36 | 2022-01-12 | 2023-07-29 |
-| [Eyes Closed](https://open.spotify.com/track/5vgiScEWEa7AVxu6Q7Rmmm) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Eyes Closed](https://open.spotify.com/album/5ThyCkeaaYKTizePiQsoNs) | 2:28 | 2024-05-20 |  |
+| [Eyes Closed](https://open.spotify.com/track/5vgiScEWEa7AVxu6Q7Rmmm) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Eyes Closed](https://open.spotify.com/album/5ThyCkeaaYKTizePiQsoNs) | 2:28 | 2024-05-20 | 2025-01-23 |
 | [Falleg](https://open.spotify.com/track/7Bbe8uzyDk0116JNAQchFN) | [Arnkatla](https://open.spotify.com/artist/66neAkEGsYZ4onMSMHMSbC) | [Falleg](https://open.spotify.com/album/3JJ73fI9i4yPREvaTcvPiv) | 2:15 | 2023-07-28 | 2024-05-22 |
 | [Falling Leaves](https://open.spotify.com/track/17dcWX6eiecq3XqErZT7ea) | [Relax Yourself](https://open.spotify.com/artist/1oXaoCbLY1YghAsNg046iY), [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX) | [Falling Leaves](https://open.spotify.com/album/7D0sXnzyjZ4nVof7Qm1MF4) | 2:19 | 2024-02-27 | 2024-09-15 |
 | [Fantastical](https://open.spotify.com/track/1QX9Fz6OXoTjHxs3hkwNkw) | [Rainbow Rise](https://open.spotify.com/artist/7nqV0p65fl1bNXeSuTQxOd) | [Majestic](https://open.spotify.com/album/624aXTR4dUoP9dVfUAoryG) | 4:05 | 2022-01-12 | 2024-01-18 |
@@ -196,6 +197,7 @@
 | [Here](https://open.spotify.com/track/39OcBhQNIyodpgt9OEPE1K) | [Both Are Infinite](https://open.spotify.com/artist/50DApFni8RZH3HKbCTgjve) | [Here](https://open.spotify.com/album/7JU3DbNEFTXHjJWSt7Vpwa) | 3:01 | 2024-02-07 |  |
 | [Hidden Valley](https://open.spotify.com/track/7L1Q7yKHRHZ2dQFr1jjhTn) | [neon cosmo](https://open.spotify.com/artist/5JJlwfHP7R3sSWfrDn4FOV) | [Hidden Valley](https://open.spotify.com/album/1xMahjlI61f6O6DBDFPfP3) | 2:58 | 2024-07-09 |  |
 | [Hiraeth](https://open.spotify.com/track/6Zv0JYbFJhOG0thnaGBIGW) | [Aiden Gaarder](https://open.spotify.com/artist/5Ke2xVrUo5hNYxTp5fx5XS) | [Painted Illusions](https://open.spotify.com/album/1BYyelIMINe2CIEMMzzRNS) | 3:00 | 2023-03-31 |  |
+| [Holiness](https://open.spotify.com/track/5HbCW6ZtyoCWv56ElYFesJ) | [Now & Anatma](https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9) | [Holiness](https://open.spotify.com/album/0Qqejlypvxo1ENnpyTtzkK) | 2:57 | 2025-01-21 |  |
 | [Hollow Shells](https://open.spotify.com/track/1EgWZkH5xIMi6YOjRUHO08) | [Ocean Island](https://open.spotify.com/artist/0f9HBAQocERwVLxEshZ1dO) | [Hollow Shells](https://open.spotify.com/album/2vyTb5WXM7Yv7UiggjtxgR) | 4:15 | 2022-01-12 | 2023-07-29 |
 | [I Promise](https://open.spotify.com/track/1XH3miXC6EsroQKHct8ygN) | [Gary Koepp](https://open.spotify.com/artist/03b5zfYHJxK8v6IpTnVUlX) | [I Promise](https://open.spotify.com/album/2o2U7cZ6PCZMe1nGR6ZDH1) | 3:23 | 2022-01-19 | 2023-03-05 |
 | [I Remember the Tide](https://open.spotify.com/track/2saDph8PGXLQyVBNIgDdsJ) | [snowfx](https://open.spotify.com/artist/7qEljPmXqZJgrnV3SV7Kyd) | [Sol III](https://open.spotify.com/album/5iuAYld49EAB0vZqXBFt4m) | 1:38 | 2022-01-12 | 2022-03-19 |
@@ -363,7 +365,7 @@
 | [Sobre las Nubes](https://open.spotify.com/track/6FJXxbDwCd0ufovPFEt5Gl) | [Tormenta Solar](https://open.spotify.com/artist/5ibyrj4IdKuiv4huscZSuY) | [Sobre las Nubes](https://open.spotify.com/album/56tWtRQgQUYB8gJmomGrZS) | 2:57 | 2022-09-30 |  |
 | [Sogniare](https://open.spotify.com/track/2lRlv6866bap5dTst95GoN) | [Darmian Coté](https://open.spotify.com/artist/79EfJQ6cOqIfLPuply0JCl) | [Sogniare](https://open.spotify.com/album/250bxUmKSymaXoTLqS2JVK) | 4:16 | 2024-05-20 |  |
 | [Solar Plexus 528 Hz](https://open.spotify.com/track/4KDNgNpc0O2AcWhFQKrjpy) | [Stardust Waves](https://open.spotify.com/artist/3K1Lkycummq31rCDkrnZPv) | [Solar Plexus 528 Hz](https://open.spotify.com/album/2Ko0m904fdmXjFDMBFHI1i) | 3:00 | 2024-04-05 |  |
-| [Solfeggio Purity 741 Hz](https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Purity 741 Hz](https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez) | 2:55 | 2023-07-28 |  |
+| [Solfeggio Purity 741 Hz](https://open.spotify.com/track/5O7JwuPids8tmFpaUf0JIj) | [Zephyrical](https://open.spotify.com/artist/35kdbaWQLDJudwBytHuiyW) | [Solfeggio Purity 741 Hz](https://open.spotify.com/album/4gsu0nZO0fIRK31qKSu9Ez) | 2:55 | 2023-07-28 | 2025-01-23 |
 | [Sonar Light](https://open.spotify.com/track/4odbTZUw8sqfkz0Aor84DV) | [Jianwu](https://open.spotify.com/artist/15UcWbG8WJ71qSwgeOU4XO) | [Sonar Light](https://open.spotify.com/album/1HMquYwpOmvSvYpxXvvolE) | 3:03 | 2024-05-20 |  |
 | [Soulful Solitude](https://open.spotify.com/track/7jQjXE5ZsOpzeY8lhP8oQA) | [Fresh Inclinations](https://open.spotify.com/artist/0THmB0GAXHP7bJEB3XqT7c) | [Soulful Solitude](https://open.spotify.com/album/6TVn9amY9rhwaPYKisSE1V) | 2:36 | 2024-07-15 |  |
 | [Source of Wind](https://open.spotify.com/track/0T07s204fGJju5AXG66q9T) | [Kazuhiro Hotaru](https://open.spotify.com/artist/6E4AAQrnf9tTnO5V4okE2W) | [Amulet](https://open.spotify.com/album/2GQEOYKfnufvPkchfeRukl) | 3:05 | 2022-01-12 | 2024-05-21 |

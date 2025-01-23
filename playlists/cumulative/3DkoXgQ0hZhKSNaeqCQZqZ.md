@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-272 songs - 14 hr 29 min
+273 songs - 14 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -142,6 +142,7 @@
 | [long day 2](https://open.spotify.com/track/4PjvvNoOtCZ9u9tJ5fF4XI) | [coyote2](https://open.spotify.com/artist/4Z7lH9tao4LFolgvY9GrIX) | [6 Swords of Mercury](https://open.spotify.com/album/6l3U77QIrjjQj4ZZ5moEAG) | 1:39 | 2024-05-28 |  |
 | [LOVESICK](https://open.spotify.com/track/03JIcQe4Z1te3Ct7gXDYk2) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [LOVESICK](https://open.spotify.com/album/6MwQkbIxD6S2H8bB3gTsT0) | 4:10 | 2024-01-01 |  |
 | [Luminescence](https://open.spotify.com/track/01KKxCYHCrDcZFKBVjetA1) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [Luminescence](https://open.spotify.com/album/7388HtbFiyP6xAxvTIipQz) | 4:25 | 2024-01-23 |  |
+| [Machine](https://open.spotify.com/track/5X54QkuP6fAl4Md1Y6w0KA) | [YxFF](https://open.spotify.com/artist/1b0psFpEdHE7zeAIqvIefQ), [{ELSEIF}](https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg) | [Machine](https://open.spotify.com/album/3k2Q3paKzUN39DxZWWgqyD) | 2:43 | 2025-01-23 |  |
 | [Magnum Bullets a Capella Cover](https://open.spotify.com/track/4Oa61kTQkO1nRKMMUPZhuD) | [Danno GSD](https://open.spotify.com/artist/7IxyIbKvSUVyq6SvJ1Z3GN) | [Magnum Bullets a Capella Cover](https://open.spotify.com/album/3t4UwCpzhX46v1GqBNuNpS) | 3:56 | 2023-08-10 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/67B3YH3qezACMExwDEn93L) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo) | [MAKE BELIEVE](https://open.spotify.com/album/6R5q0bJAGn4MizUfbiEGL8) | 2:08 | 2024-09-24 |  |
 | [MAKE BELIEVE](https://open.spotify.com/track/18w8b0tvqJyUGRb3O2Vice) | [Mek\-9](https://open.spotify.com/artist/1hwHio6WU1HAhrevPbEqTQ), [Kazumi](https://open.spotify.com/artist/4mkTeXc0HFXcXFItgDMXak), [Hayden](https://open.spotify.com/artist/2JYPMgBbY6Or8BI27GV1YN) | [MAW OFF](https://open.spotify.com/album/3xiaksDxR2jk6ztHhrSTJI) | 4:54 | 2024-07-22 |  |

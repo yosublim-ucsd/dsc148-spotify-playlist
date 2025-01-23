@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0nWt7RisY0ovBXztrbCyiV">Sia</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,033 likes - 330 songs - 20 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,035 likes - 330 songs - 20 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -324,8 +324,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 314 | [Pulls You Under](https://open.spotify.com/track/6HSfAaihnNvfIzqHsSfd2I) | [Kate Pierson](https://open.spotify.com/artist/3qE0gnM1Y16ZdniN0nkLgD) | [Guitars and Microphones](https://open.spotify.com/album/6hQa2Rryj0F0QrsmqmhCYe) | 3:24 |
 | 315 | [Firefly](https://open.spotify.com/track/67hjL0408LCGQGvcgxh2UW) | [Barney McAll](https://open.spotify.com/artist/1FC0psUheo5L2kUtj53MF9), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Invenio Choir](https://open.spotify.com/artist/1iq3UGbxfOvSlEEfDH3qlT) | [Graft](https://open.spotify.com/album/7mKSCnRfLedDXONasya39G) | 4:37 |
 | 316 | [Jungle](https://open.spotify.com/track/6c7I2E1KYkOqeHOi5SMJ77) | [Twonot](https://open.spotify.com/artist/1iNEd69hq7KnjEEgW8bz26) | [4 DJ: UnDiscovered Weekly \#66](https://open.spotify.com/album/4SF2wQiemO3IBBefwyxaEX) | 5:52 |
-| 317 | [Losing You](https://open.spotify.com/track/5SZuPkpxwgoP2pgxI76Z6Y) | [Love Hits](https://open.spotify.com/artist/4OGYWMUEByPvHnXdjSVDhB) | [Love Songs Now](https://open.spotify.com/album/6xZy4c6pJEqnQaXbHUI108) | 3:00 |
-| 318 | [Sóc de Titani \- Titanium](https://open.spotify.com/track/4AfD1g69gUYC2TekIIF21a) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Sóc de Titani \(Titanium\)](https://open.spotify.com/album/7HI1HOsUFRUoFlNyiWfTn0) | 3:12 |
+| 317 | [Sóc de Titani \- Titanium](https://open.spotify.com/track/4AfD1g69gUYC2TekIIF21a) | [Edurne](https://open.spotify.com/artist/1RpT4SSsNAr0JaSvvwNkgh) | [Sóc de Titani \(Titanium\)](https://open.spotify.com/album/7HI1HOsUFRUoFlNyiWfTn0) | 3:12 |
+| 318 | [Losing You](https://open.spotify.com/track/5SZuPkpxwgoP2pgxI76Z6Y) | [Love Hits](https://open.spotify.com/artist/4OGYWMUEByPvHnXdjSVDhB) | [Love Songs Now](https://open.spotify.com/album/6xZy4c6pJEqnQaXbHUI108) | 3:00 |
 | 319 | [Unstoppable \(Winner\)](https://open.spotify.com/track/5REbtP9VVeEZjbtoPfZKi5) | [Nicholson](https://open.spotify.com/artist/7ak5W5CiG11tI24HVUJlqw), [Elle Mariachi](https://open.spotify.com/artist/16GJH7ZlDVulpvX4jJrnfY) | [Unstoppable \(Winner\)](https://open.spotify.com/album/0Q4LMMEqjbYBamGbs9ovbE) | 3:48 |
 | 320 | [Blame It On the Radio](https://open.spotify.com/track/0FS4cFiS05fzihSTZy4Xej) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [The Girl You Lost](https://open.spotify.com/album/1cOQ4Jc5MCUMvycbFCl5Si) | 2:30 |
 | 321 | [Up](https://open.spotify.com/track/2DmrjeW34yN2azsE2Xwj1p) | [Slum Village](https://open.spotify.com/artist/1020a42xVklY6c56imNcaa), [B\. R\. Gunna](https://open.spotify.com/artist/6YIllbHGkgifcCut5A6Nrl), [Fat Ray](https://open.spotify.com/artist/7tjfWNXhMsf8G6WosK2hy2) | [Prequel to a Classic](https://open.spotify.com/album/7dSFl29aOSj3rq0fiBH2R5) | 2:47 |
@@ -339,4 +339,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEcu2flypD4F.md) - [plain]
 | 329 | [How To Breathe](https://open.spotify.com/track/25NMllQ3Ww9gVZ0BvQUisZ) | [Christine Grünert](https://open.spotify.com/artist/6O3FOxYpUH7Hs6h3QWdGmE) | [How To Breathe](https://open.spotify.com/album/1w6AR2pem7fuleqHhaJSE7) | 3:29 |
 | 330 | [Cut To The Chase](https://open.spotify.com/track/5Ci2h6Xg4Z6WULbttzd6VB) | [Greg Kurstin](https://open.spotify.com/artist/2sWf9Tj6EsTxURcgil3NTG) | [Annie \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2aBT9pL5XZXmGB5gR9QQUo) | 2:52 |
 
-Snapshot ID: `AbnfVgAAAACPAGEcEQKN/8rSQrmUljP4`
+Snapshot ID: `Abnk9gAAAADHid5urQXIg9Pwjt1DD/Ag`

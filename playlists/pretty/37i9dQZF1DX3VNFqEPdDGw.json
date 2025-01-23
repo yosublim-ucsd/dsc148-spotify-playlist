@@ -1,6 +1,6 @@
 {
   "description": "Bhangra is our pride, Bhangra is our culture. Cover: Sharry Maan",
-  "num_followers": 185841,
+  "num_followers": 185884,
   "original_name": "Bhangra Bangers",
   "owner": {
     "name": "Spotify",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
+        "name": "Lala Lala",
+        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
+      },
+      "artists": [
+        {
+          "name": "SABBA",
+          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
+        }
+      ],
+      "duration_ms": 156103,
+      "name": "Lala Lala",
+      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
         "name": "Bhadauria",
         "url": "https://open.spotify.com/album/2l2IZm9oxJEOnzQRONl3h0"
       },
@@ -823,22 +839,6 @@
       "duration_ms": 192500,
       "name": "Talja",
       "url": "https://open.spotify.com/track/1E4BrvZRKjcrfCkQS1iDfj"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
-        "name": "Lala Lala",
-        "url": "https://open.spotify.com/album/7HnJnv2r43VyQKBAtWChVA"
-      },
-      "artists": [
-        {
-          "name": "SABBA",
-          "url": "https://open.spotify.com/artist/7tardcybPTgbQgPKAvydh8"
-        }
-      ],
-      "duration_ms": 156103,
-      "name": "Lala Lala",
-      "url": "https://open.spotify.com/track/54ZQ2j0hUi3pMyGAVCnswr"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -911,22 +911,6 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
-        "name": "Majha Block",
-        "url": "https://open.spotify.com/album/284tuekFOZ6066Schm1gE7"
-      },
-      "artists": [
-        {
-          "name": "Prem Dhillon",
-          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
-        }
-      ],
-      "duration_ms": 249290,
-      "name": "Majha Block",
-      "url": "https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
         "name": "XPENSIVE",
         "url": "https://open.spotify.com/album/6uYJ79s2t3NPe3Mkyb33oZ"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 170342,
       "name": "SUPREME",
       "url": "https://open.spotify.com/track/5nUAZKw9lVbhKfWvWc5hFm"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
+        "name": "Majha Block",
+        "url": "https://open.spotify.com/album/284tuekFOZ6066Schm1gE7"
+      },
+      "artists": [
+        {
+          "name": "Prem Dhillon",
+          "url": "https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H"
+        }
+      ],
+      "duration_ms": 249290,
+      "name": "Majha Block",
+      "url": "https://open.spotify.com/track/3CPvL9ehmERejt7b5RvVAY"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -999,26 +999,6 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
-        "name": "Patola",
-        "url": "https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt"
-      },
-      "artists": [
-        {
-          "name": "Raf Saperra",
-          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
-        },
-        {
-          "name": "DJ Jesta",
-          "url": "https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA"
-        }
-      ],
-      "duration_ms": 240066,
-      "name": "Patola",
-      "url": "https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
         "name": "Baddlan De Kaalje (From \"Chal Mera Putt\" Soundtrack)",
         "url": "https://open.spotify.com/album/0UUv0LvI9q5axEJXTMiNqO"
       },
@@ -1043,6 +1023,26 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
+        "name": "Patola",
+        "url": "https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt"
+      },
+      "artists": [
+        {
+          "name": "Raf Saperra",
+          "url": "https://open.spotify.com/artist/182srEbrmnlFxcwkqZ0NR6"
+        },
+        {
+          "name": "DJ Jesta",
+          "url": "https://open.spotify.com/artist/7spq8uj7U7HSbg5r3hGQuA"
+        }
+      ],
+      "duration_ms": 240066,
+      "name": "Patola",
+      "url": "https://open.spotify.com/track/4UnZeL7xwGxsjdSoC2Jgne"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
         "name": "Gundagardi (\u201cDakuaan Da Munda 2\")",
         "url": "https://open.spotify.com/album/5LoEtwtK8sPH2AfRnOjfMy"
       },
@@ -1055,6 +1055,22 @@
       "duration_ms": 202340,
       "name": "Gundagardi (\u201cDakuaan Da Munda 2\")",
       "url": "https://open.spotify.com/track/6mcKuKxSM8AwZWiX3gcS4Q"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
+        "name": "Jatt Flex",
+        "url": "https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG"
+      },
+      "artists": [
+        {
+          "name": "Amrit Maan",
+          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
+        }
+      ],
+      "duration_ms": 195714,
+      "name": "Jatt Flex",
+      "url": "https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -1099,22 +1115,6 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
-        "name": "Jatt Flex",
-        "url": "https://open.spotify.com/album/2dhnvaPxxR2EUOtZpsWeWG"
-      },
-      "artists": [
-        {
-          "name": "Amrit Maan",
-          "url": "https://open.spotify.com/artist/7GgAwYJnBBFT1WogNWf0oj"
-        }
-      ],
-      "duration_ms": 195714,
-      "name": "Jatt Flex",
-      "url": "https://open.spotify.com/track/3b9H6i89wdDH2IKNcnXpt2"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
         "name": "Botal Free",
         "url": "https://open.spotify.com/album/1vei2VbuhZnaamSk1Hm5Gk"
       },
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
+        "name": "Dabde Ni",
+        "url": "https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO"
+      },
+      "artists": [
+        {
+          "name": "Ammy Virk",
+          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
+        }
+      ],
+      "duration_ms": 207662,
+      "name": "Dabde Ni",
+      "url": "https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
         "name": "Alcholic",
         "url": "https://open.spotify.com/album/2vK8de8FlB9OTiTVGl8Zxv"
       },
@@ -1175,22 +1191,6 @@
       "duration_ms": 162425,
       "name": "Daru Sambh Di",
       "url": "https://open.spotify.com/track/2ULlDmMknqnJZyf5w4s59B"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
-        "name": "Dabde Ni",
-        "url": "https://open.spotify.com/album/1236zEPDcZelmCVboTx4AO"
-      },
-      "artists": [
-        {
-          "name": "Ammy Virk",
-          "url": "https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59"
-        }
-      ],
-      "duration_ms": 207662,
-      "name": "Dabde Ni",
-      "url": "https://open.spotify.com/track/6Uiuq2p2SUXgoN8hrxvCHZ"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -1275,26 +1275,6 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
-        "name": "Chann Chann",
-        "url": "https://open.spotify.com/album/2T1OqVbSsmX0QcUrrYXriv"
-      },
-      "artists": [
-        {
-          "name": "Jordan Sandhu",
-          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
-        },
-        {
-          "name": "Zareen Khan",
-          "url": "https://open.spotify.com/artist/5YEBZ6DenMJMrwAF3qmPeN"
-        }
-      ],
-      "duration_ms": 163313,
-      "name": "Chann Chann",
-      "url": "https://open.spotify.com/track/4Q6iaeekTwBzCcbX3s4z4P"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
         "name": "Truckan Wale",
         "url": "https://open.spotify.com/album/0ZGgq6ThhhhbJhSVaL3kUx"
       },
@@ -1315,6 +1295,26 @@
       "duration_ms": 258984,
       "name": "Truckan Wale",
       "url": "https://open.spotify.com/track/7LtdzqwjhlIRBiI7FjBYmL"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
+        "name": "Chann Chann",
+        "url": "https://open.spotify.com/album/2T1OqVbSsmX0QcUrrYXriv"
+      },
+      "artists": [
+        {
+          "name": "Jordan Sandhu",
+          "url": "https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv"
+        },
+        {
+          "name": "Zareen Khan",
+          "url": "https://open.spotify.com/artist/5YEBZ6DenMJMrwAF3qmPeN"
+        }
+      ],
+      "duration_ms": 163313,
+      "name": "Chann Chann",
+      "url": "https://open.spotify.com/track/4Q6iaeekTwBzCcbX3s4z4P"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -1467,6 +1467,22 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
+        "name": "Gal Naal Laa",
+        "url": "https://open.spotify.com/album/35A1NIK2cwHBS5FMT253MV"
+      },
+      "artists": [
+        {
+          "name": "Sajjan Adeeb",
+          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+        }
+      ],
+      "duration_ms": 172142,
+      "name": "Gal Naal Laa",
+      "url": "https://open.spotify.com/track/3JaNmG23kZiW9MIj4Bpysa"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
         "name": "Jatt di Jawani",
         "url": "https://open.spotify.com/album/5s8DizqHxfJQUGSQik9O9r"
       },
@@ -1491,18 +1507,22 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
-        "name": "Gal Naal Laa",
-        "url": "https://open.spotify.com/album/35A1NIK2cwHBS5FMT253MV"
+        "name": "Poonian",
+        "url": "https://open.spotify.com/album/7LwD8POLU1k6LyvBe6VGZM"
       },
       "artists": [
         {
-          "name": "Sajjan Adeeb",
-          "url": "https://open.spotify.com/artist/10cESI2qXWXWxfkeomFOON"
+          "name": "Himmat Sandhu",
+          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
+        },
+        {
+          "name": "Ikky",
+          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
         }
       ],
-      "duration_ms": 172142,
-      "name": "Gal Naal Laa",
-      "url": "https://open.spotify.com/track/3JaNmG23kZiW9MIj4Bpysa"
+      "duration_ms": 172500,
+      "name": "Poonian",
+      "url": "https://open.spotify.com/track/7HOB9THwRvVSozGYuycMSR"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -1523,26 +1543,6 @@
       "duration_ms": 206341,
       "name": "Salama",
       "url": "https://open.spotify.com/track/6ufJkAWIc0GJN5RtnrJ3X7"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
-        "name": "Poonian",
-        "url": "https://open.spotify.com/album/7LwD8POLU1k6LyvBe6VGZM"
-      },
-      "artists": [
-        {
-          "name": "Himmat Sandhu",
-          "url": "https://open.spotify.com/artist/3wsrcGXTRAukQgXrUHJMwC"
-        },
-        {
-          "name": "Ikky",
-          "url": "https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel"
-        }
-      ],
-      "duration_ms": 172500,
-      "name": "Poonian",
-      "url": "https://open.spotify.com/track/7HOB9THwRvVSozGYuycMSR"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -1615,6 +1615,26 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Preeta",
+          "url": "https://open.spotify.com/artist/2vReVSLJlBhhBjDfRTPXM8"
+        }
+      ],
+      "duration_ms": 177500,
+      "name": "18 Lakh Da",
+      "url": "https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
         "name": "Step Up",
         "url": "https://open.spotify.com/album/3r4E0LF4sCrql6Z9TV7nNO"
       },
@@ -1635,26 +1655,6 @@
       "duration_ms": 197125,
       "name": "Gaddi",
       "url": "https://open.spotify.com/track/408tsYRN9p77OQvpWouhWj"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu"
-      },
-      "artists": [
-        {
-          "name": "Dilpreet Dhillon",
-          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
-        },
-        {
-          "name": "Preeta",
-          "url": "https://open.spotify.com/artist/2vReVSLJlBhhBjDfRTPXM8"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "18 Lakh Da",
-      "url": "https://open.spotify.com/track/7I8qYaQwnpSUqP4JQVLlpf"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -1783,26 +1783,6 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
-        "name": "Vaddi Galbaat",
-        "url": "https://open.spotify.com/album/4rfmwIjMsdG9QrCKpDYibW"
-      },
-      "artists": [
-        {
-          "name": "Gur Sidhu",
-          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 214000,
-      "name": "Vaddi Galbaat",
-      "url": "https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
         "name": "Jatti Bae",
         "url": "https://open.spotify.com/album/1mD3ho2AJpivs3CyKNdcMY"
       },
@@ -1819,6 +1799,26 @@
       "duration_ms": 157280,
       "name": "Jatti Bae",
       "url": "https://open.spotify.com/track/6o2ch5JQkaLDbDp45kXG7A"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
+        "name": "Let's Go",
+        "url": "https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu"
+      },
+      "artists": [
+        {
+          "name": "Dilpreet Dhillon",
+          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+        },
+        {
+          "name": "Balkar",
+          "url": "https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k"
+        }
+      ],
+      "duration_ms": 197708,
+      "name": "Raula",
+      "url": "https://open.spotify.com/track/3MkhH16mLlfapdzBbI5Ztg"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -1843,22 +1843,22 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
-        "name": "Let's Go",
-        "url": "https://open.spotify.com/album/327jAkV50zyTcMVyKbKlvu"
+        "name": "Vaddi Galbaat",
+        "url": "https://open.spotify.com/album/4rfmwIjMsdG9QrCKpDYibW"
       },
       "artists": [
         {
-          "name": "Dilpreet Dhillon",
-          "url": "https://open.spotify.com/artist/5CGQa62CAweD76eHlDmp1m"
+          "name": "Gur Sidhu",
+          "url": "https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5"
         },
         {
-          "name": "Balkar",
-          "url": "https://open.spotify.com/artist/6zNY19Sp24dlHukMG0CC3k"
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
         }
       ],
-      "duration_ms": 197708,
-      "name": "Raula",
-      "url": "https://open.spotify.com/track/3MkhH16mLlfapdzBbI5Ztg"
+      "duration_ms": 214000,
+      "name": "Vaddi Galbaat",
+      "url": "https://open.spotify.com/track/201pUEIPDVLtsmqf2O6QaR"
     },
     {
       "added_at": "2025-01-20 07:54:09",
@@ -1947,6 +1947,30 @@
     {
       "added_at": "2025-01-20 07:54:09",
       "album": {
+        "name": "Naag Di Wife",
+        "url": "https://open.spotify.com/album/1NVjslukC8ekvOzPqnraa6"
+      },
+      "artists": [
+        {
+          "name": "Deep Bajwa",
+          "url": "https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo"
+        },
+        {
+          "name": "Maahi Sharma",
+          "url": "https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ"
+        },
+        {
+          "name": "Gurlez Akhtar",
+          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
+        }
+      ],
+      "duration_ms": 179815,
+      "name": "Naag Di Wife",
+      "url": "https://open.spotify.com/track/3NmGpPUylfHx5xBXMmnJ7k"
+    },
+    {
+      "added_at": "2025-01-20 07:54:09",
+      "album": {
         "name": "Too Much",
         "url": "https://open.spotify.com/album/5fzqXSaWIZvsA0s5zbzu8e"
       },
@@ -1987,30 +2011,6 @@
       "duration_ms": 221722,
       "name": "Wrong Report",
       "url": "https://open.spotify.com/track/36CCkZjcXOfcztsCJAi7nU"
-    },
-    {
-      "added_at": "2025-01-20 07:54:09",
-      "album": {
-        "name": "Naag Di Wife",
-        "url": "https://open.spotify.com/album/1NVjslukC8ekvOzPqnraa6"
-      },
-      "artists": [
-        {
-          "name": "Deep Bajwa",
-          "url": "https://open.spotify.com/artist/13U2oRt6izgyRfuSBbeMTo"
-        },
-        {
-          "name": "Maahi Sharma",
-          "url": "https://open.spotify.com/artist/3u8IH8WOkyRPMiB07jZknQ"
-        },
-        {
-          "name": "Gurlez Akhtar",
-          "url": "https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ"
-        }
-      ],
-      "duration_ms": 179815,
-      "name": "Naag Di Wife",
-      "url": "https://open.spotify.com/track/3NmGpPUylfHx5xBXMmnJ7k"
     }
   ],
   "unique_name": "Bhangra Bangers",

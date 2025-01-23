@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW46Vfs1oltB.md) - [plain]
 
 > The fresh & hottest K\-Hip hop tracks\. \(Cover:<br/>Dynamic Duo, GUMMY\(다이나믹 듀오, 거미\)\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 541,046 likes - 115 songs - 5 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 541,012 likes - 115 songs - 5 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [KrOWN\_Jay Park](https://open.spotify.com/track/4eag7riq6HCiMUNX3B8jL4) | [Jay Park](https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI) | [KrOWN Audio liner](https://open.spotify.com/album/54srm6JygaJuyQDCfiYFbm) | 0:01 |
-| 2 | [Take Care](https://open.spotify.com/track/5Wqdmo2MSvhmWnYvCXEwwv) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [Gummy](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Take Care](https://open.spotify.com/album/1NcNTeSN3ISbK74GuIa2A3) | 3:52 |
+| 2 | [Take Care](https://open.spotify.com/track/5Wqdmo2MSvhmWnYvCXEwwv) | [Dynamicduo](https://open.spotify.com/artist/4nvFFLtv7ZqoTr83387uK4), [GUMMY](https://open.spotify.com/artist/0hRHbwZ0xSwfVHl4FTv7jq) | [Take Care](https://open.spotify.com/album/1NcNTeSN3ISbK74GuIa2A3) | 3:52 |
 | 3 | [BOLO \(feat\. YDG\)](https://open.spotify.com/track/77ILSQGJhqDVOfeWdtEexk) | [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY), [YDG](https://open.spotify.com/artist/3UV49ih8eDI8jZ4SdSVeqi) | [Organic](https://open.spotify.com/album/56WOBbnm0qft9uNzGA4YWJ) | 2:51 |
 | 4 | [KC2 \(Feat\. JMIN, HAON\)](https://open.spotify.com/track/7zgHEl7FKvSYoinueRFl1H) | [Sik\-K](https://open.spotify.com/artist/5DIi2JWfQPTKffaVBlIYRn), [Lil Moshpit](https://open.spotify.com/artist/0tVSrjQ0NpDlecsJwGmrMy), [JMIN](https://open.spotify.com/artist/6iXlk59DNP0FJWQPpUP4zo), [HAON](https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9) | [K\-FLIP](https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N) | 3:09 |
 | 5 | [Go Insane \(Feat\. Loopy\)](https://open.spotify.com/track/0D1XTPsaKK6uDjlGz0ZYRE) | [kaogaii](https://open.spotify.com/artist/6zxWD2e5UlhmkO99LB4MP2), [kitsyojii](https://open.spotify.com/artist/3X9mQSyCBKAV74OUSf7zLt), [Loopy](https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg) | [DIRTY](https://open.spotify.com/album/2nsezTTpqxLpolX8AggyiS) | 3:18 |

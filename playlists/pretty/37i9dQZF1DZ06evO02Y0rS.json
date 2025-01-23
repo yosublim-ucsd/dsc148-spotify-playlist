@@ -1,12 +1,12 @@
 {
   "description": "This is Bonobo. The essential tracks, all in one playlist.",
-  "num_followers": 160258,
+  "num_followers": 160259,
   "original_name": "This Is Bonobo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z42SAAAAAADgAolELwNm+gegrabYui5U",
+  "snapshot_id": "Z47jgAAAAABAlMEa5V/prZKpfcrTrJRw",
   "tracks": [
     {
       "added_at": null,
@@ -110,15 +110,11 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
-        },
-        {
-          "name": "Miguel Atwood-Ferguson",
-          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
         }
       ],
-      "duration_ms": 108800,
-      "name": "Polyghost",
-      "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
+      "duration_ms": 242773,
+      "name": "Rosewood",
+      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
     },
     {
       "added_at": null,
@@ -182,11 +178,15 @@
         {
           "name": "Bonobo",
           "url": "https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb"
+        },
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
         }
       ],
-      "duration_ms": 242773,
-      "name": "Rosewood",
-      "url": "https://open.spotify.com/track/2ZaL63zLMDr6H18El2EIt9"
+      "duration_ms": 108800,
+      "name": "Polyghost",
+      "url": "https://open.spotify.com/track/0JL9dXZ2tjMabWjVjeutKH"
     },
     {
       "added_at": null,

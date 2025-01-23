@@ -841,6 +841,28 @@
     },
     {
       "album": {
+        "name": "Ik Zal Er Zijn",
+        "url": "https://open.spotify.com/album/4RmhGsZpq5TfSTwuQen0ES"
+      },
+      "artists": [
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        },
+        {
+          "name": "Kimberly Fransens",
+          "url": "https://open.spotify.com/artist/4YvTZPiLAVdVA5VkCwyBWk"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196862,
+      "name": "Ik Zal Er Zijn",
+      "url": "https://open.spotify.com/track/3U1y2yON7uEZqMSBWxjYYQ"
+    },
+    {
+      "album": {
         "name": "Ik Zeg Niets",
         "url": "https://open.spotify.com/album/7drCcFtZkN6zxdXmehJHSM"
       },
@@ -942,7 +964,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 169491,
       "name": "Kan Ik Iets Voor Je Doen?",
       "url": "https://open.spotify.com/track/6K1xfSVsfGLvvcCCQjFRMy"
@@ -2210,7 +2232,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 174117,
       "name": "zij aan zij",
       "url": "https://open.spotify.com/track/7j3gracBYr3MPEg3VLJ306"
@@ -2246,7 +2268,7 @@
       ],
       "date_added": "2024-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 138512,
       "name": "Zomaar Zomer",
       "url": "https://open.spotify.com/track/6y5URC59KrtzlFxWxhaq5y"

@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour vos f\u00eates cette ann\u00e9e! ",
-  "num_followers": 62079,
+  "num_followers": 62068,
   "original_name": "No\u00ebl, No\u00ebl, No\u00ebl",
   "owner": {
     "name": "Spotify",
@@ -1571,18 +1571,22 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "La nuit de No\u00ebl",
-        "url": "https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO"
+        "name": "Chansons hivernales",
+        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
       },
       "artists": [
         {
-          "name": "Sally Folk",
-          "url": "https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr"
+          "name": "Pierre Lapointe",
+          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
+        },
+        {
+          "name": "Melissa Laveaux",
+          "url": "https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO"
         }
       ],
-      "duration_ms": 190429,
-      "name": "La nuit de No\u00ebl",
-      "url": "https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja"
+      "duration_ms": 208880,
+      "name": "No\u00ebl Lougawou",
+      "url": "https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1603,22 +1607,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Chansons hivernales",
-        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
+        "name": "La nuit de No\u00ebl",
+        "url": "https://open.spotify.com/album/2OsOErxzgnuqi0r2K9YuxO"
       },
       "artists": [
         {
-          "name": "Pierre Lapointe",
-          "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
-        },
-        {
-          "name": "Melissa Laveaux",
-          "url": "https://open.spotify.com/artist/5Vby8ALwGN41v2nXpu2TSO"
+          "name": "Sally Folk",
+          "url": "https://open.spotify.com/artist/3nYYNAjiUnXUKQZ5qrcrrr"
         }
       ],
-      "duration_ms": 208880,
-      "name": "No\u00ebl Lougawou",
-      "url": "https://open.spotify.com/track/6YzwtfjuqeSM6fEqExcaNi"
+      "duration_ms": 190429,
+      "name": "La nuit de No\u00ebl",
+      "url": "https://open.spotify.com/track/5nMtJWNUVjVqI4IgMzS7Ja"
     },
     {
       "added_at": "2024-12-13 16:40:18",
@@ -1679,22 +1679,18 @@
     {
       "added_at": "2024-12-13 16:40:18",
       "album": {
-        "name": "Six heures d'avion nous s\u00e9parent",
-        "url": "https://open.spotify.com/album/5kaSmROH3Z58yHVfBjE95u"
+        "name": "Chansons hivernales",
+        "url": "https://open.spotify.com/album/67fhTNeQ9ahmPPJaAGS3WJ"
       },
       "artists": [
-        {
-          "name": "MIKA",
-          "url": "https://open.spotify.com/artist/5MmVJVhhYKQ86izuGHzJYA"
-        },
         {
           "name": "Pierre Lapointe",
           "url": "https://open.spotify.com/artist/6zmMGBnFE2DCkAxaCVULRP"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Six heures d'avion nous s\u00e9parent",
-      "url": "https://open.spotify.com/track/5ZsUTZKuiU8dcZOBnUwDcp"
+      "duration_ms": 259146,
+      "name": "L'oiseau rare",
+      "url": "https://open.spotify.com/track/20p1ws0S4EYOSZ06RnM8sU"
     }
   ],
   "unique_name": "No\u00ebl, No\u00ebl, No\u00ebl",

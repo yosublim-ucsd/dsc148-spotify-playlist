@@ -1,12 +1,12 @@
 {
   "description": "This is Helmet. The essential tracks, all in one playlist.",
-  "num_followers": 8805,
+  "num_followers": 8808,
   "original_name": "This Is Helmet",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z42SAAAAAADIfGQrMEGMMPzp+6ZPGdOA",
+  "snapshot_id": "Z47jgAAAAADe3w7g5e6Euf5ENghfMImM",
   "tracks": [
     {
       "added_at": null,
@@ -416,7 +416,7 @@
       "added_at": null,
       "album": {
         "name": "Move On",
-        "url": "https://open.spotify.com/album/0osA4gpUv9gmiP0T9MrfQY"
+        "url": "https://open.spotify.com/album/5l1YqRO0Fq2WxIpX0G0lgh"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 213400,
-      "name": "Move On",
-      "url": "https://open.spotify.com/track/4X2p0nmL4EAaiXIABC77gm"
+      "duration_ms": 189333,
+      "name": "I'm Only Sleeping",
+      "url": "https://open.spotify.com/track/1SxsULVgTES7gK6kkvx83R"
     },
     {
       "added_at": null,
@@ -488,9 +488,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 189333,
-      "name": "I'm Only Sleeping",
-      "url": "https://open.spotify.com/track/1ikveMBbbi2DVWbfKdsxWz"
+      "duration_ms": 213400,
+      "name": "Move On",
+      "url": "https://open.spotify.com/track/4X2p0nmL4EAaiXIABC77gm"
     },
     {
       "added_at": null,
@@ -552,9 +552,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 84160,
-      "name": "More Bad News",
-      "url": "https://open.spotify.com/track/2bYkJghT6Cz5ZMBkcBpABA"
+      "duration_ms": 349453,
+      "name": "Mercy",
+      "url": "https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/0qB0cTENhSUc0feov5qbg0"
         }
       ],
-      "duration_ms": 349453,
-      "name": "Mercy",
-      "url": "https://open.spotify.com/track/3Iyij0kn5wR214fA7vGccl"
+      "duration_ms": 84160,
+      "name": "More Bad News",
+      "url": "https://open.spotify.com/track/2bYkJghT6Cz5ZMBkcBpABA"
     },
     {
       "added_at": null,

@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,691 likes - 77 songs - 4 hr 19 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,689 likes - 77 songs - 4 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [QQQQ](https://open.spotify.com/track/3B9gRLf1eT5DadhEY9fqda) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [QQQQ](https://open.spotify.com/album/7Kayz2sfMlJvNVGZsYPd5I) | 3:23 |
-| 2 | [take me by the hand \(feat\. Bladee\)](https://open.spotify.com/track/6rTgjvKEp1SABOBebNsLkm) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [take me by the hand \(feat\. Bladee\)](https://open.spotify.com/album/0ME2uR7jGL1WR914hPIpGr) | 2:51 |
+| 2 | [take me by the hand](https://open.spotify.com/track/6rTgjvKEp1SABOBebNsLkm) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [take me by the hand](https://open.spotify.com/album/0ME2uR7jGL1WR914hPIpGr) | 2:51 |
 | 3 | [TBC](https://open.spotify.com/track/2JR4oHBnHhRPwMGT8yyyUV) | [Sila Lua](https://open.spotify.com/artist/1s0SFRaivMSqrjS3C3R7xR) | [Danzas de Amor y Veneno](https://open.spotify.com/album/4ojYb3xrBf3rkfScHntCm6) | 2:52 |
 | 4 | [Ankles](https://open.spotify.com/track/0SEVmelgCBzx3S4CU6YYlD) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [Ankles](https://open.spotify.com/album/4wsg5JXL6d2ZG6siAKYizP) | 3:11 |
 | 5 | [cerca de ti](https://open.spotify.com/track/5g18hQJ4TYSUDFkV3mZSrh) | [La Plata](https://open.spotify.com/artist/3oD0OVwOhvLSTvd2fOFCuS) | [cerca de ti](https://open.spotify.com/album/1GZ51NBYHvW3qHadYNFt6F) | 3:32 |

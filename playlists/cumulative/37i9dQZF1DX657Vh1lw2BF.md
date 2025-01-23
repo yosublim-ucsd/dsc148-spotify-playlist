@@ -4,7 +4,7 @@
 
 > أفضل الاغاني العراقية\. الغلاف:حمزة المحمداوي
 
-143 songs - 8 hr 49 min
+144 songs - 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Eza Endak Waqt](https://open.spotify.com/track/3HTxsFcxKgH0mENxyBezBN) | [Husam Al Rassam](https://open.spotify.com/artist/4WSDfufVR7neAAJngREPth) | [Eza Endak Waqt](https://open.spotify.com/album/5CD5ZcTnebSduZWZ077ilg) | 4:41 | 2023-05-05 |  |
 | [Faqadat Alnaas](https://open.spotify.com/track/7iWqQCX3MhmwapUzPoqmdj) | [Mahmoud Al Turky](https://open.spotify.com/artist/1GVRoyErxhZGdvmOKGO7W7) | [Faqadat Alnaas](https://open.spotify.com/album/19GaPl9gfEK41QlrENJVOD) | 3:08 | 2022-05-06 | 2022-06-08 |
 | [Ghyabe Wagaak](https://open.spotify.com/track/1XePTZCLsOggdc8ABNl81J) | [Dalia](https://open.spotify.com/artist/3UYi1C1wbSZq4OXbaTdMZD) | [Ghyabe Wagaak](https://open.spotify.com/album/72Lvo8ez65pAReNdGyCPkv) | 4:06 | 2022-05-06 | 2022-06-17 |
-| [Gissah](https://open.spotify.com/track/6i7tFmWmfP0Un7nPIkSpaY) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Gissah](https://open.spotify.com/album/2mWcaTK4MDGlSDrvOnPy9x) | 0:59 | 2023-04-04 |  |
+| [Gissah](https://open.spotify.com/track/6i7tFmWmfP0Un7nPIkSpaY) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Gissah](https://open.spotify.com/album/2mWcaTK4MDGlSDrvOnPy9x) | 0:59 | 2023-04-04 | 2025-01-23 |
 | [Ha Khouya](https://open.spotify.com/track/1eEWmjCWjFtWhL36HKdjsc) | [Rahma Riad](https://open.spotify.com/artist/1JrJQz0AlGYbLxBnOEWfLx) | [Ha Khouya](https://open.spotify.com/album/6XQsDdlTch6XLivTtooFzL) | 2:57 | 2023-04-26 | 2023-12-30 |
 | [Habbet](https://open.spotify.com/track/38Zv7Jcs1EgK4MxpV1pAAz) | [Saad Ramadan](https://open.spotify.com/artist/3TQIvMCVNOLxytHD4FWm9a) | [Habbet](https://open.spotify.com/album/176inUR3mvJuCBvbG7LtLC) | 3:25 | 2022-05-06 | 2022-06-17 |
 | [Habibi We Rohi](https://open.spotify.com/track/4Zlz5BYtBt7pxo0mmJy04N) | [Ahmed Al Maslawi](https://open.spotify.com/artist/00VUV8R7oHc6FSLFyNmwFa) | [Habibi We Rohi](https://open.spotify.com/album/4Oc2kpXd46iV6S1HuAeyst) | 3:29 | 2022-05-06 | 2022-05-26 |
@@ -148,6 +148,7 @@
 | [دزلي عطرك 2](https://open.spotify.com/track/6qxY9lXVAqF4jbuabbZLo8) | [Sultan Al Omani](https://open.spotify.com/artist/7praP1ShHWgWbgDR5Kmx2P), [Mustafa Ibrahim](https://open.spotify.com/artist/6JMRT8mRLG6LwEGKQ4trhS) | [دزلي عطرك 2](https://open.spotify.com/album/1IAkMeL7P7TUFvEs4aHl38) | 2:04 | 2022-05-06 | 2022-06-17 |
 | [عشرتي وياك](https://open.spotify.com/track/4BPUAyxBRGkmolKuZHz7lW) | [رعد الناصري](https://open.spotify.com/artist/3I2A0NhXEFjxILsJUWWfJs), [محمد شكح](https://open.spotify.com/artist/5mR5ns2TB5QICPdKajmYXF) | [عشرتي وياك](https://open.spotify.com/album/1G3euyVBMUpxqrLI421XuZ) | 3:30 | 2023-04-04 | 2023-09-30 |
 | [ماتت بعدكم روح](https://open.spotify.com/track/5mVsxtQWsDZvA2kxmqd9EB) | [Nour Al Zain](https://open.spotify.com/artist/3zjyoiXHu5SgwtRHU7GcMH) | [ماتت بعدكم روح](https://open.spotify.com/album/7HjApDZg39EjEZN5IWxFDy) | 4:36 | 2022-05-06 | 2023-04-27 |
+| [ناري](https://open.spotify.com/track/2rKrBAXd7STYoXjmy11n7F) | [احمد ستار](https://open.spotify.com/artist/3FqD6nZUigSJdLQvgWoK2E) | [ناري](https://open.spotify.com/album/59uFRxATMsk4vr2HsMZMMy) | 3:25 | 2025-01-22 |  |
 | [وياك](https://open.spotify.com/track/6SRMA4WAA4t2qYPFtpLIAg) | [Ghaith Sabah](https://open.spotify.com/artist/7ktjzPxDqpXT76PMmIHIyT) | [وياك](https://open.spotify.com/album/2gxHtzYYDIlpHJEEqWQZOV) | 3:58 | 2023-04-04 |  |
 | [يما الحب](https://open.spotify.com/track/3aXByu4Art7dq12mZxB2RK) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7FSEVwrfLKelL18sRCsxxe) | 5:17 | 2022-05-06 | 2022-11-02 |
 | [يما الحب](https://open.spotify.com/track/7zputQxG3bFaAuImb2575d) | [فرقة تكات](https://open.spotify.com/artist/3bMzXWVBnWOG7PxLRWy19X) | [يما الحب](https://open.spotify.com/album/7s1sSgFNtXuZeTWMpLF0fS) | 5:17 | 2022-08-26 | 2023-04-27 |

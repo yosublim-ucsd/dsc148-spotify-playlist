@@ -1,6 +1,6 @@
 {
   "description": "Tu familia puede visitar a todos los animales en el zool\u00f3gico con estas divertidas canciones.",
-  "num_followers": 36089,
+  "num_followers": 36114,
   "original_name": "Los Animalitos",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Masha and the Bear Songs, Pt. 2",
-        "url": "https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT"
-      },
-      "artists": [
-        {
-          "name": "Masha and the Bear",
-          "url": "https://open.spotify.com/artist/2HTXyQhFn9avH2spohJh1j"
-        }
-      ],
-      "duration_ms": 83693,
-      "name": "Bear's Song",
-      "url": "https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq"
-    },
-    {
-      "added_at": "2020-04-23 19:03:50",
-      "album": {
         "name": "Canta Baila Juega",
         "url": "https://open.spotify.com/album/2pE7DwjBDzEiugaQ7iIKDv"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 111124,
       "name": "El Caballo Comisario",
       "url": "https://open.spotify.com/track/2WblKc2kdC9h3IaRpoyNqr"
+    },
+    {
+      "added_at": "2020-04-23 19:03:50",
+      "album": {
+        "name": "Masha and the Bear Songs, Pt. 2",
+        "url": "https://open.spotify.com/album/0WAkPHAwKWomhcu2Sp4DYT"
+      },
+      "artists": [
+        {
+          "name": "Masha and the Bear",
+          "url": "https://open.spotify.com/artist/2HTXyQhFn9avH2spohJh1j"
+        }
+      ],
+      "duration_ms": 83693,
+      "name": "Bear's Song",
+      "url": "https://open.spotify.com/track/6SB3SXYBAcOn3cYngy0Mrq"
     },
     {
       "added_at": "2020-04-23 19:03:50",
@@ -799,18 +799,18 @@
     {
       "added_at": "2020-04-23 19:03:50",
       "album": {
-        "name": "Dora The Explorer World Adventure",
-        "url": "https://open.spotify.com/album/4tNe4BNIrslkswQP5Y26JG"
+        "name": "Diego, Dora & Friends' Animal Jamboree",
+        "url": "https://open.spotify.com/album/5pGKls5MMffUA9MUllmBJD"
       },
       "artists": [
         {
-          "name": "Dora The Explorer",
-          "url": "https://open.spotify.com/artist/4zMssRZ6iG7sJm54RwFozt"
+          "name": "Diego, Dora & Friends",
+          "url": "https://open.spotify.com/artist/1FDuzOOZw1T2HHQmcnVT2V"
         }
       ],
-      "duration_ms": 191933,
-      "name": "Mi Chacra",
-      "url": "https://open.spotify.com/track/5zP8jxoTuAudT8i8orZzIn"
+      "duration_ms": 197560,
+      "name": "Animal Jam",
+      "url": "https://open.spotify.com/track/1FQMwZpGCFXkrt8GbrBVG6"
     }
   ],
   "unique_name": "Los Animalitos",

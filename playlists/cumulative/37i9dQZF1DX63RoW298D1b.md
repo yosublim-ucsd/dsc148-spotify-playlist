@@ -4,7 +4,7 @@
 
 > Soothing piano for the ultimate wind down.
 
-201 songs - 8 hr 29 min
+202 songs - 8 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Ingénue](https://open.spotify.com/track/3eh0aTbpVViZatOcCnSTMW) | [Nino Carl](https://open.spotify.com/artist/3V1leSurIPtt6YdrfnJNo2) | [Ingénue](https://open.spotify.com/album/4VSETamjgx6cwFsdba8N7b) | 2:27 | 2023-08-23 |  |
 | [Innamorarsi](https://open.spotify.com/track/07DOQ7ce43Q5ICTdzG8M97) | [Irene Gaifana](https://open.spotify.com/artist/6gdy6anlAQAem03BVY6m83) | [Innamorarsi](https://open.spotify.com/album/47kowrH6Cijbzn3xy0FMV6) | 2:32 | 2023-05-09 | 2024-10-02 |
 | [Inner Growth](https://open.spotify.com/track/1vUUh7PcopWP76S8ZAtX15) | [Halgeir Nielsen](https://open.spotify.com/artist/5unSFFq9c0x8o8COUnghjh) | [Inner Growth](https://open.spotify.com/album/0FVyWF6pVe7pntNhHyLxEK) | 2:31 | 2024-04-03 |  |
+| [Into The Light](https://open.spotify.com/track/339bMJGEo9fHqWy0g7F7ht) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [Into The Light](https://open.spotify.com/album/4yzkMY5AjfqnfyOCk11fNz) | 2:41 | 2025-01-22 |  |
 | [Irreversible](https://open.spotify.com/track/3iGoaawn0i6d0IUESJxM0f) | [Karl Hasselfors](https://open.spotify.com/artist/0oTXHaCCC8C2xvKLRxDgtC) | [Irreversible](https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh) | 2:16 | 2023-05-09 | 2024-02-14 |
 | [It Feels Right](https://open.spotify.com/track/0gICIHDApco8NkbEYfEJWo) | [Henriette Wieder](https://open.spotify.com/artist/7GWPvFRZCifzgsgILH13s0) | [It Feels Right](https://open.spotify.com/album/0UhwkYah2W8UKLO1YzV6hi) | 2:50 | 2024-03-05 |  |
 | [It Takes Time](https://open.spotify.com/track/3dQa7fCfGgoRM5FW5Liawc) | [Spring Bunny](https://open.spotify.com/artist/20rxFHW77lE0R1AlYzMIXl) | [It Takes Time](https://open.spotify.com/album/0lCUipFZcKcXYukQ0Wk9QT) | 2:50 | 2024-09-10 |  |

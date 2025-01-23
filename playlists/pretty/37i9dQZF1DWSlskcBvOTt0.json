@@ -1,6 +1,6 @@
 {
   "description": "Hypnotic melodic and afro <a href=\"spotify:genre:house\">house</a> to light up the night.",
-  "num_followers": 521589,
+  "num_followers": 521790,
   "original_name": "Tantra",
   "owner": {
     "name": "Spotify",
@@ -1319,6 +1319,26 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
+      },
+      "artists": [
+        {
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
+        },
+        {
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
+        }
+      ],
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
         "name": "Ngeke",
         "url": "https://open.spotify.com/album/7A4IhGJIySOF9ZxbDdANk0"
       },
@@ -1343,26 +1363,6 @@
       "duration_ms": 211314,
       "name": "Ngeke",
       "url": "https://open.spotify.com/track/2YU8o3X8Oyp9Ljdf7TTlNp"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "Wait For You",
-        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
-      },
-      "artists": [
-        {
-          "name": "AM\u00c9M\u00c9",
-          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
-        },
-        {
-          "name": "Franc Fala",
-          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
-        }
-      ],
-      "duration_ms": 176528,
-      "name": "Wait For You",
-      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1547,26 +1547,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Naam",
-        "url": "https://open.spotify.com/album/0wRb8oASXsFk5UxQINFMoO"
-      },
-      "artists": [
-        {
-          "name": "Ginton",
-          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
-        },
-        {
-          "name": "&friends",
-          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
-        }
-      ],
-      "duration_ms": 225245,
-      "name": "Naam",
-      "url": "https://open.spotify.com/track/5cP2qpLkDYDuPEtVBuOpUV"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "Born In Blue",
         "url": "https://open.spotify.com/album/1dCSXGLRWwfnBwWaadLv0v"
       },
@@ -1583,6 +1563,26 @@
       "duration_ms": 290737,
       "name": "Born In Blue",
       "url": "https://open.spotify.com/track/5iiQYaqVsZK8ROt0dfOyS9"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Naam",
+        "url": "https://open.spotify.com/album/0wRb8oASXsFk5UxQINFMoO"
+      },
+      "artists": [
+        {
+          "name": "Ginton",
+          "url": "https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy"
+        },
+        {
+          "name": "&friends",
+          "url": "https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0"
+        }
+      ],
+      "duration_ms": 225245,
+      "name": "Naam",
+      "url": "https://open.spotify.com/track/5cP2qpLkDYDuPEtVBuOpUV"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1867,22 +1867,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Asa",
-        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
-      },
-      "artists": [
-        {
-          "name": "\u00c2me",
-          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
-        }
-      ],
-      "duration_ms": 277567,
-      "name": "Asa",
-      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "Gorah (Francis Mercier Midnight Mix)",
         "url": "https://open.spotify.com/album/6r1d6zVZgIpgZXP3tBAAO4"
       },
@@ -1927,6 +1911,22 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
+        "name": "Asa",
+        "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
+      },
+      "artists": [
+        {
+          "name": "\u00c2me",
+          "url": "https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564"
+        }
+      ],
+      "duration_ms": 277567,
+      "name": "Asa",
+      "url": "https://open.spotify.com/track/1dWWpbUHni0mmv9aaVLhcH"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
         "name": "Amado",
         "url": "https://open.spotify.com/album/3hAikGvkPNuXSs7gYgqJRI"
       },
@@ -1943,6 +1943,22 @@
       "duration_ms": 210500,
       "name": "Amado",
       "url": "https://open.spotify.com/track/2ZNTl0Fkst8ckJAbm0cwfY"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Mirage",
+        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
+      },
+      "artists": [
+        {
+          "name": "Antdot",
+          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
+        }
+      ],
+      "duration_ms": 279344,
+      "name": "Mirage",
+      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -1967,22 +1983,6 @@
       "duration_ms": 401951,
       "name": "If I Live Forever - Arodes Remix",
       "url": "https://open.spotify.com/track/7bRYAHnP7t9zkB0ZE8k4zb"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "Mirage",
-        "url": "https://open.spotify.com/album/2707md8oZNvicxsOq7m6nU"
-      },
-      "artists": [
-        {
-          "name": "Antdot",
-          "url": "https://open.spotify.com/artist/3of9b8iUxyXtfnwwahfUNx"
-        }
-      ],
-      "duration_ms": 279344,
-      "name": "Mirage",
-      "url": "https://open.spotify.com/track/22FYG28v2UKUhnTO7ecOcn"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2071,26 +2071,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Shadow",
-        "url": "https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO"
-      },
-      "artists": [
-        {
-          "name": "Marino Canal",
-          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
-        },
-        {
-          "name": "Koti\u0113r",
-          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
-        }
-      ],
-      "duration_ms": 196859,
-      "name": "Shadow",
-      "url": "https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "After The Love",
         "url": "https://open.spotify.com/album/3YVBWKuuAMf6NB0tMk5RnH"
       },
@@ -2107,6 +2087,26 @@
       "duration_ms": 180000,
       "name": "After The Love",
       "url": "https://open.spotify.com/track/3zBEdQfecpAorBCyBfeNO5"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Shadow",
+        "url": "https://open.spotify.com/album/3xpZz8pqMCAPTVPFb3KmlO"
+      },
+      "artists": [
+        {
+          "name": "Marino Canal",
+          "url": "https://open.spotify.com/artist/6qdVbTc8Uvy0VJyDZbYTd8"
+        },
+        {
+          "name": "Koti\u0113r",
+          "url": "https://open.spotify.com/artist/6yiQLc8QqofCG6ob7D1Rcu"
+        }
+      ],
+      "duration_ms": 196859,
+      "name": "Shadow",
+      "url": "https://open.spotify.com/track/5HWYlBq7NXCZGjXGIp5Mpk"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2255,22 +2255,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Polar",
-        "url": "https://open.spotify.com/album/5Lk26tM06VG5x3k7hYyxCU"
-      },
-      "artists": [
-        {
-          "name": "Yotto",
-          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
-        }
-      ],
-      "duration_ms": 246904,
-      "name": "Polar",
-      "url": "https://open.spotify.com/track/2rJYfTsmOyq79XJMYo5grJ"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "Anywhere",
         "url": "https://open.spotify.com/album/12uDqYnWnF6wUirHfkjysQ"
       },
@@ -2295,6 +2279,22 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
+        "name": "Polar",
+        "url": "https://open.spotify.com/album/5Lk26tM06VG5x3k7hYyxCU"
+      },
+      "artists": [
+        {
+          "name": "Yotto",
+          "url": "https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo"
+        }
+      ],
+      "duration_ms": 246904,
+      "name": "Polar",
+      "url": "https://open.spotify.com/track/2rJYfTsmOyq79XJMYo5grJ"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
         "name": "Murder On The Dancefloor (THEMBA Remix)",
         "url": "https://open.spotify.com/album/77hmYc53Wa20s62MN2xUI9"
       },
@@ -2311,6 +2311,26 @@
       "duration_ms": 225303,
       "name": "Murder On The Dancefloor - THEMBA Remix",
       "url": "https://open.spotify.com/track/4A7G8HAFuGDsKa3jpBhGYf"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
+        "name": "Compromise",
+        "url": "https://open.spotify.com/album/6tV5ImdhGjwuNnj4GhHrSd"
+      },
+      "artists": [
+        {
+          "name": "Nico de Andrea",
+          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
+        },
+        {
+          "name": "hazel",
+          "url": "https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J"
+        }
+      ],
+      "duration_ms": 211949,
+      "name": "Compromise",
+      "url": "https://open.spotify.com/track/2uDk6I7t68BZQwMG9PQoMI"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2355,6 +2375,22 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
+        "name": "The Only One",
+        "url": "https://open.spotify.com/album/1YGsKzENb5AmQ4VtCFRoyG"
+      },
+      "artists": [
+        {
+          "name": "andhim",
+          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
+        }
+      ],
+      "duration_ms": 289212,
+      "name": "The Only One",
+      "url": "https://open.spotify.com/track/64v9obzFAgVwlNqSy1yQby"
+    },
+    {
+      "added_at": "2025-01-17 05:00:33",
+      "album": {
         "name": "Citadelle",
         "url": "https://open.spotify.com/album/0DizSiMxcUKUPaZ09BmAXi"
       },
@@ -2371,22 +2407,6 @@
       "duration_ms": 236065,
       "name": "Citadelle",
       "url": "https://open.spotify.com/track/4rcj9dtT3uK0XEYWYI74dU"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
-        "name": "The Only One",
-        "url": "https://open.spotify.com/album/1YGsKzENb5AmQ4VtCFRoyG"
-      },
-      "artists": [
-        {
-          "name": "andhim",
-          "url": "https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP"
-        }
-      ],
-      "duration_ms": 289212,
-      "name": "The Only One",
-      "url": "https://open.spotify.com/track/64v9obzFAgVwlNqSy1yQby"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2427,26 +2447,6 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Compromise",
-        "url": "https://open.spotify.com/album/6tV5ImdhGjwuNnj4GhHrSd"
-      },
-      "artists": [
-        {
-          "name": "Nico de Andrea",
-          "url": "https://open.spotify.com/artist/3h1aCZ3gZ4zIWxnsxcBrPD"
-        },
-        {
-          "name": "hazel",
-          "url": "https://open.spotify.com/artist/4rkgDx09bDtVCllN0MJR1J"
-        }
-      ],
-      "duration_ms": 211949,
-      "name": "Compromise",
-      "url": "https://open.spotify.com/track/2uDk6I7t68BZQwMG9PQoMI"
-    },
-    {
-      "added_at": "2025-01-17 05:00:33",
-      "album": {
         "name": "Waka",
         "url": "https://open.spotify.com/album/4qnNoTNf1t7nQyPzL6yZbB"
       },
@@ -2467,18 +2467,18 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Amazonas",
-        "url": "https://open.spotify.com/album/0SYnNdmxl37UFoap4loEQo"
+        "name": "Why",
+        "url": "https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb"
       },
       "artists": [
         {
-          "name": "Philipp Wolf",
-          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
+          "name": "Mosimann",
+          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
         }
       ],
-      "duration_ms": 212202,
-      "name": "Amazonas",
-      "url": "https://open.spotify.com/track/0vDQl4HGDvHR80wQvdUYZk"
+      "duration_ms": 199687,
+      "name": "Why",
+      "url": "https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2507,18 +2507,22 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Why",
-        "url": "https://open.spotify.com/album/1hodyiHqPeGoLf9w0tHWyb"
+        "name": "Riga",
+        "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
       },
       "artists": [
         {
-          "name": "Mosimann",
-          "url": "https://open.spotify.com/artist/7sAqpkrQBaOkddsv1Tz1XK"
+          "name": "Super Flu",
+          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
+        },
+        {
+          "name": "Marc Werner",
+          "url": "https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr"
         }
       ],
-      "duration_ms": 199687,
-      "name": "Why",
-      "url": "https://open.spotify.com/track/4O2uAxD8LKMptOW7sQQOKL"
+      "duration_ms": 315371,
+      "name": "Riga",
+      "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
     },
     {
       "added_at": "2025-01-17 05:00:33",
@@ -2539,22 +2543,18 @@
     {
       "added_at": "2025-01-17 05:00:33",
       "album": {
-        "name": "Riga",
-        "url": "https://open.spotify.com/album/3puESyF040eq4WYWJPSG4S"
+        "name": "Amazonas",
+        "url": "https://open.spotify.com/album/0SYnNdmxl37UFoap4loEQo"
       },
       "artists": [
         {
-          "name": "Super Flu",
-          "url": "https://open.spotify.com/artist/1iZiG82D4w7FLHvOUUj4zW"
-        },
-        {
-          "name": "Marc Werner",
-          "url": "https://open.spotify.com/artist/3LzUh1HW5SPWW2vElaLenr"
+          "name": "Philipp Wolf",
+          "url": "https://open.spotify.com/artist/6uKv2ihEYpsDwWOW6pv1aH"
         }
       ],
-      "duration_ms": 315371,
-      "name": "Riga",
-      "url": "https://open.spotify.com/track/4J0gDIw2chzeWkzkOZphHX"
+      "duration_ms": 212202,
+      "name": "Amazonas",
+      "url": "https://open.spotify.com/track/0vDQl4HGDvHR80wQvdUYZk"
     },
     {
       "added_at": "2025-01-17 05:00:33",

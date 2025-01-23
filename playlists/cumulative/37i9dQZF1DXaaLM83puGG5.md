@@ -2,7 +2,7 @@
 
 ### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
-> Keeping the party going with Spirit Mas! Cop your tickets <a href="https://islandetickets.com/event/Home25">here</a>.
+> Keeping the party going with Spirit Mas! Get your tickets for HOME <a href="https://islandetickets.com/event/Home25">here</a>.
 
 1,480 songs - 3 day 17 hr 22 min
 

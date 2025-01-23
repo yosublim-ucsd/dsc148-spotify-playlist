@@ -125,6 +125,24 @@
     },
     {
       "album": {
+        "name": "All Over The World",
+        "url": "https://open.spotify.com/album/1a8m9mP1Hic2WLi8ALlPIh"
+      },
+      "artists": [
+        {
+          "name": "Blessing Offor",
+          "url": "https://open.spotify.com/artist/55qfDfgj4Qi3JGe6KpqGtC"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190434,
+      "name": "All Over The World",
+      "url": "https://open.spotify.com/track/1gm4643jT5PZRUhNcbT860"
+    },
+    {
+      "album": {
         "name": "Dosis",
         "url": "https://open.spotify.com/album/13hrTUToYPH3tdDitTnSbR"
       },
@@ -306,7 +324,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 206524,
       "name": "Be with you",
       "url": "https://open.spotify.com/track/2uUKp2IXHZ6vPAlE7wFjzR"
@@ -1530,7 +1548,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 318933,
       "name": "Go There With You",
       "url": "https://open.spotify.com/track/66DrxT38CFyYPTciuHP3aR"
@@ -1909,6 +1927,24 @@
     },
     {
       "album": {
+        "name": "I Do",
+        "url": "https://open.spotify.com/album/3RsemeJwb8I1PebI8Y2tW8"
+      },
+      "artists": [
+        {
+          "name": "Jordan May",
+          "url": "https://open.spotify.com/artist/0lx6baQe1oEBLm8jkDWI8v"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214142,
+      "name": "I Do",
+      "url": "https://open.spotify.com/track/23lQIH97ocBAw1cOJmZigq"
+    },
+    {
+      "album": {
         "name": "Floodplain",
         "url": "https://open.spotify.com/album/4xa65s9NcXYzUN72tYJnLP"
       },
@@ -1986,6 +2022,24 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
+    },
+    {
+      "album": {
+        "name": "I Want You",
+        "url": "https://open.spotify.com/album/2TJ9sTBtFzSkMN2qSUCbDy"
+      },
+      "artists": [
+        {
+          "name": "Niiella",
+          "url": "https://open.spotify.com/artist/4JFdML5CyGhCBXziW98nou"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150000,
+      "name": "I Want You",
+      "url": "https://open.spotify.com/track/4MQOs5WwP7jirNqh6WmzGp"
     },
     {
       "album": {
@@ -2721,6 +2775,24 @@
     },
     {
       "album": {
+        "name": "Loves Got a Way",
+        "url": "https://open.spotify.com/album/0UunxdCwAG58nS7UQp2n2x"
+      },
+      "artists": [
+        {
+          "name": "Andrew Ripp",
+          "url": "https://open.spotify.com/artist/7oAskcd3mX9ZzxMPFHYqoN"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Loves Got a Way",
+      "url": "https://open.spotify.com/track/3kL6SvzZTi4vweT6KWy8GH"
+    },
+    {
+      "album": {
         "name": "What Makes It Through",
         "url": "https://open.spotify.com/album/4YFHM5vLJLbBFCS0nhC0mi"
       },
@@ -3014,7 +3086,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 275135,
       "name": "OMM (On My Mind) [Remix]",
       "url": "https://open.spotify.com/track/5NSk2v3d5O32aJPBnWQ2b3"
@@ -3542,7 +3614,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 154020,
       "name": "Sunday Morning",
       "url": "https://open.spotify.com/track/7JIYxxvG7GIh8X9Rgt983V"
@@ -3756,6 +3828,24 @@
       "duration_ms": 212426,
       "name": "The Day Before You - Acoustic",
       "url": "https://open.spotify.com/track/20Y6MNDyaBRpFrQ1Dt5CNF"
+    },
+    {
+      "album": {
+        "name": "The Magic",
+        "url": "https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os"
+      },
+      "artists": [
+        {
+          "name": "The Gray Havens",
+          "url": "https://open.spotify.com/artist/4gzyIFii6fWdCiLsP0bocC"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189862,
+      "name": "The Magic",
+      "url": "https://open.spotify.com/track/7oEJPqNQeua9kk37UXQ74c"
     },
     {
       "album": {
@@ -4560,7 +4650,7 @@
       ],
       "date_added": "2024-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 236526,
       "name": "you.",
       "url": "https://open.spotify.com/track/5aIWSE31yrW7hbrjMpeJVl"
@@ -4679,6 +4769,24 @@
     },
     {
       "album": {
+        "name": "Your Love Won't Give Up",
+        "url": "https://open.spotify.com/album/77MWkhxbUxCa4oWNLFXP1J"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175241,
+      "name": "Your Love Won't Give Up",
+      "url": "https://open.spotify.com/track/3B5ISJUnLCAis7MjBu22LR"
+    },
+    {
+      "album": {
         "name": "Yours",
         "url": "https://open.spotify.com/album/7audZAXHAdxmRD3YJErUVm"
       },
@@ -4690,7 +4798,7 @@
       ],
       "date_added": "2024-02-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 213846,
       "name": "Yours",
       "url": "https://open.spotify.com/track/6IWcLsZ9h2Kde0Qjyt8BdS"

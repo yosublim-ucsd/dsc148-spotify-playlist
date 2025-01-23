@@ -1,13 +1,29 @@
 {
   "description": "Fresh jazz by independent artists every Wednesday. Cover: Miki Ikhifa. Artwork: Joy Yamusangie.",
-  "num_followers": 231104,
+  "num_followers": 231238,
   "original_name": "Fresh Finds Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4dA0gAAAACvMAp0F93ftWD6MY4w23+n",
+  "snapshot_id": "Z5EEywAAAAAcLvF6GghZzDxGhfyhw8Yq",
   "tracks": [
+    {
+      "added_at": "2025-01-22 14:46:34",
+      "album": {
+        "name": "Archipelago",
+        "url": "https://open.spotify.com/album/0lMX9iwhoJDxkaqUfTSal8"
+      },
+      "artists": [
+        {
+          "name": "Cumulus Frisbee",
+          "url": "https://open.spotify.com/artist/673QByL1fEcoAMYdHc452d"
+        }
+      ],
+      "duration_ms": 175838,
+      "name": "Archipelago",
+      "url": "https://open.spotify.com/track/3JR8gq8O5yKuesOThvwRC7"
+    },
     {
       "added_at": "2025-01-15 05:00:02",
       "album": {
@@ -27,6 +43,22 @@
       "duration_ms": 256000,
       "name": "Nkosi's Fantasia II",
       "url": "https://open.spotify.com/track/3QckxpJJonWtcJgJiUZr7X"
+    },
+    {
+      "added_at": "2025-01-22 14:46:34",
+      "album": {
+        "name": "Communion",
+        "url": "https://open.spotify.com/album/2ljsWrtbL0hv7DNsww4Ox7"
+      },
+      "artists": [
+        {
+          "name": "Georgia C\u00e9cile",
+          "url": "https://open.spotify.com/artist/0KjGICUAvAWs6qev5iovJa"
+        }
+      ],
+      "duration_ms": 244789,
+      "name": "Communion",
+      "url": "https://open.spotify.com/track/1glJiExOlcbDjdNIzElYqQ"
     },
     {
       "added_at": "2025-01-15 05:00:02",

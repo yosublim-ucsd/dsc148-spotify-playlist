@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 |  |
+| [10](https://open.spotify.com/track/6ZLJ0s0my4L2RcO2YyNp4D) | [Fax](https://open.spotify.com/artist/5QjGFe0TnTyU3FF44b0vx4) | [Catalog Number Sta122](https://open.spotify.com/album/6u4MFeTG2QR99sr4Uf0nPf) | 2:29 | 2022-12-16 | 2025-01-23 |
 | [10°C](https://open.spotify.com/track/2gKuOZoUGk56md4lgf9eq9) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [Whatever The Weather](https://open.spotify.com/album/1WL4LG5vRVBARp8QI5wA5O) | 4:22 | 2022-12-20 |  |
 | [12°C](https://open.spotify.com/track/5ZaScgcRQWdd5Nyigg11Vg) | [Whatever The Weather](https://open.spotify.com/artist/49y4h4GL1qZZ3KwYIb9NfQ) | [12°C](https://open.spotify.com/album/7zcXUzSYysKrQYOVg7ekth) | 4:33 | 2025-01-17 |  |
 | [14Mm](https://open.spotify.com/track/2bjumbwYUXyGmCoUgVORCC) | [Braulio Lam](https://open.spotify.com/artist/2De39lNgozCwzBWQTUPlPS) | [Long Exposure](https://open.spotify.com/album/1Z3AfcdNKfUDB6BZBT3QRY) | 7:54 | 2021-10-06 | 2022-07-29 |
@@ -86,7 +86,7 @@
 | [Common Land](https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Common Land](https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr) | 5:21 | 2023-06-02 |  |
 | [Conga Album](https://open.spotify.com/track/0jKm3XkCLqhgdIqQO1HG3P) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Conga Album](https://open.spotify.com/album/5JJdTc1ylNmtt0JISC9ZUX) | 4:10 | 2021-10-06 | 2022-07-31 |
 | [Contato](https://open.spotify.com/track/3d9lSEuj72Nng9RSiBCJMK) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Marcela Días](https://open.spotify.com/artist/0lRTbC1mev61p4iqZJFsOh) | [Contato](https://open.spotify.com/album/2Ijl7748cet44nbXZNx29K) | 4:03 | 2022-09-02 | 2022-11-13 |
-| [Cops de Cap](https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY) | [Pedro Vian](https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE) | [Black Toms](https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l) | 5:39 | 2021-10-06 | 2025-01-14 |
+| [Cops de Cap](https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY) | [Pedro Vian](https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE) | [Black Toms](https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l) | 5:39 | 2021-10-06 |  |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-06 | 2024-07-03 |
 | [Creatura](https://open.spotify.com/track/3HwM404FecueIoHgUGl6b1) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/1ZCpJ8e52gDDTWL5UMr5Dm) | 4:12 | 2022-04-09 | 2022-08-05 |
 | [Creatura](https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/7iKvcnzcqiPHlyvXKvs0d3) | 4:12 | 2022-04-09 | 2024-04-19 |

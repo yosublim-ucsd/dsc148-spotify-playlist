@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > 🚨<a href="spotify:artist:5H4yInM5zmHqpKIoMNAx4r">Central Cee</a> /  <a href="spotify:artist:1URnnhqYAYcrqrcwql10ft">21 Savage</a>🚨
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,189 likes - 105 songs - 5 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,185 likes - 105 songs - 5 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

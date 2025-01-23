@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 
 > \*vibing in desi\*
 
-[Spotify](https://open.spotify.com/user/spotify) - 151,486 likes - 129 songs - 7 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 151,581 likes - 129 songs - 7 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -127,7 +127,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWlfVnonJ8S6.md) - [plain]
 | 117 | [Lagta Nahi!](https://open.spotify.com/track/3FNyyZTNw5Mvv4AchUpvWp) | [AMAN](https://open.spotify.com/artist/2fbOTJal9uKzOkYEWxaiCK) | [Lagta Nahi!](https://open.spotify.com/album/0ojMYhDwEnipwzPLRejCN4) | 3:00 |
 | 118 | [Dard \- Lofi Flip](https://open.spotify.com/track/6VtdbAwuw55e4D4iQpMww9) | [Asim Azhar](https://open.spotify.com/artist/1ZChN8G1Y7CJ0TXbrvblwS), [Deepanshu Ruhela](https://open.spotify.com/artist/5dvCHAlgZZBuYuRdSm3dQE) | [Dard \(Lofi Flip\)](https://open.spotify.com/album/6ZzIVuiCUdK96XHSWCP6EV) | 3:05 |
 | 119 | [Fanaa \- Slowed and Reverb](https://open.spotify.com/track/0dDTnD9Y3AtC1E0gnQNjEk) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC) | [Fanaa \(Slowed and Reverb\)](https://open.spotify.com/album/7EVfXzju8FBfGbXv2LxVl2) | 3:17 |
-| 120 | [Main Rang Sharbaton Ka \(Lofi Mix\)](https://open.spotify.com/track/11na2yXOmMbkUL8f5j6vxZ) | [Pritam](https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU), [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ) | [Main Rang Sharbaton Ka \(Lofi Mix\)](https://open.spotify.com/album/6vf0qtPrEMeANYqbeVBAiq) | 2:27 |
+| 120 | [Main Rang Sharbaton Ka \(Lofi Mix\)](https://open.spotify.com/track/11na2yXOmMbkUL8f5j6vxZ) | [Atif Aslam](https://open.spotify.com/artist/2oSONSC9zQ4UonDKnLqksx), [Chinmayi](https://open.spotify.com/artist/5UJ2sHO2ELrgW6aXeRLTQQ), [Abhimanyu\-Pragya](https://open.spotify.com/artist/1seJPM2gF3Bqhnr3T8yqPr) | [Main Rang Sharbaton Ka \(Lofi Mix\)](https://open.spotify.com/album/6vf0qtPrEMeANYqbeVBAiq) | 2:27 |
 | 121 | [Dil Lagi \(Lo\-Fi\)](https://open.spotify.com/track/4dXnzRZ5ii99ZYaw8gUiu6) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0) | [Dil Lagi \(Lo\-Fi\)](https://open.spotify.com/album/0Ts6ikT08JWhNgIAQq70w2) | 4:37 |
 | 122 | [Naina \(Lofi Mix\)](https://open.spotify.com/track/43tdshy577acKp34bdhafy) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(Lofi Mix\)](https://open.spotify.com/album/2Y5S4oA3ouvskvPwvVox4U) | 2:47 |
 | 123 | [Habibi \- Lofi Flip](https://open.spotify.com/track/5oTSTfXwfD25cDJZIFUDG4) | [Rahat Fateh Ali Khan](https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0), [Deepanshu Ruhela](https://open.spotify.com/artist/5dvCHAlgZZBuYuRdSm3dQE), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq) | [Habibi \(Lofi Flip\)](https://open.spotify.com/album/2vg6KLBlk8D9cUO1B4etmt) | 2:57 |

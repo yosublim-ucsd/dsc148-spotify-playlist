@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Niche. The essential tracks, all in one playlist.",
-  "num_followers": 150858,
+  "num_followers": 150886,
   "original_name": "This Is Grupo Niche",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z42SAAAAAACoBx/wHTaPvHytbPWj0O4S",
+  "snapshot_id": "Z47jgAAAAADaBvAN4IriscqZyDxcOOcD",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Control Absoluto",
-        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
+        "name": "Imaginacion",
+        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 337998,
-      "name": "Ganas",
-      "url": "https://open.spotify.com/track/2FyBP2WeAToXkjtulhFqqb"
+      "duration_ms": 292360,
+      "name": "Ni Como Amiga Ni Como Amante",
+      "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginacion",
-        "url": "https://open.spotify.com/album/6wA6aH6FhwbhVxiCC7QfLs"
+        "name": "Control Absoluto",
+        "url": "https://open.spotify.com/album/02P7Yan85kfSzMZZR6CFx9"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 292360,
-      "name": "Ni Como Amiga Ni Como Amante",
-      "url": "https://open.spotify.com/track/5Ua7mixHbm9UTAz3Zjpi2s"
+      "duration_ms": 337998,
+      "name": "Ganas",
+      "url": "https://open.spotify.com/track/2FyBP2WeAToXkjtulhFqqb"
     },
     {
       "added_at": null,
@@ -299,8 +299,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Llegando Al 100%",
-        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
+        "name": "10 De Colecci\u00f3n",
+        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
       },
       "artists": [
         {
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 320293,
-      "name": "Mi Pueblo Natal",
-      "url": "https://open.spotify.com/track/6w0pUXGoLl60XKgE3L38zZ"
+      "duration_ms": 280266,
+      "name": "La Canoa Ranchaa",
+      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
     },
     {
       "added_at": null,
@@ -331,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "10 De Colecci\u00f3n",
-        "url": "https://open.spotify.com/album/3SqhRQcCP4j8ge7ApdFcsk"
+        "name": "Llegando Al 100%",
+        "url": "https://open.spotify.com/album/3StG3Gf4htUHrDnUiC3eqT"
       },
       "artists": [
         {
@@ -340,9 +340,9 @@
           "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
         }
       ],
-      "duration_ms": 280266,
-      "name": "La Canoa Ranchaa",
-      "url": "https://open.spotify.com/track/31B9xbxWwOBIV0JWT6nKAN"
+      "duration_ms": 320293,
+      "name": "Mi Pueblo Natal",
+      "url": "https://open.spotify.com/track/6w0pUXGoLl60XKgE3L38zZ"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tapando el Hueco",
-        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
-      },
-      "artists": [
-        {
-          "name": "Grupo Niche",
-          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
-        }
-      ],
-      "duration_ms": 305506,
-      "name": "Mi Valle del Cauca",
-      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Una Aventura...La Historia",
         "url": "https://open.spotify.com/album/4at8kygDVfKHWHIXox7uGs"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 288120,
       "name": "Un Alto en el Camino",
       "url": "https://open.spotify.com/track/5F9fsLJOvnMEAgFNBuO4xu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Tapando el Hueco",
+        "url": "https://open.spotify.com/album/1KGNkjkmfqZinRinf5h7pM"
+      },
+      "artists": [
+        {
+          "name": "Grupo Niche",
+          "url": "https://open.spotify.com/artist/1zng9JZpblpk48IPceRWs8"
+        }
+      ],
+      "duration_ms": 305506,
+      "name": "Mi Valle del Cauca",
+      "url": "https://open.spotify.com/track/0gwOJxIieMOPrdr3zeLZ5J"
     },
     {
       "added_at": null,

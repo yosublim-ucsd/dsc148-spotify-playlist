@@ -1,12 +1,12 @@
 {
   "description": "Indie & Alternative op zijn best. Cover: Fontaines DC",
-  "num_followers": 109879,
+  "num_followers": 109874,
   "original_name": "Indie XL",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4ke+gAAAAB2QUfRcfIbvXTkm4VZw5yB",
+  "snapshot_id": "Z5DrHAAAAACcJsdIvzyI33BF6JZ3PPX/",
   "tracks": [
     {
       "added_at": "2025-01-16 15:00:10",
@@ -67,38 +67,6 @@
     {
       "added_at": "2025-01-16 15:00:10",
       "album": {
-        "name": "Daddy's Selling Wine In A Burning House",
-        "url": "https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1"
-      },
-      "artists": [
-        {
-          "name": "Sylvie Kreusch",
-          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
-        }
-      ],
-      "duration_ms": 264319,
-      "name": "Daddy's Selling Wine In A Burning House",
-      "url": "https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD"
-    },
-    {
-      "added_at": "2025-01-16 15:00:10",
-      "album": {
-        "name": "a craving",
-        "url": "https://open.spotify.com/album/4QNr6M9uj3a15zz8RigvjB"
-      },
-      "artists": [
-        {
-          "name": "POM",
-          "url": "https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv"
-        }
-      ],
-      "duration_ms": 194013,
-      "name": "a craving",
-      "url": "https://open.spotify.com/track/2vKehcuTw3lNaP2Q2wvNWr"
-    },
-    {
-      "added_at": "2025-01-16 15:00:10",
-      "album": {
         "name": "Messy",
         "url": "https://open.spotify.com/album/2ZA9At0a1IsXTyL8nInUBS"
       },
@@ -115,18 +83,50 @@
     {
       "added_at": "2025-01-16 15:00:10",
       "album": {
-        "name": "Unaired",
-        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
+        "name": "Daddy's Selling Wine In A Burning House",
+        "url": "https://open.spotify.com/album/7zqjNLbmzTee6fzqCTg4K1"
       },
       "artists": [
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Sylvie Kreusch",
+          "url": "https://open.spotify.com/artist/11T0XSkxSB5KUPTe8P8BOl"
         }
       ],
-      "duration_ms": 237213,
-      "name": "Nobody's Soldier",
-      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
+      "duration_ms": 264319,
+      "name": "Daddy's Selling Wine In A Burning House",
+      "url": "https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD"
+    },
+    {
+      "added_at": "2025-01-16 15:00:10",
+      "album": {
+        "name": "In My Head",
+        "url": "https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        }
+      ],
+      "duration_ms": 350160,
+      "name": "In My Head",
+      "url": "https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR"
+    },
+    {
+      "added_at": "2025-01-16 15:00:10",
+      "album": {
+        "name": "a craving",
+        "url": "https://open.spotify.com/album/4QNr6M9uj3a15zz8RigvjB"
+      },
+      "artists": [
+        {
+          "name": "POM",
+          "url": "https://open.spotify.com/artist/7zgtAvNKkyrcJG2Ad1M1Kv"
+        }
+      ],
+      "duration_ms": 194013,
+      "name": "a craving",
+      "url": "https://open.spotify.com/track/2vKehcuTw3lNaP2Q2wvNWr"
     },
     {
       "added_at": "2025-01-16 15:00:10",
@@ -179,6 +179,22 @@
     {
       "added_at": "2025-01-16 15:00:10",
       "album": {
+        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
+        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
+      },
+      "artists": [
+        {
+          "name": "Royel Otis",
+          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
+        }
+      ],
+      "duration_ms": 173800,
+      "name": "If Our Love Is Dead",
+      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
+    },
+    {
+      "added_at": "2025-01-16 15:00:10",
+      "album": {
         "name": "Wrong Ones",
         "url": "https://open.spotify.com/album/5maUNKWdpqEei0OzIdvTbN"
       },
@@ -211,6 +227,22 @@
     {
       "added_at": "2025-01-16 15:00:10",
       "album": {
+        "name": "Unaired",
+        "url": "https://open.spotify.com/album/3CdjgAFBAdPzYHuAYiPJDy"
+      },
+      "artists": [
+        {
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+        }
+      ],
+      "duration_ms": 237213,
+      "name": "Nobody's Soldier",
+      "url": "https://open.spotify.com/track/0UMGY9KzTESYGstyvypV6z"
+    },
+    {
+      "added_at": "2025-01-16 15:00:10",
+      "album": {
         "name": "No Work All Play",
         "url": "https://open.spotify.com/album/2LdzB59HYUdZvGPKWm1Bg5"
       },
@@ -223,38 +255,6 @@
       "duration_ms": 158400,
       "name": "Lonely Boy",
       "url": "https://open.spotify.com/track/56qt0oI2g3Ri0QVlt6TkNK"
-    },
-    {
-      "added_at": "2025-01-16 15:00:10",
-      "album": {
-        "name": "In My Head",
-        "url": "https://open.spotify.com/album/4p0QhpmeWXXo5gbTiimUqA"
-      },
-      "artists": [
-        {
-          "name": "The Haunted Youth",
-          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
-        }
-      ],
-      "duration_ms": 350160,
-      "name": "In My Head",
-      "url": "https://open.spotify.com/track/2Z8fMSm0LojIUwDeQqykKR"
-    },
-    {
-      "added_at": "2025-01-16 15:00:10",
-      "album": {
-        "name": "PRATTS & PAIN (It Ain't Over Til It Ends Edition)",
-        "url": "https://open.spotify.com/album/3tkgZCt1VA1Xf1pDGtYrAx"
-      },
-      "artists": [
-        {
-          "name": "Royel Otis",
-          "url": "https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH"
-        }
-      ],
-      "duration_ms": 173800,
-      "name": "If Our Love Is Dead",
-      "url": "https://open.spotify.com/track/1x1zGuT83cK1gDYZzCSVrk"
     },
     {
       "added_at": "2025-01-16 15:00:10",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-01-16 15:00:10",
       "album": {
+        "name": "Into You",
+        "url": "https://open.spotify.com/album/4tvMqUAzqNckVfYZ2bGkOZ"
+      },
+      "artists": [
+        {
+          "name": "The Haunted Youth",
+          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
+        }
+      ],
+      "duration_ms": 284314,
+      "name": "Into You",
+      "url": "https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE"
+    },
+    {
+      "added_at": "2025-01-16 15:00:10",
+      "album": {
         "name": "Bonfire",
         "url": "https://open.spotify.com/album/7pjAWJqyjObF9AGVWFRHi3"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 214756,
       "name": "After the First Kiss",
       "url": "https://open.spotify.com/track/5bPwGutk2BKA46R4hQuZZ0"
-    },
-    {
-      "added_at": "2025-01-16 15:00:10",
-      "album": {
-        "name": "Into You",
-        "url": "https://open.spotify.com/album/4tvMqUAzqNckVfYZ2bGkOZ"
-      },
-      "artists": [
-        {
-          "name": "The Haunted Youth",
-          "url": "https://open.spotify.com/artist/2BJzRLleDH2jTAArbI4Xod"
-        }
-      ],
-      "duration_ms": 284314,
-      "name": "Into You",
-      "url": "https://open.spotify.com/track/6mIE4SuwCMmWfUPEkeonEE"
     },
     {
       "added_at": "2025-01-16 15:00:10",

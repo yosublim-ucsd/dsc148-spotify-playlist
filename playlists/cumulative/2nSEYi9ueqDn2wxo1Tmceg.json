@@ -623,6 +623,24 @@
     },
     {
       "album": {
+        "name": "Box of Dark Roses",
+        "url": "https://open.spotify.com/album/4ZvT0dsezILOXo0YEV6Z8Q"
+      },
+      "artists": [
+        {
+          "name": "Mope Grooves",
+          "url": "https://open.spotify.com/artist/180kJdOQylLrSL0euYbqLF"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235253,
+      "name": "Aileen",
+      "url": "https://open.spotify.com/track/51v4tXI6Yd0MPv7z2SoBaB"
+    },
+    {
+      "album": {
         "name": "Air Drumming Fix You",
         "url": "https://open.spotify.com/album/5fVebLQz6IcyjQPFzcuhqS"
       },
@@ -1542,7 +1560,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 120183,
       "name": "At My Door",
       "url": "https://open.spotify.com/track/1eKJJJcSzxvZw1cjGYe0O0"
@@ -3094,7 +3112,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 220944,
       "name": "C'mon Dive",
       "url": "https://open.spotify.com/track/3ldEcTJVxYIIgAyYtMTMHc"
@@ -4252,7 +4270,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 197000,
       "name": "Crisis",
       "url": "https://open.spotify.com/track/3xobtE6FZBCCr46WR0OGCf"
@@ -4512,7 +4530,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 197564,
       "name": "dancing with ayesha",
       "url": "https://open.spotify.com/track/1ILj5zkEkAylccQlLXUGt8"
@@ -4622,6 +4640,24 @@
       "duration_ms": 174133,
       "name": "Date Night",
       "url": "https://open.spotify.com/track/7zQkwd2nzVq1EYn2bxkuyo"
+    },
+    {
+      "album": {
+        "name": "Daughters",
+        "url": "https://open.spotify.com/album/1UgNYTpMGQ0SbGveVejcX3"
+      },
+      "artists": [
+        {
+          "name": "NYX",
+          "url": "https://open.spotify.com/artist/4vghvskxE7yNmrXWimHrmo"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 389733,
+      "name": "Daughters",
+      "url": "https://open.spotify.com/track/6TQ56mVPuYtCvXu6pz7gbp"
     },
     {
       "album": {
@@ -5210,6 +5246,24 @@
       "duration_ms": 252361,
       "name": "Don't Take It Personal",
       "url": "https://open.spotify.com/track/2QjO1iDxh78l7ogVCzWU4w"
+    },
+    {
+      "album": {
+        "name": "Doom Orchid",
+        "url": "https://open.spotify.com/album/1mQdOfx5dY7rSl0k5ZKFEA"
+      },
+      "artists": [
+        {
+          "name": "Hayden Thorpe",
+          "url": "https://open.spotify.com/artist/2oTq85rZFxkflPCbDUGs6d"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "Doom Orchid",
+      "url": "https://open.spotify.com/track/3mZCinMmfx8rdNRklBpfVH"
     },
     {
       "album": {
@@ -9221,6 +9275,24 @@
     },
     {
       "album": {
+        "name": "I Can't Stop",
+        "url": "https://open.spotify.com/album/7wT5M5KUVFz3Tqg0aqC5gB"
+      },
+      "artists": [
+        {
+          "name": "Sharp Pins",
+          "url": "https://open.spotify.com/artist/0eTeMvSkCzEnLH4EgHhrzN"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250006,
+      "name": "I Can't Stop",
+      "url": "https://open.spotify.com/track/6WEUFMh3CQeFEcksl5uPwV"
+    },
+    {
+      "album": {
         "name": "Late Developers",
         "url": "https://open.spotify.com/album/7LJdM0B6bp0H78AN7cwqHp"
       },
@@ -9684,7 +9756,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 199360,
       "name": "I'd Fly Tip For You",
       "url": "https://open.spotify.com/track/2HoBinmo9MKPWsUssK2U9Y"
@@ -11313,6 +11385,24 @@
     },
     {
       "album": {
+        "name": "Knowledge",
+        "url": "https://open.spotify.com/album/7sYuBLmK6P9QNhQyxK8clN"
+      },
+      "artists": [
+        {
+          "name": "Edwyn Collins",
+          "url": "https://open.spotify.com/artist/5Qlt3zQ63Z99mNhuun0JAT"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195253,
+      "name": "Knowledge",
+      "url": "https://open.spotify.com/track/4bwKsNatPLsfuoZ7l29xiC"
+    },
+    {
+      "album": {
         "name": "U.F.O.",
         "url": "https://open.spotify.com/album/3lsiZe2JwHyakKmB4EvTrj"
       },
@@ -12108,7 +12198,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 251360,
       "name": "Lorelei",
       "url": "https://open.spotify.com/track/4v1iJtw7eco5J0H7DFRTui"
@@ -16099,6 +16189,24 @@
     },
     {
       "album": {
+        "name": "Raoul",
+        "url": "https://open.spotify.com/album/2lWLuPhglhZMRb5fvbmdmN"
+      },
+      "artists": [
+        {
+          "name": "Snapped Ankles",
+          "url": "https://open.spotify.com/artist/4iWOyexPqcvgycdx7mLUcl"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307786,
+      "name": "Raoul",
+      "url": "https://open.spotify.com/track/1vwEPyKwOkllCo6ulQJR3I"
+    },
+    {
+      "album": {
         "name": "Rapid Fire / Kaitlyn Aurelia Smith Remix",
         "url": "https://open.spotify.com/album/4fhjIERJZDttnJmT9W53f2"
       },
@@ -18419,6 +18527,24 @@
     },
     {
       "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/7ItAuhwHxQfCXcvDiYPBvi"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327135,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/44ebgjxzcwNdeQ41M2KJsf"
+    },
+    {
+      "album": {
         "name": "Storm Days",
         "url": "https://open.spotify.com/album/0GRmEtInhC6LOvfhGEwdgc"
       },
@@ -19259,6 +19385,24 @@
     },
     {
       "album": {
+        "name": "The Company of Strangers",
+        "url": "https://open.spotify.com/album/4RZogVickIp17axdDV09RZ"
+      },
+      "artists": [
+        {
+          "name": "The Golden Dregs",
+          "url": "https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227666,
+      "name": "The Company of Strangers",
+      "url": "https://open.spotify.com/track/1XmCm2T4ruDDLCQFiJohcb"
+    },
+    {
+      "album": {
         "name": "The Day I Said You'd Died (He Lives)",
         "url": "https://open.spotify.com/album/1AzflIHXKvj9BSiMhmOarJ"
       },
@@ -19476,7 +19620,7 @@
       ],
       "date_added": "2024-11-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 275584,
       "name": "The Laugh Is in the Eyes",
       "url": "https://open.spotify.com/track/0rLaqmy7yVAJpysriTYmT1"
@@ -20630,7 +20774,7 @@
       ],
       "date_added": "2024-11-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 181986,
       "name": "Top Shelf",
       "url": "https://open.spotify.com/track/4LiwtekLNmPvuA7gYfuPAA"

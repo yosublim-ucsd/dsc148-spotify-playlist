@@ -4,7 +4,7 @@
 
 > <a href="spotify:artist:5ITI6SEoUZMIXXkzCfr4oE">Aluna</a>'s favorite tracks\. Updated regularly\. Curated by Aluna\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-347 songs - 21 hr 31 min
+348 songs - 21 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -168,6 +168,7 @@
 | [KILO \- LSDXOXO Remix](https://open.spotify.com/track/5lhES89BF3gE4XJReYFUqs) | [The Martinez Brothers](https://open.spotify.com/artist/7B1LLuCQk13H4Mb6CFBftU), [Tokischa](https://open.spotify.com/artist/2p4aN0Uxkk3iT3HK0cJ2cJ), [LSDXOXO](https://open.spotify.com/artist/2M2blWl1LBN2UoxlJdaug2) | [KILO \(Remixes\)](https://open.spotify.com/album/0TKez4ifvhEcDn0Z6uDeaX) | 3:42 | 2023-08-17 | 2024-12-28 |
 | [Kiss It Better](https://open.spotify.com/track/78VvdxcfXAYBhdzuLFFvSK) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better](https://open.spotify.com/album/7b3D4oZOXrhYv04WU6yd3m) | 4:17 | 2022-09-30 | 2024-06-22 |
 | [Kiss It Better \- MJ Cole Remix](https://open.spotify.com/track/62AYZyWHYitJJ4oBOg1wda) | [Aluna](https://open.spotify.com/artist/5ITI6SEoUZMIXXkzCfr4oE), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl), [MK](https://open.spotify.com/artist/1yqxFtPHKcGcv6SXZNdyT9) | [Kiss It Better \(MJ Cole Remix\)](https://open.spotify.com/album/4CcsxDNRrYs6CxlY62XWN3) | 4:03 | 2023-01-30 | 2024-03-16 |
+| [Knees Ain't Weak](https://open.spotify.com/track/2Tg8BOKriRdRivfijT6BP8) | [RaeCola](https://open.spotify.com/artist/4ZLYabLbKeMkfAsFNESfpj) | [Knees Ain't Weak](https://open.spotify.com/album/0n6CixpnE6HXJrXwTQ8qfK) | 3:42 | 2025-01-22 |  |
 | [Koo Koo Fun](https://open.spotify.com/track/2HORPUGED7D2cFs9OLJKNH) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Piano Republik](https://open.spotify.com/album/5ggKabvYHoNLEyl3x5K4iZ) | 3:13 | 2023-09-15 | 2024-04-19 |
 | [Koo Koo Fun](https://open.spotify.com/track/5p72JhTONMuDMvDsgYAZDC) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi) | [Piano Republik](https://open.spotify.com/album/7Bv6Vg8y1Cwl7b9TV1xSqQ) | 3:13 | 2024-04-19 |  |
 | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/track/3mO0E6D3BsdBLjDCImi65H) | [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Major League Djz](https://open.spotify.com/artist/0N3AcLTAS3vcx93PxN2Agb), [Tiwa Savage](https://open.spotify.com/artist/1hNaHKp2Za5YdOAG0WnRbc), [DJ Maphorisa](https://open.spotify.com/artist/0mMqD2uqwvCjFvlzo6ayGi), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Koo Koo Fun \(feat\. Tiwa Savage & DJ Maphorisa\)](https://open.spotify.com/album/7iDZn6XFwYdbq6jGYNXnrj) | 3:13 | 2023-05-05 | 2023-09-16 |

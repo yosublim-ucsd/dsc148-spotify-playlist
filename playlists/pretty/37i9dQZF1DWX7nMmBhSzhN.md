@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 
 > Soothe your broken heart with these timeless Bollywood tunes.
 
-[Spotify](https://open.spotify.com/user/spotify) - 172,130 likes - 50 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 172,374 likes - 50 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX7nMmBhSzhN.md) - [plain]
 | 29 | [Kaash Kahin Aisa Hota](https://open.spotify.com/track/1jloedPfCUrw9ApwSKKGAb) | [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Mohra \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/2PqGBYRvfSWEh3eoHPNEnA) | 5:05 |
 | 30 | [Khata Toh Jab Ho](https://open.spotify.com/track/6gb1yJlVK7YjDUu9iKdAHF) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz), [Kumar Sanu](https://open.spotify.com/artist/4K6blSRoklNdpw4mzLxwfn) | [Dil Ka Kya Kasoor \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5ONg9pcYSvmMb7U8TCbhFi) | 6:08 |
 | 31 | [Tujhe Pyar Karte Karte \- Female Version](https://open.spotify.com/track/2pUvkO1DBR0qvVkgAUk4NB) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Naajayaz \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7m84dfY0n4DnoB6rGT8tuM) | 7:12 |
-| 32 | [Pyar Ke Liye](https://open.spotify.com/track/2oBSn18iPMom9cY5dDVwQZ) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ) | [Dil Kya Kare \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Znd5F1rGGcrj6drlTmff1) | 5:05 |
+| 32 | [Pyar Ke Liye](https://open.spotify.com/track/2oBSn18iPMom9cY5dDVwQZ) | [Jatin\-Lalit](https://open.spotify.com/artist/4YgUVg4p7xtMOrOS4GjiJZ), [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Dil Kya Kare \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/0Znd5F1rGGcrj6drlTmff1) | 5:05 |
 | 33 | [Tune Zamane Ye Kya Kar Diya](https://open.spotify.com/track/1bU6jdC9p3vf3ufR7sCZNv) | [Anuradha Paudwal](https://open.spotify.com/artist/4hkB2bR5ek6lJChj6aunCn), [Vipin Sachdeva](https://open.spotify.com/artist/3izgcexQY0nJQiSMchE0dJ) | [Jeena Marna Tere Sang](https://open.spotify.com/album/2yz7UrxzL3jModmo9NNuEG) | 5:17 |
 | 34 | [Chithi Na Koi Sandesh\-Jagjit Singh](https://open.spotify.com/track/78iiDXq2EBsTwnnJJWCuLy) | [Jagjit Singh](https://open.spotify.com/artist/2ijWbN5KykTYiBoVmhzCTU) | [Dushman](https://open.spotify.com/album/0pub8C9gtg44VdEbfemE33) | 6:37 |
 | 35 | [Gali Mein Chand \- Sad](https://open.spotify.com/track/0fryaPZ0trTqvvKn7AZel9) | [Alka Yagnik](https://open.spotify.com/artist/3gBKY0y3dFFVRqicLnVZYz) | [Zakhm](https://open.spotify.com/album/1fpEpptReH6R5nzBTEzTxr) | 3:09 |

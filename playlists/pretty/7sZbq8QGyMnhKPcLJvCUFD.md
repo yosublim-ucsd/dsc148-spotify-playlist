@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 730,479 likes - 105 songs - 5 hr 14 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 730,465 likes - 105 songs - 5 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 6 | [Fearless Pt\. II](https://open.spotify.com/track/4y1nvncvBhdoelqPMyXxis) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Fearless Pt\. II](https://open.spotify.com/album/47iQRvTe8uiasjN9jIS1nr) | 3:14 |
 | 7 | [Mortals Funk Remix](https://open.spotify.com/track/13vMIbppyQ6TKHeXQr9IVG) | [LXNGVX](https://open.spotify.com/artist/5IpS1TN1Crp8Ym4zjiIrtK), [Warriyo](https://open.spotify.com/artist/153gpNcKRhv5Cn30q375Mr) | [Mortals Funk Remix](https://open.spotify.com/album/6Z5Wly0XcK7vMicO2QwsS6) | 2:26 |
 | 8 | [Desperate](https://open.spotify.com/track/4DJSjJkCIwAaMuvQKp6KJV) | [NEFFEX](https://open.spotify.com/artist/3z97WMRi731dCvKklIf2X6), [Tokyo Machine](https://open.spotify.com/artist/3bwENxqj9nhaAI3fsAwmv9) | [Desperate](https://open.spotify.com/album/6a8tVFDO5PYtLhnrEC5FaB) | 3:55 |
-| 9 | [Muscle Up](https://open.spotify.com/track/6ohMnobGz2rZWko0FQ0PQf) | [Skan](https://open.spotify.com/artist/7z8fkGpUDt6eb6fyysRTH9), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr), [Ryo](https://open.spotify.com/artist/6kUea2ux0MVcIT9wC11RLj) | [Muscle Up](https://open.spotify.com/album/2MJM7Xx1488SZsiBdmdyYI) | 3:08 |
+| 9 | [Muscle Up](https://open.spotify.com/track/6ohMnobGz2rZWko0FQ0PQf) | [Skan](https://open.spotify.com/artist/7z8fkGpUDt6eb6fyysRTH9), [Drama B](https://open.spotify.com/artist/1Ars2RdXFbmt04pZ5g2RNr), [Ryo](https://open.spotify.com/artist/1PJlpvzsApOmPyX3FnSPcF) | [Muscle Up](https://open.spotify.com/album/2MJM7Xx1488SZsiBdmdyYI) | 3:08 |
 | 10 | [Geometry](https://open.spotify.com/track/0AmYNX6Ho7z4o4auoaupYN) | [Tobu](https://open.spotify.com/artist/1feoGrmmD8QmNqtK2Gdwy8), [Diviners](https://open.spotify.com/artist/22lnnGKlaDxk8sfzCNRJuA) | [Geometry](https://open.spotify.com/album/2x1RrN4EMDOhzKoR6zf3S4) | 2:35 |
 | 11 | [Second Wind](https://open.spotify.com/track/7d9MoWBBI9sbZnsoW16z5Z) | [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu) | [Second Wind](https://open.spotify.com/album/5e3cX20tXLQKMlNUxTSZ4F) | 3:12 |
 | 12 | [I Can Feel](https://open.spotify.com/track/1rGIVlrTnTImDk9wRV0x9x) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH) | [I Can Feel](https://open.spotify.com/album/2R2FlnXX3CxcK6fb2waAdn) | 2:28 |

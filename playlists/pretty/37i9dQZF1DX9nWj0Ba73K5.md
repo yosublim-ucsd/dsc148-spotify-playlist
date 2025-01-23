@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9nWj0Ba73K5.md) - [plain]
 
 > Featuring the talented songwriters behind your favorite country songs\. Cover: Lori McKenna
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,844 likes - 184 songs - 10 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,858 likes - 184 songs - 10 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

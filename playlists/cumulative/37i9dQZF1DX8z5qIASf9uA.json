@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-01",
-  "description": "El Charro de Huentit\u00e1n, por primera vez con banda sinaloense \ud83d\ude4f\ud83c\udffc\ud83e\udd20\ud83d\udc96  Vicente Fern\u00e1ndez en portada.",
+  "description": "Recordando al hijo de la  leyenda \u2728\ud83d\ude4f\ud83c\udffc  Ad\u00e1n Chalino S\u00e1nchez en portada.",
   "name": "Inmortales de la M\u00fasica Mexicana",
   "tracks": [
     {
@@ -70,7 +70,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 195373,
       "name": "Ac\u00e1 Entre Nos",
       "url": "https://open.spotify.com/track/2FDFz5TuYlpP180AUicAcl"
@@ -558,7 +558,7 @@
       ],
       "date_added": "2021-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 208866,
       "name": "El Chico Del Apartamento 512",
       "url": "https://open.spotify.com/track/1lh3TnDpfNBNfLfOWghNnp"
@@ -778,7 +778,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 171745,
       "name": "El Sinaloense",
       "url": "https://open.spotify.com/track/2unGXGnJVOp7arBxafNQxv"
@@ -944,7 +944,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 175101,
       "name": "Florita Del Alma",
       "url": "https://open.spotify.com/track/2HFV1Ag8fdvGqF28TVHtKp"
@@ -980,7 +980,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 167979,
       "name": "Hace un A\u00f1o",
       "url": "https://open.spotify.com/track/0M5qeMHYJ3T89v9MSXVEUC"
@@ -1016,10 +1016,28 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 156866,
       "name": "Hermoso Cari\u00f1o",
       "url": "https://open.spotify.com/track/6UN6W5tj0qrMYV8N9MQMJC"
+    },
+    {
+      "album": {
+        "name": "El \u00danico",
+        "url": "https://open.spotify.com/album/0YEoAwNzJvsrQV7NwB00Lf"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174428,
+      "name": "Idos De La Mente",
+      "url": "https://open.spotify.com/track/0Rs3glDqc2YTOK8LDS0dah"
     },
     {
       "album": {
@@ -1278,10 +1296,28 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 257266,
       "name": "L\u00e1stima Que Seas Ajena",
       "url": "https://open.spotify.com/track/5knj5DnKoHo30GHlHbvkyt"
+    },
+    {
+      "album": {
+        "name": "Padre e Hijo",
+        "url": "https://open.spotify.com/album/6yTtdxZpn9uuBCHm5OSWyl"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212280,
+      "name": "Me Canse De Morir Por Tu Amor",
+      "url": "https://open.spotify.com/track/7gFDY4Dce0ZIiNeWbXNxk9"
     },
     {
       "album": {
@@ -1422,7 +1458,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 214258,
       "name": "Mi Gusto Es",
       "url": "https://open.spotify.com/track/7rY1SSgMIoXIXHH0EVjBPI"
@@ -1444,6 +1480,24 @@
       "duration_ms": 222866,
       "name": "Millonario De Amor",
       "url": "https://open.spotify.com/track/7LCymER3kimMSSMBnuyEub"
+    },
+    {
+      "album": {
+        "name": "Te Vengo A Ver... Con Banda Sinaloense",
+        "url": "https://open.spotify.com/album/1Q509CJBSRfYQeJ9lqZ0P4"
+      },
+      "artists": [
+        {
+          "name": "Adan Chalino Sanchez",
+          "url": "https://open.spotify.com/artist/2zyNL1jSCA6HH5m0BZZTgy"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181463,
+      "name": "Misa de Cuerpo Presente",
+      "url": "https://open.spotify.com/track/3TQb4FBJq97WEnL62VHpwl"
     },
     {
       "album": {
@@ -1476,7 +1530,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2024-11-30",
+      "date_removed": null,
       "duration_ms": 193333,
       "name": "Mujeres Divinas",
       "url": "https://open.spotify.com/track/3KapNGuqWYFl9gBfJz9tOT"
@@ -1632,7 +1686,7 @@
       ],
       "date_added": "2024-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 193240,
       "name": "Pero Te Vas A Arrepentir",
       "url": "https://open.spotify.com/track/6DWA4R2XGw2jY5xTZKpvl5"
@@ -1672,7 +1726,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-23",
       "duration_ms": 128531,
       "name": "Por una Mujer Casada",
       "url": "https://open.spotify.com/track/0Pzp1jw4YqVXGdiN6KHccC"

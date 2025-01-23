@@ -1,13 +1,29 @@
 {
   "description": "To the world, Here is NCT! Hi we are NCT!",
-  "num_followers": 640961,
+  "num_followers": 640951,
   "original_name": "This Is NCT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z2DlwQAAAABVyGBbvRcJjKQaAkD4o00u",
+  "snapshot_id": "Z5DomAAAAAAOSyRherP5Q+NYa0gwgDNI",
   "tracks": [
+    {
+      "added_at": "2025-01-22 12:46:16",
+      "album": {
+        "name": "Miracle",
+        "url": "https://open.spotify.com/album/7zbTQIpm8CySFIOJmNLAzL"
+      },
+      "artists": [
+        {
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+        }
+      ],
+      "duration_ms": 177106,
+      "name": "Miracle",
+      "url": "https://open.spotify.com/track/1Oq3Rz9yl5uNXftGrHQYS5"
+    },
     {
       "added_at": "2024-12-17 02:45:21",
       "album": {

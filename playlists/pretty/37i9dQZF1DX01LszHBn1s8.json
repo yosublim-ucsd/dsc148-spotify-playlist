@@ -1,12 +1,12 @@
 {
   "description": "DtMF \ud83d\udcf8",
-  "num_followers": 264748,
+  "num_followers": 264722,
   "original_name": "pov",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z44QSwAAAAA6QG1enQAWPrOegIuU2kXb",
+  "snapshot_id": "Z5Dj5QAAAADu+qSl/OeOB4tfTxJbePNf",
   "tracks": [
     {
       "added_at": "2025-01-10 13:36:41",
@@ -87,6 +87,22 @@
       "duration_ms": 237000,
       "name": "Da' Dip",
       "url": "https://open.spotify.com/track/76YDsWGWezclVy9Z6sDGhf"
+    },
+    {
+      "added_at": "2025-01-22 12:26:13",
+      "album": {
+        "name": "Weathervane",
+        "url": "https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25"
+      },
+      "artists": [
+        {
+          "name": "Hunter Metts",
+          "url": "https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14"
+        }
+      ],
+      "duration_ms": 224173,
+      "name": "Weathervane",
+      "url": "https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR"
     },
     {
       "added_at": "2025-01-09 23:00:11",
@@ -231,6 +247,22 @@
       "duration_ms": 220779,
       "name": "La La La",
       "url": "https://open.spotify.com/track/52gvlDnre9craz9dKGObp8"
+    },
+    {
+      "added_at": "2025-01-22 08:27:23",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
     },
     {
       "added_at": "2025-01-09 23:00:11",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 
 > Οι μεγαλύτερες επιτυχίες του σήμερα και του αύριο, επιλεγμένες από την ομάδα μας\. Εξώφυλλο: Trannos
 
-[Spotify](https://open.spotify.com/user/spotify) - 260,198 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 260,318 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0e5BFIQWSDG.md) - [plain]
 | 45 | [Me Sighorite](https://open.spotify.com/track/7w7vv8KOKEC9VoyEaj49ww) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Me Sighorite](https://open.spotify.com/album/6gMuD6HJT8Ixnu73PIiXLk) | 3:30 |
 | 46 | [Skoteine Mou Erota](https://open.spotify.com/track/2ne8nKFYuYTUnhsUAtELii) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Skoteine Mou Erota](https://open.spotify.com/album/44Yy04tr3fuqM278nG4wuO) | 4:14 |
 | 47 | [Die With A Smile](https://open.spotify.com/track/2plbrEY59IikOBgBGLjaoe) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms), [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [Die With A Smile](https://open.spotify.com/album/10FLjwfpbxLmW8c25Xyc2N) | 4:11 |
-| 48 | [FAST LIFE](https://open.spotify.com/track/7wW0e6qtNpzH5CWSH3xzJp) | [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [Dj Paris](https://open.spotify.com/artist/2SPcc674zxWa2igyUZCASd) | [FAST LIFE](https://open.spotify.com/album/7yviWP3S1VUzDFHaokxFGd) | 2:08 |
+| 48 | [FAST LIFE](https://open.spotify.com/track/7wW0e6qtNpzH5CWSH3xzJp) | [Bres](https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr), [Kidd](https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou), [PAR1S](https://open.spotify.com/artist/6rZK15LxP7rOo0npKh0biK) | [FAST LIFE](https://open.spotify.com/album/7yviWP3S1VUzDFHaokxFGd) | 2:08 |
 | 49 | [Xeirovomvida](https://open.spotify.com/track/7uCY7wvVuRPuo9i9p6ZUc7) | [Stavento](https://open.spotify.com/artist/43LNzVQi3AUDm6NGSlg4BK), [LILA](https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC) | [Xeirovomvida](https://open.spotify.com/album/5m8SClJMQuzg2Ebz10RSYd) | 3:22 |
 | 50 | [MATRIX](https://open.spotify.com/track/4SMXHvHA1FtsekSN6BWnJy) | [Karnalh](https://open.spotify.com/artist/0YwSU2NF2cXIME0vXeJVmL), [Exus186](https://open.spotify.com/artist/3nvjSCVp4IrkqLU8xmJ1n4) | [MATRIX](https://open.spotify.com/album/6DXj8zcaB9ls3dECyOh0EU) | 2:37 |
 

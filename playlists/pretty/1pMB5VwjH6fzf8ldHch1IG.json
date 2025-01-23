@@ -1,12 +1,12 @@
 {
   "description": "Stream your favourite trending tracks and discover new jams along the way! Cover: SZA.",
-  "num_followers": 45141,
+  "num_followers": 45140,
   "original_name": "Trending Now",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AABIwHgti/8i40ALkRa9cTYxrAvQtpy3",
+  "snapshot_id": "AABIwrSc7N/6CBOI0h2tadsBSrMvMdzL",
   "tracks": [
     {
       "added_at": "2025-01-17 16:36:10",
@@ -319,6 +319,26 @@
       "duration_ms": 164129,
       "name": "Westside Connection",
       "url": "https://open.spotify.com/track/5MB3ujdz0ChivX9yuyR36Z"
+    },
+    {
+      "added_at": "2025-01-22 18:34:18",
+      "album": {
+        "name": "Cosa Nuestra",
+        "url": "https://open.spotify.com/album/0aX0UXrHG2ceYIxTQcqJdA"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0l0vcZMU7AOeQmUIREoI2U"
     },
     {
       "added_at": "2025-01-17 16:36:10",

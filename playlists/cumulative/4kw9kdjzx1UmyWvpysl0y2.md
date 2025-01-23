@@ -4,12 +4,13 @@
 
 > Brand new music from Monstercat, all in one place.
 
-898 songs - 2 day 2 hr 59 min
+899 songs - 2 day 3 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [...Ready For It?](https://open.spotify.com/track/7dMHikM2EFipQdSyDZbnsE) | [MUZZ](https://open.spotify.com/artist/4UNnRb4LN2hGtbtMfPzMhg), [Skyelle](https://open.spotify.com/artist/5mMt0V809N7Y5mOUYsmOW6) | [...Ready For It?](https://open.spotify.com/album/4DXlmR7JJ4epvcYOqL6jet) | 3:50 | 2023-05-25 | 2023-08-20 |
 | [1975](https://open.spotify.com/track/5bQqkBDFptj1oNKoVDVsGI) | [Silent Child](https://open.spotify.com/artist/59XQUEHhy5830QsAsmhe2M) | [Paranoid Optimist](https://open.spotify.com/album/2XuM7DMo1S8BueOOxBuiYl) | 2:11 | 2022-05-06 | 2022-07-19 |
+| [2 Da Floor](https://open.spotify.com/track/4Ohib4VJPYTuejPQEEHkSb) | [Deorro](https://open.spotify.com/artist/6VD4UEUPvtsemqD3mmTqCR), [Riot Ten](https://open.spotify.com/artist/2Zxy5LwBatI5kw4uponwHQ), [J\. Cruze](https://open.spotify.com/artist/4GiK8nFWRB2wXQRmXwHd1V) | [2 Da Floor](https://open.spotify.com/album/2d9W68klknSNLEop3L4Y5L) | 3:05 | 2025-01-22 |  |
 | [2hard2letgo](https://open.spotify.com/track/5ZXIXykKMHmCRoZJz53OnA) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo](https://open.spotify.com/album/3PR1n9VEgRTrjkfG8DStrp) | 3:46 | 2022-06-07 | 2022-08-20 |
 | [2hard2letgo \- Acoustic](https://open.spotify.com/track/6b7AC4lKNIuCMSVzDHOS18) | [helloworld](https://open.spotify.com/artist/01qG5pbsKe96w87ZMjphP4) | [2hard2letgo \(Acoustic\)](https://open.spotify.com/album/65jfBY2rxFAiB26CmNGiMA) | 4:36 | 2022-12-06 | 2023-03-04 |
 | [2NITE](https://open.spotify.com/track/4DPQLiWUDwnQp9NJ57CgoW) | [nanobii](https://open.spotify.com/artist/7mUsBZ6g6BbAu2MBU8Nsu3) | [2NITE](https://open.spotify.com/album/3utDd56IEEsiwsFweMkqfB) | 3:19 | 2023-01-05 | 2023-03-18 |

@@ -1,13 +1,281 @@
 {
-  "description": "The best new pop music from new, independent artists.  Cover: ENILA. Artwork by Paola Saliby",
-  "num_followers": 222534,
+  "description": "The best new pop music from new, independent artists.  Cover: Saga Faye. Artwork by Paola Saliby",
+  "num_followers": 222659,
   "original_name": "Fresh Finds Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4qNnAAAAAD73s/Qz92MkaTQ3VUK3veI",
+  "snapshot_id": "Z5FHQAAAAACASw1W63VafaGAzSpeRhsN",
   "tracks": [
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "Who are you?",
+        "url": "https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn"
+      },
+      "artists": [
+        {
+          "name": "Saga Faye",
+          "url": "https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv"
+        }
+      ],
+      "duration_ms": 151979,
+      "name": "Who are you?",
+      "url": "https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "LUCKY BOY",
+        "url": "https://open.spotify.com/album/7sC2LnkJihVuPsBPPUPU7y"
+      },
+      "artists": [
+        {
+          "name": "Maxwell Luke",
+          "url": "https://open.spotify.com/artist/1LzbpVQTKYhHewqsn5DCnX"
+        }
+      ],
+      "duration_ms": 168718,
+      "name": "LUCKY BOY",
+      "url": "https://open.spotify.com/track/5w3s73fS7K0Ld0FMjwWooE"
+    },
+    {
+      "added_at": "2025-01-22 19:30:08",
+      "album": {
+        "name": "Killed For Sport",
+        "url": "https://open.spotify.com/album/1VZDqhQ0PHUGWfCLeutBeH"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 254954,
+      "name": "Killed For Sport",
+      "url": "https://open.spotify.com/track/2T95r9PHIfBwRLGxEEz4aW"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "A Little Kinder",
+        "url": "https://open.spotify.com/album/0PSfzTtE8Z7ax2V2aknKCy"
+      },
+      "artists": [
+        {
+          "name": "JOA",
+          "url": "https://open.spotify.com/artist/3gei6uuyG10zkyfeb6CQo9"
+        }
+      ],
+      "duration_ms": 172746,
+      "name": "A Little Kinder",
+      "url": "https://open.spotify.com/track/2FW5ayCDLgY1UiB5KeeiyO"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "I AM",
+        "url": "https://open.spotify.com/album/1frNzkqZrkVTzil4tptBPv"
+      },
+      "artists": [
+        {
+          "name": "Olivia C. Dacal",
+          "url": "https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa"
+        }
+      ],
+      "duration_ms": 194100,
+      "name": "COMO T\u00da",
+      "url": "https://open.spotify.com/track/4hEUp0JHJ0b20ICmvSebgI"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "Wide Awake",
+        "url": "https://open.spotify.com/album/1JsyLILacCifNmUP557DaE"
+      },
+      "artists": [
+        {
+          "name": "vi0let",
+          "url": "https://open.spotify.com/artist/3ZzSaEjPW9zwhYfvId1l0Q"
+        }
+      ],
+      "duration_ms": 141483,
+      "name": "Wide Awake",
+      "url": "https://open.spotify.com/track/7x6NHBM8bAze7CqCIIZzHb"
+    },
+    {
+      "added_at": "2025-01-22 15:37:30",
+      "album": {
+        "name": "Vegas Venetian",
+        "url": "https://open.spotify.com/album/4MIQxHKxZjloVi1gkURgwU"
+      },
+      "artists": [
+        {
+          "name": "Mollie Elizabeth",
+          "url": "https://open.spotify.com/artist/7a5GcLbKGNuyqIfl6mw99Z"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "Vegas Venetian",
+      "url": "https://open.spotify.com/track/2q2iWpHFmelhdJa0jUGU1n"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "Daisy",
+        "url": "https://open.spotify.com/album/6N7jh5ffhLYxx05vXbPFe7"
+      },
+      "artists": [
+        {
+          "name": "Ronia",
+          "url": "https://open.spotify.com/artist/4L4QpdKFBYczH54017Zh3Z"
+        }
+      ],
+      "duration_ms": 208347,
+      "name": "Daisy",
+      "url": "https://open.spotify.com/track/0d7flN7b6jYvCamBnU1NZO"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "you were just drunk",
+        "url": "https://open.spotify.com/album/5KBEO2fTXCj1iEjcROyPXA"
+      },
+      "artists": [
+        {
+          "name": "Julia Minichiello",
+          "url": "https://open.spotify.com/artist/48P7q8BbOWyafkQNqGXLmS"
+        }
+      ],
+      "duration_ms": 176652,
+      "name": "you were just drunk",
+      "url": "https://open.spotify.com/track/4kzYqtjwhtTi8NXv8Wfm4b"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "C.R.I.N.G.E.",
+        "url": "https://open.spotify.com/album/53VfafhPaGOkRigoncylVc"
+      },
+      "artists": [
+        {
+          "name": "Azuleja",
+          "url": "https://open.spotify.com/artist/4HUGSxQ2lu31jm5BsQjksX"
+        }
+      ],
+      "duration_ms": 184053,
+      "name": "C.R.I.N.G.E.",
+      "url": "https://open.spotify.com/track/25MPQTNLhtMFbMPzNxghFj"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "Daddy's Girl",
+        "url": "https://open.spotify.com/album/75tvkRceAORLOieniDRrtJ"
+      },
+      "artists": [
+        {
+          "name": "Dayside",
+          "url": "https://open.spotify.com/artist/1yzJ27db2mGyeQeOGJ2cbl"
+        },
+        {
+          "name": "Guffchild",
+          "url": "https://open.spotify.com/artist/4MBIiX7dMqa1xDwDNZDhMR"
+        },
+        {
+          "name": "Mosez Jones",
+          "url": "https://open.spotify.com/artist/3v2UncvXxZIIh1d0xiTyNp"
+        },
+        {
+          "name": "Pope Silk",
+          "url": "https://open.spotify.com/artist/37GtR4WbOKgdYkM1n733Df"
+        }
+      ],
+      "duration_ms": 124285,
+      "name": "Daddy's Girl",
+      "url": "https://open.spotify.com/track/0YPjYknsamXB9bEUeeR9kP"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "Tattooed To My Heart",
+        "url": "https://open.spotify.com/album/2jrfp5GSOzL3961NQNtC0A"
+      },
+      "artists": [
+        {
+          "name": "Anacy",
+          "url": "https://open.spotify.com/artist/2oXqSYj1115os7ZUoEAEd0"
+        }
+      ],
+      "duration_ms": 217168,
+      "name": "Tattooed To My Heart",
+      "url": "https://open.spotify.com/track/04MA9bSps2FJupffY6ig2D"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "Hurts Different",
+        "url": "https://open.spotify.com/album/0tuEjKKxbF3gOLjN5wlRPc"
+      },
+      "artists": [
+        {
+          "name": "Isabella Kearney",
+          "url": "https://open.spotify.com/artist/3IiEUjaWFpelGMcTTRGBDL"
+        }
+      ],
+      "duration_ms": 141265,
+      "name": "Hurts Different",
+      "url": "https://open.spotify.com/track/4JQAx07ymzsRegTgjlCNg6"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "Knock the Wind Out of Me",
+        "url": "https://open.spotify.com/album/5808eHXRlS6zEphCb76zHz"
+      },
+      "artists": [
+        {
+          "name": "Fia James",
+          "url": "https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R"
+        }
+      ],
+      "duration_ms": 197943,
+      "name": "Knock the Wind Out of Me",
+      "url": "https://open.spotify.com/track/2FO6UOOzGjcNE0mys7BUmq"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "Worst Day",
+        "url": "https://open.spotify.com/album/6M6IYyNGPujN908evSqmLm"
+      },
+      "artists": [
+        {
+          "name": "Laura Nahr",
+          "url": "https://open.spotify.com/artist/4vkcBNXnG4gZFhuG7SKvMV"
+        }
+      ],
+      "duration_ms": 137240,
+      "name": "Worst Day",
+      "url": "https://open.spotify.com/track/34WEgaMkqYHT9316Pf9gxT"
+    },
+    {
+      "added_at": "2025-01-22 05:00:08",
+      "album": {
+        "name": "Atmosphere",
+        "url": "https://open.spotify.com/album/3TCUTffuGxQ8r3NBaFMQWH"
+      },
+      "artists": [
+        {
+          "name": "Amelia Power",
+          "url": "https://open.spotify.com/artist/7zYY3EAG60pNAu94cgOKo8"
+        }
+      ],
+      "duration_ms": 169426,
+      "name": "Atmosphere",
+      "url": "https://open.spotify.com/track/3KNrDw01naP0LCh7XbVQmP"
+    },
     {
       "added_at": "2025-01-08 16:58:18",
       "album": {
@@ -499,22 +767,6 @@
     {
       "added_at": "2025-01-08 16:58:18",
       "album": {
-        "name": "The Gift You Gave Me",
-        "url": "https://open.spotify.com/album/3fknXxnIlMlk8tLRrTQxdG"
-      },
-      "artists": [
-        {
-          "name": "Blake",
-          "url": "https://open.spotify.com/artist/6l1UuAf2YW3fTHB5TyBXVa"
-        }
-      ],
-      "duration_ms": 169296,
-      "name": "The Gift You Gave Me",
-      "url": "https://open.spotify.com/track/0RPA0br4CEgb7RNKp38PXv"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
         "name": "Home",
         "url": "https://open.spotify.com/album/2tCI9Q09eijRBaqiVF2M7e"
       },
@@ -547,22 +799,6 @@
     {
       "added_at": "2025-01-08 16:58:18",
       "album": {
-        "name": "Call Me Bella",
-        "url": "https://open.spotify.com/album/7HuJB1MSPJS3JP8gKYAD73"
-      },
-      "artists": [
-        {
-          "name": "Bella Masone",
-          "url": "https://open.spotify.com/artist/41CcCGp5xpVte491SpMQJF"
-        }
-      ],
-      "duration_ms": 177500,
-      "name": "Infamous",
-      "url": "https://open.spotify.com/track/3I37mrPBvQb9C6n8Ak9XIi"
-    },
-    {
-      "added_at": "2025-01-08 16:58:18",
-      "album": {
         "name": "House Of Cards",
         "url": "https://open.spotify.com/album/4UFwC8CsTsSahsxh1d6CSG"
       },
@@ -591,218 +827,6 @@
       "duration_ms": 152250,
       "name": "Agnes",
       "url": "https://open.spotify.com/track/3gF4dYnwrnftJ9ogoTayYJ"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "No Strings Attached",
-        "url": "https://open.spotify.com/album/05Sln0YCdhy8SpX4x4uvoi"
-      },
-      "artists": [
-        {
-          "name": "Mercer Henderson",
-          "url": "https://open.spotify.com/artist/1CaCR4aY8KkwBTIVgAsl2L"
-        }
-      ],
-      "duration_ms": 179178,
-      "name": "No Strings Attached",
-      "url": "https://open.spotify.com/track/6lhrM7uDelkZn1VKmmO9BT"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "I Lied, I'm Sorry",
-        "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
-      },
-      "artists": [
-        {
-          "name": "Chloe Qisha",
-          "url": "https://open.spotify.com/artist/1WNmfSqydnt1FDJKg3l6lw"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "I Lied, I'm Sorry",
-      "url": "https://open.spotify.com/track/4OzUKx8HTjGAeXqCIic9iD"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Shotgun",
-        "url": "https://open.spotify.com/album/3CSR9L8G9vYROd8xMTv5GM"
-      },
-      "artists": [
-        {
-          "name": "Michele Lu",
-          "url": "https://open.spotify.com/artist/5ycgCCXYSzg54CQ1HDJLUZ"
-        }
-      ],
-      "duration_ms": 235725,
-      "name": "Shotgun",
-      "url": "https://open.spotify.com/track/7BZSjFeuQAmmnVnzvlMJ8i"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Technicolor Dream",
-        "url": "https://open.spotify.com/album/165OxgFnUaeMTJnYndej77"
-      },
-      "artists": [
-        {
-          "name": "My Friend Catie",
-          "url": "https://open.spotify.com/artist/2B2j4jb1ZGYKKIBOJAj4aq"
-        }
-      ],
-      "duration_ms": 250085,
-      "name": "Technicolor Dream",
-      "url": "https://open.spotify.com/track/4Mn0mNcjY2GpycbCChNLej"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Summer Song",
-        "url": "https://open.spotify.com/album/32CejEs2rOmbJcTXy1Nuzy"
-      },
-      "artists": [
-        {
-          "name": "Remy Bond",
-          "url": "https://open.spotify.com/artist/2voadhFGdduSYHDvsVqyXo"
-        }
-      ],
-      "duration_ms": 245504,
-      "name": "Summer Song",
-      "url": "https://open.spotify.com/track/0pwIbDtddJhPSyLaWecP9j"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Healing Out of Spite",
-        "url": "https://open.spotify.com/album/6YkVcYR148DaAJbPOQCqVX"
-      },
-      "artists": [
-        {
-          "name": "CATTY",
-          "url": "https://open.spotify.com/artist/0SAfVY2Qy5TbA3mreZfHyf"
-        }
-      ],
-      "duration_ms": 228857,
-      "name": "Healing Out of Spite",
-      "url": "https://open.spotify.com/track/1OTSZ1Y1GZ8X6HS89iEiaA"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Faith",
-        "url": "https://open.spotify.com/album/16PKaDC9hWFS5qCNiFbHaR"
-      },
-      "artists": [
-        {
-          "name": "Tsatsamis",
-          "url": "https://open.spotify.com/artist/3z2RaxEObO8hXkvmG5xou0"
-        }
-      ],
-      "duration_ms": 219566,
-      "name": "Faith",
-      "url": "https://open.spotify.com/track/1SMbbkmy371096e60XcstR"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Water Worship Pray",
-        "url": "https://open.spotify.com/album/6IEFi4N1Ge92j1kCFZxXeo"
-      },
-      "artists": [
-        {
-          "name": "Grace Power",
-          "url": "https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP"
-        }
-      ],
-      "duration_ms": 191016,
-      "name": "Water Worship Pray",
-      "url": "https://open.spotify.com/track/2EMa8oOv6HvRRErdtXrp3I"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Sailors and Clowns",
-        "url": "https://open.spotify.com/album/5q9gk5trdgdbzrCrItKlwC"
-      },
-      "artists": [
-        {
-          "name": "Surely Shirley",
-          "url": "https://open.spotify.com/artist/1X6Wtc4LhhMVsG78I869pB"
-        }
-      ],
-      "duration_ms": 173418,
-      "name": "Lavender Blues",
-      "url": "https://open.spotify.com/track/2qxghOayHOtuuoQHwJ2n9h"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Shadows",
-        "url": "https://open.spotify.com/album/0mQFKHQ1KQYQCY46mudsJC"
-      },
-      "artists": [
-        {
-          "name": "Talia Rae",
-          "url": "https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr"
-        }
-      ],
-      "duration_ms": 183420,
-      "name": "Shadows",
-      "url": "https://open.spotify.com/track/4uqwjTu6OOTASKwDb1PDtx"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Middle Name (with Mckenna Grace)",
-        "url": "https://open.spotify.com/album/0uSJ41W8lppeei1i7b7EAv"
-      },
-      "artists": [
-        {
-          "name": "Carver Jones",
-          "url": "https://open.spotify.com/artist/2cQgX3pb2k7rgJG4rxNfid"
-        },
-        {
-          "name": "Mckenna Grace",
-          "url": "https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE"
-        }
-      ],
-      "duration_ms": 237391,
-      "name": "Middle Name (with Mckenna Grace)",
-      "url": "https://open.spotify.com/track/2DVEot2Ll81iBFwoPxiL1j"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Before The Kiss",
-        "url": "https://open.spotify.com/album/0MvMidNkXZRLAEtoFbIXTE"
-      },
-      "artists": [
-        {
-          "name": "Lo Lauren",
-          "url": "https://open.spotify.com/artist/027P708CsXT3Nu0kQ3m3aq"
-        }
-      ],
-      "duration_ms": 137469,
-      "name": "Before The Kiss",
-      "url": "https://open.spotify.com/track/1Ul1vJdGk9gJPJMtZCZBgh"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "She Likes a Boy",
-        "url": "https://open.spotify.com/album/79GumpEw4n1qXIahUOrdNv"
-      },
-      "artists": [
-        {
-          "name": "Nxdia",
-          "url": "https://open.spotify.com/artist/0Dkj3iE06TJGxGIrGCmwVf"
-        }
-      ],
-      "duration_ms": 129056,
-      "name": "She Likes a Boy",
-      "url": "https://open.spotify.com/track/45FCt12lQyBdxUrLtM4Uor"
     }
   ],
   "unique_name": "Fresh Finds Pop",

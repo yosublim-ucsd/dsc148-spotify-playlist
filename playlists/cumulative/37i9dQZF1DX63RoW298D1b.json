@@ -1713,6 +1713,24 @@
     },
     {
       "album": {
+        "name": "Into The Light",
+        "url": "https://open.spotify.com/album/4yzkMY5AjfqnfyOCk11fNz"
+      },
+      "artists": [
+        {
+          "name": "Max Dew",
+          "url": "https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW"
+        }
+      ],
+      "date_added": "2025-01-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161621,
+      "name": "Into The Light",
+      "url": "https://open.spotify.com/track/339bMJGEo9fHqWy0g7F7ht"
+    },
+    {
+      "album": {
         "name": "Irreversible",
         "url": "https://open.spotify.com/album/0MQWtPXU0Rxr4PAf5k1hmh"
       },

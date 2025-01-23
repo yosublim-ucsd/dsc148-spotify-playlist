@@ -2665,6 +2665,28 @@
     },
     {
       "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/3k2Q3paKzUN39DxZWWgqyD"
+      },
+      "artists": [
+        {
+          "name": "YxFF",
+          "url": "https://open.spotify.com/artist/1b0psFpEdHE7zeAIqvIefQ"
+        },
+        {
+          "name": "{ELSEIF}",
+          "url": "https://open.spotify.com/artist/73yAfTEIyfHrWivS2TOTLg"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163200,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/5X54QkuP6fAl4Md1Y6w0KA"
+    },
+    {
+      "album": {
         "name": "Magnum Bullets a Capella Cover",
         "url": "https://open.spotify.com/album/3t4UwCpzhX46v1GqBNuNpS"
       },

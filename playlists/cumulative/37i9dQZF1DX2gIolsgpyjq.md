@@ -4,7 +4,7 @@
 
 > The best new music by independent artists in the Nordics\. Cover: snuggle
 
-780 songs - 1 day 16 hr 51 min
+781 songs - 1 day 16 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -758,6 +758,7 @@
 | [Where did you go](https://open.spotify.com/track/7CAzoa5hO9khTALv9aqIaq) | [ELIA](https://open.spotify.com/artist/6C7i0F5F27BbECshZENO8G) | [Where did you go](https://open.spotify.com/album/37OIz6U1UzuqotPRxMaOh2) | 2:56 | 2024-03-21 | 2024-04-12 |
 | [Who Am I](https://open.spotify.com/track/7vYM4GGrzaLhzsRT6PJdth) | [Elin Sandberg](https://open.spotify.com/artist/0ZQ8Xgo8S2RWjp0vI6gIuA), [Christine Noel](https://open.spotify.com/artist/7K2Yw6RepVJb82r3mK93sB) | [Who Am I](https://open.spotify.com/album/4ZDggeovpNBQaeHY40fJKZ) | 2:54 | 2024-02-08 | 2024-03-22 |
 | [Who Are You](https://open.spotify.com/track/0rmjetpvIvK6vB2DAeHdfN) | [Niah Steiner](https://open.spotify.com/artist/0w3DFcH0s3X5siAjB6C9T7), [AcjnN](https://open.spotify.com/artist/1tzPTUM1XKUck2s6TUh2o1) | [Who Are You](https://open.spotify.com/album/3jaJqSXrIKifgKKXz1HNyd) | 2:46 | 2024-02-08 | 2024-02-23 |
+| [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-22 |  |
 | [Who's The Rhythm](https://open.spotify.com/track/1DSA69trE1apAAd5dF1FSq) | [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Who's the Rhythm](https://open.spotify.com/album/132dUcMRsO1skz5Nbm4b6q) | 3:12 | 2024-05-30 | 2025-01-03 |
 | [Why Are You Not Scared Yet?](https://open.spotify.com/track/7lrPrS3dXaTAWsp3dtJJqg) | [Dolores Forever](https://open.spotify.com/artist/32ttgKG3BxUVYxlBdmLBMi) | [Why Are You Not Scared Yet?](https://open.spotify.com/album/3wbB2j0gMejNrkXvg3VVxY) | 2:34 | 2024-02-08 | 2024-03-08 |
 | [Wild Horses](https://open.spotify.com/track/7v8cpnWN2qbmMF7VTwg7lr) | [Sunnan](https://open.spotify.com/artist/6sDExcZxGSSO9RMTtBDnAh) | [Cinema](https://open.spotify.com/album/2bxGYnrExMRNgevKUDFnSc) | 3:51 | 2024-08-29 | 2025-01-18 |

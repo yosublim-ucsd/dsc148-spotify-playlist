@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 
 > The USB essentials that defined our setlists this year\. Cover: PAWSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,766 likes - 75 songs - 4 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,764 likes - 75 songs - 4 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,7 +80,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ydNo6TM2M7.md) - [plain]
 | 70 | [Hey Boy Hey Girl \- ARTBAT Remix](https://open.spotify.com/track/6ncIQAyVDdHePrHc8HxIjv) | [The Chemical Brothers](https://open.spotify.com/artist/1GhPHrq36VKCY3ucVaZCfo), [ARTBAT](https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1) | [Hey Boy Hey Girl \(ARTBAT Remix\)](https://open.spotify.com/album/5iPUTw7ZqnL3X53FdUVWmz) | 3:12 |
 | 71 | [Slay The Beast](https://open.spotify.com/track/51F6fC9PaCAbFScUjU64vG) | [Or:la](https://open.spotify.com/artist/2HMcYonnetvTrEXnwIvchf), [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP) | [Trusting Theta](https://open.spotify.com/album/5jQu29iTC5O5tZ4GD99y2o) | 3:42 |
 | 72 | [Good 4 U](https://open.spotify.com/track/09bwwB0fpgLQbWQmQ5Q5sm) | [Luuk Van Dijk](https://open.spotify.com/artist/1KFfk3NtblIJtGEqyiR31t), [Kolter](https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry) | [Good 4 U](https://open.spotify.com/album/6J4Y082MYxnsdifyTLdG8p) | 3:28 |
-| 73 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA UK](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
+| 73 | [Bump Artist](https://open.spotify.com/track/1KPJ8va5CxcrWrpZ62HE5f) | [SOSA](https://open.spotify.com/artist/3JlN0MeWVJq0vjvsvWCRZ5), [Alex Peace](https://open.spotify.com/artist/5x0mazFBPEu8FPKmBArlGQ) | [Bump Artist EP](https://open.spotify.com/album/0P9dO1oLVImxme2Pi03QLb) | 3:23 |
 | 74 | [Up To No Good](https://open.spotify.com/track/7qIhSG403BTteDB4PAxOyU) | [Joe Hunt](https://open.spotify.com/artist/6GZR8ecgFdUz69ADiMz1Yf) | [Up To No Good](https://open.spotify.com/album/1DDIpyjO0QyZQ7mkGvez9S) | 2:54 |
 | 75 | [Preach \(feat\. Ron Carroll\)](https://open.spotify.com/track/20BgyDeW88NmQIT6LZbbNr) | [Hot Since 82](https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS), [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r) | [Preach \(feat\. Ron Carroll\)](https://open.spotify.com/album/0qEumhqsy2Q2W57kMcGItu) | 4:05 |
 

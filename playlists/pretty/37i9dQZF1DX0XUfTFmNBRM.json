@@ -1,15 +1,15 @@
 {
   "description": "Hottest Hindi music that India is listening to. Cover - Stree 2",
-  "num_followers": 2546389,
+  "num_followers": 2547883,
   "original_name": "Hot Hits Hindi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4fiRQAAAACYRXarx0Xq3pBgFNH4/qdu",
+  "snapshot_id": "Z5DEyQAAAABK329RcVd10vf/UjqJoXHZ",
   "tracks": [
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Aaj Ki Raat (From \"Stree 2\")",
         "url": "https://open.spotify.com/album/2P2orRpVU0F2Z1HGTi7AiS"
@@ -37,43 +37,7 @@
       "url": "https://open.spotify.com/track/5AnWrUzsrFgBvhn6dUElnr"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Sahiba",
-        "url": "https://open.spotify.com/album/5ZbqiWukRFxq8zwllvK3YT"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Stebin Ben",
-          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
-        },
-        {
-          "name": "Vijay Deverakonda",
-          "url": "https://open.spotify.com/artist/3k1eCPRO0dE0Q9YsRfh4vn"
-        },
-        {
-          "name": "Radhikka Madan",
-          "url": "https://open.spotify.com/artist/2zkXEdYr7MxUFhS9xF48UB"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
-        },
-        {
-          "name": "Aditya Sharma",
-          "url": "https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ"
-        }
-      ],
-      "duration_ms": 217148,
-      "name": "Sahiba",
-      "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Mismatched: Season 3 (Soundtrack from the Netflix Series)",
         "url": "https://open.spotify.com/album/75SlrAXlLbJN9LYJwlTJh6"
@@ -113,31 +77,59 @@
       "url": "https://open.spotify.com/track/3vCzLB6kS2lGcIpm1OOUsy"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
-        "name": "Lost;Found",
-        "url": "https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH"
+        "name": "Jo Tum Mere Ho",
+        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
       },
       "artists": [
         {
-          "name": "Faheem Abdullah",
-          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
-        },
-        {
-          "name": "Rauhan Malik",
-          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
-        },
-        {
-          "name": "Amir Ameer",
-          "url": "https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj"
+          "name": "Anuv Jain",
+          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
         }
       ],
-      "duration_ms": 224842,
-      "name": "Ishq",
-      "url": "https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE"
+      "duration_ms": 251813,
+      "name": "Jo Tum Mere Ho",
+      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Sahiba",
+        "url": "https://open.spotify.com/album/5ZbqiWukRFxq8zwllvK3YT"
+      },
+      "artists": [
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        },
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Vijay Deverakonda",
+          "url": "https://open.spotify.com/artist/3k1eCPRO0dE0Q9YsRfh4vn"
+        },
+        {
+          "name": "Radhikka Madan",
+          "url": "https://open.spotify.com/artist/2zkXEdYr7MxUFhS9xF48UB"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        },
+        {
+          "name": "Aditya Sharma",
+          "url": "https://open.spotify.com/artist/70RAfkLNWG5J2bsnJqBpLQ"
+        }
+      ],
+      "duration_ms": 217148,
+      "name": "Sahiba",
+      "url": "https://open.spotify.com/track/4ulroyDK6rN73nVkCkWhur"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Raanjhan (From \"Do Patti\")",
         "url": "https://open.spotify.com/album/1poClftP5T3zRcqpsxPPfW"
@@ -161,70 +153,58 @@
       "url": "https://open.spotify.com/track/4vHRQnzGcKEtqsLH70tAms"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
-        "name": "AANKH",
-        "url": "https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE"
+        "name": "Lost;Found",
+        "url": "https://open.spotify.com/album/013jUXOfDFXnDMBetTdsiH"
       },
       "artists": [
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+          "name": "Faheem Abdullah",
+          "url": "https://open.spotify.com/artist/05etL4pzWd6TSv1x5WrlG3"
         },
         {
-          "name": "Rusha & Blizza",
-          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
+          "name": "Rauhan Malik",
+          "url": "https://open.spotify.com/artist/22UtphG4LcwxlhhV0aP4js"
+        },
+        {
+          "name": "Amir Ameer",
+          "url": "https://open.spotify.com/artist/6MPuzz9hPrs4TwxeHh4cEj"
         }
       ],
-      "duration_ms": 188256,
-      "name": "AANKH",
-      "url": "https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx"
+      "duration_ms": 224842,
+      "name": "Ishq",
+      "url": "https://open.spotify.com/track/1hlbywc8Jhl1FFqJxAMabE"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
-        "name": "Jo Tum Mere Ho",
-        "url": "https://open.spotify.com/album/0upenH0uUT36nBbVM5mQhW"
+        "name": "Uyi Amma (From \"Azaad\")",
+        "url": "https://open.spotify.com/album/1UgFWElh16PWYpFN5vdCTF"
       },
       "artists": [
         {
-          "name": "Anuv Jain",
-          "url": "https://open.spotify.com/artist/4gdMJYnopf2nEUcanAwstx"
-        }
-      ],
-      "duration_ms": 251813,
-      "name": "Jo Tum Mere Ho",
-      "url": "https://open.spotify.com/track/0eCajpR75pDW0r64U6hP2x"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Sajni (From \"Laapataa Ladies\")",
-        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
-      },
-      "artists": [
-        {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+          "name": "Amit Trivedi",
+          "url": "https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr"
         },
         {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+          "name": "Madhubanti Bagchi",
+          "url": "https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h"
         },
         {
-          "name": "Prashant Pandey",
-          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 170044,
-      "name": "Sajni (From \"Laapataa Ladies\")",
-      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
+      "duration_ms": 253833,
+      "name": "Uyi Amma - From \"Azaad\"",
+      "url": "https://open.spotify.com/track/2nP1wLRh85mo5Wdj4RQldp"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
-        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
+        "name": "Taras (From \"Munjya\")",
+        "url": "https://open.spotify.com/album/0sEowDRNDEVD8T31onRthr"
       },
       "artists": [
         {
@@ -232,52 +212,20 @@
           "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
         },
         {
-          "name": "Shilpa Rao",
-          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+          "name": "Jasmine Sandlas",
+          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
         },
         {
-          "name": "Sachet Tandon",
-          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
-        },
-        {
-          "name": "Priya Saraiya",
-          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+          "name": "Amitabh Bhattacharya",
+          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
         }
       ],
-      "duration_ms": 216054,
-      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
-      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
+      "duration_ms": 188814,
+      "name": "Taras - From \"Munjya\"",
+      "url": "https://open.spotify.com/track/6t9KM2EQD4H2KbrTgHGYf3"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Jigra",
-        "url": "https://open.spotify.com/album/5DP3N53LnOXK8ZjSRvcJRD"
-      },
-      "artists": [
-        {
-          "name": "Achint",
-          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Anumita Nadesan",
-          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
-        },
-        {
-          "name": "Varun Grover",
-          "url": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
-        }
-      ],
-      "duration_ms": 249818,
-      "name": "Tenu Sang Rakhna",
-      "url": "https://open.spotify.com/track/67oNO9GjcDn7NO08lg08jj"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Kissik (From \"Pushpa 2 The Rule\") [HINDI]",
         "url": "https://open.spotify.com/album/7p2YC5HhcZ1wS2rUhikbEg"
@@ -305,51 +253,79 @@
       "url": "https://open.spotify.com/track/3E2alxlOoe5EURfec217Uu"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
-        "name": "My Terrible Mind",
-        "url": "https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE"
+        "name": "AANKH",
+        "url": "https://open.spotify.com/album/5X1DGttuOWvWy4uhGw03eE"
       },
       "artists": [
         {
-          "name": "Talha Anjum",
-          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
         },
         {
-          "name": "Umair",
-          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
+          "name": "Rusha & Blizza",
+          "url": "https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI"
         }
       ],
-      "duration_ms": 166736,
-      "name": "Departure Lane",
-      "url": "https://open.spotify.com/track/7wGgYAOMhhRObOGdWlJ9Hi"
+      "duration_ms": 188256,
+      "name": "AANKH",
+      "url": "https://open.spotify.com/track/1EZzUDV9IdzLVgmz7v86nx"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
-        "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
-        "url": "https://open.spotify.com/album/02dVq1hK3asFuUjL0ulsGu"
+        "name": "Sajni (From \"Laapataa Ladies\")",
+        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
       },
       "artists": [
         {
-          "name": "Aditya Rikhari",
-          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
         },
         {
-          "name": "Tulsi Kumar",
-          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
         },
         {
-          "name": "Lijo George-Dj Chetas",
-          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+          "name": "Prashant Pandey",
+          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
         }
       ],
-      "duration_ms": 212108,
-      "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
-      "url": "https://open.spotify.com/track/1PALLCSlHwAI4upY3sMg8u"
+      "duration_ms": 170044,
+      "name": "Sajni (From \"Laapataa Ladies\")",
+      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Jigra",
+        "url": "https://open.spotify.com/album/5DP3N53LnOXK8ZjSRvcJRD"
+      },
+      "artists": [
+        {
+          "name": "Achint",
+          "url": "https://open.spotify.com/artist/4bvGDTEPFnllKiJaEZGuXk"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Anumita Nadesan",
+          "url": "https://open.spotify.com/artist/1nmKYy6efdYl8sIcT0gCLJ"
+        },
+        {
+          "name": "Varun Grover",
+          "url": "https://open.spotify.com/artist/23tDn4nvBiCQroeeCwwCWT"
+        }
+      ],
+      "duration_ms": 249818,
+      "name": "Tenu Sang Rakhna",
+      "url": "https://open.spotify.com/track/67oNO9GjcDn7NO08lg08jj"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Do Patti",
         "url": "https://open.spotify.com/album/3MgVvOPyK1wPFEM9l7AQFr"
@@ -377,39 +353,79 @@
       "url": "https://open.spotify.com/track/5VvkNZesG4T86mUULEG5Wp"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
-        "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
-        "url": "https://open.spotify.com/album/4B7opkgPTtlTieFAoJ22u6"
+        "name": "My Terrible Mind",
+        "url": "https://open.spotify.com/album/6s8fMxJ4ujl75R9ptKwltE"
       },
       "artists": [
         {
-          "name": "Sunidhi Chauhan",
-          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+          "name": "Talha Anjum",
+          "url": "https://open.spotify.com/artist/69xcFpmqTOmFNOL08Bxyci"
         },
         {
-          "name": "Divya Kumar",
-          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
-        },
-        {
-          "name": "Sandesh Shandilya",
-          "url": "https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5"
-        },
-        {
-          "name": "White Noise Collectives",
-          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
-        },
-        {
-          "name": "Irshad Kamil",
-          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+          "name": "Umair",
+          "url": "https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi"
         }
       ],
-      "duration_ms": 184171,
-      "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
-      "url": "https://open.spotify.com/track/2EFi7ey45Za7sxgRZWdmWd"
+      "duration_ms": 166736,
+      "name": "Departure Lane",
+      "url": "https://open.spotify.com/track/7wGgYAOMhhRObOGdWlJ9Hi"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
+        "url": "https://open.spotify.com/album/02dVq1hK3asFuUjL0ulsGu"
+      },
+      "artists": [
+        {
+          "name": "Aditya Rikhari",
+          "url": "https://open.spotify.com/artist/3ozYqVCLohfpXIhalkhM8D"
+        },
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Lijo George-Dj Chetas",
+          "url": "https://open.spotify.com/artist/5TNSXFCNwlq2CfiMcNOCDP"
+        }
+      ],
+      "duration_ms": 212108,
+      "name": "Jaana Samjho Na (From \"Bhool Bhulaiyaa 3\")",
+      "url": "https://open.spotify.com/track/1PALLCSlHwAI4upY3sMg8u"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+        "url": "https://open.spotify.com/album/2ko2RFeHKyRi5ZReondDfL"
+      },
+      "artists": [
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        },
+        {
+          "name": "Shilpa Rao",
+          "url": "https://open.spotify.com/artist/19LIHDDSHBD5NyYHI3gpzB"
+        },
+        {
+          "name": "Sachet Tandon",
+          "url": "https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        }
+      ],
+      "duration_ms": 216054,
+      "name": "Mere Mehboob (From \"Vicky Vidya Ka Woh Wala Video\")",
+      "url": "https://open.spotify.com/track/2EFKkCC7Lfqb01BLTrYJy5"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Morni",
         "url": "https://open.spotify.com/album/1xWp8jVcJqW40Aey8il8wE"
@@ -433,7 +449,7 @@
       "url": "https://open.spotify.com/track/3jPLJbSL14oH6pcSLIaMGJ"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Stree 2",
         "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
@@ -465,7 +481,7 @@
       "url": "https://open.spotify.com/track/7BdVecQ6n11Qn6m5L9WDBW"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Choli Ke Peeche (From \"Crew\")",
         "url": "https://open.spotify.com/album/5snDdFszQnoAqgQfNntKcx"
@@ -497,31 +513,7 @@
       "url": "https://open.spotify.com/track/1ErMeReQpwGuroEk5zekr3"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Taras (From \"Munjya\")",
-        "url": "https://open.spotify.com/album/0sEowDRNDEVD8T31onRthr"
-      },
-      "artists": [
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        },
-        {
-          "name": "Jasmine Sandlas",
-          "url": "https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c"
-        },
-        {
-          "name": "Amitabh Bhattacharya",
-          "url": "https://open.spotify.com/artist/2fMqTqiTxUDlmcOEPaQSsx"
-        }
-      ],
-      "duration_ms": 188814,
-      "name": "Taras - From \"Munjya\"",
-      "url": "https://open.spotify.com/track/6t9KM2EQD4H2KbrTgHGYf3"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Nain Matakka (From \"Baby John\")",
         "url": "https://open.spotify.com/album/2xFg2ollu0FPiwvDBAVDT5"
@@ -549,7 +541,7 @@
       "url": "https://open.spotify.com/track/2We0kZg7AZaIMsrBkqp2SI"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Teri Baaton Mein Aisa Uljha Jiya",
         "url": "https://open.spotify.com/album/0KvWbswDD0ksvFayBl6gUz"
@@ -577,7 +569,39 @@
       "url": "https://open.spotify.com/track/2qBBAuIg8FUBYiJ3QRrVsP"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
+        "url": "https://open.spotify.com/album/4B7opkgPTtlTieFAoJ22u6"
+      },
+      "artists": [
+        {
+          "name": "Sunidhi Chauhan",
+          "url": "https://open.spotify.com/artist/3eDT9fwXKuHWFvgZaaYC5v"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Sandesh Shandilya",
+          "url": "https://open.spotify.com/artist/6AwwLwgIsTIXZ8kHWaZUj5"
+        },
+        {
+          "name": "White Noise Collectives",
+          "url": "https://open.spotify.com/artist/73vvjIbxF9MP8VZG3tthUC"
+        },
+        {
+          "name": "Irshad Kamil",
+          "url": "https://open.spotify.com/artist/3GdSQUH1BRtl9UrrtuwJlP"
+        }
+      ],
+      "duration_ms": 184171,
+      "name": "Sajna Ve Sajna (From \"Vicky Vidya Ka Woh Wala Video\")",
+      "url": "https://open.spotify.com/track/2EFi7ey45Za7sxgRZWdmWd"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Tauba Tauba (From \"Bad Newz\")",
         "url": "https://open.spotify.com/album/72nKBrp0K6Nv6Q76TmEWLY"
@@ -593,7 +617,7 @@
       "url": "https://open.spotify.com/track/16kiQQ4BoLHDyj5W2fkfNK"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Glory",
         "url": "https://open.spotify.com/album/5KF4xCxDD8ip003hoatFT9"
@@ -613,7 +637,7 @@
       "url": "https://open.spotify.com/track/76ZWOhRRQzmb4xMoZzTjJ9"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Bhool Bhulaiyaa 3",
         "url": "https://open.spotify.com/album/2DNzidacofd4SvmOyj620R"
@@ -641,7 +665,7 @@
       "url": "https://open.spotify.com/track/4REtpfjRcdcC1uYfQrqfw7"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Kasturi (From \"Amar Prem Ki Prem Kahani\")",
         "url": "https://open.spotify.com/album/68OViDFFwerfn315fcwwwl"
@@ -665,7 +689,7 @@
       "url": "https://open.spotify.com/track/2E5kZ1qnB7V9bcwBEKvZv8"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Kehna Galat Galat",
         "url": "https://open.spotify.com/album/1dWevVFLLY3djj918zBvx8"
@@ -689,7 +713,7 @@
       "url": "https://open.spotify.com/track/6ZCjqm4QlYPEOtd4GZPKxL"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Out of Control",
         "url": "https://open.spotify.com/album/7bght7slNBH8AuYHdIlvYf"
@@ -705,7 +729,7 @@
       "url": "https://open.spotify.com/track/2mdwuBtT1alepau9g6GwnC"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Khoobsurat (From \"Stree 2\")",
         "url": "https://open.spotify.com/album/7w3sjjjgPbpSiSq1aSLABB"
@@ -729,7 +753,7 @@
       "url": "https://open.spotify.com/track/1o8YPl0hyGbpRcHplXNvsm"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "ANIMAL",
         "url": "https://open.spotify.com/album/0a183xiCHiC1GQd8ou7WXO"
@@ -749,7 +773,119 @@
       "url": "https://open.spotify.com/track/7yDHHVKLbvDmVw1XXhDDIO"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Maharaj",
+        "url": "https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6"
+      },
+      "artists": [
+        {
+          "name": "Sohail Sen",
+          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
+        },
+        {
+          "name": "Monali Thakur",
+          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
+        },
+        {
+          "name": "Kausar Munir",
+          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
+        }
+      ],
+      "duration_ms": 204041,
+      "name": "Haan Ke Haan",
+      "url": "https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+        "url": "https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc"
+      },
+      "artists": [
+        {
+          "name": "Mohammad Faiz",
+          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
+        },
+        {
+          "name": "Jaani",
+          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
+        }
+      ],
+      "duration_ms": 281511,
+      "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
+      "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Kinni Soni",
+        "url": "https://open.spotify.com/album/14pyBvbiJZ7zuFrxgCQded"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        }
+      ],
+      "duration_ms": 241201,
+      "name": "Kinni Soni",
+      "url": "https://open.spotify.com/track/268akcwmDZGwMeI2nijVxd"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Diamond Ni",
+        "url": "https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O"
+      },
+      "artists": [
+        {
+          "name": "Jigar Saraiya",
+          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
+        },
+        {
+          "name": "Aditya Gadhvi",
+          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
+        },
+        {
+          "name": "Sachin-Jigar",
+          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
+        }
+      ],
+      "duration_ms": 192900,
+      "name": "Diamond Ni",
+      "url": "https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
+      "album": {
+        "name": "Soni Soni (From \"Ishq Vishk Rebound\")",
+        "url": "https://open.spotify.com/album/3vBso6gFPmEwstdMXn3Ahi"
+      },
+      "artists": [
+        {
+          "name": "Darshan Raval",
+          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
+        },
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        },
+        {
+          "name": "Gurpreet Saini",
+          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
+        }
+      ],
+      "duration_ms": 176875,
+      "name": "Soni Soni (From \"Ishq Vishk Rebound\")",
+      "url": "https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ"
+    },
+    {
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Bhool Bhulaiyaa 3 - Title Track (feat. Pitbull)",
         "url": "https://open.spotify.com/album/7A0AEPu9sqHZpSIDI1zLEM"
@@ -789,119 +925,7 @@
       "url": "https://open.spotify.com/track/7r6iwgXcR85d9rfqsuf2Af"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Maharaj",
-        "url": "https://open.spotify.com/album/2R2iYcw81Fjfup0kUZtlf6"
-      },
-      "artists": [
-        {
-          "name": "Sohail Sen",
-          "url": "https://open.spotify.com/artist/1bTROl5p3rGTpvKeWnGgrw"
-        },
-        {
-          "name": "Monali Thakur",
-          "url": "https://open.spotify.com/artist/2o4R2rK7FetH40HTv0SUWl"
-        },
-        {
-          "name": "Kausar Munir",
-          "url": "https://open.spotify.com/artist/3GBSge8pq7mpezUQl0GAOA"
-        }
-      ],
-      "duration_ms": 204041,
-      "name": "Haan Ke Haan",
-      "url": "https://open.spotify.com/track/1WxzZoWBTmB68AtyA6ejBB"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
-        "url": "https://open.spotify.com/album/1C3FmwSQAbjnZR6GRgnWQc"
-      },
-      "artists": [
-        {
-          "name": "Mohammad Faiz",
-          "url": "https://open.spotify.com/artist/4xNgNFUMUuGCoy7IX74Y60"
-        },
-        {
-          "name": "Jaani",
-          "url": "https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT"
-        }
-      ],
-      "duration_ms": 281511,
-      "name": "Dekhha Tenu (From \"Mr. And Mrs. Mahi\")",
-      "url": "https://open.spotify.com/track/34Fh4HXZmnuBdtgejWUZg2"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Kinni Soni",
-        "url": "https://open.spotify.com/album/14pyBvbiJZ7zuFrxgCQded"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        }
-      ],
-      "duration_ms": 241201,
-      "name": "Kinni Soni",
-      "url": "https://open.spotify.com/track/268akcwmDZGwMeI2nijVxd"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Diamond Ni",
-        "url": "https://open.spotify.com/album/6wKaSU621x7uBILAM1s52O"
-      },
-      "artists": [
-        {
-          "name": "Jigar Saraiya",
-          "url": "https://open.spotify.com/artist/48RCl7AbbfhC60EN8a80Op"
-        },
-        {
-          "name": "Aditya Gadhvi",
-          "url": "https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW"
-        },
-        {
-          "name": "Sachin-Jigar",
-          "url": "https://open.spotify.com/artist/1mBydYMVBECdDmMfE2sEUO"
-        }
-      ],
-      "duration_ms": 192900,
-      "name": "Diamond Ni",
-      "url": "https://open.spotify.com/track/65KnUdLcbq2D8Ko9NtEGpW"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Soni Soni (From \"Ishq Vishk Rebound\")",
-        "url": "https://open.spotify.com/album/3vBso6gFPmEwstdMXn3Ahi"
-      },
-      "artists": [
-        {
-          "name": "Darshan Raval",
-          "url": "https://open.spotify.com/artist/2GoeZ0qOTt6kjsWW4eA6LS"
-        },
-        {
-          "name": "Jonita Gandhi",
-          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
-        },
-        {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        },
-        {
-          "name": "Gurpreet Saini",
-          "url": "https://open.spotify.com/artist/3nLLr3ShsQC2Hdrwjl14ie"
-        }
-      ],
-      "duration_ms": 176875,
-      "name": "Soni Soni (From \"Ishq Vishk Rebound\")",
-      "url": "https://open.spotify.com/track/36N5awamOX6XX5pQn3aFXZ"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Jaanam (From \"Bad Newz\")",
         "url": "https://open.spotify.com/album/75lhBPvfb1RqeiuRZ6hOHN"
@@ -917,7 +941,7 @@
       "url": "https://open.spotify.com/track/7bzR0C8NhnBA79iTXUCJ7o"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Stree 2",
         "url": "https://open.spotify.com/album/36DaAZreJ2iN4oPZ8HBUeU"
@@ -945,7 +969,7 @@
       "url": "https://open.spotify.com/track/3W1XHtgu4Pt7ai4d8RrKwD"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Aaj Bhi 2",
         "url": "https://open.spotify.com/album/5OYZCRHN3Dqe29yzFKr630"
@@ -961,7 +985,7 @@
       "url": "https://open.spotify.com/track/5Swyv8euhHEJu57t5qbGUs"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Tum Se (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
         "url": "https://open.spotify.com/album/3vVIhgkDoC0vRBba5drHPe"
@@ -989,7 +1013,7 @@
       "url": "https://open.spotify.com/track/2ceeTJAzKy295Fm0VsaXtE"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Mr. And Mrs. Mahi (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3PI3er7mHLniPndwdo0mlA"
@@ -1013,7 +1037,7 @@
       "url": "https://open.spotify.com/track/6egfWbtFFhMToV2DvmEzmo"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Munjya (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/5ePim81cUsLymwQDqPsO6M"
@@ -1033,7 +1057,7 @@
       "url": "https://open.spotify.com/track/1bfWK1SIBYXzWA0Ypt4KlD"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Dost Banke",
         "url": "https://open.spotify.com/album/4Ira2DDLEUgXmL6t4UA95V"
@@ -1057,31 +1081,7 @@
       "url": "https://open.spotify.com/track/2k0D2OXWXwuwBPXLQQYmZx"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
-      "album": {
-        "name": "Heeriye (feat. Arijit Singh)",
-        "url": "https://open.spotify.com/album/1wt2WZBZZ9GhM0AC61l7SS"
-      },
-      "artists": [
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Dulquer Salmaan",
-          "url": "https://open.spotify.com/artist/3NHwwyb1coYa5cLyI72xSk"
-        }
-      ],
-      "duration_ms": 194857,
-      "name": "Heeriye (feat. Arijit Singh)",
-      "url": "https://open.spotify.com/track/5PUXKVVVQ74C3gl5vKy9Li"
-    },
-    {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Ek Tha Raja",
         "url": "https://open.spotify.com/album/0LcyzKKw3RjFKL6ygISTeU"
@@ -1101,7 +1101,7 @@
       "url": "https://open.spotify.com/track/1tf2iody5iRLYYPDSBpzRc"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Agar Ho Tum (From \"Mr. And Mrs. Mahi\")",
         "url": "https://open.spotify.com/album/08PRzEfce7mwprUTvMmfh2"
@@ -1125,7 +1125,7 @@
       "url": "https://open.spotify.com/track/0a17mIL7XTvYqe9mxuPd3y"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Akhiyaan Gulaab (From \"Teri Baaton Mein Aisa Uljha Jiya\")",
         "url": "https://open.spotify.com/album/1VZDqgb1ALde0CFMIvEGNr"
@@ -1141,7 +1141,7 @@
       "url": "https://open.spotify.com/track/0M0ANKNzmM4Odd7FNKghzW"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Mere Mehboob Mere Sanam (From \"Bad Newz\")",
         "url": "https://open.spotify.com/album/2pyoVGd8LlX9pVdkUPyYMt"
@@ -1173,7 +1173,7 @@
       "url": "https://open.spotify.com/track/3yxUi5nDZSWcYKi1C2xmLd"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Naina (From \"Crew\")",
         "url": "https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm"
@@ -1197,7 +1197,7 @@
       "url": "https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "Hua Main (From \"ANIMAL\")",
         "url": "https://open.spotify.com/album/1Vkdf3mTQV4RakJBz0HbgT"
@@ -1221,7 +1221,7 @@
       "url": "https://open.spotify.com/track/54PRUdMOYzglMGnsg9kIta"
     },
     {
-      "added_at": "2025-01-15 16:28:53",
+      "added_at": "2025-01-22 10:13:29",
       "album": {
         "name": "O Maahi (From \"Dunki\")",
         "url": "https://open.spotify.com/album/011VDmbOf50dqxmLnkdsoC"

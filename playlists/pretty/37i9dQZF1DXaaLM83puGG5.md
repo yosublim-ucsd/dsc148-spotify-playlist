@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 
 ### [House Party \(2\)](https://open.spotify.com/playlist/37i9dQZF1DXaaLM83puGG5)
 
-> Keeping the party going with Spirit Mas! Cop your tickets <a href="https://islandetickets.com/event/Home25">here</a>.
+> Keeping the party going with Spirit Mas! Get your tickets for HOME <a href="https://islandetickets.com/event/Home25">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,113 likes - 45 songs - 2 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,421 likes - 45 songs - 2 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaaLM83puGG5.md) - [plain]
 | 44 | [Carnival Meeting](https://open.spotify.com/track/2UDfAe1d1w2337YtwIer0d) | [Lyrikal](https://open.spotify.com/artist/35KCSzO0sDCLggvo39D9ng) | [Carnival Meeting](https://open.spotify.com/album/6jayM75ag2tDqb4lcI9ivI) | 3:00 |
 | 45 | [Blessings](https://open.spotify.com/track/3vRolXGHfkahGgKMrkjOf3) | [Hey Choppi](https://open.spotify.com/artist/27GA6NMM69byd5ankSWsXw) | [Blessings](https://open.spotify.com/album/55dUHw0rKRQmTwRrJnmF6O) | 3:15 |
 
-Snapshot ID: `Z4rRbgAAAADuDdkqp5Gz7jkALPkFhQkc`
+Snapshot ID: `Z5ER3AAAAAANMfr3KlCE9xnsrfUxDdJd`
