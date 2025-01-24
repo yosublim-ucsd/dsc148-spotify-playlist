@@ -10651,6 +10651,32 @@
     },
     {
       "album": {
+        "name": "Poder",
+        "url": "https://open.spotify.com/album/20QNcx9rkpDRQquMTbXa70"
+      },
+      "artists": [
+        {
+          "name": "Drizzy",
+          "url": "https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1"
+        },
+        {
+          "name": "Vk Mac",
+          "url": "https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs"
+        },
+        {
+          "name": "Jow1st",
+          "url": "https://open.spotify.com/artist/2VzqdUgMeB2sTuxj9eZEXo"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217206,
+      "name": "Poder",
+      "url": "https://open.spotify.com/track/4YndPDx2UppHp4CwkH37EN"
+    },
+    {
+      "album": {
         "name": "Poesia Ac\u00fastica 14",
         "url": "https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN"
       },

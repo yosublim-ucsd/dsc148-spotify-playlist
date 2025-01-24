@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > pra curtir o puro afrobeats feito no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,902 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,913 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 2 | [Levante](https://open.spotify.com/track/09tODjIWVm1d08ZstMQs7d) | [Rashid](https://open.spotify.com/artist/5WgRuO0mhM36NFoapzpWBH), [Melly](https://open.spotify.com/artist/7a7n9ka0Mnevq19mOU8tcW), [Duda Raupp](https://open.spotify.com/artist/1TblNIhFNuu2fTJbTp6rDp) | [Portal](https://open.spotify.com/album/1L2ggWtMRGQwoULWqlp1Jf) | 3:39 |
 | 3 | [Pura Perdição](https://open.spotify.com/track/2QjEeUAzoh4WmCnLb1iDl9) | [Mc Gabzin](https://open.spotify.com/artist/5RmXJq0g7MNmgtxXLGbd6K), [Maori](https://open.spotify.com/artist/6cTths3ECGmlGS7SDER6Mg) | [Pura Perdição](https://open.spotify.com/album/5pKcSfd2FtJB9oLr4W9V2P) | 2:22 |
 | 4 | [Gingado](https://open.spotify.com/track/7opo4ooKxfnEXMDzvs8EtJ) | [MC PH](https://open.spotify.com/artist/4PLdCloYxu2bMKfuuB9lI5), [Menor MC](https://open.spotify.com/artist/78Y1NpgD0yMKoBetaYlUzS), [Zapi](https://open.spotify.com/artist/3GabjOPnWsQikvKkBTp4Eu), [WEY](https://open.spotify.com/artist/6nZ39vMOOOgXQ471Jy5jhR), [Rincon Sapiência](https://open.spotify.com/artist/6syQjkQSMIrzw5cFnNRheo), [Marquinho no Beat](https://open.spotify.com/artist/4Z9aFsrQeXQbKIOryEkfqe), [Pedro Lotto](https://open.spotify.com/artist/23ot0eI6ByBW6LrlBfr2bm) | [Bem\-Vindo Ao Meu Mundo](https://open.spotify.com/album/0PeQXhEAlEwBgDAYDfNcVE) | 4:25 |
-| 5 | [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 |
-| 6 | [Manga](https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Asopø](https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl) | 3:15 |
+| 5 | [Manga](https://open.spotify.com/track/1Gd9tfhQMvDEs1XauC0dy8) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Asopø](https://open.spotify.com/album/2nUUf3dUDtIfWpgXGW7Ntl) | 3:15 |
+| 6 | [LUA CHEIA](https://open.spotify.com/track/3Cip8Fq9C3HLtKIcmTPhQi) | [Enme](https://open.spotify.com/artist/3ttiKwSvGG74O588DvPIG8), [UANA](https://open.spotify.com/artist/2fHwMQjss3D6RfkPN0ZkwO) | [LUA CHEIA](https://open.spotify.com/album/23Kztdt5FJmH3Jvm1k1wNp) | 2:50 |
 | 7 | [Pôkas](https://open.spotify.com/track/7rxlGOl1BGVdCcV3uC0KQN) | [Amiri](https://open.spotify.com/artist/21AJ8DDu51y8XYvVRjHU4p), [Deryck Cabrera](https://open.spotify.com/artist/14SCQ3mQawCGO2ktCRGgGd) | [Pôkas / Mfalme](https://open.spotify.com/album/3NSNBHp6tJvSswP4TIagVh) | 5:45 |
 | 8 | [Abelha](https://open.spotify.com/track/5CJPEsbngKsbVJi5BaHtpX) | [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh), [Sotam](https://open.spotify.com/artist/0xKbHuoAoxvPu5uGax4d9l), [xochuo](https://open.spotify.com/artist/7uDHqQfRR5spZgZWfj286P) | [Abelha](https://open.spotify.com/album/6PgDRoJTBxFX6dLkQ83GRu) | 2:18 |
 | 9 | [COLADINHO](https://open.spotify.com/track/2sBj9IcVkONWhpCAdCYxG2) | [Zamba](https://open.spotify.com/artist/1tAUNTuJvXvyeVw88XTsEW), [Liz Kaweria](https://open.spotify.com/artist/3gw1VAkgn77AwU0XiwEl77), [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw) | [COLADINHO](https://open.spotify.com/album/4EuMig8Kjpupei5uHlYphj) | 2:32 |

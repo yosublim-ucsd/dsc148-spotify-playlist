@@ -5375,6 +5375,24 @@
     },
     {
       "album": {
+        "name": "you get me fucked",
+        "url": "https://open.spotify.com/album/6E0Tj9BcRkX42CXonRWktp"
+      },
+      "artists": [
+        {
+          "name": "lambcatz",
+          "url": "https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82758,
+      "name": "you get me fucked",
+      "url": "https://open.spotify.com/track/5TdU9RvPbL1OIOyIc1D71d"
+    },
+    {
+      "album": {
         "name": "You'll Be Gone",
         "url": "https://open.spotify.com/album/0gH8DEh4ckICe6PB7Dc4kq"
       },

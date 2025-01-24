@@ -2,7 +2,7 @@
 
 ### [New Dance Hits 2025](https://open.spotify.com/playlist/2p24KuIbwho6IKwVb2VYiC)
 
-> The best Dance and EDM tracks right now! Cover: Marshmello &amp; Jonas Brothers
+> The best Dance and EDM tracks right now! Cover: Anyma &amp; Ellie Goulding
 
 267 songs - 14 hr 1 min
 

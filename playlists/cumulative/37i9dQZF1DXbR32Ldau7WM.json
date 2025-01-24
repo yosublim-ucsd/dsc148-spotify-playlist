@@ -12775,6 +12775,24 @@
     },
     {
       "album": {
+        "name": "In Your Languages",
+        "url": "https://open.spotify.com/album/1nJlr4uATMI2G26PYLVlvE"
+      },
+      "artists": [
+        {
+          "name": "yuragi",
+          "url": "https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296500,
+      "name": "Whenever, Whatever",
+      "url": "https://open.spotify.com/track/3zE8xmbyFYQoHfRwb1Hs04"
+    },
+    {
+      "album": {
         "name": "Wife",
         "url": "https://open.spotify.com/album/5zMPAuweyhdfG57mxRK9QD"
       },

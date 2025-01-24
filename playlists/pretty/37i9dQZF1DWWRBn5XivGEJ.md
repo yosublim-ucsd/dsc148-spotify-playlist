@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain]
 
 > アニメ「デッドデッドデーモンズデデデデデストラクション」の世界を彩る楽曲をプレイリストで。Music from "Dead Dead Demon's Dededede Destruction"! ©︎浅野いにお／小学館／DeDeDeDe Committee
 
-[Spotify](https://open.spotify.com/user/spotify) - 848 likes - 29 songs - 1 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 853 likes - 29 songs - 1 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWRBn5XivGEJ.md) - [plain]
 | 13 | [We](https://open.spotify.com/track/27Cznkjjel3tI62iY7JdKK) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:16 |
 | 14 | [Barricade](https://open.spotify.com/track/38qg5TAkaqGP2beU9efGaE) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:20 |
 | 15 | [Butterfly](https://open.spotify.com/track/1d8GYl505t6fVgaQyJkbys) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 3:30 |
-| 16 | [My Friends](https://open.spotify.com/track/4kxlaipxWzMM1dVqUK7uP6) | [犬養 奏](https://open.spotify.com/artist/6LpK3M2ep1ZAGbAyWScsSi) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 1:57 |
+| 16 | [My Friends](https://open.spotify.com/track/4kxlaipxWzMM1dVqUK7uP6) | [犬養奏](https://open.spotify.com/artist/1ZvRuOBGzfddJ1AmDzKPu3) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 1:57 |
 | 17 | [Flashback](https://open.spotify.com/track/6NTPqWLt2j3SFXgE3pZf0e) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:18 |
 | 18 | [Discord](https://open.spotify.com/track/6WdMKatPhTyTrpOjMDyGMs) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:35 |
 | 19 | [gloom](https://open.spotify.com/track/1sUP9XC5VpbrdZ22y7Qpqp) | [梅林太郎](https://open.spotify.com/artist/6mHGjWwBX0ZunW2fKFL9xH), [Julia Shortreed](https://open.spotify.com/artist/6Swtf1UAGASXEJXnhDRjoc) | [『デッドデッドデーモンズデデデデデストラクション』オリジナル・サウンドトラック](https://open.spotify.com/album/2F70PGToCt3P3nAeqme9LF) | 2:51 |

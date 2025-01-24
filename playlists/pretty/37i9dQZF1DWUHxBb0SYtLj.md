@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 
 > Artiste italiane da ascoltare a tutto volume 🔊 Cover: Mina
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,257 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,260 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUHxBb0SYtLj.md) - [plain]
 | 21 | [NEVROTIKA](https://open.spotify.com/track/4vqllhWg07TahUCDopJ82L) | [M¥SS KETA](https://open.spotify.com/artist/594PwrFy2mmLueuUwUgoCM) | [NEVROTIKA](https://open.spotify.com/album/5P2HRcfFh55qBjvFdDtLEF) | 2:17 |
 | 22 | [RATATA](https://open.spotify.com/track/4HzAtulFJBpDKRuJ6qGT1H) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [RATATA](https://open.spotify.com/album/251D5KToQ1R7yDB4crZEkN) | 2:40 |
 | 23 | [Speciali +](https://open.spotify.com/track/0UwZWPgwJMvdstEZUTEaMl) | [Rizzo](https://open.spotify.com/artist/2ALJBMyhbGODOEpstHfEqN) | [Speciali +](https://open.spotify.com/album/5qLvhBeNHl6FgWfSKk7eMn) | 2:58 |
-| 24 | [MADRID](https://open.spotify.com/track/5sbU31CmaRePrVYr8bARhE) | [Senza\_Cri](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [MADRID](https://open.spotify.com/album/6W1uDUWHc2fI4hlTI9HCxo) | 2:34 |
+| 24 | [MADRID](https://open.spotify.com/track/5sbU31CmaRePrVYr8bARhE) | [SENZA CRI](https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX) | [MADRID](https://open.spotify.com/album/6W1uDUWHc2fI4hlTI9HCxo) | 2:34 |
 | 25 | [oh my god](https://open.spotify.com/track/2C42NOgiXXkbpRePhTVjO0) | [mew](https://open.spotify.com/artist/2IUzp4XydH7CtjqGwW2XiU) | [oh my god](https://open.spotify.com/album/5eViZ16AVD34GQvTivZzye) | 3:03 |
 | 26 | [Coming back from Marte](https://open.spotify.com/track/4HU6nNHVABOEey5MQjO2V9) | [Prim](https://open.spotify.com/artist/4eiK39Rrg0g8Dml029aGHy) | [Luna in acquario ascendente sagittario](https://open.spotify.com/album/0Npr04aGRYwjtvx4Udm8rS) | 2:14 |
 | 27 | [Diversi tipi di dolore](https://open.spotify.com/track/5EZXyoWrbg7JwpdQdjORtC) | [Anna Carol](https://open.spotify.com/artist/6BJWROUyan9xhxGKBcrT1I) | [Diversi tipi di dolore](https://open.spotify.com/album/1SeKS1lZBeqBhfB8LPKIyL) | 4:04 |

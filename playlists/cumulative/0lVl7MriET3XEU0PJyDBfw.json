@@ -2069,6 +2069,24 @@
     },
     {
       "album": {
+        "name": "Dig It Up",
+        "url": "https://open.spotify.com/album/08LHrJvwQOr8OPISQ3tm02"
+      },
+      "artists": [
+        {
+          "name": "TOYZZ",
+          "url": "https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159692,
+      "name": "Dig It Up",
+      "url": "https://open.spotify.com/track/4zGAYCNnjVQSrnAHPTJxUT"
+    },
+    {
+      "album": {
         "name": "Litterbox 17",
         "url": "https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB"
       },

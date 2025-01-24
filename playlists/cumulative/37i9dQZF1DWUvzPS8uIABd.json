@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa JVG.",
+  "description": "T\u00e4m\u00e4n hetken kovimmat suomihitit. Kannessa Nelli Matula.",
   "name": "#vainsuomihitit",
   "tracks": [
     {
@@ -274,6 +274,28 @@
       "duration_ms": 216948,
       "name": "Ake, Make, Pera ja m\u00e4 (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
       "url": "https://open.spotify.com/track/7DRDYm10hKVRPgyJlADucs"
+    },
+    {
+      "album": {
+        "name": "Alkuhuuma (feat. ANI)",
+        "url": "https://open.spotify.com/album/7a30g7eJZX1TYSH7Lxyn36"
+      },
+      "artists": [
+        {
+          "name": "Joe L",
+          "url": "https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra"
+        },
+        {
+          "name": "ANI",
+          "url": "https://open.spotify.com/artist/7aaGp8b4O2FQUwHY23MV0T"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130891,
+      "name": "Alkuhuuma (feat. ANI)",
+      "url": "https://open.spotify.com/track/7A2IHlYAKZuf8bflrCygqq"
     },
     {
       "album": {
@@ -1135,6 +1157,28 @@
     },
     {
       "album": {
+        "name": "4AM - EP",
+        "url": "https://open.spotify.com/album/4WGMlGqAhpKkgsk0uHhaFx"
+      },
+      "artists": [
+        {
+          "name": "Tuure Boelius",
+          "url": "https://open.spotify.com/artist/4qojHFVaMgvpZZ1LW0L9To"
+        },
+        {
+          "name": "SMURDHY",
+          "url": "https://open.spotify.com/artist/6bSsc7d3xjgKCIaoRe9QtR"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128253,
+      "name": "Ennallaan (feat. SMURDHY)",
+      "url": "https://open.spotify.com/track/5fhlUwhwf4rCTK9VwMXboY"
+    },
+    {
+      "album": {
         "name": "Ennen kun s\u00e4 meet",
         "url": "https://open.spotify.com/album/2aNLZzioDL0waR2hCcMoV2"
       },
@@ -1340,6 +1384,24 @@
       "duration_ms": 179739,
       "name": "Forever Young (feat. Joe L)",
       "url": "https://open.spotify.com/track/6pG5I35avZEynviks1Cxjz"
+    },
+    {
+      "album": {
+        "name": "SEPPO MIXTAPE",
+        "url": "https://open.spotify.com/album/6k0CnWRzKZDKb7BG4j6A1g"
+      },
+      "artists": [
+        {
+          "name": "jambo",
+          "url": "https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157786,
+      "name": "HAAVERI",
+      "url": "https://open.spotify.com/track/43abPnVxTyDK7rg5EDXWKc"
     },
     {
       "album": {
@@ -1962,7 +2024,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 110810,
       "name": "Jeesus",
       "url": "https://open.spotify.com/track/3p7O1Dazd4PEcZsDl8EN0R"
@@ -3836,7 +3898,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 160619,
       "name": "Miljoona",
       "url": "https://open.spotify.com/track/4c6GQUHarKXDAzcUxTg7bH"
@@ -5011,6 +5073,24 @@
     },
     {
       "album": {
+        "name": "Pull Up",
+        "url": "https://open.spotify.com/album/4JIrAvo1Ys3gm8ulL5hd8O"
+      },
+      "artists": [
+        {
+          "name": "DAVI",
+          "url": "https://open.spotify.com/artist/6SZyjpoIRcvW29wO1u0ouV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130893,
+      "name": "Pull Up",
+      "url": "https://open.spotify.com/track/1WL8TO2hnusM1mPdxZ0Cwx"
+    },
+    {
+      "album": {
         "name": "Punasel",
         "url": "https://open.spotify.com/album/34szKylJ0hcuzrvgqfvQ2v"
       },
@@ -5659,6 +5739,28 @@
     },
     {
       "album": {
+        "name": "Se Nainen",
+        "url": "https://open.spotify.com/album/1hdUbyu29r7EJEG5M9WIFr"
+      },
+      "artists": [
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        },
+        {
+          "name": "SHRTY",
+          "url": "https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170450,
+      "name": "Se Nainen",
+      "url": "https://open.spotify.com/track/1KGRYDGIkt2DOwjXdPicxF"
+    },
+    {
+      "album": {
         "name": "Sekaisin",
         "url": "https://open.spotify.com/album/1FPmzpbf0RY6x5ermqKC8q"
       },
@@ -6221,6 +6323,28 @@
     },
     {
       "album": {
+        "name": "APATHIA",
+        "url": "https://open.spotify.com/album/1wVq5KOK1sZQ27szlcnGJE"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Bizi",
+          "url": "https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154728,
+      "name": "T-paita (feat. Bizi)",
+      "url": "https://open.spotify.com/track/3P1pM5vlWSugzuBlVKRZjG"
+    },
+    {
+      "album": {
         "name": "Tahdotko mut tosiaan (Vain el\u00e4m\u00e4\u00e4 kausi 15)",
         "url": "https://open.spotify.com/album/7zEm7TaDNAEOHm10higJWH"
       },
@@ -6476,7 +6600,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 169074,
       "name": "Toista sua",
       "url": "https://open.spotify.com/track/0tQZ5PHjvaTprcgfdbOgKk"
@@ -7664,7 +7788,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 178590,
       "name": "Y\u00f6n selk\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/4uGuic7I5mYTwKFA9vf7XX"

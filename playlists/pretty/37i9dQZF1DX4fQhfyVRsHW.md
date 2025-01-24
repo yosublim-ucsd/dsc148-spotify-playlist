@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 
 > Lie back to calm music enhanced with the sounds of nature.
 
-[Spotify](https://open.spotify.com/user/spotify) - 123,876 likes - 115 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 123,949 likes - 115 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4fQhfyVRsHW.md) - [plain]
 | 114 | [Vila](https://open.spotify.com/track/2M78TKNx5DGgXKfCPTHIXK) | [Johanna Frid](https://open.spotify.com/artist/7wik4zcVVjCv1eOp5yOSYW) | [Vila](https://open.spotify.com/album/2OraxQTVImlSvRdxIhgR84) | 3:20 |
 | 115 | [The Wonder of Nature](https://open.spotify.com/track/5Ib96cyGrJO5UCHepKSwge) | [Free Arrows](https://open.spotify.com/artist/1p11ASxd4v3ZAMkYgMtxOK) | [Bridge of Life](https://open.spotify.com/album/4nJofJQsYmbn5Hr4VYhKCU) | 2:54 |
 
-Snapshot ID: `Z2WRvwAAAABmC8IAzoqwSND9gVpIUx/9`
+Snapshot ID: `Z5J+DQAAAAChfJQQycfRGnKa2rIW/FBf`

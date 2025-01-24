@@ -130,7 +130,7 @@
       ],
       "date_added": "2024-04-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 148965,
       "name": "Accent",
       "url": "https://open.spotify.com/track/630FyHqhfuEltA53jLHvJA"
@@ -571,6 +571,32 @@
     },
     {
       "album": {
+        "name": "Big Boy Tracks",
+        "url": "https://open.spotify.com/album/2Q9pKNTfIKEe1vRoe7vwWK"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "Champion",
+          "url": "https://open.spotify.com/artist/3cHya45cxGzLYIPg2LRCCR"
+        },
+        {
+          "name": "Logan_olm",
+          "url": "https://open.spotify.com/artist/7ezXYwQkPrEkSXdVsFowz0"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221520,
+      "name": "Big Boy Tracks",
+      "url": "https://open.spotify.com/track/0jplL1GF7TuyqR6kAe2ikh"
+    },
+    {
+      "album": {
         "name": "Billi Billi",
         "url": "https://open.spotify.com/album/20hmi1knXw7qwh8ihuIEVU"
       },
@@ -706,7 +732,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 145263,
       "name": "Chai and Sunshine",
       "url": "https://open.spotify.com/track/4MU0QH6w1HZ64ZPFXh3qg4"
@@ -1072,6 +1098,46 @@
       "duration_ms": 195692,
       "name": "DhinDhinDha",
       "url": "https://open.spotify.com/track/7r6hQkgYOnzyzsDwXcL0Xb"
+    },
+    {
+      "album": {
+        "name": "Dhoka Diya",
+        "url": "https://open.spotify.com/album/5RnoSfyJlKhTPWJ04UDuwP"
+      },
+      "artists": [
+        {
+          "name": "Zack Knight",
+          "url": "https://open.spotify.com/artist/7JMBJmGMqw4H33HECyW4QP"
+        },
+        {
+          "name": "Simran Kaur",
+          "url": "https://open.spotify.com/artist/6JnaYkxzGPRqAJlO9tzCkW"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193510,
+      "name": "Dhoka Diya",
+      "url": "https://open.spotify.com/track/6lRX3myTd5VaRfHINwJEQO"
+    },
+    {
+      "album": {
+        "name": "Dial Tone",
+        "url": "https://open.spotify.com/album/3OhVBRXfCax9dqmLvnxSNh"
+      },
+      "artists": [
+        {
+          "name": "Shumaq",
+          "url": "https://open.spotify.com/artist/6s2kMNqPUgJBgFvufMHAao"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 86153,
+      "name": "Dial Tone",
+      "url": "https://open.spotify.com/track/0qVcNNWJgSvVfc8JJFEHwe"
     },
     {
       "album": {
@@ -1758,7 +1824,7 @@
       ],
       "date_added": "2024-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 143330,
       "name": "Guess featuring billie eilish",
       "url": "https://open.spotify.com/track/3WOhcATHxK2SLNeP5W3v1v"
@@ -2186,7 +2252,7 @@
       ],
       "date_added": "2023-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 153521,
       "name": "Jhalak",
       "url": "https://open.spotify.com/track/4jySosSV8hElpCyfZ2mV6K"
@@ -2778,7 +2844,7 @@
       ],
       "date_added": "2024-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 170000,
       "name": "Mashallah (feat. Adam Saleh)",
       "url": "https://open.spotify.com/track/7GDtl3xCUOGWt9zaqnOeKn"
@@ -2840,6 +2906,28 @@
       "duration_ms": 129242,
       "name": "Melanin In The Hamptons",
       "url": "https://open.spotify.com/track/00vRKEBd2AMhEP5d014eIW"
+    },
+    {
+      "album": {
+        "name": "Mera Mann",
+        "url": "https://open.spotify.com/album/6K54Y8LZob4AAqfqMyuVts"
+      },
+      "artists": [
+        {
+          "name": "Juss",
+          "url": "https://open.spotify.com/artist/5Z8nzSJRSo4HRcUOzemnC1"
+        },
+        {
+          "name": "MixSingh",
+          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163571,
+      "name": "Mera Mann",
+      "url": "https://open.spotify.com/track/0teitahwTKBwzYMDR4Cmti"
     },
     {
       "album": {
@@ -3377,6 +3465,28 @@
     },
     {
       "album": {
+        "name": "Pass the Salt (feat. Vince Staples)",
+        "url": "https://open.spotify.com/album/4gPggL39Z2kmgocCmWloOG"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Vince Staples",
+          "url": "https://open.spotify.com/artist/68kEuyFKyqrdQQLLsmiatm"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167010,
+      "name": "Pass the Salt (feat. Vince Staples)",
+      "url": "https://open.spotify.com/track/4IvoRp9jHBbISiVIN8R9el"
+    },
+    {
+      "album": {
         "name": "Patola",
         "url": "https://open.spotify.com/album/34ExNlFZBdA3qlDawAXDKt"
       },
@@ -3506,6 +3616,28 @@
       "duration_ms": 216698,
       "name": "Pull Up",
       "url": "https://open.spotify.com/track/15tmP0QsT9Vv8eQBbj7ZZi"
+    },
+    {
+      "album": {
+        "name": "Punjabi Kompa",
+        "url": "https://open.spotify.com/album/38K1o8yxmy7ZnHr4wJaYH3"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190923,
+      "name": "Punjabi Kompa",
+      "url": "https://open.spotify.com/track/3XUeQfDlKWphVg5LFWEaRi"
     },
     {
       "album": {
@@ -3742,7 +3874,7 @@
       ],
       "date_added": "2022-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 168994,
       "name": "Santa Maria",
       "url": "https://open.spotify.com/track/5MiD1d6C7EXxadJwekOudc"

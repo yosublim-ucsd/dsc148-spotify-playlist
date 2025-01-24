@@ -4,7 +4,7 @@
 
 > Актуальні хіти та проривні новинки незалежної місцевої музики\. Обкладинка: BAH.ROMA
 
-247 songs - 12 hr 59 min
+248 songs - 13 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,7 +97,7 @@
 | [ЗОРЯ](https://open.spotify.com/track/6SMUvGu39x4fVxYECykiY1) | [NAZVA](https://open.spotify.com/artist/6Z0JQx2gaHoT6fiBgTS9p3) | [Паросток](https://open.spotify.com/album/00pfDMrDUczHopHvzlQ57z) | 3:43 | 2024-11-07 | 2024-12-16 |
 | [Зорі](https://open.spotify.com/track/3hfNeUEeo0PdYPrF5Tu6R9) | [INGRET](https://open.spotify.com/artist/43Gc9czfpJK1ijNMPOCtYy) | [Зорі](https://open.spotify.com/album/0PXdikZSX69hwMmQ48av23) | 3:07 | 2024-10-18 | 2024-11-08 |
 | [Зупиняти кров](https://open.spotify.com/track/118w7P41WH2GEKrscAiUU5) | [Lely45](https://open.spotify.com/artist/3S2ZPs0ccEwknZLPQDbGSw) | [Зупиняти кров](https://open.spotify.com/album/3xzpyOqDj7t8hwodw1EnXV) | 3:36 | 2024-06-27 | 2024-08-04 |
-| [Зірки](https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Зірки](https://open.spotify.com/album/1B6W1lCgv5xN3MmAPm0cyh) | 2:57 | 2024-10-18 |  |
+| [Зірки](https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC) | [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Зірки](https://open.spotify.com/album/1B6W1lCgv5xN3MmAPm0cyh) | 2:57 | 2024-10-18 | 2025-01-24 |
 | [Касабланка](https://open.spotify.com/track/1cGIrj2xrj54O8r8t12GEw) | [Максим Тощо](https://open.spotify.com/artist/3Ep1gS5T8izuWbdLi02gLQ), [Тощо](https://open.spotify.com/artist/5xtYAoNSDJqff7kKvLp1VZ) | [Касабланка](https://open.spotify.com/album/1lMlJgqMlxd7GBjv1V57Xw) | 3:07 | 2024-09-13 | 2024-10-05 |
 | [Квартали](https://open.spotify.com/track/1x2CbvlWtd8GAX9A1gZV3S) | [SadSvit](https://open.spotify.com/artist/2ojY7fXJxZQhg8Rx5e8h9G), [Мія Рамарі](https://open.spotify.com/artist/7tKfttZq7dMkO1UHqPfp4y) | [Квартали](https://open.spotify.com/album/1G8H3PamI9TrUcoHBbOGhn) | 2:51 | 2024-06-27 | 2024-12-07 |
 | [квітка](https://open.spotify.com/track/6OTVx468BE04UttbKJjh7S) | [Oi FUSK](https://open.spotify.com/artist/6o5wVUin90wkBMMDpqQPtW) | [квітка](https://open.spotify.com/album/7yVcH9pGSNDgFZIBOlZz5Z) | 5:01 | 2024-10-04 | 2024-10-19 |
@@ -195,6 +195,7 @@
 | [СНИ](https://open.spotify.com/track/6pLnB6l1OcSFe0m2fgYmvu) | [vladislava melis](https://open.spotify.com/artist/2gEcWv6TRsyk1J7RGdWZnU) | [СНИ](https://open.spotify.com/album/0MKiTUrOtNHsV1XmXWT3xA) | 2:28 | 2024-06-27 | 2024-07-13 |
 | [Сніг](https://open.spotify.com/track/2h9c2sQlqHIDyxwSb7MPHJ) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [Сніг](https://open.spotify.com/album/2Sf7OJbNiU5hjAbAMeWOTj) | 3:24 | 2024-12-06 |  |
 | [Сон](https://open.spotify.com/track/2be9h8GzIiJeFHXlNU0H0k) | [FRSHMND](https://open.spotify.com/artist/6ZGfx3v95NePauM9BHhDfp) | [Сон](https://open.spotify.com/album/7vox4nfO9PzXZzlJUOaabu) | 2:40 | 2024-06-27 | 2024-07-13 |
+| [сонце](https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C) | [макс пташник](https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE), [KRUTЬ](https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z) | [такі як ми](https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r) | 3:11 | 2025-01-02 |  |
 | [Спокійно так](https://open.spotify.com/track/6v1RD5haDZQ0bX7S4uKeTp) | [DENOMA](https://open.spotify.com/artist/1CIgr3yWzcyRxtmhuzaqSd), [drumkid](https://open.spotify.com/artist/7jzPNwEtRJWiN9gXjDZZ4O) | [Спокійно так](https://open.spotify.com/album/3Fj1QogKrwKkAgJM2OJb7f) | 2:53 | 2024-10-04 | 2024-10-19 |
 | [Спочатку було Слово](https://open.spotify.com/track/5OeWN69Qzwd3pzpy6802Ot) | [МУР](https://open.spotify.com/artist/3NYo9EP6S3ReZ3ep86lsg3) | [Ти \[Романтика\]](https://open.spotify.com/album/5iPSAtJk05Zfa8Mpitd0Af) | 4:01 | 2024-06-27 |  |
 | [Спрага не в справі](https://open.spotify.com/track/4KxkFBJqXHoNOb7yvSC48F) | [YUVI](https://open.spotify.com/artist/6l6Oqj9SmzFR81eaVmyhB9) | [Спрага не в справі](https://open.spotify.com/album/0QJHq7aGOWBjm5t3DDrmli) | 2:58 | 2024-08-23 | 2024-09-14 |

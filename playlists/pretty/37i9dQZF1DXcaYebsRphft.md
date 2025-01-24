@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『MISAMO JAPAN DOME TOUR 2024 “HAUTE COUTURE”』セットリストを公開！
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,431 likes - 18 songs - 52 min 9 sec
+[Spotify](https://open.spotify.com/user/spotify) - 31,396 likes - 18 songs - 52 min 9 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

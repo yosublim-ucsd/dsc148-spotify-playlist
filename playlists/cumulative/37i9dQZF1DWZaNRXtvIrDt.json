@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-10",
-  "description": "A new world of alternative electronic music. Cover: Tobiahs",
+  "description": "A new world of alternative electronic music. Cover: VV Pete",
   "name": "Portal",
   "tracks": [
     {
@@ -443,6 +443,24 @@
     },
     {
       "album": {
+        "name": "Abomination",
+        "url": "https://open.spotify.com/album/5hEuzuz7JCZBAt4FLXEugf"
+      },
+      "artists": [
+        {
+          "name": "Hamdi",
+          "url": "https://open.spotify.com/artist/7vvicoei9BbKpZix8qSeLg"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168017,
+      "name": "Abomination",
+      "url": "https://open.spotify.com/track/0HqxXdPTzbLAVRNXJcsPH6"
+    },
+    {
+      "album": {
         "name": "Dance Implants",
         "url": "https://open.spotify.com/album/2f9wLvTfSLnCiG1JG41cEl"
       },
@@ -868,7 +886,7 @@
       ],
       "date_added": "2024-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 254142,
       "name": "All You Children",
       "url": "https://open.spotify.com/track/1zYuc5YFYlFfSSq6IslHVY"
@@ -922,7 +940,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 177206,
       "name": "Alone",
       "url": "https://open.spotify.com/track/0ehcOXeXkE1Cozi3NIRWrv"
@@ -1788,7 +1806,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 195409,
       "name": "Best Time",
       "url": "https://open.spotify.com/track/1VV6FPTNAj2G8c60lpOCcP"
@@ -3098,6 +3116,24 @@
       "duration_ms": 186982,
       "name": "Changes",
       "url": "https://open.spotify.com/track/5MFbNnmY32OzSI1dYMzWsB"
+    },
+    {
+      "album": {
+        "name": "Chave",
+        "url": "https://open.spotify.com/album/4SKibuA8q9M51Z6IvyL0nM"
+      },
+      "artists": [
+        {
+          "name": "Lance Savali",
+          "url": "https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147678,
+      "name": "Chave",
+      "url": "https://open.spotify.com/track/7i3MU3fCW1wXwLPPjTNkbx"
     },
     {
       "album": {
@@ -4745,6 +4781,28 @@
     },
     {
       "album": {
+        "name": "Echoes",
+        "url": "https://open.spotify.com/album/7GQkvh0JeLxE9ohhqtpjKa"
+      },
+      "artists": [
+        {
+          "name": "Willo",
+          "url": "https://open.spotify.com/artist/7ssD6eT1Te3ugcd1noTNLA"
+        },
+        {
+          "name": "TIBASKO",
+          "url": "https://open.spotify.com/artist/6xq7g0E52yq4y8Op9X82Uo"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170689,
+      "name": "Echoes",
+      "url": "https://open.spotify.com/track/0wuwvWJ29u9UZAWZAS4zKe"
+    },
+    {
+      "album": {
         "name": "Ela Joga na Hora",
         "url": "https://open.spotify.com/album/30Ytb0PG1tOv7JiKOTBK2v"
       },
@@ -4928,6 +4986,32 @@
       "duration_ms": 322499,
       "name": "Enough",
       "url": "https://open.spotify.com/track/2qMLbeUM1IunPifKpvzqDx"
+    },
+    {
+      "album": {
+        "name": "Escape",
+        "url": "https://open.spotify.com/album/2NCtVmzU6FWVpzODrgVVDo"
+      },
+      "artists": [
+        {
+          "name": "AJ Christou",
+          "url": "https://open.spotify.com/artist/6dWcGqZzMm3mNuvc4yLVsj"
+        },
+        {
+          "name": "A-Trak",
+          "url": "https://open.spotify.com/artist/3TaUSUXn41GixL7zbvrIDt"
+        },
+        {
+          "name": "Robert Owens",
+          "url": "https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212929,
+      "name": "Escape",
+      "url": "https://open.spotify.com/track/6WRKpDo9ayuRidi2Rv291e"
     },
     {
       "album": {
@@ -6327,6 +6411,32 @@
     },
     {
       "album": {
+        "name": "it's Franky baby!",
+        "url": "https://open.spotify.com/album/3JK7UWkTqg4uyv2OfWRvQ9"
+      },
+      "artists": [
+        {
+          "name": "Young Franco",
+          "url": "https://open.spotify.com/artist/6mK0vAO13gT8jWYANyoXAl"
+        },
+        {
+          "name": "General Levy",
+          "url": "https://open.spotify.com/artist/2bHgAaZ7qbGbMMXwAQm48I"
+        },
+        {
+          "name": "Tommy Villiers",
+          "url": "https://open.spotify.com/artist/4M4KGWKy7pSQ5HaJNCutBN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221602,
+      "name": "Give Thanks, Give Praise",
+      "url": "https://open.spotify.com/track/3iNAdtlehRYGgYV6rt07IM"
+    },
+    {
+      "album": {
         "name": "Glide",
         "url": "https://open.spotify.com/album/5FuZ6Tuk0OsSclr2SfWmG3"
       },
@@ -6986,7 +7096,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 212463,
       "name": "Higher",
       "url": "https://open.spotify.com/track/6BPRJB3sHcqcent8i9CVUc"
@@ -7196,7 +7306,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 180219,
       "name": "Hopecore",
       "url": "https://open.spotify.com/track/4MyREnmB1D6ODsvsGiyKHV"
@@ -8088,7 +8198,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 250052,
       "name": "Johera",
       "url": "https://open.spotify.com/track/364WvZQupFpGf3yzuFA03B"
@@ -8368,7 +8478,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 190909,
       "name": "Kisses (feat. bbyclose) - Evan McGee Remix",
       "url": "https://open.spotify.com/track/3VoiQyUMOOfw2uDWQqgRfe"
@@ -8709,6 +8819,24 @@
     },
     {
       "album": {
+        "name": "Libero",
+        "url": "https://open.spotify.com/album/2BL9H5Ij4EkVkkPBp2BuEc"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218418,
+      "name": "Libero",
+      "url": "https://open.spotify.com/track/5t0uCMCzg4rXR5n0xiaHBR"
+    },
+    {
+      "album": {
         "name": "Liberty, Oh!",
         "url": "https://open.spotify.com/album/4HEPvyP9r3jDK4HCbumujC"
       },
@@ -8902,6 +9030,24 @@
       "duration_ms": 338160,
       "name": "Lizard Eyes",
       "url": "https://open.spotify.com/track/0W7JDifoWEDPZFh5o8Dz8o"
+    },
+    {
+      "album": {
+        "name": "llamando",
+        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156184,
+      "name": "llamando",
+      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
     },
     {
       "album": {
@@ -9110,6 +9256,24 @@
       "duration_ms": 326769,
       "name": "Lost Grove",
       "url": "https://open.spotify.com/track/3Snx1ggBSnrfS0d3EWTuy4"
+    },
+    {
+      "album": {
+        "name": "Lost My Trust",
+        "url": "https://open.spotify.com/album/6f5kldUSrbrIPQzaZO9bad"
+      },
+      "artists": [
+        {
+          "name": "Club Angel",
+          "url": "https://open.spotify.com/artist/1reJK6xw6Lu0r1PMoTUTDj"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316384,
+      "name": "Lost My Trust",
+      "url": "https://open.spotify.com/track/5wg7kHq2vEbtQiMrqSghQl"
     },
     {
       "album": {
@@ -10257,6 +10421,24 @@
     },
     {
       "album": {
+        "name": "Need Right / Dogma",
+        "url": "https://open.spotify.com/album/1Mwbe4PnWuhMnLSzVBgDdx"
+      },
+      "artists": [
+        {
+          "name": "Villager",
+          "url": "https://open.spotify.com/artist/5NhirHwHO8nu6MrwjBizh7"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278931,
+      "name": "Need Right",
+      "url": "https://open.spotify.com/track/6yfA9fcHa6BDSWU8Osy5OO"
+    },
+    {
+      "album": {
         "name": "Need U",
         "url": "https://open.spotify.com/album/06RiNKQaHus4Q0GD4aN2xT"
       },
@@ -10724,7 +10906,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 176706,
       "name": "Older",
       "url": "https://open.spotify.com/track/5iYllqp8cdbFSjU3sHzoKn"
@@ -11882,7 +12064,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 413658,
       "name": "Radiant - Mixed",
       "url": "https://open.spotify.com/track/6ylG0n9HatmW8nNCHyt8Xj"
@@ -12428,7 +12610,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 215570,
       "name": "Roadkilla",
       "url": "https://open.spotify.com/track/6m7IexIKZSCM8tw0NwpZev"
@@ -14173,6 +14355,24 @@
     },
     {
       "album": {
+        "name": "Strong (Club Mix)",
+        "url": "https://open.spotify.com/album/4xhVhWulpHjlnrsBcAD6SQ"
+      },
+      "artists": [
+        {
+          "name": "YesYou",
+          "url": "https://open.spotify.com/artist/22qas00XuS5sVfW0YaR5Wd"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 259672,
+      "name": "Strong - Club Mix",
+      "url": "https://open.spotify.com/track/4gEPygJnWVwN3CLR5JmKAJ"
+    },
+    {
+      "album": {
         "name": "Strong Remixes",
         "url": "https://open.spotify.com/album/1WTMkAbbfGab2q7gP2zv2M"
       },
@@ -14214,7 +14414,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 166774,
       "name": "Stunt Like This",
       "url": "https://open.spotify.com/track/32cWu1hGQ3SgFPqEe2xVyl"
@@ -15104,7 +15304,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 208934,
       "name": "The Seed",
       "url": "https://open.spotify.com/track/7e8zVBMvp8voIM0Nbo5YaE"
@@ -15508,7 +15708,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 441783,
       "name": "Touch The Vibe",
       "url": "https://open.spotify.com/track/3WRPjoawrmZUiSsV4V0SHy"
@@ -15610,6 +15810,36 @@
       "duration_ms": 294545,
       "name": "Trespasser Unknown",
       "url": "https://open.spotify.com/track/2bAmotuHu9LCtzd2d2jeiA"
+    },
+    {
+      "album": {
+        "name": "True Religion",
+        "url": "https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M"
     },
     {
       "album": {
@@ -16185,6 +16415,32 @@
     },
     {
       "album": {
+        "name": "WASSA",
+        "url": "https://open.spotify.com/album/5GB53dYIw2kYHKuDGvMV0W"
+      },
+      "artists": [
+        {
+          "name": "Vv Pete",
+          "url": "https://open.spotify.com/artist/66IkoRt5JAg88LCnPuyxXr"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "Formation Boyz",
+          "url": "https://open.spotify.com/artist/4mjpwaac5pDtDick78NNpm"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202522,
+      "name": "WASSA",
+      "url": "https://open.spotify.com/track/4hrqUMXWFIvyUbvckqk974"
+    },
+    {
+      "album": {
         "name": "Wasted (Yuto. Remix)",
         "url": "https://open.spotify.com/album/1YqzhK5sQPLl6OylOC4yyv"
       },
@@ -16340,6 +16596,32 @@
       "duration_ms": 177703,
       "name": "WEST CONNECT",
       "url": "https://open.spotify.com/track/1KSugesgS8FTFfPBPpYV7f"
+    },
+    {
+      "album": {
+        "name": "What Else Is There? (True Electric)",
+        "url": "https://open.spotify.com/album/7idK48CvP5p9AwTsDPNZ98"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        {
+          "name": "trentem\u00f8ller",
+          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375750,
+      "name": "What Else Is There? (True Electric)",
+      "url": "https://open.spotify.com/track/5GD884euAuIni7OGc4KOV1"
     },
     {
       "album": {

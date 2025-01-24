@@ -2,9 +2,9 @@
 
 ### [indelectro](https://open.spotify.com/playlist/37i9dQZF1DX7xNd2fNATsx)
 
-> Quand l'indie et l'electro ne font qu'un\. Photo : Justice
+> Quand l'indie et l'electro ne font qu'un\. Photo : KOMPROMAT
 
-119 songs - 8 hr 15 min
+122 songs - 8 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,6 +17,7 @@
 | [Always On The Run](https://open.spotify.com/track/3McVJ4pdwNMP4RJtsJAogG) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/0hFRGY5FtkENV4TkbwjCMM) | 3:43 | 2024-03-08 |  |
 | [Always On The Run](https://open.spotify.com/track/52EPPbUf2chJt14NbQIu9a) | [Yuksek](https://open.spotify.com/artist/2ePIzx9NjxplS724QMZtsf) | [Living On The Edge Of Time](https://open.spotify.com/album/3YPOlrizHDAktT0CJBhz6D) | 3:43 | 2023-02-07 | 2023-10-19 |
 | [Armatron](https://open.spotify.com/track/05x6pBQelgwQJs3ZeVfdEC) | [STRFKR](https://open.spotify.com/artist/2Tz1DTzVJ5Gyh8ZwVr6ekU) | [Armatron](https://open.spotify.com/album/7pYfAkU5CwZFOgIzQncD3r) | 4:12 | 2023-11-29 |  |
+| [Behind The Line](https://open.spotify.com/track/4LvABz0CZYbEheSeCUDkDj) | [Enfant Sauvage](https://open.spotify.com/artist/3fWTFntAThCp6vaoGjD71D), [Møme](https://open.spotify.com/artist/4lDXfIznmGueBgTjI3qGUX) | [Behind The Line](https://open.spotify.com/album/7GdBwc9plMJG1ad5M94Ff9) | 5:33 | 2025-01-23 |  |
 | [Blind](https://open.spotify.com/track/7rWS1umX04r7zzWnGNDu8w) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/6LPZgo0gjHTMmOwzMSUqAV) | 6:16 | 2024-03-08 |  |
 | [Blind](https://open.spotify.com/track/6EGfgNUSxVINKcmpbyssUE) | [Hercules & Love Affair](https://open.spotify.com/artist/1WHoAjAWGx5qLsgzpaOk7W) | [Hercules & Love Affair](https://open.spotify.com/album/7EMv3oMKUEpNrKFVZd1XYJ) | 6:18 | 2023-02-07 | 2024-04-19 |
 | [Boy From School](https://open.spotify.com/track/1L8H6AuK4TaMmolSL0N0mR) | [Hot Chip](https://open.spotify.com/artist/37uLId6Z5ZXCx19vuruvv5) | [The Warning](https://open.spotify.com/album/25wuY7cXE8zjFnJRiU1ehS) | 5:19 | 2023-02-07 | 2024-09-20 |
@@ -51,10 +52,11 @@
 | [How Deep Is Your Love?](https://open.spotify.com/track/7ddGC67DasWO30q5YepUJe) | [The Rapture](https://open.spotify.com/artist/166Dz1GX3xonSQ3Z6CQW26) | [In the Grace of Your Love](https://open.spotify.com/album/4gwqJXH0UUQFwrimYJKfmu) | 6:25 | 2024-09-19 |  |
 | [I <3 U SO](https://open.spotify.com/track/0WWBeDKdXmGbZD1XVOVqot) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [The Rawkers \(I <3 U SO Edition\)](https://open.spotify.com/album/73puEbxrgGI8vbRtA6E6pZ) | 3:42 | 2023-11-15 |  |
 | [I Believe](https://open.spotify.com/track/10zzmoWQkfiUfZRBDS88i9) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/33Egk2iyDKq0eYzTirBTuO) | 3:16 | 2023-02-07 | 2024-04-19 |
-| [I Believe](https://open.spotify.com/track/1gk4GlnculQR84IbqkVNwA) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/5WNB89bRkFrX9NkWymKXxf) | 3:18 | 2024-03-08 |  |
+| [I Believe](https://open.spotify.com/track/1gk4GlnculQR84IbqkVNwA) | [Simian Mobile Disco](https://open.spotify.com/artist/31DXlldabwPHwu6dYevuzK) | [Attack Decay Sustain Release](https://open.spotify.com/album/5WNB89bRkFrX9NkWymKXxf) | 3:18 | 2024-03-08 | 2025-01-24 |
 | [I Can Change](https://open.spotify.com/track/2073QOEC8rBtSyTsRyaWiP) | [LCD Soundsystem](https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6) | [This Is Happening](https://open.spotify.com/album/4hnqM0JK4CM1phwfq1Ldyz) | 5:52 | 2023-02-07 | 2024-02-17 |
 | [I Come With Knives](https://open.spotify.com/track/2FnukbZsuLUY3BK6lWtx1K) | [IAMX](https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD) | [The Unified Field](https://open.spotify.com/album/0l86PJLl6c3BvzHSTRiBmf) | 4:22 | 2023-02-07 | 2024-04-19 |
 | [I Come With Knives](https://open.spotify.com/track/2KzYjp7bRcGlwgZRUmoSeZ) | [IAMX](https://open.spotify.com/artist/223iUzG0kb5V166FJP9ovD) | [The Unified Field](https://open.spotify.com/album/0tAUuBldpHmnguMysW4ycm) | 4:22 | 2024-03-08 | 2024-04-26 |
+| [I DID NOT FORGET YOU](https://open.spotify.com/track/3qgKzIqsoEm0yY9cHMwkje) | [KOMPROMAT](https://open.spotify.com/artist/1QYA7hFYKc0EuhE2MGpjH7), [Rahim Redcar](https://open.spotify.com/artist/4fWWr45mgLHAV8DPJR3vdW), [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [Rebeka Warrior](https://open.spotify.com/artist/0VPogECnuuH2xbYP3Rmpd4), [Vitalic](https://open.spotify.com/artist/4M84umUNRbZy1mJleyyRM9) | [PLДYING / PRДYING](https://open.spotify.com/album/7jW1d9fLw4vxIa2P1fkcgm) | 3:31 | 2025-01-23 |  |
 | [I see you up tomorrow](https://open.spotify.com/track/4tdwnzkNsPyb3MAFnhuETN) | [Scratch Massive](https://open.spotify.com/artist/5udXThiZTVoHa4g0GDjgxA), [Maud Geffray](https://open.spotify.com/artist/0PyyoamnJX4tdrSf8r6dij) | [I see you up tomorrow](https://open.spotify.com/album/2XDwROWOGBYPQ7ZX7CVB3j) | 2:46 | 2024-08-29 |  |
 | [iluv](https://open.spotify.com/track/4u0N8a9adNalT4XdihjeSr) | [Effy](https://open.spotify.com/artist/19SX00qkAvpVQroAka9GI0), [Mall Grab](https://open.spotify.com/artist/7yF6JnFPDzgml2Ytkyl5D7) | [iluv](https://open.spotify.com/album/2TvY3bIQKy2yz3Rj4575Jv) | 4:17 | 2024-02-16 | 2025-01-17 |
 | [Incognito](https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD) | [Justice](https://open.spotify.com/artist/1gR0gsQYfi6joyO1dlp76N) | [Incognito](https://open.spotify.com/album/0NtHCfmvPFF1usQ8kpaSMF) | 4:01 | 2024-03-08 | 2024-04-26 |
@@ -106,6 +108,7 @@
 | [Running Up That Hill](https://open.spotify.com/track/20yPPvSSfIomexVwLdgXSo) | [Chromatics](https://open.spotify.com/artist/4tOVIRjlWWfR1RrAxyRqTE) | [Night Drive](https://open.spotify.com/album/6m0UuVV0fOC6m4p8J4ozRy) | 6:06 | 2023-11-15 |  |
 | [Second Life](https://open.spotify.com/track/06OEFGpAn2Y2ZEACTiXruB) | [Kiko](https://open.spotify.com/artist/4vQwRCAEjGlq5szn3MyG2N), [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP) | [Second Life](https://open.spotify.com/album/73UKqssJXWES4fRrF6R19r) | 2:47 | 2024-02-16 | 2025-01-17 |
 | [Sexy Boy](https://open.spotify.com/track/6INLpBxo9F5QMer04VXEnd) | [Air](https://open.spotify.com/artist/1P6U1dCeHxPui5pIrGmndZ) | [Moon Safari](https://open.spotify.com/album/5dmYtZVJ1bG9RyrZBRrkOA) | 4:58 | 2024-09-19 | 2025-01-17 |
+| [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 | 2025-01-23 |  |
 | [Skeleton Boy](https://open.spotify.com/track/0O2UcLBP75ugJ8DxskP8gz) | [Friendly Fires](https://open.spotify.com/artist/3mZqziCJj4pq3P2VBpmK6p) | [Friendly Fires](https://open.spotify.com/album/3sGsbbZGQqc3npPtdlAgnU) | 3:33 | 2023-02-07 | 2024-02-17 |
 | [Slyd](https://open.spotify.com/track/46lfv99D2euxzpZeSDZZUv) | [!!!](https://open.spotify.com/artist/1mmehjf7eHA10uHMisZGJg) | [Thr!!!er](https://open.spotify.com/album/1J2PN5tgc2Z5wz4Vb0xHkn) | 4:14 | 2023-02-07 | 2024-02-17 |
 | [Sourire](https://open.spotify.com/track/41qv3QU0O4zM2KLtkO5x28) | [Amelie Martinez](https://open.spotify.com/artist/2ZUmKzZUZPBuvBrdTM6Rw1), [Vendredi](https://open.spotify.com/artist/728y8xDi9WMeYqKeuYgDF0) | [Sourire](https://open.spotify.com/album/3PxbtialTHwR0r70FpgBtm) | 2:34 | 2024-02-23 | 2024-03-02 |
@@ -115,8 +118,8 @@
 | [Still](https://open.spotify.com/track/22h6eRtujclF21iJkhjgWd) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot) | [Still](https://open.spotify.com/album/4VkpzC01x4AbUMVP7bJi4X) | 6:05 | 2024-03-08 |  |
 | [take me by the hand](https://open.spotify.com/track/4AHeemjLSF5e1UbGRGCUO4) | [Oklou](https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw), [Bladee](https://open.spotify.com/artist/2xvtxDNInKDV4AvGmjw6d1) | [take me by the hand](https://open.spotify.com/album/6IShuyiAbqSgjgXVCrHCOr) | 2:51 | 2025-01-16 |  |
 | [Tear You Apart](https://open.spotify.com/track/3urJUvRhgMrwydaTQFVEg9) | [She Wants Revenge](https://open.spotify.com/artist/2zRt0sfxNnqI8gLR7d8gWt) | [She Wants Revenge](https://open.spotify.com/album/0ikcvM61CScaAOSKHOralR) | 4:44 | 2023-02-07 |  |
-| [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-11-15 |  |
-| [The Sun](https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [All Inclusive](https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS) | 3:28 | 2023-02-07 |  |
+| [Tell Me](https://open.spotify.com/track/0hUU81fjvfcvaiCCN51oRy) | [James Blake](https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU) | [Playing Robots Into Heaven](https://open.spotify.com/album/2ZwNcWl8h9blysDE8i4juL) | 5:00 | 2023-11-15 | 2025-01-24 |
+| [The Sun](https://open.spotify.com/track/2hhVlIZmGEGfNeVIYnMUAG) | [Myd](https://open.spotify.com/artist/3QFiymmbJlVBPpnrOatEAk) | [All Inclusive](https://open.spotify.com/album/3poeqbKVhcXTRFoOMzwiQS) | 3:28 | 2023-02-07 | 2025-01-24 |
 | [Time To Dance](https://open.spotify.com/track/3cOPHE0rv7550yTHIb344Z) | [The Shoes](https://open.spotify.com/artist/6buUuVTdxxAe5ODJtKZ4hP), [ANTHONIN TERNANT](https://open.spotify.com/artist/7xi4HzU1VhqcrWbDHZcccE) | [Crack My Bones](https://open.spotify.com/album/0AEDGWBnOgIiAUp1zog9Kx) | 3:16 | 2023-02-07 | 2024-09-20 |
 | [Toop Toop](https://open.spotify.com/track/7cHhpJV9fC2AqgdiLvq1AO) | [Cassius](https://open.spotify.com/artist/4sf3QZW8a3xZ14IGsOAzoy) | [15 Again \(Deluxe Edition\)](https://open.spotify.com/album/3XG5dH7LcDZlkOWmtvLzXB) | 2:47 | 2023-02-07 | 2023-11-16 |
 | [TRANSMISSION](https://open.spotify.com/track/74aCGPb3BPylVKgM3FXCWj) | [Canblaster](https://open.spotify.com/artist/0IUKzbO8Ak6iMVUae225Wk) | [LIBEROSIS \(ACT II\)](https://open.spotify.com/album/0uiCEFi6FM8LTWv6RsxnnC) | 4:26 | 2024-03-01 |  |

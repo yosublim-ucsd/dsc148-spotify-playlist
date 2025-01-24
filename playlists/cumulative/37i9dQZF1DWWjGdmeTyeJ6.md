@@ -4,7 +4,7 @@
 
 > The best new music by independent artists and labels\. Cover artist: ROZET, Artwork: Isu Kim
 
-7,552 songs - 17 day 1 hr 55 min
+7,553 songs - 17 day 1 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -7300,6 +7300,7 @@
 | [White Lies](https://open.spotify.com/track/6pQLLR4LMT3vszYOeukEQY) | [Flo Gallop](https://open.spotify.com/artist/3hpT13ziNDOLWo3HzuS2IN) | [White Lies](https://open.spotify.com/album/2E1WfryrNzCwCgn9QOXeZA) | 2:16 | 2024-02-21 | 2024-02-29 |
 | [White Out](https://open.spotify.com/track/0dVj5fmkYseC1paXiRc9Wg) | [Xelli Island](https://open.spotify.com/artist/0Hd7uyxLIPZMxOpcZIZ7sV) | [White Out](https://open.spotify.com/album/4YY1lRElicxpo436bQOW7r) | 4:27 | 2023-05-10 | 2023-05-18 |
 | [Who](https://open.spotify.com/track/1E3u5YwynwrKVXxSzbjN6B) | [London Hilll](https://open.spotify.com/artist/7cqLnc6zTajTX61F6SGA2A) | [Who](https://open.spotify.com/album/3XYxlKlKE5aLFcD6Z5vJu9) | 2:10 | 2022-09-21 | 2022-09-29 |
+| [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-01-23 |  |
 | [Who are you?](https://open.spotify.com/track/6jh4GCOZfSXrstZiFKYYx0) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/3fi0zt0K8yyyGmfBoSa5hn) | 2:31 | 2024-11-27 | 2025-01-16 |
 | [WHO DAT](https://open.spotify.com/track/5cShPEpSbFcxGTtHvscJoH) | [Charbel](https://open.spotify.com/artist/4UENa19IKtHmTGXfnGUufo) | [WHO DAT](https://open.spotify.com/album/4CiUmJYJxaf44o4Ts6eSvo) | 2:24 | 2022-06-15 | 2022-06-30 |
 | [Who You Are](https://open.spotify.com/track/7olFqYuOkisFHqudWw4pVZ) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu), [The Moongirls](https://open.spotify.com/artist/7vqBwmmEgT8NctGLs3LxDm) | [Who You Are](https://open.spotify.com/album/7i8waz2ojMre9Ix47n1nGJ) | 3:56 | 2023-04-12 | 2023-04-15 |

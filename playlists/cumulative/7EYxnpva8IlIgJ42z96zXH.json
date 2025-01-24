@@ -2899,6 +2899,28 @@
     },
     {
       "album": {
+        "name": "Chasing Paradise",
+        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180091,
+      "name": "Chasing Paradise",
+      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
+    },
+    {
+      "album": {
         "name": "Chemical",
         "url": "https://open.spotify.com/album/1wZ8FVTvRXubQlYnrRNF5B"
       },
@@ -10050,7 +10072,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 162857,
       "name": "Lil Freak",
       "url": "https://open.spotify.com/track/0Gj6XxBRZyseUh0kjlUjRl"
@@ -14742,7 +14764,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 182847,
       "name": "Rising Stars",
       "url": "https://open.spotify.com/track/0qmp374lHUjRtcyf5eozUB"
@@ -17363,6 +17385,24 @@
     },
     {
       "album": {
+        "name": "Tears On My Piano",
+        "url": "https://open.spotify.com/album/0LkdjD0nQW2CEVVkygtLVi"
+      },
+      "artists": [
+        {
+          "name": "Joel Corry",
+          "url": "https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140173,
+      "name": "Tears On My Piano",
+      "url": "https://open.spotify.com/track/2x43NMw2lZatZ94ljbOJ11"
+    },
+    {
+      "album": {
         "name": "Techno Tree",
         "url": "https://open.spotify.com/album/0V4X0jvLYTkPoL10SUo2ZA"
       },
@@ -19178,7 +19218,7 @@
       },
       "artists": [
         {
-          "name": "Malugi",
+          "name": "MALUGI",
           "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
         },
         {

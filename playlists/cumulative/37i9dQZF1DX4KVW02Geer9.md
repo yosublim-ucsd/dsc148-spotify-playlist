@@ -2,9 +2,9 @@
 
 ### [X\-Over ジャズ!](https://open.spotify.com/playlist/37i9dQZF1DX4KVW02Geer9)
 
-> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Jungle
+> クロスオーバー・ジャズの先駆者、更に次世代のシーンの最先端に立つアーティストの曲を、まとめてお届けします。Cover: Moses Yoofee Trio
 
-210 songs - 15 hr 6 min
+211 songs - 15 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/track/4DPh5NuaRuSSMTemdEoFCk) | [Yussef Dayes](https://open.spotify.com/artist/2rspptKP0lPBdlJJAJHqht), [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Charlie Stacey](https://open.spotify.com/artist/3Uw7i8bbD7k8eOD5SIqn9g) | [Black Classical Music \(feat\. Venna & Charlie Stacey\)](https://open.spotify.com/album/5Fw9BsShZLeiuREYfVBX9s) | 5:19 | 2024-06-27 | 2024-07-05 |
 | [Black Hole \(feat\. Reggie Watts\)](https://open.spotify.com/track/4PnekQ16RE2bFx4e9dYOsx) | [Emma\-Jean Thackray](https://open.spotify.com/artist/3UgcksTtuB1Jnn8BrisEiC), [Reggie Watts](https://open.spotify.com/artist/3ni9LX95aVQksOuoHFEbEx) | [Black Hole \(feat\. Reggie Watts\)](https://open.spotify.com/album/77dFEarLbOf6T1NwafEfsl) | 4:12 | 2024-11-14 |  |
 | [BLOWING](https://open.spotify.com/track/2gAMm5mcek0GJd6HBY0nzW) | [MONTIEN](https://open.spotify.com/artist/6QNRLqKcApDMJCaGBpafSx), [Tina](https://open.spotify.com/artist/72HxMCdKQmPgS3r5OtC01L), [SUIKEN](https://open.spotify.com/artist/1UYQLPC8PYjUq6xV5MwFMz), [MACKA\-CHIN](https://open.spotify.com/artist/3hZPoNqYwz0RoAgmm546QK), [Jaribu Afrobeat Arkestra](https://open.spotify.com/artist/7BmuBUHrpMKpWY9GUfz6TL) | [BLOWING / STEP3](https://open.spotify.com/album/0Sv3ULvoT9ywD8STcmwpCb) | 4:05 | 2024-06-27 | 2024-07-19 |
+| [BOND](https://open.spotify.com/track/7zE8C7e3EVT6ov5PFhNg7Z) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [BOND](https://open.spotify.com/album/0lzGZXwnBO42vHZyfDEUbS) | 3:40 | 2025-01-23 |  |
 | [Bristol Changes](https://open.spotify.com/track/1teiUk3Fzs3TXUqYjNwdW9) | [Kuna Maze](https://open.spotify.com/artist/62vXfDbVL0oQEbYd6yP0oj) | [Bristol Changes](https://open.spotify.com/album/1MGMt3m8CQfTjmNNTOU22R) | 2:44 | 2024-11-28 |  |
 | [Call Me](https://open.spotify.com/track/4aty6aXloUquSo1RGzPo40) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Dayna Stephens](https://open.spotify.com/artist/3Y8rffZJZVJgNWMM6ZVGin) | [Call Me](https://open.spotify.com/album/3aCjPLFXzW00JqCHwU92o6) | 4:15 | 2025-01-16 |  |
 | [career day](https://open.spotify.com/track/6tRB5hUaJDStska9BvNxov) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT) | [Ten Fold](https://open.spotify.com/album/4CZCMvnmbjR6FkOAhzgmg3) | 2:19 | 2024-06-27 | 2024-08-09 |
@@ -201,7 +202,7 @@
 | [Water Suite \(Thirst\) \- Kassa Overall Remix](https://open.spotify.com/track/2FWVrnCVA1oX8f6jHGaTRq) | [Sly5thAve](https://open.spotify.com/artist/15zxwAfOdT7WmQeFWPJtKi), [Kassa Overall](https://open.spotify.com/artist/7qzzcFzliEAHMlDA9qaRVf) | [Water Suite \(Thirst\) \[Kassa Overall Remix\]](https://open.spotify.com/album/5vMhg9CcYR1k8BHLkhUCHZ) | 4:12 | 2024-11-21 |  |
 | [Waterscape](https://open.spotify.com/track/5EzbxbknclMlwNVJlCVY9w) | [NEWLY](https://open.spotify.com/artist/30qeN6y7bk4ASVG6zPd3sQ) | [Waterscape](https://open.spotify.com/album/61UOaMKJDLBt0H5ngGadQQ) | 3:27 | 2024-10-17 |  |
 | [WHAT IS ??](https://open.spotify.com/track/6D2FjYhr2L8XhOcuQ5mlzT) | [馬場智章](https://open.spotify.com/artist/68k8V28Llh6Lg8HhKCvLHG) | [ELECTRIC RIDER](https://open.spotify.com/album/3nejQ0cA2uM7SeDacWaNxp) | 3:03 | 2024-09-13 |  |
-| [WHIP.wav](https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [WHIP.wav](https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC) | 1:38 | 2024-10-17 |  |
+| [WHIP.wav](https://open.spotify.com/track/4wZ0xrGMdZ9gzqEl68dmqh) | [Moses Yoofee Trio](https://open.spotify.com/artist/4Jmjucr9inAKcxy64DYNxS) | [WHIP.wav](https://open.spotify.com/album/0GHT8jE2JMWAcMvzigrIUC) | 1:38 | 2024-10-17 | 2025-01-24 |
 | [Who Cares 1](https://open.spotify.com/track/4gCVhvI8Nk9esdj1wz4MOq) | [Louis Cole](https://open.spotify.com/artist/6uIst176jhzooPMetg2rtH), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [nothing](https://open.spotify.com/album/1hD0obPJIc7yi3RwwREblP) | 1:44 | 2024-08-08 | 2024-11-29 |
 | [World's Famous](https://open.spotify.com/track/2sdU23lpqA9LamR7TWSlI7) | [DJ KOCO aka SHIMOKITA](https://open.spotify.com/artist/5zf5AtO5oLmKZxZG2jvDZR), [45trio](https://open.spotify.com/artist/5RZXjBrAveEOuQAzLHvbfs) | [World's Famous](https://open.spotify.com/album/5JG1jRiLRIwOg3CFzBjrqW) | 3:11 | 2024-12-13 |  |
 | [Yoshi Orange \- Ash Walker Remix](https://open.spotify.com/track/3BW0JxyUIvOxN12TheYXKG) | [Ebi Soda](https://open.spotify.com/artist/14oHFzpCSWX1koQIlZbjFU), [Ash Walker](https://open.spotify.com/artist/38jDRxwK5wuTKAk54LEj1F) | [Collaborations & Remixes, Vol\. 1](https://open.spotify.com/album/1NNbU9upGPxk4g8PXk8rCP) | 3:11 | 2024-07-18 | 2025-01-17 |

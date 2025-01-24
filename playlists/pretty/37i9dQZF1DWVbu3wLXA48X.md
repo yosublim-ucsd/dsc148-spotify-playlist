@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbu3wLXA48X.md) - [plain]
 
 > Current indie tunes from Asia and around the world\. Cover: Perfume Genius
 
-[Spotify](https://open.spotify.com/user/spotify) - 110,804 likes - 104 songs - 6 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 110,841 likes - 104 songs - 6 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2cEUXdJJLVG.md) - [plain]
 
 > Funky & groovy tunes for poolside chilling.
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,665 likes - 142 songs - 8 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,662 likes - 142 songs - 8 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jealous Of The Sun \(feat\. AYLØ & Thierry Ganz\)](https://open.spotify.com/track/6GPabZCoP7HRFUFs81Osrw) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV) | [Jealous Of The Sun \(feat\. AYLØ & Thierry Ganz\)](https://open.spotify.com/album/72bGxLGUh1RVANjKcFVcMQ) | 3:11 |
+| 1 | [Jealous Of The Sun](https://open.spotify.com/track/6GPabZCoP7HRFUFs81Osrw) | [Tera Kòrá](https://open.spotify.com/artist/29oWM4DINZdTGRS0xKihHR), [AYLØ](https://open.spotify.com/artist/3KIiecqeFZHnbLK2MeagZd), [Thierry Ganz](https://open.spotify.com/artist/3JPH3i903T7TJIF6cWO5yV) | [Jealous Of The Sun \(feat\. AYLØ & Thierry Ganz\)](https://open.spotify.com/album/72bGxLGUh1RVANjKcFVcMQ) | 3:11 |
 | 2 | [Love In HiFi](https://open.spotify.com/track/6tjBKiKSaY9UfuDsrZeC99) | [KDRC](https://open.spotify.com/artist/7znZBeCEOB0GsbZzA0oPTR), [Leonard Luka](https://open.spotify.com/artist/3SKNnTmxj8h3CqGcaTYlew) | [Love In HiFi](https://open.spotify.com/album/3kARVuGckQBp1norYyrlvi) | 3:01 |
 | 3 | [If I Stay](https://open.spotify.com/track/09Ib2XztcUmNGD2iNPiQTg) | [Luna Mae](https://open.spotify.com/artist/5ownccCPeMuS8uJnAIsjFP) | [If I Stay](https://open.spotify.com/album/1MJRA5NaQMs0KQs81sz4hX) | 3:28 |
 | 4 | [You don't listen](https://open.spotify.com/track/7JjRTtAWZND9U2XoH4Il6D) | [Moodssupply](https://open.spotify.com/artist/2EqKTm9ltVzMpSWZHpSOy2) | [You don't listen](https://open.spotify.com/album/2uK8gE6zUjiZ8vfBZvL5Y3) | 2:32 |

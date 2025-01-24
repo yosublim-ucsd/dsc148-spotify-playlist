@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 
 > Enjoy the world of “Black Clover”! 魔法帝を目指す少年たちの物語を歴代OP/ED、サントラ曲でお楽しみください。© 田畠裕基／集英社・テレビ東京・ブラッククローバー製作委員会
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,946 likes - 40 songs - 2 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,972 likes - 40 songs - 2 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,34 +19,34 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWN1IuaY8rd.md) - [plain]
 | 9 | [RiGHT NOW](https://open.spotify.com/track/1mK1HDtie9WU6DAw3VAC4r) | [EMPiRE](https://open.spotify.com/artist/1APhKAeROy02DedkHnbrXb) | [RiGHT NOW](https://open.spotify.com/album/3CDr5PP8emblEqbOdfcCtE) | 3:32 |
 | 10 | [ハルカミライ](https://open.spotify.com/track/7m7uFwvYtrtHZb2Qw6nT2u) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [\#HAL](https://open.spotify.com/album/2EfUnv86voOYnhBW1PS9Ng) | 2:56 |
 | 11 | [A Walk](https://open.spotify.com/track/0PievpCNM93Ukg5q5XWu8X) | [梶原岳人](https://open.spotify.com/artist/1ZSbJqrZp4HiQlhPPScaKG) | [A Walk](https://open.spotify.com/album/2W1erva7HEgdfcx4I5UssN) | 4:19 |
-| 12 | [伝説](https://open.spotify.com/track/05cEv76lqXwcuXqRo7y7dY) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 3:08 |
+| 12 | [伝説](https://open.spotify.com/track/05cEv76lqXwcuXqRo7y7dY) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 3:08 |
 | 13 | [蒼い炎](https://open.spotify.com/track/0XTGeSFcD73mgRgl8VSL6S) | [ITOWOKASHI](https://open.spotify.com/artist/1xwuTSJVlnBEOecAEHGRfY) | [アイオライト/蒼い炎](https://open.spotify.com/album/45IYPFvMoKBAxbWvbCNVbX) | 4:01 |
-| 14 | [覚悟](https://open.spotify.com/track/6rLRxO604qgyY4frl7Kvnv) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:46 |
-| 15 | [pentagram](https://open.spotify.com/track/3fWsGlc7KEwFA9lGMWePaN) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:40 |
+| 14 | [覚悟](https://open.spotify.com/track/6rLRxO604qgyY4frl7Kvnv) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:46 |
+| 15 | [pentagram](https://open.spotify.com/track/3fWsGlc7KEwFA9lGMWePaN) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:40 |
 | 16 | [PAiNT it BLACK](https://open.spotify.com/track/4S3aU06ISAWFb0hIdZ4WL8) | [BiSH](https://open.spotify.com/artist/0ebinq3ZTOQAJNag4sBTJj) | [PAiNT it BLACK](https://open.spotify.com/album/397tzAaw1SrdHdfzwfFX8Q) | 3:50 |
-| 17 | [不退転 \- アスタのテーマ](https://open.spotify.com/track/79KnY1LVBsQ5Z28btG5Beu) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:53 |
+| 17 | [不退転 \- アスタのテーマ](https://open.spotify.com/track/79KnY1LVBsQ5Z28btG5Beu) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:53 |
 | 18 | [Amazing Dreams](https://open.spotify.com/track/3XkODQB4J2EQIOVKIhXp56) | [SWANKY DANK](https://open.spotify.com/artist/4l96NtYOUSEKXTUxsyKxtt) | [Amazing Dreams](https://open.spotify.com/album/2RRu7VV3TPkZXUOg8sSs7i) | 4:18 |
 | 19 | [Black Rover](https://open.spotify.com/track/0OGw7V8wAI6OsZIQ12JkTP) | [VK Blanka](https://open.spotify.com/artist/0PYPjvZaOa7bsCq26JOX8d) | [wizard](https://open.spotify.com/album/5WiacWoGjt3yMoK8vtQ0tz) | 3:29 |
 | 20 | [Black to the dreamlight](https://open.spotify.com/track/3lsNKlSXqfctHBNFGOLVTE) | [EMPiRE](https://open.spotify.com/artist/1APhKAeROy02DedkHnbrXb) | [THE EMPiRE STRiKES START!!](https://open.spotify.com/album/2qDXBi8VyuTID8Q8ALI0BK) | 5:46 |
-| 21 | [おかえり](https://open.spotify.com/track/2wbsecy8tvh4TbRwsQALjI) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:47 |
+| 21 | [おかえり](https://open.spotify.com/track/2wbsecy8tvh4TbRwsQALjI) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:47 |
 | 22 | [Guess Who Is Back](https://open.spotify.com/track/4lBliLm5ufCBNPlCzpvrQB) | [Kumi Koda](https://open.spotify.com/artist/2mGYHril2LuZodRtTX06BC) | [DNA](https://open.spotify.com/album/6clP6HKzALC37Aoas4zX8B) | 3:26 |
 | 23 | [four](https://open.spotify.com/track/5q0JLhzbWHNOOAXeUCI3mG) | [FAKY](https://open.spotify.com/artist/5oLb41tSEDtY357HGJCIK9) | [four](https://open.spotify.com/album/46SKYBNEHeuSmQfNmURKSK) | 3:33 |
-| 24 | [約束](https://open.spotify.com/track/0fXgGULOSfjwOElAA8ROMz) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 3:46 |
+| 24 | [約束](https://open.spotify.com/track/0fXgGULOSfjwOElAA8ROMz) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 3:46 |
 | 25 | [ガムシャラ](https://open.spotify.com/track/3D9yweVjHsSyfINp2Kbyx8) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [ガムシャラ](https://open.spotify.com/album/5xSqBRiOF07Ho37CzrdxoS) | 3:17 |
 | 26 | [天上天下](https://open.spotify.com/track/3Nv1oNLEfPpNJqyl6xc65Z) | [みゆな](https://open.spotify.com/artist/2eg5oiMWKYEJ5vVwW1YFCC) | [天上天下](https://open.spotify.com/album/0KeFh6Qld8f728inbckziR) | 3:15 |
-| 27 | [楽しい休日](https://open.spotify.com/track/4uf7e9p1Hwu1OqWUNuR7sT) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:41 |
+| 27 | [楽しい休日](https://open.spotify.com/track/4uf7e9p1Hwu1OqWUNuR7sT) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:41 |
 | 28 | [落書きペイジ](https://open.spotify.com/track/7lP713bUiokrSjRcztjzgp) | [KANKAKU PIERO](https://open.spotify.com/artist/0y7gVi2MozEY4IyyDWKWqQ) | [落書きペイジ](https://open.spotify.com/album/5OlJdcTJzsJMoCSsJmIwXM) | 3:25 |
-| 29 | [希望](https://open.spotify.com/track/660SyF3p8GI0M6Jn4uGDJD) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:56 |
+| 29 | [希望](https://open.spotify.com/track/660SyF3p8GI0M6Jn4uGDJD) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:56 |
 | 30 | [My Song My Days](https://open.spotify.com/track/5N4ATZloYFOBdKLQ9v69CK) | [SOLIDEMO](https://open.spotify.com/artist/7ccOn9dXuj9TGDZJSLZYP2), [桜men](https://open.spotify.com/artist/09nL8Bc0RxxQ43ckGEqgqN) | [My Song My Days](https://open.spotify.com/album/0PtBxIsIQUduy2xZ3XJhag) | 4:34 |
-| 31 | [挑む者たち](https://open.spotify.com/track/75cVPS8TCJcNqkNcnqVqzy) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:53 |
+| 31 | [挑む者たち](https://open.spotify.com/track/75cVPS8TCJcNqkNcnqVqzy) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:53 |
 | 32 | [JUSTadICE](https://open.spotify.com/track/6IVM1YYZq6K6NG6qqC26o4) | [Seiko Oomori](https://open.spotify.com/artist/24YRwiUM8Lj1bamuYNbeEr) | [JUSTadICE](https://open.spotify.com/album/5vtry7e8VNfajQeMQZt1tE) | 3:52 |
 | 33 | [花が咲く道](https://open.spotify.com/track/1BxBJCHhyGYcPLZBAaC7YE) | [THE CHARM PARK](https://open.spotify.com/artist/2QKf9jr434G3Mo8Hr9npPb) | [花が咲く道](https://open.spotify.com/album/4lKBO464MmbFPazU6RNgV8) | 3:36 |
-| 34 | [決意](https://open.spotify.com/track/19tiuT7LfjaB2s9Lo5oVP4) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:41 |
-| 35 | [黎明](https://open.spotify.com/track/5cYI9415dBr2nIuCmxId8g) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:59 |
+| 34 | [決意](https://open.spotify.com/track/19tiuT7LfjaB2s9Lo5oVP4) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:41 |
+| 35 | [黎明](https://open.spotify.com/track/5cYI9415dBr2nIuCmxId8g) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:59 |
 | 36 | [sky & blue](https://open.spotify.com/track/1AZKHiqBKfdBxVcWUnJJUj) | [GIRLFRIEND](https://open.spotify.com/artist/4jMAPB1oOdRVwqvGOnsNGn) | [sky & blue](https://open.spotify.com/album/5tNvYlCJYyNXXLKwlP7vpF) | 3:58 |
 | 37 | [against all gods](https://open.spotify.com/track/2Y7RqQQ8SHHuyOuahPFmoT) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O) | [against all gods](https://open.spotify.com/album/7JzuLlamf2TEHcAGtbIWa6) | 3:59 |
-| 38 | [勇躍](https://open.spotify.com/track/5zl5DgayfsqXrmKQ3KMoNP) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:19 |
-| 39 | [彗星のごとく \- ユノのテーマ](https://open.spotify.com/track/41ZI62Vub0v58tEhFZ9Hcz) | [関美奈子](https://open.spotify.com/artist/4hzUKfpdzsxgI6xUFe6cT9) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:46 |
+| 38 | [勇躍](https://open.spotify.com/track/5zl5DgayfsqXrmKQ3KMoNP) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 2:19 |
+| 39 | [彗星のごとく \- ユノのテーマ](https://open.spotify.com/track/41ZI62Vub0v58tEhFZ9Hcz) | [関 美奈子](https://open.spotify.com/artist/2yuft7VcDgFLBxWzayMKXW) | [ブラッククローバー ミュージックコレクションvol.1](https://open.spotify.com/album/4sVjv2SxDjhjN9G1TbgLP4) | 1:46 |
 | 40 | [POSSIBLE](https://open.spotify.com/track/7bBynD5zaziUBMKiXzSytI) | [Clover×Clover](https://open.spotify.com/artist/7LwbY0oHkFUCsKkBr18tox) | [POSSIBLE](https://open.spotify.com/album/4WWH23Q3b6hUaxcwxEcoWf) | 3:03 |
 
 Snapshot ID: `ZIsncAAAAADdFyoufAymhiWMAMUORNsk`

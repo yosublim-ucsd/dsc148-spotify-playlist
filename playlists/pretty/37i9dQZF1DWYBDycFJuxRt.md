@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: ONE OK ROCK \*👉 <a href="https://spice.eplus.jp/articles/335016">SPICE連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,758 likes - 79 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,813 likes - 79 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,7 +40,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 30 | [ミッドナイト・リフレクション](https://open.spotify.com/track/3sAlrCLgPW8hzoG4QNsMIi) | [NOMELON NOLEMON](https://open.spotify.com/artist/3PRXdiVu8lUkeCKw4ZUX4B) | [ミッドナイト・リフレクション](https://open.spotify.com/album/2ikaiGXxmfc3ENG4BjxMcq) | 3:41 |
 | 31 | [HER](https://open.spotify.com/track/0b4xSLnMV2w0RXugY4w9Dg) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/5o5Qyfl84QAAnWNUHuuiCV) | 2:39 |
 | 32 | [Mama Said](https://open.spotify.com/track/76G6tgncwiZ3lS2XjztTHy) | [KickFlip](https://open.spotify.com/artist/6F4yXjmhQBqo6HVr6K234k) | [Flip it, Kick it!](https://open.spotify.com/album/4JyW3t1OPM0SDQzwRGY9XZ) | 2:56 |
-| 33 | [Certified](https://open.spotify.com/track/0exagy6KgTwlFakT27iWmC) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Certified](https://open.spotify.com/album/4ehOtM0PYKNnHNbiOwOyn2) | 3:04 |
+| 33 | [Certified](https://open.spotify.com/track/0exagy6KgTwlFakT27iWmC) | [Miso Extra](https://open.spotify.com/artist/0Vv0Cc8LAnIhUsYI4d5wBg) | [Certified](https://open.spotify.com/album/4ehOtM0PYKNnHNbiOwOyn2) | 3:05 |
 | 34 | [LIE DOWN..](https://open.spotify.com/track/68XQUzPx5J3irT3WzUpJRp) | [Saya Gray](https://open.spotify.com/artist/4EnymklUyqZwvmHQGlRssl) | [LIE DOWN..](https://open.spotify.com/album/1DnDYhwZ7K6gejLVulLNZf) | 5:09 |
 | 35 | [meaning](https://open.spotify.com/track/23rFnCXBIlKpxuKSorAyeL) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [meaning](https://open.spotify.com/album/1eNXkTH3nkNUcWbacD6zyW) | 3:44 |
 | 36 | [My Way](https://open.spotify.com/track/73c4ytvb0MnzvQp5WEBjYj) | [Jazee Minor](https://open.spotify.com/artist/0ta2OM2ZCzcIWxMFaLBfcg), [ELIONE](https://open.spotify.com/artist/3fOp14elQgw1Js3NqGOIlg), [CHICO CARLITO](https://open.spotify.com/artist/074tUrKhXVuH4s5Mfg0zWz) | [My Way](https://open.spotify.com/album/1mv5ehNMZ0CaKCBSF5Afa4) | 3:27 |
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 51 | [TONIGHT'S SPECIAL](https://open.spotify.com/track/7CZZ843p1Grx6YsRNq1djs) | [Ryoko Moriyama](https://open.spotify.com/artist/1nw3JzV7O0FpOLcwmZ2IMP) | [Life Is Beautiful](https://open.spotify.com/album/1HOQScg7UGTpP4RoQIKcM4) | 6:18 |
 | 52 | [健康](https://open.spotify.com/track/4CdOgSayTISkQ76ZcUdG6l) | [眞名子新](https://open.spotify.com/artist/5LwF68vjoBv2DWlUZNGa0G) | [健康](https://open.spotify.com/album/6luPQvr9mjz1kB2X1EOgeE) | 3:02 |
 | 53 | [YOAKE](https://open.spotify.com/track/4hY8ZPLCvMlLmfPBs2GqZ2) | [Rude\-α](https://open.spotify.com/artist/6ZtYpkBBZ7wfpM99Qxm0KO) | [YOAKE](https://open.spotify.com/album/1uVGevK443JtR9gbiFUnPu) | 3:39 |
-| 54 | [はい？ \(feat\. NISHI HIROTO\)](https://open.spotify.com/track/1qsNWpF5EmkTN0Kza67dXO) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [NISHI HIROTO](https://open.spotify.com/artist/66tEx2Q4sURynkrNss1m9p) | [はい？ \(feat\. NISHI HIROTO\)](https://open.spotify.com/album/2QjzBZwptxSKiIqwrO9hbL) | 2:26 |
+| 54 | [はい？ \(feat\. NISHI HIROTO\)](https://open.spotify.com/track/1qsNWpF5EmkTN0Kza67dXO) | [Thelma Aoyama](https://open.spotify.com/artist/1AU9Y5Y2Taxe4yh7AI6JRD), [NISHI HIROTO \(INI\)](https://open.spotify.com/artist/66tEx2Q4sURynkrNss1m9p) | [はい？ \(feat\. NISHI HIROTO\)](https://open.spotify.com/album/2QjzBZwptxSKiIqwrO9hbL) | 2:26 |
 | 55 | [24/7](https://open.spotify.com/track/3KHlQmYCzvlD23fgdDNJRJ) | [Erika Nishi](https://open.spotify.com/artist/7J7NV5RglXhb1GoGj0sS1R), [磯野くん](https://open.spotify.com/artist/48UwOs44kquyWN7FoUZCTG) | [COLORLESS](https://open.spotify.com/album/1T6nhUmaxpLEcOAFC2RhOm) | 3:51 |
 | 56 | [恋に落ちた瞬間](https://open.spotify.com/track/3032Vr27yds6aLnvAOkoUk) | [Nanase Aikawa](https://open.spotify.com/artist/2RNdF99wgP5ikh7fIJ0DIk) | [恋に落ちた瞬間](https://open.spotify.com/album/6NKKwXMkNLIjpUXjeC5k1S) | 5:45 |
 | 57 | [Risky](https://open.spotify.com/track/23IioSuw5umh337zwccGy4) | [Yoko Kuzuya](https://open.spotify.com/artist/4npBbWR9zhm8hXabjjigvt) | [DRAMATIC](https://open.spotify.com/album/73mHi7Q0nRxIXHoaKUiJvD) | 3:42 |

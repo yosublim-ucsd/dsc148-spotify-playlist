@@ -2497,6 +2497,24 @@
     },
     {
       "album": {
+        "name": "The Slur Song",
+        "url": "https://open.spotify.com/album/4sDwp4QXSbdDvSXzJ1K3jI"
+      },
+      "artists": [
+        {
+          "name": "Bigfoot's Biggest Fan",
+          "url": "https://open.spotify.com/artist/55GtCELECsxXn2qGp4GvLg"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215520,
+      "name": "The Slur Song",
+      "url": "https://open.spotify.com/track/1GotsDLkupVeKLe1WgvOm2"
+    },
+    {
+      "album": {
         "name": "Dinosaurchestra",
         "url": "https://open.spotify.com/album/4ZE05qOXBcWmItdv95gyiy"
       },

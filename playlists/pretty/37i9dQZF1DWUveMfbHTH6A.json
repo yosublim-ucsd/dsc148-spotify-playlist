@@ -1,6 +1,6 @@
 {
   "description": "Our editors' picks of the best Fresh Finds tracks around the world this year. Cover: Cash Cobain",
-  "num_followers": 10461,
+  "num_followers": 10465,
   "original_name": "Fresh Finds: Class of 2024",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Panorama Olivia",
+        "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 160291,
+      "name": "Non ci penso",
+      "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "internet girl",
         "url": "https://open.spotify.com/album/68Rs6kp20R9n61RlAH7TAj"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 176363,
       "name": "The Auction",
       "url": "https://open.spotify.com/track/6Iyjyipx38ScxCNP4TmBq4"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Panorama Olivia",
-        "url": "https://open.spotify.com/album/2hvDI1bWYpIxgMH9oFWl8t"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 160291,
-      "name": "Non ci penso",
-      "url": "https://open.spotify.com/track/7IYqWbceazrqnNhLaIt9Ig"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -711,22 +711,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Why Is It Light Out?",
-        "url": "https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm"
-      },
-      "artists": [
-        {
-          "name": "The Kilans",
-          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
-        }
-      ],
-      "duration_ms": 242438,
-      "name": "Why Is It Light Out?",
-      "url": "https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Pretty Girls",
         "url": "https://open.spotify.com/album/0i2NBNbgRnLyyUR2vIEOks"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 123953,
       "name": "Yip, Yip, Yip",
       "url": "https://open.spotify.com/track/3VJmF2hR2VRA9EPEywJAoB"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Why Is It Light Out?",
+        "url": "https://open.spotify.com/album/6904DB41CM3pjgKkUTKWjm"
+      },
+      "artists": [
+        {
+          "name": "The Kilans",
+          "url": "https://open.spotify.com/artist/4OyAwz3jcZcejoUd3bc5Qt"
+        }
+      ],
+      "duration_ms": 242438,
+      "name": "Why Is It Light Out?",
+      "url": "https://open.spotify.com/track/1f6xPiazNywm5rC1krjr5O"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Thinking With My Ears",
-        "url": "https://open.spotify.com/album/1Ia99w2Ob3HprO65ePGeVk"
-      },
-      "artists": [
-        {
-          "name": "Downtown Kayoto",
-          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
-        }
-      ],
-      "duration_ms": 157204,
-      "name": "Came Thru",
-      "url": "https://open.spotify.com/track/3HUkuNHMv91cnarbS92WgY"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "she ain't texas",
         "url": "https://open.spotify.com/album/6wKBrxFqveJQGNtrPbdQZx"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 245000,
       "name": "she ain't texas",
       "url": "https://open.spotify.com/track/1ElaPKXfrZkfhNUoEDGrzI"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Thinking With My Ears",
+        "url": "https://open.spotify.com/album/1Ia99w2Ob3HprO65ePGeVk"
+      },
+      "artists": [
+        {
+          "name": "Downtown Kayoto",
+          "url": "https://open.spotify.com/artist/1iq8YeJvyhHB44r0bJj8RR"
+        }
+      ],
+      "duration_ms": 157204,
+      "name": "Came Thru",
+      "url": "https://open.spotify.com/track/3HUkuNHMv91cnarbS92WgY"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1067,22 +1067,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "The Bed I Made",
-        "url": "https://open.spotify.com/album/35JQWINaTEFOCJSKg6pd4a"
-      },
-      "artists": [
-        {
-          "name": "Hannah McFarland",
-          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
-        }
-      ],
-      "duration_ms": 232948,
-      "name": "The Bed I Made",
-      "url": "https://open.spotify.com/track/52lurZLl1MTd4I2E3GMkgb"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Watch Me Drive Them Dogs Wild",
         "url": "https://open.spotify.com/album/2o5JtJXMyAsQVbHJUhhIvs"
       },
@@ -1095,6 +1079,22 @@
       "duration_ms": 290003,
       "name": "Watch Me Drive Them Dogs Wild",
       "url": "https://open.spotify.com/track/6iu45OgK2U9qgefiUzQT7l"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "The Bed I Made",
+        "url": "https://open.spotify.com/album/35JQWINaTEFOCJSKg6pd4a"
+      },
+      "artists": [
+        {
+          "name": "Hannah McFarland",
+          "url": "https://open.spotify.com/artist/6wOUwj1qttEQHIkyFjlMdp"
+        }
+      ],
+      "duration_ms": 232948,
+      "name": "The Bed I Made",
+      "url": "https://open.spotify.com/track/52lurZLl1MTd4I2E3GMkgb"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Stillness in Motion",
-        "url": "https://open.spotify.com/album/6ZpYIjsaO9jkjxYv0cKsuu"
-      },
-      "artists": [
-        {
-          "name": "Plots",
-          "url": "https://open.spotify.com/artist/1HGABGjZjIc5KhW1OM4Dr3"
-        }
-      ],
-      "duration_ms": 221569,
-      "name": "Stillness in Motion",
-      "url": "https://open.spotify.com/track/0ALhDzmcQJ2MMl8Erpw5I6"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Blue Blood",
         "url": "https://open.spotify.com/album/4NoVNF1zzaIf47ctj9oOS4"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 154748,
       "name": "Blue Blood",
       "url": "https://open.spotify.com/track/1ISY7X7jCpJsbKOVlE0BeK"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Stillness in Motion",
+        "url": "https://open.spotify.com/album/6ZpYIjsaO9jkjxYv0cKsuu"
+      },
+      "artists": [
+        {
+          "name": "Plots",
+          "url": "https://open.spotify.com/artist/1HGABGjZjIc5KhW1OM4Dr3"
+        }
+      ],
+      "duration_ms": 221569,
+      "name": "Stillness in Motion",
+      "url": "https://open.spotify.com/track/0ALhDzmcQJ2MMl8Erpw5I6"
     },
     {
       "added_at": "2024-12-04 12:15:00",

@@ -1,12 +1,12 @@
 {
   "description": "This is Foo Fighters. The essential tracks, all in one playlist.",
-  "num_followers": 1080564,
+  "num_followers": 1080604,
   "original_name": "This Is Foo Fighters",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z47jgAAAAAAlhLZLmk1xegDNGlo44Mzl",
+  "snapshot_id": "Z5A1AAAAAAAuJezyjbVI14THZ2TuB87j",
   "tracks": [
     {
       "added_at": null,
@@ -628,9 +628,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 208706,
-      "name": "No Son Of Mine",
-      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
+      "duration_ms": 252293,
+      "name": "Chasing Birds",
+      "url": "https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa"
     },
     {
       "added_at": null,
@@ -692,9 +692,9 @@
           "url": "https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD"
         }
       ],
-      "duration_ms": 252293,
-      "name": "Chasing Birds",
-      "url": "https://open.spotify.com/track/2jKnUcyrCADkeSy6gcN1qa"
+      "duration_ms": 208706,
+      "name": "No Son Of Mine",
+      "url": "https://open.spotify.com/track/3jSRg3DPkvNX74Kx28PQnH"
     },
     {
       "added_at": null,

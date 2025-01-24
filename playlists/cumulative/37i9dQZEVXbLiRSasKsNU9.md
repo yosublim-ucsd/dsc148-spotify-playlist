@@ -4,7 +4,7 @@
 
 > Your daily update of the most viral tracks right now \- Global.
 
-3,393 songs - 7 day 12 hr 46 min
+3,394 songs - 7 day 12 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -137,7 +137,8 @@
 | [Agora Hills](https://open.spotify.com/track/5PyDJG7SQRgWXefgexqIge) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Scarlet](https://open.spotify.com/album/1bBez9PNvkJPW08bU7NYta) | 4:25 | 2023-10-10 | 2023-11-08 |
 | [Agudo Mágico 3](https://open.spotify.com/track/6Hio4nlyWL2WBL8nYlbuGt) | [MC K.K](https://open.spotify.com/artist/6TtI28JVtV3RufOCwLvHod), [Dj TG Beats](https://open.spotify.com/artist/6Eni0bpQP6Z3G2CIN7VJRh), [Dj Aurélio](https://open.spotify.com/artist/2aBp5B1hhPlvVWbocbfA6x), [MC Lipivox](https://open.spotify.com/artist/03R5vvmqjPsxS7Y5be6IAY) | [Agudo Mágico 3](https://open.spotify.com/album/5GPkEvr2pR1wCDXIGImKZD) | 2:56 | 2022-12-15 | 2023-01-29 |
 | [Ah Canım Sevgilim \- Demo](https://open.spotify.com/track/5kpkEb0M49YM516trGUSWS) | [Rei 6](https://open.spotify.com/artist/2hiKZUSxd7c4Ab57KAQ3SW) | [Dibe İniyorum \(Demo\)](https://open.spotify.com/album/0rFC7uGCJIBQFnEBP5W2jd) | 3:10 | 2021-12-27 | 2022-03-09 |
-| [Ahista Ahista](https://open.spotify.com/track/3t7yhBYoxEyYOIN6mYI8NX) | [Kazinama](https://open.spotify.com/artist/0FpO7hbnI5X094KWa9uvR8) | [Technograde](https://open.spotify.com/album/1vOVneQW47jRfzMD5y10Pk) | 2:57 | 2025-01-19 |  |
+| [Ahista Ahista](https://open.spotify.com/track/3t7yhBYoxEyYOIN6mYI8NX) | [Kazinama](https://open.spotify.com/artist/0FpO7hbnI5X094KWa9uvR8) | [Technograde](https://open.spotify.com/album/1vOVneQW47jRfzMD5y10Pk) | 2:57 | 2025-01-19 | 2025-01-24 |
+| [Ahista Ahista](https://open.spotify.com/track/1LFNOKVaFVBFCiLwz8Ay4O) | [Kazinama](https://open.spotify.com/artist/0FpO7hbnI5X094KWa9uvR8), [Musarrat Nazir](https://open.spotify.com/artist/3LdcXgGWcqMBqbAWKlxg0t) | [Ahista Ahista](https://open.spotify.com/album/5W10SeADqvhmc4W0rHSuZa) | 2:57 | 2025-01-23 |  |
 | [Ahora Y Siempre](https://open.spotify.com/track/1AhNxunSSizAllibrQ7jhu) | [Quevedo](https://open.spotify.com/artist/52iwsT98xCoGgiGntTiR7K), [Linton](https://open.spotify.com/artist/39TshGQ7RY8nYrhILYRT1S) | [Ahora Y Siempre](https://open.spotify.com/album/3jTzodvOzhVKQgNbLjM93z) | 2:29 | 2022-02-06 | 2022-03-13 |
 | [Ahí Estabas Tú](https://open.spotify.com/track/3hwtMoZGYylPlecZGAdW6y) | [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Palabra De To's](https://open.spotify.com/album/2ZzClIM2jdVPjt7HBICDQP) | 1:52 | 2024-12-24 | 2025-01-05 |
 | [Ai Coração](https://open.spotify.com/track/25l25dLwkUGmvWx8N9gE8g) | [Mimicat](https://open.spotify.com/artist/7tTVBmiE9WeEDQdW3Q0Wn6) | [Ai Coração](https://open.spotify.com/album/4dEIT8yEBY152fcLo67fVY) | 2:54 | 2023-05-14 | 2023-05-23 |

@@ -663,6 +663,40 @@
     },
     {
       "album": {
+        "name": "\u4e50\u6cb9\u6cb9",
+        "url": "https://open.spotify.com/album/6gyqeEpAg0Nhs0AKx26hhA"
+      },
+      "artists": [
+        {
+          "name": "DIOR \u5927\u7a4e",
+          "url": "https://open.spotify.com/artist/0czbvTRVGHfCdRsJLxbBGQ"
+        },
+        {
+          "name": "Jess \u4f73\u4ed9",
+          "url": "https://open.spotify.com/artist/1SnrjMkXp78HkmgUd41HLC"
+        },
+        {
+          "name": "\u9673\u6587\u5f37",
+          "url": "https://open.spotify.com/artist/3YLGJHG3YawuTDcxveGVXZ"
+        },
+        {
+          "name": "\u9673\u4f73\u742a",
+          "url": "https://open.spotify.com/artist/3tVGuL5S4F8jmX4BDpQj1h"
+        },
+        {
+          "name": "\u9673\u5b89\u7acb",
+          "url": "https://open.spotify.com/artist/54qj0G7iqZlEPwEREqQiFc"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179595,
+      "name": "\u4e50\u6cb9\u6cb9",
+      "url": "https://open.spotify.com/track/1famI3dywidwcBFx7ibPxG"
+    },
+    {
+      "album": {
         "name": "\u4e94\u798f\u661f\u53c8\u62a5\u559c",
         "url": "https://open.spotify.com/album/4KdAl9UkoWo3njsISe0PAu"
       },
@@ -1612,6 +1646,24 @@
       "duration_ms": 254697,
       "name": "\u5fae\u7b11\u5e78\u798f\u5e74",
       "url": "https://open.spotify.com/track/64lvmCq4UO2YjsJFtfb6UD"
+    },
+    {
+      "album": {
+        "name": "\u5feb\u4e50\u597d\u8fd0\u6c14",
+        "url": "https://open.spotify.com/album/1ghT992NnhhReRuMUgMeco"
+      },
+      "artists": [
+        {
+          "name": "d00nuts",
+          "url": "https://open.spotify.com/artist/5HhB2I4VDq7HzEm7Ay1Lmv"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 79349,
+      "name": "\u5feb\u4e50\u597d\u8fd0\u6c14",
+      "url": "https://open.spotify.com/track/5y4PrM02IXaHs4r15CAukF"
     },
     {
       "album": {
@@ -3194,6 +3246,36 @@
       "duration_ms": 204484,
       "name": "\u6b22\u6b22\u559c\u559c\u8fc7\u65b0\u5e74 - X\u672a\u77e5\u97f3\u4e50\u4eba\u8ba1\u5212",
       "url": "https://open.spotify.com/track/3IgpeT8g33N2mCwHLHdDO2"
+    },
+    {
+      "album": {
+        "name": "\u6b61\u6b61\u559c\u559cHuaHuaHeHe\uff08ft.\u9054\u9054\uff0c\u73b2\u73b2\uff0c\u79d1\u8c46\uff09",
+        "url": "https://open.spotify.com/album/2JOqeh0S5VpKcD8LrvPTY1"
+      },
+      "artists": [
+        {
+          "name": "\u5927\u725b DANIEL LOO",
+          "url": "https://open.spotify.com/artist/39b1jqdiHFU7srcWyxrAja"
+        },
+        {
+          "name": "\u8fbe\u8fbe",
+          "url": "https://open.spotify.com/artist/3MSi9PTGHN6Ti1BeoHTrnN"
+        },
+        {
+          "name": "\u73b2\u73b2",
+          "url": "https://open.spotify.com/artist/2rCUKVjPaYVIJarbA1GWrx"
+        },
+        {
+          "name": "\u79d1\u8c46",
+          "url": "https://open.spotify.com/artist/5jf8wNFChAP6ZlwMUdIt8T"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196601,
+      "name": "\u6b61\u6b61\u559c\u559cHuaHuaHeHe (ft.\u9054\u9054\uff0c\u73b2\u73b2\uff0c\u79d1\u8c46)",
+      "url": "https://open.spotify.com/track/4pS3jZxeGAmroF9BSv89z6"
     },
     {
       "album": {

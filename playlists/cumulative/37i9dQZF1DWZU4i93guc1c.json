@@ -1678,7 +1678,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 177120,
       "name": "\u0417\u0456\u0440\u043a\u0438",
       "url": "https://open.spotify.com/track/1NdCcKytFz38MOtqQprTMC"
@@ -3516,6 +3516,28 @@
       "duration_ms": 160006,
       "name": "\u0421\u043e\u043d",
       "url": "https://open.spotify.com/track/2be9h8GzIiJeFHXlNU0H0k"
+    },
+    {
+      "album": {
+        "name": "\u0442\u0430\u043a\u0456 \u044f\u043a \u043c\u0438",
+        "url": "https://open.spotify.com/album/7wdy8JNB5YETxf3UE8fR0r"
+      },
+      "artists": [
+        {
+          "name": "\u043c\u0430\u043a\u0441 \u043f\u0442\u0430\u0448\u043d\u0438\u043a",
+          "url": "https://open.spotify.com/artist/1jT1y7O8NtdUwGfCTZM4JE"
+        },
+        {
+          "name": "KRUT\u042c",
+          "url": "https://open.spotify.com/artist/1Bmaz25pIQGUjunO4d1a9Z"
+        }
+      ],
+      "date_added": "2025-01-02",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191387,
+      "name": "\u0441\u043e\u043d\u0446\u0435",
+      "url": "https://open.spotify.com/track/4qO2JGY16Psvn6eYSkP67C"
     },
     {
       "album": {

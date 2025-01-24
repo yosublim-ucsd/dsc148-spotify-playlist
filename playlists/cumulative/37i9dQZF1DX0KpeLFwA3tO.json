@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The best new music from the wide world of punk. Cover: Skunk Anansie",
+  "description": "The best new music from the wide world of punk. Cover: Rise Against",
   "name": "All New Punk",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 149999,
       "name": "15 Gramos",
       "url": "https://open.spotify.com/track/158fs2nrDmdCVoxEIjT8pq"
@@ -9939,6 +9939,24 @@
     },
     {
       "album": {
+        "name": "diamonds on your dagger",
+        "url": "https://open.spotify.com/album/5d0Rj2H3fWsJ6FIkGMGrmQ"
+      },
+      "artists": [
+        {
+          "name": "senses",
+          "url": "https://open.spotify.com/artist/0lXMA1fi5NwMBAXdwTnnYB"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201710,
+      "name": "diamonds on your dagger",
+      "url": "https://open.spotify.com/track/11WNa6aYRqcGv0LsPr2xuQ"
+    },
+    {
+      "album": {
         "name": "40 oz. to Fresno",
         "url": "https://open.spotify.com/album/4HQdEvcc2M4PP5iDIS9TE3"
       },
@@ -11034,7 +11052,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 207718,
       "name": "Drift",
       "url": "https://open.spotify.com/track/4SzwZsoMxuuVMX2rsd10zr"
@@ -11182,6 +11200,24 @@
       "duration_ms": 150522,
       "name": "Drunk Dial",
       "url": "https://open.spotify.com/track/5W0EeQs0I6luvjUM0ZXAuN"
+    },
+    {
+      "album": {
+        "name": "Drunk Talk",
+        "url": "https://open.spotify.com/album/1CAV9augIvtY9KBw3rmbVX"
+      },
+      "artists": [
+        {
+          "name": "DoFlame",
+          "url": "https://open.spotify.com/artist/4Ev5FYfYGBslgMqAqi2uNc"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151394,
+      "name": "Drunk Talk",
+      "url": "https://open.spotify.com/track/4tvtPbLFQLcK4QdMcDrvpV"
     },
     {
       "album": {
@@ -13196,6 +13232,24 @@
       "duration_ms": 229868,
       "name": "Found",
       "url": "https://open.spotify.com/track/5otlV876xC9h8VjfBHgb0g"
+    },
+    {
+      "album": {
+        "name": "Four",
+        "url": "https://open.spotify.com/album/2rMmBni7bR0pH9wiWVmmBf"
+      },
+      "artists": [
+        {
+          "name": "DITZ",
+          "url": "https://open.spotify.com/artist/3oSKgWx1dqjhidhnhpGbfJ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180746,
+      "name": "Four",
+      "url": "https://open.spotify.com/track/4aXP57iyfp7ApVMc9pu3md"
     },
     {
       "album": {
@@ -16239,6 +16293,32 @@
     },
     {
       "album": {
+        "name": "Hey Ken, Someone Methodically Mushed the Donuts (Re-recorded) ft. Tades Sanville",
+        "url": "https://open.spotify.com/album/4xXFvHDfjN3zcNmXbS0Axu"
+      },
+      "artists": [
+        {
+          "name": "Free Throw",
+          "url": "https://open.spotify.com/artist/49b68DLRK5eCbtJf7Xx4Cc"
+        },
+        {
+          "name": "Tades Sanville",
+          "url": "https://open.spotify.com/artist/3WpZhSQN750eJonPWhUEr0"
+        },
+        {
+          "name": "Hot Mulligan",
+          "url": "https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171808,
+      "name": "Hey Ken, Someone Methodically Mushed the Donuts (Re-recorded) ft. Tades Sanville",
+      "url": "https://open.spotify.com/track/0IkUtoJWNj8bD53XoudPCN"
+    },
+    {
+      "album": {
         "name": "Don't Mind If We Do",
         "url": "https://open.spotify.com/album/1mqX6R90bvjvgOTlA3yoIQ"
       },
@@ -17382,7 +17462,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 320016,
       "name": "I Loved Everyone",
       "url": "https://open.spotify.com/track/3FeKBTZ7knSCHkQSmHjPQu"
@@ -19040,7 +19120,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 128658,
       "name": "Jerkin'",
       "url": "https://open.spotify.com/track/1nosPEKWYKACcauB4zF0mK"
@@ -21646,7 +21726,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 205357,
       "name": "love bombs",
       "url": "https://open.spotify.com/track/4lFssPSu2ZFMl5LJKiTF7S"
@@ -23582,7 +23662,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 219035,
       "name": "MOTH KIDS",
       "url": "https://open.spotify.com/track/7dAxPlnzPAqmEVpElxItYU"
@@ -23846,6 +23926,24 @@
       "duration_ms": 157934,
       "name": "My Funeral Song",
       "url": "https://open.spotify.com/track/12SUDYZTRoVGsUWcz1tuPk"
+    },
+    {
+      "album": {
+        "name": "MY GENERATION",
+        "url": "https://open.spotify.com/album/25hpSeb7mEtHPaDye3FBJe"
+      },
+      "artists": [
+        {
+          "name": "teethin",
+          "url": "https://open.spotify.com/artist/4Wj9pvOAHySewGeVeGBMDg"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208624,
+      "name": "MY GENERATION",
+      "url": "https://open.spotify.com/track/01ZCAdAAC3Qob7Ik6yDTqT"
     },
     {
       "album": {
@@ -24416,10 +24514,28 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 164800,
       "name": "Newsnight",
       "url": "https://open.spotify.com/track/652vT4wVdO6EdBG2LmaumF"
+    },
+    {
+      "album": {
+        "name": "Nice to Know Ya",
+        "url": "https://open.spotify.com/album/7A5LHfw0Txz9HOzZ8S9e6p"
+      },
+      "artists": [
+        {
+          "name": "Knuckle Puck",
+          "url": "https://open.spotify.com/artist/5ABfpj7Z00wfPiv2uW4MFm"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179454,
+      "name": "Nice to Know Ya",
+      "url": "https://open.spotify.com/track/0p7Rs24bhNP9iY4TVoFYDe"
     },
     {
       "album": {
@@ -24885,6 +25001,24 @@
     },
     {
       "album": {
+        "name": "Nod",
+        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182494,
+      "name": "Nod",
+      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
+    {
+      "album": {
         "name": "Non Serviam",
         "url": "https://open.spotify.com/album/4poC9nhZasbTms53O0NehD"
       },
@@ -25052,6 +25186,24 @@
       "duration_ms": 204506,
       "name": "Not Afraid To Die",
       "url": "https://open.spotify.com/track/28dH3pe1JYjOZPdL0gzIqN"
+    },
+    {
+      "album": {
+        "name": "Not Hell, Not Heaven",
+        "url": "https://open.spotify.com/album/5iMnk7ccwBlI3EKlKmEDBU"
+      },
+      "artists": [
+        {
+          "name": "Scowl",
+          "url": "https://open.spotify.com/artist/6hW33nVHPElaXuG2hQ0QOp"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181027,
+      "name": "Not Hell, Not Heaven",
+      "url": "https://open.spotify.com/track/4Ce8dTj67I9SbiSf7QPno2"
     },
     {
       "album": {
@@ -25850,7 +26002,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 183000,
       "name": "ONE NATION",
       "url": "https://open.spotify.com/track/7oZn1w8pspTBu7Bps6WRfj"
@@ -28910,7 +29062,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 144026,
       "name": "Relay",
       "url": "https://open.spotify.com/track/0ljPTtEY5jTIZ9g7FwJQpQ"
@@ -31492,7 +31644,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 153769,
       "name": "SICK OF BEING NICE",
       "url": "https://open.spotify.com/track/2uWEmAa7QttqIaWzk3oQEe"
@@ -32152,7 +32304,7 @@
       ],
       "date_added": "2024-11-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 209245,
       "name": "Snare",
       "url": "https://open.spotify.com/track/1cT3ZimACp8A7ktm08tZS3"
@@ -33322,6 +33474,24 @@
       "duration_ms": 187596,
       "name": "Stitched Up",
       "url": "https://open.spotify.com/track/5wNDcjt9d5ec3JMPIjtr4d"
+    },
+    {
+      "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/3nAJppM5c93hFCpBZK5L3y"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327136,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/3uoRMK4ZYJWXtY3d89jSsS"
     },
     {
       "album": {
@@ -38739,6 +38909,24 @@
     },
     {
       "album": {
+        "name": "VYVANSE",
+        "url": "https://open.spotify.com/album/12Dl80BJVKPmWm8fRGjVZY"
+      },
+      "artists": [
+        {
+          "name": "Kai Cult",
+          "url": "https://open.spotify.com/artist/7iEHtkyQVW4mmQUT0fTb59"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 82000,
+      "name": "VYVANSE",
+      "url": "https://open.spotify.com/track/1X8uBJoT7cNrbxE66CUMU8"
+    },
+    {
+      "album": {
         "name": "Waiting / Kill Something",
         "url": "https://open.spotify.com/album/7k4p5L2vlq7jdIAkB7HK8R"
       },
@@ -38866,6 +39054,24 @@
       "duration_ms": 189333,
       "name": "Walk Away",
       "url": "https://open.spotify.com/track/44nMRaHtnsiJGsXy5Oj5PY"
+    },
+    {
+      "album": {
+        "name": "Walk The Walk",
+        "url": "https://open.spotify.com/album/6EDB7lh5A56htL40wdCuSx"
+      },
+      "artists": [
+        {
+          "name": "The Baboon Show",
+          "url": "https://open.spotify.com/artist/7Fh1k3NlvVj1Oj6kpfQf9f"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178956,
+      "name": "Walk The Walk",
+      "url": "https://open.spotify.com/track/0Z25OFEgHytpJiRuPV3E9Z"
     },
     {
       "album": {

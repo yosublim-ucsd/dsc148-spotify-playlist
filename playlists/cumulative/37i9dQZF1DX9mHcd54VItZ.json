@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/0gx3eXtA1Dzx4Fiap3ZBRN?si=SEbpsFzoQ82l3hcJR_oS2Q\">KRYYE</a>",
+  "description": "The best classic and new sounds from South African Rock. Cover: <a href=\"https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH?si=MxfStGQUTy6XSzjQgCyQXA\">Kayla The Crow</a>",
   "name": "SA Rock ",
   "tracks": [
     {
@@ -488,7 +488,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 154478,
       "name": "Any Other Way",
       "url": "https://open.spotify.com/track/62Q7FUT0qA1RkFou4r4OpE"
@@ -1494,7 +1494,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 234000,
       "name": "Ceasefire",
       "url": "https://open.spotify.com/track/3PNpyA23IAvbSl0PRGenDH"
@@ -3807,6 +3807,24 @@
     },
     {
       "album": {
+        "name": "Groovie Ghoulie",
+        "url": "https://open.spotify.com/album/2K6cfdKCxGEaqEPjEWM9da"
+      },
+      "artists": [
+        {
+          "name": "Kryye",
+          "url": "https://open.spotify.com/artist/0gx3eXtA1Dzx4Fiap3ZBRN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116953,
+      "name": "Groovie Ghoulie",
+      "url": "https://open.spotify.com/track/232Kx7dAGasjWUZ7ZA3Cgp"
+    },
+    {
+      "album": {
         "name": "H.F.A.Y. (How Fake Are You)",
         "url": "https://open.spotify.com/album/5qZCP7F4qZ7jNEWzbrANTK"
       },
@@ -4068,7 +4086,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 155725,
       "name": "HOEVEEL PROFETE",
       "url": "https://open.spotify.com/track/3qhYfoEBO8sBj0gxbNG2P6"
@@ -5814,7 +5832,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-23",
+      "date_removed": null,
       "duration_ms": 272250,
       "name": "Mia, Jy",
       "url": "https://open.spotify.com/track/0mwhB6Nb6WmmjPjjRteCHg"
@@ -6088,7 +6106,7 @@
       ],
       "date_added": "2024-01-04",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-17",
+      "date_removed": null,
       "duration_ms": 217200,
       "name": "My Ek(skuus)",
       "url": "https://open.spotify.com/track/5BVm8JglDc7zHRuNTlux6D"
@@ -8635,6 +8653,24 @@
     },
     {
       "album": {
+        "name": "Sunrise on the River",
+        "url": "https://open.spotify.com/album/51994iHGJIquxFw7z1fveh"
+      },
+      "artists": [
+        {
+          "name": "Kayla The Crow",
+          "url": "https://open.spotify.com/artist/5cV5Ezzb6f9VL7EssX2YIH"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169285,
+      "name": "Sunrise on the River",
+      "url": "https://open.spotify.com/track/7oCGTx3dpnXb7neSD4lKeA"
+    },
+    {
+      "album": {
         "name": "Supermark",
         "url": "https://open.spotify.com/album/2ET6PIzu0yq7qhpNCOawTj"
       },
@@ -9652,7 +9688,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 187379,
       "name": "ur so beautiful",
       "url": "https://open.spotify.com/track/0ASAyuTHB3TAxtJujVu0t9"
@@ -9868,7 +9904,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 83236,
       "name": "Vir My",
       "url": "https://open.spotify.com/track/0xiLQ6LRYqlnmY5qpmuuYz"

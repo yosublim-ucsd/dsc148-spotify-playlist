@@ -1,6 +1,6 @@
 {
   "description": "Uppt\u00e4ck l\u00e5tar fr\u00e5n 2024 som du kanske har missat.",
-  "num_followers": 1312,
+  "num_followers": 1311,
   "original_name": "2024: L\u00e5tarna du missade?",
   "owner": {
     "name": "Spotify",
@@ -479,22 +479,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
-        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
-      },
-      "artists": [
-        {
-          "name": "lovad",
-          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
-        }
-      ],
-      "duration_ms": 159773,
-      "name": "Fortfarande du",
-      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Du fl\u00f6g iv\u00e4g",
         "url": "https://open.spotify.com/album/4FUp8eJLiE7zF9oDcaYorM"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 155000,
       "name": "Du fl\u00f6g iv\u00e4g",
       "url": "https://open.spotify.com/track/3OXMZ6yHFKpNwNPchYK5HI"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Fortfarande du / Tills vi d\u00f6r ( Akustisk )",
+        "url": "https://open.spotify.com/album/4zQdRe8QnSmj0qHKoPZ4am"
+      },
+      "artists": [
+        {
+          "name": "lovad",
+          "url": "https://open.spotify.com/artist/3MPhQdwcGDArJTh3SvU9nj"
+        }
+      ],
+      "duration_ms": 159773,
+      "name": "Fortfarande du",
+      "url": "https://open.spotify.com/track/5RhJlkD30z4QBbEoE8u8oH"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -907,22 +907,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Restart",
-        "url": "https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL"
-      },
-      "artists": [
-        {
-          "name": "Daghem",
-          "url": "https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Restart",
-      "url": "https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Spooky",
         "url": "https://open.spotify.com/album/6rMzFaVMTRhfVPaBpnN5jS"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 169440,
       "name": "Spooky",
       "url": "https://open.spotify.com/track/5aT3rJ3o72k009wDa7jhVl"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Restart",
+        "url": "https://open.spotify.com/album/4nV9lELBD4ib5ifpOIdZDL"
+      },
+      "artists": [
+        {
+          "name": "Daghem",
+          "url": "https://open.spotify.com/artist/1YcmK9yjLnTcze8VpKYcRi"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Restart",
+      "url": "https://open.spotify.com/track/26kkBWMgXo3KF2h1XglEIc"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -991,22 +991,6 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "Den stora fula kavajen",
-        "url": "https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9"
-      },
-      "artists": [
-        {
-          "name": "Huset",
-          "url": "https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54"
-        }
-      ],
-      "duration_ms": 210500,
-      "name": "Kvar h\u00e4r",
-      "url": "https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
         "name": "Way Too Good",
         "url": "https://open.spotify.com/album/13lH2NV2SYOH2HGgiBO66A"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 143200,
       "name": "Way Too Good",
       "url": "https://open.spotify.com/track/7v7yldcasSvbwu8tE9VV84"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
+        "name": "Den stora fula kavajen",
+        "url": "https://open.spotify.com/album/3e3XFvF2A0GN7MF40D1RF9"
+      },
+      "artists": [
+        {
+          "name": "Huset",
+          "url": "https://open.spotify.com/artist/4YaJSto4YkRG7BA46X6V54"
+        }
+      ],
+      "duration_ms": 210500,
+      "name": "Kvar h\u00e4r",
+      "url": "https://open.spotify.com/track/3sN51hBCvqDtuZCNqK0tex"
     },
     {
       "added_at": "2024-12-04 12:15:00",

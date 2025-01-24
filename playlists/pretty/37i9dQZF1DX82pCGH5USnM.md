@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 
 > Soft house music for your laidback moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,341,889 likes - 244 songs - 11 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,342,083 likes - 244 songs - 11 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -253,4 +253,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82pCGH5USnM.md) - [plain]
 | 243 | [Overthinking](https://open.spotify.com/track/6FbxHFeDTmmo5SQUM4UGVZ) | [PALM ENGELS](https://open.spotify.com/artist/3z6rmjKj5BfheOkGxSmajN) | [Overthinking](https://open.spotify.com/album/1xEYOnE0y8Oa90mhxUrGHS) | 2:45 |
 | 244 | [Leopard](https://open.spotify.com/track/6iGlQo9EoxSWmtg9g0d4oP) | [André Aguado](https://open.spotify.com/artist/6USxBSmx4wkhLW61dT1DgC) | [Leopard](https://open.spotify.com/album/1CgRMTVsUt7wY2L963K4UF) | 3:33 |
 
-Snapshot ID: `Z4E3tAAAAAAW0GiMUyLaSvpH76YTMMTx`
+Snapshot ID: `Z5J+hAAAAAAN81XIIDAnT3qtAY8trt7r`

@@ -2,7 +2,7 @@
 
 ### [Breaking Hits](https://open.spotify.com/playlist/37i9dQZF1DXaLvcwjNfHBR)
 
-> Your new favourite songs! Cover: Bad Bunny
+> Your new favourite songs! Cover: Sam Barber
 
 730 songs - 1 day 14 hr 48 min
 

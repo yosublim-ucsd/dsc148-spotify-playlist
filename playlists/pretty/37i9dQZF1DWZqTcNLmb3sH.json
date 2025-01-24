@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Max",
-  "num_followers": 62488,
+  "num_followers": 62496,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5DQRQAAAADWKx+vCMZb0U8l6B26iC+R",
+  "snapshot_id": "Z5IOGAAAAACOyUSa8ori4nUFjLnEIty7",
   "tracks": [
     {
       "added_at": "2024-12-15 13:55:53",
@@ -79,6 +79,30 @@
       "duration_ms": 243271,
       "name": "Agnyaathavaasa (From \"Bhairathi Ranagal\")",
       "url": "https://open.spotify.com/track/0zYKQ1lXo7YtuKzcPGeFgQ"
+    },
+    {
+      "added_at": "2025-01-23 09:38:32",
+      "album": {
+        "name": "Talvar Nodu Guru (From \"Talvar\")",
+        "url": "https://open.spotify.com/album/1XTYcmsHtEDrxVvUImG8LG"
+      },
+      "artists": [
+        {
+          "name": "K B Praveen",
+          "url": "https://open.spotify.com/artist/5l9ab0LqM6TZXAxqUXQgur"
+        },
+        {
+          "name": "Hemanth Kumar",
+          "url": "https://open.spotify.com/artist/2DBOmeNE76m77zvJig5PgF"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        }
+      ],
+      "duration_ms": 183703,
+      "name": "Talvar Nodu Guru (From \"Talvar\")",
+      "url": "https://open.spotify.com/track/0jyhekTRhNdFOiaFkftG75"
     },
     {
       "added_at": "2025-01-20 07:42:36",
@@ -1667,26 +1691,6 @@
       "duration_ms": 301439,
       "name": "Maaya Jinke",
       "url": "https://open.spotify.com/track/04tijw4Lw9C1MynKmSPH6R"
-    },
-    {
-      "added_at": "2024-11-25 06:01:27",
-      "album": {
-        "name": "Asuraru",
-        "url": "https://open.spotify.com/album/6RorIXyDySg9wXgeXnNnu3"
-      },
-      "artists": [
-        {
-          "name": "Meghana Haliyal",
-          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
-        },
-        {
-          "name": "Vishak Nagalapura",
-          "url": "https://open.spotify.com/artist/6bfkyWyRl7vgkQlV0gy57S"
-        }
-      ],
-      "duration_ms": 276392,
-      "name": "Malasri Piso",
-      "url": "https://open.spotify.com/track/4NA1JyBmf9ESM6Fyvo5NyO"
     },
     {
       "added_at": "2024-11-26 15:46:48",

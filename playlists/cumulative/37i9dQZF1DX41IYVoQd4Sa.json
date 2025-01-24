@@ -312,7 +312,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 168014,
       "name": "Elle M'a Dit - \u05d4\u05d5\u05e4\u05e2\u05d5\u05ea \u05d1\u05de\u05e4\u05e2\u05dc \u05d4\u05e4\u05d9\u05e1",
       "url": "https://open.spotify.com/track/66Kl8wtDzXleeD5SJFAqXy"
@@ -360,6 +360,28 @@
       "duration_ms": 181600,
       "name": "Fool For Your Smile",
       "url": "https://open.spotify.com/track/7oQ0NYLgoyYgQebGT1kkT2"
+    },
+    {
+      "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5BBUr21dXpwbkdU4r46Wvg"
+      },
+      "artists": [
+        {
+          "name": "Roby Fayer",
+          "url": "https://open.spotify.com/artist/4jGepMIeeVxeLrikEinXMs"
+        },
+        {
+          "name": "Tom Gefen",
+          "url": "https://open.spotify.com/artist/0VZsLkN0bjPmbDdKIt7z3N"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205972,
+      "name": "For You",
+      "url": "https://open.spotify.com/track/5GQjtqOoYgmOPXxyrcA1rS"
     },
     {
       "album": {
@@ -418,7 +440,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 183331,
       "name": "Goodbye Mary",
       "url": "https://open.spotify.com/track/5xXSHVKP5LSxzYSKnSqiPy"
@@ -1398,7 +1420,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 248320,
       "name": "\u05d4\u05d2\u05e8\u05e1\u05d4 \u05d4\u05d7\u05d3\u05e9\u05d4",
       "url": "https://open.spotify.com/track/6GqRAX18hpYWnT74xBhJ2s"
@@ -1612,6 +1634,24 @@
       "duration_ms": 219000,
       "name": "\u05d4\u05db\u05dc \u05e4\u05d4 \u05de\u05e9\u05d5\u05d1\u05e9",
       "url": "https://open.spotify.com/track/5H7rrKBPj7xyU3XrRpP6FI"
+    },
+    {
+      "album": {
+        "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4t1Pp1LizlYPdzk34nVIXk"
+      },
+      "artists": [
+        {
+          "name": "Dudu Tassa",
+          "url": "https://open.spotify.com/artist/3AoetF4LFZLRJjfuy071mz"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209230,
+      "name": "\u05d4\u05db\u05dc\u05d9\u05dd \u05d4\u05e9\u05d1\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/2AY7MlJZYGj7gh0XZqRUjD"
     },
     {
       "album": {
@@ -1900,7 +1940,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 142500,
       "name": "\u05d8\u05e4\u05d5 \u05d8\u05e4\u05d5",
       "url": "https://open.spotify.com/track/379bhCgYGmQm7OhIGfRsb5"
@@ -2755,6 +2795,28 @@
     },
     {
       "album": {
+        "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
+        "url": "https://open.spotify.com/album/3vlqdMupazRdXbkBoFhVbR"
+      },
+      "artists": [
+        {
+          "name": "Alma Gov",
+          "url": "https://open.spotify.com/artist/5BwDD7OLlEuoLxt0cTHaYv"
+        },
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179875,
+      "name": "\u05e1\u05d9\u05d1\u05d4 \u05dc\u05d4\u05de\u05e9\u05d9\u05da",
+      "url": "https://open.spotify.com/track/2mT8XmPzfQ4TuWNUgLcjgR"
+    },
+    {
+      "album": {
         "name": "\u05e1\u05d9\u05de\u05df \u05d8\u05d5\u05d1",
         "url": "https://open.spotify.com/album/3BQnNgoc56WMXnUYEZmRwX"
       },
@@ -2926,6 +2988,24 @@
       "duration_ms": 209651,
       "name": "\u05e4\u05d0\u05e1\u05d5\u05df",
       "url": "https://open.spotify.com/track/4eF5QnWZXHLhimV1qlidV8"
+    },
+    {
+      "album": {
+        "name": "\u05e4\u05d5\u05e8\u05e0\u05d5\u05d2\u05e8\u05e4\u05d9\u05d4",
+        "url": "https://open.spotify.com/album/3GmKksGartG3MH0mtePfoK"
+      },
+      "artists": [
+        {
+          "name": "Eran Tzur",
+          "url": "https://open.spotify.com/artist/55Jd6KSpdVaT4A7cMQXdYY"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171669,
+      "name": "\u05e4\u05d5\u05e8\u05e0\u05d5\u05d2\u05e8\u05e4\u05d9\u05d4",
+      "url": "https://open.spotify.com/track/4l4mOSNE3z8o4X8Nmmueet"
     },
     {
       "album": {

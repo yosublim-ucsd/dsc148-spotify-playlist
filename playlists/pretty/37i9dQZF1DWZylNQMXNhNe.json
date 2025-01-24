@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novidades de artistas LGBTQIAPN+ est\u00e3o aqui. Foto: Boombeat, Jaloo",
-  "num_followers": 222688,
+  "num_followers": 222673,
   "original_name": "GLOW Brasil",
   "owner": {
     "name": "Spotify",
@@ -835,26 +835,6 @@
     {
       "added_at": "2024-10-08 13:46:40",
       "album": {
-        "name": "Colo da Tropa",
-        "url": "https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE"
-      },
-      "artists": [
-        {
-          "name": "Gabeu",
-          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
-        },
-        {
-          "name": "Dornelles",
-          "url": "https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV"
-        }
-      ],
-      "duration_ms": 161888,
-      "name": "Colo da Tropa",
-      "url": "https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi"
-    },
-    {
-      "added_at": "2024-10-08 13:46:40",
-      "album": {
         "name": "Calcinha",
         "url": "https://open.spotify.com/album/4FrEs97Q36QQ1JSr5uGRLW"
       },
@@ -871,6 +851,26 @@
       "duration_ms": 178041,
       "name": "Calcinha",
       "url": "https://open.spotify.com/track/022FOWLBvvshrVNm6cma9l"
+    },
+    {
+      "added_at": "2024-10-08 13:46:40",
+      "album": {
+        "name": "Colo da Tropa",
+        "url": "https://open.spotify.com/album/1TISlM3G8vqteMRs74ygbE"
+      },
+      "artists": [
+        {
+          "name": "Gabeu",
+          "url": "https://open.spotify.com/artist/7eD1AwhVz2iGGHu2zYLGwe"
+        },
+        {
+          "name": "Dornelles",
+          "url": "https://open.spotify.com/artist/47NSVBunEf6xbgMYKfbEJV"
+        }
+      ],
+      "duration_ms": 161888,
+      "name": "Colo da Tropa",
+      "url": "https://open.spotify.com/track/2NHeqkjUPnkn8wyCOURpPi"
     },
     {
       "added_at": "2024-10-08 13:46:40",

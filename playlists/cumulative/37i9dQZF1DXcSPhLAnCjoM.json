@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\"Mauvais Gar\u00e7on\" de Helena est le Grand Hit de la semaine.",
+  "description": "\"Le Jeu\" de Julien Lieb est le Grand Hit de la semaine.",
   "name": "Grand Hit",
   "tracks": [
     {
@@ -406,7 +406,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 149546,
       "name": "C'est \u00e7a la vie",
       "url": "https://open.spotify.com/track/6e4r8NwrEH18d9lNF3eVby"
@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": "2024-10-11",
+      "date_removed": null,
       "duration_ms": 158613,
       "name": "Julia",
       "url": "https://open.spotify.com/track/3yNkZsAusrKllNWP4cvUH8"
@@ -1976,7 +1976,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 122117,
       "name": "L'id\u00e9e de toi",
       "url": "https://open.spotify.com/track/6RfkKFLWWTKslcXvnOm4T9"
@@ -2399,6 +2399,24 @@
     },
     {
       "album": {
+        "name": "Le monde demain (Version radio)",
+        "url": "https://open.spotify.com/album/4rWgy3CQjjhcKFtVL2ABcz"
+      },
+      "artists": [
+        {
+          "name": "Les Enfoir\u00e9s",
+          "url": "https://open.spotify.com/artist/1OCpqnXexjxrakYtmur3rN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198546,
+      "name": "Le monde demain (Version radio)",
+      "url": "https://open.spotify.com/track/3CTORI6KzDw02wXe9uaiU6"
+    },
+    {
+      "album": {
         "name": "Le Sel",
         "url": "https://open.spotify.com/album/5X7DBWG3PvhoOzpXaT3YBQ"
       },
@@ -2688,6 +2706,28 @@
       "duration_ms": 189360,
       "name": "L\u2019\u00c9toile",
       "url": "https://open.spotify.com/track/6051Cr1ieO10nTt9rONI6c"
+    },
+    {
+      "album": {
+        "name": "M'envoler",
+        "url": "https://open.spotify.com/album/7e4NORyIvN6peW9EvGZLY8"
+      },
+      "artists": [
+        {
+          "name": "Jeck",
+          "url": "https://open.spotify.com/artist/1kvygchIwU4XHXY8xD6ugf"
+        },
+        {
+          "name": "Carla",
+          "url": "https://open.spotify.com/artist/7dgCfYEmAX7OxaYWgCGxAr"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189786,
+      "name": "M'envoler",
+      "url": "https://open.spotify.com/track/79KzEOgXmAIG6yez6MxKdQ"
     },
     {
       "album": {
@@ -3874,7 +3914,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 179533,
       "name": "Tout ira bien",
       "url": "https://open.spotify.com/track/6khbmpr97wNMcU7wa9uE4E"

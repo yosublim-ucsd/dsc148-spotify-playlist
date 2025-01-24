@@ -13319,6 +13319,32 @@
     },
     {
       "album": {
+        "name": "Dummy",
+        "url": "https://open.spotify.com/album/5EoN3vYb7h9H1MR3hj6BUX"
+      },
+      "artists": [
+        {
+          "name": "Lust For Youth",
+          "url": "https://open.spotify.com/artist/18x7cMASHAS2NJ4kcLJa1u"
+        },
+        {
+          "name": "Croatian Amor",
+          "url": "https://open.spotify.com/artist/67QjO1hSxmYnra5p51qjig"
+        },
+        {
+          "name": "Purient",
+          "url": "https://open.spotify.com/artist/5Zh9boviMHxXWTt26JlxAh"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220962,
+      "name": "Dummy",
+      "url": "https://open.spotify.com/track/6XzWrIiIPynDi95CsIpGrA"
+    },
+    {
+      "album": {
         "name": "DURO",
         "url": "https://open.spotify.com/album/235ZKHV3Tg09Cj4vtYnZm8"
       },
@@ -20815,6 +20841,46 @@
     },
     {
       "album": {
+        "name": "Hot (Gimme More)",
+        "url": "https://open.spotify.com/album/6oXzmOKbEnnT2Ji1J1Uoki"
+      },
+      "artists": [
+        {
+          "name": "Samantha Hudson",
+          "url": "https://open.spotify.com/artist/3CsPDmTON8MWK0YXmaru92"
+        },
+        {
+          "name": "La Zowi",
+          "url": "https://open.spotify.com/artist/1jB62pOe5WpGiHOBDtKBBG"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171428,
+      "name": "Hot (Gimme More)",
+      "url": "https://open.spotify.com/track/0wtWpmhZ1LcgIh9i98K81o"
+    },
+    {
+      "album": {
+        "name": "Hot For You Baby",
+        "url": "https://open.spotify.com/album/06UN5FS25CSUgSyqrpZxp8"
+      },
+      "artists": [
+        {
+          "name": "Tina Turner",
+          "url": "https://open.spotify.com/artist/1zuJe6b1roixEKMOtyrEak"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283103,
+      "name": "Hot For You Baby",
+      "url": "https://open.spotify.com/track/7LYGiSEES9KJlThWIkNbGF"
+    },
+    {
+      "album": {
         "name": "Hot Mess",
         "url": "https://open.spotify.com/album/2PvpuCui1GVO8DkFcCHzYU"
       },
@@ -24048,6 +24114,24 @@
       "duration_ms": 228797,
       "name": "Kentucky Keychain",
       "url": "https://open.spotify.com/track/54brCAlcf8NpwGW2gYt0eo"
+    },
+    {
+      "album": {
+        "name": "Kermit & Gyro",
+        "url": "https://open.spotify.com/album/5cKXcKF2jGWMbPppx78JII"
+      },
+      "artists": [
+        {
+          "name": "Daneshevskaya",
+          "url": "https://open.spotify.com/artist/5vvsVz8bgdx1y9YaguZkxF"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151720,
+      "name": "Kermit & Gyro",
+      "url": "https://open.spotify.com/track/1HaNDMAJjsEinenk205n4P"
     },
     {
       "album": {
@@ -28419,6 +28503,24 @@
     },
     {
       "album": {
+        "name": "Man Made of Meat",
+        "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189947,
+      "name": "Man Made of Meat",
+      "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
+    },
+    {
+      "album": {
         "name": "Man Of The House",
         "url": "https://open.spotify.com/album/38shyLCy0GkloXIDQsiAxu"
       },
@@ -32349,6 +32451,24 @@
     },
     {
       "album": {
+        "name": "No tengo idea",
+        "url": "https://open.spotify.com/album/6gpv9m3g7yuusOeCe6L8Zb"
+      },
+      "artists": [
+        {
+          "name": "Buenos Vampiros",
+          "url": "https://open.spotify.com/artist/3zJriU41e7xy7PVHIhflBo"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228374,
+      "name": "No tengo idea",
+      "url": "https://open.spotify.com/track/7rvXTXQJfr9E3VU5LyKRL4"
+    },
+    {
+      "album": {
         "name": "Las Yhadys",
         "url": "https://open.spotify.com/album/5cxMGngkikv3304jfyW2hY"
       },
@@ -33044,6 +33164,24 @@
       "duration_ms": 252874,
       "name": "Oh Joan",
       "url": "https://open.spotify.com/track/0z1f2AWR0J8B08wKAjKKNt"
+    },
+    {
+      "album": {
+        "name": "Oh My Actual Days",
+        "url": "https://open.spotify.com/album/3kpJEJjX2aTMIcWvelLM38"
+      },
+      "artists": [
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227988,
+      "name": "Oh My Actual Days",
+      "url": "https://open.spotify.com/track/7dAmlZ3JJrNvrie5NUzHIB"
     },
     {
       "album": {
@@ -34711,6 +34849,24 @@
     },
     {
       "album": {
+        "name": "Pavement",
+        "url": "https://open.spotify.com/album/1PipIZujnpuoZDni4ePKKP"
+      },
+      "artists": [
+        {
+          "name": "Mallrat",
+          "url": "https://open.spotify.com/artist/4OSArit7O2Jaj4mgf3YN7A"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185940,
+      "name": "Pavement",
+      "url": "https://open.spotify.com/track/6gyMQzxbQTBnmj3PHeTN7s"
+    },
+    {
+      "album": {
         "name": "PAWZ",
         "url": "https://open.spotify.com/album/13pKsRvNU67T96ERJH8vxm"
       },
@@ -36261,6 +36417,24 @@
     },
     {
       "album": {
+        "name": "PROTECT THE CROSS",
+        "url": "https://open.spotify.com/album/5Y8Ay1cUK6y5454OOzwbfm"
+      },
+      "artists": [
+        {
+          "name": "JPEGMAFIA",
+          "url": "https://open.spotify.com/artist/6yJ6QQ3Y5l0s0tn7b0arrO"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169570,
+      "name": "PROTECT THE CROSS",
+      "url": "https://open.spotify.com/track/0g1E4Q6653qeAegOEL5T1B"
+    },
+    {
+      "album": {
         "name": "PR\u00cdNCIPE",
         "url": "https://open.spotify.com/album/1L6SLEogRrudf8IN1H3muW"
       },
@@ -37560,6 +37734,24 @@
       "duration_ms": 207333,
       "name": "Rebel Soul",
       "url": "https://open.spotify.com/track/2FZAqlzZzp0xMsBKgGrSVH"
+    },
+    {
+      "album": {
+        "name": "Recognise",
+        "url": "https://open.spotify.com/album/7r5bDeSSfTxgofHnEnnJyg"
+      },
+      "artists": [
+        {
+          "name": "Shura",
+          "url": "https://open.spotify.com/artist/1qpR5mURxk3d8f6mww6uKT"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269280,
+      "name": "Recognise",
+      "url": "https://open.spotify.com/track/6jmobiz0KPfI8xdyevPS1h"
     },
     {
       "album": {
@@ -39016,6 +39208,28 @@
       "duration_ms": 233135,
       "name": "San Roku",
       "url": "https://open.spotify.com/track/1DI9jVWgae7pC3SpaKTJAr"
+    },
+    {
+      "album": {
+        "name": "Sanctuary",
+        "url": "https://open.spotify.com/album/6i7qwDdRw1MsSQa61qDiWt"
+      },
+      "artists": [
+        {
+          "name": "Tamino",
+          "url": "https://open.spotify.com/artist/3IWdvItNhmdo282Wwp0CwH"
+        },
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211061,
+      "name": "Sanctuary",
+      "url": "https://open.spotify.com/track/6HEWgg6dWX226zCg5D3442"
     },
     {
       "album": {
@@ -42276,6 +42490,24 @@
       "duration_ms": 173185,
       "name": "Stimming",
       "url": "https://open.spotify.com/track/1ohHd2PVSOUjrprn5pAibz"
+    },
+    {
+      "album": {
+        "name": "Stitches",
+        "url": "https://open.spotify.com/album/7ItAuhwHxQfCXcvDiYPBvi"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327135,
+      "name": "Stitches",
+      "url": "https://open.spotify.com/track/44ebgjxzcwNdeQ41M2KJsf"
     },
     {
       "album": {
@@ -47196,6 +47428,36 @@
       "duration_ms": 231684,
       "name": "True Colours",
       "url": "https://open.spotify.com/track/4S6rRqfYzIJ4nL2bV8ktS9"
+    },
+    {
+      "album": {
+        "name": "True Religion",
+        "url": "https://open.spotify.com/album/0Uowlm2LLlqaoAMFtajKat"
+      },
+      "artists": [
+        {
+          "name": "Shygirl",
+          "url": "https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy"
+        },
+        {
+          "name": "Club Shy",
+          "url": "https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq"
+        },
+        {
+          "name": "Isabella Lovestory",
+          "url": "https://open.spotify.com/artist/4wMQTWavQZgr8ySlo5s2Tt"
+        },
+        {
+          "name": "PinkPantheress",
+          "url": "https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170769,
+      "name": "True Religion",
+      "url": "https://open.spotify.com/track/78wZn0wdzhj3imUleYWd5M"
     },
     {
       "album": {

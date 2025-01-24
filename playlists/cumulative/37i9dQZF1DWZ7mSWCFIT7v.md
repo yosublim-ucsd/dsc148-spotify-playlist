@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis.
 
-365 songs - 1 day 5 hr 24 min
+366 songs - 1 day 5 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,7 +86,7 @@
 | [Common Land](https://open.spotify.com/track/1GzMcuifCMSYlfYkGK3fYW) | [James Holden](https://open.spotify.com/artist/15e0X6NuMsVuHi7AZhcfyI) | [Common Land](https://open.spotify.com/album/6qfUGWERKWc8Q0Mcsh0CUr) | 5:21 | 2023-06-02 |  |
 | [Conga Album](https://open.spotify.com/track/0jKm3XkCLqhgdIqQO1HG3P) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [Conga Album](https://open.spotify.com/album/5JJdTc1ylNmtt0JISC9ZUX) | 4:10 | 2021-10-06 | 2022-07-31 |
 | [Contato](https://open.spotify.com/track/3d9lSEuj72Nng9RSiBCJMK) | [Nicola Cruz](https://open.spotify.com/artist/0OltT51j3hIkgaDJqqPzDn), [Marcela Días](https://open.spotify.com/artist/0lRTbC1mev61p4iqZJFsOh) | [Contato](https://open.spotify.com/album/2Ijl7748cet44nbXZNx29K) | 4:03 | 2022-09-02 | 2022-11-13 |
-| [Cops de Cap](https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY) | [Pedro Vian](https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE) | [Black Toms](https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l) | 5:39 | 2021-10-06 |  |
+| [Cops de Cap](https://open.spotify.com/track/51AQ51yZDNWDPv14cNFFwY) | [Pedro Vian](https://open.spotify.com/artist/6ZauMzEw3kvDr7fqK3CbjE) | [Black Toms](https://open.spotify.com/album/3Zd9orgVaWayWFOjGMjN2l) | 5:39 | 2021-10-06 | 2025-01-24 |
 | [Coral Jazz](https://open.spotify.com/track/5o3FOmZJPxN4hfLlaFR6hM) | [Ozoyo](https://open.spotify.com/artist/1c47yZHEy5HSqth3hexuIe) | [Coral Jazz](https://open.spotify.com/album/5vK2QLhligjEJXejUhKLLi) | 3:03 | 2021-10-06 | 2024-07-03 |
 | [Creatura](https://open.spotify.com/track/3HwM404FecueIoHgUGl6b1) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/1ZCpJ8e52gDDTWL5UMr5Dm) | 4:12 | 2022-04-09 | 2022-08-05 |
 | [Creatura](https://open.spotify.com/track/4t2rtg8xGq6hKgXmDJzq3k) | [Drum & Lace](https://open.spotify.com/artist/1dq0QxwBna7jlk8S4rrnV7) | [Natura](https://open.spotify.com/album/7iKvcnzcqiPHlyvXKvs0d3) | 4:12 | 2022-04-09 | 2024-04-19 |
@@ -342,6 +342,7 @@
 | [Vanda](https://open.spotify.com/track/5GYuOUZ8XIFYgQRfiyNSz7) | [Auscultation](https://open.spotify.com/artist/5KlOanD5FKL6qWZ8auNVKQ) | [L'étreinte Imaginaire](https://open.spotify.com/album/1E5qllAtZJmSI94vHGMdGn) | 10:17 | 2021-10-06 | 2024-08-12 |
 | [Vegetal Passivity](https://open.spotify.com/track/500NwswktI6j2aVYW5mZkh) | [Rzekomo](https://open.spotify.com/artist/67Prupu7EtgJIYm8Zx4rku) | [Vegetal Passivity](https://open.spotify.com/album/438fQG8XXxqeW5QU8vm5kW) | 3:58 | 2023-03-03 |  |
 | [Verbal Drift](https://open.spotify.com/track/12zhpmYyhxlxgoDZTFo88c) | [Emeka Ogboh](https://open.spotify.com/artist/3wogpkBUlSTZrtz3fq4qG7) | [6°30′33.372″N 3°22′0.66″E](https://open.spotify.com/album/5ORagktp2f72d9tqOAxz49) | 5:39 | 2022-08-03 | 2022-09-22 |
+| [Verona Walls](https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3) | [DOVS](https://open.spotify.com/artist/4dTrYioJXOgFCIglYGbXQm) | [Psychic Geography](https://open.spotify.com/album/5M2wfJvURaKTP1CA6CUMGt) | 6:48 | 2025-01-23 |  |
 | [Vertiko](https://open.spotify.com/track/7twFrkOYp45jadFfck1Jzg) | [Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Vertiko](https://open.spotify.com/album/22pnMQDpiwnQe4vq0pWobB) | 4:59 | 2022-09-07 | 2022-12-24 |
 | [Victims of Victimless Crimes](https://open.spotify.com/track/0sOipgMTgqhBSq3dYkR2OE) | [Kübler\-Ross](https://open.spotify.com/artist/3zPzwe9nrdhQLEu3SB7pRy) | [Kübler\-Ross](https://open.spotify.com/album/0A0ZbSG5YvybVXyLFwhAAH) | 4:18 | 2022-07-15 | 2025-01-19 |
 | [Vidrio Roto](https://open.spotify.com/track/6m1VL8mzWuPnlMAogYluy0) | [Lujo Asiático](https://open.spotify.com/artist/2csUTFyZd2E2Zxk1v2RJFI) | [Vidrio Roto](https://open.spotify.com/album/3YiWqsTiIlKh5et6TMi8ft) | 4:24 | 2021-10-06 | 2022-07-29 |

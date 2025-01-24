@@ -4,7 +4,7 @@
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-205 songs - 15 hr 6 min
+206 songs - 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Pleasure Forever...](https://open.spotify.com/track/4g25jIzhmV7y2vu80ezETN) | [W](https://open.spotify.com/artist/6deIsG3p0GRcNITnDdk4ok) | [THE IDOLM@STER SideM ST@RTING LINE\-05 W](https://open.spotify.com/album/0l7nhxLWcTLIyY8zupFA4f) | 4:32 | 2024-03-05 | 2024-10-29 |
 | [Plus 1 Good Day!](https://open.spotify.com/track/5MP4TXj1NW6WTzz87YLGHb) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM GROWING SIGN@L 03 FRAME](https://open.spotify.com/album/1hbDBr6Ja9nEY5UrTXtAjv) | 4:04 | 2022-12-01 |  |
 | [POKER FAITH \-ポーカーフェイス\-](https://open.spotify.com/track/6V6A4btCaU3Jq0gOkaWTUz) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [THE IDOLM@STER SideM WakeMini! MUSIC COLLECTION 03](https://open.spotify.com/album/4xr953qK8O4crM1CH8czPK) | 4:03 | 2022-12-13 |  |
+| [PRECIOUS TONE](https://open.spotify.com/track/2EAF1qCzuXw5xMngLOUKka) | [秋山隼人 \(CV.千葉翔也\)](https://open.spotify.com/artist/7vOPzbqRgNcw9PedloTSQE) | [THE IDOLM@STER SideM ORIGIN@L PIECES 09](https://open.spotify.com/album/07KKDIGOJzAnjiALl1vDap) | 4:16 | 2025-01-14 |  |
 | [Present For You!!!!! ～A day in the café～](https://open.spotify.com/track/7aQQAxzHdVekvg7LHm2JLH) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM 5th ANNIVERSARY 03](https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX) | 4:40 | 2023-05-09 | 2023-12-26 |
 | [PRIDE STAR](https://open.spotify.com/track/6foQ7TwClarh7orzRNKMa9) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM 5th ANNIVERSARY 01 PRIDE STAR](https://open.spotify.com/album/1isS51QfmONRHsnfdjpWwz) | 4:55 | 2022-12-01 | 2024-11-07 |
 | [PROOF OF ONESELF](https://open.spotify.com/track/32XWDbc8fihB9Tc3i3cxgd) | [THE 虎牙道](https://open.spotify.com/artist/1oKbpodNLfQLEi6Fgtzbo4) | [THE IDOLM@STER SideM 5th ANNIVERSARY 06](https://open.spotify.com/album/3FPBLf9wQsO8XR1aWQfXzA) | 4:20 | 2022-12-01 |  |
@@ -133,7 +134,7 @@
 | [Swing Your Leaves](https://open.spotify.com/track/2qDNIW4IXccjMFirKurTTU) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 02](https://open.spotify.com/album/2NSsTgEgV6pCRYqLBCgJoS) | 3:57 | 2022-12-01 |  |
 | [Symphonic Brave](https://open.spotify.com/track/5PhOAlr6qATj51HFHOZMaw) | [Legenders](https://open.spotify.com/artist/3nF9VBtBAC5Bi3vkIV1Ce6) | [THE IDOLM@STER SideM 3rd ANNIVERSARY 01](https://open.spotify.com/album/0pKniFFDpwItfygikcY5BG) | 4:46 | 2022-12-01 | 2024-11-16 |
 | [Take a StuMp!](https://open.spotify.com/track/5UjieTtkvrOJfKMa6EmTQ7) | [315 ALLSTARS](https://open.spotify.com/artist/3sMdEIxwcZJ2gF1Sjd8NHX) | [THE IDOLM@STER SideM GROWING SIGN@L 15 Take a StuMp!](https://open.spotify.com/album/3Fja2KNccssihfc2LpBcT4) | 4:57 | 2023-01-20 |  |
-| [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 | 2022-12-01 |  |
+| [Teatime Cliché](https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt) | [Café Parade](https://open.spotify.com/artist/1uTDh4CLd762oal0htQQXe) | [THE IDOLM@STER SideM GROWING SIGN@L 04 Café Parade](https://open.spotify.com/album/3EteBuYZu6JQTPNRefCAHH) | 4:13 | 2022-12-01 | 2025-01-24 |
 | [The 1st Movement ～未来のための二重奏～](https://open.spotify.com/track/1IT0WrJyl2VjG1QoXAGN1Z) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM ST@RTING LINE\-11 Altessimo](https://open.spotify.com/album/5tqAy12EDquZQ7NZg0Pn3y) | 4:56 | 2024-03-05 | 2024-11-11 |
 | [THE FIRST STAR](https://open.spotify.com/track/40jH6AJbcdMRFzzro3eBeU) | [天道 輝 \(CV.仲村宗悟\)](https://open.spotify.com/artist/4ChudPM27mkuOE8htLxJHa) | [THE IDOLM@STER SideM ORIGIN@L PIECES 01](https://open.spotify.com/album/4wZuTqLrABThBNX1C7LZNC) | 4:12 | 2022-12-01 | 2024-11-01 |
 | [The Symphonic Daylight](https://open.spotify.com/track/1aiWX0FBgLr07AbnXODNBh) | [Altessimo](https://open.spotify.com/artist/2viMthZdiHQywTnV7zxUh8) | [THE IDOLM@STER SideM 49 ELEMENTS \-07 Altessimo](https://open.spotify.com/album/3vjUKQMaJjm1pc3RLhziH4) | 4:06 | 2023-02-25 |  |

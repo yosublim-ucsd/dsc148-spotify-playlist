@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-01",
-  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Tiakola",
+  "description": "Le R&B fran\u00e7ais, nouvelle \u00e8re. Photo : Ronisia",
   "name": "R&Bae",
   "tracks": [
     {
@@ -266,7 +266,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 239684,
       "name": "Apr\u00e8s l'\u00e9t\u00e9",
       "url": "https://open.spotify.com/track/30qAkoOrKSk17C8RbCMa7s"
@@ -998,6 +998,24 @@
       "duration_ms": 96981,
       "name": "CADILLAC",
       "url": "https://open.spotify.com/track/4eQ2L4muTCOHID7hQ7Tm7N"
+    },
+    {
+      "album": {
+        "name": "Call Of",
+        "url": "https://open.spotify.com/album/0VBseUK2RCzUV9fv9aVSlH"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159813,
+      "name": "Call Of",
+      "url": "https://open.spotify.com/track/1MbnWmMVrMZZdXtJu5Aepb"
     },
     {
       "album": {
@@ -2388,7 +2406,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 135903,
       "name": "Excuse My French",
       "url": "https://open.spotify.com/track/3O7z8S8rFmrkXJvLOZ55nZ"
@@ -4876,6 +4894,24 @@
       "duration_ms": 189205,
       "name": "Non Stop",
       "url": "https://open.spotify.com/track/4jMzUThjgs1szjOYUZSzFi"
+    },
+    {
+      "album": {
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/25gjCxb2kjOHnGMniNpsyt"
+      },
+      "artists": [
+        {
+          "name": "Fallon",
+          "url": "https://open.spotify.com/artist/4KnnkSpgIiaRMmXO8qq18I"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170266,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/4gGxBFqh6tZWktF9h9HWlU"
     },
     {
       "album": {

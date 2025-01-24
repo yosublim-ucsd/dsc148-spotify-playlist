@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Venturi, Alison Darwin.",
+  "description": "S\u00fabete a la nueva ola del rock espa\u00f1ol. Foto: Biela.",
   "name": "Rock 2025",
   "tracks": [
     {
@@ -164,7 +164,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 118743,
       "name": "A la Mierda",
       "url": "https://open.spotify.com/track/4LQXK92qiThKntANgxd9Yz"
@@ -280,7 +280,7 @@
       ],
       "date_added": "2024-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 184201,
       "name": "Al Final",
       "url": "https://open.spotify.com/track/5IUDQPpcD9MGMQDRDb2Fvw"
@@ -460,7 +460,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 186866,
       "name": "Aunque duela",
       "url": "https://open.spotify.com/track/5KNncw0fdPmtQm8BaM13xB"
@@ -500,7 +500,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 160924,
       "name": "A\u00f1o de mierda",
       "url": "https://open.spotify.com/track/16BpiZ2fRf0pCPlnmuJ9HI"
@@ -616,6 +616,24 @@
       "duration_ms": 183652,
       "name": "Bats - Bonus Track",
       "url": "https://open.spotify.com/track/1MrCEloTvLxizWYBaCsJcF"
+    },
+    {
+      "album": {
+        "name": "BOCARRIBA",
+        "url": "https://open.spotify.com/album/454Jw8XR7LdygHcbqYlWdz"
+      },
+      "artists": [
+        {
+          "name": "CANTEO!",
+          "url": "https://open.spotify.com/artist/5wuRxXOBRZ1Zt0EvCi7xis"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197111,
+      "name": "BOCARRIBA",
+      "url": "https://open.spotify.com/track/6YCUCIY5O2AswUtBgx96KZ"
     },
     {
       "album": {
@@ -1198,6 +1216,24 @@
       "duration_ms": 199448,
       "name": "Echo de menos a los Arctic Monkeys",
       "url": "https://open.spotify.com/track/1gVe7hDguYKZyeUjdyuOsK"
+    },
+    {
+      "album": {
+        "name": "El Bala",
+        "url": "https://open.spotify.com/album/7zOyKrpUuoaWXTfPA9rh5E"
+      },
+      "artists": [
+        {
+          "name": "Chucho",
+          "url": "https://open.spotify.com/artist/0gDqh6nvSk3l7eZ4UVL3GG"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207539,
+      "name": "El Bala",
+      "url": "https://open.spotify.com/track/58W2NxqvhXYmSof6MYLgba"
     },
     {
       "album": {
@@ -1870,7 +1906,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 171428,
       "name": "Intemperie",
       "url": "https://open.spotify.com/track/0wqtlNXoCnQLD8xTCJCJf1"
@@ -2307,6 +2343,24 @@
     },
     {
       "album": {
+        "name": "Los Malos Mueren",
+        "url": "https://open.spotify.com/album/5o5cVXJ1mOCbPL8OCg8iiE"
+      },
+      "artists": [
+        {
+          "name": "PELIGRO!",
+          "url": "https://open.spotify.com/artist/3FDCL5TTPpKM5liVuuU0f3"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116800,
+      "name": "Los Malos Mueren",
+      "url": "https://open.spotify.com/track/5y5cVgUfKvAOAlrF15x4ck"
+    },
+    {
+      "album": {
         "name": "Bohemian Rhapsody 2",
         "url": "https://open.spotify.com/album/1WS2BvZ4C1tt7s7PTYYx8e"
       },
@@ -2691,6 +2745,24 @@
     },
     {
       "album": {
+        "name": "Mensajes Pendientes",
+        "url": "https://open.spotify.com/album/73E9As1egcpg2v1Qjh6fG0"
+      },
+      "artists": [
+        {
+          "name": "Biela",
+          "url": "https://open.spotify.com/artist/3V4eTmIv1fY1zTRSOFOjEH"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192891,
+      "name": "Mensajes Pendientes",
+      "url": "https://open.spotify.com/track/0axlkgVXda0uDqRiF6H0pp"
+    },
+    {
+      "album": {
         "name": "MENTIRA",
         "url": "https://open.spotify.com/album/24mCgu4HUhxk6HmPLUe8PR"
       },
@@ -2822,6 +2894,24 @@
       "duration_ms": 132980,
       "name": "Momento PULP",
       "url": "https://open.spotify.com/track/5g15fTKT1jEukdWY5cvGj5"
+    },
+    {
+      "album": {
+        "name": "Morir en primavera",
+        "url": "https://open.spotify.com/album/2P513uRCAhYIhMsAUZbzXZ"
+      },
+      "artists": [
+        {
+          "name": "JUVENTUDE",
+          "url": "https://open.spotify.com/artist/5OCKp8oCaWmsqkc7lfRDJC"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144947,
+      "name": "Morir en primavera",
+      "url": "https://open.spotify.com/track/4jaBKeI5bJbOZOTajiCNJt"
     },
     {
       "album": {
@@ -3139,6 +3229,24 @@
     },
     {
       "album": {
+        "name": "Ontes fun moi malo",
+        "url": "https://open.spotify.com/album/4ZTb8GgFzwblb7SXYRKa24"
+      },
+      "artists": [
+        {
+          "name": "Grande Amore",
+          "url": "https://open.spotify.com/artist/1FVM2KsOjbVwhAYApEhSzQ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171613,
+      "name": "Ontes fun moi malo",
+      "url": "https://open.spotify.com/track/278iDmdb1oMjGyuTW2N6fS"
+    },
+    {
+      "album": {
         "name": "onvres",
         "url": "https://open.spotify.com/album/4uA5lsjxxyrooWErwuaVyi"
       },
@@ -3392,7 +3500,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 154666,
       "name": "Piropos",
       "url": "https://open.spotify.com/track/3gIH0fYBDdpsINlYv1feqs"
@@ -3544,6 +3652,24 @@
       "duration_ms": 199266,
       "name": "Pronto",
       "url": "https://open.spotify.com/track/036ALWFM6JnbGJ7buxZ2xE"
+    },
+    {
+      "album": {
+        "name": "Puedo conducir toda la noche",
+        "url": "https://open.spotify.com/album/3a8MIwFhXKOfxUyRkwUOOB"
+      },
+      "artists": [
+        {
+          "name": "Lucas Colman",
+          "url": "https://open.spotify.com/artist/5fRFBYxLHk3yKoLS59obIq"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205116,
+      "name": "Puedo conducir toda la noche",
+      "url": "https://open.spotify.com/track/0AA79c66RoiwdZAa8eBfri"
     },
     {
       "album": {
@@ -3792,7 +3918,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 184500,
       "name": "saliendo bien",
       "url": "https://open.spotify.com/track/6kqF44Ep1e0ILJ4nSKxFGB"
@@ -4418,7 +4544,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 158865,
       "name": "un momento",
       "url": "https://open.spotify.com/track/1azSsvyjl1oSejhztB4cvO"
@@ -4678,6 +4804,24 @@
       "duration_ms": 248975,
       "name": "V\u00e1monos",
       "url": "https://open.spotify.com/track/1ZD4PRGZC7HyPLxncinlt4"
+    },
+    {
+      "album": {
+        "name": "WOKE",
+        "url": "https://open.spotify.com/album/4nUSrfzO0oggmIfK1IVzO2"
+      },
+      "artists": [
+        {
+          "name": "TRONKAS!",
+          "url": "https://open.spotify.com/artist/1L0Cp9n72dvWPY66JC0dmt"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166536,
+      "name": "WOKE",
+      "url": "https://open.spotify.com/track/3oYVpmrfCsDpbxj0MsfBEM"
     },
     {
       "album": {

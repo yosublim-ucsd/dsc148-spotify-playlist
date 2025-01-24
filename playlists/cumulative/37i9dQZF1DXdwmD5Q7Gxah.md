@@ -4,7 +4,7 @@
 
 > The <a href="https://open.spotify.com/episode/6LtPY9IJ8KkHFG09FEh6J1?si=f44c26e80c5b4245">countdown to EUSEXUA</a> is on, featuring FKA twigs and Imogen Heap
 
-3,147 songs - 7 day 2 hr 51 min
+3,150 songs - 7 day 3 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -813,6 +813,7 @@
 | [Dying Star \(feat\. Ethel Cain\)](https://open.spotify.com/track/55owCz7823hXvvTm3apoZ9) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Ethel Cain](https://open.spotify.com/artist/0avMDS4HyoCEP6RqZJWpY2) | [WEEDKILLER](https://open.spotify.com/album/4xZP0Vuf4DNK7wsp3ZKbQ0) | 4:15 | 2023-08-31 | 2023-12-14 |
 | [Dystopia Girl](https://open.spotify.com/track/2tAr4OkKQRfkeQcSXaJ7sK) | [Harmony](https://open.spotify.com/artist/6oLhfvwfeydj1LrCduXTrW) | [Dystopia Girl](https://open.spotify.com/album/3o7ThcbaOB3nZIJdyDPDVu) | 3:44 | 2023-08-25 | 2023-10-13 |
 | [earth](https://open.spotify.com/track/3Dvq01GbtvhYKHUOaQkdwZ) | [easy life](https://open.spotify.com/artist/7uwY65fDg3FVJ8MkJ5QuZK) | [earth](https://open.spotify.com/album/2BorvQTryEDKebxHIWJTt2) | 3:06 | 2019-07-30\* | 2019-10-29 |
+| [Earthstar](https://open.spotify.com/track/0mroL255Cz3vWWyoTzur38) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar](https://open.spotify.com/album/6WZ2vKrjmgyzeOsVwt1iU4) | 4:03 | 2025-01-23 |  |
 | [Eastside](https://open.spotify.com/track/7MTmPkKezlfu5imj1irLpH) | [DAISY](https://open.spotify.com/artist/7riIDkMpiCIuZUbLaScpQq) | [Eastside](https://open.spotify.com/album/3hHlsvOtGLxPdL0XJDQ1dM) | 5:34 | 2021-12-01 | 2022-01-08 |
 | [Easy](https://open.spotify.com/track/4VHd2JFgcpgYOvJWP2D1aX) | [Babygirl](https://open.spotify.com/artist/6Y2m4AEOS9JFrsK2goyg7T) | [Easy](https://open.spotify.com/album/2NjGLwVlQxVHSHNGSJMTMh) | 3:23 | 2020-10-24 | 2021-01-12 |
 | [Easy On Them Turns](https://open.spotify.com/track/5IvLhgNPWzi9fu9cINVsf9) | [Baird](https://open.spotify.com/artist/7GdGZWPHxDEu0ppvLoB4GO) | [Easy On Them Turns](https://open.spotify.com/album/6ljNbyPlF5xjrzIopEAqey) | 2:15 | 2021-10-22 | 2022-03-05 |
@@ -1640,6 +1641,7 @@
 | [Lonnie Frisbee](https://open.spotify.com/track/1yFRrquTPANa3sCmYo9TGI) | [Rex Laurent](https://open.spotify.com/artist/7BqfW1w5X3o5gqYUDxwBi2) | [Lonnie Frisbee](https://open.spotify.com/album/3yJ7imqee3RVWmV6CdGz0u) | 3:56 | 2024-08-07 | 2024-09-07 |
 | [Look at it in the Light](https://open.spotify.com/track/4hFwJpN49gRhIXD967q3MB) | [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Look at it in the Light](https://open.spotify.com/album/3MKaD7aYasZcnBvv8g2XKO) | 2:46 | 2022-04-22 | 2022-06-10 |
 | [Look At That Woman](https://open.spotify.com/track/5LbKwcuefoCUxlPkHEjGGW) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Look At That Woman](https://open.spotify.com/album/6PUO24m7ConrwJHbfDqjij) | 2:43 | 2024-06-21 | 2024-09-21 |
+| [look what you're doing to me](https://open.spotify.com/track/5NnWavPRg3kHGSsFd18We9) | [ratbag](https://open.spotify.com/artist/6v6OE9MQreCmwuAqF0NfzQ) | [look what you're doing to me](https://open.spotify.com/album/0R3W77nJR1nPVcSFAWOJ9c) | 4:24 | 2025-01-23 |  |
 | [Looking Out for You](https://open.spotify.com/track/1lpLrlyweOShEKXT1bpcDd) | [Joy Again](https://open.spotify.com/artist/4jCIAMb0zEArF3GYEYzoDk) | [Looking Out for You](https://open.spotify.com/album/2dXtUoM9j3QbqvhlRy5LA2) | 2:59 | 2020-08-21 | 2020-11-11 |
 | [Loose](https://open.spotify.com/track/1pBKb4NHc2mZPGL9BHRPPR) | [Grace Ives](https://open.spotify.com/artist/4TZieE5978SbTInJswaay2) | [Loose](https://open.spotify.com/album/4beJq426gqDrSeqP8p5Xnl) | 2:41 | 2022-02-23 | 2022-03-11 |
 | [Lorelei](https://open.spotify.com/track/1ZnXuijpwEBjhNxpEnb8WH) | [Cocteau Twins](https://open.spotify.com/artist/5Wabl1lPdNOeIn0SQ5A1mp) | [Treasure](https://open.spotify.com/album/7pBPB9vwqCMLKNmUCK4k62) | 3:43 | 2023-01-06 | 2023-03-16 |
@@ -3155,5 +3157,6 @@
 | [‎rubber ‎checks](https://open.spotify.com/track/2KiziPinruARpIvC05NTqJ) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎rubber ‎checks](https://open.spotify.com/album/48LwULIsLq3P716zccF09g) | 1:58 | 2022-04-01 | 2022-04-21 |
 | [‎talk 2 ‎me](https://open.spotify.com/track/6WDTtjWxcY53xB3P85mum2) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎talk 2 ‎me](https://open.spotify.com/album/3NDKOrEeb1illEUX8sVlBv) | 4:02 | 2023-07-14 | 2023-10-03 |
 | [‎twenty20](https://open.spotify.com/track/0h2WvTmqrTkptGRUEYJxGr) | [maxime.](https://open.spotify.com/artist/4jd8Wp3Os5tXFV0NYm1570) | [‎twenty20](https://open.spotify.com/album/5cPLoiHXHsbm7BRrCqebB3) | 3:08 | 2020-07-18 | 2020-07-31 |
+| [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 | 2025-01-23 |  |
 
 \*This playlist was first scraped on 2019-07-30. Prior content cannot be recovered.

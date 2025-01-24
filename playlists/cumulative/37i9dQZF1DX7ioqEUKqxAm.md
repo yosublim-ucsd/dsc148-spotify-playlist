@@ -2,7 +2,7 @@
 
 ### [RADAR: Podcasters 2025](https://open.spotify.com/playlist/37i9dQZF1DX7ioqEUKqxAm)
 
-> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 （Cover: GOLDNRUSH PODCAST）
+> 次世代のポッドキャストカルチャーを担う新進気鋭のクリエイター5組を特集 （Cover: UNDERDOG in Tokyo）
 
 31 songs - 23 hr 27 min
 

@@ -1357,6 +1357,28 @@
     },
     {
       "album": {
+        "name": "Mozart: The Piano Sonatas",
+        "url": "https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "date_added": "2024-09-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178440,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "url": "https://open.spotify.com/track/6DpNJBEIlTzqVtbQ9S81kF"
+    },
+    {
+      "album": {
         "name": "Piano Book (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90"
       },
@@ -1395,30 +1417,8 @@
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
       "date_removed": null,
-      "duration_ms": 178440,
-      "name": "Piano Sonata No. 16 in C, K.545 \"Sonata facile\": 1. Allegro",
-      "url": "https://open.spotify.com/track/6DpNJBEIlTzqVtbQ9S81kF"
-    },
-    {
-      "album": {
-        "name": "Mozart: The Piano Sonatas",
-        "url": "https://open.spotify.com/album/1qM2Z3rhkJLQIXnAQpIUdY"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Andr\u00e1s Schiff",
-          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
-        }
-      ],
-      "date_added": "2024-09-12",
-      "date_added_asterisk": false,
-      "date_removed": null,
       "duration_ms": 322133,
-      "name": "Piano Sonata No. 16 in C, K.545 \"Sonata facile\": 2. Andante",
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": II. Andante",
       "url": "https://open.spotify.com/track/3CCMQfAHmmBdpJCoHBdB7N"
     },
     {

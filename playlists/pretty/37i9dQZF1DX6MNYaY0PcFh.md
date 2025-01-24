@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 
 > The new wave of Garage \- an evolution of the classic UK dancefloor sound.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,514 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,548 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 33 | [One Sixty](https://open.spotify.com/track/0ePErw4KttL2LvS4K76Iwz) | [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [One Sixty](https://open.spotify.com/album/6WJblwlnlnY9JNMCnu8rcG) | 3:49 |
 | 34 | [JOY \(Push The Button\)](https://open.spotify.com/track/38k9ZI2scBdNV11KM3pTNB) | [Joy Anonymous](https://open.spotify.com/artist/3pK4EcflBpG1Kpmjk5LK2R), [Sugababes](https://open.spotify.com/artist/7rZNSLWMjTbwdLNskFbzFf) | [JOY \(Push The Button\)](https://open.spotify.com/album/1jkNntbUEEHM1TDNrestb2) | 3:55 |
 | 35 | [if thats okay with u <3](https://open.spotify.com/track/5SjBZxVxM8qv00A2MBQ3QS) | [Arundel](https://open.spotify.com/artist/6iaTOGtvJed2OVFYAl9YEA) | [if thats okay with u <3](https://open.spotify.com/album/12YLAsNkEyWzbYvj4x1OYg) | 3:28 |
-| 36 | [PUT THE PHONE DOWN](https://open.spotify.com/track/6xD5w6rmy22iyMbO8jEpGH) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [PUT THE PHONE DOWN](https://open.spotify.com/album/4xpV5tPofSJkLtGXnMiNss) | 3:54 |
-| 37 | [Body Moving \- Riordan Remix](https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Body Moving \(Riordan Remix\)](https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn) | 3:06 |
+| 36 | [Body Moving \- Riordan Remix](https://open.spotify.com/track/1j1gU6llk8Nqv3Kga9WBi7) | [Eliza Rose](https://open.spotify.com/artist/4XC335ouK6pXyq4QiIb8bP), [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY), [Riordan](https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao) | [Body Moving \(Riordan Remix\)](https://open.spotify.com/album/6VN62DL9qSYG53VGXfohOn) | 3:06 |
+| 37 | [PUT THE PHONE DOWN](https://open.spotify.com/track/6xD5w6rmy22iyMbO8jEpGH) | [Jaish](https://open.spotify.com/artist/4gA27N5UFxsfcwEoZISYry), [JACK MARLOW](https://open.spotify.com/artist/5qIDbjJ9VyV3eogXzEA6H3) | [PUT THE PHONE DOWN](https://open.spotify.com/album/4xpV5tPofSJkLtGXnMiNss) | 3:54 |
 | 38 | [High \- MJ Cole Remix](https://open.spotify.com/track/0HLTkJFrnw319gmtA0Kh7W) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd), [MJ Cole](https://open.spotify.com/artist/49GY4uPAwdlk5lSGtfKWYl) | [High \(MJ Cole Remix\)](https://open.spotify.com/album/1m4ioXqEmxumANUTZnwMY0) | 3:12 |
 | 39 | [Sunrise](https://open.spotify.com/track/0b0Imr7QX4nBWZ0um5O2w8) | [Higgo](https://open.spotify.com/artist/0f1qSxprIDtLaJfIaEJb64) | [Sunrise](https://open.spotify.com/album/4uKJcsKD6n7eanNPWeUE33) | 2:55 |
 | 40 | [When I'm With You](https://open.spotify.com/track/6nux0bFQdzwaV7JE7eR0G5) | [Silva Bumpa](https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf) | [When I'm With U](https://open.spotify.com/album/3LMxqFuIqxjoWg0ExtlnMe) | 4:47 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6MNYaY0PcFh.md) - [plain]
 | 56 | [Wouldn't Believe](https://open.spotify.com/track/1H5pIpTTiuxYnzzeOlGYYf) | [BAKEY](https://open.spotify.com/artist/49du30vgnQZT13tyjnrspT) | [Wouldn't Believe](https://open.spotify.com/album/0nF4WVXPunDRsNw9c1LTOd) | 3:18 |
 | 57 | [Party All Night](https://open.spotify.com/track/2VaHrBmW5BqfcHVzFs2QQL) | [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Jamie Hai](https://open.spotify.com/artist/47wEVywYRzex59hogE2iEJ) | [Party All Night](https://open.spotify.com/album/543kDqeC6kaabDwc8my2QP) | 2:32 |
 | 58 | [luv stuck](https://open.spotify.com/track/6IVLo37kObJF38G7LaJUnt) | [salute](https://open.spotify.com/artist/1np8xozf7ATJZDi9JX8Dx5), [piri](https://open.spotify.com/artist/4DpmPt7gfAAq7WEx0E1X8s) | [luv stuck](https://open.spotify.com/album/3X9OuVXE4JevSJTGAG1sg5) | 2:40 |
-| 59 | [Treasure \(feat\. Shayan\)](https://open.spotify.com/track/26vpqc0rM2q8140DI75xcB) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Treasure \(feat\. Shayan\)](https://open.spotify.com/album/0HYCqwuloY3sN3U2HLiuIJ) | 2:40 |
-| 60 | [Ooh](https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL), [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Ooh](https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV) | 3:12 |
+| 59 | [Ooh](https://open.spotify.com/track/6Sa9DuLZEgeyXRCRs2oTbW) | [Dan be](https://open.spotify.com/artist/7fLE3YVL4L4KWxAFU0EyGL), [Alex Bone](https://open.spotify.com/artist/2iL6iQOjN0zrskyJHksaEJ) | [Ooh](https://open.spotify.com/album/14OnuCvu5a5GWrXurrCgjV) | 3:12 |
+| 60 | [Treasure \(feat\. Shayan\)](https://open.spotify.com/track/26vpqc0rM2q8140DI75xcB) | [BVNQUET](https://open.spotify.com/artist/3kS6ce97k6g4h7V1OdlMxv), [Star.One](https://open.spotify.com/artist/11HK31aj8j8QJ3ZnSlqox4), [Scrufizzer](https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1), [Shayan](https://open.spotify.com/artist/5pOyB5GTPmBekPeDXbAuac) | [Treasure \(feat\. Shayan\)](https://open.spotify.com/album/0HYCqwuloY3sN3U2HLiuIJ) | 2:40 |
 
 Snapshot ID: `Z4pBtAAAAACQFQ8apJgtLQ2fQhpU7Ae6`

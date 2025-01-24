@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  RACK",
+  "description": "\u0397 \u03b5\u03bb\u03bb\u03b7\u03bd\u03b9\u03ba\u03ae \u03c1\u03b1\u03c0 \u03c3\u03ba\u03b7\u03bd\u03ae \u03c3\u03c4\u03b1 \u03ba\u03b1\u03bb\u03cd\u03c4\u03b5\u03c1\u03ac \u03c4\u03b7\u03c2. \u0395\u03be\u03ce\u03c6\u03c5\u03bb\u03bb\u03bf:  XRS",
   "name": "Hot Greek Rap",
   "tracks": [
     {
@@ -60,7 +60,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 179478,
       "name": "100%",
       "url": "https://open.spotify.com/track/4o8k3VS5jngWCqBoht7AxV"
@@ -322,6 +322,36 @@
       "duration_ms": 184666,
       "name": "AIORA",
       "url": "https://open.spotify.com/track/67GZhMIBqNdPbwmcQGO7eF"
+    },
+    {
+      "album": {
+        "name": "PROSOPA",
+        "url": "https://open.spotify.com/album/6Tt12mJtVSkCSM9zXyMRTy"
+      },
+      "artists": [
+        {
+          "name": "XRS",
+          "url": "https://open.spotify.com/artist/4VaNTItXu9y1mVG63o9lF4"
+        },
+        {
+          "name": "Night Grind",
+          "url": "https://open.spotify.com/artist/4VMldqLa3majLarabWzuqk"
+        },
+        {
+          "name": "_OTS",
+          "url": "https://open.spotify.com/artist/1duTYTeIWqrESenXtZ3a82"
+        },
+        {
+          "name": "Takanuva",
+          "url": "https://open.spotify.com/artist/2ciuV1nz063tai3NKwomQs"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144578,
+      "name": "ALADDIN",
+      "url": "https://open.spotify.com/track/4WRdYQM21e3bji4xHSVNoG"
     },
     {
       "album": {
@@ -978,7 +1008,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 127292,
       "name": "BOTTEGA VENETA",
       "url": "https://open.spotify.com/track/42zXt59oaCi2svsAU6YHoN"
@@ -1004,6 +1034,28 @@
       "duration_ms": 148500,
       "name": "Bsns",
       "url": "https://open.spotify.com/track/25ER2jHtzsrxXyem0I37vO"
+    },
+    {
+      "album": {
+        "name": "BURJ KHALIFA",
+        "url": "https://open.spotify.com/album/0Da7RffOgbe8tgxeJcYf8D"
+      },
+      "artists": [
+        {
+          "name": "Retro",
+          "url": "https://open.spotify.com/artist/09E3lzgW2TIZZaDAB2y4nb"
+        },
+        {
+          "name": "Longlive",
+          "url": "https://open.spotify.com/artist/7mcUh5VoiIjOD7A4koQ4AC"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174793,
+      "name": "BURJ KHALIFA",
+      "url": "https://open.spotify.com/track/2uJbZCgR4slJJvfJgaW10A"
     },
     {
       "album": {
@@ -1881,6 +1933,28 @@
     },
     {
       "album": {
+        "name": "Euroblock",
+        "url": "https://open.spotify.com/album/0e2OoFR49ooxJ6l63PN7D6"
+      },
+      "artists": [
+        {
+          "name": "Bres",
+          "url": "https://open.spotify.com/artist/3KqadO00DMt4lSqyEE5CTr"
+        },
+        {
+          "name": "Donn",
+          "url": "https://open.spotify.com/artist/5ZW3jmupWrQDBKilPyUVkv"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174857,
+      "name": "Euroblock",
+      "url": "https://open.spotify.com/track/5mgd4uW8HCz1Zd22DCMhg7"
+    },
+    {
+      "album": {
         "name": "FANTA",
         "url": "https://open.spotify.com/album/28Z5ChSUUkD9xuUjy9xuBq"
       },
@@ -2380,6 +2454,28 @@
       "duration_ms": 220327,
       "name": "GILEKO",
       "url": "https://open.spotify.com/track/3bd0uhm7ENvy8q6Z2savKd"
+    },
+    {
+      "album": {
+        "name": "GIMMIE",
+        "url": "https://open.spotify.com/album/2ghMBXS9U58BLws1LZM1Nq"
+      },
+      "artists": [
+        {
+          "name": "Ivan Greko",
+          "url": "https://open.spotify.com/artist/0cy6ZMOTeautXRNJsR6PiV"
+        },
+        {
+          "name": "BeTaf Beats",
+          "url": "https://open.spotify.com/artist/5qDpS8QhKjNRZ6aRrcpY1Z"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155076,
+      "name": "GIMMIE",
+      "url": "https://open.spotify.com/track/3C4vDKPYaUpG0ZH8y4axeV"
     },
     {
       "album": {
@@ -3790,7 +3886,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 166624,
       "name": "METRITA",
       "url": "https://open.spotify.com/track/2QkVtveUnxkl2tgRILL66t"
@@ -3926,7 +4022,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 198400,
       "name": "Napalm",
       "url": "https://open.spotify.com/track/33drGybPLf91WVPj6dj2yx"
@@ -4725,6 +4821,32 @@
     },
     {
       "album": {
+        "name": "PROSTIMA",
+        "url": "https://open.spotify.com/album/04ETdGJovESaYmIrgIZMQc"
+      },
+      "artists": [
+        {
+          "name": "Yung Nas",
+          "url": "https://open.spotify.com/artist/1R3qUhgG85LeUtfYdXcBu4"
+        },
+        {
+          "name": "LOS",
+          "url": "https://open.spotify.com/artist/7ds523a4v32Qc15U24jtMw"
+        },
+        {
+          "name": "Sanko",
+          "url": "https://open.spotify.com/artist/0ijA6WxysUZ8vZQL7JkUfx"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183157,
+      "name": "PROSTIMA",
+      "url": "https://open.spotify.com/track/3xoWJugSEszMJ96TKiFJIh"
+    },
+    {
+      "album": {
         "name": "SINALOA",
         "url": "https://open.spotify.com/album/6uEfN3eghmQN8owe3jJrO1"
       },
@@ -4866,7 +4988,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 200000,
       "name": "Raygun",
       "url": "https://open.spotify.com/track/63le3ZNmJpP8V5hCdqasSr"
@@ -5663,6 +5785,28 @@
     },
     {
       "album": {
+        "name": "Traphouse",
+        "url": "https://open.spotify.com/album/5Gbigs3U7YULL2eqFTv2lS"
+      },
+      "artists": [
+        {
+          "name": "Holy",
+          "url": "https://open.spotify.com/artist/3lkJKuEXHH1CF4Mr4n7662"
+        },
+        {
+          "name": "Ortiz",
+          "url": "https://open.spotify.com/artist/6nidPawoE1wPgAtFmeyXyR"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144039,
+      "name": "Traphouse",
+      "url": "https://open.spotify.com/track/1FrdLldFOrCZARH2GLMlOx"
+    },
+    {
+      "album": {
         "name": "Trelos",
         "url": "https://open.spotify.com/album/53iv2UGU11qUYlRNxm1t8j"
       },
@@ -6116,7 +6260,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 202328,
       "name": "Xeirovomvida",
       "url": "https://open.spotify.com/track/7uCY7wvVuRPuo9i9p6ZUc7"

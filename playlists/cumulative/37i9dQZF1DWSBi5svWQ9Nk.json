@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De 50 populairste hits van nu. Cover: Lola Young",
+  "description": "De 50 populairste hits van nu. Cover: Roxy Dekker",
   "name": "Hot Hits NL",
   "tracks": [
     {
@@ -186,7 +186,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 131200,
       "name": "2 Times",
       "url": "https://open.spotify.com/track/03xIKiQXopptD4Sv8ijvcG"
@@ -248,6 +248,24 @@
       "duration_ms": 171291,
       "name": "A Bar Song (Tipsy)",
       "url": "https://open.spotify.com/track/2FQrifJ1N335Ljm3TjTVVf"
+    },
+    {
+      "album": {
+        "name": "A Moment",
+        "url": "https://open.spotify.com/album/5QqwK8Qf8W4hoVkuCzBtMa"
+      },
+      "artists": [
+        {
+          "name": "Kensington",
+          "url": "https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203545,
+      "name": "A Moment",
+      "url": "https://open.spotify.com/track/6QOSsq9F1yR9ka8ZbgAYmI"
     },
     {
       "album": {
@@ -1440,6 +1458,24 @@
     {
       "album": {
         "name": "chille guy",
+        "url": "https://open.spotify.com/album/0fHVPIbtXgbAv0LJnri8jR"
+      },
+      "artists": [
+        {
+          "name": "Mensa",
+          "url": "https://open.spotify.com/artist/70SvhGqakpocD7GxVYnnBC"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 100279,
+      "name": "chille guy",
+      "url": "https://open.spotify.com/track/7BDorbvHZ7gcHwEZLu06eY"
+    },
+    {
+      "album": {
+        "name": "chille guy",
         "url": "https://open.spotify.com/album/3CnwMnrBbY4kFitwIBT3rJ"
       },
       "artists": [
@@ -1868,7 +1904,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 179100,
       "name": "Dat Is Het Leven",
       "url": "https://open.spotify.com/track/7DGeMF5q4UHXYyElvAiO2j"
@@ -2725,6 +2761,24 @@
     },
     {
       "album": {
+        "name": "Ga Dan!",
+        "url": "https://open.spotify.com/album/0NpjnB7yT91PkdOr1iMmjv"
+      },
+      "artists": [
+        {
+          "name": "Roxy Dekker",
+          "url": "https://open.spotify.com/artist/6YznhKZUZFVr418x7OUi3z"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137999,
+      "name": "Ga Dan!",
+      "url": "https://open.spotify.com/track/1XRpRDBpJPjjcj406euOpa"
+    },
+    {
+      "album": {
         "name": "Gaan We Weg?",
         "url": "https://open.spotify.com/album/4SV6Y14WPFNuivMPrbfSas"
       },
@@ -3537,6 +3591,28 @@
     },
     {
       "album": {
+        "name": "I Surrender (Remix)",
+        "url": "https://open.spotify.com/album/7yaehZezasawQfcqWOkbcT"
+      },
+      "artists": [
+        {
+          "name": "Joshua Robbie",
+          "url": "https://open.spotify.com/artist/63FGE7jdsJPFDjxbMspsfQ"
+        },
+        {
+          "name": "Lange Frans",
+          "url": "https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213040,
+      "name": "I Surrender - Remix",
+      "url": "https://open.spotify.com/track/7GDEIrIOGdE5AkQfuk1FA3"
+    },
+    {
+      "album": {
         "name": "I Won't Let Go",
         "url": "https://open.spotify.com/album/3JrmfauG25tz4C5hmJED64"
       },
@@ -3548,7 +3624,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 223384,
       "name": "I Won't Let Go",
       "url": "https://open.spotify.com/track/1yV7mWA7FqYLxw4LMaeoX6"
@@ -6122,7 +6198,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 185532,
       "name": "SOS",
       "url": "https://open.spotify.com/track/2usgKLp2V6HTqOXh9rlETr"

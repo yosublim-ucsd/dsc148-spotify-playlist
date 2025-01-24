@@ -1,6 +1,6 @@
 {
   "description": "The Soca hits we all love from back then til right now. Cover: Machel Montano",
-  "num_followers": 221391,
+  "num_followers": 221453,
   "original_name": "Massive Soca Hits",
   "owner": {
     "name": "Spotify",
@@ -723,8 +723,8 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Tack Back",
-        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
+        "name": "Workout (feat. Nailah Blackman)",
+        "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
       },
       "artists": [
         {
@@ -732,13 +732,13 @@
           "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         },
         {
-          "name": "Tano",
-          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
+          "name": "Nailah Blackman",
+          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
         }
       ],
-      "duration_ms": 198671,
-      "name": "Tack Back",
-      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
+      "duration_ms": 238153,
+      "name": "Workout",
+      "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -827,8 +827,8 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Workout (feat. Nailah Blackman)",
-        "url": "https://open.spotify.com/album/2LIZ7qauUnT1VdAYpD4YLe"
+        "name": "Tack Back",
+        "url": "https://open.spotify.com/album/3TdjoUXXNZvcclAJxU0Wmq"
       },
       "artists": [
         {
@@ -836,13 +836,13 @@
           "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         },
         {
-          "name": "Nailah Blackman",
-          "url": "https://open.spotify.com/artist/1K23l3n63BTCtIMm0TyS4c"
+          "name": "Tano",
+          "url": "https://open.spotify.com/artist/0e4gZp0pGSUYifNYGse8U1"
         }
       ],
-      "duration_ms": 238153,
-      "name": "Workout",
-      "url": "https://open.spotify.com/track/3BlI8WbmqInpjM0z3k4L63"
+      "duration_ms": 198671,
+      "name": "Tack Back",
+      "url": "https://open.spotify.com/track/3GwcL1cfFEnTCYTIL8VN1W"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "No Behavior Shell Down",
-        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
-      },
-      "artists": [
-        {
-          "name": "Cloud 5",
-          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
-        }
-      ],
-      "duration_ms": 262556,
-      "name": "No Behavior Shell Down",
-      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Down Dey",
         "url": "https://open.spotify.com/album/246WFT6xDiyEoqaAy7YH8F"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 133141,
       "name": "Down Dey",
       "url": "https://open.spotify.com/track/7AGm3aWTaC7LRni0xcrhMw"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "No Behavior Shell Down",
+        "url": "https://open.spotify.com/album/0czZnlFCNNpcGqc5f9jhKO"
+      },
+      "artists": [
+        {
+          "name": "Cloud 5",
+          "url": "https://open.spotify.com/artist/5yC1kAgDOIOt8FWoPLc4GL"
+        }
+      ],
+      "duration_ms": 262556,
+      "name": "No Behavior Shell Down",
+      "url": "https://open.spotify.com/track/713bTySu02xdpMMap8UPQv"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1079,18 +1079,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Soca Queen",
-        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+        "name": "Party",
+        "url": "https://open.spotify.com/album/5dH41iXlDYAXvBZU9rLnC7"
       },
       "artists": [
         {
-          "name": "Alison Hinds",
-          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+          "name": "Fiyah Marshall",
+          "url": "https://open.spotify.com/artist/75oTVwwcdndH5KNXjj0xaj"
+        },
+        {
+          "name": "Orlando Octave",
+          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
         }
       ],
-      "duration_ms": 257600,
-      "name": "Togetherness",
-      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
+      "duration_ms": 198554,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/1jIs52DNw8jD0BZ07v5JB0"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1107,6 +1111,22 @@
       "duration_ms": 237131,
       "name": "Carry On",
       "url": "https://open.spotify.com/track/54tMRvXvmbLSeX4h33d56U"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Soca Queen",
+        "url": "https://open.spotify.com/album/5SzcUTZQjYFZNcpgCZoyuJ"
+      },
+      "artists": [
+        {
+          "name": "Alison Hinds",
+          "url": "https://open.spotify.com/artist/4FdhiagLyTmvDqAVUxsQ57"
+        }
+      ],
+      "duration_ms": 257600,
+      "name": "Togetherness",
+      "url": "https://open.spotify.com/track/6h50FEEAl85KK8GJvN7rRe"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1131,22 +1151,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Tight Squeeze Riddim",
-        "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
-      },
-      "artists": [
-        {
-          "name": "Blaxx",
-          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
-        }
-      ],
-      "duration_ms": 203756,
-      "name": "Gyal Owner",
-      "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/57CnbcO4WG5ZhmR41jpUmB"
       },
@@ -1163,6 +1167,22 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
+        "name": "Tight Squeeze Riddim",
+        "url": "https://open.spotify.com/album/7Ll9CqSBW14J22ls985uP3"
+      },
+      "artists": [
+        {
+          "name": "Blaxx",
+          "url": "https://open.spotify.com/artist/5ix3RWfREDkS8yiuklSrjM"
+        }
+      ],
+      "duration_ms": 203756,
+      "name": "Gyal Owner",
+      "url": "https://open.spotify.com/track/7pVQceAw8jOOnajIQQcVF7"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
         "name": "Long Live Soca",
         "url": "https://open.spotify.com/album/4jGyY87LLAPr9OKPZAeIkd"
       },
@@ -1175,26 +1195,6 @@
       "duration_ms": 225251,
       "name": "Long Live Soca",
       "url": "https://open.spotify.com/track/5eNR7uRphqgPmR5bD6IyLg"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
-        "name": "Party",
-        "url": "https://open.spotify.com/album/5dH41iXlDYAXvBZU9rLnC7"
-      },
-      "artists": [
-        {
-          "name": "Fiyah Marshall",
-          "url": "https://open.spotify.com/artist/75oTVwwcdndH5KNXjj0xaj"
-        },
-        {
-          "name": "Orlando Octave",
-          "url": "https://open.spotify.com/artist/3bJ6gnTDrlHSMszDydll2L"
-        }
-      ],
-      "duration_ms": 198554,
-      "name": "Party",
-      "url": "https://open.spotify.com/track/1jIs52DNw8jD0BZ07v5JB0"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Dig",
-        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
-      },
-      "artists": [
-        {
-          "name": "Burning Flames",
-          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
-        }
-      ],
-      "duration_ms": 335652,
-      "name": "Workey Workey",
-      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
-    },
-    {
-      "added_at": "2024-08-05 20:03:27",
-      "album": {
         "name": "Dutty Dutty Riddim",
         "url": "https://open.spotify.com/album/3ASAAgP5qgcr1OeqzSMlWe"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 169743,
       "name": "Take Bamboo",
       "url": "https://open.spotify.com/track/1CCES5F70iAo8Mp54uFe9s"
+    },
+    {
+      "added_at": "2024-08-05 20:03:27",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/1MrOvx0Tefrl1AHvbF5JXC"
+      },
+      "artists": [
+        {
+          "name": "Burning Flames",
+          "url": "https://open.spotify.com/artist/6PmJXOr7O4EZkds2bQuOTv"
+        }
+      ],
+      "duration_ms": 335652,
+      "name": "Workey Workey",
+      "url": "https://open.spotify.com/track/7qBspj3xcFx2kzud2FRsRj"
     },
     {
       "added_at": "2024-08-05 20:03:27",
@@ -1723,22 +1723,18 @@
     {
       "added_at": "2024-08-05 20:03:27",
       "album": {
-        "name": "Rocket Fuel Riddim",
-        "url": "https://open.spotify.com/album/5PeYzJOmVq0ZAo7s8FcUWz"
+        "name": "King Bubba Mashup, Vol. 1",
+        "url": "https://open.spotify.com/album/5LnZJFfnBfjKfdDEiYPRo2"
       },
       "artists": [
         {
           "name": "King Bubba Fm",
           "url": "https://open.spotify.com/artist/5c0GuKNlRiK90pq5FPaR78"
-        },
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
         }
       ],
-      "duration_ms": 177741,
-      "name": "Mechanic",
-      "url": "https://open.spotify.com/track/0KpSnoj6JDwaDoESTCmc15"
+      "duration_ms": 188372,
+      "name": "Who Drinking Rum?",
+      "url": "https://open.spotify.com/track/19yqVVWTXD85RGUk7Q0PAe"
     },
     {
       "added_at": "2024-08-05 20:03:27",

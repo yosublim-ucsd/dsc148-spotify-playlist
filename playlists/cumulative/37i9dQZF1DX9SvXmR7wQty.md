@@ -4,7 +4,7 @@
 
 > Découvrez les meilleures nouveautés francophones\. Photo: Ariane Roy
 
-3,047 songs - 6 day 17 hr 56 min
+3,048 songs - 6 day 17 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -956,6 +956,7 @@
 | [FLEUR DE PEAU](https://open.spotify.com/track/2da33m6eQRWNXEjX90HzhG) | [Berlam](https://open.spotify.com/artist/6VX0JdAybG05A8AtuPYLwN) | [ESPOIR](https://open.spotify.com/album/22Y4mOGCVw7Evz4V9RLser) | 1:40 | 2021-12-31 | 2022-01-22 |
 | [Fleur en polyéthylène](https://open.spotify.com/track/0CxBcudUcXks2r5sBXVvcr) | [Alix Fernz](https://open.spotify.com/artist/2X6rdYH1hHl3TXQCbEqOZQ) | [Bizou](https://open.spotify.com/album/274PDh5BGP9Bk2u3DoFcuj) | 3:04 | 2024-04-19 | 2024-04-27 |
 | [Fleurs](https://open.spotify.com/track/6J4sn4PN9POF1TeZiE77w2) | [Carla Chanelle](https://open.spotify.com/artist/6fcQmWO5XTN7ScLmwHYUil) | [Fleurs](https://open.spotify.com/album/1QX130cPvTixh689vkCWo4) | 2:58 | 2022-01-21 | 2022-01-29 |
+| [Flex](https://open.spotify.com/track/0LwadPsG8McSabXIITkIGF) | [Franglish](https://open.spotify.com/artist/4uJNQGa3L2frXDxwgouTIw) | [Flex](https://open.spotify.com/album/57GrVq3zhyHIZWOfKTh5md) | 2:36 | 2025-01-17 |  |
 | [Flexin'](https://open.spotify.com/track/6UTJxee5O8Js1U8mGGtCaA) | [Misa](https://open.spotify.com/artist/3KMRfMxNGZlob5zfIwwnMT), [6illy](https://open.spotify.com/artist/0Aj8bnyYF5prF06ll63cWU) | [Flexin'](https://open.spotify.com/album/77n2ksL1bIExXrYfA7E8AM) | 2:00 | 2022-02-04 | 2022-02-12 |
 | [Floating](https://open.spotify.com/track/0cp6fmWmUJTEBdwJFhHN3a) | [Dope.Gng](https://open.spotify.com/artist/3GrmxSIFXZLdfdGkk28sVE) | [Drogue maison \(Deluxe\)](https://open.spotify.com/album/5H8QMJraO6RBXz0SrNDJJH) | 2:24 | 2023-01-20 | 2023-02-04 |
 | [Flore](https://open.spotify.com/track/5cqc6vg6Gy5FeIhvxW8zlJ) | [Bkay](https://open.spotify.com/artist/5JoE2pt6hYEd4g4qq5rQHl) | [Midi Pile](https://open.spotify.com/album/7KEBFZS9FaNttzaxilVQna) | 3:09 | 2022-03-18 | 2022-04-02 |
@@ -1845,7 +1846,7 @@
 | [Mon allié](https://open.spotify.com/track/5ME26hIRIOBmaJEvqN63W9) | [Cupidon](https://open.spotify.com/artist/5iLIhZFtUFijzNwplwZtlV) | [Non coupable \(Jusqu'à preuve du contraire\)](https://open.spotify.com/album/1G7blDKlHT0LJZbBkcssoU) | 2:52 | 2021-12-31 | 2022-01-22 |
 | [Mon amour](https://open.spotify.com/track/4586PHt3JWkwRLr6pU4Myf) | [Grand Eugène](https://open.spotify.com/artist/15HoDsauDCgOxvCFijHxdT) | [Grand Eugène](https://open.spotify.com/album/60doKMH86BYnApXvT5jeic) | 3:09 | 2023-06-09 | 2023-06-17 |
 | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/track/1lLh3yUgjjt7GrtGgFdA11) | [Stromae](https://open.spotify.com/artist/5j4HeCoUlzhfWtjAfM1acR), [Camila Cabello](https://open.spotify.com/artist/4nDoRrQiYLoBzwC5BhVJzF) | [Mon amour \(with Camila Cabello\)](https://open.spotify.com/album/1SCNpF3WeEMGvZSdV1nCGa) | 3:07 | 2022-07-29 | 2022-08-27 |
-| [MON ANNÉE](https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [MON ANNÉE](https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi) | 2:28 | 2024-12-06 |  |
+| [MON ANNÉE](https://open.spotify.com/track/3XEBXXlwokkn4y0YGm1Dit) | [Guy2Bezbar](https://open.spotify.com/artist/07h4CCFmlXkwx0g4PL5Uuh) | [MON ANNÉE](https://open.spotify.com/album/4JrEjEleijkaFswcejfdCi) | 2:28 | 2024-12-06 | 2025-01-24 |
 | [Mon Argent](https://open.spotify.com/track/2S2MHKQYRA6LdBWsTb6fcK) | [Corridor](https://open.spotify.com/artist/4nn9uUq4K1vStqxe8t1CD4) | [Mon Argent](https://open.spotify.com/album/3DO7QiZvBdCRAxHt8AmVR4) | 3:37 | 2024-03-08 | 2024-03-16 |
 | [Mon barbier](https://open.spotify.com/track/4RgTeFUhjfpx1jdWkykmUY) | [Gros Big](https://open.spotify.com/artist/5lRXcS3hdIRzUO1mbJkvJ0) | [Mon barbier](https://open.spotify.com/album/6k5pHlGIzqimz199lXjrx1) | 3:06 | 2024-07-19 | 2024-07-27 |
 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 | 2023-06-16 | 2023-08-26 |

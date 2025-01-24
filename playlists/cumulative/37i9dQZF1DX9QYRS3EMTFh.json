@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Les hits dancehall du moment. Photo : Maureen x Blaiz Fayah",
+  "description": "Les hits dancehall du moment. Photo : Kalash x Damso",
   "name": "Dancehall Station",
   "tracks": [
     {
@@ -662,6 +662,32 @@
       "duration_ms": 161129,
       "name": "BAD GYAL CELLOPHANE",
       "url": "https://open.spotify.com/track/4syPUuHXu13HWYZmBMK6tJ"
+    },
+    {
+      "album": {
+        "name": "Bad Mood",
+        "url": "https://open.spotify.com/album/6maSYumXoAHdquf5PxV6mx"
+      },
+      "artists": [
+        {
+          "name": "Honey Bees",
+          "url": "https://open.spotify.com/artist/20zLDv52WlPhtq9eIZjY3L"
+        },
+        {
+          "name": "DJ Willaye",
+          "url": "https://open.spotify.com/artist/17IAAxBNBwsohceEk55zsf"
+        },
+        {
+          "name": "DJ LEGUSTE",
+          "url": "https://open.spotify.com/artist/6urR2mc8F6jvaE9Gn971se"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99918,
+      "name": "Bad Mood",
+      "url": "https://open.spotify.com/track/2JdlmlEuN0Y7otGmcR4xxP"
     },
     {
       "album": {
@@ -1396,7 +1422,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 93057,
       "name": "Bonjouw madam",
       "url": "https://open.spotify.com/track/07EhYk8xZW6gcwiBCYoQa1"
@@ -1891,6 +1917,32 @@
     },
     {
       "album": {
+        "name": "Capitaine",
+        "url": "https://open.spotify.com/album/2R1ggWo2mwiryKiGZhjCju"
+      },
+      "artists": [
+        {
+          "name": "Dj Leska",
+          "url": "https://open.spotify.com/artist/6CSKMBCeQhddsPL63zvDhX"
+        },
+        {
+          "name": "Shannon",
+          "url": "https://open.spotify.com/artist/0n0XMIJ9TmRlxUjWTEUwoH"
+        },
+        {
+          "name": "Taliixo Beatz",
+          "url": "https://open.spotify.com/artist/0zJbnxrPTqqwSac6FEHWKE"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172245,
+      "name": "Capitaine",
+      "url": "https://open.spotify.com/track/7o7phZdbsBLXcVB4nPvM2s"
+    },
+    {
+      "album": {
         "name": "Great Is He (Deluxe)",
         "url": "https://open.spotify.com/album/32vNuIiZ5Q4wh6FDsq1y0o"
       },
@@ -2335,6 +2387,32 @@
     },
     {
       "album": {
+        "name": "Cvni",
+        "url": "https://open.spotify.com/album/7H4WN465EbkdZi8IGBMzoU"
+      },
+      "artists": [
+        {
+          "name": "Shaydee's",
+          "url": "https://open.spotify.com/artist/7pRuKj6sGMBmDmmem653fg"
+        },
+        {
+          "name": "Maureen",
+          "url": "https://open.spotify.com/artist/2r78U7GOo9XMOVbpFkXtYD"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144915,
+      "name": "Cvni",
+      "url": "https://open.spotify.com/track/2m0S0wcHghSpdCHmg8YBX7"
+    },
+    {
+      "album": {
         "name": "Wordle Riddim",
         "url": "https://open.spotify.com/album/5Qzyi64m3ak0GXtcd5bemz"
       },
@@ -2492,7 +2570,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 175698,
       "name": "Dating Szn",
       "url": "https://open.spotify.com/track/36VdMAYdbvsPDxq9w4fehv"
@@ -3406,7 +3484,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 152352,
       "name": "Full Plastique",
       "url": "https://open.spotify.com/track/0iwBzyOvJUTcxkEdiTVmAs"
@@ -3598,6 +3676,28 @@
       "duration_ms": 156479,
       "name": "Ghetto R\u00e8d",
       "url": "https://open.spotify.com/track/7woCBSbM2dMJXO7glFsUS4"
+    },
+    {
+      "album": {
+        "name": "Gimme This",
+        "url": "https://open.spotify.com/album/2pzrxgfcQBTteI1blNzrup"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120076,
+      "name": "Gimme This",
+      "url": "https://open.spotify.com/track/2UBhly3ixZDOC8lVohDWnR"
     },
     {
       "album": {
@@ -6328,7 +6428,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 170522,
       "name": "Mwen ki pa bon",
       "url": "https://open.spotify.com/track/7aLyS6fndkb7vRRCD1nfPS"
@@ -8134,7 +8234,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 146448,
       "name": "Sa Pa Ayin",
       "url": "https://open.spotify.com/track/7oR6jbs9IrP4dspCvp2xpD"
@@ -10086,6 +10186,28 @@
       "duration_ms": 153000,
       "name": "Want You Back",
       "url": "https://open.spotify.com/track/1jjKMxay070xOXjse6TsGw"
+    },
+    {
+      "album": {
+        "name": "Wasav",
+        "url": "https://open.spotify.com/album/2qFVvRxEg6oAjgFCPE48wl"
+      },
+      "artists": [
+        {
+          "name": "Le J\u00e8m'ss",
+          "url": "https://open.spotify.com/artist/4jHxx44qWURhTlbw0Dmygp"
+        },
+        {
+          "name": "Mikado",
+          "url": "https://open.spotify.com/artist/41Csk4RHbXp1jnMN4NWwOE"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166530,
+      "name": "Wasav",
+      "url": "https://open.spotify.com/track/2rE51kV2cQ8qbiaSjz8Z6z"
     },
     {
       "album": {

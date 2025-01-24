@@ -4,7 +4,7 @@
 
 > Electronic tunes brought to life by South Asian samples\. Updated regularly.
 
-160 songs - 10 hr 24 min
+162 songs - 10 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Nimbu](https://open.spotify.com/track/0JaoJx1DTAr67hv0f6jlmZ) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [Nimbu](https://open.spotify.com/album/3yAtei57IWEOMO2PIh5Cua) | 4:19 | 2024-01-19 |  |
 | [O Mera Dil \- Auztin Pauers & Ezrael Remix](https://open.spotify.com/track/0c3uCMUogjcZketGoFT00v) | [Mr Raoul K](https://open.spotify.com/artist/2ErWVVcMH1io3Au40dTKnG), [Auztin Pauers](https://open.spotify.com/artist/0RgH3SericNk1hSGQ5U2wc), [Ezrael](https://open.spotify.com/artist/5JsjuFOM9BwVl1NwnjoqRL) | [African Paradigm EP II](https://open.spotify.com/album/2fLIbREX4Huvv58PJqTXFX) | 5:52 | 2024-03-22 |  |
 | [O Mera Dil \- Auztin Pauers & Ezrael Remix](https://open.spotify.com/track/6Y6XCkcKtSowCbIaH7YrMq) | [Mr Raoul K](https://open.spotify.com/artist/2ErWVVcMH1io3Au40dTKnG), [Auztin Pauers](https://open.spotify.com/artist/0RgH3SericNk1hSGQ5U2wc), [Ezrael](https://open.spotify.com/artist/5JsjuFOM9BwVl1NwnjoqRL) | [African Paradigm Ep II](https://open.spotify.com/album/6dBot76WDcy7Znhcdw0kyj) | 5:52 | 2023-08-18 | 2024-04-19 |
+| [Overbit](https://open.spotify.com/track/0looWaFJR8simVnEiLehQK) | [Baalti](https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN) | [Overbit](https://open.spotify.com/album/1FDodR6BZ79JGlyHYYzdvJ) | 3:50 | 2025-01-23 |  |
 | [Padmini Premier](https://open.spotify.com/track/1cPJtrIYLUqzKQIPZg6Fs7) | [Fake Tattoos](https://open.spotify.com/artist/6Gdx8MYQZE7RHueDcYWfqx) | [Padmini Premier](https://open.spotify.com/album/3gZcdavtizhRfTtGFleSIt) | 5:14 | 2023-08-18 | 2024-11-29 |
 | [Padosan](https://open.spotify.com/track/1eAh44Dq2pSa7SGReD5L0G) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Raxstar](https://open.spotify.com/artist/1Y1yhpLR7nThkjyf2TeQCt), [Rais Khan Project](https://open.spotify.com/artist/0UN51NcAMkNCDJgFqoO4ou) | [Padosan](https://open.spotify.com/album/2DY2Gz77vYcvL5WRGxlw7O) | 3:17 | 2024-03-22 | 2024-04-20 |
 | [Pakpak](https://open.spotify.com/track/7Kvm5VfGbb4IEwsHo4UO5Q) | [Sébastien Léger](https://open.spotify.com/artist/17j0kFtqn9Fss3D916jSlp) | [Pakpak](https://open.spotify.com/album/0tjFvdoQwSFsMZg2VOYPpm) | 3:41 | 2024-11-29 |  |
@@ -115,8 +116,9 @@
 | [Pali](https://open.spotify.com/track/51CJlM8PSO8rW77NFjbp15) | [Lost Stories](https://open.spotify.com/artist/4RCALXqxv2udxtuLatKPSi), [Avneet Khurmi](https://open.spotify.com/artist/25rYHJjDq8FFPApQnj3LXT) | [Pali](https://open.spotify.com/album/5FBaOyvLb0hJ8ahrrKnBUi) | 2:59 | 2023-08-18 |  |
 | [Pan Jabi](https://open.spotify.com/track/3wd4oqBJFIu1jjLhlWgsVw) | [Wade](https://open.spotify.com/artist/09iEIVQVBtTVjiuEdqqkIR) | [Pan Jabi](https://open.spotify.com/album/0iUrCDGe8kZITt1Gu2Jy5G) | 2:47 | 2023-08-18 |  |
 | [Papi \(Bhabi\)](https://open.spotify.com/track/2jxJzUWxqX2fnQTD9lmi2x) | [Eden Shalev](https://open.spotify.com/artist/2MqEj8zhXLsnXpWdPGBGPe) | [Papi \(Bhabi\)](https://open.spotify.com/album/3CmWvWiEAkuipFIqyhs5ps) | 5:46 | 2023-08-18 |  |
-| [Parda](https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV) | [Arjun Bajwa](https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R), [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Parda](https://open.spotify.com/album/3SMcUd4TseNNWRstFAF3Y4) | 2:59 | 2025-01-13 |  |
+| [Parda](https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV) | [Arjun Bajwa](https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R), [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Parda](https://open.spotify.com/album/3SMcUd4TseNNWRstFAF3Y4) | 2:59 | 2025-01-13 |  |
 | [Patha Patha Gugu \- Drill Remix](https://open.spotify.com/track/5kHSMRbZKyGwaSwNSRrQXV) | [Trinix Remix](https://open.spotify.com/artist/0RvjLz7klSc5lNgxX7EiVZ) | [Patha Patha Gugu \(Drill Remix\)](https://open.spotify.com/album/6UGreHTcQAYRnZCK5RO8Gr) | 2:07 | 2023-08-18 | 2023-11-02 |
+| [Punjabi Kompa](https://open.spotify.com/track/3XUeQfDlKWphVg5LFWEaRi) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Punjabi Kompa](https://open.spotify.com/album/38K1o8yxmy7ZnHr4wJaYH3) | 3:10 | 2025-01-23 |  |
 | [Rachida](https://open.spotify.com/track/3kXokE7ko4LJ1ZitycjqTa) | [Chineur](https://open.spotify.com/artist/0x7kCGAtSNcUFZ9BW4tdPc) | [Rachida](https://open.spotify.com/album/4SBKRrBetMftYOEHXovZFd) | 4:04 | 2023-11-21 |  |
 | [Rampage](https://open.spotify.com/track/5NmqFfgM0mU1ziT6L63MDV) | [Kahani](https://open.spotify.com/artist/1fu7plwfaglPCQU6y1RFfb) | [Rampage](https://open.spotify.com/album/2ocj9AhDoonurBSEu9VVQP) | 2:41 | 2023-08-18 |  |
 | [Rangila](https://open.spotify.com/track/0XUM5nnJU87hbmMCENzjEn) | [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Rangila](https://open.spotify.com/album/1ZMzNG3ds5oo1QkqMjmwzJ) | 3:05 | 2023-08-18 |  |

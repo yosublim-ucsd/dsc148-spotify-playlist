@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : EDGE",
+  "description": "Le meilleur du rap fran\u00e7ais version cloud. Photo : USKY",
   "name": "Cloud Rap",
   "tracks": [
     {
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 138947,
       "name": "CREUX",
       "url": "https://open.spotify.com/track/3yOPmyso8ca1Lej0X0HSLO"
@@ -2234,6 +2234,24 @@
       "duration_ms": 223636,
       "name": "Dans le sang",
       "url": "https://open.spotify.com/track/26ofCvzxI2u8tS1ON81mNv"
+    },
+    {
+      "album": {
+        "name": "Dans sa robe",
+        "url": "https://open.spotify.com/album/2wRAXwrFThLBJNiVHa4p7b"
+      },
+      "artists": [
+        {
+          "name": "N\u00ebo",
+          "url": "https://open.spotify.com/artist/05Q3ylpPvxuuk2ivriWAlr"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156675,
+      "name": "Dans sa robe",
+      "url": "https://open.spotify.com/track/7693z5UVLRECu1mBd1lriH"
     },
     {
       "album": {
@@ -4570,7 +4588,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 150805,
       "name": "LA TACHE",
       "url": "https://open.spotify.com/track/30kZXhm0x2j2xUAZAjWU01"
@@ -5997,6 +6015,24 @@
     },
     {
       "album": {
+        "name": "ARCHIVES",
+        "url": "https://open.spotify.com/album/5ghCW6Ev88GFWlLKMmAlP2"
+      },
+      "artists": [
+        {
+          "name": "F430",
+          "url": "https://open.spotify.com/artist/11ajgggOI6hGjR8CF53mhG"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215172,
+      "name": "NO FAKE",
+      "url": "https://open.spotify.com/track/3cCmN0nnmsuJyg8aHUkyxI"
+    },
+    {
+      "album": {
         "name": "No Love",
         "url": "https://open.spotify.com/album/6oTrv1boqK0GsoqLXbnuu8"
       },
@@ -6110,6 +6146,24 @@
       "duration_ms": 187306,
       "name": "Noum",
       "url": "https://open.spotify.com/track/6t9NUy0fxDCoctPzGJB2bf"
+    },
+    {
+      "album": {
+        "name": "Noura",
+        "url": "https://open.spotify.com/album/0k5WGJIZbLPC5M1ripJNbP"
+      },
+      "artists": [
+        {
+          "name": "USKY",
+          "url": "https://open.spotify.com/artist/0VbfTzGkMlei0XtibnO466"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143200,
+      "name": "Noura",
+      "url": "https://open.spotify.com/track/5ML4AmB7ZuUCjiIvjpc3Vn"
     },
     {
       "album": {
@@ -6966,7 +7020,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 181090,
       "name": "Porcelaine",
       "url": "https://open.spotify.com/track/54Ccfm19OqocBDEhYaFhto"

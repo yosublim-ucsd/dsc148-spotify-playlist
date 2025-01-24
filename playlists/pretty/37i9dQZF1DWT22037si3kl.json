@@ -1,6 +1,6 @@
 {
   "description": "bgl \u00e9 ser original, voc\u00eas j\u00e1 sabem. Foto: Nebrugg",
-  "num_followers": 145475,
+  "num_followers": 145484,
   "original_name": "O Drip",
   "owner": {
     "name": "Spotify",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2025-01-17 03:01:14",
       "album": {
+        "name": "Ratos",
+        "url": "https://open.spotify.com/album/1sKNUmYdg7njXd3laBtAQn"
+      },
+      "artists": [
+        {
+          "name": "Cinquenta",
+          "url": "https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb"
+        }
+      ],
+      "duration_ms": 223384,
+      "name": "Ratos",
+      "url": "https://open.spotify.com/track/5VVLXmNckkYhRdM0iN5Phj"
+    },
+    {
+      "added_at": "2025-01-17 03:01:14",
+      "album": {
         "name": "Esqueceu seu brinco",
         "url": "https://open.spotify.com/album/1lA4uaxmHZMVzqCJrHiIdZ"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 284138,
       "name": "Esqueceu seu brinco",
       "url": "https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF"
-    },
-    {
-      "added_at": "2025-01-17 03:01:14",
-      "album": {
-        "name": "Ratos",
-        "url": "https://open.spotify.com/album/1sKNUmYdg7njXd3laBtAQn"
-      },
-      "artists": [
-        {
-          "name": "Cinquenta",
-          "url": "https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb"
-        }
-      ],
-      "duration_ms": 223384,
-      "name": "Ratos",
-      "url": "https://open.spotify.com/track/5VVLXmNckkYhRdM0iN5Phj"
     },
     {
       "added_at": "2025-01-17 03:01:14",

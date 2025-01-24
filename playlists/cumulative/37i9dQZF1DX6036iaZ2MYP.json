@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Tracks popping off in the Afro scene. Cover: Dr. Yaro",
+  "description": "Tracks popping off in the Afro scene. Cover: 1da Banton",
   "name": "Afro Station",
   "tracks": [
     {
@@ -359,6 +359,24 @@
     },
     {
       "album": {
+        "name": "Ali Bomaye",
+        "url": "https://open.spotify.com/album/1B7xewToSrEgG5AtuISwdx"
+      },
+      "artists": [
+        {
+          "name": "Qing Madi",
+          "url": "https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148846,
+      "name": "Ali Bomaye",
+      "url": "https://open.spotify.com/track/69ljijBlGBQ82ce3SidtVu"
+    },
+    {
+      "album": {
         "name": "Alinko",
         "url": "https://open.spotify.com/album/2emgoSO0tHVlIv8s4fprne"
       },
@@ -378,6 +396,28 @@
       "duration_ms": 149387,
       "name": "Alinko",
       "url": "https://open.spotify.com/track/0aUYRTlB5OkYf2MIpjWVgm"
+    },
+    {
+      "album": {
+        "name": "All Over You",
+        "url": "https://open.spotify.com/album/14H3fiskpQWJasXznFiSkx"
+      },
+      "artists": [
+        {
+          "name": "Mabel",
+          "url": "https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157905,
+      "name": "All Over You",
+      "url": "https://open.spotify.com/track/4Hf4m5aPeoXxxhDR29PnWO"
     },
     {
       "album": {
@@ -1070,7 +1110,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 172710,
       "name": "BABY OKU (feat. Fiokee)",
       "url": "https://open.spotify.com/track/08Awv5MoR9qQNdCWrGi7I2"
@@ -1300,6 +1340,46 @@
       "duration_ms": 178225,
       "name": "Bandana",
       "url": "https://open.spotify.com/track/5CTQCPv51aLWpwTbqo8mEL"
+    },
+    {
+      "album": {
+        "name": "Bara",
+        "url": "https://open.spotify.com/album/38cQt1gamlqUPYgbS7gVtg"
+      },
+      "artists": [
+        {
+          "name": "Sonik",
+          "url": "https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119512,
+      "name": "Bara",
+      "url": "https://open.spotify.com/track/5rJ0db9ehcLPtn3ZklDBIL"
+    },
+    {
+      "album": {
+        "name": "Baroud",
+        "url": "https://open.spotify.com/album/21kX5kZ2piSFNxwlGsytyX"
+      },
+      "artists": [
+        {
+          "name": "Hustle",
+          "url": "https://open.spotify.com/artist/1L5bAK9LJyz4ef1QIn1n1N"
+        },
+        {
+          "name": "Valentino Ignoto",
+          "url": "https://open.spotify.com/artist/33gzH4UlGKuY3GIoiukLin"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149846,
+      "name": "Baroud",
+      "url": "https://open.spotify.com/track/5ScCoHKZFv9RGkJVO374uE"
     },
     {
       "album": {
@@ -1932,7 +2012,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 126991,
       "name": "Cadeau",
       "url": "https://open.spotify.com/track/5H3QQGofiILSdRvB8AJgYL"
@@ -2236,7 +2316,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 142702,
       "name": "CHERRY",
       "url": "https://open.spotify.com/track/2fcti4G9MP1YWqbusdkode"
@@ -4538,7 +4618,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 189411,
       "name": "Focus On Me (All The Sexy Girls In The Club)",
       "url": "https://open.spotify.com/track/7JMkjelaEgUOdV7926uzGi"
@@ -5593,6 +5673,28 @@
     },
     {
       "album": {
+        "name": "ILEBOGUS (feat. MASIDI)",
+        "url": "https://open.spotify.com/album/4Nu6IaJVHgala5CKqyjPwl"
+      },
+      "artists": [
+        {
+          "name": "1da Banton",
+          "url": "https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb"
+        },
+        {
+          "name": "MASIDI",
+          "url": "https://open.spotify.com/artist/2ZfpJTfi4q60zRUFWhll73"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161626,
+      "name": "ILEBOGUS (feat. MASIDI)",
+      "url": "https://open.spotify.com/track/3H3SnLZImZuFhlstOt7SXj"
+    },
+    {
+      "album": {
         "name": "IN MY BED",
         "url": "https://open.spotify.com/album/3FgnEyop6crJ7ZJ4n82txz"
       },
@@ -6001,6 +6103,24 @@
     },
     {
       "album": {
+        "name": "Joggo",
+        "url": "https://open.spotify.com/album/3aHKB7ZOSuBfFT9RXszUh4"
+      },
+      "artists": [
+        {
+          "name": "LIMO",
+          "url": "https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125149,
+      "name": "Joggo",
+      "url": "https://open.spotify.com/track/3gextgNvDkHs14UqZCL5TR"
+    },
+    {
+      "album": {
         "name": "Jogo",
         "url": "https://open.spotify.com/album/1OBCMQSmPvSFbajPbc2eG8"
       },
@@ -6336,7 +6456,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 179368,
       "name": "Kitoko",
       "url": "https://open.spotify.com/track/0lYgAmPl56UiNMBme18iYW"
@@ -7494,7 +7614,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 143187,
       "name": "Marhaba",
       "url": "https://open.spotify.com/track/5FzsdlFgAFN1aSe9YwoN6s"
@@ -11483,6 +11603,24 @@
     },
     {
       "album": {
+        "name": "TANA",
+        "url": "https://open.spotify.com/album/05v7EAm5EAd6J9cRn6fsIO"
+      },
+      "artists": [
+        {
+          "name": "Driks",
+          "url": "https://open.spotify.com/artist/3mTLkUsH6xz7b0UjcNcVsN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "TANA",
+      "url": "https://open.spotify.com/track/6RDrc4UiQJil91rjirZ0ka"
+    },
+    {
+      "album": {
         "name": "Tanzania",
         "url": "https://open.spotify.com/album/3line3IHxaBqcjloHs4ZKN"
       },
@@ -11972,7 +12110,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 170381,
       "name": "Tragedy",
       "url": "https://open.spotify.com/track/0kEiLfatrp6CplVGPcVyde"

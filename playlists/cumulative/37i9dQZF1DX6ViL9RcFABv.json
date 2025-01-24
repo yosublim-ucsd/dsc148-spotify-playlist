@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Uma playlist de pura alma pop! Foto: Mariana Pereira",
+  "description": "Uma playlist de pura alma pop! Foto: Carolina Deslandes",
   "name": "Pop PT",
   "tracks": [
     {
@@ -1098,7 +1098,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 209290,
       "name": "Deusa",
       "url": "https://open.spotify.com/track/7F8XNJe7D9qo53ee9GPlOQ"
@@ -2394,6 +2394,24 @@
       "duration_ms": 179436,
       "name": "N\u00e3o \u00e9s tu, sou eu",
       "url": "https://open.spotify.com/track/6vmouKTLdfvqj29t5LUe8d"
+    },
+    {
+      "album": {
+        "name": "O Primeiro Passo",
+        "url": "https://open.spotify.com/album/7MeBlSMhQQTEacw8rny1ML"
+      },
+      "artists": [
+        {
+          "name": "Marisa Liz",
+          "url": "https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133160,
+      "name": "O Primeiro Passo",
+      "url": "https://open.spotify.com/track/7u4tr8k7HFiip4CbWviLiZ"
     },
     {
       "album": {

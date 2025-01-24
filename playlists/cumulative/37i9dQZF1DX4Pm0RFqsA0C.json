@@ -2200,7 +2200,7 @@
       ],
       "date_added": "2021-02-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 226040,
       "name": "\uae38 Road",
       "url": "https://open.spotify.com/track/7yVjKxpZ0FtIr8shugrsv1"
@@ -3382,6 +3382,24 @@
       "duration_ms": 212102,
       "name": "\ucde8\uc911\ub3c5\ubc31",
       "url": "https://open.spotify.com/track/10NjmmWGZGV6WLy8yVpV4K"
+    },
+    {
+      "album": {
+        "name": "Seotaiji and Boys IV",
+        "url": "https://open.spotify.com/album/0ZXxFD3M2fudrUCVucROPD"
+      },
+      "artists": [
+        {
+          "name": "Seo Taiji and Boys",
+          "url": "https://open.spotify.com/artist/52Gsa9Zypqztm2DeNkQfCm"
+        }
+      ],
+      "date_added": "2024-04-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233848,
+      "name": "\ucef4\ubc31\ud648 Come Back Home",
+      "url": "https://open.spotify.com/track/4a74IHB2h7ESieAevVCdkc"
     },
     {
       "album": {

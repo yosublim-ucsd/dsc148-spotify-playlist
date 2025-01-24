@@ -1,13 +1,85 @@
 {
   "description": "New and trending dance hits released by Spinnin' Records and its sublabels. For more new Dance, click <a href=\"https://open.spotify.com/playlist/7FspvXYqFgcUdxn479q2pr?si=b45626bb4f804244\">here</a>. Cover: Mollie Collins",
-  "num_followers": 120576,
+  "num_followers": 120581,
   "original_name": "Spinnin' Records Brand New",
   "owner": {
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAAepbGHTzelbBRnyt6RZ4/PyHhoo6jx",
+  "snapshot_id": "AAAerZZo/++Hv/Ng5HH/DGFxdJME/4Fl",
   "tracks": [
+    {
+      "added_at": "2025-01-23 12:56:10",
+      "album": {
+        "name": "Night In Detroit (feat. Fedde Le Grand)",
+        "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "duration_ms": 166356,
+      "name": "Night In Detroit (feat. Fedde Le Grand)",
+      "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
+    },
+    {
+      "added_at": "2025-01-23 12:56:10",
+      "album": {
+        "name": "After The Opera",
+        "url": "https://open.spotify.com/album/0Fc51KziL9dQGphoiRYQaR"
+      },
+      "artists": [
+        {
+          "name": "Jude York",
+          "url": "https://open.spotify.com/artist/45rU7cVYKit4k8Wq95SHED"
+        }
+      ],
+      "duration_ms": 180413,
+      "name": "After The Opera",
+      "url": "https://open.spotify.com/track/2yeTcMb9sYIYvZm7JZu770"
+    },
+    {
+      "added_at": "2025-01-23 12:56:10",
+      "album": {
+        "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+        "url": "https://open.spotify.com/album/2OPAXOtXreC4YAx09pDtiD"
+      },
+      "artists": [
+        {
+          "name": "SOMETHING ELSE",
+          "url": "https://open.spotify.com/artist/0OJlOf2aa3J8a38xACGZY4"
+        },
+        {
+          "name": "Stephan Jolk",
+          "url": "https://open.spotify.com/artist/7w0ddx9rFndvpiqO1VOxJM"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "BaianaSystem",
+          "url": "https://open.spotify.com/artist/5JHYuwE2n7bleXMUsmtCW5"
+        },
+        {
+          "name": "Kawz",
+          "url": "https://open.spotify.com/artist/3Ssa7dgmwF4SQOvCF2lsYB"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "Mi\u00e7anga (feat. BaianaSystem) [with Alok, Kawz]",
+      "url": "https://open.spotify.com/track/6wYfIm7ZNahRFw8c9QL3st"
+    },
     {
       "added_at": "2025-01-16 11:37:55",
       "album": {
@@ -85,6 +157,90 @@
       "url": "https://open.spotify.com/track/3gqTiLe1LF3fQ9a5ua8Zsq"
     },
     {
+      "added_at": "2025-01-23 12:56:10",
+      "album": {
+        "name": "Addiction (feat. KEL)",
+        "url": "https://open.spotify.com/album/7kZtUDcUxaXy8oDoprzzFK"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Zen/it",
+          "url": "https://open.spotify.com/artist/5HirplYzqe2d6nvqIskR82"
+        },
+        {
+          "name": "KEL",
+          "url": "https://open.spotify.com/artist/7tYjk2vuV96DmlpEHLlw05"
+        }
+      ],
+      "duration_ms": 156000,
+      "name": "Addiction (feat. KEL)",
+      "url": "https://open.spotify.com/track/7GgpGxQmLLLEPj1c556hdP"
+    },
+    {
+      "added_at": "2025-01-23 12:56:10",
+      "album": {
+        "name": "Lift Me Up",
+        "url": "https://open.spotify.com/album/7J61Uu0AG8bKc3hW2QkUse"
+      },
+      "artists": [
+        {
+          "name": "Lucas & Steve",
+          "url": "https://open.spotify.com/artist/5wwneIFdawNgQ7GvKK29Z3"
+        },
+        {
+          "name": "Maynamic",
+          "url": "https://open.spotify.com/artist/59tEd7UdrbizecKsQGcSAL"
+        },
+        {
+          "name": "Edd Blaze",
+          "url": "https://open.spotify.com/artist/3cySvdUfWyFpkVC5pVD5wb"
+        }
+      ],
+      "duration_ms": 150454,
+      "name": "Lift Me Up",
+      "url": "https://open.spotify.com/track/0LBGk4xW093mDP7u1nVAdt"
+    },
+    {
+      "added_at": "2025-01-23 12:56:10",
+      "album": {
+        "name": "Cry (Just A Little)",
+        "url": "https://open.spotify.com/album/2d47tIZyYSbTAQQwtRzITS"
+      },
+      "artists": [
+        {
+          "name": "Steff da Campo",
+          "url": "https://open.spotify.com/artist/7Bo6vpAmmhylCRWoHSBkcZ"
+        },
+        {
+          "name": "Robbie Mendez",
+          "url": "https://open.spotify.com/artist/1CEqpjEq6n8O8zte6YvOTM"
+        }
+      ],
+      "duration_ms": 181475,
+      "name": "Cry (Just A Little)",
+      "url": "https://open.spotify.com/track/1iKJxbCsI4fYDKb0yuLSdX"
+    },
+    {
+      "added_at": "2025-01-16 11:37:55",
+      "album": {
+        "name": "The Rhythm",
+        "url": "https://open.spotify.com/album/67ZkHThH8dM6Yt3vaU4SaZ"
+      },
+      "artists": [
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        }
+      ],
+      "duration_ms": 152954,
+      "name": "The Rhythm",
+      "url": "https://open.spotify.com/track/5XOwgvuIpCqCIMnL1sbTB8"
+    },
+    {
       "added_at": "2025-01-09 13:47:20",
       "album": {
         "name": "A Gira",
@@ -139,22 +295,6 @@
       "duration_ms": 161029,
       "name": "Cream",
       "url": "https://open.spotify.com/track/0DQiMuw802BljfUAbU8uxd"
-    },
-    {
-      "added_at": "2025-01-16 11:37:55",
-      "album": {
-        "name": "The Rhythm",
-        "url": "https://open.spotify.com/album/67ZkHThH8dM6Yt3vaU4SaZ"
-      },
-      "artists": [
-        {
-          "name": "Alle Farben",
-          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
-        }
-      ],
-      "duration_ms": 152954,
-      "name": "The Rhythm",
-      "url": "https://open.spotify.com/track/5XOwgvuIpCqCIMnL1sbTB8"
     },
     {
       "added_at": "2025-01-16 11:37:55",

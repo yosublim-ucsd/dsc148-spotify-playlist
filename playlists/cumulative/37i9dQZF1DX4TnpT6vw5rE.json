@@ -1643,6 +1643,24 @@
     },
     {
       "album": {
+        "name": "Each And Every One Of Us",
+        "url": "https://open.spotify.com/album/0WUsUaFl6iJr3O0dAHT5l6"
+      },
+      "artists": [
+        {
+          "name": "Mindful Collage",
+          "url": "https://open.spotify.com/artist/2wSWfeN8qUOfZnkYI4Rd2M"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244000,
+      "name": "Each And Every One Of Us",
+      "url": "https://open.spotify.com/track/3yAkMJkc2Kzn6FCjaMIokZ"
+    },
+    {
+      "album": {
         "name": "Enamorados",
         "url": "https://open.spotify.com/album/2YcUBptGA3lrTKQXs02xYy"
       },
@@ -3538,7 +3556,7 @@
       ],
       "date_added": "2023-04-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 144000,
       "name": "Opulence",
       "url": "https://open.spotify.com/track/4auTt6uBgN6DjyS3xIi7zZ"

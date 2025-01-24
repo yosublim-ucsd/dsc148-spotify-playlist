@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Aftershine",
+  "description": "Sopo wae sing ngerti, yuk nyanyi sik. Cover: Sela Good, Hendra Kumbara",
   "name": "Boso Jowo",
   "tracks": [
     {
@@ -432,7 +432,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 306141,
       "name": "Angel Pol",
       "url": "https://open.spotify.com/track/0bGU5vDSFhtfXMW4Hjjnmx"
@@ -922,7 +922,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 291751,
       "name": "Candu",
       "url": "https://open.spotify.com/track/1ZeyqWBDfQT3FREDYcU78f"
@@ -2004,7 +2004,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 265846,
       "name": "Ikhlas (Dalan Kauman) - Acoustic Version",
       "url": "https://open.spotify.com/track/6VL1TdL1Er4fqCqXwQwtBW"
@@ -2110,7 +2110,7 @@
       ],
       "date_added": "2024-08-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 324324,
       "name": "Ingin Temu",
       "url": "https://open.spotify.com/track/0ofkvv0WuX32M6fYJ1KILI"
@@ -2870,7 +2870,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 318411,
       "name": "Kisinan",
       "url": "https://open.spotify.com/track/5qcoVIjY77n3TGcvFCBuq7"
@@ -4949,6 +4949,28 @@
     },
     {
       "album": {
+        "name": "Nresnani (Live)",
+        "url": "https://open.spotify.com/album/3y0vZoaZSFnOIpxLBLS5zm"
+      },
+      "artists": [
+        {
+          "name": "Lavora",
+          "url": "https://open.spotify.com/artist/6g7rgHXRnw8trLFXSnhue4"
+        },
+        {
+          "name": "Damara De",
+          "url": "https://open.spotify.com/artist/0ZrpjSmeaK6iY14eZFx5dF"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297684,
+      "name": "Nresnani - Live",
+      "url": "https://open.spotify.com/track/1IfAosWldds6JTWe10R7b1"
+    },
+    {
+      "album": {
         "name": "Nutupi Laraku",
         "url": "https://open.spotify.com/album/1QxCes90f7uLhU6swcCyHw"
       },
@@ -5622,7 +5644,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 347307,
       "name": "Penipu Alus",
       "url": "https://open.spotify.com/track/0RVSJkjr28qzTOiMKm1Tpl"
@@ -7582,7 +7604,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 341466,
       "name": "Tanpo Walesan",
       "url": "https://open.spotify.com/track/1AK4Fb4DP1WVgISoFPm0gT"
@@ -7806,6 +7828,28 @@
       "duration_ms": 319389,
       "name": "Titeni Lan Enteni",
       "url": "https://open.spotify.com/track/6ePCWoLPDuJ4wHVNJvz5dh"
+    },
+    {
+      "album": {
+        "name": "Titenono",
+        "url": "https://open.spotify.com/album/6zmRMEEd3eISXcKdrGrQTN"
+      },
+      "artists": [
+        {
+          "name": "Sela Good",
+          "url": "https://open.spotify.com/artist/1mS5KkfEKjRdYti1qYfszu"
+        },
+        {
+          "name": "Hendra Kumbara",
+          "url": "https://open.spotify.com/artist/2n5g6GMUmSCommxT8NHNPa"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252923,
+      "name": "Titenono",
+      "url": "https://open.spotify.com/track/2NKsXTHW8jo1uhKk39jA9Z"
     },
     {
       "album": {

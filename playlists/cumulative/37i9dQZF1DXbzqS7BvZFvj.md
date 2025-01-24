@@ -2,9 +2,9 @@
 
 ### [Frontline \-ヒップホップ最前線\-](https://open.spotify.com/playlist/37i9dQZF1DXbzqS7BvZFvj)
 
-> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Central Cee & 21 Savage
+> 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Central Cee
 
-1,004 songs - 2 day 2 hr 55 min
+1,005 songs - 2 day 2 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -492,6 +492,7 @@
 | [Lil Yea](https://open.spotify.com/track/1MLZBL9ZTB4PiPmfjtkMda) | [Kevin Gates](https://open.spotify.com/artist/1gPhS1zisyXr5dHTYZyiMe) | [The Ceremony](https://open.spotify.com/album/3GTWAs19Lb1OVnPeFxc3l4) | 3:24 | 2024-01-25 | 2024-02-02 |
 | [lil' freak](https://open.spotify.com/track/6guIMfoWJvsCXQxNsAtWPN) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [lil' freak](https://open.spotify.com/album/3sEThxFC8DglKnXEokpmww) | 2:48 | 2024-03-28 | 2024-09-06 |
 | [Lilypad](https://open.spotify.com/track/2TVbyt1fENms720Vpobtwh) | [Wiki](https://open.spotify.com/artist/78X7quh8fqAGZ42OpLmUW0), [Tony Seltzer](https://open.spotify.com/artist/3xLOLsGCDyUCj1L9W5fUpl) | [Lilypad](https://open.spotify.com/album/5cdIXp8gnJBs0EX1zpGEd8) | 3:57 | 2023-11-09 | 2023-12-09 |
+| [Limitless](https://open.spotify.com/track/25fvND4h7BT76CB77Mjsm3) | [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [CAN'T RUSH GREATNESS](https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU) | 3:21 | 2025-01-23 |  |
 | [Liquor and Weed](https://open.spotify.com/track/0o4HDwcuJ6RVHVtcOGq8rB) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s) | [Blue Moon](https://open.spotify.com/album/55LEmUjDllfMjPxzSSm4HU) | 2:37 | 2023-08-31 | 2023-09-29 |
 | [Lismar: Bzrp Music Sessions, Vol\. 60](https://open.spotify.com/track/6clUGlB6OfxAPHWyaWkIDd) | [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [YO SOY LA MODA](https://open.spotify.com/album/1yNzO3pSJor6rZuhs3kgdG) | 2:51 | 2024-05-23 | 2024-07-13 |
 | [Little Foot Big Foot \(feat\. Young Nudy\)](https://open.spotify.com/track/1SdqlTmK9P97PntBQrtf85) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL), [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1) | [Atavista](https://open.spotify.com/album/692R05mxz7V6eOFoj5PMlQ) | 3:46 | 2024-05-16 | 2024-07-05 |

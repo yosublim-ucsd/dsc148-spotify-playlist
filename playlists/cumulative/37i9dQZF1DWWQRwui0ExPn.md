@@ -4,7 +4,7 @@
 
 > chill beats, lofi vibes, new tracks every week...
 
-7,162 songs - 11 day 7 hr 27 min
+7,163 songs - 11 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -786,6 +786,7 @@
 | [bonsai](https://open.spotify.com/track/6sL97yetJIgJkrYAoGyMWS) | [kubi](https://open.spotify.com/artist/5E5wzPGQXxMIWYNhoYjZ2O) | [bonsai](https://open.spotify.com/album/4T9u3iusKSqF9ohlOHlGUD) | 2:48 | 2022-03-11 | 2022-08-12 |
 | [bonsai](https://open.spotify.com/track/1P9K1Z3DMdrN4AJNfS0HOV) | [nikk.](https://open.spotify.com/artist/0s8bZjPXviY1jTsu8ljegH) | [bonsai](https://open.spotify.com/album/4acexeaBUU3tsASa9cJ7lI) | 1:48 | 2023-08-25 | 2024-03-08 |
 | [Bonsai Cutter](https://open.spotify.com/track/7IkDHrz6YhuO5rQqpVSQwv) | [Smoke Trees](https://open.spotify.com/artist/6cN5TvotJoRbhYHoCHw8BI) | [Bonsai Cutter](https://open.spotify.com/album/1HvIkbjw3C33Ab6k4WQYnz) | 1:39 | 2022-12-23 | 2023-04-28 |
+| [bonsai tree](https://open.spotify.com/track/2elZGZcZ0Rew43UjsxidHu) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [bonsai tree](https://open.spotify.com/album/1pKgXP8UCSJV0sxewk2Dm7) | 2:17 | 2025-01-17 |  |
 | [Book Club](https://open.spotify.com/track/24Tds2HlMPCUB7lTXKsPKZ) | [Rosia!](https://open.spotify.com/artist/1CWzJQYVTc2Sdkz9Thq4Zu) | [Start Your Own Band!](https://open.spotify.com/album/1bvysO1AHauiGWGrVQHLhK) | 2:55 | 2022-02-14 | 2022-07-22 |
 | [bookmark](https://open.spotify.com/track/5SYXDXkDnkIzdVjwtCw5J9) | [flamingo zamperoni](https://open.spotify.com/artist/3ru7BkhVCEo3lsGNLHzhtz), [Viva Alpagua Lo\-Fi](https://open.spotify.com/artist/09299wIN3W2Zx2NnPKgUGd) | [bookmark](https://open.spotify.com/album/3iZraU38VPUIFAbxSQ4S5y) | 2:03 | 2023-04-05 | 2023-11-24 |
 | [bookworn](https://open.spotify.com/track/6tnQHLy3sz7QNLBsYCpDnn) | [yellow sofa](https://open.spotify.com/artist/00zktRPsRiNCP7GWXXi9Jc) | [bookworn](https://open.spotify.com/album/3jSoRUUVr4fHrpaFVRB3V9) | 2:05 | 2024-03-15 |  |
@@ -1027,7 +1028,7 @@
 | [Cashmere](https://open.spotify.com/track/1vWaSsuHYVTiIYGA2SNWrZ) | [Karavelo](https://open.spotify.com/artist/1urkG0cqnV7Jjhdv4O9D3f) | [Ghost Lover](https://open.spotify.com/album/6qNi3Wo7edWEzqakWhCFJx) | 1:22 | 2020-04-08 | 2021-09-04 |
 | [cashmere](https://open.spotify.com/track/47MNGiSMKGEEnI7DAP3BwJ) | [Zatsuma](https://open.spotify.com/artist/5JqlGSeCW5ifXQriLDHTwe) | [cashmere](https://open.spotify.com/album/2T7h564gMHHqw5R5wcAO8y) | 2:22 | 2023-09-29 |  |
 | [Cashmere Canopy](https://open.spotify.com/track/6CWZjq6bg4U9BrNwMgKkrP) | [Louk](https://open.spotify.com/artist/6ljotXgL1sbhiI7aiF7W8O), [DESH](https://open.spotify.com/artist/6nJ2MPazBFrwU07sGCpdcO), [delaney.](https://open.spotify.com/artist/33mF58EgWRWcLJWIddSH7h) | [Canopy](https://open.spotify.com/album/0wbmXJtXiaTjgKd8SG6JK1) | 2:54 | 2021-10-20 | 2022-04-24 |
-| [castle top](https://open.spotify.com/track/7MvfJKi7f053Hoqtmitdg9) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [castle top](https://open.spotify.com/album/1N5hpy04EHnv5n8FyhQVUT) | 2:35 | 2023-12-08 |  |
+| [castle top](https://open.spotify.com/track/7MvfJKi7f053Hoqtmitdg9) | [Fourth Eye](https://open.spotify.com/artist/6rRi2CL7CAJPlreLloPwxY) | [castle top](https://open.spotify.com/album/1N5hpy04EHnv5n8FyhQVUT) | 2:35 | 2023-12-08 | 2025-01-24 |
 | [Casual Games](https://open.spotify.com/track/1hF99tJ0UBNCX6lu54sO8R) | [Choftus Leek](https://open.spotify.com/artist/5oc0NyRrTn4F7cVJg1rTdl) | [Casual Games](https://open.spotify.com/album/1vazSHC7X7lcMoi59Ugr88) | 1:44 | 2022-11-18 | 2024-05-25 |
 | [Cat Dreams](https://open.spotify.com/track/5W4ghWlffStUfiem9zS90m) | [Kuranes](https://open.spotify.com/artist/3BU4UGbnzKAtkq79Y1MW0e) | [Fuyumeku](https://open.spotify.com/album/4FbaGBcNgZ0PyjtuTZJirF) | 1:39 | 2021-12-03 | 2022-06-17 |
 | [Cat Goes Moo](https://open.spotify.com/track/5Tm202gbNM0ldQERppA9me) | [Joe Nora](https://open.spotify.com/artist/2ShIqcIbteAk5jwdZzF2NZ), [Sxmniak](https://open.spotify.com/artist/0NIcjfmIXKx1cOpF0VSLVr) | [Cat Goes Moo](https://open.spotify.com/album/6PeJsC6ozLKqIrFuBYw5SX) | 2:11 | 2019-06-19 | 2020-06-11 |
@@ -1805,7 +1806,7 @@
 | [Earth](https://open.spotify.com/track/2APhx63Q8xpqlQ1lkomqTO) | [Beaumont](https://open.spotify.com/artist/50hbsxvYzqYMuR8JsZDOEK) | [Earth](https://open.spotify.com/album/1fhepsHiihwTlCXEn178yj) | 1:39 | 2020-01-22 | 2021-08-22 |
 | [Earthbound](https://open.spotify.com/track/4baLGs5TYV3vFHD4CYGP14) | [Paper Street Company](https://open.spotify.com/artist/7eAeNjHH0huqLZQheCLXT7) | [Earthbound](https://open.spotify.com/album/7AzAjY4eD0Byk8IbETlyVH) | 2:22 | 2022-11-11 | 2023-02-15 |
 | [Ease](https://open.spotify.com/track/34il4rHqsYCm7LnJ7y4GTZ) | [Oslo](https://open.spotify.com/artist/7ifB9W0rZFGLiYcisBM9fC) | [Ease](https://open.spotify.com/album/1fRUxzvdPUiqKjsxsMDftk) | 2:15 | 2022-02-14 | 2022-07-22 |
-| [east](https://open.spotify.com/track/4DvhXIz1GekL4TtXrEhDG1) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [east](https://open.spotify.com/album/5uklZMjdtlUd00mYFGxDLy) | 2:25 | 2024-01-26 | 2025-01-23 |
+| [east](https://open.spotify.com/track/4DvhXIz1GekL4TtXrEhDG1) | [Mathis](https://open.spotify.com/artist/19MFUmiYwTLD77ECnzbVWa) | [east](https://open.spotify.com/album/5uklZMjdtlUd00mYFGxDLy) | 2:25 | 2024-01-26 |  |
 | [easy](https://open.spotify.com/track/4YNtYgPcytfX1yUqf9yXOI) | [Billy Hammer](https://open.spotify.com/artist/5xeMVXkveG9VsUdcZweo3N) | [easy](https://open.spotify.com/album/1o1wxZuFPoa3eevWJVHnOh) | 1:21 | 2020-06-16 | 2021-10-02 |
 | [Easy](https://open.spotify.com/track/3tsA89ew9UKnNL1O5PAOL2) | [Fed Nance](https://open.spotify.com/artist/2aeZ4vysvCWfhqaHHLWzdm) | [Easy](https://open.spotify.com/album/2HJonL9q1xMZA8dXxMR9bH) | 1:34 | 2022-04-23 | 2022-09-16 |
 | [Easy Lovin](https://open.spotify.com/track/6ah6UtxQwaMdQFq78GuMI7) | [Thelonious Coltrane](https://open.spotify.com/artist/6iXZPP5qLB2dtIQ4WuNk9M) | [Easy Lovin](https://open.spotify.com/album/15TxEnIDYL4JVjDZ7r3gzh) | 2:33 | 2022-03-11 | 2022-08-12 |
@@ -3867,7 +3868,7 @@
 | [Melt](https://open.spotify.com/track/63q1dd02dA3rd9edigSUoZ) | [eze east](https://open.spotify.com/artist/6YzTTKadB6WR8IWvDoZNth) | [Melt](https://open.spotify.com/album/3DIVjgLOSD8HeuNaIIEJzS) | 2:06 | 2023-10-06 |  |
 | [Meltdown](https://open.spotify.com/track/4gLJWrqUpHLaiDH7K276l9) | [Arlos](https://open.spotify.com/artist/5PU5cwPems7pVldrGo4Bs5) | [Meltdown](https://open.spotify.com/album/3fedlhIrSKvzsgd8MV7sEg) | 3:24 | 2023-10-13 |  |
 | [Melted Sidewalk](https://open.spotify.com/track/0d4ZPBFr0vTDQcKj8sAVwt) | [Zupa Fitz](https://open.spotify.com/artist/4MWkjSKrSjby7g8N96hwFg) | [Melted Sidewalk](https://open.spotify.com/album/1ELHePM6qlzvB0I5l9rDTL) | 3:20 | 2024-01-12 |  |
-| [Melter](https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Melter](https://open.spotify.com/album/5VLS0IbcWUgItDEYeSCDJw) | 2:33 | 2024-03-01 |  |
+| [Melter](https://open.spotify.com/track/5HoXyhnvk6Y0kXCXVDbMKQ) | [Duos On Mars](https://open.spotify.com/artist/22xfcNHhnZQfa6BWd209Az) | [Melter](https://open.spotify.com/album/5VLS0IbcWUgItDEYeSCDJw) | 2:33 | 2024-03-01 | 2025-01-24 |
 | [Melting](https://open.spotify.com/track/4QvdOlz6E05lpdtTvS9ZaT) | [Cyber Bloom](https://open.spotify.com/artist/3zeayfTUAD4ekNKbjFmRA7) | [Melting](https://open.spotify.com/album/4L4NHeuZXzT1Os2eL2MSAL) | 2:03 | 2024-08-23 | 2024-09-18 |
 | [melting clocks](https://open.spotify.com/track/7hlKb8BmabyAANk2fVxu7R) | [Moody.](https://open.spotify.com/artist/0qdK6GuCLLmh5VHMsozhyb) | [melting clocks](https://open.spotify.com/album/4TwRqwqGIfYW8WDHiLO6Te) | 2:21 | 2022-07-08 | 2022-10-21 |
 | [memorias](https://open.spotify.com/track/1nW1JlpnXEbt1eyuchf1kI) | [B dom](https://open.spotify.com/artist/2nujsN5GOUO3lhuVJF00N5) | [memorias](https://open.spotify.com/album/2M92XDZKrz7IcKLUJkanGM) | 1:48 | 2022-09-02 | 2022-12-03 |

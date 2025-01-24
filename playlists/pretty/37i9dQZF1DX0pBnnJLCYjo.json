@@ -1,12 +1,12 @@
 {
   "description": "La imaginaci\u00f3n es nuestro primer privilegio, inexplicable como el azar que la provoca. Es la felicidad de lo inesperado.",
-  "num_followers": 83796,
+  "num_followers": 84035,
   "original_name": "delulu mexikno",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z5EaowAAAAAajYtHBr9fbvuKtBptRMoU",
+  "snapshot_id": "Z5LfeQAAAAATAAq+CYyYfIXv63Nx7Ojq",
   "tracks": [
     {
       "added_at": "2025-01-22 16:19:47",
@@ -185,6 +185,22 @@
       "url": "https://open.spotify.com/track/3oJhbB8LrDTCNj35lwdtxf"
     },
     {
+      "added_at": "2025-01-24 00:31:53",
+      "album": {
+        "name": "Rude",
+        "url": "https://open.spotify.com/album/4jMiWN33MIC6xgA3EoRpxh"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 149350,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/68UQzKNQ61Zc4nLwHRikSX"
+    },
+    {
       "added_at": "2025-01-22 16:19:47",
       "album": {
         "name": "Pura Pieza De Mi Gusto, Vol. 2",
@@ -215,6 +231,22 @@
       "duration_ms": 323625,
       "name": "Es Que Yo Te Quiero A Ti",
       "url": "https://open.spotify.com/track/7KvX1d2BMXXLXt3Kuq5atu"
+    },
+    {
+      "added_at": "2025-01-24 00:31:53",
+      "album": {
+        "name": "Ambiciones",
+        "url": "https://open.spotify.com/album/7vGR7HsVhp03wQP3m3IjO7"
+      },
+      "artists": [
+        {
+          "name": "JPL",
+          "url": "https://open.spotify.com/artist/618X9qfrn7Cu3dQ17TBEWd"
+        }
+      ],
+      "duration_ms": 180357,
+      "name": "Sabor A Mi",
+      "url": "https://open.spotify.com/track/4XCKI9NV1JAcDg3bF5j8vK"
     },
     {
       "added_at": "2024-10-09 18:40:05",
@@ -355,6 +387,22 @@
       "duration_ms": 234592,
       "name": "Mentiras",
       "url": "https://open.spotify.com/track/3jRZg6U0m9Ir115Wt66ebU"
+    },
+    {
+      "added_at": "2025-01-24 00:31:53",
+      "album": {
+        "name": "Maybe",
+        "url": "https://open.spotify.com/album/4sKTf9MhkKpgCGZb5aFtJH"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 189683,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/2QrCGyJAPhjiky7P0SQJHy"
     },
     {
       "added_at": "2024-12-03 23:49:05",
@@ -1235,22 +1283,6 @@
     {
       "added_at": "2024-10-09 18:40:05",
       "album": {
-        "name": "lagunas",
-        "url": "https://open.spotify.com/album/1pCNxr8UOeAaWuJ67ZFsfx"
-      },
-      "artists": [
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 219080,
-      "name": "lagunas",
-      "url": "https://open.spotify.com/track/4lB3bD59ItctK9ii4Thy3y"
-    },
-    {
-      "added_at": "2024-10-09 18:40:05",
-      "album": {
         "name": "Igual No Debo",
         "url": "https://open.spotify.com/album/39YHoq7K8WI7TZpCi4GFso"
       },
@@ -1379,26 +1411,6 @@
     {
       "added_at": "2024-10-09 18:40:05",
       "album": {
-        "name": "Demos y Feelings",
-        "url": "https://open.spotify.com/album/288gjWevdtKqpsUWkTA1OI"
-      },
-      "artists": [
-        {
-          "name": "YOSHI",
-          "url": "https://open.spotify.com/artist/399j7KzhXlNysKZvb55lxd"
-        },
-        {
-          "name": "Jesse Baez",
-          "url": "https://open.spotify.com/artist/4rriNpL1lxpoysDDctWgl3"
-        }
-      ],
-      "duration_ms": 193299,
-      "name": "Se Me Olvida",
-      "url": "https://open.spotify.com/track/11h8rm2aWPvPdfMc2tLaJN"
-    },
-    {
-      "added_at": "2024-10-09 18:40:05",
-      "album": {
         "name": "Laberinto",
         "url": "https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo"
       },
@@ -1467,22 +1479,6 @@
       "duration_ms": 156578,
       "name": "Inconcluso",
       "url": "https://open.spotify.com/track/6gNabaGwN05HLUTcAfpMAR"
-    },
-    {
-      "added_at": "2024-10-09 18:40:05",
-      "album": {
-        "name": "BACH",
-        "url": "https://open.spotify.com/album/6HZ9qdQUobF9C9ovVnRjNg"
-      },
-      "artists": [
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
-        }
-      ],
-      "duration_ms": 236000,
-      "name": "V\u00e1monos De Viaje",
-      "url": "https://open.spotify.com/track/6KVK1XO1Xzy7KGfoOockqA"
     },
     {
       "added_at": "2024-10-09 18:40:05",

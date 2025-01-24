@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Nieuwe alternative en rock songs. Cover: Wodan Boys",
+  "description": "Nieuwe alternative en rock songs. Cover: Viagra Boys",
   "name": "New Alternative",
   "tracks": [
     {
@@ -154,6 +154,24 @@
     {
       "album": {
         "name": "Afterlife",
+        "url": "https://open.spotify.com/album/2ZOGDgrniNnZV9rRN329bd"
+      },
+      "artists": [
+        {
+          "name": "HIMALAYAS",
+          "url": "https://open.spotify.com/artist/71NBOcJ9lMeXqnbnya1z0x"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222773,
+      "name": "Afterlife",
+      "url": "https://open.spotify.com/track/0sRbn7fYmXVTBdQocJk5Xc"
+    },
+    {
+      "album": {
+        "name": "Afterlife",
         "url": "https://open.spotify.com/album/2qK3BwuD392XoXTqI3B6JN"
       },
       "artists": [
@@ -164,7 +182,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 248215,
       "name": "Afterlife",
       "url": "https://open.spotify.com/track/2zs0Oae871mUHpS0iOMJ7O"
@@ -330,7 +348,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 145058,
       "name": "American Dream",
       "url": "https://open.spotify.com/track/14rjxUlB3cztgcCXWOYg4j"
@@ -427,6 +445,24 @@
     },
     {
       "album": {
+        "name": "Arm's Length",
+        "url": "https://open.spotify.com/album/4RCqRkyKtCcOlBMaq12WFn"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239600,
+      "name": "Arm's Length",
+      "url": "https://open.spotify.com/track/5rrwj9g1c4kwnPSnsXP7g3"
+    },
+    {
+      "album": {
         "name": "Audacious",
         "url": "https://open.spotify.com/album/6tApXgjCNnGOeB176tJiKV"
       },
@@ -510,7 +546,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 296885,
       "name": "Before It Might Be Gone",
       "url": "https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92"
@@ -662,6 +698,24 @@
       "duration_ms": 147503,
       "name": "Bullet Dodger",
       "url": "https://open.spotify.com/track/3Vktwbd9FLgLk7HhziL0Os"
+    },
+    {
+      "album": {
+        "name": "Burnout Days",
+        "url": "https://open.spotify.com/album/55d55SbCCo7jCmBFvCvDBC"
+      },
+      "artists": [
+        {
+          "name": "flipturn",
+          "url": "https://open.spotify.com/artist/7FKTg75ADVMZgY3P9ZMRtH"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218272,
+      "name": "Burnout Days",
+      "url": "https://open.spotify.com/track/1zBP4F9PUGfH8Ll3U1V31y"
     },
     {
       "album": {
@@ -842,7 +896,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 264319,
       "name": "Daddy's Selling Wine In A Burning House",
       "url": "https://open.spotify.com/track/6jWsP2neKDqX4YWNK46njD"
@@ -986,7 +1040,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 289427,
       "name": "Dirty Luck",
       "url": "https://open.spotify.com/track/0OX3Fhf9eSEjbPPV2PHUxW"
@@ -1202,7 +1256,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 207061,
       "name": "Fake Nice",
       "url": "https://open.spotify.com/track/0dK3P7orK9XUTeAcebUHwK"
@@ -1220,7 +1274,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 210355,
       "name": "Falling Off The Earth",
       "url": "https://open.spotify.com/track/4c2uVNjG8aUKa3Edjc5Jem"
@@ -1638,6 +1692,24 @@
       "duration_ms": 190828,
       "name": "High In Low Places",
       "url": "https://open.spotify.com/track/30AvLvLFOVvu5vjFLtdCHq"
+    },
+    {
+      "album": {
+        "name": "Higher Places",
+        "url": "https://open.spotify.com/album/5CUWqoP5PcRIKa085FPIkT"
+      },
+      "artists": [
+        {
+          "name": "Afterpartees",
+          "url": "https://open.spotify.com/artist/5FtnkdycRhdTikTa8XaM02"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147106,
+      "name": "Higher Places",
+      "url": "https://open.spotify.com/track/1am0lL6MkpS71wDTpQ1NqB"
     },
     {
       "album": {
@@ -2102,7 +2174,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 282440,
       "name": "Let It Bleed",
       "url": "https://open.spotify.com/track/59NoaGH7JhHbs0I40EshJU"
@@ -2307,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Man Made of Meat",
+        "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189947,
+      "name": "Man Made of Meat",
+      "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
+    },
+    {
+      "album": {
         "name": "Mansa Musa",
         "url": "https://open.spotify.com/album/3eQjhWwVHyyWPjACbIc2Tt"
       },
@@ -2358,6 +2448,24 @@
       "duration_ms": 184163,
       "name": "Meditations",
       "url": "https://open.spotify.com/track/2XaZcy1CBRqfEpvy4JuJLr"
+    },
+    {
+      "album": {
+        "name": "Asphodels",
+        "url": "https://open.spotify.com/album/2TXHLshWzfcUwkP9Xxng9v"
+      },
+      "artists": [
+        {
+          "name": "The Veils",
+          "url": "https://open.spotify.com/artist/1MDw0zSUU0XtI9D5JgEZH5"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226466,
+      "name": "Melancholy Moon",
+      "url": "https://open.spotify.com/track/0ZOHCQY8uKX5u4ml3z6OnV"
     },
     {
       "album": {
@@ -2516,7 +2624,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 185706,
       "name": "Natural Woman",
       "url": "https://open.spotify.com/track/4bxQ6UOYDxTkhzjO25b9sB"
@@ -2588,7 +2696,7 @@
       ],
       "date_added": "2024-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 201929,
       "name": "Night Or Day",
       "url": "https://open.spotify.com/track/0Yty54Ha2a15998kNGxksZ"
@@ -2758,6 +2866,42 @@
       "duration_ms": 214000,
       "name": "Once Again",
       "url": "https://open.spotify.com/track/4S85XqWBdcYn7CMq4wZRuN"
+    },
+    {
+      "album": {
+        "name": "One More Nanosecond",
+        "url": "https://open.spotify.com/album/4HHQvoVU3F4zpHdBCQXVKE"
+      },
+      "artists": [
+        {
+          "name": "Anneke van Giersbergen",
+          "url": "https://open.spotify.com/artist/6TZqJnkAytY8HFQBEdDF8v"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264099,
+      "name": "One More Nanosecond",
+      "url": "https://open.spotify.com/track/7vNzoqVi7qlTqJuo1QX2oF"
+    },
+    {
+      "album": {
+        "name": "One More Trip Around The Sun",
+        "url": "https://open.spotify.com/album/3YHaBBysxFf17TymibDhhh"
+      },
+      "artists": [
+        {
+          "name": "Cari Cari",
+          "url": "https://open.spotify.com/artist/0ey6crPk5fXQWkq21iPTMV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 272800,
+      "name": "One More Trip Around The Sun",
+      "url": "https://open.spotify.com/track/61VJXbD4Ea3KTumwwLgnTQ"
     },
     {
       "album": {
@@ -3021,6 +3165,24 @@
     },
     {
       "album": {
+        "name": "Real Music",
+        "url": "https://open.spotify.com/album/4sTXiXoQ0HAC6aWgPyaWP1"
+      },
+      "artists": [
+        {
+          "name": "Keenan Mundane",
+          "url": "https://open.spotify.com/artist/1APR3mkX7fOR0u1kRnsUbG"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118725,
+      "name": "Real Music",
+      "url": "https://open.spotify.com/track/3vPn3nP3W5dacb7QQ9mr3X"
+    },
+    {
+      "album": {
         "name": "Ride Away",
         "url": "https://open.spotify.com/album/3wHNpeAiczJyp3OmVSWNTf"
       },
@@ -3248,7 +3410,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 219266,
       "name": "seventeen",
       "url": "https://open.spotify.com/track/1wJUVM97tEquQtyuwmAE9B"
@@ -3302,7 +3464,7 @@
       ],
       "date_added": "2024-12-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 153266,
       "name": "she will be missed",
       "url": "https://open.spotify.com/track/39ZMuvrb2P0aCWbVyUpBe6"
@@ -3518,7 +3680,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 161586,
       "name": "SPIDER",
       "url": "https://open.spotify.com/track/72rz0gf2wyg1wFcZ0qD5xi"
@@ -3666,6 +3828,24 @@
       "duration_ms": 218000,
       "name": "Stray Dog - Session 388",
       "url": "https://open.spotify.com/track/1TmUHwM2umXy3JF6Sz1vTG"
+    },
+    {
+      "album": {
+        "name": "Stupid Game, Stupid Prize",
+        "url": "https://open.spotify.com/album/5nbJldT4geqSmIF2PpMHuR"
+      },
+      "artists": [
+        {
+          "name": "The Greater Good",
+          "url": "https://open.spotify.com/artist/2rR8uLoc8TX8dfxCRUkgWn"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157806,
+      "name": "Stupid Game, Stupid Prize",
+      "url": "https://open.spotify.com/track/2uIrXW4Pupp4pP98Rgtoff"
     },
     {
       "album": {
@@ -3921,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "The Next Moment",
+        "url": "https://open.spotify.com/album/26RctZifcu5zudepKeoh6M"
+      },
+      "artists": [
+        {
+          "name": "Nagasaki Swim",
+          "url": "https://open.spotify.com/artist/4KRpZy44q6xnBkjylQ4p5T"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226184,
+      "name": "The Next Moment",
+      "url": "https://open.spotify.com/track/2Q7b9g1siXYw5C3iAHQDDW"
+    },
+    {
+      "album": {
         "name": "Gift Horse",
         "url": "https://open.spotify.com/album/0IzNKyesKN0lCIO2e8kUDa"
       },
@@ -3997,6 +4195,24 @@
     },
     {
       "album": {
+        "name": "Time",
+        "url": "https://open.spotify.com/album/4bcdi9s4qkcrLejPQwFIPk"
+      },
+      "artists": [
+        {
+          "name": "SALVIA",
+          "url": "https://open.spotify.com/artist/7fMFvARkKRdRyAng6OhkD8"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168364,
+      "name": "Time",
+      "url": "https://open.spotify.com/track/4u1CTAfI9ynLSjLYzGVzhW"
+    },
+    {
+      "album": {
         "name": "Tiny Tears",
         "url": "https://open.spotify.com/album/4QcyTQC84yloOslmljuBjc"
       },
@@ -4026,7 +4242,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 236841,
       "name": "Tokyo, 7AM",
       "url": "https://open.spotify.com/track/38771tUZONFbp1BeBfAFOA"
@@ -4267,6 +4483,24 @@
     },
     {
       "album": {
+        "name": "Wet Faced & Ugly",
+        "url": "https://open.spotify.com/album/5HpdJPwD8dGiUDE9s9HD5P"
+      },
+      "artists": [
+        {
+          "name": "Mood Bored",
+          "url": "https://open.spotify.com/artist/3MrcMcqcIqymHOmn3hhpIu"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171254,
+      "name": "Wet Faced & Ugly",
+      "url": "https://open.spotify.com/track/3yAVjo24bbVBElLDlIO4fv"
+    },
+    {
+      "album": {
         "name": "What You've Lost",
         "url": "https://open.spotify.com/album/3dV5yackcguFHvAc3cl2P8"
       },
@@ -4296,10 +4530,32 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 229426,
       "name": "When I've Got You",
       "url": "https://open.spotify.com/track/7aCInrMrOA1Itc3aH3EDVJ"
+    },
+    {
+      "album": {
+        "name": "Who Laughs Last",
+        "url": "https://open.spotify.com/album/0OifCOsQ8dJGiAEkXuIddD"
+      },
+      "artists": [
+        {
+          "name": "Lord Huron",
+          "url": "https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25"
+        },
+        {
+          "name": "Kristen Stewart",
+          "url": "https://open.spotify.com/artist/3YNXLteYZdNIc9ZkAOYCA6"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283946,
+      "name": "Who Laughs Last (feat. Kristen Stewart)",
+      "url": "https://open.spotify.com/track/5K2KkZmixWKjiOa3I7D2pn"
     },
     {
       "album": {
@@ -4386,7 +4642,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 225440,
       "name": "Words Lost Meaning",
       "url": "https://open.spotify.com/track/3AZiiXjlPqIg6ZU6qo42pE"
@@ -4498,7 +4754,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 87488,
       "name": "Yoyo Love",
       "url": "https://open.spotify.com/track/6Kim3K4szMCZWVYMwFWTm9"

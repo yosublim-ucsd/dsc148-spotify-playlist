@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Najlepsze polskie piosenki na czasie. Cover: Dawid Kwiatkowski, Kayah",
+  "description": "Najlepsze polskie piosenki na czasie. Cover: Igo",
   "name": "Polskie hity",
   "tracks": [
     {
@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Boo!",
+        "url": "https://open.spotify.com/album/4uYFPPzhhOoTzGJj3wXRHZ"
+      },
+      "artists": [
+        {
+          "name": "Vito Bambino",
+          "url": "https://open.spotify.com/artist/5XGkLMcwitYFdwroktQs7o"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226875,
+      "name": "Boo!",
+      "url": "https://open.spotify.com/track/1wQ42jS4mJWjdl8To4R0ui"
+    },
+    {
+      "album": {
         "name": "BO\u017bE",
         "url": "https://open.spotify.com/album/1pbMlF0R9bgSR8Txa21oYk"
       },
@@ -857,6 +875,24 @@
     },
     {
       "album": {
+        "name": "Co noc",
+        "url": "https://open.spotify.com/album/4f1bC5xpaa9WEr87Wum7Bd"
+      },
+      "artists": [
+        {
+          "name": "Oskar Cyms",
+          "url": "https://open.spotify.com/artist/2fcIazWMq5XONzkuCwSSEr"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159428,
+      "name": "Co noc",
+      "url": "https://open.spotify.com/track/5GElBQDxiLNF991NLcuGje"
+    },
+    {
+      "album": {
         "name": "Cyrk",
         "url": "https://open.spotify.com/album/3LnfdUm50X2HVIUadHJ6Nf"
       },
@@ -890,6 +926,28 @@
       "duration_ms": 173000,
       "name": "czarno-bia\u0142e sny",
       "url": "https://open.spotify.com/track/6inPDUhEEzK2kXY42YGdcq"
+    },
+    {
+      "album": {
+        "name": "Czego chcia\u0142by B\u00f3g",
+        "url": "https://open.spotify.com/album/0IiITAacT44gouYM1zO4ql"
+      },
+      "artists": [
+        {
+          "name": "BRK",
+          "url": "https://open.spotify.com/artist/2jNxbYSRQ7pkrxVuOjES7n"
+        },
+        {
+          "name": "Moo Latte",
+          "url": "https://open.spotify.com/artist/3gNjxcKLkMfZYKlLxn0O9F"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185898,
+      "name": "Czego chcia\u0142by B\u00f3g",
+      "url": "https://open.spotify.com/track/6rsZ867m6R8gjO8CRImLmP"
     },
     {
       "album": {
@@ -1240,7 +1298,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 185434,
       "name": "Dom",
       "url": "https://open.spotify.com/track/78xFhSIY8vjhKBtPZLNktm"
@@ -1374,7 +1432,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 169830,
       "name": "Dziki bal",
       "url": "https://open.spotify.com/track/7Jq9tZcz2Lg02p3Oqfy4PB"
@@ -1392,7 +1450,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 150687,
       "name": "Dzi\u0119ki Tobie",
       "url": "https://open.spotify.com/track/6iL49K0EnSuRLovS8fbdzV"
@@ -1440,6 +1498,28 @@
       "duration_ms": 138409,
       "name": "D\u00e9j\u00e0 Vu",
       "url": "https://open.spotify.com/track/3jCMMNBQbNZp1JdMjFKg32"
+    },
+    {
+      "album": {
+        "name": "Elegia o\u2026 [ch\u0142opcu polskim] (K. K. Baczy\u0144ski)",
+        "url": "https://open.spotify.com/album/5x4HWBcOoTfDXgrEh8Z6wf"
+      },
+      "artists": [
+        {
+          "name": "sanah",
+          "url": "https://open.spotify.com/artist/0TMvoNR0AIJV138mHY6jdE"
+        },
+        {
+          "name": "Micha\u0142 Bajor",
+          "url": "https://open.spotify.com/artist/4wiuQi8pMd9fwJxreqT5H1"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220945,
+      "name": "Elegia o\u2026 [ch\u0142opcu polskim] (K. K. Baczy\u0144ski)",
+      "url": "https://open.spotify.com/track/4URWWN9TQrpScaAfN8XZ4j"
     },
     {
       "album": {
@@ -1857,6 +1937,24 @@
     },
     {
       "album": {
+        "name": "In cosmic mist (Eurovision Version)",
+        "url": "https://open.spotify.com/album/794ZQ76ArthJiDjQM0e2A3"
+      },
+      "artists": [
+        {
+          "name": "Janusz Radek",
+          "url": "https://open.spotify.com/artist/3CdJAOpCdHfk9U9B5uZdhT"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166270,
+      "name": "In cosmic mist - Eurovision Version",
+      "url": "https://open.spotify.com/track/3cqCdtuzUkZItQEiat5t4k"
+    },
+    {
+      "album": {
         "name": "JA SI\u0118 CHYBA ZAKOCHA\u0141AM",
         "url": "https://open.spotify.com/album/6naYVbFECwe7ayJeUbR9Qp"
       },
@@ -1974,7 +2072,7 @@
       ],
       "date_added": "2024-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 183983,
       "name": "Jak w filmie",
       "url": "https://open.spotify.com/track/2IYpNlrzRoWcIUPAvXKT6n"
@@ -2425,6 +2523,24 @@
     },
     {
       "album": {
+        "name": "Let it burn",
+        "url": "https://open.spotify.com/album/19CKhvCHzes9D9e5hZWFIy"
+      },
+      "artists": [
+        {
+          "name": "Daria Marx",
+          "url": "https://open.spotify.com/artist/1o3ck5WMNcRSP9Khfy5o7u"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165900,
+      "name": "Let it burn",
+      "url": "https://open.spotify.com/track/4hzaKHbkdIUCjfV0IOi8UA"
+    },
+    {
+      "album": {
         "name": "list do niej",
         "url": "https://open.spotify.com/album/4qSid7v4Ami0xKyks5uxzT"
       },
@@ -2618,7 +2734,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 178000,
       "name": "Miej odwa\u017cne serce",
       "url": "https://open.spotify.com/track/2tyOc2qjwTapTupR3gY1Cd"
@@ -2916,7 +3032,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 155172,
       "name": "Momentum",
       "url": "https://open.spotify.com/track/2sQsPmH71UQz4wp5bOABtT"
@@ -3064,6 +3180,28 @@
       "duration_ms": 234715,
       "name": "Na Si\u0142\u0119",
       "url": "https://open.spotify.com/track/3PTKvhmVrsyPvjqvPMdRvg"
+    },
+    {
+      "album": {
+        "name": "NA ZAWSZE",
+        "url": "https://open.spotify.com/album/7KWCqttOI3ViyT004P1Nr5"
+      },
+      "artists": [
+        {
+          "name": "Kleks",
+          "url": "https://open.spotify.com/artist/2Qk1uZpDnwDozHdxmB0dDx"
+        },
+        {
+          "name": "Marta Bijan",
+          "url": "https://open.spotify.com/artist/6H38O4b9x7V56MfLOpfNZt"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175280,
+      "name": "NA ZAWSZE",
+      "url": "https://open.spotify.com/track/6CrpiFbI4s1kINkvYpYgCh"
     },
     {
       "album": {
@@ -3534,7 +3672,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 235373,
       "name": "Nie\u0142adnie",
       "url": "https://open.spotify.com/track/3TT8cZpnrgBYuRGOTlWM3r"
@@ -3582,7 +3720,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 135806,
       "name": "NIKT NIE KOCHA\u0141 MNIE (tak jak ja)",
       "url": "https://open.spotify.com/track/1bYBqT5E4ryPuJOND0T8tg"
@@ -3778,7 +3916,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 147522,
       "name": "Odpowied\u017a",
       "url": "https://open.spotify.com/track/1pR4TjI4X95ciHO5hqtk8f"
@@ -3963,6 +4101,24 @@
     },
     {
       "album": {
+        "name": "Pe\u0142en Bak",
+        "url": "https://open.spotify.com/album/6v8iOkZs0ytWRQNTJ2jDeR"
+      },
+      "artists": [
+        {
+          "name": "Verde",
+          "url": "https://open.spotify.com/artist/09i0deXO9AB00wHavM30p7"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138260,
+      "name": "Pe\u0142en Bak",
+      "url": "https://open.spotify.com/track/2v9TRUcnhmH7jG51x2jtrj"
+    },
+    {
+      "album": {
         "name": "Pierwszy",
         "url": "https://open.spotify.com/album/5HP3AjXihFNWmUZ9EeX9bg"
       },
@@ -4094,7 +4250,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 188478,
       "name": "POMALUJ M\u00d3J \u015aWIAT",
       "url": "https://open.spotify.com/track/5AOkd7BJEmVj3pxRhW072C"
@@ -4708,7 +4864,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 158511,
       "name": "Storyline",
       "url": "https://open.spotify.com/track/71Depjzyu6G8jHvtditCvz"
@@ -4976,7 +5132,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 137898,
       "name": "Tam czeka mnie dom",
       "url": "https://open.spotify.com/track/2R5JI5M63xGVesrcwILZ0B"
@@ -5277,6 +5433,24 @@
     },
     {
       "album": {
+        "name": "Tw\u00f3j g\u0142os (Muzyka z filmu \"Piep*zy\u0107 Mickiewicza 2\")",
+        "url": "https://open.spotify.com/album/13wUT9lqifK3B7zhvvQ6Kf"
+      },
+      "artists": [
+        {
+          "name": "Roxie",
+          "url": "https://open.spotify.com/artist/6Lf4vAUaFUR2jAsybC7cGV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141732,
+      "name": "Tw\u00f3j g\u0142os - Muzyka z filmu \"Piep*zy\u0107 Mickiewicza 2\"",
+      "url": "https://open.spotify.com/track/5MDz37AV22b6q8XBAXnryU"
+    },
+    {
+      "album": {
         "name": "Tyle mog\u0142em Ci da\u0107",
         "url": "https://open.spotify.com/album/4dfPdu3N7AOQ4RLzSYIFNR"
       },
@@ -5442,6 +5616,46 @@
       "duration_ms": 243159,
       "name": "W Zakamarkach Serc",
       "url": "https://open.spotify.com/track/2RaSxKnTjd1YpVXNhiQPn7"
+    },
+    {
+      "album": {
+        "name": "WAS DW\u00d3CH",
+        "url": "https://open.spotify.com/album/354i4GYCmnLbw96NtrbUV9"
+      },
+      "artists": [
+        {
+          "name": "Cyrko",
+          "url": "https://open.spotify.com/artist/5CbbOjtGnLPHyQj6ml7WLL"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169655,
+      "name": "WAS DW\u00d3CH",
+      "url": "https://open.spotify.com/track/0zuwMlHupJCxyIc7GqcEoz"
+    },
+    {
+      "album": {
+        "name": "WAYUP",
+        "url": "https://open.spotify.com/album/4t4NNEIGTDToSPS9lnMwBB"
+      },
+      "artists": [
+        {
+          "name": "MODELKI",
+          "url": "https://open.spotify.com/artist/3cBLJizprytrMpuFbnRnaE"
+        },
+        {
+          "name": "V\u0142odarski",
+          "url": "https://open.spotify.com/artist/75wMNgYkzacOI08FN7BaG0"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153243,
+      "name": "WAYUP",
+      "url": "https://open.spotify.com/track/5B7Y6iWTPqGHJFX8QSIgiO"
     },
     {
       "album": {
@@ -5626,6 +5840,28 @@
       "duration_ms": 171746,
       "name": "WOLNO\u015a\u0106",
       "url": "https://open.spotify.com/track/6fpumw6IHcGikjLBCsfUNv"
+    },
+    {
+      "album": {
+        "name": "Wr\u00f3c\u0119 wiosn\u0105",
+        "url": "https://open.spotify.com/album/2nM3gXjeSHP8lS0ac98yT0"
+      },
+      "artists": [
+        {
+          "name": "Natalia P\u0142awiak",
+          "url": "https://open.spotify.com/artist/28pkZVxXhm3TzAlrBB58RM"
+        },
+        {
+          "name": "Tabb",
+          "url": "https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158771,
+      "name": "Wr\u00f3c\u0119 wiosn\u0105",
+      "url": "https://open.spotify.com/track/5ugaN8m5QcpPjYWJQfE5PP"
     },
     {
       "album": {

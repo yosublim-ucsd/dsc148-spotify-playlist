@@ -1,6 +1,6 @@
 {
   "description": "the deep & minimal side of tech house \u26cf\ufe0f\u26cf\ufe0f  with Michael Bibi",
-  "num_followers": 48171,
+  "num_followers": 48212,
   "original_name": "Minimal Tech",
   "owner": {
     "name": "Spotify",
@@ -945,22 +945,6 @@
       "url": "https://open.spotify.com/track/5LZNaPmgnxH2YHwmU9G0GL"
     },
     {
-      "added_at": "2024-12-13 05:00:18",
-      "album": {
-        "name": "Won't Stop (Don't) - EP",
-        "url": "https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj"
-      },
-      "artists": [
-        {
-          "name": "Chris Stussy",
-          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
-        }
-      ],
-      "duration_ms": 231972,
-      "name": "What Are You Waiting For - Sunrise Mix",
-      "url": "https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7"
-    },
-    {
       "added_at": "2024-11-13 17:19:58",
       "album": {
         "name": "First Light",
@@ -975,6 +959,22 @@
       "duration_ms": 238153,
       "name": "First Light",
       "url": "https://open.spotify.com/track/07Jz0As8Arxyk2Lv65Evhd"
+    },
+    {
+      "added_at": "2024-12-13 05:00:18",
+      "album": {
+        "name": "Won't Stop (Don't) - EP",
+        "url": "https://open.spotify.com/album/01JyRXCJqCSxv11m2dawWj"
+      },
+      "artists": [
+        {
+          "name": "Chris Stussy",
+          "url": "https://open.spotify.com/artist/3BxjasMelf9pKaE4f7Y0So"
+        }
+      ],
+      "duration_ms": 231972,
+      "name": "What Are You Waiting For - Sunrise Mix",
+      "url": "https://open.spotify.com/track/3bkTYBMoiSqtkWFytaYfU7"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1115,22 +1115,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Stolen Dub",
-        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
-      },
-      "artists": [
-        {
-          "name": "TWENTY SIX",
-          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
-        }
-      ],
-      "duration_ms": 136615,
-      "name": "Stolen Dub",
-      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Fascinator EP",
         "url": "https://open.spotify.com/album/22nqPGkWrUBPRzpTdYI9zR"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 372923,
       "name": "Fascinator",
       "url": "https://open.spotify.com/track/0LLNuq3cKWLH1b1buksOjk"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Stolen Dub",
+        "url": "https://open.spotify.com/album/5DR1do7dE2JjlVQ5q1qOfM"
+      },
+      "artists": [
+        {
+          "name": "TWENTY SIX",
+          "url": "https://open.spotify.com/artist/6C2mFGFh8dz1vKp9l5Ce8P"
+        }
+      ],
+      "duration_ms": 136615,
+      "name": "Stolen Dub",
+      "url": "https://open.spotify.com/track/3JquhjcmUnvfik03uMQRES"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1277,22 +1277,6 @@
       "url": "https://open.spotify.com/track/539nhBaI2YCKDG3qPCs5vu"
     },
     {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "The Rider",
-        "url": "https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM"
-      },
-      "artists": [
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        }
-      ],
-      "duration_ms": 342790,
-      "name": "The Rider",
-      "url": "https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6"
-    },
-    {
       "added_at": "2024-11-20 16:52:26",
       "album": {
         "name": "Move",
@@ -1311,18 +1295,34 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Im so Wavy",
-        "url": "https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18"
+        "name": "The Rider",
+        "url": "https://open.spotify.com/album/4Qe7qhx18bXqBean0qdKlM"
       },
       "artists": [
         {
-          "name": "Jay de Lys",
-          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
         }
       ],
-      "duration_ms": 208372,
-      "name": "Im so Wavy - Original Mix",
-      "url": "https://open.spotify.com/track/72J9PigDQEKIIrnRbj6Dsa"
+      "duration_ms": 342790,
+      "name": "The Rider",
+      "url": "https://open.spotify.com/track/0Hq7EkrkVBo5D2whM0rdX6"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Work It EP",
+        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 194887,
+      "name": "Work It",
+      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1343,18 +1343,18 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Work It EP",
-        "url": "https://open.spotify.com/album/4afDe7exKekvI7T1Zf66iT"
+        "name": "Im so Wavy",
+        "url": "https://open.spotify.com/album/1AjDt3tM3ZZBvioX3mvi18"
       },
       "artists": [
         {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+          "name": "Jay de Lys",
+          "url": "https://open.spotify.com/artist/6hr0SehcycxwgYfCgVy32M"
         }
       ],
-      "duration_ms": 194887,
-      "name": "Work It",
-      "url": "https://open.spotify.com/track/5s398i7zVleD2qihgMIW8M"
+      "duration_ms": 208372,
+      "name": "Im so Wavy - Original Mix",
+      "url": "https://open.spotify.com/track/72J9PigDQEKIIrnRbj6Dsa"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1391,6 +1391,22 @@
       "duration_ms": 189375,
       "name": "Nothing Hurts",
       "url": "https://open.spotify.com/track/5ETOyLlTJHfwmhgcCl4T56"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Journey LP",
+        "url": "https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "duration_ms": 205039,
+      "name": "FUTUR",
+      "url": "https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf"
     },
     {
       "added_at": "2024-12-02 21:58:04",
@@ -1443,38 +1459,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "Journey LP",
-        "url": "https://open.spotify.com/album/3ZdMf6kjyZbRCZ5dZQyOWW"
-      },
-      "artists": [
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        }
-      ],
-      "duration_ms": 205039,
-      "name": "FUTUR",
-      "url": "https://open.spotify.com/track/1YyN7HdtdZdzIYfYbE6NUf"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
-        "name": "Go Deeper EP",
-        "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
-      },
-      "artists": [
-        {
-          "name": "Robbie Doherty",
-          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
-        }
-      ],
-      "duration_ms": 202781,
-      "name": "Go Deeper",
-      "url": "https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "Don't Wanna Go",
         "url": "https://open.spotify.com/album/6Dp2Nw9Ukc2C5RyAfAziTp"
       },
@@ -1491,6 +1475,22 @@
       "duration_ms": 180412,
       "name": "Don't Wanna Go",
       "url": "https://open.spotify.com/track/7Egwrj96WlechP11rChGK9"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "Go Deeper EP",
+        "url": "https://open.spotify.com/album/0G7HUh5d6DtrvmiJRw8mFo"
+      },
+      "artists": [
+        {
+          "name": "Robbie Doherty",
+          "url": "https://open.spotify.com/artist/2WuXRwEjXIjW5uVZOSxqYS"
+        }
+      ],
+      "duration_ms": 202781,
+      "name": "Go Deeper",
+      "url": "https://open.spotify.com/track/3HSWzairvuzDBC0A6dEDXR"
     },
     {
       "added_at": "2024-11-06 22:50:08",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-11-06 22:50:08",
       "album": {
-        "name": "ENDZ058",
-        "url": "https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi"
-      },
-      "artists": [
-        {
-          "name": "DXNBY",
-          "url": "https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8"
-        }
-      ],
-      "duration_ms": 374754,
-      "name": "Bumpin'",
-      "url": "https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a"
-    },
-    {
-      "added_at": "2024-11-06 22:50:08",
-      "album": {
         "name": "In You",
         "url": "https://open.spotify.com/album/3E6s76Yr4EoYnGOrV1CivY"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 373920,
       "name": "In You",
       "url": "https://open.spotify.com/track/5NBkCWj7qzq2pKix4wHOQh"
+    },
+    {
+      "added_at": "2024-11-06 22:50:08",
+      "album": {
+        "name": "ENDZ058",
+        "url": "https://open.spotify.com/album/05gXFYrarAOFeYOsVMwmWi"
+      },
+      "artists": [
+        {
+          "name": "DXNBY",
+          "url": "https://open.spotify.com/artist/7mLmGgoUfP8HHIRj1pIQP8"
+        }
+      ],
+      "duration_ms": 374754,
+      "name": "Bumpin'",
+      "url": "https://open.spotify.com/track/1FT4c4nBccV2U1axFQtv0a"
     },
     {
       "added_at": "2024-11-06 22:50:08",

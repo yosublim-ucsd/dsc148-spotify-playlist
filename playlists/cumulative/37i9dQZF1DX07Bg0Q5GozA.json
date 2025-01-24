@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-12-29",
-  "description": "New music off the beaten track. Cover: Jungle",
+  "description": "New music off the beaten track. Cover: Zimmer90",
   "name": "OFF POP",
   "tracks": [
     {
@@ -3692,7 +3692,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 414757,
       "name": "Das Blaue Licht",
       "url": "https://open.spotify.com/track/33TcgksXudHzO8aPXv8vK4"
@@ -6408,7 +6408,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 229551,
       "name": "Found You",
       "url": "https://open.spotify.com/track/3HyGsn7ttfhDCkrSd35Qre"
@@ -7372,7 +7372,7 @@
       ],
       "date_added": "2024-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 224000,
       "name": "Heat",
       "url": "https://open.spotify.com/track/4CICAO2tOivfuYQJD19wQf"
@@ -7496,7 +7496,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 156525,
       "name": "Her Smile",
       "url": "https://open.spotify.com/track/5Acpz4zh7hOGQHi91HvrYJ"
@@ -10496,7 +10496,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 243760,
       "name": "Levitating",
       "url": "https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj"
@@ -11782,6 +11782,24 @@
       "duration_ms": 178242,
       "name": "Mercy (feat. Jacob Lusk)",
       "url": "https://open.spotify.com/track/4ejCsNXh66YasBUiwfBhDg"
+    },
+    {
+      "album": {
+        "name": "Mesmerized",
+        "url": "https://open.spotify.com/album/20FSvBBhzUykkESOWR0APA"
+      },
+      "artists": [
+        {
+          "name": "Monolink",
+          "url": "https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 300642,
+      "name": "Mesmerized - Edit",
+      "url": "https://open.spotify.com/track/3IgqXawlDv7SA7oDxdz5Zz"
     },
     {
       "album": {
@@ -13080,6 +13098,32 @@
       "duration_ms": 142500,
       "name": "No Love",
       "url": "https://open.spotify.com/track/51u0i005MZ9G0e1Lxm3PqO"
+    },
+    {
+      "album": {
+        "name": "Girls Gang",
+        "url": "https://open.spotify.com/album/7oei8Fs4MVTvpmBTwFZCFR"
+      },
+      "artists": [
+        {
+          "name": "Dina Summer",
+          "url": "https://open.spotify.com/artist/0s4dIi02iAv3SiJfBrNhHo"
+        },
+        {
+          "name": "Kalipo",
+          "url": "https://open.spotify.com/artist/7ud6dY3K4gi4Q0uVlLd8Hi"
+        },
+        {
+          "name": "Local Suicide",
+          "url": "https://open.spotify.com/artist/0oRegIGGmJDXVaVfgWuoz0"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220625,
+      "name": "No More Tears",
+      "url": "https://open.spotify.com/track/1e7gvn8MhPeoLfbC4gHkxV"
     },
     {
       "album": {
@@ -14538,7 +14582,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 264176,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/3Ip1IDLv288gDeHm85dzJG"
@@ -15936,7 +15980,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 199500,
       "name": "Signs",
       "url": "https://open.spotify.com/track/4ZXi3WGap15pcthvNhXtsb"
@@ -16395,6 +16439,28 @@
     },
     {
       "album": {
+        "name": "Someone Like You",
+        "url": "https://open.spotify.com/album/7G4UcQceMc1AgdZGXbvKDj"
+      },
+      "artists": [
+        {
+          "name": "Alexander IV",
+          "url": "https://open.spotify.com/artist/1ixOHjIh8RJkIUrBSBiYHi"
+        },
+        {
+          "name": "Flo Naegeli",
+          "url": "https://open.spotify.com/artist/0liNX4mflJExPsvDkY7yfa"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164985,
+      "name": "Someone Like You",
+      "url": "https://open.spotify.com/track/1pZB4PoWYz2QYnB9jH4Jqw"
+    },
+    {
+      "album": {
         "name": "Lover, Other",
         "url": "https://open.spotify.com/album/5BUquHUocSbSGXlTjUcH75"
       },
@@ -16498,6 +16564,24 @@
       "duration_ms": 301706,
       "name": "Space",
       "url": "https://open.spotify.com/track/5eRN2ORFEvPgb8J8Wda0xH"
+    },
+    {
+      "album": {
+        "name": "Space Between Us",
+        "url": "https://open.spotify.com/album/3TTsfkzNolXmaqPzFjc1U9"
+      },
+      "artists": [
+        {
+          "name": "Franc Moody",
+          "url": "https://open.spotify.com/artist/10GT4yz8c6xjjnPGtGPI1l"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225231,
+      "name": "Space Between Us",
+      "url": "https://open.spotify.com/track/3KWwb2rZjI2P1hwuQ4gaqS"
     },
     {
       "album": {
@@ -19869,6 +19953,32 @@
     },
     {
       "album": {
+        "name": "What Else Is There (True Electric)",
+        "url": "https://open.spotify.com/album/2IMzpxmuIjpsZ09Ig8CnTW"
+      },
+      "artists": [
+        {
+          "name": "R\u00f6yksopp",
+          "url": "https://open.spotify.com/artist/5nPOO9iTcrs9k6yFffPxjH"
+        },
+        {
+          "name": "Fever Ray",
+          "url": "https://open.spotify.com/artist/5hE6NCoobhyEu6TRSbjOJY"
+        },
+        {
+          "name": "trentem\u00f8ller",
+          "url": "https://open.spotify.com/artist/4O71i7ke5iIBX6RNSFoZbS"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375750,
+      "name": "What Else Is There (True Electric)",
+      "url": "https://open.spotify.com/track/0do3QcrJuRDLATu358dd0U"
+    },
+    {
+      "album": {
         "name": "What Happened To Us?",
         "url": "https://open.spotify.com/album/6fvCRtknLGb0NIsjJ0JBdE"
       },
@@ -19990,6 +20100,24 @@
       "duration_ms": 178586,
       "name": "what would i give",
       "url": "https://open.spotify.com/track/5nalxn6TBuHgo53VGBux9F"
+    },
+    {
+      "album": {
+        "name": "Whatever",
+        "url": "https://open.spotify.com/album/4mwRHYpnfvMG67A3YT1HUE"
+      },
+      "artists": [
+        {
+          "name": "Zimmer90",
+          "url": "https://open.spotify.com/artist/7cViIoKAQrjHURdxb9ACCX"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166304,
+      "name": "Whatever",
+      "url": "https://open.spotify.com/track/0LJtogguqMPVg0nkW9PFk9"
     },
     {
       "album": {
@@ -20796,6 +20924,24 @@
       "duration_ms": 101960,
       "name": "your touch",
       "url": "https://open.spotify.com/track/7cPZshG4jWR6pTvhZVL6JG"
+    },
+    {
+      "album": {
+        "name": "Zebra",
+        "url": "https://open.spotify.com/album/08E2OHr4F5j2xbXMKPAJrc"
+      },
+      "artists": [
+        {
+          "name": "IXIK",
+          "url": "https://open.spotify.com/artist/2swveNUs1U58B8rbKsoMAW"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126923,
+      "name": "Zebra",
+      "url": "https://open.spotify.com/track/6PEv2j2r2ZfeKiHCpS6tMf"
     },
     {
       "album": {

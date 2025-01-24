@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-187 songs - 10 hr 30 min
+188 songs - 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -78,6 +78,7 @@
 | [I've Searched the Whole World Over](https://open.spotify.com/track/5gvUpcTigElYPgb9izbtoG) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:38 | 2024-02-01 | 2024-04-20 |
 | [I've Searched the World Over](https://open.spotify.com/track/5YZjX7oAmuRKTxWPeq2VwA) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Partnership Blues](https://open.spotify.com/album/0voSghiO7eWsm9N2Ahb8GA) | 2:21 | 2023-08-21 | 2023-09-01 |
 | [I've Searched the World Over](https://open.spotify.com/track/0bvOaYXInXq13aY6mPUaih) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Big Mama's Home \(35 Classic Tracks\)](https://open.spotify.com/album/6wr9tjkQJkVqYj4TwvALi2) | 2:23 | 2023-03-27 | 2023-08-22 |
+| [I've Searched the World Over](https://open.spotify.com/track/2zYyCClIRxBW1RkhFCk0hv) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Johnny Otis](https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6v6s3m0PHxZubk5zRV0KMS) | 2:23 | 2025-01-24 |  |
 | [Instrumental, Pt.1 \- Live](https://open.spotify.com/track/6j2cPdiSCFNdGKkNVcEilF) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Have Mercy! \(Live 1973\)](https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ) | 2:16 | 2022-11-26 | 2022-11-29 |
 | [Instrumental, Pt.2 \- Live](https://open.spotify.com/track/20F0JHoIouSGuzoXmuB2uQ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Have Mercy! \(Live 1973\)](https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ) | 2:56 | 2022-10-22 | 2024-04-20 |
 | [Interview With Big Mama Thornton](https://open.spotify.com/track/6vtb0UiOawHn6wV80fN7jX) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Roots Of Rock & Roll](https://open.spotify.com/album/361U0QdVGbCscARmmFWU40) | 3:08 | 2024-05-05 | 2024-08-20 |
@@ -160,7 +161,7 @@
 | [Tell Me Pretty Baby](https://open.spotify.com/track/4UlyQrREv6y6TbCoOJ7Pjq) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama](https://open.spotify.com/album/3VBFRhVl1ZCkhgIXgWG8nY) | 5:07 | 2022-08-05 | 2022-11-09 |
 | [Tell Me Pretty Baby \- 2022 Remaster](https://open.spotify.com/track/6Ll6mkGG1llfhfry1eZGPM) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Sassy Mama \- Live at The Rising Sun Celebrity Jazz Club \(2022 Remaster\)](https://open.spotify.com/album/24FbIjyheRChKtXPRveBEF) | 5:07 | 2022-11-12 |  |
 | [That Lucky Old Sun](https://open.spotify.com/track/0dPS1kignN2T3fTQN7WHqh) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Stronger Than Dirt](https://open.spotify.com/album/5RgBzyz655O88ue7VJyN1l) | 3:37 | 2022-08-05 |  |
-| [The Big Change](https://open.spotify.com/track/75MSIpS4EUiM6JnZ32FQKR) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6v6s3m0PHxZubk5zRV0KMS) | 2:44 | 2025-01-20 |  |
+| [The Big Change](https://open.spotify.com/track/75MSIpS4EUiM6JnZ32FQKR) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Essential Classics, Vol\. 467: Big Mama Thornton](https://open.spotify.com/album/6v6s3m0PHxZubk5zRV0KMS) | 2:44 | 2025-01-20 | 2025-01-24 |
 | [The Big Change](https://open.spotify.com/track/3bZBypHEmW6TUx7JVHJ5FB) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Blues Collective \- Big Mama Thornton](https://open.spotify.com/album/6rHImcH0TPKLFnFga2pQdw) | 2:44 | 2023-03-27 | 2023-09-01 |
 | [The Big Change](https://open.spotify.com/track/3lAKT6qIqXBw2E0vcTPcMK) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/6gtCHbu0e2FQ4X2I6Y6rRj) | 2:45 | 2022-08-05 | 2022-10-13 |
 | [The Big Change](https://open.spotify.com/track/6HbOH4rDGisZtZrc8vEC9D) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [I Smell a Rat](https://open.spotify.com/album/4i1Hee68WI1eDY7EJQ6w1O) | 2:45 | 2024-01-31 | 2024-06-27 |

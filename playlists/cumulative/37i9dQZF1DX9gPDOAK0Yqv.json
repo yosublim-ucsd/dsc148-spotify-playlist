@@ -2520,7 +2520,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-23",
+      "date_removed": null,
       "duration_ms": 270640,
       "name": "Devotion",
       "url": "https://open.spotify.com/track/1mMv198D0XM0bk2NSyXZkl"
@@ -6149,6 +6149,28 @@
     },
     {
       "album": {
+        "name": "Kick It (Andrea Botez Remix)",
+        "url": "https://open.spotify.com/album/6qKyW0Y52WFG8zPV24rJ8p"
+      },
+      "artists": [
+        {
+          "name": "Boris Brejcha",
+          "url": "https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy"
+        },
+        {
+          "name": "Andrea Botez",
+          "url": "https://open.spotify.com/artist/2Csf1qoijHi5nMt2mMJcjd"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205687,
+      "name": "Kick It - Andrea Botez Remix",
+      "url": "https://open.spotify.com/track/1CbZd4FBm8Insquq3HGTGP"
+    },
+    {
+      "album": {
         "name": "KIDS",
         "url": "https://open.spotify.com/album/7D98JwctKq2YRCuYXyEjql"
       },
@@ -6168,6 +6190,28 @@
       "duration_ms": 168569,
       "name": "KIDS",
       "url": "https://open.spotify.com/track/4Io7cOXbdkbFBXlPD79IjX"
+    },
+    {
+      "album": {
+        "name": "Kidz (CamelPhat Remix)",
+        "url": "https://open.spotify.com/album/2AHhP5CKkUDQ5pHZfHDxSS"
+      },
+      "artists": [
+        {
+          "name": "Arodes",
+          "url": "https://open.spotify.com/artist/4p2f8wUtltMAFuIJB4NR47"
+        },
+        {
+          "name": "CamelPhat",
+          "url": "https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207142,
+      "name": "Kidz - CamelPhat Remix",
+      "url": "https://open.spotify.com/track/1DwHuuMEdvpKBNXMj7Dfbh"
     },
     {
       "album": {
@@ -7192,7 +7236,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 208780,
       "name": "March Of Avalon",
       "url": "https://open.spotify.com/track/34c8sV0uwzssoKjOskYMNn"
@@ -12946,7 +12990,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 386739,
       "name": "Turning Stones - Massano Remix",
       "url": "https://open.spotify.com/track/3HlE1wOtMHA9rVdibPcG9j"
@@ -13740,7 +13784,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 156190,
       "name": "Yamore - Mrak & Armonica Remix",
       "url": "https://open.spotify.com/track/28KWF5pRAqsptzJeGZGUYg"

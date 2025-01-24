@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 
 > Soothing drones, ambient piano and new age music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,042,293 likes - 183 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,043,019 likes - 183 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -192,4 +192,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXebxttQCq0zA.md) - [plain]
 | 182 | [Une autre fois](https://open.spotify.com/track/33T4UVNjVx8pWAcWZG4lCn) | [Emmeline Ralph](https://open.spotify.com/artist/3ETsEsGHY5HlPjh1lxVtG8) | [Une autre fois](https://open.spotify.com/album/480hA9KU8gmNMMImvyaSZf) | 3:13 |
 | 183 | [Soft Daydreams](https://open.spotify.com/track/3WHolzou7eg5DPEMhijvsx) | [Lee Hale](https://open.spotify.com/artist/1AbkLy2s1YzaXCRn6vFRoU) | [Soft Daydreams](https://open.spotify.com/album/4w4UzUJJCqCrQ3XZUBCNGY) | 2:33 |
 
-Snapshot ID: `Z4pyDgAAAADOUrVrsGTwEueZqqcCqZIS`
+Snapshot ID: `Z5J+/wAAAAAGbJ2jvtqAxocd8jtwRmYf`

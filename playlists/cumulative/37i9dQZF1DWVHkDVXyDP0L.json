@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "New and local indie noise. Cover: Ripship",
+  "description": "New and local indie noise. Cover: Ruby Fields",
   "name": "Local Noise",
   "tracks": [
     {
@@ -96,6 +96,24 @@
       "duration_ms": 172933,
       "name": "666",
       "url": "https://open.spotify.com/track/5Scl2ZinZWlsHVaAk2BAws"
+    },
+    {
+      "album": {
+        "name": "92 Purebred",
+        "url": "https://open.spotify.com/album/6glzz5fov8Io6RKLQHkdU3"
+      },
+      "artists": [
+        {
+          "name": "Ruby Fields",
+          "url": "https://open.spotify.com/artist/1nwPEi1UZdJtCxBqATpsq3"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202617,
+      "name": "92 Purebred",
+      "url": "https://open.spotify.com/track/5rQH27Qh7corQhEXPbXfka"
     },
     {
       "album": {
@@ -629,6 +647,24 @@
     },
     {
       "album": {
+        "name": "Blackstar",
+        "url": "https://open.spotify.com/album/3m4LplD32kcXmZWrH7VqM6"
+      },
+      "artists": [
+        {
+          "name": "Fanning Dempsey National Park",
+          "url": "https://open.spotify.com/artist/1kfatEbCd4ZdRMeCxklGjA"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238306,
+      "name": "Blackstar",
+      "url": "https://open.spotify.com/track/0DlA3HQ1TZrdqrHB6QAtPY"
+    },
+    {
+      "album": {
         "name": "Bleed But Never Die",
         "url": "https://open.spotify.com/album/625mKCJ7AWHexgVGAbGYk6"
       },
@@ -665,6 +701,24 @@
     },
     {
       "album": {
+        "name": "Blood's on fire",
+        "url": "https://open.spotify.com/album/1pufe0kyP5ZHGywP6UtSoj"
+      },
+      "artists": [
+        {
+          "name": "VOWWS",
+          "url": "https://open.spotify.com/artist/7pBR5RoBlOm3oehKuFCxeb"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181546,
+      "name": "Blood's on fire",
+      "url": "https://open.spotify.com/track/1etVnD5N8LEy8T3Lrsal1F"
+    },
+    {
+      "album": {
         "name": "Dead Slow",
         "url": "https://open.spotify.com/album/6d4juYIxZL9CL89iw5gWGC"
       },
@@ -676,7 +730,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 335998,
       "name": "Blutac",
       "url": "https://open.spotify.com/track/4PGMQGjWQFosqijOML0pV5"
@@ -2236,7 +2290,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 208760,
       "name": "Forgiving Spree",
       "url": "https://open.spotify.com/track/1tdUG5ixeBncyeZdB79qEH"
@@ -2968,6 +3022,24 @@
       "duration_ms": 174526,
       "name": "Humming",
       "url": "https://open.spotify.com/track/67vRUdZ6UJPTTzce2H7nl3"
+    },
+    {
+      "album": {
+        "name": "Forgiving Spree",
+        "url": "https://open.spotify.com/album/4K6yiQ5TlZyqXU4TTHqWgl"
+      },
+      "artists": [
+        {
+          "name": "Slowly Slowly",
+          "url": "https://open.spotify.com/artist/2NNeERUBxmB2UrLFfL1Q8e"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195906,
+      "name": "Hurricane",
+      "url": "https://open.spotify.com/track/0nE5L0dfkTFRnBzkTOH4nD"
     },
     {
       "album": {
@@ -3992,7 +4064,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 193055,
       "name": "Monster In My Room",
       "url": "https://open.spotify.com/track/4FaO2weOQ6p2PVybC4pSSC"
@@ -5397,6 +5469,24 @@
     },
     {
       "album": {
+        "name": "Seven Years",
+        "url": "https://open.spotify.com/album/5acP6WHpqnuRsROnDsDn3P"
+      },
+      "artists": [
+        {
+          "name": "Letters to Lions",
+          "url": "https://open.spotify.com/artist/3H19dUT6SMuMawC1sLwCpx"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185262,
+      "name": "Seven Years",
+      "url": "https://open.spotify.com/track/2HrQshIO9YRkdE4bcyUqbX"
+    },
+    {
+      "album": {
         "name": "Shark",
         "url": "https://open.spotify.com/album/6N103DHkiwthYBOCADC0vM"
       },
@@ -6348,7 +6438,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 188074,
       "name": "The Price Of Fun",
       "url": "https://open.spotify.com/track/7adZDfpvIgx2mLDe2zcMMP"
@@ -6528,10 +6618,28 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 172711,
       "name": "Tighter",
       "url": "https://open.spotify.com/track/4etQ8poZ0EaIKMoFJpORk4"
+    },
+    {
+      "album": {
+        "name": "Tightrope / Vacate",
+        "url": "https://open.spotify.com/album/71z0Oo6ZSNUY6udLVexgPl"
+      },
+      "artists": [
+        {
+          "name": "Press Club",
+          "url": "https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188625,
+      "name": "Tightrope",
+      "url": "https://open.spotify.com/track/5gbxUQZ5S747MlZusDhNSF"
     },
     {
       "album": {
@@ -6816,7 +6924,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 185206,
       "name": "What Do You Want Me To Be",
       "url": "https://open.spotify.com/track/4xlJuoRCEH8hSDaPa1eoxw"

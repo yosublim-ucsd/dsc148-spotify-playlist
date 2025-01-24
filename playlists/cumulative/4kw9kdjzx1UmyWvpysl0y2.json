@@ -16141,6 +16141,28 @@
     },
     {
       "album": {
+        "name": "The Love We Had",
+        "url": "https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59"
+      },
+      "artists": [
+        {
+          "name": "ARMNHMR",
+          "url": "https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1"
+        },
+        {
+          "name": "Trella",
+          "url": "https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221793,
+      "name": "The Love We Had",
+      "url": "https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd"
+    },
+    {
+      "album": {
         "name": "The Magic",
         "url": "https://open.spotify.com/album/6GBf9xoSdsRTa9z3qyeGjs"
       },

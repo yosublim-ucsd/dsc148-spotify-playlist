@@ -4,7 +4,7 @@
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Ali Sethi
 
-163 songs - 8 hr 31 min
+164 songs - 8 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [Musafir Khano](https://open.spotify.com/track/5VHj1Z4ccCPoyufzqrNjfK) | [Amjad Mirani](https://open.spotify.com/artist/74OHc8uMJcIHHjVTVMTfZu), [Babar Mangi](https://open.spotify.com/artist/7zDKZRpusSBsdEa3sUvnQv), [Kaashi Haider](https://open.spotify.com/artist/0ziRedFzsY5tItlM7Jb9jf) | [Musafir Khano](https://open.spotify.com/album/3tZByv2hyjF4zYuLY2ubQN) | 3:27 | 2024-12-12 | 2025-01-17 |
 | [Na Aana](https://open.spotify.com/track/34ZIXyGEOVVS1cw6hxttsb) | [Hareem Rashid](https://open.spotify.com/artist/4tp7OYDn1UdgWEnr3AJiFi) | [Na Aana](https://open.spotify.com/album/1ROznC0oiHzBRnCzJWPyzI) | 3:17 | 2024-11-07 | 2025-01-17 |
 | [Na Raho](https://open.spotify.com/track/2IOqENpEoDATGdBM9cxk0W) | [Ali Alvi](https://open.spotify.com/artist/07cs9v2qoU2I5sshqk56Fz), [Annural Khalid](https://open.spotify.com/artist/1nCZUpBIcyOxufOx0lPeIW), [Abdullah Kasumbi](https://open.spotify.com/artist/0GlE0oxdKhuakcFHkeZ7fR) | [Na Raho](https://open.spotify.com/album/175JMTgzxAxpFDYk5pY7OC) | 3:01 | 2024-06-28 | 2024-11-08 |
+| [Naqaab](https://open.spotify.com/track/5U8vnomI00iJDCN3Gm6Fhh) | [Taimour Baig](https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi), [Rohith Pai Kasturi](https://open.spotify.com/artist/3Ji6vr5jQfh3mMoeVt1mFb), [SarpDansh](https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN), [SickLot](https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6) | [Naqaab](https://open.spotify.com/album/5ULV6AgbJSK5fy7NjBAUfE) | 3:15 | 2025-01-24 |  |
 | [Nishaani](https://open.spotify.com/track/39UMrWPQfDs4BAmkfDHFwU) | [Aqdas Asif](https://open.spotify.com/artist/4EMocUxs9mFdhDfo4WT7kR), [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP) | [Nishaani](https://open.spotify.com/album/5U2UWMIPPqXCDSjkRgqvF2) | 3:07 | 2024-09-09 | 2024-09-14 |
 | [No Calls](https://open.spotify.com/track/5bjtjVRyBpBVIgqqxwFutG) | [Adnan Ali](https://open.spotify.com/artist/0iFTgkSjp5WBTbElQqgjXg), [Z4NE](https://open.spotify.com/artist/2td2YE8f304mP6oNBip6dZ) | [No Calls](https://open.spotify.com/album/1CHYKKtoTvjNgBvsEDRs93) | 4:34 | 2024-11-07 | 2025-01-17 |
 | [Nothing Over You](https://open.spotify.com/track/2LyfpsJ2y2HbDnTVGFnevY) | [danish roomi](https://open.spotify.com/artist/719laN9dZ4QG7Q2F2vOwcP), [SICKKID](https://open.spotify.com/artist/2TUSBgwoYBbYu7nc6bsOIE) | [Nothing Over You](https://open.spotify.com/album/6YBCJyHUjZq9HJCrkvI8QJ) | 2:20 | 2025-01-17 |  |

@@ -2,9 +2,9 @@
 
 ### [超級女聲](https://open.spotify.com/playlist/37i9dQZF1DX9Sg2GTUELDO)
 
-> 感受超級女聲力量。Cover: 泳兒
+> 感受超級女聲力量。Cover: 陳蕾
 
-439 songs - 1 day 2 hr 13 min
+442 songs - 1 day 2 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -29,6 +29,7 @@
 | [Believe Us](https://open.spotify.com/track/7lEgSFthZUIwyW7Ji8plOj) | [Joyce Cheng](https://open.spotify.com/artist/1y4HuOPsPuo8bBIzk5CXsV) | [Believe Us](https://open.spotify.com/album/2j8IcIKnuS9rNXioMlcy1N) | 3:44 | 2024-06-27 |  |
 | [Beyond \- From "Moana 2"/Cantonese Soundtrack Version](https://open.spotify.com/track/2lwWYSBJ0PKZ7dAygqmGQc) | [Sinnie Ng](https://open.spotify.com/artist/7zqVmX2goYKaLa1sIGlo27), [Yuk Yee Lin](https://open.spotify.com/artist/2SvIuUJ9DNfixAuJH4XrZD) | [Beyond \(From "Moana 2"/Cantonese Soundtrack Version\)](https://open.spotify.com/album/7n4EcNj64Q7CBzXM20RyP6) | 3:50 | 2024-11-28 |  |
 | [BIG BANG](https://open.spotify.com/track/5K6uqu5pqE8pccHiXhPujr) | [EOS](https://open.spotify.com/artist/7BqG6ndz4kmVla7YcrYwra) | [BIG BANG](https://open.spotify.com/album/7vfJa7Ud2Uaf2LCVaFY6hs) | 3:12 | 2024-06-27 |  |
+| [Burn and Shine](https://open.spotify.com/track/2ntAwOgGPVA1dJ3o82PR0x) | [Scarlett鍾熙彤](https://open.spotify.com/artist/4SLDZBVUKsfd3sLhPtG0zj) | [Burn and Shine](https://open.spotify.com/album/7afSby7pkqN1TmRBCaZBtl) | 3:26 | 2025-01-23 |  |
 | [California Baby](https://open.spotify.com/track/12HrBbbFqwESyRd7sejSTv) | [Leah Dou](https://open.spotify.com/artist/7mShFo2eYgVBQFZBCilhtl) | [California Baby](https://open.spotify.com/album/0TXWRO41sPLwdOFSgFDhJY) | 3:28 | 2024-08-29 |  |
 | [CALL BACK IN 20](https://open.spotify.com/track/08H8Orz2BCwGi9u8yhHy5D) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [CALL BACK IN 20](https://open.spotify.com/album/5vUrCnv88RAr2k3eBhJifU) | 3:05 | 2024-10-31 |  |
 | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/track/33q6UPpjR3k66k1oxwFbzD) | [COLLAR](https://open.spotify.com/artist/1IlMpBkrZ4Na4S9fOcuN3f) | [Call My Name! \(COLLAR214 ver.\)](https://open.spotify.com/album/79ib7NaPeN0HwOKkq3v6Ao) | 3:30 | 2024-06-27 |  |
@@ -113,6 +114,7 @@
 | [Never Walk Alone](https://open.spotify.com/track/5d8ojsT9pv2WstWgjeUe6i) | [Lokyi@EOS](https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N) | [Never Walk Alone](https://open.spotify.com/album/1GeDkJnIjkFUQUdhFUBnkV) | 3:24 | 2024-10-17 |  |
 | [new classic](https://open.spotify.com/track/11JmqNWpGhVLGy0VvSWYxm) | [XTIE](https://open.spotify.com/artist/4CTOMcrGypQOoxVO3yFlE9) | [new classic](https://open.spotify.com/album/4DdnZM3DZUgqj11BhpqodH) | 3:14 | 2024-06-27 |  |
 | [Nothing](https://open.spotify.com/track/7FjYiUCnjfP1gmzj7aAues) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [The Cloud](https://open.spotify.com/album/73AHz9Ih9eiRutHdvq1Zrr) | 3:21 | 2024-06-27 |  |
+| [nothing](https://open.spotify.com/track/5hXRD8nfoT25akHgDO5LUo) | [dorothy 劉君冬](https://open.spotify.com/artist/1qjsjBF6F451KY2MB5tSKQ) | [nothing](https://open.spotify.com/album/3FXaIHcRPFMBDdCV1gYPRT) | 4:49 | 2025-01-23 |  |
 | [nothing about you](https://open.spotify.com/track/0DhPLOi5pwaNzH74yI82wM) | [Marf 邱彥筒](https://open.spotify.com/artist/5Lhq78PvbkHyCYiKuPHr08) | [nothing about you](https://open.spotify.com/album/5nWghT9U5ZdEiQOeB4rYPC) | 3:01 | 2025-01-02 |  |
 | [NOW](https://open.spotify.com/track/0KrR4Lk6WeGj3oZFq94JHt) | [UNI](https://open.spotify.com/artist/6RsSt1g3GiD3Svzf4DUPYR) | [NOW](https://open.spotify.com/album/7zWGB6nY6AnK8pKfSLuWFf) | 2:52 | 2024-10-03 |  |
 | [On My Way](https://open.spotify.com/track/0h3SKxxvHNH3qtFUMtu1dk) | [Lokyi@EOS](https://open.spotify.com/artist/4Xvv5Voh7NnKzkh1JoYh3N) | [On My Way](https://open.spotify.com/album/6HbD9kVjMDCqgsEVOxNJmX) | 3:05 | 2024-08-08 |  |
@@ -438,6 +440,7 @@
 | [隔離 \- Studio Live Duet](https://open.spotify.com/track/7Fr7Ag2bQyJl86BtsFmdOW) | [JACE](https://open.spotify.com/artist/1SCaQu3jTbcKIjy8aC7KHa), [Terence Lam](https://open.spotify.com/artist/3tvtGR8HzMHDbkLeZrFiBI) | [Processing](https://open.spotify.com/album/7cLF91NmhGSX5DLomLVeIh) | 4:10 | 2024-06-27 |  |
 | [雙喜樓](https://open.spotify.com/track/3Tt6UGlrrAWy3WqnVLmHNB) | [Twins](https://open.spotify.com/artist/7jXoGtR69J2iYCefc58MZX) | [雙喜樓](https://open.spotify.com/album/0rfxdOX5Bo3UhbPDgXIqPm) | 2:51 | 2024-06-27 |  |
 | [難道我還未夠難](https://open.spotify.com/track/6LOP8nbFXFydvDELLs1uss) | [葉巧琳](https://open.spotify.com/artist/48tRNx6mDy91ETezlPgihs) | [Never Too Late, My Path, Mi Way](https://open.spotify.com/album/3tXW0dL5F856wvxxZ1BYPA) | 4:20 | 2024-06-27 |  |
+| [雲的自述](https://open.spotify.com/track/48tKWIvd2NS92ParNHnZOX) | [Cloud 雲浩影](https://open.spotify.com/artist/4LM4l7LiE1ulVQ32zZTtJk) | [TOUCH OF ABSENCE](https://open.spotify.com/album/0EozGBNMRh65VjjfAP6FCL) | 3:02 | 2025-01-23 |  |
 | [靈魂奇異點](https://open.spotify.com/track/7hTvTrwnO9JWCFXFUF1Or0) | [Lolly Talk](https://open.spotify.com/artist/58mVHcSF3eyFFKomq28iRr) | [靈魂奇異點](https://open.spotify.com/album/3lqBazVg4z4NQoqYreNCbu) | 6:35 | 2024-10-03 |  |
 | [靈魂有路](https://open.spotify.com/track/6YhyH78Zvda6ynofvJSJB5) | [雷同二友](https://open.spotify.com/artist/3oOIMiWNGFGHjWEqo2okiU) | [靈魂有路](https://open.spotify.com/album/0yrJL34mQkRhq8AdSzyN6i) | 3:19 | 2024-06-27 |  |
 | [青年危機](https://open.spotify.com/track/3g0L1x7OvFrsgy9e25LP7I) | [Panther Chan](https://open.spotify.com/artist/3jS58yKkLzOd8S8IHyCsEm) | [青年危機](https://open.spotify.com/album/3k7ZHbjHjOQsadMVss6NKF) | 3:38 | 2024-06-27 |  |

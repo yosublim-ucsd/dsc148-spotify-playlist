@@ -4,7 +4,7 @@
 
 > Strictly Nigerian worship songs\. Cover: "<a href=https://open.spotify.com/artist/1voWj2pMS3ApzUroyIcHXM?si=OwdlPcQqQ8qmtGr7xTH\_\-Q>Ebuka Songs</a>
 
-141 songs - 16 hr 32 min
+143 songs - 16 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Capable God](https://open.spotify.com/track/1ba2375k5XaAIGWPMC57y1) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [Man Of Galilee](https://open.spotify.com/album/6w4tBana90AXVJOxcNHdHv) | 3:24 | 2024-05-09 |  |
 | [Casting Crowns](https://open.spotify.com/track/2AXoz82FM7qwhFwEKztGdm) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Son of God \(& Imela\)](https://open.spotify.com/album/17QFKUXHOJcDzNoDijDcXn) | 6:34 | 2024-05-09 |  |
 | [Champion \- Live](https://open.spotify.com/track/40ldUo6gf5CSVOHztQBmCe) | [Steve Crown](https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3) | [Champion \(Live\)](https://open.spotify.com/album/1fy89uEPOdkDEprjtSvdBP) | 12:08 | 2024-12-13 |  |
+| [Chante \(Parlour Sessions\) \- Live](https://open.spotify.com/track/5Gu3WwvO4WqqvqG5NLGs55) | [S.O.N Music](https://open.spotify.com/artist/4nEEmsqor0MO2UiIjw1P8T) | [Chante \(Parlour Sessions\) \[Live\]](https://open.spotify.com/album/4ntRoxuVtaDqixFOtm7UfR) | 3:04 | 2025-01-24 |  |
 | [Confessions \- Live](https://open.spotify.com/track/263bKs830B9Ae4UzgtU80Q) | [Sinach](https://open.spotify.com/artist/6hKHFC67DZJNw9tg1l0lIe) | [Confessions \(Live\)](https://open.spotify.com/album/69So72vj1mzoGgOjBqZJse) | 7:24 | 2024-05-09 |  |
 | [Deep Worship Medley](https://open.spotify.com/track/0IMjgpxOemOw8P9DYlIKVL) | [I\-fee Sound](https://open.spotify.com/artist/2KksbUKNi1zlUA3f2YEilP) | [Deep Worship Medley](https://open.spotify.com/album/5wZgcf3QmwWCHtXTo4l81w) | 4:35 | 2024-06-28 | 2025-01-03 |
 | [Dependable](https://open.spotify.com/track/1IkzykEzwPkDovrZAcCCFP) | [Enkay Ogboruche](https://open.spotify.com/artist/3v1qozG4k1E878TKsLr6eX), [Kierra Sheard](https://open.spotify.com/artist/4x3CdMQ3YjnPn4Evhyni5y) | [Dependable](https://open.spotify.com/album/2aWYCoqfzCRIpRizerkBW4) | 4:22 | 2024-09-13 | 2024-12-13 |
@@ -107,6 +108,7 @@
 | [Never seen](https://open.spotify.com/track/71CbJVj0vCq4HPjAdbUd5S) | [Yadah](https://open.spotify.com/artist/3NVaeJiV5H9k9Y67G0hI3q) | [Never seen](https://open.spotify.com/album/4NBNBK2VbCpLBSOGVKJsJD) | 5:15 | 2024-05-09 |  |
 | [No Weapon](https://open.spotify.com/track/5THnN0q7w8w34BMp7WGZlA) | [Judikay](https://open.spotify.com/artist/5Ja8vZu9RqunrDS0uIFL5x) | [All Things New](https://open.spotify.com/album/1S1Zy7QMIHAZAWXY5Uy55n) | 5:14 | 2024-11-15 | 2025-01-17 |
 | [None As Great \(feat\. IBKSings\)](https://open.spotify.com/track/04uOK00GAvZa8UCf3bX5Hd) | [Abby Godwin](https://open.spotify.com/artist/2vKfioYB4bNu6OIXMkwC6I), [IBKSings](https://open.spotify.com/artist/5H4j32gWFbJQnjImeuaHhU) | [None As Great \(feat\. IBKSings\)](https://open.spotify.com/album/0Tnya0sXXeYwRgsrFAowtD) | 7:04 | 2024-10-05 | 2024-11-22 |
+| [Not My Will \( Live \)](https://open.spotify.com/track/2SKJFXD7b31nX4yD8W41ZT) | [Emmasings](https://open.spotify.com/artist/77aKxTssZ17zSHCkrviZy7), [kaestrings](https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC) | [Not My Will \( Live \)](https://open.spotify.com/album/2MC1vGGqfZWGLBFKnIIYPd) | 9:44 | 2025-01-24 |  |
 | [Nothing Without You \- Live](https://open.spotify.com/track/3c14NjEO3dR6bGZpCl7VBp) | [Uche Agu](https://open.spotify.com/artist/2nSP3Ap7hxf4m4o5F5RXVj), [Revival Today Worship](https://open.spotify.com/artist/3VoLng4VXiHIKe4MnsnDf1) | [Nothing Without You \(Live\)](https://open.spotify.com/album/1jQQP8xN0197YhIRumYCia) | 6:35 | 2024-05-31 |  |
 | [Oba Awon Oba](https://open.spotify.com/track/4H0ueBPmWD9XeqjeiNJVhf) | [Joe Mettle](https://open.spotify.com/artist/1An6gOOlZ9NITlQs2ZtBCb), [Sunmisola Agbebi](https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU) | [Oba Awon Oba](https://open.spotify.com/album/3J7nsyhKRZqxtGbn1XzmHW) | 12:13 | 2024-06-14 |  |
 | [Oghene Do](https://open.spotify.com/track/3O0Wf0GHDyV2AAZQO0KSPz) | [Frank Edwards](https://open.spotify.com/artist/5gOBGZay8Nt5orlQI8UDDg) | [Unlimited \- Verse 1](https://open.spotify.com/album/3cBoClyLmO7nWQAVcPigPI) | 4:52 | 2024-05-09 |  |

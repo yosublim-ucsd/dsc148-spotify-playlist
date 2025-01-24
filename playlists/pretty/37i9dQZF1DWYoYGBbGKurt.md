@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 
 > Lazy slow lofi beats for laid\-back moments.
 
-[Spotify](https://open.spotify.com/user/spotify) - 823,960 likes - 375 songs - 14 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 824,445 likes - 375 songs - 14 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -384,4 +384,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoYGBbGKurt.md) - [plain]
 | 374 | [Relaxing](https://open.spotify.com/track/5qPvE1xDoOOHvY2W7Jc37b) | [Cosmic Nuit](https://open.spotify.com/artist/46LH6chzwNfYqkt6AklmZk) | [Relaxing](https://open.spotify.com/album/5p2RlAMEMnXnc39KBmy9yB) | 2:38 |
 | 375 | [Minda](https://open.spotify.com/track/4p3OCZ5yC1dUp7wmVurMer) | [Arakanz](https://open.spotify.com/artist/2myMey4zRQBGr2dGyyf2iZ) | [Lofi Music](https://open.spotify.com/album/6kTlVXXPfRtHP0FmKUhaDn) | 1:40 |
 
-Snapshot ID: `Z4nV0AAAAAAbR+NDr2/PcRzNSCchRfbq`
+Snapshot ID: `Z5J9ZQAAAACavUuA0cEWuFRCsojnYCvw`

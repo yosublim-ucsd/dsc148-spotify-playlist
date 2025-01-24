@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 
 > Ambient drone to make you feel weightless.
 
-[Spotify](https://open.spotify.com/user/spotify) - 872,808 likes - 170 songs - 8 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 873,262 likes - 170 songs - 8 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -179,4 +179,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1n9whBbBKoL.md) - [plain]
 | 169 | [Natural Aura](https://open.spotify.com/track/2P9W9q7A8RUUU2XePN5IQM) | [New Dawns](https://open.spotify.com/artist/5hrLalNIieWvBxqxbj855p) | [Natural Aura](https://open.spotify.com/album/0dkM1RjmZRlMDXCweCa8B0) | 2:22 |
 | 170 | [Whisper](https://open.spotify.com/track/2v76MOixsD0W5HXeQmfwDv) | [Hers Lake](https://open.spotify.com/artist/7EqcX6VMuJAQViJqJrL2yA) | [Whisper](https://open.spotify.com/album/3nwa5OspLhO62FEZXfmaE9) | 2:31 |
 
-Snapshot ID: `Z4Z14QAAAAAJPPeFty3wJmUD8cru3AV+`
+Snapshot ID: `Z5J90QAAAABaxbbYAM0VxNzJzZPO4vg9`

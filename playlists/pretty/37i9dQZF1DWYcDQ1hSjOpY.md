@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,982,531 likes - 218 songs - 10 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,983,666 likes - 218 songs - 10 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -227,4 +227,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 217 | [Siesta](https://open.spotify.com/track/1of1w719lgQC4RxNrXNAHh) | [Sleep Advisor](https://open.spotify.com/artist/0Il8fx16KHOeF6EdGdCgE6) | [Siesta](https://open.spotify.com/album/7BvVjal3EM8Y4UmhcCwvkB) | 2:42 |
 | 218 | [Chilled Soul](https://open.spotify.com/track/53Le56pxNNt0sAOZ34Qocn) | [Afro Lex Tex](https://open.spotify.com/artist/5KGFdiCXMIuYjmaVSKIOrS) | [Chilled Soul](https://open.spotify.com/album/6JY7isSUV7ZmpTCIX0s2k7) | 3:14 |
 
-Snapshot ID: `Z5DrVAAAAAC2w48jgS8YH+VeST4W6d2x`
+Snapshot ID: `Z5J9VwAAAAB2WP01+9EdABPb1JE0YeSj`

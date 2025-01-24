@@ -1,6 +1,6 @@
 {
   "description": "S\u00fabete a la troca \u2764\ufe0f",
-  "num_followers": 63359,
+  "num_followers": 63386,
   "original_name": "La Mamalona Rom\u00e1ntica",
   "owner": {
     "name": "Spotify",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2024-12-26 19:13:24",
       "album": {
-        "name": "Ando Free",
-        "url": "https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv"
-      },
-      "artists": [
-        {
-          "name": "Octavio Cuadras",
-          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
-        },
-        {
-          "name": "Doble Cara",
-          "url": "https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf"
-        }
-      ],
-      "duration_ms": 124973,
-      "name": "Ando Free",
-      "url": "https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7"
-    },
-    {
-      "added_at": "2024-12-26 19:13:24",
-      "album": {
         "name": "Casa Lumbre",
         "url": "https://open.spotify.com/album/4myLmh9NdqAnvbXuc2isCR"
       },
@@ -1595,6 +1575,26 @@
       "duration_ms": 189924,
       "name": "Muy Tarde",
       "url": "https://open.spotify.com/track/5FH58kM8Q3h2vS5LKhJf9H"
+    },
+    {
+      "added_at": "2024-12-26 19:13:24",
+      "album": {
+        "name": "Ando Free",
+        "url": "https://open.spotify.com/album/0NoQPCukAasKcHUePQhFDv"
+      },
+      "artists": [
+        {
+          "name": "Octavio Cuadras",
+          "url": "https://open.spotify.com/artist/2DleHTnLZ18SJy0LCcoIGp"
+        },
+        {
+          "name": "Doble Cara",
+          "url": "https://open.spotify.com/artist/3lecORpfeJJC7LhvZBBPYf"
+        }
+      ],
+      "duration_ms": 124973,
+      "name": "Ando Free",
+      "url": "https://open.spotify.com/track/4d3hhn6sEfrxEv11zGVJC7"
     },
     {
       "added_at": "2024-12-26 19:13:24",

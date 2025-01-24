@@ -3007,6 +3007,28 @@
     },
     {
       "album": {
+        "name": "The Call That Never Ended, Pt. 1",
+        "url": "https://open.spotify.com/album/01CTkUKTpiRO6XCAoJH9F4"
+      },
+      "artists": [
+        {
+          "name": "Drude",
+          "url": "https://open.spotify.com/artist/3vQjl2sfogIo5VGFrh4at6"
+        },
+        {
+          "name": "Syd",
+          "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 105048,
+      "name": "Baawe She Callin",
+      "url": "https://open.spotify.com/track/1cgtnrPjZpHdeRkIrSiFsc"
+    },
+    {
+      "album": {
         "name": "Baby again..",
         "url": "https://open.spotify.com/album/7J7redEXgOUEsUBXukhkUF"
       },
@@ -4722,7 +4744,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 216000,
       "name": "BLACKOUT! 3",
       "url": "https://open.spotify.com/track/5CKv7zo6vt7FbPoI7rbguS"
@@ -8250,7 +8272,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 308589,
       "name": "Criminal",
       "url": "https://open.spotify.com/track/03XeWmadwkt3osO7cozsqm"
@@ -16154,7 +16176,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 116880,
       "name": "Go Apart",
       "url": "https://open.spotify.com/track/0lHsZa5J4PqrvolVVoqHgt"
@@ -17666,7 +17688,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 135996,
       "name": "Hello, Hi",
       "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
@@ -39441,6 +39463,28 @@
     },
     {
       "album": {
+        "name": "That Guy",
+        "url": "https://open.spotify.com/album/0OscGtqYTSdZTYIuBa26To"
+      },
+      "artists": [
+        {
+          "name": "Sexyy VUL",
+          "url": "https://open.spotify.com/artist/1BorcWao3Zfoso2ORVMSYi"
+        },
+        {
+          "name": "Tyler VUL",
+          "url": "https://open.spotify.com/artist/36qSupTgKl4D7483wumN2Q"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173819,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/2lXqn9L4hRksbYKJAsM3R0"
+    },
+    {
+      "album": {
         "name": "That's Texas",
         "url": "https://open.spotify.com/album/4Mk6vJ6RJF1qy0F3Rcnyj8"
       },
@@ -46300,7 +46344,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 345812,
       "name": "Would You Fall in Love with Me Again",
       "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"
@@ -47258,6 +47302,24 @@
       "duration_ms": 245325,
       "name": "Your Little Suburbia Is In Ruins",
       "url": "https://open.spotify.com/track/5ov5AZ68uU6HpXk5y7j92G"
+    },
+    {
+      "album": {
+        "name": "Your New Favorite Song",
+        "url": "https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "date_added": "2025-01-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187666,
+      "name": "Your New Favorite Song",
+      "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"
     },
     {
       "album": {

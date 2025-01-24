@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De beste Nederlandse liedjes. Cover: LUNA",
+  "description": "De beste Nederlandse liedjes. Cover: Claude & Zo\u00eb Tauran",
   "name": "Beste van NL",
   "tracks": [
     {
@@ -780,7 +780,7 @@
       ],
       "date_added": "2024-03-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 174683,
       "name": "Beetje Gek",
       "url": "https://open.spotify.com/track/6PfpgDQoqEhOfemR7rvsHi"
@@ -860,7 +860,7 @@
       ],
       "date_added": "2023-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 225019,
       "name": "Blijf Nog Even",
       "url": "https://open.spotify.com/track/1HjMwU04KY9TEeNG4MRC3S"
@@ -1001,6 +1001,24 @@
     },
     {
       "album": {
+        "name": "C'est La Vie",
+        "url": "https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV"
+      },
+      "artists": [
+        {
+          "name": "Chef'Special",
+          "url": "https://open.spotify.com/artist/7IiSLreTg1of8dDwxwiPw3"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183175,
+      "name": "C'est La Vie",
+      "url": "https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z"
+    },
+    {
+      "album": {
         "name": "Champions League",
         "url": "https://open.spotify.com/album/4hbnlDx7CSVBLrrXVpjyFo"
       },
@@ -1100,6 +1118,32 @@
       "duration_ms": 229466,
       "name": "Daar Gaat Ze",
       "url": "https://open.spotify.com/track/2vFzC766RC2m36ywFyj09S"
+    },
+    {
+      "album": {
+        "name": "Dag & Nacht",
+        "url": "https://open.spotify.com/album/3WQw7yodCLHEGSeuMeRjau"
+      },
+      "artists": [
+        {
+          "name": "Jaap Reesema",
+          "url": "https://open.spotify.com/artist/5WxnXxSCyhDSyi6elhBZd4"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162400,
+      "name": "Dag & Nacht",
+      "url": "https://open.spotify.com/track/3By566RxwlcEG4yOxdSlE9"
     },
     {
       "album": {
@@ -1578,7 +1622,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 196384,
       "name": "Engelbewaarder",
       "url": "https://open.spotify.com/track/3bqza6yXHT7b6JqbeyWpFD"
@@ -1997,6 +2041,24 @@
     },
     {
       "album": {
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF"
+      },
+      "artists": [
+        {
+          "name": "Son Mieux",
+          "url": "https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178779,
+      "name": "Have A Little Faith",
+      "url": "https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti"
+    },
+    {
+      "album": {
         "name": "Hee Joh Jip",
         "url": "https://open.spotify.com/album/2h9lK42gs4W4NM9EgLUbxI"
       },
@@ -2317,6 +2379,24 @@
     },
     {
       "album": {
+        "name": "Hoogtevrees",
+        "url": "https://open.spotify.com/album/5gyOFMVzZiV8YeT7xsmpss"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159709,
+      "name": "Hoogtevrees",
+      "url": "https://open.spotify.com/track/7G5Wad9RvRKetR3icB6SOD"
+    },
+    {
+      "album": {
         "name": "Hou Me Los Van Dichtbij",
         "url": "https://open.spotify.com/album/58WgPfVCz1tOCJ4DTcwVKA"
       },
@@ -2332,7 +2412,7 @@
       ],
       "date_added": "2023-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 154383,
       "name": "Hou Me Los Van Dichtbij",
       "url": "https://open.spotify.com/track/7bG8a7JbcBftmxVtFMyz9Y"
@@ -2480,6 +2560,24 @@
       "duration_ms": 183086,
       "name": "I SAID NO SIR",
       "url": "https://open.spotify.com/track/22UKbVtcfHOaGpCceEpTgi"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/2Yfh7AQ5WbJFv6RwIAbJck"
+      },
+      "artists": [
+        {
+          "name": "Davina Michelle",
+          "url": "https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223384,
+      "name": "I Won't Let Go",
+      "url": "https://open.spotify.com/track/5PR3cK0y8Y8XikFxLnDkrm"
     },
     {
       "album": {
@@ -2813,6 +2911,28 @@
     },
     {
       "album": {
+        "name": "Je T'aime",
+        "url": "https://open.spotify.com/album/2RrSrjr3Cj1r5t6OYI9eu5"
+      },
+      "artists": [
+        {
+          "name": "Claude",
+          "url": "https://open.spotify.com/artist/205nyHBi0lspcUT37YqWom"
+        },
+        {
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179005,
+      "name": "Je T'aime",
+      "url": "https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA"
+    },
+    {
+      "album": {
         "name": "Hard Work Pays Off 2",
         "url": "https://open.spotify.com/album/17w515zxEcoNVRblUqQrG9"
       },
@@ -2828,6 +2948,24 @@
       "duration_ms": 221432,
       "name": "Jungle",
       "url": "https://open.spotify.com/track/295hepw2obbNmOfPOu56td"
+    },
+    {
+      "album": {
+        "name": "Ken Je Dat Gevoel",
+        "url": "https://open.spotify.com/album/6GW5a2DNFBewhniIe3LD2x"
+      },
+      "artists": [
+        {
+          "name": "Suzan & Freek",
+          "url": "https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171750,
+      "name": "Ken Je Dat Gevoel",
+      "url": "https://open.spotify.com/track/1nzVNvN2bLkN8AMjfTxvTT"
     },
     {
       "album": {
@@ -2998,7 +3136,7 @@
       ],
       "date_added": "2024-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 207202,
       "name": "Laat Me Nooit Meer Los (Never Let Me Go)",
       "url": "https://open.spotify.com/track/1prhH9cmEkXHnAprZ92Ake"
@@ -3326,7 +3464,7 @@
       ],
       "date_added": "2024-10-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 177877,
       "name": "Mes In M'n Rug",
       "url": "https://open.spotify.com/track/4GZd9XVEm3YxbTtll982i1"
@@ -3380,7 +3518,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 202627,
       "name": "Miracles",
       "url": "https://open.spotify.com/track/0kVdeFsVblCJp4zDyf57EG"
@@ -3937,6 +4075,36 @@
     },
     {
       "album": {
+        "name": "Op Jou Heb Ik Gewacht",
+        "url": "https://open.spotify.com/album/2FNg6ZrAoDT0KxI1sy97b2"
+      },
+      "artists": [
+        {
+          "name": "De Poema's",
+          "url": "https://open.spotify.com/artist/27aNYoqLUzogd4oSliq1Md"
+        },
+        {
+          "name": "Snelle",
+          "url": "https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD"
+        },
+        {
+          "name": "Acda en de Munnik",
+          "url": "https://open.spotify.com/artist/040Fqhc0l7a4MPeDx6cneh"
+        },
+        {
+          "name": "Van Dik Hout",
+          "url": "https://open.spotify.com/artist/7t1YgV4PxSjBg9P8ZqE4Vo"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175979,
+      "name": "Op Jou Heb Ik Gewacht",
+      "url": "https://open.spotify.com/track/0uOc3SO3ZkrNeL5khr4GUn"
+    },
+    {
+      "album": {
         "name": "Beste Zangers Seizoen 12 (Aflevering 8 - Duetten)",
         "url": "https://open.spotify.com/album/282BwXPUfsaB47dC9dKWIi"
       },
@@ -4064,7 +4232,7 @@
       ],
       "date_added": "2024-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 173031,
       "name": "Patronen",
       "url": "https://open.spotify.com/track/1df6j97W2WPuIprZJQ9TxV"
@@ -4165,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "Rode Draad",
+        "url": "https://open.spotify.com/album/6i3eCPcLlIIWLXNgrO6CgH"
+      },
+      "artists": [
+        {
+          "name": "Hannah Mae",
+          "url": "https://open.spotify.com/artist/5oNWzcU0mYK1zDUxBGHIaG"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176333,
+      "name": "Rode Draad",
+      "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
+    },
+    {
+      "album": {
         "name": "Pressure Makes Diamonds",
         "url": "https://open.spotify.com/album/0A9Ozy729zqiSdMVkBMizh"
       },
@@ -4234,7 +4420,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 262554,
       "name": "Salmari & Kreeft",
       "url": "https://open.spotify.com/track/12BhfJTdaDmy9dSAQIaLPN"
@@ -4552,6 +4738,24 @@
       "duration_ms": 187832,
       "name": "Speed Of Light",
       "url": "https://open.spotify.com/track/7qE8D41cBVCWorwrS4zNEB"
+    },
+    {
+      "album": {
+        "name": "Spijt Is Voor Later",
+        "url": "https://open.spotify.com/album/6BkGw2ZJrcHzZkxGzdKFGT"
+      },
+      "artists": [
+        {
+          "name": "Martin Morero",
+          "url": "https://open.spotify.com/artist/2ZfQk5ZacjDAu5FkpFihF3"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164573,
+      "name": "Spijt Is Voor Later",
+      "url": "https://open.spotify.com/track/2QwAzwjpruvSZ83t7wlZVD"
     },
     {
       "album": {
@@ -5093,6 +5297,24 @@
     },
     {
       "album": {
+        "name": "Vandaag Ben Ik Van Jou",
+        "url": "https://open.spotify.com/album/2bqoAY5qSCGMAjp4HzE8bO"
+      },
+      "artists": [
+        {
+          "name": "Yves Berendse",
+          "url": "https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177893,
+      "name": "Vandaag Ben Ik Van Jou",
+      "url": "https://open.spotify.com/track/4t1h7BTPZFSHBQRz3MJ7sK"
+    },
+    {
+      "album": {
         "name": "Vannacht Slaap Jij Bij Mij",
         "url": "https://open.spotify.com/album/72aiMSxFyKAiY4mrolRPgj"
       },
@@ -5564,7 +5786,7 @@
       ],
       "date_added": "2023-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 174266,
       "name": "Waves",
       "url": "https://open.spotify.com/track/3s8GJ1A9ujxsKcLaJ2wY7Q"
@@ -5998,7 +6220,7 @@
       ],
       "date_added": "2024-04-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 159000,
       "name": "\u00c9coutez-moi",
       "url": "https://open.spotify.com/track/4MpBOY98wCVLORdmbrBh3o"

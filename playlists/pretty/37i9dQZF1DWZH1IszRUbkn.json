@@ -1,6 +1,6 @@
 {
   "description": "Canta juntos con tus artistas favoritos.",
-  "num_followers": 1184,
+  "num_followers": 1187,
   "original_name": "Cantando con tus Favoritos",
   "owner": {
     "name": "Spotify",
@@ -623,18 +623,42 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
+        "name": "Violetta",
+        "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Mercedes Lambre",
+          "url": "https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh"
+        },
+        {
+          "name": "Lodovica Comello",
+          "url": "https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq"
+        },
+        {
+          "name": "Candelaria Molfese",
+          "url": "https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy"
+        },
+        {
+          "name": "Facundo Gamband\u00e9",
+          "url": "https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG"
+        },
+        {
+          "name": "Jorge Blanco",
+          "url": "https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD"
+        },
+        {
+          "name": "Nick Garnier",
+          "url": "https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy"
+        },
+        {
+          "name": "Rodrigo Velilla",
+          "url": "https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv"
         }
       ],
-      "duration_ms": 175333,
-      "name": "Vamos a Jugar",
-      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
+      "duration_ms": 177346,
+      "name": "Juntos Somos Mas",
+      "url": "https://open.spotify.com/track/1pJia6Nw9TNRs71V2R7fKT"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -735,46 +759,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Violetta",
-        "url": "https://open.spotify.com/album/00tqLzALXmAgUDMN7kycOS"
-      },
-      "artists": [
-        {
-          "name": "Mercedes Lambre",
-          "url": "https://open.spotify.com/artist/6LIY7Ni8uMsuVOKZq4iNPh"
-        },
-        {
-          "name": "Lodovica Comello",
-          "url": "https://open.spotify.com/artist/1vANzzDo9L1ZyCKJaYQQvq"
-        },
-        {
-          "name": "Candelaria Molfese",
-          "url": "https://open.spotify.com/artist/3QHfoNHT7vrSZX2XatyEsy"
-        },
-        {
-          "name": "Facundo Gamband\u00e9",
-          "url": "https://open.spotify.com/artist/2yB4FfJdqlQ4UGVuZNTemG"
-        },
-        {
-          "name": "Jorge Blanco",
-          "url": "https://open.spotify.com/artist/6MWKObDGDrI3jN3Q3d9dpD"
-        },
-        {
-          "name": "Nick Garnier",
-          "url": "https://open.spotify.com/artist/22FTF2sRe1pNWQKrotCSRy"
-        },
-        {
-          "name": "Rodrigo Velilla",
-          "url": "https://open.spotify.com/artist/625j5WP6f7bEtBOu0StmKv"
-        }
-      ],
-      "duration_ms": 177346,
-      "name": "Juntos Somos Mas",
-      "url": "https://open.spotify.com/track/1pJia6Nw9TNRs71V2R7fKT"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "Viva Kids, Vol. 1",
         "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
@@ -784,9 +768,9 @@
           "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 156453,
-      "name": "Osito Carpintero",
-      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
+      "duration_ms": 175333,
+      "name": "Vamos a Jugar",
+      "url": "https://open.spotify.com/track/4qRrtwjr7wKWniPuFr2Cu9"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -823,22 +807,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Miss Patylu Vol. 2",
-        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
-      },
-      "artists": [
-        {
-          "name": "Patylu",
-          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
-        }
-      ],
-      "duration_ms": 152198,
-      "name": "Sana Sana",
-      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "\u00a1Fantastico!",
         "url": "https://open.spotify.com/album/0ipw5KNRW7MMROqv1rDR8R"
       },
@@ -851,6 +819,22 @@
       "duration_ms": 179026,
       "name": "Los Numeros",
       "url": "https://open.spotify.com/track/4Lm4ik2rP04Td4y0UgnVCW"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Miss Patylu Vol. 2",
+        "url": "https://open.spotify.com/album/7EEXPQpy2rAwofhzj8FZ4U"
+      },
+      "artists": [
+        {
+          "name": "Patylu",
+          "url": "https://open.spotify.com/artist/5nkNDzN92BPWBsPugagYfb"
+        }
+      ],
+      "duration_ms": 152198,
+      "name": "Sana Sana",
+      "url": "https://open.spotify.com/track/3Lp1uOs9bgSDV4UtxSnqBF"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -871,22 +855,6 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "Viva Kids, Vol. 1",
-        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
-      },
-      "artists": [
-        {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
-        }
-      ],
-      "duration_ms": 184226,
-      "name": "Garabato Colorado",
-      "url": "https://open.spotify.com/track/3XjOBu6y6mlyGJK9gABfL9"
-    },
-    {
-      "added_at": "2020-04-27 15:43:16",
-      "album": {
         "name": "24 Horas",
         "url": "https://open.spotify.com/album/6tm1M6j9spjOrQOufaVGEw"
       },
@@ -899,6 +867,22 @@
       "duration_ms": 158986,
       "name": "Mal\u00edsima",
       "url": "https://open.spotify.com/track/3IwVXqUC0QRTDeKiKnzn5F"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Un Mundo De Canciones",
+        "url": "https://open.spotify.com/album/36XYzswEBwXqGIjawO5juU"
+      },
+      "artists": [
+        {
+          "name": "CantaJuego",
+          "url": "https://open.spotify.com/artist/1A4041ctH86ZE5rFqr0Poe"
+        }
+      ],
+      "duration_ms": 129493,
+      "name": "El Sapo Pepe Y La Rana Juana",
+      "url": "https://open.spotify.com/track/4zSxmtADvuhuFuEalREYgE"
     },
     {
       "added_at": "2020-04-27 15:43:16",
@@ -939,18 +923,34 @@
     {
       "added_at": "2020-04-27 15:43:16",
       "album": {
-        "name": "La fiesta de cumplea\u00f1os",
-        "url": "https://open.spotify.com/album/4CDg1C6bHxichuJfAkXH0a"
+        "name": "Viva Kids, Vol. 1",
+        "url": "https://open.spotify.com/album/7GaUkXZ3XoxhajIFGd2Cw5"
       },
       "artists": [
         {
-          "name": "Trepsi",
-          "url": "https://open.spotify.com/artist/6uqcdmVQzxfdgsKWB04shs"
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
         }
       ],
-      "duration_ms": 72489,
-      "name": "Las ma\u00f1anitas",
-      "url": "https://open.spotify.com/track/38zrUigO3cpDgezXQWRDzN"
+      "duration_ms": 156453,
+      "name": "Osito Carpintero",
+      "url": "https://open.spotify.com/track/4x9TXDIjvz3RElsuPiEVqE"
+    },
+    {
+      "added_at": "2020-04-27 15:43:16",
+      "album": {
+        "name": "Entre Ayer Y Hoy",
+        "url": "https://open.spotify.com/album/5hQ1RpVaS1pFO2fnOyHBlj"
+      },
+      "artists": [
+        {
+          "name": "Payasitas Nifu Nifa",
+          "url": "https://open.spotify.com/artist/3p8aW7ByUTuXOA7RI9A10T"
+        }
+      ],
+      "duration_ms": 147762,
+      "name": "Sana, Sana, Colita De Rana (Fierro & M\u00e1rquez)",
+      "url": "https://open.spotify.com/track/7Lz7aRrIQVXguc0YAyN7QY"
     }
   ],
   "unique_name": "Cantando con tus Favoritos",

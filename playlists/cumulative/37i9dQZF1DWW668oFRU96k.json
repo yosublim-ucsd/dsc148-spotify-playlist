@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-04",
-  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: Alan Walker",
+  "description": "A selection of new, quality electro sounds from your favorite EDM acts! Cover: OneRepublic x Kygo",
   "name": "Electro Mix",
   "tracks": [
     {
@@ -530,6 +530,32 @@
       "duration_ms": 167809,
       "name": "Act A Fool",
       "url": "https://open.spotify.com/track/6iIucvXpOFkJghgzMzqB1A"
+    },
+    {
+      "album": {
+        "name": "Act of God",
+        "url": "https://open.spotify.com/album/3uKmknD3G3fnCLgcCg70V0"
+      },
+      "artists": [
+        {
+          "name": "Layton Giordani",
+          "url": "https://open.spotify.com/artist/7mC3RkNNTV6p2j9w4F8Ip4"
+        },
+        {
+          "name": "Sarah de Warren",
+          "url": "https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur"
+        },
+        {
+          "name": "Linney",
+          "url": "https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232558,
+      "name": "Act of God",
+      "url": "https://open.spotify.com/track/5712EypGa7HP0wusr6zRFj"
     },
     {
       "album": {
@@ -3615,6 +3641,32 @@
     },
     {
       "album": {
+        "name": "Bittersweet",
+        "url": "https://open.spotify.com/album/2YBVdVWIfh2qMHIwczlmdE"
+      },
+      "artists": [
+        {
+          "name": "Audien",
+          "url": "https://open.spotify.com/artist/4xnMDfgEmXZEEDdITKcGuE"
+        },
+        {
+          "name": "Shallou",
+          "url": "https://open.spotify.com/artist/7C3Cbtr2PkH2l4tOGhtCsk"
+        },
+        {
+          "name": "Rosie Darling",
+          "url": "https://open.spotify.com/artist/6kDXH8d9LugUAsHIozzDAI"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212000,
+      "name": "Bittersweet",
+      "url": "https://open.spotify.com/track/33Q6yV1CVOkgeqKmtjnWUE"
+    },
+    {
+      "album": {
         "name": "Blazin (feat. Enisa)",
         "url": "https://open.spotify.com/album/69rtLq7JppAFO3by5g1mNJ"
       },
@@ -5216,6 +5268,28 @@
       "duration_ms": 127714,
       "name": "Chasing Ghosts",
       "url": "https://open.spotify.com/track/5kMxyfaw9KDCyqaU0Z7QUj"
+    },
+    {
+      "album": {
+        "name": "Chasing Paradise",
+        "url": "https://open.spotify.com/album/6WgNtisaBfx6HlMGFDltTK"
+      },
+      "artists": [
+        {
+          "name": "Kygo",
+          "url": "https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4"
+        },
+        {
+          "name": "OneRepublic",
+          "url": "https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180091,
+      "name": "Chasing Paradise",
+      "url": "https://open.spotify.com/track/0xSjAuPhm9tJXX2nRt2Avv"
     },
     {
       "album": {
@@ -9606,6 +9680,28 @@
       "duration_ms": 134000,
       "name": "FEEL (feat. REWEL)",
       "url": "https://open.spotify.com/track/4BC7VcrszMhGHpM5eKEJOH"
+    },
+    {
+      "album": {
+        "name": "Feel Again",
+        "url": "https://open.spotify.com/album/2n4TXKux57PtTAaPYK64Mp"
+      },
+      "artists": [
+        {
+          "name": "TELYKAST",
+          "url": "https://open.spotify.com/artist/7vWC03wqXwUqjPON8hc1tz"
+        },
+        {
+          "name": "Moa Lisa",
+          "url": "https://open.spotify.com/artist/0oUXA3boTncBMYFD5o6G2E"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192696,
+      "name": "Feel Again",
+      "url": "https://open.spotify.com/track/7ycPxbAlnh9t5OqFduGMcM"
     },
     {
       "album": {
@@ -14534,7 +14630,7 @@
       ],
       "date_added": "2024-04-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 149667,
       "name": "I Don't Wanna Wait",
       "url": "https://open.spotify.com/track/331l3xABO0HMr1Kkyh2LZq"
@@ -15008,7 +15104,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 149237,
       "name": "I'm Going Out",
       "url": "https://open.spotify.com/track/5f8h5SdEnGWGU1PyWefipD"
@@ -15708,6 +15804,32 @@
       "duration_ms": 241760,
       "name": "Incognito",
       "url": "https://open.spotify.com/track/4yjLAjbLSxD8JBuKB4bPlD"
+    },
+    {
+      "album": {
+        "name": "INFERNO",
+        "url": "https://open.spotify.com/album/098hdrQn281rt3DPWAuHmC"
+      },
+      "artists": [
+        {
+          "name": "HI-LO",
+          "url": "https://open.spotify.com/artist/0ETJQforv5OXgDgidQv9qd"
+        },
+        {
+          "name": "Kasablanca",
+          "url": "https://open.spotify.com/artist/297Z0teiCkp5s9eneWROpI"
+        },
+        {
+          "name": "Oliver Heldens",
+          "url": "https://open.spotify.com/artist/5nki7yRhxgM509M5ADlN1p"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179097,
+      "name": "INFERNO",
+      "url": "https://open.spotify.com/track/6WqNV3V9tITvbjW3R1l4Rd"
     },
     {
       "album": {
@@ -18106,7 +18228,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 220157,
       "name": "Look Into My Eyes",
       "url": "https://open.spotify.com/track/1fHVz3ffi5k4kASyAITzpN"
@@ -18414,6 +18536,24 @@
       "duration_ms": 162545,
       "name": "Love Burns Out",
       "url": "https://open.spotify.com/track/50CkqXnP2JV3SC8EYb7hzM"
+    },
+    {
+      "album": {
+        "name": "Love Drunk",
+        "url": "https://open.spotify.com/album/2dRQmoqUcauVXhL3U1WYRY"
+      },
+      "artists": [
+        {
+          "name": "Frox",
+          "url": "https://open.spotify.com/artist/5xUotpqcMkVuZhiYGzQH4k"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142153,
+      "name": "Love Drunk",
+      "url": "https://open.spotify.com/track/5gerxMu2y0WSvIwHmjOoHm"
     },
     {
       "album": {
@@ -19020,7 +19160,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 122769,
       "name": "MAGICKA",
       "url": "https://open.spotify.com/track/6fIFMqp79GpkCAu7z0CagS"
@@ -21535,6 +21675,24 @@
     },
     {
       "album": {
+        "name": "Nicotine",
+        "url": "https://open.spotify.com/album/5j3Zg1WEQTUbLax56xPJIh"
+      },
+      "artists": [
+        {
+          "name": "WnderSouls",
+          "url": "https://open.spotify.com/artist/0FYK2tJIbY2duD5SJEzv7d"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221250,
+      "name": "Nicotine",
+      "url": "https://open.spotify.com/track/05P9LK2fQYJERZiSd5ZMFR"
+    },
+    {
+      "album": {
         "name": "NIGHT",
         "url": "https://open.spotify.com/album/4SnyGwyZNSkBCIbzJWEbyB"
       },
@@ -21572,6 +21730,32 @@
       "duration_ms": 150855,
       "name": "Night Away",
       "url": "https://open.spotify.com/track/5R2wkVXBJLaiwEWhtKuYIa"
+    },
+    {
+      "album": {
+        "name": "Night In Detroit (feat. Fedde Le Grand)",
+        "url": "https://open.spotify.com/album/5Z3KQqAraMareSBBjb4AZ1"
+      },
+      "artists": [
+        {
+          "name": "MORTEN",
+          "url": "https://open.spotify.com/artist/19HFRWmRCl27kTk6LeqAO8"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Fedde Le Grand",
+          "url": "https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166356,
+      "name": "Night In Detroit (feat. Fedde Le Grand)",
+      "url": "https://open.spotify.com/track/0HsXfYwVE21j9LGQuV7Tvp"
     },
     {
       "album": {
@@ -22075,6 +22259,24 @@
     },
     {
       "album": {
+        "name": "North, West, South, East",
+        "url": "https://open.spotify.com/album/4RaPQf3X9EfNNqbS9LJR2u"
+      },
+      "artists": [
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147651,
+      "name": "North, West, South, East",
+      "url": "https://open.spotify.com/track/5wZCXsK5v970hRFkxXmcSa"
+    },
+    {
+      "album": {
         "name": "Hyperbolic",
         "url": "https://open.spotify.com/album/5pEozLaSdqclUTag0hZfyt"
       },
@@ -22248,6 +22450,24 @@
       "duration_ms": 181951,
       "name": "Nothing Feels The Same",
       "url": "https://open.spotify.com/track/66P0qP5U9ymSHio61L0Buy"
+    },
+    {
+      "album": {
+        "name": "nothing hurts",
+        "url": "https://open.spotify.com/album/7gdBth5EJ8yOmBYt87eUaj"
+      },
+      "artists": [
+        {
+          "name": "COLDKIDS",
+          "url": "https://open.spotify.com/artist/0annmahwZLMPzszAw2OnMv"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143597,
+      "name": "nothing hurts",
+      "url": "https://open.spotify.com/track/0JMTJzgBw4mKYvLN9AGdnf"
     },
     {
       "album": {
@@ -27547,6 +27767,28 @@
     },
     {
       "album": {
+        "name": "Slap Of Mine",
+        "url": "https://open.spotify.com/album/228rnDtSMsbgtzPhU7Bcph"
+      },
+      "artists": [
+        {
+          "name": "Fuzzy Hair",
+          "url": "https://open.spotify.com/artist/1oyIKLL0h1Bw9yR8scqwdo"
+        },
+        {
+          "name": "Maex",
+          "url": "https://open.spotify.com/artist/23ce31GuxOzTFzTcBpWWRn"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146126,
+      "name": "Slap Of Mine",
+      "url": "https://open.spotify.com/track/6q577NsCTKCTFpgHbuyaYU"
+    },
+    {
+      "album": {
         "name": "SLAY",
         "url": "https://open.spotify.com/album/0EMFl3SrwgihP3LuERXx3x"
       },
@@ -28030,6 +28272,28 @@
       "duration_ms": 161627,
       "name": "Sorry (with Madonna)",
       "url": "https://open.spotify.com/track/5dW0cgZ9uV1W3PXtuTS5uP"
+    },
+    {
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/3XExdzq3IxgpNLkSSLjA8s"
+      },
+      "artists": [
+        {
+          "name": "Bleu Clair",
+          "url": "https://open.spotify.com/artist/7kA4sEagpoNK91I7wr9tYr"
+        },
+        {
+          "name": "Jevin Julian",
+          "url": "https://open.spotify.com/artist/0wESJ64xbfvUqdM7lC9b1O"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226406,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/7u4q2L9ralNz0A6J9P4ihL"
     },
     {
       "album": {
@@ -31459,6 +31723,32 @@
     },
     {
       "album": {
+        "name": "UFO (Dorian Electra & Count Baldor Remix)",
+        "url": "https://open.spotify.com/album/5zY3J9O4gOMBHhOYEyaMxc"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        },
+        {
+          "name": "Dorian Electra",
+          "url": "https://open.spotify.com/artist/202HZzqKvPsMHcbwnDZx7u"
+        },
+        {
+          "name": "Count Baldor",
+          "url": "https://open.spotify.com/artist/6PVWZrJ7N7zrg4Ljr6OfUN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186523,
+      "name": "UFO (Dorian Electra & Count Baldor Remix)",
+      "url": "https://open.spotify.com/track/3Iyfoj2nmqVfvXo9kaLSVs"
+    },
+    {
+      "album": {
         "name": "Uler Engkol",
         "url": "https://open.spotify.com/album/56X0HnugeWY8SYJFc0f7bn"
       },
@@ -33250,7 +33540,7 @@
       ],
       "date_added": "2024-01-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 178273,
       "name": "Whatever",
       "url": "https://open.spotify.com/track/0LMwmV37RCmBO2so0szAFs"
@@ -34162,7 +34452,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 164769,
       "name": "WONDER",
       "url": "https://open.spotify.com/track/3GMQ9rDVclsd1ZbwT3qPta"

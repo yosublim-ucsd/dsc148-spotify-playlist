@@ -4,7 +4,7 @@
 
 > Your Tech House therapy session for the dancefloor \| SoundCloud mix series: Bassline Therapy Radio
 
-506 songs - 1 day 2 hr 36 min
+507 songs - 1 day 2 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Desire](https://open.spotify.com/track/24Gv8fomuWc1usQayn2yOu) | [TCTS](https://open.spotify.com/artist/1mFGfrveXbpolppPgO29Io) | [Desire](https://open.spotify.com/album/20zG6Tg485owXOyMzL2YND) | 3:23 | 2024-06-23 | 2024-08-20 |
 | [Devotion \- Radio Edit](https://open.spotify.com/track/4bLrRwObxs5kyRqeNTLwLL) | [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3), [Eboni Green](https://open.spotify.com/artist/0sc1HPjk1JYPAf1Edl1dQ3) | [Devotion](https://open.spotify.com/album/1BZ6m2HjKX3uskuRpfRt4o) | 3:21 | 2024-08-19 | 2024-09-29 |
 | [Diamond Therapy](https://open.spotify.com/track/5lSfq3EFWwD9yylL0zaqqj) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Walker & Royce](https://open.spotify.com/artist/1lAwVq9MxNJkB0dEY6xNoV), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [Diamond Therapy](https://open.spotify.com/album/72xjIhQnOwXZMvdtlYa3Ep) | 3:19 | 2023-12-31 | 2024-01-09 |
+| [Dig It Up](https://open.spotify.com/track/4zGAYCNnjVQSrnAHPTJxUT) | [TOYZZ](https://open.spotify.com/artist/79WxyVmZBcttTrPqhaAOwV) | [Dig It Up](https://open.spotify.com/album/08LHrJvwQOr8OPISQ3tm02) | 2:39 | 2025-01-23 |  |
 | [DIRRRTY](https://open.spotify.com/track/2BvvaUeoHiBObHqwYCMex3) | [Lowez](https://open.spotify.com/artist/0IPHMD0lKVQPmMdGjfWTwb) | [Litterbox 17](https://open.spotify.com/album/6EXuu4rShXLswSkqQVIQnB) | 3:48 | 2024-12-19 | 2024-12-21 |
 | [DISCLAIMER](https://open.spotify.com/track/6hUiwtLwOccVOQQ2cBhpRW) | [Houseium](https://open.spotify.com/artist/7nLII53mP3tGEh5B5Hx83o) | [DISCLAIMER](https://open.spotify.com/album/4eEv8IoDsPK2Lpw6x3wmLZ) | 4:09 | 2023-11-20 | 2024-04-30 |
 | [Disco Bus](https://open.spotify.com/track/5GXLRHmbF3zIhq6SepTQmO) | [Deeper Purpose](https://open.spotify.com/artist/10Bo1ofGMWr6hFD7OM7W7r) | [Disco Bus](https://open.spotify.com/album/2e6d7OALNSuqyNZCodHTf6) | 3:20 | 2025-01-20 |  |

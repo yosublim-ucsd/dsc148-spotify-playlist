@@ -2181,6 +2181,24 @@
     },
     {
       "album": {
+        "name": "Overbit",
+        "url": "https://open.spotify.com/album/1FDodR6BZ79JGlyHYYzdvJ"
+      },
+      "artists": [
+        {
+          "name": "Baalti",
+          "url": "https://open.spotify.com/artist/2CtpjGWvsq4QnUIx9PHDAN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230000,
+      "name": "Overbit",
+      "url": "https://open.spotify.com/track/0looWaFJR8simVnEiLehQK"
+    },
+    {
+      "album": {
         "name": "Padmini Premier",
         "url": "https://open.spotify.com/album/3gZcdavtizhRfTtGFleSIt"
       },
@@ -2342,6 +2360,10 @@
         {
           "name": "Kenzani",
           "url": "https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM"
+        },
+        {
+          "name": "Tasho",
+          "url": "https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0"
         }
       ],
       "date_added": "2025-01-13",
@@ -2368,6 +2390,28 @@
       "duration_ms": 127058,
       "name": "Patha Patha Gugu - Drill Remix",
       "url": "https://open.spotify.com/track/5kHSMRbZKyGwaSwNSRrQXV"
+    },
+    {
+      "album": {
+        "name": "Punjabi Kompa",
+        "url": "https://open.spotify.com/album/38K1o8yxmy7ZnHr4wJaYH3"
+      },
+      "artists": [
+        {
+          "name": "\u0444\u0440\u043e\u0437\u0438",
+          "url": "https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2"
+        },
+        {
+          "name": "Tesher",
+          "url": "https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190923,
+      "name": "Punjabi Kompa",
+      "url": "https://open.spotify.com/track/3XUeQfDlKWphVg5LFWEaRi"
     },
     {
       "album": {

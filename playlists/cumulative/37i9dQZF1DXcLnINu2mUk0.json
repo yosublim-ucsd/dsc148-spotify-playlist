@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-17",
-  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto:  Van Zee, FRANKIEONTHEGUITAR",
+  "description": "Chill rap e R&B: \u00c9 um mood suave e envolvente. Foto: pikika",
   "name": "Seda",
   "tracks": [
     {
@@ -2882,7 +2882,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 153400,
       "name": "Convite",
       "url": "https://open.spotify.com/track/3MLsf0fu4JmIywg73Bs2ej"
@@ -4874,6 +4874,24 @@
       "duration_ms": 161392,
       "name": "Feiti\u00e7o",
       "url": "https://open.spotify.com/track/1dGSNINnssx5BA35whIPzC"
+    },
+    {
+      "album": {
+        "name": "festa bem louca",
+        "url": "https://open.spotify.com/album/6hrtxc3kFO5yg7Q4LEAD2l"
+      },
+      "artists": [
+        {
+          "name": "pikika",
+          "url": "https://open.spotify.com/artist/2l9cXS6ljQtg4wOGYR94WN"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188333,
+      "name": "festa bem louca",
+      "url": "https://open.spotify.com/track/46lo7mHkfFQpd3i6C6FPDS"
     },
     {
       "album": {
@@ -8360,7 +8378,7 @@
       ],
       "date_added": "2024-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 172453,
       "name": "Normal",
       "url": "https://open.spotify.com/track/0zew2jGUrcp12u0wmaWtgQ"
@@ -9717,6 +9735,28 @@
     },
     {
       "album": {
+        "name": "Possibilidade",
+        "url": "https://open.spotify.com/album/7qI6YCd1HxQG7OO99od009"
+      },
+      "artists": [
+        {
+          "name": "Trista",
+          "url": "https://open.spotify.com/artist/1hsrQJC4A7sVS6wOwTxRxw"
+        },
+        {
+          "name": "EMMVR",
+          "url": "https://open.spotify.com/artist/4NRTBluAEQVhhSOA5yinWI"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212038,
+      "name": "Possibilidade",
+      "url": "https://open.spotify.com/track/3UZrZ4fJ8EIRfLzmt4Mu4D"
+    },
+    {
+      "album": {
         "name": "Festival da Can\u00e7\u00e3o 2023",
         "url": "https://open.spotify.com/album/57v1ACsenMa34vYqhuLl0d"
       },
@@ -10232,6 +10272,24 @@
       "duration_ms": 176458,
       "name": "Regra Do Jogo",
       "url": "https://open.spotify.com/track/4BAylI99ZwsfDX2rIYi6U1"
+    },
+    {
+      "album": {
+        "name": "Remy",
+        "url": "https://open.spotify.com/album/21WYPFHGfnT4q37RwgZotC"
+      },
+      "artists": [
+        {
+          "name": "Dengaz",
+          "url": "https://open.spotify.com/artist/4nT1hsAySSK78ycor1bVn0"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183652,
+      "name": "Remy",
+      "url": "https://open.spotify.com/track/1MG01FgAeKUMTJNvNYVA8I"
     },
     {
       "album": {
@@ -12260,7 +12318,7 @@
       ],
       "date_added": "2022-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 203351,
       "name": "That's Me",
       "url": "https://open.spotify.com/track/1ktNayJwoiwQoWq7ffKMJf"

@@ -2,7 +2,7 @@
 
 ### [trend 2025](https://open.spotify.com/playlist/37i9dQZF1DWYs8YYEWLlaB)
 
-> viral, trend ve yükselenler\. Kapak: Simge x Era7capone
+> viral, trend ve yükselenler\. Kapak: Funda Arar
 
 114 songs - 5 hr 51 min
 

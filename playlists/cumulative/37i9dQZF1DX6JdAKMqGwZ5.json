@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Descubre los temas emergentes del mundo indie. Foto: Jordana B.",
+  "description": "Descubre los temas emergentes del mundo indie. Foto: trashi.",
   "name": "Radar Indie",
   "tracks": [
     {
@@ -315,6 +315,28 @@
     },
     {
       "album": {
+        "name": "Amiguita como t\u00fa",
+        "url": "https://open.spotify.com/album/0HaFvXnLbU5XkeBOdElMVu"
+      },
+      "artists": [
+        {
+          "name": "IZARO",
+          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186098,
+      "name": "Amiguita como t\u00fa",
+      "url": "https://open.spotify.com/track/4PbRIvIm1t92ecszR1TNr9"
+    },
+    {
+      "album": {
         "name": "Amor A\u00e9reo",
         "url": "https://open.spotify.com/album/01pPySmhMswlCQTBVqRADV"
       },
@@ -450,6 +472,24 @@
       "duration_ms": 163593,
       "name": "Bailar Llorando",
       "url": "https://open.spotify.com/track/7aZor2HjAffKI8PmQxw2oW"
+    },
+    {
+      "album": {
+        "name": "Museo de las Desilusiones",
+        "url": "https://open.spotify.com/album/4v1t5YPaVxisQ4Tre5UK2S"
+      },
+      "artists": [
+        {
+          "name": "Joe Crep\u00fasculo",
+          "url": "https://open.spotify.com/artist/34SgyDEDqVlahIQRDttgCn"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209153,
+      "name": "Bailar y Llorar",
+      "url": "https://open.spotify.com/track/2r7dqaPDXf5agh2cqFfYjp"
     },
     {
       "album": {
@@ -1204,7 +1244,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 169500,
       "name": "DEBER\u00cdAS QUEDARTE",
       "url": "https://open.spotify.com/track/1udWDCFQhaQRkZzp9cFUo9"
@@ -1440,7 +1480,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 177811,
       "name": "dos sombras",
       "url": "https://open.spotify.com/track/11qEJrBkjCFHIwhAFJYF6b"
@@ -1766,6 +1806,24 @@
       "duration_ms": 159513,
       "name": "El \u00faltimo rumor",
       "url": "https://open.spotify.com/track/0IEoSXu72fqQGM932uNXXQ"
+    },
+    {
+      "album": {
+        "name": "Elizabeth",
+        "url": "https://open.spotify.com/album/0wO9kY8dteHnjYaTwT8wRP"
+      },
+      "artists": [
+        {
+          "name": "Sebasti\u00e1n Cort\u00e9s",
+          "url": "https://open.spotify.com/artist/3BCFlhrVzBKHbzBnWr13d9"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Elizabeth",
+      "url": "https://open.spotify.com/track/1RZcXkyB8Ex8RAGJWX4K7g"
     },
     {
       "album": {
@@ -2121,6 +2179,24 @@
     },
     {
       "album": {
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/68P5GU8nF9pUPXyiqpnKLp"
+      },
+      "artists": [
+        {
+          "name": "Javypablo",
+          "url": "https://open.spotify.com/artist/6M3xYeqwhquYOjf96D2mYq"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225221,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/3c1UYHBiSkfWBz2GRhUSgv"
+    },
+    {
+      "album": {
         "name": "FIESTA DE FIN DE CURSO",
         "url": "https://open.spotify.com/album/1PvjturGX6w6S8COMudcIE"
       },
@@ -2274,7 +2350,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 124194,
       "name": "GOYARD",
       "url": "https://open.spotify.com/track/69W9us3ynQfjloOJ78R6BO"
@@ -2506,7 +2582,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 177157,
       "name": "I wonder",
       "url": "https://open.spotify.com/track/02XZ5kvbHHJ51xWsEVt13x"
@@ -3472,10 +3548,28 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 214366,
       "name": "Ma\u00f1ana Estar\u00e1s Mejor",
       "url": "https://open.spotify.com/track/2jIePaaCMQ1r0eunxvJ4nU"
+    },
+    {
+      "album": {
+        "name": "ME ACUERDO DE TODO",
+        "url": "https://open.spotify.com/album/2jJZrb7rsyKOItsmWYw4tQ"
+      },
+      "artists": [
+        {
+          "name": "trashi",
+          "url": "https://open.spotify.com/artist/4NCT7ucfttKL0FUmd3zllQ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225250,
+      "name": "Me acuerdo de todo",
+      "url": "https://open.spotify.com/track/2hscOVTRgUzzSCUZkITbRd"
     },
     {
       "album": {
@@ -3584,10 +3678,28 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 140307,
       "name": "MERCURIO",
       "url": "https://open.spotify.com/track/7hsGQ1OHnned3qIx4URtfB"
+    },
+    {
+      "album": {
+        "name": "MARIAGREP IS NOT A CRIME",
+        "url": "https://open.spotify.com/album/4RhMVgBSFQfW9e2BUwN214"
+      },
+      "artists": [
+        {
+          "name": "mariagrep",
+          "url": "https://open.spotify.com/artist/6qW73GlY1wPnQ9zxIOYCzy"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154200,
+      "name": "Mi atenci\u00f3n",
+      "url": "https://open.spotify.com/track/4Nos61GiLFcfQ94fkprZnD"
     },
     {
       "album": {
@@ -3815,6 +3927,24 @@
     },
     {
       "album": {
+        "name": "nada importa",
+        "url": "https://open.spotify.com/album/2bTaFjfeNdUP4o21HMfIV3"
+      },
+      "artists": [
+        {
+          "name": "vangoura",
+          "url": "https://open.spotify.com/artist/0f96nYGYNRWeEYi8avVG3g"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178904,
+      "name": "nada importa",
+      "url": "https://open.spotify.com/track/6ZMyikTYNuTAx7kYPgHrUW"
+    },
+    {
+      "album": {
         "name": "Las Huidas",
         "url": "https://open.spotify.com/album/2nj0oHnEEi5mS8GwX7TqwD"
       },
@@ -3870,6 +4000,28 @@
       "duration_ms": 252500,
       "name": "Nadie Sabe",
       "url": "https://open.spotify.com/track/07Zg8kkvdzJDhWZYpqgZAE"
+    },
+    {
+      "album": {
+        "name": "Necesito Curarme",
+        "url": "https://open.spotify.com/album/2sOFoDPNiJ6njKiXv1KBp5"
+      },
+      "artists": [
+        {
+          "name": "Malva",
+          "url": "https://open.spotify.com/artist/6bccVp7HLSZxfLlQWjyPnN"
+        },
+        {
+          "name": "Jules",
+          "url": "https://open.spotify.com/artist/1FCMSevL19uHKsMEPcTwfU"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159146,
+      "name": "Necesito Curarme",
+      "url": "https://open.spotify.com/track/1Iv7TzIDjf3ncyyscYpGUH"
     },
     {
       "album": {
@@ -4886,7 +5038,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 222678,
       "name": "Si est\u00e1s junto a m\u00ed",
       "url": "https://open.spotify.com/track/5Z1vV9CKW4tx8TYVlQWi0s"
@@ -5606,7 +5758,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 182769,
       "name": "VAPOR Y CIELO",
       "url": "https://open.spotify.com/track/3Udoa1rsfpk7gYLuKx06yH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 
 > Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.
 
-[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,135 likes - 105 songs - 5 hr 45 min
+[Filtr Canada	](https://open.spotify.com/user/filtr.ca) - 62,130 likes - 105 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 3 | [Song for the Village](https://open.spotify.com/track/62k80mnRaoxQpCAkgHI1sT) | [Federico Albanese](https://open.spotify.com/artist/75DsjkCdxGmvitG1tqqBkL) | [Song for the Village](https://open.spotify.com/album/1SHP2IfM5wdTzhtrpjEl3I) | 2:49 |
 | 4 | [Andante Festivo \(Arr\. for Violin & Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/5Fyn2PmGBaOTM3uVnvGxRl) | [Jean Sibelius](https://open.spotify.com/artist/7jzR5qj8vFnSu5JHaXgFEr), [Esther Abrami](https://open.spotify.com/artist/5zCkKfOMcIx8ISU53JBPng), [Louis Philippson](https://open.spotify.com/artist/7l8eGKzZbyCdsLXtRe1qtH) | [Andante festivo](https://open.spotify.com/album/4SN9n2KhyXHyObvZPUF2sU) | 1:44 |
 | 5 | [Time](https://open.spotify.com/track/7rrz6YoiyKmWJtxLxLtBUb) | [Hideyuki Hashimoto](https://open.spotify.com/artist/3NMfMCA11Xo7RUc91o64Og) | [Time](https://open.spotify.com/album/5Hl6FRbYZROJuEKYHFsx7d) | 2:11 |
-| 6 | [Le trésor \(Piano Version\) \- Radio Edit](https://open.spotify.com/track/7KVncAJ8OW6d2IOwjC4Cl5) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp), [Jérôme Rebotier](https://open.spotify.com/artist/5LDz41tmX7odOCzOzwuqGd) | [Le Comte de Monte Cristo \(Piano Version\)](https://open.spotify.com/album/6ulYFO2ddO44WMx1GzsOH9) | 2:43 |
+| 6 | [Mercédès \- Piano Version](https://open.spotify.com/track/1vRrwx5xrDSMp9i0l9GMHP) | [Alban Claudin](https://open.spotify.com/artist/6lhj65affyKVttGzdfUrJp), [Jérôme Rebotier](https://open.spotify.com/artist/5LDz41tmX7odOCzOzwuqGd) | [Le Comte de Monte Cristo \(Piano Version\)](https://open.spotify.com/album/6ulYFO2ddO44WMx1GzsOH9) | 2:36 |
 | 7 | [Mozart Zauberflöte Lullaby \(From Die Zauberflöte, K\. 620: Der Vogelfänger bin ich ja, Arr\. for Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/track/2zZnappB3Lg4edXzKI72Qi) | [Wolfgang Amadeus Mozart](https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS), [Gabriele Bagnati](https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj) | [Mozart Zauberflöte Lullaby \(From Die Zauberflöte, K\. 620: Der Vogelfänger bin ich ja, Arr\. for Piano by Jan\-Peter Klöpfel\)](https://open.spotify.com/album/0aMBVy668VjXifFckq7Uuj) | 2:06 |
 | 8 | [You're My Sunshine \- from "Honey Lemon Soda" Soundtrack](https://open.spotify.com/track/1IDCpaNETSyfcWhGwyhOFh) | [Akira Kosemura](https://open.spotify.com/artist/4n1lW38WKgyPEIZowQ3AND) | [You're My Sunshine \(from "Honey Lemon Soda" Soundtrack\)](https://open.spotify.com/album/6XoIoaJygwBxqOZESH6UCL) | 4:19 |
 | 9 | [New Beginning \(Arr\. for Strings by Carlos Hof\)](https://open.spotify.com/track/1C4g0QhVeWfvXHwjF1QmYB) | [A\. Blomqvist](https://open.spotify.com/artist/5OdOZHljmANwGvN71E6KJm) | [New Beginning \(Arr\. for Strings by Carlos Hof\)](https://open.spotify.com/album/37XpenYcK6aKJMTf83i0hl) | 2:49 |
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/0Xb9zZnc2MHkRocj5kqPWU.md) - [plain]
 | 104 | [All\-Night Vigil, Op\. 37: V\. Nunc dimittis](https://open.spotify.com/track/5wF7lQCybYSxuBs4iPGRwL) | [Sergei Rachmaninoff](https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51), [Lavinia Meijer](https://open.spotify.com/artist/1QpDFI4PxPwdv2E3iS6pCp) | [All\-Night Vigil, Op\. 37: V\. Nunc dimittis](https://open.spotify.com/album/4JeSjR1enY3mhNtmBpOxKv) | 3:14 |
 | 105 | [Umbra](https://open.spotify.com/track/1p7s4bEbjLRRUSfu9qjkty) | [Alexandra Streliski](https://open.spotify.com/artist/0HyM2wwUfOsZYD4Dj5IOOZ) | [Néo\-Romance \(Extended Version\)](https://open.spotify.com/album/7c2cqEPUmdwXr5upWoKpQs) | 4:52 |
 
-Snapshot ID: `AAAHwQ4GVTM2nRvsUdqrGvo0svx8kyxc`
+Snapshot ID: `AAAHxDvA73iEJmkQm8xXZmQTY3tb45iN`

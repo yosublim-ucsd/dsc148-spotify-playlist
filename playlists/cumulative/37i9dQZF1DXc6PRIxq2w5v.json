@@ -2433,6 +2433,36 @@
     },
     {
       "album": {
+        "name": "Dias de Luta",
+        "url": "https://open.spotify.com/album/4fvDcNHgCQ2kqaSIVfWf5D"
+      },
+      "artists": [
+        {
+          "name": "AATALAIAA",
+          "url": "https://open.spotify.com/artist/5dDEXbZ0TvYSxGsjSZfpuo"
+        },
+        {
+          "name": "Lucena",
+          "url": "https://open.spotify.com/artist/7qcnNboZRaYlD7AEZ7Gd1V"
+        },
+        {
+          "name": "Trindade Records",
+          "url": "https://open.spotify.com/artist/4QLjATAO4xBWYJBSYxzwc9"
+        },
+        {
+          "name": "Z\u00c9ZIIN",
+          "url": "https://open.spotify.com/artist/6SPgmTOo5um2UklzdWr2bJ"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206612,
+      "name": "Dias de Luta",
+      "url": "https://open.spotify.com/track/46nKQd1hydiLqHRJ6eb6qS"
+    },
+    {
+      "album": {
         "name": "Disciples Cypher",
         "url": "https://open.spotify.com/album/2Pxxk66txREI90St2qNpgJ"
       },
@@ -6026,7 +6056,7 @@
       ],
       "date_added": "2024-11-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 210169,
       "name": "Nunca Mais (Cita\u00e7\u00e3o: Al\u00e9m Do Rio Azul)",
       "url": "https://open.spotify.com/track/1p5MFpBj915iJMAo0gaJds"

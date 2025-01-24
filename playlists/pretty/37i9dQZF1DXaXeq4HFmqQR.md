@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 
 > Mujeres a todo volumen\. <br/>Foto: KUINA
 
-[Spotify](https://open.spotify.com/user/spotify) - 13,921 likes - 35 songs - 1 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 13,926 likes - 35 songs - 1 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,14 +34,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXeq4HFmqQR.md) - [plain]
 | 24 | [Bossma nova](https://open.spotify.com/track/12kx5tD6IZyi6bOlhimtGD) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [Bossma nova](https://open.spotify.com/album/1lb1Lht5l8BsC8BQLKsSnQ) | 2:49 |
 | 25 | [KOÑAK](https://open.spotify.com/track/6TDoN7ziq3r6wb5ct4ZySr) | [KUINA](https://open.spotify.com/artist/2fjInVWSawW5FUnXd3QLqb), [HELLOLOLA](https://open.spotify.com/artist/1r72k41l2pL01tSbFBLek7), [Viangogh](https://open.spotify.com/artist/1Y0wxtA4ZbblGP75RLsFnJ), [Hielo](https://open.spotify.com/artist/5VZOyRwZRgK3fC3sYRvuXh) | [SOLO ESTOY JUGANDO MIXXXTAPE](https://open.spotify.com/album/3Xp05lTrokyNhmksd0knNL) | 2:22 |
 | 26 | [FAMOSA](https://open.spotify.com/track/0QoI6vEuyqnbSUWbnPsCAj) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP), [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:20 |
-| 27 | [Love It](https://open.spotify.com/track/49LtBRkoqJutjJdZ64DecR) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Mal Augurio](https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA) | 2:10 |
+| 27 | [Oxígeno](https://open.spotify.com/track/7AvISl2VtO0kJylhLWZoUV) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Oxígeno](https://open.spotify.com/album/5akFysqbV2g2cENngJMIbI) | 3:19 |
 | 28 | [La Favorita de Dios](https://open.spotify.com/track/7zukEo2aDcfeLnmQl6uR65) | [Akatumamy](https://open.spotify.com/artist/38DOU02BQmlcooCqxr3aSd), [Ovyze](https://open.spotify.com/artist/4jzpU8H3P6UJYFUWwwwCx4) | [La Favorita de Dios](https://open.spotify.com/album/5RwtDe8GVHaeauAJ4R6BgI) | 2:14 |
 | 29 | [BBY HÁBLAME](https://open.spotify.com/track/01KOUWYDGpdKCPrHaChpKj) | [Mariana Bfly](https://open.spotify.com/artist/1MNb8KUeOjT6rWWPBQlUdw), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [BBY HÁBLAME](https://open.spotify.com/album/0X0OLyVKtPK9ueYrQTOkgX) | 3:30 |
-| 30 | [Oxígeno](https://open.spotify.com/track/7AvISl2VtO0kJylhLWZoUV) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [Oxígeno](https://open.spotify.com/album/5akFysqbV2g2cENngJMIbI) | 3:19 |
+| 30 | [Love It](https://open.spotify.com/track/49LtBRkoqJutjJdZ64DecR) | [Vlntna B](https://open.spotify.com/artist/5leFwWpTacAWLAom8B2JbS) | [Mal Augurio](https://open.spotify.com/album/2UWIBJqg78EqZrxp7ao0cA) | 2:10 |
 | 31 | [MI ULTIMO DESEO](https://open.spotify.com/track/3eG7VpFX2UjkSFCpWP4Zu9) | [Anto Segovia](https://open.spotify.com/artist/3ZDlV4860jpcqhmIincWHF) | [MI ULTIMO DESEO](https://open.spotify.com/album/6VCLRqpks5Uh7t2inj2hx5) | 2:38 |
 | 32 | [LA JEFA](https://open.spotify.com/track/4TMVyMhuxHa9rfCQkoiWI6) | [KYA](https://open.spotify.com/artist/1D1DNu1iQq7j7hFOlJZJyP) | [LA CLASSE](https://open.spotify.com/album/12VOMWjtxbf0pzORWPHutT) | 3:00 |
-| 33 | [Caviar](https://open.spotify.com/track/2C4gQxlBcMwquflohm94Xr) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Caviar](https://open.spotify.com/album/3h6q0WLbND9uWwQkia17s4) | 2:37 |
-| 34 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
-| 35 | [waKe n baKe](https://open.spotify.com/track/7dGaP7TMfrMdq7tm7A2wqC) | [Anto Bosman](https://open.spotify.com/artist/2K9VXOc9XDfKie7ASSCMIa) | [waKe n baKe](https://open.spotify.com/album/2AI9S463z32VL2LmY41Yw6) | 2:10 |
+| 33 | [Te Solté](https://open.spotify.com/track/1RrhDIIjSVrW2K2WpT3XOO) | [Shirel](https://open.spotify.com/artist/5fNV5ubt46GqUpyP7Mh4Ln) | [...Más Canciones De Amor](https://open.spotify.com/album/1W594ba4fqwr07BFRT00q7) | 3:04 |
+| 34 | [Caviar](https://open.spotify.com/track/2C4gQxlBcMwquflohm94Xr) | [Bby Lean](https://open.spotify.com/artist/2ivCGb6sTadQgOQTu6TFok), [Nass G](https://open.spotify.com/artist/4HVaguMub30IBWNwP1k6WF) | [Caviar](https://open.spotify.com/album/3h6q0WLbND9uWwQkia17s4) | 2:37 |
+| 35 | [Te Fuiste](https://open.spotify.com/track/2Zdi36ph1ngwW5pCRjjz8u) | [Rou C](https://open.spotify.com/artist/2QDk2sxK8xHgNIIXNLgNZ9) | [Un Recuerdo](https://open.spotify.com/album/6RRlggxbDzDKkLUnFyNJ1M) | 3:16 |
 
 Snapshot ID: `ZyrbsAAAAAABQ4Lu1UMg2t8v/97Eaoy2`

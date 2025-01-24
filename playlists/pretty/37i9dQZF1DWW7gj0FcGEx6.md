@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 
 > The latest, greatest cinema soundtracks from the big and small screen.
 
-[Spotify](https://open.spotify.com/user/spotify) - 297,370 likes - 200 songs - 9 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 297,400 likes - 200 songs - 9 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,7 +51,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW7gj0FcGEx6.md) - [plain]
 | 41 | [Sherwood](https://open.spotify.com/track/5reDKMVVaiTUAtecjSyOPR) | [Lorne Balfe](https://open.spotify.com/artist/6dU7gPN2BhEPfO5QHLt7es) | [Sherwood \(Original Television Soundtrack\)](https://open.spotify.com/album/0JfBuCeUiUyDT8zsxmzyNf) | 3:57 |
 | 42 | [Maggie’s First](https://open.spotify.com/track/5s3rB6e2jNzRa9rH8Mx7zx) | [Isobel Waller\-Bridge](https://open.spotify.com/artist/1Iy8JKDTXo8e9HmyTCaTOZ) | [Three Women \(Original Series Soundtrack\)](https://open.spotify.com/album/5mRQzKHiEURQDUJlELxYQW) | 4:38 |
 | 43 | [L'enfant et la neige](https://open.spotify.com/track/13bmneUZH7ZdyQyfE4UKYD) | [Alexandre Desplat](https://open.spotify.com/artist/71jzN72g8qWMCMkWC5p1Z0) | [La plus précieuse des marchandises \(Bande originale du film\)](https://open.spotify.com/album/6ezIsI6w79ojenWWcRczEm) | 2:29 |
-| 44 | [Dietrich's Theme](https://open.spotify.com/track/4BmsF7239KFLAGCzgrqdE1) | [Antonio Pinto](https://open.spotify.com/artist/7jBJcoFeQkHaqrJBIZsd5h), [Gabriel Ferreira](https://open.spotify.com/artist/12tefEuvjqpjdc4KevS3Ml) | [Bonhoeffer: Pastor\. Spy\. Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6p0Cs75DFIjytZxIKIpCoI) | 2:56 |
+| 44 | [Dietrich's Theme](https://open.spotify.com/track/4BmsF7239KFLAGCzgrqdE1) | [Gabriel Ferreira](https://open.spotify.com/artist/12tefEuvjqpjdc4KevS3Ml) | [Bonhoeffer: Pastor\. Spy\. Assassin \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6p0Cs75DFIjytZxIKIpCoI) | 2:56 |
 | 45 | [Innocent](https://open.spotify.com/track/0201Qykl5e7gIVzPxsGxpq) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Conclave \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/450n3LTCuhmCsuUJiSo66N) | 1:54 |
 | 46 | [The Hidden Hand](https://open.spotify.com/track/7w9MzpTKU4ZBisKmDFTq9m) | [Volker Bertelmann](https://open.spotify.com/artist/1nO0SRSfsukVmUASnuravA) | [Dune: Prophecy \(Soundtrack from the HBO® Original Series\) \- Volume 1](https://open.spotify.com/album/5rSsxlbLVV86AIW10iRDT9) | 3:21 |
 | 47 | [Farewell](https://open.spotify.com/track/6VFvYTcaZtdVAycxoaZ21Z) | [Johannes Lehniger](https://open.spotify.com/artist/1lUNTqzrRE6zlTWs4QIqa8), [Sebastian Damerius](https://open.spotify.com/artist/4V5OLdgJBNzmJn9kAHjelZ), [Lisa Morgenstern](https://open.spotify.com/artist/6nMxYJRqJcmuOFtheuVChY) | [The Empress: II \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/4OhUUntW1tbvsnUHEZsnU2) | 3:02 |

@@ -1,6 +1,6 @@
 {
   "description": "Black, death and beyond. Recent tracks and classics from the world of extreme metal. Cover: Immortal",
-  "num_followers": 466784,
+  "num_followers": 466782,
   "original_name": "Extreme Metal",
   "owner": {
     "name": "Spotify",
@@ -315,22 +315,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Muuntautuja",
-        "url": "https://open.spotify.com/album/6cRCD79pIJvu5aeKWVtskd"
-      },
-      "artists": [
-        {
-          "name": "Oranssi Pazuzu",
-          "url": "https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW"
-        }
-      ],
-      "duration_ms": 270240,
-      "name": "Muuntautuja",
-      "url": "https://open.spotify.com/track/5izEvN0Q3z5WjiYAkEfMxc"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Existence Is Futile",
         "url": "https://open.spotify.com/album/3KpVEHzcarxhbDLaxSREiI"
       },
@@ -343,6 +327,22 @@
       "duration_ms": 274093,
       "name": "How Many Tears to Nurture a Rose?",
       "url": "https://open.spotify.com/track/56uFi2FNOiPTwwMTmnQb9b"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Muuntautuja",
+        "url": "https://open.spotify.com/album/6cRCD79pIJvu5aeKWVtskd"
+      },
+      "artists": [
+        {
+          "name": "Oranssi Pazuzu",
+          "url": "https://open.spotify.com/artist/3XFQRe2FsSOjrODygK4caW"
+        }
+      ],
+      "duration_ms": 270240,
+      "name": "Muuntautuja",
+      "url": "https://open.spotify.com/track/5izEvN0Q3z5WjiYAkEfMxc"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -739,22 +739,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Tara",
-        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
-      },
-      "artists": [
-        {
-          "name": "Absu",
-          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
-        }
-      ],
-      "duration_ms": 261693,
-      "name": "Pillars Of Mercy",
-      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Modern Primitive",
         "url": "https://open.spotify.com/album/2Mys40rXrG4GNkRDeJMZ88"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 290146,
       "name": "Coming Storm",
       "url": "https://open.spotify.com/track/1QISerMz8cRzCGBhJkTC64"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Tara",
+        "url": "https://open.spotify.com/album/0XvzG5PTrCcGxR3LiY8xke"
+      },
+      "artists": [
+        {
+          "name": "Absu",
+          "url": "https://open.spotify.com/artist/3eVkhnD2UKVjX5uiUsqfXP"
+        }
+      ],
+      "duration_ms": 261693,
+      "name": "Pillars Of Mercy",
+      "url": "https://open.spotify.com/track/0nv2fQCtxDqIJuPTKynKy8"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -911,8 +911,8 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "The Wild Hunt",
-        "url": "https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj"
+        "name": "Sworn to the Dark",
+        "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
       },
       "artists": [
         {
@@ -920,9 +920,9 @@
           "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
         }
       ],
-      "duration_ms": 380773,
-      "name": "Black Flames March",
-      "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
+      "duration_ms": 405866,
+      "name": "Satan's Hunger",
+      "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -991,8 +991,8 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Sworn to the Dark",
-        "url": "https://open.spotify.com/album/2z6f3UO5OVgP99A4DWByO3"
+        "name": "The Wild Hunt",
+        "url": "https://open.spotify.com/album/3BEfG3ZXFY0xjjvIXRwqOj"
       },
       "artists": [
         {
@@ -1000,9 +1000,9 @@
           "url": "https://open.spotify.com/artist/4OpHsZuhfJMU9PZ3zkyUQX"
         }
       ],
-      "duration_ms": 405866,
-      "name": "Satan's Hunger",
-      "url": "https://open.spotify.com/track/55ODw6itzdoQaHN6LjD3qS"
+      "duration_ms": 380773,
+      "name": "Black Flames March",
+      "url": "https://open.spotify.com/track/67NmAcOBbppWwqory0sYir"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1087,6 +1087,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "Iridescent",
+        "url": "https://open.spotify.com/album/137nDzRsg8KyAuBg9MYDED"
+      },
+      "artists": [
+        {
+          "name": "Allegaeon",
+          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
+        }
+      ],
+      "duration_ms": 173378,
+      "name": "Iridescent",
+      "url": "https://open.spotify.com/track/38guYrF0gFhiDaaWCpsAzB"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "Hellbirds",
         "url": "https://open.spotify.com/album/3EXJcYYzCFx3m4ankVY5OY"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 274560,
       "name": "Hellbirds",
       "url": "https://open.spotify.com/track/2U72WcsoIurnXk2dPBMqKX"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "The Tide of Death and Fractured Dreams",
-        "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
-      },
-      "artists": [
-        {
-          "name": "Ingested",
-          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
-        }
-      ],
-      "duration_ms": 217849,
-      "name": "Endless Machine",
-      "url": "https://open.spotify.com/track/4IcMbsouvdrvIirllmC7ar"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "The Tide of Death and Fractured Dreams",
+        "url": "https://open.spotify.com/album/1vrBZpr5a4DEPJNMnpzPkM"
+      },
+      "artists": [
+        {
+          "name": "Ingested",
+          "url": "https://open.spotify.com/artist/0EziqO4Mehje1x6hA1Fg2m"
+        }
+      ],
+      "duration_ms": 217849,
+      "name": "Endless Machine",
+      "url": "https://open.spotify.com/track/4IcMbsouvdrvIirllmC7ar"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "Future To Come",
         "url": "https://open.spotify.com/album/0EJ1YN4Z6VmZzPpcEn2fbE"
       },
@@ -1147,22 +1163,6 @@
       "duration_ms": 253413,
       "name": "Future to Come",
       "url": "https://open.spotify.com/track/1ukyoBUPLuLDWiGOP3TDdE"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "Iridescent",
-        "url": "https://open.spotify.com/album/137nDzRsg8KyAuBg9MYDED"
-      },
-      "artists": [
-        {
-          "name": "Allegaeon",
-          "url": "https://open.spotify.com/artist/5NIvyOvy39ljx9w71rnCS1"
-        }
-      ],
-      "duration_ms": 173378,
-      "name": "Iridescent",
-      "url": "https://open.spotify.com/track/38guYrF0gFhiDaaWCpsAzB"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Harbinger Of Woe",
-        "url": "https://open.spotify.com/album/4mYfUVZtfYzGEEEErTcMYc"
-      },
-      "artists": [
-        {
-          "name": "Brodequin",
-          "url": "https://open.spotify.com/artist/0QqpR7yMvfjGjMy4Ite5i5"
-        }
-      ],
-      "duration_ms": 243240,
-      "name": "Of Pillars And Trees",
-      "url": "https://open.spotify.com/track/29wTjvpsmkdWARwDxuWLXC"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Primordial Arcana (Bonus Track Edition)",
         "url": "https://open.spotify.com/album/2lcb8bwpDz6IdVNaLc6RFx"
       },
@@ -1211,6 +1195,22 @@
       "duration_ms": 355506,
       "name": "Mountain Magick",
       "url": "https://open.spotify.com/track/640gQtoBsV6NzzHsFqNMO2"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Harbinger Of Woe",
+        "url": "https://open.spotify.com/album/4mYfUVZtfYzGEEEErTcMYc"
+      },
+      "artists": [
+        {
+          "name": "Brodequin",
+          "url": "https://open.spotify.com/artist/0QqpR7yMvfjGjMy4Ite5i5"
+        }
+      ],
+      "duration_ms": 243240,
+      "name": "Of Pillars And Trees",
+      "url": "https://open.spotify.com/track/29wTjvpsmkdWARwDxuWLXC"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1279,6 +1279,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "Sentenced",
+        "url": "https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand"
+      },
+      "artists": [
+        {
+          "name": "Bound in Fear",
+          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
+        }
+      ],
+      "duration_ms": 256699,
+      "name": "Sentenced",
+      "url": "https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "The Long Road North",
         "url": "https://open.spotify.com/album/0mFOKK4EHSie3Hu1bhOiIB"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 278400,
       "name": "Serpent Sermon",
       "url": "https://open.spotify.com/track/454BNvuRUj0spER36hLRDj"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "Sentenced",
-        "url": "https://open.spotify.com/album/76eR5hZ0GowLWDf7y6hand"
-      },
-      "artists": [
-        {
-          "name": "Bound in Fear",
-          "url": "https://open.spotify.com/artist/58P2qDnyWpUDoiCtfHvLTL"
-        }
-      ],
-      "duration_ms": 256699,
-      "name": "Sentenced",
-      "url": "https://open.spotify.com/track/7jLEi98l4SJPm6T6pXGLch"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1391,30 +1391,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Hex Unending (feat. Dan Sugarman & Ice Nine Kills)",
-        "url": "https://open.spotify.com/album/0bTO5gZDrhs4BgdqZXJq8V"
-      },
-      "artists": [
-        {
-          "name": "D\u00e5\u00e5th",
-          "url": "https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN"
-        },
-        {
-          "name": "Dan Sugarman",
-          "url": "https://open.spotify.com/artist/33tcoGD8qMbSSRzi2LREmz"
-        },
-        {
-          "name": "Ice Nine Kills",
-          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
-        }
-      ],
-      "duration_ms": 212426,
-      "name": "Hex Unending (feat. Dan Sugarman & Ice Nine Kills)",
-      "url": "https://open.spotify.com/track/520YV13ulSpYYFH3PF8bu3"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Faking It",
         "url": "https://open.spotify.com/album/1ojh4hiSv6uhe2lSCtb3CF"
       },
@@ -1443,6 +1419,30 @@
       "duration_ms": 254500,
       "name": "Stained In Rot",
       "url": "https://open.spotify.com/track/5omTf1GVagsjkhr0m79auk"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Hex Unending (feat. Dan Sugarman & Ice Nine Kills)",
+        "url": "https://open.spotify.com/album/0bTO5gZDrhs4BgdqZXJq8V"
+      },
+      "artists": [
+        {
+          "name": "D\u00e5\u00e5th",
+          "url": "https://open.spotify.com/artist/1zPmAg2AfxmMPKspgUv9JN"
+        },
+        {
+          "name": "Dan Sugarman",
+          "url": "https://open.spotify.com/artist/33tcoGD8qMbSSRzi2LREmz"
+        },
+        {
+          "name": "Ice Nine Kills",
+          "url": "https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt"
+        }
+      ],
+      "duration_ms": 212426,
+      "name": "Hex Unending (feat. Dan Sugarman & Ice Nine Kills)",
+      "url": "https://open.spotify.com/track/520YV13ulSpYYFH3PF8bu3"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Strategies of Manipulation - EP",
-        "url": "https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP"
-      },
-      "artists": [
-        {
-          "name": "Misery Index",
-          "url": "https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA"
-        }
-      ],
-      "duration_ms": 124346,
-      "name": "Strategies of Manipulation",
-      "url": "https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Dead Wrong",
         "url": "https://open.spotify.com/album/1z9vGwn2Nc5SQuWARRNhtq"
       },
@@ -1543,22 +1527,6 @@
       "duration_ms": 273568,
       "name": "Dead Wrong",
       "url": "https://open.spotify.com/track/67hZkxdZJReO1T4uW0ZPVn"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "Hanged by My Hand",
-        "url": "https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy"
-      },
-      "artists": [
-        {
-          "name": "Enforced",
-          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
-        }
-      ],
-      "duration_ms": 193453,
-      "name": "Hanged by My Hand",
-      "url": "https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1583,6 +1551,38 @@
       "duration_ms": 326612,
       "name": "Where the Slime Live (feat. Dave Davidson & Revocation)",
       "url": "https://open.spotify.com/track/0kTRSk5aNTJdmQdW0ovvkc"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Strategies of Manipulation - EP",
+        "url": "https://open.spotify.com/album/20WJWz0leX9XBqh9Nx6kdP"
+      },
+      "artists": [
+        {
+          "name": "Misery Index",
+          "url": "https://open.spotify.com/artist/1kTUJy3zL57iEANLB9FpIA"
+        }
+      ],
+      "duration_ms": 124346,
+      "name": "Strategies of Manipulation",
+      "url": "https://open.spotify.com/track/0serE3bzQ9QAv0Gx9eEHWu"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Hanged by My Hand",
+        "url": "https://open.spotify.com/album/3SeBDjQIHpxvO8Te1OjbDy"
+      },
+      "artists": [
+        {
+          "name": "Enforced",
+          "url": "https://open.spotify.com/artist/7vZV2UPiXQMVesiAxQmvBp"
+        }
+      ],
+      "duration_ms": 193453,
+      "name": "Hanged by My Hand",
+      "url": "https://open.spotify.com/track/1mdTyzlaJo6P8CzeAM4iMq"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1811,22 +1811,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Birthright Abolished",
-        "url": "https://open.spotify.com/album/6KwT13eoi397ms87vdhcLG"
-      },
-      "artists": [
-        {
-          "name": "Hour of Penance",
-          "url": "https://open.spotify.com/artist/5QMEomYiV52o6l3uZmuE8N"
-        }
-      ],
-      "duration_ms": 197706,
-      "name": "Birthright Abolished",
-      "url": "https://open.spotify.com/track/0XBwfBO5ehW8l9Ved0P3fU"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Call Of The Wind",
         "url": "https://open.spotify.com/album/3PRkLeUz0coWZoTRRq7mL7"
       },
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "Under The Reviled Throne",
+        "url": "https://open.spotify.com/album/5tSuVWooK3ZtbWRBz7pJ0p"
+      },
+      "artists": [
+        {
+          "name": "Summoning the Lich",
+          "url": "https://open.spotify.com/artist/50hQBBOvJ0XIyUmFEnCy2W"
+        }
+      ],
+      "duration_ms": 239755,
+      "name": "The Carrion Fleet",
+      "url": "https://open.spotify.com/track/5tTvAAEyf75xdoyjU5uamJ"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "In The House Of Angel Flesh",
         "url": "https://open.spotify.com/album/0jt9B9d7qLpodAyZR6b6eM"
       },
@@ -1875,18 +1875,18 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Under The Reviled Throne",
-        "url": "https://open.spotify.com/album/5tSuVWooK3ZtbWRBz7pJ0p"
+        "name": "Birthright Abolished",
+        "url": "https://open.spotify.com/album/6KwT13eoi397ms87vdhcLG"
       },
       "artists": [
         {
-          "name": "Summoning the Lich",
-          "url": "https://open.spotify.com/artist/50hQBBOvJ0XIyUmFEnCy2W"
+          "name": "Hour of Penance",
+          "url": "https://open.spotify.com/artist/5QMEomYiV52o6l3uZmuE8N"
         }
       ],
-      "duration_ms": 239755,
-      "name": "The Carrion Fleet",
-      "url": "https://open.spotify.com/track/5tTvAAEyf75xdoyjU5uamJ"
+      "duration_ms": 197706,
+      "name": "Birthright Abolished",
+      "url": "https://open.spotify.com/track/0XBwfBO5ehW8l9Ved0P3fU"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -1971,6 +1971,22 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
+        "name": "Slasher - EP",
+        "url": "https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu"
+      },
+      "artists": [
+        {
+          "name": "Omnium Gatherum",
+          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
+        }
+      ],
+      "duration_ms": 269346,
+      "name": "Sacred",
+      "url": "https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
         "name": "Ride the Flatline (feat. Jami Morgan & Code Orange)",
         "url": "https://open.spotify.com/album/65XttkEWNXaOqE9NreNraS"
       },
@@ -1991,22 +2007,6 @@
       "duration_ms": 169461,
       "name": "Ride the Flatline (feat. Jami Morgan & Code Orange)",
       "url": "https://open.spotify.com/track/1jxurcDJOIetOVKHnommay"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
-        "name": "Slasher - EP",
-        "url": "https://open.spotify.com/album/5WsMlyF5REQmjiP4ANaVFu"
-      },
-      "artists": [
-        {
-          "name": "Omnium Gatherum",
-          "url": "https://open.spotify.com/artist/52xuvlUvnxqH0xzxGPKXSu"
-        }
-      ],
-      "duration_ms": 269346,
-      "name": "Sacred",
-      "url": "https://open.spotify.com/track/0t4TOpK2sqt3Xzj3WlATlk"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -2203,22 +2203,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Deep Cuts & Shallow Graves",
-        "url": "https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS"
-      },
-      "artists": [
-        {
-          "name": "Bewitcher",
-          "url": "https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi"
-        }
-      ],
-      "duration_ms": 230066,
-      "name": "Our Lady of Speed",
-      "url": "https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Scorched Quadrant",
         "url": "https://open.spotify.com/album/3S0WC5y5lHxpW42aAGf3Sf"
       },
@@ -2231,6 +2215,22 @@
       "duration_ms": 305080,
       "name": "Scorched Quadrant",
       "url": "https://open.spotify.com/track/2tWlyKenaHIuKtjIEHEgI6"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Deep Cuts & Shallow Graves",
+        "url": "https://open.spotify.com/album/3US4p7WnEXUyu6Yk2rJHmS"
+      },
+      "artists": [
+        {
+          "name": "Bewitcher",
+          "url": "https://open.spotify.com/artist/3uqoS4269hIwo4DzfT15Wi"
+        }
+      ],
+      "duration_ms": 230066,
+      "name": "Our Lady of Speed",
+      "url": "https://open.spotify.com/track/6IyY9BnIAP6Dkh52TxuQ6Z"
     },
     {
       "added_at": "2024-11-25 08:58:23",
@@ -2411,22 +2411,6 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "Nonagon",
-        "url": "https://open.spotify.com/album/6NsEcggpi5Y8ds4gBZSxei"
-      },
-      "artists": [
-        {
-          "name": "Blood Red Throne",
-          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
-        }
-      ],
-      "duration_ms": 322206,
-      "name": "Nonagon",
-      "url": "https://open.spotify.com/track/5Gtg4wpDTwsdv4caBlzCTT"
-    },
-    {
-      "added_at": "2024-11-25 08:58:23",
-      "album": {
         "name": "Awakening",
         "url": "https://open.spotify.com/album/0TFqMj4XV9sYni2jsdjZzN"
       },
@@ -2443,22 +2427,34 @@
     {
       "added_at": "2024-11-25 08:58:23",
       "album": {
-        "name": "At Dusk",
-        "url": "https://open.spotify.com/album/3jrlr15Xj2GtjL0C8AP3jX"
+        "name": "Nonagon",
+        "url": "https://open.spotify.com/album/6NsEcggpi5Y8ds4gBZSxei"
       },
       "artists": [
         {
-          "name": "Heretoir",
-          "url": "https://open.spotify.com/artist/4W1aTc1mS8IudqNaxfGKar"
-        },
-        {
-          "name": "Suldusk",
-          "url": "https://open.spotify.com/artist/27bhelNsrdlX5Y5H7yigfg"
+          "name": "Blood Red Throne",
+          "url": "https://open.spotify.com/artist/38shFuJO9k0kOEQSf854u4"
         }
       ],
-      "duration_ms": 244666,
-      "name": "At Dusk",
-      "url": "https://open.spotify.com/track/6IV24gFX5SuM4ZmpNq9XnT"
+      "duration_ms": 322206,
+      "name": "Nonagon",
+      "url": "https://open.spotify.com/track/5Gtg4wpDTwsdv4caBlzCTT"
+    },
+    {
+      "added_at": "2024-11-25 08:58:23",
+      "album": {
+        "name": "Hamartia - EP",
+        "url": "https://open.spotify.com/album/57vmtY5HBATeIPGrFQS1hN"
+      },
+      "artists": [
+        {
+          "name": "Tribulation",
+          "url": "https://open.spotify.com/artist/7xTo7ipdBZezIoyAkmcRge"
+        }
+      ],
+      "duration_ms": 408053,
+      "name": "Hemoclysm",
+      "url": "https://open.spotify.com/track/4y3Cvx3RnGiVwjKJRc2Jl1"
     }
   ],
   "unique_name": "Extreme Metal",

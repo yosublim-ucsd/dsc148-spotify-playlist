@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-02",
-  "description": "The cream of today's Country crop. Cover: Kane Brown",
+  "description": "The cream of today's Country crop. Cover: Max McNown",
   "name": "Fresh Country",
   "tracks": [
     {
@@ -528,7 +528,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 217733,
       "name": "Ain't Enough Cowboy Songs",
       "url": "https://open.spotify.com/track/2m39dZNrCht127n8mzHHfa"
@@ -1314,7 +1314,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 205413,
       "name": "Beer In A Bar",
       "url": "https://open.spotify.com/track/6Kkp5WoAenzM0epmr4qPDf"
@@ -1698,7 +1698,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 162115,
       "name": "BLAME",
       "url": "https://open.spotify.com/track/6krhdjLqzCefSnaGgUidUq"
@@ -2382,7 +2382,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 194621,
       "name": "Casamigos",
       "url": "https://open.spotify.com/track/4PmGnPVc9mpm8HSSdfI2TP"
@@ -2400,7 +2400,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 199533,
       "name": "Change My Mind",
       "url": "https://open.spotify.com/track/3iFzZcNK82ytOWr2qHY5pd"
@@ -2584,7 +2584,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 214800,
       "name": "CHUCK TAYLORS",
       "url": "https://open.spotify.com/track/5LCwWKC7mc2naS8aG503oG"
@@ -2758,7 +2758,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 208425,
       "name": "Coming Home To You (Bigger Houses) [feat. Owen Riegling]",
       "url": "https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT"
@@ -4520,7 +4520,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 172712,
       "name": "Filthy Rich",
       "url": "https://open.spotify.com/track/6InkM0NaTWi7PJ3utfUzlM"
@@ -5373,6 +5373,24 @@
     },
     {
       "album": {
+        "name": "Good Luck",
+        "url": "https://open.spotify.com/album/3d4uPjZrHWHcUBtAIYSpzn"
+      },
+      "artists": [
+        {
+          "name": "Rachael Fahim",
+          "url": "https://open.spotify.com/artist/0l7PmxcaTok6bxl67BX6XT"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201233,
+      "name": "Good Luck",
+      "url": "https://open.spotify.com/track/69Bss95RLsfXxGs4xeLRVk"
+    },
+    {
+      "album": {
         "name": "Good News",
         "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
       },
@@ -5492,7 +5510,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 211277,
       "name": "Good Times (Bonus Track)",
       "url": "https://open.spotify.com/track/30877ufZfLUNYXR9mXo9bi"
@@ -5622,7 +5640,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 199120,
       "name": "Guess We'll Never Know (feat. Colbie Caillat)",
       "url": "https://open.spotify.com/track/2R294ks6upD1fBEVidGnNH"
@@ -5828,6 +5846,28 @@
       "duration_ms": 199505,
       "name": "Hate Hate Hate",
       "url": "https://open.spotify.com/track/0scLx5J7ckwdhuPIRZgN3P"
+    },
+    {
+      "album": {
+        "name": "The High Road",
+        "url": "https://open.spotify.com/album/3UPTShNGcVewuV8nSxIMYY"
+      },
+      "artists": [
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        },
+        {
+          "name": "Jelly Roll",
+          "url": "https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264800,
+      "name": "Haunted",
+      "url": "https://open.spotify.com/track/0Gz45mObitRRxd5EtFkHuh"
     },
     {
       "album": {
@@ -6099,6 +6139,24 @@
     },
     {
       "album": {
+        "name": "HELL BOY",
+        "url": "https://open.spotify.com/album/3c9EqYQI2MUpCF29Fliila"
+      },
+      "artists": [
+        {
+          "name": "James Johnston",
+          "url": "https://open.spotify.com/artist/69HMYPrcstafeCTHI3Dcp1"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175233,
+      "name": "HELL BOY",
+      "url": "https://open.spotify.com/track/0TB3Diz7QTmqXbn07esBAf"
+    },
+    {
+      "album": {
         "name": "Hell Of A View",
         "url": "https://open.spotify.com/album/6i8SLfUQsagk3SSPrj5AUW"
       },
@@ -6200,7 +6258,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 184450,
       "name": "Heroes",
       "url": "https://open.spotify.com/track/3ZtpF25rlCwrLWLI12OCd5"
@@ -6644,7 +6702,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 173482,
       "name": "Hotel Bible",
       "url": "https://open.spotify.com/track/3UAkWAnbPGJgIXG1OsQHlD"
@@ -7487,6 +7545,24 @@
     },
     {
       "album": {
+        "name": "Jenni",
+        "url": "https://open.spotify.com/album/7yAh8gTk7oykUml3DThvdc"
+      },
+      "artists": [
+        {
+          "name": "Kashus Culpepper",
+          "url": "https://open.spotify.com/artist/2MPe4h9blynt1CfCkMku6j"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209387,
+      "name": "Jenni",
+      "url": "https://open.spotify.com/track/4kI5LZmzlDyRgURUueKZ63"
+    },
+    {
+      "album": {
         "name": "Just Drive",
         "url": "https://open.spotify.com/album/5Pi5rw478LMuMAOFzecWt4"
       },
@@ -7747,6 +7823,24 @@
     },
     {
       "album": {
+        "name": "Last Sip of Summer",
+        "url": "https://open.spotify.com/album/76fyvD2w4fV0Cjir8fuAa4"
+      },
+      "artists": [
+        {
+          "name": "Maoli",
+          "url": "https://open.spotify.com/artist/6EKzehEG2fwJtRMH4KbjsA"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201394,
+      "name": "Last Sip of Summer",
+      "url": "https://open.spotify.com/track/0p1LprxmDcXZXDuvb64QJw"
+    },
+    {
+      "album": {
         "name": "Last Time Last",
         "url": "https://open.spotify.com/album/3DvNKelL2qwF1ArBNvSec6"
       },
@@ -7794,7 +7888,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 175000,
       "name": "Learned That Way",
       "url": "https://open.spotify.com/track/2a4e8opv2zBUM0nNqzESML"
@@ -7999,6 +8093,24 @@
     },
     {
       "album": {
+        "name": "Life For Me",
+        "url": "https://open.spotify.com/album/2QCJTvIknJCxjAamwbjRYf"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173100,
+      "name": "Life For Me",
+      "url": "https://open.spotify.com/track/0vBJ0WIXHhLsQccXH21AwN"
+    },
+    {
+      "album": {
         "name": "Life On The Flip Side",
         "url": "https://open.spotify.com/album/5ceo0l1U1pIVzVaCU4wZ5o"
       },
@@ -8064,7 +8176,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 195994,
       "name": "Light Up The Night",
       "url": "https://open.spotify.com/track/0RWvxWAV38NiKMLK5L6Ra3"
@@ -8628,7 +8740,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 211926,
       "name": "Made From The Dirt",
       "url": "https://open.spotify.com/track/74RsHt0dw97fwb9HETbpop"
@@ -9520,6 +9632,24 @@
       "duration_ms": 175237,
       "name": "Next Thing You Know",
       "url": "https://open.spotify.com/track/2lNTHWu2I5Tcz9ukWsV5Jj"
+    },
+    {
+      "album": {
+        "name": "Night Diving",
+        "url": "https://open.spotify.com/album/10hjsM00M8pghNdZRwOShY"
+      },
+      "artists": [
+        {
+          "name": "Max McNown",
+          "url": "https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215466,
+      "name": "Night Diving",
+      "url": "https://open.spotify.com/track/7bgVm7r759aqRHR027Shpf"
     },
     {
       "album": {
@@ -11142,7 +11272,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 191146,
       "name": "Roses and Wolves (feat. Hailey Whitters)",
       "url": "https://open.spotify.com/track/0Q9ILgShrEv0ap5YIaMAC7"
@@ -13947,6 +14077,42 @@
     },
     {
       "album": {
+        "name": "Those Kind Of Women",
+        "url": "https://open.spotify.com/album/4YJcPufQPQIeRaVO59Fmj7"
+      },
+      "artists": [
+        {
+          "name": "Lauren Alaina",
+          "url": "https://open.spotify.com/artist/1v3tdpIdBSW14rHUfiEVOv"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192349,
+      "name": "Those Kind Of Women",
+      "url": "https://open.spotify.com/track/4vLfibmz6FuED8xU2uL1q9"
+    },
+    {
+      "album": {
+        "name": "The Select",
+        "url": "https://open.spotify.com/album/4tE4n1E0qtAfJTh8IPT9TN"
+      },
+      "artists": [
+        {
+          "name": "Ty Myers",
+          "url": "https://open.spotify.com/artist/1Gh0pCAxpjw0Iq3JMoVAwO"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246141,
+      "name": "Thought It Was Love",
+      "url": "https://open.spotify.com/track/4fVoX6BG2jFhPx6uHKevpF"
+    },
+    {
+      "album": {
         "name": "Thought You Should Know",
         "url": "https://open.spotify.com/album/4kbT7O8zsXUw8CZvhBR46i"
       },
@@ -14182,7 +14348,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 212682,
       "name": "Tree Birds",
       "url": "https://open.spotify.com/track/0uNzLccqsb5crQ2dcBlakz"
@@ -14820,7 +14986,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 259022,
       "name": "What Kinda Man",
       "url": "https://open.spotify.com/track/2K6T1iKa7coghsISspjPv8"
@@ -15444,7 +15610,7 @@
       ],
       "date_added": "2024-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 126360,
       "name": "WILD THING",
       "url": "https://open.spotify.com/track/4GTFDQzSDExlnH371A4qXx"
@@ -15556,7 +15722,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 194413,
       "name": "Winning Streak",
       "url": "https://open.spotify.com/track/6dibjdPRlDUZabs8aokY4D"

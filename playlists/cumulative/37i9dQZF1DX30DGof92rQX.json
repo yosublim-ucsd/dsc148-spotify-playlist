@@ -2011,6 +2011,36 @@
     },
     {
       "album": {
+        "name": "Naqaab",
+        "url": "https://open.spotify.com/album/5ULV6AgbJSK5fy7NjBAUfE"
+      },
+      "artists": [
+        {
+          "name": "Taimour Baig",
+          "url": "https://open.spotify.com/artist/1yMP2gzEFgUkib4khXN6hi"
+        },
+        {
+          "name": "Rohith Pai Kasturi",
+          "url": "https://open.spotify.com/artist/3Ji6vr5jQfh3mMoeVt1mFb"
+        },
+        {
+          "name": "SarpDansh",
+          "url": "https://open.spotify.com/artist/2EnfibPipqcjvyRiNrbHTN"
+        },
+        {
+          "name": "SickLot",
+          "url": "https://open.spotify.com/artist/2NYWuAn8LPsebNkudbSLA6"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195019,
+      "name": "Naqaab",
+      "url": "https://open.spotify.com/track/5U8vnomI00iJDCN3Gm6Fhh"
+    },
+    {
+      "album": {
         "name": "Nishaani",
         "url": "https://open.spotify.com/album/5U2UWMIPPqXCDSjkRgqvF2"
       },

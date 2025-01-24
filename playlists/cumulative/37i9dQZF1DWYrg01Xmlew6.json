@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Rap napoletano e il meglio della scena campana. Capozanarky in cover.",
+  "description": "Rap napoletano e il meglio della scena campana. SLF in cover.",
   "name": "Int 'o Rione",
   "tracks": [
     {
@@ -20,6 +20,44 @@
       "duration_ms": 160909,
       "name": "'E Cose Bell",
       "url": "https://open.spotify.com/track/34ez6AvIIDQfvn2qrqvBgM"
+    },
+    {
+      "album": {
+        "name": "WE THE SQUAD Vol.2",
+        "url": "https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222857,
+      "name": "'NA VITA ANNANZ (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Geolier)",
+      "url": "https://open.spotify.com/track/01Q6wAngQWqU4T1ppwuWVV"
     },
     {
       "album": {
@@ -936,7 +974,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 198952,
       "name": "Calma Fragile",
       "url": "https://open.spotify.com/track/5Brck6pOzlfyQf3CN64uuT"
@@ -3244,7 +3282,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 183829,
       "name": "JET PRIVATO (feat. Luch\u00e8)",
       "url": "https://open.spotify.com/track/3aB5SuXdCdibhAFpjqrJ0c"
@@ -4164,6 +4202,44 @@
       "duration_ms": 173495,
       "name": "ME VULEV FA RUOSS",
       "url": "https://open.spotify.com/track/5ZBIeRCyYvb0nGEtsvuth8"
+    },
+    {
+      "album": {
+        "name": "WE THE SQUAD Vol.2",
+        "url": "https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Geolier",
+          "url": "https://open.spotify.com/artist/27LlKWxS3KXW7RRAxN5S8s"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208928,
+      "name": "MEA CRR (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Geolier)",
+      "url": "https://open.spotify.com/track/1kgbsnrzXeTjVV9iolP8sa"
     },
     {
       "album": {
@@ -5597,6 +5673,28 @@
     },
     {
       "album": {
+        "name": "PARENTE",
+        "url": "https://open.spotify.com/album/4NfWT7DZf5pOnglQ77sYFC"
+      },
+      "artists": [
+        {
+          "name": "Le-one",
+          "url": "https://open.spotify.com/artist/5Otk4eRecMMbC5YR4Iliou"
+        },
+        {
+          "name": "Christian Liguori",
+          "url": "https://open.spotify.com/artist/0ozb4x3nqp8fRb2WRgNKEn"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142556,
+      "name": "PARENTE",
+      "url": "https://open.spotify.com/track/4M1YXSjzb3HHndhd9dUVSF"
+    },
+    {
+      "album": {
         "name": "Parln e me",
         "url": "https://open.spotify.com/album/5jDlmOcNuu9f7134Q3wg2i"
       },
@@ -5934,6 +6032,44 @@
       "duration_ms": 186698,
       "name": "Peso",
       "url": "https://open.spotify.com/track/3Ampylw6l8IouMtpdV3vc4"
+    },
+    {
+      "album": {
+        "name": "WE THE SQUAD Vol.2",
+        "url": "https://open.spotify.com/album/4Bs1suGfjXE0KV1CoK4hTE"
+      },
+      "artists": [
+        {
+          "name": "SLF",
+          "url": "https://open.spotify.com/artist/49SLNYRfTi1p9R38NooZKS"
+        },
+        {
+          "name": "MV Killa",
+          "url": "https://open.spotify.com/artist/0QqmgpgI0C1DyyDk49vnxY"
+        },
+        {
+          "name": "Yung Snapp",
+          "url": "https://open.spotify.com/artist/4y5lvMadZv6NAv8RgcCRem"
+        },
+        {
+          "name": "Lele Blade",
+          "url": "https://open.spotify.com/artist/3yGA8yyowtKVXgNIXguMfz"
+        },
+        {
+          "name": "Vale Lambo",
+          "url": "https://open.spotify.com/artist/26OG4ryQ7oFAbUNAvYCOgn"
+        },
+        {
+          "name": "Frezza",
+          "url": "https://open.spotify.com/artist/32G8poKFhw5C0um4jMXH9W"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194000,
+      "name": "PEZZI DA NOVANTA (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo, Frezza)",
+      "url": "https://open.spotify.com/track/5wxGfq3mQTlvYpON9F2wSu"
     },
     {
       "album": {
@@ -6476,7 +6612,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 179000,
       "name": "REAL OG (feat. MV Killa, Yung Snapp, Lele Blade, Vale Lambo)",
       "url": "https://open.spotify.com/track/2fHwUvbO0BocxgtZePeL1l"
@@ -7154,7 +7290,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 184079,
       "name": "SHOTGUN (Red Bull 64 Bars)",
       "url": "https://open.spotify.com/track/2EKhvDiIAhUVOQx0bM1zR6"
@@ -7619,6 +7755,52 @@
     },
     {
       "album": {
+        "name": "SUD MOST WANTED (feat. Peppe Soks, Lil Parta, SKT, Enzo Benz, Welo, Kid Lost, O'Tsunami)",
+        "url": "https://open.spotify.com/album/69zf4cHClHc9wgw4AjM3Gx"
+      },
+      "artists": [
+        {
+          "name": "Nathys",
+          "url": "https://open.spotify.com/artist/4WEY1EtpUsTc7DkeqABuxf"
+        },
+        {
+          "name": "Peppe Soks",
+          "url": "https://open.spotify.com/artist/2BNVHk103mhpIy5ytlCHTT"
+        },
+        {
+          "name": "Lil Parta",
+          "url": "https://open.spotify.com/artist/4pgBWoILMJ7xYW34wcPCmP"
+        },
+        {
+          "name": "SKT",
+          "url": "https://open.spotify.com/artist/6WRnYIPYh4mJIj6qHRmoZr"
+        },
+        {
+          "name": "Enzo Benz",
+          "url": "https://open.spotify.com/artist/6JKLzRBKTJYf1Wko3cNr7P"
+        },
+        {
+          "name": "Welo",
+          "url": "https://open.spotify.com/artist/0dzIqD49huTggBCvkduz72"
+        },
+        {
+          "name": "Kid Lost",
+          "url": "https://open.spotify.com/artist/4oGlqM93JwM3Bx5X0wvLTu"
+        },
+        {
+          "name": "O'Tsunami",
+          "url": "https://open.spotify.com/artist/2XAfB5zj0qBxMC6Z6hibfm"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "SUD MOST WANTED (feat. Peppe Soks, Lil Parta, SKT, Enzo Benz, Welo, Kid Lost, O'Tsunami)",
+      "url": "https://open.spotify.com/track/6dl9FpOjDyzBrqfYzkzp47"
+    },
+    {
+      "album": {
         "name": "SUL IJ E TE (con O'Tsunami)",
         "url": "https://open.spotify.com/album/2LZut9eY8A7xUtI5A0tuvS"
       },
@@ -8050,7 +8232,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 154880,
       "name": "TRAP",
       "url": "https://open.spotify.com/track/3yNNheP6f1qfSvIPUcZIik"

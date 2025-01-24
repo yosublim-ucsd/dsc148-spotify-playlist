@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Malter",
+  "description": "\ud83c\udf6f\ud83c\udf6f\ud83c\udf6f. Photo : Oscar Emch",
   "name": "le miel",
   "tracks": [
     {
@@ -1066,7 +1066,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 156520,
       "name": "Dis-moi",
       "url": "https://open.spotify.com/track/7Cs1QQ1hDfx4mVGvTGqljz"
@@ -1966,7 +1966,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 172046,
       "name": "J'ach\u00e8te \u00e7a",
       "url": "https://open.spotify.com/track/0HxQNxcKHotTLxOq8YSwhH"
@@ -2298,7 +2298,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 261493,
       "name": "La Fi\u00e8vre",
       "url": "https://open.spotify.com/track/4g0B10CF5KjPAbFBYbICQ8"
@@ -2407,6 +2407,24 @@
     },
     {
       "album": {
+        "name": "Les Ailes",
+        "url": "https://open.spotify.com/album/4pFNFUKVKosSeo7pBjeafg"
+      },
+      "artists": [
+        {
+          "name": "\u00c9NA\u00c9",
+          "url": "https://open.spotify.com/artist/41qDq9RL1JUO3WfBT1vjLM"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213818,
+      "name": "Les Ailes",
+      "url": "https://open.spotify.com/track/4CCoM9Mo5Mj5nF0mZFAseP"
+    },
+    {
+      "album": {
         "name": "amour b\u00e9ton",
         "url": "https://open.spotify.com/album/0Ciyif3VgyLfXP7biH4Q7C"
       },
@@ -2422,6 +2440,24 @@
       "duration_ms": 193422,
       "name": "les autres",
       "url": "https://open.spotify.com/track/1q84ggy0S6Lozil3NeRarh"
+    },
+    {
+      "album": {
+        "name": "Les moyens",
+        "url": "https://open.spotify.com/album/5er8cQdrHbvAwJC4cYeOQZ"
+      },
+      "artists": [
+        {
+          "name": "Oscar Emch",
+          "url": "https://open.spotify.com/artist/07n9zp5Qfn9tIPMhQlYzqm"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199946,
+      "name": "Les moyens",
+      "url": "https://open.spotify.com/track/7LwcCSH1UiVK6ivjaSJJbF"
     },
     {
       "album": {
@@ -3130,7 +3166,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 147128,
       "name": "Official",
       "url": "https://open.spotify.com/track/4y4ixRBiXOW1ZxchYO5bCr"
@@ -3394,6 +3430,24 @@
       "duration_ms": 144186,
       "name": "Photoshop",
       "url": "https://open.spotify.com/track/6zeYQPjyzz82z3wGVzyPzE"
+    },
+    {
+      "album": {
+        "name": "Pill\u00e9 mais pas d\u00e9truit",
+        "url": "https://open.spotify.com/album/2SqZvNnlQodarJJG10ZcBR"
+      },
+      "artists": [
+        {
+          "name": "MVRIE-LOUISE",
+          "url": "https://open.spotify.com/artist/6dUsCEhZwMaX18yAH6RGCD"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214083,
+      "name": "Pill\u00e9 mais pas d\u00e9truit",
+      "url": "https://open.spotify.com/track/1OUmNgT3puIVi0W1oR7tdY"
     },
     {
       "album": {
@@ -4700,6 +4754,24 @@
       "duration_ms": 175425,
       "name": "T\u00e9l\u00e9commande",
       "url": "https://open.spotify.com/track/4i9IcJ4T5aHY4xsUaRoS1C"
+    },
+    {
+      "album": {
+        "name": "T\u00e9moin",
+        "url": "https://open.spotify.com/album/11G2GTJeEW5Wt3ob2B9rcf"
+      },
+      "artists": [
+        {
+          "name": "Heza",
+          "url": "https://open.spotify.com/artist/2dNXAcbcjLYoPbcDM1Hvs1"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "T\u00e9moin",
+      "url": "https://open.spotify.com/track/3oAeLtP06SAeztPQwKUip4"
     },
     {
       "album": {

@@ -855,6 +855,24 @@
     },
     {
       "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/27uRexjrQMOashAfxZuCM0"
+      },
+      "artists": [
+        {
+          "name": "Juicce",
+          "url": "https://open.spotify.com/artist/63arbh8ZF2mvGFINe50Byi"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145903,
+      "name": "Connected",
+      "url": "https://open.spotify.com/track/0vEG1losSiPHkoL6GQrG9x"
+    },
+    {
+      "album": {
         "name": "Contente",
         "url": "https://open.spotify.com/album/363uLSNZ5QMFDmGRKDgfek"
       },
@@ -1012,7 +1030,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 228571,
       "name": "DEEPER",
       "url": "https://open.spotify.com/track/1BxtUxsBmTxUOdH2f1LVXx"
@@ -1226,6 +1244,28 @@
       "duration_ms": 290629,
       "name": "Down - Illusionize, Viot Rework",
       "url": "https://open.spotify.com/track/6yJLDJD5DPa7ZG6ICH5vc0"
+    },
+    {
+      "album": {
+        "name": "DUNE",
+        "url": "https://open.spotify.com/album/1stWiST9FKbP1Hs4E35ypq"
+      },
+      "artists": [
+        {
+          "name": "RUBACK",
+          "url": "https://open.spotify.com/artist/2fdRphXxW7ncxOnkX4J3Pg"
+        },
+        {
+          "name": "Amesens",
+          "url": "https://open.spotify.com/artist/10fNI7PF4BbCeORkKdjRrN"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 301300,
+      "name": "DUNE",
+      "url": "https://open.spotify.com/track/1qHUKbFN1nz3BbS5RogriX"
     },
     {
       "album": {
@@ -1596,6 +1636,28 @@
       "duration_ms": 141600,
       "name": "Focus - Double Mzk Remix",
       "url": "https://open.spotify.com/track/2pNc5obifxjvHxMiTRCoH0"
+    },
+    {
+      "album": {
+        "name": "For",
+        "url": "https://open.spotify.com/album/5hQPiyYmBNgH4hoosbqezG"
+      },
+      "artists": [
+        {
+          "name": "Greggio",
+          "url": "https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3"
+        },
+        {
+          "name": "Zuffo",
+          "url": "https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183370,
+      "name": "For",
+      "url": "https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG"
     },
     {
       "album": {
@@ -2076,7 +2138,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 213333,
       "name": "Home - Vintage Culture Remix",
       "url": "https://open.spotify.com/track/46mSti37NWTIg9XOFulqLH"
@@ -2156,7 +2218,7 @@
       ],
       "date_added": "2024-03-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 172741,
       "name": "I Promise You",
       "url": "https://open.spotify.com/track/21xz5b75yyHYTC1BWidmFU"
@@ -2454,7 +2516,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 121500,
       "name": "LET'S GET FKD UP",
       "url": "https://open.spotify.com/track/0iB5f04XdJ2tcfhoVkeLV8"
@@ -2773,6 +2835,28 @@
     },
     {
       "album": {
+        "name": "MarijuaNnNa",
+        "url": "https://open.spotify.com/album/4vG8zwik7tH9HpaTGvDFlR"
+      },
+      "artists": [
+        {
+          "name": "Almanac",
+          "url": "https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv"
+        },
+        {
+          "name": "Stilo Magolide",
+          "url": "https://open.spotify.com/artist/77zNkBGPeehKXAXAXfUfnA"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220907,
+      "name": "MarijuaNnNa",
+      "url": "https://open.spotify.com/track/0JXGYHwFOGXdWYWWatSDVO"
+    },
+    {
+      "album": {
         "name": "Mia Pembe (Mojjo Remix)",
         "url": "https://open.spotify.com/album/6Z7gdgNRG6swQcWqBFx3R4"
       },
@@ -2796,6 +2880,24 @@
       "duration_ms": 189212,
       "name": "Mia Pembe (Mojjo Remix)",
       "url": "https://open.spotify.com/track/2RiT2JG41HYuW8T5W7fXS9"
+    },
+    {
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/3kTdSQgAtS4hiY7QZH1iJ0"
+      },
+      "artists": [
+        {
+          "name": "INDECK.",
+          "url": "https://open.spotify.com/artist/0vkZ3GrLFGOe2rANGmmaYY"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192000,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/0pUqMnvppzZqnmkTmlsCie"
     },
     {
       "album": {
@@ -2902,7 +3004,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 160024,
       "name": "My Body (feat. Y&M)",
       "url": "https://open.spotify.com/track/2SrEtVmJxuhLTshjg6tYpZ"

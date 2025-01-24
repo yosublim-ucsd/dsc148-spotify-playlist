@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,971 songs - 4 day 8 hr 41 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 16 likes - 1,978 songs - 4 day 9 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1979,5 +1979,12 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 1969 | [Voices](https://open.spotify.com/track/0eiUErHvrsUUYcTTUdK3aE) | [Refold](https://open.spotify.com/artist/02oOp0dwF69I6v2scWE7uY) | [Voices](https://open.spotify.com/album/52AqVJAsHIBWbyrJNELokY) | 2:33 |
 | 1970 | [Space & Time](https://open.spotify.com/track/0HWnnhwpbyFRqpbHqEpIGq) | [Galactixx](https://open.spotify.com/artist/450u38hSRh0Q2UyghEbjpS) | [Space & Time](https://open.spotify.com/album/1f2ngTn299NDRLiK4e6RnT) | 3:36 |
 | 1971 | [Take Off](https://open.spotify.com/track/3iZqzWXy4dQ55lhdJdB9ve) | [Weekend Offender](https://open.spotify.com/artist/2j8p5TGdqqPZkTJ5YZP35F) | [Take Off](https://open.spotify.com/album/5doJP0bkxhxjWuKLn2gW1h) | 3:19 |
+| 1972 | [Gangster Life](https://open.spotify.com/track/3JqoTPjArcdcMlA30EE4Yv) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Gangster Life](https://open.spotify.com/album/3yJ6ptzcxy5Z5nb8XvlwL9) | 2:51 |
+| 1973 | [The Choice \- Rubiø Remix](https://open.spotify.com/track/2PTz6Y5jwssgz5xgL0hSNx) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [Arytmia](https://open.spotify.com/artist/21U1mdpJCfvZNevNNkbgOT), [Melt Motif](https://open.spotify.com/artist/4I7tEiEHCHsUcOm5REj8qX), [RUBIØ](https://open.spotify.com/artist/6qr39ni6B1uX5Vbo9biMhd) | [The Choice \(Rubiø Remix\)](https://open.spotify.com/album/76r3BOQEcR8T1DZopShMvj) | 3:27 |
+| 1974 | [Sweet Dreams](https://open.spotify.com/track/4OUQuXooxCNIbxEDbLZYKg) | [Paolo Ferrara](https://open.spotify.com/artist/1U7SiJjX2xOz8I0QFCEeDK), [Lorenzo Raganzini](https://open.spotify.com/artist/0bvhASdLuh4STSJPxMjjSo), [Benefice](https://open.spotify.com/artist/50YinzEDCTthYGZEJDZSus), [LeStrange](https://open.spotify.com/artist/01nL5y3UmnvmvusuBmzpN9) | [Far from Heaven](https://open.spotify.com/album/6R399tHAc4Oow2VdoEEdyP) | 3:30 |
+| 1975 | [Bounce It](https://open.spotify.com/track/5bVoAjpheAtpRypUL6f2by) | [Stoltenhoff](https://open.spotify.com/artist/6HKR0MHpgba3ZRBXYfPiq0) | [Bounce It](https://open.spotify.com/album/6MggkvxUbJCzl1ZnF8uTqR) | 6:30 |
+| 1976 | [The Game](https://open.spotify.com/track/5N8YDNBc12gnCwcv8gspXf) | [Tylow](https://open.spotify.com/artist/4UJL3CXfxOeciUbLIEd5q9) | [The Game](https://open.spotify.com/album/2Kc1iSkWJsg5VmCMS17e2P) | 4:06 |
+| 1977 | [Bad Guy](https://open.spotify.com/track/2BmftBbC27DoPlNefYuHdP) | [HOMINID](https://open.spotify.com/artist/7lyYlIclaVEmE0rlSCwH3h), [Phil Phauler](https://open.spotify.com/artist/3XxDRDfDWOE0jGCMyqZCuf), [CØV3R1st](https://open.spotify.com/artist/6yC7BVlGi7JXkpl0LsZeeS) | [Bad Guy](https://open.spotify.com/album/6gYnXbljh6CtsoLwtaip6V) | 2:20 |
+| 1978 | [Gangsta's Paradise](https://open.spotify.com/track/7dYWuswcYTfETp2NxUqpRn) | [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T), [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06), [1 World](https://open.spotify.com/artist/1VwX54VxJ6Mghi5HTCZYLa) | [Gangsta's Paradise](https://open.spotify.com/album/5X4PVhTdLwvxY51nHu2X6K) | 2:48 |
 
-Snapshot ID: `AAAH623Hutdq4G//TXuhlEDkViBlErS2`
+Snapshot ID: `AAAH8rjO9Go/aJqznZ5DNgq9vuFCbJ2n`

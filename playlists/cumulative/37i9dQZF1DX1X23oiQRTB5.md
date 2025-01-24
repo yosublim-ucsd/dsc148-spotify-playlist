@@ -2,7 +2,7 @@
 
 ### [PVNCHLNRS](https://open.spotify.com/playlist/37i9dQZF1DX1X23oiQRTB5)
 
-> SDM x Rim'K au top de la première playlist de rap français.
+> Bouss au top de la première playlist de rap français.
 
 302 songs - 15 hr 33 min
 

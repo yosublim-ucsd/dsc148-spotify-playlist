@@ -4,7 +4,7 @@
 
 > Hottest Anime tracks & best new sounds for all Anime fans! 最新アニメシーンの話題曲をまとめてお届け！Illustration by <a href="https://www.instagram.com/nostalook7090/">NOSTALOOK</a>
 
-1,783 songs - 4 day 15 hr 5 min
+1,785 songs - 4 day 15 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Decided \- TV Ver.](https://open.spotify.com/track/5rynUgMeny61eYuypw44eG) | [Dizzy Sunfist](https://open.spotify.com/artist/66TdubACxGacvormjPazAk) | [Decided \(TV Ver.\)](https://open.spotify.com/album/2bpsGGYNMrK0Iw2dDN2eyQ) | 1:31 | 2023-03-28 | 2023-04-09 |
 | [Deep down](https://open.spotify.com/track/42IF4VUNaIGc1oD74rHa8O) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Deep down](https://open.spotify.com/album/7arScRaGCUmEWNeQEPDq3K) | 3:47 | 2022-12-06 | 2023-01-13 |
 | [Deneb and Spica](https://open.spotify.com/track/4mo9mGSuE5qIllkMJWBiR3) | [DIALOGUE+](https://open.spotify.com/artist/2edEpSuGIPWwl7QJF3hXM0) | [Deneb and Spica](https://open.spotify.com/album/2ZG53H9J7evAJyu9jqdQ7g) | 4:27 | 2022-07-28 | 2022-09-21 |
+| [DEPARTURES](https://open.spotify.com/track/0oHaPQM7yK5dKp5peN7Em5) | [R×R](https://open.spotify.com/artist/0p4G5g5Mi5mDyw1gurnQkT) | [DEPARTURES](https://open.spotify.com/album/1rZkib1YUfe70Jiyf1RtIZ) | 3:37 | 2025-01-23 |  |
 | [Diamond Human](https://open.spotify.com/track/6BhUle0Nu35IHb2zFG09Ng) | [ミステリーキッス](https://open.spotify.com/artist/4dfRiSSZoKmYGc5jSuQZuF) | [Diamond Human](https://open.spotify.com/album/6CgV7LwBpQEfLpEqbdzQll) | 4:09 | 2023-06-13 | 2023-07-19 |
 | [DING DONG](https://open.spotify.com/track/1ZhF6KKByVAwx5oratB8M9) | [小野大輔](https://open.spotify.com/artist/4Zhv2MWk8LmJHgy1qSyss0) | [DING DONG](https://open.spotify.com/album/6B00Xs16IeBA6PYMUoo5aC) | 3:54 | 2022-07-28 | 2022-08-03 |
 | [DISCOTHEQUE \- from CrosSing](https://open.spotify.com/track/540Tpu2fgkS5FXuColwqiT) | [和氣あず未](https://open.spotify.com/artist/3xmpisx9RrqCxxnkzD3dYK) | [DISCOTHEQUE \- from CrosSing](https://open.spotify.com/album/5mBBlBfeXjKV0psB1jx0vA) | 3:57 | 2024-05-28 | 2024-06-13 |
@@ -1078,6 +1079,7 @@
 | [ぜんりょくじょしかくめい！](https://open.spotify.com/track/3y6fz9DV5uNGG82n8rEdQ3) | [P丸様｡](https://open.spotify.com/artist/4hUWwJ0fRLx9rYtUvT26Ii) | [ぜんりょくじょしかくめい！](https://open.spotify.com/album/7IsYunWwiKCVV46Sru2PBD) | 3:50 | 2024-04-10 | 2024-04-17 |
 | [そんな僕らの冒険譚！](https://open.spotify.com/track/3ddxBxkq3W3OwHaK2iGVDA) | [TrySail](https://open.spotify.com/artist/3YmAt9U9INQwxAwfgMVfKD) | [そんな僕らの冒険譚！](https://open.spotify.com/album/0vMJJSK5cjBcbkU21qhHCS) | 3:10 | 2025-01-07 | 2025-01-22 |
 | [ただ、君のままで](https://open.spotify.com/track/4z7Qk41xRBHV9C9pNqxZ2U) | [Sou](https://open.spotify.com/artist/04ZUR9nJSI7nr1ZrHKLGJ8) | [ただ、君のままで](https://open.spotify.com/album/46lt9U9wkWO6xv0FO9DjUE) | 3:11 | 2025-01-16 |  |
+| [ただひとつ](https://open.spotify.com/track/6fpku9wNCHHIMUIsBlgzMc) | [ざらめ](https://open.spotify.com/artist/79S25nNlhtMOOMLV30SvHM) | [ただひとつ](https://open.spotify.com/album/0uDG3I5HxXDJHOXqA0YAFg) | 3:37 | 2025-01-23 |  |
 | [だから大丈夫](https://open.spotify.com/track/2qT6vV4BEUPWg9qkphIxZV) | [Earphones](https://open.spotify.com/artist/6nH1MaNtYwXEuwdOZ1R75p) | [だから大丈夫](https://open.spotify.com/album/3yS7LgiXQbNzNdY2W94tRa) | 3:04 | 2023-12-24 | 2024-01-07 |
 | [だらけ。](https://open.spotify.com/track/4fgQuGF8yThQkNGxf0cA1H) | [斉藤 朱夏](https://open.spotify.com/artist/19ojIp8CiO4yOQlvzVJEGS) | [だらけ。](https://open.spotify.com/album/2KqWfBx4exHse4O8RemB2v) | 3:52 | 2024-06-04 | 2024-06-29 |
 | [ちいさな蕾](https://open.spotify.com/track/0Smvig0u9w4eh9XQas3TKf) | [岬 なこ](https://open.spotify.com/artist/3b4KP5O2za8H98IxieMJfh) | [ちいさな蕾](https://open.spotify.com/album/4cpyjFrwBAWq2koEiTqIPD) | 3:38 | 2024-07-09 | 2024-10-04 |
@@ -1783,7 +1785,7 @@
 | [飛ぶ鳥は](https://open.spotify.com/track/0hEfgTwSeKBG9vI3IuH5xd) | [Mitei no Hanashi](https://open.spotify.com/artist/65Cbu8XK6b6hy6KtuX735e) | [飛ぶ鳥は](https://open.spotify.com/album/7yFZRlYUvUq0UIo6wMzbjR) | 3:50 | 2022-05-28 | 2022-07-06 |
 | [飛天](https://open.spotify.com/track/6MId4xKGdUNhndCtpZC4Bl) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ), [R\-shitei](https://open.spotify.com/artist/0FZn92qmQ4tpWLbGR26dBb) | [飛天](https://open.spotify.com/album/2zSKObXruYrvHWrAN8UOgD) | 3:03 | 2023-07-06 | 2023-10-08 |
 | [飛花落花](https://open.spotify.com/track/4g5wI6Sln6kK4seB6zxSvw) | [Cocco](https://open.spotify.com/artist/3SBG08XwrIxXSPTxsbM0b6) | [飛花落花](https://open.spotify.com/album/5UoCZMhX52srwyCkrXzrWx) | 3:20 | 2024-01-09 | 2024-01-11 |
-| [飴と鞭](https://open.spotify.com/track/7hfNGFlfHLbe4h7xTrbjfu) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [飴と鞭](https://open.spotify.com/album/141H237A7IvCyCG0x4ekhF) | 3:28 | 2025-01-11 |  |
+| [飴と鞭](https://open.spotify.com/track/7hfNGFlfHLbe4h7xTrbjfu) | [MOSHIMO](https://open.spotify.com/artist/2wfyx0p7LKFYZh2SaM9pXy) | [飴と鞭](https://open.spotify.com/album/141H237A7IvCyCG0x4ekhF) | 3:28 | 2025-01-11 | 2025-01-24 |
 | [飴色水彩](https://open.spotify.com/track/7GMLgxuqSSNLtiGRob7jL9) | [MiMi](https://open.spotify.com/artist/1b8RP6qAbUPG4QXb2nYtpa) | [飴色水彩](https://open.spotify.com/album/1bZ9Jup7PBVVLxs82j1hWl) | 3:14 | 2024-10-03 | 2024-12-11 |
 | [駆け引きはポーカーフェイス](https://open.spotify.com/track/2rndtIOj7hxQ5Mhv2s5CqP) | [Kana Hanazawa](https://open.spotify.com/artist/44u07DJH5eTBDjhZ7LpMO0) | [駆け引きはポーカーフェイス](https://open.spotify.com/album/1yy1XesRCfw0BGJRM4Gky6) | 3:55 | 2022-07-07 | 2022-07-29 |
 | [鬼灯](https://open.spotify.com/track/3uOW9tuzRMA3iNmElOqt2j) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [鬼灯](https://open.spotify.com/album/2nPOKD50fgBljXh5ar7jzb) | 3:09 | 2024-01-18 | 2024-04-11 |

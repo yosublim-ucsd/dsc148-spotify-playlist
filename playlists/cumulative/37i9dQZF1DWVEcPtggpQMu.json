@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/2snaKOrM6S9L9Rj6UaedHU?si=i6yiLbNUQo6_R0yM3Ryrzg\">Solo Sae</a> ",
+  "description": "Only the hottest South African rap from the streets. \nCover: <a href=\"https://open.spotify.com/artist/6i1STIcRhB9q92QmFJi4IP?si=TLIXzkI0QIaM0Ka0LZNLyA\">Skhindi</a> ",
   "name": "Mzansi Raps",
   "tracks": [
     {
@@ -2574,7 +2574,7 @@
       ],
       "date_added": "2024-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 120466,
       "name": "BROKE",
       "url": "https://open.spotify.com/track/7ttN8WgLAZ3BSvZUaqBoJW"
@@ -4658,6 +4658,40 @@
       "duration_ms": 187317,
       "name": "Emzini Wezinsizwa (feat. Dando)",
       "url": "https://open.spotify.com/track/3x4WItLeZCoZYwftp806S9"
+    },
+    {
+      "album": {
+        "name": "Emzini Wezinsizwa (Remix) (feat. Dando, Bravo Le Roux, Lowfeye & Anzo)",
+        "url": "https://open.spotify.com/album/2ygCrZuPl3ogLuRO7XHjEF"
+      },
+      "artists": [
+        {
+          "name": "Skhindi",
+          "url": "https://open.spotify.com/artist/6i1STIcRhB9q92QmFJi4IP"
+        },
+        {
+          "name": "Dando",
+          "url": "https://open.spotify.com/artist/1P7tprHkMye1bWh3j58GPk"
+        },
+        {
+          "name": "Bravo le Roux",
+          "url": "https://open.spotify.com/artist/3gtWs43EBGSIbnqwuUJopY"
+        },
+        {
+          "name": "Lowfeye",
+          "url": "https://open.spotify.com/artist/6D6WUGWRD3tNnmGmtrr1Xn"
+        },
+        {
+          "name": "Anzo",
+          "url": "https://open.spotify.com/artist/0mXjRSmbTBBoufMmTKuGmv"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253658,
+      "name": "Emzini Wezinsizwa (Remix) (feat. Dando, Bravo Le Roux, Lowfeye & Anzo)",
+      "url": "https://open.spotify.com/track/1iQyCQGhe88wHQYrrwvkeV"
     },
     {
       "album": {
@@ -7644,7 +7678,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 74302,
       "name": "Ingozi Freestyle",
       "url": "https://open.spotify.com/track/6j7OCM9b1OXonvozfrZG5k"
@@ -8470,7 +8504,7 @@
       ],
       "date_added": "2024-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 174731,
       "name": "Kiki",
       "url": "https://open.spotify.com/track/75pJCzbvBra52uIEXY3Ai8"
@@ -11910,6 +11944,28 @@
       "duration_ms": 133774,
       "name": "Nyuku",
       "url": "https://open.spotify.com/track/0sElMuB7HHArBwOLdfVTK9"
+    },
+    {
+      "album": {
+        "name": "O'krrr",
+        "url": "https://open.spotify.com/album/7b6IrSqUlDWnrYbM1MVZYj"
+      },
+      "artists": [
+        {
+          "name": "Lowkey_rsa",
+          "url": "https://open.spotify.com/artist/5a2IsaiUzAMsRqGMUWL46e"
+        },
+        {
+          "name": "LOOKATUPS",
+          "url": "https://open.spotify.com/artist/3Juf3knCVNci9CIpYraBER"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180812,
+      "name": "O'krrr",
+      "url": "https://open.spotify.com/track/2YGFoJloaCrfpMr5wjF7lV"
     },
     {
       "album": {
@@ -19598,7 +19654,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 300434,
       "name": "Young & independent",
       "url": "https://open.spotify.com/track/5c4uI3nEgrupRmefslZXgJ"

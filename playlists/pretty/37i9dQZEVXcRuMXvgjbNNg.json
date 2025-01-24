@@ -6,8 +6,288 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z43YUAAAAABgm59GoQavYoD4P/SnVrp3",
+  "snapshot_id": "Z47jgAAAAACe8Z+Z4aHsss21+I3aYQyC",
   "tracks": [
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "The Good Life",
+        "url": "https://open.spotify.com/album/4s1igjt5YJe7s7BdCeX3DX"
+      },
+      "artists": [
+        {
+          "name": "Sammy Rae & The Friends",
+          "url": "https://open.spotify.com/artist/3lFDsTyYNPQc8WzJExnQWn"
+        }
+      ],
+      "duration_ms": 238480,
+      "name": "Talk It Up",
+      "url": "https://open.spotify.com/track/7FQCZ5i5bmQ76LoGHyVcX0"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Farewell, Starlite!",
+        "url": "https://open.spotify.com/album/5gc2S04vG0rEGnTaTwOvus"
+      },
+      "artists": [
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "duration_ms": 210944,
+      "name": "See Her Out (Thats Just Life)",
+      "url": "https://open.spotify.com/track/5zheSFviZNgeZLvZCOxQnE"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Halo 3: ODST (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6kTb4wCSrCugBKLqBOvzNG"
+      },
+      "artists": [
+        {
+          "name": "Halo",
+          "url": "https://open.spotify.com/artist/3AVA9bUTMNoJ9RrbmB0YfW"
+        },
+        {
+          "name": "Martin O'Donnell",
+          "url": "https://open.spotify.com/artist/5oERdzrfb6kmNMzPNINZib"
+        },
+        {
+          "name": "Michael Salvatori",
+          "url": "https://open.spotify.com/artist/7Ir0wjCeuhkHUyPAfNJi2X"
+        }
+      ],
+      "duration_ms": 398520,
+      "name": "Deference for Darkness",
+      "url": "https://open.spotify.com/track/4EGjEgHjpUp3qAEowPGcoM"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Kajillionaire (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/38G8GhPunzg9S6xCa7Eupb"
+      },
+      "artists": [
+        {
+          "name": "Emile Mosseri",
+          "url": "https://open.spotify.com/artist/0BNz24TKUn8Ov1ApFkLzA1"
+        }
+      ],
+      "duration_ms": 145688,
+      "name": "Infinite Love",
+      "url": "https://open.spotify.com/track/6SIUbcqmVn4zTVDLeY5mMC"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Life is Strange 2",
+        "url": "https://open.spotify.com/album/2yGWibDgfwSCS0jkwmhl08"
+      },
+      "artists": [
+        {
+          "name": "DOLKINS",
+          "url": "https://open.spotify.com/artist/7AxtJlBVYqqVJUnlzLctK2"
+        }
+      ],
+      "duration_ms": 428032,
+      "name": "Into the woods",
+      "url": "https://open.spotify.com/track/2xsrwl9Miacg3fwFz7XaL4"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Keepsakes",
+        "url": "https://open.spotify.com/album/18afmhWx9zjQ0R156GFHU6"
+      },
+      "artists": [
+        {
+          "name": "Shallow Alcove",
+          "url": "https://open.spotify.com/artist/2hEZUJYO26jhMzfw0ZzrCj"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "Dream Song",
+      "url": "https://open.spotify.com/track/6BcJKCJl2zWCJ1vLEuYK96"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "The Lord of the Rings: The Rings of Power (Season 2: Amazon Original Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2Oe6kYDU9YQhun0YrXL9eV"
+      },
+      "artists": [
+        {
+          "name": "Bear McCreary",
+          "url": "https://open.spotify.com/artist/2ifvIECHAlEgPMBuBOJ0lG"
+        },
+        {
+          "name": "Rufus Wainwright",
+          "url": "https://open.spotify.com/artist/2PfBzriIMRsCXPDtSy9vg8"
+        }
+      ],
+      "duration_ms": 190186,
+      "name": "Old Tom Bombadil (feat. Rufus Wainwright)",
+      "url": "https://open.spotify.com/track/18jteTWXqIdaHOkfLjHWWT"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Slime Rancher (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/5PDF3HjzryejKoNNCxOSs8"
+      },
+      "artists": [
+        {
+          "name": "Chelsea Lee Greenwood",
+          "url": "https://open.spotify.com/artist/2yPbDzi2cZMO7kQOlB7R3R"
+        },
+        {
+          "name": "Nick Popovich",
+          "url": "https://open.spotify.com/artist/1wbAxq2lSeZxJbGiBq3bw8"
+        },
+        {
+          "name": "Matty Green",
+          "url": "https://open.spotify.com/artist/42Lh0nBlB1O0B3DwMyYj1A"
+        }
+      ],
+      "duration_ms": 140803,
+      "name": "1,000 Light Years Away",
+      "url": "https://open.spotify.com/track/17zZv23hvr7lZiu1aYFewU"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+      },
+      "artists": [
+        {
+          "name": "Twenty One Pilots",
+          "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
+        }
+      ],
+      "duration_ms": 224398,
+      "name": "Mulberry Street",
+      "url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Kansas Anymore",
+        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 163458,
+      "name": "Look At That Woman",
+      "url": "https://open.spotify.com/track/6Op1AAvS0Jb3Gbom92zadJ"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "151a",
+        "url": "https://open.spotify.com/album/57hpjWfEY0q8USDRrMYMef"
+      },
+      "artists": [
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 236246,
+      "name": "I Am the Antichrist to You",
+      "url": "https://open.spotify.com/track/3tnfHy341CDlAtcSmUtuOG"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Songs of the Sunrise Fox",
+        "url": "https://open.spotify.com/album/2qSn76iUNZIrQQYpeeW54n"
+      },
+      "artists": [
+        {
+          "name": "Andy Thorn",
+          "url": "https://open.spotify.com/artist/5iWv1fphzUp9NGSNBDK713"
+        }
+      ],
+      "duration_ms": 208280,
+      "name": "Aesop Mountain",
+      "url": "https://open.spotify.com/track/710oc7jGMREe9vWsYraOck"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Skyrim 10th Anniversary Concert",
+        "url": "https://open.spotify.com/album/3xAuuJhVKuC81tr03LJXh8"
+      },
+      "artists": [
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        },
+        {
+          "name": "London Voices",
+          "url": "https://open.spotify.com/artist/7y3ULlnKKpeZ4JOKMAJQzK"
+        }
+      ],
+      "duration_ms": 266573,
+      "name": "The Streets of Whiterun",
+      "url": "https://open.spotify.com/track/2OVmvNphvmE13AyqH8b7QB"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Peace (From \"Avatar: The Last Airbender\")",
+        "url": "https://open.spotify.com/album/0Qkmo1BAYO8gcPvqeTuSGO"
+      },
+      "artists": [
+        {
+          "name": "Narratio",
+          "url": "https://open.spotify.com/artist/69CVLdKIHqRV2fZin7Ltjv"
+        }
+      ],
+      "duration_ms": 181447,
+      "name": "Peace (From \"Avatar: The Last Airbender\")",
+      "url": "https://open.spotify.com/track/1Eo16akXaCZHKiuKLy31LG"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Tetris Effect (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6LRUdnlY48RCXDLIOVgXDS"
+      },
+      "artists": [
+        {
+          "name": "Hydelic",
+          "url": "https://open.spotify.com/artist/6agnjQgwC8fwGFsM6NKSaH"
+        }
+      ],
+      "duration_ms": 260342,
+      "name": "Connected (Yours Forever)",
+      "url": "https://open.spotify.com/track/0QpNG88fUtqBFv3jSPKFzH"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Grey Fidelity",
+        "url": "https://open.spotify.com/album/4gcifqqCaQgrNrhLvsX6wV"
+      },
+      "artists": [
+        {
+          "name": "Tow'rs",
+          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
+        }
+      ],
+      "duration_ms": 283099,
+      "name": "Girl in Calico",
+      "url": "https://open.spotify.com/track/2XiZN924Dye5VCgl2skr5M"
+    },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
@@ -27,6 +307,118 @@
       "duration_ms": 153906,
       "name": "Blomstertid",
       "url": "https://open.spotify.com/track/4eMC2YEPFy2DRIhuX5SOKC"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Walls",
+        "url": "https://open.spotify.com/album/1oV4ur0tEOYr6fuPXRnrRA"
+      },
+      "artists": [
+        {
+          "name": "Vraell",
+          "url": "https://open.spotify.com/artist/1Be39C5Cm8pOzpDP5bDokO"
+        }
+      ],
+      "duration_ms": 134120,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/4npXs1X5zRRTjvCLNZPuR8"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Nu Deco Ensemble",
+        "url": "https://open.spotify.com/album/2ZxZmskL0PQblIgNepp0sE"
+      },
+      "artists": [
+        {
+          "name": "Nu Deco Ensemble",
+          "url": "https://open.spotify.com/artist/4GYUlFINfLTLni6bN7SbAK"
+        },
+        {
+          "name": "Kishi Bashi",
+          "url": "https://open.spotify.com/artist/3LVPGE5jPPwtbGslx07YR0"
+        }
+      ],
+      "duration_ms": 326160,
+      "name": "I Am the Antichrist to You",
+      "url": "https://open.spotify.com/track/18BQEbVwyTQ4Rl6AED0SyZ"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Scavengers Reign (Original Max Series Soundtrack)",
+        "url": "https://open.spotify.com/album/2MQLrzNVTgzSTlj2SqQXH7"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Snyder",
+          "url": "https://open.spotify.com/artist/7KJ48VkA4FWRAGXsreKJYe"
+        }
+      ],
+      "duration_ms": 121843,
+      "name": "Scavengers",
+      "url": "https://open.spotify.com/track/1iN4TKMdkHXWTBlzmzIUKu"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Goodbye (from the series Arcane League of Legends)",
+        "url": "https://open.spotify.com/album/7q2FV4zz7UvTr29VroExbu"
+      },
+      "artists": [
+        {
+          "name": "Ramsey",
+          "url": "https://open.spotify.com/artist/1se3w7gpZkwcJYgHSPDoQ8"
+        },
+        {
+          "name": "Arcane",
+          "url": "https://open.spotify.com/artist/57nPqD7z62gDdq37US9XJR"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        }
+      ],
+      "duration_ms": 230985,
+      "name": "Goodbye (from the series Arcane League of Legends)",
+      "url": "https://open.spotify.com/track/50qY6EQTt33QAUQnDgbYOS"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Guard Dog",
+        "url": "https://open.spotify.com/album/4N4OevZDTXyMjofPKUl4mx"
+      },
+      "artists": [
+        {
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+        }
+      ],
+      "duration_ms": 287676,
+      "name": "Keep The Rain",
+      "url": "https://open.spotify.com/track/7fhAjbHrzGknwQkGIzJHVk"
+    },
+    {
+      "added_at": "2025-01-20 05:00:00",
+      "album": {
+        "name": "Midnight",
+        "url": "https://open.spotify.com/album/3DerzT4an3hcrvlPLV3Bpd"
+      },
+      "artists": [
+        {
+          "name": "Toby Sebastian",
+          "url": "https://open.spotify.com/artist/2E2qYypdcZVQTeZKesefNP"
+        },
+        {
+          "name": "Florence Pugh",
+          "url": "https://open.spotify.com/artist/0wU0ByZ6OSInRD0ZmVfcIq"
+        }
+      ],
+      "duration_ms": 285076,
+      "name": "Midnight",
+      "url": "https://open.spotify.com/track/4gqnJeeFu2GbOnHawPjWHn"
     },
     {
       "added_at": "2025-01-20 05:00:00",
@@ -51,466 +443,98 @@
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Tangled",
-        "url": "https://open.spotify.com/album/1l0aFrH24oPrQSqGtfeFyE"
+        "name": "As the World Caves In",
+        "url": "https://open.spotify.com/album/0RiimwsSMUsxrBu0RsyuRH"
       },
       "artists": [
         {
-          "name": "Alan Menken",
-          "url": "https://open.spotify.com/artist/5sy77gt4bfsLcSQ8GIe4ZZ"
+          "name": "Sarah Cothran",
+          "url": "https://open.spotify.com/artist/3kft86DbqCNr7rjq3pEj0G"
         }
       ],
-      "duration_ms": 140413,
-      "name": "Kingdom Dance - From \"Tangled\"/Score",
-      "url": "https://open.spotify.com/track/0jkGkwy510cvhy0jYPFme4"
+      "duration_ms": 161612,
+      "name": "As the World Caves In",
+      "url": "https://open.spotify.com/track/2xXNLutYAOELYVObYb1C1S"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "The Hunger Games: Mockingjay, Part 2 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3a0RwfCB9NRoS6RcNAU9eK"
+        "name": "a touch of the beat gets you up on your feet gets you out and then into the sun",
+        "url": "https://open.spotify.com/album/00NPJAyth7IDd3jgZDCMdT"
       },
       "artists": [
         {
-          "name": "James Newton Howard",
-          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
-        },
-        {
-          "name": "Jennifer Lawrence",
-          "url": "https://open.spotify.com/artist/3oCIYpmkFw8KGWwMNPKgXh"
+          "name": "Aly & AJ",
+          "url": "https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i"
         }
       ],
-      "duration_ms": 581826,
-      "name": "There Are Worse Games To Play/Deep In The Meadow/The Hunger Games Suite - From \"The Hunger Games: Mockingjay, Part 2\" Soundtrack",
-      "url": "https://open.spotify.com/track/2hgmZiJQLjpzkkD93Nne8d"
+      "duration_ms": 267880,
+      "name": "Slow Dancing",
+      "url": "https://open.spotify.com/track/6EXCQbPhpBf5RTQZ4F1raZ"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Life is Strange 2",
-        "url": "https://open.spotify.com/album/2yGWibDgfwSCS0jkwmhl08"
+        "name": "To the Moon (Original Game Soundtrack)",
+        "url": "https://open.spotify.com/album/68Y7MsD0dulX45sV3CaQxR"
       },
       "artists": [
         {
-          "name": "DOLKINS",
-          "url": "https://open.spotify.com/artist/7AxtJlBVYqqVJUnlzLctK2"
+          "name": "Kan Gao",
+          "url": "https://open.spotify.com/artist/4731oj3P4TxYAtySgdYYHl"
         }
       ],
-      "duration_ms": 428032,
-      "name": "Into the woods",
-      "url": "https://open.spotify.com/track/2xsrwl9Miacg3fwFz7XaL4"
+      "duration_ms": 99808,
+      "name": "For River - Piano (Johnny's Version)",
+      "url": "https://open.spotify.com/track/6SUhttyKaa2ZZZu94ox0d9"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Tetris Effect (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6LRUdnlY48RCXDLIOVgXDS"
+        "name": "Outer Wilds: Echoes of the Eye (The Lost Reels) [Deluxe Original Game Soundtrack]",
+        "url": "https://open.spotify.com/album/4vWd6SP0OiBAXINQZumdP2"
       },
       "artists": [
         {
-          "name": "Hydelic",
-          "url": "https://open.spotify.com/artist/6agnjQgwC8fwGFsM6NKSaH"
+          "name": "Andrew Prahlow",
+          "url": "https://open.spotify.com/artist/0z4uBJEzO1dJy57Qk5UYt8"
         }
       ],
-      "duration_ms": 326455,
-      "name": "Connected (Yours Forever) [In-Game Mix]",
-      "url": "https://open.spotify.com/track/781SaJ3m5CzRWtx7yycM0e"
+      "duration_ms": 434716,
+      "name": "Last Dream of Home",
+      "url": "https://open.spotify.com/track/4tgKlYqo3mJT8DDRArCy2K"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Kurzgesagt, Vol. 5 (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3nVQwrsa0XoeZwslkrMbPn"
+        "name": "The Fool",
+        "url": "https://open.spotify.com/album/4967HGjmvsMtcOZ3AaPfI4"
       },
       "artists": [
         {
-          "name": "Epic Mountain",
-          "url": "https://open.spotify.com/artist/7meq0SFt3BxWzjbt5EVBbT"
+          "name": "Ryn Weaver",
+          "url": "https://open.spotify.com/artist/2MuFzH1J5I6gGFYo2qhZmX"
         }
       ],
-      "duration_ms": 694067,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/7ETQN0uPcdGk4D43LtZI45"
+      "duration_ms": 194133,
+      "name": "Traveling Song",
+      "url": "https://open.spotify.com/track/33pMoOBpwJD9cF45ukuXaJ"
     },
     {
       "added_at": "2025-01-20 05:00:00",
       "album": {
-        "name": "Super Mario Galaxy | Piano Collection",
-        "url": "https://open.spotify.com/album/72SgDpEWYQiCxR4rp3AdpY"
+        "name": "Take Me Down Easy",
+        "url": "https://open.spotify.com/album/3m0UkOUmDAMVsgNPZeYLkf"
       },
       "artists": [
         {
-          "name": "Tim Burnelis",
-          "url": "https://open.spotify.com/artist/4KoIr7SIFeLz6fSG9garj2"
+          "name": "James Henry Jr.",
+          "url": "https://open.spotify.com/artist/02ZZnYUAoQF7J6zhk6G4i9"
         }
       ],
-      "duration_ms": 158830,
-      "name": "Gateway Galaxy",
-      "url": "https://open.spotify.com/track/6GZD8tgZfz83ysPcEnbeRO"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Zack Snyder's Justice League (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/61EYnZsY4PSE2uubb81wtB"
-      },
-      "artists": [
-        {
-          "name": "Rose Betts",
-          "url": "https://open.spotify.com/artist/3DYAP9CXyfNiM2nlu09w4i"
-        }
-      ],
-      "duration_ms": 197120,
-      "name": "Song to the Siren",
-      "url": "https://open.spotify.com/track/43I0E943aSF6HMWPXcjLrw"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Darling I Do",
-        "url": "https://open.spotify.com/album/4tD1CtVynjqzHKzzMekEVe"
-      },
-      "artists": [
-        {
-          "name": "Lucy Schwartz",
-          "url": "https://open.spotify.com/artist/6f5Tjpxz9kTRj05LKWlOpf"
-        },
-        {
-          "name": "Landon Pigg",
-          "url": "https://open.spotify.com/artist/1whjlG0NSaQytgDIWz10GS"
-        }
-      ],
-      "duration_ms": 206309,
-      "name": "Darling I Do",
-      "url": "https://open.spotify.com/track/24sl6Dqx6Yx1qfAbKCfA5B"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Ratatouille (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7Dr08Oi3zxdCzmFulSXSs2"
-      },
-      "artists": [
-        {
-          "name": "Michael Giacchino",
-          "url": "https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr"
-        }
-      ],
-      "duration_ms": 129066,
-      "name": "Ratatouille Main Theme",
-      "url": "https://open.spotify.com/track/0AGAl2fZLAoGxGd5dO77Cp"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "BRIGHTSIDE",
-        "url": "https://open.spotify.com/album/02oqEH6AmCFe2BdSRvxjSl"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 172800,
-      "name": "WHERE WE ARE",
-      "url": "https://open.spotify.com/track/2u5rUlf9XR2Cw6DF7CxUEA"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "The Roads",
-        "url": "https://open.spotify.com/album/74Kn48bZ6koe1cWM3x29lU"
-      },
-      "artists": [
-        {
-          "name": "Jonah Kagen",
-          "url": "https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp"
-        }
-      ],
-      "duration_ms": 250600,
-      "name": "The Roads",
-      "url": "https://open.spotify.com/track/2bSaJE7jrTeDXW4bZB93Ji"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Poly Bridge (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/5giVgeSBbOeat95SJYTbsq"
-      },
-      "artists": [
-        {
-          "name": "Adrian Talens",
-          "url": "https://open.spotify.com/artist/2bB5sgX0lJUBtcrA03fXCa"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Under Construction",
-      "url": "https://open.spotify.com/track/58s0vwBLXbwWUr7Ryfg4XC"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Alto's Adventure (Original Game Soundtrack)",
-        "url": "https://open.spotify.com/album/3xMvldPr64mzsbc7cXcZEU"
-      },
-      "artists": [
-        {
-          "name": "Torin Borrowdale",
-          "url": "https://open.spotify.com/artist/0n8DMPYma49MMKFG97Sn4H"
-        }
-      ],
-      "duration_ms": 448125,
-      "name": "Zen Mode",
-      "url": "https://open.spotify.com/track/5ltLMGZQQZopj9BCA286Hr"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "The Avatar's Love",
-        "url": "https://open.spotify.com/album/6fPWvkjE1ZvCpSOujFQg7h"
-      },
-      "artists": [
-        {
-          "name": "Phil Watson",
-          "url": "https://open.spotify.com/artist/2G37OdD19u5zA3Ds0fUFSF"
-        }
-      ],
-      "duration_ms": 124029,
-      "name": "The Avatar's Love",
-      "url": "https://open.spotify.com/track/6eGZdahD1XVZhxcELF5qQc"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Romantic Piano",
-        "url": "https://open.spotify.com/album/4TFQoPpiHkSsYDbhfXMqCM"
-      },
-      "artists": [
-        {
-          "name": "Gia Margaret",
-          "url": "https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C"
-        }
-      ],
-      "duration_ms": 94946,
-      "name": "Hinoki Wood",
-      "url": "https://open.spotify.com/track/24QnH4LamDh2UhhmHyXjE8"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "You, Me & Other Animals: The Music of Planet Zoo",
-        "url": "https://open.spotify.com/album/0mBPHbhQ4Hc1rXAnPFgatY"
-      },
-      "artists": [
-        {
-          "name": "J.J. Ipsen",
-          "url": "https://open.spotify.com/artist/1Nb0Hhq6PIvqZNDAXr34zW"
-        },
-        {
-          "name": "Young Mbazo",
-          "url": "https://open.spotify.com/artist/7wMj8pgBt0yTYKmfvMsYBu"
-        }
-      ],
-      "duration_ms": 199099,
-      "name": "You, Me & Other Animals",
-      "url": "https://open.spotify.com/track/59h18D4f7Il7Or6A2LCK4o"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Hollow & Heartless: Melancholy Music From Kingdom Hearts",
-        "url": "https://open.spotify.com/album/7ieelOV8WdlD9TIy1RuKiX"
-      },
-      "artists": [
-        {
-          "name": "TPR",
-          "url": "https://open.spotify.com/artist/6ImfL6wSxqhYl64AbsaNZX"
-        }
-      ],
-      "duration_ms": 137569,
-      "name": "Dearly Beloved",
-      "url": "https://open.spotify.com/track/4qIBAU8vTGbr4Uz1cPtJky"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "How To Train Your Dragon 2 (Music From The Motion Picture)",
-        "url": "https://open.spotify.com/album/4nNsGBOX3Nscu7vkpkl3as"
-      },
-      "artists": [
-        {
-          "name": "John Powell",
-          "url": "https://open.spotify.com/artist/3EAHF3jdnHHdko5DBrhRUP"
-        }
-      ],
-      "duration_ms": 227030,
-      "name": "Stoick's Ship",
-      "url": "https://open.spotify.com/track/54Me3IHxLn8F7ZsAQdoYnm"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "How I Met Your Music: Deluxe (Original Television Soundtrack)",
-        "url": "https://open.spotify.com/album/7Cm29gAkZX5y5fnZattAA2"
-      },
-      "artists": [
-        {
-          "name": "John Swihart",
-          "url": "https://open.spotify.com/artist/19IPWy6rhQd19MItC6Zhb9"
-        }
-      ],
-      "duration_ms": 238400,
-      "name": "You're All Alone - From \"How I Met Your Mother: Season 8\"",
-      "url": "https://open.spotify.com/track/2pmxIrPEm6L70W9SMni2Os"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Kansas Anymore",
-        "url": "https://open.spotify.com/album/4OZ6nCbn8w0cHr1m0qiD2s"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 163458,
-      "name": "Look At That Woman",
-      "url": "https://open.spotify.com/track/6Op1AAvS0Jb3Gbom92zadJ"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Islands",
-        "url": "https://open.spotify.com/album/15z9H7eEOCtB2Xq28SDWwp"
-      },
-      "artists": [
-        {
-          "name": "Bear's Den",
-          "url": "https://open.spotify.com/artist/0nJaMZM8paoA5HEUTUXPqi"
-        }
-      ],
-      "duration_ms": 257519,
-      "name": "Agape",
-      "url": "https://open.spotify.com/track/0u3rkZ1Z5f1JIPHlLUX2Mi"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "County Line",
-        "url": "https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv"
-      },
-      "artists": [
-        {
-          "name": "Brenn!",
-          "url": "https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q"
-        }
-      ],
-      "duration_ms": 231724,
-      "name": "Rearview",
-      "url": "https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Grey Fidelity",
-        "url": "https://open.spotify.com/album/4gcifqqCaQgrNrhLvsX6wV"
-      },
-      "artists": [
-        {
-          "name": "Tow'rs",
-          "url": "https://open.spotify.com/artist/3LcpRDABINyBTa4V1s9Hql"
-        }
-      ],
-      "duration_ms": 283099,
-      "name": "Girl in Calico",
-      "url": "https://open.spotify.com/track/2XiZN924Dye5VCgl2skr5M"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Sogno di Volare (Civilization VI Main Theme)",
-        "url": "https://open.spotify.com/album/3Mlu8nz19IlADr2IK85VJa"
-      },
-      "artists": [
-        {
-          "name": "Christopher Tin",
-          "url": "https://open.spotify.com/artist/60B2BBjn6yEQEl8XLYMZU2"
-        }
-      ],
-      "duration_ms": 233053,
-      "name": "Sogno di Volare (\u201cThe Dream of Flight\u201d)",
-      "url": "https://open.spotify.com/track/1miPwGI7xUKfHj6vIpMfP3"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "The Road (From Road 96)",
-        "url": "https://open.spotify.com/album/1Tmcghm81GXiK6uzQiWW9V"
-      },
-      "artists": [
-        {
-          "name": "Cocoon",
-          "url": "https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD"
-        }
-      ],
-      "duration_ms": 158152,
-      "name": "The Road - From Road 96",
-      "url": "https://open.spotify.com/track/64GwltznOoXbTLFLAREeIq"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "I Miss You Already + I Haven\u2019t Left Yet",
-        "url": "https://open.spotify.com/album/6iXKJVVucUkEKFiGDqyPgM"
-      },
-      "artists": [
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 226133,
-      "name": "All We Ever Do Is Talk",
-      "url": "https://open.spotify.com/track/0UqKPaKqC3tWU4o8BB7owl"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Dragon Roost Island",
-        "url": "https://open.spotify.com/album/11OAKsancLfnIl84c204RU"
-      },
-      "artists": [
-        {
-          "name": "PPF",
-          "url": "https://open.spotify.com/artist/4aCvJneLXFoKTe1919Zk0J"
-        }
-      ],
-      "duration_ms": 157988,
-      "name": "Dragon Roost Island",
-      "url": "https://open.spotify.com/track/38TJi4N4oWbLgF6tqJUMW8"
-    },
-    {
-      "added_at": "2025-01-20 05:00:00",
-      "album": {
-        "name": "Horizon Forbidden West (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/0wMkc2tl7Ypq3n2mSV60Fx"
-      },
-      "artists": [
-        {
-          "name": "Oleksa Lozowchuk",
-          "url": "https://open.spotify.com/artist/14F3jEeosuaJHvcu2el861"
-        },
-        {
-          "name": "Ariana Gillis",
-          "url": "https://open.spotify.com/artist/4cOY0iUSp0UERCk4I23uoH"
-        }
-      ],
-      "duration_ms": 190941,
-      "name": "In the Flood (feat. Ariana Gillis)",
-      "url": "https://open.spotify.com/track/7MPRdOjl4OkLM2r7sTfHTO"
+      "duration_ms": 248616,
+      "name": "Take Me Down Easy",
+      "url": "https://open.spotify.com/track/1Gqu3WAy93q3lhkv67ZPW8"
     }
   ],
   "unique_name": "Discover Weekly (@mackorone)",

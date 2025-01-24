@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 
 > Relaxing and salutary ambient music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 418,502 likes - 200 songs - 9 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 418,605 likes - 200 songs - 9 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -209,4 +209,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1T2fEo0ROQ2.md) - [plain]
 | 199 | [Sineway](https://open.spotify.com/track/5BuUke8soY1IIEeJK4eNkk) | [Boreal Embla](https://open.spotify.com/artist/1TIIwr7wiRuFavs4zUlYQU) | [Sineway](https://open.spotify.com/album/3pm1lsNsbrEeOAJqts6hOO) | 2:21 |
 | 200 | [Deepest of Calm](https://open.spotify.com/track/5MXz6ZOqJlij1BhKaWxBHX) | [Fabin](https://open.spotify.com/artist/5EQs9AqQh02dx0JLrmVwWV) | [Deepest of Calm](https://open.spotify.com/album/3zJJGh7bwN0eYL5joP6vTo) | 3:47 |
 
-Snapshot ID: `Z2QmhgAAAACr6WwsHY2zR2qEQaZ+JRyB`
+Snapshot ID: `Z5J9xwAAAAB+KjDqHKaPtDgmx+vV5M3j`

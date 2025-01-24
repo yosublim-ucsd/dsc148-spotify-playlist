@@ -2,9 +2,9 @@
 
 ### [Haze ](https://open.spotify.com/playlist/37i9dQZF1DWUcJb0bNFBm0)
 
-> Noise distortion amongst the hazy clouds ☁️  \(Cover: I Mean Us\)
+> Noise distortion amongst the hazy clouds ☁️  \(Cover: Luby Sparks \)
 
-174 songs - 12 hr 4 min
+180 songs - 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Cruel](https://open.spotify.com/track/10wdRI3zZRs2IkgxcbHz6G) | [Garside](https://open.spotify.com/artist/1MEO0pWuuaO8NWpUqoRrlf) | [NOT MY TEA](https://open.spotify.com/album/5oNxkN5VRUDIenbuhHhTht) | 4:10 | 2024-12-04 |  |
 | [crush](https://open.spotify.com/track/1HxUhCalGraWOoaheJLUbM) | [Asher Alexander](https://open.spotify.com/artist/5IBHOC7U2mLy8qt3AEsJYj) | [crush](https://open.spotify.com/album/2sYRmISD3lbhcdym9OxCRc) | 2:12 | 2024-08-30 | 2024-12-05 |
 | [Cul\-de\-sac](https://open.spotify.com/track/73EBtIHPOEjpOGjjyU5jCw) | [Seaside](https://open.spotify.com/artist/7fcJauZr1ZHqpIO2W57kYw), [Henry Foundation](https://open.spotify.com/artist/4aYOEr2GSLK6mQOJnsVaIy) | [Cul\-de\-sac](https://open.spotify.com/album/2mxeaxiEB6S3bd7S3yW6pJ) | 3:09 | 2024-08-15 | 2024-12-05 |
+| [Daisies](https://open.spotify.com/track/6HXZZMhKZfEPBwvT5COP6g) | [Milledenials](https://open.spotify.com/artist/0Mh5wMruCzJIMbeospsjyB) | [Daisies](https://open.spotify.com/album/6Ez5TxGJT6ylmhM7Q2iHUb) | 4:07 | 2025-01-23 |  |
 | [Dari Pinggiran](https://open.spotify.com/track/3UNttJlYxUCXS1IzBzn77x) | [Bayangan](https://open.spotify.com/artist/6Vf2sAgnMGioPLNUqqBgAI) | [Dari Pinggiran](https://open.spotify.com/album/2XnOsx99FtOrDBxyFfNqdh) | 6:43 | 2024-06-27 |  |
 | [Dead End](https://open.spotify.com/track/5LN5ZQOFnWCSD7iz1dfzcG) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ) | [Dead End](https://open.spotify.com/album/1J3zpNBNUPyMdmQexmQJq2) | 4:53 | 2024-06-27 | 2024-08-09 |
 | [Dead Flowers](https://open.spotify.com/track/3UzhTyx3msFqAeEnxsUqYR) | [BUBBLE TEA AND CIGARETTES](https://open.spotify.com/artist/2UMeX51X1prCFgi51RHo9P) | [Dead Flowers](https://open.spotify.com/album/22N0Ls1yNyFrZz9oemD4xH) | 2:29 | 2024-10-04 | 2024-12-05 |
@@ -46,6 +47,7 @@
 | [Endless Emotions](https://open.spotify.com/track/5q0hWAGPxg7pwctEzntHAU) | [Death Of Heather](https://open.spotify.com/artist/3O2fulTH5rTS4ttjPPI4rS) | [Forever](https://open.spotify.com/album/5jTFdGObfWZEideEm391F2) | 5:19 | 2024-06-27 |  |
 | [Esc](https://open.spotify.com/track/3R7957ht76bjPzfP5YH0dh) | [Meaningful Stone](https://open.spotify.com/artist/7EVlq3yUVHbHZZsaYSOcXt), [Swervy](https://open.spotify.com/artist/0YE7929Kw8hXmap9LKxUiC) | [Angel interview](https://open.spotify.com/album/71nETOcHFhXdn9gp8bZsjT) | 4:23 | 2024-11-28 | 2024-12-05 |
 | [Fading](https://open.spotify.com/track/3EUbcTDN7japhhDGsDvlZP) | [Thread Needle](https://open.spotify.com/artist/3czEitwqO6z78ZUNlHlp77) | [Fading](https://open.spotify.com/album/3hzIziLoqcCrFwg1oBnfrV) | 4:33 | 2024-06-27 | 2024-12-05 |
+| [Faith](https://open.spotify.com/track/1PI1AYbn0QXlFSrfxHMoyK) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Songs of The Hazy Memories](https://open.spotify.com/album/4mlgz1lwErzQAyjgPa57t1) | 3:04 | 2025-01-23 |  |
 | [Fearful Symmetry](https://open.spotify.com/track/4oEVBukdjokW2aSLYzzKJE) | [Rissau](https://open.spotify.com/artist/1sHSIAlqsqOIBKYKRqXQOq), [Sunshypeach](https://open.spotify.com/artist/7waFmxr8k9ds641Pt2mQdk) | [Fearful Symmetry](https://open.spotify.com/album/5Eq9ulbmbsqGjVCfwd7sHG) | 3:45 | 2024-12-04 |  |
 | [Flames](https://open.spotify.com/track/5OCcf67IqwwOiboFD5DKeP) | [Pink Pitch](https://open.spotify.com/artist/5ZyIDc0ubRG7UclhGUHVBZ) | [Flames](https://open.spotify.com/album/5hcPtwhwJuFxwDnBNSnjCe) | 4:05 | 2024-06-27 |  |
 | [Florida](https://open.spotify.com/track/668zlxXdGYpzw8ALsaRkhH) | [Dead By Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [Florida](https://open.spotify.com/album/61ChRb4sarnZsE0G4QC8gL) | 3:36 | 2024-06-27 | 2024-12-05 |
@@ -55,6 +57,7 @@
 | [Gravits](https://open.spotify.com/track/4iVJZk5t7t3E8wYRKW9xhT) | [Crayon Case](https://open.spotify.com/artist/5vjmcREJLxyDVkcb0KjNz9) | [Catch Twenty\-three!!](https://open.spotify.com/album/25SKpGKrZE2E4gAEsLORED) | 4:39 | 2024-06-27 |  |
 | [Hate](https://open.spotify.com/track/38fEg5g0CYvxxm1m4sp1q9) | [Arches](https://open.spotify.com/artist/5ngnmnu2W3UT2C1SEMkIqR) | [Hate](https://open.spotify.com/album/2Z8oDij6RrOQgoMLyTNKF4) | 3:34 | 2024-08-26 | 2024-12-05 |
 | [Heavenor](https://open.spotify.com/track/3NN8f1yC1YCNEXAhntvqG1) | [SPOOL](https://open.spotify.com/artist/741byU7Mazqx3tGmciUzcK) | [Heavenor](https://open.spotify.com/album/2VW8BV2LYKInUbtzyZC0pU) | 3:01 | 2024-06-27 | 2024-12-05 |
+| [Hera](https://open.spotify.com/track/0SWIe55gZYfLpoPqkEMvsu) | [Dead By Inches](https://open.spotify.com/artist/7KEhGKSsPLAgoNLnRG6bd8) | [Hera/Fading Out](https://open.spotify.com/album/3Ms1JgQ155qjzFbgq2NzFR) | 3:20 | 2025-01-23 |  |
 | [Here I Stand](https://open.spotify.com/track/36v2DCsj4nP3KFsKlBdB5H) | [yuragi](https://open.spotify.com/artist/1Ksf2sRoSTPdLYbGxJ9oms) | [Here I Stand](https://open.spotify.com/album/2yqdCAB3sTekwkJ3mmHjLh) | 6:50 | 2024-06-27 | 2024-12-05 |
 | [Hollow](https://open.spotify.com/track/7ePcJlMECsg1E8shavyNBO) | [Fleuro](https://open.spotify.com/artist/6PJkJJFyjpPRGxwLOLvbXZ), [Raissa Faranda](https://open.spotify.com/artist/1UepCtrKXPvnkqbanWnw5R) | [Hollow / Buried](https://open.spotify.com/album/73RGFNSjy0xXEycwgIpwo4) | 5:46 | 2024-06-27 |  |
 | [Home](https://open.spotify.com/track/3KH7uTsH53MNReg0xtMVAT) | [GAZEKATE](https://open.spotify.com/artist/4F8TQLHmLbfQbaewX40glp) | [Home](https://open.spotify.com/album/0KWcS368MdPtgQlImvyY7k) | 4:57 | 2024-06-27 |  |
@@ -140,6 +143,7 @@
 | [Sent Away](https://open.spotify.com/track/6wJfypJ9DIlIFjPyc3tGAj) | [Drotoch](https://open.spotify.com/artist/1gkL2IZQpyIM7qXG1Zep7U) | [Sent Away](https://open.spotify.com/album/7M0krbTMzfkOJCMnabZwBL) | 6:00 | 2024-06-27 | 2024-12-05 |
 | [Sesak](https://open.spotify.com/track/3x90drPC5kO0bprOfsQ5YR) | [Jirapah](https://open.spotify.com/artist/1ddNHmVJlB4hNba6tamgQG) | [Sesak](https://open.spotify.com/album/37IuuXyORVL5LmEfh1b67V) | 2:53 | 2024-08-15 | 2024-12-05 |
 | [Shades of Blue](https://open.spotify.com/track/1DGh1bvZBWkZpXrfEGXMed) | [Rakua](https://open.spotify.com/artist/3c3nzxDoR0ZcVrBnpv8Wqn) | [Everything Faded Into Mist](https://open.spotify.com/album/6p86GPGo6YPu96F5TnoE1Z) | 4:26 | 2024-06-27 |  |
+| [shhhhh](https://open.spotify.com/track/7vPVFM00o5a5Fo1YnkHSV2) | [Taffy](https://open.spotify.com/artist/1yVqLRlRVVJhIfS9aVium0) | [shhhhh](https://open.spotify.com/album/0cqh67MklIrX083Aj8l3MR) | 2:43 | 2025-01-23 |  |
 | [Shinigami\(死神\)](https://open.spotify.com/track/7z6Iwx4sYHmDif3f5zi1Cd) | [srwks.](https://open.spotify.com/artist/79eB9q0lo6UaYUNgYNAbqp) | [Shinigami\(死神\)](https://open.spotify.com/album/3dQhvpUmf07LR38HG5jFo4) | 4:20 | 2024-06-27 |  |
 | [Slowburn](https://open.spotify.com/track/2FrRy41ZTwoCGGm76n1SCs) | [altev](https://open.spotify.com/artist/1GeZv13cX4Gf8v2nJa7K65) | [Slowburn](https://open.spotify.com/album/3cvlaH50gRo7egQVtTJ5jV) | 2:51 | 2024-12-04 |  |
 | [Somebody Else](https://open.spotify.com/track/6vo7lsIDO64i9a4wgh5TbC) | [Luby Sparks](https://open.spotify.com/artist/7qEdobpYOByvjiT4ux4vEq) | [Somebody Else](https://open.spotify.com/album/2f0EYXEOVj2PYJcWK6XmsS) | 4:36 | 2024-06-27 |  |
@@ -176,9 +180,11 @@
 | [さざめく麦わら](https://open.spotify.com/track/3qB4dEN0GF2GspAAjWsdn2) | [Happy Ever After](https://open.spotify.com/artist/1zbiJz0qV0zYZCXvNRECga) | [Total Feedback 2024](https://open.spotify.com/album/2Dgvi6e7y44CSRXwiURRg2) | 2:33 | 2024-06-27 | 2024-10-11 |
 | [やさしい雷](https://open.spotify.com/track/5XhPxlTWLqcQGdpdiX8XBc) | [穂ノ佳](https://open.spotify.com/artist/7MjbwNW2fwyau81CKD5ryJ) | [やさしい雷](https://open.spotify.com/album/3WlR1EZCXCZBsGQlDAVKDH) | 4:04 | 2024-06-27 |  |
 | [傍晚去太子灣嗎](https://open.spotify.com/track/1qG2U4IDgPI37CixBQZ4PQ) | [Schoolgirl Byebye](https://open.spotify.com/artist/6kfcndVsu8F9Y5gL5xc717) | [傍晚去太子灣嗎](https://open.spotify.com/album/5Htgs7LGnn3EzjDIpjMi28) | 4:55 | 2024-06-27 |  |
+| [声](https://open.spotify.com/track/2NNFiHgLUutYTLVAvX4JKv) | [Hitsujibungaku](https://open.spotify.com/artist/6S8w5rLsEwjN21jQeRES0n) | [声](https://open.spotify.com/album/77TillEqpsV1N8P2dRBRCc) | 4:23 | 2025-01-23 |  |
 | [寂靜夏日傍晚](https://open.spotify.com/track/3f6OlXbpWW3766BKzOEkAt) | [完美倒立](https://open.spotify.com/artist/2q5cBeOy6Hfb8VkvNrGsIT) | [夜色碳酸](https://open.spotify.com/album/128GcDV2b1avhpbUq6PUyW) | 5:05 | 2024-12-04 |  |
 | [情人！](https://open.spotify.com/track/3FpBnK9vduKWb48YCXc9c8) | [河豚子](https://open.spotify.com/artist/4tZVnilXcr5CaAgaVVW2be) | [天堂不過就是我們的海](https://open.spotify.com/album/5fNNz4UYiGJ1Ge3mFlaE3D) | 3:33 | 2024-06-27 |  |
 | [最初の天使](https://open.spotify.com/track/3p9LwJEPqgy4xO0YPzel4V) | [ミレー](https://open.spotify.com/artist/5ksX7EDcPMxGNLDdoYnIlN) | [ブルー、燃えて](https://open.spotify.com/album/2ZVGLo7bZhWhsNOGO28Tkr) | 4:15 | 2024-08-15 | 2024-10-11 |
+| [花束 \- re\-recording](https://open.spotify.com/track/6cOgk4wMlOG1qr7INlPlVX) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [花束 \(re\-recording\)](https://open.spotify.com/album/1pqXoArCj3TIPDFgDQz9um) | 4:06 | 2025-01-23 |  |
 | [触れて \- re\-recording](https://open.spotify.com/track/0a2u5s21XvkRuDNcQ5h4Yy) | [polly](https://open.spotify.com/artist/38gd8E3gmtPJGRJHfiamVZ) | [触れて \(re\-recording\)](https://open.spotify.com/album/0WNfJGd9yZ6Mgmx1BNZcrm) | 3:46 | 2025-01-16 |  |
 | [途中](https://open.spotify.com/track/2frHHHja8jNzy5s4Pdx4hr) | [I Mean Us](https://open.spotify.com/artist/6FGSUph2Uv0yi2oM1hDV78), [UQiYO](https://open.spotify.com/artist/46yZjVAVfu5XOYzOpBlfHW) | [途中](https://open.spotify.com/album/3hdQSdjcrNG6b7MVCXBDac) | 3:31 | 2024-12-04 |  |
 | [這片海沒有夕陽](https://open.spotify.com/track/0M52mIICT8TSkwbvC0lU9o) | [打倒三明治](https://open.spotify.com/artist/50FEJC364l9cY3wTRZQ8I8) | [INVISIBLE TUNNELS](https://open.spotify.com/album/6XJ2wPTUeVIo4ufktIBtjV) | 4:17 | 2024-06-27 |  |

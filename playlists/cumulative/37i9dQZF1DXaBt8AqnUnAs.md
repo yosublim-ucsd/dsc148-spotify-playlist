@@ -4,7 +4,7 @@
 
 > aqueles papo de amor tlgd não?
 
-620 songs - 1 day 6 hr 19 min
+621 songs - 1 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Planos](https://open.spotify.com/track/7eYEQnY6Lzh3Y8jSOt3xEF) | [BK](https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo), [Luccas Carlos](https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy), [Arit](https://open.spotify.com/artist/4y2z9wsKIMNWZQXt343ZZS) | [Gigantes](https://open.spotify.com/album/4W2IL1NXpcbsYmGdAjeJGg) | 3:39 | 2022-03-07 | 2023-11-11 |
 | [Planos](https://open.spotify.com/track/1aUFFFit7FQrtDetTz5aOZ) | [Jhow](https://open.spotify.com/artist/53lrUpwDAdUp9ix7Xotwgy), [Young World](https://open.spotify.com/artist/3xryEc7ue6lV1kr3dp5PXY) | [Planos](https://open.spotify.com/album/2oD4ArW9n7hJm8LFgGbYSB) | 2:36 | 2022-09-02 | 2023-04-01 |
 | [Planos](https://open.spotify.com/track/5x7R1rusIM5Hwy91kj0mf0) | [Kailê](https://open.spotify.com/artist/2FEn5mw19sRyH19X1snQLu), [Alta Hits](https://open.spotify.com/artist/5gSCmAPeZWVeVIfW2i2Pyv) | [Planos](https://open.spotify.com/album/2SLOEwLKzsUPHDXy1ljN25) | 2:13 | 2023-12-29 | 2024-02-24 |
+| [Poder](https://open.spotify.com/track/4YndPDx2UppHp4CwkH37EN) | [Drizzy](https://open.spotify.com/artist/4GdVnTiuhvPVYdrPOLB7b1), [Vk Mac](https://open.spotify.com/artist/62T0up856eHZQ8BE6V6fJs), [Jow1st](https://open.spotify.com/artist/2VzqdUgMeB2sTuxj9eZEXo) | [Poder](https://open.spotify.com/album/20QNcx9rkpDRQquMTbXa70) | 3:37 | 2025-01-24 |  |
 | [Poesia Acústica 14](https://open.spotify.com/track/0Co2c6T1U06m4wLT6kOxdc) | [Pineapple StormTv](https://open.spotify.com/artist/09U6hmCerKcIJrixubiBjm), [Cesar Mc](https://open.spotify.com/artist/19JY4BpaJkAlSR4iDxB1MX), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Lourena](https://open.spotify.com/artist/3jLj1sAQaEpLpktyJmyGIh), [Major RD](https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5), [Derxan](https://open.spotify.com/artist/6AVuBAosGPLRJYwoJ88wtt), [WIU](https://open.spotify.com/artist/3MrDVzg7ZXaYMyQmbDInr7), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Gloria Groove](https://open.spotify.com/artist/7rXMvXRnWHaSwnVvPeUUfw), [Salve Malak](https://open.spotify.com/artist/7zxFc10N9BP2lg73b8cwZ0) | [Poesia Acústica 14](https://open.spotify.com/album/4VM4tFlf3F3rAQfbJDvqnN) | 14:09 | 2023-07-21 |  |
 | [POLPA](https://open.spotify.com/track/0dtEO7zXb2q5L7wCb7Sbbg) | [Ikki](https://open.spotify.com/artist/5uxYttuMvoojMzmPmWWg6T) | [POLPA](https://open.spotify.com/album/0u6duR1aA6eW2X8xg349Nz) | 2:28 | 2024-03-01 | 2024-03-16 |
 | [Polpa Purple](https://open.spotify.com/track/338ruJWh4eFFXth8zS3kMk) | [Martin](https://open.spotify.com/artist/72YwnRQOnQKDuPBLvaU8Uo), [DJ BUNE](https://open.spotify.com/artist/0cFkPerD9Of1QRBSyOx6cR), [AMUSIK](https://open.spotify.com/artist/48r1nXoaPXPSx1LoM0Rnzl) | [Polpa Purple](https://open.spotify.com/album/74W3c0cw9NaeG8H6nqUdUR) | 2:24 | 2022-12-23 | 2023-04-29 |

@@ -1,13 +1,29 @@
 {
   "description": "The playlist made for furries, by furries.  Request @ spotify.furrest.online",
-  "num_followers": 454,
+  "num_followers": 458,
   "original_name": "Furry Radio",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAADH/+S1hLU0ezNOGZ46q7B/dbhl2Pf",
+  "snapshot_id": "AAADIAxBuOmsO9+acVOJCWN6ZSE2f/8y",
   "tracks": [
+    {
+      "added_at": "2025-01-23 07:22:11",
+      "album": {
+        "name": "you get me fucked",
+        "url": "https://open.spotify.com/album/6E0Tj9BcRkX42CXonRWktp"
+      },
+      "artists": [
+        {
+          "name": "lambcatz",
+          "url": "https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t"
+        }
+      ],
+      "duration_ms": 82758,
+      "name": "you get me fucked",
+      "url": "https://open.spotify.com/track/5TdU9RvPbL1OIOyIc1D71d"
+    },
     {
       "added_at": "2025-01-23 01:15:54",
       "album": {

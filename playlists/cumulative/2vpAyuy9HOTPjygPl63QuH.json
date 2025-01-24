@@ -31980,6 +31980,10 @@
         {
           "name": "Spin Off",
           "url": "https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD"
+        },
+        {
+          "name": "Emily Stiles",
+          "url": "https://open.spotify.com/artist/3PmIYYpYp4KcM7bc51JffC"
         }
       ],
       "date_added": "2025-01-10",
@@ -39042,6 +39046,28 @@
       "duration_ms": 186666,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/1BOoeMwnojgCcsnnF3H784"
+    },
+    {
+      "album": {
+        "name": "Vibin\u2019",
+        "url": "https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167317,
+      "name": "Vibin'",
+      "url": "https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M"
     },
     {
       "album": {

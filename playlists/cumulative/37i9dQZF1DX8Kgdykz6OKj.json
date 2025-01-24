@@ -5257,6 +5257,32 @@
     },
     {
       "album": {
+        "name": "Nimrod (Deluxe)",
+        "url": "https://open.spotify.com/album/5zkgPpatJ8DgWZS0pHxV5q"
+      },
+      "artists": [
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        },
+        {
+          "name": "Cotola",
+          "url": "https://open.spotify.com/artist/1Mpkla8m8LaM1rCJjyxXjw"
+        },
+        {
+          "name": "CHUNG",
+          "url": "https://open.spotify.com/artist/3JaOZg9OeS0sOnwz9MtvOe"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187335,
+      "name": "Le Plug - Bonus",
+      "url": "https://open.spotify.com/track/6EftlHyc04ft0gAYPyY2Zt"
+    },
+    {
+      "album": {
         "name": "Let It Go",
         "url": "https://open.spotify.com/album/7ofF9Iy9KRY1yg5QdbGYp7"
       },
@@ -5766,7 +5792,7 @@
       ],
       "date_added": "2024-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 193721,
       "name": "Menthol (Live) - Spotify Ten Version",
       "url": "https://open.spotify.com/track/2lmx9x5RWr6GQTMmxdwynb"

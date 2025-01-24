@@ -3412,7 +3412,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 214357,
       "name": "blue",
       "url": "https://open.spotify.com/track/3be9ACTxtcL6Zm4vJRUiPG"
@@ -4524,6 +4524,24 @@
     {
       "album": {
         "name": "Chess Type Beat",
+        "url": "https://open.spotify.com/album/2MbGyTcjxcj8nAQkBcFQ3M"
+      },
+      "artists": [
+        {
+          "name": "DYNXMIC",
+          "url": "https://open.spotify.com/artist/7FlEDChgy5oVNElUrVaWfo"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Chess Type Beat",
+      "url": "https://open.spotify.com/track/7faZLp1vnVrx5xzIgImk8T"
+    },
+    {
+      "album": {
+        "name": "Chess Type Beat",
         "url": "https://open.spotify.com/album/50Y5Qs42xHpfFHu0wDLhel"
       },
       "artists": [
@@ -4534,7 +4552,7 @@
       ],
       "date_added": "2025-01-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 120047,
       "name": "Chess Type Beat",
       "url": "https://open.spotify.com/track/4w2Bh4G4JBO9NQx3xvaCUK"
@@ -24912,7 +24930,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 134769,
       "name": "Vidrado Em Voc\u00ea",
       "url": "https://open.spotify.com/track/1HJU78CRk4vxvjE5Cs1BCt"
@@ -25590,7 +25608,7 @@
       ],
       "date_added": "2025-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 187507,
       "name": "WELTiTA",
       "url": "https://open.spotify.com/track/5WEF0icHWmAZBBMglBd599"
@@ -26176,7 +26194,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 345812,
       "name": "Would You Fall in Love with Me Again",
       "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"

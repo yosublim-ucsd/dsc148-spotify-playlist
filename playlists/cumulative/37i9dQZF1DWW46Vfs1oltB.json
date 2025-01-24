@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\n\bDynamic Duo, GUMMY(\ub2e4\uc774\ub098\ubbf9 \ub4c0\uc624, \uac70\ubbf8))",
+  "description": "The fresh & hottest K-Hip hop tracks. (Cover:\n ZENE THE ZILLA(\uc81c\ub124 \ub354 \uc9c8\ub77c))",
   "name": "KrOWN",
   "tracks": [
     {
@@ -12881,6 +12881,24 @@
     },
     {
       "album": {
+        "name": "HUNCHBACK",
+        "url": "https://open.spotify.com/album/3CTXoEFmFfn3V1ur0YF9gA"
+      },
+      "artists": [
+        {
+          "name": "REDDY",
+          "url": "https://open.spotify.com/artist/69H1Ooj2eBJXLTk3IEBV0v"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179411,
+      "name": "HUNCHBACK",
+      "url": "https://open.spotify.com/track/3MIG5jPYVUBHBbpiLuzsUh"
+    },
+    {
+      "album": {
         "name": "VERSE BATTLE RAPCUP 32R GROUP MATCH Part.4",
         "url": "https://open.spotify.com/album/052j5QBMUfU0ywEWV8dUES"
       },
@@ -13288,6 +13306,28 @@
       "duration_ms": 138591,
       "name": "I Feel It So Close (Feat. VEKOEL)",
       "url": "https://open.spotify.com/track/5ViNfkZnAbHKUv1uD7aCJ2"
+    },
+    {
+      "album": {
+        "name": "I KNOW",
+        "url": "https://open.spotify.com/album/5bCemIDHCU31n5ujO7zVAn"
+      },
+      "artists": [
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "Loopy",
+          "url": "https://open.spotify.com/artist/3l9s67pOK4Stw9yW1wr0Bg"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168063,
+      "name": "I KNOW (Feat. Loopy)",
+      "url": "https://open.spotify.com/track/5OFBHgy8k1i10MdbR8EHHj"
     },
     {
       "album": {
@@ -19813,6 +19853,36 @@
     },
     {
       "album": {
+        "name": "94-24 +1",
+        "url": "https://open.spotify.com/album/3UjYTwZtOSekvKHgjM7ByQ"
+      },
+      "artists": [
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        },
+        {
+          "name": "Nosun",
+          "url": "https://open.spotify.com/artist/0BHYZCuuyLl53LVgeC3pUa"
+        },
+        {
+          "name": "Keem Hyo-Eun",
+          "url": "https://open.spotify.com/artist/59KuGY6nfY3w39O0qYVA7p"
+        },
+        {
+          "name": "Hash Swan",
+          "url": "https://open.spotify.com/artist/3yVEZNS0ateVfoj8FuazKg"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215579,
+      "name": "No easy (Feat. Nosun, KEEM HYO-EUN, Hash Swan) - Remix",
+      "url": "https://open.spotify.com/track/3aXiutpK9zdul0mft0h6nc"
+    },
+    {
+      "album": {
         "name": "love supreme",
         "url": "https://open.spotify.com/album/5gUavt2cFRjQrHbpE1yO60"
       },
@@ -24506,6 +24576,24 @@
       "duration_ms": 126614,
       "name": "Selfie (Feat. Los, Street Baby)",
       "url": "https://open.spotify.com/track/26cPMPlizQk6jmVIZzfl2z"
+    },
+    {
+      "album": {
+        "name": "HAPPY END",
+        "url": "https://open.spotify.com/album/0qIzl7bf88ON5s0HuZ9WUG"
+      },
+      "artists": [
+        {
+          "name": "Verbal Jint",
+          "url": "https://open.spotify.com/artist/24sQuJhQ85ZygDG7sUVUxR"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151551,
+      "name": "Semen Analysis",
+      "url": "https://open.spotify.com/track/43BfGwtuOOL5afN8lTKG9v"
     },
     {
       "album": {
@@ -32398,6 +32486,24 @@
       "duration_ms": 245066,
       "name": "Zigle Zigle (Feat. ZICO)",
       "url": "https://open.spotify.com/track/44n7Wbnl9vcDbkAkVPW0Lu"
+    },
+    {
+      "album": {
+        "name": "94-24 +1",
+        "url": "https://open.spotify.com/album/3UjYTwZtOSekvKHgjM7ByQ"
+      },
+      "artists": [
+        {
+          "name": "ZENE THE ZILLA",
+          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 89277,
+      "name": "ZNTZL",
+      "url": "https://open.spotify.com/track/3uKpX4ZtaQ0ZslTPpc4kRL"
     },
     {
       "album": {

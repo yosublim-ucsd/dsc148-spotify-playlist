@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: PP Krit",
+  "description": "T-Pop \u0e44\u0e21\u0e48\u0e44\u0e2b\u0e27 \u0e15\u0e49\u0e2d\u0e07\u0e1f\u0e31\u0e07 T-Pop Now \u0e41\u0e25\u0e49\u0e27. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: bamm",
   "name": "T-Pop Now",
   "tracks": [
     {
@@ -562,7 +562,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 181753,
       "name": "Boys Love Girls",
       "url": "https://open.spotify.com/track/4BDS6sNKdmTsxJdw6BwRE5"
@@ -2235,6 +2235,24 @@
     },
     {
       "album": {
+        "name": "Perfect Match",
+        "url": "https://open.spotify.com/album/5GokkJiHhg9QOdguBcyBnj"
+      },
+      "artists": [
+        {
+          "name": "DMD Gen4",
+          "url": "https://open.spotify.com/artist/008VCU6yhQyLNN3pEBvbne"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Perfect Match",
+      "url": "https://open.spotify.com/track/391UjBMVykpwcmY3v4aG3C"
+    },
+    {
+      "album": {
         "name": "MOON",
         "url": "https://open.spotify.com/album/7L1uvhFWWXCGi5szX5fAah"
       },
@@ -3832,7 +3850,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 214142,
       "name": "\u0e04\u0e19\u0e17\u0e35\u0e48\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e23\u0e39\u0e49\u0e27\u0e48\u0e32\u0e43\u0e04\u0e23 Ost.The boy next world series",
       "url": "https://open.spotify.com/track/4SldOmABbu4lIxs729yTp3"
@@ -6580,7 +6598,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 187247,
       "name": "\u0e1e\u0e1a\u0e40\u0e18\u0e2d\u0e08\u0e36\u0e07\u0e40\u0e02\u0e49\u0e32\u0e43\u0e08 Ost.The boy next world series",
       "url": "https://open.spotify.com/track/2uii6kEYhPCw9GSSnmrjXI"
@@ -7424,6 +7442,24 @@
       "duration_ms": 215142,
       "name": "\u0e23\u0e31\u0e01\u0e08\u0e23\u0e34\u0e07 (\u0e41\u0e04\u0e48\u0e40\u0e21\u0e37\u0e48\u0e2d\u0e27\u0e32\u0e19)",
       "url": "https://open.spotify.com/track/0lpAUU1G9B5QOaJqt4t8OH"
+    },
+    {
+      "album": {
+        "name": "\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e1c\u0e39\u0e01\u0e1e\u0e31\u0e19\u0e40\u0e02\u0e32 (Leave Me Alone)",
+        "url": "https://open.spotify.com/album/2XxGv7whVxUKcTKBbX0ZXJ"
+      },
+      "artists": [
+        {
+          "name": "THIRD",
+          "url": "https://open.spotify.com/artist/2rznKFXxZ6t2xZ9lAJY2xK"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227500,
+      "name": "\u0e23\u0e31\u0e01\u0e09\u0e31\u0e19\u0e1c\u0e39\u0e01\u0e1e\u0e31\u0e19\u0e40\u0e02\u0e32 (Leave Me Alone)",
+      "url": "https://open.spotify.com/track/0YYoT4ZLtHZW6UIQUEFL6H"
     },
     {
       "album": {
@@ -9508,6 +9544,24 @@
       "duration_ms": 200526,
       "name": "\u0e40\u0e04\u0e49\u0e32\u0e21\u0e32\u0e01\u0e48\u0e2d\u0e19 (Lovefool)",
       "url": "https://open.spotify.com/track/2vmEX5b6qbFfLNvD8EvULb"
+    },
+    {
+      "album": {
+        "name": "bammBurger",
+        "url": "https://open.spotify.com/album/59MqhsgWxxBC3R26qdTi4K"
+      },
+      "artists": [
+        {
+          "name": "bamm",
+          "url": "https://open.spotify.com/artist/2ORibfYGMt8fuIimSDCTq1"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191460,
+      "name": "\u0e40\u0e08\u0e2d\u0e22\u0e31\u0e07? (Still?)",
+      "url": "https://open.spotify.com/track/7sCrT0SpZzqZ6FyNFiHPzi"
     },
     {
       "album": {

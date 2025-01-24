@@ -4,7 +4,7 @@
 
 > Best of Malayalam Hip\-Hop! Cover : Fejo
 
-213 songs - 11 hr 18 min
+214 songs - 11 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [Mahanubhavulu](https://open.spotify.com/track/1clRTDsXImLDSlba07XdCE) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Mahanubhavulu](https://open.spotify.com/album/4tARA48or1hm00nNyqXXBv) | 3:12 | 2023-12-01 |  |
 | [Malabari Banger](https://open.spotify.com/track/0aXnTU90v6G1QVlimy0Kw8) | [M.H.R](https://open.spotify.com/artist/5A5bbXuMkVh28lxVO4y25g), [JOKER390P](https://open.spotify.com/artist/1IVjFQKbSitl1XikHLdxlW), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm), [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc) | [Malabari Banger](https://open.spotify.com/album/4ttj4IiGCCeFImxIJ8b2Ap) | 4:06 | 2023-09-11 |  |
 | [Malakk](https://open.spotify.com/track/58STO31unViThdYxhl5UGy) | [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Tholla](https://open.spotify.com/album/2ydeDhlQINZjlZKYE3pO3U) | 2:36 | 2025-01-09 | 2025-01-11 |
-| [Malayali Da](https://open.spotify.com/track/73H37RXqxkb7y48reuhgRc) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Malayali Da](https://open.spotify.com/album/7lvX9NhbhLIvIX7HRdBzDt) | 3:16 | 2022-04-18 |  |
+| [Malayali Da](https://open.spotify.com/track/73H37RXqxkb7y48reuhgRc) | [ThirumaLi](https://open.spotify.com/artist/6AmkU4hUrXJPIiNFsZlDzJ) | [Malayali Da](https://open.spotify.com/album/7lvX9NhbhLIvIX7HRdBzDt) | 3:16 | 2022-04-18 | 2025-01-24 |
 | [Malsaram Ennodu Thanne](https://open.spotify.com/track/1jiH9jO3EzQ1BwdCoQXP0R) | [Fejo](https://open.spotify.com/artist/3bJ59Z94USftWXWfO7vCH3) | [Malsaram Ennodu Thanne](https://open.spotify.com/album/50unVeEWf2KAz83YOnU565) | 3:22 | 2022-06-23 | 2024-05-22 |
 | [Manavaalan Thug \- From "Thallumaala"](https://open.spotify.com/track/0MHiYjjcHNYM9KURa6NveF) | [Dabzee](https://open.spotify.com/artist/2JJKoRrK7Eec7jlcjFB7sc), [SA](https://open.spotify.com/artist/3eaS0SB97IZ1TVFv4XiTdm) | [Manavaalan Thug \(From "Thallumaala"\)](https://open.spotify.com/album/7ElJmx0LpC0aoYn93w2rMD) | 3:20 | 2022-08-10 | 2024-02-18 |
 | [Maniyara](https://open.spotify.com/track/0EkUvVzuPWBrg5ZYy07rab) | [Lil PAYYAN](https://open.spotify.com/artist/0HiSpiBBENQAo0BJX5u4ic), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Maniyara](https://open.spotify.com/album/0yykuYb8HTFMNUFG7lMi7s) | 2:20 | 2023-09-18 | 2024-11-14 |
@@ -178,6 +178,7 @@
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/1d7vMtlpp0T6IhDe4cog3t) | [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp), [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et) | [Scene Mone \(From "Rdx"\)](https://open.spotify.com/album/78W11DytRChbuWspZygdyi) | 3:26 | 2023-08-17 | 2023-09-01 |
 | [Scene Mone \(From "RDX"\)](https://open.spotify.com/track/0OvNPwqO7vtruEZx88qUy3) | [Rzee](https://open.spotify.com/artist/0JDjRH8br9CkytJV93g1Et), [NJ](https://open.spotify.com/artist/3CWoPzCX85ikTyt8nPrWJp) | [Scene Mone \(From "RDX"\)](https://open.spotify.com/album/3jWqNbSWuLPtCtyIuDIpth) | 3:26 | 2023-08-17 | 2023-08-19 |
 | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb) | [Vivek Radhakrishnan](https://open.spotify.com/artist/6gJZryVxqQCRpTAQh4yq8d), [V3K](https://open.spotify.com/artist/6iB0ogM87q6Z4h2fHZNbhe), [The Imbachi](https://open.spotify.com/artist/6Q5mtoNuWSiO8oKBh0fwlz) | [Scoot Scoot \(Original Soundtrack\)](https://open.spotify.com/album/3G5wGjpeEa0kmuT8golvUA) | 2:30 | 2022-06-23 |  |
+| [SLAM](https://open.spotify.com/track/7C2VAVmeq51CLGkYmaNDt6) | [draeKo](https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8), [SULTHAN](https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl) | [SLAM](https://open.spotify.com/album/5fh4rLBLLy3gXanrpzyRJC) | 2:41 | 2025-01-23 |  |
 | [Tapori](https://open.spotify.com/track/59f6jkhWKrOqIEeJ0vVMfV) | [DJ LYAN](https://open.spotify.com/artist/34RXskrFhZmHo54xTt9L0B), [BABY JEAN](https://open.spotify.com/artist/3vhYECLQUeZVovqKwA5E0b) | [Tapori](https://open.spotify.com/album/2K0WzWYpRaw3bHUZwD5cZr) | 3:02 | 2025-01-09 |  |
 | [Thaakeeth](https://open.spotify.com/track/1YCYnKT1R8SzaFIa7MB9gq) | [Efy Music](https://open.spotify.com/artist/1DDwkZwiamO6HSJdB6DtYY), [AZWIN](https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8) | [Tholla](https://open.spotify.com/album/2ydeDhlQINZjlZKYE3pO3U) | 3:25 | 2025-01-09 |  |
 | [Thakthom](https://open.spotify.com/track/6k5oJukXYfSYLTVLnD0er9) | [Reyan](https://open.spotify.com/artist/0Te5urvZR7fH2ojS5H6ERM), [Melvin](https://open.spotify.com/artist/2J9gqy4uIlVhZtgiLTTQOm), [Jassie Gift](https://open.spotify.com/artist/3cowxATurZfjWsJC4uEHsl) | [Thakthom](https://open.spotify.com/album/2L5YVPtyVBHUNEHMaro6xJ) | 3:20 | 2025-01-09 |  |

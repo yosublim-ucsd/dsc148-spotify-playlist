@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 
 > a journey through ephemeral moments
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,531 likes - 75 songs - 6 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,532 likes - 75 songs - 6 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,14 +56,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2a5qdpzYkGY.md) - [plain]
 | 46 | [Lenz Pianoday 2022](https://open.spotify.com/track/6L41bBZkqtvKzPVp6SLESL) | [Jan Sturm](https://open.spotify.com/artist/6IVzJ4t1rAmWv72P9VbYgm), [STURM](https://open.spotify.com/artist/3PiKVGvjj3QLtRaKfU0ggL) | [Lenz Pianoday 2022](https://open.spotify.com/album/5o3mfWFGzWv89xNQCOVk19) | 2:19 |
 | 47 | [Marrow](https://open.spotify.com/track/5Yazj7mltNE4Dpntdv8ToR) | [Joyful Joyful](https://open.spotify.com/artist/7JnZTk2934EGRekaVoeb90) | [Marrow](https://open.spotify.com/album/7rYsPmnu3EI4sgSAztAjff) | 4:39 |
 | 48 | [Kommissar Brenkstrupp \(Main Titles\)](https://open.spotify.com/track/5azy9UxSBD7XKgL83HOJDN) | [Ørdop Wolkenscheidt](https://open.spotify.com/artist/7kMXAaL47nt5wVkkyEbiON) | [Kommissar Brenkstrupp: Fragments of a Troubled Detective](https://open.spotify.com/album/22rItGEjuiHXUPAl3pp2DC) | 2:40 |
-| 49 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
-| 50 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 |
+| 49 | [atomic bombs atomic bonds i love you](https://open.spotify.com/track/0vSko2EnMsuAo2Kp2oItyt) | [Askjell](https://open.spotify.com/artist/3NABmtfO8G8s96WFGhbR7F) | [atomic bombs atomic bonds i love you](https://open.spotify.com/album/0e3dPXmWPsrwSn0NPc3e7r) | 5:27 |
+| 50 | [Breaking Up](https://open.spotify.com/track/2Lcby5YdSYsXp9G6Cx5TzI) | [Bat For Lashes](https://open.spotify.com/artist/6l77PmL5iuEEcYjGl8K6s7) | [The Dream of Delphi](https://open.spotify.com/album/4Z3IO9jsrSAxdTluJGZerG) | 2:00 |
 | 51 | [Samo](https://open.spotify.com/track/47yfVqjJxsOdfTNpo47v2H) | [Emanuele Triglia](https://open.spotify.com/artist/617R11XUjqnwEnjXGsqjTp), [Davide Savarese](https://open.spotify.com/artist/4qxVdV4LGMsYYravUCrwgf), [QWALE](https://open.spotify.com/artist/2cRadsW7it5UQecQG1Icsh), [Francesco Fratini](https://open.spotify.com/artist/3DAWdBF9FZhTWbThgzcfNB), [Vincenzo Lato](https://open.spotify.com/artist/18afzVKbLNUIWgXz9DIIrV) | [Moon Kin](https://open.spotify.com/album/0XoKbSzakitFU6aAsqFPQm) | 2:36 |
 | 52 | [Playgroup](https://open.spotify.com/track/2zZZDhZp98OaElYpscNbWd) | [BADBADNOTGOOD](https://open.spotify.com/artist/65dGLGjkw3UbddUg2GKQoZ) | [Mid Spiral: Order](https://open.spotify.com/album/33rnYTEiJv1Rb2EWmU0ViX) | 6:55 |
 | 53 | [Sky Breaking, Clouds Falling](https://open.spotify.com/track/6ngNKPDKaYsld8WCiSOrZ3) | [Mason Lindahl](https://open.spotify.com/artist/1JHWVGXM8J7dAaLZpCqFcP) | [Kissing Rosy in the Rain](https://open.spotify.com/album/50FEEQKJa8YI9bfKDSxmuz) | 4:24 |
-| 54 | [Denial, Creation](https://open.spotify.com/track/6IheMaJSyIfRpXgMDE1Ajw) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Denial, Creation](https://open.spotify.com/album/6BPxwe4Eit3VEPCfVwnmUZ) | 3:39 |
-| 55 | [Lithuania](https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [A Living Room Hush](https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS) | 8:38 |
-| 56 | [Mysteries](https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Mysteries](https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P) | 3:03 |
+| 54 | [Lithuania](https://open.spotify.com/track/6yd6TACdbS9W4v2p30D6E8) | [Jaga Jazzist](https://open.spotify.com/artist/68HFSFMCZzyRjkkm9bv5Vt) | [A Living Room Hush](https://open.spotify.com/album/79yZ6f40ABeqdqh1yqRgiS) | 8:38 |
+| 55 | [Mysteries](https://open.spotify.com/track/3bDoYfu85Z3UhfRt53zsTv) | [Antarctic Wastelands](https://open.spotify.com/artist/1VMHvHEatPJUkBcBqNe3D1) | [Mysteries](https://open.spotify.com/album/6jGXRmqwwd25TgRbNT6X2P) | 3:03 |
+| 56 | [Denial, Creation](https://open.spotify.com/track/6IheMaJSyIfRpXgMDE1Ajw) | [Will August Park](https://open.spotify.com/artist/3GMg9carM1mOJ3oOq5eXwf) | [Denial, Creation](https://open.spotify.com/album/6BPxwe4Eit3VEPCfVwnmUZ) | 3:39 |
 | 57 | [Onda tropical, I\. Rebajado](https://open.spotify.com/track/1eZkkqimRQ4rZx1TqRsYsl) | [Rodrigo Martínez Torres](https://open.spotify.com/artist/6ShKSeyhrhCraDsF8V6lQK), [La Coreañera](https://open.spotify.com/artist/74XNnqjblniM4XXlcJFak7), [Dartmouth College Wind Ensemble](https://open.spotify.com/artist/1YOqrJCb5IRzdBUKc9rAon) | [Onda tropical, I\. Rebajado](https://open.spotify.com/album/2p1DKUbDsLovwhPvhnghYO) | 5:57 |
 | 58 | [Pulse Of Life](https://open.spotify.com/track/3d64wpsuW2jJtqOHFlvido) | [Laurent Dury](https://open.spotify.com/artist/7gpOQ6zpHZobl99wEQQRwj) | [Modern Chamber Music](https://open.spotify.com/album/2Exl05xJe1sljXUxT1s7Wl) | 1:44 |
 | 59 | [The Last Retention](https://open.spotify.com/track/29ZI7WGaFGWfpahlaEV39l) | [Ronnie & Clyde](https://open.spotify.com/artist/17iXwjkIFJqyYv0is1d9sJ) | [The Last Retention](https://open.spotify.com/album/7w7tsQtxV6TZ4eIL4v3F7t) | 4:04 |

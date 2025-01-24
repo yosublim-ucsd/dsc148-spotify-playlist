@@ -1821,6 +1821,24 @@
     },
     {
       "album": {
+        "name": "Lost Moments",
+        "url": "https://open.spotify.com/album/1ygXCa7MfbWY4nJ4c7x6W1"
+      },
+      "artists": [
+        {
+          "name": "Shimmerweave",
+          "url": "https://open.spotify.com/artist/7wcPlyyyXe4zqgOuHHwJ5s"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144000,
+      "name": "Lost Moments",
+      "url": "https://open.spotify.com/track/6u0xIhfniOuucdEjttcEcC"
+    },
+    {
+      "album": {
         "name": "Lumiere",
         "url": "https://open.spotify.com/album/1EHS63JLrpttlvWRdSvQE3"
       },
@@ -2920,7 +2938,7 @@
       ],
       "date_added": "2022-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 195306,
       "name": "Sphere",
       "url": "https://open.spotify.com/track/7E9TD2kl65jwvFGnRn7wgK"

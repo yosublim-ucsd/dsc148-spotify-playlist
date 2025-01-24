@@ -1,31 +1,31 @@
 {
-  "description": "De mooiste liedjes van het moment. Cover: Robbie Williams",
-  "num_followers": 465711,
+  "description": "De mooiste liedjes van het moment. Cover: Teddy Swims",
+  "num_followers": 465668,
   "original_name": "Blijf Luisteren",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4OWaAAAAACWPXGHge6yTZ6JYB8yF7ZK",
+  "snapshot_id": "Z5LKAQAAAADGUtWZCym+utxVU7KLt36E",
   "tracks": [
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
+        "name": "I've Tried Everything But Therapy (Part 2)",
+        "url": "https://open.spotify.com/album/6kvSdLjli85tMwW4jlCN0o"
       },
       "artists": [
         {
-          "name": "Robbie Williams",
-          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
         }
       ],
-      "duration_ms": 197419,
-      "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
-      "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
+      "duration_ms": 176424,
+      "name": "Guilty",
+      "url": "https://open.spotify.com/track/1xAqlP0wv3XCSoEICoa3kf"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "C'est La Vie",
         "url": "https://open.spotify.com/album/3WfggotCPBU1ESJjbM9CWV"
@@ -41,7 +41,39 @@
       "url": "https://open.spotify.com/track/4MsGEDdSdgs4lWSJQIIf8z"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6pAOd2iCX6jY6ILI4lWNGZ"
+      },
+      "artists": [
+        {
+          "name": "Robbie Williams",
+          "url": "https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw"
+        }
+      ],
+      "duration_ms": 197419,
+      "name": "Forbidden Road (From Better Man: Original Motion Picture Soundtrack)",
+      "url": "https://open.spotify.com/track/2ngt7XvZ6ypAnyeFI7SZoK"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "How Does It Feel",
+        "url": "https://open.spotify.com/album/4yC8BBuXd9faD7Ln1FB3mt"
+      },
+      "artists": [
+        {
+          "name": "The Vices",
+          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
+        }
+      ],
+      "duration_ms": 204699,
+      "name": "How Does It Feel",
+      "url": "https://open.spotify.com/track/5uGGSdXz791jTxkUJUZ7M1"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/2tgMULeDaymA173kWVgCZS"
@@ -57,7 +89,23 @@
       "url": "https://open.spotify.com/track/7JplJCCUuo2o6emhE3f3SK"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "I Believe In Life",
+        "url": "https://open.spotify.com/album/5JVxbGun5sqJ8vEvKguM2P"
+      },
+      "artists": [
+        {
+          "name": "MELL VF",
+          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
+        }
+      ],
+      "duration_ms": 216519,
+      "name": "I Believe In Life",
+      "url": "https://open.spotify.com/track/5LtkWfkTVBjHpss1mSJwXW"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Wide Awake (Deluxe)",
         "url": "https://open.spotify.com/album/1nBPdE0IcFxo4U8ZUUal2a"
@@ -73,23 +121,7 @@
       "url": "https://open.spotify.com/track/2FBZLmrJSji9dZzFeuidCY"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
-      "album": {
-        "name": "Smile",
-        "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        }
-      ],
-      "duration_ms": 224127,
-      "name": "Smile",
-      "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
-    },
-    {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Moon Music",
         "url": "https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6"
@@ -105,7 +137,23 @@
       "url": "https://open.spotify.com/track/6iYxkBHyMpsgVxUgfy5fSx"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "Fix What You Didn't Break",
+        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
+      },
+      "artists": [
+        {
+          "name": "Nate Smith",
+          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+        }
+      ],
+      "duration_ms": 201555,
+      "name": "Fix What You Didn't Break",
+      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Have A Little Faith",
         "url": "https://open.spotify.com/album/4jnLZptF0dYFDX05IOpLpF"
@@ -121,7 +169,7 @@
       "url": "https://open.spotify.com/track/6i4roOAXcuHWfmFuYFXZti"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Kayo",
         "url": "https://open.spotify.com/album/4eTJsaYRux5uxMuhzBBgjq"
@@ -137,39 +185,23 @@
       "url": "https://open.spotify.com/track/4lfjBWQ0tE9hvejQ0LtT4k"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "Before It Might Be Gone",
-        "url": "https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM"
+        "name": "Stranger's Lullaby",
+        "url": "https://open.spotify.com/album/1DnadWVWWYsvX7emPoTllF"
       },
       "artists": [
         {
-          "name": "The Vices",
-          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
+          "name": "Blanko",
+          "url": "https://open.spotify.com/artist/2Dk2jkQQYILtFAG09Vjvux"
         }
       ],
-      "duration_ms": 296885,
-      "name": "Before It Might Be Gone",
-      "url": "https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92"
+      "duration_ms": 178022,
+      "name": "Stranger's Lullaby",
+      "url": "https://open.spotify.com/track/3CMg9ukW5Nahx6SOQADqne"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
-      "album": {
-        "name": "Good News",
-        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        }
-      ],
-      "duration_ms": 199209,
-      "name": "Good News",
-      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
-    },
-    {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "People Watching (Edit)",
         "url": "https://open.spotify.com/album/7B55XuKBJVtYjKzOF6R4CB"
@@ -185,7 +217,39 @@
       "url": "https://open.spotify.com/track/6KUypF1l9fVmXoU7MdtYPg"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "the side-effects of living in a fantasy",
+        "url": "https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh"
+      },
+      "artists": [
+        {
+          "name": "philine",
+          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
+        }
+      ],
+      "duration_ms": 185480,
+      "name": "matter",
+      "url": "https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "Smile",
+        "url": "https://open.spotify.com/album/7j7HmSHKK9cp1jmPgqVNjX"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "duration_ms": 224127,
+      "name": "Smile",
+      "url": "https://open.spotify.com/track/3MJ6lFNV12FSHAOzTzkwxz"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Gorgeous",
         "url": "https://open.spotify.com/album/0bCdGyOL3c0jJlKvxisXeE"
@@ -201,7 +265,7 @@
       "url": "https://open.spotify.com/track/4Q12rnySxgZA5gX4cwblRG"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Give or Take a Few",
         "url": "https://open.spotify.com/album/44qsKBxh5097kyFAlP9LFn"
@@ -217,7 +281,23 @@
       "url": "https://open.spotify.com/track/5FzCz6sNG38TC722559eAl"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "Swimming Pool",
+        "url": "https://open.spotify.com/album/2t4OuMAtuKt6F850HWDGV3"
+      },
+      "artists": [
+        {
+          "name": "Cosmic Crooner",
+          "url": "https://open.spotify.com/artist/3dsyPsXzfTDfXC3dUOw3xq"
+        }
+      ],
+      "duration_ms": 202071,
+      "name": "Swimming Pool",
+      "url": "https://open.spotify.com/track/3bGDv2AFpJKEaYKKcNvMQD"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Wide Awake",
         "url": "https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81"
@@ -237,7 +317,7 @@
       "url": "https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Dancing On My Feelings",
         "url": "https://open.spotify.com/album/7wclxbfcMy8Luc0iDxBvaE"
@@ -253,7 +333,7 @@
       "url": "https://open.spotify.com/track/59KTcLNAkcoNs9EHoDHbdT"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "What Makes A King",
         "url": "https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK"
@@ -269,39 +349,23 @@
       "url": "https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "Fix What You Didn't Break",
-        "url": "https://open.spotify.com/album/7d0hS6Qa9gXEjwlbsJbaEr"
+        "name": "Before It Might Be Gone",
+        "url": "https://open.spotify.com/album/3EVICWZusdGvnKGYkY9AGM"
       },
       "artists": [
         {
-          "name": "Nate Smith",
-          "url": "https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x"
+          "name": "The Vices",
+          "url": "https://open.spotify.com/artist/6TSjJlhB2taxea58rCkMkj"
         }
       ],
-      "duration_ms": 201555,
-      "name": "Fix What You Didn't Break",
-      "url": "https://open.spotify.com/track/0GJ8peTqHq9pu5Yf2vHjjX"
+      "duration_ms": 296885,
+      "name": "Before It Might Be Gone",
+      "url": "https://open.spotify.com/track/4QqixSXWSTWq1rC5DzCz92"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
-      "album": {
-        "name": "the side-effects of living in a fantasy",
-        "url": "https://open.spotify.com/album/0ng21MzkTevZ3JfDUiehKh"
-      },
-      "artists": [
-        {
-          "name": "philine",
-          "url": "https://open.spotify.com/artist/5VyGPIz23xzQUyXocTxAvL"
-        }
-      ],
-      "duration_ms": 185480,
-      "name": "matter",
-      "url": "https://open.spotify.com/track/4iDxcTqrjvAZVzJQp6Vhov"
-    },
-    {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "\u201c&\u201d (Ampersand), Part Two",
         "url": "https://open.spotify.com/album/3vtvRu36Sh69lyYkMHY352"
@@ -317,7 +381,7 @@
       "url": "https://open.spotify.com/track/1xuQoznYFrrw493RCb4IS9"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Once In A Lifetime",
         "url": "https://open.spotify.com/album/5BWZb0mcwyCCTIE0pjvkzT"
@@ -333,7 +397,7 @@
       "url": "https://open.spotify.com/track/4uPj7D8n8Kg8W39wilHtru"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Karaoke Moon",
         "url": "https://open.spotify.com/album/4wKRrC9FONCHBMgzX5NM3x"
@@ -349,7 +413,7 @@
       "url": "https://open.spotify.com/track/1fjB51r9GbTQDr35eCPrK9"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Love Somebody",
         "url": "https://open.spotify.com/album/0TxewlKVKdpP18dGg279ep"
@@ -365,7 +429,7 @@
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Chameleon",
         "url": "https://open.spotify.com/album/6TWKVr6ZbFwVsxHstHnCkI"
@@ -381,7 +445,23 @@
       "url": "https://open.spotify.com/track/7M3zFT6CPIQmCwpPhyzRIp"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
+      "album": {
+        "name": "Good News",
+        "url": "https://open.spotify.com/album/7cBvtedB1E62VoOdnGx51w"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "duration_ms": 199209,
+      "name": "Good News",
+      "url": "https://open.spotify.com/track/54p6vNJwGkt4FTaM8SCsxt"
+    },
+    {
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Where Do You Go",
         "url": "https://open.spotify.com/album/6nOTgMbtPFVxNWdHam8dTm"
@@ -397,7 +477,7 @@
       "url": "https://open.spotify.com/track/1fIt37a7s0wj1OvQY7KCB7"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Better Man (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/3MXndpl1WV1ab9xWNaCUip"
@@ -421,7 +501,7 @@
       "url": "https://open.spotify.com/track/4F9fv546vGr8cxEwbsiYxB"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Born With a Broken Heart",
         "url": "https://open.spotify.com/album/2QNTqojFg0R17Jn2gj9Yqm"
@@ -437,7 +517,7 @@
       "url": "https://open.spotify.com/track/2z9FUHRkbkV4BObNzbHsFU"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Medusa",
         "url": "https://open.spotify.com/album/3e2KRazxHkewQA3WL20fqQ"
@@ -453,7 +533,7 @@
       "url": "https://open.spotify.com/track/1B7xiLBhKRBpD5KlnEWtrR"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "A Little Light in the Dark",
         "url": "https://open.spotify.com/album/1lsjasOLDY9fe5MSAC1amY"
@@ -469,23 +549,23 @@
       "url": "https://open.spotify.com/track/7f1vgZPMtOj8g8V85pa3ld"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
-        "name": "Bad Dreams",
-        "url": "https://open.spotify.com/album/2VxQFEEnhwiV5LpMuHKViR"
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/5cQTLzcV1ceW4oG1rXRBcX"
       },
       "artists": [
         {
-          "name": "Teddy Swims",
-          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+          "name": "Marle Thomson",
+          "url": "https://open.spotify.com/artist/0QQXt83k6HdOLRfGmiAZwY"
         }
       ],
-      "duration_ms": 184577,
-      "name": "Bad Dreams",
-      "url": "https://open.spotify.com/track/3nHuKdFJZm78CoeBnDcFKe"
+      "duration_ms": 222958,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/7jJIAC92kp1RGW5p9HSZua"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Could Have Been Us",
         "url": "https://open.spotify.com/album/6MBWWDyw0JTFgbP1E14fr8"
@@ -505,7 +585,7 @@
       "url": "https://open.spotify.com/track/4YnwFg1qB2E6euEB6a9v9q"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "It Is What It Is",
         "url": "https://open.spotify.com/album/5M84TQMlBTgqPZej6KCvVd"
@@ -521,7 +601,7 @@
       "url": "https://open.spotify.com/track/6PHprgr1SWomux41HzaXIM"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Self Sabotage",
         "url": "https://open.spotify.com/album/2LMv04vlituVhg9BD2VUVL"
@@ -537,7 +617,7 @@
       "url": "https://open.spotify.com/track/60DTWHQSXLdOMairERdoOn"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "This Isn\u2019t Really Love",
         "url": "https://open.spotify.com/album/3hZ4C5FqLTM9yvSxWuTTby"
@@ -553,7 +633,7 @@
       "url": "https://open.spotify.com/track/3WCQYl8CSsiPQxV3qWh1JK"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Evol Love",
         "url": "https://open.spotify.com/album/5BRxmdYHo1szR8FoqKEunx"
@@ -569,7 +649,7 @@
       "url": "https://open.spotify.com/track/7muf6AxPAt2y32KiDgs0kB"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Duets (30th Anniversary)",
         "url": "https://open.spotify.com/album/0Iv3XfTgPnPqxPyCf9yt2C"
@@ -589,7 +669,7 @@
       "url": "https://open.spotify.com/track/6hIPQdA0r7ulZQFnMakEdh"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Wonderful World",
         "url": "https://open.spotify.com/album/2kwfiuCGxb661CKIBSWLK4"
@@ -605,7 +685,7 @@
       "url": "https://open.spotify.com/track/5ZlXMsa5agAYYy1iUMK2Z5"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "What Do You Believe In? (Deluxe)",
         "url": "https://open.spotify.com/album/5nzie0fo3tXZtq5D5Sd7KM"
@@ -621,7 +701,7 @@
       "url": "https://open.spotify.com/track/2tZnQdEq4Ve1xEEGrbacmu"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Purpose",
         "url": "https://open.spotify.com/album/08ByKuA4cV7y99FD0IUO8Q"
@@ -637,7 +717,7 @@
       "url": "https://open.spotify.com/track/6jEEB0yo5OM3h1kxptUxFK"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "How To Dismantle An Atomic Bomb (Re-Assemble Edition)",
         "url": "https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV"
@@ -653,23 +733,7 @@
       "url": "https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
-      "album": {
-        "name": "Mahashmashana",
-        "url": "https://open.spotify.com/album/2oJHtuXrCJ0KMH5GrC6Qdw"
-      },
-      "artists": [
-        {
-          "name": "Father John Misty",
-          "url": "https://open.spotify.com/artist/2kGBy2WHvF0VdZyqiVCkDT"
-        }
-      ],
-      "duration_ms": 312326,
-      "name": "Josh Tillman and the Accidental Dose",
-      "url": "https://open.spotify.com/track/6P7bs2kVAOqt0rB8vnNS2f"
-    },
-    {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "HIT ME HARD AND SOFT",
         "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
@@ -685,7 +749,7 @@
       "url": "https://open.spotify.com/track/3QaPy1KgI7nu9FJEQUgn6h"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "The Shadow",
         "url": "https://open.spotify.com/album/4gFWmFcYPxPSGI3wQuGsXd"
@@ -701,7 +765,7 @@
       "url": "https://open.spotify.com/track/3dk0ven4SGbWhQ5cGnwBRQ"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Never Know",
         "url": "https://open.spotify.com/album/75LO9PTwpX345DOk6EFwcc"
@@ -717,23 +781,7 @@
       "url": "https://open.spotify.com/track/0rMNU9aAfSDYNgKH91HJr1"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
-      "album": {
-        "name": "Nowhere Land",
-        "url": "https://open.spotify.com/album/6tjCEVetoGY7QpT48AtF3W"
-      },
-      "artists": [
-        {
-          "name": "MELL VF",
-          "url": "https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8"
-        }
-      ],
-      "duration_ms": 205715,
-      "name": "Nowhere Land",
-      "url": "https://open.spotify.com/track/2dGEIUrdFbP20hpdoa3U0j"
-    },
-    {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Little More Peace",
         "url": "https://open.spotify.com/album/38mBMbqdvlVW8G9BORbpqb"
@@ -749,7 +797,7 @@
       "url": "https://open.spotify.com/track/4hzIJ03631VAlr6rDZAJfX"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Coming Undone",
         "url": "https://open.spotify.com/album/5Hl2Lx7g5bC5pwGKWJ1Als"
@@ -765,23 +813,7 @@
       "url": "https://open.spotify.com/track/6LU9IjSKhlOg0uU2eXj9Mo"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
-      "album": {
-        "name": "Good Enough",
-        "url": "https://open.spotify.com/album/6RvxG9FO7YTFHJDRiEiLFH"
-      },
-      "artists": [
-        {
-          "name": "Michael Marcagi",
-          "url": "https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ"
-        }
-      ],
-      "duration_ms": 138532,
-      "name": "Good Enough",
-      "url": "https://open.spotify.com/track/46CcxJGa71r6b7Kso0zCo5"
-    },
-    {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Tight Ripped Jeans",
         "url": "https://open.spotify.com/album/6dp3o0AmSHcarGB6vMQdaa"
@@ -797,7 +829,7 @@
       "url": "https://open.spotify.com/track/1MNqMa6iDCAXwVofQTFSO1"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Mycose",
         "url": "https://open.spotify.com/album/21l9Sw84AOYGYfgBe3QBk5"
@@ -813,7 +845,7 @@
       "url": "https://open.spotify.com/track/4aZtYe0lgo5T46jX31CXhj"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Time Is A Thief",
         "url": "https://open.spotify.com/album/18vdZLk46OxHGHqnTAw22c"
@@ -829,7 +861,7 @@
       "url": "https://open.spotify.com/track/4xvAFLRzwUrr3Ul4jBdEJo"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Higher",
         "url": "https://open.spotify.com/album/2Yfh7AQ5WbJFv6RwIAbJck"
@@ -845,7 +877,7 @@
       "url": "https://open.spotify.com/track/5PR3cK0y8Y8XikFxLnDkrm"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "In Love",
         "url": "https://open.spotify.com/album/1eBSt3H2N9n44CDgT1h2Ns"
@@ -861,7 +893,7 @@
       "url": "https://open.spotify.com/track/0tiG850FhkXJrM0F1dN1vx"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Giants",
         "url": "https://open.spotify.com/album/1Zf6FuiWwnpPz1qZvulsmF"
@@ -877,7 +909,7 @@
       "url": "https://open.spotify.com/track/0QnmwnIMV8cFpOg51yxagF"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Mansa Musa",
         "url": "https://open.spotify.com/album/3eQjhWwVHyyWPjACbIc2Tt"
@@ -893,27 +925,7 @@
       "url": "https://open.spotify.com/track/5IyyWOaxJq7QgsW0lW9TBC"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
-      "album": {
-        "name": "Guy For That",
-        "url": "https://open.spotify.com/album/6w0ujcFPqoqOzgzYsUWYXJ"
-      },
-      "artists": [
-        {
-          "name": "Post Malone",
-          "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Luke Combs",
-          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
-        }
-      ],
-      "duration_ms": 164011,
-      "name": "Guy For That (Feat. Luke Combs)",
-      "url": "https://open.spotify.com/track/5crxqqibcvoOQQgg4HjAFQ"
-    },
-    {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Don't Leave Me Now",
         "url": "https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz"
@@ -929,27 +941,7 @@
       "url": "https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
-      "album": {
-        "name": "Roomies",
-        "url": "https://open.spotify.com/album/6AROQ6N0Rmu5UopIesoiyv"
-      },
-      "artists": [
-        {
-          "name": "Richard Cejer",
-          "url": "https://open.spotify.com/artist/2s1dVWuPyOdBkHOFU59v14"
-        },
-        {
-          "name": "m. demian",
-          "url": "https://open.spotify.com/artist/70p3C65pwNTbiyKUAJ4EAo"
-        }
-      ],
-      "duration_ms": 189911,
-      "name": "Demo",
-      "url": "https://open.spotify.com/track/4f0VpVExT2Z5JgPBa869J3"
-    },
-    {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Townies",
         "url": "https://open.spotify.com/album/4FnVrYIOQ9ViAMajN0AXQg"
@@ -965,7 +957,7 @@
       "url": "https://open.spotify.com/track/2Nwu826BsgMFtMbd1ZR3fH"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Every Single Thing",
         "url": "https://open.spotify.com/album/38DNTfhFTj6PYFzLrZiRX5"
@@ -981,7 +973,7 @@
       "url": "https://open.spotify.com/track/6H6XCGMF9e4IDOfG582u4f"
     },
     {
-      "added_at": "2025-01-09 09:57:04",
+      "added_at": "2025-01-23 23:00:17",
       "album": {
         "name": "Brotherhood",
         "url": "https://open.spotify.com/album/7haF1TCzyvqeqsb89lMlAT"

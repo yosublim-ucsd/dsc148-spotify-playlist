@@ -9463,6 +9463,28 @@
     },
     {
       "album": {
+        "name": "Pool Party (REMIX)",
+        "url": "https://open.spotify.com/album/4taE9ArMoOwN0sLTUEl3NX"
+      },
+      "artists": [
+        {
+          "name": "Elic\u00ea",
+          "url": "https://open.spotify.com/artist/7IWi4NOiLz0JJ0qJhCYLN0"
+        },
+        {
+          "name": "maiarealplug",
+          "url": "https://open.spotify.com/artist/17LZpvf2Ij3oiy8ZfIgEGy"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113428,
+      "name": "Pool Party - REMIX",
+      "url": "https://open.spotify.com/track/4cxsm2hqesps5p43PNEd96"
+    },
+    {
+      "album": {
         "name": "Pra Cima Meu S\u00f3cio",
         "url": "https://open.spotify.com/album/7oWj9WdTSqfxEdV5eo01DQ"
       },
@@ -11444,7 +11466,7 @@
       ],
       "date_added": "2024-10-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 158400,
       "name": "Sorento",
       "url": "https://open.spotify.com/track/2rOqtBzFO9jNj9PH7NV7U6"

@@ -99,6 +99,24 @@
     },
     {
       "album": {
+        "name": "Spijbelaar",
+        "url": "https://open.spotify.com/album/455RrTsNFiMvIXPXt68RQQ"
+      },
+      "artists": [
+        {
+          "name": "Spijbelaar",
+          "url": "https://open.spotify.com/artist/1qlWFFK3AhBmlk7Lyft6MP"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216582,
+      "name": "Alleen",
+      "url": "https://open.spotify.com/track/6qtYJkBV6sSKUnHejbyUsC"
+    },
+    {
+      "album": {
         "name": "Alles Begint Bij Vandaag",
         "url": "https://open.spotify.com/album/3JbttJ3YCQX8juZ0Q1gCn1"
       },
@@ -208,7 +226,7 @@
       ],
       "date_added": "2024-10-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 347546,
       "name": "Amerika + Bang zullen ze leven",
       "url": "https://open.spotify.com/track/4EXpcNXlT7Mdakwn3F95i5"
@@ -1044,7 +1062,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-22",
+      "date_removed": null,
       "duration_ms": 190126,
       "name": "Ik Voel Voor Jou",
       "url": "https://open.spotify.com/track/7jmUEA0S8lNGsZU8gNDPgP"
@@ -1806,7 +1824,7 @@
       ],
       "date_added": "2024-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 206590,
       "name": "platland",
       "url": "https://open.spotify.com/track/1j3P5pmvUmNB6YXk7FXxbi"
@@ -2056,7 +2074,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 231676,
       "name": "Starstruck (Celebrity)",
       "url": "https://open.spotify.com/track/2Jj4TrXWBA6f4B3CuS5tmx"
@@ -2154,6 +2172,24 @@
       "duration_ms": 178253,
       "name": "Tr\u00e8s Heureux",
       "url": "https://open.spotify.com/track/3Iybyv19Ia1SnMO9q4kCYA"
+    },
+    {
+      "album": {
+        "name": "TWIJFELS",
+        "url": "https://open.spotify.com/album/4suRDB1oIRcvMAzPiqVB1d"
+      },
+      "artists": [
+        {
+          "name": "GIB",
+          "url": "https://open.spotify.com/artist/4lt4kKPq6vh6wQOhR1Qv7h"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121293,
+      "name": "TWIJFELS",
+      "url": "https://open.spotify.com/track/64b003qjzmQcod0AKscKVw"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-09",
-  "description": "Unearthing your new favourite artists. Cover: ICEBOX, teem. Artwork: Isu Kim.",
+  "description": "Unearthing your new favourite artists. Cover: lovlaine. Artwork: Isu Kim.",
   "name": "Fresh Finds SG & MY",
   "tracks": [
     {
@@ -327,6 +327,24 @@
     },
     {
       "album": {
+        "name": "Aftercare",
+        "url": "https://open.spotify.com/album/1d1DXjCUjgGyeKS8jMumva"
+      },
+      "artists": [
+        {
+          "name": "Patra",
+          "url": "https://open.spotify.com/artist/4eXQQns9uWmVosCTNQgeSs"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Aftercare",
+      "url": "https://open.spotify.com/track/79DiVsERsCMjpM5hjwF1as"
+    },
+    {
+      "album": {
         "name": "Again",
         "url": "https://open.spotify.com/album/7MVO282s0BAIXdFUmYxTsd"
       },
@@ -476,6 +494,24 @@
       "duration_ms": 214245,
       "name": "all my fridays",
       "url": "https://open.spotify.com/track/1TOQwaFSpog2z8Lq5dEVJk"
+    },
+    {
+      "album": {
+        "name": "lovlaine (The Deluxe Album)",
+        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218513,
+      "name": "all my perfects",
+      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
     },
     {
       "album": {
@@ -4591,6 +4627,28 @@
     },
     {
       "album": {
+        "name": "Movements (In The Dark)",
+        "url": "https://open.spotify.com/album/4bZqg4asVExrAglbOirPJp"
+      },
+      "artists": [
+        {
+          "name": "Sun Cell",
+          "url": "https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef"
+        },
+        {
+          "name": "motifs",
+          "url": "https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273666,
+      "name": "for now, not ever. (with motifs)",
+      "url": "https://open.spotify.com/track/5ps5DoF772ChyrCY3fngex"
+    },
+    {
+      "album": {
         "name": "For Once",
         "url": "https://open.spotify.com/album/58NU8TREpty8WbIWzqYxNM"
       },
@@ -4714,6 +4772,24 @@
       "duration_ms": 161904,
       "name": "FOREVERMORE",
       "url": "https://open.spotify.com/track/3UfxHtJBk9QhTk5sFXJyEm"
+    },
+    {
+      "album": {
+        "name": "Freaking",
+        "url": "https://open.spotify.com/album/2QwKde6FwUjXPnUVzX8SDE"
+      },
+      "artists": [
+        {
+          "name": "kiingkess",
+          "url": "https://open.spotify.com/artist/6hVsLLm8Ny0Vn2sY73Rukr"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151045,
+      "name": "Freaking",
+      "url": "https://open.spotify.com/track/049p74bSGYZUGPM8JYkEXG"
     },
     {
       "album": {
@@ -5552,6 +5628,32 @@
       "duration_ms": 194000,
       "name": "hold on",
       "url": "https://open.spotify.com/track/3kWbzwcmES4iB59VA4Falf"
+    },
+    {
+      "album": {
+        "name": "When It Rains Pt. 1",
+        "url": "https://open.spotify.com/album/5WvKN2ZIdKrJjbxW20Ra6G"
+      },
+      "artists": [
+        {
+          "name": "AxelJonas",
+          "url": "https://open.spotify.com/artist/3HsX21HvruzWjLMt7p38Tv"
+        },
+        {
+          "name": "A. Nayaka",
+          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
+        },
+        {
+          "name": "AE$OP CA$H",
+          "url": "https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Hold Still",
+      "url": "https://open.spotify.com/track/41klAFsuaOceDoEssbTUUU"
     },
     {
       "album": {
@@ -7612,6 +7714,28 @@
       "duration_ms": 191503,
       "name": "Livin Up",
       "url": "https://open.spotify.com/track/1oHpXgXTUTM5Ezs1NJeh0B"
+    },
+    {
+      "album": {
+        "name": "Living For The Summer",
+        "url": "https://open.spotify.com/album/4FfcBnsiCRQeeWoAipueoR"
+      },
+      "artists": [
+        {
+          "name": "Saint Kylo",
+          "url": "https://open.spotify.com/artist/2bxZxx4s1Nn6FbSvsE8jnA"
+        },
+        {
+          "name": "Peter Fredman",
+          "url": "https://open.spotify.com/artist/7kNR1wVzqjhkAEwBSNRjig"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 264000,
+      "name": "Living For The Summer",
+      "url": "https://open.spotify.com/track/25g7rVLRBF8lDTKC5jIGoS"
     },
     {
       "album": {
@@ -14374,6 +14498,24 @@
       "duration_ms": 195686,
       "name": "Valentine",
       "url": "https://open.spotify.com/track/5SA9CciI017BhXhp82K6Mg"
+    },
+    {
+      "album": {
+        "name": "Van Cleef",
+        "url": "https://open.spotify.com/album/1bIFLBUXYDsPU8ujJDEv2m"
+      },
+      "artists": [
+        {
+          "name": "Amari Teague",
+          "url": "https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144054,
+      "name": "Van Cleef",
+      "url": "https://open.spotify.com/track/55DFMTzCQw8WW3W2cFzWoW"
     },
     {
       "album": {

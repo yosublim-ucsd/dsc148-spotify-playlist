@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-24",
-  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Hoke",
+  "description": "Lo mejor del hip hop espa\u00f1ol. Feat. Kadec Santa Anna",
   "name": "Rap Espa\u00f1ol",
   "tracks": [
     {
@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Buscando el Sol",
+        "url": "https://open.spotify.com/album/5UMn449zd6iIr54QMJ8Sdc"
+      },
+      "artists": [
+        {
+          "name": "EZVIT 810",
+          "url": "https://open.spotify.com/artist/20taoPw3DvVajnkUySMckx"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193567,
+      "name": "Buscando el Sol",
+      "url": "https://open.spotify.com/track/7tVS44G27ERhSmaAWsGLcW"
+    },
+    {
+      "album": {
         "name": "P.E.K.E. (Poca Estatura Koraz\u00f3n Enorme)",
         "url": "https://open.spotify.com/album/4Y8rvnKHCbUZvFCOmRvfNn"
       },
@@ -1636,6 +1654,28 @@
       "duration_ms": 268800,
       "name": "Cada Motivo",
       "url": "https://open.spotify.com/track/5RwF8yjTv6LvpCjJL8yjkL"
+    },
+    {
+      "album": {
+        "name": "CADENAS",
+        "url": "https://open.spotify.com/album/692W4fGKUrRQ8IoiY7hZxo"
+      },
+      "artists": [
+        {
+          "name": "Hard GZ",
+          "url": "https://open.spotify.com/artist/79N4S7UXdjo2fAh3OHJQuB"
+        },
+        {
+          "name": "Marcelus Airlinez",
+          "url": "https://open.spotify.com/artist/6FusXHu4kHX7uyPOnJ3H5Q"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173520,
+      "name": "CADENAS",
+      "url": "https://open.spotify.com/track/1ZHmlo3B4q8fxtSWoMcAum"
     },
     {
       "album": {
@@ -1960,7 +2000,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 84074,
       "name": "Casa Coche Curro",
       "url": "https://open.spotify.com/track/6qWD3plTtJXkgrohyJqn52"
@@ -2438,7 +2478,7 @@
       ],
       "date_added": "2025-01-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 233994,
       "name": "Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6BlMONswYrMdTaKMyB3Ox6"
@@ -3000,6 +3040,28 @@
       "duration_ms": 269759,
       "name": "Dime que s\u00ed",
       "url": "https://open.spotify.com/track/5WFukWVre2TgDKG6G4T5Wq"
+    },
+    {
+      "album": {
+        "name": "Dirhams",
+        "url": "https://open.spotify.com/album/6e96LqObXcfJ0tQR4s7v6l"
+      },
+      "artists": [
+        {
+          "name": "Al Safir",
+          "url": "https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl"
+        },
+        {
+          "name": "Richie Rasheed",
+          "url": "https://open.spotify.com/artist/2ZihhBbiQVBJBngpjh0POI"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173363,
+      "name": "Dirhams",
+      "url": "https://open.spotify.com/track/4XSznOmC2LEQsqlvEpCGnF"
     },
     {
       "album": {
@@ -9472,7 +9534,7 @@
       ],
       "date_added": "2023-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 185583,
       "name": "Te Dir\u00eda",
       "url": "https://open.spotify.com/track/2nPt4HyshAzcCkH1GUjE7R"

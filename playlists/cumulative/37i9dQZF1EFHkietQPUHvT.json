@@ -1226,6 +1226,24 @@
     {
       "album": {
         "name": "So What?",
+        "url": "https://open.spotify.com/album/55Ur0PitFeUS67xqx8bajK"
+      },
+      "artists": [
+        {
+          "name": "Saibh Skelly",
+          "url": "https://open.spotify.com/artist/5W6LDY0Fa5qK8fbDTe58Kq"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164147,
+      "name": "So What?",
+      "url": "https://open.spotify.com/track/2GpUdjibaWYHpykqgKLfGW"
+    },
+    {
+      "album": {
+        "name": "So What?",
         "url": "https://open.spotify.com/album/7usvzO394IoZs6wRmO0ysZ"
       },
       "artists": [
@@ -1236,7 +1254,7 @@
       ],
       "date_added": "2024-02-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 164147,
       "name": "So What?",
       "url": "https://open.spotify.com/track/2Q5VYvBaOm66kYLpSMrBRo"

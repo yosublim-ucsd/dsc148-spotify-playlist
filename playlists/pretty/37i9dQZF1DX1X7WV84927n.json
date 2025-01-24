@@ -1,6 +1,6 @@
 {
   "description": "For full-volume lovers. Cover: Conquer Divide",
-  "num_followers": 382401,
+  "num_followers": 382578,
   "original_name": "Hard Rock",
   "owner": {
     "name": "Spotify",
@@ -655,6 +655,22 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
+        "name": "Glass Shatters (New Mix)",
+        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
+      },
+      "artists": [
+        {
+          "name": "Disturbed",
+          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
+        }
+      ],
+      "duration_ms": 244397,
+      "name": "Glass Shatters - New Mix",
+      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
         "name": "MAD (feat. Ice Nine Kills)",
         "url": "https://open.spotify.com/album/1cq46UBmCPIp95rPFpW82j"
       },
@@ -711,22 +727,6 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "nerv",
-        "url": "https://open.spotify.com/album/1wEIPoFfCdeo6Bpnxlc9ao"
-      },
-      "artists": [
-        {
-          "name": "Thornhill",
-          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
-        }
-      ],
-      "duration_ms": 192611,
-      "name": "nerv",
-      "url": "https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
         "name": "new way out",
         "url": "https://open.spotify.com/album/5O5jhPYHp94APEJRWR9XSD"
       },
@@ -739,6 +739,22 @@
       "duration_ms": 202909,
       "name": "new way out",
       "url": "https://open.spotify.com/track/7rQeehJRFCNTwqDffP8c5t"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
+        "name": "nerv",
+        "url": "https://open.spotify.com/album/1wEIPoFfCdeo6Bpnxlc9ao"
+      },
+      "artists": [
+        {
+          "name": "Thornhill",
+          "url": "https://open.spotify.com/artist/2dE5audbkV3o5cKxvM7lBD"
+        }
+      ],
+      "duration_ms": 192611,
+      "name": "nerv",
+      "url": "https://open.spotify.com/track/6afGaR18TADZIVfNhcsNe4"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -775,22 +791,6 @@
       "duration_ms": 269583,
       "name": "Floods of Triton",
       "url": "https://open.spotify.com/track/08IpZZZPvzDMED3oq9F8Or"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Glass Shatters (New Mix)",
-        "url": "https://open.spotify.com/album/4TKXfpJci8trGIJcmzPXEv"
-      },
-      "artists": [
-        {
-          "name": "Disturbed",
-          "url": "https://open.spotify.com/artist/3TOqt5oJwL9BE2NG9MEwDa"
-        }
-      ],
-      "duration_ms": 244397,
-      "name": "Glass Shatters - New Mix",
-      "url": "https://open.spotify.com/track/0WyyWao1PN1huUWHb1Sz0h"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1003,18 +1003,22 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Long Gone",
-        "url": "https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc"
+        "name": "7 Minutes in Hell",
+        "url": "https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX"
       },
       "artists": [
         {
-          "name": "Superheaven",
-          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+          "name": "Chrissy Costanza",
+          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
+        },
+        {
+          "name": "VOIL\u00c0",
+          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
         }
       ],
-      "duration_ms": 211999,
-      "name": "Long Gone",
-      "url": "https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR"
+      "duration_ms": 186000,
+      "name": "7 Minutes in Hell",
+      "url": "https://open.spotify.com/track/0n59ZBDoWijyJezvnA13cl"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1035,6 +1039,22 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
+        "name": "Long Gone",
+        "url": "https://open.spotify.com/album/7IyWrMFgNHZjbtSJhNn9cc"
+      },
+      "artists": [
+        {
+          "name": "Superheaven",
+          "url": "https://open.spotify.com/artist/1IHjrY7ygKbmLVoUV1VcXc"
+        }
+      ],
+      "duration_ms": 211999,
+      "name": "Long Gone",
+      "url": "https://open.spotify.com/track/1JqovbqNQa5deYzyNsy7nR"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
         "name": "What Remains",
         "url": "https://open.spotify.com/album/2NECnxiVMw84QBLNlm6x42"
       },
@@ -1047,26 +1067,6 @@
       "duration_ms": 217040,
       "name": "What Remains",
       "url": "https://open.spotify.com/track/7rqfCQ0Uw6qyztM4rKjKs0"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "7 Minutes in Hell",
-        "url": "https://open.spotify.com/album/06F5oVa8NEp8ABHMhDhbiX"
-      },
-      "artists": [
-        {
-          "name": "Chrissy Costanza",
-          "url": "https://open.spotify.com/artist/2zmjYl582zO64LcLQtOEuv"
-        },
-        {
-          "name": "VOIL\u00c0",
-          "url": "https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD"
-        }
-      ],
-      "duration_ms": 186000,
-      "name": "7 Minutes in Hell",
-      "url": "https://open.spotify.com/track/0n59ZBDoWijyJezvnA13cl"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
+        "name": "Pulling Teeth",
+        "url": "https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ"
+      },
+      "artists": [
+        {
+          "name": "House of Protection",
+          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+        }
+      ],
+      "duration_ms": 200500,
+      "name": "Pulling Teeth",
+      "url": "https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
         "name": "Time Bomb",
         "url": "https://open.spotify.com/album/3TdQFqyf8tha9pYeyiCVAP"
       },
@@ -1251,18 +1267,18 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Pulling Teeth",
-        "url": "https://open.spotify.com/album/3BuOFn2XjZ8Pq1A3tRrRDJ"
+        "name": "Dragonborn",
+        "url": "https://open.spotify.com/album/0OnqzEEMsXMiRKL3je3SHi"
       },
       "artists": [
         {
-          "name": "House of Protection",
-          "url": "https://open.spotify.com/artist/6fb3I3Q54izgnOMtiZbOBA"
+          "name": "Jeris Johnson",
+          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
         }
       ],
-      "duration_ms": 200500,
-      "name": "Pulling Teeth",
-      "url": "https://open.spotify.com/track/6QZWoi81G0nHKn8n1oFtaa"
+      "duration_ms": 196981,
+      "name": "The Story Of Our Lives",
+      "url": "https://open.spotify.com/track/3EIH4AJu0eGSVNp768Mrb6"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1295,22 +1311,6 @@
       "duration_ms": 191746,
       "name": "(Make My) Country Rock - Harder",
       "url": "https://open.spotify.com/track/2VLXWFJpLcQvAXf4xLgilI"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Dragonborn",
-        "url": "https://open.spotify.com/album/0OnqzEEMsXMiRKL3je3SHi"
-      },
-      "artists": [
-        {
-          "name": "Jeris Johnson",
-          "url": "https://open.spotify.com/artist/2hmePXeTr2b7cdRAtRjvPq"
-        }
-      ],
-      "duration_ms": 196981,
-      "name": "The Story Of Our Lives",
-      "url": "https://open.spotify.com/track/3EIH4AJu0eGSVNp768Mrb6"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "M.O.N.S.T.E.R",
-        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
-      },
-      "artists": [
-        {
-          "name": "Escape the Fate",
-          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
-        }
-      ],
-      "duration_ms": 216116,
-      "name": "M.O.N.S.T.E.R",
-      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
         "name": "Out Of Style",
         "url": "https://open.spotify.com/album/2dOHtZj4IbrB2mmcEexXE1"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 205897,
       "name": "Out Of Style",
       "url": "https://open.spotify.com/track/2o7UpMFIBWzHIRK3Ej2H6k"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
+        "name": "M.O.N.S.T.E.R",
+        "url": "https://open.spotify.com/album/2JGSSMxecWt7iAVsAN9asn"
+      },
+      "artists": [
+        {
+          "name": "Escape the Fate",
+          "url": "https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum"
+        }
+      ],
+      "duration_ms": 216116,
+      "name": "M.O.N.S.T.E.R",
+      "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1559,6 +1559,22 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
+        "name": "Arcane",
+        "url": "https://open.spotify.com/album/7flZpeGykp1XXbK82FfGs2"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 216200,
+      "name": "Arcane",
+      "url": "https://open.spotify.com/track/0bDXKUQvhUYVhR1sRpLlIV"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
         "name": "Attempted Lover (Deluxe)",
         "url": "https://open.spotify.com/album/6a26AqzsU7w3hNkd2WIScs"
       },
@@ -1571,26 +1587,6 @@
       "duration_ms": 151137,
       "name": "Happiest",
       "url": "https://open.spotify.com/track/3AIttZ1HiYYA8RgjCzMEYS"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Demon or Ghost (feat. Underoath)",
-        "url": "https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb"
-      },
-      "artists": [
-        {
-          "name": "Mitchell Tenpenny",
-          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
-        },
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 215813,
-      "name": "Demon or Ghost (feat. Underoath)",
-      "url": "https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1615,6 +1611,26 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
+        "name": "Demon or Ghost (feat. Underoath)",
+        "url": "https://open.spotify.com/album/6cc0bvYtCxY9nLvAsL7nPb"
+      },
+      "artists": [
+        {
+          "name": "Mitchell Tenpenny",
+          "url": "https://open.spotify.com/artist/1p6CdzJRoicjRcSdWoB9Qc"
+        },
+        {
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
+        }
+      ],
+      "duration_ms": 215813,
+      "name": "Demon or Ghost (feat. Underoath)",
+      "url": "https://open.spotify.com/track/6y6hE35ltgZIBXQFIwkIso"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
         "name": "Get Your Shit Together",
         "url": "https://open.spotify.com/album/5tASzwzWZKyQJM3OgZ1SNw"
       },
@@ -1627,22 +1643,6 @@
       "duration_ms": 280980,
       "name": "Get Your Shit Together",
       "url": "https://open.spotify.com/track/31RcxIY2Wiwd1U0dOZR2Mr"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Generation No Surrender",
-        "url": "https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg"
-      },
-      "artists": [
-        {
-          "name": "Underoath",
-          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
-        }
-      ],
-      "duration_ms": 167354,
-      "name": "Generation No Surrender",
-      "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Arcane",
-        "url": "https://open.spotify.com/album/7flZpeGykp1XXbK82FfGs2"
+        "name": "Generation No Surrender",
+        "url": "https://open.spotify.com/album/46uKakXDeGMIzzaX2PliWg"
       },
       "artists": [
         {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+          "name": "Underoath",
+          "url": "https://open.spotify.com/artist/3GzWhE2xadJiW8MqRKIVSK"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Arcane",
-      "url": "https://open.spotify.com/track/0bDXKUQvhUYVhR1sRpLlIV"
+      "duration_ms": 167354,
+      "name": "Generation No Surrender",
+      "url": "https://open.spotify.com/track/4Vd5X89c6WI2WVAxIpskzi"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1715,6 +1715,22 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
+        "name": "Live Not Fantasize",
+        "url": "https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd"
+      },
+      "artists": [
+        {
+          "name": "Tetrarch",
+          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
+        }
+      ],
+      "duration_ms": 179760,
+      "name": "Live Not Fantasize",
+      "url": "https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
         "name": "High Stakes",
         "url": "https://open.spotify.com/album/4TUmco5xx8GSJ0Rwm39oQ2"
       },
@@ -1731,22 +1747,6 @@
       "duration_ms": 205159,
       "name": "High Stakes",
       "url": "https://open.spotify.com/track/2J2iIecwVAjZPzlJubdAgD"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Live Not Fantasize",
-        "url": "https://open.spotify.com/album/0dAmRCTF5ttwY18K4eWWbd"
-      },
-      "artists": [
-        {
-          "name": "Tetrarch",
-          "url": "https://open.spotify.com/artist/5e43m4iYsZF54tHcJNAVU2"
-        }
-      ],
-      "duration_ms": 179760,
-      "name": "Live Not Fantasize",
-      "url": "https://open.spotify.com/track/3asgs3iJWKVpTVUz8m7wVs"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1783,18 +1783,18 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "This World Fucking Sucks",
-        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+        "name": "Mend",
+        "url": "https://open.spotify.com/album/3HcKNLwUqCrMcX0fqqkp7W"
       },
       "artists": [
         {
-          "name": "Cassyette",
-          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+          "name": "Eidola",
+          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
         }
       ],
-      "duration_ms": 162013,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
+      "duration_ms": 236674,
+      "name": "Revelation: The Infinite Beauty Of Oneness",
+      "url": "https://open.spotify.com/track/71U2oAgK3YRWsSG1Lz9NGa"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1815,6 +1815,22 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
+        "name": "This World Fucking Sucks",
+        "url": "https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B"
+      },
+      "artists": [
+        {
+          "name": "Cassyette",
+          "url": "https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A"
+        }
+      ],
+      "duration_ms": 162013,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
         "name": "Turn to Stone",
         "url": "https://open.spotify.com/album/2YuEHMRmO00RnXo7duJoV0"
       },
@@ -1827,26 +1843,6 @@
       "duration_ms": 187363,
       "name": "Turn to Stone",
       "url": "https://open.spotify.com/track/26yio6wSf4RziarIle54cY"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Sincerity",
-        "url": "https://open.spotify.com/album/1uNfPU36BemCmrO2BTnHbE"
-      },
-      "artists": [
-        {
-          "name": "Butcher Babies",
-          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 213493,
-      "name": "Sincerity",
-      "url": "https://open.spotify.com/track/32epANLwQ0112iterEB94m"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1867,6 +1863,26 @@
       "duration_ms": 225881,
       "name": "Better Days (feat. Dorothy)",
       "url": "https://open.spotify.com/track/3qYVgtSRgpfVwipxF52d4T"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
+        "name": "Sincerity",
+        "url": "https://open.spotify.com/album/1uNfPU36BemCmrO2BTnHbE"
+      },
+      "artists": [
+        {
+          "name": "Butcher Babies",
+          "url": "https://open.spotify.com/artist/6FcvjJzvxgybo7Ywsj0hRj"
+        },
+        {
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        }
+      ],
+      "duration_ms": 213493,
+      "name": "Sincerity",
+      "url": "https://open.spotify.com/track/32epANLwQ0112iterEB94m"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1911,22 +1927,6 @@
       "duration_ms": 184311,
       "name": "CONTROL",
       "url": "https://open.spotify.com/track/4acG72pZiM3tSkqbf19xdB"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Mend",
-        "url": "https://open.spotify.com/album/3HcKNLwUqCrMcX0fqqkp7W"
-      },
-      "artists": [
-        {
-          "name": "Eidola",
-          "url": "https://open.spotify.com/artist/3z8aGzEIL6yA1mFXNFf9E3"
-        }
-      ],
-      "duration_ms": 236674,
-      "name": "Revelation: The Infinite Beauty Of Oneness",
-      "url": "https://open.spotify.com/track/71U2oAgK3YRWsSG1Lz9NGa"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -1979,18 +1979,18 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "CREATURE",
-        "url": "https://open.spotify.com/album/0KokicU0uLPi9B3kPjxM0Z"
+        "name": "I'm Not Dying To Be Here",
+        "url": "https://open.spotify.com/album/38QYjYk8Th23g27sTaWvKn"
       },
       "artists": [
         {
-          "name": "SICK PUPPIES",
-          "url": "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
+          "name": "Split Chain",
+          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
         }
       ],
-      "duration_ms": 227119,
-      "name": "CREATURE",
-      "url": "https://open.spotify.com/track/5Uezpl42ACeI9I3GWnVWtY"
+      "duration_ms": 204118,
+      "name": "I'm Not Dying To Be Here",
+      "url": "https://open.spotify.com/track/3KtbuP205Bjvseg2oSIIdp"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -2011,6 +2011,22 @@
       "duration_ms": 179361,
       "name": "Loneliness",
       "url": "https://open.spotify.com/track/20nsiZn8teC5v8V5j2g8Bz"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
+        "name": "CREATURE",
+        "url": "https://open.spotify.com/album/0KokicU0uLPi9B3kPjxM0Z"
+      },
+      "artists": [
+        {
+          "name": "SICK PUPPIES",
+          "url": "https://open.spotify.com/artist/7qAcXJgt1PWnxwUgxMdyuk"
+        }
+      ],
+      "duration_ms": 227119,
+      "name": "CREATURE",
+      "url": "https://open.spotify.com/track/5Uezpl42ACeI9I3GWnVWtY"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -2071,22 +2087,6 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "I'm Not Dying To Be Here",
-        "url": "https://open.spotify.com/album/38QYjYk8Th23g27sTaWvKn"
-      },
-      "artists": [
-        {
-          "name": "Split Chain",
-          "url": "https://open.spotify.com/artist/5J0ehnVK9YOBGWOwE022ar"
-        }
-      ],
-      "duration_ms": 204118,
-      "name": "I'm Not Dying To Be Here",
-      "url": "https://open.spotify.com/track/3KtbuP205Bjvseg2oSIIdp"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
         "name": "Death by a Thousand Cuts (Feat. Lucas Woodland)",
         "url": "https://open.spotify.com/album/7t6lpHcNeLELIK4kuygGXg"
       },
@@ -2143,6 +2143,22 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
+        "name": "Can't Put Out the Fire",
+        "url": "https://open.spotify.com/album/04hERRotffJJgN6S5Dadey"
+      },
+      "artists": [
+        {
+          "name": "Thundermother",
+          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+        }
+      ],
+      "duration_ms": 196026,
+      "name": "Can't Put Out the Fire",
+      "url": "https://open.spotify.com/track/4l1riVSKc7WJBw2zxdFh90"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
         "name": "Here's To The Years",
         "url": "https://open.spotify.com/album/4rDmjLJ0zzV6HNEF53rEPu"
       },
@@ -2175,18 +2191,18 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Can't Put Out the Fire",
-        "url": "https://open.spotify.com/album/04hERRotffJJgN6S5Dadey"
+        "name": "Home Improvement",
+        "url": "https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK"
       },
       "artists": [
         {
-          "name": "Thundermother",
-          "url": "https://open.spotify.com/artist/18jTFcgHRRYHdwdof1MDZw"
+          "name": "The Red Jumpsuit Apparatus",
+          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
         }
       ],
-      "duration_ms": 196026,
-      "name": "Can't Put Out the Fire",
-      "url": "https://open.spotify.com/track/4l1riVSKc7WJBw2zxdFh90"
+      "duration_ms": 175485,
+      "name": "Home Improvement",
+      "url": "https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -2203,22 +2219,6 @@
       "duration_ms": 213400,
       "name": "Searching for Tomorrow",
       "url": "https://open.spotify.com/track/4E3b7CJ5c8ZzyAeqrV1mdV"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
-        "name": "Home Improvement",
-        "url": "https://open.spotify.com/album/31zpQaCjaxluAa2KPHACYK"
-      },
-      "artists": [
-        {
-          "name": "The Red Jumpsuit Apparatus",
-          "url": "https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo"
-        }
-      ],
-      "duration_ms": 175485,
-      "name": "Home Improvement",
-      "url": "https://open.spotify.com/track/0fjIk7DXmHlPFjzP6yjQAW"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -2271,18 +2271,18 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Everything Is A Cult",
-        "url": "https://open.spotify.com/album/0xaE19kvWBnbJZj3ApxwSz"
+        "name": "Adrenaline",
+        "url": "https://open.spotify.com/album/3WBDEQI5gMkdueEQqeQ2hn"
       },
       "artists": [
         {
-          "name": "Hinder",
-          "url": "https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY"
+          "name": "Finger Eleven",
+          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
         }
       ],
-      "duration_ms": 203086,
-      "name": "Everything Is A Cult",
-      "url": "https://open.spotify.com/track/3Iz2maejf44VizLxMtBC9R"
+      "duration_ms": 204869,
+      "name": "Adrenaline",
+      "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -2303,18 +2303,18 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Adrenaline",
-        "url": "https://open.spotify.com/album/3WBDEQI5gMkdueEQqeQ2hn"
+        "name": "Everything Is A Cult",
+        "url": "https://open.spotify.com/album/0xaE19kvWBnbJZj3ApxwSz"
       },
       "artists": [
         {
-          "name": "Finger Eleven",
-          "url": "https://open.spotify.com/artist/0niJkG4tKkne3zwr7I8n9n"
+          "name": "Hinder",
+          "url": "https://open.spotify.com/artist/6BMhCQJYHxxKAeqYS1p5rY"
         }
       ],
-      "duration_ms": 204869,
-      "name": "Adrenaline",
-      "url": "https://open.spotify.com/track/7e1x3ozyFOOe77bdYuNg3k"
+      "duration_ms": 203086,
+      "name": "Everything Is A Cult",
+      "url": "https://open.spotify.com/track/3Iz2maejf44VizLxMtBC9R"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Azalia",
-        "url": "https://open.spotify.com/album/58gdrvG34uT213iCHV2sTh"
-      },
-      "artists": [
-        {
-          "name": "Eric Bass Presents",
-          "url": "https://open.spotify.com/artist/7I0523g62kTHHZIes42btq"
-        }
-      ],
-      "duration_ms": 260239,
-      "name": "Azalia",
-      "url": "https://open.spotify.com/track/0KgEnjUYzM9tdkrqocGKbU"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
         "name": "Perfect World",
         "url": "https://open.spotify.com/album/3V8wl5gn1hXGQQC4SgbuA1"
       },
@@ -2443,18 +2427,18 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Breathe You In",
-        "url": "https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc"
+        "name": "Azalia",
+        "url": "https://open.spotify.com/album/58gdrvG34uT213iCHV2sTh"
       },
       "artists": [
         {
-          "name": "Lauren Babic",
-          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+          "name": "Eric Bass Presents",
+          "url": "https://open.spotify.com/artist/7I0523g62kTHHZIes42btq"
         }
       ],
-      "duration_ms": 220710,
-      "name": "Breathe You In",
-      "url": "https://open.spotify.com/track/680R0ratdk9o2M6nko18GG"
+      "duration_ms": 260239,
+      "name": "Azalia",
+      "url": "https://open.spotify.com/track/0KgEnjUYzM9tdkrqocGKbU"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -2471,6 +2455,22 @@
       "duration_ms": 199334,
       "name": "Bad Behavior",
       "url": "https://open.spotify.com/track/0yaRBGoeOXAwCt6dnpUPnr"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
+        "name": "Breathe You In",
+        "url": "https://open.spotify.com/album/4tEKPkZKnt44d7hRQHLBfc"
+      },
+      "artists": [
+        {
+          "name": "Lauren Babic",
+          "url": "https://open.spotify.com/artist/6nT7RjBCuuggrafnb43vUX"
+        }
+      ],
+      "duration_ms": 220710,
+      "name": "Breathe You In",
+      "url": "https://open.spotify.com/track/680R0ratdk9o2M6nko18GG"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "Paralyzed",
-        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
-      },
-      "artists": [
-        {
-          "name": "Lenny Kravitz",
-          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
-        }
-      ],
-      "duration_ms": 268421,
-      "name": "Paralyzed",
-      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
-    },
-    {
-      "added_at": "2025-01-17 05:00:50",
-      "album": {
         "name": "Say What You Will",
         "url": "https://open.spotify.com/album/7gSyu9jMUqHOFYXeKtOSfB"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 213580,
       "name": "Say What You Will",
       "url": "https://open.spotify.com/track/6Q47FSXfau9Adh1qmFFmyb"
+    },
+    {
+      "added_at": "2025-01-17 05:00:50",
+      "album": {
+        "name": "Paralyzed",
+        "url": "https://open.spotify.com/album/1CBaF78AkVYS2S3PufMKgl"
+      },
+      "artists": [
+        {
+          "name": "Lenny Kravitz",
+          "url": "https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7"
+        }
+      ],
+      "duration_ms": 268421,
+      "name": "Paralyzed",
+      "url": "https://open.spotify.com/track/6PKxJG1HapLGNqaKoRaIq4"
     },
     {
       "added_at": "2025-01-17 05:00:50",
@@ -2599,18 +2599,18 @@
     {
       "added_at": "2025-01-17 05:00:50",
       "album": {
-        "name": "let me go",
-        "url": "https://open.spotify.com/album/3yo5jIJkFWGdRgYpoyDYx4"
+        "name": "Inner Darkness",
+        "url": "https://open.spotify.com/album/2FgZ9LfQxQfUPGhHYtFTTG"
       },
       "artists": [
         {
-          "name": "Twiztid",
-          "url": "https://open.spotify.com/artist/2aMAN8kMJ7eUOAuPUYOwI7"
+          "name": "10 Years",
+          "url": "https://open.spotify.com/artist/0REMf7H0VP6DwfZ9MbuWph"
         }
       ],
-      "duration_ms": 296293,
-      "name": "let me go",
-      "url": "https://open.spotify.com/track/2u5Ci6n855ARF9NMGfn2qD"
+      "duration_ms": 320424,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6xJgwxAvkxGC2Oi8BbYlXx"
     }
   ],
   "unique_name": "Hard Rock",

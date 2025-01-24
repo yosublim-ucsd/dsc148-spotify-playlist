@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 
 > bgl é ser original, vocês já sabem\. Foto: Nebrugg
 
-[Spotify](https://open.spotify.com/user/spotify) - 145,475 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 145,484 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT22037si3kl.md) - [plain]
 | 44 | [Jovem Príncipe \- Remix](https://open.spotify.com/track/1Ky0nJZ03ZH3Y50uD4gvek) | [Magrão AllFavela](https://open.spotify.com/artist/1TBurupOpaxZ5iA4uMXEo1), [Greezy](https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB), [WinniT](https://open.spotify.com/artist/6n0tzdjsS4IdfDRVsigdTy), [Nego Max](https://open.spotify.com/artist/4vhqJq13FVSNiYEyXqt2g8) | [Mixtape Novset, Vol\. 1](https://open.spotify.com/album/7kcsgu8mvNtnM9DUoMg2U6) | 3:04 |
 | 45 | [Aflição](https://open.spotify.com/track/6Yps5PS3dKGOcw6Cz1auQ7) | [DEGE](https://open.spotify.com/artist/3lrVtMWQakf49Evasc4FFW), [PL Quest](https://open.spotify.com/artist/6J6U2JAv7LUF0cSQ98gpjM), [Melt77](https://open.spotify.com/artist/4blEXHFmoAIonpnLwxSsxX) | [A Vida De Um Gângster](https://open.spotify.com/album/40r2yxY7QDckz6rJfhJq77) | 3:50 |
 | 46 | [Vivência de Cria](https://open.spotify.com/track/4LTnZKjV7zhuSGqB3kfXbI) | [FJOTA](https://open.spotify.com/artist/2EaN7Ag32d6Cfh2qldaKwW), [Bruxo 021](https://open.spotify.com/artist/3yofl1khzdO4vkH6tyMg0t), [Jhowzin](https://open.spotify.com/artist/5l8uNQWdIozojTbL2tzBa7), [$pace](https://open.spotify.com/artist/4111UMyHQHJtS1fUl2477F), [Ar Baby](https://open.spotify.com/artist/2AT3153fquK7QLZYfOLi9K), [Prod.MTS](https://open.spotify.com/artist/2Rw9NDTCadNKWenlBo4FJN), [Fxbin](https://open.spotify.com/artist/1joea7bjTfUwH9ywyXGjgR) | [Vivência de Cria](https://open.spotify.com/album/1dxPFh5HYhiSeyOy006uTj) | 3:26 |
-| 47 | [Esqueceu seu brinco](https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Limera](https://open.spotify.com/artist/32aiEjeXmvipOPMb2iPvnt), [Levi Menezes](https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti) | [Esqueceu seu brinco](https://open.spotify.com/album/1lA4uaxmHZMVzqCJrHiIdZ) | 4:44 |
-| 48 | [Ratos](https://open.spotify.com/track/5VVLXmNckkYhRdM0iN5Phj) | [Cinquenta](https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb) | [Ratos](https://open.spotify.com/album/1sKNUmYdg7njXd3laBtAQn) | 3:43 |
+| 47 | [Ratos](https://open.spotify.com/track/5VVLXmNckkYhRdM0iN5Phj) | [Cinquenta](https://open.spotify.com/artist/1yR2jw1EdzSx6I2SCIWoSb) | [Ratos](https://open.spotify.com/album/1sKNUmYdg7njXd3laBtAQn) | 3:43 |
+| 48 | [Esqueceu seu brinco](https://open.spotify.com/track/6aDQLyjCmj6Bb8apW0v8KF) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB), [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [Limera](https://open.spotify.com/artist/32aiEjeXmvipOPMb2iPvnt), [Levi Menezes](https://open.spotify.com/artist/4m1Mj4V2sNYg5vmEzff8ti) | [Esqueceu seu brinco](https://open.spotify.com/album/1lA4uaxmHZMVzqCJrHiIdZ) | 4:44 |
 | 49 | [Cheiro de Sexo](https://open.spotify.com/track/2cfUQw6GgAn50VNCcH1th4) | [Tz da Coronel](https://open.spotify.com/artist/3lIU3RoZiHen1QXAQ3KQ9e), [meLLo](https://open.spotify.com/artist/5e9fQ7H6ynkMPiZM2ADQDm), [Cúpula](https://open.spotify.com/artist/6IlN4Mij49rPYznzeOMD1F) | [Dacoromode](https://open.spotify.com/album/4wsh2d30QdwnFQLEpSkXKz) | 2:28 |
 | 50 | [Swag](https://open.spotify.com/track/0v5HhbntjubGPa26rzVwng) | [N.A.N.A.](https://open.spotify.com/artist/4W7msxIdip7RH18eBaToND), [mavyrmldy](https://open.spotify.com/artist/2IRkwjCv3xnnHkEre05AZB) | [Swag](https://open.spotify.com/album/3HuHFwDo6wd9T26xXVaau4) | 2:12 |
 

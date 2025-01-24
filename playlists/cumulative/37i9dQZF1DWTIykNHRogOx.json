@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Voyou",
+  "description": "Les  meilleures nouveaut\u00e9s de la chanson fran\u00e7aise. Photo : Solann",
   "name": "Exception Fran\u00e7aise",
   "tracks": [
     {
@@ -64,6 +64,24 @@
       "duration_ms": 161458,
       "name": "Aigu",
       "url": "https://open.spotify.com/track/5u1VPJQClnBXgoGuNsCSjP"
+    },
+    {
+      "album": {
+        "name": "prot\u00e9g\u00e9.e",
+        "url": "https://open.spotify.com/album/2Ln0FleqHp6UcFW0o2EY0q"
+      },
+      "artists": [
+        {
+          "name": "Terrenoire",
+          "url": "https://open.spotify.com/artist/6AiHXHMryCtGFBEnjB17aA"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247813,
+      "name": "alma",
+      "url": "https://open.spotify.com/track/1s6kke7dkGw3VfU4Zq9Mg8"
     },
     {
       "album": {
@@ -263,6 +281,24 @@
     },
     {
       "album": {
+        "name": "Chevaleresse",
+        "url": "https://open.spotify.com/album/3c36IcRSFD58b9daUvhIXl"
+      },
+      "artists": [
+        {
+          "name": "Babx",
+          "url": "https://open.spotify.com/artist/7MCsMOkbdDHqJ4WAGuXdDZ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229520,
+      "name": "Chevaleresse",
+      "url": "https://open.spotify.com/track/6XBHQyX3Xwvluxwwv6HEnz"
+    },
+    {
+      "album": {
         "name": "Contre-c\u0153ur",
         "url": "https://open.spotify.com/album/0NgRqhtpe32D07BGbdxTAR"
       },
@@ -368,7 +404,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 211345,
       "name": "Dormir en cuill\u00e8re",
       "url": "https://open.spotify.com/track/62C3xySr6Q3NWFSsHhZhF9"
@@ -927,6 +963,24 @@
     },
     {
       "album": {
+        "name": "Si on sombre ce sera beau",
+        "url": "https://open.spotify.com/album/3F6QXyRhmIV75vrrcE7Qdv"
+      },
+      "artists": [
+        {
+          "name": "Solann",
+          "url": "https://open.spotify.com/artist/17u6mMCLx4RTzjIKRaTRIv"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181986,
+      "name": "L'oiseau",
+      "url": "https://open.spotify.com/track/50FrNM0qlOykUxfAIaYL2f"
+    },
+    {
+      "album": {
         "name": "OCEANO NOXX (Nouvelle \u00e9dition)",
         "url": "https://open.spotify.com/album/1snFVyVzC1p0eDlyXRR1l1"
       },
@@ -1307,6 +1361,24 @@
     },
     {
       "album": {
+        "name": "R\u00eaveur, R\u00eaveur",
+        "url": "https://open.spotify.com/album/3kqttZxgp69ma3RYmscTdB"
+      },
+      "artists": [
+        {
+          "name": "Louis Chedid",
+          "url": "https://open.spotify.com/artist/2rBb2WwvpcIHNiofmw22vn"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194973,
+      "name": "Les battements du c\u0153ur",
+      "url": "https://open.spotify.com/track/67K5HMqmUyVflF3xjQ5MpZ"
+    },
+    {
+      "album": {
         "name": "Les derniers jours de pluies (Edit version)",
         "url": "https://open.spotify.com/album/31hyMyNSBb4Sc3qCvNPJwT"
       },
@@ -1484,7 +1556,7 @@
       ],
       "date_added": "2024-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 241880,
       "name": "Marcher droit",
       "url": "https://open.spotify.com/track/5QcbSS53QWUHTiKDYBHuHM"
@@ -1776,7 +1848,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 237933,
       "name": "Quelques centimes",
       "url": "https://open.spotify.com/track/1oUatsJ6OTgHVAyfyl5In2"
@@ -1852,7 +1924,7 @@
       ],
       "date_added": "2024-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 190626,
       "name": "Romance",
       "url": "https://open.spotify.com/track/0cgQ3ayZhU7YVGYPzKn077"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-07",
-  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp?si=Yh8exV6QReuTXE7UgQk5Mw>Mercy Chinwo</a>",
+  "description": "Raise a voice and testify the goodness of God.  Cover:  <a href=https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn?si=f0_bnzClQTq5mjpfCku6_w>Neon Adejo</a>",
   "name": "Testify",
   "tracks": [
     {
@@ -3128,7 +3128,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 354572,
       "name": "Imela (feat. Enitan Adaba)",
       "url": "https://open.spotify.com/track/50OHI0yJ1ti2jTWySMz6jY"
@@ -6614,6 +6614,24 @@
       "duration_ms": 318857,
       "name": "Your Mercies",
       "url": "https://open.spotify.com/track/5JUVnZgo4FtVE4C2UlhIAH"
+    },
+    {
+      "album": {
+        "name": "\u00c0\u00e1n\u00fa / Here By Mercy",
+        "url": "https://open.spotify.com/album/7KxQwlSdCYbkR48iWm0ZAR"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462800,
+      "name": "\u00c0\u00e1n\u00fa (Live)",
+      "url": "https://open.spotify.com/track/5sgKNXUfwjMEKBGlTUXy9W"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DXbQX7bVSkxBy"

@@ -2,7 +2,7 @@
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\.  Cover: Knock2
+> Illuminating Asian artists everywhere\.  Cover: Japanese Breakfast
 
 990 songs - 2 day 3 hr 4 min
 

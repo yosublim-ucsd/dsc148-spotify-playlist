@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica refrescante, para vencer el calor.",
-  "num_followers": 121260,
+  "num_followers": 121295,
   "original_name": "Mi Terer\u00e9",
   "owner": {
     "name": "Spotify",
@@ -311,22 +311,18 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "El Gallo Rojo",
-        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
+        "name": "Rumbo a Tu Corazon",
+        "url": "https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ"
       },
       "artists": [
         {
-          "name": "Kchiporros",
-          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
-        },
-        {
-          "name": "Los Caligaris",
-          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
+          "name": "Rumberos",
+          "url": "https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn"
         }
       ],
-      "duration_ms": 155191,
-      "name": "El Gallo Rojo",
-      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
+      "duration_ms": 219611,
+      "name": "En La Luna Y En Marte",
+      "url": "https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ"
     },
     {
       "added_at": "2024-06-13 21:06:26",
@@ -347,18 +343,22 @@
     {
       "added_at": "2024-06-13 21:06:26",
       "album": {
-        "name": "Rumbo a Tu Corazon",
-        "url": "https://open.spotify.com/album/3ypyKq60YlA0bGQYGp5sDQ"
+        "name": "El Gallo Rojo",
+        "url": "https://open.spotify.com/album/1Yl7ncZUEE2OSmYE95RZOH"
       },
       "artists": [
         {
-          "name": "Rumberos",
-          "url": "https://open.spotify.com/artist/4y5cUwfnsyFAy23py47pbn"
+          "name": "Kchiporros",
+          "url": "https://open.spotify.com/artist/6bxlchoOipKgLaJKgoCzOZ"
+        },
+        {
+          "name": "Los Caligaris",
+          "url": "https://open.spotify.com/artist/13wFTN72PGSUxzEHJP5Ljs"
         }
       ],
-      "duration_ms": 219611,
-      "name": "En La Luna Y En Marte",
-      "url": "https://open.spotify.com/track/6kvruD8T7VanoOwdae5VZJ"
+      "duration_ms": 155191,
+      "name": "El Gallo Rojo",
+      "url": "https://open.spotify.com/track/6fofmRFBOcURZhv1erfaJ3"
     },
     {
       "added_at": "2024-06-13 21:06:26",

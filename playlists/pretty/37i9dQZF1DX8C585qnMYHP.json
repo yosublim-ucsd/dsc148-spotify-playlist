@@ -1,6 +1,6 @@
 {
   "description": "The best new music by Experimental independent artists and labels. Hiro Ama on cover. Artwork by Thami Nabil",
-  "num_followers": 184014,
+  "num_followers": 184066,
   "original_name": "Fresh Finds Experimental",
   "owner": {
     "name": "Spotify",
@@ -565,22 +565,6 @@
       "url": "https://open.spotify.com/track/2Pp3hN6Mg3Ob5ZJgCw3D6Q"
     },
     {
-      "added_at": "2024-10-25 06:00:00",
-      "album": {
-        "name": "Under the Sun",
-        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
-      },
-      "artists": [
-        {
-          "name": "Maya Shenfeld",
-          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
-        }
-      ],
-      "duration_ms": 477048,
-      "name": "Analemma",
-      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Familiar Flavours",
@@ -595,6 +579,22 @@
       "duration_ms": 260202,
       "name": "Familiar Flavours",
       "url": "https://open.spotify.com/track/5DahiVparbFG67nqloWPSL"
+    },
+    {
+      "added_at": "2024-10-25 06:00:00",
+      "album": {
+        "name": "Under the Sun",
+        "url": "https://open.spotify.com/album/3OHAImHp6jIoxy5sJjk02R"
+      },
+      "artists": [
+        {
+          "name": "Maya Shenfeld",
+          "url": "https://open.spotify.com/artist/1OMjA32UiPks2fQpMHU6DZ"
+        }
+      ],
+      "duration_ms": 477048,
+      "name": "Analemma",
+      "url": "https://open.spotify.com/track/7zbFaFcUpQvwPxMuGZTFch"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -703,6 +703,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "Nomad",
+        "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
+      },
+      "artists": [
+        {
+          "name": "Cavolo Nero",
+          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "Nomad",
+      "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "Souvenirs",
         "url": "https://open.spotify.com/album/1lrApbriCFLDx2Cof0lbxx"
       },
@@ -735,22 +751,6 @@
       "duration_ms": 205485,
       "name": "OH WAH (feat. NATURE)",
       "url": "https://open.spotify.com/track/2NB392VTggsHTnhRpfNl9r"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Nomad",
-        "url": "https://open.spotify.com/album/6QYMchWFthbYhRQNNaypBs"
-      },
-      "artists": [
-        {
-          "name": "Cavolo Nero",
-          "url": "https://open.spotify.com/artist/5ewSUyw8Gl9p38R1uxHuJU"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "Nomad",
-      "url": "https://open.spotify.com/track/5S82EFqseyysMtgTrMrW9K"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -833,22 +833,6 @@
       "url": "https://open.spotify.com/track/0lWQ6lUV7rjzFbKDdZLYnr"
     },
     {
-      "added_at": "2024-04-17 04:00:00",
-      "album": {
-        "name": "Are You There God? It\u2019s Me, @",
-        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 211320,
-      "name": "Webcrawler",
-      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
-    },
-    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "Selva",
@@ -863,6 +847,22 @@
       "duration_ms": 227212,
       "name": "Mata Hari",
       "url": "https://open.spotify.com/track/7wdoS8Tczz8wjhVjVsttIs"
+    },
+    {
+      "added_at": "2024-04-17 04:00:00",
+      "album": {
+        "name": "Are You There God? It\u2019s Me, @",
+        "url": "https://open.spotify.com/album/6hPdOR9ap5zByvKiKV6XRp"
+      },
+      "artists": [
+        {
+          "name": "@",
+          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
+        }
+      ],
+      "duration_ms": 211320,
+      "name": "Webcrawler",
+      "url": "https://open.spotify.com/track/4lNLdVzSRXbCHvH9UdAJgo"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1073,6 +1073,22 @@
       "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
     },
     {
+      "added_at": "2024-10-23 05:18:13",
+      "album": {
+        "name": "Oxido En El Espejo",
+        "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
+      },
+      "artists": [
+        {
+          "name": "Boundary",
+          "url": "https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS"
+        }
+      ],
+      "duration_ms": 283000,
+      "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
+      "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
+    },
+    {
       "added_at": "2024-12-04 12:15:00",
       "album": {
         "name": "A time to love, a time to die",
@@ -1103,22 +1119,6 @@
       "duration_ms": 312770,
       "name": "LA",
       "url": "https://open.spotify.com/track/2VTONdm0lAmxbCNDcuRrBV"
-    },
-    {
-      "added_at": "2024-10-23 05:18:13",
-      "album": {
-        "name": "Oxido En El Espejo",
-        "url": "https://open.spotify.com/album/05TIjD2VizBIseqZeGAS84"
-      },
-      "artists": [
-        {
-          "name": "Boundary",
-          "url": "https://open.spotify.com/artist/4CLh84k1pT9WmMC3hkJCiS"
-        }
-      ],
-      "duration_ms": 283000,
-      "name": "La Luna me Dijo Esto Detr\u00e1s del Puente",
-      "url": "https://open.spotify.com/track/28bX7nVpWmFjU6jG72adUf"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1353,22 +1353,6 @@
       "url": "https://open.spotify.com/track/6TvMOIcWQWIBEVtyWR1svc"
     },
     {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Unknown City",
-        "url": "https://open.spotify.com/album/5k23jNmflDH7hiCQ3KQco2"
-      },
-      "artists": [
-        {
-          "name": "SabaSaba",
-          "url": "https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV"
-        }
-      ],
-      "duration_ms": 194901,
-      "name": "Night Plotters",
-      "url": "https://open.spotify.com/track/6dmczsqgtAQ7O8PXX9vD0l"
-    },
-    {
       "added_at": "2024-04-03 15:21:45",
       "album": {
         "name": "L4TA",
@@ -1385,20 +1369,20 @@
       "url": "https://open.spotify.com/track/1iUlbWjRySPrE7OE8bqiFx"
     },
     {
-      "added_at": "2024-05-22 11:00:00",
+      "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "hope's return",
-        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+        "name": "Unknown City",
+        "url": "https://open.spotify.com/album/5k23jNmflDH7hiCQ3KQco2"
       },
       "artists": [
         {
-          "name": "Maral",
-          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+          "name": "SabaSaba",
+          "url": "https://open.spotify.com/artist/2z7dUCdzDEX1RhOwrxtlyV"
         }
       ],
-      "duration_ms": 103250,
-      "name": "hope's return",
-      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
+      "duration_ms": 194901,
+      "name": "Night Plotters",
+      "url": "https://open.spotify.com/track/6dmczsqgtAQ7O8PXX9vD0l"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1415,6 +1399,22 @@
       "duration_ms": 339125,
       "name": "Ros Elavy",
       "url": "https://open.spotify.com/track/7G7ZseAC0yA2tmojHC92no"
+    },
+    {
+      "added_at": "2024-05-22 11:00:00",
+      "album": {
+        "name": "hope's return",
+        "url": "https://open.spotify.com/album/27D5Tl2yAmBYE8Qoqb4Z9Q"
+      },
+      "artists": [
+        {
+          "name": "Maral",
+          "url": "https://open.spotify.com/artist/6wRHw4vjJkG1V3fmwBXRpG"
+        }
+      ],
+      "duration_ms": 103250,
+      "name": "hope's return",
+      "url": "https://open.spotify.com/track/33Go1mGHePH38jrBcd2CMd"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1515,6 +1515,22 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
+        "name": "WOW",
+        "url": "https://open.spotify.com/album/2uQB2kL4Nr8DxpuKIBYI8M"
+      },
+      "artists": [
+        {
+          "name": "Kate NV",
+          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+        }
+      ],
+      "duration_ms": 146680,
+      "name": "meow chat",
+      "url": "https://open.spotify.com/track/0PevRoduixzOwPe3Hgsheq"
+    },
+    {
+      "added_at": "2024-12-04 12:15:00",
+      "album": {
         "name": "r e u n i t e d",
         "url": "https://open.spotify.com/album/1MEdN1ZXdJZoYKypfcJhwi"
       },
@@ -1535,18 +1551,18 @@
     {
       "added_at": "2024-12-04 12:15:00",
       "album": {
-        "name": "WOW",
-        "url": "https://open.spotify.com/album/2uQB2kL4Nr8DxpuKIBYI8M"
+        "name": "Kalma Meli Melo",
+        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
       },
       "artists": [
         {
-          "name": "Kate NV",
-          "url": "https://open.spotify.com/artist/1OkYyMwTFtCIl6Jn664Xtx"
+          "name": "Ariel Kalma",
+          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
         }
       ],
-      "duration_ms": 146680,
-      "name": "meow chat",
-      "url": "https://open.spotify.com/track/0PevRoduixzOwPe3Hgsheq"
+      "duration_ms": 1202372,
+      "name": "Breathing Flute 88",
+      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
     },
     {
       "added_at": "2024-12-04 12:15:00",
@@ -1563,22 +1579,6 @@
       "duration_ms": 215712,
       "name": "Se clavan",
       "url": "https://open.spotify.com/track/2RvioZHnKUHGS3MwKUtZ4C"
-    },
-    {
-      "added_at": "2024-12-04 12:15:00",
-      "album": {
-        "name": "Kalma Meli Melo",
-        "url": "https://open.spotify.com/album/4U3bpg7JAD4k6hnORaIDRq"
-      },
-      "artists": [
-        {
-          "name": "Ariel Kalma",
-          "url": "https://open.spotify.com/artist/1XDHnXR3sd1pGoc7vqUtBq"
-        }
-      ],
-      "duration_ms": 1202372,
-      "name": "Breathing Flute 88",
-      "url": "https://open.spotify.com/track/2Y0qwp0ZwO9bTLjFLrddQp"
     },
     {
       "added_at": "2024-12-04 12:15:00",

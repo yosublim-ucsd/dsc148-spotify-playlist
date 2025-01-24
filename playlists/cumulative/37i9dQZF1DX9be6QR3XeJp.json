@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Rose Gray",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Esme Emerson",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -5064,6 +5064,24 @@
       "duration_ms": 178015,
       "name": "Tiny Screens",
       "url": "https://open.spotify.com/track/0P25VNpeP4L3NMOEMI68Yp"
+    },
+    {
+      "album": {
+        "name": "Too Far Gone",
+        "url": "https://open.spotify.com/album/2KCorvQcuU6SwQcQVcV7kk"
+      },
+      "artists": [
+        {
+          "name": "Esme Emerson",
+          "url": "https://open.spotify.com/artist/6Jaz8RyF3F9ktK4aVFgbTL"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185840,
+      "name": "Too Far Gone",
+      "url": "https://open.spotify.com/track/5F9T5JsuTugogBqM1rHCvG"
     },
     {
       "album": {

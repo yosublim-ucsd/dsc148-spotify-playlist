@@ -4,7 +4,7 @@
 
 > The hottest Hip\-Hop of today all over the world\. \(Cover: Central Cee, 21 Savage\)
 
-2,543 songs - 5 day 8 hr 45 min
+2,544 songs - 5 day 8 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1687,6 +1687,7 @@
 | [POP](https://open.spotify.com/track/2AYpDB111EoTeqzgDjweUg) | [A\. Nayaka](https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n), [ALYPH](https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj) | [Culture Shock](https://open.spotify.com/album/4Do76oHlxXCIfdZznscpBn) | 2:45 | 2023-11-09 | 2024-01-12 |
 | [POP IT](https://open.spotify.com/track/1oQxB04uhKjbbWUgr8kMKE) | [Yaung](https://open.spotify.com/artist/5brjWpkQWkAineD6T2Mx12) | [STORY TO BE TOLD](https://open.spotify.com/album/1tHrA5f17EVSpA7ZKsNQzs) | 2:59 | 2024-10-17 | 2024-11-22 |
 | [Pop Music \(feat\. Moneybagg Yo & Beatking\)](https://open.spotify.com/track/7562OP1Zx84xqrO5ECYour) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f), [BeatKing](https://open.spotify.com/artist/5L8p9kDnX2cgoI8VLUL2p4) | [Pop Music](https://open.spotify.com/album/0vKrIJGelC0Rz6R4zI7lsS) | 2:05 | 2022-01-20 | 2022-02-25 |
+| [Poppin](https://open.spotify.com/track/6fPD92TEq6KsEV7L7nmhZ3) | [SAINt JHN](https://open.spotify.com/artist/0H39MdGGX6dbnnQPt6NQkZ) | [Poppin](https://open.spotify.com/album/2vWmskQ93na9eB8RqsvvUR) | 2:46 | 2025-01-17 |  |
 | [Possible](https://open.spotify.com/track/3oRw742NgNMMe3rpWqEWJz) | [Bohan Phoenix](https://open.spotify.com/artist/18YneNJbsTdMUWiKQDiD9P) | [Possible](https://open.spotify.com/album/2Ian1Tx1ByNQTQOcIavgH0) | 5:13 | 2022-06-23 | 2022-07-29 |
 | [POWER](https://open.spotify.com/track/1HEPfv1KllCYnVC1VmcpgD) | [G\-DRAGON](https://open.spotify.com/artist/30b9WulBM8sFuBo17nNq9c) | [POWER](https://open.spotify.com/album/6CfIObHVEN5OBcx7mqVnem) | 2:23 | 2024-10-31 | 2024-12-14 |
 | [Power](https://open.spotify.com/track/27NZPKJRrUgtVAoqg06WkY) | [Mark Battles](https://open.spotify.com/artist/24SwsBq76FnNeXW9Do4wPI), [Curren$y](https://open.spotify.com/artist/6X8WdFjrNhXATMDSs26aCc) | [Power](https://open.spotify.com/album/0LR35Mz9TSsI87kuvSCSH4) | 2:18 | 2024-01-05 | 2024-02-02 |

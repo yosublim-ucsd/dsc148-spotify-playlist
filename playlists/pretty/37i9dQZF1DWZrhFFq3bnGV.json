@@ -1,13 +1,33 @@
 {
-  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: ArumtaLa",
-  "num_followers": 108158,
+  "description": "Terbuai dengan musik Jazz dari negeri sendiri. Cover: tjdika, Tommy Pratomo",
+  "num_followers": 108177,
   "original_name": "Jazz Anak Negeri",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z4nN/gAAAAD0nhHMHEdFz2cY47d+L/U1",
+  "snapshot_id": "Z5J1lAAAAAAVV1wGgrCjQdDpjLOPLFgK",
   "tracks": [
+    {
+      "added_at": "2025-01-23 17:00:04",
+      "album": {
+        "name": "Space & Time",
+        "url": "https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir"
+      },
+      "artists": [
+        {
+          "name": "tjdika",
+          "url": "https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7"
+        },
+        {
+          "name": "Tommy Pratomo",
+          "url": "https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ"
+        }
+      ],
+      "duration_ms": 173750,
+      "name": "Space & Time",
+      "url": "https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU"
+    },
     {
       "added_at": "2025-01-16 17:00:15",
       "album": {

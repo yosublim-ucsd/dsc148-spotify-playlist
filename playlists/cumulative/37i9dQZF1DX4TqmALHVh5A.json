@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : Claude",
+  "description": "La sc\u00e8ne francophone branch\u00e9e sur courant alternatif. Photo : TH\u00c9A",
   "name": "Courant Alternatif",
   "tracks": [
     {
@@ -150,6 +150,24 @@
       "duration_ms": 164534,
       "name": "Allo docteur",
       "url": "https://open.spotify.com/track/1VPvT71I6DUFlONOvPsOHn"
+    },
+    {
+      "album": {
+        "name": "ALLO?C MOI",
+        "url": "https://open.spotify.com/album/41DPBGQl4RL8QqJlm5cxP7"
+      },
+      "artists": [
+        {
+          "name": "TH\u00c9A",
+          "url": "https://open.spotify.com/artist/6GGkEuZHoNpJsKYNZml2gL"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134746,
+      "name": "ALLO?C MOI",
+      "url": "https://open.spotify.com/track/0aWnBogGkcNoyXyh7pgLo2"
     },
     {
       "album": {
@@ -405,6 +423,24 @@
     },
     {
       "album": {
+        "name": "BIEN M\u00c9RIT\u00c9",
+        "url": "https://open.spotify.com/album/3Ba5qLJD8gEw6l2tmkJY5h"
+      },
+      "artists": [
+        {
+          "name": "ELOI",
+          "url": "https://open.spotify.com/artist/5J65ukR6WWDkuRrqYa4Knl"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163043,
+      "name": "BIEN M\u00c9RIT\u00c9",
+      "url": "https://open.spotify.com/track/2kOvLoHKLoZxRbIMzt6AYa"
+    },
+    {
+      "album": {
         "name": "Birthday Party",
         "url": "https://open.spotify.com/album/7E1aeTMLqIi9F7weLZAz82"
       },
@@ -474,6 +510,28 @@
       "duration_ms": 223750,
       "name": "Blush",
       "url": "https://open.spotify.com/track/4hPTbO8F3zfsXPZdXIsqMv"
+    },
+    {
+      "album": {
+        "name": "Bouche \u00e0 bouche / Paradise",
+        "url": "https://open.spotify.com/album/6bFxGgf0zgRPiX4slKfEyy"
+      },
+      "artists": [
+        {
+          "name": "La Grande Dame",
+          "url": "https://open.spotify.com/artist/3AvpOfIrL6UyrMb5r4kIeh"
+        },
+        {
+          "name": "Bagarre",
+          "url": "https://open.spotify.com/artist/3oDsNnVKW3T4MflgJlLysJ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182255,
+      "name": "Bouche \u00e0 bouche",
+      "url": "https://open.spotify.com/track/25aWXkGaXxloRWrdrjb1g0"
     },
     {
       "album": {
@@ -852,7 +910,7 @@
       ],
       "date_added": "2024-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 159160,
       "name": "Comme tout le monde",
       "url": "https://open.spotify.com/track/0ZsHm5JJImpADvArNIqvff"
@@ -1220,6 +1278,24 @@
       "duration_ms": 181840,
       "name": "D\u00e9sol\u00e9, mon c\u0153ur",
       "url": "https://open.spotify.com/track/2E2sgLXYIFUAEtBtgv0KMT"
+    },
+    {
+      "album": {
+        "name": "Eau froide",
+        "url": "https://open.spotify.com/album/78Q54BfcZ6JrvXC7ED34zJ"
+      },
+      "artists": [
+        {
+          "name": "Rallye",
+          "url": "https://open.spotify.com/artist/36buOdDVz6p3QbVatFi4iX"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232243,
+      "name": "Eau froide",
+      "url": "https://open.spotify.com/track/7bzjqEbzppwHjL4uLokJE5"
     },
     {
       "album": {
@@ -2344,7 +2420,7 @@
       ],
       "date_added": "2024-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 225625,
       "name": "Lune",
       "url": "https://open.spotify.com/track/2PH10Pa1Yb2yMBZNzeF4Uy"
@@ -2524,7 +2600,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 234162,
       "name": "Modern Love",
       "url": "https://open.spotify.com/track/61rputyFcUsC1ldct1OKRr"
@@ -3124,7 +3200,7 @@
       ],
       "date_added": "2024-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 180091,
       "name": "PTSMR",
       "url": "https://open.spotify.com/track/3IwsDBOjSZ0IJa71mXjqRZ"
@@ -3322,7 +3398,7 @@
       ],
       "date_added": "2024-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 200709,
       "name": "Rien ne m'attend",
       "url": "https://open.spotify.com/track/7e2FWChR7ThlwRYvSgC0fw"
@@ -4118,6 +4194,24 @@
       "duration_ms": 159985,
       "name": "tu t'es laiss\u00e9 aller",
       "url": "https://open.spotify.com/track/14rgdz5CIyBtRaAc0tHN0I"
+    },
+    {
+      "album": {
+        "name": "\u00c9clipse",
+        "url": "https://open.spotify.com/album/4pPRjgXmc6LuO7hR2fikA9"
+      },
+      "artists": [
+        {
+          "name": "Walter Astral",
+          "url": "https://open.spotify.com/artist/70OFPH4Nv3kFhCgUU9oGqC"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228121,
+      "name": "Turbof\u00e9e",
+      "url": "https://open.spotify.com/track/40XQBEMdfMicRK35jlnKJK"
     },
     {
       "album": {

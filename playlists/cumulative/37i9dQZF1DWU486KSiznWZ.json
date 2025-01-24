@@ -229,6 +229,24 @@
     },
     {
       "album": {
+        "name": "Al Enaq Al Akheer - Part 1",
+        "url": "https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm"
+      },
+      "artists": [
+        {
+          "name": "Ahlam",
+          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 589165,
+      "name": "Al Enaq Al Akheer",
+      "url": "https://open.spotify.com/track/4GzJjtpF6AOGkZzmPHqCDc"
+    },
+    {
+      "album": {
         "name": "Al Hob Al Abadi",
         "url": "https://open.spotify.com/album/5VICXQWh9ziCz38ABNiFms"
       },
@@ -360,6 +378,24 @@
       "duration_ms": 328748,
       "name": "Allah Ala The Allil",
       "url": "https://open.spotify.com/track/5ihud1HlQGEy2JaZgFCsFE"
+    },
+    {
+      "album": {
+        "name": "Al Enaq Al Akheer - Part 1",
+        "url": "https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm"
+      },
+      "artists": [
+        {
+          "name": "Ahlam",
+          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 239912,
+      "name": "Allah Yeheb Lah",
+      "url": "https://open.spotify.com/track/44jJEOR28Gt1y8xnTDEu4e"
     },
     {
       "album": {

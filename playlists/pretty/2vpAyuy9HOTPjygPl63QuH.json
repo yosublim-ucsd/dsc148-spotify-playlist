@@ -1,13 +1,33 @@
 {
   "description": "The freshest tech house &amp; techno | Submit via Instagram: @subshiftmusic",
-  "num_followers": 11865,
+  "num_followers": 11877,
   "original_name": "SUBSHIFT SELECTS ",
   "owner": {
     "name": "SUBSHIFT",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAkfBqFpcd3JEOUpkxQQWFdblFBxN9z",
+  "snapshot_id": "AAAkgFp8tXVVjdRhl5Wg2zP3zEu+hPzx",
   "tracks": [
+    {
+      "added_at": "2025-01-24 00:02:20",
+      "album": {
+        "name": "Vibin\u2019",
+        "url": "https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "POLOVICH",
+          "url": "https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS"
+        }
+      ],
+      "duration_ms": 167317,
+      "name": "Vibin'",
+      "url": "https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M"
+    },
     {
       "added_at": "2024-11-29 00:32:48",
       "album": {
@@ -598,6 +618,10 @@
         {
           "name": "Spin Off",
           "url": "https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD"
+        },
+        {
+          "name": "Emily Stiles",
+          "url": "https://open.spotify.com/artist/3PmIYYpYp4KcM7bc51JffC"
         }
       ],
       "duration_ms": 151962,

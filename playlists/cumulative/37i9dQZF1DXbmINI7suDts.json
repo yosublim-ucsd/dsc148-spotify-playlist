@@ -77,6 +77,24 @@
     },
     {
       "album": {
+        "name": "Akigusa",
+        "url": "https://open.spotify.com/album/04C5PjWPsQqGVg4PGFWSDH"
+      },
+      "artists": [
+        {
+          "name": "Benji Kasule",
+          "url": "https://open.spotify.com/artist/53sV72PJJCP9xX96d6eFgh"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288000,
+      "name": "Akigusa",
+      "url": "https://open.spotify.com/track/12IV11evgB42zhjWJID2Rm"
+    },
+    {
+      "album": {
         "name": "Ouma Myko: The Smooth Ugandan",
         "url": "https://open.spotify.com/album/57SrDn9x3hclQJq8e7suSq"
       },
@@ -254,7 +272,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 189411,
       "name": "Call Me Crazy",
       "url": "https://open.spotify.com/track/50orEVgOt7P1e2ok0gbJGu"
@@ -1512,7 +1530,7 @@
       ],
       "date_added": "2023-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 192857,
       "name": "Naawe",
       "url": "https://open.spotify.com/track/55GWIiAMNisTX5YLav9XuR"
@@ -2022,6 +2040,24 @@
       "duration_ms": 138409,
       "name": "SIGANYE (feat. Axon)",
       "url": "https://open.spotify.com/track/3cVIh8FFTlML6YoQ7dh8Fb"
+    },
+    {
+      "album": {
+        "name": "Downtown Baller",
+        "url": "https://open.spotify.com/album/72h4HNCZgBASGzBOER9YpB"
+      },
+      "artists": [
+        {
+          "name": "Dokta Brain",
+          "url": "https://open.spotify.com/artist/5QhpwiUuVwrOYGVSVflJeY"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140000,
+      "name": "Sijja",
+      "url": "https://open.spotify.com/track/6xAGik7m1BdXYkWS3grEsc"
     },
     {
       "album": {
@@ -2546,7 +2582,7 @@
       ],
       "date_added": "2023-10-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 291188,
       "name": "Way That You Are",
       "url": "https://open.spotify.com/track/2J2QaKEpM5leuiLpj8hKMN"
@@ -2612,6 +2648,24 @@
       "duration_ms": 202666,
       "name": "Where You Are",
       "url": "https://open.spotify.com/track/1apSJXGmuUZliVfkdpKnXg"
+    },
+    {
+      "album": {
+        "name": "Wumula",
+        "url": "https://open.spotify.com/album/0cxT7QmI90m2d4n0dc0SqS"
+      },
+      "artists": [
+        {
+          "name": "Nshuti Mbabazi",
+          "url": "https://open.spotify.com/artist/4Pa4GVRYthkf7pU6P8g13j"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311486,
+      "name": "Wumula",
+      "url": "https://open.spotify.com/track/6HLnygeRLfZP8IQ2Nl1uMV"
     },
     {
       "album": {

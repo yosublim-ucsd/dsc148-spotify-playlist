@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-05-22",
-  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Kidwild",
+  "description": "The Best of Hip-Hop, Rap and Drill from the UK. Cover: Central Cee",
   "name": "Rap UK",
   "tracks": [
     {
@@ -9151,6 +9151,46 @@
     },
     {
       "album": {
+        "name": "Crew Love",
+        "url": "https://open.spotify.com/album/0o5gsmurIdmS6R8nKCYoh9"
+      },
+      "artists": [
+        {
+          "name": "AntsLive",
+          "url": "https://open.spotify.com/artist/3JYp3dC5wTBWagBRR5fjpk"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 101873,
+      "name": "Crew Love",
+      "url": "https://open.spotify.com/track/5Vn16iol7rRtq9c3hlqQTw"
+    },
+    {
+      "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Dave",
+          "url": "https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182040,
+      "name": "CRG (feat. Dave)",
+      "url": "https://open.spotify.com/track/5tgSjvWO685Z0mYKefArMI"
+    },
+    {
+      "album": {
         "name": "Cristale x TeeZandos x Fumez The Engineer - Plugged In",
         "url": "https://open.spotify.com/album/0kcuiUrOGdVASzX1B7EtIy"
       },
@@ -12626,7 +12666,7 @@
       ],
       "date_added": "2024-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 128399,
       "name": "Escape",
       "url": "https://open.spotify.com/track/43nqv4QZLdroszZ03wKCCh"
@@ -36245,6 +36285,28 @@
     },
     {
       "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122720,
+      "name": "Ten (feat. Skepta)",
+      "url": "https://open.spotify.com/track/2Zej1ZTJJNDcRj8e8iWUUo"
+    },
+    {
+      "album": {
         "name": "SIMMA DOWN",
         "url": "https://open.spotify.com/album/58ocawJCZM1RNuMEgqJJ93"
       },
@@ -38025,6 +38087,28 @@
     },
     {
       "album": {
+        "name": "CAN'T RUSH GREATNESS",
+        "url": "https://open.spotify.com/album/1pnm9zBlblhTRlE46ItLzU"
+      },
+      "artists": [
+        {
+          "name": "Central Cee",
+          "url": "https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r"
+        },
+        {
+          "name": "Lil Durk",
+          "url": "https://open.spotify.com/artist/3hcs9uc56yIGFCSy9leWe7"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142786,
+      "name": "Truth In The Lies (feat. Lil Durk)",
+      "url": "https://open.spotify.com/track/6jx0JZB3f0Cc2jjdldYaDb"
+    },
+    {
+      "album": {
         "name": "EDNA",
         "url": "https://open.spotify.com/album/066XCkY2VUxaJHf5g3tHJx"
       },
@@ -38070,6 +38154,24 @@
       "duration_ms": 137704,
       "name": "TT",
       "url": "https://open.spotify.com/track/4J5r3xeWb9Wm2ykeBnS3EU"
+    },
+    {
+      "album": {
+        "name": "Tuff Right?",
+        "url": "https://open.spotify.com/album/6PRdtvK9YOFVrBWyO8oBdC"
+      },
+      "artists": [
+        {
+          "name": "M Huncho",
+          "url": "https://open.spotify.com/artist/491U1PrV1EoQuhM0aUCn9r"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177443,
+      "name": "Tuff Right?",
+      "url": "https://open.spotify.com/track/1ObSJI3y5PaVcDliZH0Vol"
     },
     {
       "album": {
@@ -40700,6 +40802,32 @@
       "duration_ms": 153802,
       "name": "With Me Or Not?",
       "url": "https://open.spotify.com/track/5aG65oocwEoMRK01TyjVrS"
+    },
+    {
+      "album": {
+        "name": "With The 4's",
+        "url": "https://open.spotify.com/album/3ihlBwNJysu9P4eRWUKx0T"
+      },
+      "artists": [
+        {
+          "name": "Skengdo",
+          "url": "https://open.spotify.com/artist/3LmkRGuUav9Un8TDMjwKSg"
+        },
+        {
+          "name": "AM",
+          "url": "https://open.spotify.com/artist/6qYIqnnJM4TkFtVKiqQgmm"
+        },
+        {
+          "name": "D Proffit",
+          "url": "https://open.spotify.com/artist/1yPUttnkZ82L1DQ6dHlk5o"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162484,
+      "name": "With The 4's",
+      "url": "https://open.spotify.com/track/6TJFCmrgQ2xS9L4bZoKQRW"
     },
     {
       "album": {

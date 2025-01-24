@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Jassa Dhaliwal
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,699 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,705 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 2 | [Winning Folk's](https://open.spotify.com/track/3iipYe0AbbjWYpa8Y05cO1) | [Opinder Dhillon](https://open.spotify.com/artist/4EzDYRmwrNVuHLYdCw7eFW) | [Winning Folk's](https://open.spotify.com/album/26dWlC6ggVJSAVwE24afvP) | 2:27 |
 | 3 | [Jatt Bari Hogaya](https://open.spotify.com/track/5FmqYmiGfbl3ZkeLpH9zES) | [Gurmukh Jatt](https://open.spotify.com/artist/4SZ6Mp2cX4mGxKvh3oZoxc), [Suman Bhatti](https://open.spotify.com/artist/3eJEh3ib7pvJHvGIyMHhl2), [RP Swag DK](https://open.spotify.com/artist/0eKcyxOljAa6i1C7EMsCP9), [Amrinder Kahlon](https://open.spotify.com/artist/7ezej74K9lAUv6Od6BLW79), [Jatt Katto Wal](https://open.spotify.com/artist/2ibhnJSE2EEay3lAerHpiw) | [Jatt Bari Hogaya](https://open.spotify.com/album/1vf6jEhNvpYo31Efv0C2L5) | 4:37 |
 | 4 | [Different Lane](https://open.spotify.com/track/6YmrV7OpZGm4opGHU2CSrS) | [Jass Rathour](https://open.spotify.com/artist/1PJeurLIeA8KCD0XIser63) | [ASCEND](https://open.spotify.com/album/3m5HakcsUedSABTfjU8KuE) | 2:26 |
-| 5 | [Parda](https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV) | [Arjun Bajwa](https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R), [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Parda](https://open.spotify.com/album/3SMcUd4TseNNWRstFAF3Y4) | 2:59 |
+| 5 | [Parda](https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV) | [Arjun Bajwa](https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R), [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Parda](https://open.spotify.com/album/3SMcUd4TseNNWRstFAF3Y4) | 2:59 |
 | 6 | [Kehri Gal Da Raula](https://open.spotify.com/track/2BLr0GM8PXfxU8uZOinwnL) | [Shubh Goraya](https://open.spotify.com/artist/4gXQYW5L0ioMI3FuP6mBTQ) | [All Love](https://open.spotify.com/album/1ivL8sK2C2rwk7PHSbDl7i) | 2:04 |
 | 7 | [In Belive](https://open.spotify.com/track/4HT0Q53tRehhcBEKeA8Kaa) | [Kaiffi Khan](https://open.spotify.com/artist/6GuZhq044hHi2b8LGckxIp) | [In Belive](https://open.spotify.com/album/1p0wJ2PGizecfbQzb40IIm) | 2:46 |
 | 8 | [Chownk](https://open.spotify.com/track/1MikacOahcH5dwkkYI2ClE) | [Safar](https://open.spotify.com/artist/2FpljsOpRwinMIhph9rW0f) | [Chownk](https://open.spotify.com/album/27pbWn4HyvgOeOehldDTZk) | 2:56 |

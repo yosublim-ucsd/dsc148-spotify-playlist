@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 
 > Mantras for meditation
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,653 likes - 50 songs - 9 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,749 likes - 50 songs - 9 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,12 +34,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 24 | [Lingashtakam](https://open.spotify.com/track/35VgwpmovfuGrYkLVJojnK) | [Singers of the Art of Living](https://open.spotify.com/artist/0yl2Dss8OxbolyTnWFqKbi) | [Sacred Chants of Shiva](https://open.spotify.com/album/1YIp5NKAM9vdbt2uB4uai3) | 6:33 |
 | 25 | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/track/77EGwUvKLSsinbBoPtsIPn) | [Om Voices](https://open.spotify.com/artist/35Dv4r2eP3iqNKQTSwaBVK) | [Shiv Tandav Stotra \(Hindi Adaptation\)](https://open.spotify.com/album/7FWuNtoURNJenQNf9j2wwF) | 6:20 |
 | 26 | [Offering Chant](https://open.spotify.com/track/542Ucy3XlU0OsIVXKZzBKi) | [Lama Gyurme](https://open.spotify.com/artist/4GwVYugBix3aehjspW1uqG), [Jean\-Philippe Rykiel](https://open.spotify.com/artist/1a3YO3CW9t7nyNUUkYNzVn) | [Roads Of Blessings \- Songs Of Awakening](https://open.spotify.com/album/4grwUAIp3r6OBmsS6D2ZGV) | 7:07 |
-| 27 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 |
-| 28 | [Medicine Buddha Heart Mantra 药师佛心咒](https://open.spotify.com/track/3xZO5KYRGfgABvfLn9lzOa) | [Imee Ooi](https://open.spotify.com/artist/5lPNORvaZAHTRTz0zz0G2Y), [Chai Yu](https://open.spotify.com/artist/6tdbsGVKmAs0LWSsNp1oOF) | [World Of Medicine Buddha 净琉璃世界](https://open.spotify.com/album/7boPIIde65Rswaq5smZr5B) | 15:12 |
+| 27 | [Medicine Buddha Heart Mantra 药师佛心咒](https://open.spotify.com/track/3xZO5KYRGfgABvfLn9lzOa) | [Imee Ooi](https://open.spotify.com/artist/5lPNORvaZAHTRTz0zz0G2Y), [Chai Yu](https://open.spotify.com/artist/6tdbsGVKmAs0LWSsNp1oOF) | [World Of Medicine Buddha 净琉璃世界](https://open.spotify.com/album/7boPIIde65Rswaq5smZr5B) | 15:12 |
+| 28 | [Om Chanting 108 Times](https://open.spotify.com/track/38i3t6tDoVgcCJaAbsbMU5) | [Lakshit Patiyal](https://open.spotify.com/artist/3hnTXNBUgGp2FJ2Pu6hBbe) | [Om Chanting 108 Times](https://open.spotify.com/album/26a2UUjxnbEfjfTMxdxIkw) | 27:33 |
 | 29 | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/track/3cplraVhxGkrXNROQD62ko) | [Meditative Mind](https://open.spotify.com/artist/1PTLyE54UyxphMo43yaSc7) | [Maha Mrityunjaya Mantra: 108 Times](https://open.spotify.com/album/7rMORqnjuLaCsTBOtvitUr) | 49:36 |
 | 30 | [Bendición de Guru](https://open.spotify.com/track/5rNgiNxnzyeKYCVA9yTqSg) | [Lama Dorje](https://open.spotify.com/artist/1zTJulYHHc7xqncJh2qw9Z) | [Mantras Budista](https://open.spotify.com/album/7AfpljlxDdVVf4AQcpjamv) | 4:29 |
-| 31 | [Sri Krishnam Sharanam](https://open.spotify.com/track/5pI8lmM1oO98tQJAgHZRM4) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [My Krishna Favourites](https://open.spotify.com/album/48ZoHCSFnH4BQiRKXxTuUX) | 11:48 |
-| 32 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
+| 31 | [Om Kali Mahakali Mantra](https://open.spotify.com/track/6guojIvZXradvsPLjc4zxZ) | [Chant Central](https://open.spotify.com/artist/1UmWJ4SpY4ZKxCtxJURHNI) | [Om Kali Mahakali Mantra](https://open.spotify.com/album/1uk8VuxxlSzBIKsPVpm2Qx) | 47:06 |
+| 32 | [Sri Krishnam Sharanam](https://open.spotify.com/track/5pI8lmM1oO98tQJAgHZRM4) | [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a) | [My Krishna Favourites](https://open.spotify.com/album/48ZoHCSFnH4BQiRKXxTuUX) | 11:48 |
 | 33 | [Surya Namaskar Mantra](https://open.spotify.com/track/2bluDkLDqccMQZT9igz2Jq) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Surya Namaskar Mantra](https://open.spotify.com/album/5ieRV5tHmeh7te16fj4xeJ) | 6:33 |
 | 34 | [Om Tryambakam: Mantra for Health](https://open.spotify.com/track/7xHqunPfTTNAsJvBjSzDsH) | [Ananda Vdovic](https://open.spotify.com/artist/0pyLDBws2r1CNSkLJol5tN), [Davor Vdovic](https://open.spotify.com/artist/19dzgXUMohaOgGPT3OzpAJ) | [Mantras for a Happy Life](https://open.spotify.com/album/6zCF7QiMqi8CY8J4qP1a0k) | 8:33 |
 | 35 | [Shreeman Narayan Narayan Hari Hari \(Slowed+Reverb\)](https://open.spotify.com/track/6FKnIfpuNmME5OwIjU9p4s) | [Devashri Golambare](https://open.spotify.com/artist/6aemmgP92XrDhb5NoFdNjH) | [Shreeman Narayan Narayan Hari Hari \(Slowed+Reverb\)](https://open.spotify.com/album/2rFfLhWfXtDcVDPtgDPTnw) | 9:59 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6o0zIiTnhmq.md) - [plain]
 | 49 | [Ganesh Mantra](https://open.spotify.com/track/4Cd4lQdse8xNPfXOgpUfPF) | [Uma Mohan](https://open.spotify.com/artist/3IJsrpcwlIt9wYIFISmc4q) | [Ganesh Mantra](https://open.spotify.com/album/7Fl31P8ZIOJivw5OPfjTKs) | 4:43 |
 | 50 | [Ik Onkar \- Mool Mantra](https://open.spotify.com/track/7JKIryV7GlXMpbzF7QuLwC) | [Shagun Sodhi](https://open.spotify.com/artist/18IWXfTvhkmacvjOSh8OAB) | [Ik Onkar \- Mool Mantra](https://open.spotify.com/album/2F4KvMF2TeB5nIWZFZJAju) | 5:11 |
 
-Snapshot ID: `Z43GrQAAAAD+cOlsYxKrzgLCKdtSWDPl`
+Snapshot ID: `Z5HktQAAAACmFDnzlDZV4pGDRORRA3L7`

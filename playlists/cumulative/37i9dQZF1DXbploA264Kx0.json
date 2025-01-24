@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: I Mean Us",
+  "description": "Great tunes from the artists of the beautiful island...they are the glory of Taiwan! Cover: Dizparity",
   "name": "The Sound of Formosa",
   "tracks": [
     {
@@ -212,7 +212,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 200464,
       "name": "\\ LUCY!!!!!! /",
       "url": "https://open.spotify.com/track/1xLLP5pWq1XELc9PSMteGM"
@@ -516,7 +516,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 131200,
       "name": "Believe",
       "url": "https://open.spotify.com/track/3CKIWKgDVHOURcDLizLVpa"
@@ -628,6 +628,28 @@
       "duration_ms": 176500,
       "name": "BOOOOOORING",
       "url": "https://open.spotify.com/track/3dgYymSziHmlg3CmLBdDep"
+    },
+    {
+      "album": {
+        "name": "Broken Moon",
+        "url": "https://open.spotify.com/album/3BVH42PRBfLCgUL6bh9Tdg"
+      },
+      "artists": [
+        {
+          "name": "Dizparity",
+          "url": "https://open.spotify.com/artist/0DYcDpgiVTcXJszxcswVce"
+        },
+        {
+          "name": "\u745e\u746a\u5e2d\u4e39Rima Zeidan",
+          "url": "https://open.spotify.com/artist/2MgVvPbOvVEPWIjbgXl4fS"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273147,
+      "name": "Broken Moon (feat. Rima Zeidan)",
+      "url": "https://open.spotify.com/track/3tQRwhKP2oYVMVD09VcpOX"
     },
     {
       "album": {
@@ -2687,6 +2709,24 @@
     },
     {
       "album": {
+        "name": "Mikerid \u5f15\u8def",
+        "url": "https://open.spotify.com/album/7EXEhgjXJPbCd9KjKbgfjD"
+      },
+      "artists": [
+        {
+          "name": "Suming",
+          "url": "https://open.spotify.com/artist/3jV6Ro12GySf82kJiksE7D"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215009,
+      "name": "Mikerid \u5f15\u8def",
+      "url": "https://open.spotify.com/track/6cwmgl1cUUbLUEsOwwviU5"
+    },
+    {
+      "album": {
         "name": "Millions of Years Apart",
         "url": "https://open.spotify.com/album/1nHTRBCa7UYrlYxDxJRbOJ"
       },
@@ -2906,6 +2946,24 @@
       "duration_ms": 169433,
       "name": "Never Know",
       "url": "https://open.spotify.com/track/213vfj5F7G3K9boSZwFwPf"
+    },
+    {
+      "album": {
+        "name": "NEW YORKER 3328",
+        "url": "https://open.spotify.com/album/6SUeuZpOxfiH42U836hV93"
+      },
+      "artists": [
+        {
+          "name": "J. WALK",
+          "url": "https://open.spotify.com/artist/4YSoOO88r7dAftFHvGkYFP"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201202,
+      "name": "NEW YORKER 3328",
+      "url": "https://open.spotify.com/track/24HdA69ha5qzajGrO8BSdr"
     },
     {
       "album": {
@@ -3146,7 +3204,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 152080,
       "name": "One in The Million (feat. Jimmy Brown & DWAYNE)",
       "url": "https://open.spotify.com/track/6QA6PZDxedi5GYC4ZPLQJe"
@@ -3330,6 +3388,28 @@
       "duration_ms": 189555,
       "name": "Peace Of Mind",
       "url": "https://open.spotify.com/track/7vgfpWpWc61Myfp0XqOgxD"
+    },
+    {
+      "album": {
+        "name": "You Fight For Me",
+        "url": "https://open.spotify.com/album/0rMKfChBk4re59Vc1GJdgD"
+      },
+      "artists": [
+        {
+          "name": "Joshua Band",
+          "url": "https://open.spotify.com/artist/0i6Ug2VPQVjkTAjxk8wLJK"
+        },
+        {
+          "name": "\u7ea6\u4e66\u4e9a\u4e50\u56e2",
+          "url": "https://open.spotify.com/artist/2zQMLL1UHDpJUNa2r9peEi"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263804,
+      "name": "Perfect Timing",
+      "url": "https://open.spotify.com/track/6EA43PyKpZyt5dRNfWm8KZ"
     },
     {
       "album": {
@@ -4907,6 +4987,32 @@
     },
     {
       "album": {
+        "name": "Work That",
+        "url": "https://open.spotify.com/album/4X14fNYHIOdzXZUUdGGZjK"
+      },
+      "artists": [
+        {
+          "name": "RayRay",
+          "url": "https://open.spotify.com/artist/4FS6bomikvJR2E9JHNwiAM"
+        },
+        {
+          "name": "Le Twins",
+          "url": "https://open.spotify.com/artist/52kfbBndpbamlOcoNPaurb"
+        },
+        {
+          "name": "WHO IS WHO",
+          "url": "https://open.spotify.com/artist/4APaCOyfHez21gKsuxLKwu"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150400,
+      "name": "Work That",
+      "url": "https://open.spotify.com/track/3BwBDFTFLQ96WU1YyapvcL"
+    },
+    {
+      "album": {
         "name": "XTC",
         "url": "https://open.spotify.com/album/4g2n03bNP2tKrGOr4FXmy2"
       },
@@ -5462,7 +5568,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 296755,
       "name": "\u5bec\u5bec\u4ed4\u4f86\u5230\u7962\u7684\u9762\u524d",
       "url": "https://open.spotify.com/track/5QWLLhH7coXBotQq3vhv63"
@@ -5838,7 +5944,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 321562,
       "name": "\u68ee\u3068\u661f\u306e\u7d04\u675f (\u68ee\u6797\u8207\u661f\u661f\u7684\u7d04\u5b9a)",
       "url": "https://open.spotify.com/track/1gydnqDRfR9E0fiXUre5DT"

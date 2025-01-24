@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAAAAACERSnuxXWob0ocUNCIq+/e",
+  "snapshot_id": "AAAAAAAAAADWKD5h9FLpfXK9dzRComjl",
   "tracks": [
     {
       "added_at": "2025-01-17 05:00:00",
@@ -43,22 +43,6 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "F.I.N.E.",
-        "url": "https://open.spotify.com/album/5BHVGM96Il9LjEyl2GYziU"
-      },
-      "artists": [
-        {
-          "name": "Dale and the ZDubs",
-          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
-        }
-      ],
-      "duration_ms": 179493,
-      "name": "F.I.N.E.",
-      "url": "https://open.spotify.com/track/44UTS6GVv5qKj76CFHnQxM"
-    },
-    {
-      "added_at": "2025-01-17 05:00:00",
-      "album": {
         "name": "Man Of Culture (J-Burns Chandelier Mix)",
         "url": "https://open.spotify.com/album/6sQOWB4VBCQ7IvstboLvFg"
       },
@@ -87,62 +71,18 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "BLACKOUT! 3",
-        "url": "https://open.spotify.com/album/3tqS8KhyloPaX0qQZPDga9"
+        "name": "F.I.N.E.",
+        "url": "https://open.spotify.com/album/5BHVGM96Il9LjEyl2GYziU"
       },
       "artists": [
         {
-          "name": "JS aka The Best",
-          "url": "https://open.spotify.com/artist/1xZazBHnClX75MEwzNwnZr"
-        },
-        {
-          "name": "Method Man",
-          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
-        },
-        {
-          "name": "Redman",
-          "url": "https://open.spotify.com/artist/7xTKLpo7UCzXSnlH7fOIoM"
-        },
-        {
-          "name": "Shyheim",
-          "url": "https://open.spotify.com/artist/0rqb5s3Cxj0lGr6jTrWc0P"
+          "name": "Dale and the ZDubs",
+          "url": "https://open.spotify.com/artist/4r6coJvYBbywB6TOgHJYkp"
         }
       ],
-      "duration_ms": 216000,
-      "name": "BLACKOUT! 3",
-      "url": "https://open.spotify.com/track/5CKv7zo6vt7FbPoI7rbguS"
-    },
-    {
-      "added_at": "2025-01-17 05:00:00",
-      "album": {
-        "name": "Criminal",
-        "url": "https://open.spotify.com/album/7Ev7EiIqgRRFY3fKXS2uhi"
-      },
-      "artists": [
-        {
-          "name": "TAL THE1",
-          "url": "https://open.spotify.com/artist/2xZU5cPJbkAE5atDGJVGXh"
-        },
-        {
-          "name": "Brother Ali",
-          "url": "https://open.spotify.com/artist/6CsleyOZtyt16saX8WhzDx"
-        },
-        {
-          "name": "Freeway",
-          "url": "https://open.spotify.com/artist/2Jwr7hGoSNK3S3QBxh3T0z"
-        },
-        {
-          "name": "Stalley",
-          "url": "https://open.spotify.com/artist/1wUmdemiR9Dxw8A2el365A"
-        },
-        {
-          "name": "Dee-1",
-          "url": "https://open.spotify.com/artist/5qEZVKHzNjB8k5tAT41Iox"
-        }
-      ],
-      "duration_ms": 308589,
-      "name": "Criminal",
-      "url": "https://open.spotify.com/track/03XeWmadwkt3osO7cozsqm"
+      "duration_ms": 179493,
+      "name": "F.I.N.E.",
+      "url": "https://open.spotify.com/track/44UTS6GVv5qKj76CFHnQxM"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -212,9 +152,9 @@
           "url": "https://open.spotify.com/artist/3jk39CGeaaSO3FPKNx1RUx"
         }
       ],
-      "duration_ms": 116880,
-      "name": "Go Apart",
-      "url": "https://open.spotify.com/track/0lHsZa5J4PqrvolVVoqHgt"
+      "duration_ms": 105048,
+      "name": "Baawe She Callin",
+      "url": "https://open.spotify.com/track/1cgtnrPjZpHdeRkIrSiFsc"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -267,6 +207,22 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
+        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
+        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
+      },
+      "artists": [
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "duration_ms": 237117,
+      "name": "DtMF",
+      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
+    },
+    {
+      "added_at": "2025-01-17 05:00:00",
+      "album": {
         "name": "WHAM (Extended Version)",
         "url": "https://open.spotify.com/album/5XYdFmT54volmxN5OCI5Xy"
       },
@@ -291,22 +247,6 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
-        "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
-      },
-      "artists": [
-        {
-          "name": "Bad Bunny",
-          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
-        }
-      ],
-      "duration_ms": 237117,
-      "name": "DtMF",
-      "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
-    },
-    {
-      "added_at": "2025-01-17 05:00:00",
-      "album": {
         "name": "Are You Even Real (feat. Giv\u0113on)",
         "url": "https://open.spotify.com/album/0VpJTeHhzQW6Z13FeBTeJD"
       },
@@ -327,22 +267,6 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "Same Old Song",
-        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 174322,
-      "name": "Same Old Song",
-      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
-    },
-    {
-      "added_at": "2025-01-17 05:00:00",
-      "album": {
         "name": "Pink Dreads",
         "url": "https://open.spotify.com/album/1BmgY2s1z4yYuKU3ZwMrzZ"
       },
@@ -359,6 +283,22 @@
       "duration_ms": 120412,
       "name": "Pink Dreads",
       "url": "https://open.spotify.com/track/0dbJg8aQkJ08TdO0HjzipR"
+    },
+    {
+      "added_at": "2025-01-17 05:00:00",
+      "album": {
+        "name": "Same Old Song",
+        "url": "https://open.spotify.com/album/5JQd2b1all62PhvdwrI5DN"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 174322,
+      "name": "Same Old Song",
+      "url": "https://open.spotify.com/track/21uaRs0oWi9EL7ZJOII7YD"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -399,22 +339,38 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "EPIC: The Ithaca Saga (Official Concept Album)",
-        "url": "https://open.spotify.com/album/4pCY75ii3U3OnAvSAdYaGU"
+        "name": "That Guy",
+        "url": "https://open.spotify.com/album/0OscGtqYTSdZTYIuBa26To"
       },
       "artists": [
         {
-          "name": "Jorge Rivera-Herrans",
-          "url": "https://open.spotify.com/artist/2kdmTOXncgNHSuYVMhdd5I"
+          "name": "Sexyy VUL",
+          "url": "https://open.spotify.com/artist/1BorcWao3Zfoso2ORVMSYi"
         },
         {
-          "name": "Anna Lea",
-          "url": "https://open.spotify.com/artist/1hOdQnbXBlfZX9JXZk0O1w"
+          "name": "Tyler VUL",
+          "url": "https://open.spotify.com/artist/36qSupTgKl4D7483wumN2Q"
         }
       ],
-      "duration_ms": 345812,
-      "name": "Would You Fall in Love with Me Again",
-      "url": "https://open.spotify.com/track/3iYeXCdD3d0zlex2v0CpVt"
+      "duration_ms": 173819,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/2lXqn9L4hRksbYKJAsM3R0"
+    },
+    {
+      "added_at": "2025-01-17 05:00:00",
+      "album": {
+        "name": "Hello, Hi",
+        "url": "https://open.spotify.com/album/10HfbJ0arWU8m6YOg85Q9y"
+      },
+      "artists": [
+        {
+          "name": "Little Simz",
+          "url": "https://open.spotify.com/artist/6eXZu6O7nAUA5z6vLV8NKI"
+        }
+      ],
+      "duration_ms": 135996,
+      "name": "Hello, Hi",
+      "url": "https://open.spotify.com/track/3zIqekohxiaS4HF79pxHzt"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -431,6 +387,22 @@
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/0FTmksd2dxiE5e3rWyJXs6"
+    },
+    {
+      "added_at": "2025-01-17 05:00:00",
+      "album": {
+        "name": "Your New Favorite Song",
+        "url": "https://open.spotify.com/album/0xIQsahcD55CfVddCz0Cue"
+      },
+      "artists": [
+        {
+          "name": "Wallows",
+          "url": "https://open.spotify.com/artist/0NIPkIjTV8mB795yEIiPYL"
+        }
+      ],
+      "duration_ms": 187666,
+      "name": "Your New Favorite Song",
+      "url": "https://open.spotify.com/track/6mxvsThgEclVwrA0ZPWbkQ"
     },
     {
       "added_at": "2025-01-17 05:00:00",
@@ -579,30 +551,6 @@
     {
       "added_at": "2025-01-17 05:00:00",
       "album": {
-        "name": "Lionel Rich",
-        "url": "https://open.spotify.com/album/5BgQiIOWb0THI1yWgiah4H"
-      },
-      "artists": [
-        {
-          "name": "jacuzzi jefferson",
-          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
-        },
-        {
-          "name": "Chris Mazuera",
-          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
-        },
-        {
-          "name": "Inspectah Deck",
-          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
-        }
-      ],
-      "duration_ms": 108280,
-      "name": "Lionel Rich",
-      "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
-    },
-    {
-      "added_at": "2025-01-17 05:00:00",
-      "album": {
         "name": "Janus 1",
         "url": "https://open.spotify.com/album/0qiNzaJJZlUawZK6lE862y"
       },
@@ -627,6 +575,30 @@
       "duration_ms": 246400,
       "name": "Chi Mi Na Morbheanna - NYE Bash!",
       "url": "https://open.spotify.com/track/4GUx6h87pNYJTRvDe3YQkw"
+    },
+    {
+      "added_at": "2025-01-17 05:00:00",
+      "album": {
+        "name": "Lionel Rich",
+        "url": "https://open.spotify.com/album/5BgQiIOWb0THI1yWgiah4H"
+      },
+      "artists": [
+        {
+          "name": "jacuzzi jefferson",
+          "url": "https://open.spotify.com/artist/2OxHUuZT8RnLcPEqiQDUFw"
+        },
+        {
+          "name": "Chris Mazuera",
+          "url": "https://open.spotify.com/artist/3Sb3oI3Xw7FcgYS262zXPE"
+        },
+        {
+          "name": "Inspectah Deck",
+          "url": "https://open.spotify.com/artist/4OBbOrkD4geIjOLrICN3wO"
+        }
+      ],
+      "duration_ms": 108280,
+      "name": "Lionel Rich",
+      "url": "https://open.spotify.com/track/4sfV8yncAZ2MNPdOnzFhgC"
     },
     {
       "added_at": "2025-01-17 05:00:00",

@@ -2,9 +2,9 @@
 
 ### [Jazz Anak Negeri](https://open.spotify.com/playlist/37i9dQZF1DWZrhFFq3bnGV)
 
-> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: ArumtaLa
+> Terbuai dengan musik Jazz dari negeri sendiri\. Cover: tjdika, Tommy Pratomo
 
-221 songs - 15 hr 33 min
+222 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Small Steps](https://open.spotify.com/track/1GTurAcZYchUWusuE9NNLh) | [Rhesa Siregar](https://open.spotify.com/artist/3QhzGBK0sLrqAnHMOI2YVS) | [Small Steps \- EP](https://open.spotify.com/album/3DCU0szK5y7UMaLqUZffOW) | 1:55 | 2023-05-25 | 2024-11-16 |
 | [So Lucky to Be Young](https://open.spotify.com/track/3bXLdqtotfXYDNXdNUpUIA) | [Natasya Elvira](https://open.spotify.com/artist/6lNWlJEtPCkkWE6P17fUIw) | [Lucky to Be Young](https://open.spotify.com/album/6EBRlRTk9ui6S0jyroopZa) | 3:32 | 2023-06-08 |  |
 | [Social Abstract](https://open.spotify.com/track/4hP3qYXLy0xocXYeuEAE8x) | [Kenny Gabriel](https://open.spotify.com/artist/0UrV86j2SWIzZ98MKxzxYu), [Felix Buliks](https://open.spotify.com/artist/5HDeolVBVWUabGnIap2sho), [Ankadiov Subran](https://open.spotify.com/artist/2u0Msra1dmkHl0rRI1bigH), [Denis Junio](https://open.spotify.com/artist/42LqHOacC0AaCbAH9S3B1E) | [Social Abstract](https://open.spotify.com/album/42WoRZI4APMWNomQ7k5bPF) | 3:49 | 2022-09-02 | 2023-09-29 |
+| [Space & Time](https://open.spotify.com/track/18QQ9VWkuxEMU7gWSuVaLU) | [tjdika](https://open.spotify.com/artist/3c4CUqxqmYrhu6lw5DsrE7), [Tommy Pratomo](https://open.spotify.com/artist/7EmZD2HfyAxEpo3JzvNLoQ) | [Space & Time](https://open.spotify.com/album/6QLBLw5ACRI0tII9hDr9Ir) | 2:53 | 2025-01-23 |  |
 | [Stay](https://open.spotify.com/track/2v2RXHwpOZXgPhgtqreHbv) | [Saxx in the City](https://open.spotify.com/artist/3dTx0MCeatvtqmdV7vYecG) | [Kurun Waktu](https://open.spotify.com/album/3bcdLrLC5hkVxT0TIFDgu6) | 3:55 | 2022-09-02 | 2024-08-02 |
 | [Sudahlah](https://open.spotify.com/track/7y47EKi0erMGIBWh7YrJj8) | [EAR SUN](https://open.spotify.com/artist/5Ccw96BXjK0XKJFHyCztKO) | [Sudahlah](https://open.spotify.com/album/62UIRGXligEluRl9u4H9Tx) | 3:12 | 2024-06-27 |  |
 | [Sugar Crush](https://open.spotify.com/track/2XXNCwDytfdMITKw6a9jir) | [newbloodfusion](https://open.spotify.com/artist/6OYpsgVFA2EBkd7H5j4JCk) | [Sugar Crush](https://open.spotify.com/album/2MTjLTwiDDX5FSo8jitJxU) | 5:40 | 2022-09-02 | 2023-02-04 |

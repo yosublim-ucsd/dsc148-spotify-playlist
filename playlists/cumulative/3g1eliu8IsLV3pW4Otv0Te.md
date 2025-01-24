@@ -4,7 +4,7 @@
 
 > 
 
-228 songs - 15 hr 28 min
+230 songs - 15 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -124,9 +124,11 @@
 | [Let Go](https://open.spotify.com/track/3xKTpGCsafXzV4muM1Hpl3) | [Frou Frou](https://open.spotify.com/artist/6MUyqmIQ35inLjch0YzIEG) | [Details](https://open.spotify.com/album/7rwh9WVOm4JGKAbh1xlvPc) | 4:13 | 2016-06-09 |  |
 | [Let Me Know \(I Wonder Why Freestyle\)](https://open.spotify.com/track/3wwo0bJvDSorOpNfzEkfXx) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [Let Me Know \(I Wonder Why Freestyle\)](https://open.spotify.com/album/5wi0oKiF99ZVACf6oTTsp2) | 3:35 | 2020-02-20 |  |
 | [Letting Go \(feat\. Amelia Rose\)](https://open.spotify.com/track/1ohELWVOOnAU2kP0va56mu) | [Rameses B](https://open.spotify.com/artist/06EfEcjc0vdvI6VNL0soIO) | [Letting Go \(feat\. Amelia Rose\)](https://open.spotify.com/album/5Lj0ipuLZtTLkI9bDk32tq) | 5:15 | 2016-10-05 |  |
+| [Levitating](https://open.spotify.com/track/2rpop76oW4FQlZJHIZo7Cj) | [RÜFÜS DU SOL](https://open.spotify.com/artist/5Pb27ujIyYb33zBqVysBkj) | [Inhale / Exhale](https://open.spotify.com/album/3Fda4vhPP0Clk3EQNVipUP) | 4:03 | 2025-01-23 |  |
 | [Lioness](https://open.spotify.com/track/73rh3AJNXQl8iMWgWRrQTR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS) | [Lioness](https://open.spotify.com/album/2IG3XIcW8Vzk6rWJh0UU2u) | 2:52 | 2024-07-07 |  |
 | [Loosing Interest](https://open.spotify.com/track/49gXK8uoqUEHgzzHdkELMh) | [timmies](https://open.spotify.com/artist/1AUZYkS7eLmZUnBjQyJmwf) | [Passion & Confusion](https://open.spotify.com/album/7dhqyOcnFR9o9SfUhhxqbs) | 1:57 | 2019-05-09 |  |
 | [Lost](https://open.spotify.com/track/1W2bpF6yRNKvLFqGlhkWeQ) | [Hybrid Minds](https://open.spotify.com/artist/05lF0DUkLJqiW5o70SScyR) | [Hybrid Minds](https://open.spotify.com/album/7kZHdld1Ie53BF9WHKq63R) | 5:34 | 2016-10-05 |  |
+| [Lost in Memories](https://open.spotify.com/track/6ilOsZLOBDSyE0ZlTxefPQ) | [Jerber lazaro](https://open.spotify.com/artist/6EUNb9dAKBWxOU2IqT4pgC), [Alicha](https://open.spotify.com/artist/5kS7uLqih4xWlRzducKKjm), [Illico](https://open.spotify.com/artist/4Qc4xlOszc7E6Gt3jQoy3J) | [Lost in Memories](https://open.spotify.com/album/0UjQRqUzumBwoKIqnlk5aL) | 3:39 | 2025-01-23 |  |
 | [Love Nor Money](https://open.spotify.com/track/409lSJ3BoGROb8UqcoVPDC) | [D.O.D](https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB) | [Love Nor Money](https://open.spotify.com/album/5bDSA6cISLFXwLOl5BdFZl) | 2:50 | 2023-10-30 |  |
 | [love nwantiti \(ah ah ah\)](https://open.spotify.com/track/2Xr1dTzJee307rmrkt8c0g) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [CKay The First](https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih) | 2:25 | 2024-04-25 |  |
 | [Luv Letter](https://open.spotify.com/track/7ruuym7Ov0ZRAVWvt5X79h) | [DJ Okawari](https://open.spotify.com/artist/34QbYbTlUCLkZsQ8QmacV9) | [Mirror](https://open.spotify.com/album/05DOCaeK8RnF5dRLfOwSP2) | 4:31 | 2016-10-04 |  |

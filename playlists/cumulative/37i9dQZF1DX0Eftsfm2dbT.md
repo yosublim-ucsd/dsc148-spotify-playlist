@@ -4,7 +4,7 @@
 
 > J\-Hip Hopカルチャーの「今」と「その先」を繋ぐプレイリスト。 cover: eyden
 
-1,351 songs - 2 day 21 hr 15 min
+1,352 songs - 2 day 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -670,6 +670,7 @@
 | [MEISO](https://open.spotify.com/track/1IIXwqTkl5ogqIn63OBRxE) | [Kapsoul](https://open.spotify.com/artist/4MfpSSOsKtg5bSBpeXCuP8), [B.D.](https://open.spotify.com/artist/4WEqY463SGyqarbqUKC2aX), [Senninsho](https://open.spotify.com/artist/36KtDuRQm38x36q30tnqOD) | [MEISO](https://open.spotify.com/album/4xz0crPytHXtYPWgCFlVDC) | 2:49 | 2024-03-05 | 2024-03-13 |
 | [Mellow](https://open.spotify.com/track/2Zc7icahi8NN4Iw1jILcZz) | [GOTU](https://open.spotify.com/artist/14UuKo9McStiWxcOOPvczh), [DAG FORCE](https://open.spotify.com/artist/2E6KQnEyl3W4tUUomqU3kr), [Castro Beats](https://open.spotify.com/artist/1HzhKzqYos3HTcxVmaTnCi) | [Mellow](https://open.spotify.com/album/6tAtlR19BBVD3nCsqfXWTZ) | 3:57 | 2024-05-07 | 2024-05-15 |
 | [Mercedes](https://open.spotify.com/track/6QbkxleLB8BunQkNDdMi5w) | [Noconoco](https://open.spotify.com/artist/7mqeh0ppveN8XEZLXo8PkS), [Pune](https://open.spotify.com/artist/3CtPr0raLgCRsI9sFz2ceq) | [Mercedes](https://open.spotify.com/album/2UHTpewKp5jfX8kM8YMs7a) | 1:47 | 2024-05-15 | 2024-05-22 |
+| [Midnight Hours](https://open.spotify.com/track/6DJkF1IGxkWEOn8eYOtDLL) | [J1rock](https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74), [WillHalo](https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx) | [Midnight Hours](https://open.spotify.com/album/2qvGeXt9okSWD7C36sIkYe) | 2:00 | 2025-01-21 |  |
 | [Miite](https://open.spotify.com/track/3uWZxSe9r4YvDL0k34Fc0d) | [Elle Teresa](https://open.spotify.com/artist/3eP3EbQEnina3kh1UTNvbj) | [Miite](https://open.spotify.com/album/4RZ2DtH747A5CX5mAGEAV0) | 2:35 | 2023-10-12 | 2023-11-16 |
 | [MIKOTO \~SUN NO KUNI\~ \- Remix](https://open.spotify.com/track/6y3QFp5X44UH1FDAzLICUh) | [OZworld](https://open.spotify.com/artist/34tJ8UnaAbWcrug3Nym7ZO), [shuto](https://open.spotify.com/artist/4KqAfO6NT87MBLMWm46GlZ), [Chouji](https://open.spotify.com/artist/6leswF8mA8jGw7BXRU6yQu) | [UTAGE2.5](https://open.spotify.com/album/0CiehQDCt3h1nGl7TJ4J9s) | 3:54 | 2024-09-12 | 2024-11-06 |
 | [Mind](https://open.spotify.com/track/6bWP7oojdxEaAOZY6Oozhm) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Mind](https://open.spotify.com/album/7gM3kvrfjpNdSGcW3QBVEK) | 3:35 | 2024-12-12 |  |

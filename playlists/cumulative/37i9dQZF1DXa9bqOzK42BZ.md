@@ -2,9 +2,9 @@
 
 ### [Swahili Praise](https://open.spotify.com/playlist/37i9dQZF1DXa9bqOzK42BZ)
 
-> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/0yOSvlhtID1BtqO5UUv5SL?si=LYcW\_5ZCTGiHVKk\_MsYzMg">Christina Shusho</a>
+> Praise and worship from East Africa\. Your ultimate Swahili Spiritual nourishment here\. Cover: <a href="https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR?si=932vi4fbSXelQfAKqNvopg">Paul Clement</a>
 
-211 songs - 18 hr 31 min
+212 songs - 18 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -208,6 +208,7 @@
 | [Walivuka Bahari](https://open.spotify.com/track/3CFKRg3IFez8ohXZh4KkMz) | [Angaza Singers](https://open.spotify.com/artist/1TP3yP8t1j51qOgC1yFuMM) | [Walivuka Bahari](https://open.spotify.com/album/0PRORcHoJD83CWsJH895hP) | 6:35 | 2022-06-24 | 2023-03-11 |
 | [Wanishangaza](https://open.spotify.com/track/76qoWyVNx46H2JS1xbj0WP) | [Eunice Njeri](https://open.spotify.com/artist/1n8hmSTaHZs3Pz2VuVfda4) | [Uka](https://open.spotify.com/album/656ePpgxQbEkzp9zsQWwSf) | 4:13 | 2022-06-24 | 2023-05-26 |
 | [Wapi](https://open.spotify.com/track/4MiFa4fcbflEe1waDcrTPH) | [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wapi](https://open.spotify.com/album/6k2Mz6mqJpd0O1xSNkYGXP) | 3:34 | 2024-06-21 |  |
+| [Wastahili](https://open.spotify.com/track/1TsBf8uY2P1LR4Ld6F17aq) | [PAUL CLEMENT](https://open.spotify.com/artist/4BkrM8kWqVUH2GKIJ8hAPR), [Njoki Munyi](https://open.spotify.com/artist/6d1foF760EmQXdLaS3JMbN), [Joel Lwaga](https://open.spotify.com/artist/3oGozFL9044me9JLarm8BI) | [Wastahili](https://open.spotify.com/album/3kos8YakkfSc9sEtDj7sWE) | 14:37 | 2025-01-24 |  |
 | [We Huogopi](https://open.spotify.com/track/0Cbo3ExJzv9hwdsUtQe6vr) | [Phina](https://open.spotify.com/artist/1gFTuZHiQgl5NAgqNEK2Rl) | [We Huogopi](https://open.spotify.com/album/5zmclUynTzKzgfLSOkE1B4) | 4:16 | 2024-07-05 |  |
 | [Wema Wako](https://open.spotify.com/track/1fsTN4b4eo1rF7TZN66nu1) | [Shani](https://open.spotify.com/artist/3uHmV3XeCk49e97wofoRes), [Karwirwa Laura](https://open.spotify.com/artist/7zUicfuuQ82TkhpQp1AXvA) | [Wema Wako](https://open.spotify.com/album/18KByGJQOoZet9SDu4p43O) | 2:40 | 2024-02-16 | 2024-05-24 |
 | [Wewe Ni Mungu](https://open.spotify.com/track/5v9uesjBjZzLtyo14Fv9Md) | [Zabron Singers](https://open.spotify.com/artist/6G8DN0hxjRUmIfOh6GHhpP) | [Niko Sawa](https://open.spotify.com/album/7fF9FXSYiaJlDgbendwTSB) | 3:35 | 2023-03-10 |  |

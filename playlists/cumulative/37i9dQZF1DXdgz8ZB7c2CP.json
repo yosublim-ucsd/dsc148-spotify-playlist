@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring Killen.",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a>, featuring camoufly",
   "name": "creamy",
   "tracks": [
     {
@@ -592,6 +592,28 @@
       "duration_ms": 206793,
       "name": "All The Highs",
       "url": "https://open.spotify.com/track/6Dg3ArDiJcseYoeeTZZXK6"
+    },
+    {
+      "album": {
+        "name": "All Too Late",
+        "url": "https://open.spotify.com/album/7uz6W3xnVGod7qtJHbAePW"
+      },
+      "artists": [
+        {
+          "name": "IMANU",
+          "url": "https://open.spotify.com/artist/5Y7rFm0tiJTVDzGLMzz0W1"
+        },
+        {
+          "name": "Rhode",
+          "url": "https://open.spotify.com/artist/6FTHkjqtYAK0uJIKlHNOXi"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216000,
+      "name": "All Too Late",
+      "url": "https://open.spotify.com/track/4m1KSPhZ74hYFDd6pq5Cz6"
     },
     {
       "album": {
@@ -4195,6 +4217,28 @@
     },
     {
       "album": {
+        "name": "Don't Waste My Time",
+        "url": "https://open.spotify.com/album/0s9XqTqpFeh4PpljnSgFlg"
+      },
+      "artists": [
+        {
+          "name": "Annix",
+          "url": "https://open.spotify.com/artist/0llNeW8Q52i2sxV7DsFASR"
+        },
+        {
+          "name": "Blocksberg",
+          "url": "https://open.spotify.com/artist/4WO8AqCp0aUFk6tWdbay32"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184714,
+      "name": "Don't Waste My Time",
+      "url": "https://open.spotify.com/track/2XZhirtcTYcMw2ouJPzMpw"
+    },
+    {
+      "album": {
         "name": "don\u2019t say",
         "url": "https://open.spotify.com/album/4I81pVIwSL2sMbjJ3lgtO7"
       },
@@ -7152,7 +7196,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 155976,
       "name": "HAPPY",
       "url": "https://open.spotify.com/track/2oPO35Ubi8ku8415dqL2QD"
@@ -7306,6 +7350,24 @@
       "duration_ms": 324250,
       "name": "HEARTH SONG",
       "url": "https://open.spotify.com/track/3k67GdGoKbxhibQz6YbhDn"
+    },
+    {
+      "album": {
+        "name": "HEARTPIECE",
+        "url": "https://open.spotify.com/album/0vdqNRrtw4J3QSWHsljwNC"
+      },
+      "artists": [
+        {
+          "name": "devin",
+          "url": "https://open.spotify.com/artist/1nTDIsZa79wLRMZDfuVG3h"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120620,
+      "name": "HEARTPIECE",
+      "url": "https://open.spotify.com/track/4Fd6Tuj0ZeRshcftzX4AAF"
     },
     {
       "album": {
@@ -8822,7 +8884,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 188543,
       "name": "It Don't Make Sense",
       "url": "https://open.spotify.com/track/5TbnWI4IgjlETHoodjmirV"
@@ -9974,6 +10036,24 @@
       "duration_ms": 143414,
       "name": "Live Lonely",
       "url": "https://open.spotify.com/track/3AJXFzoOKuvdwZzbL27RLX"
+    },
+    {
+      "album": {
+        "name": "llamando",
+        "url": "https://open.spotify.com/album/2blVh9onuJN9YGsAJz4HNb"
+      },
+      "artists": [
+        {
+          "name": "camoufly",
+          "url": "https://open.spotify.com/artist/6ZmJg6NCjGmRgC2GEI86pQ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156184,
+      "name": "llamando",
+      "url": "https://open.spotify.com/track/21FIxW5HXQR4KZS3jucpQw"
     },
     {
       "album": {
@@ -14351,6 +14431,24 @@
     },
     {
       "album": {
+        "name": "Shaking Things Up",
+        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Shaking Things Up",
+      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+    },
+    {
+      "album": {
         "name": "SHELLAC",
         "url": "https://open.spotify.com/album/3A0NU3KoG0k9U36b4S7e9b"
       },
@@ -16726,7 +16824,7 @@
       ],
       "date_added": "2024-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 247022,
       "name": "The Last Goodbye - Koven Remix",
       "url": "https://open.spotify.com/track/0PzfQHQEYVjhxsZZPtjScw"
@@ -17914,7 +18012,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 185984,
       "name": "VOICES",
       "url": "https://open.spotify.com/track/6wEzOR4qkz6sx3HDZecvtR"
@@ -18346,7 +18444,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 209142,
       "name": "Water Sign (feat. Aluna)",
       "url": "https://open.spotify.com/track/5bIneqUqPsUuYi2gwuaXzU"

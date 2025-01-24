@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 
 > Calm ambient music with gentle nature sounds.
 
-[Spotify](https://open.spotify.com/user/spotify) - 934,772 likes - 148 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 935,121 likes - 148 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1tuUiirhaT3.md) - [plain]
 | 147 | [Serenitas](https://open.spotify.com/track/6uyJy0Lp3EGtWnTQ7NIZud) | [Domy Castellano](https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO) | [Notturni, Vol\. 2](https://open.spotify.com/album/5CpQ5Ab4mZg0GfVoy3tt5y) | 3:29 |
 | 148 | [Slow Water](https://open.spotify.com/track/0FxXYM7iJBt3BQk72FkWh2) | [Altum Somnum](https://open.spotify.com/artist/5W2BQPTLV5i34uvAtUs935) | [Slow Water](https://open.spotify.com/album/48X7nxWrIIjaYxmSqr3M7g) | 3:11 |
 
-Snapshot ID: `Z4Y6ZQAAAAB7Z5Ebp96vqRe8f7nTD4+9`
+Snapshot ID: `Z5J91QAAAADS6xaxwJOIEz6ohR3ahV6M`

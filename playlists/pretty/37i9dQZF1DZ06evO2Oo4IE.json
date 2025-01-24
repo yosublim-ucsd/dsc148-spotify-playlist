@@ -1,12 +1,12 @@
 {
   "description": "This is Janis Joplin. The essential tracks, all in one playlist.",
-  "num_followers": 183242,
+  "num_followers": 183258,
   "original_name": "This Is Janis Joplin",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z47jgAAAAACqL4vyB+WHreU/FWO799x2",
+  "snapshot_id": "Z5A1AAAAAAA7freqDjc2azGALUrrgNFc",
   "tracks": [
     {
       "added_at": null,
@@ -220,9 +220,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 235160,
-      "name": "Try (Just a Little Bit Harder)",
-      "url": "https://open.spotify.com/track/5Icqjqizh8TnwHdejZQQGQ"
+      "duration_ms": 228693,
+      "name": "Little Girl Blue",
+      "url": "https://open.spotify.com/track/6tv6EVWMV7AIWi8PhZ0uvO"
     },
     {
       "added_at": null,
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
         }
       ],
-      "duration_ms": 228693,
-      "name": "Little Girl Blue",
-      "url": "https://open.spotify.com/track/6tv6EVWMV7AIWi8PhZ0uvO"
+      "duration_ms": 235160,
+      "name": "Try (Just a Little Bit Harder)",
+      "url": "https://open.spotify.com/track/5Icqjqizh8TnwHdejZQQGQ"
     },
     {
       "added_at": null,

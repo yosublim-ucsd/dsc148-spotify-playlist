@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 
 > The biggest Dance hits and the ones to come\. Cover: Ely Oaks, LAVINIA
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,849,705 likes - 50 songs - 2 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,849,783 likes - 50 songs - 2 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ZUug1ANKRP.md) - [plain]
 | 49 | [Around My Heart](https://open.spotify.com/track/6bnoFeiNxHKQFNILvqAtLp) | [NAJA](https://open.spotify.com/artist/5upYH7rY7XhDuDIzzGuaIE) | [Around My Heart](https://open.spotify.com/album/2O9aaLBxlqQQGn2YZKcjzS) | 2:10 |
 | 50 | [Lose Control](https://open.spotify.com/track/1Mn98pnsPYwvAS0yasxOUB) | [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D), [CERES](https://open.spotify.com/artist/32kPQzj1rk4nnGIIJpIUic) | [Lose Control](https://open.spotify.com/album/6ckV4zvYEpVIKsIOJQNy9Q) | 2:40 |
 
-Snapshot ID: `Z45LJQAAAACNCfZ9ife1bZNNTqdjPYTF`
+Snapshot ID: `Z5J+dwAAAACr0xyISONjjpJ/LLmpY0eL`

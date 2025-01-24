@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: DEAR\-GOD, Artwork: Isu Kim.
+> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: HORSEBATH, Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 19,348 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 19,376 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxStm5ni6tl.md) - [plain]
 | 49 | [Better Off Without](https://open.spotify.com/track/19ZVCaDVL0dl0zDUzq7Q9K) | [Lucas Roger](https://open.spotify.com/artist/15fqLj1C3M5ttu7eZLMyU0) | [Finite Light](https://open.spotify.com/album/3ZxBazkGEpkY7aZfl4qMzP) | 3:19 |
 | 50 | [Soleil](https://open.spotify.com/track/1IYMrZEVumopBNBfhGhSHd) | [Mélodie\-Jade](https://open.spotify.com/artist/1TdEVPQUOtvEypnIOeSjDK) | [Soleil](https://open.spotify.com/album/3GPYHckwzWXJ8qP9cLy98G) | 3:12 |
 
-Snapshot ID: `Z5EoQQAAAADmoa3m7cMp2BfLU1bBzZoD`
+Snapshot ID: `Z5JibgAAAAApld7eN87P+Khijm00Y8An`

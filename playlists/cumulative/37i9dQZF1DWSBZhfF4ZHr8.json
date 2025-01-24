@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : SANTA",
+  "description": "Les meilleures nouveaut\u00e9s de la vari\u00e9t\u00e9 fran\u00e7aise. Photo : Nej",
   "name": "Fresh Vari\u00e9t\u00e9",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 188333,
       "name": "Adieu, nous deux",
       "url": "https://open.spotify.com/track/6y8LXTxgfWkU6kGhLnK2XH"
@@ -790,7 +790,7 @@
       ],
       "date_added": "2024-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 174502,
       "name": "Enfant dor\u00e9",
       "url": "https://open.spotify.com/track/6XtHDeaIr1W6MhApPbaSGB"
@@ -1216,7 +1216,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 203759,
       "name": "L'amour dure trois mois",
       "url": "https://open.spotify.com/track/0ILQUlRTZ7Aty779RTf78Q"
@@ -1346,6 +1346,24 @@
       "duration_ms": 161375,
       "name": "la pluie",
       "url": "https://open.spotify.com/track/1xNEjz5Wfhb5ApOMN0Xr8Q"
+    },
+    {
+      "album": {
+        "name": "La question",
+        "url": "https://open.spotify.com/album/6Tbm0pq7D5wJn0fAtSouZv"
+      },
+      "artists": [
+        {
+          "name": "Bilal Hassani",
+          "url": "https://open.spotify.com/artist/1eoyu9uAivE7Jwak40J1MW"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168416,
+      "name": "La question",
+      "url": "https://open.spotify.com/track/2aCsRORqGZawWKz6wop7uX"
     },
     {
       "album": {
@@ -1765,6 +1783,24 @@
     },
     {
       "album": {
+        "name": "Les \u00e9toiles",
+        "url": "https://open.spotify.com/album/3p3XIEqXV37o6CCdCEa0W8"
+      },
+      "artists": [
+        {
+          "name": "L\u00e9man",
+          "url": "https://open.spotify.com/artist/2EnOL1ADehfBQB03ELa3QQ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163363,
+      "name": "Les \u00e9toiles",
+      "url": "https://open.spotify.com/track/0qhFivak96RXIyePqIWIWx"
+    },
+    {
+      "album": {
         "name": "\u00e0 2 \u00e0 3 (Deluxe)",
         "url": "https://open.spotify.com/album/3S8YZV8vEQCOkLtpy8a3TW"
       },
@@ -1936,6 +1972,24 @@
       "duration_ms": 259920,
       "name": "Mauvais r\u00eave - 28 ans",
       "url": "https://open.spotify.com/track/5yKtALi0PDiaPCQsng8CN5"
+    },
+    {
+      "album": {
+        "name": "Meilleurs qu'hier",
+        "url": "https://open.spotify.com/album/444hHvkA6169r1nSTg7vf5"
+      },
+      "artists": [
+        {
+          "name": "Malo'",
+          "url": "https://open.spotify.com/artist/0wHHtuNdjnmH9spIm2VrhR"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199146,
+      "name": "Meilleurs qu'hier",
+      "url": "https://open.spotify.com/track/0g4ObIiyj6t33K6WFDt1sr"
     },
     {
       "album": {
@@ -2492,7 +2546,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 187000,
       "name": "Recommence-moi (Version hymne de la promo 2024)",
       "url": "https://open.spotify.com/track/2pmouGx109C0GKJ8hb39B4"
@@ -2644,6 +2698,24 @@
       "duration_ms": 180361,
       "name": "Seul au monde (feat. Soolking)",
       "url": "https://open.spotify.com/track/0KrYHoN0qRDv4IO9EDP6gX"
+    },
+    {
+      "album": {
+        "name": "SEUL ICI",
+        "url": "https://open.spotify.com/album/4ZtyeiFtPwkBhZUXBIZAPh"
+      },
+      "artists": [
+        {
+          "name": "Boulevard des Airs",
+          "url": "https://open.spotify.com/artist/6px2zTzjQAPLkuea5qQ2Gx"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193832,
+      "name": "SEUL ICI",
+      "url": "https://open.spotify.com/track/5NgTH6KDb2aOIleC9XZkQH"
     },
     {
       "album": {
@@ -3066,7 +3138,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 165093,
       "name": "Tu vis (feat. Mentissa)",
       "url": "https://open.spotify.com/track/4cSC9LFdVKFqD6x7dfxXDG"
@@ -3124,6 +3196,28 @@
       "duration_ms": 153740,
       "name": "Une fille comme moi",
       "url": "https://open.spotify.com/track/6JjgLR8WNupFKzassxgQDc"
+    },
+    {
+      "album": {
+        "name": "Les singles d'Ebony et Marine",
+        "url": "https://open.spotify.com/album/1SVLbcyvHIwchOvmjtD0XJ"
+      },
+      "artists": [
+        {
+          "name": "Star Academy",
+          "url": "https://open.spotify.com/artist/0SkR0pnP9oQ3ghG9juH9hy"
+        },
+        {
+          "name": "Ebony",
+          "url": "https://open.spotify.com/artist/0NCfVJ4NDxaKUW8yV4lUlQ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160026,
+      "name": "Unforgettable",
+      "url": "https://open.spotify.com/track/2VXktzdXfNbCEfu8fnpKYe"
     },
     {
       "album": {

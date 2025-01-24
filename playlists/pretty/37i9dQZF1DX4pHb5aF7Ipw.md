@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Rap\. Cover: Chani Nattan, Inderpal Moga & Sukha
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,479 likes - 75 songs - 3 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 40,496 likes - 75 songs - 3 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,7 +50,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 | 40 | [Puadh Ki Vaar](https://open.spotify.com/track/6HGtJUnsIZ8GaYkvT2tkgk) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9) | [Puadh Ki Vaar](https://open.spotify.com/album/0LJ0Hobb9xIoVWK4BUvKy2) | 4:48 |
 | 41 | [3 Case](https://open.spotify.com/track/29LOwNLNY7U5gbrtDQhS6r) | [Sukhrawal](https://open.spotify.com/artist/49HWqbDp2hrzvorAAbTqaD), [AD Yaar](https://open.spotify.com/artist/7gnnzRTepcTqsIHIybl5rQ) | [3 Case](https://open.spotify.com/album/4QdzzhZ3KL5mxEbihrajXs) | 2:57 |
 | 42 | [Jungli](https://open.spotify.com/track/61Ttaf7MkJWuZo1nWH4ZGU) | [Xadeh Shah](https://open.spotify.com/artist/4z42SlUklPLEgBSyeFUp1P), [Zaidi](https://open.spotify.com/artist/1lbzsxQ6DwSqEje7lxEhIt) | [Jungli](https://open.spotify.com/album/3iPPqaX73obBXLWbkB7PXK) | 3:29 |
-| 43 | [Parda](https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV) | [Arjun Bajwa](https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R), [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM) | [Parda](https://open.spotify.com/album/3SMcUd4TseNNWRstFAF3Y4) | 2:59 |
+| 43 | [Parda](https://open.spotify.com/track/5J75wO3Z5C80RsQOMpzAhV) | [Arjun Bajwa](https://open.spotify.com/artist/3kI857k0xGV8NqCBKWSS8R), [Tech Panda](https://open.spotify.com/artist/3mzZ5nf3QScPqc7y9EzJ6X), [Kenzani](https://open.spotify.com/artist/6h4u0DWy8GXHeehzB0kaiM), [Tasho](https://open.spotify.com/artist/00EJduQGC6mDxLA8xP9Ln0) | [Parda](https://open.spotify.com/album/3SMcUd4TseNNWRstFAF3Y4) | 2:59 |
 | 44 | [Yaari Hood](https://open.spotify.com/track/72lykxjGBmwCq8RMtchJDS) | [Manny Bawa](https://open.spotify.com/artist/4Vp4bkNva3T5C8Lh1AO1pS) | [Yaari Hood](https://open.spotify.com/album/1TbrlWZMAK2Cqni47DRdI6) | 3:19 |
 | 45 | [Wrong Life](https://open.spotify.com/track/7F4c5Xio4eQLI1VuzPAOaO) | [HeartBeat](https://open.spotify.com/artist/6eHl2vIWYGa9wSeWzlUlpd), [Mehmaan shakur](https://open.spotify.com/artist/3w0xq8M9o0j8UxQ06zLcbR), [Doctor Shoeb](https://open.spotify.com/artist/7wiiudGKJ8qhnHnPz8HyqO), [Gyaana Hassan](https://open.spotify.com/artist/1FnmchLxliYxYdGpRxaQhs) | [Wrong Life](https://open.spotify.com/album/1WueoOL4Hu6L8A4eSw6Q13) | 5:13 |
 | 46 | [Different League](https://open.spotify.com/track/3tK8v9IEB5oO07ww4zf2ND) | [Showkidd](https://open.spotify.com/artist/0lqjRojARBHXCBYVOm16CC), [Asim Riaz](https://open.spotify.com/artist/0uPcaDPyjSJPlCiYTZWQ1V), [Diljan](https://open.spotify.com/artist/5wq7uAiLmjk5RdRpxw1aQF) | [Different League](https://open.spotify.com/album/6DuMKfBvNksZL5iwiRXUWt) | 2:53 |

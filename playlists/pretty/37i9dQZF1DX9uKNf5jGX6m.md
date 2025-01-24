@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 
 > New age music for balancing mind and body.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,988,358 likes - 210 songs - 10 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,988,763 likes - 210 songs - 10 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -219,4 +219,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9uKNf5jGX6m.md) - [plain]
 | 209 | [Echoes](https://open.spotify.com/track/0O2ndAmDQNo4dAipSw1o8o) | [Nomadias](https://open.spotify.com/artist/0JWzljcR1K7Q7Zc4IgVWu0) | [Echoes](https://open.spotify.com/album/4JmN33LVIXmGfcev3hEqrF) | 2:48 |
 | 210 | [Promising](https://open.spotify.com/track/2z0bu71IINbJ8JlUsDklUW) | [Garda Eulyssos](https://open.spotify.com/artist/0wYXxRlJDi8Z3wrQXwirlb) | [Awaiting The Light](https://open.spotify.com/album/2xiKuJydcJMzfQp5eY6uj2) | 2:59 |
 
-Snapshot ID: `Z30A/wAAAADqG0sLz3gaPOZ4jjVk6pU0`
+Snapshot ID: `Z5J+vQAAAAACLauYEa/mwzB1VrOMYeOX`

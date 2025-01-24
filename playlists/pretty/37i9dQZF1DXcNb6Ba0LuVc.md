@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 279,377 likes - 235 songs - 8 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 279,548 likes - 235 songs - 8 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,4 +244,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 234 | [The Daily Special](https://open.spotify.com/track/0cymQFMEAd4himK9cKzwEw) | [Berezy](https://open.spotify.com/artist/3XrRt4tc8xQk7ANDbJjZsv), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Solar Daze](https://open.spotify.com/album/3TMRES3rVh3fKhri7JYgHW) | 2:12 |
 | 235 | [Happy Moments](https://open.spotify.com/track/3t6XG8oYtSiLnvERIgLBMj) | [Bequem](https://open.spotify.com/artist/5FIfzVEYEnXc1k7fPVpNZy), [LOKY](https://open.spotify.com/artist/05X9wYVSuPkNwUSD6eB9Lh) | [Happy Moments](https://open.spotify.com/album/1vHIDEwMySEmWCQzx8S11w) | 2:00 |
 
-Snapshot ID: `Z4nV0QAAAADpMVw1tqB6/WS0K/ZhSPvG`
+Snapshot ID: `Z5J+4gAAAADSBonKigChwHhxURNZwjon`

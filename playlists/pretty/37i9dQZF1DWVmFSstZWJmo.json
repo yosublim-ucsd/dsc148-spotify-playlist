@@ -1,6 +1,6 @@
 {
   "description": "TV on the Radio 4eva ",
-  "num_followers": 186202,
+  "num_followers": 186288,
   "original_name": "Indie Sleaze",
   "owner": {
     "name": "Spotify",
@@ -611,22 +611,6 @@
     {
       "added_at": "2024-11-22 20:36:21",
       "album": {
-        "name": "Le Tigre",
-        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
-      },
-      "artists": [
-        {
-          "name": "Le Tigre",
-          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
-        }
-      ],
-      "duration_ms": 184626,
-      "name": "Deceptacon",
-      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
-    },
-    {
-      "added_at": "2024-11-22 20:36:21",
-      "album": {
         "name": "Passive Me, Aggressive You",
         "url": "https://open.spotify.com/album/5ImvJCAX33Pt2XGMaYaMia"
       },
@@ -639,6 +623,22 @@
       "duration_ms": 246600,
       "name": "Young Blood",
       "url": "https://open.spotify.com/track/25nzKGDiua1lE9Qo5V19GL"
+    },
+    {
+      "added_at": "2024-11-22 20:36:21",
+      "album": {
+        "name": "Le Tigre",
+        "url": "https://open.spotify.com/album/0dSSZGzoukzrFBnG07J45i"
+      },
+      "artists": [
+        {
+          "name": "Le Tigre",
+          "url": "https://open.spotify.com/artist/2n6FviARgtjjimZXu18uRM"
+        }
+      ],
+      "duration_ms": 184626,
+      "name": "Deceptacon",
+      "url": "https://open.spotify.com/track/5773KSWFzg9kCc8yazjbSt"
     },
     {
       "added_at": "2024-11-22 20:36:21",
@@ -835,22 +835,6 @@
     {
       "added_at": "2024-11-22 20:36:21",
       "album": {
-        "name": "Just Your Doll",
-        "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
-      },
-      "artists": [
-        {
-          "name": "Snow Strippers",
-          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
-        }
-      ],
-      "duration_ms": 147234,
-      "name": "Just Your Doll",
-      "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
-    },
-    {
-      "added_at": "2024-11-22 20:36:21",
-      "album": {
         "name": "Sound of Silver",
         "url": "https://open.spotify.com/album/1R8kkopLT4IAxzMMkjic6X"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 462266,
       "name": "All My Friends",
       "url": "https://open.spotify.com/track/2Ud3deeqLAG988pfW0Kwcl"
+    },
+    {
+      "added_at": "2024-11-22 20:36:21",
+      "album": {
+        "name": "Just Your Doll",
+        "url": "https://open.spotify.com/album/4jyNNtKDiCe5ZJvNxT9BlG"
+      },
+      "artists": [
+        {
+          "name": "Snow Strippers",
+          "url": "https://open.spotify.com/artist/6TsAG8Ve1icEC8ydeHm3C8"
+        }
+      ],
+      "duration_ms": 147234,
+      "name": "Just Your Doll",
+      "url": "https://open.spotify.com/track/18n0voG6fG03ogJznGiyWD"
     },
     {
       "added_at": "2024-11-22 20:36:21",
@@ -931,18 +931,18 @@
     {
       "added_at": "2024-11-22 20:36:21",
       "album": {
-        "name": "LCD Soundsystem",
-        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+        "name": "Brothers",
+        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
       },
       "artists": [
         {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+          "name": "The Black Keys",
+          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
         }
       ],
-      "duration_ms": 314556,
-      "name": "Daft Punk Is Playing at My House",
-      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
+      "duration_ms": 203773,
+      "name": "Everlasting Light",
+      "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
     },
     {
       "added_at": "2024-11-22 20:36:21",
@@ -959,22 +959,6 @@
       "duration_ms": 204906,
       "name": "L.E.S. Artistes",
       "url": "https://open.spotify.com/track/4dmCLAZbWYT0qtcG7GVMdb"
-    },
-    {
-      "added_at": "2024-11-22 20:36:21",
-      "album": {
-        "name": "Brothers",
-        "url": "https://open.spotify.com/album/7qE6RXYyz5kj5Tll7mJU0v"
-      },
-      "artists": [
-        {
-          "name": "The Black Keys",
-          "url": "https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz"
-        }
-      ],
-      "duration_ms": 203773,
-      "name": "Everlasting Light",
-      "url": "https://open.spotify.com/track/6dU5RxthbuaN31bRbEDlNw"
     },
     {
       "added_at": "2024-11-22 20:36:21",
@@ -1007,6 +991,22 @@
       "duration_ms": 240760,
       "name": "Y Control",
       "url": "https://open.spotify.com/track/5tryzDT3iMMcONq3YHWgC9"
+    },
+    {
+      "added_at": "2024-11-22 20:36:21",
+      "album": {
+        "name": "LCD Soundsystem",
+        "url": "https://open.spotify.com/album/6aSk2vxoY3xtz7cXKuY9EL"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 314556,
+      "name": "Daft Punk Is Playing at My House",
+      "url": "https://open.spotify.com/track/73mlvsfJM2qwlDUJxeaatI"
     },
     {
       "added_at": "2024-11-22 20:36:21",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2024-11-22 20:36:21",
       "album": {
-        "name": "x-ray eyes",
-        "url": "https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt"
-      },
-      "artists": [
-        {
-          "name": "LCD Soundsystem",
-          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
-        }
-      ],
-      "duration_ms": 291506,
-      "name": "x-ray eyes",
-      "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"
-    },
-    {
-      "added_at": "2024-11-22 20:36:21",
-      "album": {
         "name": "Mickey Avalon",
         "url": "https://open.spotify.com/album/3UG9rC8sFazZjbzCsS4tWV"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 180386,
       "name": "My Dick",
       "url": "https://open.spotify.com/track/2tN2Kvzm2ITh1jnMKjjWBZ"
+    },
+    {
+      "added_at": "2024-11-22 20:36:21",
+      "album": {
+        "name": "x-ray eyes",
+        "url": "https://open.spotify.com/album/0NXggkTAhL1M8NOz7tfzAt"
+      },
+      "artists": [
+        {
+          "name": "LCD Soundsystem",
+          "url": "https://open.spotify.com/artist/066X20Nz7iquqkkCW6Jxy6"
+        }
+      ],
+      "duration_ms": 291506,
+      "name": "x-ray eyes",
+      "url": "https://open.spotify.com/track/6vitrLyJKoMUUC87JsgIAY"
     },
     {
       "added_at": "2024-11-22 20:36:21",
@@ -1171,22 +1171,6 @@
     {
       "added_at": "2024-11-22 20:36:21",
       "album": {
-        "name": "What's Wrong With New York?",
-        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
-      },
-      "artists": [
-        {
-          "name": "The Dare",
-          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
-        }
-      ],
-      "duration_ms": 233397,
-      "name": "All Night",
-      "url": "https://open.spotify.com/track/4IGT69nbtQdRXNVIZaulOf"
-    },
-    {
-      "added_at": "2024-11-22 20:36:21",
-      "album": {
         "name": "It's Blitz!",
         "url": "https://open.spotify.com/album/4dBMwYZJ84lj8HRTdL8Toj"
       },
@@ -1199,6 +1183,22 @@
       "duration_ms": 221000,
       "name": "Heads Will Roll",
       "url": "https://open.spotify.com/track/4WiIscpBgQFm5qIyjoH7M4"
+    },
+    {
+      "added_at": "2024-11-22 20:36:21",
+      "album": {
+        "name": "What's Wrong With New York?",
+        "url": "https://open.spotify.com/album/7ETvH1PHtaY35WhmpTTt7s"
+      },
+      "artists": [
+        {
+          "name": "The Dare",
+          "url": "https://open.spotify.com/artist/2mqiqsaX4LzFnUP7PmHGAb"
+        }
+      ],
+      "duration_ms": 233397,
+      "name": "All Night",
+      "url": "https://open.spotify.com/track/4IGT69nbtQdRXNVIZaulOf"
     },
     {
       "added_at": "2024-11-22 20:36:21",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2024-11-22 20:36:21",
       "album": {
+        "name": "Impeach My Bush",
+        "url": "https://open.spotify.com/album/5CSak2h5F36n6QieudTObv"
+      },
+      "artists": [
+        {
+          "name": "Peaches",
+          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
+        }
+      ],
+      "duration_ms": 235480,
+      "name": "Boys Wanna Be Her",
+      "url": "https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd"
+    },
+    {
+      "added_at": "2024-11-22 20:36:21",
+      "album": {
         "name": "The Collective",
         "url": "https://open.spotify.com/album/4j9UADX3wZtXWolDNT3y3x"
       },
@@ -1411,22 +1427,6 @@
       "duration_ms": 180120,
       "name": "Rich Girls",
       "url": "https://open.spotify.com/track/58F6iKkYdIccktJ8i8BuQQ"
-    },
-    {
-      "added_at": "2024-11-22 20:36:21",
-      "album": {
-        "name": "Impeach My Bush",
-        "url": "https://open.spotify.com/album/5CSak2h5F36n6QieudTObv"
-      },
-      "artists": [
-        {
-          "name": "Peaches",
-          "url": "https://open.spotify.com/artist/1gkSl4XpHIHI4I1WQbfXOE"
-        }
-      ],
-      "duration_ms": 235480,
-      "name": "Boys Wanna Be Her",
-      "url": "https://open.spotify.com/track/06IZo6f9idHrryBnFoyoHd"
     },
     {
       "added_at": "2024-11-22 20:36:21",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2024-11-22 20:36:21",
       "album": {
-        "name": "Fantastic Playroom",
-        "url": "https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA"
-      },
-      "artists": [
-        {
-          "name": "New Young Pony Club",
-          "url": "https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w"
-        }
-      ],
-      "duration_ms": 188080,
-      "name": "Ice Cream",
-      "url": "https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9"
-    },
-    {
-      "added_at": "2024-11-22 20:36:21",
-      "album": {
         "name": "Apologies to the Queen Mary",
         "url": "https://open.spotify.com/album/6ZeO3WNF2Gti8ZQnXog5SQ"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 276613,
       "name": "I'll Believe in Anything",
       "url": "https://open.spotify.com/track/7zxikeAavSLQVGocbK2nau"
+    },
+    {
+      "added_at": "2024-11-22 20:36:21",
+      "album": {
+        "name": "Fantastic Playroom",
+        "url": "https://open.spotify.com/album/1v1Yp8sNjnCqx5YRf8ZaJA"
+      },
+      "artists": [
+        {
+          "name": "New Young Pony Club",
+          "url": "https://open.spotify.com/artist/3kdrMtLybQIl93rXJlvF3w"
+        }
+      ],
+      "duration_ms": 188080,
+      "name": "Ice Cream",
+      "url": "https://open.spotify.com/track/02ISLTUYF5GUjKrL7zvRb9"
     },
     {
       "added_at": "2024-11-22 20:36:21",

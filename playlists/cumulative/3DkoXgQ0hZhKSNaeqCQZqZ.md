@@ -4,7 +4,7 @@
 
 > The playlist made for furries, by furries\.  Request @ spotify.furrest.online
 
-273 songs - 14 hr 31 min
+274 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -279,6 +279,7 @@
 | [X \(Bury It\)](https://open.spotify.com/track/5ScdZyIJtYlFUafW4zsiI3) | [When Snakes Sing](https://open.spotify.com/artist/6fXDCCpVRFZuBVqyqNNhxJ), [JohnieCanine](https://open.spotify.com/artist/7aGboTX3PPIk0lm1UpN9aS) | [Knives](https://open.spotify.com/album/3YhBp1Hp4TNNnVlFYtXFr8) | 4:02 | 2024-04-03 |  |
 | [Y2K](https://open.spotify.com/track/7wWqdXBLZMxdCWphYfln9a) | [ivycomb](https://open.spotify.com/artist/12WiIkK6iBWyRefeKpMaKo), [Stephanafro](https://open.spotify.com/artist/3EKlD3ejEcFDsUe5ZvjzMf) | [Raised by Aliens](https://open.spotify.com/album/1mTM51rvOXPen3pVzekCf3) | 2:18 | 2024-12-06 |  |
 | [You Can't Hide](https://open.spotify.com/track/32filOsmivxaFHKLX6Ixth) | [Ck9c](https://open.spotify.com/artist/5GdjL6RkFagKcwkPu990Gg), [Elizabeth Ann](https://open.spotify.com/artist/2OMS3Dpaq62LEX9iirn7F5) | [You Can't Hide](https://open.spotify.com/album/5ugJHon7uBFj5nWIBxm7np) | 4:28 | 2024-01-03 |  |
+| [you get me fucked](https://open.spotify.com/track/5TdU9RvPbL1OIOyIc1D71d) | [lambcatz](https://open.spotify.com/artist/1kZhT2J3MLjIr1VhgsFG8t) | [you get me fucked](https://open.spotify.com/album/6E0Tj9BcRkX42CXonRWktp) | 1:22 | 2025-01-23 |  |
 | [You'll Be Gone](https://open.spotify.com/track/0WQ7qaeId6XAi704MbQM1x) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [You'll Be Gone](https://open.spotify.com/album/0gH8DEh4ckICe6PB7Dc4kq) | 3:42 | 2023-06-14 |  |
 | [YOUR TOUCH](https://open.spotify.com/track/0FuB5N3msY4vAbyA4cngiI) | [♥ GOJII ♥](https://open.spotify.com/artist/2uKlOWltMsAxTHTsh4UHJY) | [YOUR TOUCH](https://open.spotify.com/album/4JGzn0cPRwE5vgMRFHYWh4) | 4:41 | 2024-12-31 |  |
 

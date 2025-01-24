@@ -1,6 +1,6 @@
 {
   "description": "Filthy bass bangers to soundtrack your sesh",
-  "num_followers": 161721,
+  "num_followers": 161729,
   "original_name": "Proper Naughty ",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2025-01-17 11:06:36",
       "album": {
+        "name": "In The Echo / Change",
+        "url": "https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj"
+      },
+      "artists": [
+        {
+          "name": "Koven",
+          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
+        }
+      ],
+      "duration_ms": 183448,
+      "name": "In The Echo",
+      "url": "https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw"
+    },
+    {
+      "added_at": "2025-01-17 11:06:36",
+      "album": {
         "name": "Gone For The Night (feat. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes)",
         "url": "https://open.spotify.com/album/3J1UwJGIqxEloqKlqMAhJ2"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 138191,
       "name": "Gone For The Night (feat. Liam Bailey, BackRoad Gee, Scrufizzer & Shakes)",
       "url": "https://open.spotify.com/track/0qgdSsuggcpvhvugFj1G31"
-    },
-    {
-      "added_at": "2025-01-17 11:06:36",
-      "album": {
-        "name": "In The Echo / Change",
-        "url": "https://open.spotify.com/album/7ejctK0J4t2OSt0OFjZFsj"
-      },
-      "artists": [
-        {
-          "name": "Koven",
-          "url": "https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa"
-        }
-      ],
-      "duration_ms": 183448,
-      "name": "In The Echo",
-      "url": "https://open.spotify.com/track/3umnS58B88O7O7tW2pIfqw"
     },
     {
       "added_at": "2025-01-17 11:06:36",
@@ -1111,6 +1111,26 @@
     {
       "added_at": "2025-01-17 11:06:36",
       "album": {
+        "name": "Wicked & Bad",
+        "url": "https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT"
+      },
+      "artists": [
+        {
+          "name": "Krakota",
+          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+        },
+        {
+          "name": "Scrufizzer",
+          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+        }
+      ],
+      "duration_ms": 165517,
+      "name": "Wicked & Bad",
+      "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"
+    },
+    {
+      "added_at": "2025-01-17 11:06:36",
+      "album": {
         "name": "Vibe Check",
         "url": "https://open.spotify.com/album/6j168iu9mAEX6Kr683E2Ra"
       },
@@ -1175,26 +1195,6 @@
     {
       "added_at": "2025-01-17 11:06:36",
       "album": {
-        "name": "Nancy Junglist",
-        "url": "https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu"
-      },
-      "artists": [
-        {
-          "name": "JAEL",
-          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
-        },
-        {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
-        }
-      ],
-      "duration_ms": 220800,
-      "name": "Nancy Junglist",
-      "url": "https://open.spotify.com/track/3o3z4W9yb9TZDCh1j3npyO"
-    },
-    {
-      "added_at": "2025-01-17 11:06:36",
-      "album": {
         "name": "Rhythm & Gash VIP",
         "url": "https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg"
       },
@@ -1211,58 +1211,22 @@
     {
       "added_at": "2025-01-17 11:06:36",
       "album": {
-        "name": "Wicked & Bad",
-        "url": "https://open.spotify.com/album/4T5Q0KhJLcB7PwtQJCm2NT"
+        "name": "Nancy Junglist",
+        "url": "https://open.spotify.com/album/2R0gnSJtdE4c3gMb1CFxIu"
       },
       "artists": [
         {
-          "name": "Krakota",
-          "url": "https://open.spotify.com/artist/6NkoAm5Dd1wguz0ATgZKlF"
+          "name": "JAEL",
+          "url": "https://open.spotify.com/artist/5p77ntJBUVTiJ00bmwhQaO"
         },
         {
-          "name": "Scrufizzer",
-          "url": "https://open.spotify.com/artist/3JmGsgVoGUN1Ro1jLfi7k1"
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
         }
       ],
-      "duration_ms": 165517,
-      "name": "Wicked & Bad",
-      "url": "https://open.spotify.com/track/29Q5RgWKJFf2SvlKuMgqWV"
-    },
-    {
-      "added_at": "2025-01-17 11:06:36",
-      "album": {
-        "name": "Hazmat / Deserted",
-        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
-      },
-      "artists": [
-        {
-          "name": "Basstripper",
-          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
-        }
-      ],
-      "duration_ms": 201517,
-      "name": "Deserted",
-      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
-    },
-    {
-      "added_at": "2025-01-17 11:06:36",
-      "album": {
-        "name": "Bass & Treble",
-        "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
-      },
-      "artists": [
-        {
-          "name": "Jappa",
-          "url": "https://open.spotify.com/artist/1YjOQxSsA8Le5egt7q7RaI"
-        },
-        {
-          "name": "Wish Master",
-          "url": "https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn"
-        }
-      ],
-      "duration_ms": 228024,
-      "name": "Bass & Treble",
-      "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
+      "duration_ms": 220800,
+      "name": "Nancy Junglist",
+      "url": "https://open.spotify.com/track/3o3z4W9yb9TZDCh1j3npyO"
     },
     {
       "added_at": "2025-01-17 11:06:36",
@@ -1287,6 +1251,42 @@
     {
       "added_at": "2025-01-17 11:06:36",
       "album": {
+        "name": "Bass & Treble",
+        "url": "https://open.spotify.com/album/3RM2olXS37uK142eIS5DgH"
+      },
+      "artists": [
+        {
+          "name": "Jappa",
+          "url": "https://open.spotify.com/artist/1YjOQxSsA8Le5egt7q7RaI"
+        },
+        {
+          "name": "Wish Master",
+          "url": "https://open.spotify.com/artist/1PnQ5ew1JOtCQfbXWmXAWn"
+        }
+      ],
+      "duration_ms": 228024,
+      "name": "Bass & Treble",
+      "url": "https://open.spotify.com/track/7MJqSAiwXwqHNlS46ESZP0"
+    },
+    {
+      "added_at": "2025-01-17 11:06:36",
+      "album": {
+        "name": "Hazmat / Deserted",
+        "url": "https://open.spotify.com/album/6RodXXydXIJ7ExfVqmhsB6"
+      },
+      "artists": [
+        {
+          "name": "Basstripper",
+          "url": "https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl"
+        }
+      ],
+      "duration_ms": 201517,
+      "name": "Deserted",
+      "url": "https://open.spotify.com/track/6ztA5JezwcOt3SkGYqAE96"
+    },
+    {
+      "added_at": "2025-01-17 11:06:36",
+      "album": {
         "name": "CONTEXT",
         "url": "https://open.spotify.com/album/38gQnVVwncSqxJ4msdAvwy"
       },
@@ -1307,30 +1307,6 @@
     {
       "added_at": "2025-01-17 11:06:36",
       "album": {
-        "name": "Jet black",
-        "url": "https://open.spotify.com/album/1wZFS7CI07eg1TfFCaYT5h"
-      },
-      "artists": [
-        {
-          "name": "Mr Traumatik",
-          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
-        },
-        {
-          "name": "Devilman",
-          "url": "https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK"
-        },
-        {
-          "name": "Frenzee",
-          "url": "https://open.spotify.com/artist/3TM1dK0UnEKVId1zfhycFO"
-        }
-      ],
-      "duration_ms": 201053,
-      "name": "Jet black",
-      "url": "https://open.spotify.com/track/6LQKFnu5NApfRZJoJqfPVG"
-    },
-    {
-      "added_at": "2025-01-17 11:06:36",
-      "album": {
         "name": "Underground Supply",
         "url": "https://open.spotify.com/album/2STP67R8BdZVgTc7BTiwuj"
       },
@@ -1347,6 +1323,22 @@
       "duration_ms": 252607,
       "name": "Underground Supply",
       "url": "https://open.spotify.com/track/3qWBUddWrpUPcoYGqLxhyM"
+    },
+    {
+      "added_at": "2025-01-17 11:06:36",
+      "album": {
+        "name": "Back 2 Dance",
+        "url": "https://open.spotify.com/album/7FpGVcwKzPiGQnTIIQJyF1"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        }
+      ],
+      "duration_ms": 172413,
+      "name": "Back 2 Dance",
+      "url": "https://open.spotify.com/track/6POvzcHeKt5SEDTrptAKO8"
     },
     {
       "added_at": "2025-01-17 11:06:36",
@@ -1375,6 +1367,30 @@
     {
       "added_at": "2025-01-17 11:06:36",
       "album": {
+        "name": "Jet black",
+        "url": "https://open.spotify.com/album/1wZFS7CI07eg1TfFCaYT5h"
+      },
+      "artists": [
+        {
+          "name": "Mr Traumatik",
+          "url": "https://open.spotify.com/artist/2ZKsAq380W6XWsyWyuKv3Z"
+        },
+        {
+          "name": "Devilman",
+          "url": "https://open.spotify.com/artist/73nEd2GvjMYNSsFnxKSDAK"
+        },
+        {
+          "name": "Frenzee",
+          "url": "https://open.spotify.com/artist/3TM1dK0UnEKVId1zfhycFO"
+        }
+      ],
+      "duration_ms": 201053,
+      "name": "Jet black",
+      "url": "https://open.spotify.com/track/6LQKFnu5NApfRZJoJqfPVG"
+    },
+    {
+      "added_at": "2025-01-17 11:06:36",
+      "album": {
         "name": "Bounce EP",
         "url": "https://open.spotify.com/album/3is6qL8SHCRDJJXVOjXSev"
       },
@@ -1387,42 +1403,6 @@
       "duration_ms": 181028,
       "name": "Bounce",
       "url": "https://open.spotify.com/track/1xzO3WnBokjD2FksxDoTao"
-    },
-    {
-      "added_at": "2025-01-17 11:06:36",
-      "album": {
-        "name": "Back 2 Dance",
-        "url": "https://open.spotify.com/album/7FpGVcwKzPiGQnTIIQJyF1"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        }
-      ],
-      "duration_ms": 172413,
-      "name": "Back 2 Dance",
-      "url": "https://open.spotify.com/track/6POvzcHeKt5SEDTrptAKO8"
-    },
-    {
-      "added_at": "2025-01-17 11:06:36",
-      "album": {
-        "name": "Wearing My Tracky",
-        "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
-      },
-      "artists": [
-        {
-          "name": "LZee",
-          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
-        },
-        {
-          "name": "Toddla T",
-          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
-        }
-      ],
-      "duration_ms": 105090,
-      "name": "Wearing My Tracky",
-      "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
     },
     {
       "added_at": "2025-01-17 11:06:36",
@@ -1451,26 +1431,22 @@
     {
       "added_at": "2025-01-17 11:06:36",
       "album": {
-        "name": "Trigga Finga",
-        "url": "https://open.spotify.com/album/6BiHmR3sbgeTTWUUvOc7At"
+        "name": "Wearing My Tracky",
+        "url": "https://open.spotify.com/album/4Ec2pA8NiSIl9OlvTwBKxH"
       },
       "artists": [
         {
-          "name": "Gentlemens Club",
-          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+          "name": "LZee",
+          "url": "https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe"
         },
         {
-          "name": "T95",
-          "url": "https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS"
-        },
-        {
-          "name": "Eksman",
-          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+          "name": "Toddla T",
+          "url": "https://open.spotify.com/artist/3l1C23aRp4lfkBK3lLAp2m"
         }
       ],
-      "duration_ms": 208586,
-      "name": "Trigga Finga",
-      "url": "https://open.spotify.com/track/1DRu17abhsN8N28KxvhFVn"
+      "duration_ms": 105090,
+      "name": "Wearing My Tracky",
+      "url": "https://open.spotify.com/track/3TIyaYkKMobsb4xW76eBW4"
     },
     {
       "added_at": "2025-01-17 11:06:36",
@@ -1491,6 +1467,30 @@
       "duration_ms": 188275,
       "name": "A Little More - Friendly Foe Remix",
       "url": "https://open.spotify.com/track/2gR7O5lmQB5yBWCPiAtrXJ"
+    },
+    {
+      "added_at": "2025-01-17 11:06:36",
+      "album": {
+        "name": "Trigga Finga",
+        "url": "https://open.spotify.com/album/6BiHmR3sbgeTTWUUvOc7At"
+      },
+      "artists": [
+        {
+          "name": "Gentlemens Club",
+          "url": "https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO"
+        },
+        {
+          "name": "T95",
+          "url": "https://open.spotify.com/artist/1VFKd9CgkuFqdrrYVRHkIS"
+        },
+        {
+          "name": "Eksman",
+          "url": "https://open.spotify.com/artist/2654RQ9MP4lxi0PLQY3ig7"
+        }
+      ],
+      "duration_ms": 208586,
+      "name": "Trigga Finga",
+      "url": "https://open.spotify.com/track/1DRu17abhsN8N28KxvhFVn"
     },
     {
       "added_at": "2025-01-17 11:06:36",

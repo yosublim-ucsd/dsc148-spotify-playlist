@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-19",
-  "description": "Motion en good vibes. Cover: Jayh & Chavant\u00e9",
+  "description": "Motion en good vibes. Cover: Noano & Emms",
   "name": "La Vida Loca",
   "tracks": [
     {
@@ -2437,6 +2437,40 @@
     },
     {
       "album": {
+        "name": "Bebe Contigo",
+        "url": "https://open.spotify.com/album/6E5PxkJedTL0OdsaWCRRhR"
+      },
+      "artists": [
+        {
+          "name": "Dj Fasta",
+          "url": "https://open.spotify.com/artist/3J1MVADg8VwYQ6FFsqnTUV"
+        },
+        {
+          "name": "AMEIRO",
+          "url": "https://open.spotify.com/artist/0faTotlFohiONYvkEnsHt2"
+        },
+        {
+          "name": "Major Dreamin'",
+          "url": "https://open.spotify.com/artist/0EWMZgr0f9k7KVkfm1lIIG"
+        },
+        {
+          "name": "Godwonder",
+          "url": "https://open.spotify.com/artist/6BleBBYjao1MPvOoJ5yYSv"
+        },
+        {
+          "name": "Miroo",
+          "url": "https://open.spotify.com/artist/0Uh3EPTnnPoVPN3GyAo1Qc"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153884,
+      "name": "Bebe Contigo",
+      "url": "https://open.spotify.com/track/3irAPPf0PGjF7vbC17QCV4"
+    },
+    {
+      "album": {
         "name": "Bebe\u011fim",
         "url": "https://open.spotify.com/album/6RUSOUecDOBsdjSL1Q6mw5"
       },
@@ -3777,6 +3811,32 @@
     },
     {
       "album": {
+        "name": "Body Is Viraal",
+        "url": "https://open.spotify.com/album/2GkWH3bMwx6yg0uopoDYzK"
+      },
+      "artists": [
+        {
+          "name": "Shikss",
+          "url": "https://open.spotify.com/artist/1SzciTtL2bewCNpbRTk6z7"
+        },
+        {
+          "name": "6iant",
+          "url": "https://open.spotify.com/artist/1crOmwDhXGwd42WXLHn6ii"
+        },
+        {
+          "name": "T4L",
+          "url": "https://open.spotify.com/artist/3XHQ9kWAPHHBE8DPCF6DQZ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128659,
+      "name": "Body Is Viraal",
+      "url": "https://open.spotify.com/track/4fdsHoA4P0Tfqk9pRNQCUX"
+    },
+    {
+      "album": {
         "name": "Body On Top",
         "url": "https://open.spotify.com/album/7nTc0du5lUgC0f32t7cIPp"
       },
@@ -4396,7 +4456,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 150334,
       "name": "Bundesliga",
       "url": "https://open.spotify.com/track/4wSqfmYUyVnQJaEyBtmrWg"
@@ -9140,6 +9200,28 @@
       "duration_ms": 155104,
       "name": "Ghir Mchi",
       "url": "https://open.spotify.com/track/3Uqwp3KPspswrmamdpSuLK"
+    },
+    {
+      "album": {
+        "name": "Gimme This",
+        "url": "https://open.spotify.com/album/2pzrxgfcQBTteI1blNzrup"
+      },
+      "artists": [
+        {
+          "name": "Blaiz Fayah",
+          "url": "https://open.spotify.com/artist/2WyypmYjOdaXg0bXDP67j7"
+        },
+        {
+          "name": "Kybba",
+          "url": "https://open.spotify.com/artist/5I8OAPN5jY1wvHwpnsRRsA"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120076,
+      "name": "Gimme This",
+      "url": "https://open.spotify.com/track/2UBhly3ixZDOC8lVohDWnR"
     },
     {
       "album": {
@@ -14912,7 +14994,7 @@
       ],
       "date_added": "2024-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 154210,
       "name": "Mazaa",
       "url": "https://open.spotify.com/track/7oo74HSuRw9OSMUxkokK3R"
@@ -15110,7 +15192,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 134467,
       "name": "MENTAAL",
       "url": "https://open.spotify.com/track/7lBhE9etCeJE8hFCyQkdQy"
@@ -16219,6 +16301,32 @@
     },
     {
       "album": {
+        "name": "My Caro (Marc Benjamin Remix)",
+        "url": "https://open.spotify.com/album/7BcYHB1KQ8dBhb4UhHBkY5"
+      },
+      "artists": [
+        {
+          "name": "Kish",
+          "url": "https://open.spotify.com/artist/2gVFsWpxGngHu7qbYbj8Ci"
+        },
+        {
+          "name": "KATNUF",
+          "url": "https://open.spotify.com/artist/4xDh11zptvPADSQxvbiClo"
+        },
+        {
+          "name": "Marc Benjamin",
+          "url": "https://open.spotify.com/artist/05KjvP5zdwtEIgEazqblZw"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164000,
+      "name": "My Caro - Marc Benjamin Remix",
+      "url": "https://open.spotify.com/track/2avGg3KD4IVeL1f4epmaFi"
+    },
+    {
+      "album": {
         "name": "My Lover",
         "url": "https://open.spotify.com/album/33oK0lwuZSHdDCg3HWBVuw"
       },
@@ -16824,7 +16932,7 @@
       ],
       "date_added": "2024-09-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 165818,
       "name": "No Chaser (feat. Henkie T)",
       "url": "https://open.spotify.com/track/3c1LVh439Ady7bgLFuMWn3"
@@ -19132,7 +19240,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 130571,
       "name": "Pinky Promise",
       "url": "https://open.spotify.com/track/4wmTrhqOpMZoh8QSvgW0Rs"
@@ -19891,6 +19999,28 @@
     },
     {
       "album": {
+        "name": "Qu\u00e9 Pasar\u00eda...",
+        "url": "https://open.spotify.com/album/0uuqkIU29zH9mpChddc5Tn"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Bad Bunny",
+          "url": "https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191018,
+      "name": "Qu\u00e9 Pasar\u00eda...",
+      "url": "https://open.spotify.com/track/0OxKf18dUo2G5dFOQYCvBN"
+    },
+    {
+      "album": {
         "name": "Qu\u00edmica",
         "url": "https://open.spotify.com/album/1DL1Guxy1nD4dIOMqlf0yO"
       },
@@ -20212,6 +20342,24 @@
       "duration_ms": 147741,
       "name": "Ring Di Alarm",
       "url": "https://open.spotify.com/track/1D0pdbZyGTIDt6ynWP3JLM"
+    },
+    {
+      "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
     },
     {
       "album": {
@@ -21926,7 +22074,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 138000,
       "name": "Spiritual Mami",
       "url": "https://open.spotify.com/track/4iomHXx4iKSlGt2XuqqXv6"
@@ -24347,6 +24495,28 @@
     },
     {
       "album": {
+        "name": "2019",
+        "url": "https://open.spotify.com/album/0qNgPDrUrTayyTAgbkMVPU"
+      },
+      "artists": [
+        {
+          "name": "Jack",
+          "url": "https://open.spotify.com/artist/7CIYYEGtuTl0sjwEY8ihGh"
+        },
+        {
+          "name": "Quincy Promes",
+          "url": "https://open.spotify.com/artist/6ak4Dte1ZVVz6iGqv7jTrS"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Uber",
+      "url": "https://open.spotify.com/track/2sq9qzqVdWoGVAvovxwDqj"
+    },
+    {
+      "album": {
         "name": "Uit De Ghetto",
         "url": "https://open.spotify.com/album/6zZdRNl00rDQLp2bpiFFi3"
       },
@@ -25485,6 +25655,28 @@
     },
     {
       "album": {
+        "name": "Waka",
+        "url": "https://open.spotify.com/album/1rZmQSUcTYNOFOGwwt2hkJ"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Emms",
+          "url": "https://open.spotify.com/artist/2AkaK2DXdBUWYjpwOHoKs2"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160101,
+      "name": "Waka",
+      "url": "https://open.spotify.com/track/1h3NOjMsuH3ij4rF5TeQTX"
+    },
+    {
+      "album": {
         "name": "Wakker",
         "url": "https://open.spotify.com/album/6f5KtYbGYaoCUwlUoOwTt6"
       },
@@ -26564,7 +26756,7 @@
       ],
       "date_added": "2024-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 152000,
       "name": "Your Season",
       "url": "https://open.spotify.com/track/7n2YVNWeogHCBfJWMmf0JU"
@@ -27012,7 +27204,7 @@
       ],
       "date_added": "2025-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 208094,
       "name": "\u272a Ego (feat. GIMS & Lola Indigo)",
       "url": "https://open.spotify.com/track/0RudoX6OQvCNibT0wYrPAx"

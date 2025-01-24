@@ -1,13 +1,113 @@
 {
-  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Jan 23:02 UTC.",
+  "description": "Latest popular single releases. Sorted by release date &amp; popularity. Updated 23 Jan 19:02 UTC.",
   "num_followers": 88,
   "original_name": "New Singles Now",
   "owner": {
     "name": "Listige",
     "url": "https://open.spotify.com/user/v9iqfai0ejp8rgcb2sx9n6yis"
   },
-  "snapshot_id": "AAAOyUUVseQZEXaSyeL6Let0j3gC0Si6",
+  "snapshot_id": "AAAO0W+dQ1K7QFlHAz51pAGfQneJk9qM",
   "tracks": [
+    {
+      "added_at": "2025-01-23 14:03:04",
+      "album": {
+        "name": "Nod",
+        "url": "https://open.spotify.com/album/3V4z6ARU3OpFvvXh3Q9Btk"
+      },
+      "artists": [
+        {
+          "name": "Rise Against",
+          "url": "https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O"
+        }
+      ],
+      "duration_ms": 182494,
+      "name": "Nod",
+      "url": "https://open.spotify.com/track/074O5vhNrG4JfMhu6Q5enC"
+    },
+    {
+      "added_at": "2025-01-23 19:02:32",
+      "album": {
+        "name": "I Believe",
+        "url": "https://open.spotify.com/album/1geUgtSRgYzTijD8bNgHoA"
+      },
+      "artists": [
+        {
+          "name": "Killswitch Engage",
+          "url": "https://open.spotify.com/artist/37394IP6uhnjIpsawpMu4l"
+        }
+      ],
+      "duration_ms": 234931,
+      "name": "I Believe",
+      "url": "https://open.spotify.com/track/7GDqw5IBzAiu9zV7paGLnT"
+    },
+    {
+      "added_at": "2025-01-23 19:02:32",
+      "album": {
+        "name": "Man Made of Meat",
+        "url": "https://open.spotify.com/album/6giAZg9nJ1jIjpd57Jt6Wo"
+      },
+      "artists": [
+        {
+          "name": "Viagra Boys",
+          "url": "https://open.spotify.com/artist/2nAKP6etu8wXNnezKXgqgg"
+        }
+      ],
+      "duration_ms": 189947,
+      "name": "Man Made of Meat",
+      "url": "https://open.spotify.com/track/05IdqHMPXSr8dW4rEw5SEZ"
+    },
+    {
+      "added_at": "2025-01-23 14:03:04",
+      "album": {
+        "name": "Return To One",
+        "url": "https://open.spotify.com/album/2pKC84UFiaaol1GosInWBs"
+      },
+      "artists": [
+        {
+          "name": "Invent Animate",
+          "url": "https://open.spotify.com/artist/3ALVPmg5sZexSVD2m9atEt"
+        },
+        {
+          "name": "Silent Planet",
+          "url": "https://open.spotify.com/artist/0JGTiwfinlCuANGu4Gq2XU"
+        }
+      ],
+      "duration_ms": 215759,
+      "name": "Return To One",
+      "url": "https://open.spotify.com/track/3d4gBGDpByOnQXCcj0d8Uf"
+    },
+    {
+      "added_at": "2025-01-23 14:03:04",
+      "album": {
+        "name": "Even If It Kills Me",
+        "url": "https://open.spotify.com/album/5xkM5c1gLbEp8UgIx4WV0x"
+      },
+      "artists": [
+        {
+          "name": "Papa Roach",
+          "url": "https://open.spotify.com/artist/4RddZ3iHvSpGV4dvATac9X"
+        }
+      ],
+      "duration_ms": 212239,
+      "name": "Even If It Kills Me",
+      "url": "https://open.spotify.com/track/06dBzUBULISVMFBeNKbbRA"
+    },
+    {
+      "added_at": "2025-01-23 04:02:45",
+      "album": {
+        "name": "Midnight Messiah",
+        "url": "https://open.spotify.com/album/7guwsxWiaBe9SyB8IVteKP"
+      },
+      "artists": [
+        {
+          "name": "Dream Theater",
+          "url": "https://open.spotify.com/artist/2aaLAng2L2aWD2FClzwiep"
+        }
+      ],
+      "duration_ms": 478186,
+      "name": "Midnight Messiah",
+      "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
+    },
     {
       "added_at": "2025-01-22 23:02:39",
       "album": {
@@ -151,6 +251,22 @@
       "duration_ms": 192066,
       "name": "Rushmere",
       "url": "https://open.spotify.com/track/5bZwpT4em6OVU9u1VS4KW8"
+    },
+    {
+      "added_at": "2025-01-23 09:03:12",
+      "album": {
+        "name": "Real Man",
+        "url": "https://open.spotify.com/album/6GPls5bYTcL6vfomkLs0bl"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "duration_ms": 160600,
+      "name": "Real Man",
+      "url": "https://open.spotify.com/track/2pScZYnHVA2S3b7WpM6gJn"
     },
     {
       "added_at": "2025-01-18 23:03:29",
@@ -767,134 +883,6 @@
       "duration_ms": 160737,
       "name": "Puppy",
       "url": "https://open.spotify.com/track/6Qysn1iEj418NwIx8K19RC"
-    },
-    {
-      "added_at": "2025-01-20 23:02:56",
-      "album": {
-        "name": "LOVE 2",
-        "url": "https://open.spotify.com/album/6CXe6T3fygwEdPdIAquWuS"
-      },
-      "artists": [
-        {
-          "name": "BBGIRLS",
-          "url": "https://open.spotify.com/artist/7yXtdZLKdtwH5FrxduK7ti"
-        }
-      ],
-      "duration_ms": 169160,
-      "name": "LOVE 2",
-      "url": "https://open.spotify.com/track/59IQKPXEbdOdRxx889fBBO"
-    },
-    {
-      "added_at": "2025-01-17 04:02:35",
-      "album": {
-        "name": "Ocean Steppin'",
-        "url": "https://open.spotify.com/album/5kDpOmWdd6GwNZ7yiKm8jE"
-      },
-      "artists": [
-        {
-          "name": "John Glacier",
-          "url": "https://open.spotify.com/artist/0FNfiTQCR5o3ounOlWzm1d"
-        },
-        {
-          "name": "Sampha",
-          "url": "https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm"
-        }
-      ],
-      "duration_ms": 170322,
-      "name": "Ocean Steppin'",
-      "url": "https://open.spotify.com/track/1MlGcV91pwGj59IVAhuFT7"
-    },
-    {
-      "added_at": "2025-01-16 04:03:04",
-      "album": {
-        "name": "Break The BOOM! Meter",
-        "url": "https://open.spotify.com/album/1hzTDReTAPzSAalO0FeLNj"
-      },
-      "artists": [
-        {
-          "name": "A.J. & Big Justice",
-          "url": "https://open.spotify.com/artist/0vZddxsYtrJ235wfjUavKp"
-        },
-        {
-          "name": "AMH",
-          "url": "https://open.spotify.com/artist/2TSwn8irgXwsoPyWVjPmnl"
-        },
-        {
-          "name": "The Rizzler",
-          "url": "https://open.spotify.com/artist/5QaiZbvGTAXIpi3NYIxsaK"
-        }
-      ],
-      "duration_ms": 115696,
-      "name": "Break The BOOM! Meter",
-      "url": "https://open.spotify.com/track/4WoMzaHALcdiAZU5nPU5lN"
-    },
-    {
-      "added_at": "2025-01-17 19:03:32",
-      "album": {
-        "name": "take it slow",
-        "url": "https://open.spotify.com/album/3AMNBMeY5JZYEO5k8mcaeR"
-      },
-      "artists": [
-        {
-          "name": "nate sib",
-          "url": "https://open.spotify.com/artist/4TNu2ZIE566yKwEhOT8eTv"
-        }
-      ],
-      "duration_ms": 137842,
-      "name": "take it slow",
-      "url": "https://open.spotify.com/track/6xSUqBXmKCh9DdZGw97dHo"
-    },
-    {
-      "added_at": "2025-01-21 09:02:50",
-      "album": {
-        "name": "Lucky",
-        "url": "https://open.spotify.com/album/0n7QHDeVGKA3yelZgTE54U"
-      },
-      "artists": [
-        {
-          "name": "Kim Wan-sun",
-          "url": "https://open.spotify.com/artist/3e0aTvNjIG93ye2YlL90UF"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 186533,
-      "name": "Lucky",
-      "url": "https://open.spotify.com/track/0rRyLHOtUa9NyHun1jansJ"
-    },
-    {
-      "added_at": "2025-01-14 19:03:30",
-      "album": {
-        "name": "Blackhole",
-        "url": "https://open.spotify.com/album/0WOFwPsTBGs4nWaPPZfLxI"
-      },
-      "artists": [
-        {
-          "name": "Architects",
-          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "Blackhole",
-      "url": "https://open.spotify.com/track/2qcXDpEzi89CMgxPXAiiI8"
-    },
-    {
-      "added_at": "2025-01-18 04:02:53",
-      "album": {
-        "name": "shoreline",
-        "url": "https://open.spotify.com/album/4mY8RZxeT3z2iWbjDSEUH2"
-      },
-      "artists": [
-        {
-          "name": "chloe moriondo",
-          "url": "https://open.spotify.com/artist/3P4vW5tzQvmuoNaFQqzy9q"
-        }
-      ],
-      "duration_ms": 244473,
-      "name": "shoreline",
-      "url": "https://open.spotify.com/track/7KG58PdbDJcOckVlLSFX5d"
     }
   ],
   "unique_name": "New Singles Now",

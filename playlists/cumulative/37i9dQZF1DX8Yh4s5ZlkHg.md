@@ -2,7 +2,7 @@
 
 ### [sexy indie](https://open.spotify.com/playlist/37i9dQZF1DX8Yh4s5ZlkHg)
 
-> Intimate.
+> Intimate, sultry, satisfying.
 
 80 songs - 4 hr 52 min
 

@@ -1,6 +1,6 @@
 {
   "description": "The best in house music",
-  "num_followers": 500399,
+  "num_followers": 500393,
   "original_name": "House Supreme",
   "owner": {
     "name": "Spotify",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
+        "name": "Magic Garden EP",
+        "url": "https://open.spotify.com/album/2Hc2n3IJED7YQD1PKkkcPf"
+      },
+      "artists": [
+        {
+          "name": "II Faces",
+          "url": "https://open.spotify.com/artist/4hZL4r9HYfZy8kg5orn3e1"
+        }
+      ],
+      "duration_ms": 173507,
+      "name": "Magic Garden",
+      "url": "https://open.spotify.com/track/2wZ061VVOcR5GeCIab6wj2"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
         "name": "Beautiful Day (feat. Liisi Lafontaine)",
         "url": "https://open.spotify.com/album/1bwb9TFemPzbyJMru309sq"
       },
@@ -1459,22 +1475,6 @@
       "duration_ms": 239999,
       "name": "Beautiful Day (feat. Liisi Lafontaine)",
       "url": "https://open.spotify.com/track/2bBxIUeztazGNrbDYJF9RT"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
-        "name": "Magic Garden EP",
-        "url": "https://open.spotify.com/album/2Hc2n3IJED7YQD1PKkkcPf"
-      },
-      "artists": [
-        {
-          "name": "II Faces",
-          "url": "https://open.spotify.com/artist/4hZL4r9HYfZy8kg5orn3e1"
-        }
-      ],
-      "duration_ms": 173507,
-      "name": "Magic Garden",
-      "url": "https://open.spotify.com/track/2wZ061VVOcR5GeCIab6wj2"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1543,6 +1543,22 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
+        "name": "Trip",
+        "url": "https://open.spotify.com/album/79FOIDw0PEQTqy6mVm1ysI"
+      },
+      "artists": [
+        {
+          "name": "RUZE",
+          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
+        }
+      ],
+      "duration_ms": 204651,
+      "name": "Trip",
+      "url": "https://open.spotify.com/track/7J42jTDbEHWipS0rdrviIZ"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
         "name": "You & I",
         "url": "https://open.spotify.com/album/1cn7hF8EOcYxqLfWdEPrWi"
       },
@@ -1559,22 +1575,6 @@
       "duration_ms": 183046,
       "name": "You & I",
       "url": "https://open.spotify.com/track/2JKSwsqtfhpx6zkuSZFGa4"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
-        "name": "Trip",
-        "url": "https://open.spotify.com/album/79FOIDw0PEQTqy6mVm1ysI"
-      },
-      "artists": [
-        {
-          "name": "RUZE",
-          "url": "https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP"
-        }
-      ],
-      "duration_ms": 204651,
-      "name": "Trip",
-      "url": "https://open.spotify.com/track/7J42jTDbEHWipS0rdrviIZ"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1599,22 +1599,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "More Than Friends",
-        "url": "https://open.spotify.com/album/6h29RkvgIkUj96AzQPtarY"
-      },
-      "artists": [
-        {
-          "name": "Mohtiv",
-          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
-        }
-      ],
-      "duration_ms": 183475,
-      "name": "More Than Friends",
-      "url": "https://open.spotify.com/track/1ArnBQobPlbFnrqLQ9OzFA"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "In My House (Edit)",
         "url": "https://open.spotify.com/album/1yii9F8xIJzgYjJRnZKCtr"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 188735,
       "name": "In My House - Edit",
       "url": "https://open.spotify.com/track/5hsMcCPuRjzg1ldTuHBmpV"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "More Than Friends",
+        "url": "https://open.spotify.com/album/6h29RkvgIkUj96AzQPtarY"
+      },
+      "artists": [
+        {
+          "name": "Mohtiv",
+          "url": "https://open.spotify.com/artist/32CSGSXgKI6WgPHwzSRYbG"
+        }
+      ],
+      "duration_ms": 183475,
+      "name": "More Than Friends",
+      "url": "https://open.spotify.com/track/1ArnBQobPlbFnrqLQ9OzFA"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1847,26 +1847,6 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Voc\u00ea Chegou",
-        "url": "https://open.spotify.com/album/6y079nJ40NbY5Qnad8nnpl"
-      },
-      "artists": [
-        {
-          "name": "Soldera",
-          "url": "https://open.spotify.com/artist/3jkWhyxck0vHfZV83khRLc"
-        },
-        {
-          "name": "Barbatuques",
-          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
-        }
-      ],
-      "duration_ms": 208062,
-      "name": "Voc\u00ea Chegou",
-      "url": "https://open.spotify.com/track/33nXKnlbDs5zsI5A4tMkCi"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
         "name": "Wrong",
         "url": "https://open.spotify.com/album/3y8UGdJcrVulYXU1b8q6Ud"
       },
@@ -1883,22 +1863,22 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Please Take Me There (Mak\u00e8z Vocal House Remix)",
-        "url": "https://open.spotify.com/album/1tW7wKo1lhGI6tHcql8hxM"
+        "name": "Voc\u00ea Chegou",
+        "url": "https://open.spotify.com/album/6y079nJ40NbY5Qnad8nnpl"
       },
       "artists": [
         {
-          "name": "Tom Noble",
-          "url": "https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF"
+          "name": "Soldera",
+          "url": "https://open.spotify.com/artist/3jkWhyxck0vHfZV83khRLc"
         },
         {
-          "name": "Mak\u00e8z",
-          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+          "name": "Barbatuques",
+          "url": "https://open.spotify.com/artist/5xnMjuPp1eDXa8du0SKIHD"
         }
       ],
-      "duration_ms": 388193,
-      "name": "Please Take Me There - Mak\u00e8z Vocal House Remix",
-      "url": "https://open.spotify.com/track/0mQ5l1WmiMaKe9zpIaerT3"
+      "duration_ms": 208062,
+      "name": "Voc\u00ea Chegou",
+      "url": "https://open.spotify.com/track/33nXKnlbDs5zsI5A4tMkCi"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1947,6 +1927,26 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
+        "name": "Please Take Me There (Mak\u00e8z Vocal House Remix)",
+        "url": "https://open.spotify.com/album/1tW7wKo1lhGI6tHcql8hxM"
+      },
+      "artists": [
+        {
+          "name": "Tom Noble",
+          "url": "https://open.spotify.com/artist/2ImZW6kUWVOAKvK4f7CElF"
+        },
+        {
+          "name": "Mak\u00e8z",
+          "url": "https://open.spotify.com/artist/0jJ2FmezizVLUIll3rbXmE"
+        }
+      ],
+      "duration_ms": 388193,
+      "name": "Please Take Me There - Mak\u00e8z Vocal House Remix",
+      "url": "https://open.spotify.com/track/0mQ5l1WmiMaKe9zpIaerT3"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
         "name": "Two Hearts EP",
         "url": "https://open.spotify.com/album/5EmhtGastrE8dksOnUGZLF"
       },
@@ -1959,22 +1959,6 @@
       "duration_ms": 219047,
       "name": "Two Hearts - Original Mix",
       "url": "https://open.spotify.com/track/7wtjDhC7rShqYPdFIrxcor"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
-        "name": "Baby Voque",
-        "url": "https://open.spotify.com/album/2S5YMMdTA5r5TVBN9hf683"
-      },
-      "artists": [
-        {
-          "name": "Ghostbusterz",
-          "url": "https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4"
-        }
-      ],
-      "duration_ms": 316097,
-      "name": "Baby Voque",
-      "url": "https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -1995,6 +1979,22 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
+        "name": "Baby Voque",
+        "url": "https://open.spotify.com/album/2S5YMMdTA5r5TVBN9hf683"
+      },
+      "artists": [
+        {
+          "name": "Ghostbusterz",
+          "url": "https://open.spotify.com/artist/62afOPRPMMS388Upk1nZP4"
+        }
+      ],
+      "duration_ms": 316097,
+      "name": "Baby Voque",
+      "url": "https://open.spotify.com/track/3G8vb4FR4K0TNemgWvpPdJ"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
         "name": "Roadhouse",
         "url": "https://open.spotify.com/album/3KMFzZTiKXtzeK6uW7KIbh"
       },
@@ -2011,26 +2011,6 @@
       "duration_ms": 210000,
       "name": "French 75",
       "url": "https://open.spotify.com/track/4kMa10rUvrtekpPGrNROWC"
-    },
-    {
-      "added_at": "2024-12-20 09:30:55",
-      "album": {
-        "name": "Better World",
-        "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
-      },
-      "artists": [
-        {
-          "name": "CID",
-          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
-        },
-        {
-          "name": "Chris Moody",
-          "url": "https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui"
-        }
-      ],
-      "duration_ms": 186562,
-      "name": "Better World",
-      "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -2063,6 +2043,26 @@
       "duration_ms": 222822,
       "name": "Body Music",
       "url": "https://open.spotify.com/track/5uGYA6fEITkT1Qkwp2Dt8c"
+    },
+    {
+      "added_at": "2024-12-20 09:30:55",
+      "album": {
+        "name": "Better World",
+        "url": "https://open.spotify.com/album/18ytwDEGWlQ7siXzpTi9Rh"
+      },
+      "artists": [
+        {
+          "name": "CID",
+          "url": "https://open.spotify.com/artist/4FCzCS0KEgb0rgySWINItO"
+        },
+        {
+          "name": "Chris Moody",
+          "url": "https://open.spotify.com/artist/1wIiZwCIGDvM3YfYqo33Ui"
+        }
+      ],
+      "duration_ms": 186562,
+      "name": "Better World",
+      "url": "https://open.spotify.com/track/6OcuhfJvy3rZZIaLeDxlcW"
     },
     {
       "added_at": "2024-12-20 09:30:55",
@@ -2279,26 +2279,18 @@
     {
       "added_at": "2024-12-20 09:30:55",
       "album": {
-        "name": "Remix EP",
-        "url": "https://open.spotify.com/album/6pcOgtpIJqA78cgNVBsQx4"
+        "name": "Energy",
+        "url": "https://open.spotify.com/album/0frPLOSItgdYoTs7U6Jzwz"
       },
       "artists": [
         {
-          "name": "Kapote",
-          "url": "https://open.spotify.com/artist/3sySIHNL0hqR7eOlm3LNTH"
-        },
-        {
-          "name": "Kosmo Kint",
-          "url": "https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn"
-        },
-        {
-          "name": "Coeo",
-          "url": "https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z"
+          "name": "El Khatib",
+          "url": "https://open.spotify.com/artist/4JPMPLzlLruCet2AyqfB9y"
         }
       ],
-      "duration_ms": 303771,
-      "name": "Strangers - Coeo House Mix",
-      "url": "https://open.spotify.com/track/5c69DeVjQcfW2kHzccyo3b"
+      "duration_ms": 134178,
+      "name": "Energy",
+      "url": "https://open.spotify.com/track/4pQppnOYJznwgO1F8mNPfx"
     }
   ],
   "unique_name": "House Supreme",

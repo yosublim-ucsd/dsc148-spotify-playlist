@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > The best new tracks of all Christian, Gospel, Worship & Inspirational music genres this week!  Cover: Jon Reddick
 
-[Spotify](https://open.spotify.com/user/spotify) - 345,999 likes - 99 songs - 6 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 346,053 likes - 99 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 26 | [The Garden](https://open.spotify.com/track/62sXnFm9R51HVyyOthnw4d) | [Anchor Hymns](https://open.spotify.com/artist/4UuCCQRHiLAMzOWXkFtqSE), [Sandra McCracken](https://open.spotify.com/artist/435UmkDo0uchwmDeHdKWGN), [Sarah Kroger](https://open.spotify.com/artist/22cW8LmhiJAWAaFd0cfEbH) | [The Garden](https://open.spotify.com/album/4VFZyyYh5tUwezpkvPlg9I) | 4:10 |
 | 27 | [Slower I Go \- Studio](https://open.spotify.com/track/0T45uaLw5tJb1ZpiNbX0MA) | [SEU Worship](https://open.spotify.com/artist/7M7UXUwtz3Wb25PVS8dwHs), [Chelsea Plank](https://open.spotify.com/artist/2rZyX9csPrIfGn1E7iSF7y) | [Slower I Go \(Studio\)](https://open.spotify.com/album/6UWtzsqOckTOQWzlrq7Qvp) | 4:18 |
 | 28 | [Doorkeeper](https://open.spotify.com/track/6puwefYQJscScbqwPO8hVP) | [CXMMXNS](https://open.spotify.com/artist/3jpqxQzzcSIyXgTb4i4CEa), [Kory Miller](https://open.spotify.com/artist/0QCjdltvL9ZrRhayylw97h), [Ben Fielding](https://open.spotify.com/artist/33u16EyDkCbsyvh66ujJiO) | [Doorkeeper](https://open.spotify.com/album/5o2WxWDy0XHdvKIfeeJAYN) | 6:08 |
-| 29 | [GOD DID!](https://open.spotify.com/track/1q8tZJcuBNxsrfDRyYObcg) | [Sons of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [GOD DID! / Runnin With Angels](https://open.spotify.com/album/55PaBZWs8KfXkbNGMZJoY7) | 4:41 |
+| 29 | [GOD DID!](https://open.spotify.com/track/1q8tZJcuBNxsrfDRyYObcg) | [Sons Of Sunday](https://open.spotify.com/artist/4xdrIk3HcWXiRifZnnpG5O) | [GOD DID! / Runnin With Angels](https://open.spotify.com/album/55PaBZWs8KfXkbNGMZJoY7) | 4:41 |
 | 30 | [No Famine](https://open.spotify.com/track/5FBdmidq7E9Dxj5hHLXtOq) | [Oceans Music](https://open.spotify.com/artist/28wMpJq73XFWPxgz1UcR4G), [David Ryan Cook](https://open.spotify.com/artist/0rXE8A2EXq1Z0pZPA46z0T) | [No Famine](https://open.spotify.com/album/12XBgWJkQ12QjcgJeHDnKP) | 7:36 |
 | 31 | [You're Good For It](https://open.spotify.com/track/6498SChjF2s35LYdjQb7B6) | [The Dodds](https://open.spotify.com/artist/19PhCtCPPzv4CCepliG4hl) | [You're Good For It](https://open.spotify.com/album/7t3yPcqEL1hZYxQiqx8JJm) | 4:58 |
 | 32 | [All My Hope](https://open.spotify.com/track/1qRi3izUu1fs4uJSF9QBhs) | [Jonathan Lee McElhenny](https://open.spotify.com/artist/08vxD3roX2JckYwjZZVjr2), [People & Songs](https://open.spotify.com/artist/0DLoqaxhfWU5litFyzLqn8) | [Jonathan Lee McElhenny](https://open.spotify.com/album/4yBWpV3WfeTT70zQlidoga) | 3:24 |

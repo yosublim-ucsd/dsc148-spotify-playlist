@@ -1,6 +1,6 @@
 {
   "description": "Lyrical, lo-fi, and lowlife raps. Cover: Doechii",
-  "num_followers": 1591897,
+  "num_followers": 1591943,
   "original_name": "Spilled Ink",
   "owner": {
     "name": "Spotify",
@@ -843,26 +843,6 @@
     {
       "added_at": "2025-01-17 04:00:17",
       "album": {
-        "name": "Hidden in Plain Sight",
-        "url": "https://open.spotify.com/album/48Y5EUlLMIw3Zt08fCP1HN"
-      },
-      "artists": [
-        {
-          "name": "Boldy James",
-          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
-        },
-        {
-          "name": "whothehelliscarlo",
-          "url": "https://open.spotify.com/artist/0Nijs9ipdrHUPc9OeM9vbl"
-        }
-      ],
-      "duration_ms": 180360,
-      "name": "Dirty Dancing",
-      "url": "https://open.spotify.com/track/46WPyviv37r22gwCI6TE29"
-    },
-    {
-      "added_at": "2025-01-17 04:00:17",
-      "album": {
         "name": "DBZ",
         "url": "https://open.spotify.com/album/29YHhWfhv5Cbpnk94SDc5S"
       },
@@ -887,6 +867,26 @@
       "duration_ms": 191040,
       "name": "DBZ",
       "url": "https://open.spotify.com/track/5YxyOJnOHFUnPU4UeKZMf6"
+    },
+    {
+      "added_at": "2025-01-17 04:00:17",
+      "album": {
+        "name": "Hidden in Plain Sight",
+        "url": "https://open.spotify.com/album/48Y5EUlLMIw3Zt08fCP1HN"
+      },
+      "artists": [
+        {
+          "name": "Boldy James",
+          "url": "https://open.spotify.com/artist/4fpwOzxFRMVGfd197dKIdY"
+        },
+        {
+          "name": "whothehelliscarlo",
+          "url": "https://open.spotify.com/artist/0Nijs9ipdrHUPc9OeM9vbl"
+        }
+      ],
+      "duration_ms": 180360,
+      "name": "Dirty Dancing",
+      "url": "https://open.spotify.com/track/46WPyviv37r22gwCI6TE29"
     },
     {
       "added_at": "2025-01-17 04:00:17",

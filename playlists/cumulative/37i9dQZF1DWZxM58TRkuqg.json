@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-01-30",
-  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Anggi Marito",
+  "description": "Deretan musik Indonesia terpopuler saat ini.  Cover: Salma Salsabil",
   "name": "Puncak Klasemen",
   "tracks": [
     {
@@ -596,6 +596,24 @@
       "duration_ms": 258700,
       "name": "Berharap Kau Kembali",
       "url": "https://open.spotify.com/track/39KLpL6U90nMI1GzaBuv1s"
+    },
+    {
+      "album": {
+        "name": "Berharap Pada Timur",
+        "url": "https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3"
+      },
+      "artists": [
+        {
+          "name": "Salma Salsabil",
+          "url": "https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221927,
+      "name": "Berharap Pada Timur",
+      "url": "https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN"
     },
     {
       "album": {
@@ -2136,7 +2154,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 196306,
       "name": "Jauh Di Sana - From \"Moana 2\"/Bahasa Indonesia Single Version",
       "url": "https://open.spotify.com/track/3n7N2zCLJGZylQpJkFkA6s"
@@ -2328,7 +2346,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 261562,
       "name": "Kasmaran",
       "url": "https://open.spotify.com/track/5MkEW02j6Lu7uMxaieHxVZ"
@@ -3098,7 +3116,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 257704,
       "name": "Manusia Super",
       "url": "https://open.spotify.com/track/62mI04lTuGDUmxuUSwhBHn"
@@ -3388,6 +3406,28 @@
       "duration_ms": 228125,
       "name": "Mengenal Lebih Jauh",
       "url": "https://open.spotify.com/track/3SnTh7hIYJzB4J6zyJ17OA"
+    },
+    {
+      "album": {
+        "name": "Sebelum Merayakan",
+        "url": "https://open.spotify.com/album/1MX1RStzJR8jkIHNjcn9Si"
+      },
+      "artists": [
+        {
+          "name": "For Revenge",
+          "url": "https://open.spotify.com/artist/0f6TyESD8E1mD2oLJ4TGv1"
+        },
+        {
+          "name": "Elsa Japasal",
+          "url": "https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218214,
+      "name": "Menunggu Giliran",
+      "url": "https://open.spotify.com/track/4i9rbztGgYtIYo6jSaYCvq"
     },
     {
       "album": {
@@ -4362,6 +4402,24 @@
       "duration_ms": 239427,
       "name": "Semoga Ada Waktu Luang",
       "url": "https://open.spotify.com/track/6xKg948XDmszEygPYYUMIP"
+    },
+    {
+      "album": {
+        "name": "Semoga Sembuh (Dinyanyikan di Atas Awan)",
+        "url": "https://open.spotify.com/album/2hwqGp0ORcEYpCVWaQeVxr"
+      },
+      "artists": [
+        {
+          "name": "Idgitaf",
+          "url": "https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243500,
+      "name": "Semoga Sembuh (Dinyanyikan di Atas Awan)",
+      "url": "https://open.spotify.com/track/5s4kPcLfaqchd4N48cMtiH"
     },
     {
       "album": {

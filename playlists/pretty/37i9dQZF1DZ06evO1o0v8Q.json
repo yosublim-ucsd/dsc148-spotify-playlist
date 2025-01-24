@@ -1,12 +1,12 @@
 {
   "description": "This is Turnstile. The essential tracks, all in one playlist.",
-  "num_followers": 25644,
+  "num_followers": 25649,
   "original_name": "This Is Turnstile",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "Z47jgAAAAAA9I8heZupKc03uYdYPM0SM",
+  "snapshot_id": "Z5A1AAAAAACpNKqViPiIqr091W5M1M3O",
   "tracks": [
     {
       "added_at": null,
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 64058,
-      "name": "Harder On You",
-      "url": "https://open.spotify.com/track/6EI3gG0eNw2Cniu6RZOUvU"
+      "duration_ms": 123237,
+      "name": "Come Back For More",
+      "url": "https://open.spotify.com/track/6mh7W1Ae8KS437otrDPkxU"
     },
     {
       "added_at": null,
@@ -524,9 +524,9 @@
           "url": "https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x"
         }
       ],
-      "duration_ms": 123237,
-      "name": "Come Back For More",
-      "url": "https://open.spotify.com/track/6mh7W1Ae8KS437otrDPkxU"
+      "duration_ms": 64058,
+      "name": "Harder On You",
+      "url": "https://open.spotify.com/track/6EI3gG0eNw2Cniu6RZOUvU"
     },
     {
       "added_at": null,

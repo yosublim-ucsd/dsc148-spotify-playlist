@@ -2336,7 +2336,7 @@
       ],
       "date_added": "2022-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 196052,
       "name": "Malayali Da",
       "url": "https://open.spotify.com/track/73H37RXqxkb7y48reuhgRc"
@@ -3818,6 +3818,32 @@
       "duration_ms": 150855,
       "name": "Scoot Scoot (Original Soundtrack)",
       "url": "https://open.spotify.com/track/6M3b5IenACOTvOfvEUoTPb"
+    },
+    {
+      "album": {
+        "name": "SLAM",
+        "url": "https://open.spotify.com/album/5fh4rLBLLy3gXanrpzyRJC"
+      },
+      "artists": [
+        {
+          "name": "draeKo",
+          "url": "https://open.spotify.com/artist/66r04nyBXUCeKq9CVk3kaq"
+        },
+        {
+          "name": "AZWIN",
+          "url": "https://open.spotify.com/artist/79AwAZkhxUkl7fsIrYcdE8"
+        },
+        {
+          "name": "SULTHAN",
+          "url": "https://open.spotify.com/artist/2igXuXwesIHwPoEn8hWqkl"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161280,
+      "name": "SLAM",
+      "url": "https://open.spotify.com/track/7C2VAVmeq51CLGkYmaNDt6"
     },
     {
       "album": {

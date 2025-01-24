@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Gazzelle in cover",
+  "description": "I brani italiani che abbiamo on repeat! \ud83d\udd01 Coez in cover",
   "name": "Alta Rotazione",
   "tracks": [
     {
@@ -16,7 +16,7 @@
       ],
       "date_added": "2024-12-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 178000,
       "name": "'A 'MBASCIATA",
       "url": "https://open.spotify.com/track/0EpP4OASPWKz4dVhg69LQe"
@@ -78,7 +78,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 160500,
       "name": "160BPM",
       "url": "https://open.spotify.com/track/5gCuly2WxjI6Bhaqhi7KS8"
@@ -252,6 +252,24 @@
       "duration_ms": 188918,
       "name": "Amore Disperato",
       "url": "https://open.spotify.com/track/2gI2IA7QGtzKZKuahon3W1"
+    },
+    {
+      "album": {
+        "name": "Amore mio",
+        "url": "https://open.spotify.com/album/6zGqsAq8vDt2t8wO12oF71"
+      },
+      "artists": [
+        {
+          "name": "chiello",
+          "url": "https://open.spotify.com/artist/5mjasIBQQPIqA9GV2Ys61h"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209718,
+      "name": "Amore mio",
+      "url": "https://open.spotify.com/track/346nT9OEHKXyc0RA5JzVYT"
     },
     {
       "album": {
@@ -993,6 +1011,24 @@
     },
     {
       "album": {
+        "name": "INDI",
+        "url": "https://open.spotify.com/album/54HzLTohLottYBCmkjD41S"
+      },
+      "artists": [
+        {
+          "name": "Gazzelle",
+          "url": "https://open.spotify.com/artist/7KFOc3T4Xo8DVZt4PWw2qN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204386,
+      "name": "Grattacieli meteoriti gli angeli",
+      "url": "https://open.spotify.com/track/5p319BfcZtPd7Y8FOGB3yH"
+    },
+    {
+      "album": {
         "name": "HANGOVER (feat. Baby Gang)",
         "url": "https://open.spotify.com/album/3LKO4DYCqGjhVcrhH6949F"
       },
@@ -1654,6 +1690,24 @@
       "duration_ms": 191133,
       "name": "Marziani",
       "url": "https://open.spotify.com/track/333snPErLohYVTHPI5BT3k"
+    },
+    {
+      "album": {
+        "name": "mayday",
+        "url": "https://open.spotify.com/album/3WtlhNKnPhYPpMdeEILB6H"
+      },
+      "artists": [
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138285,
+      "name": "mayday",
+      "url": "https://open.spotify.com/track/1rxBdwJnt5pZHXqzB4ssEH"
     },
     {
       "album": {
@@ -2816,7 +2870,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 199609,
       "name": "Spogliami",
       "url": "https://open.spotify.com/track/0yDCcAlCuvKLE34cxMRVDp"
@@ -3001,6 +3055,24 @@
     },
     {
       "album": {
+        "name": "LIBERATO III",
+        "url": "https://open.spotify.com/album/3ULYRmnGV3zXbRQkCuFbBS"
+      },
+      "artists": [
+        {
+          "name": "LIBERATO",
+          "url": "https://open.spotify.com/artist/4X89u81dkCXBSGo8i2DhMW"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171312,
+      "name": "TURN\u00c0",
+      "url": "https://open.spotify.com/track/62ZLW8EAtHRXAEsCCgVaVV"
+    },
+    {
+      "album": {
         "name": "tutta vera",
         "url": "https://open.spotify.com/album/7AqEBqBlUnAxfQ3cELhFD5"
       },
@@ -3030,7 +3102,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 159716,
       "name": "TUTTO SBAGLIATO",
       "url": "https://open.spotify.com/track/6pPkVfg3452NhPCMjc4XK0"
@@ -3150,7 +3222,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 207139,
       "name": "Vengo a fidarmi di te",
       "url": "https://open.spotify.com/track/2p4xwVY0d0veJ4w8PEz7EY"

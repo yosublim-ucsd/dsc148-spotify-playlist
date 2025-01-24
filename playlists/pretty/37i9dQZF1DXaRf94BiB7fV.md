@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover: Shreya Karmakar, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,855 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,867 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 3 | [Yeh Duniya Jala Do](https://open.spotify.com/track/15Z1xuTPQjErBcsaFpunGg) | [Janisht Joshi](https://open.spotify.com/artist/0lxFJDXOwwxbYpo0EnA51Z) | [Yeh Duniya Jala Do](https://open.spotify.com/album/6PUDZpIB7D6WrRMI8DufL6) | 3:50 |
 | 4 | [Gallan Mithiyaan](https://open.spotify.com/track/4RUABRzEPjA12w5AG2x6dy) | [SHATAKSHI SHARMA](https://open.spotify.com/artist/36uwUovmBWyAw7dJyhQRcO) | [Gallan Mithiyaan](https://open.spotify.com/album/1Hx3H2cG3Q3q2LkIN3kGAZ) | 3:06 |
 | 5 | [Kho Diya](https://open.spotify.com/track/7b60nLq36aLOEa8L59EiFW) | [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F), [Shayra Apoorva](https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8) | [Kho Diya](https://open.spotify.com/album/08psDftns5sdAs4om31tQr) | 3:08 |
-| 6 | [Safar Mein Gum](https://open.spotify.com/track/2moDzBvxxv9Ysq2cX8ItXf) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [PALAK](https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI), [Srijan](https://open.spotify.com/artist/7vIDfRXA8FiC6FRXW8eNUh) | [Safar Mein Gum](https://open.spotify.com/album/5VzHuszHn4ddVlQVgPMWK1) | 4:16 |
+| 6 | [Safar Mein Gum](https://open.spotify.com/track/2moDzBvxxv9Ysq2cX8ItXf) | [Sarthak Kalyani](https://open.spotify.com/artist/33ZaVn459vwF8UVDS6sWxh), [PALAK](https://open.spotify.com/artist/647Uu49eunQT9Xe1LIFykI), [Srijan](https://open.spotify.com/artist/6Ln6qfR2ohO0gR5sy7Jydd) | [Safar Mein Gum](https://open.spotify.com/album/5VzHuszHn4ddVlQVgPMWK1) | 4:16 |
 | 7 | [Muntazir](https://open.spotify.com/track/1i5yHXuibJJA3hCWLeGx65) | [Jigyans Ranjan](https://open.spotify.com/artist/2t6fXzeE2Q8ujHLDswv6fc), [Trivara](https://open.spotify.com/artist/3tk4VR5XP8dzhcUk82PyB7) | [Muntazir](https://open.spotify.com/album/2HdvtYUq8gRzYbVOGMJiAW) | 3:00 |
 | 8 | [Naazneena](https://open.spotify.com/track/3W8CsjDs5roVwMxujwtgR2) | [Rohit Saini](https://open.spotify.com/artist/4BAVbqy1qWTZqwYHk2wWPy) | [Naazneena](https://open.spotify.com/album/5cIDcaKViriXLkNHATwpDD) | 2:50 |
 | 9 | [Kho Gaya Dil](https://open.spotify.com/track/4GcI8Xi0lyym1TFKKoyfDP) | [Apurva Nisshad](https://open.spotify.com/artist/6tG0yoFntJvbl7fScSJsVQ), [Padmanabh Gaikwad](https://open.spotify.com/artist/2Z05WGDFHUizWGgqtv2usO) | [Kho Gaya Dil](https://open.spotify.com/album/0FF9yH0LNNoBmFTpHP7YDr) | 2:52 |

@@ -2,9 +2,9 @@
 
 ### [Suflet + Sunet](https://open.spotify.com/playlist/37i9dQZF1DXbSA2u8djoN5)
 
-> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: Bitza, Ombladon, El Nino
+> Lasă\-te inspirat pe ritmuri de hip\-hop\. Cover: NOUA UNSPE, Oscar
 
-112 songs - 5 hr 19 min
+114 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,6 +18,7 @@
 | [Ai Un Foc?](https://open.spotify.com/track/309WKHJogX4I4z25PRlcqU) | [Tomi Marfă](https://open.spotify.com/artist/6ukiR3J7anX3kgmYmiIkAs), [Vlad Flueraru](https://open.spotify.com/artist/5cbUrKTtbvXas4lUvnqi4n) | [Ai Un Foc?](https://open.spotify.com/album/0R7WgBchsvGwk9hx1XOND5) | 2:49 | 2024-07-26 | 2024-08-23 |
 | [Am doar o viață](https://open.spotify.com/track/4yqnkaTZV6vl433y6ouJe9) | [El Nino](https://open.spotify.com/artist/01tCOipZP0bkn0LjSZ5S5i) | [Am doar o viață](https://open.spotify.com/album/2hLnIFkhTHsCdHGRr99h3A) | 2:43 | 2024-10-24 | 2024-11-22 |
 | [Am Zis Ceva](https://open.spotify.com/track/2u52GXrozwZePQ6EIVgz8C) | [B.U.G\. Mafia](https://open.spotify.com/artist/4RAbHb0oHO62If4S7h18L0), [Lexi Cali](https://open.spotify.com/artist/7oqOWykH5AIFKctpogZEG8) | [Am Zis Ceva](https://open.spotify.com/album/3pwj7bk6zW9DCIlSPQYzDY) | 4:07 | 2024-06-27 |  |
+| [ANGELINA JOLIE](https://open.spotify.com/track/14NwdA5jpFrLI4LCs2GBtp) | [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Oscar](https://open.spotify.com/artist/6dKPNkSEQOrRRvZz63Y47F) | [ANGELINA JOLIE](https://open.spotify.com/album/6b6tDxSxIkIf8XP6p3PUNQ) | 3:07 | 2025-01-23 |  |
 | [Antidot](https://open.spotify.com/track/1elG9fCIfhyBouqhwadB7v) | [Pepy](https://open.spotify.com/artist/2xcZ2Y1cDPqycDAQI0oIRM), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Antidot](https://open.spotify.com/album/7JfKqjzqD5Lf5yYfZBEQOm) | 2:46 | 2024-09-19 |  |
 | [Au gust buzele](https://open.spotify.com/track/2z6ogbVIPgC9gS0QiPN7BA) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [ILONA](https://open.spotify.com/artist/6RQePDdpNOeEiBDtAUy5FY) | [Au gust buzele](https://open.spotify.com/album/7onE0izeiOX0pyoU6mg1SR) | 2:06 | 2024-07-26 | 2024-08-23 |
 | [BAGS IN THIS B\*TCH](https://open.spotify.com/track/0RGDLi89VQJLv2j5owaHcD) | [Marko Glass](https://open.spotify.com/artist/07nCYoPlXkWlhC2FHm1INS) | [BAGS IN THIS B\*TCH](https://open.spotify.com/album/7pyrxbNspDLhlN7SlitvHx) | 2:18 | 2024-09-26 |  |
@@ -31,7 +32,7 @@
 | [Boo Hoo](https://open.spotify.com/track/4yzHQjhuqc2Mln2zQd4C83) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Boo Hoo](https://open.spotify.com/album/1jQ9obrlV3ESCHg7AV8wbS) | 2:47 | 2024-10-10 |  |
 | [BOSS](https://open.spotify.com/track/5EGtEaDy1AZnMxtymaqc3e) | [DZWS](https://open.spotify.com/artist/5ChWT8CfHjk2PnRG70ZgWV) | [BOSS](https://open.spotify.com/album/18IepYLuiT5JJHYymFiEw8) | 1:30 | 2024-09-19 |  |
 | [București](https://open.spotify.com/track/4EcRuuGCmMEhNsBstYdeUs) | [The Motans](https://open.spotify.com/artist/05qpk4JDcLSFNJSsPIZ8Ye), [Deliric](https://open.spotify.com/artist/357du2352LkLWerYcY49WY) | [București](https://open.spotify.com/album/1RSypn6d43zURQPdz5zKJO) | 2:48 | 2024-06-27 | 2024-07-05 |
-| [Cand Nimeni Nu Te Vede](https://open.spotify.com/track/3uloTbf9BGYUG2xVx5P5Ze) | [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [DJ Wicked](https://open.spotify.com/artist/5RKrZeSaUkCFy3DlCMXxl9) | [Cand Nimeni Nu Te Vede](https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz) | 2:48 | 2024-10-03 |  |
+| [Cand Nimeni Nu Te Vede](https://open.spotify.com/track/3uloTbf9BGYUG2xVx5P5Ze) | [Stres](https://open.spotify.com/artist/2eVoGlAScaB4z8MPO029K5), [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr), [DJ Wicked](https://open.spotify.com/artist/5RKrZeSaUkCFy3DlCMXxl9) | [Cand Nimeni Nu Te Vede](https://open.spotify.com/album/1b5XlE2TsFyTPgGjaba7wz) | 2:48 | 2024-10-03 | 2025-01-24 |
 | [Casa Goala](https://open.spotify.com/track/5RQMopEH1rc9BqQjlpvXAO) | [Kepa](https://open.spotify.com/artist/0Mx93t13mwLCqOoQTQnILw) | [Casa Goala](https://open.spotify.com/album/0vL1n2GZ9N4GI3HMjimeMF) | 2:46 | 2024-06-27 | 2024-09-20 |
 | [CEVA UMAN \- INTERLUDIU](https://open.spotify.com/track/2gxUwygMzhdPhgHf07dYOA) | [andrei](https://open.spotify.com/artist/5tXxrzPQRZ7UK2cAQNSQW2), [Raul Ws](https://open.spotify.com/artist/0jd4rNLzxZYyxEcvOGRtO4) | [CEVA UMAN \- INTERLUDIU](https://open.spotify.com/album/2SDJj446sLnv6Bm288MWxG) | 1:24 | 2024-08-22 | 2024-09-20 |
 | [Chiar acum](https://open.spotify.com/track/1SuivczL8L4e0e2yS8UNqA) | [Criss Blaziny](https://open.spotify.com/artist/5FhmWWRpvTGJweL2wklh1e), [Macanache](https://open.spotify.com/artist/4tr1nXsLLAQj86Hs5VyU2w) | [Chiar acum](https://open.spotify.com/album/5kpiuzVOp1VGQ3sI5HR4Lq) | 2:17 | 2024-08-22 | 2024-09-20 |
@@ -51,7 +52,7 @@
 | [Femei în Parlament](https://open.spotify.com/track/2xwMZvVmWGYV4rreWqE2z6) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Femei în Parlament](https://open.spotify.com/album/1uHW21qweyX6zr85irBPaD) | 2:50 | 2024-06-27 |  |
 | [Fierbe](https://open.spotify.com/track/4Gya3VF9e3oYKreBxPl0KO) | [Mgk666](https://open.spotify.com/artist/6yTJ8tQyoUxgf6aqbpsXhQ) | [Bun Venit Acasa \(Deluxe\)](https://open.spotify.com/album/5A4tD7qWgfhfOJ1kXJY9SF) | 2:02 | 2024-07-04 |  |
 | [Flori de Lavandă](https://open.spotify.com/track/4UT5u2Qvd43ubrrEpcxdVK) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol), [Feli](https://open.spotify.com/artist/5ckrQzJjIPDPS6EM4V1nmX) | [Flori de Lavandă](https://open.spotify.com/album/0XLsQLNSDLKN2d6tmvI5KD) | 3:14 | 2024-06-27 | 2024-10-02 |
-| [Fricile](https://open.spotify.com/track/2xPuPrusdRIPTZp6wb3Wun) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Fricile](https://open.spotify.com/album/0cUlR98YmXvQMUrrFg3wrf) | 3:31 | 2024-12-05 |  |
+| [Fricile](https://open.spotify.com/track/2xPuPrusdRIPTZp6wb3Wun) | [Faust](https://open.spotify.com/artist/1bw5CKaDvXFOs4i32eKJZg), [AdyB](https://open.spotify.com/artist/6uPDO8HMJ8MVqcn9PxdLXk) | [Fricile](https://open.spotify.com/album/0cUlR98YmXvQMUrrFg3wrf) | 3:31 | 2024-12-05 | 2025-01-24 |
 | [Geamu Jos](https://open.spotify.com/track/1DnIvjsDkZqUixC0DYC2zz) | [Shift](https://open.spotify.com/artist/3maIdSXaKPd66XSp8iuMPy), [Ruby](https://open.spotify.com/artist/1kpfvsGkNIdxTAnTRnsKLK), [OG Eastbull](https://open.spotify.com/artist/754BJcKdHZH7tj9xFq3hHO) | [Geamu Jos](https://open.spotify.com/album/0fX17ZEJoKEDL5fL6kNOhQ) | 2:31 | 2024-09-19 | 2024-12-06 |
 | [Generația de suflet](https://open.spotify.com/track/2VvhTfq8IoYMRar82DZnkd) | [Bvcovia](https://open.spotify.com/artist/5CqmNRrmp3UP3NGccmlKHR) | [Generația de suflet](https://open.spotify.com/album/2gpCgNYS1fXv8IpfShm3d0) | 2:33 | 2024-09-26 | 2024-12-06 |
 | [Geometrie sonoră](https://open.spotify.com/track/6Q55EOAZM9iCSe0o1DmV8c) | [Killa Fonic](https://open.spotify.com/artist/20SBqzpuFoymhieHTNHUgl) | [RADIOFONIC](https://open.spotify.com/album/28TjBMndTDtdBNWHbgtcbL) | 3:36 | 2024-11-21 | 2025-01-10 |
@@ -92,6 +93,7 @@
 | [Prietena ta](https://open.spotify.com/track/5CVzlpSX7O8InwOvubCBXd) | [Satra B.E.N.Z.](https://open.spotify.com/artist/3ZxemCGQmRuqoBPhQP5Gut), [Alduts Sherdley](https://open.spotify.com/artist/2qMXn4mBsY5Ilj8gLjRPGF) | [8 Culcat](https://open.spotify.com/album/2Zldu0YI5hLE6nNwaQd0Ss) | 2:48 | 2024-06-27 | 2024-07-19 |
 | [REGELE S\-A ÎNTORS](https://open.spotify.com/track/6xCiEdYc7mOoxO3c9K3Cp1) | [Keed](https://open.spotify.com/artist/0cxGXbq93iJdSmql4iqHol) | [REGELE S\-A ÎNTORS](https://open.spotify.com/album/0qKOiVCm7rKGH3iZPu1Ijm) | 3:15 | 2024-06-27 | 2024-07-05 |
 | [ROLLIE](https://open.spotify.com/track/0JGIR7mGyhQZAe7tK53S9b) | [NANE](https://open.spotify.com/artist/1QexdJFYGyxdBlEpDSy0d4) | [ROLLIE](https://open.spotify.com/album/6HjQqheXJnbHMCuVxi6Otn) | 3:25 | 2024-10-17 | 2024-11-30 |
+| [Românească](https://open.spotify.com/track/6IvsHJJMAbf6lUBpFaSii4) | [Cortes](https://open.spotify.com/artist/0F4yCrlwfMsrMI90zZYmTF) | [Românească](https://open.spotify.com/album/1U498gIRXMiyOtf9DI4glf) | 2:33 | 2025-01-23 |  |
 | [Sa MM Care Pleaca](https://open.spotify.com/track/2sCUjlQUEVP8Sn4Lfk71T6) | [Sami G](https://open.spotify.com/artist/7uERYbuFqxJTqQlQr52lZr) | [Sa MM Care Pleaca](https://open.spotify.com/album/641PCOIaSeSDJaqczpIZds) | 1:59 | 2024-09-19 |  |
 | [Scandal](https://open.spotify.com/track/3zXbl7MWZJR7uyPwMqtRFU) | [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG), [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM) | [Scandal](https://open.spotify.com/album/5aLIlfIdT9HKXksk98qG3q) | 3:16 | 2024-06-27 |  |
 | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/track/3okomQtoPOKU2MZARYyPiS) | [Serotone](https://open.spotify.com/artist/7nN2m7VvqkvB9bbFVgzBYn), [IRAIDA](https://open.spotify.com/artist/4vlWcKDxlW0shCIXLuBuov) | [SCI\-FI \(cu IRAIDA\)](https://open.spotify.com/album/2DIGNFof9SDrDuzf1PZpyd) | 2:40 | 2024-08-01 | 2024-08-23 |

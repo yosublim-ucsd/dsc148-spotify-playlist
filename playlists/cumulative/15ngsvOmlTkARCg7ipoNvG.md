@@ -4,7 +4,7 @@
 
 > Beautiful instrumental music to keep you in the flow as you code or study\. An ideal playlist for programming during stressful times \-\-\- \| program \| programmer \| software \| software engineer \| computer science \| concentrate \| concentration \| focusing \|
 
-1,880 songs - 1 day 14 hr 26 min
+1,883 songs - 1 day 14 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -387,6 +387,7 @@
 | [Comforted Arr\. For Cello](https://open.spotify.com/track/0DW08jiApegOvpvkK5pvpo) | [Beyond Stillness](https://open.spotify.com/artist/42iQ19B2la2mcUZAksaIo8) | [Comforted Arr\. For Cello](https://open.spotify.com/album/7ADQVaUOlYB3nkXEN6IJci) | 1:00 | 2023-10-21 |  |
 | [Comforting Lights](https://open.spotify.com/track/19qqaA15zXllWhxSIE8if6) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:03 | 2022-01-27 |  |
 | [Coming To Life](https://open.spotify.com/track/3Yz90SD2sV5kZG74GS8Yo6) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Memory](https://open.spotify.com/album/7kE0OegnxT0EQeo3gRCEeK) | 1:17 | 2022-01-12 |  |
+| [Conclusion](https://open.spotify.com/track/4odARTUgwdkOs9CL6TQMjP) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Conclusion](https://open.spotify.com/album/2sNorVU9UiLhLugtqqfAjy) | 1:00 | 2025-01-23 |  |
 | [Connected](https://open.spotify.com/track/5gEkuJw8f6lNXOkbs72R9Y) | [Nature Dreams](https://open.spotify.com/artist/0BYEFNk0UBR0cuNK8d9hjo) | [Connected](https://open.spotify.com/album/0n9jQMmpINdDUNPM2wLOFt) | 1:00 | 2024-08-15 |  |
 | [Connection](https://open.spotify.com/track/2RP93uPtPEcOTLLltaVvJS) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Connection](https://open.spotify.com/album/6wxCyPlB5QcvBXLrkkq3EC) | 1:00 | 2024-07-30 |  |
 | [Connections](https://open.spotify.com/track/2mXj5DpuJJcoJ1DdJtIAo1) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Cello Moods](https://open.spotify.com/album/66eiIKbumufa9makcayfER) | 1:16 | 2022-01-12 |  |
@@ -1380,6 +1381,7 @@
 | [Running Fox Trail \(Piano Version\)](https://open.spotify.com/track/17WraCA0bTAAimzkqujIb2) | [Maneli Jamal](https://open.spotify.com/artist/3jvyO2jDkfBe2vuI6euFny), [Ian Wong](https://open.spotify.com/artist/7oYdrlz2ZllyvCmCZ4c0MK) | [Running Fox Trail \(Piano Version\)](https://open.spotify.com/album/4XTbcl4B4wcyj9RKf7BssI) | 2:29 | 2022-01-12 | 2023-04-09 |
 | [Sacred](https://open.spotify.com/track/53g0TYb6fJnyaBKAWxy4Lx) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Ambient Trios, Vol\. 2](https://open.spotify.com/album/61EfeMvitQ0F6lSdE4ILT2) | 1:14 | 2024-01-29 |  |
 | [Sacred Echoes](https://open.spotify.com/track/0TObaHfRFgloCNt0pfzWvU) | [Moonlight Echoes](https://open.spotify.com/artist/5eXoCTlZLghzUNQB3xTAuC) | [Hope In Silence](https://open.spotify.com/album/6eE0uY90mWQ20vcz3MOtvP) | 1:03 | 2022-03-02 |  |
+| [Sacred Love](https://open.spotify.com/track/7n7bXaIt6Q0JAkhnRkbCcx) | [Dream Presence](https://open.spotify.com/artist/77u8JcLgTOc0ebVwQZ3A26) | [Sacred Love](https://open.spotify.com/album/58sb0Q7hvYxBhK36DVF27v) | 1:00 | 2025-01-23 |  |
 | [Sacred Moments](https://open.spotify.com/track/2aOx55qOcBK74Sru2ipoGY) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Journeys](https://open.spotify.com/album/1e5hDdHVnh9RKGu4akLgZE) | 1:31 | 2022-01-12 |  |
 | [Sacred Place](https://open.spotify.com/track/1zOSpKtAqlTDl32LDE179u) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Sacred Place](https://open.spotify.com/album/6WDegUWqeAk5V8HW8js8zG) | 1:00 | 2024-10-26 |  |
 | [Sacred Sounds From The Sky](https://open.spotify.com/track/6a91vLDcxmPKRGkr3oW6HO) | [Open Blue Sky](https://open.spotify.com/artist/0G1U8wfQEhTYRtBPel0hlC) | [Nostalgic Echoes](https://open.spotify.com/album/0qB3myuWrSK1W6rXHwYX3k) | 1:02 | 2024-02-09 | 2024-02-13 |
@@ -1460,6 +1462,7 @@
 | [Simple Moments Again](https://open.spotify.com/track/60pvDd7q9OycrZ2mfv1E1L) | [Eternal Spring](https://open.spotify.com/artist/6yDo1kCCuaAyfUy37qTiih) | [Simple Moments Again](https://open.spotify.com/album/5a1ZCzHsGRfVhne8wBnrjO) | 1:01 | 2023-04-08 | 2024-02-13 |
 | [Simple Moments Again \- Alternate Version](https://open.spotify.com/track/1JJ1DKjPklozEllEPphaEo) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Simple Moments Again \(Alternate Version\)](https://open.spotify.com/album/617KMDHRS1DaqGfIkWgGor) | 1:01 | 2024-02-09 | 2024-02-13 |
 | [Simple Times](https://open.spotify.com/track/0hRNl6UGhVyC3HFKj8tlBP) | [Melody Lake](https://open.spotify.com/artist/1we36odvLMnv4ESemMwWs7) | [Lullabies by the Seaside](https://open.spotify.com/album/6pC7SbPTtjxRdWfEJqu14G) | 1:38 | 2022-01-20 | 2024-01-30 |
+| [Simplicity](https://open.spotify.com/track/1Xqy63kclpytkXJ5y95RWj) | [Slow Rising Hope](https://open.spotify.com/artist/6PG2xcOoZhLtbLAINQdys6) | [Simplicity](https://open.spotify.com/album/7i2hTDuLrt88WYFi9mrBsc) | 1:00 | 2025-01-23 |  |
 | [Skies](https://open.spotify.com/track/2J3aTb3fexm0hf9M30th7b) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Skies](https://open.spotify.com/album/6oZZHp9yVNOOJHzQIXk2Bo) | 1:00 | 2024-04-04 |  |
 | [Skies Of Blue](https://open.spotify.com/track/0oNj2R3LsmAphfRJhzxzxk) | [July Sunrise](https://open.spotify.com/artist/2i0yWCXBGhBWuT0qnM3tmE) | [Mountain Light](https://open.spotify.com/album/1PSqu4HWNBqTxWtKYbcQOU) | 1:07 | 2022-01-27 |  |
 | [Sky](https://open.spotify.com/track/5rHfbA9E0OEPD1H3hL51rM) | [Ivory Light](https://open.spotify.com/artist/3hSDOhq2hmStY6xAOHxvmi) | [Dreaming](https://open.spotify.com/album/3nPCZ7PFvfpRyuSFUq026c) | 1:39 | 2022-01-12 |  |

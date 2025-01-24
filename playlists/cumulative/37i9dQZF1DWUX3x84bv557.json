@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "De nieuwste Nederlandse pop! Cover:  Roxy Dekker",
+  "description": "De nieuwste Nederlandse pop! Cover: MAXINE",
   "name": "Je Moerstaal",
   "tracks": [
     {
@@ -4937,6 +4937,24 @@
     },
     {
       "album": {
+        "name": "Goud",
+        "url": "https://open.spotify.com/album/1WjE9t4n4k95W47rzEkpmw"
+      },
+      "artists": [
+        {
+          "name": "Ben Forte",
+          "url": "https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207428,
+      "name": "Goud",
+      "url": "https://open.spotify.com/track/6gzppTl4uBIxrIad6N1qHK"
+    },
+    {
+      "album": {
         "name": "Grijze Haren",
         "url": "https://open.spotify.com/album/6cEL6zsNarhmTMftTvqr58"
       },
@@ -5878,7 +5896,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 135374,
       "name": "Hoofd In De Wolken",
       "url": "https://open.spotify.com/track/2g8RVR3sdW8tLPI9xJpVdD"
@@ -6276,7 +6294,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 161538,
       "name": "Hypnose",
       "url": "https://open.spotify.com/track/4QxCCHF8fViAhGXU6Omezh"
@@ -7036,10 +7054,28 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 179005,
       "name": "Je T'aime",
       "url": "https://open.spotify.com/track/3JMG73kZGHTL0PXvxO7xnA"
+    },
+    {
+      "album": {
+        "name": "Je Weet Pas Wat Je Hebt",
+        "url": "https://open.spotify.com/album/4NdhuGDtL29qQoiKUePuER"
+      },
+      "artists": [
+        {
+          "name": "Elieve",
+          "url": "https://open.spotify.com/artist/1baKapVwDaPTbQvH9kCUkf"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155142,
+      "name": "Je Weet Pas Wat Je Hebt",
+      "url": "https://open.spotify.com/track/1vuxcc1UDLpbbNudLtgcbL"
     },
     {
       "album": {
@@ -8318,7 +8354,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 170434,
       "name": "Liefde Deel Ik Niet",
       "url": "https://open.spotify.com/track/155ZntbO4KNJIpyM8BQWFW"
@@ -9771,6 +9807,24 @@
     },
     {
       "album": {
+        "name": "niet meer zo",
+        "url": "https://open.spotify.com/album/6uXeO2tHF0Sw7ygNU5OrmV"
+      },
+      "artists": [
+        {
+          "name": "Laura Sjin",
+          "url": "https://open.spotify.com/artist/6bf1bbhtxECuliHnaTAJ8L"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214029,
+      "name": "niet meer zo",
+      "url": "https://open.spotify.com/track/06UGKVuYJtcipahuh6tsDU"
+    },
+    {
+      "album": {
         "name": "niet mijn taak.",
         "url": "https://open.spotify.com/album/3sWyhdmFI9LWwRzCPDl68N"
       },
@@ -10248,7 +10302,7 @@
       ],
       "date_added": "2024-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 160205,
       "name": "Onder Mijn Huid",
       "url": "https://open.spotify.com/track/2yVEcOmJ0t6i69KZKVD8QE"
@@ -11026,7 +11080,7 @@
       ],
       "date_added": "2024-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 176333,
       "name": "Rode Draad",
       "url": "https://open.spotify.com/track/0e5UQrLjnsLmnUUraqXLcE"
@@ -11394,10 +11448,46 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 159692,
       "name": "Sauvignon",
       "url": "https://open.spotify.com/track/0VHXix8h9flwMdJajrKhnT"
+    },
+    {
+      "album": {
+        "name": "Scherpst van de Snede",
+        "url": "https://open.spotify.com/album/5iQQAvHZdNYCyDmV5ZVMU8"
+      },
+      "artists": [
+        {
+          "name": "geosy",
+          "url": "https://open.spotify.com/artist/3nS38ibeuCXkxnkUiQ3ne5"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192376,
+      "name": "Scherpst van de Snede",
+      "url": "https://open.spotify.com/track/34LZ4QNLpYtXab3zT1TTCE"
+    },
+    {
+      "album": {
+        "name": "Scherven",
+        "url": "https://open.spotify.com/album/2cTSiHcoaa6cUvTiD0Bgew"
+      },
+      "artists": [
+        {
+          "name": "Nielson",
+          "url": "https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179750,
+      "name": "Scherven",
+      "url": "https://open.spotify.com/track/14h13moB369WHcbOOjOY0z"
     },
     {
       "album": {
@@ -11962,6 +12052,24 @@
       "duration_ms": 127392,
       "name": "Spijt",
       "url": "https://open.spotify.com/track/6sKhdsXpgWSO2QMGQTINIk"
+    },
+    {
+      "album": {
+        "name": "Ruimte",
+        "url": "https://open.spotify.com/album/0ReBNgHoYi3Mh0lUzDJ5p8"
+      },
+      "artists": [
+        {
+          "name": "Simon Keizer",
+          "url": "https://open.spotify.com/artist/2dUSZq5IktJI18xdpIEjs2"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169978,
+      "name": "Spijt",
+      "url": "https://open.spotify.com/track/1Lod5JKUe0OhF6nY80M482"
     },
     {
       "album": {
@@ -14922,6 +15030,24 @@
       "duration_ms": 122790,
       "name": "ZO BEN JIJ",
       "url": "https://open.spotify.com/track/4DzdniulQXcwnnjUabxHLb"
+    },
+    {
+      "album": {
+        "name": "Zo Dichtbij",
+        "url": "https://open.spotify.com/album/3XcgB7tylpquvOEViXa9ZA"
+      },
+      "artists": [
+        {
+          "name": "Babs",
+          "url": "https://open.spotify.com/artist/1zTF9Ith8PS6mUyvDA4i2M"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181249,
+      "name": "Zo Dichtbij",
+      "url": "https://open.spotify.com/track/2j1as6rFD5wD6VGDoW01Ho"
     },
     {
       "album": {

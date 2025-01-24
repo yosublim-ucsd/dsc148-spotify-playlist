@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック/ Alternative dance music from Japan and abroad\. Cover: Qrion
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,845 likes - 100 songs - 6 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,844 likes - 100 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 36 | [Kaleidoscopic](https://open.spotify.com/track/6YO4TnVoR39LHySyDAn77M) | [Wata Igarashi](https://open.spotify.com/artist/7ug2B8FOnKHqwtVlD9vrQX) | [Kaleidoscopic](https://open.spotify.com/album/5kHJTViXs2lYECkWUoQIGe) | 5:02 |
 | 37 | [Close To You \- Octo Octa’s Voices Reaching Out Remix](https://open.spotify.com/track/75Hcu4hKfTTESvRWXLys53) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4), [Octo Octa](https://open.spotify.com/artist/2GH8Mzo3Ur1AdOnGUUpt17) | [Close To You \(Octo Octa’s Voices Reaching Out Full On Remix\)](https://open.spotify.com/album/4SSHU8XWCumtBjZp8x02sO) | 6:20 |
 | 38 | [WHISTLE](https://open.spotify.com/track/2g0lcbepYzcfts6khNOUpL) | [Victoria](https://open.spotify.com/artist/3879Y17F4aUod7fyYrOSgl) | [WHISTLE](https://open.spotify.com/album/76oXPkkbhtHmG0UkuZZqDW) | 2:11 |
-| 39 | [Magic Powers](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
+| 39 | [Magic Powers With Two Shell](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers With Two Shell](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 | 40 | [Procraaa](https://open.spotify.com/track/1PRLoXQ3CkVJIvYxbcDYVb) | [AYU OKUDA](https://open.spotify.com/artist/5BkUCQmrjcUIK08AR2iM9k) | [Procraaa](https://open.spotify.com/album/0mHuf9HweXlFiFbU4zll1d) | 2:04 |
 | 41 | [Belleville](https://open.spotify.com/track/67DNRPQU16DvlF7SkWtG7y) | [Shoko Igarashi](https://open.spotify.com/artist/0rhogygCtWJLauB3rYvQsK) | [Onsen Music](https://open.spotify.com/album/1PsSf34tP7gl2SXSi2TkuW) | 5:02 |
 | 42 | [U](https://open.spotify.com/track/02N9mCw2pOMe1P6ZLY3KAG) | [Jadu Heart](https://open.spotify.com/artist/7vjRpVXoecwKTEsrb9iscj) | [U](https://open.spotify.com/album/39wBeQQiYOqNcPssaBMk1V) | 3:38 |

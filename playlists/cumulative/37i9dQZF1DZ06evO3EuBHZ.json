@@ -1357,6 +1357,28 @@
     },
     {
       "album": {
+        "name": "Essential Classics, Vol. 467: Big Mama Thornton",
+        "url": "https://open.spotify.com/album/6v6s3m0PHxZubk5zRV0KMS"
+      },
+      "artists": [
+        {
+          "name": "Big Mama Thornton",
+          "url": "https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO"
+        },
+        {
+          "name": "Johnny Otis",
+          "url": "https://open.spotify.com/artist/5PGt6fQNjLKhYYeGLWKWcM"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143840,
+      "name": "I've Searched the World Over",
+      "url": "https://open.spotify.com/track/2zYyCClIRxBW1RkhFCk0hv"
+    },
+    {
+      "album": {
         "name": "Have Mercy! (Live 1973)",
         "url": "https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ"
       },
@@ -2916,7 +2938,7 @@
       ],
       "date_added": "2025-01-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 164001,
       "name": "The Big Change",
       "url": "https://open.spotify.com/track/75MSIpS4EUiM6JnZ32FQKR"

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Pate Mustaj\u00e4rvi.",
+  "description": "T\u00e4ll\u00e4 listalla parasta tuoretta suomirockia. Kannessa Anssi Kela.",
   "name": "Suomirock t\u00e4n\u00e4\u00e4n",
   "tracks": [
     {
@@ -1921,6 +1921,24 @@
     },
     {
       "album": {
+        "name": "K\u00e4\u00e4retorttu",
+        "url": "https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD"
+      },
+      "artists": [
+        {
+          "name": "Saara T\u00f6rm\u00e4",
+          "url": "https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192284,
+      "name": "K\u00e4\u00e4retorttu",
+      "url": "https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y"
+    },
+    {
+      "album": {
         "name": "Enemm\u00e4n kuin mit\u00e4\u00e4n muuta",
         "url": "https://open.spotify.com/album/6ohtgpzeXDBBVHK7HLHdtZ"
       },
@@ -3280,6 +3298,24 @@
       "duration_ms": 200493,
       "name": "Rauhaa & Rakkautta",
       "url": "https://open.spotify.com/track/29mSGrPW0XsDn4gRLiyEh0"
+    },
+    {
+      "album": {
+        "name": "Raunioita",
+        "url": "https://open.spotify.com/album/0vz5dNmUb9SGudyyvyhY59"
+      },
+      "artists": [
+        {
+          "name": "Hauli Bros",
+          "url": "https://open.spotify.com/artist/66Uq3qob8o3WVHKbRH6kiM"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220368,
+      "name": "Raunioita",
+      "url": "https://open.spotify.com/track/59I9eYy2AArw6NuMi99Nox"
     },
     {
       "album": {

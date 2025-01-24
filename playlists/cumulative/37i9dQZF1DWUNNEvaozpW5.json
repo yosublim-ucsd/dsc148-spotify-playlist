@@ -897,6 +897,24 @@
     },
     {
       "album": {
+        "name": "Inerte EP",
+        "url": "https://open.spotify.com/album/68zYAR8IvwYwm4gVMagIyj"
+      },
+      "artists": [
+        {
+          "name": "Los Piratas",
+          "url": "https://open.spotify.com/artist/6qDVOAIlTaSd7HuVtkfce1"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162200,
+      "name": "A\u00f1os 90",
+      "url": "https://open.spotify.com/track/0607jCQHZe4aLSzUQbcKwB"
+    },
+    {
+      "album": {
         "name": "Bailar\u00e9 sobre tu tumba",
         "url": "https://open.spotify.com/album/0cbIGierQYVaozR08FlzMw"
       },
@@ -1468,7 +1486,7 @@
       ],
       "date_added": "2022-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 169773,
       "name": "Cien gaviotas",
       "url": "https://open.spotify.com/track/5i07tC6hV5AtYTr0tsP0Uy"
@@ -2960,7 +2978,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 140312,
       "name": "El Face",
       "url": "https://open.spotify.com/track/7w7Q1RhxvqxGdTdAQ8vgug"
@@ -3752,6 +3770,28 @@
       "duration_ms": 224653,
       "name": "Estrella del Rock",
       "url": "https://open.spotify.com/track/3WHLcEtthmT9upg1FSc2xK"
+    },
+    {
+      "album": {
+        "name": "Extraterrestre (feat. Dani Fern\u00e1ndez)",
+        "url": "https://open.spotify.com/album/2N3lSXfdnvC10lkPre0wFS"
+      },
+      "artists": [
+        {
+          "name": "Coque Malla",
+          "url": "https://open.spotify.com/artist/2VR9eUwDCe6jccal0ZQ5FV"
+        },
+        {
+          "name": "Dani Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200620,
+      "name": "Extraterrestre (feat. Dani Fern\u00e1ndez)",
+      "url": "https://open.spotify.com/track/5sH0eeQR4CY2U4oNK3HZd2"
     },
     {
       "album": {
@@ -5233,6 +5273,24 @@
     },
     {
       "album": {
+        "name": "JUEGOS VIOLENTOS",
+        "url": "https://open.spotify.com/album/2viDDZrvLtjIgyflCxXx5x"
+      },
+      "artists": [
+        {
+          "name": "Pu\u00f1o Drag\u00f3n",
+          "url": "https://open.spotify.com/artist/0y2duNe3eRERelKB3su9UK"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243101,
+      "name": "LADRANDO A TU PUERTA",
+      "url": "https://open.spotify.com/track/693CYEnOMrpWqoAsGBWKJN"
+    },
+    {
+      "album": {
         "name": "Ladridos del perro m\u00e1gico",
         "url": "https://open.spotify.com/album/6EajD8cjnGIihwYgcwjfeW"
       },
@@ -6144,7 +6202,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 216823,
       "name": "Me Equivoqu\u00e9",
       "url": "https://open.spotify.com/track/4xTNvrl6CL0cY8dMXIrWez"
@@ -6854,7 +6912,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 306000,
       "name": "No S\u00e9 Bien Por Qu\u00e9",
       "url": "https://open.spotify.com/track/4oZJdxxKcCX192JQqSow47"
@@ -7329,6 +7387,24 @@
     },
     {
       "album": {
+        "name": "Poluci\u00f3n",
+        "url": "https://open.spotify.com/album/1PA0wsmIjln234kRxtft6Y"
+      },
+      "artists": [
+        {
+          "name": "KING SAPO",
+          "url": "https://open.spotify.com/artist/1bwttHGw3BRWOfqtGZNdGo"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287046,
+      "name": "Poluci\u00f3n",
+      "url": "https://open.spotify.com/track/7H2R1GP0PbxYrapd0O2s87"
+    },
+    {
+      "album": {
         "name": "Polvo en el viento",
         "url": "https://open.spotify.com/album/1EVmw8PTdYWkqtcEHGJxJy"
       },
@@ -7672,7 +7748,7 @@
       ],
       "date_added": "2022-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 247401,
       "name": "Que Hace una Chica Como Tu en un Sitio Como Este",
       "url": "https://open.spotify.com/track/4kYdaN5ECfrCPPuUUiCiTr"
@@ -7752,6 +7828,28 @@
       "duration_ms": 189533,
       "name": "Quiero",
       "url": "https://open.spotify.com/track/70FKk6lWEZ86laY9qm3Rxg"
+    },
+    {
+      "album": {
+        "name": "Quiero",
+        "url": "https://open.spotify.com/album/0YCSa9aEdfA9nfUuqUtNe8"
+      },
+      "artists": [
+        {
+          "name": "Whisky Caravan",
+          "url": "https://open.spotify.com/artist/2sNzYvtWH9mUVsYTiMi4Dz"
+        },
+        {
+          "name": "Elefantes",
+          "url": "https://open.spotify.com/artist/5ykyeZYA8wEGQ0WhhH8AKn"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 355105,
+      "name": "Quiero",
+      "url": "https://open.spotify.com/track/5kU2SKwFA2ofLTZzHiCvKT"
     },
     {
       "album": {
@@ -7845,6 +7943,36 @@
     },
     {
       "album": {
+        "name": "Redenci\u00f3n",
+        "url": "https://open.spotify.com/album/4eXzPidJ09xiwES7keNo73"
+      },
+      "artists": [
+        {
+          "name": "V\u00e9rtize",
+          "url": "https://open.spotify.com/artist/6B5OYEBpxHyPNZmEx3XSJz"
+        },
+        {
+          "name": "UOHO",
+          "url": "https://open.spotify.com/artist/0f89nikbDhsc9XBL1cFtG4"
+        },
+        {
+          "name": "Extremoduro",
+          "url": "https://open.spotify.com/artist/3bgsNtcf5d5h9jbQbohfBK"
+        },
+        {
+          "name": "Platero Y Tu",
+          "url": "https://open.spotify.com/artist/1fQt5j7DTPuAOjdbTYgWav"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252586,
+      "name": "Redenci\u00f3n",
+      "url": "https://open.spotify.com/track/6OrbWWolcd6EoVuf6MeYgQ"
+    },
+    {
+      "album": {
         "name": "Respirar",
         "url": "https://open.spotify.com/album/2eqkan0najTgJ8MDf3n9y9"
       },
@@ -7910,7 +8038,7 @@
       ],
       "date_added": "2023-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 180266,
       "name": "Rock And Roll en la Plaza del Pueblo",
       "url": "https://open.spotify.com/track/5fCYRuYxc1ox7yWKcKD6tf"
@@ -8324,6 +8452,24 @@
       "duration_ms": 200533,
       "name": "Siempre te ped\u00ed (feat. Travis Birds)",
       "url": "https://open.spotify.com/track/486MV5vHN7v8lCEuAIFcG4"
+    },
+    {
+      "album": {
+        "name": "Al Este del Ed\u00e9n",
+        "url": "https://open.spotify.com/album/1aArql4SXnhXYqGxx8Twcq"
+      },
+      "artists": [
+        {
+          "name": "Los Rebeldes",
+          "url": "https://open.spotify.com/artist/5xL4xxrHU7qleELxk85vAo"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175897,
+      "name": "Siempre Vivos",
+      "url": "https://open.spotify.com/track/4Z4fAKHJi0Jearg8WRTf9K"
     },
     {
       "album": {
@@ -9680,7 +9826,7 @@
       ],
       "date_added": "2025-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 140782,
       "name": "Warren Buffet",
       "url": "https://open.spotify.com/track/6etkYbI1Azw3NMZaOBYQe2"

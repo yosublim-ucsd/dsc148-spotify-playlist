@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-29",
-  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Tyla",
+  "description": "The hottest Afropop, Afrobeats and Afro-Caribbean hits, all in one place. Cover: Tayc",
   "name": "Afro Hits",
   "tracks": [
     {
@@ -2429,6 +2429,24 @@
     },
     {
       "album": {
+        "name": "Call Of",
+        "url": "https://open.spotify.com/album/0VBseUK2RCzUV9fv9aVSlH"
+      },
+      "artists": [
+        {
+          "name": "Ronisia",
+          "url": "https://open.spotify.com/artist/4krMq8pXkLVTGplpYgHlnV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 159813,
+      "name": "Call Of",
+      "url": "https://open.spotify.com/track/1MbnWmMVrMZZdXtJu5Aepb"
+    },
+    {
+      "album": {
         "name": "Rave & Roses",
         "url": "https://open.spotify.com/album/0xrTH9uvOL1BoFAOR61zTG"
       },
@@ -2804,6 +2822,24 @@
       "duration_ms": 222640,
       "name": "Cheat On Me (feat. Dave)",
       "url": "https://open.spotify.com/track/141y1FjVBV5IY7Mlvw5poL"
+    },
+    {
+      "album": {
+        "name": "BOUNCE MUSIC : SAISON 2",
+        "url": "https://open.spotify.com/album/6zkrs0rjrDKIUbs05RrQoG"
+      },
+      "artists": [
+        {
+          "name": "Genezio",
+          "url": "https://open.spotify.com/artist/0PcU18DNfkn3pmbjy5yMFz"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142702,
+      "name": "CHERRY",
+      "url": "https://open.spotify.com/track/2fcti4G9MP1YWqbusdkode"
     },
     {
       "album": {
@@ -5129,6 +5165,28 @@
     },
     {
       "album": {
+        "name": "Fav\u00e9la (#STATION 3)",
+        "url": "https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Fav\u00e9la (#STATION 3)",
+      "url": "https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs"
+    },
+    {
+      "album": {
         "name": "Timeless",
         "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
       },
@@ -6322,7 +6380,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 158048,
       "name": "I WISH",
       "url": "https://open.spotify.com/track/6bKaXEeXVuoR3anv7BKc7B"
@@ -7506,7 +7564,7 @@
       ],
       "date_added": "2024-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 286400,
       "name": "La vie d'un... / Ma pr\u00e9f\u00e9r\u00e9e",
       "url": "https://open.spotify.com/track/3IedXlFglIwo754rxOID4x"
@@ -8032,7 +8090,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 136551,
       "name": "Longue vie",
       "url": "https://open.spotify.com/track/7mwc6SM9mym9hqUtwTjohX"
@@ -9692,7 +9750,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 139416,
       "name": "Obrigado",
       "url": "https://open.spotify.com/track/5FBMIMZEuy1sncxWCDw7zr"
@@ -12144,6 +12202,24 @@
       "duration_ms": 139377,
       "name": "Shu-Peru",
       "url": "https://open.spotify.com/track/7uifQO5WcO2x15mdA6W50L"
+    },
+    {
+      "album": {
+        "name": "Simba",
+        "url": "https://open.spotify.com/album/7cxeSjELObqQvzFz2wS7E5"
+      },
+      "artists": [
+        {
+          "name": "Dr. Yaro",
+          "url": "https://open.spotify.com/artist/0C1YfsZSxVHgL0Z8bngOTM"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128034,
+      "name": "Simba",
+      "url": "https://open.spotify.com/track/61U7ZDXC4f5iKatYBwSegE"
     },
     {
       "album": {

@@ -103,6 +103,24 @@
     },
     {
       "album": {
+        "name": "98 Sunset",
+        "url": "https://open.spotify.com/album/386IQCbncYG3ThRtOt1Kn2"
+      },
+      "artists": [
+        {
+          "name": "Montee",
+          "url": "https://open.spotify.com/artist/2rgFqpsqtoEJGOr0JzFxtG"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240652,
+      "name": "98 Sunset",
+      "url": "https://open.spotify.com/track/41ZR28BD5f4nuIkK8T5McN"
+    },
+    {
+      "album": {
         "name": "<3",
         "url": "https://open.spotify.com/album/2sSD6gODuaYlseme5w2dWf"
       },
@@ -3934,6 +3952,24 @@
     {
       "album": {
         "name": "Find a Way",
+        "url": "https://open.spotify.com/album/08S96gDKVPfwDFeLttFZpI"
+      },
+      "artists": [
+        {
+          "name": "Douvelle19",
+          "url": "https://open.spotify.com/artist/3EjNHY8UswIZAxMjqXewVH"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200000,
+      "name": "Find a Way",
+      "url": "https://open.spotify.com/track/2SH1fMTuhPQt49xeLXQ6xi"
+    },
+    {
+      "album": {
+        "name": "Find a Way",
         "url": "https://open.spotify.com/album/5hKGXah8BRysDvwyKuLrda"
       },
       "artists": [
@@ -4337,6 +4373,24 @@
     },
     {
       "album": {
+        "name": "Gamble",
+        "url": "https://open.spotify.com/album/47AbxYzGOf76DbjKvjXRr7"
+      },
+      "artists": [
+        {
+          "name": "EBEN",
+          "url": "https://open.spotify.com/artist/02J7bo06ZZ1XmSGochlWak"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225230,
+      "name": "Gamble",
+      "url": "https://open.spotify.com/track/6DoXEz2Cm3CHPn1f7glAwv"
+    },
+    {
+      "album": {
         "name": "Miracles",
         "url": "https://open.spotify.com/album/6zkjYpTdFBcRz5m4Ui8tsy"
       },
@@ -4621,6 +4675,24 @@
     },
     {
       "album": {
+        "name": "gone for life",
+        "url": "https://open.spotify.com/album/3Y8lizmTldfb0CNv3zylFQ"
+      },
+      "artists": [
+        {
+          "name": "iilliaa",
+          "url": "https://open.spotify.com/artist/3XDX6PbRtAzovlF2DnoT5F"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177147,
+      "name": "gone for life",
+      "url": "https://open.spotify.com/track/5eYt43KKoozTGthKRNQ6JW"
+    },
+    {
+      "album": {
         "name": "Good Times",
         "url": "https://open.spotify.com/album/1wkaDOeP0t8MzulEqn3pex"
       },
@@ -4884,6 +4956,28 @@
       "duration_ms": 251712,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/3jUOFLZ5MJvNrf022LKsDL"
+    },
+    {
+      "album": {
+        "name": "Heaven",
+        "url": "https://open.spotify.com/album/0ImZZPtmPlCcka1v9e9dFv"
+      },
+      "artists": [
+        {
+          "name": "Eyezic",
+          "url": "https://open.spotify.com/artist/1mUQNkBHUAOOesB3vc9p97"
+        },
+        {
+          "name": "Low Mileage",
+          "url": "https://open.spotify.com/artist/0dLhJRQpTrk32TbujPeN8u"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134160,
+      "name": "Heaven",
+      "url": "https://open.spotify.com/track/1Msjub09jLhkGbyThmMLsp"
     },
     {
       "album": {
@@ -6305,6 +6399,32 @@
     },
     {
       "album": {
+        "name": "Into The Ocean (Lynnic & ItsArius Remix)",
+        "url": "https://open.spotify.com/album/6JWlMtIOeY9pY5scb0xdfz"
+      },
+      "artists": [
+        {
+          "name": "MALIAN",
+          "url": "https://open.spotify.com/artist/0d6VNGVzfu99Bs0qi6CpD2"
+        },
+        {
+          "name": "Lynnic",
+          "url": "https://open.spotify.com/artist/1jpObIFmNOGfBc93WowfkT"
+        },
+        {
+          "name": "ItsArius",
+          "url": "https://open.spotify.com/artist/6ObJnVTLETeHSeKhYreB27"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191341,
+      "name": "Into The Ocean - Lynnic & ItsArius Remix",
+      "url": "https://open.spotify.com/track/3AmcDenpbtv714CSQ8DfiZ"
+    },
+    {
+      "album": {
         "name": "Isolate",
         "url": "https://open.spotify.com/album/30OA856joXbx7jpYJ9VANy"
       },
@@ -6819,6 +6939,28 @@
     },
     {
       "album": {
+        "name": "Lead the Way",
+        "url": "https://open.spotify.com/album/3apaZkasN7HNZjfVKrOBQ6"
+      },
+      "artists": [
+        {
+          "name": "Ivan Blyashenko",
+          "url": "https://open.spotify.com/artist/1CeVb2cWlNtdeuL4QEF3MN"
+        },
+        {
+          "name": "MVJM",
+          "url": "https://open.spotify.com/artist/27r3crNeoSKpzEorSm6cSE"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157142,
+      "name": "Lead the Way",
+      "url": "https://open.spotify.com/track/4H2uMmCddaztclNDBMN91r"
+    },
+    {
+      "album": {
         "name": "LEAVE IT ALL BEHIND",
         "url": "https://open.spotify.com/album/6Y9HX9UwK5M6pwICoHkTNA"
       },
@@ -7130,6 +7272,24 @@
       "duration_ms": 264915,
       "name": "Liana",
       "url": "https://open.spotify.com/track/4m1BbY9mE352gfAVNa9Idz"
+    },
+    {
+      "album": {
+        "name": "Libero",
+        "url": "https://open.spotify.com/album/2BL9H5Ij4EkVkkPBp2BuEc"
+      },
+      "artists": [
+        {
+          "name": "Ceri Wax",
+          "url": "https://open.spotify.com/artist/6m62Dx1zgJshfmKYQHImew"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218418,
+      "name": "Libero",
+      "url": "https://open.spotify.com/track/5t0uCMCzg4rXR5n0xiaHBR"
     },
     {
       "album": {
@@ -8212,6 +8372,24 @@
       "duration_ms": 170070,
       "name": "Maybe",
       "url": "https://open.spotify.com/track/6Hl0P7o00Hmqjdf1X0W9rw"
+    },
+    {
+      "album": {
+        "name": "maybe",
+        "url": "https://open.spotify.com/album/2muXccYkX3JmCiPqnhHcz2"
+      },
+      "artists": [
+        {
+          "name": "Ordley",
+          "url": "https://open.spotify.com/artist/7iytrtzbCdACF9euDDHfiD"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202388,
+      "name": "maybe",
+      "url": "https://open.spotify.com/track/3BWvrX09uLKgv9QmrB3imc"
     },
     {
       "album": {
@@ -11199,6 +11377,24 @@
     },
     {
       "album": {
+        "name": "Shaking Things Up",
+        "url": "https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A"
+      },
+      "artists": [
+        {
+          "name": "nimino",
+          "url": "https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216480,
+      "name": "Shaking Things Up",
+      "url": "https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu"
+    },
+    {
+      "album": {
         "name": "Show My Love (Icarus Remix)",
         "url": "https://open.spotify.com/album/1VR5TzwsFklJulE2k6e6in"
       },
@@ -11794,6 +11990,24 @@
       "duration_ms": 298754,
       "name": "Start Small - Lamorn Remix",
       "url": "https://open.spotify.com/track/6tGZBNnzbG7iFa4LoH1bIy"
+    },
+    {
+      "album": {
+        "name": "Hearts Vol. 1",
+        "url": "https://open.spotify.com/album/2LIQR5GLi1Ou6smderT4Xm"
+      },
+      "artists": [
+        {
+          "name": "LUV HRTS",
+          "url": "https://open.spotify.com/artist/4CCmq3kObiwqiUOn7dOww8"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170290,
+      "name": "STAY",
+      "url": "https://open.spotify.com/track/3y3zXCVTeeF4BCr1ENjiI1"
     },
     {
       "album": {

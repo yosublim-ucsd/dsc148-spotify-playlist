@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0y9CwEpdGpz.md) - [plain]
 
 > Known as the Nation's Little Sister in South Korea.
 
-[Spotify](https://open.spotify.com/user/spotify) - 555,818 likes - 88 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 555,833 likes - 88 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Someday \(feat\. IU\)](https://open.spotify.com/track/0K79WiYkAabto3KqL42NZO) | [SHOW MUSICAL DREAM HIGH DANCE FAMILY](https://open.spotify.com/artist/49bc2nIyF35ZKqaiT0uTdm), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Someday](https://open.spotify.com/album/5WxSTwYAOqCSqaWOathmaG) | 4:08 |
+| 1 | [Someday \(feat\. IU\)](https://open.spotify.com/track/0K79WiYkAabto3KqL42NZO) | [SHOW MUSICAL DREAM HIGH DANCE FAMILY](https://open.spotify.com/artist/49bc2nIyF35ZKqaiT0uTdm), [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [Someday \(feat\. IU\)](https://open.spotify.com/album/5WxSTwYAOqCSqaWOathmaG) | 4:08 |
 | 2 | [Holssi](https://open.spotify.com/track/0UTtK6hregIBOsefavRI26) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:10 |
 | 3 | [Shopper](https://open.spotify.com/track/1c6kkrWnpy68eYDfBdxNtF) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:35 |
 | 4 | [Shh.\. \(Feat\. HYEIN, WONSUN JOE & Special Narr\. Patti Kim\)](https://open.spotify.com/track/20uUaRkfRJZG15mXfn7LaU) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [HYEIN](https://open.spotify.com/artist/01BBFQPvi8ywBqHPzWzoyU), [Joe Won Sun](https://open.spotify.com/artist/2rbcCyEKbnxdEukZHHGnby), [Patti Kim](https://open.spotify.com/artist/3YLoKDj5EXsg3AorXDgLlz) | [The Winning](https://open.spotify.com/album/08CvAj58nVMpq1Nw7T6maj) | 3:46 |

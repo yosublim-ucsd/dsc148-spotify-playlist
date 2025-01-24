@@ -2,9 +2,9 @@
 
 ### [100 dk](https://open.spotify.com/playlist/37i9dQZF1DXdhDukKQ88Cc)
 
-> min ven er <a href="spotify:artist:3Tg0bQKDqc4ONwmKywDq72">@Mas</a> og vi er på månen over hans nye 🌜<a href="spotify:album:16EjNHcMJ402k7OhdoFxqS">album</a>🌛
+> ❄️<a href="spotify:artist:3RYYha3CC7js2PHbcBHewt">@ICEKIID</a> har det <a href="spotify:album:6eJDqX0k8DbyYQHqeai3uT">EUROSTAR</a>  med <a href="<br/>spotify:artist:1Mw40k757jZuiL0NIJpdO5">@GULEED</a> & <a href="spotify:artist:58ICshZ0AgBMNJiLHK3U8l">@Deno</a> ❄️
 
-279 songs - 12 hr 5 min
+280 songs - 12 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -172,6 +172,7 @@
 | [LIBIDO \(feat\. Klamfyr\)](https://open.spotify.com/track/0vgUUxwkExFRwBF4cRGkGw) | [Carl Knast](https://open.spotify.com/artist/43Nz2jEg1EhIjWzyJSmvug), [Klamfyr](https://open.spotify.com/artist/1pPNZapO1Qthbd90B1LlOS) | [LIBIDO \(feat\. Klamfyr\)](https://open.spotify.com/album/1BdZ4GEduxlWS687hqZixY) | 4:10 | 2024-12-26 | 2025-01-17 |
 | [Lidt Længere \(feat\. Emil Kruse\)](https://open.spotify.com/track/1i4vUaRYZn43PjXSzwDFJY) | [KIDD](https://open.spotify.com/artist/7Ap8xCd7d0xon5XnkLvn4i), [Emil Kruse](https://open.spotify.com/artist/4WnhWF0prnUJ7sHHi5Aoun) | [OG SÅ VIDERE](https://open.spotify.com/album/5eltcb1nCUUS5xeCyrsQV3) | 3:02 | 2024-03-07 | 2024-04-05 |
 | [LIGE HER \(feat\. Merro8\)](https://open.spotify.com/track/2XxScNmAUrcOcl2BSwmI8U) | [OLIVVER](https://open.spotify.com/artist/7qdfsnEchf1XUtIJBsBTTO), [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [LIGE HER \(feat\. Merro8\)](https://open.spotify.com/album/3gf6BCBVuV6u14xoG6xGIJ) | 2:13 | 2024-06-06 | 2025-01-10 |
+| [Litty](https://open.spotify.com/track/1k29wQgAkP5c27GAJLqLkk) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Litty](https://open.spotify.com/album/6mSi7RytoP8vC4AFgSCI25) | 2:28 | 2025-01-23 |  |
 | [Livet Er Kort](https://open.spotify.com/track/2TJwLuMXC0CZHmz5AgxELA) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82) | [MELLEM HIMMEL & JORD](https://open.spotify.com/album/54jF8lWprugcSN7mSsKuVX) | 2:20 | 2024-02-22 | 2024-05-14 |
 | [Locked Up](https://open.spotify.com/track/334QzlFMweexntGh2LIJ5M) | [Omar](https://open.spotify.com/artist/1GLzVjVa7bLnAcD1At98j3) | [Locked Up](https://open.spotify.com/album/5Hj9ytqhsh8Sx2pd0iHWLs) | 2:57 | 2025-01-09 |  |
 | [Lønningsdag](https://open.spotify.com/track/04oUfyBc6pT1svmfkYnsZU) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72) | [Lønningsdag](https://open.spotify.com/album/6lKquTEVqANfNikVyLGSsu) | 2:39 | 2025-01-09 |  |

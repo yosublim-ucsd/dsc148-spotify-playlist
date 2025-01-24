@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 
 > boom bap renasce todo dia\. Foto: Akira Presidente, Fleezus
 
-[Spotify](https://open.spotify.com/user/spotify) - 72,951 likes - 75 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 72,979 likes - 75 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3zN05ePDN6Q.md) - [plain]
 | 2 | [Da Onde Eu Venho](https://open.spotify.com/track/5na9M4vuGBFxIAQdD3Hg9s) | [Filipe Ret](https://open.spotify.com/artist/7gJN8W0589FisSYJS17K54), [Mãolee](https://open.spotify.com/artist/72aE07MxpePfCELo4vGZcK) | [NUME](https://open.spotify.com/album/4ZfyJI6J8VFXPgeAVVn1Fm) | 2:17 |
 | 3 | [Raciocínio Inteiro](https://open.spotify.com/track/5YiIHRcQibMfZZOKSOXvAF) | [Parteum](https://open.spotify.com/artist/047rJvBYv0egT5SolmU7m4) | [Raciocínio Inteiro](https://open.spotify.com/album/6TUdBUTrHj8xabT8fDVzjU) | 4:30 |
 | 4 | [JÓIAS NO COFRE](https://open.spotify.com/track/05xHVCa4LsX7g5i38vFRbM) | [Sant](https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89), [GTA](https://open.spotify.com/artist/7l3UtcnrlxH7wPrb1HXFI6), [Guilty Simpson](https://open.spotify.com/artist/0Zji66LHK0QCC8AUMuyp3h), [Phat Kat](https://open.spotify.com/artist/31ovhtZf0B1CTJXPNhchvF), [WC no Beat](https://open.spotify.com/artist/2QjS2N6sORI7H4qbf6xitS) | [CONVICTO](https://open.spotify.com/album/2nzvI4V9nJDHaLqgM6jgnC) | 4:47 |
-| 5 | [Quantas Vezes?](https://open.spotify.com/track/11RBJ92QSroguVvETZpUqr) | [GDM](https://open.spotify.com/artist/1aZEF5IIFQAA2Z4bGFGihH), [Lord Ícaro](https://open.spotify.com/artist/4Fkyr91izdI6Pi0vnSLcBm) | [Quantas Vezes?](https://open.spotify.com/album/1UYyjcH5NKVE3IANQ6oT6x) | 2:53 |
+| 5 | [Quantas Vezes?](https://open.spotify.com/track/11RBJ92QSroguVvETZpUqr) | [GDM](https://open.spotify.com/artist/7Imm6565NTHfTlZbcHTvAq), [Lord Ícaro](https://open.spotify.com/artist/4Fkyr91izdI6Pi0vnSLcBm) | [Quantas Vezes?](https://open.spotify.com/album/1UYyjcH5NKVE3IANQ6oT6x) | 2:53 |
 | 6 | [Não Repara a Sujeira](https://open.spotify.com/track/25kebAEDJTXHcnm8BT7mzm) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [TOKIODK](https://open.spotify.com/artist/3l3kTDXnvYNA4u1kLLvLn2), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [PATRONO](https://open.spotify.com/album/3KOm7ouLh0kOz6sJ8AdpVI) | 3:37 |
 | 7 | [Ficar Rico Esse Ano](https://open.spotify.com/track/44JWBoBnEGNMC8w95HQ1AR) | [2ZDinizz](https://open.spotify.com/artist/13zmjclMwzz8kIxRrN7JOV), [Pedro Apoema](https://open.spotify.com/artist/1eJwhQn6j41JvgXfWeh2g0), [HHR](https://open.spotify.com/artist/6KHnECmT9Nn73k1tKs62Wu) | [Ficar Rico Esse Ano](https://open.spotify.com/album/5BTjYmN3eXdGV1uHKgeARb) | 2:57 |
 | 8 | [Rap Bom](https://open.spotify.com/track/1rAIZVMq28d5xTvbAKjHJR) | [FBC](https://open.spotify.com/artist/29QKtXMaVczUBDiI3aPBWS), [Djonga](https://open.spotify.com/artist/204IwDdaHE4ymGk9Kya2pY), [Pepito](https://open.spotify.com/artist/1NkYIE4k7do1uPr2zbojgE), [Jackson Ganga](https://open.spotify.com/artist/2eAUt3uGVV4YJlyM9ZW161) | [Rap Bom](https://open.spotify.com/album/0Jw1xflA7TBugdF0BQZ9dQ) | 3:16 |

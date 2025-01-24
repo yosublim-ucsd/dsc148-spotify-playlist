@@ -2,7 +2,7 @@
 
 ### [Afrikaanse Hits](https://open.spotify.com/playlist/37i9dQZF1DX7bangZ8fzV0)
 
-> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa?si=iJLGUjtYS9WRTNFNuoLwmA">Dodo Nyoka</a>
+> Net die beste Afrikaanse musiek! Omslag: <a href="https://open.spotify.com/artist/6Ie5sDOdJ9iEUbtjUSaH2t?si=losASc\-iRjqRhVyj1mZb\-A">Gerhard Steyn</a>
 
 262 songs - 14 hr 32 min
 

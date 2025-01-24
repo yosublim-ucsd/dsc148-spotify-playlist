@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [Aaghaz\-E\-Ishq](https://open.spotify.com/track/1wqqyytFD8HoKWg06T1GCo) | [Satyajeet Jena](https://open.spotify.com/artist/35DaFPNjk0o133rxjRJ0W7), [Mrityunjay Pandey](https://open.spotify.com/artist/3oWgKfqTjiy5zDRX5dL5ps) | [Aaghaz\-E\-Ishq](https://open.spotify.com/album/4uq2U5N93OI2poB5vN4urI) | 4:21 | 2024-12-21 |  |
-| [Aaina](https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Aaina](https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4) | 3:12 | 2023-04-05 | 2025-01-01 |
+| [Aaina](https://open.spotify.com/track/5BrvrAjXLTuh6dFMH0BrPl) | [Jazim Sharma](https://open.spotify.com/artist/5tUNLzDOTfdJ3WNBhNAJMB), [Muheet Bharti](https://open.spotify.com/artist/0HXiaOEvokxAkvyMIq88jJ) | [Aaina](https://open.spotify.com/album/3QAZ7OhmLqlw4MNPWj8mp4) | 3:12 | 2023-04-05 |  |
 | [Aaine Ko Chehra](https://open.spotify.com/track/4UNzg3kZLNUXIB686UK9jJ) | [Ranjeet Rajwada](https://open.spotify.com/artist/4vfbZtBkJbwbuCD3GWmgAa) | [Aaine Ko Chehra](https://open.spotify.com/album/0mvWrFlhDITB3R8JM3KIF7) | 6:23 | 2024-06-07 | 2025-01-01 |
 | [Aaj Jaane Ki Zid Na Karo](https://open.spotify.com/track/2KYqJSqEcFKtFmcSf5574E) | [Roop Kumar Rathod](https://open.spotify.com/artist/03SZmfKAgYRQKUwy0EoJUa), [Abhijit Pohankar](https://open.spotify.com/artist/04FGMCgYEvpf6my4V7ltxY) | [Ghazal Lounge](https://open.spotify.com/album/0650SIztpEIyUkoQUIFflW) | 6:40 | 2024-02-07 |  |
 | [Aaj Jane Ki Zid Na Karo \(Live\)](https://open.spotify.com/track/4alS0xW23tUwqscT8CkPM3) | [Farida Khanum](https://open.spotify.com/artist/07g02xbfLHmRdZaz5NAWru) | [Farida Khanum In Concert \(Live\)](https://open.spotify.com/album/2LgI5h8no2UbfcEC09Nwws) | 7:29 | 2021-12-01 |  |
@@ -199,7 +199,7 @@
 | [Yeh Watan Tumhara Hai](https://open.spotify.com/track/1LotGrrDWUGHqC0b2viZUr) | [Mehdi Hassan](https://open.spotify.com/artist/73Qu5twIpvKmLU0rPaEJi4) | [Ae Mere Des](https://open.spotify.com/album/4qqhhBFB4eGbKCyDwxZRXj) | 5:38 | 2021-12-01 | 2023-02-18 |
 | [Zid](https://open.spotify.com/track/01zEqBcguhTPOWo0DZhjew) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/4uabV43WtpLFd0QOI6xK3H) | 5:09 | 2023-03-28 | 2025-01-01 |
 | [Zid](https://open.spotify.com/track/08PBtue3SWYVlZqfbvQIE9) | [Yogita Godbole](https://open.spotify.com/artist/7HzJcu2wULiol2dXlEC9gg) | [Zid](https://open.spotify.com/album/2x4a52pauzSvhQnCI9DY6a) | 5:09 | 2024-02-09 | 2024-04-19 |
-| [Zikr](https://open.spotify.com/track/1XIlRRkIx6H3kcTrwO5RoX) | [Sharib Hashmi](https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr) | [Zikr](https://open.spotify.com/album/7vaFZCYHyJsobB8E32m7Z8) | 2:50 | 2024-07-22 |  |
+| [Zikr](https://open.spotify.com/track/1XIlRRkIx6H3kcTrwO5RoX) | [Sharib Hashmi](https://open.spotify.com/artist/1MU1MnjAkAgRuLVwdajXPr) | [Zikr](https://open.spotify.com/album/7vaFZCYHyJsobB8E32m7Z8) | 2:50 | 2024-07-22 | 2025-01-24 |
 | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/track/5raBN9JYslOZsjZjQ0UgjA) | [Hemant Brijwasi](https://open.spotify.com/artist/11BXjsOWoC85qAKxr1h0NX) | [Zikr Hamara Hai Magar \(From \- Izhaar\-E\-Ishq\)](https://open.spotify.com/album/210Xmg0WOxgQ17S1eJJY83) | 5:43 | 2024-01-25 | 2025-01-01 |
 
 \*This playlist was first scraped on 2021-12-28. Prior content cannot be recovered.

@@ -2,9 +2,9 @@
 
 ### [Best Life](https://open.spotify.com/playlist/37i9dQZF1DWYVURwQHUqnN)
 
-> Photo : Alonzo x GIMS
+> Photo : Leto x Naza
 
-229 songs - 11 hr 1 min
+231 songs - 11 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,8 +73,9 @@
 | [Enchanté](https://open.spotify.com/track/0KfzH4wdrnGxNPWC94IZAA) | [Marjinal](https://open.spotify.com/artist/2kw3kVYH86s8K0O4Pebofm), [Soolking](https://open.spotify.com/artist/0GgY7hjMoGDsX8ZDe2mwds) | [Enchanté](https://open.spotify.com/album/65GWrU6ZK6CqWzGrDETzbV) | 2:53 | 2024-09-26 | 2024-11-22 |
 | [ENERGY](https://open.spotify.com/track/5K2MNMBLGtWgSVHPu4fegX) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [ENERGY](https://open.spotify.com/album/21BzfHKJb7lE0tNJG08rS9) | 2:13 | 2024-10-10 | 2024-12-13 |
 | [Faut pas](https://open.spotify.com/track/2cqtTAnI9E7buORFB9q4ts) | [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [Chambre 140 \(Part.3\)](https://open.spotify.com/album/1WlS2GoDR8Bj0DaJ9QJhHT) | 2:18 | 2024-02-01 | 2024-12-06 |
-| [Faux Paradis](https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Faux Paradis](https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr) | 3:04 | 2024-12-12 |  |
+| [Faux Paradis](https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q) | [Soprano](https://open.spotify.com/artist/2RJBv9wXbW6m539q9NOfW1), [PLK](https://open.spotify.com/artist/3DCWeG2J1fZeu0Oe6i5Q6m) | [Faux Paradis](https://open.spotify.com/album/622NuPfr3ZpAyxyrnnRSvr) | 3:04 | 2024-12-12 | 2025-01-24 |
 | [Favel \(feat\. Leto\)](https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0) | [Soso Maness](https://open.spotify.com/artist/0oeiA5U9u1U45Gos5cywUU), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favel \(feat\. Leto\)](https://open.spotify.com/album/0tdVu7eDcfQcj2ECMutN2q) | 2:24 | 2023-09-28 | 2023-12-08 |
+| [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 | 2025-01-23 |  |
 | [Fleurs](https://open.spotify.com/track/2jrpnXUN8mMrDMKXrzKsNO) | [Zamdane](https://open.spotify.com/artist/5CtPAGoxpJ4yLJLx6CSrO8) | [SOLSAD](https://open.spotify.com/album/6KaCLPY4dFCMiaWGl0EjCn) | 3:05 | 2024-07-18 | 2024-08-16 |
 | [Follow](https://open.spotify.com/track/3LoXmE7628YHrHDTXUNTzI) | [Dadi](https://open.spotify.com/artist/2YRHC9O0GHvyHY38yFP434) | [Follow](https://open.spotify.com/album/6HCgLXR7FISyZ4n9689t26) | 2:24 | 2025-01-09 |  |
 | [Full](https://open.spotify.com/track/1Bjh8hsHQZYjLQGW1b2sCR) | [Lyna Mahyem](https://open.spotify.com/artist/0Yj3N31EWXHc6e3eDyJPLP) | [Mon Âme \- Summer Vibes](https://open.spotify.com/album/4eGCU3guNX8aXnMVov0ZRS) | 2:59 | 2024-05-30 | 2024-06-14 |
@@ -125,7 +126,7 @@
 | [MAÑANA](https://open.spotify.com/track/1sv3oqZL49le641hfHgtpX) | [Gambi](https://open.spotify.com/artist/1lB3I3SI30v2ZOpR4XQqzJ) | [N'A STRAGIA](https://open.spotify.com/album/4PxIHIjXAGQz2bYqy0CLtX) | 2:24 | 2023-09-28 | 2023-11-24 |
 | [Mes Lovés](https://open.spotify.com/track/1dpuodugAA3ZVyV0oXHUu4) | [Ponko](https://open.spotify.com/artist/2xzGVKiyGIsI4NomojrK39), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mes Lovés](https://open.spotify.com/album/4hufR5ALDudDZxiReG2JiT) | 3:08 | 2024-06-20 | 2024-10-04 |
 | [Mi madre](https://open.spotify.com/track/1OadAxUa6KVPyKAwEv0Duy) | [Morad](https://open.spotify.com/artist/4az97MtWmBQ5Db3GfDh9j9), [Koba LaD](https://open.spotify.com/artist/1q7T9rFQ2a2ukA1PU51fo3), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [Mi madre](https://open.spotify.com/album/0WFyhZC7hwGuL402U8aovY) | 3:19 | 2023-11-30 | 2024-06-21 |
-| [Million](https://open.spotify.com/track/2tBdFaBdoT64Y2NvZxWOqW) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Million](https://open.spotify.com/album/34PgqU853NOE06O6q5LywJ) | 2:10 | 2025-01-02 |  |
+| [Million](https://open.spotify.com/track/2tBdFaBdoT64Y2NvZxWOqW) | [Oussama](https://open.spotify.com/artist/473J09XfjAXYQPbYQQS9Ml) | [Million](https://open.spotify.com/album/34PgqU853NOE06O6q5LywJ) | 2:10 | 2025-01-02 | 2025-01-24 |
 | [MILLIONAIRE](https://open.spotify.com/track/1mzaG8KB0Lkr3qt4MRwY1D) | [GLK](https://open.spotify.com/artist/3dH7pcBScIJQboDyMzUzez) | [MILLIONAIRE](https://open.spotify.com/album/2MQwYNQzv30MwGAbDzfXFD) | 2:41 | 2024-12-19 | 2025-01-10 |
 | [MISS LILY'S](https://open.spotify.com/track/6lVMLEpSkWrJcLG6RYPmfr) | [Dinos](https://open.spotify.com/artist/1QPdp5duV6lV4XINCzjwQ2), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [KINTSUGI](https://open.spotify.com/album/7o1zpKWhdh1YCvDmPGQ1qt) | 3:19 | 2024-11-28 |  |
 | [Mon BB](https://open.spotify.com/track/3E2A0uk8xtCGqgTsiz8Qug) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Mon BB](https://open.spotify.com/album/3UWJlCOQbnwW72X4q052NL) | 3:08 | 2023-09-28 | 2024-02-16 |
@@ -221,6 +222,7 @@
 | [Un vœu](https://open.spotify.com/track/6cU9TGTiJiopnl6AYMD81u) | [Bouss](https://open.spotify.com/artist/3hWQDRr1PqwvnHeiZlucBq) | [Un vœu](https://open.spotify.com/album/5ZIACHkcPzGLvK0wvnYOJL) | 3:58 | 2024-10-24 | 2024-12-20 |
 | [Une histoire](https://open.spotify.com/track/3QPaMmRNvuAKYH9yMmmzLt) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Nazaland](https://open.spotify.com/album/2dJqPlx5FueJnUL6O1AYFc) | 2:53 | 2024-06-20 |  |
 | [Vanillée](https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf) | [Houari](https://open.spotify.com/artist/6zrOXBaNn0DqJeXxgC2eyH), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [C'est de la Cali](https://open.spotify.com/album/4hcyzMtlhQdTxpxXqDL8jI) | 2:47 | 2024-06-20 |  |
+| [Vaï & 2Viens](https://open.spotify.com/track/6HVgs3qm88xtW9RONwZjVn) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz) | [SOLEDAD SAISON 1](https://open.spotify.com/album/7ohXPrS754eVGz7pnseqmd) | 3:15 | 2025-01-23 |  |
 | [Vent du Nord](https://open.spotify.com/track/6Tbwjz6FaFMUgJ3erjJ6bM) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Vent du Nord](https://open.spotify.com/album/56k5lTeQEuTU55t6RE9lks) | 2:25 | 2024-09-05 | 2024-09-07 |
 | [Vibes](https://open.spotify.com/track/5Ewrq10sWq0WYTSW6Br57l) | [Favé](https://open.spotify.com/artist/20JMfmzDb5cjHxEoMXXMyY) | [Vibes](https://open.spotify.com/album/6MHJuglMIWFJBIc9J0MWUG) | 2:14 | 2023-09-28 | 2024-05-24 |
 | [VIDA LOCA](https://open.spotify.com/track/3m4e1Cr5hTz4iF2bU9QTz6) | [Dinor rdt](https://open.spotify.com/artist/3RJNCnIkqvVwEicgGo2nqJ), [Vegedream](https://open.spotify.com/artist/4eYnorQRhVHT2KBl2UyHHd) | [VIDA LOCA](https://open.spotify.com/album/19SQT2btnkRb7De5XkfpLM) | 2:49 | 2023-09-28 | 2023-12-22 |

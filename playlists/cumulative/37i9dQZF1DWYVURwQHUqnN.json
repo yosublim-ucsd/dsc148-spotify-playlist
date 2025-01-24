@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-29",
-  "description": "Photo : Alonzo x GIMS",
+  "description": "Photo : Leto x Naza",
   "name": "Best Life",
   "tracks": [
     {
@@ -1442,7 +1442,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 184760,
       "name": "Faux Paradis",
       "url": "https://open.spotify.com/track/51xZYrlIB2GEhgXdidSe2Q"
@@ -1468,6 +1468,28 @@
       "duration_ms": 144883,
       "name": "Favel (feat. Leto)",
       "url": "https://open.spotify.com/track/4f4naiLQhNYCI7vnE0Yew0"
+    },
+    {
+      "album": {
+        "name": "Fav\u00e9la (#STATION 3)",
+        "url": "https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3"
+      },
+      "artists": [
+        {
+          "name": "Naza",
+          "url": "https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok"
+        },
+        {
+          "name": "Leto",
+          "url": "https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178064,
+      "name": "Fav\u00e9la (#STATION 3)",
+      "url": "https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs"
     },
     {
       "album": {
@@ -2498,7 +2520,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 130905,
       "name": "Million",
       "url": "https://open.spotify.com/track/2tBdFaBdoT64Y2NvZxWOqW"
@@ -4492,6 +4514,24 @@
       "duration_ms": 167013,
       "name": "Vanill\u00e9e",
       "url": "https://open.spotify.com/track/2OrVl8djetZs39Mr3Ujkaf"
+    },
+    {
+      "album": {
+        "name": "SOLEDAD SAISON 1",
+        "url": "https://open.spotify.com/album/7ohXPrS754eVGz7pnseqmd"
+      },
+      "artists": [
+        {
+          "name": "Lartiste",
+          "url": "https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195530,
+      "name": "Va\u00ef & 2Viens",
+      "url": "https://open.spotify.com/track/6HVgs3qm88xtW9RONwZjVn"
     },
     {
       "album": {

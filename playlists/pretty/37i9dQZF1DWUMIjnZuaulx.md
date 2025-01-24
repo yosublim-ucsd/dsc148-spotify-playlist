@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUMIjnZuaulx.md) - [plain]
 
 > Spread the Good News with the best Gospel songs of the moment\. Cover: Mercy Chinwo
 
-[Spotify](https://open.spotify.com/user/spotify) - 306,883 likes - 99 songs - 8 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 306,962 likes - 99 songs - 8 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

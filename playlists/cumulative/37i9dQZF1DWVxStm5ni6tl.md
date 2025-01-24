@@ -2,7 +2,7 @@
 
 ### [Fresh Finds Canada](https://open.spotify.com/playlist/37i9dQZF1DWVxStm5ni6tl)
 
-> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: DEAR\-GOD, Artwork: Isu Kim.
+> The best new music by independent artists and labels from Canada, updated every Wednesday\. Cover: HORSEBATH, Artwork: Isu Kim.
 
 1,933 songs - 4 day 3 hr 51 min
 

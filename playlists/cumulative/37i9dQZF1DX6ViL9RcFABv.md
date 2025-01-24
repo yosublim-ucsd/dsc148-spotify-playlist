@@ -2,9 +2,9 @@
 
 ### [Pop PT](https://open.spotify.com/playlist/37i9dQZF1DX6ViL9RcFABv)
 
-> Uma playlist de pura alma pop! Foto: Mariana Pereira
+> Uma playlist de pura alma pop! Foto: Carolina Deslandes
 
-173 songs - 9 hr 10 min
+174 songs - 9 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,7 +63,7 @@
 | [Desliza](https://open.spotify.com/track/5CYWaMpBev0t7JgscBAeYv) | [Ana Moura](https://open.spotify.com/artist/5HjL8Wcg8TdKTABDci2mB7) | [Desliza](https://open.spotify.com/album/4XfQRVwDQnE6Rd0OX8sTER) | 2:40 | 2024-09-19 |  |
 | [Despedida de Solteira](https://open.spotify.com/track/3iM2GDnBgSWoANyN2KzMtX) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Bichinho](https://open.spotify.com/album/0N2GwDGCTkpUNOhL5eQNh0) | 3:22 | 2024-06-27 | 2024-10-18 |
 | [Despertar](https://open.spotify.com/track/2kcxYO9Oj8STdDNwDCJ9sk) | [Nininho Vaz Maia](https://open.spotify.com/artist/7bMt24fjCeUulKxEUyLdL6) | [Despertar](https://open.spotify.com/album/1Qc0vSulmankXCzzn0wfCI) | 3:01 | 2025-01-10 |  |
-| [Deusa](https://open.spotify.com/track/7F8XNJe7D9qo53ee9GPlOQ) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Deusa](https://open.spotify.com/album/3KCSIfBZGcIziud90Jrvy9) | 3:29 | 2024-12-20 |  |
+| [Deusa](https://open.spotify.com/track/7F8XNJe7D9qo53ee9GPlOQ) | [Blaya](https://open.spotify.com/artist/0kWbj6PdoovMr1GXFcvJ5A) | [Deusa](https://open.spotify.com/album/3KCSIfBZGcIziud90Jrvy9) | 3:29 | 2024-12-20 | 2025-01-24 |
 | [Devolve\-me o Amanhã](https://open.spotify.com/track/0HlNrk1bsxFIIkOJqjb4EL) | [André ViaMonte](https://open.spotify.com/artist/65vZkm7u2bw95yQ0bAZdct), [Ana Bacalhau](https://open.spotify.com/artist/39eI4tC8L0YqmljynE71VF) | [Devolve\-me o Amanhã](https://open.spotify.com/album/3baRkCpqQHcLXUGaN62yXW) | 3:12 | 2025-01-17 |  |
 | [Dis\-Le Moi](https://open.spotify.com/track/62uQynm27mu2GH2RsTUh7v) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [Dis\-Le Moi](https://open.spotify.com/album/46UUw87srhq0eswxMN4Tcp) | 3:20 | 2024-06-27 | 2024-11-01 |
 | [Distinu](https://open.spotify.com/track/7e3OHWrl8Bp2WzGG5QGAku) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dino d'Santiago](https://open.spotify.com/artist/7qb2GMJaX4HeXqqPPyYdlr) | [Voyage \(Part I\)](https://open.spotify.com/album/71gGikHweFFDc1Xy9iUfon) | 3:30 | 2024-08-01 |  |
@@ -126,6 +126,7 @@
 | [Não Durmo Bem](https://open.spotify.com/track/5TgfKSmnnyI21rnY5m01kf) | [Archie](https://open.spotify.com/artist/6BQmTsPNeH0wmWXxa1CF4P), [ÁTOA](https://open.spotify.com/artist/2IK559MuWjlwxUj6zuikU7) | [Não Durmo Bem](https://open.spotify.com/album/5DqW9O0aEhcoyniBJYrHTo) | 3:16 | 2024-09-19 | 2024-11-01 |
 | [Não Somos Iguais](https://open.spotify.com/track/6jjhceNhQRNbOu3EZ5LfIo) | [Diana Lima](https://open.spotify.com/artist/32Smk7Ovdr0xb5MbQtU16t) | [Beco Com Saída](https://open.spotify.com/album/4tRPih3kZoV0bnKUm8AntL) | 3:05 | 2024-06-27 | 2024-08-23 |
 | [Não és tu, sou eu](https://open.spotify.com/track/6vmouKTLdfvqj29t5LUe8d) | [Bárbara Tinoco](https://open.spotify.com/artist/10okQWuBo3LEA8HSZ1VUMT) | [Não és tu, sou eu](https://open.spotify.com/album/00UkRecCWhLSZIwxsX55zE) | 2:59 | 2024-06-27 | 2024-09-13 |
+| [O Primeiro Passo](https://open.spotify.com/track/7u4tr8k7HFiip4CbWviLiZ) | [Marisa Liz](https://open.spotify.com/artist/2cM6v3lyiTwzu0lIDp1zMn) | [O Primeiro Passo](https://open.spotify.com/album/7MeBlSMhQQTEacw8rny1ML) | 2:13 | 2025-01-24 |  |
 | [O resto das nossas vidas](https://open.spotify.com/track/1LCmPKWODpYHUA35CT0MDa) | [Luísa Sobral](https://open.spotify.com/artist/4AEYOYl57sXoOtZQp0iaOT) | [O Resto das Nossas Vidas](https://open.spotify.com/album/7dnyQhr1aLsx6AufFGCRjU) | 2:58 | 2025-01-10 |  |
 | [O Sinal Está Fraco](https://open.spotify.com/track/2ywyJkWhDHfNOesu7wjHUb) | [Margarida Vasconcelos](https://open.spotify.com/artist/6R5cBF5xIxveaGIefYV2C9) | [O Sinal Está Fraco](https://open.spotify.com/album/77EvKexdAATT299lasrDcx) | 2:47 | 2024-08-22 | 2024-09-27 |
 | [O Teu Cheiro](https://open.spotify.com/track/23PQOfRFXeQ6ZR4q7ZfM5r) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY) | [O Teu Cheiro](https://open.spotify.com/album/0Lu1PFWRcRF8hthAnklvlN) | 2:50 | 2024-10-10 |  |

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-28",
-  "description": "The best French indie tracks right now. Cover : Oscar Anton",
+  "description": "The best French indie tracks right now. Cover : Peter Dallas",
   "name": "Made in France",
   "tracks": [
     {
@@ -3371,6 +3371,24 @@
     },
     {
       "album": {
+        "name": "Fus\u00e9es",
+        "url": "https://open.spotify.com/album/3TIoker0m81e5qNA2qQZVK"
+      },
+      "artists": [
+        {
+          "name": "Laura Cahen",
+          "url": "https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213542,
+      "name": "Fus\u00e9es",
+      "url": "https://open.spotify.com/track/6mBfTCdaTey7pnim9lhgBs"
+    },
+    {
+      "album": {
         "name": "Gala",
         "url": "https://open.spotify.com/album/2etNcKMymdsTiXy1YbtQrd"
       },
@@ -3724,7 +3742,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 151679,
       "name": "Heartless",
       "url": "https://open.spotify.com/track/6h8m26fQBiLT0XYabhyyDf"
@@ -7476,7 +7494,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 174773,
       "name": "Party",
       "url": "https://open.spotify.com/track/3Pw80Ulvtf6MeMkixjnLyP"
@@ -9858,6 +9876,24 @@
       "duration_ms": 191416,
       "name": "Tout va bien",
       "url": "https://open.spotify.com/track/17FECd8IneHV65pCJduuse"
+    },
+    {
+      "album": {
+        "name": "Toute seule",
+        "url": "https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg"
+      },
+      "artists": [
+        {
+          "name": "La Petite",
+          "url": "https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213000,
+      "name": "Toute seule",
+      "url": "https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3"
     },
     {
       "album": {

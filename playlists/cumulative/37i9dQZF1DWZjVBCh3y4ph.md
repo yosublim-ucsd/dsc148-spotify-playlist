@@ -2,9 +2,9 @@
 
 ### [Zouk Station](https://open.spotify.com/playlist/37i9dQZF1DWZjVBCh3y4ph)
 
-> Les hits zouk du moment\. Photo : Oswald
+> Les hits zouk du moment\. Photo : Meryl x Kalipsxau
 
-199 songs - 10 hr 40 min
+201 songs - 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -32,6 +32,7 @@
 | [Ce que tu veux de nous \- Baby boo](https://open.spotify.com/track/2woFHVE5BQmaoDfNtlN6Ln) | [Ina Lina](https://open.spotify.com/artist/2U6xeaHwqVrGgiKhnZyUlT) | [Incomprise](https://open.spotify.com/album/48zfG8lvY9evxG8fPKkUur) | 2:59 | 2024-09-26 | 2024-10-25 |
 | [City Road](https://open.spotify.com/track/543ZRVYyMZD1oK6gYrH6p5) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA) | [City Road](https://open.spotify.com/album/6soACghzfAs1FQ2m48lGG1) | 2:14 | 2024-01-04 | 2024-06-14 |
 | [Coeur Noir](https://open.spotify.com/track/2POhFt7cVOzqLYNuLOfQH0) | [T\-Stone](https://open.spotify.com/artist/6PGPB8aKzvdmvrM7kAuNGs), [Fanny J](https://open.spotify.com/artist/4UDmRorEV3n7LrvphaEKkw) | [Coeur Noir](https://open.spotify.com/album/334Q8mA07Ahjjj9nrj2TPF) | 3:39 | 2023-09-28 | 2023-10-06 |
+| [Collé](https://open.spotify.com/track/3Vdl4iclRWImLvre3nDY8G) | [Cadie Nelva](https://open.spotify.com/artist/5bc40hS4uxthRoyQeyAbqG) | [Collé](https://open.spotify.com/album/1XE6i9H8Un1Q9vTkk0pV1q) | 3:02 | 2025-01-23 |  |
 | [Collé](https://open.spotify.com/track/1PbmgY7RtdguwYVi4su4u1) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [Collé](https://open.spotify.com/album/5zflFbhlZVYtE45gqAC5VF) | 2:41 | 2024-06-13 | 2024-11-08 |
 | [COMMANDES](https://open.spotify.com/track/4iEBC6CH4TUgqt9tWH1brw) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [CATTLEYA](https://open.spotify.com/album/3yPzQIfc6dj1NQWNYLYHGn) | 4:21 | 2024-04-18 | 2024-08-02 |
 | [COMPLIQUÉ](https://open.spotify.com/track/2GWCVjGJ30y2hXIKIXhsxT) | [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [VARAINE BEN](https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY) | [COMPLIQUÉ](https://open.spotify.com/album/2ev4tDFNjbJyAetjBBzuii) | 3:28 | 2023-09-28 | 2024-03-01 |
@@ -73,6 +74,7 @@
 | [Intouchable](https://open.spotify.com/track/6hHrXwuCgYzikW20akODMk) | [Admiral T](https://open.spotify.com/artist/4TEnXYHvYwoMopWqxeAnTE), [Phyllisia Ross](https://open.spotify.com/artist/5nqfdxfbZ3EmnTOdIay7Fe) | [Intouchable](https://open.spotify.com/album/11bD4bOSI8YKTKhfoOwxha) | 3:46 | 2024-01-04 | 2024-06-01 |
 | [J'me préfère](https://open.spotify.com/track/1RVvNzABOsE2EgEqchJkF1) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF) | [J'me préfère](https://open.spotify.com/album/3KO3H0YUHHd9l10Uou1BLx) | 2:55 | 2024-09-05 | 2024-10-25 |
 | [Je le savais](https://open.spotify.com/track/0GmFgFtkqsgnrFMWJZ1x99) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN) | [Je le savais](https://open.spotify.com/album/6n9uhoJnNGaNd6mENrluEC) | 2:42 | 2023-09-28 | 2023-10-27 |
+| [Je serai la](https://open.spotify.com/track/7crxjo022nm3xtLb0QweOU) | [Jordan M](https://open.spotify.com/artist/4eylC3GhKMlNcrLN1RhsLk), [R Dydy](https://open.spotify.com/artist/5jdXOizrMwWDhvYvtFWs0m) | [Je serai la](https://open.spotify.com/album/3tG4GyqFh5AOjycfCAEnl3) | 2:30 | 2025-01-23 |  |
 | [Je T’Aime](https://open.spotify.com/track/2t56Csn4lIBda2efJM6If0) | [Neyna](https://open.spotify.com/artist/6lrpKiPnrnPLeKxKqIq7A7) | [Je T’Aime](https://open.spotify.com/album/1LukIBsRA8SqSgyUfak6mh) | 3:34 | 2024-05-30 | 2024-07-19 |
 | [Je veux ton coeur](https://open.spotify.com/track/0qAlln8GToiVhlmS9VTokc) | [Teety](https://open.spotify.com/artist/6HeLKMKnHapbFxCOFppEF9) | [Je veux ton coeur \(Audio\)](https://open.spotify.com/album/3KzcVgfho9IgIo24nqWtVt) | 3:37 | 2023-09-28 | 2023-10-06 |
 | [Jessica \(Island Remix\)](https://open.spotify.com/track/0RUPASmo0mJgjOx30NoYO5) | [Michaël Brun](https://open.spotify.com/artist/1HcAkAeL4xf02wzAnl7mIV), [Charly Black](https://open.spotify.com/artist/5sK8BsvyDl4TFA6KaBf8or), [Machel Montano](https://open.spotify.com/artist/6wxP7SSzfvi21Cnl8JicdQ), [J Perry](https://open.spotify.com/artist/4fkonOVOD4ehVOd2gAxgyZ) | [Jessica \(Island Remix\)](https://open.spotify.com/album/1hoA7oUcaigr1g671sYAz8) | 2:51 | 2023-10-26 | 2023-12-01 |
@@ -120,7 +122,7 @@
 | [Ny fitiavanay \(Notre amour\)](https://open.spotify.com/track/0e23qMbeMafeUQsuaqsIBh) | [Taylor Gasy](https://open.spotify.com/artist/547AvIcjAqi3Vz78SppsjN), [Jayneziss](https://open.spotify.com/artist/2gQcVMHBDwjdYAEOzubaHV) | [Ny fitiavanay \(Notre amour\)](https://open.spotify.com/album/7DMZmlKJXnqN6lL3AK51Qt) | 2:31 | 2023-11-16 | 2023-12-08 |
 | [Oblije Blockem \- Baby Gyal](https://open.spotify.com/track/0QPxawz5fYG2TeB7mO8wzy) | [Dee End](https://open.spotify.com/artist/1jzX6q77VAGgI7yGkT8p3f) | [Oblije Blockem \(Baby Gyal\)](https://open.spotify.com/album/7t31knDPCCiqPTaKIQF3I9) | 3:28 | 2024-08-01 | 2024-08-30 |
 | [Offishal](https://open.spotify.com/track/0WQlV0IFRTgDU08LiZLr85) | [VJ Awax](https://open.spotify.com/artist/0OgRGQfnDRVuDL6U43xPJm), [Gtnn](https://open.spotify.com/artist/4GY0LEXNOvfA1TIR8IFquk), [LIMO](https://open.spotify.com/artist/5xAlCUQtUJeKkomigruxxR) | [Offishal](https://open.spotify.com/album/0ViZKlgGnL2xKAgTBvbPwt) | 2:52 | 2024-02-22 | 2024-05-17 |
-| [Oh Baby](https://open.spotify.com/track/5OANFnzjfpEhEAL9ChDl4o) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Oh Baby](https://open.spotify.com/album/6QOp003TDoXsOHkpl9wXv7) | 3:26 | 2024-12-05 |  |
+| [Oh Baby](https://open.spotify.com/track/5OANFnzjfpEhEAL9ChDl4o) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Oh Baby](https://open.spotify.com/album/6QOp003TDoXsOHkpl9wXv7) | 3:26 | 2024-12-05 | 2025-01-24 |
 | [On a changé](https://open.spotify.com/track/53S9bXkOunbK1syb7Kyyz6) | [Mik L](https://open.spotify.com/artist/7aLBaAtUjEwZSUIr3S2BtR) | [On a changé](https://open.spotify.com/album/3zrtguwuRFGcshPO6QGON6) | 2:41 | 2023-09-28 | 2024-06-14 |
 | [Ou fè'm mal](https://open.spotify.com/track/5aFXwdIy5hkZ6WZZDHnEcq) | [Bryans](https://open.spotify.com/artist/3xNat4RfBlrmWTukCfPKtW) | [Eclosion](https://open.spotify.com/album/4n2MRSNTulYZomK6KTKKDu) | 3:18 | 2024-11-21 |  |
 | [Ou fèm vakabon](https://open.spotify.com/track/5keJB9DEzsMnDw3kO6QmSq) | [Oswald](https://open.spotify.com/artist/7ezufohumWc050JeTn0kqZ) | [Oxygen](https://open.spotify.com/album/0uPj4sB73YCpyQTYPmf4cM) | 4:33 | 2024-09-26 | 2024-11-08 |
@@ -194,7 +196,7 @@
 | [Trophée](https://open.spotify.com/track/4bMmiLEjHHhwqo8fKIRayx) | [DJ Kawest](https://open.spotify.com/artist/3kEcQwpYE06lQJAAA3fVAA), [Celyane](https://open.spotify.com/artist/4YLotLzWdKNAgAsqNmq2WP) | [Trophée](https://open.spotify.com/album/1814HhtSuacyysbTwr79mO) | 2:57 | 2024-08-29 | 2024-11-08 |
 | [TU ME TOUCHES](https://open.spotify.com/track/1CMYEMTuKG82siF0FMAlqn) | [Dj Tyson](https://open.spotify.com/artist/0CVXwhQTomrDLBClLOoqtv), [Thayna](https://open.spotify.com/artist/1TeJHWmFIoKu01utt6n3kR), [VARAINE BEN](https://open.spotify.com/artist/33VRGx12FIZw3TPLU93feY) | [TU ME TOUCHES](https://open.spotify.com/album/2INKDIz39NOpEhXTkydqnc) | 3:32 | 2023-11-23 | 2024-02-09 |
 | [Two méfian](https://open.spotify.com/track/1rCtW0Td7JwoQOfTLoICUq) | [JmaX](https://open.spotify.com/artist/1bUDh0j68XndR1nE47FjJV) | [Two méfian](https://open.spotify.com/album/4WJI63uMzZ8sKWu9lrTOZQ) | 2:54 | 2024-08-29 | 2024-10-25 |
-| [Ultimatum](https://open.spotify.com/track/2vkvc4IiMTVUdmrMampZGU) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr), [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Ultimatum](https://open.spotify.com/album/7AtBWftdgOV33vRseNCqtY) | 2:38 | 2024-12-12 |  |
+| [Ultimatum](https://open.spotify.com/track/2vkvc4IiMTVUdmrMampZGU) | [Dof'](https://open.spotify.com/artist/6AnXu050pLMVM8MTNZstJr), [Laconi](https://open.spotify.com/artist/0G6NSKnh543lt7f6dJiJ67) | [Ultimatum](https://open.spotify.com/album/7AtBWftdgOV33vRseNCqtY) | 2:38 | 2024-12-12 | 2025-01-24 |
 | [Une seule chose](https://open.spotify.com/track/1RL2M7pZn8OpPfBqVIrGmh) | [Kany](https://open.spotify.com/artist/0bD7mEP1eG7KRK84O1SjkF), [Monsieur Nov](https://open.spotify.com/artist/6dCubgboW2yqxg5cnveToX), [Game Over](https://open.spotify.com/artist/5asZFEvwtp6ex6hX9CFp9f) | [Une seule chose](https://open.spotify.com/album/3TJkmMHSCoNverdKxUkzcT) | 2:39 | 2024-05-16 | 2024-06-14 |
 | [Vide](https://open.spotify.com/track/6E5FBWSFWLdHCvBQ8AJsFv) | [Rashel](https://open.spotify.com/artist/6qtBdBdgQ74RTfQ7VEwCrh) | [Vide](https://open.spotify.com/album/5G1hDlDLm8HD5DlDUVxaic) | 2:20 | 2023-12-08 | 2024-02-02 |
 | [VIN NON](https://open.spotify.com/track/2NvrOO70coQL5O9dvjoPzp) | [KANIS](https://open.spotify.com/artist/5lidwRtvsMZ2URSmo9rlHc) | [VIN NON](https://open.spotify.com/album/4yvD7JMgNk4JGlskjGsinD) | 3:13 | 2023-11-30 | 2024-01-26 |

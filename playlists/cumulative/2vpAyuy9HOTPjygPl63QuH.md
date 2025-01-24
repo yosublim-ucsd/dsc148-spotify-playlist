@@ -4,7 +4,7 @@
 
 > The freshest tech house &amp; techno \| Submit via Instagram: @subshiftmusic
 
-2,078 songs - 4 day 21 hr 48 min
+2,079 songs - 4 day 21 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1582,7 +1582,7 @@
 | [SHiNE](https://open.spotify.com/track/3eGTeMHX7bB8YhUuXs9IV3) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Broken Future](https://open.spotify.com/artist/4uRey4s58J44Hw796OCZQ1) | [SHiNE](https://open.spotify.com/album/5todskDJAkfo8TYsGGtCEh) | 3:35 | 2022-10-07 | 2022-10-15 |
 | [Shiver](https://open.spotify.com/track/1ls2PNiOHOxmSfHRyslgAl) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hayla](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc) | [Shiver](https://open.spotify.com/album/1mJnSN0jQDklAu7SoSF8Vs) | 3:54 | 2024-02-17 | 2024-03-16 |
 | [Shiver \- Cassian Remix](https://open.spotify.com/track/2F7SSzMbICn522yxy6JZt7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [HAYLA](https://open.spotify.com/artist/4yX6mpMyBGf9UfvBB8JJrc), [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD) | [Shiver \(Cassian Remix\)](https://open.spotify.com/album/1CrX8LvopfetcSOwlLwhni) | 4:05 | 2024-05-24 | 2024-06-22 |
-| [Shoot Your Shot](https://open.spotify.com/track/58YpWzPSkQNQCKazcNmhjx) | [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD) | [Worst She Can Say is No](https://open.spotify.com/album/25xm5qXYvkWa4QIn50Mmgm) | 2:31 | 2025-01-10 |  |
+| [Shoot Your Shot](https://open.spotify.com/track/58YpWzPSkQNQCKazcNmhjx) | [Spin Off](https://open.spotify.com/artist/04z6nGdieOEA89MgeY6ngD), [Emily Stiles](https://open.spotify.com/artist/3PmIYYpYp4KcM7bc51JffC) | [Worst She Can Say is No](https://open.spotify.com/album/25xm5qXYvkWa4QIn50Mmgm) | 2:31 | 2025-01-10 |  |
 | [Show Me](https://open.spotify.com/track/3j701CnXp7gWgHfa03dtA1) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb), [ALLKNIGHT](https://open.spotify.com/artist/28Upea6Tkq0l5oTu0dtX1c) | [Show Me](https://open.spotify.com/album/2wOSJI1gSAvjLAPOUz8zGx) | 2:59 | 2023-11-10 | 2023-11-18 |
 | [Show Me](https://open.spotify.com/track/4QeFjSaniL6fVNV4YGNtJw) | [Zurra](https://open.spotify.com/artist/2NqTMxpFwTe8BQlCCeiZPW) | [Show Me](https://open.spotify.com/album/6En5iBKG9L14uJEilTrM1P) | 3:08 | 2023-08-04 | 2023-08-12 |
 | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/track/5U5Q3MbGlEc6q9NK9lMiPD) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Hannah Boleyn](https://open.spotify.com/artist/6EP96GaItADv1rNqR2oGIR) | [Show Me \(feat\. Hannah Boleyn\)](https://open.spotify.com/album/21aMLKMyG5sZZPTBswkYuQ) | 2:57 | 2022-11-05 | 2022-11-12 |
@@ -1934,6 +1934,7 @@
 | [Vibe Check](https://open.spotify.com/track/2OhOz9KKdIZEJcbK99epzT) | [DJ Susan](https://open.spotify.com/artist/1E3qGlNjHcdqAYMT4Wi6cm), [Chris Diaz](https://open.spotify.com/artist/6FiGI0nDxHFqw0Ragm9mV0) | [Vibe Check](https://open.spotify.com/album/7LANFx08mdYLNROf9MyB4Q) | 3:26 | 2023-10-13 | 2023-10-28 |
 | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/track/35ujkehsna0t7Ns3FE1pzE) | [Ferreck Dawn](https://open.spotify.com/artist/3cnAJv9gydgm52KFIsdvO8), [The Melody Men](https://open.spotify.com/artist/6PSmjKj0zyXGZ4TXoq4dSG) | [Vibe With It \(feat\. The Melody Men\)](https://open.spotify.com/album/3Pi1L6L16v5u5sm7d3lPSF) | 2:55 | 2023-05-05 | 2023-05-13 |
 | [Vibin](https://open.spotify.com/track/1BOoeMwnojgCcsnnF3H784) | [Dillon Nathaniel](https://open.spotify.com/artist/0Ut5FcDeEgaM9PM3LvnH6j) | [Vibin](https://open.spotify.com/album/76l7sQsN4oUxlIy40TqA60) | 3:06 | 2022-07-15 | 2022-07-30 |
+| [Vibin'](https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M) | [SUBSHIFT](https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo), [POLOVICH](https://open.spotify.com/artist/4puWXySdNLeDetOFeTmdjS) | [Vibin’](https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7) | 2:47 | 2025-01-24 |  |
 | [Vibrate](https://open.spotify.com/track/7wSyLZthdqBgxVRHOLPSSo) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Tita Lau](https://open.spotify.com/artist/5g93IJMEpfC68NUaeVjr4h) | [Vibrate / On The Ground](https://open.spotify.com/album/43qLFHzsGyaXZSY0OesmDI) | 2:14 | 2024-02-17 | 2024-03-16 |
 | [Vibrate \- Radio Edit](https://open.spotify.com/track/3zRw5GB5LI83tWPrPkr5TF) | [Josh Kalker](https://open.spotify.com/artist/7n0DQFWxlcRBMF5TbW80MF) | [Vibrate](https://open.spotify.com/album/6OQP11NTR6y4pGHz0Lqcdc) | 3:26 | 2024-05-02 | 2024-06-22 |
 | [Vibration](https://open.spotify.com/track/2byx7sBtIIUnzEdqcCfPB2) | [Jenn Getz & Alfie](https://open.spotify.com/artist/3InZgAgqREkBk5ZmMureYH) | [Vibration](https://open.spotify.com/album/4uP2wlxxOJzYDFGvEovyCV) | 2:57 | 2023-11-17 | 2023-12-17 |

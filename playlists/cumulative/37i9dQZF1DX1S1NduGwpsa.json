@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Ferdi\n",
+  "description": "The best jazz new releases. Cover: Gabi Hartman\n\n",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -798,6 +798,28 @@
       "duration_ms": 178173,
       "name": "Apho",
       "url": "https://open.spotify.com/track/6EMP27Iax2P3LrfFggIt1c"
+    },
+    {
+      "album": {
+        "name": "Apollo Solar Drive",
+        "url": "https://open.spotify.com/album/6M6TsxBEkd0LbwDZoqvetx"
+      },
+      "artists": [
+        {
+          "name": "Setenta",
+          "url": "https://open.spotify.com/artist/4dRBVaj6yRwtOnJMqSNSeg"
+        },
+        {
+          "name": "Gregoire Maret",
+          "url": "https://open.spotify.com/artist/24jNRyMv4IEPuL1qwmZuNW"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232706,
+      "name": "Apollo Solar Drive",
+      "url": "https://open.spotify.com/track/4MesbpwH8LvpTkH0duZCbz"
     },
     {
       "album": {
@@ -5192,7 +5214,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 255426,
       "name": "Healthy Ground",
       "url": "https://open.spotify.com/track/6AlXUgMf0TemcZ2RKE9gtb"
@@ -5638,7 +5660,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 252240,
       "name": "I Don't Mind",
       "url": "https://open.spotify.com/track/0QsXt6buqw7bJHqhlEIF4h"
@@ -6126,6 +6148,24 @@
       "duration_ms": 340290,
       "name": "Intertwined",
       "url": "https://open.spotify.com/track/4iEcGcD063MCmTuCOt1oXq"
+    },
+    {
+      "album": {
+        "name": "Into My World",
+        "url": "https://open.spotify.com/album/3eFLLjBXJXznUA9sGgGrHU"
+      },
+      "artists": [
+        {
+          "name": "Gabi Hartmann",
+          "url": "https://open.spotify.com/artist/0SKanyzuV3xDc5Irtwyqbn"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172706,
+      "name": "Into My World",
+      "url": "https://open.spotify.com/track/1T4kPPiDGVGZGc5HUIR68D"
     },
     {
       "album": {
@@ -6722,6 +6762,24 @@
       "duration_ms": 232343,
       "name": "King Size Papa",
       "url": "https://open.spotify.com/track/4jUTtGnhdBKqxWQycVgIEh"
+    },
+    {
+      "album": {
+        "name": "Dark Moon",
+        "url": "https://open.spotify.com/album/62wQnzvdDvEZFNOE9Hswr5"
+      },
+      "artists": [
+        {
+          "name": "Holly Cole",
+          "url": "https://open.spotify.com/artist/1N3288tnOcOQQgfhpBqFsX"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225440,
+      "name": "Kiss Me Quick",
+      "url": "https://open.spotify.com/track/1WIFpblmdXiRm4TdfxhaPh"
     },
     {
       "album": {
@@ -7430,7 +7488,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 321386,
       "name": "Lord Have Mercy",
       "url": "https://open.spotify.com/track/4BujRkyN9HhlOYXVJhGbAA"
@@ -7756,7 +7814,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 239480,
       "name": "Magic (feat. Emily King)",
       "url": "https://open.spotify.com/track/3VSYrw22mDac2h1bqr8pmg"
@@ -8836,7 +8894,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 138400,
       "name": "No Moon At All",
       "url": "https://open.spotify.com/track/5t4SdjnXGHuWyF7G18FtFB"
@@ -12641,6 +12699,28 @@
     },
     {
       "album": {
+        "name": "Tic Tac",
+        "url": "https://open.spotify.com/album/7GX1eSH9vSl6Vc5vitzhXK"
+      },
+      "artists": [
+        {
+          "name": "Il Mago Del Gelato",
+          "url": "https://open.spotify.com/artist/1HVA7XWQZ5OZgJLhSaTDXA"
+        },
+        {
+          "name": "M\u00e9lanie Ch\u00e9deville",
+          "url": "https://open.spotify.com/artist/4EGG2sH6Qnww7MrGtSyny3"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217668,
+      "name": "Tic Tac",
+      "url": "https://open.spotify.com/track/30krkvIJTCFycVhdhAhMH9"
+    },
+    {
+      "album": {
         "name": "Lady Champagne",
         "url": "https://open.spotify.com/album/2idn5UHb0zcPRATU0Bi9ET"
       },
@@ -14282,6 +14362,24 @@
       "duration_ms": 369493,
       "name": "You Are the Sunshine of My Life",
       "url": "https://open.spotify.com/track/5pHiptnSwesdvZJY4YFo5z"
+    },
+    {
+      "album": {
+        "name": "PHENOMENAL WOMEN",
+        "url": "https://open.spotify.com/album/5T34tAYCrM7DJ05Hq1uiNn"
+      },
+      "artists": [
+        {
+          "name": "Macha Gharibian",
+          "url": "https://open.spotify.com/artist/5Nym2tNZobmhltzmTae1ow"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 268573,
+      "name": "You Love Her",
+      "url": "https://open.spotify.com/track/1MDzT2eiAbxLPoXZkJjLYy"
     },
     {
       "album": {

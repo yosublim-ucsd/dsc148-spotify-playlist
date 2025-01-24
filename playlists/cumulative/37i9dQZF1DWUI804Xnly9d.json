@@ -382,7 +382,7 @@
       ],
       "date_added": "2025-01-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 178435,
       "name": "Adhoora",
       "url": "https://open.spotify.com/track/5rwva1AuukXKbL3EYbewmb"
@@ -1592,6 +1592,24 @@
       "duration_ms": 215217,
       "name": "Chandni Si Raat - Reprise",
       "url": "https://open.spotify.com/track/3BlcYd4T7bcXbMDVasiGVJ"
+    },
+    {
+      "album": {
+        "name": "Channa",
+        "url": "https://open.spotify.com/album/28UZhKX1OtWGCD3PZvRNTx"
+      },
+      "artists": [
+        {
+          "name": "Jonita Gandhi",
+          "url": "https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206025,
+      "name": "Channa",
+      "url": "https://open.spotify.com/track/03TkoJA692GayJ4seZUX4O"
     },
     {
       "album": {
@@ -4563,6 +4581,28 @@
     },
     {
       "album": {
+        "name": "Khwaab",
+        "url": "https://open.spotify.com/album/7gs9qQzkqTMmB8lT0rE8gQ"
+      },
+      "artists": [
+        {
+          "name": "Diesby",
+          "url": "https://open.spotify.com/artist/44NMZks2mBwJdeE0vw7xbb"
+        },
+        {
+          "name": "KavyaKriti",
+          "url": "https://open.spotify.com/artist/1DHwrcQWDQhgbRg4BE9rgr"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163072,
+      "name": "Khwaab",
+      "url": "https://open.spotify.com/track/7gYbvGRUsUtpmsF5ULBRUX"
+    },
+    {
+      "album": {
         "name": "KHWAAB",
         "url": "https://open.spotify.com/album/1VMUJrhAnz4Vur4E6RzvSV"
       },
@@ -5918,7 +5958,7 @@
       ],
       "date_added": "2024-12-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 213999,
       "name": "Miley Ho Jabse Tum",
       "url": "https://open.spotify.com/track/5ntKA7jOftFX3P4DMsMSmM"
@@ -7971,6 +8011,24 @@
     },
     {
       "album": {
+        "name": "Tera Asar",
+        "url": "https://open.spotify.com/album/01heUCTqHfWIHj3MooPIsX"
+      },
+      "artists": [
+        {
+          "name": "Kshitij Vishwakarma",
+          "url": "https://open.spotify.com/artist/7qV0MH8s4k7iDMuYVQzGvi"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187398,
+      "name": "Tera Asar",
+      "url": "https://open.spotify.com/track/2EJa6A72ki9Y4VWz92614c"
+    },
+    {
+      "album": {
         "name": "Tera Hi Intezaar Hai",
         "url": "https://open.spotify.com/album/7xju3kOHcr5VUiH2Au4FaA"
       },
@@ -8728,7 +8786,7 @@
       ],
       "date_added": "2024-12-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 205821,
       "name": "Tu Mera Nahin",
       "url": "https://open.spotify.com/track/1ZDkLqm9XBEzFqd42UZcSc"

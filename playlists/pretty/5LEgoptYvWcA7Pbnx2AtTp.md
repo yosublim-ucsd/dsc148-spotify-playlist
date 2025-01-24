@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 
 > Questionable in both morals and taste.
 
-[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 155 songs - 8 hr 55 min
+[Zero625](https://open.spotify.com/user/31bhzcs5e4idzzfmzmq7j63ivsbm) - 7 likes - 156 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -163,5 +163,6 @@ pretty - [cumulative](/playlists/cumulative/5LEgoptYvWcA7Pbnx2AtTp.md) - [plain]
 | 153 | [Social Climb](https://open.spotify.com/track/3xUsaaH6oCG1w8kD1oGhGW) | [I DONT KNOW HOW BUT THEY FOUND ME](https://open.spotify.com/artist/0Raaw7kr1Vzat4ZvHzjsJR) | [1981 Extended Play](https://open.spotify.com/album/6JmnnC2r3mvEFugTomuxWG) | 2:56 |
 | 154 | [Everyone Speaks Russian](https://open.spotify.com/track/5D57juDPsaYjHA4Wdf2hVw) | [Rotfront](https://open.spotify.com/artist/4aY5KQo2g0QxZJA5djS0Jz), [Flo Mega](https://open.spotify.com/artist/6fp17K7hcCAijzRgyxvG1j) | [17 Deutsche Tänze](https://open.spotify.com/album/47mQzkFFJj6MrHfV8aLwWH) | 3:08 |
 | 155 | [Redesign Your Logo](https://open.spotify.com/track/6BVpvP8cxaBlYS1x6u01Sq) | [Lemon Demon](https://open.spotify.com/artist/4llAOeA6kEF4ytaB2fsmcW) | [The Fump, Vol\. 20: March \- April 2010](https://open.spotify.com/album/795ErcyPhr0Trsq0a4SauM) | 4:19 |
+| 156 | [The Slur Song](https://open.spotify.com/track/1GotsDLkupVeKLe1WgvOm2) | [Bigfoot's Biggest Fan](https://open.spotify.com/artist/55GtCELECsxXn2qGp4GvLg) | [The Slur Song](https://open.spotify.com/album/4sDwp4QXSbdDvSXzJ1K3jI) | 3:35 |
 
-Snapshot ID: `AAAAzhUR3VZbSn8PHPj8Zwbks8yp2rMy`
+Snapshot ID: `AAAAz1a5pRdHoPAzOSXjbYf3pKy9a7HG`

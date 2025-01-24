@@ -2,9 +2,9 @@
 
 ### [Suomirock tänään](https://open.spotify.com/playlist/37i9dQZF1DWSTzzP5k4u3n)
 
-> Tällä listalla parasta tuoretta suomirockia\. Kannessa Pate Mustajärvi.
+> Tällä listalla parasta tuoretta suomirockia\. Kannessa Anssi Kela.
 
-263 songs - 15 hr 30 min
+265 songs - 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Kuokkavieras](https://open.spotify.com/track/5wAMWL5GTsyU2tPr28rxMq) | [NUPU](https://open.spotify.com/artist/3jUyWSZrNW57ACKlj18mad) | [Kuokkavieras](https://open.spotify.com/album/0PKZ4UMycnw9TSnRNQwEVb) | 4:11 | 2024-11-21 |  |
 | [Kuunnelkaa kiitos](https://open.spotify.com/track/5vehQK2MBEwuYtIG0g8RYg) | [Sherwoodin Mies Orkesteri](https://open.spotify.com/artist/0h8CaOAl781fD6OFl7X6ws) | [Kuunnelkaa kiitos](https://open.spotify.com/album/5oycadf8R8x7dJGYgHyZ6A) | 3:16 | 2024-09-12 | 2024-10-04 |
 | [Kylmän Sillan Alla](https://open.spotify.com/track/2E0j7yqloN7JIgYA9FEjb6) | [Mikko & Talon Herrat](https://open.spotify.com/artist/0yrl0cloDoHPrNHdR9AdAp) | [Porkanperä](https://open.spotify.com/album/2AK2cEBhlq9yv7uiqkX7we) | 5:18 | 2024-07-02 | 2024-07-05 |
+| [Kääretorttu](https://open.spotify.com/track/6LyF2fjteau0vri1xfTK8Y) | [Saara Törmä](https://open.spotify.com/artist/04pUQBuXGMDLa4mUDKGwxQ) | [Kääretorttu](https://open.spotify.com/album/4WbE9gwKfVZXZxQnJiHenD) | 3:12 | 2025-01-23 |  |
 | [Käärmeet](https://open.spotify.com/track/0fQOhE7MDkkP1eynoWJY5N) | [Aino & Hajonneet](https://open.spotify.com/artist/1sRsNqY5RY8NvNtM0E8Aa6) | [Enemmän kuin mitään muuta](https://open.spotify.com/album/6ohtgpzeXDBBVHK7HLHdtZ) | 2:41 | 2024-09-12 | 2025-01-17 |
 | [Käärmeitä sirkustelttaan](https://open.spotify.com/track/3x7GQM3C6KAKhEAB6ox8HC) | [LULUA](https://open.spotify.com/artist/2txKzsIBQ9q1EwZkW53PXY) | [Käärmeitä sirkustelttaan](https://open.spotify.com/album/15i1qAO6IDbBCHNHR2pGP5) | 3:39 | 2024-09-19 | 2024-12-20 |
 | [Lanka palaa](https://open.spotify.com/track/5NaxtBnIffTak7GXo86VAM) | [Pate Mustajärvi](https://open.spotify.com/artist/75Htm8Ro1hTU0sPemNONp1) | [Pelkkää Patee](https://open.spotify.com/album/04bPAbRKqEKWuKxtkevKY4) | 3:01 | 2024-08-15 | 2025-01-10 |
@@ -187,6 +188,7 @@
 | [Rakkautta varjojen](https://open.spotify.com/track/3uTtGwtXpHsicZxbPCj1oq) | [JP Leppäluoto](https://open.spotify.com/artist/24Rd4rNLnKZbKmCEl79Fxx) | [Rakkautta varjojen](https://open.spotify.com/album/4hEPRb7lIY6stwAh26LUqG) | 3:04 | 2024-11-14 | 2025-01-10 |
 | [rauhaa](https://open.spotify.com/track/5JZ9xDC1hApA6aIQBWMSOP) | [KYYT](https://open.spotify.com/artist/2woGSRcSjqyLYyNWOVj7m0) | [rauhaa](https://open.spotify.com/album/5ept4hZm8XeVgZgAsMmO0A) | 2:51 | 2024-09-19 | 2024-11-22 |
 | [Rauhaa & Rakkautta](https://open.spotify.com/track/29mSGrPW0XsDn4gRLiyEh0) | [Lemmenpyssyt](https://open.spotify.com/artist/64wPnE2wkh7LbEkOUGmaP8) | [Rauhaa & Rakkautta](https://open.spotify.com/album/4UbYwyamlMxh3tWeum2T4B) | 3:20 | 2024-07-02 | 2024-10-04 |
+| [Raunioita](https://open.spotify.com/track/59I9eYy2AArw6NuMi99Nox) | [Hauli Bros](https://open.spotify.com/artist/66Uq3qob8o3WVHKbRH6kiM) | [Raunioita](https://open.spotify.com/album/0vz5dNmUb9SGudyyvyhY59) | 3:40 | 2025-01-23 |  |
 | [Resenären](https://open.spotify.com/track/6pR14N4j08cLhjK9otPYH1) | [Royalen](https://open.spotify.com/artist/6i53r2V6FKl1QuCBnI1HKO) | [Resenären](https://open.spotify.com/album/31MtK45zT1jxoNCgAyyQph) | 3:42 | 2024-10-17 | 2024-11-22 |
 | [Running Water](https://open.spotify.com/track/11wKNd3OHEyk4oUp5HdJuC) | [IBIS](https://open.spotify.com/artist/33gbO0YOoFmE4EpS2hXhtD) | [Running Water](https://open.spotify.com/album/4GxHJmAB5IsYjxdDTTzhMG) | 3:49 | 2024-07-02 | 2024-07-12 |
 | [Ruusu](https://open.spotify.com/track/7jhOBsDrLrBFK0bt2jqfzX) | [HÄTÄHUUTO](https://open.spotify.com/artist/4p14Za7tptr7RnruH0LAP2) | [Ruusu](https://open.spotify.com/album/0ergX8StLFAffGHD37bbfM) | 3:33 | 2024-07-11 | 2024-11-29 |

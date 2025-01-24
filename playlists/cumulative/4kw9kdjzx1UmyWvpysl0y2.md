@@ -4,7 +4,7 @@
 
 > Brand new music from Monstercat, all in one place.
 
-899 songs - 2 day 3 hr 2 min
+900 songs - 2 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -784,6 +784,7 @@
 | [The Light \- Flexible Fire Remix](https://open.spotify.com/track/4KMniGiobJ09rCP1rJhyB1) | [Vintage & Morelli](https://open.spotify.com/artist/58dfpnXBkKgFNH2JFtEAv0), [Arielle Maren](https://open.spotify.com/artist/7MbnTNfDyXb2vTM1GYXsLV), [Flexible Fire](https://open.spotify.com/artist/76sA8VLsfgOY1qoNgHnf8K) | [The Light \(The Remixes\)](https://open.spotify.com/album/3LJ9fh5loPde5YZJ6J48Sv) | 3:20 | 2022-05-27 | 2022-08-06 |
 | [The Losers Club](https://open.spotify.com/track/0sMRrXb9GyjHtmxVD77mHr) | [Mazare](https://open.spotify.com/artist/4yzZdtb9UicgY2M23eEtL9), [Story Untold](https://open.spotify.com/artist/0BOXARfvlX6FdiyMJUUn1Z) | [The Losers Club](https://open.spotify.com/album/6S1xsAlR55vpgFD21uuPH5) | 3:54 | 2024-07-05 | 2024-09-28 |
 | [The Lost Ancient Charm](https://open.spotify.com/track/1fOVxx0XtG0mZSN3rQ3Izu) | [Forty Cats](https://open.spotify.com/artist/4QvopvfkScQMzOUiXRjMDJ), [Arentis](https://open.spotify.com/artist/3eAXDhAvVI3bE9ogPMNdnl) | [The Lost Ancient Charm](https://open.spotify.com/album/7zZOPlIYYKuSMEYJKlQo5G) | 3:11 | 2022-10-12 | 2022-12-10 |
+| [The Love We Had](https://open.spotify.com/track/5bpOpaxov9usdnLLNLOtMd) | [ARMNHMR](https://open.spotify.com/artist/0P2bZXPyjHYRW4guHVAFl1), [Trella](https://open.spotify.com/artist/4YpLN8ZByubASuWnxWokRT) | [The Love We Had](https://open.spotify.com/album/2HFSsfxUAs3spJeK5yaj59) | 3:41 | 2025-01-23 |  |
 | [The Magic](https://open.spotify.com/track/5x8zNpwb9BYNIf6fcYTDRt) | [Nigel Good](https://open.spotify.com/artist/5Q0xO4AeNtPKPqWcpCygD2), [Tien Viet Nguyen](https://open.spotify.com/artist/6odxpDVoNhGYuhBzCZTAk6) | [The Magic](https://open.spotify.com/album/6GBf9xoSdsRTa9z3qyeGjs) | 3:35 | 2024-04-16 | 2024-07-06 |
 | [The Moment](https://open.spotify.com/track/7kJbF9HTZVkaU2e2yf42dB) | [Maestro Chives](https://open.spotify.com/artist/1HD6q5dxREv64GOc3H7vBs), [Martin Graff](https://open.spotify.com/artist/6SR5c2LXuUrSqhqkj3MTz9) | [The Moment](https://open.spotify.com/album/0ASBkV3dhCp5dvCNpHwzEb) | 3:30 | 2022-02-18 | 2022-04-29 |
 | [The One](https://open.spotify.com/track/5IjHyWBWrng9EjsAKZZCp4) | [ATTLAS](https://open.spotify.com/artist/0jM4IKp6YlTxq8tNDH9fX3), [Mango](https://open.spotify.com/artist/5x6H8meBBWk6J8qcIWxW7w), [MAYLYN](https://open.spotify.com/artist/36L4aidPfPFcI1KPY1XDFM) | [The One](https://open.spotify.com/album/55hOZrIa3iHwwEMfvWKKMe) | 3:15 | 2024-02-20 | 2024-05-11 |

@@ -2,9 +2,9 @@
 
 ### [Made in France](https://open.spotify.com/playlist/37i9dQZF1DWSrj7tqQ9IOu)
 
-> The best French indie tracks right now\. Cover : Oscar Anton
+> The best French indie tracks right now\. Cover : Peter Dallas
 
-574 songs - 1 day 7 hr 17 min
+576 songs - 1 day 7 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [Frisco Blues](https://open.spotify.com/track/1lZOlQheMnvyuw9BGzALiV) | [Lewis OfMan](https://open.spotify.com/artist/1hkRfKGoJisJDbo6eSf1pg) | [Frisco Blues](https://open.spotify.com/album/0KteuByNpfG6DnPfNPytbF) | 4:07 | 2023-10-12 | 2024-02-16 |
 | [Fun And Games](https://open.spotify.com/track/5sotg0jgud6MzdGzmeFdeY) | [Please](https://open.spotify.com/artist/07xx8lFWESVjZnqCpm43ku) | [Fun And Games](https://open.spotify.com/album/0TARB7CV4PQJKl6ceVpyfG) | 4:05 | 2022-06-23 | 2022-09-02 |
 | [Funambule](https://open.spotify.com/track/25Iv3PI72AyxdboNYxuKGK) | [Mahom](https://open.spotify.com/artist/3GO2chm7Si2LKxukpSrP3K), [LUIZA](https://open.spotify.com/artist/3K5sYlHk7RZimjYhUWej8D) | [Funambule](https://open.spotify.com/album/4sioMrTmkoAX1kpQB2R2cz) | 3:48 | 2024-08-29 |  |
+| [Fusées](https://open.spotify.com/track/6mBfTCdaTey7pnim9lhgBs) | [Laura Cahen](https://open.spotify.com/artist/7F6KYZeQpL5MqAnMFG8a4F) | [Fusées](https://open.spotify.com/album/3TIoker0m81e5qNA2qQZVK) | 3:33 | 2025-01-23 |  |
 | [Gala](https://open.spotify.com/track/0PvDUG18CCUqrVTyK2aGkw) | [Degree](https://open.spotify.com/artist/1WsU8n1hX7sjHqGryYXp1w) | [Gala](https://open.spotify.com/album/2etNcKMymdsTiXy1YbtQrd) | 2:53 | 2023-02-02 | 2023-06-23 |
 | [Game Boys](https://open.spotify.com/track/1VV9YClgWlPzsyL6GLoAF3) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB) | [Moody Moon](https://open.spotify.com/album/3ONCT6yDKlvu0ismhJTOZx) | 2:53 | 2023-04-13 | 2023-08-06 |
 | [Game Boys](https://open.spotify.com/track/3QNhfuJkl6IWxnojizLG55) | [Camp Claude](https://open.spotify.com/artist/0TNyEQ0n7diilLgG1ozfrB), [Diane Sagnier](https://open.spotify.com/artist/7grNqGVCIRH4ZM3UR1QAay), [Rocket Mike](https://open.spotify.com/artist/18ssEKS9fXX1nbMg7mAzaU), [Leo Hellden](https://open.spotify.com/artist/2xuVdExl3fVXV8NjGOaSpL) | [Moody Moon](https://open.spotify.com/album/5KwugNWAlyYhFCGx2obkTY) | 2:53 | 2023-08-03 | 2023-12-01 |
@@ -202,7 +203,7 @@
 | [Hard to be a girl](https://open.spotify.com/track/6YSU1sOKhpGYtWL8m90Wwo) | [The Pirouettes](https://open.spotify.com/artist/1Jp2BVxy67R0OaudOV9lm1) | [Moping in style : A tribute to Adam Green](https://open.spotify.com/album/4jGsgNYVVLiWCoavpK5ye4) | 2:39 | 2023-11-30 | 2024-03-08 |
 | [Havana](https://open.spotify.com/track/5ZJ2VXdJ6koG4m7uXptk0g) | [Montmartre](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo) | [Havana](https://open.spotify.com/album/3fqDwm0MNS2ZbXlH8MMJpr) | 2:42 | 2022-06-16 | 2022-07-15 |
 | [HEAR ME\. N2.23](https://open.spotify.com/track/7w77qLgJW3lhCuoVTKbOdC) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [HEAR ME\. N2.23](https://open.spotify.com/album/3EKIndqFsifqwrkP4kYYiQ) | 3:42 | 2023-04-20 | 2023-05-26 |
-| [Heartless](https://open.spotify.com/track/6h8m26fQBiLT0XYabhyyDf) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Heartless](https://open.spotify.com/album/6yf7kGg3x04Uuc58Gf3fGX) | 2:31 | 2024-12-12 |  |
+| [Heartless](https://open.spotify.com/track/6h8m26fQBiLT0XYabhyyDf) | [Nina Versyp](https://open.spotify.com/artist/6MEkTyXq5nV6jeGlirVJjy) | [Heartless](https://open.spotify.com/album/6yf7kGg3x04Uuc58Gf3fGX) | 2:31 | 2024-12-12 | 2025-01-24 |
 | [Heartquake](https://open.spotify.com/track/6vcC7pldyTPKjZJFvY3v7Q) | [L'Impératrice](https://open.spotify.com/artist/4PwlsrN0t5mLN0C827cbEU), [Cuco](https://open.spotify.com/artist/2Tglaf8nvDzwSQnpSrjLHP) | [Heartquake](https://open.spotify.com/album/1Ug1cKJWf6t7qlKQEfKs4R) | 3:38 | 2023-06-29 | 2023-09-29 |
 | [Hell of a Woman](https://open.spotify.com/track/3eLWqBJTgxWCmxrtxZdTzf) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm) | [Hell of a Woman](https://open.spotify.com/album/0UxnbJFl2xtXdItxKUNcCL) | 3:36 | 2022-01-20 | 2022-02-25 |
 | [Hello Hello](https://open.spotify.com/track/0sIB4AFz7FGN0nef89hsRD) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Hello Hello](https://open.spotify.com/album/6jkcoS61cyIwJ3LTcXuEEs) | 2:36 | 2024-08-22 | 2024-11-22 |
@@ -400,7 +401,7 @@
 | [Paris en août](https://open.spotify.com/track/6R3xtNGXOTqp8Qzuf22jaW) | [Part\-Time Friends](https://open.spotify.com/artist/76mxGKWJzBzyHd6oX1t2yp) | [Paris en août](https://open.spotify.com/album/2F97r4tTBp5iGMgkMNT6rA) | 3:30 | 2021-12-16 | 2022-01-14 |
 | [Paris en Août](https://open.spotify.com/track/6fXUOK5wb2yZUMz1cWV2zd) | [SANTA](https://open.spotify.com/artist/5Vf6gyVzfo8TnzrPRBg3qo) | [Paris en Août](https://open.spotify.com/album/3EkxQ6GEnoum2TFhrrXOVg) | 3:11 | 2022-08-25 | 2023-01-20 |
 | [Partir Loin](https://open.spotify.com/track/2604QmkjAd8peUvW2pq6DX) | [Antis](https://open.spotify.com/artist/2juj6BRMaPQO20Q41odCcu) | [Partir Loin](https://open.spotify.com/album/3dHRiGcQVDaxWgsTHKWRIq) | 2:38 | 2022-12-22 | 2023-03-31 |
-| [Party](https://open.spotify.com/track/3Pw80Ulvtf6MeMkixjnLyP) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Party](https://open.spotify.com/album/0f2HZdtQPt1ngVO56RZfYq) | 2:54 | 2024-11-21 |  |
+| [Party](https://open.spotify.com/track/3Pw80Ulvtf6MeMkixjnLyP) | [Frànçois & The Atlas Mountains](https://open.spotify.com/artist/1mHTS3stAYCszPZ2PRa8QU) | [Party](https://open.spotify.com/album/0f2HZdtQPt1ngVO56RZfYq) | 2:54 | 2024-11-21 | 2025-01-24 |
 | [Pas d'ici](https://open.spotify.com/track/3UBZKE16VUDdeZj1VOPL0b) | [Ehla](https://open.spotify.com/artist/5KXt8UHaa6JBSYltw052Cp) | [Pas d'ici](https://open.spotify.com/album/5bRORAvguXBlmgvTN8SpsU) | 3:37 | 2021-12-16 | 2022-11-18 |
 | [Pas vraiment](https://open.spotify.com/track/1Nl4KaC3oa5HTqvzLOdkQh) | [Malik Djoudi](https://open.spotify.com/artist/5STTEE3TlZg9gb3xNC4RHF) | [Vivant](https://open.spotify.com/album/3DwFd9rWKeSNKhYeBgRfbD) | 3:17 | 2024-09-12 | 2025-01-10 |
 | [Pesanteur](https://open.spotify.com/track/4tWdbD3IuTFxz8Sd4Nu6QH) | [Poppy Fusée](https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT) | [Pesanteur](https://open.spotify.com/album/1IUgA2qSFsB4GJOvgDVbrZ) | 2:36 | 2021-12-16 | 2022-04-15 |
@@ -526,6 +527,7 @@
 | [tous les jours](https://open.spotify.com/track/4FR0Xz7BzGqEXc8H735RRV) | [aupinard](https://open.spotify.com/artist/33U9I7yBy34UXqKYObItne) | [tous les jours](https://open.spotify.com/album/4mQLlXhguoJgAMH5mmTzwr) | 3:06 | 2023-04-13 | 2023-06-02 |
 | [Tout m'ennuie](https://open.spotify.com/track/2tGnmde5psWfpwxjAApQ42) | [Vendredi sur Mer](https://open.spotify.com/artist/0wuuYZFptujAsRthrdea2B) | [Métamorphose](https://open.spotify.com/album/4oMACluGt3023RPODJv1ex) | 3:14 | 2022-11-10 | 2022-12-16 |
 | [Tout va bien](https://open.spotify.com/track/17FECd8IneHV65pCJduuse) | [roland decembre](https://open.spotify.com/artist/2UxITzDZ5wN79zzSiJ9KeK) | [Tout va bien](https://open.spotify.com/album/7ce6rlPWieH0zykGdlFRXA) | 3:11 | 2023-02-02 | 2023-06-16 |
+| [Toute seule](https://open.spotify.com/track/1mdGek6V8hI7zibGut1ZO3) | [La Petite](https://open.spotify.com/artist/4ItZHQxj7Fg9HG0wumutTn) | [Toute seule](https://open.spotify.com/album/7InPIQqkXfyR1lq4AahEOg) | 3:33 | 2025-01-23 |  |
 | [Tramp Like You](https://open.spotify.com/track/0rNww8SMuGZm8GkDWeHtLi) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Hydranism](https://open.spotify.com/album/5Mp0oL6cdMJ1ODlpGpdUte) | 5:24 | 2023-04-27 | 2023-06-30 |
 | [Tramp Like You](https://open.spotify.com/track/2wWlrpVleWOYkOqhpkV2EJ) | [Oracle Sisters](https://open.spotify.com/artist/2S11VlKvbvSKyyb7Wk4YP1) | [Tramp Like You](https://open.spotify.com/album/21uaZE9JBRZDNHNouEO8Df) | 5:24 | 2023-01-19 | 2023-04-30 |
 | [True love \(feat\. 070 Shake\)](https://open.spotify.com/track/6PdUV3DjQAT4Hk9Hz7UNZ5) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [True love \(feat\. 070 Shake\)](https://open.spotify.com/album/21ZlnuYMvzSLNOAYWH318k) | 5:47 | 2023-04-20 | 2023-09-29 |

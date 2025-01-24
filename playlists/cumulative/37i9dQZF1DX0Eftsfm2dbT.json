@@ -14969,6 +14969,28 @@
     },
     {
       "album": {
+        "name": "Midnight Hours",
+        "url": "https://open.spotify.com/album/2qvGeXt9okSWD7C36sIkYe"
+      },
+      "artists": [
+        {
+          "name": "J1rock",
+          "url": "https://open.spotify.com/artist/0nuCtZ6ZHTKzQAI21HNh74"
+        },
+        {
+          "name": "WillHalo",
+          "url": "https://open.spotify.com/artist/2ftpnp4cnsC34IHuwrOsPx"
+        }
+      ],
+      "date_added": "2025-01-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120012,
+      "name": "Midnight Hours",
+      "url": "https://open.spotify.com/track/6DJkF1IGxkWEOn8eYOtDLL"
+    },
+    {
+      "album": {
         "name": "Miite",
         "url": "https://open.spotify.com/album/4RZ2DtH747A5CX5mAGEAV0"
       },

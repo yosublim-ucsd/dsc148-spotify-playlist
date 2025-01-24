@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-28",
-  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: trigNO",
+  "description": "\u2728giovane\u2728pop\u2728z\u2728 Cover: Jacopo Sol",
   "name": "GENERAZIONE Z",
   "tracks": [
     {
@@ -154,7 +154,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 197624,
       "name": "3/4 di gin",
       "url": "https://open.spotify.com/track/2xMHGR94FGc1coNn3vEaCG"
@@ -520,6 +520,24 @@
       "duration_ms": 172718,
       "name": "Altamente Mia",
       "url": "https://open.spotify.com/track/0hReXAWKqGzHBYnw0S1CXu"
+    },
+    {
+      "album": {
+        "name": "ALTOMARE & WHISKY",
+        "url": "https://open.spotify.com/album/74VQfqFIdGNkIIkIbkuPhE"
+      },
+      "artists": [
+        {
+          "name": "Vins",
+          "url": "https://open.spotify.com/artist/0616g4qEGPhqPgKnzBKNir"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169167,
+      "name": "ALTOMARE",
+      "url": "https://open.spotify.com/track/3ivx0H3d4jNPNxupsfPEVF"
     },
     {
       "album": {
@@ -2291,6 +2309,24 @@
     },
     {
       "album": {
+        "name": "Controluce",
+        "url": "https://open.spotify.com/album/2r37LgDJnaxxWvODevcl4b"
+      },
+      "artists": [
+        {
+          "name": "Aria",
+          "url": "https://open.spotify.com/artist/3QptZmsuqUYGVDlrC02wdD"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180106,
+      "name": "Controluce",
+      "url": "https://open.spotify.com/track/2Ov0PGUfM28q81QKQLHQw2"
+    },
+    {
+      "album": {
         "name": "Cupido Senza Ali",
         "url": "https://open.spotify.com/album/3x3vS767sbgvMnAEgZctdx"
       },
@@ -3780,7 +3816,7 @@
       ],
       "date_added": "2025-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 158531,
       "name": "gazzelle",
       "url": "https://open.spotify.com/track/0Zn7wPg8aImvsjsXWggu7x"
@@ -4248,7 +4284,7 @@
       ],
       "date_added": "2024-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 149091,
       "name": "HELLO KITTY (feat. Sillyelly)",
       "url": "https://open.spotify.com/track/3zjwZqLebYTDvRS2RJH5Be"
@@ -5130,7 +5166,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 166868,
       "name": "La Storia Della Nostra Vita",
       "url": "https://open.spotify.com/track/5WnEGQ73A7ZyiYs9dLFp6G"
@@ -5474,7 +5510,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 149557,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/40FRMdRcEgEVEIzcNxZZ2z"
@@ -5584,7 +5620,7 @@
       },
       "artists": [
         {
-          "name": "Senza_Cri",
+          "name": "SENZA CRI",
           "url": "https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX"
         }
       ],
@@ -5914,10 +5950,28 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 154332,
       "name": "MARINAIO",
       "url": "https://open.spotify.com/track/2ICFv8YudCL14GR8FTWuWo"
+    },
+    {
+      "album": {
+        "name": "mayday",
+        "url": "https://open.spotify.com/album/3WtlhNKnPhYPpMdeEILB6H"
+      },
+      "artists": [
+        {
+          "name": "anice",
+          "url": "https://open.spotify.com/artist/0Sf5IqezdIhXjKogXm0Nad"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138285,
+      "name": "mayday",
+      "url": "https://open.spotify.com/track/1rxBdwJnt5pZHXqzB4ssEH"
     },
     {
       "album": {
@@ -6391,6 +6445,24 @@
     },
     {
       "album": {
+        "name": "Mountain Mama",
+        "url": "https://open.spotify.com/album/0CxhWLSLnzl9RnZ6tnjl0y"
+      },
+      "artists": [
+        {
+          "name": "jiojio",
+          "url": "https://open.spotify.com/artist/5af5HLW8lfAgK2ocZKwgrp"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122343,
+      "name": "Mountain Mama",
+      "url": "https://open.spotify.com/track/58Rr9zyZETlh66EvM6OxMk"
+    },
+    {
+      "album": {
         "name": "Musica Animale",
         "url": "https://open.spotify.com/album/4zIJhVNkke9akhZTiZzDuJ"
       },
@@ -6580,6 +6652,28 @@
       "duration_ms": 166214,
       "name": "Niente da perdere",
       "url": "https://open.spotify.com/track/3HiQ6Tn1mWVgYDLgeaxjS5"
+    },
+    {
+      "album": {
+        "name": "Swag Paranoia",
+        "url": "https://open.spotify.com/album/4U9qP96OB9U9VWWUY8lNxg"
+      },
+      "artists": [
+        {
+          "name": "Wemme Flow",
+          "url": "https://open.spotify.com/artist/7H5agcXkVZfGrisEOqZ8ny"
+        },
+        {
+          "name": "Zenit",
+          "url": "https://open.spotify.com/artist/5f6ADyb6sglbANxDJdnAqN"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132244,
+      "name": "Noi",
+      "url": "https://open.spotify.com/track/1nDXV69NZCJjIxNab1R2wm"
     },
     {
       "album": {
@@ -10189,6 +10283,24 @@
     },
     {
       "album": {
+        "name": "TESTACODA",
+        "url": "https://open.spotify.com/album/4wLiHRAD0lMpPAiAGoZYdE"
+      },
+      "artists": [
+        {
+          "name": "Werdn",
+          "url": "https://open.spotify.com/artist/3nHhNTw0xLkmgPbbTJ3HqC"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162936,
+      "name": "TESTACODA",
+      "url": "https://open.spotify.com/track/4ZDBuHhuqmW4591082AfNr"
+    },
+    {
+      "album": {
         "name": "TI AMO E NON LO SAI",
         "url": "https://open.spotify.com/album/2o6QoLo9MSGFa6vRYwFYLU"
       },
@@ -10226,6 +10338,24 @@
       "duration_ms": 176566,
       "name": "Ti scorderai di me",
       "url": "https://open.spotify.com/track/3669AI1VHHptnYqXwe5kqh"
+    },
+    {
+      "album": {
+        "name": "TI SCRIVEREI",
+        "url": "https://open.spotify.com/album/5S03nIH67yLrJwWyr4pFr3"
+      },
+      "artists": [
+        {
+          "name": "THAEO",
+          "url": "https://open.spotify.com/artist/3UJG5duxW6hAiBDBxXHx2J"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178522,
+      "name": "TI SCRIVEREI",
+      "url": "https://open.spotify.com/track/1SOtWCEMKvpEgabXuyRxUx"
     },
     {
       "album": {
@@ -10312,7 +10442,7 @@
       ],
       "date_added": "2024-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 174628,
       "name": "Torcida",
       "url": "https://open.spotify.com/track/50okpBf3MvXr4FyWB6jJIK"
@@ -10658,7 +10788,7 @@
       },
       "artists": [
         {
-          "name": "Senza_Cri",
+          "name": "SENZA CRI",
           "url": "https://open.spotify.com/artist/73yuykr68rP33twpiNpIoX"
         }
       ],
@@ -10780,7 +10910,7 @@
       ],
       "date_added": "2024-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 138588,
       "name": "Un giorno in pi\u00f9",
       "url": "https://open.spotify.com/track/5N7RhiNe0ieZb7WB40jFWP"
@@ -11530,6 +11660,24 @@
       "duration_ms": 132571,
       "name": "Wemmino",
       "url": "https://open.spotify.com/track/0S2cH6G7ZMu2Ru5y7HWRHR"
+    },
+    {
+      "album": {
+        "name": "X LE TUE",
+        "url": "https://open.spotify.com/album/0s3InEFpq2t3Ak11RNyPY2"
+      },
+      "artists": [
+        {
+          "name": "IRBIS",
+          "url": "https://open.spotify.com/artist/2u9Wpl7T6gCu1t3ymd6aXL"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134896,
+      "name": "X LE TUE",
+      "url": "https://open.spotify.com/track/1Vmhky7V1HSWorfSnKAvvh"
     },
     {
       "album": {

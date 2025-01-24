@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 
 > The hottest Japanese anime song playlist curated by  <a href="https://www.lisani.jp/">LisAni！</a> アニメ音楽メディア「<a href="https://www.lisani.jp/">リスアニ！</a>」が贈る最強のアニソンプレイリストです。新旧の名曲を随時更新！
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,422 likes - 101 songs - 19 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,420 likes - 101 songs - 19 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,7 +73,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcpS9SoNtuO7.md) - [plain]
 | 63 | [\#56 この盛り上がりにはワケがある！結束バンド、MyGO!!!!!、トゲナシトゲアリ…アニメ発のガールズバンドを語ろう2024!!](https://open.spotify.com/episode/53P3OEdFsBhif1UEaTWn7y) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 43:07 |
 | 64 | [ELEVEN](https://open.spotify.com/track/6iIDUq8slqXxIyhhMgL5w5) | [UniteUp!](https://open.spotify.com/artist/21CL9McUjHLfV1g3rJKeBo) | [ELEVEN](https://open.spotify.com/album/31VhlQhMEIk8M1ntsYZERX) | 3:14 |
 | 65 | [月並みに輝け](https://open.spotify.com/track/22IFbzcuLrK7ZAoj6Ms9I0) | [結束バンド](https://open.spotify.com/artist/2nvl0N9GwyX69RRBMEZ4OD) | [月並みに輝け / 今、僕、アンダーグラウンドから](https://open.spotify.com/album/7zLObKK7vTZaVbrM12bLVT) | 4:07 |
-| 66 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [トゲナシトゲアリ](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 |
+| 66 | [雑踏、僕らの街](https://open.spotify.com/track/0tNSVPZeJjpNH7Q9VqrbyJ) | [TOGENASHI TOGEARI](https://open.spotify.com/artist/7JAG8hDvCiDFBJkTdOCJ6F) | [雑踏、僕らの街](https://open.spotify.com/album/5aX0n53SHMx8iHE6ctlOwh) | 3:04 |
 | 67 | [\#55 内田真礼デビュー10周年を祝おう＆語ろう／「創傷イノセンス」と「Rising Hope」と10周年の名曲たち](https://open.spotify.com/episode/3oEGl7tgRBX6zB4QMcF7cf) | [リスアニ！RADIO](https://open.spotify.com/show/2xznUv9uxbJ3OK1YWsdoch) | [リスアニ！RADIO](https://open.spotify.com/album/2xznUv9uxbJ3OK1YWsdoch) | 45:13 |
 | 68 | [創傷イノセンス](https://open.spotify.com/track/2uXPRnLsbA5MWXUpNaYAUJ) | [Maaya Uchida](https://open.spotify.com/artist/4hJl41jTq14yNuc1f3bLe6) | [PENKI【通常盤】](https://open.spotify.com/album/1S3RsyQL3xrzs4BYZlu2DZ) | 3:45 |
 | 69 | [Rising Hope](https://open.spotify.com/track/7LqQO6uWQHDEue1ejeUVhF) | [LiSA](https://open.spotify.com/artist/0blbVefuxOGltDBa00dspv) | [Launcher](https://open.spotify.com/album/2sOcX6ibN1k7TbWeXh8uIs) | 4:11 |

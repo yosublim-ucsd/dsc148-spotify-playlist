@@ -1,6 +1,6 @@
 {
   "description": "Celebremos la magia de estar juntxs, \u00a1Nos vemos el 14, 15 y 16 de Febrero en Las Estacas! <a href=\"https://bahidora.com//\"> Compra tus entradas aqu\u00ed</a>. ",
-  "num_followers": 13310,
+  "num_followers": 13323,
   "original_name": "Bahidor\u00e1 2025",
   "owner": {
     "name": "Spotify",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-01-23 00:01:14",
       "album": {
+        "name": "boss",
+        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 131200,
+      "name": "boss",
+      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
+    },
+    {
+      "added_at": "2025-01-23 00:01:14",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -799,22 +815,6 @@
     {
       "added_at": "2025-01-23 00:01:14",
       "album": {
-        "name": "Shika Shika / Botanas, Vol. 15",
-        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
-      },
-      "artists": [
-        {
-          "name": "Karen y Los Remedios",
-          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
-        }
-      ],
-      "duration_ms": 249518,
-      "name": "Canario",
-      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
-    },
-    {
-      "added_at": "2025-01-23 00:01:14",
-      "album": {
         "name": "Amor Andino",
         "url": "https://open.spotify.com/album/0UtZKdJlBaxmdAUNaAm7r8"
       },
@@ -847,6 +847,38 @@
     {
       "added_at": "2025-01-23 00:01:14",
       "album": {
+        "name": "Shika Shika / Botanas, Vol. 15",
+        "url": "https://open.spotify.com/album/3j77K4QCAKPo65lXnbDBY6"
+      },
+      "artists": [
+        {
+          "name": "Karen y Los Remedios",
+          "url": "https://open.spotify.com/artist/6uSvvhlipeAh7lrqB9VTmv"
+        }
+      ],
+      "duration_ms": 249518,
+      "name": "Canario",
+      "url": "https://open.spotify.com/track/0hwT9RqvbkUH222D48PsxJ"
+    },
+    {
+      "added_at": "2025-01-23 00:01:14",
+      "album": {
+        "name": "LAS MORRAS TAMBI\u00c9N HACEN TR444P",
+        "url": "https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt"
+      },
+      "artists": [
+        {
+          "name": "EMJAY",
+          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+        }
+      ],
+      "duration_ms": 126923,
+      "name": "UZI",
+      "url": "https://open.spotify.com/track/2wDFg2Kios46zh7nnObqOr"
+    },
+    {
+      "added_at": "2025-01-23 00:01:14",
+      "album": {
         "name": "Mother",
         "url": "https://open.spotify.com/album/2PMAHlFSIxrf1i42NPA83I"
       },
@@ -867,26 +899,6 @@
     {
       "added_at": "2025-01-23 00:01:14",
       "album": {
-        "name": "Honest",
-        "url": "https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle"
-      },
-      "artists": [
-        {
-          "name": "Papooz",
-          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
-        },
-        {
-          "name": "Sofia Bolt",
-          "url": "https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv"
-        }
-      ],
-      "duration_ms": 207560,
-      "name": "Honest",
-      "url": "https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA"
-    },
-    {
-      "added_at": "2025-01-23 00:01:14",
-      "album": {
         "name": "Cascade",
         "url": "https://open.spotify.com/album/4IYnAmZ8GvmNFF2ZxxKT8L"
       },
@@ -903,18 +915,22 @@
     {
       "added_at": "2025-01-23 00:01:14",
       "album": {
-        "name": "LAS MORRAS TAMBI\u00c9N HACEN TR444P",
-        "url": "https://open.spotify.com/album/4cYi6ydyioYs3PquKrGTPt"
+        "name": "Honest",
+        "url": "https://open.spotify.com/album/3ncsiNuOFvnkoKpQdH3Fle"
       },
       "artists": [
         {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
+          "name": "Papooz",
+          "url": "https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm"
+        },
+        {
+          "name": "Sofia Bolt",
+          "url": "https://open.spotify.com/artist/75BsNqFovl5438u7dIoZuv"
         }
       ],
-      "duration_ms": 126923,
-      "name": "UZI",
-      "url": "https://open.spotify.com/track/2wDFg2Kios46zh7nnObqOr"
+      "duration_ms": 207560,
+      "name": "Honest",
+      "url": "https://open.spotify.com/track/63Kww3nQ9HmLoO8jgo8ZaA"
     },
     {
       "added_at": "2025-01-23 00:01:14",
@@ -963,6 +979,22 @@
     {
       "added_at": "2025-01-23 00:01:14",
       "album": {
+        "name": "Tal Vez",
+        "url": "https://open.spotify.com/album/5ZYnTQjdntcqX7nRbkc60v"
+      },
+      "artists": [
+        {
+          "name": "Laura Itandehui",
+          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
+        }
+      ],
+      "duration_ms": 262094,
+      "name": "Tal Vez",
+      "url": "https://open.spotify.com/track/115lwfgNYH57ftzB6knHIv"
+    },
+    {
+      "added_at": "2025-01-23 00:01:14",
+      "album": {
         "name": "Frente Cumbiero Meets Mad Professor",
         "url": "https://open.spotify.com/album/1dnal49FIWH19CsWYjYMOV"
       },
@@ -979,22 +1011,6 @@
       "duration_ms": 263933,
       "name": "Chucusteady",
       "url": "https://open.spotify.com/track/1mUPcRmSmi2XsKAOWFKAF1"
-    },
-    {
-      "added_at": "2025-01-23 00:01:14",
-      "album": {
-        "name": "Tal Vez",
-        "url": "https://open.spotify.com/album/5ZYnTQjdntcqX7nRbkc60v"
-      },
-      "artists": [
-        {
-          "name": "Laura Itandehui",
-          "url": "https://open.spotify.com/artist/3uxDXFazxpQa87VTMJAdcK"
-        }
-      ],
-      "duration_ms": 262094,
-      "name": "Tal Vez",
-      "url": "https://open.spotify.com/track/115lwfgNYH57ftzB6knHIv"
     },
     {
       "added_at": "2025-01-23 00:01:14",
@@ -1051,22 +1067,6 @@
       "duration_ms": 226337,
       "name": "Juanita",
       "url": "https://open.spotify.com/track/17j3whgzlB8jJPwQZDqiSc"
-    },
-    {
-      "added_at": "2025-01-23 00:01:14",
-      "album": {
-        "name": "boss",
-        "url": "https://open.spotify.com/album/4vubWhYIAvE2QKfjcnMyHe"
-      },
-      "artists": [
-        {
-          "name": "EMJAY",
-          "url": "https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn"
-        }
-      ],
-      "duration_ms": 131200,
-      "name": "boss",
-      "url": "https://open.spotify.com/track/1wbfnoIbYDqablRSVuNC2m"
     },
     {
       "added_at": "2025-01-23 00:01:14",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2025-01-23 00:01:14",
       "album": {
+        "name": "Telepathy",
+        "url": "https://open.spotify.com/album/74s3acCJloOEtfjPJCLgPL"
+      },
+      "artists": [
+        {
+          "name": "Mystery Affair",
+          "url": "https://open.spotify.com/artist/7uC8zxltPgrwtEqWRWwHFv"
+        }
+      ],
+      "duration_ms": 315000,
+      "name": "Telepathy",
+      "url": "https://open.spotify.com/track/2pniyAySZsOuSbfStSQGxk"
+    },
+    {
+      "added_at": "2025-01-23 00:01:14",
+      "album": {
         "name": "Empatia",
         "url": "https://open.spotify.com/album/11PANYFNyhBYDrfPogUE26"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 387226,
       "name": "Rave Escape",
       "url": "https://open.spotify.com/track/7uoGsf6BKGDMtQcg4HNgGa"
-    },
-    {
-      "added_at": "2025-01-23 00:01:14",
-      "album": {
-        "name": "Telepathy",
-        "url": "https://open.spotify.com/album/74s3acCJloOEtfjPJCLgPL"
-      },
-      "artists": [
-        {
-          "name": "Mystery Affair",
-          "url": "https://open.spotify.com/artist/7uC8zxltPgrwtEqWRWwHFv"
-        }
-      ],
-      "duration_ms": 315000,
-      "name": "Telepathy",
-      "url": "https://open.spotify.com/track/2pniyAySZsOuSbfStSQGxk"
     },
     {
       "added_at": "2025-01-23 00:01:14",

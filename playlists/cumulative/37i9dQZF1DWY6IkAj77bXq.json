@@ -772,7 +772,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 188571,
       "name": "Close Together",
       "url": "https://open.spotify.com/track/4tpUdHveADtY3Zg6F7u38H"
@@ -2018,6 +2018,24 @@
       "duration_ms": 167099,
       "name": "Light & Hope",
       "url": "https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV"
+    },
+    {
+      "album": {
+        "name": "Light From Within",
+        "url": "https://open.spotify.com/album/0SuSHZGd091t2p0JwOXQtK"
+      },
+      "artists": [
+        {
+          "name": "Erastox",
+          "url": "https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198000,
+      "name": "Light From Within",
+      "url": "https://open.spotify.com/track/2U9GA6WsVGUf1i3bnZVLE7"
     },
     {
       "album": {

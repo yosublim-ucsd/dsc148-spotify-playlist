@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Amiguita como t\u00fa",
+        "url": "https://open.spotify.com/album/0HaFvXnLbU5XkeBOdElMVu"
+      },
+      "artists": [
+        {
+          "name": "IZARO",
+          "url": "https://open.spotify.com/artist/2brDaxeIxhXevIcKDrGMAb"
+        },
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186098,
+      "name": "Amiguita como t\u00fa",
+      "url": "https://open.spotify.com/track/4PbRIvIm1t92ecszR1TNr9"
+    },
+    {
+      "album": {
         "name": "Amor Amable",
         "url": "https://open.spotify.com/album/1vTDbOE3K56uwJe26fG8Ks"
       },
@@ -4866,7 +4888,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 267173,
       "name": "Esta Noche de Luna",
       "url": "https://open.spotify.com/track/0fQn5ev528PioMqZeykdom"
@@ -6750,7 +6772,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 223542,
       "name": "La Vista y el Habla",
       "url": "https://open.spotify.com/track/77C5U9TIFwdc6NrX0p874w"
@@ -7250,7 +7272,7 @@
       ],
       "date_added": "2024-06-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-19",
+      "date_removed": null,
       "duration_ms": 186181,
       "name": "Lobo",
       "url": "https://open.spotify.com/track/5S7SNJqC03c5D9WgG2Agr6"
@@ -7952,7 +7974,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 147349,
       "name": "Me voy",
       "url": "https://open.spotify.com/track/4udLPtfyNaz95Wo5sPRl6z"
@@ -8952,7 +8974,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 172000,
       "name": "No es por m\u00ed que canto",
       "url": "https://open.spotify.com/track/7nCM6mVpcLoz8B3XM1zQ1I"
@@ -9568,7 +9590,7 @@
       ],
       "date_added": "2022-07-08",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-23",
+      "date_removed": null,
       "duration_ms": 257586,
       "name": "Palomita de Mar",
       "url": "https://open.spotify.com/track/1iPYMSh2ck9HfTsHVCP89k"
@@ -10784,7 +10806,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-01-21",
+      "date_removed": null,
       "duration_ms": 285581,
       "name": "Qu\u00e9 Bonito Es Tu Mirar",
       "url": "https://open.spotify.com/track/78KNojt04z4EYY9n41bWyf"

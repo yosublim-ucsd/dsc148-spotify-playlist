@@ -4,7 +4,7 @@
 
 > Neverland, your queens are here!
 
-134 songs - 7 hr 6 min
+135 songs - 7 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [Help Me](https://open.spotify.com/track/1LdSxQ9HNRtXa6fQ2Bcjos) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\), Pt\. 1](https://open.spotify.com/album/3IGZKqFG3HJwPYorlck0p6) | 3:58 | 2022-05-22 |  |
 | [Help Me](https://open.spotify.com/track/3GTGStCKQnZarmZeQR9vmj) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life \(Original Television Soundtrack\)](https://open.spotify.com/album/5Cs0PWgVylmYPiuoN6qLda) | 3:58 | 2022-10-17 | 2022-11-13 |
 | [Help Me](https://open.spotify.com/track/7lZqVyqbMtx4O1lrJCvRH0) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [Her Private Life, Pt\. 1 \(Original Television Soundtrack\)](https://open.spotify.com/album/6xzTGXUxiDgdIH9TZiHKz8) | 3:58 | 2022-07-04 | 2024-04-19 |
+| [HER](https://open.spotify.com/track/2MbPhDgeXVipowltFneRH2) | [MINNIE](https://open.spotify.com/artist/2pHkxVNynHBwQHhGaoBIXX) | [HER](https://open.spotify.com/album/3sbZ4PoHTIZL8bLSLwt84h) | 2:39 | 2025-01-23 |  |
 | [How To Love \(with\. NEON PAPRIKA\) \- Special Track Version](https://open.spotify.com/track/5avhK56czNLazDtqXEKrHa) | [MIYEON](https://open.spotify.com/artist/779v40cWIJUUoIDtC1IGaF), [NEON PAPRIKA](https://open.spotify.com/artist/7jlt93QGTuUEdDhhTuJj2i) | [Replay \(Original Television Soundtrack\)](https://open.spotify.com/album/6Mpb0VFJvRT8EpifN9sjKk) | 3:30 | 2022-05-22 |  |
 | [HWAA](https://open.spotify.com/track/5FiXhM80sP4yg6tEnHkZZn) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [I burn](https://open.spotify.com/album/3ma5amx5s3l1NKoWNHaMYe) | 3:17 | 2022-05-22 |  |
 | [I DO](https://open.spotify.com/track/4DBLBCVLDOmJwRysidmjHL) | [\(G\)I\-DLE](https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx) | [HEAT](https://open.spotify.com/album/20iyYKtw1KjMRsMZWMPpVY) | 3:10 | 2023-10-06 |  |

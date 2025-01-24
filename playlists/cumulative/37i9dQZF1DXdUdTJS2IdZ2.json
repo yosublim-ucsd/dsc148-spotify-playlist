@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "Rising stars and new releases from sunny Singapore. Cover: Zalelo",
+  "description": "Rising stars and new releases from sunny Singapore. Cover: LAYYI",
   "name": "Rising 65",
   "tracks": [
     {
@@ -225,6 +225,24 @@
     },
     {
       "album": {
+        "name": "lovlaine (The Deluxe Album)",
+        "url": "https://open.spotify.com/album/4wf7qqSLhddnZm9gF6u1Na"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218513,
+      "name": "all my perfects",
+      "url": "https://open.spotify.com/track/1FGx26WseTAqrpd0pR03JW"
+    },
+    {
+      "album": {
         "name": "All Night Long",
         "url": "https://open.spotify.com/album/4UoiDNay2Ye9whGvfXEpbA"
       },
@@ -410,7 +428,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 215076,
       "name": "Any Other Way (ft. Chelsea Cara)",
       "url": "https://open.spotify.com/track/6Zlog2HMf4cElxki3ZWBGd"
@@ -606,6 +624,24 @@
       "duration_ms": 196587,
       "name": "Belong To You",
       "url": "https://open.spotify.com/track/5gTSZjINgWd2m94MVNoHXw"
+    },
+    {
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6"
+      },
+      "artists": [
+        {
+          "name": "ALYPH",
+          "url": "https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185130,
+      "name": "Bestfriend Part 2",
+      "url": "https://open.spotify.com/track/58cFkxhUgfLtFsvaNimTsU"
     },
     {
       "album": {
@@ -860,7 +896,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 138828,
       "name": "Boys Don't Cry",
       "url": "https://open.spotify.com/track/3hbs3UB1pmMqo61xZ0RDk3"
@@ -1146,10 +1182,28 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 160776,
       "name": "CASHRULES",
       "url": "https://open.spotify.com/track/62L1fSACUVj8iYDnhTVMum"
+    },
+    {
+      "album": {
+        "name": "Cecilia",
+        "url": "https://open.spotify.com/album/1K5HPlcVA6LSD74GhydxR4"
+      },
+      "artists": [
+        {
+          "name": "Shye",
+          "url": "https://open.spotify.com/artist/1aqEk77J220IxgnGsgEz9T"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238285,
+      "name": "Cecilia",
+      "url": "https://open.spotify.com/track/2s65OnZf9qEqhtixjuexX6"
     },
     {
       "album": {
@@ -1306,7 +1360,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 162000,
       "name": "close to you",
       "url": "https://open.spotify.com/track/0owuCct6tCXc8j3wWPqfQ1"
@@ -1400,7 +1454,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 237233,
       "name": "comfort zone",
       "url": "https://open.spotify.com/track/08steKAHJKaoeK1RzNTAtE"
@@ -1462,6 +1516,24 @@
       "duration_ms": 180612,
       "name": "Crush",
       "url": "https://open.spotify.com/track/7p0JbDvVL7BSRwFvnv2sx1"
+    },
+    {
+      "album": {
+        "name": "lovlaine",
+        "url": "https://open.spotify.com/album/76rmi2rvV6BTLeuRj9HMQY"
+      },
+      "artists": [
+        {
+          "name": "lovlaine",
+          "url": "https://open.spotify.com/artist/4vQImXwkGScLSMJGLdFaXx"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175465,
+      "name": "crush on me?",
+      "url": "https://open.spotify.com/track/25wx5B53CYCcJnWdYfgMKu"
     },
     {
       "album": {
@@ -1835,6 +1907,24 @@
     },
     {
       "album": {
+        "name": "DRIVE-BY",
+        "url": "https://open.spotify.com/album/63HkbUvgASdyHyCvYioNTh"
+      },
+      "artists": [
+        {
+          "name": "Vivien Yap",
+          "url": "https://open.spotify.com/artist/71gWfXRZ2vs5cQ7Bfh9M53"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260000,
+      "name": "DRIVE-BY",
+      "url": "https://open.spotify.com/track/62shiQ7ROlrnstXdWWuwnc"
+    },
+    {
+      "album": {
         "name": "Dyin\u2019 To Know",
         "url": "https://open.spotify.com/album/5yoPD3c3dHCIJH7QZ1JdpO"
       },
@@ -2118,7 +2208,7 @@
       ],
       "date_added": "2024-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 225239,
       "name": "FAST - Remix",
       "url": "https://open.spotify.com/track/0752MagBw9EVPcfkJgagRK"
@@ -2202,6 +2292,28 @@
       "duration_ms": 279545,
       "name": "Fool's Love",
       "url": "https://open.spotify.com/track/4IOtWnJMe8i1Qk6GgZaoRF"
+    },
+    {
+      "album": {
+        "name": "Movements (In The Dark)",
+        "url": "https://open.spotify.com/album/4bZqg4asVExrAglbOirPJp"
+      },
+      "artists": [
+        {
+          "name": "Sun Cell",
+          "url": "https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef"
+        },
+        {
+          "name": "motifs",
+          "url": "https://open.spotify.com/artist/6Ai0kQ1MZABOQLVZNGozBB"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273666,
+      "name": "for now, not ever. (with motifs)",
+      "url": "https://open.spotify.com/track/5ps5DoF772ChyrCY3fngex"
     },
     {
       "album": {
@@ -2296,6 +2408,28 @@
       "duration_ms": 167266,
       "name": "friend",
       "url": "https://open.spotify.com/track/5kUvjEjP1mD4aRCdbUaAdO"
+    },
+    {
+      "album": {
+        "name": "life(?)",
+        "url": "https://open.spotify.com/album/4C4KSf4RtHF8FdbL5md07d"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        },
+        {
+          "name": "ABANGSAPAU",
+          "url": "https://open.spotify.com/artist/5Aisnyp1dEc7Hg7GvcaqUw"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183225,
+      "name": "Friends",
+      "url": "https://open.spotify.com/track/0boPFWTCDQdS8ipRyqJWiQ"
     },
     {
       "album": {
@@ -2416,7 +2550,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 254000,
       "name": "GOAT",
       "url": "https://open.spotify.com/track/75pwLp6ykAwnLJbIajnwUL"
@@ -2736,7 +2870,7 @@
       ],
       "date_added": "2025-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 209023,
       "name": "Hidup Sekadar Derita",
       "url": "https://open.spotify.com/track/0Lu4ELmFcY17BEa7vFv8wn"
@@ -2816,6 +2950,32 @@
       "duration_ms": 188571,
       "name": "Hold On Tight",
       "url": "https://open.spotify.com/track/7713P9K50HWKmb1qEWXiGT"
+    },
+    {
+      "album": {
+        "name": "When It Rains Pt. 1",
+        "url": "https://open.spotify.com/album/5WvKN2ZIdKrJjbxW20Ra6G"
+      },
+      "artists": [
+        {
+          "name": "AxelJonas",
+          "url": "https://open.spotify.com/artist/3HsX21HvruzWjLMt7p38Tv"
+        },
+        {
+          "name": "A. Nayaka",
+          "url": "https://open.spotify.com/artist/7pUvDeRGoUPXDN5q3i8e1n"
+        },
+        {
+          "name": "AE$OP CA$H",
+          "url": "https://open.spotify.com/artist/3ygc1oTHrBtSgs8vDvx1Oo"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207000,
+      "name": "Hold Still",
+      "url": "https://open.spotify.com/track/41klAFsuaOceDoEssbTUUU"
     },
     {
       "album": {
@@ -3445,6 +3605,24 @@
     },
     {
       "album": {
+        "name": "It's My Birthday",
+        "url": "https://open.spotify.com/album/2Dy4DwzJHyqFcoSTFH7Ju9"
+      },
+      "artists": [
+        {
+          "name": "Joseph \u9648\u6c34\u94ed",
+          "url": "https://open.spotify.com/artist/3dJD3vwd1YeM26hESMrDsR"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158705,
+      "name": "It's My Birthday",
+      "url": "https://open.spotify.com/track/73Kp0k7Pu9bZiErJuKwFiT"
+    },
+    {
+      "album": {
         "name": "Jacob's Ladder",
         "url": "https://open.spotify.com/album/3yCE2dAESNvQaIrFhG1FR4"
       },
@@ -3627,6 +3805,46 @@
     },
     {
       "album": {
+        "name": "Movements (In The Dark)",
+        "url": "https://open.spotify.com/album/4bZqg4asVExrAglbOirPJp"
+      },
+      "artists": [
+        {
+          "name": "Sun Cell",
+          "url": "https://open.spotify.com/artist/2FkruVc167pPQ7FYtjmPef"
+        },
+        {
+          "name": "xena giam",
+          "url": "https://open.spotify.com/artist/7aKGYYCdqzIowwzzBMdKSF"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173162,
+      "name": "june (with xena giam)",
+      "url": "https://open.spotify.com/track/08IcLbWe0zD8rRR94Usk9N"
+    },
+    {
+      "album": {
+        "name": "Kata",
+        "url": "https://open.spotify.com/album/4T7pIPC4AX0wEN78e8SpEQ"
+      },
+      "artists": [
+        {
+          "name": "Sezairi",
+          "url": "https://open.spotify.com/artist/51sob9QZyfLff9XqvYluN5"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209111,
+      "name": "Kata",
+      "url": "https://open.spotify.com/track/0r4bvid2oluEvinUncHv8P"
+    },
+    {
+      "album": {
         "name": "KEEP UP",
         "url": "https://open.spotify.com/album/5m9fw0qCeYWJRal4VyhPH8"
       },
@@ -3776,6 +3994,24 @@
       "duration_ms": 176472,
       "name": "LALANG",
       "url": "https://open.spotify.com/track/6tJgHFllCZVZ4krUPL9igk"
+    },
+    {
+      "album": {
+        "name": "life(?)",
+        "url": "https://open.spotify.com/album/4C4KSf4RtHF8FdbL5md07d"
+      },
+      "artists": [
+        {
+          "name": "LAYYI",
+          "url": "https://open.spotify.com/artist/76ZCgPpNcZEokvxJRFfSgr"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174875,
+      "name": "learn to love",
+      "url": "https://open.spotify.com/track/2wYs1cLjODfV1rEmsH93wR"
     },
     {
       "album": {
@@ -4194,7 +4430,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 118360,
       "name": "meant to be",
       "url": "https://open.spotify.com/track/5VcCpqsEnitgnNsbx2sSPi"
@@ -4256,7 +4492,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 229500,
       "name": "Monsoon",
       "url": "https://open.spotify.com/track/6VrjxcyFhqoa2gjCQHYQgd"
@@ -4406,7 +4642,7 @@
       ],
       "date_added": "2024-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 131584,
       "name": "NALLA NERAM",
       "url": "https://open.spotify.com/track/6o8mPixAr64RBux4hLhKFz"
@@ -4806,7 +5042,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 180674,
       "name": "Overdue",
       "url": "https://open.spotify.com/track/3ZMoCrs9O9Ypb5cGmZAUIo"
@@ -4990,7 +5226,7 @@
       ],
       "date_added": "2024-12-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 165234,
       "name": "Picture Of You",
       "url": "https://open.spotify.com/track/0sZHyciRsjFXqxEhBO8Cbj"
@@ -5553,6 +5789,24 @@
     },
     {
       "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6"
+      },
+      "artists": [
+        {
+          "name": "ALYPH",
+          "url": "https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170936,
+      "name": "Saham Naik",
+      "url": "https://open.spotify.com/track/7nZO67lj0rbx9RLzc9KxmG"
+    },
+    {
+      "album": {
         "name": "Sambut (Imran Ajmain Remix)",
         "url": "https://open.spotify.com/album/0x0VCxBHP7qvko0B2Qsf1R"
       },
@@ -5688,7 +5942,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 218482,
       "name": "Secret",
       "url": "https://open.spotify.com/track/6JVPcPcr4dSQWhIp9Marbb"
@@ -5786,7 +6040,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 174000,
       "name": "Shawty \u66c9\u5f97\u4e0d (feat. \u674e\u4f73\u9686 JelloRio)",
       "url": "https://open.spotify.com/track/1pFlI8j6KaeJph5rCsxtj9"
@@ -5808,6 +6062,24 @@
       "duration_ms": 213000,
       "name": "she's coming alive",
       "url": "https://open.spotify.com/track/0xpgLRE5cCKL8vnUeFiBYz"
+    },
+    {
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6"
+      },
+      "artists": [
+        {
+          "name": "ALYPH",
+          "url": "https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182286,
+      "name": "Siapa Yang Ajar?",
+      "url": "https://open.spotify.com/track/1oOcfAEAZ79wbpkb4HINL0"
     },
     {
       "album": {
@@ -6134,7 +6406,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 175500,
       "name": "Stay True",
       "url": "https://open.spotify.com/track/3k8O7XGnwRwGhhmCsnPhmT"
@@ -6474,6 +6746,28 @@
       "duration_ms": 166250,
       "name": "Tell The Truth (with H33RA & S.A.M)",
       "url": "https://open.spotify.com/track/4jInFiDPGaOunKU7yuDReg"
+    },
+    {
+      "album": {
+        "name": "The Storm",
+        "url": "https://open.spotify.com/album/3W0brGF5pZDWpEjjmupzB6"
+      },
+      "artists": [
+        {
+          "name": "ALYPH",
+          "url": "https://open.spotify.com/artist/3qeuv2ijwaAcbX3KVMJfuj"
+        },
+        {
+          "name": "Ziana Zain",
+          "url": "https://open.spotify.com/artist/3QBn8OqO0pQ1krPFHgc682"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171213,
+      "name": "Teman feat. Ziana Zain",
+      "url": "https://open.spotify.com/track/0bJGSy0JLbBkElDrFm9I1M"
     },
     {
       "album": {
@@ -6905,6 +7199,28 @@
     },
     {
       "album": {
+        "name": "Toast, Tomatoes, Avocados And You (\u4e2d\u6587\u7248)",
+        "url": "https://open.spotify.com/album/7BSs8PUP7hoSrMwhNo3W7t"
+      },
+      "artists": [
+        {
+          "name": "Laurence Larson",
+          "url": "https://open.spotify.com/artist/4tR0tAbQcn21pbA1DmVndw"
+        },
+        {
+          "name": "Soph T.",
+          "url": "https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154250,
+      "name": "Toast, Tomatoes, Avocados And You - \u4e2d\u6587\u7248",
+      "url": "https://open.spotify.com/track/0efLowSLVU0fEFCeyRPMHx"
+    },
+    {
+      "album": {
         "name": "Too Late",
         "url": "https://open.spotify.com/album/2XwhGc3pk122VucoekKmxj"
       },
@@ -6982,7 +7298,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 130996,
       "name": "TRACK D",
       "url": "https://open.spotify.com/track/0twJwDIxrl7c2z6UGDTNiq"
@@ -7036,7 +7352,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 177600,
       "name": "Try Again",
       "url": "https://open.spotify.com/track/2tq1drzO3qIFnrsOgrKzCr"
@@ -7152,6 +7468,24 @@
       "duration_ms": 198088,
       "name": "V@lentine",
       "url": "https://open.spotify.com/track/7upu4oT47F2PgdtZ4XNWnH"
+    },
+    {
+      "album": {
+        "name": "Van Cleef",
+        "url": "https://open.spotify.com/album/1bIFLBUXYDsPU8ujJDEv2m"
+      },
+      "artists": [
+        {
+          "name": "Amari Teague",
+          "url": "https://open.spotify.com/artist/2fu7Ig6d88h9W1gyFoo0vC"
+        }
+      ],
+      "date_added": "2025-01-23",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144054,
+      "name": "Van Cleef",
+      "url": "https://open.spotify.com/track/55DFMTzCQw8WW3W2cFzWoW"
     },
     {
       "album": {
@@ -7712,7 +8046,7 @@
       ],
       "date_added": "2024-11-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 176500,
       "name": "\u4e00\u760b\u4fe1",
       "url": "https://open.spotify.com/track/0wi9EuFndXS9D242DfyvIo"
@@ -8238,7 +8572,7 @@
       ],
       "date_added": "2024-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 277845,
       "name": "\u5f7c\u6b64\u7684\u67b7\u9396",
       "url": "https://open.spotify.com/track/5yTb50wOpMayHpzoH7NClA"

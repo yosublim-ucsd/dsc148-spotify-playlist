@@ -2,9 +2,9 @@
 
 ### [RADAR Indonesia ](https://open.spotify.com/playlist/37i9dQZF1DWYxUz0Ouugmb)
 
-> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Nyoman Paul
+> Deretan musisi dalam negeri yang patut diantisipasi\. Cover: Salma Salsabil
 
-236 songs - 15 hr 13 min
+237 songs - 15 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Begal](https://open.spotify.com/track/37hXg8ANTcG13pKX0X16XM) | [BAP.](https://open.spotify.com/artist/1C844mwQd4BOI6pJSgxfiC), [Basboi](https://open.spotify.com/artist/0mmlthXmJKSeIhvmXso3z9) | [Songs To Begal To](https://open.spotify.com/album/0Ji2j5R9apVWxkaF0eADlu) | 2:58 | 2021-11-25 | 2022-03-25 |
 | [Benar\-Benar](https://open.spotify.com/track/21h4Kd8KTMPpLtQ7vdc2Aq) | [TheOvertunes](https://open.spotify.com/artist/3t4MHnVggiFLOuSSh4odBk), [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Benar\-Benar](https://open.spotify.com/album/1fkRzmZR6GU8BQOcvAfy69) | 4:22 | 2022-10-13 | 2023-04-14 |
 | [Benih](https://open.spotify.com/track/2Z00Dv9p5vFWBHay0ZAAs3) | [raissa anggiani](https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ), [Nuca](https://open.spotify.com/artist/5x3nSujruZLuB6xBicI6Ai) | [Benih](https://open.spotify.com/album/3KS6UByFSUlxds9m260bz9) | 4:01 | 2023-02-02 | 2023-04-14 |
+| [Berharap Pada Timur](https://open.spotify.com/track/04Xja5NhxVXzuGGusGyqSN) | [Salma Salsabil](https://open.spotify.com/artist/1y46m0kIaKwnodL0ElvQIs) | [Berharap Pada Timur](https://open.spotify.com/album/3OfAfLzLTLuUtQR2WvssS3) | 3:41 | 2025-01-23 |  |
 | [Berlagak Bahagia](https://open.spotify.com/track/2H3Cb56ZSByWF0bX9LyTqI) | [Idgitaf](https://open.spotify.com/artist/7pFWMC2E7h8eL3SZyHRsRq) | [Semoga Sembuh](https://open.spotify.com/album/6x67lQpaX0KyEpmso8bfqh) | 4:00 | 2022-03-24 | 2023-04-14 |
 | [Bernafaslah Sejenak](https://open.spotify.com/track/7mL0RQHHu3N3fYFwawa8Mx) | [Nyoman Paul](https://open.spotify.com/artist/53tuXn4uXfDqZYhAFMxZdt) | [Bernafaslah Sejenak](https://open.spotify.com/album/7KF9Kk6bpryWfjzTprCylS) | 4:28 | 2024-03-29 |  |
 | [Bersama Bukan Maumu \- Live At Ska Reggae](https://open.spotify.com/track/6hi2tlD0MUqJARWtlv2863) | [Maulana Ardiansyah](https://open.spotify.com/artist/5slzK5PyXf1nxwlrlSj2La) | [Bersama Bukan Maumu \(Live At Ska Reggae\)](https://open.spotify.com/album/1iWujizBKnwUWwSyojZIzJ) | 4:59 | 2024-01-25 | 2024-03-29 |

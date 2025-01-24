@@ -1985,6 +1985,24 @@
     },
     {
       "album": {
+        "name": "THE IDOLM@STER SideM ORIGIN@L PIECES 09",
+        "url": "https://open.spotify.com/album/07KKDIGOJzAnjiALl1vDap"
+      },
+      "artists": [
+        {
+          "name": "\u79cb\u5c71\u96bc\u4eba (CV.\u5343\u8449\u7fd4\u4e5f)",
+          "url": "https://open.spotify.com/artist/7vOPzbqRgNcw9PedloTSQE"
+        }
+      ],
+      "date_added": "2025-01-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256160,
+      "name": "PRECIOUS TONE",
+      "url": "https://open.spotify.com/track/2EAF1qCzuXw5xMngLOUKka"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER SideM 5th ANNIVERSARY 03",
         "url": "https://open.spotify.com/album/5ipJceUikIQdd5bgLaQsuX"
       },
@@ -2674,7 +2692,7 @@
       ],
       "date_added": "2022-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 253920,
       "name": "Teatime Clich\u00e9",
       "url": "https://open.spotify.com/track/1qMk88tvIVATrXmW3KCsHt"

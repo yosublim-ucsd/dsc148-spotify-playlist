@@ -628,7 +628,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 300426,
       "name": "Clich\u00ea / 1 Metro e 65 / E Agora - Ao Vivo",
       "url": "https://open.spotify.com/track/26O90YdXrxZr6ezC2SvMDP"
@@ -2120,7 +2120,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 181764,
       "name": "Na Nossa Sala / Amor e Amor - Ao Vivo",
       "url": "https://open.spotify.com/track/5Ni3iN8AhweKQ3yBis62HR"
@@ -2412,6 +2412,24 @@
       "duration_ms": 221554,
       "name": "Para De Falar Tanta Besteira / Leite Condensado - Ao Vivo",
       "url": "https://open.spotify.com/track/7I13U0QkWZeMbD5K8rhAX9"
+    },
+    {
+      "album": {
+        "name": "Pagod\u00e3o do Darlan - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2BDOgPbEuF5egCi2ddDWnU"
+      },
+      "artists": [
+        {
+          "name": "Darlan",
+          "url": "https://open.spotify.com/artist/7ngCAsErkhMSQ3Nce0QpYj"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 275781,
+      "name": "Para/ S.O.S Paix\u00e3o/ Mais Forte Que Eu - Ao Vivo",
+      "url": "https://open.spotify.com/track/2YO697JUFpneIUTVw6FESL"
     },
     {
       "album": {
@@ -4146,6 +4164,28 @@
       "duration_ms": 267178,
       "name": "\u00c9 Na Madrugada / Amor Bipolar / A Casa Caiu - Ao Vivo",
       "url": "https://open.spotify.com/track/1r7Ik46RmpvfQAfBu40No6"
+    },
+    {
+      "album": {
+        "name": "Encontrin 3 - Vol. 4 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/7ryCbBlrKFUmm0d5zblmkI"
+      },
+      "artists": [
+        {
+          "name": "Di Prop\u00f3sito",
+          "url": "https://open.spotify.com/artist/2uSwBbWqsXgoMYQjynmwQ7"
+        },
+        {
+          "name": "Matheusinho",
+          "url": "https://open.spotify.com/artist/5fFaxiwdqZlsazN9qMyQMB"
+        }
+      ],
+      "date_added": "2025-01-24",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290517,
+      "name": "\u00c9 Natural / Nuvens de Algod\u00e3o / Nosso Amor Quer Paz - Ao Vivo",
+      "url": "https://open.spotify.com/track/3DoB8qUXP1KQicq2R0nvEB"
     },
     {
       "album": {

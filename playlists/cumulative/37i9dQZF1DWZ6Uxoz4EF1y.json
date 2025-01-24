@@ -551,6 +551,28 @@
     },
     {
       "album": {
+        "name": "Colecci\u00f3n Ac\u00fastica I",
+        "url": "https://open.spotify.com/album/1E00IOrnrn422bd645QRwe"
+      },
+      "artists": [
+        {
+          "name": "Majo Sol\u00eds",
+          "url": "https://open.spotify.com/artist/1gofTzaOSte0KzDoubTJhS"
+        },
+        {
+          "name": "Danilo Ruiz",
+          "url": "https://open.spotify.com/artist/2MxgPruXBZj9F3l8FM6unN"
+        }
+      ],
+      "date_added": "2024-07-01",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431020,
+      "name": "Cristo Te Amamos (feat. Danilo Ru\u00edz)",
+      "url": "https://open.spotify.com/track/5k0N4I0Rrp65knQkoKRzOf"
+    },
+    {
+      "album": {
         "name": "Dios Es Capaz",
         "url": "https://open.spotify.com/album/6pwUONBD4QgCMuhWBOvkFP"
       },
@@ -3096,7 +3118,7 @@
       ],
       "date_added": "2024-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2025-01-24",
       "duration_ms": 360386,
       "name": "Toda la Gloria",
       "url": "https://open.spotify.com/track/108rn8fBtcwYFd7kQzdvRA"

@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 
 ### [Jasmine](https://open.spotify.com/playlist/37i9dQZF1DX5IOhx43PGIa)
 
-> Illuminating Asian artists everywhere\.  Cover: Knock2
+> Illuminating Asian artists everywhere\.  Cover: Japanese Breakfast
 
-[Spotify](https://open.spotify.com/user/spotify) - 287,626 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 287,634 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5IOhx43PGIa.md) - [plain]
 | 99 | [second nature](https://open.spotify.com/track/6I2hjfpdTfwBzqyUaYaaPF) | [Patrick Hizon](https://open.spotify.com/artist/7sH3l8uRghf9V149Gnu63X), [Chevy](https://open.spotify.com/artist/0lhcAgqzhRZuhHTXJsilSc) | [second nature](https://open.spotify.com/album/1b8kMgr2Q4wKnTkXayarTh) | 2:18 |
 | 100 | [Lose My Focus](https://open.spotify.com/track/5zhmlyLla3YNdjpEyi3Amk) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:47 |
 
-Snapshot ID: `Z4nj7wAAAACNYc7uRsCgteM0MSE7CLuS`
+Snapshot ID: `Z5KAYgAAAACUCBrR4oyXgqrNWBUl9zFs`

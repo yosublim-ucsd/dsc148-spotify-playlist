@@ -4,7 +4,7 @@
 
 > Get in the Christmas spirit while listening to some of your favorite Christian artists sing and celebrate the birth of Jesus\. Cover: Jonathan McReynolds
 
-445 songs - 1 day 4 hr 55 min
+446 songs - 1 day 4 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -154,7 +154,7 @@
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/3GQ84gktFkyZjr8b8cfTZp) | [CeCe Winans](https://open.spotify.com/artist/3qfrrrSO7utFdJkM2tvMRb) | [Joyful, Joyful: A Christmas Album](https://open.spotify.com/album/4An2BQLzYuh01bcJGpDLKB) | 3:22 | 2024-10-27 |  |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/5V6sMZv9k53ngSlMMxz6wE) | [Jenny Thorn](https://open.spotify.com/artist/6lyyztZQV3gJ1ptg97K2y9) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/16zKXuUfl1d58gk4ntAJHr) | 4:22 | 2023-12-02 | 2024-08-01 |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/1dgvpiB50RfuemLhYet0P7) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [DREAM Christmas Vol\. 5](https://open.spotify.com/album/2vqzTe45OIcoSCYerZER95) | 3:45 | 2021-12-11 | 2022-07-27 |
-| [Hark! the Herald Angels Sing](https://open.spotify.com/track/75oikFsOz5Kq08fOK4AXIb) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Hark! the Herald Angels Sing](https://open.spotify.com/album/75icngRr6YHEM26hvLUBoa) | 3:13 | 2024-11-23 |  |
+| [Hark! the Herald Angels Sing](https://open.spotify.com/track/75oikFsOz5Kq08fOK4AXIb) | [Tim Timmons](https://open.spotify.com/artist/5KZgx8RwpCUIEfRuMdcfYX) | [Hark! the Herald Angels Sing](https://open.spotify.com/album/75icngRr6YHEM26hvLUBoa) | 3:13 | 2024-11-23 | 2025-01-24 |
 | [Hark! The Herald Angels Sing](https://open.spotify.com/track/6ROvyTNjYgIM7UmBdFwW74) | [We Are Messengers](https://open.spotify.com/artist/5WcisvYoq6332gCUX039Jd) | [Hark! The Herald Angels Sing](https://open.spotify.com/album/4cwPn3HcOg2Xil0QFInOFu) | 3:22 | 2024-10-27 |  |
 | [Harken](https://open.spotify.com/track/4NCRqYuH1M19b3cDiRgcs9) | [David Brymer](https://open.spotify.com/artist/7GTnr8474MiGyAxQBXTdap), [Chris Beland](https://open.spotify.com/artist/589onAR28YIA48jFpfyEMT) | [Harken](https://open.spotify.com/album/2h48qsKQiHFc5mTn6vMBoX) | 3:54 | 2022-12-11 | 2024-12-31 |
 | [Have Yourself a Merry Little Christmas](https://open.spotify.com/track/0QqnU2evpS37pFD4tkWk1D) | [Andrea Bocelli](https://open.spotify.com/artist/3EA9hVIzKfFiQI0Kikz2wo), [Matteo Bocelli](https://open.spotify.com/artist/3SzmIPVTtVc0AzbR8kwk0w), [Virginia Bocelli](https://open.spotify.com/artist/5zF9MgOi02PuW8KAH9VtyX) | [Have Yourself a Merry Little Christmas](https://open.spotify.com/album/4dlf23mMkc4VpJvor27YiA) | 4:03 | 2022-11-26 | 2024-08-01 |
@@ -278,6 +278,7 @@
 | [Messiah](https://open.spotify.com/track/0vf6DSd9O9Y1xlzNaNK2kV) | [Kari Jobe](https://open.spotify.com/artist/5XlSS9O4eHRiJ0hKzbaFQ2) | [Where I Find You: Christmas Edition](https://open.spotify.com/album/4tubRHJq8r0x1w6O0GltyL) | 4:24 | 2021-12-24 | 2023-12-16 |
 | [Messiah](https://open.spotify.com/track/5AAx2hDyMApvJDags954xB) | [The Church Will Sing](https://open.spotify.com/artist/0TfWxv8ygT7qBnqxqyYige), [Jordan St\. Cyr](https://open.spotify.com/artist/4RbkVdTJEHZEfppvxBD6Il), [Eagle Brook Music](https://open.spotify.com/artist/5tyCFPuJFBRvJOwilvnlbI) | [Messiah](https://open.spotify.com/album/1n55ttEqhpjbxX4fXyUZbo) | 3:47 | 2021-12-11 | 2024-08-01 |
 | [Miracle of Christmas](https://open.spotify.com/track/0gS3ThEdFsj0FygA8KeXHC) | [Abby Robertson](https://open.spotify.com/artist/3eD47zTzdlGI7ocXQCHur7) | [Miracle of Christmas](https://open.spotify.com/album/6RnH3ZYftEzMIlU9vtFGU9) | 2:42 | 2021-12-24 | 2024-12-12 |
+| [Mistletoe](https://open.spotify.com/track/6tuAY9v4QdUcIZB1y0iuwD) | [Tobi Adey](https://open.spotify.com/artist/6gSsCWWxWpW2zy7wXswdPE) | [Eastern Star](https://open.spotify.com/album/3wPXGRGzUUxYZfQs3hws9S) | 4:00 | 2024-12-13 |  |
 | [Mother to a Savior and King](https://open.spotify.com/track/0EqNAggZnKPBlPAnQ3JbPm) | [Caleb and Kelsey](https://open.spotify.com/artist/7l0sphz32GV0AjjEhECpVg) | [Mother to a Savior and King](https://open.spotify.com/album/6PmiyV2eTuehJSAJGGaAb2) | 3:26 | 2024-11-29 |  |
 | [Mothers and Shepherds](https://open.spotify.com/track/6RDsKTlM7jafTzTz2RGELX) | [Common Hymnal](https://open.spotify.com/artist/1q6xQXmuTccwh7gBR7ToUN), [Brittney Spencer](https://open.spotify.com/artist/6YM5gRpMJkP0kUWRcvlHT3) | [Mothers and Shepherds](https://open.spotify.com/album/77JWRi1kkyaevA2CNdeNV4) | 5:02 | 2021-12-11 | 2024-08-01 |
 | [Mothers And Shepherds](https://open.spotify.com/track/4dNp6tEx0fcbiFGwF40h3k) | [Sheléa](https://open.spotify.com/artist/1zsGxUuw9Ge4O0ZxT40RPG), [The Aeolians of Oakwood University](https://open.spotify.com/artist/3k0f1Oq9w18Pd7VFpVbxik) | [Mothers And Shepherds](https://open.spotify.com/album/2n28BJpolDoB8VZQ9Wr3Dj) | 3:54 | 2022-11-26 |  |

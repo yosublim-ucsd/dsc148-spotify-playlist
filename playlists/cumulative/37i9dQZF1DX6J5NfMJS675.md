@@ -4,7 +4,7 @@
 
 > Welcome to the dark side of the club.
 
-857 songs - 3 day 6 hr 47 min
+858 songs - 3 day 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -680,6 +680,7 @@
 | [Simulator \- Mha Iri Remix](https://open.spotify.com/track/27Nl7mwPVcqZKCofcS3v9Z) | [Adam Beyer](https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu), [Green Velvet](https://open.spotify.com/artist/3ABaec4jjl95VqmG1iD4k2), [Mha Iri](https://open.spotify.com/artist/5VMXbzLVkLd4Cq4rBzx4T3) | [Simulator \(Mha Iri Remix\)](https://open.spotify.com/album/6vRqH1E3gVFFEIjV4CjBhi) | 4:00 | 2024-07-25 | 2024-12-05 |
 | [Skank In The Rave](https://open.spotify.com/track/4nceOR9TnmePBmrnDwFGMS) | [Nicolas Julian](https://open.spotify.com/artist/5Y1nFir8L9kJP7n1yZSeYb), [&NUFF](https://open.spotify.com/artist/2YkJrlTkGR18M3y76ejF0C), [AENJAY](https://open.spotify.com/artist/1sDPjXJ8bNlkrzbNLR18AQ) | [Slingshot \- EP](https://open.spotify.com/album/4TX4tKeZZzeszn0SoPJAWs) | 2:25 | 2024-11-18 |  |
 | [Sleeper in Metropolis \- Robin Hirte Remix](https://open.spotify.com/track/4UTbzsggBcjfr6VDuBWLCv) | [Anne Clark](https://open.spotify.com/artist/0RSRLPv7ZmcrlyboVGR0hL), [Robin Hirte](https://open.spotify.com/artist/0q4jQ2ducUDvYaE5vTZQqz) | [Synaesthesia \- Classics Reworked](https://open.spotify.com/album/32xxTp5hqF7W3VwO7qyEWM) | 4:52 | 2021-06-05 | 2021-08-28 |
+| [Slush](https://open.spotify.com/track/0yDEfRlv6wTTIshayVXXdZ) | [Rebecca Delle Piane](https://open.spotify.com/artist/0mhZ5SNHguOsD6Yiu69pdL) | [Extrasenso EP](https://open.spotify.com/album/6XGgpd8qD6h6n0uv627ib0) | 4:16 | 2025-01-22 |  |
 | [So Loud \- Original Mix](https://open.spotify.com/track/70DWy0F6imlmIm68Djkiye) | [T78](https://open.spotify.com/artist/5FgLkieOqGXPn01dnbJp9Z), [Sisko Electrofanatik](https://open.spotify.com/artist/2PbcMvsyyMPrwHWYQn6c6l) | [So Loud](https://open.spotify.com/album/3Y9uBwtgCnoLoaiiDXSty1) | 5:48 | 2024-05-23 | 2024-08-02 |
 | [Solid State \- Balthazar & JackRock Remix](https://open.spotify.com/track/15BCiNT8YBJ5IvSOLR2qIR) | [Monika Kruse](https://open.spotify.com/artist/2xeHjPrS4EnEUIXHV9pkeg), [Voodooamt](https://open.spotify.com/artist/0u4QLNTceYzzUQrv1dd5fu), [Balthazar & JackRock](https://open.spotify.com/artist/3xsLz1pGRgDfTozxS4RgGA) | [Monika Kruse @ Voodooamt – Solid State \(Balthazar & JackRock Remix\)](https://open.spotify.com/album/0NZE0FikCMrQVhiwAxaqCO) | 7:32 | 2020-07-19 | 2021-06-26 |
 | [Somber Tone](https://open.spotify.com/track/7oe5Sspj3qmi1J1LwKdlcL) | [Umek](https://open.spotify.com/artist/29OMsllt07L5OpMLdjnO9K), [Polyvinyl](https://open.spotify.com/artist/4Naj4m0biSwM7WZ4IKtCa9) | [Somber Tone](https://open.spotify.com/album/5Pl9zpretcstuxvINJiid8) | 5:21 | 2025-01-20 |  |

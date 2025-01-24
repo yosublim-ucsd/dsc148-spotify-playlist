@@ -1,6 +1,6 @@
 {
   "description": "it's just one of those days w/ Thursday",
-  "num_followers": 62274,
+  "num_followers": 62324,
   "original_name": "emo right now",
   "owner": {
     "name": "Spotify",
@@ -635,22 +635,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "The Highway Signs Will Lead to Nothing",
-        "url": "https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C"
-      },
-      "artists": [
-        {
-          "name": "Predisposed.",
-          "url": "https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X"
-        }
-      ],
-      "duration_ms": 279150,
-      "name": "The Highway Signs Will Lead to Nothing",
-      "url": "https://open.spotify.com/track/6SpavaUktNu788dew49p9U"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "Real Love",
         "url": "https://open.spotify.com/album/7gml6XKp1LJl5slOJKCSFJ"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
+        "name": "The Highway Signs Will Lead to Nothing",
+        "url": "https://open.spotify.com/album/5sxBZ51MbCmwvtonfVsA1C"
+      },
+      "artists": [
+        {
+          "name": "Predisposed.",
+          "url": "https://open.spotify.com/artist/4KIxOZRJxLKPeaFSarFk1X"
+        }
+      ],
+      "duration_ms": 279150,
+      "name": "The Highway Signs Will Lead to Nothing",
+      "url": "https://open.spotify.com/track/6SpavaUktNu788dew49p9U"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
         "name": "Southeast of Somewhere",
         "url": "https://open.spotify.com/album/37BQtdBN3a84zmgvepx64v"
       },
@@ -679,6 +679,22 @@
       "duration_ms": 190730,
       "name": "Perfect Timing",
       "url": "https://open.spotify.com/track/7wXQGcvxWxRNudVjWYAs9t"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "World Apart",
+        "url": "https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd"
+      },
+      "artists": [
+        {
+          "name": "Bike Routes",
+          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
+        }
+      ],
+      "duration_ms": 180840,
+      "name": "World Apart",
+      "url": "https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -731,22 +747,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "World Apart",
-        "url": "https://open.spotify.com/album/4m29SVaQToxqTXt8r2qNUd"
-      },
-      "artists": [
-        {
-          "name": "Bike Routes",
-          "url": "https://open.spotify.com/artist/0sBN7TbbFmFYH29xxa6VGA"
-        }
-      ],
-      "duration_ms": 180840,
-      "name": "World Apart",
-      "url": "https://open.spotify.com/track/6tAIL5bzj3hE7eWlRE2Ru6"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "Every Moment of Every Day",
         "url": "https://open.spotify.com/album/2KKOxOD55emoqgbG2l5FSW"
       },
@@ -779,22 +779,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "Stay Golden",
-        "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
-      },
-      "artists": [
-        {
-          "name": "Combat",
-          "url": "https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx"
-        }
-      ],
-      "duration_ms": 154221,
-      "name": "Full Speed Ahead",
-      "url": "https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "Permanent Resolution",
         "url": "https://open.spotify.com/album/3ixJ2tEWQXd5TykWUaU6Mp"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "DO IT FOR DALE (hope my love will quit)",
-        "url": "https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9"
+        "name": "Stay Golden",
+        "url": "https://open.spotify.com/album/3eOka6weED6Atrxap8V15u"
       },
       "artists": [
         {
-          "name": "Good Hangs",
-          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+          "name": "Combat",
+          "url": "https://open.spotify.com/artist/5ltJmbw0BHIzssTLOznjLx"
         }
       ],
-      "duration_ms": 184360,
-      "name": "DO IT FOR DALE (hope my love will quit)",
-      "url": "https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7"
+      "duration_ms": 154221,
+      "name": "Full Speed Ahead",
+      "url": "https://open.spotify.com/track/1UyoYp34XuQEfW7Id7q4Vy"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -839,6 +823,22 @@
       "duration_ms": 283986,
       "name": "Glass",
       "url": "https://open.spotify.com/track/5M7liVdPj4B9X0ZJncErme"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "DO IT FOR DALE (hope my love will quit)",
+        "url": "https://open.spotify.com/album/2UukzlfOmjhvwOvBs8z4c9"
+      },
+      "artists": [
+        {
+          "name": "Good Hangs",
+          "url": "https://open.spotify.com/artist/2a1joNabZ5FF1XpYEvgD9W"
+        }
+      ],
+      "duration_ms": 184360,
+      "name": "DO IT FOR DALE (hope my love will quit)",
+      "url": "https://open.spotify.com/track/3IN7iNZ2dZvxK60BvbTSN7"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -875,18 +875,18 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "That's OK",
-        "url": "https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl"
+        "name": "Stone",
+        "url": "https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK"
       },
       "artists": [
         {
-          "name": "Swimming",
-          "url": "https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa"
+          "name": "Clementine",
+          "url": "https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c"
         }
       ],
-      "duration_ms": 245415,
-      "name": "Sometimes Things Change",
-      "url": "https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0"
+      "duration_ms": 214447,
+      "name": "Stone",
+      "url": "https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -907,18 +907,18 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "Stone",
-        "url": "https://open.spotify.com/album/51kRAWAaOibNlUS0I58dcK"
+        "name": "That's OK",
+        "url": "https://open.spotify.com/album/6EkPXtJFGBg1jAw2ovxxOl"
       },
       "artists": [
         {
-          "name": "Clementine",
-          "url": "https://open.spotify.com/artist/7w5fod5FOdSfULpZfwvM1c"
+          "name": "Swimming",
+          "url": "https://open.spotify.com/artist/102w2ubGZNdbZSCBkcGbJa"
         }
       ],
-      "duration_ms": 214447,
-      "name": "Stone",
-      "url": "https://open.spotify.com/track/3FF9ObKa1UqIxoV2ttGOpP"
+      "duration_ms": 245415,
+      "name": "Sometimes Things Change",
+      "url": "https://open.spotify.com/track/2FEVvpf3HkEhIZMO3Gi6T0"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -1003,22 +1003,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "Black Hole",
-        "url": "https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf"
-      },
-      "artists": [
-        {
-          "name": "Goalkeeper",
-          "url": "https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n"
-        }
-      ],
-      "duration_ms": 168353,
-      "name": "Black Hole",
-      "url": "https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "All Girls Go to Heaven",
         "url": "https://open.spotify.com/album/0dU3VxFjynVOH4jjv7CySV"
       },
@@ -1031,6 +1015,22 @@
       "duration_ms": 242680,
       "name": "What I'm Feeling",
       "url": "https://open.spotify.com/track/34A5x3oPuiysfF2DD2YAvy"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "Black Hole",
+        "url": "https://open.spotify.com/album/3ZvWNjZk7kFwvM4EF5fiGf"
+      },
+      "artists": [
+        {
+          "name": "Goalkeeper",
+          "url": "https://open.spotify.com/artist/1foCMRbxVRo99EWPglSD3n"
+        }
+      ],
+      "duration_ms": 168353,
+      "name": "Black Hole",
+      "url": "https://open.spotify.com/track/2pNlprM4EeUDywzOcbIE2q"
     },
     {
       "added_at": "2025-01-02 23:00:11",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2025-01-02 23:00:11",
       "album": {
-        "name": "Cactus Song",
-        "url": "https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W"
-      },
-      "artists": [
-        {
-          "name": "Raccoon Tour",
-          "url": "https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R"
-        }
-      ],
-      "duration_ms": 182985,
-      "name": "Cactus Song",
-      "url": "https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs"
-    },
-    {
-      "added_at": "2025-01-02 23:00:11",
-      "album": {
         "name": "Fluff My Pillow",
         "url": "https://open.spotify.com/album/3nO2YsXGByVe5c5Sf78skN"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 157743,
       "name": "Fluff My Pillow",
       "url": "https://open.spotify.com/track/4SBD0bAYfLzq3ggGwRMqaR"
+    },
+    {
+      "added_at": "2025-01-02 23:00:11",
+      "album": {
+        "name": "Cactus Song",
+        "url": "https://open.spotify.com/album/4qLnXj96NMYOlH6ZjfoA8W"
+      },
+      "artists": [
+        {
+          "name": "Raccoon Tour",
+          "url": "https://open.spotify.com/artist/5mGnbFnoUYEUNE5EKnQY7R"
+        }
+      ],
+      "duration_ms": 182985,
+      "name": "Cactus Song",
+      "url": "https://open.spotify.com/track/5XLxy3qdfkkzGR5gpMFSXs"
     },
     {
       "added_at": "2025-01-02 23:00:11",

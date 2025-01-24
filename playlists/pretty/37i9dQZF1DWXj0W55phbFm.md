@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 
 > The classic trumpet players in Jazz\. Cover: Miles Davis
 
-[Spotify](https://open.spotify.com/user/spotify) - 64,422 likes - 100 songs - 10 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 64,469 likes - 100 songs - 10 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXj0W55phbFm.md) - [plain]
 | 65 | [Instigator](https://open.spotify.com/track/6JC9CimuVsxAgnagjelfmL) | [Jon Faddis](https://open.spotify.com/artist/2vDj2N0oq3W44cfteWdMUX) | [Legacy](https://open.spotify.com/album/6wEdZfcDAEMAG8N69N5BHV) | 4:45 |
 | 66 | [I Lost My Gal from Memphis](https://open.spotify.com/track/1XosTFwZmk8ZSvCoe7SsjK) | [Bubber Miley](https://open.spotify.com/artist/5HDCdQ8Z534fUX4gZI5IzT) | [Thumpin' & Bumpin' \- New York, Vol\. 2](https://open.spotify.com/album/1SL8wTpmiGszaopHkUo1Kv) | 2:59 |
 | 67 | [Stockholm Sweetnin'](https://open.spotify.com/track/2HTLAtih08iTty4hT6r8bj) | [Clifford Brown](https://open.spotify.com/artist/1HJHwWck1EY096ea2iPAHO), [Art Farmer](https://open.spotify.com/artist/4L9xEztn5PKQIO5WnI5W3u), [Swedish All Stars](https://open.spotify.com/artist/2IeJ4FAeqqVo02SS62DzoG) | [With The Swedish All Stars Vol\. 1](https://open.spotify.com/album/07IYJflVPQR4TYZ3tWOcrv) | 5:20 |
-| 68 | [Don't Get Around Much Anymore](https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6) | [Cat Anderson](https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ) | [Shine On](https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa) | 5:05 |
-| 69 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
+| 68 | [Apple House](https://open.spotify.com/track/6X797mLARJh7FngEqsDkaL) | [Tom Harrell](https://open.spotify.com/artist/3YO63Be7QxrxqBQtgKc4Oc) | [Moving Picture](https://open.spotify.com/album/3g6UX28wugOtBMsiIga6fh) | 5:12 |
+| 69 | [Don't Get Around Much Anymore](https://open.spotify.com/track/5QL2vcDP0KffZczij1AYQ6) | [Cat Anderson](https://open.spotify.com/artist/4RwKOgFBu2p7gQPTi0WkNZ) | [Shine On](https://open.spotify.com/album/1MuIJkMRNarfyyOSuXFrCa) | 5:05 |
 | 70 | [The Gift That Keeps on Giving](https://open.spotify.com/track/3IKLMhVbSKa40glkfeE9vH) | [Ron Miles](https://open.spotify.com/artist/1FTPaN9v2BFiu2LglOdZKP), [Bill Frisell](https://open.spotify.com/artist/3SONlwqLIP2GtaMh9pLYe5), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu), [Jason Moran](https://open.spotify.com/artist/7g3iwvP459BN53F7CDxemI), [Thomas Morgan](https://open.spotify.com/artist/6txzCcsy6ZKKKQLHmE3Y9L) | [I Am a Man \(with Bill Frisell, Brian Blade, Jason Moran & Thomas Morgan\)](https://open.spotify.com/album/7foEq7VyoOsDoFMVaBQz80) | 9:31 |
 | 71 | [Ande \- Digitally Remastered](https://open.spotify.com/track/4Fn60Q7QC0lKAC0jWmyP5R) | [Louis Smith](https://open.spotify.com/artist/1iQYoladduzzUciyOnjJAX) | [Here Comes Louis Smith](https://open.spotify.com/album/3mAny7ItvGWEF0EZmyxbRY) | 6:41 |
 | 72 | [Russian Melody](https://open.spotify.com/track/0tBaZxoxjql6D3LF0sOJ0r) | [Mal Waldron](https://open.spotify.com/artist/4cP0bprQSFtZdI9QEKKZA3), [Manfred Schoof](https://open.spotify.com/artist/4gBdaOEelc50MG1QmlACtu), [Steve Lacy](https://open.spotify.com/artist/1BEsuwAkTQMG50TeHB5qny) | [Hard Talk \(Live\)](https://open.spotify.com/album/4ChlCGT8tJgkGPX1FNpoMb) | 6:03 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 
 > featuring new music from Babymorocco & Frost Children
 
-[Spotify](https://open.spotify.com/user/spotify) - 465,237 likes - 184 songs - 8 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 465,239 likes - 184 songs - 8 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7HOk71GPfSw.md) - [plain]
 | 11 | [Body Organic Disco Electronic](https://open.spotify.com/track/61x4U9nM693hq6DiHBJ6N4) | [Babymorocco](https://open.spotify.com/artist/6EyzBjjCPBP7s5W8d3wMOe) | [Body Organic Disco Electronic](https://open.spotify.com/album/1sat7HT0WjqPVnMTWYeTbI) | 3:12 |
 | 12 | [Matter of Time](https://open.spotify.com/track/1vU5cy9TLV4Vd8uUURhWHq) | [umru](https://open.spotify.com/artist/2Ub06wAIR1hERODcCkKhzx), [Warpstr](https://open.spotify.com/artist/3DosMG14ckPgT9iagZbcVc) | [Matter of Time](https://open.spotify.com/album/24Bj3qVvgd26GPoen6cPOy) | 3:15 |
 | 13 | [HPPY](https://open.spotify.com/track/23v0PzHzkbddnDw43uaWFc) | [Wisdom Salad](https://open.spotify.com/artist/1zQNIxfbliyVeHMpy75kVd), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Shamsher Rana](https://open.spotify.com/artist/77XstydhnCGfW4wfVm3RRk) | [HPPY](https://open.spotify.com/album/4yHbESvSRx9MsNlSfzME1z) | 1:40 |
-| 14 | [Magic Powers](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
+| 14 | [Magic Powers With Two Shell](https://open.spotify.com/track/0ss9lkNtUr9qH7QqTDuDLp) | [Peterparker69](https://open.spotify.com/artist/1tgZVOBOut0nS8CJ5SIBh5), [Two Shell](https://open.spotify.com/artist/4mcHKwboFDmpDBQ4fiOrf3) | [Magic Powers With Two Shell](https://open.spotify.com/album/1p6fURfRIWxa3sQAkcl34m) | 2:37 |
 | 15 | [Hottie](https://open.spotify.com/track/4iD6lac3Vakcecg0hcHpP6) | [Tommy Cash](https://open.spotify.com/artist/44XzG6GoJZNtkIGW19hsUK) | [HIGH FASHION](https://open.spotify.com/album/2bgDe4lxePwqiReuDW0HFi) | 3:15 |
 | 16 | [NUMA NUMA MIKU HARDSTYLE](https://open.spotify.com/track/4dl64UyUWHugKLFzVTRpjQ) | [九GANG](https://open.spotify.com/artist/6Ug0gyqVnBzx4BoP7r3m46), [Hatsune Miku](https://open.spotify.com/artist/6pNgnvzBa6Bthsv8SrZJYl) | [NUMA NUMA MIKU HARDSTYLE](https://open.spotify.com/album/6Hck3QSdZcx6pyhL9S2Af5) | 2:57 |
 | 17 | [the laced up theory](https://open.spotify.com/track/6dpxyZUBHIOeTlG4n2CIrt) | [Moore Kismet](https://open.spotify.com/artist/50uPj85gZxHFuFOlNBnnr5) | [the laced up theory](https://open.spotify.com/album/4zeikwsYhOpoy4DtR3cvrE) | 3:53 |
